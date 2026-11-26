@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I cerchi di AQR, BRP, CPQ formano un triangolo simile a ABC*
+*Il triangolo dei centri è simile ad $ABC$*
 
-> $P$, $Q$, $R$ sono punti arbitrari sui lati $BC$, $CA$ e $AB$ rispettivamente del triangolo $ABC$. Prova che il triangolo le cui vertici sono i centri dei cerchi $AQR$, $BRP$, $CPQ$ è simile al triangolo $ABC$.
+> $P$, $Q$, $R$ sono punti arbitrari rispettivamente sui lati $BC$, $CA$, $AB$ del triangolo $ABC$. Dimostrare che il triangolo i cui vertici sono i centri delle circonferenze $AQR$, $BRP$, $CPQ$ è simile al triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1983-84_round1#q01|src_bmo_1983-84_round1__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coefficienti binomiali mod 3: i rimanenti 1 superano i rimanenti 2*
+*$a_n > b_n$ per ogni intero positivo $n$*
 
-> Che $a_n$ sia il numero dei coefficienti binomiali $\binom{n}{r}$ ($0 \le r \le n$) che lasciano il rimanente $1$ alla divisione da $3$, e che $b_n$ sia il numero che lascia il rimanente $2$. Prove che $a_n > b_n$ per tutti i numeri interi positivi $n$.
+> Sia $a_n$ il numero di coefficienti binomiali $\binom{n}{r}$ ($0 \le r \le n$) che lasciano resto $1$ nella divisione per $3$, e sia $b_n$ il numero di quelli che lasciano resto $2$. Dimostrare che $a_n > b_n$ per tutti gli interi positivi $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1983-84_round1#q02|src_bmo_1983-84_round1__Q02]]
 
 
 
@@ -83,11 +97,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riconesta la disuguaglianza dei prodotti e la disuguaglianza del rapporto ciclico con cinque variabili*
+*Due disuguaglianze, una sui fattoriali e una sui rapporti*
 
-> (i) Prove che, per tutti gli integri positivi $m$, $$\left(2 - \frac{1}{m}\right)\left(2 - \frac{3}{m}\right)\left(2 - \frac{5}{m}\right) \cdots \left(2 - \frac{2m-1}{m}\right) \le m!$$
-> 
-> (ii) dimostrare che se $a$, $b$, $c$, $d$, $e$ sono numeri reali positivi allora $$\left(\frac{a}{b}\right)^4 + \left(\frac{b}{c}\right)^4 + \left(\frac{c}{d}\right)^4 + \left(\frac{d}{e}\right)^4 + \left(\frac{e}{a}\right)^4 \ge \frac{b}{a} + \frac{c}{b} + \frac{d}{c} + \frac{e}{d} + \frac{a}{e}.$$
+> (i) Dimostrare che, per tutti gli interi positivi $m$,
+> $$\left(2 - \frac{1}{m}\right)\left(2 - \frac{3}{m}\right)\left(2 - \frac{5}{m}\right) \cdots \left(2 - \frac{2m-1}{m}\right) \le m!$$
+>
+> (ii) Dimostrare che se $a$, $b$, $c$, $d$, $e$ sono numeri reali positivi allora
+> $$\left(\frac{a}{b}\right)^4 + \left(\frac{b}{c}\right)^4 + \left(\frac{c}{d}\right)^4 + \left(\frac{d}{e}\right)^4 + \left(\frac{e}{a}\right)^4 \ge \frac{b}{a} + \frac{c}{b} + \frac{d}{c} + \frac{e}{d} + \frac{a}{e}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1983-84_round1#q03|src_bmo_1983-84_round1__Q03]]
 
 
 
@@ -114,11 +137,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le soluzioni dell'equazione del pavimento in intervallo [1, N]*
+*Il numero di soluzioni nell'intervallo $1 \le x \le N$*
 
-> $N$ sia un numero intero positivo. Determinare con prova il numero di soluzioni dell'equazione $$x^2 - [x^2] = (x - [x])^2$$ nell'intervallo $1 \le x \le N$.
-> 
-> (Per un numero reale $x$ la "parte integrale" $[x]$ è il numero intero più grande che è $\le x$.)
+> Sia $N$ un intero positivo. Determinare, con dimostrazione, il numero di soluzioni dell'equazione
+> $$x^2 - [x^2] = (x - [x])^2$$
+> che stanno nell'intervallo $1 \le x \le N$.
+>
+> (Per un numero reale $x$ la «parte intera» $[x]$ è il massimo intero che è $\le x$.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1983-84_round1#q04|src_bmo_1983-84_round1__Q04]]
 
 
 
@@ -142,9 +174,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area curva della superficie del cono obliquo sopra l'ellisse è uguale a VA/AC volte l'area dell'ellisse*
+*L'area della superficie laterale del cono obliquo è $\frac{VA}{AC}$ volte l'area di $E$*
 
-> Un piano taglia un cono circolare destro con vertice $V$ in ellisse $E$ e incontra l'asse del cono a $C$; $A$ è un'estremità dell'asse principale di $E$. Prova che l'area della superficie curva del cono inclinato con $V$ come vertice e $E$ come base è $$\frac{VA}{AC} \times (\text{area of } E).$$
+> Un piano seca un cono circolare retto di vertice $V$ in un'ellisse $E$ e incontra l'asse del cono in $C$; $A$ è un estremo dell'asse maggiore di $E$. Dimostrare che l'area della superficie laterale del cono obliquo di vertice $V$ e base $E$ è
+> $$\frac{VA}{AC} \times (\text{area of } E).$$
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1983-84_round1#q05|src_bmo_1983-84_round1__Q05]]
 
 
 
@@ -167,9 +207,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizione di divisibilità implica l'esistenza di un numero intero y con due proprietà di divisibilità*
+*Esiste un intero $y$ tale che $m$ divide sia $a^2y - a$ sia $ay^2 - y$*
 
-> Lasciate che $a$, $m$ siano numeri interi positivi. Prova che se esiste un intero $x$ tale che $a^2x - a$ sia divisibile da $m$, allora esiste un intero $y$ tale che sia $a^2y - a$ che $ay^2 - y$ siano divisibili da $m$.
+> Siano $a$, $m$ interi positivi. Dimostrare che se esiste un intero $x$ tale che $a^2x - a$ sia divisibile per $m$, allora esiste un intero $y$ tale che sia $a^2y - a$ sia $ay^2 - y$ siano divisibili per $m$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1983-84_round1#q06|src_bmo_1983-84_round1__Q06]]
 
 
 
@@ -195,6 +242,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per un quadrilaterale con un cerchio inciso, quattro quantità associate sono uguali*
+*$u_{AB} = u_{BC} = u_{CD} = u_{DA}$*
 
-> $ABCD$ è un quadrilaterale che ha un cerchio inciso. Con il lato $AB$ è associato $$u_{AB} = p_1 \sin\widehat{DAB} + p_2 \sin\widehat{ABC}$$ dove $p_1$, $p_2$ sono le perpendicolari da $A$, $B$ rispettivamente al lato opposto $CD$. Definire anche $u_{BC}$, $u_{CD}$, $u_{DA}$, utilizzando in ogni caso le perpendicolari verso il lato opposto. Indicare che $$u_{AB} = u_{BC} = u_{CD} = u_{DA}.$$
+> $ABCD$ è un quadrilatero che ha una circonferenza inscritta. Al lato $AB$ si associa
+> $$u_{AB} = p_1 \sin\widehat{DAB} + p_2 \sin\widehat{ABC}$$
+> dove $p_1$, $p_2$ sono le perpendicolari da $A$, $B$ rispettivamente al lato opposto $CD$. Si definiscano analogamente $u_{BC}$, $u_{CD}$, $u_{DA}$, usando in ciascun caso le perpendicolari al lato opposto. Dimostrare che
+> $$u_{AB} = u_{BC} = u_{CD} = u_{DA}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1983-84_round1#q07|src_bmo_1983-84_round1__Q07]]

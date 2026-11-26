@@ -30,11 +30,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con ceviani simultanei; prova uguale angolo*
+*Triangolo con ceviane concorrenti; dimostrare l'uguaglianza degli angoli*
 
-> Lasciate che $ABC$ sia un triangolo. I segmenti $D$, $E$, $F$ siano punti rispettivamente sui segmenti $BC$, $CA$, $AB$ in modo tale che $AD$, $BE$, $CF$ siano convergenti al punto $K$. Supponiamo $BD/DC = BF/FA$ e $\angle ADB = \angle AFC$. Prove che $\angle ABE = \angle CAD$.
+> Sia $ABC$ un triangolo. Siano $D$, $E$, $F$ dei punti rispettivamente sui segmenti $BC$, $CA$, $AB$ tali che $AD$, $BE$, $CF$ concorrano nel punto $K$. Si supponga che $BD/DC = BF/FA$ e $\angle ADB = \angle AFC$. Dimostrare che $\angle ABE = \angle CAD$.
 
 ![[src_rmo_2011__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2011#q01|src_rmo_2011__Q01]]
 
 
 
@@ -57,9 +63,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazione del 1..2011; mostrare due indici con uguale differenza assoluta*
+*Permutazione di 1..2011; mostra due indici con differenza assoluta uguale*
 
-> Let $(a_1, a_2, \ldots, a_{2011})$ essere una permutazione (cioè una riorganizzazione) dei numeri $1, 2, 3, \ldots, 2011$. Indicare che esistono due numeri $j, k$, quali $1 \le j < k \le 2011$ e $|a_j - j| = |a_k - k|$.
+> Sia $(a_1, a_2, \ldots, a_{2011})$ una permutazione (ossia una riorganizzazione) dei numeri $1, 2, 3, \ldots, 2011$. Dimostrare che esistono due numeri $j, k$ tali che $1 \le j < k \le 2011$ e $|a_j - j| = |a_k - k|$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2011#q02|src_rmo_2011__Q02]]
 
 
 
@@ -82,9 +95,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Squadrati perfetti consecutivi; dimostrare che n-kl è un quadrato perfetto*
+*Quadrati perfetti consecutivi; dimostrare che n-kl è un quadrato perfetto*
 
-> Un numero naturale $n$ è scelto rigorosamente tra due quadrati perfetti consecutivi. Il più piccolo di questi due quadrati si ottiene sottraendo $k$ da $n$ e il più grande si ottiene aggiungendo $l$ a $n$. Prova che $n - kl$ è un quadrato perfetto.
+> Viene scelto un numero naturale $n$ che è strettamente compreso tra due quadrati perfetti consecutivi. Il più piccolo dei due quadrati si ottiene sottraendo $k$ da $n$, mentre il più grande si ottiene sommando $l$ a $n$. Dimostrare che $n - kl$ è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2011#q03|src_rmo_2011__Q03]]
 
 
 
@@ -109,11 +129,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triplice di vertici ammissibili in un poligono converso a 20 lati*
+*Conta le terne ammissibili di vertici in un poligono convesso con 20 lati*
 
-> Considera un poligono convex a 20 lati $K$, con vertici $A_1, A_2, \ldots, A_{20}$ in tale ordine. Trovare il numero di modi in cui tre lati di $K$ possono essere scelti in modo che ogni coppia tra loro abbia almeno due lati di $K$ tra loro. (ad esempio $(A_1 A_2, A_4 A_5, A_{11} A_{12})$ è un triplo ammissibile mentre $(A_1 A_2, A_4 A_5, A_{19} A_{20})$ non lo è.)
+> Si consideri un poligono convesso con 20 lati $K$, i cui vertici sono $A_1, A_2, \ldots, A_{20}$ nell'ordine indicato. Determinare il numero di modi in cui si possono scegliere tre lati di $K$ in modo che ogni coppia di tali lati abbia almeno due lati di $K$ tra di essi. (Ad esempio, $(A_1 A_2, A_4 A_5, A_{11} A_{12})$ è una terna ammissibile, mentre $(A_1 A_2, A_4 A_5, A_{19} A_{20})$ non lo è.)
 
 ![[src_rmo_2011__q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2011#q04|src_rmo_2011__Q04]]
 
 
 
@@ -138,11 +165,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con bisettori angolari e punto tangente incircolo; prova FE=AD*
+*Triangolo con le bisettrici degli angoli e il punto di tangenza con l'incircoscritto; dimostrare che FE=AD*
 
-> Che $ABC$ sia un triangolo e che $BB_1$, $CC_1$ siano rispettivamente i bisettori di $\angle B$, $\angle C$ con $B_1$ su $AC$ e $C_1$ su $AB$. I piedi perpendicolari $E$ e $F$ devono essere tracciati rispettivamente da $A$ a $BB_1$ e $CC_1$. Supponiamo che $D$ sia il punto in cui l'incircolo di $ABC$ tocca $AB$. Prova che $AD = FE$.
+> Sia $ABC$ un triangolo e siano $BB_1$, $CC_1$ rispettivamente le bisettrici di $\angle B$, $\angle C$, con $B_1$ su $AC$ e $C_1$ su $AB$. Siano $E$, $F$ i piedi delle perpendicolari condotte da $A$ alle rette $BB_1$, $CC_1$ rispettivamente. Si supponga che $D$ sia il punto in cui l'incircolo di $ABC$ tocca $AB$. Dimostrare che $AD = FE$.
 
 ![[src_rmo_2011__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2011#q05|src_rmo_2011__Q05]]
 
 
 
@@ -165,6 +199,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie reali (x,y) che soddisfano un'equazione esponenziale*
+*Trovare tutte le coppie di numeri reali (x,y) che soddisfano un'equazione esponenziale*
 
-> Trovare tutte le coppie $(x, y)$ di numeri reali tali che $$16^{x^2+y} + 16^{x+y^2} = 1.$$
+> Find all pairs $(x, y)$ of real numbers such that $$16^{x^2+y} + 16^{x+y^2} = 1.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2011#q06|src_rmo_2011__Q06]]

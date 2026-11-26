@@ -35,15 +35,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserire n×n griglia con 14 in modo che ogni cella abbia esattamente un vicino con lo stesso numero*
+*Riempi una griglia n×n con i numeri da 1 a 4 in modo che ogni cella abbia esattamente un vicino con lo stesso numero*
 
-> In ogni cella di una griglia $n \times n$ posizionamo uno dei numeri $1, 2, 3, 4$, in modo tale che ogni cella abbia esattamente una cella vicina con lo stesso numero. È possibile fare questo quando
-> 
+> In ogni cella di una griglia $n \times n$ inseriamo uno dei numeri $1, 2, 3, 4$, in modo che ogni cella abbia esattamente una cella adiacente con lo stesso numero. È possibile farlo quando
+>
 > (a) $n = 2007$?
-> 
+>
 > (b) $n = 2008$?
-> 
-> **Nota.** Due celle sono vicine se condividono un lato.
+>
+> **Note.** Due celle sono vicine se condividono un lato.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n2_f3#q01|src_obm_2007_n2_f3__Q01]]
 
 
 
@@ -66,9 +73,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono converso equalaterale: due angoli che sommano a 180° implicano che il piano*
+*Pentagono convesso equilatero: due angoli la cui somma è 180° implica che ricopre il piano*
 
-> Che $P$ sia un pentagono convexo con tutti i lati uguali. Prova che se due degli angoli di $P$ sommano a $180^\circ$, allora è possibile tessere il piano con copie di $P$, senza sovrapposizioni.
+> Sia $P$ un pentagono convesso con tutti i lati uguali. Dimostrare che, se due degli angoli di $P$ sommano a $180^\circ$, allora è possibile ricoprire il piano con copie di $P$, senza sovrapposizioni.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n2_f3#q02|src_obm_2007_n2_f3__Q02]]
 
 
 
@@ -93,9 +107,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove infinitamente molti interi positivi n rendere (5^(n-2)-1)/n un intero*
+*Ci sono infiniti interi positivi n tali che (5^(n-2)-1)/n è un numero intero*
 
-> Prova che esistono infinitamente molti interi positivi $n$ in modo tale che $$\frac{5^{n-2}-1}{n}$$ sia un intero.
+> Dimostrare che esistono infiniti interi positivi $n$ tali che
+> $$\frac{5^{n-2}-1}{n}$$
+> è un numero intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n2_f3#q03|src_obm_2007_n2_f3__Q03]]
 
 
 
@@ -118,9 +141,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I valori p,q con (p2+q2)/(p+q) interi indicano che il valore è primo*
+*I numeri primi p,q per cui (p²+q²)/(p+q) è un intero implicano che il valore è primo*
 
-> Mostrare che se $p, q$ sono interi primi positivi in modo che $r = \dfrac{p^2 + q^2}{p + q}$ sia un intero, allora $r$ è primo.
+> Dimostrare che, se $p, q$ sono interi primi positivi tali che $r = \dfrac{p^2 + q^2}{p + q}$ è un intero, allora $r$ è primo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n2_f3#q04|src_obm_2007_n2_f3__Q04]]
 
 
 
@@ -145,9 +175,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto con AB/√2 = BH = OB: trovare tutti gli angoli*
+*Triangolo acuto con AB/√2 = BH = OB: determina tutti gli angoli*
 
-> Che $ABC$ sia un triangolo acuto e che $O$, $H$ siano rispettivamente il suo circoncentro e l'ortocentro. Dato che $$\frac{AB}{\sqrt{2}} = BH = OB,$$ trova gli angoli del triangolo $ABC$.
+> Sia $ABC$ un triangolo acutangolo e siano $O$, $H$ rispettivamente il suo circocentro e l'ortocentro. Dato che
+> $$\frac{AB}{\sqrt{2}} = BH = OB,$$
+> Trovare gli angoli del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n2_f3#q05|src_obm_2007_n2_f3__Q05]]
 
 
 
@@ -172,8 +211,15 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Finire il set A con \S \D \A) ≤10^97 e \A) ≥10^100*
+*Insieme finito A con |S(A)|≤10^97 e |D(A)|≥10^100*
 
-> $A$ sia un insieme di numeri interi. Definire $S(A)$ come l'insieme di tutte le somme di due elementi di $A$ (non necessariamente distinti) e $D(A)$ come l'insieme di tutte le differenze di due elementi di $A$ (non necessariamente distinti). Per esempio, se $A = \{1, 2, 3, 10\}$, allora $S(A) = \{2, 3, 4, 5, 6, 11, 12, 13, 20\}$ e $D(A) = \{-9, -8, -7, -2, -1, 0, 1, 2, 7, 8, 9\}$.
-> 
-> Indicare che esiste un insieme finito $A$ tale che $S(A)$ abbia al massimo $10^{97}$ elementi e $D(A)$ abbia almeno $10^{100}$ elementi.
+> Sia $A$ un insieme di interi. Si definisca $S(A)$ come l'insieme di tutte le somme di due elementi di $A$ (non necessariamente distinti) e $D(A)$ come l'insieme di tutte le differenze di due elementi di $A$ (non necessariamente distinti). Ad esempio, se $A = \{1, 2, 3, 10\}$, allora $S(A) = \{2, 3, 4, 5, 6, 11, 12, 13, 20\}$ e $D(A) = \{-9, -8, -7, -2, -1, 0, 1, 2, 7, 8, 9\}$.
+>
+> Dimostrare che esiste un insieme finito $A$ tale che $S(A)$ ha al più $10^{97}$ elementi e $D(A)$ ha almeno $10^{100}$ elementi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n2_f3#q06|src_obm_2007_n2_f3__Q06]]

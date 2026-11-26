@@ -31,11 +31,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
+*Tre dadi ravvicinati sul tavolo: trova la somma delle tre facce nascoste*
 
-> Paulo ha tre dadi con le stesse marcature, in modo che su ogni dado la somma dei numeri su facce opposte sia sempre $7$. Colla i dadi insieme in modo che ogni coppia di volti che si toccano abbia lo stesso numero, e poi li pone su un tavolo trasparente come mostrato nella figura. La somma di tutti i numeri sulle undici facce visibili è $36$. Qual è la somma dei numeri sulle tre facce che sono in contatto con la tavola?
+> Paulo ha tre dadi con le stesse incisioni, in modo che su ciascun dado la somma dei numeri sulle facce opposte sia sempre $7$. Incolla i dadi tra loro in modo che ogni coppia di facce a contatto abbia lo stesso numero, poi li posiziona su un tavolo trasparente come mostrato nella figura. La somma di tutti i numeri sulle undici facce visibili è $36$. Qual è la somma dei numeri sulle tre facce a contatto con il tavolo?
 
 ![[src_obm_2000_n1_f3__q01.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n1_f3#q01|src_obm_2000_n1_f3__Q01]]
 
 
 
@@ -60,11 +67,18 @@ Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra che un triangolo equilaterale può essere tagliato in 20 triangoli equilaterali più piccoli*
+*Mostra che un triangolo equilatero può essere tagliato in 20 triangoli equilateri più piccoli*
 
-> Un triangolo equilaterale può essere tagliato in triangoli equilaterali più piccoli. La figura seguente mostra come tagliare un triangolo equilaterale in triangoli equilaterali più piccoli $7$. Indicare come tagliare un triangolo equilaterale in $20$ triangoli equilaterali più piccoli.
+> Un triangolo equilatero può essere tagliato in triangoli equilateri più piccoli. La figura sottostante mostra come tagliare un triangolo equilatero in $7$ triangoli equilateri più piccoli. Mostra come tagliare un triangolo equilatero in $20$ triangoli equilateri più piccoli.
 
 ![[src_obm_2000_n1_f3__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n1_f3#q02|src_obm_2000_n1_f3__Q02]]
 
 
 
@@ -87,9 +101,16 @@ Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due mazze di carte: organizzare 100 carte a faccia in giù con tutti i numeri 1100*
+*Due mazzi di carte: disponi 100 carte a faccia in giù, in modo che appaiano tutti i numeri da 1 a 100*
 
-> Isabel ha due mazzi, ognuno con carte $50$. In ciascuno dei due mazzi sono scritti i numeri da $1$ a $100$, un numero su ciascuna faccia delle carte (cioè due numeri per carta). A causa di un difetto di stampa, la distribuzione dei numeri delle schede non è uguale in entrambi i mazzi (ad esempio, in un mazzo il numero $1$ appare sulla stessa scheda come $2$; nell'altro, $1$ appare con $0$). Mostrare come Isabel può organizzare le carte $100$ a faccia in giù su un tavolo in modo che, quando le carte sono rivolte a faccia in su, vengono mostrati tutti i numeri da $1$ a $100$.
+> Isabel ha due mazzi, ciascuno con $50$ carte. In ciascuno dei due mazzi, sui lati delle carte sono scritti i numeri da $1$ a $100$, un numero per lato (quindi due numeri per carta). A causa di un difetto di stampa, la distribuzione dei numeri sulle carte non è la stessa nei due mazzi (per esempio, in un mazzo il numero $1$ compare sulla stessa carta di $2$; nell'altro, $1$ compare insieme a $0$). Mostra come Isabel può disporre le $100$ carte a faccia in giù sul tavolo in modo che, quando le carte vengono girate a faccia in su, compaiano tutti i numeri da $1$ a $100$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n1_f3#q03|src_obm_2000_n1_f3__Q03]]
 
 
 
@@ -115,8 +136,15 @@ Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
 <div class="qlang-split" data-lang="it"></div>
 
 
-*5×5 tabella con i numeri 125; trovare tutte le somme possibili dopo lo scambio di segni*
+*Tabella 5×5 con i numeri da 1 a 25; trova tutte le somme possibili dopo gli scambi di segno*
 
-> Considera la seguente tabella $5 \times 5$ con i numeri da $1$ a $25$: $$\begin{array}{|c|c|c|c|c|}\hline 1 & 2 & 3 & 4 & 5 \\ \hline 6 & 7 & 8 & 9 & 10 \\ \hline 11 & 12 & 13 & 14 & 15 \\ \hline 16 & 17 & 18 & 19 & 20 \\ \hline 21 & 22 & 23 & 24 & 25 \\ \hline \end{array}$$ In ogni riga orizzontale e in ogni colonna verticale, cambiamo il segno dei numeri $2$, in modo che successivamente ogni riga e ogni colonna contengano esattamente $3$ numeri positivi e $2$ numeri negativi. Calcolare tutti i valori possibili della somma risultante di tutte le voci della tabella.
+> Si consideri la seguente tabella $5 \times 5$ riempita con i numeri da $1$ a $25$:
+> $$\begin{array}{|c|c|c|c|c|}\hline 1 & 2 & 3 & 4 & 5 \\ \hline 6 & 7 & 8 & 9 & 10 \\ \hline 11 & 12 & 13 & 14 & 15 \\ \hline 16 & 17 & 18 & 19 & 20 \\ \hline 21 & 22 & 23 & 24 & 25 \\ \hline \end{array}$$
+> In ogni riga orizzontale e in ogni colonna verticale, cambiamo il segno dei numeri $2$, in modo che successivamente ogni riga e ogni colonna contenga esattamente $3$ numeri positivi e $2$ numeri negativi. Calcola tutti i valori possibili della somma risultante di tutti gli elementi presenti nella tabella.
 
-**Risposta:** 65
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n1_f3#q04|src_obm_2000_n1_f3__Q04]]

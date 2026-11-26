@@ -32,11 +32,19 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max di sin 2x e disuguaglianza di prodotto*
+*Massimo di |sin²x · sin 2x| e disuguaglianza del prodotto*
 
-> **a) ** Determinare il valore massimo possibile di $|\sin^2(x) \cdot \sin(2x)|$ per $x \in \mathbb{R}$.
-> 
-> **b) ** Dimostra che per ogni intero positivo $k$, se $x = \dfrac{2\pi r}{2^k - 1}$ con $r \in \mathbb{Z}$, allora $$\prod_{j=0}^{k-1} |\sin(2^j x)| = |\sin(x) \cdot \sin(2x) \cdots \sin(2^{k-1} x)| \le \left(\frac{\sqrt{3}}{2}\right)^k.$$
+> **a)** Determina il valore massimo possibile di $|\sin^2(x) \cdot \sin(2x)|$ per $x \in \mathbb{R}$.
+>
+> **b)** Dimostrare che, per ogni numero intero positivo $k$, se $x = \dfrac{2\pi r}{2^k - 1}$ con $r \in \mathbb{Z}$, allora
+> $$\prod_{j=0}^{k-1} |\sin(2^j x)| = |\sin(x) \cdot \sin(2x) \cdots \sin(2^{k-1} x)| \le \left(\frac{\sqrt{3}}{2}\right)^k.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_obm_2012_nu_f1#q01|src_obm_2012_nu_f1__Q01]]
 
 
 
@@ -65,11 +73,18 @@ level: OBM Nível Universitário
 
 *Proprietà di f(x)=(e^x−1)^(1/x) per x>0*
 
-> Considera la funzione $f(x) = \left(e^x - 1\right)^{1/x}$, definita per $x > 0$.
-> 
-> **a) ** Mostra che $f(x)$ sta aumentando rigorosamente.
-> 
-> **b) ** $V(y)$ deve essere definito da $V(y) = x$ se e solo se $f(x) = y$. Dato $0 < a < b < c$, numeri reali, si considera l'equazione $a^b + b^a = c^c$. Esprimere $x$ in termini di $a$, $b$ e $c$ usando funzioni elementari e $V$.
+> Si consideri la funzione $f(x) = \left(e^x - 1\right)^{1/x}$, definita per $x > 0$.
+>
+> **a)** Dimostrare che $f(x)$ è strettamente crescente.
+>
+> **b)** Sia $V(y)$ definito da $V(y) = x$ se e solo se $f(x) = y$. Dati $0 < a < b < c$, numeri reali, si consideri l'equazione $a^b + b^a = c^c$. Si esprima $x$ in termini di $a$, $b$ e $c$ utilizzando funzioni elementari e $V$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2012_nu_f1#q02|src_obm_2012_nu_f1__Q02]]
 
 
 
@@ -92,9 +107,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizione di divisibilità polinomica via g(x) ^ m*
+*Condizione di divisibilità polinomiale tramite g(x)^m*
 
-> Lasciate che $f(x)$ e $g(x) \in \mathbb{R}[x]$ siano polinomi non costanti e $m$, $n$ interi positivi. Indicare che $y^n - f(x)$ divide $y^n - g(x)$ in $\mathbb{R}[x, y]$ se e solo se $m$ divide $n$ e $g(x) = f(x)^{n/m}$.
+> Siano $f(x)$ e $g(x) \in \mathbb{R}[x]$ polinomi non costanti, e siano $m$, $n$ interi positivi. Dimostrare che $y^n - f(x)$ divide $y^n - g(x)$ in $\mathbb{R}[x, y]$ se e solo se $m$ divide $n$ e $g(x) = f(x)^{n/m}$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2012_nu_f1#q03|src_obm_2012_nu_f1__Q03]]
 
 
 
@@ -117,9 +139,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova la k più piccola con x_k > y_2012 per due sequenze*
+*Trovare il più piccolo k tale che x_k > y_2012 per due successioni*
 
-> Le sequenze $(x_n)$ e $(y_n)$ siano due sequenze definite da $x_1 = 2$, $y_1 = 2012$, $x_{n+1} = (x_n)!$ e $y_{n+1} = (y_n)!$ per tutte le $n \ge 1$. Determinare il numero intero positivo più piccolo $k$ tale che $x_k > y_{2012}$.
+> Siano $(x_n)$ e $(y_n)$ due successioni definite da $x_1 = 2$, $y_1 = 2012$, $x_{n+1} = (x_n)!$ e $y_{n+1} = (y_n)!$, per ogni $n \ge 1$. Determinare il più piccolo intero positivo $k$ tale che $x_k > y_{2012}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_nu_f1#q04|src_obm_2012_nu_f1__Q04]]
 
 
 
@@ -142,9 +171,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare matrici M_i con A^4 = M_i tra tre matrici date*
+*Conta le matrici M_i tali che A^4 = M_i tra tre matrici date*
 
-> In questo caso, si deve indicare il valore di $M_1 = \begin{pmatrix} 2 & 1 \\ 1 & 2 \end{pmatrix}$, $M_2 = \begin{pmatrix} 2 & 1 \\ 0 & 2 \end{pmatrix}$, $M_3 = \begin{pmatrix} 2 & 0 \\ 0 & 2 \end{pmatrix}$. Per ciascuna delle matrici $M_i$ ($i = 1, 2, 3$), determinare quante matrici $A$ esistono in modo tale che $A^4 = M_i$.
+> Siano $M_1 = \begin{pmatrix} 2 & 1 \\ 1 & 2 \end{pmatrix}$, $M_2 = \begin{pmatrix} 2 & 1 \\ 0 & 2 \end{pmatrix}$, $M_3 = \begin{pmatrix} 2 & 0 \\ 0 & 2 \end{pmatrix}$. Per ciascuna delle matrici $M_i$ ($i = 1, 2, 3$), determinare quanti matrici $A$ esistono tali che $A^4 = M_i$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2012_nu_f1#q05|src_obm_2012_nu_f1__Q05]]
 
 
 
@@ -167,6 +203,13 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valori di a per i quali la regione della sequenza di parabole ha una superficie infinita*
+*Valori di a per cui la regione della successione di parabole ha area infinita*
 
-> Considera la parabola formata dai punti $(x, x^2)$, $x \in \mathbb{R}$ e la sequenza $(x_n)_{n \ge 0}$ data da $x_n = n^\alpha$, dove $\alpha > 0$ è una costante reale fissa. Si consideri la regione formata dai punti che si trovano a destra dell'asse verticale ($x = 0$), sotto la parabola e sopra le linee tangenti alla parabola nei punti $(x_n, x_n^2)$, $n \ge 0$. Per quali valori di $\alpha$ questa regione ha una superficie infinita?
+> Si consideri la parabola formata dai punti $(x, x^2)$, $x \in \mathbb{R}$, e la successione $(x_n)_{n \ge 0}$ data da $x_n = n^\alpha$, dove $\alpha > 0$ è una costante reale fissa. Si consideri la regione formata dai punti che si trovano a destra dell'asse verticale ($x = 0$), al di sotto della parabola e al di sopra delle rette tangenti alla parabola nei punti $(x_n, x_n^2)$, $n \ge 0$. Per quali valori di $\alpha$ questa regione ha area infinita?
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2012_nu_f1#q06|src_obm_2012_nu_f1__Q06]]

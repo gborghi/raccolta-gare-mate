@@ -30,11 +30,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta un intero positivo di 6 doppi con ordine rigoroso e pari somme in coppia 22*
+*Numero di 6-uple di interi positivi con due condizioni*
 
-> Trova il numero di 6 tupli $(a,b,c,d,e,f)$ di numeri interi positivi soddisfaci $a > b > c > d > e > f$ e $a + f = b + e = c + d = 22$.
+> Trovare il numero di 6-uple $(a,b,c,d,e,f)$ di interi positivi che soddisfano $a > b > c > d > e > f$ e $a + f = b + e = c + d = 22$.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 4
+[[Quesiti/src_jmo20yq_yosen#q01|src_jmo20yq_yosen__Q01]]
 
 
 
@@ -58,11 +62,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medio di numeri interi da 0 a 10000 la cui rappresentazione decimale evita la cifra 1*
+*Media degli interi in un intervallo che non contengono una data cifra*
 
-> Trova la media di tutti gli enti tra $0$ e $10000$ (inclusi) la cui rappresentazione decimale non contiene la cifra $1$.
+> Trovare la media di tutti gli interi compresi tra $0$ e $10000$ (estremi inclusi) la cui rappresentazione decimale non contiene la cifra $1$.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 2469
+[[Quesiti/src_jmo20yq_yosen#q02|src_jmo20yq_yosen__Q02]]
 
 
 
@@ -86,11 +94,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max GCD di tutte e sei le permutazioni di un numero a 3 cifre con cifre distinte non a zero*
+*Massimo MCD delle sei permutazioni delle cifre di un intero di tre cifre*
 
-> Che $n$ sia un intero positivo a 3 cifre, tutti i cui numeri sono distinti e non zero. Che $g$ sia il più grande divisore comune di tutti e sei i numeri a 3 cifre ottenuti permutando i numeri di $n$. Trova il valore massimo possibile di $g$.
+> Sia $n$ un intero positivo di 3 cifre, tutte distinte e non nulle. Sia $g$ il massimo comun divisore di tutti e sei i numeri di 3 cifre ottenuti permutando le cifre di $n$. Trovare il massimo valore possibile di $g$.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Risposta:** 18
+[[Quesiti/src_jmo20yq_yosen#q03|src_jmo20yq_yosen__Q03]]
 
 
 
@@ -113,9 +125,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti i valori possibili di BP - DP di un quadrilaterale ciclico con segmenti diagonali dati*
+*Valori possibili di un segmento in un quadrilatero inscritto*
 
-> Il quadrilaterale $ABCD$ è inserito in un cerchio di raggio $1$ e l'angolo tra le due diagonali è $60^\circ$. Il punto di intersezione di $P$ è il punto di intersezione dei diagonali $AC$ e $BD$. Date $AP = \dfrac{1}{2}$ e $CP = \dfrac{3}{2}$, trovare tutti i possibili valori di $|BP - DP|$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Il quadrilatero $ABCD$ è inscritto in una circonferenza di raggio $1$, e l'angolo fra le due diagonali è $60^\circ$. Sia $P$ il punto di intersezione delle diagonali $AC$ e $BD$. Dati $AP = \dfrac{1}{2}$ e $CP = \dfrac{3}{2}$, trovare tutti i valori possibili di $|BP - DP|$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo20yq_yosen#q04|src_jmo20yq_yosen__Q04]]
 
 
 
@@ -138,9 +155,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triangoli ABC (fino alla rietichettatura delle verte) con tutti gli angoli interiori interiori*
+*Triangoli con angoli multipli interi di un dato angolo, a meno di permutazione*
 
-> Trova il numero di triangoli $ABC$ i cui tre angoli interni sono tutti multipli interi di $1^\circ$. Due triangoli che differiscono solo per una permutazione delle etichette $A$, $B$, $C$ (cioè che hanno lo stesso multiset di angoli) vengono contati come uguali.
+> Trovare il numero di triangoli $ABC$ i cui tre angoli interni sono tutti multipli interi di $1^\circ$. Due triangoli che differiscono solo per una permutazione delle etichette $A$, $B$, $C$ (cioè che hanno lo stesso multinsieme di angoli) si contano come uno solo.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo20yq_yosen#q05|src_jmo20yq_yosen__Q05]]
 
 
 
@@ -164,11 +186,21 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Configurazioni di ponte di conteggio tra 9 uccelli colorati insulari che soddisfano due condizioni del grafico*
+*Modi di costruire ponti tra isole di uccelli di tre colori*
 
-> Ci sono $3$ uccelli rossi, $3$ uccelli blu e $3$ uccelli gialli, ciascuno sulla propria isola (il che dà $9$ isole in totale). I ponti tra le isole devono essere costruiti soddisfacendo le seguenti due condizioni: tra le due isole c'è al massimo un ponte; per ogni ponte, i due uccelli nei suoi punti di fine sono di colori diversi. Per due uccelli dello stesso colore, le loro isole non sono collegate da alcun percorso di ponti (cioè, sono in componenti collegati diversi). (La configurazione senza ponti conta come $1$.)
+> Ci sono $3$ uccelli rossi, $3$ uccelli blu e $3$ uccelli gialli, ciascuno sulla propria isola ($9$ isole in tutto). Si devono costruire ponti tra le isole che soddisfino le due condizioni seguenti:
+>
+> $\bullet$ Tra due isole qualunque c'è al più un ponte; per ogni ponte, i due uccelli agli estremi hanno colori diversi.
+>
+> $\bullet$ Per due uccelli qualunque dello stesso colore, le loro isole non sono collegate da alcun cammino di ponti (stanno in componenti connesse diverse).
+>
+> In quanti modi si possono costruire i ponti? (La configurazione senza ponti conta come $1$.)
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Analisi per casi accurata]]
 **Risposta:** 54
+[[Quesiti/src_jmo20yq_yosen#q06|src_jmo20yq_yosen__Q06]]
 
 
 
@@ -191,9 +223,20 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valore massimo di a_0 in sequenza di numeri interi positivi con divisibilità e differenze limitate*
+*Massimo valore possibile in una successione di interi positivi*
 
-> Una sequenza infinita di interi positivi $a_0, a_1, a_2, \ldots$ soddisfa le seguenti due condizioni per ogni intero non negativo $n$:\n\n$\bullet$ $a_0$ divide $a_n$.\n\n$\bullet$ $|a_n - a_{n+1}| \le 5$.\n\nRicerca il valore massimo possibile di $a_0$.
+> Una successione infinita di interi positivi $a_0, a_1, a_2, \ldots$ soddisfa le due condizioni seguenti per ogni intero non negativo $n$:
+>
+> $\bullet$ $a_0$ divide $a_n$.
+>
+> $\bullet$ $|a_n - a_{n+1}| \le 5$.
+>
+> Trovare il massimo valore possibile di $a_0$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo20yq_yosen#q07|src_jmo20yq_yosen__Q07]]
 
 
 
@@ -216,9 +259,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'area del triangolo ABC con il punto interno P, date le distanze AP, BP, CP e angolo BAC*
+*Area di un triangolo dato un punto interno e alcune lunghezze*
 
-> C'è un punto $P$ all'interno del triangolo $ABC$. Poiché $AP = \sqrt{3}$, $BP = 5$, $CP = 2$, $AB : AC = 2 : 1$ e $\angle BAC = 60^\circ$, si trova l'area del triangolo $ABC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> C'è un punto $P$ interno al triangolo $ABC$. Sapendo che $AP = \sqrt{3}$, $BP = 5$, $CP = 2$, $AB : AC = 2 : 1$ e $\angle BAC = 60^\circ$, trovare l'area del triangolo $ABC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo20yq_yosen#q08|src_jmo20yq_yosen__Q08]]
 
 
 
@@ -241,9 +289,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Arrangamenti di fila di calcoli bianchi e neri del 2010 con un numero impar di coppie adiacenti di calcoli bianchi e di calcoli neri*
+*Disposizioni di pietre bianche e nere con un numero dispari di coppie bianco-nero*
 
-> In quanti modi le pietre bianche $2010$ e le pietre nere $2010$ possono essere disposte in una singola riga in modo tale che la seguente condizione sia valida?\n\nCondizione: Il numero di coppie adiacenti (posizioni consecutive) in cui la pietra bianca è immediatamente a sinistra della pietra nera è strano.
+> In quanti modi si possono disporre $2010$ pietre bianche e $2010$ pietre nere in un'unica fila in modo che valga la condizione seguente?
+>
+> Condizione: il numero di coppie adiacenti (posizioni consecutive) in cui la pietra bianca è immediatamente a sinistra della pietra nera è dispari.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo20yq_yosen#q09|src_jmo20yq_yosen__Q09]]
 
 
 
@@ -266,9 +321,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa massima di n^2 data la somma di n è pari a 5*
+*Massima somma delle cifre in una data base*
 
-> Per un intero positivo $n$, $S(n)$ indica la somma delle cifre di $n$ nella base $10$. Dato che $S(n) = 5$, trovare il valore massimo possibile di $S(n^2)$.
+> Per un intero positivo $n$, sia $S(n)$ la somma delle cifre di $n$ in base $10$. Sapendo che $S(n) = 5$, trovare il massimo valore possibile di $S(n^2)$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo20yq_yosen#q10|src_jmo20yq_yosen__Q10]]
 
 
 
@@ -291,9 +351,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Find angle APC in quadrilaterale con angoli dati e una condizione di punto di rapporto punto medio*
+*Misura di un angolo in un quadrilatero, dati i punti medi*
 
-> In quadrilaterali $ABCD$, $\angle DAB = 110^\circ$, $\angle ABC = 50^\circ$, $\angle BCD = 70^\circ$. $M$ e $N$ siano rispettivamente i punti intermedi di $AB$ e $CD$. Prendere un punto $P$ sul segmento $MN$ in modo tale che $AM : CN = MP : NP$ e $AP = CP$. Trova la misura di $\angle APC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Nel quadrilatero $ABCD$, $\angle DAB = 110^\circ$, $\angle ABC = 50^\circ$, $\angle BCD = 70^\circ$. Siano $M$ e $N$ i punti medi di $AB$ e $CD$ rispettivamente. Si prenda un punto $P$ sul segmento $MN$ tale che $AM : CN = MP : NP$ e $AP = CP$. Trovare la misura di $\angle APC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo20yq_yosen#q11|src_jmo20yq_yosen__Q11]]
 
 
 
@@ -316,6 +381,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maxime nuove rotte aperte dopo la chiusura di un ponte in una rete di alberi di nodo 2010*
+*Massimo numero di nuove rotte da aprire dopo la chiusura di un volo diretto*
 
-> Ci sono aeroporti $2010$. Alcune coppie di aeroporti sono collegate da voli diretti bidirezionali, che soddisfano le seguenti due condizioni: 1) Per due aeroporti $A$ e $B$, si può viaggiare da $A$ a $B$ utilizzando uno o più voli diretti. Le nuove rotte dirette (che differiscono da quelle chiuse, e ciascuna è un volo bidirezionale) vengono quindi aperte una per una in modo da soddisfare di nuovo le condizioni (1) e (2). Trovare il numero massimo possibile di nuove rotte da aprire.\n\nNota: Un volo diretto da aeroporto $X$ a aeroporto $Y$ serve anche come volo diretto da $Y$ a $X$.
+> Ci sono $2010$ aeroporti. Alcune coppie di aeroporti sono collegate da voli diretti nei due sensi, e valgono le due condizioni seguenti:
+>
+> (1) Per due aeroporti qualunque $A$ e $B$, si può andare da $A$ a $B$ con uno o più voli diretti.
+>
+> (2) Chiudere un qualunque volo diretto aperto farebbe fallire la condizione (1).
+>
+> Un giorno si chiude una delle rotte aperte. Si aprono poi, una dopo l'altra, nuove rotte dirette (ciascuna diversa da quella chiusa, e ciascuna un volo nei due sensi) in modo che le condizioni (1) e (2) tornino a valere. Trovare il massimo numero possibile di nuove rotte che occorre aprire.
+>
+> Nota: un volo diretto dall'aeroporto $X$ all'aeroporto $Y$ serve anche come volo diretto da $Y$ a $X$.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo20yq_yosen#q12|src_jmo20yq_yosen__Q12]]

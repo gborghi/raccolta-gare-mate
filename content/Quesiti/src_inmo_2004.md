@@ -36,13 +36,23 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale convex con punti di mezzo; dimostra che è quadrato*
+*Quadrilatero convesso ABCD con punti medi; dimostrare che è un quadrato*
 
-> Si consideri un quadrilaterale convex $ABCD$, in cui $K$, $L$, $M$, $N$ sono i punti medi dei lati $AB$, $BC$, $CD$ e $DA$ rispettivamente. Supponiamo che (a) $BD$ divisa $KM$ a $Q$; (b) $QA = QB = QC = QD$; e (c) $LK/LM = CD/CB$.
-> 
-> Prova che $ABCD$ è un quadrato.
+> Si consideri un quadrilatero convesso $ABCD$, in cui $K$, $L$, $M$, $N$ sono i punti medi dei lati $AB$, $BC$, $CD$, $DA$ rispettivamente. Si supponga che
+> (a) $BD$ biseca $KM$ in $Q$;
+> (b) $QA = QB = QC = QD$; e
+> (c) $LK/LM = CD/CB$.
+>
+> Dimostrare che $ABCD$ è un quadrato.
 
 ![[src_inmo_2004__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2004#q01|src_inmo_2004__Q01]]
 
 
 
@@ -66,9 +76,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi (a,b) che soddisfano l'equazione con p primo > 3*
+*Trovare tutte le coppie di interi (a,b) che soddisfano l'equazione, con p primo > 3*
 
-> Supponiamo che $p$ sia un primo maggiore di $3$. Trova tutte le coppie di integri $(a, b)$ che soddisfano l'equazione $$a^2 + 3ab + 2(a + b) + p^2 = 0.$$
+> Sia $p$ un numero primo maggiore di $3$. Trovare tutte le coppie di interi $(a, b)$ che soddisfano l'equazione
+> $$a^2 + 3ab + 2(a + b) + p^2 = 0.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2004#q02|src_inmo_2004__Q02]]
 
 
 
@@ -91,9 +109,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rota reale di cubo; prova il piano di a^3 = 3*
+*Radice reale di un'equazione cubica; dimostrare che la parte intera di a^3 è uguale a 3*
 
-> Se $a$ è una radice reale dell'equazione $x^3 - x^2 + x - 2 = 0$, dimostrare che $\lfloor a^3 \rfloor = 3$. (Per qualsiasi numero reale $a$, indichiamo con $\lfloor a \rfloor$ il numero intero più grande non superiore a $a$.)
+> Se $a$ è una radice reale dell'equazione $x^3 - x^2 + x - 2 = 0$, dimostrare che $\lfloor a^3 \rfloor = 3$. (Per ogni numero reale $a$, con $\lfloor a \rfloor$ indichiamo il più grande intero non superiore a $a$.)
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2004#q03|src_inmo_2004__Q03]]
 
 
 
@@ -118,9 +143,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con 2R ≤ r_a; dimostrare disuguaglianze laterali ed esradii*
+*Triangolo con 2R ≤ r_a; dimostrare le disuguaglianze sui lati e sugli exraggi*
 
-> $R$ indichi il circondario di un triangolo $ABC$; $a$, $b$, $c$, i suoi lati $BC$, $CA$, $AB$; e $r_a$, $r_b$, $r_c$, rispettivamente, i suoi esradi opposti a $A$, $B$ e $C$. Se $2R \le r_a$, dimostrare che (i) $a > b$ e $a > c$; (ii) $2R > r_b$ e $2R > r_c$.
+> Sia $R$ il raggio circoscritto di un triangolo $ABC$; siano $a$, $b$, $c$ i suoi lati $BC$, $CA$, $AB$; e siano $r_a$, $r_b$, $r_c$ i suoi raggi exinscritti opposti rispettivamente a $A$, $B$, $C$. Se $2R \le r_a$, dimostrare che (i) $a > b$ e $a > c$; (ii) $2R > r_b$ e $2R > r_c$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2004#q04|src_inmo_2004__Q04]]
 
 
 
@@ -145,9 +177,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*6 volte i quadrati di numeri interi positivi sommati; trovare gcd di tutti gli abcdef*
+*6-tuple di interi positivi la cui somma dei quadrati è...; trova il mcd di tutti gli abcdef*
 
-> $S$ indichi l'insieme di tutti i 6 tupli $(a, b, c, d, e, f)$ di enti interi positivi come $a^2 + b^2 + c^2 + d^2 + e^2 = f^2$. Considera l'insieme $$T = \{ abcdef : (a, b, c, d, e, f) \in S \}.$$ Trova il più grande divisore comune di tutti i membri di $T$.
+> Sia $S$ l'insieme di tutte le 6-tuple $(a, b, c, d, e, f)$ di numeri interi positivi tali che $a^2 + b^2 + c^2 + d^2 + e^2 = f^2$. Si consideri l'insieme
+> $$T = \{ abcdef : (a, b, c, d, e, f) \in S \}.$$
+> Si determini il massimo comune divisore di tutti gli elementi di $T$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2004#q05|src_inmo_2004__Q05]]
 
 
 
@@ -172,6 +213,15 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare 5 volte che soddisfano l'equazione di somma reciproca; dimostrare che il conteggio è impar*
+*Conta le 5-tuple che soddisfano l'equazione della somma dei reciproci; dimostrare che il numero di tali 5-tuple è dispari*
 
-> Prove che il numero di $5$-tupli di integri positivi $(a, b, c, d, e)$ che soddisfano l'equazione $$abcde = 5(bcde + acde + abde + abce + abcd)$$ è un intero **odd**.
+> Dimostrare che il numero di $5$-tuple di interi positivi $(a, b, c, d, e)$ che soddisfano l'equazione
+> $$abcde = 5(bcde + acde + abde + abce + abcd)$$
+> è un intero **dispari**.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2004#q06|src_inmo_2004__Q06]]

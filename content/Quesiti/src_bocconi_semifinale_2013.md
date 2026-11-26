@@ -34,11 +34,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 *Possible rankings at the end of a cycling race*
 
-> This year the "classic" spring takes place with the formula of the team timekeeper. However, only three teams are registered: Pedal Axis, Racing Cyclists and Cyclists.
-> 
-> How many rankings will there be at the end of the race (bearing in mind that the 3 teams reach the finish line and no ex-equals are allowed)?
+> This year, the "classicissima" of spring is being held in the format of a team time trial. However, only three teams have registered: the Assi del Pedale, the Ciclisti di Corsa, and the Velocipedisti.
+>
+> How many overall possible standings will there be at the end of the race (bearing in mind that all 3 teams will reach the finish line and that ties are not allowed)?
 
-**Answer:** 6
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2013#q01|src_bocconi_semifinale_2013__Q01]]
 
 
 
@@ -68,17 +73,22 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to choose 5 dice with equal sums*
+*Ways to choose 5 dice such that their sum is even*
 
-> Jacob chooses two tokens, among the five he sees in the figure, with the goal that the sum of their numbers is an equal number.
-> 
-> In how many ways can you choose them regardless of the order in which you take the two tokens?
-> 
+> Jacob chooses two tokens from the five shown in the figure, with the aim that the sum of the numbers on the tokens is an even number.
+>
+> In how many ways can he choose them, regardless of the order in which he picks the two tokens?
+>
 > The tokens show the numbers 1, 2, 3, 4, 5.
 
 ![[src_bocconi_semifinale_2013__q02.png]]
 
-**Answer:** 4
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2013#q02|src_bocconi_semifinale_2013__Q02]]
 
 
 
@@ -104,13 +114,18 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of equal parts from a pizza with 3 cuts
+*Maximum number of equal parts from a pizza with 3 cuts*
 
-> With 3 cuts, Michele divides the figure's pizza into parts, without wasting any "slices" after each cut.
-> 
-> How many parts (not necessarily of the same shape or weight) will you get at most?
+> With 3 (straight) cuts, Michele divides the pizza in the figure into pieces without wasting any "slice" after each cut.
+>
+> What is the maximum number of pieces (not necessarily the same shape or the same weight) he will get?
 
-**Answer:** 7
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2013#q03|src_bocconi_semifinale_2013__Q03]]
 
 
 
@@ -136,13 +151,18 @@ Maximum number of equal parts from a pizza with 3 cuts
 <div class="qlang-split" data-lang="en"></div>
 
 
-Nice days in 2013
+*Beautiful days in 2013*
 
-> March 12, 2013 is a "beautiful" day because only the digit "4"  is written to complete the following writing, replacing appropriate digits instead of the $*$ symbol: it is written as $12.03.2013$ using the digit "0", twice the digit "1", twice the digit "2" and twice the digit "3".
-> 
-> How many "beautiful" days are there in 2013, from January 1 to December 31, including March 12?
+> March 12, 2013 is a "nice" day because only the digit "4" is written—to complete the following writing, replacing appropriate digits in place of the symbol $*$: it is written as $12.03.2013$ using the digit "0", the digit "1" twice, the digit "2" twice, and the digit "3" twice.
+>
+> How many "nice" days are there in 2013, from January 1 to December 31, inclusive of March 12?
 
-**Answer:** 7
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2013#q04|src_bocconi_semifinale_2013__Q04]]
 
 
 
@@ -172,17 +192,22 @@ Nice days in 2013
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Find the tetramine used to fill the square*
+*Find the tetromino used to fill the square*
 
-> Using four of the five "tetramin" in the figure, assembling them without holes or overlapping, Milena managed to form a square of 16 boxes.
-> 
-> Indicate the letter of the tetrammaton that Milena left behind.
-> 
-> The tetramins in the figure are labelled A, B, C, D, E.
+> Using four of the 5 "tetrominoes" in the figure and assembling them without gaps or any overlaps, Milena managed to form a square of 16 cells.
+>
+> Indicate the letter of the "tetromino" that Milena set aside.
+>
+> The tetrominoes in the figure are labeled A, B, C, D, E.
 
 ![[src_bocconi_semifinale_2013__q05.png]]
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2013#q05|src_bocconi_semifinale_2013__Q05]]
 
 
 
@@ -212,17 +237,22 @@ Nice days in 2013
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum moves to move from AILATI to ITALY*
+*Tiny steps to go from AILATI to ITALY*
 
-> How many moves, at least, do you go from left to right?
-> 
-> Each move consists of moving a white dot to an empty (immediately) adjacent grey box.
-> 
-> The configuration on the left shows the letters A-I-L-A-T-I and the one on the right shows I-T-A-L-I-A, each in a box of a horizontal grid.
+> In how many moves, at minimum, can one go from the left configuration to the right configuration?
+>
+> Each move consists of moving a white token to an immediately adjacent empty grey square.
+>
+> The left configuration shows the letters A-I-L-A-T-I, and the right configuration shows I-T-A-L-I-A, each letter in a cell of a horizontal grid.
 
 ![[src_bocconi_semifinale_2013__q06.png]]
 
-**Answer:** 22
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2013#q06|src_bocconi_semifinale_2013__Q06]]
 
 
 
@@ -248,13 +278,18 @@ Nice days in 2013
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of training the team for Mathematical Games*
+*Ways of Forming the Team for the Mathematical Games*
 
-> To celebrate the "International Mathematical Games Championships", the newspapers this year in their 20th Italian edition, the organizing committee decided to hold a new team competition, called "The Twenty Years' Race". The competition is open to teams of two boys and two girls. Nando can count on Anna, Carla, Clara, Matthew, Peter and Renato.
-> 
-> How many ways can Nando train his team?
+> To celebrate the "International Mathematical Games Championships"—whose newspaper edition is marking its 20th year in Italy this year—the organizing committee has decided to launch a new team competition called "The Twenty-Year Competition". Teams consisting of two boys and two girls may take part in the competition. Nando can count on Anna, Carla, Chiara, Matteo, Pietro, and Renato.
+>
+> In how many ways can Nando form his team?
 
-**Answer:** 9
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2013#q07|src_bocconi_semifinale_2013__Q07]]
 
 
 
@@ -278,11 +313,16 @@ Nice days in 2013
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of two digits with double the inverse equal to the increased number of 1*
+*A two-digit number whose double the reverse equals the number increased by 1*
 
-> Find a two-digit number such that twice its opposite (the opposite of a number is the same number, written in the opposite direction of the drawing) is equal to the initial number increased by 1.
+> Find a two-digit number such that twice its reverse (the reverse of a number is the number itself written in reverse order in the sense of the diagram) equals the original number increased by 1.
 
-**Answer:** 73
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_semifinale_2013#q08|src_bocconi_semifinale_2013__Q08]]
 
 
 
@@ -312,17 +352,22 @@ Nice days in 2013
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of integers from 1 to 7 arranged in a star*
+*Sum of the integers from 1 to 7 arranged in a star*
 
-> The integers 1 to 7 are arranged in boxes so that the sum of the three aligned numbers is equal to each other.
-> 
-> How much is this?
-> 
-> (In the figure you can see a 6-pointed star with a central node and nodes at the points, where each line passing through the center contains 3 numbers.)
+> The integers from 1 to 7 are placed in the boxes so that the sums of the three numbers aligned in each row are equal to one another.
+>
+> What is the value of this sum?
+>
+> (In the figure, a six-pointed star is shown, with a central node and nodes at the points; each line passing through the center contains 3 numbers.)
 
 ![[src_bocconi_semifinale_2013__q09.png]]
 
-**Answer:** three solutions: 13, 14, 15
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2013#q09|src_bocconi_semifinale_2013__Q09]]
 
 
 
@@ -347,13 +392,17 @@ Nice days in 2013
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ray of the particular circle with an area equal to the perimeter*
+*Radius of the special circle with area equal to perimeter*
 
-> This circle is special because the number expressing its area (in cm$^2$) is equal to the length (in cm) of the circumference of the circle.
-> 
+> That circle is special because the number that expresses its area (in cm$^2$) is equal to the number that expresses the length (in cm) of the circumference that forms its boundary.
+>
 > What is the radius of this particular circle?
 
-**Answer:** 2
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_semifinale_2013#q10|src_bocconi_semifinale_2013__Q10]]
 
 
 
@@ -381,15 +430,20 @@ Nice days in 2013
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measures of angles of triangle between pentagon and square*
+*Angle measures of the triangle between the pentagon and the square*
 
-> In the figure you see a square inserted into a regular pentagon (symmetrical to the square's diagonal).
-> 
-> Find the measurements of the angles of the small gray triangle.
+> In the figure, you can see a square inscribed in a regular pentagon (symmetric with respect to the diagonal of the square).
+>
+> Find the measures of the angles of the small grey triangle.
 
 ![[src_bocconi_semifinale_2013__q11.png]]
 
-**Answer:** $9^\circ$, $63^\circ$, $108^\circ$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2013#q11|src_bocconi_semifinale_2013__Q11]]
 
 
 
@@ -414,11 +468,17 @@ Nice days in 2013
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete the defective calculator by replacing the digits*
+*Complete the faulty calculator by replacing the digits*
 
-> Help Liliana  her calculator is defective and she writes only the figure "4"  to complete the following writing, replacing appropriate digits instead of the $*$ symbol: $$\frac{* * 4 \times}{* *} = \frac{4}{4 * 4}$$
+> Help Liliana—her calculator is faulty and only prints the digit "4"—complete the following writing by substituting appropriate digits for the symbol $*$:
+> $$\frac{* * 4 \times}{* *} = \frac{4}{4 * 4}$$
 
-**Answer:** two solutions: $124 \times 36$ and $214 \times 21$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_semifinale_2013#q12|src_bocconi_semifinale_2013__Q12]]
 
 
 
@@ -446,15 +506,20 @@ Nice days in 2013
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Setting the numbers from 2 to 12 in disks with sums equal to 24*
+*Arrange the numbers from 2 to 12 in the discs such that the sums equal 24*
 
-> Place all the natural numbers from 2 to 12 in the disks so that the sum of the disks' numbers on the safest alignment is 24. The other six sums of three aligned numbers must all equal 24.
-> 
-> (The figure shows a graph with nodes connected by segments, where each aligned triangle must add up to 24.)
+> Place all the natural numbers from 2 to 12 on the small discs so that the sum of the numbers on the discs along the safest alignment equals 24. The other six sums of three numbers that are aligned must also all equal 24.
+>
+> (In the figure, a graph is shown with nodes connected by line segments, where each aligned triple must sum to 24.)
 
 ![[src_bocconi_semifinale_2013__q13.png]]
 
-**Answer:** (see the figure in the solution)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2013#q13|src_bocconi_semifinale_2013__Q13]]
 
 
 
@@ -480,13 +545,18 @@ Nice days in 2013
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dimensions of the particular rectangle with a perimeter twice the length*
+*Dimensions of a particular rectangle whose perimeter is twice its length*
 
-> This rectangle is particular because it is not a square and has dimensions (expressed by integers) such that one of the two numbers expressing its area and the perimeter (the first in cm$^2$, the second in cm) is twice the other.
-> 
-> What are the dimensions of the particular rectangle?
+> This rectangle is special because it is not a square and has dimensions (expressed by whole numbers) such that one of the two numbers representing its area and perimeter (the first in cm$^2$, the second in cm) is twice the other.
+>
+> What are the dimensions of the special rectangle?
 
-**Answer:** two solutions: $5 \times 20$ and $6 \times 12$
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2013#q14|src_bocconi_semifinale_2013__Q14]]
 
 
 
@@ -514,15 +584,20 @@ Nice days in 2013
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of competitors who have not cheated in a class*
+*Number of competitors who did not cheat in a class*
 
-> The participants in a competition were 31 pupils from the same class. Upon arrival, the finalist declared: "Everyone ahead of me in the rankings cheated because at some point they took a shortcut". Each of the other competitors makes the following statement instead: the partner who came immediately after me cheated because at some point he took a shortcut.
-> 
-> Keep in mind that all those who cheated then lied in their statements, while honest competitors then told the truth.
-> 
-> How many competitors didn't cheat?
+> There were 31 pupils from the same class among the participants in a competition. After arrival, the last-place finisher stated: "Everyone who is ahead of me in the standings cheated, because at some point they took a shortcut." Each of the other competitors, however, makes the following statement: "The competitor who finished immediately after me cheated, because at some point they took a shortcut."
+>
+> Keep in mind that all those who cheated then lied in their statements, whereas the honest competitors then told the truth.
+>
+> How many competitors did not cheat?
 
-**Answer:** 15
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2013#q15|src_bocconi_semifinale_2013__Q15]]
 
 
 
@@ -550,12 +625,17 @@ Nice days in 2013
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio between area of white star and area of grey star*
+*Ratio of the area of the white star to the area of the grey star*
 
-> In the regular 8-pointed star in the design, the sides are all the same length and the angles in the 8-pointed star are all straight. Inside it is another regular 8-pointed star (in white in the drawing) whose sides are the same length as those of the gray star and whose interior angles measure $45^\circ$ or $270^\circ$.
-> 
-> Find the relationship between the area of the white star and the area of the grey star.
+> In the regular grey 8-pointed star in the drawing, all the sides are of equal length, and the angles at the 8 points are all right angles. Inside it, another regular 8-pointed star has been drawn (in white in the drawing); its sides are the same length as those of the grey star, and its interior angles measure $45^\circ$ or $270^\circ$.
+>
+> Find the ratio of the area of the white star to the area of the grey star.
 
 ![[src_bocconi_semifinale_2013__q16.png]]
 
-**Answer:** $\sqrt{2} - 1$
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_semifinale_2013#q16|src_bocconi_semifinale_2013__Q16]]

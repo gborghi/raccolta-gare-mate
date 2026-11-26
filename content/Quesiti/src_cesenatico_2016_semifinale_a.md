@@ -35,11 +35,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values of S with S^2 divider sum theory pages*
+*The sum of the distinct values that S can take, if S squared divides the sum of the theory page numbers*
 
-> The Galactic Sheets for Tourists are the best-selling problem-solving book in the universe, also because they feature the reassuring words Work! Get to work! I'm going to work. They have 420 pages numbered from 1 to 420, some of which contain theory and other exercises. The sum of the page numbers of the exercise pages, which we'll call S, is such that S2 divides the sum of the page numbers of the pages containing theory. What different values can S assume? Answer by indicating the sum of these values.
+> Page numbers
+> The Galactic Tourist Cards are the best-selling problem-solving book in the universe, also because they carry on the cover the reassuring inscription "Work! Work! Work!". They have 420 pages numbered from 1 to 420, some of which contain theory and others exercises. The sum of the page numbers of the exercise pages, which we shall call S, is such that S2 divides the sum of the page numbers of the pages containing theory. What distinct values can S take? Answer by indicating the sum of these values.
 
-**Answer:** 0240
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2016_semifinale_a#q01|src_cesenatico_2016_semifinale_a__Q01]]
 
 
 
@@ -66,11 +71,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Basic numbers 2016 with digits 0/1 multiple of 100*
+*How many ten-digit base-2016 numbers written with only 0 and 1 are multiples of one hundred*
 
-> [⋆]Galactic Cards problems contain simple problems such as the following. Let's consider all the numbers that in 2016 have exactly ten digits and are written in that base using only the digits zero and one. How many of these numbers are multiples of a hundred? By cent, we mean the number 100 on the basis of ten.
+> [⋆] The problems in the Cards
+> The Galactic Cards contain simple problems such as the following. Consider all the numbers that in base 2016 have exactly ten digits and are written in that base using only the digits zero and one. How many of these numbers are multiples of one hundred? By 'one hundred' one means the number 100 in base ten.
 
-**Answer:** 0014
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2016_semifinale_a#q02|src_cesenatico_2016_semifinale_a__Q02]]
 
 
 
@@ -98,11 +108,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ex length (key to inscribed circumference)*
+*The length of EX; the length AE is a broken extraction*
 
-> Arthur Dehn's house is about to be demolished to make way for a hook! It has the shape of a square ABCD on the side 1500 inscribed with a circumference Γ. From the point E of side AB such that AE = 750 √ 2 starts a straight (not overlapping to AB) road tangent to Γ, which intersects the straight CD in X. How big is EX?
+> A complicated junction
+> Arthur Dehn's house is about to be destroyed to make room for a junction! It has the shape of a square ABCD of side 1500 in which a circle Γ is inscribed. From the point E of the side AB such that AE = 750
+> √
+> 2 there starts a straight road (not overlapping AB) tangent to Γ, which meets the line CD at X. What does EX measure?
 
-**Answer:** 2121
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2016_semifinale_a#q03|src_cesenatico_2016_semifinale_a__Q03]]
 
 
 
@@ -140,11 +156,22 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of two teleports (geometric delays)*
+*Numerator plus denominator, in lowest terms, of the probability that both teleports succeed as planned*
 
-> Even Earth is about to be destroyed to make way for a hyperspace curve. Square Perfect came up with a plan to save himself and Arthur. They will have to teleport on a Bogon ship, wait at least half an hour on it for their teleportation device to recharge, and then they can transfer with the device to another spacecraft that is expected to cross the Bogon ship 11 hours later than their expected arrival time (the teleportation device only works when the two ships are close together). In fact, unfortunately, there is no guarantee that the two ships will be on time: each of them, regardless of the other, has 12 chances of arriving on time, 14 of being one hour late, 18 of having two, 16 of having three, and so on. What are the odds that our two heroes will be able to teleport twice as scheduled? Answer by stating the sum of the numerator and denominator of the fraction reduced to the minimum terms.
+> [⋆] Hitch-hiking in two stages
+> The Earth too is about to be destroyed to make room for a hyperspace junction. Square Perfect has devised a plan to save himself together with Arthur. They will have to teleport onto a Bogon ship, wait at least half an hour on it for their teleport device to recharge, and then they will be able to transfer with the device onto another spaceship that should cross the Bogon ship 11 hours later than the time at which their arrival is scheduled (the teleport device works only when the two ships are close). In reality, unfortunately, nothing ensures that the two ships will be on time: each of them, independently of the other, has a probability 1
+> 2 of arriving on time, 1
+> 4
+> of being an hour late, 1
+> 8 of being two hours late,
+> 1
+> 16 of being three hours late, and so on. What is the probability that our two heroes manage to teleport twice as planned? Answer by indicating the sum of the numerator and the denominator of the fraction reduced to lowest terms.
 
-**Answer:** 6143
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2016_semifinale_a#q04|src_cesenatico_2016_semifinale_a__Q04]]
 
 
 
@@ -173,11 +200,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max AC with cyclic BCDE (ABMD, cyclic ACME)*
+*The greatest value of AC such that BCDE is cyclic*
 
-> Bogon I Bogon discovered the two hitchhikers on their ship! Now Superintendent Krylov-Bogonlyubov has forced them to solve a problem of the terrible Bogon geometry, the second worst in the entire universe. They're facing an ABC triangle with AB = 7623 and BC = 8000. Given M the BC middle point, they were forced to choose D,E points on the AC,AB segments respectively, so that ABMD and ACME are cyclic. To free themselves, they must find the maximum AC value such that BCDE is cyclic. What's this value?
+> Bogon geometry
+> The Bogons have discovered the two hitch-hikers on their ship! Now the superintendent Krylov-Bogonlyubov has forced them to solve a problem of the terrible Bogon Geometry, the second worst in the whole universe. They have before them a triangle ABC with AB = 7623 and BC = 8000. Letting M be the midpoint of BC, they have been forced to choose points D and E on the segments AC and AB respectively, in such a way that ABMD and ACME are cyclic. To free themselves, they must find the greatest value of AC such that BCDE is cyclic. What is this value?
 
-**Answer:** 7623
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2016_semifinale_a#q05|src_cesenatico_2016_semifinale_a__Q05]]
 
 
 
@@ -212,13 +244,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*128·(p1+...+p35) sub-sets equal to*
+*128 times the sum of the winning probabilities p1 through p35*
 
-> Couple or odd? Arthur and Square have arrived at the Golden Section, the ship of Galactic President Jacob Googolplex, a strange two-headed alien. They like to play this game with each other. Selecting a positive integer n, the first head lists all possible subsets of {1,2,...,n}, shouting one by one the numbers present in each of them. For example, if n is equal to 2, it screams One! Two of them! One of them! Two!, because the subsets are {1,2}, {1,2}. The second head stops him as he is shouting one of these numbers (choosing randomly from all the elements in the sequence with the same probability), and wins if it comes from a subset whose sum of the elements is equal. Determined by his chances of victory, Team Race 2016  Semifinal A  Problem Tests  1/3
-> 
-> Two thirds Competition in Teams 2016  Semifinal A  Test of the calculation problems 128(p1 +p2 +p3 +··+p35).
+> [⋆] Even or odd?
+> Arthur and Square have arrived on the Golden Section, the ship of the galactic president Jacob Googolplex, a strange two-headed alien. The heads like to play this game with each other. A positive integer n having been chosen, the first head lists all the possible subsets of {1, 2, ..., n}, shouting one by one the numbers present in each of them. For example, if n = 2, it shouts "One! Two! One! Two!", because the subsets are {1}, {2}, {1, 2}. The second head stops it while it is shouting one of these numbers (choosing at random among all the elements of the sequence with the same probability), and wins if that number comes from a subset whose elements sum to an even number. Letting pn be its probability of winning, calculate 128(p1 +p2 +p3 +··+p35).
 
-**Answer:** 2144
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_doppio_conteggio|Double counting]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2016_semifinale_a#q06|src_cesenatico_2016_semifinale_a__Q06]]
 
 
 
@@ -246,11 +281,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last three digits of a_2016+3a_2015 (recurrence)*
+*The last three digits of a2016 + 3 a2015*
 
-> The most intelligent species humans are only the third most intelligent species on planet Earth, after dolphins and mice. In fact, given a sequence such that a0 = 1, a1 = 2, and an = an−1 +12an−2 for each n ≥2, mice can immediately calculate what is worth 2016 +3a2015. Humans, on the other hand, can only determine the last three digits of this number. What are these last three digits?
+> The most intelligent species
+> Humans are only the third most intelligent species on the planet Earth, after the dolphins and the mice. Indeed, given a sequence such that a0 = 1, a1 = 2, and an = an−1 +12an−2 for every n ≥ 2, the mice know at once what a2016 +3a2015 is worth. Humans, on the other hand, can at most determine the last three digits of this number. What are these last three digits?
 
-**Answer:** 0120
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2016_semifinale_a#q07|src_cesenatico_2016_semifinale_a__Q07]]
 
 
 
@@ -278,11 +318,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Years with two prime factors ab and ba between today and 3000*
+*For how many more years, between today and the year 3000, a year has two prime factors written ab and ba*
 
-> In the past year Arthur has already met at a party Trillion, the new flame of President Jacob. They had this conversation there: Think, 2015 is just over, and I didn't realize that it has 13 and 31 as prime factors. It doesn't often happen that a year has two prime factors that are written on base 10 with the digits ab and ba, with a =b. We shouldn't miss events like this! How many more years will this property be true between now and the year 3000?
+> The fleeting year
+> Arthur has already met at a party Trillion, President Jacob's new flame. There they had this conversation: "Just think, 2015 has only just ended and I had not noticed that it has 13 and 31 as prime factors. It does not often happen that a year has two prime factors that are written in base 10 with the digits ab and ba, with a ̸= b. We should not miss events like these!" For how many more years will this property be true between today and the year 3000?
 
-**Answer:** 0004
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2016_semifinale_a#q08|src_cesenatico_2016_semifinale_a__Q08]]
 
 
 
@@ -315,11 +360,21 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-The remaining sum alpha_i^4 mod 2243 (roots)
+*The remainder on division by 2243 of the sum of the fourth powers; the powers are a broken extraction*
 
-> The depressed robot, do this, do that. . . On this ship, they only give me ridiculous tasks like proving that 2243 is a prime number. He thought to himself, Artin, the robot from the Golden Section. A bionic brain like mine can immediately calculate also what the five positive integers α1,α2,...,α5 are smaller than 2243 such that α5 i +2016αi +2016 is multiple 2243 for each i. And I can also tell you how much the rest of α4 is 1 +α4 2 +··+α4 5 divided by 2243. But no one ever asks me that! Can you tell me how much the rest is worth?
+> [⋆] The depressed robot
+> "Do this, do that... On this ship they give me only ridiculous tasks, such as proving that 2243 is a prime number," Artin, the robot of the Golden Section, thought to himself. "A bionic brain like mine can also calculate at once which are the five positive integers α1, α2, ..., α5 less than 2243 such that α5
+> i +2016αi +2016 is a multiple of
+> 2243 for every i. And I can also say what the remainder of α4
+> 1 +α4
+> 2 +··+α4
+> 5 is on division by 2243. But nobody ever asks me!" Could you too say what this remainder is worth?
 
-**Answer:** 0908
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2016_semifinale_a#q09|src_cesenatico_2016_semifinale_a__Q09]]
 
 
 
@@ -350,11 +405,20 @@ The remaining sum alpha_i^4 mod 2243 (roots)
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of the assets under management of the institution.
+*The value of AB·CF + BC·AD + AC·BE; the data are a broken extraction*
 
-> Bogon bureaucracy The Bogons have captured Trillion! Arthur can release her with a presidential release order signed by Jacob, but first she must undergo another Bogon geometry session. Whether ABC is an H orthogonal triangle with AB = 84, AC = 32 √ 3 and \ BAC = 60°. If D is a point on the AH segment such that 7AD = AH, and a point on the BH segment such that 7BE = BH, F is a point on the CH segment such that 7CF = CH. What is AB ·CF +BC ·AD +AC ·BE worth?
+> [⋆] Bogon bureaucracy
+> The Bogons have captured Trillion! Arthur can free her with a presidential release order signed by Jacob, but first he must undergo another session of Bogon geometry. Let ABC be a triangle with orthocentre H, with AB = 84,
+> AC = 32
+> √
+> 3 e \
+> BAC = 60°. Let D be a point on the segment AH such that 7AD = AH, E a point on the segment BH such that 7BE = BH, and F a point on the segment CH such that 7CF = CH. What is AB · CF + BC · AD + AC · BE worth?
 
-**Answer:** 1152
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2016_semifinale_a#q10|src_cesenatico_2016_semifinale_a__Q10]]
 
 
 
@@ -384,11 +448,18 @@ This is the total value of the assets under management of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Probably no office for waste (1/k^2, p+q)
+*Numerator plus denominator, in lowest terms, of the probability that none of the thirty offices rejects the form*
 
-> The bureaucracy never ends After passing the first Bogon office, Jacob must visit 30 more, numbered 2 to 31. For every k, the office with the number k has a 1 k2 probability, regardless of the others, of rejecting the presidential order. What are the chances that none of the remaining 30 offices will reject the form? Answer by indicating the sum of numerator and denominator reduced to minimum terms.
+> The bureaucracy never ends
+> After getting past the first Bogon office, Jacob must visit another thirty, numbered from 2 to 31. For every k, the office bearing the number k has a probability
+> 1
+> k2, independently of the others, of rejecting the presidential order. What is the probability that none of the thirty remaining offices rejects the form? Answer by indicating the sum of the numerator and the denominator reduced to lowest terms.
 
-**Answer:** 0047
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2016_semifinale_a#q11|src_cesenatico_2016_semifinale_a__Q11]]
 
 
 
@@ -417,11 +488,16 @@ Probably no office for waste (1/k^2, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary result values in cryptography*
+*One tenth of the sum of all possible values of the cryptarithm result*
 
-> Arthur is trying to find the coordinates of the planet Mathratea by deciphering the numbers in an ancient inscription. He managed to discover this sum among numbers written in base 10, written in an ancient system in which each symbol represents a different number (and the numbers cannot start with the number 0): ♥+♦♥+♣♦♥= ♣♥. It is very valuable for deciphering their writing, since there are not many values that can assume the result ♣♥. Calculate the amount you get by dividing by ten the sum of all its possible values.
+> The coordinates of Mathratea
+> Arthur is trying to discover the coordinates of the planet Mathratea by deciphering the numbers in an ancient inscription. He has managed to discover this sum of numbers written in base 10, written in an ancient system in which every symbol stands for a different digit (and the numbers cannot begin with the digit 0): ♥♠+♦♥♠+♣♦♥♠= ♣♥♠♠. It is most precious for deciphering their writing, since there are not many values that the result ♣♥♠♠ can take. Calculate the quantity obtained by dividing by ten the sum of all its possible values.
 
-**Answer:** 3413
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2016_semifinale_a#q12|src_cesenatico_2016_semifinale_a__Q12]]
 
 
 
@@ -450,11 +526,16 @@ Probably no office for waste (1/k^2, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability of a spacecraft traveling 10+ miles
+*The first four decimal digits of the probability that the ship travels 10 or more galactic miles*
 
-> Increasing Improbability Jacob activated the Increasing Improbability Engine, an experimental device first installed in the Gold Section. The ship proceeds like this: first it has a 7/10 chance of moving for a galactic mile (otherwise it's still), then a 6/10 chance of going two miles, then 5/10 chance of going three miles, 4/10 chance of going four, and finally 3/10 chance of going five. What is the probability that the spacecraft will travel 10 or more galactic miles? Answer by indicating the first four decimal places of this probability.
+> Increasing improbability
+> Jacob has switched on the increasing-improbability drive, an experimental device installed for the first time in the Golden Section. The ship proceeds as follows: first it has a probability 7/10 of moving one galactic mile (otherwise it stays still), then a probability 6/10 of doing two miles, then 5/10 of doing three miles, 4/10 of doing four, and finally 3/10 of doing five. What is the probability that the spaceship travels 10 or more galactic miles? Answer by indicating the first four decimal digits of this probability.
 
-**Answer:** 2256
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2016_semifinale_a#q13|src_cesenatico_2016_semifinale_a__Q13]]
 
 
 
@@ -486,11 +567,18 @@ The probability of a spacecraft traveling 10+ miles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BCGF area (parallels and intersections, FP/PG/GF)*
+*The area of BCGF, given FP = 35, PG = 100 and GF = 117; the ratios are a broken extraction*
 
-> The improbable engine of increasing improbability has brought our heroes to Mathratea, but in the meantime has created a vase of flowers and a free-falling headgear several miles from the planet's surface. What an unlikely event! The poor cetacean, as he fell, barely had time to invent this problem. Both ABC a triangle and D and E respectively of the points on AB and AC such that AD = 1 5AB and AE = 1 3AC. For the parallel to BC passing through A, be F the intersection between r and CD, G the intersection between r and BE and P the intersection between CD and BE. Knowing that FP = 35, PG = 100 and GF = 117, determine the area of BCGF.
+> [⋆] The poor sperm whale
+> The increasing-improbability drive has brought our heroes to Mathratea, but in the meantime it has created a flowerpot and a sperm whale in free fall several kilometres from the surface of the planet. What an improbable event! The poor cetacean, as it fell, had just time to invent this problem. Let ABC be a triangle and let D and E be points on AB and AC respectively such that AD = 1
+> 5AB and AE = 1
+> 3AC. Letting r be the line through A parallel to BC, let F be the intersection of r and CD, G the intersection of r and BE, and P the intersection of CD and BE. Knowing that FP = 35, PG = 100 and GF = 117, determine the area of BCGF.
 
-**Answer:** 8918
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2016_semifinale_a#q14|src_cesenatico_2016_semifinale_a__Q14]]
 
 
 
@@ -518,11 +606,16 @@ The probability of a spacecraft traveling 10+ miles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values of p(3) for monic cubic feet with constraints*
+*How many distinct values p(3) can take, for monic cubics with |coefficients| at most 5600*
 
-> A fjord on Mathratea the world builder, Schwarzibartfast, is building an exact copy of planet Earth, complete to the last fjord. Initially he wanted to build a fjord for every possible monic polynomial with real coefficients of degree 3 such that p(1) = 1, p(2) = 2 and p(3) is an integer. Realizing that these are infinite, he decided to limit himself to those in which all the coefficients have an absolute value of less than or equal to 5600. How many different values can p(3) assume?
+> A little fjord
+> On Mathratea the world-builder, Schwarzibartfast, is building an exact copy of the planet Earth, complete down to the last fjord. Initially he wanted to build a fjord for every possible monic polynomial with real coefficients of degree 3 such that p(1) = 1, p(2) = 2 and p(3) is an integer. Realising that these are infinite in number, he decided to restrict himself to those in which every coefficient has absolute value less than or equal to 5600. How many distinct values can p(3) take?
 
-**Answer:** 7467
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2016_semifinale_a#q15|src_cesenatico_2016_semifinale_a__Q15]]
 
 
 
@@ -558,10 +651,13 @@ The probability of a spacecraft traveling 10+ miles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of -1^3-2^3+3^3+4^3-...+16^3 (alternate signs)*
+*The value of the sum −13 −23 +33 +43 −··+153 +163, with signs two minuses and two pluses*
 
-> After many years, the computer built by the Mathrateans was able to calculate the answer to the Question (whatever it is). It is equal to the quantity −13 −23 +33 +43 −··+153 +163, where the signs in front of the cubes are alternately two less and two more. Unfortunately, it was destroyed before the last step, which is to calculate the value of this sum, was completed. Can you complete this calculation?
-> 
-> U XVII National Team Semifinal Competition A  Solution  6 May 2016 Dont Panic! Nr. The problem
+> The last answer
+> After long years, the computer built by the Mathrateans has succeeded in calculating the answer to the Question (whatever it may be). It is equal to the quantity −13 −23 +33 +43 −··+153 +163, in which the signs in front of the cubes are alternately two minuses and two pluses. Unfortunately, it was destroyed before completing the last step, that is, calculating the value of this sum. Could you complete this calculation?
 
-**Answer:** 4456
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2016_semifinale_a#q16|src_cesenatico_2016_semifinale_a__Q16]]

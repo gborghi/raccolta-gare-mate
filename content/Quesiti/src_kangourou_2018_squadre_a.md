@@ -31,11 +31,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers 1-2018 multiples of both 20 and 14*
+*Integers from 1 to 2018 that are multiples of both 20 and 14*
 
-> Between 1 and 2018 How many integers between 1 and 2018 are multiples of both 20 and 14?
+> From 1 to 2018, how many integers between 1 and 2018 are multiples of both 20 and 14?
 
-**Answer:** 14
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_a#q01|src_kangourou_2018_squadre_a__Q01]]
 
 
 
@@ -63,11 +68,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Train length and timing of the two-way train*
+*Train length through two tunnels and times*
 
-> Traveling at constant speed, a train crosses two tunnels. The first is 980 meters long, and it takes 30 seconds from the train's head entering it to the tail leaving it. The second is 790 meters long, and it takes 25 seconds from when the train head enters to when the tail leaves. How long is the train?
+> A train, traveling at a constant speed, passes through two tunnels. The first tunnel is 980 meters long, and from the moment the front of the train enters it until the rear of the train exits it, 30 seconds pass. The second tunnel is 790 meters long, and from the moment the front of the train enters it until the rear of the train exits it, 25 seconds pass. How long is the train in meters?
 
-**Answer:** 160
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_squadre_a#q02|src_kangourou_2018_squadre_a__Q02]]
 
 
 
@@ -94,11 +104,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible arrangements 1 to 14 with condition max/min*
+*Possible alignments 1-14 with max/min condition*
 
-> Laura's sequences Laura wants to write in sequence all integers from 1 to 14 inclusive so that, for each number in the sequence, it happens to be greater or less than all the numbers that follow it. How many possible arrangements can she choose?
+> Laura's Sequences Laura wants to write all the integers from 1 to 14 inclusive in sequence so that, for each number in the sequence, it is either greater than or less than all the numbers that follow it. How many possible arrangements can she choose from?
 
-**Answer:** 8192
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_a#q03|src_kangourou_2018_squadre_a__Q03]]
 
 
 
@@ -142,7 +157,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*6 square strip colouring modes with rotation*
+*Ways to color a strip of 6 squares with rotation*
 
 ![[src_kangourou_2018_squadre_a__prob4.png]]
 
@@ -159,9 +174,14 @@ level: squadre
 \end{document}
 ```
 
-> Three colors Cristina has three colors to color the six squares where the strip you see in the figure is divided. She is not obliged to use the same quantity or even to use all three, but it must ensure that adjacent squares receive different colors. How many different ways can you color the strip? Note: colours that can be obtained from each other by rotating the strip correspond to only one way.
+> Cristina has 3 colors available to color the 6 squares into which the strip shown in the figure has been divided. She is not required to use the colors in equal amounts, nor to use all three of them; however, she must ensure that adjacent squares receive different colors. In how many different ways can she color the strip? Note: colorings that can be obtained from one another by rotating the strip correspond to a single way.
 
-**Answer:** 48
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_a#q04|src_kangourou_2018_squadre_a__Q04]]
 
 
 
@@ -188,11 +208,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of white/black cells not on the same line/column*
+*White/black cell pairs not on the same row/column*
 
-> White and black I have a 12 MSK/> 12 chessboard, with white or black cells, alternating as in traditional chessboards. How many ways can I choose two cells, one white and one black, so that they're not on the same line or on the same column?
+> Black and White I have a 12 × 12 chessboard, with squares that are either white or black, alternating as in traditional chessboards. In how many ways can I choose two squares—one white and one black—such that they are neither in the same row nor in the same column?
 
-**Answer:** 4320
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_a#q05|src_kangourou_2018_squadre_a__Q05]]
 
 
 
@@ -222,15 +247,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value a×b×b given that b/a = a,b decimal*
+*Value of a*b*b given b/a = a,b decimal*
 
-> Two digits Of two digits a and b (both non-zero) we know that b/a = a,b (a,b denotes a non-integer number in decimal notation). What is the value of a × b × b?
->  
->  
-> 
+> Two-digit numbers: For two two-digit numbers a and b (both non-zero), it is known that b/a = a,b (a,b denotes a non-integer number in decimal notation). What is the value of a × b × b?
+>
+>
+>
 > 2
 
-**Answer:** 50
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_a#q06|src_kangourou_2018_squadre_a__Q06]]
 
 
 
@@ -259,9 +289,13 @@ level: squadre
 
 *Grams of material after 20 days (evaporation)*
 
-> Evaporation A material evaporates at a constant rate i.e. at equal time, the percentage of the mass evaporating is the same. The mass halves in eight days. Suppose you have such a quantity of that material that the square of its mass is 1,479,200 g2. How many grams of that stuff will you find after 20 days?
+> Evaporation: A material evaporates at a constant rate—that is, over equal periods of time, the percentage of the mass that evaporates is the same. The mass halves in 8 days. Suppose you have a quantity of that material such that the square of its mass is 1,479,200 g². How many grams of that material will you find after 20 days?
 
-**Answer:** 215
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_a#q07|src_kangourou_2018_squadre_a__Q07]]
 
 
 
@@ -287,11 +321,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum common divisors of two three-digit integers*
+*Greatest common divisors of two three-digit integers*
 
-> Common divisors At most how many common divisors can two different three-digit positive integers have? (Both 1 and the number itself must be included among the divisors of each number.)
+> Common divisors: What is the maximum number of common divisors that two different three-digit positive integers can have? (Among the divisors of each number, both 1 and the number itself must be included.)
 
-**Answer:** 24
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_a#q08|src_kangourou_2018_squadre_a__Q08]]
 
 
 
@@ -316,12 +355,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the difference of products close to 20182018*
+*Result of the difference of products near 20182018*
 
-> What a difference!
-> What is the result of 20,182,017 × 20,182,019 – 20,182,015 × 20,182,021?
+> What a difference! What is the result of 20,182,017 × 20,182,019 – 20,182,015 × 20,182,021?
 
-**Answer:** 8
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_a#q09|src_kangourou_2018_squadre_a__Q09]]
 
 
 
@@ -349,11 +392,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Difference between max and min 5 digit palindromes divided by 45
+*Difference between the maximum and minimum 5-digit palindromes divisible by 45*
 
-> Divisible by 45 A number is called a palindrome if it coincides with the number obtained by reading its digits from right to left (e.g. 42324 is palindrome, 42334 is not). Consider all the five-digit palindromic numbers (significant) divisible by 45. What is the difference between the largest and the smallest of them?
+> Divisible by 45 A number is called a palindrome if it is identical to the number obtained by reading its digits from right to left (for example, 42324 is a palindrome; 42334 is not). Consider all 5-digit (significant-digit) palindromic numbers divisible by 45. What is the difference between the largest and the smallest of them?
 
-**Answer:** 9090
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_a#q10|src_kangourou_2018_squadre_a__Q10]]
 
 
 
@@ -380,11 +428,16 @@ Difference between max and min 5 digit palindromes divided by 45
 <div class="qlang-split" data-lang="en"></div>
 
 
-*one and 36 more than the average of the other two*
+*One and 36 more than the average of the other two*
 
-> Angles The degree measures of the angles of a triangle are all integers (positive). One of the angles is 36 degrees larger than the average of the other two. How many degrees can the widest of the three angles be measured at most?
+> Angles: The measures, in degrees, of the angles of a triangle are all positive integers. One of the angles is 36 degrees larger than the average of the other two. What is the maximum number of degrees that the largest of the three angles can measure?
 
-**Answer:** 95
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_squadre_a#q11|src_kangourou_2018_squadre_a__Q11]]
 
 
 
@@ -411,11 +464,15 @@ Difference between max and min 5 digit palindromes divided by 45
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular perimeter after folding of the canvas*
+*Perimeter of the rectangle after folding the sheet*
 
-> The canvas A canvas is a rectangle of three meters by two. By folding it repeatedly a few times, always along the straight line passing through the center and parallel to the side that is shorter at the time of folding, a rectangle with an area of 7,500 cm2 is obtained. How many centimetres does the perimeter of this latter rectangle measure?
+> The sheet: A sheet is a rectangle measuring three metres by two metres. By folding it repeatedly a few times, always along the straight line passing through the centre and parallel to the side that is the shortest at the time of folding, one obtains a rectangle whose area is 7,500 cm². How many centimetres is the perimeter of this latter rectangle?
 
-**Answer:** 350
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_squadre_a#q12|src_kangourou_2018_squadre_a__Q12]]
 
 
 
@@ -444,13 +501,17 @@ Difference between max and min 5 digit palindromes divided by 45
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Chord length AB with three tangent circles, area 18pi*
+*Length of chord AB for three mutually tangent circles, area 18π*
 
 ![[src_kangourou_2018_squadre_a__prob13.png]]
 
-> Three circles Look at the figure: the three circles are pairwise tangent and the chord AB of the large circle is tangent to the two inner circles. If the area of the grey figure obtained by removing the two inner circles from the large circle is 18π cm2, how many centimetres is the length of the chord?
+> Three Circles Look at the figure: the three circles are pairwise tangent, and chord AB of the large circle is tangent to the two inner circles. If the area of the gray region obtained by removing the two inner circles from the large circle is 18π cm², how many centimeters long is the chord?
 
-**Answer:** 12
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_squadre_a#q13|src_kangourou_2018_squadre_a__Q13]]
 
 
 
@@ -475,12 +536,16 @@ Difference between max and min 5 digit palindromes divided by 45
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the sum 1^2-2^2-3^2+4^2+... up to 100^2*
+*Find the sum of 1² - 2² - 3² + 4² + ... up to 100²*
 
-> One hundred powers 
-> What is the value of the sum      12 – 22 – 32 + 42 +52 – 62 – 72 + 82 + … + 972 – 982 – 992 + 1002 ?
+> Cento potenze: What is the value of the sum 12 – 22 – 32 + 42 + 52 – 62 – 72 + 82 + … + 972 – 982 – 992 + 1002?
 
-**Answer:** 100
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_a#q14|src_kangourou_2018_squadre_a__Q14]]
 
 
 
@@ -519,19 +584,18 @@ Difference between max and min 5 digit palindromes divided by 45
 
 *Tens and units digits of 2^2019*
 
-> Tens and units
-> What are, in order, the tens digit and the units digit of 22019 ?
-> A
-> B
+> Tens and units: What, in order, are the tens digit and the units digit of 22019? A B
 >
 > 1
->  
->  
-> Kangourou of Mathematics 2018
-> Kangourou Team Cup
-> Semifinal round A
-> Cervia, 3 May 2018
->  
-> Questions and solutions
+>
+>
+> Kangaroo Mathematics Competition 2018 Kangaroo Team Cup Semifinal Round A Cervia, 3 May 2018
+>
+> Questions and Solutions
 
-**Answer:** 88
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_a#q15|src_kangourou_2018_squadre_a__Q15]]

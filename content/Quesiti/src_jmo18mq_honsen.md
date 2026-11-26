@@ -29,9 +29,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio intero con radice n^2 non è mai uguale a 1 a^2*
+*Un polinomio a coefficienti interi che non si annulla sui razionali non nulli*
 
-> $P(x)$ sia un polinomio con coefficienti interi tali che $P(n^2)=0$ per alcuni numeri interi non zero $n$. Prova che per ogni numero razionale non zero $a$, abbiamo $P(a^2)\neq 1$.
+> Sia $P(x)$ un polinomio a coefficienti interi tale che $P(n^2)=0$ per qualche intero non nullo $n$. Dimostrare che per ogni numero razionale non nullo $a$ si ha $P(a^2)\neq 1$.
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo18mq_honsen#q01|src_jmo18mq_honsen__Q01]]
 
 
 
@@ -58,13 +63,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gli giocatori in un cerchio passano carte rosse/bianche; il massimo dei ruoli è di equilibrio*
+*Massimo numero di turni prima che ogni giocatore abbia una carta rossa e una bianca*
 
-> Ci sono carte rosse $2008$ e carte bianche $2008$. Ciascuno dei giocatori $2008$ viene distribuito $2$ di queste carte, e i giocatori si siedono in un cerchio rivolto verso l'interno. In un turno, tutti i giocatori fanno contemporaneamente quanto segue:
-> 
-> - Se un giocatore detiene almeno una carta rossa, passa una carta rossa al giocatore sulla sinistra. Se un giocatore non detiene una carta rossa, passa una carta bianca al giocatore sulla sinistra.
-> 
-> Determinare il numero massimo possibile di giri fino al primo momento in cui ogni giocatore detiene esattamente una carta rossa e una carta bianca.
+> Ci sono $2008$ carte rosse e $2008$ carte bianche. A ciascuno di $2008$ giocatori si distribuiscono $2$ di queste carte, e i giocatori siedono in cerchio, rivolti verso l'interno. A ogni turno tutti i giocatori fanno contemporaneamente quanto segue:
+>
+> - Se un giocatore ha almeno una carta rossa, ne passa una al giocatore alla sua sinistra. Se non ha carte rosse, passa una carta bianca al giocatore alla sua sinistra.
+>
+> Determinare il massimo numero possibile di turni fino al primo momento in cui ogni giocatore ha esattamente una carta rossa e una carta bianca.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_jmo18mq_honsen#q02|src_jmo18mq_honsen__Q02]]
 
 
 
@@ -87,9 +97,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo attraverso A e circoncentro incontra lati; PQ=BC, angolo*
+*Misura di un angolo tra due rette, al più un dato valore*
 
-> Che $O$ sia il centro circundante di un triangolo acuto $ABC$. Un cerchio che attraversa i due punti $A$ e $O$ incontra di nuovo le linee $AB$ e $AC$ rispettivamente nei punti $P$ e $Q$ (con $P,Q\neq A$). Supponiamo che il segmento $PQ$ abbia la stessa lunghezza del segmento $BC$. Trova la misura dell'angolo tra la linea $PQ$ e la linea $BC$ che è al massimo $90^\circ$.
+> Sia $O$ il circocentro di un triangolo acutangolo $ABC$. Una circonferenza passante per i due punti $A$ e $O$ incontra di nuovo le rette $AB$ e $AC$ rispettivamente nei punti $P$ e $Q$ (con $P,Q\neq A$). Si supponga che il segmento $PQ$ abbia la stessa lunghezza del segmento $BC$. Trovare la misura dell'angolo fra la retta $PQ$ e la retta $BC$ che è al più $90^\circ$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_jmo18mq_honsen#q03|src_jmo18mq_honsen__Q03]]
 
 
 
@@ -113,9 +128,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni reali che soddisfano una determinata equazione funzionale*
+*Funzioni reali che soddisfano un'equazione funzionale*
 
-> Trovare tutte le funzioni $f$, definite sui numeri reali e assumendo valori reali, in modo che per tutti i numeri reali $x,y$, $$f(x+y)\,f\big(f(x)-y\big)=x\,f(x)-y\,f(y).$$
+> Determinare tutte le funzioni $f$, definite sui numeri reali e a valori reali, tali che per tutti i numeri reali $x,y$
+>
+> $$f(x+y)\,f\big(f(x)-y\big)=x\,f(x)-y\,f(y).$$
+
+**Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo18mq_honsen#q04|src_jmo18mq_honsen__Q04]]
 
 
 
@@ -141,8 +163,15 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di n che rappresenta ogni razionale come numero intero più n frazioni unitarie*
+*Esistenza di un intero positivo con una rappresentazione di ogni razionale*
 
-> Esiste un numero intero positivo $n$ che soddisfa la seguente condizione?
-> 
-> Condizione: per ogni numero razionale $r$, esiste un intero $b$ e un intero non zero $a_1,\dots,a_n$ tale che $$r=b+\frac{1}{a_1}+\cdots+\frac{1}{a_n}.$$
+> Esiste un intero positivo $n$ che soddisfa la condizione seguente?
+>
+> Condizione: per ogni numero razionale $r$ esistono un intero $b$ e interi non nulli $a_1,\dots,a_n$ tali che
+>
+> $$r=b+\frac{1}{a_1}+\cdots+\frac{1}{a_n}.$$
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo18mq_honsen#q05|src_jmo18mq_honsen__Q05]]

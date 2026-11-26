@@ -34,13 +34,19 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Labyrinth: number of squares crossed by the minimum path from A to B*
+*Maze: the number of small squares traversed by the shortest path from A to B*
 
-> THE LABIRINT OF 2011 Francis wants to go from point A to point B of the drawing maze by following the shortest path possible and being able to move only horizontally or vertically. It cannot naturally cross the walls (marked with a larger line in the drawing) and the walls must remain outside. How many squares will he have to go through (not counting those of A and B)?
+> The Labyrinth of 2011
+> Francesco wants to go from point A to point B in the drawing's maze, following the shortest possible path and being able to move only horizontally or vertically. Naturally, he cannot pass through the walls (marked with a thicker line in the drawing), and some walls must remain outside. How many small squares will he then have to cross (not counting those at A and B)?
 
 ![[src_bocconi_autunno_2010__q01.png]]
 
-**Answer:** 18
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2010#q01|src_bocconi_autunno_2010__Q01]]
 
 
 
@@ -66,11 +72,17 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of Enlightenment by three brothers with product 35 and sum of 13*
+*Chiara's age according to the three siblings, with a product of 35 and a sum of 13*
 
-> Chiara has two younger brothers. The product of the ages of the three children is 35, their sum is 13. What is Chiara's age?
+> Chiara's Age
+> Chiara has two younger brothers. The product of the ages of the three children is 35, and their sum is 13. How old is Chiara?
 
-**Answer:** 7
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2010#q02|src_bocconi_autunno_2010__Q02]]
 
 
 
@@ -99,11 +111,17 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-Time of Luke's first awakening with a switch off on the alarm clock
+*The time of Luca's first waking, with a digit unlit on the alarm clock*
 
-> The LIGHT SIGHT works perfectly, except for the fact that a figure never lights up. That night, Luke woke up one first time and on the alarm clock read the following time: $\boxed{0}$ h $\boxed{4}$ $\boxed{5}$ min Then he woke up a second time - more than 1 hour but less than 2 hours after the first time - and saw the time $\boxed{0}$ h $\boxed{5}$ $\boxed{8}$ min What time was it when Luke woke up the first time?
+> Luca's Wake-Up Call
+> It works perfectly, except that one digit never lights up. Last night, Luca woke up once and read the following time on the alarm clock: $\boxed{0}$ h $\boxed{4}$ $\boxed{5}$ min Then he woke up a second time—more than 1 hour but less than 2 hours after the first time—and saw the time $\boxed{0}$ h $\boxed{5}$ $\boxed{8}$ min What time was it when Luca woke up the first time?
 
-**Answer:** 4 h 45 min
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2010#q03|src_bocconi_autunno_2010__Q03]]
 
 
 
@@ -131,13 +149,19 @@ Time of Luke's first awakening with a switch off on the alarm clock
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of matches on the table after the sixth move of Deborah's game*
+*Number of matches on the table after Debora's sixth move in the game*
 
-> With the matches, Deborah has become passionate about a game of matches in which she follows some rules meticulously. On the first move, put a match on the table. In the second, it supports two new matches (in their middle) at its ends. With the third move, support (always in their midpoint) 4 new matches at the 4 free ends. When two ends are very close together, such as in the situations indicated on the figure with arrows, these cannot therefore "host" new matches. In the fourth move, the game continues with four new matches. How many matches will be on the table after the sixth move?
+> WITH MATCHES
+> Debora has become fond of a matchstick game in which she meticulously follows certain rules. On the first move, she places one matchstick on the table. On the second move, she places two new matchsticks on its ends (at their midpoints). On the third move, she places 4 new matchsticks (again at their midpoints) on the 4 free ends. When two ends end up very close to each other—as, for example, in the situations indicated by arrows in the figure—they cannot therefore "host" new matchsticks. On the fourth move, she continues the game with 4 new matchsticks. How many matchsticks will be on the table after the sixth move?
 
 ![[src_bocconi_autunno_2010__q04.png]]
 
-**Answer:** 23
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2010#q04|src_bocconi_autunno_2010__Q04]]
 
 
 
@@ -167,13 +191,19 @@ Time of Luke's first awakening with a switch off on the alarm clock
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Magic rectangle 2×4 with integers 1 to 8*
+*Magic rectangle 2×4 with the integers from 1 to 8*
 
-> A MAGICAL RETANGLE Write all integers from 1 to 8 in the rectangular boxes so that: • the sum of the two numbers in each column is always the same; • the sum of the four numbers in each row is always the same; • the numbers in the upper row are ordered from minor to major (from left to right).
+> A Magic Rectangle
+> Write all the integers from 1 to 8 in the boxes of the rectangle so that: • the sum of the two numbers in each column is always the same; • the sum of the four numbers in each row is always the same; • the numbers in the top row are arranged from smallest to largest (from left to right).
 
 ![[src_bocconi_autunno_2010__q05.png]]
 
-**Answer:** top row 1 4 6 7; bottom row 8 5 3 2
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2010#q05|src_bocconi_autunno_2010__Q05]]
 
 
 
@@ -200,11 +230,17 @@ Time of Luke's first awakening with a switch off on the alarm clock
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figures 5 to 9 to be placed on the par with 103*
+*Digits from 5 to 9 to be placed in the equation with 103*
 
-> DUE EQUAL SUMMARY $103 + \_\ \_ = \_\ 2 + \_\ \_ + 4$ Place all digits 5 to 9 in the two members of the equality instead of the strings so that equality is satisfied. What's the number you add to 103? (The question admits more than one solution; only one must be indicated.)
+> Two Equal Sums
+> $103 + \_\ \_ = \_\ 2 + \_\ \_ + 4$ In the two sides of the equation, replace the dashes with all the digits from 5 to 9 in such a way that the equation holds. What number should be added to 103? (The problem has more than one solution; only one must be given.)
 
-**Answer:** 59 o 68
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2010#q06|src_bocconi_autunno_2010__Q06]]
 
 
 
@@ -235,11 +271,17 @@ Time of Luke's first awakening with a switch off on the alarm clock
 <div class="qlang-split" data-lang="en"></div>
 
 
-Selecting the youngest of four friends with only one mind
+*Identify the youngest among four friends, only one of whom is a mind*
 
-> THE FOUR FRIENDS Here are the statements made by four friends: Anna: "I am the oldest". Carla: "I am neither the oldest nor the youngest". Liliana: "I am not the youngest". Milena: "I am the youngest". Who, of the four friends, is actually the youngest?
+> The Four Friends
+> Here are the statements made by four friends: Anna: "I am the oldest." Carla: "I am neither the oldest nor the youngest." Liliana: "I am not the youngest." Milena: "I am the youngest." The fact is that one of them (and only one) lied. Which of the four friends is actually the youngest?
 
-**Answer:** Milena
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2010#q07|src_bocconi_autunno_2010__Q07]]
 
 
 
@@ -264,11 +306,16 @@ Selecting the youngest of four friends with only one mind
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of Angelo given the relationship to age of mother*
+*Angelo's current age, given the relationship to his mother's age*
 
-> Today, Angelo is a quarter of his mother's age. When he turns 18, his mother will be three times his age. How old is Angelo now?
+> Angelo's Age
+> Today, Angelo is a quarter of his mother's age. When he is 18 years old, his mother will be three times his age. How old is Angelo currently?
 
-**Answer:** 12
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2010#q08|src_bocconi_autunno_2010__Q08]]
 
 
 
@@ -294,11 +341,19 @@ Selecting the youngest of four friends with only one mind
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To divide the figure into three equal and overlapping parts*
+*Divide the figure into three equal and superimposable parts*
 
-> The Declaration of Autumn 2010 Force! Divide the figure into three parts of the same shape and size (i.e. the three parts must be completely overlapping, even if by some rotation or overturning).
+> The Scheduling for Autumn 2010
+> Come on! Divide the figure into three parts of the same shape and the same size (that is, the three parts must be completely superposable, possibly by means of some rotation or reflection).
 
 ![[src_bocconi_autunno_2010__q09.png]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2010#q09|src_bocconi_autunno_2010__Q09]]
 
 
 
@@ -323,11 +378,17 @@ Selecting the youngest of four friends with only one mind
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Littleest positive integer ending in 2011 and divisible by 7*
+*The smallest positive integer that ends in 2011 and is divisible by 7*
 
-> 2011 is NOT divisible by 7 Find the smallest positive integer whose writing ends with 2011 and is divisible by 7.
+> 2011 is not divisible by 7
+> Find the smallest positive integer whose representation ends in 2011 and which is divisible by 7.
 
-**Answer:** 32011
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2010#q10|src_bocconi_autunno_2010__Q10]]
 
 
 
@@ -352,11 +413,16 @@ Selecting the youngest of four friends with only one mind
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Excise time from two clocks going forward by 8 and 6 minutes per hour*
+*The exact time according to the two clocks that are running 8 and 6 minutes fast per hour*
 
-> Two clocks were charged and started at the same time today. But the first goes on for eight minutes every hour, the second for six. What time is it exactly when, still today, the first clock indicates 7:09 p.m. and the second 6:53 p.m.?
+> BOTH FORWARD
+> Two clocks were wound and started at the same moment today. However, the first gains 8 minutes every hour, and the second gains 6 minutes. What is the exact time when, also today, the first clock shows 19:09 and the second shows 18:53?
 
-**Answer:** 18 h 05 min
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_autunno_2010#q11|src_bocconi_autunno_2010__Q11]]
 
 
 
@@ -382,11 +448,17 @@ Selecting the youngest of four friends with only one mind
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance traveled by the spider between the 8 vertices of a room*
+*Minimum distance traveled by the spider among the 8 vertices of a room*
 
-> IN A parallel-piped room (6 m wide, 8 m long, and 4 m high) a spider has placed itself comfortably on one of the vertices. The other seven peaks have as many flies, trying to stay still (one for each summit). The spider then decides to eat them, one by one, before returning to the starting point, so as to cover the shortest possible distance. What is the minimum distance?
+> The Spider and the Flies
+> In a rectangular parallelepiped-shaped room (6 m wide, 8 m long, and 4 m high), a spider has settled in comfortably at one of the vertices. At the other 7 vertices, there are an equal number of flies, each staying motionless (one at each vertex). The spider then decides to eat them one by one before returning to its starting point, so as to travel the shortest possible distance. What is the minimum distance it must travel?
 
-**Answer:** 44 m
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2010#q12|src_bocconi_autunno_2010__Q12]]
 
 
 
@@ -414,13 +486,19 @@ Selecting the youngest of four friends with only one mind
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum integer value of x for which the polygonal track returns to A*
+*Maximum integer value of x for which the polygonal trace returns to A*
 
-> POLIGONAL TRACES Starting from A, trace a segment of 5 cm as shown in Figure 1. Then, in relation to this direction, "turn" clockwise of x sexagesimal degrees (with x positive integer). Draw another 5 cm segment and repeat, as shown in the figure, the operation of "rotating" clockwise by x degrees. Continue like this until you get back to point A. What's the maximum value of x?
+> Polygonal Traces
+> Starting from A, draw a 5 cm line segment as shown in the figure. Then, relative to this direction, "rotate" clockwise by x sexagesimal degrees (where x is a positive integer). Draw another 5 cm line segment and, as shown in the figure, repeat the operation of "rotating" clockwise by x degrees. Continue in this way until you return to point A. What is the maximum possible value of x?
 
 ![[src_bocconi_autunno_2010__q13.png]]
 
-**Answer:** 179
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2010#q13|src_bocconi_autunno_2010__Q13]]
 
 
 
@@ -444,11 +522,16 @@ Selecting the youngest of four friends with only one mind
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle width between clock hands at 14.45*
+*Magnitude of the angle between the hands of a clock at 2:45 p.m*
 
-> What is the angle, less than a flat angle, formed by the hands of the clock at 2:45 p.m.? (The two handles are assimilated to semirettes and are assumed to move continuously).
+> The exact time
+> What is the measure of the angle, less than a straight angle, formed by the hands of a clock at 2:45 p.m.? (The two hands are treated as rays, and it is assumed that they move continuously.)
 
-**Answer:** 172^\circ 30'
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2010#q14|src_bocconi_autunno_2010__Q14]]
 
 
 
@@ -474,11 +557,17 @@ Selecting the youngest of four friends with only one mind
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of tokens to be removed to avoid products remaining*
+*Minimum number of tokens to remove to avoid leftover products in between*
 
-> RENATO has 1,000 tokens at his disposal on which he can read all the numbers from 1 to 1,000. How many tokens must you minimize to make sure that none of the remaining tokens have the same number as the product of the numbers of the other two (remaining) tokens?
+> SECURE TOKENS
+> Renato has 1,000 tokens at his disposal, and on each token he can read all the numbers from 1 to 1,000. What is the minimum number of tokens he must remove to be certain that, among the remaining tokens, none has a number equal to the product of the numbers on two other remaining tokens?
 
-**Answer:** 30
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2010#q15|src_bocconi_autunno_2010__Q15]]
 
 
 
@@ -508,13 +597,19 @@ Selecting the youngest of four friends with only one mind
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Magic rectangle 3×5 with integers 1 to 15 and central symmetry*
+*Magic rectangle 3×5 with the integers from 1 to 15 and central symmetry*
 
-> MAGICAL RETANGLE Write all integers from 1 to 15 (except the two that have already been inserted) in the boxes of the rectangle so that: • the sum of the three numbers in each column is always the same; • the sum of the five numbers in each row is always the same; • the sum of the two numbers arranged symmetrically with respect to the center box is always the same.
+> The Magic Rectangle
+> Write all the integers from 1 to 15 (except the two that have already been entered) in the cells of the rectangle so that: • the sum of the three numbers in each column is always the same; • the sum of the five numbers in each row is always the same; • the sum of the two numbers positioned symmetrically with respect to the central cell is always the same.
 
 ![[src_bocconi_autunno_2010__q16.png]]
 
-**Answer:** top row 5 14 4 7 10; middle row 13 1 8 15 3; bottom row 6 9 12 2 11
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2010#q16|src_bocconi_autunno_2010__Q16]]
 
 
 
@@ -540,11 +635,17 @@ Selecting the youngest of four friends with only one mind
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major angle of a triangle with sides of 8, 25,6 and 30,4 cm*
+*The largest angle of a triangle with sides 8, 25.6, and 30.4 cm*
 
-> The Desiderio Triangle is intersected by a triangle whose sides measure 8 cm; 25.6 cm; 30.4 cm respectively . What is the size (in degrees) of the largest of the angles of the triangle?
+> THE TRIANGLE
+> Desiderio is dealing with a triangle whose sides measure 8 cm, 25.6 cm, and 30.4 cm, respectively. What is the measure (in degrees) of the largest angle of the triangle?
 
-**Answer:** 120^\circ
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2010#q17|src_bocconi_autunno_2010__Q17]]
 
 
 
@@ -570,8 +671,14 @@ Selecting the youngest of four friends with only one mind
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the alternate sum of consecutive odd products*
+*Value of the alternating sum of products of consecutive odd numbers*
 
-> But Amerigo is struggling with a calculation. Help him calculate the value of this expression: $1 \times 3 - 5 \times 7 + 9 \times 11 - 13 \times 15 + \ldots - 2005 \times 2007 + 2009 \times 2011$
+> Always Odd
+> Amerigo, on the other hand, is grappling with a calculation. Help him calculate the value of this expression: $1 \times 3 - 5 \times 7 + 9 \times 11 - 13 \times 15 + \ldots - 2005 \times 2007 + 2009 \times 2011$
 
-**Answer:** 2 024 067
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_telescoping|Telescoping sums]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2010#q18|src_bocconi_autunno_2010__Q18]]

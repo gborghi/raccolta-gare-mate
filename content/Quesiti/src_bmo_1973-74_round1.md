@@ -31,11 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre curve in cui B divide l'area tra A e C; trovare l'equazione di C*
-
-> Le curve $A$, $B$ e $C$ sono correlate in modo tale che $B$ "bisetti" l'area tra $A$ e $C$, cioè l'area della regione $V$ è uguale all'area della regione $W$ in tutti i punti della curva $B$. Trova l'equazione della curva $C$ dato che l'equazione della curva $A$ è $y = \frac{x}{x_0}$ e che l'equazione della curva $B$ è $y = \frac{x}{x_0^2}$.
+*L'equazione della curva $C$ se $B$ biseca l'area fra $A$ e $C$*
 
 ![[src_bmo_1973-74_round1__q01.png]]
+
+> Le curve $A$, $B$ e $C$ sono legate in modo che $B$ «biseca» l'area fra $A$ e $C$, cioè l'area della regione $V$ è uguale all'area della regione $W$ in tutti i punti della curva $B$. Trovare l'equazione della curva $C$ sapendo che l'equazione della curva $A$ è $y = \frac{x}{x_0}$ e che l'equazione della curva $B$ è $y = \frac{x}{x_0^2}$.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1973-74_round1#q01|src_bmo_1973-74_round1__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sett di partizioni di 15 domino (integer 15) in tre catene chiuse di 5*
+*Quante partizioni dei 15 domino in tre catene chiuse*
 
-> Un domino è una coppia di numeri interi non ordinati. L'insieme di tutti i 15 domino contenenti due enti da $1, 2, 3, 4, 5$ è diviso in tre sottinsiemi di cinque domino. I domino di ciascun sottoinsieme formano una catena chiusa, cioè $(a_1,b_1)(a_2,b_2)(a_3,b_3)(a_4,b_4)(a_5,b_5)$, dove $a_2 = b_1$, $a_3 = b_2$, $a_4 = b_3$, $a_5 = b_4$, $a_1 = b_5$ (e $a_i$, $b_i$ non devono essere tutti diversi). Quante partizioni di questo tipo ci sono? (L'ordine dei tre sottogruppi della partizione è irrilevante.)
+> Un domino è una coppia non ordinata di interi. L'insieme di tutti i 15 domino che contengono due interi fra $1, 2, 3, 4, 5$ è ripartito in tre sottoinsiemi di cinque domino. I domino di ciascun sottoinsieme formano una catena chiusa, cioè $(a_1,b_1)(a_2,b_2)(a_3,b_3)(a_4,b_4)(a_5,b_5)$ dove $a_2 = b_1$, $a_3 = b_2$, $a_4 = b_3$, $a_5 = b_4$, $a_1 = b_5$ (e $a_i$, $b_i$ non devono essere tutti diversi). Quante sono tali partizioni? (L'ordine dei tre sottoinsiemi nella partizione è irrilevante.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1973-74_round1#q02|src_bmo_1973-74_round1__Q02]]
 
 
 
@@ -83,9 +97,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che nessun poliedro converso può avere tutte le facce esagonali*
+*È impossibile che tutte le facce di un poliedro convesso siano esagoni*
 
-> Dimostra che è impossibile che tutti i volti di un poliedro converso siano esagoni.
+> Dimostrare che è impossibile che tutte le facce di un poliedro convesso siano esagoni.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1973-74_round1#q03|src_bmo_1973-74_round1__Q03]]
 
 
 
@@ -108,9 +129,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'inverso della matrice 16x16 con 1s sulla diagonale di punta e nella sesta riga*
+*L'inversa della matrice $M$ di ordine $16 \times 16$*
 
-> $M$ è una matrice $16 \times 16$. Ogni elemento nella diagonale principale e ogni elemento nell'ultima riga (la sesta riga) è $1$. Ogni altro elemento della matrice è $0$. Trova l'inverso di $M$.
+> $M$ è una matrice $16 \times 16$. Ogni elemento della diagonale principale e ogni elemento dell'ultima riga (la 16ª riga) è $1$. Ogni altro elemento della matrice è $0$. Trovare l'inversa di $M$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1973-74_round1#q04|src_bmo_1973-74_round1__Q04]]
 
 
 
@@ -133,9 +161,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Probabilità che esattamente un giocatore abbia un completo in un contratto di ponte*
+*La probabilità che un solo giocatore abbia un seme completo*
 
-> Un accordo di bridge è definito come la distribuzione di 52 carte di gioco ordinarie tra quattro giocatori in modo che ciascuno abbia 13 carte. In un accordo di bridge, qual è la probabilità che solo un giocatore abbia un completo? (Lascia la tua risposta nei fattoriali.)
+> Una distribuzione a bridge è la distribuzione di 52 carte ordinarie fra quattro giocatori in modo che ciascuno abbia 13 carte. In una distribuzione a bridge, qual è la probabilità che un solo giocatore abbia un seme completo? (Lasciare la risposta in fattoriali.)
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1973-74_round1#q05|src_bmo_1973-74_round1__Q05]]
 
 
 
@@ -158,9 +193,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piedi di perpendicolari da P ai lati del triangolo; linea attraverso P perpendicolare a AB incontra XY a Z, suddividendo AB*
+*Dimostrare che $CZ$ biseca $AB$*
 
-> $X$ e $Y$ sono i piedi delle perpendicolari da un punto $P$ a $CA$ e $CB$ rispettivamente, dove $P$ è un punto del triangolo $ABC$. La linea retta attraverso $P$, perpendicolare a $AB$, taglia $XY$ a $Z$. Provare che $CZ$ divide $AB$.
+> $X$ e $Y$ sono i piedi delle perpendicolari da un punto $P$ rispettivamente a $CA$ e a $CB$, dove $P$ è un punto del triangolo $ABC$. La retta per $P$ perpendicolare ad $AB$ seca $XY$ in $Z$. Dimostrare che $CZ$ biseca $AB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1973-74_round1#q06|src_bmo_1973-74_round1__Q06]]
 
 
 
@@ -185,9 +227,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rede di cubo espresse tra loro; trovare i coefficienti p, q, r e condizione di realtà*
+*$p$, $q$, $r$ in funzione di $b$ e $c$, e quando sono reali*
 
-> Le radici dell'equazione $x^3 = bx + c$ ($bc \neq 0$, $b$ e $c$ reale) sono $\alpha$, $\beta$ e $\gamma$. Determinare $p$, $q$ e $r$ in termini di $b$ e $c$ in modo tale che $$\beta = p\alpha^2 + q\alpha + r, \quad \gamma = p\beta^2 + q\beta + r, \quad \alpha = p\gamma^2 + q\gamma + r$$ e indicare una condizione che garantisca che $p$, $q$ e $r$ siano reali.
+> Le radici dell'equazione $x^3 = bx + c$ ($bc \neq 0$, $b$ e $c$ reali) sono $\alpha$, $\beta$ e $\gamma$. Determinare $p$, $q$ e $r$ in funzione di $b$ e $c$ in modo che
+> $$\beta = p\alpha^2 + q\alpha + r, \quad \gamma = p\beta^2 + q\beta + r, \quad \alpha = p\gamma^2 + q\gamma + r$$
+> e indicare una condizione che assicuri che $p$, $q$ e $r$ siano reali.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1973-74_round1#q07|src_bmo_1973-74_round1__Q07]]
 
 
 
@@ -229,9 +280,35 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Escrivere il prodotto di (x+i) come polinomio; dimostrare divisibilità; dedurre i teoremi di Wilson e Fermat*
+*Da quelle relazioni, Wilson e Fermat*
 
-> $n$ sia un numero primo impar. È necessario scrivere il prodotto $$\prod_{i=1}^{n-1}(x+i)$$ come polinomio $$\sum_{j=0}^{n-1} a_j x^j.$$ Considerando il prodotto $\prod_{i=1}^{n}(x+i)$ in due modi, stabilire le relazioni $$a_{n-1} = 1,$$ $$a_{n-2} = n(n-1)/2!,$$ $$2a_{n-3} = n(n-1)(n-2)/3! + a_{n-2}(n-1)(n-2)/2!,$$ $$\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots$$ $$\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots$$ $$(n-2)a_1 = n + a_{n-2}(n-1) + a_{n-3}(n-2) + \cdots + 3a_2,$$ $$(n-1)a_0 = 1 + a_{n-2} + \cdots + a_1.$$ Prove $n \mid a_j$ ($j = 1, 2, \ldots, n-2$) e che $n \mid (a_0 + 1)$; e dimostrare anche che quando $x$ è un numero intero $$n \mid (x+1)(x+2)\cdots(x+n-1) - x^{n-1} + 1.$$ Da qui dedurre il teorema di Wilson e il teorema di Fermat, vale a dire che quando $n$ è primo e $x$ non è un multiple di $n$: \MSK{itemize} \itemii[((((((((( \end{itemize} ($p \mid q$ significa $p$ divide $q$ senza lasciare alcun rimanente.)
+> Sia $n$ un numero primo dispari. Si deve scrivere il prodotto
+> $$\prod_{i=1}^{n-1}(x+i)$$
+> come un polinomio
+> $$\sum_{j=0}^{n-1} a_j x^j.$$
+> Considerando in due modi il prodotto $\prod_{i=1}^{n}(x+i)$, stabilire le relazioni
+> $$a_{n-1} = 1,$$
+> $$a_{n-2} = n(n-1)/2!,$$
+> $$2a_{n-3} = n(n-1)(n-2)/3! + a_{n-2}(n-1)(n-2)/2!,$$
+> $$\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots$$
+> $$\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots$$
+> $$(n-2)a_1 = n + a_{n-2}(n-1) + a_{n-3}(n-2) + \cdots + 3a_2,$$
+> $$(n-1)a_0 = 1 + a_{n-2} + \cdots + a_1.$$
+> Dimostrare che $n \mid a_j$ ($j = 1, 2, \ldots, n-2$) e che $n \mid (a_0 + 1)$; e dimostrare anche che quando $x$ è un intero
+> $$n \mid (x+1)(x+2)\cdots(x+n-1) - x^{n-1} + 1.$$
+> Dedurre da ciò il teorema di Wilson e il teorema di Fermat, cioè che quando $n$ è primo e $x$ non è un multiplo di $n$:
+> \begin{itemize}
+> \item[(i)] $n \mid (n-1)! + 1$;
+> \item[(ii)] $n \mid x^{n-1} - 1$.
+> \end{itemize}
+> ($p \mid q$ significa che $p$ divide $q$ senza resto.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1973-74_round1#q08|src_bmo_1973-74_round1__Q08]]
 
 
 
@@ -255,11 +332,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rota verticale inclinata alle cascate di base; trovare il tempo per raggiungere il tavolo*
+*Il tempo di caduta di un'asta di lunghezza $2a$, e un commento*
 
-> Una barra verticale uniforme di lunghezza $2a$ è inclinata alla sua estremità inferiore ad una giunta senza attrito fissata ad una tavola orizzontale. Cade dal riposo in questa posizione instabile sul tavolo. Trova il tempo impiegato per cadere. Commenta la tua risposta.
-> 
-> [Puoi citare il risultato $\displaystyle\int (\operatorname{cosec} x)\,dx = \log|\tan \tfrac{1}{2}x|$ se lo desideri.]
+> Un'asta verticale uniforme di lunghezza $2a$ è incernierata all'estremo inferiore a un giunto senza attrito fissato a un tavolo orizzontale. Cade da ferma da questa posizione instabile sul tavolo. Trovare il tempo impiegato a cadere. Commentare la risposta.
+>
+> [Si può citare il risultato $\displaystyle\int (\operatorname{cosec} x)\,dx = \log|\tan \tfrac{1}{2}x|$ se si vuole.]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1973-74_round1#q09|src_bmo_1973-74_round1__Q09]]
 
 
 
@@ -285,8 +368,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Attrazione gravitazionale di un cono troncato su una massa unitaria al vertice V
+*L'attrazione gravitazionale del solido sull'unità di massa in $V$*
 
-> Un cono circolare dritto la cui vertica è $V$ e il cui angolo semivertico è $\alpha$ ha altezza $h$ e densità uniforme. Tutti i punti del cono le cui distanze da $V$ sono inferiori a $a$ o superiori a $b$, dove $0 < a < b < h$, sono rimossi. Un solido di massa $M$ resta.
-> 
-> Poiché l'attrazione gravitazionale che un punto di massa $m$ a $P$ esercita su massa unità a $O$ è $(Gm/OP^3)\overrightarrow{OP}$, dimostrare che la magnitudine dell'attrazione gravitazionale di questo solido su massa unità a $V$ è $$\tfrac{3}{2}GM(1+\cos\alpha)\,/\,(a^2 + ab + b^2).$$
+> Un cono circolare retto di vertice $V$ e di semiapertura $\alpha$ ha altezza $h$ e densità uniforme. Si tolgono tutti i punti del cono le cui distanze da $V$ sono minori di $a$ o maggiori di $b$, dove $0 < a < b < h$. Resta un solido di massa $M$.
+>
+> Sapendo che l'attrazione gravitazionale che una massa puntiforme $m$ in $P$ esercita sull'unità di massa in $O$ è $(Gm/OP^3)\overrightarrow{OP}$, dimostrare che il modulo dell'attrazione gravitazionale di questo solido sull'unità di massa in $V$ è
+> $$\tfrac{3}{2}GM(1+\cos\alpha)\,/\,(a^2 + ab + b^2).$$
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1973-74_round1#q10|src_bmo_1973-74_round1__Q10]]

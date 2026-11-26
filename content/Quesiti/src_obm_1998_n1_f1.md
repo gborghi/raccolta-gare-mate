@@ -36,7 +36,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La più grande delle cinque espressioni esponenziali nella base 3*
+*Il più grande tra cinque espressioni esponenziali in base 3*
 
 > Quale dei seguenti numeri è il più grande?
 >
@@ -46,7 +46,12 @@ level: OBM Nível 1
 > - **(D)** $243^{8}$
 > - **(E)** $81^{11}$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n1_f1#q01|src_obm_1998_n1_f1__Q01]]
 
 
 
@@ -76,9 +81,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare somme distinte quando vengono lanciati tre dadi*
+*Conta le somme distinte quando vengono lanciati tre dadi*
 
-> Un ragazzo lancia tre dadi e aggiunge i numeri che appaiono sulle facce superiori. Il numero di risultati possibili diversi di questa somma è:
+> Un ragazzo lancia tre dadi e somma i numeri che compaiono sulle facce superiori. Il numero di risultati possibili diversi di questa somma è:
 >
 > - **(A)** $112$
 > - **(B)** $18$
@@ -86,7 +91,12 @@ level: OBM Nível 1
 > - **(D)** $16$
 > - **(E)** $15$
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n1_f1#q02|src_obm_1998_n1_f1__Q02]]
 
 
 
@@ -116,9 +126,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricuperare il numero di input da una sequenza di operazioni*
+*Recupera il numero in input da una sequenza di operazioni*
 
-> Renata ha digitato un numero sulla sua calcolatrice, lo ha moltiplicato per $3$, aggiunto $12$, diviso il risultato per $7$ e ottenuto il numero $15$. Il numero che ha digitato era:
+> Renata ha digitato un numero sulla sua calcolatrice, lo ha moltiplicato per $3$, ha aggiunto $12$, ha diviso il risultato per $7$ e ha ottenuto il numero $15$. Il numero che ha digitato era:
 >
 > - **(A)** $31$
 > - **(B)** $7$
@@ -126,7 +136,12 @@ level: OBM Nível 1
 > - **(D)** $279$
 > - **(E)** $27$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1998_n1_f1#q03|src_obm_1998_n1_f1__Q03]]
 
 
 
@@ -155,9 +170,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lap count per ciclisti più lenti quando completano più velocemente il giro 80*
+*Numero di giri del ciclista più lento quando il più veloce completa l'80° giro*
 
-> In una competizione ciclistica, Carlinho completa un giro completo della pista in $30$ secondi, mentre Paulinho impiega $32$ secondi per completare un giro. Quando Carlinho completerà il numero del giro $80$, Paulinho completerà il numero del giro:
+> In una gara ciclistica, Carlinho completa un giro intero del tracciato in $30$ secondi, mentre Paulinho impiega $32$ secondi per completare un giro. Quando Carlinho avrà completato il giro numero $80$, Paulinho starà completando il giro numero:
 >
 > - **(A)** $79$
 > - **(B)** $78$
@@ -165,7 +180,11 @@ level: OBM Nível 1
 > - **(D)** $77$
 > - **(E)** $75$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n1_f1#q04|src_obm_1998_n1_f1__Q04]]
 
 
 
@@ -194,17 +213,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Resultat di squadratura, sottrazione e divisione di un numero positivo da solo*
+*Risultato di elevare al quadrato un numero positivo, sottrarlo da sé stesso e dividere il numero positivo per sé stesso*
 
-> Ho sollevato un numero positivo al quadrato, ho sottratto il risultato dallo stesso numero, e poi ho diviso quello che rimaneva dallo stesso numero. Il risultato ottenuto è stato uguale a:
+> Ho elevato a quadrato un numero positivo, ho sottratto il risultato dallo stesso numero e poi ho diviso ciò che restava per lo stesso numero. Il risultato che ho ottenuto era uguale a:
 >
-> - **(A)** Il numero stesso
-> - **(B)** raddoppiare il numero
-> - **(C)** Numero più $1$
+> - **(A)** Il numero in sé
+> - **(B)** Raddoppia il numero
+> - **(C)** Il numero più $1$
 > - **(D)** La radice quadrata del numero
 > - **(E)** Il numero meno $1$
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1998_n1_f1#q05|src_obm_1998_n1_f1__Q05]]
 
 
 
@@ -234,9 +257,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri a 3 cifre la cui somma digitale è 25*
+*Conta i numeri di tre cifre la cui somma delle cifre è 25*
 
-> Quanti sono i numeri $3$ a cui la somma digitali è uguale a $25$?
+> Quanti numeri di $3$ cifre hanno una somma delle cifre pari a $25$?
 >
 > - **(A)** $2$
 > - **(B)** $4$
@@ -244,7 +267,12 @@ level: OBM Nível 1
 > - **(D)** $8$
 > - **(E)** $10$
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n1_f1#q06|src_obm_1998_n1_f1__Q06]]
 
 
 
@@ -274,9 +302,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare il più giovane tra i quattro ragazzi di età*
+*Identifica il più giovane tra quattro ragazzi sulla base delle relazioni di età*
 
-> João è più vecchio di Pedro, che è più giovane di Carlos; António è più vecchio di Carlos, che è più giovane di João. António non è più giovane di João, e tutti e quattro i ragazzi hanno età diversa. Il più giovane di loro è:
+> João è più grande di Pedro, che è più giovane di Carlos; António è più grande di Carlos, che è più giovane di João. António non è più giovane di João, e tutti e quattro i ragazzi hanno età diverse. Il più giovane tra loro è:
 >
 > - **(A)** João
 > - **(B)** António
@@ -284,7 +312,12 @@ level: OBM Nível 1
 > - **(D)** Carlos
 > - **(E)** Impossibile determinare dalle informazioni fornite
 
-**Risposta:** C
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n1_f1#q07|src_obm_1998_n1_f1__Q07]]
 
 
 
@@ -320,13 +353,13 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova l'ultimo numero in una catena circolare in cui ogni tre somme consecutive fino a 12*
+*Trovare l'ultimo numero in una catena circolare in cui la somma di ogni tre numeri consecutivi è 12*
 
-> Scrivi un numero in ogni cerchio nella riga seguente in modo che la somma di tutti e tre numeri consecutivi sia $12$. Il primo cerchio contiene $3$ e il sesto cerchio $5$.
+> Scrivi un numero in ciascun cerchio della riga sottostante in modo che la somma di tre numeri consecutivi qualsiasi sia $12$. Il primo cerchio contiene $3$ e il sesto cerchio contiene $5$.
 >
 > $$\bigcirc\!3\!\bigcirc \quad \bigcirc \quad \bigcirc \quad \bigcirc\!5\!\bigcirc \quad \bigcirc \quad \bigcirc$$
 >
-> Il numero che deve apparire nell'ultimo cerchio (a destra) è:
+> Il numero che deve comparire nell'ultimo cerchio (il più a destra) è:
 >
 > - **(A)** $3$
 > - **(B)** $2$
@@ -336,7 +369,12 @@ level: OBM Nível 1
 
 ![[src_obm_1998_n1_f1__q08.png]]
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n1_f1#q08|src_obm_1998_n1_f1__Q08]]
 
 
 
@@ -368,9 +406,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i cubetti unitari con esattamente 2 facce verniciate dopo aver separato un solido rettangolare verniciato*
+*Conta i cubi unità con esattamente 2 facce dipinte dopo aver separato un solido rettangolare dipinto*
 
-> 16 cubetti unitari (ciascuno con lato $1\,\text{cm}$) sono collocati insieme formando il solido rettangolare (cuboide) mostrato sopra. La superficie del solido fu dipinta di verde; poi i cubetti furono separati. Il numero di cubi che hanno esattamente due facce verdi è:
+> Sedici cubi unitari (ciascuno con lato di $1\,\text{cm}$) vengono disposti insieme a formare il solido rettangolare (parallelepipedo rettangolo) mostrato sopra. La superficie del solido è stata dipinta di verde; poi i cubi sono stati separati. Il numero di cubi che hanno esattamente due facce verdi è:
 >
 > - **(A)** $2$
 > - **(B)** $6$
@@ -380,7 +418,12 @@ level: OBM Nível 1
 
 ![[src_obm_1998_n1_f1__q09.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n1_f1#q09|src_obm_1998_n1_f1__Q09]]
 
 
 
@@ -409,9 +452,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Zona per famiglia dopo aver diviso un'azienda agricola rettangolare tra 200 famiglie*
+*Area per famiglia dopo aver diviso un'azienda agricola rettangolare tra 200 famiglie*
 
-> Una fattoria rettangolare di $10\,\text{km}$ di larghezza e $20\,\text{km}$ di lunghezza è stata espropria per la riforma agraria. L'azienda agricola deve essere suddivisa tra famiglie $200$ in modo che ciascuna famiglia riceva la stessa superficie. Ogni famiglia dovrebbe ricevere:
+> Una fattoria rettangolare larga $10\,\text{km}$ e lunga $20\,\text{km}$ è stata espropriata per la riforma agraria. La fattoria deve essere divisa tra $200$ famiglie, in modo che ciascuna famiglia riceva la stessa superficie. Ogni famiglia dovrebbe ricevere:
 >
 > - **(A)** $1{,}000{,}000\,\text{m}^2$
 > - **(B)** $100{,}000\,\text{m}^2$
@@ -419,7 +462,11 @@ level: OBM Nível 1
 > - **(D)** $1{,}000\,\text{m}^2$
 > - **(E)** $10{,}000\,\text{m}^2$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n1_f1#q10|src_obm_1998_n1_f1__Q10]]
 
 
 
@@ -448,9 +495,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fee di parcheggio per un determinato intervallo di tempo*
+*Calcola la tariffa di parcheggio per un intervallo di tempo specifico*
 
-> Un parcheggio impone $1$ reali per la prima ora e $75$ centavos per ogni ora successiva o frazione di essa. André ha parcheggiato la sua auto a $11$h\\$20$min e se ne è andato a $15$h\$40$min. Quanti reais deve pagare per il parcheggio?
+> Un parcheggio applica una tariffa di $1$ real per la prima ora e di $75$ centavos per ogni ora successiva o frazione di essa. André ha parcheggiato l'auto alle $11$h\$20$min e è partito alle $15$h\$40$min. Quanti real deve pagare per il parcheggio?
 >
 > - **(A)** $2.50$
 > - **(B)** $4.00$
@@ -458,7 +505,11 @@ level: OBM Nível 1
 > - **(D)** $4.75$
 > - **(E)** $3.75$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n1_f1#q11|src_obm_1998_n1_f1__Q11]]
 
 
 
@@ -488,9 +539,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rolle massime ottenute da quantità limitate di ingredienti*
+*Numero massimo di rotoli ottenuti da quantità limitate di ingredienti*
 
-> Per realizzare i rulli $12$ occorre esattamente $100\,\text{g}$ di zucchero, $50\,\text{g}$ di burro, mezzo litro di latte e $400\,\text{g}$ di farina. Il maggior numero di rulli che si possono produrre con $500\,\text{g}$ di zucchero, $300\,\text{g}$ di burro, $4$ di litri di latte e $5$ di chilogrammi di farina è:
+> Per preparare $12$ rotoli, occorrono esattamente $100\,\text{g}$ di zucchero, $50\,\text{g}$ di burro, mezzo litro di latte e $400\,\text{g}$ di farina. Il numero massimo di rotoli che si possono preparare con $500\,\text{g}$ di zucchero, $300\,\text{g}$ di burro, $4$ litri di latte e $5$ chilogrammi di farina è:
 >
 > - **(A)** $48$
 > - **(B)** $60$
@@ -498,7 +549,12 @@ level: OBM Nível 1
 > - **(D)** $54$
 > - **(E)** $42$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n1_f1#q12|src_obm_1998_n1_f1__Q12]]
 
 
 
@@ -530,9 +586,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Matchsticks necessari per 100 quadrati consecutivi*
+*Fiammiferi necessari per 100 caselle di fila*
 
-> Joãozinho fa una fila di quadrati utilizzando i fiammiferi, come mostra la figura. Il numero di fiammiferi necessari per creare una fila di quadrati $100$ è:
+> Joãozinho forma una riga di quadrati usando stuzzicadenti, come mostrato nella figura. Il numero di stuzzicadenti necessari per formare una riga di $100$ quadrati è:
 >
 > - **(A)** $296$
 > - **(B)** $293$
@@ -542,7 +598,12 @@ level: OBM Nível 1
 
 ![[src_obm_1998_n1_f1__q13.png]]
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n1_f1#q13|src_obm_1998_n1_f1__Q13]]
 
 
 
@@ -572,9 +633,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Differenza tra la somma di tutti i numeri odd e tutti i numeri pari a due cifre*
+*Differenza tra la somma di tutti i numeri pari a due cifre e la somma di tutti i numeri dispari a due cifre*
 
-> La somma di tutti i numeri a due cifre dispari meno la somma di tutti i numeri a due cifre pari:
+> La somma di tutti i numeri pari a due cifre meno la somma di tutti i numeri dispari a due cifre è uguale a:
 >
 > - **(A)** $50$
 > - **(B)** $46$
@@ -582,7 +643,12 @@ level: OBM Nível 1
 > - **(D)** $49$
 > - **(E)** $48$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n1_f1#q14|src_obm_1998_n1_f1__Q14]]
 
 
 
@@ -611,9 +677,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero da aggiungere al numeratore e da sottrarre dal denominatore per invertere una frazione*
+*Numero da aggiungere al numeratore e da sottrarre dal denominatore per invertire una frazione*
 
-> Il numero che dobbiamo aggiungere al numeratore e sottrarre dal denominatore della frazione $\dfrac{1478}{5394}$ per trasformarla nella sua reciproca (inversa) è:
+> Il numero che dobbiamo aggiungere al numeratore e sottrarre dal denominatore della frazione $\dfrac{1478}{5394}$ per trasformarla nel suo reciproco (inverso) è:
 >
 > - **(A)** $3{,}916$
 > - **(B)** $3{,}913$
@@ -621,7 +687,11 @@ level: OBM Nível 1
 > - **(D)** $3{,}912$
 > - **(E)** $3{,}917$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n1_f1#q15|src_obm_1998_n1_f1__Q15]]
 
 
 
@@ -651,9 +721,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i cognomi distinti a 4 lettere con un alfabeto a 2 lettere*
+*Conta i cognomi distinti di 4 lettere con un alfabeto di 2 lettere*
 
-> L'alfabeto usato sul pianeta X ha solo due lettere: X e x. Un cognome (nome di famiglia) di ciascuno dei suoi abitanti è una sequenza di lettere $4$. Il numero massimo di diversi cognomi che si possono dare sul pianeta X è:
+> L'alfabeto utilizzato sul pianeta X ha solo due lettere: X e x. Il cognome di ciascuno dei suoi abitanti è una sequenza di $4$ lettere. Il numero massimo di cognomi diversi che si possono assegnare sul pianeta X è:
 >
 > - **(A)** $12$
 > - **(B)** $14$
@@ -661,7 +731,12 @@ level: OBM Nível 1
 > - **(D)** $16$
 > - **(E)** $18$
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n1_f1#q16|src_obm_1998_n1_f1__Q16]]
 
 
 
@@ -690,9 +765,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il residuo minimo dopo aver distribuito i marmi a 10 bambini in sequenza aritmetica*
+*Trovare il resto minimo dopo aver distribuito le biglie a 10 bambini secondo una progressione aritmetica*
 
-> João vuole sbarazzarsi della sua collezione di marmi. Per farlo sceglie ragazzi della sua strada. Il primo ragazzo gli dà marmi $x$, il secondo ragazzo $x + 1$ marmi, e così via, dando sempre un marmo in più al prossimo ragazzo rispetto al precedente, fino a quando non raggiunge il decimo ragazzo. Alla fine, a João resta il minor residuo possibile $x$. Il valore di $x$ è:
+> João vuole sbarazzarsi della sua collezione di $1{,}000$ biglie. Per farlo, sceglie $10$ ragazzi della sua strada. Dà al primo ragazzo $x$ biglie, al secondo ragazzo $x + 1$ biglie, e così via, dando sempre una biglia in più al ragazzo successivo rispetto a quello precedente, finché non arriva al decimo ragazzo. Alla fine, a João resta il resto più piccolo possibile, $x$. Il valore di $x$ è:
 >
 > - **(A)** $94$
 > - **(B)** $95$
@@ -700,7 +775,11 @@ level: OBM Nível 1
 > - **(D)** $97$
 > - **(E)** $98$
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n1_f1#q17|src_obm_1998_n1_f1__Q17]]
 
 
 
@@ -730,17 +809,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ridurre il numero massimo di auto dal totale di gambe e ruote sul pianeta Z*
+*Deduci il numero massimo di automobili dal totale di gambe e ruote sul pianeta Z*
 
-> Sul pianeta Z, ogni abitante ha $3$ gambe e ogni macchina ha $5$ ruote. In una piccola città di questo pianeta, ci sono in totale $97$ gambe e ruote. Possiamo quindi affermare:
+> Sul pianeta Z, ogni abitante ha $3$ gambe e ogni auto ha $5$ ruote. In una piccola città di questo pianeta, in totale ci sono $97$ gambe e ruote. Possiamo quindi affermare:
 >
-> - **(A)** È possibile che ci siano macchine in questa città.
-> - **(B)** Ci sono al massimo $16$ auto in questa città
+> - **(A)** È possibile che in questa città ci siano $19$ auto
+> - **(B)** In questa città ci sono al massimo $16$ automobili
 > - **(C)** Questa città ha $9$ abitanti e $14$ auto
-> - **(D)** Ci sono al massimo $17$ auto in questa città
-> - **(E)** In questa città ci sono più auto che persone .
+> - **(D)** In questa città ci sono al massimo $17$ automobili.
+> - **(E)** In questa città ci sono più auto che persone
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n1_f1#q18|src_obm_1998_n1_f1__Q18]]
 
 
 
@@ -772,9 +856,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per posizionare un pezzo a forma di L su una griglia per coprire esattamente 3 quadrati*
+*Conta i modi in cui si può posizionare un pezzo a forma di L su una griglia in modo da coprire esattamente 3 caselle*
 
-> Una lavagna e un pezzo sono mostrati nella figura. In quanti modi diversi possiamo posizionare il pezzo sulla lavagna in modo che copra esattamente $3$ quadrati della lavagna completamente?
+> Nella figura sono mostrati una scacchiera e un pezzo. In quanti modi diversi possiamo posizionare il pezzo sulla scacchiera in modo che copra completamente esattamente $3$ caselle della scacchiera?
 >
 > - **(A)** $16$
 > - **(B)** $24$
@@ -784,7 +868,12 @@ level: OBM Nível 1
 
 ![[src_obm_1998_n1_f1__q19.png]]
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_1998_n1_f1#q19|src_obm_1998_n1_f1__Q19]]
 
 
 
@@ -814,14 +903,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Determina il giorno in cui sia un bugiardo che uno che dice la verità diranno: "Domani è un giorno di bugie".
+*Determinare il giorno in cui sia un bugiardo sia un veritiero dicono: "Domani è un giorno di menzogne"*
 
-> Pedro e Maria formano una coppia particolare. Pedro mente mercoledì, giovedì e venerdì e dice la verità per il resto della settimana. Maria mente domenica, lunedì e martedì, e dice la verità per il resto della settimana. Un giorno, entrambi dicono: "Domani sarà un giorno di menzogna". Il giorno in cui questa dichiarazione fu fatta fu:
+> Pedro e Maria formano una coppia peculiare. Pedro mente il mercoledì, il giovedì e il venerdì, e dice la verità nel resto della settimana. Maria mente la domenica, il lunedì e il martedì, e dice la verità nel resto della settimana. Un giorno, entrambi dicono: "Domani è un giorno di menzogne". Il giorno in cui è stata fatta questa affermazione era:
 >
-> - **(A)** Lunedì
-> - **(B)** Martedì
+> - **(A)** lunedì
+> - **(B)** martedì
 > - **(C)** Venerdì
-> - **(D)** Sabato
+> - **(D)** sabato
 > - **(E)** Domenica
 
-**Risposta:** B
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n1_f1#q20|src_obm_1998_n1_f1__Q20]]

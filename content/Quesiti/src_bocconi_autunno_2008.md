@@ -30,11 +30,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of two digits found after operations on the digits*
+*A two-digit number found after operations on the digits*
 
-> I wrote a two-digit number (which doesn't end with zero). Then I deleted the first number, the number of tens. Finally, I multiplied the remaining number (of a single digit) by 9. Surprise: I find the number I started from! What was that number?
+> I wrote a two-digit number (one that doesn't end in zero). Then I erased the first digit, the tens digit. Finally, I multiplied the remaining number (a single-digit number) by 9. Surprise: I end up with the number I started with! What was this number?
 
-**Answer:** 45
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2008#q01|src_bocconi_autunno_2008__Q01]]
 
 
 
@@ -60,13 +65,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Puzzle of two identical pieces: find the dividing contour*
+*Puzzle with two identical pieces: find the division outline*
 
-> The puzzle you see in the figure is made up of two identical pieces. Highlight the dividing contour between the two pieces (knowing that one has been overturned).
+> The puzzle shown in the figure consists of two identical pieces. Highlight the division line between the two pieces (knowing that one has been flipped).
 
 ![[src_bocconi_autunno_2008__q02.png]]
 
-**Answer:** See the figure in the solution
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2008#q02|src_bocconi_autunno_2008__Q02]]
 
 
 
@@ -90,11 +100,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of Sara on 20 August 2009*
+*Sara's age on August 20, 2009*
 
-> On 20 August 2008, Sara will be 11 years, 11 months and 11 days old. How old will you be on August 20, 2009?
+> On 20/8/2008, Sara will be 11 years, 11 months, and 11 days old. What will her age be on 20/8/2009?
 
-**Answer:** Sara will be 13 years and 11 days old
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2008#q03|src_bocconi_autunno_2008__Q03]]
 
 
 
@@ -123,13 +138,21 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-Magic triangle: arranging the numbers from 1 to 7 in the disks
+*Magic triangle: arrange the numbers from 1 to 7 on the discs*
 
-> The 7 discs in the figure must contain all the integers 1 to 7 (1 and 2 have already been inserted) so that: - the sum of the numbers written on each side of the great triangle is always the same; - the sum of the numbers written on the three gray discs is equal to that of the three numbers written on the white discs connected by the lines drawn. Complete the drawing by writing the numbers from 3 to 7.
+> The 7 discs in the figure must contain all the integers from 1 to 7 (1 and 2 have already been placed) so that:
+> - the sum of the numbers written on each side of the large triangle is always the same;
+> - the sum of the numbers written on the three grey discs is equal to the sum of the three numbers written on the white discs connected by the dashed lines.
+> Complete the drawing by writing in the numbers from 3 to 7.
 
 ![[src_bocconi_autunno_2008__q04.png]]
 
-**Answer:** See the figure in the solution
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2008#q04|src_bocconi_autunno_2008__Q04]]
 
 
 
@@ -155,11 +178,18 @@ Magic triangle: arranging the numbers from 1 to 7 in the disks
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Six-pointed star: entering conditional numbers on the units*
+*Six-pointed star: insert numbers with a condition on the units*
 
-> In a six-pointed star, we wrote the number 2 in a point, and in a nearby point, the number 3. Put in each of the other points an integer such that: - the six numbers written are all different; - each number is equal to the number of units of the sum of the four that appear in the two adjacent points.
+> In a six-pointed star, we have written the number 2 at one point and the number 3 at a neighboring point. Put an integer in each of the other points such that:
+> - the six numbers written are all different;
+> - each number equals the units digit of the sum of the four numbers that appear at the two neighboring points.
 
-**Answer:** See the figure in the solution
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2008#q05|src_bocconi_autunno_2008__Q05]]
 
 
 
@@ -183,11 +213,16 @@ Magic triangle: arranging the numbers from 1 to 7 in the disks
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of operations to transform 0 in 2009*
+*Minimum number of operations to transform 0 into 2009*
 
-> On a calculator, you can only do two things: double or add 1. With how many of these operations, at least, can we turn 0 into 2009?
+> On a calculator, you can perform only two operations: double or add 1. What is the minimum number of these operations needed to turn 0 into 2009?
 
-**Answer:** 18 operations
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]], [[method_induzione|Induction]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2008#q06|src_bocconi_autunno_2008__Q06]]
 
 
 
@@ -211,11 +246,16 @@ Magic triangle: arranging the numbers from 1 to 7 in the disks
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubs with at least one coloured face in a cut cube*
+*Cubes with at least one colored face in a cut cube*
 
-> We paint all the faces of a big cube. Then, with a saw, we make 9 cuts so that we divide it into smaller cubes all the same size. We don't move any pieces until we've completed the cuts. Of the small cubes thus obtained, some are colored (in the sense that they have at least one painted face); others have no trace of color. How many small, colorful cubes are there?
+> We paint all the faces of a large cube. Then, using a saw, we make 9 cuts so as to divide it into smaller cubes, all of which are the same size. We do not move any piece before we have completed the cuts. Of the small cubes thus obtained, some are colored (meaning they have at least one painted face); others, however, have no trace of color at all. How many of the small cubes are colored?
 
-**Answer:** 56
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2008#q07|src_bocconi_autunno_2008__Q07]]
 
 
 
@@ -239,11 +279,16 @@ Magic triangle: arranging the numbers from 1 to 7 in the disks
 <div class="qlang-split" data-lang="en"></div>
 
 
-*During flight Rome-Mathcity with time zones*
+*Flight duration: Rome–Mathcity, with time zones*
 
-> On December 29th, at 12 o'clock, a plane leaves Rome. It shall reach its destination, Mathcity Airport, on 30 December at 11 a.m. local time. Meanwhile, another plane, flying at the same speed, takes off from Mathcity on 29 December at 12 noon (local time) to land in Rome on 29 December at 23 pm (Italian time). How long is the Rome-Mathcity flight?
+> On December 29 at 12:00, a plane takes off from Rome. It reaches its destination, Mathcity Airport, on December 30 at 11:00 (local time). Meanwhile, another plane, flying at the same speed, takes off from Mathcity on December 29 at 12:00 (local time) and lands in Rome on December 29 at 23:00 (Italian time). How many hours does the Rome-Mathcity flight last?
 
-**Answer:** 17 hours
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2008#q08|src_bocconi_autunno_2008__Q08]]
 
 
 
@@ -267,11 +312,16 @@ Magic triangle: arranging the numbers from 1 to 7 in the disks
 <div class="qlang-split" data-lang="en"></div>
 
 
-Trains met by Carla and Milena on their journey from Milan to Mathville
+*Trains encountered by Carla and Milena on the journey from Milan to Mathville*
 
-> Carla and Milena have to go to Mathville. From Milan they decide to take a Eurostar to the Central Station. Here they consult the timetable and note that, every hour, there is a train departing for Mathville and also one arriving from Mathville (in the direction of Milan). The journey, in both directions, takes exactly five hours. How many trains go in the opposite direction (from Mathville to Milan) meet Carla and Milena during their journey? (Don't count the trains they see at departure and arrival.)
+> Carla and Milena have to go to Mathville. From Milan, they decide to take a Eurostar at Central Station. There, they consult the timetable board and notice that every hour, a train departs for Mathville and another arrives from Mathville (heading to Milan). The journey, in both directions, lasts exactly 5 hours. How many trains traveling in the opposite direction (from Mathville to Milan) do Carla and Milena encounter during their journey? (Do not count the trains they see at departure and arrival.)
 
-**Answer:** 9 trains
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2008#q09|src_bocconi_autunno_2008__Q09]]
 
 
 
@@ -295,11 +345,16 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total sides of two polygons with 25 diagonal points in common*
+*The total of two polygons with 25 common diagonals*
 
-> Two polygons (without points in common) have a total of 25 diagonals. How many sides do they have in total?
+> Two polygons (with no points in common) have a total of 25 diagonals. How many sides do they have in total?
 
-**Answer:** 13 sides
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2008#q10|src_bocconi_autunno_2008__Q10]]
 
 
 
@@ -325,13 +380,18 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete table with cross operations using data figures*
+*Complete the table with cross operations using the given digits*
 
-> Complete the table so that all the operations indicated are accurate. The first row begins with $6$, $6$, $6$ and the $-$ sign; the second row contains a multiplication by the $3$ factor; the columns and rows must be consistent with the data signs.
+> Complete the table so that all the operations indicated are correct. The first row starts with $6$, $6$, $6$ and the symbol $-$; the second row contains a multiplication with the factor $3$; the columns and rows must be consistent with the given symbols.
 
 ![[src_bocconi_autunno_2008__q11.png]]
 
-**Answer:** $666 - 191 = 475$; $18 \times 13 = 234$; $37 + 204 = 241$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2008#q11|src_bocconi_autunno_2008__Q11]]
 
 
 
@@ -355,11 +415,16 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four numbers extracted from bags 1 to 9 with a given sum*
+*Four numbers drawn from a bag containing numbers from 1 to 9, with a given sum*
 
-> Jacob puts the first nine digits of the casket (from 1 to 9) in a bag. He pulls out four numbers in one go. From these four numbers, respecting the order of the digits on the edge of the casing, Jacob enjoys constructing all possible four-digit numbers. Then he adds them up and he gets 93324. What are the four numbers Jacob pulled out of the bag?
+> Jacob puts the first nine bingo numbers (from 1 to 9) into a bag. He draws four numbers at once. From these four numbers, respecting the order of the digits around the edge of the bingo board, Jacob amuses himself by forming all possible four-digit numbers. Then he adds them up and gets 93324. What are the four numbers that Jacob drew from the bag?
 
-**Answer:** $1, 2, 3, 8$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2008#q12|src_bocconi_autunno_2008__Q12]]
 
 
 
@@ -385,13 +450,18 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To divide the figure into two identical parts with segments on the vertices*
+*Divide the figure into two identical parts using line segments at the vertices*
 
-> Draw a diagram of the segments that connect the vertices of the squares of the figure so as to divide it into two identical parts (the two identical parts can overlap even by rotation).
+> Draw line segments connecting the vertices of the small squares in the figure so as to divide the figure into two identical parts (the two identical parts may also be superimposed by rotation).
 
 ![[src_bocconi_autunno_2008__q13.png]]
 
-**Answer:** See the figure in the solution
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2008#q13|src_bocconi_autunno_2008__Q13]]
 
 
 
@@ -415,11 +485,16 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number equal to twice the square of the sum of its digits plus the sum*
+*A number equal to twice the square of the sum of its digits, increased by the sum*
 
-> Find a number that is twice the square of the sum of its digits plus the sum of its digits.
+> Find a number that is equal to twice the square of the sum of its digits plus the sum of its digits.
 
-**Answer:** 171, 465, 666
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2008#q14|src_bocconi_autunno_2008__Q14]]
 
 
 
@@ -445,13 +520,18 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum blackened grid boxes 7×7 without three consecutive*
+*Maximum number of blackened cells in a 7×7 grid with no three in a row*
 
-> What is the maximum number of boxes that can be blackened in the $7 \times 7$ grid of the figure without ever forming three consecutive boxes, aligned horizontally or vertically?
+> What is the maximum number of cells that can be blackened in the $7 \times 7$ grid in the figure without ever forming three consecutive cells aligned horizontally or vertically?
 
 ![[src_bocconi_autunno_2008__q15.png]]
 
-**Answer:** 33 cells
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2008#q15|src_bocconi_autunno_2008__Q15]]
 
 
 
@@ -475,11 +555,16 @@ Trains met by Carla and Milena on their journey from Milan to Mathville
 <div class="qlang-split" data-lang="en"></div>
 
 
-Civil number of the house demolished in Via Pitagora
+*House number of the demolished house on Via Pitagora*
 
-> In Via Pitagora the civil numbers of the houses leave (without interruptions, the bissi numbers on one side and the even numbers on the other side of the road). One day, one of them gets knocked down by the mayor for abusing. The arithmetic mean of the civil numbers of the houses, in this way, is an integer. What was the civilian number for the house that was torn down?
+> On Via Pitagora, the house numbers start (without gaps—odd numbers on one side of the street and even numbers on the other). One fine day, one of the houses is demolished by the mayor because it is an illegal structure. In this way, the arithmetic mean of the house numbers is an integer. What was the house number of the demolished house?
 
-**Answer:** 48
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2008#q16|src_bocconi_autunno_2008__Q16]]
 
 
 
@@ -503,8 +588,13 @@ Civil number of the house demolished in Via Pitagora
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lesser natural number of four non-primary digits by substitution of the digit →1 always prime*
+*The smallest four-digit natural number that is not prime and for which replacing each digit with 1 always yields a prime number*
 
-> What is the smallest natural number of four digits (not starting with 0) that has the following property: 'if you change any of its digits (other than 0) by replacing it with 1, you get a prime number'?
+> What is the smallest four-digit natural number (that does not start with 0) that has the following property: "If any of its digits (other than 0) is changed to 1, the result is a prime number"?
 
-**Answer:** 1070
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2008#q17|src_bocconi_autunno_2008__Q17]]

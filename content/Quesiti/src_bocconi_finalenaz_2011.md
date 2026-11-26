@@ -32,13 +32,18 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many red cards are in the bottom bracket*
+*How many red cards are in the bottom pile?*
 
-> In a deck of 52 cards, the cards are black and red and the black cards are as many as the red ones. The 52 cards were divided into two sets of 26 cards and the one above is 18 black cards. How many red cards are in the drawer below?
+> In a deck of 52 cards, the cards are black and red, and there are as many black cards as red cards. The 52 cards have been divided into two piles of 26 cards each, and the top pile contains 18 black cards. How many red cards are there in the bottom pile?
 
 ![[src_bocconi_finalenaz_2011__q01.png]]
 
-**Answer:** 18
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q01|src_bocconi_finalenaz_2011__Q01]]
 
 
 
@@ -66,15 +71,20 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-Four queens who don't threaten each other in the mini chessboard.
+*Four queens that do not threaten each other on the mini-chessboard*
 
-> In the game of chess, the queen can move horizontally, vertically or diagonally of any number of boxes, provided she finds no other piece along her path. So, the queen placed in the mini-chessboard of the figure on the right can move into all the grey boxes.
-> 
-> Instead of four boxes of the mini-chessboard in the figure on the right where you place four queens so that none of them can move in the box marked with X with one move.
+> In chess, the queen can move horizontally, vertically, or diagonally any number of squares, provided that no other piece lies in its path. Thus, the queen placed on the mini-chessboard in the figure on the right can move to all the grey squares.
+>
+> Instead of four squares on the mini-chessboard in the figure on the right, place four queens so that none of them can, in a single move, move to the square marked X.
 
 ![[src_bocconi_finalenaz_2011__q02.png]]
 
-**Answer:** (see the figure in the solution)
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q02|src_bocconi_finalenaz_2011__Q02]]
 
 
 
@@ -100,13 +110,18 @@ Four queens who don't threaten each other in the mini chessboard.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Addition with eight digit tokens 0,1,1,2,6,9,6 equal to 2011*
+*Addition using eight tokens bearing the digits 0, 1, 1, 2, 6, 9, 6, equal to 2011*
 
-> Using the eight tokens in the figure, write an addition that is equal to 2011. Elaboration: however, a token with the 6, by rotating it, can become a token with the 9 and vice versa. You have to use all the tokens and no number can start with 0.
+> Using the eight tokens in the figure, write an addition sum whose result is equal to 2011. Note: however, a token bearing "6" can, when turned over, become a token bearing "9", and vice versa. You must use all the tokens, and no number may begin with 0.
 
 ![[src_bocconi_finalenaz_2011__q03.png]]
 
-**Answer:** 1012+999 or 1092+919 or 1099+912 (each is just one of the four solutions)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q03|src_bocconi_finalenaz_2011__Q03]]
 
 
 
@@ -130,11 +145,16 @@ Four queens who don't threaten each other in the mini chessboard.
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many times does Jacob press the computer button?
+*How many times does Jacob press the calculator button?*
 
-> Jacob's calculator has a strange key. When you squeeze it, the calculator shows the largest integer not exceeding half the previous number. For example, if this was 1000, it makes 500 appear; if the initial number was 333, pressing the button makes 156. Now the number on the calculator is 2011. How many times does Jacob have to push the button to get the number 9 on the computer screen?
+> Jacob's calculator has a strange button. When you press it, the calculator displays the largest integer that does not exceed half of the previous number. For example, if the previous number was 1000, it displays 500; if the starting number was 333, pressing the button displays 156. Right now, the number 2011 appears on the calculator. How many times must Jacob press the button for the number 9 to appear on the calculator screen?
 
-**Answer:** Jacob will have to press the key 11 times
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q04|src_bocconi_finalenaz_2011__Q04]]
 
 
 
@@ -160,13 +180,18 @@ How many times does Jacob press the computer button?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many unused cubes were used to build the pyramid*
+*How many unused cubes are needed to build the pyramid?*
 
-> With 111 cubes equal to each other, Desiderio wants to create a square-based pyramid where each cubet, starting from the second level from the bottom, rests on four cubes of the lower level (as in the figure). How many buckets will be left unused?
+> With 111 identical cubes, Desiderio wants to construct a square-based pyramid in which, starting from the second layer from the bottom, each cube rests on four cubes in the layer below (as shown in the figure). How many cubes will remain unused?
 
 ![[src_bocconi_finalenaz_2011__q05.png]]
 
-**Answer:** 20 small cubes will not be used
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q05|src_bocconi_finalenaz_2011__Q05]]
 
 
 
@@ -192,13 +217,18 @@ How many times does Jacob press the computer button?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To divide the figure into three overlapping parts*
+*Divide the figure into three superposable parts*
 
-> Divide the figure into three perfectly overlapping parts (by overlapping the parts of the figure it is possible for any of them to rotate).
+> Divide the figure into three perfectly superimposable parts (when superimposing the parts of the figure, some of them may need to be rotated).
 
 ![[src_bocconi_finalenaz_2011__q06.png]]
 
-**Answer:** (see the figure in the solution)
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q06|src_bocconi_finalenaz_2011__Q06]]
 
 
 
@@ -224,13 +254,18 @@ How many times does Jacob press the computer button?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of moves in the empty box puzzle*
+*Minimum number of moves in the empty-cell puzzle*
 
-> In this game you can move a square located next to it into the empty box. For example, in the situation shown in the figure to the left, you can move the square 3 or square 2 into the empty box. In how many moves, at least, can you move from the position of the figure on the left to that of the figure on the right (which is impossible to make the previous transformation)?
+> In this game, you can move a small square that is next to the empty cell into the empty cell. For example, in the situation shown in the left figure, you can move the small square "3" or the small square "2" into the empty cell. What is the minimum number of moves required to go from the situation in the left figure to that in the right figure (assuming that the previous transformation is impossible)?
 
 ![[src_bocconi_finalenaz_2011__q07.png]]
 
-**Answer:** It will take 10 moves
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q07|src_bocconi_finalenaz_2011__Q07]]
 
 
 
@@ -256,13 +291,18 @@ How many times does Jacob press the computer button?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of the two numbers chosen is the largest*
+*Which of the two chosen numbers is the largest?*
 
-> Carla, Milena, and I (three uncles) are sitting around a table with 11 cards numbered from 1 to 11. I choose two of them mentally, then she comes up to Carla and says in her ear, The sum of the two numbers I've chosen is equal to $\ldots$. Similarly, he suggests in a way reserved for Milena that the difference between the two numbers chosen (the largest minus the smallest) is equal to $\ldots$. At this point the uncle asks both girls: Knowing only the two numbers in question?. Milena says, "No, knowing only their differences, I can't know!" Carla, on the other hand: I didn't know that either, but considering what Milena said, now, yes, I know!
-> 
-> What were the two numbers Uncle picked?
+> Carla, Milena, and I (three uncles) are sitting around the table on which 11 cards numbered from 1 to 11 are placed. I mentally choose two of them, then I approach Carla and whisper in her ear: "The sum of the two numbers I've chosen is equal to $\ldots$." In the same way, I privately suggest to Milena that "the difference between the two chosen numbers (the larger minus the smaller) is equal to $\ldots$." At this point, the uncle asks both girls: "Knowing only the two numbers in question?" Milena says: "No: knowing only their difference, I can't know it!" Carla, however, says: "I didn't know it either, but considering what Milena said, now I do know it!"
+>
+> What were the two numbers chosen by the uncle?
 
-**Answer:** (see solutions)
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q08|src_bocconi_finalenaz_2011__Q08]]
 
 
 
@@ -288,13 +328,18 @@ How many times does Jacob press the computer button?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of consecutive natural numbers already calculated by Debora*
+*Sum of consecutive natural numbers already calculated by Debora*
 
-> Deborah calculates the sum of all natural numbers (consecutive numbers) starting from $1$: $1+2+3+4+5+6+\ldots$ and notes that the sum obtained has already been added by her.
-> 
-> How many numbers did Deborah add?
+> Debora calculates the sum of all (consecutive) natural numbers starting from $1$: $1+2+3+4+5+6+\ldots$, and notes that the sum obtained has already been added by her.
+>
+> How many numbers had Debora added?
 
-**Answer:** Debora added 36 numbers
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q09|src_bocconi_finalenaz_2011__Q09]]
 
 
 
@@ -318,11 +363,16 @@ How many times does Jacob press the computer button?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many km/h from fifth to first city*
+*How many km clockwise from the fifth to the first city?*
 
-> Five cities are located on the same circular road and can be reached in one direction or another. Specifically, to go from one city to another in a clockwise or counterclockwise direction, you find each time different integers between them. Going from first to second, you walk 9 kilometers. From the third to the fourth, they travel 11 km clockwise and 7 km counterclockwise. Going from 5th to 4th clockwise, they travel 20 kilometers. How many miles are there to go clockwise from fifth city to first?
+> Five cities are located on the same circular route, and they can be reached by going in one direction or the other. In particular, when traveling from one city to another clockwise or counterclockwise, each time the distances are different whole numbers. Traveling from the first city to the second, one covers 9 km. Traveling from the third city to the fourth, one covers 11 km clockwise and 7 km counterclockwise. Traveling from the fifth city to the fourth clockwise, one covers 20 km. How many kilometers are involved in traveling clockwise from the fifth city to the first?
 
-**Answer:** The required number is 44
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q10|src_bocconi_finalenaz_2011__Q10]]
 
 
 
@@ -346,11 +396,16 @@ How many times does Jacob press the computer button?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of n for which the sum of the first n odd numbers gives four equal digits*
+*The value of n for which the sum of the first n odd numbers yields four identical digits*
 
-> The sum of the first $n$ consecutive odd numbers starting with $1$ is $n^2$. A number of four digits all equal is of the type $\overline{aaaa}$. For what value of $n$ is a four-digit number all equal?
+> The sum of the first $n$ consecutive odd numbers starting from $1$ is $n^2$. A four-digit number with all identical digits is of the form $\overline{aaaa}$. For which value of $n$ do we obtain a four-digit number with all identical digits?
 
-**Answer:** The required number is 41
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q11|src_bocconi_finalenaz_2011__Q11]]
 
 
 
@@ -374,11 +429,16 @@ How many times does Jacob press the computer button?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between the median points of the trapezoid bases*
+*Distance between the midpoints of the bases of the trapezoid*
 
-> The two bases of a trapezoid measure, respectively, 1515 cm and 1213 cm. The angles adjacent to the main base are complementary (their sum is $90^\circ$). What is the distance between the middle points of the two bases?
+> The two bases of a trapezoid measure 1515 cm and 1213 cm, respectively. The angles adjacent to the longer base are complementary (their sum is $90^\circ$). What is the distance between the midpoints of the two bases?
 
-**Answer:** The distance is 248 cm
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q12|src_bocconi_finalenaz_2011__Q12]]
 
 
 
@@ -402,11 +462,16 @@ How many times does Jacob press the computer button?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two three-digit numbers whose product is 222.222*
+*Two three-digit numbers whose product is 222,222*
 
-> Write in increasing order two positive integers, each of three digits, whose product is $222.222$.
+> In ascending order, write two positive three-digit integers whose product equals $222.222$.
 
-**Answer:** $231 \times 962$, $273 \times 814$, $286 \times 777$, $\ldots$ (the factors cannot be swapped)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q13|src_bocconi_finalenaz_2011__Q13]]
 
 
 
@@ -430,11 +495,16 @@ How many times does Jacob press the computer button?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequential years compatible with sum of the digits dividing*
+*Consecutive years compatible with the sum of the digits by which they are divisible*
 
-> Two years are compatible when they are consecutive and the sum of the digits of the first divides the second. For example, 2011 and 2012 are compatible because 4 (sum of figures for 2011) divides 2012. Also 2015 and 2016 are compatible because 8 divides 2016. What will be the next two compatible years?
+> Two years are compatible when they are consecutive and the sum of the digits of the first year divides the second year. For example, 2011 and 2012 are compatible because 4 (the sum of the digits of 2011) divides 2012. Likewise, 2015 and 2016 are compatible because 8 divides 2016. What will be the next two compatible years?
 
-**Answer:** The two compatible years are 2045 and 2046
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q14|src_bocconi_finalenaz_2011__Q14]]
 
 
 
@@ -458,11 +528,16 @@ How many times does Jacob press the computer button?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance BC in the triangle with equal medians*
+*BC distance in a triangle with equal medians*
 
-> In the $ABC$ triangle, the medians traced by $B$ and $C$ are equal, respectively. It also applies $AB^2 + AC^2 = 500$. Calculate the distance $BC$ in cm.
+> In triangle $ABC$, the medians drawn from $B$ and from $C$ are respectively equal. It also holds that $AB^2 + AC^2 = 500$. Calculate the distance $BC$ in cm.
 
-**Answer:** The distance $BC$ is 10 cm
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q15|src_bocconi_finalenaz_2011__Q15]]
 
 
 
@@ -490,15 +565,20 @@ How many times does Jacob press the computer button?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Professor Renato's age from the Fibonacci sequence
+*Professor Renato's age from the Fibonacci sequence*
 
-> Professor Renato has children and grandchildren and to colleagues invited to the party for his birthday he specified: The age of my children and grandchildren, among whom there are no parental relations, belongs to the Fibonacci sequence: $1, 2, 3, 5, 8, 13, \ldots$ starting from the third term, each term is the sum of the previous two. Furthermore, my age is equal to the sum of the ages of my children and grandchildren.
-> 
-> Similarly, Nardo, who knew Professor Renato's age but not that of his family members, then intervenes to declare: Then I already fed our grandchildren!
-> 
-> How old is Professor Renato?
+> Professor Renato has children and grandchildren, and to the colleagues invited to his birthday party he specified: "The ages of my children and grandchildren—among whom there are no parent-child relationships—follow the Fibonacci sequence: $1, 2, 3, 5, 8, 13, \ldots$, starting from the third term, with each term being the sum of the two preceding terms. Moreover, my age is equal to the sum of the ages of my children and grandchildren."
+>
+> Similarly, Nardò, who knew Professor Renato's age but not that of the members of his family, then intervenes to declare: "So I've already fed our grandchildren!"
+>
+> What is Professor Renato's age?
 
-**Answer:** Prof. Renato is 88 years old
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q16|src_bocconi_finalenaz_2011__Q16]]
 
 
 
@@ -526,8 +606,13 @@ Professor Renato's age from the Fibonacci sequence
 
 *Length of barrier AB on the round island*
 
-> Desiderio has a perfectly round island on which he has placed four perfectly straight barriers. The goal of these barriers is to cover the edge of the island. In the figure there is also a pond, also perfectly round, tangent to the four barriers. The situation is illustrated by the figure which does not respect the dimensions; however, the lengths of two barriers (33 m and 77 m) with the width of the angle formed by them ($135^\circ$) are indicated. What is the length of the $AB$ barrier?
+> Desiderio owns a perfectly round island on which he has placed four perfectly straight barriers. The purpose of these barriers is to cover the edge of the island. In the figure, there is also a pond, also perfectly round, tangent to the four barriers. The situation is illustrated in the figure, which, however, does not reflect the actual dimensions; nevertheless, the lengths of two barriers (33 m and 77 m) and the measure of the angle they form ($135^\circ$) are indicated. What is the length of barrier $AB$?
 
 ![[src_bocconi_finalenaz_2011__q17.png]]
 
-**Answer:** The barrier $AB$ is $55+33\sqrt{2}$ or $-22+\sqrt{8107+5082\sqrt{2}}$ m
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2011#q17|src_bocconi_finalenaz_2011__Q17]]

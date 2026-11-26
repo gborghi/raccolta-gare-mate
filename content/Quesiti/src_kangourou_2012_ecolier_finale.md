@@ -29,11 +29,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many kids in the class are in line*
+*How many boys in the class in a line*
 
-> All the boys in Luigi and Michele's class lined up. Behind Luigi are 16 boys, and Michele is one of them. There are 14 boys in front of Michele, and Luigi is one of them. Between Luigi and Michele there are 7 boys (without counting Luigi and Michele). How many kids are in that class?
+> All the boys in Luigi and Michele's class have lined up. Behind Luigi there are 16 boys: Michele is one of them. In front of Michele there are 14 boys: Luigi is one of them. Between Luigi and Michele there are 7 boys (not counting Luigi and Michele). How many boys are there in that class?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 23
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1mMJfJPY0vCeg0a0yLvZP0jVa8OM0-CzS/view)
+[[Quesiti/src_kangourou_2012_ecolier_finale#qe1|src_kangourou_2012_ecolier_finale__QE1]]
 
 
 
@@ -56,11 +61,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What time was the photo taken with four watches*
+*When the photograph with four clocks was taken*
 
-> In one photograph, four clocks appear: one marks 4:45, another 5:05, another marks 5:25, and the last at 5:40. It is known that when the photograph was taken, two of them were stationary, while the other two, while running at the correct speed, were one 20 minutes ahead and the other 20 minutes behind. What time was the photo taken?
+> In a photograph four clocks appear: one shows 4:45, another 5:05, yet another 5:25 and the last 5:40. It is known that, when the photograph was taken, two of them were stopped, while the other two, although running at the correct speed, were one 20 minutes fast and the other 20 minutes slow. At what time was the photograph taken?
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 5:05
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1mMJfJPY0vCeg0a0yLvZP0jVa8OM0-CzS/view)
+[[Quesiti/src_kangourou_2012_ecolier_finale#qe2|src_kangourou_2012_ecolier_finale__QE2]]
 
 
 
@@ -83,11 +93,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many brown balls in Elena's 20*
+*How many brown marbles among Elena's 20*
 
-> Elena has 20 balls, each colored with one and only one of the following colors: green, red, blue, brown. 17 are not green, 5 are red, 12 are not blue. How many brown balls are there?
+> Elena has 20 marbles, each coloured with one and only one of the following colours: green, red, blue, brown. 17 are not green, 5 are red, 12 are not blue. How many of the marbles are brown?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_insiemi_funzioni|Sets and functions]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 4
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1mMJfJPY0vCeg0a0yLvZP0jVa8OM0-CzS/view)
+[[Quesiti/src_kangourou_2012_ecolier_finale#qe3|src_kangourou_2012_ecolier_finale__QE3]]
 
 
 
@@ -111,11 +126,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last digit of the product of odd numbers between 1 and 2012*
+*Final digit of the product of the odds between 1 and 2012*
 
-> If all odd integers between 1 and 2012 are multiplied by each other, what number does the product end with?
+> If all the odd integers between 1 and 2012 are multiplied together, with which digit does the product end?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 5
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1mMJfJPY0vCeg0a0yLvZP0jVa8OM0-CzS/view)
+[[Quesiti/src_kangourou_2012_ecolier_finale#qe4|src_kangourou_2012_ecolier_finale__QE4]]
 
 
 
@@ -140,13 +161,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of triangles to cut the kangaroo*
+*Minimum number of triangles to cut out the kangaroo*
 
 ![[src_kangourou_2012_ecolier_finale__probe5.png]]
 
-> The figure, drawn on grid paper, represents a kangaroo. You want to cut it so you only get triangles. What's the minimum number of triangles you can get? (see figure)
+> The figure, drawn on a sheet of squared paper, represents a kangaroo. You want to cut it out so as to obtain only triangles. What is the minimum number of triangles you can obtain? (see figure)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 6
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1mMJfJPY0vCeg0a0yLvZP0jVa8OM0-CzS/view)
+[[Quesiti/src_kangourou_2012_ecolier_finale#qe5|src_kangourou_2012_ecolier_finale__QE5]]
 
 
 
@@ -172,10 +198,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A sum of 100 can be obtained on the visible faces of the dice*
+*A sum of 100 on the visible faces of the dice*
 
 ![[src_kangourou_2012_ecolier_finale__probe6.png]]
 
-> Peter wants to line up a number of traditional dice (the sum of points on opposite faces is always 7), as shown in the figure. He joins two faces together only if the number of points on both faces is the same, and he wants to get a row so that the sum of points on all the faces that are visible is 100. Can he do it? If so, how many dice does he have to use? If not, why? (see figure)
+> Pietro wants to put a certain number of traditional dice in a row (the sum of the pips on opposite faces is always 7), as the figure shows. He glues two faces together only if the number of pips on the two faces is equal, and he wants to obtain a row so that the sum of the pips on all the visible faces is 100. Can he succeed? If so, how many dice must he use? If not, why? (see figure)
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Answer:** no
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1mMJfJPY0vCeg0a0yLvZP0jVa8OM0-CzS/view)
+[[Quesiti/src_kangourou_2012_ecolier_finale#qe6|src_kangourou_2012_ecolier_finale__QE6]]

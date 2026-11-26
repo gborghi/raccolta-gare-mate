@@ -36,7 +36,7 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Che opzione è un divisore di 3^5×4^4×5^3*
+*Quale opzione è un divisore di 3^5*4^4*5^3?*
 
 > Quale delle alternative è un divisore di $3^5 \cdot 4^4 \cdot 5^3$?
 >
@@ -46,7 +46,12 @@ level: OBM Nível 2
 > - **(D)** $85$
 > - **(E)** $105$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n2_f1#q01|src_obm_2010_n2_f1__Q01]]
 
 
 
@@ -75,9 +80,9 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2% aumento del più piccolo di due numeri consecutivi dà il più grande; trovare somma*
+*Un aumento del 2% del numero più piccolo tra due numeri consecutivi dà il numero più grande; trova la somma*
 
-> Aumentando di $2\%$ il valore del più piccolo di due numeri consecutivi, otteniamo il più grande di loro. Qual è la somma di questi numeri?
+> Aumentando di $2\%$ il valore del più piccolo dei due numeri consecutivi, si ottiene il più grande di essi. Qual è la somma di questi numeri?
 >
 > - **(A)** $43$
 > - **(B)** $53$
@@ -85,7 +90,11 @@ level: OBM Nível 2
 > - **(D)** $101$
 > - **(E)** $115$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2010_n2_f1#q02|src_obm_2010_n2_f1__Q02]]
 
 
 
@@ -114,9 +123,9 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*divide 4^(4^2) per 4^4*
+*Dividi 4^(4^2) per 4^4*
 
-> Dividendo il numero $4^{(4^2)}$ per $4^4$ otteniamo il numero:
+> Dividendo il numero $4^{(4^2)}$ per $4^4$, otteniamo il numero:
 >
 > - **(A)** $2$
 > - **(B)** $4^3$
@@ -124,7 +133,11 @@ level: OBM Nível 2
 > - **(D)** $4^8$
 > - **(E)** $4^{12}$
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n2_f1#q03|src_obm_2010_n2_f1__Q03]]
 
 
 
@@ -155,9 +168,9 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scelta 3 tra 8 pezzi di poliomino per assemblare un quadrato 3x3*
+*Scegli 3 tasselli di poliominò su 8 per comporre un quadrato 3x3*
 
-> Cecilia prese un foglio di cartolina e tagliò fuori i pezzi $8$ mostrati a destra, formati da piccoli quadrati della stessa dimensione. In quanti modi diversi può scegliere $3$ di questi pezzi per assemblare il quadrato $3 \times 3$ sulla sinistra?
+> Cecilia ha preso un foglio di cartoncino e ha ritagliato i pezzi $8$ mostrati a destra, composti da piccoli quadrati della stessa dimensione. In quanti modi diversi può scegliere $3$ di questi pezzi per assemblare il quadrato $3 \times 3$ a sinistra?
 >
 > - **(A)** $3$
 > - **(B)** $4$
@@ -166,6 +179,13 @@ level: OBM Nível 2
 > - **(E)** $7$
 
 ![[src_obm_2010_n2_f1__q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2010_n2_f1#q04|src_obm_2010_n2_f1__Q04]]
 
 
 
@@ -195,17 +215,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Distinto x,y con x-1/x=y-1/y, trovare xy*
+*Trovare xy per x,y distinti tali che x-1/x=y-1/y*
 
-> I numeri $x$ e $y$ sono distinti e soddisfano $x - \dfrac{1}{x} = y - \dfrac{1}{y}$. Quindi $xy$ è uguale a
+> I numeri $x$ e $y$ sono distinti e soddisfano $x - \dfrac{1}{x} = y - \dfrac{1}{y}$. Allora $xy$ è uguale a
 >
 > - **(A)** $4$
 > - **(B)** $1$
 > - **(C)** $-1$
 > - **(D)** $-4$
-> - **(E)** Sono necessari ulteriori dati.
+> - **(E)** sono necessari ulteriori dati
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2010_n2_f1#q05|src_obm_2010_n2_f1__Q05]]
 
 
 
@@ -234,17 +259,21 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La media aritmetica di due numeri a due cifre distinte è 98; trova la differenza*
+*La media aritmetica di due numeri di due cifre distinti è 98; determina la differenza*
 
-> Sonia calcola la media aritmetica di due diversi numeri a due cifre e ottiene $98$. Qual è la differenza tra questi numeri?
+> Sonia calcola la media aritmetica di due numeri di due cifre diversi e ottiene $98$. Qual è la differenza tra questi numeri?
 >
 > - **(A)** $1$
 > - **(B)** $2$
 > - **(C)** $3$
 > - **(D)** $4$
-> - **(E)** un numero superiore a $4$
+> - **(E)** un numero maggiore di $4$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n2_f1#q06|src_obm_2010_n2_f1__Q06]]
 
 
 
@@ -276,9 +305,9 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo di scacchiatura convenzionale con 17 quadrati bianchi; area di ricerca*
+*Angolo di una scacchiera convenzionale con 17 caselle bianche; determina l'area*
 
-> Il disegno rappresenta un angolo di una tabella rettangolare convenzionale, formata da piccoli quadrati laterali $1$ cm. In questa lavagna, $17$ piccoli quadrati sono bianchi. Qual è l'area della lavagna, in centimetri quadrati?
+> Il disegno rappresenta un angolo di una scacchiera rettangolare convenzionale, formata da piccoli quadrati di lato $1$ cm. In questa scacchiera, $17$ piccoli quadrati sono bianchi. Qual è l'area della scacchiera, in centimetri quadrati?
 >
 > - **(A)** $29$
 > - **(B)** $34$
@@ -288,7 +317,12 @@ level: OBM Nível 2
 
 ![[src_obm_2010_n2_f1__q07.png]]
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2010_n2_f1#q07|src_obm_2010_n2_f1__Q07]]
 
 
 
@@ -318,9 +352,9 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi a 3 cifre senza cifra pari a 2,5,7,8*
+*Conta gli interi a tre cifre in cui nessuna cifra è uguale a 2, 5, 7, 8*
 
-> Quanti numeri interi nell'elenco $100, 101, 102, \ldots, 999$ non hanno numeri uguali a $2$, $5$, $7$ o $8$?
+> Quanti numeri interi nella lista $100, 101, 102, \ldots, 999$ non hanno cifre uguali a $2$, $5$, $7$ o $8$?
 >
 > - **(A)** $160$
 > - **(B)** $170$
@@ -328,7 +362,12 @@ level: OBM Nível 2
 > - **(D)** $190$
 > - **(E)** $200$
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n2_f1#q08|src_obm_2010_n2_f1__Q08]]
 
 
 
@@ -356,15 +395,21 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo, angolo BAC=140, punti di mezzo M, N, P piede perpendicolare, angolo di ricerca NMP*
+*Triangolo, angolo BAC=140, punti medi M,N, P piede della perpendicolare, trovare l'angolo NMP*
 
-> In triangolo $ABC$, $m(B\hat{A}C) = 140^\circ$. Il $M$ deve essere il punto medio di $BC$, $N$ il punto medio di $AB$ e $P$ il punto laterale $AC$ in modo tale che $MP$ sia perpendicolare a $AC$. Qual è la misura dell'angolo $N\hat{M}P$?
+> Nel triangolo $ABC$, $m(B\hat{A}C) = 140^\circ$. Sia $M$ il punto medio di $BC$, $N$ il punto medio di $AB$ e $P$ il punto sul lato $AC$ tale che $MP$ sia perpendicolare a $AC$. Qual è la misura dell'angolo $N\hat{M}P$?
 >
 > - **(A)** $40^\circ$
 > - **(B)** $50^\circ$
 > - **(C)** $70^\circ$
 > - **(D)** $90^\circ$
 > - **(E)** $100^\circ$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2010_n2_f1#q09|src_obm_2010_n2_f1__Q09]]
 
 
 
@@ -393,15 +438,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max chips su tavola 5x5, conteggi per fila/colonna multiplo di 3*
+*Fischi massimi sulla scacchiera 5x5; il numero per riga/colonna è un multiplo di 3*
 
-> Qual è il maggior numero di chip che possiamo posizionare su una scheda $5 \times 5$, al massimo uno per ogni cella, in modo che il numero di chip in ogni riga e ogni colonna sia un multiple di $3$?
+> Qual è il numero massimo di gettoni che possiamo collocare su una scacchiera $5 \times 5$, al massimo uno per casella, in modo che il numero di gettoni in ogni riga e in ogni colonna sia un multiplo di $3$?
 >
 > - **(A)** $6$
 > - **(B)** $9$
 > - **(C)** $12$
 > - **(D)** $15$
 > - **(E)** $24$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n2_f1#q10|src_obm_2010_n2_f1__Q10]]
 
 
 
@@ -430,15 +482,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per quanti numeri interi n è n/(100-n) anche un intero*
+*Per quanti interi n anche n/(100-n) è un intero?*
 
-> Per quanti numeri interi $n$ il numero $\dfrac{n}{100-n}$ è anche un intero?
+> Per quanti interi $n$ il numero $\dfrac{n}{100-n}$ è anch'esso un intero?
 >
 > - **(A)** $1$
 > - **(B)** $6$
 > - **(C)** $10$
 > - **(D)** $18$
 > - **(E)** $100$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n2_f1#q11|src_obm_2010_n2_f1__Q11]]
 
 
 
@@ -466,15 +525,21 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ana scende 24 gradini, attraversa Beatriz a 3/4 di discesa; le scale Beatriz continua a salire*
+*Ana scende una scala di 24 gradini, incrocia Beatriz a tre quarti della discesa; mentre Ana scende, Beatriz continua a salire*
 
-> Ana inizia a scendere una scala di passi $24$ nello stesso istante in cui Beatriz inizia a salire. Ana era scesa $\dfrac{3}{4}$ dalla scala quando ha attraversato Beatriz. Nel momento in cui Ana finira' di scendere, quanti gradini dovra' ancora salire Beatriz?
+> Ana inizia a scendere una scala composta da $24$ gradini nello stesso istante in cui Beatriz inizia a salirla. Ana aveva percorso $\dfrac{3}{4}$ gradini della scala quando ha incrociato Beatriz. Nel momento in cui Ana finisce di scendere, quanti gradini dovrà ancora salire Beatriz?
 >
 > - **(A)** $2$
 > - **(B)** $6$
 > - **(C)** $8$
 > - **(D)** $10$
 > - **(E)** $16$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2010_n2_f1#q12|src_obm_2010_n2_f1__Q12]]
 
 
 
@@ -510,19 +575,26 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro amici, richieste di carta, esattamente una falsa; che ha fatto la richiesta falsa*
+*Quattro amici, affermazioni su carte, esattamente una falsa: chi ha fatto l'affermazione falsa?*
 
-> Quattro amici, Arnaldo, Bernaldo, Cernaldo e Dernaldo giocano a carte. Ci sono diverse schede $20$, ciascuna carta ha uno dei colori $4$ (blu, giallo, verde, rosso) e un numero da $1$ a $5$. Ogni amico riceve cinque carte, in modo che vengano distribuite tutte. Essi fanno le seguenti dichiarazioni:
+> Quattro amici, Arnaldo, Bernaldo, Cernaldo e Dernaldo, stanno giocando a carte. Ci sono $20$ carte diverse; ogni carta ha uno dei $4$ colori (blu, giallo, verde, rosso) e un numero compreso tra $1$ e $5$. Ogni amico riceve cinque carte, così tutte le carte vengono distribuite. Essi fanno le seguenti dichiarazioni:
 >
-> Arnaldo: "Ho quattro carte con lo stesso numero". Bernaldo: "Ho le cinque carte rosse". Cernaldo: "Le mie cinque carte sono di colori che iniziano con la lettera V". Dernaldo: "Ho tre carte di un numero e due carte di un altro numero".
+> Arnaldo: "Ho quattro carte con lo stesso numero." Bernaldo: "Ho le cinque carte rosse." Cernaldo: "Le mie cinque carte hanno colori che iniziano con la lettera V." Dernaldo: "Ho tre carte con un numero e due carte con un altro numero."
 >
-> È noto che solo una delle affermazioni è falsa. Chi ha fatto quella dichiarazione?
+> È noto che solo una delle affermazioni è falsa. Chi ha fatto quell'affermazione?
 >
 > - **(A)** Arnaldo
 > - **(B)** Bernaldo
 > - **(C)** Cernaldo
 > - **(D)** Dernaldo
 > - **(E)** Non è possibile determinarlo.
+
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n2_f1#q13|src_obm_2010_n2_f1__Q13]]
 
 
 
@@ -552,9 +624,9 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo grigio inciso nell'area triangolare equilaterale 40, lato corto 1/4 del lato triangolare*
+*Rettangolo grigio inscritto in un triangolo equilatero di area 40, con il lato corto pari a 1/4 del lato del triangolo*
 
-> Nel disegno, il rettangolo grigio ha le sue vertici sui lati del triangolo equilaterale di superficie $40$ cm$^2$. Il lato più piccolo del rettangolo è un quarto del lato del triangolo. La superficie del rettangolo, in cm$^2$, è:
+> Nel disegno, il rettangolo grigio ha i vertici sui lati del triangolo equilatero di area $40$ cm$^2$. Il lato minore del rettangolo è un quarto del lato del triangolo. L'area del rettangolo, in cm$^2$, è:
 >
 > - **(A)** $5$
 > - **(B)** $10$
@@ -563,6 +635,12 @@ level: OBM Nível 2
 > - **(E)** $22$
 
 ![[src_obm_2010_n2_f1__q14.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2010_n2_f1#q14|src_obm_2010_n2_f1__Q14]]
 
 
 
@@ -591,15 +669,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integrali positivi somma 83 prodotto 1024; trovare il più piccolo*
+*Numeri interi positivi la cui somma è 83 e il cui prodotto è 1024; trova il più piccolo*
 
-> Alcuni numeri interi positivi, non necessariamente distinti, sono scritti sulla lavagna. La loro somma è $83$ e il loro prodotto è $1024$. Il numero più piccolo è uguale a
+> Sul quaderno nero sono scritti alcuni interi positivi, non necessariamente distinti. La loro somma è $83$ e il loro prodotto è $1024$. Il numero più piccolo è uguale a
 >
 > - **(A)** $1$
 > - **(B)** $2$
 > - **(C)** $4$
 > - **(D)** $8$
 > - **(E)** $16$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2010_n2_f1#q15|src_obm_2010_n2_f1__Q15]]
 
 
 
@@ -630,9 +715,9 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Modi per disegnare la figura triangolare senza sollevare la matita da P*
+*Modi per disegnare la figura delle tre triangoli senza sollevare la matita da P*
 
-> In quanti modi è possibile disegnare la figura seguente senza sollevare la matita dalla carta (o qualsiasi altro utensili, se preferite!) partendo da $P$ e senza superare più di una volta lo stesso punto, ad eccezione del punto comune ai tre triangoli?
+> In quanti modi è possibile tracciare la figura sottostante senza sollevare la matita dal foglio (o qualsiasi altro strumento, se si preferisce!) partendo da $P$ e senza passare più di una volta per lo stesso punto, ad eccezione del punto comune ai tre triangoli?
 >
 > - **(A)** $48$
 > - **(B)** $24$
@@ -641,6 +726,13 @@ level: OBM Nível 2
 > - **(E)** $27$
 
 ![[src_obm_2010_n2_f1__q16.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_grafi|Grafi]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2010_n2_f1#q16|src_obm_2010_n2_f1__Q16]]
 
 
 
@@ -670,9 +762,9 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Poligono regolare, lati PQ e TS estesi si incontrano a X con angolo 140, trovare lati*
+*Poligono regolare: i lati PQ e TS prolungati si incontrano in X formando un angolo di 140°; determinare i lati*
 
-> I punti $P$, $Q$, $R$, $S$ e $T$ sono vertici di un poligono regolare. I lati $PQ$ e $TS$ si estendono fino a quando non si incontrano a $X$, come mostra la figura, e $Q\hat{X}S$ misura $140^\circ$. Quanti lati ha il poligono?
+> I punti $P$, $Q$, $R$, $S$ e $T$ sono vertici di un poligono regolare. I lati $PQ$ e $TS$ vengono prolungati finché non si incontrano in $X$, come mostra la figura, e $Q\hat{X}S$ misura $140^\circ$. Quanti lati ha il poligono?
 >
 > - **(A)** $9$
 > - **(B)** $18$
@@ -681,6 +773,12 @@ level: OBM Nível 2
 > - **(E)** $40$
 
 ![[src_obm_2010_n2_f1__q17.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2010_n2_f1#q17|src_obm_2010_n2_f1__Q17]]
 
 
 
@@ -711,9 +809,9 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Netto di icosaedro, volti da 1 a 5 attorno a ciascun vertex, trovare il numero al segno di domanda*
+*Sviluppo piana dell'icosaedro, facce 1-5 attorno a ciascun vertice, trova il numero al punto interrogativo*
 
-> La figura qui sotto è stata tagliata da cartolina e poi piegata per formare un icosaedro. Le facce bianche sono state numerate in modo che intorno a ogni vertice (punti del solido) appaiano i numeri da $1$ a $5$. Quale numero c'è sul viso con il segno di domanda?
+> La figura sottostante è stata ritagliata da un cartoncino e poi piegata per formare un icosaedro. Le facce non ancora numerate sono state numerate in modo che, attorno a ciascun vertice (punti del solido), compaiano i numeri da $1$ a $5$. Quale numero compare sulla faccia con il punto interrogativo?
 >
 > - **(A)** $1$
 > - **(B)** $2$
@@ -722,6 +820,13 @@ level: OBM Nível 2
 > - **(E)** $5$
 
 ![[src_obm_2010_n2_f1__q18.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n2_f1#q18|src_obm_2010_n2_f1__Q18]]
 
 
 
@@ -750,15 +855,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la prossima volta che concordano
+*Due orologi da 24 ore difettosi: uno va al doppio della velocità, l'altro va all'indietro; la prossima volta saranno d'accordo*
 
-> Il professore Piraldo ha due orologi, sia digitali che di $24$ ore. Nessuno dei due funziona: uno cambia il tempo al doppio della velocità normale e l'altro va dall'indietro in avanti alla velocità normale. Entrambi mostrano correttamente $13{:}00$. Qual è l'ora corretta nel momento successivo in cui i due orologi mostrano la stessa ora?
+> Il professor Piraldo ha due orologi, entrambi digitali e da $24$ ore. Nessuno dei due funziona: uno fa passare il tempo al doppio della velocità normale, l'altro scorre all'indietro alla velocità normale. Entrambi indicano correttamente $13{:}00$. Qual è l'ora esatta nel prossimo istante in cui i due orologi segnano la stessa ora?
 >
 > - **(A)** $05{:}00$
 > - **(B)** $09{:}00$
 > - **(C)** $13{:}00$
 > - **(D)** $17{:}00$
 > - **(E)** $21{:}00$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n2_f1#q19|src_obm_2010_n2_f1__Q19]]
 
 
 
@@ -789,9 +901,9 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Crosso di unità quadrate inserite in quadrato più grande; trovare area di quadrato più grande*
+*Croce di quadrati unitari inscritti in un quadrato più grande; trovare l'area del quadrato più grande*
 
-> Una figura a forma di croce, formata da quadrati di lato $1$, è incisa in un quadrato più grande, i cui lati sono paralleli ai lati del quadrato tracciato, i cui vertici sono vertici della croce. Qual è l'area del quadrato più grande?
+> Una figura a forma di croce, formata da quadrati di lato $1$, è inscritta in un quadrato più grande, i cui lati sono paralleli ai lati del quadrato tratteggiato, i cui vertici sono i vertici della croce. Qual è l'area del quadrato più grande?
 >
 > - **(A)** $9$
 > - **(B)** $\dfrac{49}{5}$
@@ -800,6 +912,13 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(E)** $\dfrac{32}{3}$
 
 ![[src_obm_2010_n2_f1__q20.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2010_n2_f1#q20|src_obm_2010_n2_f1__Q20]]
 
 
 
@@ -828,15 +947,22 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare coppie (x,y) di integri positivi con x^2-y^2=2^2010*
+*Conta le coppie (x,y) di interi positivi tali che x^2-y^2=2^2010*
 
-> Quante sono le coppie $(x, y)$ di integri positivi come $x^2 - y^2 = 2^{2010}$?
+> Quanti sono le coppie $(x, y)$ di interi positivi tali che $x^2 - y^2 = 2^{2010}$?
 >
 > - **(A)** $1000$
 > - **(B)** $1001$
 > - **(C)** $1002$
 > - **(D)** $1003$
 > - **(E)** $1004$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n2_f1#q21|src_obm_2010_n2_f1__Q21]]
 
 
 
@@ -865,15 +991,22 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro integri a<b<c<d in coppia gcd>1 ma in generale gcd 1; min d*
+*Quattro interi a<b<c<d tali che il mcd di ciascuna coppia sia >1 ma il mcd complessivo sia 1; minimo di d*
 
-> Quattro integri positivi $a < b < c < d$ sono tali che il gcd tra due di essi sia maggiore di $1$, ma $\mathrm{mdc}(a, b, c, d) = 1$. Qual è il minimo valore possibile per $d$?
+> Quattro interi positivi $a < b < c < d$ sono tali che il mcd tra due qualsiasi di essi è maggiore di $1$, ma $\mathrm{mdc}(a, b, c, d) = 1$. Qual è il valore minimo possibile di $d$?
 >
 > - **(A)** $10$
 > - **(B)** $12$
 > - **(C)** $15$
 > - **(D)** $30$
 > - **(E)** $105$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n2_f1#q22|src_obm_2010_n2_f1__Q22]]
 
 
 
@@ -904,9 +1037,9 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Facce di morte tetraedrale 1-4 incollate; che somma di facce visibili è impossibile*
+*Le facce 1-4 del dado tetraedrico sono incollate; quale somma delle facce visibili è impossibile?*
 
-> Un dado speciale ha facce triangolari equilaterali, numerate da $1$ a $4$, come nel disegno. Collegando due dadi, facciamo coincidere due volti, con lo stesso numero o meno. Quale dei seguenti numeri non può essere la somma dei volti visibili?
+> Un dado speciale ha facce a forma di triangolo equilatero, numerate da $1$ a $4$, come nella figura. Incollando due dadi, facciamo coincidere due facce, che possono avere lo stesso numero oppure no. Quale dei seguenti numeri non può essere la somma delle facce visibili?
 >
 > - **(A)** $12$
 > - **(B)** $14$
@@ -915,6 +1048,13 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(E)** $19$
 
 ![[src_obm_2010_n2_f1__q23.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n2_f1#q23|src_obm_2010_n2_f1__Q23]]
 
 
 
@@ -944,9 +1084,9 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con cevian, angolo 80 a B, angolo 30 a C, angolo retto a H, BC=2BH, trovare x*
+*Triangolo con ceviana, angolo di 80° in B, angolo di 30° in C, angolo retto in H, BC=2BH, trovare x*
 
-> Nella figura $BC = 2BH$. L'angolo di $H$ è un angolo retto, l'angolo di $B$ adiacente al lato $BC$ misura $80^\circ$, la parte superiore misura $x$ e l'angolo di $C$ misura $30^\circ$. Trova $x$.
+> Nella figura, $BC = 2BH$. L'angolo in $H$ è retto; l'angolo in $B$ adiacente al lato $BC$ misura $80^\circ$, la parte al di sopra di esso misura $x$, e l'angolo in $C$ misura $30^\circ$. Determinare $x$.
 >
 > - **(A)** $10^\circ$
 > - **(B)** $15^\circ$
@@ -955,6 +1095,12 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(E)** $25^\circ$
 
 ![[src_obm_2010_n2_f1__q24.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2010_n2_f1#q24|src_obm_2010_n2_f1__Q24]]
 
 
 
@@ -984,9 +1130,9 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali non negativi a,b con a^3+a<b-b^3; ordine a,b*
+*Numeri reali non negativi a, b tali che a^3+a<b-b^3; ordina a, b*
 
-> I numeri $a$ e $b$ sono reali non negativi come $a^3 + a < b - b^3$. Allora...
+> I numeri $a$ e $b$ sono numeri reali non negativi tali che $a^3 + a < b - b^3$. Allora
 >
 > - **(A)** $b < a < 1$
 > - **(B)** $a = b = 1$
@@ -994,4 +1140,9 @@ Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la pr
 > - **(D)** $a < b < 1$
 > - **(E)** $1 < a < b$
 
-**Risposta:** D
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2010_n2_f1#q25|src_obm_2010_n2_f1__Q25]]

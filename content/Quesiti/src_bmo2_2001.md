@@ -31,11 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Marmi trasferiti tra due giocatori; trovare q/p in termini di n*
+*Il rapporto $q/p$ dopo $2n$ scambi di biglie*
 
-> Ahmed e Beth hanno marmi $p$ e $q$, con $p > q$. A partire da Ahmed, ciascuno a sua volta dà all'altro quanti marmi che l'altro già possiede. Si scopre che dopo tali trasferimenti, Ahmed ha marmi $q$ e Beth ha marmi $p$.
-> 
-> Trova $\frac{q}{p}$ in termini di $n$.
+> Ahmed e Beth hanno $p$ e $q$ biglie, con $p > q$. A cominciare da Ahmed, ciascuno a turno dà all'altro tante biglie quante l'altro ne possiede già. Si trova che dopo $2n$ di tali passaggi Ahmed ha $q$ biglie e Beth ne ha $p$.
+>
+> Trovare $\frac{q}{p}$ in funzione di $n$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2001#q01|src_bmo2_2001__Q01]]
 
 
 
@@ -59,9 +66,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi che soddisfano un'equazione diofantina*
+*Tutte le coppie di interi $(x, y)$ che soddisfano l'equazione*
 
-> Trova tutte le coppie di integri $(x, y)$ soddisfacenti $$1 + x^2 y = x^2 + 2xy + 2x + y.$$
+> Trovare tutte le coppie di interi $(x, y)$ che soddisfano
+> $$1 + x^2 y = x^2 + 2xy + 2x + y.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2001#q02|src_bmo2_2001__Q02]]
 
 
 
@@ -86,11 +101,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con angolo bisector e angolo retto; prova uguale angolo*
+*Dimostrare che $\angle BAD = \angle FDC$*
 
-> Un triangolo $ABC$ ha $\angle ACB > \angle ABC$. Il bisettore interno di $\angle BAC$ incontra $BC$ a $D$. Il punto $E$ su $AB$ è tale che $\angle EDB = 90^\circ$. Il punto $F$ su $AC$ è tale che $\angle BDE = \angle CDF$.
-> 
-> Mostra che $\angle BAD = \angle FDC$.
+> Un triangolo $ABC$ ha $\angle ACB > \angle ABC$. La bisettrice interna di $\angle BAC$ incontra $BC$ in $D$. Il punto $E$ su $AB$ è tale che $\angle EDB = 90^\circ$. Il punto $F$ su $AC$ è tale che $\angle BDE = \angle CDF$.
+>
+> Dimostrare che $\angle BAD = \angle FDC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2001#q03|src_bmo2_2001__Q03]]
 
 
 
@@ -115,8 +137,15 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N nani in un cerchio; trovare la somma massima e minima delle differenze di altezza*
+*Massimo e minimo della somma $V$ delle differenze di altezza fra nani vicini*
 
-> Le nane $N$ di altezza $1, 2, \ldots, N$ sono disposte in cerchio. Per ciascuna delle coppie $N$ di nane vicine, viene calcolata la differenza positiva tra le altezze; la somma di queste differenze $N$ viene chiamata il valore $V$ dell'arrangimento.
-> 
-> Trova (con prova) i valori massimi e minimi possibili di $V$.
+> $N$ nani di altezze $1, 2, \ldots, N$ sono disposti in cerchio. Per ciascuna delle $N$ coppie di nani vicini si calcola la differenza positiva fra le altezze; la somma di queste $N$ differenze si chiama valore $V$ della disposizione.
+>
+> Trovare (con dimostrazione) il massimo e il minimo valore possibile di $V$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2001#q04|src_bmo2_2001__Q04]]

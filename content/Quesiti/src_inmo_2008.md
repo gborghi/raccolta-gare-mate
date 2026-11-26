@@ -29,9 +29,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riflessi di incentro conciclico con incentro di triangolo riflesso*
+*I riflessi del centro del cerchio inscritto sono conciclici con il centro del cerchio inscritto del triangolo riflesso*
 
-> $ABC$ sia un triangolo, $I$ il suo centro; $A_1$, $B_1$, $C_1$ siano rispettivamente i riflessi di $I$ in $BC$, $CA$ e $AB$. Supponiamo che il circoncircolo del triangolo $A_1B_1C_1$ passi attraverso $A$. Provare che $B_1$, $C_1$, $I$, $I_1$ sono conciclici, dove $I_1$ è il centro del triangolo $A_1B_1C_1$.
+> Sia $ABC$ un triangolo, $I$ il suo incentro; siano $A_1$, $B_1$, $C_1$ le riflessioni di $I$ rispetto a $BC$, $CA$, $AB$ rispettivamente. Si supponga che la circonferenza circoscritta al triangolo $A_1B_1C_1$ passi per $A$. Dimostrare che $B_1$, $C_1$, $I$, $I_1$ sono conciclici, dove $I_1$ è l'incentro del triangolo $A_1B_1C_1$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2008#q01|src_inmo_2008__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli naturali primari che soddisfano p^x = y^4 + 4*
+*Terne (p, x, y) con p^x = y^4 + 4, p e x primi, y naturale*
 
-> Trova tutti i triples $(p, x, y)$ in modo tale che $p^x = y^4 + 4$, dove $p$ e $x$ sono numeri primi e $x$, $y$ sono numeri naturali.
+> Trovare tutte le terne $(p, x, y)$ tali che $p^x = y^4 + 4$, dove $p$ e $x$ sono primi e $x$, $y$ sono numeri naturali.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_casework_accurato|Analisi accurata per casi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_inmo_2008#q02|src_inmo_2008__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Set con a^2+bc razionale implica un ×sqrt(M) razionale per tutti gli elementi*
+*Insieme in cui a^2+bc razionale implica a*sqrt(M) razionale per tutti gli elementi*
 
-> $A$ sia un insieme di numeri reali tale che $A$ abbia almeno quattro elementi. Supponiamo che $A$ abbia la proprietà che $a^2 + bc$ è un numero razionale per tutti i numeri distinti $a, b, c$ in $A$. Prova che esiste un intero positivo $M$ tale che $a\sqrt{M}$ sia un numero razionale per ogni $a$ in $A$.
+> Sia $A$ un insieme di numeri reali tale che $A$ abbia almeno quattro elementi. Si supponga che $A$ abbia la proprietà che $a^2 + bc$ sia un numero razionale per tutti i numeri distinti $a, b, c$ appartenenti a $A$. Dimostrare che esiste un numero intero positivo $M$ tale che $a\sqrt{M}$ sia un numero razionale per ogni $a$ appartenente a $A$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2008#q03|src_inmo_2008__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La rete di numeri interi a tre colori contiene sempre un triangolo rettangolare con tutti e tre i colori*
+*Il reticolo integrale tricolore contiene sempre un triangolo rettangolo con tutti e tre i colori*
 
-> Tutti i punti con coordinate interi del piano $xy$ sono colorati utilizzando tre colori, rosso, blu e verde, ogni colore utilizzato almeno una volta. È noto che il punto $(0, 0)$ è di colore rosso e il punto $(0, 1)$ di colore blu. Prova che esistono tre punti con coordinate interi di colori distinti che formano le vertici di un triangolo rettangolo.
+> Tutti i punti a coordinate intere nel piano $xy$ sono colorati con tre colori, rosso, blu e verde, e ciascun colore viene utilizzato almeno una volta. Si sa che il punto $(0, 0)$ è colorato di rosso e il punto $(0, 1)$ è colorato di blu. Dimostrare che esistono tre punti a coordinate intere di colori distinti che costituiscono i vertici di un triangolo rettangolo.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_inmo_2008#q04|src_inmo_2008__Q04]]
 
 
 
@@ -129,9 +157,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La linea OI passa attraverso il centro del cerchio tangente a tre cerchi con iscrizioni uguali*
+*La retta OI passa per il centro della circonferenza tangente a tre cerchi inscritti uguali*
 
-> Che $ABC$ sia un triangolo; $\Gamma_A$, $\Gamma_B$, $\Gamma_C$ siano tre cerchi uguali e disconnessi all'interno di $ABC$ in modo tale che $\Gamma_A$ tocchi $AB$ e $AC$; $\Gamma_B$ tocchi $AB$ e $BC$; e $\Gamma_C$ tocchi $BC$ e $CA$. Il $\Gamma$ deve essere un cerchio che tocchi i cerchi $\Gamma_A$, $\Gamma_B$, $\Gamma_C$ all'esterno. Prova che la linea che unisce il centro circostante $O$ e il centro interno $I$ del triangolo $ABC$ passa attraverso il centro di $\Gamma$.
+> Sia $ABC$ un triangolo; siano $\Gamma_A$, $\Gamma_B$, $\Gamma_C$ tre cerchi uguali e disgiunti all'interno di $ABC$ tali che $\Gamma_A$ tocchi $AB$ e $AC$; $\Gamma_B$ tocchi $AB$ e $BC$; e $\Gamma_C$ tocchi $BC$ e $CA$. Sia $\Gamma$ un cerchio che tocca esternamente i cerchi $\Gamma_A$, $\Gamma_B$, $\Gamma_C$. Dimostrare che la retta che congiunge il circocentro $O$ e l'incentro $I$ del triangolo $ABC$ passa per il centro di $\Gamma$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2008#q05|src_inmo_2008__Q05]]
 
 
 
@@ -154,6 +189,13 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pollinomio intero P(x) ammette moltipli che sono polinomi in x^2 e x^3*
+*Il polinomio intero P(x) ammette multipli che sono polinomi in x^2 e x^3*
 
-> Che $P(x)$ sia un dato polinomio con coefficienti interi. Prove che esistono due polinomi $Q(x)$ e $R(x)$, di nuovo con coefficienti interi, in modo tale che (i) $P(x)Q(x)$ sia un polinomio in $x^2$; e (ii) $P(x)R(x)$ sia un polinomio in $x^3$.
+> Sia $P(x)$ un polinomio dato a coefficienti interi. Dimostrare che esistono due polinomi $Q(x)$ e $R(x)$, anch'essi a coefficienti interi, tali che (i) $P(x)Q(x)$ è un polinomio in $x^2$; e (ii) $P(x)R(x)$ è un polinomio in $x^3$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2008#q06|src_inmo_2008__Q06]]

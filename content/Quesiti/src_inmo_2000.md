@@ -29,9 +29,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti di contatto in cerchio; la linea PQ divide due lati*
+*Punti di tangenza dell'incircoscritto; la retta PQ biseca due lati*
 
-> Il cerchio del triangolo $ABC$ tocca rispettivamente i lati $BC$, $CA$ e $AB$ di $K$, $L$ e $M$. La linea attraverso $A$ e parallela a $LK$ incontra $MK$ in $P$ e la linea attraverso $A$ e parallela a $MK$ incontra $LK$ in $Q$. Indicare che la linea $PQ$ divide i lati $AB$ e $AC$ del triangolo $ABC$.
+> L'incirco del triangolo $ABC$ tocca i lati $BC$, $CA$ e $AB$ rispettivamente nei punti $K$, $L$ e $M$. La retta passante per $A$ e parallela a $LK$ incontra $MK$ nel punto $P$, e la retta passante per $A$ e parallela a $MK$ incontra $LK$ nel punto $Q$. Dimostrare che la retta $PQ$ biseca i lati $AB$ e $AC$ del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2000#q01|src_inmo_2000__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi sistema di numeri interi x+y=1-z, x^3+y^3=1-z^2*
+*Soluzioni intere di x+y = 1−z e x³+y³ = 1−z²*
 
-> Risolvere per i numeri interi $x, y, z$: $$x + y = 1 - z, \quad x^3 + y^3 = 1 - z^2.$$
+> Risolvere negli interi $x, y, z$:
+> $$x + y = 1 - z, \quad x^3 + y^3 = 1 - z^2.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata per casi]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_inmo_2000#q02|src_inmo_2000__Q02]]
 
 
 
@@ -82,9 +97,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rationi uguali con abc non zero: a+b+c=0 o a=b=c*
+*Rapporti uguali con abc non nullo: a+b+c=0 oppure a=b=c*
 
-> Se $a, b, c$ sono numeri reali come $abc \neq 0$ e $$\frac{xb + (1-x)c}{a} = \frac{xc + (1-x)a}{b} = \frac{xa + (1-x)b}{c},$$, dimostrare che $a + b + c = 0$ o $a = b = c$.
+> Se $a, b, c$ sono numeri reali tali che $abc \neq 0$ e
+> $$\frac{xb + (1-x)c}{a} = \frac{xc + (1-x)a}{b} = \frac{xa + (1-x)b}{c},$$
+> allora dimostrare che vale o $a + b + c = 0$ oppure $a = b = c$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2000#q03|src_inmo_2000__Q03]]
 
 
 
@@ -108,9 +132,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero convex con lati e angoli speciali; prova la differenza di angolo 90°*
+*Quadrilatero convesso con lati e angoli speciali; dimostrare che la differenza tra gli angoli è 90°*
 
-> In un quadrilaterale converso $PQRS$, $PQ = RS = (\sqrt{3}+1)QR = SP$ e $\angle RSP - \angle SPQ = 30^\circ$. Provare che $$\angle PQR - \angle QRS = 90^\circ.$$
+> In un quadrilatero convesso $PQRS$, $PQ = RS = (\sqrt{3}+1)QR = SP$ e $\angle RSP - \angle SPQ = 30^\circ$. Dimostrare che
+> $$\angle PQR - \angle QRS = 90^\circ.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2000#q04|src_inmo_2000__Q04]]
 
 
 
@@ -135,7 +167,14 @@ level: INMO
 
 *Radice cubica con 1≤a≤b≤c≥0: |λ|≤1*
 
-> $a, b, c$ siano tre numeri reali come $1 \le a \le b \le c \ge 0$. Prove che se $\lambda$ è una radice dell'equazione cubica $x^3 + ax^2 + bx + c = 0$ (reale o complessa), allora $|\lambda| \le 1$.
+> Siano $a, b, c$ tre numeri reali tali che $1 \le a \le b \le c \ge 0$. Dimostrare che, se $\lambda$ è una radice dell'equazione cubica $x^3 + ax^2 + bx + c = 0$ (reale o complessa), allora $|\lambda| \le 1$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2000#q05|src_inmo_2000__Q05]]
 
 
 
@@ -160,6 +199,15 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*f(n) conta i triangoli a lato intero; prova f(1999)>f(1996) e f(2000)=f(1997)*
+*f(n) conta i triangoli con i lati interi; dimostrare che f(1999)>f(1996) e che f(2000)=f(1997)*
 
-> Per qualsiasi numero naturale $n$ ($n \ge 3$), $f(n)$ indichi il numero di triangoli a lato intero non congruenti con perimetro $n$ (ad esempio, $f(3) = 1$, $f(4) = 0$, $f(7) = 2$). Indicare che (a) $f(1999) > f(1996)$; (b) $f(2000) = f(1997)$.
+> Per ogni numero naturale $n$ ($n \ge 3$), si indichi con $f(n)$ il numero di triangoli a lati interi non congruenti con perimetro $n$ (ad es., $f(3) = 1$, $f(4) = 0$, $f(7) = 2$). Dimostrare che
+> (a) $f(1999) > f(1996)$;
+> (b) $f(2000) = f(1997)$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_bigezione|Biiezione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2000#q06|src_inmo_2000__Q06]]

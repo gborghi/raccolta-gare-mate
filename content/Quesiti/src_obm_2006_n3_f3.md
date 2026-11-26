@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un angolo bisectore piede e incentro danno triangolo isosceles*
+*Il piede della bisettrice dell'angolo e l'incentro determinano un triangolo isoscele*
 
-> Il $ABC$ deve essere un triangolo, $P$ il piede del bisettore dell'angolo interno da $B$ a lato $AC$, e $I$ l'incentro di $ABC$. Se $AP + AB = CB$, dimostrare che $API$ è un triangolo di uguali dimensioni.
+> Sia $ABC$ un triangolo, $P$ il piede della bisettrice interna condotta da $B$ al lato $AC$, e $I$ l'incentro di $ABC$. Se $AP + AB = CB$, dimostrare che $API$ è un triangolo isoscele.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n3_f3#q01|src_obm_2006_n3_f3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Limita un^2 < f(n) < bn^2 per i triangoli a max pari dimensioni*
+*Limiti an^2 < f(n) < bn^2 per i triangoli isosceli massimi*
 
-> $n$ sia un numero intero, $n \ge 3$. Definire $f(n)$ come il numero massimo di triangoli di isosceles le cui vertici appartengono a un insieme di punti $n$ nel piano senza tre punti collineari. Prova che esistono costanti positive $a$ e $b$ tali da $an^2 < f(n) < bn^2$ per ogni numero intero $n \ge 3$.
+> Sia $n$ un numero intero, $n \ge 3$. Definisci $f(n)$ come il numero massimo di triangoli isosceli i cui vertici appartengono a un certo insieme di $n$ punti nel piano, con nessun tre punti allineati. Dimostrare che esistono costanti positive $a$ e $b$ tali che $an^2 < f(n) < bn^2$ per ogni numero intero $n \ge 3$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2006_n3_f3#q02|src_obm_2006_n3_f3__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le equazioni funzionali soddisfacenti f:R->R*
+*Trovare tutte le funzioni f:R->R che soddisfano l'equazione funzionale*
 
-> Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ in modo tale che $$f\bigl(x f(y) + f(x)\bigr) = 2f(x) + xy$$ per tutte le $x, y$ reali.
+> Determine all functions $f : \mathbb{R} \to \mathbb{R}$ such that $$f\bigl(x f(y) + f(x)\bigr) = 2f(x) + xy$$ for all real $x, y$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n3_f3#q03|src_obm_2006_n3_f3__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il più piccolo intero positivo che sia 'gettato' (arranjado)*
+*Trovare il più piccolo intero positivo che viene 'lanciato' (arranjado)*
 
-> Un intero positivo si chiama \emph{thrown} (arrojado) quando ha 8 divisori positivi la cui somma è 3240. Ad esempio, il 2006 viene gettato perché i suoi 8 divisori positivi sono $1, 2, 17, 34, 59, 118, 1003, 2006$, e la loro somma è 3240. Trova il più piccolo intero positivo gettato.
+> Un numero intero positivo è detto \emph{gettato} (arrojado) quando ha 8 divisori positivi la cui somma è 3240. Ad esempio, 2006 è gettato perché i suoi 8 divisori positivi sono $1, 2, 17, 34, 59, 118, 1003, 2006$, e la loro somma è 3240. Trovare il più piccolo numero intero positivo gettato.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n3_f3#q04|src_obm_2006_n3_f3__Q04]]
 
 
 
@@ -129,9 +157,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I lati opposti di 1003-gon convex sono paralleli e congruenti*
+*I lati opposti di un 1003-gono convesso sono paralleli e congruenti*
 
-> Che $P$ sia un poligono converso con lati 2006. Le diagonali 1003 che collegano vertici opposti e i segmenti 1003 che collegano i punti medi di lati opposti sono tutti simultanei, cioè tutti i segmenti del 2006 condividono un punto comune. Prova che i lati opposti di $P$ sono paralleli e congruenti.
+> Sia $P$ un poligono convesso con 2006 lati. Le 1003 diagonali che congiungono i vertici opposti e i 1003 segmenti che congiungono i punti medi dei lati opposti sono tutti concorrenti, cioè tutti i 2006 segmenti hanno un punto comune. Dimostrare che i lati opposti di $P$ sono paralleli e congruenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n3_f3#q05|src_obm_2006_n3_f3__Q05]]
 
 
 
@@ -156,8 +191,15 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di calcio bilanciato se m <= phi×n, utilizzando f(n)=2n-f(r)+r*
+*La partita di calcio è equilibrata se e solo se m <= phi*n, usando f(n)=2n-f(r)+r*
 
-> Il professore Piraldo ha un modo peculiare di giudicare le partite di calcio (calcio) in cui vengono segnati molti gol. Un gioco con un punteggio di $m$ obiettivi a $n$ obiettivi, $m \ge n$, è chiamato \emph{balanced} quando $m \le f(n)$, e \emph{unbalanced} quando $m > f(n)$, dove $f$ è la funzione definita da $f(0) = 0$ e, per $n \ge 1$, $f(n) = 2n - f(r) + r$, dove $r$ è il più grande intero tale che $r \le n$ e $f(r) \le n$.
-> 
-> Dato $\phi = \dfrac{1+\sqrt{5}}{2}$, dimostrare che un gioco con punteggio $m$ a $n$, $m \ge n$, è equilibrato se e solo se $m \le \phi n$, e squilibrato se e solo se $m \ge \phi n + 1$.
+> Il professor Piraldo ha un modo peculiare di giudicare le partite di calcio in cui vengono segnati molti gol. Una partita con il punteggio di $m$ gol a $n$ gol, $m \ge n$, è detta \emph{equilibrata} quando $m \le f(n)$, e \emph{squilibrata} quando $m > f(n)$, dove $f$ è la funzione definita da $f(0) = 0$ e, per $n \ge 1$, $f(n) = 2n - f(r) + r$, dove $r$ è il più grande intero tale che $r \le n$ e $f(r) \le n$.
+>
+> Dato $\phi = \dfrac{1+\sqrt{5}}{2}$, dimostrare che una partita con punteggio $m$ a $n$, $m \ge n$ è bilanciata se e solo se $m \le \phi n$, e non bilanciata se e solo se $m \ge \phi n + 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n3_f3#q06|src_obm_2006_n3_f3__Q06]]

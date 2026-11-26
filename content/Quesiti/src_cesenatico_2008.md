@@ -37,13 +37,18 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Regular decagon, diagonal intersection and circumference S*
+*Regular dodecagon: the intersection of two diagonals lies on a congruent circle, whose centre lies on HN, and PE equals the side*
 
-![[src_cesenatico_2008__prob1.png]]
+> Let ABCDEFGHILMN be a regular dodecagon. Let P be the intersection of the diagonals AF and DH. Let S be the circle through A and H, congruent to the circle circumscribed about the dodecagon and distinct from it. Prove that:
+> (a) P lies on S;
+> (b) the centre of S lies on the diagonal HN;
+> (c) the length of PE equals the side of the dodecagon.
 
-> It's either ABCDEFGHILMN or a regular dodecagon. P is the intersection point of the AF and DH diagonals. Whether S is the circumference passing through A and H, congruent to that circumscribed to the dodecagon and distinct from it. Demonstrate that: (a) P belongs to S; (b) the center of S belongs to the HN diagonal; (c) the length of PE is equal to the side of the dodecahedron.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-**Answer:** proved (translation)
+[[src_cesenatico_2008__prob1.png]]
 
 
 
@@ -70,11 +75,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number of colours*
+*Number of red-and-blue colourings of an n by n board in which every 2 by 2 square has two red cells and two blue*
 
-> Let n ≥2 be an integer. We color all the boxes on a chessboard n × n in red or blue so that every square 2 × 2 contained in the chessboard has exactly two red and two blue boxes. How many colors are possible? NOTE: Two colours obtained from each other by rotation or symmetry of the chessboard are considered to be distinct.
+> Let n ≥ 2 be an integer. Colour all the cells of an n × n board red or blue so that every 2 × 2 square contained in the board has exactly two red cells and two blue cells.
+> How many such colourings are there?
+> Note: two colourings obtained from each other by a rotation or a reflection of the board are regarded as distinct.
 
-**Answer:** 2^(n+1)-2
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+
+[[Quesiti/src_cesenatico_2008#q02|src_cesenatico_2008__Q02]]
 
 
 
@@ -101,11 +111,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Growing Z->R functions with differences in image*
+*Strictly increasing functions from the integers to the reals such that every difference of values is again a value*
 
-> Determine all the functions f, defined on the set Z of the relative integers and values in the set R of the real numbers, which satisfy simultaneously the following properties: • for each pair of integers (m, n) with m < n we have f(m) < f(n); • for each pair of integers (m, n) there exists an integer k such that f(m) −f(n) = f(k.
+> Determine all functions f, defined on the set Z of integers and taking values in the set R of real numbers, that satisfy both of the following properties:
+> • for every pair of integers (m, n) with m < n one has f(m) < f(n);
+> • for every pair of integers (m, n) there exists an integer k such that f(m) −f(n) = f(k).
 
-**Answer:** f(n)=(n-n0)a with a positive real
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2008#q03|src_cesenatico_2008__Q03]]
 
 
 
@@ -129,11 +145,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Term (a,b,c) positive integers with a^2+2^(b+1) = 3^c*
+*Positive integer triples (a, b, c) satisfying a2 + 2b+1 = 3c*
 
-> Determine all terns (a, b, c) of integers greater than zero such that a2 + 2b + 1 = 3c.
+> Determine all triples (a, b, c) of integers greater than zero such that
+> a2 + 2b+1 = 3c.
 
-**Answer:** (1,2,2) e (7,4,4)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+
+[[Quesiti/src_cesenatico_2008#q04|src_cesenatico_2008__Q04]]
 
 
 
@@ -168,14 +188,21 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*three equal and direct squares rC*
+*Three equal squares inside a triangle, and a reflected line rC through the centre of an external square*
 
-![[src_cesenatico_2008__prob5.png]]
-![[src_cesenatico_2008__prob5b.png]]
+> Let ABC be a triangle with every angle greater than 45° and less than 90°.
+> (a) Prove that one can place inside ABC three squares with the following properties:
+> • the three squares all have the same side;
+> • the three squares have a common vertex K inside the triangle;
+> • any two squares have no point in common other than K;
+> • each square has two opposite vertices on the perimeter of ABC, and otherwise lies entirely inside triangle ABC.
+> (b) Let P be the centre of the square that has side AB and lies outside ABC. Let rC be the reflection, in the bisector of $\widehat{ACB}$ issuing from C, of the line through C and K. Prove that P lies on rC.
 
-> Whether ABC is a triangle with all the angles greater than 45° and less than 90°. (a) Demonstrate that three squares within ABC can be arranged with the following properties: • the three squares all have the same side; • the three squares have a common vertex K inside the triangle; • any two squares have no points in common beyond K; • each of the squares has two opposite vertices on the perimeter of ABC and for the rest is all within the triangle ABC. (b) Both P the center of the square with side AB and exterior to ABC. RC is the symmetry of the passing straight line for C and K with respect to the $\widehat{ACB}$ beam coming out of C. Prove that P belongs to rC.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-**Answer:** proved
+[[src_cesenatico_2008__prob5.png]]
 
 
 
@@ -209,8 +236,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*strategy*
+*Winning strategy in the coin-column game, starting from one column of 20082008 coins, and in general*
 
-> Francesca and Georgia play the following game. On a table there are initially some columns of coins. Each column contains a number of coins, which may vary from column to column. In turn, each player makes one and only one of the following possible moves: • selects a column containing a non-zero number of 2k coins and replaces it with two columns containing k coins each; • draws all columns containing an odd number of coins from the table. In the event that it is not possible to make a move of the first type, the player will necessarily make a move of the second type, and vice versa. Let's start with Francesca. Whoever takes the last coin from the table wins. (a) If initially there is only one column on the table, which contains 2008-2008 coins, which player has a winning strategy? (b) For what initial configurations does Francesca have a winning strategy?
+> Francesca and Giorgia play the following game. On a table there are initially some columns of coins. Each column contains some number of coins, which may vary from column to column. In turn, each player makes one and only one of the following moves:
+> • she chooses a column containing a positive even number 2k of coins and replaces it with two columns of k coins each;
+> • she removes from the table every column containing an odd number of coins.
+> If a move of the first type is not possible, the player must make one of the second type, and vice versa.
+> Francesca starts. The winner is the one who takes the last coin from the table.
+> (a) If there is initially a single column, containing 20082008 coins, which player has a winning strategy?
+> (b) For which initial configurations does Francesca have a winning strategy?
 
-**Answer:** (a) Francesca; (b) odd configuration value
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+
+[[Quesiti/src_cesenatico_2008#q06|src_cesenatico_2008__Q06]]

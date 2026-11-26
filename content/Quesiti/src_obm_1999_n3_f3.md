@@ -32,13 +32,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area quadrilaterale in pentagramma regolare con area 1*
+*Area del quadrilatero nell'pentagramma regolare di area 1*
 
-> Che $ABCDE$ sia un pentagono regolare in modo tale che la stella $ACEBD$ abbia una superficie $1$. $P$ sia l'intersezione di $AC$ e $BE$, e $Q$ l'intersezione di $BD$ e $CE$. Determinare la superficie di $APQD$.
+> Sia $ABCDE$ un pentagono regolare tale che la stella $ACEBD$ abbia area $1$. Sia $P$ l'intersezione di $AC$ e $BE$, e $Q$ l'intersezione di $BD$ e $CE$. Determinare l'area di $APQD$.
 
 ![[src_obm_1999_n3_f3__q01.png]]
 
-**Risposta:** \frac{1}{2}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1999_n3_f3#q01|src_obm_1999_n3_f3__Q01]]
 
 
 
@@ -61,9 +66,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la cifra decimale non zero di sqrt(2) in un determinato intervallo*
+*Dimostrare che la cifra decimale non nulla di sqrt(2) ricade nell'intervallo specificato*
 
-> Prove che esiste almeno una cifra decimale diversa da zero tra le cifre di $\sqrt{2}$ tra la $1{,}000{,}000$th e la $3{,}000{,}000$th decimale dopo il punto decimale.
+> Dimostrare che tra la $1{,}000{,}000$-esima e la $3{,}000{,}000$-esima cifra decimale dopo la virgola, tra le cifre di $\sqrt{2}$, esiste almeno una cifra decimale diversa da zero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1999_n3_f3#q02|src_obm_1999_n3_f3__Q02]]
 
 
 
@@ -87,11 +99,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piani massimi su lavagna da 10x10 senza rettangolo parallelo all'asse*
+*Pezzi massimi su una scacchiera 10x10 senza rettangoli paralleli agli assi*
 
-> Abbiamo una tabella quadrata. Desideriamo posizionare pezzi $n$ sulle celle della lavagna in modo tale che nessun pezzo $4$ costituisca le vertici di un rettangolo con lati paralleli ai lati della lavagna. Determinare il valore massimo di $n$ per il quale tale costruzione è possibile.
+> Abbiamo una scacchiera quadrata di dimensione $10 \times 10$. Vogliamo collocare $n$ pedine sulle caselle della scacchiera in modo che nessun gruppo di $4$ pedine costituisca i vertici di un rettangolo i cui lati siano paralleli ai lati della scacchiera. Determinare il valore massimo di $n$ per cui questa costruzione è possibile.
 
-**Risposta:** 34
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n3_f3#q03|src_obm_1999_n3_f3__Q03]]
 
 
 
@@ -118,13 +135,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prezzi di Kriptonita città antipodal differiscono di non più di 100 Urghs*
+*Nella città antipodale di Kriptonita, i prezzi differiscono di al massimo 100 Urgh*
 
-> Il pianeta $\textit{Zork}$ è sferico e ha molte città. Per ciascuna città esiste una città antipodal (cioè simmetrica rispetto al centro del pianeta). In $\textit{Zork}$ le strade collegano coppie di città $P$ e $Q$; vi è anche una strada che collega le città $P'$ e $Q'$, dove $P'$ è la città antipodal di $P$ e $Q'$ è la città antipodal di $Q$. Inoltre, le strade non si attraversano e tra due città $P$ e $Q$ è sempre possibile viaggiare da $P$ a $Q$ lungo una certa sequenza di strade.
-> 
-> Il prezzo di $\textit{Kriptonita}$ (un minerale planetario) in due città collegate da una strada differisce al massimo di $100$ $\textit{Urghs}$. Provare che esistono due città antipodiche in cui il prezzo di $\textit{Kriptonita}$ differisce esattamente di almeno $100$ $\textit{Urghs}$.
-> 
-> Più precisamente: dimostrare che esistono due città antipodali in cui il prezzo di $\textit{Kriptonita}$ differisce al massimo di $100$ $\textit{Urghs}$.
+> Il pianeta $\textit{Zork}$ è sferico e ha molte città. Per ogni città esiste una città antipodale (ossia simmetrica rispetto al centro del pianeta). In $\textit{Zork}$, le strade collegano coppie di città $P$ e $Q$; c'è anche una strada che collega le città $P'$ e $Q'$, dove $P'$ è la città antipodale di $P$ e $Q'$ è la città antipodale di $Q$. Inoltre, le strade non si incrociano, e tra qualsiasi coppia di città $P$ e $Q$ è sempre possibile spostarsi da $P$ a $Q$ lungo una certa sequenza di strade.
+>
+> Il prezzo di $\textit{Kriptonita}$ (un minerale planetario) in due città collegate da una strada differisce di al massimo $100$ $\textit{Urghs}$. Dimostrare che esistono due città antipodali in cui il prezzo di $\textit{Kriptonita}$ differisce di esattamente al massimo $100$ $\textit{Urghs}$.
+>
+> Più precisamente: dimostrare che esistono due città antipodali in cui il prezzo di $\textit{Kriptonita}$ differisce di al più $100$ $\textit{Urghs}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n3_f3#q04|src_obm_1999_n3_f3__Q04]]
 
 
 
@@ -148,11 +172,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di domenica per il campionato di calcio in round-robin con n squadre*
+*Domeniche minime per un campionato di calcio a girone all'italiana con n squadre*
 
-> In $\textit{Tumbolia}$ ci sono $n$ squadre di calcio. Si organizzerà un campionato round-robin in modo che ciascuna squadra giochi esattamente una volta contro l'altra. Tutte le partite si svolgono la domenica e una squadra non può giocare più di una volta la stessa domenica. Determinare il numero intero positivo minimo $n$ per il quale è possibile tenere un tale campionato nelle domenica $n$.
+> In $\textit{Tumbolia}$ ci sono $n$ squadre di calcio. Si deve organizzare un campionato all'italiana in modo che ogni squadra affronti ciascuna delle altre esattamente una volta. Tutte le partite si disputano di domenica, e una squadra non può giocare più di una partita nello stesso giorno di domenica. Determinare il minimo intero positivo $n$ per cui è possibile svolgere un tale campionato in $n$ domeniche.
 
-**Risposta:** n = 2k-1 \text{ se } n=2k, \text{ e } n \text{ se } n \text{ è dispari}
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n3_f3#q05|src_obm_1999_n3_f3__Q05]]
 
 
 
@@ -178,8 +207,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Construire un triangolo con superficie minima incentrata con angoli prescritti utilizzando bussola e borso retto*
+*Costruisci con compasso e riga un triangolo inscritto di area minima avente angoli prescritti*
 
-> Se il triangolo $ABC$ è considerato, mostrare come costruire con il bordo stretto e la bussola un triangolo $A'B'C'$ di superficie minima come $C' \in AC$, $A' \in AB$, $B' \in BC$ e $$\angle B'A'C' = \angle BAC, \quad \angle A'C'B' = \angle ABC, \quad \angle A'B'C' = \angle ACB.$$
+> Dato il triangolo $ABC$, mostra come costruire con riga e compasso un triangolo $A'B'C'$ di area minima tale che $C' \in AC$, $A' \in AB$, $B' \in BC$, e
+> $$\angle B'A'C' = \angle BAC, \quad \angle A'C'B' = \angle ABC, \quad \angle A'B'C' = \angle ACB.$$
 
 ![[src_obm_1999_n3_f3__q06.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1999_n3_f3#q06|src_obm_1999_n3_f3__Q06]]

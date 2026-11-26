@@ -33,13 +33,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due passeggeri partono contemporaneamente l'uno verso l'altro; trovare il tempo di viaggio di ciascun passeggero*
+*Due camminatori partono simultaneamente l'uno verso l'altro; determina il tempo di percorrenza di ciascuno*
 
-> Geraldinho e Magrão lasciarono le loro case nello stesso istante, camminando l'uno verso l'altro lungo lo stesso sentiero. Geraldinho stava pensando a un problema olimpiatico e Magrão stava riflettendo su idee filosofiche; non si notarono l'un l'altro quando si incrociarono. Dieci minuti dopo, Geraldinho arrivò a casa di Magrão, e Magrão arrivò a casa di Geraldinho ancora mezz'ora dopo. Per quanto tempo ciascuno di loro camminò?
-> 
-> **Nota:** Ciascuno cammina a velocità costante.
+> Geraldinho e Magrão lasciarono le proprie case nello stesso istante, camminando l'uno verso l'altro lungo lo stesso sentiero. Geraldinho stava pensando a un problema di olimpiade, mentre Magrão stava riflettendo su idee filosofiche; non si notarono quando si incrociarono. Dieci minuti dopo, Geraldinho arrivò a casa di Magrão, e Magrão arrivò a casa di Geraldinho solo mezz'ora più tardi. Quanto tempo camminò ciascuno di loro?
+>
+> **Note:** Ciascuno cammina a velocità costante.
 
 ![[src_obm_2002_n2_f2__q01.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2002_n2_f2#q01|src_obm_2002_n2_f2__Q01]]
 
 
 
@@ -64,11 +71,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Panel a quadri in 4 colori; quale colore copre la più grande area?*
+*Pannello a quarto di cerchio in 4 colori; quale colore copre l'area più grande?*
 
-> Un grande pannello a forma di quartiere era composto da colori $4$, come indicato nella figura accanto, dove il segmento divide il settore in due parti uguali e l'arco interno è un semicircolo. Qual è il colore che copre l'area più grande?
+> Un pannello di grandi dimensioni a forma di quarto di cerchio era composto da $4$ colori, come indicato nella figura accanto, dove il segmento divide il settore in due parti uguali e l'arco interno è un semicerchio. Qual è il colore che copre l'area maggiore?
 
 ![[src_obm_2002_n2_f2__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2002_n2_f2#q02|src_obm_2002_n2_f2__Q02]]
 
 
 
@@ -91,9 +105,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*8×8 tabella con vicinanza-differenza 1, voci 17 e 3 presenti; trovare la somma delle diagonali principali*
+*Tabella 8×8 con differenza tra elementi vicini pari a 1, con le voci 17 e 3 presenti; trovare la somma delle diagonali principali*
 
-> Nelle celle di una tabella $8 \times 8$, i numeri interi positivi sono scritti in modo tale che la differenza tra i numeri scritti nelle celle vicine (cellule che condividono un lato comune) è $1$. È noto che in una delle celle è scritto il numero $17$ e in un'altra è scritto il numero $3$. Calcolare la somma di tutti i numeri scritti sulle due diagonali principali della tabella.
+> Nelle celle di una tabella $8 \times 8$, vengono scritti numeri interi positivi in modo tale che la differenza tra i numeri scritti in celle adiacenti (celle che condividono un lato comune) sia $1$. Si sa che in una delle celle è scritto il numero $17$ e in un'altra cella è scritto il numero $3$. Calcola la somma di tutti i numeri scritti sulle due diagonali principali della tabella.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2002_n2_f2#q03|src_obm_2002_n2_f2__Q03]]
 
 
 
@@ -120,13 +141,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro uccelli a uguale distanza dal posto di osservazione; trovare la distanza data BD=16 e l'angolo BAD=45°*
+*Quattro uccelli equidistanti dal posto di osservazione; determinare la distanza sapendo che BD=16 e che l'angolo BAD=45°*
 
-> Il professor Pardal sta studiando il comportamento di una famiglia di una certa specie di uccelli. I punti $A$, $B$, $C$ e $D$ della figura accanto rappresentano le posizioni di quattro uccelli. Il professore costruì un posto di osservazione a uguale distanza dai quattro uccelli.
-> 
-> Tutti i nidi e il posto d'osservazione si trovano alla stessa altezza. La distanza da $B$ a $D$ è $16$ metri e $\widehat{BAD} = 45^\circ$. Determina la distanza dal palo a ciascun uccello.
+> Il professor Pardal sta studiando il comportamento di una famiglia di una certa specie di uccelli. I punti $A$, $B$, $C$ e $D$ nella figura accanto rappresentano le posizioni di quattro uccellini. Il professore ha allestito un posto di osservazione equidistante dai quattro uccellini.
+>
+> Tutti i nidi e il posto di osservazione si trovano alla stessa altezza dal suolo. La distanza da $B$ a $D$ è di $16$ metri, e $\widehat{BAD} = 45^\circ$. Determinare la distanza dal posto di osservazione a ciascun uccello.
 
 ![[src_obm_2002_n2_f2__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2002_n2_f2#q04|src_obm_2002_n2_f2__Q04]]
 
 
 
@@ -149,9 +177,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza a partire da 7; ogni termine successivo è la somma digitali del termine precedente al quadrato, più 1; trovare l'elemento 2002*
+*Successione che inizia con 7; ogni termine successivo è la somma delle cifre del quadrato del termine precedente, più 1; trova il 2002º elemento*
 
-> Il primo numero di una sequenza è $7$. La seguente si ottiene nel seguente modo: calcoliamo il quadrato del numero precedente, $7^2 = 49$, e poi prendiamo la somma delle sue cifre e aggiungiamo $1$, cioè il secondo numero è $4 + 9 + 1 = 14$. Ripetiamo questo processo, ottenendo $14^2 = 196$ e il terzo numero della sequenza è $1 + 9 + 6 + 1 = 17$, e così via. Qual è l'elemento $2002^\circ$ di questa sequenza?
+> Il primo numero di una successione è $7$. Il successivo si ottiene nel modo seguente: calcoliamo il quadrato del numero precedente, $7^2 = 49$, poi prendiamo la somma delle sue cifre e aggiungiamo $1$; in altre parole, il secondo numero è $4 + 9 + 1 = 14$. Ripetiamo questo procedimento, ottenendo $14^2 = 196$, e il terzo numero della successione è $1 + 9 + 6 + 1 = 17$, e così via in successione. Qual è l'elemento $2002^\circ$ di questa successione?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n2_f2#q05|src_obm_2002_n2_f2__Q05]]
 
 
 
@@ -180,12 +215,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Anni palindromici: i prossimi quattro dopo il 2002, il prossimo palindromice odd, il prossimo palindromice primario dopo il 929*
+*Anni palindromi: i prossimi quattro dopo il 2002, il prossimo palindromo dispari, il prossimo palindromo primo dopo il 929*
 
-> L'anno $2002$ è un palindromo, cioè si legge lo stesso da sinistra a destra e da destra a sinistra.
-> 
-> a) A partire da$2002$, quali saranno i prossimi quattro anni di palindrome?
-> 
-> b) L'ultimo anno di palindroma pari è stato $1991$, che è stato pari. Quando si verificherà il prossimo anno palindromo?
-> 
-> c) L'ultimo anno di palindrome primario è avvenuto più di $1000$ anni fa, in $929$. Determina quale sarà il prossimo primo palindromo.
+> L'anno $2002$ è un palindromo, cioè si legge allo stesso modo da sinistra a destra e da destra a sinistra.
+>
+> a) A partire da $2002$, quali saranno i prossimi quattro anni palindromi?
+>
+> b) L'ultimo anno palindromo dispari è stato $1991$, che era dispari. Quando ricorrerà il prossimo anno palindromo dispari?
+>
+> c) L'ultimo anno primo palindromo è avvenuto più di $1000$ anni fa, nel $929$. Determinare qual è il prossimo anno primo palindromo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n2_f2#q06|src_obm_2002_n2_f2__Q06]]

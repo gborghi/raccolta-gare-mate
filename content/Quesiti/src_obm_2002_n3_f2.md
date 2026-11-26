@@ -35,13 +35,23 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova un numero a 4 cifre da un solo indizio vero*
+*Da tre indizi, di cui uno solo è vero, ricostruire il numero di quattro cifre pensato da Arnaldo*
 
-> Arnaldo pensò a un numero a quattro cifre e sfidò Bernardo a scoprire quale fosse. Per aiutarlo, ha dato a Bernardo i seguenti tre indizi, esattamente uno dei quali è vero:
-> 
-> - Indizio 1: il numero e' un cubo perfetto. - Indizio 2: Il numero è il numero a quattro cifre più piccolo che ha esattamente quattro divisori positivi. - Indice 3: Il numero è un multiple di $59$.
-> 
-> Qual e' il numero che Arnaldo ha pensato?
+> Arnaldo ha pensato un numero di quattro cifre e ha sfidato Bernardo a scoprire quale fosse. Per aiutarlo gli ha dato questi tre indizi, di cui uno solo è vero:
+>
+> - Indizio 1: il numero è un cubo perfetto.
+> - Indizio 2: il numero è il più piccolo di quattro cifre che ha esattamente quattro divisori positivi.
+> - Indizio 3: il numero è multiplo di $59$.
+>
+> Qual è il numero pensato da Arnaldo?
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_obm_2002_n3_f2#q01|src_obm_2002_n3_f2__Q01]]
 
 
 
@@ -66,9 +76,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i valori a,b,c da tre equazioni di prodotto simmetrici*
+*Tre numeri reali sono legati da tre equazioni di prodotti: determinarli*
 
-> $a$, $b$, $c$ siano numeri reali tali che $$ab(a+b+c) = 1001, \quad bc(a+b+c) = 2002, \quad ca(a+b+c) = 3003.$$ Trova $a$, $b$ e $c$.
+> Siano $a$, $b$, $c$ numeri reali tali che
+>
+> $$ab(a+b+c) = 1001, \quad bc(a+b+c) = 2002, \quad ca(a+b+c) = 3003.$$
+>
+> Determinare $a$, $b$ e $c$.
+
+**Argomento:** [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_obm_2002_n3_f2#q02|src_obm_2002_n3_f2__Q02]]
 
 
 
@@ -95,13 +117,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'indice di carta piegato dà il pentagono; trovare a+b in termini di lato AB=1*
+*Una striscia di carta rettangolare viene piegata in un pentagono: si chiede la somma di due lunghezze segnate in figura*
 
-> Una striscia rettangolare di carta $ABCD$ è piegata lungo le linee $EF$ e $HG$ in modo che i vertici $A$ e $B$ siano entrambi portati allo stesso punto $M$ sul bisettore perpendicolare di $AB$, e l'angolo $\angle HAE$ sia un angolo retto. In questo modo si ottiene un pentagono $A'EFGH$ (vedi figura).
-> 
-> È noto che i bordi inferiori della striscia (segmenti $FC'$ e $GD'$ nella figura) si incontrano al punto medio $M$ del lato $AB$, il lato $AB$ ha lunghezza $1$ e il lato $AB$ è la media $AD$ della striscia. Trova $a + b$, dove $a$ e $b$ sono numeri positivi definiti come mostrato nella figura.
+> Una striscia di carta rettangolare $ABCD$ viene piegata lungo le rette $EF$ e $HG$, in modo che i vertici $A$ e $B$ vadano entrambi nello stesso punto $M$, sull'asse del segmento $AB$, e che l'angolo $\angle HAE$ sia retto. Si ottiene così un pentagono $A'EFGH$ (si veda la figura).
+>
+> Si sa che i bordi inferiori della striscia (i segmenti $FC'$ e $GD'$ nella figura) si incontrano nel punto medio $M$ del lato $AB$, che il lato $AB$ ha lunghezza $1$ e che il lato $AB$ è la mediana $AD$ della striscia. Determinare $a + b$, dove $a$ e $b$ sono numeri positivi definiti come in figura.
 
 ![[src_obm_2002_n3_f2__q03.png]]
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2002_n3_f2#q03|src_obm_2002_n3_f2__Q03]]
 
 
 
@@ -124,9 +154,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il terzo primo più piccolo della forma n^2+5*
+*Dati i due primi più piccoli della forma n²+5, si chiede il terzo*
 
-> I due numeri primi più piccoli del formulario $n^2 + 5$ sono $6^2 + 5 = 41$ e $12^2 + 5 = 149$. Qual è il terzo primo più piccolo di questa forma?
+> I due più piccoli numeri primi della forma $n^2 + 5$ sono $6^2 + 5 = 41$ e $12^2 + 5 = 149$. Qual è il terzo più piccolo primo di questa forma?
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_obm_2002_n3_f2#q04|src_obm_2002_n3_f2__Q04]]
 
 
 
@@ -153,13 +191,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Min quadrilaterali ciclici a partire da 40 punti su due cerchi intersezionati*
+*Dieci rette per un punto del segmento comune a due circonferenze: quanti quadrilateri ciclici, al minimo*
 
-> Due cerchi si incrociano a due punti $A$ e $B$. $X$ sia un punto sul segmento $AB$. Dieci linee attraversano $X$, ciascuna tagliando entrambi i cerchi, dando 40 punti di intersezione in totale (quattro per linea).
-> 
-> Qual è il numero minimo di quadrilaterali ciclici le cui quattro vertici sono tra questi quarant'anni?
-> 
-> **Nota:** Un quadrilaterale è ciclico se e solo se esiste un cerchio che attraversa le sue quattro vertici.
+> Due circonferenze si intersecano nei punti $A$ e $B$. Sia $X$ un punto del segmento $AB$. Dieci rette passano per $X$ e ciascuna taglia entrambe le circonferenze, dando in tutto quaranta punti di intersezione (quattro per retta).
+>
+> Qual è il minimo numero di quadrilateri ciclici i cui quattro vertici stanno tra questi quaranta punti?
+>
+> **Nota:** un quadrilatero è ciclico se e solo se esiste una circonferenza che passa per i suoi quattro vertici.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_obm_2002_n3_f2#q05|src_obm_2002_n3_f2__Q05]]
 
 
 
@@ -182,9 +228,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadratico con due radici; prova b<0*
+*Dimostrare che b è negativo se le due radici reali stanno entrambe fra 0 e 1*
 
-> Si consideri l'equazione $ax^2 + bx + c = 0$, dove $a$, $b$, $c$ sono reali e $a > 0$. Supponiamo che questa equazione abbia due radici reali $r$ e $s$ tali che $0 < r < 1$ e $0 < s < 1$. Prove che $b < 0$.
+> Si consideri l'equazione $ax^2 + bx + c = 0$, dove $a$, $b$, $c$ sono reali e $a > 0$. Si supponga che questa equazione abbia due radici reali $r$ e $s$ tali che $0 < r < 1$ e $0 < s < 1$. Dimostrare che $b < 0$.
+
+**Argomento:** [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2002_n3_f2#q06|src_obm_2002_n3_f2__Q06]]
 
 
 
@@ -209,9 +263,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli non congruenti in ABC con altitudine AD e rapporto dato*
+*Con l'altezza fissata e due segmenti interi, quanti triangoli non congruenti soddisfano una relazione tra i lati*
 
-> Nel triangolo $ABC$, $AD$ deve essere l'altitudine relativa a $BC$. Quanti triangoli non congruenti soddisfano $$\frac{1}{AB^2} + \frac{1}{AC^2} = \frac{1}{AD^2}$$ con $AD = 2012$ e $BD$ e $CD$ entrambi gli integri? Si noti che $AB$ e $AC$ non devono essere numeri interi.
+> Nel triangolo $ABC$, sia $AD$ l'altezza relativa a $BC$. Quanti triangoli non congruenti soddisfano
+>
+> $$\frac{1}{AB^2} + \frac{1}{AC^2} = \frac{1}{AD^2}$$
+>
+> con $AD = 2012$ e con $BD$ e $CD$ entrambi interi? Si noti che $AB$ e $AC$ non devono essere necessariamente interi.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_obm_2002_n3_f2#q07|src_obm_2002_n3_f2__Q07]]
 
 
 
@@ -234,9 +300,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo acuto tra BF e GH in quadrato con triangoli equilaterali*
+*Su un quadrato si costruiscono due triangoli equilateri: si chiede l'angolo acuto tra due rette*
 
-> $ABCD$ sia quadrato, $E$ il punto medio del lato $BC$, $F$ il punto medio del lato $CD$. I triangoli equilaterali $ABG$ e $BEH$ sono costruiti in modo che $G$ si trovi all'interno del quadrato e $H$ si trovi al di fuori del quadrato. Determinare l'angolo acuto tra le linee $BF$ e $GH$.
+> Sia $ABCD$ un quadrato, $E$ il punto medio del lato $BC$ e $F$ il punto medio del lato $CD$. Si costruiscono i triangoli equilateri $ABG$ e $BEH$ in modo che $G$ stia dentro il quadrato e $H$ stia fuori. Determinare l'angolo acuto formato dalle rette $BF$ e $GH$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2002_n3_f2#q08|src_obm_2002_n3_f2__Q08]]
 
 
 
@@ -261,8 +335,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Esmeralda vince Destroy the Triangles sul campo
+*Su una sfera con 2012 punti, due giocatrici cancellano segmenti: chi ha una strategia vincente*
 
-> Esmeralda e Jade, segretari dell'OBM, giocano il gioco *Destroy the Triangles*. Il gioco si svolge come segue: si inizia con una sfera e $2012$ punti su di essa; in linea di principio ogni coppia di punti è collegata da un segmento. Esmeralda e Jade cancellavano alternativamente un segmento alla volta. Il segretario che cancella l'ultimo triangolo vince la partita. Si noti che dopo che il segmento finale di un triangolo viene cancellato, quel triangolo viene distrutto anche se rimangono gli altri due segmenti (cioè i segmenti che non sono più lati di alcun triangolo possono sopravvivere alla fine).
-> 
-> Esmeralda va prima. Quale delle due segretarie ha una strategia vincente indipendentemente dal modo in cui l'avversario gioca? Giustifica la tua risposta mostrando una strategia che funziona sempre.
+> Esmeralda e Jade, segretarie dell'OBM, giocano a *Distruggi i triangoli*. Si gioca così: si parte da una sfera e da $2012$ punti su di essa; in principio ogni coppia di punti è congiunta da un segmento. Esmeralda e Jade cancellano a turno un segmento. Vince la segretaria che cancella l'ultimo triangolo. Dopo che è stato cancellato l'ultimo lato di un triangolo, quel triangolo è distrutto anche se gli altri due segmenti restano (possono cioè sopravvivere segmenti che non sono più lati di alcun triangolo).
+>
+> Esmeralda inizia. Quale delle due segretarie ha una strategia vincente, qualunque sia il modo di giocare dell'avversaria? Giustificare la risposta esibendo una strategia che funziona sempre.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+
+**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2002_n3_f2#q09|src_obm_2002_n3_f2__Q09]]

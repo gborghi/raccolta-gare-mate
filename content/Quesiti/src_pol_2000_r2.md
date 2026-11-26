@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Decidere se ogni razionale positivo può essere scritto come (a^3+b^3)/(c^3+d^3) con numeri interi positivi a,b,c,d.*
+*Ogni razionale positivo è del tipo (a^3+b^3)/(c^3+d^3) con a, b, c, d interi positivi? Dimostrare o confutare*
 
-> Prove o smentire che ogni numero razionale positivo può essere scritto nella forma $\frac{a^3+b^3}{c^3+d^3}$, dove $a,b,c,d$ sono interi positivi.
+> Dimostrare o confutare che ogni numero razionale positivo si può scrivere nella forma $\frac{a^3+b^3}{c^3+d^3}$, dove $a,b,c,d$ sono interi positivi.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2000_r2#q01|src_pol_2000_r2__Q01]]
 
 
 
@@ -53,9 +59,14 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel triangolo ABC il bisettore dell'angolo BAC incontra il circoncircolo a D; K e L sono proiezioni di B e C sulla linea AC; mostrare AD >= BK+CL.*
+*La bisettrice incontra di nuovo la circonferenza circoscritta in D: AD è almeno BK + CL*
 
-> Nel triangolo $ABC$ il bisettore dell'angolo $\angle BAC$ incontra il circoncircolo di $\triangle ABC$ al punto $D \neq A$. Se $K$ e $L$ sono rispettivamente le proiezioni di $B$ e $C$ sulla linea $AC$, indicare che $AD \ge BK + CL$.
+> Nel triangolo $ABC$ la bisettrice dell'angolo $\angle BAC$ incontra la circonferenza circoscritta a $\triangle ABC$ nel punto $D \neq A$. Se $K$ e $L$ sono le proiezioni di $B$ e di $C$ sulla retta $AC$ rispettivamente, dimostrare che $AD \ge BK + CL$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2000_r2#q02|src_pol_2000_r2__Q02]]
 
 
 
@@ -78,9 +89,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una tabella n x n contiene n^2 diversi interi positivi; la voce più grande in ogni colonna è rossa; un insieme ammissibile è n celle non due in una riga o colonna comune; dimostrare che l'insieme ammissibile della somma più grande contiene almeno una cella rossa.*
+*Scacchiera n×n con interi distinti, casella massima di ogni colonna in rosso: un insieme ammissibile di somma massima contiene una casella rossa*
 
-> Le celle della tabella $n \times n$ sono scritte $n^2$ diversi interi positivi. In ogni colonna della scacchiera la cella con il maggior numero è di colore rosso. Un insieme $S$ di celle $n$ è chiamato \emph{admissible} se non ci sono due celle di $S$ nella stessa colonna o riga. Prove che l'insieme ammissibile di cellule con la maggior somma di numeri contiene almeno una cellula rossa.
+> Nelle caselle della scacchiera $n \times n$ sono scritti $n^2$ interi positivi distinti. In ogni colonna si colora di rosso la casella col numero più grande. Un insieme $S$ di $n$ caselle si dice ammissibile se due caselle di $S$ non stanno mai nella stessa colonna né nella stessa riga. Dimostrare che l'insieme ammissibile di caselle con somma massima contiene almeno una casella rossa.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2000_r2#q03|src_pol_2000_r2__Q03]]
 
 
 
@@ -103,9 +120,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel triangolo ABC con AB != AC, I è l'incentro e D, E sono dove BI e CI incontrano i lati opposti; trovare tutte le misure dell'angolo BAC per il quale DI = EI.*
+*Triangolo con AB diverso da AC, incentro I: per quali angoli in A può valere DI = EI*
 
-> In un triangolo $ABC$ con $AB \neq AC$, $I$ è l'incentro e $D$ e $E$ i punti di intersezione di $BI$ e $CI$ con i lati opposti del triangolo, rispettivamente. Trova tutte le possibili misure di $\angle BAC$ per le quali può essere soddisfatta l'uguaglianza $DI = EI$.
+> In un triangolo $ABC$ con $AB \neq AC$, $I$ è l'incentro e $D$, $E$ sono i punti in cui $BI$ e $CI$ incontrano i lati opposti rispettivamente. Trovare tutte le misure possibili di $\angle BAC$ per cui può valere l'uguaglianza $DI = EI$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2000_r2#q04|src_pol_2000_r2__Q04]]
 
 
 
@@ -128,9 +151,16 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Decidere se esiste una funzione f: N -> N tale che f(f(n)) = 2n per tutti i n naturali.*
+*Esiste una funzione dai naturali in sé la cui seconda iterata è il doppio? Dimostrare o confutare*
 
-> Prove o respingere l'esistenza di una funzione $f : \mathbb{N} \to \mathbb{N}$ tale che $$f(f(n)) = 2n \quad \text{for all } n \in \mathbb{N}.$$
+> Dimostrare o confutare che esiste una funzione $f : \mathbb{N} \to \mathbb{N}$ tale che
+>
+> $$f(f(n)) = 2n \quad \text{for all } n \in \mathbb{N}.$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali e successioni]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2000_r2#q05|src_pol_2000_r2__Q05]]
 
 
 
@@ -153,6 +183,12 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un polinomio quadratico w con coefficienti interi assume un valore di quadrato perfetto a ogni numero intero x; prova w è il quadrato di un polinomio.*
+*Polinomio di secondo grado a coefficienti interi che assume solo quadrati perfetti sugli interi: è il quadrato di un polinomio*
 
-> Che $w$ sia un polinomio quadratico con coefficienti interi. Supponiamo che per ogni numero intero $x$ il valore $w(x)$ sia un quadrato perfetto. Prova che $w$ è il quadrato di un polinomio.
+> Sia $w$ un polinomio di secondo grado a coefficienti interi. Si supponga che, per ogni intero $x$, il valore $w(x)$ sia un quadrato perfetto. Dimostrare che $w$ è il quadrato di un polinomio.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2000_r2#q06|src_pol_2000_r2__Q06]]

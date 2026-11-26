@@ -31,11 +31,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale sui numeri reali con la funzione parte intera*
+*Equazione funzionale sui reali con funzione parte intera*
 
 > Determinare tutte le funzioni $f\colon \mathbb{R} \to \mathbb{R}$ tali che l'uguaglianza
 > $$f(\lfloor x \rfloor y) = f(x)f(y)$$
-> sia verificata per ogni $x, y \in \mathbb{R}$. (Qui $\lfloor z \rfloor$ indica il massimo intero minore o uguale a $z$.)
+> sia verificata per ogni $x, y \in \mathbb{R}$. (Qui $\lfloor z \rfloor$ denota il più grande intero minore o uguale a $z$.)
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2010#q01|src_imho_2010__Q01]]
 
 
 
@@ -60,11 +67,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Incentro, circonferenza circoscritta, condizione sull'angolo, allineamento del punto medio*
+*Incentro, circonferenza circoscritta, condizione sugli angoli, collinearità dei punti medi*
 
-> Sia $I$ l'incentro del triangolo $ABC$ e sia $\Gamma$ la sua circonferenza circoscritta. Sia la retta $AI$ che interseca nuovamente $\Gamma$ nel punto $D$. Sia $E$ un punto sull'arco $\widehat{BDC}$ e sia $F$ un punto sul lato $BC$ tali che
+> Sia $I$ l'incentro del triangolo $ABC$ e sia $\Gamma$ la sua circonferenza circoscritta. Sia $AI$ la retta che interseca nuovamente $\Gamma$ in $D$. Sia $E$ un punto sull'arco $\widehat{BDC}$ e sia $F$ un punto sul lato $BC$ tale che
 > $$\angle BAF = \angle CAE < \tfrac{1}{2}\angle BAC.$$
-> Infine, sia $G$ il punto medio del segmento $IF$. Si dimostri che le rette $DG$ e $EI$ si intersecano su $\Gamma$.
+> Infine, sia $G$ il punto medio del segmento $IF$. Dimostrare che le rette $DG$ e $EI$ si intersecano su $\Gamma$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2010#q02|src_imho_2010__Q02]]
 
 
 
@@ -89,11 +103,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le funzioni g: N→N tali che (g(m)+n)(m+g(n)) sia sempre un quadrato perfetto*
+*Trovare tutte le funzioni g: N→N tali che (g(m)+n)(m+g(n)) sia sempre un quadrato perfetto*
 
 > Sia $\mathbb{N}$ l'insieme degli interi positivi. Determinare tutte le funzioni $g\colon \mathbb{N} \to \mathbb{N}$ tali che
 > $$(g(m) + n)(m + g(n))$$
 > sia un quadrato perfetto per ogni $m, n \in \mathbb{N}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2010#q03|src_imho_2010__Q03]]
 
 
 
@@ -116,9 +137,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto interno al triangolo, circonferenza circoscritta tangente, condizione SC=SP*
+*Punto all'interno del triangolo, circonferenza circoscrita tangente, condizione SC=SP*
 
-> Sia $P$ un punto interno al triangolo $ABC$. Le rette $AP$, $BP$ e $CP$ intersecano nuovamente la circonferenza circoscritta $\Gamma$ del triangolo $ABC$ nei punti $K$, $L$ e $M$ rispettivamente. La tangente a $\Gamma$ nel punto $C$ interseca la retta $AB$ nel punto $S$. Si supponga che $SC = SP$. Si dimostri che $MK = ML$.
+> Sia $P$ un punto all'interno del triangolo $ABC$. Le rette $AP$, $BP$ e $CP$ intersecano nuovamente la circonferenza circoscritta $\Gamma$ del triangolo $ABC$ nei punti $K$, $L$ e $M$ rispettivamente. La tangente a $\Gamma$ in $C$ interseca la retta $AB$ in $S$. Si supponga che $SC = SP$. Dimostrare che $MK = ML$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2010#q04|src_imho_2010__Q04]]
 
 
 
@@ -147,15 +175,22 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Operazioni con monete su sei scatole, finitezza della successione che raggiunge 2010^(2010^2010)*
+*Operazioni con le monete su sei scatole, finitezza della sequenza che raggiunge 2010^(2010^2010)*
 
-> In ciascuno dei sei cassetti $B_1, B_2, B_3, B_4, B_5, B_6$ vi è inizialmente una moneta. Sono consentite due tipologie di operazione:
-> 
-> \textit{Tipo 1}: Scegliere una scatola non vuota $B_j$ con $1 \le j \le 5$. Rimuovere una moneta da $B_j$ e aggiungere due monete a $B_{j+1}$.
-> 
-> \textit{Tipo 2}: Scegliere una scatola non vuota $B_k$ con $1 \le k \le 4$. Rimuovere una moneta da $B_k$ e scambiare i contenuti delle scatole (eventualmente vuote) $B_{k+1}$ e $B_{k+2}$.
-> 
-> Si determini se esiste una successione finita di tali operazioni che porti alla situazione in cui la scatola $B_1, B_2, B_3, B_4, B_5$ è vuota e la scatola $B_6$ contiene esattamente $2010^{2010^{2010}}$ monete. (Si osservi che $a^{b^c} = a^{(b^c)}$.)
+> In ciascuna delle sei scatole $B_1, B_2, B_3, B_4, B_5, B_6$ c'è inizialmente una moneta. Sono ammessi due tipi di operazione:
+>
+> \textit{Tipo 1}: Scegliere una scatola non vuota $B_j$ con $1 \le j \le 5$. Togliere una moneta da $B_j$ e aggiungere due monete a $B_{j+1}$.
+>
+> \textit{Tipo 2}: Scegliere una scatola non vuota $B_k$ con $1 \le k \le 4$. Togliere una moneta da $B_k$ e scambiare il contenuto delle scatole (eventualmente vuote) $B_{k+1}$ e $B_{k+2}$.
+>
+> Determinare se esista una sequenza finita di tali operazioni tale che le scatole $B_1, B_2, B_3, B_4, B_5$ siano vuote e la scatola $B_6$ contenga esattamente $2010^{2010^{2010}}$ monete. (Si noti che $a^{b^c} = a^{(b^c)}$.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2010#q05|src_imho_2010__Q05]]
 
 
 
@@ -180,8 +215,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successione con massima ricorrenza, trovare l≤s tale che a_n=a_{n+l} per n grandi*
+*Successione con ricorrenza massima, trovare l≤s tale che a_n=a_{n+l} per n grande*
 
-> Sia $a_1, a_2, a_3, \ldots$ una successione di numeri reali positivi. Supponiamo che per qualche intero positivo $s$, valga
+> Sia $a_1, a_2, a_3, \ldots$ una successione di numeri reali positivi. Supponiamo che, per un certo intero positivo $s$, valga
 > $$a_n = \max\{a_k + a_{n-k} \mid 1 \le k \le n-1\}$$
-> per ogni $n > s$. Si dimostri che esistono interi positivi $\ell$ e $N$, con $\ell \le s$ e tali che $a_n = a_{\ell} + a_{n-\ell}$ per ogni $n \ge N$.
+> per ogni $n > s$. Dimostrare che esistono interi positivi $\ell$ e $N$, con $\ell \le s$ e tali che $a_n = a_{\ell} + a_{n-\ell}$ per ogni $n \ge N$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2010#q06|src_imho_2010__Q06]]

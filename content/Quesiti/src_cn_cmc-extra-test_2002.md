@@ -32,13 +32,18 @@ level: China Mathematical Competition (Extra Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circumcenter, orthocenter, rapporto MH+NH su OH*
+*Centro circoscritto, ortocentro, rapporto tra MH+NH e OH*
 
-> Come mostrato nel diagramma, in $\triangle ABC$, $\angle A = 60^\circ$, $AB > AC$, il punto $O$ è un circumcentro e $H$ è il punto di intersezione di due altitudini $BE$ e $CF$. I punti $M$ e $N$ si trovano rispettivamente nei segmenti di linea $BH$ e $HF$ e soddisfano $BM = CN$. Determinare il valore di $\dfrac{MH + NH}{OH}$.
+> Come mostrato nel diagramma, in $\triangle ABC$, $\angle A = 60^\circ$, $AB > AC$, il punto $O$ è il circocentro e $H$ è il punto di intersezione di due altezze, $BE$ e $CF$. I punti $M$ e $N$ giacciono rispettivamente sui segmenti $BH$ e $HF$, e soddisfano $BM = CN$. Determinare il valore di $\dfrac{MH + NH}{OH}$.
 
 ![[src_cn_cmc-extra-test_2002__q01.png]]
 
-**Risposta:** 1
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-extra-test_2002#q01|src_cn_cmc-extra-test_2002__Q01]]
 
 
 
@@ -66,13 +71,18 @@ level: China Mathematical Competition (Extra Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cubico con tre radici reali, massimizzare l'espressione data*
+*Cubica con tre radici reali: massimizza l'espressione data*
 
-> Ci sono numeri reali $a$, $b$ e $c$ e un numero positivo $\lambda$ tale che $f(x) = x^3 + ax^2 + bx + c$ abbia tre radici reali $x_1$, $x_2$ e $x_3$ soddisfacenti: (1) $x_2 - x_1 = \lambda$; (2) $x_3 > \dfrac{1}{2}(x_1 + x_2)$.
-> 
-> Trova il valore massimo di $\dfrac{2a^3 + 27c - 9ab}{\lambda^3}$.
+> Esistono i numeri reali $a$, $b$ e $c$ e un numero positivo $\lambda$ tali che $f(x) = x^3 + ax^2 + bx + c$ abbia tre radici reali $x_1$, $x_2$ e $x_3$ che soddisfano: (1) $x_2 - x_1 = \lambda$; (2) $x_3 > \dfrac{1}{2}(x_1 + x_2)$.
+>
+> Trovare il valore massimo di $\dfrac{2a^3 + 27c - 9ab}{\lambda^3}$.
 
-**Risposta:** \frac{3}{2}\sqrt{3}
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-extra-test_2002#q02|src_cn_cmc-extra-test_2002__Q02]]
 
 
 
@@ -95,6 +105,13 @@ level: China Mathematical Competition (Extra Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Programmazione della Coppa del Mondo: piani di sostituzione del conteggio*
+*Pianificazione della Coppa del Mondo: conteggio dei piani di sostituzione*
 
-> Prima del torneo della Coppa del Mondo, l'allenatore di calcio del paese $F$ permetterà a sette giocatori $A_1$, $A_2$, $\ldots$, $A_7$ di partecipare a tre lezioni di allenamento (90 minuti ciascuno) per valutarli. Supponiamo che, in qualsiasi momento durante una partita, uno e solo uno di loro entri sul campo; e il tempo totale (misurato in minuti) sul campo per ciascuno di $A_1$, $A_2$, $A_3$ e $A_4$ sia divisibile per 7 e il tempo totale per ciascuno di $A_5$, $A_6$ e $A_7$ sia divisibile per 13. Se non vi è alcuna restrizione sul numero di volte di sostituzione di giocatori durante ogni partita, allora quanti possibili casi ci sono all'interno del tempo totale per ogni giocatore sul campo?
+> Prima del torneo della Coppa del Mondo, l'allenatore di calcio del paese $F$ permetterà a sette giocatori, $A_1$, $A_2$, $\ldots$, $A_7$, di partecipare a tre sessioni di allenamento (di 90 minuti ciascuna) al fine di valutarli. Supponiamo che, in qualsiasi momento durante una partita, uno e un solo di loro entri in campo; inoltre, il tempo totale (misurato in minuti) trascorso in campo da ciascuno di $A_1$, $A_2$, $A_3$ e $A_4$ è divisibile per 7, mentre il tempo totale trascorso in campo da ciascuno di $A_5$, $A_6$ e $A_7$ è divisibile per 13. Se non vi sono restrizioni sul numero di sostituzioni dei giocatori durante ciascuna partita, allora quanti casi possibili esistono nell'ambito del tempo totale trascorso in campo da ogni giocatore?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-extra-test_2002#q03|src_cn_cmc-extra-test_2002__Q03]]

@@ -33,11 +33,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction 2022!/(2022!-2021!-2020!) reduced*
+*The integer part of a real number, written with a floor bracket*
 
-> the whole of a real number x is the largest integer less than or equal to x; it is written x for example π=3, 10=10,  √ 17=4;
+> the integer part of a real number x is the greatest integer less than or equal to x;
+> one writes ⌞x⌟—for example ⌞π⌟= 3, ⌞10⌟= 10, ⌞
+> √
+> 17⌟= 4;
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 **Answer:** 4041
+
+[[Quesiti/src_gsm_2022_squadre#q01|src_gsm_2022_squadre__Q01]]
 
 
 
@@ -62,11 +72,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum odd sequence sum with maximal rule*
+*The factorial of a positive integer, with examples*
 
-> the factor of the integer n is the product of all integers from 1 to n; we write n!for example 1! = 1, 5! = 120, 6! = 720;
+> the factorial of the integer n is the product of all the integers from 1 up to
+> n; one writes n!—for example 1! = 1, 5! = 120, 6! = 720;
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 4365
+
+[[Quesiti/src_gsm_2022_squadre#q02|src_gsm_2022_squadre__Q02]]
 
 
 
@@ -93,13 +111,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report areas of two semicirculars in a square*
+*Definition of a perfect square*
 
-![[src_gsm_2022_squadre__prob3.png]]
+> a perfect square is an integer that is the square of an integer—for
+> example 16 is a perfect square, 22 is not a perfect square;
 
-> A perfect square is an integer that is squared of an integer. 16 is a perfect square, 22 is not a perfect square.
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** 0225
+
+[[Quesiti/src_gsm_2022_squadre#q03|src_gsm_2022_squadre__Q03]]
 
 
 
@@ -387,17 +411,275 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Years of birth with age equal to sum of years*
+*Instructions, a spoof newspaper, and problems 1 to 14, with formulae broken by the extraction*
 
-> a list is a palindrome if, read from right to left, it produces the same listfor example radar is a palindrome; drone is not a palindrome; 2020 is not a palindrome; 2002 is a palindrome. • If the quantity requested is a negative number, or if the problem is unsolved, indicate 0000. • If the quantity required is a number greater than 9999, or if it is not uniquely determined, indicate 9999. • The following approximate values may be useful in calculating: √ 2 = 1,4142 √ 3 = 1,7321 √ 5 = 2,2361 √ 7 = 2,6458 √ 11 = 3,3166 √ 13 = 3,6055 √ 17 = 4,1231 π = 3,1416. Important deadlines • 15 minutes from the start: final deadline for selecting the Jolly problem (after which the first problem in the list will be assigned). • 30 minutes from the beginning: deadline for questions on the text. • 100 minutes from start: end of problem scores increase. • 120 minutes from the start: end of the race. Fake News Today A TRUE newspaper Scientists are all cheaters! Their main tool is mathematics which claims to contradict itself and no one tells us! In reality, nothing is 100% certain. How do theorems become undeniable truths? In their own admissions a 30% probability is possible. And a 99% probability is pretty much certain. By applying their Aristotelian definition of being rational they could prove that a fact that is practically certain to be practically certain is practically certain. But they don't! The same mathematicians would explain with their calculations that such a fact is 98% likely! Just keep repeating and repeating steadily just as mathematicians don't do the previous sentence to discover that a possible fact is practically certain. This paper is based on this finding that those of us who don't get bullied by science knew before mathematicians hid it from us! Good reading!
-> 
-> 11 March 2022 Team competition  Problem texts(1) {1} ONLY CARLO CASSOLO'S FOOTBALL What is the value of 2022! 2022! −2021! −2020!? It's just a matter of doing the math. (See point 2 of the General Instructions for the definition of a factor of a positive integer.) [Give the sum of the numerator and denominator of the fraction reduced to the minimum terms as an answer.] {2} CIFRE of Lorenzo Mazza Consider the finite sequences (an) n=0,...,k of three-digit natural numbers such that an+1 = an + max C(an) where C(an) is the sum of the digits appearing in anan. An example of such a sequence is (143, 147, 154, 159). Of all these sequences, those composed only of odd numbers are considered and, of each of these, the sum of the terms that make up Pk n=0 an is considered. What's the maximum amount you can find? The problem is simple, but you may wonder what the point is. {3} DISCHI by Carlo Càssola In an ABCD square the semicircular of diameter AD and the semicircular which has diameter on the CD side, has one of the ends of the diameter in C and is tangent to the other semicircular have been mapped internally. What is the ratio, multiplied by 100, between the larger semicirconference area and the other? To compare them, you just have to cut the two discs. Next year, on the day of his birthday, Roger's age will become the sum of the figures for the year he was born. What are the years in which Roger may have been born? It's easy to realize that the plural is misleading. [Give as an answer the sum of the eligible years.] {5} CENTRE! In the case of Cecilia Oliveri Siano, two concentric circles are given: one of a radius of 20 cm; the other of a radius of 40 cm. There shall be two lines tangent to the inner circle in points A and B respectively and two lines tangent to each other in point C belonging to the outer circle. The points of intersection of the outer circumference with r and with s shall be E and F respectively. How much is the area of the ABFE quadrilateral? The area can be measured with a ruler without any calculation. (1) In each issue, the author's name appears next to the title.
-> 
-> {6} Following Lorenzo Mazza Let's consider a positive integer at > 1. Let's write the number a twice in a row and get a number b, assuming that a is a number with the digits, in other words it's 10l−1 ≤a < 10l, the number b is a + a10l. What is the smallest value of a such that b = ka2 for a suitable positive integer k? {7} VACCINI di Giuseppe Rosolini It is considered that 1 Italian out of 9 is not vaccinated against Covid-19 and the chances of contracting Covid-19 are 0.1 for a vaccinated person and 0.9 for a non-vaccinated person. What is the probability that a sick Italian has contracted the disease from an unvaccinated person? It is inexplicable that only figures 1 and 9 are involved in this observation; it will necessarily be because it is Covid-19. [Give the first four decimal digits of probability as the answer.] {8} GEMELLS by Silvia Sconza In a campsite all the participants are twins except 40, all the participants are trigemins except 41, and all the participants are quadrigemins except 42. How many people are at least enrolled in camp? Just count them all together. Let's consider the integers from 94 to 188, extremes included. For each of them, take the largest odd divisor. What's the sum of all these divisors? I took two real numbers r and s such that r + s = 1 and r4 + s4 = 7, which number is r5 + 5rs + s5? The problem is written in two rows and two columns. Silvia Sconza's Foot A game between two players involves the use of a regular six-sided dice and an unmade coin. In turn, each of the two players must throw the dice: if an even number comes out, he must throw the dice again; if 1 or 5 comes out, he passes the turn to the opponent; if 3 comes out, he must throw the coin. If the result of the coin toss is a head, he wins, otherwise the turn goes to the opponent. Every time a player starts his turn, he must always start with the dice. What is the probability that the player who plays second wins? This game of dice will never take hold. [Give as an answer the sum of the numerator and denominator of the fraction reduced to the minimum terms.] {12} DIVISION by Silvia Sconza What is the minimum number of consecutive positive integers whose product is always divisible by 2022? The solution is immediate thanks to the divisibility criteria. 2022 team competition  Problem texts  Pag. 2 di 4
-> 
-> Within a cylinder of height h and base radius r, there are two straight pyramids with a coinciding base. The peaks of the two pyramids each touch a different base of the cylinder in its center. The base of the two pyramids is an equilateral triangle whose vertices all touch the lateral surface of the cylinder. Knowing that the product rh = 100 and that r and h take only whole values, what is the difference between the maximum volume and the minimum volume occupied by the two pyramids? {14} CORTO di Lorenzo Mazza In how many ways can the number 2022 be written as the sum of two or more positive integers placed in non-decreasing order and in such a way that the difference between the last and the first term is plus 1?
+> a list is palindromic if, read from right to left, it yields the same list—for
+> example radar is a palindrome; drone is not a palindrome; 2020 is not a palindrome;
+> 2002 is a palindrome.
+> • If the quantity asked for is a negative number, or if the problem has no solution,
+> enter 0000.
+> • If the quantity asked for is a number greater than 9999, or if it is not uniquely
+> determined, enter 9999.
+> • In working the calculations it may help to use the following approximate values:
+> √
+> 2 = 1,4142
+> √
+> 3 = 1,7321
+> √
+> 5 = 2,2361
+> √
+> 7 = 2,6458
+> √
+> 11 = 3,3166
+> √
+> 13 = 3,6055
+> √
+> 17 = 4,1231
+> π = 3,1416.
+> Important deadlines
+> • 15 minutes from the start: last moment to choose the jolly problem (after that the first problem on the list will be assigned automatically).
+> • 30 minutes from the start: last moment to ask questions about the text.
+> • 100 minutes from the start: the scores of the problems stop increasing.
+> • 120 minutes from the start: the contest ends.
+> Fake News Today
+> A TRUE newspaper
+> Scientists are all frauds! Their chief tool is mathematics, which declares itself contradictory, and nobody tells us! In reality nothing is 100% certain. How can theorems be irrefutable truths? By their own admission a fact with probability 30% is possible. And a fact with probability
+> 99% is practically certain. Applying their Aristotelian definition of being rational they could prove
+> that a fact which is practically certain to be practically certain is practically certain.
+> But they don't! The
+> mathematicians themselves would explain, with their calculations, that such a fact has probability 98%! One need only repeat and repeat, stolidly—just as the mathematicians do not—the previous sentence to discover that a possible fact
+> is practically certain. This newspaper rests on that observation—which those of us who do not
+> let science bully us knew before the mathematicians hid it from us! ENJOY YOUR READING!
+>
+> 11 March 2022
+> Team competition – Problem texts(1)
+> {1}
+> ONLY CALCULATIONS
+> by Carlo Càssola
+> What is the value of
+> 2022!
+> 2022! −2021! −2020!?
+> There is nothing for it but to do the calculations.
+> (See point 2 of the
+> General instructions for the
+> definition of the factorial of a
+> positive integer.)
+> [Give as the answer the sum of the numerator and the denominator of the fraction in lowest
+> terms.]
+> {2}
+> DIGITS
+> by Lorenzo Mazza
+> Consider the finite sequences
+> (an)n=0,...,k of three-digit
+> natural numbers such that
+> an+1 = an + max C(an)
+> where C(an) is the set of
+> digits that appear in
+> an—an example of such a
+> sequence is
+> (143, 147, 154, 159).
+> Among all these sequences consider
+> those made up
+> only of odd numbers and,
+> of each of these, consider
+> the sum of the
+> terms that make it up
+> Pk
+> n=0 an. What is the greatest
+> sum that occurs?
+> The problem is easy, but one may
+> ask what the point is
+> of doing it.
+> {3}
+> DISCS
+> by Carlo Càssola
+> In a square ABCD there have
+> been drawn, internally,
+> the semicircle of
+> diameter AD and the
+> semicircle that has
+> its diameter on the side CD,
+> has one endpoint of the
+> diameter at C and is tangent
+> to the other semicircle.
+> What is the ratio,
+> multiplied by 100, of
+> the area of the larger
+> semicircle to the other?
+> To compare them one need only
+> cut out the two discs.
+> {4}
+> RUGGERO'S AGE
+> by Carlo Càssola
+> Next year, on the day
+> of his birthday, Ruggero's age
+> will become the sum
+> of the digits of the year in which he was
+> born. In which years
+> can Ruggero have been born?
+> It is easy to see that the
+> plural is misleading.
+> [Give as the answer the sum of the admissible years.]
+> {5}
+> CENTRE!
+> by Cecilia Oliveri
+> Two concentric circles
+> are given: one of radius
+> 20 cm; the other of radius
+> 40 cm. Let r and s be two lines
+> tangent to the inner circle
+> at the points A and B respectively and meeting
+> at the point C
+> on the
+> outer circle. Let
+> E and F be the points of
+> intersection of the
+> outer circle
+> with r and with
+> s respectively. What is the area of the
+> quadrilateral ABFE?
+> One can measure the area with a
+> ruler without doing calculations.
+> (1) In every problem, beside the title, the author's name appears.
+>
+> {6}
+> IN A ROW
+> by Lorenzo Mazza
+> Consider a positive integer
+> a > 1. Write
+> the number a twice in a row,
+> obtaining a
+> number b—that is, supposing
+> that a is a number with ℓ
+> digits, in other words
+> 10ℓ−1 ≤a < 10ℓ, the number b
+> is a + a10ℓ. What is the
+> smallest value of a such that
+> b = ka2 for a suitable positive integer k?
+> {7}
+> VACCINES
+> by Giuseppe Rosolini
+> Suppose that 1 Italian in
+> 9 is not vaccinated against
+> Covid-19 and the probabilities of
+> catching Covid-19 are
+> 0,1 for a vaccinated person and 0,9
+> for an unvaccinated person. What is
+> the probability that an Italian
+> who is ill caught the
+> disease while unvaccinated?
+> It is inexplicable that only the digits
+> 1 and 9 are involved in
+> this observation; it must be
+> because it is Covid-19.
+> [Give as the answer the first four decimal digits of the probability.]
+> {8}
+> TWINS
+> by Silvia Sconza
+> At a campsite every
+> person enrolled is a twin except
+> 40, every person enrolled is
+> a triplet except 41, and every
+> person enrolled is a quadruplet
+> except 42. How many,
+> at least, are enrolled at the
+> campsite?
+> One need only count them all together.
+> {9}
+> DIVISORS
+> by Lorenzo Mazza
+> Consider the integers
+> from 94 to 188, endpoints included.
+> For each of them, take
+> the greatest odd divisor.
+> What is the sum of
+> all these divisors?
+> {10}
+> FIFTH POWERS
+> by Carlo Càssola
+> Take two real numbers r and s
+> such that r + s = 1 and
+> r4 + s4 = 7. What number is
+> r5 + 5rs + s5?
+> The problem is written on two
+> lines and two columns.
+> {11}
+> FOOTING
+> by Silvia Sconza
+> A game between two players
+> uses a fair six-faced die and a
+> fair coin. In
+> turn each of the two
+> players must roll the
+> die: if an even number comes up, they must roll the die
+> again; if 1 or 5 comes up
+> they pass the turn to the opponent;
+> if 3 comes up they must toss the
+> coin. If the coin
+> lands heads, they win,
+> otherwise they pass the turn
+> to the opponent.
+> Each time a player
+> begins their turn
+> they must always start with
+> a roll of the die.
+> What is the probability that the
+> player who goes
+> second wins?
+> This dice game will
+> never catch on.
+> [Give as the answer the sum of the numerator and the denominator of the fraction in lowest
+> terms.]
+> {12}
+> DIVISION
+> by Silvia Sconza
+> What is the least number of
+> consecutive positive integers
+> whose product is always
+> divisible by 2022?
+> The solution is immediate
+> thanks to the divisibility rules.
+> Team competition 2022 – Problem texts – Page 2 of 4
+>
+> {13}
+> PYRAMIDS
+> by Cecilia Oliveri
+> Inside a cylinder of
+> height h and base radius r,
+> there are two right pyramids
+> with the same base. The
+> vertices of the two pyramids
+> each touch a different
+> base of the cylinder at its
+> centre. The base of the two
+> pyramids is an equilateral
+> triangle whose vertices
+> all touch the lateral surface of the cylinder. Given
+> that the product rh = 100 and
+> that r and h take only
+> integer values, what is the
+> difference between the greatest
+> volume and the least volume
+> occupied by the two pyramids?
+> {14}
+> SHORT
+> by Lorenzo Mazza
+> In how many ways can the number
+> 2022 be written as a
+> sum of two or more positive integers
+> placed in non-decreasing order and in such a way
+> that the difference between the last
+> and the first term is at most
+> 1?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 4012
+
+[[Quesiti/src_gsm_2022_squadre#q04|src_gsm_2022_squadre__Q04]]
 
 
 
@@ -422,13 +704,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quadrilateral area between two concentric and tangent circumferences*
+*Area of the quadrilateral cut by two tangents to the inner of two concentric circles*
 
-![[src_gsm_2022_squadre__prob5.png]]
+> Two concentric circles are given: one of radius $20$ cm; the other of radius $40$ cm. Let $r$ and $s$ be two lines tangent to the inner circle at the points $A$ and $B$ respectively, and meeting at the point $C$ on the outer circle. Let $E$ and $F$ be the points where the outer circle meets $r$ and $s$ respectively. What is the area of the quadrilateral $ABFE$?
 
-> Two concentric circles shall be given: one radius $20$ cm; the other radius $40$ cm. Two lines tangent to the inner circle at $r$ and $s$ respectively in the $A$ and $B$ points and incidents between them at the $C$ point belonging to the outer circle. The points of intersection of the outer circumference with $E$ and $F$ shall be said with $r$ and $s$ respectively. What is the area of the $ABFE$ quadrilateral?
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** 1558
+
+[[Quesiti/src_gsm_2022_squadre#q05|src_gsm_2022_squadre__Q05]]
 
 
 
@@ -452,11 +738,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum a with a number doubled to k times a^2*
+*Least a > 1 whose digit-repeat equals k times a squared*
 
-> Consider a positive integer $a > 1$. Let's write the number $a$ twice in a row and get a number $b$that is, assuming that $a$ is a number with $\ell$ digits, in other words it's $10^{\ell-1} \le a < 10^\ell$, the number $b$ is $a + a \cdot 10^\ell$. What is the smallest value of $a$ such that $b = k a^2$ for a suitable $k$ positive integer?
+> Consider a positive integer $a > 1$. Write the number $a$ twice in a row, obtaining a number $b$—that is, supposing that $a$ has $\ell$ digits, in other words $10^{\ell-1} \le a < 10^\ell$, the number $b$ is $a + a \cdot 10^\ell$. What is the least value of $a$ such that $b = k a^2$ for a suitable positive integer $k$?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 0143
+
+[[Quesiti/src_gsm_2022_squadre#q06|src_gsm_2022_squadre__Q06]]
 
 
 
@@ -481,13 +774,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Conditioned likelihood of unvaccinated patient*
+*Probability that an ill Italian caught Covid-19 while unvaccinated*
 
-> It is considered that $1$ Italian on $9$ is not vaccinated for Covid-19 and the chances of contracting Covid-19 are $0{,}1$ for a vaccinated person and $0{,}9$ for a non-vaccinated person. What is the probability that a sick Italian has contracted the disease from an unvaccinated person?
-> 
-> [Give me the first four decimal places of probability.]
+> Suppose that $1$ Italian in $9$ is not vaccinated against Covid-19, and that the probabilities of catching Covid-19 are $0{,}1$ for a vaccinated person and $0{,}9$ for an unvaccinated person. What is the probability that an Italian who is ill caught the disease while unvaccinated?
+>
+> [Give as the answer the first four decimal digits of the probability.]
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 5294
+
+[[Quesiti/src_gsm_2022_squadre#q07|src_gsm_2022_squadre__Q07]]
 
 
 
@@ -511,11 +810,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum number of registered campers twins/trigemini/quadrigemini
+*Least number enrolled at a campsite of twins, triplets and quadruplets*
 
-> In a campsite all members are twins except $40$, all members are trigemins except $41$, and all members are quadrigemins except $42$. How many people are at least enrolled in camp?
+> At a campsite everyone enrolled is a twin except $40$, everyone enrolled is a triplet except $41$, and everyone enrolled is a quadruplet except $42$. What is the least possible number of people enrolled at the campsite?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 0050
+
+[[Quesiti/src_gsm_2022_squadre#q08|src_gsm_2022_squadre__Q08]]
 
 
 
@@ -538,11 +844,17 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of the maximal odd divisors from 94 to 188*
+*A solution fragment for a conditional probability, then the start of a count of people enrolled*
 
-> 9 . The probability of an Italian being unvaccinated and getting sick is p(u) = 19· y. So the probability required is that p(u) = p(u) p(a) = 1 8 x y + 1 = 1 8 9 + 1 = 9 17≈ 0.5294. The answer is 5294. 2 Solution to Problem 8. The number of single subscribers is shown with s.
+> 9 . The probability that an Italian is unvaccinated and falls ill is p(u) = 1 9· y. Hence the required probability is p(u|a) = p(u) p(a) = 1 8 x y + 1 = 1 8 9 + 1 = 9 17≈ 0,5294. The answer is5294. 2 Solution of problem 8. Let s be the number of people enrolled who are single, with
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 8883
+
+[[Quesiti/src_gsm_2022_squadre#q09|src_gsm_2022_squadre__Q09]]
 
 
 
@@ -566,11 +878,18 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of r^5+5rs+s^5 data r+s and r^4+s^4*
+*Value of r^5 + 5rs + s^5 given r + s and r^4 + s^4*
 
-> If two real numbers $r$ and $s$ are taken, such as $r + s = 1$ and $r^4 + s^4 = 7$, which number is $r^5 + 5rs + s^5$?
+> Take two real numbers $r$ and $s$ such that $r + s = 1$ and $r^4 + s^4 = 7$. What number is $r^5 + 5rs + s^5$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 **Answer:** 0006
+
+[[Quesiti/src_gsm_2022_squadre#q10|src_gsm_2022_squadre__Q10]]
 
 
 
@@ -600,17 +919,24 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of the second player winning with dice and coin*
+*Probability that the second player wins a game with a die and a coin*
 
-> A two-player game involves the use of a regular six-sided dice and an unmade coin. In turn, each of the two players must roll the dice: if an even number is drawn, he must roll the dice again; if $1$ is drawn or $5$ is drawn, he passes the dice to the opponent; if $3$ is drawn, he must roll the coin. If the result of the coin toss is head, he wins, otherwise he passes the turn to the opponent.
-> 
-> Every time a player starts his turn, he must always start with the dice.
-> 
-> What is the probability that the player who plays second wins?
-> 
-> [Give the sum of the numerator and denominator of the reduced fraction to the minimum terms as a response.]
+> A game between two players uses a fair six-faced die and a fair coin. In turn, each player must roll the die: if an even number comes up, they must roll the die again; if $1$ or $5$ comes up, they pass the turn to the opponent; if $3$ comes up, they must toss the coin. If the coin lands heads, they win; otherwise they pass the turn to the opponent.
+>
+> Each time a player begins their turn, they must always start by rolling the die.
+>
+> What is the probability that the player who goes second wins?
+>
+> [Give as the answer the sum of the numerator and the denominator of the fraction in lowest terms.]
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 0016
+
+[[Quesiti/src_gsm_2022_squadre#q11|src_gsm_2022_squadre__Q11]]
 
 
 
@@ -633,11 +959,17 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of sequences with product divisible by 2022*
+*Least number of consecutive positive integers whose product is always divisible by 2022*
 
-> What is the minimum number of consecutive positive integers whose product is always divisible by $2022$?
+> What is the least number of consecutive positive integers whose product is always divisible by $2022$?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 0337
+
+[[Quesiti/src_gsm_2022_squadre#q12|src_gsm_2022_squadre__Q12]]
 
 
 
@@ -660,11 +992,17 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different volumes of two pyramids in a cylinder*
+*Difference between the greatest and least volumes of two pyramids in a cylinder*
 
-> Within a cylinder of height $h$ and base radius $r$, there are two straight pyramids with a coinciding base. The peaks of the two pyramids each touch a different base of the cylinder in its center. The base of the two pyramids is an equilateral triangle whose vertices all touch the lateral surface of the cylinder. Knowing that the product $rh = 100$ and that $r$ and $h$ take only whole values, what is the difference between the maximum volume and the minimum volume occupied by the two pyramids?
+> Inside a cylinder of height $h$ and base radius $r$ stand two right pyramids with the same base. The apex of each pyramid touches a different base of the cylinder at its centre. The common base of the two pyramids is an equilateral triangle whose vertices all touch the lateral surface of the cylinder. Given that the product $rh = 100$ and that $r$ and $h$ take only integer values, what is the difference between the greatest volume and the least volume occupied by the two pyramids?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** 4286
+
+[[Quesiti/src_gsm_2022_squadre#q13|src_gsm_2022_squadre__Q13]]
 
 
 
@@ -688,11 +1026,18 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of writing 2022 as sum with difference at most 1*
+*Ways to write 2022 as a non-decreasing sum whose first and last terms differ by at most 1*
 
-> In how many ways can the number $2022$ be written as the sum of two or more positive integers in non-decreasing order and so that the difference between the last and the first term is at most $1$?
+> In how many ways can the number $2022$ be written as a sum of two or more positive integers in non-decreasing order, so that the difference between the last term and the first is at most $1$?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 2021
+
+[[Quesiti/src_gsm_2022_squadre#q14|src_gsm_2022_squadre__Q14]]
 
 
 
@@ -718,13 +1063,18 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum trajectory of an ant on a parallel piped*
+*Shortest path of an ant on a square-based box*
 
-![[src_gsm_2022_squadre__prob15.png]]
+> On a square-based parallelepiped of edge $5$ cm and height $10$ cm, an ant starts from a vertex $A$ of the square base and first goes to the vertex $B$ diametrically opposite on the other base. It then goes to the centre of that base and from there returns to $A$. What is the least length, in mm, of such a path?
 
-> On a parallel piped square base of $5$ cm and high $10$ cm, an ant starts from a vertex $A$ of the square base and initially reaches the vertex $B$ diametrically opposite the other base. Then it goes to the center of that base and from there it goes back to$A$. What is the minimum length in mm of such a route?
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** 0304
+
+[[Quesiti/src_gsm_2022_squadre#q15|src_gsm_2022_squadre__Q15]]
 
 
 
@@ -751,11 +1101,22 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum of 1/(32a^5) +a^5 given 1/(4a^2) +a^2*
+*Greatest value of 1/(32a^5)+a^5 given 1/(4a^2)+a^2*
 
-> Knowing that $$\frac{1}{4a^2} + a^2 = 8,$$ what is the maximum value of $$\frac{1}{32a^5} + a^5$$?
+> Given that
+> $$\frac{1}{4a^2} + a^2 = 8,$$
+> what is the greatest value of
+> $$\frac{1}{32a^5} + a^5$$
+> ?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 **Answer:** 0179
+
+[[Quesiti/src_gsm_2022_squadre#q16|src_gsm_2022_squadre__Q16]]
 
 
 
@@ -781,13 +1142,18 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the square on AK in a building in the square*
+*Area of the square on AK in a construction inside a square*
 
-![[src_gsm_2022_squadre__prob17.png]]
+> In a square $ABCD$ of side $2$ cm, draw the incircle. Let $M$ be the midpoint of the side $BC$. The segment $MD$ meets the circle again at a point $K$, besides the point $M$. What is the area of the square built on $AK$, in $\text{mm}^2$?
 
-> In a square $ABCD$ side $2$ cm, the inscribed circumference is plotted. Whether $M$ the middle point of the $BC$ side. The $MD$ segment intersects the circumference at an additional point $K$ beyond the point $M$. What is the area of the square constructed on $AK$ in $\text{mm}^2$?
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** 0340
+
+[[Quesiti/src_gsm_2022_squadre#q17|src_gsm_2022_squadre__Q17]]
 
 
 
@@ -811,11 +1177,18 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most difference in money around a round table*
+*Greatest difference in money around a round table*
 
-> Around a round table there are $2022$ people. By talking to each other, they discover that the absolute value of the difference in money in the wallets of two people sitting next to each other is always $4\text{€}$ or $5\text{€}$. They also note that no couple of people have the same amount of money. What's the biggest difference between two people's money?
+> Around a round table sit $2022$ people. Chatting, they discover that the absolute value of the difference in the money in the wallets of two people sitting next to each other is always $4\text{€}$ or $5\text{€}$. They also notice that no two people have the same amount of money. What is the greatest difference in money held by two people?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]], [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 5054
+
+[[Quesiti/src_gsm_2022_squadre#q18|src_gsm_2022_squadre__Q18]]
 
 
 
@@ -847,17 +1220,26 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of primitive Pythagorean terns with perfect square area*
+*How many primitive Pythagorean triples have square area*
 
-> A Pythagorean Number is a triple $(a, b, c)$ of positive integers that has the following conditions: - $a^2 + b^2 = c^2$ - $a < b$
-> 
-> A Pythagorean number is called **primitive** if there is no Pythagorean number $(d, e, f)$ and an integer $k > 1$ such as $a = kd$, $b = ke$, $c = kf$.
-> 
-> It is easily shown that there are infinite primitive Pythagorean terns, but it is shown that there are finite numbers of primitive Pythagorean terns $(a, b, c)$ such that the area of the triangle determined by the tern is a perfect square.
-> 
-> How many of those Pythagorean terns are there?
+> A Pythagorean triple is a triple $(a, b, c)$ of positive integers satisfying the following conditions:
+> - $a^2 + b^2 = c^2$
+> - $a < b$
+>
+> A Pythagorean triple is called **primitive** if there do not exist a Pythagorean triple $(d, e, f)$ and an integer $k > 1$ such that $a = kd$, $b = ke$, $c = kf$.
+>
+> It is easily proved that there are infinitely many primitive Pythagorean triples, but it is proved that there are only finitely many primitive Pythagorean triples $(a, b, c)$ such that the area of the triangle determined by the triple is a perfect square.
+>
+> How many such Pythagorean triples are there?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 0000
+
+[[Quesiti/src_gsm_2022_squadre#q19|src_gsm_2022_squadre__Q19]]
 
 
 
@@ -883,13 +1265,18 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Enhance the angle PND given DKH in a square*
+*Measure of angle PND given angle DKH in a square*
 
-![[src_gsm_2022_squadre__prob20.png]]
+> Let $M$ and $N$ be the midpoints of the sides $AB$ and $CD$ respectively of a square $ABCD$. Consider the point $P$ on the extension of $BD$ beyond $D$; let $H$ be the intersection of $PM$ with $AD$ and $K$ the intersection of $HN$ with $BD$. The measure of the angle $\widehat{DKH}$ is $81°$. What is the measure of the angle $\widehat{PND}$?
 
-> The mean points of the sides $AB$ and $CD$ of a square $ABCD$ shall be $M$ and $N$ respectively. Consider the $P$ point, which belongs to the $BD$ extension of the part of $D$; both $H$ the intersection of $PM$ with $AD$ and $K$ the intersection of $HN$ with $BD$. The width of the angle $\widehat{DKH}$ is $81°$. What is the width of the angle $\widehat{PND}$?
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** 0036
+
+[[Quesiti/src_gsm_2022_squadre#q20|src_gsm_2022_squadre__Q20]]
 
 
 
@@ -917,12 +1304,19 @@ Minimum number of registered campers twins/trigemini/quadrigemini
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (m,n) with perfect square number of injections*
+*Pairs (m, n) for which the number of injections is a perfect square*
 
-> Given sets $A$ and $B$, a **injection** from $A$ to $B$ is a $f: A \to B$ function such that for each $a, a' \in A$, if $f(a) = f(a')$, then $a = a'$.
-> 
-> For example, the $d: \mathbb{Z} \to \mathbb{Z}$ function that sends a number in its double is an injection from $\mathbb{Z}$ to $\mathbb{Z}$; the $q: \mathbb{Z} \to \mathbb{N}$ function that sends a number in its square is not an injection from $\mathbb{Z}$ to $\mathbb{N}$.
-> 
-> How many pairs of numbers $(m, n)$ with $m$ and $n$ between $1$ and $30$ (extremes included) are such that the number of injections from the set $\{1, 2, \ldots, n\}$ to the set $\{1, 2, \ldots, m\}$ is a perfect square?
+> Given sets $A$ and $B$, an **injection** from $A$ to $B$ is a function $f: A \to B$ such that for every $a, a' \in A$, if $f(a) = f(a')$, then $a = a'$.
+>
+> For example, the function $d: \mathbb{Z} \to \mathbb{Z}$ that sends a number to its double is an injection from $\mathbb{Z}$ to $\mathbb{Z}$; the function $q: \mathbb{Z} \to \mathbb{N}$ that sends a number to its square is not an injection from $\mathbb{Z}$ to $\mathbb{N}$.
+>
+> How many pairs of numbers $(m, n)$, with $m$ and $n$ between $1$ and $30$ inclusive, are such that the number of injections from the set $\{1, 2, \ldots, n\}$ to the set $\{1, 2, \ldots, m\}$ is a perfect square?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]], [[topic_insiemi_funzioni|Sets and functions]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 0440
+
+[[Quesiti/src_gsm_2022_squadre#q21|src_gsm_2022_squadre__Q21]]

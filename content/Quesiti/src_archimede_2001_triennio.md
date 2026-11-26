@@ -34,15 +34,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer numbers have mean 6 and sum 18*
+*Number of integers with mean 6 and sum 18*
 
-> The whole numbers have a mean of 6 and a sum of 18. How many integers are there?
+> Some integers have mean 6 and sum 18. How many integers are there?
 >
 > - **(A)** 3
 > - **(B)** 6
 > - **(C)** 12
 > - **(D)** 108
-> - **(E)** It's impossible to determine.
+> - **(E)** it cannot be determined.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2001_triennio#q01|src_archimede_2001_triennio__Q01]]
 
 
 
@@ -73,15 +78,22 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of reduced fractions a/b in a given range*
+*Number of reduced fractions a/b in a given interval*
 
-> If a and b are two integers with 1 ≤b ≤3 then the number of fractions (reduced to minimum terms) of form a b such that 1 ≤a b ≤2 is
+> If a and b are two integers with 1 ≤b ≤3 then the number of fractions (reduced to lowest terms) of the form a
+> b such that 1 ≤a
+> b ≤2 is
 >
 > - **(A)** 4
 > - **(B)** 5
 > - **(C)** 6
 > - **(D)** 8
-> - **(E)** It's going to be endless.
+> - **(E)** infinite.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_triennio#q02|src_archimede_2001_triennio__Q02]]
 
 
 
@@ -111,15 +123,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True claim on pupils with visual impairments*
+*True statement about pupils with eyesight problems*
 
-> In one school, 40 percent of pupils are visually impaired, of which 70 percent only wear glasses and 30 percent only use contact lenses. Knowing that there are 42 pairs of glasses in total, which of these statements is true?
+> In a school, 40% of the pupils have eyesight problems; of these, 70% use only glasses and 30% use only contact lenses. Given that there are 42 pairs of glasses in all, which of these statements is true?
 >
-> - **(A)** 90 students with visual impairments
-> - **(B)** 60 pupils see well
-> - **(C)** The school has 200 students.
-> - **(D)** 20 students have contact lenses
-> - **(E)** None of the previous ones.
+> - **(A)** 90 pupils have eyesight problems
+> - **(B)** 60 pupils can see well
+> - **(C)** the school has 200 pupils
+> - **(D)** 20 pupils have contact lenses
+> - **(E)** none of the above.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2001_triennio#q03|src_archimede_2001_triennio__Q03]]
 
 
 
@@ -149,15 +166,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alpha values for a single system solution*
+*Values of alpha for a unique solution of the system*
 
-> For which real values of α is there a single pair of real numbers (x, y) that is a solution of the next system?
+> For which real values of α does there exist exactly one pair of real numbers (x, y) that is a solution of the system alongside?
 >
 > - **(A)** α = 0
 > - **(B)** α = 3
 > - **(C)** α > 0
 > - **(D)** α = √ 3
 > - **(E)** α ̸= 0. ( x2 + y2 = α x = 3y
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Analytic geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2001_triennio#q06|src_archimede_2001_triennio__Q06]]
 
 
 
@@ -189,15 +212,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Scholarship amount for the children given the constraints*
+*Boys' scholarship amount given the constraints*
 
-> Nineteen students are required to receive a total of EUR 20 000 in scholarships. The amount of each purse is expressed as an integer in Euros. All the boys will get the same amount and so will the girls. But each girl will get 600 euros more than the boys. How much do the kids get?
+> Nineteen students are to receive scholarships for a total of 20 000 euros. The amount of each scholarship is an integer number of euros. All the boys will receive the same amount, and so will the girls. But each girl will receive 600 euros more than the boys. How much does each boy receive?
 >
 > - **(A)** 600
 > - **(B)** 800
 > - **(C)** 1400
 > - **(D)** 1600
-> - **(E)** Only the girls get a purse.
+> - **(E)** only the girls receive a scholarship.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2001_triennio#q07|src_archimede_2001_triennio__Q07]]
 
 
 
@@ -228,15 +256,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Probability of partial sums of launches not divisible by 7
+*Probability of partial sums of throws not divisible by 7*
 
-> A perfectly balanced dice is thrown three times. What is the probability that n is the score of the first pitch, n is the sum of the scores of the first and second pitches, n is the sum of the scores of the first three pitches divisible by 7?
+> A perfectly balanced die is thrown 3 times. What is the probability that n is the score of the first throw, n is the sum of the scores of the first and second throws, and n is the sum of the scores of the first three throws is divisible by 7?
 >
 > - **(A)** 1 3
 > - **(B)** 1 2
 > - **(C)** 25 36
 > - **(D)** 3 4
 > - **(E)** 5 6.
+
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_triennio#q08|src_archimede_2001_triennio__Q08]]
 
 
 
@@ -270,15 +304,22 @@ Probability of partial sums of launches not divisible by 7
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance traveled with reflections on two rivers*
+*Shortest path with reflections on two rivers*
 
-> In the Far West, two straight rivers run parallel at a distance of 10 km. The sorcerer of an Indian village, who is in his hut, must collect a water bottle from each of the two rivers and bring the bottles to the village for the prayer ceremony in Manitu. What is the minimum distance of the route he must complete, knowing that the hut and the village are equidistant from the two rivers and 48 km apart?
+> In the Far West, two straight rivers flow parallel to each other at a distance of 10 km.
+> The witch doctor of an Indian village, who is in his hut, must collect a vial of water from each of the two rivers and bring the vials to the village for the prayer ceremony to Manitù. What is the shortest distance of the path he must take, knowing that the hut and the village are equidistant from the two rivers and are 48 km apart?
 >
 > - **(A)** 48
 > - **(B)** 52
 > - **(C)** 53
 > - **(D)** 58
 > - **(E)** √ 482 + 102.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_triennio#q09|src_archimede_2001_triennio__Q09]]
 
 
 
@@ -319,15 +360,26 @@ Probability of partial sums of launches not divisible by 7
 <div class="qlang-split" data-lang="en"></div>
 
 
-Guilty and complicit in the theft
+*Culprit and accomplice from the theft statements*
 
-> For the robbery at Ricchis' house, the suspects narrowed to 4 people: Aldo, brown and without glasses, Baldo, brown and with glasses, Charles, blonde and with glasses, and Darius, blonde and without glasses. Police have determined that the theft was committed by one person, who used only one accomplice. The suspects were limited to four people, and their testimonies are as follows. Aldo: The culprit is brown and wears glasses. Baldo: The culprit is blonde and doesn't wear glasses. Charles: The culprit wears glasses and his accomplice is Aldo. Dario: The culprit is brown and his accomplice is Charles. It is known that the two allegations of the offender are false, while only one of the accomplice's allegations is false. The others told the truth. Who's the culprit and his accomplice?
+> For the theft at the de Ricchis house, the suspects have been narrowed down to 4 people: Aldo, brown-haired and without glasses, Baldo, brown-haired and with glasses, Carlo, blond and with glasses, and Dario, blond and without glasses. The police have established that the theft was committed by a single person, who used a single accomplice. The suspects have been narrowed down to 4 people; their statements are as follows.
+> Aldo: "The culprit is brown-haired and wears glasses".
+> Baldo: "The culprit is blond and does not wear glasses".
+> Carlo: "The culprit wears glasses and his accomplice is Aldo".
+> Dario: "The culprit is brown-haired and his accomplice is Carlo".
+> It is known that both of the culprit's claims are false, while only one of the accomplice's claims is false. The others told the truth. Who are the culprit and his accomplice?
 >
-> - **(A)** Aldo and Charles
-> - **(B)** Bald and Charles
-> - **(C)** Bald and Darius
-> - **(D)** Aldo and Darius
-> - **(E)** There's no way to deduce that.
+> - **(A)** Aldo and Carlo
+> - **(B)** Baldo and Carlo
+> - **(C)** Baldo and Dario
+> - **(D)** Aldo and Dario
+> - **(E)** it cannot be deduced.
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2001_triennio#q10|src_archimede_2001_triennio__Q10]]
 
 
 
@@ -356,15 +408,20 @@ Guilty and complicit in the theft
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which statement is true on a polynomial with coefficients 0/1*
+*True statement about a polynomial with coefficients 0 or 1*
 
-> Either P(x) is a polynomial whose coefficients are either 0 or 1. To say which of the following is true.
+> Let P(x) be a polynomial whose coefficients are either 0 or 1. State which of the following statements is true.
 >
-> - **(A)** P(2) may not be 51
-> - **(B)** P(3) may not be valid 37
-> - **(C)** P(3) may not be used 92
-> - **(D)** P(4) may not be worth 20
-> - **(E)** P(5) cannot be worth 150.
+> - **(A)** P(2) cannot equal 51
+> - **(B)** P(3) cannot equal 37
+> - **(C)** P(3) cannot equal 92
+> - **(D)** P(4) cannot equal 20
+> - **(E)** P(5) cannot equal 150.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2001_triennio#q11|src_archimede_2001_triennio__Q11]]
 
 
 
@@ -393,7 +450,7 @@ Guilty and complicit in the theft
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inteers equal to three times the sum of their digits*
+*Integers equal to three times the sum of their digits*
 
 > How many positive integers are equal to three times the sum of their digits?
 >
@@ -401,7 +458,13 @@ Guilty and complicit in the theft
 > - **(B)** 1
 > - **(C)** 2
 > - **(D)** 4
-> - **(E)** infinite.
+> - **(E)** infinitely many.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_triennio#q12|src_archimede_2001_triennio__Q12]]
 
 
 
@@ -432,11 +495,21 @@ Guilty and complicit in the theft
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Calculate OB data CD and two angles in Figure*
+*Calculate CD given OB and two angles in the figure*
 
-![[src_archimede_2001_triennio__prob13.png]]
+> In the figure alongside, calculate CD knowing that OB = 1,
+> $\widehat{ABC}$ = 45°, $\widehat{BCD}$ = 15°.
+> A
+> B
+> C
+> b O
+> D
 
-> In the figure below, calculate the CD knowing that OB = 1, $\widehat{ABC}$ = 45°, $\widehat{BCD}$ = 15°. A B C b O D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_triennio#q13|src_archimede_2001_triennio__Q13]]
 
 
 
@@ -465,15 +538,20 @@ Guilty and complicit in the theft
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which sum of odd and definitely wrong numbers*
+*Which sum of odd numbers is certainly wrong*
 
-> Yesterday, Pierino delighted himself in summing odd numbers from 1 to a certain value. Which of the following sums is definitely wrong?
+> Yesterday Pierino enjoyed adding the odd numbers from 1 up to a certain value. Which of the following sums is certainly wrong?
 >
 > - **(A)** 625
 > - **(B)** 1225
 > - **(C)** 2025
 > - **(D)** 3025
 > - **(E)** 4525.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2001_triennio#q14|src_archimede_2001_triennio__Q14]]
 
 
 
@@ -502,7 +580,7 @@ Guilty and complicit in the theft
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Condition on x for root inequality of x < 3x*
+*Condition on x for the inequality square root of x < 3x*
 
 > A positive number x satisfies the inequality √x < 3x if and only if:
 >
@@ -511,6 +589,12 @@ Guilty and complicit in the theft
 > - **(C)** x > 9
 > - **(D)** x < 1 9
 > - **(E)** x < 9.
+
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2001_triennio#q15|src_archimede_2001_triennio__Q15]]
 
 
 
@@ -541,17 +625,21 @@ Guilty and complicit in the theft
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BAC angle given by CEB and beamers in Figure*
+*Angle BAC given CEB and bisectors in figure*
 
-![[src_archimede_2001_triennio__prob16.png]]
-
-> In the figure below, $\widehat{ABE}$ = $\widehat{EBC}$ and $\widehat{ACE}$ = $\widehat{ECD}$. Knowing that $\widehat{CEB}$ = y, then the angle $\widehat{BAC}$ is equal to
+> In the figure alongside, $\widehat{ABE}$ = $\widehat{EBC}$ and $\widehat{ACE}$ = $\widehat{ECD}$.
+> Knowing that $\widehat{CEB}$ = y, then the angle $\widehat{BAC}$ is equal to
 >
 > - **(A)** 90°−y
 > - **(B)** 90°−y 2
 > - **(C)** 2y
 > - **(D)** 180°−2y
 > - **(E)** y.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_triennio#q16|src_archimede_2001_triennio__Q16]]
 
 
 
@@ -583,15 +671,20 @@ Guilty and complicit in the theft
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of inhabitants island by total fraudulent responses*
+*Number of island inhabitants from the sum of liars' answers*
 
-> On an island of knights and thieves, the latter are twice as numerous as the knights. Each inhabitant of the island is asked how many knights there are. While each rider gives the exact answer, the first rider gives the exact number increased by 1, the second rider the exact number increased by 2, and so on gradually. Knowing that the sum of all the answers is 1140, how many people live on the island?
+> On an island of knights and liars, the latter are in double number compared to the knights. Each inhabitant of the island is asked how many knights there are. While every knight gives the correct answer, the first liar gives the exact number increased by 1, the second liar the exact number increased by 2, and so on progressively. Knowing that the sum of all the answers is 1140, how many are the inhabitants of the island?
 >
 > - **(A)** 30
 > - **(B)** 45
 > - **(C)** 60
 > - **(D)** 90
 > - **(E)** 99.
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2001_triennio#q18|src_archimede_2001_triennio__Q18]]
 
 
 
@@ -643,38 +736,23 @@ Guilty and complicit in the theft
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equilateral triangle area given parallelogram perimeter*
+*Area of an equilateral triangle given the perimeter of a parallelogram*
 
 ![[src_archimede_2001_triennio__prob19.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.2]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (4,0);
-  \coordinate (C) at (2,3.4641);
-  \coordinate (F) at (2,0);
-  \coordinate (D) at (1,1.7321);
-  \coordinate (E) at (3,1.7321);
-  \draw (A)--(B)--(C)--cycle;
-  \draw (D)--(F)--(E);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above] at (C) {$C$};
-  \node[below] at (F) {$F$};
-  \node[left] at (D) {$D$};
-  \node[right] at (E) {$E$};
-\end{tikzpicture}
-\end{document}
-```
-
-> Since the perimeter of the FECD parallelogram is 4, the area of the ABC equilateral triangle is equal to:
+> Given that the perimeter of the parallelogram FECD is 4, the area of the equilateral triangle ABC is
 >
 > - **(A)** 8
 > - **(B)** √ 3
 > - **(C)** 4
 > - **(D)** 6
 > - **(E)** 2 √ 3.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2001_triennio#q19|src_archimede_2001_triennio__Q19]]
 
 
 
@@ -707,13 +785,19 @@ Guilty and complicit in the theft
 
 *Initial number after 2000 iterations doubles and minus 1*
 
-> A number is first doubled and then decreased by a unit. Applying this procedure 2000 times below results in 22001 + 1. What's the departure number?
+> A number is first doubled and then decreased by one. Applying this procedure 2000 times in succession, the result is 22001 + 1. What is the starting number?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
 > - **(E)** 5.
+
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2001_triennio#q21|src_archimede_2001_triennio__Q21]]
 
 
 
@@ -747,15 +831,21 @@ Guilty and complicit in the theft
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum apples divisible by 3, 4 and 1/2 after -2*
+*Minimum apples divisible among 3, 4 and in half after -2*
 
-> Three friends are dividing an apple basket into equal parts and they realize they can do it without cutting the apples. A fourth friend arrives and they decide to divide again, always in equal parts and they manage to do it again without cutting the apples. One of the four goes home and eats two apples along the way. When he gets home, he realizes that he can split the remaining apples in half with his girlfriend without cutting them. How many original apples could there be at least?
+> Three friends are dividing equally a basket of apples and notice that they can do it without cutting the apples. A fourth friend arrives and they decide to redo the division, always equally and again succeed in doing it without cutting the apples. One of the 4 goes home and along the way eats 2 apples. Arriving home, he notices that he can divide the remaining apples in half with his girlfriend without cutting them. What could the original number of apples be at minimum?
 >
 > - **(A)** 12
 > - **(B)** 16
 > - **(C)** 24
 > - **(D)** 36
 > - **(E)** 50.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_triennio#q22|src_archimede_2001_triennio__Q22]]
 
 
 
@@ -791,13 +881,18 @@ Guilty and complicit in the theft
 
 *Ordering of p, q, r with square roots*
 
-> The numbers p = 7 − √ 47, q = 5 − √ 23 and r = 2 − √ 2 are as follows:
+> The numbers p = 7 − √47, q = 5 − √23 and r = 2 − √2 satisfy:
 >
 > - **(A)** r < q < p
 > - **(B)** r < p < q
 > - **(C)** p < q < r
 > - **(D)** q < p < r
 > - **(E)** q < r < p.
+
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2001_triennio#q23|src_archimede_2001_triennio__Q23]]
 
 
 
@@ -831,15 +926,22 @@ Guilty and complicit in the theft
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fast ratio of first and third cyclists overtaken*
+*Ratio of the first cyclist's speed to the third's, given two catches*
 
-> Three cyclists leave Cesenatico on the road to Cortona. The first one leaves an hour before the other two, who leave together. Each of the cyclists keeps a constant speed. After some time the third rider reaches the first and two hours later the second also reaches him. The ratio of the second and third rider's speeds is 2 3. What's the ratio of the speed of the first and the speed of the third?
+> Three cyclists set off from Cesenatico along the road to Cortona. The first sets off one hour before the other two, who set off together. Each cyclist keeps a constant speed. After some time the third cyclist catches the first, and two hours later the second catches him as well. The ratio of the speed of the second cyclist to the speed of the third is 2
+> 3. What is the ratio of the speed of the first to the speed of the third?
 >
 > - **(A)** 1 4
 > - **(B)** 1 3
 > - **(C)** 2 5
 > - **(D)** 1 2
 > - **(E)** 2 3.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_archimede_2001_triennio#q24|src_archimede_2001_triennio__Q24]]
 
 
 
@@ -869,12 +971,18 @@ Guilty and complicit in the theft
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum maximum between 2x, x+1, 10-2x*
+*Maximum of the minimum of 2x, x+1, 10-2x*
 
-> For every real number x, be m(x) the least among the numbers 2x, x + 1, 10 −2x. The maximum value of m(x) is:
+> For every real number x, let m(x) be the minimum of the numbers 2x, x + 1, 10 −2x. The maximum value of m(x) is:
 >
 > - **(A)** 0
 > - **(B)** 2
 > - **(C)** 4
 > - **(D)** 6
 > - **(E)** 8.
+
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2001_triennio#q25|src_archimede_2001_triennio__Q25]]

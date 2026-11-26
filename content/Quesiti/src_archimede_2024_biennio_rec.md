@@ -35,15 +35,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural numbers below 1000 with sum of digits 3*
+*Natural numbers below 1000 with digit sum 3*
 
-> How many natural numbers are less than 1000 where the sum of the digits is 3?
+> How many natural numbers less than 1000 have a digit sum of 3?
 >
 > - **(A)** 10
 > - **(B)** 9
 > - **(C)** 8
 > - **(D)** 7
 > - **(E)** 6
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_biennio_rec#q01|src_archimede_2024_biennio_rec__Q01]]
 
 
 
@@ -75,15 +81,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum loss of vouchers for shoes*
+*Minimum loss of vouchers to pay for the shoes*
 
-> Mario wants to buy a pair of shoes that cost 117 and, having at his disposal a voucher for 50 and, five vouchers for 20 and, eight for 5 and and one for 1 and. If the value of the vouchers exceeds the price of the product, the difference shall not be refunded. How much of the value of the vouchers will be lost, at least, to pay for the shoes entirely with your vouchers?
+> Mario wants to buy a pair of shoes costing 117 €, and he has available a 50 € voucher, five 20 € vouchers, eight 5 € vouchers and one 1 € voucher. If the value of the vouchers exceeds the price of the product, the difference is not refunded. How many euros of voucher value will be lost, at minimum, to pay for the shoes in full with his vouchers?
 >
 > - **(A)** 0
 > - **(B)** 1
 > - **(C)** 4
 > - **(D)** 3
 > - **(E)** 2
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2024_biennio_rec#q02|src_archimede_2024_biennio_rec__Q02]]
 
 
 
@@ -122,17 +133,26 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular angle D with relations between the sides*
+*Angle D in a quadrilateral with relations between sides*
 
-![[src_archimede_2024_biennio_rec__prob3.png]]
-
-> In the convex quadrilateral ABCD, the amplitudes of the interior angles bA = 70° and bB = 109° are known. There is also a point E on the DA side such that AB = AE, BC = BE, EC = ED. What is the width of the angle bD ? A E B C D
+> In the convex quadrilateral ABCD, the measures of the interior angles ∠A = 70° and ∠B = 109° are known.
+> There is also a point E on side DA such that AB = AE, BC = BE, EC = ED. What is the measure of angle ∠D?
+> A
+> E
+> B
+> C
+> D
 >
 > - **(A)** 61°
 > - **(B)** 60°
 > - **(C)** 59°
 > - **(D)** 62°
 > - **(E)** 58°
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_biennio_rec#q03|src_archimede_2024_biennio_rec__Q03]]
 
 
 
@@ -164,13 +184,19 @@ level: biennio
 
 *Minimum value of a+5b with ab=12*
 
-> Knowing that a and b are natural numbers whose product is equal to 12, what is the minimum value of a + 5b?
+> Knowing that a and b are natural numbers whose product is equal to 12, what can be, as a minimum, the value of a + 5b?
 >
 > - **(A)** 17
 > - **(B)** 16
 > - **(C)** 19
 > - **(D)** 15
 > - **(E)** 23
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2024_biennio_rec#q04|src_archimede_2024_biennio_rec__Q04]]
 
 
 
@@ -199,7 +225,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What an expression and certainly odd*
+*Which expression is certainly odd*
 
 > If n is any integer, which of the following is certainly odd?
 >
@@ -208,6 +234,12 @@ level: biennio
 > - **(C)** 7n3+45
 > - **(D)** 5n4+84
 > - **(E)** 8n3+75
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2024_biennio_rec#q05|src_archimede_2024_biennio_rec__Q05]]
 
 
 
@@ -247,17 +279,26 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*area of triangle EDA in parallelogram with point on the side*
+*Area of triangle EDA in a parallelogram with a point on a side*
 
-![[src_archimede_2024_biennio_rec__prob6.png]]
-
-> In an ABCD parallelogram, take the point E on the AB side so that BE is triple AE. It is known that the sides AB and BC measure, in order, 19 and 23 m and that the area of the CDE triangle is 180 m2. How many m2 does the area of the EDA triangle measure? A B C D E ?
+> In a parallelogram ABCD, the point E is taken on side AB so that BE is three times AE. It is known that the sides AB and BC measure, in order, 19 and 23 m and that the area of triangle CDE is 180 m2. How many m2 is the area of triangle EDA?
+> A
+> B
+> C
+> D
+> E
+> ?
 >
 > - **(A)** 48
 > - **(B)** 36
 > - **(C)** 54
 > - **(D)** 45
 > - **(E)** 60
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_biennio_rec#q06|src_archimede_2024_biennio_rec__Q06]]
 
 
 
@@ -288,15 +329,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of intersections between 3 circles and 3 straight lines*
+*Maximum number of intersections between 3 circles and 3 lines*
 
-> Mary draws 3 different circles and 3 different straight lines. Overall, how many intersection points can there be, at most, between the various lines you have drawn?
+> Maria draws 3 distinct circles and 3 distinct straight lines. Overall, what is the maximum number of intersection points that can occur among the various lines she has drawn?
 >
 > - **(A)** 24
 > - **(B)** 18
 > - **(C)** 27
 > - **(D)** 22
 > - **(E)** 21
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_biennio_rec#q07|src_archimede_2024_biennio_rec__Q07]]
 
 
 
@@ -332,15 +379,28 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of an expression with powers*
+*Value of the expression 9 + 1, 3, 2026, 32024 ·, 3 + 1, 9, 2025*
 
-> Indicate the value of 9 + 1 3 2026 32024 · 3 + 1 9 2025
+> Find the value of
+> 9 + 1
+> 3
+> 2026
+> 32024
+> 3 + 1
+> 9
+> 2025
 >
 > - **(A)** 28
 > - **(B)** 1
-> - **(C)** None of the other 4
+> - **(C)** none of the other four
 > - **(D)** 24
 > - **(E)** 1/3
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2024_biennio_rec#q08|src_archimede_2024_biennio_rec__Q08]]
 
 
 
@@ -370,15 +430,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies from 1000 to 3000 with digit 7 exactly once*
+*Integers from 1000 to 3000 with the digit 7 exactly once*
 
-> Of all the whole numbers from 1000 to 3000, how many of them do the number 7 appear exactly once?
+> Among all integers from 1000 to 3000, how many are those in which the digit 7 appears exactly once?
 >
 > - **(A)** 600
 > - **(B)** 486
 > - **(C)** 512
 > - **(D)** 450
 > - **(E)** 576
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_biennio_rec#q09|src_archimede_2024_biennio_rec__Q09]]
 
 
 
@@ -419,17 +485,28 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*UV length between two circle arcs in the square*
+*Length UV between two circular arcs in the square*
 
-![[src_archimede_2024_biennio_rec__prob10.png]]
-
-> Taking a DEFG square of 1 m side, the quarters of the circumference of centers D and F with the other two vertices of the square at their extremes are plotted. The DF diagonal, which intersects the two arcs at points U and V, is then plotted. How many meters does the UV segment measure ? D E F G U V
+> A square DEFG of side 1 m is taken, and the quarter-circles with centres D and F having the other two vertices of the square as endpoints are drawn.
+> Then the diagonal DF is drawn, which intersects the two arcs at points U and V.
+> How many metres is the segment UV?
+> D
+> E
+> F
+> G
+> U
+> V
 >
 > - **(A)** √ 2 2
 > - **(B)** √ 2−3 4
 > - **(C)** 9 16
 > - **(D)** 2− √ 2
 > - **(E)** 1 2
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_biennio_rec#q10|src_archimede_2024_biennio_rec__Q10]]
 
 
 
@@ -460,15 +537,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sheets per pair with sum of 22*
+*Minimum number of slips for a pair with sum 22*
 
-> A box contains 20 sheets, numbered 1 to 20. Darius extracts a few at once. How many of them does he have to extract, at least, to make sure he finds at least one pair of numbers whose sum is 22?
+> A box contains 20 slips, numbered from 1 to 20. Dario draws some of them at random, simultaneously. How many must he draw, at minimum, to be certain of finding at least one pair of numbers whose sum is 22?
 >
 > - **(A)** 9
 > - **(B)** 11
 > - **(C)** 12
 > - **(D)** 13
 > - **(E)** 10
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2024_biennio_rec#q11|src_archimede_2024_biennio_rec__Q11]]
 
 
 
@@ -501,15 +584,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arrival orders compatible with partial forecasts*
+*Compatible finishing orders with partial predictions*
 
-> Six cooks, indicated by A, B, C, D, E, F, participate in a cooking competition. According to the forecasts of the evening, the cook A is considered to be better than B, who is better than C, who in turn is better than D. It is also believed that A is better than E. If all the forecasts were met, assuming that there could be no equally qualified chefs, how many possible orders would be placed for the competition?
+> Six cooks, indicated as A, B, C, D, E, F, take part in a cooking contest. According to the predictions made the day before, cook A is considered better than B, who is better than C, who in turn is better than D. It is also believed that A is better than E. If all the predictions were respected, assuming that there cannot be cooks of equal merit, how many possible finishing orders of the contest would there be?
 >
 > - **(A)** 18
 > - **(B)** 20
 > - **(C)** 21
 > - **(D)** 16
 > - **(E)** 24
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_biennio_rec#q12|src_archimede_2024_biennio_rec__Q12]]
 
 
 
@@ -540,15 +629,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of MCD with 42 being greater than 10*
+*Probability that the GCD with 42 is greater than 10*
 
-> Elena's playing dice and she's pulling a number out of the bag (numbers go from 1 to 90). What is the probability that the maximum common divisor between the extracted number and the number 42 is greater than 10?
+> Elena is playing bingo and draws a number from the bag (the numbers range from 1 to 90). What is the probability that the Greatest Common Divisor between the drawn number and the number 42 is greater than 10?
 >
 > - **(A)** 7/90
 > - **(B)** 1/9
 > - **(C)** 1/15
 > - **(D)** 4/45
 > - **(E)** 1/10
+
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_biennio_rec#q13|src_archimede_2024_biennio_rec__Q13]]
 
 
 
@@ -579,15 +674,23 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First whose square divides the product by 31 to 51*
+*Primes whose square divides the product from 31 to 51*
 
-> Whether K = 31 · 32 · 33 · 50 · 51 the product of integers 31 to 51. How many prime numbers are the squares of which divide K? (please note that number 1 is not prime)
+> Let K = 31 · 32 · 33 · · · 50 · 51 be the product of the integers from 31 to 51.
+> How many primes have their square dividing K?
+> ((note that the number 1 is not prime))
 >
 > - **(A)** 10
 > - **(B)** 8
 > - **(C)** 7
 > - **(D)** 5
 > - **(E)** 6
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_biennio_rec#q14|src_archimede_2024_biennio_rec__Q14]]
 
 
 
@@ -617,15 +720,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to sit 3 pairs of siblings next to each other
+*Ways of sitting 3 pairs of brothers side by side*
 
-> Three pairs of brothers sit on a bench. Everyone wants to be by their brother's side. How many ways can they go from left to right?
+> Three pairs of brothers sit on a bench. Each wants to sit next to their own brother. In how many ways can they arrange themselves from left to right?
 >
 > - **(A)** 48
 > - **(B)** 45
 > - **(C)** 50
 > - **(D)** 36
 > - **(E)** 42
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_biennio_rec#q15|src_archimede_2024_biennio_rec__Q15]]
 
 
 
@@ -666,14 +775,24 @@ How to sit 3 pairs of siblings next to each other
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PC length from inner point distances to the sides*
+*Length PC′ from distances of an interior point to the sides*
 
-![[src_archimede_2024_biennio_rec__prob16.png]]
-
-> In the triangle ABC the sides AB and BC measure 10 cm, the CA side measures 12 cm. Taking a point P within the triangle, the segments PA′, PB′ and PC′, perpendicular to the sides, are plotted from P. The lengths of PA′ and PB′ are, in order, 3 and 2 cm. How many cm is the PC′ segment? A B C P A′ B′ C′
+> In triangle ABC the sides AB and BC measure 10 cm, the side CA measures 12 cm. Taking a point P inside the triangle, the segments PA′, PB′ and PC′ are drawn from P, perpendicular to the sides. The lengths of PA′ and PB′ are, in order, 3 and 2 cm. How many cm does the segment PC′ measure?
+> A
+> B
+> C
+> P
+> A′
+> B′
+> C′
 >
 > - **(A)** 4
 > - **(B)** 21/5
 > - **(C)** 39/10
 > - **(D)** 18/5
 > - **(E)** 5 411
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_biennio_rec#q16|src_archimede_2024_biennio_rec__Q16]]

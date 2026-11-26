@@ -31,11 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre numeri pari inferiori a 400 come somma di numeri odd consecutivi in 6 modi*
+*Tre numeri pari minori di 400, ciascuno somma di dispari consecutivi in almeno sei modi*
 
-> Trova tre numeri pari inferiori a 400, ognuno dei quali può essere espresso come la somma di numeri odd positivi consecutivi in almeno sei modi diversi.
-> 
-> (Due espressioni sono considerate diverse se contengono numeri diversi. L'ordine dei numeri che formano una somma è irrilevante.)
+> Trovare tre numeri pari minori di 400, ciascuno dei quali si può esprimere come somma di numeri dispari positivi consecutivi in almeno sei modi diversi.
+>
+> (Due espressioni si considerano diverse se contengono numeri diversi. L'ordine dei numeri che formano una somma è irrilevante.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2022#q01|src_bmo1_2022__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Partite minime giocate dati quattro percentuali cumulative di vittoria esattamente 30,40,50,60,70*
+*Il minimo numero di partite se le percentuali di Arun sono 30%, 40%, 50%, 60% e 70%*
 
-> Un giorno Arun e Disha hanno giocato diverse partite di ping-pong. In cinque momenti della giornata, Arun ha calcolato la percentuale delle partite giocate finora che lui aveva vinto. I risultati di questi calcoli sono stati esattamente il 30%, il 40%, il 50%, il 60% e il 70%, in un certo ordine. Qual è il numero minimo possibile di partite che hanno giocato?
+> Un giorno Arun e Disha giocano diverse partite di ping-pong. In cinque momenti della giornata Arun calcola la percentuale delle partite giocate fino a quel momento che ha vinto. I risultati di questi calcoli sono esattamente 30%, esattamente 40%, esattamente 50%, esattamente 60% ed esattamente 70%, in qualche ordine. Qual è il minimo numero possibile di partite giocate?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2022#q02|src_bmo1_2022__Q02]]
 
 
 
@@ -85,11 +99,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Armonizzazione del numero di pile di pezzi d'oro con potenze di peso pari a 2 per un totale di 2021 grammi*
+*Modi di formare un mucchio di 2021 grammi con al più tre pezzi da $2^n$ grammi*
 
-> Per ogni intero $0 \le n \le 11$, Eliza ha esattamente tre pezzi identici di oro che pesano $2^n$ grammi. In quanti modi diversi può formare una pila di oro che pesa 2021 grammi?
-> 
-> (Due pile sono diverse se contengono numeri diversi di pezzi d'oro di un certo peso. La disposizione dei pezzi nelle pile è irrilevante.)
+> Per ogni intero $0 \le n \le 11$, Eliza ha esattamente tre pezzi identici d'oro che pesano $2^n$ grammi. In quanti modi diversi può formare un mucchio d'oro del peso di 2021 grammi?
+>
+> (Due mucchi sono diversi se contengono numeri diversi di pezzi d'oro di qualche peso. La disposizione dei pezzi nei mucchi è irrilevante.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2022#q03|src_bmo1_2022__Q03]]
 
 
 
@@ -114,11 +135,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi che si intersecano con il punto C su un arco minore; prova triangolo DO1E equilaterale*
+*Dimostrare che il triangolo $DO_1E$ è equilatero*
 
-> Due cerchi $\Gamma_1$ e $\Gamma_2$ hanno rispettivamente i centri $O_1$ e $O_2$. Passano attraverso i centri dell'altro e si incrociano a $A$ e $B$. Il punto $C$ si trova sull'arco minore $BO_2$ di $\Gamma_1$. I punti $D$ e $E$ si trovano sulla linea $O_2C$ in modo tale che $\angle AO_1D = \angle DO_1C$ e $\angle CO_1E = \angle EO_1B$. Prova che il triangolo $DO_1E$ è equilaterale.
-> 
-> (Un arco minore di un cerchio è il più breve dei due archi con determinati punti terminali.)
+> Due circonferenze $\Gamma_1$ e $\Gamma_2$ hanno rispettivamente centri $O_1$ e $O_2$. Ciascuna passa per il centro dell'altra e si intersecano in $A$ e in $B$. Il punto $C$ sta sull'arco minore $BO_2$ di $\Gamma_1$. I punti $D$ ed $E$ stanno sulla retta $O_2C$ in modo che $\angle AO_1D = \angle DO_1C$ e $\angle CO_1E = \angle EO_1B$. Dimostrare che il triangolo $DO_1E$ è equilatero.
+>
+> (Un arco minore di una circonferenza è il più corto dei due archi con estremi dati.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2022#q04|src_bmo1_2022__Q04]]
 
 
 
@@ -141,9 +169,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conte N per il quale la media più piccola possibile di un insieme N è un intero*
+*Per quanti $N$ minori di 2021 la media minima $m(N)$ è intera*
 
-> Un insieme $N$ è un insieme di diversi integri positivi che comprende un dato intero positivo $N$. La media $m(N)$ deve essere la più piccola possibile di qualsiasi set $N$. Per quanti valori $N$ inferiori al 2021 $m(N)$ è un numero intero?
+> Un $N$-insieme è un insieme di interi positivi diversi che include un dato intero positivo $N$. Sia $m(N)$ la minima media possibile di un qualunque $N$-insieme. Per quanti valori di $N$ minori di 2021 $m(N)$ è un intero?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2022#q05|src_bmo1_2022__Q05]]
 
 
 
@@ -174,14 +209,21 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Liste di numeri interi con 71 termini, primo termine 1, regola ricorrente, somma 999999*
+*Quante liste di 71 termini, che cominciano con 1, hanno somma 999999*
 
-> A Marvin è stato incaricato di scrivere ogni elenco di numeri interi con le seguenti proprietà:
-> 
-> I) L'elenco contiene 71 termini.
-> 
+> Marvin ha il compito di scrivere ogni lista di interi con le proprietà seguenti:
+>
+> (i) La lista contiene 71 termini.
+>
 > (ii) Il primo termine è 1.
-> 
-> (iii) Ogni termine dopo il primo è uguale al termine precedente o alla somma di tutti i termini precedenti.
-> 
-> Quando Marvin sarà finito, quante delle liste avranno una somma pari a 999.999?
+>
+> (iii) Ogni termine dopo il primo è uguale o al termine precedente, o alla somma di tutti i termini precedenti.
+>
+> Quando Marvin ha finito, quante delle liste avranno somma uguale a 999999?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2022#q06|src_bmo1_2022__Q06]]

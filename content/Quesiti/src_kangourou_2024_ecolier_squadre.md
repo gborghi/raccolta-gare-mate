@@ -39,20 +39,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest number from digit code representation*
+*Larger number represented by digit code*
 
-> The largest  
-> Sergio believes he has invented a secret code to identify integers: if a digit is odd, 
-> he represents it with a small circle, if it is even with a square; if a digit is a multiple of 3, the circle 
-> or the square that represents it is filled, while it is empty otherwise. Thus Sergio represents the 
-> number 3456 with 
-> . But Sergio is mistaken: his criterion does not allow one to identify with 
-> certainty a number starting from its representation. The representation 
->  provides 
-> also other numbers: what is the largest of them?  
-> Answer: 9876.
+> Bigger Sergio thinks he has invented a secret code for identifying whole numbers: if a digit is odd, he represents it with a small circle; if it is even, with a square. If a digit is a multiple of 3, the small circle or square representing it is filled in; otherwise, it is empty. So Sergio represents the number 3456 with . But Sergio is wrong: his rule does not make it possible to determine a number with certainty starting from its representation. The representation also yields other numbers: which of them is the largest? Answer: 9876.
 
-**Answer:** 9876
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre#q01|src_kangourou_2024_ecolier_squadre__Q01]]
 
 
 
@@ -83,11 +79,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many star numbers between 2000 and 3000*
+*How many star numbers are there between 2000 and 3000?*
 
-> Star numbers Call a star number any number between 2000 and 3000 that has the following property: the difference between the largest and smallest of two adjacent digits is always the same, even if it varies from number to number. These are examples of star numbers 2024 and 2345: in the first case the difference between the largest and the smallest of two adjacent digits is always 2, in the second case it is always 1. How many are the star numbers, including the two we gave as an example? Attention: 2222 is not a star number because between two adjacent digits there is no greater than the other. Answer: 0019.
+> Star Numbers Call a number a "star number" if it is any number between 2000 and 3000 that has the following property: "the difference between the larger and the smaller of two adjacent digits is always the same," even though this difference varies from number to number. 2024 and 2345 are examples of star numbers: in the first case, the difference between the larger and the smaller of two adjacent digits is always 2; in the second, it is always 1. How many star numbers are there, including the two we gave as examples? Attention: 2222 is not a star number because, for two adjacent digits, neither is larger than the other. Answer: 0019.
 
-**Answer:** 0019
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre#q02|src_kangourou_2024_ecolier_squadre__Q02]]
 
 
 
@@ -114,11 +115,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grams of yellow per 220 grams of green*
+*Yellow grams for 220 grams of green*
 
-> The paint To obtain 700 grams of paint of a certain green gradation, 140 grams of blue, 210 grams of yellow and 350 grams of white must be mixed. To get 220 grams of paint of the same green grade, how many grams of yellow do you need to use? Answer: 0066.
+> Paint: To obtain 700 grams of paint of a certain shade of green, one must mix 140 grams of blue, 210 grams of yellow, and 350 grams of white. To obtain 220 grams of paint of the same shade of green, how many grams of yellow must be used? Answer: 0066.
 
-**Answer:** 0066
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre#q03|src_kangourou_2024_ecolier_squadre__Q03]]
 
 
 
@@ -148,11 +153,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Number of Aldo and Cristina, sum of 99 difference max
+*Number Aldo and Cristina, sum 99 diff max*
 
-> Aldo and Cristina Cristina wrote an integer number of two digits (so no less than 10). Aldo also wrote a two-digit number: Aldo's digits are the same as Cristina's, Aldo's number is larger than Cristina's, the sum of the numbers written by Aldo and Cristina is 99 and their difference is the largest possible in this situation. Write Aldo's number followed by Cristina's number, that is, if Aldo's number is XY and Cristina's number is ZW, write XYZW Answer: 8118.
+> Aldo and Cristina: Cristina wrote a two-digit integer (so not less than 10). Aldo also wrote a two-digit number: Aldo's digits are the same ones Cristina used; Aldo's number is greater than Cristina's; the sum of the numbers written by Aldo and Cristina is 99, and their difference is as large as possible in this situation. Write Aldo's number followed by Cristina's number—that is, if Aldo's number is XY and Cristina's number is ZW, write XYZW. Answer: 8118.
 
-**Answer:** 8118
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre#q04|src_kangourou_2024_ecolier_squadre__Q04]]
 
 
 
@@ -199,7 +209,7 @@ Number of Aldo and Cristina, sum of 99 difference max
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum yellow marbles given 25 green ones*
+*Maximum number of yellow marbles: 25 green ones*
 
 ![[src_kangourou_2024_ecolier_squadre__prob5.png]]
 
@@ -215,17 +225,16 @@ Number of Aldo and Cristina, sum of 99 difference max
 \end{document}
 ```
 
-> The yellow marbles  
-> In the figure you see the beginning of a very long strip, divided into 
-> numbered cells, starting from the first, with the natural numbers. First of all I placed a green marble in all the cells numbered with a number divisible by 6; then 
-> I placed a red marble in all the cells not already occupied by a green marble and numbered with a 
-> 1 2 3 4 5 6 7 … 
-> 
-> number divisible by 4; finally I placed a yellow marble in all the cells still empty. The green marbles 
-> are 25. What is the maximum possible number of yellow marbles? 
-> Answer: 0104.
+> The yellow marbles In the figure, you can see the beginning of a very long strip, divided into numbered squares starting with the first one, with the natural numbers. First, I placed a green marble in every numbered square whose number is divisible by 6; then I placed a red marble in every square that was not already occupied by a green marble and was numbered 1 2 3 4 5 6 7 …
+>
+> A number divisible by 4; finally, I placed a yellow marble in all the still-empty squares. There are 25 green marbles. What is the maximum possible number of yellow marbles? Answer: 0104.
 
-**Answer:** 0104
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre#q05|src_kangourou_2024_ecolier_squadre__Q05]]
 
 
 
@@ -252,11 +261,15 @@ Number of Aldo and Cristina, sum of 99 difference max
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the two smallest multiples, sum 2024*
+*Sum of the two smallest multiples, sum 2024*
 
-> The multiples I wrote an integer and then double that number, and then triple, quadruple, quintuple, and finally six times. Adding up the last two numbers I wrote (i.e. the two biggest ones), I got 2,024. What's the sum of the first two numbers I wrote (i.e. the two smaller ones)? Answer: 0552.
+> Multiples: I wrote an integer, then twice that number, then three times it, four times it, five times it, and finally six times it. By adding the last two numbers I wrote (that is, the two largest), I got 2,024 as the result. What is the sum of the first two numbers I wrote (that is, the two smallest)? Answer: 0552.
 
-**Answer:** 0552
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre#q06|src_kangourou_2024_ecolier_squadre__Q06]]
 
 
 
@@ -284,11 +297,16 @@ Number of Aldo and Cristina, sum of 99 difference max
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of five integers with triple constraint*
+*Minimum sum of five integers with a triple constraint*
 
-> Five numbers Five integers greater than zero are all different from each other. However you choose three of the five numbers, their sum is greater than the sum of the other two. What is the smallest possible value for the sum of these five numbers? Answer: 0035.
+> Five Numbers Five positive integers are all distinct from one another. Whatever three of the five numbers are chosen, their sum is greater than the sum of the remaining two. What is the smallest possible value of the sum of these five numbers? Answer: 0035.
 
-**Answer:** 0035
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre#q07|src_kangourou_2024_ecolier_squadre__Q07]]
 
 
 
@@ -320,13 +338,18 @@ Number of Aldo and Cristina, sum of 99 difference max
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes from the last hour with the same figures exchanged*
+*Minutes from the last hour with the same digits permuted*
 
 ![[src_kangourou_2024_ecolier_squadre__prob8.png]]
 
-> Clock The clock of a waiting room indicates hours and minutes and is updated every minute. Now it's just updated and looks like the figure. How many minutes have passed since the last time the clock was updated and showed a time that is written by changing only the position of the digits shown in the figure? Answer: 0962.
+> The Clock The clock in a waiting room shows hours and minutes and updates at the end of each minute. It has just updated and now appears as in the figure. How many minutes have elapsed since the last time the clock updated and showed a time that can be written by changing only the positions of the digits shown in the figure? Answer: 0962.
 
-**Answer:** 0962
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre#q08|src_kangourou_2024_ecolier_squadre__Q08]]
 
 
 
@@ -355,11 +378,16 @@ Number of Aldo and Cristina, sum of 99 difference max
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Larger number without digit 1, product 20*
+*Largest number without the digit 1, product 20*
 
-> The greatest Rossella wrote every integer that does not contain the digit 1 and is such that the product of its digits is 20. What is the greatest of the numbers written by Rossella? Attention: if the number you found has less than four digits, to answer you have to put the digit 0 in the first of the four places, but this should not be considered as a digit of the number you found. The answer is 0522.
+> The largest Rossella wrote every integer that does not contain the digit 1 and for which the product of its digits is 20. What is the largest of the numbers written by Rossella? Attention: if the number you have found has fewer than four digits, to give your answer you must put the digit 0 in the first of the four positions, but this digit should not be regarded as a digit of the number you have found. Answer: 0522.
 
-**Answer:** 0522
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre#q09|src_kangourou_2024_ecolier_squadre__Q09]]
 
 
 
@@ -386,11 +414,15 @@ Number of Aldo and Cristina, sum of 99 difference max
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grams weight of each item in the box*
+*Grams, weight of each item in the box*
 
-> In the box, a metal box contains 500 objects all of the same weight. The weight of the full box is three times the total weight of all items; that of the empty box is 50 kilograms. How many grams does each object weigh?
+> In the box: A metal box contains 500 objects, all of the same weight. The weight of the full box is three times the total weight of all the objects; the weight of the empty box is 50 kilograms. How many grams does each object weigh? Answer: 0050.
 
-**Answer:** 0050
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre#q10|src_kangourou_2024_ecolier_squadre__Q10]]
 
 
 
@@ -417,11 +449,16 @@ Number of Aldo and Cristina, sum of 99 difference max
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two-digit numbers with one-digit digit product*
+*Two-digit numbers whose product is a single-digit number*
 
-> Single digit What are the integers of two digits (hence greater than 9 and less than 100) such that the product of their digits is a single digit number? **Answer:** 0032
+> A single digit: How many two-digit integers (that is, greater than 9 and less than 100) are there such that the product of their digits is a single-digit number? Answer: 0032.
 
-**Answer:** 0032
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre#q11|src_kangourou_2024_ecolier_squadre__Q11]]
 
 
 
@@ -448,8 +485,13 @@ Number of Aldo and Cristina, sum of 99 difference max
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number with remainder equal to the quotient by 45*
+*Largest number with a remainder equal to the quotient when divided by 45*
 
-> Quotient and remainder The number 46, if you divide by 45, gives you a remainder of 1, equal to the quotient. What is the largest integer that, divided by 45, gives a remainder equal to the quotient? The answer is 2024. The solution.
+> Quotient and remainder: When 46 is divided by 45, the remainder is 1, which is equal to the quotient. What is the largest integer that, when divided by 45, yields a remainder equal to the quotient? Answer: 2024. Solution.
 
-**Answer:** 2024
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre#q12|src_kangourou_2024_ecolier_squadre__Q12]]

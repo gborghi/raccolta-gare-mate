@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Anna acquista libri e scaffali; conta le date in cui i libri sono più scaffali.*
+*Anna compra libri e scaffali; conta le date in cui il numero di libri è un multiplo del numero di scaffali.*
 
-> Giovedì 1 gennaio 2015, Anna compra un libro e uno scaffale. Per i prossimi due anni, compra un libro ogni giorno e uno scaffale ogni giovedì, quindi il prossimo scaffale viene acquistato il 15 gennaio 2015. Su quante date nel periodo Giovedì 1 gennaio 2015 fino al sabato 31 dicembre 2016 inclusi Anna ha un numero di libri che è un esatto moltiplo del numero di scaffali che ha?
+> Giovedì 1° gennaio 2015, Anna compra un libro e una mensola. Per i due anni successivi, compra un libro ogni giorno e una mensola ogni due giovedì, quindi la mensola successiva viene comprata il 15 gennaio 2015. In quante date, nell'intervallo compreso tra giovedì 1° gennaio 2015 e sabato 31 dicembre 2016 inclusi, Anna ha un numero di libri che è un multiplo esatto del numero di mensole che possiede?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2015-16_round1#q01|src_bmo_2015-16_round1__Q01]]
 
 
 
@@ -53,9 +60,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale ciclico; tangente a D che incontra la linea CB; prova triangolo DEF isosceles.*
+*Quadrilatero ciclico; la tangente in D incontra la retta CB; dimostrare che il triangolo DEF è isoscele.*
 
-> Che $ABCD$ sia un quadrilaterale ciclico e che le linee $CD$ e $BA$ si incontrino a $E$. La linea attraverso $D$ che è tangente al circoncircolo di $ABCD$ a $D$ incontra la linea $CB$ a $F$. Prova che il triangolo $DEF$ è uguale.
+> Sia $ABCD$ un quadrilatero ciclico e siano le rette $CD$ e $BA$ incidenti in $E$. La retta passante per $D$ e tangente alla circonferenza circoscritta a $ABCD$ in $D$ incontra la retta $CB$ in $F$. Dimostrare che il triangolo $DEF$ è isoscele.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2015-16_round1#q02|src_bmo_2015-16_round1__Q02]]
 
 
 
@@ -78,9 +91,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza definita da ricorrenza con costanti A e B; trovare valori iniziali razionali.*
+*Successione definita per ricorrenza con costanti A e B; trovare valori iniziali razionali.*
 
-> Supponiamo che una sequenza $a_1, a_2, a_3, \ldots$ sia definita con una formula $a_n = a_{n-1} + A + B/a_{n-1}$ in cui $A$ e $B$ sono costanti razionali con $A \neq 0$. Determinare tutti i valori di $a_1$ che forniscono il minor numero possibile di termini nella sequenza che sono numeri razionali.
+> Si supponga che una successione $a_1, a_2, a_3, \ldots$ sia definita da una formula $a_n = a_{n-1} + A + B/a_{n-1}$, dove $A$ e $B$ sono costanti razionali tali che $A \neq 0$. Determinare tutti i valori di $a_1$ che danno il numero minimo possibile di termini della successione che sono numeri razionali.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2015-16_round1#q03|src_bmo_2015-16_round1__Q03]]
 
 
 
@@ -106,9 +126,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-James Jar of 100 pebbles gioco; determinare le posizioni da cui il secondo giocatore vince.
+*Gioco del barattolo di James con 100 sassolini: determina le posizioni da cui il secondo giocatore vince.*
 
-> James ha una bottiglia di 100 pietre. Una mossa consiste nel togliere uno o più ciottoli dal vaso o nel riportarne uno o più. Le seguenti condizioni devono essere soddisfatte: a) Il gioco non può mai essere restituito a uno stato precedente. (b) Il vaso non può mai essere vuoto. Un giocatore che non può fare una mossa perde. James e' il primo. Determina tutti i valori del numero iniziale di pietre da cui James può garantire una vittoria.
+> James ha un barattolo con 100 sassolini. Una mossa consiste nel prelevare uno o più sassolini dal barattolo oppure nel reinserire uno o più sassolini nel barattolo. Devono essere soddisfatte le seguenti condizioni:
+> (a) Il gioco non può mai tornare a uno stato precedente.
+> (b) Il barattolo non può mai essere vuoto.
+> Il giocatore che non può fare una mossa perde. James muove per primo. Determinare tutti i valori del numero iniziale di sassolini a partire dai quali James può garantirsi la vittoria.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2015-16_round1#q04|src_bmo_2015-16_round1__Q04]]
 
 
 
@@ -130,9 +160,15 @@ James Jar of 100 pebbles gioco; determinare le posizioni da cui il secondo gioca
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piede di altitudine triangolare; quattro piedi perpendicolari sono conciclici.*
+*Piede dell'altezza di un triangolo; i quattro piedi delle perpendicolari sono conciclici.*
 
-> $ABC$ sia un triangolo e $D$ sia il piede dell'altitudine da $A$. I piedi delle perpendicolari $P$, $Q$, $R$ e $S$ siano rispettivamente i piedi delle perpendicolari $D$ a $AB$, $DB$, $DC$ e $CA$. Indicare che $P$, $Q$, $R$, $S$ sono conciclici.
+> Sia $ABC$ un triangolo, e sia $D$ il piede dell'altezza condotta da $A$. Siano $P$, $Q$, $R$ e $S$ i piedi delle perpendicolari condotte da $D$ rispettivamente a $AB$, $DB$, $DC$ e $CA$. Dimostrare che $P$, $Q$, $R$, $S$ sono concyclici.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2015-16_round1#q05|src_bmo_2015-16_round1__Q05]]
 
 
 
@@ -155,6 +191,13 @@ James Jar of 100 pebbles gioco; determinare le posizioni da cui il secondo gioca
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tanti interi incantevoli definiti in modo ricorrente; dimostrare che ogni intero positivo è la somma di pochi interi incantevoli.*
+*Interi affascinanti definiti ricorsivamente; dimostrare che ogni intero positivo è somma di pochi interi affascinanti.*
 
-> Un intero positivo $n$ si chiama incantevole se è uguale a $1$ o può essere scritto come la somma di due interi non negativi in $k$ modi incantevoli diversi, dove $k$ è un intero non negativo. Prova che ogni numero intero positivo può essere scritto come la somma di un piccolo numero di numeri interi affascinanti.
+> Un numero intero positivo $n$ è detto affascinante se è uguale a $1$ oppure può essere scritto come somma di due numeri interi non negativi in $k$ modi affascinanti distinti, dove $k$ è un numero intero non negativo. Dimostrare che ogni numero intero positivo può essere scritto come somma di un numero piccolo di numeri interi affascinanti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2015-16_round1#q06|src_bmo_2015-16_round1__Q06]]

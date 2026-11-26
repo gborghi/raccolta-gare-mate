@@ -70,31 +70,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which does not represent the use*
+*Which of the diagrams below cannot show the use I made of them this week?*
 
 ![[src_kangourou_2022_student__prob1.png]]
 
-> On my smartphone, I've installed four apps: the weekly usage time of each of them is shown by a bar chart, organized in decreasing order of usage times. In the figure on the right, you can see the chart from last week. If this week I used two of the apps for exactly the same time last week and the other two only for half the time, which of the diagrams below cannot represent my use this week?
->  
+> On my smartphone I have installed four apps: the weekly time of use of each of them is shown by a bar chart, arranged in decreasing order of times of use. In the picture on the right you see last week's chart. If this week I used two of the apps for exactly the same time as last week and the other two for only half the time, which of the diagrams below cannot show the use I made of them this week?
+>
 > A) 68
->   
 > B) 69
->   
-> C) 70 D) 76 E) 77 3. Isabella is older than Charles and younger than Liliana. Edward is older than Isabella. What couple can be made by people of the same age? A) Charles and Edward B) Edward and Liliana C) Liliana and Charles D) Isabella and Liliana E) Edward and Isabella 4. The product of the digits of a 10-digit integer is 15. What is the sum of the 10 digits of the number? A) 8
->   
-> B) 12
->   
-> C) 15 D) 16 E) 20
->   
-> E)
->   
-> D)
->   
-> C) B)
->   
-> A)
+> C) 70
+> D) 76
+> E) 77
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_student#q01|src_kangourou_2022_student__Q01]]
 
 
 
@@ -119,12 +111,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit integers divisible by 13*
+*How many positive three-digit integers are divisible by 13?*
 
-> How many three-digit positive integers are divisible by 13?
->
+> How many positive three-digit integers are divisible by 13?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_student#q02|src_kangourou_2022_student__Q02]]
 
 
 
@@ -147,11 +143,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which couple may be of the same age*
+*Which pair can be made up of people of the same age?*
 
-> 3. Isabella is older than Charles and younger than Liliana. Edward is older than Isabella. What couple can be made by people of the same age? A) Charles and Edward B) Edward and Liliana C) Liliana and Charles D) Isabella and Liliana E) Edward and Isabella
+> 3. Isabella is older than Carlo and younger than Liliana. Edoardo is older than Isabella. Which pair can be made up of people of the same age?
+>
+> A) Carlo and Edoardo
+> B) Edoardo and Liliana
+> C) Liliana and Carlo
+> D) Isabella and Liliana
+> E) Edoardo and Isabella
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_student#q03|src_kangourou_2022_student__Q03]]
 
 
 
@@ -175,13 +181,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of digits of a 10-digit number = 15, sum of digits*
+*What is the sum of the 10 digits of the number?*
 
 > 4. The product of the digits of a 10-digit integer is 15. What is the sum of the 10 digits of the number?
-> (A) 8 (B) 12 (C) 15 (D) 16 (E) 20
-> page 26 Kangourou 2022
+>
+> A) 8
+> B) 12
+> C) 15
+> D) 16
+> E) 20
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_student#q04|src_kangourou_2022_student__Q04]]
 
 
 
@@ -220,15 +235,30 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*perimeter shaded figure*
+*What is the perimeter of the shaded figure?*
 
 ![[src_kangourou_2022_student__prob5.png]]
 
-> Four circles, all of radius 1, intersect as shown in the figure. What is the perimeter of the shaded figure? A) p B) A number strictly between 3p/2 and 2p
->  
-> C) 3p/2   D) 2p E) p/2
+> Four circles, all of radius 1, intersect as shown in the picture. What is the perimeter of the shaded figure?
+>
+> A) p
+> 3p
+> B) A number strictly between ---
+> and
+> 2p
+> 2
+> 3p
+> 2
+> C) ---
+> D) 2p
+> E) p
+> 2
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_student#q05|src_kangourou_2022_student__Q05]]
 
 
 
@@ -259,11 +289,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*central number*
+*What is the number in the middle of the list?*
 
-> David wrote, in increasing order, all integers between 2 and 2022 whose decimal representation contains no digits other than 0 and 2. What's the number in the middle of the list? A) 200 B) 220 C) 222 D) 2000 E) 2002
+> Davide wrote, in increasing order, all the integers between 2 and 2022 whose decimal representation contains no digits other than 0 and 2. What is the number in the middle of the list?
+>
+> A) 200
+> B) 220
+> C) 222
+> D) 2000
+> E) 2002
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_student#q06|src_kangourou_2022_student__Q06]]
 
 
 
@@ -295,19 +336,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real solutions of (x-2)²+(x+2)²=0*
+*How many real solutions does the equation have?*
 
-> How many real solutions does the equation (x − 2)² + (x + 2)² = 0 have ? A) 0
->   
+> How many real solutions does the equation (x − 2)2 + (x + 2)2 = 0 have?
+>
+> A) 0
 > B) 1
->   
 > C) 2
->   
 > D) 3
->   
 > E) 4
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_student#q07|src_kangourou_2022_student__Q07]]
 
 
 
@@ -345,21 +388,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*arc as a small circle*
+*Which of the arcs drawn in black has the same length as the small circle drawn in grey?*
 
 ![[src_kangourou_2022_student__prob8.png]]
 
-> Four straight lines intersect forming eight congruent angles (see figure). Which of the arcs drawn in black has the same length as the small circle drawn in gray? The radii of the small circumference and the arcs are highlighted by the grid. A) A
->   
+> Four straight lines intersect, forming eight congruent angles (see the picture). Which of the arcs drawn in black has the same length as the small circle drawn in grey? The radii of the small circle and of the arcs are shown by the grid.
+>
+> A) A
 > B) B
->   
 > C) C
->   
 > D) D
->   
 > E) E
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_student#q08|src_kangourou_2022_student__Q08]]
 
 
 
@@ -388,11 +433,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*affirmation is certainly true*
+*Which of the following statements is certainly true?*
 
-> Let a, b, c be numbers other than 0 such that the two numbers −2a4b c and 3a b c have the same sign. Which of the following is certainly true? A) ab > 0 B) b < 0 C) c > 0 D) bc > 0
+> Let a, b, c be numbers different from 0 such that the two numbers −2a4b c and 3a b c have the same sign. Which of the following statements is certainly true?
+>
+> A) ab > 0
+> B) b < 0
+> C) c > 0
+> D) bc > 0
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_student#q09|src_kangourou_2022_student__Q09]]
 
 
 
@@ -451,31 +505,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*distance between midpoints of AB and CD*
+*How many centimetres is the distance between the midpoint of AB and the midpoint of CD?*
 
 ![[src_kangourou_2022_student__prob10.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw[thick, gray] (0,0) -- (10,0);
-  \filldraw (1,0) circle (3pt) node[above=2pt] {$A$};
-  \filldraw (3,0) circle (3pt) node[above=2pt] {$B$};
-  \filldraw (6.5,0) circle (3pt) node[above=2pt] {$C$};
-  \filldraw (10,0) circle (3pt) node[above=2pt] {$D$};
-\end{tikzpicture}
-\end{document}
-```
+> Michela marked on a straight line the points A, B, C and D in the order shown in the picture. The distance between A and C is 12 cm and that between B and D is 18 cm. How many centimetres is the distance between the midpoint of AB and the midpoint of CD?
+>
+> A) 15
+> B) 12
+> C) 18
+> D) 6
+> E) 9
+>
+> Questions 11 to 20 are worth 4 points each.
 
-> Michela marked points A, B, C and D on a straight line in the order shown in the figure.
->  
-> 3 2 3 5 −4 E)  a < 0 A B C D E
-> 
-> Page 28 The distance between A and C is 12 cm and that between B and D is 18 cm. How many centimeters is the distance between the midpoint of AB and the midpoint of CD ? A) 15 B) 12 C) 18 D) 6
->   
-> E) 9 Questions from N. 11 to N. 20 are worth 4 points each.
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_student#q10|src_kangourou_2022_student__Q10]]
 
 
 
@@ -509,13 +558,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*all different digits again*
+*How many cubic metres of water will have been used (starting from now) when, for the first time, the digits of the number on the meter are again all different?*
 
 ![[src_kangourou_2022_student__prob11.png]]
 
-> By checking the water meter in her bathroom, Antonia sees the number in the figure and notices that it is made up of digits all different from each other. How many cubic meters of water will be used (from now on) when, for the first time, the digits on the meter will all be different again? A) 0,006 B) 0,034 C) 0,086 D) 0,137 E) 1,048
+> Checking the water meter in her bathroom, Antonia sees the number in the picture and notices that it is made up of digits all different from one another. How many cubic metres of water will have been used (starting from now) when, for the first time, the digits of the number on the meter are again all different?
+>
+> A) 0,006
+> B) 0,034
+> C) 0,086
+> D) 0,137
+> E) 1,048
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_student#q11|src_kangourou_2022_student__Q11]]
 
 
 
@@ -553,19 +612,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*white part*
+*What is the area of the white part of the large square?*
 
 ![[src_kangourou_2022_student__prob12.png]]
 
-> The large square in the figure is divided by two lines into two squares and two rectangles. The midpoints of their inner sides to the great square are the vertices of the shaded quadrilateral, which has area 3. What is the area of the white part of the large square? A) 15
->   
+> The large square in the picture is divided by two straight lines into two squares and two rectangles. The midpoints of their sides that lie inside the large square are the vertices of the shaded quadrilateral, which has area 3. What is the area of the white part of the large square?
+>
+> A) 15
 > B) 18
->   
-> C) 21 D) 24
->   
-> E) There is insufficient data to answer.
+> C) 21
+> D) 24
+> E) The data are not enough to answer.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_student#q12|src_kangourou_2022_student__Q12]]
 
 
 
@@ -601,23 +665,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*GCD of 2^2021+2^2022 and 3^2021+3^2022*
+*What is the greatest common divisor of 22021 + 22022 and 32021 + 32022?*
 
-> What is the Greatest Common Divisor of 22021 + 22022  and  32021 + 32022 ? 
-> A) 22021   
-> B) 1  
->   
-> C) 2  
->   
-> D) 6  
->   
-> E) 12 
-> , 
-> m
-> 3
+> What is the greatest common divisor of 22021 + 22022 and 32021 + 32022?
 >
+> A) 22021
+> B) 1
+> C) 2
+> D) 6
+> E) 12
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_student#q13|src_kangourou_2022_student__Q13]]
 
 
 
@@ -653,15 +716,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum power plants*
+*What is the least number of power stations that is enough to build?*
 
 ![[src_kangourou_2022_student__prob14.png]]
 
-> The diagram represents a territory with 16 cities and the roads connecting them. The government wants to build power plants in some of the cities. Each of these power stations can provide enough energy for itself and for the cities connected to it from a single stretch of road. What is the minimum number of power plants that is sufficient to build? A) 3 B) 4
-> 
-> The following information is provided:
+> The diagram represents a territory with 16 towns and the roads that connect them. The government wants to build power stations in some of the towns. Each such station can supply enough energy for itself and for the towns connected to it by a single stretch of road. What is the least number of power stations that is enough to build?
+>
+> A) 3
+> B) 4
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_student#q14|src_kangourou_2022_student__Q14]]
 
 
 
@@ -692,19 +761,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Question 15 Student 2022 (figure)
+*Which one?*
 
 ![[src_kangourou_2022_student__prob15.png]]
 
-> The solid in the figure can be obtained by appropriately assembling the two solids forming one of the pairs listed in the answers. What kind? (see figure)
+> The solid in the picture can be obtained by suitably assembling the two solids that form one of the pairs listed in the answers. Which one? (see the picture)
 >
-> - **(A)** (see figure)
-> - **(B)** (see figure)
-> - **(C)** (see figure)
-> - **(D)** (see figure)
-> - **(E)** (see figure)
+> A) (see the picture)
+> B) (see the picture)
+> C) (see the picture)
+> D) (see the picture)
+> E) (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_student#q15|src_kangourou_2022_student__Q15]]
 
 
 
@@ -741,15 +814,23 @@ Question 15 Student 2022 (figure)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of surface areas*
+*What is, in terms of S, the sum of the areas of the surfaces of all 27 parallelepipeds?*
 
 ![[src_kangourou_2022_student__prob16.png]]
 
-> Look at the figure. A rectangular parallelepiped whose surface has area S has been cut by six planes, so that each face of the parallelepiped appears parallel to two of these planes. In this way, the parallelepiped is broken into 27 smaller parallelepiped. The distance of each plane from its parallel faces is not specified. What is, in terms of S, the sum of the surface areas of all 27 parallelepipeds? A) 2 S B) (5/2) S
->   
-> C) 3 S D) 4 S E) None of the other answers are correct.
+> Look at the picture. A rectangular parallelepiped whose surface has area S has been cut by six planes, so that each face of the parallelepiped is parallel to two of these planes. In this way the parallelepiped is broken into 27 smaller parallelepipeds. The distance of each plane from the faces parallel to it is not specified. What is, in terms of S, the sum of the areas of the surfaces of all 27 parallelepipeds?
+>
+> A) 2 S
+> B) (5/2) S
+> C) 3 S
+> D) 4 S
+> E) none of the other answers is correct
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_student#q16|src_kangourou_2022_student__Q16]]
 
 
 
@@ -784,19 +865,21 @@ Question 15 Student 2022 (figure)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*third value in order of size*
+*What is the third of the five numbers in order of size?*
 
-> The average of five integers is 24. The average of the three smallest is 19, and the average of the three largest is 28. What's the third of the five numbers in order of magnitude? A) 20
->   
+> The mean of five integers is 24. The mean of the three smallest is 19 and that of the three largest is 28. What is the third of the five numbers in order of size?
+>
+> A) 20
 > B) 21
->   
-> C) 22 D) 23 E) 24
->    
->    
->  
-> A
+> C) 22
+> D) 23
+> E) 24
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_student#q17|src_kangourou_2022_student__Q17]]
 
 
 
@@ -836,20 +919,27 @@ Question 15 Student 2022 (figure)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*height on BC*
+*What is the altitude of the triangle relative to the base BC?*
 
 ![[src_kangourou_2022_student__prob18.png]]
 
-> In an ABC triangle, two rectangles of dimensions 1 × 5 and 2 × 3 are inscribed, as shown in the figure. What is the height of the triangle relative to the base BC? A) 3
->   
+> In a triangle ABC two rectangles of dimensions 1 × 5 and 2 × 3 are inscribed, as in the picture. What is the altitude of the triangle relative to the base BC?
+>
+> 8
+> A) 3
 > B)
->   
-> C) 2
->   
->   
-> 3 D) 16 E) None of the other answers is correct. 5
+> C)
+> 2
+> 3
+> D) 16
+> E) none of the other answers is correct
+> 5
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_student#q18|src_kangourou_2022_student__Q18]]
 
 
 
@@ -887,21 +977,22 @@ Question 15 Student 2022 (figure)
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following information shall be provided:
+*What is the perimeter of the initial rectangle?*
 
 ![[src_kangourou_2022_student__prob19.png]]
 
-> A rectangle is divided into 11 rectangles, as shown in the figure. The 11 rectangles are all similar to the starting rectangle, and the orientation of the smaller rectangles is the same as the starting rectangle. The length of the horizontal side of the smaller rectangles is 1. What is the perimeter of the starting rectangle?
->  
-> B C
-> 
+> A rectangle is divided into 11 rectangles, as shown in the picture. The 11 rectangles are all similar to the initial rectangle, and the orientation of the smaller rectangles is the same as that of the initial rectangle. The length of the horizontal side of the smaller rectangles is 1. What is the perimeter of the initial rectangle?
+>
 > A) 20
->   
 > B) 24
->   
-> C) 27 D) 30
+> C) 27
+> D) 30
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_student#q19|src_kangourou_2022_student__Q19]]
 
 
 
@@ -952,31 +1043,25 @@ The following information shall be provided:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*entire coordinate points*
+*How many points of the circle that bounds it have both coordinates integers?*
 
 ![[src_kangourou_2022_student__prob20.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.5]
-  \draw[->] (-5.5,0) -- (6,0) node[right] {$x$};
-  \draw[->] (0,-5.5) -- (0,6) node[above] {$y$};
-  \draw (0,0) circle (5);
-  \foreach \x in {-5,-4,-3,-2,-1,1,2,3,4,5} \draw[thin] (\x,0.1) -- (\x,-0.1);
-  \foreach \y in {-5,-4,-3,-2,-1,1,2,3,4,5} \draw[thin] (0.1,\y) -- (-0.1,\y);
-  \node[below right] at (5,0) {$5$};
-  \node[left] at (0,5) {$5$};
-\end{tikzpicture}
-\end{document}
-```
-
-> The circle in the figure is centered on the origin of an orthogonal Cartesian system and has a radius of 5. How many points on the circumference that delimits it have both coordinates integers? A) 4
->   
+> The circle in the picture is centred at the origin of a Cartesian coordinate system and has radius 5. How many points of the circle that bounds it have both coordinates integers?
+>
+> A) 4
 > B) 8
->   
-> (C) 12 D) 16 E) 2 Questions from N. 21 al N. 30 is worth 5 points each.
+> C) 12
+> D) 16
+> E) 2
+>
+> Questions 21 to 30 are worth 5 points each.
 
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_student#q20|src_kangourou_2022_student__Q20]]
 
 
 
@@ -1016,15 +1101,26 @@ The following information shall be provided:
 <div class="qlang-split" data-lang="en"></div>
 
 
-Try Martina not in the final
+*What is the probability that Martina does not reach the final?*
 
-> Martina is taking part in a chess tournament with seven other players. She knows that she can beat every opponent except Alfio, and that Alfio will beat every opponent. In the first round, the 8 players are randomly grouped into 4 pairs, and only the winner of each match moves on to the next round. The winners of the two matches of the second round play the final. What are the chances that Martina won't make it to the finals?
->  
-> 1 2 3 4 A) 1
->   
-> B)      2 C)       7 D)       7 E)      7
+> Martina takes part in a chess tournament with 7 other players. She knows that she will manage to beat all the opponents except Alfio, and that Alfio will beat every opponent. In the first round, the 8 players are arranged at random in 4 pairs, and only the winner of each game goes through to the next round. The winners of the two games of the second round play the final. What is the probability that Martina does not reach the final?
+>
+> 1
+> 2
+> 3
+> 4
+> A) 1
+> B) 2
+> C) 7
+> D) 7
+> E) 7
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_student#q21|src_kangourou_2022_student__Q21]]
 
 
 
@@ -1058,19 +1154,22 @@ Try Martina not in the final
 <div class="qlang-split" data-lang="en"></div>
 
 
-*3-digit integers = five times the product of the digits*
+*How many positive three-digit numbers are equal to five times the product of their own digits?*
 
-> How many three-digit positive integers are equal to five times the product of their own digits? A) 1
->   
+> How many positive three-digit numbers are equal to five times the product of their own digits?
+>
+> A) 1
 > B) 2
->   
 > C) 3
->   
 > D) 4
->   
 > E) 5
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_student#q22|src_kangourou_2022_student__Q22]]
 
 
 
@@ -1119,23 +1218,23 @@ Try Martina not in the final
 <div class="qlang-split" data-lang="en"></div>
 
 
-*circle ?*
+*What is the number in the circle marked with a question mark?*
 
 ![[src_kangourou_2022_student__prob23.png]]
 
-> The integers 1 to 10 are placed, without repetition, each in one of the ten circles arranged as shown in the figure. The sum of the numbers in the left column is 24, as well as the sum of the numbers in the right column, while the sum of the numbers in the row at the bottom of the drawing is 25. What is the number in the circle indicated by the question mark? A) 2
->   
+> The integers from 1 to 10 are placed, without repetitions, each in one of the ten circles arranged as in the picture. The sum of the numbers in the left-hand column is 24, as is the sum of the numbers in the right-hand column, while the sum of the numbers in the row at the bottom of the drawing is 25. What is the number in the circle marked with a question mark?
+>
+> A) 2
 > B) 4
->   
 > C) 5
->   
-> D) 6 E) None of the other answers is correct.
->   
-> E) 36 1 x y 5 5
->  
-> Page 32
+> D) 6
+> E) none of the other answers is correct
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_student#q23|src_kangourou_2022_student__Q23]]
 
 
 
@@ -1174,13 +1273,20 @@ Try Martina not in the final
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Transformation (x,y) ->(1/x,1/y) of the square*
+*Into which of the following figures is it transformed?*
 
 ![[src_kangourou_2022_student__prob24.png]]
 
-> The drawing shows the position of a square in an orthogonal Cartesian system. Each point (x, y) of the square is sent to point (1/x, 1/y). In which of the following figures is it transformed
+> The drawing shows the position of a square in a Cartesian coordinate system. Each point (x, y) of the square is sent to the point ( , ). Into which of the following figures is it transformed?
+>
+> x
 
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_student#q24|src_kangourou_2022_student__Q24]]
 
 
 
@@ -1228,26 +1334,22 @@ Try Martina not in the final
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many red sides*
+*How many red sides does the polygon have?*
 
-> The vertices of a 20-sided polygon are numbered from 1 to 20 so that the numbers on adjacent vertices differ by 1 or 2. The sides of the polygon whose ends differ only by 1 are painted red. How many red sides of the polygon are there? A) 1
->   
-> B) 2
->   
-> C) 5
->   
-> D) 10 E) Numberings involving different numbers of red sides are possible.
->   
-> C)
->   
-> 1    1 y B)
->      
-> D)
->   
-> E)
+> The vertices of a polygon with 20 sides have been numbered from 1 to 20 in such a way that the numbers on adjacent vertices differ by 1 or by 2. The sides of the polygon whose endpoints differ only by 1 are painted red. How many red sides does the polygon have?
 >
+> A) 1
+> B) 2
+> C) 5
+> D) 10
+> E) Numberings are possible that involve different numbers of red sides.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_student#q25|src_kangourou_2022_student__Q25]]
 
 
 
@@ -1284,17 +1386,23 @@ Try Martina not in the final
 <div class="qlang-split" data-lang="en"></div>
 
 
-*length LM*
+*How long is the segment LM?*
 
 ![[src_kangourou_2022_student__prob26.png]]
 
-> Note the figure: the edge of the AFMG rectangle is intersected by two circles, at eight points which delimit six outer segments of the circles. The lengths of five of these are known: AB = 8, CD = 26, EF = 22, GH = 12 and JK = 24. How long is the LM segment ? A) 14
->   
+> Look at the picture: the border of the rectangle AFMG is intersected by two circles, in eight points that bound six segments outside the circles. The lengths of five of them are known: AB = 8, CD = 26, EF = 22, GH = 12 and JK = 24. How long is the segment LM?
+>
+> A) 14
 > B) 15
->   
-> C) 16 D) 17 E) 18
+> C) 16
+> D) 17
+> E) 18
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_student#q26|src_kangourou_2022_student__Q26]]
 
 
 
@@ -1335,17 +1443,24 @@ Try Martina not in the final
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Laser beam in an equilateral triangle, distance PA*
+*How far is P from A?*
 
 ![[src_kangourou_2022_student__prob27.png]]
 
-> The ABC triangle in the figure is equilateral with side 60. A laser beam enters from a hole in the point R on the AC side, 20 from vertex A, with an inclination such as follows: the beam meets the side AB at the point P, reflects in accordance with the law of reflection on the point Q of the side BC and, always by reflection, exits the triangle by passing back from the point R, from where it had entered. How far is P from A ? A) 21
->   
+> The triangle ABC in the picture is equilateral of side 60. A laser ray enters it through a hole at the point R on the side AC, at a distance 20 from the vertex A, with an inclination such that the following happens: the ray meets the side AB at the point P, is reflected, obeying the law of reflection, at the point Q of the side BC and, again by reflection, leaves the triangle passing again through the point R, from which it had entered. How far is P from A?
+>
+> A) 21
 > B) 24
->   
-> C) 25 D) 27 E) 28
+> C) 25
+> D) 27
+> E) 28
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_student#q27|src_kangourou_2022_student__Q27]]
 
 
 
@@ -1377,19 +1492,20 @@ Try Martina not in the final
 <div class="qlang-split" data-lang="en"></div>
 
 
-*value of a2*
+*What is the value of a2?*
 
-> The first term a1 of a 
-> sequence of real numbers is 
-> between 0 and 1. For all n ≥ 
-> 1, a2n = a2 × an + 1 and a2n + 1 2 n What is 
-> the value of a2? 
-> A) Equal to a1.    B) 2  
-  
-  
+> The first term a1 of a sequence of real numbers lies between 0 and 1. For all n ≥ 1, a2n = a2 × an + 1 and a2n + 1 2 n. What is the value of a2?
+>
+> A) Equal to a1.
+> B) 2
 > C) 3
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_student#q28|src_kangourou_2022_student__Q28]]
 
 
 
@@ -1463,21 +1579,23 @@ Try Martina not in the final
 <div class="qlang-split" data-lang="en"></div>
 
 
-*fraction of lost volume*
+*What fraction of the volume of the original prism was lost in passing to the new solid?*
 
 ![[src_kangourou_2022_student__prob29.png]]
 
-> From a regular hexagonal prism, six pyramids were removed, with their base on the upper face and vertices at the vertices of the lower face. The new solid has the upper face consisting of a hexagon with vertices in the mid-point of the sides of the upper face of the original prism and 12 triangular faces of two different shapes; the figure illustrates the operation and the result. What fraction of the volume of the original prism was lost by moving to the new solid?
->  
-> 8 26 22 12 24 AB C D E F G H J K L M A P R 20 ? =  a  ×  a  – 2. We know that a is equal to 2. D) 4
->   
-> E) 5
-> 
-> This page is not complete.
->  
-> A) 1 / 12 B) 1 / 6 C) 1 / 4√3 D) 1 / 6√2 E) 1 / 6√3
+> From a regular prism with a hexagonal base, six mutually congruent pyramids have been removed, with base on the upper face and vertex at the vertices of the lower face. The new solid has its upper face made up of the hexagon that has its vertices at the midpoints of the sides of the upper face of the original prism, and 12 triangular faces of two different shapes; the picture illustrates the operation and the result. What fraction of the volume of the original prism was lost in passing to the new solid?
+>
+> A) 1 / 12
+> B) 1 / 6
+> C) 1 / 4√3
+> D) 1 / 6√2
+> E) 1 / 6√3
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_student#q29|src_kangourou_2022_student__Q29]]
 
 
 
@@ -1552,59 +1670,19 @@ Try Martina not in the final
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum seats*
+*How many seats can the stand have, at least?*
 
-> A football match between the Kang Nord team and the Kang Sud team is played
-> in a stadium that has a stand with seats for spectators arranged in a rectangle. In
-> every horizontal row of seats there are exactly 11 Kang Nord fans, while in
-> every vertical row of seats there are exactly 14 Kang Sud fans. The seats not
-> occupied by fans are exactly 17. What is the minimum number of seats the stand can have?
+> A football match between the team of Kang Nord and that of Kang Sud is played in a stadium that has a stand with the spectators' seats arranged in a rectangle. In every horizontal row of seats there are exactly 11 supporters of Kang Nord, while in every vertical row of seats there are exactly 14 supporters of Kang Sud. The seats not occupied by supporters are exactly 17. How many seats can the stand have, at least?
+>
 > A) 500
 > B) 660
 > C) 690
 > D) 840
 > E) 994
->  
-> 0 
-> 1
-> 1 
-> 1
-> 2 
-> 1
-> 3 
-> 1
-> 4 
-> 1
-> 5 
-> 1
-> 6 
-> 1
-> 7 
-> 1
-> 8 
-> 1
-> 9 
-> 2
-> 0 
-> 2
-> 1 
-> 2
-> 2 
-> 2
-> 3 
-> 2
-> 4 
-> 2
-> 5 
-> 2
-> 6 
-> 2
-> 7 
-> 2
-> 8 
-> 2
-> 9 
-> 3
-> 0
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_student#q30|src_kangourou_2022_student__Q30]]

@@ -28,9 +28,14 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC con punti K,L su BC; AL divide angolo KAC*
+*Due punti su un lato, un prodotto di lunghezze e una bisettrice: la bisettrice è perpendicolare a un lato*
 
-> Nel triangolo $ABC$, $K$ e $L$ sono punti sul lato $BC$ ($K$ sono più vicini a $B$ che a $L$) in modo tale che $BC \cdot KL = BK \cdot CL$ e $AL$ bisecciano $\angle KAC$. Indicare che $AL$ è perpendicolare a $AB$.
+> Nel triangolo $ABC$, $K$ e $L$ sono punti del lato $BC$, con $K$ più vicino a $B$ di quanto lo sia $L$, tali che $BC \cdot KL = BK \cdot CL$ e $AL$ biseca $\angle KAC$. Dimostrare che $AL$ è perpendicolare a $AB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1995#q01|src_rmo_1995__Q01]]
 
 
 
@@ -53,9 +58,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un intero positivo n è buono se esistono n interi con prodotto e somma uguali*
+*Un intero positivo n è buono se è somma e prodotto di n interi. Lo sono i numeri della forma 4k+1 e 4l con l almeno 2*
 
-> Indicare un intero positivo $n$ **buono** se ci sono $n$ integri positivi o negativi, e non necessariamente distinti, in modo tale che il loro prodotto e la loro somma siano entrambi uguali a $n$ (ad esempio, $8$ è **buono** dal momento che $8 = 4 \cdot 2 \cdot 1 \cdot 1 \cdot 1 \cdot (-1)(-1) = 4 + 2 + 1 + 1 + 1 + (-1) + (-1)$). Indicare che gli integri del modulo $4k+1$ ($k \ge 0$) e $4l$ ($l \ge 2$) sono **good**.
+> Si dica **buono** un intero positivo $n$ se esistono $n$ interi, positivi o negativi, non necessariamente distinti, tali che il loro prodotto e la loro somma siano entrambi uguali a $n$. Per esempio, $8$ è **buono** poiché $8 = 4 \cdot 2 \cdot 1 \cdot 1 \cdot 1 \cdot (-1)(-1) = 4 + 2 + 1 + 1 + 1 + (-1) + (-1)$. Dimostrare che gli interi della forma $4k+1$ ($k \ge 0$) e $4l$ ($l \ge 2$) sono **buoni**.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_rmo_1995#q02|src_rmo_1995__Q02]]
 
 
 
@@ -78,9 +89,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tra tutti i 18 numeri a 3 cifre consecutivi, uno è divisibile per la somma delle sue cifre*
+*Fra 18 numeri consecutivi di tre cifre ce n'è almeno uno divisibile per la somma delle proprie cifre*
 
-> Prove che tra tutti i numeri $18$ di $3$ ci sono almeno un numero divisibile dalla somma delle sue cifre.
+> Dimostrare che fra $18$ numeri consecutivi di $3$ cifre ce n'è almeno uno divisibile per la somma delle proprie cifre.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_rmo_1995#q03|src_rmo_1995__Q03]]
 
 
 
@@ -105,9 +122,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadratici x^2 + 7x - 14(q^2+1) con q intero non hanno radice di numero intero*
+*L'equazione x² + 7x − 14(q² + 1) = 0, con q intero, non ha radici intere*
 
-> Mostra che l'espressione quadrata $$x^2 + 7x - 14(q^2 + 1) = 0,$$ dove $q$ è un intero, non ha radice di numero intero.
+> Dimostrare che l'equazione
+>
+> $$x^2 + 7x - 14(q^2 + 1) = 0,$$
+>
+> dove $q$ è un intero, non ha radici intere.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_rmo_1995#q04|src_rmo_1995__Q04]]
 
 
 
@@ -132,9 +159,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disuguaglianza triangolare: a^2+b^2+c^2 > sqrt(3) max{|a^2-b^2|,|b^2-c^2|,|c^2-a^2|}*
+*In ogni triangolo, a² + b² + c² supera √3 per il massimo scarto fra i quadrati dei lati*
 
-> Mostrare che per qualsiasi triangolo $ABC$, la seguente disuguaglianza è vera: $$a^2 + b^2 + c^2 > \sqrt{3} \max\{|a^2 - b^2|,\, |b^2 - c^2|,\, |c^2 - a^2|\},$$ dove $a$, $b$, $c$ sono, come al solito, i lati del triangolo.
+> Dimostrare che per ogni triangolo $ABC$ vale la disuguaglianza
+>
+> $$a^2 + b^2 + c^2 > \sqrt{3} \max\{|a^2 - b^2|,\, |b^2 - c^2|,\, |c^2 - a^2|\},$$
+>
+> dove $a$, $b$, $c$ sono, come di consueto, i lati del triangolo.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+
+[[Quesiti/src_rmo_1995#q05|src_rmo_1995__Q05]]
 
 
 
@@ -157,9 +194,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-Poligono regolare a 21 lati inciso in cerchio; triangoli di conteggio contenenti il centro*
+*Poligono regolare di 21 lati inscritto in una circonferenza: quanti triangoli di vertici del poligono contengono il centro*
 
-> Il $A_1 A_2 A_3 \ldots A_{21}$ deve essere un poligono regolare laterale $21$ inciso in un cerchio con il centro $O$. Quanti triangoli $A_i A_j A_k$, $1 \le i < j < k \le 21$ contengono il punto $O$ all'interno?
+> Sia $A_1 A_2 A_3 \ldots A_{21}$ un poligono regolare di $21$ lati inscritto in una circonferenza di centro $O$. Quanti triangoli $A_i A_j A_k$, $1 \le i < j < k \le 21$, contengono il punto $O$ al loro interno?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_rmo_1995#q06|src_rmo_1995__Q06]]
 
 
 
@@ -183,6 +226,14 @@ Poligono regolare a 21 lati inciso in cerchio; triangoli di conteggio contenenti
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove x^2 sin x + x cos x + x^2 + 1/2 > 0 per tutte le vere x*
+*Per ogni reale x, x² sin x + x cos x + x² + 1/2 > 0*
 
-> Indicare che per qualsiasi numero reale $x$, $$x^2 \sin x + x \cos x + x^2 + \frac{1}{2} > 0.$$
+> Dimostrare che per ogni numero reale $x$
+>
+> $$x^2 \sin x + x \cos x + x^2 + \frac{1}{2} > 0.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_rmo_1995#q07|src_rmo_1995__Q07]]

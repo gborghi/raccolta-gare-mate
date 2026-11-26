@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of pupils (77 handshakes)*
+*Number of students (77 handshakes)*
 
-> In a classroom where there are at least two males and two females, each boy shakes each girl's hand once. A total of 77 handshakes were made. How many students (without discriminating between males and females) are in that class?
+> In a class containing at least two boys and two girls, each boy shakes hands with each girl once. In total, 77 handshakes have taken place. How many students are there in that class (without distinguishing between boys and girls)?
 
-**Answer:** 18
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_cadet_maggio#qc1|src_kangourou_2007_cadet_maggio__QC1]]
 
 
 
@@ -59,13 +64,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the fourth triangle (quadrilateral diagonals)*
+*Area of the fourth triangle (diagonals of the quadrilateral)*
 
 ![[src_kangourou_2007_cadet_maggio__probc2.png]]
 
-> The diagonals divide the quadrilateral in the figure into four triangles, three of which have the areas indicated ($2$, $3$ and $1$ respectively). What is the area of the fourth triangle (in relation to the same unit of measurement)? (see figure)
+> The diagonals divide the quadrilateral in the figure into four triangles; the areas of three of them are indicated ($2$, $3$, and $1$, respectively). What is the area of the fourth triangle (in the same unit of measurement)? (see figure)
 
-**Answer:** 1,5
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_cadet_maggio#qc2|src_kangourou_2007_cadet_maggio__QC2]]
 
 
 
@@ -89,11 +98,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max number of numbers chosen without a multiple sum of 3*
+*Maximum number of chosen numbers with no sum that is a multiple of 3*
 
-> Consider the integers from $1$ to $25$ included. You want to pick a few so that the sum of any two of those you choose is not a multiple of $3$. How many numbers can you pick?
+> Consider the integers from $1$ to $25$, inclusive. You want to choose some of them so that the sum of any two of the chosen numbers is not a multiple of $3$. What is the maximum number of numbers you can choose?
 
-**Answer:** 10
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_cadet_maggio#qc3|src_kangourou_2007_cadet_maggio__QC3]]
 
 
 
@@ -119,13 +133,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cover an 8x8 chessboard with 21 tiles 1x3*
+*Cover an 8x8 chessboard with 21 1x3 tiles*
 
 ![[src_kangourou_2007_cadet_maggio__probc4.png]]
 
-> Is it possible to place $21$ rectangular tiles, the sides of which measure $1$ cm and $3$ cm, on a chessboard $8 \times 8$ made up of squares of side $1$ cm so that there are no tiles protruding from the grid or partially overlapping? In the case of a yes answer, show with a drawing how you would arrange the tiles; in the case of a negative answer, explain why it is not possible.
+> Is it possible to place $21$ rectangular tiles, whose sides measure $1$ cm and $3$ cm, on a $8 \times 8$ chessboard made up of squares with sides of $1$ cm, in such a way that no tiles extend beyond the grid and no tiles overlap partially? If the answer is yes, show in a drawing how you would arrange the tiles; if the answer is no, explain why it is not possible.
 
-**Answer:** yes
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_cadet_maggio#qc4|src_kangourou_2007_cadet_maggio__QC4]]
 
 
 
@@ -149,11 +168,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many bridges (rectangular grid diagonal)*
+*How many bridges (diagonal of a rectangular grid)*
 
-> A megalopolis has the shape of a rectangle of $20$ km per $13$ km; it is divided into square areas of one kilometer per side. The city is crossed diagonally (hence from a vertex to the opposite vertex) by a river that we imagine to be straight and wire-shaped; it cannot be forded, so bridges are needed. The City Council has decided to build a bridge in every area crossed by the river. How many bridges do you need to build? Would it change anything if the measurements of the city were $21$ km and $12$ km? Reason your claims.
+> A megalopolis is shaped like a rectangle measuring $20$ km by $13$ km; it is divided into square zones one kilometre on a side. A river—which we imagine to be straight and thread-like—runs diagonally through the city (that is, from one vertex to the opposite vertex); the river cannot be forded, so bridges are needed. The Municipal Council has resolved to build a bridge in each zone traversed by the river. How many bridges need to be built? Would anything change if the dimensions of the city were $21$ km and $12$ km? Justify your statements.
 
-**Answer:** 32 (and 30)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_cadet_maggio#qc5|src_kangourou_2007_cadet_maggio__QC5]]
 
 
 
@@ -177,8 +201,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Sum of the first six decimal places of 2^2007/7*
+*Sum of the first six decimal digits of 2^2007/7*
 
-> What is the sum of the first six digits after the decimal point of the division by $7$ of $2^{2007}$?
+> What is the sum of the first six digits after the decimal point in the division of $2^{2007}$ by $7$?
 
-**Answer:** 27
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_cadet_maggio#qc6|src_kangourou_2007_cadet_maggio__QC6]]

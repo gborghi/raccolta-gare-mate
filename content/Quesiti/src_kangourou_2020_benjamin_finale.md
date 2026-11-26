@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum four-pen bags with a maximum of two of the same colour*
+*Maximum of 4 pens per pack, with at most two of the same color*
 
-> Luisa has many pens: 29 red, 13 blue, and 20 black. She wants to pack bags containing four pens each, so that no bag contains more than two pens of the same color. How many bags can she pack?
+> Luisa has many pens: 29 red, 13 blue, and 20 black. She wants to make bags, each containing 4 pens, so that no bag contains more than two pens of the same color. What is the maximum number of bags she can make?
 
-**Answer:** 15
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_benjamin_finale#qb1|src_kangourou_2020_benjamin_finale__QB1]]
 
 
 
@@ -63,9 +68,13 @@ level: kangourou
 
 ![[src_kangourou_2020_benjamin_finale__probb2.png]]
 
-> The four arcs that border the shaded region are all the same length, equal to the length of the two dashed arcs. This length is a quarter of the length of a circle of radius 1 cm. How many square centimetres is the area of the shaded region? (see figure)
+> The four arcs that bound the shaded region are all of the same length, equal to the length of the two dashed arcs. This length is one quarter of the circumference of a circle with a radius of 1 cm. What is the area of the shaded region in square centimeters? (see figure)
 
-**Answer:** 2
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_benjamin_finale#qb2|src_kangourou_2020_benjamin_finale__QB2]]
 
 
 
@@ -90,11 +99,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fill the 6x6 grid with/without special position number*
+*Fill a 6x6 grid with/without a number in a special position*
 
 ![[src_kangourou_2020_benjamin_finale__probb3.png]]
 
-> Here on the side you see two square grids of 6 rows and 6 columns each: you can fill them in many different ways by entering, one for each box, all the integers from 1 to 36. If, after filling the grid, it happens that one of the numbers you entered is the largest of all those in its row and at the same time the smallest of all those in its column, you'll say that number is in a special position relative to the way you filled the grid. Fill the first grid so that there is at least one special position number and the second so that there are no special position numbers. As long as you fill in the grids (circling the number in a special position in the first one), no explanation is required. (see figure)
+> On the left, you see two square grids, each with 6 rows and 6 columns: you can fill them in many different ways by inserting, one in each cell, all the integers from 1 to 36. If, after filling a grid, one of the numbers inserted turns out to be the largest among all the numbers in its row and at the same time the smallest among all the numbers in its column, you will say that this number is in a special position relative to the way you filled the grid. Fill the first grid so that there is at least one number in a special position, and fill the second grid so that no numbers are in a special position. You only need to fill the grids (by circling in the first grid the number in a special position); no explanations are required. (see figure)
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_benjamin_finale#qb3|src_kangourou_2020_benjamin_finale__QB3]]
 
 
 
@@ -119,13 +135,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the numbers of the candles per serving (two cuts)*
+*Sum of the numbers on the candles per portion (two cuts)*
 
 ![[src_kangourou_2020_benjamin_finale__probb4.png]]
 
-> On Rita's birthday cake, 12 candles are arranged regularly, each marked with its own number (as if they were hours on a clock, as suggested by the figure). Rita makes two distinct straight cuts, which cross the cake completely, and divide it into portions. If each candle is on a single serving and the sum of the numbers on the candles of each serving are all the same, what is the sum of the numbers on the candles of each serving? (see figure)
+> On Rita's birthday cake, 12 candles are arranged in a regular pattern, each marked with its own number (as if they were the hours on a clock, as suggested by the figure). Rita makes two distinct straight cuts that go completely through the cake and divide it into several pieces. If each candle is on exactly one piece and the sums of the numbers on the candles in each piece are all equal, what is the sum of the numbers on the candles in each piece? (see figure)
 
-**Answer:** 26
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_benjamin_finale#qb4|src_kangourou_2020_benjamin_finale__QB4]]
 
 
 
@@ -168,7 +188,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance of P from A by minimum route C-M (reflection)*
+*Distance of P from A for the minimum C-M route (reflection)*
 
 ![[src_kangourou_2020_benjamin_finale__probb5.png]]
 
@@ -189,9 +209,14 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure see a rectangle $ABCD$ of sides of 12 mm and 24 mm where a median intersects in $M$ the side $AB$. I have to go from $C$ to $M$ by touching the $AD$ segment at a $P$ point: if I want to go the shortest route possible, how many millimeters must I take away from $P$? (see figure)
+> In the figure, you see a rectangle $ABCD$ with sides 12 mm and 24 mm, in which a median intersects side $AB$ at $M$. I must go from $C$ to $M$, touching segment $AD$ at a point $P$: if I want to follow the shortest possible route, how many millimetres must the distance between $P$ and $A$ be? (see figure)
 
-**Answer:** 8 mm
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_benjamin_finale#qb5|src_kangourou_2020_benjamin_finale__QB5]]
 
 
 
@@ -215,8 +240,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Units digit of n where 7n has 2021 digits*
+*Number of units of n with 7n digits in 2021*
 
-> If $n$ is the smallest positive integer such that the number $7 \times n$ has 2021 digits. What is the units digit of $n$?
+> Let $n$ be the smallest positive integer such that the number $7 \times n$ has 2021 digits. What is the units digit of $n$?
 
-**Answer:** 9
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_benjamin_finale#qb6|src_kangourou_2020_benjamin_finale__QB6]]

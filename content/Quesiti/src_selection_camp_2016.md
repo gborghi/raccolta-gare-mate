@@ -29,9 +29,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bissettore angolare, tangente di circoncircolo, uguale angolo di intersezione di circoncircolo*
+*Bisettrice dell'angolo, tangente alla circonferenza circoscritta, uguaglianza degli angoli di intersezione con la circonferenza circoscritta*
 
-> $ABC$ sia un triangolo acuto e $M$ il punto medio del lato $BC$. $\ell$ sia il bisettore angolare di $\angle BAC$, e $D$ sia l'intersezione di $\ell$ con la tangente al circoncircolo del triangolo $ABC$ a $C$. Il $H$ deve essere un punto su $\ell$ tale che $\angle ABH = 90^\circ$. Il $P$ deve essere il secondo punto di intersezione (diversi da $C$) del circoncircolo del triangolo $CDH$ e del circoncircolo del triangolo $ABC$. Prova che $\angle CPM = \angle ACB$.
+> Sia $ABC$ un triangolo acutangolo, e sia $M$ il punto medio del lato $BC$. Sia $\ell$ la bisettrice dell'angolo $\angle BAC$, e sia $D$ l'intersezione di $\ell$ con la tangente alla circonferenza circoscritta al triangolo $ABC$ nel punto $C$. Sia $H$ un punto su $\ell$ tale che $\angle ABH = 90^\circ$. Sia $P$ il secondo punto d'intersezione (diverso da $C$) tra la circonferenza circoscritta al triangolo $CDH$ e la circonferenza circoscritta al triangolo $ABC$. Dimostrare che $\angle CPM = \angle ACB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2016#q01|src_selection_camp_2016__Q01]]
 
 
 
@@ -59,11 +66,21 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova n minimo per set con partizioni buone esattamente 2015*
+*Trovare il minimo n per un insieme con esattamente 2015 partizioni valide*
 
-> $A$ sia un insieme composto da $n$ diversi interi positivi. Una coppia di sottogruppi $(A_1, A_2)$ è chiamata **buona partizione ** se soddisfa le seguenti condizioni: - $A_1 \neq \emptyset$, $A_2 \neq \emptyset$. - $A_1 \cap A_2 = \emptyset$, $A_1 \cup A_2 = A$. - Il più piccolo multiplo comune di tutti gli elementi di $A_1$ è uguale al più grande divisore comune di tutti gli elementi di $A_2$.
-> 
-> Trova il valore più piccolo di $n$ in modo che esista un insieme $A$ con esattamente $2015$ buone partizioni. (Qui $\emptyset$ indica l'insieme vuoto.)
+> Sia $A$ un insieme costituito da $n$ interi positivi distinti. Una coppia di sottoinsiemi $(A_1, A_2)$ è detta **partizione buona** se soddisfa le seguenti condizioni:
+> - $A_1 \neq \emptyset$, $A_2 \neq \emptyset$.
+> - $A_1 \cap A_2 = \emptyset$, $A_1 \cup A_2 = A$.
+> Il minimo comune multiplo di tutti gli elementi di $A_1$ è uguale al massimo comune divisore di tutti gli elementi di $A_2$.
+>
+> Trovare il valore minimo di $n$ tale che esista un insieme $A$ con esattamente $2015$ partizioni buone. (Qui $\emptyset$ denota l'insieme vuoto.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2016#q02|src_selection_camp_2016__Q02]]
 
 
 
@@ -89,11 +106,19 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomi gemelli: esistenza per il grado n+1, non esistenza per il grado n*
+*Polinomi gemelli: esistenza per il grado n+1, inesistenza per il grado n*
 
-> $n$ sia un numero intero con $n \ge 2$. Due polinomi a coefficiente reale $P(x)$ e $Q(x)$ sono chiamati **look-alike** se per ogni numero intero $i$ con $1 \le i \le n$, la sequenza $P(2015i),\, P(2015i-1),\, \ldots,\, P(2015i - 2014)$ è un riordinamento di $Q(2015i),\, Q(2015i-1),\, \ldots,\, Q(2015i-2014)$.
-> 
-> (a) Prove che esistono due polinomi distinti di grado $n+1$ che sono simili. b) dimostrare che non esistono due polinomi distinti di grado $n$ che siano simili.
+> Sia $n$ un numero intero tale che $n \ge 2$. Due polinomi a coefficienti reali, $P(x)$ e $Q(x)$, sono detti **simili nell'aspetto** se, per ogni numero intero $i$ tale che $1 \le i \le n$, la successione $P(2015i),\, P(2015i-1),\, \ldots,\, P(2015i - 2014)$ è una permutazione di $Q(2015i),\, Q(2015i-1),\, \ldots,\, Q(2015i-2014)$.
+>
+> (a) Dimostrare che esistono due polinomi distinti di grado $n+1$ che sono simili nell'aspetto.
+> (b) Dimostrare che non esistono due polinomi distinti di grado $n$ che siano simili nell'aspetto.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_simmetria|Simmetria]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2016#q03|src_selection_camp_2016__Q03]]
 
 
 
@@ -116,9 +141,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prodotto di frazioni min 1 divisibili da un primo odd*
+*Il prodotto di frazioni meno 1 è divisibile per un numero primo dispari*
 
-> $m, n$ siano integri positivi che soddisfino $m > n$. Per $k = 1, 2, \ldots, n+1$, definire $x_k = \dfrac{m+k}{n+k}$. Supponiamo che $x_1, x_2, \ldots, x_{n+1}$ siano tutti numeri interi. Prove che $x_1 x_2 \cdots x_{n+1} - 1$ è divisibile da qualche primo pari.
+> Sia $m, n$ un insieme di interi positivi che soddisfano $m > n$. Per $k = 1, 2, \ldots, n+1$, si definisca $x_k = \dfrac{m+k}{n+k}$. Si supponga che $x_1, x_2, \ldots, x_{n+1}$ siano tutti interi. Si dimostri che $x_1 x_2 \cdots x_{n+1} - 1$ è divisibile per un qualche numero primo dispari.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2016#q04|src_selection_camp_2016__Q04]]
 
 
 
@@ -142,9 +174,17 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di funzioni che soddisfano un'equazione funzionale razionale*
+*Trovare tutte le coppie di funzioni che soddisfano un'equazione funzionale razionale*
 
-> Trova tutte le coppie di funzioni $(f, g)$ definite sui razionali e prendi valori razionali in modo tale che per tutti i numeri razionali $x, y$, $$f(f(x) + yg(x)) = (x+1)g(y) + f(y).$$
+> Trovare tutte le coppie di funzioni $(f, g)$ definite sui numeri razionali e a valori razionali tali che, per tutti i numeri razionali $x, y$,
+> $$f(f(x) + yg(x)) = (x+1)g(y) + f(y).$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2016#q05|src_selection_camp_2016__Q05]]
 
 
 
@@ -167,9 +207,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di strette di mano per garantire l'infezione di tutte le persone del 2015*
+*Numero minimo di strette di mano per garantire l'infezione di tutte le 2015 persone*
 
-> Ci sono persone $2015$. Inizialmente, esattamente la persona $1$ è infetta dalla febbre IMO, ma non è noto chi sia. Quando due persone si stringono la mano, se uno di loro è infetto, l'altro diventa infetto. Qual è il numero minimo di strette di mano che deve verificarsi per garantire che tutte le persone $2015$ siano infette, indipendentemente da chi sia la persona infetta iniziale?
+> Ci sono $2015$ persone. Inizialmente, esattamente $1$ persone sono infette dalla febbre IMO, ma non si sa chi sia quella persona. Quando due persone si stringono la mano, se una di esse era infetta, anche l'altra si infetta. Qual è il numero minimo di strette di mano che devono avvenire per garantire che tutte le $2015$ persone siano infette, indipendentemente da chi sia la persona inizialmente infetta?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2016#q06|src_selection_camp_2016__Q06]]
 
 
 
@@ -193,9 +240,17 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la costante minima k per una disuguaglianza di somma rispetto ai valori reali positivi*
+*Trovare il valore minimo della costante k per una disuguaglianza sulla somma in ambito di numeri reali positivi*
 
-> Trova il numero reale più piccolo $k$ in modo che per ogni intero $n \ge 2$ e ogni sequenza di numeri reali positivi $a_0, a_1, \ldots, a_n$, $$\frac{1}{a_0+a_1} + \frac{1}{a_0+a_1+a_2} + \cdots + \frac{1}{a_0+a_1+\cdots+a_n} < k\left(\frac{1}{a_0} + \frac{1}{a_1} + \cdots + \frac{1}{a_n}\right).$$
+> Trovare il più piccolo numero reale $k$ tale che, per ogni numero intero $n \ge 2$ e per ogni successione di numeri reali positivi $a_0, a_1, \ldots, a_n$,
+> $$\frac{1}{a_0+a_1} + \frac{1}{a_0+a_1+a_2} + \cdots + \frac{1}{a_0+a_1+\cdots+a_n} < k\left(\frac{1}{a_0} + \frac{1}{a_1} + \cdots + \frac{1}{a_n}\right).$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2016#q07|src_selection_camp_2016__Q07]]
 
 
 
@@ -218,9 +273,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio BT/BM quando il cerchio attraversa B,M incontra i lati a P,Q e BPTQ è parallelo sul cerchio*
+*Rapporto BT/BM quando la circonferenza passante per B e M interseca i lati nei punti P e Q e BPTQ è un parallelogramma inscritto nella circonferenza circoscritta*
 
-> In un triangolo acuto $ABC$, $M$ deve essere il punto medio del lato $AC$. Un cerchio $\omega$ attraversa $B$ e $M$ e incontra i lati $AB$ e $BC$ rispettivamente nei punti $P$ e $Q$ (con $P \neq B$ e $Q \neq B$). Il punto $T$ deve essere tale che $BPTQ$ sia un parallelo. Se $T$ si trova sul circoncircolo del triangolo $ABC$, si trova il valore di $\dfrac{BT}{BM}$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> In un triangolo acuto $ABC$, sia $M$ il punto medio del lato $AC$. Una circonferenza $\omega$ passa per $B$ e $M$, e interseca i lati $AB$ e $BC$ nei punti $P$ e $Q$ rispettivamente (con $P \neq B$ e $Q \neq B$). Sia $T$ il punto tale che $BPTQ$ sia un parallelogramma. Se $T$ giace sulla circonferenza circoscritta al triangolo $ABC$, determina il valore di $\dfrac{BT}{BM}$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2016#q08|src_selection_camp_2016__Q08]]
 
 
 
@@ -244,9 +306,17 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i quadrupli primari p<q<r<s con p^s - r^q = 3*
+*Trovare tutte le quaterne di numeri primi p<q<r<s tali che p^s - r^q = 3*
 
-> Trova tutti i quadrupli di numeri primi $(p, q, r, s)$ con $p < q < r < s$ soddisfacente $$p^s - r^q = 3.$$
+> Trovare tutte le quaruple di numeri primi $(p, q, r, s)$ con $p < q < r < s$ che soddisfano
+> $$p^s - r^q = 3.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2016#q09|src_selection_camp_2016__Q09]]
 
 
 
@@ -273,11 +343,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massimo n per il posizionamento di numeri simili a serpenti nel 2015×2015 grid*
+*Valore massimo di n per la collocazione dei numeri a forma di serpente in una griglia 2015×2015*
 
-> In una griglia $2015 \times 2015$ sono scritti i numeri interi $1, 2, \ldots, n$, uno in ciascuna delle celle distinte $n$, soddisfacendo le seguenti condizioni: - Per ogni numero intero $i$ con $1 \le i \le n-1$, la cellula contenente $i$ e la cellula contenente $i+1$ condividono un bordo, e la cellula contenente $n$ e la cellula contenente $1$ condividono un bordo. Inoltre, nessuna delle due celle che contengono entrambi i numeri condivide un bordo, eccetto per quelle coppie descritte sopra. - Per tutti gli integri $i, j$ con $1 \le i < j \le n$, se la cella contenente $i$ e la cella contenente $j$ condividono solo un angolo (vertice), allora $\min\{j - i,\, n + i - j\} = 2$.
-> 
-> Trova il valore massimo possibile di $n$.
+> In una griglia $2015 \times 2015$, gli interi $1, 2, \ldots, n$ vengono scritti, uno in ciascuna delle $n$ celle distinte, soddisfacendo le seguenti condizioni:
+> - Per ogni intero $i$ con $1 \le i \le n-1$, la cella che contiene $i$ e la cella che contiene $i+1$ condividono un lato, e la cella che contiene $n$ e la cella che contiene $1$ condividono un lato. Inoltre, nessuna coppia di celle che contengano entrambe dei numeri condivide un lato, fatta eccezione per le coppie descritte sopra.
+> - Per ogni intero $i, j$ con $1 \le i < j \le n$, se la cella che contiene $i$ e la cella che contiene $j$ condividono solo un angolo (vertice), allora $\min\{j - i,\, n + i - j\} = 2$.
+>
+> Trovare il valore massimo possibile di $n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2016#q10|src_selection_camp_2016__Q10]]
 
 
 
@@ -302,9 +381,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le sequenze definite dalla ricorrenza gcd e lcm diventano infine periodiche*
+*Le successioni definite dalla ricorrenza del mcd e del mcm diventano infine periodiche*
 
-> Che $a_0, a_1, \ldots$ e $b_0, b_1, \ldots$ siano sequenze di integri positivi che soddisfino $a_0, b_0 \ge 2$ e, per ogni intero non negativo $n$, $$a_{n+1} = \gcd(a_n, b_n) + 1, \quad b_{n+1} = \operatorname{lcm}(a_n, b_n) - 1.$$ dimostri che esiste un intero non negativo $N$ e un intero positivo $t$ tale che $a_{n+t} = a_n$ sia valido per ogni intero $n \ge N$. (Qui $\gcd(x, y)$ e $\operatorname{lcm}(x, y)$ indicano rispettivamente il più grande divisore comune e il più piccolo multiplo comune degli integri positivi $x$ e $y$.)
+> Siano $a_0, a_1, \ldots$ e $b_0, b_1, \ldots$ successioni di interi positivi che soddisfano $a_0, b_0 \ge 2$ e, per ogni intero non negativo $n$,
+> $$a_{n+1} = \gcd(a_n, b_n) + 1, \quad b_{n+1} = \operatorname{lcm}(a_n, b_n) - 1.$$
+> Dimostrare che esistono un intero non negativo $N$ e un intero positivo $t$ tali che $a_{n+t} = a_n$ vale per ogni intero $n \ge N$. (Qui $\gcd(x, y)$ e $\operatorname{lcm}(x, y)$ denotano rispettivamente il massimo comune divisore e il minimo comune multiplo degli interi positivi $x$ e $y$.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2016#q11|src_selection_camp_2016__Q11]]
 
 
 
@@ -327,6 +415,13 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterali con cerchi incisi su quattro sottoquadrilaterali: tre linee simultanee o parallele*
+*Quadrilatero con cerchi inscritti nei quattro sott quadrilateri: tre rette concorrenti o parallele*
 
-> $ABCD$ sia un quadrilaterale convexo e $P, Q, R, S$ punti sui lati $AB, BC, CD, DA$ rispettivamente. Il segmento $O$ deve essere l'intersezione tra $PR$ e $QS$. Supponiamo che ciascuno dei quadrilaterali $APOS$, $BQOP$, $CROQ$ e $DSOR$ abbia un cerchio inciso. Prove che le tre linee $AC$, $PQ$ e $RS$ si incontrano in un unico punto o sono reciprocamente parallele.
+> Sia $ABCD$ un quadrilatero convesso, e siano $P, Q, R, S$ dei punti situati sui lati $AB, BC, CD, DA$ rispettivamente. Sia $O$ l'intersezione dei segmenti $PR$ e $QS$. Si supponga che ciascuno dei quadrilateri $APOS$, $BQOP$, $CROQ$ e $DSOR$ abbia un cerchio inscritto. Dimostrare che le tre rette $AC$, $PQ$ e $RS$ o concorrono tutte in un unico punto oppure sono mutuamente parallele.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2016#q12|src_selection_camp_2016__Q12]]

@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova i primi p<200 dove p,p+2,p+6,p+8,p+12 sono tutti primi; primo q unico per q+2,q+6,q+8,q+12,q+14 tutti primi*
+*Trovare i numeri primi p<200 tali che p, p+2, p+6, p+8, p+12 siano tutti primi; trova l'unico numero primo q tale che q+2, q+6, q+8, q+12, q+14 siano tutti primi*
 
-> Indicare che ci sono almeno tre numeri primi $p$ inferiori a 200 per i quali $p+2$, $p+6$, $p+8$ e $p+12$ sono tutti primi. Indicare inoltre che esiste un solo numero primo $q$ per il quale $q+2$, $q+6$, $q+8$, $q+12$ e $q+14$ sono tutti numeri primi.
+> Dimostrare che esistono almeno tre numeri primi $p$ minori di 200 per i quali $p+2$, $p+6$, $p+8$ e $p+12$ sono tutti primi. Dimostra inoltre che esiste un unico numero primo $q$ per il quale $q+2$, $q+6$, $q+8$, $q+12$ e $q+14$ sono tutti primi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2019-20_round1#q01|src_bmo_2019-20_round1__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i possibili valori di a_1 in una sequenza di numeri interi che soddisfa una ricorrenza*
+*Trovare tutti i valori possibili di a_1 in una successione di numeri interi che soddisfa una relazione di ricorrenza*
 
-> Una sequenza di integri $a_1, a_2, a_3, \ldots$ soddisfa la relazione: $$4a_{n+1}^2 - 4a_n a_{n+1} + a_n^2 - 1 = 0$$ per tutti gli integri positivi $n$. Quali sono i valori possibili di $a_1$?
+> Una successione di interi $a_1, a_2, a_3, \ldots$ soddisfa la relazione:
+> $$4a_{n+1}^2 - 4a_n a_{n+1} + a_n^2 - 1 = 0$$
+> per tutti gli interi positivi $n$. Quali sono i valori possibili di $a_1$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2019-20_round1#q02|src_bmo_2019-20_round1__Q02]]
 
 
 
@@ -83,11 +99,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi tangenti con tangente comune; dimostrare che l'AC è perpendicolare a BD*
+*Due cerchi tangenti con una tangente comune; dimostrare che AC è perpendicolare a BD*
 
-> Due cerchi $S_1$ e $S_2$ sono tangenti a $P$. Un tangente comune, non attraverso $P$, tocca $S_1$ a $A$ e $S_2$ a $B$. I punti $C$ e $D$, rispettivamente su $S_1$ e $S_2$, sono al di fuori del triangolo $APB$ e sono tali che $P$ sia sulla linea $CD$.
-> 
-> Prova che $AC$ è perpendicolare a $BD$.
+> Due cerchi $S_1$ e $S_2$ sono tangenti in $P$. Una tangente comune, che non passa per $P$, tocca $S_1$ in $A$ e $S_2$ in $B$. I punti $C$ e $D$, situati rispettivamente su $S_1$ e $S_2$, sono esterni al triangolo $APB$ e sono tali che $P$ giace sulla retta $CD$.
+>
+> Dimostrare che $AC$ è perpendicolare a $BD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2019-20_round1#q03|src_bmo_2019-20_round1__Q03]]
 
 
 
@@ -114,13 +137,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pinguini in coda con le regole dei biglietti; trovare i conti vicino ai biglietti 2 e 33*
+*I pinguini fanno la coda secondo le regole dei biglietti; trova i conteggi vicino ai biglietti 2 e 33*
 
-> Ci sono pinguini del 2019 che vagano verso il loro ristorante preferito. Quando arrivano i pinguini, vengono consegnati biglietti numerati in ordine ascendente dal 1 al 2019, e viene detto di unirsi alla coda. Il primo pinguino inizia la coda. Per ciascuna $n > 1$ il numero di biglietto di detenzione del pinguino $n$ trova il più grande $m < n$ che divide $n$ e entra nella coda direttamente dietro il numero di biglietto di detenzione del pinguino $m$. Questo continua fino a quando tutti i pinguini del 2019 sono in coda.
-> 
-> (a) Quanti pinguini sono davanti al pinguino con il biglietto numero 2?
-> 
-> (b) Quali sono i numeri sui biglietti che i pinguini tengono proprio davanti e proprio dietro al pinguino che detiene il biglietto 33?
+> Ci sono 2019 pinguini che barcollano in direzione del loro ristorante preferito. Quando i pinguini arrivano, ricevono biglietti numerati in ordine crescente da 1 a 2019 e vengono invitati a mettersi in fila. Il primo pinguino dà inizio alla fila. Per ciascun $n > 1$, il pinguino che tiene il biglietto numero $n$ trova il più grande $m < n$ che divide $n$ e si mette in fila subito dietro il pinguino che tiene il biglietto numero $m$. Si continua così finché tutti i 2019 pinguini non sono in fila.
+>
+> (a) Quanti pinguini ci sono davanti al pinguino con il biglietto numero 2?
+>
+> (b) Quali numeri sono scritti sui biglietti tenuti dai pinguini che si trovano subito davanti e subito dietro il pinguino che tiene il biglietto 33?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2019-20_round1#q04|src_bmo_2019-20_round1__Q04]]
 
 
 
@@ -143,9 +173,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bambini con dolci intorno a un tavolo; trovare accordi iniziali che possano essere resi perfetti*
+*Bambini con dolci attorno a un tavolo; trova le disposizioni iniziali che possono essere rese perfette*
 
-> Sei bambini sono spaziati uniformemente attorno a un tavolo circolare. Inizialmente, uno ha un mucchio di dolci davanti a sé, mentre gli altri non hanno nulla. Se un bambino ha davanti a sé almeno quattro dolci, può fare la seguente mossa: mangiare un dolce e dare un dolce a ciascuno dei suoi vicini immediati e al bambino direttamente di fronte. Una disposizione è chiamata *perfetta* se vi è una sequenza di mosse che comporta che ogni bambino abbia davanti a sé lo stesso numero di dolci. Per quali valori di $n$ è perfetta la disposizione iniziale?
+> Sei bambini sono disposti a distanze uguali attorno a un tavolo circolare. Inizialmente, uno ha davanti a sé un mucchio di $n > 0$ caramelle, mentre gli altri non ne hanno nessuna. Se un bambino ha davanti a sé almeno quattro caramelle, può compiere la seguente mossa: mangia una caramella e ne dà una a ciascuno dei suoi vicini immediati e al bambino che gli sta di fronte, esattamente. Una disposizione si dice *perfetta* se esiste una sequenza di mosse tale che, al termine di essa, ogni bambino abbia davanti a sé lo stesso numero di caramelle. Per quali valori di $n$ la disposizione iniziale è perfetta?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2019-20_round1#q05|src_bmo_2019-20_round1__Q05]]
 
 
 
@@ -171,8 +208,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni f che assegnano integri a coppie di integri che soddisfano una determinata equazione funzionale*
+*Trovare tutte le funzioni f che associano numeri interi a coppie di numeri interi e soddisfano una data equazione funzionale*
 
-> Una funzione $f$ si chiama *good* se assegna un valore intero $f(m,n)$ a ogni coppia ordinata di integri $(m,n)$ in modo tale che per ogni coppia di integri $(m,n)$ abbiamo: $$2f(m,n) = f(m-n, n-m) + m + n = f(m+1,n) + f(m,n+1) - 1.$$
-> 
-> Trova tutte le buone funzioni.
+> Una funzione $f$ è detta *buona* se assegna un valore intero $f(m,n)$ a ogni coppia ordinata di interi $(m,n)$ in modo tale che, per ogni coppia di interi $(m,n)$, si abbia:
+> $$2f(m,n) = f(m-n, n-m) + m + n = f(m+1,n) + f(m,n+1) - 1.$$
+>
+> Trova tutte le funzioni buone.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2019-20_round1#q06|src_bmo_2019-20_round1__Q06]]

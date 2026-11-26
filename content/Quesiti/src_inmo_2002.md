@@ -36,13 +36,20 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esagono converso con condizioni laterali opposte implica ciclico*
+*Un esagono convesso con le condizioni sui lati opposti implica che sia ciclico*
 
-> Per un esagono convexo $ABCDEF$ in cui ciascuna coppia di lati opposti è diseguale, considerate le seguenti sei affermazioni: $(a_1)$ $AB$ è parallelo a $DE$; $(a_2)$ $AE = BD$; $(b_1)$ $BC$ è parallelo a $EF$; $(b_2)$ $BF = CE$; $(c_1)$ $CD$ è parallelo a $FA$; $(c_2)$ $CA = DF$.
-> 
-> (a) Mostrare che se tutte e sei le affermazioni sono vere, l'esagono è ciclico (cioè può essere inscritto in un cerchio).
-> 
-> (b) Prove che, in effetti, qualsiasi cinque di queste sei affermazioni implicano anche che l'esagono è ciclico.
+> Per un esagono convesso $ABCDEF$ in cui ogni coppia di lati opposti è disuguale, si considerino le seguenti sei affermazioni: $(a_1)$ $AB$ è parallelo a $DE$; $(a_2)$ $AE = BD$; $(b_1)$ $BC$ è parallelo a $EF$; $(b_2)$ $BF = CE$; $(c_1)$ $CD$ è parallelo a $FA$; $(c_2)$ $CA = DF$.
+>
+> (a) Dimostrare che, se tutte e sei le affermazioni sono vere, allora l'esagono è ciclico (ossia può essere inscritto in una circonferenza).
+>
+> (b) Dimostrare che, in effetti, qualsiasi cinque di queste sei affermazioni implicano anch'esse che l'esagono è ciclico.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2002#q01|src_inmo_2002__Q01]]
 
 
 
@@ -65,9 +72,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Meno valore positivo di $a^3+b^3+c^3-3abc$ su integri positivi*
+*Valore meno positivo di $a^3+b^3+c^3-3abc$ sugli interi positivi*
 
-> Determinare il valore minimo positivo assunto dall'espressione $a^3 + b^3 + c^3 - 3abc$ in quanto $a, b, c$ varia su tutti gli integri positivi. Trova anche tutti i triples $(a, b, c)$ per i quali si ottiene questo valore minimo.
+> Determinare il minimo valore positivo assunto dall'espressione $a^3 + b^3 + c^3 - 3abc$ quando $a, b, c$ varia su tutti gli interi positivi. Trovare inoltre tutte le triple $(a, b, c)$ per cui tale valore minimo viene raggiunto.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2002#q02|src_inmo_2002__Q02]]
 
 
 
@@ -91,9 +105,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove $x^2y^2(x^2+y^2)\le 2$ per i risultati positivi con $x+y=2$*
+*Se x + y = 2, allora x^2 y^2 (x^2 + y^2) ≤ 2*
 
-> Che $x, y$ siano valori reali positivi tali che $x + y = 2$. Provare che $$x^2 y^2 (x^2 + y^2) \le 2.$$
+> Siano $x, y$ reali positivi tali che $x + y = 2$. Dimostrare che
+> $$x^2 y^2 (x^2 + y^2) \le 2.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_inmo_2002#q03|src_inmo_2002__Q03]]
 
 
 
@@ -116,9 +138,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di 100 linee con punti di intersezione esatti 2002*
+*Esistono 100 rette, mai tre concorrenti, che si incontrano in esattamente 2002 punti?*
 
-> Esistono 100 linee nel piano, nessuna delle tre contemporaneamente, in modo che si incrociano esattamente nei punti del 2002?
+> Esistono 100 rette nel piano, mai tre concorrenti, che si intersecano in esattamente 2002 punti?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Geometria|Geometria]]
+
+[[Quesiti/src_inmo_2002#q04|src_inmo_2002__Q04]]
 
 
 
@@ -141,9 +170,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di reali positivi distinti che formano una progressione aritmetica a 7 termini*
+*Esistenza di numeri reali positivi distinti che formano una progressione aritmetica di 7 termini*
 
-> Esistono tre numeri reali positivi distinti $a, b, c$ in modo tale che $a, b, c, b+c-a, c+a-b, a+b-c$ e $a+b+c$ formino una progressione aritmetica a 7 termini in qualche ordine?
+> Esistono tre numeri reali positivi distinti $a, b, c$ tali che $a, b, c, b+c-a, c+a-b, a+b-c$ e $a+b+c$, in un certo ordine, formino una progressione aritmetica di 7 termini?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2002#q05|src_inmo_2002__Q05]]
 
 
 
@@ -167,6 +203,14 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ribbito su voci diagonali di array in aumento $n\times n$*
+*Vincolo sugli elementi diagonali di un array $n\times n$ crescente*
 
-> Supponiamo che i numeri $n^2$ $1, 2, 3, \ldots, n^2$ siano disposti per formare un array $n$ da $n$ composto da righe $n$ e colonne $n$ in modo tale che i numeri di ogni riga (da sinistra a destra) e di ogni colonna (da cima a sotto) siano in ordine crescente. Indicare con $a_{jk}$ il numero nella riga $j$-th e nella colonna $k$-th. Supponiamo che $b_j$ sia il numero massimo possibile di voci che possono verificarsi come $a_{jj}$, $1 \le j \le n$. Provare che $$b_1 + b_2 + \cdots + b_n \le \frac{n}{3}(n^2 - 3n + 5).$$
+> Supponiamo che i numeri $n^2$ $1, 2, 3, \ldots, n^2$ siano disposti a formare una matrice $n$ di dimensioni $n$, composta da $n$ righe e $n$ colonne, in modo che i numeri in ciascuna riga (da sinistra a destra) e in ciascuna colonna (dall'alto in basso) siano in ordine crescente. Sia $a_{jk}$ il numero nella riga $j$ e nella colonna $k$. Supponiamo che $b_j$ sia il numero massimo possibile di elementi che possono comparire come $a_{jj}$, $1 \le j \le n$. Dimostrare che
+> $$b_1 + b_2 + \cdots + b_n \le \frac{n}{3}(n^2 - 3n + 5).$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2002#q06|src_inmo_2002__Q06]]

@@ -43,24 +43,21 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione della differenza delle aree nere e bianche in un triangolo sulla scacchiera f(m,n)*
+*Funzione f(m,n) di differenza delle aree nero-bianche del triangolo della scacchiera*
 
-> Nel piano i punti a coordinate intere sono i vertici di quadratini unitari.
-> I quadratini sono colorati alternativamente di bianco e di nero (come in una scacchiera).
-> Per ogni coppia di interi positivi m e n, si consideri un triangolo rettangolo i cui
-> vertici hanno coordinate intere e i cui cateti, di lunghezze m e n, giacciono lungo
-> lati dei quadratini.
-> Sia S1 l'area totale della parte nera del triangolo e S2 l'area totale
-> della parte bianca. Sia
-> f(m, n) = |S1 −S2|.
+> Nel piano, i punti a coordinate intere sono i vertici dei quadrati unitari. I quadrati sono colorati alternativamente di nero e di bianco (come su una scacchiera). Per ogni coppia di numeri interi positivi m e n, si consideri un triangolo rettangolo i cui vertici hanno coordinate intere e i cui cateti, di lunghezza m e n, giacciono lungo i lati dei quadrati. Sia S1 l'area totale della parte nera del triangolo e S2 l'area totale della parte bianca. Sia f(m, n) = |S1 − S2|.
 > (a)
-> Calcolare f(m, n) per tutti gli interi positivi m e n che siano entrambi
-> pari o entrambi dispari.
+> Calcola f(m, n) per tutti gli interi positivi m e n che sono oppure entrambi pari oppure entrambi dispari.
 > (b)
-> Si dimostri che f(m, n) ≤1
-> 2 max{m, n} per ogni m e n.
+> Dimostrare che f(m, n) ≤ 1/2 max{m, n} per ogni m e n.
 > (c)
-> Si dimostri che non esiste alcuna costante C tale che f(m, n) < C per ogni m e n.
+> Dimostrare che non esiste una costante C tale che f(m, n) < C per tutti gli m e gli n.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione / parita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imo_1997#q01|src_imo_1997__Q01]]
 
 
 
@@ -88,14 +85,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Si dimostri che AU = TB + TC con la costruzione dell'asse perpendicolare*
+*Dimostrare che AU=TB+TC mediante la costruzione della mediatrice*
 
-> L'angolo in A è il minore degli angoli del triangolo ABC. I punti B e C
-> dividono la circonferenza circoscritta al triangolo in due archi. Sia U un punto interno
-> all'arco tra B e C che non contiene A. Gli assi
-> di AB e AC incontrano la retta AU in V e W rispettivamente. Le rette
-> BV e CW si incontrano in T. Si dimostri che
-> AU = TB + TC.
+> L'angolo in A è l'angolo più piccolo del triangolo ABC. I punti B e C dividono la circonferenza circoscritta al triangolo in due archi. Sia U un punto interno all'arco compreso tra B e C che non contiene A. Le mediatrici di AB e AC intersecano la retta AU rispettivamente nei punti V e W. Le rette BV e CW si intersecano in T. Dimostrare che AU = TB + TC.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1997#q02|src_imo_1997__Q02]]
 
 
 
@@ -131,23 +130,23 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazione che rende piccolo un prodotto ponderato con vincoli sui coefficienti*
+*Permutazione che rende piccola la somma pesata entro i limiti dei coefficienti*
 
 > Siano x1, x2, . . . , xn numeri reali che soddisfano le condizioni
 > |x1 + x2 + · · + xn| = 1
 > e
 > |xi| ≤n + 1
-> 2
-> i = 1, 2, . . . , n.
-> Si dimostri che esiste una permutazione y1, y2, . . . , yn di x1, x2, . . . , xn tale che
+> 2 i = 1, 2, . . . , n. Dimostrare che esiste una permutazione y1, y2, . . . , yn di x1, x2, . . . , xn tale che
 > |y1 + 2y2 + · · + nyn| ≤n + 1
-> 2
-> .
-> 
-> LXXXVIII Olimpiade Internazionale di Matematica
-> Mar del Plata, Argentina
-> Giorno II
-> 25 luglio 1997
+> 2 .
+>
+> 38ª Olimpiade Internazionale di Matematica, Mar del Plata, Argentina, Seconda giornata, 25 luglio 1997
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1997#q03|src_imo_1997__Q03]]
 
 
 
@@ -175,15 +174,19 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*non esiste per n=1997, esiste per infiniti n*
+*Nessuna per n=1997, esistono per infiniti n*
 
-> Una matrice n × n i cui elementi appartengono all'insieme S = {1, 2, . . . , 2n −1} si
-> dice matrice d'argento se, per ogni i = 1, 2, . . . , n, la i-esima riga e la i-esima colonna
-> insieme contengono tutti gli elementi di S. Si dimostri che
+> Una matrice n × n i cui elementi provengono dall'insieme S = {1, 2, . . . , 2n −1} è detta matrice d'argento se, per ogni i = 1, 2, . . . , n, la i-esima riga e la i-esima colonna insieme contengono tutti gli elementi di S. Dimostrare che
 > (a)
-> non esiste alcuna matrice d'argento per n = 1997;
+> Non esiste una matrice d'argento per n = 1997;
 > (b)
-> esistono matrici d'argento per infiniti valori di n.
+> Esistono matrici d'argento per infiniti valori di n.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione / parita]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1997#q04|src_imo_1997__Q04]]
 
 
 
@@ -206,10 +209,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le coppie di interi tali che a^(b^2) = b^a*
+*Coppie di interi a, b ≥ 1 che soddisfano ab2 = ba*
 
-> Determinare tutte le coppie (a, b) di interi a, b ≥1 che soddisfano l'equazione
+> Trovare tutte le coppie (a, b) di interi a, b ≥1 che soddisfano l'equazione
 > ab2 = ba.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_imo_1997#q05|src_imo_1997__Q05]]
 
 
 
@@ -238,13 +247,12 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Stimare f(2^n), partizioni di n in potenze di 2*
+*Limitato f(2^n), partizioni di n in potenze di 2*
 
-> Per ogni intero positivo n, sia f(n) il numero dei modi di rappresentare
-> n come somma di potenze di 2 con esponenti interi non negativi. Rappresentazioni
-> che differiscono solo per l'ordine degli addendi sono considerate
-> uguali. Per esempio, f(4) = 4, perché il numero 4 si può rappresentare nei
-> quattro modi seguenti:
-> 4; 2 + 2; 2 + 1 + 1; 1 + 1 + 1 + 1.
-> Si dimostri che, per ogni intero n ≥3,
-> 2n2/4 < f(2n) < 2n2/2.
+> Per ogni intero positivo n, si indichi con f(n) il numero di modi in cui n può essere espresso come somma di potenze di 2 a esponenti interi non negativi. Le rappresentazioni che differiscono solo nell'ordine dei loro addendi sono considerate identiche. Ad esempio, f(4) = 4, poiché il numero 4 può essere rappresentato nei seguenti quattro modi: 4; 2 + 2; 2 + 1 + 1; 1 + 1 + 1 + 1. Dimostrare che, per ogni intero n ≥ 3, vale 2n²/4 < f(2n) < 2n²/2.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1997#q06|src_imo_1997__Q06]]

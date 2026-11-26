@@ -30,11 +30,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare x+y+z con lcm 2100*
+*Minima somma di tre interi positivi con minimo comune multiplo dato*
 
-> Per tre integri positivi $x, y, z$ il cui più piccolo multiplo comune è $2100$, trovare il minimo valore possibile di $x + y + z$.
+> Per tre interi positivi $x, y, z$ il cui minimo comune multiplo è $2100$, trovare il minimo valore possibile di $x + y + z$.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 44
+[[Quesiti/src_jmo23yq_yosen#q01|src_jmo23yq_yosen__Q01]]
 
 
 
@@ -63,15 +67,20 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due reti 20x13 riempite in due ordini; conteggio delle celle corrispondenti*
+*Interi scritti nella stessa casella di due griglie riempite in modi diversi*
 
-> Esistono due reti rettangolari di file $20$ e colonne $13$. In ciascuna cella di ciascuna griglia viene scritto un intero come segue:
-> 
-> - In una griglia, la prima riga è riempita da sinistra a destra con $1, 2, \ldots, 13$, la seconda riga da sinistra a destra con $14, 15, \ldots, 26$, e così via, fino all'ultima riga $248, 249, \ldots, 260$. - nell'altra griglia, la colonna più a destra è riempita dall'alto verso il basso con $1, 2, \ldots, 20$, la seconda colonna dall'alto verso il basso con $21, 22, \ldots, 40$ e così via, fino alla colonna più a sinistra $241, 242, \ldots, 260$.
-> 
-> Trova tutti gli enti che sono scritti nella stessa posizione (la stessa cella) in entrambe le griglie.
+> Ci sono due griglie rettangolari di $20$ righe e $13$ colonne. In ogni casella di ogni griglia è scritto un intero, come segue:
+>
+> - in una griglia, la prima riga è riempita da sinistra a destra con $1, 2, \ldots, 13$, la seconda riga da sinistra a destra con $14, 15, \ldots, 26$, e così via, fino all'ultima riga $248, 249, \ldots, 260$;
+> - nell'altra griglia, la colonna più a destra è riempita dall'alto in basso con $1, 2, \ldots, 20$, la seconda colonna da destra dall'alto in basso con $21, 22, \ldots, 40$, e così via, fino alla colonna più a sinistra $241, 242, \ldots, 260$.
+>
+> Determinare tutti gli interi che sono scritti nella stessa posizione (stessa casella) in entrambe le griglie.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 87, 174
+[[Quesiti/src_jmo23yq_yosen#q02|src_jmo23yq_yosen__Q02]]
 
 
 
@@ -97,13 +106,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Stella inscrita nel cerchio unitario; area del pentagono interno*
+*Area di un pentagono costruito su una circonferenza*
 
-> Su un cerchio $O$ di raggio $1$, i punti $A_1, A_2, A_3, A_4, A_5$ si trovano in questo ordine in modo che $\angle A_5 A_2 A_4 = \angle A_1 A_3 A_5 = \angle A_2 A_4 A_1 = \angle A_3 A_5 A_2 = \angle A_4 A_1 A_3 = 30^\circ$. Che $B_1$ sia l'intersezione di $A_2 A_4$ e $A_3 A_5$, $B_2$ l'intersezione di $A_3 A_5$ e $A_4 A_1$, $B_3$ l'intersezione di $A_4 A_1$ e $A_5 A_2$, $B_4$ l'intersezione di $A_5 A_2$ e $A_1 A_3$, e $B_5$ l'intersezione di $A_1 A_3$ e $A_2 A_4$. Trova l'area del pentagono $B_1 B_2 B_3 B_4 B_5$.
+> Su una circonferenza $O$ di raggio $1$, i punti $A_1, A_2, A_3, A_4, A_5$ stanno in quest'ordine in modo che $\angle A_5 A_2 A_4 = \angle A_1 A_3 A_5 = \angle A_2 A_4 A_1 = \angle A_3 A_5 A_2 = \angle A_4 A_1 A_3 = 30^\circ$. Sia $B_1$ l'intersezione di $A_2 A_4$ e $A_3 A_5$, $B_2$ l'intersezione di $A_3 A_5$ e $A_4 A_1$, $B_3$ l'intersezione di $A_4 A_1$ e $A_5 A_2$, $B_4$ l'intersezione di $A_5 A_2$ e $A_1 A_3$, e $B_5$ l'intersezione di $A_1 A_3$ e $A_2 A_4$. Trovare l'area del pentagono $B_1 B_2 B_3 B_4 B_5$.
 
 ![[src_jmo23yq_yosen__q03.png]]
 
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** $\dfrac{\sqrt{3}}{6}$
+[[Quesiti/src_jmo23yq_yosen#q03|src_jmo23yq_yosen__Q03]]
 
 
 
@@ -127,11 +140,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei coefficienti di potenze pari in un prodotto*
+*Il valore di un coefficiente di un polinomio*
 
-> Nel polinomio $(x+1)^3 (x+2)^3 (x+3)^3$, $a_k$ indica il coefficiente di $x^k$. Trova il valore di $a_0 + a_2 + a_4 + a_6$.
+> Nel polinomio $(x+1)^3 (x+2)^3 (x+3)^3$, sia $a_k$ il coefficiente di $x^k$. Trovare il valore di $a_0 + a_2 + a_4 + a_6$.
 
+**Argomento:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 6696
+[[Quesiti/src_jmo23yq_yosen#q04|src_jmo23yq_yosen__Q04]]
 
 
 
@@ -155,11 +172,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi, tangenti e una trasversale incrociati; rapporto di radii*
+*Rapporto tra i raggi di due circonferenze secanti*
 
-> Ci sono due cerchi $O_1, O_2$ che si incrociano a due punti distinti $P$ e $Q$. La tangenza al cerchio $O_1$ a $P$ incontra nuovamente il cerchio $O_2$ a un punto $R$ (diferente da $P$), e la tangenza al cerchio $O_2$ a $Q$ incontra nuovamente il cerchio $O_1$ a un punto $S$ (diferente da $Q$). Inoltre, la linea $PR$ e la linea $QS$ si incrociano in un punto $X$. Considerato il $XR = 9$ e il $XS = 2$, scoprire quante volte il raggio di $O_2$ è confrontato con il raggio di $O_1$ (cioè il rapporto tra il raggio di $O_2$ e quello di $O_1$). Qui $YZ$ indica la lunghezza del segmento $YZ$.
+> Ci sono due circonferenze $O_1, O_2$ che si intersecano in due punti distinti $P$ e $Q$. La tangente alla circonferenza $O_1$ in $P$ incontra di nuovo la circonferenza $O_2$ in un punto $R$ (distinto da $P$), e la tangente alla circonferenza $O_2$ in $Q$ incontra di nuovo la circonferenza $O_1$ in un punto $S$ (distinto da $Q$). Inoltre la retta $PR$ e la retta $QS$ si intersecano in un punto $X$. Dati $XR = 9$ e $XS = 2$, trovare quante volte il raggio di $O_2$ sta nel confronto con il raggio di $O_1$ (cioè il rapporto tra il raggio di $O_2$ e quello di $O_1$). Qui $YZ$ indica la lunghezza del segmento $YZ$.
 
-**Risposta:** $\sqrt[3]{\dfrac{2}{9}}$ volte
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Risposta:** $\sqrt[3]{\dfrac{2}{9}}$ times
+[[Quesiti/src_jmo23yq_yosen#q05|src_jmo23yq_yosen__Q05]]
 
 
 
@@ -183,11 +204,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-Distribuire 24 cioccolatini a 3 persone evitando una condizione
+*Distribuzioni di due tipi di caramelle in cui non si realizza una certa coppia di riceventi*
 
-> Ci sono due tipi di caramelle, $A$ e $B$, con $24$ pezzi di ciascuna. Distribuiamo tutto questo tra tre persone senza rimanere nessuna. Tra tali distribuzioni, quante ci sono per le quali NON esistono due persone che soddisfino la seguente condizione? Condizione: una delle due persone riceve $a$ pezzi di $A$ e $b$ pezzi di $B$, l'altra riceve $a'$ pezzi di $A$ e $b'$ pezzi di $B$, e entrambe $a \le a'$ e $b \le b'$ sono tenute.
+> Ci sono due tipi di caramelle, $A$ e $B$, con $24$ pezzi di ciascuno. Li distribuiamo tutti fra tre persone $X, Y, Z$, senza avanzi. Tra queste distribuzioni, quante sono quelle per cui NON esistono due persone che soddisfano la condizione seguente? Condizione: una delle due riceve $a$ pezzi di $A$ e $b$ pezzi di $B$, l'altra riceve $a'$ pezzi di $A$ e $b'$ pezzi di $B$, e valgono sia $a \le a'$ sia $b \le b'$.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
 **Risposta:** 14017
+[[Quesiti/src_jmo23yq_yosen#q06|src_jmo23yq_yosen__Q06]]
 
 
 
@@ -212,11 +237,17 @@ Distribuire 24 cioccolatini a 3 persone evitando una condizione
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le soluzioni di numeri interi non negativi di un'identità quadrata*
+*Tuple di interi non negativi che soddisfano un'equazione*
 
-> Quanti tuppi $(x_1, \ldots, x_{25})$ di numeri interi non negativi soddisfano l'equazione $$x_1^2 + \cdots + x_{25}^2 = 2 + x_1 x_2 + x_2 x_3 + \cdots + x_{24} x_{25}?$$
+> Quante tuple $(x_1, \ldots, x_{25})$ di interi non negativi soddisfano l'equazione
+>
+> $$x_1^2 + \cdots + x_{25}^2 = 2 + x_1 x_2 + x_2 x_3 + \cdots + x_{24} x_{25}?$$
 
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Risposta:** 29900
+[[Quesiti/src_jmo23yq_yosen#q07|src_jmo23yq_yosen__Q07]]
 
 
 
@@ -240,11 +271,15 @@ Distribuire 24 cioccolatini a 3 persone evitando una condizione
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterali convexi, diagonali perpendicolari, quattro cerchi tangenti; trovare DX*
+*Una lunghezza, quando esiste una circonferenza tangente a quattro circonferenze*
 
-> C'è un quadrilaterale convex $ABCD$ le cui diagonali $AC$ e $BD$ si incontrano perpendicolare in un punto $X$, con $AX = 5$, $BX = 6$, $CX = 20$. Considerate il cerchio $C_1$ centrato a $A$ con raggio $AX$, il cerchio $C_2$ centrato a $B$ con raggio $BX$, il cerchio $C_3$ centrato a $C$ con raggio $CX$ e il cerchio $C_4$ centrato a $D$ con raggio $DX$. Quando esiste un cerchio tangente a tutti e quattro i cerchi $C_1, C_2, C_3, C_4$, trovare $DX$. Qui $YZ$ indica la lunghezza del segmento $YZ$.
+> C'è un quadrilatero convesso $ABCD$ le cui diagonali $AC$ e $BD$ si incontrano perpendicolarmente in un punto $X$, con $AX = 5$, $BX = 6$, $CX = 20$. Si considerino la circonferenza $C_1$ di centro $A$ e raggio $AX$, la circonferenza $C_2$ di centro $B$ e raggio $BX$, la circonferenza $C_3$ di centro $C$ e raggio $CX$, e la circonferenza $C_4$ di centro $D$ e raggio $DX$. Quando esiste una circonferenza tangente a tutte e quattro le circonferenze $C_1, C_2, C_3, C_4$, trovare $DX$. Qui $YZ$ indica la lunghezza del segmento $YZ$.
 
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 12
+[[Quesiti/src_jmo23yq_yosen#q08|src_jmo23yq_yosen__Q08]]
 
 
 
@@ -268,11 +303,15 @@ Distribuire 24 cioccolatini a 3 persone evitando una condizione
 <div class="qlang-split" data-lang="it"></div>
 
 
-*divisioni di 10^2013-1 tra 1 e 100*
+*Divisori di un intero compresi in un intervallo*
 
-> Trova tutti i divisori di $10^{2013} - 1$ che sono almeno $1$ e al massimo $100$.
+> Determinare tutti i divisori di $10^{2013} - 1$ che sono almeno $1$ e al più $100$.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 1, 3, 9, 27, 37, 67
+[[Quesiti/src_jmo23yq_yosen#q09|src_jmo23yq_yosen__Q09]]
 
 
 
@@ -296,11 +335,15 @@ Distribuire 24 cioccolatini a 3 persone evitando una condizione
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Flip card attraverso le operazioni 2013; contare le carte rivolte verso l'alto*
+*Quante carte restano a faccia in su dopo una sequenza di ribaltamenti*
 
-> Ci sono carte $2013$ numerate $0, 1, \ldots, 2012$. A partire da uno stato in cui tutte le carte sono rivolte verso il basso, viene eseguita la seguente operazione per $i = 1, 2, \ldots, 2013$ in questo ordine. Operazione $i$: girare ogni carta il cui numero è $\left\lfloor \dfrac{2013 j}{i} \right\rfloor$ per un certo numero intero $j$ con $0 \le j \le i-1$ (una carta a faccia in giù diventa faccia in su, e una carta a faccia in su diventa faccia in giù). Quando tutte le operazioni sono terminate, quante carte sono rivolte in faccia? Qui, per un numero reale $r$, $\lfloor r \rfloor$ indica il numero intero più grande non superiore a $r$.
+> Ci sono $2013$ carte numerate $0, 1, \ldots, 2012$. Partendo da uno stato in cui tutte le carte sono a faccia in giù, si esegue l'operazione seguente per $i = 1, 2, \ldots, 2013$, in quest'ordine. Operazione $i$: si ribalta ogni carta il cui numero è $\left\lfloor \dfrac{2013 j}{i} \right\rfloor$ per qualche intero $j$ con $0 \le j \le i-1$ (una carta a faccia in giù diventa a faccia in su, e una a faccia in su diventa a faccia in giù). Quando tutte le operazioni sono finite, quante carte sono a faccia in su? Qui, per un numero reale $r$, $\lfloor r \rfloor$ indica il massimo intero che non supera $r$.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casi_conteggio|Conteggio per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Risposta:** 793
+[[Quesiti/src_jmo23yq_yosen#q10|src_jmo23yq_yosen__Q10]]
 
 
 
@@ -324,11 +367,15 @@ Distribuire 24 cioccolatini a 3 persone evitando una condizione
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Segmenti di reticola dell'unità orientale in cubo 3D in modo che ogni quadrato della reticola sia congruente; contare*
+*Orientamenti degli spigoli reticolari in cui tutti i quadrati unitari sono congruenti*
 
-> $n$ sia un numero intero positivo. In $xyz$-spazio, considera la regione $0 \le x, y, z \le n$ e chiama un segmento di lunghezza $1$ che unisce due punti della griglia un bordo della griglia. Supponiamo che ogni bordo della reticola abbia un orientamento (per un bordo della reticola $AB$, $A \to B$ o $B \to A$). Ciascuno dei lati $4$ di un quadrato unitario è un margine di reticola; un quadrato unitario il cui margine $4$ orientazioni girano attorno a esso (formano un ciclo diretto) è chiamato quadrato di reticola. Due quadrati della griglia sono considerati congruenti quando, mediante rotazione e traduzione, gli orientamenti di tutti i loro bordi possono coincidere. In quanti modi i bordi della griglia possono essere orientati in modo che tutti i quadrati della griglia siano reciprocamente congruenti?
+> Sia $n$ un intero positivo. Nello spazio $xyz$, si consideri la regione $0 \le x, y, z \le n$, e si chiami spigolo reticolare un segmento di lunghezza $1$ che unisce due punti del reticolo. Si supponga che ogni spigolo reticolare riceva un orientamento (per uno spigolo reticolare $AB$, o $A \to B$ o $B \to A$). Ciascuno degli $4$ lati di un quadrato unitario è uno spigolo reticolare; un quadrato unitario i cui $4$ spigoli orientati lo percorrono (formano un ciclo orientato) si chiama quadrato reticolare. Due quadrati reticolari si considerano congruenti quando, per rotazione e traslazione, si possono far coincidere gli orientamenti di tutti i loro spigoli. In quanti modi si possono orientare gli spigoli reticolari in modo che tutti i quadrati reticolari siano congruenti fra loro?
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Risposta:** $2^{(n+1)^3 - 1} + 2^{3n} + 2$
+[[Quesiti/src_jmo23yq_yosen#q11|src_jmo23yq_yosen__Q11]]
 
 
 
@@ -354,8 +401,16 @@ Distribuire 24 cioccolatini a 3 persone evitando una condizione
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con somma fissa di rapporti consecutivi; costante minima c*
+*Minimo reale per cui vale una disuguaglianza su una successione*
 
-> Che $a_1, a_2, \ldots$ sia una sequenza infinita di differenti reali non-zero in modo tale che $\dfrac{a_{i+1}}{a_i} + \dfrac{a_{i+1}}{a_{i+2}}$ prenda un unico valore fisso, maggiore di $0$ e inferiore a $2$, per tutti gli integri positivi $i$. Trovare, in termini di $a_1, a_2, a_3$, il valore minimo di un numero reale $c$ per il quale si applica la seguente condizione. Condizione: per tutti gli integri positivi $x, y$ con $x < y$, $$\frac{a_x a_{x+1} + a_{x+1} a_{x+2} + \cdots + a_{y-1} a_y}{a_x a_y} \le c$$ è valido.
+> Sia $a_1, a_2, \ldots$ una successione infinita di reali non nulli e distinti tale che $\dfrac{a_{i+1}}{a_i} + \dfrac{a_{i+1}}{a_{i+2}}$ assuma un unico valore fissato, maggiore di $0$ e minore di $2$, per tutti gli interi positivi $i$. Trovare, in funzione di $a_1, a_2, a_3$, il minimo valore di un numero reale $c$ per il quale vale la condizione seguente. Condizione: per tutti gli interi positivi $x, y$ con $x < y$,
+>
+> $$\frac{a_x a_{x+1} + a_{x+1} a_{x+2} + \cdots + a_{y-1} a_y}{a_x a_y} \le c$$
+>
+> vale.
 
+**Argomento:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Risposta:** $\dfrac{2}{\sqrt{\,4 - \left(\dfrac{a_2}{a_1} + \dfrac{a_2}{a_3}\right)^2\,}}$
+[[Quesiti/src_jmo23yq_yosen#q12|src_jmo23yq_yosen__Q12]]

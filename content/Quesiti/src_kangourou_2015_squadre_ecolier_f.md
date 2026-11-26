@@ -32,14 +32,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cost of the newspaper (with supplement total 1.70)*
+*Daily newspaper price (with insert, total 1.70)*
 
-> The newspaper with the supplement       
->         A newspaper with the supplement costs 1 euro and 70 cents. The newspaper and the supplement can be 
-> bought separately and the newspaper costs 70 cents more than the supplement. How many cents does the 
-> newspaper cost?
+> The newspaper with the supplement: a daily newspaper with the supplement costs 1 euro and 70 cents. The daily newspaper and the supplement can be bought separately, and the daily newspaper costs 70 cents more than the supplement. How many cents does the daily newspaper cost?
 
-**Answer:** 120
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q01|src_kangourou_2015_squadre_ecolier_f__Q01]]
 
 
 
@@ -66,14 +67,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many 10-cent coins (20 coins, 5 euros)*
+*How many 10-cent coins? (20 coins, 5 euros)*
 
-> Isabella's coins             
->         Isabella has 20 coins in her purse, for a total value of 5 euros. Some coins are 
-> 10 cents, others 20 cents, others 50 cents. The 50-cent coins are more than 
-> the 10-cent ones. How many are the 10-cent ones?
+> Isabella's Coins Isabella has 20 coins in her purse, with a total value of 5 euros. Some of the coins are worth 10 cents, others 20 cents, and others 50 cents. There are more 50-cent coins than 10-cent coins. How many 10-cent coins are there?
 
-**Answer:** 2
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q02|src_kangourou_2015_squadre_ecolier_f__Q02]]
 
 
 
@@ -102,9 +105,14 @@ level: squadre
 
 *Last four digits after writing 1788 digits*
 
-> One by one Alberto writes down the whole numbers starting from 1, this way: 1 2 3 4 5 6 7 8 9 10 11 12... . When he has written 1788 digits, he gets tired and stops. What are the last four digits he wrote?
+> One after another, Alberto writes down the whole numbers in sequence, starting from 1, like this: 1 2 3 4 5 6 7 8 9 10 11 12... When he has written 1788 digits, he gets tired and stops. What are the last four digits he wrote?
 
-**Answer:** 1632
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q03|src_kangourou_2015_squadre_ecolier_f__Q03]]
 
 
 
@@ -156,7 +164,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-The longest route in the nine park alleys
+*Longer route through the 9 small paths in the park*
 
 ![[src_kangourou_2015_squadre_ecolier_f__prob4.png]]
 
@@ -181,9 +189,14 @@ The longest route in the nine park alleys
 \end{document}
 ```
 
-> In the figure, you can see the layout of nine park avenues, each 100 meters long. Caesar wants to walk from point A to point B without going through any avenue twice, while also passing more than once through some of the points where two or more avenues meet. How many meters is the longest path he can take?
+> The park In the figure, you can see the diagram of the 9 paths in a park, each of which is 100 meters long. Cesare wants to walk from point A to point B without traversing any path twice, and he may also pass through any of the points where two or more paths meet more than once. How many meters long is the longest route he can take?
 
-**Answer:** 700
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q04|src_kangourou_2015_squadre_ecolier_f__Q04]]
 
 
 
@@ -211,11 +224,15 @@ The longest route in the nine park alleys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many houses on the same side of mine*
+*How many houses on the same side as mine*
 
-> My way In the street where I live, the houses are numbered, starting at one end of the street, on one side with consecutive odd integers starting at 1, on the other side with consecutive even integers starting at 2. My house is number 137. If the numbering had started at the other end of the street, my house would have the number 85. How many houses are on the same side as mine, including mine?
+> My Street On the street where I live, the houses are numbered starting from one end of the street: on one side, with consecutive odd whole numbers beginning at 1; on the other side, with consecutive even whole numbers beginning at 2. My house has the number 137. If the numbering had started from the other end of the street, my house would have had the number 85. How many houses are there on the same side as my house, including my house?
 
-**Answer:** 111
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q05|src_kangourou_2015_squadre_ecolier_f__Q05]]
 
 
 
@@ -250,9 +267,14 @@ The longest route in the nine park alleys
 
 ![[src_kangourou_2015_squadre_ecolier_f__prob6.png]]
 
-> The rectangles In the figure you see a grid with 6 rows and 5 columns, formed by placing side by side 30 squares all of the same size. Five of these squares are blackened. How many rectangles that do not contain any black squares can be found in the grid? Attention: among rectangles should also be considered squares, regardless of their size!
+> Rectangles In the figure, you see a grid with 6 rows and 5 columns, formed by placing 30 squares, all of the same size, side by side. Five of these squares are shaded black. How many rectangles that contain no black squares can be identified in the grid? Note: squares must also be considered among the rectangles, regardless of their size!
 
-**Answer:** 99
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q06|src_kangourou_2015_squadre_ecolier_f__Q06]]
 
 
 
@@ -278,11 +300,15 @@ The longest route in the nine park alleys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Route length up and down doubling speed*
+*Length of the road for ascent and descent when speed is doubled*
 
-> A cyclist climbs a mountain road constantly maintaining a speed of 21 kilometers per hour. When he goes down the same road, he doubles his speed, taking 50 minutes less than the time he took to climb. How many kilometers is that road?
+> The Cyclist A cyclist climbs a mountain road while maintaining a constant speed of 21 kilometers per hour. When descending the same road, the cyclist doubles his speed; doing so, he takes 50 minutes less than the time he took to climb. How many kilometers long is that road?
 
-**Answer:** 35
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q07|src_kangourou_2015_squadre_ecolier_f__Q07]]
 
 
 
@@ -311,11 +337,16 @@ The longest route in the nine park alleys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum difference by exchanging two digits of 4129*
+*Maximum difference when swapping two digits of 4129*
 
-> Emma exchanges two of the digits of the number 4129. Luigi does the same thing, without knowing which digits Emma exchanged. What is the maximum difference between Emma's number and Luigi's?
+> Emma swaps two of the digits of the number 4129. Luigi does the same, without knowing which digits Emma swapped. What can be the maximum difference between the number obtained by Emma and the number obtained by Luigi? B A
 
-**Answer:** 7695
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q08|src_kangourou_2015_squadre_ecolier_f__Q08]]
 
 
 
@@ -345,11 +376,16 @@ The longest route in the nine park alleys
 <div class="qlang-split" data-lang="en"></div>
 
 
-Cakes with 13 flavors out of 15 without lemon and pistachio together*
+*Cakes with 13 out of 15 flavors—no lemon and pistachio together*
 
-> The ice cream cake To celebrate Roberta's birthday, Mom asked the ice cream maker to pack an ice cream cake with as many flavors as possible. The ice cream maker, who has 15 flavors, including lemon and pistachio, told her that she can put up to 13 of them in her cake. Roberta's mom doesn't want the lemon and pistachio flavors in the cake. Among how many different cakes with 13 flavors each can Roberta's mom choose? (Two cakes are different if one has at least one taste that is not in the other.)
+> Ice cream cake To celebrate Roberta's birthday, Mom asked the ice cream maker to prepare an ice cream cake with as many flavors as possible. The ice cream maker, who has 15 flavors available, including lemon and pistachio, told her that she could include at most 13 flavors of her choice in the cake. Roberta's mom does not want the lemon and pistachio flavors to be in the cake together. How many different cakes, each with 13 flavors, can Roberta's mom choose from? (Two cakes are different if at least one flavor is in one cake but not in the other.)
 
-**Answer:** 27
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q09|src_kangourou_2015_squadre_ecolier_f__Q09]]
 
 
 
@@ -379,11 +415,16 @@ Cakes with 13 flavors out of 15 without lemon and pistachio together*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*product of two non-consecutive primes*
+*Product of two non-consecutive firsts*
 
-> How old is the teacher? An integer greater than 1 is said to be prime if it is divisible only by 1 and for itself (e.g., 13 is prime and 15 is not). Two prime numbers are called consecutive if there are no other prime numbers between them (e.g., 31 and 37 are consecutive prime numbers). To Angelo, who asked his age, the teacher replied: "I am over 30 years old and my age is the product of two prime numbers that are not consecutive: in fact, there is exactly one prime number between them that is different from them". Of course, Angelo's teacher is not retired yet. How old is he?
+> How old is the teacher? An integer greater than 1 is called prime if it is divisible only by 1 and by itself (for example, 13 is prime and 15 is not). Two prime numbers are called consecutive if there are no other prime numbers between them (for example, 31 and 37 are consecutive prime numbers). To Angelo, who had asked him his age, the teacher replied: "I am over 30 years old, and my age is the product of two prime numbers that are not consecutive: in fact, there is exactly one prime number different from them between them." Naturally, Angelo's teacher is not yet retired. How old is he?
 
-**Answer:** 55
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q10|src_kangourou_2015_squadre_ecolier_f__Q10]]
 
 
 
@@ -411,16 +452,19 @@ Cakes with 13 flavors out of 15 without lemon and pistachio together*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Small spoons to fill the sugar jar*
+*Small spoons for filling the sugar jar*
 
-> The sugar jar              
->        Giulia can fill a jar with sugar by pouring into it 
-> - 6 small spoons, 3 medium spoons and 1 large spoon,  
-> - or 2 small spoons, 1 medium spoon and 3 large spoons,  
-> - or 4 medium spoons and 2 large spoons,  
-> all full of sugar. How many small spoons full of sugar are needed to fill the jar?
+> Giulia can fill the sugar jar with sugar by pouring into it
+> - 6 small spoons, 3 medium spoons, and 1 large spoon,
+> - or 2 small spoons, 1 medium spoon, and 3 large spoons,
+> - or 4 medium tablespoons and 2 large tablespoons,
+> All of them are full of sugar. How many small spoons full of sugar are needed to fill the little jar?
 
-**Answer:** 16
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q11|src_kangourou_2015_squadre_ecolier_f__Q11]]
 
 
 
@@ -448,11 +492,15 @@ Cakes with 13 flavors out of 15 without lemon and pistachio together*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Date written today counting months every 30 days*
+*Date written today, counting months all of which have 30 days*
 
-> How careless! At Christmas, Alexander received a notebook of 365 pages. Every day, starting from the first of January last year and starting on the first page, Alexander wrote the date of the day (without the year) on the first page he found free: he started by writing 0101, then 0201 and so on (in some days of February he wrote for example 1302). Through his carelessness, however, he wrote the dates as if every month had 30 days. What date did he write this morning?
+> What a scatterbrain! At Christmas, Alessandro received a notebook with 365 pages. Every day, starting from January 1 last year and beginning on the first page, Alessandro wrote the date of the day (without the year) on the first page he found that was blank: so he started by writing 0101, then 0201, and so on (on some days in February, for example, he wrote 1302). But due to his scatterbrainedness, he wrote the dates as if all months had 30 days. What date did he write this morning?
 
-**Answer:** 805
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q12|src_kangourou_2015_squadre_ecolier_f__Q12]]
 
 
 
@@ -484,13 +532,18 @@ Cakes with 13 flavors out of 15 without lemon and pistachio together*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between black and white tiles edge 4000 black*
+*Difference between black and white tiles, border 4000 black*
 
 ![[src_kangourou_2015_squadre_ecolier_f__prob13.png]]
 
-> The mosaic you see in the figure is a mosaic formed by joining white square tiles and black square tiles, all of the same size. The outer edge of the mosaic consists of 16 black tiles. Imagine a mosaic built in the same way, but the outer edge of which, however, is made up of 4,000 black tiles. In this imaginary mosaic, how many more black tiles are there than white tiles?
+> Mosaic What you see in the figure is a mosaic formed by placing white square tiles and black square tiles side by side, all of the same size. The outer border of the mosaic consists of 16 black tiles. Imagine a mosaic built in the same way, but whose outer border consists of 4000 black tiles. In this imaginary mosaic, how many more black tiles are there than white tiles?
 
-**Answer:** 2001
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q13|src_kangourou_2015_squadre_ecolier_f__Q13]]
 
 
 
@@ -519,16 +572,16 @@ Cakes with 13 flavors out of 15 without lemon and pistachio together*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last year with the maximum year quotient*
+*Last year with the highest annual quotient*
 
-> In this millennium          
->       For a year between 2010 and 2999, let us call the quotient of the year the product of the 
-> first and the last digit of the year divided by the sum of the two middle digits. For example, the 
-> quotient of this year is 2 × 5 : (0 + 1) = 10. In some of the coming years, the quotient of the year 
-> will be greater than 10. What will be the last year of this third millennium in which the quotient of the year 
-> will be the greatest possible?
+> In this millennium, for a year between 2010 and 2999, let us call the quotient of the year the product of the first and the last digit of the year, divided by the sum of the two middle digits. For example, the quotient for this year is 2 × 5 : (0 + 1) = 10. In some of the coming years, the quotient of the year will be greater than 10. What will be the last year of this third millennium in which the quotient of the year is as large as possible?
 
-**Answer:** 2109
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q14|src_kangourou_2015_squadre_ecolier_f__Q14]]
 
 
 
@@ -566,20 +619,18 @@ Cakes with 13 flavors out of 15 without lemon and pistachio together*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Euro for painting the solid of 4 cubes (EXPO)*
+*Euro to paint the solid made of 4 cubes (EXPO)*
 
 ![[src_kangourou_2015_squadre_ecolier_f__prob15.png]]
 
-> Four cubes The solid you see in the figure, prepared for EXPO 2015, is obtained by placing four cubes side by side, each with a side of two and a half meters. It has to be painted on all sides, including the base, because every face of it has to be visible to the public. The paint costs two euros per kilogram and it takes five kilograms of paint to paint an area of four and a half square meters. How many euros will be spent on the paint needed to give a coat of paint to the solid?
->  
-> 
->  
->  
->  
-> Kangourou of Mathematics 2015 Kangourou Ecolier Popotus Cervia team cup, 8 May 2015
->  
->  
->  
-> Questions and solutions
+> Four Cubes The solid shown in the figure, prepared for EXPO 2015, is formed by joining 4 cubes, each with sides two and a half metres long. It must be painted on every side, including the base, because each of its faces must be visible to the public. Paint costs two euros per kilogram, and 5 kilograms of paint are needed to paint a surface area of four and a half square metres. How many euros will be spent on the paint needed to apply a coat of paint to the solid? Kangourou della Matematica 2015 Team Cup Kangourou Ecolier Popotus Cervia, 8 May 2015
+>
+>
+>
+> Questions and Solutions
 
-**Answer:** 250
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_squadre_ecolier_f#q15|src_kangourou_2015_squadre_ecolier_f__Q15]]

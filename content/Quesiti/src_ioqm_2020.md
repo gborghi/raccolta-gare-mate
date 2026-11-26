@@ -30,11 +30,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trapezio ABCD, AB=3CD, E punto medio di BD; trovare n dove [ABCD]=n[CDE]*
+*Trapezio ABCD, AB=3CD, E punto medio di BD; trova n tale che [ABCD]=n[CDE]*
 
-> Il $ABCD$ deve essere un trapezio in cui $AB \parallel CD$ e $AB = 3CD$. Il punto medio della diagonale $BD$ è $E$. Se $[ABCD] = n \times [CDE]$, qual è il valore di $n$? (Qui $[\Gamma]$ indica l'area della figura geometrica $\Gamma$.)
+> Sia $ABCD$ un trapezio in cui $AB \parallel CD$ e $AB = 3CD$. Sia $E$ il punto medio della diagonale $BD$. Se $[ABCD] = n \times [CDE]$, qual è il valore di $n$? (Qui $[\Gamma]$ denota l'area della figura geometrica $\Gamma$.)
 
-**Risposta:** 6
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2020#q01|src_ioqm_2020__Q01]]
 
 
 
@@ -58,11 +63,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero N è 503 nella base b e 305 nella base b+2; trovare il prodotto delle cifre di N*
+*Il prodotto delle cifre di N, che è 503 in base b e 305 in base b+2*
 
-> Un numero $N$ nella base 10 è $503$ nella base $b$ e $305$ nella base $b + 2$. Qual è il prodotto delle cifre di $N$?
+> Un numero $N$ in base 10 è $503$ in base $b$ e $305$ in base $b + 2$. Qual è il prodotto delle cifre di $N$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
 **Risposta:** 45
+
+[[Quesiti/src_ioqm_2020#q02|src_ioqm_2020__Q02]]
 
 
 
@@ -86,11 +98,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma del telescopio è pari a 0,9999; trova N*
+*Il valore di N se una somma vale 0,9999*
 
 > Se $\displaystyle\sum_{k=1}^{N} \frac{2k+1}{(k^2+k)^2} = 0.9999$, determinare il valore di $N$.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Somme telescopiche]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
 **Risposta:** 100
+
+[[Quesiti/src_ioqm_2020#q03|src_ioqm_2020__Q03]]
 
 
 
@@ -112,9 +131,15 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo ABCD, AB+BC+CD=20, AE=9, punto medio E di BC; area*
+*Rettangolo ABCD, AB+BC+CD=20, AE=9, E è il punto medio di BC; trovare l'area*
 
-> Il $ABCD$ deve essere un rettangolo in cui $AB + BC + CD = 20$ e $AE = 9$, in cui $E$ è il punto medio del lato $BC$. Trova l'area del rettangolo.
+> Sia $ABCD$ un rettangolo in cui $AB + BC + CD = 20$ e $AE = 9$, dove $E$ è il punto medio del lato $BC$. Determinare l'area del rettangolo.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2020#q04|src_ioqm_2020__Q04]]
 
 
 
@@ -138,11 +163,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Soluzioni integrali per il calcolo del bilancio 2020 <*
+*Il numero di soluzioni intere di ||x| − 2020| < 5*
 
-> Trovare il numero di soluzioni integrali a $\big||x| - 2020\big| < 5$.
+> Trovare il numero di soluzioni intere di $\big||x| - 2020\big| < 5$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
 **Risposta:** 18
+
+[[Quesiti/src_ioqm_2020#q05|src_ioqm_2020__Q05]]
 
 
 
@@ -166,11 +198,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimo intero positivo per moltiplicare 2^3·3^6·4^5·5^7·6^8 per ottenere il quadrato perfetto*
+*Minimo intero positivo da moltiplicare per 2^3·3^6·4^5·5^7·6^8 per ottenere un quadrato perfetto*
 
-> Qual è il numero intero meno positivo per cui $2^3 \cdot 3^6 \cdot 4^5 \cdot 5^7 \cdot 6^8$ deve essere moltiplicato in modo che il prodotto sia un quadrato perfetto?
+> Qual è il più piccolo intero positivo per cui si deve moltiplicare $2^3 \cdot 3^6 \cdot 4^5 \cdot 5^7 \cdot 6^8$ affinché il prodotto sia un quadrato perfetto?
 
-**Risposta:** 30
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2020#q06|src_ioqm_2020__Q06]]
 
 
 
@@ -192,9 +229,15 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isoscelso ABC, D su BC con BD=48, DC=61, CE perpendicolare ad AD; trovare AE*
+*Triangolo isoscele ABC, D su BC con BD=48, DC=61, CE perpendicolare ad AD; trovare AE*
 
-> Che $ABC$ sia un triangolo con $AB = AC$. Il punto $D$ deve essere un punto del segmento $BC$ tale che $BD = 48$ e $DC = 61$. Il $E$ deve essere un punto su $AD$ tale che $CE$ sia perpendicolare a $AD$ e $DC = 61$. Trova $AE$.
+> Sia $ABC$ un triangolo con $AB = AC$. Sia $D$ un punto sul segmento $BC$ tale che $BD = 48$ e $DC = 61$. Sia $E$ un punto su $AD$ tale che $CE$ sia perpendicolare a $AD$ e a $DC = 61$. Trovare $AE$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2020#q07|src_ioqm_2020__Q07]]
 
 
 
@@ -217,9 +260,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*numero a 5 cifre con cifre k, k+1, k+2, 3k, k+3 = m^2; trovare la somma di cifre di m*
+*Numero di 5 cifre le cui cifre sono k, k+1, k+2, 3k, k+3, uguale a m^2; trova la somma delle cifre di m*
 
-> Un numero a 5 cifre (in base 10) ha cifre $k, k+1, k+2, 3k, k+3$ in quell'ordine, da sinistra a destra. Se questo numero è $m^2$ per un certo numero naturale $m$, trovare la somma delle cifre di $m$.
+> Un numero di 5 cifre (in base 10) ha le cifre $k, k+1, k+2, 3k, k+3$ in quell'ordine, da sinistra a destra. Se questo numero è $m^2$ per un certo numero naturale $m$, trova la somma delle cifre di $m$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2020#q08|src_ioqm_2020__Q08]]
 
 
 
@@ -241,9 +291,15 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC, angolo bisectore di C incontra AB a D, linee parallele attraverso D; trovare la somma dei numeri di p-q*
+*Triangolo ABC, la bisettrice dell'angolo C incontra AB in D, rette parallele passanti per D; trovare la somma delle cifre di p-q*
 
-> Si deve $ABC$ essere un triangolo con $AB = 5$, $AC = 4$, $BC = 6$. Il bisettore di angolo interno di $C$ interseca il lato $AB$ a $D$. I punti $M$ e $N$ sono presi sui lati $BC$ e $AC$, rispettivamente, in modo tale che $DM \parallel AC$ e $DN \parallel BC$. Se $\frac{(MN)^2}{p} = \frac{p}{q}$ dove $p$ e $q$ sono numeri interi relativamente primi positivi, qual è la somma dei numeri di $p - q$?
+> Sia $ABC$ un triangolo con $AB = 5$, $AC = 4$, $BC = 6$. La bisettrice dell'angolo interno di $C$ interseca il lato $AB$ in $D$. I punti $M$ e $N$ sono presi sui lati $BC$ e $AC$, rispettivamente, in modo che $DM \parallel AC$ e $DN \parallel BC$. Se $\frac{(MN)^2}{p} = \frac{p}{q}$, dove $p$ e $q$ sono interi positivi coprimi, qual è la somma delle cifre di $p - q$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2020#q09|src_ioqm_2020__Q09]]
 
 
 
@@ -266,9 +322,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque studenti fanno il test 0-100; la differenza più grande possibile tra media e media*
+*Cinque studenti sostengono un test da 0 a 100; la massima differenza possibile tra mediana e media*
 
-> Cinque studenti fanno un test in cui è possibile ottenere un punteggio di un numero intero da 0 a 100 inclusi. Qual è la differenza più grande possibile tra la media e la media dei punteggi? (La media di un insieme di punteggi è il punteggio più medio quando i dati sono organizzati in ordine crescente. È esattamente il punteggio medio quando ci sono un numero impar di punteggi, ed è la media dei due punteggi medi quando ci sono un numero pari di punteggi.)
+> Cinque studenti sostengono un test in cui è possibile ottenere qualsiasi punteggio intero compreso tra 0 e 100, estremi inclusi. Qual è la differenza più grande possibile tra la mediana e la media dei punteggi? (La mediana di un insieme di punteggi è il punteggio centrale quando i dati sono ordinati in ordine crescente. È esattamente il punteggio centrale quando il numero di punteggi è dispari, ed è la media dei due punteggi centrali quando il numero di punteggi è pari.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2020#q10|src_ioqm_2020__Q10]]
 
 
 
@@ -291,9 +354,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta coppie (a,b) in X×X dove x^2+ax+b e x^2+bx+a condividono un normale vero zero*
+*Conta le coppie (a,b) in X×X tali che x^2+ax+b e x^2+bx+a abbiano una radice reale comune*
 
-> Let $X = \{-5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5\}$ e $S = \{(a, b) \in X \times X : x^2 + ax + b \text{ and } x^2 + bx + a \text{ have at least a common real zero}\}$. Quanti elementi ci sono in $S$?
+> Siano $X = \{-5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5\}$ e $S = \{(a, b) \in X \times X : x^2 + ax + b \text{ and } x^2 + bx + a \text{ have at least a common real zero}\}$. Quanti elementi ci sono in $S$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2020#q11|src_ioqm_2020__Q11]]
 
 
 
@@ -318,13 +388,17 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circoli concentrici, accordi che toccano il cerchio interno, angolo ABC=75 gradi; contare gli accordi prima del ritorno*
+*Cerchi concentrici, le corde toccano il cerchio interno, angolo ABC=75 gradi; conta le corde prima del ritorno*
 
-> Dato un paio di cerchi concentrici, gli accordi $AB, BC, CD, \ldots$ del cerchio esterno sono disegnati in modo tale che tutti toccino il cerchio interno. Se $\angle ABC = 75^\circ$, quanti accordi possono essere disegnati prima di tornare al punto di partenza?
+> Dato un paio di cerchi concentrici, si tracciano corde $AB, BC, CD, \ldots$ del cerchio esterno in modo che tutte tocchino il cerchio interno. Se $\angle ABC = 75^\circ$, quante corde si possono tracciare prima di tornare al punto di partenza?
 
 ![[src_ioqm_2020__q12.png]]
 
-**Risposta:** 24
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2020#q12|src_ioqm_2020__Q12]]
 
 
 
@@ -347,9 +421,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadrato perfetto
+*Somma degli interi positivi n per cui |2^n + 5^n − 65| è un quadrato perfetto*
 
-> Trova la somma di tutti gli integri positivi $n$ per i quali $|2^n + 5^n - 65|$ è un quadrato perfetto.
+> Trovare la somma di tutti gli interi positivi $n$ per cui $|2^n + 5^n - 65|$ è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_ioqm_2020#q13|src_ioqm_2020__Q13]]
 
 
 
@@ -372,9 +453,16 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 <div class="qlang-split" data-lang="it"></div>
 
 
-*55×60×65 come prodotto di cinque diversi integri positivi; ridurre al minimo il più grande*
+*55×60×65 come prodotto di cinque interi positivi distinti; minimizzare il più grande*
 
-> Il prodotto $55 \times 60 \times 65$ è scritto come prodotto di cinque diversi numeri interi positivi. Qual è il minimo valore possibile del più grande di questi interi?
+> Il prodotto $55 \times 60 \times 65$ è espresso come prodotto di cinque interi positivi distinti. Qual è il valore minimo possibile del più grande tra questi interi?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2020#q14|src_ioqm_2020__Q14]]
 
 
 
@@ -397,9 +485,16 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre coppie in 2 righe di 3; nessuna coppia nella stessa riga adiacente o nella stessa colonna; ordini di conteggio*
+*Tre coppie disposte in 2 file da 3; nessuna coppia adiacente nella stessa fila né nella stessa colonna; conta le disposizioni*
 
-> Tre coppie si siedono per una fotografia in due righe di tre persone ciascuna in modo tale che nessuna coppia sia seduta nella stessa fila accanto all'altra o nella stessa colonna una dietro l'altra. Quanti accordi sono possibili?
+> Tre coppie posano per una fotografia in 2 file da tre persone ciascuna, in modo che nessuna coppia sia seduta nella stessa fila una accanto all'altra né nella stessa colonna una dietro l'altra. Quante disposizioni sono possibili?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2020#q15|src_ioqm_2020__Q15]]
 
 
 
@@ -421,9 +516,15 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo di scala con lati x,y che soddisfano la condizione di superficie; x=60, y=63; trovare il lato più grande*
+*Triangolo scaleno con lati x, y che soddisfano la condizione sull'area; x=60, y=63; trovare il lato maggiore*
 
-> I lati $x$ e $y$ di un triangolo scaleno soddisfano $x + \dfrac{2\Delta}{x} = y + \dfrac{2\Delta}{y}$, dove $\Delta$ è l'area del triangolo. Se $x = 60$, $y = 63$, qual è la lunghezza del lato più grande del triangolo?
+> I lati $x$ e $y$ di un triangolo scaleno soddisfano $x + \dfrac{2\Delta}{x} = y + \dfrac{2\Delta}{y}$, dove $\Delta$ è l'area del triangolo. Se $x = 60$, $y = 63$, qual è la lunghezza del lato più lungo del triangolo?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2020#q16|src_ioqm_2020__Q16]]
 
 
 
@@ -446,9 +547,16 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare numeri a due cifre con esattamente 4 fattori positivi*
+*Quanti numeri di due cifre hanno esattamente 4 divisori positivi*
 
-> Quanti numeri a due cifre hanno esattamente 4 fattori positivi? (Qui 1 e il numero $n$ sono considerati anche fattori di $n$.)
+> Quanti numeri di due cifre hanno esattamente 4 fattori positivi? (Qui anche 1 e il numero $n$ si considerano fattori di $n$.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_ioqm_2020#q17|src_ioqm_2020__Q17]]
 
 
 
@@ -471,9 +579,16 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare la somma che coinvolge radici quadrate incastonate; trovare a+b*
+*Valuta la somma che coinvolge radici quadrate annidate; trova a+b*
 
-> Se $\displaystyle\sum_{k=0}^{\infty} \left( \sqrt{1 + \frac{1}{k^2} + \frac{1}{(k+1)^2}} \right) = a + \frac{b}{c}$ dove $a, b, c \in \mathbb{N}$, $b < c$, $\gcd(b, c) = 1$, qual è il valore di $a + b$?
+> Se $\displaystyle\sum_{k=0}^{\infty} \left( \sqrt{1 + \frac{1}{k^2} + \frac{1}{(k+1)^2}} \right) = a + \frac{b}{c}$ dove $a, b, c \in \mathbb{N}$, $b < c$, $\gcd(b, c) = 1$, allora qual è il valore di $a + b$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2020#q18|src_ioqm_2020__Q18]]
 
 
 
@@ -495,9 +610,15 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Parallelogramma ABCD, E e F punti di mezzo di AB e BC; linee EC e FD si incrociano a P; trovare superficie triangolare massima*
+*Parallelogramma ABCD, E e F sono i punti medi di AB e BC; le rette EC e FD si intersecano in P; trovare l'area massima del triangolo*
 
-> $ABCD$ sia un parallelo. $E$ e $F$ siano rispettivamente i punti intermedi di $AB$ e $BC$. Le linee $EC$ e $FD$ si incrociano a $P$ e formano quattro triangoli $APB$, $BPC$, $CPD$ e $DPA$. Se l'area del parallelo è di 100 sq. unità, qual è la superficie massima in sq. unità di un triangolo tra questi quattro triangoli?
+> Sia $ABCD$ un parallelogramma. Siano $E$ e $F$ i punti medi di $AB$ e $BC$ rispettivamente. Le rette $EC$ e $FD$ si intersecano in $P$ e formano quattro triangoli $APB$, $BPC$, $CPD$ e $DPA$. Se l'area del parallelogramma è di 100 unità quadrate, qual è l'area massima, in unità quadrate, di un triangolo tra questi quattro triangoli?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2020#q19|src_ioqm_2020__Q19]]
 
 
 
@@ -519,9 +640,15 @@ La somma di tutti gli integri positivi n per i quali 2^n + 5^n - 65 è un quadra
 <div class="qlang-split" data-lang="it"></div>
 
 
-Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quelle dell'ultimo; trovano le ore lavorate dalla prima donna*
+*Le donne costruiscono un muro in 45 ore; la prima ha lavorato 5 volte più ore dell'ultima; determina quante ore ha lavorato la prima donna*
 
-> Un gruppo di donne che lavorano insieme allo stesso ritmo può costruire un muro in 45 ore. Quando l'opera iniziò, non tutte le donne iniziarono a lavorare insieme. Si univano al lavoro nel corso di un periodo di tempo, uno dopo l'altro, a uguali intervalli. Una volta al lavoro, ciascuno rimaneva fino a quando il lavoro era finito. Se la prima donna ha lavorato 5 volte più ore dell'ultima donna, per quante ore ha lavorato la prima donna?
+> Un gruppo di donne che lavorano insieme con lo stesso ritmo può costruire un muro in 45 ore. Quando si è iniziato il lavoro, non tutte le donne hanno iniziato a lavorare insieme. Si sono aggiunte al lavoro nel corso di un certo periodo, una alla volta, a intervalli uguali. Una volta messe al lavoro, ciascuna è rimasta fino al completamento dell'opera. Se la prima donna ha lavorato 5 volte tante ore quanta ne ha lavorate l'ultima, per quante ore ha lavorato la prima donna?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2020#q20|src_ioqm_2020__Q20]]
 
 
 
@@ -543,9 +670,15 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N mila rupie assegnate a A,B,C in proporzione all'età ogni anno; trovare N*
+*Ogni anno, N migliaia di rupie vengono assegnate ad A, B e C in proporzione all'età; determinare N*
 
-> Un totale di $N$ mille rupie viene versato ogni anno a tre persone $A, B, C$, a ciascuna una somma proporzionale alla sua età. Nel primo anno, $A$ ha ottenuto il sesto settimo dell'importo totale. Quando è stato effettuato il sesto pagamento, $A$ ha ricevuto la metà dell'importo totale. Nel secondo anno, $B$ ha ottenuto 1000 rupie in meno rispetto al primo anno; e $C$ ha ottenuto il doppio di quello che aveva nel primo anno. Trova $N$.
+> Ogni anno vengono assegnati in totale $N$ mila rupie a tre persone $A, B, C$, e a ciascuna viene data una somma proporzionale alla sua età. Nel primo anno, $A$ ha ricevuto sei settimi dell'importo totale. Quando è stato effettuato il sesto pagamento, $A$ ha ricevuto la metà dell'importo totale. Nel secondo anno, $B$ ha ricevuto 1000 rupie in meno rispetto a quanto aveva ricevuto nel primo anno; e $C$ ha ricevuto il doppio di quanto aveva ricevuto nel primo anno. Determinare $N$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2020#q21|src_ioqm_2020__Q21]]
 
 
 
@@ -568,11 +701,15 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC, perpendicolari da A a bisettori angolari di B e C; trovare superficie data PQ=7, QR=6, RS=8*
+*Triangolo ABC, perpendicolari condotte da A alle bisettrici degli angoli in B e C; determina l'area sapendo che PQ=7, QR=6, RS=8*
 
-> Nel triangolo $ABC$, $P$ e $R$ siano i piedi delle perpendicolari da $A$ ai bisettici esterni e interni di $\angle ABC$, rispettivamente; e $Q$ e $S$ siano i piedi delle perpendicolari da $A$ ai bisettici interni ed esterni di $\angle ACB$, rispettivamente. Se $PQ = 7$, $QR = 6$ e $RS = 8$, qual è la superficie del triangolo $ABC$?
+> Nel triangolo $ABC$, siano $P$ e $R$ i piedi delle perpendicolari condotte da $A$ rispettivamente sull'asse bisettrice esterno e sull'asse bisettrice interno di $\angle ABC$; e siano $Q$ e $S$ i piedi delle perpendicolari condotte da $A$ rispettivamente sull'asse bisettrice interno e sull'asse bisettrice esterno di $\angle ACB$. Se $PQ = 7$, $QR = 6$ e $RS = 8$, qual è l'area del triangolo $ABC$?
 
-**Risposta:** 84
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2020#q22|src_ioqm_2020__Q22]]
 
 
 
@@ -594,9 +731,15 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Incircolo di triangolo di scalene; radii di circolo mistilineare r_A=16, r_B=25, r_C=36; radio di ritrovamento*
+*Incerchio del triangolo scaleno; raggi degli incerchi mistilinei r_A=16, r_B=25, r_C=36; trovare il raggio inradiato*
 
-> L'incircolo $\Gamma$ di un triangolo di scalene $ABC$ tocca $BC$ a $D$, $CA$ a $E$ e $AB$ a $F$. Il $r_A$ deve essere il raggio del cerchio all'interno di $ABC$ che è tangente a $\Gamma$ e ai lati $AB$ e $AC$. Definire $r_B$ e $r_C$ in modo simile. Se $r_A = 16$, $r_B = 25$ e $r_C = 36$, determinare il raggio di $\Gamma$.
+> L'incircoscritta $\Gamma$ di un triangolo scaleno $ABC$ tocca $BC$ in $D$, $CA$ in $E$ e $AB$ in $F$. Sia $r_A$ il raggio del cerchio all'interno di $ABC$ che è tangente a $\Gamma$ e ai lati $AB$ e $AC$. Definisci $r_B$ e $r_C$ in modo analogo. Se $r_A = 16$, $r_B = 25$ e $r_C = 36$, determina il raggio di $\Gamma$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2020#q23|src_ioqm_2020__Q23]]
 
 
 
@@ -619,9 +762,16 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Luce a (0,16), raggio di disco 2 a (6,10); lunghezza delle ombre sull'asse x = m√n; trovare m+n*
+*Luce in (0,16), raggio del disco 2 in (6,10); la lunghezza dell'ombra sull'asse x è uguale a m√n; trova m+n*
 
-> Una fonte luminosa al punto $(0, 16)$ del piano di coordinate lancia luce in tutte le direzioni. Un disco (un cerchio con il suo interno) di raggio 2 con il centro a $(6, 10)$ lancia un'ombra sull'asse $X$. La lunghezza dell'ombra può essere scritta nella forma $m\sqrt{n}$, dove $m, n$ sono numeri interi positivi e $n$ è quadrato libero. Trova $m + n$.
+> Una sorgente luminosa nel punto $(0, 16)$ del piano cartesiano emette luce in tutte le direzioni. Un disco (un cerchio insieme al suo interno) di raggio 2 e centro in $(6, 10)$ proietta un'ombra sull'asse $X$. La lunghezza dell'ombra può essere espressa nella forma $m\sqrt{n}$, dove $m, n$ sono interi positivi e $n$ è libero da quadrati. Determinare $m + n$.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2020#q24|src_ioqm_2020__Q24]]
 
 
 
@@ -644,9 +794,16 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La formula del prodotto con i quadrati perfetti più vicini è la più piccola N positiva; trovare la somma dei quadrati di cifre*
+*Minimo N positivo per cui vale la formula del prodotto con i quadrati perfetti più vicini; trova la somma dei quadrati delle cifre*
 
-> Per un numero intero positivo $n$, $\langle n \rangle$ indica il numero intero quadrato perfetto più vicino a $n$. Ad esempio, $\langle 74 \rangle = 81$, $\langle 18 \rangle = 16$. Se $N$ è il numero intero positivo più piccolo tale che $$\langle 91 \rangle \cdot \langle 120 \rangle \cdot \langle 143 \rangle \cdot \langle 180 \rangle \cdot N = 91 \cdot 120 \cdot 143 \cdot 180 \cdot N,$$ trovi la somma dei quadrati delle cifre di $N$.
+> Sia $n$ un numero intero positivo; indichiamo con $\langle n \rangle$ il numero intero quadrato perfetto più vicino a $n$. Ad esempio, $\langle 74 \rangle = 81$, $\langle 18 \rangle = 16$. Se $N$ è il più piccolo numero intero positivo tale che $$\langle 91 \rangle \cdot \langle 120 \rangle \cdot \langle 143 \rangle \cdot \langle 180 \rangle \cdot N = 91 \cdot 120 \cdot 143 \cdot 180 \cdot N,$$, determina la somma dei quadrati delle cifre di $N$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2020#q25|src_ioqm_2020__Q25]]
 
 
 
@@ -671,11 +828,18 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colore 6 dischi con 2 nero, 2 blu, 2 bianchi; contare colori distinti sotto rotazione/riflessione*
+*Colora 6 dischi con 2 neri, 2 blu e 2 bianchi; conta le colorazioni distinte sotto rotazione/riflessione*
 
-> Nella figura seguente, 4 dei 6 dischi devono essere di colore nero e 2 di colore bianco. Due colori che possono essere ottenuti l'uno dall'altro mediante una rotazione o un riflesso dell'intera figura sono considerati uguali. Esistono solo quattro colori di questo tipo per i due colori indicati, come mostrato alla figura 1. In quanti modi possiamo colorare i 6 dischi in modo che 2 siano di colore nero, 2 siano di colore blu con la condizione di identificazione data?
+> Nella figura sottostante, 4 dei 6 dischi devono essere colorati di nero e 2 di bianco. Due colorazioni che possono essere ottenute l'una dall'altra mediante una rotazione o una riflessione dell'intera figura sono considerate identiche. Per i due colori dati, esistono solo quattro colorazioni di questo tipo, come mostrato nella Figura 1. In quanti modi si possono colorare i 6 dischi in modo che 2 siano colorati di nero, 2 di blu, con la condizione di identificazione data?
 
 ![[src_ioqm_2020__q26.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2020#q26|src_ioqm_2020__Q26]]
 
 
 
@@ -698,9 +862,16 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bug si muove lungo le linee della griglia da A=(-3,2) a B=(3,-2), lunghezza del percorso al massimo 14; contare i punti interi sui percorsi*
+*Il bug si muove lungo le linee della griglia da A=(-3,2) a B=(3,-2), con lunghezza del percorso al massimo 14; conta i punti interi sui percorsi*
 
-> Un bug viaggia nel piano delle coordinate muovendosi solo lungo le linee parallele all'asse $x$ o all'asse $y$. Let $A = (-3, 2)$ e $B = (3, -2)$. Considera tutti i percorsi possibili del bug da $A$ a $B$ di lunghezza massima 14. Quanti punti con coordinate interi si trovano su almeno uno di questi percorsi?
+> Un insetto si muove nel piano cartesiano spostandosi solo lungo le rette parallele all'asse $x$ o all'asse $y$. Siano $A = (-3, 2)$ e $B = (3, -2)$. Si considerino tutti i possibili percorsi dell'insetto da $A$ a $B$ di lunghezza al più 14. Quanti punti a coordinate intere giacciono su almeno uno di questi percorsi?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_ioqm_2020#q27|src_ioqm_2020__Q27]]
 
 
 
@@ -723,9 +894,16 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri buoni in {1,...,100} dove il valore buono significa la somma di r>=2 interi positivi consecutivi*
+*Conta i numeri buoni nell'intervallo {1,...,100}, dove un numero è buono se è la somma di r>=2 interi positivi consecutivi*
 
-> Si dice che un numero naturale $n$ sia buono se $n$ è la somma di $r$ interi positivi consecutivi, per alcuni $r \ge 2$. Trova il numero di numeri buoni nell'insieme $\{1, 2, \ldots, 100\}$.
+> Un numero naturale $n$ si dice buono se $n$ è la somma di $r$ interi positivi consecutivi, per un certo $r \ge 2$. Determinare il numero di numeri buoni nell'insieme $\{1, 2, \ldots, 100\}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2020#q28|src_ioqm_2020__Q28]]
 
 
 
@@ -748,9 +926,16 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieri interi positivi a,b,c con ab/(a-b)=c; trovare i più grandi a+b+c non superiori a 99*
+*Interi positivi a, b, c tali che ab/(a-b)=c; trovare il valore massimo di a+b+c non superiore a 99*
 
-> I numeri interi positivi $a, b, c$ soddisfano $\dfrac{ab}{a - b} = c$. Qual è il valore più grande possibile di $a + b + c$ non superiore a 99?
+> I numeri interi positivi $a, b, c$ soddisfano $\dfrac{ab}{a - b} = c$. Qual è il valore più grande possibile di $a + b + c$ che non supera 99?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2020#q29|src_ioqm_2020__Q29]]
 
 
 
@@ -773,6 +958,13 @@ Le donne costruiscono il muro in 45 ore; prima lavorano 5 volte più ore di quel
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare coppie (a,b) di numeri naturali in cui a+1 divide b-1 e b divide a^2+2*
+*Coppie di naturali per cui a+1 divide b−1 e b divide a²+2*
 
-> Trova il numero di coppie $(a, b)$ di numeri naturali in modo tale che $a + 1$ divida $b - 1$ e $b$ divida $a^2 + 2$.
+> Trovare il numero di coppie $(a, b)$ di numeri naturali tali che $a + 1$ divide $b - 1$ e $b$ divide $a^2 + 2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_ioqm_2020#q30|src_ioqm_2020__Q30]]

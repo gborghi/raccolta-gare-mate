@@ -35,15 +35,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piegare un foglio rettangolare lungo la sua diagonale, quindi in modo che C incontra A; mostrare il quadrilaterale pieghevole è un rombo e trovare la sua area*
+*Piega un foglio rettangolare lungo la sua diagonale, in modo che C coincida con A; dimostrare che il quadrilatero formato dalle pieghe è un rombo e determina la sua area*
 
-> Un foglio di carta rettangolare $ABCD$, di superficie $1$, viene piegato lungo la sua diagonale $AC$ e poi svolto; successivamente viene piegato in modo che il vertice $C$ coincida con il vertice $A$, e poi svolto, lasciando la piega $MN$, come nel disegno di seguito.
-> 
-> **a) ** Mostra che il quadrilaterale $AMCN$ è un rombo.
-> 
-> **b) ** Se la diagonale $AC$ è doppia della larghezza $AD$, qual è la superficie del rombo $AMCN$?
+> Un foglio di carta rettangolare $ABCD$, di area $1$, viene piegato lungo la sua diagonale $AC$ e poi riaperto; successivamente viene piegato in modo che il vertice $C$ coincida con il vertice $A$, e poi riaperto, lasciando la piega $MN$, come nella figura sottostante.
+>
+> **a)** Dimostrare che il quadrilatero $AMCN$ è un rombo.
+>
+> **b)** Se la diagonale $AC$ è il doppio della larghezza $AD$, qual è l'area del rombo $AMCN$?
 
 ![[src_obm_2001_n2_f3__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n2_f3#q01|src_obm_2001_n2_f3__Q01]]
 
 
 
@@ -74,17 +81,24 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*42 bambini numerati in una linea su una griglia di piastrelle quadrate, numeri consecutivi su piastrelle adiacenti; decidere quale disegno dell'ispettore sia sbagliato e completare quello corretto*
+*42 bambini numerati in fila stanno su una griglia di piastrelle quadrate; i numeri consecutivi si trovano su piastrelle adiacenti. Determinare quale disegno dell'ispettore è errato e completa quello corretto*
 
-> I bambini $42$ di una scuola di giardino si uniscono per formare una linea, e uno di loro riceve il numero $1$, il numero successivo $2$, e così via, successivamente, fino all'ultimo, che riceve il numero $42$. Continuando a tenersi le mani, uscirono nel cortile e ognuno si posizionò su una piastrella (una piastrella quadrata); due bambini con numeri consecutivi si posizionarono su piastrelle adiacenti di una stessa riga o di una stessa colonna, fianco a fianco. In seguito due ispettori fecero un disegno che mostrava, su alcune piastrelle, dove alcuni dei bambini si erano posizionati. I due disegni (uno di Maria, l'altro di C\u00e9lia) dovevano rappresentare la stessa disposizione sulle stesse piastrelle. Comparandole, l'ispettore capo disse a uno dei due: "Il tuo disegno è sbagliato!"
-> 
-> Con quale dei due ispettori l'ispettore capo ha concordato? Quale disegno è corretto, e quale è il ragionamento dell'ispettore capo?
-> 
-> *ii) * Completa il disegno corretto in modo che soddisfi le condizioni della dichiarazione.
-> 
-> Nel disegno di Maria (a sinistra), due celle adiacenti nella riga superiore contengono $11$ e $20$, e una cella più in basso contiene $31$. Nel disegno di C\u00e9lia (a destra), due celle adiacenti nella riga superiore contengono $11$ e $20$, e una cella più in basso contiene $31$ (posizionata in una posizione relativa diversa dal disegno di Maria).
+> I $42$ bambini di una scuola dell'infanzia si presero per mano formando una fila, e uno di loro ricevette il numero $1$, il successivo il numero $2$, e così via, in successione, fino all'ultimo, che ricevette il numero $42$. Tenendosi ancora per mano, uscirono nel cortile e ciascuno si collocò su una piastrella (una piastrella quadrata); due bambini con numeri consecutivi si collocarono su piastrelle adiacenti della stessa riga o della stessa colonna, uno accanto all'altro. Successivamente, due ispettori realizzarono ciascuno un disegno che mostrava, su alcune delle piastrelle, dove si erano collocati alcuni dei bambini. I due disegni (uno di Maria, uno di Célia) avrebbero dovuto rappresentare la stessa disposizione sulle stesse piastrelle. Confrontandoli, l'ispettore capo disse a uno dei due: "Il tuo disegno è sbagliato!"
+>
+> *i)* Con quale dei due ispettori è d'accordo l'ispettore capo? Quale disegno è corretto e qual è la motivazione dell'ispettore capo?
+>
+> *ii)* Completa il disegno corretto in modo che soddisfi le condizioni dell'enunciato.
+>
+> Nel disegno di Maria (a sinistra), due celle adiacenti nella riga superiore contengono $11$ e $20$, e una cella più in basso contiene $31$. Nel disegno di Célia (a destra), due celle adiacenti nella riga superiore contengono $11$ e $20$, e una cella più in basso contiene $31$ (posizionata in una posizione relativa diversa rispetto al disegno di Maria).
 
 ![[src_obm_2001_n2_f3__q02.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n2_f3#q02|src_obm_2001_n2_f3__Q02]]
 
 
 
@@ -109,11 +123,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove solo finitamente molti triangoli a lato intero hanno un'altitudine di un dato numero intero h rispetto al lato c*
+*Dimostrare che solo un numero finito di triangoli con i lati interi hanno un'altezza intera h relativa al lato c*
 
-> Date un intero positivo $h$, dimostrare che esiste solo un numero finito di triangoli con lati interi $a$, $b$, $c$ e altitudine relativa al lato $c$ uguale a $h$.
+> Dato un numero intero positivo $h$, dimostrare che esiste solo un numero finito di triangoli con lati interi $a$, $b$, $c$ e altezza relativa al lato $c$ pari a $h$.
 
 ![[src_obm_2001_n2_f3__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n2_f3#q03|src_obm_2001_n2_f3__Q03]]
 
 
 
@@ -136,9 +157,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostra che non esistono due interi a, b che soddisfano (a+b)(a^2+b^2)=2001*
+*Dimostrare che non esistono due interi a, b tali che (a+b)(a^2+b^2)=2001*
 
-> Indicare che non esistono due integri $a$ e $b$ tali da $(a+b)(a^2+b^2)=2001$.
+> Dimostrare che non esistono due interi $a$ e $b$ tali che $(a+b)(a^2+b^2)=2001$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n2_f3#q04|src_obm_2001_n2_f3__Q04]]
 
 
 
@@ -162,9 +190,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i valori possibili di un'espressione simmetrica in a, b, c dati a+b+c=0*
+*Trovare tutti i valori possibili di un'espressione simmetrica in a, b, c, dato che a+b+c=0*
 
-> Lasciate che $a$, $b$ e $c$ siano numeri reali non zeri come $a+b+c=0$. Calcolare i possibili valori di $$\frac{(a^3+b^3+c^3)^2(a^4+b^4+c^4)}{(a^5+b^5+c^5)^2}.$$
+> Siano $a$, $b$ e $c$ numeri reali non nulli tali che $a+b+c=0$. Calcola i valori possibili di
+> $$\frac{(a^3+b^3+c^3)^2(a^4+b^4+c^4)}{(a^5+b^5+c^5)^2}.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n2_f3#q05|src_obm_2001_n2_f3__Q05]]
 
 
 
@@ -187,6 +223,13 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove le quattro altitudini di un quadrilaterale convex in concorso se il quadrilaterale è ciclico*
+*Dimostrare che le quattro altezze di un quadrilatero convesso sono concorrenti se e solo se il quadrilatero è ciclico*
 
-> In un quadrilaterale convexo, l'altitudine ** rispetto a un lato è definita come la perpendicolare a quel lato che passa attraverso il punto medio del lato opposto. Prova che le quattro altitudini hanno un punto comune se e solo se il quadrilaterale è iscribile (ciclico), cioè se e solo se esiste un cerchio che contiene i suoi quattro vertici.
+> In un quadrilatero convesso, l'*altezza* relativa a un lato è definita come la perpendicolare a quel lato che passa per il punto medio del lato opposto. Dimostrare che le quattro altezze hanno un punto comune se e solo se il quadrilatero è inscrivibile (ciclico), cioè se e solo se esiste una circonferenza che contiene i suoi quattro vertici.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n2_f3#q06|src_obm_2001_n2_f3__Q06]]

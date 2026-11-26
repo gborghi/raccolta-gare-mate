@@ -31,11 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo tangente a lato di triangolo equilaterale; prova l'uguaglianza di lunghezza*
+*Cerchio tangente a un lato di un triangolo equilatero; dimostrare l'uguaglianza delle lunghezze*
 
-> Che $ABC$ sia un triangolo equilaterale e $D$ un punto interno del lato $BC$. Un cerchio, tangente a $BC$ a $D$, taglia $AB$ internamente a $M$ e $N$, e $AC$ internamente a $P$ e $Q$.
-> 
-> Mostra che $BD + AM + AN = CD + AP + AQ$.
+> Sia $ABC$ un triangolo equilatero e $D$ un punto interno del lato $BC$. Una circonferenza, tangente a $BC$ in $D$, interseca internamente $AB$ nei punti $M$ e $N$, e interseca internamente $AC$ nei punti $P$ e $Q$.
+>
+> Dimostrare che $BD + AM + AN = CD + AP + AQ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2003-04_round2#q01|src_bmo_2003-04_round2__Q01]]
 
 
 
@@ -60,9 +67,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca un numero intero con 0 del 2004 e 0 del 2004 in binario, divisibile per 2004*
+*Trovare un numero intero, espresso in binario, che abbia 2004 zeri e 2004 uni e sia divisibile per 2004*
 
-> Indicare che esiste un intero $n$ con le seguenti proprietà: (i) l'espansione binaria di $n$ ha precisamente $2004$ $0$s e $2004$ $1$s; (ii) $2004$ divide $n$.
+> Dimostrare che esiste un intero $n$ con le seguenti proprietà: (i) lo sviluppo binario di $n$ ha esattamente $2004$ $0$ e $2004$ $1$; (ii) $2004$ divide $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2003-04_round2#q02|src_bmo_2003-04_round2__Q02]]
 
 
 
@@ -89,11 +103,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Signolo della somma di cubetti equivalente a segno della somma di quinto poteri sotto somma zero*
+*Segno della somma dei cubi equivalente al segno della somma delle quinte potenze in condizione di somma nulla*
 
-> (a) Con i numeri reali $a, b, c$, con $a + b + c = 0$, dimostrare che $$a^3 + b^3 + c^3 > 0 \quad\text{if and only if}\quad a^5 + b^5 + c^5 > 0.$$
-> 
-> b) Con i numeri reali $a, b, c, d$, con $a + b + c + d = 0$, dimostrare che $$a^3 + b^3 + c^3 + d^3 > 0 \quad\text{if and only if}\quad a^5 + b^5 + c^5 + d^5 > 0.$$
+> (a) Dati i numeri reali $a, b, c$, con $a + b + c = 0$, dimostrare che
+> $$a^3 + b^3 + c^3 > 0 \quad\text{if and only if}\quad a^5 + b^5 + c^5 > 0.$$
+>
+> (b) Dati i numeri reali $a, b, c, d$, con $a + b + c + d = 0$, dimostrare che
+> $$a^3 + b^3 + c^3 + d^3 > 0 \quad\text{if and only if}\quad a^5 + b^5 + c^5 + d^5 > 0.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2003-04_round2#q03|src_bmo_2003-04_round2__Q03]]
 
 
 
@@ -122,8 +145,19 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un numero limitato di blocchi di cifre distinte implica razionalità*
+*Un numero limitato di blocchi di cifre distinti implica la razionalità*
 
-> Il numero reale $x$ tra $0$ e $1$ ha la rappresentazione decimale $$0.a_1 a_2 a_3 a_4 \ldots$$ con la seguente proprietà: il numero di blocchi $distinct$ della forma $$a_k a_{k+1} a_{k+2} \ldots a_{k+2003},$$ come $k$ si estende attraverso tutti i numeri interi positivi, è inferiore o uguale a $2004$.
-> 
-> Provare che $x$ è razionale.
+> Il numero reale $x$ compreso tra $0$ e $1$ ha rappresentazione decimale
+> $$0.a_1 a_2 a_3 a_4 \ldots$$
+> con la seguente proprietà: il numero di $distinct$ blocchi della forma
+> $$a_k a_{k+1} a_{k+2} \ldots a_{k+2003},$$
+> quando $k$ varia su tutti gli interi positivi, è minore o uguale a $2004$.
+>
+> Dimostrare che $x$ è razionale.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2003-04_round2#q04|src_bmo_2003-04_round2__Q04]]

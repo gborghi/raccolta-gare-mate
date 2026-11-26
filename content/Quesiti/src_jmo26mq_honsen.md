@@ -29,9 +29,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei conti dei divisori di kp+1 in [k,p) su k=1..p-1*
+*Somma del numero di divisori in certi intervalli*
 
-> $p$ sia un numero primo. Per ogni numero intero $k$ con $1 \le k \le p-1$, $a_k$ è il numero di divisori di $kp+1$ che sono superiori o uguali a $k$ e inferiori a $p$. Trova il valore di $a_1 + a_2 + \cdots + a_{p-1}$.
+> Sia $p$ un numero primo. Per ogni intero $k$ con $1 \le k \le p-1$, sia $a_k$ il numero di divisori di $kp+1$ che sono maggiori o uguali a $k$ e minori di $p$. Trovare il valore di $a_1 + a_2 + \cdots + a_{p-1}$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo26mq_honsen#q01|src_jmo26mq_honsen__Q01]]
 
 
 
@@ -56,11 +61,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterali ciclici: bisettori angolari, punti di mezzo, linea parallela*
+*Una retta parallela a una diagonale di un quadrilatero ciclico*
 
-> Un quadrilaterale ciclico $ABCD$ è inserito in un cerchio, soddisfacendo $AB : AD = CD : CB$. Il $X$ è l'intersezione delle diagonali $AC$ e $BD$, e il $Y$ è l'intersezione delle linee $AB$ e $CD$. $E$, $F$, $G$, $H$ siano rispettivamente i punti intermedi di $AB$, $BC$, $CD$ e $DA$. $S$ sia l'intersezione del bisettore angolare di $\angle AXB$ con il segmento $EG$, e $T$ sia l'intersezione del bisettore angolare di $\angle AYD$ con il segmento $FH$. Prova che la linea $ST$ è parallela alla diagonale $BD$.
-> 
+> Un quadrilatero ciclico $ABCD$ è inscritto in una circonferenza, e soddisfa $AB : AD = CD : CB$. Sia $X$ l'intersezione delle diagonali $AC$ e $BD$, e sia $Y$ l'intersezione delle rette $AB$ e $CD$. Siano $E$, $F$, $G$, $H$ i punti medi di $AB$, $BC$, $CD$, $DA$ rispettivamente. Sia $S$ l'intersezione della bisettrice dell'angolo $\angle AXB$ con il segmento $EG$, e sia $T$ l'intersezione della bisettrice dell'angolo $\angle AYD$ con il segmento $FH$. Dimostrare che la retta $ST$ è parallela alla diagonale $BD$.
+>
 > (Qui $UV$ indica la lunghezza del segmento $UV$.)
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo26mq_honsen#q02|src_jmo26mq_honsen__Q02]]
 
 
 
@@ -90,15 +100,21 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*JMO Microtassazione delle monete del Regno: trovare monete totali minime S*
+*Minimo numero di monete per cui una microtassazione può continuare all'infinito*
 
-> $n$ sia un numero intero positivo. Nel Regno dell'OMS ci sono cittadini $2^n$ e un re. La moneta è costituita da monete $2^a$-yen per $a = 0, 1, 2, \ldots, n-1$ (cioè monete $1$-yen, $2$-yen, $4$-yen, $\ldots$, $2^{n-1}$-yen). Ogni cittadino possiede molte denominazioni. Il numero totale di monete detenute da tutti i cittadini è $S$.
-> 
-> A partire da qualche giorno, il Regno JMO svolge ogni giorno la seguente operazione, chiamata "micro-tassazione":
-> 
-> - Ogni cittadino seleziona un sottoinsieme finito (possibilmente vuoto) delle monete che detiene attualmente e quella notte consegna tutte le monete selezionate ad altri cittadini (distribuendole tra gli altri cittadini come desiderano). - Dopo questo passaggio, per ogni cittadino, l'importo totale che ha donato è rigorosamente superiore a $1$ yen superiore all'importo totale che ha ricevuto.
-> 
-> Si dice che la micro-tassazione possa continuare a tempo indeterminato nel Regno dell'OMM. Trova il valore minimo di $S$ per il quale questo è raggiungibile.
+> Sia $n$ un intero positivo. Nel Regno JMO ci sono $2^n$ cittadini e un re. La moneta consiste in monete da $2^a$ yen per $a = 0, 1, 2, \ldots, n-1$ (cioè monete da $1$ yen, da $2$ yen, da $4$ yen, $\ldots$, da $2^{n-1}$ yen). Ogni cittadino possiede molte monete di ciascun taglio. Il numero totale di monete possedute da tutti i cittadini è $S$.
+>
+> A partire da un certo giorno, il Regno JMO esegue ogni giorno l'operazione seguente, detta «microtassazione»:
+>
+> - ogni cittadino sceglie un sottoinsieme finito (eventualmente vuoto) delle monete che ha in quel momento, e quella notte consegna tutte le monete scelte ad altri cittadini (distribuendole fra gli altri cittadini come vuole);
+> - dopo questo passo, per ogni cittadino, l'importo totale che ha dato è reso strettamente maggiore di più di $1$ yen dell'importo totale che ha ricevuto.
+>
+> Si dice che nel Regno JMO la microtassazione può continuare indefinitamente. Trovare il minimo valore di $S$ per il quale questo è realizzabile.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_induzione|Induzione]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo26mq_honsen#q03|src_jmo26mq_honsen__Q03]]
 
 
 
@@ -123,9 +139,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni reali che soddisfano f(yf(x) -x) = f(x) f(y) +2x*
+*Funzioni reali che soddisfano un'equazione funzionale*
 
-> Trovare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ definite su tutti i numeri reali in modo tale che per tutti i numeri reali $x, y$, $$f(yf(x) - x) = f(x)f(y) + 2x$$ si mantenga.
+> Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ definite su tutti i numeri reali tali che per tutti i numeri reali $x, y$ valga
+>
+> $$f(yf(x) - x) = f(x)f(y) + 2x$$
+
+**Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]], [[method_backward|Ragionamento all'indietro]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo26mq_honsen#q04|src_jmo26mq_honsen__Q04]]
 
 
 
@@ -153,10 +176,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Partire le città in due gruppi in modo che ciascuna città abbia al massimo 1 autostrada*
+*Una partizione delle città in due gruppi con pochi svincoli per città*
 
-> $m, n$ siano integri positivi con $m \ge 2$ e $n < \dfrac{3}{2}(m-1)$. Un paese ha città $m$ e strade $n$, dove ciascuna strada collega due città distinte (potrebbero esserci più strade tra la stessa coppia di città).
-> 
-> Le città devono essere suddivise in due gruppi $\alpha$ e $\beta$ e ogni strada che collega una città del gruppo $\alpha$ a una città del gruppo $\beta$ è designata autostrada. Dimostrare l'esistenza di una tale partizione che soddisfa entrambe le seguenti condizioni:
-> 
-> - Ogni gruppo contiene almeno una città. - Per ogni città, il numero di incidenti sulle autostrade in quella città è massimo $1$.
+> Siano $m, n$ interi positivi con $m \ge 2$ e $n < \dfrac{3}{2}(m-1)$. Un paese ha $m$ città e $n$ strade, e ogni strada collega due città distinte (tra la stessa coppia di città ci possono essere più strade).
+>
+> Le città vanno divise in due gruppi $\alpha$ e $\beta$, e ogni strada che collega una città del gruppo $\alpha$ a una città del gruppo $\beta$ è designata autostrada. Dimostrare che esiste una tale partizione che soddisfa entrambe le condizioni seguenti:
+>
+> - ogni gruppo contiene almeno una città;
+> - per ogni città, il numero di autostrade incidenti a quella città è al più $1$.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_induzione|Induzione]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_jmo26mq_honsen#q05|src_jmo26mq_honsen__Q05]]

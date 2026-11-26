@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova un intero positivo n per lo scambio di moneta Paul-Jenny*
+*Valori possibili di $n$ nello scambio di sterline fra Paul e Jenny*
 
-> Ciascuno di loro ha un gran numero di chili. Le dice: "Se mi dai $\pounds 3$, avrò $n$ volte quanto te". Le dice: "Se mi dai $\pounds n$, avrò $3$ volte quanto te". Dato che tutte queste affermazioni sono vere e che $n$ è un intero positivo, quali sono i valori possibili per $n$?
+> Paul e Jenny hanno ciascuno un numero intero di sterline. Lei gli dice: «Se mi dai $\pounds 3$, avrò $n$ volte quello che hai tu». Lui le dice: «Se mi dai $\pounds n$, avrò $3$ volte quello che hai tu». Sapendo che tutte queste affermazioni sono vere e che $n$ è un intero positivo, quali sono i valori possibili di $n$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2005#q01|src_bmo1_2005__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove CP = CQ utilizzando semicircoli di altitudine a piedi sui lati del triangolo*
+*Dimostrare che $CP = CQ$*
 
-> Il $ABC$ è un triangolo acuto, e il $D$, $E$ sono i piedi delle altitudini da $A$, $B$ a $BC$, $CA$ rispettivamente. $P$ è il punto in cui la linea $AD$ incontra il semicircolo costruito verso l'esterno su $BC$, e $Q$ è il punto in cui la linea $BE$ incontra il semicircolo costruito verso l'esterno su $AC$. Prove che $CP = CQ$.
+> Sia $ABC$ un triangolo acutangolo, e siano $D$, $E$ i piedi delle altezze da $A$, $B$ rispettivamente su $BC$, $CA$. Sia $P$ il punto in cui la retta $AD$ incontra la semicirconferenza costruita esternamente su $BC$, e $Q$ il punto in cui la retta $BE$ incontra la semicirconferenza costruita esternamente su $AC$. Dimostrare che $CP = CQ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2005#q02|src_bmo1_2005__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Almeno n in modo che qualsiasi 2 colori di {1,...,n} producano una monocromatica x+y+z=w*
+*Il minimo $n$ per cui ogni colorazione di $\{1, 2, \ldots, n\}$ ha $x + y + z = w$ monocromatici*
 
-> Determinare il numero naturale minimo $n$ per il quale è valido il seguente risultato: Indipendentemente dal colore rosso o blu degli elementi del set $\{1, 2, \ldots, n\}$, nel set (non necessariamente distinto) ci sono enti $x, y, z$ dello stesso colore, come $x + y + z = w$.
+> Determinare il minimo numero naturale $n$ per cui vale il risultato seguente: comunque si colorino di rosso o di blu gli elementi dell'insieme $\{1, 2, \ldots, n\}$, esistono interi $x, y, z$ nell'insieme (non necessariamente distinti) dello stesso colore tali che $x + y + z = w$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2005#q03|src_bmo1_2005__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il termine minimo più grande in AP di sette numeri primi distinti*
+*Minimo possibile del termine più grande in una progressione aritmetica di sette primi distinti*
 
-> Determinare il minimo valore possibile del termine più grande in una progressione aritmetica di sette numeri primi distinti.
+> Determinare il minimo valore possibile del termine più grande in una progressione aritmetica di sette primi distinti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2005#q04|src_bmo1_2005__Q04]]
 
 
 
@@ -132,6 +160,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un insieme di razionali chiusi sotto due mappe contiene tutti i razionali in (0,1)*
+*$S$ contiene tutti i razionali dell'intervallo $0 < x < 1$*
 
-> Se $S$ è un insieme di numeri razionali con le seguenti proprietà: (i) $\frac{1}{2} \in S$, (ii) Se $x \in S$, allora sia $\frac{1}{x+1} \in S$ che $\frac{x}{x+1} \in S$. Prova che $S$ contiene tutti i numeri razionali nell'intervallo $0 < x < 1$.
+> Sia $S$ un insieme di numeri razionali con le proprietà seguenti:
+> (i) $\frac{1}{2} \in S$,
+> (ii) se $x \in S$, allora sia $\frac{1}{x+1} \in S$ sia $\frac{x}{x+1} \in S$.
+> Dimostrare che $S$ contiene tutti i numeri razionali dell'intervallo $0 < x < 1$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2005#q05|src_bmo1_2005__Q05]]

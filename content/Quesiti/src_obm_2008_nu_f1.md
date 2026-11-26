@@ -29,9 +29,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti i numeri interi n in modo che un cubo abbia tre radici di numeri interi*
+*Trovare tutti gli interi n tali che un cubico abbia tre radici intere*
 
-> Determinare tutti i valori interi di $n$ per i quali l'equazione $x^3 - 13x + n = 0$ ha tre radici interi.
+> Determinare tutti i valori interi di $n$ per cui l'equazione $x^3 - 13x + n = 0$ ha tre radici intere.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_nu_f1#q01|src_obm_2008_nu_f1__Q01]]
 
 
 
@@ -57,9 +64,19 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Line di conteggio che riuniscono contemporaneamente quattro determinate linee parametriche*
+*Conta le rette che intersecano simultaneamente quattro rette parametriche date*
 
-> Considerate le linee indicate dalle equazioni parametriche $$\begin{cases}(x,y,z)=(0,0,1)\cdot t\end{cases},\quad \begin{cases}(x,y,z)=(1,2,0)+(1,0,0)\cdot t\end{cases},$$ $$\begin{cases}(x,y,z)=(1,1,0)+(0,1,0)\cdot t\end{cases},\quad \begin{cases}(x,y,z)=(1,0,0)+(1,1,1)\cdot t\end{cases}.$$ Quante linee intersecano tutte e quattro contemporaneamente?
+> Si considerino le rette date dalle equazioni parametriche
+> $$\begin{cases}(x,y,z)=(0,0,1)\cdot t\end{cases},\quad \begin{cases}(x,y,z)=(1,2,0)+(1,0,0)\cdot t\end{cases},$$
+> $$\begin{cases}(x,y,z)=(1,1,0)+(0,1,0)\cdot t\end{cases},\quad \begin{cases}(x,y,z)=(1,0,0)+(1,1,1)\cdot t\end{cases}.$$
+> Quante rette intersecano simultaneamente tutte e quattro le rette?
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_nu_f1#q02|src_obm_2008_nu_f1__Q02]]
 
 
 
@@ -82,9 +99,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i passi di Esmeralda nel 2008 sulla griglia di numeri interi che finiscono all'origine*
+*Conta i modi in cui Esmeralda percorre 2008 passi su una griglia di punti a coordinate intere, terminando all'origine*
 
-> Esmeralda cammina attraverso i punti con le coordinate interi del piano. Se in un determinato momento si trova al punto $(a, b)$, in un solo passo può passare a uno dei due seguenti punti: $(a+1, b)$, $(a-1, b)$, $(a, b+1)$ o $(a, b-1)$. In quanti modi Esmeralda può partire da $(0, 0)$ e camminare esattamente $2008$ passi, finendo a $(0, 0)$?
+> Esmeralda percorre i punti del piano a coordinate intere. Se in un dato momento si trova nel punto $(a, b)$, in un passo può spostarsi in uno dei due seguenti punti: $(a+1, b)$, $(a-1, b)$, $(a, b+1)$ o $(a, b-1)$. In quanti modi Esmeralda può partire da $(0, 0)$ e compiere esattamente $2008$ passi, arrivando in $(0, 0)$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_nu_f1#q03|src_obm_2008_nu_f1__Q03]]
 
 
 
@@ -109,9 +133,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il più piccolo k>0 con ABA^{-1}=B^k per n ×n matrici A,B≠I*
+*Trovare il più piccolo k>0 tale che ABA^{-1}=B^k per matrici n×n A,B≠I*
 
-> Supponiamo che esistano le matrici $n \times n$ $A$ e $B$, diverse dalla matrice di identità $I$ e soddisfacente $$\begin{cases} A^4 = I \\ ABA^{-1} = B^k \end{cases}.$$ Mostri che esiste un intero $k > 0$ tale che $B^k = I$, e determina il più piccolo $k$ con questa proprietà.
+> Si supponga che esistano $n \times n$ matrici $A$ e $B$, diverse dalla matrice identità $I$ e tali da soddisfare
+> $$\begin{cases} A^4 = I \\ ABA^{-1} = B^k \end{cases}.$$
+> Dimostrare che esiste un intero $k > 0$ tale che $B^k = I$, e determinare il più piccolo $k$ con questa proprietà.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_nu_f1#q04|src_obm_2008_nu_f1__Q04]]
 
 
 
@@ -134,9 +167,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero minimo di iperbole per coprire tutti i punti del piano*
+*Numero minimo di iperboli necessarie per coprire tutti i punti del piano*
 
-> Diciamo che un iperbola copre un punto se il punto appartiene a una delle due regioni infinite determinate dall'iperbola che contiene i suoi foci. Qual è il più piccolo numero di iperbole necessario per coprire tutti i punti del piano?
+> Diciamo che un'iperbole copre un punto se il punto appartiene a una delle due regioni infinite determinate dall'iperbole che contiene i suoi fuochi. Qual è il numero minimo di iperboli necessario per coprire tutti i punti del piano?
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_nu_f1#q05|src_obm_2008_nu_f1__Q05]]
 
 
 
@@ -159,6 +199,13 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Limito di calcolo di P_n P_{n+1}/n per una sequenza di somma trigonometrica*
+*Calcola il limite di P_n P_{n+1}/n per una successione di somme trigonometriche*
 
-> Let $P_n = \displaystyle\sum_{k=0}^{n} \sin\!\left(\frac{\pi k}{n}\right)$. Calcolare $\displaystyle\lim_{n \to \infty} \frac{P_n P_{n+1}}{n}$.
+> Sia $P_n = \displaystyle\sum_{k=0}^{n} \sin\!\left(\frac{\pi k}{n}\right)$. Calcola $\displaystyle\lim_{n \to \infty} \frac{P_n P_{n+1}}{n}$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_obm_2008_nu_f1#q06|src_obm_2008_nu_f1__Q06]]

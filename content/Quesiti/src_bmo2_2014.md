@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colori minimi per le diagonali della regola di incrocio dei goni 2014*
+*Il minimo numero di colori per le diagonali di un poligono regolare di $2014$ lati*
 
-> Ogni diagonale di un poligono regolare con lati $2014$ è colorata in uno dei colori $n$. Ogni volta che due diagonali si incrociano all'interno sono di colori diversi. Qual è il valore minimo di $n$ per il quale questo è possibile?
+> Ogni diagonale di un poligono regolare di $2014$ lati è colorata con uno di $n$ colori. Ogni volta che due diagonali si incrociano all'interno hanno colori diversi. Qual è il minimo valore di $n$ per cui ciò è possibile?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2014#q01|src_bmo2_2014__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nessun cuboide ha volume, superficie e perimetro uguali*
+*Nessun parallelepipedo ha volume, area e perimetro numericamente uguali*
 
-> Prove che è impossibile avere un cuboide per il quale il volume, la superficie e il perimetro sono numericamente uguali. Il perimetro di un cuboide è la somma delle lunghezze di tutti i suoi dodici bordi.
+> Dimostrare che è impossibile avere un parallelepipedo per cui il volume, l'area della superficie e il perimetro siano numericamente uguali. Il perimetro di un parallelepipedo è la somma delle lunghezze di tutti i suoi dodici spigoli.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2014#q02|src_bmo2_2014__Q02]]
 
 
 
@@ -83,13 +97,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza s_n = s_{n-1} - 1/s_{n-1}: numeri primi che dividono i termini*
+*Primi che dividono almeno un termine, e primi che non ne dividono nessuno*
 
-> $s_0 = 4$ e definire una sequenza di termini utilizzando la formula $s_n = s_{n-1} - \frac{1}{s_{n-1}}$ per ogni intero positivo $n$.
-> 
-> a) dimostrare che ci sono infiniti numeri primi che sono fattori di almeno un termine nella sequenza;
-> 
-> b) Ci sono infinitamente molti numeri primi che sono fattori senza termine nella sequenza?
+> Sia $s_0 = 4$ e si definisca una successione di termini con la formula $s_n = s_{n-1} - \frac{1}{s_{n-1}}$ per ogni intero positivo $n$.
+>
+> a) Dimostrare che esistono infiniti numeri primi che sono fattori di almeno un termine della successione;
+>
+> b) Esistono infiniti numeri primi che non sono fattori di nessun termine della successione?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2014#q03|src_bmo2_2014__Q03]]
 
 
 
@@ -112,6 +133,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circoli di triangoli e linee concomitanti*
+*Le rette $O_A O_A'$, $O_B O_B'$, $O_C O_C'$ concorrono*
 
-> Che $ABC$ sia un triangolo e $P$ un punto nel suo interno. Lasciate che $AP$ rientri nel circoncircolo di $ABC$ a $A'$. I punti $B'$ e $C'$ sono definiti in modo simile. Se $O_A$ è il circoncentro di $BPC'$, e $O_B$, $O_C$ sono definiti in modo simile. Se $O_A'$ è il circoncentro di $B'PC'$, e $O_B'$, $O_C'$ sono definiti in modo simile. Prove che le linee $O_A O_A'$, $O_B O_B'$, $O_C O_C'$ sono simultanee.
+> Sia $ABC$ un triangolo e sia $P$ un punto del suo interno. La retta $AP$ incontra di nuovo la circonferenza circoscritta ad $ABC$ in $A'$. I punti $B'$ e $C'$ sono definiti in modo analogo. Sia $O_A$ il circocentro di $BPC'$, e $O_B$, $O_C$ sono definiti in modo analogo. Sia $O_A'$ il circocentro di $B'PC'$, e $O_B'$, $O_C'$ sono definiti in modo analogo. Dimostrare che le rette $O_A O_A'$, $O_B O_B'$, $O_C O_C'$ concorrono.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2014#q04|src_bmo2_2014__Q04]]

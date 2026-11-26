@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four unit circles cover parallelograms iff a-condition holds*
+*Four unit circles cover a parallelogram if and only if a bound on a holds*
 
-> Whether $ABCD$ a parallelogram with sides $AB = a$, $AD = 1$ and $\angle BAD = \alpha$. If the $\triangle ABD$ triangle is acutane, prove that the four radius 1 circles with centers $A$, $B$, $C$, $D$ cover the parallelogram if and only if $$a \leq \cos\alpha + \sqrt{3}\,\sin\alpha.$$
+> Let $ABCD$ be a parallelogram with sides $AB = a$, $AD = 1$ and with $\angle BAD = \alpha$. If the triangle $\triangle ABD$ is acute, prove that the four circles of radius 1 with centres $A$, $B$, $C$, $D$ cover the parallelogram if and only if
+> $$a \leq \cos\alpha + \sqrt{3}\,\sin\alpha.$$
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1967_all#q01|src_imo_1967_all__Q01]]
 
 
 
@@ -53,9 +60,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tetrahedron with one edge over 1 has volume at most 1/8*
+*A tetrahedron with exactly one edge longer than 1 has volume at most 1/8*
 
-> Demonstrate that if one and only one vertex of a tetrahedron is greater than $1$, then its volume is $\leq \dfrac{1}{8}$.
+> Prove that if one and only one edge of a tetrahedron is greater than $1$, then its volume is $\leq \dfrac{1}{8}$.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1967_all#q02|src_imo_1967_all__Q02]]
 
 
 
@@ -79,9 +92,17 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Prove product of differences divisible by product of c_i*
+*A product of differences of triangular numbers is divisible by another*
 
-> If $k$, $m$, $n$ are natural numbers such that $m + k + 1$ is a prime number greater than $n + 1$. It shall be $c_s = s(s+1)$. Demonstrate that the product $$(c_{m+1} - c_k)(c_{m+2} - c_k) \cdots (c_{m+n} - c_k)$$ is divisible by the product $c_1 c_2 \cdots c_n$.
+> Let $k$, $m$, $n$ be natural numbers such that $m + k + 1$ is a prime greater than $n + 1$. Let $c_s = s(s+1)$. Prove that the product
+> $$(c_{m+1} - c_k)(c_{m+2} - c_k) \cdots (c_{m+n} - c_k)$$
+> is divisible by the product $c_1 c_2 \cdots c_n$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_1967_all#q03|src_imo_1967_all__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max-area triangle similar to A1B1C1 circumscribing A0B0C0*
+*The acute triangle of maximum area similar to one and circumscribed about another*
 
-> If $A_0B_0C_0$ and $A_1B_1C_1$ are any two acutangular triangles. All $ABC$ triangles are considered to be similar to $\triangle A_1B_1C_1$ (so that the vertices $A_1$, $B_1$, $C_1$ correspond to the vertices $A$, $B$, $C$ respectively) and bounded by the triangle $A_0B_0C_0$ (where $A_0$ lies on $BC$, $B_0$ on $CA$ and $C_0$ on $AB$). Of all these possible triangles, determine the one with the maximum area and build it.
+> Let $A_0B_0C_0$ and $A_1B_1C_1$ be any two acute triangles. Consider all triangles $ABC$ similar to $\triangle A_1B_1C_1$ (so that the vertices $A_1$, $B_1$, $C_1$ correspond respectively to the vertices $A$, $B$, $C$) and circumscribed about the triangle $A_0B_0C_0$ (where $A_0$ lies on $BC$, $B_0$ on $CA$ and $C_0$ on $AB$). Of all such possible triangles, determine the one of maximum area and construct it.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1967_all#q04|src_imo_1967_all__Q04]]
 
 
 
@@ -135,9 +163,22 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-Find all n with c_n=0 given infinitely many zero power sums
+*Power sums of eight reals that vanish for infinitely many exponents*
 
-> Consider the sequence $\{c_n\}$, where $$c_1 = a_1 + a_2 + \cdots + a_8,$$ $$c_2 = a_1^2 + a_2^2 + \cdots + a_8^2,$$ $$\vdots$$ $$c_n = a_1^n + a_2^n + \cdots + a_8^n,$$ $$\vdots$$ where $a_1, a_2, \ldots, a_8$ are real numbers not all equal to zero. Suppose an infinite number of terms of the sequence $\{c_n\}$ is zero. Find all natural numbers $n$ for which $c_n = 0$.
+> Consider the sequence $\{c_n\}$, where
+> $$c_1 = a_1 + a_2 + \cdots + a_8,$$
+> $$c_2 = a_1^2 + a_2^2 + \cdots + a_8^2,$$
+> $$\vdots$$
+> $$c_n = a_1^n + a_2^n + \cdots + a_8^n,$$
+> $$\vdots$$
+> in which $a_1, a_2, \ldots, a_8$ are real numbers, not all zero. Suppose that infinitely many terms of the sequence $\{c_n\}$ are equal to zero. Find all natural numbers $n$ for which $c_n = 0$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_1967_all#q05|src_imo_1967_all__Q05]]
 
 
 
@@ -160,6 +201,13 @@ Find all n with c_n=0 given infinitely many zero power sums
 <div class="qlang-split" data-lang="en"></div>
 
 
-Find number of days and total medals
+*How many days the contest lasted, and how many medals were awarded*
 
-> In a sporting event, $m$ medals were awarded in $n$ consecutive days ($n > 1$). On the first day, a medal was awarded and the remaining$m-1$medals were awarded. On the second day, two medals were awarded and the remaining medals were$\dfrac{1}{7}$; and so on. The remaining $n$ medals were awarded on the eighth and final day. How many days did the race last and how many medals were awarded in total?
+> In a sporting contest, $m$ medals were awarded over $n$ consecutive days ($n > 1$). On the first day one medal was awarded, and $\dfrac{1}{7}$ of the remaining $m-1$ medals. On the second day two medals were awarded, and $\dfrac{1}{7}$ of the medals then remaining; and so on. On the $n$th and last day the remaining $n$ medals were awarded. How many days did the contest last, and how many medals were awarded in all?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_1967_all#q06|src_imo_1967_all__Q06]]

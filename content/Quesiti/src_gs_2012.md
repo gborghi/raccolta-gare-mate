@@ -43,9 +43,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of areas between triangle and triangle of midpoints*
+*Ratio of areas between the triangle and the triangle of midpoints*
 
-> The Flowery Garden (points 20) The Flowery Garden of the castle is triangular in shape, bounded by three straight paths that connect the three entrance doors, one on each top, called the Alba Gate, the White Gate and the Clear Gate in honor of the princess's carnage. Snow White is walking inside the Flower Garden; it is halfway along the straight path that connects Porta Bianca and Porta Chiara, from there it sees two guards of the Queen, one at Porta Bianca, the other at Porta Chiara. To avoid them, he then heads toward the Dawn Gate, but when he reaches the middle of the road, a guard appears on that door. Scared, Snow White stops and doesn't realize her handkerchief is falling. You see there's no longer a guard at the White Door. So he heads for that one, but when he gets halfway, the guard comes back to the door. Scared, Snow White stops and doesn't realize her scarf is falling. See, there's no more guard at the Dawn Gate. So he's headed for that one. Halfway through, she realizes that she has lost her handkerchief and shawl and sees them in the places where she had stopped earlier. To assess how long it will take to collect them, Snow White calculates the ratio between the area of the Flower Garden and the area of the triangle formed by her, the handkerchief and the scarf. What number do you get?
+> The Flowering Garden
+> (points 20) The Castle's Flowered Garden is triangular in shape and is bounded by three straight paths that connect the three entrances—one at each vertex—named Porta Alba, Porta Bianca, and Porta Chiara in honor of the princess's complexion. Snow White is walking inside the Flowered Garden; she is halfway along the straight path connecting Porta Bianca and Porta Chiara, and from there she sees two of the Queen's guards, one at Porta Bianca and the other at Porta Chiara. To avoid them, she then heads toward Porta Alba, but when she reaches halfway, a guard appears at that gate. Frightened, Snow White stops and does not notice that her handkerchief falls. She sees that the guard is no longer at Porta Bianca. She therefore heads toward that gate, but when she reaches halfway, the guard reappears at the gate. Frightened, Snow White stops and does not notice that her shawl falls. She sees that the guard is no longer at Porta Alba. She thus heads toward that gate. When she reaches halfway, she realizes that she has lost her handkerchief and her shawl, and she sees them in the places where she had stopped earlier. To assess how long it will take her to pick them up, Snow White calculates the ratio of the area of the Flowered Garden to the area of the triangle formed by her, the handkerchief, and the shawl. What number does she find?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2012#q01|src_gs_2012__Q01]]
 
 
 
@@ -75,7 +82,14 @@ level: squadre
 
 *Last two digits of the product of f(n)=(200-2n)/n*
 
-> The first Dotto exercise (points 20) Dotto is exercising with the numbers. He took the function f(n) = 200 −2n n and calculated the last two digits (i.e. the two to the right) of the product f(1) · f(2) · . . . · f(99). What did you find?
+> Dotto's first exercise
+> (Point 20) Dotto is practicing with numbers. He took the function f(n) = 200 − 2n n and calculated the last two digits (that is, the two rightmost digits) of the product f(1) · f(2) · ... · f(99). What did he find?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_telescoping|Telescoping sums]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2012#q02|src_gs_2012__Q02]]
 
 
 
@@ -105,9 +119,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate of gold/silver volumes given mass and volume*
+*Gold/silver volume ratio: given mass and volume*
 
-> The unsuccessful scam (points 20) The court official prepared for the Queen a golden and silver globe with a mass of 300g and a volume of 20cm3. The Queen complains that there is more silver than gold. orefice is defended by saying that the density of gold is 19 g/cm3, that of silver is 10 g/cm3. The Queen finds that, for this very reason, she is right. What's the ratio, multiplied by 1,000, between the volume of gold and silver in the ball? Team competition  Problem texts  Pag. 1 di 6
+> The scam thwarted
+> (points 20) The court goldsmith has prepared a gold-and-silver globe for the Queen; it has a mass of 300 g and a volume of 20 cm³. The Queen complains, saying that there is more silver than gold. The goldsmith defends himself by saying that the density of gold is 19 g/cm³ and that of silver is 10 g/cm³. The Queen notes that, precisely for this reason, she is right. What is the ratio, multiplied by 1000, of the volume of gold to the volume of silver in the sphere?
+> Team Competition – Problem Statements – Page 1 of 6
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2012#q03|src_gs_2012__Q03]]
 
 
 
@@ -138,9 +160,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples of numbers with the result 1357 operating on digits*
+*Pairs of numbers whose result in an operation on digits is 1357*
 
-> The second Dotto exercise (point 30) Dotto continues to practice with numbers: he has invented a new operation between integers. Multiply the number of units of the first number by the number of units of the second number, then, if the result is greater than 9, it adds the numbers, and if this new number is greater than 9, it adds the numbers again, until it gets a number with only one digit. This is the unit number of the resulting number of the new operation. The same goes for the number of tens, the number of hundreds, and so on. How many (unsorted) number pairs have 1357?
+> Dotto's second exercise
+> (30 points) Dotto continues to practice with numbers: he has invented a new operation involving integers. He multiplies the units digit of the first number by the units digit of the second number; then, if the result is greater than 9, he adds its digits together, and if this new number is greater than 9, he adds its digits together again, continuing until he obtains a single-digit number. This is the units digit of the result of the new operation. The same procedure is applied to the tens digit, the hundreds digit, and so on. How many unordered pairs of numbers yield 1357 as the result?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2012#q04|src_gs_2012__Q04]]
 
 
 
@@ -167,9 +196,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*External perimeter of 15 discs on a regular 30-acre*
+*Outer perimeter of 15 discs on a regular 30-gon*
 
-> Pisolo's polygon (points 30) In a regular polygon of 30 sides, Pisolo counts all vertices from 1 to 30. It then supports 15 circular discs of equal radius to the side of the polygon with the centers on the vertices numbered with an odd number. Each disc has a circumference of 20 centimetres. What is the outer perimeter of the figure?
+> The Polygon of Pisolo
+> (30 points) In a regular 30-sided polygon, Pisolo numbers all the vertices from 1 to 30. He then places 15 circular discs, each with a radius equal to the side length of the polygon, with their centres at the vertices numbered with odd numbers. Each disc has a circumference of 20 cm. What is the outer perimeter of the figure?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2012#q05|src_gs_2012__Q05]]
 
 
 
@@ -195,9 +231,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of minimum punished with number of punished divisors*
+*Figure of the minimum repeated with number of repeated divisors repeated*
 
-> The puppy (points 30) Calls the puppy the natural numbers consisting only of digits 1. How many digits has the smallest prime number greater than 1 such that the number of its prime divisors is a prime number?
+> The Little Rascal Puppy
+> (30 points) Cucciolo calls the natural numbers made up solely of the digit 1 "sgarzulini". How many digits does the smallest sgarzulino number greater than 1 have, such that the number of its sgarzulino divisors is a sgarzulino number?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2012#q06|src_gs_2012__Q06]]
 
 
 
@@ -225,9 +268,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arithmetic criteria Freshwater+Fish=Fruits, value of houses*
+*Crittarithmetic Pear+Peach=Fruits, value of houses*
 
-> The third exercise of Dotto (points 30) Dotto writes the following operation Pera + Pesca = Frutti and explains to the other dwarfs that he replaced each digit with a letter, different letters with different digits. A letter at the beginning of a word therefore does not correspond to the digit 0. What numbers does Dotto write when he writes houses?
+> Dotto's third exercise
+> (30 points) Dotto writes the following operation: Pear + Peach = Fruits, and explains to the other dwarfs that he has replaced each digit with a letter, and that different letters correspond to different digits. Therefore, a letter at the beginning of a word does not correspond to the digit 0. What digits does Dotto write when he writes "house"?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2012#q07|src_gs_2012__Q07]]
 
 
 
@@ -262,9 +312,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diagonal sum of a grid 4x4 of 16 data numbers*
+*Diagonal sum of a 4x4 grid with 16 given numbers*
 
-> The most beautiful in the realm (points 30) The algorithm by which the Magic Mirror calculates who is the most beautiful in the realm  prescribes that the 16 numbers 1, 2, 3, 4, 10, 20, 30, 40, 100, 200, 300, 400, 600, 700, 800, 900 be entered into a grid of 4×4. Today the sums of the 4 lines of the grid are 920, 1003, 1313, 874 while the sums of the 4 columns (from left) are 2230, 461, 109, 1310. The sum of the 4 numbers that occupy the diagonal of the grid from the top left to the bottom right position determines the identity of the most beautiful today: what is the sum today? Team competition  Problem texts  Pag. 2 di 6
+> The fairest in the realm
+> (30 points) The algorithm by which the Magic Mirror calculates who is “the fairest in the land” requires placing the 16 numbers 1, 2, 3, 4, 10, 20, 30, 40, 100, 200, 300, 400, 600, 700, 800, 900 in a 4×4 grid. Today, the sums of the 4 rows of the grid are (starting from the top) 920, 1003, 1313, 874, while the sums of the 4 columns (starting from the left) are 2230, 461, 109, 1310. The sum of the 4 numbers occupying the diagonal of the grid that runs from the top-left position to the bottom-right position determines the identity of today’s fairest: what is the sum today?
+> Team Competition – Problem Statements – Page 2 of 6
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2012#q08|src_gs_2012__Q08]]
 
 
 
@@ -309,9 +367,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of four real solutions of a system*
+*Number of real quadruples that are solutions of a system*
 
-> The Queen's Magic (points 30) To perform a magic ritual, the Queen must find the number of quadruples (x, y, z, t) of real numbers such that         x2y2 + z2t2 = 1 x2z2 + t2y2 = 1 x2t2 + y2z2 = 1 xyzt = 0 How many are they?
+> The Queen's Magic
+> (30 points) In order to perform a magical rite, the Queen must find the number of quadruples (x, y, z, t) of real numbers such that        x2y2 + z2t2 = 1 x2z2 + t2y2 = 1 x2t2 + y2z2 = 1 xyzt = 0 How many are there?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2012#q09|src_gs_2012__Q09]]
 
 
 
@@ -343,9 +408,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of crossing by choosing a road at random*
+*Probability of crossing by randomly choosing a road*
 
-> The Blue Prince's ride (point 30) The Blue Prince must reach the other end of the Forest with his horse and has just arrived at a crossroads. One road passes over a river with a dangerous bridge that has a 30% chance of collapsing when a horse passes, while each of the other two roads passes over two rivers with two consecutive bridges, each of which has a 20% chance of falling when a horse passes. The Prince doesn't know which road has one bridge or which has two. If the Prince chooses the road at random, what are the odds of him crossing the forest? It shall be answered by the fraction reduced to the minimum terms expressing that probability.
+> The Prince Charming's Ride
+> (30 points) The Prince Charming must reach the other end of the Forest on his horse and has just arrived at a crossroads. One road crosses a river via a rickety bridge that has a 30% chance of collapsing when a horse passes over it, whereas each of the other two roads crosses two rivers via two consecutive bridges, each of which has a 20% chance of collapsing when a horse passes over it. The Prince does not know which road has a single bridge and which has two. If the Prince chooses a road at random, what is the probability that he will cross the forest? Answer with the numerator of the fraction in lowest terms that expresses this probability.
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2012#q10|src_gs_2012__Q10]]
 
 
 
@@ -371,9 +442,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Internal intersection points of the diagonals of a 21 axis*
+*Internal points of intersection of the diagonals of a 21-gon*
 
-> The Brontolo polygon (points 40) Brontolo draws a regular polygon of 21 sides. Then trace all the diagonals and count all the points inside the polygon that are intersections of those diagonals. How many points does that count?
+> The Polygon of Brontolo
+> (40 points) Brontolo draws a regular 21-sided polygon. Then he draws all the diagonals and counts all the points inside the polygon that are intersections of these diagonals. How many points does he count?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2012#q11|src_gs_2012__Q11]]
 
 
 
@@ -399,9 +477,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integressive solutions of 3i^2+2j^2=77·6^2012*
+*Integer solutions of 3i^2+2j^2=77*6^2012*
 
-> The fourth exercise of Dotto (points 40) This time Dotto considers the equation 3i2 + 2j2 = 77 · 62012 and determines how many integer solutions (i, j) it has. How many are there?
+> Dotto's fourth exercise
+> (40 points) This time, Dotto considers the equation 3i² + 2j² = 77 · 62012 and determines how many integer solutions (i, j) it has. How many are there?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2012#q12|src_gs_2012__Q12]]
 
 
 
@@ -428,9 +513,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total number of maximum diagonals in the five regular solids*
+*Total number of longest diagonals in the five Platonic solids*
 
-> Platonic gongolo (points 40) Gongolo has a copy of each of the five regular solids in front of it. Looking at them one by one, you imagine how to trace, in each of them, all the longest segments possible. How many of these segments are there in total? Team competition  Problem texts  Pag. 3 di 6
+> Platonic crush
+> (40 points) Gongolo has a copy of each of the five Platonic solids in front of him. Looking at them one by one, he imagines how to draw, in each of them, all the longest possible line segments. In total, how many such segments are there?
+> Team Competition – Problem Statements – Page 3 of 6
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2012#q13|src_gs_2012__Q13]]
 
 
 
@@ -460,9 +554,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Turn with cumulative sum of multiple bricks for 2012*
+*Round with a total cumulative number of bricks that is a multiple of 2012*
 
-> The ordered bricks (points 40) Eolo and Mammolo decide to play a game together, arranging square bricks, all of the same size. Eolo stacks them up, Mammolo makes square walls. Eolo starts with a pile of a brick, Mammolo with a square of a brick (the same thing). In the second round, Eolo makes a stack of two bricks, Mammolo a square of four bricks. In the third round, Eolo makes a stack of three bricks, Mammolo a square of nine bricks. They realize they ordered 20 bricks. They decide to continue until the turn when they have set up a number of 2012 bricks. What shift do they stop at?
+> The neatly arranged little bricks
+> (points 40) Eolo and Mammolo decide to play a game together, arranging square blocks, all of the same size. Eolo stacks them; Mammolo makes square little walls. Eolo starts with a stack of one block; Mammolo starts with a square of one block (the same thing). On the second turn, Eolo makes a stack of two blocks; Mammolo makes a square of four blocks. On the third turn, Eolo makes a stack of three blocks; Mammolo makes a square of nine blocks. They realize they have arranged 20 blocks. They decide to continue until the turn when they will have arranged a number of blocks that is a multiple of
+> 2012. At which shift do they stop?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2012#q14|src_gs_2012__Q14]]
 
 
 
@@ -493,9 +595,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of all products in 10 boxes numbered -1,0,1,2*
+*Sum of all the products of 10 boxes with the numbers -1, 0, 1, 2*
 
-> The fifth exercise of Dotto (points 40) Dotto is still exercised with numbers. There are 10 boxes in front, numbered 1 to 10. Insert in box n. 1 a number chosen between −1, 0, 1 and 2; similarly, also in box n. 2 inserts one of the numbers −1, 0, 1, 2, etc. until all the boxes are filled. Then he makes the product of the 10 numbers that are inserted and writes the number on the board. Repeat the operation by inserting the −1, 0, 1, 2 numbers in the boxes again in a different way from the previous one, and write the resulting product on the board next to the first one. Continue by inserting the numbers −1, 0, 1, 2 in all possible ways into the ten boxes and writing off the product obtained alongside the others. Finally, calculate the sum of all the numbers written on the board. What number do you get?
+> Dotto's fifth exercise
+> (points 40) Dotto is still practicing with numbers. He has 10 boxes in front of him, numbered from 1 to
+> 10. Inserts into box no. 1 a number chosen from −1, 0, 1, and 2; similarly,
+> Also in box no. 2, insert one of the numbers −1, 0, 1, 2, etc., until all the boxes are filled. Then multiply the 10 numbers thus inserted and write the resulting number on the board. Repeat the operation by inserting the numbers −1, 0, 1, 2 into the boxes again in a different way from before, and write the resulting product on the board next to the first one. Continue by inserting the numbers −1, 0, 1, 2 into the ten boxes in all possible ways and by writing the resulting product next to the others as you go. Finally, calculate the sum of all the numbers written on the board. What number do you get?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2012#q15|src_gs_2012__Q15]]
 
 
 
@@ -526,9 +637,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of poles each guard sees exactly 3
+*Maximum number of poles: each guard sees exactly 3*
 
-> The blinded guards (points 50) In a square field of 200m side were planted vertical poles, cylindrical in shape, all equal to each other. Two of them are no less than two meters apart. The Queen's three guards enter the camp and position themselves at three distinct points. From their point of view, looking in all directions, each of the guards says they see exactly three poles, all the others remain hidden. How many poles are there on the field?
+> The Blinded Guards
+> (50 points) In a square field with sides 200 m long, vertical cylindrical posts, all identical to one another, have been erected. Any two of them are at least 2 m apart. The Queen's three guards enter the field and take positions at 3 distinct points. From their respective observation points, looking in all directions, each of the guards says that they can see exactly 3 posts; all the others remain hidden. What is the maximum number of posts in the field?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2012#q16|src_gs_2012__Q16]]
 
 
 
@@ -561,9 +679,17 @@ Maximum number of poles each guard sees exactly 3
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Optimal average win of the six-ball game of dice*
+*Optimal average win in the six-throw dice game*
 
-> Mammolo's strategy (points 50) The kingdom's casino introduced a new game: the player throws a classic 6-sided dice, the dealer then asks the player if he wants to withdraw the dice, or be paid with a sum equal to the result of the dice, and stops. If you choose to withdraw the dice, the dealer repeats the request, up to a maximum of 6 total throws, when you are forced to accept the result of the sixth throw. Mammolo has found a strategy that allows him to cash in as much as possible. What's the average win for the strategy Mammolo found? It is answered by the numerator of the fraction reduced to the minimum terms which expresses the average gain. Team competition  Problem texts  Pag. 4 di 6
+> Mammolo's Strategy
+> (50 points) The Kingdom Casino has introduced a new game: the player rolls a standard six-sided die; the house then asks the player whether they want to withdraw the die or be paid an amount equal to the die result and stop. If the player chooses to withdraw the die, the house repeats the question, up to a maximum of 6 total rolls, after which the player is forced to accept the result of the sixth roll. Mammolo has found the strategy that makes it possible to collect as much as possible. What is the average win of the strategy found by Mammolo? Answer with the numerator of the fraction in lowest terms that represents the average win.
+> Team Competition – Problem Statements – Page 4 of 6
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_backward|Working backwards]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2012#q17|src_gs_2012__Q17]]
 
 
 
@@ -595,7 +721,14 @@ Maximum number of poles each guard sees exactly 3
 
 *Number of successive tangent circles in a square*
 
-> Brontolo's tangents (points 60) Exercising for cutting diamonds, Brontolo draws, on a small square sheet of side 2 cm, a tangent circumference on the sides of the sheet. He then draws a second circumference, external to the first and tangent to it and to two sides of the sheet; then he draws a third, external to the first two, but tangent to the second and to two sides of the sheet, and so on. Brontolo stops when he draws the first circumference with a radius less than a thousandth of a millimeter, how many circumferences are drawn on the sheet?
+> Grumpy's Tangents
+> (60 points) While practicing diamond cutting, Grumpy draws, on a small square sheet with sides 2 cm long, a circle tangent to the sides of the sheet. He then draws a second circle, external to the first and tangent to it and to two sides of the sheet; he then draws a third circle, external to the first two but tangent to the second and to two sides of the sheet, and so on. Grumpy stops when he draws the first circle with a radius less than one thousandth of a millimetre—how many circles are drawn on the sheet?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2012#q18|src_gs_2012__Q18]]
 
 
 
@@ -633,9 +766,16 @@ Maximum number of poles each guard sees exactly 3
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of congruence system thieves and riders*
+*Number of scoundrels from a system of congruences and knights*
 
-> The fairy tale of Snow White (points 60) Snow White tells a new fairy tale of the Kenoncé Island of knights and swindlers (the knights always tell the truth, the swindlers always the lie): the fairy tale of the census on the Kenoncé Island. The Census Bureau operators enter a bar and ask five adventurers the same question: How many thieves are on this island? They receive the following answers: • Their number divided by 56 gives the remainder 19 • Their number divided by 132 gives the remainder 23 • Their number divided by 105 gives the remainder 13 • Their number divided by 162 gives the remainder 17 • Their number divided by 156 gives the remainder 37 The bartender, a knight, intervenes and says: The inhabitants of the island are ten thousand and the information given to the present knights allows us to establish the answer uniquely. Thanks to his training with numbers, Dotto calculates how many thieves are and interrupts Snow White to say the least, thus ruining the fairy tale. What number does Dotto say?
+> The Fairy Tale of Snow White
+> (60 points) Snow White tells a new fairy tale from the Island of Kenoncé about knights and scoundrels (knights always tell the truth; scoundrels always lie): the fairy tale of the statistical census on the Island of Kenoncé. The census office workers enter a bar and ask the same question of five patrons: "How many scoundrels are there on this island?" They receive the following answers: • When their number is divided by 56, the remainder is 19 • When their number is divided by 132, the remainder is 23 • When their number is divided by 105, the remainder is 13 • When their number is divided by 162, the remainder is 17 • When their number is divided by 156, the remainder is 37 The bartender, who is a knight, intervenes and says: "The island's inhabitants number ten thousand, and the information given by the knights present makes it possible to determine the answer uniquely." Thanks to his training with numbers, Dotto calculates how many scoundrels there are and interrupts Snow White to state the number, thus ruining the fairy tale. What number does Dotto say?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2012#q19|src_gs_2012__Q19]]
 
 
 
@@ -670,9 +810,17 @@ Maximum number of poles each guard sees exactly 3
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers a of regular triangulation of the triangle*
+*Sum of the numbers a of the regular triangulations of the triangle*
 
-> The Queen's flag (points 60) The royal flag is a triangle divided into 3 triangles of different colors and with 4 diamonds, one at each vertex. The Queen wants to make it change using more triangles; the King agrees, but imposes that a number of triangles greater than 3 be used and that the royal properties of the original be maintained: it must be a triangle divided into triangles, with a diamond at each vertex; each side must contain only two diamonds (the two at its vertices) and, at each vertex of the figure, one must meet the same number of sides (the number of sides that meet at the same vertex of the original banner is three). What is the sum of the numbers the Queen can choose? [Note: the property does not require that the number of sides meeting on the same vertex coincide with the number of triangles used.] Team competition  Problem texts  Pages. 5 di 6
+> The Queen's Banner
+> (60 points) The royal banner is a triangle divided into 3 triangles of different colors and bearing 4 diamonds, one at each vertex. The Queen wants to change it by using more triangles; the King agrees but insists that more than 3 triangles be used and that the royal properties of the original banner be preserved: it must be a triangle divided into a triangles, with a diamond at each vertex; each side must contain only two diamonds (the two at its vertices), and at each vertex of the figure the same number of sides must meet (the number of sides meeting at a single vertex of the original banner is three). What is the sum of the values of a that the Queen can choose? [Warning: the property does not require that the number of sides meeting at a single vertex coincide with the number of triangles used.]
+> Team Competition – Problem Statements – Page 5 of 6
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2012#q20|src_gs_2012__Q20]]
 
 
 
@@ -702,9 +850,16 @@ Maximum number of poles each guard sees exactly 3
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of distributing books around a table with divisibility*
+*Ways of distributing books around a table with divisibility*
 
-> The readings of Snow White and the Seven Dwarfs (points 70) Snow White and the Seven Dwarfs are sitting around a circular table, and each stacks a number of books on the table in front of him, between 2 and 9 (extremes included). They notice that, if you take two of their seats next to each other, the number of books in front of one of them divides the number of books in front of the other. Dotto has 9 books on the table in front of him, so Snow White, who sits on his left side, has 3 or 9 books in front. How many ways can you get books distributed on the table?
+> Readings of Snow White and the Seven Dwarfs
+> (points 70) Snow White and the Seven Dwarfs are seated around a round table, and each of them stacks a certain number of books—between 2 and 9 inclusive—on the table in front of themselves. They notice that, no matter which two of them are taken who are seated next to each other, the number of books in front of one of the two divides the number of books in front of the other. Dotto has 9 books on the table in front of him, so Snow White, who sits to his left, has 3 or 9 books in front of her. In how many possible ways can the distribution of books on the table be achieved?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2012#q21|src_gs_2012__Q21]]
 
 
 
@@ -731,9 +886,16 @@ Maximum number of poles each guard sees exactly 3
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of pieces of a sphere with 7 cuts per centre*
+*Maximum number of pieces of a sphere with 7 cuts through the center*
 
-> The poisoned apple (points 70) To convince Snow White to eat the apple (which appears suspicious because perfectly spherical after bathing in the magic potion), the witch cuts it into pieces, so that each cut passes through the center. How many apples can you get after seven cuts?
+> The Poisoned Apple
+> (points 70) To persuade Snow White to eat the apple (which seems suspicious because, after being soaked in the magic potion, it is perfectly spherical), the witch cuts it into pieces so that each cut passes through the center. What is the maximum number of pieces of apple that can be obtained after 7 cuts?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2012#q22|src_gs_2012__Q22]]
 
 
 
@@ -765,9 +927,16 @@ Maximum number of poles each guard sees exactly 3
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum guaranteed distance by dividing a square into three zones*
+*Maximum guaranteed distance when a square is divided into three zones*
 
-> Snow White's coffin (points 70) To preserve Snow White's dead body, the seven dwarfs are working tirelessly to divide into three zones a large square area fenced by a side 1 km, using only three stretches of rectangular stationary. As soon as he arrives, the Blue Prince notices that there is a maximum distance with the property that, however such a division is carried out (i.e. using three sections of station of appropriate length, but without one overlapping with the other), in one of the three zones there are at least two distant points. Before kissing Snow White, the Blue Prince tells the seven dwarfs the value of the. What is the difference in millimeters between that distance and the side of the fence?
+> Snow White's coffin
+> (points 70) To preserve Snow White's dead body, the seven dwarfs are working diligently to divide a large fenced square area with sides 1 km long into three zones, using only three straight sections of fencing. As soon as he arrives, Prince Charming realizes that there is a maximum distance ℓ such that, however such a division is carried out (that is, using three sections of fencing of appropriate length but with no section overlapping another), in one of the three zones there are two points at least ℓ apart. Before kissing Snow White, Prince Charming tells the seven dwarfs the value of ℓ. In millimetres, what is the difference between this distance ℓ and the side length of the fence?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2012#q23|src_gs_2012__Q23]]
 
 
 
@@ -804,6 +973,14 @@ Maximum number of poles each guard sees exactly 3
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of returning to summit A after 10 throws on the cube*
+*Probability of returning to vertex A after 10 throws on the cube*
 
-> The end of the Queen (points 70) Snow White, the seven dwarfs and the Blue Prince leave it up to the Queen to decide her fate. They take a cube, they mark the three sides of the cube that pass through the same vertex A with 0, 1 and 2. They then mark all the remaining sides with the number already written on a parallel side. Next, they insert a segnpost in point A. The Queen has to throw a six-sided dice unmade. If the result of the dice roll is n, divide n by 3. If the remainder is 0, move the marker from A along side 0 to the other vertex; similarly, if the remainder is 1 or 2, move the marker along side 1 or 2. With each subsequent roll of the dice, the placeholder moves with the same criterion. If, after a total of 10 throws, the score is in A, the Queen must wear two rounded iron shoes. What are the odds that the Queen will wear red shoes? It shall be answered by the fraction reduced to the minimum terms expressing that probability. Team competition  Problem texts  Pag. 6 di 6
+> The End of the Queen
+> (points 70) Snow White, the Seven Dwarfs, and Prince Charming let chance determine the Queen's fate. They take a cube and mark the three edges of the cube that meet at the same vertex A with 0, 1, and 2. They then mark all the remaining edges with the number already written on a parallel edge. Next, they insert a "placeholder" at point A. The Queen must roll an unweighted six-sided die. If the result of the roll is n, n is divided by 3. If the remainder is 0, she slides the placeholder from A along edge 0 until it reaches the other vertex; similarly, if the remainder is 1 or 2, she slides the placeholder along edge 1 or 2. On each subsequent roll of the die, the placeholder is moved according to the same rule. If, after a total of 10 rolls, the placeholder is at A, the Queen will have to put on two red-hot iron shoes. What is the probability that the Queen will put on the red-hot shoes? Answer with the numerator of the fraction in lowest terms that expresses this probability.
+> Team Competition – Problem Statements – Page 6 of 6
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2012#q24|src_gs_2012__Q24]]

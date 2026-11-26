@@ -30,9 +30,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AD,BE,CF compete*
+*The segments AD, BE and CF are concurrent*
 
-> Either ABCDEF is a hexagon inscribed in a circumference and such that AB = BC, CD = DE and EF = AF. Demonstrate that segments AD, BE and CF compete (i.e. have one point in common).
+> Let ABCDEF be a hexagon inscribed in a circle and such that AB = BC, CD = DE and EF = AF.
+> Prove that the segments AD, BE and CF are concurrent (that is, they have a point in common).
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2019#q01|src_cesenatico_2019__Q01]]
 
 
 
@@ -56,9 +63,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*if p+q^2 squared then p^2+q^n is not*
+*If p + q squared is a perfect square, then p squared plus q to the n is never a perfect square*
 
-> Let's say p, q are prime numbers. Prove that if p + q2 is a perfect square, then the number p2 + qn is not a perfect square for any positive integer n.
+> Let p and q be prime numbers. Prove that, if p + q2 is a perfect square, then the number p2 + qn is not a perfect square for any positive integer n.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2019#q02|src_cesenatico_2019__Q02]]
 
 
 
@@ -85,11 +98,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*single mode*
+*There is exactly one way to colour n+1 of the numbers from 1 to 2n red with no red x, y, z such that x + y = z*
 
-> Let n be an integer greater than 2. They want to color red exactly n+1 of the numbers 1, 2, · · , 2n−1, 2n so that there are no three distinct numbers x, y, z colored red that satisfy the equality x + y = z. Demonstrate that there is one and only one way to choose numbers to color red that meets the given condition.
+> Let n be an integer greater than 2. One wishes to colour red exactly n+1 of the numbers 1, 2, · · , 2n−1, 2n in such a way that there are no three distinct numbers x, y, z coloured red that satisfy the equality x + y = z.
+> Prove that there exists one and only one way of choosing the numbers to colour red that respects the given condition.
 
-**Answer:** {n+1,...,2n} (unique)
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2019#q03|src_cesenatico_2019__Q03]]
 
 
 
@@ -114,9 +132,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-If the floor is square then the floor is square
+*The floor of λ is a perfect square; the floor notation is a broken extraction*
 
-> Let's denote with bxc the largest integer  of x. If λ ≥1 is a real number, and n is a positive integer, such as bλn+1c, bλn+2c, . . . , b4nc are all perfect squares. Prove that bλc is a perfect square.
+> Denote by bxc the greatest integer  of x.
+> Let λ ≥ 1 be a real number, and n a positive integer, such that bλn+1c, bλn+2c, . . . , bλ4nc are all perfect squares. Prove that bλc is a perfect square.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[topic_aritmetica|Arithmetic / Number theory]]
 
 
 
@@ -141,9 +166,17 @@ If the floor is square then the floor is square
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AX perpendicular to XC*
+*AX is perpendicular to XC*
 
-> Let ABC be a triangle with an acute angle. Let D be the foot of the inner vertex from A and M the midpoint of AD. In addition, X is a point on the BM segment such that \MXA = \DAC. Demonstrate that AX is perpendicular to XC.
+> Let ABC be an acute-angled triangle. Let D be the foot of the internal bisector from A, and M the midpoint of AD.
+> Let moreover X be a point on the segment BM such that \MXA = \DAC.
+> Prove that AX is perpendicular to XC.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2019#q05|src_cesenatico_2019__Q05]]
 
 
 
@@ -181,10 +214,15 @@ If the floor is square then the floor is square
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many sequences do Barbara win?
+*How many of the 215 initial sequences give Barbara a winning strategy*
 
-> Alberto and Barbara are seated, one next to the other, in front of a table on which they have placed in line, from left to right, 15 chocolates. Some of the chocolates are milk, others are melted chocolate. In turn, starting with Alberto, they play the following game: during their turn, each of the two must eat a strictly positive number of consecutive chocolates, always starting from the one to the left of the remaining ones and making sure that the number of chocolates eaten of the same type as the first is odd (e.g., if in a certain turn the sequence of remaining chocolates is LLFLF, where L stands for milk and F for bottom, the turn player can eat the first chocolate from the left, the first 4 from the left, or all 5 chocolates). Whoever eats the last chocolate wins. Out of the 215 possible initial sequences of chocolate flavorings, how many do Barbara have a winning strategy for?
-> 
-> XXXV Italian Games of Cesenatic Mathematics, 3 May 2019
+> Alberto and Barbara are seated, one beside the other, in front of a table on which they have arranged in a row, from left to right, 15 chocolates. Some of the chocolates are milk, the others dark chocolate.
+> Taking turns, starting with Alberto, they play the following game: during their turn, each of the two must eat a strictly positive number of consecutive chocolates, always starting from the leftmost of those that remain, and in such a way that the number of chocolates eaten of the same type as the first is odd (for example, if at a certain turn the sequence of remaining chocolates is LLFLF, where L stands for milk and F for dark, the player whose turn it is may eat the first chocolate from the left, the first 4 from the left, or all 5 chocolates).
+> Whoever eats the last chocolate wins.
+> Among the 215 possible initial sequences of flavours of the chocolates, how many are those for which Barbara has a winning strategy?
 
-**Answer:** 8320
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2019#q06|src_cesenatico_2019__Q06]]

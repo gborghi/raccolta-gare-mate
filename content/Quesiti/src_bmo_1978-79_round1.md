@@ -31,9 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova i triangoli ABC con AB+AC=2 e altitudine AD=sqrt(AB·AC)*
+*Tutti i triangoli $ABC$ con quelle condizioni sull'altezza*
 
-> Trovare tutti i triangoli $ABC$ per i quali $$AB + AC = 2 \text{ cm} \quad \text{and} \quad AD = \sqrt{AB \cdot AC} \text{ cm},$$ dove $AD$ è l'altitudine da $A$, incontrando $BC$ ad angoli retti in $D$.
+> Trovare tutti i triangoli $ABC$ per cui
+> $$AB + AC = 2 \text{ cm} \quad \text{and} \quad AD = \sqrt{AB \cdot AC} \text{ cm},$$
+> dove $AD$ è l'altezza da $A$, che incontra $BC$ ad angolo retto in $D$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1978-79_round1#q01|src_bmo_1978-79_round1__Q01]]
 
 
 
@@ -58,11 +67,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre raggi da O nello spazio 3; trovare punti con triangoli di perimetro uguale e esprimere OX*
+*$OX$ in funzione di $n$, $\alpha$, $\beta$ e $\gamma$, con perimetro comune $2n$*
 
-> Da un punto $O$ nello spazio $3$ emergono tre raggi $OA$, $OB$, $OC$, gli angoli $BOC$, $COA$, $AOB$ sono $\alpha$, $\beta$ e $\gamma$ rispettivamente.
-> 
-> Prove che, per qualsiasi $2n > 0$, esistono punti $X$, $Y$, $Z$ su $OA$, $OB$, $OC$ rispettivamente in modo tale che i triangoli $YOZ$, $ZOX$ e $XOY$ abbiano tutti lo stesso perimetro $2n$, ed esprimere semplicemente $OX$ in termini di $n$, $\alpha$, $\beta$ e $\gamma$.
+> Da un punto $O$ nello spazio a $3$ dimensioni escono tre semirette $OA$, $OB$, $OC$, e gli angoli $BOC$, $COA$, $AOB$ sono rispettivamente $\alpha$, $\beta$, $\gamma$.
+>
+> Dimostrare che, per ogni $2n > 0$, esistono punti $X$, $Y$, $Z$ rispettivamente su $OA$, $OB$, $OC$ tali che i triangoli $YOZ$, $ZOX$ e $XOY$ abbiano tutti lo stesso perimetro $2n$, ed esprimere $OX$ in funzione di $n$, $\alpha$, $\beta$ e $\gamma$ in modo semplice.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1978-79_round1#q02|src_bmo_1978-79_round1__Q02]]
 
 
 
@@ -89,11 +105,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Differenti integri positivi dispari con differenze paritarie distinte; dimostrare la somma del limite inferiore*
+*La somma degli $a_i$ è almeno $\tfrac{1}{3}n(n^2 + 2)$*
 
-> $S$ è un insieme di diversi integri unici positivi $\{a_i\}$, $i = 1$ a $n$. Nessuna differenza $|a_i - a_j|$ è uguale a $1 \le i < j \le n$.
-> 
-> Provare che $$\sum_{i=1}^{n} a_i \ge \tfrac{1}{3}n(n^2 + 2).$$
+> $S$ è un insieme di interi positivi dispari distinti $\{a_i\}$, $i = 1$ fino a $n$.
+> Nessuna due differenze $|a_i - a_j|$ sono uguali, $1 \le i < j \le n$.
+>
+> Dimostrare che
+> $$\sum_{i=1}^{n} a_i \ge \tfrac{1}{3}n(n^2 + 2).$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1978-79_round1#q03|src_bmo_1978-79_round1__Q03]]
 
 
 
@@ -119,11 +144,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione a valore razionale che soddisfa f(x+f(y))=f(f(x))+f(y); prova che f è costante*
+*$f$ è costante*
 
-> La funzione $f$ è definita sui numeri razionali e assume solo valori razionali. Per tutti i $x$ e $y$ razionali, $$f(x + f(y)) = f(f(x)) + f(y).$$
-> 
-> Provare che $f$ è costante.
+> La funzione $f$ è definita sui numeri razionali e assume solo valori razionali. Per tutti i razionali $x$ e $y$,
+> $$f(x + f(y)) = f(f(x)) + f(y).$$
+>
+> Dimostrare che $f$ è costante.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1978-79_round1#q04|src_bmo_1978-79_round1__Q04]]
 
 
 
@@ -149,11 +182,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione di partizione p(n); prova p(n+1)-2p(n)+p(n-1)>=0 per n>1*
+*Per $n > 1$, $p(n+1) - 2p(n) + p(n-1) \ge 0$*
 
-> Per un intero positivo $n$, $p(n)$ è il numero di modi di esprimere $n$ come la somma di uno o più integri positivi. Per esempio, $p(5) = 5$, perché ci sono $5$ somme diverse, vale a dire $1+1+1+1+1$, $1+1+1+2$, $1+1+3$, $1+4$, $2+2+1$.
-> 
-> Prova che per $n > 1$, $$p(n+1) - 2p(n) + p(n-1) \ge 0.$$
+> Per un intero positivo $n$, sia $p(n)$ il numero di modi di esprimere $n$ come somma di uno o più interi positivi. Per esempio, $p(5) = 5$, perché ci sono $5$ somme diverse, cioè $1+1+1+1+1$, $1+1+1+2$, $1+1+3$, $1+4$, $2+2+1$.
+>
+> Dimostrare che per $n > 1$,
+> $$p(n+1) - 2p(n) + p(n-1) \ge 0.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1978-79_round1#q05|src_bmo_1978-79_round1__Q05]]
 
 
 
@@ -180,8 +221,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Sequenza infinita 1001,100010001,...; dimostrare che non esiste una prima che divida tutti i termini*
+*Nessun primo divide tutti gli interi della successione*
 
-> Considera la sequenza infinita di numeri interi $$1001, \quad 100010001, \quad 1000100010001, \quad \ldots$$ dove ogni numero intero dopo il primo viene ottenuto adiacendo $0001$ ai numeri del numero intero precedente.
-> 
-> Prove che non esiste un numero primo che divida tutti i numeri interi della sequenza.
+> Si consideri la successione infinita di interi
+> $$1001, \quad 100010001, \quad 1000100010001, \quad \ldots$$
+> dove ogni intero dopo il primo si ottiene accostando $0001$ alle cifre dell'intero precedente.
+>
+> Dimostrare che non esiste un numero primo che divida tutti gli interi della successione.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1978-79_round1#q06|src_bmo_1978-79_round1__Q06]]

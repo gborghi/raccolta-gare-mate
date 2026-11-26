@@ -28,9 +28,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bruno and Carlo can have a common day off (sports programmes)*
+*Can Bruno and Carlo have a common day off (sports programs)?*
 
-> Bruno and Carlo practice three sports: soccer, volleyball, and swimming, no more than one a day. A day of football must be followed by two days of rest, a day of volleyball by one day of rest, a day of swimming does not require days of rest and may replace a day of rest. Each person has a training programme that is repeated periodically: in each period each person practices each sport the same number of times and the minimum interval of time between two consecutive times in which one of them practices the same sport is the same for all sports. The programme also provides for the reduction of rest days to the minimum possible. Bruno and Carlo each started their own program on the same day. They're doing different sports today and they'd like to go out and have fun on the first day of rest for both of them. Can they be sure that they will succeed in their endeavor?
+> Bruno and Carlo practice three sports: football, volleyball, and swimming—no more than one sport per day. A day of football must be followed by two days of rest; a day of volleyball by one day of rest; a day of swimming requires no days of rest and can replace a day of rest. Each of them has a training schedule that repeats periodically: in each period, each of them practices each sport the same number of times, and the minimum time interval between two consecutive times when one of them practices the same sport is the same for all sports. Moreover, the schedule provides for minimizing rest days as much as possible. Bruno and Carlo each started their own schedule on the same day. Today they are practicing different sports and would like to go and have some fun on the first day that is a rest day for both of them. Can they be certain of succeeding in their aim?
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_student_finale#qs1|src_kangourou_2019_student_finale__QS1]]
 
 
 
@@ -59,9 +65,13 @@ level: kangourou
 
 ![[src_kangourou_2019_student_finale__probs2.png]]
 
-> For a pyramid with a rectangular base, the lengths of three of the four oblique edges that join the vertex $V$ to the vertices $A$, $B$, $C$, $D$ of the base are known: $VA = 90\text{ m}$; $VB = 70\text{ m}$; $VC = 20\text{ m}$. Is it possible to determine the length of the edge $VD$? If so, determine that length; if not, find the measurements of two pyramids that satisfy the data of the problem in which the length of the edge $VD$ is different.
+> For a pyramid with a rectangular base, the lengths of three of the four lateral edges that join its apex $V$ to the base vertices $A$, $B$, $C$, $D$ are known: $VA = 90\text{ m}$; $VB = 70\text{ m}$; $VC = 20\text{ m}$. Is it possible to determine the length of edge $VD$? If so, determine that length; if not, identify the measurements of two pyramids that satisfy the given data of the problem and in which the length of edge $VD$ is different.
 
-**Answer:** 60 m
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_student_finale#qs2|src_kangourou_2019_student_finale__QS2]]
 
 
 
@@ -84,11 +94,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-After how many years the full moon returns on the same day (cycle 28 days)
+*After how many years does a full moon fall on the same day again (28-day cycle)?*
 
-> On a certain day in a certain month in one of the next 10 years, there will be a full moon. If the lunar cycle was exactly 28 days long, after how many years at most would there again be a full moon for the first time on the same day of the same month? (If, for example, it happens the following year, you should answer: after 1 year.)
+> On a certain day of a certain month in one of the next 10 years, there will be a full moon. If the lunar cycle consisted of exactly 28 days, after at most how many years would there be a full moon again for the first time on the same day of the same month? (If, for example, it happened the following year, you should answer: after 1 year.)
 
-**Answer:** 248
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_student_finale#qs3|src_kangourou_2019_student_finale__QS3]]
 
 
 
@@ -111,9 +125,16 @@ After how many years the full moon returns on the same day (cycle 28 days)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Criterion for divisibility by 11 of 5^a+4^b+3^c*
+*Criterion for divisibility by 11 of 5^a + 4^b + 3^c*
 
-> Indicate a quick, pen-and-paper determination criterion when the number $5^a + 4^b + 3^c$, when $a$, $b$ and $c$ are non-negative integers, is divisible by 11.
+> Indicate a criterion that makes it possible to quickly determine, using only paper and pen, when the number $5^a + 4^b + 3^c$, as $a$, $b$, and $c$ vary among non-negative integers, is divisible by 11.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_student_finale#qs4|src_kangourou_2019_student_finale__QS4]]
 
 
 
@@ -137,11 +158,17 @@ After how many years the full moon returns on the same day (cycle 28 days)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Locating the circumcenter of AEF (acute triangle)*
+*Location of the circumcenter of AEF (acute-angled triangle)*
 
 ![[src_kangourou_2019_student_finale__probs5.png]]
 
-> $ABC$ is an acute triangle with orthocenter $H$, with side $AB$ longer than side $AC$; denote by $E$ the reflection of $C$ across the altitude drawn from $A$ and by $F$ the intersection of the line through $E$ and $H$ with the line through $A$ and $C$. On the basis of these data alone, provide a location (relative to the elements given by the problem) of the circumcenter of triangle $AEF$.
+> $ABC$ is an acute-angled triangle with orthocenter $H$, in which side $AB$ is longer than side $AC$; denote by $E$ the point symmetric to $C$ with respect to the altitude drawn from $A$, and denote by $F$ the intersection of the line passing through $E$ and $H$ with the line passing through $A$ and $C$. Based solely on these data, provide a location (relative to the elements given in the problem) of the circumcenter of triangle $AEF$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_student_finale#qs5|src_kangourou_2019_student_finale__QS5]]
 
 
 
@@ -169,12 +196,18 @@ After how many years the full moon returns on the same day (cycle 28 days)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Critique of the proof about tiling with heptagons*
+*Critique of the proof concerning paving with heptagons*
 
 ![[src_kangourou_2019_student_finale__probs6.png]]
 
-> Consider the following statement with the subsequent proof. Does it all convince you? Justify your answer.
-> 
-> **STATEMENT** It is not possible to tile the interior of a circle with convex heptagons (not reduced to a point) in such a way that every vertex of every heptagon belongs to exactly three heptagons ("to tile" means to cover the figure so that every point that falls in the interior of a tile belongs only to it).
-> 
-> *Proof.* Suppose for contradiction that it is (theoretically) possible. The interior angles of every heptagon would measure on average $\dfrac{5 \times 180}{7}$ degrees; on the other hand, at every vertex three heptagons would meet, hence the average measure of the angles at a vertex would be $\dfrac{2 \times 180}{3} \neq \dfrac{5 \times 180}{7}$.
+> Consider the following statement along with the subsequent proof. Does the whole thing convince you? Justify your answer.
+>
+> **STATEMENT** It is impossible to tile the interior of a circle with convex heptagons (not reduced to a point) in such a way that each vertex of each heptagon belongs to exactly three heptagons ("tiling" means covering the figure so that every point lying inside a tile belongs to that tile alone).
+>
+> *Proof.* Suppose, to the contrary, that it is (theoretically) possible. The interior angles of each heptagon would average $\dfrac{5 \times 180}{7}$ degrees; on the other hand, three heptagons would meet at each vertex, so the average measure of the angles at a vertex would be $\dfrac{2 \times 180}{3} \neq \dfrac{5 \times 180}{7}$.
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_student_finale#qs6|src_kangourou_2019_student_finale__QS6]]

@@ -38,11 +38,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many angles identical to epsilon the plane is distributed*
+*Into how many angles identical to epsilon is the plane divided?*
 
-> (Points 2) Drawing in a plane 5 rays all originating in the same point O, we split the plane itself into 5 angles α, β, γ, δ, ε, all different from each other. Other plane distributions can be obtained by adjoining (with vertex at point O) 3 angles identical to α, or 4 identical to β, or 5 identical to γ, or 6 identical to δ. In how many angles identical to ε can the plane be divided? A) 12 B) 15 C) 18 D) 20 E) 24
+> (Point 2) By drawing 5 rays in a plane, all having their origin at the same point O, we have divided the plane itself into 5 angles α, β, γ, δ, ε, all of which are different from one another. Other divisions of the plane can be obtained by placing side by side (with vertex at point O) 3 angles identical to α, or 4 angles identical to β, or 5 angles identical to γ, or 6 angles identical to δ. Into how many angles identical to ε can the plane be divided?
+> A) 12	 	
+> B) 15	 	
+> C) 18	 	
+> D) 20	 	
+> E) 24
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q01|src_kangourou_2019_cadet_semif__Q01]]
 
 
 
@@ -80,21 +90,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which polygon cannot be detached with a cut*
+*Which polygon cannot be detached by a cut?*
 
 ![[src_kangourou_2019_cadet_semif__prob2.png]]
 
-> (Points 3) From a cardboard we cut a seven-sided polygon like the one shown in the figure. Now, with a single straight cut, we want to separate from this polygon another polygon (like this one, not regular or even convex) with a different number of sides. Which of the following polygons can't be detached? A) A pentagon
-> 	
+> (Point 3) From a piece of cardboard, we cut out a 7-sided polygon like the one shown in the figure. Now, with a single straight cut, we want to detach from this polygon another polygon (like this one—neither regular nor convex) having a different number of sides. Which of the following polygons cannot be detached?
+> A) A pentagon
+>
 > B) A hexagon
-> 	
+>
 > C) An octagon
-> 	
+>
 > D) A decagon
-> 	
-> E) None of the above answers is correct
+>
+> E) None of the preceding answers is correct
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q02|src_kangourou_2019_cadet_semif__Q02]]
 
 
 
@@ -127,17 +143,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many A+B values with A869B divisible by 12*
+*How many values of A+B are there such that A869B is divisible by 12?*
 
-> (Points 3) A and B are two digits such that the integer A869B is divisible by 12. How many different values of the sum A + B can be? A) 4
-> 	
-> B) 6
-> 	
-> C) 8
-> 	
-> D) 10 E) 12
+> (Point 3) A and B are two digits such that the integer A869B is divisible by 12. How many different values can the sum A + B have?
+> A) 4	
+>
+> B) 6	
+>
+> C) 8	
+>
+> D) 10	 	
+> E) 12
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q03|src_kangourou_2019_cadet_semif__Q03]]
 
 
 
@@ -170,13 +193,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of days for which the second proposal is suitable*
+*Minimum number of days for which the second proposal is advantageous*
 
-> (Points 4) Maria is looking for work and has to consider two different salary proposals: the first proposal provides a fixed daily salary of EUR 100 per working day; the second proposal for a salary that increases by EUR 10 per working day, starting the first day with EUR 50 and continuing the second with EUR 60 and so on. How many days at least do you have to work for the second proposal to be more advantageous? A) 9
-> 	
-> B) 10 C) 11 D) 12 E) 20
+> (Point 4) Maria is looking for work and needs to evaluate two different salary offers: the first offer provides a fixed daily wage of 100 euros for each day worked; the second offers a wage that increases by 10 euros for each day worked, starting at 50 euros on the first day and continuing at 60 euros on the second day, and so on. What is the minimum number of days she needs to work for the second offer to become more advantageous?
+> A) 9	
+>
+> B) 10	 	
+> C) 11	 	
+> D) 12	 	
+> E) 20
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q04|src_kangourou_2019_cadet_semif__Q04]]
 
 
 
@@ -203,11 +234,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the equality between b (product of divisors of 1024) and a*
+*What equality between b (the product of the divisors of 1024) and a?*
 
-> (Points 4) If a = 1024 and b is the product of all (positive integer) divisors of a, which of the following equations is true? A) b = a4 B) b2 = a11        	 C) b = a5           	D) b3 = a10       	 E) b = a6
+> (Point 4) If a = 1024 and b is the product of all (positive integer) divisors of a, which of the following equalities is true?
+> A) b = a4       	
+> B) b2 = a11        	 C) b = a5           	D) b3 = a10       	 E) b = a6
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q05|src_kangourou_2019_cadet_semif__Q05]]
 
 
 
@@ -243,13 +281,21 @@ level: kangourou
 
 *Number in third place with sums of consecutive squares*
 
-> The integers 1 to 17 included have been aligned so that the sum of two consecutive numbers is always a perfect square, and the number in the first place is greater than the number in the last (and of course in the alignment each one appears only once). What number is in the third position of the alignment? A) 14 B) 13 C) 4
-> 	
-> D) 3
-> 	
+> (Point 4) The integers from 1 to 17 inclusive have been arranged in a sequence such that the sum of any two consecutive numbers is always a perfect square, the number in the first position is greater than the one in the last position (and, of course, in the sequence each number appears exactly once). Which number is in the third position in the sequence?
+> A) 14	 	
+> B) 13	 	
+> C) 4	
+>
+> D) 3	
+>
 > E) 1
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q06|src_kangourou_2019_cadet_semif__Q06]]
 
 
 
@@ -307,7 +353,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many different hexagonal decoration with coloured triangles*
+*How many different hexagon patterns with colored little triangles?*
 
 ![[src_kangourou_2019_cadet_semif__prob7.png]]
 
@@ -329,17 +375,23 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 5) By placing six equal equilateral triangles side by side, you get a regular hexagon. Assume that the starting equilateral triangles are each divided into three small triangles (equal) with one vertex in the center of the equilateral triangle, of which two are grey and one is white (see figure). Suppose that they are brought together so that along each of the conjunction sides of the equilateral triangles there are always small triangles of equal colour. How many different hexagonal decorations could you get? A) 6
-> 	
-> B) 5
-> 	
-> C) 4
-> 	
-> D) 3
-> 	
+> (Point 5) By joining six identical equilateral triangles, a regular hexagon is formed. Suppose each of the initial equilateral triangles is divided into three (identical) small triangles with one vertex at the center of the equilateral triangle, two of which are grey and one white (see figure). Suppose you join them in such a way that, along each of the sides where the equilateral triangles meet, small triangles of the same colour always appear. How many different "decorations" of hexagons could you obtain?
+> A) 6	
+>
+> B) 5	
+>
+> C) 4	
+>
+> D) 3	
+>
 > E) 2
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q07|src_kangourou_2019_cadet_semif__Q07]]
 
 
 
@@ -370,15 +422,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the smallest and largest of 1009 consecutive*
+*Sum of the smallest and largest of 1009 consecutive numbers*
 
-> (Points 5) The sum of 1009 consecutive integers is 20182019. How much is the sum of the smallest and largest of these numbers? A) 4 × 20182018 B) 10092019
-> 	
-> C) 4 × 10092019 D) 20181010
-> 	
+> (Point 5) The sum of 1009 consecutive integers is 20182019. What is the sum of the smallest and the largest of these numbers?
+> A) 4 × 20182018	 	
+> B) 10092019	
+>
+> C) 4 × 10092019	 	
+> D) 20181010	
+>
 > E) 20182019  - 1.
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q08|src_kangourou_2019_cadet_semif__Q08]]
 
 
 
@@ -415,21 +474,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last digit of 2019×N given the divisors of 2N and 3N*
+*Last digit of 2019*N given the divisors of 2N and 3N*
 
-> (Points 6) The double of a positive integer N has 6 different positive divisors; whereas the triple of N has 4 different positive divisors. What is the last digit of the number 2019×N? Note: The divisors of a number include 1 and the number itself. A) 1
-> 	
-> B) 3
-> 	
-> C) 8
-> 	
-> D) 9
-> 	
-> E) It is impossible to establish
-> 
+> (Question 6) Twice a positive integer N has 6 distinct integer divisors; however, three times N has 4 distinct integer divisors. What is the units digit of the number 2019 × N? Note: the divisors of a number include 1 and the number itself.
+> A) 1	
+>
+> B) 3	
+>
+> C) 8	
+>
+> D) 9	
+>
+> E) It is impossible to determine it
+>
 > Open-ended questions
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q09|src_kangourou_2019_cadet_semif__Q09]]
 
 
 
@@ -454,12 +519,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of M two-digit number with M×k=2331*
+*Value of M: a two-digit number such that M*k=2331*
 
-> (4 points) Davide wrote a positive integer M with two (significant) digits. He noticed that, by multi­
-> plying it by another positive integer smaller than M, he obtains the number 2331. What is the value of M?
+> (Point 4) Davide has written a positive two-digit (significant) integer M. He has noticed that, when he multiplies M by another positive integer smaller than M, he gets the number 2331. What is the value of M?
 
-**Answer:** 63
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q10|src_kangourou_2019_cadet_semif__Q10]]
 
 
 
@@ -485,11 +554,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many minutes to fill the tank with 10 taps*
+*How many minutes to fill the tank with 10 taps?*
 
-> (Points 5) A tank can be filled with 10 taps. One of them can fill it in 1 day; two of the remaining can fill it each in 12 hours, three of the remaining can fill it each in 8 hours and the remaining 4 can fill it each in 6 hours. If all the taps are opened simultaneously, how many minutes (and sufficient) are needed to fill the tank?
+> (Point 5) A tank can be filled by 10 taps. One of them can fill it in 1 day; two of the remaining taps can each fill it in 12 hours, 3 of the remaining taps can each fill it in 8 hours, and the remaining 4 can each fill it in 6 hours. If all the taps are opened simultaneously, how many minutes are needed (and sufficient) to fill the tank?
 
-**Answer:** 48
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q11|src_kangourou_2019_cadet_semif__Q11]]
 
 
 
@@ -517,11 +590,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which card has not been drawn (remainders mod 3,4,5)*
+*Which card was not drawn (remainders mod 3, 4, 5)*
 
-> (Points 5) From the same deck of seven cards, each numbered with a different number from 1 to 7, Alice, Bianca, and Carla each take two cards. They find that both of Alice's cards give the same remainder when she divides by 3, both of Bianca's cards give the same remainder when she divides by 4, and both of Carla's cards give the same remainder when she divides by 5. Which card has not been drawn? Give 9999 as an answer if you think it's impossible to establish for sure.
+> (Point 5) From the same deck of 7 cards, each numbered with a different number from 1 to 7, Alice, Bianca, and Carla each draw two cards. They find that both cards drawn by Alice leave the same remainder when divided by 3, both cards drawn by Bianca leave the same remainder when divided by 4, and both cards drawn by Carla leave the same remainder when divided by 5. Which card was not drawn? Give 9999 as the answer if you think it is impossible to determine this with certainty.
 
-**Answer:** 4
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q12|src_kangourou_2019_cadet_semif__Q12]]
 
 
 
@@ -548,9 +626,13 @@ level: kangourou
 
 *Perimeter of rectangle R divided into 4 rectangles*
 
-> (Points 6) A rectangle R is divided by two lines into 4 rectangles. It is known that three of the perimeters of these rectangles are 11 cm, 16 cm and 19 cm and that the perimeter of the fourth is neither the smallest nor the largest. How many centimeters does the perimeter of the R rectangle measure ?
+> (Point 6) A rectangle R is divided by two straight lines into 4 rectangles. It is known that three of the perimeters of these rectangles are 11 cm, 16 cm, and 19 cm, and that the perimeter of the fourth is neither the smallest nor the largest. How many centimetres is the perimeter of rectangle R?
 
-**Answer:** 30
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q13|src_kangourou_2019_cadet_semif__Q13]]
 
 
 
@@ -628,7 +710,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum counters on the 21-gon with all different distances*
+*Maximum number of pawns on the 21-gon, with all distances different*
 
 ![[src_kangourou_2019_cadet_semif__prob14.png]]
 
@@ -681,12 +763,14 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 6) In the figure you see a regular polygon with 21 sides. Andrea has many
-> counters that he wants to place on the vertices of this polygon in such a way that, for every
-> pair of vertices covered by counters, the distances between the vertices are all different.
-> What is the maximum number of counters he can place?
+> (Point 6) In the figure, you can see a regular polygon with 21 sides. Andrea has many pawns and wants to place them on the vertices of this polygon in such a way that, for every pair of vertices occupied by pawns, all the distances between the vertices are different. What is the maximum number of pawns he can place?
 
-**Answer:** 5
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q14|src_kangourou_2019_cadet_semif__Q14]]
 
 
 
@@ -712,11 +796,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to choose n with integer red percentage*
+*In how many ways can n be chosen with an entire red percentage?*
 
-> (Points 6) Chiara wants to colour each square of a grid 6×10 in red or blue. It requires that both colours are present and that the percentage of the surface which will be red after colouring is n%, with n being an integer. How many different ways can you choose n ?
+> (Point 6) Chiara wants to color each small square of a 6×10 grid either red or blue. She wants both colors to be present and wants the percentage of the area that will be red after coloring to be n%, where n is an integer. In how many different ways can she choose n?
 
-**Answer:** 19
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q15|src_kangourou_2019_cadet_semif__Q15]]
 
 
 
@@ -741,11 +830,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mother/Mara ratio between the same number of years*
+*Relationship eta mamma/Mara spanning the same number of years*
 
-> Today is the birthday of Mara and her mother: her mother's age is five times that of Mara and some years ago she was seven times her age. Between the same number of years, dividing the age of the mother by that of Mara, what number will be obtained?
+> (Point 7) Today is Mara's birthday and her mother's birthday too: the mother's age is five times Mara's age, and some number of years ago it was even seven times Mara's age. After the same number of years, if you divide the mother's age by Mara's age, what number will you get?
 
-**Answer:** 4
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q16|src_kangourou_2019_cadet_semif__Q16]]
 
 
 
@@ -770,11 +863,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pupils are present given the differences in average age*
+*How many students are present, given the differences in average age?*
 
-> (Points 7) A teacher is in a classroom with some of his pupils. The average age of the teacher is 24 years above the average age of his pupils and 20 years above the average age of all present, teacher and pupils. How many pupils are present?
+> (Point 7) A professor is in a classroom with some of his students. The professor's age exceeds the average age of his students present by 24 years and exceeds the average age of all those present—the professor and the students—by 20 years. How many students are present?
 
-**Answer:** 5
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q17|src_kangourou_2019_cadet_semif__Q17]]
 
 
 
@@ -808,10 +905,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of vertices in the polygon with alternating angles 120 and 150*
+*How many vertices does the polygon have if its alternate angles are 120 and 150?*
 
-> (Points 8) In a convex polygon the angles measure, alternately, 120 degrees and 150 degrees. How many vertices does the polygon have?
-> 	
+> (Point 8) In a convex polygon, the angles measure 120 degrees and 150 degrees alternately. How many vertices does the polygon have?
+>
 > 0063 0048 0004 0030 0005 0019 0004 0005 0008
 
-**Answer:** 8
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_cadet_semif#q18|src_kangourou_2019_cadet_semif__Q18]]

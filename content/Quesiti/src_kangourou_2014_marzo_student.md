@@ -45,21 +45,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubes removed from a 5x5x5 cube with columns*
+*Small cubes removed from a 5×5×5 cube with columns*
 
 ![[src_kangourou_2014_marzo_student__prob1.png]]
 
-> From a cube of dimensions 5 × 5 × 5, obtained by placing together small cubes of dimensions 1 × 1 × 1, some of the cubes are removed so as to obtain the solid in the figure, formed by a flat base of height 1 topped by columns, all of the same height 4. How many cubes have been removed in total? A) 56
-> 	
+> From a cube of dimensions 5 × 5 × 5, obtained by placing small cubes of dimensions 1 × 1 × 1 side by side, some of the small cubes are removed so as to obtain the solid in the figure, formed by a flat base of height 1 surmounted by some columns, all of the same height 4. How many small cubes are removed in total?
+> A) 56
+>
 > B) 60
-> 	
+>
 > C) 64
->       
+>
 > D) 68
-> 	
+>
 > E) 80
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q01|src_kangourou_2014_marzo_student__Q01]]
 
 
 
@@ -93,22 +99,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of three ages = 44, next with two equal digits*
+*Sum of three ages = 44, next with two identical digits*
 
-> Carla, Emilia and Giulia all have their birthdays today. The sum of their ages 
-> is 44. What will the sum of their ages be the next time it is again a 
-> number made up of two equal digits?
-> A) 55	
-	
-> B) 66	
-	
-> C) 77	
-	
-> D) 88	
-	
+> Carla, Emilia and Giulia all have their birthdays today. The sum of their ages is 44. What will the sum of their ages be the next time it is again a number made up of two identical digits?
+> A) 55
+>
+> B) 66
+>
+> C) 77
+>
+> D) 88
+>
 > E) 99
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q02|src_kangourou_2014_marzo_student__Q02]]
 
 
 
@@ -140,20 +149,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Calculation of a-3b given a/b*
+*Value of a –3b*
 
 > If a b =     , what is the value of  a –3b ?
-> A)   	
-> 	
-> B) – 8	
-> 	
-> C) 6	
-> 	
-> D)	
-> 	
+> A)
+>
+> B) – 8
+>
+> C) 6
+>
+> D)
+>
 > E) 8
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q03|src_kangourou_2014_marzo_student__Q03]]
 
 
 
@@ -188,19 +202,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many in the largest*
+*How many in the largest*
 
-> Three baskets of different sizes contain a total of 48 balls. The smallest basket contains half of the balls in the middle basket, and counting the balls in the smaller and larger baskets together, you get twice the number of balls in the middle basket. How many balls does the biggest basket contain? A) 16
-> 	
+> Three baskets of different sizes contain 48 balls in total. The smallest basket contains half the balls of the medium basket, and counting together the balls in the smallest and largest baskets gives twice the number of balls in the medium basket. How many balls does the largest basket contain?
+> A) 16
+>
 > B) 20
-> 	
+>
 > C) 24
-> 	
+>
 > D) 30
-> 	
+>
 > E) 32
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q04|src_kangourou_2014_marzo_student__Q04]]
 
 
 
@@ -229,17 +249,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of an expression with powers of 2*
+*Value of an expression involving powers of 2*
 
 > What is the value of                                    ?
 > A) 2 2011	 	
 > B) 2 2012	 	
 > C) 2 2013		
 > D) 1	
-> 	
+>
 > E) 2
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2014_marzo_student#q05|src_kangourou_2014_marzo_student__Q05]]
 
 
 
@@ -278,18 +302,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which polynomial does not admit b+1 as a factor*
+*Which polynomial does not have b+1 as a factor*
 
-> Which of the following polynomials does not admit its factors b + 1? A) 2b + 2
-> 	
+> Which of the following polynomials does not have  b + 1 among its factors?
+> A) 2b + 2
+>
 > B) b 2 – 1
-> 	
-> C) b 2 + b D) –1 – b
-> 	
-> E) b 2 + 1 1---- 2 1---- 8 1---- 6
+>
+> C) b 2 + b
+> D) –1 – b
+>
+> E) b 2 + 1
+> 1---- 2 1---- 8 1---- 6
 >
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q06|src_kangourou_2014_marzo_student__Q06]]
 
 
 
@@ -320,17 +353,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits has (2^22) ^5×(5^55) ^2*
+*Digits in a product*
 
-> What is the result of the product (2 22 )5 ∙ (5 55 )2 ? A) 22
-> 	
+> How many digits does the result of the product  (2 22 )5 ∙ (5 55 )2 have?
+> A) 22
+>
 > B) 55
-> 	
+>
 > C) 77
-> 	
-> D) 110 E) 111
+>
+> D) 110
+> E) 111
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q07|src_kangourou_2014_marzo_student__Q07]]
 
 
 
@@ -365,21 +405,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*what statement is true*
+*Which statement is necessarily true*
 
-> Henry has a confidential mail account whose address is known only to four friends. He got eight messages today. Which of the following is necessarily true?
-> 	
-> A) Each friend sent two messages.
-> 	
-> B) It is not possible that all messages come from one friend.
-> 	
-> C) Each friend sent at least one message.
-> 	
-> D) One of the friends sent at least 2 messages.
-> 	
-> E) A single friend sent more than 2 messages.
+> Enrico has a private email account whose address is known only to 4 friends. Today he has received 8 messages. Which of the following statements is necessarily true?
+>
+> A) Every friend has sent two messages.
+>
+> B) It is not possible that all the messages come from a single friend.
+>
+> C) Each friend has sent at least one message.
+>
+> D) One of the friends has sent at least 2 messages.
+>
+> E) Only one friend has sent more than 2 messages.
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q08|src_kangourou_2014_marzo_student__Q08]]
 
 
 
@@ -416,21 +462,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*volume V with respect to v*
+*Volume V relative to v*
 
 ![[src_kangourou_2014_marzo_student__prob9.png]]
 
-> Look at the figure. The side surfaces of two identical cylinders are cut along the lines drawn and glued together to form the side surface of a larger cylinder. What can be said of the volume V of the large cylinder compared to the volume v of each of the two small cylinders? A) V = 2 v
-> 	
+> Look at the figure. The lateral surfaces of two identical cylinders are cut along the dashed lines and glued together to form the lateral surface of a larger cylinder. What can be said about the volume V of the large cylinder relative to the volume v of each of the two small cylinders?
+> A) V = 2 v
+>
 > B) V = 3 v
-> 	
+>
 > C) V = π v
-> 	
+>
 > D) V = 4 v
-> 	
+>
 > E) V  = 8 v
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q09|src_kangourou_2014_marzo_student__Q09]]
 
 
 
@@ -462,13 +514,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Year with last digit > sum of first three, all different*
+*Years with last digit greater than the sum of the first three, all different*
 
-> The number 2014 is made up of digits all different from each other, and the last one is larger than the sum of the first three. How many years have passed since last year with this property? A) 5
-> 	
-> B) 215 C) 395 D) 485 E) A number different from the previous ones. Questions from n. 11 to n. 20 are worth 4 points each.
+> The number 2014 is made up of digits that are all different from each other, and the last digit is greater than the sum of the first three. How many years have passed since the last year with this property?
+> A) 5
+>
+> B) 215
+> C) 395
+> D) 485
+> E) A different number from the ones above.
+> Questions from question 11 to question 20 are worth 4 points each.
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q10|src_kangourou_2014_marzo_student__Q10]]
 
 
 
@@ -505,19 +567,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*team points D*
+*Points of team D*
 
-> In each football match, the winner gains 3 points, the loser 0 and in case of a draw each team gains 1 point. Four teams, A, B, C, D, take part in a tournament in which each team plays each other once and only once. At the end of the tournament, team A has 7 points while teams B and C have 4 points each; how many points has team D totalled? A) 0
-> 	
+> In every football match, the winner gains 3 points, the loser 0, and in the case of a draw each team gains 1 point. Four teams, A, B, C, D, take part in a tournament in which each team plays once and only once against each of the others. At the end of the tournament, team A has 7 points while teams B and C have 4 points each; how many points has team D totalled?
+> A) 0
+>
 > B) 1
-> 	
+>
 > C) 2
-> 	
+>
 > D) 3
-> 	
+>
 > E) 4
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q11|src_kangourou_2014_marzo_student__Q11]]
 
 
 
@@ -550,18 +619,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of 2^k+1 is divisible by 5*
+*Divisible by 5*
 
-> Which of the following numbers is divisible by 5? A) 2100 + 1
-> 	
+> Which of the following numbers is divisible by 5?
+> A) 2100 + 1
+>
 > B) 2101 + 1
-> 	
-> C) 2102 + 1 D) 2103 + 1
-> 	
+>
+> C) 2102 + 1
+> D) 2103 + 1
+>
 > E) 2104 + 1
 >
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q12|src_kangourou_2014_marzo_student__Q12]]
 
 
 
@@ -643,17 +720,23 @@ level: kangourou
 \end{document}
 ```
 
-> The radii of the two concentric circles in the figure have lengths which are in the ratio of 1: 3. AC is the diameter of the large circle; BC is a chord of the large circle tangent to the small circle. You know that the length of the AB segment is 12 cm. How many cm does the radius of the large circle measure? A) 13
-> 	
+> The radii of the two concentric circles in the figure have lengths in the ratio 1: 3. AC is the diameter of the large circle; BC is a chord of the large circle tangent to the small circle. It is known that the length of the segment AB is 12 cm: how many cm is the radius of the large circle?
+> A) 13
+>
 > B) 18
-> 	
+>
 > C) 21
->         
+>
 > D) 24
-> 	
+>
 > E) 26
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q13|src_kangourou_2014_marzo_student__Q13]]
 
 
 
@@ -687,19 +770,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Terns a>b>c>1 with 1/a+1/b+1/c>1*
+*Integer triples and an incomplete inequality*
 
-> How many sets of integers (a, b, c) with a > b > c > 1 satisfy the inequality 1/a + 1/b + 1/c > 1? A) 0
-> 	
+> How many triples of integers (a, b, c) with  a > b > c > 1  satisfy the inequality        +       +        > 1?
+> A) 0
+>
 > B) 1
-> 	
+>
 > C) 2
-> 	
+>
 > D) 3
-> 	
-> E) Infinite
+>
+> E) Infinitely many
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_casework|Case analysis]], [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q14|src_kangourou_2014_marzo_student__Q14]]
 
 
 
@@ -729,18 +819,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*true inequality*
+*True inequality*
 
-> Let n be a positive integer and a, b, c be numbers different from 0. It is known that the two 
-> numbers (– 2)2n + 3 a2n + 2 b2n – 1 c3n + 2 and (– 3)2n + 2 a4n + 1 b2n + 5 c3n – 4 have the same sign. 
-> Which of the following inequalities must be true?
-> A) a > 0		
-> B) b > 0		
-> C) c > 0		
-> D) a < 0	
+> Let n be a positive integer and let a, b, c be numbers different from 0. It is known that the two numbers (– 2)2n + 3 a2n + 2 b2n – 1 c3n + 2 and (– 3)2n + 2 a4n + 1 b2n + 5 c3n – 4 have the same sign. Which of the following inequalities must be true?
+> A) a > 0
+> B) b > 0
+> C) c > 0
+> D) a <  0
 > E) b < 0
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q15|src_kangourou_2014_marzo_student__Q15]]
 
 
 
@@ -775,19 +868,23 @@ level: kangourou
 
 *6 weeks = n! seconds*
 
-> For which value of n is it true that 6 weeks are n! seconds? (Remember that 
-> n! = n ∙ (n – 1) ∙ (n – 2) ∙ ... ∙ 3 ∙ 2 ∙ 1)
-> A) 6	
-> 	
-> B) 7	
-> 	
-> C) 8	
-> 	
-> D) 10	
-> 	
+> For which value of  n  is it true that 6 weeks are n! seconds? (Remember that n! = n ∙ (n – 1) ∙ (n – 2) ∙ ... ∙ 3 ∙ 2 ∙ 1)
+> A) 6
+>
+> B) 7
+>
+> C) 8
+>
+> D) 10
+>
 > E) 12
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q16|src_kangourou_2014_marzo_student__Q16]]
 
 
 
@@ -826,25 +923,28 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*value x*
+*Value of x*
 
 ![[src_kangourou_2014_marzo_student__prob17.png]]
 
-> The vertices of the cube in the figure are numbered from 1 to 8 in such
-> a way that, by adding the numbers on the four vertices of each
-> face, the same result is always obtained as the face varies. The numbers 1, 4 and 6 have already been assigned to some ver­
-> tices: what value must x take?
-> A) 2	
-> 	
-> B) 3	
-> 	
-> C) 5	
->     
-> D) 7	
-> 	
+> The vertices of the cube in the figure are numbered from 1 to 8 in such a way that the sum of the numbers on the four vertices of each face is always the same, whichever face is considered. The numbers 1, 4 and 6 have already been assigned to some vertices: what value must x take?
+> A) 2
+>
+> B) 3
+>
+> C) 5
+>
+> D) 7
+>
 > E) 8
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q17|src_kangourou_2014_marzo_student__Q17]]
 
 
 
@@ -889,12 +989,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The water content of the product shall not exceed the water content of the product.
+*Percentage of water*
 
-> The label on a cream cheese package says: total fat 24%. On the same label, it is also stated that the percentage of fat on the dry residue (i.e. on the part of the product not made up of water) is 64%. What's the water percentage in that cheese? A) 88 % B) 62.5 % C) 49 % D) 42 % E) 37.5 % A B C 1---- a 1---- b 1---- c 1 4 6 x
+> The label on a packet of cream cheese says: total fat 24%. On the same label it also says: percentage of fat in the dry residue (that is, in the part of the product not made up of water) 64%. What is the percentage of water in that cheese?
+> A) 88 %
+> B) 62.5 %
+> C) 49 %
+> D) 42 %
+> E) 37.5 %
+> A
+> B
+> C
+> 1---- a 1---- b 1---- c 1 4 6 x
 >
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q18|src_kangourou_2014_marzo_student__Q18]]
 
 
 
@@ -932,21 +1046,28 @@ The water content of the product shall not exceed the water content of the produ
 <div class="qlang-split" data-lang="en"></div>
 
 
-*measure AD*
+*Length of AD*
 
 ![[src_kangourou_2014_marzo_student__prob19.png]]
 
-> Look at the figure. The straight r passes through the vertex A of an ABCD rectangle. The distance from point C to the line r is 2, the distance from point D to r is 6. If the length of AD is twice that of AB, how much does AD measure? A) 10
-> 	
+> Look at the figure. The straight line r passes through the vertex A of a rectangle ABCD. The distance of the point C from the straight line r is 2 and the distance of the point D from r is 6. If the length of AD is twice that of AB, what is the length of AD?
+> A) 10
+>
 > B) 12
-> 	
+>
 > C) 14
->              
+>
 > D) 16
-> 	
+>
 > E) 4√3
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q19|src_kangourou_2014_marzo_student__Q19]]
 
 
 
@@ -980,22 +1101,26 @@ The water content of the product shall not exceed the water content of the produ
 <div class="qlang-split" data-lang="en"></div>
 
 
-*value a*
+*Value of a*
 
-> a and b are two real numbers. The function f defined by  f (x) = ax + b  satisfies the
-> equalities f ( f ( f (1))) = 29  and  f ( f ( f (0))) = 2. What is the value of  a ?
-> A) 1	
-	
-> B) 2	
-	
-> C) 3	
-	
-> D) 4	
-	
+> a and b are two real numbers. The function f defined by  f (x) = ax + b  satisfies the equalities f ( f ( f (1))) = 29  and  f ( f ( f (0))) = 2. What is the value of  a ?
+> A) 1
+>
+> B) 2
+>
+> C) 3
+>
+> D) 4
+>
 > E) 5
-> Questions from no. 21 to no. 30 are worth 5 points each
+> Questions from question 21 to question 30 are worth 5 points each
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q20|src_kangourou_2014_marzo_student__Q20]]
 
 
 
@@ -1028,15 +1153,24 @@ The water content of the product shall not exceed the water content of the produ
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min of maximum*
+*Minimum of the maximum*
 
-> On the board are written 10 positive integers that are different from each other: we call M the largest. You know that exactly 5 of them are divisible by 5 and exactly 7 are divisible by 7. What is the minimum value that M can assume? A) 105 B) 77
-> 	
+> On the blackboard are written 10 distinct positive integers: we call the largest M. It is known that exactly 5 of them are divisible by 5 and exactly 7 are divisible by 7. What is the minimum value that M can take?
+> A) 105
+> B) 77
+>
 > C) 75
-> 	
-> D) 63 E) None of the values listed.
+>
+> D) 63
+> E) None of the listed values.
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q21|src_kangourou_2014_marzo_student__Q21]]
 
 
 
@@ -1094,7 +1228,7 @@ The water content of the product shall not exceed the water content of the produ
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following information is provided in the following table:
+*Ratio PQ/QR*
 
 ![[src_kangourou_2014_marzo_student__prob22.png]]
 
@@ -1123,9 +1257,20 @@ The following information is provided in the following table:
 \end{document}
 ```
 
-> In the PQRS rectangle, we call T the middle point of the RS side. We know that QT is perpendicular to the PR diagonal. What is the ratio between the length of PQ and the length of QR ? A) 2 : 1 B) √3 : 1 C) 3 : 2 D) √2 : 1 E) 5 : 4
+> In the rectangle PQRS, call T the midpoint of side RS. It is known that QT is perpendicular to the diagonal PR. What is the ratio of the length of PQ to that of QR?
+> A) 2 : 1
+> B) √3 : 1
+> C) 3 : 2
+> D) √2 : 1
+> E) 5 : 4
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q22|src_kangourou_2014_marzo_student__Q22]]
 
 
 
@@ -1160,19 +1305,25 @@ The following information is provided in the following table:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how much gold*
+*How many gold*
 
-> In a kangaroo tribe there are nine special individuals, called Super Kangaroos, who are the only ones with golden or silver hair. For every random encounter of 3 Super Kangaroos, the probability of none of them being silver is 2/3. How many are the golden Super Kangaroos? A) 1
-> 	
+> In a tribe of kangaroos there are 9 special individuals, called Superkangaroos, who are the only ones with gold-coloured or silver-coloured fur. At every random meeting of 3 Superkangaroos, the probability that none of them is silver-coloured is 2/3. How many Superkangaroos are gold-coloured?
+> A) 1
+>
 > B) 3
-> 	
+>
 > C) 5
-> 	
+>
 > D) 6
-> 	
+>
 > E) 8
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q23|src_kangourou_2014_marzo_student__Q23]]
 
 
 
@@ -1231,46 +1382,33 @@ The following information is provided in the following table:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*side*
+*Side of the square*
 
 ![[src_kangourou_2014_marzo_student__prob24.png]]
 
-> As shown in the figure, a square is wedged
-> exactly between a (horizontal) line and two equal circles
-> tangent to the line and tangent to each other. If the radius of the
-> circles is 1, what is the measure of the side of the square?
-> A) 	
-> 	
-> B) 	
-> 	
-> C) 
-> D) 	
-> 	
-> E) 
+> As can be seen in the figure, a square is wedged exactly between a straight line (horizontal) and two equal circles tangent to the straight line and tangent to each other. If the radius of the circles is 1, what is the length of the side of the square?
+> A)
+>
+> B)
+>
+> C)
+> D)
+>
+> E)
 > A
 > D
 > C
 > B
-> r
-> P
-> Q
-> R
-> S
-> T
->  2---- 
->  5
->  1---- 
->  4
->  1---- 
->  5
->  1---- 
->  2
->   1
-> -----
-> √2
+> r P Q R S T 2---- 5 1---- 4 1---- 5 1---- 2 1 ----- √2
 >
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q24|src_kangourou_2014_marzo_student__Q24]]
 
 
 
@@ -1305,19 +1443,26 @@ The following information is provided in the following table:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max <=100 distinct integers with product not divisible by 54*
+*Maximum integers with product not divisible by 54*
 
-> Thomas wants to choose positive integers, all different from each other and all not greater than 100, so that their product is not divisible by 54. How many numbers can he pick at most? A) 8
-> 	
+> Tommaso wants to choose positive integers, all different from each other and all not greater than 100, so that their product is not divisible by 54. How many numbers can he choose at most?
+> A) 8
+>
 > B) 17
-> 	
+>
 > C) 68
-> 	
+>
 > D) 69
-> 	
+>
 > E) 90
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q25|src_kangourou_2014_marzo_student__Q25]]
 
 
 
@@ -1353,19 +1498,26 @@ The following information is provided in the following table:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n because CZ=1*
+*Value of n so that CZ equals 1*
 
-> Two regular polygons, with sides of length 1, lie in half-planes on opposite sides of the line containing their common side AB. One of them is a 15-sided polygon, ABCD... and the other one is a polygon with n sides, ABZY... . For what value of n is the length of the CZ segment equal to 1? A) 10
-> 	
+> Two regular polygons, with sides of length 1, lie in opposite half-planes with respect to the straight line containing their common side AB. One of them is a polygon with 15 sides, ABCD... and the other is a polygon with  n  sides, ABZY... . For which value of n is the length of the segment CZ also equal to 1?
+> A) 10
+>
 > B) 12
-> 	
+>
 > C) 15
-> 	
+>
 > D) 16
-> 	
+>
 > E) 18
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q26|src_kangourou_2014_marzo_student__Q26]]
 
 
 
@@ -1398,20 +1550,25 @@ The following information is provided in the following table:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*values of m*
+*Values of m*
 
-> As all triples (k, m, n) of positive integers vary such that the equalities 
-> k = (2014 + m)1/n = 10241/n + 1 hold, how many different values can the number m take?
-> A) No such triple exists.             
-> B) 1	
-> 	
-> C) 2	
-> 	
-> D) 3	
-> 	
+> As one varies over all triples (k, m, n) of positive integers such that the equalities k = (2014 + m)1/n = 10241/n + 1 hold, how many different values can the number m take?
+> A) There is no triple of this type.
+> B) 1
+>
+> C) 2
+>
+> D) 3
+>
 > E) Infinitely many
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q27|src_kangourou_2014_marzo_student__Q27]]
 
 
 
@@ -1448,13 +1605,24 @@ The following information is provided in the following table:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of inner corners*
+*Sum of interior angles*
 
 ![[src_kangourou_2014_marzo_student__prob28.png]]
 
-> The figure shows a polygonal chain whose vertices are all the midpoints of the edges of a cube. We define, as usual, an inner angle formed by two sides of a polygon, which meet in a vertex, as the angle of measurement not exceeding 180° formed by the two sides in the plane containing them. What is the sum of the measurements in degrees of all the interior angles of the polygonal chain in the figure? A) 720 B) 1080 C) 1200 D) 1440 E) 1800
+> The figure shows a polygonal chain whose vertices are all the midpoints of the edges of a cube. We define, as is usual, an interior angle formed by two sides of a polygonal chain which meet at a vertex as the angle of measure not greater than 180° formed by the two sides in the plane that contains them. What is the sum of the measures in degrees of all the interior angles of the polygonal chain in the figure?
+> A) 720
+> B) 1080
+> C) 1200
+> D) 1440
+> E) 1800
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q28|src_kangourou_2014_marzo_student__Q28]]
 
 
 
@@ -1488,11 +1656,20 @@ The following information is provided in the following table:
 
 *Z->Z with x f(x)=(x-3)f(x+1): product f(4)...f(2014)*
 
-> Let Z be the set of integers. The function f: Z Z satisfies the conditions f (4) = 6 and x ∙ f (x) = (x – 3) ∙ f (x + 1) for every x belonging to Z. How much is f (4) ∙ f (7) ∙ f (10) ∙... ∙ f (2011) ∙ f (2014)? A) 2013 B) 2014 C) 2013∙ 2014
-> 	
-> D) 2013! E) 2014!
+> Let Z be the set of integers. The function f : Z → Z satisfies the conditions f(4) = 6 and x · f(x) = (x – 3) · f(x + 1) for every x in Z. What is the value of f(4) · f(7) · f(10) · ... · f(2011) · f(2014)?
+> A) 2013		
+> B) 2014		
+> C) 2013∙ 2014	
+>
+> D) 2013!	
+> E) 2014!
 
-**Answer:** D
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2014_marzo_student#q29|src_kangourou_2014_marzo_student__Q29]]
 
 
 
@@ -1534,18 +1711,25 @@ The following information is provided in the following table:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*max final animals*
+*Maximum final animals*
 
-> In the forest of an imaginary island there are three kinds of animals: lions, wolves and goats. Wolves can only eat goats, lions eat both goats and wolves while goats are vegetarians. But the island is magical, and so every wolf when it eats a goat becomes a lion, while a lion becomes a wolf when it eats a goat and becomes a goat when it eats a wolf. At this moment on the island there are 17 goats, 55 wolves and 6 lions. What is the maximum number of animals that can be on the island when there is no longer any chance of one animal eating another (of a different species)? A) 1
-> 	
+> In the forest of an imaginary island there live three species of animals: lions, wolves and goats. Wolves can eat only goats, lions eat both goats and wolves, while goats are vegetarian. The island, however, is magical, and so every wolf, when it eats a goat, becomes a lion, while a lion becomes a wolf when  it eats a goat and becomes a goat when it eats a wolf. At this moment on the island there are 17 goats, 55 wolves and 6 lions. What is the maximum number of animals that there can be on the island when there is no longer any possibility that one animal devours another (of a different species)?
+> A) 1
+>
 > B) 6
-> 	
+>
 > C) 17
-> 	
+>
 > D) 23
-> 	
+>
 > E) 35
-> 
-> STRINGA STUDENT 2014
+>
+> STRING STUDENT 2014
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+[[Quesiti/src_kangourou_2014_marzo_student#q30|src_kangourou_2014_marzo_student__Q30]]

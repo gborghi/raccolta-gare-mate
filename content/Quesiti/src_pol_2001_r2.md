@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Divisibilità di una differenza di coefficienti binomiali da un primo p=2k-1, e quindi dal suo quadrato.*
+*Se p = 2k−1 è primo e p divide la differenza dei binomiali, allora p^2 la divide*
 
-> $k,n>1$ siano numeri interi in modo tale che il numero $p=2k-1$ sia primo. Prova che, se il numero $\binom{n}{2}-\binom{k}{2}$ è divisibile da $p$, allora è divisibile da $p^2$.
+> Siano $k,n>1$ interi tali che il numero $p=2k-1$ sia primo. Dimostrare che, se il numero $\binom{n}{2}-\binom{k}{2}$ è divisibile per $p$, allora è divisibile per $p^2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2001_r2#q01|src_pol_2001_r2__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti A,B,C su una linea con ABDE quadrata; cerchio su diametro AC incontra la linea DE a P,Q; linee AQ e BD incontra a R; prova DP=DR.*
+*Punti A, B, C allineati con AB < BC, quadrato ABDE, circonferenza di diametro AC: DP = DR*
 
-> I punti $A,B,C$ con $AB<BC$ si trovano in questo ordine su una linea. Il valore $ABDE$ deve essere quadrato. Il cerchio di diametro $AC$ interseca la linea $DE$ nei punti $P$ e $Q$ con $P$ tra $D$ e $E$. Le linee $AQ$ e $BD$ si incrociano a $R$. Prove che $DP=DR$.
+> I punti $A,B,C$, con $AB<BC$, giacciono in quest'ordine su una retta. Sia $ABDE$ un quadrato. La circonferenza di diametro $AC$ interseca la retta $DE$ nei punti $P$ e $Q$, con $P$ fra $D$ e $E$. Le rette $AQ$ e $BD$ si incontrano in $R$. Dimostrare che $DP=DR$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2001_r2#q02|src_pol_2001_r2__Q02]]
 
 
 
@@ -81,9 +93,19 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un polinomio monico di grado n che manca dei termini x^{n-1} e x^{n-2}, con un coefficiente non zero, non può avere tutte le radici reali.*
+*Un polinomio privo dei termini di grado n−1 e n−2, con almeno un altro coefficiente non nullo, non ha tutte le radici reali*
 
-> $n\ge 3$ sia un numero intero positivo. Prova che un polinomio della forma $$x^n+a_{n-3}x^{n-3}+a_{n-4}x^{n-4}+\cdots+a_1x+a_0,$$ in cui almeno uno dei coefficienti reali $a_0,a_1,\ldots,a_{n-3}$ non è zero, non può avere tutte le radici reali.
+> Sia $n\ge 3$ un intero positivo. Dimostrare che un polinomio della forma
+>
+> $$x^n+a_{n-3}x^{n-3}+a_{n-4}x^{n-4}+\cdots+a_1x+a_0,$$
+>
+> dove almeno uno dei coefficienti reali $a_0,a_1,\ldots,a_{n-3}$ è non nullo, non può avere tutte le radici reali.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2001_r2#q03|src_pol_2001_r2__Q03]]
 
 
 
@@ -107,9 +129,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le n>=3 in modo tale che qualsiasi progressione aritmetica di n termini con somma ponderata razionale contenga un termine razionale.*
+*Per quali n ogni progressione aritmetica di n termini, con somma pesata razionale, ha almeno un termine razionale*
 
-> Trova tutti gli enti $n\ge 3$ per i quali è vera la seguente affermazione: Qualsiasi progressione aritmetica $a_1,\ldots,a_n$ con termini $n$ per i quali $a_1+2a_2+\cdots+na_n$ è razionale contiene almeno un termine razionale.
+> Trovare tutti gli interi $n\ge 3$ per cui è vera l'affermazione seguente: ogni progressione aritmetica $a_1,\ldots,a_n$ di $n$ termini, per cui $a_1+2a_2+\cdots+na_n$ è razionale, contiene almeno un termine razionale.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2001_r2#q04|src_pol_2001_r2__Q04]]
 
 
 
@@ -132,9 +160,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel triangolo ABC con incentro I e D=AI∩BC, mostrare AI+CD=AC se angolo B = 60 + angolo C.*
+*Incentro I, D intersezione di AI con BC: AI + CD = AC se e solo se l'angolo in B è 60 gradi più metà dell'angolo in C*
 
-> In un triangolo $ABC$, $I$ è il centro e $D$ il punto di intersezione di $AI$ e $BC$. Indicare che $AI+CD=AC$ se e solo se $\angle B=60^\circ+\frac{1}{2}\angle C$.
+> In un triangolo $ABC$, $I$ è l'incentro e $D$ il punto di intersezione di $AI$ e $BC$. Dimostrare che $AI+CD=AC$ se e solo se $\angle B=60^\circ+\frac{1}{2}\angle C$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2001_r2#q05|src_pol_2001_r2__Q05]]
 
 
 
@@ -157,6 +191,12 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolazione \A_n_di_di_di_di, la differenza tra i conti di sottoinsiemi di elementi di {1,...,2n} con somme di elementi pari e odd.*
+*Sottoinsiemi di n elementi di 1, ..., 2n con somma pari o dispari: differenza delle cardinalità*
 
-> Per un intero positivo $n$, $A_n$ e $B_n$ siano le famiglie dei sottoinsiemi di $n$-elementi di $S_n=\{1,2,\ldots,2n\}$ con rispettivamente somme pari e odd di elementi. Calcolare $|A_n|-|B_n|$.
+> Per un intero positivo $n$, siano $A_n$ e $B_n$ le famiglie dei sottoinsiemi di $n$ elementi di $S_n=\{1,2,\ldots,2n\}$ con somma degli elementi rispettivamente pari e dispari. Calcolare $|A_n|-|B_n|$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2001_r2#q06|src_pol_2001_r2__Q06]]

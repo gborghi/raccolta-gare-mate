@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following information shall be provided:
+*What is the average weight of the objects in S?*
 
-> I have at my disposal a large number of items of each of the following weights: 1, 2, 3, 4 and 5 kilos. With these I have composed a set containing objects of at least three different weights: the average weight of objects of $S$ is an integer number of kilograms. However, the average weight of $S$ objects would remain an integer number of kilograms if I replaced each object of $S$ weighing 2, 3 or 4 kilograms, respectively, with an object weighing 1, 2 or 3 kilograms, without making any further substitutions. What is the average weight of the objects of $S$?
+> I have a large quantity of objects of each of the following weights: 1, 2, 3, 4 and 5 kilograms. With these I made up a set $S$ containing objects of at least three different weights: the average weight of the objects in $S$ is a whole number of kilograms. The average weight of the objects in $S$ would still be a whole number of kilograms if I replaced every object in $S$ that weighs 2, 3 or 4 kilograms with an object that weighs 1, 2 or 3 kilograms respectively, without making any further replacements. What is the average weight of the objects in $S$?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 3
+[[Quesiti/src_kangourou_2023_junior_finale#qj1|src_kangourou_2023_junior_finale__QJ1]]
 
 
 
@@ -56,11 +60,15 @@ The following information shall be provided:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*fair game or not*
+*Is it a fair game, or is it advantageous for one of the two? In this second case, if it arises, for whom?*
 
-> Andrea and Giulio play dice as follows. Together they roll six dice (traditional, fair): if a 3 comes up on at least one die, Andrea earns one euro from Giulio; otherwise, Giulio earns two euros from Andrea. Is it a fair game or is it advantageous for one of the two? In this second possible case, for whom?
+> Andrea and Giulio play dice as follows. Together they roll six dice (traditional, fair): if a 3 comes up on at least one die, Andrea wins one euro from Giulio; otherwise, Giulio wins two euros from Andrea. Is it a fair game, or is it advantageous for one of the two? In this second case, if it arises, for whom?
 
-**Answer:** Giulio is favored
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Answer:** Giulio favorito
+[[Quesiti/src_kangourou_2023_junior_finale#qj2|src_kangourou_2023_junior_finale__QJ2]]
 
 
 
@@ -86,13 +94,18 @@ The following information shall be provided:
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the maximum amount of lying.
+*How many inhabitants who always lie can there be, at most?*
 
 ![[src_kangourou_2023_junior_finale__probj3.png]]
 
-> One island is divided into 15 regions as shown in the figure. In every region there is one and only one inhabitant who either always tells the truth or always lies. Each resident says, "There is at least one person among my neighbours who always lies". What is the maximum possible number of inhabitants who always lie? (Two inhabitants are neighbours when their regions share a segment of their edge, not necessarily an entire side of either one.) (see figure)
+> An island is divided into 15 regions as indicated in the picture. In each region there lives one and only one inhabitant, who either always tells the truth or always lies. Each inhabitant states: "Among my neighbours there is at least one person who always lies." How many inhabitants who always lie can there be, at most? (Two inhabitants are regarded as neighbours when their regions share a segment of their border, not necessarily a whole side of one of the two.) (see the picture)
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 6
+[[Quesiti/src_kangourou_2023_junior_finale#qj3|src_kangourou_2023_junior_finale__QJ3]]
 
 
 
@@ -126,22 +139,17 @@ This is the maximum amount of lying.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*trajectory length of P*
+*Give a qualitative drawing of the path of the point P that can make clear how it was determined, and calculate its length.*
 
 ![[src_kangourou_2023_junior_finale__probj4.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw (0,0) node[below left] {$A$} -- (3,0) node[below right] {$B$} -- (3,3) node[above right] {$C$} -- (0,3) node[above left] {$D$} -- cycle;
-  \fill (1.5,0) circle (2pt) node[below] {$P$};
-\end{tikzpicture}
-\end{document}
-```
+> Look at the picture. The segment $AK$ is 5 long, the side of the square $ABCD$ is 1 long and the point $P$ is the midpoint of the side $AB$. We rotate the square with pivot at the vertex $B$ until the vertex $C$ comes to fall (for the first time) on the segment $AK$; starting from this position of the square, we now carry out the same operation with pivot at $C$, and so on, until the side $AB$ comes to lie again (for the first time after the first rotation) in the segment $AK$. Give a qualitative drawing of the path of the point $P$ that can make clear how it was determined, and calculate its length. (see the picture)
 
-> Look at the figure. The $AK$ segment is length 5, the side of the square $ABCD$ is length 1 and the point $P$ is the midpoint of the side $AB$. Let's rotate the square with a pivot at the $B$ vertex until the $C$ vertex falls (for the first time) on the $AK$ segment; starting from this position of the square, we now perform the same operation with a pivot at $C$ and so on until the $AB$ side is contained again (for the first time after the first rotation) in the $AK$ segment. Provide a qualitative drawing of the trajectory of the point $P$ that can clarify how it was determined and calculate the length. (see figure)
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** (π/2)(1+√5)
+[[Quesiti/src_kangourou_2023_junior_finale#qj4|src_kangourou_2023_junior_finale__QJ4]]
 
 
 
@@ -164,11 +172,15 @@ This is the maximum amount of lying.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*two values of n*
+*Show that n can take only two values, and say which.*
 
-> $n$ shall be an integer with $0 \leq n < 40$ and $p$ a prime number greater than 5 such that $p^2 + n$ is divisible by 40. Show that $n$ can only take two values and specify which ones.
+> Let $n$ be an integer with $0 \leq n < 40$ and $p$ a prime greater than 5 such that $p^2 + n$ is divisible by 40. Show that $n$ can take only two values, and say which.
 
-**Answer:** n=39 or n=31
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Answer:** n=39 o n=31
+[[Quesiti/src_kangourou_2023_junior_finale#qj5|src_kangourou_2023_junior_finale__QJ5]]
 
 
 
@@ -191,8 +203,12 @@ This is the maximum amount of lying.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*pairs at maximum distance ≤ n*
+*Prove that, as n varies, the number of pairs of those points that realise the greatest possible distance is at most n, and can be n.*
 
-> There are $n$ distinct points in the plane ($n \geq 2$). Prove that, as $n$ varies, the number of pairs of such points that achieve the maximum possible distance is at most $n$ and can be $n$.
+> $n$ distinct points are given in the plane ($n \geq 2$). Prove that, as $n$ varies, the number of pairs of those points that realise the greatest possible distance is at most $n$ and can be $n$.
 
-**Answer:** at most n, it can be n
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Answer:** al più n, può essere n
+[[Quesiti/src_kangourou_2023_junior_finale#qj6|src_kangourou_2023_junior_finale__QJ6]]

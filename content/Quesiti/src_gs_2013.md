@@ -41,9 +41,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of letters of the winner from seven (one says the truth)*
+*Number of letters in the winner's name, from seven of them (one is telling the truth)*
 
-> Another song of ice and fire (points 20) The seven gods of the Andals meet to predict who will emerge victorious from the war between the five kings that is about to develop. At every meeting of the seven gods, exactly one of them says the truth, the other six say the lie. The first, the Father, says: He will defeat King Ceelvyer Lannister. The second, the Mother, says: He will defeat King Lewyj Stark. The third, the Fabbro, says: He will defeat King Beapys Baratheon. The fourth, the Old Woman, says: He will defeat King Ceelvyer Lannister. The fifth, the Virgin, says: He will defeat King Munry Baratheon. The sixth, the Warrior, says: He will defeat King Beapys Baratheon. The seventh, the Stranger, says: He will defeat King Munry Baratheon. None of the seven mentions the fifth King Unton Greyjoy. What is the total number of letters of the winner's name and surname?
+> Another Song of Ice and Fire
+> (points 20) The Seven Gods of the Andals meet to predict who will emerge victorious from the war among the Five Kings that is about to unfold. At each meeting of the Seven Gods, exactly one of them tells the truth, while the other six lie. The first, the Father, says: "King Ceelvyer Lannister will win." The second, the Mother, says: "King Lewyj Stark will win." The third, the Smith, says: "King Beapys Baratheon will win." The fourth, the Crone, says: "King Ceelvyer Lannister will win." The fifth, the Maiden, says: "King Munry Baratheon will win." The sixth, the Warrior, says: "King Beapys Baratheon will win." The seventh, the Stranger, says: "King Munry Baratheon will win." None of the Seven Gods mentions the fifth king, Unton Greyjoy. What is the total number of letters in the winner's first name and surname?
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2013#q01|src_gs_2013__Q01]]
 
 
 
@@ -74,9 +81,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum perimeter after two foldings at the end of a sheet*
+*Maximum perimeter after two folds down the middle of a sheet*
 
-> In his castle at Cape Storm, planning war against the other four kings, Munry Baratheon delights in folding leaves in half, that is, folding a four-sided sheet so as to split in half two opposite edges and making the other two match. He takes a sheet that is not a square; after folding it twice in half, he realizes that he has a square of 36 cm2. Munry realizes that that is the maximum area he could get by folding the initial sheet in half twice. So think about how to fold the starting sheet in half twice so you get the maximum perimeter possible. How long is that perimeter?
+> Origami at Capo Tempesta
+> (points 20) In his castle at Cape Tempest, while planning war against the other four kings, Munry Baratheon amuses himself by folding sheets in half—that is, he folds a sheet with four edges so that two opposite edges are halved and the other two edges meet. He takes a sheet that is not a square; after folding it in half twice, he realizes that he has obtained a square with an area of 36 cm². Munry realizes that this is the maximum area he could have obtained by folding the initial sheet in half twice. He then thinks about how to fold the initial sheet in half twice so as to obtain the greatest possible perimeter. How many cm long is that perimeter?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2013#q02|src_gs_2013__Q02]]
 
 
 
@@ -109,9 +123,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Q-p difference per fraction of five-digit codes*
+*q-p difference per fraction of five-digit codes*
 
-> Codes at the King's Courtyard (points 20) Access to the King's Courtyard's main gate is controlled by a five-digit code which changes daily. King Ceelvyer Lannister decided that, in order not to strain the brain too much on similar inecies, the code should always be composed using exactly two sequences of two different digits, e.g. 44333 and 07777, but not 43334 and not even 77707. The Hand of the King protests by saying that the p/q fraction obtained by dividing the total number of codes proposed by Ceelvyer Lannister by the number of all possible five-digit codes is minuscule and this will generate unnecessary risks to the security of the city. But Ceelvyer Lannister tells the Hand not to worry and, taking the fraction p/q with p and q prime between them, calculates the difference q −p and shows the Hand that it is not small. What number did Ceelvyer Lannister calculate?
+> Codes of the King's Arrival
+> (points 20) Access to the main gate of King's Landing is controlled by a five-digit code that changes every day. King Ceelvyer Lannister has decided that, so as not to strain his brain too much over trivialities like this, the code should always be formed using exactly two sequences of two different digits—for example, 44333 and 07777, but not 43334 or even
+> 77707. La Mano del Re protests, saying that the fraction p/q obtained by dividing the
+> The total number of codes proposed by Ceelvyer Lannister, relative to the number of all possible five-digit codes, is tiny, and this will create unnecessary risks to the city's security. But Ceelvyer Lannister tells the Hand not to worry and, having taken the fraction p/q where p and q are coprime, calculates the difference q − p and shows the Hand that it is not small. What number did Ceelvyer Lannister calculate?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2013#q03|src_gs_2013__Q03]]
 
 
 
@@ -140,9 +163,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the extended triangle extending the sides of a trapezoid*
+*Area of the triangle formed by extending the sides of a trapezoid*
 
-> The dragon track (points 20) The young dragons take off from a 165 m2 trapezoidal field. The main base measures 16 m, the height 15 m. Growing dragons need a wider flight field: the oblique sides of the trapezium are therefore extended until they meet to form a triangle (based on the larger base of the previous trapeziodal field). What is the area of the new extended flight range? Team competition 2013  Problem texts  Pag. 1 di 6
+> The Trail of the Dragons
+> (points 20) The young dragons take flight from a trapezoidal field with an area of 165 m². The longer base measures 16 m, and the height is 15 m. As they grow, the dragons need a larger flight field: the non-parallel sides of the trapezoid are therefore extended until they meet and form a triangle (whose base is the longer base of the previous trapezoidal field). What is the area of the new, extended flight field?
+> 2013 Team Competition – Problem Statements – Page 1 of 6
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2013#q04|src_gs_2013__Q04]]
 
 
 
@@ -174,9 +205,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lists of four letters with a topological value equal to PDOR*
+*Lists of four-letter strings with a topological value equal to PDOR*
 
-> Ceelvyer onomale (points 20) Ceelvyer, who is part of the very wealthy House of Lannister, evaluates personal names in a slightly unusual way. It classifies the 21 capital letters of the Italian alphabet according to their topological character: the number of holes in their printed writing. The letter B is 2, the letters ADOPQR are 1 each, all the others are 0. Then evaluate the value of a name as the sum of the values of the component letters. After careful analysis, she decided to name her fourth child PDOR after considering all the four-letter lists (even only consonants) and with the same value. How many four letter lists with the same PDOR value that Ceelvyer Lannister excluded?
+> Ceelvyer onomale
+> (points 20) Ceelvyer, who is part of the extremely wealthy House Lannister, evaluates personal proper names in a slightly unusual way. Indeed, they rank the 21 uppercase letters of the Italian alphabet according to a topological characteristic of the letters: the number of holes in their printed form. The letter B is worth 2, the letters ADOPQR are each worth 1, and all the others are worth 0. Thus, they evaluate the value of a name as the sum of the values of its constituent letters. After careful analysis, they decide to name their fourth child PDOR after considering all four-letter lists (including those made up solely of consonants) with that same value. How many four-letter lists with the same value as PDOR has Ceelvyer Lannister excluded?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2013#q05|src_gs_2013__Q05]]
 
 
 
@@ -206,9 +244,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*White surface of a coat of arms with parallel cross*
+*White field of a coat of arms featuring a cross composed of parallelograms*
 
-> Westeros heraldry (points 20) The heraldic coat of arms chosen by Brienne Tarth is hung on a wall: it is a green cross on a white background. The coat of arms is square. The two arms of the cross are parallelograms all contained in the square. Of each parallelogram, two sides lie on the two horizontal sides of the square and two of the four vertices coincide with two vertices diagonally opposite the square. Each side of the square coat of arms is 60 cm long. Each horizontal side of the two parallelograms is 15 cm long. What is the white area of the coat of arms in cm2?
+> Heraldry of Westeros
+> (Point 20) The heraldic coat of arms chosen by Brienne Tarth is hung on a wall: it is a green cross on a white background. The coat of arms is square in shape. The two arms of the cross are parallelograms, all of which lie within the square. In each parallelogram, two sides lie along the two horizontal sides of the square, and two of the four vertices coincide with two vertices of the square that are diagonally opposite. Each side of the square coat of arms is 60 cm long. Each horizontal side of the two parallelograms is 15 cm long. What is the area of the white part of the coat of arms in cm²?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2013#q06|src_gs_2013__Q06]]
 
 
 
@@ -238,9 +283,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of rows of numbers with a double value*
+*Sum of rows of numbers with a doubled value*
 
-> Calculations at the Barrier (points 30) To spend time at the Barrier, the Night's Watchers do very long calculations to keep their brains warm. For example, Sam writes numbers in sequence and sums the sequence. Today he writes lines of 21 numbers: in the first line he writes two 1, then 2, 3, etc. In the second line, he writes 1, then two 2, then 3, 4, etc. up to 20; in the third line, it says 1, 2, two 3, then 4, 5, etc. until 20; and then continue until you write a line with 1, 2, etc. until 19, ending with two 20. Finally, add up all the numbers written. What is the result?
+> Calculations at the Barrier
+> (30 points) To pass the time at the Barrier, the Night's Watch do extremely long calculations to keep their minds warmed up. For example, Sam writes numbers in sequence and adds up the resulting sequence. Today he writes rows of twenty-one numbers: in the first row he writes two 1s, then 2, 3, and so on up to 20; in the second row he writes 1, then two 2s, then 3, 4, and so on up to 20; in the third row he writes 1, 2, two 3s, then 4, 5, and so on up to 20; and he continues like this until he writes a row with 1, 2, and so on up to 19, ending with two 20s. Finally, he adds up all the numbers written. What result does he get?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2013#q07|src_gs_2013__Q07]]
 
 
 
@@ -268,9 +321,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of a beam dividing a trapezoid into two equivalents*
+*Length of a beam that divides a trapezoid into two equivalent parts*
 
-> Through the tunnel (points 30) The vertical section of the tunnel in the Black Castle Barrier has a trapezoidal shape with bases of 6.26 m and 76.82 m. In some points of the tunnel, to ensure stability, a support beam is mounted, parallel to the bases, which divides the vertical section of the tunnel into two equivalent trapezoids. How long is one of these support beams in cm?
+> Through the tunnel
+> (30 points) The vertical cross-section of the tunnel in the Barriera a Castello Nero has the shape of a trapezoid with bases measuring 6.26 m and 76.82 m. At certain points in the tunnel, to ensure stability, a support beam is installed parallel to the bases; this beam divides the vertical cross-section of the tunnel into two equivalent trapezoids. How long is one of these support beams, in cm?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2013#q08|src_gs_2013__Q08]]
 
 
 
@@ -302,9 +362,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times a_i is 0 with coefficients and powers of -1*
+*How many times does a_i equal 0 with quotients and powers of -1?*
 
-> Calculations at the Barrier, II (points 30) The 997th Commander of the Night's Watch uses functions to set calculations that warm his brain. For x and y positive integers, write qu(x, y) for the quotient of division of x by y, that is, that number q such that x −(q × y) is a number between 0 and y −1, extremes included (e.g., qu(13, 4) = 3). Today he calculates numbers according to the following formula: a = (−1) i + (−1) qu,2) + (−1) qu,3) + (−1) qu,4). By varying the from 1 to 2013, extremes included, how many times does the commander find that the value of a is 0? Team competition 2013  Problem texts  Pag. 2 di 6
+> Calculations at the Barrier, II
+> (30 points) The 997th commander of the Night's Watch uses functions to set up calculations that warm his brain. For positive integers x and y, he writes qu(x, y) for the quotient when x is divided by y—that is, the number q such that x − (q × y) is a number between 0 and y − 1, inclusive (for example, qu(13, 4) = 3). Today he calculates numbers according to the following formula: ai = (−1)i + (−1)qu(i,2) + (−1)qu(i,3) + (−1)qu(i,4). As i varies from 1 to 2013, inclusive, how many times does the commander find that the value of ai is 0?
+> 2013 Team Competition – Problem Statements – Page 2 of 6
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2013#q09|src_gs_2013__Q09]]
 
 
 
@@ -343,7 +411,14 @@ level: squadre
 
 *Value of f(49/2) for a rational additive function*
 
-> Calculations at the Barrier, III (points 30) Another function that the Night's Watch commander uses is a function f: Q −→Q rational rational variable such that f(x + y) = f(x) + f(y) for every x and y rational numbers. The commander knows that f  7 8 = 8 7 and calculates f  49 2 . What is the result?
+> Calculations at the Barrier, III
+> (30 points) Another of the functions used by the commander of the Night's Watch is a rational function f: Q → Q of a rational variable such that f(x + y) = f(x) + f(y) for all rational numbers x and y. The commander knows that f(7/8) = 8/7 and calculates f(49/2). What result does he find?
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2013#q10|src_gs_2013__Q10]]
 
 
 
@@ -388,9 +463,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in box 5 from true/false speaking boxes*
+*Number in box 5 from true/false talking boxes*
 
-> In a quarry on a narrow sea island, there are 5 talking boxes of different materials. Each box contains a natural number and says only the true or only the false. Box 1 is made of iron and gives two information: • the number inside me is the ratio of the number in box 5 and the number in box 2 • a third of the number inside box 3 is the product of all prime numbers less than 15 except one (of these prime numbers)  Box 2 is made of pine wood and gives two information: • at least one metal box is false  • the number in box 1 is less than 200 Box 3 is copper and gives two information: • the number inside me is the difference between the number in box 5 and the number in box 2 • the number in box 1 is prime  Box 4 is made of walnut wood and gives two information: • The number in box 5 is false  The number in box 5 is false  The number in the box 5         The number in the box 5 is false
+> The Cave of the Strait
+> (points 40) In a quarry on an island in the Strait Sea, there are 5 talking boxes made of different materials. Each box contains a natural number and either always tells the truth or always lies. Box 1 is made of iron and gives two pieces of information: • "The number inside me is the quotient of the number in box 5 and the number in box 2." • "One third of the number inside box 3 is the product of all prime numbers less than 15 except one (of these prime numbers)." Box 2 is made of pine wood and gives two pieces of information: • "At least one metal box lies." • "The number in box 1 is less than 200." Box 3 is made of copper and gives two pieces of information: • "The number inside me is the difference between the number in box 5 and the number in box 2." • "The number inside box 1 is prime." Box 4 is made of walnut wood and gives two pieces of information: • "Box 5 lies." • "The number in box 3 is divisible by 11." Box 5 is made of lead and says: • "The number in box 1 is less than 220." • "All wooden boxes lie." What number is in box 5?
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2013#q11|src_gs_2013__Q11]]
 
 
 
@@ -419,9 +502,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Date where the area of a rectangular triangle exceeds 1500*
+*Dates on which the area of a right-angled triangle exceeds 1500*
 
-> Magic at Dragon's Rock (points 40) At Dragon's Rock, where the days of the months are numbered from 3 to 33, King Beapys Baratheon has a magical triangle that changes shape and size depending on the day of the month, but it is always rectangular and the lengths of its sides are whole numbers. If the number of days is not prime, the triangle remains unchanged, whereas if the number of days is prime, the minor triangle has a length equal to the number of days. On what date, every month, does its area become greater than 1,500 for the first time? Team competition 2013  Problem texts  Pag. 3 di 6
+> Magic at Dragon Rock
+> (points 40) In Dragon Rock, where the days of the months are numbered from 3 to 33, King Beapys Baratheon has a magic triangle that changes shape and size depending on the day of the month, but it is always a right-angled triangle and the lengths of its sides are whole numbers. If the day number is not prime, the triangle remains unchanged; if the day number is prime, the shorter leg has a length equal to the day number. On which date each month does its area first become greater than 1500?
+> 2013 Team Competition – Problem Statements – Page 3 of 6
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2013#q12|src_gs_2013__Q12]]
 
 
 
@@ -453,9 +543,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of original pages with torn sheet and date sum*
+*Number of original pages with one torn sheet and date sum*
 
-> Lewyj's rift (points 40) In his research, Lewyj Stark does not find the book of the descendants of the Houses of Westeros. In a very ambiguous way, Lord Varys tells him what he knows about the book: all the pages between the two covers are numbered in succession starting with number 1, the book has been torn out exactly one sheet, the sum of the numbers on the remaining pages is 65,000. Lewyj Stark says this information is useless. Lord Varys replies that he is wrong, for example, you can calculate how many pages the book originally had. What number does Lord Varys determine? [Each sheet has two pages, each numbered.]
+> Lewyj's tear
+> (points 40) In his investigations, Lewyj Stark does not find the book of the lineages of the Houses of Westeros. In a highly ambiguous manner, Lord Varys tells him what he knows about the book: all the pages between the two covers are numbered sequentially starting from number 1; exactly one sheet has been torn out of the book; the sum of the numbers on the remaining pages is 65,000. Lewyj Stark says that this information is of no use. Lord Varys replies that he is mistaken—for example, one can calculate how many pages the book originally had. What number does Lord Varys determine? [Each sheet has two pages, each numbered.]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2013#q13|src_gs_2013__Q13]]
 
 
 
@@ -487,9 +585,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Q-p difference in the 6-box game of the simple goose*
+*q-p difference in the simplified 6-square game of goose*
 
-> The Barrier game (points 40) A simplified Barrier game is played on a board with 6 boxes, numbered 0, 1, 2, respectively. . . , 5. He is a solitary player who plays by inserting the stall on the starting box, throwing a common 6-sided dice and moving the stall by as many steps as the dice indicate. Box 0 is the starting box, box 5 is the arrival box. In box 1 it says: va in box 5 and in box 4 it says: va in box 3; the game ends when you reach box 5. If box 5 is exceeded, continue to box 0. Today, watching one of his Guardians play, Commander Jeor Mormont calculated the probability that the game is not over after the sixth round and, at that point, the player's score is on box 2. If p/q is the probability calculated by the commander, with p and q primes between them, the number q −p is determined.
+> The Game of the Goose at Barriera
+> (Points 40) At Barriera, a “simplified game of the goose” is played on a board with 6 squares, numbered 0, 1, 2, ..., 5 respectively. It is a solitaire game played by placing the marker on the starting square, rolling a standard six-sided die, and moving the marker the number of steps indicated by the die. Square 0 is the starting square, and square 5 is the finishing square. On square 1 it says: “go to square 5,” and on square 4 it says: “go to square 3”; the game ends when one reaches the square
+> 5. If box 5 is passed, one continues by going back through box 0. Today, while observing one of his Watchers playing, Commander Jeor Mormont calculated the
+> The probability that the game has not yet ended after the sixth turn and that, at that point, the player's token is on square 2. If p/q is the probability calculated by the commander, with p and q coprime, determine the number q − p.
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2013#q14|src_gs_2013__Q14]]
 
 
 
@@ -517,9 +624,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last three digits of an iterated sub-multiplicate product*
+*Last three digits of an iterated subtract-multiply product*
 
-> Calculations at the Barrier, IV (points 50) As stated, to spend time at the Barrier, the Night's Watchers do very long calculations. Jon, starting with number 2013, subtracts 1 and multiplies the result by 1, then subtracts 2 to the product result and multiplies by 2 what he gets, and continues until he subtracts 2013 and multiplies by 2013. What are the last three digits of the number you get?
+> Calculations at the Barrier, IV
+> (50 points) As stated, to pass the time at the Wall, the Night's Watch perform very long calculations. Starting from the number 2013, Jon subtracts 1 and multiplies the result by 1; then he subtracts 2 from the result of the multiplication and multiplies what he gets by 2, and he continues until he subtracts 2013 and multiplies by 2013. What are the last three digits of the number he obtains?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2013#q15|src_gs_2013__Q15]]
 
 
 
@@ -545,9 +659,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum product p ×q of prime with three conditions of prime*
+*Minimum value of p*q for primes under three primality conditions*
 
-> Calculations at the Barrier, V (points 50) Near the Barrier, it's cold and nothing happens. To warm up, the Night's Watchers complicate the calculations. For example, Edd lAddolorato writes all possible pairs (p, q) of prime numbers (then greater than 1) such that
+> Calculations at the Barrier, V
+> (50 points) Near the Barrier, it's cold and nothing happens. To warm themselves up, the Night's Watch complicate the calculations. For example, Edd the Sorrowful writes down all possible pairs (p, q) of prime numbers (hence greater than 1) such that
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2013#q16|src_gs_2013__Q16]]
 
 
 
@@ -570,9 +691,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between two cylindrical propeller routes*
+*Difference between two cylindrical helical paths*
 
-> 17. Instead of facing each other in battle, Kings Munry Baratheon and Unton Greyjoy decide to determine who is the bravest by challenging themselves to spin on the spiral that simulates the flight of dragons. They are each mounted on a vessel which is fixed to a rigid mechanical arm which connects the vessel to the central vertical pole of the propeller and which, while remaining parallel to the ground, is lifted as it rotates around the central pole to lock itself instantly when it reaches a height of 45 m. The arms rise vertically at a constant speed of 0.5 m/ sec and rotate around the pole at a constant angular speed of $20^{◦}$/ sec. The arm supporting the Munry Baratheon ship rotates on a 12 m long circumference, the arm which
+> 17. The Challenge of the Spiral Flyer (50 points) Instead of fighting each other, Kings Munry Baratheon and Unton Greyjoy decide to determine who is the braver by challenging each other to spin on the Spiral Flyer, which simulates dragon flight. Each of them boards a pod that is attached to a rigid mechanical arm connecting the pod to the central vertical post of the Spiral Flyer; while remaining parallel to the ground, the arm rises as it rotates around the central post and comes to an instantaneous stop when it reaches a height of 45 m. The arms rise vertically at a constant speed of 0.5 m/s and rotate around the post at a constant angular speed of $20^{◦}$/s. The arm supporting Munry Baratheon's pod rotates along a circumference 12 m long; the arm that
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2013#q17|src_gs_2013__Q17]]
 
 
 
@@ -594,9 +722,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of dice in a rectangle with face sum rule 6*
+*Maximum number of dice in a rectangle, with the rule that the faces sum to 6*
 
-> 18. Bran Stark plays with the usual six-sided dice, lots of them. Place them next to each other on the table (without stacking them or leaving any space), so that they form rectangles of various sizes. It follows a precise rule: the numbers on the faces with which two dice are joined must be summed to 6. In each dice, the sum of the faces is
+> 18. Bran's Dice (point 50) Bran Stark plays with a great many ordinary six-sided dice. He places them side by side on the table (without stacking them or leaving gaps) so as to form rectangles of various sizes. He adheres to a precise rule: the numbers on the faces by which two dice are placed side by side must add up to 6. On each die, the sum of the opposite faces is
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2013#q18|src_gs_2013__Q18]]
 
 
 
@@ -618,9 +752,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final distance after increasing jumps of 45 degrees (spiral)*
+*Final distance after increasing jumps at 45 degrees (spiral)*
 
-> 19. Drogon flights (50 points) Drogon dragon is trained in precise flights. Starting from its trespol, it makes a flight of 200 m to the east, from where it arrived a second flight to the north another 200 m. From the point where it has arrived, it exercises in precise jumps: a jump eastwards of 1 m, it turns from $45^{◦}$ in anti-hour direction, it points north-eastwards and makes a jump of 2 m, it turns from $45^{◦}$ in anti-hour direction, it points northwards and makes a jump of 3 m, it turns from $45^{◦}$ in anti-hour direction, it points north-westwards and makes a jump of 4 m, it turns 45 degrees in anti-hour direction, it points westwards and makes a jump of 5 m and so on, until the last jump that makes it is 400 m. How far from the starting point is he at the end of his jumps?
+> 19. Drogon's Flights (50 points) The dragon Drogon practices precise flights. Starting from his perch, he flies 200 m east; from where he has arrived, he makes a second flight north, also 200 m. From the point where he has arrived, he practices precise leaps: a leap 1 m east, he turns $45^{◦}$ counterclockwise—that is, he points northeast—and makes a leap of 2 m; he turns $45^{◦}$ counterclockwise—that is, he points north—and makes a leap of 3 m; he turns $45^{◦}$ counterclockwise—that is, he points northwest—and makes a leap of 4 m; he turns 45 degrees counterclockwise—that is, he points west—and makes a leap of 5 m, and so on, until his last leap is 400 m. How far from the starting point is he at the end of his leaps?
+
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2013#q19|src_gs_2013__Q19]]
 
 
 
@@ -644,7 +784,13 @@ level: squadre
 
 *Minimum number of offices in a building with logical constraints*
 
-> 20. Littlefinger Palace (points 60) The palace of Lord Petyr Baelish has 70 floors. Each floor has seven windows facing south. There is an office, an apartment or a waiting room for each of these. Distribution follows the following rules:
+> 20. Littlefinger's Palace (60 points) Lord Petyr Baelish's palace has 70 floors. Each floor has 7 windows facing south. Each of these windows corresponds to an office, an apartment, or a waiting room. The layout follows these rules:
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2013#q20|src_gs_2013__Q20]]
 
 
 
@@ -667,9 +813,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangles of 1m perimeter with vertices on a 10x10 grid*
+*Rectangles with a perimeter of 1 m and vertices on a 10x10 grid*
 
-> 21. The Lewyj Grid (points 60) The Grid at the window of the cell in which Lewyj Stark is locked is made up of twenty-two bars, eleven vertical, eleven horizontal, which form 100 squares all equal in 5 cm side. Lewyj Stark spends his time forming with a thin wire 1 m perimeter rectangles with vertices at crossroads between bars (and with all four sides of positive length). How many rectangles can it form?
+> 21. Lewyj's Grille (point 60) The grille on the window of the cell in which Lewyj Stark is confined consists of twenty-two bars—eleven vertical and eleven horizontal—forming 100 identical squares, each with a side length of 5 cm. Lewyj Stark spends his time forming rectangles with a perimeter of 1 m using a thin string, with the vertices at the intersections of the bars (and with all four sides having positive lengths). How many rectangles can he form?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2013#q21|src_gs_2013__Q21]]
 
 
 
@@ -691,9 +844,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance of the ship from the west lighthouse at equal angles*
+*Distance of the ship from the western lighthouse with equal angles*
 
-> 22. Defence of Bronn (points 70) On the battlefield Tyrion Lannister expects Beapys Baratheon's soldiers to attack rising up the River Acquanera. He placed three lighthouses, two on opposite shores east and west. Tyrion's on the tower eight kilometers from the lighthouse on the east coast and five kilometers from the other. You also know that the distance between the two lighthouses is 8.9 kilometers. The third lighthouse is placed on a buoy in the river exactly halfway along the line connecting the two lighthouses on the banks. The starship of Beapys Baratheon appears on the line of the three lighthouses and Tyrion notices that his angle of view between the lighthouse on the east shore and the starship coincides with his angle of view between the boa and the lighthouse on the west shore. Calculate, therefore, immediately the ratio of the distance of the ship seen from the lighthouse on the shore to
+> 22. Bronn's Defense (points 70) On the battlefield, Tyrion Lannister expects Beapys Baratheon's soldiers to attack by sailing up the Acquanera River. He has placed three beacons, two on the opposite banks, to the east and to the west. Tyrion is on the tower 8 km from the beacon on the eastern bank and 5 km from the other one. He also knows that the distance between the two beacons is 8.9 km. The third beacon is placed on a buoy in the river, exactly at the midpoint of the line connecting the two beacons on the banks. Beapys Baratheon's scout ship appears on the line of the three beacons, and Tyrion realizes that his angle of sight between the beacon on the eastern bank and the scout ship coincides with his angle of sight between the buoy and the beacon on the western bank. He therefore immediately calculates the ratio between the distance of the scout ship from the beacon on the bank and
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2013#q22|src_gs_2013__Q22]]
 
 
 
@@ -716,9 +875,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of convex polyester at the contact points of two rings*
+*Volume of the convex polyhedron over the points of contact of two rings*
 
-> 23. The new emblem of House Lannister is a pair of identical rings, formed by rotating a square around a straight plane with the square and parallel to its diagonal. The two rings are chained to each other (one goes through the hole of the other). An ancient legend tells that if the diagonal of the square used to obtain the rings is 30 cm long and the volume occupied by the pair of rings is as low as possible, a diamond is created at each point of contact between the two rings. The $cm^{3}$ volume of the smallest solid containing all pyramids with diamond vertices (i.e. the smallest convex polyhedron containing all diamonds) will indicate the number of years of Lannister House rule over Westeros. How many years will it last?
+> 23. The Ringed Rings (points 70) The new emblem of House Lannister is a pair of identical rings formed by rotating a square about a line coplanar with the square and parallel to its diagonal. The two rings are linked to each other (one passes through the hole of the other). An ancient legend tells that if the diagonal of the square used to obtain the rings is 30 cm long and if the volume occupied by the pair of rings is the minimum possible, then a diamond is created at each point of contact between the two rings. The volume in $cm^{3}$ of the smallest solid that contains all the pyramids with vertices on the diamonds (that is, the smallest convex polyhedron that contains all the diamonds) will indicate the number of years of House Lannister's rule over Westeros. How many years will it last?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2013#q23|src_gs_2013__Q23]]
 
 
 
@@ -740,6 +906,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of death in the 14th minute (ball in the groin)*
+*Probability of death at the fourteenth minute (ball in the grooves)*
 
-> 24. DEATH by CASE (points 70) DEATH controls the fate of characters with CASE. In front of DEATH there are two circular paths, one twice the length of the other. The two tracks are connected at a point where there is an exchange that allows passing from one trail to the other. A ball spins at a perfectly constant speed in the grooves (it takes a minute to complete the shortest groove). CASE, whenever the ball is about to pass to the point of contact, it says "yes" or "no" CASE, exactly. . . If he says yes, DEATH opens the link so that the ball passes into the other field. If he says no, he doesn't open the link and keeps the ball in the same fold. Every time the ball reaches halfway through the longest stretch, a character dies. At the start of the team competition, the ball passes to the midpoint.
+> 24. DEATH BY CHANCE (points 70) DEATH controls the fates of the characters by MEANS OF CHANCE. In front of DEATH there are two circular grooves, one twice as long as the other. The two grooves are connected at one point where there is a switch that allows passage from one groove to the other. A ball rolls at a perfectly constant speed in the grooves (it takes one minute to complete the shorter groove). CHANCE, each time the ball is about to pass through the connection point, says “yes” or “no”—at random, of course... If it says “yes,” DEATH opens the connection so that the ball passes into the other groove. If it says “no,” DEATH does not open the connection and keeps the ball in the same groove. Each time the ball reaches the midpoint of the longer groove, one character dies. At the start of the team competition, the ball passes over the midpoint
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2013#q24|src_gs_2013__Q24]]

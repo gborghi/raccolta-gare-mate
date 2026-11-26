@@ -32,13 +32,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of digits of expression with 123456789*
+*Write the sum of the digits of the result of the following expression.*
 
-> The expression  
-> Write the sum of the digits of the result of the following expression:  
-> (123,456,789)2 – 123,455,789 × 123,456,789.
+> The expression
+>
+> Write the sum of the digits of the result of the following expression:
+>
+> (123.456.789)2 – 123.455.789 × 123.456.789.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0045
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q01|src_kangourou_2022_kangourou_squadre_f2__Q01]]
 
 
 
@@ -68,13 +75,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Vertical side of rectangle with 8 discs*
+*How many centimetres long is each vertical side?*
 
 ![[src_kangourou_2022_kangourou_squadre_f2__prob2.png]]
 
-> The vertical side of a rectangle houses eight circular disks all of the same radius. Some discs are tangent to each other and/or tangent to the sides of the rectangle as shown in the figure. The upper side of the rectangle is 30√3 1 cm long. How many centimeters is each vertical side?
+> The vertical side
+>
+> A rectangle holds eight circular discs, all of the same radius. Some discs are tangent to one another and/or tangent to the sides of the rectangle, as the picture indicates. The upper side of the rectangle is 30√3  1 cm long. How many centimetres long is each vertical side?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0020
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q02|src_kangourou_2022_kangourou_squadre_f2__Q02]]
 
 
 
@@ -101,11 +115,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum matches for the strongest by 2022*
+*What is the least number of matches that lets one do so?*
 
-> The strongest Among 2022 tennis players whose skills are not known a priori, one wants to identify the strongest by playing only single matches. What's the minimum number of meetings that allows you to do that? (It is assumed that, in every single encounter, the strongest always wins and that, if A is stronger than B and B is stronger than C, then A is stronger than C.)
+> The strongest
+>
+> Among 2022 tennis players about whose ability nothing is known in advance, one wants to identify the strongest by playing only singles matches. What is the least number of matches that lets one do so? (Assume that, in every singles match, the stronger player always wins, and that if A is stronger than B and B is stronger than C, then A is stronger than C.)
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 2021
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q03|src_kangourou_2022_kangourou_squadre_f2__Q03]]
 
 
 
@@ -131,11 +151,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number with data residues for 3.7*
+*What is the smallest positive integer that leaves remainder 1 on division by 3, remainder 2 on division by 4, remainder 3 on division by 5, remainder 4 on division by 6 and remainder 5 on division by 7?*
 
-> What's the smallest positive integer that divided by 3 gives remainder 1, divided by 4 gives remainder 2, divided by 5 gives remainder 3, divided by 6 gives remainder 4 and divided by 7 gives remainder 5?
+> The remainders
+>
+> What is the smallest positive integer that leaves remainder 1 on division by 3, remainder 2 on division by 4, remainder 3 on division by 5, remainder 4 on division by 6 and remainder 5 on division by 7?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0418
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q04|src_kangourou_2022_kangourou_squadre_f2__Q04]]
 
 
 
@@ -166,11 +193,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes before the flight*
+*How many minutes early did the plane arrive?*
 
-> Knowing that the plane carrying a life-saving medicine will land at a certain time, a medical car leaves the hospital to reach the airport at exactly that time. The plane arrives early: then a person starts from the airport with the medicine and goes to meet the medical car; after travelling 45 minutes, he delivers the medicine to the medical car which manages to deliver the medicine to the hospital 20 minutes earlier than originally planned. How many minutes in advance did the plane arrive? (Consider the speed of the car constantly and negligible times for the handovers of the medicine.)
+> The plane
+>
+> Knowing that the plane carrying a life-saving medicine will land at a certain time, a medical car sets off from the hospital so as to reach the airport exactly at that time. The plane arrives early: so an official sets off from the airport with the medicine and goes to meet the medical car; after travelling for 45 minutes, he hands the medicine to the medical car, which manages to deliver the medicine to the hospital 20 minutes earlier than was initially planned. How many minutes early did the plane arrive? (Take the speed of the car as constant, and the times for handing over the medicine as negligible.)
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0055
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q05|src_kangourou_2022_kangourou_squadre_f2__Q05]]
 
 
 
@@ -195,11 +229,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number A,B with [3(2022+A)]^2 given*
+*Write the number 00AB.*
 
-> Two digits The two digits A and B are such that [3(2022 + A)]2 = 36.94B.084. Write down the number 00AB.
+> Two digits
+>
+> The two digits A and B are such that [3(2022 + A)]2 = 36.94B.084. Write the number 00AB.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0042
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q06|src_kangourou_2022_kangourou_squadre_f2__Q06]]
 
 
 
@@ -228,16 +269,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parallelepiped volume given OE and 60° angle*
+*How many cubic centimetres is the volume of the parallelepiped?*
 
-> The volume  
-> A rectangular parallelepiped has a square base ABCD; the lateral face ABB’A’ has shorter side AB and 
-> the acute angle formed by its diagonals measures 60 degrees. Let O be the intersection point of these 
-> diagonals and E the foot of the perpendicular drawn from vertex A to the diagonal BA’, the segment 
-> OE measures 4√3 cm. How many cubic centimeters is the volume of the parallelepiped? 
-> 2
+> The volume
+>
+> A rectangular parallelepiped has a square base ABCD; the lateral face ABB'A' has shorter side AB, and the acute angle formed by its diagonals measures 60 degrees. Let O be the intersection point of those diagonals and E the foot of the perpendicular drawn from the vertex A to the diagonal BA'; the segment OE measures 4√3 cm. How many cubic centimetres is the volume of the parallelepiped?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 4608
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q07|src_kangourou_2022_kangourou_squadre_f2__Q07]]
 
 
 
@@ -267,11 +310,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum candidates for two with the same score*
+*How many candidates must there be, at least, to be sure that there are at least two candidates who obtain the same score?*
 
-> Candidates A test consists of 10 questions numbered 1 to 10. A candidate receives a positive or negative score that matches the order number of the question, depending on whether he or she answers correctly or incorrectly, respectively. (For example, by correctly answering question n. 5 you earn 5 points, while you lose 5 if you give a wrong answer or no answer.) To be sure that there are at least two candidates scoring the same score, how many candidates must be at least?
+> The candidates
+>
+> A test has 10 questions numbered from 1 to 10. A candidate gains, positively or negatively, the score equal to the number of the question according as the answer is, respectively, correct or wrong; an answer not given counts as a wrong answer. (For example, answering question no. 5 correctly one gains 5 points, while one loses 5 if one gives a wrong answer or does not answer.) To be sure that there are at least two candidates who obtain the same score, how many candidates must there be, at least?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0057
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q08|src_kangourou_2022_kangourou_squadre_f2__Q08]]
 
 
 
@@ -300,13 +350,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of GH in the region at L*
+*What is the length of the segment GH in metres?*
 
 ![[src_kangourou_2022_kangourou_squadre_f2__prob9.png]]
 
-> The ELLE In the figure you can see the diagram of an L-shaped region (with two parallel sides and straight convex inner angles): the segments AB, BC, CD and FA are 96, 72, 36 and 24 metres long respectively. What is the measurement in meters of the GH segment?
+> The L
+>
+> In the picture you see the plan of an L-shaped region (with two triples of parallel sides and right convex interior angles): the segments AB, BC, CD and FA are respectively 96, 72, 36 and 24 metres long. What is the length of the segment GH in metres?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0035
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q09|src_kangourou_2022_kangourou_squadre_f2__Q09]]
 
 
 
@@ -332,11 +388,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of 4 digits for 17 perfect squares*
+*What is the largest four-digit number that, multiplied by 17, gives a perfect square as the result?*
 
-> Perfect square What is the largest four-digit number that, multiplied by 17, results in a perfect square?
+> Perfect square
+>
+> What is the largest four-digit number that, multiplied by 17, gives a perfect square as the result?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 9792
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q10|src_kangourou_2022_kangourou_squadre_f2__Q10]]
 
 
 
@@ -363,14 +426,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n with adjacent sums perfect squares*
+*What is the smallest of the values of n for which this happens?*
 
-> Paired squares
-> For some values of n, but not for all, the set {1, 2, … , n} of the first n positive integers can be
-> ordered so that the sum of two integers that, in this new order, end up adjacent
-> is always a perfect square. What is the smallest among the values of n for which this happens?
+> Squares in pairs
+>
+> For some values of n, but not for all, the set {1, 2, … , n} of the first n positive integers can be ordered so that the sum of two integers that, in this new order, come to be adjacent is always a perfect square. What is the smallest of the values of n for which this happens?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0015
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q11|src_kangourou_2022_kangourou_squadre_f2__Q11]]
 
 
 
@@ -397,11 +464,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of special numbers 1..100 integer mean*
+*What is the sum of the special numbers?*
 
-> The average of the others Consider all integers from 1 to 100, 1 and 100 inclusive. Let's say that one of these integers is special if, by eliminating that number and no other, the mean of the remaining ones is an integer. What is the sum of the special numbers?
+> The mean of the others
+>
+> Consider all the integers from 1 to 100, 1 and 100 included. We say that one of these integers is special if, on eliminating that number and no other, the mean of the remaining ones is an integer. What is the sum of the special numbers?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0101
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q12|src_kangourou_2022_kangourou_squadre_f2__Q12]]
 
 
 
@@ -433,13 +507,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square side with four quadrilateral areas*
+*How many metres long is the side of the square?*
 
 ![[src_kangourou_2022_kangourou_squadre_f2__prob13.png]]
 
-> The side See the figure: the middle points of the sides of a square have been joined to the same point inside the square. Each number in one of the four quadrilaterals in which the square is divided represents the measurement in square metres of the area of that quadrilateral. How long is the side of the square? Answer 0000 if you think there's more than one possible correct answer.
+> The side
+>
+> Look at the picture: the midpoints of the sides of a square have been joined to one and the same point inside the square. Each number present in one of the four quadrilaterals into which the square is divided stands for the area in square metres of that quadrilateral. How many metres long is the side of the square? Answer 0000 if you think there is more than one possible correct answer.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0148
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q13|src_kangourou_2022_kangourou_squadre_f2__Q13]]
 
 
 
@@ -470,13 +551,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2022 number box in the grid*
+*In which cell is the number 2022 entered?*
 
 ![[src_kangourou_2022_kangourou_squadre_f2__prob14.png]]
 
-> The number 2022 The positive integers are inserted, one per cell, in an unlimited imaginary grid to the right and down, according to the diagram illustrated in the figure. In which cell is the number 2022 entered? (Write the row and column that determine the cell in the order, for example if they were the eighth row and the twentieth column you should write 0820.)
+> The number 2022
+>
+> The positive integers are entered, one per cell, in an imaginary grid unlimited to the right and downwards, according to the pattern shown by the picture. In which cell is the number 2022 entered? (Write in order the row and the column that determine the cell; for example, if they were the eighth row and the twentieth column you should write 0820.)
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0659
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q14|src_kangourou_2022_kangourou_squadre_f2__Q14]]
 
 
 
@@ -552,29 +639,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Less than 5 consecutive, one for 10, sum of 10000*
+*What is the smallest of the five initial numbers?*
 
-> The smallest number. I wrote 5 consecutive natural numbers, then I multiplied one by 10 and then, modified, I added it to the other 4, and I got 10,000. What is the smallest of the first five numbers?
->  
-> 3.626 4.662 6.290 A D F G H and C B No column No row
->  
-> 1 2 3 4 5 … 1 1 2 6 7 … 2 3 5 8 …
->  
->  
-> 3 4 9 …
->  
->  
->  
-> 4 10 …
->  
->  
->  
->  
-> 5 … …
-> 
-> 3
->  
->  
-> Questions and solutions
+> The smallest number
+>
+> I wrote 5 consecutive natural numbers, then multiplied one of them by 10 and, thus modified, added it to the other 4, obtaining 10.000 as the sum. What is the smallest of the five initial numbers?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0711
+[[Quesiti/src_kangourou_2022_kangourou_squadre_f2#q15|src_kangourou_2022_kangourou_squadre_f2__Q15]]

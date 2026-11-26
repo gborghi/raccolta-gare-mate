@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pages does the holiday book have (4 types)*
+*How many pages does the holiday book have (4 types)?*
 
-> On every page of a holiday book (including cover ones) there is a game or a drawing or a story or a problem. First come all the games, then all the drawings, then all the stories, and finally the problems: the number of games is equal to that of the drawings that is equal to that of the stories that is equal to that of the problems. On August 30, Luke read the story on page 48 and solved the problem on page 49. How many pages does the book have?
+> On every page of a holiday book (including the cover pages), there is a game or a drawing or a story or a problem. First come all the games, then all the drawings, then all the stories, and finally the problems: the number of games equals the number of drawings, which equals the number of stories, which equals the number of problems. On August 30, Luca read the story on page 48 and worked on the problem on page 49. How many pages does the book have?
 
-**Answer:** 64
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_ecolier_finale#qe1|src_kangourou_2017_ecolier_finale__QE1]]
 
 
 
@@ -57,11 +61,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squares enclosed in the square, 35 colored*
+*Small squares enclosed within a square, 35 colored*
 
-> On a sheet of grid paper, Anna drew a square whose sides lie on some of the lines that form the grid; then she colored the squares that have two vertices on at least one of the two diagonals of the square. If she colored 35 squares, how many squares are enclosed in the square?
+> On a grid paper, Anna drew a square whose sides lie on some of the lines that make up the grid. Then she colored the squares that have two vertices on at least one of the square's two diagonals. If she colored 35 squares, how many squares are contained within the square?
 
-**Answer:** impossible
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_ecolier_finale#qe2|src_kangourou_2017_ecolier_finale__QE2]]
 
 
 
@@ -84,11 +93,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Anni makes the sum of his children equal to that of his father*
+*Years ago, the sum of the age and the children's ages was equal to the father's age*
 
-> A 68-year-old father has two children, ages 37 and 42. How many years ago was the sum of the ages of the two sons equal to the age of the father?
+> A 68-year-old father has two children aged 37 and 42. How many years ago was the sum of the children's ages equal to the father's age?
 
-**Answer:** 11 years ago
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_ecolier_finale#qe3|src_kangourou_2017_ecolier_finale__QE3]]
 
 
 
@@ -111,11 +124,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-It is better to choose 9 or 10 in the dice game.
+*It's advisable to choose 9 or 10 in the dice game*
 
-> A friend invites you to play dice like this. You and he repeatedly throw identical fair dice, with the faces numbered, as usual, from 1 to 6, and calculate the sum of the points. If the sum is 9, one of you wins, if the sum is 10, the other one wins; if the sum is different from 9 and the sum is different from 10, neither of you wins. He lets you choose between 9 and 10, the sum that makes you win, keeping that for himself of the two you didn't. Which one is best for you, and why?
+> A friend invites you to play dice in the following way. You and he roll identical, fair dice—numbered on their faces, as usual, from 1 to 6—several times, and you calculate the sum of the points obtained. If the sum is 9, one of you two wins; if the sum is 10, the other wins; if the sum is neither 9 nor 10, neither of you wins. He lets you choose, from 9 and 10, the sum that will make you win, keeping for himself the one of the two that you did not choose. Which one should you choose, and why?
 
-**Answer:** 9
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_finale#qe4|src_kangourou_2017_ecolier_finale__QE4]]
 
 
 
@@ -139,11 +156,16 @@ It is better to choose 9 or 10 in the dice game.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Best friends with different-tasting candy bars
+*Best friends with sets of three candies in different flavors*
 
-> Lucilla has several candies: 6 mint, 7 lemon, 8 orange, and 11 strawberry. She wants to give 3 to each of some of her friends; but each friend asks to have candies all of different tastes from each other. Considering the wishes of friends, how many friends can she please, at most? To motivate your answer, you must indicate how Lucilla can distribute the candies to the various friends she can satisfy.
+> Lucilla has several candies: 6 mint, 7 lemon, 8 orange, and 11 strawberry. She wants to give 3 candies to each of some of her friends; but each friend asks to receive candies all of different flavors from one another. Taking the friends' wishes into account, at most how many friends can she satisfy? To justify your answer, you must explain how Lucilla can distribute the candies among the various friends she can satisfy.
 
-**Answer:** 10
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_finale#qe5|src_kangourou_2017_ecolier_finale__QE5]]
 
 
 
@@ -168,6 +190,10 @@ Best friends with different-tasting candy bars
 
 *Minutes for the minute hand to overtake the hour hand*
 
-> The hands of the church clock move continuously, therefore not in ticks. I am looking at them: they show just past 9. How many whole minutes will have passed when, for the first time, the minute hand overtakes the hour hand?
+> The hands of the church clock move continuously, not in jerks. I'm watching them: they show nine o'clock sharp. How many whole minutes will have passed when, for the first time, the minute hand overtakes the hour hand?
 
-**Answer:** 49
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_ecolier_finale#qe6|src_kangourou_2017_ecolier_finale__QE6]]

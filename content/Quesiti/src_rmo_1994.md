@@ -29,9 +29,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei numeri di pagina su una foglia strappata di un libro*
+*Da un romanzo tascabile si strappa un foglio; la somma dei numeri delle pagine rimaste è 15000. Quali pagine mancano*
 
-> Una foglia è strappata da un romanzo di carta. La somma dei numeri sulle pagine restanti è di 15000. Trova i numeri delle pagine sulla foglia strappata.
+> Da un romanzo tascabile si strappa un foglio. La somma dei numeri delle pagine rimaste è 15000. Trovare i numeri delle pagine del foglio strappato.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_1994#q01|src_rmo_1994__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'incircolo del triangolo tocca i lati; trovare i lati dati la simultanea*
+*Circonferenza inscritta di raggio 4, e tre segmenti di tangenza che sono interi consecutivi: i lati del triangolo*
 
-> Nel triangolo $ABC$, l'incircolo tocca i lati $BC$, $CA$ e $AB$ rispettivamente a $D$, $E$ e $F$. Se il raggio dell'incircolo è di 4 unità e se $BD$, $CE$ e $AF$ sono numeri interi consecutivi, trovare i lati del triangolo $ABC$.
+> Nel triangolo $ABC$ la circonferenza inscritta tocca i lati $BC$, $CA$ e $AB$ rispettivamente in $D$, $E$ e $F$. Se il raggio della circonferenza inscritta è 4 e $BD$, $CE$ e $AF$ sono interi consecutivi, trovare i lati del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1994#q02|src_rmo_1994__Q02]]
 
 
 
@@ -79,9 +91,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*numeri a 6 cifre con cifre 16 ciascuna una volta, divisibili per k per 1 a 6*
+*Numeri di sei cifre che usano 1, 2, 3, 4, 5, 6 una volta ciascuno, e ogni prefisso di k cifre è divisibile per k*
 
-> Trova tutti i numeri naturali a 6 cifre $a_1 a_2 a_3 a_4 a_5 a_6$ formati utilizzando i numeri $1, 2, 3, 4, 5, 6$ una volta che ciascuno sia tale che il numero $a_1 a_2 \cdots a_k$ sia divisibile da $k$, per $1 \le k \le 6$.
+> Trovare tutti i numeri naturali di 6 cifre $a_1 a_2 a_3 a_4 a_5 a_6$ formati usando le cifre $1, 2, 3, 4, 5, 6$ una volta ciascuna, tali che il numero $a_1 a_2 \cdots a_k$ sia divisibile per $k$, per $1 \le k \le 6$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_rmo_1994#q03|src_rmo_1994__Q03]]
 
 
 
@@ -106,9 +124,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi un sistema di equazioni in x e y reali*
+*Sistema di due equazioni reali in x e y, con x² + y² a denominatore*
 
-> Risolvere il sistema di equazioni per $x$ e $y$ reali: $$5x\!\left(1 + \frac{1}{x^2 + y^2}\right) = 12$$ $$5y\!\left(1 - \frac{1}{x^2 + y^2}\right) = 4.$$
+> Risolvere il sistema di equazioni nei reali $x$ e $y$:
+>
+> $$5x\!\left(1 + \frac{1}{x^2 + y^2}\right) = 12$$
+>
+> $$5y\!\left(1 - \frac{1}{x^2 + y^2}\right) = 4.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_rmo_1994#q04|src_rmo_1994__Q04]]
 
 
 
@@ -131,9 +159,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme di 16 integri positivi con prodotto in coppia non superiore al 1994*
+*16 interi positivi, prodotto di due distinti al più 1994: due di essi non sono primi fra loro*
 
-> $A$ sia un insieme di 16 integri positivi con la proprietà che il prodotto di due numeri distinti di $A$ non supererà il 1994. Mostrare che ci sono due numeri $a$ e $b$ in $A$ che non sono relativamente primi.
+> Sia $A$ un insieme di 16 interi positivi con la proprietà che il prodotto di due numeri distinti qualsiasi di $A$ non supera 1994. Dimostrare che ci sono due numeri $a$ e $b$ in $A$ che non sono primi fra loro.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_rmo_1994#q05|src_rmo_1994__Q05]]
 
 
 
@@ -156,9 +190,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due accordi ad angolo retto; i punti medi formano un parallelo*
+*Due corde che si tagliano ad angolo retto, e i punti medi di altre due corde: un parallelogramma*
 
-> Che $AC$ e $BD$ siano due accordi di un cerchio con centro $O$ in modo tale che si intersecano a angolo retto all'interno del cerchio al punto $M$. Supponiamo che $K$ e $L$ siano rispettivamente i punti di mezzo dell'accordo $AB$ e $CD$. Prova che $OKML$ è un parallelo.
+> Siano $AC$ e $BD$ due corde di una circonferenza di centro $O$ che si intersecano ad angolo retto all'interno della circonferenza nel punto $M$. Si supponga che $K$ e $L$ siano i punti medi delle corde $AB$ e $CD$ rispettivamente. Dimostrare che $OKML$ è un parallelogramma.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1994#q06|src_rmo_1994__Q06]]
 
 
 
@@ -181,9 +221,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i razionali m/n con 0 < m/n < 1, gcd(m,n) = 1, mn = 25!*
+*Quanti razionali m/n fra 0 e 1, con m e n primi fra loro e mn = 25!*
 
-> Trova il numero di tutti i numeri razionali $m/n$ in modo tale che (a) $0 < m/n < 1$, (b) $m$ e $n$ siano relativamente primi, (c) $mn = 25!$.
+> Trovare il numero di tutti i numeri razionali $m/n$ tali che (a) $0 < m/n < 1$, (b) $m$ e $n$ sono primi fra loro, (c) $mn = 25!$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_rmo_1994#q07|src_rmo_1994__Q07]]
 
 
 
@@ -207,6 +253,14 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostrare la disuguaglianza (1+a)(1+b)(1+c) >= 8(1-a)(1-b)(1-c)*
+*Reali positivi di somma 1: (1+a)(1+b)(1+c) ≥ 8(1−a)(1−b)(1−c)*
 
-> Se $a$, $b$ e $c$ sono numeri reali positivi come $a + b + c = 1$, dimostrare che $$(1+a)(1+b)(1+c) \ge 8(1-a)(1-b)(1-c).$$
+> Se $a$, $b$ e $c$ sono numeri reali positivi tali che $a + b + c = 1$, dimostrare che
+>
+> $$(1+a)(1+b)(1+c) \ge 8(1-a)(1-b)(1-c).$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_rmo_1994#q08|src_rmo_1994__Q08]]

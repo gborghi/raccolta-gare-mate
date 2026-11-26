@@ -31,11 +31,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Set finito con 2023 coppie di prodotti quadrati; trovare 4 elementi senza prodotto in coppie quadrate*
+*Insieme finito con 2023 coppie di prodotti quadratici; trovare 4 elementi tali che il prodotto di ciascuna coppia di elementi non sia un quadrato*
 
-> Che $S$ sia un insieme finito di interi positivi. Supponiamo che ci siano precisamente 2023 coppie ordinate $(x, y)$ in $S \times S$ in modo che il prodotto $xy$ sia un quadrato perfetto. Prova che si possono trovare almeno quattro elementi distinti in $S$ in modo che nessuno dei loro prodotti in coppia sia un quadrato perfetto.
-> 
-> *Nota:* Ad esempio, se $S = \{1, 2, 4\}$, ci sono esattamente cinque coppie ordinate: $(1,1)$, $(1,4)$, $(2,2)$, $(4,1)$ e $(4,4)$.
+> Sia $S$ un insieme finito di interi positivi. Si supponga che in $S \times S$ vi siano esattamente 2023 coppie ordinate $(x, y)$ tali che il prodotto $xy$ sia un quadrato perfetto. Dimostrare che si possono trovare almeno quattro elementi distinti in $S$ tali che nessuno dei loro prodotti a due a due sia un quadrato perfetto.
+>
+> *Nota:* A titolo di esempio, se $S = \{1, 2, 4\}$, vi sono esattamente cinque coppie ordinate di questo tipo: $(1,1)$, $(1,4)$, $(2,2)$, $(4,1)$ e $(4,4)$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2023#q01|src_inmo_2023__Q01]]
 
 
 
@@ -62,11 +69,20 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*101 polinomi ciclici nei reali positivi; mostrare che non tutti possono avere tutte le radici reali*
+*101 polinomi ciclici nei numeri reali positivi; dimostrare che non tutti possono avere tutte radici reali*
 
-> Supponiamo che $a_0, a_1, \ldots, a_{100}$ siano numeri reali positivi. Si consideri il seguente polinomio per ogni $k$ in $\{0, 1, \ldots, 100\}$: $$a_{101+k} x^{100} + 100a_{k+1} x^{99} + a_{k+2} x^{98} + \cdots + a_{k+99} x + a_k,$$ in cui gli indici sono presi modulo 101, cioè $a_{101m} = a_0$ per qualsiasi $i$ in $\{1, 2, \ldots, 100\}$.
-> 
-> Mostrare che è impossibile che ciascuno di questi 101 polinomi abbia tutte le sue radici reali.
+> Sia $a_0, a_1, \ldots, a_{100}$ un insieme di numeri reali positivi. Si consideri il seguente polinomio per ciascun $k$ in $\{0, 1, \ldots, 100\}$:
+> $$a_{101+k} x^{100} + 100a_{k+1} x^{99} + a_{k+2} x^{98} + \cdots + a_{k+99} x + a_k,$$
+> dove gli indici sono presi modulo 101, cioè $a_{101m} = a_0$ per ogni $i$ in $\{1, 2, \ldots, 100\}$.
+>
+> Dimostrare che è impossibile che ciascuno di questi 101 polinomi abbia tutte le radici reali.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2023#q02|src_inmo_2023__Q02]]
 
 
 
@@ -91,9 +107,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le c >= 1 per le quali una funzione f: N -> N soddisfa due condizioni*
+*Trovare tutti i c >= 1 per cui una funzione f: N -> N soddisfa due condizioni*
 
-> $\mathbb{N}$ indichi l'insieme di tutti gli integri positivi. Trova tutti i numeri reali $c \geq 1$ per i quali esiste una funzione $f : \mathbb{N} \to \mathbb{N}$ che soddisfa: (a) per qualsiasi $x, n \in \mathbb{N}$, la quantità $\dfrac{f(x+n) - f(x)}{n^c}$ è un numero intero se e solo se $n = 1$; (b) per tutti $x \in \mathbb{N}$, $|f(x+1) - f(x)| < 2023$.
+> Sia $\mathbb{N}$ l'insieme di tutti gli interi positivi. Determinare tutti i numeri reali $c \geq 1$ per i quali esiste una funzione $f : \mathbb{N} \to \mathbb{N}$ tale che:
+> (a) per ogni $x, n \in \mathbb{N}$, la quantità $\dfrac{f(x+n) - f(x)}{n^c}$ è un intero se e solo se $n = 1$;
+> (b) per ogni $x \in \mathbb{N}$, $|f(x+1) - f(x)| < 2023$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2023#q03|src_inmo_2023__Q03]]
 
 
 
@@ -116,9 +141,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-Calvin e Hobbes gioco di monete su un cerchio; trovare tutti i k per cui Calvin vince
+*Il gioco delle monete di Calvin e Hobbes su un cerchio: trova tutti i valori di k per cui Calvin vince*
 
-> $k \geq 1$ e $N > 1$ siano due numeri interi. Su un cerchio sono posizionate monete $2N + 1$ tutte con teste. Calvin e Hobbes giocano il seguente gioco. Calvin inizia e in movimento può trasformare qualsiasi moneta da testa a coda. Hobbes in movimento può trasformare al massimo una moneta che si trova accanto alla moneta che Calvin ha appena trasformato dalle code alle teste. Calvin vince se in qualsiasi momento ci sono monete che mostrano code dopo che Hobbes ha fatto la sua mossa. Determinare tutti i valori di $k$ per i quali Calvin vince la partita.
+> Siano $k \geq 1$ e $N > 1$ due interi. Su un cerchio vengono disposte $2N + 1$ monete, tutte con la faccia testa rivolta verso l'alto. Calvin e Hobbes giocano il seguente gioco. Calvin inizia e, al proprio turno, può girare qualsiasi moneta da testa a croce. Hobbes, al proprio turno, può girare al massimo una moneta adiacente a quella che Calvin ha appena girato, da croce a testa. Calvin vince se, in qualsiasi momento, dopo che Hobbes ha compiuto la propria mossa, ci sono $k$ monete con la faccia croce rivolta verso l'alto. Determinare tutti i valori di $k$ per cui Calvin vince il gioco.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2023#q04|src_inmo_2023__Q04]]
 
 
 
@@ -143,11 +175,18 @@ Calvin e Hobbes gioco di monete su un cerchio; trovare tutti i k per cui Calvin 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n punti euclidici; Gauss registra il livello di < log2 d) per ciascuna coppia; mostrano meno di 2n valori distinti*
+*n punti euclidei; Gauss registra floor(log2 d) per ogni coppia; mostrare meno di 2n valori distinti*
 
-> Euler segna $n$ punti diversi nel piano euclidico. Per ogni coppia di punti segnalati, Gauss scrive il numero $\lfloor \log_2 d \rfloor$ dove $d$ è la distanza tra i due punti. Prove che Gauss scrive meno di $2n$ valori distinti.
-> 
-> *Nota: * Per qualsiasi $d > 0$, $\lfloor \log_2 d \rfloor$ è l'intero unico $k$ tale che $2^k \leq d < 2^{k+1}$.
+> Euler segna $n$ punti distinti nel piano euclideo. Per ogni coppia di punti segnati, Gauss scrive il numero $\lfloor \log_2 d \rfloor$, dove $d$ è la distanza tra i due punti. Dimostrare che Gauss scrive meno di $2n$ valori distinti.
+>
+> *Nota:* Per ogni $d > 0$, $\lfloor \log_2 d \rfloor$ è l'unico intero $k$ tale che $2^k \leq d < 2^{k+1}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_inmo_2023#q05|src_inmo_2023__Q05]]
 
 
 
@@ -175,8 +214,18 @@ Calvin e Hobbes gioco di monete su un cerchio; trovare tutti i k per cui Calvin 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Utilizzando uno strumento di ciclo, costruire un cerchio centrato su uno dei due punti dati che attraversano l'altro*
+*Utilizzando uno strumento ciclos, costruisci un cerchio avente come centro uno dei due punti dati e passante per l'altro*
 
-> Euclide ha uno strumento chiamato *cyclos* che fa quanto segue: - Dati tre punti non collineari, disegnare il cerchio che li attraversa. - Dati due punti segnati, disegnare il cerchio con loro come punti finali di diametro. - Marcare eventuali punti di intersezione di due cerchi disegnati o marcare un nuovo punto su un cerchio disegnato.
-> 
-> Mostra che dato due punti segnati, Euclide può disegnare un cerchio centrato su uno di essi e passando attraverso l'altro, utilizzando solo i cicli.
+> Euclide dispone di uno strumento chiamato *cyclos*, che fa quanto segue:
+> - Dati tre punti segnati non allineati, traccia la circonferenza che passa per essi.
+> - Dati due punti segnati, traccia la circonferenza che ha tali punti come estremi di un diametro.
+> - Segna qualsiasi punto di intersezione di due circonferenze tracciate oppure segna un nuovo punto su una circonferenza tracciata.
+>
+> Dimostrare che, dati due punti segnati, Euclide può tracciare una circonferenza avente centro in uno dei due punti e passante per l'altro, utilizzando soltanto il cyclos.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_backward|Backward]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2023#q06|src_inmo_2023__Q06]]

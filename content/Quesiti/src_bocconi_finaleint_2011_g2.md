@@ -36,13 +36,18 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-Head and cross coins: colour those with the cross
+*Heads and tails coins: color the ones with tails*
 
-> The figure represents the coins of which the head or the cross is seen. On each coin is written the number of coins touching the one of which you see the cross. Color all the coins on the cross.
+> The figure shows coins whose heads or tails are visible. On each coin is written the number of coins that touch the coin whose tails are visible. Color all the coins whose tails are visible.
 
 ![[src_bocconi_finaleint_2011_g2__q01.png]]
 
-**Answer:** The coins with the cross are those indicated in the figure of the solution (4 coins colored in gray).
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q01|src_bocconi_finaleint_2011_g2__Q01]]
 
 
 
@@ -67,11 +72,17 @@ Head and cross coins: colour those with the cross
 <div class="qlang-split" data-lang="en"></div>
 
 
-Mysterious addition with repeated symbols
+*Mysterious addition with repeated symbols*
 
-> In this addition, each symbol always replaces the same number and two different symbols replace two different numbers. Find the addition. Note: decimal writing of a multi-digit number never begins with $0$. $$\heartsuit\clubsuit + \clubsuit\heartsuit = \clubsuit\clubsuit\spadesuit$$
+> In this addition, each symbol always stands for the same digit, and two different symbols stand for two different digits. Find the addition. Note: the decimal representation of a multi-digit number never begins with $0$.
+> $$\heartsuit\clubsuit + \clubsuit\heartsuit = \clubsuit\clubsuit\spadesuit$$
 
-**Answer:** $91 + 19 = 110$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q02|src_bocconi_finaleint_2011_g2__Q02]]
 
 
 
@@ -97,13 +108,18 @@ Mysterious addition with repeated symbols
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many cubes do not touch the carpet or other cubes?
+*How many cubes do not touch the carpet or any other cubes?*
 
-> Matilde's younger brother placed 18 cubes on the living room carpet. How many of these cubes don't touch exactly two others? Note: Two cubes are considered to touch only if they are in contact through the entire face.
+> Matilde's little brother arranged 18 cubes on the living room carpet. How many of these cubes do not touch exactly two other cubes? Note: two cubes are considered to be touching only if they are in contact along an entire face.
 
 ![[src_bocconi_finaleint_2011_g2__q03.png]]
 
-**Answer:** 6
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q03|src_bocconi_finaleint_2011_g2__Q03]]
 
 
 
@@ -131,11 +147,16 @@ How many cubes do not touch the carpet or other cubes?
 
 *Five tokens: maximize the product of three numbers*
 
-> Matilde found the five tokens in the sun lounge right here, arranged on a wooden base. She would like to arrange them in a different way on this basis, so as to obtain an operation whose outcome is as great as possible. What will be the result? Note: the $6$ can be rotated to obtain the $9$.
+> Matilde has found the five tokens shown here to the side in the attic; they are arranged on a wooden base. She would like to arrange them differently on this base so as to obtain an operation whose result is as large as possible. What will this result be? Note: the $6$ can be turned to obtain the $9$.
 
 ![[src_bocconi_finaleint_2011_g2__q04.png]]
 
-**Answer:** 5022
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q04|src_bocconi_finaleint_2011_g2__Q04]]
 
 
 
@@ -162,13 +183,19 @@ How many cubes do not touch the carpet or other cubes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of digits with equal symbols on three lines*
+*Sum of digits with identical symbols on three rows*
 
-> Equal symbols represent the same number. The number represented by the second row is equal to the sum of the three digits of the number represented by the first row. The number represented by the third row is equal to the sum of the two digits of the number represented by the second row. What is the number represented by the first line? $$\blacksquare\heartsuit\clubsuit + \clubsuit = \spadesuit\spadesuit\heartsuit$$
+> Identical symbols represent the same digit. The number represented by the second row is equal to the sum of the three digits of the number represented by the first row. The number represented by the third row is equal to the sum of the two digits of the number represented by the second row. What is the number represented by the first row?
+> $$\blacksquare\heartsuit\clubsuit + \clubsuit = \spadesuit\spadesuit\heartsuit$$
 
 ![[src_bocconi_finaleint_2011_g2__q05.png]]
 
-**Answer:** 929
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q05|src_bocconi_finaleint_2011_g2__Q05]]
 
 
 
@@ -194,13 +221,18 @@ How many cubes do not touch the carpet or other cubes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To divide the figure into two overlapping parts*
+*Divide the figure into two superposable parts*
 
-> Divide this figure into two overlapping parts: for this, follow the drawn lines. Note: It is possible that one part may overlap the other after being overturned.
+> Divide this figure into two parts that can be superimposed: to do this, follow the dashed lines. Note: one part may be superimposable on the other after being flipped.
 
 ![[src_bocconi_finaleint_2011_g2__q06.png]]
 
-**Answer:** There is a single cutting position (the answer is unique).
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q06|src_bocconi_finaleint_2011_g2__Q06]]
 
 
 
@@ -224,11 +256,16 @@ How many cubes do not touch the carpet or other cubes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mathematical club: how many members at most?*
+*Mathematics club: what's the maximum number of members?*
 
-> A math and logic game club is made up of boys and girls. All of its members, except 11, are boys. In any group of 20 members there are at least six girls. What's the maximum number of club members?
+> A club for mathematical and logical games consists of boys and girls. All of its members except 11 are boys. In any group of 20 members, there are at least six girls. What is the maximum number of members in the club?
 
-**Answer:** 24
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q07|src_bocconi_finaleint_2011_g2__Q07]]
 
 
 
@@ -252,11 +289,16 @@ How many cubes do not touch the carpet or other cubes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of 9 digits all different, product of two factors*
+*A 9-digit number with all distinct digits, the product of two factors*
 
-> Use the digits from $1$ to $9$ to form a nine-digit number, all different. Without changing the order, each pair of digits written next to each other must form a one-digit number equal to the product of the two 1-digit numbers, if any, equal.
+> Use the digits from $1$ to $9$ to form a 9-digit number in which all the digits are different. Without changing the order, each pair of digits written one immediately after the other must form a single-digit number equal to the product of the two single-digit numbers, which may be equal.
 
-**Answer:** 728163549
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q08|src_bocconi_finaleint_2011_g2__Q08]]
 
 
 
@@ -280,11 +322,16 @@ How many cubes do not touch the carpet or other cubes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Participants with exactly 13 correct problems*
+*Participants with exactly 13 problems solved correctly*
 
-> The last international final of mathematical and logic games was attended by 75 competitors in the C1 category. The $36\%$ provided an accurate answer to at least 13 problems. The $84\%$ gave an accurate answer to no more than 13 problems. How many participants solved exactly 13 problems?
+> At the most recent international final of mathematical and logical games, 75 contestants took part in category C1. $36\%$ gave a correct answer to at least 13 problems. $84\%$ gave a correct answer to no more than 13 problems. How many participants solved exactly 13 problems?
 
-**Answer:** 15
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_probabilita|Probability]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q09|src_bocconi_finaleint_2011_g2__Q09]]
 
 
 
@@ -308,11 +355,16 @@ How many cubes do not touch the carpet or other cubes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coins to complete the Mida vessel*
+*Coins to Complete the Golden Touch Vessel*
 
-> Electrum and silver coins allow anything that the antique merchant touches to be turned into gold to create an alabaster vase. The price of the vase is 177 drachmas. Mida has in her purse 3 gold coins worth 20 drachmas each, 5 electrum coins worth 11 drachmas each, and 7 silver coins worth 3 drachmas each. The merchant has no rest; therefore Mida must pay the exact price, but to do so he must ask his valet to take coins from his purse. How many gold coins does the valet have to take?
+> Electrum and silver coins allow the antique dealer to turn into gold everything he touches in order to create an alabaster vase. The price of the vase is 177 drachmas. Midas has in his purse 3 gold coins worth 20 drachmas each, 5 electrum coins worth 11 drachmas each, and 7 silver coins worth 3 drachmas each. The dealer has no change; therefore, Midas must pay the exact price, but to do so he must ask his servant to take some coins from his purse. How many gold coins must the servant take?
 
-**Answer:** 4
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q10|src_bocconi_finaleint_2011_g2__Q10]]
 
 
 
@@ -338,13 +390,18 @@ How many cubes do not touch the carpet or other cubes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Produced on the faces of the dice: unique number*
+*On the faces of the nuts: unique number*
 
-> The faces of a dice are numbered from 1 to 6 so that the sum of two opposite faces is always 7. The three dice in the figure are the same. Two faces in contact must have the same number. The product of the figure indicated in the upper left-hand face multiplied by the number formed by the two digits indicated in the upper right-hand face is equal to the number formed by the three digits indicated in the lower left-hand face (the right-hand side of the grid is not taken into account). Find the number.
+> The faces of a die are numbered from 1 to 6 such that the sum of two opposite faces is always 7. The three dice in the figure are identical. Two faces in contact must have the same number. The product of the digit shown on the face visible at the top left, multiplied by the number formed by the two digits shown on the faces visible at the top right, equals the number formed by the three digits shown on the faces visible below (ignore the right face of the grid). Find the number.
 
 ![[src_bocconi_finaleint_2011_g2__q11.png]]
 
-**Answer:** $2 \times 56 = 112$
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q11|src_bocconi_finaleint_2011_g2__Q11]]
 
 
 
@@ -372,11 +429,16 @@ How many cubes do not touch the carpet or other cubes?
 
 *Percentage of grey area in the lily*
 
-> There's a glass in Mathematics Castle that represents a lily. All circle arcs are quarters of a circle. All the contact points are perfect. What is the area of the gray part on the figure, as a percentage of the area of the largest square? If necessary, take $2217$ for $\pi$.
+> In the Castle of Mathematics, there is a stained-glass window depicting a lily. All circular arcs are quarter-circles. All points of contact are perfect. What is the area of the gray part in the figure, as a percentage of the area of the largest square? If necessary, take $2217$ for $\pi$.
 
 ![[src_bocconi_finaleint_2011_g2__q12.png]]
 
-**Answer:** $50\%$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q12|src_bocconi_finaleint_2011_g2__Q12]]
 
 
 
@@ -402,13 +464,18 @@ How many cubes do not touch the carpet or other cubes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coordinates of the 2011 position in the spiral*
+*Coordinates of position 2011 in the spiral*
 
-> Spiro draws a spiral on a square sheet in a regular manner without removing the pencil from the sheet and following the square. It starts from the $(0,0)$ origin and moves from one unit to the right reaching the coordinate position 1 $(1,0)$. Then it moves up until it can bend to the left, then it moves left until it reaches the vertical axis, then it moves from one unit up, then it moves right until it can go back down, then it goes down to the horizontal axis, then it moves from one unit to the right, and so on as shown in the figure. The black dot corresponds to position 13 of the coordinates $(2,3)$. What are the coordinates of the 2011 position?
+> Spiro draws a spiral on a grid paper in a regular manner without lifting the pencil from the paper and following the grid. He starts at the origin $(0,0)$ and moves one unit to the right, reaching position 1 with coordinates $(1,0)$. Then he moves upward until he can turn left; then he goes left until he reaches the vertical axis; then he moves one unit upward; then he goes right until he can go back down; then he goes down to the horizontal axis; then he moves one unit to the right; and so on as indicated in the figure. The black point corresponds to position 13 with coordinates $(2,3)$. What are the coordinates of position 2011?
 
 ![[src_bocconi_finaleint_2011_g2__q13.png]]
 
-**Answer:** $(44, 13)$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_ricorsione|Recursion]], [[skill_riconoscimento_pattern|skill_PatternRecognition]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q13|src_bocconi_finaleint_2011_g2__Q13]]
 
 
 
@@ -432,11 +499,16 @@ How many cubes do not touch the carpet or other cubes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum length of tunnel with cow and train*
+*Maximum length of the tunnel with a cow and a train*
 
-> A cow is inside a narrow railway tunnel, 5 meters from its middle. A train is heading towards the tunnel entrance. When she's three kilometers from the entrance, the cow hears the noise. She knows she's going to this entrance or the exit of the tunnel, she can get out a moment before the train hits her. What is the maximum length of the tunnel in meters? Note: the train travels at constant speed; the cow also moves at constant speed and its speed would be the same in one direction or the other.
+> A cow is inside a narrow railway tunnel, 5 meters from its midpoint. A train is heading toward the tunnel entrance. When the train is 3 km from the entrance, the cow hears its noise. Regardless of whether the train is heading toward this entrance or toward the tunnel exit, the cow can manage to get out a moment before the train hits her. What is the maximum length of the tunnel in meters? Note: the train travels at a constant speed; the cow also moves at a constant speed, and her speed would be the same in either direction.
 
-**Answer:** 250 meters
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_backward|Working backwards]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q14|src_bocconi_finaleint_2011_g2__Q14]]
 
 
 
@@ -460,11 +532,16 @@ How many cubes do not touch the carpet or other cubes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Leonardo's minimum magic number*
+*Leonardo's Minimum Magic Number*
 
-> Leonardo wrote a magic number on a board. Then he asked Teresa: (i) to draw on the board a non-isosceles and non-flat triangle; (ii) to calculate the six ratios between the lengths of its three sides taken two by two; (iii) to observe which one is closest to 1 (it is possible that Teresa obtained it in two different ways). Then Leonardo says, "I knew this ratio would be less than 1". And Teresa: "Is that all there is?" And Leonardo said, "No. I also knew it would be greater than the magic number". What is this magic number, at most? Rounded to the decimal place with three digits after the comma that would have been greater than 1,414 for $\sqrt{2}$, 1,732 for $\sqrt{3}$, and 2,236 for $\sqrt{5}$.
+> Leonardo wrote a magic number on a blackboard. Then he asked Teresa: i) to draw on the blackboard a non-isosceles, non-degenerate triangle; ii) to calculate the six ratios between the lengths of its three sides taken two at a time; iii) to observe which of these ratios is closest to 1 (it is possible that Teresa obtained it in two different ways). Then Leonardo says, "I knew this ratio would be less than 1." And Teresa: "That's all?" And Leonardo: "No. I also knew it would be greater than the magic number." What is this magic number, at most? Rounded to a decimal with three digits after the decimal point, it would have been greater than 1.414 for $\sqrt{2}$, 1.732 for $\sqrt{3}$, and 2.236 for $\sqrt{5}$.
 
-**Answer:** $0{,}618$
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_disuguaglianze|Inequalities]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q15|src_bocconi_finaleint_2011_g2__Q15]]
 
 
 
@@ -490,13 +567,18 @@ How many cubes do not touch the carpet or other cubes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode to cover rectangle 2×7 with domino*
+*Ways to tile a 2×7 rectangle with dominoes*
 
-> A regular and oriented square, covering $2\times n$ rectangles or squares only with $1\times 2$ rectangles or $1\times 1$ squares. How many different ways can a $2\times 7$ rectangle be covered?
+> With a regular, oriented grid, $2\times n$ rectangles or squares are covered only with $1\times 2$ rectangles or $1\times 1$ squares. In how many different ways can a $2\times 7$ rectangle be covered?
 
 ![[src_bocconi_finaleint_2011_g2__q16.png]]
 
-**Answer:** 2356
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q16|src_bocconi_finaleint_2011_g2__Q16]]
 
 
 
@@ -522,13 +604,18 @@ How many cubes do not touch the carpet or other cubes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dimensions of the oval field of Padre Ovo*
+*Dimensions of Padre Ovo's Oval Field*
 
-> Father Ovo's field is a rectangle. It contains an oval pond (in grey in the figure) whose edge consists of four circular arches. Each arc is tangent to one side of the rectangle at its center point and tangentially connects to the two adjacent arcs. The radius of the two arcs on the left and right is 16 m. The radius of the two arches up and down is 81 meters. What are the width and length of the rectangle, knowing that they are integers of meters? Note: the centre of a circle is not necessarily placed inside the rectangle.
+> Father Ovo's field is a rectangle. It contains an oval pond (shown in gray in the figure), whose boundary consists of four circular arcs. Each arc is tangent to one side of the rectangle at the midpoint of that side and joins tangentially with the two adjacent arcs. The radius of the two arcs on the left and on the right is 16 m. The radius of the two arcs at the top and at the bottom is 81 m. What are the width and the length of the rectangle, given that they are whole numbers of meters? Note: the center of a circle is not necessarily inside the rectangle.
 
 ![[src_bocconi_finaleint_2011_g2__q17.png]]
 
-**Answer:** $(36,64)$, $(130,158)$, $(96,144)$, $(50,90)$, $(112,152)$, $(42,82)$, $(84,136)$, $(58,110)$ (width, length)
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q17|src_bocconi_finaleint_2011_g2__Q17]]
 
 
 
@@ -552,8 +639,13 @@ How many cubes do not touch the carpet or other cubes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two-digit numbers with cross product*
+*Three two-digit numbers with cross product*
 
-> Mattia wrote three two-digit numbers. He added those three numbers, then calculated the product. The sum of the three numbers is written $xy$ (with $x$ the decimal point and $y$ the unit point). This product is written $x0y0$ (with $x$ the number of thousands and $y$ the number of tens; the other two digits are zeros). What are, in increasing order, the three numbers Mattia has chosen?
+> Mattia wrote three two-digit numbers. He added these three numbers and then calculated their product. The sum of the three numbers is written as $xy$ (with $x$ being the tens digit and $y$ being the units digit). This product is written as $x0y0$ (with $x$ being the thousands digit and $y$ being the tens digit; the other two digits are zeros). In ascending order, what are the three numbers chosen by Mattia?
 
-**Answer:** $(10, 20, 30)$ or $(15, 16, 17)$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g2#q18|src_bocconi_finaleint_2011_g2__Q18]]

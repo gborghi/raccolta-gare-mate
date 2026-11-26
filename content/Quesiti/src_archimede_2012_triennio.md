@@ -34,11 +34,16 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reduction of holidays with calendar reform*
+*Reduction in public holidays with a calendar reform*
 
-> The answer is D. According to the pre-reform calendar, since the ratio of 400 to 6 is 66, there were 66 public holidays. With the new calendar each month there are 6 holidays and so in a year there are 60 holidays. The holidays then went from 66 to 60 and the decrease, 6, is less than 10% of 66, which is 6.6. [Problem proposed by Mr P. Negroes.]
+> The answer is (D).
+> According to the calendar before the reform, since the quotient of the division of 400 by 6 is 66, there were 66 public holidays. With the new calendar each month has 6 public holidays and so in a year there are 60 public holidays. The public holidays then went from 66 to 60 and the reduction, 6, is less than 10% of 66, which is 6.6.
+> [Problem proposed by P. Negrini.]
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]], [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2012_triennio#q03|src_archimede_2012_triennio__Q03]]
 
 
 
@@ -98,11 +103,50 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of surfaces of two spheres with volume ratio 2*
+*Ratio of the surface areas of two spheres with volume ratio 2*
 
-> The answer is A. The volume of a sphere of radius R is 4πR3 3 , while its surface is 4πR2. Let's use R1 and R2 to indicate the rays of S1 and S2 respectively. We know that 4πR3 2 3 4πR3 1 3 = 2 ⇒ R2 R1 3 = 2 . So R2 R1 is equal to 3√ 2 ⇒R2 2 R2 1 is equal to 3√ 4. Since the ratio of the surface of S2 to that of S1 is R2 2 R2 1 , it is 3√ 4. [Problem proposed by Mr P. I'm going to tell you something.
+> The answer is (A).
+> The volume of a sphere of radius R is 4πR3
+> 3
+> , while its surface area is 4πR2. Let R1 and R2 be the radii of S1 and S2 respectively. We know that
+> 4πR3
+> 2
+> 3
+> 4πR3
+> 1
+> 3
+> = 2
+> ⇒
+> R2
+> R1
+> 3
+> = 2 .
+> Therefore
+> R2
+> R1
+> =
+> 3√
+> 2
+> ⇒R2
+> 2
+> R2
+> 1
+> =
+> 3√
+> 4 .
+> Since the ratio between the surface area of S2 and that of S1 coincides with R2
+> 2
+> R2
+> 1
+> , it equals
+> 3√
+> 4.
+> [Problem proposed by P. Leonetti.]
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2012_triennio#q04|src_archimede_2012_triennio__Q04]]
 
 
 
@@ -130,11 +174,19 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mean speed on the home-school-home route*
+*Average speed on the home-school-home route*
 
-> The answer is C. The average speed in the home-school-home route is given by the total route length, i.e. 4 km (2 to go and 2 to return), divided by the total time spent, i.e. 16 minutes (12 to go and 4 to return). So the average speed is 0.25 km/min, which is 15 km/h. [Problem proposed by S. Monica.]
+> The answer is (C).
+> The average speed on the home-school-home route is given by the length of the overall route,
+> namely 4 km (2 to go and 2 to return), divided by the total time taken, namely 16 minutes
+> (12 to go and 4 to return). Therefore the average speed is 0.25 km/min, which corresponds to
+> 15 km/h.
+> [Problem proposed by S. Monica.]
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2012_triennio#q05|src_archimede_2012_triennio__Q05]]
 
 
 
@@ -177,11 +229,32 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square area inscribed with triangular similarities*
+*Square inscribed area with similarity in a triangle*
 
-> The answer is C. We're going to use O to show the center of the square, K to show the top of the square that belongs to the AC side, and 2x the length in meters of the square's diagonal. For the similarity of the AHC and KOC triangles, we have CH AH = OC KO = 2 −x x. Ma CH AH = 2 m 0,5 m = 4 . From here we get x = 2.5 m and then HK = 2 √ 2.5 m. The area of the square is then 8 25 m2. [Problem proposed by Mr U. Bindini and A. I'm going to have to go with you.
+> The answer is (C).
+> Let O be the centre of the square, K the vertex of the square that belongs to side AC, and 2x the length in metres of the diagonal of the square. By the similarity of triangles AHC and KOC, we have that
+> CH
+> AH = OC
+> KO = 2 −x
+> x
+> .
+> But
+> CH
+> AH = 2 m
+> 0,5 m = 4 .
+> From here we obtain x = 2
+> 5 m and therefore HK = 2
+> √
+> 2
+> 5
+> m. The area of the square is then 8
+> 25 m2.
+> [Problem proposed by U. Bindini and A. Sambusetti.]
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2012_triennio#q06|src_archimede_2012_triennio__Q06]]
 
 
 
@@ -212,11 +285,17 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Prime p, q with p^q+1 prime*
+*First p, q with p^q+1 prime*
 
-> The answer is B. We'll see that pq + 1 is equal if pq is odd, and vice versa is odd if pq is even. Since the only prime number is 2, for pq + 1 to be prime, it has to be equal to 2 or it has to be odd. But pq + 1 = 2 implies pq = 1, which is impossible. So we have to have that pq is equal, and then p has to be equal, and being first we have to have p = 2. If q is odd pq + 1 admits the breakdown: (pq + 1) = (p + 1)(pq−1 −pq−2 + · · · + p2 −p + 1) and so in particular it is divisible by p + 1 and therefore cannot be prime. So also q has to be equal and so q is equal to 2. The only possibility is then p = q = 2.
+> The answer is (B).
+> Let us observe that pq + 1 is even if pq is odd, and conversely is odd if pq is even. Since the only even prime number is 2, for pq + 1 to be prime it must be equal to 2 or must be odd. But pq + 1 = 2 implies pq = 1, which is impossible. Therefore we must have pq even, and so p must be even, and being prime it must be p = 2. If q is odd, pq + 1 admits the decomposition:
+> (pq + 1) = (p + 1)(pq−1 −pq−2 + · · + p2 −p + 1)
+> and therefore in particular it is divisible by p + 1 and consequently cannot be prime. So q must also be even and therefore q = 2. The only possibility is then p = q = 2.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2012_triennio#q09|src_archimede_2012_triennio__Q09]]
 
 
 
@@ -247,11 +326,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of figures of (10^2013+1)^3*
+*Sum of digits of (10^2013+1)^3*
 
-> The answer is B. By developing the binomial cube we can write (102013 + 1)3 = 106039 + 3 · 104026 + 3 · 102013 + 1 . Each of the 4 numbers to the right of the equation, written at base 10, has only one digit different from zero and in a different position from the others, so the sum of the digits of the number that you get by adding them is 1 + 3 + 3 + 1 = 8. [Problem proposed by C. By Stephen.] 3
+> The answer is (B).
+> Expanding the cube of the binomial we can write
+> (102013 + 1)3 = 106039 + 3 · 104026 + 3 · 102013 + 1 .
+> Each of the 4 numbers on the right of the equality, written in base 10, has only one digit different from
+> zero and in a position different from the others, so the sum of the digits of the number obtained by adding them is 1 + 3 + 3 + 1 = 8.
+> [Problem proposed by C. Di Stefano.]
+> 3
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2012_triennio#q11|src_archimede_2012_triennio__Q11]]
 
 
 
@@ -289,11 +378,29 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum divider of n^5-5n^3+4n for n>=3*
+*Largest divisor of n^5-5n^3+4n for n>=3*
 
-> The answer is D. We can write n5 −5n3 + 4n = n(n4 −5n2 + 4) = n(n2 −4)(n2 −1) = (n −2)(n −1) n(n + 1)(n + 2) . So we're considering a number that can always be written as the product of five consecutive natural numbers (all strictly positive, because n ≥3). In a sequence of 5 consecutive natural numbers there are certainly two even numbers of which a multiple of 4, a multiple of 3 and a multiple of 5. So their product is certainly a multiple of 120 = 2·3·4·5. On the other hand for n = 3 we have n5 −5n3 + 4n = 120 so 120 is the largest divisor of n5 −5n3 + 4n at the variance of n ≥3.
+> The answer is (D).
+> We can write
+> n5 −5n3 + 4n
+> =
+> n(n4 −5n2 + 4)
+> =
+> n(n2 −4)(n2 −1)
+> =
+> (n −2)(n −1)n(n + 1)(n + 2) .
+> So we are considering a number that can always be written as the product of five
+> consecutive natural numbers (all strictly positive, since n ≥3). In a sequence of 5
+> consecutive natural numbers there are certainly two even numbers, one of which is a multiple of 4, a
+> multiple of 3 and a multiple of 5. So their product is certainly a multiple of 120 = 2·3·4·5.
+> On the other hand, for n = 3 we have n5 −5n3 + 4n = 120, so 120 is the largest divisor of
+> n5 −5n3 + 4n as n ≥3 varies.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2012_triennio#q12|src_archimede_2012_triennio__Q12]]
 
 
 
@@ -358,11 +465,56 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expression less than or equal to 1/6+x^2 for each x*
+*An expression less than or equal to 1/6+x^2 for every x*
 
-> The answer is E. None of the expressions in the other answers is less than or equal to 16 + x2 for every x. In fact, if for example x = 0, the number q 1 6 + x2 = q 1 6 > 1 6, then (A) is false. The answer (D) is also obviously wrong if 0 < x < 1, because in this case 1 6 + x > 1 6 + x 2. By developing the binomial square, it also finds that it cannot be (C): 1 6 + x 2 = 1 36 + x2 + 1 3x > 1 6 + x2 for x > 15 36. Finally, let's prove that the answer (B) is also wrong: in fact 1 6 + x2 ≥−2 √ 3x  6 √ 3x2 + 12x + √ 3 ≥0 and the discriminant of the trinomial 6 √ 3x2 + 12x+ √ 3 is ∆= 144−24·3 > 0; so the trinomial admits two distinct real roots and is negative for every value of x closely understood between the two roots. [Problem proposed by G. Barbarians and A. I'm going to have to go with you.
+> The answer is (E).
+> None of the expressions contained in the other answers is less than or equal to 1
+> 6 + x2 for every x.
+> Indeed, for example if x = 0 the number
+> q
+> 1
+> 6 + x2 =
+> q
+> 1
+> 6 > 1
+> 6, so (A) is false.
+> Also answer (D) is evidently false if 0 < x < 1, since in that case 1
+> 6 + x > 1
+> 6 + x2.
+> Developing the square of the binomial, it is also found that (C) cannot hold:
+> 1
+> 6 + x
+> 2
+> = 1
+> 36 + x2 + 1
+> 3x > 1
+> 6 + x2
+> for x > 15
+> 36. Finally we prove that answer (B) is also wrong: in fact
+> 1
+> 6 + x2 ≥−2
+> √
+> 3x
+> ⇔
+> 6
+> √
+> 3x2 + 12x +
+> √
+> 3 ≥0
+> and the discriminant of the trinomial 6
+> √
+> 3x2 +12x+
+> √
+> 3 is ∆= 144−24·3 > 0; therefore the trinomial
+> admits two distinct real roots and is negative for every value of x strictly between
+> the two roots.
+> [Problem proposed by G. Barbarino and A. Sambusetti.]
 
-**Answer:** E
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2012_triennio#q13|src_archimede_2012_triennio__Q13]]
 
 
 
@@ -451,39 +603,51 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mean distance points on the development of the cone*
+*Length of PQ on the net of a cone, as worked in the source*
 
 ![[src_archimede_2012_triennio__prob14.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.2]
-  \coordinate (V) at (0,0);
-  \coordinate (B) at (4,0);
-  \coordinate (T) at (120:4);
-  \coordinate (P) at (60:4);
-  \coordinate (Q) at (2,0);
-  \draw (V) -- (T);
-  \draw (V) -- (B);
-  \draw (0:4) arc (0:120:4);
-  \draw (P) -- (Q);
-  \draw[dashed] (V) -- (P);
-  \fill (P) circle (1.5pt);
-  \fill (Q) circle (1.5pt);
-  \node[above right] at (P) {$P$};
-  \node[below right] at (Q) {$Q$};
-  \node[below left] at (V) {$V$};
-  \node at (105:2.2) {$a$};
-  \node[right] at (3,1.0) {$d$};
-  \draw (V) ++(0:0.7) arc (0:60:0.7);
-  \node at (30:1.05) {$60^\circ$};
-\end{tikzpicture}
-\end{document}
-```
+> The answer is (A).
+> First we compute the slant height of the cone: a =
+> √
+> r2 + h2 = 30cm.
+> We now cut the cone along the slant height through Q, and thus obtain a circular sector with centre V, radius a and arc of length equal to 2πr: the central angle subtended by that arc therefore measures ϑ = 2πr
+> a =
+> 2πr
+> √
+> r2+h2 = 2
+> 3π radians.
+> V
+> o
+> a
+> d
+> P
+> Q
+> 60
+> The problem thus reduces to finding the length of the segment joining the midpoint P of the arc to the midpoint Q of one of the two radii that bound the sector.
+> Since the angle
+> d
+> PV Q = 60°, it follows that PQ is perpendicular to the radius containing Q, hence
+> d =
+> q
+> a2 −
+> a
+> 2
+> 2 =
+> √
+> 3
+> 2 a = 15
+> √
+> 3.
+> [Problem set by Nirvana.]
+> 4
 
-> The answer is A. Let's first calculate the apoteme of the cone: a = √ r2 + h2 = 30cm. Now let's cut the cone along the apoteme passing through Q, and we get a circular sector of center V , radius a and arc of circumference of length equal to 2πr: the angle to the center underneath that arc measures θ = 2πr a = 2πr √ r2+h2 = 2 3π radiants. V or a d P Q 60 The problem is then reduced to finding the length of the segment connecting the median point P of the circumference arc to the median point Q of one of the two radii delimiting the circular sector. Since the angle d PV Q = 60°, it follows that PQ is perpendicular to the radius containing Q, so d = q a2 −  a 2 2 = √ 3 2 a = 15 √ 3. [Problem proposed by Nirvana.] 4
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
-**Answer:** A
+[[Quesiti/src_archimede_2012_triennio#q14|src_archimede_2012_triennio__Q14]]
 
 
 
@@ -517,11 +681,25 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability sum 11 with 4 face dice and 8 face dice*
+*Probability of a sum of 11 with a 4-sided die and an 8-sided die*
 
-> The answer is B. The possible events after throwing the two dice can be represented by all the ordered pairs (d1, d2) where d1 is the value of the first dice and d2 is the value of the second; since d1 can vary between 4 possible values and d2 between eight possible values, the total number of events is 32. Let's see that for each d1 value of the 4-sided dice there is one and only one d2 value of the 8-sided dice whose sum with d1 is 11. So the favourable events, or the pairs (d1, d2) such that the sum of d1 + d2 is 11, is 4, out of a total of 32. The probability of a favorable event occurring is then 4 32 = 18. [Problem proposed by S. Mongols.]
+> The answer is (B).
+> The possible events after throwing the two dice can be represented by all ordered pairs
+> (d1, d2) in which d1 is the value of the first die and d2 that of the second; since d1 can vary
+> between 4 possible values and d2 between eight possible values, the total number of events is 32. We observe
+> that for each value d1 of the 4-sided die there is exactly one value d2 of the 8-sided die whose
+> sum with d1 is 11. So the favourable events, that is the pairs (d1, d2) such that the sum
+> d1 + d2 is 11, are 4, out of a total of 32. The probability that a favourable event occurs is
+> then 4
+> 32 = 1
+> 8.
+> [Problem proposed by S. Mongodi.]
 
-**Answer:** B
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]], [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2012_triennio#q15|src_archimede_2012_triennio__Q15]]
 
 
 
@@ -556,11 +734,25 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values of k with full solution of x^10+kx^2+4=0*
+*Values of k with an integer solution of x^10+kx^2+4=0*
 
-> The answer is B. Let's show with n the whole solution of the equation x10 + kx2 + 4 = 0; we observe that n = 0 otherwise the equation is not verified. We can write: n10 + kn2 + 4 = 0 k = −n8 −4 n2 . So, since k is integer and n8 is integer, 4 n2 is integer, and so n2 divides 4 and so it can only be n = ±1, n = ±2. In the first case we have k = −5 and in the second case k = −28 −1. k can only take two values. [Problem proposed by Mr P. I'm going to tell you something.
+> The answer is (B).
+> Let n be the integer solution of the equation x10 + kx2 + 4 = 0; note that n ≠ 0, otherwise the equation is not satisfied. We can write:
+> n10 + kn2 + 4 = 0
+> k = −n8 −4
+> n2 .
+> Therefore, since k is an integer and n8 is an integer,
+> 4
+> n2 is an integer, and so n2 divides 4 and can therefore only be
+> n = ±1, n = ±2. In the first case we have k = −5 and in the second k = −28 −1. k can
+> take only two values.
+> [Problem proposed by P. Leonetti.]
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2012_triennio#q16|src_archimede_2012_triennio__Q16]]
 
 
 
@@ -593,11 +785,17 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of dividing by 11 a square*
+*Probability of making a square divisible by 11*
 
-> The answer is A. A number is congruent to the sum of its digits, taken at alternate signs (starting from the positive sign for the number of units). Consider a square of two digits that is written, in decimal notation, as ab; we notice right away that −8 ≤a −b ≤9 and that definitely a =b, a =b −1 (unless ab is not a square). This means that the difference a −b is congruent, module 11, to an integer x between 1 and 9. Therefore, whatever the square ab is assigned, there is always one and only one digit x between 1 and 9 such that x−a+b is congruent to zero modulo 11, i.e. such that xab is divisible by 11. So the probability is equal to 19. [Problem proposed by S. Mongols.]
+> The answer is (A).
+> A number is congruent modulo 11 to the sum of its digits, taken with alternating signs (starting with the positive sign for the units digit). Consider then a two-digit square written, in decimal notation, as ab; note at once that −8 ≤ a − b ≤ 9 and that certainly a ≠ b, a ≠ b − 1 (otherwise ab is not a square). This means that the difference a − b is congruent, modulo 11, to an integer x between 1 and 9. Therefore, whatever the assigned square ab is, there always exists exactly one digit x between 1 and 9 such that x − a + b is congruent to zero modulo 11, i.e. such that xab is divisible by 11. The probability is thus equal to 1/9.
+> [Problem proposed by S. Mongodi.]
 
-**Answer:** A
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2012_triennio#q17|src_archimede_2012_triennio__Q17]]
 
 
 
@@ -651,8 +849,41 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the sum of the squares of the two sides of the hypotenuse.
+*Estimate the solution of the polynomial equation (t-1)(t+1)^2012=1*
 
-> The answer is B. Consider the polynomial function f(t) = (t −1)(t + 1)2012 −1. For t > 1 this function is increasing, as both functions (t −1) and (t + 1)2012 are, and therefore their product is. We assume f(x) = 0 while f 1 + 1 32012 = 1 32012 1 32012 + 2 −1 < 3 32012 −1 < 0 so 1 + 1 32012 < x. On the other hand, since we know that x > 1, from f(x) = 0, we deduce immediately that x = 1 + 1 (x + 1)2012 < 1 + 1 22012 [S. Mongols.] 6
+> The answer is (B).
+> Consider the polynomial function f(t) = (t −1)(t + 1)2012 −1. For t > 1 this function
+> is increasing, since both functions (t −1) and (t + 1)2012 are increasing, and therefore so is their
+> product. By hypothesis f(x) = 0 while
+> f
+> 
+> 1 +
+> 1
+> 32012
+> 
+> =
+> 1
+> 32012
+> 
+> 1
+> 32012 + 2
+> 
+> −1 <
+> 3
+> 32012 −1 < 0
+> therefore 1 +
+> 1
+> 32012 < x. On the other hand, since we know that x > 1, from f(x) = 0 we immediately deduce
+> x = 1 +
+> 1
+> (x + 1)2012 < 1 +
+> 1
+> 22012
+> [Problem proposed by S. Mongodi.]
+> 6
 
-**Answer:** B
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]], [[method_backward|Working backwards]]
+**Skill:** [[skill_stima|Estimation and approximation]], [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2012_triennio#q20|src_archimede_2012_triennio__Q20]]

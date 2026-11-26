@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca N a due cifre dove la somma di 10^N meno N è divisibile per 170*
+*Interi di due cifre $N$ per cui la somma delle cifre di $10^N - N$ è divisibile per $170$*
 
-> Trova tutti i numeri interi a due cifre $N$ per i quali la somma dei numeri di $10^N - N$ è divisibile da $170$.
+> Trovare tutti gli interi di due cifre $N$ per cui la somma delle cifre di $10^N - N$ è divisibile per $170$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2001#q01|src_bmo1_2001__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo all'interno di un altro; accordi tangenti dal punto esterno; rapporto angolare al punto di contatto*
+*Dimostrare che $\angle QAR = 2\angle XAV$*
 
-> Il cerchio $S$ si trova all'interno del cerchio $T$ e lo tocca a $A$. A partire da un punto $P$ (distinto da $A$) su $T$, gli accordi $PQ$ e $PR$ di $T$ sono tangenti a $S$. Indicare che $\angle QAR = 2\angle XAV$, dove $X$ e $V$ sono i punti in cui $S$ tocca rispettivamente $PQ$ e $PR$.
+> La circonferenza $S$ sta dentro la circonferenza $T$ e la tocca in $A$. Da un punto $P$ (distinto da $A$) su $T$, le corde $PQ$ e $PR$ di $T$ sono tangenti a $S$. Dimostrare che $\angle QAR = 2\angle XAV$, dove $X$ e $V$ sono i punti in cui $S$ tocca rispettivamente $PQ$ e $PR$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2001#q02|src_bmo1_2001__Q02]]
 
 
 
@@ -83,13 +97,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sette tetromino distinte; dimostrano di avere un rettangolo 4x7*
+*Sette tetramini distinti, e se riempiono un rettangolo $4 \times 7$*
 
-> Un tetromino è uno formato da quattro quadrati unitari collegati da bordi comuni.
-> 
-> (i) Se non facciamo distinzione tra le possibili rotazioni di un tetromino, dimostriamo che ci sono sette tetromino distinte.
-> 
-> (ii) Provare o respingere l'affermazione: è possibile confezionare tutti e sette tetromini distinti in un rettangolo $4 \times 7$ senza sovrapposizioni.
+> Un tetramino è formato da quattro quadrati unitari uniti per lati in comune.
+>
+> (i) Se non si distinguono le possibili rotazioni di un tetramino, dimostrare che esistono sette tetramini distinti.
+>
+> (ii) Dimostrare o confutare l'affermazione: è possibile disporre tutti e sette i tetramini distinti in un rettangolo $4 \times 7$ senza sovrapposizioni.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2001#q03|src_bmo1_2001__Q03]]
 
 
 
@@ -114,9 +135,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La sequenza attraverso la ricorrenza di pavimento-sqrt contiene numeri interi consecutivi del 2001*
+*Una successione di 2001 interi consecutivi a partire da un opportuno $n$*
 
-> Definire la sequenza $a_1, a_2, \ldots$ per $$a_1 = n, \quad a_{k+1} = a_k + \left\lfloor \sqrt{a_k} \right\rfloor,$$ in cui $n$ è un intero positivo e $\lfloor x \rfloor$ indica il numero intero più vicino a $x$ inferiore o uguale a $x$; se necessario i numeri interi sono arrotondati. Mostrare che per alcuni interi positivi $n$, i termini $a_1, a_2, \ldots, a_{2001}$ formano una sequenza di interi consecutivi $2001$.
+> Si definisca la successione $a_1, a_2, \ldots$ mediante
+> $$a_1 = n, \quad a_{k+1} = a_k + \left\lfloor \sqrt{a_k} \right\rfloor,$$
+> dove $n$ è un intero positivo e $\lfloor x \rfloor$ indica l'intero più vicino a $x$ che sia minore o uguale a $x$; gli interi si arrotondano per eccesso se necessario. Dimostrare che per qualche intero positivo $n$ i termini $a_1, a_2, \ldots, a_{2001}$ formano una successione di $2001$ interi consecutivi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2001#q04|src_bmo1_2001__Q04]]
 
 
 
@@ -139,6 +169,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo rettangolare se a^2+b^2+c^2 è uguale a 8R^2*
+*Il triangolo è rettangolo se e solo se $a^2 + b^2 + c^2 = 8R^2$*
 
-> Un triangolo ha lati di lunghezza $a$, $b$, $c$ e il suo circoncircolo ha raggio $R$. Prove che il triangolo è rettangolare se e solo se $a^2 + b^2 + c^2 = 8R^2$.
+> Un triangolo ha lati di lunghezza $a$, $b$, $c$ e il suo circocerchio ha raggio $R$. Dimostrare che il triangolo è rettangolo se e solo se $a^2 + b^2 + c^2 = 8R^2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2001#q05|src_bmo1_2001__Q05]]

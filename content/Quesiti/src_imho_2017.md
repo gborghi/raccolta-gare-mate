@@ -31,11 +31,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successione con regola della radice quadrata; determinare n per cui A esiste per infiniti valori di a_0*
+*Successione con regola della radice quadrata; trova n tale che A esista per infiniti a_0*
 
-> Per ogni intero $a_0 > 1$, si definisce la successione $a_0, a_1, a_2, \ldots$ ponendo:
+> Per ogni intero $a_0 > 1$, si definisca la successione $a_0, a_1, a_2, \ldots$ nel modo seguente:
 > $$a_{n+1} = \begin{cases} \sqrt{a_n} & \text{if } \sqrt{a_n} \text{ is an integer,} \\ a_n + 3 & \text{otherwise,} \end{cases} \quad \text{for each } n \ge 0.$$
-> Determinare tutti i valori di $a_0$ per cui esiste un numero $A$ tale che $a_n = A$ per infiniti valori di $n$.
+> Si determinino tutti i valori di $a_0$ per i quali esiste un numero $A$ tale che $a_n = A$ per infiniti valori di $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2017#q01|src_imho_2017__Q01]]
 
 
 
@@ -63,6 +70,13 @@ level: IMO
 
 > Sia $\mathbb{R}$ l'insieme dei numeri reali. Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ tali che, per tutti i numeri reali $x$ e $y$,
 > $$f(f(x)f(y)) = f(x + y).$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2017#q02|src_imho_2017__Q02]]
 
 
 
@@ -93,17 +107,24 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco della caccia tra cacciatore e coniglio sul piano; il cacciatore può garantire che la distanza sia al più 100?*
+*Gioco del cacciatore e del coniglio su un aereo; il cacciatore può garantire una distanza massima di 100?*
 
-> Un cacciatore e un coniglio invisibile giocano una partita nel piano euclideo. Il punto di partenza del coniglio, $B_0$, e il punto di partenza del cacciatore, $A_0$, coincidono. Dopo $n - 1$ turni del gioco, il coniglio si trova nel punto $B_{n-1}$ e il cacciatore si trova nel punto $A_{n-1}$. Nel turno $n^{\text{th}}$ del gioco, avvengono in successione tre cose:
-> 
-> (i) L'asterisco si muove invisibilmente a un punto $B_n$ in modo che la distanza tra $B_{n-1}$ e $B_n$ sia esattamente $1$.
-> 
-> (ii) Un dispositivo di tracciamento segnala al cacciatore un punto $P_n$. L'unico vincolo fornito dal dispositivo di tracciamento al cacciatore è che la distanza tra $P_n$ e $B_n$ è al massimo di $1$.
-> 
-> (iii) Il cacciatore si muove visibilmente a un punto $A_n$ in modo che la distanza tra $A_{n-1}$ e $A_n$ sia esattamente $1$.
-> 
-> È sempre possibile, indipendentemente da come si muova il coniglio e dai punti segnalati dal dispositivo di tracciamento, che la cacciatrice scelga le proprie mosse in modo tale che dopo $10^9$ round possa garantire che la distanza tra lei e il coniglio sia al massimo $100$?
+> Un cacciatore e un coniglio invisibile giocano a un gioco nel piano euclideo. Il punto di partenza del coniglio, $B_0$, e il punto di partenza del cacciatore, $A_0$, coincidono. Dopo $n - 1$ turni del gioco, il coniglio si trova nel punto $B_{n-1}$ e il cacciatore si trova nel punto $A_{n-1}$. Nel $n^{\text{th}}$-esimo turno del gioco, in ordine, accadono tre cose:
+>
+> (i) Il coniglio si sposta in modo invisibile verso un punto $B_n$ tale che la distanza tra $B_{n-1}$ e $B_n$ è esattamente $1$.
+>
+> (ii) Un dispositivo di tracciamento comunica al cacciatore un punto $P_n$. L'unica garanzia fornita al cacciatore dal dispositivo di tracciamento è che la distanza tra $P_n$ e $B_n$ è al più $1$.
+>
+> (iii) Il cacciatore si sposta in modo visibile verso un punto $A_n$ tale che la distanza tra $A_{n-1}$ e $A_n$ è esattamente $1$.
+>
+> È sempre possibile, indipendentemente da come si muove il coniglio e da quali punti vengono comunicati dal dispositivo di tracciamento, che il cacciatore scelga le proprie mosse in modo tale che, dopo $10^9$ turni, possa assicurarsi che la distanza tra sé e il coniglio sia al più $100$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imho_2017#q03|src_imho_2017__Q03]]
 
 
 
@@ -126,9 +147,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Geometria della circonferenza con retta tangente, punto medio e intersezione con la circonferenza circoscritta*
+*Geometria del cerchio con retta tangente, punto medio e intersezione con la circonferenza circoscritta*
 
-> Siano $R$ e $S$ due punti distinti su una circonferenza $\Omega$ tali che $RS$ non sia un diametro. Sia $\ell$ la retta tangente a $\Omega$ nel punto $R$. Sia il punto $T$ tale che $S$ sia il punto medio del segmento $RT$. Sia il punto $J$ situato sull'arco minore $RS$ della circonferenza $\Omega$ in modo che la circonferenza circoscritta $\Gamma$ al triangolo $JST$ intersechi $\ell$ in due punti distinti. Sia $A$ il punto comune tra $\Gamma$ e $\ell$ che si trova più vicino a $R$. La retta $AJ$ incontra nuovamente $\Omega$ nel punto $K$. Si dimostri che la retta $KT$ è tangente a $\Gamma$.
+> Siano $R$ e $S$ punti distinti su una circonferenza $\Omega$ tale che $RS$ non sia un diametro. Sia $\ell$ la retta tangente a $\Omega$ in $R$. Il punto $T$ è tale che $S$ è il punto medio del segmento $RT$. Il punto $J$ giace sull'arco minore $RS$ di $\Omega$ in modo che la circonferenza circoscritta $\Gamma$ del triangolo $JST$ intersechi $\ell$ in due punti distinti. Sia $A$ il punto comune a $\Gamma$ e $\ell$ più vicino a $R$. La retta $AJ$ incontra nuovamente $\Omega$ in $K$. Dimostrare che la retta $KT$ è tangente a $\Gamma$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2017#q04|src_imho_2017__Q04]]
 
 
 
@@ -161,19 +189,26 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Giocatori di calcio in fila; eliminare 2N giocatori rispettando le condizioni di altezza*
+*Calciatori allineati; rimuovi 2N giocatori preservando le condizioni di altezza*
 
-> Si consideri un intero $N \ge 2$. Una collezione di $N(N+1)$ calciatori di pallone, due dei quali non hanno la stessa altezza, si dispongono in fila. Il signor Alex vuole eliminare $N(N-1)$ calciatori da questa fila, lasciando una nuova fila di $2N$ calciatori in cui siano soddisfatte le seguenti $N$ condizioni:
-> 
-> (1) tra i due giocatori più alti non c'è nessun altro in piedi,
-> 
-> (2) nessuno si trova tra il terzo e il quarto giocatore più alto,
-> 
+> È dato un numero intero $N \ge 2$. Un insieme di $N(N+1)$ calciatori, nessuno dei quali ha la stessa altezza di un altro, sta in fila. Sir Alex vuole rimuovere $N(N-1)$ calciatori da questa fila, lasciando una nuova fila di $2N$ calciatori in cui valgono le seguenti $N$ condizioni:
+>
+> (1) nessuno si trova tra i due calciatori più alti,
+>
+> (2) nessuno si trova tra il terzo e il quarto calciatore più alto,
+>
 > $\vdots$
-> 
-> $(N)$ nessuno dei due giocatori più bassi ha qualcun altro tra di loro.
-> 
-> Si dimostri che ciò è sempre possibile.
+>
+> $(N)$ nessuno si trova tra i due calciatori più bassi.
+>
+> Dimostrare che ciò è sempre possibile.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2017#q05|src_imho_2017__Q05]]
 
 
 
@@ -197,7 +232,14 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto primitivo (x,y); insieme finito S di punti primitivi con identità polinomiale somma*
+*Punto primitivo (x,y); insieme finito S di primitivi con identità della somma polinomiale*
 
-> Una coppia ordinata $(x, y)$ di interi si dice punto primitivo se il massimo comun divisore tra $x$ e $y$ è uguale a $1$. Dato un insieme finito $S$ di punti primitivi, si dimostri che esistono un intero positivo $n$ e degli interi $a_0, a_1, \ldots, a_n$ tali che, per ogni $(x, y)$ appartenente a $S$, vale la seguente condizione:
+> Una coppia ordinata $(x, y)$ di interi è detta punto primitivo se il massimo comune divisore di $x$ e $y$ è $1$. Dato un insieme finito $S$ di punti primitivi, dimostrare che esistono un numero intero positivo $n$ e degli interi $a_0, a_1, \ldots, a_n$ tali che, per ogni $(x, y)$ in $S$, si abbia:
 > $$a_0 x^n + a_1 x^{n-1} y + a_2 x^{n-2} y^2 + \cdots + a_{n-1} x y^{n-1} + a_n y^n = 1.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2017#q06|src_imho_2017__Q06]]

@@ -30,9 +30,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valutazione del rapporto fra ottava potenza e quarta potenza*
+*Valore della frazione con ottave e quarte potenze di 1, 2007 e 2008*
 
-> Trova il valore di $$\frac{1^8 + 2007^8 + 2008^8}{1^4 + 2007^4 + 2008^4}.$$
+> Trovare il valore di
+> $$\frac{1^8 + 2007^8 + 2008^8}{1^4 + 2007^4 + 2008^4}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2008#q01|src_bmo1_2008__Q01]]
 
 
 
@@ -57,9 +65,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le soluzioni a numeri interi positivi di un sistema simultaneo*
+*Soluzioni intere positive di $x + y - z = 12$ e $x^2 + y^2 - z^2 = 12$*
 
-> Trova tutte le soluzioni in numeri interi positivi $x, y$ alle equazioni simultanee $$x + y - z = 12$$ $$x^2 + y^2 - z^2 = 12.$$
+> Trovare tutte le soluzioni in interi positivi $x, y$ del sistema
+> $$x + y - z = 12$$
+> $$x^2 + y^2 - z^2 = 12.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2008#q02|src_bmo1_2008__Q02]]
 
 
 
@@ -82,9 +99,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo, perpendicolari da Q, mostrano due triangoli simili*
+*Dimostrare che i triangoli $ABC$ e $BCA$ sono simili*
 
-> $ABC$ sia un triangolo, con un angolo obtuso a $A$. Il $Q$ deve essere un punto (diversi da $A$, $B$, $C$) sul circoncircolo del triangolo, sullo stesso arco di $A$. Il $P$ deve essere l'altra intersezione della linea $BQ$ con il cerchio attraverso $Q$, $A$ e il punto medio di $BC$. Il $N$ deve essere il piede della perpendicolare da $Q$ a $CA$ e il $M$ deve essere il piede della perpendicolare da $Q$ a $AB$. Indicare che i triangoli $ABC$ e $BCA$ sono simili. (Nota: il circoncircolo del triangolo $ABC$ è il cerchio che attraversa i vertici $A$, $B$, $C$.)
+> Sia $ABC$ un triangolo, con un angolo ottuso in $A$. Sia $Q$ un punto (diverso da $A$, $B$, $C$) sulla circonferenza circoscritta al triangolo, sullo stesso arco di $A$. Sia $P$ l'altra intersezione della retta $BQ$ con la circonferenza per $Q$, $A$ e il punto medio di $BC$. Sia $N$ il piede della perpendicolare da $Q$ a $CA$ e $M$ il piede della perpendicolare da $Q$ ad $AB$. Dimostrare che i triangoli $ABC$ e $BCA$ sono simili. (Nota: la circonferenza circoscritta al triangolo $ABC$ è la circonferenza che passa per i vertici $A$, $B$, $C$.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2008#q03|src_bmo1_2008__Q03]]
 
 
 
@@ -107,9 +131,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsieme di 756 elementi dal 1 al 2008, mostrano due elementi con divisibilità*
+*In un sottoinsieme di 756 elementi di $\{1, 2, \ldots, 2008\}$ un elemento ne divide un altro*
 
-> $S$ sia un sottoinsieme del set $\{1, 2, 3, \ldots, 2008\}$ che è composto da 756 membri distinti. Indicare che ci sono due elementi distinti $a$ e $b$ in $S$ in modo tale che $a$ divida $b$.
+> Sia $S$ un sottoinsieme dell'insieme $\{1, 2, 3, \ldots, 2008\}$ formato da 756 elementi distinti. Dimostrare che esistono due elementi distinti $a$, $b$ di $S$ tali che $a$ divide $b$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2008#q04|src_bmo1_2008__Q04]]
 
 
 
@@ -134,9 +165,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto interno in triangolo, tre linee parallele, dimostrare la disuguaglianza del prodotto*
+*Il prodotto dei tre rapporti è al più $1/8$*
 
-> Il punto $P$ deve essere un punto interno del triangolo $ABC$. La linea attraverso $P$ parallela a $AB$ incontra $BC$ a $L$, la linea attraverso $P$ parallela a $BC$ incontra $CA$ a $M$, e la linea attraverso $P$ parallela a $CA$ incontra $AB$ a $N$. Prove che $$\frac{BL}{BC} \cdot \frac{CM}{CA} \cdot \frac{AN}{AB} \le \frac{1}{8},$$ e trova la posizione di $P$ nel triangolo $ABC$ quando l'uguaglianza è valida.
+> Sia $P$ un punto interno del triangolo $ABC$. La retta per $P$ parallela ad $AB$ incontra $BC$ in $L$, la retta per $P$ parallela a $BC$ incontra $CA$ in $M$, e la retta per $P$ parallela a $CA$ incontra $AB$ in $N$. Dimostrare che
+> $$\frac{BL}{BC} \cdot \frac{CM}{CA} \cdot \frac{AN}{AB} \le \frac{1}{8},$$
+> e individuare la posizione di $P$ nel triangolo $ABC$ quando vale l'uguaglianza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2008#q05|src_bmo1_2008__Q05]]
 
 
 
@@ -161,6 +201,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione ricursiva su numeri interi positivi, prove di valori interi, soluzioni di conteggio*
+*Per quanti $n$ si ha $f(n) = 2007$, e per quanti $n \le 2007$ si ha $f(n) = 2n$*
 
-> La funzione $f$ è definita sui numeri interi positivi da $f(1) = 1$, $f(2n) = 2f(n)$ e $f(2n+1) = f(2n) + 1$ per tutti $n \ge 1$. (i) dimostrare che $f(n)$ è sempre un numero intero. (ii) Per quanti integri positivi $n$ è $f(n) = 2007$? E per quanti numeri interi positivi $n \le 2007$ è $f(n) = 2n$?
+> La funzione $f$ è definita sugli interi positivi da $f(1) = 1$, $f(2n) = 2f(n)$ e $f(2n+1) = f(2n) + 1$ per ogni $n \ge 1$.
+> (i) Dimostrare che $f(n)$ è sempre un intero.
+> (ii) Per quanti interi positivi $n$ si ha $f(n) = 2007$? E per quanti interi positivi $n \le 2007$ si ha $f(n) = 2n$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2008#q06|src_bmo1_2008__Q06]]

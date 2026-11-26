@@ -34,11 +34,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum amount to be spent with 3.5,7 coins per 24-day snack
+*The least Andromeda must spend to have the 24 DA snack*
 
-> There are three types of coins denominated in Altair dollars (DA), with a value of 3 DA, 5 DA and 7 DA. Andromeda would like to buy a snack from one of those evil machines that don't give back. With the coins he owns, he could buy a 29 DA snack, but he pays 32 DA, and he can't do it with less. There's a 24-day snack. How much does Andromeda have to spend, at least, to get it?
+> There are three types of coins denominated in Altairian dollars (DA), of value 3 DA, 5 DA and 7 DA. Andromeda would like to buy a snack from one of those wicked machines that do not give change. With the coins she has, she could buy a snack of 29 DA, paying however 32 DA, and she has no way of doing so with less. There is a snack of 24 DA: how much must Andromeda spend, at least, to have it?
 
-**Answer:** 25
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2026_nazionale#q01|src_cesenatico_2026_nazionale__Q01]]
 
 
 
@@ -67,11 +71,15 @@ Minimum amount to be spent with 3.5,7 coins per 24-day snack
 <div class="qlang-split" data-lang="en"></div>
 
 
-*VK distance of top cone sphere greater than 5 cm*
+*The distance VK between the vertex of the cone and the sphere is greater than 5 cm*
 
-![[src_cesenatico_2026_nazionale__prob2.png]]
+> A right hollow cone of crisp wafer is 10 cm high. A sphere of ice cream is introduced into it, centred at a point O of the axis of the cone and tangent to the lateral surface of the cone along the circumference of the base. Let V be the vertex of the cone and K the point of intersection of the segment VO with the surface of the sphere. Prove that the distance VK between the vertex of the cone and the sphere is greater than 5 cm.
 
-> A straight cone and a crunching chalk cable is 10 cm high. A sphere of ice is inserted, centered at a point O of the cone axis and tangent to the lateral surface of the cone along the circumference of the base. Whether V is the top of the cone and K is the intersection point of the VO segment with the surface of the sphere. Show that the VK distance between the top of the cone and the sphere is greater than 5 cm.
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[src_cesenatico_2026_nazionale__prob2.png]]
 
 
 
@@ -99,9 +107,16 @@ Minimum amount to be spent with 3.5,7 coins per 24-day snack
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs n>m with conditions on minimum/maximum first*
+*All pairs of positive integers n > m for which some a equates the least prime divisor of n+a with the least, or with the greatest, prime divisor of m+a*
 
-> (a) Determine all pairs of positive integers n > m with the following property: there exists a positive integer such that the smallest prime dividing n + a coincides with the smallest prime dividing m + a. (b) Determine all pairs of positive integers n > m with the following property: there exists a positive integer such that the smallest prime dividing n + a coincides with the largest prime dividing m + a.
+> (a) Determine all pairs of positive integers n > m with the following property: there exists a positive integer a such that the least prime number that divides n + a coincides with the least prime number that divides m + a.
+> (b) Determine all pairs of positive integers n > m with the following property: there exists a positive integer a such that the least prime number that divides n + a coincides with the greatest prime number that divides m + a.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2026_nazionale#q03|src_cesenatico_2026_nazionale__Q03]]
 
 
 
@@ -131,11 +146,17 @@ Minimum amount to be spent with 3.5,7 coins per 24-day snack
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Demonstrate that AFD and right angle*
+*The angle AFD is a right angle; the angle mark is a broken extraction*
 
-![[src_cesenatico_2026_nazionale__prob4.png]]
+> Let ABC be a triangle with AC > AB, and D the midpoint of the arc BC of the circle circumscribed about ABC that does not contain A. The line perpendicular to AD through B meets the line parallel to AD through C at the point E. The line parallel to AB through E meets AC at the point F.
+> Prove that the angle \
+> AFD is a right angle.
 
-> Whether ABC is a triangle with AC > AB and D the middle point of the arc BC of the circumference circumscribed to ABC not containing A. The line perpendicular to AD passing through B intersects the line parallel to AD passing through C at point E. The line parallel to AB passing through E intersects AC at point F . Demonstrate that the angle \ AFD is straight.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[src_cesenatico_2026_nazionale__prob4.png]]
 
 
 
@@ -162,11 +183,15 @@ Minimum amount to be spent with 3.5,7 coins per 24-day snack
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum distance subset of 1..2026*
+*The greatest number of elements a spaced subset of {1, 2, . . . , 2026} can have*
 
-> A set of positive integers S is said to be distant if it contains no pair of elements the difference of which is one of the numbers 5, 10, 12, 17. For example, {1, 2, 3, 10, 30} is distant, while {1, 2, 3, 11} is not (because 11 −1 = 10). How many elements can have, at most, a distant subset of {1, 2, 3, . . . , 2025, 2026}?
+> A set of positive integers S is called spaced if it contains no pair of elements whose difference is one of the numbers 5, 10, 12, 17. For example, {1, 2, 3, 10, 30} is spaced, while {1, 2, 3, 11} is not (because 11 − 1 = 10). How many elements, at most, can a spaced subset of {1, 2, 3, . . . , 2025, 2026} have?
 
-**Answer:** 646
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2026_nazionale#q05|src_cesenatico_2026_nazionale__Q05]]
 
 
 
@@ -200,10 +225,12 @@ Minimum amount to be spent with 3.5,7 coins per 24-day snack
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The length of the line of musicians exceeds 42 m?*
+*Whether, after enough beats of the bass drum, the line will exceed 42 m in length*
 
-> The band Mostly Harmless consists of nine musicians who perform in an Indian lineup. Initially, the distance between each musician and the next musician is one meter. With each shot of the crab, the first in line advances by a meter. Then, proceeding in order, from the second to the eighth, each musician stands in the middle between the position occupied by the one before him and the position occupied by the one following him. Finally, the ninth, and last, is a meter behind the eighth. To say whether, after a sufficient number of crawling shots, the line will exceed 42 m in length. Italian Mathematics Olympics 2026 - Texts and solutions - Page 1 of 15
-> 
-> Problem 1  Solution Andromeda must spend at least 25 DA.
+> The band "Mostly Harmless" consists of nine musicians proceeding in single file. Initially, the distance between each musician and the next is one metre. At every beat of the bass drum, the first in the line advances one metre. Then, proceeding in order, from the second up to the eighth, each musician places themselves at the midpoint between the position occupied by the one ahead and the position occupied by the one behind. Finally, the ninth, and last, moves to one metre behind the eighth. Say whether, after a sufficient number of beats of the bass drum, the line will exceed 42 m in length.
 
-**Answer:** No, max 37m
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]], [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2026_nazionale#q06|src_cesenatico_2026_nazionale__Q06]]

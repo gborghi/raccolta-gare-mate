@@ -31,9 +31,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Compare i volumi e le superfici di superficie di due tetraedri*
+*Confronta i volumi e le aree delle facce di due tetraedri*
 
-> dimostrare o respingere l'esistenza di due tetraedri $T_1$ e $T_2$ in modo tale che: (i) il volume di $T_1$ sia maggiore di quello di $T_2$, (ii) l'area di una faccia di $T_1$ non superi l'area di una faccia di $T_2$.
+> Dimostrare o confutare l'esistenza di due tetraedri $T_1$ e $T_2$ tali che: (i) il volume di $T_1$ è maggiore di quello di $T_2$, (ii) l'area di una qualunque faccia di $T_1$ non supera l'area di una qualunque faccia di $T_2$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1991_r3#q01|src_pol_1991_r3__Q01]]
 
 
 
@@ -56,9 +63,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i percorsi della reticola tra due punti sull'asse x*
+*Conta i cammini a griglia tra due punti sull'asse x*
 
-> $X$ sia l'insieme di tutti i punti della griglia del piano (punti $(x, y)$ con $x, y \in \mathbb{Z}$). Un percorso $\{p_1, p_2, \ldots, p_k\}$ di punti di $X$ è una catena $(p_1, p_2, \ldots, p_k)$ tale da $|p_{i+1} - p_i| = 1$ per $i = 1, \ldots, k-1$. $F(n)$ è il numero di percorsi distinti dei passi $n$ che iniziano a un punto $P_0$ della linea $y = 0$ e terminano a un punto $P_n$ della linea $y = 0$. Prove che $F(n) = \binom{2n}{n}$.
+> Sia $X$ l'insieme di tutti i punti del reticolo nel piano (punti $(x, y)$ con $x, y \in \mathbb{Z}$). Un percorso $\{p_1, p_2, \ldots, p_k\}$ di punti di $X$ è una catena $(p_1, p_2, \ldots, p_k)$ tale che $|p_{i+1} - p_i| = 1$ per $i = 1, \ldots, k-1$. Sia $F(n)$ il numero di percorsi distinti di $n$ passi che iniziano in un punto $P_0$ sulla retta $y = 0$ e terminano in un qualunque punto $P_n$ sulla retta $y = 0$. Dimostrare che $F(n) = \binom{2n}{n}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_bigezione|Biiezione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1991_r3#q02|src_pol_1991_r3__Q02]]
 
 
 
@@ -83,9 +97,18 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra N non è una quinta potenza di un intero*
+*Mostra che N non è la quinta potenza di un numero intero*
 
-> Definire $$N = \sum_{k=1}^{n} a_k 6^k,$$ dove $a_k \in [-1, 1]$ per ogni $k$. Prova che $N$ non può essere la quinta potenza di un intero.
+> Definisci
+> $$N = \sum_{k=1}^{n} a_k 6^k,$$
+> dove $a_k \in [-1, 1]$ per ogni $k$. Dimostrare che $N$ non può essere la quinta potenza di un numero intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1991_r3#q03|src_pol_1991_r3__Q03]]
 
 
 
@@ -111,9 +134,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Caracterizzare le funzioni su vettori con determinate norme e condizioni di prodotto interno*
+*Caratterizza le funzioni su vettori soggetti a condizioni specificate riguardo alla norma e al prodotto interno*
 
-> Nel piano cartesiano si considera l'insieme $V$ di tutti i vettori con coordinate interi. Determinare tutte le funzioni $f : V \to \mathbb{R}$ che soddisfano le condizioni: (i) $f(v) = 1$ per ciascuno dei quattro vettori $v$ di lunghezza unitaria, (ii) $f(u + v) = f(u) + f(v)$ per ogni due vettori perpendicolari $u, v \in V$. (Nota che il vettore zero è perpendicolare a ogni vettore.)
+> Sul piano cartesiano, si consideri l'insieme $V$ di tutti i vettori a coordinate intere. Determinare tutte le funzioni $f : V \to \mathbb{R}$ che soddisfano le condizioni: (i) $f(v) = 1$ per ciascuno dei quattro vettori $v$ di lunghezza unitaria, (ii) $f(u + v) = f(u) + f(v)$ per ogni coppia di vettori $u, v \in V$ perpendicolari. (Si noti che il vettore nullo è perpendicolare a ogni vettore.)
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1991_r3#q04|src_pol_1991_r3__Q04]]
 
 
 
@@ -136,9 +166,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il diametro di k_1 ha punti terminali sulle linee PA e PB*
+*Il diametro di k_1 ha gli estremi sulle rette PA e PB*
 
-> Due cerchi non congruenti $k_1$ e $k_2$ sono esterni l'uno all'altro. Le loro tangenti esterne comuni intersecano la linea attraverso i loro centri nei punti $A$ e $B$. Il punto $P$ deve essere qualsiasi punto di $k_1$. Prova che esiste un diametro di $k_1$ con un punto di fine sulla linea $PA$ e l'altro punto di fine sulla linea $PB$.
+> Due cerchi non congruenti $k_1$ e $k_2$ sono esterni l'uno all'altro. Le loro tangenti esterne comuni intersecano la retta passante per i loro centri nei punti $A$ e $B$. Sia $P$ un punto qualsiasi su $k_1$. Dimostrare che esiste un diametro di $k_1$ avente un estremo sulla retta $PA$ e l'altro estremo sulla retta $PB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1991_r3#q05|src_pol_1991_r3__Q05]]
 
 
 
@@ -163,6 +200,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza per i reali con la somma dei quadrati uguale a 2*
+*Dimostra la disuguaglianza per i numeri reali con somma dei quadrati uguale a 2*
 
-> Se $x, y, z$ sono numeri reali che soddisfano $x^2 + y^2 + z^2 = 2$, dimostrare la disuguaglianza $$x + y + z \le 2 + xyz,$$ e trovare le condizioni per la parità.
+> Se $x, y, z$ sono numeri reali che soddisfano $x^2 + y^2 + z^2 = 2$, dimostra la disuguaglianza
+> $$x + y + z \le 2 + xyz,$$
+> e trovare le condizioni per l'uguaglianza.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1991_r3#q06|src_pol_1991_r3__Q06]]

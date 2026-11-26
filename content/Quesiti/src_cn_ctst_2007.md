@@ -32,11 +32,18 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti i numeri razionali buoni x=p/q>1*
+*Trovare tutti i buoni numeri razionali x=p/q>1*
 
-> Il numero razionale $x$ è chiamato "buono" se $x = \frac{p}{q} > 1$, dove $p$, $q$ sono integri positivi copriemi, e ci sono $a$ e $N$ in modo tale che per ogni intero $n \geq N$, $$|\{x^n\} - a| < \frac{1}{2(p+q)},$$ dove $\{a\} = a - [a]$, e $[a]$ è il numero intero più grande inferiore o uguale a $a$. Trova tutti i numeri razionali "buoni".
+> Il numero razionale $x$ è detto "buono" se $x = \frac{p}{q} > 1$, dove $p$, $q$ sono interi positivi coprimi, e esistono $a$ e $N$ tali che, per ogni intero $n \geq N$,
+> $$|\{x^n\} - a| < \frac{1}{2(p+q)},$$
+> dove $\{a\} = a - [a]$, e $[a]$ è il più grande intero minore o uguale a $a$. Trovare tutti i numeri razionali "buoni".
 
-**Risposta:** tutti gli interi maggiori di 1
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_ctst_2007#q02|src_cn_ctst_2007__Q02]]
 
 
 
@@ -60,11 +67,16 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max triangoli con tutti i lati >9 tra 63 punti sul raggio di circolo 10*
+*Massimo numero di triangoli con tutti i lati >9 tra 63 punti su una circonferenza di raggio 10*
 
-> Ci sono 63 punti su un cerchio $C$ con raggio 10. $S$ è il numero di triangoli i cui lati sono più grandi di 9 e le cui vertici sono scelte tra i 63 punti. Trova il valore massimo di $S$.
+> Sul cerchio $C$ di raggio 10 ci sono 63 punti. Sia $S$ il numero di triangoli i cui lati sono tutti maggiori di 9 e i cui vertici sono scelti tra i 63 punti. Determinare il valore massimo di $S$.
 
-**Risposta:** 23121
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_cn_ctst_2007#q03|src_cn_ctst_2007__Q03]]
 
 
 
@@ -90,11 +102,18 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le f:Q+→Q+ che soddisfano una determinata equazione funzionale*
+*Trovare tutte le funzioni f:Q+→Q+ che soddisfano l'equazione funzionale data*
 
-> Trova tutte le funzioni $f: \mathbf{Q}^+ \to \mathbf{Q}^+$ in modo tale che $$f(x) + f(y) + 2xyf(xy) = \frac{f(xy)}{f(x+y)},$$ dove $\mathbf{Q}^+ = \{q \mid q \text{ is a positive rational number}\}$.
+> Trovare tutte le funzioni $f: \mathbf{Q}^+ \to \mathbf{Q}^+$ tali che
+> $$f(x) + f(y) + 2xyf(xy) = \frac{f(xy)}{f(x+y)},$$
+> dove $\mathbf{Q}^+ = \{q \mid q \text{ is a positive rational number}\}$.
 
-**Risposta:** $f(x) = \frac{1}{x^2}$
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_ctst_2007#q04|src_cn_ctst_2007__Q04]]
 
 
 
@@ -122,9 +141,21 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazione per massimizzare il prodotto dei punti ponderati dei reali e dei vettori*
+*Permutazione che massimizza il prodotto scalare pesato tra numeri reali e vettori*
 
-> Che $x_1, \cdots, x_n$ ($n \ge 2$) siano numeri reali tali che $$A = \left|\sum_{i=1}^{n} x_i\right| \ne 0$$ e $$B = \max_{1 \le i < j \le n} |x_i - x_j| \ne 0.$$ dimostrino che per ogni vettore $n$ $a_1, \cdots, a_n$ sul piano, esiste una permutazione $(k_1, k_2, \cdots, k_n)$ di $(1, 2, \cdots, n)$ tale che $$\left|\sum_{i=1}^{n} x_{k_i} a_i\right| \ge \frac{AB}{2A+B} \max_{1 \le i \le n} |a_i|.$$
+> Siano $x_1, \cdots, x_n$ ($n \ge 2$) numeri reali tali che
+> $$A = \left|\sum_{i=1}^{n} x_i\right| \ne 0$$
+> e
+> $$B = \max_{1 \le i < j \le n} |x_i - x_j| \ne 0.$$
+> Dimostrare che per ogni insieme di $n$ vettori $a_1, \cdots, a_n$ nel piano, esiste una permutazione $(k_1, k_2, \cdots, k_n)$ di $(1, 2, \cdots, n)$ tale che
+> $$\left|\sum_{i=1}^{n} x_{k_i} a_i\right| \ge \frac{AB}{2A+B} \max_{1 \le i \le n} |a_i|.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_ctst_2007#q05|src_cn_ctst_2007__Q05]]
 
 
 
@@ -148,6 +179,14 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ribbito alla dimensione del set con condizione lcm*
+*Vincolato per dimensione dell'insieme con condizione mcm*
 
-> $n$ sia un intero positivo, impostato $A \subseteq \{1, 2, \cdots, n\}$, e per ogni $a, b \in A$, $\text{lcm}(a, b) \le n$. Provare che $$|A| \le 1.9\sqrt{n} + 5.$$
+> Sia $n$ un numero intero positivo, si ponga $A \subseteq \{1, 2, \cdots, n\}$, e per ogni $a, b \in A$, $\text{lcm}(a, b) \le n$. Dimostrare che
+> $$|A| \le 1.9\sqrt{n} + 5.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_ctst_2007#q06|src_cn_ctst_2007__Q06]]

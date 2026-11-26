@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*On which finger does the count 999 land*
+*On which finger does the count 999 land?*
 
-> On the fingers of one hand, Silvia counted in the following way: 1 thumb, 2 index, 3 middle, 4 ring, 5 little; then she went back: 6 ring, 7 middle, 8 index, 9 thumb. Then she started again: 10 index, 11 middle and so on, until she reached 999. On which finger?
+> On the fingers of one hand, Silvia counted as follows: 1 thumb, 2 index finger, 3 middle finger, 4 ring finger, 5 little finger; then she went back: 6 ring finger, 7 middle finger, 8 index finger, 9 thumb. Then she started again: 10 index finger, 11 middle finger, and so on, until she reached 999. Which finger?
 
-**Answer:** middle
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2025_cadet_finale#qc1|src_kangourou_2025_cadet_finale__QC1]]
 
 
 
@@ -57,11 +62,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total number of lamps on circular track*
+*Total number of streetlights on the circular path*
 
-> A circular park is surrounded by a path lit by lamps. Simona and Tania counted the lamps, but separately, starting from different points and moving both in the same direction. What was the 20th lamp for Simona was the 7th for Tania, what was the 7th for Simona was the 94th for Tania. How many lamps are there in total?
+> A circular park is surrounded by a path lit by street lamps. Simona and Tania counted the street lamps, but separately, starting from different points and both moving in the same direction. The lamp that was the 20th for Simona was the 7th for Tania; the lamp that was the 7th for Simona was the 94th for Tania. How many street lamps are there in total?
 
-**Answer:** 100
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2025_cadet_finale#qc2|src_kangourou_2025_cadet_finale__QC2]]
 
 
 
@@ -85,11 +94,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (a,b) with a+b=283×353 and b divides a*
+*Pairs (a,b) such that a+b=283*353 and b divides a*
 
-> Two positive integers $a$ and $b$ are such that their sum is equal to the product of the two prime numbers 283 and 353. For which pairs $(a, b)$ does $b$ divide $a$?
+> Two positive integers $a$ and $b$ are such that their sum equals the product of the two prime numbers 283 and 353. For which pairs $(a, b)$ does $b$ divide $a$?
 
-**Answer:** three pairs
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2025_cadet_finale#qc3|src_kangourou_2025_cadet_finale__QC3]]
 
 
 
@@ -114,9 +128,13 @@ level: kangourou
 
 *Number of square plots with grid 1172m*
 
-> A rectangular botanical garden measuring $52 \times 24$ metres is divided into square plots all of the same size and all with sides parallel to those of the garden. Inside the garden the plots are separated by fences; the overall length of the fences is 1,172 metres. How many square plots are there?
+> A rectangular botanical garden measuring $52 \times 24$ metres is divided into square plots, all of the same size and all with sides parallel to those of the garden. Within the garden, the plots are separated by grid lines; the total length of the grid lines is 1,172 metres. How many square plots are there?
 
-**Answer:** 312
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2025_cadet_finale#qc4|src_kangourou_2025_cadet_finale__QC4]]
 
 
 
@@ -164,7 +182,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many knight/knave arrangements on a 5x5 grid*
+*How many knight/knave arrangements on a 5x5 grid?*
 
 ![[src_kangourou_2025_cadet_finale__probc5.png]]
 
@@ -188,11 +206,16 @@ level: kangourou
 \end{document}
 ```
 
-> On an island there are only Knights and Knaves: Knights are people who always tell the truth, while Knaves always lie, and everyone on the island knows who the Knights are and who the Knaves are. Today 25 inhabitants of the island are waiting in the King's reception hall. This hall is a square with side 5 meters and is paved with 25 square tiles with side 1 meter, numbered from 1 to 25. Each person waits standing on a tile, one person per tile. While they wait, each of the 25 people declares: "On the tiles adjacent to mine there are as many knaves as knights". How many different arrangements of knights and knaves are possible?
-> 
-> NOTE: Two tiles are adjacent if they share a whole side. Two arrangements are different if, for at least one number, the corresponding tile is occupied in one arrangement by a Knight, in the other by a Knave.
+> On an island, there are only Knights and Scoundrels: Knights are people who always tell the truth, whereas Scoundrels always lie, and everyone on the island knows who the Knights are and who the Scoundrels are. Today, 25 inhabitants of the island are waiting in the King's reception room. This room is a square 5 meters on a side and has a floor made up of 25 square tiles, each 1 meter on a side, numbered from 1 to 25. Each person waits standing on one tile, with only one person per tile. While they wait, each of the 25 people declares: "On the tiles adjacent to mine, there are as many Scoundrels as there are Knights." How many different arrangements of Knights and Scoundrels are possible?
+>
+> NOTE: Two tiles are adjacent if they share an entire side. Two arrangements are different if, for at least one number, the corresponding tile is occupied by a Knight in one arrangement and by a Scoundrel in the other.
 
-**Answer:** 6
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2025_cadet_finale#qc5|src_kangourou_2025_cadet_finale__QC5]]
 
 
 
@@ -217,10 +240,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*longer than the diameter?*
+*Longer than the diameter?*
 
 ![[src_kangourou_2025_cadet_finale__probc6.png]]
 
-> Two points on the circumference of a circle $\Gamma$ are endpoints of an arc $\delta$ of another circle. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$?
+> Two points on the circumference of a circle $\Gamma$ are the endpoints of an arc $\delta$ of another circumference. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$?
 
-**Answer:** Yes
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2025_cadet_finale#qc6|src_kangourou_2025_cadet_finale__QC6]]

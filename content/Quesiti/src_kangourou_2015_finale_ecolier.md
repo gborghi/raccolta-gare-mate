@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many sums*
+*How many sums*
 
-> A strange ATM can only deliver sums of money less than 1000 euros and only with 5, 10, 20 and 50 euro banknotes, all in equal quantities at each withdrawal. How many different amounts of money can be withdrawn from that ATM?
+> A strange ATM can dispense only amounts of money under 1000 euros, and only in 5-, 10-, 20-, and 50-euro notes, with equal quantities of each denomination for every withdrawal. How many different possible amounts of money can be withdrawn from that ATM?
 
-**Answer:** 11
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_finale_ecolier#qe1|src_kangourou_2015_finale_ecolier__QE1]]
 
 
 
@@ -61,15 +66,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Irregular die with conditions on the sum of opposite faces*
+*Irregular dodecahedron with opposite faces having the same sum of conditions*
 
-> In a regular die the sum of the pips shown on two opposite faces is always 7. Amedeo says he has built an irregular die for which all three of the following facts hold:
-> - there are faces with an odd number of pips;
-> - the sum of the pips shown on two opposite faces is 7 if on one of the two there is an odd number of pips;
-> - the sum of the pips shown on two opposite faces is 8 if on one of the two faces there is an even number of pips.
-> Anna does not believe him. If you think Amedeo is right, indicate one of the dice he could have built; if you think Anna is right not to believe him, explain why.
+> On a fair die, the sum of the dots on two opposite faces is always 7. Amedeo says he built an unfair die for which all of the following three facts hold:
+> - There are faces with an odd number of dots;
+> - The sum of the dots on two opposite faces is 7 if one of the two faces has an odd number of dots;
+> - The sum of the dots on two opposite faces is 8 if one of the two faces has an even number of dots.
+> Anna doesn't believe him. If you think Amedeo is right, indicate one of the dice he could have built; if you think Anna is right not to believe him, explain why.
 
-**Answer:** Anna is right
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_finale_ecolier#qe2|src_kangourou_2015_finale_ecolier__QE2]]
 
 
 
@@ -94,13 +103,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*train crossing conditions*
+*Train crossing conditions*
 
 ![[src_kangourou_2015_finale_ecolier__probe3.png]]
 
-> Kang is a station on a single track line. In the figure, you can see the Kang track pattern, each of which has a length: the running track is the top track, while the bottom track starts and ends with two "dead-end" tracks. All trains running on the line are made up of a locomotive, which is at the head, and some carriages: the length of each locomotive and carriage is 19 meters. What are the least restrictive conditions to be imposed on the composition of two trains in order to cross at Kang? Please note that all types of maneuvers (especially trains may reverse) and signalling compatible with the station layout are allowed, but not the breaking of trains into groups of carriages. (see figure)
+> Kang is a station on a single-track line. In the figure, you can see the track layout at Kang, with the length of each track indicated: the running track is the upper one, while the lower track begins and ends with two "dead" sections. All trains running on the line consist of a locomotive at the front and several carriages; each locomotive and each carriage is 19 metres long. What are the least restrictive conditions to impose on the composition of two trains so that they can pass each other at Kang? Bear in mind that any kind of shunting maneuver (in particular, trains may reverse) and any signaling compatible with the station layout are permitted, but trains may not be split into groups of carriages. (see figure)
 
-**Answer:** max 9 carriages
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_finale_ecolier#qe3|src_kangourou_2015_finale_ecolier__QE3]]
 
 
 
@@ -123,11 +136,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*first or second?*
+*First or second?*
 
-> Sandro and Paolo play the following game. There are 8 tokens on the table: you play it in turns and when it's your turn, you can take 1, 2 or 3 tokens: the last one who can take any tokens wins. Sandro wants to win at any cost. Should he play first or let Paul start?
+> Sandro and Paolo play the following game. There are 8 tokens on the table: they take turns, and on one's turn, one can remove 1, 2, or 3 tokens; the last person to manage to take some tokens wins. Sandro wants to win at all costs: is it to his advantage to go first, or should he let Paolo start?
 
-**Answer:** second (Paolo starts)
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_finale_ecolier#qe4|src_kangourou_2015_finale_ecolier__QE4]]
 
 
 
@@ -150,11 +167,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*trials for potatoes*
+*Attempts for chips*
 
-> Cecilia, who wants some potatoes, is in front of three identical vending machines: one for candy, one for potatoes, one for biscuits. She can't see the inside of any of the three, but she's told that the label on the product, applied to each of the three, is wrong for each of the three. Cecilia observes a gentleman in front of her who, putting a coin in one of the vending machines, gets candy. How many tries will she have to make to get the potatoes?
+> Cecilia, who wants some crisps, is in front of three identical vending machines: one for sweets, one for crisps, and one for biscuits. She cannot see inside any of the three, but she has been told that the label indicating the product inside, affixed to each of the three, is wrong for each of them. Cecilia observes a gentleman in front of her who, after inserting a coin into one of the machines, gets some sweets. How many attempts will she have to make to get the crisps?
 
-**Answer:** on the first try
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_finale_ecolier#qe5|src_kangourou_2015_finale_ecolier__QE5]]
 
 
 
@@ -178,8 +199,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many times does the last one caw in an hour*
+*How many times does the last one caw in an hour?*
 
-> 51 crows are lined up on a suspended electric wire. When (and only when) one of them caws, its right-hand neighbor and its left-hand neighbor (or only one of the two, in the case where the crow is at one of the two ends) take flight and after exactly one minute they return to the place where they were and caw in turn. The first crow in the row starts cawing. After exactly one hour from this first caw, how many times will the last crow have cawed?
+> 51 crows are lined up on a suspended power line. When (and only when) one of them caws, its right-hand neighbor and its left-hand neighbor (or only one of the two, if the crow is at one of the two ends) take flight and, exactly one minute later, return to the spot where they were and caw in turn. The first crow in the line starts to caw. Exactly one hour after this first caw, how many times will the last crow have cawed?
 
-**Answer:** 6
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_finale_ecolier#qe6|src_kangourou_2015_finale_ecolier__QE6]]

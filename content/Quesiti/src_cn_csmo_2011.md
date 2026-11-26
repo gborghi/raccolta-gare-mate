@@ -33,13 +33,20 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'intervallo di b e il valore di un dato minimo di una funzione razionale pari a 3*
+*Trovare l'intervallo di b e il valore di a, dato che il minimo di una funzione razionale è uguale a 3*
 
-> Se $\displaystyle\min_{x\in\mathbf{R}} \frac{ax^2+b}{\sqrt{x^2+1}} = 3$, trovare
-> 
-> (1) l'intervallo di $b$;
-> 
-> (2) il valore di $a$ per un dato $b$. (Posizionato da Lu Xingjiang)
+> Se $\displaystyle\min_{x\in\mathbf{R}} \frac{ax^2+b}{\sqrt{x^2+1}} = 3$, determinare
+>
+> (1) l'insieme dei valori di $b$;
+>
+> (2) il valore di $a$ per il dato $b$. (proposto da Lu Xingjiang)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_csmo_2011#q01|src_cn_csmo_2011__Q01]]
 
 
 
@@ -63,11 +70,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i numeri interi positivi copriemi con divisibilità reciproca di somma cubica*
+*Trovare tutti gli interi positivi coprimi aventi la proprietà che la somma dei cubi di ciascun numero è divisibile per l'altro*
 
-> $a$, $b$ e $c$ siano integri positivi copriemi in modo che $a^2 \mid (b^3 + c^3)$, $b^2 \mid (a^3 + c^3)$ e $c^2 \mid (a^3 + b^3)$ siano. Trova i valori di $a$, $b$ e $c$. (postato da Yang Xiaoming)
+> Siano $a$, $b$ e $c$ numeri interi positivi coprimi, in modo che $a^2 \mid (b^3 + c^3)$, $b^2 \mid (a^3 + c^3)$ e $c^2 \mid (a^3 + b^3)$. Determinare i valori di $a$, $b$ e $c$. (proposto da Yang Xiaoming)
 
-**Risposta:** $(a,b,c)=(1,1,1),(1,2,3),(1,3,2),(2,1,3),(2,3,1),(3,1,2),(3,2,1)$
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2011#q02|src_cn_csmo_2011__Q02]]
 
 
 
@@ -90,9 +102,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le n in modo che ogni sottoinsieme di 35 elementi di {1,...,50} contenga a,b con a+b=n o a-b=n*
+*Trovare tutti gli n tali che ogni sottoinsieme di 35 elementi di {1,...,50} contenga a,b con a+b=n oppure a-b=n*
 
-> Indicare $M = \{1, 2, 3, \ldots, 50\}$. Trova tutti gli integri positivi $n$ in modo che ci siano almeno due elementi diversi $a$ e $b$ in qualsiasi sottoinsieme con 35 elementi di $M$, come $a + b = n$ o $a - b = n$. (Posizionato da Li Shenghong)
+> Sia dato l'insieme $M = \{1, 2, 3, \ldots, 50\}$. Trovare tutti gli interi positivi $n$ tali che, in ogni sottoinsieme di 35 elementi di $M$, vi siano almeno due elementi distinti $a$ e $b$ tali che $a + b = n$ oppure $a - b = n$. (proposto da Li Shenghong)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_csmo_2011#q03|src_cn_csmo_2011__Q03]]
 
 
 
@@ -117,11 +136,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La linea incontra i lati del triangolo circoncircolare ai punti intermedi di BN, CM, E, F; prova angolo EOF = angolo A*
+*La retta incontra i lati del triangolo circoscritto nei punti M, N; E, F sono i punti medi di BN, CM; dimostrare che l'angolo EOF è uguale all'angolo A*
 
-> Supponiamo che una linea che attraversa il circoncircolo $O$ di $\triangle ABC$ incroci $AB$ e $AC$ rispettivamente nei punti $M$ e $N$, e $E$ e $F$ siano i punti di mezzo di $BN$ e $CM$, rispettivamente. Prova che $\angle EOF = \angle A$. (Posizionato da Tao Pingheng)
+> Supponiamo che una retta passante per la circonferenza circoscritta $O$ di $\triangle ABC$ intersechi $AB$ e $AC$ nei punti $M$ e $N$, rispettivamente, e che $E$ e $F$ siano i punti medi di $BN$ e $CM$, rispettivamente. Dimostrare che $\angle EOF = \angle A$. (proposto da Tao Pingheng)
 
 ![[src_cn_csmo_b11_w293__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_csmo_2011#q04|src_cn_csmo_2011__Q04]]
 
 
 
@@ -146,11 +172,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I bisettori angolari del triangolo definiscono tre punti di intersezione collineari tramite Ceva/Menelaus*
+*Le bisettrici angolari di un triangolo definiscono tre punti d'intersezione collineari tramite Ceva/Menelao*
 
-> I bisetti angolari di $\triangle ABC$ siano $AA_1$, $BB_1$ e $CC_1$. Lasciate che $A_2 \in BB_1$ e $A_3 \in CC_1$, dove $A_2$ e $A_3$ si trovano rispettivamente su $AC$ e $AB$, e lasciate che la linea $A_2A_3$ si intersechi $BC$ a $A_3'$. I punti $B_3'$ e $C_3'$ sono ottenuti in modo simile. Provare che i punti $A_3'$, $B_3'$, $C_3'$ sono collineari. (posta da Tao Pingsheng)
+> Siano $AA_1$, $BB_1$ e $CC_1$ le bisettrici angolari di $\triangle ABC$. Siano $A_2 \in BB_1$ e $A_3 \in CC_1$, dove $A_2$ e $A_3$ giacciono rispettivamente su $AC$ e $AB$, e sia la retta $A_2A_3$ a intersecare $BC$ in $A_3'$. I punti $B_3'$ e $C_3'$ si ottengono in modo analogo. Dimostrare che i punti $A_3'$, $B_3'$, $C_3'$ sono allineati. (proposto da Tao Pingsheng)
 
 ![[src_cn_csmo_b11_w293__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_csmo_2011#q05|src_cn_csmo_2011__Q05]]
 
 
 
@@ -173,9 +206,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova la somma delle distanze da n punti a qualsiasi punto del segmento AB non supera il massimo delle somme fino ai punti terminali*
+*Dimostrare che la somma delle distanze da n punti a un qualunque punto del segmento AB non supera il massimo tra le somme delle distanze ai punti estremi*
 
-> Dato che i punti $n$ $P_1, P_2, \ldots, P_n$ su un piano, $M$ deve essere qualsiasi punto sul segmento $AB$ sul piano. Indicare con $|P_i M|$ la distanza tra $P_i$ e $M$, $i = 1, 2, 3, \ldots, n$. Prove che $$\sum_{i=1}^{n} |P_i M| \leq \max\!\left\{\sum_{i=1}^{n} |P_i A|,\; \sum_{i=1}^{n} |P_i B|\right\}.$$ (posato da Jin Mengwei)
+> Dati $n$ punti $P_1, P_2, \ldots, P_n$ in un piano, sia $M$ un punto qualsiasi del segmento $AB$ nel piano. Si indichi con $|P_i M|$ la distanza tra $P_i$ e $M$, $i = 1, 2, 3, \ldots, n$. Dimostrare che $$\sum_{i=1}^{n} |P_i M| \leq \max\!\left\{\sum_{i=1}^{n} |P_i A|,\; \sum_{i=1}^{n} |P_i B|\right\}.$$ (proposto da Jin Mengwei)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_csmo_2011#q06|src_cn_csmo_2011__Q06]]
 
 
 
@@ -198,9 +238,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza definita da ricorrenza; dimostrare a_n + 2a_{n+2} è sempre un quadrato perfetto*
+*Successione definita per ricorrenza; dimostrare che a_n + 2a_{n+2} è sempre un quadrato perfetto*
 
-> Supponiamo che la sequenza $\{a_n\}$ sia definita da $a_1 = a_2 = 1$, $a_n = 7a_{n-1} - a_{n-2} + n$ per $n \geq 3$. Prova che $a_n + 2a_{n+2}$ è un quadrato perfetto per qualsiasi intero positivo $n$. (posta da Tao Pingsheng)
+> Supponiamo che la successione $\{a_n\}$ sia definita da $a_1 = a_2 = 1$, $a_n = 7a_{n-1} - a_{n-2} + n$ per $n \geq 3$. Dimostrare che $a_n + 2a_{n+2}$ è un quadrato perfetto per ogni numero intero positivo $n$. (proposto da Tao Pingsheng)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2011#q07|src_cn_csmo_2011__Q07]]
 
 
 
@@ -224,8 +271,13 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colore 12 punti di faccia dell'orologio in 4 colori; trovare i più grandi n quadrilaterali convexi senza colore condiviso tra i tre*
+*Colora i 12 punti del quadrante dell'orologio con 4 colori; trova i n quadrilateri convessi più grandi tali che, tra tre qualsiasi di essi, nessun colore sia condiviso*
 
-> Considerate 12 cifre sulla faccia dell'orologio come 12 punti. Colorateli in quattro colori: rosso, giallo, blu e verde. Ogni colore è usato per tre punti. Configurare i quadrilaterali convexi con vertici in questi punti in modo che ogni quadrilaterale abbia un vertice di ogni colore. Trova il numero più grande $n$ di tali quadrilaterali in modo tale che tra tutti e tre di questi quadrilaterali non ci sia vertice dello stesso colore nella stessa posizione. (posta da Tao Pingsheng)
+> Si considerino 12 figure sul quadrante dell'orologio come 12 punti. Si colorino con quattro colori: rosso, giallo, blu e verde. Ogni colore viene usato per tre punti. Si costruiscano quadrilateri convessi i cui vertici siano questi punti, in modo che ciascun quadrilatero abbia un vertice di ciascun colore. Si determini il numero massimo $n$ di tali quadrilateri tale che, tra qualsiasi tre di questi quadrilateri, non vi sia alcun vertice dello stesso colore nella stessa posizione. (proposto da Tao Pingsheng)
 
-**Risposta:** 9
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_csmo_2011#q08|src_cn_csmo_2011__Q08]]

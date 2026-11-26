@@ -34,11 +34,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiple self-reference years up to 2010*
+*Self-referential multiples of years up to 2010*
 
-> The Scumm BarTM At dawn on May 8, 1726, Jack Disparrow, Bourbakossa and Elizabeth Somm sit drunk at a bar table, when a naive young man shows up who says he knows that in order to become a π-rate he must turn to the three π-rates in that bar. Between the serious and the factual, the three friends ask him a pirate question: How many years from now to 2010 are multiple of the answer to this question?
+> The Bar ScummTM
+> At dawn on May 8, 1726, Jack Disparrow, Bourbakossa, and Elizabeth Somm are sitting drunk at a bar table when a young man with an innocent air shows up and says he has heard that, to become a π-rat, he must approach the three π-rats with imposing looks at that bar. Half-seriously and half-jokingly, the three friends put a pirate-style question to him: "How many years from now until 2010 are multiples of the answer to this question?"
 
-**Answer:** 0017
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_finale#q01|src_gas_2010_finale__Q01]]
 
 
 
@@ -66,11 +72,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total participants from n,m roots of the quadratic equation*
+*Total number of participants from the n,m roots of a quadratic equation*
 
-> In the epic clash between theπ-rate fleet and that of the East India Company, as will be told for generations, the n ships led by Captain Jack Disparrow defeated the m ships of Lord Bracket's fleet, where n and m are the solutions of the x2 −126x + 3293 = 0. Knowing that each of Disparrow's ships hadπ-rates and that each of the Company's ships had military personnel, how many in all took part in the encounter?
+> Battle between the fleets
+> In the epic clash between the fleet of the π-rats and that of the East India Company—as will be told for generations—the n ships led by Captain Jack Disparrow defeated the m ships of Lord Bracket's fleet, where n and m are the solutions of the equation x² − 126x + 3293 = 0. Knowing that on each of Disparrow's n ships there were n π-rats and that on each ship of the Company there were m soldiers, how many in total took part in the clash?
 
-**Answer:** 9290
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gas_2010_finale#q02|src_gas_2010_finale__Q02]]
 
 
 
@@ -100,11 +112,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
+*Ways to arrange 28 bottles on 7 shelves with totals that are not multiples of 3*
 
-> The bloody Bourbakossa is surprisingly also an aesthetic end and wants to put order in his basement after Jack's passing. He has 28 identical bottles of rum, which he wants to place on the 7 shelves of his cabin so that: there is a different number for each shelf and for each n = 1,2,...,7 the total number of bottles on the first n shelves is not multiple by 3. How many different ways can you fill shelves so that none of them are empty?
+> π-rata, noble and pure aesthete
+> The bloodthirsty Bourbakossa is surprisingly also a refined aesthete and wants to put order in his cellar after Jack's visit. He owns 28 identical bottles of rum, which he wants to arrange on the 7 shelves of his cabin so that: each shelf holds a different number of bottles, and for each n = 1,2,...,7, the total number of bottles on the first n shelves is not a multiple of 3. In how many different ways can he fill the shelves so that none of them is empty?
 
-**Answer:** 0360
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_finale#q03|src_gas_2010_finale__Q03]]
 
 
 
@@ -132,11 +150,17 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total of integers equal to the square of the sum of their digits*
+*Integers equal to the square of the sum of their digits*
 
-> Some rats have been imprisoned by cannibals in a cage that hangs in the middle of a cage and is tied to a long rope. To escape, they have to swing the rope to the wall of the canyon. Elizabeth calculates that the number of oscillations needed is the sum of the positive integers that are equal to the square of the sum of their digits. How many oscillations will he have to make if his calculations are correct?
+> The Pendulum of Salvation
+> Some π-rats have been imprisoned by cannibals in a cage that hangs in the middle of a ravine and is tied to a long rope. To escape, they must swing the rope until they reach the wall of the ravine. Elizabeth calculates that the number of swings required is the sum of the positive integers that are equal to the square of the sum of her digits. How many swings will they have to make if her calculations are correct?
 
-**Answer:** 0082
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2010_finale#q04|src_gas_2010_finale__Q04]]
 
 
 
@@ -172,13 +196,19 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of 4-digit numbers with constraints on sums and even digits*
+*Sum 4-digit numbers with constraints on sums and digit parity*
 
-> Music piracy Allπ-rates love music, but those who are truly purists don't want to pay for it, and they just navigate until they find the opportunity to download it illegally (from captured ships! That you understood!). Jack is on the trail of a shipment of 3-man Pirate Menestrelli and to know where to intercept the ship carrying them he must find all the four-digit numbers such as:
-> 
-> 2/4 Team competition 2010  National Final  Problem texts the sum of the first and third digits is equal to the sum of the second and fourth digits and is equal to 9; there are no two odd numbers nearby; the first digit (i.e. the thousand) is less than the second and fourth. The sum of all the numbers satisfying these requirements represents the loading coordinates. Determine that amount.
+> Music piracy
+> All π-rats love music, but the truly purist ones don't want to pay for it; they just "surf" until they find a good opportunity to "download" it illegally (from captured ships! That's what you'd thought!). Jack is on the trail of a cargo of Pirate Minstrels 3-mendi, and to find out where to intercept the ship carrying them, he must find all four-digit numbers such that: Team Competition 2010 – National Final – Problem Statements – 1/4
+>
+> 2/4 2010 Team Competition – National Final – Problem Statements: the sum of the first and third digits equals the sum of the second and fourth digits and equals 9; no two odd digits are adjacent; the first digit (i.e., the thousands digit) is less than the second and fourth digits. The sum of all numbers that satisfy these requirements represents the coordinates of the cargo to be looted. Determine this sum.
 
-**Answer:** 7920
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_finale#q05|src_gas_2010_finale__Q05]]
 
 
 
@@ -207,11 +237,16 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum round trip time with different speeds*
+*Maximum round-trip running time at different speeds*
 
-> Before he became a formidable rat, amateur swordsman and gunner Will Turing trained himself every day from his shop in the uptown downtown to the pier, 5km away, then back down the same road. Will explains to Elizabeth that on the plane the average speed of his race was 20 km/h; on the downhill he jumped to an average of 30 km/h, while on the climb (pant...pant...) he could only do the 15 km/h average. Will challenged Elizabeth to guess how long it took her to run her race every day. At most, how many seconds could it be?
+> The morning run
+> Before becoming a fearsome π-rat, the gunsmith and amateur swordsman Will Turing used to keep fit by jogging every day from his shop in the upper town all the way down to the quay, 5 km away, and then returning by the same route. Will explains to Elizabeth that on the flat sections, his average running speed was 20 km/h; on the downhill sections, he would hurtle along until he reached an average speed of 30 km/h, whereas uphill (pant... pant...) he managed only an average of 15 km/h. Will challenges Elizabeth to guess how long his daily jog took. At most, how many seconds could it have been?
 
-**Answer:** 1800
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gas_2010_finale#q06|src_gas_2010_finale__Q06]]
 
 
 
@@ -240,11 +275,17 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weekly minutes in which a compass needle points north*
+*Weekly minutes during which the compass needle points north*
 
-> Jack Disparrow's compass almost never points north. At midnight on a certain day, the compass points north and starts moving by following this algorithm: every 5 minutes the ago suddenly moves forward by 90 degrees and then returns just as instantly back by a number of degrees equal to 6 times the number of minutes passed until that time starting to count from midnight. For how many minutes over the course of a week does the compass point exactly north?
+> The Crazy Compass
+> Jack Sparrow's compass almost never points north. At midnight on a given day, the compass points north and begins to move according to this algorithm: every 5 minutes, the needle suddenly swings forward by 90 degrees and then just as instantly swings back by a number of degrees equal to 6 times the number of minutes that have elapsed up to that point, counting from midnight. For how many minutes over the course of a week does the compass point exactly north?
 
-**Answer:** 1680
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_finale#q07|src_gas_2010_finale__Q07]]
 
 
 
@@ -271,11 +312,17 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of 5 square tables with 12 seats without rotation*
+*Number of tables of 5 squares with 12 seats, less than rotations*
 
-> Sargassi Osteria The π-rates of Perla Vera are dining at the Sargassi Osteria; they want to combine 5 square tables (making them match sides) so that they have a single table with 12 seats. (A place corresponds to a free side of a square). How many tables meet the requirements, considering as distinct two tables that are not rotational (but not symmetrical)?
+> Osteria dei Sargassi
+> The I π-rati of the True Pearl are having dinner at the Sargassi Inn; they want to join 5 square tables (by making some of their sides coincide) so as to have a single table arrangement with 12 seats. (One seat corresponds to one free side of a square.) How many table arrangements satisfy the requirements, considering two table arrangements to be distinct if they differ by less than a rotation (but not by a symmetry)?
 
-**Answer:** 0016
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2010_finale#q08|src_gas_2010_finale__Q08]]
 
 
 
@@ -307,11 +354,17 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product a×b with added regular polygons and minimum angle*
+*Product a*b with added regular polygons and minimum angle*
 
-> At the World Perimeter Bourbakossa has finally managed to extract the World Perimeter Map from the π-rat Sao Feng and is studying it comfortably on his ship. By rotating and moving the various moving parts of the Map, Bourbakossa makes a regular hexagon appear. He then adds all the regular pentagons he can to it externally, so that they all have a side in common with the figure above, without overlapping; he repeats the procedure on the pentagons by appearing all the possible squares, and on the squares by adding all the possible equilateral triangles, always so that there are no overlapping with what has already been built. Both the number of regular polygons that make up the final figure and b the degree measure of the smallest non-zero angle that is formed between any two sides with a common vertex. How much is ab worth?
+> To the Perimeter of the World
+> Bourbakossa has finally managed to snatch the Map of the World's Perimeter from the π-rat Sao Feng and is now studying it comfortably on his vessel. By rotating and moving the various movable pieces of the Map, Bourbakossa makes a regular hexagon appear. He then adds to its exterior all the regular pentagons he can, so that each pentagon shares one side with the preceding figure and none of the pentagons overlap; he repeats the procedure with the pentagons, making all the possible squares appear, and with the squares, adding all the possible equilateral triangles, always ensuring that there are no overlaps with what has already been constructed. Let a be the number of regular polygons that make up the final figure, and let b be the measure in degrees of the smallest non-zero angle formed between any two sides that share a vertex. What is the value of ab?
 
-**Answer:** 0444
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2010_finale#q09|src_gas_2010_finale__Q09]]
 
 
 
@@ -341,11 +394,19 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mean of base 10 of the digits on base 5*
+*Mean of base-5 pandigital numbers in base 10*
 
-> For an extra hand Due to continuous duels, the likelihood that anπ-rat will lose a hand in a fight is extremely high. For this reason, in the π-rate community the decimal numbering base is replaced by the numbering base 5. Ragetti, the guy with the wooden eye is playing the following game: he writes on a sheet all the numbers that, on base 5, are written using once and only once all the numbers from 0 to 4 (the 0 can also be in the initial position). Finally, calculate the average of all the numbers you wrote. What number did you get, base 10? 14 Less easy pieces
+> For an extra hand
+> Due to the constant duels, the probability that a π-rat will lose a hand in a fight is extremely high. For this reason, within the π-rat community, the decimal number system is replaced by a number system in base
+> 5. Ragetti, the wheelwright with the wooden eye, is playing the following game: he writes on a sheet all the numbers that, based on
+> 5. They are written using all the digits from 0 to 4 exactly once (0 can also be in the initial position). Finally, calculate the average of all the numbers you have written. What number did you get in base 10? 14 Less Easy Pieces
 
-**Answer:** 1562
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_finale#q10|src_gas_2010_finale__Q10]]
 
 
 
@@ -381,13 +442,17 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expected value of multiple cards of 7 before red*
+*Expected value of multiple 7s before the red one*
 
-> Who's looking for favors from Davy Jensen? The cursed Davy Jensen rat has a purse containing 90 white tiles of the tomb (numbered 1 to 90), plus 1 single red card of blood. Whoever asks him for his favors, to know how many years he can enjoy them, submits to the following game: he draws the cards randomly one at a time, until the red card comes out. If you play, you'll have the favorites for so many years as are the white cards with a multiple of 7 that came out before the red one. Bill Turing, who observes from a different angle, wonders how many years you've been doing this on average. Jack doesn't understand exactly what his colleague π-rate means, but his son Will, who studied, explains that among the many ways to define the average number of years won (all leading to the same result) the most common is the sum of the numbers k · pk where, for every natural number 0 ≤k ≤12, pk is the probability that the years won are k. What's the average number of years won? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
-> 
-> Team competition 2010  National final  Problem tests 3/4
+> Who seeks Davy Jensen's favors? The cursed π-rat Davy Jensen has a bag containing 90 white bingo tiles (numbered from 1 to 90), plus 1 single blood-red tile. Anyone who asks him for his favors, in order to find out for how many years they will be able to enjoy them, must take part in the following game: they draw the tiles at random, one at a time, until the red tile comes up. The person playing will enjoy the favors for as many years as the number of white tiles bearing a multiple of 7 that come up before the red tile. Bill "Fire-Spitter" Turing, who is watching from the sidelines, wonders on average how many years are won in this way. Jack doesn't quite understand what his π-rat colleague means, but his son Will, who has studied, explains to him that among the many ways of defining the average number of years won (all of which lead to the same result), the most common one is the sum of the numbers k · pk, where, for each natural number 0 ≤ k ≤ 12, pk is the probability that the number of years won is k. What is the average number of years won? [As the result, provide the product of the numerator and denominator of the fraction reduced to lowest terms]
+>
+> 2010 Team Competition – National Final – Problem Statements 3/4
 
-**Answer:** 0006
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_finale#q11|src_gas_2010_finale__Q11]]
 
 
 
@@ -416,11 +481,17 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*QRP angle from external beacons with SP=PR=RT*
+*Angle QRP formed by external bisectors with SP=PR=RT*
 
-> The mouth of the Cramer No one knows exactly how the mouth of the Cramer is made (at least no one has lived to tell it). But there's a legend about a particular triangular shape. In the PQR triangle both QR < PR < PQ and S are the intersection between the outer-angle intersection in P and the QR straight. In addition, T is the intersection between the outer angle beam in R and the straight PQ. Knowing that SP = PR = RT, find out how long the angle Q ˆRP is. Answer in arc minutes. (One minute of arc is 1/60 of a degree.)
+> Cramer's Mouth
+> No one knows exactly what Cramer's mouth looks like (at least no one lived long enough to tell the tale). A legend, however, speaks of a particular triangular shape... In triangle PQR, let QR < PR < PQ, and let S be the intersection of the bisector of the exterior angle at P and the line QR. Let T also be the intersection of the bisector of the exterior angle at R and the line PQ. Given that SP = PR = RT, find the measure of angle Q̂RP. Answer in arcminutes. (One arcminute is 1/60 of a degree.)
 
-**Answer:** 7920
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2010_finale#q12|src_gas_2010_finale__Q12]]
 
 
 
@@ -450,11 +521,17 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of bets won in succession a(n+1)=2a(n)+2n-1*
+*Sum obtained in succession of terms a(n+1)=2a(n)+2n-1*
 
-> Will Turing never lowered his defeat in a duel with Jack Disparrow when they met. Every year, for 40 years, they meet and duel, both bet the same amount of money, and in the end one of the two wins and gets the whole plate. The first year the bet is a1 = 2010 doubles, then the following years bet a sum of money given by the formula an+1 = 2an +2n−1 where n = 1,..,39. At the end of this big 40-game challenge, Will is the one who has won the most doubles, but Jack is still happy because he lost the least possible. How many doubles has Will won?
+> Raise the stakes
+> Will Turing never got over his defeat in the duel with Jack Disparrow when they first met. Every year for 40 years, they meet and duel: both stake the same amount of money, and in the end one of them wins and takes the whole pot. In the first year, the stake is a1 = 2010 doubloons; in the following years, they stake an amount given by the formula an+1 = 2an + 2n−1, where n = 1, ..., 39. At the end of this great challenge of 40 duels, Will is the one who has won the most doubloons, but Jack is still happy because he lost as little as possible. How many doubloons did Will win?
 
-**Answer:** 3531
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gas_2010_finale#q13|src_gas_2010_finale__Q13]]
 
 
 
@@ -483,11 +560,17 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diameter of sphere with two orthogonal circles tangent to two points*
+*Diameter of a sphere with two orthogonal circles tangent at two points*
 
-> Anti-Cramer talisman Jack is increasingly terrified of Cramer, who hears his presence everywhere and searches relentlessly for his ship. The voodoo lady Tria Geome, using her Geomystic powers, will help him build a talisman that can keep the creature away. He explains that he will have to make a ball of clay on whose surface he will have to draw two mystical circles. These circumferences shall have a diameter of 50 and 36 cm, shall lie on straight planes, and shall be touched at two points 14 cm apart. How many millimeters will you have to measure the diameter of the clay sphere?
+> The Anti-Cramer Talisman
+> Jack is increasingly terrified of Cramer; he senses Cramer's presence everywhere and ceaselessly searches for Cramer's ship. The voodoo lady Tria Geome, using her Geomistic powers, will help him create a talisman that can keep the creature at bay. She explains to him that he will have to make a clay sphere and draw two mystical circles on its surface. These circles must have diameters of 50 and 36 cm, must lie in mutually perpendicular planes, and must touch at two points 14 cm apart. How many millimeters must the diameter of the clay sphere measure?
 
-**Answer:** 0600
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2010_finale#q14|src_gas_2010_finale__Q14]]
 
 
 
@@ -516,11 +599,17 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies expressed as [2x]+[4x]+[8x]+[12x]*
+*Count of integers expressible as [2x]+[4x]+[8x]+[12x]*
 
-> Like all melancholy captains, Davy Jensen also plays the organ, and has a very special one installed on the Dutch Secante, which has 9999 keys numbered from 1 to 9999. Of these keys all are white and only those whose number can be written as [2x]+[4x]+[8x]+[12x] for some real x. The others are black. How many white keys are there? (Remember that the symbol [·] denotes the whole, so if y is a real number, [y] denotes the largest integer less or equal to y.)
+> The captain's organ
+> Like all melancholic captains, Davy Jensen also plays the organ, and he had a very special one installed on the Flying Dutchman—one with 9999 keys numbered from 1 to 9999. Of these keys, the only white ones are those whose number can be written as [2x] + [4x] + [8x] + [12x] for some real x. The others are black. How many white keys are there? (Recall that the symbol [·] denotes the integer part; so if y is a real number, [y] denotes the greatest integer less than or equal to y.)
 
-**Answer:** 6154
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2010_finale#q15|src_gas_2010_finale__Q15]]
 
 
 
@@ -549,11 +638,17 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-conforming triangles with 144 side polygon vertices*
+*Non-congruent triangles with vertices on a 144-sided polygon*
 
-> Jack Disparrow's delirium finally failed to escape the Cramer, who fucked him up with all the True Pearl. Now, a prisoner beyond the Perimeter of the World, he's a victim of hallucinations. From the tree the master of the Pearl of Truth looks down and sees 144 rocky crabs that begin to move by positioning themselves at the tops of a regular polygon of 144 sides. Still in the midst of hallucinations one wonders how many non-conforming triangles have vertices in the vertices of the polygon. What's the answer? (Remember that in particular symmetrical triangles with respect to a straight line are congruent.)
+> Jack Disparrow's Delirium
+> In the end, Jack couldn't escape Cramer, who devoured him along with the entire Perla Vera. Now, a prisoner beyond the Perimeter of the World, he is in the grip of hallucinations. From the main mast of the Perla Vera, he looks down and sees 144 stone crabs beginning to move and arrange themselves at the vertices of a regular polygon with 144 sides. Still under the influence of hallucinations, he wonders how many non-congruent triangles have their vertices at the vertices of the polygon. What is the answer? (Recall that, in particular, triangles symmetric with respect to a line are congruent.)
 
-**Answer:** 1728
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_finale#q16|src_gas_2010_finale__Q16]]
 
 
 
@@ -582,11 +677,17 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*mcm of three integers with a+b+c=2010 and 1/a+1/b+1/c=1/58*
+*Find all triples of integers such that a+b+c=2010 and 1/a+1/b+1/c=1/58*
 
-> Jack and his crew are trapped in Davy Jensen's coffin, the mystical waters beyond the Perimeter of the World. At sunset Captain Disparrow understands how to return to the world of the living: you have to overturn the ship so that you sail above it, and at the same time you have to find three positive integers a, b, c, such that a+b+c = 2010 and that you can overturn them too, obtaining that 1/a + 1/b + 1/c = 1/58. While with a green whale theπ-rats return to the world of the living, responding to the minimum common multiple of the three integers.
+> Davy Jensen's Casket
+> Jack and his crew are prisoners in Davy Jensen's chest, in the mystical waters beyond the Perimeter of the World. At sunset, Captain Disparrow realizes how to return to the world of the living: the ship must be turned upside down so that it sails inverted, and at the same time three whole positive numbers a, b, c must be found such that a+b+c = 2010 and such that these numbers too can be inverted, yielding 1/a + 1/b + 1/c = 1/58. As, in a green flash, the π-rats return to the world of the living, give the least common multiple of the three integers.
 
-**Answer:** 5220
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2010_finale#q17|src_gas_2010_finale__Q17]]
 
 
 
@@ -614,11 +715,17 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area triangle rectangle from area hexagon with outer squares*
+*Area of a right triangle from the area of a hexagon with external squares*
 
-> Jack Disparrow's compass The magical compass that Jack Disparrow owns was created by Tria Geome, using strict Geomatics criteria. The shape of the compass is a hexagon obtained as follows: it starts from a rectangular triangle with catets measuring an integer number of mm; the three squares (external) are built on its sides; the vertices of the squares not on the triangle are finally joined to two by two, in order to obtain a convex hexagon. Knowing that the area of the hexagon is 1922 mm2, determine the area of the starting triangle.
+> Jack Sparrow's Compass
+> The magical compass in Jack Disparrow's possession was created by Tria Geome using strict Geomistic criteria. In fact, the compass is hexagonal in shape, and the hexagon is obtained as follows: start with a right-angled triangle whose legs measure a whole number of millimetres; construct the three (external) squares on its sides; finally, join in pairs the vertices of the squares that are not on the triangle, so as to obtain a convex hexagon. Given that the area of the hexagon is 1922 mm², determine the area of the starting triangle.
 
-**Answer:** 0132
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2010_finale#q18|src_gas_2010_finale__Q18]]
 
 
 
@@ -651,13 +758,19 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum a+b+c with respect to mcm and MCD*
+*Minimum value of a+b+c with a relation involving LCM and GCD*
 
-> Cutler Bracket's cross The fraternity of noble rats gathers in a secret place called the City of Relics. To communicate their coordinates to new affiliates, coded messages are used, which can only be understood by real π-rates. Lord Bracket has intercepted one of them and a little bit later it is unsuccessful: The coordinates are three positive integers a,b,c such that none of the three is multiple of another, mcm(a,b)·mcm(b,c)·mcm(a,c) = a·b·c·MCD(a,b,c) and the value of a+b+c is the least possible. How much is a+b+c?
-> 
-> 4/4 Team competition 2010  National final  Problem texts
+> Cutler Bracket's Worry
+> The fraternity of noble π-rats gathers in a secret place called the City of Wrecks. To communicate its coordinates to new members, coded messages are used—messages that only true π-rats can understand. Lord Bracket intercepted one of these messages and has been racking his brains for some time without success: "The coordinates are three positive integers a, b, c such that none of the three is a multiple of another, mcm(a,b)·mcm(b,c)·mcm(a,c) = a·b·c·MCD(a,b,c), and the value of a+b+c is as small as possible." What is the value of a+b+c?
+>
+> 4/4 Team Competition 2010 – National Final – Problem Statements
 
-**Answer:** 0300
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2010_finale#q19|src_gas_2010_finale__Q19]]
 
 
 
@@ -687,11 +800,17 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product a×b with a^2-b^2 perfect square minimum, figures exchanged*
+*Product a*b with a^2-b^2 being the smallest perfect square, digits swapped*
 
-> The dog with the keys. After the second time, Jack Disparrow is locked up in a dried-up Dutch cell. Spiffy, the dog with the keys, inevitably shows up, and Jack tries to lure him unsuccessfully. Out of the darkness of the cell emerges Bill Turing, who explains: "The dog answers only to those who know the magic numbers a and b and pronounces their product. I'll give you some clues: a is a positive integer of two distinct digits; b is obtained from a by exchanging the digits; the difference a2 −b2 is a perfect square and is also the least possible. What number must Jack pronounce to attract Spiffy?
+> The dog with the keys
+> After yet another about-face, Jack Sparrow is locked in a cell aboard the Flying Dutchman. Spiffy, the dog with the keys, inevitably appears, and Jack tries to lure him but fails. From the darkness of the cell, Bill "Spitfire" Turing emerges and explains to him: "The dog responds only to someone who knows the magic numbers a and b and pronounces their product. I'll give you a few clues: a is a positive two-digit integer with distinct digits; b is obtained from a by swapping its digits; the difference a² − b² is a perfect square and is, moreover, the smallest possible." What number must Jack pronounce to lure Spiffy?
 
-**Answer:** 3640
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2010_finale#q20|src_gas_2010_finale__Q20]]
 
 
 
@@ -722,11 +841,17 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of points on grid intersections in two square maps*
+*Number of points at grid intersections in two square maps*
 
-> Two maps There are two maps that lead to Isle de Mono. On the first, square-shaped and side-shaped 1726 miles map, the 4 major ports of the East India Company are each on one side; by a strange coincidence, the second map has these same four ports as vertices, it is still square-shaped, but side-shaped 1250 miles. Both maps are divided into 1 mile square sides with blood-colored lines parallel to the sides. Jack knows that, in both the first and second maps, Isle de Mono is exactly at the intersection of two bloodlines (including the edges of the maps). But you don't know what these lines are. How many points can the island be found?
+> The two maps
+> There are two maps that lead to Isla de Mono. On the first map, which is square with sides 1726 miles long, each of the four major ports of the East India Company is located on one side; by a strange coincidence, the second map has these same four ports as its vertices, is still square, but has sides 1250 miles long. Both maps are divided into small squares with sides 1 mile long, with blood-colored lines parallel to the sides. Jack knows that, on both the first and the second map, Isla de Mono lies exactly at the intersection of two of the blood-colored lines (including the edges of the maps). He does not, however, know which lines these are. In total, how many points can the island be at?
 
-**Answer:** 2505
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_finale#q21|src_gas_2010_finale__Q21]]
 
 
 
@@ -760,11 +885,17 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region of circumscribed pentagon with given altitude*
+*Area of the region of a circumscribable pentagon with a given altitude*
 
-> The Secret of Monkey IslandTM All π-rats with a few years on their backs have heard of the fabulous treasure hidden in the lost Isla de Mono; legend has it that the treasure is buried at a point on the island where the altitude is at least 5 meters. Tria Geome possesses perhaps the only map of the island, from which it is inferred that: the plant is a circumscribed pentagon (i.e. that it admits an inscribed circumference, tangent on all sides); the depth of the sea around the island is equal to √π times the minimum distance from the coast measured on the map, while the altitude of each point on the surface of the island is equal to √π/2 multiplied by the minimum distance of that point from the water, measured on the map; the root area on the map from points that are 1 meter deep is 12343 m2 while that from points that are 3 meters deep is 12835 m2. How many square meters on the map is the part of the island where, according to legend, the treasure can be found?
+> The Secret of Monkey IslandTM
+> All π-rats with a few years on their backs have heard of the fabulous treasure hidden on the lost Isla de Mono; legend has it that the treasure is buried at a point on the island where the elevation is at least 5 metres. Tria Geome may possess the only map of the island, from which it follows that: the plan is a circumscribable pentagon (that is, one that admits an inscribed circle tangent to all its sides); the depth of the sea around the island is √π times the minimum distance from the coast measured on the map, while the elevation of every point on the island's surface is √π/2 multiplied by the minimum distance of that point from the water, measured on the map; the area on the map enclosed by the points at a depth of 1 metre is 12343 m², whereas the area enclosed by the points at a depth of 3 metres is 12835 m². On the map, how many square metres does the part of the island in which, according to legend, the treasure can be found measure?
 
-**Answer:** 9801
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2010_finale#q22|src_gas_2010_finale__Q22]]
 
 
 
@@ -793,11 +924,16 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of winning by iterating product of digits 1 to 10000*
+*Probability of winning by iterating the product of the digits from 1 to 10000*
 
-> It's a chicken trap. Based in Tortoise, Master Gibbs makes his living cheating passersby with gambling. The homeless person randomly extracts a number from 1 to 10,000 from a bag. It then iteratively starts to replace it with the product of its digits, and it loses if at any time it drops tightly below 9. Instead, he wins if he can get indefinitely numbers not less than 9. What are the odds of winning? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
+> A trap for chickens. Stranded on Tortuga, Master Gibbs makes a living by swindling passers-by through gambling. The hapless victim randomly draws a number from 1 to 10000 from a bag. They then iteratively replace it with the product of its digits, and they lose if at any point the number falls strictly below 9. They win, however, if they can indefinitely obtain numbers not less than 9. What is the probability of winning? [As the result, provide the product of the numerator and denominator of the fraction reduced to lowest terms.]
 
-**Answer:** 0500
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_finale#q23|src_gas_2010_finale__Q23]]
 
 
 
@@ -826,8 +962,14 @@ How to dispose of 28 bottles on 7 shelves with non-multiple sums of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height/radius ratio of four tangent cones*
+*Height-to-radius ratio of four tangent cones*
 
-> The city of relics The impregnable stronghold of the fraternity of the π-noble rats is built entirely from the wood of the wrecks of sandy ships. The shape is that of four identical cones, resting on a flat ground so that the vertices touch each other, their side surfaces are tangent to the ground on 4 equal and perpendicular segments forming a cross and two adjacent cones have tangent side surfaces. Write the first four digits after the comma of the ratio of the height to the base radius of the cones.
+> The City of Wrecks
+> The impregnable stronghold of the Brotherhood of the Noble π-Rats is built entirely from the wood of the wrecks of stranded ships. It has the shape of four identical cones resting on flat ground so that their apices touch, their lateral surfaces are tangent to the ground along four equal, perpendicular line segments that form a cross, and two adjacent cones have tangent lateral surfaces. Write the first four digits after the decimal point of the ratio of the height to the base radius of the cones.
 
-**Answer:** 4142
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2010_finale#q24|src_gas_2010_finale__Q24]]

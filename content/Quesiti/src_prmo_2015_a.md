@@ -30,11 +30,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzioni
+*A piedi all'andata e a cavallo al ritorno in 15/4 ore; a cavallo in entrambi i sensi in 5/2 ore. Quanto a piedi in entrambi i sensi*
 
-> Un uomo cammina una certa distanza e ritorna in $3\frac{3}{4}$ ore; può andare in entrambe le direzioni in $2\frac{1}{2}$ ore. Quante ore gli ci vorrebbero per camminare in entrambe le direzioni?
+> Un uomo percorre a piedi un certo tratto e torna a cavallo in $3\frac{3}{4}$ ore; potrebbe fare entrambi i tratti a cavallo in $2\frac{1}{2}$ ore. Quante ore gli occorrerebbero per fare entrambi i tratti a piedi?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 5
+
+[[Quesiti/src_prmo_2015_a#q01|src_prmo_2015_a__Q01]]
 
 
 
@@ -58,11 +64,17 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova $a^2+b^2$ dato $a+b=a/b+b/a$ per i numeri interi positivi*
+*Interi positivi con a + b = a/b + b/a: valore di a^2 + b^2*
 
-> I numeri interi positivi $a$ e $b$ sono tali da $a + b = a/b + b/a$. Qual è il valore di $a^2 + b^2$?
+> Interi positivi $a$ e $b$ sono tali che $a + b = a/b + b/a$. Qual è il valore di $a^2 + b^2$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 
 **Risposta:** 2
+
+[[Quesiti/src_prmo_2015_a#q02|src_prmo_2015_a__Q02]]
 
 
 
@@ -86,11 +98,17 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due quadratici condividono esattamente una radice comune; trovare $k$*
+*Due equazioni di secondo grado con parametro k hanno esattamente una radice in comune: valore di k*
 
-> Le equazioni $x^2 - 4x + k = 0$ e $x^2 + kx - 4 = 0$, dove $k$ è un numero reale, hanno esattamente una radice comune. Qual è il valore di $k$?
+> Le equazioni $x^2 - 4x + k = 0$ e $x^2 + kx - 4 = 0$, dove $k$ è un numero reale, hanno esattamente una radice in comune. Qual è il valore di $k$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 3
+
+[[Quesiti/src_prmo_2015_a#q03|src_prmo_2015_a__Q03]]
 
 
 
@@ -114,11 +132,17 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio non-zero con coefficienti interi divisibili per $n$ per tutti i $n$ positivi; trovare $P(0)$*
+*Polinomio non nullo a coefficienti interi, divisibile per n in ogni intero positivo n: valore in 0*
 
-> $P(x)$ sia un polinomio non zero con coefficienti interi. Se $P(n)$ è divisibile per $n$ per ogni intero positivo $n$, qual è il valore di $P(0)$?
+> Sia $P(x)$ un polinomio non nullo a coefficienti interi. Se $P(n)$ è divisibile per $n$ per ogni intero positivo $n$, qual è il valore di $P(0)$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 
 **Risposta:** 0
+
+[[Quesiti/src_prmo_2015_a#q04|src_prmo_2015_a__Q04]]
 
 
 
@@ -142,11 +166,17 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Segmenti di linea di conteggio con entrambe le estremità a vertici di un cubo*
+*Quanti segmenti hanno entrambi gli estremi nei vertici di un cubo dato*
 
-> Quanti segmenti di linea hanno entrambi i loro punti di fine situati alle vertici di un determinato cubo?
+> Quanti segmenti hanno entrambi gli estremi nei vertici di un dato cubo?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 28
+
+[[Quesiti/src_prmo_2015_a#q05|src_prmo_2015_a__Q05]]
 
 
 
@@ -170,11 +200,17 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa della funzione a numeri pari $E$ da 1 a 100*
+*Somma delle cifre pari, da 1 a 100*
 
-> $E(n)$ indichi la somma dei numeri pari di $n$. Per esempio, $E(1243) = 2 + 4 = 6$. Qual è il valore di $E(1) + E(2) + E(3) + \cdots + E(100)$?
+> Sia $E(n)$ la somma delle cifre pari di $n$. Per esempio, $E(1243) = 2 + 4 = 6$. Qual è il valore di $E(1) + E(2) + E(3) + \cdots + E(100)$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
 **Risposta:** 400
+
+[[Quesiti/src_prmo_2015_a#q06|src_prmo_2015_a__Q06]]
 
 
 
@@ -198,11 +234,17 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cifre $N$ la cui cifra-somma con la sua inversione è un quadrato perfetto*
+*Interi di due cifre tali che il numero più il suo inverso è un quadrato perfetto*
 
-> Quanti numeri interi positivi a due cifre $N$ hanno la proprietà che la somma di $N$ e il numero ottenuto invertendo l'ordine dei numeri di $N$ è un quadrato perfetto?
+> Quanti interi positivi di due cifre $N$ hanno la proprietà che la somma di $N$ e del numero ottenuto invertendo l'ordine delle cifre di $N$ è un quadrato perfetto?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 
 **Risposta:** 8
+
+[[Quesiti/src_prmo_2015_a#q07|src_prmo_2015_a__Q07]]
 
 
 
@@ -228,13 +270,19 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Radio della piastra circolare data lunghezza e sagitta dell'accordo*
+*Piatto circolare rotto, corda di 24 cm e freccia di 6 cm: raggio in centimetri*
 
-> La figura seguente mostra un pezzo rotto di una piastra circolare di vetro. $C$ è il punto medio di $AB$ e $D$ è il punto medio di arco $AB$. Dato che $AB = 24$ cm e $CD = 6$ cm, quale è il raggio della piastra in centimetri? (La cifra non è indicata in scala.)
+> La figura qui sotto mostra un pezzo rotto di un piatto circolare di vetro. $C$ è il punto medio di $AB$, e $D$ è il punto medio dell'arco $AB$. Sapendo che $AB = 24$ cm e $CD = 6$ cm, qual è il raggio del piatto in centimetri? La figura non è in scala.
 
 ![[src_prmo_2015_a__q08.png]]
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+
 **Risposta:** 15
+
+[[Quesiti/src_prmo_2015_a#q08|src_prmo_2015_a__Q08]]
 
 
 
@@ -258,11 +306,17 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Più piccola superficie quadrata contenente $2\times3$ e $3\times4$ rettangoli non sovrapposti*
+*Rettangoli 2×3 e 3×4 dentro un quadrato, lati paralleli, senza sovrapposizioni: minima area del quadrato*
 
-> Un rettangolo $2 \times 3$ e un rettangolo $3 \times 4$ sono contenuti all'interno di un quadrato senza sovrapposizioni in alcun punto interno, e i lati del quadrato sono paralleli ai lati dei due rettangoli dati. Qual è la più piccola area possibile del quadrato?
+> Un rettangolo $2 \times 3$ e un rettangolo $3 \times 4$ sono contenuti in un quadrato senza sovrapporsi in alcun punto interno, e i lati del quadrato sono paralleli ai lati dei due rettangoli. Qual è la minima area possibile del quadrato?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Analisi accurata dei casi]]
 
 **Risposta:** 25
+
+[[Quesiti/src_prmo_2015_a#q09|src_prmo_2015_a__Q09]]
 
 
 
@@ -286,11 +340,17 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più grande perimetro del triangolo rettangolo intero con un lato 12*
+*Massimo perimetro di un triangolo rettangolo a lati interi con un lato di lunghezza 12*
 
-> Qual è il più grande perimetro possibile di un triangolo rettangolo con lunghezze laterali interi se uno dei lati ha lunghezza 12?
+> Qual è il massimo perimetro possibile di un triangolo rettangolo con lati di lunghezza intera, se uno dei lati ha lunghezza 12?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
 **Risposta:** 84
+
+[[Quesiti/src_prmo_2015_a#q10|src_prmo_2015_a__Q10]]
 
 
 
@@ -314,11 +374,17 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa degli inradi di tre triangoli formati dal punto $P$ sul lato del rettangolo*
+*Rettangolo 8 per 20, punto su un lato con angolo retto: somma di tre raggi inscritti*
 
-> In rettangolo $ABCD$, $AB = 8$ e $BC = 20$. $P$ sia un punto su $AD$ tale che $\angle BPC = 90^\circ$. Se $r_1$, $r_2$, $r_3$ sono i raggi degli incircoli dei triangoli $APB$, $BPC$ e $CPD$, qual è il valore di $r_1 + r_2 + r_3$?
+> Nel rettangolo $ABCD$, $AB = 8$ e $BC = 20$. Sia $P$ un punto di $AD$ tale che $\angle BPC = 90^\circ$. Se $r_1$, $r_2$, $r_3$ sono i raggi delle circonferenze inscritte dei triangoli $APB$, $BPC$ e $CPD$, qual è il valore di $r_1 + r_2 + r_3$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 8
+
+[[Quesiti/src_prmo_2015_a#q11|src_prmo_2015_a__Q11]]
 
 
 
@@ -342,11 +408,17 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova $a^2 - b^2 + c^2$ da due equazioni lineari*
+*Due equazioni lineari in a, b, c: valore di a^2 − b^2 + c^2*
 
-> $a$, $b$, $c$ siano numeri reali come $a - 7b + 8c = 4$ e $8a + 4b - c = 7$. Qual è il valore di $a^2 - b^2 + c^2$?
+> Siano $a$, $b$, $c$ numeri reali tali che $a - 7b + 8c = 4$ e $8a + 4b - c = 7$. Qual è il valore di $a^2 - b^2 + c^2$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
 **Risposta:** 1
+
+[[Quesiti/src_prmo_2015_a#q12|src_prmo_2015_a__Q12]]
 
 
 
@@ -370,11 +442,17 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più grande prodotto di 3 primmi distinti $x$, $y$, $10x+y$; somma di cifre*
+*Massimo prodotto di tre primi distinti, due dei quali sono cifre e il terzo è il numero di due cifre che formano: somma delle cifre*
 
-> $n$ sia il numero intero più grande che è il prodotto di esattamente 3 numeri primi distinti, $x$, $y$ e $10x + y$, dove $x$ e $y$ sono cifre. Qual è la somma delle cifre di $n$?
+> Sia $n$ il massimo intero che è il prodotto di esattamente tre primi distinti, $x$, $y$ e $10x + y$, dove $x$ e $y$ sono cifre. Qual è la somma delle cifre di $n$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 
 **Risposta:** 12
+
+[[Quesiti/src_prmo_2015_a#q13|src_prmo_2015_a__Q13]]
 
 
 
@@ -398,11 +476,17 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di donne presenti alla festa dato il numero di coppie di danza*
+*Ogni uomo balla con quattro donne e ogni donna con tre uomini; nove uomini. Quante donne*
 
-> In una festa, ogni uomo ballava con esattamente quattro donne e ogni donna ballava con esattamente tre uomini. Nove uomini hanno partecipato alla festa. Quante donne hanno partecipato alla festa?
+> A una festa ogni uomo ha ballato con esattamente quattro donne e ogni donna ha ballato con esattamente tre uomini. Alla festa c'erano nove uomini. Quante donne c'erano?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 12
+
+[[Quesiti/src_prmo_2015_a#q14|src_prmo_2015_a__Q14]]
 
 
 
@@ -426,11 +510,17 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova $xy$ con $3^x + 2^y = 985$ e $3^{2x} - 2^{2y} = 473$*
+*3^x + 2^y = 985 e 3^{2x} − 2^{2y} = 473: valore di xy*
 
 > Se $3^x + 2^y = 985$ e $3^{2x} - 2^{2y} = 473$, qual è il valore di $xy$?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
 **Risposta:** 48
+
+[[Quesiti/src_prmo_2015_a#q15|src_prmo_2015_a__Q15]]
 
 
 
@@ -454,11 +544,17 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*angolo $\angle ADF$ in un triangolo acuto con punti di mezzo e condizioni di angolo uguale*
+*Triangolo acutangolo, punti medi e angoli uguali: misura di un angolo*
 
-> Nel triangolo acuto $ABC$, $D$ sia il punto medio di $BC$. $F$ sia il punto medio di $AC$. Supponiamo $\angle BAE = 40^\circ$. Se $\angle DAE = \angle DFE$, qual è il valore di $\angle ADF$ in gradi?
+> Nel triangolo acutangolo $ABC$, sia $D$ il punto medio di $BC$. Sia $F$ il punto medio di $AC$. Si supponga che $\angle BAE = 40^\circ$. Se $\angle DAE = \angle DFE$, qual è il valore di $\angle ADF$ in gradi?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 
 **Risposta:** 40
+
+[[Quesiti/src_prmo_2015_a#q16|src_prmo_2015_a__Q16]]
 
 
 
@@ -482,11 +578,17 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsieme massimo di $\{1,\ldots,100\}$ senza due elementi che si sommano a 125*
+*Sottoinsieme dei primi 100 interi positivi in cui due elementi non sommano a 125: massima cardinalità*
 
-> Un sottogruppo $B$ dell'insieme dei primi 100 interi positivi ha la proprietà che non due elementi di $B$ sommano a 125. Qual è il numero massimo possibile di elementi in $B$?
+> Un sottoinsieme $B$ dell'insieme dei primi 100 interi positivi ha la proprietà che due elementi di $B$ non sommano mai a 125. Qual è il massimo numero possibile di elementi di $B$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
 **Risposta:** 62
+
+[[Quesiti/src_prmo_2015_a#q17|src_prmo_2015_a__Q17]]
 
 
 
@@ -510,11 +612,21 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valore dell'espressione razionale simmetrica $P$ quando $a+b+c=0$*
+*a + b + c = 0: valore di una somma di tre frazioni*
 
-> Che $a$, $b$, $c$ siano tali da definire $a + b + c = 0$ e $$P = \frac{a^2}{2a^2 + bc} + \frac{b^2}{2b^2 + ca} + \frac{c^2}{2c^2 + ab}$$. Qual è il valore di $P$?
+> Siano $a$, $b$, $c$ tali che $a + b + c = 0$ e
+>
+> $$P = \frac{a^2}{2a^2 + bc} + \frac{b^2}{2b^2 + ca} + \frac{c^2}{2c^2 + ab}$$
+>
+> sia definito. Qual è il valore di $P$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
 **Risposta:** 1
+
+[[Quesiti/src_prmo_2015_a#q18|src_prmo_2015_a__Q18]]
 
 
 
@@ -538,11 +650,17 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*angolo $\angle PYX$ per cerchi tangenti interni con diametro tangente al cerchio interno*
+*Due circonferenze tangenti internamente, un diametro tangente: misura di un angolo*
 
-> Il cerchio $\omega$ tocca internamente il cerchio $\Omega$ a $P$. Il centro di $\Omega$ è $O$. Il diametro $XY$ deve essere di $\Omega$ che è anche tangente a $\omega$. Supponiamo $PY > PX$. Lasciate che $PY$ si incroci $\omega$ a $Z$. Se $YZ = 2PZ$, qual è il valore di $\angle PYX$ in gradi?
+> La circonferenza $\omega$ tocca internamente la circonferenza $\Omega$ in $P$. Il centro di $\Omega$ è $O$. Sia $XY$ un diametro di $\Omega$ che è anche tangente a $\omega$. Si supponga che $PY > PX$. La retta $PY$ interseca $\omega$ in $Z$. Se $YZ = 2PZ$, qual è il valore di $\angle PYX$ in gradi?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 15
+
+[[Quesiti/src_prmo_2015_a#q19|src_prmo_2015_a__Q19]]
 
 
 
@@ -566,8 +684,14 @@ L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei rimanenti mod 37 per i numeri a quattro cifre consecutive in diminuzione*
+*Interi di quattro cifre consecutive decrescenti: somma dei resti possibili nella divisione per 37*
 
-> Le cifre di un intero positivo $n$ sono quattro numeri interi consecutivi in ordine decrescente quando si leggono da sinistra a destra. Qual è la somma dei possibili rimanenti quando $n$ è diviso per 37?
+> Le cifre di un intero positivo $n$ sono quattro interi consecutivi in ordine decrescente, letti da sinistra a destra. Qual è la somma dei resti possibili quando $n$ è diviso per 37?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 
 **Risposta:** 217
+
+[[Quesiti/src_prmo_2015_a#q20|src_prmo_2015_a__Q20]]

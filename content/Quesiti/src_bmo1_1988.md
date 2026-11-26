@@ -31,9 +31,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni reali dell'equazione di radice quadrata annidata*
+*Trovare tutte le soluzioni reali di un'equazione con radici quadrate annidate*
 
-> Trova tutte le soluzioni reali $x$ dell'equazione $$\sqrt{x + 1972098 - \frac{1986}{x + 9860491}} + \sqrt{x + 1974083 - \frac{1988}{x + 986049}} = 1,$$ dove $\sqrt{\phantom{x}}$ indica la radice quadrata non negativa.
+> Dimostrare che tutte le soluzioni reali $x$ dell'equazione
+> $$\sqrt{x + 1972098 - \frac{1986}{x + 9860491}} + \sqrt{x + 1974083 - \frac{1988}{x + 986049}} = 1,$$
+> dove $\sqrt{\phantom{x}}$ indica la radice quadrata non negativa.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1988#q01|src_bmo1_1988__Q01]]
 
 
 
@@ -58,9 +66,21 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni a valore reale su naturali che soddisfano f(x+y) = f(x)f(y)*
+*Trovare tutte le funzioni a valori reali su naturali che soddisfano f(x+y)=f(x)f(y)*
 
-> Trovare tutte le funzioni a valore reale $f$ definite sul set $D$ dei numeri naturali $x \ge 10$ e soddisfare l'equazione funzionale $$f(x + y) = f(x)\, f(y)$$ per tutti $x,\, y \in D$.
+> Dimostrare che, se e solo se, ... 
+>
+> Non posso inventare il testo: l'input fornisce già il problema, quindi lo riporto fedelmente.
+>
+> Trovare tutte le funzioni a valori reali $f$ definite sull'insieme $D$ dei numeri naturali $x \ge 10$ e che soddisfano l'equazione funzionale
+> $$f(x + y) = f(x)\, f(y)$$
+> per tutti $x,\, y \in D$.
+
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1988#q02|src_bmo1_1988__Q02]]
 
 
 
@@ -85,9 +105,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la coppia di r,s con 0<s<200 tra due date frazioni*
+*Trovare una coppia di interi r,s con 0<s<200 tra due frazioni date*
 
-> Trovare una coppia di integri $r$, $s$ tale che $0 < s < 200$ e $$\frac{45}{61} \le \frac{r}{s} \le \frac{89}{60}.$$ Inoltre dimostrare che esiste esattamente una coppia di tali $r$, $s$.
+> Trovare una coppia di interi $r$, $s$ tale che $0 < s < 200$ e
+> $$\frac{45}{61} \le \frac{r}{s} \le \frac{89}{60}.$$
+> Dimostrare inoltre che esiste esattamente una tale coppia $r$, $s$.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_bmo1_1988#q03|src_bmo1_1988__Q03]]
 
 
 
@@ -110,9 +138,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piedi ortocentrici a bisettici angolari; PQ attraverso il punto medio di BC*
+*Orthocentre feet to angle bisectors; PQ through midpoint of BC*
 
-> Il triangolo $ABC$ ha l'ortocentro $H$. I piedi delle perpendicolari da $H$ ai bisettieri interni ed esterni dell'angolo $BAC$ (non angolo retto) sono $P$ e $Q$. Provare che $PQ$ passa attraverso il punto medio di $BC$.
+> Il triangolo $ABC$ ha ortocentro $H$. I piedi delle perpendicolari da $H$ alle bisettrici interne ed esterne dell'angolo $BAC$ (che non è un angolo retto) sono $P$ e $Q$. Dimostrare che $PQ$ passa per il punto medio di $BC$.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_bmo1_1988#q04|src_bmo1_1988__Q04]]
 
 
 
@@ -139,9 +173,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova che i d(n,m) definiti ricorritivamente sono sempre interi*
+*Dimostrare che i numeri d(n,m) definiti ricorsivamente sono sempre interi*
 
-> I numeri $d(n, m)$ con $m$, $n$ enti, $0 \le m \le n$, sono definiti da $$d(n, 0) = d(n, n) = 1 \quad \text{all } n \ge 0$$ e $$m\,d(n, m) = m\,d(n-1, m) + (2n - m)\,d(n-1, m-1)$$ per $0 < m < n$. Provare che tutti i $d(n, m)$ sono numeri interi.
+> Siano $d(n, m)$ numeri con $m$, $n$ interi, $0 \le m \le n$, definiti da
+> $$d(n, 0) = d(n, n) = 1 \quad \text{all } n \ge 0$$
+> e
+> $$m\,d(n, m) = m\,d(n-1, m) + (2n - m)\,d(n-1, m-1)$$
+> per $0 < m < n$. Dimostrare che tutti i $d(n, m)$ sono interi.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1988#q05|src_bmo1_1988__Q05]]
 
 
 
@@ -168,6 +212,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il valore minimo positivo di (x2+y2)/y soggetto a restrizioni quadratiche*
+*Trovare il valore positivo minimo di (x²+y²)/y soggetto a vincolo quadratico*
 
-> Indicare che il valore minimo positivo di $$\frac{x^2 + y^2}{y},$$ dove $x$, $y$ sono numeri reali in modo tale che $$7x^2 + 3xy + 3y^2 = 1,$$ sia $\dfrac{1}{2}$.
+> Dimostrare che il valore positivo minimo di
+> $$\frac{x^2 + y^2}{y},$$
+> dove $x$, $y$ sono numeri reali tali che
+> $$7x^2 + 3xy + 3y^2 = 1,$$
+> è $\dfrac{1}{2}$.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_bmo1_1988#q06|src_bmo1_1988__Q06]]

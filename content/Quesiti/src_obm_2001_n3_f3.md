@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimostra una disuguaglianza tra un prodotto e un termine geometrico-medio per tre valori reali positivi*
+*Dimostra una disuguaglianza tra un prodotto e un termine della media geometrica per tre numeri reali positivi*
 
-> Prova che $(a+b)(a+c) \ge 2\sqrt{abc(a+b+c)}$ per qualsiasi numero reale positivo $a$, $b$ e $c$.
+> Dimostrare che $(a+b)(a+c) \ge 2\sqrt{abc(a+b+c)}$ per qualsiasi numero reale positivo $a$, $b$ e $c$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n3_f3#q01|src_obm_2001_n3_f3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di coprimo avido: trovare a_0 per il quale ogni termine è un primo o una potenza primaria*
+*Sequenza avida di numeri coprimi: trova a_0 tale che ogni termine sia un numero primo o una potenza di un numero primo*
 
-> Dato un numero intero $a_0 > 1$, definiamo una sequenza $(a_n)_{n \ge 0}$ nel seguente modo: per ogni $k \ge 0$, $a_{k+1}$ è il numero intero più piccolo $a_{k+1} > a_k$ tale che $\gcd(a_{k+1}, a_0 \cdot a_1 \cdots a_k) = 1$. Determinare per quali valori di $a_0$ tutti i termini $a_k$ della sequenza sono numeri primi o potenze di numeri primi.
+> Dato un intero $a_0 > 1$, definiamo una successione $(a_n)_{n \ge 0}$ nel modo seguente: per ogni $k \ge 0$, $a_{k+1}$ è il più piccolo intero $a_{k+1} > a_k$ tale che $\gcd(a_{k+1}, a_0 \cdot a_1 \cdots a_k) = 1$. Determinare per quali valori di $a_0$ tutti i termini $a_k$ della successione sono numeri primi o potenze di numeri primi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n3_f3#q02|src_obm_2001_n3_f3__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con lato AB triseccato e due condizioni di perpendicularità; trovare rapporto DB/DC*
+*Triangolo in cui il lato AB è trisezionato e sono date due condizioni di perpendicolarità; trovare il rapporto DB/DC*
 
-> $E$ e $F$ sono punti sul lato $AB$ del triangolo $ABC$, in modo tale che $AE = EF = FB$. $D$ è un punto della linea $BC$ tale che $BC$ sia perpendicolare a $ED$ e $AD$ sia perpendicolare a $CF$. Gli angoli $\angle BDF$ e $\angle CFA$ misurano rispettivamente $x$ e $3x$. Calcolare il rapporto $\frac{DB}{DC}$.
+> $E$ e $F$ sono punti sul lato $AB$ del triangolo $ABC$, tali che $AE = EF = FB$. $D$ è un punto sulla retta $BC$ tale che $BC$ è perpendicolare a $ED$, e $AD$ è perpendicolare a $CF$. Gli angoli $\angle BDF$ e $\angle CFA$ misurano rispettivamente $x$ e $3x$. Calcola il rapporto $\frac{DB}{DC}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n3_f3#q03|src_obm_2001_n3_f3__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A partire da 1, premere sin o cos volte 2001 (radiani); trovare il risultato più grande possibile*
+*Partendo da 1, premi sin o cos 2001 volte (in radianti); trova il risultato più grande possibile*
 
-> Una calcolatrice ha il numero $1$ sul suo display. Dobbiamo eseguire operazioni $2001$, ciascuna delle quali consiste nel premere esattamente una delle due tasti $\sin$ o $\cos$. Queste operazioni calcolano, rispettivamente, il seno o il cosino della loro argomentazione, in radiani. Qual è il più grande risultato possibile ottenuto dopo queste operazioni $2001$?
+> Su un display di una calcolatrice compare il numero $1$. Dobbiamo eseguire $2001$ operazioni, ciascuna delle quali consiste nel premere esattamente una volta uno dei due tasti $\sin$ o $\cos$. Queste operazioni calcolano, rispettivamente, il seno o il coseno del loro argomento, espresso in radianti. Qual è il risultato massimo possibile ottenibile dopo queste $2001$ operazioni?
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n3_f3#q04|src_obm_2001_n3_f3__Q04]]
 
 
 
@@ -129,9 +157,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale convex: le quattro perpendicolari medie ai lati concordano se è ciclico*
+*Quadrilatero convesso: le quattro perpendicolari mediane ai lati sono concorrenti se e solo se il quadrilatero è ciclico*
 
-> In un quadrilaterale convexo, l'altitudine relativa a un lato è definita come la perpendicolare a quel lato che passa attraverso il punto medio del lato opposto. Prova che le quattro altitudini hanno un punto comune se e solo se il quadrilaterale è iscribile, cioè se e solo se esiste un cerchio che contiene i suoi quattro vertici.
+> In un quadrilatero convesso, l'\emph{altezza} relativa a un lato è definita come la perpendicolare a quel lato passante per il punto medio del lato opposto. Dimostrare che le quattro altezze hanno un punto comune se e solo se il quadrilatero è ciclico, cioè se e solo se esiste una circonferenza che contiene i suoi quattro vertici.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n3_f3#q05|src_obm_2001_n3_f3__Q05]]
 
 
 
@@ -160,12 +195,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pietra in una fila di coppe con due mosse; prova che è raggiunta una configurazione terminale ed è unica*
+*Pietre in una fila di tazze con due mosse; dimostrare che si raggiunge una configurazione terminale e che questa è unica*
 
-> Abbiamo una lunga fila di tazze e delle pietre $n$ nella tazza centrale (tazza $0$). Sono ammessi i seguenti movimenti:
-> 
-> Movimento di tipo $A$: Se c'è almeno una pietra nella tazza $i$ e almeno una pietra nella tazza $i+1$, possiamo fare un salto in tazza $i+1$, eliminando una pietra dalla tazza $i$.
-> 
-> Movimento di tipo $B$: se nella tazza $i$ ci sono almeno due pietre, possiamo far saltare una di esse a tazza $i+2$ e un'altra a tazza $i-1$.
-> 
-> Prove il seguente fatto: eseguendo le mosse di tipo $A$ o $B$ per un periodo sufficientemente lungo, raggiungiamo sempre una configurazione in cui non è più possibile eseguire nessuna di queste mosse. Inoltre, dimostrare che questa configurazione finale non dipende dalla scelta delle mosse effettuate durante il processo.
+> Abbiamo una lunga fila di tazze e $n$ pietre nella tazza centrale (tazza $0$). Sono consentite le seguenti mosse:
+>
+> Mossa di tipo $A$: se nella tazza $i$ c'è almeno una pietra e nella tazza $i+1$ c'è almeno una pietra, possiamo far saltare una pietra che si trova nella tazza $i+1$ nella tazza $i-1$, eliminando una pietra dalla tazza $i$.
+>
+> Mossa di tipo $B$: se nella coppa $i$ ci sono almeno due pietre, possiamo farne saltare una nella coppa $i+2$ e un'altra nella coppa $i-1$.
+>
+> Dimostra il seguente fatto: eseguendo le mosse di tipo $A$ o $B$ per un tempo sufficientemente lungo, si arriva sempre a una configurazione in cui non è più possibile eseguire alcuna di queste mosse. Inoltre, dimostrare che questa configurazione finale non dipende dalla scelta delle mosse effettuate durante il processo.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n3_f3#q06|src_obm_2001_n3_f3__Q06]]

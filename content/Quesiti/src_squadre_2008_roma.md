@@ -25,19 +25,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0101
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*1000 socks of 100 colours in a trunk*
+*In a trunk, there are 1000 socks tossed together, in 100 different colors (10 per each…*
 
 ![[src_squadre_2008_roma__prob1.png]]
 
-> In a trunk there are 1000 socks jumbled together, of 100 different colours (10 of each colour). It is dark and nothing can be seen. Determine the minimum number of socks that must be taken to be sure of having at least 2 of the same colour.
+> In a trunk, there are 1000 socks mixed together, in 100 different colors (10 of each color). It is dark, and nothing can be seen. Determine the minimum number of socks that must be taken to be certain of having at least 2 socks of the same color.
 
-**Answer:** 0101
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2008_roma#q01|src_squadre_2008_roma__Q01]]
 
 
 
@@ -56,19 +59,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0770
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diagonals of a regular hexagon of area 2310*
+*Drawing the diagonals AC, CE, EA, BD, DF, and FB of a regular hexagon ABCDEF of…*
 
 ![[src_squadre_2008_roma__prob2.png]]
 
-> Drawing the diagonals AC, CE, EA, BD, DF and FB of a regular hexagon ABCDEF of area 2310, it is divided into 13 regions. Determine the area of the one shaped like a regular hexagon.
+> By drawing the diagonals AC, CE, EA, BD, DF, and FB of a regular hexagon ABCDEF with area 2310, the hexagon is divided into 13 regions. Determine the area of the region that is shaped like a regular hexagon.
 
-**Answer:** 0770
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2008_roma#q02|src_squadre_2008_roma__Q02]]
 
 
 
@@ -87,19 +93,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0126
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A goat tied to the corner of a house*
+*A goat is tied with a 12-meter-long rope to a corner of a house with a base…*
 
 ![[src_squadre_2008_roma__prob3.png]]
 
-> A goat is tied with a rope 12 metres long to a corner of a house with a square base of side 6 metres, completely surrounded by a huge meadow without obstacles. Let A be the area, in m^2, of the portion of meadow on which the goat can graze. What is A/π?
+> A goat is tied with a 12-meter-long rope to a corner of a square-based house with sides 6 meters long; the house is completely surrounded by a vast, unobstructed lawn. Let A be the area, in m², of the portion of the lawn on which the goat can graze. What is the value of A/π?
 
-**Answer:** 0126
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2008_roma#q03|src_squadre_2008_roma__Q03]]
 
 
 
@@ -118,19 +127,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0495
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible scores in a 100-question test*
+*The text of an exam consists of 100 multiple-choice questions. The score…*
 
 ![[src_squadre_2008_roma__prob4.png]]
 
-> The paper of a competition consists of 100 multiple-choice questions. The score for each question is 0 if it is wrong, 1 if it is not attempted and 5 if it is correct. How many different possible scores can be obtained by taking part in the competition?
+> The test for a competition consists of 100 multiple-choice questions. The score awarded for each question is 0 if it is answered incorrectly, 1 if it is left unanswered, and 5 if it is answered correctly. How many different possible scores can be obtained by taking part in the competition?
 
-**Answer:** 0495
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2008_roma#q04|src_squadre_2008_roma__Q04]]
 
 
 
@@ -149,19 +161,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0040
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rhombus ABCD and triangle PQR of unit area*
+*In a rhombus ABCD, let P be the midpoint of side DC and Q be the midpoint of the segment…*
 
 ![[src_squadre_2008_roma__prob5.png]]
 
-> In a rhombus ABCD let P be the midpoint of side DC and Q the midpoint of segment DP. Finally let R be the intersection of the diagonal DB with the segment AQ. Knowing that triangle PQR has unit area, determine the area of the rhombus ABCD.
+> In rhombus ABCD, let P be the midpoint of side DC and Q the midpoint of segment DP. Finally, let R be the intersection of diagonal DB and segment AQ. Given that triangle PQR has area 1, determine the area of rhombus ABCD.
 
-**Answer:** 0040
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2008_roma#q05|src_squadre_2008_roma__Q05]]
 
 
 
@@ -179,19 +194,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0560
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of MONOCOLO among its anagrams*
+*What position does the word MONOCOLO occupy in the list of all its anagrams, c…*
 
 ![[src_squadre_2008_roma__prob6.png]]
 
-> What position does the word MONOCOLO occupy in the list of all its anagrams, including meaningless ones, arranged in alphabetical order?
+> What position does the word MONOCOLO occupy in the list of all its anagrams, including nonsensical ones, arranged in alphabetical order?
 
-**Answer:** 0560
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2008_roma#q06|src_squadre_2008_roma__Q06]]
 
 
 
@@ -212,20 +230,23 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0082
-**Fonte risposta:** soluzione ufficiale, [PDF p.6](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=6)
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte risposta:** soluzione ufficiale, PDF p.6
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Piero's solitaire win percentage*
+*Piero is playing a solitaire game on the computer. The computer stores the result of… in memory*
 
 ![[src_squadre_2008_roma__prob7.png]]
 
-> Piero plays a solitaire game on the computer. The computer stores the outcome of every game (won or lost) and shows the percentage of games won, rounding it to the nearest integer (for a percentage such as 78.5 it rounds up, i.e. to 79). So far Piero has played 100 games and has a win percentage of 90%. How many consecutive games must Piero now win for the computer to give him a win percentage of 95%?
+> Piero is playing a solitaire game on the computer. The computer stores the result of each game (win or loss) and displays the percentage of games won, rounding it to the nearest whole number (for a percentage like 78.5, it is rounded up, that is, to 79). So far, Piero has played 100 games and has a win rate of 90%. How many consecutive games must Piero win now for the computer to assign him a win rate of 95%?
 
-**Answer:** 0082
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2008_roma#q07|src_squadre_2008_roma__Q07]]
 
 
 
@@ -243,19 +264,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2008
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*f(x) = 1 − 1/(2x) iterated 2008 times*
+*Let f(x) = 1 − 1/(2x). Define f^2(x) = f(f(x)), f^3(x) = f(f(f(x))), etc.…*
 
 ![[src_squadre_2008_roma__prob8.png]]
 
-> Let f(x) = 1 − 1/(2x). Define f^2(x) = f(f(x)), f^3(x) = f(f(f(x))), etc. What is f^(2008)(2008)?
+> Let f(x) = 1 − 1/(2x). Define f^2(x) = f(f(x)), f^3(x) = f(f(f(x))), and so on. What is the value of f^(2008)(2008)?
 
-**Answer:** 2008
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2008_roma#q08|src_squadre_2008_roma__Q08]]
 
 
 
@@ -280,22 +304,23 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3596
-**Fonte risposta:** soluzione ufficiale, [PDF p.7](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=7)
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte risposta:** soluzione ufficiale, PDF p.7
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The Sommiramide in Focus Brain Trainer*
+*Mr. Mauro, deputy editor of the magazine Focus Brain Trainer, is doing the last co…*
 
 ![[src_squadre_2008_roma__prob9.png]]
 
-> Mr Mauro, deputy editor of the magazine Focus Brain Trainer, makes the last check before giving the OK for printing. In the column Matematica (e non solo) he finds the following Sommiramide [sum pyramid]
-> figure 1
-> The game consists of filling the empty cells with non-negative integers, so that each cell is the sum of the two on which it rests. Mr Mauro, however, notices that the Sommiramide in question is not uniquely determined (that is, there are several ways of completing it) and suggests to the person in charge of the column to add a number in the top cell, so that the solution becomes unique. What is the largest number that can be put in the top cell so that this happens?
+> Mr. Mauro, deputy editor of the magazine Focus Brain Trainer, carries out the final check before giving the go-ahead for printing. In the Mathematics (and Not Only) column, he finds the following Sommiramide, Figure 1. The game consists of filling the empty cells with non-negative integers so that each cell is the sum of the two cells it rests on. However, Mr. Mauro realizes that the Sommiramide in question is not uniquely determined (that is, there are several ways to complete it), and he suggests to the person in charge of the column that a number be added to the top cell so that the solution becomes unique. What is the largest number that can be placed in the top cell to make this happen?
 
-**Answer:** 3596
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2008_roma#q09|src_squadre_2008_roma__Q09]]
 
 
 
@@ -314,19 +339,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0400
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Locus from which a square is seen under 45°*
+*Consider the locus of points in the plane from which a square of side length 10 is visible…*
 
 ![[src_squadre_2008_roma__prob10.png]]
 
-> Consider the locus of points of the plane from which a square of side 10 is seen under an angle of 45°. The area of the region it encloses is a number of the form A + Bπ, with A and B integers. What is A?
+> Consider the locus of points in the plane from which a square of side length 10 is viewed under an angle of 45°. The area of the region enclosed by this locus is a number of the form A + Bπ, where A and B are integers. What is the value of A?
 
-**Answer:** 0400
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2008_roma#q10|src_squadre_2008_roma__Q10]]
 
 
 
@@ -344,19 +372,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0148
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Digits of the product of the divisors of 1000000*
+*Determine how many digits the product of all divisors of 1000000 has (co…*
 
 ![[src_squadre_2008_roma__prob11.png]]
 
-> Determine how many digits the product of all the divisors of 1000000 (including 1 and 1000000) has.
+> Determine how many digits the product of all divisors of 1000000 (including 1 and 1000000) has.
 
-**Answer:** 0148
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2008_roma#q11|src_squadre_2008_roma__Q11]]
 
 
 
@@ -373,19 +404,19 @@ level: squadre
 > bisogna ancora utilizzarne perché il diametro diventi di 10 cm?
 
 **Risposta:** 0261
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A roll of adhesive tape*
+*A large roll of adhesive tape has a diameter of 20 cm. After using some of it…*
 
 ![[src_squadre_2008_roma__prob12.png]]
 
-> A large roll of adhesive tape has a diameter of 20 cm. After 39 metres have been used, the diameter has become 19 cm. How many more metres must be used for the diameter to become 10 cm?
+> A large roll of adhesive tape has a diameter of 20 cm. After 39 meters have been used, the diameter has become 19 cm. How many more meters need to be used for the diameter to become 10 cm?
 
-**Answer:** 0261
+[[Quesiti/src_squadre_2008_roma#q12|src_squadre_2008_roma__Q12]]
 
 
 
@@ -405,19 +436,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1440
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eight people at a round table, no two males adjacent*
+*Ugo, Aldo, Luca, Ada, Eva, Ida, Sara, and Claudia sit down at a round table…*
 
 ![[src_squadre_2008_roma__prob13.png]]
 
-> Ugo, Aldo, Luca, Ada, Eva, Ida, Sara and Claudia sit at a round table with 8 places so that two males are never next to each other. In how many different ways can they do so? (Two ways of sitting at the table are to be considered the same if there is a rotation of the table that makes them coincide.)
+> Ugo, Aldo, Luca, Ada, Eva, Ida, Sara, and Claudia sit at an 8-seat round table so that no two males are ever next to each other. In how many different ways can they do this? (Two arrangements at the table are to be regarded as the same if there is a rotation of the table that makes them coincide.)
 
-**Answer:** 1440
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2008_roma#q13|src_squadre_2008_roma__Q13]]
 
 
 
@@ -435,19 +469,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0185
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seven dice showing all six faces*
+*Seven dice are rolled, each having 6 faces numbered from 1 to 6. Let p be the probability…*
 
 ![[src_squadre_2008_roma__prob14.png]]
 
-> 7 dice are thrown, each with its 6 faces numbered from 1 to 6. Let p be the probability that all 6 faces appear among the seven results. What is the integer part of 10/p?
+> Seven dice are rolled, each with 6 faces numbered from 1 to 6. Let p be the probability that all 6 faces appear among the seven results. What is the integer part of 10/p?
 
-**Answer:** 0185
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2008_roma#q14|src_squadre_2008_roma__Q14]]
 
 
 
@@ -468,19 +505,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0001
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*10,000 bags of sweets and multiples of 11*
+*In a warehouse, there are 10,000 bags of candies. Each of these bags…*
 
 ![[src_squadre_2008_roma__prob15.png]]
 
-> In a warehouse there are 10,000 bags of sweets. Each of these bags contains a number of sweets greater than or equal to 1 and less than or equal to 11. It is known that however the bags are divided into two non-empty groups of bags, at least one of the two groups of bags contains a total number of sweets that is a multiple of 11. Under these conditions, what is the maximum number of bags containing a number of sweets different from 11?
+> In a warehouse, there are 10,000 bags of candies. Each of these bags contains a number of candies that is greater than or equal to 1 and less than or equal to 11. It is known that, no matter how the bags are divided into two non-empty groups of bags, at least one of the two groups of bags contains a total number of candies that is a multiple of 11. Under these conditions, what is the maximum number of bags that contain a number of candies different from 11?
 
-**Answer:** 0001
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2008_roma#q15|src_squadre_2008_roma__Q15]]
 
 
 
@@ -499,20 +539,23 @@ level: squadre
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1935
-**Fonte risposta:** soluzione ufficiale, [PDF p.11](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=11)
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte risposta:** soluzione ufficiale, PDF p.11
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*F(F(x)) = x + 2 and F(25) = 100*
+*Of a function F : Z → Z, that is, of a function that associates with each integer…*
 
 ![[src_squadre_2008_roma__prob16.png]]
 
-> Of a function F : Z → Z, that is, a function associating an integer with every integer, it is known that F(F(x)) = x + 2 and that F(25) = 100. What is F(2008)?
+> For a function F : Z → Z—that is, a function that assigns an integer to each integer—it is known that F(F(x)) = x+2 and that F(25) = 100. What is the value of F(2008)?
 
-**Answer:** 1935
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2008_roma#q16|src_squadre_2008_roma__Q16]]
 
 
 
@@ -530,20 +573,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 5376
-**Fonte risposta:** soluzione ufficiale, [PDF p.11](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=11)
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte risposta:** soluzione ufficiale, PDF p.11
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer triangles with perimeter 508*
+*How many triangles are there whose sides have integer lengths and whose perimeter is 508?*
 
 ![[src_squadre_2008_roma__prob17.png]]
 
-> How many triangles with integer side lengths have perimeter 508?
+> How many triangles are there whose sides have integer lengths and whose perimeter is 508?
 
-**Answer:** 5376
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2008_roma#q17|src_squadre_2008_roma__Q17]]
 
 
 
@@ -562,19 +608,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4845
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coefficient of degree 16 in a polynomial sum*
+*Let P(x) be the polynomial obtained from (1 + x)^(19) + x(1 + x)^(18) + x^2(1 + x…*
 
 ![[src_squadre_2008_roma__prob18.png]]
 
-> Let P(x) be the polynomial obtained from (1 + x)^(19) + x(1 + x)^(18) + x^2(1 + x)^(17) + . . . + x^(19) by expanding the products and collecting like terms. Determine the coefficient of its term of degree 16.
+> Let P(x) be the polynomial obtained from (1 + x)^(19) + x(1 + x)^(18) + x^2(1 + x)^(17) + ... + x^(19) by expanding the products and combining like terms. Determine the coefficient of its term of degree 16.
 
-**Answer:** 4845
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2008_roma#q18|src_squadre_2008_roma__Q18]]
 
 
 
@@ -594,19 +643,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0384
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A flea jumping on the surface of a cube*
+*A flea jumps to the points with integer coordinates in space, starting from (0, 0,…*
 
 ![[src_squadre_2008_roma__prob19.png]]
 
-> A flea jumps on the points with integer coordinates in space, starting from (0, 0, 0). Each of its jumps consists of increasing by 1 one and only one of the 3 coordinates. In how many ways can it reach (3, 3, 3) while always staying on the surface of the cube of side 3 having a vertex at (0, 0, 0) and edges parallel to the Cartesian axes?
+> A flea jumps to points with integer coordinates in space, starting from (0, 0, 0). Each of its jumps consists of increasing exactly one of the three coordinates by 1. In how many ways can it reach (3, 3, 3) while always staying on the surface of a cube of side length 3 that has a vertex at (0, 0, 0) and edges parallel to the Cartesian axes?
 
-**Answer:** 0384
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2008_roma#q19|src_squadre_2008_roma__Q19]]
 
 
 
@@ -625,16 +677,19 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1024
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2008_7%20aprile%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2008 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers on the edges of a cube with face products −7*
+*In how many ways can integers be arranged along the edges of a cube in…*
 
 ![[src_squadre_2008_roma__prob20.png]]
 
-> In how many ways can integers be placed along the edges of a cube so that the product of the numbers appearing along the edges of each face of the cube is equal to -7?
+> In how many ways can the integers be arranged along the edges of a cube so that the product of the numbers appearing along the edges of each face of the cube is equal to -7?
 
-**Answer:** 1024
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2008_roma#q20|src_squadre_2008_roma__Q20]]

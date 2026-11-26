@@ -38,9 +38,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Q positions for an APQ triangle similar to the ABC isosceles*
+*Positions of Q for triangle APQ similar to isosceles ABC*
 
-> In an ABC isosceles triangle with AC = BC  = AB, a point P is fixed on the base AB. How many positions can a point Q occupy in the plane if we want points A, P and Q, taken in any order, to be the vertices of a triangle similar to ABC?
+> In an isosceles triangle ABC with AC = BC ≠ AB, fix a point P on the base AB. How many positions can a point Q take in the plane if we want the points A, P and Q, taken in any order, to be the vertices of a triangle similar to ABC?
 >
 > - **(A)** 0
 > - **(B)** 2
@@ -48,7 +48,11 @@ level: 2 livello
 > - **(D)** 4
 > - **(E)** 6.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2007_2livello#q01|src_archimede_2007_2livello__Q01]]
 
 
 
@@ -82,9 +86,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which barrel contains beer given the double binding on wine*
+*Which barrel contains beer given the double constraint on the wine*
 
-> A merchant has six barrels of 15, 16, 18, 19, 20 and 31 litres capacity. Five of them are full of wine and only one of them is full of beer. The merchant holds the barrel of beer for himself and sells all the barrels of wine to two different people, without breaking the contents. If one of the two buyers bought exactly twice as much wine as the other, how many litres of beer is in the barrel?
+> A merchant has 6 barrels of capacity 15, 16, 18, 19, 20 and 31 litres. Five of them are full of wine and only one of them is full of beer. The merchant keeps the beer barrel for himself and sells all the wine barrels to two different people, without dividing their contents. If one of the two buyers bought exactly double the amount of wine purchased by the other, how many litres does the beer barrel contain?
 >
 > - **(A)** 16
 > - **(B)** 18
@@ -92,7 +96,11 @@ level: 2 livello
 > - **(D)** 20
 > - **(E)** 31.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2007_2livello#q02|src_archimede_2007_2livello__Q02]]
 
 
 
@@ -122,9 +130,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seventh digit in base 8 by binary representation given*
+*Seventh digit in base 8 from a given binary representation*
 
-> The representation on base 2 of a number a is 1110000100111010101110100001. What is the seventh digit to the left of the representation of a in base 8?
+> The base 2 representation of a number a is 1110000100111010101110100001. What is the seventh digit from the left of the representation of a in base 8?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -132,7 +140,10 @@ level: 2 livello
 > - **(D)** 5
 > - **(E)** 6.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2007_2livello#q03|src_archimede_2007_2livello__Q03]]
 
 
 
@@ -163,9 +174,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Vote of the last examination lowered from the average to 22,25*
+*The grade on the last exam lowered the average to 22.25*
 
-> One college student passed a number of exams, averaging 23. After passing another exam, his average drops to 22.25. Knowing that the score of each exam is an integer between 18 and 30 inclusive, what score did the student get on the last exam?
+> A university student has passed a certain number of exams, averaging 23. After passing another exam, his average drops to 22.25. Knowing that each exam grade is an integer between 18 and 30 inclusive, what grade did the student get on the last exam?
 >
 > - **(A)** 18
 > - **(B)** 19
@@ -173,7 +184,10 @@ level: 2 livello
 > - **(D)** 21
 > - **(E)** 22.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2007_2livello#q04|src_archimede_2007_2livello__Q04]]
 
 
 
@@ -204,17 +218,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relation of coefficients if two roots have zero sum*
+*Relation among the coefficients when two roots sum to zero*
 
-> Whether P(x) = x3 + ax2 + bx + c. Knowing that the sum of two of the roots of the polynomial is zero, which of the following relationships between the coefficients of P(x) is always true?
+> Let P(x) = x3 + ax2 + bx + c. Given that the sum of two of the roots of the polynomial is zero, which of the following relations among the coefficients of P(x) is always true?
 >
-> - **(A)** the abc = 0
+> - **(A)** abc = 0
 > - **(B)** c = ab
 > - **(C)** c = a + b
 > - **(D)** b2 = ac
-> - **(E)** None of the above answers are correct.
+> - **(E)** none of the previous answers is correct.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2007_2livello#q05|src_archimede_2007_2livello__Q05]]
 
 
 
@@ -246,9 +264,11 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimate even numbers by choosing 50 numbers with sum of 3000*
+*Minimum number of even numbers choosing 50 numbers with sum 3000*
 
-> From the sum of {1, 2, . . . Let's choose 50 distinct numbers, the sum of which is 3000. At least, how many even numbers have we chosen?
+> From the set {1, 2, . . . , 100} we choose 50 distinct numbers whose sum is 3000.
+> At minimum,
+> how many even numbers have we chosen?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -256,7 +276,11 @@ level: 2 livello
 > - **(D)** 5
 > - **(E)** 6.
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2007_2livello#q06|src_archimede_2007_2livello__Q06]]
 
 
 
@@ -292,17 +316,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Austrian-Danish score from the Giro classification*
+*Austria-Denmark score from the group standings*
 
-> At the last World Cups, round A ended with the following ranking: Austria 7, Brazil 5, Cameroon 4, Denmark 0. Austria and Cameroon have each suffered a network. Brazil and Cameroon scored once, while Austria scored three times. With what score did Austria-Denmark finish? Note: Please note that in each match played in the round, the winning team gains 3 points, the losing team 0 points; in the event of a draw each of the two teams gains 1 point.
+> At the last football World Cup, group A finished with the following standings: Austria 7, Brazil 5, Cameroon 4, Denmark 0. Austria and Cameroon each conceded one goal. Brazil and Cameroon scored only once, while Austria scored three goals. What was the final score of Austria-Denmark? Note: Recall that, in every match played in the group, the winning team earns 3 points and the losing team 0 points; in the event of a draw, each of the two teams earns 1 point.
 >
 > - **(A)** 1–0
 > - **(B)** 2–1
 > - **(C)** 2–0
 > - **(D)** 0–0
-> - **(E)** the data provided alone cannot be determined.
+> - **(E)** it cannot be determined from the data given alone.
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2007_2livello#q07|src_archimede_2007_2livello__Q07]]
 
 
 
@@ -336,9 +364,14 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the crescent shaft cut with compass radius r√2*
+*Area of the crescent cut out with a compass of radius r√2*
 
-> Priscilla was commissioned to prepare the sets for her school's performance. It needs a crescent shaft, and it has a r-ray cardboard circle at its disposal in which to cut it; then it points the compass at the edge of the circle, draws an arc of radius r √ 2 and cuts along the traced line. How much is the area of the crescent moon you get?
+> Priscilla has been asked to prepare the scenery for her school’s play. She needs
+> a crescent moon, and she has a cardboard circle of radius r in which to cut it out; so she places
+> the compass point on the edge of the circle, draws an arc of circumference of radius r
+> √
+> 2 and cuts along the
+> line drawn. What is the area of the crescent moon she obtains?
 >
 > - **(A)** r2
 > - **(B)** √ 2 2 πr2
@@ -346,7 +379,10 @@ level: 2 livello
 > - **(D)** π 4 + 1 2  r2
 > - **(E)** π 4 + 1  r2
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2007_2livello#q08|src_archimede_2007_2livello__Q08]]
 
 
 
@@ -379,9 +415,10 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability that Barbara did not peak Alberto
+*Probability that Barbara has no spades given Alberto*
 
-> Alberto, Barbara, Chiara, and Davide mix a deck of 40 cards and then distribute 10 cards to each of them. Alberto looks at her and exclaims: "What a strange thing, I don't have any cards". Given this information, what is the probability that Barbara doesn't even have a peak card? (Note: the peak cards are 10).
+> Alberto, Barbara, Chiara and Davide shuffle a deck of 40 cards and then deal 10 to each. Alberto looks at his and exclaims: “How strange, I have no spades”. Knowing this information, what is the probability that Barbara also has no spades?
+> (note: there are 10 spades).
 >
 > - **(A)** 30! 20! 40!
 > - **(B)** 20! 10! 30!
@@ -389,7 +426,11 @@ The probability that Barbara did not peak Alberto
 > - **(D)** 20! 20! 10! 30!
 > - **(E)** 30! 10! 40!
 
-**Answer:** D
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2007_2livello#q09|src_archimede_2007_2livello__Q09]]
 
 
 
@@ -422,9 +463,13 @@ The probability that Barbara did not peak Alberto
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate b/h given equilateral triangle and isoperimeteral rectangle*
+*Ratio b/h given equilateral and rectangular isoperimetric triangles*
 
-> An equilateral triangle has the same perimeter as a rectangle of dimensions b and h (with b > h). The area of the triangle is √ 3 times the area of the rectangle. How much is b h worth?
+> An equilateral triangle has the same perimeter as a rectangle with dimensions b and h (with b > h).
+> The area of the triangle is
+> √
+> 3 times the area of the rectangle. What is the value of b
+> h?
 >
 > - **(A)** √ 3
 > - **(B)** 2
@@ -432,7 +477,10 @@ The probability that Barbara did not peak Alberto
 > - **(D)** 3 + √ 5 2
 > - **(E)** 7 + 3 √ 5 2 .
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2007_2livello#q10|src_archimede_2007_2livello__Q10]]
 
 
 
@@ -466,17 +514,21 @@ The probability that Barbara did not peak Alberto
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability group 6 with two holes, two silver, two narrow ones*
+*Probability a group of six has two golds, two silvers and two handshakes*
 
-> Every year a large number of students participate in the International Mathematical Olympiads. One twelfth of them wins a gold medal, another sixth wins a silver medal, an additional quarter wins a bronze medal and the other half wins a handshake. If we encounter a group of six randomly selected participants, what is the probability that it will consist of two gold medals, two silver medals and two handshake winners?
+> Every year a large number of students take part in the International Mathematical Olympiad. One twelfth of them win a gold medal, another sixth win a silver medal, a further quarter win a bronze medal, and the remaining half win a handshake. If we meet a group of six participants chosen at random, what is the probability that it consists of two gold medals, two silver medals and two handshake winners?
 >
-> - **(A)** About 40%
-> - **(B)** Approximately 4%
-> - **(C)** Approximately 0.4%
-> - **(D)** Approximately 0.04%
-> - **(E)** About 0.004%.
+> - **(A)** about 40%
+> - **(B)** about 4%
+> - **(C)** about 0.4%
+> - **(D)** about 0.04%
+> - **(E)** about 0.004%.
 
-**Answer:** C
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2007_2livello#q11|src_archimede_2007_2livello__Q11]]
 
 
 
@@ -507,17 +559,21 @@ The probability that Barbara did not peak Alberto
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most prime numbers among 20 consecutive integers >50*
+*Maximum number of primes among 20 consecutive integers greater than 50*
 
-> Consider any set of 20 consecutive integers, all greater than 50. How many of these can be prime numbers at most?
+> Consider any set of 20 consecutive integers, all greater than 50. At most how many of them can be prime?
 >
 > - **(A)** 4
 > - **(B)** 5
 > - **(C)** 6
 > - **(D)** 7
-> - **(E)** 8. Problems with a numerical answer  8 points
+> - **(E)** 8. Problems with a numerical answer – 8 points
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2007_2livello#q12|src_archimede_2007_2livello__Q12]]
 
 
 
@@ -542,11 +598,15 @@ The probability that Barbara did not peak Alberto
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last 3 digits of p(21) given p(k) = 2 k for k from 1 to 20*
+*Last three digits of p(21) given p(k)=2^k for k from 1 to 20*
 
-> So p(x) = x20 + a19x19 + a18x18 + . . . + a1x + a0 a polynomial, with the integers a. We know that for all integers k between 1 and 20, p (k) = 2k. What are the last three digits of p?
+> Let p(x) = x^20 + a_19 x^19 + a_18 x^18 + . . . + a_1 x + a_0 be a polynomial, with the a_i integers. We know that, for all integers k between 1 and 20, p(k) = 2^k. What are the last three digits of p(21)?
 
-**Answer:** 042
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2007_2livello#q13|src_archimede_2007_2livello__Q13]]
 
 
 
@@ -574,11 +634,18 @@ The probability that Barbara did not peak Alberto
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For those in the symmetric system with whole solutions*
+*For how many a does the symmetric system have integer solutions*
 
-> If a is a positive integer less than 100, for how many values of a system x2 = y + a y2 = x + a does it have whole solutions?
+> If a is a positive integer less than 100, for how many values of a does the system
+> $$x^2 = y + a$$
+> $$y^2 = x + a$$
+> have integer solutions?
 
-**Answer:** 19
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2007_2livello#q14|src_archimede_2007_2livello__Q14]]
 
 
 
@@ -607,11 +674,15 @@ The probability that Barbara did not peak Alberto
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lorence leaps on the 2007 polygon side to overcome summit 1*
+*Lorenza's jumps on the 2007-sided polygon to pass vertex 1*
 
-> Lorenza is located on a track shaped like a regular polygon with 2007 sides, the vertices of which are numbered from 1 to 2007 clockwise. Lorenza, starting from peak 6, jumps 4 vertices each time and falls on the fifth further forward (e.g., from 20 to 25), but jumps back 2 vertices when it falls on a peak identified by a power of 2 (e.g., after a possible jump from 27 to 32, it must jump back to 30). After how many jumps will Lorenza have crossed summit 1 for the first time?
+> Lorenza is on a track shaped like a regular polygon with 2007 sides, whose vertices are numbered from 1 to 2007 counterclockwise. Starting from vertex 6, Lorenza jumps each time over 4 vertices and lands on the fifth one ahead (for example, from 20 she jumps to 25), but jumps back 2 vertices when she lands on a vertex identified by a power of 2 (for example, after a possible jump from 27 to 32, she must jump back to 30). After how many jumps will Lorenza have passed vertex 1 for the first time?
 
-**Answer:** 405
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2007_2livello#q15|src_archimede_2007_2livello__Q15]]
 
 
 
@@ -647,13 +718,18 @@ The probability that Barbara did not peak Alberto
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flea jump sequences to finish at 80 cm after 5 jumps*
+*Sequences of a fleas jumps to end at 80 cm after 5 jumps*
 
-![[src_archimede_2007_2livello__prob16.png]]
+> A flea moves by jumping forwards and backwards along a line. The flea's burrow is a point on the line. The jumping rules are the following:
+> • if the flea is at a distance less than or equal to one metre from the burrow, after the next jump it will be at a distance double the previous one, moving even further away from the burrow.
+> • if the flea is at a distance $d$ greater than one metre from the burrow, after the next jump it will be at a distance $\frac{1}{d}$ from the burrow but on the opposite side to where it currently is.
+> If after 5 jumps the flea is at 80 cm from the burrow in a certain direction, in how many distinct sequences of jumps can it have reached that position?
 
-> A flea moves by jumping back and forth along a straight line. The flea's lair is a point of rectitude. • if the flea is less than or equal to one metre away from the pit, after the next jump it will be twice as far away from the pit. • if the flea is more than a metre away from the pit, after the next jump it will be 1 metre away from the pit but on the opposite side from where it is currently. If after 5 jumps the fleas are within 50 inches of the hole in a certain direction, how many distinct jump sequences can it have reached that position?
 
-**Answer:** 6
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2007_2livello#q16|src_archimede_2007_2livello__Q16]]
 
 
 
@@ -684,9 +760,14 @@ The probability that Barbara did not peak Alberto
 
 *Pairs of triangular numbers with difference 2007*
 
-> A positive integer is said to be triangular if it can be written in the form n(n + 1) 2 for some positive integer n. How many pairs (a, b) of triangular numbers such that b −a = 2007? (Remember that 223 is a prime number.)
+> PROOF PROBLEM
+> A positive integer is called triangular if it can be written in the form n(n + 1)/2 for some positive integer n. How many pairs (a, b) of triangular numbers satisfy b − a = 2007? (Recall that 223 is a prime number.)
 
-**Answer:** 6
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2007_2livello#q17|src_archimede_2007_2livello__Q17]]
 
 
 
@@ -714,8 +795,14 @@ The probability that Barbara did not peak Alberto
 <div class="qlang-split" data-lang="en"></div>
 
 
-*DO bisette and similarities CDB~AOD in circumference*
+*Bisector DO and similarity CDB~AOD on a circle*
 
-> DEMOSTRATIVE EXERCISE A circumference of diameter AB and centre O is given. Whether C is a point on the circumference (different from A and B), and the line r parallel to AC is plotted for O. Either D the intersection of r with the circumference of the opposite side of C to AB. (i) Demonstrate that the DO is $\widehat{CDB}$. (ii) Demonstrate that the CDB triangle is similar to the AOD triangle.
+> PROOF EXERCISE
+> A circle with diameter AB and centre O is given. Let C be a point on the circle (different from A and B), and draw the line r parallel to AC through O. Let D be the intersection of r with the circle on the side opposite C with respect to AB.
+> i) Prove that DO is the bisector of $\widehat{CDB}$.
+> ii) Prove that triangle CDB is similar to triangle AOD.
 
-**Answer:** proof
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2007_2livello#q18|src_archimede_2007_2livello__Q18]]

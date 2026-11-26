@@ -31,13 +31,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number in the grey column*
+*Number in the gray column*
 
 ![[src_cesenatico_2006_squadre_pubblico__prob1.png]]
 
-> It's a cube.
+> A cube.
 
-**Answer:** 0793
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q01|src_cesenatico_2006_squadre_pubblico__Q01]]
 
 
 
@@ -70,11 +74,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pious large x with cbrt(x+1184)-cbrt(x-1184)=4*
+*Larger x such that cbrt(x+1184)-cbrt(x-1184)=4*
 
-> A number with only even digits. 2. Unveiled impostors [40] Often people wonder how it is possible to recognize a mathematician from a mateban, that is, someone fasting mathematics. It's often simpler than you think. A mattress would never find the greatest value of x so 3√ x+1184− 3√ x−1184 = 4.
+> A number whose digits are all even.
+> 2. Impostors Exposed
+> [40]
+> People often wonder how it is possible to tell a mathmagician from a mathbban—that is, someone who knows nothing about mathmagic. Often it's simpler than people think. A mathbban would never be able to find the greatest value of x for which 3√x+1184 − 3√x−1184 = 4.
 
-**Answer:** 2912
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q02|src_cesenatico_2006_squadre_pubblico__Q02]]
 
 
 
@@ -102,11 +114,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of allied/enemy relations between five households*
+*Modes of allied/hostile relations among five houses*
 
-> Rapports are stormy.[35] The mathematics students of the Higher Mathematical School are divided into five houses: Rapporteur, Partimaginaria, Perognesiste, Inclusion and Righecompass. Houses are two to two allies or enemies. Any ally of an enemy house is also an enemy. How many different ways can the mutual relations between the five houses be?
+> Turbulent relationships
+> [35]
+> The mathmagic students at the Higher School of Mathmagic are divided into five houses: Rapportaureo, Partimmaginaria, Perognesiste, Inclusionesclusione, and Righecompasso. The houses are allied or enemies in pairs. Every ally of an enemy house is also an enemy. In how many different ways can the mutual relationships among the five houses be arranged?
 
-**Answer:** 0052
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q03|src_cesenatico_2006_squadre_pubblico__Q03]]
 
 
 
@@ -142,9 +160,19 @@ level: squadre
 
 *Minimum of 4a^3/b + b + 1/a with a,b>0*
 
-> The first test [60] Finally came the big day of the Triangle tournament. The competitors are placed before the first test: determine the minimum value of 4a3 b + b+1 a at the variation of a > 0 and b > 0 real numbers. Team competition 2006  Public competition  Problem texts  Pag. 1 di 4
+> The first test
+> [60]
+> Finally, the big day of the TreAngoli tournament has arrived. The contestants are faced with the first challenge: determining the minimum value of 4a³b + b+1a as a > 0 and b > 0, where a and b are real numbers.
+> 2006 Team Competition – Public Vote Round – Problem Statements – Page 1 of 4
+>
+> Page 2 of 4 – Team Competition 2006 – Public Competition – Problem Statements
 
-**Answer:** 0004
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q04|src_cesenatico_2006_squadre_pubblico__Q04]]
 
 
 
@@ -188,9 +216,18 @@ level: squadre
 
 ![[src_cesenatico_2006_squadre_pubblico__prob5.png]]
 
-> Question of positions [40] In order to succeed in group spells in geomancy it is necessary to be quite precise in placing yourself in the right place. Hardy, Ron and his two brothers, Henri and Smale, are positioned in points A, B, C and D which are, in the order, on a circumference as shown in the figure. We know that AC is equal to CD is equal to 10 √ 5 and that BC is equal to 5 √ 5. So E is the foot of the perpendicular from C to BD, you get CE is equal to 10. Determine the AB. A B C D
+> A matter of positions
+> [40]
+> To make group spells work in geomancy, one must be fairly precise about positioning oneself in the right place. Hardy, Ron, and his two brothers, Henri and Smale, position themselves at points A, B, C, and D, which, in order, lie on a circle as shown in the figure. We know that AC = CD = 10√5 and that BC = 5√
+> 5. Let E be the foot of the perpendicular from C to BD; then CE = 10. Determine AB.
+> A B C D
 
-**Answer:** 0015
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q05|src_cesenatico_2006_squadre_pubblico__Q05]]
 
 
 
@@ -220,11 +257,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Coefficient of x^2006 in product of polynomials
+*Coefficient of x^2006 in the product of polynomials*
 
-> Ron has discovered the other half of the sky, the girls! His passion is the most beautiful of all mathematicians: Clara, of the house of Righecompass. The number of Chiara's chamber is equal to the coefficient of the term x2006 of the polynomial (1+x) 2(1+x2)(1+x4)(1+x8) 3(1+x16)(1+x32) 4(1+x64)(1+x128)(1+x256)(1+x512)(1+x1024). Which room in Righecompasso's house is Ron supposed to go into?
+> A lousy seducer
+> [35]
+> Ron has discovered the other half of the sky—girls! His passion is the prettiest girl at the School of Mathmages: Chiara, from the Righecompasso House. The number of Chiara's room is equal to the coefficient of the x2006 term in the polynomial (1+x)2(1+x2)(1+x4)(1+x8)3(1+x16)(1+x32)4(1+x64)(1+x128)(1+x256)(1+x512)(1+x1024). Which room in the Righecompasso House should Ron enter?
 
-**Answer:** 0064
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q06|src_cesenatico_2006_squadre_pubblico__Q06]]
 
 
 
@@ -253,11 +297,18 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Full length of propeller on cylinder, 2006 m in 15 laps*
+*Total helix length on a cylinder: 2006 m over 15 turns*
 
-> Quamditch training [20] In a Quamditch training, leggywoman Hermita Lagrange is studying a very difficult figure: she wants to go back slowly to a propeller (i.e. taking height regularly while spinning along the lateral surface of an imaginary cylinder), so that her scope travels a total distance of 2006 meters in exactly 15 laps, rising in all by an integer number of meters. In addition, the cylinder's circumference is to be a whole number of meters long. How much can this number be worth (if any)?
+> Quamditch Training
+> [20]
+> During a Quidditch training session, the graceful Hermita Lagrange is working on a very difficult maneuver: she wants to ascend slowly in a helix (that is, to gain altitude steadily while circling along the lateral surface of an imaginary cylinder), so that her broom covers a total distance of 2006 meters in exactly 15 turns and she ascends by a whole number of meters in total. Moreover, she wants the circumference of the cylinder to be a whole number of meters long. What can this number be (if it exists)?
 
-**Answer:** 0118
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q07|src_cesenatico_2006_squadre_pubblico__Q07]]
 
 
 
@@ -287,11 +338,18 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-The final figure is not much of (5n)! for four years*
+*The last non-zero digit of (5n)! for four years*
 
-> Merited Holidays [80] According to a long tradition, the number of extra-curricular holidays of the Higher Mathematical School is decided each solar year on the basis of an ancient tradition. It is always a number between 1 and 9, and in the year n must correspond to the last non-zero figure of the factor of 5n (calculated at the matrices in a special ceremony). How many vacation days are there in the next four years? Answer a number whose four digits are in the order of the holiday days of the years 2006 to 2009.
+> Well-deserved holiday
+> [80]
+> By long-standing tradition, the number of extraordinary holiday days at the Higher School of Matemagics is determined each calendar year according to an ancient tradition. It is always a number between 1 and 9, and in year n it must correspond to the last non-zero digit of the factorial of 5n (which is made to be calculated by the freshmen at a special ceremony). How many holiday days will there be over the next four years? Give a number whose four digits, in order, are the number of holiday days in the years from 2006 to 2009.
 
-**Answer:** 4862
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q08|src_cesenatico_2006_squadre_pubblico__Q08]]
 
 
 
@@ -319,11 +377,18 @@ The final figure is not much of (5n)! for four years*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of years with at least 36 divisors in [1006,2006]*
+*Sum of years with at least 36 divisors in [1006,2006]*
 
-> The Triangle tournament [45] In years that have at least 36 divisors, the Higher School of Mathematics organizes the Triangle tournament. From its foundation in 1006 to this year in 2006, in which years has the tournament been organized? Answer with the sum of those years.
+> The TreAngoli Tournament
+> [45]
+> In years that have at least 36 divisors, the Higher School of MathMagic organizes the TreAngoli Tournament. From its founding in the year 1006 up to this year, 2006, in which years was the tournament held? Answer with the sum of those years.
 
-**Answer:** 8160
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q09|src_cesenatico_2006_squadre_pubblico__Q09]]
 
 
 
@@ -354,11 +419,18 @@ The final figure is not much of (5n)! for four years*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum useful combinations of 36 ingredients (condition)*
+*Minimum number of useful combinations from 36 ingredients (condition)*
 
-> During the potion lesson, Hardy and his friend Ron Perelman have to choose two of the 36 ingredients available and mix them in hopes of getting a potion with some properties. Their friend Hermita told him that if the first two ingredients don't work, he should try two more (changing them both): it may happen that even then he gets nothing, but then  assures him  by mixing an ingredient from each pair (in any way) you will necessarily get a useful potion. How many combinations of at least two ingredients make a potion useful?
+> At Potions class
+> [65]
+> During the Potions lesson, Hardy and his friend Ron Perelman must choose two ingredients from the 36 available and mix them in the hope of obtaining a potion with some property. Their friend Hermita told them that if the first two ingredients have no effect, it is worth trying again with two other ones (replacing both): it may happen that even in this case they get nothing, but then—she assures them—by mixing one ingredient from each pair (in any way), they will definitely end up with a useful potion. What is the minimum number of combinations of two ingredients that yield a useful potion?
 
-**Answer:** 0594
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q10|src_cesenatico_2006_squadre_pubblico__Q10]]
 
 
 
@@ -392,13 +464,20 @@ The final figure is not much of (5n)! for four years*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Deposition of dice that minimizes the spread of magic numbers*
+*Die arrangement that minimizes the spread of magic numbers*
 
-> Fracto Malpoysto hates to lose! He then decides to make up a common dice with a spell, which is based on the eight magic numbers of the dice. These are obtained, starting from each of the vertices, by adding up the numbers written on the three faces that compete. Witchcraft consists of placing the numbers 1 to 6 on the sides of the dice so that the difference between the maximum and minimum magic number is as small as possible. Find the layout, and you're going to put in each of the four digits, orderly from left to right, the number that's opposite to 1, the number that's opposite to 2, then 3 and finally 4.
-> 
-> Team competition 2006  Public competition  Problem texts  Pag. 3 di 4
+> A fraudulent scheme
+> [15]
+> Fracto Malpoysto hates losing! He therefore decides to enchant an ordinary die using a spell based on the die's eight magic numbers. These are obtained, starting from each vertex, by adding the numbers written on the three faces that meet at that vertex. The spell consists of arranging the numbers from 1 to 6 carefully on the faces of the die so that the difference between the largest magic number and the smallest magic number is as small as possible. Find the arrangement by indicating, in each of the 4 digits, in order from left to right, the number opposite 1, the number opposite 2, then the number opposite 3, and finally the number opposite 4.
+>
+> 2006 Team Competition – Public Vote Competition – Problem Statements – Page 3 of 4
 
-**Answer:** 2143
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q11|src_cesenatico_2006_squadre_pubblico__Q11]]
 
 
 
@@ -426,11 +505,18 @@ The final figure is not much of (5n)! for four years*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sub-sets of {1,9} with multiple sums of 3*
+*Subsets of {1..9} with a sum that is a multiple of 3*
 
-> The Quamditch team[40] Hardy, the captain of the Rapporteur's home Quamditch team must decide the roster of nine players from his home Quamditch team. How many non-empty subsets of {1,2,3,4,5,6,7,8,9} are such that the sum of the elements is multiple of 3?
+> The Quamditch team
+> [40]
+> Hardy, the captain of the Quamditch team of the Rapportaureo house, must determine the roster of nine players for his house's Quamditch team. How many non-empty subsets of {1,2,3,4,5,6,7,8,9} are there such that the sum of the elements is a multiple of 3?
 
-**Answer:** 0175
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q12|src_cesenatico_2006_squadre_pubblico__Q12]]
 
 
 
@@ -459,11 +545,18 @@ The final figure is not much of (5n)! for four years*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final fifth root of a 17-digit number*
+*Integer fifth root of a 17-digit number*
 
-> The divination test [70] The highly trained Hermit has just passed, with ease, the divination test, despite the prediction of roots being, according to Hardy and Ron, a rather hostile subject. It was about calculating the fifth root of 107187643912857507, knowing that it is a 4-digit integer and that the third digit (counting from right to left) is 5. What's the solution?
+> The Divination Examination
+> [70]
+> The highly prepared Hermita has just easily passed the divination exam, even though, according to Hardy and Ron, the topic of roots is rather tricky. The task was to calculate the fifth root of 107187643912857507, knowing that it is a 4-digit integer and that the third digit (counting from right to left) is 5. What is the solution?
 
-**Answer:** 2547
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q13|src_cesenatico_2006_squadre_pubblico__Q13]]
 
 
 
@@ -490,11 +583,18 @@ The final figure is not much of (5n)! for four years*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining of 4 ·7^23+3^11 divided by 101*
+*Remainder of 4×7^23 + 3^11 divided by 101*
 
-> The second test [50] For the competitors in the TreAngoli tournament who survived the first test, it is now time to address the second question. They must determine the remainder of the whole division between 4·723 +311 and 101. What is it?
+> The second test
+> [50]
+> For the contestants in the TreAngoli tournament who survived the first challenge, it is now time to tackle the second question. They must determine the remainder when 4·723 +311 is divided by 101. What is it?
 
-**Answer:** 0000
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q14|src_cesenatico_2006_squadre_pubblico__Q14]]
 
 
 
@@ -526,11 +626,18 @@ The final figure is not much of (5n)! for four years*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Probability of possession of ball with dice (rules given)
+*Probability of ball possession with dice (rules given)*
 
-> The Quamditch Final [60] In the Quamditch school final, the teams of Reportaureo and Partimmaginaria meet. To decide the possession of the ball Hardy, the captain of Rapportaureo, and Fracto, the captain of Partimmaginaria, play the following game: they both draw a normal dice. If the number on Hardy's dice is greater than Fracto's, then the ball goes to Rapportaureo. If the numbers are the same, then the ball goes to Partimaginaria. If finally the Fracto number is the largest, then you repeat the game in reverse. Calculate the probability of the ball touching Rapporteur. Express the result as the sum of the numerator and denominator of the fraction reduced to minimum terms.
+> The Quamditch Final
+> [60]
+> In the school final at Quamditch, the teams of Rapportaureo and Partimmaginaria face each other. To determine who gets possession of the Hardy ball, Hardy, the captain of Rapportaureo, and Fracto, the captain of Partimmaginaria, play the following game: both roll a standard die. If the number on Hardy's die is greater than the number on Fracto's die, then the ball goes to Rapportaureo. If the numbers are equal, then the ball goes to Partimmaginaria. Finally, if Fracto's number is the largest, then the game is repeated with the roles reversed. Calculate the probability that the ball goes to Rapportaureo. Express the result as the sum of the numerator and denominator of the fraction reduced to its lowest terms.
 
-**Answer:** 0027
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q15|src_cesenatico_2006_squadre_pubblico__Q15]]
 
 
 
@@ -559,11 +666,18 @@ Probability of possession of ball with dice (rules given)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of cubes with 11x11x11 integer grid vertices*
+*Cubes with vertices at integer points in an 11x11x11 grid*
 
-> A Quamditch Scheme[25] Hardy, the team captain of the Quamditch team from the house of Rapporteur, instructs his teammates on a new game scheme he has developed. If we consider in space the sum of Q points that have whole coordinates and are between 0 and 10 (included), how many cubes exist with parallel shafts to the Cartesian axis and with vertices belonging to Q?
+> A diagram of Quamditch
+> [25]
+> Hardy, the captain of the Quamditch team from the Rapportaureo house, is instructing his teammates on a new game scheme he has devised. If, in space, we consider the set Q of points whose coordinates are integers between 0 and 10 inclusive, how many cubes exist whose edges are parallel to the Cartesian axes and whose vertices belong to Q?
 
-**Answer:** 3025
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q16|src_cesenatico_2006_squadre_pubblico__Q16]]
 
 
 
@@ -592,11 +706,18 @@ Probability of possession of ball with dice (rules given)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many sets of consecutive integers with a sum of 1 billion*
+*How many sets of consecutive integers have a sum of 1 billion?*
 
-> Situation of danger [40] Following the intrusion into the castle of the Higher Mathematical School of the followers of He-who-can-not-be-demonstrated, all the words of order to enter the houses of the school have been changed. As soon as Hardy, Ron, and Hermita try to enter the Reporter's house, the guard ghost asks them how many sets of consecutive integers there are and whose sum is a billion. What answer do you have to give to enter?
+> Dangerous situation
+> [40]
+> Following the intrusion into the castle of the Higher School of Mathemagics by the followers of He-Who-Cannot-Be-Proven, all the passwords for entering the school houses have been changed. As soon as Hardy, Ron, and Hermita try to enter Rapportaureo's house, the ghost on guard asks them how many sets there are consisting of consecutive integers whose sum is one billion. What answer must be given to get in?
 
-**Answer:** 0020
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q17|src_cesenatico_2006_squadre_pubblico__Q17]]
 
 
 
@@ -627,11 +748,18 @@ Probability of possession of ball with dice (rules given)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum denominator with decimal period 4 distinct digits*
+*Least common denominator with a decimal period of 4 distinct digits*
 
-> The beautiful deceiver [40] Ron is now completely fed up with Chiara, the beautiful girl at school. Beautiful Clara knows Ron's rather weak in arithmology, so to make fun of him she gives him a date at one of the castle halls. The number of the room is equal to the minimum possible denominator among all the fractions whose decimal writing contains a period of exactly four digits, all distinct. Which room is Ron supposed to go to?
+> The Beautiful Deceiver
+> [40]
+> Ron is now completely smitten with Chiara, the school beauty. Beautiful Chiara knows that Ron is rather weak at Arithmology, so to tease him, she arranges to meet him in one of the castle's rooms. The room number equals the smallest possible denominator among all fractions whose decimal representation has a repeating block of exactly four distinct digits. Which room should Ron go to?
 
-**Answer:** 0101
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q18|src_cesenatico_2006_squadre_pubblico__Q18]]
 
 
 
@@ -661,11 +789,20 @@ Probability of possession of ball with dice (rules given)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of 4 digits produced by only 2*
+*Maximum 4-digit number that is the product of only 2 numbers*
 
-> At the divination lesson [10] Poor Ron was blindfolded and the divination teacher wrote a formula on the board. Knowing that in the expression there are only 2 digits and multiplication marks, and that the result has four digits and is the maximum possible, what answer should Ron give?
+> At the Divination Class
+> [10]
+> Poor Ron was blindfolded, and the Divination teacher wrote a formula on the blackboard. Knowing that the expression contains only the digit 2 and multiplication signs, and that the result has four digits and is the maximum possible, what answer should Ron give?
+>
+> Page 4 of 4 – 2006 Team Competition – Public Competition – Problem Statements
 
-**Answer:** 9768
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q19|src_cesenatico_2006_squadre_pubblico__Q19]]
 
 
 
@@ -694,11 +831,18 @@ Probability of possession of ball with dice (rules given)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate 1000 A/B area triangles in the two-dimensional plane*
+*Ratio 1000 A/B: triangle areas in a dodecagon*
 
-> Defence against dark mathematics [25] Group lesson in the course of defence against dark mathematics! Twelve students, numbered S1, S2, respectively. . . , S12, are located at the vertices of a regular dodecagon. If the segments S1S6, S5S10 and S9S2 are plotted, four triangles are formed. Both A the area of the central triangle and B the sum of the areas of the other three. Calculate 1000A/B.
+> Defense Against Dark Mathemagics
+> [25]
+> A group lesson in the course on defense against dark mathematics magic! Twelve students, labeled in order as S1, S2, ..., S12, are positioned at the vertices of a regular dodecagon. If the line segments S1S6, S5S10, and S9S2 are drawn, four triangles are formed. Let A be the area of the central triangle and B be the sum of the areas of the other three. Calculate 1000A/B.
 
-**Answer:** 1000
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q20|src_cesenatico_2006_squadre_pubblico__Q20]]
 
 
 
@@ -728,11 +872,18 @@ Probability of possession of ball with dice (rules given)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rational sum of a/30 less than 10*
+*Rational sums a/30 reduced, less than 10*
 
-> Ambitious matriculations [20] Higher Mathematics School students are assigned to their home country according to their mathematical attitudes. This year, in order to enter the House of Rapporteur, it was necessary to find the sum of all the positive rations which, reduced to the minimum terms, have the form of 30, and which are less than 10. What was the response of the student body?
+> Ambitious first-year students
+> [20]
+> The freshmen of the Higher School of Mathemagics are assigned to their respective houses according to their mathemagical aptitudes. This year, to gain entry to the coveted House of Rapportaureo, it was necessary to find the sum of all positive rational numbers that, when reduced to lowest terms, are of the form a/30 and are less than 10. What answer did the freshmen of Rapportaureo give?
 
-**Answer:** 0400
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q21|src_cesenatico_2006_squadre_pubblico__Q21]]
 
 
 
@@ -762,11 +913,18 @@ Probability of possession of ball with dice (rules given)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integres >9 with strictly increasing numbers*
+*How many integers greater than 9 have strictly increasing digits?*
 
-> A condemnation to be avoided [10] The followers of He-who-can-not-be-proven, fierce supporters of dark and contradictory mathematics, are on the verge! Even simple questions can reveal their distorted mathematical knowledge. For example, the judge asked how many positive integers strictly greater than 9 whose digits on base 10 are strictly increasing from left to right. What is the answer to avoid condemnation?
+> A conviction to be avoided
+> [10]
+> The followers of the One-Who-Cannot-Be-Proven, fervent advocates of a dark and contradictory math-magic, are on trial! Even simple questions can reveal their distorted mathematical knowledge. For example, the judge asked how many positive integers strictly greater than 9 have decimal digits that are strictly increasing from left to right. What must be answered to avoid conviction?
 
-**Answer:** 0502
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q22|src_cesenatico_2006_squadre_pubblico__Q22]]
 
 
 
@@ -794,11 +952,18 @@ Probability of possession of ball with dice (rules given)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies equal to [4000,7000] with all other digits*
+*Even integers in [4000,7000] with all digits distinct*
 
-> Graduates of the Higher Mathematical School are assigned to their home country according to their mathematical attitudes. This year, for example, in order to enter the house of Inclusion, it was necessary to know how many integers are equal, including between 4000 and 7000, all of which have different digits. What's the right answer?
+> First-years adrift
+> [20]
+> The freshmen of the Higher School of Mathmagic are assigned to their respective houses according to their mathmagic aptitudes. This year, for example, to gain entry to the Inclusionesclusione house, one had to be able to state how many even integers between 4000 and 7000 have all different digits. What is the correct answer?
 
-**Answer:** 0728
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q23|src_cesenatico_2006_squadre_pubblico__Q23]]
 
 
 
@@ -908,10 +1073,17 @@ Probability of possession of ball with dice (rules given)
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability of Hardy winning the ninth game.
+*Probability that Hardy wins the ninth match (coin toss)*
 
-> An unlawful sportsman [60] A mathematician who wasn't too honest enchanted all Hortona's dice. To decide then who will touch the ball in the Quamditch final, the two captains Hardy and Fracto play this way: the two take turns tossing a coin, and the first to come out on top wins. At this point, the two repeat the game, but this time it's the loser who gets the first shot. If Hardy first pitched the first time, calculate the odds of Hardy winning Game 9. Give as a result the numerator of the fraction reduced to the minimum terms.
-> 
-> Cesenatico Competition for teams 2 6 VII GARA NAZIONAL A SQUADRE Competition for the public  SOLUTIONS  6 May 2006 Nr. Problem Pti Solution 1 A leisure break 15 0793 2 Impostors revealed 40 2912 3 Stormy reports 35 0052 4 The first test 60 0004 5 Question of positions 40 0015 6 Seducer of overtime 35 0064 7 Training of Quamditch 20 0118 8 Merited holidays 80 4862 9 The tournament Triangles 45 8160 10 To the potions lesson 65 0594 11 A truffle weapon 15 2143 12 The team of Quamditch 40 0175 13 L  Exam of divination 70 2547 14 The final test of Quamditch 60 0027 16 A scheme of Quamditch 25 3025 17 020 17 A scheme of danger One 40 020 18 The beautiful 40 0101 Un un un unwillingness of the Divine Defence against the Secondary Schools
+> A sports offense
+> [60]
+> A not-very-honest math wizard has enchanted all of Hortona's dice. So, to decide who will get possession of the Quaffle in the Quidditch final, the two captains, Hardy and Fracto, play as follows: the two take turns flipping a coin, and the first one for whom heads comes up wins. At this point, the two repeat the game, but this time the one who lost flips first. If Hardy flipped first the first time, calculate the probability that Hardy wins the ninth game. Give as the result the numerator of the fraction in lowest terms.
+>
+> Cesenatico Team Competition 2 6 VII NATIONAL TEAM COMPETITION Public Competition – SOLUTIONS – 6 May 2006 No. Problem Points Solution 1 A Recreational Break 15 0793 2 Impostors Exposed 40 2912 3 Stormy Relationships 35 0052 4 The First Task 60 0004 5 A Matter of Positions 40 0015 6 A Crummy Seducer 35 0064 7 Quidditch Practice 20 0118 8 Well-Deserved Holidays 80 4862 9 The TreAngoli Tournament 45 8160 10 At Potions Class 65 0594 11 A Dishonest Trick 15 2143 12 The Quidditch Team 40 0175 13 The Divination Exam 70 2547 14 The Second Task 50 0000 15 The Quidditch Final 60 0027 16 A Quidditch Formation 25 3025 17 A Dangerous Situation 40 0020 18 The Beautiful Deceiver 40 0101 19 At Divination Class 10 9768 20 Defense Against Dark Mathematics 25 1000 21 Ambitious First-Years 20 0400 22 A Sentence to Be Avoided 10 0502 23 Wayward First-Years 20 0728 24 A Sports Offence 60 9842
 
-**Answer:** 9842
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_pubblico#q24|src_cesenatico_2006_squadre_pubblico__Q24]]

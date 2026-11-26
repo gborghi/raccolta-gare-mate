@@ -39,15 +39,26 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Applicazione di funzione iterata 2004 volte da una tabella.*
+*Applicazione iterata di una funzione per 2004 volte a partire da una tabella.*
 
-> La funzione $f$ è indicata nella tabella seguente.
-> 
-> | $x$ | 1 | 2 | 3 | 4 | 5 | |---|---|---|---|---|---| | $f(x)$ | 4 | 1 | 3 | 5 | 2 |
-> 
-> Per esempio, $f(2)=1$. Quanto è $\underbrace{f(f(\dots(f(f(4))\dots))}_{2004\text{ times}}$?
-> 
+> La funzione $f$ è data dalla seguente tabella.
+>
+> | $x$ | 1 | 2 | 3 | 4 | 5 |
+> |---|---|---|---|---|---|
+> | $f(x)$ | 4 | 1 | 3 | 5 | 2 |
+>
+> Ad esempio, $f(2)=1$. Quanto vale $\underbrace{f(f(\dots(f(f(4))\dots))}_{2004\text{ times}}$?
+>
 > (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n3_f1#q01|src_obm_2004_n3_f1__Q01]]
 
 
 
@@ -74,11 +85,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza EF di due punti su un semicircolo i cui piedi sul diametro si trovano a distanze 1 e 8 da A.*
+*Lunghezza EF di due punti su una semicirconferenza i cui piedi sul diametro distano 1 e 8 da A.*
 
-> Il segmento $AB$ deve essere di lunghezza 26, e il segmento $C$ e il segmento $D$ devono essere punti del segmento $AB$ in modo tale che il segmento $AC=1$ e il segmento $AD=8$. I punti $E$ e $F$ siano punti su un semicircolo di diametro $AB$, con $EC$ e $FD$ perpendicolari a $AB$. Quanto è $EF$?
-> 
+> Sia $AB$ un segmento di lunghezza 26, e siano $C$ e $D$ punti sul segmento $AB$ tali che $AC=1$ e $AD=8$. Siano $E$ e $F$ punti su un semicerchio di diametro $AB$, con $EC$ e $FD$ perpendicolari a $AB$. Quanto vale $EF$?
+>
 > (A) 5 (B) $5\sqrt{2}$ (C) 7 (D) $7\sqrt{2}$ (E) 12
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n3_f1#q02|src_obm_2004_n3_f1__Q02]]
 
 
 
@@ -105,11 +125,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'angolo interno più grande di un triangolo con lati 12, 15, 20.*
+*Il più grande angolo interno di un triangolo con lati 12, 15, 20.*
 
-> I lati di un triangolo misurano 12, 15 e 20. L'angolo interno più grande del triangolo misura
-> 
+> I lati di un triangolo misurano 12, 15 e 20. Il più grande angolo interno del triangolo misura
+>
 > (A) $72^\circ$ (B) $75^\circ$ (C) $90^\circ$ (D) $108^\circ$ (E) $120^\circ$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n3_f1#q03|src_obm_2004_n3_f1__Q03]]
 
 
 
@@ -136,11 +165,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di divisori della somma dei sei numeri a tre cifre formati da tre cifre distinte non a zero.*
+*Numero di divisori della somma dei sei numeri di tre cifre formati con tre cifre distinte non nulle.*
 
-> Esmeralda, molto attento, prese tre cifre distinte (non zero) $a$, $b$ e $c$ e, con loro, è possibile formare 6 numeri a tre cifre distinte, tutte con cifre distinte. Quanti sono i divisori della somma di questi 6 numeri?
-> 
+> Esmeralda, molto attenta, ha preso tre cifre distinte (diverse da zero) $a$, $b$ e $c$ e, con esse, è possibile formare 6 numeri di tre cifre distinti, tutti con cifre distinte. Quanti sono i divisori della somma di questi 6 numeri?
+>
 > (A) 4 (B) 6 (C) 10 (D) 15 (E) Più di quattro
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n3_f1#q04|src_obm_2004_n3_f1__Q04]]
 
 
 
@@ -167,11 +205,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Auto-referenziale: il prodotto dei numeri nelle alternative errate è un cubo perfetto.*
+*Autoriferito: il prodotto dei numeri presenti nelle alternative errate è un cubo perfetto.*
 
-> Il prodotto dei numeri che appaiono nelle alternative errate di questa domanda è un cubo perfetto. Segna l'alternativa corretta.
-> 
+> Il prodotto dei numeri che compaiono nelle alternative errate di questa domanda è un cubo perfetto. Segna l'alternativa corretta.
+>
 > (A) 4 (B) 8 (C) 18 (D) 54 (E) 192
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n3_f1#q05|src_obm_2004_n3_f1__Q05]]
 
 
 
@@ -198,11 +245,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nello più piccolo in modo che qualsiasi sottoinsieme di n di {1,...,20} contenga due numeri diversi di 8.*
+*Il più piccolo n tale che ogni sottoinsieme di n elementi di {1,...,20} contenga due numeri la cui differenza sia 8.*
 
-> Quanto è il più piccolo intero positivo $n$ tale che qualsiasi sottoinsieme di $n$ elementi di $\{1, 2, 3, \dots, 20\}$ contiene due numeri la cui differenza è di 8?
-> 
+> Qual è il più piccolo intero positivo $n$ tale che ogni sottoinsieme di $n$ elementi di $\{1, 2, 3, \dots, 20\}$ contenga due numeri la cui differenza sia 8?
+>
 > (A) 2 (B) 8 (C) 12 (D) 13 (E) 15
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n3_f1#q06|src_obm_2004_n3_f1__Q06]]
 
 
 
@@ -233,11 +289,24 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integra più vicina a-b per due somme finite di quadrati su denominatori unici.*
+*Intero più vicino a a−b per due somme finite di quadrati con denominatori dispari.*
 
-> Che $$a=\frac{1^2}{1}+\frac{2^2}{3}+\frac{3^2}{5}+\cdots+\frac{1001^2}{2001}$$ e $$b=\frac{1^2}{3}+\frac{2^2}{5}+\frac{3^2}{7}+\cdots+\frac{1001^2}{2003}.$$ sia il numero intero più vicino a $a-b$?
-> 
+> Lascia
+> $$a=\frac{1^2}{1}+\frac{2^2}{3}+\frac{3^2}{5}+\cdots+\frac{1001^2}{2001}$$
+> e
+> $$b=\frac{1^2}{3}+\frac{2^2}{5}+\frac{3^2}{7}+\cdots+\frac{1001^2}{2003}.$$
+> Qual è l'intero più vicino a $a-b$?
+>
 > (A) 500 (B) 501 (C) 999 (D) 1000 (E) 1001
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n3_f1#q07|src_obm_2004_n3_f1__Q07]]
 
 
 
@@ -264,11 +333,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tempo per la sabbia nella parte superiore del cono per raggiungere una determinata frazione di altezza in un orologio di sabbia a doppio cono.*
+*Tempo necessario affinché la sabbia nel cono superiore raggiunga una data frazione di altezza in una clessidra a doppio cono.*
 
-> Un orologio di sabbia è formato da due coni identici. Inizialmente, il cono superiore è pieno di sabbia e quello inferiore è vuoto. La sabbia scorre quindi dal cono superiore a quello inferiore a velocità costante. Il cono superiore si svuota completamente in esattamente un'ora e mezza. Quanto tempo ci vuole per che l'altezza della sabbia nel cono superiore diventi metà dell'altezza dell'intero cono?
-> 
-> (A) 30min (B) 10h (C) 1h03min26s (D) 1h31min12s (E) 1h34min30s
+> Una clessidra è formata da due coni identici. Inizialmente, il cono superiore è pieno di sabbia e quello inferiore è vuoto. La sabbia poi scorre dal cono superiore a quello inferiore a un ritmo costante. Il cono superiore si svuota completamente in esattamente un'ora e mezza. Quanto tempo occorre perché l'altezza della sabbia nel cono superiore diventi la metà dell'altezza del cono (intero)?
+>
+> (A) 30 min (B) 10 h (C) 1 h 03 min 26 s (D) 1 h 31 min 12 s (E) 1 h 34 min 30 s
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n3_f1#q08|src_obm_2004_n3_f1__Q08]]
 
 
 
@@ -296,9 +374,17 @@ level: OBM Nível 3
 
 *Valore f(0) di una funzione intera che soddisfa f(n)-(n+1)(2-n)=(n+3)^2.*
 
-> La funzione $f$, definita sui numeri interi, soddisfa $f(n)-(n+1)(2-n)=(n+3)^2$ per ogni numero intero $n$. Quanto è $f(0)$?
-> 
+> La funzione $f$, definita sugli interi, soddisfa $f(n)-(n+1)(2-n)=(n+3)^2$ per ogni intero $n$. Quanto vale $f(0)$?
+>
 > (A) $-17$ (B) 0 (C) 1 (D) 2 (E) 9
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n3_f1#q09|src_obm_2004_n3_f1__Q09]]
 
 
 
@@ -325,11 +411,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di set di numeri {a,b,c} i cui sei numeri a due cifre si sommano a 484.*
+*Numero di insiemi di cifre {a,b,c} tali che la somma dei loro sei numeri di due cifre sia 484.*
 
-> Con tre cifre distinte $a$, $b$ e $c$, è possibile formare 6 numeri di due cifre distinte. Quante serie $\{a, b, c\}$ sono tali che la somma dei 6 numeri formati sia di 484?
-> 
-> A) Uno B) Due C) Tre D) Quattro E) Più di quattro
+> Con tre cifre distinte $a$, $b$ e $c$, è possibile formare 6 numeri composti da due cifre distinte. Quante insiemi $\{a, b, c\}$ ci sono tali che la somma dei 6 numeri formati sia 484?
+>
+> (A) Uno (B) Due (C) Tre (D) Quattro (E) Più di quattro
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n3_f1#q10|src_obm_2004_n3_f1__Q10]]
 
 
 
@@ -356,11 +451,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di facce gialle su cinque cubetti bicolori data la probabilità di 1/2 di esattamente due cime gialle.*
+*Numero di facce gialle su cinque cubi bicolori, data la probabilità 1/2 che esattamente due facce superiori siano gialle.*
 
-> Su ciascuno dei loro volti sono dipinti cinque cubetti di legno, con una faccia gialla e l'altra magenta. Quando questi cubetti vengono gettati, la probabilità che due di queste facce siano gialle e le altre tre magenta (non importa in quale ordine appaiano i colori) è $1/2$. Quanti di questi cubi hanno la faccia gialla su un singolo cubo?
-> 
+> Cinque cubi di legno hanno ciascuna delle proprie facce dipinta: una faccia è gialla e l'altra è magenta. Quando questi cubi vengono lanciati, la probabilità che due delle facce rivolte verso l'alto siano gialle e le altre tre magenta (indipendentemente dall'ordine in cui compaiono i colori) è $1/2$. In totale, quante facce di questi cubi sono gialle in un singolo cubo?
+>
 > (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n3_f1#q11|src_obm_2004_n3_f1__Q11]]
 
 
 
@@ -389,11 +493,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per quanti integri positivi m è 2004/(m^2-2) un intero positivo.*
+*Per quanti interi positivi m il rapporto 2004/(m^2-2) è un intero positivo?*
 
-> Per quanti numeri interi positivi $m$ il numero $$\frac{2004}{m^2-2}$$ è un intero positivo?
-> 
-> A) uno B) due C) tre D) quattro E) più di quattro
+> Per quanti interi positivi $m$ il numero
+> $$\frac{2004}{m^2-2}$$
+> un numero intero positivo?
+>
+> (A) uno (B) due (C) tre (D) quattro (E) più di quattro
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n3_f1#q12|src_obm_2004_n3_f1__Q12]]
 
 
 
@@ -422,13 +537,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza totale del percorso di un raggio luminoso che riflette tra due specchi a 30 gradi.*
+*Lunghezza totale del percorso di un raggio di luce che si riflette tra due specchi con un angolo di 30 gradi.*
 
-> Due specchi formano un angolo di $30^\circ$ al punto $V$. Un raggio luminoso proveniente da una fonte $S$ viene emesso parallelo a uno degli specchi e riflettuto dall'altro al punto $A$, come mostrato nella figura. Dopo un certo numero di riflessi, il raggio torna a $S$. Se $SA=AV=1$ metri, la distanza percorsa dal raggio luminoso, in metri, è
-> 
+> Due specchi formano un angolo di $30^\circ$ nel punto $V$. Un raggio di luce, proveniente da una sorgente $S$, viene emesso parallelamente a uno dei specchi e viene riflesso dall'altro nel punto $A$, come mostrato nella figura. Dopo un certo numero di riflessioni, il raggio ritorna in $S$. Se $SA=AV=1$ metri, la distanza percorsa dal raggio di luce, in metri, è
+>
 > (A) 2 (B) $2+\sqrt{3}$ (C) $1+\sqrt{2}+\sqrt{3}$ (D) $\sqrt{2}\left(1+\sqrt{3}\right)$ (E) $5\sqrt{3}$
 
 ![[src_obm_2004_n3_f1__q13.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n3_f1#q13|src_obm_2004_n3_f1__Q13]]
 
 
 
@@ -455,11 +579,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca n dalla fattorizzazione primaria di n!.*
+*Trovare n a partire dalla scomposizione in fattori primi di n!.*
 
-> Per un intero positivo $n$, definiamo $n!$ (leggi "$n$ fattoriale") come il prodotto di tutti gli integri positivi inferiori o uguali a $n$. Per esempio, $5!=1\cdot 2\cdot 3\cdot 4\cdot 5$. Se $n!=2^{15}\cdot 3^6\cdot 5^3\cdot 7^2\cdot 11\cdot 13$, allora $n$ è uguale
-> 
+> Per un numero intero positivo $n$, definiamo $n!$ (si legge "fattoriale di $n$") come il prodotto di tutti gli interi positivi minori o uguali a $n$. Ad esempio, $5!=1\cdot 2\cdot 3\cdot 4\cdot 5$. Se $n!=2^{15}\cdot 3^6\cdot 5^3\cdot 7^2\cdot 11\cdot 13$, allora $n$ è uguale a
+>
 > (A) 13 (B) 14 (C) 15 (D) 16 (E) 17
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n3_f1#q14|src_obm_2004_n3_f1__Q14]]
 
 
 
@@ -485,11 +618,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Misura (in radiani) dell'angolo BXC per un quadrato costruito esternamente su un lato di un setttagone regolare.*
+*Misura (in radianti) dell'angolo BXC per un quadrato costruito all'esterno su un lato di un ettagono regolare.*
 
-> Sul lato $AB$ dell'eptagone regolare $ABCDEFG$ è costruito un quadrato $ABXY$, esterno all'eptagone. La misura dell'angolo $B\hat{X}C$ in radiani è
-> 
+> Sul lato $AB$ dell'eptagono regolare $ABCDEFG$ viene costruito un quadrato $ABXY$, esterno all'eptagono. La misura dell'angolo $B\hat{X}C$, in radianti, è
+>
 > (A) $\frac{\pi}{7}$ (B) $\frac{3\pi}{14}$ (C) $\frac{\pi}{14}$ (D) $\frac{3\pi}{7}$ (E) $\frac{3\pi}{28}$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n3_f1#q15|src_obm_2004_n3_f1__Q15]]
 
 
 
@@ -516,11 +657,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme di radici reali di un'equazione con radici quadrate incastonate.*
+*Insieme delle radici reali di un'equazione con radici quadrate annidate.*
 
 > L'insieme delle radici reali dell'equazione $\sqrt{x+2\sqrt{x-1}}+\sqrt{x-2\sqrt{x-1}}=2$ è
-> 
+>
 > (A) $\{1\}$ (B) $[1, 2]$ (C) $[1, 2)$ (D) $]1, 2[$ (E) $\{2\}$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n3_f1#q16|src_obm_2004_n3_f1__Q16]]
 
 
 
@@ -549,13 +699,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area del triangolo ABM in cui M è su AD e BMC è un triangolo rettangolo non isosceles; AB=2, CD=4, BC=6.*
+*Area del triangolo ABM, dove M giace su AD e BMC è un triangolo rettangolo non isoscele; AB=2, CD=4, BC=6.*
 
-> Nel disegno laterale, i segmenti $AB$ e $CD$ sono perpendicolari al segmento $BC$. Sapendo che il punto $M$ appartiene al segmento $AD$ e che il triangolo $BMC$ è un triangolo retto (non isosceles), qual è l'area del triangolo $ABM$? (Dalla figura: $AB=2$, $CD=4$, $BC=6$.)
-> 
+> Nel disegno accanto, i segmenti $AB$ e $CD$ sono perpendicolari al segmento $BC$. Sapendo che il punto $M$ appartiene al segmento $AD$ e che il triangolo $BMC$ è un triangolo rettangolo (non isoscele), qual è l'area del triangolo $ABM$? (Dal disegno: $AB=2$, $CD=4$, $BC=6$.)
+>
 > (A) 1 (B) $\frac{6}{5}$ (C) $\frac{7}{5}$ (D) $\frac{8}{5}$ (E) $\frac{9}{5}$
 
 ![[src_obm_2004_n3_f1__q17.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n3_f1#q17|src_obm_2004_n3_f1__Q17]]
 
 
 
@@ -585,15 +744,23 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'altezza di una pila di banconote di cruzado pari a un salario di 640 reali, dato il tasso di conversione.*
+*Altezza di una pila di banconote di cruzado equivalente a uno stipendio di 640 real, dato un tasso di conversione.*
 
-> Tra il 1986 e il 1989, la moneta del paese era il cruzado (Cz\$). Con l'immensa inflazione dell'epoca, la moneta ha dovuto cambiare i suoi valori più volte: c'erano il cruzado novo, il cruzeiro, il cruzeiro reale e, infine, il reale. La conversione tra cruzado e reale è stata:
-> 
+> Tra il 1986 e il 1989, la valuta del paese era il cruzado (Cz\$). A causa dell'immenza inflazione di quel periodo, la valuta dovette cambiare valore diverse volte: ci furono il cruzado novo, il cruzeiro, il cruzeiro real e, infine, il real. La conversione tra cruzado e real era:
+>
 > $$1\text{ real}=2{.}750{.}000{.}000\text{ cruzados}$$
-> 
-> Immaginate che la moneta non avesse cambiato e che João, che oggi guadagna 640 reais al mese, avrebbe ricevuto il suo stipendio interamente in banconote da 1 cruzado, di 1,5 cm di altezza ciascuna. Lo stipendio di João in cruzados costituirebbe una pila di altezza:
-> 
+>
+> Immagina che la valuta non fosse cambiata e che João, che oggi guadagna 640 reais al mese, ricevesse l'intero stipendio in banconote da 1 cruzado, ciascuna alta 1,5 cm. Lo stipendio di João in cruzados formerebbe una pila alta:
+>
 > (A) 26,4 km (B) 264 km (C) 2640 km (D) 26400 km (E) 264000 km
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n3_f1#q18|src_obm_2004_n3_f1__Q18]]
 
 
 
@@ -624,15 +791,24 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero massimo di 0,8 m di cubetti impilati in un angolo che una persona di 1,80 m di distanza può vedere attraverso una porta di vetro.*
+*Numero massimo di cubi da 0,8 m impilati in un angolo che una persona alta 1,80 m all'esterno può vedere attraverso una porta di vetro.*
 
-> In un negozio, una persona ha impilato diversi blocchi di $0{,}8\text{ m}\times 0{,}8\text{ m}\times 0{,}8\text{ m}$ nell'angolo del negozio, incostati (inclinati) contro una parete di vetro che passa dalla porta, come mostrato nella figura di seguito. Al massimo quanti blocchi può vedere una persona di $1{,}80\text{ m}$ di altezza, che si trova fuori dal negozio?
-> 
-> Nota: Riteniamo che una persona possa vedere una scatola se c'è almeno una piccola regione di area positiva della sua superficie (visibile).
-> 
+> In un negozio, una persona ha impilato diversi blocchi di $0{,}8\text{ m}\times 0{,}8\text{ m}\times 0{,}8\text{ m}$ nell'angolo del negozio, appoggiati (inclinati) contro una parete di vetro che corre lungo la porta, come mostrato nella figura sottostante. Al massimo, quanti blocchi può vedere una persona alta $1{,}80\text{ m}$ che si trova all'esterno del negozio?
+>
+> Nota: Riteniamo che una persona possa vedere una scatola se esiste almeno una piccola regione della sua superficie avente area positiva (visibile).
+>
 > (A) 13 (B) 14 (C) 15 (D) 16 (E) 17
 
 ![[src_obm_2004_n3_f1__q19.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n3_f1#q19|src_obm_2004_n3_f1__Q19]]
 
 
 
@@ -661,13 +837,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di palo di fiammifero per costruire un sistema di 32 esagoni.*
+*Numero minimo di fiammiferi necessari per costruire una disposizione di 32 esagoni.*
 
-> La disposizione di sotto, composta da 32 esagoni, era montata con bastoni di fiammifero, tutti di lunghezza uguale al lato dell'esagono. Quanti bastoncini di fiammifero sono necessari per assemblare l'arrangimento?
-> 
+> La disposizione qui sotto, composta da 32 esagoni, è stata assemblata con stuzzicadenti, tutti della stessa lunghezza del lato dell'esagono. Quanti stuzzicadenti sono necessari, almeno, per assemblare la disposizione?
+>
 > (A) 113 (B) 123 (C) 122 (D) 132 (E) 152
 
 ![[src_obm_2004_n3_f1__q20.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n3_f1#q20|src_obm_2004_n3_f1__Q20]]
 
 
 
@@ -694,11 +879,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La media di classe più piccola e più grande possibile data dalla media delle 10 classi peggiori (3) e 10 migliori (9) di 30 classi.*
+*La media di classe minima e massima possibile, dati i valori medi dei 10 voti peggiori (3) e dei 10 voti migliori (9) su 30 voti.*
 
-> In una prova per una classe di 30 studenti, la media aritmetica dei 10 voti peggiori è di 3 e la media aritmetica dei 10 voti migliori è di 9. Il valore più piccolo possibile e il valore più grande possibile per la media aritmetica dei gradi della classe sono rispettivamente:
-> 
-> A) 6 e 7 B) 5 e 7 C) 4 e 6 D) 3 e 9 E) 4 e 8
+> In una verifica per una classe di 30 studenti, la media aritmetica dei 10 voti peggiori è 3 e la media aritmetica dei 10 voti migliori è 9. Il valore minimo possibile e il valore massimo possibile della media aritmetica dei voti della classe sono, rispettivamente:
+>
+> (A) 6 e 7 (B) 5 e 7 (C) 4 e 6 (D) 3 e 9 (E) 4 e 8
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n3_f1#q21|src_obm_2004_n3_f1__Q21]]
 
 
 
@@ -732,15 +926,27 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Puzzle logico: determinare quale scatola contiene la moneta da indizi di posizione sinistra/destra.*
+*Puzzle logico: determina quale scatola contiene la moneta in base agli indizi posizionali da sinistra/da destra.*
 
-> Su un tavolo ci sono tre scatole, ognuna con un oggetto di colore diverso: una moneta, un cartone e una banda di gomma. Lo sappiamo .
-> 
-> - la scatola blu è a sinistra della scatola verde; - la scatola rossa è a sinistra della scatola blu; - la scatola verde è a destra della fascia di gomma; - la fascia di gomma è a destra della scatola rossa.
-> 
-> In quale scatola c'è la moneta?
-> 
-> (A) Nella scatola rossa. (B) Nella scatola verde. (C) Nella scatola blu. D) Le informazioni fornite sono insufficienti per dare una risposta. (E) Le informazioni fornite sono contraddittorie.
+> Su un tavolo ci sono tre scatole, ciascuna contenente un oggetto di colore diverso: una moneta, una graffetta e un elastico. Sappiamo che:
+>
+> - Il riquadro blu è a sinistra del riquadro verde;
+> - Il riquadro rosso è a sinistra del riquadro blu;
+> - Il riquadro verde è a destra dell'elastico;
+> - L'elastico si trova a destra del contenitore rosso.
+>
+> In quale scatola si trova la moneta?
+>
+> (A) Nella casella rossa. (B) Nella casella verde. (C) Nella casella blu. (D) Le informazioni fornite non sono sufficienti per fornire una risposta. (E) Le informazioni fornite sono contraddittorie.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n3_f1#q22|src_obm_2004_n3_f1__Q22]]
 
 
 
@@ -767,11 +973,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato perfetto a due cifre N i cui numeri raddoppiati danno un quadrato perfetto a quattro cifre; somma di numeri di N.*
+*Numero quadrato perfetto a due cifre N, il cui doppio delle cifre dà un quadrato perfetto a quattro cifre; somma delle cifre di N.*
 
-> Esmeralda, il tipografo, voleva scrivere un numero $N$ di due cifre che è un quadrato perfetto. Per una grande coincidenza, ha digitato ogni cifra due volte e il numero ottenuto è anche un quadrato perfetto! Qual è la somma delle cifre di $N$?
-> 
+> Esmeralda, la dattilografa, voleva digitare un numero $N$ di due cifre che fosse un quadrato perfetto. Per una grande coincidenza, ha digitato ciascuna cifra due volte e il numero ottenuto è anch'esso un quadrato perfetto! Qual è la somma delle cifre di $N$?
+>
 > (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n3_f1#q23|src_obm_2004_n3_f1__Q23]]
 
 
 
@@ -800,11 +1015,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di volte in cui la stringa '21' appare quando i numeri interi da 1 a 999 sono concatenati.*
+*Numero di volte in cui compare la stringa '21' quando gli interi da 1 a 999 vengono concatenati.*
 
-> Esmeralda scrisse (giustamente!) tutti i numeri da 1 a 999, uno dopo l'altro: $$1234567891011213\dots 997998999.$$ Quante volte appare il raggruppamento "21", in questo ordine?
-> 
+> Esmeralda ha scritto (correttamente!) tutti i numeri da 1 a 999, uno dopo l'altro:
+> $$1234567891011213\dots 997998999.$$
+> Quante volte compare il gruppo "21", in questo ordine?
+>
 > (A) 11 (B) 21 (C) 31 (D) 41 (E) 51
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n3_f1#q24|src_obm_2004_n3_f1__Q24]]
 
 
 
@@ -831,8 +1057,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di integri positivi n che possono essere pesati in uno pesante su un equilibrio a due pannelli con 1, 3, 10 kg di peso posizionati su entrambe le pannelle.*
+*Numero di interi positivi n che possono essere pesati in un'unica pesatura su una bilancia a due piatti, con pesi da 1, 3 e 10 kg posti su uno dei due piatti.*
 
-> Un venditore di mercato vende patate e, per pesare, utilizza un equilibrio di due pannelli, un peso di 1 kg, un peso di 3 kg e un peso di 10 kg. Considerate la seguente affermazione: "Questo venditore può pesare (in un singolo peso) $n$ chilogrammi di patate". Quanti valori positivi di $n$ rendono questa affermazione vera, supponendo che possa posizionare i pesi su entrambe le pentole?
-> 
+> Un venditore al mercato vende patate e, per pesare, utilizza una bilancia a due piatti, un peso da 1 kg, un peso da 3 kg e un peso da 10 kg. Si consideri la seguente affermazione: "Questo venditore può pesare (in un'unica pesatura) $n$ chilogrammi di patate". Quanti valori positivi di $n$ rendono vera questa affermazione, supponendo che possa collocare i pesi su entrambi i piatti?
+>
 > (A) 7 (B) 10 (C) 12 (D) 13 (E) 14
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n3_f1#q25|src_obm_2004_n3_f1__Q25]]

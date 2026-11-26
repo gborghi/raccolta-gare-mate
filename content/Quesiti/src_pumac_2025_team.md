@@ -22,18 +22,22 @@ level: PUMaC Team Round
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0027
-**Fonte risposta:** [soluzione ufficiale PDF p.1](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=1) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.1
+**Fonte:** apri PDF p.1 · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Primes dividing a sum of powers*
+*Sum of all primes p that divide 2^p + 4^p + … + 510^p*
 
-> Find the sum of all primes $p$ such that $p$ divides $2^p + 4^p + \cdots + 510^p$.
+> Determine the sum of all primes $p$ such that $p$ divides $2^p+4^p+\cdots+510^p$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0027
+
+[[Quesiti/src_pumac_2025_team#q01|src_pumac_2025_team__Q01]]
 
 
 
@@ -49,18 +53,22 @@ level: PUMaC Team Round
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0336
-**Fonte risposta:** [soluzione ufficiale PDF p.2](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=2) — La chiave ufficiale (336 = 8·7·6) non identifica le colorazioni ottenibili l’una dall’altra per rotazione, come invece richiede il testo; con questa identificazione il numero è 56.
-**Fonte:** [apri PDF p.1](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=1) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.2 — La chiave ufficiale (336 = 8·7·6) non identifica le colorazioni ottenibili l’una dall’altra per rotazione, come invece richiede il testo; con questa identificazione il numero è 56.
+**Fonte:** apri PDF p.1 · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colourings of the octahedron*
+*Colourings of a regular octahedron with 8 colours, up to rotation, with constraints on edges, opposite vertices and faces*
 
-> A regular octahedron is a polyhedron with 6 vertices, 12 edges, and 8 triangular faces, where each vertex connects to exactly 4 others and there are 3 pairs of opposite vertices. Each vertex is assigned one of 8 colors. Adjacent vertices (connected by an edge) must have different colors, and opposite vertices must have the same color. Additionally, for each triangular face, the three vertices must use at least 3 different colors. Two colorings are considered the same if one can be obtained from the other by rotating the octahedron in 3D space. How many ways can the octahedron be colored?
+> A regular octahedron is a polyhedron with 6 vertices, 12 edges and 8 triangular faces, in which each vertex is joined to exactly 4 others and there are 3 pairs of opposite vertices. Each vertex is assigned one of 8 colours. Adjacent vertices (joined by an edge) must have different colours, and opposite vertices must have the same colour. Moreover, on each triangular face the three vertices must use at least 3 different colours. Two colourings are regarded as the same if one can be obtained from the other by rotating the octahedron in space. In how many ways can the octahedron be coloured?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
 
 **Answer:** 0336 — The official key (336 = 8·7·6) does not identify colourings related by rotation, as the statement requires; with that identification the count is 56.
+
+[[Quesiti/src_pumac_2025_team#q02|src_pumac_2025_team__Q02]]
 
 
 
@@ -76,18 +84,22 @@ level: PUMaC Team Round
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $2\cos\frac{3\pi}{7}$
-**Fonte risposta:** [soluzione ufficiale PDF p.2](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=2)
-**Fonte:** [apri PDF p.1](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=1) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.2
+**Fonte:** apri PDF p.1 · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nested radicals*
+*A nested radical equation: determine x*
 
-> Suppose $x = \sqrt{2-\sqrt{2+\sqrt{2-x}}}$. Find $x$.
+> Suppose that $x=\sqrt{2-\sqrt{2+\sqrt{2-x}}}$. Determine $x$.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** $2\cos\frac{3\pi}{7}$
+
+[[Quesiti/src_pumac_2025_team#q03|src_pumac_2025_team__Q03]]
 
 
 
@@ -103,18 +115,22 @@ level: PUMaC Team Round
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0030
-**Fonte risposta:** [soluzione ufficiale PDF p.2](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=2)
-**Fonte:** [apri PDF p.1](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=1) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.2
+**Fonte:** apri PDF p.1 · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three cubes summing to 3438*
+*Positive integers whose cubes sum to 3438: the value of a + b + c*
 
-> There exist positive integers $a, b, c$ such that $a^3 + b^3 + c^3 = 3438$. What is $a + b + c$?
+> There exist positive integers $a, b, c$ such that $a^3+b^3+c^3=3438$. What is $a+b+c$?
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0030
+
+[[Quesiti/src_pumac_2025_team#q04|src_pumac_2025_team__Q04]]
 
 
 
@@ -130,18 +146,22 @@ level: PUMaC Team Round
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0003
-**Fonte risposta:** [soluzione ufficiale PDF p.2](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=2) — chiave ufficiale non verificata: il testo è ambiguo sull’orientamento dei caricatori 1×3; un conteggio esaustivo con la lettura letterale dà 7 configurazioni (21 caricatori) con i 1×3 lungo il lato da 6, oppure 4 (20 caricatori) con i 1×3 lungo il lato da 5
-**Fonte:** [apri PDF p.1](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=1) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.2 — chiave ufficiale non verificata: il testo è ambiguo sull’orientamento dei caricatori 1×3; un conteggio esaustivo con la lettura letterale dà 7 configurazioni (21 caricatori) con i 1×3 lungo il lato da 6, oppure 4 (20 caricatori) con i 1×3 lungo il lato da 5
+**Fonte:** apri PDF p.1 · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Zappy Zack's chargers*
+*Placing 1×3 and 1×1 chargers on a 6×5 strip, top-left socket dead, each 1×1 next to a 1×3: ways to maximise the number*
 
-> Zappy Zack wants to place rectangular chargers on a $6 \times 5$ power grid. He has $(1 \times 3)$ chargers and $(1 \times 1)$ chargers. The top leftmost outlet doesn't work, so he cannot plug any chargers into it. Furthermore, any $(1 \times 1)$ charger must be adjacent to a $(1 \times 3)$ charger (diagonals do not count). He also cannot rotate any chargers. Zack places chargers into the slots such that he maximizes the total number of chargers he places down. How many ways could he have done this?
+> Zappy Zack wants to arrange rectangular chargers on a $6\times5$ power strip. He has $(1\times3)$ chargers and $(1\times1)$ chargers. The top-left socket does not work, so he cannot plug a charger into it. Moreover, each $(1\times1)$ charger must be adjacent to a $(1\times3)$ charger (diagonals do not count). Zack cannot rotate the chargers either. He plugs them in so as to maximise the total number of chargers placed. In how many ways could he have done so?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
 
 **Answer:** 0003 — official key not verified: the statement is ambiguous about the orientation of the 1×3 chargers; an exhaustive count under the literal reading gives 7 configurations (21 chargers) with the 1×3 pieces along the side of length 6, or 4 (20 chargers) with them along the side of length 5
+
+[[Quesiti/src_pumac_2025_team#q05|src_pumac_2025_team__Q05]]
 
 
 
@@ -157,18 +177,22 @@ level: PUMaC Team Round
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0027
-**Fonte risposta:** [soluzione ufficiale PDF p.3](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=3)
-**Fonte:** [apri PDF p.1](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=1) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.3
+**Fonte:** apri PDF p.1 · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Orthocentre of BIC and side BC*
+*Triangle with sides 14 and 19, incentre, and the orthocentre of BIC: length of BC given a ratio of 10*
 
-> Let $\triangle ABC$ be a triangle with $AB = 14$, $AC = 19$, incenter $I$, and incircle tangent to side $\overline{BC}$ at $D$. Let $H'$ be the orthocenter of triangle $\triangle BIC$. Given that $\frac{DH'}{DI} = 10$, find the length of $BC$.
+> Let $ABC$ be a triangle with $AB=14$ and $AC=19$, incentre $I$, and incircle tangent to the side $\overline{BC}$ at $D$. Let $H'$ be the orthocentre of the triangle $BIC$. Given that $\frac{DH'}{DI}=10$, determine the length of $BC$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
 
 **Answer:** 0027
+
+[[Quesiti/src_pumac_2025_team#q06|src_pumac_2025_team__Q06]]
 
 
 
@@ -185,19 +209,24 @@ level: PUMaC Team Round
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\frac1\pi$
-**Fonte risposta:** [soluzione ufficiale PDF p.3](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=3)
-**Fonte:** [apri PDF p.2](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=2) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.3
+**Fonte:** apri PDF p.2 · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximal sums of roots of unity*
+*Roots of unity: the limit of the largest mean modulus of a subset sum, scaled by 1/n*
 
-> For each positive integer $n$, let $\zeta_{n0}, \zeta_{n1}, \dots, \zeta_{n(n-1)}$ denote the $n$ distinct complex solutions to $z^n = 1$. Compute
+> For every positive integer $n$, let $\zeta_{n0}, \zeta_{n1}, \dots, \zeta_{n(n-1)}$ be the $n$ distinct complex solutions of $z^n=1$. Compute
+>
 > $$\lim_{n\to\infty}\ \max_{T\subseteq\{0,1,\dots,n-1\}}\ \frac1n\left|\sum_{i\in T}\zeta_{ni}\right|.$$
 
+**Topic:** [[topic_algebra|Algebra]]
+
 **Answer:** $\frac1\pi$
+
+[[Quesiti/src_pumac_2025_team#q07|src_pumac_2025_team__Q07]]
 
 
 
@@ -213,18 +242,22 @@ level: PUMaC Team Round
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0296
-**Fonte risposta:** [soluzione ufficiale PDF p.4](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=4)
-**Fonte:** [apri PDF p.2](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=2) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.4
+**Fonte:** apri PDF p.2 · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*GCD plus LCM equal to the sum*
+*Ordered pairs of positive integers with ab ≤ 100 and gcd + lcm = a + b*
 
-> Compute the number of ordered pairs $(a, b)$ of positive integers satisfying $ab \le 100$ and $\gcd(a, b) + \operatorname{lcm}(a, b) = a + b$.
+> Compute the number of ordered pairs $(a,b)$ of positive integers such that $ab\le100$ and $\operatorname{MCD}(a,b)+\operatorname{mcm}(a,b)=a+b$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0296
+
+[[Quesiti/src_pumac_2025_team#q08|src_pumac_2025_team__Q08]]
 
 
 
@@ -240,18 +273,22 @@ level: PUMaC Team Round
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** $\frac43\left(\sqrt2+2\sqrt5\right)$
-**Fonte risposta:** [soluzione ufficiale PDF p.4](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=4)
-**Fonte:** [apri PDF p.2](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=2) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.4
+**Fonte:** apri PDF p.2 · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The ant and Biao's bisectors*
+*Perpendicular bisectors of lattice segments from the origin: perimeter of the region reachable by crossing at most three of them*
 
-> For all $(a, b) \in \mathbb Z^2$ (excluding the origin), Biao draws the perpendicular bisector of the line segment from $(0, 0)$ to $(a, b)$. An ant starts at $(0, 0)$ and walks around on $\mathbb R^2$. Let $S_n$ be the set of points that the ant can reach by crossing up to $n$ of Biao's perpendicular bisectors. Thus $S_0$ is the square whose vertices are $(\pm\frac12, \pm\frac12)$ and $S_1$ is the square whose vertices are $(0, 1), (1, 0), (0, -1), (-1, 0)$. Find the perimeter of $S_3$.
+> For every $(a,b)\in\mathbb Z^2$ (the origin excluded), Biao draws the perpendicular bisector of the segment from $(0,0)$ to $(a,b)$. An ant starts at $(0,0)$ and moves in $\mathbb R^2$. Let $S_n$ be the set of points the ant can reach by crossing at most $n$ of the lines drawn by Biao. Thus $S_0$ is the square with vertices $(\pm\frac12,\pm\frac12)$, and $S_1$ is the square with vertices $(0,1), (1,0), (0,-1), (-1,0)$. Determine the perimeter of $S_3$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
 
 **Answer:** $\frac43\left(\sqrt2+2\sqrt5\right)$
+
+[[Quesiti/src_pumac_2025_team#q09|src_pumac_2025_team__Q09]]
 
 
 
@@ -267,18 +304,22 @@ level: PUMaC Team Round
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0024
-**Fonte risposta:** [soluzione ufficiale PDF p.6](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=6)
-**Fonte:** [apri PDF p.2](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=2) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.6
+**Fonte:** apri PDF p.2 · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cycles with power-of-2 differences mod 7*
+*Cycles of 0 to 6 in which each step, modulo 7, is a power of 2*
 
-> How many ways can the integers from 0 to 6 be arranged in a cycle such that the difference from one integer to the next is a power of 2 when taken (mod 7)?
+> In how many ways can the integers from 0 to 6 be arranged in a cycle so that the difference between each integer and the next, taken modulo 7, is a power of 2?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
 
 **Answer:** 0024
+
+[[Quesiti/src_pumac_2025_team#q10|src_pumac_2025_team__Q10]]
 
 
 
@@ -294,18 +335,22 @@ level: PUMaC Team Round
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** $\frac16$
-**Fonte risposta:** [soluzione ufficiale PDF p.7](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=7)
-**Fonte:** [apri PDF p.2](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=2) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.7
+**Fonte:** apri PDF p.2 · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spherical quadrilateral with 120° angles*
+*A spherical quadrilateral of equal sides and angles of 120°: the fraction of the sphere it encloses*
 
-> Let $\mathcal A$ be a quadrilateral on a sphere, whose sides are all sections of great circles. All the sides of $\mathcal A$ are congruent, and all the corners of $\mathcal A$ are $120^\circ$. Find the proportion of the sphere's surface area enclosed by the quadrilateral.
+> Let $\mathcal A$ be a quadrilateral on a sphere whose sides are all arcs of great circles. All the sides of $\mathcal A$ are congruent, and all the angles of $\mathcal A$ measure $120^\circ$. Determine the fraction of the surface of the sphere enclosed by the quadrilateral.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]]
 
 **Answer:** $\frac16$
+
+[[Quesiti/src_pumac_2025_team#q11|src_pumac_2025_team__Q11]]
 
 
 
@@ -322,19 +367,24 @@ level: PUMaC Team Round
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0119
-**Fonte risposta:** [soluzione ufficiale PDF p.8](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=8)
-**Fonte:** [apri PDF p.2](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=2) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.8
+**Fonte:** apri PDF p.2 · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The subset card game*
+*Six cards, non-empty subsets of {1, 2, 3, 4, 5}, no ties and everyone can win: sum of the six products of the numbers on each card*
 
-> In a game, each of 6 players get a card on which is printed a nonempty subset of $\{1, 2, 3, 4, 5\}$. Each round, an integer from 1 through 5 is selected at random, and any player who has this number on their card circles it. The player who first circles all numbers on their card wins.
-> It is known that every player has a nonzero chance of winning, and there is no possibility of a tie. It is also known that three of the cards are $\{1, 2, 3\}$, $\{2, 3, 4\}$, and $\{3, 4, 5\}$. If each player multiplies the numbers on their card together, what is the sum of these 6 products?
+> In a game, each of 6 players receives a card on which a non-empty subset of $\{1,2,3,4,5\}$ is printed. At each turn an integer from 1 to 5 is drawn at random, and every player who has that number on their card circles it. The first player to have circled every number on their card wins.
+>
+> It is known that every player has a non-zero probability of winning, and that a draw is impossible. It is also known that three of the cards are $\{1,2,3\}$, $\{2,3,4\}$ and $\{3,4,5\}$. If each player multiplies together the numbers on their own card, what is the sum of these 6 products?
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
 
 **Answer:** 0119
+
+[[Quesiti/src_pumac_2025_team#q12|src_pumac_2025_team__Q12]]
 
 
 
@@ -352,20 +402,26 @@ level: PUMaC Team Round
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\frac{\sqrt6+4\sqrt3}{3}$
-**Fonte risposta:** [soluzione ufficiale PDF p.8](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=8)
-**Fonte:** [apri PDF p.2](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=2) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.8
+**Fonte:** apri PDF p.2 · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*“Nice” triples (A, B, C)*
+*Power-sum equations in three variables: total length of the C-intervals that give exactly three real solutions, summed over a grid*
 
 > Consider the equations
+>
 > $$x+y+z=A,\qquad x^2+y^2+z^2=B,\qquad x^3+y^3+z^3=C.$$
-> An ordered triple $(A, B, C) \in \mathbb R^3$ is called “nice” if the corresponding system above has exactly three real solutions for $x$. For fixed $(A, B) \in \mathbb R^2$, the set of real $C$ such that the system is “nice” is a finite union of finite intervals; denote the sum of their lengths as $\ell(A, B)$. Find $\displaystyle\sum_{A=3}^{5}\sum_{B=3}^{5}\ell(A,B)$.
+>
+> An ordered triple $(A,B,C)\in\mathbb R^3$ is called *good* if the corresponding system has exactly three real solutions for $x$. For fixed $(A,B)\in\mathbb R^2$, the set of real $C$ for which the system is good is a finite union of bounded intervals; let $\ell(A,B)$ be the sum of their lengths. Determine $\displaystyle\sum_{A=3}^{5}\sum_{B=3}^{5}\ell(A,B)$.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** $\frac{\sqrt6+4\sqrt3}{3}$
+
+[[Quesiti/src_pumac_2025_team#q13|src_pumac_2025_team__Q13]]
 
 
 
@@ -381,18 +437,22 @@ level: PUMaC Team Round
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0006
-**Fonte risposta:** [soluzione ufficiale PDF p.10](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=10)
-**Fonte:** [apri PDF p.2](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=2) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.10
+**Fonte:** apri PDF p.2 · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Vertices of the 24-cell on the face x = 1*
+*A 24-cell rotated and rescaled to maximum hypervolume inside the unit box: how many vertices have first coordinate 1*
 
-> A *24-cell* is a region that can be formed by the following procedure: taking convex hull of 8 vertices formed by permuting integer coordinates $(\pm1, 0, 0, 0)$ and 16 vertices at all half-integer coordinates $(\pm1/2, \pm1/2, \pm1/2, \pm1/2)$. If we rotate and scale the 24-cell so that each coordinate has absolute value at most 1 in such a way that the 24-cell has greatest hypervolume, how many vertices $(x, y, z, w)$ of the 24-cell satisfy $x = 1$?
+> A *24-cell* is the region obtained as follows: take the convex hull of the 8 vertices obtained by permuting the integer coordinates $(\pm1,0,0,0)$ and of the 16 vertices with all half-integer coordinates $(\pm1/2,\pm1/2,\pm1/2,\pm1/2)$. If the 24-cell is rotated and rescaled so that every coordinate has absolute value at most 1 and the 24-cell has the greatest possible hypervolume, how many vertices $(x,y,z,w)$ of the 24-cell satisfy $x=1$?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
 
 **Answer:** 0006
+
+[[Quesiti/src_pumac_2025_team#q14|src_pumac_2025_team__Q14]]
 
 
 
@@ -410,17 +470,23 @@ level: PUMaC Team Round
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0255
-**Fonte risposta:** [soluzione ufficiale PDF p.11](https://jason-shi-f9dm.squarespace.com/s/Team-Solutions.pdf#page=11)
-**Fonte:** [apri PDF p.2](https://jason-shi-f9dm.squarespace.com/s/PUMaC_2025_Team.pdf#page=2) · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.11
+**Fonte:** apri PDF p.2 · PUMaC – Princeton University Mathematics Competition (archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Floor of a nested-radical solution*
+*The unique real root of a nested equation: its integer part*
 
-> Let $x$ be the unique real number which satisfies
+> Let $x$ be the unique real number satisfying
+>
 > $$x=\frac{\sqrt2}{\sqrt{\sqrt{x+1}+\sqrt x}-\sqrt{\sqrt x+\sqrt{x-1}}}.$$
-> Find $\lfloor x\rfloor$.
+>
+> Determine $\lfloor x\rfloor$.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** 0255
+
+[[Quesiti/src_pumac_2025_team#q15|src_pumac_2025_team__Q15]]

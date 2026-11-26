@@ -31,9 +31,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*5x5 griglia riempita come quadrato latino; analizzare il punteggio sotto diagonale*
+*Griglia 5x5 riempita come un quadrato latino; analizza il punteggio sotto la diagonale*
 
-> Un quadrato $5\times 5$ è diviso in quadrati unitari $25$. Uno dei numeri $1, 2, 3, 4, 5$ viene inserito in ciascun quadrato di unità in modo tale che ogni riga, ogni colonna e ciascuna delle due diagonali contenga ciascuno dei cinque numeri una volta e solo una volta. La somma dei numeri nei quattro quadrati immediatamente sotto la diagonale dall'alto a sinistra a basso a destra si chiama il \emph{score}. Mostrare che è impossibile che il punteggio sia $20$. Qual è il punteggio più alto possibile?
+> Un quadrato $5\times 5$ è diviso in $25$ quadratini unitari. Uno dei numeri $1, 2, 3, 4, 5$ viene inserito in ciascuno dei quadratini unitari in modo che ogni riga, ogni colonna e ciascuna delle due diagonali contenga ciascuno dei cinque numeri una sola volta e una volta sola. La somma dei numeri nei quattro quadratini immediatamente sotto la diagonale che va dall'angolo in alto a sinistra a quello in basso a destra è chiamata \emph{punteggio}. Dimostrare che è impossibile che il punteggio sia $20$. Qual è il punteggio più alto possibile?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_1997-98_round1#q01|src_bmo_1997-98_round1__Q01]]
 
 
 
@@ -58,9 +65,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza mod-100 simile a Fibonacci; somma dei quadrati mod 8*
+*Sequenza mod-100 simile a quella di Fibonacci; somma dei quadrati mod 8*
 
-> Il valore di $a_1 = 19$, $a_2 = 98$. Per $n \ge 1$, definire $a_{n+2}$ come il rimanente di $a_n + a_{n+1}$ quando diviso da $100$. Qual è il rimanente quando $$a_1^2 + a_2^2 + \cdots + a_{1998}^2$$ è diviso da $8$?
+> Siano $a_1 = 19$, $a_2 = 98$. Per $n \ge 1$, si definisca $a_{n+2}$ come il resto della divisione di $a_n + a_{n+1}$ per $100$. Qual è il resto quando
+> $$a_1^2 + a_2^2 + \cdots + a_{1998}^2$$
+> viene diviso per $8$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_1997-98_round1#q02|src_bmo_1997-98_round1__Q02]]
 
 
 
@@ -84,9 +100,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles, parallelo; prova che M è il punto medio di DA*
+*Triangolo isoscele, parallelogramma; dimostrare che M è il punto medio di DA*
 
-> $ABP$ è un triangolo di uguali braccia con $AB = AP$ e $\angle PAB$ acuta. $PC$ è la linea attraverso $P$ perpendicolare a $BP$, e $C$ è un punto su questa linea sullo stesso lato di $BP$ come $A$. (Si può presumere che $C$ non sia sulla linea $AB$.) $D$ completa il parallelo $ABCD$. $PC$ soddisfa $DA$ al $M$. Provare che $M$ è il punto medio di $DA$.
+> $ABP$ è un triangolo isoscele con $AB = AP$ e $\angle PAB$ acuti. $PC$ è la retta passante per $P$ e perpendicolare a $BP$, e $C$ è un punto su questa retta, sullo stesso lato di $BP$ rispetto a $A$. (Si può supporre che $C$ non appartenga alla retta $AB$.) $D$ completa il parallelogramma $ABCD$. $PC$ incontra $DA$ in $M$. Dimostrare che $M$ è il punto medio di $DA$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_1997-98_round1#q03|src_bmo_1997-98_round1__Q03]]
 
 
 
@@ -111,9 +134,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra una sequenza unica di numeri interi positivi che soddisfa una data ricorrenza*
+*Mostra che una sequenza unica di interi positivi soddisfa la relazione di ricorrenza data*
 
-> Indicare che esiste una sequenza unica di integri positivi $(a_n)$ che soddisfa le seguenti condizioni: $$a_1 = 1, \quad a_2 = 2, \quad a_4 = 12,$$ $$a_{n+1}a_{n-1} = a_n^2 \pm 1 \quad \text{for} \quad n = 2, 3, 4, \ldots.$$
+> Dimostrare che esiste una sola successione di numeri interi positivi $(a_n)$ che soddisfa le seguenti condizioni:
+> $$a_1 = 1, \quad a_2 = 2, \quad a_4 = 12,$$
+> $$a_{n+1}a_{n-1} = a_n^2 \pm 1 \quad \text{for} \quad n = 2, 3, 4, \ldots.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_1997-98_round1#q04|src_bmo_1997-98_round1__Q04]]
 
 
 
@@ -136,6 +168,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con punto medio e punto trisezione; trovare angolo BAC*
+*Triangolo con punto medio e punto di trisezione; trovare l'angolo BAC*
 
-> Nel triangolo $ABC$, $D$ è il punto medio di $AB$ e $E$ è il punto di trisezione di $BC$ più vicino a $C$. Dato che $\angle ADC = \angle BAE$ trova $\angle BAC$.
+> Nel triangolo $ABC$, $D$ è il punto medio di $AB$ e $E$ è il punto di trisezione di $BC$ più vicino a $C$. Dato che $\angle ADC = \angle BAE$, determina $\angle BAC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_1997-98_round1#q05|src_bmo_1997-98_round1__Q05]]

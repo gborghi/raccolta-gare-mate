@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove infinitamente che molti dei numeri 50^n+(50n+1)^50 sono composti.*
+*Tra i numeri 50^n + (50n+1)^50, con n naturale, ce ne sono infiniti composti*
 
-> Prova che tra i numeri $50^n + (50n+1)^{50}$, dove $n \in \mathbb{N}$, ci sono infinitamente molti numeri composti.
+> Dimostrare che tra i numeri $50^n + (50n+1)^{50}$, dove $n \in \mathbb{N}$, ce ne sono infiniti composti.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_1999_r1#q01|src_pol_1999_r1__Q01]]
 
 
 
@@ -54,9 +60,17 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza (a+b+c+d)^2 <= 3(a^2+b^2+c^2+d^2)+6ab.*
+*Per quattro numeri reali, il quadrato della somma è al più 3 volte la somma dei quadrati più 6ab*
 
-> Se $a, b, c, d$ sono numeri reali, dimostrare la disuguaglianza $$(a + b + c + d)^2 \le 3(a^2 + b^2 + c^2 + d^2) + 6ab.$$
+> Se $a, b, c, d$ sono numeri reali, dimostrare la disuguaglianza
+>
+> $$(a + b + c + d)^2 \le 3(a^2 + b^2 + c^2 + d^2) + 6ab.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_1999_r1#q02|src_pol_1999_r1__Q02]]
 
 
 
@@ -79,9 +93,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo a destra con uguale occhiaio, D su BC con BD=2CD, E proiezione di B su AD; angolo di calcolo CED.*
+*Triangolo isoscele rettangolo in A, D su BC con BD = 2 CD, E proiezione di B su AD: calcolare l'angolo CED*
 
-> Che $ABC$ sia un triangolo di uguali dimensioni con $\angle A = 90^\circ$. Il punto $D$ è preso sul lato $BC$ in modo tale che $BD = 2CD$, e $E$ è la proiezione di $B$ sulla linea $AD$. Calcolo $\angle CED$.
+> Sia $ABC$ un triangolo isoscele con $\angle A = 90^\circ$. Si prende un punto $D$ sul lato $BC$ tale che $BD = 2CD$, e $E$ è la proiezione di $B$ sulla retta $AD$. Calcolare $\angle CED$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_1999_r1#q03|src_pol_1999_r1__Q03]]
 
 
 
@@ -104,9 +124,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se x+y, x^2+y^2, x^3+y^3, x^4+y^4 sono numeri interi, dimostra che x^n+y^n è un intero per tutti n.*
+*Se le somme di potenze di x e y fino al quarto grado sono intere, lo sono tutte le somme di potenze*
 
-> Supponiamo che $x, y$ siano numeri reali in modo che $x + y$, $x^2 + y^2$, $x^3 + y^3$ e $x^4 + y^4$ siano interi. Provare che $x^n + y^n$ è un numero intero per tutti $n \in \mathbb{N}$.
+> Si supponga che $x, y$ siano numeri reali tali che $x + y$, $x^2 + y^2$, $x^3 + y^3$ e $x^4 + y^4$ siano interi. Dimostrare che $x^n + y^n$ è un intero per ogni $n \in \mathbb{N}$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_1999_r1#q04|src_pol_1999_r1__Q04]]
 
 
 
@@ -129,9 +155,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determina tutti gli integri positivi x,y soddisfacendo y^x = x^{50}.*
+*Determinare gli interi positivi x, y tali che y^x = x^50*
 
-> Determinare tutti gli integri positivi $x, y$ soddisfaci $y^x = x^{50}$.
+> Determinare tutti gli interi positivi $x, y$ che soddisfano $y^x = x^{50}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_1999_r1#q05|src_pol_1999_r1__Q05]]
 
 
 
@@ -154,9 +186,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Diagonali quadrilaterali convex si incontrano a P, M al punto medio di AB, MP si incontrano a CD a Q; prova [BCP]:[ADP]=CQ:DQ.*
+*Diagonali di un quadrilatero convesso, punto medio di AB: il rapporto delle aree di BCP e ADP uguaglia CQ:DQ*
 
-> Le diagonali $AC$ e $BD$ di un quadrilaterale converso $ABCD$ si incontrano a $P$. La linea $MP$ deve incontrare $CD$ al punto medio di $AB$. Prova che il rapporto tra le superfici dei triangoli $BCP$ e $ADP$ è uguale a $CQ : DQ$.
+> Le diagonali $AC$ e $BD$ di un quadrilatero convesso $ABCD$ si incontrano in $P$. Sia $M$ il punto medio di $AB$ e la retta $MP$ incontri $CD$ in $Q$. Dimostrare che il rapporto delle aree dei triangoli $BCP$ e $ADP$ è uguale a $CQ : DQ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_1999_r1#q06|src_pol_1999_r1__Q06]]
 
 
 
@@ -179,9 +217,17 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i polinomi di grado n con esattamente n radici reali non superiori a -1 soddisfacendo a_0^2+a_1 a_n=a_n^2+a_0 a_{n-1}.*
+*Polinomi di grado n con esattamente n radici reali non superiori a −1 e con la relazione sui coefficienti*
 
-> $n \ge 2$ sia un numero intero. Trova tutti i polinomi $P(x) = a_0 + a_1 x + \cdots + a_n x^n$ con radici reali $n$ non superiori a $-1$ e soddisfacente $$a_0^2 + a_1 a_n = a_n^2 + a_0 a_{n-1}.$$
+> Sia $n \ge 2$ un intero. Trovare tutti i polinomi $P(x) = a_0 + a_1 x + \cdots + a_n x^n$ che hanno esattamente $n$ radici reali non superiori a $-1$ e che soddisfano
+>
+> $$a_0^2 + a_1 a_n = a_n^2 + a_0 a_{n-1}.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_1999_r1#q07|src_pol_1999_r1__Q07]]
 
 
 
@@ -204,9 +250,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme S di n>=2 elementi: trovare il più piccolo k tale che esistano sottoinsiemi k dove due elementi distinti sono separati da qualche A_j.*
+*Minimo numero di sottoinsiemi che separano ogni coppia di un insieme di n elementi*
 
-> Si deve $S$ essere un insieme di elementi $n \ge 2$. Trova la $k$ più piccola per la quale esistono sottoinsiemi $A_1, A_2, \ldots, A_k$ di $S$ con la seguente proprietà: Per due elementi $a, b \in S$ esiste $j \in \{1, 2, \ldots, k\}$ tale che $A_j$ contiene esattamente uno degli elementi $a, b$.
+> Sia $S$ un insieme di $n \ge 2$ elementi. Trovare il minimo $k$ per cui esistono sottoinsiemi $A_1, A_2, \ldots, A_k$ di $S$ con la proprietà seguente: per ogni coppia di elementi $a, b \in S$ esiste $j \in \{1, 2, \ldots, k\}$ tale che $A_j$ contiene esattamente uno degli elementi $a, b$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_1999_r1#q08|src_pol_1999_r1__Q08]]
 
 
 
@@ -229,9 +281,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*D,E,F sui lati del triangolo ABC; incircoli dei triangoli AEF, CA, AB tangenti all'incircolo di DEF; dimostrare che AD, BE, CF sono simultanei.*
+*Punti sui lati tali che le circonferenze inscritte dei tre triangoli esterni sono tangenti a quella di DEF: le ceviane concorrono*
 
-> Supponiamo che $D, E, F$ siano punti sui lati $BC, CA, AB$ di un triangolo $ABC$ rispettivamente in modo tale che gli incircoli dei triangoli $AEF$, $BFD$, $CDE$ siano tangenti al circolo del triangolo $DEF$. Indicare che le righe $AD$, $BE$, $CF$ sono simultanee.
+> Si supponga che $D, E, F$ siano punti sui lati $BC, CA, AB$ di un triangolo $ABC$ rispettivamente, tali che le circonferenze inscritte dei triangoli $AEF$, $BFD$, $CDE$ siano tangenti alla circonferenza inscritta del triangolo $DEF$. Dimostrare che le rette $AD$, $BE$, $CF$ concorrono.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_1999_r1#q09|src_pol_1999_r1__Q09]]
 
 
 
@@ -254,9 +312,19 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza x_{n+1}=x_n+1/x_n^2; provare l'esistenza di lim x_n/cuberoot(3n) e trovarla.*
+*Successione x_{n+1} = x_n + 1/x_n^2: il limite di x_n diviso la radice cubica di n esiste, e se ne chiede il valore*
 
-> Date $x_1 > 0$, la sequenza $(x_n)$ è definita da $$x_{n+1} = x_n + \frac{1}{x_n^2} \quad \text{for } n \ge 1.$$ Prove che il limite $\displaystyle \lim_{n \to \infty} \frac{x_n}{\sqrt[3]{n}}$ esiste e trova.
+> Dato $x_1 > 0$, la successione $(x_n)$ è definita da
+>
+> $$x_{n+1} = x_n + \frac{1}{x_n^2} \quad \text{for } n \ge 1.$$
+>
+> . Dimostrare che il limite $\displaystyle \lim_{n \to \infty} \frac{x_n}{\sqrt[3]{n}}$ esiste, e calcolarlo.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_1999_r1#q10|src_pol_1999_r1__Q10]]
 
 
 
@@ -279,9 +347,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Schema di Urn Polya: pallone bianco+nero più 50 bianchi e 50 neri; 50 volte a tiratura e ritorno con pallone extra dello stesso colore; numero più probabile di pallone bianche.*
+*Urna con una pallina bianca e una nera: cinquanta volte se ne estrae una e la si rimette con un'altra dello stesso colore. Quante bianche sono più probabili?*
 
-> C'è una palla bianca e una palla nera in un'urna. Inoltre, ci sono state date 50 palle bianche e 50 nere. Ripetiamo la seguente procedura 50 volte: scegliamo casualmente una palla dall'urna e la restituiamo all'urna insieme ad un'altra palla dello stesso colore. Qual e' il numero piu' probabile di sfere bianche nell'urna?
+> In un'urna ci sono una pallina bianca e una pallina nera. Inoltre sono date 50 palline bianche e 50 palline nere. Si ripete 50 volte la procedura seguente: si sceglie a caso una pallina dall'urna e la si rimette nell'urna insieme con un'altra pallina dello stesso colore. Quali saranno i numeri più probabili di palline bianche nell'urna?
+
+**Topic:** [[topic_probabilita|Probabilità e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_pol_1999_r1#q11|src_pol_1999_r1__Q11]]
 
 
 
@@ -304,6 +378,12 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tutti i vertici di un cubo di bordo si trovano sulla superficie di un tetraedro regolare di bordo 1; trovare tutte le possibili a.*
+*Vertici di un cubo di spigolo a sulla superficie di un tetraedro regolare di spigolo 1: valori possibili di a*
 
-> Tutti i vertici di un cubo di bordo $a$ si trovano sulla superficie di un tetraedro regolare di bordo $1$. Trova tutti i valori possibili di $a$.
+> Tutti i vertici di un cubo di spigolo $a$ giacciono sulla superficie di un tetraedro regolare di spigolo $1$. Trovare tutti i valori possibili di $a$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_pol_1999_r1#q12|src_pol_1999_r1__Q12]]

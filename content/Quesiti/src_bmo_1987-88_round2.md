@@ -31,11 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo equilaterale con cerchi incisi; prova il rapporto AP/AC = 4/5 e trova AQ/AC*
+*$AP/AC = 4/5$, e il rapporto $AQ/AC$*
 
-> $ABC$ è un triangolo equilaterale. Il cerchio $\Gamma_1$ ha centro $A$ e raggio $AB$. $\Gamma_2$ è il cerchio su $AC$ come diametro. Il cerchio con il centro $P$ su $AC$ tocca $\Gamma_1$ internamente a $C$ e $\Gamma_2$ esternamente a $Q$.
-> 
-> Indicare che $AP/AC = 4/5$ e calcolare il rapporto $AQ/AC$.
+> $ABC$ è un triangolo equilatero. La circonferenza $\Gamma_1$ ha centro $A$ e raggio $AB$. $\Gamma_2$ è la circonferenza di diametro $AC$. La circonferenza di centro $P$ su $AC$ tocca $\Gamma_1$ internamente in $C$ e $\Gamma_2$ esternamente in $Q$.
+>
+> Dimostrare che $AP/AC = 4/5$ e calcolare il rapporto $AQ/AC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1987-88_round2#q01|src_bmo_1987-88_round2__Q01]]
 
 
 
@@ -62,11 +69,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i modi di accoppiare 2n oggetti; conta le disposizioni di coppia per le coppie sposate*
+*Il numero di modi di accoppiare $2n$ oggetti, e i 10 invitati*
 
-> Provare che il numero di modi di organizzare gli oggetti $2n$ distinguibili in coppie $n$ è $$1 \cdot 3 \cdot 5 \cdots (2n-1).$$ Ad esempio, le 3 coppie di $\{a, b, c, d\}$ sono: $ab, cd$; $ac, bd$; $ad, bc$.
-> 
-> Un gruppo di 10 persone composto da 5 coppie sposate sarà diviso in 5 coppie. Una coppia può essere composta da due uomini, due donne o da un uomo e una donna, ma non deve essere una coppia sposata. In quanti modi si può fare questa disposizione? Spiega attentamente il tuo ragionamento.
+> Dimostrare che il numero di modi di disporre $2n$ oggetti distinguibili in $n$ coppie è
+> $$1 \cdot 3 \cdot 5 \cdots (2n-1).$$
+> Per esempio, le 3 coppie di $\{a, b, c, d\}$ sono: $ab, cd$; $ac, bd$; $ad, bc$.
+>
+> Un gruppo di 10 persone formato da 5 coppie sposate va diviso in 5 coppie. Una coppia può essere formata da due uomini, due donne o un uomo e una donna, ma non deve essere una coppia sposata. In quanti modi si può fare questa disposizione? Spiegare con cura il ragionamento.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1987-88_round2#q02|src_bmo_1987-88_round2__Q02]]
 
 
 
@@ -98,13 +114,24 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sistema di equazioni a,b,c,x,y,z; espresso z e espressione combinata*
+*Il valore di $a^4 + b^4 + c^4 - 2a^2b^2 - 2b^2c^2 - 2a^2c^2$*
 
-> I numeri $a$, $b$, $c$, $x$, $y$, $z$ soddisfano le equazioni $$x^2 - y^2 - z^2 = 2ayz$$ $$-x^2 + y^2 - z^2 = 2bxz$$ $$-x^2 - y^2 + z^2 = 2cxy$$ e anche $xyz \neq 0$.
-> 
-> Usando le prime due equazioni si esprime $z$ in termini di $a$, $b$, $x$, $y$. Prove che $$x^2(1-b^2) = y^2(1-a^2) = xy(ab-c)$$ e quindi trova il valore di $a^4 + b^4 + c^4 - 2a^2b^2 - 2b^2c^2 - 2a^2c^2$ (indipendentemente da $x$, $y$, $z$).
+> I numeri $a$, $b$, $c$, $x$, $y$, $z$ soddisfano le equazioni
+> $$x^2 - y^2 - z^2 = 2ayz$$
+> $$-x^2 + y^2 - z^2 = 2bxz$$
+> $$-x^2 - y^2 + z^2 = 2cxy$$
+> e anche $xyz \neq 0$.
+>
+> Usando le prime due equazioni, esprimere $z$ in funzione di $a$, $b$, $x$, $y$. Dimostrare che
+> $$x^2(1-b^2) = y^2(1-a^2) = xy(ab-c)$$
+> e trovare dunque il valore di $a^4 + b^4 + c^4 - 2a^2b^2 - 2b^2c^2 - 2a^2c^2$ (indipendentemente da $x$, $y$, $z$).
 
-**Risposta:** 1
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1987-88_round2#q03|src_bmo_1987-88_round2__Q03]]
 
 
 
@@ -129,9 +156,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni integrali positive di 1/x + 1/y - 1/z = 1*
+*Tutte le soluzioni in interi positivi di $\frac{1}{x} + \frac{1}{y} - \frac{1}{z} = 1$*
 
-> Trova, con prova, tutte le soluzioni di $$\frac{1}{x} + \frac{1}{y} - \frac{1}{z} = 1$$ dove $x$, $y$, $z$ sono integri positivi.
+> Trovare, con dimostrazione, tutte le soluzioni di
+> $$\frac{1}{x} + \frac{1}{y} - \frac{1}{z} = 1$$
+> dove $x$, $y$, $z$ sono interi positivi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1987-88_round2#q04|src_bmo_1987-88_round2__Q04]]
 
 
 
@@ -156,11 +192,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Line pieghevoli con segmento in movimento; sfera attraverso quattro punti ha il centro su un cerchio fisso*
+*Il centro della sfera per $A$, $B$, $P$, $Q$ sta su una circonferenza fissa*
 
-> $L$ e $M$ sono due linee skew nello spazio, cioè non si incontrano né sono parallele. $A$, $B$ sono i punti di $L$ e $M$ rispettivamente in modo tale che $AB$ sia perpendicolare sia a $L$ che a $M$. I punti $P$ su $L$ e $Q$ su $M$ variano in modo che $PQ$ sia di lunghezza costante.
-> 
-> Indicare che il centro della sfera attraverso $A$, $B$, $P$, $Q$ si trova su un cerchio fisso con il centro il punto medio di $AB$.
+> $L$ e $M$ sono due rette sghembe nello spazio, cioè non si incontrano né sono parallele. $A$, $B$ sono i punti rispettivamente su $L$, $M$ tali che $AB$ sia perpendicolare sia a $L$ sia a $M$. I punti $P$ su $L$, $Q$ su $M$ variano in modo che $PQ$ abbia lunghezza costante.
+>
+> Dimostrare che il centro della sfera per $A$, $B$, $P$, $Q$ sta su una circonferenza fissa di centro il punto medio di $AB$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1987-88_round2#q05|src_bmo_1987-88_round2__Q05]]
 
 
 
@@ -185,6 +228,15 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Se due triangoli hanno lati a1,b1,c1 e a2,b2,c2, dimostrare che i mezzi geometrici formano un triangolo
+*Le medie geometriche dei lati sono ancora i lati di un triangolo*
 
-> Prova che se $a_1$, $b_1$, $c_1$ e $a_2$, $b_2$, $c_2$ sono le lunghezze dei lati di due triangoli (in qualche unità di misura), allora $$a = \sqrt{a_1 a_2}, \quad b = \sqrt{b_1 b_2}, \quad c = \sqrt{c_1 c_2}$$ sono anche le lunghezze dei lati di un triangolo.
+> Dimostrare che se $a_1$, $b_1$, $c_1$ e $a_2$, $b_2$, $c_2$ sono le lunghezze dei lati di due triangoli (in una qualche unità di misura) allora
+> $$a = \sqrt{a_1 a_2}, \quad b = \sqrt{b_1 b_2}, \quad c = \sqrt{c_1 c_2}$$
+> sono anch'esse le lunghezze dei lati di un qualche triangolo.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1987-88_round2#q06|src_bmo_1987-88_round2__Q06]]

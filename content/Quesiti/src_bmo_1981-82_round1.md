@@ -33,9 +33,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale con determinato rapporto di superficie è un quadrato con O al centro*
+*Se $2A = OP^2 + OQ^2 + OR^2 + OS^2$, allora $PQRS$ è un quadrato e $O$ ne è il centro*
 
-> $PQRS$ è un quadrilaterale di superficie $A$. $O$ è un punto all'interno di esso. Prova che se $$2A = OP^2 + OQ^2 + OR^2 + OS^2$$ $PQRS$ è un quadrato e $O$ è il suo centro.
+> $PQRS$ è un quadrilatero di area $A$. $O$ è un punto interno. Dimostrare che se
+> $$2A = OP^2 + OQ^2 + OR^2 + OS^2$$
+> allora $PQRS$ è un quadrato e $O$ ne è il centro.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1981-82_round1#q01|src_bmo_1981-82_round1__Q01]]
 
 
 
@@ -60,9 +69,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Multiplici di 3 in base 2 con tre 1s: conteggio di cifre in base 4*
+*Un multiplo di $3$ con esattamente tre cifre $1$ in base $2$ ha almeno sei cifre in base $4$*
 
-> Un multiple di $3$ quando scritto nella scala di $2$ contiene esattamente tre cifre $1$. Prove che contiene almeno sei cifre quando viene scritta nella scala di $4$, e che se contiene esattamente sette cifre in questa scala, allora è pari.
+> Un multiplo di $3$, scritto in base $2$, contiene esattamente tre cifre $1$. Dimostrare che contiene almeno sei cifre quando è scritto in base $4$, e che se in questa base contiene esattamente sette cifre, allora è pari.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1981-82_round1#q02|src_bmo_1981-82_round1__Q02]]
 
 
 
@@ -89,9 +105,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove un'identità per la somma di tipo armonico s_n*
+*Dimostrare quell'identità per $s_n$, con $x$ e $b$ dati da quelle relazioni*
 
-> Se $s_n = 1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \cdots + \frac{1}{n}$ per $n > 2$, dimostrare che $$n(s_n)^x = n + (n-1)s_1 + (n-2)s_2 + \cdots + 2s_{n-2} + s_{n-1},$$ dove $x$ e $b$ sono dati in termini di $n$ da $a = s_n - 1$, $b(s_n - 1) = -1$.
+> Se $s_n = 1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \cdots + \frac{1}{n}$ per $n > 2$, dimostrare che
+> $$n(s_n)^x = n + (n-1)s_1 + (n-2)s_2 + \cdots + 2s_{n-2} + s_{n-1},$$
+> dove $x$ e $b$ sono dati in funzione di $n$ da $a = s_n - 1$, $b(s_n - 1) = -1$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Metodo telescopico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1981-82_round1#q03|src_bmo_1981-82_round1__Q03]]
 
 
 
@@ -118,9 +143,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di ricorrenze: descrivere il comportamento come n tende all'infinito*
+*Il comportamento di $u_n$ quando $n$ tende all'infinito*
 
-> Una sequenza di numeri reali $u_1, u_2, u_3, \ldots$ è data da $u_1$ e la relazione di ricorrenza $$\frac{1}{u_{n+1}} - u_n = \frac{13}{6n}, \quad n \ge 2.$$ Considerando la curva $x^2 + y = \frac{13}{6n}$, o altrimenti descrivendo con prova il comportamento di $u_n$ come $n$ tende all'infinito.
+> Una successione di numeri reali $u_1, u_2, u_3, \ldots$ è data da $u_1$ e dalla relazione di ricorrenza
+> $$\frac{1}{u_{n+1}} - u_n = \frac{13}{6n}, \quad n \ge 2.$$
+> Considerando la curva $x^2 + y = \frac{13}{6n}$, o altrimenti, descrivere con dimostrazione il comportamento di $u_n$ quando $n$ tende all'infinito.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1981-82_round1#q04|src_bmo_1981-82_round1__Q04]]
 
 
 
@@ -146,9 +180,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cono con sezione ellittica: condizione per la intersezione di due percorsi superficiali*
+*La condizione affinché $R_1$ e $R_2$ si intersechino fra $L$ e $H$*
 
-> Un cono circolare destro si trova su una base orizzontale, di raggio $r$. Il suo vertice $V$ è a una distanza $l$ da ogni punto sul perimetro della base. Una sezione piana del cono è un'ellisse il cui punto inferiore è $L$ e il cui punto più alto è $H$. Sulla superficie curva del cono, da un lato del piano $VLH$, sono segnate due percorsi da $L$ a $H$, $R_1$ lungo il semiperimetro dell'ellisse e $R_2$ il percorso di lunghezza più breve. Trova la condizione che $R_1$ e $R_2$ si incrociano tra $L$ e $H$.
+> Un cono circolare retto poggia su una base orizzontale di raggio $r$. Il suo vertice $V$ è a distanza $l$ da ogni punto del perimetro della base. Una sezione piana del cono è un'ellisse il cui punto più basso è $L$ e il cui punto più alto è $H$. Sulla superficie laterale del cono, da un lato del piano $VLH$, sono segnati due percorsi da $L$ a $H$: $R_1$ lungo il semiperimetro dell'ellisse e $R_2$ il percorso di lunghezza minima.
+> Trovare la condizione affinché $R_1$ e $R_2$ si intersechino fra $L$ e $H$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1981-82_round1#q05|src_bmo_1981-82_round1__Q05]]
 
 
 
@@ -173,6 +215,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta le sequenze binarie con accadezza m di 01*
+*Il numero di successioni binarie con esattamente $m$ occorrenze di $01$ è $\dbinom{n+1}{2m+1}$*
 
-> Prove che il numero di sequenze $a_1 a_2 \ldots a_n$ con ciascuna delle loro $n$ termini $a_i = 0$ o $1$ e contenente esattamente $m$ eventi di $01$ è $\dbinom{n+1}{2m+1}$.
+> Dimostrare che il numero di successioni $a_1 a_2 \ldots a_n$ con ciascuno dei loro $n$ termini $a_i = 0$ o $1$ e contenenti esattamente $m$ occorrenze di $01$ è $\dbinom{n+1}{2m+1}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_bigezione|Biiezione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1981-82_round1#q06|src_bmo_1981-82_round1__Q06]]

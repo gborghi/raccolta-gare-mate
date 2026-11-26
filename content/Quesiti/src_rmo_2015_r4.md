@@ -30,11 +30,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il circolo del triangolo CB'I si trova sul bisettore angolare*
+*Il circocentro del triangolo CB'I giace sulla bisettrice dell'angolo*
 
-> Lasciate che $ABC$ sia un triangolo. $B'$ indica il riflesso di $B$ nel bisettore angolare interno $\ell$ di $\angle A$. Indicare che il circoncentro del triangolo $CB'I$ si trova sulla linea $\ell$, dove $I$ è l'incentro di $ABC$.
+> Sia $ABC$ un triangolo. Sia $B'$ la riflessione di $B$ rispetto alla bisettrice interna $\ell$ di $\angle A$. Dimostrare che il circocentro del triangolo $CB'I$ giace sulla retta $\ell$, dove $I$ è l'incentro di $ABC$.
 
 ![[src_rmo_2015_r4__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2015_r4#q01|src_rmo_2015_r4__Q01]]
 
 
 
@@ -57,9 +63,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadratici con valori interi a 0,1,2 implicano coefficienti interi*
+*Una funzione quadratica con valori interi in 0, 1, 2 implica coefficienti interi*
 
-> Che $P(x) = x^2 + ax + b$ sia un polinomio quadratico dove $a$ è reale e $b \neq 2$ è razionale. Supponiamo che $P(0)^2$, $P(1)^2$, $P(2)^2$ siano numeri interi. Provare che $a$ e $b$ sono numeri interi.
+> Sia $P(x) = x^2 + ax + b$ un polinomio di secondo grado in cui $a$ è reale e $b \neq 2$ è razionale. Si supponga che $P(0)^2$, $P(1)^2$, $P(2)^2$ siano interi. Dimostrare che $a$ e $b$ sono interi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2015_r4#q02|src_rmo_2015_r4__Q02]]
 
 
 
@@ -83,9 +96,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli interi con a2=bc+4 e b2=ca+4*
+*Trovare tutte le terne di interi tali che a²=bc+4 e b²=ca+4*
 
-> Trova tutti gli integri $a, b, c$ in modo che $$a^2 = bc + 4, \quad b^2 = ca + 4.$$
+> Trovare tutti gli interi $a, b, c$ tali che
+> $$a^2 = bc + 4, \quad b^2 = ca + 4.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2015_r4#q03|src_rmo_2015_r4__Q03]]
 
 
 
@@ -108,9 +129,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per scegliere 3 di 40 oggetti su un cerchio, non due adiacenti o diametralmente opposti*
+*Conta i modi di scegliere 3 oggetti tra 40 disposti su una circonferenza, in modo che nessun paio sia adiacente né diametralmente opposto*
 
-> Supponiamo che 40 oggetti siano posizionati lungo un cerchio a distanze uguali. In quanti modi si possono scegliere tre oggetti tra di loro in modo che nessuno dei tre oggetti scelti sia adiacente o diametralmente opposto?
+> Si supponga che 40 oggetti siano disposti lungo una circonferenza a distanze uguali. In quanti modi si possono scegliere 3 oggetti tra questi in modo che nessuna delle due coppie formate dai tre oggetti scelti sia costituita da oggetti adiacenti né da oggetti diametralmente opposti?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2015_r4#q04|src_rmo_2015_r4__Q04]]
 
 
 
@@ -134,11 +162,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*CA=CD implica che il centro di Sigma si trova su Gamma*
+*CA=CD implica che il centro di Sigma giace su Gamma*
 
-> Due cerchi $\Gamma$ e $\Sigma$ si intersecano in due punti distinti $A$ e $B$. Una linea attraverso $B$ incrocia $\Gamma$ di nuovo a $C$ e $\Sigma$ di nuovo a $D$, rispettivamente. Supponiamo che $CA = CD$. Indicare che il centro di $\Sigma$ si trova su $\Gamma$.
+> Due circonferenze $\Gamma$ e $\Sigma$ si intersecano in due punti distinti $A$ e $B$. Una retta passante per $B$ interseca nuovamente $\Gamma$ in $C$ e interseca nuovamente $\Sigma$ in $D$, rispettivamente. Si supponga che $CA = CD$. Dimostrare che il centro di $\Sigma$ giace su $\Gamma$.
 
 ![[src_rmo_2015_r4__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2015_r4#q05|src_rmo_2015_r4__Q05]]
 
 
 
@@ -163,8 +197,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri integri m in [1,5000] con pavimento(sqrt(m))=pavimento(sqrt(m+125))*
+*Conta gli interi m in [1,5000] tali che floor(sqrt(m))=floor(sqrt(m+125))*
 
-> Quanti integri $m$ soddisfano entrambe le seguenti proprietà: i) $1 \le m \le 5000$; ii) $[\sqrt{m}] = [\sqrt{m+125}]$?
-> 
-> (Qui $[x]$ indica il più grande numero intero non superiore a $x$, per qualsiasi numero reale $x$.)
+> Quanti interi $m$ soddisfano entrambe le seguenti proprietà: (i) $1 \le m \le 5000$; (ii) $[\sqrt{m}] = [\sqrt{m+125}]$?
+>
+> (Qui $[x]$ denota il più grande intero non superiore a $x$, per qualsiasi numero reale $x$.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2015_r4#q06|src_rmo_2015_r4__Q06]]

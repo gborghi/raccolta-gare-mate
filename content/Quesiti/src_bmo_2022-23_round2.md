@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterali ciclici da intersezioni di cerchi incircoli*
+*Quadrilatero ciclico ricavato dagli incroci con la circonferenza inscritta*
 
-> Il $ABC$ deve essere un triangolo con un angolo ottuso $A$ e incentro $I$. I cerchi $ABI$ e $ACI$ incrociano di nuovo il cerchio $ABC$ rispettivamente a $X$ e $Y$. Le linee $AX$ e $BI$ si incontrano a $P$, e le linee $AY$ e $CI$ si incontrano a $Q$. Provare che $BCQP$ è ciclico.
+> Sia $ABC$ un triangolo con un angolo ottuso $A$ e incentro $I$. Le circonferenze $ABI$ e $ACI$ intersecano nuovamente la circonferenza $ABC$ rispettivamente in $X$ e $Y$. Le rette $AX$ e $BI$ si incontrano in $P$, e le rette $AY$ e $CI$ si incontrano in $Q$. Dimostrare che $BCQP$ è ciclico.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2022-23_round2#q01|src_bmo_2022-23_round2__Q01]]
 
 
 
@@ -57,9 +64,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazione sulla lavagna tramite mosse; trova tutti gli n validi*
+*Permutazione della lavagna tramite mosse; trova tutti gli n validi*
 
-> Per un numero intero $n > 1$, i numeri $1, 2, 3, \ldots, n$ sono scritti in ordine su una lavagna. Le seguenti mosse sono possibili: (i) Prendi tre numeri adiacenti $x, y, z$ la cui somma è un multiple di 3 e sostituirli con $y, z, x$. (ii) Prendi due numeri adiacenti $x, y$ e sostituirli con $y, x$. Trova tutte le $n$ in modo tale che l'elenco iniziale possa essere trasformato in $n, 1, 2, \ldots, n-1$ dopo un numero finito di mosse.
+> Per un intero $n > 1$, i numeri $1, 2, 3, \ldots, n$ vengono scritti in ordine sulla lavagna. Sono possibili le seguenti mosse: (i) prendere tre numeri adiacenti $x, y, z$ la cui somma sia un multiplo di 3 e sostituirli con $y, z, x$; (ii) prendere due numeri adiacenti $x, y$ e sostituirli con $y, x$. Determinare tutti gli $n$ tali che la lista iniziale possa essere trasformata in $n, 1, 2, \ldots, n-1$ dopo un numero finito di mosse.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2022-23_round2#q02|src_bmo_2022-23_round2__Q02]]
 
 
 
@@ -86,11 +100,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare n-liste ideali in cui le medie correnti sono interi*
+*Conta le n-liste ideali in cui le medie mobili sono numeri interi*
 
-> Per un intero $n \ge 3$, diciamo che $A = (a_1, a_2, \ldots, a_n)$ è un $n$-lista se ogni $a_k$ è un intero nell'intervallo $1 \le a_k \le n$. Per ciascuna $k = 1, 2, \ldots, n-1$ $$M_k = \frac{a_1 + a_2 + \cdots + a_k}{k}$$. Diciamo che una lista $n$ $A$ è ideale se $M_k$ è un intero per ogni $k = 1, 2, \ldots, n-1$.
-> 
-> Trova il numero delle liste $n$ ideali.
+> Per un numero intero $n \ge 3$, diciamo che $A = (a_1, a_2, \ldots, a_n)$ è una lista-$n$ se ogni $a_k$ è un numero intero compreso nell'intervallo $1 \le a_k \le n$. Sia
+> $$M_k = \frac{a_1 + a_2 + \cdots + a_k}{k}$$
+> per ogni $k = 1, 2, \ldots, n-1$. Diciamo che una lista-$n$ $A$ è ideale se $M_k$ è un numero intero per ogni $k = 1, 2, \ldots, n-1$.
+>
+> Trova il numero di liste-$n$ ideali.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2022-23_round2#q03|src_bmo_2022-23_round2__Q03]]
 
 
 
@@ -113,6 +136,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I lati interi del triangolo con angolo A = 3B; dimostrare che un lato è un cubo*
+*Triangolo con lati interi e angolo A = 3B; dimostrare che un lato è un cubo*
 
-> Le lunghezze laterali $a, b, c$ di un triangolo $ABC$ sono numeri interi positivi in modo tale che il fattore comune più alto di $a$, $b$ e $c$ è 1. Dato che $\angle A = 3\angle B$, dimostrare che almeno uno di $a$, $b$, $c$ è un cubo.
+> I lati $a, b, c$ di un triangolo $ABC$ sono numeri interi positivi tali che il massimo comune divisore di $a$, $b$ e $c$ è 1. Dato che $\angle A = 3\angle B$, dimostrare che almeno uno di $a$, $b$, $c$ è un cubo.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2022-23_round2#q04|src_bmo_2022-23_round2__Q04]]

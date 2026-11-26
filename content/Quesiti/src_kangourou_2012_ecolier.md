@@ -37,16 +37,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure has the white area larger than the gray one*
+*Which shape has a larger white area than the grey area?*
 
 ![[src_kangourou_2012_ecolier__prob2.png]]
 
-> Barbara wants to write the word MATEMATICA on a sheet of paper in colors, so that equal letters are written with the same color and different letters are written with different colors. How many colors does she need?
+> Barbara wants to write the word MATEMATICA in colors on a sheet of paper, so that identical letters are written in the same color and different letters are written in different colors. How many colors does she need?
 > A) 6
 > B) 7
 > C) 8
 > D) 9
 > E) 10
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_ecolier#q01|src_kangourou_2012_ecolier__Q01]]
 
 
 
@@ -74,9 +80,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colors used to write MATHEMATIC with equal letters*
+*Colors used to write MATHEMATIC with identical letters*
 
-> In four of the following five figures the area of the white part is equal to the area of the grey part. In which figure are the two areas different? A) B) C) D) E)
+> In four of the five figures below, the area of the white part is equal to the area of the grey part. In which figure are the two areas different?
+> A) 
+> B) 
+> C) 
+> D) 
+> E)
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_ecolier#q02|src_kangourou_2012_ecolier__Q02]]
 
 
 
@@ -108,19 +125,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Clothespins needed to hang the towels*
+*Clips needed to hang towels*
 
 ![[src_kangourou_2012_ecolier__prob3.png]]
 
-> The owner of a restaurant washed 3 napkins and hung them out to dry on a rope in the garden using 4 clothespins as the figure shows you.
-> Now he has to wash 9 napkins and wants to hang them out
-> to dry, in the same way, using the smallest possible
-> number of clothespins. How many will he need?
+> The owner of a restaurant washed 3 napkins and hung them out to dry on a line in the garden using 4 clothespins, as shown in the figure. Now they have to wash 9 napkins and want to hang them out to dry in the same way, using as few clothespins as possible. How many will they need?
 > A) 8
 > B) 10
 > C) 12
 > D) 14
 > E) 16
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_ecolier#q03|src_kangourou_2012_ecolier__Q03]]
 
 
 
@@ -151,18 +171,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which grid given the coloring of the indicated cells*
+*Which grid, given the coloring of the specified cells?*
 
 ![[src_kangourou_2012_ecolier__prob4.png]]
 
-> Ileana colored gray the cells A2, B1, B2, B3, B4, C3,
-> D3 and D4 of the grid in the figure. Among the following, which is the grid
-> that she obtained?
+> Ileana has shaded cells A2, B1, B2, B3, B4, C3, D3, and D4 of the grid in the figure in gray. Among the following, which grid did she end up with?
 > A) 
 > B) 
 > C) 
 > D)
 > E)
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_ecolier#q04|src_kangourou_2012_ecolier__Q04]]
 
 
 
@@ -387,9 +411,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many children are still hiding*
+*How many children still hiding at hide-and-seek*
 
-> A box contains five boxes each of which, in turn, contains five boxes. How many boxes are in all of this? A) 30 B) 31 C) 25 D) 26 E) 27 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D
+> One box contains 5 boxes, and each of those, in turn, contains 5 boxes. How many boxes are there in total?
+> A) 30
+> B) 31
+> C) 25    
+> D) 26    
+> E) 27
+> 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D 1 A 2 B 3 C 4 D
+>
+> Page Page 6 Kang 2012 Kang 2012
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_ecolier#q05|src_kangourou_2012_ecolier__Q05]]
 
 
 
@@ -423,22 +461,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who won and by how many more points on the target*
+*Who won and by how many extra points at the target?*
 
 ![[src_kangourou_2012_ecolier__prob6.png]]
 
-> Ada and Gino play to see who scores the
-> highest score by throwing 3 darts
-> each at a numbered target. The score is calculated by adding the points obtained with the individual darts. The figure
-> shows you where Ada's darts and
-> Gino's darts landed. Who won and how many points more than the other did they score?
-> A) Ada, with 3 points more
-> B) Gino, with 4 points more
-> C) Ada, with 2 points more
-> D) Gino, with 2 points more
-> E) Ada, with 4 points more
+> Ada and Gino are playing to see who will achieve the
+> The highest score is achieved by each person throwing 3 darts at a numbered dartboard. The score is calculated by adding up the points earned with each individual dart. The diagram shows where Ada's darts and Gino's darts landed. Who won, and by how many points did they outscore the other person?
+> A) Ada, with 3 more points
+> B) Gino, with 4 more points
+> C) Ada, with 2 more points
+> D) Gino, with 2 more points
+> E) Ada, with 4 more points
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_ecolier#q06|src_kangourou_2012_ecolier__Q06]]
 
 
 
@@ -471,13 +510,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many gray tiles have fallen*
+*How many grey tiles have fallen?*
 
 ![[src_kangourou_2012_ecolier__prob7.png]]
 
-> A wall was tiled with square tiles, all of the same size, but alternating two different types: striped white and gray. Some of the tiles in the inner part of the wall have fallen and the figure shows you the ones left. How many gray tiles have fallen? A) 9 B) 8 C) 7 D) 6 E) 5
+> A wall has been tiled with square tiles, all of the same size, but alternating two different types: white striped tiles and grey tiles. Some of the tiles on the inner part of the wall have fallen off, and the diagram shows the ones that remain. How many grey tiles have fallen off?
+> A) 9
+> B) 8
+> C) 7
+> D) 6
+> E) 5
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_ecolier#q07|src_kangourou_2012_ecolier__Q07]]
 
 
 
@@ -507,9 +556,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of chicks born on 24 February observed in March*
+*And 100 chicks born on 24 February, observed in March*
 
-> There's a candlestick on each of the 15 tables in a restaurant. On six tables there is a five-armed candlestick, on the other tables a three-armed candlestick. How many candles do you need if you want each candlestick to be complete? A) 45 B) 50 C) 57 D) 63 E) 75 Questions from N. 9 to N. 16 are worth 4 points each.
+> On each of the 15 tables in a restaurant, there is a candelabra. On 6 tables, there is a candelabra with five arms; on the others, a candelabra with three arms. How many candles are needed if you want each candelabra to be complete?
+> A) 45
+> B) 50
+> C) 57
+> D) 63
+> E) 75
+> Questions 9 to 16 are each worth 4 points.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_ecolier#q08|src_kangourou_2012_ecolier__Q08]]
 
 
 
@@ -591,69 +652,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many of the 4 squares can be made with two L*
+*How many of the 4 squares can be made with two Ls?*
 
 ![[src_kangourou_2012_ecolier__prob10.png]]
 
-> In leap years the month of February has 29 days. 2012 is a leap year and today, 15 March 2012, at noon my grandfather's chicks turned 20 days old. On what day did they come out of the egg?
-> A) 19 February
-> B) 21 February
-> C) 23 February
-> D) 24 February                           
-> E) 26 February
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 15
-> 20
-> 25
-> 30
-> 35
-> 4045 5055
-> 60
-> 60
-> 65
-> 70
-> 75
-> 100
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
-> 7
-> 8
-> 9
-> 10
-> 15
-> 20
-> 25
-> 30
-> 35
-> 4045 5055
-> 60
-> 60
-> 65
-> 70
-> 75
-> 100
-> Mike
-> Jake
-> Ada
-> Gino
-> 
-> Pag. 
-> Pag. 7
-> Kang 2012
-> Kang 2012
+> In leap years, February has 29 days. 2012 is a leap year, and today, March 15, 2012, at noon, my grandfather's chicks were 20 days old. On what day did they hatch?
+> A) February 19
+> B) On February 21
+> C) February 23
+> D) February 24
+> E) February 26
+> 1 2 3 4 5 6 7 8 9 10 15 20 25 30 35 4045 5055 60 60 65 70 75 100 1 2 3 4 5 6 7 8 9 10 15 20 25 30 35 4045 5055 60 60 65 70 75 100 Mike Jake Ada Gino
+>
+> Page Page 7 Kang 2012 Kang 2012
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_ecolier#q09|src_kangourou_2012_ecolier__Q09]]
 
 
 
@@ -685,13 +702,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many figures can be obtained by joining two tiles in an L shape*
+*How many figures can be obtained by placing two L-shaped tiles side by side?*
 
 ![[src_kangourou_2012_ecolier__prob10.png]]
 
-> Joan has L-shaped tiles, all of which are the same as the one in the figure to the right. How many of the following four figures can you get by joining two tiles at a time? A) 0 B) 1 C) 2 D) 3 E) 4
+> Giovanna has L-shaped tiles, all identical to the one in the figure on the right. How many of the following four figures can she obtain by joining two tiles at a time?
+> A) 0
+> B) 1
+> C) 2
+> D) 3
+> E) 4
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_ecolier#q10|src_kangourou_2012_ecolier__Q10]]
 
 
 
@@ -724,9 +750,19 @@ level: kangourou
 
 *Total number of cars in the parking lot*
 
-> In a parking lot, there's only white, red and green cars. You know, white cars are 3 or 5, red cars are 4 or 6, green cars are 5 or 7. One of the following is the total number of cars in the parking lot. What kind? A) 13 B) 16 C) 17 D) 19 E) 20
+> In a parking lot, there are only white, red, and green cars. It is known that there are either 3 or 5 white cars, either 4 or 6 red cars, and either 5 or 7 green cars. One of the following numbers is the total number of cars in the parking lot. Which one?
+> A) 13
+> B) 16
+> C) 17
+> D) 19
+> E) 20
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_ecolier#q11|src_kangourou_2012_ecolier__Q11]]
 
 
 
@@ -757,11 +793,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sweets decorated with both raisins and nuts*
+*At least some small decorated sweets with both raisins and walnuts*
 
-> Grandma made 20 candy for her grandchildren. He decorated some with grapes, some with nuts, and some with both grapes and nuts: first, he put grapes on 15 sweets, then he put nuts on 15 sweets. How many must be the candy decorations with both grapes and nuts? A) 4 B) 5 C) 6 D) 8 E) 10
+> Grandma baked 20 little treats for her grandchildren. She decorated some with raisins, some with walnuts, and some with both raisins and walnuts: specifically, first she put raisins on 15 treats, then she put walnuts on 15 treats. What is the minimum number of treats that must be decorated with both raisins and walnuts?
+> A) 4
+> B) 5
+> C) 6
+> D) 8
+> E) 10
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_ecolier#q12|src_kangourou_2012_ecolier__Q12]]
 
 
 
@@ -816,7 +862,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number to be entered in the gray cell of the sudoku*
+*Number to be entered in the gray cell of the Sudoku*
 
 ![[src_kangourou_2012_ecolier__prob13.png]]
 
@@ -839,9 +885,19 @@ level: kangourou
 \end{document}
 ```
 
-> Look at the grid in the figure. Gianni must first calculate the result of the operations indicated and then fill the empty cells so that each row and column contains, either as a result of the operations or because he entered it, each of the numbers 1, 2, 3, 4. What number should Gianni put in the gray cell? A) 1 B) 2 C) 3 D) 4 E) 3 or 4
+> Observe the grid in the figure. Gianni must first
+> Calculate the result of the indicated operations and then fill in the empty cells so that each row and each column contains each of the numbers 1, 2, 3, 4—either as the result of the operations or because he has entered it. What number must Gianni enter in the gray cell?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 3 o 4
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_ecolier#q13|src_kangourou_2012_ecolier__Q13]]
 
 
 
@@ -870,11 +926,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many rabbits have 44 legs
+*How many rabbits are there given 44 legs?*
 
-> In the animal school there are 3 cats, 4 chickens, 2 parrots and some rabbits. The legs are 44 in all. How many rabbits are there? A) 6 B) 5 C) 4 D) 3 E) 2
+> In the animals' school, there are 3 cats, 4 hens, 2 parrots, and some rabbits. In total, there are 44 legs. How many rabbits are there?
+> A) 6
+> B) 5
+> C) 4
+> D) 3
+> E) 2
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2012_ecolier#q14|src_kangourou_2012_ecolier__Q14]]
 
 
 
@@ -912,11 +977,22 @@ How many rabbits have 44 legs
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Longest interval with at least a 5 digit*
+*Longest interval containing at least one digit 5*
 
-> You have a digital clock in front of you (i.e., a clock that shows the time by indicating the numbers: for example, it writes 12:15 to indicate noon and a quarter). How many minutes is the longest time interval during which at least one of the four digits is 5? A) 10 B) 30 C) 60 D) 70 E) 90 1 x 1 1 x 3 2 x 2 6 −3 6 −5 4 −1 1 + 3 8 −7 9 −7 2 −1
+> You have a digital clock in front of you (that is, a clock that shows the time by displaying digits: for example, it shows 12:15 to indicate a quarter past twelve). How many minutes long is the longest time interval during which at least one of the four digits is 5?
+> A) 10
+> B) 30
+> C) 60
+> D) 70
+> E) 90
+> 1 x 1 1 x 3 2 x 2 6 −3 6 −5 4 −1 1 + 3 8 −7 9 −7 2 −1
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_ecolier#q15|src_kangourou_2012_ecolier__Q15]]
 
 
 
@@ -951,13 +1027,24 @@ How many rabbits have 44 legs
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What and the white part of the block*
+*Which is the white piece of the block*
 
 ![[src_kangourou_2012_ecolier__prob16.png]]
 
-> The block you see in the figure is made by attaching a white piece, a gray piece and a black piece. Each of the three pieces is obtained by gluing 4 cubes; all cubes are of the same size. Which of the ones listed below is the white one? (A) B) C) D) E) Questions from N. 17 al N. Twenty-four is worth five points each.
+> The block you see in the figure is formed by placing a white piece, a grey piece and a black piece side by side. Each of the three pieces is made by gluing together 4 small cubes; all the small cubes are the same size. Which of those listed below is the white piece?
+> A)
+> B)
+> C)
+> D)
+> E)
+> Questions 17 to 24 are worth 5 points each.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+[[Quesiti/src_kangourou_2012_ecolier#q16|src_kangourou_2012_ecolier__Q16]]
 
 
 
@@ -996,14 +1083,20 @@ How many rabbits have 44 legs
 
 ![[src_kangourou_2012_ecolier__prob17.png]]
 
-> A grasshopper has before it a large staircase with many steps. It wants to arrive exactly at the 22nd step, but it can only make jumps of 3 steps up or 4 down. What is the smallest number of jumps that allows it to reach the goal? 
+> A grasshopper has a staircase with many steps in front of it. It wants to reach exactly the 22nd step, but it can only make jumps of 3 steps upwards or 4 steps downwards. What is the smallest number of jumps that allows it to achieve its goal?
 > A) 7
 > B) 9
 > C) 10
 > D) 12
 > E) 15
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+[[Quesiti/src_kangourou_2012_ecolier#q17|src_kangourou_2012_ecolier__Q17]]
 
 
 
@@ -1060,39 +1153,26 @@ How many rabbits have 44 legs
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many dots are in the square with the question mark of the domino*
+*Dots in the domino square with the question mark*
 
 ![[src_kangourou_2012_ecolier__prob18.png]]
 
-> Each tile of the game of dominoes consists of two squares placed side by side; on each square there are some dots, from 0 to 6. Franco had placed seven domino tiles side by side: two squares of different tiles had a side in common only if they had the same number of dots. In this way he had obtained a kind of snake, on whose "back" 29 dots were counted. His brother removed from the snake two tiles, those that occupied the places left white in the figure. How many dots were there in the square indicated with the question mark?
+> Each tile of the game of dominoes is formed by placing two squares side by side; on each square there are some dots, from 0 to 6. Franco had placed seven domino tiles side by side: two squares from different tiles had a side in common only if they had the same number of dots. In this way he had obtained  a sort of snake, on whose “back” 29 dots were counted. His brother removed two tiles from the snake, those that occupied the places left white in the figure. How many dots were there in the square indicated by the question mark?
 > A) 2
 > B) 3
 > C) 4
 > D) 5
 > E) 6
-> Pag. 
-> Pag. 8
-> Kang 2012
-> Kang 2012
-> nd
-> 2  step
-> st
-> 1  step
-> rd
-> 3  ste
-> ground
-> Start
-> 1st step
-> 2nd step
-> 3rd step
-> ?
-> 
-> Pag. 
-> Pag. 9
-> Kang 2012
-> Kang 2012
+> Page Page 8 Kang 2012 Kang 2012 nd 2  step st 1  step rd 3  ste ground Start 1st step 2nd step 3rd step ?
+>
+> Page Page 9 Kang 2012 Kang 2012
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+[[Quesiti/src_kangourou_2012_ecolier#q18|src_kangourou_2012_ecolier__Q18]]
 
 
 
@@ -1122,11 +1202,22 @@ How many rabbits have 44 legs
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of two three-digit numbers with 1-6*
+*Maximum sum of two three-digit numbers*
 
-> Using all the digits 1, 2, 3, 4, 5 and 6, Enrica wants to form two numbers of three digits each. She also wants the sum of these two numbers to be as large as possible. What's the maximum amount you can get? A) 975 B) 999 C) 1083 D) 1173 E) 1221
+> Using all the digits 1, 2, 3, 4, 5 and 6, Enrica wants to form two numbers of three digits each. She also wants the sum of these two numbers to be as large as possible. What is the maximum sum she can obtain?
+> A) 975
+> B) 999
+> C) 1083
+> D) 1173
+> E) 1221
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+[[Quesiti/src_kangourou_2012_ecolier#q19|src_kangourou_2012_ecolier__Q19]]
 
 
 
@@ -1156,11 +1247,22 @@ How many rabbits have 44 legs
 <div class="qlang-split" data-lang="en"></div>
 
 
-In how many ways do Laura Maria Nadia Oreste arrange themselves
+*Arrangements on a bench*
 
-> Laura, Maria, Nadia and Oreste want to be photographed sitting on a bench. Laura and Maria want to be close because they're very close friends; Oreste wants to be close to Laura. How many different ways can they be disposed of? A) 2 B) 4 C) 5 D) 6 E) 7
+> Laura, Maria, Nadia and Oreste want to be photographed sitting on a bench. Laura and Maria want to be next to each other because they are very good friends; Oreste wants to be next to Laura. In how many different ways can they arrange themselves?
+> A) 2
+> B) 4
+> C) 5
+> D) 6
+> E) 7
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+[[Quesiti/src_kangourou_2012_ecolier#q20|src_kangourou_2012_ecolier__Q20]]
 
 
 
@@ -1192,13 +1294,23 @@ In how many ways do Laura Maria Nadia Oreste arrange themselves
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What figure shows the clock at 8 and 11*
+*Which figure shows the clock at 8:11*
 
 ![[src_kangourou_2012_ecolier__prob21.png]]
 
-> A clock has three different hands: it works properly, but we have not been told which hand indicates hours, minutes or seconds. The figure shows the clock at noon, 55 minutes and 30 seconds. What figure shows the clock at 8 and 11 minutes? A) B) C) D) E)
+> A clock has three different hands: it works correctly, but we have not been told which hand indicates the hours, which the minutes and which the seconds. The figure shows the clock at midday, 55 minutes and 30 seconds. Which figure shows the clock when it is 8 o'clock and 11 minutes?
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** A
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+[[Quesiti/src_kangourou_2012_ecolier#q21|src_kangourou_2012_ecolier__Q21]]
 
 
 
@@ -1228,11 +1340,22 @@ In how many ways do Laura Maria Nadia Oreste arrange themselves
 <div class="qlang-split" data-lang="en"></div>
 
 
-What number did Michele start from?
+*From which number had Michele started*
 
-> Michele chose a number, multiplied it by itself, added 1 to the product, multiplied the sum obtained by 10, added 3 to the new product, multiplied the new sum by 4 and got as the final result 2012. What number did he start from? A) 11 B) 9 C) 8 D) 5 E) None of the above
+> Michele chose a number, multiplied it by itself, added 1 to the product, multiplied the sum obtained by 10, added 3 to the new product, multiplied the new sum by 4 and obtained 2012 as the final result. From which number had he started?
+> A) 11
+> B) 9
+> C) 8
+> D) 5
+> E) None of the above
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+[[Quesiti/src_kangourou_2012_ecolier#q22|src_kangourou_2012_ecolier__Q22]]
 
 
 
@@ -1266,11 +1389,22 @@ What number did Michele start from?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of the two final squares from sheet 192x84*
+*Side of the two final squares from the 192 by 84 sheet*
 
-> The sides of a rectangular sheet of paper measure 192 and 84 millimeters. With just one straight cut, I get two sheets, one of which is a square. With just one straight cut, from the non-square sheet I get two more sheets, one of which is a square. I keep going this way until I have to stop, because after a certain cut, both sheets are square. How many millimeters does each side of these two squares measure? A) 1 B) 4 C) 6 D) 10 E) 12
+> The sides of a rectangular sheet of paper measure 192 and 84 millimetres. With a single cut in a straight line I obtain two sheets, one of which is a square. With a single cut in a straight line, from the sheet that is not a square I again obtain two sheets, one of which is a square. I continue in this way until I have to stop, because after a certain cut both of the sheets obtained are squares. How many millimetres long is the side of each of these two squares?
+> A) 1
+> B) 4
+> C) 6
+> D) 10
+> E) 12
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Answer:** E
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+[[Quesiti/src_kangourou_2012_ecolier#q23|src_kangourou_2012_ecolier__Q23]]
 
 
 
@@ -1304,16 +1438,21 @@ What number did Michele start from?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of games lost with 80 points in 38 games*
+*Maximum matches lost with 80 points in 38 matches*
 
-> In football, a team earns 3 points for a win and 0 points for a loss. If a match ends in a draw, both teams earn 1 point. After playing 38 matches, a team has 80 points in the standings. What is the maximum number of matches the team could have lost?
+> In the game of football, whoever wins a match gains 3 points in the table and whoever loses it gains 0 points. If a match ends in a draw, both teams gain one point. After playing 38 matches, a team has 80 points in the table. How many matches can it have lost at most?
+> A) 12
+> B) 11
+> C) 10
+> D) 9
+> E) 8
 >
-> (A) 12
-> (B) 11
-> (C) 10
-> (D) 9
-> (E) 8
-> 
-> ANSWERS ECOLIER 2012
+> ECOLIER 2012 ANSWERS
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+[[Quesiti/src_kangourou_2012_ecolier#q24|src_kangourou_2012_ecolier__Q24]]

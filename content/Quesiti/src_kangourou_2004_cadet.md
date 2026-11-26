@@ -30,11 +30,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Result of 2004-4*200*
+*The result of 2004 − 4 x 200*
 
-> What is the result of 2004 − 4 x 200? A) 400800   B) 400000  C) 1204      D)  1200     E)  2804
+> What is the result of 2004 − 4 x 200?
+> A) 400800
+> B) 400000
+> C) 1204
+> D) 1200
+> E) 2804
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_cadet#q01|src_kangourou_2004_cadet__Q01]]
 
 
 
@@ -66,13 +74,21 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle of rotation of the equilateral triangle*
+*How large the angle of rotation is*
 
 ![[src_kangourou_2004_cadet__prob2.png]]
 
-> Look at the figure. An equilateral triangle ACD rotates in an anti-clockwise direction by pivoting on the vertex A. How wide is the angle of rotation when it comes to covering the ABC equilateral triangle for the first time? A) 60° B) 120°       C) 180° D) 240°       E) 300°
+> Look at the figure. An equilateral triangle ACD rotates anticlockwise, pivoting on the vertex A. How large is the angle through which it has rotated when it first comes to cover the equilateral triangle ABC?
+> A) 60°
+> B) 120°
+> C) 180°
+> D) 240°
+> E) 300°
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_cadet#q02|src_kangourou_2004_cadet__Q02]]
 
 
 
@@ -102,13 +118,22 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Starting number in the operation sequence*
+*Which number one started from*
 
 ![[src_kangourou_2004_cadet__prob3.png]]
 
-> The figure illustrates a sequence of operations that results in 50. What number did we start from? A) 18 B) 24          C) 30 D) 40         E) 42
+> The figure shows a sequence of operations that gives 50 as its result. What number did we start from?
+> A) 18
+> B) 24
+> C) 30
+> D) 40
+> E) 42
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_cadet#q03|src_kangourou_2004_cadet__Q03]]
 
 
 
@@ -163,18 +188,16 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many suits for the box with the question mark*
+*Among how many of the four suits one may choose*
 
 ![[src_kangourou_2004_cadet__prob4.png]]
 
-> Mara has 16 cards: 4 spades (P), 4 clubs (F),
-> 4 diamonds (Q) and 4 hearts (C). She wants to arrange them in the
-> diagram shown alongside, so that in every row
-> and in every column there is one card for each
-> suit. In the drawing you see how she started. Among
-> how many of the 4 suits can she choose to fill the
-> box with the question mark?
-> A) none   B) 1            C) 2           D) 3           E) 4
+> Mara has 16 cards: 4 of spades (P), 4 of clubs (F), 4 of diamonds (Q) and 4 of hearts (C). She wants to place them in the grid shown alongside, so that in every row and in every column there is one card of each suit. In the drawing you see how she has begun. Among how many of the 4 suits may she choose in order to fill the cell with the question mark?
+> A) none
+> B) 1
+> C) 2
+> D) 3
+> E) 4
 > A
 > B
 > C
@@ -191,14 +214,18 @@ Result of 2004-4*200*
 > P
 > Q
 > C
- 
-> Pag. 
-> Pag. 17
+>
+> Page
+> Page 17
 > 17
 > Kang 2004
 > Kang 2004
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_cadet#q04|src_kangourou_2004_cadet__Q04]]
 
 
 
@@ -224,14 +251,19 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*After how many stops is the number of passengers close to half*
+*After how many stops the number of passengers is as close as possible to half*
 
-> A train leaves the terminus with 114 people on board. At each stop 13 passengers get off and 6 get on. After how many stops is the
-> number of passengers on board as close as possible to half of
-> the initial number?
-> A) 6            B) 7            C)  8          D) 9           E) 10
+> A train leaves the terminus with 114 people on board. At every stop 13 passengers get off and 6 get on. After how many stops is the number of passengers on board as close as possible to half the initial number?
+> A) 6
+> B) 7
+> C) 8
+> D) 9
+> E) 10
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_cadet#q05|src_kangourou_2004_cadet__Q05]]
 
 
 
@@ -257,13 +289,20 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many two-digit integers with tens < units*
+*How many two-digit positive integers have a smaller tens digit*
 
-> How many positive two-digit (significant) integers are there in which
-> the tens digit is less than the units digit?  
-> A) 32          B) 36          C)  40        D) 42          E) 45
+> How many positive integers of two (significant) digits are there in which the tens digit is less than the units digit?
+> A) 32
+> B) 36
+> C) 40
+> D) 42
+> E) 45
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_cadet#q06|src_kangourou_2004_cadet__Q06]]
 
 
 
@@ -294,19 +333,21 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure is obtained by sectioning the cube*
+*Which figure was obtained on the plane*
 
 ![[src_kangourou_2004_cadet__prob7.png]]
 
-> I have a cube and I section it with a plane: the figures
-> that I can obtain on the plane are different depending on how I choose the plane. I have indicated on the net of the cube the cuts identified by a plane that I have
-> chosen. Which figure did I obtain on the plane?
-> A) a hexagon                B) a square
+> I have a cube and I cut it with a plane: the figures I can obtain on the plane differ according to how I choose the plane. I have marked on the net of the cube the cuts determined by a plane I have chosen. Which figure did I obtain on the plane?
+> A) a hexagon
+> B) a square
 > C) a rectangle, but not a square
-> D) a right triangle
+> D) a right-angled triangle
 > E) an equilateral triangle
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_cadet#q07|src_kangourou_2004_cadet__Q07]]
 
 
 
@@ -331,13 +372,19 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage increase in flowerbed area (+10%+10%)*
+*By what percentage the area of the flowerbed increases*
 
-> A man has a rectangular flowerbed in his garden. He decides to enlarge it by increasing both the length and the width by 10%. Then
-> the area of the flowerbed increases by
-> A) 10%        B) 20%        C) 21%       D) 40%       E) 121%
+> A man has a rectangular flowerbed in his garden. He decides to enlarge it by increasing both the length and the width by 10%. Then the area of the flowerbed increases by
+> A) 10%
+> B) 20%
+> C) 21%
+> D) 40%
+> E) 121%
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_cadet#q08|src_kangourou_2004_cadet__Q08]]
 
 
 
@@ -366,11 +413,20 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most frequent day in second year*
+*Which day of the week was more frequent in the second year*
 
-> For the first of two consecutive non-leap years, there were more Thursdays than Tuesdays. Which of the following days of the week was more frequent in the second year? (a) Tuesdays (b) Wednesdays (c) Fridays (d) Saturdays (e) Sundays
+> In the first of two consecutive non-leap years there were more Thursdays than Tuesdays. Which of the following days of the week was more frequent in the second year?
+> A) Tuesday
+> B) Wednesday
+> C) Friday
+> D) Saturday
+> E) Sunday
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_cadet#q09|src_kangourou_2004_cadet__Q09]]
 
 
 
@@ -411,29 +467,34 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many rings in the 1.7 m long chain*
+*How many circular links the chain is made of*
 
 ![[src_kangourou_2004_cadet__prob10.png]]
 
-> Observe the figure, in particular the data contained in it. How many circular rings (equal to each other) is the chain made of, if it is 1.7
-> meters long? 
-> A) 42          B) 21           
-> C) 30          D) 85         
+> Look at the figure, in particular the data it contains. How many circular links (equal to one another) is the chain made of, if it is 1.7 metres long?
+> A) 42
+> B) 21
+> C) 30
+> D) 85
 > E) 17
 > 1
 > 2
 > 3
 > n
+>
 > 1.7 m
-> 
-> Page 
+>
+> Page
 > Page 18
 > 18
 > Kang 2004
 > Kang 2004
-> Questions No. 11 to No. 20 are worth 4 points each
+> Questions 11 to 20 are worth 4 points each
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_cadet#q10|src_kangourou_2004_cadet__Q10]]
 
 
 
@@ -465,13 +526,21 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded region area (square and semicircular)*
+*The area of the shaded region in square metres*
 
 ![[src_kangourou_2004_cadet__prob11.png]]
 
-> In the figure, a square ABCD and two semicircles with diameters AB and AD are drawn. If the side of the square is 2 meters long, what is the area in square meters of the shaded region? A) 1 B) 2 C) 2 π D) π / 2       E) 3/4
+> In the figure a square ABCD is drawn, and two semicircles with diameters AB and AD respectively. If the side of the square is 2 metres long, what is the area in square metres of the shaded region?
+> A) 1
+> B) 2
+> C) 2 π
+> D) π / 2
+> E) 3/4
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_cadet#q11|src_kangourou_2004_cadet__Q11]]
 
 
 
@@ -500,11 +569,19 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Speed of train in the tunnel*
+*The speed of the train in metres per second*
 
-> A 144 meter long train crosses a 2004 meter long tunnel. It is exactly 20 seconds since the tail of the last wagon enters the tunnel until the engine nose, which is in front of the train, comes out of the tunnel. What is the speed of the train in meters per second? (A) less than 60 B) 60 C) 85.8 D) 93 E) more than 100
+> A train 144 metres long passes through a tunnel 2004 metres long. Exactly 20 seconds pass from the moment the rear of the last carriage enters the tunnel to the moment the front of the locomotive, which is at the head of the train, comes out of the tunnel. What is the speed of the train, in metres per second?
+> A) less than 60
+> B) 60
+> C) 85.8
+> D) 93
+> E) more than 100
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_cadet#q12|src_kangourou_2004_cadet__Q12]]
 
 
 
@@ -531,11 +608,20 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many boys (cones with two distinct flavors)*
+*How many children there are*
 
-> An ice cream shop sells ice cream of nine different flavors. A group of kids walks into the store and each buys a two-flavor ice cream cone: neither of them chooses the same combination of flavors and no combination of flavors is discarded. How many kids are there? A) 9            B) 36          C) 72         D) 81          E) 90
+> An ice-cream shop sells ice creams of nine different flavours. A group of children goes into the shop and each buys a two-flavour ice-cream cone: none of them chooses the same combination of flavours, and no combination of flavours is left out. How many children are there?
+> A) 9
+> B) 36
+> C) 72
+> D) 81
+> E) 90
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_cadet#q13|src_kangourou_2004_cadet__Q13]]
 
 
 
@@ -566,11 +652,20 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many isosceles triangles with integer perimeter*
+*How many triangles of this kind there are*
 
-> ABC is a triangle (not reduced to a segment) whose sides AB and AC measure 5 cm, and whose angle at vertex BÂC measures more than 60°. The length of its perimeter, measured in centimeters, is an integer. How many triangles of this kind are there? A)  1 B)  2 C)  3 D)  4 E)  5
+> ABC is a triangle (not collapsed to a segment) whose sides AB and AC measure 5 cm, and whose angle at the vertex BÂC measures more than 60°. The length of its perimeter, measured in centimetres, is an integer. How many triangles of this kind are there?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_cadet#q14|src_kangourou_2004_cadet__Q14]]
 
 
 
@@ -611,27 +706,30 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of judges for the average to be 5.625*
+*The smallest number of judges the panel must consist of*
 
-> In a figure skating competition all judges are required to
-> assign each competitor a score in whole numbers. The arithmetic mean
-> of the scores totalized by Stefania is 5.625. What is the minimum number of judges
-> the panel must consist of for this result to be possible?
-> A) 4            B) 8            C) 10         D) 16                        
-> E) it is not possible to answer without knowing how many points
-> each individual judge has at their disposal.
+> In a figure-skating contest all the judges are required to award each contestant a mark in whole numbers. The arithmetic mean of the marks scored by Stefania is 5.625. Of how many judges must the panel consist, at least, for this result to be possible?
+> A) 4
+> B) 8
+> C) 10
+> D) 16
+> E) it is not possible to answer without knowing how many points each judge has available.
 > A
 > B
 > C
 > D
-> 
-> Page 
+>
+> Page
 > Page 19
 > 19
 > Kang 2004
 > Kang 2004
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_cadet#q15|src_kangourou_2004_cadet__Q15]]
 
 
 
@@ -658,11 +756,19 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min bricks 1x2x3 for a full cube*
+*The smallest number of little bricks needed to build a solid cube*
 
-> I have a lot of wooden bricks available, all 1 cm long, 2 cm wide and 3 cm high. What is the smallest number of bricks needed to build a full cube? A) 12           B) 18          C) 24         D) 36    E) 60
+> I have a bag of little wooden bricks, all 1 cm long, 2 cm wide and 3 cm high. What is the smallest number of little bricks needed to build a solid cube?
+> A) 12
+> B) 18
+> C) 24
+> D) 36
+> E) 60
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_cadet#q16|src_kangourou_2004_cadet__Q16]]
 
 
 
@@ -697,13 +803,21 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length by path (Pythagorean triples)*
+*How many decimetres long the second path is*
 
 ![[src_kangourou_2004_cadet__prob17.png]]
 
-> The school yard floor is lined with rectangular tiles all equal to each other, the sides of which measure an entire number of decimeter. On it, the boys play kangaroo jumping by following the two paths outlined with the chalk you see in the figure. If the first path from above is 65 decimetres long, how many decimetres is the second path? A) 78 B)  82 C) 83 D) 88          E) 95
+> The floor of the school courtyard is paved with rectangular tiles all equal to one another, whose sides measure an integer number of decimetres. On it the children play kangaroo hop, following the two paths drawn in chalk that you see in the figure. If the first path from the top is 65 decimetres long, how many decimetres long is the second path?
+> A) 78
+> B) 82
+> C) 83
+> D) 88
+> E) 95
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_cadet#q17|src_kangourou_2004_cadet__Q17]]
 
 
 
@@ -729,11 +843,19 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grandfather's age from the averages*
+*The age of the grandfather*
 
-> The average age of grandmother, grandfather, and seven grandchildren is 28 years. The average age of the seven grandchildren is 15 years. How old is Grandpa, if he's three years older than Grandma? A) 71           B)  72        C)  73         D)  74        E)  75
+> The average age of the grandmother, the grandfather and the 7 grandchildren is 28 years. The average age of the 7 grandchildren is 15 years. What is the age of the grandfather, if he is three years older than the grandmother?
+> A) 71
+> B) 72
+> C) 73
+> D) 74
+> E) 75
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_cadet#q18|src_kangourou_2004_cadet__Q18]]
 
 
 
@@ -763,13 +885,21 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Factor by area of large/small circle*
+*By what one must multiply the area of the small circle*
 
 ![[src_kangourou_2004_cadet__prob19.png]]
 
-> The triangle in the drawing next to it is equilateral. To obtain the area of the large circle, the area of the small circle must be multiplied by A) π2 B) 10 C) 12 D) 9 E) 16
+> The triangle in the drawing alongside is equilateral. To obtain the area of the large circle, one must multiply that of the small circle by
+> A) π2
+> B) 10
+> C) 12
+> D) 9
+> E) 16
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_cadet#q19|src_kangourou_2004_cadet__Q19]]
 
 
 
@@ -817,18 +947,16 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of segment AB (three equal areas)*
+*The length of the segment AB*
 
 ![[src_kangourou_2004_cadet__prob20.png]]
 
-> In a square we call median a segment that joins the
-> midpoints of two opposite sides. On the median of a square whose side
-> is 6 cm long, two points A and B are drawn
-> (see figure). By joining A and B to two opposite
-> vertices, the square is divided into three regions
-> of equal area. What is the length of segment AB? 
-> A) 3.6 cm     B) 3.8 cm    C) 4.0 cm    
-> D) 4.2 cm     E) 4.4 cm
+> In a square we call a median a segment that joins the midpoints of two opposite sides. On the median of a square whose side is 6 cm long, two points A and B are drawn (see the figure). Joining A and B to two opposite vertices, the square is divided into three regions of equal area. What is the length of the segment AB?
+> A) 3.6 cm
+> B) 3.8 cm
+> C) 4.0 cm
+> D) 4.2 cm
+> E) 4.4 cm
 > 3
 > 60°
 > 60°
@@ -837,15 +965,19 @@ Result of 2004-4*200*
 > A
 > ?
 > 6 cm
-> 
-> Pag. 
-> Pag. 20
+>
+> Page
+> Page 20
 > 20
 > Kang 2004
 > Kang 2004
-> The questions from No. 21 to No. 30 are worth 5 points each
+> Questions 21 to 30 are worth 5 points each
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_cadet#q20|src_kangourou_2004_cadet__Q20]]
 
 
 
@@ -877,11 +1009,19 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Autumn compared to spring (discounts/increases)*
+*How the autumn prices compare with those of spring*
 
-> A shop in Milan and a shop in Rimini in the spring sell the same items at the same prices. The Milan store reduces prices by 10% during the summer and increases prices by 10% in the autumn compared with those in the summer; the one in Rimini does the exact opposite, which is to say, it increases prices by 10% during the summer and reduces prices by 10% in the autumn compared with those in the summer. In autumn compared to spring A) the Milan store is more expensive and that of Rimini less expensive B) the Milan store is less expensive and that of Rimini more expensive C) both stores are more expensive D) both stores are less expensive E) both stores have kept prices unchanged
+> A shop in Milan and a shop in Rimini sell the same articles at the same prices in spring. During the summer the shop in Milan reduces the prices by 10% and in autumn increases them by 10% with respect to those charged in summer; the one in Rimini does exactly the opposite, that is, it increases the prices by 10% during the summer and reduces them in autumn by 10% with respect to those charged in summer. In autumn, with respect to spring,
+> A) the shop in Milan is dearer and the one in Rimini cheaper
+> B) the shop in Milan is cheaper and the one in Rimini dearer
+> C) both shops are dearer
+> D) both shops are cheaper
+> E) both shops have kept the prices unchanged
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_cadet#q21|src_kangourou_2004_cadet__Q21]]
 
 
 
@@ -909,11 +1049,20 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2004th decimal digit of 1/700*
+*The 2004th decimal digit of 1/700*
 
-> What is the 2004th decimal digit (i.e. after the decimal point) in the decimal representation of the number 1 / 700 ? A) 0 B) 2 C) 5 D) 8           E) 9
+> What is the 2004th decimal digit (that is, after the decimal point) in the decimal representation of the number 1/700?
+> A) 0
+> B) 2
+> C) 5
+> D) 8
+> E) 9
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_cadet#q22|src_kangourou_2004_cadet__Q22]]
 
 
 
@@ -939,11 +1088,20 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which cannot be total pages (48/52)*
+*Which number cannot be the total number of pages*
 
-> I put some magazines on a shelf. Some have 48 pages and some 52 pages. Which of these numbers cannot be the total number of pages of the magazines I put on the shelf? A) 500        B) 524        C) 568        D) 588       E) 620
+> I put some magazines on a shelf: some have 48 pages, others 52. Which of these numbers cannot be the total number of pages of the magazines I put on the shelf?
+> A) 500
+> B) 524
+> C) 568
+> D) 588
+> E) 620
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_cadet#q23|src_kangourou_2004_cadet__Q23]]
 
 
 
@@ -971,11 +1129,19 @@ Result of 2004-4*200*
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many kangaroos have told the truth?
+*How many kangaroos told the truth*
 
-> There was more than one kangaroo in the enclosure. A kangaroo said, "There are six of us" and jumped out of the fence. At the end of every minute, a kangaroo jumped out of the enclosure saying, "Everyone who jumped out before me lied", until there were no more kangaroos in the enclosure. How many kangaroos have told the truth? A)  0           B)  1           C)  2          D)  3           E)  4
+> In the enclosure there was more than one kangaroo. One kangaroo said: "There are 6 of us" and jumped out of the enclosure. At the end of every following minute, a kangaroo jumped out of the enclosure saying: "All those who jumped out before me lied", until there were no more kangaroos in the enclosure. How many kangaroos told the truth?
+> A) 0
+> B) 1
+> C) 2
+> D) 3
+> E) 4
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_cadet#q24|src_kangourou_2004_cadet__Q24]]
 
 
 
@@ -1001,11 +1167,20 @@ How many kangaroos have told the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum a+b with a×b=10000 and not divided by 10*
+*The value of the sum a + b*
 
-> If a and b are strictly positive integers, none of which is divisible by 10 and if a x b = 10000, then the sum of a + b is A) 1024 B) 641 C) 1258 D) 2401 E) 1000
+> If a and b are strictly positive integers, none of which is divisible by 10, and if a x b = 10000, then the sum a + b equals
+> A) 1024
+> B) 641
+> C) 1258
+> D) 2401
+> E) 1000
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_cadet#q25|src_kangourou_2004_cadet__Q25]]
 
 
 
@@ -1040,22 +1215,29 @@ How many kangaroos have told the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference x-y after 999 seconds (vertices)*
+*The value of the difference x − y after 999 seconds*
 
 ![[src_kangourou_2004_cadet__prob26.png]]
 
-> A pop art work consists of a triangle at whose three vertices numbers a, b, c light up every second, which change according to
-> the rule shown in the figure on the left. Initially the numbers associated with the vertices are respectively 1, 3, 5. After 999 seconds, what
-> 
-> Pag. 
-> Pag. 21
+> A pop work of art consists of a triangle at whose three vertices, every second, numbers a, b, c light up, which vary according to the rule shown in the figure on the left. Initially the numbers associated with the vertices are 1, 3, 5 respectively. After 999 seconds, what
+>
+> Page
+> Page 21
 > 21
 > Kang 2004
 > Kang 2004
-> is the difference x - y  (see figure on the right)?
-> A) −2          B) 2           C) 1998       D) 998        E)  (−2)1999
+> is the value of the difference x − y (see the figure on the right)?
+> A) −2
+> B) 2
+> C) 1998
+> D) 998
+> E) (−2)1999
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_cadet#q26|src_kangourou_2004_cadet__Q26]]
 
 
 
@@ -1081,11 +1263,20 @@ How many kangaroos have told the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max remainder division number/sum of digits*
+*The greatest possible remainder on dividing a two-digit integer by the sum of its digits*
 
-> What is the maximum possible value for the remainder of the division between a two-digit integer and the sum of its two digits? A) 9            B) 13          C) 15          D) 16          E)  17
+> What is the greatest possible value of the remainder of the division of a two-digit integer by the sum of its two digits?
+> A) 9
+> B) 13
+> C) 15
+> D) 16
+> E) 17
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_cadet#q27|src_kangourou_2004_cadet__Q27]]
 
 
 
@@ -1114,11 +1305,20 @@ How many kangaroos have told the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers on faces given sum of vertices*
+*The sum of the numbers on the faces*
 
-> On the faces of a cube are written natural numbers and on each vertex is written the product of the numbers on the three faces that have that vertex in common. The sum of the numbers in the vertices is 70. So the sum of the numbers on the faces is: A) 12 B) 35 C) 14 D) 10 E)
+> On the faces of a cube natural numbers are written, and at each vertex the product of the numbers on the three faces that have that vertex in common is written. The sum of the numbers at the vertices is 70. Then the sum of the numbers on the faces is:
+> A) 12
+> B) 35
+> C) 14
+> D) 10
+> E) cannot be determined without further data
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_cadet#q28|src_kangourou_2004_cadet__Q28]]
 
 
 
@@ -1145,11 +1345,20 @@ How many kangaroos have told the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 4 digits divisible by 12 with sum of 6*
+*How many four-digit numbers have these two properties*
 
-> The number 2004 is divisible by 12 and the sum of its digits is equal to 6. How many exactly four-digit numbers have these two properties? A) 10           B) 12          C) 13          D) 15          E) 18
+> The number 2004 is divisible by 12 and the sum of its digits is equal to 6. How many numbers of exactly 4 digits have these two properties?
+> A) 10
+> B) 12
+> C) 13
+> D) 15
+> E) 18
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_cadet#q29|src_kangourou_2004_cadet__Q29]]
 
 
 
@@ -1210,25 +1419,16 @@ How many kangaroos have told the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Water height in the immersed can II*
+*What height the water reaches in tank II*
 
 ![[src_kangourou_2004_cadet__prob30.png]]
 
-> Observe
-> the
-> figure. In can
-> I, whose base has an
-> area
-> of
-> 2
-> square decimeters,
-> the water
-> reaches
-> a height of 5 centimeters. Can II, 7 centimeters tall and whose base has an area of
-> 1 square decimeter, is immersed, empty, in can I until it is anchored to the bottom of the latter. At this point some of the water
-> pours into can II. What height does the water reach in can II?
-> (Consider the thickness of the walls of the cans negligible.)
-> A) 1 cm        B) 2 cm      C) 3 cm       D) 4 cm      E) 5 cm  
+> Look at the figure. In tank I, whose base has an area of 2 square decimetres, the water reaches a height of 5 centimetres. Tank II, 7 centimetres high and whose base has an area of 1 square decimetre, is immersed, empty, in tank I until it is anchored on the bottom of the latter. At this point some of the water pours into tank II. What height does the water reach in tank II? (Regard the thickness of the walls of the tanks as negligible.)
+> A) 1 cm
+> B) 2 cm
+> C) 3 cm
+> D) 4 cm
+> E) 5 cm
 > a
 > b
 > c
@@ -1243,13 +1443,16 @@ How many kangaroos have told the truth?
 > y
 > z
 > 1 sec.
-> can II
+> tank II
 > 7
 > 5
-> can I
-> 
-> Solutions Cadets 2004 -  Pag.  no.
+> tank I
+>
+> Solutions, Cadets 2004 - Page no.
 > 1
 > SOLUTIONS CADET 2004
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_cadet#q30|src_kangourou_2004_cadet__Q30]]

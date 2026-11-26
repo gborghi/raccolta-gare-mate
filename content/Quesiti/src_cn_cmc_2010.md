@@ -31,11 +31,17 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rango di una funzione che coinvolge due radici quadrate*
+*Insieme di valori di una funzione che coinvolge due radici quadrate*
 
 > L'intervallo di $f(x) = \sqrt{x-5} - \sqrt{24-3x}$ è ________.
 
-**Risposta:** $[-3,\sqrt{3}]$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2010#q01|src_cn_cmc_2010__Q01]]
 
 
 
@@ -61,11 +67,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rango di parametro a in modo che un'espressione trigonometrica abbia un minimo -3*
+*Intervallo di variazione del parametro a tale che un'espressione trigonometrica abbia minimo -3*
 
-> Il minimo di $y = (a\cos^2 x - 3)\sin x$ è $-3$. Quindi l'intervallo del numero reale $a$ è ________.
+> Il minimo di $y = (a\cos^2 x - 3)\sin x$ è $-3$. Allora l'intervallo del numero reale $a$ è ________.
 
-**Risposta:** $-\frac{3}{2} \le a \le 12$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2010#q02|src_cn_cmc_2010__Q02]]
 
 
 
@@ -91,11 +104,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i punti della griglia nella regione delimitata da un ramo iperbolare e da una linea verticale*
+*Conta i punti a coordinate intere nella regione delimitata da un ramo di iperbole e da una retta verticale*
 
-> Il numero di punti integrali (cioè i punti le cui coordinate $x$- e $y$ sono entrambe interi) all'interno dell'area (escluso il confine) chiusa dal ramo destro dell'iperbola $x^2 - y^2 = 1$ e della linea $x = 100$ è ________.
+> Il numero di punti interi (ossia di punti le cui coordinate $x$ e $y$ sono entrambe intere) nell'area (escluso il bordo) delimitata dal ramo destro dell'iperbole $x^2 - y^2 = 1$ e dalla retta $x = 100$ è ________.
 
-**Risposta:** $9801$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]], [[method_casi_conteggio|Casi e conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2010#q03|src_cn_cmc_2010__Q03]]
 
 
 
@@ -120,11 +140,17 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze aritmetiche e geometriche legate da un'identità logaritmica*
+*Successioni aritmetiche e geometriche collegate da un'identità logaritmica*
 
-> È noto che $\{a_n\}$ è una sequenza aritmetica con differenza comune non zero e $\{b_n\}$ una sequenza geometrica, soddisfacente $a_1 = 3$, $b_1 = 1$, $a_2 = b_2$, $3a_5 = b_3$; inoltre, ci sono costanti $\alpha$ e $\beta$ tali che per ogni intero positivo $n$, abbiamo $a_n = \log_{\alpha} b_n + \beta$. Poi $\alpha + \beta = $ ________.
+> È noto che $\{a_n\}$ è una successione aritmetica con ragione diversa da zero e che $\{b_n\}$ è una successione geometrica, soddisfacendo $a_1 = 3$, $b_1 = 1$, $a_2 = b_2$, $3a_5 = b_3$; inoltre, esistono le costanti $\alpha$ e $\beta$ tali che, per ogni intero positivo $n$, si ha $a_n = \log_{\alpha} b_n + \beta$. Allora $\alpha + \beta = $ ________.
 
-**Risposta:** $3+\sqrt[3]{3}$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc_2010#q04|src_cn_cmc_2010__Q04]]
 
 
 
@@ -150,11 +176,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di una funzione esponenziale data la sua massima su un intervallo*
+*Valore minimo di una funzione esponenziale dato il suo valore massimo su un intervallo*
 
-> La funzione $f(x) = a^{2x} + 3a^x - 2$ ($a > 0$, $a \ne 1$) raggiunge il valore massimo $8$ con intervallo $[-1, 1]$. Quindi il suo valore minimo su questo intervallo è ________.
+> La funzione $f(x) = a^{2x} + 3a^x - 2$ ($a > 0$, $a \ne 1$) raggiunge il valore massimo $8$ sull'intervallo $[-1, 1]$. Allora il suo valore minimo su questo intervallo è ________.
 
-**Risposta:** $-\frac{1}{4}$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2010#q05|src_cn_cmc_2010__Q05]]
 
 
 
@@ -180,11 +213,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-La probabilità che il primo giocatore vinca un gioco di lancio dei dadi
+*Probabilità che il primo giocatore vinca un gioco di lancio dei dadi*
 
-> Due persone fanno due dadi a turno. Chiunque ottenga il numero di somma superiore a $6$ prima vincerà la partita. La probabilità che la persona che ruota per primo vinca è di ________.
+> Due persone lanciano due dadi a turno. Chi per primo ottiene una somma maggiore di $6$ vince la partita. La probabilità che il giocatore che lancia per primo vinca è ________.
 
-**Risposta:** $\frac{12}{17}$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2010#q06|src_cn_cmc_2010__Q06]]
 
 
 
@@ -212,13 +252,20 @@ La probabilità che il primo giocatore vinca un gioco di lancio dei dadi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Signo di un angolo diedrico in un prisma triangolare regolare con tutti i bordi uguali*
+*Seno di un angolo diedro in un prisma triangolare regolare con tutti i spigoli uguali*
 
-> Le lunghezze dei nove bordi del prisma triangolare regolare $ABC$-$A_1B_1C_1$ sono uguali, $P$ è il punto medio di $CC_1$ e l'angolo diedro $B$-$A_1P$-$B_1 = \alpha$. Poi $\sin\alpha = $ ________.
+> Le lunghezze dei nove spigoli del prisma triangolare regolare $ABC$-$A_1B_1C_1$ sono uguali, $P$ è il punto medio di $CC_1$, e l'angolo diedro $B$-$A_1P$-$B_1 = \alpha$. Allora $\sin\alpha = $ ________.
 
 ![[src_cn_cmc_b11_w26__q07.png]]
 
-**Risposta:** $\frac{\sqrt{10}}{4}$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2010#q07|src_cn_cmc_2010__Q07]]
 
 
 
@@ -244,11 +291,18 @@ La probabilità che il primo giocatore vinca un gioco di lancio dei dadi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le soluzioni a numeri interi positivi di x+y+z=2010 con x<=y<=z*
+*Conta le soluzioni in numeri interi positivi dell'equazione x+y+z=2010 con x<=y<=z*
 
-> Il numero di soluzioni integrali positive dell'equazione $x + y + z = 2010$ con $x \le y \le z$ è ________.
+> Il numero di soluzioni in numeri interi positivi dell'equazione $x + y + z = 2010$ con $x \le y \le z$ è ________.
 
-**Risposta:** $336675$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2010#q08|src_cn_cmc_2010__Q08]]
 
 
 
@@ -274,11 +328,18 @@ La probabilità che il primo giocatore vinca un gioco di lancio dei dadi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coefficiente di conduzione massimo di un cubo la cui derivata è delimitata da 1 su [0,1]*
+*Coefficiente principale massimo di un polinomio cubico la cui derivata è limitata da 1 sull'intervallo [0,1]*
 
-> È noto che $f(x) = ax^3 + bx^2 + cx + d$ ($a \ne 0$) e $|f'(x)| \le 1$ per $0 \le x \le 1$. Si prega di trovare il valore massimo di $a$.
+> È noto che $f(x) = ax^3 + bx^2 + cx + d$ ($a \ne 0$), e $|f'(x)| \le 1$ per $0 \le x \le 1$. Si determini il valore massimo di $a$.
 
-**Risposta:** $\frac{8}{3}$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2010#q09|src_cn_cmc_2010__Q09]]
 
 
 
@@ -303,6 +364,15 @@ La probabilità che il primo giocatore vinca un gioco di lancio dei dadi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area massima di un triangolo formato da una corda di parabola e da un punto fisso*
+*Area massima di un triangolo formato da una corda di una parabola e da un punto fisso*
 
-> Date due punti in movimento $A(x_1, y_1)$ e $B(x_2, y_2)$ sulla curva di parabola $y^2 = 6x$ con $x_1 + x_2 = 4$ e $x_1 \ne x_2$, e il bisettore perpendicolare del segmento $AB$ interseca l'asse $x$ al punto $C$. Trova la superficie massima di $\triangle ABC$.
+> Dati due punti in movimento $A(x_1, y_1)$ e $B(x_2, y_2)$ sulla curva parabolica $y^2 = 6x$ con $x_1 + x_2 = 4$ e $x_1 \ne x_2$, e l'asse di simmetria perpendicolare del segmento $AB$ interseca l'asse $x$ nel punto $C$. Trovare l'area massima di $\triangle ABC$.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2010#q10|src_cn_cmc_2010__Q10]]

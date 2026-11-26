@@ -81,9 +81,15 @@ level: squadre
 \end{document}
 ```
 
-> The palace of Herrovaccio, king of Franquvia, has a square plan covering an area of 1600 square miles. Four sentinels each guard one side of the palace, arranged as in the figure (the sentinels form four equilateral triangles with the sides of the palace). What is the area (in square miles) of the quadrilateral topped by the four sentinels?
+> The Sentinels
+> The palace of Herrovaccio, king of Franquvia, has a square floor plan covering an area of 1600 square Franquvian miles. Four sentinels each guard one side of the palace, arranged as in the figure (the sentinels and the sides of the palace form four equilateral triangles). What is the area (in square miles) of the quadrilateral whose vertices are the four sentinels?
 
-**Answer:** 5971
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q01|src_cesenatico_2004_squadre__Q01]]
 
 
 
@@ -111,11 +117,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum side of an equilateral triangle to contain three circular coins*
+*Minimum side length of an equilateral triangle to contain three circular coins*
 
-> On the occasion of the 1000th anniversary of the founding of the kingdom of Franquie, the royal mint decided to coin three coins, of 20, 30 and 40 mm radius respectively. The coins are sold in an elegant triangle-shaped trick. What is the minimum length, in millimetres, of the side of this triangle, so that it is possible to place the three coins in the stucco without overlapping them?
+> An important occasion
+> On the occasion of the 1000th anniversary of the founding of the Kingdom of Franquvia, the Royal Mint has decided to mint three coins with diameters of 20, 30, and 40 mm, respectively. The coins are sold in an elegant case shaped like an equilateral triangle. What is the minimum length, in millimetres, of a side of this triangle such that the three coins can be placed in the case without overlapping?
 
-**Answer:** 0190
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q02|src_cesenatico_2004_squadre__Q02]]
 
 
 
@@ -143,11 +155,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum biscuits with divisible by 3,5,7 with data residues*
+*Minimum biscuits with divisibility by 3, 5, 7 and given remainders*
 
-> Ladies Elissa, Fiammetta and Neifile have bought a box of typical Franquvian cookies. Madame Elissa equally distributes the cookies of her packaging to her 3 children, Madame Fiammetta eats two and then divides in equal parts the remaining cookies of her packaging to her 5 children, finally Madame Neifile eats two and equally distributes her remaining cookies to her 7 children. How many cookies does a package contain, at least?
+> Typical products
+> Ladies Elissa, Fiammetta, and Neifile each bought one pack of the typical Franquvian biscuits. Lady Elissa distributes the biscuits in her pack equally among her 3 children; Lady Fiammetta eats two and then divides the remaining biscuits in her pack equally among her 5 children; finally, Lady Neifile eats two and distributes her remaining biscuits equally among her 7 children. What is the minimum number of biscuits a pack must contain?
 
-**Answer:** 0072
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q03|src_cesenatico_2004_squadre__Q03]]
 
 
 
@@ -177,11 +195,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability that the MCD of two dice is 1*
+*Probability that the GCD of two dice is 1*
 
-> The vice of gambling in the most sordid neighborhoods of the capital of the kingdom of Franquie, is used to bet on dice. What's the probability that by throwing two dice you get two numbers whose maximum common divisor is 1? Express the probability as an irreducible fraction m n, write the sum m + n in the answer. Team competition 2004  National stage  Problem texts  Pag. 1 di 4
+> The Gambling Addiction
+> In the gambling dens of the seediest neighborhoods of the capital of the Kingdom of Franquvia, people usually bet on dice. What is the probability that, when two dice are rolled, the two numbers obtained have a greatest common divisor of 1? Express the probability as an irreducible fraction m/n, and in your answer write the sum m + n.
+> 2004 Team Competition – National Stage – Problem Statements – Page 1 of 4
 
-**Answer:** 0059
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q04|src_cesenatico_2004_squadre__Q04]]
 
 
 
@@ -209,11 +234,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers with a digit sum divisible by 11*
+*How many three-digit numbers have a digit sum divisible by 11?*
 
-> On the occasion of the Queen's funeral, King Herovaccio wishes to perform an act of magnanimity. Since in the secrets of the palace of Franquie each cell is numbered with a number of exactly three digits, he decrees that every prisoner locked in a cell whose number has the sum of the digits divisible by 11 be pardoned. How many prisoners will be pardoned at most?
+> The Queen's Birthday
+> On the occasion of the Queen's birthday, King Herrovaccio wishes to perform an act of magnanimity. Since in the dungeons of the Palace of Franquvia every cell is numbered with an exactly three-digit number, he decrees that every prisoner confined in a cell whose number has a digit sum divisible by 11 shall be pardoned. At most, how many prisoners will be pardoned?
 
-**Answer:** 0082
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q05|src_cesenatico_2004_squadre__Q05]]
 
 
 
@@ -242,11 +273,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Iterate elimination of peers by 9999 soldiers, middle soldier
+*Repeated elimination of the even-numbered ones from 9999 soldiers: the middle soldier*
 
-> The 9999 soldiers of the Royal Guards of Franquie are assigned an identification number, from 1 to 9999. The commander wants to select a volunteer and proceeds as follows: he places the soldiers, in order of number, on a single line, and brings out of the ranks all the soldiers who occupy an equal place. Once the ranks are closed, repeat the same procedure until there are only three soldiers left. Of these, the middle soldier is the volunteer. Which number does the volunteer match?
+> A forced volunteer
+> Each of the 9999 soldiers of the Royal Guard of Franquvia is assigned an identification number from 1 to 9999. The commander wants to choose a volunteer and proceeds as follows: the commander arranges the soldiers in order of their numbers in a single line, then has all the soldiers in even positions step out of the ranks. Once the ranks have been closed up, the commander repeats the same procedure until only three soldiers remain. Of these, the middle soldier is the volunteer. What number does the volunteer correspond to?
 
-**Answer:** 4097
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q06|src_cesenatico_2004_squadre__Q06]]
 
 
 
@@ -275,11 +312,17 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First term of recurrence a=7a+1 divisible by 30*
+*First term of the sequence: a = 7a + 1, divisible by 30*
 
-> Dynasties According to ancient tradition, all kings of Franquie bear the name of Herrovaccio and are distinguished by a number. The first king carried the number a1 = 1, and then, by way, to each subsequent king was assigned a number, obtained from the previous one, according to the rule an+1 = 7an + 1. Who was the first king of the dynasty to bring a number divisible by 30?
+> Dynasty
+> According to ancient tradition, all kings of Franquvia bear the name Herrovaccio and are distinguished from one another by a number. The first king had the number a1 = 1, and thereafter, in succession, each subsequent king was assigned a number derived from the previous one according to the rule an+1 = 7an + 1. Which was the first king of the dynasty to have a number divisible by 30?
 
-**Answer:** 0012
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q07|src_cesenatico_2004_squadre__Q07]]
 
 
 
@@ -305,11 +348,17 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of union of 6 circles on the sides of the regular hexagon*
+*Area of the union of 6 circles on the sides of a regular hexagon*
 
-> The garden of the castle of the cadet prince of Franquie is obtained from the union of 6 circles of a radius of 10 m, the diameters of which are sides of a regular hexagon. What's the area of the garden?
+> The Cadet Garden
+> The garden of the castle of the cadet prince of Franquvia is formed by combining 6 circles with a radius of 10 m, whose diameters are the sides of a regular hexagon. What is the area of the garden?
 
-**Answer:** 1776
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q08|src_cesenatico_2004_squadre__Q08]]
 
 
 
@@ -336,11 +385,17 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little number of 3 distinct digits equal to the mean of permutations*
+*The smallest three-digit number with distinct digits equal to the average of the permutations*
 
-> The torture chamber Each secret cell of the palace is numbered with a number of exactly three digits. The royal carpenter notices that the torture cell has the smallest of the three-digit numbers all distinct, which is equal to the arithmetic mean of the six numbers obtained by exchanging their numbers. What's this number?
+> The Chamber of Torture
+> Each cell in the palace dungeons is numbered with a three-digit number exactly. The royal executioner realizes that the torture cell has the smallest, among all three-digit numbers with distinct digits, number that is equal to the arithmetic mean of the six numbers obtainable by permuting its digits. What is this number?
 
-**Answer:** 0370
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q09|src_cesenatico_2004_squadre__Q09]]
 
 
 
@@ -374,9 +429,15 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 
 *Value of x2-y2+z2 given two linear constraints*
 
-> Judgment Solomon The king of Franconia adopts unique methods of administering justice. In a bankruptcy proceedings he revealed to the parties that he had in mind three real numbers x, y, z for which x −7y + 8z = 4 and 8x + 4y −z = 7. The first person to reveal the value of x2 −y2 + z2 is awarded the cause. While the debtor's lawyer protested that there were not enough conditions to answer, the creditors shouted a number, winning the case. What number did they yell at?
+> Solomonic judgment
+> The King of Franquvia employs peculiar methods to administer justice. In a bankruptcy proceeding, he revealed to the parties that he had in mind three real numbers, x, y, and z, such that x − 7y + 8z = 4 and 8x + 4y − z = 7. The first person to manage to reveal the value of x² − y² + z² wins the case. While the debtor's lawyer protests, arguing that there are not enough conditions to answer, the creditors shout out a number and win the case. What number did they shout?
 
-**Answer:** 0001
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q10|src_cesenatico_2004_squadre__Q10]]
 
 
 
@@ -410,11 +471,18 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Common area of two tangent-circumference mixed trapezoids*
+*Common area of two mystical trapezoids formed by tangent circles*
 
-> A court is open war between the clergyman Didymus and the enchantress Dianora. The reason for the dispute is the realization of a mystical quadrilateral. Didimo proposes to construct it according to alchemical rules: consider two radii 4 and 16 tangent circumferences externally, and a straight tangent to both circles at two distinct points. The mystic quadrilateral shall be the trapezoid of vertices the two centers of the circumferences and the two points of tangency with the straight. Dianora, on the other hand, prefers magic: she considers the same circumferences and the same straight, but the mystical quadrilateral must be the trapezoid of vertices the two centers of the circumferences and the two points of intersection of the straight with the perpendiculars, led by the two centers, to the connecting centers. Hoping to appease the altercation, the king proposes that the mystical quadrilateral be the common part of the two quadrilaterals proposed by Didymus and Dianora. What is the area of this common part? Team competition 2004  National stage  Problem texts  Pag. 2 di 4
+> Mystical dispute
+> At court, there is open war between the cleric Didimo and the enchantress Dianora. The subject of dispute is the construction of a mystical quadrilateral. Didimo proposes constructing it according to alchemical rules: two circles with radii 4 and 16 are considered, externally tangent to each other, along with a straight line tangent to both circles at two distinct points. The mystical quadrilateral is to be the trapezoid whose vertices are the two centers of the circles and the two points of tangency with the line. Dianora, on the other hand, prefers magic: she considers the same circles and the same line, but the mystical quadrilateral is to be the trapezoid whose vertices are the two centers of the circles and the two points of intersection of the line with the perpendiculars drawn from the two centers to the line joining the centers. Hoping to quell the dispute, the king proposes that the mystical quadrilateral be the common part of the two quadrilaterals proposed by Didimo and Dianora. What is the area of this common part?
+> 2004 Team Competition – National Round – Problem Statements – Page 2 of 4
 
-**Answer:** 0154
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q11|src_cesenatico_2004_squadre__Q11]]
 
 
 
@@ -440,11 +508,17 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interest sum n with (n-1)/(401-n) perfect square*
+*Sum of integers n such that (n-1)/(401-n) is a perfect square*
 
-> The 9999 soldiers of the Royal Guard must agree on who will play the next watch at the palace. Didimo, the clergyman of the court, passing by, hears their conversation and proposes
+> A boring guard shift
+> The 9,999 soldiers of the Royal Guard must agree on who will get the next palace guard shift. Didymus, the court chaplain, passing by by chance, overhears their conversation and proposes a
 
-**Answer:** 1277
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q12|src_cesenatico_2004_squadre__Q12]]
 
 
 
@@ -472,11 +546,17 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of unit segments dividing a triangle by area 1/4*
+*Number of unit segments that divide the triangle into area 1/4*
 
-> Market Square The market square of Franquie is in the shape of a triangle with sides measuring 2, 5 and 6 Franquie miles. The merchant guild wants to divide the square by a segment whose ends are on two sides of the triangle, so that the segment is 1 mile long and the smallest portion has an area equal to a quarter of the total area. How many of these segments can be traced?
+> The market square
+> The market square of Franquvia is triangular, with side lengths of 2, 5, and 6 Franquvian miles. The merchants' guild wants to divide the square with a line segment whose endpoints lie on two sides of the triangle, such that the segment is 1 mile long and the smaller portion has an area equal to one quarter of the total area. How many such segments can be drawn?
 
-**Answer:** 0002
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q13|src_cesenatico_2004_squadre__Q13]]
 
 
 
@@ -503,11 +583,17 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last 4 digits whole sum divisible by 30 by 30 divisors*
+*Last 4 digits of the sum of integers divisible by 30 with 30 divisors*
 
-> Carovita Messer Guiglielmo Guardastagno, a Frankish merchant, set the prices of his goods so that they are all positive integers that are divisible by 30 and have exactly 30 divisors. If S is the sum of all positive integers of this kind, what are the last four digits of S?
+> Carovita
+> Messire Guiglielmo Guardastagno, a Frankvian merchant, has set the prices of his goods so that each price is a positive integer divisible by 30 and has exactly 30 divisors. If S is the sum of all such positive integers, what are the last four digits of S?
 
-**Answer:** 6340
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q14|src_cesenatico_2004_squadre__Q14]]
 
 
 
@@ -539,11 +625,17 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most large number not expressed in palindrome coins (Frobenius)*
+*Largest number not expressible with palindrome coins (Frobenius)*
 
-> French numismatic The national currency of France is the franc. However, there are no coins worth one franc: the smallest coin is 11 francs, and all coins have a palindrome number of francs as their value. Messer Guiglielmo Guardastagno and the merchant guild complained that with these coin cuts it is not possible to compose exactly any whole quantity of Franqi (for example, 37 Franqi cannot be composed with the available coins). What is the largest number that can certainly not be expressed in Franquvian coins? A palindrome number is a number that remains unchanged if its digits (based 10) are read from right or left: for example, palindromes 11, 10001, 949.
+> Francquian Numismatics
+> The national currency of Franquvia is the Franqo. However, there are no coins worth one Franqo: the smallest coin is worth 11 Franqi, and all coins have a value that is a palindromic number of Franqi. Messer Guiglielmo Guardastagno and the merchants' guild have complained because, with these coin denominations, it is impossible to make up exactly any whole number of Franqi (for example, 37 Franqi cannot be made up with the available coins). What is the largest number that certainly cannot be expressed using Franquvian coins? A palindromic number is a number that remains unchanged when its digits (in base 10) are read from right to left or from left to right: for example, 11, 10001, and 949 are palindromes.
 
-**Answer:** 0201
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q15|src_cesenatico_2004_squadre__Q15]]
 
 
 
@@ -571,11 +663,17 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of positive whole solutions of 4x+12y+3z^2=2004*
+*Number of positive integer solutions to 4x+12y+3z^2=2004*
 
-> A singular trial The King of Franquie is distinguished by his extravagance. In another case, it asked the parties concerned to determine the number of positive integer solutions of the equation 4x + 12y + 3z2 = 2004. How many are there?
+> A peculiar trial
+> The King of Franquvia is distinguished by his eccentricity. In another trial, he asked the parties involved to determine the number of positive integer solutions to the equation 4x + 12y + 3z² = 2004. How many are there?
 
-**Answer:** 1342
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q16|src_cesenatico_2004_squadre__Q16]]
 
 
 
@@ -603,11 +701,17 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to write 2004 as the sum of 1 (partitions)*
+*Ways of writing 2004 as a sum of 1s (partitions)*
 
-> The clergyman Didymus, an expert in numerology and magical manipulation of symbols, discovered a spell. To activate it, you must write the magic number 2004 in all possible ways using only the symbol 1 and the sum operation. How many of these ways are possible? Watch your step! For the purpose of counting, two sums which differ only in order of additions shall be counted only once.
+> Spells
+> The cleric Didimo, an expert in numerology and in the magical manipulation of symbols, has discovered a spell. To activate it, he must write the magic number 2004 in all possible ways that use only the symbol 1 and the addition operation. How many such possible ways are there? Attention! For the purpose of counting, two sums that differ only in the order of the addends should be counted only once.
 
-**Answer:** 2118
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q17|src_cesenatico_2004_squadre__Q17]]
 
 
 
@@ -660,13 +764,20 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many binomial coefficients C(37,k) divided by 5*
+*How many binomial coefficients C(37,k) are divisible by 5?*
 
-> The lot of Franquvia To fill the coffers of the kingdom, the Grand Chamberlain decided to launch a new type of lot. Each week two separate issues are drawn. If N is the largest and n the smallest, you have to guess how many of the numbers N 0 N 1 are. . . N k  . . . N N Team competition 2004  National stage  Problem texts  Pag. 3 di 4
-> 
-> are divisible by n. If the numbers 5 and 37 were extracted this week, what number did you have to bet on to win the Franquvia lottery? Remember that the binomial coefficient is the positive integer given by n k = n! k!(n−k)!.
+> The Franquvia Lot
+> To replenish the kingdom's coffers, the Lord Chamberlain has decided to launch a new type of lottery. Each week, two distinct numbers are drawn. If N is the largest and n is the smallest, one must guess how many of the numbers $\binom{N}{0}$ $\binom{N}{1}$ ... $\binom{N}{k}$ ... $\binom{N}{N}$
+> 2004 Team Competition – National Stage – Problem Statements – Page 3 of 4
+>
+> They are divisible by n. If the numbers 5 and 37 were drawn this week, which number should have been bet on to win the Franquvia lottery? Recall that the binomial coefficient is the positive integer given by $\binom{n}{k}$ = n! k!(n−k)!.
 
-**Answer:** 0020
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q18|src_cesenatico_2004_squadre__Q18]]
 
 
 
@@ -695,11 +806,17 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between equal and odd ways of illuminating 6 windows*
+*Difference between even and odd ways of illuminating 6 windows*
 
-> The throne room The throne room of Franquie is illuminated by 6 large windows. The windows can be completely darkened from the inside with a tent, or from the outside with a wooden panel. The Queen's maid of honor counted all the different ways of opening or closing, regardless, curtains and panels, so that light would enter through an equal number of windows. The king's shield, on the other hand, counted all the different ways of opening or closing the curtains and panels, for which the windows illuminating the hall are in odd number. What's the difference between these two numbers?
+> The Throne Room
+> The throne room of Franquvia is illuminated by 6 large windows. The windows can be completely darkened from the inside with a curtain, or from the outside with a wooden panel. The queen's lady-in-waiting has counted all the different ways of opening or closing the curtains and panels independently, so that light comes in through an even number of windows. The king's squire, on the other hand, has counted all the different ways of opening or closing the curtains and panels in which the number of windows illuminating the room is odd. What is the difference between these two numbers?
 
-**Answer:** 0064
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q19|src_cesenatico_2004_squadre__Q19]]
 
 
 
@@ -726,11 +843,17 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of links between cities on different islands*
+*Minimum number of connections between cities on different islands*
 
-> Imperialism The prince of Franquie decides to enlarge his dominions by founding 25 cities on an uninhabited archipelago of 13 islands so that on each island there is at least one city. However, he wants every pair of cities on different islands to be connected by vessels. Determine the minimum number of such connections.
+> Imperialism
+> The Prince of Franquvia decides to expand his domains by founding 25 cities on an uninhabited archipelago consisting of 13 islands, so that each island has at least one city. However, he wants there to be a connection by ship between every pair of cities on different islands. Determine the minimum possible number of such connections.
 
-**Answer:** 0222
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q20|src_cesenatico_2004_squadre__Q20]]
 
 
 
@@ -760,11 +883,16 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Clara wine after cyclical bridges between five friends*
+*Chiara's wine, after cyclical transfers among five friends*
 
-> At the inn Agilulfo, Barnabas, Clara, Dioneo and Elisa used to meet at the Inn Alla Brocca. One night they share a vineyard. After filling their glasses, they decide to redistribute the wine. Agylulph divides the entire contents of his glass into equal parts among the other four friends, so does Barnabas and so on. After Elissa finally divided the entire contents of her glass into equal parts in the glasses of the other four young men, the five find that they have exactly the same amount of wine in the glasses as they had at the beginning. Knowing the barley contained 750ml of wine, how much wine did Chiara have in the glass?
+> In an inn
+> Agilulfo, Bernabò, Chiara, Dioneo, and Elissa usually meet at the Alla Brocca inn. One evening, they share a jug of wine. After filling their glasses, they decide to divide the wine again. Agilulfo divides the entire contents of his glass equally among the other four friends; Bernabò then does the same, and so on. After Elissa, too, has finally divided the entire contents of her glass equally among the glasses of the other four young people, the five of them realize that their glasses contain exactly the same amounts of wine as they did at the beginning. Knowing that the jug held 750 ml of wine, how much wine did Chiara have in her glass?
 
-**Answer:** 0150
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q21|src_cesenatico_2004_squadre__Q21]]
 
 
 
@@ -794,11 +922,17 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colorations of 8 gems in a circle with 4 types, adjacent to each other*
+*Colorings of 8 gems in a circle with 4 types, adjacent ones different*
 
-> The crown The crown for the prince of Franquie is of circular leaf, with a frontal diadem. There are also eight precious stones arranged at regular intervals around the crown. To decorate the crown, the goldsmith has stones of four different types: diamonds, rubies, amethyst and emeralds. How many different ways can he decorate the crown, so that two any stones framed consecutively are of different types? It also means the stones separated by the diadem.
+> The crown
+> The crown for the Prince of Franquvia is circular in shape, with a frontal diadem. There are then 8 precious stones set at regular intervals around the crown. To decorate the crown, the master goldsmith has at his disposal stones of four different types: diamonds, rubies, amethysts, and emeralds. In how many different ways can he decorate the crown so that any two consecutively set stones are of different types? Stones separated by the diadem are also considered consecutive.
 
-**Answer:** 6564
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q22|src_cesenatico_2004_squadre__Q22]]
 
 
 
@@ -827,11 +961,16 @@ Iterate elimination of peers by 9999 soldiers, middle soldier
 <div class="qlang-split" data-lang="en"></div>
 
 
-After which move Chiara will have more Franqi (iterized process)
+*After which move will Chiara have more Franqi (iterated process)?*
 
-> Again at the inn, Agylus, Barnabas, Clare, Dionysius and Elisabeth have their own hobby. Each one brings to the inn a bag of Frankies: they count them and, if they all have them in different quantities, then the one who has the most of them all, from one of his Frankies to each of the others. As soon as more than one person has the same number of Franqi, the game is over. At the beginning, Agilulfo has 101 Franqi, Bernabéu 70, Clara 17, Dioneo has 104 and Elissa 113. After what move will Chiara have more Frankies than anyone?
+> Back at the inn
+> Agilulfo, Bernabò, Chiara, Dioneo, and Elissa have their own pastime. Each of them brings a bag containing some Franqi to the inn; they count them, and if everyone has a different number, then the one who has the most gives one of his Franqi to each of the others. As soon as more than one person has the same number of Franqi, the game ends. At the start, Agilulfo has 101 Franqi, Bernabò has 70, Chiara has 17, Dioneo has 104, and Elissa has 113. After which move will Chiara have more Franqi than anyone else?
 
-**Answer:** 0066
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q23|src_cesenatico_2004_squadre__Q23]]
 
 
 
@@ -861,8 +1000,15 @@ After which move Chiara will have more Franqi (iterized process)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum product of factors to be removed to make K square*
+*Minimum product of factorials to be eliminated to make K square*
 
-> The colonisation of the archipelago has cost an unprecedented amount. The real cash deficit K is the product of the following 20 factors: K = 1! · 2! · 3! · · · 19! · 20!. What is the minimum value of the product of the numbers, chosen from 1, 2, . . . , 20, such that, by eliminating the factorial correspondence from K, the number K becomes a perfect square? Team competition 2004  National stage  Problem texts  Pag. 4 di 4
+> Financial abyss
+> The colonization of the archipelago cost an outrageous amount. The deficit K of the royal coffers equals the product of the following 20 factors: K = 1! · 2! · 3! · · · 19! · 20!. What is the minimum value of the product of numbers chosen from 1, 2, . . ., 20 such that, by removing the corresponding factorial from K, K becomes a perfect square?
+> 2004 Team Competition – National Stage – Problem Statements – Page 4 of 4
 
-**Answer:** 0010
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2004_squadre#q24|src_cesenatico_2004_squadre__Q24]]

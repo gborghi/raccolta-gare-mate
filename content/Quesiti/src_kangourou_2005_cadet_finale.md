@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining cards to be examined at one*
+*Forms left to be reviewed at one o'clock*
 
-> Before the optical reader was used, Kangourou's response cards were examined by hand. A human proofreader examined an average of two cards per minute. At eleven o'clock in the morning of a certain day he had examined half the cards assigned to him for that day. At noon he had examined two thirds of them. If he had never stopped and continued at the same pace, how many cards would he have left to examine at one o'clock that afternoon?
+> Before the optical reader was used, Kangourou answer sheets were checked by hand. A human grader checked an average of 2 sheets per minute. At eleven a.m. on a given day, the grader had checked half of the sheets assigned to them for that day. By noon, they had checked two-thirds of them. If they had never stopped and had continued at the same pace, how many sheets would still have remained for them to check at one p.m. on that day?
 
-**Answer:** 120
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_cadet_finale#qc1|src_kangourou_2005_cadet_finale__QC1]]
 
 
 
@@ -57,11 +61,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Greek cross on chessboard 7x7 negative total sum*
+*Greek cross on a 7x7 checkerboard, total sum negative*
 
-> Consider a chessboard $7 \times 7$ and call a Greek cross each configuration of 5 of its cross-arranged squares so that each box has at least one side in common with another square of the cross (so each cross has 4 equal arms each consisting of a square). You can have 49 integers, not necessarily all of them equal to each other, on the 49 squares, one per square, so that the total sum of these integers is negative, but the sum of the numbers corresponding to the squares covered by any Greek cross is positive?
+> Consider a chessboard $7 \times 7$, and call a Greek cross any configuration of 5 of its squares arranged in the shape of a cross such that each square shares at least one side with another square of the cross (so each cross has 4 equal arms, each consisting of a single square). Is it possible to place 49 integers—not necessarily all equal to one another—on the 49 squares, one integer per square, in such a way that the total sum of these integers is negative, but the sum of the numbers corresponding to the squares covered by any Greek cross is positive?
 
-**Answer:** Yes
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_cadet_finale#qc2|src_kangourou_2005_cadet_finale__QC2]]
 
 
 
@@ -101,7 +110,7 @@ Greek cross on chessboard 7x7 negative total sum*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded rectangle area in right triangle*
+*Area of the shaded rectangle in a right triangle*
 
 ![[src_kangourou_2005_cadet_finale__probc3.png]]
 
@@ -120,9 +129,13 @@ Greek cross on chessboard 7x7 negative total sum*
 \end{document}
 ```
 
-> Look at the figure. The $ABC$ triangle is right-angled and the point $P$ is $1$ cm away from both the leg $AB$, which is $8$ cm long, and the hypotenuse $BC$, which is $10$ cm long. What is the area of the shaded rectangle? (see figure)
+> Observe the figure. Triangle $ABC$ is a right triangle, and point $P$ is $1$ cm away from both leg $AB$, which is $8$ cm long, and hypotenuse $BC$, which is $10$ cm long. What is the area of the shaded rectangle? (see figure)
 
-**Answer:** 5 cm2
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_cadet_finale#qc3|src_kangourou_2005_cadet_finale__QC3]]
 
 
 
@@ -148,13 +161,18 @@ Greek cross on chessboard 7x7 negative total sum*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Next eclipse of two rotating planets
+*Next eclipse of two rotating planets*
 
 ![[src_kangourou_2005_cadet_finale__probc4.png]]
 
-> Kang is an imaginary star that owns two planets: Enigma and Math. They move in the same plane, each describing a circular orbit centered in Kang with constant angular velocity, but different from each other. In fact, Enigma, the furthest, rotates around Kang clockwise in 7 days, while Math takes 5 days, rotating counterclockwise. At this moment an eclipse of Enigma by Math can be observed (see figure). How long before the next eclipse occurs? (see figure)
+> Kang is an imaginary star that has two planets: Enigma and Math. They move in the same plane, each tracing a circular orbit centered on Kang with constant but different angular velocities. Indeed, Enigma, the farther one, orbits Kang clockwise in 7 days, while Math takes 5 days, orbiting counterclockwise. At this moment, an eclipse of Enigma by Math can be observed (see the figure). How much time will pass before the next eclipse occurs? (see the figure)
 
-**Answer:** 3 days minus 2 hours
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_cadet_finale#qc4|src_kangourou_2005_cadet_finale__QC4]]
 
 
 
@@ -180,11 +198,18 @@ Next eclipse of two rotating planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible values of x+y with x+y+xy=90*
+*Possible values of x+y given x+y+xy=90*
 
-> If $x$ and $y$ are two strictly positive integers such that $$x + y + xy = 90,$$ how many possible values are there for of the sum $x + y$?
+> If $x$ and $y$ are two strictly positive integers such that
+> $$x + y + xy = 90,$$
+> how many possible values does the sum $x + y$ have?
 
-**Answer:** one, 18
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_cadet_finale#qc5|src_kangourou_2005_cadet_finale__QC5]]
 
 
 
@@ -212,10 +237,17 @@ Next eclipse of two rotating planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of finalists sum of digits raised to themselves*
+*Number of finalists: sum of digits raised to their own powers*
 
-> A fortune teller predicts that in 2080 the World Final of Kangourou will be held in Mirabilandia and that the number of finalists: - will have a representation in base 10 consisting of 4 digits all different from 0; - will be the sum of the four numbers that are obtained by raising to itself each of the four digits that appear in the representation (so if, for example, the digits 2 and 7 appear, two of the addends would be $2^2$ and $7^7$).
-> 
-> Determine, thanks to these indications, how many finalists the fortune teller predicts for that memorable edition of Kangourou.
+> A fortune-teller predicts that in 2080 the Kangourou World Final will be held at Mirabilandia and that the number of finalists:
+> - will have a base-10 representation consisting of 4 digits, all of which are different from 0;
+> - will be the sum of the four numbers obtained by raising each of the four digits appearing in the representation to the power of itself (so, for example, if the digits 2 and 7 appeared, two of the addends would be $2^2$ and $7^7$).
+>
+> Using these clues, determine how many finalists the fortune-teller predicts for that memorable edition of Kangourou.
 
-**Answer:** 3435
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_cadet_finale#qc6|src_kangourou_2005_cadet_finale__QC6]]

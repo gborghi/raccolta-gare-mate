@@ -33,13 +33,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cifri decimali di due numeri razionali combinati in un limite di conteggio dell'indice irrazionale*
+*Cifre decimali di due numeri razionali combinati in un numero irrazionale; limite del conteggio degli indici*
 
-> Per ogni numero reale $r$ tra $0$ e $1$ possiamo rappresentare $r$ con la decima infinita $r = 0{,}r_1 r_2 r_3 \ldots$ con $0 \le r_i \le 9$. Ad esempio, $\frac{1}{4} = 0{,}25000\ldots$, $\frac{1}{3} = 0{,}333\ldots$ e $\frac{1}{\sqrt{2}} = 0{,}707106\ldots$
-> 
-> a) Mostrare che possiamo scegliere due razionali $p$ e $q$ tra $0$ e $1$ in modo che, partendo dalle loro rappresentazioni decimali $p = 0{,}p_1 p_2 p_3 \ldots$ e $q = 0{,}q_1 q_2 q_3 \ldots$, sia possibile costruire un numero irrazionale $\alpha = 0{,}a_1 a_2 a_3 \ldots$ tale che per ogni $i = 1, 2, 3, \ldots$ abbiamo $a_i = p_i$ o $a_i = q_i$.
-> 
-> b) dimostrare che esiste un $s = 0{,}s_1 s_2 s_3 \ldots$ razionale e un $\beta = 0{,}b_1 b_2 b_3 \ldots$ irrazionale tale che per tutti $N \ge 2017$ il numero degli indici $1 \le i \le N$ per i quali $s_i \ne b_i$ è inferiore o uguale a $\frac{N}{2017}$.
+> Per ogni numero reale $r$ compreso tra $0$ e $1$, possiamo rappresentare $r$ con la rappresentazione decimale infinita $r = 0{,}r_1 r_2 r_3 \ldots$ con $0 \le r_i \le 9$. Ad esempio, $\frac{1}{4} = 0{,}25000\ldots$, $\frac{1}{3} = 0{,}333\ldots$ e $\frac{1}{\sqrt{2}} = 0{,}707106\ldots$
+>
+> a) Dimostrare che possiamo scegliere due numeri razionali $p$ e $q$ compresi tra $0$ e $1$ in modo che, partendo dalle loro rappresentazioni decimali $p = 0{,}p_1 p_2 p_3 \ldots$ e $q = 0{,}q_1 q_2 q_3 \ldots$, sia possibile costruire un numero irrazionale $\alpha = 0{,}a_1 a_2 a_3 \ldots$ tale che, per ogni $i = 1, 2, 3, \ldots$, valga $a_i = p_i$ oppure $a_i = q_i$.
+>
+> b) Dimostrare che esistono un $s = 0{,}s_1 s_2 s_3 \ldots$ razionale e un $\beta = 0{,}b_1 b_2 b_3 \ldots$ irrazionale tali che, per ogni $N \ge 2017$, il numero di indici $1 \le i \le N$ per cui $s_i \ne b_i$ è minore o uguale a $\frac{N}{2017}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2017_n3_f3#q01|src_obm_2017_n3_f3__Q01]]
 
 
 
@@ -64,9 +71,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme di n integri positivi i cui GCD in coppia formano un insieme di elementi esattamente k*
+*Insieme di n interi positivi i cui MCD a coppie formano un insieme di esattamente k elementi*
 
-> $n \ge 3$ sia un numero intero. Prova che per ogni intero $k$ con $1 \le k \le \binom{n}{2}$ esiste un insieme $A$ di $n$ diversi interi positivi in modo tale che l'insieme $$B = \{\gcd(x,y) : x, y \in A,\; x \ne y\}$$ (ottenuto dai più grandi divisori comuni di tutte le coppie di elementi distinti di $A$) contiene esattamente $k$ elementi distinti.
+> Sia $n \ge 3$ un numero intero. Dimostrare che per ogni numero intero $k$ tale che $1 \le k \le \binom{n}{2}$, esiste un insieme $A$ di $n$ numeri interi positivi distinti tale che l'insieme
+> $$B = \{\gcd(x,y) : x, y \in A,\; x \ne y\}$$
+> (ottenuto dai massimi comun divisori di tutte le coppie di elementi distinti di $A$) contiene esattamente $k$ elementi distinti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2017_n3_f3#q02|src_obm_2017_n3_f3__Q02]]
 
 
 
@@ -89,9 +105,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero tangenziale con un cerchio inciso; linea RT passa attraverso l'incentro del triangolo PQC*
+*Quadrilatero tangenziale con cerchio inscritto; la retta RT passa per l'incentro del triangolo PQC*
 
-> Un quadrilaterale $ABCD$ ha un cerchio inciso $\omega$ ed è tale che i raggi $AB$ e $DC$ si incontrino in un punto $P$ e i raggi $AD$ e $BC$ si incontrino in un punto $Q$. Le linee $AC$ e $PQ$ si incontrano in un punto $R$. $T$ deve essere il punto di $\omega$ più vicino alla linea $PQ$. Prova che la linea $RT$ passa attraverso l'incentro del triangolo $PQC$.
+> Un quadrilatero $ABCD$ ha una circonferenza inscritta $\omega$ ed è tale che i raggi $AB$ e $DC$ si incontrano in un punto $P$, e i raggi $AD$ e $BC$ si incontrano in un punto $Q$. Le rette $AC$ e $PQ$ si incontrano in un punto $R$. Sia $T$ il punto di $\omega$ più vicino alla retta $PQ$. Dimostrare che la retta $RT$ passa per l'incentro del triangolo $PQC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2017_n3_f3#q03|src_obm_2017_n3_f3__Q03]]
 
 
 
@@ -128,23 +151,30 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Modello di sblocco del telefono su una griglia 3x3: trovare il più piccolo n in modo che qualsiasi n-sottoinsieme di cifre ammetta un percorso valido*
+*Schema di sblocco del telefono su una griglia 3x3: trova il più piccolo n tale che ogni sottoinsieme di n cifre ammetta un percorso valido*
 
-> Nelle figure 1 e 2 di seguito vediamo esempi di sblocco di uno schermo del cellulare con una password che non viene digitata ma disegnata con segmenti di linea. Questi segmenti formano una linea poligonale le cui vertici si trovano su una griglia. Durante il disegno del modello corrispondente alla password, il dito deve rimanere in contatto con lo schermo per tutto il tempo. L'intera linea poligonale corrisponde a una sequenza di cifre, e questa sequenza è in realtà la password. Il disegno delle linee poligonali è conforme alle seguenti regole:
-> 
-> i. Il disegno inizia ad uno dei punti evidenziati, che corrispondono alle cifre $1$ a $9$ (figura 3).
-> 
-> ii. Ogni segmento del modello deve avere, come uno dei suoi punti finali (quello in cui si finisce il segmento), un punto che non è ancora stato utilizzato.
-> 
-> iii. Se un segmento unisce due punti e contiene un terzo punto (il suo punto medio), allora la cifra corrispondente a tale terzo punto è inclusa nella password. Questo non avviene quando tale punto/cifre è già stato utilizzato.
-> 
-> iv. Ogni password ha almeno quattro cifre.
-> 
-> Pertanto, ogni linea poligonale è associata a una sequenza di quattro o più cifre, che appaiono nella password nello stesso ordine in cui vengono visitate. Nella figura 1 sopra, ad esempio, la password è $218369$, nel caso in cui il primo punto visitato è stato $2$. Si noti che il segmento che unisce i punti associati ai numeri $3$ e $9$ include il punto associato al numero $6$. Se il primo punto visitato fosse $9$, la password sarebbe $963812$. Se il primo punto visitato fosse $6$, la password sarebbe $693812$. Si noti che $6$ sarebbe saltato, poiché non poteva essere ripetuto. D'altra parte, la linea poligonale della figura 2 è associata a una singola password.
-> 
-> Determinare la minima $n$ ($n \ge 4$) in modo tale che, data qualsiasi sottoinsieme di cifre $n$ da $1$ a $9$, sia possibile elaborare una password che coinvolga esattamente quelle cifre in un certo ordine.
+> Nelle Figure 1 e 2 qui sotto vediamo esempi di sblocco dello schermo di un telefono cellulare mediante una password che non viene digitata, ma disegnata con segmenti di retta. Questi segmenti formano una linea poligonale i cui vertici giacciono su una griglia. Mentre si disegna il motivo corrispondente alla password, il dito deve restare a contatto con lo schermo per tutto il tempo. L'intera linea poligonale corrisponde a una sequenza di cifre, e questa sequenza è in effetti la password. Il disegno delle linee poligonali segue le seguenti regole:
+>
+> i. Il disegno inizia da uno dei punti evidenziati, che corrispondono alle cifre $1$ e $9$ (Figura 3).
+>
+> ii. Ciascun segmento del motivo deve avere, come uno dei suoi estremi (quello in cui si termina di tracciare il segmento), un punto che non è stato ancora utilizzato.
+>
+> iii. Se un segmento unisce due punti e contiene un terzo punto (il suo punto medio), allora la cifra corrispondente a tale terzo punto è inclusa nella password. Ciò non accade quando quel punto/quella cifra è già stato utilizzato/utilizzata.
+>
+> iv. Ogni password contiene almeno quattro cifre.
+>
+> Pertanto, ogni linea poligonale è associata a una sequenza di quattro o più cifre, che compaiono nella password nello stesso ordine in cui vengono visitate. Nella Figura 1 sopra, ad esempio, la password è $218369$, nel caso in cui il primo punto visitato sia stato $2$. Si noti che il segmento che unisce i punti associati alle cifre $3$ e $9$ comprende il punto associato alla cifra $6$. Se il primo punto visitato fosse $9$, allora la password sarebbe $963812$. Se il primo punto visitato fosse $6$, allora la password sarebbe $693812$. Si noti che $6$ verrebbe saltato, poiché non potrebbe essere ripetuto. D'altra parte, la linea poligonale della Figura 2 è associata a una singola password.
+>
+> Determinare il più piccolo $n$ ($n \ge 4$) tale che, dato un qualsiasi sottoinsieme di $n$ cifre comprese tra $1$ e $9$, sia possibile elaborare una password che includa esattamente quelle cifre in un certo ordine.
 
 ![[src_obm_2017_n3_f3__q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2017_n3_f3#q04|src_obm_2017_n3_f3__Q04]]
 
 
 
@@ -167,9 +197,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Line attraverso i punti di metà perpendicolari ai bisetti interni; il centro circoncentrale del triangolo risultante è il punto medio di HI*
+*Rette passanti per i punti medi e perpendicolari alle bisettrici interne; il circocentro del triangolo risultante è il punto medio di HI*
 
-> Nel triangolo $ABC$, $r_A$ sia la linea che attraversa il punto medio di $BC$ e che sia perpendicolare al bisettore interno di $\angle BAC$. Definire $r_B$ e $r_C$ nello stesso modo. Che $H$ e $I$ siano rispettivamente l'ortocentro e l'incentro di $ABC$. Supponiamo che le tre linee $r_A$, $r_B$, $r_C$ definiscano un triangolo. Prova che il centro circoncentrale di questo triangolo è il punto medio di $HI$.
+> Nel triangolo $ABC$, sia $r_A$ la retta che passa per il punto medio di $BC$ ed è perpendicolare alla bisettrice interna di $\angle BAC$. Definisci $r_B$ e $r_C$ nello stesso modo. Siano $H$ e $I$ l'ortocentro e l'incentro di $ABC$, rispettivamente. Supponi che le tre rette $r_A$, $r_B$, $r_C$ determinino un triangolo. Dimostrare che il circocentro di questo triangolo è il punto medio di $HI$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2017_n3_f3#q05|src_obm_2017_n3_f3__Q05]]
 
 
 
@@ -192,6 +229,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il primo divisore p di a^3-3a+1 con p non 3 ha la forma 9k+1 o 9k-1*
+*Un divisore primo p di a^3-3a+1, con p diverso da 3, è della forma 9k+1 o 9k-1*
 
-> Che $a$ sia un intero positivo e $p$ un primo divisore di $a^3 - 3a + 1$ con $p \ne 3$. Provare che $p$ è di forma $9k + 1$ o $9k - 1$, con $k$ un numero intero.
+> Sia $a$ un numero intero positivo e $p$ un divisore primo di $a^3 - 3a + 1$ con $p \ne 3$. Dimostrare che $p$ è della forma $9k + 1$ o $9k - 1$, con $k$ un numero intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2017_n3_f3#q06|src_obm_2017_n3_f3__Q06]]

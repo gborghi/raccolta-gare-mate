@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo intero positivo che è doppio di un cubo e quintuplico di un quadrato*
+*Il più piccolo intero positivo che è il doppio di un cubo e il quintuplo di un quadrato*
 
-> Qual è il numero intero positivo più piccolo che è il doppio di un cubo perfetto e il quintuplico di un quadrato perfetto?
+> Qual è il più piccolo numero intero positivo che è il doppio di un cubo perfetto e il quintuplo di un quadrato perfetto?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n3_f2#q01|src_obm_2001_n3_f2__Q01]]
 
 
 
@@ -56,11 +63,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo diviso in 9 quadrati; trovare lato di quadrato I dato lato di A è 1*
+*Rettangolo diviso in 9 quadrati; determina il lato del quadrato I sapendo che il lato di A è 1*
 
-> Un rettangolo è diviso in 9 quadrati $A, B, C, D, E, F, G, H$ e $I$. Il quadrato $A$ ha lunghezza laterale $1$. Qual è la lunghezza laterale del quadrato $I$?
+> Un rettangolo è diviso in 9 quadrati $A, B, C, D, E, F, G, H$ e $I$. Il quadrato $A$ ha lato di lunghezza $1$. Qual è la lunghezza del lato del quadrato $I$?
 
 ![[src_obm_2001_n3_f2__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n3_f2#q02|src_obm_2001_n3_f2__Q02]]
 
 
 
@@ -85,11 +99,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trapezoide ABCD con ABCD; trovare angolo DAB data condizione somma angolo*
+*Trapezio ABCD con AB∥CD; trovare l'angolo DAB data la condizione sulla somma degli angoli*
 
-> Il trapezoide $ABCD$ ha basi $AB \parallel CD$. Il lato $DA$ è lungo $x$ e il lato $BC$ è lungo $2x$. La somma degli angoli $\angle DAB + \angle ABC = 120^\circ$. Determinare l'angolo $\angle DAB$.
+> Il trapezio $ABCD$ ha basi $AB \parallel CD$. Il lato $DA$ ha lunghezza $x$ e il lato $BC$ ha lunghezza $2x$. La somma degli angoli è $\angle DAB + \angle ABC = 120^\circ$. Determinare l'angolo $\angle DAB$.
 
 ![[src_obm_2001_n3_f2__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n3_f2#q03|src_obm_2001_n3_f2__Q03]]
 
 
 
@@ -116,13 +137,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Campionato veneziano di calcio: trovare punti minimi per il Vulcano FC per garantire la finale
+*Campionato di football venusiano; determina il punteggio minimo per il Vulcano FC per assicurarsi la finale*
 
-> Il campionato di calcio Venusiano è contestato da 10 squadre su 10 partite giocate in due round. In ogni round ogni squadra gioca una volta contro ogni altra squadra. Supponiamo che Vulcano FC vinca tutte le partite del primo round. Se non vince la partita del secondo round, Vulcano FC giocherà una partita di tiebreaker contro il vincitore del secondo round. Altrimenti (cioè se vince anche la seconda volta), Vulcano FC va direttamente alla finale. Per ogni round la squadra vincente guadagna 3 punti e la squadra perdente guadagna 0 punti; in caso di pareggio ogni squadra guadagna 1 punto. I punteggi ottenuti durante la partita del tie-breaker non contano per la classifica del campionato. È garantito che la squadra con il maggior numero di punti in ogni round avanza alla finale (non ci sono tie-breakers per i punti).
-> 
-> a) Determinare il minimo $n$ in modo tale che se il Vulcano FC accumula punti \emph{exactly} $n$ nel secondo round, questo garantisca al Vulcano FC un posto nella finale (indipendentemente dal numero di punti accumulati dall'avversario e dai punteggi delle altre squadre).
-> 
-> b) Determinare il minimo $n$ in modo tale che, se il Vulcano FC accumula $n$ punti al secondo turno, questo garantisca al Vulcano FC un posto nella finale (indipendentemente dal numero di punti accumulati dall'avversario e dai punteggi delle altre squadre).
+> Il campionato di calcio venusiano vede la partecipazione di 10 squadre e prevede 10 partite disputate in due gironi. In ciascun girone, ogni squadra affronta una volta ciascuna delle altre squadre. Si supponga che il Vulcano FC vinca tutte le partite del primo girone. Se non vincerà la partita del secondo girone, il Vulcano FC disputerà una partita di spareggio contro il vincitore del secondo girone. Altrimenti (cioè se vincerà anche la partita del secondo girone), il Vulcano FC accederà direttamente alla finale. Per ogni partita di girone, la squadra vincitrice ottiene 3 punti e quella sconfitta 0 punti; in caso di pareggio, ciascuna squadra ottiene 1 punto. I risultati ottenuti durante la partita di spareggio non contano ai fini della classifica del campionato. È garantito che la squadra con più punti in ciascun girone acceda alla finale (non sono previsti spareggi per i punti).
+>
+> a) Determina il più piccolo $n$ tale che, se il Vulcano FC accumula \emph{esattamente} $n$ punti nel secondo turno, ciò garantisca al Vulcano FC un posto in finale (indipendentemente da quanti punti accumuli l'avversario e da quali siano i risultati delle altre squadre).
+>
+> b) Determina il più piccolo $n$ tale che, se il Vulcano FC accumula \emph{almeno} $n$ punti nel secondo turno, ciò garantisca al Vulcano FC un posto nella finale (indipendentemente da quanti punti accumuli l'avversario e da quali siano i risultati delle altre squadre).
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n3_f2#q04|src_obm_2001_n3_f2__Q04]]
 
 
 
@@ -147,9 +175,18 @@ Campionato veneziano di calcio: trovare punti minimi per il Vulcano FC per garan
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare l'espressione somma radicale incastonata ed esprimere come p/q razionale*
+*Valuta l'espressione della somma di radicali annidati e esprimi il risultato come frazione razionale p/q*
 
-> Il numero $$S = \sum_{a=1}^{2000} \sqrt{1 + \frac{1}{a^2} + \frac{1}{(a+1)^2}}$$ è razionale; si esprime nella forma $\dfrac{p}{q}$, dove $p$ e $q$ sono integri positivi.
+> Il numero
+> $$S = \sum_{a=1}^{2000} \sqrt{1 + \frac{1}{a^2} + \frac{1}{(a+1)^2}}$$
+> è razionale; esprimetelo nella forma $\dfrac{p}{q}$, dove $p$ e $q$ sono interi positivi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n3_f2#q05|src_obm_2001_n3_f2__Q05]]
 
 
 
@@ -176,10 +213,17 @@ Campionato veneziano di calcio: trovare punti minimi per il Vulcano FC per garan
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Procedura di eliminazione del cerchio su n studenti; trovare la posizione degli studenti scelti*
+*Procedura di eliminazione a cerchio su n studenti; trovare la posizione dello studente scelto*
 
-> Per il sorteo di una lotteria tra gli studenti di una scuola ($n$) viene adottata la seguente procedura. Gli studenti sono collocati in un cerchio e un conteggio inizia con uno studente nella forma: "uno, due, uno, due, $\ldots$". Ogni volta che si dice TWO, lo studente corrispondente viene eliminato e il conteggio riprende con il prossimo studente rimanente. Il conteggio continua fino a quando non rimane solo uno studente, e quel studente è quello scelto.
-> 
-> a) Per quali valori di $n$ è scelto il primo studente nel cerchio (colui che inizia il conteggio)?
-> 
-> b) Se nel cerchio iniziale ci sono studenti $192$, qual è la posizione nel cerchio dello studente scelto?
+> Per effettuare un sorteggio tra $n$ studenti di una scuola ($n > 1$), si adotta la seguente procedura. Gli studenti vengono disposti in cerchio e si inizia a contare a partire da uno studente, secondo il seguente schema: "uno, DUE, uno, DUE, $\ldots$". Ogni volta che si dice "DUE", lo studente corrispondente viene eliminato e il conteggio riprende con lo studente successivo rimasto. Il conteggio prosegue finché non rimane un solo studente, e quel studente è quello scelto.
+>
+> a) Per quali valori di $n$ il primo studente nel cerchio (quello che inizia il conteggio) è quello scelto?
+>
+> b) Se nel cerchio iniziale ci sono $192$ studenti, qual è la posizione, all'interno del cerchio, dello studente scelto?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n3_f2#q06|src_obm_2001_n3_f2__Q06]]

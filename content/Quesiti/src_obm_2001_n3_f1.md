@@ -32,13 +32,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri a due cifre che non sono né prime né moltiples di 2, 3 o 5*
+*Conta i numeri a due cifre che non sono né primi né multipli di 2, 3 o 5*
 
-> Quanti numeri a due cifre non sono né prime né moltiples di 2, 3 o 5?
-> 
-> **A) ** 1 $\quad$ **B) ** 3 $\quad$ **C) ** 2 $\quad$ **D) ** 4 $\quad$ **E) ** più di 4
+> Quanti numeri di due cifre non sono né primi né multipli di 2, 3 o 5?
+>
+> **A)** 1 $\quad$ **B)** 3 $\quad$ **C)** 2 $\quad$ **D)** 4 $\quad$ **E)** più di 4
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n3_f1#q01|src_obm_2001_n3_f1__Q01]]
 
 
 
@@ -66,15 +71,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo CDE da rotazione di 90 gradi di ABC attorno a C; trovare angolo alfa*
+*Il triangolo CDE è ottenuto dalla rotazione di 90 gradi del triangolo ABC attorno a C; determina l'angolo alfa*
 
-> Il triangolo $CDE$ può essere ottenuto ruotando il triangolo $ABC$ con $90^\circ$ in senso contrario all'orologio intorno a $C$, come mostrato nel disegno di seguito. Possiamo affermare che $\alpha$ è uguale a:
-> 
+> Il triangolo $CDE$ si può ottenere ruotando il triangolo $ABC$ di $90^\circ$ in senso antiorario attorno a $C$, come mostrato nel disegno sottostante. Possiamo affermare che $\alpha$ è uguale a:
+>
 > **A)** $75^\circ$ $\quad$ **B)** $65^\circ$ $\quad$ **C)** $70^\circ$ $\quad$ **D)** $45^\circ$ $\quad$ **E)** $55^\circ$
 
 ![[src_obm_2001_n3_f1__q02.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n3_f1#q02|src_obm_2001_n3_f1__Q02]]
 
 
 
@@ -100,13 +110,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri composti in {101, 1001, 10001, ..., 1000000000001}*
+*Conta i numeri composti in {101, 1001, 10001, ..., 1000000000001}*
 
-> Nell'insieme $\{101,\ 1\,001,\ 10\,001,\ \ldots,\ 1\,000\,000\,000\,001\}$ ogni elemento è un numero formato dalla cifra 1 ad entrambe le estremità e da cifre 0 tra di esse. Alcuni di questi elementi sono numeri primi e altri composti. Per quanto riguarda il numero di numeri composti possiamo affermare che:
-> 
-> **A) ** è uguale a 11 $\quad$ **B) ** è uguale a 4 $\quad$ **C) ** è inferiore a 3 $\quad$ **D) ** è maggiore di 4 e inferiore a 11 $\quad$ **E) ** è 3
+> Nell'insieme $\{101,\ 1\,001,\ 10\,001,\ \ldots,\ 1\,000\,000\,000\,001\}$, ogni elemento è un numero formato dal digit 1 alle due estremità e da digit 0 nel mezzo. Alcuni di questi elementi sono numeri primi, altri sono numeri composti. Riguardo al numero di numeri composti, possiamo affermare che:
+>
+> **A)** è uguale a 11 $\quad$ **B)** è uguale a 4 $\quad$ **C)** è minore di 3 $\quad$ **D)** è maggiore di 4 e minore di 11 $\quad$ **E)** è 3
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n3_f1#q03|src_obm_2001_n3_f1__Q03]]
 
 
 
@@ -131,13 +146,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perla 90% acqua, disidrata al 60% acqua; trova litri evaporati a partire da 100 kg*
+*Pera: 90% di acqua, disidratata al 60% di acqua; calcolare i litri evaporati da 100 kg*
 
-> Una pera è costituita al 90% da acqua e al 10% da materia solida. Un produttore mette 100 chilogrammi di pere in disidratazione fino a quando l'acqua non rappresenta il 60% della massa totale. Quanti litri di acqua evaporeranno? (Ricordi: 1 litro di acqua ha una massa di 1 kg.)
-> 
-> **A) ** 15 litri $\quad$ **B) ** 45 litri $\quad$ **C) ** 75 litri $\quad$ **D) ** 80 litri $\quad$ **E) ** 30 litri
+> Una pera è composta per circa il 90% da acqua e per il 10% da materia solida. Un produttore mette da disidratare 100 chilogrammi di pere finché l'acqua non rappresenta il 60% della massa totale. Quanti litri d'acqua evaporeranno? (Ricorda: 1 litro d'acqua ha una massa di 1 chilogrammo.)
+>
+> **A)** 15 litri $\quad$ **B)** 45 litri $\quad$ **C)** 75 litri $\quad$ **D)** 80 litri $\quad$ **E)** 30 litri
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n3_f1#q04|src_obm_2001_n3_f1__Q04]]
 
 
 
@@ -163,13 +182,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza concatenata 123...9991000; quante volte appare il gruppo 89?*
+*Sequenza concatenata 123...9991000; quante volte compare il gruppo 89?*
 
-> I numeri interi positivi da 1 a 1000 sono scritti fianco a fianco, in ordine crescente, formando la sequenza $123456789101112131415\ldots 9991000$. In questa sequenza, quante volte appare il gruppo "89"?
-> 
+> I numeri interi positivi da 1 a 1000 sono scritti uno accanto all'altro in ordine crescente, formando la successione $123456789101112131415\ldots 9991000$. In questa successione, quante volte compare il gruppo "89"?
+>
 > **A)** 98 $\quad$ **B)** 32 $\quad$ **C)** 22 $\quad$ **D)** 89 $\quad$ **E)** 21
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n3_f1#q05|src_obm_2001_n3_f1__Q05]]
 
 
 
@@ -197,15 +221,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*10 pezzi di 3 collegamenti ciascuno; formano una catena di 30 collegamenti in tempo minimo*
+*10 pezzi, ciascuno con 3 anelli; forma una catena di 30 anelli nel minor tempo possibile*
 
-> Un serratore ha 10 pezzi di 3 collegamenti ciascuno, mostrati di seguito. Vuole fare una singola catena di 30 collegamenti. Per aprire e poi saldare un collegamento, spenderà 5 minuti. Quanti minuti ci vorrà almeno per fare la catena?
-> 
+> Un fabbro dispone di 10 pezzi, ciascuno composto da 3 anelli, come mostrato qui sotto. Vuole realizzare una catena unica di 30 anelli. Per aprire e poi saldare un anello impiega 5 minuti. Quanti minuti almeno impiegherà per realizzare la catena?
+>
 > **A)** 30 $\quad$ **B)** 35 $\quad$ **C)** 40 $\quad$ **D)** 45 $\quad$ **E)** 50
 
 ![[src_obm_2001_n3_f1__q06.png]]
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n3_f1#q06|src_obm_2001_n3_f1__Q06]]
 
 
 
@@ -231,13 +260,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nomero a 3 cifre N volte 7 termina in 171; trovare somma a cifre di N*
+*Il prodotto di un numero di 3 cifre N per 7 termina con 171; trova la somma delle cifre di N*
 
-> Un numero a tre cifre $N$ moltiplicato per 7 dà un risultato che termina in 171. La somma delle cifre di $N$ è:
-> 
+> Un numero di tre cifre $N$ moltiplicato per 7 dà come risultato un numero che termina con 171. La somma delle cifre di $N$ è:
+>
 > **A)** 10 $\quad$ **B)** 11 $\quad$ **C)** 12 $\quad$ **D)** 13 $\quad$ **E)** 14
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n3_f1#q07|src_obm_2001_n3_f1__Q07]]
 
 
 
@@ -263,13 +297,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti su un cerchio con archi di 35 gradi; n>1 più piccolo con P_n = P_1*
+*Punti su una circonferenza con archi di 35 gradi; minimo n>1 tale che P_n = P_1*
 
-> I punti $P_1, P_2, P_3, \ldots$ sono in questo ordine su un cerchio e sono tali che l'arco che unisce ogni punto alle misure successive $35^\circ$. Il valore più piccolo di $n > 1$ tale che $P_n$ coincida con $P_1$ è:
-> 
+> I punti $P_1, P_2, P_3, \ldots$ si trovano in questo ordine su una circonferenza e sono tali che l'arco che congiunge ciascun punto con il successivo misura $35^\circ$. Il valore minimo di $n > 1$ per cui $P_n$ coincide con $P_1$ è:
+>
 > **A)** 37 $\quad$ **B)** 73 $\quad$ **C)** 109 $\quad$ **D)** 141 $\quad$ **E)** 361
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_obm_2001_n3_f1#q08|src_obm_2001_n3_f1__Q08]]
 
 
 
@@ -294,13 +333,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCDE pentagono regolare con triangolo equilaterale interno ABF; angolo di ricerca FCD*
+*Pentagono regolare ABCDE con triangolo equilatero interno ABF; determina l'angolo FCD*
 
-> $ABCDE$ è un pentagono regolare e $ABF$ è un triangolo equilaterale interno. L'angolo $FCD$ misura:
-> 
+> $ABCDE$ è un pentagono regolare e $ABF$ è un triangolo equilatero interno. L'angolo $FCD$ misura:
+>
 > **A)** $38^\circ$ $\quad$ **B)** $40^\circ$ $\quad$ **C)** $42^\circ$ $\quad$ **D)** $44^\circ$ $\quad$ **E)** $46^\circ$
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n3_f1#q09|src_obm_2001_n3_f1__Q09]]
 
 
 
@@ -326,13 +369,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo diviso da 2n+1 radii in settori congruenti; regioni massime tagliate anche da una linea*
+*Un cerchio suddiviso da 2n+1 raggi in settori congruenti; il numero massimo di regioni ottenute, con l'aggiunta di una sola retta, è anch'esso determinato da una retta*
 
-> Un cerchio è diviso, per radii $2n + 1$, in settori congruenti $2n + 1$. Qual è il numero massimo di regioni del cerchio determinate da questi raggi e da una linea retta?
-> 
+> Un cerchio viene suddiviso, mediante $2n + 1$ raggi, in $2n + 1$ settori congruenti. Qual è il numero massimo di regioni del cerchio determinate da questi raggi e da una retta?
+>
 > **A)** $3n$ $\quad$ **B)** $3n + 1$ $\quad$ **C)** $3n + 2$ $\quad$ **D)** $4n$ $\quad$ **E)** $4n + 1$
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2001_n3_f1#q10|src_obm_2001_n3_f1__Q10]]
 
 
 
@@ -358,13 +406,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Papa-Leguas (Road Runner) corsa a 100 giri; primo giro a 200 km/h; limite di velocità media*
+*Papa-Leguas (Road Runner): gara di 100 giri; primo giro a 200 km/h; limiterà la velocità media*
 
-> Papa-Leguas (Road Runner) ha partecipato a una gara (insieme a Ligeirinho e Flash), che consisteva nel fare 100 giri intorno a un circuito. Come sempre, il Coyote voleva catturare Papa-Leguas e mise un mucchio di semi d'uccello nel mezzo della pista. Naturalmente il Coyote non riuscì a catturare Papa-Leguas, ma fece sì che la velocità media di Papa-Leguas nel primo giro fosse di soli 200 km/h. Sapendo questo, la velocità media di Papa-Leguas in gara:
-> 
-> **A) ** Non supera i 200 km/h. $\quad$ **B) ** Non supera i 250 km/h, ma può superare i 200 km/h. $\quad$ **C) ** Non supera i 2000 km/h, ma può superare i 250 km/h. $\quad$ **D) ** Non supera i 20000 km/h, ma può superare i 2000 km/h. $\quad$ **E) ** Può superare i 20000 km/h.
+> Papa-Leguas (Road Runner) ha preso parte a una gara (insieme a Ligeirinho e Flash), che consisteva nel percorrere 100 giri attorno a un circuito. Come sempre, Coyote voleva catturare Papa-Leguas e ha messo un mucchio di becchime al centro della pista. Naturalmente Coyote non è riuscito a catturare Papa-Leguas, ma ha fatto sì che la velocità media di Papa-Leguas nel primo giro fosse di soli 200 km/h. Sapendo questo, la velocità media di Papa-Leguas nella gara:
+>
+> **A)** Non supera i 200 km/h. $\quad$ **B)** Non supera i 250 km/h, ma può superare i 200 km/h. $\quad$ **C)** Non supera i 2000 km/h, ma può superare i 250 km/h. $\quad$ **D)** Non supera i 20000 km/h, ma può superare i 2000 km/h. $\quad$ **E)** Può superare i 20000 km/h.
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n3_f1#q11|src_obm_2001_n3_f1__Q11]]
 
 
 
@@ -390,13 +443,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare soluzioni di interi distinti di (-6x^2+12x-2)^(x^2-2x+2)=4*
+*Conta le soluzioni intere distinte di (-6x^2+12x-2)^(x^2-2x+2)=4*
 
-> Il numero di soluzioni integrali distinte dell'equazione $(-6x^2 + 12x - 2)^{x^2 - 2x + 2} = 4$ è:
-> 
+> Il numero di soluzioni intere distinte dell'equazione $(-6x^2 + 12x - 2)^{x^2 - 2x + 2} = 4$ è:
+>
 > **A)** 0 $\quad$ **B)** 1 $\quad$ **C)** 2 $\quad$ **D)** 3 $\quad$ **E)** 4
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n3_f1#q12|src_obm_2001_n3_f1__Q12]]
 
 
 
@@ -422,13 +480,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo palla tirata è la palla di Pedro
+*Estrazione di 30 palline, la prima pallina cade a terra; probabilità che la seconda pallina estratta sia quella di Pedro*
 
-> Fu organizzata una lotteria tra i 30 studenti della classe di Pedro. Per questo, 30 palle numerate da 1 a 30 furono messe in un'urna. Uno di loro fu poi disegnato. Tuttavia, la palla cadde sul pavimento e fu persa, e una seconda palla dovette essere tirata tra le restanti 29. Qual è la probabilità che il numero tirato la seconda volta fosse di Pedro?
-> 
+> Tra i 30 studenti della classe di Pedro è stata organizzata una lotteria. A tale scopo, 30 palline numerate da 1 a 30 sono state messe in un'urna. Poi ne è stata estratta una. Tuttavia, la pallina è caduta a terra ed è andata persa, e si è dovuta estrarre una seconda pallina tra le 29 rimanenti. Qual è la probabilità che il numero estratto la seconda volta fosse quello di Pedro?
+>
 > **A)** $\dfrac{1}{29}$ $\quad$ **B)** $\dfrac{1}{30}$ $\quad$ **C)** $\dfrac{1}{31}$ $\quad$ **D)** $\dfrac{1}{60}$ $\quad$ **E)** $\dfrac{2}{31}$
 
-**Risposta:** B
+**Topic:** [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n3_f1#q13|src_obm_2001_n3_f1__Q13]]
 
 
 
@@ -454,13 +517,18 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque animali (cani dicono la verità, lupi mentono); date le dichiarazioni, contate i lupi*
+*Cinque animali (i cani dicono la verità, i lupi mentono); dati gli enunciati, conta i lupi*
 
-> Cinque animali $A$, $B$, $C$, $D$ e $E$ sono cani o lupi. I cani dicono sempre la verità e i lupi mentono sempre. $A$ dice che $B$ è un cane. Il$B$dice che il$C$è un lupo. $C$ dice che $D$ è un lupo. $D$ dice che $B$ e $E$ sono animali di specie diverse. $E$ dice che $A$ è un cane. Quanti lupi ci sono tra i cinque animali?
-> 
+> Cinque animali, $A$, $B$, $C$, $D$ e $E$, sono o cani o lupi. I cani dicono sempre la verità e i lupi mentono sempre. $A$ dice che $B$ è un cane. $B$ dice che $C$ è un lupo. $C$ dice che $D$ è un lupo. $D$ dice che $B$ e $E$ sono animali di specie diverse. $E$ dice che $A$ è un cane. Quanti lupi ci sono tra i cinque animali?
+>
 > **A)** 1 $\quad$ **B)** 2 $\quad$ **C)** 3 $\quad$ **D)** 4 $\quad$ **E)** 5
 
-**Risposta:** D
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n3_f1#q14|src_obm_2001_n3_f1__Q14]]
 
 
 
@@ -486,13 +554,18 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di numeri interi da 1 a 999 in cui la cifra 1 appare esattamente due volte*
+*Somma degli interi da 1 a 999 in cui la cifra 1 compare esattamente due volte*
 
-> Tutti i numeri da 1 a 999 in cui il numero 1 appare esattamente 2 volte (come 11, 121, 411, ecc.) sono scritti. La somma di questi numeri è:
-> 
+> Vengono scritti tutti i numeri da 1 a 999 in cui la cifra 1 compare esattamente 2 volte (come 11, 121, 411, ecc.). La somma di questi numeri è:
+>
 > **A)** 6882 $\quad$ **B)** 5994 $\quad$ **C)** 4668 $\quad$ **D)** 7224 $\quad$ **E)** 3448
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n3_f1#q15|src_obm_2001_n3_f1__Q15]]
 
 
 
@@ -520,15 +593,20 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tavola rettangolare (2a < b) spinta attraverso un corridoio angolare rettangolare; larghezza minima del corridoio*
+*Tavolo rettangolare (2a < b) spinto attraverso un corridoio a angolo retto; larghezza minima del corridoio*
 
-> Un tavolo rettangolare, i cui piedi hanno ruote, deve essere spinto attraverso un corridoio di larghezza costante che forma un angolo retto. Se le dimensioni del tavolo sono $a$ e $b$ (con $2a < b$), quale deve essere la larghezza minima del corridoio in modo che il tavolo possa essere spinto attraverso di esso?
-> 
+> Un tavolo rettangolare, le cui gambe sono dotate di ruote, deve essere spinto attraverso un corridoio di larghezza costante che forma un angolo retto. Se le dimensioni del tavolo sono $a$ e $b$ (con $2a < b$), quale deve essere la larghezza minima del corridoio affinché il tavolo possa essere spinto attraverso di esso?
+>
 > **A)** $a + b$ $\quad$ **B)** $(a + b)\,\dfrac{\sqrt{2}}{2}$ $\quad$ **C)** $(a + b)\,\dfrac{\sqrt{2}}{4}$ $\quad$ **D)** $(2a + b)\,\dfrac{\sqrt{2}}{4}$ $\quad$ **E)** $(a + 2b)\,\dfrac{\sqrt{2}}{4}$
 
 ![[src_obm_2001_n3_f1__q16.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n3_f1#q16|src_obm_2001_n3_f1__Q16]]
 
 
 
@@ -555,15 +633,19 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare quale rete di cubi mostra la sezione trasversale evidenziata del cubo con un piano*
+*Identifica quale sviluppo piano del cubo mostra la sezione trasversale evidenziata del cubo ottenuta con un piano*
 
-> Solo una delle figure di seguito rappresenta la rete (sviluppo) di un cubo su cui è evidenziata la sua intersezione con un piano. - Quale?
-> 
-> **A) **, **B) **, **C) **, **D) **, **E) ** [cinque diagrammi di rete cubica mostrati nella figura]
+> Solo una delle figure sottostanti rappresenta lo sviluppo piatto di un cubo, nel quale è evidenziata l'intersezione del cubo con un piano. Quale?
+>
+> **A)**, **B)**, **C)**, **D)**, **E)** [cinque diagrammi di sviluppi di cubi mostrati nella figura]
 
 ![[src_obm_2001_n3_f1__q17.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n3_f1#q17|src_obm_2001_n3_f1__Q17]]
 
 
 
@@ -589,13 +671,18 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 <div class="qlang-split" data-lang="it"></div>
 
 
-*f(x)=x^2-3x+4; contare le soluzioni reali di f applicato per 2001 volte è uguale a 2*
+*f(x)=x^2-3x+4; il numero di soluzioni reali di f applicata 2001 volte è uguale a 2*
 
-> Let $f(x) = x^2 - 3x + 4$. Quante soluzioni reali ha l'equazione $f(f(f(\ldots f(x)\ldots))) = 2$ (dove $f$ viene applicata 2001 volte)?
-> 
+> Sia $f(x) = x^2 - 3x + 4$. Quante soluzioni reali ha l'equazione $f(f(f(\ldots f(x)\ldots))) = 2$ (dove $f$ viene applicata 2001 volte)?
+>
 > **A)** 0 $\quad$ **B)** 1 $\quad$ **C)** 2 $\quad$ **D)** 2001 $\quad$ **E)** $2^{2001}$
 
-**Risposta:** C
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n3_f1#q18|src_obm_2001_n3_f1__Q18]]
 
 
 
@@ -621,13 +708,18 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quante cifre ha il più piccolo quadrato perfetto le cui ultime quattro cifre sono 2001*
+*Quante cifre ha il più piccolo quadrato perfetto il cui ultime quattro cifre sono 2001?*
 
-> Quante cifre ha il più piccolo quadrato perfetto le cui ultime quattro cifre sono 2001?
-> 
+> Quante cifre ha il più piccolo quadrato perfetto il cui ultime quattro cifre sono 2001?
+>
 > **A)** 9 $\quad$ **B)** 5 $\quad$ **C)** 6 $\quad$ **D)** 7 $\quad$ **E)** 8
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n3_f1#q19|src_obm_2001_n3_f1__Q19]]
 
 
 
@@ -653,13 +745,18 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD trapezoide destra con angoli retti A,B; M,N punti di mezzo di AB,CD; confronta gli angoli ANB e CMD*
+*Trapezio rettangolo ABCD con angoli retti in A e B; M e N sono i punti medi di AB e CD; confrontare gli angoli ANB e CMD*
 
-> Il $ABCD$ deve essere un trapezoide retto, i cui unici angoli retti sono $\hat{A}$ e $\hat{B}$. $M$ e $N$ sono i punti di mezzo di $AB$ e $CD$, rispettivamente. Per quanto riguarda gli angoli $\alpha = A\hat{N}B$ e $\beta = C\hat{M}D$, possiamo dire che:
-> 
-> **A) ** $\alpha < \beta$ $\quad$ **B) ** $\alpha > \beta$ $\quad$ **C) ** $\alpha = \beta$ $\quad$ **D) ** può verificarsi una qualsiasi delle situazioni nelle alternative A), B) e C). $\quad$ **E) ** l'angolo $\alpha$ è giusto.
+> Sia $ABCD$ un trapezio rettangolo i cui unici angoli retti sono $\hat{A}$ e $\hat{B}$. $M$ e $N$ sono i punti medi di $AB$ e $CD$, rispettivamente. Riguardo agli angoli $\alpha = A\hat{N}B$ e $\beta = C\hat{M}D$, possiamo dire che:
+>
+> **A)** $\alpha < \beta$ $\quad$ **B)** $\alpha > \beta$ $\quad$ **C)** $\alpha = \beta$ $\quad$ **D)** può verificarsi una qualsiasi delle situazioni indicate nelle alternative A), B) e C). $\quad$ **E)** l'angolo $\alpha$ è retto.
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n3_f1#q20|src_obm_2001_n3_f1__Q20]]
 
 
 
@@ -685,13 +782,18 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di x reale con x^2+x+1 = 156/(x^2+x)*
+*Somma dei valori reali di x per cui x^2+x+1 = 156/(x^2+x)*
 
-> La somma dei valori reali di $x$ tale che $x^2 + x + 1 = 156/(x^2 + x)$ è:
-> 
+> La somma dei valori reali di $x$ tali che $x^2 + x + 1 = 156/(x^2 + x)$ è:
+>
 > **A)** 13 $\quad$ **B)** 6 $\quad$ **C)** $-1$ $\quad$ **D)** $-2$ $\quad$ **E)** $-6$
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n3_f1#q21|src_obm_2001_n3_f1__Q21]]
 
 
 
@@ -717,13 +819,18 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto ABC; massimo della somma delle distanze da un punto interno/frontaliero ai tre lati*
+*Triangolo acuto ABC; massimo della somma delle distanze da un punto interno o di bordo ai tre lati*
 
-> Per ciascun punto appartenente all'interno e ai lati di un triangolo acuto $ABC$, considera la somma delle sue distanze verso i tre lati del triangolo. Il valore massimo di tale somma è pari a:
-> 
-> **A) ** la media aritmetica delle 3 altitudini del triangolo. $\quad$ **B) ** il lato più lungo del triangolo. $\quad$ **C) ** l'altitudine più alta del triangolo. $\quad$ **D) ** tre volte il raggio del cerchio inscritto nel triangolo. $\quad$ **E) ** il diametro del cerchio circondato intorno al triangolo.
+> Per ogni punto appartenente all'interno e ai lati di un triangolo acuto $ABC$, si consideri la somma delle sue distanze dai tre lati del triangolo. Il valore massimo di questa somma è uguale a:
+>
+> **A)** la media aritmetica delle 3 altezze del triangolo. $\quad$ **B)** il lato più lungo del triangolo. $\quad$ **C)** la più grande altezza del triangolo. $\quad$ **D)** tre volte il raggio del cerchio inscritto nel triangolo. $\quad$ **E)** il diametro del cerchio circoscritto al triangolo.
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n3_f1#q22|src_obm_2001_n3_f1__Q22]]
 
 
 
@@ -749,13 +856,18 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 <div class="qlang-split" data-lang="it"></div>
 
 
-*f:Z a Z, f(x)=x/10 se 10 divide x altrimenti x+1; a0=2001, n più piccolo con a_n=1*
+*f:Z in Z, f(x)=x/10 se 10 divide x, altrimenti x+1; a0=2001, minimo n tale che a_n=1*
 
-> $f$ deve essere una funzione da $\mathbb{Z}$ a $\mathbb{Z}$ definita da $f(x) = x/10$ se $x$ è divisibile per 10 e $f(x) = x + 1$ altrimenti. Se $a_0 = 2001$ e $a_{n+1} = f(a_n)$, qual è il valore più piccolo di $n$ per il quale $a_n = 1$?
-> 
-> **A) ** 20 $\quad$ **B) ** 38 $\quad$ **C) ** 93 $\quad$ **D) ** 2000 $\quad$ **E) ** $a_n$ non è mai uguale a 1
+> Sia $f$ una funzione da $\mathbb{Z}$ a $\mathbb{Z}$ definita da $f(x) = x/10$ se $x$ è divisibile per 10 e da $f(x) = x + 1$ altrimenti. Se $a_0 = 2001$ e $a_{n+1} = f(a_n)$, qual è il valore minimo di $n$ per cui vale $a_n = 1$?
+>
+> **A)** 20 $\quad$ **B)** 38 $\quad$ **C)** 93 $\quad$ **D)** 2000 $\quad$ **E)** $a_n$ non è mai uguale a 1
 
-**Risposta:** B
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n3_f1#q23|src_obm_2001_n3_f1__Q23]]
 
 
 
@@ -782,15 +894,19 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCDEF esagono tangenziale; AB=1,BC=2,CD=3,DE=4,EF=5; trovare FA*
+*Esagono tangenziale ABCDEF; AB=1, BC=2, CD=3, DE=4, EF=5; trova FA*
 
-> L'esagono $ABCDEF$ è circonscrivibile (tangenziale). Se $AB = 1$, $BC = 2$, $CD = 3$, $DE = 4$ e $EF = 5$, quanto misura $FA$?
-> 
+> L'esagono $ABCDEF$ è circoscrivibile (tangenziale). Se $AB = 1$, $BC = 2$, $CD = 3$, $DE = 4$ e $EF = 5$, quanto misura $FA$?
+>
 > **A)** 1 $\quad$ **B)** 3 $\quad$ **C)** $\dfrac{15}{8}$ $\quad$ **D)** 6 $\quad$ **E)** 9
 
 ![[src_obm_2001_n3_f1__q24.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n3_f1#q24|src_obm_2001_n3_f1__Q24]]
 
 
 
@@ -816,10 +932,15 @@ Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo pall
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC, AB=5, BC=6; massimizza l'angolo C; trova la superficie*
+*Triangolo ABC, AB=5, BC=6; massimizzare l'angolo C; trovare l'area*
 
-> In triangolo $ABC$, $AB = 5$ e $BC = 6$. Qual è l'area del triangolo $ABC$, sapendo che l'angolo $\hat{C}$ ha la misura più grande possibile?
-> 
+> Nel triangolo $ABC$, $AB = 5$ e $BC = 6$. Qual è l'area del triangolo $ABC$, sapendo che l'angolo $\hat{C}$ ha la misura massima possibile?
+>
 > **A)** 15 $\quad$ **B)** $5\sqrt{7}$ $\quad$ **C)** $\dfrac{7\sqrt{7}}{2}$ $\quad$ **D)** $3\sqrt{11}$ $\quad$ **E)** $\dfrac{5\sqrt{11}}{2}$
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n3_f1#q25|src_obm_2001_n3_f1__Q25]]

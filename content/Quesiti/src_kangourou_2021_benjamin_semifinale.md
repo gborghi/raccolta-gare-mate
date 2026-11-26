@@ -44,15 +44,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max rooms to be visited in the triangle of 16 rooms*
+*How many rooms can you visit at most?*
 
 ![[src_kangourou_2021_benjamin_semifinale__prob1.png]]
 
-> (2 points) In the figure you see a large triangle divided into 16 small triangles. Imagine that each small triangle represents a room and that the bars on its sides represent as many doors that allow you to pass from one room to the adjacent ones. By choosing appropriately the room from which to start, how many rooms can you visit at most by passing once from each room you visit?
->   
-> A) 9 B) 10 C) 11          D) 12 E) 13
+> (2 points) The picture shows a large triangle divided into 16 small triangles. Imagine that each small triangle is a room, and that the bars on its sides are doors that let you pass from one room to the adjacent ones. By choosing the starting room suitably, how many rooms can you visit at most, passing only once through each room you visit?
+>
+> A) 9
+> B) 10
+> C) 11
+> D) 12
+> E) 13
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q01|src_kangourou_2021_benjamin_semifinale__Q01]]
 
 
 
@@ -87,21 +96,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit numbers from 337337 by deleting two*
+*How many different four-digit numbers can be obtained?*
 
-> (3 points) How many different four-digit numbers can be obtained from 337337 by deleting two digits?
->   
+> (3 points) How many different four-digit numbers can be obtained from 337337 by deleting two of its digits?
+>
 > A) 6
->   
 > B) 7
->   
 > C) 8
->   
 > D) 9
->   
 > E) 10
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q02|src_kangourou_2021_benjamin_semifinale__Q02]]
 
 
 
@@ -131,13 +141,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many rabbits eat carrots today?
+*How many rabbits will eat carrots today?*
 
-> (3 points) Bianca has 20 rabbits: she feeds 9 of them carrots every day, the others only one day yes and one no, not necessarily all on the same day. Yesterday 16 rabbits ate carrots. How many rabbits will eat carrots today?
->   
-> A) 9 B) 13 C) 14 D) 15 E) The information is insufficient.
+> (3 points) Bianca has 20 rabbits: she feeds carrots to 9 of them every day, and to the others only every other day, not necessarily all on the same day. Yesterday 16 rabbits ate carrots. How many rabbits will eat carrots today?
+>
+> A) 9
+> B) 13
+> C) 14
+> D) 15
+> E) The information is not enough.
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q03|src_kangourou_2021_benjamin_semifinale__Q03]]
 
 
 
@@ -173,19 +192,22 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to add numbers 1..8 to get 30*
+*In how many different ways can you meet the request?*
 
-> (4 points) You have to add up some of the eight natural numbers from 1 to 8 so you get 30. If each number cannot be used more than once, how many different ways can you meet the request? (The addition of the same addends in a different order should not be considered as a different way).
->   
+> (4 points) You have to add some of the eight natural numbers from 1 to 8 so as to obtain 30 as the sum. If each number may be used at most once, in how many different ways can you meet the request? (Adding the same summands in a different order must not be counted as a different way.)
+>
 > A) 4
->   
 > B) 6
->   
 > C) 8
->   
-> D) 10 E) 12
+> D) 10
+> E) 12
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q04|src_kangourou_2021_benjamin_semifinale__Q04]]
 
 
 
@@ -222,21 +244,22 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max figures 1 in the first 15 digits of the alignment*
+*How many digits 1 can that number N contain at most?*
 
-> (4 points) Ada has 10,000 cards, each containing a different number from 1 to 10,000 included. It aligns them (not necessarily in a predetermined order) and then reads the first
-> 
-> 15 digits of the alignment as if they were a single number N. How many digits 1 can contain that number N at most?
->   
+> (4 points) Ada has 10,000 cards, on each of which a different number from 1 to 10,000 inclusive is written. She lines them up (not necessarily in a fixed order) and then reads the first 15 digits of the line as if they were a single number N. How many digits 1 can that number N contain at most?
+>
 > A) 11
->   
 > B) 12
->   
-> C) 13 D) 14
->   
+> C) 13
+> D) 14
 > E) 15
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q05|src_kangourou_2021_benjamin_semifinale__Q05]]
 
 
 
@@ -274,17 +297,22 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum minutes to cross the Tibetan Bridge*
+*How many minutes will they take at least?*
 
-> (4 points) Anna, Bob, Carla and Doris have to cross a river on a Tibetan bridge, where no more than two people can cross at a time; it is dark and therefore a flashlight is required for crossing, but they only have one that can accommodate two people and cannot throw it from one side of the river to the other. How many minutes will it take at least to get everyone across if it takes Anna 8 minutes to cross, Bob 7, Carla 5 and Doris 4 and, of course, if two friends cross together, they do it at the slowest speed?
->   
+> (4 points) On the way back from an outing, Anna, Bob, Carla and Doris have to cross a river on a rope bridge, on which at most two people can go at a time. It is dark, so a torch is needed for the crossing, but they have only one, which can serve two people, and they cannot throw it from one side of the river to the other. How many minutes will they take at least for everyone to get to the other bank, if Anna takes 8 minutes to cross, Bob 7, Carla 5 and Doris 4, and, of course, if two friends cross together they do so at the speed of the slower one?
+>
 > A) 24
->   
 > B) 27
->   
-> C) 28 D) 29 E) 32
+> C) 28
+> D) 29
+> E) 32
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q06|src_kangourou_2021_benjamin_semifinale__Q06]]
 
 
 
@@ -323,17 +351,28 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Certainly false claim (Lisa's euro)*
+*Which statement is certainly false?*
 
-> (5 points) If of the following three statements a) Lisa has more than 2021 euros b) Lisa has less than 2021 euros c) Lisa has at least 1 euro one and only one is true, which of the following statements is definitely false? A) Lisa has 2021 euros.
->   
-> B) Lisa has no euro.
->   
+> (5 points) If, of the following three statements
+>
+> a) "Lisa has more than 2021 euros"
+> b) "Lisa has fewer than 2021 euros"
+> c) "Lisa has at least 1 euro"
+>
+> exactly one is true, which of the following statements is certainly false?
+>
+> A) Lisa has 2021 euros.
+> B) Lisa has no euros at all.
 > C) Lisa has 1000 euros.
->  
-> (D) Claim (c) is false. E) The statement c) is true.
+> D) Statement c) is false.
+> E) Statement c) is the true one.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q07|src_kangourou_2021_benjamin_semifinale__Q07]]
 
 
 
@@ -366,20 +405,22 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remainder when dividing by 9 of the number formed by placing 21..0 side by side*
+*What is the remainder on division by 9?*
 
-> (5 points) What is the remainder of the division by 9 of the number  
-> 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0,  
-> obtained by placing side by side the digits of the first 22 natural numbers in decreasing order?  
->   
-> A) 0   
->   
-> B) 2      
-> C) 4      
-> D) 6      
+> (5 points) What is the remainder on division by 9 of the number 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0, obtained by placing side by side the digits of the first 22 natural numbers in decreasing order?
+>
+> A) 0
+> B) 2
+> C) 4
+> D) 6
 > E) 8
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q08|src_kangourou_2021_benjamin_semifinale__Q08]]
 
 
 
@@ -417,21 +458,21 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum speed ratio between Sandro and Carlo without overtaking*
+*What is the greatest possible value of that ratio?*
 
-> Carlo likes to run, Sandro likes to ride a bicycle. They want to train on the same road, 1.5 km long: Sandro leaves at the beginning of the road, Carlo 1 km ahead. They start at the same moment, they go in the same direction, and each one moves at a constant speed. If Sandro doesn't overtake Carlo, what is the maximum value of the ratio between Sandro's speed and Carlo's speed?
->   
+> (6 points) Carlo likes running, Sandro likes cycling. They want to train on the same road, 1,5 km long: Sandro starts at the beginning of the road, Carlo 1 km further on. They start at the same moment, go in the same direction, and each moves at constant speed. If Sandro does not overtake Carlo, what is the greatest possible value of the ratio of Sandro's speed to Carlo's?
+>
 > A) 3
->   
-> B) 2 C) 1,75
->   
+> B) 2
+> C) 1,75
 > D) 1,7
->   
 > E) 1,5
->   
-> Open-ended questions
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q09|src_kangourou_2021_benjamin_semifinale__Q09]]
 
 
 
@@ -458,11 +499,16 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Matches won by Edward in the card game*
+*How many games did Edoardo win?*
 
-> Edward, Susanna and Teresa are playing cards. At the end of each match, there are no ties: the winner earns 3 points, the second-placed 1 point while the third-placed does not earn points. After four games, Susanna has 4 points and Teresa 3. How many games has Edward won?
+> (4 points) Edoardo, Susanna and Teresa play cards. At the end of each game there are no ties: the winner scores 3 points, the one who comes second scores 1 point, and the one who comes third scores nothing. After four games Susanna has 4 points and Teresa 3. How many games did Edoardo win?
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 13
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q10|src_kangourou_2021_benjamin_semifinale__Q10]]
 
 
 
@@ -487,11 +533,16 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Max tosses to make sure a number goes out 3 times
+*How many throws might be needed at most?*
 
-> (5 points) How many times at most might it be necessary to roll a die to make sure that at least one number comes out 3 times?
+> (5 points) How many times at most might it be necessary to throw a die to be sure that at least one number comes up 3 times?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 13
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q11|src_kangourou_2021_benjamin_semifinale__Q11]]
 
 
 
@@ -519,15 +570,21 @@ Max tosses to make sure a number goes out 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coins in each chest (<270 and >200 for 3)*
+*How many coins does each chest contain?*
 
-> (5 points) A pirate has 4 chests, each containing the same number of gold coins. He knows
-> that
-> • in total, the four chests contain fewer than 270 coins;
-> • 3 of them, no matter how he chooses them, contain more than 200 coins.
+> (5 points) A pirate has 4 chests, each containing the same number of gold coins. He knows that
+>
+> - altogether, the four chests contain fewer than 270 coins;
+> - any 3 of them contain more than 200 coins.
+>
 > How many coins does each chest contain?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 67
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q12|src_kangourou_2021_benjamin_semifinale__Q12]]
 
 
 
@@ -551,11 +608,15 @@ Max tosses to make sure a number goes out 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Years since the last year = two consecutive integers joined*
+*How many years have passed since the last time this happened?*
 
-> (6 points) The 2021 number is formed by joining two consecutive integers in increasing order. How many years have passed since the last time this happened?
+> (6 points) The number 2021 is formed by placing side by side two consecutive integers in increasing order. How many years have passed since the last time this happened?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 101
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q13|src_kangourou_2021_benjamin_semifinale__Q13]]
 
 
 
@@ -580,11 +641,16 @@ Max tosses to make sure a number goes out 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max number 4 digits divisible by 6 with increasing digits*
+*What is that largest number?*
 
-> (6 points) What is the greatest number of 4 digits divisible by 6 whose digits are in (strictly) increasing order from left to right?
+> (6 points) What is the largest 4-digit number divisible by 6 whose digits are in (strictly) increasing order from left to right?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 4578
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q14|src_kangourou_2021_benjamin_semifinale__Q14]]
 
 
 
@@ -614,11 +680,16 @@ Max tosses to make sure a number goes out 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Contagious kangaroos on day six*
+*How many infectious kangaroos will there be on the sixth day?*
 
-> (6 points) A new virus has spread on Kangaroo Island, which is home to a thousand kangaroos. Every infected kangaroo has a cold for exactly 5 days after the day it contracted the infection and is contagious only during those five days. Every day during this period the kangaroo infects exactly another kangaroo. The virus was carried by a single kangaroo who caught a cold (and then became contagious) exactly on the day he arrived on the island. Considering that day as the first, how many contagious kangaroos will there be on day six?
+> (6 points) On the island of Kanguria, which is inhabited by about a thousand kangaroos, a new virus has spread. Each infected kangaroo has a cold for exactly the 5 days after the day on which it caught the infection, and only on these five days is it infectious. On each day of that period the infected kangaroo infects exactly one other kangaroo. The virus was brought by a single kangaroo, whose cold broke out (and who therefore became infectious) on the very day of his arrival on the island. Taking that day as the first, how many infectious kangaroos will there be on the sixth day?
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 31
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q15|src_kangourou_2021_benjamin_semifinale__Q15]]
 
 
 
@@ -644,11 +715,16 @@ Max tosses to make sure a number goes out 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The smallest sum of two numbers with nine digits*
+*What is the smallest sum you can obtain in this way?*
 
-> (7 points) The sum of two three-digit numbers, all six of which are different from each other, gives a three-digit number different from the previous ones and different from each other. What's the smallest sum you can get this way? Remember, a three-digit number cannot have 0 as its first digit.
+> (7 points) The sum of two three-digit numbers, all six digits different from one another, is a three-digit number whose digits are different from the previous ones and different from one another. What is the smallest sum you can obtain in this way? Remember that a three-digit number cannot have 0 as its first digit.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 356
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q16|src_kangourou_2021_benjamin_semifinale__Q16]]
 
 
 
@@ -673,12 +749,16 @@ Max tosses to make sure a number goes out 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many slices of pizza did Marco eat*
+*How many slices did he eat?*
 
-> (7 points) A pizza was cut into fewer than 10 slices, all of the same size. Marco ate 
-> some of them: in total more than  but less than  of the whole pizza. How many slices did he eat?
+> (7 points) A pizza was cut into fewer than 10 slices, all of the same size. Marco ate some of them: in all more than but less than of the whole pizza. How many slices did he eat?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 5
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q17|src_kangourou_2021_benjamin_semifinale__Q17]]
 
 
 
@@ -707,13 +787,17 @@ Max tosses to make sure a number goes out 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of N in (N-1)+...+(N-2021)=1+..+2021*
+*What is N?*
 
-> (8 points) If N is an integer greater than zero and  
-> (N – 1) + (N – 2) + … + (N – 2021) = 1 + 2 + … + 2021  
-> what is the value of N?  
->   
-> Answers  
-> A  0003  0013  0067  0101  4578  0031  0356  0005  2022
+> (8 points) If N is an integer greater than zero and
+>
+> (N – 1) + (N – 2) + … + (N – 2021) = 1 + 2 + … + 2021
+>
+> what is N?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 2022
+[[Quesiti/src_kangourou_2021_benjamin_semifinale#q18|src_kangourou_2021_benjamin_semifinale__Q18]]

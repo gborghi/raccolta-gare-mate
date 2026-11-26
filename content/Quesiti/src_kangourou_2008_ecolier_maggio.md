@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How long ago were the same 4 digits on the watch*
+*How long ago were the same 4 digits on the clock?*
 
-> There's always four digits on my digital watch. It's now 20:08. How long ago did the same four digits last appear before now on my watch (not necessarily in the same order)?
+> On my digital watch, four digits always appear. Right now it shows 20:08. How long ago did the same four digits last appear on my watch before now (not necessarily in the same order)?
 
-**Answer:** 11h48m
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_ecolier_maggio#qe1|src_kangourou_2008_ecolier_maggio__QE1]]
 
 
 
@@ -64,11 +68,15 @@ level: kangourou
 
 ![[src_kangourou_2008_ecolier_maggio__probe2.png]]
 
-> In the underlying grid the $=$ symbol cannot be removed, but two boxes can be removed so that the resulting equality is verified. Write that equation.
-> 
-> The grid contains the following boxes in sequence: $2$, $\times$, $7$, $+$, $8$, $=$, $7$, $1$, $\times$, $5$.
+> In the grid below, the symbol $=$ cannot be removed, but two cells can be removed so that the resulting equality holds. Write that equality.
+>
+> The grid contains the following cells in sequence: $2$, $\times$, $7$, $+$, $8$, $=$, $7$, $1$, $\times$, $5$.
 
-**Answer:** equality
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_ecolier_maggio#qe2|src_kangourou_2008_ecolier_maggio__QE2]]
 
 
 
@@ -96,15 +104,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum colours in 10 distinct bags*
+*Maximum colors in 10 separate bags*
 
-> A toy shopkeeper has, in large quantity, marbles of 10 different colours; he wants to make up 10 bags of marbles so that:
-> - the number of colours present in each bag is the same;
-> - different bags differ by the colour of at least one marble.
-> 
-> What is the maximum number of colours that can be present in the bags?
+> A toy dealer has large quantities of marbles in 10 different colors; they want to pack 10 bags of marbles so that:
+> - the number of colors present in each bag is the same;
+> - different bags differ in the color of at least one marble.
+>
+> What is the maximum number of colors that can be present in the bags?
 
-**Answer:** 9
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_ecolier_maggio#qe3|src_kangourou_2008_ecolier_maggio__QE3]]
 
 
 
@@ -127,11 +140,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of n^2 with n>2008*
+*Sum of the minimum values of n^2 with n>2008*
 
-> Anna is playing like this: she picks an integer greater than $2008$, multiplies it by itself and sums all the digits of the result she found. What's the lowest sum she could get?
+> Anna is playing like this: she chooses an integer greater than $2008$, multiplies it by itself, and adds up all the digits of the result she gets. What is the lowest sum she could obtain?
 
-**Answer:** 1
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_ecolier_maggio#qe4|src_kangourou_2008_ecolier_maggio__QE4]]
 
 
 
@@ -157,13 +174,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-After all those seconds, Pimpy's back next to Arturo.
+*After how many seconds will Pimpy be next to Arturo again?*
 
 ![[src_kangourou_2008_ecolier_maggio__probe5.png]]
 
-> Arthur the Kangaroo and his little sister Pimpy are playing a run on the outline of an equilateral triangle-shaped flowerbed. They both make one jump every second, but Arthur covers the distance on one side with 10 jumps while Pimpy needs 15 jumps. If they start together and they both continue to run in the same direction, after how many seconds does Pimpy find herself next to Arthur again for the first time?
+> Arturo the kangaroo and his little sister Pimpy are playing a running game around the perimeter of a triangular flower bed that is equilateral. Both of them jump once every second, but Arturo covers the length of one side in 10 jumps, whereas Pimpy needs 15 jumps. If they start together and both keep running in the same direction, after how many seconds will Pimpy first be alongside Arturo again?
 
-**Answer:** 90
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_ecolier_maggio#qe5|src_kangourou_2008_ecolier_maggio__QE5]]
 
 
 
@@ -188,10 +210,14 @@ After all those seconds, Pimpy's back next to Arturo.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cutting and reconstituting the cake (two cuts)*
+*Cut and reassemble the cake (two cuts)*
 
 ![[src_kangourou_2008_ecolier_maggio__probe6.png]]
 
-> Claudio was commissioned to make a large cake in the shape of a triangle drawn on the square sheet on the right (the side of each square is 5 centimeters). After filling it with cream, Claudio realizes that it is the right size, but the shape drawn on the left. Of course the cake can't be turned upside down! His assistant suggests that in order to satisfy the customer, before covering it with the icing, he should cut two large slices and place them differently next to what remains of the cake. If you were Claudio, what would you do? (see figure)
+> Confectioner Claudio has been commissioned to make a large cake shaped like the triangle drawn on the grid paper on the right (each square side represents 5 centimetres). After filling the cake with cream, Claudio realizes that he has made it the right size but in the shape drawn on the left. Naturally, the cake can't be turned upside down! His assistant suggests that, to satisfy the customer, all Claudio has to do—before covering the cake with icing—is cut out two large slices and join them to what's left of the cake in a different arrangement. If you were in Claudio's shoes, what would you do? (see figure)
 
-**Answer:** construction
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_ecolier_maggio#qe6|src_kangourou_2008_ecolier_maggio__QE6]]

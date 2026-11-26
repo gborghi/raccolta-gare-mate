@@ -37,13 +37,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded fraction of the regular hexagon*
+*What fraction of the hexagon is shaded?*
 
 ![[src_kangourou_2020_squadre_finale__prob1.png]]
 
-> Shaded fraction Each side of a regular hexagon has been divided into three segments of equal length. The subdivision points have been connected in pairs by segments as shown in the figure. What fraction of the hexagon is shaded? (Use the first two digits left for the numerator, the other for the denominator: for example, for 3/5 write 0305.)
+> Shaded fraction
+>
+> Each side of a regular hexagon has been divided into three segments of equal length. The division points have been joined in pairs by segments, as the picture shows. What fraction of the hexagon is shaded? (Use the first two digits from the left for the numerator and the other two for the denominator: for example, for 3/5 write 0305.)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0209
+[[Quesiti/src_kangourou_2020_squadre_finale#q01|src_kangourou_2020_squadre_finale__Q01]]
 
 
 
@@ -69,11 +76,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in place of 2020 of repeated odd sequences*
+*What number is in place 2020?*
 
-> What is the number in position 2020 of the sequence 1, 3, 3, 3, 5, 5, 5, 5, 5, 7, 7, ... where all and only the odd integers appear, in increasing order and each one a number of times equal to itself?
+> In place 2020
+>
+> What is the number in place 2020 of the sequence 1, 3, 3, 3, 5, 5, 5, 5, 5, 7, 7, … in which all the odd integers appear, and only those, in increasing order, each of them as many times as itself?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0089
+[[Quesiti/src_kangourou_2020_squadre_finale#q02|src_kangourou_2020_squadre_finale__Q02]]
 
 
 
@@ -100,11 +114,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Of the numbers Darius must guess the sum*
+*Among how many numbers must Dario guess?*
 
-> Carla's conundrum has 100 leaflets, each of which has a number that can only be 1 or -1. Carla asks Darius to guess the sum (algebraic) of all the numbers that appear on her 100 leaflets. How many numbers is Darius forced to guess?
+> The riddle
+>
+> Carla has 100 slips of paper: on each of them a number is written, and it can only be 1 or −1. Carla asks Dario to guess the (algebraic) sum of all the numbers on her 100 slips. Among how many numbers is Dario forced to guess?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0101
+[[Quesiti/src_kangourou_2020_squadre_finale#q03|src_kangourou_2020_squadre_finale__Q03]]
 
 
 
@@ -132,15 +153,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First digits of the difference between the sums of D and P*
+*What are the first four digits of that difference?*
 
-> Odd versus even
-> From the set of all integers between 1000 and 9999 inclusive, imagine selecting the subset
-> D of those whose digits are all odd and the subset P of those whose digits are all even. Now
-> imagine adding all the numbers in D and, separately, all the numbers in P. What are the first
-> four digits from the left of the difference between the two sums?
+> Odd against even
+>
+> From the set of all integers between 1000 and 9999 inclusive, imagine selecting the subset D of those whose digits are all odd, and the subset P of those whose digits are all even. Now imagine adding up all the numbers in D and, separately, all the numbers in P. What are the first four digits from the left of the difference of the two sums?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 7498
+[[Quesiti/src_kangourou_2020_squadre_finale#q04|src_kangourou_2020_squadre_finale__Q04]]
 
 
 
@@ -168,11 +192,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trees planted in March 2017*
+*How many trees were planted in March 2017?*
 
-> Trees A March 2017 along an avenue trees were planted, very far apart. In March 2018, another one was planted between each of the two adjacent ones. The same operation was repeated in March for the next two years. To date, 81 trees have been planted since March 2017 (in addition to the ones we are talking about, no others have been planted). How many trees were planted in March 2017?
+> The trees
+>
+> In March 2017 trees were planted along an avenue, widely spaced. In March 2018 another tree was planted between every two adjacent ones. The same operation was repeated in March in the two following years. Today the trees planted from March 2017 onwards number 81 (apart from the ones we are talking about, no others have been planted). How many trees were planted in March 2017?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0011
+[[Quesiti/src_kangourou_2020_squadre_finale#q05|src_kangourou_2020_squadre_finale__Q05]]
 
 
 
@@ -200,11 +231,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spectators with remainder 1 mod 2..6 and divisible by 7*
+*How many spectators are there?*
 
-> In a theater there are more than 1,000 spectators, but less than 1,500. If they're divided into groups of two, or three, or four, or five, or six, there's always exactly one viewer out. If they are divided into groups of seven people, no one is left out. How many spectators are there?
+> At the theatre
+>
+> In a theatre there are more than 1000 spectators, but fewer than 1500. If they are split into groups of 2 people, or of 3, or of 4, or of 5, or of 6, exactly one spectator is always left out. If instead they are split into groups of 7, nobody is left out. How many spectators are there?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 1141
+[[Quesiti/src_kangourou_2020_squadre_finale#q06|src_kangourou_2020_squadre_finale__Q06]]
 
 
 
@@ -233,11 +271,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of the largest triangle with 2020 cm of wire*
+*How long is the side of the largest such triangle?*
 
-> The largest triangle You can get an equilateral triangle of 3 cm side by placing 9 equilateral triangles of 1 cm each side. By placing a larger number of equilateral triangles, each of side 1, with the same criterion, larger equilateral triangles can be obtained. You want to cover with a rigid thread all the segments that appear in the figure obtained, but you only have 2020 cm of thread (which, if necessary, can be cut). How many centimeters is the length of the side of the largest triangle on which you can do this operation?
+> The largest triangle
+>
+> An equilateral triangle of side 3 cm can be made by placing side by side 9 equilateral triangles each of side 1 cm. By placing side by side, in the same way, a larger number of equilateral triangles each of side 1, larger equilateral triangles can be obtained. You want to cover with a stiff wire every segment that appears in the figure obtained, but you have only 2020 cm of wire (which, if necessary, may be cut). How many centimetres long is the side of the largest triangle on which you can do this?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Answer:** 0036
+[[Quesiti/src_kangourou_2020_squadre_finale#q07|src_kangourou_2020_squadre_finale__Q07]]
 
 
 
@@ -268,11 +312,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum line reversals for 2020 red tokens*
+*What is the least number of line flips?*
 
-> On a rectangular chessboard of 100 × 50 there are 5000 tokens, one on each square. Each token has a black face and a red face, and right now all the tokens show the black face. The game consists of flipping tokens so that a set number of red faces appear. One rule: to flip a token you have to flip all the tokens of the row or, if you choose, the column to which the token belongs. You can flip all the lines you want, as many times as you want. What is the minimum number of line flips that allows you to see exactly 2020 red tokens?
+> Counters
+>
+> On a rectangular 100 × 50 chessboard, 5000 counters are placed, one on each square. Each counter has a black face and a red face, and at the moment every counter shows the black face. The game consists in flipping counters so that a prescribed number of red faces appear. The only rule: to flip a counter you must flip every counter in its row or, if you prefer, in its column. You may flip as many lines as you like, as many times as you like. What is the least number of line flips that lets you see exactly 2020 red counters?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0022
+[[Quesiti/src_kangourou_2020_squadre_finale#q08|src_kangourou_2020_squadre_finale__Q08]]
 
 
 
@@ -316,31 +367,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of the rectangular panes of the window*
+*How many centimetres high is each rectangular pane?*
 
 ![[src_kangourou_2020_squadre_finale__prob9.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.04]
-  \draw[thick] (-125,0) -- (125,0);
-  \draw[thick] (125,0) arc (0:180:125);
-  \foreach \x in {-100,-75,-50,-25,0,25,50,75,100} {
-    \draw (\x,0) -- (\x,{sqrt(125*125-\x*\x)});
-  }
-  \draw[thick] (-100,75) -- (100,75);
-\end{tikzpicture}
-\end{document}
-```
+> The window
+>
+> The picture shows the plan of a semicircular window closed with glazing, made up of the panes of glass that are marked. The bases (horizontal sides) of the panes all have the same length, one tenth of the diameter, which measures 250 centimetres. How many centimetres is the height of each of the rectangular panes?
 
-> The window 
-> The figure shows you the pattern of a semicircular window closed with 
-> a window, made up of the glass panes that are highlighted. 
-> The bases (horizontal sides) of the panes all have the same length, 
-> one tenth of the diameter, which measures 250 centimetres. How many centimetres 
-> does the height of each of the rectangular panes measure?
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0075
+[[Quesiti/src_kangourou_2020_squadre_finale#q09|src_kangourou_2020_squadre_finale__Q09]]
 
 
 
@@ -366,13 +406,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sofia's age with (x-55)(x+55) cube of a prime*
+*How old is Sofia?*
 
-> Sofia's age 
-> Sofia made a calculation: if she multiplies the age (in years) she had 55 years ago by the age she would have in 55 
-> years if she were still alive, she obtains a number that is the cube of a prime number. How old is Sofia?
+> Sofia's age
+>
+> Sofia has done a calculation: if she multiplies the age (in years) she had 55 years ago by the age she would have in 55 years' time if she were still alive, she gets a number that is the cube of a prime number. How old is Sofia?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0066
+[[Quesiti/src_kangourou_2020_squadre_finale#q10|src_kangourou_2020_squadre_finale__Q10]]
 
 
 
@@ -397,11 +442,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of a^3+b^3 given that a^3-b^3=485*
+*What is a cubed plus b cubed?*
 
-> Sum of cubes Two positive integers a and b are such that a3 - b3 = 485. How much is a3 + b3 ?
+> Sum of cubes
+>
+> Two positive integers a and b are such that a3  b3 = 485. What is a3 + b3?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0539
+[[Quesiti/src_kangourou_2020_squadre_finale#q11|src_kangourou_2020_squadre_finale__Q11]]
 
 
 
@@ -429,11 +481,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the two wrong numbers in the progression*
+*What is the sum of the two numbers Sandro got wrong or forgot?*
 
-> Six whole numbers were written in arithmetic progression (i.e. the difference of each, except the first, with the previous one was always the same). In copying them, Sandro the scatterbrain not only forgot one, but he also mistook another. So he wrote, 11, 25, 32, 37, 46. What is the sum of the two numbers in the initial progression that Sandro got wrong or forgot?
+> Sandro the muddler
+>
+> Six integers were written in arithmetic progression (that is, the difference between each of them, apart from the first, and the one before it was always the same). In copying them, Sandro the muddler not only forgot one, but also got another wrong. So he wrote: 11, 25, 32, 37, 46. What is the sum of the two numbers of the original progression that Sandro got wrong or forgot?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0057
+[[Quesiti/src_kangourou_2020_squadre_finale#q12|src_kangourou_2020_squadre_finale__Q12]]
 
 
 
@@ -463,11 +522,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of distinct tickets (5 squares 4 colours rotating)*
+*At most how many participants can be admitted?*
 
-> Tickets Rectangular tickets are used to identify each participant in a competition. One face is gray, equal for all; the other is divided into 5 aligned squares (congruent) which can be coloured with 4 different colours available; these colours can be used in any position, even partially (e.g. it is possible that only one colour is used in a ticket). There are no other marks on the tickets. How many participants can be admitted at most?
+> Slips
+>
+> Rectangular slips are used to identify each participant in a contest. One face is grey, the same for everyone; the other is divided into 5 aligned squares (congruent) that may be coloured using 4 different colours. These colours may be used in any position, and not all of them need be used (for example, a slip may use only one colour). There are no other distinguishing marks on the slips. At most how many participants can be admitted?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0544
+[[Quesiti/src_kangourou_2020_squadre_finale#q13|src_kangourou_2020_squadre_finale__Q13]]
 
 
 
@@ -494,11 +560,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many safe deposit boxes for 44100*
+*How many safes are used in all?*
 
-> The loot A loot of 44,100 gold coins is divided into bags: one of 1, one of 3, one of 5, one of 7 coins ... and so on. One of the bags is then placed in a safe, two of the remaining bags together in another safe, three of the remaining bags together in a third safe and so on. How many safes are there in total?
+> The loot
+>
+> A war hoard of 44,100 gold coins is shared into bags: one of 1, one of 3, one of 5, one of 7 coins, and so on. One of the bags is then put in a safe, two of the remaining ones together in another safe, three of the remaining ones together in a third safe, and so on. How many safes are used in all?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0020
+[[Quesiti/src_kangourou_2020_squadre_finale#q14|src_kangourou_2020_squadre_finale__Q14]]
 
 
 
@@ -530,11 +602,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum cost for roses and tulips 2020 chairs
+*What is the greatest expense he might have to meet?*
 
-> Roses and tulips A politician organizes a party in a huge square where they are arranged in a circle 2020 chairs. The politician knows that all the seats will be occupied and that the participants will sit down so that every woman has at least one man by her side. He decides to give every woman a rose and every man a tulip, which he will order to a florist once the chairs are occupied. A rose costs him three euros, a tulip two euros. What is the maximum expenditure in euro that he may have to pay?
-> 
->  
-> Questions and solutions
+> Roses and tulips
+>
+> A politician is organising a party in a huge square where 2020 chairs are arranged in a circle. He knows that every chair will be taken, and that the guests will sit so that every woman has at least one man beside her. He decides to give every woman a rose and every man a tulip, which he will order from a florist once the chairs are taken. A rose costs him 3 euros, a tulip 2 euros. What is the greatest expense in euros that he might have to meet?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 5386
+[[Quesiti/src_kangourou_2020_squadre_finale#q15|src_kangourou_2020_squadre_finale__Q15]]

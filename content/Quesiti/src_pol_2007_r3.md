@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto con circoncentro e altitudine; dimostrare un rapporto di uguaglianza che coinvolge intersezioni perpendicolari del piede.*
+*Triangolo acutangolo, circocentro, altezza e punto medio: un rapporto di segmenti uguaglia AD/DB*
 
-> In un triangolo acuto $ABC$ il punto $O$ è il centro circostante, $CD$ è l'altitudine, $E$ un punto laterale $AB$ e $M$ il punto medio di $CE$. La perpendicolare a $OM$ a $M$ incrocia rispettivamente le linee $AC$ e $BC$ a $K$ e $L$. Prove che $\frac{LM}{MK} = \frac{AD}{DB}$.
+> In un triangolo acutangolo $ABC$, il punto $O$ è il circocentro, $CD$ è l'altezza, $E$ un punto sul lato $AB$ e $M$ il punto medio di $CE$. La perpendicolare a $OM$ in $M$ interseca le rette $AC$ e $BC$ in $K$ e $L$ rispettivamente. Dimostrare che $\frac{LM}{MK} = \frac{AD}{DB}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2007_r3#q01|src_pol_2007_r3__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieri positivi bianchi/neri definiti con parità del numero di fattori primi; esistenza di numeri interi con somma uguale di divisori bianchi e neri.*
+*Interi bianchi e neri secondo la parità del numero di fattori primi: esiste un intero con somme dei divisori dei due tipi uguali?*
 
-> Si dice che un intero positivo sia $white$ se è uguale a 1 o a un prodotto di un numero pari di fattori primi (non necessariamente distinti). Altri integri positivi sono denominati $black$. Esiste un numero intero positivo la cui somma dei divisori bianchi è uguale alla somma dei divisori neri?
+> Un intero positivo si dice $white$ se è uguale a 1 oppure al prodotto di un numero pari di fattori primi, non necessariamente distinti. Gli altri interi positivi si dicono $black$. Esiste un intero positivo per cui la somma dei divisori del primo tipo è uguale alla somma dei divisori del secondo tipo?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2007_r3#q02|src_pol_2007_r3__Q02]]
 
 
 
@@ -79,9 +91,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Plano diviso in quadrati unitari riempiti di una biiezione da numeri interi positivi; decidere se ogni numero può dividere la somma dei suoi quattro vicini.*
+*Si può scrivere ogni intero positivo una volta sola sui quadrati del piano, in modo che ciascuno divida la somma dei quattro vicini?*
 
-> Un piano è diviso in unità quadrate. Un intero positivo deve essere scritto in ogni quadrato unitario in modo che ogni intero positivo si verifichi esattamente una volta. Decidi se questo può essere fatto in modo tale che il numero in ogni quadrato divida la somma dei numeri nei quattro quadrati vicini.
+> Un piano è diviso in quadrati unitari. In ogni quadrato si deve scrivere un intero positivo, così che ogni intero positivo compaia esattamente una volta. Stabilire se si può fare in modo che il numero di ogni quadrato divida la somma dei numeri dei quattro quadrati vicini.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_pol_2007_r3#q03|src_pol_2007_r3__Q03]]
 
 
 
@@ -104,9 +122,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare il numero dei valori possibili del prodotto km per i numeri interi con n^2 <= k <= m <= (n+1)^2.*
+*Per n almeno 1, quanti valori distinti assume il prodotto km con n^2 ≤ k ≤ m ≤ (n+1)^2*
 
-> Date un numero intero $n \ge 1$, trovare il numero dei valori possibili del prodotto $km$, dove $k$ e $m$ sono numeri interi con $n^2 \le k \le m \le (n+1)^2$.
+> Dato un intero $n \ge 1$, trovare il numero dei valori possibili del prodotto $km$, dove $k$ e $m$ sono interi con $n^2 \le k \le m \le (n+1)^2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_pol_2007_r3#q04|src_pol_2007_r3__Q04]]
 
 
 
@@ -132,9 +156,21 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tetraedro con due ugualità di angoli facciali sommati; prova che il centro della circumsfera si trova sulla linea attraverso i punti di mezzo di AB e CD.*
+*Tetraedro con due uguaglianze di somme di angoli: il circocentro sta sulla retta dei punti medi di due spigoli opposti*
 
-> Un tetraedro $ABCD$ è tale che $$\angle BAC + \angle BDC = \angle ABD + \angle ACD,$$ $$\angle BAD + \angle BCD = \angle ABC + \angle ADC.$$ dimostri che il centro della sfera circoscritta del tetraedro si trova sulla linea che attraversa i punti medi di $AB$ e $CD$.
+> Un tetraedro $ABCD$ è tale che
+>
+> $$\angle BAC + \angle BDC = \angle ABD + \angle ACD,$$
+>
+> $$\angle BAD + \angle BCD = \angle ABC + \angle ADC.$$
+>
+> Dimostrare che il centro della sfera circoscritta al tetraedro giace sulla retta passante per i punti medi di $AB$ e di $CD$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2007_r3#q05|src_pol_2007_r3__Q05]]
 
 
 
@@ -159,6 +195,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza reale definita ricursivamente attraverso un'equazione di somma ponderata a partire da a0=-1; dimostrare tutti i termini successivi positivi.*
+*Successione con a_0 = −1 e una relazione lineare sui termini precedenti: i termini successivi sono positivi*
 
-> La sequenza dei numeri reali $a_0, a_1, a_2, \ldots$ è definita da $a_0 = -1$ e $$a_n + \frac{a_{n-1}}{2} + \frac{a_{n-2}}{3} + \cdots + \frac{a_1}{n} + \frac{a_0}{n+1} = 0 \quad \text{for } n \ge 1.$$ Mostra che $a_n > 0$ per $n \ge 1$.
+> La successione di numeri reali $a_0, a_1, a_2, \ldots$ è definita da $a_0 = -1$ e da
+>
+> $$a_n + \frac{a_{n-1}}{2} + \frac{a_{n-2}}{3} + \cdots + \frac{a_1}{n} + \frac{a_0}{n+1} = 0 \quad \text{for } n \ge 1.$$
+>
+> Dimostrare che $a_n > 0$ per $n \ge 1$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2007_r3#q06|src_pol_2007_r3__Q06]]

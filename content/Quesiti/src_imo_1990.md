@@ -38,18 +38,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare EG/EF in funzione di t per la configurazione della circonferenza e della tangente*
+*Trovare EG/EF in funzione di t per la configurazione cerchio-retta tangente*
 
-> Le corde AB e CD di una circonferenza si intersecano in un punto E interno alla circonferenza. Sia M
-> un punto interno al segmento EB. La retta tangente in E alla circonferenza
-> passante per D, E e M interseca le rette BC e AC in F e G rispettivamente.
-> Se
-> AM
-> AB = t,
-> determinare
-> EG
-> EF
-> in funzione di t.
+> Le corde AB e CD di una circonferenza si intersecano in un punto E interno alla circonferenza. Sia M un punto interno al segmento EB. La retta tangente alla circonferenza nel punto E e passante per D, E e M interseca le rette BC e AC rispettivamente nei punti F e G. Se AM/AB = t, determina EG/EF in funzione di t.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1990#q01|src_imo_1990__Q01]]
 
 
 
@@ -75,13 +73,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Più piccolo k tale che ogni colorazione di 2n−1 punti sia buona*
+*Il più piccolo k tale che ogni colorazione di 2n-1 punti sia buona*
 
-> Sia n ≥3 e si consideri un insieme E di 2n −1 punti distinti su una circonferenza. Supponiamo
-> che esattamente k di questi punti debbano essere colorati di nero. Una tale colorazione è “buona”
-> se esiste almeno una coppia di punti neri tale che l'interno di uno dei due
-> archi da essi determinati contenga esattamente n punti di E. Determinare il minimo valore
-> di k tale che ogni colorazione di questo tipo di k punti di E sia buona.
+> Sia n ≥ 3 e si consideri un insieme E di 2n − 1 punti distinti su una circonferenza. Si supponga che esattamente k di questi punti debbano essere colorati in nero. Una tale colorazione è "buona" se esiste almeno una coppia di punti neri tale che l'interno di uno degli archi compresi tra di essi contenga esattamente n punti di E. Si determini il valore minimo di k affinché ogni tale colorazione di k punti di E sia buona.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1990#q02|src_imo_1990__Q02]]
 
 
 
@@ -111,17 +111,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutti gli n>1 tali che n^2 divide 2^n+1*
+*Determinare tutti gli n>1 tali che n^2 divida 2^n+1*
 
 > Determinare tutti gli interi n > 1 tali che
-> 2n + 1
-> n2
-> sia un intero.
-> 
-> XXXI Olimpiade Internazionale di Matematica
-> Pechino, Cina
-> Giorno II
-> 13 luglio 1990
+> 2n + 1 n2 è un numero intero.
+>
+> 31ª Olimpiade Internazionale di Matematica, Pechino, Cina, Seconda giornata, 13 luglio 1990
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_1990#q03|src_imo_1990__Q03]]
 
 
 
@@ -147,11 +148,19 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Costruire una funzione sui razionali positivi tale che f(xf(y))=f(x)/y*
+*Una funzione sui razionali positivi, con formula spezzata*
 
-> Sia ℚ⁺ l'insieme dei numeri razionali positivi. Si costruisca una funzione f : ℚ⁺ → ℚ⁺ tale che
-> f(xf(y)) = f(x)/y
-> per ogni x, y in ℚ⁺.
+> Sia Q+ l'insieme dei numeri razionali positivi. Costruire una funzione f : Q+ →
+> Q+ tale che
+> f(xf(y)) = f(x)
+> y
+> per tutti gli x, y in Q+.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_imo_1990#q04|src_imo_1990__Q04]]
 
 
 
@@ -189,25 +198,21 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*strategie vincenti di n0*
+*Strategie vincenti di n0*
 
-> Dato un intero iniziale n0 > 1, due giocatori, A e B, scelgono a turno degli interi n1, n2,
-> n3, . . . secondo le regole seguenti:
-> noto n2k, A sceglie un qualunque intero n2k+1 tale che
-> n2k ≤n2k+1 ≤n2
-> 2k.
-> Noto n2k+1, B sceglie un qualunque intero n2k+2 tale che
-> n2k+1
-> n2k+2
-> sia un primo elevato a una potenza intera positiva.
-> Il giocatore A vince se sceglie il numero 1990; il giocatore B vince se sceglie
-> il numero 1. Per quali n0:
+> Dato un intero iniziale n0 > 1, due giocatori, A e B, scelgono a turno gli interi n1, n2, n3, ... secondo le seguenti regole: sapendo n2k, A sceglie qualsiasi intero n2k+1 tale che n2k ≤ n2k+1 ≤ n2 2k. Sapendo n2k+1, B sceglie qualsiasi intero n2k+2 tale che n2k+1 n2k+2 sia una potenza con esponente intero positivo di un numero primo. Il giocatore A vince la partita scegliendo il numero 1990; il giocatore B vince scegliendo il numero 1. Per quali n0 vale:
 > (a)
 > A ha una strategia vincente?
 > (b)
 > B ha una strategia vincente?
 > (c)
-> nessuno dei due giocatori ha una strategia vincente?
+> Nessuno dei due giocatori ha una strategia vincente?
+
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1990#q05|src_imo_1990__Q05]]
 
 
 
@@ -234,11 +239,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Costruire un 1990-ago equiangolo con lunghezze dei lati uguali a quadrati perfetti*
+*Costruisci un 1990-gono equiangolo con lunghezze dei lati che sono numeri quadrati*
 
-> Si dimostri che esiste un poligono convesso con 1990 lati avente le due proprietà seguenti:
+> Dimostrare che esiste un 1990-gono convesso con le seguenti due proprietà:
 > (a)
-> tutti gli angoli sono uguali;
+> Tutti gli angoli sono uguali.
 > (b)
-> le lunghezze dei 1990 lati sono i numeri 12, 22, 32, . . . , 19902 in un certo
-> ordine.
+> Le lunghezzine dei lati del 1990 sono i numeri 12, 22, 32, ..., 19902 in un certo ordine.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imo_1990#q06|src_imo_1990__Q06]]

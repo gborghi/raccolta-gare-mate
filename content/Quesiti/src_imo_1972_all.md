@@ -28,9 +28,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dieci numeri di due cifre hanno due sottoinsiemi disgiunti con somma uguale*
+*Dieci numeri a due cifre hanno due sottoinsiemi disgiunti con la stessa somma*
 
-> Si dimostri che da un insieme di dieci numeri interi distinti a due cifre (nel sistema decimale) è sempre possibile scegliere due sottoinsiemi disgiunti i cui elementi abbiano la stessa somma.
+> Dimostrare che, a partire da un insieme di dieci numeri distinti di due cifre (nel sistema decimale), è possibile selezionare due sottoinsiemi disgiunti i cui elementi abbiano la stessa somma.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1972_all#q01|src_imo_1972_all__Q01]]
 
 
 
@@ -52,9 +58,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scomporre un quadrilatero ciclico in n quadrilateri ciclici*
+*Scomponi un quadrilatero ciclico in n quadrilateri ciclici*
 
-> Si dimostri che se $n \geq 4$, ogni quadrilatero che può essere inscritto in una circonferenza può essere scomposto in $n$ quadrilateri ciascuno dei quali può essere inscritto in una circonferenza.
+> Dimostrare che, se $n \geq 4$, ogni quadrilatero che può essere inscritto in una circonferenza può essere scomposto in $n$ quadrilateri, ciascuno dei quali è inscrivibile in una circonferenza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_induzione|Induzione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1972_all#q02|src_imo_1972_all__Q02]]
 
 
 
@@ -80,13 +92,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostrare che (2m)!(2n)!/(m!n!(m+n)!) è intero*
+*(2m)!(2n)! / (m! n! (m+n)!) è un intero, per interi non negativi*
 
-> Siano $m$ e $n$ due interi non negativi arbitrari. Si dimostri che
-> 
+> Siano $m$ e $n$ interi non negativi arbitrari. Dimostrare che
 > $$\frac{(2m)!(2n)!}{m!\,n!\,(m+n)!}$$
-> 
-> è un numero intero. ($0! = 1$.)
+> è un intero. ($0! = 1$.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_imo_1972_all#q03|src_imo_1972_all__Q03]]
 
 
 
@@ -118,10 +134,10 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Risolvere un sistema ciclico di disuguaglianze prodotto, numeri reali positivi*
+*Risolvere un sistema ciclico di disuguaglianze di prodotto, con numeri reali positivi*
 
-> Determinare tutte le soluzioni $(x_1, x_2, x_3, x_4, x_5)$ del sistema di disuguaglianze
-> 
+> Trovare tutte le soluzioni $(x_1, x_2, x_3, x_4, x_5)$ del sistema di disequazioni
+>
 > $$\begin{cases}
 > (x_1^2 - x_3 x_5)(x_2^2 - x_3 x_5) \leq 0 \\
 > (x_2^2 - x_4 x_1)(x_3^2 - x_4 x_1) \leq 0 \\
@@ -129,8 +145,14 @@ level: IMO
 > (x_4^2 - x_1 x_3)(x_5^2 - x_1 x_3) \leq 0 \\
 > (x_5^2 - x_2 x_4)(x_1^2 - x_2 x_4) \leq 0
 > \end{cases}$$
-> 
+>
 > dove $x_1, x_2, x_3, x_4, x_5$ sono numeri reali positivi.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1972_all#q04|src_imo_1972_all__Q04]]
 
 
 
@@ -155,13 +177,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale limitata implica |g(y)|≤1*
+*L'equazione funzionale limitata implica |g(y)|<=1*
 
-> Siano $f$ e $g$ funzioni a valori reali definite per tutti i numeri reali $x$ e $y$, che soddisfano l'equazione
-> 
+> Siano $f$ e $g$ funzioni a valori reali definite per tutti i valori reali di $x$ e $y$, e soddisfacenti l'equazione
+>
 > $$f(x+y) + f(x-y) = 2f(x)g(y)$$
-> 
-> Per ogni $x, y$. Si dimostri che se $f(x)$ non è identicamente nullo e se $|f(x)| \leq 1$ per ogni $x$, allora $|g(y)| \leq 1$ per ogni $y$.
+>
+> per ogni $x, y$. Dimostrare che, se $f(x)$ non è identicamente nulla e se $|f(x)| \leq 1$ per ogni $x$, allora $|g(y)| \leq 1$ per ogni $y$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1972_all#q05|src_imo_1972_all__Q05]]
 
 
 
@@ -184,6 +211,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tetraedro regolare con un vertice su ciascuno dei quattro piani paralleli*
+*Quattro piani paralleli distinti e un tetraedro regolare con un vertice su ciascuno*
 
-> Siano dati quattro piani paralleli distinti. Si dimostri che esiste un tetraedro regolare avente un vertice su ciascun piano.
+> Dati quattro piani paralleli distinti, dimostrare che esiste un tetraedro regolare con un vertice su ciascun piano.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_imo_1972_all#q06|src_imo_1972_all__Q06]]

@@ -44,21 +44,28 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region shaded in divided equilateral triangle*
+*Shaded region in a subdivided equilateral triangle*
 
 ![[src_kangourou_2013_cadet__prob1.png]]
 
-> The large triangle in the figure is equilateral and has an area of 9. The segments traced within it are parallel to the sides and each side is divided into three equal parts by their ends. What is the area of the shaded region? A) 1
-> 	
+> The large triangle shown in the figure is equilateral and has an area of 9. The segments drawn inside it are parallel to the sides, and each side is divided into three equal parts by the endpoints of these segments. What is the area of the shaded region?
+> A) 1
+>
 > B) 4
-> 	
+>
 > C) 5
-> 	
+>
 > D) 6
-> 	
+>
 > E) 7
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q01|src_kangourou_2013_cadet__Q01]]
 
 
 
@@ -92,21 +99,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of an expression with repunits (11...1)*
+*Incomplete expression*
 
-> It is easy to verify that 	 	
->    What is the value of                          ?
-> A) 5	
-> 	
-> B) 9	
->  	
-> C) 11	
-> 	
-> D) 55	
-> 	
+> It is easy to verify that What is the value of                          ?
+> A) 5
+>
+> B) 9
+>
+> C) 11
+>
+> D) 55
+>
 > E) 99
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q02|src_kangourou_2013_cadet__Q02]]
 
 
 
@@ -138,13 +150,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many grey regions have the same perimeter as the sheet*
+*Dark-grey regions with the same perimeter as the sheet*
 
 ![[src_kangourou_2013_cadet__prob3.png]]
 
-> In the figure, you see six square sheets. Each contains a region, highlighted in dark gray, which leaves some rectangular (possibly square) portions of paper free. How many regions highlighted in dark gray have the same perimeter as the square sheet that houses them? A) 2 B) 3 C) 4 D) 5 E) 6
+> In the figure you see six square sheets. Each of them contains a region, highlighted in dark grey, which leaves some rectangular portions (possibly squares) of the sheet free. How many of the regions highlighted in dark grey have the same perimeter as the square sheet that contains them?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q03|src_kangourou_2013_cadet__Q03]]
 
 
 
@@ -178,19 +200,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Candle still lit after 55 minutes*
+*Candles still lit after 55 minutes*
 
-> Alexander lights a candle every ten minutes. Every candle burns for 40 minutes and then it goes out. How many candles are still lit 55 minutes after Alexander lit the first candle? A) 2
-> 	
+> Alessandro lights a candle every ten minutes. Each candle burns for 40 minutes and then goes out. How many candles are still lit 55 minutes after Alessandro lit the first candle?
+> A) 2
+>
 > B) 3
-> 	
+>
 > C) 4
-> 	
+>
 > D) 5
-> 	
+>
 > E) 6
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q04|src_kangourou_2013_cadet__Q04]]
 
 
 
@@ -230,14 +258,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*193*
+*Dead Sea salt*
 
-> The waters of the Dead Sea are composed of masses of salt and water in a ratio of 7:193. How many kilos of salt are in 1,000 kilos of Dead Sea water? A) 35
-> 	
-> B) 186 C) 193 D) 200 E) 350 1111 {{{{{{ = 11. 101 3333 {{{{{{ + 101 6666 {{{{{{ 303
+> The waters of the Dead Sea are composed of salt and water with masses in the ratio 7:193. How many kilograms of salt are there in 1000 kg of the waters of the Dead Sea?
+> A) 35
+>
+> B) 186
+> C) 193
+> D) 200
+> E) 350
+> 1111 {{{{{{ = 11. 101 3333 {{{{{{ + 101 6666 {{{{{{ 303
 >
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q05|src_kangourou_2013_cadet__Q05]]
 
 
 
@@ -270,21 +308,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum cells left over when cutting out pieces*
+*Minimum leftover cells*
 
 ![[src_kangourou_2013_cadet__prob6.png]]
 
-> Anna has a square sheet of graph paper like 
-> the one shown in the figure. By cutting along the lines drawn in the square she cuts out some pieces which, possibly 
-> after having been rotated in the plane or in space, can be superimposed on the one shown on the right. What is the minimum 
-> number of square cells that can be left over after 
-> this operation?
-> A) 0	
->       B) 2	                 C) 4	
->           D) 6	
->       E) 8
+> Anna has a square sheet of squared paper like the one shown in the figure. Cutting along the lines drawn in the square, she cuts out some pieces which, possibly after being rotated in the plane or in space, can be superimposed on the one shown on the right. What is the minimum number of square cells that can be left over for her after this operation?
+> A) 0
+> B) 2
+> C) 4
+> D) 6
+> E) 8
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q06|src_kangourou_2013_cadet__Q06]]
 
 
 
@@ -318,25 +358,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of digits of the smallest number with digit product 24*
+*Digit sum of the smallest number with digit product 24*
 
-> Rosa wants to find a positive integer whose digits have product 24. What
-> is the sum of the digits of the smallest number that Rosa can find?
-> A) 6	
-	
-> 	
-> B) 8	
-	
-> 	
-> C) 9	
-	
-> 	
-> D) 10	
-	
-> 	
->  E) 11
+> Rosa wants to find a positive integer whose digits have product 24. What is the sum of the digits of the smallest number that Rosa can find?
+> A) 6
+>
+> B) 8
+>
+> C) 9
+>
+> D) 10
+>
+> E) 11
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q07|src_kangourou_2013_cadet__Q07]]
 
 
 
@@ -364,11 +405,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What average of children is not possible for 5 households*
+*Which average number of children is impossible for 5 families*
 
-> The average number of children in 5 households cannot be A) 0,2. B) 1,2. C) 2,2. D) 2,4. E) 2,5.
+> The average number of children of 5 families cannot be
+> A) 0,2.
+> B) 1,2.
+> C) 2,2.
+> D) 2,4.
+> E) 2,5.
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q08|src_kangourou_2013_cadet__Q08]]
 
 
 
@@ -401,17 +452,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Lisa's turn when Marco reaches her (source)
+*Lisa's laps when Marco catches her*
 
-> Marco and Lisa are standing at the edge of a circular fountain, diametrically opposite. They both start running in the same direction around the fountain. Marco's speed is 9/8 of Lisa's. When Marco reaches Lisa for the first time, how many turns of the fountain will Lisa have completed? A) 4
-> 	
+> Marco and Lisa are standing still at the edge of a circular fountain, at diametrically opposite points. They both start running in the same direction around the fountain. Marco's speed is 9/8 of Lisa's. When Marco catches up with Lisa for the first time, how many laps of the fountain will Lisa have completed?
+> A) 4
+>
 > B) 8
-> 	
+>
 > C) 9
-> 	
-> D) 2,4 E) 7,5
+>
+> D) 2,4
+> E) 7,5
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q09|src_kangourou_2013_cadet__Q09]]
 
 
 
@@ -446,19 +504,27 @@ Lisa's turn when Marco reaches her (source)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of three integers from coupled products 14,10,35*
+*Sum of three integers from the pairwise products 14, 10, 35*
 
-> Three positive integers, multiplied two at a time, yield 14, 10, and 35. How much is their sum? A) 10
-> 	
+> Three positive integers, multiplied in pairs, give the results 14, 10 and 35. What is  their sum?
+> A) 10
+>
 > B) 12
-> 	
+>
 > C) 14
-> 	
+>
 > D) 16
-> 	
-> (E) 18 Questions from N. 11 al N. 20 is worth 4 points each.
+>
+> E) 18
+> The questions from question 11 to question 20 are worth 4 points each.
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q10|src_kangourou_2013_cadet__Q10]]
 
 
 
@@ -489,13 +555,23 @@ Lisa's turn when Marco reaches her (source)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of delta angle from data angles*
+*Measure of angle δ from the given angles*
 
 ![[src_kangourou_2013_cadet__prob11.png]]
 
-> The angles α, β, γ in the figure are 55, 40 and 35 degrees respectively. How many degrees does δ measure? A) 100 B) 105 C) 120 D) 125 E) 130
+> The angles α, β and γ in the figure measure 55, 40 and 35 degrees respectively. How many degrees does δ measure?
+> A) 100
+> B) 105
+> C) 120
+> D) 125
+> E) 130
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q11|src_kangourou_2013_cadet__Q11]]
 
 
 
@@ -527,12 +603,24 @@ Lisa's turn when Marco reaches her (source)
 <div class="qlang-split" data-lang="en"></div>
 
 
-The youngest of five girls by birth
+*The youngest of five girls from dates of birth*
 
-> Anna, Betta, Cinzia, Dina and Elisa have given us their dates of birth by mixing them: 20/02/2001, 12/03/2000, 20/03/2001, 12/04/2000 and 23/04/2001. Anna and Cinzia were born on the same day of different months; and Dina and Elisa were born on the same day of different months. Which is the youngest of the five girls? (A) Anna B) Betta C) Cinzia D) Dina E) Elisa α β γ δ
+> Anna, Betta, Cinzia, Dina and Elisa have given us their dates of birth mixed up: 20/02/2001, 12/03/2000, 20/03/2001, 12/04/2000  and  23/04/2001. Anna and Cinzia were born on the same day of different months; Dina and Elisa were also born on the same day of different months. Which of the five girls is the youngest?
+> A) Anna
+> B) Betta
+> C) Cinzia
+> D) Dina
+> E) Elisa
+> α β γ δ
 >
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q12|src_kangourou_2013_cadet__Q12]]
 
 
 
@@ -560,11 +648,22 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smaller angles of trapezoid with perimeter 5 and full sides*
+*Smaller angles of a trapezium with perimeter 5 and integer sides*
 
-> The perimeter of a trapezoid is 5 and the lengths of its sides are expressed by integers. How many degrees do the two smaller angles of the trapezoid measure? A) Both 30. B) Both 60. C) Both 45. D) One 30 and the other 45. E) One 45 and the other 90.
+> The perimeter of a trapezium is 5 and the lengths of its sides are expressed by integers. How many degrees do the two smaller angles of the trapezium measure?
+> A) Both 30.
+> B) Both 60.
+> C) Both 45.
+> D) One 30 and the other 45.
+> E) One 45 and the other 90.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q13|src_kangourou_2013_cadet__Q13]]
 
 
 
@@ -601,13 +700,21 @@ The youngest of five girls by birth
 
 ![[src_kangourou_2013_cadet__prob14.png]]
 
-> One and only one of the following nets cannot be folded to form a cube. Which one? A) B)
->          	
-> C) D)
-> 	
+> One and only one of the following nets cannot be folded to form a cube. Which one?
+> A)
+> B)
+>
+> C)
+> D)
+>
 > E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q14|src_kangourou_2013_cadet__Q14]]
 
 
 
@@ -643,17 +750,24 @@ The youngest of five girls by birth
 
 *Impossible percentage of odd numbers among consecutive integers*
 
-> Luigi wrote some consecutive integers. Which of the following cannot be the percentage of odd numbers among the numbers written? A) 40
-> 	
+> Luigi has written some consecutive integers. Which of those indicated below cannot be the percentage of odd numbers among the numbers written?
+> A) 40
+>
 > B) 45
-> 	
+>
 > C) 48
-> 	
+>
 > D) 50
-> 	
+>
 > E) 60
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q15|src_kangourou_2013_cadet__Q15]]
 
 
 
@@ -722,9 +836,20 @@ The youngest of five girls by birth
 \end{document}
 ```
 
-> The figure shows an ABCD rectangle which • has sides parallel to the coordinate axes, • lies under the x-axis and to the right of the y-axis. For each of the vertices, we calculate the ratio between its y coordinate and its x coordinate. For which of the four points is this ratio the minimum? A) A B) B C) C D) D E) depends on the rectangle.
+> The figure shows a rectangle ABCD which •   has sides parallel to the coordinate axes, •   lies “below”  the x-axis and “to the right” of the y-axis. For each of the vertices we calculate the ratio of its y-coordinate to its x-coordinate. For which of the four points is this ratio smallest?
+> A) A
+> B) B
+> C) C
+> D) D
+> E) It depends on the rectangle.
 
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q16|src_kangourou_2013_cadet__Q16]]
 
 
 
@@ -755,11 +880,22 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum difference between consecutive numbers with the digits of 2013*
+*Greatest difference between consecutive numbers with the digits of 2013*
 
-> I wrote all the four-digit numbers on the board that contain the same digits as 2013, arranging them in increasing order. What's the biggest difference between two consecutive numbers in this sequence? A) 702 B) 703 C) 693 D) 793 E) 198
+> I wrote on the blackboard all the four-digit numbers that contain the same digits as 2013, arranging them in increasing order. What is the greatest difference between two consecutive numbers in this sequence?
+> A) 702
+> B) 703
+> C) 693
+> D) 793
+> E) 198
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q17|src_kangourou_2013_cadet__Q17]]
 
 
 
@@ -799,7 +935,7 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cells not intersected by diagonals in a 6x10 grid*
+*Cells not intersected by the diagonals of a 6×10 grid*
 
 ![[src_kangourou_2013_cadet__prob18.png]]
 
@@ -813,9 +949,20 @@ The youngest of five girls by birth
 \end{document}
 ```
 
-> In the grid 6×8 shown in the figure there are 24 cells are not intersected by any of the two diagonals. If we trace the diagonals of a grid 6×10 how many cells are not intersected by any of the two diagonals? A) 28          B) 29          C) 30          D) 31            E) 32
+> In the 6×8 grid shown in the figure there are 24 cells that are not intersected by either of the two diagonals. If we draw the diagonals of a 6×10 grid, how many cells are not intersected by either of the two diagonals?
+> A) 28
+> B) 29
+> C) 30
+> D) 31
+> E) 32
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** E
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q18|src_kangourou_2013_cadet__Q18]]
 
 
 
@@ -868,38 +1015,25 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Image from the back of the building of small cubes*
+*Image from the back of the cube building*
 
 ![[src_kangourou_2013_cadet__prob19.png]]
 
-> Giovanni built a building with a square base using small cubes all equal to each other. For each cell of the square base, the figure indicates how many cubes the tower rising above that cell is made of. The figure also indicates which are the front and the back of the building with respect to this diagram. Looking at the building from the back, which image appears?
-> 4
-> 2
-> 3
-> 2
-> 3
-> 3
-> 1
-> 2
-> 2
-> 1
-> 3
-> 1
-> 1
-> 2
-> 1
-> 2
-> BACK
-> FRONT
-> 
->         A)
-> 	
->          B) 		
->         C) 		
->           D)	 	
->          E)
+> Giovanni has built a building with a square plan using cubes that are all the same as each other. For each cell of the base square, the figure shows how many cubes make up the tower that rises above that cell. The figure also shows which is the front and which is the back of the building relative to this diagram. Looking at the building from the back, which image appears? 4 2 3 2 3 3 1 2 2 1 3 1 1 2 1 2 BACK FRONT
+>
+> A)
+>
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q19|src_kangourou_2013_cadet__Q19]]
 
 
 
@@ -936,19 +1070,28 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the KLMN quadrilateral on the grid*
+*Area of quadrilateral KLMN on a grid*
 
 ![[src_kangourou_2013_cadet__prob20.png]]
 
-> Each cell of the square sheet in the figure has sides 2 cm long. What is the square centimetre area of the KLMN quadrilateral? A) 96
-> 	
+> Each cell of the squared paper in the figure has sides of length 2 cm. What is the area of quadrilateral KLMN in square centimetres?
+> A) 96
+>
 > B) 84
-> 	
-> C) 76 D) 21
-> 	
-> E) 42 Questions from N. 21 to N. 30 are worth 5 points each.
+>
+> C) 76
+> D) 21
+>
+> E) 42
+> The questions from question 21 to question 30 are worth 5 points each.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q20|src_kangourou_2013_cadet__Q20]]
 
 
 
@@ -980,11 +1123,22 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many exchange operations to make 2013 appear*
+*How many change operations to make 2013 appear*
 
-> The change operation on a triple of numbers consists of replacing each of the three numbers in the triple with the sum of the other two. For example, the change operation transforms {3, 4, 6} into {10, 9, 7}; by applying change to this second triple, we obtain the triple {16, 17, 19}. Let's start from the triple {1, 2, 3}; how many times do we have to apply change consecutively for the number 2013 to appear in the triple? A) 8 B) 9 C) 10 D) 2013 E) 2013 will never appear.
+> The change operation on a triple of numbers consists of replacing each of the three numbers in the triple with the sum of the other two. For example, the change operation transforms the triple {3, 4, 6} into the triple {10, 9, 7}; applying change to this second triple gives the triple {16, 17, 19}.  Starting from the triple {1, 2, 3}, how many times must we apply change consecutively so that the number 2013 appears in the triple?
+> A) 8
+> B) 9
+> C) 10
+> D) 2013
+> E) 2013 will never appear.
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q21|src_kangourou_2013_cadet__Q21]]
 
 
 
@@ -1018,19 +1172,26 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of digits of the 5-digit number given sum of 52713*
+*Sum of the digits of a 5-digit number*
 
-> Pippo picks a positive five-digit integer and deletes one so that it gets a four-digit number. The sum of the original number and the modified number is 52713. What is the sum of the digits of the five-digit number? A) 26
-> 	
+> Pippo chooses a positive integer with 5 digits and deletes one of them so as to obtain a 4-digit number. The sum of the original number and the modified number is 52713. What is the sum of the digits of the 5-digit number?
+> A) 26
+>
 > B) 20
-> 	
+>
 > C) 23
-> 	
+>
 > D) 19
-> 	
+>
 > E) 17
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q22|src_kangourou_2013_cadet__Q22]]
 
 
 
@@ -1066,23 +1227,26 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum maples among 20 trees without 3 trees between two maples*
+*Maximum maples among 20 trees*
 
-> A gardener plans to plant 20 trees (maples and lindens) along the walkway 
-> that runs alongside the river. He wants that between two maples, in whatever position they are, there are 
-> never exactly three trees. At most how many, of the 20 trees that the gardener 
-> will plant, could be maples? 
-> A) 8	
-> 	
-> B) 10	
-> 	
-> C) 12	
-> 	
-> D) 14	
-> 	
+> A gardener plans to plant 20 trees (maples and lime trees) along the promenade that runs alongside the river. He wants that between two maples, in whatever positions they are, there are never exactly three trees. At most how many of the 20 trees that the gardener will plant can be maples?
+> A) 8
+>
+> B) 10
+>
+> C) 12
+>
+> D) 14
+>
 > E) 16
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q23|src_kangourou_2013_cadet__Q23]]
 
 
 
@@ -1118,20 +1282,26 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of competitors in the field race*
+*Number of competitors in the cross-country race*
 
-> Andrea and Daniele took part in a cross-country race. In the order of arrival Andrea precedes a number of contestants twice that of those who precede Daniele and Daniele precedes a number of contestants that is one and a half times the number of those who precede Andrea. Andrea came twenty-first: how many competitors were there? A) 31
-> 	
+> Andrea and Daniele took part in a cross-country race. In the finishing order, Andrea is ahead of a number of competitors double that of those who are ahead of Daniele, and Daniele is ahead of a number of competitors that is one and a half times the number of those who are ahead of Andrea. Andrea finished twenty-first: how many competitors were there?
+> A) 31
+>
 > B) 41
-> 	
+>
 > C) 51
-> 	
+>
 > D) 61
-> 	
+>
 > E) 81
 >
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q24|src_kangourou_2013_cadet__Q24]]
 
 
 
@@ -1161,13 +1331,24 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distinct modes of exit of four cars from the roundabout*
+*Distinct ways four cars leave the roundabout*
 
 ![[src_kangourou_2013_cadet__prob25.png]]
 
-> Four cars enter a roundabout at the same time, each from different entrances, as shown in the figure. Each car makes less than a full lap around the roundabout and each car comes out of a different exit from each other. How many different ways can this happen? A) 9           B) 12          C) 15          D) 24           E) 81
+> Four cars enter a roundabout at the same moment, each from a different entrance, as the figure shows. Each car completes less than one full circuit around the roundabout and each of them leaves by an exit different from each of the others. In how many different ways can this happen?
+> A) 9
+> B) 12
+> C) 15
+> D) 24
+> E) 81
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q25|src_kangourou_2013_cadet__Q25]]
 
 
 
@@ -1203,19 +1384,26 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of lines intersected by c*
+*Number n of straight lines intersected by c*
 
-> There were a few lines drawn in the plane. The straight a intersects exactly three lines (different from itself) and the straight b intersects exactly four lines. The exact number n of lines intersected by line c is neither three nor four. Which of the following is number n ? A) 2
-> 	
+> Some straight lines have been drawn in the plane. The straight line a intersects exactly three straight lines (other than itself) and the straight line b intersects exactly four straight lines. The exact number n of straight lines intersected by the straight line c is neither three nor four. Which of the following is the number n?
+> A) 2
+>
 > B) 5
-> 	
+>
 > C) 6
-> 	
+>
 > D) 7
-> 	
+>
 > E) none.
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q26|src_kangourou_2013_cadet__Q26]]
 
 
 
@@ -1247,19 +1435,23 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the first 2013 terms of a sequence of products*
+*Sum of the first 2013 terms*
 
-> A sequence of numbers begins with these five terms: 1, – 1, – 1, 1, – 1. 
-> Each term after the fifth is equal to the product of the two that precede it. For example the sixth term is the product of the fourth and the fifth. What is the sum of the first 
-> 2013 terms of this sequence?
-> A) – 1006	
-> B) – 671		
-> C) 0	
-> 	
-> D) 671	 	
+> A sequence of numbers begins with these five terms: 1, – 1, – 1, 1, – 1. Each term after the fifth is equal to the product of the two that precede it. For example, the sixth term is the product of the fourth and the fifth. What is the sum of the first 2013 terms of this sequence?
+> A) – 1006
+> B) – 671
+> C) 0
+>
+> D) 671
 > E) 1007
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q27|src_kangourou_2013_cadet__Q27]]
 
 
 
@@ -1292,15 +1484,24 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relation between perfect square and perfect cube numbers up to 2013^6*
+*Perfect squares and cubes up to 20136*
 
-> Consider all integers from 1 to 2013^6 (extremes included): among them some numbers are perfect squares, others are perfect cubes. Denote with Q the number of perfect squares and with C the number of perfect cubes from 1 to 2013^6: then A) Q = C. B) 2Q = 3C.
-> 	
+> Consider all the integers from 1 to 20136 (inclusive): among them some numbers are perfect squares, others are perfect cubes. Denote by Q the number of perfect squares and by C the number of perfect cubes from 1 to 20136: then
+> A) Q = C.
+> B) 2Q = 3C.
+>
 > C) 3Q = 2C.
-> 	
-> D) Q 3 = C 2. E) None of the previous relations is correct.
+>
+> D) Q 3 = C 2.
+> E) none of the above relations is correct.
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q28|src_kangourou_2013_cadet__Q28]]
 
 
 
@@ -1333,11 +1534,22 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Impossible order in which the pancakes are eaten*
+*Impossible order in which the fritters are eaten*
 
-> Lucia prepared six pancakes and engraved a number from 1 to 6 on each, then cooked them in the order indicated by the number. While she was working (but we don't know when and how many times), her children walked into the kitchen and ate the hottest pancakes each time. Which of the following cannot be the order in which the pancakes were eaten? A) 456231 B) 125436 C) 325461 D) 123456 E) 654321
+> Lucia prepared six fritters and engraved a number from 1 to 6 on each of them: then she cooked them in the order indicated by the number. While she was working (but we do not know when and how many times), her children came into the kitchen and each time they ate the hottest fritter. Which of those indicated below cannot be the order in which the fritters were eaten?
+> A) 456231
+> B) 125436
+> C) 325461
+> D) 123456
+> E) 654321
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q29|src_kangourou_2013_cadet__Q29]]
 
 
 
@@ -1369,16 +1581,21 @@ The youngest of five girls by birth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Property of small numbers (sum of the three largest divisors)*
+*Properties of small numbers (sum of the three largest divisors)*
 
-> We say that a positive integer N is small if it is smaller than the sum
-> of its three largest divisors (naturally excluding N itself). Which of the following statements is true?
-> A) Every small number is divisible by 4.          
-> B) Every small number is divisible by 5.        
-> C) Every small number is divisible by 6.         
-> D) Every small number is divisible by 7.      
+> We say that a positive integer N is small if it is smaller than the sum of its three largest divisors (of course excluding N itself). Which of the following statements is true?
+> A) Every small number is divisible by 4.
+> B) Every small number is divisible by 5.
+> C) Every small number is divisible by 6.
+> D) Every small number is divisible by 7.
 > E) There are no small numbers.
-> 
-> STRINGA CADET 2013
+>
+> STRING CADET 2013
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+[[Quesiti/src_kangourou_2013_cadet#q30|src_kangourou_2013_cadet__Q30]]

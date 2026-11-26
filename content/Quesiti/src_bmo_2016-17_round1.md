@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare cifre odd nei numeri interi da 1 a 2016*
+*Conta le cifre dispari negli interi da 1 a 2016*
 
-> I numeri interi $1, 2, 3, \ldots, 2016$ sono scritti su una lavagna, ognuna apparendo esattamente una volta. Ciascuna delle cifre da $0$ a $9$ appare molte volte nell'elenco. Quante cifre della lista sono strane?
+> Gli interi $1, 2, 3, \ldots, 2016$ sono scritti su una lavagna, ciascuno compare esattamente una volta. Ciascuna delle cifre da $0$ a $9$ compare molte volte nella lista. Quante delle cifre presenti nella lista sono dispari?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2016-17_round1#q01|src_bmo_2016-17_round1__Q01]]
 
 
 
@@ -57,11 +64,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*3-smooth greatest divisor; trovare tutte le coppie (m,n) con n·f(m)=m·f(n)*
+*Divisore massimo 3-liscio; trova tutte le coppie (m,n) tali che n·f(m)=m·f(n)*
 
-> Per ogni intero positivo $n$, $f(n)$ deve essere il più grande $a$ in modo tale che $a \mid n$ e $a$ non abbiano un fattore primo maggiore di $3$. Per esempio, $f(6) = 6$, $f(11) = 1$, $f(12) = 12$, $f(30) = 6$.
-> 
-> Determinare tutte le coppie $(m, n)$ di integri positivi che soddisfano l'equazione $$n \cdot f(m) = m \cdot f(n).$$
+> Per ogni intero positivo $n$, si ponga $f(n)$ uguale al più grande $a$ tale che $a \mid n$ e $a$ non abbiano alcun fattore primo maggiore di $3$. Ad esempio, $f(6) = 6$, $f(11) = 1$, $f(12) = 12$, $f(30) = 6$.
+>
+> Determinare tutte le coppie $(m, n)$ di interi positivi che soddisfano l'equazione
+> $$n \cdot f(m) = m \cdot f(n).$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2016-17_round1#q02|src_bmo_2016-17_round1__Q02]]
 
 
 
@@ -84,9 +99,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I coppie di integri positivi in cui m2-n e n2-m sono quadrati perfetti*
+*Coppie di numeri interi positivi tali che sia m²-n sia n²-m siano quadrati perfetti*
 
-> Determinare tutte le coppie $(m, n)$ di integri positivi in modo tale che $m^2 - n$ e $n^2 - m$ siano entrambi quadrati perfetti.
+> Determinare tutte le coppie $(m, n)$ di interi positivi tali che $m^2 - n$ e $n^2 - m$ siano entrambe quadrati perfetti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2016-17_round1#q03|src_bmo_2016-17_round1__Q03]]
 
 
 
@@ -111,11 +133,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con angolo 60°; prova angolo BDM = 90°*
+*Triangolo con angolo di 60°; dimostrare che l'angolo BDM è uguale a 90°*
 
-> Che $ABC$ sia un triangolo con $\angle BAC = 60^\circ$. La tangente al circoncircolo di $ABC$ a $A$ incontra la linea $BC$ (estesa se necessario) al punto $T$. Che $D$ sia il punto di $BC$ in modo tale che $AD$ dividi $\angle BAC$, e che $M$ sia il punto medio di $AD$.
-> 
-> Prove che $\angle BDM = 90^\circ$.
+> Sia $ABC$ un triangolo con $\angle BAC = 60^\circ$. La tangente alla circonferenza circoscritta di $ABC$ nel punto $A$ incontra la retta $BC$ (prolungata se necessario) nel punto $T$. Sia $D$ il punto su $BC$ tale che $AD$ biseca $\angle BAC$, e sia $M$ il punto medio di $AD$.
+>
+> Dimostrare che $\angle BDM = 90^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2016-17_round1#q04|src_bmo_2016-17_round1__Q04]]
 
 
 
@@ -140,11 +169,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Naomi e Tom scelgono i numeri interi; determinano se Naomi vince sempre
+*Naomi e Tom scelgono numeri interi; determina se Naomi vince sempre*
 
-> Naomi e Tom giocano a un gioco. Si alternano per scegliere un numero intero tra $1$ e $100$ inclusivo, con Naomi prima. Il gioco termina quando uno dei giocatori sceglie un numero intero già scelto da uno dei due giocatori. Il giocatore che sceglie il numero intero ripetuto perde la partita.
-> 
-> Naomi sostiene di poter sempre vincere la partita qualunque sia la strategia che utilizza Tom. - Ha ragione? Giustifica la tua risposta.
+> Naomi e Tom giocano a un gioco. A turno scelgono un numero intero compreso tra $1$ e $100$, inclusi, con Naomi che inizia per prima. Il gioco termina quando uno dei giocatori sceglie un numero intero che è già stato scelto da uno dei due giocatori. Il giocatore che sceglie il numero già scelto perde la partita.
+>
+> Naomi sostiene di poter vincere sempre la partita, qualunque strategia adotti Tom. Ha ragione? Motiva la tua risposta.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_backward|Backward]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2016-17_round1#q05|src_bmo_2016-17_round1__Q05]]
 
 
 
@@ -167,6 +203,13 @@ Naomi e Tom scelgono i numeri interi; determinano se Naomi vince sempre
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Interi consecutivi su (n+1)-gon; trovare la somma minima di tutte le differenze in coppia*
+*Interi consecutivi su un (n+1)-gono; trovare la somma minima di tutte le differenze a coppie*
 
-> I numeri interi positivi consecutivi $m, m+1, m+2, \ldots, m+n$ sono assegnati ai vertici di ungon regolare $(n+1)$, un intero per vertice. Per ogni lato e diagonale del poligono, calcoliamo la differenza assoluta dei numeri interi ai due punti finali. Che $S$ sia la somma di tutte queste differenze assolute. Determinare il minimo valore possibile di $S$ in termini di $n$.
+> A ogni vertice di un poligono regolare di $n+1$ lati vengono assegnati numeri interi positivi consecutivi $m, m+1, m+2, \ldots, m+n$, uno per vertice. Per ciascun lato e ciascuna diagonale del poligono, si calcola la differenza assoluta dei numeri interi presenti ai due estremi. Sia $S$ la somma di tutte queste differenze assolute. Determinare il valore minimo possibile di $S$ in funzione di $n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2016-17_round1#q06|src_bmo_2016-17_round1__Q06]]

@@ -34,11 +34,16 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting of red cards in the right packet of a deck divided into two.*
+*Counting red cards in the right packet of a deck split in two.*
 
-> Julien divided his deck of $32$ cards into two unequal packs of $19$ cards (left) and $13$ cards (right). The left packet contains $13$ black cards. How many red cards does the right pack contain? Note: a deck of $32$ cards contains as many red cards as black cards.
+> Julien has divided his deck of $32$ cards into two unequal piles: one pile has $19$ cards (on the left), and the other has $13$ cards (on the right). The left pile contains $13$ black cards. How many red cards are in the right pile? Note: recall that a deck of $32$ cards contains as many red cards as black cards.
 
-**Answer:** 10 red cards
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q01|src_bocconi_finaleint_2008_g1__Q01]]
 
 
 
@@ -62,11 +67,16 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-On the planet Sram, identify the type of inhabitant with two questions.
+*On the planet Sram, determine the type of inhabitant with two questions.*
 
-> On the planet Sram there are three types of people: the truthful, who always tell the truth; the liars, who always lie; and the alternatives, who alternately tell the truth, lie, tell the truth, lie, ... You meet a man from the planet Sram and ask him two questions: ?». It's you. ?». The answers to these two questions help you to know what kind of inhabitants you are dealing with. What word is missing in each of the two questions?
+> On the planet Sram, there are three types of inhabitants: the Truthtellers, who always tell the truth; the Liars, who always lie; and the Alternators, who alternately tell the truth, lie, tell the truth, lie, ... You meet an inhabitant of the planet Sram and subsequently ask them two questions: "Are you ..........?" "Are you all ..........?" The answers to the two questions make it possible to determine which type of inhabitant you are dealing with. What is the missing word in each of the two questions?
 
-**Answer:** Alternative, Alternative
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q02|src_bocconi_finaleint_2008_g1__Q02]]
 
 
 
@@ -90,11 +100,16 @@ On the planet Sram, identify the type of inhabitant with two questions.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of cubes visible from a single point of view in a 3x3x3 cube*
+*Maximum number of small cubes visible from a single viewpoint in a 3x3x3 cube.*
 
-> A cube of $3$ cm on the side was manufactured by gluing together $27$ cubes of $1$ cm on the side. What is the largest number of cubes visible from a single point of view?
+> A cube with an edge length of $3$ cm was made by gluing together $27$ small cubes with an edge length of $1$ cm. What is the greatest number of small cubes that can be seen from a single viewpoint?
 
-**Answer:** 19 small cubes
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q03|src_bocconi_finaleint_2008_g1__Q03]]
 
 
 
@@ -117,11 +132,15 @@ On the planet Sram, identify the type of inhabitant with two questions.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of buses to be added on a circular route to reduce the interval.*
+*Number of buses to add on a circular route to reduce the headway.*
 
-> Four buses run a circular route. The interval between them is $24$ minutes. If you want to reduce this interval to $16$ minutes, how many buses do you need to add on the route?
+> Four buses travel along a circular route. The interval between them is $24$ minutes. If this interval is to be reduced to $16$ minutes, how many buses must be added to the route?
 
-**Answer:** 2 bus
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q04|src_bocconi_finaleint_2008_g1__Q04]]
 
 
 
@@ -145,11 +164,16 @@ On the planet Sram, identify the type of inhabitant with two questions.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seven-segment display: minimum number of segments to be switched off to make an equality true.*
+*Seven-segment display: the minimum number of segments to turn off to make an equality true.*
 
-> In a digital display, each digit is represented by two to seven bright segments (see drawing here). How many light segments must be switched off, at a minimum, to make the equation on the right $00+00=100$ true?
+> In a digital display, each digit is represented by two to seven light-emitting segments (see the drawing next to this). What is the minimum number of light-emitting segments that must be turned off to make the equality shown on the right $00+00=100$ true?
 
-**Answer:** 2 segments
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q05|src_bocconi_finaleint_2008_g1__Q05]]
 
 
 
@@ -172,11 +196,15 @@ On the planet Sram, identify the type of inhabitant with two questions.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Large family: relations between brothers and sisters.*
+*Large family: relationships among brothers and sisters.*
 
-> William has twice as many brothers as he has sisters. Her sister Florence has three times as many brothers as sisters. How many children is this family made up of?
+> Guillaume has twice as many brothers as sisters. His sister Florence has three times as many brothers as sisters. How many children are there in this family?
 
-**Answer:** 13 children
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q06|src_bocconi_finaleint_2008_g1__Q06]]
 
 
 
@@ -202,13 +230,18 @@ On the planet Sram, identify the type of inhabitant with two questions.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of triangles on the surface of a solid formed by two intertwined pyramids.*
+*Number of small triangles on the surface of a solid formed by two interlocked pyramids.*
 
-> Julie made this solid with the help of two interwoven triangular-based pyramids. How many triangles is its surface composed of?
+> Julie has constructed this solid with the help of two interwoven triangular-based pyramids. How many small triangles make up its surface?
 
 ![[src_bocconi_finaleint_2008_g1__q07.png]]
 
-**Answer:** 24 small triangles
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q07|src_bocconi_finaleint_2008_g1__Q07]]
 
 
 
@@ -232,11 +265,16 @@ On the planet Sram, identify the type of inhabitant with two questions.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parity: the sum of the extracted cards must provide a odd sum for the other cards.*
+*Parity: the sum of the drawn cards must ensure an odd total for the others.*
 
-> An urn contains nine cards. Each of the numbers from $1$ to $9$ is written on a piece of paper (one number per piece of paper). Quentin randomly picks up four cards in the oven. Then Typhaine takes three, leaving one in the oven. Quentin looks at his cards and, confidently, says to Tiphaine: "I'm sure the sum of the numbers written on your cards is a odd number". What's the sum of the numbers written on the cards Quentin took?
+> An urn contains nine cards. Each of the numbers from $1$ to $9$ is written on one card (one number per card). Quentin randomly draws four cards from the urn. Then Tiphaine draws three, so one card remains in the urn. Quentin looks at his cards and, feeling confident, says to Tiphaine: "I'm sure that the sum of the numbers on your cards is an odd number." What is the sum of the numbers on the cards drawn by Quentin?
 
-**Answer:** 20
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q08|src_bocconi_finaleint_2008_g1__Q08]]
 
 
 
@@ -260,11 +298,16 @@ On the planet Sram, identify the type of inhabitant with two questions.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Six points on a straight line not in order: distance between the two most distant points.*
+*Six points on a line, not in order: the distance between the two farthest points.*
 
-> Six points $A$, $B$, $C$, $D$, $E$ and $F$ are marked on a straight line, not necessarily in this order. It is known that $AB = 2$ cm, $BC = 3$ cm, $CD = 5$ cm, $DE = 7$ cm, $EF = 8$ cm and $FA = 9$ cm. What is the distance in cm between the two most distant points?
+> Six points $A$, $B$, $C$, $D$, $E$, and $F$ are marked on a straight line, not necessarily in this order. It is known that $AB = 2$ cm, $BC = 3$ cm, $CD = 5$ cm, $DE = 7$ cm, $EF = 8$ cm, and $FA = 9$ cm. What is the distance, in cm, between the two farthest points?
 
-**Answer:** 2 solutions: 17 cm; 15 cm
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q09|src_bocconi_finaleint_2008_g1__Q09]]
 
 
 
@@ -290,13 +333,18 @@ On the planet Sram, identify the type of inhabitant with two questions.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of regions closed by tracing a regular pentagon and hexagon not crossed.*
+*Maximum number of regions enclosed by drawing a regular pentagon and a regular hexagon that do not intersect.*
 
-> By drawing an equilateral triangle and a square, a maximum of $7$ closed regions in the plane are created. Mathias draws an uncrossed regular pentagon (figure at $5$ sides) and a regular hexagon (figure at $6$ sides). How many closed regions of the plan will you get, at most?
+> By drawing an equilateral triangle and a square, at most $7$ closed regions are created in the plane. Mathias draws a non-self-intersecting regular pentagon (a figure with $5$ sides) and a regular hexagon (a figure with $6$ sides). At most, how many closed regions in the plane will he obtain?
 
 ![[src_bocconi_finaleint_2008_g1__q10.png]]
 
-**Answer:** 11 closed regions
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q10|src_bocconi_finaleint_2008_g1__Q10]]
 
 
 
@@ -322,13 +370,18 @@ On the planet Sram, identify the type of inhabitant with two questions.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Magic pentagon: fill with distinct positive integers with equal sums on each segment.*
+*Magic pentagon: fill it with distinct positive integers such that the sums on each segment are equal.*
 
-> Complete this pentagon with the help of strictly positive integers so that: $\bullet$ the numbers are all different; $\bullet$ the sum of three numbers placed on the same segment is always the same; $\bullet$ the largest number is the smallest possible.
+> Complete this pentagon using strictly positive integers such that: $\bullet$ the numbers are all different; $\bullet$ the sum of three numbers lying on the same segment is always the same; $\bullet$ the largest number is as small as possible.
 
 ![[src_bocconi_finaleint_2008_g1__q11.png]]
 
-**Answer:** 1 solution
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q11|src_bocconi_finaleint_2008_g1__Q11]]
 
 
 
@@ -354,13 +407,18 @@ On the planet Sram, identify the type of inhabitant with two questions.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Naval Battle: positioning ships on a 6x5 grid by deducing from rotated photos.*
+*Naval battle: place ships on a 6x5 grid by deducing from rotated photos.*
 
-> The figure represents a map of the military port of Maths-Pays and three of its aerial photographs taken at the same time. Boxes occupied by two different ships cannot touch each other, not even diagonally. All ships are $1$ wide. There is one aircraft carrier of length $3$, two anti-shippers of length $2$ and three stockpiles of length $1$. Complete the paper, knowing that there are no photos that have the correct orientation (each rotated).
+> The figure shows a chart $6 \times 5$ of the military port of Maths-Pays and three of its aerial photographs taken at the same time. The squares occupied by two different ships cannot touch, not even diagonally. All the ships are $1$ wide. There is one aircraft carrier $3$ long, two destroyers $2$ long, and three escorts $1$ long. Complete the chart, knowing that none of the photographs is correctly oriented (each has been rotated).
 
 ![[src_bocconi_finaleint_2008_g1__q12.png]]
 
-**Answer:** 1 solution
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q12|src_bocconi_finaleint_2008_g1__Q12]]
 
 
 
@@ -384,11 +442,16 @@ On the planet Sram, identify the type of inhabitant with two questions.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Camel: maximum quantity of water delivered to a camp in the desert with two camels.*
+*Camelier: the maximum amount of water delivered to a field in the desert using two camels.*
 
-> A camel shed is located at the entrance of the desert and must supply water to a field located $16$ km from there. It has a water reserve of $100$ L and two camels moving at $4$ km/h. When moving, a camel can carry up to $50$ L of water and consume $4$ L of water per hour while, when standing, it consumes only $1$ L per hour. The camel rider, for his part, consumes $2$ L of water per hour walking and $1$ L of water per hour standing. A camel that is not led by its camel keeper can no longer navigate the desert. The camel keeper can tie a camel to a picket and leave it alone. How much water can the camelman deliver to the camp, knowing that he must be able to get out of the wilderness (at the same point of entry) with his two camels?
+> A camel driver is at the entrance to the desert and must supply water to a camp located $16$ km from there. He has a water reserve of $100$ L and two camels that move at $4$ km/h. When moving, a camel can carry up to $50$ L of water and consumes $4$ L of water per hour, whereas when at rest it consumes only $1$ L per hour. As for the camel driver himself, he consumes $2$ L of water per hour when walking and $1$ L of water per hour when at rest. A camel not led by its camel driver can no longer find its way around in the desert. The camel driver can tie a camel to a stake and leave it alone. What is the maximum amount of water the camel driver can deliver to the camp, knowing that he must be able to get out of the desert (at the same point as the entrance) with his two camels?
 
-**Answer:** 30 liters
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q13|src_bocconi_finaleint_2008_g1__Q13]]
 
 
 
@@ -414,13 +477,18 @@ On the planet Sram, identify the type of inhabitant with two questions.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fill a 5x5 grid with digits 1-5 (Latin square) consistent with the rows shown at the edges.*
+*Fill a 5x5 grid with the digits 1–5 (a Latin square) in a way consistent with the ranks indicated at the edges.*
 
-> Each box contains a number and a single number. Each row and column contains all the digits from $1$ to $5$. The five-digit numbers obtained by reading the rows from left to right and the columns from top to bottom are all different. Their ranks are given in increasing order outside the grid. Fill the grid.
+> Each cell contains exactly one digit. Each row and each column contains all the digits from $1$ to $5$. The five-digit numbers obtained by reading the rows from left to right and the columns from top to bottom are all different. Their ranks, in ascending order, are indicated outside the grid. Fill in the grid.
 
 ![[src_bocconi_finaleint_2008_g1__q14.png]]
 
-**Answer:** 2 solutions
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q14|src_bocconi_finaleint_2008_g1__Q14]]
 
 
 
@@ -444,11 +512,16 @@ On the planet Sram, identify the type of inhabitant with two questions.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Phetorals: how many people can have guessed their number in a row by chain deduction.*
+*Chest Numbers: How many people could have guessed their own number in a line with chain deduction?*
 
-> Aline has $2010$ breasts: two numbered $0$ and the others numbered $1$ to $2008$. $2009$ people are in a room and Aline puts one of her breasts on each one without her seeing it. The last chest is hidden. Each person knows the number of breasts of all the others. These people then line up randomly in an order unknown to all. The first of the line tells the second (in such a way that no one else understands) whether or not she has guessed her number (she will tell anyone). Similarly, the second person tells the third person's ear whether or not she guessed her number and so on until the end... (These people all reason perfectly). For the record, I learned that the fifth person in the line had guessed his number. How many people could guess their number?
+> Aline has $2010$ name tags: two numbered $0$, and the others numbered from $1$ to $2008$. $2009$ people are in a room, and Aline puts one of the name tags on each of them without that person being able to see it. The last name tag is hidden. Each person knows the number of every other person's name tag. These people then line up at random in an order unknown to everyone. The first person in the line whispers into the second person's ear (in such a way that no one else can hear) whether she has guessed her own number or not (she will state any number whatsoever). Likewise, the second person whispers into the third person's ear whether she has guessed her own number or not, and so on to the end... (all these people reason perfectly). Through a slip of the tongue, I learned that the fifth person in the line had guessed her own number. How many people could have guessed their own number?
 
-**Answer:** 6 solutions: 1; 2005; 2006; 2007; 2008; 2009
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_induzione|Induction]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q15|src_bocconi_finaleint_2008_g1__Q15]]
 
 
 
@@ -472,11 +545,16 @@ On the planet Sram, identify the type of inhabitant with two questions.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distinct colours (excluding rotations) of the triangles of the faces of a tetrahedron.*
+*Distinct colorings (up to rotations) of the small triangles on the faces of a tetrahedron.*
 
-> Chloé has regular paper tetrahedra (triangular-based pyramids whose faces are all equilateral triangles). Each face of these tetrahedra is divided into four equilateral triangles, and Chloé colors each triangle of his tetrahedra in orange, green, blue, or yellow. Chloé finds a beautiful coloration if for each triangle, he and his three neighbors use exactly once each of the four colors (a triangle can have a neighbor on one face). How many different beautiful colors can you get, at most? (Two colors are different if you can't switch from one to the other by spinning the tetrahedron in space.)
+> Chloé has regular paper tetrahedra (pyramids with triangular bases, all of whose faces are equilateral triangles). Each face of these tetrahedra is divided into four small equilateral triangles, and Chloé colors each of the small triangles on her tetrahedra orange, green, blue, or yellow. Chloé considers a coloring to be beautiful if, for each small triangle, the triangle itself and its three neighbors each use each of the four colors exactly once (a triangle can have a neighbor on a single face). At most, how many different beautiful colorings can she obtain? (Two colorings are different if one cannot be transformed into the other by rotating the tetrahedron in space.)
 
-**Answer:** 20 colorings
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]], [[method_simmetria|Using symmetry]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q16|src_bocconi_finaleint_2008_g1__Q16]]
 
 
 
@@ -502,13 +580,18 @@ On the planet Sram, identify the type of inhabitant with two questions.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete a 5x5 grid with 1,2,3 with line, column and diagonal sum constraints in the rectangles.*
+*Complete a 5x5 grid with 1, 2, 3, with ordering constraints for rows, columns, and diagonal sums within the rectangles.*
 
-> Each grid box contains the figure $1$, $2$ or $3$. In the lower row, the figures are in increasing order in the broad sense (two nearby figures can be equal) from left to right. In the left column, the figures are in increasing order in a broad sense from bottom to top. Complete the grid so that, in any rectangle or quadrat of four boxes at the intersection of two rows and two columns, the two sums of two digits in diagonal are different. Thus, on the figure, the sum of $a$ and $b$ must be different from $3$.
+> Each cell of the grid contains the digit $1$, $2$, or $3$. In the bottom row, the digits are in broad ascending order from left to right (two adjacent digits may be equal). In the left column, the digits are in broad ascending order from bottom to top. Complete the grid so that, in each "rectangle" or "square" of four cells at the intersection of two rows and two columns, the two sums of two digits along the diagonals are different. Thus, in the figure, the sum of $a$ and $b$ must be different from $3$.
 
 ![[src_bocconi_finaleint_2008_g1__q17.png]]
 
-**Answer:** 1 solution
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q17|src_bocconi_finaleint_2008_g1__Q17]]
 
 
 
@@ -532,8 +615,13 @@ On the planet Sram, identify the type of inhabitant with two questions.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gold: maximum amount of gold NOT exactly obtained from combinations of four types of bricks.*
+*Ingots: the maximum quantity of gold that cannot be obtained exactly using combinations of four types of bricks.*
 
-> Picsou owns four types of gold bullion, each available in infinite quantities. They are rectangular bricks $A$, $B$, $C$ and $D$ of the same density, the dimensions in centimetres being: $\bullet$ $3$, $4$ and $7$ respectively for $A$; $\bullet$ $3$, $4$ and $11$ for $B$; $\bullet$ $3$, $7$ and $11$ for $C$; $\bullet$ $4$, $7$ and $11$ for $D$. With four $A$ bars, one $B$ bar, four $C$ bars and two $D$ bars, Picsou obtains an exact amount of gold equal to $2008$ cm$^3$. What is the maximum amount of gold in cm$^3$ that you cannot get exactly?
+> Scrooge owns four types of gold bars, each available in infinite quantities. They are rectangular bricks $A$, $B$, $C$, and $D$, of the same density, whose dimensions in centimeters are respectively: $\bullet$ $3$, $4$, and $7$ for $A$; $\bullet$ $3$, $4$, and $11$ for $B$; $\bullet$ $3$, $7$, and $11$ for $C$; $\bullet$ $4$, $7$, and $11$ for $D$. With four bars $A$, one bar $B$, four bars $C$, and two bars $D$, Scrooge obtains exactly a quantity of gold equal to $2008$ cm$^3$. What is the maximum quantity of gold, in cm$^3$, that he cannot obtain exactly?
 
-**Answer:** 2017
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g1#q18|src_bocconi_finaleint_2008_g1__Q18]]

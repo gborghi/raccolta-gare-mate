@@ -33,13 +33,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cellule massime coperte da almeno 1 L di tetromino su una griglia 5x5*
+*Massimo numero di caselle coperte da almeno un tetramino a L*
 
-> Su una griglia $5 \times 5$, le piastrelle di tetromino a forma di L (che coprono ciascuna 4 celle a forma di L, come mostrato) sono posizionate lungo le linee della griglia. Le piastrelle possono sovrapporsi tra loro, ma non devono estendersi al di fuori della griglia. Per ogni cella, il numero di piastrelle che la coprono deve essere compreso tra $0$ e $2$ (inclusi). Trovare il numero massimo possibile di celle che sono coperte da almeno $1$ piastrelle.
-> 
-> (Le piastrelle possono essere rotate e riflesse.)
+> Su una griglia $5 \times 5$ si pongono tessere tetramino a L (ciascuna copre 4 caselle a forma di L, come in figura) lungo le linee della griglia. Le tessere possono sovrapporsi, ma non devono uscire dalla griglia. Per ogni casella, il numero di tessere che la coprono deve essere compreso tra $0$ e $2$ (estremi inclusi). Trovare il massimo numero possibile di caselle coperte da almeno $1$ tessera.
+>
+> (Le tessere si possono ruotare e riflettere.)
 
 ![[src_jmo33hq_honsen__q01.png]]
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo33hq_honsen#q01|src_jmo33hq_honsen__Q01]]
 
 
 
@@ -62,9 +67,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel triangolo acuto, la linea attraverso F parallela a XY incontra DY a P; prova AD perp EP*
+*Due rette sono perpendicolari*
 
-> Il $ABC$ deve essere un triangolo acuto con $D$, $E$, $F$ i punti medi dei lati $BC$, $CA$ e $AB$ rispettivamente. I piedi $X$ e $Y$ siano i piedi delle perpendicolari da $D$ alle linee $AB$ e $AC$ rispettivamente. La linea attraverso $F$ parallela alla linea $XY$ incontra la linea $DY$ in un punto $P$. Provare che le linee $AD$ e $EP$ sono perpendicolari.
+> Sia $ABC$ un triangolo acutangolo, e siano $D$, $E$, $F$ i punti medi dei lati $BC$, $CA$, $AB$ rispettivamente. Siano $X$ e $Y$ i piedi delle perpendicolari da $D$ rispettivamente alle rette $AB$ e $AC$. La retta per $F$ parallela alla retta $XY$ incontra la retta $DY$ in un punto $P$. Dimostrare che le rette $AD$ e $EP$ sono perpendicolari.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo33hq_honsen#q02|src_jmo33hq_honsen__Q02]]
 
 
 
@@ -91,11 +101,20 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le sequenze di numeri interi positivi dove il conteggio di i con a_i <= a_{i+1}+c è uguale a c per tutte le n*
+*Successioni di interi positivi con un conteggio fissato*
 
-> $c$ sia un numero intero non negativo. Trovare tutte le sequenze di interi positivi $a_1, a_2, \ldots$ in modo tale che per qualsiasi intero non negativo $n$, il numero di interi positivi $i$ che soddisfano $$a_i \le a_{i+1} + c$$ e $i \le n$ sia esattamente $c$.
-> 
-> (Quindi, quando $n = 0$ il conteggio è $0$, quindi la condizione è soddisfatta a vuoto per $n = 0$.)
+> Sia $c$ un intero non negativo. Determinare tutte le successioni di interi positivi $a_1, a_2, \ldots$ tali che, per qualunque intero non negativo $n$, il numero di interi positivi $i$ che soddisfano
+>
+> $$a_i \le a_{i+1} + c$$
+>
+> e $i \le n$ sia esattamente $c$.
+>
+> (Qui, quando $n = 0$, il conteggio è $0$, così la condizione è soddisfatta in modo vuoto per $n = 0$.)
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_jmo33hq_honsen#q03|src_jmo33hq_honsen__Q03]]
 
 
 
@@ -120,9 +139,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi n per i quali (phi(n)^phi(n) - 1) / d(n) non è un intero*
+*Interi positivi per cui un quoziente non è intero*
 
-> Trovare tutti gli integri positivi $n$ in modo che $$\frac{\varphi(n)^{\varphi(n)} - 1}{d(n)}$$ non sia un intero. Qui $\varphi(n)$ indica il numero di integri da $1$ a $n$ che sono copriemi a $n$ (funzione totiente di Euler), e $d(n)$ indica il numero di divisori positivi di $n$.
+> Determinare tutti gli interi positivi $n$ tali che
+>
+> $$\frac{\varphi(n)^{\varphi(n)} - 1}{d(n)}$$
+>
+> non sia un intero. Qui $\varphi(n)$ indica il numero di interi da $1$ a $n$ che sono coprimi con $n$ (la funzione totiente di Eulero), e $d(n)$ indica il numero di divisori positivi di $n$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo33hq_honsen#q04|src_jmo33hq_honsen__Q04]]
 
 
 
@@ -150,10 +178,17 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*S={1,...,3000}; trovare il massimo X in modo che per qualsiasi bijezione f, qualche bijezione g faccia la somma >= X*
+*Massimo intero per cui ogni biezione ne ammette un'altra con una disuguaglianza*
 
-> Let $S = \{1, 2, \ldots, 3000\}$. Trova il numero intero massimo $X$ in modo tale che la seguente condizione sia valida:
-> 
-> Per qualsiasi bizione $f : S \to S$, esiste una bizione $g : S \to S$ tale che $$\sum_{k=1}^{3000} \Bigl(\max\{f(f(k)),\, f(g(k)),\, g(f(k)),\, g(g(k))\} - \min\{f(f(k)),\, f(g(k)),\, g(f(k)),\, g(g(k))\}\Bigr) \ge X.$$
-> 
-> Qui, una bijezione da $S$ a $S$ è una funzione $f : S \to S$ tale che per ogni elemento $y \in S$ esiste esattamente un elemento $x \in S$ con $f(x) = y$. Per i numeri interi positivi $x_1, x_2, x_3, x_4$, $\max\{x_1, x_2, x_3, x_4\}$ e $\min\{x_1, x_2, x_3, x_4\}$ indicano rispettivamente il loro massimo e il loro minimo.
+> Sia $S = \{1, 2, \ldots, 3000\}$. Trovare il massimo intero $X$ tale che valga la condizione seguente.
+>
+> Per ogni biezione $f : S \to S$, esiste una biezione $g : S \to S$ tale che
+>
+> $$\sum_{k=1}^{3000} \Bigl(\max\{f(f(k)),\, f(g(k)),\, g(f(k)),\, g(g(k))\} - \min\{f(f(k)),\, f(g(k)),\, g(f(k)),\, g(g(k))\}\Bigr) \ge X.$$
+>
+> Qui una biezione da $S$ a $S$ è una funzione $f : S \to S$ tale che per ogni elemento $y \in S$ esiste esattamente un elemento $x \in S$ con $f(x) = y$. Per interi positivi $x_1, x_2, x_3, x_4$, $\max\{x_1, x_2, x_3, x_4\}$ e $\min\{x_1, x_2, x_3, x_4\}$ indicano rispettivamente il loro massimo e il loro minimo.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Sfruttamento della simmetria]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo33hq_honsen#q05|src_jmo33hq_honsen__Q05]]

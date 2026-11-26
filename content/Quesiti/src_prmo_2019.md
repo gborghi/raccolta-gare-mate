@@ -29,9 +29,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area rimossa dal quadrato per formare un ottagono regolare*
+*Da un quadrato di lato 5 si tagliano i quattro angoli e resta un ottagono regolare: area tolta, all'intero più vicino*
 
-> Da un quadrato con lati di lunghezza 5, vengono rimossi pezzi triangolari dai quattro angoli per formare un ottagono regolare. Trovare l'area rimossa al numero intero più vicino?
+> Da un quadrato di lato 5 si tolgono pezzi triangolari ai quattro vertici, in modo da ottenere un ottagono regolare. Trovare l'area tolta, arrotondata all'intero più vicino.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2019#q01|src_prmo_2019__Q01]]
 
 
 
@@ -57,11 +63,21 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizione delle radici dell'equazione funzionale*
+*Trinomio che verifica f(x+1/x) = f(x) + f(1/x) e ha radici intere: valore di a² + b²*
 
-> Let $f(x) = x^2 + ax + b$. Se per tutti i $x$ $$f\!\left(x + \frac{1}{x}\right) = f(x) + f\!\left(\frac{1}{x}\right)$$ reali non zero e le radici di $f(x) = 0$ sono numeri interi, qual è il valore di $a^2 + b^2$?
+> Sia $f(x) = x^2 + ax + b$. Se per ogni reale non nullo $x$
+>
+> $$f\!\left(x + \frac{1}{x}\right) = f(x) + f\!\left(\frac{1}{x}\right)$$
+>
+> e le radici di $f(x) = 0$ sono interi, qual è il valore di $a^2 + b^2$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 
 **Risposta:** 13
+
+[[Quesiti/src_prmo_2019#q02|src_prmo_2019__Q02]]
 
 
 
@@ -85,11 +101,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza definita da prodotto ricorsivo; somma di numeri del fattore primo più grande*
+*Successione x₁ reale positivo, x_{n+1} = 1 + x₁…xₙ, con x₅ = 13: somma delle cifre del massimo fattore primo di x₅*
 
-> Che $x_1$ sia un numero reale positivo e per ogni intero $n \ge 1$ che $x_{n+1} = 1 + x_1 x_2 \cdots x_n$. Se $x_5 = 13$, qual è la somma delle cifre del più grande fattore primo di $x_5$?
+> Sia $x_1$ un numero reale positivo e, per ogni intero $n \ge 1$, sia $x_{n+1} = 1 + x_1 x_2 \cdots x_n$. Se $x_5 = 13$, qual è la somma delle cifre del massimo fattore primo di $x_5$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 4
+
+[[Quesiti/src_prmo_2019#q03|src_prmo_2019__Q03]]
 
 
 
@@ -113,11 +135,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostrato di camminata di formiche Distanza totale*
+*Formica che cammina 4 piedi e gira di 160° a destra, finché non torna al formicaio: distanza percorsa*
 
-> Una formica lascia la formica per l'esercizio mattutino. Cammina a 4 piedi ad est e poi fa una curva a destra e cammina altri 4 piedi. Poi fa un'altra volta a destra e cammina altri 4 piedi. Se la formica continua questo modello fino a raggiungere di nuovo la formica, quale distanza in piedi avrebbe camminato?
+> Una formica esce dal formicaio per la passeggiata del mattino. Cammina 4 piedi verso est, poi gira di $160^\circ$ a destra e cammina altri 4 piedi. Poi fa un altro giro di $160^\circ$ a destra e cammina altri 4 piedi. Se continua così finché non torna al formicaio, quanti piedi ha percorso?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
 **Risposta:** 40
+
+[[Quesiti/src_prmo_2019#q04|src_prmo_2019__Q04]]
 
 
 
@@ -140,9 +168,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disposizioni di sedute su tavolo circolare con condizione distintiva*
+*Cinque persone con distintivi 1–5 attorno a un tavolo circolare, numeri consecutivi non vicini; le rotazioni contano come diverse*
 
-> 5 persone con distintivi con i numeri 1, 2, 3, 4, 5 si siedono su 5 sedie attorno a un tavolo circolare. In quanti modi possono essere sedute in modo che non siano sedute a fianco di due persone i cui distintivi abbiano numeri consecutivi? (Due disposizioni ottenute per rotazione intorno alla tavola sono considerate diverse.)
+> 5 persone, con distintivi numerati 1, 2, 3, 4, 5, sono sedute su 5 sedie attorno a un tavolo circolare. In quanti modi possono sedersi in modo che due persone i cui distintivi hanno numeri consecutivi non stiano l'una accanto all'altra? Due disposizioni ottenute per rotazione attorno al tavolo si considerano diverse.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_prmo_2019#q05|src_prmo_2019__Q05]]
 
 
 
@@ -165,9 +199,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero a tre cifre con la somma dei quadrati di cifre uguali a quadrato*
+*Numero di tre cifre, tutte diverse da zero, con a² + b² = c²: massimo fattore primo possibile*
 
-> $\overline{abc}$ sia un numero a tre cifre con cifre non zero come $a^2 + b^2 = c^2$. Qual è il più grande fattore primo possibile di $\overline{abc}$?
+> Sia $\overline{abc}$ un numero di tre cifre, con cifre tutte diverse da zero, tale che $a^2 + b^2 = c^2$. Qual è il massimo fattore primo possibile di $\overline{abc}$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2019#q06|src_prmo_2019__Q06]]
 
 
 
@@ -190,11 +230,16 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Differenza di angolo dell'orologio tra due volte quando le mani sono perpendicolari*
+*Fra mezzogiorno e l'una, due istanti in cui le lancette sono perpendicolari: differenza in minuti, poi a + b + c*
 
-> Su un orologio, ci sono due istanti tra le 12 di mezzogiorno e le 13 di sera, quando la mano dell'ora e la mano del minuto sono ad angolo retto. La differenza di minuti tra questi due istanti è scritta come $a + \frac{b}{c}$, dove $a, b, c$ sono integri positivi, con $b < c$ e $b/c$ nella forma ridotta. Qual è il valore di $a + b + c$?
+> Su un orologio, fra mezzogiorno e l'una, ci sono due istanti in cui la lancetta delle ore e quella dei minuti formano un angolo retto. La differenza, in minuti, fra questi due istanti si scrive come $a + \frac{b}{c}$, dove $a, b, c$ sono interi positivi, con $b < c$ e $b/c$ in forma ridotta. Qual è il valore di $a + b + c$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
 **Risposta:** 51
+
+[[Quesiti/src_prmo_2019#q07|src_prmo_2019__Q07]]
 
 
 
@@ -217,9 +262,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare n in [3,100] in modo tale che x^2+x+1 sia divisibile da n per qualche intero x*
+*Interi n fra 3 e 100 per cui x² + x + 1 è divisibile per n, per qualche intero x*
 
-> Quanti integri positivi $n$ esistono tali che $3 \le n \le 100$ e $x^2 + x + 1$ siano divisibili da $n$ per un certo numero intero $x$?
+> Quanti interi positivi $n$ sono tali che $3 \le n \le 100$ e $x^2 + x + 1$ è divisibile per $n$ per qualche intero $x$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_prmo_2019#q08|src_prmo_2019__Q08]]
 
 
 
@@ -241,9 +292,14 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Razionale più vicino a 22/7 con denominatore inferiore a 100*
+*Razionale di denominatore minore di 100 più vicino a 22/7, ma diverso da esso: valore di p − 3q*
 
-> Il numero razionale $p/q$ deve essere il più vicino ma non uguale a $22/7$ tra tutti i numeri razionali con denominatore $< 100$. Qual è il valore di $p - 3q$?
+> Sia $p/q$ il numero razionale più vicino a $22/7$, ma diverso da esso, fra tutti i razionali con denominatore $< 100$. Qual è il valore di $p - 3q$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+
+[[Quesiti/src_prmo_2019#q09|src_prmo_2019__Q09]]
 
 
 
@@ -266,9 +322,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bissettori d'angolo su circoncircolo iterato; angolo più piccolo del nuovo triangolo*
+*Bisettrici interne iterate sulla circonferenza circoscritta; angolo minimo 40°: misura dell'angolo minimo del triangolo finale*
 
-> Che $ABC$ sia un triangolo e che $\Omega$ sia il suo circoncircolo. I bisettori interni degli angoli $A$, $B$ e $C$ si intersecano $\Omega$ rispettivamente a $A_1$, $B_1$ e $C_1$, e i bisettori interni degli angoli $A_1$, $B_1$ e $C_1$ del triangolo $A_1B_1C_1$ si intersecano $\Omega$ rispettivamente a $A_2$, $B_2$ e $C_2$. Se l'angolo più piccolo del triangolo $ABC$ è $40^\circ$, qual è la grandezza dell'angolo più piccolo del triangolo $A_2B_2C_2$ in gradi?
+> Sia $ABC$ un triangolo e sia $\Omega$ la sua circonferenza circoscritta. Le bisettrici interne degli angoli $A$, $B$ e $C$ intersecano $\Omega$ in $A_1$, $B_1$ e $C_1$ rispettivamente, e le bisettrici interne degli angoli $A_1$, $B_1$ e $C_1$ del triangolo $A_1B_1C_1$ intersecano $\Omega$ in $A_2$, $B_2$ e $C_2$ rispettivamente. Se l'angolo più piccolo del triangolo $ABC$ è $40^\circ$, qual è la misura dell'angolo più piccolo del triangolo $A_2B_2C_2$ in gradi?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2019#q10|src_prmo_2019__Q10]]
 
 
 
@@ -293,9 +355,19 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli simili a ABC con cos A cos B sin C = 1*
+*Triangoli a meno di similitudine, angoli interi positivi, con un'identità trigonometrica per qualche k e kC ≤ 360°*
 
-> Quanti triangoli distinti $ABC$ esistono, fino alla somiglianza, in modo tale che le magnitudini degli angoli $A$, $B$ e $C$ in gradi siano integri positivi e $$\cos A \cos B + \sin A \sin B \sin kC = 1$$ per qualche integro positivo $k$, dove $kC$ non supera $360^\circ$?
+> Quanti triangoli distinti $ABC$ ci sono, a meno di similitudine, tali che le misure degli angoli $A$, $B$ e $C$, in gradi, siano interi positivi e
+>
+> $$\cos A \cos B + \sin A \sin B \sin kC = 1$$
+>
+> per qualche intero positivo $k$, dove $kC$ non supera $360^\circ$?
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2019#q11|src_prmo_2019__Q11]]
 
 
 
@@ -320,9 +392,19 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di n per il quale f(n+5)/f(n) è un numero intero, numeri buoni*
+*Numeri naturali buoni, somma di reciproci di radici uguale a 1: somma degli n per cui f(n+5)/f(n) è intero*
 
-> Un numero naturale $k > 1$ è chiamato buono se esistono numeri naturali $a_1 < a_2 < \cdots < a_k$ in modo tale che $$\frac{1}{\sqrt{a_1}} + \frac{1}{\sqrt{a_2}} + \ldots + \frac{1}{\sqrt{a_k}} = 1.$$ $f(n)$ sia la somma dei primi numeri buoni $n$, $n \ge 1$. Trova la somma di tutti i valori di $n$ per i quali $f(n+5)/f(n)$ è un numero intero.
+> Un numero naturale $k > 1$ si dice buono se esistono numeri naturali $a_1 < a_2 < \cdots < a_k$ tali che
+>
+> $$\frac{1}{\sqrt{a_1}} + \frac{1}{\sqrt{a_2}} + \ldots + \frac{1}{\sqrt{a_k}} = 1.$$
+>
+> Sia $f(n)$ la somma dei primi $n$ numeri buoni, $n \ge 1$. Trovare la somma di tutti i valori di $n$ per cui $f(n+5)/f(n)$ è un intero.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2019#q12|src_prmo_2019__Q12]]
 
 
 
@@ -345,9 +427,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum somma positiva di prodotti di coppie provenienti da ±1 sequenza*
+*101 numeri uguali a ±1: minimo valore positivo della somma dei prodotti a due a due*
 
-> Ogni numero $x_1, x_2, \ldots, x_{101}$ è $\pm 1$. Qual è il valore positivo più piccolo di $\displaystyle\sum_{1 \le i < j \le 101} x_i x_j$?
+> Ciascuno dei numeri $x_1, x_2, \ldots, x_{101}$ vale $\pm 1$. Qual è il minimo valore positivo di $\displaystyle\sum_{1 \le i < j \le 101} x_i x_j$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_prmo_2019#q13|src_prmo_2019__Q13]]
 
 
 
@@ -370,9 +458,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La più piccola n >= 10 con n+6 primo e 9n+7 quadrato perfetto*
+*Minimo intero n almeno 10 tale che n + 6 è primo e 9n + 7 è un quadrato perfetto*
 
-> Trova il più piccolo intero positivo $n \ge 10$ in modo che $n + 6$ sia un primo e $9n + 7$ sia un quadrato perfetto.
+> Trovare il minimo intero positivo $n \ge 10$ tale che $n + 6$ sia primo e $9n + 7$ sia un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_prmo_2019#q14|src_prmo_2019__Q14]]
 
 
 
@@ -395,9 +489,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I coppie di diagonali paralleli in 10 goni regolari*
+*Modi di scegliere una coppia di diagonali parallele in un decagono regolare*
 
-> In quanti modi si possono selezionare una coppia di diagonali paralleli di un poligono regolare di 10 lati?
+> In quanti modi si può scegliere una coppia di diagonali parallele di un poligono regolare di 10 lati?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_prmo_2019#q15|src_prmo_2019__Q15]]
 
 
 
@@ -420,9 +520,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scuola paga un supplemento per lo scambio di penne e notebook*
+*Penne a 13 rupie e quaderni a 17: spesa esatta di 10000 con numeri il più vicini possibile, poi lo scambio. Quanto in più l'anno dopo*
 
-> Una penna costa Rs. 13 e un quaderno costa Rs. 17. Una scuola spende esattamente Rs. 10000 nel 2017-18 per acquistare penne $x$ e libri di appunti $y$ in modo che $x$ e $y$ siano il più vicini possibile (cioè $|x - y|$ è minimo). L'anno prossimo, nel 2018-19, la scuola spenderà poco più di Rs. 10000 e acquista penne $y$ e libri di appunti $x$. Quanto ha pagato la scuola?
+> Una penna costa 13 rupie e un quaderno costa 17 rupie. Una scuola spende esattamente 10000 rupie nell'anno 2017-18 per comprare $x$ penne e $y$ quaderni, in modo che $x$ e $y$ siano il più vicini possibile, cioè che $|x - y|$ sia minimo. L'anno dopo, nel 2018-19, la scuola spende un po' più di 10000 rupie e compra $y$ penne e $x$ quaderni. Quanto ha pagato in più?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_prmo_2019#q16|src_prmo_2019__Q16]]
 
 
 
@@ -445,9 +551,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triplici ordinati (a,b,c) con 30a+50b+70c <= 343*
+*Terne ordinate di interi positivi con 30a + 50b + 70c ≤ 343*
 
-> Trova il numero di triples ordinati $(a, b, c)$ di enti interi positivi come $30a + 50b + 70c \le 343$.
+> Trovare il numero di terne ordinate $(a, b, c)$ di interi positivi tali che $30a + 50b + 70c \le 343$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_prmo_2019#q17|src_prmo_2019__Q17]]
 
 
 
@@ -470,9 +582,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coppie (a, b) con gcd 1 e lcm 495*
+*Coppie ordinate a < b fra 100 e 1000 con gcd : mcm = 1 : 495*
 
-> Quante coppie ordinate $(a, b)$ di integri positivi con $a < b$ e $100 \le a, b \le 1000$ soddisfano $\gcd(a, b) : \text{lcm}(a, b) = 1 : 495$?
+> Quante coppie ordinate $(a, b)$ di interi positivi, con $a < b$ e $100 \le a, b \le 1000$, soddisfano $\gcd(a, b) : \text{lcm}(a, b) = 1 : 495$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2019#q18|src_prmo_2019__Q18]]
 
 
 
@@ -495,9 +613,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area quadrilaterale con DC perpendicolare in cerchio*
+*Diametro, punto che divide la corda nel rapporto 6:7, corda perpendicolare e diametro per quel punto: rapporto di aree, all'intero più vicino*
 
-> Il $AB$ deve essere un diametro di un cerchio e il $C$ deve essere un punto del cerchio tale che $AC : CB = 6 : 7$. Il $D$ deve essere un punto del cerchio tale che $DC$ sia perpendicolare a $AB$. Il diametro di $DE$ deve essere $D$. Se $[XYZ]$ indica l'area del triangolo $XYZ$, trovare $[ABD]/[CDE]$ al numero intero più vicino.
+> Sia $AB$ un diametro di una circonferenza e sia $C$ un punto della circonferenza tale che $AC : CB = 6 : 7$. Sia $D$ un punto della circonferenza tale che $DC$ sia perpendicolare a $AB$. Sia $DE$ il diametro per $D$. Se $[XYZ]$ indica l'area del triangolo $XYZ$, trovare $[ABD]/[CDE]$ arrotondato all'intero più vicino.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2019#q19|src_prmo_2019__Q19]]
 
 
 
@@ -520,9 +644,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N più piccolo dei rimanenti di progressione aritmetica 11,12,13*
+*Naturali che, divisi per 11, 12 e 13, danno resti primi distinti in progressione aritmetica: somma delle cifre del massimo*
 
-> Considera l'insieme $E$ di tutti i numeri naturali $n$ in modo tale che quando diviso rispettivamente per 11, 12, 13, i rimanenti, in tale ordine, sono numeri primi distinti in una progressione aritmetica. Se $N$ è il numero più grande di $E$, si trova la somma delle cifre di $N$.
+> Si consideri l'insieme $E$ di tutti i numeri naturali $n$ tali che, divisi per 11, 12 e 13 rispettivamente, i resti, in quest'ordine, siano primi distinti in progressione aritmetica. Se $N$ è il massimo numero di $E$, trovare la somma delle cifre di $N$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_prmo_2019#q20|src_prmo_2019__Q20]]
 
 
 
@@ -545,9 +675,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Primo più piccolo nella partizione del set E = {5,6,7,8,9}*
+*Partizioni di {5, 6, 7, 8, 9} in due parti non vuote: massimo primo fra le somme dei prodotti, poi somma delle cifre*
 
-> Considera l'insieme $E = \{5, 6, 7, 8, 9\}$. Per qualsiasi partizione $\{A, B\}$ di $E$, con sia $A$ che $B$ non vuoti, si deve considerare il numero ottenuto aggiungendo il prodotto degli elementi di $A$ al prodotto degli elementi di $B$. Che $N$ sia il numero primo più grande tra questi numeri. Trova la somma delle cifre di $N$.
+> Si consideri l'insieme $E = \{5, 6, 7, 8, 9\}$. Per ogni partizione $\{A, B\}$ di $E$, con $A$ e $B$ entrambi non vuoti, si consideri il numero ottenuto sommando il prodotto degli elementi di $A$ al prodotto degli elementi di $B$. Sia $N$ il massimo numero primo fra questi numeri. Trovare la somma delle cifre di $N$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_prmo_2019#q21|src_prmo_2019__Q21]]
 
 
 
@@ -570,9 +706,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
+*Massimo intero che non supera la somma da 1 a 1500 di 1/√k*
 
-> Qual è il numero intero più grande non superiore alla somma $\displaystyle\sum_{k=1}^{1500} \frac{1}{\sqrt{k}}$?
+> Qual è il massimo intero che non supera la somma $\displaystyle\sum_{k=1}^{1500} \frac{1}{\sqrt{k}}$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2019#q22|src_prmo_2019__Q22]]
 
 
 
@@ -597,9 +739,19 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area massima del quadrilatero ciclico data dalle distanze dal punto Fermat*
+*Quadrilatero convesso ciclico e punto di somma minima delle distanze dai vertici, distanze 3, 4, 6, 8: massima area*
 
-> Che $ABCD$ sia un quadrilaterale convex ciclico. Supponiamo che $P$ sia un punto nel piano del quadrilaterale in modo tale che la somma delle sue distanze dalle vertici di $ABCD$ sia la minore. Se $$\{PA, PB, PC, PD\} = \{3, 4, 6, 8\},$$ qual è la superficie massima possibile di $ABCD$?
+> Sia $ABCD$ un quadrilatero convesso ciclico. Si supponga che $P$ sia un punto del piano del quadrilatero tale che la somma delle sue distanze dai vertici di $ABCD$ sia minima. Se
+>
+> $$\{PA, PB, PC, PD\} = \{3, 4, 6, 8\},$$
+>
+> qual è la massima area possibile di $ABCD$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2019#q23|src_prmo_2019__Q23]]
 
 
 
@@ -622,9 +774,15 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più grande fattore primo del numero di colori per la griglia rettangolare*
+*Colorazioni di un rettangolo 1×n in tre colori, con un numero pari di quadrati rossi: massimo fattore primo di f(9)/f(3)*
 
-> Un rettangolo $1 \times n$ ($n \ge 1$) è diviso in quadrati unitari $n$ ($1 \times 1$). Ogni quadrato di questo rettangolo è di colore rosso, blu o verde. $f(n)$ è il numero di colori del rettangolo in cui ci sono un numero pari di quadrati rossi. Qual è il più grande fattore primo di $f(9)/f(3)$? (Il numero dei quadrati rossi può essere zero.)
+> Un rettangolo $1 \times n$ ($n \ge 1$) è diviso in $n$ quadrati unitari ($1 \times 1$). Ogni quadrato di questo rettangolo è colorato di rosso, di blu o di verde. Sia $f(n)$ il numero di colorazioni del rettangolo in cui il numero dei quadrati rossi è pari. Qual è il massimo fattore primo di $f(9)/f(3)$? Il numero dei quadrati rossi può essere zero.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_prmo_2019#q24|src_prmo_2019__Q24]]
 
 
 
@@ -647,9 +805,15 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Diametro della parete circolare del villaggio vista da un dato punto*
+*Muro circolare con quattro porte; un albero 16 m a nord della porta nord si vede appena da 48 m a est della porta sud: diametro*
 
-> Un villaggio ha un muro circolare attorno a esso, e il muro ha quattro porte che puntano a nord, sud, est e ovest. Al di fuori del villaggio, a 16 m a nord del cancello settentrionale, si trova un albero che appare all'orizzonte da un punto a 48 m a est del cancello sud. Qual è il diametro, in metri, del muro che circonda il villaggio?
+> Un villaggio è circondato da un muro circolare, con quattro porte rivolte a nord, a sud, a est e a ovest. Fuori dal villaggio, 16 m a nord della porta nord, c'è un albero, che si vede appena spuntare all'orizzonte da un punto 48 m a est della porta sud. Qual è il diametro, in metri, del muro che circonda il villaggio?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_prmo_2019#q25|src_prmo_2019__Q25]]
 
 
 
@@ -672,9 +836,15 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La minore x+y+z data xy+z=160*
+*Interi positivi con xy + z = 160: minimo di x + y + z*
 
-> I numeri interi positivi $x, y, z$ soddisfano $xy + z = 160$. Calcolare il minimo valore possibile di $x + y + z$.
+> Gli interi positivi $x, y, z$ soddisfano $xy + z = 160$. Calcolare il minimo valore possibile di $x + y + z$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_prmo_2019#q26|src_prmo_2019__Q26]]
 
 
 
@@ -697,9 +867,15 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disturbi di conteggio di BHARAT*
+*Riordinamenti di BHARAT senza lettere fisse; le due A sono identiche*
 
-> Diciamo che una riorganizzazione delle lettere di una parola non ha lettere fisse se, quando la riorganizzazione è posta direttamente sotto la parola, nessuna colonna ha la stessa lettera ripetuta. Ad esempio, $HBRATA$ è un riordinamento senza lettere fisse di $BHARAT$. Quante riorganizzazioni distinguibili senza lettere fisse ha $BHARAT$? (I due $A$ sono considerati identici.)
+> Diremo che un riordinamento delle lettere di una parola non ha lettere fisse se, posto il riordinamento sotto la parola, nessuna colonna ripete la stessa lettera. Per esempio, $HBRATA$ è un riordinamento senza lettere fisse di $BHARAT$. Quanti riordinamenti distinguibili senza lettere fisse ha $BHARAT$? Le due $A$ si considerano identiche.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_prmo_2019#q27|src_prmo_2019__Q27]]
 
 
 
@@ -722,9 +898,15 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel numero intero più grande non superiore a r1+r2+r3 per i triangoli angolari incircoli*
+*Triangolo di lati 51, 52, 53: tangenti all'incirconferenza parallele ai lati. Massimo intero che non supera la somma dei tre raggi inscritti agli angoli*
 
-> $ABC$ sia un triangolo con lati 51, 52, 53. $\Omega$ indichi l'incircolo di $\triangle ABC$. Tracciare tangenti a $\Omega$ paralleli ai lati di $ABC$. Il $r_1, r_2, r_3$ deve essere l'inradii dei tre triangoli angolari così formati. Trova il più grande numero intero non superiore a $r_1 + r_2 + r_3$.
+> Sia $ABC$ un triangolo di lati 51, 52, 53. Sia $\Omega$ la circonferenza inscritta di $\triangle ABC$. Si traccino le tangenti a $\Omega$ parallele ai lati di $ABC$. Siano $r_1, r_2, r_3$ i raggi inscritti dei tre triangoli agli angoli così formati. Trovare il massimo intero che non supera $r_1 + r_2 + r_3$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2019#q28|src_prmo_2019__Q28]]
 
 
 
@@ -747,9 +929,15 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integra più vicina all'area del triangolo ABC con data media e bisector*
+*Mediana e bisettrice perpendicolari, di lunghezze 7 e 9: intero più vicino all'area del triangolo*
 
-> In un triangolo $ABC$, la media $AD$ (con $D$ su $BC$) e il bisettore angolare $BE$ (con $E$ su $AC$) sono perpendicolari l'una all'altra. Se $AD = 7$ e $BE = 9$, trovare il numero intero più vicino all'area del triangolo $ABC$.
+> Nel triangolo $ABC$ la mediana $AD$, con $D$ su $BC$, e la bisettrice $BE$, con $E$ su $AC$, sono perpendicolari. Se $AD = 7$ e $BE = 9$, trovare l'intero più vicino all'area del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2019#q29|src_prmo_2019__Q29]]
 
 
 
@@ -772,6 +960,12 @@ Numero intero più grande non superiore alla somma di 1/sqrt ((k) fino a 1500*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di elementi di E suddivisi in 3 sottogruppi con somme uguali*
+*Naturali n fra 4 e 99 tali che {1, …, n} si partisce in tre sottoinsiemi di somma uguale*
 
-> $E$ indichi l'insieme di tutti i numeri naturali $n$ in modo tale che $3 < n < 100$ e l'insieme $\{1, 2, 3, \ldots, n\}$ possano essere suddivisi in 3 sottoinsiemi con somme uguali. Trova il numero di elementi di $E$.
+> Sia $E$ l'insieme di tutti i numeri naturali $n$ tali che $3 < n < 100$ e l'insieme $\{1, 2, 3, \ldots, n\}$ si possa partizionare in 3 sottoinsiemi di somma uguale. Trovare il numero di elementi di $E$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_prmo_2019#q30|src_prmo_2019__Q30]]

@@ -31,11 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Termini della successione con tre o più fattori primi*
+*Almeno 49 dei primi 60 termini hanno tre o più fattori primi*
 
-> Nella successione $7, 76, 769, 7692, 76923, 769230, \ldots$, l'$n$-esimo termine è formato dalle prime $n$ cifre dopo la virgola dello sviluppo decimale di $10/13 = 0.7692307692\ldots$
-> 
-> Si dimostri che, tra i primi 60 termini della successione, almeno 49 hanno tre o più fattori primi (i fattori primi ripetuti contano; ad esempio, $76 = 2 \times 2 \times 19$ ha tre fattori primi).
+> Nella successione $7, 76, 769, 7692, 76923, 769230, \ldots$, l'$n$-esimo termine è dato dalle prime $n$ cifre dopo la virgola nello sviluppo di $10/13 = 0.7692307692\ldots$
+>
+> Dimostrare che dei primi 60 termini della successione, almeno 49 hanno tre o più fattori primi (i fattori primi ripetuti sono ammessi; per esempio, $76 = 2 \times 2 \times 19$ ha tre fattori primi).
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2024#q01|src_bmo2_2024__Q01]]
 
 
 
@@ -59,10 +66,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale sugli interi con 2f(f(n))=5f(n)-2n*
+*Tutte le funzioni dagli interi agli interi che soddisfano $2f(f(n)) = 5f(n) - 2n$*
 
-> Si trovino tutte le funzioni $f$ dagli interi agli interi tali che, per ogni intero $n$:
+> Trovare tutte le funzioni $f$ dagli interi agli interi tali che per tutti gli interi $n$:
 > $$2f(f(n)) = 5f(n) - 2n.$$
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2024#q02|src_bmo2_2024__Q02]]
 
 
 
@@ -87,11 +101,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero ciclico dalle tangenti in un triangolo acutangolo*
+*Dimostrare che il quadrilatero $AXPY$ è ciclico*
 
-> Sia $ABC$ un triangolo acutangolo con $AB > AC$. Sia $P$ il punto di intersezione delle tangenti alla circonferenza circoscritta ad $ABC$ in $B$ e in $C$. La retta passante per i punti medi dei segmenti $PB$ e $PC$ interseca le rette $AB$ e $AC$ rispettivamente in $X$ e $Y$.
-> 
-> Si dimostri che il quadrilatero $AXPY$ è ciclico.
+> Sia $ABC$ un triangolo acutangolo con $AB > AC$. Sia $P$ l'intersezione delle tangenti alla circonferenza circoscritta ad $ABC$ in $B$ e in $C$. La retta per i punti medi dei segmenti $PB$ e $PC$ incontra le rette $AB$ e $AC$ rispettivamente in $X$ e in $Y$.
+>
+> Dimostrare che il quadrilatero $AXPY$ è ciclico.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2024#q03|src_bmo2_2024__Q03]]
 
 
 
@@ -116,8 +137,15 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Svuotare le pile togliendo n oggetti da due pile scelte*
+*Per quali $(m, n)$ si possono svuotare tutte le pile*
 
-> Siano $m < n$ interi positivi. Si parte da $n$ pile, ciascuna di $m$ oggetti. Si ripete la seguente operazione: si scelgono due pile e si tolgono in tutto $n$ oggetti da queste due pile.
-> 
+> Siano $m < n$ interi positivi. Si parte con $n$ pile, ciascuna di $m$ oggetti. Si ripete l'operazione seguente: si scelgono due pile e si tolgono in tutto $n$ oggetti dalle due pile.
+>
 > Per quali $(m, n)$ è possibile svuotare tutte le pile?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2024#q04|src_bmo2_2024__Q04]]

@@ -40,13 +40,18 @@ level: biennio
 
 *Ordering of three fractions a,b,c*
 
-> If a = 0, 1 0, 5, b = 0, 5 1 , c = 1 0, 5, then
+> Let $a = \frac{0,1}{0,5}$, $b = \frac{0,5}{1}$, $c = \frac{1}{0,5}$; then
 >
-> - **(A)** a > b > c
-> - **(B)** b > a > c
-> - **(C)** c > a > b
-> - **(D)** a > c > b
-> - **(E)** c > b > a.
+> - **(A)** $a > b > c$
+> - **(B)** $b > a > c$
+> - **(C)** $c > a > b$
+> - **(D)** $a > c > b$
+> - **(E)** $c > b > a$.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2001_biennio#q01|src_archimede_2001_biennio__Q01]]
 
 
 
@@ -76,15 +81,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum socks to take for a pair of the same colour*
+*Minimum socks to take to be sure of a same-colour pair*
 
-> One drawer contains, in the infusion, 3 pairs of beige socks, 5 pairs of blue socks and 6 pairs of black socks. You're in the dark. How many socks do you have to take at least to make sure you have a pair of the same color?
+> A drawer contains, at random, 3 pairs of beige socks, 5 pairs of blue socks and 6
+> pairs of black socks. You are in the dark. What is the minimum number of socks you must take to be sure of having a pair of the same colour?
 >
 > - **(A)** 2
 > - **(B)** 3
 > - **(C)** 4
 > - **(D)** 5
 > - **(E)** 14.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_biennio#q02|src_archimede_2001_biennio__Q02]]
 
 
 
@@ -116,17 +127,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many objects can be constructed with aids and screws*
+*How many constructible objects can be made with rods and screws*
 
-![[src_archimede_2001_biennio__prob3.png]]
-
-> One has 60 long axes, 60 short axes and 60 screws. How many objects identical to the one depicted on the side can you build?
+> A man has 60 long rods, 60 short rods and 60 screws.
+> How many objects identical to the one shown on the right can he build?
 >
 > - **(A)** 4
 > - **(B)** 10
 > - **(C)** 12
 > - **(D)** 15
-> - **(E)** 20. b b b b b b
+> - **(E)** 20.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_biennio#q03|src_archimede_2001_biennio__Q03]]
 
 
 
@@ -156,15 +171,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*People who do not speak English or Spanish*
+*People who speak neither English nor Spanish*
 
-> In a group of 100 people, 70 speak English, 45 Spanish, 23 both English and Spanish. How many of them don't speak English or Spanish?
+> In a group of 100 people, 70 speak English, 45 speak Spanish, and 23 speak both English and Spanish. How many of them speak neither English nor Spanish?
 >
 > - **(A)** 8
 > - **(B)** 25
 > - **(C)** 30
 > - **(D)** 55
 > - **(E)** 77.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
+**Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_biennio#q04|src_archimede_2001_biennio__Q04]]
 
 
 
@@ -194,15 +215,23 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Year of birth of Archimedes from the chain of equality*
+*Year of Archimede's birth from a chain of equalities*
 
-> Archimedes was born in the year x before Christ. Knowing that a = b, c = b 3, b = e, d = 49, e = a, a = 2001, x = c −380, when Archimedes was born?
+> Archimede was born in the year x BC. Given that a = b, c = b
+> 3, b = e,
+> d = 49, e = a, a = 2001 and x = c −380, when was Archimede born?
 >
-> - **(A)** 287 a.C.
-> - **(B)** 289 a.C.
-> - **(C)** 387 a.C.
-> - **(D)** 667 a.C.
-> - **(E)** 285 a.C.
+> - **(A)** 287 BC
+> - **(B)** 289 BC
+> - **(C)** 387 BC
+> - **(D)** 667 BC
+> - **(E)** 285 BC
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_archimede_2001_biennio#q05|src_archimede_2001_biennio__Q05]]
 
 
 
@@ -233,15 +262,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining to be returned after error by the cashier*
+*Change to return after the cashier's error*
 
-> A girl buys a shirt that costs 13.90 euros and gives the teller a 20-euro bill. The cashier miscalculated the rest, and returned 13.90 euros. When she leaves the store, the girl realizes the mistake and, being honest, returns to return the part she did not owe. How much will you have to pay back?
+> A girl buys a T-shirt that costs 13.90 euros and gives the cashier a 20-euro note. The cashier miscalculates the change and hands back 13.90 euros. Once out of the shop, the girl notices the mistake and, being honest, goes back in to return the amount that was not due to her. How much must she give back?
 >
-> - **(A)** 6 Euro
-> - **(B)** This appropriation is intended to cover expenditure relating to:
-> - **(C)** This appropriation is intended to cover expenditure relating to:
-> - **(D)** This appropriation is intended to cover expenditure relating to:
-> - **(E)** It's $13.90.
+> - **(A)** 6 euros
+> - **(B)** 6.80 euros
+> - **(C)** 7.80 euros
+> - **(D)** 12 euros
+> - **(E)** 13.90 euros.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2001_biennio#q06|src_archimede_2001_biennio__Q06]]
 
 
 
@@ -274,19 +308,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure obtained by rotating the diagram around the source*
+*Figure obtained by rotating the diagram about the origin*
 
-![[src_archimede_2001_biennio__prob7ref.png]]
-
-> The side diagram is rotated around the origin. Which of the following is the figure obtained?
-
-![[src_archimede_2001_biennio__prob7.png]]
-
+> The diagram alongside is rotated about the origin. Which of the following is the figure that has been obtained?
+>
 > - **(A)**
 > - **(B)**
 > - **(C)**
 > - **(D)**
 > - **(E)**
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_biennio#q07|src_archimede_2001_biennio__Q07]]
 
 
 
@@ -316,15 +351,22 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum cubes for building an open box 10x10x10*
+*Minimum cubes to build an open box 10x10x10*
 
-> An open box is constructed by gluing wooden cubes with a 1 cm beam, the outer dimensions of the finished box being 10 cm × 10 cm × 10 cm. What is the minimum number of cubes needed to build the box?
+> An open box is built by gluing together wooden cubes with an edge of
+> 1 cm, the external dimensions of the finished box are 10 cm × 10 cm × 10 cm. What
+> is the minimum number of cubes needed to build the box?
 >
 > - **(A)** 400
 > - **(B)** 412
 > - **(C)** 424
 > - **(D)** 440
 > - **(E)** 500.
+
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_biennio#q08|src_archimede_2001_biennio__Q08]]
 
 
 
@@ -362,15 +404,30 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solution of equation with sum of linear fractions*
+*Solution of an equation with a sum of linear fractions*
 
-> The solution to the following equation: x + 1 + x + 2 + x + 3 + · · + x + 2001 2001 = 2001 is
+> The solution of the following equation:
+> x + 1
+> 1
+> + x + 2
+> 2
+> + x + 3
+> 3
+> + · · + x + 2001
+> 2001
+> = 2001
+> is
 >
-> - **(A)** Any number x
+> - **(A)** any number x
 > - **(B)** 1001
 > - **(C)** 10
 > - **(D)** 1
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2001_biennio#q09|src_archimede_2001_biennio__Q09]]
 
 
 
@@ -406,15 +463,24 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Filling cases given the knights and crooks dilemma*
+*Fillable boxes given the knights and liars dilemma*
 
-> The employee of the census on the island of Cavalieri and Furfanti must determine the type (Cavalieri or Furfanti) and the title of study of the inhabitants (the Furfanti always lie, while the Cavalieri always tell the truth). In an apartment inhabited by two spouses, you get only these answers: Husband: we're both graduates. Wife: We're both cunning. How many boxes can an employee safely fill?
+> The census clerk on the island of Knights and Liars must determine the type (Knights or Liars) and the level of education of the inhabitants (Liars always lie, while Knights always tell the truth). In an apartment occupied by two spouses he obtains only these answers:
+> Husband: we are both graduates.
+> Wife: we are both liars.
+> How many boxes can the clerk fill in with certainty?
 >
 > - **(A)** 0
 > - **(B)** 1
 > - **(C)** 2
 > - **(D)** 3
 > - **(E)** 4.
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2001_biennio#q10|src_archimede_2001_biennio__Q10]]
 
 
 
@@ -449,17 +515,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of steps on six tangent circles from A to B*
+*Number of paths on six tangent circles from A to B*
 
-![[src_archimede_2001_biennio__prob11.png]]
-
-> Given 6 tangent circles as shown in the figure next to it, a path from A to B is plotted lying entirely on the circumferences and such that no arc of circumference is covered more than once. How many paths are there?
+> Given 6 tangent circles as shown in the figure alongside, a path is drawn from A to B that lies entirely on the circumferences and such that no arc of circumference is covered more than once. How many possible paths are there?
 >
 > - **(A)** 2
 > - **(B)** 6
 > - **(C)** 12
 > - **(D)** 24
 > - **(E)** 64. b A b B
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_biennio#q11|src_archimede_2001_biennio__Q11]]
 
 
 
@@ -491,13 +561,19 @@ level: biennio
 
 *Possible value of z from an equation with distinct integers*
 
-> If x, y, z are positive integers different from each other such that (xy) 2 = xyz, which of the following is a possible value for z?
+> If x, y, z are positive integers distinct from one another such that (xy)2 = xyz, which of the following is a possible value for z?
 >
 > - **(A)** 1
 > - **(B)** 5
 > - **(C)** 9
 > - **(D)** 11
 > - **(E)** 16.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2001_biennio#q12|src_archimede_2001_biennio__Q12]]
 
 
 
@@ -528,17 +604,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pentagons are seen in Figure*
+*How many pentagons can be seen in the figure*
 
-![[src_archimede_2001_biennio__prob13.png]]
-
-> How many pentagons do you see in the figure next to each other?
+> How many pentagons can be seen in the figure alongside?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
 > - **(E)** 5.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_biennio#q13|src_archimede_2001_biennio__Q13]]
 
 
 
@@ -567,15 +647,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most of two integers with sum of -4 and product -21*
+*Larger of two integers with sum -4 and product -21*
 
-> Two integers have the sum of −4 and produce −21. How much is the largest of these integers worth?
+> Two integers have sum −4 and product −21. What is the larger of these integers?
 >
 > - **(A)** −7
 > - **(B)** −3
 > - **(C)** −1
 > - **(D)** 3
 > - **(E)** 7.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2001_biennio#q14|src_archimede_2001_biennio__Q14]]
 
 
 
@@ -605,15 +690,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability sum 13 with two 12-sided dice*
+*Probability of a sum of 13 with two twelve-sided dice*
 
-> If two regular dice with twelve faces, numbered 1 to 12, are thrown, the probability that the sum of the face values is 13 is:
+> Throwing two fair dice with twelve faces, numbered from 1 to 12, the probability that the sum of the face values is 13 is:
 >
 > - **(A)** 1 24
 > - **(B)** 1 12
 > - **(C)** 13 144
 > - **(D)** 1 6
 > - **(E)** 13 72.
+
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_biennio#q15|src_archimede_2001_biennio__Q15]]
 
 
 
@@ -641,15 +732,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of figures for 2001 based on two*
+*Number of digits of 2001 in base two*
 
-> How many digits does base two have the number 2001?
+> How many digits does the number 2001 have in base two?
 >
 > - **(A)** 8
 > - **(B)** 9
 > - **(C)** 10
 > - **(D)** 11
 > - **(E)** 12.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2001_biennio#q16|src_archimede_2001_biennio__Q16]]
 
 
 
@@ -679,15 +775,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Original square area given curved rectangular perimeter*
+*Original square area given the perimeter of a folded rectangle*
 
-> A square sheet of paper is folded into two equal parts to form a rectangle. Knowing that the perimeter of the rectangle is 18 cm, what is the area, in cm2, of the original square?
+> A square sheet of paper is folded in two equal parts to form a rectangle. Knowing that the perimeter of the rectangle is 18 cm, what is the area, in cm2, of the original square?
 >
 > - **(A)** 9
 > - **(B)** 12
 > - **(C)** 18
 > - **(D)** 24
 > - **(E)** 36.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_biennio#q17|src_archimede_2001_biennio__Q17]]
 
 
 
@@ -721,15 +822,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum river crossings by boat and barges*
+*Minimum river crossings with a boat and constraints*
 
-> A family of two parents and two young children wants to cross a river. Their boat can carry up to two young people or one adult. When counting crossings in one direction and those in the other, what is the minimum number of crossings the boat must make? (obviously the boat can't cross the river without being led).
+> A family consisting of two parents and two young children wants to cross a river. Their boat can carry at most two young people or only one adult. Counting both crossings in one direction and those in the other, what is the minimum number of crossings the boat must make? (obviously the boat cannot cross the river without being driven).
 >
 > - **(A)** 5
 > - **(B)** 6
 > - **(C)** 7
 > - **(D)** 8
 > - **(E)** 9.
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2001_biennio#q18|src_archimede_2001_biennio__Q18]]
 
 
 
@@ -762,15 +869,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quadrilateral area of EFGH from external isosceles triangles*
+*Area of quadrilateral EFGH from external isosceles triangles*
 
-> Consider the ABCD square on side 24. External to the square are the isosceles triangles AEB, CGD on side 13 and bases AB and CD, and the isosceles triangles BFC, DHA on side 15 and bases BC, DA. How much is the EFGH quadrilateral area?
+> Consider the square ABCD with side 24. Outside the square, construct the isosceles triangles AEB and CGD with side 13 and bases AB and CD, and the isosceles triangles BFC and DHA with side 15 and bases BC and DA.
+> What is the area of the quadrilateral EFGH?
 >
 > - **(A)** 357
 > - **(B)** 714
 > - **(C)** 912
 > - **(D)** 952
 > - **(E)** 1428.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_biennio#q19|src_archimede_2001_biennio__Q19]]
 
 
 
@@ -802,12 +915,18 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eight-digit numbered unit number of the product*
+*Units digit of the product of 8-digit numbers*
 
-> Consider all eight-digit numbers formed using one and only once each of the digits 1, 2, 3, 4, 6, 7, 8, 9. Assuming that the product is made, what is the unit number of the product?
+> Consider all 8-digit numbers formed using each of the digits 1, 2, 3, 4, 6, 7, 8, 9 exactly once. If their product is formed, what is the units digit of the latter?
 >
 > - **(A)** 0
 > - **(B)** 1
 > - **(C)** 4
 > - **(D)** 6
 > - **(E)** 8.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2001_biennio#q20|src_archimede_2001_biennio__Q20]]

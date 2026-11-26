@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*first or second?*
+*First or second?*
 
-> Sandro and Paolo play the following game. There are 8 tokens on the table: you play it in turn and when it's your turn, you can take 1, 2 or 3 tokens: the last one who can take any tokens wins. Sandro wants to win at any cost. Should he play first or let Paolo start?
+> Sandro and Paolo play the following game. There are 8 tokens on the table: they take turns, and on one's turn, one can remove 1, 2, or 3 tokens; the last person to manage to take some tokens wins. Sandro wants to win at all costs: is it to his advantage to go first, or should he let Paolo start?
 
-**Answer:** second (Paolo starts)
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_finale_cadet#qc1|src_kangourou_2015_finale_cadet__QC1]]
 
 
 
@@ -58,13 +62,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*train crossing conditions*
+*Conditions for train crossings*
 
 ![[src_kangourou_2015_finale_cadet__probc2.png]]
 
-> Kang is a station on a single track line. In the figure, you can see the Kang track pattern, each of which has a length: the running track is the top track, while the bottom track starts and ends with two "dead-end" tracks. All trains running on the line are made up of a locomotive, which is at the head, and some carriages: the length of each locomotive and carriage is 19 meters. What are the least restrictive conditions to be imposed on the composition of two trains in order to cross at Kang? Please note that all types of maneuvering (especially trains can turn backwards) and signalling compatible with the station layout are permitted, including the breaking of trains into carriage groups. (see figure)
+> Kang is a station on a single-track line. In the figure, you can see the track layout at Kang, with the length of each track indicated: the running track is the upper one, while the lower track begins and ends with two "dead" sections. All trains operating on the line consist of a locomotive at the front and several carriages; each locomotive and each carriage is 19 metres long. What are the least restrictive conditions to impose on the composition of two trains so that they can pass each other at Kang? Bear in mind that any type of shunting maneuver (in particular, trains may reverse) and any signalling arrangement compatible with the station layout are permitted, including splitting the trains into groups of carriages. (See the figure.)
 
-**Answer:** max 13 carriages
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_finale_cadet#qc2|src_kangourou_2015_finale_cadet__QC2]]
 
 
 
@@ -89,13 +97,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*measure of angle ABC*
+*Measure angle ABC*
 
 ![[src_kangourou_2015_finale_cadet__probc3.png]]
 
-> The figure shows two equal squares that have exactly one vertex in common. Is it possible to determine the measure of angle $ABC$? (see figure)
+> The figure shows two equal squares that share exactly one vertex. Is it possible to specify the measure of angle $ABC$? (see figure)
 
-**Answer:** 45 degrees
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_finale_cadet#qc3|src_kangourou_2015_finale_cadet__QC3]]
 
 
 
@@ -121,9 +133,14 @@ level: kangourou
 
 *values of n*
 
-> In the usual A4 (rectangular) sheets, the ratio between the length of the longest side and the length of the shortest side is $\sqrt{2}$. You want to draw on one of these sheets a grid of $(n+1) \times n$ size made up of square cells, no matter what size, but the same for all cells. You want to make sure that each side of the grid is parallel to one edge of the sheet and that the distance of each side of the grid from the nearest edge of the sheet is the same, no matter which, for each of the four sides. What are the possible values of $n$?
+> On standard (rectangular) A4 sheets, the ratio of the length of the longer side to that of the shorter side is $\sqrt{2}$. You want to draw on one of such sheets a grid of size $(n+1) \times n$ made up of square cells—the size does not matter, but all the cells must be the same size. You want to ensure that each side of the grid is parallel to an edge of the sheet and that, for each of the four sides, the distance from each side of the grid to the nearest edge of the sheet is the same, regardless of which edge it is. How many possible values does $n$ have?
 
-**Answer:** 1 and 2
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_finale_cadet#qc4|src_kangourou_2015_finale_cadet__QC4]]
 
 
 
@@ -147,11 +164,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of making N+1 kang >Mode for N kang*
+*Ways to implement N+1 kang > ways for N kang*
 
-> In Kangland, the currency used is the kang and there are only 1, 2 or 3 kang coins. Obviously, with coins like these, you can make any amount of an integer kang. Show that, for each positive integer $N$, the different possible ways to realize the amount of $N+1$ kang are in a strictly higher number than the different possible ways to realize the amount of $N$ kang. Note: to obtain, for example, 4 kang, the $1+1+2$ mode must be considered equal to the $1+2+1$ mode (but not the $2+2$ mode).
+> In Kanglandia, the currency in use is the kang, and there are only coins worth 1, 2, or 3 kang. Obviously, with coins like these, any amount that is a whole number of kangs can be made up. Prove that, for every positive integer $N$, the number of different ways of making up the amount of $N+1$ kangs is strictly greater than the number of different ways of making up the amount of $N$ kangs. Note: to obtain, for example, 4 kangs, the way $1+1+2$ must be regarded as equal to the way $1+2+1$ (but not to the way $2+2$).
 
-**Answer:** proof
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_finale_cadet#qc5|src_kangourou_2015_finale_cadet__QC5]]
 
 
 
@@ -175,8 +197,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number of caws in one hour*
+*Total number of caws in an hour*
 
-> 51 crows are perched in a row on a branch of a large tree. Each time (and only each time) one of them caws, its neighbor to the right and the one to the left, if they exist, take flight. Each crow that takes flight flies for exactly one minute, then returns to its place immediately letting out a loud caw. This morning the first to caw was the crow at the end of the branch and then they continued, according to the described rule, for exactly one hour: at the end of the hour all the crows in flight returned to the branch, each letting out one last loud caw. How many caws were made in that hour, from the first to the last instant inclusive?
+> 51 crows are perched in a row on a branch of a large tree. Each time (and only each time) one of them caws, its right-hand and left-hand neighbors, if they exist, take to the air. Every crow that takes flight flies for exactly one minute, then returns to its place, immediately letting out a loud caw. This morning, the first to caw was the crow at the end of the branch, and then they continued, according to the rule described, for exactly an hour: when the hour was up, all the crows in flight returned to the branch, each letting out one last loud caw. How many caws were made during that hour, from the first instant to the last inclusive?
 
-**Answer:** 931
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_finale_cadet#qc6|src_kangourou_2015_finale_cadet__QC6]]

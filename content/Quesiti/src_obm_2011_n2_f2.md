@@ -29,9 +29,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Real a,b sono radici di x2+ax+b=0; trovare a−b*
+*I numeri reali a, b sono radici dell'equazione x²+ax+b=0; trova a−b*
 
-> Lasciate che $a$ e $b$ siano numeri reali non zero in modo tale che l'equazione $x^2 + ax + b = 0$ abbia $a$ e $b$ come soluzioni. Determinare $a - b$.
+> Siano $a$ e $b$ numeri reali non nulli tali che l'equazione $x^2 + ax + b = 0$ abbia come soluzioni $a$ e $b$. Determinare $a - b$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n2_f2#q01|src_obm_2011_n2_f2__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare composti a due cifre formati da cifre distinte tra 2,3,4,5,6*
+*Conta i numeri composti a due cifre formati da cifre distinte tra 2, 3, 4, 5, 6*
 
-> Quanti numeri compositi a due cifre possono essere formati utilizzando cifre distinte scelte da $\{2, 3, 4, 5, 6\}$?
+> Quanti numeri composti di due cifre si possono formare utilizzando cifre distinte scelte da $\{2, 3, 4, 5, 6\}$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n2_f2#q02|src_obm_2011_n2_f2__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo retto; bisettieri angolari incontrano BC; trovare AB con AD,AE*
+*Triangolo rettangolo; le bisettrici degli angoli incontrano BC; trovare AB dati AD ed AE*
 
-> Il triangolo $ABC$ è angolato a destra a $B$. I bisettori interni ed esterni dell'angolo $\hat{BAC}$ incontrano la linea $BC$ rispettivamente nei punti $D$ e $E$. Dato che $AD = 360$ e $AE = 480$, determinare la lunghezza del lato $AB$.
+> Il triangolo $ABC$ è rettangolo in $B$. Le bisettrici interna ed esterna dell'angolo $\hat{BAC}$ intersecano la retta $BC$ nei punti $D$ e $E$, rispettivamente. Dati $AD = 360$ e $AE = 480$, determina la lunghezza del lato $AB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n2_f2#q03|src_obm_2011_n2_f2__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri a due cifre la cui quarta potenza termina in 01*
+*Conta i numeri a due cifre la cui quarta potenza termina con 01*
 
-> Il numero $7$, sollevato alla quarta potenza, termina in $01$: $7^4 = 2401$. Quanti numeri a due cifre, sollevati alla quarta potenza, finiscono in $01$?
+> Il numero $7$, elevato alla quarta potenza, termina con $01$: $7^4 = 2401$. Quanti numeri di due cifre, elevati alla quarta potenza, terminano con $01$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n2_f2#q04|src_obm_2011_n2_f2__Q04]]
 
 
 
@@ -131,11 +159,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo equilaterale ABC con punto D; angoli dati, trovare angolo BAD*
+*Triangolo equilatero ABC con il punto D; dati gli angoli, trovare l'angolo BAD*
 
-> Nella figura seguente, il triangolo $ABC$ è equilaterale, l'angolo $\widehat{BDC} = 30^\circ$ e l'angolo $\widehat{ACD} = 70^\circ$. Determinare, in gradi, la misura dell'angolo $\widehat{BAD}$.
+> Nella figura sottostante, il triangolo $ABC$ è equilatero, l'angolo è $\widehat{BDC} = 30^\circ$ e l'angolo è $\widehat{ACD} = 70^\circ$. Determina, in gradi, la misura dell'angolo $\widehat{BAD}$.
 
 ![[src_obm_2011_n2_f2__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n2_f2#q05|src_obm_2011_n2_f2__Q05]]
 
 
 
@@ -162,13 +197,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Screen del computer: a partire dal 5, raggiungendo il 19 o il 2011 tramite operazioni a−b*
+*Schermo del computer: partendo da 5, raggiungi 19 o 2011 tramite operazioni a−b*
 
-> Inizialmente, il numero $5$ viene visualizzato su uno schermo del computer. In qualsiasi momento, il numero sullo schermo può essere sostituito da qualsiasi numero del modulo $a - b$, dove $a$ e $b$ sono integri positivi come $a + b = n$, con $n$ il numero corrente sullo schermo.
-> 
-> a) Indicare come ottenere il numero $19$ eseguendo tali operazioni.
-> 
-> b) È possibile ottenere il numero $2011$? Non dimenticate di giustificare la vostra risposta.
+> Inizialmente, il numero $5$ viene visualizzato su uno schermo di computer. In qualsiasi momento, il numero sullo schermo può essere sostituito da qualsiasi numero della forma $a - b$, dove $a$ e $b$ sono interi positivi tali che $a + b = n$, con $n$ che rappresenta il numero attualmente visualizzato sullo schermo.
+>
+> (a) Mostra come si può ottenere il numero $19$ eseguendo tali operazioni.
+>
+> (b) È possibile ottenere il numero $2011$? Non dimenticare di giustificare la tua risposta.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n2_f2#q06|src_obm_2011_n2_f2__Q06]]
 
 
 
@@ -193,9 +235,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rei reali positivi a(b+c) = 152, b(c+a) = 162, c(a+b) = 170; trovare abc*
+*Numeri reali positivi tali che a(b+c)=152, b(c+a)=162, c(a+b)=170; trovare abc*
 
-> $a$, $b$, $c$ siano numeri reali positivi tali che $$a(b + c) = 152, \quad b(c + a) = 162, \quad c(a + b) = 170.$$ determinino il valore di $abc$.
+> Siano $a$, $b$, $c$ numeri reali positivi tali che
+> $$a(b + c) = 152, \quad b(c + a) = 162, \quad c(a + b) = 170.$$
+> Determinare il valore di $abc$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n2_f2#q07|src_obm_2011_n2_f2__Q07]]
 
 
 
@@ -219,9 +270,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie ordinate (a,b) di integri positivi con a+b+gcd(a,b)=33*
+*Conta le coppie ordinate (a,b) di interi positivi tali che a+b+gcd(a,b)=33*
 
-> Quante coppie ordinate $(a, b)$, con $a$ e $b$ integri positivi, soddisfano $$a + b + \gcd(a, b) = 33?$$
+> Quante coppie ordinate $(a, b)$, con $a$ e $b$ interi positivi, soddisfano
+> $$a + b + \gcd(a, b) = 33?$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n2_f2#q08|src_obm_2011_n2_f2__Q08]]
 
 
 
@@ -246,8 +305,15 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale; punti di trisezione formano XYZT; mostra area è costante, trovalo*
+*Quadrilatero ABCD; i punti di trisezione formano XYZT; dimostrare che l'area è costante, determinarla*
 
-> In un quadrilaterale convex $ABCD$, i punti $X$ e $Y$ dividono il lato $AB$ in tre segmenti uguali, mentre i punti $Z$ e $T$ dividono il lato $DC$ in tre segmenti uguali (vedi figura seguente). Se l'area del quadrilaterale $ABCD$ è $60$, indicare che l'area del quadrilaterale $XYZT$ non dipende dalla forma del quadrilaterale $ABCD$ e calcolare tale area.
+> In un quadrilatero convesso $ABCD$, i punti $X$ e $Y$ dividono il lato $AB$ in tre segmenti uguali, mentre i punti $Z$ e $T$ dividono il lato $DC$ in tre segmenti uguali (vedi la figura sottostante). Se l'area del quadrilatero $ABCD$ è $60$, dimostrare che l'area del quadrilatero $XYZT$ non dipende dalla forma del quadrilatero $ABCD$ e calcolare tale area.
 
 ![[src_obm_2011_n2_f2__q09.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n2_f2#q09|src_obm_2011_n2_f2__Q09]]

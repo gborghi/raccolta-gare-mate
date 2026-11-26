@@ -31,9 +31,13 @@ level: kangourou
 
 *Total number of houses on the same side*
 
-> On the street where I live, the houses are numbered on one side with consecutive odd numbers, starting with 1, and on the other side with even numbers (each number denotes only one house). My house is number 137. If the numbering had started at the other end of the street, my house would have the number 85. How many houses are there in total on the same side as mine?
+> On the street where I live, the houses on one side are numbered with consecutive odd numbers starting from 1, and on the other side with even numbers (each number denotes a single house). My house has the number 137. If the numbering had started at the other end of the street, my house would have the number 85. How many houses are there in total on the same side of the street as my house?
 
-**Answer:** 111
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_ecolier_finale#qe1|src_kangourou_2005_ecolier_finale__QE1]]
 
 
 
@@ -60,15 +64,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Estimated current minimum and maximum weight*
+*Estimate current minimum and maximum weight*
 
-> Exactly a year ago, my weight was between 90 and 95 kg; now I've lost a quantity of weight between 3 and 4 kg. With these indications, tell me:
-> 
-> (a) under what weight can I not have fallen?
-> 
-> (b) what weight can I no longer be above?
+> Exactly a year ago, my weight was between 90 and 95 kg; now I've lost weight, shedding between 3 and 4 kg. Based on this information, tell me:
+>
+> a) Below what weight can I not have gone?
+>
+> b) Above what weight can I no longer be?
 
-**Answer:** 86 kg, 92 kg
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_ecolier_finale#qe2|src_kangourou_2005_ecolier_finale__QE2]]
 
 
 
@@ -91,11 +99,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number 4 digits divisible by each of its digits*
+*Smallest 4-digit number divisible by each of its digits*
 
-> What is the smallest positive integer of 4 digits, all different from each other (and different from zero), that is divisible (without remainder!) by each of its 4 digits?
+> What is the smallest positive four-digit integer, with all digits distinct (and none equal to zero), that is divisible (without a remainder!) by each of its four digits?
 
-**Answer:** 1236
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_ecolier_finale#qe3|src_kangourou_2005_ecolier_finale__QE3]]
 
 
 
@@ -120,13 +132,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum balls to be erased to reverse the arrow*
+*Minimum number of dots to erase to reverse the arrow*
 
 ![[src_kangourou_2005_ecolier_finale__probe4.png]]
 
-> The teacher asked you to draw on a page of your notebook 10 balls so that you represent an arrow from left to right, as in Figure A. You, by mistake, arranged them so that you get an arrow from right to left, as in Figure B. Of course, you can't reverse the notebook, but you can erase balls and redesign them. What's the minimum number of balls you can erase, and where do you have to place as many new balls to get what your teacher asked you to? (If you want, you can draw a cross on the balls to be erased and mark the position where to place the new ones using directly Figure B, explaining as best you can the reason why you can't erase fewer.) (see Figure)
+> The teacher asked you to draw 10 dots on a page of your notebook so as to represent an arrow going from left to right, as in figure A. By mistake, you arranged them so that you got an arrow going from right to left, as in figure B. Naturally, you can't turn the notebook upside down, but you can erase some dots and redraw them. What is the minimum number of dots you need to erase, and where must you place the same number of new dots, in order to achieve what the teacher asked you to do? (If you like, you can mark an X on the dots to be erased and indicate the positions where to place the new dots directly using figure B, explaining in whatever way you think best why you can't erase fewer dots.) (see figure)
 
-**Answer:** 3
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_ecolier_finale#qe4|src_kangourou_2005_ecolier_finale__QE4]]
 
 
 
@@ -150,11 +166,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*It's good to be first or second in the coin game*
+*It's advisable to be first or second in the coin game*
 
-> You and a friend play the next game. You have an initial stack of 5 coins: take one, two, or three coins from the stack, in turn, as you choose, respecting the rule that each player, when it's his turn, must take at least one coin and, if there is more than one coin in the stack, he cannot take the same number of coins that the opponent took on the previous move. Whoever collects the last or last available coins loses. If you want to win and both of you play without making mistakes, is it best to be first or second hand? Answer, giving reasons.
+> You and a friend of yours are playing the following game. You start with a pile of 5 coins: taking turns, you each take 1, 2, or 3 coins from the pile as you choose, subject to the rule that, when it is their turn, each player must take at least one coin and, if there is more than one coin in the pile, cannot take the same number of coins as the opponent took on the previous move. The player who picks up the last coin—or the last coins available—loses. If you want to win and if both of you play without making any mistakes, is it better for you to go first or second? Answer and justify your answer.
 
-**Answer:** second
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_ecolier_finale#qe5|src_kangourou_2005_ecolier_finale__QE5]]
 
 
 
@@ -180,10 +201,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum friends with different rectangles of 10 cards
+*Maximum friends with different rectangles of 10 tiles*
 
 ![[src_kangourou_2005_ecolier_finale__probe6.png]]
 
-> Harry Potter complains to all his friends, "I lost my magic rectangle. How will I participate in Kangourou?" Friends ask him how the magic rectangle was made: "Parchment, obtained by placing side by side (but not overlapping!) 10 smaller rectangles, each with sides measuring one 2 inches and the other 3 inches". After a brief search, the friends return each with a different-shaped rectangle of parchment, but with the specified requirements: Harry, however, claims that none is his. How many friends can Harry have at most?
+> Harry Potter laments to all his friends: "I've lost my magic rectangle. How am I going to take part in Kangourou?" His friends ask him what the magic rectangle was like: "It was made of parchment and was obtained by placing 10 smaller rectangles side by side (but not overlapping!)—each of which had one side measuring 2 inches and the other side measuring 3 inches." After a brief search, each of the friends comes back with a parchment rectangle of a different shape but meeting the specified requirements. Harry, however, claims that none of them is his. What is the maximum number of friends Harry can have?
 
-**Answer:** 4
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_ecolier_finale#qe6|src_kangourou_2005_ecolier_finale__QE6]]

@@ -34,13 +34,21 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integri di griglia con condizioni di adiacenza e di coppia a fila, trovare max n*
+*Griglia di interi con adiacenza e condizioni per coppie di righe, trova il massimo n*
 
-> $n$ sia un numero intero con $n \ge 2$. Scriviamo un intero in ogni cella di una griglia con le righe $n$ e le colonne $2026$. La scrittura è fatta in modo che, per due celle adiacenti sinistra-destra, il numero intero scritto nella cella destra sia uguale al numero intero scritto nella cella sinistra o sia esattamente $1$ maggiore. Inoltre, per due integri distinti $i, j$ e $1 \le i, j \le n$, sono soddisfatte entrambe le seguenti due condizioni:
-> 
-> - Esiste un numero intero $k$ con $1 \le k \le 2026$ tale che l'intero scritto nella cella della riga $i$ (da sopra) e della colonna $k$ (da sinistra) differisca dal numero intero scritto nella cella della riga $j$ (da sopra) e dalla colonna $k$ (da sinistra). - Esiste un numero intero $k$ con $1 \le k \le 2026$ tale che l'intero scritto nella cella della riga $i$ (da sopra) e la colonna $k$ (da sinistra) sia uguale all'intero scritto nella cella della riga $j$ (da sopra) e alla colonna $k$ (da sinistra).
-> 
-> Trova il valore più grande che $n$ può assumere.
+> Sia $n$ un numero intero con $n \ge 2$. Si scrive un numero intero in ciascuna cella di una griglia con $n$ righe e $2026$ colonne. La scrittura viene effettuata in modo che, per qualsiasi coppia di celle adiacenti orizzontalmente, il numero scritto nella cella di destra sia uguale al numero scritto nella cella di sinistra oppure sia esattamente $1$ maggiore. Inoltre, per qualsiasi coppia di numeri interi distinti $i, j$ con $1 \le i, j \le n$, entrambe le seguenti condizioni sono soddisfatte:
+>
+> - Esiste un numero intero $k$ con $1 \le k \le 2026$ tale che il numero scritto nella cella di riga $i$ (partendo dall'alto) e colonna $k$ (partendo da sinistra) differisce dal numero scritto nella cella di riga $j$ (partendo dall'alto) e colonna $k$ (partendo da sinistra).
+> - Esiste un numero intero $k$ con $1 \le k \le 2026$ tale che il numero scritto nella cella di riga $i$ (partendo dall'alto) e colonna $k$ (partendo da sinistra) è uguale al numero scritto nella cella di riga $j$ (partendo dall'alto) e colonna $k$ (partendo da sinistra).
+>
+> Trova il valore massimo che $n$ può assumere.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo24hq_honsen#q01|src_jjmo24hq_honsen__Q01]]
 
 
 
@@ -63,9 +71,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bissettore angolare, bisettore perpendicolare di AD, quattro punti conciclici*
+*Bisettrice dell'angolo, mediatrice di AD, quattro punti concyclici*
 
-> Nel triangolo $ABC$, $D$ sia l'intersezione del bisettore di $\angle BAC$ con il lato $BC$, e $P, Q$ sia l'intersezione del bisettore perpendicolare del segmento $AD$ con i lati $AB, AC$ rispettivamente. Prendere un punto $X$ sul segmento $AP$ e un punto $Y$ sul segmento $AQ$ in modo tale che $\angle BQP = \angle XQP$ e $\angle CPQ = \angle YPQ$. Provare che i quattro punti $B, C, Y, X$ si trovano su un singolo cerchio.
+> Nel triangolo $ABC$, sia $D$ l'intersezione della bisettrice di $\angle BAC$ con il lato $BC$, e siano $P, Q$ le intersezioni della mediatrice del segmento $AD$ con i lati $AB, AC$ rispettivamente. Si prenda un punto $X$ sul segmento $AP$ e un punto $Y$ sul segmento $AQ$ tali che $\angle BQP = \angle XQP$ e $\angle CPQ = \angle YPQ$. Dimostrare che i quattro punti $B, C, Y, X$ giacciono su un unico cerchio.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo24hq_honsen#q02|src_jjmo24hq_honsen__Q02]]
 
 
 
@@ -92,13 +107,20 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Arrangere tutti i divisori in modo che le somme consecutive siano potenze di due*
+*Disponi tutti i divisori in modo che le somme consecutive siano potenze di due*
 
-> $n$ sia un intero positivo con almeno $3$ divisori positivi e $k$ indichi il numero di divisori positivi di $n$. Trovare tutti i valori possibili di $n$ per i quali esiste una sequenza $d_1, d_2, \dots, d_k$ in cui tutti i divisori positivi di $n$ appaiono esattamente una volta ciascuno, soddisfacendo la seguente condizione:
-> 
+> Sia $n$ un numero intero positivo che abbia almeno $3$ divisori positivi, e sia $k$ il numero di divisori positivi di $n$. Trovare tutti i valori possibili di $n$ per cui esiste una successione $d_1, d_2, \dots, d_k$ in cui tutti i divisori positivi di $n$ compaiono ciascuno esattamente una volta, soddisfacendo la seguente condizione:
+>
 > Per ogni numero intero $i$ con $1 \le i \le k-1$, la somma $d_i + d_{i+1}$ è una potenza di due.
-> 
-> Qui, una potenza di due significa un intero espressibile nella forma $2^m$ utilizzando un intero non negativo $m$. Inoltre, $2^0 = 1$.
+>
+> Qui, per potenza di due si intende un numero intero esprimibile nella forma $2^m$ mediante un numero intero non negativo $m$. Inoltre, $2^0 = 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo24hq_honsen#q03|src_jjmo24hq_honsen__Q03]]
 
 
 
@@ -123,9 +145,18 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare il rapporto max/min sotto restrizione di prodotto ciclica*
+*Minimizzare il rapporto tra valore massimo e valore minimo sotto vincolo di prodotto ciclico*
 
-> I numeri reali positivi $x_1, x_2, \dots, x_{2026}$ soddisfano $$(x_1 + x_2)(x_2 + x_3) \cdots (x_{2025} + x_{2026})(x_{2026} + x_1) = 3^{2026}\, x_1 x_2 \cdots x_{2026}.$$ $M$ sia il valore massimo tra $x_1, x_2, \dots, x_{2026}$, e $m$ sia il valore minimo. Trova il minimo valore possibile di $\dfrac{M}{m}$.
+> I numeri reali positivi $x_1, x_2, \dots, x_{2026}$ soddisfano
+> $$(x_1 + x_2)(x_2 + x_3) \cdots (x_{2025} + x_{2026})(x_{2026} + x_1) = 3^{2026}\, x_1 x_2 \cdots x_{2026}.$$
+> Sia $M$ il valore massimo tra $x_1, x_2, \dots, x_{2026}$, e sia $m$ il valore minimo. Determinare il valore più piccolo possibile di $\dfrac{M}{m}$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo24hq_honsen#q04|src_jjmo24hq_honsen__Q04]]
 
 
 
@@ -152,10 +183,17 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizione della carta determinata in modo unico da vincoli di posizione, riducendo al minimo m*
+*Il posizionamento delle carte è determinato unicamente dai vincoli di posizione; minimizza m*
 
-> $m$ sia un numero intero positivo. Ci sono celle $2026$ disposte in una singola riga, e ci sono carte $2026$ in totale, ciascuna con uno degli entieri da $1$ a $2026$ (una carta per ogni intero). Esistono anche tupli $(a_1, b_1, c_1), (a_2, b_2, c_2), \dots, (a_m, b_m, c_m)$ tali che per ogni numero intero $i$ con $1 \le i \le m$, le disuguaglianze $b_i \le a_i$ e $c_i \le a_i$ si mantengano. Consideramo di eseguire operazioni di selezione di una cella su cui non è stata posta alcuna carta e di inserimento di una carta su di essa, eseguite nell'ordine: la carta scritta $1$, poi la carta scritta $2$, ..., fino alla carta scritta $2026$. Si è rivelato che il numero di posizionamenti (arrangiamenti) per i quali le seguenti posizioni sono state esattamente $1$:
-> 
-> Per ogni numero intero $i$ con $1 \le i \le m$, immediatamente dopo aver inserito la carta scritta $a_i$, tra le carte $a_i$ poi allineate nelle celle, il numero intero scritto sulla $b_i$-a contare da sinistra è $c_i$.
-> 
-> Trova il valore più piccolo che $m$ può assumere.
+> Sia $m$ un numero intero positivo. Ci sono $2026$ celle disposte in un'unica riga, e in totale ci sono $2026$ carte, ciascuna recante uno degli interi da $1$ a $2026$ (una carta per ogni intero). Ci sono inoltre delle n-tuple $(a_1, b_1, c_1), (a_2, b_2, c_2), \dots, (a_m, b_m, c_m)$ tali che, per ogni intero $i$ con $1 \le i \le m$, valgono le disuguaglianze $b_i \le a_i$ e $c_i \le a_i$. Consideriamo l'esecuzione di operazioni consistenti nel scegliere una cella su cui non è stata ancora posta alcuna carta e nel collocarvi una carta, eseguite nell'ordine seguente: la carta recante $1$, poi la carta recante $2$, ..., fino alla carta recante $2026$. È risultato che il numero di collocazioni (disposizioni) per cui vale la seguente condizione era esattamente $1$:
+>
+> Per ogni intero $i$ con $1 \le i \le m$, subito dopo aver collocato la carta recante $a_i$, tra le $a_i$ carte allora allineate nelle celle, l'intero scritto sulla $b_i$-esima, contando da sinistra, è $c_i$.
+>
+> Trova il valore minimo che $m$ può assumere.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo24hq_honsen#q05|src_jjmo24hq_honsen__Q05]]

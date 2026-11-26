@@ -86,7 +86,7 @@ level: Concours Général
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (prova a dimostrazione / a risposta aperta).
-**Fonte:** [apri PDF p.2](https://www.vmaths.fr/wp-content/uploads/CG/Concours_General_2026_enonce.pdf#page=2) · Concours Général des Lycées 2026 (soggetto ufficiale, copia su vmaths.fr)
+**Fonte:** apri PDF p.2 · Concours Général des Lycées 2026 (soggetto ufficiale, copia su vmaths.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -161,6 +161,8 @@ level: Concours Général
 > $$a_{k+1}-1=(a_k-1)^2.$$
 
 **Risposta:** nessuna soluzione ufficiale pubblicata (prova a dimostrazione / a risposta aperta).
+
+[[Quesiti/src_cgen_2026#q01|src_cgen_2026__Q01]]
 
 
 
@@ -284,7 +286,7 @@ level: Concours Général
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (prova a dimostrazione / a risposta aperta).
-**Fonte:** [apri PDF p.4](https://www.vmaths.fr/wp-content/uploads/CG/Concours_General_2026_enonce.pdf#page=4) · Concours Général des Lycées 2026 (soggetto ufficiale, copia su vmaths.fr)
+**Fonte:** apri PDF p.4 · Concours Général des Lycées 2026 (soggetto ufficiale, copia su vmaths.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -404,6 +406,8 @@ level: Concours Général
 
 **Risposta:** nessuna soluzione ufficiale pubblicata (prova a dimostrazione / a risposta aperta).
 
+[[Quesiti/src_cgen_2026#q02|src_cgen_2026__Q02]]
+
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_combinatoria"></span>
@@ -438,7 +442,7 @@ level: Concours Général
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (prova a dimostrazione / a risposta aperta).
-**Fonte:** [apri PDF p.7](https://www.vmaths.fr/wp-content/uploads/CG/Concours_General_2026_enonce.pdf#page=7) · Concours Général des Lycées 2026 (soggetto ufficiale, copia su vmaths.fr)
+**Fonte:** apri PDF p.7 · Concours Général des Lycées 2026 (soggetto ufficiale, copia su vmaths.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -469,3 +473,5 @@ level: Concours Général
 > 6) Riprendere la domanda 2) in queste nuove condizioni.
 
 **Risposta:** nessuna soluzione ufficiale pubblicata (prova a dimostrazione / a risposta aperta).
+
+[[Quesiti/src_cgen_2026#q03|src_cgen_2026__Q03]]

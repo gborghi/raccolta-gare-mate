@@ -46,24 +46,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Graph of maximum temperatures expected in 7 days*
+*Which graph shows the curve of the maximum temperatures?*
 
 ![[src_kangourou_2021_student_gara__prob1.png]]
 
-> The Meteo app on Paola's phone shows, as shown in the figure, the weather and maximum temperatures forecast for the next 7 days. Which of the following graphs represents the maximum temperature curve? A)
-> 	
-> 	
+> The Weather app on Paola's phone shows, as in the picture, the weather and the forecast maximum temperatures for the next 7 days. Which of the following graphs shows the curve of the maximum temperatures?
+>
+> A)
 > B)
-> 	
-> 	
 > C)
-> 	
 > D)
-> 	
-> 	
 > E)
 
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_student_gara#q01|src_kangourou_2021_student_gara__Q01]]
 
 
 
@@ -95,19 +94,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer numbers between 20-√21 and 20+√21*
+*How many integers lie between them?*
 
-> How many integers are between 20 – √21 and 20 + √21? A) 9
-> 	
+> How many integers lie between 20 – √21 and 20 + √21?
+>
+> A) 9
 > B) 10
-> 	
 > C) 11
-> 	
 > D) 12
-> 	
 > E) 13
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_student_gara#q02|src_kangourou_2021_student_gara__Q02]]
 
 
 
@@ -140,21 +141,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Surface area of a rectangular parallelepiped from a broken cube*
+*What is the surface area of one of those boxes?*
 
-> A cube whose edge measures 1 is broken into two identical (rectangular) parallelepipeds.
-> What is the surface area of one of these parallelepipeds?
-> A) 	
-> 	
-> B) 2	
-> 	
-> C) 3	
-> 	
-> D) 4	
-> 	
+> A cube whose edge measures 1 is broken into two identical rectangular boxes. What is the surface area of one of those boxes?
+>
+> A)
+> B) 2
+> C) 3
+> D) 4
 > E) 5
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_student_gara#q03|src_kangourou_2021_student_gara__Q03]]
 
 
 
@@ -191,21 +192,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded fraction of square with inscribed circles*
+*What fraction of the area of the large square is shaded?*
 
 ![[src_kangourou_2021_student_gara__prob4.png]]
 
-> Look at the figure. A square was divided into smaller squares and a circle was inscribed on each of these squares, which in the figure appears shaded. What fraction of the area of the large square is shaded? A)
-> 	
+> Look at the picture. A square has been divided into smaller squares, and in each of those squares a circle has been inscribed, which appears shaded in the picture. What fraction of the area of the large square is shaded?
+>
+> A)
 > B)
-> 	
 > C)
->   	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_student_gara#q04|src_kangourou_2021_student_gara__Q04]]
 
 
 
@@ -271,51 +274,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Direction of inclination of the pole seen from two points*
+*In which of the directions shown may the pole be leaning?*
 
 ![[src_kangourou_2021_student_gara__prob5.png]]
 
-> Last night's storm tilted the flagpole in our school's garden. Whether looking from the northwest or looking from the east, the tip of the pole appears to the right of its base. In which of the directions shown in the figures can the pole be tilted?
-> A) 	
-> 	
-> B) 	
-> 	
-> C) 	
-> 	
-> D) 	
-> 	
-> E) 
-> Fri
-> Sat   Sun   Mon    Tue     Wed    Thu
-> −1° C −4° C 0° C
-> 0° C
-> 3° C −3° C −5° C
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> x
-> y
-> 0
+> Last night's storm tilted the flagpole in our school garden. Both looking from the north-west and looking from the east, the tip of the pole is seen to the right of its base. In which of the directions shown in the pictures may the pole be leaning?
+>
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_student_gara#q05|src_kangourou_2021_student_gara__Q05]]
 
 
 
@@ -346,11 +321,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume ratio of the two cylinders of a rectangle rolled*
+*What is the ratio of the volume of the longer cylinder to that of the shorter one?*
 
-> A rectangular sheet of paper has sides of length x and y, with x > y. The rectangle can be rolled to form a cylinder (without the paper overlapping) in two different ways. What is the ratio of the volume of the longest cylinder to the volume of the shortest cylinder? A) y2 : x2 B) y : x C) 1 : 1 D) x : y E) x2 : y2
+> A rectangular sheet of paper has sides of length x and y, with x > y. The rectangle can be rolled up to form a cylinder (without the paper overlapping) in two different ways. What is the ratio of the volume of the longer cylinder to the volume of the shorter one?
+>
+> A) y2 : x2
+> B) y : x
+> C) 1 : 1
+> D) x : y
+> E) x2 : y2
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_student_gara#q06|src_kangourou_2021_student_gara__Q06]]
 
 
 
@@ -382,20 +367,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The largest among powers and roots of x=root*
+*Which of the following numbers is the largest?*
 
-> Let x =     . Among the following numbers, which is the largest?
-> A) x4	
-> 	
-> B) x2	
-> 	
-> C) x	
-> 	
-> D) √x	
-> 	
+> Let x = . Among the following numbers, which is the largest?
+>
+> A) x4
+> B) x2
+> C) x
+> D) √x
 > E) √x
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_student_gara#q07|src_kangourou_2021_student_gara__Q07]]
 
 
 
@@ -430,19 +416,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers with 1,3,5 divisible by 3*
+*How many of them are divisible by 3?*
 
-> Consider all positive three-digit decimal whole numbers that can be written using only digits 1, 3 and 5, possibly repeated. How many of these are divisible by 3? A) 3
-> 	
+> Consider all the positive integers of three decimal digits that can be written using only the digits 1, 3 and 5, possibly repeated. How many of them are divisible by 3?
+>
+> A) 3
 > B) 6
-> 	
 > C) 9
-> 	
 > D) 18
-> 	
 > E) 27
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_student_gara#q08|src_kangourou_2021_student_gara__Q08]]
 
 
 
@@ -474,15 +463,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle area with data vertices in the Cartesian plane*
+*What is the area of the triangle?*
 
-> What is the area of the triangle whose vertices, in a Cartesian plane, have coordinates (p, q), (3p, q) and (2p, 3q), with p, q > 0? A)
-> 	
+> What is the area of the triangle whose vertices, in a Cartesian plane, have coordinates (p, q), (3p, q) and (2p, 3q), with p, q > 0?
+>
+> A)
 > B) pq
-> 	
-> C) 2pq D) 3pq E) 4pq
+> C) 2pq
+> D) 3pq
+> E) 4pq
 
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_student_gara#q09|src_kangourou_2021_student_gara__Q09]]
 
 
 
@@ -515,13 +511,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which line can be represented by the graph with the parabola*
+*Which of the following equations can represent the line drawn in the picture?*
 
 ![[src_kangourou_2021_student_gara__prob10.png]]
 
-> The parabola in the figure is represented by an equation of the form y = ax2 + bx + c with distinct real numbers a, b and c. Which of the following equations can represent the line drawn in the figure? A) y = bx + c B) y = cx + b C) y = ax + b D) y = ax + c E) y = cx + a Questions from N. 11 to N. 20 are worth 4 points each.
+> The parabola in the picture is represented by an equation of the form y = ax2 + bx + c, with a, b and c distinct real numbers. Which of the following equations can represent the line drawn in the picture?
+>
+> A) y = bx + c
+> B) y = cx + b
+> C) y = ax + b
+> D) y = ax + c
+> E) y = cx + a
+>
+> Questions 11 to 20 are worth 4 points each.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Coordinate geometry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_student_gara#q10|src_kangourou_2021_student_gara__Q10]]
 
 
 
@@ -554,20 +562,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of odd divisors of 7!*
+*What fraction of the set of divisors of 7! consists of odd numbers?*
 
-> What fraction of the set of divisors of 7! is made up of odd numbers?
-> A) 	
-> 	
-> B) 	
-> 	
-> C) 	
-> 	
-> D) 	
-> 	
+> What fraction of the set of divisors of 7! consists of odd numbers?
+>
+> A)
+> B)
+> C)
+> D)
 > E)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_student_gara#q11|src_kangourou_2021_student_gara__Q11]]
 
 
 
@@ -597,11 +607,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The set of the numbers a+b with a in A and b in B*
+*What is the set of numbers a + b?*
 
-> Let A = (0, 1) ∪ (2, 3) be the union of the real intervals (0, 1) and (2, 3); and B = (1, 2) ∪ (3, 4). What is the set of the numbers a + b with a in A and b in B ? A) (1, 7) B) (1, 5) ∪ (5, 7) C) (1, 3) ∪ (3, 7) D) (1, 3) ∪ (3, 5) ∪ (5, 7) E) None of the above answers are correct.
+> Let A = (0, 1) ∪ (2, 3) be the union of the real intervals (0, 1) and (2, 3); likewise let B = (1, 2) ∪ (3, 4). What is the set of numbers a + b with a in A and b in B?
+>
+> A) (1, 7)
+> B) (1, 5) ∪ (5, 7)
+> C) (1, 3) ∪ (3, 7)
+> D) (1, 3) ∪ (3, 5) ∪ (5, 7)
+> E) none of the above
 
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_student_gara#q12|src_kangourou_2021_student_gara__Q12]]
 
 
 
@@ -653,20 +674,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many three-digit numbers increase by 99 when reversed*
+*How many 3-digit numbers have this property?*
 
-> For a positive integer with 3 significant digits, consider the following property: by writing the digits in reverse order you get a number, always 3 digits, greater by 99 units than the original. How many three-digit numbers have this property? A) 8
-> 	
-> B) 64
-> 	
-> C) 72
-> 	
-> D) 80
-> 	
-> E) 81 4 1---- 2 1---- 3 1---- 4 1---- 5 1---- 6 pq ----- 2 p---- 4
+> For a positive integer with 3 significant digits, consider the following property: writing the digits in reverse order gives a number, still of 3 digits, greater by 99 than the original one. How many 3-digit numbers have this property?
 >
+> A) 8
+> B) 64
+> C) 72
+> D) 80
+> E) 81
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_student_gara#q13|src_kangourou_2021_student_gara__Q13]]
 
 
 
@@ -697,11 +719,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of odd sums of adjacent triples*
+*What is the greatest number of odd sums that can be obtained?*
 
-> We want to align, in any order, the first 1000 positive integers and, for each triple of adjacent numbers in the alignment, calculate the sum of the three numbers that make it up. What is the maximum number of odd sums that can be obtained? A) 997 B) 996 C) 995 D) 994 E) 993
+> We want to line up, in any order, the first 1000 positive integers and, for every triple of adjacent numbers in the line, calculate the sum of the three numbers that make it up. What is the greatest number of odd sums that can be obtained?
+>
+> A) 997
+> B) 996
+> C) 995
+> D) 994
+> E) 993
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_student_gara#q14|src_kangourou_2021_student_gara__Q14]]
 
 
 
@@ -738,21 +771,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the triangle larger than the perimeter of the smaller*
+*What is the perimeter of the large triangle?*
 
 ![[src_kangourou_2021_student_gara__prob15.png]]
 
-> A triangle is divided into smaller triangles as shown in the figure. The number written on each of the small triangles indicates its perimeter. What is the perimeter of the large triangle? A) 31
-> 	
+> A triangle is divided into smaller triangles as shown in the picture. The number written in each of the small triangles gives its perimeter. What is the perimeter of the large triangle?
+>
+> A) 31
 > B) 34
-> 	
 > C) 41
-> 	
 > D) 62
-> 	
-> E) None of the above answers is correct.
+> E) none of the above
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_student_gara#q15|src_kangourou_2021_student_gara__Q15]]
 
 
 
@@ -783,11 +818,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of p(N) product of digits from 10 to 100*
+*What is the value of the sum?*
 
-> Given a positive integer N, written in decimal form, we denote the product of its digits with p(N): for example, p(23) = 2 × 3 = 6. What is the value of the sum p(10) + p(11) + p(12) + ... + p(99) + p(100)? A) 2025 B) 4500 C) 5005 D) 5050 E) None of the above answers are correct.
+> Given a positive integer N, written in decimal form, denote by p(N) the product of its digits: for example, p(23) = 2 × 3 = 6. What is the value of the sum p(10) + p(11) + p(12) + ... + p(99) + p(100)?
+>
+> A) 2025
+> B) 4500
+> C) 5005
+> D) 5050
+> E) none of the above
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_student_gara#q16|src_kangourou_2021_student_gara__Q16]]
 
 
 
@@ -825,21 +871,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hidden number in table 5x5 at constant sums*
+*What number is in the cell marked with a question mark?*
 
 ![[src_kangourou_2021_student_gara__prob17.png]]
 
-> Each cell of the 5 × 5 table in the figure contains a number, but some numbers are written in white and therefore invisible. You know that the sum of the numbers in each row and in each column is always the same. What is the number in the cell indicated by the question mark? A) 8
-> 	
+> Each cell of the 5 × 5 table in the picture contains a number, but some numbers are written in white and so are invisible. It is known that the sum of the numbers in every row and in every column is always the same. What number is in the cell marked with a question mark?
+>
+> A) 8
 > B) 10
-> 	
 > C) 12
-> 	
 > D) 18
-> 	
 > E) 23
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_student_gara#q17|src_kangourou_2021_student_gara__Q17]]
 
 
 
@@ -879,21 +927,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of forming a node on the ribbon under coin*
+*What is the probability that a knot forms on the ribbon?*
 
 ![[src_kangourou_2021_student_gara__prob18.png]]
 
-> A ribbon resting on a table is partially covered by three coins, as shown in the figure. Under each coin the ribbon can pass, with equal probability, in one of the following two ways: If you pull the two ends of the ribbon, what is the probability that a knot will form on the ribbon? A)
-> 	
+> A ribbon lying on a table is partly covered by three coins, as you see in the picture. Under each coin the ribbon may pass, with equal probability, in one of the following two ways. If the two ends of the ribbon are pulled, what is the probability that a knot forms on the ribbon?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_student_gara#q18|src_kangourou_2021_student_gara__Q18]]
 
 
 
@@ -970,22 +1021,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PXV triangle area of three squares with known areas*
+*What is the area of the triangle PXV?*
 
 ![[src_kangourou_2021_student_gara__prob19.png]]
 
-> In the drawing you see three squares, PQRS, TUVR and UWXY, with some sides partially overlapping. The points P, T and X lie on the same line. It is known that the area of PQRS is 36 and that of TRVU 16. What is the area of the PXV triangle? A)
-> 	
-> B)
-> 	
-> C) 16
-> 	
-> D)
-> 	
-> E) 18 11 15 10 12 13 9 20 16 22 20 21 2 25 1 24 5 6 4 ? 1---- 2 1---- 4 1---- 8 3---- 4 3---- 8 44 ---- 3 46 ---- 3 53 ---- 3
+> In the drawing you see three squares, PQRS, TUVR and UWXY, with some sides partly overlapping. The points P, T and X lie on the same straight line. It is known that the area of PQRS is 36 and that of TRVU is 16. What is the area of the triangle PXV?
 >
+> A)
+> B)
+> C) 16
+> D)
+> E) 18
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_student_gara#q19|src_kangourou_2021_student_gara__Q19]]
 
 
 
@@ -1023,26 +1076,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Graph of the residual thickness of the unrolled roll*
+*Which graph best shows the remaining thickness?*
 
 ![[src_kangourou_2021_student_gara__prob20.png]]
 
-> A roll of paper towels is inserted in a suitable holder. A mischievous puppy
-> bites one end and walks away. Which of the following graphs best
-> represents the residual thickness y of the roll as a function of the length x of the strip
-> of paper already unrolled?
-> A) 	
-> 	
-> B) 	
-> 	
-> C) 	
-> 	
-> D) 	
-> 	
-> E) 
-> Questions from No. 21 to No. 30 are worth 5 points each
+> A roll of kitchen paper is fitted in its holder. A naughty puppy bites one end and walks away. Which of the following graphs best shows the remaining thickness y of the roll as a function of the length x of the strip of paper already unrolled?
+>
+> A)
+> B)
+> C)
+> D)
+> E)
+>
+> Questions 21 to 30 are worth 5 points each.
 
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_student_gara#q20|src_kangourou_2021_student_gara__Q20]]
 
 
 
@@ -1079,19 +1131,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of solutions of f(f(x))=0 from a graph*
+*How many distinct solutions does the equation have?*
 
 ![[src_kangourou_2021_student_gara__prob21.png]]
 
-> The figure shows the graph of a function f: [–5, 5] → R. How many distinct solutions are there to the equation f (f (x)) = 0? A) 2
-> 	
+> The picture shows the graph of a function f : [–5, 5] → R. How many distinct solutions does the equation f(f(x)) = 0 have?
+>
+> A) 2
 > B) 4
-> 	
-> C) 6 D) 7
-> 	
+> C) 6
+> D) 7
 > E) 8
 
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_student_gara#q21|src_kangourou_2021_student_gara__Q21]]
 
 
 
@@ -1126,19 +1183,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number remaining after double-sum deletions*
+*What number is left on the board?*
 
-> The numbers 1, 2, 7, 9, 10, 15 and 19 were written on a board. Two players alternately cancel one number at a time until only one number remains on the board. If the sum of the numbers deleted by one player is twice the sum of the numbers deleted by the other, what number is left on the board? A) 7
-> 	
+> The numbers 1, 2, 7, 9, 10, 15 and 19 have been written on a board. Two players take turns crossing out one number at a time until only one number is left on the board. If the sum of the numbers crossed out by one player is twice the sum of the numbers crossed out by the other, what number is left on the board?
+>
+> A) 7
 > B) 9
-> 	
 > C) 10
-> 	
 > D) 15
-> 	
 > E) 19
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_student_gara#q22|src_kangourou_2021_student_gara__Q22]]
 
 
 
@@ -1222,72 +1281,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the sum f(2)/f(1)+...+f(2021)/f(2020) with f multiplicative*
+*What is the value?*
 
-> The function f is such that, for every x, y, f (x + y) = f (x) ∙ f (y); moreover f (1) = 2.
-> What is the value of
->                                     +            + ... +                   ?
-> A) 	
->      B) 2	  	
-> C) 22021 – 1	
->      D) 2020	
->      
-> E) None of the other answers is correct.
-> x
-> y
-> x
-> y
-> 1
-> 1
-> x
-> y
-> 1
-> 1
-> x
-> y
-> 1
-> 1
-> x
-> y
-> 1
-> 1
-> x
-> y
-> 1
-> 1
-> O
-> 1
-> 2
-> 3
-> 4
-> 5
-> –1
-> –2
-> –3
-> –4
-> –5
-> 1
-> 2
-> 3
-> 4
-> 5
-> –1
-> –2
-> –3
->  f (2)
-> -------- 
->  f (1)
->  f (3)
-> -------- 
->  f (2)
->  f (2021)
-> -------------- 
->  f (2020)
->  1---- 
->  2
+> The function f is such that, for every x and y, f(x + y) = f(x) · f(y); also f(1) = 2. What is the value of + + ... + ?
 >
+> A)
+> B) 2
+> C) 22021 – 1
+> D) 2020
+> E) none of the other answers is correct
+>
+> f (2) / f (1)
+> f (3) / f (2)
+> f (2021) / f (2020)
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_student_gara#q23|src_kangourou_2021_student_gara__Q23]]
 
 
 
@@ -1325,21 +1337,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Whose child is the little kangaroo s?*
+*Whose child is the little kangaroo s?*
 
 ![[src_kangourou_2021_student_gara__prob24.png]]
 
-> Five kangaroos, called A, B, C, D and E, each have a child that we indicate with the letters s, t, u, v and z. In the photos in the first group, exactly two children are matched to their mother, while in the second group the correct matches are exactly three. Whose child is the little kangaroo s? A) A
-> 	
+> Five kangaroos, called A, B, C, D and E, each have a child, whom we denote by the letters s, t, u, v and z. In the photos of the first group, exactly two children are paired with their own mother, while in the second group of photos the correct pairings are exactly three. Whose child is the little kangaroo s?
+>
+> A) A
 > B) B
-> 	
 > C) C
-> 	
 > D) D
-> 	
 > E) E
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_student_gara#q24|src_kangourou_2021_student_gara__Q24]]
 
 
 
@@ -1381,21 +1396,24 @@ Whose child is the little kangaroo s?*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of numbers on the faces of the solid (snube dodecahedron)*
+*What is the sum of all the numbers on the surface of the solid?*
 
 ![[src_kangourou_2021_student_gara__prob25.png]]
 
-> The solid in the figure has 12 faces which are regular pentagons, while the other faces are squares or equilateral triangles. Each pentagonal face is adjacent to five square faces while each triangular face is adjacent to three square faces. On each face is a number: 5 on the pentagonal ones, 1 on the triangular ones and -1 on the square ones. What is the sum of all the numbers that appear on the surface of the solid? A) 20
-> 	
+> The solid in the picture has 12 faces that are regular pentagons, while the other faces are squares or equilateral triangles. Each pentagonal face is adjacent to 5 square faces, and each triangular face is adjacent to 3 square faces. On each face a number is marked: 5 on the pentagonal ones, 1 on the triangular ones and −1 on the square ones. What is the sum of all the numbers that appear on the surface of the solid?
+>
+> A) 20
 > B) 50
-> 	
 > C) 60
-> 	
 > D) 80
-> 	
 > E) 120
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_student_gara#q25|src_kangourou_2021_student_gara__Q25]]
 
 
 
@@ -1435,19 +1453,24 @@ Whose child is the little kangaroo s?*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distinct triangles from 15 points on a circumference up to symmetry*
+*How many distinct triangles can be generated?*
 
 ![[src_kangourou_2021_student_gara__prob26.png]]
 
-> 15 points are evenly distributed (i.e. the distance between two adjacent points is constant) over a circumference. Triangles are formed by choosing as vertices three of these points in every possible way. If we consider two triangles that can be obtained one from the other by rotation or reflection as identical, how many different triangles can be generated? A) 19
-> 	
+> 15 points are distributed evenly (that is, the distance between two adjacent points is constant) on a circle. Triangles are formed by choosing three of these points as vertices in every possible way. If we regard as the same two triangles that can be obtained from each other by a rotation or a reflection, how many distinct triangles can be generated?
+>
+> A) 19
 > B) 91
-> 	
 > C) 46
-> 	
-> D) 455 E) 23
+> D) 455
+> E) 23
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_student_gara#q26|src_kangourou_2021_student_gara__Q26]]
 
 
 
@@ -1516,18 +1539,24 @@ Whose child is the little kangaroo s?*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of triangle ABC divided by areas 1,3,3*
+*What is the area of the triangle ABC?*
 
 ![[src_kangourou_2021_student_gara__prob27.png]]
 
-> An ABC triangle is divided into four parts by two segments, as shown in the figure. The areas of the three triangles thus obtained measure 1, 3 and 3. What is the area of the ABC triangle? A) 12
-> 	
-> B) 12,5 C) 13
-> 	
-> D) 13,5 E) 14 A v B s C t D u E z A t B z C v D s E u 5 5 1 1 –1 –1 B C A 1 3 3
+> A triangle ABC is divided into four parts by two segments, as shown in the picture. The areas of the three triangles thus obtained measure 1, 3 and 3. What is the area of the triangle ABC?
 >
+> A) 12
+> B) 12,5
+> C) 13
+> D) 13,5
+> E) 14
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_student_gara#q27|src_kangourou_2021_student_gara__Q27]]
 
 
 
@@ -1571,19 +1600,24 @@ Whose child is the little kangaroo s?*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between XY-ray and OQ mirror with reflections*
+*What is the distance d, in centimetres?*
 
 ![[src_kangourou_2021_student_gara__prob28.png]]
 
-> Two flat mirrors OP and OQ form an acute angle. A ray of light XY parallel to QO hits the OP mirror in Y. The ray is reflected and hits the OQ mirror, reflected again and hits the OP mirror, reflected a third time and hits the OQ mirror in R by forming a right angle, as suggested in the next sketch, which otherwise only illustrates the sequence of reflections, without any precision being claimed about the width of angles. You know the OR distance is 5cm. What is the distance d in centimetres between the ray XY and the OQ mirror? A) 4
-> 	
+> Two plane mirrors OP and OQ form an acute angle. A ray of light XY parallel to QO hits the mirror OP at Y. The ray is reflected and hits the mirror OQ, is reflected again and hits the mirror OP, is reflected a third time and hits the mirror OQ at R, forming a right angle, as suggested in the sketch beside, which otherwise only illustrates the sequence of reflections, without claiming to be precise about the sizes of the angles. It is known that the distance OR is 5 cm. What is the distance d, in centimetres, between the ray XY and the mirror OQ?
+>
+> A) 4
 > B) 4,5
-> 	
 > C) 5
-> 	
-> D) 5,5 E) 6
+> D) 5,5
+> E) 6
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_student_gara#q28|src_kangourou_2021_student_gara__Q28]]
 
 
 
@@ -1620,23 +1654,24 @@ Whose child is the little kangaroo s?*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum value of M(k), the maximum of |4x^2-4x+k| on [-1,1]*
+*What is the least possible value of M(k)?*
 
-> Let M(k) be the maximum value of | 4x2 – 4x + k | as x varies in the interval [–1,1], 
-> where the parameter k can be any real number. As k varies, what is the minimum possible value of M(k)?
-> A) 4	
-> 	
-> B) 	
-> 	
-> C) 5	
-> 	
+> Let M(k) be the greatest value of |4x2 – 4x + k| as x varies in the interval [–1, 1], where the parameter k may be any real number. As k varies, what is the least possible value of M(k)?
+>
+> A) 4
+> B)
+> C) 5
 > D) 11
-> ---- 
->  2
-> 	 	
+> ----
+> 2
 > E) 8
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_student_gara#q29|src_kangourou_2021_student_gara__Q29]]
 
 
 
@@ -1685,19 +1720,19 @@ Whose child is the little kangaroo s?*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of A winning by 3 points*
+*What is the probability that A obtains the final victory?*
 
-> The rules of a certain two-player game state that, in order to win, one of the players must be able to gain a 3-point advantage over the other. A and B are playing, and right now, A has a point advantage. If a point is at stake at each turn and the two players have the same chance of winning it, what is the probability that A will win in the end? (You can assume that there is a winner, that is, that the game cannot go on forever.) A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
-> E)
-> 
-> Student Answers
+> The rules of a certain two-player game state that, to win, one of the players must manage to be 3 points ahead of the other. A and B are playing and, at the moment, A is one point ahead. If one point is at stake on each turn and the two players have the same probability of winning it, what is the probability that it is A who obtains the final victory? (You may assume that there is a winner, that is, that the game cannot go on for ever.)
 >
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_student_gara#q30|src_kangourou_2021_student_gara__Q30]]

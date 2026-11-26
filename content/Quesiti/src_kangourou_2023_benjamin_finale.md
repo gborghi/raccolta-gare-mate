@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Distribute 16 bottles (full/half/empty) equally to 4*
+*Show how you can distribute all these bottles.*
 
-> There are 16 identical bottles: 7 are full of milk, 6 are half full of milk and 3 are empty. Indicate how you can distribute all these bottles, without changing the contents, to four people so that each person gets the same amount of milk and the same number of bottles.
+> There are 16 identical bottles: 7 are full of milk, 6 are half full of milk and 3 are empty. Show how you can distribute all these bottles, without changing their contents, among four people so that each gets the same amount of milk and the same number of bottles.
 
-**Answer:** construction
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Answer:** costruzione
+[[Quesiti/src_kangourou_2023_benjamin_finale#qb1|src_kangourou_2023_benjamin_finale__QB1]]
 
 
 
@@ -62,15 +66,22 @@ Distribute 16 bottles (full/half/empty) equally to 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the two missing numbers*
+*What is the sum of the numbers to be entered in the two cells with the question mark?*
 
 ![[src_kangourou_2023_benjamin_finale__probb2.png]]
 
-> In each box of the diagram in the figure one of the numbers 1, 2, 3, 4 must appear so that: - each of them appears only once in each row and column; - the three symbols ">" of "greater" or "<" of "less" that appear are placed correctly in relation to the numbers hosted in the two boxes between which they are inserted.
-> 
-> Two boxes have already been filled. What is the sum of the numbers to be entered in the two boxes with the question mark? (see figure)
+> In each cell of the grid in the picture one of the numbers 1, 2, 3, 4 must appear, so that:
+>
+> - each of them appears only once in every row and in every column;
+> - the three symbols ">" for greater than or "<" for less than that appear are placed correctly with respect to the numbers in the two cells between which they are inserted.
+>
+> Two cells have already been filled. What is the sum of the numbers to be entered in the two cells with the question mark? (see the picture)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 5
+[[Quesiti/src_kangourou_2023_benjamin_finale#qb2|src_kangourou_2023_benjamin_finale__QB2]]
 
 
 
@@ -93,11 +104,15 @@ Distribute 16 bottles (full/half/empty) equally to 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*last position boy*
+*In what place did the last of the boys finish?*
 
-> Five girls and four boys took part in a competition where there were no positions of equal merit. The first place in the ranking is taken by a girl; by adding the numbers of the girls' positions you get twice the sum of the numbers of the boys' positions. What position did the last of the boys rank in?
+> Five girls and four boys took part in a race in which ties were not provided for. First place went to a girl; adding the numbers of the girls' places gives twice the sum of the numbers of the boys' places. In what place did the last of the boys finish?
 
-**Answer:** 6 (sixth)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Answer:** 6 (sesta)
+[[Quesiti/src_kangourou_2023_benjamin_finale#qb3|src_kangourou_2023_benjamin_finale__QB3]]
 
 
 
@@ -131,21 +146,18 @@ Distribute 16 bottles (full/half/empty) equally to 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum tokens*
+*What is the least number of counters that lets the aim be achieved?*
 
 ![[src_kangourou_2023_benjamin_finale__probb4.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw[step=1cm] (0,0) grid (9,2);
-\end{tikzpicture}
-\end{document}
-```
+> One wants to place some counters in as many square cells of a $2 \times 9$ grid so that every cell either contains a counter or shares a side with some cell that contains a counter. What is the least number of counters that lets the aim be achieved?
 
-> We want to place some tokens in as many square cells of a $2 \times 9$ grid so that each cell either contains a token or shares a side with some cell that contains a token. What is the minimum number of tokens that allows achieving the goal?
-
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 5
+[[Quesiti/src_kangourou_2023_benjamin_finale#qb4|src_kangourou_2023_benjamin_finale__QB4]]
 
 
 
@@ -168,11 +180,15 @@ Distribute 16 bottles (full/half/empty) equally to 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following information shall be provided:
+*Which word does the code correspond to?*
 
-> To form a secret code, the 21 letters of the Italian alphabet (therefore without the letters K, J, X, Y, W), written in alphabetical order, were progressively numbered starting from a letter that is not necessarily the A and starting again with the A after the Z (for example, if the letter E was the number 1, the F would be the number 2, the Z the number 17 and the A the number 18 until reaching the D, the number 21). The sum of the numbers assigned to the letters P, Q, R, S is 44. What word does $(3, 1, 11)$ correspond to?
+> To form a secret code, the 21 letters of the Italian alphabet (so without the letters K, J, X, Y, W), written in alphabetical order, have been numbered in sequence starting from a letter that is not necessarily A, and starting again with A after Z (for example, if the letter E were number 1, F would be number 2, Z number 17 and A number 18, up to D, number 21). The sum of the numbers assigned to the letters P, Q, R, S is 44. Which word does the code $(3, 1, 11)$ correspond to?
 
-**Answer:** THREE
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Answer:** TRE
+[[Quesiti/src_kangourou_2023_benjamin_finale#qb5|src_kangourou_2023_benjamin_finale__QB5]]
 
 
 
@@ -198,10 +214,15 @@ The following information shall be provided:
 <div class="qlang-split" data-lang="en"></div>
 
 
-Max liars
+*How many inhabitants who always lie can there be, at most?*
 
 ![[src_kangourou_2023_benjamin_finale__probb6.png]]
 
-> One island is divided into 15 regions as shown in the figure. In every region there is one and only one inhabitant who either always tells the truth or always lies. Each resident says, "Among my neighbours there is at least one person who always lies". How many people can be at most lying all the time? (Two inhabitants are neighbours when their regions share a segment of their edge, not necessarily an entire side of either one.) (see figure)
+> An island is divided into 15 regions as indicated in the picture. In each region there lives one and only one inhabitant, who either always tells the truth or always lies. Each inhabitant states: "Among my neighbours there is at least one person who always lies." How many inhabitants who always lie can there be, at most? (Two inhabitants are regarded as neighbours when their regions share a segment of their border, not necessarily a whole side of one of the two.) (see the picture)
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 6
+[[Quesiti/src_kangourou_2023_benjamin_finale#qb6|src_kangourou_2023_benjamin_finale__QB6]]

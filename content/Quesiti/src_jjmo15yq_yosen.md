@@ -30,11 +30,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Più grande numero intero di cifre distinte non zero, ogni coppia adiacente un multiple di 7*
+*Il più grande intero con cifre distinte non nulle, in cui ogni coppia adiacente è un multiplo di 7*
 
-> Considerate i numeri interi positivi i cui numeri sono tutti distinti e non zero, in modo che qualunque coppia di numeri adiacenti venga estratta, il numero di due cifre risultante è un multiple di $7$. (Per esempio, da $123$ si possono togliere le coppie adiacenti $12$ e $23$, dando $2$ tali numeri a due cifre.) Tra tutti questi enti, trovare il più grande.
+> Si considerino i numeri interi positivi i cui tutti i digit sono distinti e non nulli, e tali che, qualunque coppia di digit adiacenti si estragga, il numero di due cifre che ne risulta sia un multiplo di $7$. (Ad esempio, da $123$ si possono estrarre le coppie adiacenti $12$ e $23$, ottenendo $2$ tali numeri di due cifre.) Tra tutti i numeri di questo tipo, si determini il più grande.
 
-**Risposta:** 98421
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo15yq_yosen#q01|src_jjmo15yq_yosen__Q01]]
 
 
 
@@ -57,11 +62,17 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'intero più grande non superiore a 123456789)*
+*Il più grande intero che non supera la radice di 123456789*
 
-> Trova il numero intero più grande che è al massimo $\sqrt{123456789}$.
+> Trovare il più grande intero che non supera $\sqrt{123456789}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Abilità:** [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
 **Risposta:** 11111
+
+[[Quesiti/src_jjmo15yq_yosen#q02|src_jjmo15yq_yosen__Q02]]
 
 
 
@@ -86,11 +97,17 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserire le scatole con 1-6 per rendere la frazione più vicina a 1*
+*Riempi le caselle con numeri da 1 a 6 per ottenere la frazione più vicina a 1*
 
-> Mettete i numeri interi $1, 2, 3, 4, 5, 6$, uno per uno, nelle caselle $\square$ dell'espressione seguente e calcolate il valore risultante. Tra tutti i valori disponibili, indicare quello più vicino a $1$. Qui $2^{\square}$ indica $2$ sollevato alla potenza scritta nella casella. $$\frac{2^{\square}+2^{\square}+2^{\square}}{2^{\square}+2^{\square}+2^{\square}}$$
+> Colloca gli interi $1, 2, 3, 4, 5, 6$, uno per ciascuna casella $\square$, nell'espressione sottostante e calcola il valore risultante. Tra tutti i valori ottenibili, indica quello più vicino a $1$. Qui $2^{\square}$ denota $2$ elevato alla potenza scritta nella casella.
+> $$\frac{2^{\square}+2^{\square}+2^{\square}}{2^{\square}+2^{\square}+2^{\square}}$$
 
-**Risposta:** 4/5
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo15yq_yosen#q03|src_jjmo15yq_yosen__Q03]]
 
 
 
@@ -114,11 +131,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Linea attraverso P su AB che divide sia l'area di un quadrato che di un triangolo; trovare AP*
+*Retta passante per P su AB che biseca le aree sia di un quadrato sia di un triangolo; trova AP*
 
-> Let $ABCD$ essere un quadrato di lunghezza laterale $2$, e let $E$ essere il punto simmetrico a $B$ rispetto a $C$ (in modo che $C$ sia il punto medio del segmento $BE$). Una linea $l$ interseca il lato $AB$ al punto $P$. Quando la linea $l$ suddivide l'area del quadrato $ABCD$ e suddivide anche l'area del triangolo $CDE$, si trova la lunghezza del segmento $AP$.
+> Sia $ABCD$ un quadrato di lato $2$, e sia $E$ il punto simmetrico di $B$ rispetto a $C$ (cosicché $C$ sia il punto medio del segmento $BE$). Una retta $l$ interseca il lato $AB$ nel punto $P$. Quando la retta $l$ biseca l'area del quadrato $ABCD$ e biseca anche l'area del triangolo $CDE$, determinare la lunghezza del segmento $AP$.
 
-**Risposta:** 3-\sqrt{5}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo15yq_yosen#q04|src_jjmo15yq_yosen__Q04]]
 
 
 
@@ -148,13 +170,21 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medi per riempire la griglia 3x3 con 1-9 con la riga in aumento a destra e la colonna sinistra in calo*
+*Modi per riempire una griglia 3x3 con i numeri da 1 a 9, con le righe che crescono verso destra e le colonne che decrescono verso il basso*
 
-> Considerare i modi per scrivere uno dei numeri interi distinti da $1$ a $9$ nelle celle di una griglia $3\times 3$ in modo da soddisfare le seguenti condizioni. Quanti sono questi modi? \begin{itemize} \item In ogni riga, tra i tre numeri interi scritti, il numero intero nella cella più destra è il più grande e il numero intero nella cella più sinistra è il più piccolo. \item Nella colonna più sinistra, tra i tre numeri interi scritti, il numero intero nella cella più alta è il più grande e il numero intero nella cella più bassa è il più piccolo. # Finire #
+> Considera i modi per scrivere, una ciascuno, gli interi distinti da $1$ a $9$ nelle celle di una griglia di $3\times 3$ celle in modo che siano soddisfatte le seguenti condizioni. Quanti sono tali modi?
+> \begin{itemize}
+> \item In ogni riga, tra i tre interi scritti, l'intero nella cella più a destra è il più grande e l'intero nella cella più a sinistra è il più piccolo. \item Nella colonna più a sinistra, tra i tre interi scritti, l'intero nella cella più in alto è il più grande e l'intero nella cella più in basso è il più piccolo.
+> \end{itemize}
 
 ![[src_jjmo15yq_yosen__q05.png]]
 
-**Risposta:** 280
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo15yq_yosen#q05|src_jjmo15yq_yosen__Q05]]
 
 
 
@@ -178,11 +208,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi tangenti a due linee; trovare TU data PT=1 e una condizione di punto medio*
+*Due cerchi tangenti a due rette; trovare TU sapendo che PT=1 e che vale una condizione sul punto medio*
 
-> Nel piano ci sono due linee $l$ e $m$ che si incrociano al punto $S$. C'è un punto $P$ sulla linea $m$ distinto da $S$. Due cerchi distinti $\alpha$ e $\beta$ sono ciascuna tangente alla linea $m$ al punto $P$, e sono tangenti alla linea $l$ rispettivamente ai punti $T$ e $U$. Il $Q$ deve essere l'intersezione della linea $PU$ con $\alpha$ diversa da $P$. Quando il segmento $PT$ passa attraverso il punto medio del segmento $SQ$ e la lunghezza del segmento $PT$ è $1$, trovare la lunghezza del segmento $TU$.
+> Nel piano ci sono due rette $l$ e $m$ che si intersecano nel punto $S$. C'è un punto $P$ sulla retta $m$, diverso da $S$. Due cerchi distinti, $\alpha$ e $\beta$, sono ciascuno tangente alla retta $m$ nel punto $P$, e sono tangenti alla retta $l$ nei punti $T$ e $U$ rispettivamente. Sia $Q$ l'intersezione della retta $PU$ con $\alpha$, diversa da $P$. Quando il segmento $PT$ passa per il punto medio del segmento $SQ$ e la lunghezza del segmento $PT$ è $1$, determina la lunghezza del segmento $TU$.
 
-**Risposta:** \sqrt{3}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo15yq_yosen#q06|src_jjmo15yq_yosen__Q06]]
 
 
 
@@ -206,11 +241,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca n a 3 cifre con n = 2P(n) + 27, P = prodotto di cifre*
+*Trovare un numero n di tre cifre tale che n = 2P(n) + 27, dove P è il prodotto delle cifre*
 
-> Per un intero positivo $k$, $P(k)$ indica il prodotto delle sue cifre. Trova tutti gli integri positivi $3$ a cifre $n$ soddisfacenti $n = 2P(n) + 27$.
+> Per un numero intero positivo $k$, si indichi con $P(k)$ il prodotto delle sue cifre. Determinare tutti i numeri interi positivi $n$ a $3$ cifre che soddisfano $n = 2P(n) + 27$.
 
-**Risposta:** 279, 587
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo15yq_yosen#q07|src_jjmo15yq_yosen__Q07]]
 
 
 
@@ -234,11 +274,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo BXC all'interno di un triangolo equilaterale dato le condizioni di angolo al punto medio di AX*
+*Angolo BXC all'interno di un triangolo equilatero, dati i vincoli angolari nel punto medio di AX*
 
-> $X$ sia un punto all'interno del triangolo equilaterale $ABC$. Il segmento $AX$ deve essere il punto medio di $M$. Supponiamo $\angle MBC = 54^\circ$ e $\angle MCB = 36^\circ$. Trova la misura di $\angle BXC$.
+> Sia $X$ un punto all'interno del triangolo equilatero $ABC$. Sia $M$ il punto medio del segmento $AX$. Si supponga che valgano $\angle MBC = 54^\circ$ e $\angle MCB = 36^\circ$. Determinare la misura di $\angle BXC$.
 
-**Risposta:** 150^\circ
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo15yq_yosen#q08|src_jjmo15yq_yosen__Q08]]
 
 
 
@@ -267,11 +312,20 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per scegliere i punti massimi della griglia senza differenze di coordinate uguali*
+*Conta i modi per scegliere il massimo numero di punti del reticolo con differenze delle coordinate tutte diverse*
 
-> $n$ sia un numero intero positivo. Supponiamo che i punti $n$ siano scelti dal piano $xy$ e soddisfino le seguenti condizioni. \begin{itemize} \item Ogni punto ha sia le sue $x$- che $y$-coordinate interi tra $0$ e $2017$ incluse. \item Per due punti distinti scelti $(a,b)$ e $(c,d)$, indipendentemente dal modo in cui i due punti sono scelti, $|a-c| \neq |b-d|$ vale. \end{itemize} $N$ sia il valore più grande di $n$ per il quale si può verificare tale situazione. In quanti modi si possono scegliere i punti $N$ dal piano $xy$ che soddisfano le condizioni?
+> Sia $n$ un numero intero positivo. Si supponga che vengano scelti $n$ punti dal piano $xy$ e che tali punti soddisfino le seguenti condizioni.
+> \begin{itemize}
+> \item Ciascun punto ha sia le coordinate $x$ che quelle $y$ intere, comprese tra $0$ e $2017$, estremi inclusi. \item Per qualsiasi due punti scelti distinti $(a,b)$ e $(c,d)$, indipendentemente da come vengono scelti i due punti, vale $|a-c| \neq |b-d|$.
+> \end{itemize}
+> Sia $N$ il valore massimo di $n$ per cui una tale situazione può verificarsi. In quanti modi si possono scegliere $N$ punti nel piano $xy$ che soddisfano le condizioni?
 
-**Risposta:** 2^{2018}
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_jjmo15yq_yosen#q09|src_jjmo15yq_yosen__Q09]]
 
 
 
@@ -301,13 +355,21 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medi per riempire la griglia 2x7 con 1-14, righe in aumento, lacune nelle colonne non in diminuzione*
+*Modi per riempire una griglia 2x7 con i numeri da 1 a 14, con le righe in ordine crescente e gli scarti tra gli elementi di ciascuna colonna non decrescenti*
 
-> Scrivere uno di ciascuno dei numeri interi distinti da $1$ a $14$ nelle celle di una griglia $2\times 7$ come mostrato di seguito. Quanti metodi di scrittura soddisfano le seguenti condizioni? \begin{itemize} \item In ogni riga, i sette numeri interi scritti sono disposti in ordine crescente da sinistra a destra. \item Per ogni numero intero $k$ da $1$ a $6$, la differenza tra i due numeri scritti nella colonna $(k+1)$ da sinistra è maggiore o uguale alla differenza tra i due numeri scritti nella colonna $k$. # Finire #
+> Scrivi un esemplare di ciascuno dei numeri interi distinti compresi tra $1$ e $14$ nelle celle di una griglia $2\times 7$ come mostrato di seguito. In quanti modi si può effettuare la scrittura soddisfacendo le seguenti condizioni?
+> \begin{itemize}
+> \item In ogni riga, i sette interi scritti sono disposti in ordine crescente da sinistra a destra. \item Per ogni intero $k$ compreso tra $1$ e $6$, la differenza tra i due numeri scritti nella $(k+1)$-esima colonna partendo da sinistra è maggiore o uguale alla differenza tra i due numeri scritti nella $k$-esima colonna.
+> \end{itemize}
 
 ![[src_jjmo15yq_yosen__q10.png]]
 
-**Risposta:** 350
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo15yq_yosen#q10|src_jjmo15yq_yosen__Q10]]
 
 
 
@@ -332,11 +394,19 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggiamo un numero intero 4 volte soddisfacente (a^2+b^2) ((c^2+d^2)=4abcd+106*
+*Quante quadruple di interi soddisfano (a²+b²)(c²+d²) = 4abcd + 106*
 
-> Quanti tuppi di numeri interi $(a, b, c, d)$ soddisfano l'equazione $$(a^2 + b^2)(c^2 + d^2) = 4abcd + 106\,?$$
+> Quante quadruple di interi $(a, b, c, d)$ soddisfano l'equazione
+> $$(a^2 + b^2)(c^2 + d^2) = 4abcd + 106\,?$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata per casi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
 **Risposta:** 128
+
+[[Quesiti/src_jjmo15yq_yosen#q11|src_jjmo15yq_yosen__Q11]]
 
 
 
@@ -366,8 +436,17 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Min a in un torneo di eliminazione singola di 256 giocatori vinto da un giocatore 1*
+*Min a in un torneo a eliminazione diretta con 256 giocatori vinto dal giocatore 1*
 
-> Un totale di giocatori $2^8 = 256$ hanno partecipato a un torneo di tennis di singola eliminazione. In questo torneo il campione è deciso come segue. In primo luogo, tutti i giocatori si allineano in una sola riga. \item Ripetere il seguente fino a quando non rimane solo un giocatore nella fila: prendere i giocatori della fila in ordine, due alla volta da una estremità, formando coppie e avere i due giocatori di ciascuna coppia giocare una partita. Il vincitore di ogni partita rimane in fila, mentre il perdente lascia la fila. Supponiamo che non si verifichino. Quando rimane solo un giocatore in fila, quel giocatore è il campione. A ogni giocatore viene assegnato un numero intero distinto da $1$ a $256$, e il campione di questo torneo aveva il numero $1$. Per un determinato numero intero $a$, è tenuto il seguente: in ogni partita giocata durante il torneo, lasciando $w$ il numero del giocatore vincente e $l$ il numero del giocatore perdente, $l - w \le a$ è tenuto. Trova il valore più piccolo di $a$ che può essere considerato tale.
+> In totale, $2^8 = 256$ giocatori hanno partecipato a un torneo di tennis a eliminazione diretta. In questo torneo, il campione viene determinato nel modo seguente.
+> \begin{itemize}
+> \item Innanzitutto, tutti i giocatori si mettono in fila in un'unica riga. \item Ripeti quanto segue finché nella riga non resta che un solo giocatore: prendi i giocatori della riga in ordine, due alla volta partendo da un'estremità, formando delle coppie, e fai che i due giocatori di ciascuna coppia disputino una partita. Il vincitore di ogni partita resta nella riga, mentre il perdente la lascia. Si assuma che non ci siano pareggi. \item Quando nella riga resta un solo giocatore, quel giocatore è il campione.
+> \end{itemize}
+> A ciascun giocatore viene assegnato un intero distinto compreso tra $1$ e $256$, e il campione di questo torneo aveva il numero $1$. Per un certo intero $a$, valeva quanto segue: in ogni partita disputata durante il torneo, ponendo $w$ come numero del giocatore vincitore e $l$ come numero del giocatore sconfitto, vale $l - w \le a$. Trovare il valore minimo di $a$ che può essere considerato tale.
 
-**Risposta:** 44
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo15yq_yosen#q12|src_jjmo15yq_yosen__Q12]]

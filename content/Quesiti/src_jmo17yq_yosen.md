@@ -30,11 +30,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di quadrilaterali convexi con un angolo retto e lunghezze laterali date*
+*Area di un quadrilatero convesso con lati e angoli assegnati*
 
-> Un quadrilaterale converso $ABCD$ soddisfa $AB = 3$, $BC = 4$, $CD = 5$, $DA = 6$ e $\angle ABC = 90^\circ$. Trova la superficie di $ABCD$.
+> Un quadrilatero convesso $ABCD$ soddisfa $AB = 3$, $BC = 4$, $CD = 5$, $DA = 6$ e $\angle ABC = 90^\circ$. Trovare l'area di $ABCD$.
 
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 18
+[[Quesiti/src_jmo17yq_yosen#q01|src_jmo17yq_yosen__Q01]]
 
 
 
@@ -58,11 +62,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unità di numero di una torre elettrica 11^(12^13)*
+*Cifra delle unità di una potenza a torre*
 
-> Trova la cifra di unità di $11^{12^{13}}$. Qui $11^{12^{13}}$ indica $11$ sollevato alla potenza $12^{13}$ (non $(11^{12}) \cdot 13$), e $11^{12}$ indica $11$ sollevato alla potenza $12^{13}$, non il $13$th multiplo di $11^{12}$.
+> Trovare la cifra delle unità di $11^{12^{13}}$. Qui $11^{12^{13}}$ indica $11$ elevato alla potenza $12^{13}$ (non $(11^{12}) \cdot 13$), e $11^{12}$ indica $11$ elevato alla potenza $12^{13}$, non il $13$-esimo multiplo di $11^{12}$.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 1
+[[Quesiti/src_jmo17yq_yosen#q02|src_jmo17yq_yosen__Q02]]
 
 
 
@@ -86,11 +94,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Produzione minima AP volte BP per un punto P a distanza 3 dal segmento AB*
+*Minimo di una distanza da un punto a un segmento*
 
-> Un segmento $AB$ di lunghezza $7$ si trova su un piano. Il $P$ deve essere un punto del piano tale che la distanza da $P$ alla linea $AB$ sia $3$. Trova il valore minimo di $AP \times BP$.
+> Un segmento $AB$ di lunghezza $7$ giace su un piano. Sia $P$ un punto del piano tale che la distanza di $P$ dalla retta $AB$ sia $3$. Trovare il minimo valore di $AP \times BP$.
 
+**Argomento:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Risposta:** $\dfrac{85}{4}$
+[[Quesiti/src_jmo17yq_yosen#q03|src_jmo17yq_yosen__Q03]]
 
 
 
@@ -113,9 +125,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieri a 4 cifre le cui parti superiori e inferiori a 2 cifre hanno il prodotto pari al numero di divisori*
+*Interi di quattro cifre il cui prodotto delle due metà è il numero dei divisori*
 
-> Che $n$ sia un intero positivo a 4 cifre la cui cifra decimale non è $0$. Considera il numero intero $p$ formato dalle centinaia e migliaia di cifre di $n$ (le due cifre superiori) e il numero intero $q$ formato dalle decine e dalle cifre di unità di $n$ (le due cifre inferiori), dove sia $p$ che $q$ sono numeri interi a 2 cifre. Il prodotto $p \cdot q$ è uguale al numero di divisori positivi di $n$. Trova tutte le $n$.
+> Sia $n$ un intero positivo di 4 cifre la cui cifra delle decine non è $0$. Si considerino l'intero $p$ formato dalle cifre delle centinaia e delle migliaia di $n$ (le due cifre alte) e l'intero $q$ formato dalle cifre delle decine e delle unità di $n$ (le due cifre basse), dove sia $p$ sia $q$ sono interi di 2 cifre. Il prodotto $p \cdot q$ è uguale al numero dei divisori positivi di $n$. Determinare tutti tali $n$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo17yq_yosen#q04|src_jmo17yq_yosen__Q04]]
 
 
 
@@ -138,9 +155,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Regioni massime in cui il piano è diviso in 3 rettangoli allineati all'asse*
+*Massimo numero di regioni in cui tre rettangoli a lati paralleli dividono il piano*
 
-> Tre rettangoli sono posizionati su un piano in modo che due di essi abbiano lati reciprocamente paralleli (cioè, tutti i lati sono paralleli a una delle due direzioni perpendicolari fisse). In quante regioni al massimo questi tre rettangoli possono dividere il piano? L'interno e il confine di ogni rettangolo sono considerati, e una regione non contenuta in alcun rettangolo è anche considerata come una regione. (Per esempio, un singolo rettangolo divide il piano in regioni $2$.)
+> Tre rettangoli sono disposti su un piano in modo che due qualunque di essi abbiano i lati a due a due paralleli (cioè tutti i lati sono paralleli a una di due direzioni perpendicolari fissate). In al più quante regioni questi tre rettangoli possono dividere il piano? Si considerano l'interno e il bordo di ogni rettangolo, e si conta come regione anche una regione non contenuta in alcun rettangolo. (Per esempio, un solo rettangolo divide il piano in $2$ regioni.)
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_jmo17yq_yosen#q05|src_jmo17yq_yosen__Q05]]
 
 
 
@@ -164,11 +186,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare somme distinte raggiungibili selezionando carte numerate da 1 a 15*
+*Quanti valori distinti può assumere la somma di un sottoinsieme di carte*
 
-> Ci sono carte $15$, ciascuna con un numero intero distinto scritto su di essa, una da ciascuna di $1, 2, \ldots, 15$. Si selezionano una o più carte e si sommano i numeri. Quanti valori distinti può contenere questa somma?
+> Ci sono $15$ carte, ciascuna con un intero distinto, uno per ciascuno di $1, 2, \ldots, 15$. Si scelgono una o più carte e si sommano i numeri scritti. Quanti valori distinti può assumere questa somma?
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Risposta:** 120
+[[Quesiti/src_jmo17yq_yosen#q06|src_jmo17yq_yosen__Q06]]
 
 
 
@@ -192,11 +218,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare modi non ordinati per scrivere 100 come somma di interi non negativi ciascuno al massimo 3*
+*Modi di scrivere un intero come somma di interi non negativi limitati, a meno dell'ordine*
 
-> In quanti modi $100$ può essere espresso come somma di un certo numero positivo di integri non negativi, ognuno dei quali è al massimo $3$? Due espressioni che differiscono solo nell'ordine dei loro termini sono considerate uguali.
+> In quanti modi si può scrivere $100$ come somma di un certo numero positivo di interi non negativi, ciascuno al più $3$? Due espressioni che differiscono solo per l'ordine degli addendi si considerano uguali.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 884
+[[Quesiti/src_jmo17yq_yosen#q07|src_jmo17yq_yosen__Q07]]
 
 
 
@@ -223,9 +253,18 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le triangolazioni di un cubo in tetraedri utilizzando solo vertici di cubo*
+*Partizioni di un cubo in tetraedri con vertici tra quelli del cubo*
 
-> Lasciate che $S$ sia un cubo. In quanti modi $S$ può essere suddiviso in una raccolta di tetraedri $\{T_1, \ldots, T_k\}$ che soddisfano le seguenti due condizioni? \begin{itemize} \item[(1)] I vertici di ogni tetraedro $T_i$ sono tutti vertici di $S$. \item[(2)] Per qualsiasi $i \neq j$, se $T_i$ e $T_j$ condividono una parte comune, allora quella parte comune è una faccia comune, un bordo comune o un vertice comune di $T_i$ e $T_j$. # Finire #
+> Sia $S$ un cubo. In quanti modi si può partizionare $S$ in una collezione di tetraedri $\{T_1, \ldots, T_k\}$ che soddisfano le due condizioni seguenti?
+> \begin{itemize}
+> \item[(1)] I vertici di ogni tetraedro $T_i$ sono tutti vertici di $S$.
+> \item[(2)] Per ogni $i \neq j$, se $T_i$ e $T_j$ hanno una parte in comune, allora quella parte comune è una faccia comune, uno spigolo comune oppure un vertice comune di $T_i$ e di $T_j$.
+> \end{itemize}
+
+**Argomento:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_jmo17yq_yosen#q08|src_jmo17yq_yosen__Q08]]
 
 
 
@@ -249,9 +288,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni integrali a^2 b^2 = 4a^3 + b^3*
+*Coppie di interi che soddisfano un'equazione*
 
-> Trova tutte le coppie di integri $(a, b)$ soddisfacenti $$a^2 b^2 = 4a^3 + b^3.$$
+> Determinare tutte le coppie di interi $(a, b)$ che soddisfano
+>
+> $$a^2 b^2 = 4a^3 + b^3.$$
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo17yq_yosen#q09|src_jmo17yq_yosen__Q09]]
 
 
 
@@ -274,9 +320,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Multiinsiemi di schede di conteggio con somma 2007 che consentono n-sottosette unici con somma divisibile da n*
+*Collezioni di carte con somma fissata e scelta unica modulo k*
 
-> Ci sono alcune carte, ognuna con un intero positivo scritto su di essa, e la somma di tutti i numeri scritti è $2007$. Per ogni numero intero $n$ con $1 \le n \le 2006$, si possono scegliere carte $n$ in modo tale che la somma dei numeri sulle carte scelte sia divisibile da $n$, e inoltre questa scelta è unica (in cui le carte con lo stesso numero scritto su di esse sono trattate come indistinguibili). Quante tali collezioni di carte sono possibili?
+> Ci sono delle carte, ciascuna con un intero positivo scritto, e la somma di tutti i numeri scritti è $2007$. Per ogni intero $n$ con $1 \le n \le 2006$, si possono scegliere $n$ carte in modo che la somma dei numeri sulle carte scelte sia divisibile per $n$, e inoltre questa scelta è unica (carte con lo stesso numero si trattano come indistinguibili). Quante collezioni di carte di questo tipo sono possibili?
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_jmo17yq_yosen#q10|src_jmo17yq_yosen__Q10]]
 
 
 
@@ -299,9 +350,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il triple della soglia di medaglia in modo che esattamente 2 numeri di partecipanti danno un numero fisso senza medaglie*
+*Terne di interi positivi per il numero di medaglie e di esclusi*
 
-> In una competizione di matematica, ogni partecipante riceve al massimo una medaglia: oro, argento o bronzo. Quando partecipano persone $n$, il numero di medaglie d'oro assegnate è $\left\lfloor \dfrac{n}{a} \right\rfloor$, il numero di medaglie d'argento è $\left\lfloor \dfrac{n}{b} \right\rfloor$, e il numero di medaglie di bronzo è $\left\lfloor \dfrac{n}{c} \right\rfloor$, dove $a, b, c$ sono numeri interi positivi con $a \ge b \ge c$. Nessuna persona riceve più di una medaglia. Per un dato numero intero non negativo $k$, supponiamo che per ogni numero intero $n \ge 3$, il numero di valori di $n$ per i quali esattamente $k$ le persone non ricevono medaglie è esattamente $2$. Trova tutti i triples $(a, b, c)$ di numeri interi positivi che soddisfano questa condizione. (Qui $\lfloor r \rfloor$ indica il più grande numero intero non superiore al numero reale $r$.)
+> A una gara di matematica ogni partecipante riceve al più una medaglia: oro, argento o bronzo. Quando partecipano $n$ persone, il numero di medaglie d'oro assegnate è $\left\lfloor \dfrac{n}{a} \right\rfloor$, il numero di medaglie d'argento è $\left\lfloor \dfrac{n}{b} \right\rfloor$ e il numero di medaglie di bronzo è $\left\lfloor \dfrac{n}{c} \right\rfloor$, dove $a, b, c$ sono interi positivi con $a \ge b \ge c$. Nessuno riceve più di una medaglia. Per un dato intero non negativo $k$, si supponga che per ogni intero $n \ge 3$ il numero di valori di $n$ per i quali esattamente $k$ persone non ricevono alcuna medaglia sia esattamente $2$. Determinare tutte le terne $(a, b, c)$ di interi positivi che soddisfano questa condizione. (Qui $\lfloor r \rfloor$ indica il massimo intero che non supera il numero reale $r$.)
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_jmo17yq_yosen#q11|src_jmo17yq_yosen__Q11]]
 
 
 
@@ -331,8 +387,18 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massimi voti garantiti da candidati onesti in un villaggio con bugiardi che utilizzano una sola istruzione*
+*Massimo numero di persone oneste che si può garantire con una sola istruzione*
 
-> Un villaggio ha $2007$ persone. Un dio (神) vuole determinare il nome di un candidato facendo un sondaggio ai villaggi. Ogni abitante del villaggio può scrivere lettere: in ogni lettera, un abitante del villaggio scrive un nome candidato e lo invia al dio. Le lettere vengono raccolte ogni sera e consegnate la mattina dopo. Ogni abitante del villaggio è o una persona onesta, o un bugiardo. Dio conosce il numero totale di persone oneste e di bugiardi, ma non quali singole persone siano oneste. È noto che almeno le persone $3$ sono oneste. Potete, in un giorno particolare, dare un'unica istruzione a tutti i villaggi. Le persone oneste seguiranno le tue istruzioni; i bugiardi possono fare qualsiasi cosa. Trova il valore massimo di $k$ in modo da poter garantire quanto segue: se dai le istruzioni appropriate, e esiste un nome candidato che ogni persona onesta invierebbe indipendentemente al dio, allora almeno $k$ persone oneste inviano tutti lo stesso nome candidato al dio.
-> 
-> Più precisamente, le due regole sono: alla fine del processo, ogni persona onesta invia al dio una lettera, e tutte le persone oneste inviano lo stesso candidato. Se tutte le persone oneste, dopo aver calcolato indipendentemente, concordano sullo stesso nome del candidato, allora questo è il nome che ogni persona onesta invia al dio. \end{itemize} Trova il valore massimo di $k$.
+> Un villaggio ha $2007$ persone. Un dio (神様) vuole determinare il nome di un candidato interrogando gli abitanti. Ogni abitante può scrivere lettere: in ogni lettera scrive il nome di un candidato e la manda al dio. Le lettere si raccolgono ogni sera e si consegnano la mattina dopo. Ogni abitante è o una **persona onesta** (正直者) o un **bugiardo** (嘘つき). Il dio conosce il numero totale di persone oneste e di bugiardi, ma non quali individui siano onesti. Si sa che almeno $3$ persone sono oneste. Si può, in un certo giorno, dare una sola istruzione a tutti gli abitanti. Le persone oneste seguiranno l'istruzione; i bugiardi possono fare qualunque cosa. Trovare il massimo valore di $k$ tale che si possa garantire quanto segue: se si dà l'istruzione opportuna, ed esiste un nome di candidato che ogni persona onesta manderebbe indipendentemente al dio, allora almeno $k$ persone oneste mandano tutte quello stesso nome di candidato al dio.
+>
+> Più precisamente, le due regole sono:
+> \begin{itemize}
+> \item Alla fine del procedimento, ogni persona onesta manda al dio una lettera, e tutte le persone oneste mandano lo stesso candidato.
+> \item Se tutte le persone oneste, dopo aver calcolato indipendentemente, concordano sullo stesso nome di candidato, allora quello è il nome che ogni persona onesta manda al dio.
+> \end{itemize}
+> Trovare il massimo valore di $k$.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_jmo17yq_yosen#q12|src_jmo17yq_yosen__Q12]]

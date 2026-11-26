@@ -33,11 +33,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'area del BEFG quadrato data l'area dei quadrati ABCD e FHIJ*
+*Due quadrati di area nota hanno cinque vertici allineati: area del terzo quadrato*
 
-> Nel disegno accanto, il quadrato $ABCD$ ha superficie $30\,\text{cm}^2$ e il quadrato $FHIJ$ ha superficie $20\,\text{cm}^2$. I vertici $A$, $D$, $E$, $H$ e $I$ dei due quadrati si trovano sulla stessa linea retta. Calcolare la superficie del quadrato $BEFG$.
+> Nel disegno a lato il quadrato $ABCD$ ha area $30\,\text{cm}^2$ e il quadrato $FHIJ$ ha area $20\,\text{cm}^2$. I vertici $A$, $D$, $E$, $H$ e $I$ dei due quadrati stanno sulla stessa retta. Calcolare l'area del quadrato $BEFG$.
 
 ![[src_obm_2003_n2_f2__q01.png]]
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_coordinate|Coordinate]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n2_f2#q01|src_obm_2003_n2_f2__Q01]]
 
 
 
@@ -64,9 +72,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scelta 13 numeri interi da 1 a 26 contenenti 4 in modo che nessun numero scelto divida un altro*
+*Tredici interi tra 1 e 26, con il 4 incluso, e nessuno divide un altro scelto*
 
-> Tra i numeri interi da $1$ a $26$, scegli $13$ in modo tale che: 1) il numero $4$ sia tra i numeri scelti; 2) nessun numero scelto sia un divisore di un altro numero scelto.
+> Tra gli interi da $1$ a $26$, sceglierne $13$ in modo che:
+> 1) il numero $4$ sia tra quelli scelti;
+> 2) nessun numero scelto sia divisore di un altro numero scelto.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_obm_2003_n2_f2#q02|src_obm_2003_n2_f2__Q02]]
 
 
 
@@ -93,11 +111,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'area di una regione di carta dopo aver piegato e svolto un rettangolo tre volte*
+*Un foglio di 300 cm² piegato tre volte: area della regione delimitata dalle linee punteggiate*
 
-> Un foglio rettangolare $ABCD$ di superficie $300\,\text{cm}^2$ è stato ripiegato a metà e poi svolto (segmento $MN$); è stato ripiegato e svolto (segmento $MC$) e infine ripiegato e svolto lungo la diagonale $BD$. Calcolare l'area del pezzo di carta delimitata dalle linee puntate (la regione scura nella figura).
+> Un foglio rettangolare $ABCD$ di area $300\,\text{cm}^2$ è stato piegato a metà e poi riaperto (segmento $MN$); piegato di nuovo e riaperto (segmento $MC$) e infine piegato e riaperto lungo la diagonale $BD$. Calcolare l'area del pezzo di carta delimitato dalle linee punteggiate (la regione scura in figura).
 
 ![[src_obm_2003_n2_f2__q03.png]]
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_coordinate|Coordinate]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_obm_2003_n2_f2#q03|src_obm_2003_n2_f2__Q03]]
 
 
 
@@ -122,9 +148,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i numeri "potenti" inferiori a 100, dove un numero è uguale al prodotto dei suoi divisiori propri*
+*Un numero è potente se coincide con il prodotto dei suoi divisori positivi diversi da sé: elencarli sotto 100*
 
-> Considera il prodotto di tutti i divisori positivi di un intero positivo, diverso da questo numero stesso. Diciamo che un numero è $\textit{powerful}$ se è uguale a quel prodotto. Ad esempio, il numero $12$ è potente, poiché i suoi divisori positivi sono $1$, $2$, $3$, $4$, $6$ e $1\cdot 2\cdot 3\cdot 4\cdot 6 = 144 = 12^2$. Presenta tutti i numeri potenti inferiori a $100$.
+> Si consideri il prodotto di tutti i divisori positivi di un intero positivo, diversi dal numero stesso. Diciamo che un numero è $\textit{powerful}$ se è uguale a quel prodotto. Per esempio il numero $12$ è potente, perché i suoi divisori positivi minori di esso sono $1$, $2$, $3$, $4$, $6$ e $1\cdot 2\cdot 3\cdot 4\cdot 6 = 144 = 12^2$. Presentare tutti i numeri potenti minori di $100$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_obm_2003_n2_f2#q04|src_obm_2003_n2_f2__Q04]]
 
 
 
@@ -150,9 +184,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale f ((x) - f ((xy) = x/y+y/x: trovare f ((1) e una formula per f ((x)*
+*Una funzione positiva sui reali positivi soddisfa una relazione: f(1) e una formula per f(x)*
 
-> $f : \mathbb{R}_+^* \to \mathbb{R}_+^*$ deve essere una funzione tale che $f(x) - f(xy) = \dfrac{x}{y} + \dfrac{y}{x}$, per qualsiasi $x$ e $y$. (a) Calcolare $f(1)$. b) Trova una formula per $f(x)$.
+> Sia $f : \mathbb{R}_+^* \to \mathbb{R}_+^*$ una funzione tale che $f(x) - f(xy) = \dfrac{x}{y} + \dfrac{y}{x}$, per ogni $x$ e $y$.
+> (a) Calcolare $f(1)$.
+> (b) Trovare una formula per $f(x)$.
+
+**Argomento:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n2_f2#q05|src_obm_2003_n2_f2__Q05]]
 
 
 
@@ -179,8 +221,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca un altro numero biquadrato a quattro cifre, pari alla somma dei quadrati delle sue due metà a due cifre*
+*Un numero di quattro cifre è biquadrato se coincide con la somma dei quadrati delle due coppie di cifre: trovarne un altro*
 
-> Diciamo che un numero a quattro cifre $N$ è $\textit{biquadrado}$ quando è uguale alla somma dei quadrati dei due numeri formati dalle sue due metà: uno formato dalle prime due cifre di $N$, nell'ordine, e l'altro formato dalle ultime due cifre di $N$, anche nell'ordine in cui appaiono in $N$. Ad esempio, $1233$ è biquadrato da $1233 = 12^2 + 33^2$. Trova un altro numero quadrato.
-> 
-> Nota: ricordate che un numero a quattro cifre non può iniziare con lo zero.
+> Diciamo che un numero di quattro cifre $N$ è $\textit{biquadrado}$ quando è uguale alla somma dei quadrati dei due numeri formati dalle sue due metà: uno dalle prime due cifre di $N$, nell'ordine, e l'altro dalle ultime due cifre di $N$, anch'esse nell'ordine in cui compaiono in $N$. Per esempio $1233$ è biquadrato, poiché $1233 = 12^2 + 33^2$. Trovare un altro numero biquadrato.
+>
+> Osservazione: un numero di quattro cifre non può cominciare con zero.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_obm_2003_n2_f2#q06|src_obm_2003_n2_f2__Q06]]

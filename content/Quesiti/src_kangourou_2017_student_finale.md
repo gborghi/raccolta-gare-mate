@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Invariant final figure subtracting the reversed number*
+*Final digit invariant by subtracting the reversed number*
 
-> Write a positive integer of two distinct digits, write the number you get by inverting the digits (this second number can possibly be of a single digit, if the units digit of the first is $0$) and subtract the smallest from the largest of these two numbers. Repeat the procedure on the result you get until you get a single-digit number as a result. Does this one-digit number depend on the number you chose initially? Justify your answer.
+> Write a positive two-digit integer whose digits are different; write the number obtained by reversing the digits (this second number may possibly be a single-digit number if the units digit of the first number is $0$), and subtract the smaller of these two numbers from the larger one. Repeat the procedure on the result you obtain until you get a single-digit number as the result. Does this single-digit number depend on the number you chose initially? Justify your answer.
 
-**Answer:** 9
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_student_finale#qs1|src_kangourou_2017_student_finale__QS1]]
 
 
 
@@ -58,11 +63,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequences consecutive with a sum of digits divisible by 7*
+*Consecutive sequences with a digit sum divisible by 7*
 
-> Are there sequences of (at least two) consecutive positive integers such that the sum of the digits of each number in the sequence is divisible by $7$? If yes, how many numbers can there be at most in one of these sequences?
+> Are there sequences of (at least two) consecutive positive integers such that the sum of the digits of each number in the sequence is divisible by $7$? If so, what is the maximum number of numbers that such a sequence can contain?
 
-**Answer:** at most two
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_student_finale#qs2|src_kangourou_2017_student_finale__QS2]]
 
 
 
@@ -87,11 +97,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pair diameter and minimum circle of a set*
+*Diametral pair and minimum circle of a set*
 
-> Whether $S$ is an arbitrary finite set of points in the plane (at least $2$): it is known that there exists, and is unique, the circle $C$ of minimum radius containing $S$ (the proof of this fact is outside the context of this competition, so it is not required). A $\{a, b\}$ pair of $S$ points is said to be **diametrical** if, however, two $S$ points are chosen, their distance does not exceed the distance between $a$ and $b$. Establish whether it is true (by reasoning the answer) that: - each diametrical pair of $S$ must necessarily be on the circumference that delimits $C$; - there are always circles containing $S$, but not $C$.
+> Let $S$ be an arbitrary finite set of points in the plane (with at least $2$ points): it is known that there exists, and it is unique, the circle $C$ of minimal radius that contains $S$ (the proof of this fact lies outside the scope of this competition, so it is not required). A pair $\{a, b\}$ of points of $S$ is called **diametral** if, whatever two points of $S$ are chosen, their distance does not exceed the distance between $a$ and $b$. Determine whether the following is true (giving reasons for the answer):
+> - Every diametral pair of $S$ must necessarily lie on the circumference that bounds $C$;
+> - There are always circles that contain $S$ but do not contain $C$.
 
-**Answer:** No; Yes
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_insiemi_funzioni|Sets and functions]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_student_finale#qs3|src_kangourou_2017_student_finale__QS3]]
 
 
 
@@ -115,11 +131,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubes inscribed in a regular dodecahedron*
+*Cubes inscribable in a regular dodecahedron*
 
-> How many different cubes can be inscribed in (i.e. have the vertices in common with the vertices of) a regular dodecahedron?
+> How many different cubes can be inscribed in a regular dodecahedron (that is, have their vertices in common with the vertices of the dodecahedron)?
 
-**Answer:** 5
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_student_finale#qs4|src_kangourou_2017_student_finale__QS4]]
 
 
 
@@ -145,13 +166,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum thread to run along the sides of a 9x7 lattice*
+*Minimum path length for traversing the sides of a 9x7 grid*
 
 ![[src_kangourou_2017_student_finale__probs5.png]]
 
-> A rectangle $9 \times 7$ is divided into $63$ squares of side $1$, obtaining a lattice. Imagine planting a pin in each of the vertices of the squares (one pin in each vertex common to several squares) and wanting to pass a thread by stretching it between one pin and the other, so as to cover at least once all and only the sides of the squares (so not the diagonals), without breaking the thread. What is the minimum length of thread sufficient? (Ignore the fact that it is necessary to turn around some pins, i.e. assume that the pins are $0$ thick).
+> A rectangle $9 \times 7$ is divided into $63$ squares of side $1$, forming a grid. Imagine inserting a pin at each of the vertices of the squares (only one pin at each vertex shared by multiple squares) and wanting to thread a string tautly from one pin to another so as to traverse, at least once, all and only the sides of the squares (hence not the diagonals), without breaking the string. What is the minimum length sufficient for the string? (Ignore the fact that one must go around some pins; that is, assume the thickness of the pins is $0$.)
 
-**Answer:** 155
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_student_finale#qs5|src_kangourou_2017_student_finale__QS5]]
 
 
 
@@ -174,8 +200,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Function that sends each interval over all [0,1]*
+*A function that maps every interval onto the whole interval [0,1]*
 
-> Is there a $f$ function from the interval $[0,1]$ into itself such that the image through $f$ of each interval contained in $[0,1]$ is all $[0,1]$? If your answer is no, explain why, if yes, indicate how an example can be obtained.
+> Does there exist a function $f$ from the interval $[0,1]$ to itself such that the image under $f$ of every interval contained in $[0,1]$ is the whole of $[0,1]$? If your answer is no, explain why; if it is yes, indicate how an example of such a function can be obtained.
 
-**Answer:** Yes
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_funzionali|Functional equations / sequences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_student_finale#qs6|src_kangourou_2017_student_finale__QS6]]

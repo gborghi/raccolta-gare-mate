@@ -30,9 +30,17 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Limita della media di n(k) su R^{1/2} in quanto R tende all'infinito*
+*Limite della media di n(k) su R^{1/2} quando R tende all'infinito*
 
-> Per $R > 0$ un numero intero, $n(R)$ indica il numero di triples $(x, y, z) \in \mathbb{Z}^3$ tale che $2x^2 + 3y^2 + 5z^2 = R$. Trova il valore di $$\lim_{R \to +\infty} \frac{n(1) + n(2) + \cdots + n(R)}{R^{1/2}}.$$
+> Sia $R > 0$ un numero intero; indichiamo con $n(R)$ il numero di triple $(x, y, z) \in \mathbb{Z}^3$ tali che $2x^2 + 3y^2 + 5z^2 = R$. Determinare il valore di
+> $$\lim_{R \to +\infty} \frac{n(1) + n(2) + \cdots + n(R)}{R^{1/2}}.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2020_nu_fx#q01|src_obm_2020_nu_fx__Q01]]
 
 
 
@@ -55,9 +63,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistono infiniti interi positivi non di Fibonacci*
+*Esistono infiniti interi positivi non Fibonacci*
 
-> Per $a$ un intero positivo, definire $F_1^{(a)} = 1$, $F_2^{(a)} = a$, e per $n > 2$, $F_n^{(a)} = F_{n-1}^{(a)} + F_{n-2}^{(a)}$. Un intero positivo è chiamato *fibonatico* se equivale a $F_n^{(a)}$ per un intero positivo $a$ e per un certo $n > 3$. Prove che esistono infinitamente molti interi positivi che non sono fibonatici.
+> Sia $a$ un intero positivo; si definiscano $F_1^{(a)} = 1$, $F_2^{(a)} = a$ e, per $n > 2$, $F_n^{(a)} = F_{n-1}^{(a)} + F_{n-2}^{(a)}$. Un intero positivo si dice *fibonatico* se è uguale a $F_n^{(a)}$ per qualche intero positivo $a$ e per qualche $n > 3$. Dimostrare che esistono infiniti interi positivi che non sono fibonatici.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2020_nu_fx#q02|src_obm_2020_nu_fx__Q02]]
 
 
 
@@ -82,9 +97,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare matrici 5x5 su F_{13} soddisfacente A^5 = I*
+*Conta le matrici 5x5 su F_{13} tali che A^5 = I*
 
-> $\mathbb{F}_{13} = \{\bar{0}, \bar{1}, \ldots, \overline{12}\}$ sia il campo finito con 13 elementi (con modulo di somma e moltiplicazione 13). Determinare il numero di matrici $5 \times 5$ $A$ con voci in $\mathbb{F}_{13}$ in modo tale che $$A^5 = I,$$ in cui $I$ denota la matrice di identità $5 \times 5$.
+> Sia $\mathbb{F}_{13} = \{\bar{0}, \bar{1}, \ldots, \overline{12}\}$ il campo finito con 13 elementi (con addizione e moltiplicazione modulo 13). Determinare il numero di matrici $A$ di tipo $5 \times 5$ a coefficienti in $\mathbb{F}_{13}$ tali che
+> $$A^5 = I,$$
+> dove $I$ denota la matrice identità $5 \times 5$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2020_nu_fx#q03|src_obm_2020_nu_fx__Q03]]
 
 
 
@@ -111,13 +135,20 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove/disprove ogni vera matrice 2x2 e 3x3 è la somma di due quadrati*
+*Dimostra o confuta che ogni matrice reale 2x2 e 3x3 è somma di due quadrati*
 
-> Per ciascun elemento, dimostrare o fornire un controesempio.
-> 
-> (a) (5 punti) Ogni matrice $2 \times 2$ reale può essere scritta come la somma dei quadrati di due matrici $2 \times 2$ reali.
-> 
-> b) (5 punti) Ogni matrice $3 \times 3$ reale può essere scritta come la somma dei quadrati di due matrici $3 \times 3$ reali.
+> Per ogni elemento, fornisci una dimostrazione o un controesempio.
+>
+> (a) (5 punti) Ogni matrice reale $2 \times 2$ può essere scritta come la somma dei quadrati di due matrici reali $2 \times 2$.
+>
+> (b) (5 punti) Ogni matrice reale $3 \times 3$ può essere scritta come la somma dei quadrati di due matrici reali $3 \times 3$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2020_nu_fx#q04|src_obm_2020_nu_fx__Q04]]
 
 
 
@@ -140,9 +171,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco sulla nave spaziale: mostra 2n persone possono essere suddivise in n coppie amichevoli
+*Partita sulla nave spaziale: mostra che 2n persone possono essere suddivise in n coppie amichevoli*
 
-> $n$ sia un numero intero positivo. Su una nave spaziale ci sono $2n$ persone, e qualsiasi due di loro sono amici o nemici (la relazione è simmetrica). Due alieni giocano il seguente gioco: alternativamente, ogni giocatore sceglie una persona per turno, in modo che la persona scelta ogni turno è un amico della persona scelta sulla volta immediatamente precedente (nel primo turno, il primo giocatore può scegliere chiunque). Chi non può giocare perde (una persona può essere scelto solo una volta). Prove che il secondo giocatore ha una strategia vincente se e solo se le persone $2n$ possono essere suddivise in coppie $n$ in modo tale che entrambi i membri di ciascuna coppia siano amici.
+> Sia $n$ un numero intero positivo. Su una nave spaziale ci sono $2n$ persone, e ogni coppia di esse è o amica o nemica (la relazione è simmetrica). Due alieni giocano al seguente gioco: a turni alterni, ciascun giocatore sceglie una persona per turno, in modo che la persona scelta in ogni turno sia amica della persona scelta nel turno immediatamente precedente (nel primo turno, il primo giocatore può scegliere chiunque). Perde chi non può muovere (una persona può essere scelta una sola volta). Dimostrare che il secondo giocatore ha una strategia vincente se e solo se le $2n$ persone possono essere suddivise in $n$ coppie tali che entrambi i membri di ciascuna coppia siano amici.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_invarianti|Invarianti]], [[method_bigezione|Biiezione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2020_nu_fx#q05|src_obm_2020_nu_fx__Q05]]
 
 
 
@@ -169,10 +207,17 @@ Gioco sulla nave spaziale: mostra 2n persone possono essere suddivise in n coppi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le soluzioni reali di f iterato per f(x)=2x^2+x-1*
+*Conta le soluzioni reali di f iterata per f(x)=2x^2+x-1*
 
-> Per tutti i $x$ reali $f(x) = 2x^2 + x - 1$, $f^1(x) = x$ e $f^{n+1}(x) = f(f^n(x))$ e per tutti i $n \geq 0$ (cioè $f^n$ è la $n$-th iterazione di $f$).
-> 
-> (a) (2 punti) Determinare il numero di soluzioni reali distinte dell'equazione $f^2(x) = x$.
-> 
-> b) (8 punti) Determinare, per ogni numero intero $n \geq 0$, il numero di soluzioni reali distinte dell'equazione $f^n(x) = 0$.
+> Siano $f(x) = 2x^2 + x - 1$, $f^1(x) = x$ e $f^{n+1}(x) = f(f^n(x))$ per tutti i $x$ reali e per tutti gli $n \geq 0$ (cioè, $f^n$ è la $n$-esima iterata di $f$).
+>
+> (a) (2 punti) Determina il numero di soluzioni reali distinte dell'equazione $f^2(x) = x$.
+>
+> (b) (8 punti) Determina, per ogni numero intero $n \geq 0$, il numero di soluzioni reali distinte dell'equazione $f^n(x) = 0$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2020_nu_fx#q06|src_obm_2020_nu_fx__Q06]]

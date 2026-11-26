@@ -32,13 +32,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area del triangolo OAB data la nidificazione dei triangoli a destra, area dell'OCD è di 12*
+*Area del triangolo OAB dati i triangoli rettangoli isosceli annidati, l'area di OCD è 12*
 
-> Nella figura seguente, i triangoli $OAB$, $OBC$, $OCD$ sono triangoli a piega retta con angolazioni rette rispettivamente $\angle OAB$, $\angle OBC$ e $\angle OCD$. Quando l'area del triangolo $OCD$ è $12$, trovare l'area del triangolo $OAB$.
+> Nella figura sottostante, i triangoli $OAB$, $OBC$, $OCD$ sono triangoli rettangoli isosceli con angoli retti rispettivamente in $\angle OAB$, $\angle OBC$, $\angle OCD$. Quando l'area del triangolo $OCD$ è $12$, determina l'area del triangolo $OAB$.
 
 ![[src_jjmo7yq_yosen__q01.png]]
 
-**Risposta:** 3
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo7yq_yosen#q01|src_jjmo7yq_yosen__Q01]]
 
 
 
@@ -63,11 +68,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i percorsi di lunghezza minima A a B lungo diagonali in una griglia 3×5*
+*Conta i cammini di lunghezza minima da A a B lungo le diagonali in una griglia 3×5*
 
-> C'è una griglia di righe $3$ e colonne $5$ di quadrati unitari (15 quadrati in totale). $A$ sia il vertice superiore a destra e $B$ sia il vertice inferiore a sinistra. In ogni quadrato, una diagonale viene tracciata dal vertice superiore a destra al vertice inferiore a sinistra (come mostrato nella figura). Tra tutti i percorsi da $A$ a $B$ che viaggiano solo lungo queste diagonali e lungo i lati dei quadrati, si trova il numero di percorsi la cui lunghezza totale è minima.
+> C'è una griglia composta da $3$ righe e $5$ colonne di quadrati unitari (15 quadrati in totale). Sia $A$ il vertice in alto a destra e $B$ il vertice in basso a sinistra. In ogni quadrato, si traccia una diagonale dal vertice in alto a destra al vertice in basso a sinistra (come mostrato nella figura). Tra tutti i percorsi da $A$ a $B$ che si muovono solo lungo queste diagonali e lungo i lati dei quadrati, determinare il numero di percorsi la cui lunghezza totale è minima.
 
 ![[src_jjmo7yq_yosen__q02.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo7yq_yosen#q02|src_jjmo7yq_yosen__Q02]]
 
 
 
@@ -92,11 +104,17 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Parte integrale (piano) di una frazione specifica con numeratore e denominatore di modello digitali*
+*Parte intera (floor) di una frazione specifica con numeratore e denominatore aventi un pattern di cifre*
 
-> Trovare la parte integrale (cioè arrotondata verso il basso al numero intero più vicino) della seguente espressione: $$\frac{9 + 98 + 987 + 9876 + 98765 + 987654 + 9876543 + 98765432}{12345678 + 1234567 + 123456 + 12345 + 1234 + 123 + 12 + 1}.$$
+> Trovare la parte intera (ossia arrotonda per difetto all'intero più vicino) dell'espressione seguente:
+> $$\frac{9 + 98 + 987 + 9876 + 98765 + 987654 + 9876543 + 98765432}{12345678 + 1234567 + 123456 + 12345 + 1234 + 123 + 12 + 1}.$$
 
-**Risposta:** 8
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo7yq_yosen#q03|src_jjmo7yq_yosen__Q03]]
 
 
 
@@ -120,11 +138,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le cifre di unità dei prodotti di due numeri a 3 cifre che terminano entrambi in 9*
+*Trovare tutte le cifre delle unità dei prodotti di due numeri di tre cifre, entrambi terminanti con 9*
 
-> Ci sono due integri positivi $3$-cifre, entrambi finiti nella cifra $9$. Trova tutti i valori possibili della cifra unità del prodotto di questi due numeri.
+> Ci sono due numeri interi positivi di $3$ cifre, entrambi terminanti con la cifra $9$. Determinare tutti i possibili valori della cifra delle unità del prodotto di questi due numeri.
 
-**Risposta:** 1
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo7yq_yosen#q04|src_jjmo7yq_yosen__Q04]]
 
 
 
@@ -147,9 +170,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area massima di un pentagono converso con tutti i lati 1 e due diagonali perpendicolari*
+*Area massima di un pentagono convesso con tutti i lati uguali a 1 e due diagonali perpendicolari*
 
-> Un pentagono converso ha tutti i lati di lunghezza $1$, e esistono due diagonali del pentagono che sono perpendicolari l'uno all'altro (formando un angolo $90^\circ$). Trova la superficie massima possibile di un tale pentagono. (Un pentagono converso è quello in cui tutti gli angoli interni sono inferiori a $180^\circ$.)
+> Un pentagono convesso ha tutti i lati di lunghezza $1$, e esistono due diagonali del pentagono perpendicolari tra loro (formanti un angolo di $90^\circ$). Determinare l'area massima possibile di un tale pentagono. (Un pentagono convesso è un pentagono in cui tutti gli angoli interni sono minori di $180^\circ$.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo7yq_yosen#q05|src_jjmo7yq_yosen__Q05]]
 
 
 
@@ -172,9 +202,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N più piccolo in modo che 14n, 16n, 18n, 20n abbiano tutti uguali numeri di divisori positivi*
+*Il più piccolo n positivo per cui 14n, 16n, 18n e 20n hanno lo stesso numero di divisori*
 
-> Trova il più piccolo intero positivo $n$ in modo che $14n$, $16n$, $18n$ e $20n$ abbiano tutti lo stesso numero di divisori positivi.
+> Trovare il più piccolo intero positivo $n$ tale che $14n$, $16n$, $18n$ e $20n$ abbiano tutti lo stesso numero di divisori positivi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_jjmo7yq_yosen#q06|src_jjmo7yq_yosen__Q06]]
 
 
 
@@ -199,11 +236,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Line di conteggio attraverso ≥2 vertici di un'arrangimento di 2×2×2 di cubetti unitari*
+*Conta le rette che passano per almeno 2 vertici di una disposizione 2×2×2 di cubi unitari*
 
-> Esistono cubetti unitari $8$ (ciascuno con lunghezza laterale $1$). Questi sono impilati insieme come mostrato nella figura per formare un cubo più grande $2 \times 2 \times 2$ di lunghezza laterale $2$. Quante linee nello spazio attraversano almeno $2$ vertici dei cubetti unitari originali (vertici dei piccoli cubetti)?
+> Ci sono $8$ cubi unitari (ciascuno con lato di lunghezza $1$). Questi vengono impilati insieme come mostrato nella figura per formare un cubo più grande $2 \times 2 \times 2$ con lato di lunghezza $2$. Quante rette nello spazio passano per almeno $2$ vertici dei cubi unitari originali (vertici dei cubi piccoli)?
 
 ![[src_jjmo7yq_yosen__q07.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo7yq_yosen#q07|src_jjmo7yq_yosen__Q07]]
 
 
 
@@ -226,9 +270,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le ultime 3 cifre del prodotto di tutti i numeri odd da 1 a 100*
+*Ultime 3 cifre del prodotto di tutti i numeri dispari da 1 a 100*
 
-> Trova le ultime cifre $3$ del prodotto di tutti i numeri dispari da $1$ a $100$ (inclusi), vale a dire trova $1 \times 3 \times 5 \times \cdots \times 99 \pmod{1000}$.
+> Trovare le ultime $3$ cifre del prodotto di tutti i numeri dispari da $1$ a $100$ (inclusi), cioè trova $1 \times 3 \times 5 \times \cdots \times 99 \pmod{1000}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo7yq_yosen#q08|src_jjmo7yq_yosen__Q08]]
 
 
 
@@ -251,9 +302,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Volume di tetraedro O-ABC con determinate distanze e angoli uguali dal punto interno X*
+*Volume del tetraedro O-ABC con distanze date e angoli uguali da un punto interno X*
 
-> Nel tetraedro $O$-$ABC$, $X$ deve essere un punto nella faccia di base $ABC$ tale che $OA = 2$, $OB = 3$, $OC = 4$, $\angle AOB = \angle BOC = \angle COA$ e $\angle AOX = \angle BOX = \angle COX = 30^\circ$. Trova il volume del tetraedro $O$- $ABC$. (Qui $PQ$ indica la lunghezza del segmento $PQ$.)
+> Nel tetraedro $O$-$ABC$, sia $X$ un punto sulla faccia di base $ABC$ tale che $OA = 2$, $OB = 3$, $OC = 4$, $\angle AOB = \angle BOC = \angle COA$ e $\angle AOX = \angle BOX = \angle COX = 30^\circ$. Determinare il volume del tetraedro $O$-$ABC$. (Qui $PQ$ indica la lunghezza del segmento $PQ$.)
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo7yq_yosen#q09|src_jjmo7yq_yosen__Q09]]
 
 
 
@@ -278,9 +336,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il valore del prodotto nel 2009 data tre equazioni con variabili reali spostate*
+*Trovare il valore del prodotto nel 2009 dati tre equazioni con variabili reali spostate*
 
-> Numeri reali $a, b, c, d, e, f$ soddisfano: $$\begin{cases}(a+1999)(b-1999)(c+1999)(d-1999)(e+1999)(f-1999) = 1,\\ (a+2000)(b-2000)(c+2000)(d-2000)(e+2000)(f-2000) = 10,\\ (a+2001)(b-2001)(c+2001)(d-2001)(e+2001)(f-2001) = 100.\end{cases}$$ Trova il valore di $(a+2009)(b-2009)(c+2009)(d-2009)(e+2009)(f-2009)$.
+> I numeri reali $a, b, c, d, e, f$ soddisfano:
+> $$\begin{cases}(a+1999)(b-1999)(c+1999)(d-1999)(e+1999)(f-1999) = 1,\\ (a+2000)(b-2000)(c+2000)(d-2000)(e+2000)(f-2000) = 10,\\ (a+2001)(b-2001)(c+2001)(d-2001)(e+2001)(f-2001) = 100.\end{cases}$$
+> Trova il valore di $(a+2009)(b-2009)(c+2009)(d-2009)(e+2009)(f-2009)$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo7yq_yosen#q10|src_jjmo7yq_yosen__Q10]]
 
 
 
@@ -303,9 +370,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggiamo le selezioni di palle etichettate 19 che soddisfano la condizione di differenziazione fra caselle*
+*Conta le selezioni di palline etichettate da 1 a 9 che soddisfano una condizione di differenza tra caselle*
 
-> Ci sono sfere $9$, etichettate con i numeri interi $1$ fino a $9$ (un intero per sfera). Scegli un po' di queste palle. La regola è: inserire le palle scelte in una scatola rossa e le palle rimanenti in una scatola blu, in modo che per due palle nella stessa scatola la differenza assoluta delle etichette sia almeno $3$. Trova il numero di modi per scegliere le palle che soddisfano questa condizione. (La scelta di nessuna palla conta come modo $1$.)
+> Ci sono $9$ sfere, etichettate con gli interi da $1$ a $9$ (un intero per sfera). Scegli alcune di queste sfere. La regola è: metti le sfere scelte in una scatola rossa e le sfere rimanenti in una scatola blu, in modo che, per qualsiasi coppia di sfere nella stessa scatola, la differenza assoluta dei loro numeri di etichetta sia almeno $3$. Determinare il numero di modi per scegliere le sfere in modo da soddisfare questa condizione. (Scegliere nessuna sfera conta come $1$ modo.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo7yq_yosen#q11|src_jjmo7yq_yosen__Q11]]
 
 
 
@@ -328,6 +402,13 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare gli integri positivi ≤2009 espressi come a^2009 + b^2009 per gli integri a, b*
+*Conta gli interi positivi ≤2009 esprimibili come a^2009 + b^2009, con a, b interi*
 
-> Utilizzando gli integri $a$ e $b$, considera tutti gli integri positivi che possono essere espressi nella forma $a^{2009} + b^{2009}$. Tra questi, trovare il numero di tali integri positivi che sono al massimo $2009$.
+> Utilizzando gli interi $a$ e $b$, si considerino tutti gli interi positivi che possono essere espressi nella forma $a^{2009} + b^{2009}$. Tra questi, si determini il numero di tali interi positivi che sono al più $2009$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo7yq_yosen#q12|src_jjmo7yq_yosen__Q12]]

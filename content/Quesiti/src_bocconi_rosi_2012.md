@@ -32,13 +32,18 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Order of arrival for the rural race*
+*Cross-country race finishing order*
 
-> Carla, Milena, Anna, Fausta, and Debora took part in their class' country race. Carla and Anna didn't win. Milena came in the top two, and Anna came in the top two. Carla got here right before Deborah.
-> 
-> Write down the arrival order of the country race.
+> Carla, Milena, Anna, Fausta, and Debora took part in their class's cross-country race. Carla and Anna did not win. Milena finished among the last two, whereas Anna finished among the first two. Carla finished immediately before Debora.
+>
+> **Write the finishing order of the cross-country race.**
 
-**Answer:** Fausta, Anna, Carla, Debora, Milena
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2012#q01|src_bocconi_rosi_2012__Q01]]
 
 
 
@@ -62,11 +67,16 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equal number greater than 1000 with properties on the half*
+*Even number greater than 1000 with the property of being half*
 
-> Find **an equal number ** (greater than 1,000) that satisfies this property: subtracting 1,000 from it, you get the integer immediately before its half.
+> Find **an even number** (greater than 1,000) that satisfies this property: if you subtract 1,000 from it, you get the integer that immediately precedes half of it.
 
-**Answer:** 1998
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2012#q02|src_bocconi_rosi_2012__Q02]]
 
 
 
@@ -90,11 +100,16 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unusual number greater than 1000 with properties on the half*
+*Odd number greater than 1000 with the property of the half*
 
-> Find **a odd number ** (greater than 1,000) that satisfies this property: subtracting 1,000 from it, you get the integer immediately before its half.
+> Find **an odd number** (greater than 1,000) that satisfies this property: if you subtract 1,000 from it, you get the integer that immediately precedes its half.
 
-**Answer:** 1999
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2012#q03|src_bocconi_rosi_2012__Q03]]
 
 
 
@@ -119,13 +134,17 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hour of departure from home given average bicycle speed*
+*Departure time from home given average cycling speed*
 
-> Chiara and Marco made an appointment for a snack at a bar 48 km from their home (you can see that the nearest one wasn't there...). Marco left at 8:00 a.m. and, on his bicycle, kept an average speed of 18 km/h. Clara went to the appointment by car, with an average speed of 72 km/h. The good thing is that Chiara and Marco arrived at the appointment simultaneously.
-> 
-> What time did Chiara leave home?
+> Chiara and Marco arranged to meet for a snack at a bar 48 km from their home (apparently there wasn't a closer one…). Marco set off at 8:00 a.m. and, on his bicycle, maintained an average speed of 18 km/h. Chiara went to the meeting by car, at an average speed of 72 km/h. The best part is that Chiara and Marco arrived at the meeting at the same time.
+>
+> What time had Chiara left home?
 
-**Answer:** 10.00
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2012#q04|src_bocconi_rosi_2012__Q04]]
 
 
 
@@ -152,13 +171,18 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Finding a palindrome date from 2012*
+*Find a palindromic date in 2012*
 
-> A number is called a palindrome when it is read the same way from left to right. For example, palindrome is number 353. The date of 21 February 2012 is a palindrome because it is written as 21.02.2012 (and reading it from the left, or from the right, expresses the same day).
-> 
-> Can you find another palindrome date?
+> A number is called a palindrome when it reads the same from left to right and from right to left. For example, the number 353 is a palindrome. The date 21 February 2012 is a palindromic date because it is written as 21.02.2012 (and whether read from left to right or from right to left, it denotes the same day).
+>
+> Could you find another palindromic date?
 
-**Answer:** One example: 30-12-2103. Many other palindromic dates can be written
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2012#q05|src_bocconi_rosi_2012__Q05]]
 
 
 
@@ -183,13 +207,17 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Next year after 2002*
+*The next palindromic year after 2002*
 
-> 2002 was a palindrome year (one could read it indifferently from left to right and vice versa).
-> 
-> What will be next year's palindrome?
+> 2002 was a palindromic year (it could be read equally well from left to right and from right to left).
+>
+> **What will be the next palindromic year?**
 
-**Answer:** 2112
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2012#q06|src_bocconi_rosi_2012__Q06]]
 
 
 
@@ -213,11 +241,16 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum shoe extraction to have a pair of the same color*
+*Minimum number of shoes to remove to get a pair of the same color*
 
-> In my closet there are seven pairs of black shoes, five white shoes and two red shoes. If I take my shoes out of the closet without looking, how many shoes do I have to take at least to make sure I have a pair (a left shoe and a right shoe) of the same color?
+> In my locker, there are seven pairs of black shoes, five pairs of white shoes, and two pairs of red shoes. If I take the shoes out of the locker without looking, what is the minimum number of shoes I have to take to be sure that I get one pair (one left shoe and one right shoe) of the same color?
 
-**Answer:** 15
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2012#q07|src_bocconi_rosi_2012__Q07]]
 
 
 
@@ -242,13 +275,17 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-Euro in Luke's pocket before he went into the bakery
+*The euro in Luca's pocket before entering the pastry shop*
 
-> Before Easter, Luke went to the bakery to make a little supply of chocolate eggs and pigeons. He spent a tenth of what he had and came home with 369 euros.
-> 
-> How many euros did Luca have in his pocket before he went into the bakery?
+> Before Easter, Luca went to the patisserie to stock up a little on chocolate eggs and Easter doves. He spent one tenth of the amount he had and came home with 369 euros.
+>
+> How many euros did Luca have in his pocket before entering the patisserie?
 
-**Answer:** $410$€
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2012#q08|src_bocconi_rosi_2012__Q08]]
 
 
 
@@ -274,13 +311,18 @@ Euro in Luke's pocket before he went into the bakery
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smaller vessel with only mint candy*
+*Smaller jar containing only mint candies*
 
-> Before Milena, she went to the bakery before Easter and bought a bunch of licorice, mint and tamarind candy. Actually, it's more delicious than liquorice candy, so she bought more liquorice candy than mint. When she came home, she put the largest type of candy in the larger vessel, the medium-sized in the medium-sized vessel, and the smaller ones in the smaller vessel.
-> 
-> Knowing that mint candies aren't in the smallest pot, where are tamarind?
+> Before Easter, Milena went to the pastry shop and bought quite a lot of licorice, mint, and tamarind candies. In fact, she's a big fan of the licorice ones, so she bought more licorice candies than mint candies. When she got home, she put the candies of the most numerous type in the largest jar, those of medium quantity in the medium-sized jar, and the fewest candies in the smallest jar.
+>
+> Knowing that the mint candies aren't in the smallest jar, where are the tamarind candies?
 
-**Answer:** Smaller vessel
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2012#q09|src_bocconi_rosi_2012__Q09]]
 
 
 
@@ -306,13 +348,18 @@ Euro in Luke's pocket before he went into the bakery
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Count the rectangles in Figure*
+*Count the rectangles in the figure*
 
-> **How many rectangles can you see in the figure? **
+> How many rectangles can you see in the figure?
 
 ![[src_bocconi_rosi_2012__q10.png]]
 
-**Answer:** 18 rectangles
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_rosi_2012#q10|src_bocconi_rosi_2012__Q10]]
 
 
 
@@ -338,13 +385,18 @@ Euro in Luke's pocket before he went into the bakery
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting the triangles in Figure*
+*Count the triangles in the figure*
 
-> **How many triangles can you see in the figure? **
+> How many triangles can you see in the figure?
 
 ![[src_bocconi_rosi_2012__q11.png]]
 
-**Answer:** 7 triangles
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_rosi_2012#q11|src_bocconi_rosi_2012__Q11]]
 
 
 
@@ -370,13 +422,18 @@ Euro in Luke's pocket before he went into the bakery
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Friendly family number pairs with difference of 45*
+*Pairs of numbers relating to friendly families, with a difference of 45*
 
-> In the street where I live there are 99 villas, numbered from 1 to 99: the even numbers are on one side of the street, the odd ones on the other. Two families are "friends" when they live in houses identified by two numbers (each of two digits) that use the same numbers but in reverse order and such that the difference between the largest and the smallest number is equal to 45.
-> 
-> Can you give an example of two numbers related to two "friendly" families?
+> On the street where I live, there are 99 detached houses, numbered from 1 to 99: the even numbers are on one side of the street, and the odd numbers on the other. Two families are "friends" when they live in houses identified by two numbers (each a two-digit number) that use the same digits but in reverse order and such that the difference between the larger number and the smaller number is equal to 45.
+>
+> **Can you give an example of two numbers corresponding to two "friendly" families?**
 
-**Answer:** 16-61, 27-72, 38-83, 49-94
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2012#q12|src_bocconi_rosi_2012__Q12]]
 
 
 
@@ -402,13 +459,18 @@ Euro in Luke's pocket before he went into the bakery
 <div class="qlang-split" data-lang="en"></div>
 
 
-*An increased number of 1000 adding 0 to the digits*
+*A number increased by 1000 that adds 0 to the digits*
 
-> If you add the sum of its digits to the number 2000, you find 2002: in fact, it is $2000 + 2 + 0 + 0 + 0 = 2002$.
-> 
-> What will be the next number that, increased by the sum of its digits, is 2002?
+> If you add the sum of the digits of 2000 to 2000, you get 2002: indeed, the result is $2000 + 2 + 0 + 0 + 0 = 2002$.
+>
+> **What will be the next number that, when increased by the sum of its digits, equals 2002?**
 
-**Answer:** $1982 + 1 + 9 + 8 + 2 = 2002$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2012#q13|src_bocconi_rosi_2012__Q13]]
 
 
 
@@ -434,13 +496,18 @@ Euro in Luke's pocket before he went into the bakery
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum keys to obtain 2000 with malfunctioning calculator*
+*Minimum number of keystrokes to get 2000 with a broken calculator*
 
-> Jacopo found an old calculator in the attic, a little malfunctioning. Only the "1" button, the "+" button and the "=" button work.
-> 
-> **How many keys, at least, does poor Jacopo have to beat to get 2000? **
+> Jacopo found an old calculator in the attic—a bit battered. Only the "1" key, the "+" key, and the "=" key work.
+>
+> How many keys, at minimum, must poor Jacopo press to get 2000 as the result?
 
-**Answer:** 39
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2012#q14|src_bocconi_rosi_2012__Q14]]
 
 
 
@@ -466,13 +533,18 @@ Euro in Luke's pocket before he went into the bakery
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Find a trunk-divisible two digit number other than 24*
+*Find a two-digit truncated-divisible number different from 24*
 
-> If, for example, the number 24 and you delete the unit number, you get 2 that divides the starting number 24. Numbers of this type (which, once the unit number is deleted, divide the initial number) are called "trunk-divisible".
-> 
-> **Can you give another example (more than 24) of a two-digit number that is "trunk-divisible"?**
+> If, for example, you take the number 24 and delete the units digit, you get 2, which divides the starting number 24. Numbers of this type (which, once the units digit has been deleted, divide the initial number) are called "truncation-divisible" numbers.
+>
+> **Can you give another example (besides 24) of a two-digit number that is "truncation-divisible"?**
 
-**Answer:** See all the solutions in problem 16
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2012#q15|src_bocconi_rosi_2012__Q15]]
 
 
 
@@ -499,14 +571,19 @@ Euro in Luke's pocket before he went into the bakery
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Count all the two-digit digits of the trunk-divisible numbers*
+*Count all two-digit truncated-divisible numbers*
 
-> **What are the two-digit "trunk-divisible" numbers? **
-> 
-> (A number is said to be "trunk-divisible" if, after deleting the unit number, the resulting number divides the initial number. For example, 24 is trunk-divisible because $2 \mid 24$.)
+> How many two-digit "truncate-divisible" numbers are there?
+>
+> (A number is called "trunco-divisible" if, after deleting the units digit, the resulting number divides the original number. For example, 24 is trunco-divisible because $2 \mid 24$.)
 >
 
-**Answer:** Sono 32: 10,11,12,13,14,15,16,17,18,19, 20,22,24,26,28, 30,33,36,39, 40,44,48, 50,55, 60,66, 70,77, 80,88, 90,99
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2012#q16|src_bocconi_rosi_2012__Q16]]
 
 
 
@@ -532,13 +609,18 @@ Euro in Luke's pocket before he went into the bakery
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of cakes Carla can make
+*Maximum number of cakes Carla can make*
 
-> To make a cake, Carla needs six eggs, 500 grams. of flour, 300 g. of sugar and 150 g. I'm going to get some butter. Today, she found out that she has two packs of 250g of butter in her kitchen. Two kilos each. of flour, one kilogram. Sugar and two dozen eggs.
-> 
-> How many cakes can Carla make at most?
+> To make one cake, Carla needs 6 eggs, 500 g of flour, 300 g of sugar, and 150 g of butter. Today she realized that in the kitchen she has two packets of butter, each weighing 250 g, two kg of flour, one kg of sugar, and 2 dozen eggs.
+>
+> **What is the maximum number of cakes Carla can make?**
 
-**Answer:** 3
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2012#q17|src_bocconi_rosi_2012__Q17]]
 
 
 
@@ -569,12 +651,17 @@ Maximum number of cakes Carla can make
 *Color 6 non-adjacent triangles in the chocolate star*
 
 > The star you see in the figure represents the base of a cake.
-> 
-> **Can you cover 6 triangles of the star with chocolate (by adding them)?** Attention, however: two triangles that have one side in common cannot both be covered with chocolate.
+>
+> **Could you cover 6 triangles of the star with chocolate (turning them black)?** But beware: two triangles that share a side cannot both be covered with chocolate.
 
 ![[src_bocconi_rosi_2012__q18.png]]
 
-**Answer:** An example solution (see the figure in the solutions)
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_rosi_2012#q18|src_bocconi_rosi_2012__Q18]]
 
 
 
@@ -600,13 +687,18 @@ Maximum number of cakes Carla can make
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of secondary school students in cinema*
+*Number of middle school students at the cinema*
 
-> One hundred students went to the cinema to see the latest mathematical film, earning the owner of the place a cash prize of 200 euros. Each high school student paid 10 euros, each middle school student 2 euros and each elementary school boy 0.50 euros.
-> 
-> How many secondary school students were there, knowing that they were the majority and even more than twice the number of elementary school students?
+> A hundred students went to the cinema to see the latest film with a mathematical theme, generating 200 euros in revenue for the venue owner. Each high school student paid 10 euros, each middle school student paid 2 euros, and each elementary school pupil paid 0.50 euros.
+>
+> **How many were the middle school students, given that they were in the majority and, in fact, more than twice as many as the elementary school pupils?**
 
-**Answer:** 81 (3 high school, 81 middle school, 16 elementary school)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_rosi_2012#q19|src_bocconi_rosi_2012__Q19]]
 
 
 
@@ -632,10 +724,15 @@ Maximum number of cakes Carla can make
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most value of $a^b + c^d$ with $\{a,b,c,d\}=\{1,2,3,4\}$*
+*Maximum value of $a^b + c^d$ with $\{a,b,c,d\}=\{1,2,3,4\}$*
 
-> Consider the sum of $a^b + c^d$ and replace the numbers 1, 2, 3, 4 (not necessarily in this order) with the letters $a$, $b$, $c$, $d$ to get the greatest possible result.
-> 
-> What is this result?
+> Consider the sum $a^b + c^d$ and replace the letters $a$, $b$, $c$, $d$ with the numbers 1, 2, 3, 4 (not necessarily in that order) so as to obtain the largest possible result.
+>
+> **What is this result?**
 
-**Answer:** $2^1 + 3^4 = 83$
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2012#q20|src_bocconi_rosi_2012__Q20]]

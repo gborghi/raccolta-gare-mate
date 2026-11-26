@@ -53,31 +53,37 @@ level: TFJM²
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Completamento di piastrelle per puzzle doministiche su k×n reti*
+*Puzzle di domino per completare griglie k×n*
 
-> Laetitia è un'esperta di giochi a griglia. Per cambiare da Sudoku, crea enigmi.
-> 
-> Si considera una griglia $k \times n$ le cui righe sono numerate da $1$ a $k$ e le cui colonne sono numerate da $1$ a $n$, con $k \ge 2$. Si inseriscono (orizzontalmente o verticalmente) dominosi rettangolari di dimensioni $k \times 1$. I domino non devono sovrapporre e non devono superare le colonne $1$ a $n$. Nella figura 1, il domino arancione rappresenta una posizione valida della griglia, e i domino blu e verdi si sovrappongono.
-> 
-> Il giocatore deve poi provare a completare la griglia, sempre con $k \times 1$ dominò e rispettando le stesse regole.
-> 
-> La figura 2 mostra un esempio di una griglia valida con $k=3$, $n=9$ in cui Laetitia ha posizionato due domino. Questa griglia può essere completata in tre modi diversi; uno di essi è mostrato con linee puntate.
-> 
-> Laetitia decide di lasciare almeno un quadrato libero e di organizzare le cose in modo da poter completare la griglia. Quali sono le posizioni possibili di questo quadrato nella griglia, e quali sono i modi possibili per completare la griglia? In tal caso, per quali valori di $n$ e $k$ può esistere solo una via?
-> 
-> **2.** $k$ e $n$ siano due integri fissi. Qual è il numero minimo di domino che Laetitia deve mettere in modo che il giocatore non possa completare la griglia in almeno due modi diversi?
-> 
-> **3.** $k$ e $n$ siano due integri positivi. Qual è il numero massimo di posizioni che un domino può occupare? Studiare i casi in cui $n$ e $k$ si dividono.
-> 
-> **4.** Da ora la griglia ha dimensioni $n \times n$, e $k \ge 2$ è un divisore di $n$. Rivisitare le domande precedenti in questo caso.
-> 
-> **5.** Laetitia colora le celle della griglia le cui entrambe le coordinate sono multipli di $k$. Lei impone che un'estremità di un domino atterri su una di queste celle colorate, come illustrato dalla Figura 3. Per quali valori di $n$ e $k$ può organizzare le cose in modo che ci sia almeno un modo per completare la griglia? C'e' almeno uno?
-> 
-> Laetitia ora colora le stesse cellule anche sui suoi domino, ma questa volta non richiede che sia l'estremità che copre la cellula colorata. Per quali valori di $n$ e $k$ può organizzare le cose in modo che ci sia almeno un modo per completare la griglia?
-> 
-> **7.** Proporre e studiare altre vie di ricerca.
+> Laetitia è un'esperta di giochi di griglia. Per cambiare dal Sudoku, crea enigmi.
+>
+> Considera una griglia $k \times n$ le cui righe sono numerate da $1$ a $k$ e le cui colonne sono numerate da $1$ a $n$, con $k \ge 2$. Vi posiziona (orizzontalmente o verticalmente) domino rettangolari di dimensione $k \times 1$. I domino non devono sovrapporsi e non devono andare oltre le colonne $1$ a $n$. Nella Figura 1, il domino arancione rappresenta una posizione valida della griglia, e i domino blu e verde si sovrappongono.
+>
+> Poi, il giocatore deve cercare di completare la griglia, sempre con domino $k \times 1$ e rispettando le stesse regole.
+>
+> La Figura 2 mostra un esempio di griglia valida con $k=3$, $n=9$ in cui Laetitia ha posizionato due domino. Questa griglia può essere completata in tre modi diversi; uno di essi è mostrato con linee tratteggiate.
+>
+> **1.** Laetitia decide di lasciare almeno un quadrato $k \times k$ libero e di disporre le cose in modo che sia possibile completare la griglia. Quali sono le possibili posizioni di questo quadrato nella griglia, e quali sono le possibili modalità di completamento della griglia? Se possibile, per quali valori di $n$ e $k$ può esserci un'unica modalità?
+>
+> **2.** Siano $k$ e $n$ due interi fissati. Qual è il numero minimo di domino che Laetitia deve posizionare affinché il giocatore non possa completare la griglia in almeno due modi diversi?
+>
+> **3.** Siano $k$ e $n$ due interi positivi. Qual è il numero massimo di posizioni che un domino può occupare? Studiare i casi in cui $n$ e $k$ si dividono a vicenda.
+>
+> **4.** Da ora in poi la griglia ha dimensione $n \times n$, e $k \ge 2$ è un divisore di $n$. Riprendere le domande precedenti in questo caso.
+>
+> **5.** Laetitia colora le celle della griglia le cui due coordinate sono multipli di $k$. Impone che un'estremità di un domino cada su una di queste celle colorate, come illustrato dalla Figura 3. Per quali valori di $n$ e $k$ può disporre le cose in modo che ci sia almeno un modo per completare la griglia? C'è al massimo un modo?
+>
+> **6.** Laetitia colora ora le stesse celle anche sui suoi domino, ma questa volta non richiede che sia l'estremità a coprire la cella colorata. Per quali valori di $n$ e $k$ può disporre le cose in modo che ci sia almeno un modo per completare la griglia?
+>
+> **7.** Proporre e studiare altri percorsi di ricerca.
 
 ![[src_tfjm_2020__q01.png]]
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_invarianti|Invarianti / monovarianti]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+[[Quesiti/src_tfjm_2020#q01|src_tfjm_2020__Q01]]
 
 
 
@@ -120,27 +126,33 @@ level: TFJM²
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza minima della valigia per confezionare n piastrelle quadrate perfettamente o quasi in rotazione*
+*Lunghezza minima della valigia per impacchettare n piastrelle quadrate perfettamente o quasi-ruotate*
 
-> Pauline vuole mettere le sue cose nella valigia della sua auto prima di partire per le vacanze.
-> 
-> Ha una valigia di lunghezza laterale reale $L$, insieme a piastrelle quadrate $n$ di una determinata altezza e larghezza reale, inizialmente posizionate in modo che l'altezza di ciascuna piastrella sia parallela a una parte della valigia. L'imballaggio **perfetto** della valigia è un'impostazione di un certo numero di piastrelle che non si sovrappongono all'interno della valigia in modo che nessuna piastrella sia stata rotata. L'imballaggio **pro-rotation** è un'impostazione di piastrelle che non si sovrappongono all'interno della valigia in modo che ciascuna piastrella sia stata girata esattamente un quarto di turno e senza altra rotazione. Nella figura 4 sono mostrate tre imballaggi con piastrelle $n = 3$ di dimensioni $1 \times 3$, $2 \times 2$ e $3 \times 1$: un imballaggio perfetto, un imballaggio a rotazione a destra e un imballaggio non valido in cui due piastrelle si sovrappongono e una supera la valigia.
-> 
-> Qual è la lunghezza minima $L$ necessaria per ottenere un imballaggio perfetto con $n$ piastrelle quadrate laterali $1$? Inizieremo studiando i casi $n \le 10$.
-> 
-> Qual è la lunghezza minima $L$ necessaria per ottenere un imballaggio perfetto con piastrelle rettangolari $n$ di dimensioni $1 \times h$ per un $h$ fisso? Inizieremo studiando i casi $n \le 10$.
-> 
-> **3.** La stessa domanda, ma per un imballaggio a rotazione. Inizieremo studiando il caso $h = 2, 3$, poi il caso in cui $h$ è qualsiasi numero intero, e infine il caso in cui $h$ è qualsiasi numero reale.
-> 
-> **4. ** $n$ sia un numero intero. Pauline ha una valigia laterale $L$ e porta piastrelle laterali $n$ $1$. Poi il suo amico Franck sceglie di girare alcune piastrelle. Qual è il più piccolo $L$ tale che esista una scelta di piastrelle per Pauline per le quali Franck può sempre ottenere un imballaggio perfetto? Inizieremo studiando i casi $n \le 6$.
-> 
-> **5.** Qual è la $0 \le x \le 1$ più piccola tale che sia sempre possibile ottenere un imballaggio compatibile con le piastrelle $n$ utilizzando una frazione $x$ del totale delle piastrelle utilizzate per l'imballaggio, e $L$ è la lunghezza della valigia? La stessa domanda per un imballaggio a quasi rotazione.
-> 
-> ** 6. ** Franck dispone di una valigia di dimensioni $1 \times h$ con $h$ fissata. Il suo amico vuole giocare un turno, dopo aver posto un certo numero di piastrelle. Da quale dimensione minima della valigia $L$ può sempre ottenere Franck un imballaggio? Inizieremo studiando i casi $n = 2, 3$, poi il caso $h$ intero e infine il caso generale $h$ reale.
-> 
-> **7.** Proporre e studiare altre vie di ricerca.
+> Pauline vuole impacchettare i suoi effetti personali nel bagagliaio della sua auto prima di partire per le vacanze.
+>
+> Ha una valigia di lato reale $L$, insieme a $n$ piastrelle quadrate ciascuna di una certa altezza e larghezza reale, inizialmente posizionate in modo che l'altezza di ciascuna piastrella sia parallela a un lato della valigia. Un **impacchettamento perfetto** della valigia è un'arrangiamento di un certo numero di piastrelle che non si sovrappongono all'interno della valigia in modo che nessuna piastrella sia stata ruotata. Un **impacchettamento quasi-ruotato** è un'arrangiamento di piastrelle che non si sovrappongono all'interno della valigia in modo che ciascuna piastrella sia stata ruotata di esattamente un quarto di giro e nessuna altra rotazione. Nella Figura 4, tre impacchettamenti con $n = 3$ piastrelle di dimensioni $1 \times 3$, $2 \times 2$ e $3 \times 1$ sono mostrati: un impacchettamento perfetto, un impacchettamento quasi-ruotato a destra e un impacchettamento non valido in cui due piastrelle si sovrappongono e una supera la valigia.
+>
+> **1.** Qual è la lunghezza minima $L$ necessaria per ottenere un impacchettamento perfetto con $n$ piastrelle quadrate di lato $1$? Inizieremo a studiare i casi $n \le 10$.
+>
+> **2.** Qual è la lunghezza minima $L$ necessaria per ottenere un impacchettamento perfetto con $n$ piastrelle rettangolari di dimensioni $1 \times h$ per un $h$ fisso? Inizieremo a studiare i casi $n \le 10$.
+>
+> **3.** Stessa domanda, ma per un impacchettamento quasi-ruotato. Inizieremo a studiare il caso $h = 2, 3$, poi il caso in cui $h$ è un intero qualsiasi, e infine il caso in cui $h$ è un numero reale qualsiasi.
+>
+> **4.** Sia $n$ un intero. Pauline ha una valigia di lato $L$ e prende $n$ piastrelle di lato $1$. Poi il suo amico Franck sceglie di ruotare alcune delle piastrelle. Qual è il più piccolo $L$ tale che esista una scelta di piastrelle per Pauline per cui Franck possa sempre ottenere un impacchettamento perfetto? Inizieremo a studiare i casi $n \le 6$.
+>
+> **5.** Qual è il più piccolo $0 \le x \le 1$ tale che sia sempre possibile ottenere un impacchettamento compatibile con $n$ piastrelle usando una frazione $x$ delle piastrelle totali usate per l'impacchettamento, e $L$ è la lunghezza della valigia? Stessa domanda per un impacchettamento quasi-ruotato.
+>
+> **6.** Franck ha una valigia di dimensioni $1 \times h$ con $h$ fisso. Il suo amico vuole giocare un turno, avendo posizionato un certo numero di piastrelle. Da quale dimensione minima di valigia $L$ può Franck sempre ottenere un impacchettamento? Inizieremo a studiare i casi $n = 2, 3$, poi il caso in cui $h$ è intero, e infine il caso generale in cui $h$ è reale.
+>
+> **7.** Proporre e studiare altri percorsi di ricerca.
 
 ![[src_tfjm_2020__q02.png]]
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_tfjm_2020#q02|src_tfjm_2020__Q02]]
 
 
 
@@ -193,37 +205,43 @@ level: TFJM²
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco strategico di pizza-sharing: massimizzazione del guadagno con le pizze circolari e quadrate*
+*Strategia di condivisione di pizza: massimizzazione del guadagno su pizze circolari e quadrate*
 
-> Lily e Hadrien si incontrano per un banchetto, e entrambi vogliono mangiare il piu' possibile.
-> 
-> Una pizza è tagliata in parti $n$, e ciascuna parte ha un certo peso positivo pari alla quantità di topping su di essa. Indichiamo con $S$ la somma di tutti i pesi.
-> 
-> Lily e' la prima a prendere una parte della sua scelta. Poi, partendo da Hadrien, i due amici si alternano: ogni giocatore prende una parte che è vicina di una parte già presa, finché non rimane nessuna pizza. Il guadagno di un giocatore è la somma dei pesi delle sue parti divise da $S$.
-> 
-> Per esempio, con la pizza illustrata nella figura 5 ($n = 5$, peso totale $S = 7$), Lily inizia prendendo la parte di peso $3$. Poi Hadrien prende una delle due parti adiacenti, qui per esempio quella a destra. Poi Lily prende la parte di peso $2$, poi la parte di peso $1$, e infine Lily finisce prendendo la parte di peso $0$. In questo caso il guadagno di Lily è $\frac{3+2+0}{7} = \frac{5}{7}$.
-> 
-> Data la distribuzione delle parti della pizza, indichiamo con $g_{\max}$ il più grande guadagno che Lily possa garantire con certezza, qualunque sia il modo di giocare di Hadrien.
-> 
-> Tuttavia, a volte decide di pensare di meno e di giocare nel modo seguente: prende la parte più pesante alla prima curva, poi ad ogni passo prende la parte più pesante delle (al massimo due) parti che può prendere; in caso di pareggio può scegliere la parte che desidera. Il guadagno massimo che può garantire seguendo queste regole è indicato come $g_{\text{glouton}}$. In particolare, $g_{\max} \ge g_{\text{glouton}}$.
-> 
+> Lily e Hadrien si incontrano per un banchetto e entrambi vogliono mangiare il più possibile.
+>
+> Una pizza è tagliata in $n$ parti, e ciascuna parte ha un certo peso positivo pari alla quantità di condimento su di essa. Denotiamo con $S$ la somma di tutti i pesi.
+>
+> Lily va per prima e prende una parte a sua scelta. Poi, a partire da Hadrien, i due amici si alternano: ogni giocatore prende una parte che è vicina a una parte già presa, finché non resta più pizza. Il guadagno di un giocatore è la somma dei pesi delle sue parti divisa per $S$.
+>
+> Ad esempio, con la pizza illustrata nella Figura 5 ($n = 5$, peso totale $S = 7$), Lily inizia prendendo la parte di peso $3$. Poi Hadrien prende una delle due parti adiacenti, qui per esempio quella a destra. Poi Lily prende la parte di peso $2$, poi la parte di peso $1$, e infine Lily finisce prendendo la parte di peso $0$. In questo caso il guadagno di Lily è $\frac{3+2+0}{7} = \frac{5}{7}$.
+>
+> Data una distribuzione delle parti della pizza, denotiamo con $g_{\max}$ il guadagno massimo che Lily può garantire per certo, qualunque sia il modo di giocare di Hadrien.
+>
+> Tuttavia, a volte decide di pensare meno e di giocare nel seguente modo: prende la parte più pesante al primo turno, poi a ogni passo prende la più pesante delle (al massimo due) parti che può prendere; in caso di parità può scegliere la parte che desidera. Il guadagno massimo che può garantire seguendo queste regole è denotato $g_{\text{glouton}}$. In particolare, $g_{\max} \ge g_{\text{glouton}}$.
+>
 > **1.** Quando $n = 2, 3, 4, 5$, quali sono i valori possibili di $g_{\max}$?
-> 
-> **2.** Per quali integri $n$ si può avere $g_{\max} > g_{\text{glouton}}$, vale a dire, esiste una strategia strettamente migliore di qualsiasi strategia avida?
-> 
-> **3.** Per quali integri $n$ abbiamo necessariamente $g_{\max} \ge \frac{1}{2}$?
-> 
-> **4.** $n$ sia un numero intero. Legato con la massima precisione possibile il minimo valore possibile di $g_{\max}$.
-> 
-> D'ora in poi, Lily e Hadrien giocano su un brownie quadrato tagliato in parti quadrate. Iniziamo studiando il caso in cui le parti $n$ sono gratuite.
-> 
-> **5. ** Le candele sono ora posizionate una per ogni parte (nel caso in cui $n$ sia imparato, devono esserci $\left\lceil \frac{n^2}{2} \right\rceil$ o $\left\lfloor \frac{n^2}{2} \right\rfloor$ candele). Quante parti contenenti candele può Lily assicurarsi di ottenere?
-> 
-> **6. ** Hadrien ha le candele $k$, con $k \le n^2$, e vengono posizionate dove desidera prima dell'inizio della partita. Secondo i valori di $k$ e $n$, quante parti contenenti candele può Lily garantire di ottenere?
-> 
-> **7.** Proporre e studiare altre vie di ricerca.
+>
+> **2.** Per quali interi $n$ si può avere $g_{\max} > g_{\text{glouton}}$, cioè esiste una strategia strettamente migliore di qualsiasi strategia greedy?
+>
+> **3.** Per quali interi $n$ abbiamo necessariamente $g_{\max} \ge \frac{1}{2}$?
+>
+> **4.** Sia $n$ un intero. Stima il più precisamente possibile il valore minimo possibile di $g_{\max}$.
+>
+> Da ora in poi, Lily e Hadrien giocano su un brownie quadrato tagliato in parti quadrate $n \times n$. Studiamo inizialmente il caso in cui $n$ parti sono libere.
+>
+> **5.** Ora vengono posizionate delle candele, una per parte (nel caso in cui $n$ sia dispari, devono esserci $\left\lceil \frac{n^2}{2} \right\rceil$ o $\left\lfloor \frac{n^2}{2} \right\rfloor$ candele). Quante parti contenenti candele può Lily garantire di ottenere?
+>
+> **6.** Hadrien ha $k$ candele, con $k \le n^2$, e le posiziona dove vuole prima dell'inizio del gioco. A seconda dei valori di $k$ e $n$, quante parti contenenti candele può Lily garantire di ottenere?
+>
+> **7.** Proporre e studiare altri percorsi di ricerca.
 
 ![[src_tfjm_2020__q03.png]]
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_backward|Ragionamento all'indietro]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+[[Quesiti/src_tfjm_2020#q03|src_tfjm_2020__Q03]]
 
 
 
@@ -282,37 +300,49 @@ level: TFJM²
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco per due giocatori che muove mobili in un magazzino 1D e 2D*
+*Gioco a due giocatori di spostamento di mobili in un magazzino 1D e 2D*
 
-> Olivier cerca di mettere i mobili nel magazzino di Animath, mentre Chloé cerca di difenderli.
-> 
-> $d \ge 2$ sia un numero intero. Consideriamo i mobili delle dimensioni $1 \times d$ e $d \times 1$ conservati in magazzino.
-> 
-> **1. ** Mettiamo i pezzi in un magazzino di dimensioni $(d+1) \times (d+1)$. Si dice che il magazzino sia ** pieno ** se non si può aggiungere un nuovo pezzo di mobili, come illustrato alla figura 7. Qual è il numero minimo di mobili necessari per riempire un magazzino? Qual è il numero massimo?
-> 
-> Let $n \in \mathbb{N}^*$. Si considera un magazzino di dimensioni $1 \times n$. Olivier e Chloé agiscono a loro volta come segue: - A sua volta, Olivier mette un pezzo di mobili nel magazzino se possibile. - A sua volta, Chloé puo' spostare un pezzo di mobili orizzontalmente da una cella.
-> 
-> Un pezzo di mobili non può essere spostato oltre gli spazi vuoti, e non può attraversare un altro pezzo durante una mossa. Si dice che un mobile sia bloccato quando Chloé non può spostarlo. Se non riesce a metterlo, lo perde. Olivier vince se a un certo punto un pezzo di mobili viene bloccato.
-> 
-> La figura 8 mostra un esempio di gioco in un magazzino di lunghezza $n = 7$ con $d = 2$: Olivier posiziona un pezzo fino alla destra, poi Chloé sposta tre celle verso sinistra, Olivier posiziona un pezzo fino alla sinistra. Olivier ha vinto mettendo un pezzo a sinistra, che è bloccato.
-> 
-> $n$ e $d$ devono essere fissati. Olivier può assicurarsi di vincere? Inizieremo studiando i casi $d = 2, 3$.
-> 
-> **3.** Dopo una breve ristrutturazione, il magazzino è ora una striscia infinita di larghezza $1$. Chloé può spostare pezzi lungo questa striscia indefinitamente, il che significa che non c'è mai un pezzo bloccato. Fissare $n$ e $d$. Olivier può sempre garantire la vittoria? Inizieremo studiando i casi $d = 2, 3$.
-> 
-> Dopo una lunga ristrutturazione, il magazzino è ora un piano infinito. Chloé non può più spostare i mobili che si trovano lungo il confine del lato più lungo dei mobili orizzontali. Come nella figura 9, sono mostrate due configurazioni in un magazzino bidimensionale per $d = 2$.
-> 
-> Per quali integri può Olivier garantire la vittoria? Inizieremo studiando i casi $d = 2, 3$.
-> 
-> **5. ** Per far fronte alla diversificazione delle sue attività, Animath ora ha bisogno di mobili di varie lunghezze (almeno $2$) e sempre di larghezza $1$. Rivisita la domanda precedente alle seguenti condizioni: a) A ogni turno, Olivier sceglie la dimensione del pezzo che vuole mettere; b) a ogni turno, Chloé sceglie la dimensione del pezzo che deve mettere Olivier; c) a ogni turno, Olivier sceglie la sequenza di dimensioni che deve mettere; d) all'inizio della partita, Chloé sceglie la sequenza di dimensioni di pezzi che Olivier deve mettere.
-> 
-> L'arredamento di nuova generazione è di dimensioni $d \times d$ e può muoversi in due direzioni. La figura 10 mostra una configurazione con i nuovi mobili.
-> 
-> **6.** Rivedere le domande precedenti per questo caso.
-> 
-> **7.** Proporre e studiare altre vie di ricerca.
+> Olivier cerca di sistemare mobili nel magazzino di Animath, mentre Chloé cerca di difenderlo.
+>
+> Sia $d \ge 2$ un intero. Consideriamo mobili di dimensioni $1 \times d$ e $d \times 1$ stoccati in un magazzino.
+>
+> **1.** Posizioniamo pezzi in un magazzino di dimensioni $(d+1) \times (d+1)$. Il magazzino si dice **pieno** se non è possibile aggiungere alcun nuovo pezzo di mobile, come illustrato dalla Figura 7. Qual è il numero minimo di pezzi di mobile necessari per riempire un magazzino? Qual è il numero massimo?
+>
+> Sia $n \in \mathbb{N}^*$. Consideriamo un magazzino di dimensioni $1 \times n$. Olivier e Chloé agiscono a turno nel modo seguente:
+> - Al suo turno, Olivier posiziona un pezzo di mobile nel magazzino se possibile.
+> - Al suo turno, Chloé può spostare un pezzo di mobile orizzontalmente di una cella.
+>
+> Un pezzo di mobile non può essere spostato oltre spazi vuoti, né può attraversare un altro pezzo durante uno spostamento. Un pezzo di mobile si dice **bloccato** quando Chloé non può spostarlo. Lei lo perde se non può posizionarlo. Olivier vince se in un certo momento un pezzo di mobile è bloccato.
+>
+> La Figura 8 mostra un esempio di gioco in un magazzino di lunghezza $n = 7$ con $d = 2$: Olivier posiziona un pezzo tutto a destra, poi Chloé lo sposta di tre celle verso sinistra, Olivier posiziona un pezzo tutto a sinistra. Olivier ha vinto posizionando un pezzo a sinistra, che è bloccato.
+>
+> **2.** Siano $n$ e $d$ fissati. Può Olivier assicurarsi di vincere? Studieremo inizialmente i casi $d = 2, 3$.
+>
+> **3.** Dopo una breve ristrutturazione, il magazzino è ora una striscia infinita di larghezza $1$. Chloé può spostare i pezzi lungo questa striscia indefinitamente, il che significa che non esiste mai un pezzo bloccato. Siano $n$ e $d$ fissati. Può Olivier sempre garantire una vittoria? Studieremo inizialmente i casi $d = 2, 3$.
+>
+> Dopo una ristrutturazione più lunga, il magazzino è ora un piano infinito. Chloé non può più spostare mobili che si trovano lungo il bordo del lato più lungo di mobili orizzontali. Come nella Figura 9, sono mostrate due configurazioni in un magazzino bidimensionale per $d = 2$.
+>
+> **4.** Per quali interi $d$ può Olivier assicurarsi di vincere? Studieremo inizialmente i casi $d = 2, 3$.
+>
+> **5.** Per far fronte alla diversificazione delle sue attività, Animath ha ora bisogno di mobili di varie lunghezze (almeno $2$) e sempre di larghezza $1$. Riprendere la domanda precedente nelle seguenti condizioni:
+> a) A ogni turno, Olivier sceglie la dimensione del pezzo che desidera posizionare;
+> b) A ogni turno, Chloé sceglie la dimensione del pezzo che Olivier deve posizionare;
+> c) A ogni turno, Olivier sceglie la sequenza di dimensioni che posizionerà;
+> d) All'inizio del gioco, Chloé sceglie la sequenza di dimensioni dei pezzi che Olivier posizionerà.
+>
+> I nuovi mobili sono di dimensioni $d \times d$ e possono muoversi in due direzioni. Nella Figura 10 è mostrata una configurazione con i nuovi mobili.
+>
+> **6.** Riprendere le domande precedenti per questo caso.
+>
+> **7.** Proporre e studiare altri percorsi di ricerca.
 
 ![[src_tfjm_2020__q04.png]]
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti / monovarianti]], [[method_backward|Ragionamento all'indietro]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_tfjm_2020#q04|src_tfjm_2020__Q04]]
 
 
 
@@ -363,29 +393,41 @@ level: TFJM²
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scapping etichette poligonali rimuovendo i triangoli con una regolazione unità*
+*Pelare etichette poligonali strappando triangoli con un righello unitario*
 
-> Julien vuole togliere un'etichetta poligonale testarda.
-> 
-> Ha una regola di lunghezza $1$ che utilizza per scagliare successivi piccoli triangoli dall'etichetta. Per eliminare un triangolo, deve scegliere due punti a distanza massima $1$ l'uno dall'altro, situati su lati adiacenti dell'etichetta che formano un angolo acuto o retto. Il triangolo da scolpire deve essere interamente contenuto nel resto dell'etichetta.
-> 
-> Ad esempio, se l'etichetta è il pentagono della figura 11, può posizionare il suo reggente su uno dei due lati completamente arancioni, ma non può posizionare il suo reggente sui lati puntati: il lato sinistro è troppo lungo, il lato destro collega due lati che formano un angolo obtuso, e i due lati superiori formano un angolo obtuso. Quando il triangolo svelto soddisfa tutte le condizioni, il svelto è **valid**.
-> 
-> Julien si ferma quando l'intera etichetta è stata sbucciata, cioè rimane solo un triangolo con angolo acuto e il cui lato opposto ha una lunghezza massima $1$, o quando non può più sbucciare alcun triangolo. Nel primo caso si dice che l'etichetta iniziale è **interamente peelabile**.
-> 
-> **1.** Esiste un poligono con lati $n$ che sia interamente pealisabile per i seguenti valori di $n$: a) $n = 3$ o $n = 4$? b) $n = 5$? c) $n \ge 6$?
-> 
-> **2.** Ora ci concentriamo su particolari poligoni: a) Per quali valori di $c$ è un quadrato di lato $c$ interamente pealisabile? b) Per quali valori di $c$ un triangolo equilaterale di lato $c$ è interamente pealisabile? c) Per qualsiasi $a > 0$, per quali valori di $c$ il rettangolo $c \times a$ è interamente peelabile?
-> 
-> **3.** In un quadrilaterale, supponiamo che tutti i lati abbiano una lunghezza inferiore a $1$. E' sempre del tutto peelabile?
-> 
-> **4.** Esiste un reale $R > 0$ tale che qualsiasi poligono contenente un disco di raggio $R$ non sia completamente peelabile?
-> 
-> **5.** Rivedere le domande precedenti che sostituiscono il vincolo che l'angolo sia acuto o retto con il vincolo che esso sia al massimo un angolo fisso $\alpha$ (le domande precedenti corrispondono al caso $\alpha = 90^\circ$).
-> 
-> **6.** Proporre e studiare altre vie di ricerca.
+> Julien vuole pelare un'etichetta poligonale ostinata.
+>
+> Ha un righello di lunghezza $1$ che usa per strappare successivamente piccoli triangoli dall'etichetta. Per strappare un triangolo, deve scegliere due punti a distanza al più $1$ l'uno dall'altro, situati su lati adiacenti dell'etichetta che formano un angolo acuto o retto. Il triangolo da strappare deve essere interamente contenuto in ciò che rimane dell'etichetta.
+>
+> Ad esempio, se l'etichetta è il pentagono della Figura 11, può posizionare il righello su uno dei due lati arancioni pieni, ma non può posizionarlo sui lati tratteggiati: il lato sinistro è troppo lungo, il lato destro collega due lati che formano un angolo ottuso, e i due lati superiori formano un angolo ottuso. Quando il triangolo strappato soddisfa tutte le condizioni, la pelata è **valida**.
+>
+> Julien si ferma quando l'intera etichetta è stata pelata, cioè quando resta solo un triangolo con un angolo acuto e la cui lato opposto ha lunghezza al più $1$, oppure quando non può più strappare alcun triangolo. Nel primo caso diciamo che l'etichetta iniziale è **interamente pelabile**.
+>
+> **1.** Esiste un poligono con $n$ lati interamente pelabile per i seguenti valori di $n$:
+> a) $n = 3$ o $n = 4$?
+> b) $n = 5$?
+> c) $n \ge 6$?
+>
+> **2.** Ci concentriamo ora su poligoni particolari:
+> a) Per quali valori di $c$ un quadrato di lato $c$ è interamente pelabile?
+> b) Per quali valori di $c$ un triangolo equilatero di lato $c$ è interamente pelabile?
+> c) Per ogni $a > 0$, per quali valori di $c$ il rettangolo $c \times a$ è interamente pelabile?
+>
+> **3.** In un quadrilatero, supponiamo che tutti i lati abbiano lunghezza minore di $1$. È sempre interamente pelabile?
+>
+> **4.** Esiste un reale $R > 0$ tale che qualsiasi poligono contenente un disco di raggio $R$ non sia interamente pelabile?
+>
+> **5.** Riprendere le domande precedenti sostituendo il vincolo che l'angolo sia acuto o retto con il vincolo che sia al più un angolo fisso $\alpha$ (le domande precedenti corrispondono al caso $\alpha = 90^\circ$).
+>
+> **6.** Proporre e studiare altri percorsi di ricerca.
 
 ![[src_tfjm_2020__q05.png]]
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_tfjm_2020#q05|src_tfjm_2020__Q05]]
 
 
 
@@ -436,31 +478,41 @@ level: TFJM²
 <div class="qlang-split" data-lang="it"></div>
 
 
-La polizia drone cattura il ladro sul grafico della città in pochi giorni.
+*Polizia con droni cattura un ladro su un grafo cittadino in un minimo di giorni*
 
-> Winston è un commissario di polizia. Cerca di catturare un ladro usando i suoi nuovi droni.
-> 
-> La città di Winston è composta da distretti $N$, e alcune coppie di distretti sono collegate da strade bidirezionali. Winston ha un numero illimitato di droni e agenti di polizia.
-> 
-> Ogni giorno procede così: - Ogni mattina, Winston manda droni in quante distretti vuole. - A mezzogiorno, la sua mostra mostra se uno dei suoi droni è stato inviato nel distretto dove si nasconde il ladro. - Nel pomeriggio, Winston può inviare i suoi agenti al massimo nei distretti; se i suoi agenti vanno nel distretto in cui si trova il ladro, il ladro viene arrestato con certezza. - Infine, ogni notte (eccetto la prima), il ladro si sposta da un distretto a un distretto vicino.
-> 
-> Si presume che fin dall'inizio il ladro non possa rimanere più di una notte nello stesso distretto.
-> 
-> **1.** La città di Londra è composta da distretti $N$ $q_1, q_2, \ldots, q_N$ disposti in un cerchio, con strade che collegano vicini sul cerchio, come nella figura 12. Come funzione di$N$, quanti poliziotti serve Winston per arrestare il ladro con certezza dopo un certo numero di giorni?
-> 
-> Lasciate che$n$e$N$siano due numeri interi in modo che Winston possa garantire la cattura del ladro. Qual e' il numero minimo di giorni di cui ha bisogno per essere sicuro di catturarlo?
-> 
-> **3.** Diciamo che una città non ha **loop** se non esiste un ciclo di distretti $b \ge 3$ distinti. Qual è il numero minimo di agenti sufficiente per catturare il ladro in qualsiasi città senza un ciclo?
-> 
-> **4. ** La città di New York è una griglia quadrata di lato $N$. Quanti agenti serve almeno Winston per catturare il ladro?
-> 
-> **5.** Una città si dice sia **planare** se può essere disegnata in aereo senza incrocio stradale. Ad esempio, la figura 13 mostra una città piana. Per qualsiasi numero intero, c'è una città piana tale che Winston non possa catturare il ladro con gli ufficiali?
-> 
-> A seguito dei tagli di bilancio, Winston può ora inviare solo tra $1$ e $d$ droni al giorno, per un certo numero intero fisso $d$. Ripensate alle domande precedenti per questo caso.
-> 
+> Winston è un commissario di polizia. Tenta di catturare un ladro usando i suoi nuovi droni.
+>
+> La città di Winston è composta da $N$ distretti, e alcune coppie di distretti sono collegate da strade a doppio senso. Winston ha un numero illimitato di droni e $n$ agenti di polizia.
+>
+> Ogni giorno procede come segue:
+> - Ogni mattina, Winston invia droni a tanti distretti quanti desidera.
+> - A mezzogiorno, il suo display mostra se uno dei suoi droni è stato inviato al distretto in cui il ladro si nasconde.
+> - Nel pomeriggio, Winston può inviare i suoi agenti a al massimo $n$ distretti; se i suoi agenti vanno al distretto in cui si trova il ladro, il ladro viene arrestato con certezza.
+> - Infine, ogni notte (tranne la prima), il ladro si sposta da un distretto a un distretto vicino.
+>
+> Si assume che, dall'inizio, il ladro non possa rimanere più di una notte nello stesso distretto.
+>
+> **1.** La città di Londra è composta da $N$ distretti $q_1, q_2, \ldots, q_N$ disposti in un cerchio, con strade che collegano i vicini sul cerchio, come nella Figura 12. Come funzione di $N$, quanti agenti di polizia Winston ha bisogno di arrestare il ladro con certezza dopo un certo numero di giorni?
+>
+> **2.** Siano $n$ e $N$ due interi tali che Winston possa garantire la cattura del ladro. Qual è il numero minimo di giorni di cui ha bisogno per essere certo di catturarlo?
+>
+> **3.** Diciamo che una città non ha **loop** se non esiste un ciclo di $b \ge 3$ distretti distinti. Qual è il numero minimo di agenti sufficiente a catturare il ladro in qualsiasi città senza loop?
+>
+> **4.** La città di New York è una griglia quadrata di lato $N$. Quanti agenti Winston ha bisogno al minimo per catturare il ladro?
+>
+> **5.** Una città si dice **planare** se può essere disegnata nel piano senza che le strade si incrocino. Ad esempio, la Figura 13 mostra una città planare. Per ogni intero $n$, esiste una città planare tale che Winston non possa catturare il ladro con $n$ agenti?
+>
+> **6.** A seguito dei tagli di bilancio, Winston può ora inviare solo tra $1$ e $d$ droni al giorno, per un certo intero fisso $d$. Riprendere le precedenti domande per questo caso.
+>
 > **7.** Proporre e studiare altre vie di ricerca.
 
 ![[src_tfjm_2020__q06.png]]
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_casework|Analisi per casi]], [[method_induzione|Induzione]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_tfjm_2020#q06|src_tfjm_2020__Q06]]
 
 
 
@@ -519,37 +571,49 @@ La polizia drone cattura il ladro sul grafico della città in pochi giorni.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Movimento di oggetti nella foresta di Chambord di alberi di reticola integrale tramite traduzioni e rotazioni*
+*Oggetti in movimento nel bosco di Chambord di alberi a reticolo intero tramite traslazioni e rotazioni*
 
-> Due taglialegni cercano di spostare tronchi e tronchi in una foresta.
-> 
-> La foresta di Chambord è un piano infinito in cui ogni punto con coordinate integrali è un albero puntuale. I tagliatori di legno spostano un oggetto applicandone due operazioni di base:
-> 
-> - **(Traduzione) ** Scegli un vettore $\vec{v}$ e applica all'oggetto una traduzione per vettore $\vec{v}$. - **(Rotazione) ** Fissare un punto $O$ dell'oggetto e un angolo $\theta \in [0, \pi]$, e applicare all'oggetto una rotazione del centro $O$ e dell'angolo $\theta$ nel senso diretto o indiretto.
-> 
-> Questo è possibile solo se l'oggetto non incontra alcun albero durante il movimento, il che significa: - **(Traduzione) ** Non esiste un reale $0 \le t \le 1$ tale che l'oggetto tradotto dal vettore $t\vec{v}$ tocchi un albero. - **(Rotation) ** Non esiste un angolo $0 \le \phi \le \theta$ tale da che, dopo aver rotato di $\phi$ circa $O$, l'oggetto tocchi un albero.
-> 
-> Si dice che un oggetto sia **free** se, per ogni posizione iniziale e per ogni posizione finale che non tocca gli alberi, i tagliatori di legno possono spostare l'oggetto da uno all'altro.
-> 
-> I tagliatori lavorano attualmente nella foresta di Chambord.
-> 
-> **1.** Prima di entrare nella foresta, i taglialegni si muovono all'interno di una piccola copse costituita da un numero finito di alberi posizionati in qualsiasi configurazione. L'oggetto che trasportano è un tronco sottile ****, cioè un segmento aperto di lunghezza $L$ (le due estremità possono toccare gli alberi). Date le due posizioni possibili per questo tronco, è sempre possibile che i tagliatori lo spostino da uno all'altro? Se sì, come?
-> 
-> **2.** Cercano di spostare un **stump**, che è un disco aperto di raggio $r_0$ (il confine del disco non tocca nessun albero). Per quale raggio $r_0$ è libero il tronco?
-> 
-> **3. ** Cercano di spostare un tronco sottile ** di lunghezza $L$. Per quali lunghezze $L$ il tronco sottile è libero?
-> 
-> **4. ** Cercano di spostare un tronco speso ****, vale a dire un rettangolo aperto (i lati del rettangolo possono toccare alberi) $E \times L$ con $0 < E \le L$. Per quali valori di $E$ e $L$ il tronco spessore è libero?
-> 
+> Due taglialegna cercano di spostare ceppi e tronchi in un bosco.
+>
+> Il bosco di Chambord è un piano infinito in cui ogni punto con coordinate intere è un albero puntuale (a punto). I taglialegna spostano un oggetto applicando ad esso due operazioni di base:
+>
+> - **(Traslazione)** Scegliere un vettore $\vec{v}$ e applicare all'oggetto una traslazione di vettore $\vec{v}$.
+> - **(Rotazione)** Fissare un punto $O$ dell'oggetto e un angolo $\theta \in [0, \pi]$, e applicare all'oggetto una rotazione di centro $O$ e angolo $\theta$ nel senso diretto o indiretto.
+>
+> Questo è possibile solo se l'oggetto non incontra alcun albero durante il movimento, cioè:
+> - **(Traslazione)** Non esiste alcun reale $0 \le t \le 1$ tale che l'oggetto traslato di vettore $t\vec{v}$ tocchi un albero.
+> - **(Rotazione)** Non esiste alcun angolo $0 \le \phi \le \theta$ tale che, dopo aver ruotato di $\phi$ attorno a $O$, l'oggetto tocchi un albero.
+>
+> Un oggetto si dice **libero** se, per ogni posizione iniziale e ogni posizione finale che non toccano alberi, i taglialegna possono spostare l'oggetto da una all'altra.
+>
+> I taglialegna stanno attualmente lavorando nel bosco di Chambord.
+>
+> **1.** Prima di entrare nel bosco, i taglialegna si muovono all'interno di un piccolo boschetto costituito da un numero finito di alberi disposti in qualsiasi configurazione. L'oggetto che trasportano è un **tronco sottile**, cioè un segmento aperto di lunghezza $L$ (i due estremi possono toccare gli alberi). Dati due possibili posizioni per questo tronco, è sempre possibile per i taglialegna spostarlo da una all'altra? Se sì, come?
+>
+> **2.** Cercano di spostare un **ceppo**, cioè un disco aperto di raggio $r_0$ (il bordo del disco non tocca alcun albero). Per quali raggi $r_0$ il ceppo è libero?
+>
+> **3.** Cercano di spostare un **tronco sottile** di lunghezza $L$. Per quali lunghezze $L$ il tronco sottile è libero?
+>
+> **4.** Cercano di spostare un **tronco spesso**, vale a dire un rettangolo aperto (i lati del rettangolo possono toccare alberi) $E \times L$ con $0 < E \le L$. Per quali valori di $E$ e $L$ il tronco spesso è libero?
+>
 > Il tempo totale minimo necessario per eseguire una sequenza di operazioni è la distanza percorsa da un punto specifico dell'oggetto, chiamato **centro** dell'oggetto.
-> 
-> Qual è il tempo minimo necessario per muoversi, quando possibile: - Un tronco di raggio $r_0$ centrato a $\left(\frac{1}{2}, \frac{1}{2}\right)$ in una posizione centrata a $\left(n + \frac{1}{2}, m + \frac{1}{2}\right)$, con $n, m$ enti? Il centro del tronco è il centro del disco. - Un tronco sottile di lunghezza $L$ nella stessa posizione dopo aver effettuato una mezza rotazione? Il centro del tronco è il punto medio del segmento. - Un tronco spessore di lunghezza $L$ e spessore $E$ nella stessa posizione dopo mezzo giro? Il centro del tronco è l'intersezione dei diagonali del rettangolo.
-> 
+>
+> **5.** Qual è il tempo minimo necessario per spostare, quando possibile:
+> - Un ceppo di raggio $r_0$ centrato in $\left(\frac{1}{2}, \frac{1}{2}\right)$ in una posizione centrata in $\left(n + \frac{1}{2}, m + \frac{1}{2}\right)$, con $n, m$ interi? Il centro del ceppo è il centro del disco.
+> - Un tronco sottile di lunghezza $L$ alla stessa posizione dopo aver eseguito una mezza rotazione? Il centro del tronco è il punto medio del segmento.
+> - Un tronco spesso di lunghezza $L$ e spessore $E$ alla stessa posizione dopo una mezza rotazione? Il centro del tronco è l'intersezione delle diagonali del rettangolo.
+>
 > Cercheremo di limitare queste quantità il più precisamente possibile.
-> 
-> **6.** Proporre e studiare altre vie di ricerca.
+>
+> **6.** Proporre e studiare altri percorsi di ricerca.
 
 ![[src_tfjm_2020__q07.png]]
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_coordinate|Metodo delle coordinate]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_tfjm_2020#q07|src_tfjm_2020__Q07]]
 
 
 
@@ -603,28 +667,41 @@ La polizia drone cattura il ladro sul grafico della città in pochi giorni.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Robot auto-replicanti su galassie planetarie modulari e distribuzioni improprie*
+*Galassie improprie e robot auto-replicanti su galassie planetarie modulari*
 
-> Nella galassia TF-J-1000, la tecnologia è molto più avanzata della nostra: sono stati sviluppati robot auto-replicanti, che si propagano da pianeta a pianeta.
-> 
-> Una galassia è composta da un insieme di pianeti. Ognuno può essere raggiunto da alcuni altri e, ogni secolo, ogni robot produce un robot per ogni pianeta accessibile dal suo pianeta, poi manda via i nuovi robot e si autodistruisce.
-> 
+> Nella galassia TF-J-1000, la tecnologia è molto più avanzata che nella nostra: sono stati sviluppati robot auto-replicanti, e si propagano da pianeta a pianeta.
+>
+> Una galassia è costituita da un insieme di pianeti. Ogni pianeta può essere raggiunto da certi altri e, ogni secolo, ogni robot produce un robot per ogni pianeta accessibile dal suo pianeta, poi spedisce i nuovi robot e si autodistrugge.
+>
 > Un esempio dell'evoluzione del numero di robot in una galassia è dato nella Figura 16. In questo esempio il pianeta in alto a destra è accessibile dal pianeta in alto a sinistra, ma non viceversa.
-> 
-> Supponiamo che la galassia sia composta da un pianeta per ogni numero intero di$\mathbb{Z}$, e che ogni pianeta sia accessibile dai suoi due vicini. All'inizio c'è un solo robot a $0$. Quanti robot sono attivi sul pianeta$k$ al secolo$s$?
-> 
-> **2.** Rivedi la domanda precedente se la galassia ha un pianeta per ogni elemento di $\mathbb{Z}^2$, con ogni pianeta accessibile dai suoi quattro vicini.
-> 
-> **3.** Rivedi la domanda precedente se la galassia ha un pianeta per ogni elemento di $[1, p]$, e ogni pianeta è accessibile dai suoi due vicini. Il robot iniziale potrebbe essere su qualsiasi pianeta. Noi ci limitiamo ai casi $p = 3, 4, 5$ e infine $6$.
-> 
-> Let $g \in \mathbb{N}^*$. Ora supponiamo che, se almeno $g$ robot sono sullo stesso pianeta, scoppierà una guerra e $g$ robot saranno distrutti. Più in generale, per qualsiasi $k$, se ci sono tra $kg$ e $(k+1)g$ robot, $kg$ sono distrutti, in modo che solo il resto della divisione euclidica del numero di robot da $g$ sopravvive e può auto-replicarsi. Supponiamo anche che la galassia contenga solo finitamente molti pianeti.
-> 
-> Si dice che una galassia sia **inappropriata** quando, qualunque sia la distribuzione iniziale dei robot, tutti alla fine scompariranno.
-> 
-> **4. ** Solo in questa domanda, supponiamo $g = 2$. Let $p \in \mathbb{N}^*$. a) Supponiamo che la galassia abbia un pianeta per ogni elemento di $[0, p-1]$, e che ogni pianeta sia accessibile dai suoi due vicini: qui $0$ e $p-1$ sono vicini, come nella Figura 17. Per quali integri $p$ la galassia è inappropriata? b) Rivisitare la questione se la galassia ha un pianeta per ogni elemento di $[0, p-1]^2$, e ogni pianeta è accessibile dai suoi quattro vicini: allo stesso modo, i pianeti $(0,k)$ e $(p-1,k)$ sono considerati vicini, così come i pianeti $(k,0)$ e $(k, p-1)$, come illustrato nella Figura 18. c) Rivedi la domanda per altre galassie di tua scelta.
-> 
-> **5. ** Lasciate $g \in \mathbb{N}^*$. a) Propone esempi di galassie improprie. Cercheremo di trovare galassie con un gran numero di collegamenti. b) Esiste una galassia tale che, qualunque sia la distribuzione iniziale con $1$ e $g - 1$ robot per pianeta, siamo garantiti che un giorno un pianeta contiene esattamente $1$ robot? c) Esiste una galassia tale che sappiamo che esiste un certo pianeta che, per ogni $0 \le r \le g - 1$, un giorno contiene esattamente $r$ robot? d) Esiste una galassia se si sostituisce l'ipotesi sulla distribuzione iniziale con il fatto che almeno un pianeta contiene tra $1$ e $g - 1$ robot?
-> 
-> **6.** Proporre e studiare altre direzioni di ricerca.
+>
+> **1.** Supponiamo che la galassia consista di un pianeta per ogni intero di $\mathbb{Z}$, e che ogni pianeta sia accessibile dai suoi due vicini. All'inizio c'è un singolo robot su $0$. Quanti robot sono attivi sul pianeta $k$ al secolo $s$?
+>
+> **2.** Riprendiamo la domanda precedente se la galassia ha un pianeta per ogni elemento di $\mathbb{Z}^2$, con ogni pianeta accessibile dai suoi quattro vicini.
+>
+> **3.** Riprendiamo la domanda precedente se la galassia ha un pianeta per ogni elemento di $[1, p]$, e ogni pianeta è accessibile dai suoi due vicini. Il robot iniziale può trovarsi su qualsiasi pianeta. Ci restringiamo ai casi $p = 3, 4, 5$ e infine $6$.
+>
+> Sia $g \in \mathbb{N}^*$. Supponiamo ora che, se almeno $g$ robot sono sullo stesso pianeta, scoppi una guerra e $g$ robot siano distrutti. Più in generale, per ogni $k$, se ci sono tra $kg$ e $(k+1)g$ robot, $kg$ sono distrutti, in modo che sopravviva solo il resto della divisione euclidea del numero di robot per $g$ e possa auto-replicarsi. Supponiamo inoltre che la galassia contenga solo un numero finito di pianeti.
+>
+> Una galassia è detta **impropria** quando, qualunque sia la distribuzione iniziale di robot, essi scompariranno tutti alla fine.
+>
+> **4.** In questa domanda solo, supponiamo $g = 2$. Sia $p \in \mathbb{N}^*$.
+> a) Supponiamo che la galassia abbia un pianeta per ogni elemento di $[0, p-1]$, e che ogni pianeta sia accessibile dai suoi due vicini: qui $0$ e $p-1$ sono vicini, come nella Figura 17. Per quali interi $p$ la galassia è impropria?
+> b) Riprendiamo la domanda se la galassia ha un pianeta per ogni elemento di $[0, p-1]^2$, e ogni pianeta è accessibile dai suoi quattro vicini: analogamente, i pianeti $(0,k)$ e $(p-1,k)$ sono considerati vicini, come anche i pianeti $(k,0)$ e $(k, p-1)$, come illustrato nella Figura 18.
+> c) Riprendiamo la domanda per altre galassie a nostra scelta.
+>
+> **5.** Sia $g \in \mathbb{N}^*$.
+> a) Proponiamo esempi di galassie improprie. Cercheremo di trovare galassie con un gran numero di collegamenti.
+> b) Esiste una galassia tale che, qualunque sia la distribuzione iniziale con tra $1$ e $g - 1$ robot per pianeta, siamo certi che un giorno qualche pianeta conterrà esattamente $1$ robot?
+> c) Esiste una galassia tale che sappiamo che c'è un certo pianeta che, per ogni $0 \le r \le g - 1$, un giorno conterrà esattamente $r$ robot?
+> d) Esiste una galassia se sostituiamo l'ipotesi sulla distribuzione iniziale con il fatto che almeno un pianeta contiene tra $1$ e $g - 1$ robot?
+>
+> **6.** Proponiamo e studiamo altre direzioni di ricerca.
 
 ![[src_tfjm_2020__q08.png]]
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_tfjm_2020#q08|src_tfjm_2020__Q08]]

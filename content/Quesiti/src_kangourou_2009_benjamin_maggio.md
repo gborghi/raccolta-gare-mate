@@ -53,7 +53,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many ways to place 4 coins on a 4x4 chessboard
+*How many ways are there to arrange 4 coins on a 4x4 chessboard?*
 
 ![[src_kangourou_2009_benjamin_maggio__probb1.png]]
 
@@ -74,11 +74,18 @@ How many ways to place 4 coins on a 4x4 chessboard
 \end{document}
 ```
 
-> You must place 4 identical coins in as many boxes on a chessboard as possible, following the following rules: - in no row and in no column can there be more than one coin; - if there is a coin in a box, each box that has some vertices in common with it cannot contain coins.
-> 
-> How many different ways can you do the project?
+> You must place 4 identical coins in 4 corresponding squares on a $4 \times 4$ chessboard, observing the following rules:
+> - No row and no column may contain more than one coin;
+> - If a coin is in a square, then no square that shares any vertex with that square may contain a coin.
+>
+> In how many different ways can you realize the arrangement?
 
-**Answer:** 2
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_maggio#qb1|src_kangourou_2009_benjamin_maggio__QB1]]
 
 
 
@@ -101,11 +108,15 @@ How many ways to place 4 coins on a 4x4 chessboard
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of labels yet to be prepared*
+*Weight of labels still to be prepared*
 
-> One company produces chocolates all of the same weight and wants to sell them in packs of 36, 28, 24, or 16 pieces. Each pack must bear a label indicating the net weight of the contents; labels indicating 630 grams and others indicating 360 grams have already been prepared. What weights will the labels still have to indicate?
+> A company produces chocolates, all of the same weight, and wants to sell them in packs of 36, 28, 24, or 16 pieces. Each pack must be labeled with the net weight of the contents; labels indicating 630 grams and others indicating 360 grams have already been prepared. What weights must the labels that still need to be prepared indicate?
 
-**Answer:** 810,540
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_benjamin_maggio#qb2|src_kangourou_2009_benjamin_maggio__QB2]]
 
 
 
@@ -128,11 +139,15 @@ How many ways to place 4 coins on a 4x4 chessboard
 <div class="qlang-split" data-lang="en"></div>
 
 
-From which pizza to choose the largest slice
+*From which pizza should you choose the largest slice?*
 
-> At a little party there are four circular-shaped pizzas: one has a radius $8$ cm and is cut into 3 equal slices between them, a second has a radius $10$ cm and is cut into 4 equal slices between them, a third has a radius $12$ cm and is cut into 6 equal slices between them, the fourth has a radius $14$ cm and is cut into 8 equal slices between them. You only have one slice and you want to eat as much pizza as possible. From which pizza should you choose the slice?
+> At a little party, there are four circular pizzas: one has a radius of $8$ cm and is cut into 3 equal slices; a second has a radius of $10$ cm and is cut into 4 equal slices; a third has a radius of $12$ cm and is cut into 6 equal slices; the fourth has a radius of $14$ cm and is cut into 8 equal slices. You are entitled to only one slice, and you want to eat as much pizza as possible: from which of the pizzas would it be best for you to choose the slice?
 
-**Answer:** radius 10
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_benjamin_maggio#qb3|src_kangourou_2009_benjamin_maggio__QB3]]
 
 
 
@@ -155,11 +170,15 @@ From which pizza to choose the largest slice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How much is the initial sum*
+*What is the initial amount in euros?*
 
-> This morning I went to see my grandfather who gave me four times the amount I left home with. Then I met Andrea, who returned the three euros I had lent him. Feeling rich, I shared the contents of my wallet with my three brothers in equal parts. Finally, I bought a book for nine euros. After I paid, I looked in my wallet and found the same amount I had when I left home this morning: How much is it?
+> This morning I went to visit my grandfather, who gave me an amount equal to four times the amount I had when I left home. Then I met Andrea, who gave me back the 3 euros I had lent him. Feeling rich, I split the contents of my wallet equally among my three siblings. Finally, I bought myself a book for 9 euros. After paying, I looked in my wallet and found the same amount I had when I left home this morning: how many euros is that?
 
-**Answer:** 33
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2009_benjamin_maggio#qb4|src_kangourou_2009_benjamin_maggio__QB4]]
 
 
 
@@ -184,9 +203,13 @@ From which pizza to choose the largest slice
 
 *Minimum time to ferry four boats*
 
-> Four boats $A$, $B$, $C$, $D$ can cross a river from one bank to the other in two directions; the time taken by each boat does not depend on the direction. The boat $A$ takes 2 minutes to cross, the boat $B$ takes 4, the boat $C$ takes 8 and the boat $D$ takes 16. The four boats are moored together on the left bank, all must be ferried on the right bank and only one rudder is available. One boat may tow another boat at most, but in this case the convoy of the two boats takes the crossing time of the slower boat of the two. Once a crossing has been made, the boatman can return to the starting point only using one of the four boats. Find the minimum time (in minutes) to perform the operation, neglecting the time needed to hook and unhook the boats and transfer from one to the other.
+> Four boats $A$, $B$, $C$, $D$ can cross a river from one bank to the other in both directions; the time taken by each boat does not depend on the direction. Boat $A$ takes 2 minutes to cross, boat $B$ takes 4 minutes, boat $C$ takes 8 minutes, and boat $D$ takes 16 minutes. The four boats are moored together on the left bank; all of them must be ferried to the right bank, and only one helmsman is available. A boat can tow at most one other boat, but in that case the two-boat convoy takes as long to cross as the slower of the two boats. Once a crossing has been completed, the helmsman can return to the starting point only by using one of the four boats. Find the minimum time (in minutes) that allows the operation to be carried out, ignoring the time needed to attach and detach the boats and to transfer from one boat to another.
 
-**Answer:** 30
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_maggio#qb5|src_kangourou_2009_benjamin_maggio__QB5]]
 
 
 
@@ -209,8 +232,12 @@ From which pizza to choose the largest slice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who won more hands in rock-paper-scissors*
+*Who has won more hands at morra cinese?*
 
-> In each hand of the game of rock-paper-scissors, each of two players simultaneously says to the other one of the three words *paper*, *scissors*, *rock*: paper beats rock, scissors beats paper, and rock beats scissors. Marco and Flora played 10 hands, none of which ended in a tie (that is, the words said in each individual hand were always different). Marco used rock 3 times, scissors 6 times, and paper 1 time; Flora instead used rock 2 times, scissors 4 times, and paper 4 times. We do not know in what order the words were said. Who won more hands, and how many hands did they win?
+> In each round of Chinese morra, each of the two players simultaneously says to the other one of the three words: *paper*, *scissors*, *rock*: paper beats rock, scissors beats paper, and rock beats scissors. Marco and Flora played 10 rounds, none of which ended in a draw (that is, the words said in each individual round were always different). Marco used rock 3 times, scissors 6 times, and paper 1 time; Flora, on the other hand, used rock 2 times, scissors 4 times, and paper 4 times. We do not know in what order the words were said. Who won more rounds, and how many rounds did they win?
 
-**Answer:** Marco 7
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_maggio#qb6|src_kangourou_2009_benjamin_maggio__QB6]]

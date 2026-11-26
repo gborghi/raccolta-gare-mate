@@ -37,9 +37,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Jupiter population data as a percentage of marathon participants*
+*Inhabitants of Jupiter given percentages of marathon participants*
 
-> Today, the Great Marathon of 2008 kilometers is run on Jupiter, in which 80% of the planet's inhabitants participate. After two kilometres, 95% of the participants withdraw; the remaining 2,000 runners reach the finish line. How many inhabitants does Jupiter have?
+> On Jupiter today is held the Great Marathon, 2008 kilometres long, in which 80% of the planet’s inhabitants take part. After two kilometres, 95% of the participants drop out; the remaining 2000 runners reach the finish line. How many inhabitants does Jupiter have?
 >
 > - **(A)** 20 000,
 > - **(B)** 40 000,
@@ -47,7 +47,10 @@ level: biennio
 > - **(D)** 80 000,
 > - **(E)** 100 000.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2008_biennio#q01|src_archimede_2008_biennio__Q01]]
 
 
 
@@ -80,17 +83,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Required speed for record after initial delay*
+*Speed needed for the record after an initial delay*
 
-> A pilot wants to set a new record on a 50 km route: run it at an average speed of 100 km/h. Due to some technical problems, it takes 40 minutes to travel the first 25 km. At what speed must he travel the rest of the way (going at a constant speed) to succeed in his intent?
+> A driver wants to set a new record on a 50 km course: to cover it at an average speed of 100 km/h. Because of some technical problems he takes 40 minutes to cover the first 25 km. At what speed must he cover the rest of the course (travelling at constant speed) to succeed?
 >
-> - **(A)** No speed allows it.
-> - **(B)** 50 km/h,
-> - **(C)** 100 km/h,
-> - **(D)** 150 km/h,
+> - **(A)** no speed allows him to do so
+> - **(B)** 50 km/h
+> - **(C)** 100 km/h
+> - **(D)** 150 km/h
 > - **(E)** 200 km/h.
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_stima|Estimation and approximation]], [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2008_biennio#q02|src_archimede_2008_biennio__Q02]]
 
 
 
@@ -124,9 +130,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum amount of beads thrown with proportional constraints*
+*Massimo birilli buttati con vincoli proporzionali*
 
-> Alberto, Barbara and Clara are playing in a large square where there are 2008 birdies. Alberto throws down the triple of the beers thrown down by Barbara, who in turn throws down the double of the beers thrown down by Clara. How many beers did Alberto throw down?
+> Alberto, Barbara and Clara play in a large plaza where there are 2008 skittles.
+> Alberto knocks down three times as many skittles as Barbara knocks down, who in turn knocks down twice as many as Clara knocks down. What is the maximum number of skittles Alberto can knock down?
 >
 > - **(A)** 1321,
 > - **(B)** 1338,
@@ -134,7 +141,11 @@ level: biennio
 > - **(D)** 1353,
 > - **(E)** 1362.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2008_biennio#q03|src_archimede_2008_biennio__Q03]]
 
 
 
@@ -170,9 +181,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of friends from account divided into two ways*
+*Number of friends from a bill split in two ways*
 
-> Peter and Paul are celebrating their namesake at the pizzeria with their friends. At the end of the dinner, the bill is divided equally among all present and each should pay 12 Euros. With great generosity, however, the friends decide to offer dinner to Peter and Paul; the account is again divided equally among the friends of Peter and Paul (i.e. all present except Peter and Paul), and each of them pays 16 Euros. How many friends do Peter and Paul have?
+> Pietro and Paolo celebrate their name day in a pizzeria with their friends.
+> At the end of the meal the bill is split into equal parts among all those present and each should pay 12 Euro. With great generosity, however, the friends decide to treat Pietro and Paolo to the meal; the bill is again split into equal parts among Pietro and Paolo's friends (that is, all those present excluding Pietro and Paolo), and each of them pays 16 Euro. How many are Pietro and Paolo's friends?
 >
 > - **(A)** 6,
 > - **(B)** 8,
@@ -180,7 +192,10 @@ level: biennio
 > - **(D)** 12,
 > - **(E)** 16.
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2008_biennio#q04|src_archimede_2008_biennio__Q04]]
 
 
 
@@ -211,17 +226,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Variation of salary expenditure with percentage changes*
+*Change in total salary expenditure under percentage changes*
 
-> On Mars, the Martian High Commissioner for Education said that the number of schoolteachers will be reduced by 30% next school year and that salaries for those who remain will be increased by 35%. The total expenditure on teachers' salaries therefore:
+> On Mars, the Grand Chamberlain of Martian Education has declared that next school year he will reduce the number of schoolteachers by 30%, and that those who remain in service will have their salary increased by 35%. The total expenditure on the teachers' salaries will therefore:
 >
-> - **(A)** It will be reduced by 5.5%.
-> - **(B)** It will be reduced by 5%,
-> - **(C)** will increase by 5%,
-> - **(D)** It will remain unchanged.
-> - **(E)** It will increase by 7%.
+> - **(A)** will decrease by 5.5%
+> - **(B)** will decrease by 5%
+> - **(C)** will rise by 5%
+> - **(D)** will remain unchanged
+> - **(E)** will rise by 7%.
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2008_biennio#q05|src_archimede_2008_biennio__Q05]]
 
 
 
@@ -252,9 +270,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Similar HBC triangle perimeter to the rectangular triangle*
+*Perimeter of triangle HBC similar in a right triangle*
 
-> In a right triangle ABC the cathetes BC and CA measure 7 cm and 24 cm respectively. H is the projection of C on the hypotenuse AB. How much is the perimeter of the HBC triangle?
+> In a right triangle ABC the legs BC and CA measure 7 cm and 24 cm respectively. Let H be the projection of C onto the hypotenuse AB. What is the perimeter of triangle HBC?
 >
 > - **(A)** 262 25 cm,
 > - **(B)** 501 49 cm,
@@ -262,7 +280,10 @@ level: biennio
 > - **(D)** 801 49 cm,
 > - **(E)** 412 25 cm.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2008_biennio#q06|src_archimede_2008_biennio__Q06]]
 
 
 
@@ -295,9 +316,13 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Fraction traveled by the mother to meet Pietro
+*Fraction of the journey covered by the mother by the time she meets Pietro*
 
-> Peter's house and school are at both ends of a straight road. Peter's mother leaves the house and heads for school at the same time as Peter leaves the school and heads home. Peter's mother walks at twice the speed of Peter. How much of the way home from school will Peter's mother have gone by the time she meets him?
+> Pietro's home and school are at the two ends of a straight road.
+> Pietro's mother leaves home and heads towards school at the same moment
+> Pietro leaves school and heads towards home. Pietro's mother walks at
+> twice Pietro's speed. What fraction of the journey from home to school will
+> Pietro's mother have covered by the time she meets him?
 >
 > - **(A)** 1/3,
 > - **(B)** 2/5,
@@ -305,7 +330,10 @@ Fraction traveled by the mother to meet Pietro
 > - **(D)** 2/3,
 > - **(E)** 3/4.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2008_biennio#q07|src_archimede_2008_biennio__Q07]]
 
 
 
@@ -339,19 +367,21 @@ Fraction traveled by the mother to meet Pietro
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diameter of round biscuits in square shape*
+*Diameter of equal round biscuits cut from a square sheet*
 
-![[src_archimede_2008_biennio__prob8.png]]
-
-> The mother has a square-shaped, side-by-side, 40-cm-shaped slice of pasta from which she slices five round biscuits, all of them equal to each other, according to the pattern in the figure. What is the diameter of each cookie?
+> Mum has a square sheet of dough of side 40 cm, from which she cuts 5 round biscuits, all equal to one another, following the pattern in the figure. What is the diameter of each biscuit?
 >
-> - **(A)** 40( √ 2 −1) cm,
-> - **(B)** 10 √ 2 cm,
-> - **(C)** 20( √ 2 −1) cm,
-> - **(D)** 16 cm,
-> - **(E)** 6( √ 2 + 1) cm.                                          
+> - **(A)** 40( √ 2 −1) cm
+> - **(B)** 10 √ 2 cm
+> - **(C)** 20( √ 2 −1) cm
+> - **(D)** 16 cm
+> - **(E)** 6( √ 2 + 1) cm.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2008_biennio#q08|src_archimede_2008_biennio__Q08]]
 
 
 
@@ -382,9 +412,9 @@ Fraction traveled by the mother to meet Pietro
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting four-digit numbers with a maximum of five digits*
+*Counting four-digit numbers with 5 as the maximum digit*
 
-> How many four-digit natural numbers do the number 5 appear in once and only once and it is the largest number present in the number?
+> How many natural four-digit numbers contain the digit 5 exactly once and have 5 as the largest digit present in the number?
 >
 > - **(A)** 225,
 > - **(B)** 400,
@@ -392,7 +422,11 @@ Fraction traveled by the mother to meet Pietro
 > - **(D)** 525,
 > - **(E)** 600.
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2008_biennio#q09|src_archimede_2008_biennio__Q09]]
 
 
 
@@ -423,9 +457,9 @@ Fraction traveled by the mother to meet Pietro
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length ND given triangle area in square*
+*Length ND given the area of a triangle in a square*
 
-> In a 1 cm side ABCD square, a point M on the BC side and a point N on the CD side are given such that BM = ND. It is also known that the area of the AMN triangle is 4/9 cm2. What is the length of the ND segment?
+> In a square ABCD of side 1 cm, a point M on side BC and a point N on side CD are given such that BM = ND. It is also known that the area of triangle AMN is equal to 4/9 cm2. What is the length of segment ND?
 >
 > - **(A)** 1 4 cm,
 > - **(B)** 1 3 cm,
@@ -433,7 +467,10 @@ Fraction traveled by the mother to meet Pietro
 > - **(D)** √ 5−1 2 cm,
 > - **(E)** √ 3 2 cm.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2008_biennio#q10|src_archimede_2008_biennio__Q10]]
 
 
 
@@ -466,17 +503,22 @@ Fraction traveled by the mother to meet Pietro
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Term positive integers solutions to the quadratic equation*
+*Ordered triples of positive integers solving a quadratic equation*
 
-> How many distinct ordered sets (x, y, z) are formed of positive integers (strictly greater than zero) such that x2 + 2xy + y2 −z2 = 9 ?
+> How many distinct ordered triples (x, y, z) of positive integers (strictly greater than zero) are there such that
+> x2 + 2xy + y2 −z2 = 9 ?
 >
-> - **(A)** None of them.
-> - **(B)** two,
-> - **(C)** three,
-> - **(D)** four,
-> - **(E)** More than six.
+> - **(A)** none
+> - **(B)** two
+> - **(C)** three
+> - **(D)** four
+> - **(E)** more than six.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2008_biennio#q11|src_archimede_2008_biennio__Q11]]
 
 
 
@@ -505,9 +547,9 @@ Fraction traveled by the mother to meet Pietro
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of periodic decimal numbers 0,60 and 0,70*
+*Sum of repeating decimal numbers 0,60 and 0,70*
 
-> What's 0, 60 plus 0, 70?
+> How much is 0, 60 + 0, 70?
 >
 > - **(A)** 1, 3,
 > - **(B)** 1, 30,
@@ -515,7 +557,10 @@ Fraction traveled by the mother to meet Pietro
 > - **(D)** 1, 4,
 > - **(E)** 1, 40.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2008_biennio#q12|src_archimede_2008_biennio__Q12]]
 
 
 
@@ -547,9 +592,9 @@ Fraction traveled by the mother to meet Pietro
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multipleths of 5 or 7 less than or equal to 1000*
+*Multiples of 5 or 7 less than or equal to 1000*
 
-> How many are the positive integers multiple of at least one between 5 and 7 and less than or equal to 1000?
+> How many positive integers that are multiples of at least one of 5 and 7 and less than or equal to 1000 are there?
 >
 > - **(A)** 288,
 > - **(B)** 302,
@@ -557,7 +602,11 @@ Fraction traveled by the mother to meet Pietro
 > - **(D)** 342,
 > - **(E)** 382.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2008_biennio#q13|src_archimede_2008_biennio__Q13]]
 
 
 
@@ -591,17 +640,21 @@ Fraction traveled by the mother to meet Pietro
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pallines with zero given sum condition*
+*Balls marked zero, given a sum condition*
 
-> There are 20 balls in a bag, each with an integer between 0 and 10 (0 and 10 included). The number written on each ball if it's not zero is the sum of the numbers written on all the other balls. So the balls with zero on them are:
+> In a bag there are 20 balls, and on each is written an integer between 0 and 10 (0 and 10 included). The number written on each ball, if it is not zero, is the sum of the numbers written on all the other balls. Then the balls on which zero is written are:
 >
-> - **(A)** not more than five,
-> - **(B)** ten,
-> - **(C)** thirteen,
-> - **(D)** sixteen,
-> - **(E)** At least 18.
+> - **(A)** no more than five
+> - **(B)** ten
+> - **(C)** thirteen
+> - **(D)** sixteen
+> - **(E)** at least eighteen.
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_algebra|Algebra]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2008_biennio#q14|src_archimede_2008_biennio__Q14]]
 
 
 
@@ -638,11 +691,12 @@ Fraction traveled by the mother to meet Pietro
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Starting cases by eulerian route on roads*
+*Starting cases for an Eulerian path on the roads*
 
-![[src_archimede_2008_biennio__prob15.png]]
-
-> The figure next to it is the plan of a neighborhood, the points A, B, C and D are the houses and the segments are the streets. How many of the four houses can you start to make a path that passes once and only once from each street (perhaps passing more than once for the same house)?
+> The figure alongside is the plan of a neighbourhood, the points A, B, C and D
+> are the houses and the segments are the roads. From how many of the four
+> houses is it possible to start to make a path that passes exactly once through
+> each road (passing possibly more than once through the same house)?
 >
 > - **(A)** 0,
 > - **(B)** 1,
@@ -650,7 +704,11 @@ Fraction traveled by the mother to meet Pietro
 > - **(D)** 3,
 > - **(E)** 4.
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2008_biennio#q15|src_archimede_2008_biennio__Q15]]
 
 
 
@@ -705,31 +763,11 @@ Fraction traveled by the mother to meet Pietro
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area bounded by rope and arc in a circle divided into three*
+*Area bounded by two chords and an arc on a circle of radius 5 cm*
 
 ![[src_archimede_2008_biennio__prob16.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw (0,0) circle (2cm);
-  \coordinate (A) at (150:2);
-  \coordinate (B) at (30:2);
-  \coordinate (C) at (270:2);
-  \draw (A) -- (C);
-  \draw (B) -- (C);
-  \fill (A) circle (1pt);
-  \fill (B) circle (1pt);
-  \fill (C) circle (1pt);
-  \node[above left] at (A) {$A$};
-  \node[above right] at (B) {$B$};
-  \node[below] at (C) {$C$};
-  \node[above] at (90:2) {$D$};
-\end{tikzpicture}
-\end{document}
-```
-
-> The radius of the side circumference is 5 cm; in addition, points A, B and C divide the circumference into three arcs of equal length. Calculate the area bounded by the AC and BC strings and by the D-containing A and B extreme arcs.
+> The radius of the circle alongside is 5 cm; moreover the points A, B and C divide the circle into three arcs of equal length. Find the area bounded by the chords AC and BC and by the arc with endpoints A and B that contains D.
 >
 > - **(A)** 25( π 3 + √ 3 2 ) cm2,
 > - **(B)** 25( π 6 + √ 3) cm2,
@@ -737,7 +775,12 @@ Fraction traveled by the mother to meet Pietro
 > - **(D)** 25 √ 3 2 cm2,
 > - **(E)** 25 2 ( π 3 + √ 3 2 ) cm2.
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2008_biennio#q16|src_archimede_2008_biennio__Q16]]
 
 
 
@@ -772,11 +815,12 @@ Fraction traveled by the mother to meet Pietro
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of chess boxes numbered in brackets*
+*Number of chessboard squares in a serpentine numbering*
 
-![[src_archimede_2008_biennio__prob17.png]]
-
-> The boxes of a square chessboard are numbered as shown in the figure next to it. In the second column is box number 38 and the box in the third column which is on its own line is box number 43. How many boxes does the chessboard have?
+> The squares of a square chessboard are numbered
+> as shown in the figure alongside. In the second
+> column there is the square numbered 38 and the square in the
+> third column that is on the same row has the number 43. How many squares does the chessboard have?
 >
 > - **(A)** 144,
 > - **(B)** 160,
@@ -784,7 +828,10 @@ Fraction traveled by the mother to meet Pietro
 > - **(D)** 400,
 > - **(E)** 625. 1 2
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2008_biennio#q17|src_archimede_2008_biennio__Q17]]
 
 
 
@@ -816,9 +863,10 @@ Fraction traveled by the mother to meet Pietro
 <div class="qlang-split" data-lang="en"></div>
 
 
-*DC report on DE by ratio of rectangular areas*
+*Ratio DC to DE from a ratio of areas in a rectangle*
 
-> In an ABCD rectangle is E a point on the side of the CD. Knowing that the area of the ADE triangle is one fifth of the area of the ABCE trapezoid, calculate the ratio between the length of the DC segment and that of the DE segment.
+> In a rectangle ABCD, E is a point on side CD.
+> Given that the area of triangle ADE is one fifth of the area of trapezium ABCE, find the ratio between the length of segment DC and that of segment DE.
 >
 > - **(A)** 2,
 > - **(B)** 3,
@@ -826,7 +874,10 @@ Fraction traveled by the mother to meet Pietro
 > - **(D)** 5,
 > - **(E)** 6.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2008_biennio#q18|src_archimede_2008_biennio__Q18]]
 
 
 
@@ -857,17 +908,20 @@ Fraction traveled by the mother to meet Pietro
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Logical deduction from the negation of universal affirmation*
+*Logical deduction from the negation of a universal statement*
 
-> A camera-equipped satellite sent to the planet Papilla made it possible to establish that someone's belief that everyone on Papilla is fat and dirty is false. So now we know that:
+> A camera-equipped satellite sent to the planet Papilla has made it possible to establish that someone's belief is false: "on Papilla everyone is fat and dirty". So now we know that:
 >
-> - **(A)** On Papilla at least one inhabitant is thin and clean,
-> - **(B)** On Papilla all the inhabitants are thin and clean,
-> - **(C)** At least one inhabitant of Papilla is thin,
-> - **(D)** At least one inhabitant of Papilla is clean,
-> - **(E)** If everyone on Papilla is dirty, at least one of them is skinny.
+> - **(A)** on Papilla at least one inhabitant is thin and clean,
+> - **(B)** on Papilla all the inhabitants are thin and clean,
+> - **(C)** at least one inhabitant of Papilla is thin,
+> - **(D)** at least one inhabitant of Papilla is clean,
+> - **(E)** if on Papilla all the inhabitants are dirty, at least one of them is thin.
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2008_biennio#q19|src_archimede_2008_biennio__Q19]]
 
 
 
@@ -904,9 +958,14 @@ Fraction traveled by the mother to meet Pietro
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to choose a washing machine with distinct numbers*
+*Ways of choosing a trio of snow-clearers with distinct numbers*
 
-> Polisportiva I tropici organised a football tournament with 3 teams each consisting of 15 players (including reserves) with jerseys numbered 1 to 15. The night before the game, it was snowing, and to play, you need to clear the snow off the field. It is then decided to appoint a group of 3 washers by selecting one player per team so that there are no two players with the same number of jerseys. How many different ways can the washing machine group be formed?
+> The Polisportiva “I tropici” organised a football tournament in which 3
+> teams, each composed of 15 players (including reserves) with jerseys numbered
+> from 1 to 15, participate. The night before the matches it snowed and, in order to play, it is necessary
+> to clear the snow from the field. It is then decided to name a group of 3 snow-clearers
+> by choosing one player per team so that there are no two players with the
+> same jersey number. In how many different ways can the group of snow-clearers be formed?
 >
 > - **(A)** 48,
 > - **(B)** 455,
@@ -914,4 +973,8 @@ Fraction traveled by the mother to meet Pietro
 > - **(D)** 2730,
 > - **(E)** 3375.
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2008_biennio#q20|src_archimede_2008_biennio__Q20]]

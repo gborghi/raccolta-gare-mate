@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova prima n>1 dove la media dei quadrati è un quadrato perfetto*
+*Il primo intero $n > 1$ per cui la media di $1^2, \ldots, n^2$ è un quadrato perfetto*
 
-> Trova il primo intero $n > 1$ in modo tale che la media di $1^2, 2^2, 3^2, \ldots, n^2$ sia un quadrato perfetto.
+> Trovare il primo intero $n > 1$ tale che la media di $1^2, 2^2, 3^2, \ldots, n^2$ sia essa stessa un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1994#q01|src_bmo2_1994__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triangoli a lato intero non congruenti con un determinato perimetro*
+*Quanti triangoli non congruenti a lati interi hanno perimetro intero $p$*
 
-> Quanti diversi (cioè: se ci sono triangoli non congruenti in coppia con lati interi e perimetro interi $p$? (Esprimi la tua risposta in termini di $p$, considerando i casi in base al residuo di $p$ modulo 12.)
+> Quanti triangoli diversi (cioè a due a due non congruenti) ci sono con lati interi e con perimetro intero $p$? (Esprimere la risposta in funzione di $p$, considerando i casi secondo il resto di $p$ modulo 12.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1994#q02|src_bmo2_1994__Q02]]
 
 
 
@@ -82,11 +96,19 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Archivi AP AQ AR AS con angoli uguali; dimostrare l'identità del prodotto*
+*Dimostrare che $AR(AP + AR) = AQ(AQ + AS)$*
 
-> $AP$, $AQ$, $AR$, $AS$ sono accordi di un circolo dato con la proprietà che $\angle PAQ = \angle QAR = \angle RAS$.
-> 
-> Provare che $$AR(AP + AR) = AQ(AQ + AS).$$
+> $AP$, $AQ$, $AR$, $AS$ sono corde di una data circonferenza con la proprietà che $\angle PAQ = \angle QAR = \angle RAS$.
+>
+> Dimostrare che
+> $$AR(AP + AR) = AQ(AQ + AS).$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1994#q03|src_bmo2_1994__Q03]]
 
 
 
@@ -109,6 +131,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i quadrati perfetti mod 2^n*
+*Quanti quadrati perfetti ci sono modulo $2^n$*
 
 > Quanti quadrati perfetti ci sono (mod $2^n$)?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1994#q04|src_bmo2_1994__Q04]]

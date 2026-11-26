@@ -32,14 +32,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number formatted with given digits (sum and product)*
+*Maximum number formed with the given digits (sum and product)*
 
-> Six digits for two numbers
-> You have the digits 1, 3, 4, 7, 8, 9 available to form two three-digit numbers each, and you
-> must use all of them. You want both the sum and the product of the two numbers you form to be as
-> large as possible. What is the larger of the two numbers?
+> Six Digits for Two Numbers You have the digits 1, 3, 4, 7, 8, and 9 available to form two three-digit numbers, and you must use all of them. You want both the sum and the product of the two numbers you form to be as large as possible. Which of the two numbers is the larger one?
 
-**Answer:** 0941
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2010_semifinale#q01|src_kangourou_squadre_2010_semifinale__Q01]]
 
 
 
@@ -67,15 +68,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of passengers with separate rows (occupations)
+*Maximum passengers with separate queues (occupancies)*
 
-> On the plane
-> The seats of a plane are arranged in 60 "horizontal" rows of 6 seats each, marked with the
-> letters A,B, …, F. When all the passengers have taken their seats, the following circumstance occurs:
-> there are no two rows in which the occupied seats are exactly the same, that is, all and only those
-> marked with the same letters. What is the maximum number of passengers on that plane?
+> On the plane: The seats on a plane are arranged in 60 "horizontal" rows of 6 seats each, with the rows designated by the letters A, B, …, F. When all the passengers have taken their seats, the following situation arises: there are no two rows in which the occupied seats are exactly the same—that is, the seats are precisely and only those designated by the same letters. What is the maximum number of passengers that can be on that plane?
 
-**Answer:** 0189
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_squadre_2010_semifinale#q02|src_kangourou_squadre_2010_semifinale__Q02]]
 
 
 
@@ -101,13 +103,16 @@ Maximum number of passengers with separate rows (occupations)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of non-adjacent squares on a chessboard 8x8*
+*Pairs of non-adjacent squares on an 8x8 chessboard*
 
-> The chessboard
-> How many (unordered) pairs of non-adjacent squares are there on an
-> 8 × 8 chessboard? (Two squares are called "adjacent" if they are different and share a side.)
+> The Chessboard: How many (unordered) pairs of non-adjacent squares are there on an 8 × 8 chessboard? (Two squares are said to be "adjacent" if they are different and share a side.)
 
-**Answer:** 1904
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_squadre_2010_semifinale#q03|src_kangourou_squadre_2010_semifinale__Q03]]
 
 
 
@@ -139,19 +144,18 @@ Maximum number of passengers with separate rows (occupations)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area covered by exactly two adhesives on the board*
+*The area covered by exactly two stickers on the board*
 
 ![[src_kangourou_squadre_2010_semifinale__prob4.png]]
 
-> Maria's board
-> Maria wants to cover a rectangular wooden board with sides 60 and 40 cm
-> using 6 square stickers, each with a side of 22 cm, without cutting them or
-> folding them. So she must overlap them partially and the final result is
-> the one shown in the figure (where the white areas are covered by a single
-> sticker, the gray ones by two stickers, the black ones by more than two). What
-> is, in cm², the area of the surface covered by exactly two stickers?
+> Maria wants to cover a rectangular wooden board measuring 60 by 40 cm using 6 square stickers, each 22 cm on a side, without cutting or folding them. She must therefore overlap them partially, and the final result is as shown in the figure (where the white areas are covered by a single sticker, the grey areas by two stickers, and the black areas by more than two). What is, in cm², the area of the surface covered by exactly two stickers?
 
-**Answer:** 0408
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_squadre_2010_semifinale#q04|src_kangourou_squadre_2010_semifinale__Q04]]
 
 
 
@@ -179,15 +183,16 @@ Maximum number of passengers with separate rows (occupations)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last two digits of the last sequence term q=p+p^2*
+*The last two digits of the last term of the sequence q=p+p^2*
 
-> A long sequence
-> Imagine a sequence of 2010 positive integers constructed with the following rule. The first (the
-> smallest) is 3 and each of the following ones is the sum of the previous one with the square of the previous one
-> (that is, if q is a number in the sequence and p is the number that precedes it in the sequence, we have q = p +
-> p²). What are the last two digits of the last (the largest) one?
+> A Long Sequence Imagine a sequence of 2010 positive integers constructed according to the following rule. The first (the smallest) is 3, and each subsequent term is the sum of the preceding term and the square of the preceding term (that is, if q is a term in the sequence and p is the term that precedes q in the sequence, then q = p + p²). What are the last two digits of the last (the largest) term?
 
-**Answer:** 0092
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2010_semifinale#q05|src_kangourou_squadre_2010_semifinale__Q05]]
 
 
 
@@ -215,16 +220,15 @@ Maximum number of passengers with separate rows (occupations)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes to correct 84 papers together*
+*Minutes to correct 84 assignments together*
 
-> Professors at work
-> To grade 32 mathematics papers at the middle school exam, one professor takes 80
-> minutes; another professor, to grade the same number of papers, takes only 60 minutes.
-> Each professor takes the same time to grade each paper. If they were to team up and
-> split 84 papers, so as to start and finish grading together, how many minutes
-> would they take?
+> Professor at Work To grade 32 mathematics exam papers for the third-year middle-school exam, one professor takes 80 minutes; another professor, to grade the same number of papers, takes only 60 minutes. Each professor takes the same amount of time to grade each paper. If 84 papers were combined and divided up so that they would start and finish grading together, how many minutes would they take?
 
-**Answer:** 0090
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2010_semifinale#q06|src_kangourou_squadre_2010_semifinale__Q06]]
 
 
 
@@ -249,12 +253,16 @@ Maximum number of passengers with separate rows (occupations)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interest sum equal to n in the chain of inequalities*
+*Sum of even integers n in a chain of inequalities*
 
-> A chain of inequalities
-> Find the sum of all positive even integers n such that – 53 < 2010/(53 – n) < 53 – n.
+> A chain of inequalities: Find the sum of all positive even integers n such that –53 < 2010/(53 – n) < 53 – n.
 
-**Answer:** 0302
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_squadre_2010_semifinale#q07|src_kangourou_squadre_2010_semifinale__Q07]]
 
 
 
@@ -281,15 +289,15 @@ Maximum number of passengers with separate rows (occupations)
 <div class="qlang-split" data-lang="en"></div>
 
 
-Members of the association with double A of B and 64%
+*Members of the association with A double of B and 64%*
 
-> The election of the president
-> The president of an association was chosen by all the members from two candidates, A and B. A
-> obtained twice the votes of B. 3 members of the association cast a blank ballot, while
-> each of the others voted only for A or only for B. In this way, A obtained 64% of the
-> total possible votes. How many members is the association composed of?
+> Election of the President The president of an association was chosen by all the members from among two candidates, A and B. A received twice as many votes as B. Three members of the association cast blank ballots, while each of the others voted for A only or for B only. In this way, A received 64% of the total possible votes. How many members does the association have?
 
-**Answer:** 0075
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_squadre_2010_semifinale#q08|src_kangourou_squadre_2010_semifinale__Q08]]
 
 
 
@@ -318,16 +326,16 @@ Members of the association with double A of B and 64%
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum squares to color to cover a 25x25 grid*
+*Minimum number of squares to color to cover a 25x25 grid*
 
-> A grid to color
-> You have a square grid formed by the arrangement of 25 × 25 squares of side 1, and you have fun
-> coloring red the border of the possible squares whose sides are contained in the lattice highlighted
-> by the grid, wherever they are and whatever size they are. What is the minimum number of squares of
-> which you need to color the border if you want all the lines of the starting grid to be
-> entirely colored red?
+> A Coloring Grid You have a square grid made up of 25 × 25 unit squares placed side by side, and you enjoy coloring red the edges of all possible squares whose sides lie within the grid pattern outlined by the grid—wherever such squares are located and whatever their size. What is the minimum number of squares whose edges you need to color in order for all the lines of the original grid to be entirely colored red?
 
-**Answer:** 0048
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_squadre_2010_semifinale#q09|src_kangourou_squadre_2010_semifinale__Q09]]
 
 
 
@@ -353,13 +361,16 @@ Members of the association with double A of B and 64%
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Book pages with 3005 written digits*
+*Pages of the book with 3005 digits written on them*
 
-> A book with many pages
-> The pages of a book are numbered starting from 1. To number all the pages, there were written
-> a total of 3005 digits. How many pages does the book have?
+> A book with many pages The pages of a book are numbered starting from 1. To number all the pages, a total of 3005 digits were written. How many pages does the book have?
 
-**Answer:** 1028
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2010_semifinale#q10|src_kangourou_squadre_2010_semifinale__Q10]]
 
 
 
@@ -386,14 +397,16 @@ Members of the association with double A of B and 64%
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer sums not expressed as sums of 5 and 7*
+*Integers that cannot be expressed as the sum of 5 and 7*
 
-> Constrained sums
-> Many positive integers, but not all, can be obtained as a sum of addends each
-> of which is either 5 or 7. Write the sum of all positive integers that cannot be
-> obtained in this way; write [0000] in the case that there are infinitely many of these numbers.
+> Constrained sums Many positive integers, but not all of them, can be obtained as the sum of addends each of which is either 5 or 7. Write the sum of all positive integers that cannot be obtained in this way; write [0000] if there are infinitely many such numbers.
 
-**Answer:** 0114
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2010_semifinale#q11|src_kangourou_squadre_2010_semifinale__Q11]]
 
 
 
@@ -417,12 +430,15 @@ Members of the association with double A of B and 64%
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of 4 digits that is square and perfect cube*
+*A 4-digit number that is both a perfect square and a perfect cube*
 
-> A square that is a cube
-> What is the only 4-digit number that is simultaneously a perfect square and a perfect cube?
+> A square that is a cube What is the only four-digit number that is simultaneously a perfect square and a perfect cube?
 
-**Answer:** 4096
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2010_semifinale#q12|src_kangourou_squadre_2010_semifinale__Q12]]
 
 
 
@@ -447,12 +463,16 @@ Members of the association with double A of B and 64%
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many 4-digit ABBA numbers are multiples of 11*
+*How many 4-digit ABBA numbers are multiples of 11?*
 
-> Symmetric numbers
-> How many 4-digit (significant) numbers of the form ABBA are multiples of 11?
+> Symmetric numbers: How many 4-digit (significant-digit) numbers of the form ABBA are multiples of 11?
 
-**Answer:** 0090
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2010_semifinale#q13|src_kangourou_squadre_2010_semifinale__Q13]]
 
 
 
@@ -479,15 +499,15 @@ Members of the association with double A of B and 64%
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Selling price of aged cheese with 15% profit*
+*Selling price of aged cheese with a 15% profit margin*
 
-> The price of the cheese
-> Producing one quintal of a prized fresh cheese costs a dairy 1200 euros. Before
-> being sold, the cheese must be left to age, and the aging makes it lose 1/5 of its initial
-> weight. At how many euros must one quintal of aged cheese be sold, if the dairy
-> wants to earn 15% of what it spends to produce it?
+> Cheese price: Producing a quintal of a high-quality fresh cheese costs a cheese dairy 1,200 euros. Before it is sold, the cheese must be left to mature, and maturation causes it to lose one-fifth of its initial weight. At what price, in euros, must a quintal of matured cheese be sold if the cheese dairy wants to make a 15% profit on what it spends to produce it?
 
-**Answer:** 1725
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2010_semifinale#q14|src_kangourou_squadre_2010_semifinale__Q14]]
 
 
 
@@ -514,11 +534,13 @@ Members of the association with double A of B and 64%
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit square code with remainder 1 from 2 to 9*
+*Square 4-digit code with remainder 1, from 2 to 9*
 
-> The secret code
-> Paolo has discovered a trick to remember his four-digit code number: he observed that
-> it is a perfect square and that, divided by any integer between 2 and 9 inclusive, it gives remainder 1. What
-> is Paolo's code number?
+> The Secret Code Paolo has discovered a trick for remembering his four-digit code number: he has noticed that it is a perfect square and that, when divided by any integer between 2 and 9 inclusive, it leaves a remainder of 1. What is Paolo's code number?
 
-**Answer:** 5041
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2010_semifinale#q15|src_kangourou_squadre_2010_semifinale__Q15]]

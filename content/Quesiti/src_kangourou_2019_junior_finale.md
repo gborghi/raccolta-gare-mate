@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Winning strategy in the 66-token game (who takes the last one loses)*
+*The winning strategy in the 66-token game (whoever takes the last one loses)*
 
-> Gianni and Elvira play like this. There are 66 tokens on the table, each of which can take 1 or 2 or 3 or 4 or 5 tokens at each turn. Whoever is forced to take the last token loses. Elvira, who wants to win, wants to be the one to start at all costs. Why?
+> Gianni and Elvira play like this. There are 66 tokens on the table: on each turn, each of them can take 1 or 2 or 3 or 4 or 5 tokens. Whoever is forced to take the last token loses. Elvira, who wants to win, wants at all costs to be the one to start. Why?
 
-**Answer:** 35
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_finale#qj1|src_kangourou_2019_junior_finale__QJ1]]
 
 
 
@@ -58,11 +63,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of 4 integers at vertices with divisibility constraints*
+*Minimum sum of 4 integers at the vertices with divisibility constraints*
 
-> Every vertex of a square has a positive integer written on it. If two vertices are adjacent, one of the two corresponding integers divides the other; if two vertices are opposite, neither of the two corresponding integers divides the other. What's the smallest possible value for the sum of these four integers?
+> A positive integer was written at each vertex of a square. If two vertices are adjacent, one of the two corresponding integers divides the other; if two vertices are opposite, neither of the two corresponding integers divides the other. What is the smallest possible value of the sum of these four integers?
 
-**Answer:** 35
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_finale#qj2|src_kangourou_2019_junior_finale__QJ2]]
 
 
 
@@ -84,9 +94,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bruno and Carlo can have a day of rest together (sports programmes)*
+*Can Bruno and Carlo have a common day off (sports programs)?*
 
-> Bruno and Carlo practice three sports: football, volleyball, and swimming, no more than one a day. A day of football must be followed by two days of rest, a day of volleyball by one day of rest, a day of swimming does not require days of rest and may replace a day of rest. Each person has a training programme that is repeated periodically: in each period each person practices each sport the same number of times and the minimum interval of time between two consecutive times in which one of them practices the same sport is the same for all sports. The programme also requires that rest days be reduced to the minimum possible. Bruno and Carlo each started their own program on the same day. They're doing different sports today and they'd like to go out and have fun on the first day of rest for both of them. Can they be sure that they will succeed in their endeavor?
+> Bruno and Carlo practice three sports: football, volleyball, and swimming, no more than one sport per day. A day of football must be followed by two days of rest; a day of volleyball by one day of rest; a day of swimming requires no days of rest and can replace a day of rest. Each of them has a training schedule that repeats periodically: in each period, each of them practices each sport the same number of times, and the minimum time interval between two consecutive times when one of them practices the same sport is the same for all sports. Moreover, the schedule provides for minimizing rest days as much as possible. Bruno and Carlo each started their own schedule on the same day. Today they are practicing different sports and would like to go and have some fun on the first day that is a rest day for both of them. Can they be certain of achieving their aim?
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_finale#qj3|src_kangourou_2019_junior_finale__QJ3]]
 
 
 
@@ -110,11 +126,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*After how many years the full moon returns on the same day (cycle 28 days)*
+*After how many years does a full moon fall on the same day again (28-day cycle)?*
 
-> 4) year N + 3: in the following 4 years days are added according to the scheme: 1+1+2+1. After the first 20 years necessary to add 25 days, it takes another 3 years in the first case and only another 2 in the second and third cases to add a lunar month; instead, in the fourth case, 22 years add only 27 days and 23 add 29: to add 28+28=56=55+1 days, just pass 44 + 1 = 45 years. However, if the day in question is between 1/1 and 28/2, the patterns are the same but shifted (2→1, 3→2, 4→3, 1→4). You never get to 2100 anyway. (**) More generally, it can be noted that the longest minimum time interval after which a certain lunar phase occurs on 29 February is always no longer than 248 years. Since the minimum period with which it recurs
+> 4) Year N + 3: over the following 4 years, days are added according to the pattern: 1+1+2+1. After the first 20 years required to add 25 days, in the first case just 3 more years suffice, and in the second and third cases only 2 more years suffice to add one lunar month; in the fourth case, however, 22 years add only 27 days, and 23 years add 29 days: to add 28+28=56=55+1 days, it is enough to let 44 + 1 = 45 years pass. If, on the other hand, the day in question falls between 1/1 and 28/2, the patterns are the same but shifted (2→1, 3→2, 4→3, 1→4). In any case, 2100 is never reached. (**) More generally, it can be noted that the longest minimum time interval after which a given lunar phase reoccurs on February 29 is always no greater than 248 years. Since the minimum period with which it reoccurs
 
-**Answer:** 248
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_finale#qj4|src_kangourou_2019_junior_finale__QJ4]]
 
 
 
@@ -138,11 +159,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For which n the number 5^(5n+1)+4^(5n+2)+3^(5n) is divisible by 11*
+*For which n is the number 5^(5n+1) + 4^(5n+2) + 3^(5n) divisible by 11?*
 
-> For which non-negative integers $n$, the number $5^{5n+1} + 4^{5n+2} + 3^{5n}$ is divisible by 11?
+> For which non-negative integers $n$ is the number $5^{5n+1} + 4^{5n+2} + 3^{5n}$ divisible by 11?
 
-**Answer:** all
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_finale#qj5|src_kangourou_2019_junior_finale__QJ5]]
 
 
 
@@ -167,8 +193,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Circumcenter of AEF lies on the ray AB (acute triangle orthocenter)*
+*The circumcenter of AEF lies on the ray AB (orthocenter of an acute triangle)*
 
 ![[src_kangourou_2019_junior_finale__probj6.png]]
 
-> $ABC$ is an acute triangle with orthocenter $H$, with side $AB$ longer than side $AC$; denote by $E$ the point symmetric to $C$ with respect to the altitude drawn from $A$ and by $F$ the intersection of the line passing through $E$ and $H$ with the line passing through $A$ and $C$. Prove that the circumcenter of triangle $AEF$ lies on the ray starting from $A$ and passing through $B$.
+> $ABC$ is an acute-angled triangle with orthocenter $H$, and side $AB$ is longer than side $AC$; denote by $E$ the point symmetric to $C$ with respect to the altitude drawn from $A$, and denote by $F$ the intersection of the line passing through $E$ and $H$ with the line passing through $A$ and $C$. Prove that the circumcenter of triangle $AEF$ lies on the ray emanating from $A$ and passing through $B$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_finale#qj6|src_kangourou_2019_junior_finale__QJ6]]

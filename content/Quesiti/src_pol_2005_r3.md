@@ -30,9 +30,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli interi positivi (x,y,n) con (x-y)^n = xy.*
+*Terne di interi positivi (x, y, n) con (x−y)^n = xy*
 
-> Trova tutti i triples $(x, y, n)$ di numeri interi positivi che soddisfano l'equazione $$(x - y)^n = xy.$$
+> Trovare tutte le terne $(x, y, n)$ di interi positivi che soddisfano l'equazione
+>
+> $$(x - y)^n = xy.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2005_r3#q01|src_pol_2005_r3__Q01]]
 
 
 
@@ -55,9 +63,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero convex inscritto in cerchio o; punto S con le equazioni di angolo indicate; bisector di angolo ASB incontra il cerchio a P, Q; prova PS=QS.*
+*Quadrilatero inscritto e punto interno con due coppie di angoli uguali: la bisettrice di ASB taglia la circonferenza in punti equidistanti da S*
 
-> Un quadrilaterale convex $ABCD$ è inserito in un cerchio $o$. Il punto $S$ all'interno del cerchio è tale che $\angle SAD = \angle SCB$ e $\angle SDA = \angle SBC$. Il bisettore di angolo $ASB$ interseca il cerchio $o$ nei punti $P$ e $Q$. Prove che $PS = QS$.
+> Un quadrilatero convesso $ABCD$ è inscritto in una circonferenza $o$. Un punto $S$ interno alla circonferenza è tale che $\angle SAD = \angle SCB$ e $\angle SDA = \angle SBC$. La bisettrice dell'angolo $ASB$ interseca la circonferenza $o$ nei punti $P$ e $Q$. Dimostrare che $PS = QS$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2005_r3#q02|src_pol_2005_r3__Q02]]
 
 
 
@@ -80,9 +94,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2n x 2n tabella, 4n^2 reali con somma 0, ciascuna al massimo 1 in valore assoluto; dimostrare che ogni somma di colonne o righe ha un valore assoluto al massimo n.*
+*Scacchiera 2n×2n, numeri reali di somma 0 e valore assoluto al più 1: la somma di una riga o di una colonna ha valore assoluto al più n*
 
-> In una tabella $2n \times 2n$ ($n \in \mathbb{N}$) sono scritti $4n^2$ numeri reali con la somma $0$ (un numero in ogni cella). Il valore assoluto di qualsiasi numero non supera $1$. Prova che il valore assoluto di tutti i numeri di una colonna o di una riga non supera $n$.
+> In una scacchiera $2n \times 2n$ ($n \in \mathbb{N}$) sono scritti $4n^2$ numeri reali di somma $0$, uno per casella. Il valore assoluto di ciascuno non supera $1$. Dimostrare che il valore assoluto della somma dei numeri di una colonna o di una riga non supera $n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2005_r3#q03|src_pol_2005_r3__Q03]]
 
 
 
@@ -107,9 +127,19 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato c>-2, una somma di termini di radice quadrata uguale a sqrt(c+2) volte la somma della x_i implica c=2 o tutte le x_i uguali.*
+*Se una somma ciclica di radici uguaglia la somma dei termini per una costante, allora la costante è 2 oppure i termini sono uguali*
 
-> Si dà un numero reale $c > -2$. Prova che se i numeri positivi $x_1, x_2, \ldots, x_n$ soddisfano $$\sqrt{x_1^2 + cx_1 x_2 + x_2^2} + \sqrt{x_2^2 + cx_2 x_3 + x_3^2} + \cdots + \sqrt{x_n^2 + cx_n x_1 + x_1^2} = \sqrt{c+2}\,(x_1 + x_2 + \cdots + x_n),$$, $c = 2$ o $x_1 = x_2 = \cdots = x_n$.
+> È dato un numero reale $c > -2$. Dimostrare che, se numeri positivi $x_1, x_2, \ldots, x_n$ soddisfano
+>
+> $$\sqrt{x_1^2 + cx_1 x_2 + x_2^2} + \sqrt{x_2^2 + cx_2 x_3 + x_3^2} + \cdots + \sqrt{x_n^2 + cx_n x_1 + x_1^2} = \sqrt{c+2}\,(x_1 + x_2 + \cdots + x_n),$$
+>
+> allora $c = 2$ oppure $x_1 = x_2 = \cdots = x_n$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2005_r3#q04|src_pol_2005_r3__Q04]]
 
 
 
@@ -134,9 +164,19 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per l'intero k>1 e m=4k^2-5, trovare l'intero positivo a,b così la ricorrenza x_0=a, x_1=b, x_{n+2}=x_{n+1}+x_n ha tutti i termini coprime a m.*
+*Per k > 1 e m = 4k^2 − 5 esistono inizi positivi di una successione alla Fibonacci i cui termini sono tutti coprimi con m*
 
-> $k > 1$ sia un numero intero e $m = 4k^2 - 5$. Mostra che esistono integri positivi $a$ e $b$ in modo tale che la sequenza $(x_n)$ definita da $$x_0 = a, \quad x_1 = b, \quad x_{n+2} = x_{n+1} + x_n \quad \text{for } n = 0, 1, 2, \ldots$$ abbia tutti i suoi termini relativamente primi a $m$.
+> Sia $k > 1$ un intero e sia $m = 4k^2 - 5$. Dimostrare che esistono interi positivi $a$ e $b$ tali che la successione $(x_n)$ definita da
+>
+> $$x_0 = a, \quad x_1 = b, \quad x_{n+2} = x_{n+1} + x_n \quad \text{for } n = 0, 1, 2, \ldots$$
+>
+> abbia tutti i termini coprimi con $m$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2005_r3#q05|src_pol_2005_r3__Q05]]
 
 
 
@@ -159,6 +199,12 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ogni esagono convex dell'area 1 contiene un esagono convex dell'area almeno 3/4.*
+*Ogni esagono convesso di area 1 ne contiene uno convesso di area almeno 3/4*
 
-> Indicare che ogni esagono convexo di superficie $1$ contiene un esagono convexo di superficie non inferiore a $\dfrac{3}{4}$.
+> Dimostrare che ogni esagono convesso di area $1$ contiene un esagono convesso di area non minore di $\dfrac{3}{4}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_pol_2005_r3#q06|src_pol_2005_r3__Q06]]

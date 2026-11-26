@@ -30,9 +30,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cordo, punto medio, cerchio tangente e rapporto di distanza*
+*Corda, punto medio, cerchio tangente e relazione di distanza*
 
-> Che $AB$ sia un cordone di un cerchio $\mathscr{C}_1$ che non è diametro e $M$ sia il punto medio di $AB$. Il $T$ deve essere un punto sul cerchio $\mathscr{C}_2$ con $OM$ come diametro. La tangente di $\mathscr{C}_2$ a $T$ incontra $\mathscr{C}_1$ a $P$. Indicare che $$PA^2 + PB^2 = 4PT^2.$$
+> Sia $AB$ una corda di una circonferenza $\mathscr{C}_1$ che non sia un diametro, e sia $M$ il punto medio di $AB$. Sia $T$ un punto sulla circonferenza $\mathscr{C}_2$ avente $OM$ come diametro. La tangente a $\mathscr{C}_2$ in $T$ incontra $\mathscr{C}_1$ in $P$. Dimostrare che
+> $$PA^2 + PB^2 = 4PT^2.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1998#q01|src_inmo_1998__Q01]]
 
 
 
@@ -57,7 +65,14 @@ level: INMO
 
 *Condizione di razionalità per la somma di due radici quadrate*
 
-> $a$ e $b$ siano numeri reali positivi. Prova che se $\sqrt{a} + \sqrt{b}$ è un numero razionale, allora lo sono anche $\sqrt{a}$ e $\sqrt{b}$.
+> Siano $a$ e $b$ numeri reali positivi. Dimostrare che, se $\sqrt{a} + \sqrt{b}$ è un numero razionale, allora anche $\sqrt{a}$ e $\sqrt{b}$ sono numeri razionali.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1998#q02|src_inmo_1998__Q02]]
 
 
 
@@ -80,9 +95,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Divisibilità per 5 per un polinomio valutato a un intero*
+*Divisibilità per 5 per un polinomio valutato in un numero intero*
 
-> $p, q, r, s$ siano quattro integri con $5 \mid s$. Se vi è un intero $a$ per il quale $pa^2 + qa + r$ è divisibile per 5, dimostrare che vi è un intero $b$ tale che $sb^2 + rb + q$ sia anche divisibile per 5.
+> Sia $p, q, r, s$ un insieme di quattro interi con $5 \mid s$. Se esiste un intero $a$ tale che $pa^2 + qa + r$ è divisibile per 5, dimostrare che esiste un intero $b$ tale che anche $sb^2 + rb + q$ è divisibile per 5.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_1998#q03|src_inmo_1998__Q03]]
 
 
 
@@ -105,9 +127,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero ciclico con radius unitario e diagonali uguali è un quadrato*
+*Un quadrilatero ciclico con raggio circoscritto unitario e diagonali uguali è un quadrato*
 
-> Un quadrilaterale convex $ABCD$ è inserito in un cerchio di raggio unitario. Mostra che se $AB \cdot BC \cdot CD \cdot DA \ge 4$, allora $ABCD$ è un quadrato.
+> Un quadrilatero convesso $ABCD$ è inscritto in una circonferenza di raggio unitario. Dimostrare che, se $AB \cdot BC \cdot CD \cdot DA \ge 4$, allora $ABCD$ è un quadrato.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1998#q04|src_inmo_1998__Q04]]
 
 
 
@@ -134,9 +163,20 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Real quadratico con radici complesse implica disuguaglianza triangolare*
+*Una quadratica reale con radici complesse implica la disuguaglianza triangolare*
 
-> Supponiamo che $a, b, c$ siano numeri reali in modo tale che l'equazione quadrata $$x^2 - (a + b + c)x + (ab + bc + ca) = 0$$ abbia radici della forma $\alpha \pm i\beta$, dove $\alpha > 0$ e $\beta \neq 0$ sono numeri reali. Mostrare che: a) I numeri $a, b, c$ sono tutti positivi. b) I numeri $\sqrt{a}$, $\sqrt{b}$, $\sqrt{c}$ sono i lati di un triangolo.
+> Siano $a, b, c$ numeri reali tali che l'equazione quadratica
+> $$x^2 - (a + b + c)x + (ab + bc + ca) = 0$$
+> abbia radici della forma $\alpha \pm i\beta$, dove $\alpha > 0$ e $\beta \neq 0$ sono numeri reali. Dimostrare che:
+> (a) I numeri $a, b, c$ sono tutti positivi.
+> (b) I numeri $\sqrt{a}$, $\sqrt{b}$, $\sqrt{c}$ sono i lati di un triangolo.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_inmo_1998#q05|src_inmo_1998__Q05]]
 
 
 
@@ -159,6 +199,13 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scegliere n numeri interi da 0..2n in modo che la media sia un intero, trovare n minimo*
+*Scegli n interi nell'intervallo 0..2n in modo che la media sia un intero; trova il valore minimo di n*
 
-> Vogliamo scegliere $n$ dei numeri interi $2n$ $0, 1, 2, \ldots, 2n-1$ in modo tale che la media dei numeri interi $n$ scelti sia un numero intero e il più piccolo possibile. Mostrare che questo può essere fatto per ogni intero positivo $n$ e trovare questo valore più piccolo.
+> Vogliamo scegliere $n$ degli $2n$ interi $0, 1, 2, \ldots, 2n-1$ in modo che la media degli $n$ interi scelti sia un numero intero e il più piccolo possibile. Dimostrare che ciò è possibile per ogni intero positivo $n$ e determina questo valore minimo.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_1998#q06|src_inmo_1998__Q06]]

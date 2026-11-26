@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricorrenza con x_6=144 e x_{n+3}=x_{n+2}(x_{n+1}+x_n); trovare x_7.*
+*Sette interi positivi legati da una ricorrenza: se il sesto vale 144, trovare il settimo*
 
-> I numeri interi positivi $x_1, x_2, \ldots, x_7$ soddisfano $x_{n+3} = x_{n+2}(x_{n+1} + x_n)$ per $n = 1, 2, 3, 4$. Se $x_6 = 144$, trovare $x_7$.
+> Interi positivi $x_1, x_2, \ldots, x_7$ soddisfano $x_{n+3} = x_{n+2}(x_{n+1} + x_n)$ per $n = 1, 2, 3, 4$. Se $x_6 = 144$, trovare $x_7$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_1997_r3#q01|src_pol_1997_r3__Q01]]
 
 
 
@@ -56,9 +62,19 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti i tripli reali (x,y,z) che soddisfano due equazioni polinomiche simmetriche.*
+*Trovare tutte le terne reali che soddisfano le due equazioni date*
 
-> Trova tutti i triples $(x, y, z)$ dei numeri reali che soddisfano $$3(x^2 + y^2 + z^2) = 1,$$ $$x^2 y^2 + y^2 z^2 + z^2 x^2 = xyz(x + y + z)^3.$$
+> Trovare tutte le terne $(x, y, z)$ di numeri reali che soddisfano
+>
+> $$3(x^2 + y^2 + z^2) = 1,$$
+>
+> $$x^2 y^2 + y^2 z^2 + z^2 x^2 = xyz(x + y + z)^3.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_1997_r3#q02|src_pol_1997_r3__Q02]]
 
 
 
@@ -81,9 +97,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I medi di tre facce di un tetraedro da D fanno angoli uguali con i loro bordi; dimostrano una disuguaglianza di superficie.*
+*Mediane delle facce di un tetraedro, uscenti da D, che formano angoli uguali con gli spigoli di arrivo: ogni faccia ha area minore della somma delle altre due*
 
-> I media delle facce $ABD, ACD, BCD$ di un tetraedro $ABCD$ prelevati da $D$ fanno angoli uguali ai bordi a cui sono stati portati. Prova che la superficie di ciascuna faccia $ABD, ACD, BCD$ è inferiore alla somma delle aree delle altre due.
+> Le mediane delle facce $ABD, ACD, BCD$ di un tetraedro $ABCD$, condotte da $D$, formano angoli uguali con gli spigoli su cui arrivano. Dimostrare che l'area di ciascuna delle facce $ABD, ACD, BCD$ è minore della somma delle aree delle altre due.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_1997_r3#q03|src_pol_1997_r3__Q03]]
 
 
 
@@ -106,9 +128,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con a_1=0, a_n = a_{floor(n/2)} + (-1)^{n(n+1)/2}; indici di conteggio n in [2^k, 2^{k+1}) con a_n=0.*
+*Successione con il termine a metà indice e un segno: per ogni blocco tra 2^k e 2^{k+1}, quanti termini sono nulli*
 
-> Considera la sequenza data da $a_1 = 0$ e $a_n = a_{\lfloor n/2 \rfloor} + (-1)^{\frac{n(n+1)}{2}}$ per $n > 1$. Per ogni numero intero $k \geq 0$, trovare il numero di indici $n$ con $2^k \leq n < 2^{k+1}$ tale che $a_n = 0$.
+> Si consideri la successione data da $a_1 = 0$ e da $a_n = a_{\lfloor n/2 \rfloor} + (-1)^{\frac{n(n+1)}{2}}$ per $n > 1$. Per ogni intero $k \geq 0$, trovare il numero di indici $n$ con $2^k \leq n < 2^{k+1}$ tali che $a_n = 0$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_1997_r3#q04|src_pol_1997_r3__Q04]]
 
 
 
@@ -132,9 +160,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCDE pentagono convex con DC=DE, angolo DCB=angolo DEA=90 deg; F su AB con AF:BF=AE:BC; dimostrare due ugualità angolari.*
+*Pentagono convesso con due angoli retti e due lati uguali: uguaglianza di due coppie di angoli*
 
-> Si dà un pentagono convexo $ABCDE$ con $DC = DE$ e $\angle DCB = \angle DEA = 90^\circ$. Il segmento $AB$ deve contenere un punto $F$ in modo tale che $AF : BF = AE : BC$. Provare che $$\angle FCE = \angle ADE \quad \text{and} \quad \angle FEC = \angle BDC.$$
+> È dato un pentagono convesso $ABCDE$ con $DC = DE$ e $\angle DCB = \angle DEA = 90^\circ$. Sia $F$ un punto del segmento $AB$ tale che $AF : BF = AE : BC$. Dimostrare che
+>
+> $$\angle FCE = \angle ADE \quad \text{and} \quad \angle FEC = \angle BDC.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_1997_r3#q05|src_pol_1997_r3__Q05]]
 
 
 
@@ -157,6 +193,12 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n punti su un cerchio unitario; q = numero di segmenti con punti terminali tra i punti di lunghezza superiori a sqrt 2; prova 3q <= n^2.*
+*n punti su una circonferenza di raggio 1: il numero di corde più lunghe di radice di 2 è al più n^2/3*
 
-> Si devono dare $n$ punti distinti su un cerchio di raggio $1$. Il $q$ è il numero dei segmenti con punti terminali nei punti dati la cui lunghezza è superiore a $\sqrt{2}$. Prove che $3q \leq n^2$.
+> Siano dati $n$ punti distinti su una circonferenza di raggio $1$. Sia $q$ il numero dei segmenti con estremi nei punti dati la cui lunghezza è maggiore di $\sqrt{2}$. Dimostrare che $3q \leq n^2$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_1997_r3#q06|src_pol_1997_r3__Q06]]

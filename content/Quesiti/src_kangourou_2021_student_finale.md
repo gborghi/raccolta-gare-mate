@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of volumes of two spheres of the same size*
+*What is the ratio of the volume of the larger to the volume of the smaller?*
 
-> (**5 points**) When you look at two spheres of different radii from a distance, they appear to you to be of the same size (as, for example, might happen to the sun and the moon). However, the distance of the largest from you is 100 times the distance of the smallest (assume that the distances are estimated between you and the centers of the spheres). What is the ratio of the volume of the largest to the volume of the smallest?
+> (5 points) Looking from far away at two spheres of different radii, they appear the same size (as, for example, can happen with the sun and the moon). However, your distance from the larger one is 100 times your distance from the smaller one (assume that the distances are measured from you to the centres of the spheres). What is the ratio of the volume of the larger to the volume of the smaller?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 1000000
+[[Quesiti/src_kangourou_2021_student_finale#qs1|src_kangourou_2021_student_finale__QS1]]
 
 
 
@@ -65,19 +69,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of pourings to restore the containers*
+*How many transfers may be needed, at most?*
 
 ![[src_kangourou_2021_student_finale__probs2.png]]
 
-> (**7 points**) Ten containers, not necessarily of the same capacity, which we can consider unlimited, each contain water, not necessarily in the same quantity. We perform pourings between the containers; for each container, at each pouring, we note the quantity of water added or removed. For example, denoting the containers by A, B, etc. and always using the same unit of measurement, we could have a note such as:
-> 
-> | | A | B | C | D | E | F | G | H | I | J |
-> |---|---|---|---|---|---|---|---|---|---|---|
-> | pouring 1 | +1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | −1 |
-> 
-> At the end of these operations we want to restore in each container the initial quantity of water, minimizing the number of pourings. By adopting a suitable strategy, how many pourings could be necessary, at most?
+> (7 points) Ten vessels, not necessarily of the same capacity, which we may regard as unlimited, each contain water, not necessarily the same amount. We make transfers between the vessels; for each vessel, at each transfer, we record the amount of water put in or taken out. For example, denoting the vessels by A, B and so on, and always using the same unit, we might have a record such as:
+>
+> transfer 1: A +1, B 0, C 0, D 0, E 0, F 0, G 0, H 0, I 0, J −1
+>
+> At the end of these operations one wants to restore in each vessel the initial amount of water, minimising the number of transfers. By adopting a suitable strategy, how many transfers may be needed, at most?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 9
+[[Quesiti/src_kangourou_2021_student_finale#qs2|src_kangourou_2021_student_finale__QS2]]
 
 
 
@@ -121,32 +128,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of distinct plane nets of a cube*
+*How many different nets does a cube have?*
 
 ![[src_kangourou_2021_student_finale__probs3.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  % Cross-shaped cube net: 6 unit squares
-  % Top square (col 1, row 0)
-  \draw (1,2) rectangle (2,3);
-  % Middle row: 4 squares (col 0-3, row 1)
-  \draw (0,1) rectangle (1,2);
-  \draw (1,1) rectangle (2,2);
-  \draw (2,1) rectangle (3,2);
-  \draw (3,1) rectangle (4,2);
-  % Bottom square (col 1, row 2 from bottom)
-  \draw (1,0) rectangle (2,1);
-\end{tikzpicture}
-\end{document}
-```
+> (11 points) The picture shows a net of a cube, that is, one possible arrangement in the plane of the faces of the cube so that the cube can be rebuilt by folding the figure along the sides shared by two faces. How many nets does a cube have that are different from one another, counting as the same two nets that can be obtained from each other by rotations and/or reflections?
+>
+> (see the picture)
 
-> (**11 points**) In the figure you see a plane net of a cube, that is, a possible arrangement in the plane of the faces of the cube so that the cube can be reconstructed by folding the figure appropriately along the sides common to two faces. How many plane nets different from each other does a cube have, considering two nets obtainable one from the other by rotations and/or reflections to be identical?
-> 
-> (see figure)
-
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 11
+[[Quesiti/src_kangourou_2021_student_finale#qs3|src_kangourou_2021_student_finale__QS3]]
 
 
 
@@ -174,15 +168,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fill the mxn grid with constant column sums*
+*Can you succeed in each of the two cases?*
 
-> (**14 points**) You have a rectangular grid of $m$ rows and $n$ columns and you want to fill it up by entering, one for each box, all the integers from $1$ to $m \cdot n$ so that the sum of the numbers entered in each column is always the same when the columns vary. Answer the following questions and justify your answers. You can do it when:
-> 
+> (14 points) You have a rectangular grid of $m$ rows and $n$ columns, and you want to fill it by entering, one in each cell, all the integers from $1$ to $m \cdot n$, so that the sum of the numbers entered in each column is always the same, whichever column one takes. Answer the following questions, and justify your answers. Can you succeed when:
+>
 > a) $m = 2021$ and $n = 2020$?
-> 
+>
 > b) $m = 2020$ and $n = 2021$?
 
-**Answer:** a) No; b) Yes
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Answer:** a) No; b) Si
+[[Quesiti/src_kangourou_2021_student_finale#qs4|src_kangourou_2021_student_finale__QS4]]
 
 
 
@@ -209,13 +208,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of a_i/b_i >= n*
+*Is the statement true or false?*
 
-> (**18 points**) Determine whether the following statement is true or false by reasoning the answer.
-> 
-> 'Assigned $n$ positive real numbers $a_1, a_2, \ldots, a_n$, for each rearrangement of $b_1, b_2, \ldots, b_n$ $$\frac{a_1}{b_1} + \frac{a_2}{b_2} + \cdots + \frac{a_n}{b_n} \geq n.$$'
+> (18 points) Decide whether the following statement is true or false, and give a reason.
+>
+> "Given $n$ positive real numbers $a_1, a_2, \ldots, a_n$, for every rearrangement $b_1, b_2, \ldots, b_n$ of them one has
+>
+> $$\frac{a_1}{b_1} + \frac{a_2}{b_2} + \cdots + \frac{a_n}{b_n} \geq n.$$
+>
+> "
 
-**Answer:** TRUE
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Answer:** VERA
+[[Quesiti/src_kangourou_2021_student_finale#qs5|src_kangourou_2021_student_finale__QS5]]
 
 
 
@@ -238,6 +246,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*There exists a multiple of 2021 in binary with 2021 zeros and 2021 ones*
+*Prove that such an integer exists.*
 
-> (**22 points**) Prove that there exists a positive integer divisible by $2021$ and expressible, in significant binary notation (i.e. the first digit from the left cannot be $0$), using exactly $2021$ digits zero and $2021$ digits one.
+> (22 points) Prove that there exists a positive integer divisible by $2021$ that can be written, in significant binary notation (that is, the first digit from the left cannot be $0$), using exactly $2021$ digits zero and $2021$ digits one.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2021_student_finale#qs6|src_kangourou_2021_student_finale__QS6]]

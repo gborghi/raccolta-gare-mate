@@ -34,16 +34,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Estimating the confetti in the bag using capture and recapture*
+*What is a plausible number of confetti in the bag?*
 
-> You have a bag of confetti and you would like to know how many there are, at least approximately. You think of using the following strategy:
+> You have a bag of confetti and you would like to know how many there are, at least approximately. You plan to use the following strategy:
 >
-> - you take out $50$ and mark them with a sign, then put them back in the bag and mix all the confetti so that the ones you marked can distribute uniformly inside the bag;
-> - you then randomly take out $70$ and find that, among these $70$, only two were marked by you.
+> - you take out $50$ and mark them, then you put them back in the bag and mix all the confetti so that the ones you marked can spread evenly through the bag;
+> - you then take out $70$ at random and find that, of these $70$, only two were marked by you.
 >
-> Based on this experiment, what is a reliable number for the confetti contained in the bag?
+> On the basis of this experiment, what is a plausible number for the confetti in the bag?
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 1750
+[[Quesiti/src_kangourou_2021_junior_finale#q01|src_kangourou_2021_junior_finale__Q01]]
 
 
 
@@ -66,11 +70,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of the volumes of two spheres that appear equal at distances 1:100*
+*What is the ratio of the volume of the larger to the volume of the smaller?*
 
-> Observing two spheres of different radii from a distance, they appear to you to be the same size (as, for example, could happen with the sun and the moon). However, the distance of the larger one from you is $100$ times the distance of the smaller one (assume that the distances are measured between you and the centers of the spheres). What is the ratio between the volume of the larger one and the volume of the smaller one?
+> Looking from far away at two spheres of different radii, they appear the same size (as, for example, can happen with the sun and the moon). However, your distance from the larger one is $100$ times your distance from the smaller one (assume that the distances are measured from you to the centres of the spheres). What is the ratio of the volume of the larger to the volume of the smaller?
 
-**Answer:** 1,000,000
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Answer:** 1.000.000
+[[Quesiti/src_kangourou_2021_junior_finale#q02|src_kangourou_2021_junior_finale__Q02]]
 
 
 
@@ -102,19 +110,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum pourings to restore 10 containers*
+*How many transfers may be needed, at most?*
 
 ![[src_kangourou_2021_junior_finale__prob3.png]]
 
-> Ten containers, not necessarily of the same capacity, which we can consider unlimited, each contain water, not necessarily in the same quantity. We perform some pourings between the containers; for each container, at each pouring, we note the quantity of water added or removed. For example, denoting the containers with A, B, etc. and always using the same unit of measurement, we could have a note like
-> 
-> | | A | B | C | D | E | F | G | H | I | J |
-> |---|---|---|---|---|---|---|---|---|---|---|
-> | pouring 1 | +1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | −1 |
-> 
-> At the end of these operations we want to restore in each container the initial quantity of water, minimizing the number of pourings. By adopting a suitable strategy, how many pourings might be needed, at most?
+> Ten vessels, not necessarily of the same capacity, which we may regard as unlimited, each contain water, not necessarily the same amount. We make some transfers between the vessels; for each vessel, at each transfer, we record the amount of water put in or taken out. For example, denoting the vessels by A, B and so on, and always using the same unit, we might have a record such as:
+>
+> travaso 1: A +1, B 0, C 0, D 0, E 0, F 0, G 0, H 0, I 0, J −1
+>
+> At the end of these operations one wants to restore in each vessel the initial amount of water, minimising the number of transfers. By adopting a suitable strategy, how many transfers may be needed, at most?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 9
+[[Quesiti/src_kangourou_2021_junior_finale#q03|src_kangourou_2021_junior_finale__Q03]]
 
 
 
@@ -154,28 +165,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of different plane nets of a cube*
+*How many different nets does a cube have?*
 
 ![[src_kangourou_2021_junior_finale__prob4.png]]
 ![[src_kangourou_2021_junior_finale__prob4b.png]]
 ![[src_kangourou_2021_junior_finale__prob4c.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw (0,0) rectangle (1,1);
-  \draw (1,0) rectangle (2,1);
-  \draw (2,0) rectangle (3,1);
-  \draw (3,0) rectangle (4,1);
-  \draw (1,1) rectangle (2,2);
-  \draw (1,-1) rectangle (2,0);
-\end{tikzpicture}
-\end{document}
-```
+> The picture shows a net of a cube, that is, one possible arrangement in the plane of the faces of the cube so that the cube can be rebuilt by folding the figure along the sides shared by two faces. How many nets does a cube have that are different from one another, counting as the same two nets that can be obtained from each other by rotations and/or reflections? (see the picture)
 
-> In the figure you see a plane net of a cube, that is, a possible arrangement in the plane of the faces of the cube so that you can reconstruct the cube by folding the figure along the sides common to two faces. How many different plane nets of a cube are there, considering identical two developments achievable from each other by rotation and/or reflection? (see figure)
-
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 11
+[[Quesiti/src_kangourou_2021_junior_finale#q04|src_kangourou_2021_junior_finale__Q04]]
 
 
 
@@ -203,15 +205,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fill the mxn grid with constant column sums*
+*Can you succeed in each of the two cases?*
 
-> You have a rectangular grid of $m$ rows and $n$ columns and you want to fill it up by entering, one for each box, all the integers from $1$ to $m \times n$ so that the sum of the numbers entered in each column is always the same when the columns vary. Answer the following questions and justify your answers. You can do it when
-> 
+> You have a rectangular grid of $m$ rows and $n$ columns, and you want to fill it by entering, one in each cell, all the integers from $1$ to $m \times n$, so that the sum of the numbers entered in each column is always the same, whichever column one takes. Answer the following questions, and justify your answers. Can you succeed when
+>
 > a) $m = 2021$ and $n = 2020$?
-> 
+>
 > b) $m = 2020$ and $n = 2021$?
 
-**Answer:** a)No b)Yes
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Answer:** a)No b)Si
+[[Quesiti/src_kangourou_2021_junior_finale#q05|src_kangourou_2021_junior_finale__Q05]]
 
 
 
@@ -235,6 +242,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Prove c1+..+cn>=n if product ci=1 (AM-GM)*
+*Prove the inequality.*
 
-> Show that for any $n$-tuple $c_1, c_2, \ldots, c_n$ of positive numbers the product of which is $1$, $$c_1 + c_2 + \cdots + c_n \geq n.$$
+> Prove that, for any $n$-tuple $c_1, c_2, \ldots, c_n$ of positive numbers whose product is $1$, one has
+>
+> $$c_1 + c_2 + \cdots + c_n \geq n.$$
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+[[Quesiti/src_kangourou_2021_junior_finale#q06|src_kangourou_2021_junior_finale__Q06]]

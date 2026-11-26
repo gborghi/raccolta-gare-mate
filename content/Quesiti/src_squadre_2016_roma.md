@@ -26,19 +26,19 @@ level: squadre
 > numeri?
 
 **Risposta:** 0009
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Prof. Celletti adding 230 numbers by email*
+*Professor Celletti, Director of the Department of Mathematics at the University of Rome T…*
 
 ![[src_squadre_2016_roma__prob1.png]]
 
-> Prof. Celletti, head of the Department of Mathematics of the University of Rome Tor Vergata, has to add up 230 very large numbers but her computer is broken. So she asks her department colleagues, of whom there are 80, for help. They decide that each of them, if in the morning they receive an email from the head of department containing two numbers, undertakes to write by midnight a reply email containing the sum of the two numbers received. What is the minimum number of days needed to compute the sum of the 230 numbers?
+> Professor Celletti, director of the Department of Mathematics at the University of Rome Tor Vergata, needs to add together 230 very large numbers but has broken the computer. She therefore asks her departmental colleagues for help; there are 80 of them. They decide that each of them, if in the morning they receive an email from the director containing two numbers, will undertake to write a reply email by midnight containing the sum of the two numbers received. What is the minimum number of days needed to calculate the sum of the 230 numbers?
 
-**Answer:** 0009
+[[Quesiti/src_squadre_2016_roma#q01|src_squadre_2016_roma__Q01]]
 
 
 
@@ -57,19 +57,19 @@ level: squadre
 > Mangiando entrambi, per quanti giorni durerà il cibo?
 
 **Risposta:** 0588
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Luca and Samantha's food on Mars*
+*Luca and Samantha, the two astronauts whom the Italian Space Agency sent to…*
 
 ![[src_squadre_2016_roma__prob2.png]]
 
-> Luca and Samantha, the two astronauts the Italian Space Agency sent to Mars in 2025, take stock of the food left in view of their return to Earth. They have calculated that if Luca were alone the food would last him 924 days while, if Samantha, who is slighter, were alone, the food would last her 1617 days. With both of them eating, for how many days will the food last?
+> Luca and Samantha, the two astronauts sent to Mars by the Italian Space Agency in 2025, are taking inventory of the remaining food in preparation for their return to Earth. They have calculated that if Luca were on his own, the food would last him 924 days, whereas if Samantha—who is slighter—were on her own, the food would last her 1617 days. If they both eat, how many days will the food last?
 
-**Answer:** 0588
+[[Quesiti/src_squadre_2016_roma#q02|src_squadre_2016_roma__Q02]]
 
 
 
@@ -90,19 +90,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3474
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2016th integer divisible by 3 or containing a 3*
+*Consider the sequence of positive integers in ascending order that…*
 
 ![[src_squadre_2016_roma__prob3.png]]
 
-> Consider the increasing sequence of positive integers that are divisible by 3 or have at least one 3 among their digits: 3, 6, 9, 12, 13, 15, 18, 21, 23, . . . What is the 2016th term of this sequence?
+> Consider the sequence, in increasing order, of positive integers that are divisible by 3 or have at least one 3 in their digits: 3, 6, 9, 12, 13, 15, 18, 21, 23, ... What is the 2016th term of this sequence?
 
-**Answer:** 3474
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2016_roma#q03|src_squadre_2016_roma__Q03]]
 
 
 
@@ -129,24 +132,28 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9991
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last number removed by the sieve of Eratosthenes up to 10000*
+*The Sieve of Eratosthenes is an ancient method for determining the list of…*
 
 ![[src_squadre_2016_roma__prob4.png]]
 
-> The sieve of Eratosthenes is an ancient procedure for determining the list of prime numbers up to a certain fixed positive integer n. It works like this:
+> The Sieve of Eratosthenes is an ancient method for determining the list of prime numbers up to a given fixed positive integer n. It works as follows:
 > (a) Write the numbers from 2 up to n.
-> (b) Circle the number 2 in red and remove all its multiples (except itself) from the list.
-> (c) Among the numbers of the list that have not yet been either removed or circled in red, choose the smallest and circle it in red, then remove, going in increasing order, all its multiples (except itself) from those remaining in the list.
-> (d) Repeat operation (c) until every number of the list has been removed or circled in red.
-> The numbers that remain circled in red at the end are the prime numbers less than or equal to n. If the procedure is carried out with n = 10000, what is the last number removed?
+> (b) Circle number 2 in red and remove all of its multiples (except itself) from the list.
+> (c) Among the numbers on the list that have not yet been removed or circled in red, the smallest one is chosen for
+> Circle it in red, then, proceeding in ascending order, remove all of its multiples (except itself) from those remaining on the list.
+> (d) Step (c) is repeated until every number on the list has been removed or circled in red.
+> The numbers that end up circled in red are the prime numbers less than or equal to n. If the procedure is carried out with n = 10000, what is the last number that is removed?
 
-**Answer:** 9991
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2016_roma#q04|src_squadre_2016_roma__Q04]]
 
 
 
@@ -166,19 +173,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0712
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Convex quadrilateral with AB = AC = BD = 3AD: area of APQT*
+*Let ABCD be a convex quadrilateral and let P be a point on side AB different from B. Sup…*
 
 ![[src_squadre_2016_roma__prob5.png]]
 
-> Let ABCD be a convex quadrilateral and let P be a point of side AB different from B. We know that AB = AC = BD = 3AD = 3BC = 3CP and that, calling Q the intersection of CP and BD, the area of triangle PBQ is 17. Find the area of APQT, where T is the intersection of AC and BD.
+> Let ABCD be a convex quadrilateral and let P be a point on side AB different from B. We know that AB = AC = BD = 3AD = 3BC = 3CP and that, if Q is the intersection of CP and BD, the area of triangle PBQ is 17. Find the area of APQT, where T is the intersection of AC and BD.
 
-**Answer:** 0712
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2016_roma#q05|src_squadre_2016_roma__Q05]]
 
 
 
@@ -196,19 +206,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 2016
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rhombus with angle 72°: distance from D of the circumcentre of ABC*
+*In parallelogram ABCD, AB = 2016 and ∠ABC = 72°. How far from D is a point P that is equidistant from A, B, and C?*
 
 ![[src_squadre_2016_roma__prob6.png]]
 
-> In the rhombus ABCD we have AB = 2016 and ∠ABC = 72°. How far from D is a point P equidistant from A, B and C?
+> In parallelogram ABCD, AB = 2016 and ∠ABC = 72°. How far is a point P, which is equidistant from A, B, and C, from D?
 
-**Answer:** 2016
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2016_roma#q06|src_squadre_2016_roma__Q06]]
 
 
 
@@ -229,19 +242,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 9504
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unbalanced dodecahedral dice*
+*To construct an unbalanced dodecahedral die, one takes a regular dodecahedron…*
 
 ![[src_squadre_2016_roma__prob7.png]]
 
-> To build an unbalanced dodecahedral die one takes a regular dodecahedron and on each of its faces writes a number from 1 to 6 so that all the numbers appear at least once and one of them 7 times. How many different unbalanced dodecahedral dice can be built? (two distributions of numbers are to be considered identical, and therefore counted only once, if there is a rotation in space superimposing them)
+> To construct an unbalanced dodecahedral die, take a regular dodecahedron and write a number from 1 to 6 on each of its faces so that all the numbers appear at least once and one of them appears 7 times. How many different unbalanced dodecahedral dice can be constructed? (Two number distributions are to be regarded as identical and therefore counted only once if there exists a rotation in space that superimposes them.)
 
-**Answer:** 9504
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2016_roma#q07|src_squadre_2016_roma__Q07]]
 
 
 
@@ -260,19 +276,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0446
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trailing zeros of the product of rounded square roots*
+*For each positive integer n, let R_n denote the integer closest to its square root…*
 
 ![[src_squadre_2016_roma__prob8.png]]
 
-> For every positive integer n let R\_n be the integer nearest to its square root. Say how many zeros the product R\_1 · R\_2 · R\_3 · R\_4 · . . . · R\_(2016) ends with.
+> For each positive integer n, let R_n denote the integer closest to the square root of n. State how many zeros the product R_1 · R_2 · R_3 · R_4 · ... · R_(2016) ends with.
 
-**Answer:** 0446
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2016_roma#q08|src_squadre_2016_roma__Q08]]
 
 
 
@@ -294,19 +313,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 6000
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The circular continent of planet Terminus*
+*The Remote Probe that the Italian Space Agency sent to explore the planet…*
 
 ![[src_squadre_2016_roma__prob9.png]]
 
-> The Remote Probe that the Italian Space Agency sent to explore the planet Terminus, in view of its colonisation, has revealed that its surface is perfectly spherical and mostly covered with water. There is in fact a single continent, entirely contained in the northern hemisphere, made up of all and only the points of the planet from which the journey to reach the north pole is less than or equal to 500 km. Knowing that the coastline of the continent is 3000 km long, say how long, in kilometres, the equator is.
+> The Remote Probe sent by the Italian Space Agency to explore the planet Terminus in anticipation of its colonization has revealed that the planet's surface is perfectly spherical and is largely covered by water. Indeed, there is a single continent, entirely contained within the Northern Hemisphere, consisting of all and only those points on the planet for which the distance to the North Pole is less than or equal to 500 km. Given that the continent's coastlines total 3000 km in length, state the length, in kilometers, of the equator.
 
-**Answer:** 6000
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2016_roma#q09|src_squadre_2016_roma__Q09]]
 
 
 
@@ -324,19 +346,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0148
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Right triangle with Â = 30°: length of the bisector*
+*Triangle ABC is right-angled at B and has angle A = 30°. The bisector of angle A divides the triangle into two parts…*
 
 ![[src_squadre_2016_roma__prob10.png]]
 
-> Triangle ABC is right-angled at B and has Â = 30°. The bisector of Â divides the triangle into two parts, the smaller of which has area 2738 cm^2. How many centimetres long is this bisector?
+> Triangle ABC is right-angled at B and has angle A = 30°. The bisector of angle A divides the triangle into two parts, the smaller of which has an area of 2738 cm². How many centimetres long is this bisector?
 
-**Answer:** 0148
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2016_roma#q10|src_squadre_2016_roma__Q10]]
 
 
 
@@ -354,19 +379,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0199
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remainder of 15328471582^10 divided by 495*
+*Let n = 15328471582; what remainder is obtained when n^10 is divided by 495?*
 
 ![[src_squadre_2016_roma__prob11.png]]
 
-> Let n = 15328471582; what remainder is obtained by dividing n^(10) by 495?
+> Let n = 15328471582; what remainder is obtained when n^10 is divided by 495?
 
-**Answer:** 0199
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2016_roma#q11|src_squadre_2016_roma__Q11]]
 
 
 
@@ -384,19 +412,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2025
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n with 144 divisors: maximum divisors of n^2*
+*Of the positive integer n, we know that it has 144 divisors. How many does it have, at most…*
 
 ![[src_squadre_2016_roma__prob12.png]]
 
-> Of the positive integer n we know that it has 144 divisors. At most, how many does its square have?
+> Of the positive integer n, we know that it has 144 divisors. At most, how many divisors does its square have?
 
-**Answer:** 2025
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2016_roma#q12|src_squadre_2016_roma__Q12]]
 
 
 
@@ -414,19 +445,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0960
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Anagrams of VENTOTTO with no equal adjacent letters*
+*How many anagrams of the word VENTOTTO have no two letters that are adjacent…*
 
 ![[src_squadre_2016_roma__prob13.png]]
 
-> How many anagrams of the word VENTOTTO never have two equal adjacent letters?
+> How many anagrams of the word VENTOTTO have no two adjacent letters that are the same?
 
-**Answer:** 0960
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2016_roma#q13|src_squadre_2016_roma__Q13]]
 
 
 
@@ -444,19 +478,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1829
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Contact triangle of a 21-20-13 triangle*
+*The sides of triangle T_1 measure 21, 20, and 13. The incircle of T_1…*
 
 ![[src_squadre_2016_roma__prob14.png]]
 
-> The sides of triangle T\_1 measure 21, 20 and 13. The circle inscribed in T\_1 touches its sides at 3 points which are the vertices of a triangle T\_2. Let m/n be the fraction, in lowest terms, representing the area of T\_2. What is m + n?
+> The sides of triangle T_1 measure 21, 20, and 13. The incircle of T_1 touches its sides at 3 points that are the vertices of triangle T_2. Let m/n be the fraction, in lowest terms, representing the area of T_2. What is the value of m + n?
 
-**Answer:** 1829
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2016_roma#q14|src_squadre_2016_roma__Q14]]
 
 
 
@@ -474,19 +511,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 2016
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quadrilateral circumscribed about an ellipse*
+*In the Cartesian plane, the line y = x intersects the ellipse x^2/576 + y^2/441 = 1 at points P and Q.…*
 
 ![[src_squadre_2016_roma__prob15.png]]
 
-> In the Cartesian plane the line y = x meets the ellipse x^2/576 + y^2/441 = 1 at the points P and Q. Compute the area of the quadrilateral ABCD circumscribed about the ellipse and such that BC and DA are parallel to PQ while AB and CD are tangent to the ellipse at the points P and Q respectively.
+> In the Cartesian plane, the line y = x intersects the ellipse x^2/576 + y^2/441 = 1 at points P and Q. Calculate the area of quadrilateral ABCD, which is circumscribed about the ellipse and has BC and DA parallel to PQ while AB and CD are tangent to the ellipse at points P and Q, respectively.
 
-**Answer:** 2016
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2016_roma#q15|src_squadre_2016_roma__Q15]]
 
 
 
@@ -506,19 +546,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 2036
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tetrahedron of maximum volume with medians 24, 26, 28*
+*In a tetrahedron, a median is a line segment that joins a vertex to the centroid of…*
 
 ![[src_squadre_2016_roma__prob16.png]]
 
-> In a tetrahedron a median is a segment joining a vertex to the centroid of the opposite face. We know that a tetrahedron has three medians of lengths 24, 26 and 28 and moreover that, among all tetrahedra with three medians of these lengths, it is the one with maximum volume. What is the square of the length of the fourth median?
+> In a tetrahedron, a median is a line segment joining a vertex to the centroid of the opposite face. We know that a tetrahedron has three medians of lengths 24, 26, and 28, and that, moreover, among all tetrahedra with three medians of those lengths, this one has the greatest volume. What is the square of the length of the fourth median?
 
-**Answer:** 2036
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2016_roma#q16|src_squadre_2016_roma__Q16]]
 
 
 
@@ -540,20 +583,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5741
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Writing 1 to 20 in the cells of a figure*
+*We want to write the integers from 1 to 20, each exactly once, in the…*
 
 ![[src_squadre_2016_roma__prob17.png]]
 
-> We want to write the integers from 1 to 20, each exactly once, in the 20 cells of figure 1 so that the following property holds: if two cells share part of a vertical side, the number written in the one further to the right is larger. In how many ways can we do it?
-> figure 1
+> We want to write the integers from 1 to 20, each exactly once, into the 20 cells of Figure 1 so that the following property holds: if two cells share a part of a vertical side, then the number written in the cell farther to the right is larger. In how many ways can we do this? Figure 1
 
-**Answer:** 5741
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2016_roma#q17|src_squadre_2016_roma__Q17]]
 
 
 
@@ -573,19 +618,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 8115
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial with non-negative coefficients: P(0) = 33, P(1) = 40, P(9) = 60000*
+*Let P(x) be a polynomial with nonnegative integer coefficients such that P(0) = 33, P(…*
 
 ![[src_squadre_2016_roma__prob18.png]]
 
-> Let P(x) be a polynomial with non-negative integer coefficients such that P(0) = 33, P(1) = 40 and P(9) = 60000. What is P(6)? (If you think the data are insufficient to answer, give 0 as the answer. If no polynomial with the required properties exists, give 9999 as the answer.)
+> Let P(x) be a polynomial with non-negative integer coefficients such that P(0) = 33, P(1) = 40, and P(9) = 60000. What is the value of P(6)? (If you believe the data are insufficient to answer, give 0 as the answer. If no polynomial with the required properties exists, give 9999 as the answer.)
 
-**Answer:** 8115
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2016_roma#q18|src_squadre_2016_roma__Q18]]
 
 
 
@@ -611,22 +659,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4290
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A flea jumping according to the digits in a table*
+*In each of the cells of the table in Figure 2, a digit from 1 to 9 is written…*
 
 ![[src_squadre_2016_roma__prob19.png]]
 
-> On each cell of the table in figure 2 a digit from 1 to 9 is written so that, whenever two neighbouring cells are taken, the digit written on the right one is greater than or equal to the one on the left. I put a flea on any cell and order it:
-> − Every time I clap my hands, look at the number written on the cell you are on and jump to the cell whose position, counting from the left, is exactly that number. For example, if the number 1 is written on your cell you must jump to the first cell, if 2 is written you must jump to the second, and so on.
-> I find that the following happens: whatever cell I initially place the flea on, after 2016 claps it always ends up on one of the two cells at the ends of the table. In how many different ways can the numbers be written on the table?
-> figure 2
+> In each of the cells of the table in Figure 2, a digit from 1 to 9 is written so that, whatever two adjacent cells are chosen, the digit written in the right-hand cell is greater than or equal to the digit in the left-hand cell. I place a flea on any cell and instruct it: "Each time I clap my hands, look at the number written in the cell where you are, and jump to the cell whose position, counting from the left, is exactly that number. For example, if the number 1 is written in your cell, you must jump to the first cell; if 2 is written, you must jump to the second cell, and so on." I find that the following happens: whatever cell I initially place the flea in, after 2016 claps it always ends up in one of the two cells at the ends of the table. In how many different ways can the numbers be written on the table? Figure 2
 
-**Answer:** 4290
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2016_roma#q19|src_squadre_2016_roma__Q19]]
 
 
 
@@ -653,20 +701,24 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9520
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natalini and Ciliberto play Burn and Break*
+*Prof. Natalini (director of IAC-CNR) and Prof. Ciliberto (president of UMI) have…*
 
 ![[src_squadre_2016_roma__prob20.png]]
 
-> Prof. Natalini (director of IAC-CNR) and Prof. Ciliberto (president of UMI) have decided to compete for the (meagre!) state funding by challenging each other at Burn and Break. The rules of the game are the following:
-> (a) one starts by putting on the table 3 sticks, each of strictly positive integer length;
-> (b) in turn, each player throws into the fire two of the 3 sticks on the table and breaks the remaining one into 3 pieces of strictly positive integer length, which he puts back on the table;
-> (c) whoever has no more moves to make loses, which happens as soon as the 3 pieces on the table all have length less than or equal to 2.
-> At a certain point there are on the table 3 sticks measuring 2016, 2017 and 2018 and it is Prof. Natalini's turn, who realises that he can force victory. How many possible moves allow him to do so?
+> Prof. Natalini (director of IAC-CNR) and Prof. Ciliberto (president of UMI) have decided to compete for the (meager!) state funds by challenging each other in "Burn and Shatter". The rules of the game are as follows:
+> (a) One starts by placing 3 sticks on the table, each having strictly positive full length;
+> (b) In turn, each player throws two of the 3 sticks on the table into the fire and breaks the remaining one into 3 pieces.
+> Of full length and strictly positive, which puts it back on the table;
+> (c) loses whoever no longer has any moves left to make—which happens as soon as all 3 pieces on the table have length.
+> Less than or equal to 2. At a certain point, there are 3 sticks on the table measuring 2016, 2017, and 2018, and it's Prof. Natalini's turn; he realizes that he can force a win. How many possible moves allow him to do so?
 
-**Answer:** 9520
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2016_roma#q20|src_squadre_2016_roma__Q20]]

@@ -32,13 +32,18 @@ level: Semifinale di Primavera
 <div class="qlang-split" data-lang="en"></div>
 
 
-Figures: How many boys have each won?
+*Figurine: how many did each boy win?*
 
-> Anna, Jacob, and Luke play with the figurines, challenging their classmates. By the end of the race, they'd won 20 pieces together. Luke won twice as much as Jacob and Anna won less than Jacob.
-> 
-> How many cards did each boy win?
+> Anna, Jacob, and Luca are playing with trading cards and challenging their classmates. At the end of the game, together they won 20 trading cards. Luca won twice as many as Jacob, and Anna won fewer than Jacob did.
+>
+> **How many trading cards did each boy win?**
 
-**Answer:** Anna 2, Jacob 6, Luca 12
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2007#q01|src_bocconi_primavera_2007__Q01]]
 
 
 
@@ -66,11 +71,16 @@ Figures: How many boys have each won?
 
 *Numbers greater than 1720 and less than 2300 with cubes*
 
-> Angelo is learning to count. To familiarize himself with the numbers, his mother gave him four wooden cubes, each of which has a digit: $1$, $2$, $3$ or $4$. Angelo then enjoys placing his four cubes in a row, one next to the other, and reading each time the formatted number.
-> 
-> **What are the numbers greater than $1720$, but less than $2300$, that Angelo can form?**
+> Angelo is learning to count. To help him become familiar with numbers, his mom gave him four wooden cubes, each bearing a digit: $1$, $2$, $3$, or $4$. Angelo then has fun lining up his four cubes side by side and reading the number formed each time.
+>
+> **What numbers greater than $1720$ but less than $2300$ can Angelo form?**
 
-**Answer:** 2134 e 2143
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2007#q02|src_bocconi_primavera_2007__Q02]]
 
 
 
@@ -100,13 +110,22 @@ Figures: How many boys have each won?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Orders of machines in the toy garage*
+*Ordering of the toy cars in the toy garage*
 
-> Desiderio is a machine collector. It has $5$ of different colours: a blue, a blue, a black, a red and a green. He also has the fixation to park them in his toy garage, one next to the other, always in the same way: - the blue is next to the green; - between the red and the blue there are two cars; - the red is neither the first nor the last; - the black is to the left of the blue but between them there is another car.
-> 
-> How are Desiderio machines placed?
+> Desiderio is a toy car collector. He has $5$ cars of different colors: one light blue, one blue, one black, one red, and one green. He is also obsessed with parking them in his toy garage, one next to the other, always in the same arrangement:
+> - the blue one is next to the green one;
+> - there are two cars between the red one and the light blue one;
+> - the red one is neither first nor last;
+> - the black one is to the left of the blue one, but there is another car between them.
+>
+> **How are Desiderio's toy cars arranged?**
 
-**Answer:** In order: black – red – blue – green – light blue
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2007#q03|src_bocconi_primavera_2007__Q03]]
 
 
 
@@ -132,13 +151,18 @@ Figures: How many boys have each won?
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many yellow packs does Marco put in the car?
+*How many yellow packages does Marco put in the machine?*
 
-> Marco's machine weighs exactly $25$ Kg. The fact is that Marco has to carry gift packages (for his friend Luca Maria): yellow, blue and green. Each yellow pack weighs $3$ Kg while a blue pack and a green pack weigh $5$ and $8$ Kg respectively. Marco also wants all the colours to be represented in the car.
-> 
-> How many yellow packs will Marco put in the car?
+> Marco's car can carry exactly $25$ kg of weight. The thing is that Marco has to transport some gift parcels (for his friend Luca Maria): yellow, blue, and green ones. Each yellow parcel weighs $3$ kg, while a blue parcel and a green parcel weigh $5$ kg and $8$ kg, respectively. Marco also wants all colors to be represented in the car.
+>
+> **How many yellow parcels will Marco put in the car?**
 
-**Answer:** 4 yellow packages
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2007#q04|src_bocconi_primavera_2007__Q04]]
 
 
 
@@ -166,11 +190,16 @@ How many yellow packs does Marco put in the car?
 
 *Types of juices with only two of the four ingredients*
 
-> At the park bar, Carla prepares fruit juices using pineapples, apples, kiwis and bananas.
-> 
-> **How many types of juices can you make using only two of the four ingredients? **
+> At the park bar, Carla prepares fruit juices using pineapple, apples, kiwis, and bananas.
+>
+> **How many types of juices can she prepare using only two of the four ingredients?**
 
-**Answer:** 6 types of juice
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2007#q05|src_bocconi_primavera_2007__Q05]]
 
 
 
@@ -196,13 +225,18 @@ How many yellow packs does Marco put in the car?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Type of juice using one, two, three or four fruits*
+*Types of juices using one, two, three, or four fruits*
 
-> In the same situation as before, how many types of fruit juices can Carla prepare using one or two or all four types of fruit she has?
-> 
-> **How many types of juices can you make?**
+> In the same situation as before, how many types of fruit juices can Carla prepare using one, two, or all four types of fruit she has available?
+>
+> **How many types of juices can she prepare?**
 
-**Answer:** 15 types of juice
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2007#q06|src_bocconi_primavera_2007__Q06]]
 
 
 
@@ -227,13 +261,17 @@ Type of juice using one, two, three or four fruits*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial surface area of burnt forest*
+*Initial area of the burned forest*
 
-> Nando bought a forest at $60$ Euro per square meter. A fire, however, destroys the newly purchased forest. It is therefore decided to sell it again at $72$ Euro per square metre, gaining $12\%$ in any case.
-> 
-> What was the initial area of the forest (in sqm)?
+> Nando bought a forest at $60$ euros per square meter. However, a fire destroys $800$ square meters of the forest he has just bought. He therefore decides to resell it at $72$ euros per square meter, still making a profit of $12\%$.
+>
+> **What was the initial area of the forest (in square meters)?**
 
-**Answer:** $12.000$ m$^2$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2007#q07|src_bocconi_primavera_2007__Q07]]
 
 
 
@@ -260,11 +298,15 @@ Type of juice using one, two, three or four fruits*
 
 *Total weight of the three bags*
 
-> I'd like to have three bags of biscuits, candy and dried fruit transported. The weight of the first bag  that of the biscuits  is $12$ Kg. We also know that the bag of dried fruit weighs as much as the bag of cookies plus the bag of candy, while the bag weighs as much as the bag of cookies plus half the weight of the bag of dried fruit.
-> 
-> **What is the total weight of the three bags? **
+> I would like three bags containing biscuits, sweets, and dried fruit to be transported. The weight of the first bag—the one with the biscuits—is $12$ kg. We also know that the bag of dried fruit weighs as much as the bag of biscuits plus the bag of sweets, while the latter weighs as much as the bag of biscuits plus half the weight of the bag of dried fruit.
+>
+> **What is the total weight of the three bags?**
 
-**Answer:** 96 Kg
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2007#q08|src_bocconi_primavera_2007__Q08]]
 
 
 
@@ -289,13 +331,17 @@ Type of juice using one, two, three or four fruits*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Votes obtained from the mayor's list*
+*Votes received by the mayor's list*
 
-> In the recent municipal elections in Caldé  a small village on Lake Maggiore with $527$ voting constituencies  the list of optimists received $18$, $25$ and $98$ votes more than the opposing lists respectively.
-> 
-> **How many votes did the mayor's list get? **
+> In the recent municipal elections in Caldé—a small town on Lake Maggiore with $527$ voters—the optimistic list received $18$, $25$, and $98$ more votes than the opposing lists, respectively.
+>
+> **How many votes did the mayor's list receive?**
 
-**Answer:** 167 votes
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2007#q09|src_bocconi_primavera_2007__Q09]]
 
 
 
@@ -320,13 +366,17 @@ Type of juice using one, two, three or four fruits*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of whale with elephants and hippos*
+*Weight of the whale with elephants and hippos*
 
-> Your balance is balanced simply (!) by putting elephants and a small hippopotamus on one side, and a whale on the other. If you're thin ($50$ Kg), you can climb a plate of  over an elephant, while on the other side you'll be $12$ little hippos. On the other hand, if you're a little overweight ($200$ Kg), you can always climb one of the scales with $11$ small hippopotamuses while, on the other plate, an elephant ensures balance.
-> 
-> **How many tonnes does the whale weigh? **
+> Your scale is in balance simply (!) by putting $5$ elephants and one small hippopotamus on one side, and a whale on the other. If you are thin ($50$ kg), you can stand on one pan of the scale—on top of an elephant—while on the other side there will be $12$ small hippopotamuses. If, on the other hand, you are a bit heavyset ($200$ kg), you can always stand on one of the pans of the scale with $11$ small hippopotamuses, while on the other pan an elephant ensures balance.
+>
+> **How many tonnes does the whale weigh?**
 
-**Answer:** 15 tonnes
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2007#q10|src_bocconi_primavera_2007__Q10]]
 
 
 
@@ -350,11 +400,16 @@ Type of juice using one, two, three or four fruits*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of three distinct digits multiple of 5 with digits 1,2,3,5,7*
+*Three-digit numbers with distinct digits, multiples of 5, using the digits 1, 2, 3, 5, 7*
 
-> **How many distinct three-digit numbers, multiples of $5$, can be formed with the digits $1$, $2$, $3$, $5$, $7$?**
+> **How many three-digit numbers with distinct digits, which are multiples of $5$, can be formed using the digits $1$, $2$, $3$, $5$, $7$?**
 
-**Answer:** 12 numbers
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2007#q11|src_bocconi_primavera_2007__Q11]]
 
 
 
@@ -378,11 +433,16 @@ Type of juice using one, two, three or four fruits*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of three distinct digits equal to the digits 1,2,3,5,7*
+*Even three-digit numbers with distinct digits from the set {1, 2, 3, 5, 7}*
 
-> **How many numbers of three distinct, equal digits can be formed with the digits $1$, $2$, $3$, $5$, $7$?**
+> How many three-digit numbers with distinct digits, all even, can be formed using the digits $1$, $2$, $3$, $5$, $7$?
 
-**Answer:** 12 numbers
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2007#q12|src_bocconi_primavera_2007__Q12]]
 
 
 
@@ -407,13 +467,17 @@ Type of juice using one, two, three or four fruits*
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many oyster eggs do you need for 60 people?
+*How many ostrich eggs are needed for 60 people?*
 
-> In an omelette an oyster egg is equivalent to $24$ chicken eggs. With $6$ chicken eggs, an omelette is made for $5$ people.
-> 
-> **How many oysters do you need for $60$ people? **
+> In an omelette, one ostrich egg is equivalent to $24$ chicken eggs. With $6$ chicken eggs, you can make an omelette for $5$ people.
+>
+> **How many ostrich eggs are needed for $60$ people?**
 
-**Answer:** 3 ostrich eggs
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2007#q13|src_bocconi_primavera_2007__Q13]]
 
 
 
@@ -438,13 +502,16 @@ How many oyster eggs do you need for 60 people?
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many years have Erica and I been together?
+*How old are Erica and I together?*
+> I am twice the age that you were when I was the age that you are now. When you are my age, together we will be $108$ years old. Today, together, how old are Erica and I?
+>
+> **How old are we together?**
 
-> I'm twice your age when I was your age. When you're my age, together, we'll be$108$ years old. How old are Erica and I today?
-> 
-> How many years have we been together?
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-**Answer:** 84 years
+[[Quesiti/src_bocconi_primavera_2007#q14|src_bocconi_primavera_2007__Q14]]
 
 
 
@@ -470,13 +537,18 @@ How many years have Erica and I been together?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equal number with double less than 100 and greater than 30*
+*Even number with a double that is less than 100 and greater than 30*
 
-> What is the even number whose double is less than $100$, but is greater than $30$? If this information is not enough for you, remember that the figure $4$ appears only once in this issue and that if you swap its two digits, you get a higher number than $70$.
-> 
-> What is this number?
+> What is the even number whose double is less than $100$ but greater than $30$? If this information is not enough for you, remember that the digit $4$ appears only once in this number and that, if its two digits are swapped, the resulting number is greater than $70$.
+>
+> **What is this number?**
 
-**Answer:** 48
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2007#q15|src_bocconi_primavera_2007__Q15]]
 
 
 
@@ -502,13 +574,18 @@ How many years have Erica and I been together?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Completes the almost magical square with the data numbers*
+*Complete the quasi-magic square with the given numbers*
 
-> Complete the square of the figure in which some numbers already appear, so that in each row and column the sum of the numbers is always $30$. You can use the numbers $1$, $2$, $3$, $4$, $5$, $6$, $10$, $11$, $12$, $13$, $14$.
+> Complete the square in the figure where some numbers already appear, so that in each row and each column the sum of the numbers is always equal to $30$. You can use the numbers $1$, $2$, $3$, $4$, $5$, $6$, $10$, $11$, $12$, $13$, $14$.
 
 ![[src_bocconi_primavera_2007__q16.png]]
 
-**Answer:** Completed square: row 1: $12,3,1,14$; row 2: $6,8,12,4$; row 3: $11,5,4,10$; row 4: $1,14,13,2$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2007#q16|src_bocconi_primavera_2007__Q16]]
 
 
 
@@ -535,15 +612,19 @@ How many years have Erica and I been together?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ears shown by the watch as seen in the mirror*
+*Hours shown by the watch seen in the mirror*
 
-> Here's a watch seen in a mirror.
-> 
-> What time is it?
+> Here is a watch as seen in a mirror.
+>
+> **What time is it?**
 
 ![[src_bocconi_primavera_2007__q17.png]]
 
-**Answer:** 9:45
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2007#q17|src_bocconi_primavera_2007__Q17]]
 
 
 
@@ -568,13 +649,17 @@ How many years have Erica and I been together?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the part shown in Figure*
+*Area of the hatched part in the figure*
 
-> **What is the area of the part shown in Figure 1?**
+> What is the area of the hatched part in the figure?
 
 ![[src_bocconi_primavera_2007__q18.png]]
 
-**Answer:** $16$ m$^2$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_primavera_2007#q18|src_bocconi_primavera_2007__Q18]]
 
 
 
@@ -599,10 +684,14 @@ How many years have Erica and I been together?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inner number of all circles in figure*
+*Internal number for all circles in the figure*
 
-> **What is the number inside all circles? **
+> What is the number that is inside all the circles?
 
 ![[src_bocconi_primavera_2007__q19.png]]
 
-**Answer:** 2
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_insiemi_funzioni|Sets and functions]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_primavera_2007#q19|src_bocconi_primavera_2007__Q19]]

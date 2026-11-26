@@ -35,17 +35,19 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Signs of a,b with a+b>0 and ab<0*
+*Signs of a and b given a positive sum and a negative product*
 
-> If a and b are two numbers such that a + b > 0 and a · b < 0, which of the following is certainly true?
+> If a and b are two numbers such that a + b > 0 and a · b < 0, which of the following statements is certainly true?
 >
-> - **(A)** a > 0 e b < 0,
-> - **(B)** a < 0 e b < 0,
-> - **(C)** a > 0 e b > 0,
-> - **(D)** a and b have a different sign and between the two the positive one has an absolute higher value,
-> - **(E)** a and b have a different sign and between the two the negative has an absolute higher value.
+> - **(A)** a > 0 and b < 0
+> - **(B)** a < 0 and b < 0
+> - **(C)** a > 0 and b > 0
+> - **(D)** a and b have opposite signs, and of the two the positive one has the greater absolute value
+> - **(E)** a and b have opposite signs, and of the two the negative one has the greater absolute value.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2007_triennio#q04|src_archimede_2007_triennio__Q04]]
 
 
 
@@ -77,9 +79,13 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total amount of aid granted by the Member State in accordance with Article 107 (1) (c) of the Treaty.
+*Simplify 54^(1/3)+4^(1/6)*
 
-> The number 3√ 54 + 6√ 4 is equal to:
+> The number
+> 3√
+> 54 +
+> 6√
+> 4 is equal to:
 >
 > - **(A)** 18√ 58,
 > - **(B)** 9√ 54 · 4,
@@ -87,7 +93,9 @@ This is the total amount of aid granted by the Member State in accordance with A
 > - **(D)** 3√ 56,
 > - **(E)** 4 3√ 2.
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2007_triennio#q05|src_archimede_2007_triennio__Q05]]
 
 
 
@@ -119,9 +127,9 @@ This is the total amount of aid granted by the Member State in accordance with A
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance from the arrival of a constant-speed pedestrian*
+*Distance from the finish of a runner at constant speed*
 
-> A 13 km mountain race was won by a podium runner who took 51 minutes to complete the race. Paolo, classified57°, took 1 hour and 18 minutes. Admitting that Paul was running at a steady speed, how far from the finish was he as the winner crossed the finish line?
+> A 13 km mountain race was won by a runner who took 51 minutes to finish the race. Paolo, who finished 57th, took 1 hour and 18 minutes. Assuming that Paolo ran at a constant speed, how far from the finish was he when the winner crossed the finish line?
 >
 > - **(A)** 3750 m,
 > - **(B)** 4000 m,
@@ -129,7 +137,10 @@ This is the total amount of aid granted by the Member State in accordance with A
 > - **(D)** 4500 m,
 > - **(E)** 4750 m.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2007_triennio#q07|src_archimede_2007_triennio__Q07]]
 
 
 
@@ -159,9 +170,10 @@ This is the total amount of aid granted by the Member State in accordance with A
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following table shows the number of samples of the samples:
+*Value of the number 2101 + 293 over 286 + 278*
 
-> The number 2101 + 293 286 + 278 is equal to:
+> The number 2101 + 293
+> 286 + 278 is equal to:
 >
 > - **(A)** 27 · 5,
 > - **(B)** 213,
@@ -169,7 +181,11 @@ The following table shows the number of samples of the samples:
 > - **(D)** 215,
 > - **(E)** 215 · 17.
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_archimede_2007_triennio#q08|src_archimede_2007_triennio__Q08]]
 
 
 
@@ -201,9 +217,9 @@ The following table shows the number of samples of the samples:
 <div class="qlang-split" data-lang="en"></div>
 
 
-Days at the next Earth Day on Uru
+*Days until the next Planet Festival on Uru*
 
-> On the planet Uru, the weeks last 8 days, the months (all of them indefinitely) last 34 days, and there are 14 months in a year. When the first day of the year falls on Sunday (the last day of the week), the Planetary Festival is celebrated. Knowing that today on Uru is the Planetary Festival, how many days will it be the next?
+> On the planet Uru, weeks last 8 days, months (all alike) last 34 days, and in a year there are 14 months. When the first day of the year falls on Sunday (the last day of the week) the Planet Festival is celebrated. Knowing that today on Uru is the Planet Festival, in how many days will the next one be?
 >
 > - **(A)** 238,
 > - **(B)** 476,
@@ -211,7 +227,10 @@ Days at the next Earth Day on Uru
 > - **(D)** 1428,
 > - **(E)** 1904.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2007_triennio#q09|src_archimede_2007_triennio__Q09]]
 
 
 
@@ -245,19 +264,20 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ray of grey circles inscribed in a large circle*
+*Radius of the grey circles inscribed in a large circle*
 
-![[src_archimede_2007_triennio__prob14.png]]
-
-> In the figure next to it, the radius of the largest circle is 20 cm. What is the radius of the gray circles?
+> In the figure the radius of the largest circle is 20 cm. What is the radius of the circles coloured grey?
 >
-> - **(A)** 5 cm,
-> - **(B)** 6 cm,
-> - **(C)** 8 cm,
-> - **(D)** 9 cm,
-> - **(E)** 10 cm.                        
+> - **(A)** 5 cm
+> - **(B)** 6 cm
+> - **(C)** 8 cm
+> - **(D)** 9 cm
+> - **(E)** 10 cm.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2007_triennio#q14|src_archimede_2007_triennio__Q14]]
 
 
 
@@ -289,9 +309,9 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distinguished attendance cards for 10 students*
+*Attendance sheets distinguished by 10 students*
 
-> Professor Victor teaches a class of 10 students and at the beginning of each lesson he completes the attendance sheet by writing present or absent next to each student's name. How many separate presence sheets are possible?
+> Professor Victor teaches a course with 10 students and at the start of each lesson fills in the attendance sheet by writing “present” or “absent” next to each student’s name. How many distinct attendance sheets are possible?
 >
 > - **(A)** 102,
 > - **(B)** 22 + 23 + 24,
@@ -299,7 +319,11 @@ Days at the next Earth Day on Uru
 > - **(D)** 210,
 > - **(E)** 104.
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2007_triennio#q15|src_archimede_2007_triennio__Q15]]
 
 
 
@@ -332,9 +356,13 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Speed of the frame from the line with the pole and the Andrea*
+*Marco’s speed from alignment with the pole and Andrea*
 
-> Andrea follows a straight road at a constant speed of 6 km/h; Marco follows a parallel road at a constant speed to Andrea's, 12 m away from it, in the opposite direction. Between the two streets there is a pole that is 3 meters from the road on which Andrea is. Knowing that at every moment the pole is aligned with the positions of Andrew and Mark, at what speed is Mark moving?
+> Andrea travels along a straight road at a constant speed of 6 km/h; Marco
+> travels at a constant speed along a road parallel to Andrea’s, 12 m away
+> from it, in the opposite direction. Between the two roads there is a pole that is 3 m
+> from the road on which Andrea is. Knowing that at every instant the pole is aligned with the
+> positions of Andrea and Marco, at what speed is Marco moving?
 >
 > - **(A)** 2 km/h,
 > - **(B)** 3 km/h,
@@ -342,7 +370,10 @@ Days at the next Earth Day on Uru
 > - **(D)** 18 km/h,
 > - **(E)** 20 km/h.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2007_triennio#q16|src_archimede_2007_triennio__Q16]]
 
 
 
@@ -371,17 +402,20 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities between 2,3,5,7,11 divided by 371^4-41^4*
+*How many of 2, 3, 5, 7, 11 divide 371^4-41^4*
 
-> How many of the numbers 2, 3, 5, 7 and 11 divide 3714 by 414?
+> How many of the numbers 2, 3, 5, 7 and 11 divide 3714 −414?
 >
-> - **(A)** One of them.
-> - **(B)** two,
-> - **(C)** three,
-> - **(D)** four,
-> - **(E)** Five of them.
+> - **(A)** one
+> - **(B)** two
+> - **(C)** three
+> - **(D)** four
+> - **(E)** five.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2007_triennio#q17|src_archimede_2007_triennio__Q17]]
 
 
 
@@ -415,9 +449,9 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*C/R report from chessboard rules*
+*Ratio C/R from arrangements of counters on chessboards*
 
-> Claudius and Philip each have a chessboard with R rows and C columns and each has P bases. Claudio has all his pawns on his chessboard (each in a box) so that 8 lines remain completely empty and each of the other lines has exactly 9 empty boxes. Philip has all his pawns on his chessboard (each in a box) so that 12 lines remain completely empty and each of the other lines has exactly 6 empty boxes. How much is CR worth?
+> Claudio and Filippo each have a chessboard with R rows and C columns and each have P counters. Claudio places all his counters on his own chessboard (one in each square) so that 8 rows are completely empty and each of the other rows has exactly 9 empty squares. Filippo places all his counters on his own chessboard (one in each square) so that 12 rows are completely empty and each of the other rows has exactly 6 empty squares. What is C/R?
 >
 > - **(A)** 3 4,
 > - **(B)** 1,
@@ -425,7 +459,10 @@ Days at the next Earth Day on Uru
 > - **(D)** 5 4,
 > - **(E)** 2.
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2007_triennio#q19|src_archimede_2007_triennio__Q19]]
 
 
 
@@ -459,9 +496,9 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of setting up a round table with white and black plates*
+*Ways of setting a round table with white and black plates*
 
-> Alberto has to set up a round table for six people and has six white plates and six black plates available. Each person must put in one and only one plate and can choose, arbitrarily, white or black. How many different ways does Alberto fit the table? (Two fitted boards which differ only by one rotation are not to be considered separate).
+> Alberto must set a round table for six people and has six white plates and six black plates available. For each person he must put one and only one plate, which he may choose, arbitrarily, to be white or black. How many distinct ways does Alberto have of setting the table? (Two set tables that differ only by a rotation are not to be considered distinct).
 >
 > - **(A)** 12,
 > - **(B)** 13,
@@ -469,7 +506,11 @@ Days at the next Earth Day on Uru
 > - **(D)** 16,
 > - **(E)** 18.
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2007_triennio#q20|src_archimede_2007_triennio__Q20]]
 
 
 
@@ -502,9 +543,13 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*This decimal number of 13^7/10^5 plus the root 3 of 10^5*
+*Sixth decimal digit of 13^7/10^5 plus cube root of 10^5*
 
-> What is the sixth decimal digit after the comma of the number 137 + √ 3 105 ?
+> What is the sixth decimal digit after the comma of the number 137 +
+> √
+> 3
+> 105
+> ?
 >
 > - **(A)** 0,
 > - **(B)** 3,
@@ -512,7 +557,10 @@ Days at the next Earth Day on Uru
 > - **(D)** 7,
 > - **(E)** 8.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2007_triennio#q21|src_archimede_2007_triennio__Q21]]
 
 
 
@@ -543,17 +591,20 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True logical implication according to Francis*
+*Statement that is certainly true according to Francesco*
 
-> After school Francis invites his friends to his home to study and make snacks and says: "If we are few we will study well; if we are many we will eat little". Which of the following claims is certainly true according to Francis?
+> After school Francesco invites his friends to his house to study and have a snack, and says: "If we are few, we will study well; if we are many, we will eat little." Which of the following statements is certainly true according to Francesco?
 >
-> - **(A)** If you're few, you eat a lot.
-> - **(B)** To study well, it is necessary to be few.
-> - **(C)** If you study poorly, you're not few.
-> - **(D)** If you eat a little, you're necessarily eating a lot.
-> - **(E)** If you're in a lot of people, you're studying badly.
+> - **(A)** if there are few, one eats a lot
+> - **(B)** to study well it is necessary to be few
+> - **(C)** if one studies badly, one is not few
+> - **(D)** if one eats little, one is necessarily many
+> - **(E)** if there are many, one studies badly.
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2007_triennio#q22|src_archimede_2007_triennio__Q22]]
 
 
 
@@ -584,17 +635,21 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of intersection area of two equilateral triangles*
+*Percentage area of the intersection of two equilateral triangles*
 
-> Two equilateral triangles have the common barycenter and one is obtained from the other by a rotation of 30 degrees. The area of their intersection is a percentage of the area of one of the triangles which is:
+> Two equilateral triangles have the same centroid, and one is obtained from the other by a rotation of 30 degrees. The area of their intersection is a percentage of the area of one of the triangles which is:
 >
-> - **(A)** between 50% and 60%,
-> - **(B)** between 60% and 70%,
-> - **(C)** between 70% and 80%;
-> - **(D)** between 80% and 90%,
+> - **(A)** between 50% and 60%
+> - **(B)** between 60% and 70%
+> - **(C)** between 70% and 80%
+> - **(D)** between 80% and 90%
 > - **(E)** between 90% and 100%.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2007_triennio#q23|src_archimede_2007_triennio__Q23]]
 
 
 
@@ -626,9 +681,9 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Euro earned by Antonio in all possible groups*
+*Euro earned by Antonio across all possible groups*
 
-> There are nine students in a class and one of them, Antonio, goes out every day with a different group of classmates and every time he goes out each member of the group he is with gives him a Euro. How many euros has Antonio earned after all the different choices of groups to date?
+> In a class there are 9 pupils and one of them, Antonio, goes out every day with a different group of classmates and each time he goes out, each member of the group he is with gives him one Euro. How many Euros will Antonio have earned by the end of all the possible distinct choices of groups with which to go out?
 >
 > - **(A)** 27 · 7,
 > - **(B)** 23 · 53,
@@ -636,4 +691,7 @@ Days at the next Earth Day on Uru
 > - **(D)** 211,
 > - **(E)** 28 · 32.
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_doppio_conteggio|Double counting]]
+[[Quesiti/src_archimede_2007_triennio#q25|src_archimede_2007_triennio__Q25]]

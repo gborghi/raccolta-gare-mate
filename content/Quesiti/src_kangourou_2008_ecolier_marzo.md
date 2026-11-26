@@ -36,18 +36,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which symbol makes 1+1∗1-2=100 true*
+*Which symbol makes 1+1*1-2=100 true?*
 
-> Consider the equality 1 + 1 ∗1 – 2 = 100.
-> Which of the following signs or digits must you substitute for the symbol ∗
-> to make it true?
+> Consider the equation 1 + 1 ∗1 – 2 = 100. Which of the following signs or digits must you substitute for the symbol ∗ to make it true?
 > A) + 
 > B) – 
 > C) x 
 > D) 0 
 > E) 1
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q01|src_kangourou_2008_ecolier_marzo__Q01]]
 
 
 
@@ -77,13 +79,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many stars in the figure*
+*How many little stars in the figure?*
 
 ![[src_kangourou_2008_ecolier_marzo__prob2.png]]
 
-> How many stars are in the figure? A) 100 B) 90 C) 95 D) 85 E) 105
+> How many little stars are there in the figure?
+> A) 100
+> B) 90
+> C) 95
+> D) 85
+> E) 105
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q02|src_kangourou_2008_ecolier_marzo__Q02]]
 
 
 
@@ -116,11 +127,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-What flower does the mother receive
+*What flower does Mom get?*
 
-> Miriam brings her mother, grandmother, aunt, and two sisters a flower for each. Do you know that • the flowers for the sisters and the aunt are the same color; • the grandmother does not receive a rose. What flower does the mother receive, if Miriam's gift is the one listed below? A) A yellow tulip. B) A red rose. C) A red carnation. D) A yellow rose. E) A yellow carnation.
+> Miriam brings a flower for each of her mother, her grandmother, her aunt, and her two sisters. Do you know that • the flowers for the sisters and for the aunt are the same color; • the grandmother does not receive a rose? What flower does the mother receive if the flowers Miriam gives are the ones shown below?
+> A) A yellow tulip.
+> B) A red rose.
+> C) A red carnation.
+> D) A yellow rose.
+> E) A yellow carnation.
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q03|src_kangourou_2008_ecolier_marzo__Q03]]
 
 
 
@@ -192,7 +212,7 @@ What flower does the mother receive
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many squares in the sixth figure*
+*How many squares are there in the sixth figure?*
 
 ![[src_kangourou_2008_ecolier_marzo__prob4.png]]
 
@@ -222,26 +242,26 @@ What flower does the mother receive
 \end{document}
 ```
 
-> In the three figures you can observe three large squares, each subdivided into smaller squares according to the following rule: when passing from one large square to the next, the top-right small square is subdivided into 4 smaller squares. If we do not count the squares that are subdivided,
->  
->  
->  
->  
->  
-> Text_08.qxp  9-03-2008  14:56  Page 5
-> 
-> On page
-> Page 6
-> Kang 2008
-> Kang 2008
-> in smaller squares, in the first figure there are 4 squares, in the second 7, in the third 10. Continuing in this way, how many squares will there be in the sixth figure (always excluding those that contain other squares)?
-> (A) 16
-> (B) 17
-> (C) 18
-> (D) 19
-> (E) 20
+> In the three figures, you can see three large squares, each divided into smaller squares according to the following rule: when moving from one large square to the next, the top-right square is divided into 4 smaller squares. If we do not count the squares that are divided
+>
+>
+>
+>
+>
+> Testi_08.qxp 9-03-2008 14:56 Page 5
+>
+> Page Page 6 Kang 2008 Kang 2008 in smaller squares: in the first figure there are 4 squares, in the second 7, in the third 10. Continuing in this way, how many squares will there be in the sixth figure (always excluding the squares that contain other squares)?
+> A) 16 
+> B) 17 
+> C) 18 
+> D) 19 
+> E) 20
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_funzionali|Functional equations / sequences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q04|src_kangourou_2008_ecolier_marzo__Q04]]
 
 
 
@@ -273,11 +293,21 @@ What flower does the mother receive
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times could the call start*
+*At how many times could the call have started?*
 
-> Lucia's digital clock is flawed: sometimes it shows the digit 8 instead of the digit 0, and sometimes it shows the digit 0 instead of the digit 8. At the beginning of a phone call, Lucia looked at her clock and read 20:08. How many different times could that phone call have started? A) 1 B) 2 C) 3 D) 4 E) 8
+> Lucia's digital clock is faulty: sometimes it displays the digit 8 instead of the digit 0, and sometimes it displays the digit 0 instead of the digit 8. At the beginning of a phone call, Lucia looked at her clock and read 20:08. In how many different times could that phone call have started?
+> A) 1 
+> B) 2 
+> C) 3 
+> D) 4 
+> E) 8
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q05|src_kangourou_2008_ecolier_marzo__Q05]]
 
 
 
@@ -317,7 +347,7 @@ What flower does the mother receive
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Into how many parts do 4 lines through a point divide the sheet*
+*Into how many parts do 4 lines through a single point divide the sheet?*
 
 ![[src_kangourou_2008_ecolier_marzo__prob6.png]]
 
@@ -330,9 +360,17 @@ What flower does the mother receive
 \end{document}
 ```
 
-> In the figure you see a sheet of paper marked with a dot. If you draw on the sheet four lines, all of which are different from each other, but all of which pass through that point, into how many parts is the sheet divided? A) 4                B) 6 C) 5 D) 8 E) 12
+> In the figure, you see a sheet of paper on which a point has been marked. If you draw four distinct lines on the sheet, all passing through that point, into how many parts is the sheet divided?
+> A) 4                B) 6            
+> C) 5            
+> D) 8             
+> E) 12
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q06|src_kangourou_2008_ecolier_marzo__Q06]]
 
 
 
@@ -360,11 +398,19 @@ What flower does the mother receive
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who is the tallest of all
+*Who is the tallest of all?*
 
-> Aldo is taller than Bruno, but lower than Enrico. Dario is taller than Carlo, but lower than Aldo. Who's the tallest of them all? A) Aldo B) Bruno C) Carlo D) Dario E) Enrico
+> Aldo is taller than Bruno but shorter than Enrico. Dario is taller than Carlo but shorter than Aldo. Who is the tallest of all?
+> A) Aldo
+> B) Bruno
+> C) Carlo
+> D) Dario E) Enrico
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q07|src_kangourou_2008_ecolier_marzo__Q07]]
 
 
 
@@ -395,11 +441,20 @@ Who is the tallest of all
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who can build a full cube
+*Who can build a solid cube?*
 
-> Andrea has eight cubes, Bernardo has 12, Cesare has 16, Diana has 20. Every boy's cubes are all the same. Of these guys, who can build a big full cube using all its cubes? A) Only Andrea. B) Only Caesar. C) Both Diana and Bernardo. D) Both Andrea and Diana. E) None of the four. The questions from N. 9 to N. 16 are worth 4 points each.
+> Andrea has 8 cubes, Bernardo has 12, Cesare has 16, and Diana has 20. Each boy's cubes are all the same. Among these boys, who can build a large solid cube using all of their cubes?
+> A) Only Andrea.
+> B) Only Cesare. C) Both Diana and Bernardo.
+> D) Both Andrea and Diana.
+> E) None of the four.
+> Questions 9 to 16 are each worth 4 points.
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q08|src_kangourou_2008_ecolier_marzo__Q08]]
 
 
 
@@ -435,24 +490,23 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many years units = 4 times thousands*
+*Since how many years united = 4 times thousands*
 
-> The number expressing the year 2008 has the units digit equal to
-> four times the thousands digit. In how many years will the same situation
-> occur again for the first time?
+> The number that represents the year 2008 has a units digit equal to four times its thousands digit. In how many years will the same situation occur for the first time again?
 > A) 10
 > B) 100
 > C) 1000
 > D) 2008
-> E) A number of years different from the previous ones.
-> Testi_08.qxp  9-03-2008  14:56  Page 6
-> 
-> Pag. 
-> Pag. 7
-> Kang 2008
-> Kang 2008
+> E) A number of years different from the preceding ones.
+> Testi_08.qxp 9-03-2008 14:56 Page 6
+>
+> Page Page 7 Kang 2008 Kang 2008
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q09|src_kangourou_2008_ecolier_marzo__Q09]]
 
 
 
@@ -483,11 +537,20 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time between the beginning of the first and the end of the third line*
+*Duration between the start of the first piece and the end of the third piece*
 
-> On a CD, some pieces of music are recorded: the first takes 6 minutes and 25 seconds, the second 12 minutes and 25 seconds, the third 10 minutes and 13 seconds. Each piece is separated from the next by an interval of 5 seconds. Listening to the CD, how much time passes between the beginning of the first piece and the end of the third? A) 28 minutes and 3 seconds B) 28 minutes and 18 seconds C) 29 minutes and 13 seconds D) 29 minutes and 3 seconds E) 29 minutes and 18 seconds
+> Several musical pieces are recorded on a CD: examining the first three, the first lasts 6 minutes and 25 seconds, the second lasts 12 minutes and 25 seconds, and the third lasts 10 minutes and 13 seconds. Each piece is separated from the next by a 5-second interval. While listening to the CD, how much time passes between the start of the first piece and the end of the third?
+> A) 28 minutes and 3 seconds
+> B) 28 minutes and 18 seconds
+> C) 29 minutes and 13 seconds
+> D) 29 minutes and 3 seconds
+> E) 29 minutes and 18 seconds
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q10|src_kangourou_2008_ecolier_marzo__Q10]]
 
 
 
@@ -513,13 +576,17 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which construction of cubes is not feasible*
+*Which cube construction cannot be realized?*
 
 ![[src_kangourou_2008_ecolier_marzo__prob11.png]]
 
-> The construction you see on the right is done using 5 equal cubes. You can move only one, put it in the position you want. Which of the underlying constructions (seen from different angles) cannot be realized ?
+> The structure you see on the right is made using 5 identical cubes. You can move only one of them, placing it in whatever position you want. Which of the structures below (which are shown from different angles) cannot be built?
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q11|src_kangourou_2008_ecolier_marzo__Q11]]
 
 
 
@@ -570,7 +637,7 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many different scores with two arrows*
+*How many different scores with two arrows?*
 
 ![[src_kangourou_2008_ecolier_marzo__prob12.png]]
 
@@ -589,9 +656,20 @@ Who can build a full cube
 \end{document}
 ```
 
-> Giovanna throws two arrows at the target, and she's sure to hit it. The resulting score is the sum of the scores achieved with the individual arrows: for example, in the figure we see a situation in which the resulting score is 5. How many different scores among them can Giovanna get (5 included)? A) 4 B) 6 C) 8 D) 9 E) 10
+> Giovanna shoots two arrows toward the target, and is
+> Certain of hitting it. The score achieved is the sum of the scores obtained with each individual arrow: for example, in the figure we see a situation in which the score achieved is 5. How many different scores can Giovanna obtain (including 5)?
+> A) 4
+> B) 6
+> C) 8
+> D) 9
+> E) 10
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q12|src_kangourou_2008_ecolier_marzo__Q12]]
 
 
 
@@ -621,11 +699,20 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit numbers with a right-hand double digit*
+*4-digit numbers with the digit on the right appearing twice*
 
-> How many different 4-digit numbers can you write if you want every digit (except the unit number) to be double the one immediately to your right? A) 0 B) 1 C) 2 D) 3 E) 4
+> How many different 4-digit numbers can you write if you want each digit (except the units digit) to be twice the digit immediately to its right?
+> A) 0 
+> B) 1 
+> C) 2 
+> D) 3 
+> E) 4
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q13|src_kangourou_2008_ecolier_marzo__Q13]]
 
 
 
@@ -669,13 +756,30 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum bricks 1x2x4 in a box 4x4x4*
+*Maximum 1x2x4 bricks in a 4x4x4 box*
 
 ![[src_kangourou_2008_ecolier_marzo__prob14.png]]
 
-> You have a number of bricks that are 1cm x 2cm x 4cm. You want to put as many of them as possible in a cubic box whose dimensions are 4 cm x 4 cm x 4 cm, so that the box can be closed by a lid. How many bricks can you put in the box at most? A) 6 B) 7 C) 8 D) 9 E) 10 6 3 2 A) B) C) D) E) Text_08.qxp
+> There are a certain number of little bricks of
+> Dimensions: 1 cm x 2 cm x 4 cm. You want to fit as many as possible of them into a cubic box measuring 4 cm x 4 cm x 4 cm, so that the box can be closed with a lid. What is the maximum number of blocks you can fit into the box?
+> A) 6 
+> B) 7
+> C) 8
+> D) 9 
+> E) 10
+> 6 3 2
+> A)
+> B)
+> C)
+> D)
+> E)
+> Testi_08.qxp 9-03-2008 14:56 Page 7
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q14|src_kangourou_2008_ecolier_marzo__Q14]]
 
 
 
@@ -723,7 +827,7 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the swimming pool in the square garden*
+*Perimeter of the pool in the square garden*
 
 ![[src_kangourou_2008_ecolier_marzo__prob15.png]]
 
@@ -741,9 +845,19 @@ Who can build a full cube
 \end{document}
 ```
 
-> In the figure you can see the plan of a square garden, divided into a swimming pool (P), a flowerbed (A), a play area (G) and a greenhouse (S). The flowerbed and the play area are both square. The perimeter of the flowerbed measures 12 metres, the perimeter of the play area 20 metres. What is the perimeter of the pool in meters? A) 10 B) 12 C) 14 D) 16 E) 18
+> In the figure, you can see the plan of a square garden,
+> It is divided into a pool (P), a flowerbed (A), a play area (G), and a greenhouse (S). Both the flowerbed and the play area are square. The perimeter of the flowerbed is 12 metres, and that of the play area is 20 metres. What is the perimeter of the pool in metres?
+> A) 10   
+> B) 12        
+> C) 14     
+> D) 16    
+> E) 18
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q15|src_kangourou_2008_ecolier_marzo__Q15]]
 
 
 
@@ -773,18 +887,21 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many years old on Frettoloso*
+*How many years on Frettoloso?*
 
-> On the planet Frettoloso a year lasts 3 months, a month lasts 10 days and a day lasts like a day on planet Earth. Giovanna, on
-> Earth, is 360 days old. How many years old would she be on Frettoloso?
+> On the planet Frettoloso, a year lasts 3 months, a month lasts 10 days, and a day lasts as long as a day on Earth. On Earth, Giovanna is 360 days old. How old would she be on Frettoloso?
 > A) 4 
 > B) 6 
 > C) 10 
 > D) 12 
 > E) Another number.
-> Questions from No. 17 to No. 24 are worth 5 points each
+> Questions 17 to 24 are each worth 5 points.
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q16|src_kangourou_2008_ecolier_marzo__Q16]]
 
 
 
@@ -814,11 +931,22 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of the kangaroo in autumn 2004*
+*Kangaroo's weight in autumn 2004*
 
-> A kangaroo gains 5 kilograms in winter and loses 4 kilograms in summer. Her weight is monitored in spring and autumn. In the spring of 2008, the kangaroo weighed 100 kilograms. How many kilograms did she weigh in the fall of 2004? A) 92 B) 93 C) 95 D) 96 E) 98
+> In winter, a kangaroo gains 5 kilograms, and in summer it loses
+> 4. Its weight is checked in spring and in autumn. In spring 2008, the kangaroo weighs 100 kilograms. How many kilograms did it weigh in autumn 2004?
+> A) 92   
+> B) 93      
+> C) 95     
+> D) 96       
+> E) 98
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q17|src_kangourou_2008_ecolier_marzo__Q17]]
 
 
 
@@ -850,9 +978,18 @@ Who can build a full cube
 
 *Number of children in the family*
 
-> William has as many sisters as brothers. For his sister Anna, the number of brothers is twice that of sisters. How many children are there in that family? A) 3 B) 4 C) 5 D) 6 E) 7
+> Guglielmo has as many sisters as brothers. For his sister Anna, the number of brothers is twice the number of sisters. How many children are there in that family?
+> A) 3
+> B) 4
+> C) 5
+> D) 6
+> E) 7
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q18|src_kangourou_2008_ecolier_marzo__Q18]]
 
 
 
@@ -883,9 +1020,18 @@ Who can build a full cube
 
 *Total weight of the three fruits*
 
-> A pear, an apple, and a plum are on the plate of a scale. If we remove the pear, the balance is 230 grams; if we remove the apple, the balance is 200 grams; if we remove the plum, the balance is 290 grams. How many grams weigh all three fruits? A) 200 B) 250 C) 300 D) 360 E) 420
+> A pear, an apple, and a plum are on one side of a scale. If we remove the pear, the scale reads 230 grams; if we remove the apple, the scale reads 200 grams; if we remove the plum, the scale reads 290 grams. What is the total weight of the three fruits in grams?
+> A) 200 
+> B) 250 
+> C) 300 
+> D) 360 
+> E) 420
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q19|src_kangourou_2008_ecolier_marzo__Q19]]
 
 
 
@@ -931,34 +1077,24 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which shape cannot the cross-section of the pyramid have*
+*What shape can the cross-section of the pyramid not have?*
 
 ![[src_kangourou_2008_ecolier_marzo__prob20.png]]
 
-> A solid pyramid with a square base, externally painted black, is cut into two parts
-> with a plane cut. Since the pyramid is made of light wood, each of the two parts has one light face while all the others are evidently black. Which
-> of the following cannot be the shape of the light face?
-> Pag. 
-> Pag. 8
-> Kang 2008
-> Kang 2008
-> P
-> G
-> A
-> S
-> Testi_08.qxp  9-03-2008  14:56  Pagina 8
-> 
-> Pag. 
-> Pag. 9
-> Kang 2008
-> Kang 2008
-> A) Square 
-> B) Trapezoid 
-> C) Triangle 
-> D) Pentagon   
-> E) All the shapes listed are possible
+> A solid square-based pyramid, painted black on the outside, is cut into two parts by a planar cut. Since the pyramid is made of light-colored wood, each of the two parts has one light face, while all the other faces are clearly black. Which of the following cannot be the shape of the light face? Pg. Pg. 8 Kang 2008 Kang 2008 P G A S Testi_08.qxp 9-03-2008 14:56 Page 8
+>
+> Page Page 9 Kang 2008 Kang 2008
+> A) Square
+> B) Trapezoid
+> C) Triangle
+> D) Pentagon
+> E) All of the listed forms are possible
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q20|src_kangourou_2008_ecolier_marzo__Q20]]
 
 
 
@@ -987,11 +1123,21 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural numbers with 2 to 3 digits greater than the sum of the digits*
+*Natural numbers with 2–3 digits greater than the sum of the digits*
 
-> How many two- or three-digit natural integers are greater than the sum of their digits? A) 1 B) 100 C) 989 D) 990 E) 999
+> How many natural whole numbers with 2 or 3 digits are greater than the sum of their digits?
+> A) 1
+> B) 100
+> C) 989
+> D) 990
+> E) 999
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q21|src_kangourou_2008_ecolier_marzo__Q21]]
 
 
 
@@ -1022,11 +1168,21 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many dates are readable in reverse*
+*How many dates are readable backwards?*
 
-> If you read the date 21.02 (February 21) from right to left, you get 20.12 and in this case it is still a possible date (December 20). However, the date 10.09 (10 September) does not have this property (there is no date 90 January). How many dates in a year have this property (i.e. are like February 21st)? A) 30 B) 18 C) 36 D) 35 E) Depends on the year
+> If you read the date 21.02 (February 21) from right to left, you get 20.12, and in this case it is still a possible date (December 20). However, the date 10.09 (September 10) does not have this property (January 90 does not exist). How many dates in a year have this property (that is, are like February 21)?
+> A) 30
+> B) 18
+> C) 36
+> D) 35
+> E) It depends on the year
 
-**Answer:** 34
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q22|src_kangourou_2008_ecolier_marzo__Q22]]
 
 
 
@@ -1057,11 +1213,21 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*At least how many people of the same age*
+*At least as many people of the same age*
 
-> In a square, 2008 people gathered. None of them are over 50. What is the largest number for which the following is true: Are we sure that there are at least that number of people in the square who are the same age? A) 39 B) 40 C) 41 D) 42 E) None of the above.
+> 2008 people gathered in a square. None of them is older than 50. What is the largest number for which the following statement is true: "We are sure that in the square there are at least that many people who are the same age"?
+> A) 39 
+> B) 40 
+> C) 41
+> D) 42 
+> E) None of the above.
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q23|src_kangourou_2008_ecolier_marzo__Q23]]
 
 
 
@@ -1101,19 +1267,21 @@ Who can build a full cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of cards in the first essay (parity)*
+*Sum of the cards in the first trial (equal)*
 
-> A box contains seven cards numbered from 1 to 7. Two sages draw cards at random from the box: the first takes three cards, the second takes two of the remaining; the last two stay closed in the box. The first sage, after looking only at the numbers on his own cards, says to the second: "I am certain that the sum of the numbers on your cards is even." What is the sum of the numbers on the cards drawn by the first sage?
+> A box contains seven cards numbered from 1 to 7. Two sages draw cards at random from the box: the first draws three, and the second draws two of the remaining ones; the last two stay in the box. After looking only at the numbers written on the cards he drew, the first sage says to the second: "I am certain that the sum of the numbers on your cards is even." What is the value of the sum of the numbers on the cards drawn by the first sage?
+> A) 10 
+> B) 12 
+> C) 6 
+> D) 9 
+> E) 15
+> Testi_08.qxp 9-03-2008 14:56 Page 9
 >
-> (A) 10
-> (B) 12
-> (C) 6
-> (D) 9
-> (E) 15
-> 
-> 1
-> Kangaroo Mathematics 2008
-> Category Écolier
-> For students in fourth or fifth grade of primary school
+> 1 Kangourou de Mathématiques 2008, Écolier Category, for fourth- or fifth-grade primary school students
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_ecolier_marzo#q24|src_kangourou_2008_ecolier_marzo__Q24]]

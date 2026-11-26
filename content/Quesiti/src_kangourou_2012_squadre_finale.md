@@ -33,14 +33,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*By how much does the sum of the even numbers exceed that of the odd numbers*
+*By how much the sum of the evens exceeds that of the odds*
 
-> Paola and Enrico 
-> Consider all positive integers up to 2012 inclusive: Paola calculates the sum of all the 
-> odd ones and Enrico the sum of all the even ones. By how much does the sum obtained by Enrico exceed that 
-> obtained by Paola?
+> Paola and Enrico. Consider all the positive integers up to and including 2012: Paola calculates the sum of all the odd ones and Enrico the sum of all the even ones. By how much does the sum obtained by Enrico exceed that obtained by Paola?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 1006
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+[[Quesiti/src_kangourou_2012_squadre_finale#q01|src_kangourou_2012_squadre_finale__Q01]]
 
 
 
@@ -65,11 +68,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage increase in area of triangle with sides +20%*
+*Percentage increase in triangle area with sides +20%*
 
-> Greener than that! A park occupies a triangular area. To increase its area, it is decided to increase the length of each side by 20%. What percentage of the area is increased?
+> More green! A park occupies a triangular surface. To increase its area, it is decided to increase the length of each of its sides by 20%. By how much, as a percentage, is the area increased?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 44
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+[[Quesiti/src_kangourou_2012_squadre_finale#q02|src_kangourou_2012_squadre_finale__Q02]]
 
 
 
@@ -94,11 +102,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of digits of 8^5 × 5^17 × 7^3*
+*Number of digits of 85 × 517 × 73*
 
-> Multiplication How many digits does the number 8^5 × 5^17 × 7^3 have?
+> The multiplication. How many digits does the number 85 × 517 × 73 have?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 19
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+[[Quesiti/src_kangourou_2012_squadre_finale#q03|src_kangourou_2012_squadre_finale__Q03]]
 
 
 
@@ -124,14 +138,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Acute angle of clock hands 10 minutes after a 90-degree angle*
+*Acute angle of the hands 10 minutes later*
 
-> Marco's town clock tower
-> In Marco's town, the clock tower has a large traditional clock and it chimes only on the "full" hours.
-> At a certain afternoon hour, when the clock tower chimes, the hands form an angle
-> of 90 degrees. How many degrees does the acute angle that the hands form 10 minutes later measure?
+> The bell tower clock. In Marco's village, the bell tower has a large traditional clock and chimes only on the hour. At a certain time in the afternoon, when the bell tower chimes, the hands form an angle of 90 degrees. How many degrees does the acute angle that the hands form 10 minutes later measure?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Answer:** 35
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+[[Quesiti/src_kangourou_2012_squadre_finale#q04|src_kangourou_2012_squadre_finale__Q04]]
 
 
 
@@ -158,11 +174,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum final zero of n if the product of divisors has 15 zeroses*
+*Maximum trailing zeros of n*
 
-> Multiply all divisors A positive integer n is such that, if you multiply all its divisors, including n, you get a number whose writing (decimal) ends with 15 zeros. With how many zeros at most can the decimal representation of n end?
+> Multiply all the divisors A positive integer n is such that, if one multiplies together all its divisors, including n, one obtains a number whose (decimal) representation ends with 15 zeros. With how many zeros at most can the (decimal) representation of n end?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 2
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+[[Quesiti/src_kangourou_2012_squadre_finale#q05|src_kangourou_2012_squadre_finale__Q05]]
 
 
 
@@ -188,11 +210,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of cube cubes (1/8 red, 1/4 white)*
+*Number of small cubes in the cube*
 
-> Cube and cubes A cube is less than a meter high and is obtained by placing more than 300 cubes each with a side of one decimetre. One-eighth of these are red, a quarter are white and the rest are green. How many cubes is the cube made of?
+> Cube and small cubes. A cube is less than one metre high and is obtained by placing together more than 300 small cubes, each of side one decimetre. One eighth of these are red, one quarter are white and the remaining ones are green. How many small cubes make up the cube?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Answer:** 512
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+[[Quesiti/src_kangourou_2012_squadre_finale#q06|src_kangourou_2012_squadre_finale__Q06]]
 
 
 
@@ -218,11 +245,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Total tournament matches 16 tennis players all against all
+*Total matches: sixteen tennis players, all against all*
 
-> How many games? Sixteen tennis players participate in a tournament where each is expected to meet each other once and only once. How many matches will be played in that tournament overall?
+> How many matches? Sixteen tennis players take part in a tournament in which each must meet each of the others once and only once. How many matches will be played in total in that tournament?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 120
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+[[Quesiti/src_kangourou_2012_squadre_finale#q07|src_kangourou_2012_squadre_finale__Q07]]
 
 
 
@@ -247,12 +280,17 @@ Total tournament matches 16 tennis players all against all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest divisor of 2^14-1 distinct from the number*
+*Greatest divisor of 214 – 1 distinct from the number*
 
-> Large divisors 
-> What is the largest divisor of the number 214 – 1 distinct from the number itself?
+> Large divisors. What is the greatest divisor of the number 214 – 1 that is distinct from the number itself?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 5461
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+[[Quesiti/src_kangourou_2012_squadre_finale#q08|src_kangourou_2012_squadre_finale__Q08]]
 
 
 
@@ -278,11 +316,16 @@ Total tournament matches 16 tennis players all against all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining pages given the sum of page numbers today 5106*
+*Remaining pages given today's page-number sum 5106*
 
-> Roberto's book to read must read a 630-page book. Yesterday he read a third of it and the sum of the page numbers he will read today is 5106. After today's reading, how many pages of the book will he have left to read?
+> The book to read. Roberto has to read a book of 630 pages. Yesterday he read a third of it and the sum of the page numbers he will read today is 5106. Once he has finished today's reading, how many pages of the book will he have left to read?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 397
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+[[Quesiti/src_kangourou_2012_squadre_finale#q09|src_kangourou_2012_squadre_finale__Q09]]
 
 
 
@@ -307,13 +350,16 @@ Total tournament matches 16 tennis players all against all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the product (2012-0)×...×(0-2012)*
+*Value of the product (2012-0)×…×(0-2012)*
 
-> So many factors!
-> Find the value of the following product
->   (2012 – 0) × (2011 – 1) × (2010 – 2) × … × (2 – 2010) × (1 – 2011) × (0 – 2012).
+> What a lot of factors! Find the value of the following product (2012 – 0) × (2011 – 1) × (2010 – 2) × … × (2 – 2010) × (1 – 2011) × (0 – 2012).
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+[[Quesiti/src_kangourou_2012_squadre_finale#q10|src_kangourou_2012_squadre_finale__Q10]]
 
 
 
@@ -342,11 +388,16 @@ Total tournament matches 16 tennis players all against all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Train length (James 45m, Luke 30m)*
+*Length of the train (Giacomo 45 m, Luca 30 m)*
 
-> James and Luke are both standing in the middle of the platform of a station where a freight train is arriving, which is traveling at a constant speed and will not stop at the station. When the front of the locomotive reaches them, they begin to walk at the same speed along the platform, James in the same direction as the train and Luke in the opposite direction. They both stop when they are reached by the train's tail: James walked 45 meters, Luke walked 30 meters. How long is the train?
+> The train passes. Giacomo and Luca are both standing still halfway along the platform of a station where a goods train is arriving. The train travels at a constant speed and will not stop at the station. When the front of the locomotive reaches them, they start walking at the same speed along the platform, Giacomo in the same direction as the train and Luca in the opposite direction. They both stop when they are reached by the rear of the train: in doing so, Giacomo has walked 45 metres and Luca has walked 30 metres. How many metres long is the train?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 180
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+[[Quesiti/src_kangourou_2012_squadre_finale#q11|src_kangourou_2012_squadre_finale__Q11]]
 
 
 
@@ -374,11 +425,16 @@ Total tournament matches 16 tennis players all against all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Basic computer price with savings of EUR 15*
+*Base price of the computer given a saving of 15 euros*
 
-> Marta buys a computer Marta wants to buy a computer and visits two shops, A and B, where the basic price of the computer is the same. In A they offer a 15% discount on the base price and an additional €90 discount; in B they simply offer a 25% discount on the base price. Marta decides to buy the computer in A, because doing so saves 15 euros. What is the basic computer price in euros?
+> Marta buys a computer Marta wants to buy a computer and visits two shops, A and B, where the base price of the computer is the same.  In A they offer her a discount of 15% on the base price and a further discount of 90 euros; in B they simply offer her a discount of 25% on the base price. Marta decides to buy the computer in A, because by doing so she saves 15 euros. What is, in euros, the base price of the computer?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 750
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+[[Quesiti/src_kangourou_2012_squadre_finale#q12|src_kangourou_2012_squadre_finale__Q12]]
 
 
 
@@ -407,11 +463,17 @@ Total tournament matches 16 tennis players all against all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two-digit numbers whose reduction is iterated by 0*
+*Two-digit numbers whose iterated reduction gives 0*
 
-> Reducing a positive integer greater than or equal to 10 means that we multiply its digits together. Of course, the reduction operation can be iterated (i.e. repeated on the result obtained): for example, doing it twice consecutively on number 57, you get 15. How many positive integers of two digits are such that, iterating on them the reduction operation, at some point you get 0?
+> 0umeri reduced “Reducing” a positive integer greater than or equal to 10 means, for us, multiplying its digits together. Naturally the reduction operation can be iterated (that is, repeated on the result obtained): for example, performing it twice in a row on the number 57, one obtains 15. How many positive two-digit integers are there such that, by iterating the reduction operation on them, at some point one obtains 0?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 24
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+[[Quesiti/src_kangourou_2012_squadre_finale#q13|src_kangourou_2012_squadre_finale__Q13]]
 
 
 
@@ -437,11 +499,17 @@ Total tournament matches 16 tennis players all against all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equilateral triangles with vertices on a 2012-sided polygon*
+*Equilateral triangles on a 2012-sided polygon*
 
-> Inscribed triangles How many equilateral triangles can be constructed whose vertices are vertices of the same regular polygon of 2012 sides?
+> Inscribed triangles. How many equilateral triangles can be constructed whose vertices are vertices of the same regular polygon with 2012 sides?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 0
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+[[Quesiti/src_kangourou_2012_squadre_finale#q14|src_kangourou_2012_squadre_finale__Q14]]
 
 
 
@@ -478,20 +546,18 @@ Total tournament matches 16 tennis players all against all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total area of the eighth parallel piped*
+*Total surface area of the eighth parallelepiped*
 
 ![[src_kangourou_2012_squadre_finale__prob15.png]]
 
-> The sectioned cube looks at the figure (which is not in scale). A cube has been divided into three planes, two to two perpendiculars, giving 8 parallel-piped rectangles; for 7 of these, the area in cm2 of the total area is indicated. How much (in cm2) is the total area of the eighth floor? You can use the following additional information: The size of the side of the cube is an integer of centimeters.
->  
->                                                                                                                        
->  
-> 
->  
->  
-> Kangourou of Mathematics 2012 Kangourou team cup - final Mirabilandia, 6 May 2012
->  
->  
-> Questions and Answers
+> The sectioned cube. Look at the figure (which is not to scale). A cube has been sectioned with three planes, pairwise perpendicular, obtaining 8 rectangular parallelepipeds; for 7 of them, the area in cm2 of the total surface is indicated. What is the value (in cm2) of the area of the total surface of the eighth?  You may make use of the following additional information: the length of the side of the cube is an integer number of centimetres. Kangourou of Mathematics 2012 Kangourou Team Cup - final Mirabilandia,  6  May  2012
+>
+>
+> Questions and answers
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Answer:** 22
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+[[Quesiti/src_kangourou_2012_squadre_finale#q15|src_kangourou_2012_squadre_finale__Q15]]

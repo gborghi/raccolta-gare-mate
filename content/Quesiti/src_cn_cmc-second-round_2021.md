@@ -30,9 +30,17 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Finamente molte matrici di numeri interi che soddisfano la somma fattoriale ponderata zero*
+*Un numero finito di array di interi che soddisfano la condizione che la somma delle fattoriali pesate sia zero*
 
-> (Test Paper A, Problema 1) Date le cifre reali positive $k$ ($k \geq 2$) e $k$ non-zero $a_1, a_2, \ldots, a_k$, dimostrare che ci sono al massimo finitamente molte matrici di numeri interi $k$-elemento $(n_1, n_2, \ldots, n_k)$ che soddisfano che $n_1, n_2, \ldots, n_k$ sono parimenti distinte e $$a_1 \cdot n_1! + a_2 \cdot n_2! + \cdots + a_k \cdot n_k! = 0.$$
+> (Schema d'esame A, Problema 1) Dati l'intero positivo $k$ ($k \geq 2$) e i numeri reali non nulli $k$ $a_1, a_2, \ldots, a_k$, dimostrare che esistono al più un numero finito di array interi di $k$ elementi $(n_1, n_2, \ldots, n_k)$ tali che $n_1, n_2, \ldots, n_k$ siano a due a due distinti e
+> $$a_1 \cdot n_1! + a_2 \cdot n_2! + \cdots + a_k \cdot n_k! = 0.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc-second-round_2021#q01|src_cn_cmc-second-round_2021__Q01]]
 
 
 
@@ -57,11 +65,18 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Geometria del cerchio: prova angolo BCQ uguale angolo BAC*
+*Geometria della circonferenza circoscritta: dimostrare che l'angolo BCQ è uguale all'angolo BAC*
 
-> (Test paper A, problema 2) Come mostrato nella figura, in $\triangle ABC$, $M$ è il punto medio del lato $AC$. $D$, $E$ sono due punti sulla tangente del circoncircolo di $\triangle ABC$ al punto $A$, che soddisfano $HD \parallel AB$ e $A$ è il punto medio del segmento $DE$. Il cerchio che attraversa i punti $A$, $B$, $E$ incrocia il lato $AC$ al punto $P$. Il cerchio che attraversa i punti $A$, $D$, $P$ interseca l'estensione di $DM$ al punto $Q$. Provare che $\angle BCQ = \angle BAC$.
+> (Schema d'esame A, Problema 2) Come mostrato nella figura, in $\triangle ABC$, $M$ è il punto medio del lato $AC$. $D$, $E$ sono due punti sulla tangente alla circonferenza circoscritta di $\triangle ABC$ nel punto $A$, tali che $HD \parallel AB$ e $A$ è il punto medio del segmento $DE$. La circonferenza passante per i punti $A$, $B$, $E$ interseca il lato $AC$ nel punto $P$. La circonferenza passante per i punti $A$, $D$, $P$ interseca il prolungamento di $DM$ nel punto $Q$. Dimostrare che $\angle BCQ = \angle BAC$.
 
 ![[src_cn_cmc-second-round_2021__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-second-round_2021#q02|src_cn_cmc-second-round_2021__Q02]]
 
 
 
@@ -84,9 +99,16 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se n divide 2^n-2 e n>=4, allora (2^n-2)/n è composto*
+*Se n divide 2^n-2 e n>=4, allora (2^n-2)/n è un numero composto*
 
-> (Test paper A, problema 3) Supponiamo un numero intero $n \geq 4$. Prova che se $n$ divide $2^n - 2$, allora $\dfrac{2^n - 2}{n}$ è composto.
+> (Compito d'esame A, Problema 3) Sia $n \geq 4$ un numero intero. Dimostrare che, se $n$ divide $2^n - 2$, allora $\dfrac{2^n - 2}{n}$ è un numero composto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc-second-round_2021#q03|src_cn_cmc-second-round_2021__Q03]]
 
 
 
@@ -110,11 +132,16 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maxima k in modo che qualsiasi k punti di colore arbitrario sul cerchio di 100 punti possa essere completato per un abbinamento valido*
+*Valore massimo di k tale che, per qualsiasi insieme di k punti arbitrariamente colorati su una circonferenza con 100 punti, si possa completare l'insieme in una coppiazione valida*
 
-> (Test Paper A, Problema 4) Dati 100 punti diversi su un cerchio, cercate di determinare il numero intero massimo positivo $k$ soddisfacente: colorate i punti $k$ dei 100 punti in modo arbitrario rosso o blu, e i punti rimanenti possono essere colorati correttamente rosso o blu, in modo che i 100 punti possano essere utilizzati come punti finali per creare 50 segmenti, qualsiasi due segmenti non hanno un punto comune e i punti finali di ogni segmento sono dello stesso colore.
+> (Compito d'esame A, Problema 4) Dati 100 punti distinti su una circonferenza, si cerchi di determinare il massimo intero positivo $k$ tale che: si colorino arbitrariamente di rosso o di blu $k$ dei 100 punti, e i punti rimanenti possano essere colorati opportunamente di rosso o di blu, in modo che i 100 punti possano essere utilizzati come estremi per formare 50 segmenti, che due segmenti qualsiasi non abbiano alcun punto in comune e che gli estremi di ciascun segmento siano dello stesso colore.
 
-**Risposta:** 50
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-second-round_2021#q04|src_cn_cmc-second-round_2021__Q04]]
 
 
 
@@ -139,11 +166,18 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Geometria triangolare: dimostrare A, P, Q collineari attraverso circoli circolari*
+*Geometria del triangolo: dimostrare che A, P, Q sono allineati tramite le circonferenze circoscritte*
 
-> (Test Paper A1, Problema 1) Come mostrato nella figura, in $\triangle ABC$, $AB > AC$. Due punti $X$ e $Y$ di $\triangle ABC$ sono situati sul bisettore di $\angle BAC$ e soddisfano $\angle ABX = \angle ACY$. L'estensione di $BX$ e del segmento $CY$ si intersecano al punto $P$. Il circoncircolo $\omega_1$ di $\triangle BPY$ e il circoncircolo $\omega_2$ di $\triangle CPX$ si incrociano a $P$ e un altro punto $Q$. Provare che i punti $A$, $P$, $Q$ sono collineari.
+> (Compito d'esame A1, Problema 1) Come mostrato nella figura, in $\triangle ABC$, $AB > AC$. Due punti $X$, $Y$ in $\triangle ABC$ giacciono sulla bisettrice di $\angle BAC$ e soddisfano $\angle ABX = \angle ACY$. Sia $P$ l'intersezione tra il prolungamento di $BX$ e il segmento $CY$. La circonferenza circoscritta $\omega_1$ di $\triangle BPY$ e la circonferenza circoscritta $\omega_2$ di $\triangle CPX$ si intersecano in $P$ e in un altro punto $Q$. Dimostrare che i punti $A$, $P$, $Q$ sono allineati.
 
 ![[src_cn_cmc-second-round_2021__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-second-round_2021#q05|src_cn_cmc-second-round_2021__Q05]]
 
 
 
@@ -168,9 +202,18 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza che soddisfa RMS e condizioni medie: i termini di prova convergono entro 0,001*
+*Successione che soddisfa le condizioni sull'RMS e sulla media: dimostrare che i termini convergono entro 0,001*
 
-> (Test Paper A1, Problem 3) Lasciate che le sequenze di numeri reali positivi $\{a_n\}$, $\{b_n\}$ soddisfino: $$a_n = \sqrt{\frac{1}{100}\sum_{i=1}^{100} a_{n+i-1}^2}, \quad b_n = \frac{1}{100}\sum_{i=1}^{100} a_{n+i-1}.$$ Prove che esiste un intero positivo $k$ tale che $|a_m - b_m| < 0.001$ per tutti $m \geq k$.
+> (Scheda d'esame A1, Problema 3) Siano $\{a_n\}$, $\{b_n\}$ successioni di numeri reali positivi tali che:
+> $$a_n = \sqrt{\frac{1}{100}\sum_{i=1}^{100} a_{n+i-1}^2}, \quad b_n = \frac{1}{100}\sum_{i=1}^{100} a_{n+i-1}.$$
+> Dimostrare che esiste un numero intero positivo $k$ tale che $|a_m - b_m| < 0.001$ per ogni $m \geq k$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-second-round_2021#q06|src_cn_cmc-second-round_2021__Q06]]
 
 
 
@@ -194,11 +237,16 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximo k per il colore valido di 100 punti di cerchio abbinati come segmenti non incrociati dello stesso colore*
+*Valore massimo di k per una colorazione valida di 100 punti circolari accoppiati in segmenti non incidenti della stessa colorazione*
 
-> (Test Paper A1, Problema 4) Dati 100 punti diversi su un cerchio, cercate di determinare il numero intero massimo positivo $k$ soddisfacente: colorate i punti $k$ dei 100 punti in modo arbitrario rosso o blu, e i punti rimanenti possono essere colorati correttamente rosso o blu, in modo che i 100 punti possano essere utilizzati come punti terminali per creare 50 segmenti, qualsiasi due segmenti non hanno un punto comune e i punti terminali di ogni segmento sono dello stesso colore.
+> (Compito d'esame A1, Problema 4) Dati 100 punti distinti su una circonferenza, si cerchi di determinare il massimo intero positivo $k$ tale che: si colorino arbitrariamente di rosso o di blu $k$ dei 100 punti, e i punti rimanenti possano essere colorati opportunamente di rosso o di blu, in modo che i 100 punti possano essere utilizzati come estremi per formare 50 segmenti, che due qualsiasi segmenti non abbiano alcun punto in comune e che gli estremi di ciascun segmento siano dello stesso colore.
 
-**Risposta:** 50
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-second-round_2021#q07|src_cn_cmc-second-round_2021__Q07]]
 
 
 
@@ -223,11 +271,18 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Geometria del centro: la linea PQ incontra il circoncircolo, prova C, I, Q, Y conciclica*
+*Geometria dell'incentro: la retta PQ incontra la circonferenza circoscritta; dimostrare che C, I, Q, Y sono concyclici*
 
-> (Test Paper B, Problem 1) Come mostrato nella figura, $I$ è l'incentro di $\triangle ABC$, $AB > AC$. I punti $P$ e $Q$ sono le proiezioni di $I$ sui lati $AB$ e $AC$, rispettivamente. La linea $PQ$ interseca il circoncircolo di $\triangle ABC$ nei punti $X$, $Y$ ($P$ è tra $X$ e $Y$). Dato che i punti $B$, $I$, $P$, $X$ sono conciclici, dimostrare che i punti $C$, $I$, $Q$, $Y$ sono conciclici.
+> (Compito d'esame B, Problema 1) Come mostrato nella figura, $I$ è il centro del cerchio inscritto di $\triangle ABC$, $AB > AC$. I punti $P$, $Q$ sono le proiezioni di $I$ sui lati $AB$, $AC$, rispettivamente. La retta $PQ$ interseca la circonferenza circoscritta a $\triangle ABC$ nei punti $X$, $Y$ ($P$ si trova tra $X$ e $Y$). Sapendo che i punti $B$, $I$, $P$, $X$ sono concyclici, dimostrare che i punti $C$, $I$, $Q$, $Y$ sono concyclici.
 
 ![[src_cn_cmc-second-round_2021__q08.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-second-round_2021#q08|src_cn_cmc-second-round_2021__Q08]]
 
 
 
@@ -253,9 +308,19 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare la somma dei prodotti prefissi di una sequenza non negativa in diminuzione*
+*Minimizza la somma dei prodotti dei prefissi di una sequenza non negativa decrescente*
 
-> (Test Paper B, Problem 2) Con un numero intero $n \geq 2$, lasciate che i numeri reali non negativi $a_1, a_2, \ldots, a_n$ soddisfino $$a_1 \geq a_2 \geq \cdots \geq a_n.$$ Trovare il minimo di $$a_1 + a_1 a_2 + a_1 a_2 a_3 + \cdots + a_1 a_2 \cdots a_n.$$
+> (Compito d'esame B, Problema 2) Dato l'intero $n \geq 2$, siano i numeri reali non negativi $a_1, a_2, \ldots, a_n$ tali che
+> $$a_1 \geq a_2 \geq \cdots \geq a_n.$$
+> Trovare il minimo di
+> $$a_1 + a_1 a_2 + a_1 a_2 a_3 + \cdots + a_1 a_2 \cdots a_n.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-second-round_2021#q09|src_cn_cmc-second-round_2021__Q09]]
 
 
 
@@ -279,11 +344,16 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*M più grande in modo che ogni 10 numeri in [1,M] contengano tre che formano un quadratico senza radici reali*
+*Il più grande M tale che qualsiasi insieme di 10 numeri in [1,M] contenga tre numeri che formino una quadratica priva di radici reali*
 
-> (Test Paper B, Problem 3) Cerca di trovare il numero positivo più grande $M > 1$ con la seguente proprietà: per qualsiasi 10 diversi numeri reali scelti dall'intervallo $[1, M]$, tre di essi possono essere selezionati, indicati dal più piccolo al più grande da $a < b < c$, in modo che l'equazione quadrata $ax^2 + bx + c = 0$ non abbia radici reali.
+> (Compito d'esame B, Problema 3) Cerca di trovare il più grande numero positivo $M > 1$ con la seguente proprietà: per qualsiasi insieme di 10 numeri reali distinti scelti dall'intervallo $[1, M]$, è possibile selezionare tre di essi, indicati in ordine crescente da $a < b < c$, tali che l'equazione quadratica $ax^2 + bx + c = 0$ non abbia radici reali.
 
-**Risposta:** $4^{405}$
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-second-round_2021#q10|src_cn_cmc-second-round_2021__Q10]]
 
 
 
@@ -309,11 +379,16 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali non negativi S=a+2b+3c, T=a+b^2+c^3: trovare min di T-S e massimo di T dato S=4*
+*Numeri reali non negativi: S=a+2b+3c, T=a+b^2+c^3. Determinare il minimo di T-S e il massimo di T dato che S=4*
 
-> (Test Paper B1, Problema 1) Lasciate che $a$, $b$, $c$ siano numeri reali non negativi. Denote $S = a + 2b + 3c$, $T = a + b^2 + c^3$. (1) Trovare il minimo di $T - S$. (2) Se $S = 4$, trovare il massimo di $T$.
+> (Compito d'esame B1, Problema 1) Siano $a$, $b$, $c$ numeri reali non negativi. Si denoti $S = a + 2b + 3c$, $T = a + b^2 + c^3$. (1) Si determini il minimo di $T - S$. (2) Se $S = 4$, si determini il massimo di $T$.
 
-**Risposta:** (1) $-3$; (2) $4$
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-second-round_2021#q11|src_cn_cmc-second-round_2021__Q11]]
 
 
 
@@ -338,11 +413,18 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Geometria triangolare: X, Y sul bisettore angolare con condizioni angolari, prova A, P, Q collineare*
+*Geometria del triangolo: X, Y sull'asse bisettrice con condizioni angolari, dimostrare che A, P, Q sono allineati*
 
-> (Test Paper B1, Problema 2) Come mostrato nella figura, in $\triangle ABC$, $AB > AC$. I punti $X$ e $Y$ di $\triangle ABC$ sono sul bisettore di $\angle BAC$, soddisfacendo $\angle ABX = \angle ACY$. L'estensione di $BX$ e del segmento $CY$ si intersecano al punto $P$. Il circoncircolo $\omega_1$ di $\triangle BPY$ e il circoncircolo $\omega_2$ di $\triangle CPX$ si incrociano a $P$ e un altro punto $Q$. Provare che i punti $A$, $P$, $Q$ sono collineari.
+> (Compito d'esame B1, Problema 2) Come mostrato nella figura, in $\triangle ABC$, $AB > AC$. I punti $X$, $Y$ in $\triangle ABC$ giacciono sull'asse bisettrice di $\angle BAC$, soddisfacendo $\angle ABX = \angle ACY$. Sia $P$ l'intersezione tra il prolungamento di $BX$ e il segmento $CY$. La circonferenza circoscritta $\omega_1$ di $\triangle BPY$ e la circonferenza circoscritta $\omega_2$ di $\triangle CPX$ si intersecano in $P$ e in un altro punto $Q$. Dimostrare che i punti $A$, $P$, $Q$ sono allineati.
 
 ![[src_cn_cmc-second-round_2021__q12.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-second-round_2021#q12|src_cn_cmc-second-round_2021__Q12]]
 
 
 
@@ -366,9 +448,17 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se m>1, n>1 non è il quadrato perfetto, m divide n^2+n+1, provare │m-n │ > sqrt(3n)-2*
+*Se m>1, n>1 e n non è un quadrato perfetto, e m divide n^2+n+1, dimostrare che |m-n| > sqrt(3n)-2*
 
-> (Test Paper B1, Problem 3) Lasciate che $m$, $n$ siano numeri interi superiori a $1$, e $n$ non è un quadrato perfetto. Se $n^2 + n + 1$ è divisibile per $m$, dimostrare che $$|m - n| > \sqrt{3n} - 2.$$
+> (Scheda d'esame B1, Problema 3) Siano $m$, $n$ numeri interi maggiori di $1$, e $n$ non sia un quadrato perfetto. Se $n^2 + n + 1$ è divisibile per $m$, dimostrare che
+> $$|m - n| > \sqrt{3n} - 2.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-second-round_2021#q13|src_cn_cmc-second-round_2021__Q13]]
 
 
 
@@ -394,8 +484,13 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rondino di 9 squadre: determinare se T3 può battere T4 e viceversa*
+*Torneo all'italiana con 9 squadre: stabilire se T3 può battere T4 e viceversa*
 
-> (Test Paper B1, Problem 4) 9 squadre di calcio giocano un singolo torneo di round-robin (ogni due squadre giocano una volta). In ogni partita, il vincitore ottiene 1 punto, il perdente ottiene 0 punti e ogni squadra ottiene 0,5 punti per un pareggio. Dopo il torneo, si scopre che le 9 squadre hanno punti diversi l'una dall'altra. Le 9 squadre sono registrate come $T_1, T_2, \ldots, T_9$, in ordine decrescente di punti. È noto che la squadra $T_1$ ha un record di 1 vittoria, 3 pareggio e 5 perdite. (1) È possibile che $T_3$ vinca contro $T_4$? (2) È possibile che $T_4$ vinca contro $T_3$?
+> (Prova d'esame B1, Problema 4) 9 squadre di calcio disputano un torneo all'italiana con girone unico (ogni coppia di squadre si affronta una sola volta). In ogni partita, la squadra vincitrice ottiene 1 punto, quella sconfitta 0 punti, e ciascuna squadra ottiene 0,5 punti in caso di pareggio. Al termine del torneo, si rileva che le 9 squadre hanno punteggi tutti diversi tra loro. Le 9 squadre sono elencate come $T_1, T_2, \ldots, T_9$ in ordine decrescente di punti. Si sa che la squadra $T_1$ ha un bilancio di 1 vittoria, 3 pareggi e 5 sconfitte. (1) È possibile che $T_3$ vinca contro $T_4$? (2) È possibile che $T_4$ vinca contro $T_3$?
 
-**Risposta:** (1) No; (2) Sì
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-second-round_2021#q14|src_cn_cmc-second-round_2021__Q14]]

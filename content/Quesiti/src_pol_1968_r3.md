@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio con coefficienti interi, valore ±1 a tre punti interi implica nessun zero interi*
+*Un polinomio a coefficienti interi che assume il valore ±1 in tre punti interi non ammette zeri interi*
 
-> Dimostra che se un polinomio con coefficienti interi prende un valore pari a 1 in valore assoluto a tre diversi punti interi, allora non ha zero interi.
+> Dimostrare che, se un polinomio a coefficienti interi assume, in valore assoluto, il valore 1 in tre punti interi distinti, allora non ha zeri interi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1968_r3#q01|src_pol_1968_r3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti ottengano due nuovi vicini
+*Ridisponi cinque o più persone attorno a un tavolo rotondo in modo che tutti abbiano due nuovi vicini*
 
-> Mostrate che, se almeno cinque persone sono sedute a un tavolo rotondo, è possibile riorganizzarle in modo che ognuno abbia due nuovi vicini.
+> Dimostrare che, se almeno cinque persone siedono attorno a un tavolo rotondo, allora è possibile riorganizzarle in modo che ognuna abbia due nuovi vicini.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_bigezione|Biiezione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1968_r3#q02|src_pol_1968_r3__Q02]]
 
 
 
@@ -79,9 +93,16 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n numeri distinti: ridurre al minimo o massimizzare il numero di somme differenti in coppia*
+*n numeri distinti: minimizzare o massimizzare il numero di somme a coppie distinte*
 
-> Dato un numero intero $n \ge 2$, dare un esempio di un insieme di numeri $n$ reciprocamente diversi $a_1, \ldots, a_n$ per i quali l'insieme delle loro somme in coppia $a_i + a_j$ ($i \ne j$) contiene il minor numero possibile di numeri diversi; dare anche un esempio di un insieme di numeri diversi $n$ $b_1, \ldots, b_n$ per i quali l'insieme delle somme in coppia $b_i + b_j$ ($i \ne j$) contiene il maggior numero possibile di numeri diversi.
+> Dato un intero $n \ge 2$, fornisci un esempio di un insieme di $n$ numeri mutuamente distinti $a_1, \ldots, a_n$ per cui l'insieme delle loro somme a coppie $a_i + a_j$ ($i \ne j$) contiene il minor numero possibile di numeri distinti; fornisci inoltre un esempio di un insieme di $n$ numeri distinti $b_1, \ldots, b_n$ per cui l'insieme delle somme a coppie $b_i + b_j$ ($i \ne j$) contiene il maggior numero possibile di numeri distinti.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1968_r3#q03|src_pol_1968_r3__Q03]]
 
 
 
@@ -104,9 +125,16 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero di linee attraverso n punti non collineari è almeno n*
+*Il numero di rette passanti per n punti non allineati è almeno n*
 
-> Sul piano ci sono punti $n \ge 3$, non tutti sulla stessa linea. Tracciando tutte le linee che attraversano due di questi punti si ottengono $k$ diverse linee. Prove che $k \ge n$.
+> Nel piano ci sono $n \ge 3$ punti, non tutti allineati. Tracciando tutte le rette che passano per due di questi punti, si ottengono $k$ rette distinte. Dimostrare che $k \ge n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_pol_1968_r3#q04|src_pol_1968_r3__Q04]]
 
 
 
@@ -129,9 +157,16 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Qualsiasi quadrilaterale convex di quattro punti implica tutti i punti di un poligono convex*
+*Qualsiasi insieme di quattro punti che formano un quadrilatero convesso implica che tutti i punti formino un poligono convesso*
 
-> Dati i punti $n \ge 4$ del piano in modo tale che tutti e quattro di essi siano i vertici di un quadrilaterale converso, dimostrare che questi punti sono i vertici di un poligono converso.
+> Dati $n \ge 4$ punti nel piano tali che qualsiasi insieme di quattro di essi sia i vertici di un quadrilatero convesso, dimostrare che tali punti sono i vertici di un poligono convesso.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1968_r3#q05|src_pol_1968_r3__Q05]]
 
 
 
@@ -156,6 +191,15 @@ Riorganizzare cinque o più persone alla tavola rotonda in modo che tutti otteng
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Grafica di connettività su n>3 punti: grafico di grado 4 senza triangolo vs. triangolo forzato*
+*Connettività dei grafi con n>3 vertici: grafo privo di triangoli di grado 4 vs. triangolo forzato*
 
-> Considera un insieme di punti $a > 3$ nel piano, di cui non ci sono tre collineari, e un numero naturale $4 < c$. Provare le seguenti affermazioni: (a) Se $4 \le \frac{c}{2}$, allora ogni punto può essere collegato con almeno altri 4 punti da segmenti in modo che non formino tre segmenti un triangolo. (b) Se $4 > \frac{c}{2}$, ogni punto è collegato con almeno altri 4 punti da segmenti, allora alcuni tre segmenti formano un triangolo.
+> Si consideri un insieme di $a > 3$ punti nel piano, tali che nessun tre siano allineati, e un numero naturale $4 < c$. Dimostrare le seguenti affermazioni:
+> (a) Se $4 \le \frac{c}{2}$, allora ogni punto può essere collegato ad almeno 4 altri punti mediante segmenti in modo che nessun insieme di tre segmenti formi un triangolo.
+> (b) Se $4 > \frac{c}{2}$, allora ogni punto è collegato ad almeno 4 altri punti mediante segmenti, e quindi alcuni tre segmenti formano un triangolo.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_pol_1968_r3#q06|src_pol_1968_r3__Q06]]

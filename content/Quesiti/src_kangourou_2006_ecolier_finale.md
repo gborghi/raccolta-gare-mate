@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiple of 11 closer to 1000*
+*Multiple of 11 closest to 1000*
 
 > *(5 points)* What is the multiple of 11 closest to 1000?
 
-**Answer:** 1001
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_ecolier_finale#qe1|src_kangourou_2006_ecolier_finale__QE1]]
 
 
 
@@ -56,11 +60,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*MALE number given MELA minimum with distinct digits*
+*MALE number given: MELA minimum with distinct digits*
 
-> *(7 points) * The letters of the word "MELA" are all distinct from each other. Match each letter of this word with a digit so that the word "MELA" represents the smallest number of four digits all distinct from each other. While maintaining this choice of digits, what number is represented by the word "MALE"?
+> *(7 points)* The letters of the word "MELA" are all distinct from one another. Assign a digit to each letter of this word in such a way that the word "MELA" represents the smallest four-digit number in which all digits are distinct. Keeping this choice of digits, what number is represented by the word "MALE"?
 
-**Answer:** 1320
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_finale#qe2|src_kangourou_2006_ecolier_finale__QE2]]
 
 
 
@@ -89,17 +97,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Written PUZZLES as seen from the inside*
+*The word PUZZLES seen in reflection from the inside*
 
 ![[src_kangourou_2006_ecolier_finale__probe3.png]]
 
-> *(11 points) * On the window of a stationery shop is the writing (made up of sticky letters)
-> 
+> *(11 points)* On the window display of a stationery shop, the inscription (made with adhesive letters) stands out:
+>
 > $$\text{PUZZLES}$$
-> 
-> Draw here under the inscription that you'd see looking at the window from inside the store. (see figure)
+>
+> Draw below the inscription you would see if you looked at the window display from inside the shop. (see figure)
 
-**Answer:** mirror image
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_ecolier_finale#qe3|src_kangourou_2006_ecolier_finale__QE3]]
 
 
 
@@ -122,11 +134,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Claim that the truthful and the liar can say
+*A statement that both the sincere person and the liar can make*
 
-> Arturo always tells the truth, while Bernardo always lies. Find a statement that both of them can make.
+> *(14 points)* Arturo always tells the truth, whereas Bernardo always lies. Find a statement that both of them can utter.
 
-**Answer:** I am telling the truth
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_finale#qe4|src_kangourou_2006_ecolier_finale__QE4]]
 
 
 
@@ -150,11 +166,16 @@ Claim that the truthful and the liar can say
 <div class="qlang-split" data-lang="en"></div>
 
 
-*3-digit numbers with digits that differ by at least 4*
+*Three-digit numbers with digits differing by at least 4*
 
-> *(18 points)* How many 3-digit numbers are there (significant, that is, whose first digit is not 0), such that any 2 of them taken together do not differ by less than 4?
+> *(18 points)* How many 3-digit numbers (significant digits—that is, numbers whose first digit is not 0) are there such that any two of their digits differ by at least 4?
 
-**Answer:** 18
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_finale#qe5|src_kangourou_2006_ecolier_finale__QE5]]
 
 
 
@@ -179,10 +200,14 @@ Claim that the truthful and the liar can say
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum bricks per square side 7*
+*Minimum number of tiles per square with side 7*
 
 ![[src_kangourou_2006_ecolier_finale__probe6.png]]
 
-> You can have, in any quantity you want, three different sizes of square bricks: their sides are 1, 2 or 3 decimeter long. By placing them side by side, without overlapping them and without leaving any uncovered areas, you can build a square whose side measures 7 decimetres. What is the smallest number of bricks you need to place side by side and how they should be distributed between the different sizes? Use the grid to draw the figure that realises the solution you found and explain why you don't think a smaller number of bricks is enough. (You can also use the grid for any other drawings that may serve the purpose.)
+> *(22 points)* You have at your disposal, in any quantity you wish, square tiles of three different sizes: their sides are 1, 2, or 3 decimetres long. By placing them side by side—without overlapping them and without leaving any areas uncovered—you can construct a square whose side measures 7 decimetres. What is the smallest number of tiles you need to place side by side, and how should they be distributed among the different sizes? Use the grid to draw the figure that represents the solution you have found, and explain why, in your opinion, a smaller number of tiles is not enough. (You may also use the grid for any other drawings that might be useful for this purpose.)
 
-**Answer:** 12
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_ecolier_finale#qe6|src_kangourou_2006_ecolier_finale__QE6]]

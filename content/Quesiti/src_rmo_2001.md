@@ -31,11 +31,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Altezze, quadrati ciclici, parallele di FM e EN*
+*Altezze di un triangolo acutangolo, una retta per il loro punto di incontro e due perpendicolari: due rette sono parallele*
 
-> $BE$ e $CF$ siano le altitudini di un triangolo acuto $ABC$, con $E$ su $AC$ e $F$ su $AB$. Il punto di intersezione di $BE$ e $CF$ è $O$. Prendi qualsiasi riga $KL$ passando da $O$ con $K$ su $AB$ e $L$ su $AC$. Supponiamo che $M$ e $N$ siano situate rispettivamente su $BE$ e $CF$ in modo tale che $KM$ sia perpendicolare a $BE$ e $LN$ sia perpendicolare a $CF$. Provare che $FM$ è parallelo a $EN$.
+> Siano $BE$ e $CF$ le altezze di un triangolo acutangolo $ABC$, con $E$ su $AC$ e $F$ su $AB$. Sia $O$ il punto di intersezione di $BE$ e $CF$. Si prenda una retta qualsiasi $KL$ per $O$, con $K$ su $AB$ e $L$ su $AC$. Si supponga che $M$ e $N$ stiano su $BE$ e $CF$ rispettivamente in modo che $KM$ sia perpendicolare a $BE$ e $LN$ sia perpendicolare a $CF$. Dimostrare che $FM$ è parallela a $EN$.
 
 ![[src_rmo_2001__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_2001#q01|src_rmo_2001__Q01]]
 
 
 
@@ -58,9 +64,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le coppie prime p,q che rendono p2 + 7pq + q2 un quadrato perfetto*
+*Primi p, q tali che p² + 7pq + q² è il quadrato di un intero*
 
-> Trova tutti i numeri primi $p, q$ in modo tale che $p^2 + 7pq + q^2$ sia il quadrato di un intero.
+> Trovare tutti i primi $p, q$ tali che $p^2 + 7pq + q^2$ sia il quadrato di un intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_rmo_2001#q02|src_rmo_2001__Q02]]
 
 
 
@@ -85,11 +97,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri interi positivi x con piano(x/99) = piano(x/101)*
+*Interi positivi x con parte intera di x/99 uguale a quella di x/101*
 
-> Trova il numero di integri positivi $x$ che soddisfano $\left\lfloor \dfrac{x}{99} \right\rfloor = \left\lfloor \dfrac{x}{101} \right\rfloor$.
-> 
-> (Qui $\lfloor z \rfloor$ indica, per qualsiasi $z$ reale, il più grande numero intero non superiore a $z$; ad esempio\ $\lfloor 7/6 \rfloor = 1$.)
+> Trovare il numero degli interi positivi $x$ che soddisfano $\left\lfloor \dfrac{x}{99} \right\rfloor = \left\lfloor \dfrac{x}{101} \right\rfloor$.
+>
+> Qui $\lfloor z \rfloor$ indica, per ogni reale $z$, il massimo intero che non supera $z$; per esempio $\lfloor 7/6 \rfloor = 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_2001#q03|src_rmo_2001__Q03]]
 
 
 
@@ -114,9 +132,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Array simmetrico n×n con le voci 1..n: diagonale è una permutazione quando n è odd*
+*Matrice n×n simmetrica, n dispari, che usa i numeri da 1 a n: la diagonale è una permutazione di 1, …, n*
 
-> Considera un array di numeri $n \times n$: $$\begin{pmatrix} a_{11} & a_{12} & \cdots & a_{1n} \\ a_{21} & a_{22} & \cdots & a_{2n} \\ \vdots & & & \vdots \\ a_{n1} & a_{n2} & \cdots & a_{nn} \end{pmatrix}$$ Supponiamo che ciascuno dei numeri $n$ $1, 2, \ldots, n$ si verifichi in un certo ordine, e $a_{ij} = a_{ji}$ per $i = 1, 2, \ldots, n$ e $j = 1, 2, \ldots, n$. Se $n$ è impar, dimostrare che i numeri $a_{11}, a_{22}, \ldots, a_{nn}$ sono $1, 2, 3, \ldots, n$ in un certo ordine.
+> Si consideri una tabella $n \times n$ di numeri:
+>
+> $$\begin{pmatrix} a_{11} & a_{12} & \cdots & a_{1n} \\ a_{21} & a_{22} & \cdots & a_{2n} \\ \vdots & & & \vdots \\ a_{n1} & a_{n2} & \cdots & a_{nn} \end{pmatrix}$$
+>
+> Si supponga che ciascuno degli $n$ numeri $1, 2, \ldots, n$ compaia in qualche ordine, e che $a_{ij} = a_{ji}$ per $i = 1, 2, \ldots, n$ e $j = 1, 2, \ldots, n$. Se $n$ è dispari, dimostrare che i numeri $a_{11}, a_{22}, \ldots, a_{nn}$ sono $1, 2, 3, \ldots, n$ in qualche ordine.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_rmo_2001#q04|src_rmo_2001__Q04]]
 
 
 
@@ -141,11 +169,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC con angolo bisector AD, angolo B=2C, CD=AB implica angolo A=72°*
+*Bisettrice interna, angolo in B doppio di quello in C, e CD = AB: l'angolo in A misura 72°*
 
-> In un triangolo $ABC$, $D$ deve essere un punto su $BC$ tale che $AD$ sia il bisettore interno di $\angle A$. Supponiamo $\angle B = 2\angle C$ e $CD = AB$. Dimostra che $\angle A = 72^\circ$.
+> Nel triangolo $ABC$, sia $D$ un punto di $BC$ tale che $AD$ sia la bisettrice interna di $\angle A$. Si supponga che $\angle B = 2\angle C$ e $CD = AB$. Dimostrare che $\angle A = 72^\circ$.
 
 ![[src_rmo_2001__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_2001#q05|src_rmo_2001__Q05]]
 
 
 
@@ -169,9 +203,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per i lati di un triangolo x,y,z dimostrare |x²(y−z)+y²(z−x)+z²(x−y)| < xyz*
+*Per i lati di un triangolo x, y, z, dimostrare che |x²(y−z)+y²(z−x)+z²(x−y)| < xyz*
 
-> Se $x, y, z$ sono i lati di un triangolo, dimostrare che $$\left| x^2(y - z) + y^2(z - x) + z^2(x - y) \right| < xyz.$$
+> Se $x, y, z$ sono i lati di un triangolo, allora dimostrare che
+> $$\left| x^2(y - z) + y^2(z - x) + z^2(x - y) \right| < xyz.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_rmo_2001#q06|src_rmo_2001__Q06]]
 
 
 
@@ -194,6 +236,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il prodotto dei primi 200 interi pari meno il prodotto dei primi 200 interi unici è divisibile per 401*
+*Il prodotto dei primi 200 interi pari meno il prodotto dei primi 200 interi dispari è divisibile per 401*
 
-> Prove che il prodotto dei primi $200$ pari interi positivi differisce dal prodotto dei primi $200$ integri unici positivi per un multiple di $401$.
+> Dimostrare che il prodotto dei primi $200$ interi positivi pari differisce dal prodotto dei primi $200$ interi positivi dispari per un multiplo di $401$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2001#q07|src_rmo_2001__Q07]]

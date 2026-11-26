@@ -37,17 +37,24 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo triangolare alfa con piegatura di carta in tre fasi*
+*Trisecta l'angolo alfa usando la piegatura della carta in tre passaggi*
 
-> Su un foglio di carta, una linea $r$ attraversa il punto $A$ e crea un angolo $\alpha$ con il bordo orizzontale; vedere figura 1. Per dividere questo angolo $\alpha$ in tre parti uguali, eseguiamo le seguenti costruzioni:
-> 
-> a) Inizialmente, segniamo due punti $B$ e $C$ sulla linea verticale attraverso $A$ in modo tale che $AB = BC$; il punto $B$ viene disegnato su una linea $s$ parallela al bordo (Figura 2).
-> 
-> b) Successivamente, pieghiamo la carta e la regolliamo in modo che il punto $C$ coincida con un punto $C'$ sulla linea $r$ (Figura 3); chiamiamo $B'$ l'immagine del punto $B$ sotto questa piega e $A'$ il punto sulla linea $s$ con la stessa coordinata orizzontale di $B'$.
-> 
-> Indicare che le linee $AA'$ e $AB'$ dividono l'angolo $\alpha$ in tre parti uguali.
+> Su un foglio di carta, una retta $r$ passa per il punto $A$ e forma un angolo $\alpha$ con il lato orizzontale; si veda la Figura 1. Per dividere questo angolo $\alpha$ in tre parti uguali, eseguiamo le seguenti costruzioni:
+>
+> a) Inizialmente, segnamo due punti $B$ e $C$ sulla retta verticale passante per $A$ in modo che $AB = BC$; il punto $B$ viene tracciato su una retta $s$ parallela al bordo (Figura 2).
+>
+> b) Successivamente, pieghiamo la carta, regolandola in modo che il punto $C$ coincida con un punto $C'$ sulla retta $r$ (Figura 3); chiamiamo $B'$ l'immagine del punto $B$ mediante questa piegatura, e $A'$ il punto sulla retta $s$ che ha la stessa coordinata orizzontale di $B'$.
+>
+> Dimostrare che le rette $AA'$ e $AB'$ dividono l'angolo $\alpha$ in tre parti uguali.
 
 ![[src_obm_2000_n3_f3__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2000_n3_f3#q01|src_obm_2000_n3_f3__Q01]]
 
 
 
@@ -74,11 +81,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove sigma(n)=2n-1 se n è un numero quasi perfetto*
+*Dimostrare che sigma(n)=2n-1 se e solo se n è un numero quasi perfetto*
 
-> $\sigma(n)$ sia la somma di tutti i divisori positivi di $n$, dove $n$ è un intero positivo (ad esempio, $\sigma(4) = 12$ e $\sigma(11) = 12$). Diciamo $n$ è **quasi-perfetto** se $\sigma(n) = 2n - 1$ (ad esempio, $\sigma(1) = 1 = 2 \cdot 1 - 1$, quindi $1$ è quasi-perfetto, ma $\sigma(7) = 8 \neq 2 \cdot 7 - 1 = 13$, quindi $7$ non è). $m$ e $k$ siano integri positivi, $n$ il resto della divisione di $n$ per $k$, e definire $$s(n) = \sum_{k=1}^{n} m \bmod k$$ (ad esempio, $s(6) = 0 + 0 + 4 + 0 + 2 + 1 + 0 = 3$ e $s(11) = 0 + 1 + 2 + 3 + 1 + 5 + 4 + 4 + 3 + 2 + 1 + 0 + 0 = 22$).
-> 
-> Provare che $n$ è quasi perfetto se e solo se $s(n) = s(n-1)$.
+> Sia $\sigma(n)$ la somma di tutti i divisori positivi di $n$, dove $n$ è un numero intero positivo (ad esempio, $\sigma(4) = 12$ e $\sigma(11) = 12$). Diciamo che $n$ è **quasi-perfetto** se $\sigma(n) = 2n - 1$ (ad esempio, $\sigma(1) = 1 = 2 \cdot 1 - 1$, quindi $1$ è quasi-perfetto, ma $\sigma(7) = 8 \neq 2 \cdot 7 - 1 = 13$, quindi $7$ non lo è). Siano $m$ e $k$ numeri interi positivi, $n$ il resto della divisione di $n$ per $k$, e si definisca
+> $$s(n) = \sum_{k=1}^{n} m \bmod k$$
+> (per esempio, $s(6) = 0 + 0 + 4 + 0 + 2 + 1 + 0 = 3$ e $s(11) = 0 + 1 + 2 + 3 + 1 + 5 + 4 + 4 + 3 + 2 + 1 + 0 + 0 = 22$).
+>
+> Dimostrare che $n$ è quasi-perfetto se e solo se $s(n) = s(n-1)$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n3_f3#q02|src_obm_2000_n3_f3__Q02]]
 
 
 
@@ -104,13 +120,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova la n più piccola tale che f(1)+...+f(n) >= 123456*
+*Trovare il più piccolo n tale che f(1)+...+f(n) >= 123456*
 
-> Let $f$ essere una funzione definita sui numeri interi positivi della seguente forma: data $n$, scrivere $n = 2^a(2b+1)$ con $a$ e $b$ numeri interi non negativi, e definire $f(n) = a^2 + a + 1$.
-> 
-> Determinare il numero intero positivo più piccolo $n$ tale che $f(1) + f(2) + \cdots + f(n) \ge 123456$.
+> Sia $f$ una funzione definita sugli interi positivi della seguente forma: dato $n$, si scriva $n = 2^a(2b+1)$ con $a$ e $b$ interi non negativi, e si definisca $f(n) = a^2 + a + 1$.
+>
+> Determinare il più piccolo intero positivo $n$ tale che $f(1) + f(2) + \cdots + f(n) \ge 123456$.
 
-**Risposta:** 24710
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n3_f3#q03|src_obm_2000_n3_f3__Q03]]
 
 
 
@@ -136,13 +157,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le velocità v in modo che una macchina non si ferma mai a nessun semaforo*
+*Trovare tutte le velocità v tali che un'automobile non si fermi mai a nessun semaforo*
 
-> Providence Avenue ha infinitamente molti semafori spaziati e sincronizzati. La distanza tra due semafori consecutivi è $1500$ m. Le luci sono aperte (verde) per $1$ min $30$ s, quindi chiuse (rosse) per $1$ min $30$ s, quindi aperte per $1$ min $30$ s, ecc. Supponiamo che un'auto si sposta a velocità costante $v$ m/s lungo Providence Avenue.
-> 
-> Per quali valori di $v$ è possibile che l'auto passi attraverso un numero arbitrario di semafori senza fermarsi in nessuno di essi?
+> Sulla Providence Avenue ci sono infiniti semafori equidistanti e sincronizzati. La distanza tra due semafori consecutivi è di $1500$ m. I semafori restano verdi per $1$ min $30$ s, poi diventano rossi per $1$ min $30$ s, poi tornano verdi per $1$ min $30$ s, e così via. Supponiamo che un'auto percorra la Providence Avenue a velocità costante di $v$ m/s.
+>
+> Per quali valori di $v$ è possibile che l'auto passi attraverso un numero arbitrariamente grande di semafori senza fermarsi a nessuno di essi?
 
-**Risposta:** $v = \dfrac{20}{k}$ m/s per ogni intero positivo $k$
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n3_f3#q04|src_obm_2000_n3_f3__Q04]]
 
 
 
@@ -166,11 +192,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta le funzioni di conservazione della distanza su uno spazio di sequenza*
+*Conta le funzioni che preservano la distanza nello spazio delle successioni*
 
-> $X$ sia l'insieme di tutte le sequenze $\underline{a} = (a_1, a_2, \ldots, a_{2000})$ in modo tale che $a_i \in \{0,1,2\}$ per $1 \le i \le 1000$ e $a_i \in \{0,1\}$ per $1001 \le i \le 2000$. Date $\underline{a}$ e $\underline{b}$ in $X$, definire la distanza $d(\underline{a},\underline{b})$ tra $\underline{a}$ e $\underline{b}$ come il numero degli indici $i$, $1 \le i \le 2000$, in modo tale che $a_i \ne b_i$. Determinare il numero di funzioni $f : X \to X$ che preservano la distanza, cioè tale che $d(f(\underline{a}), f(\underline{b})) = d(\underline{a}, \underline{b})$ per tutte le $\underline{a}$ e $\underline{b}$ di $X$.
+> Sia $X$ l'insieme di tutte le successioni $\underline{a} = (a_1, a_2, \ldots, a_{2000})$ tali che $a_i \in \{0,1,2\}$ per $1 \le i \le 1000$ e $a_i \in \{0,1\}$ per $1001 \le i \le 2000$. Dati $\underline{a}$ e $\underline{b}$ in $X$, si definisca la distanza $d(\underline{a},\underline{b})$ tra $\underline{a}$ e $\underline{b}$ come il numero di indici $i$, $1 \le i \le 2000$ tali che $a_i \ne b_i$. Si determini il numero di funzioni $f : X \to X$ che preservano la distanza, cioè tali che $d(f(\underline{a}), f(\underline{b})) = d(\underline{a}, \underline{b})$ per tutti gli $\underline{a}$ e $\underline{b}$ in $X$.
 
-**Risposta:** $1000! \cdot 1000! \cdot 2^{1000} \cdot (1\times 2^{1000} \cdot 3^{1000})$
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n3_f3#q05|src_obm_2000_n3_f3__Q05]]
 
 
 
@@ -196,10 +227,15 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Quanti pezzi un cubo si divide in 28 piani perpendicolari?
+*In quanti pezzi un cubo viene suddiviso da 28 piani bisettori perpendicolari?*
 
-> Lasciate che il $C$ sia un cubo di legno. Per ciascuna delle coppie di vertici $28$ di $C$, tagliamo il cubo $C$ per il piano bisettore perpendicolare delle due vertici della coppia. In quanti pezzi è diviso il cubo?
-> 
-> **Nota:** Dati due punti $A$ e $B$ nello spazio, il piano bisettore perpendicolare di $A$ e $B$ è l'insieme di punti nello spazio equidistanti da $A$ e $B$. In altre parole, è il piano perpendicolare al segmento $AB$ che attraversa il punto medio di $AB$.
+> Sia $C$ un cubo di legno. Per ciascuna delle $28$ coppie di vertici di $C$, tagliamo il cubo $C$ con il piano bisettore perpendicolare dei due vertici della coppia. In quante parti viene diviso il cubo?
+>
+> **Note:** Dati due punti $A$ e $B$ nello spazio, il piano mediatore di $A$ e $B$ è l'insieme dei punti dello spazio equidistanti da $A$ e $B$. In altre parole, è il piano perpendicolare al segmento $AB$ e passante per il punto medio di $AB$.
 
-**Risposta:** 96
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n3_f3#q06|src_obm_2000_n3_f3__Q06]]

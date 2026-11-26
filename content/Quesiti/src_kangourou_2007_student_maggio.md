@@ -32,13 +32,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shorter route on the cone surface*
+*Shortest path on the surface of the cone*
 
 ![[src_kangourou_2007_student_maggio__probs1.png]]
 
-> In a straight circular cone the radius of the base circle is $3$ cm and the generatrix $6$ cm. An ant wants to climb the lateral surface of the cone from the $A$ point on the base circle to the middle point of the opposite generator $BC$ (see figure). What is the shortest route an ant can take? (see figure)
+> In a right circular cone, the radius of the base circle is $3$ cm, and the slant height is $6$ cm. An ant wants to climb up the lateral surface of the cone from point $A$ on the base circle to the midpoint $BC$ of the opposite slant height (see figure). What is the length of the shortest path the ant can take? (see figure)
 
-**Answer:** 3*sqrt5 cm
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_student_maggio#qs1|src_kangourou_2007_student_maggio__QS1]]
 
 
 
@@ -62,11 +67,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Winning strategy in the 52 card game
+*The winning strategy in the 52-card game*
 
-> I have $52$ cards on each of which a positive integer is indicated and the sum of all the numbers is an odd number. I play with a friend like this: after you put all the cards in a row on the table, you remove a card at one end of the row and then you move the hand to the other one who does the same thing; you iterate until there are no more cards on the table. In the end, each player adds the numbers written on the cards he has chosen; the winner is the one whose cards' numbers have the greater sum. Is there a winning strategy for whoever starts the game? If yes, indicate one, if not, provide a reason.
+> I have $52$ cards, each of which shows a positive integer, and the sum of all the numbers shown is an odd number. I play with a friend in this way: after laying all the cards out in a row on the table, one player removes a card from one end of the row and then passes the turn to the other player, who does the same; this continues until no cards remain on the table. In the end, for each player, the numbers written on the cards they have chosen are added together; the player whose cards have the greater total sum of numbers wins. Is there a winning strategy for the player who starts the game? If so, give one such strategy; if not, provide a reason.
 
-**Answer:** yes
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_student_maggio#qs2|src_kangourou_2007_student_maggio__QS2]]
 
 
 
@@ -115,7 +125,7 @@ Winning strategy in the 52 card game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum area of triangle (heights restricted)*
+*Minimum area of the triangle (constrained altitudes)*
 
 ![[src_kangourou_2007_student_maggio__probs3.png]]
 
@@ -142,9 +152,14 @@ Winning strategy in the 52 card game
 \end{document}
 ```
 
-> Let $ABC$ be any triangle whose heights relative to the vertices $A$, $B$, $C$ satisfy the following relations: $h_A \geq 3$ cm, $h_B \geq 4$ cm, $h_C \geq 5$ cm respectively. How many square centimetres is the minimum area of $ABC$?
+> Let $ABC$ be any triangle whose altitudes corresponding to the vertices $A$, $B$, $C$ satisfy, respectively, the relations: $h_A \geq 3$ cm, $h_B \geq 4$ cm, $h_C \geq 5$ cm. What is the minimum area, in square centimeters, of $ABC$?
 
-**Answer:** 10
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_student_maggio#qs3|src_kangourou_2007_student_maggio__QS3]]
 
 
 
@@ -168,11 +183,16 @@ Winning strategy in the 52 card game
 <div class="qlang-split" data-lang="en"></div>
 
 
-Sum of the first 21 decimal places of 2^2007/7*
+*Sum of the first 21 decimal digits of 2^2007/7*
 
-> What is the sum of the first twenty-one digits after the decimal point of division by $7$ of $2^{2007}$?
+> What is the sum of the first twenty-one digits after the decimal point in the division of $2^{2007}$ by $7$?
 
-**Answer:** 88
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_student_maggio#qs4|src_kangourou_2007_student_maggio__QS4]]
 
 
 
@@ -198,9 +218,14 @@ Sum of the first 21 decimal places of 2^2007/7*
 
 *Number of porous subsets of {1..10}*
 
-> A set $S$ of positive natural numbers is called "porous" if it is empty or does not contain three consecutive integers. How many porous subsets of the $\{1, 2, 3, \ldots, 10\}$ set are there?
+> A set $S$ of positive natural numbers is called "porous" if it is empty or does not contain three consecutive integers. How many porous subsets does the set $\{1, 2, 3, \ldots, 10\}$ have?
 
-**Answer:** 504
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_student_maggio#qs5|src_kangourou_2007_student_maggio__QS5]]
 
 
 
@@ -224,8 +249,13 @@ Sum of the first 21 decimal places of 2^2007/7*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Finding the fake bag with three weights
+*Find the fake bag in three weighings*
 
-> $2007$ numbered bags shall each contain at least $3000$ coins. The coins in each single bag are all equal in weight and shape and are marked with the bag number. Except for one bag containing counterfeit coins, all the others contain official coins. Official coins all have the same weight, different from the weight of counterfeit coins: the two weights are unknown. You have an electronic scale. Find a strategy to determine with three weighings which bag contains the counterfeit coins, showing its effectiveness.
+> $2007$ Numbered bags each contain at least $3000$ coins. The coins in each individual bag are all identical in weight and shape and are marked with the bag's number. Apart from one bag containing counterfeit coins, all the others contain genuine coins. All genuine coins have the same weight, which is different from the weight of the counterfeit coins; the two weights are unknown. You have an electronic scale at your disposal. Find a strategy to determine, using three weighings, which bag contains the counterfeit coins, and demonstrate its effectiveness.
 
-**Answer:** strategy with 3 weighings
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_student_maggio#qs6|src_kangourou_2007_student_maggio__QS6]]

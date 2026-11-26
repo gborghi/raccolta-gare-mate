@@ -33,15 +33,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il rapporto di due angoli in una figura con segmenti uguali*
+*Trovare il rapporto tra due angoli in una figura con segmenti uguali*
 
 > Nel disegno abbiamo $AE = BE = CE = CD$. Inoltre, $\alpha$ e $\beta$ sono misure di angoli. Qual è il valore del rapporto $\dfrac{\alpha}{\beta}$?
-> 
+>
 > (A) $\dfrac{3}{5}$ \quad (B) $\dfrac{4}{5}$ \quad (C) $1$ \quad (D) $\dfrac{5}{4}$ \quad (E) $\dfrac{5}{3}$
 
 ![[src_obm_2008_n2_f1__q01.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n2_f1#q01|src_obm_2008_n2_f1__Q01]]
 
 
 
@@ -66,11 +70,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quanti dei dati numeri radicali sono superiori a 10*
+*Quanti dei numeri radicali dati sono maggiori di 10?*
 
-> Quanti dei seguenti numeri sono superiori a $10$? $$3\sqrt{11},\ 4\sqrt{7},\ 5\sqrt{5},\ 6\sqrt{3},\ 7\sqrt{2}$$ (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
+> Quanti dei numeri qui sotto sono maggiori di $10$?
+> $$3\sqrt{11},\ 4\sqrt{7},\ 5\sqrt{5},\ 6\sqrt{3},\ 7\sqrt{2}$$
+> (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n2_f1#q02|src_obm_2008_n2_f1__Q02]]
 
 
 
@@ -95,11 +105,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare la radice quadrata di 12 alla 12a potenza*
+*Valuta la radice quadrata di 12 elevato alla 12ª potenza*
 
-> $\sqrt{12^{12}}$ è uguale a: (A) $6^{6}$ \quad (B) $12^{2\sqrt{3}}$ \quad (C) $2^{12}\cdot 3^{3}$ \quad (D) $6^{12}$ \quad (E) $\sqrt{12}^{\sqrt{12}}$
+> $\sqrt{12^{12}}$ è uguale a:
+> (A) $6^{6}$ \quad (B) $12^{2\sqrt{3}}$ \quad (C) $2^{12}\cdot 3^{3}$ \quad (D) $6^{12}$ \quad (E) $\sqrt{12}^{\sqrt{12}}$
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n2_f1#q03|src_obm_2008_n2_f1__Q03]]
 
 
 
@@ -124,11 +140,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre di dipendenti che parlano entrambe le lingue*
+*Numero di dipendenti che parlano entrambe le lingue*
 
-> Una grande impresa ha dipendenti $84$, che parlano almeno una delle due lingue, il portoghese e l'inglese. Inoltre, $20\%$ di chi parla portoghese parla anche inglese, e $80\%$ di chi parla inglese parla anche portoghese. Quanti dipendenti parlano entrambe le lingue? (A) $12$ \quad (B) $14$ \quad (C) $15$ \quad (D) $16$ \quad (E) $18$
+> Una grande azienda ha $84$ dipendenti, tutti i quali parlano almeno una delle due lingue, il portoghese e l'inglese. Inoltre, $20\%$ di coloro che parlano portoghese parlano anche inglese, e $80\%$ di coloro che parlano inglese parlano anche portoghese. Quanti dipendenti parlano entrambe le lingue?
+> (A) $12$ \quad (B) $14$ \quad (C) $15$ \quad (D) $16$ \quad (E) $18$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_n2_f1#q04|src_obm_2008_n2_f1__Q04]]
 
 
 
@@ -152,9 +174,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le entrate di lavaggio auto suddivise in dime tra tre persone*
+*I guadagni del lavaggio auto vengono divisi in decimi di dollaro tra tre persone*
 
-> Edmilson, Carlos ed Eduardo hanno guadagnato un totale di R\$150.00 washing cars. They earned the amounts in dimes (moedas de dez centavos). Since none of them had change to divide the equal amounts among the three, Carlos and Eduardo gave their dimes to Edmilson, who then had more money in dimes, and they divided the dimes among themselves. In the end, each one could divide his original amount of dimes; Eduardo received R\$10.00 in dime e gli altri divisi ugualmente, in modo che ognuno finisse con un numero intero di dime. Quanto guadagnava Eduardo prima della divisione? (A) R\$76.00 \quad (B) R\$51.00 \quad (C) R\$23.00 \quad (D) R\$50.00 \quad (E) R\$100.00
+> Edmilson, Carlos ed Eduardo hanno guadagnato in totale R\$150.00 washing cars. They earned the amounts in dimes (moedas de dez centavos). Since none of them had change to divide the equal amounts among the three, Carlos and Eduardo gave their dimes to Edmilson, who then had more money in dimes, and they divided the dimes among themselves. In the end, each one could divide his original amount of dimes; Eduardo received R\$10,00 in monete da dieci centesimi, e gli altri hanno diviso l'importo in parti uguali, così che ciascuno si sia ritrovato con un numero intero di monete da dieci centesimi. Quanto aveva guadagnato Eduardo prima della divisione?
+> (A) R\$76.00 \quad (B) R\$51.00 \quad (C) R\$23.00 \quad (D) R\$50.00 \quad (E) R\$100.00
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n2_f1#q05|src_obm_2008_n2_f1__Q05]]
 
 
 
@@ -177,9 +207,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di tutti i numeri dati media di 5 più grandi e 5 più piccoli*
+*Somma di tutti i numeri dati, media dei 5 più grandi e dei 5 più piccoli*
 
-> Alcune cifre sono scritte sulla lavagna. La media aritmetica del $5$ più grande è $68$ e la media aritmetica del $5$ più piccolo è $44$. La somma di tutti i numeri è: (A) $560$ \quad (B) $504$ \quad (C) $112$ \quad (D) $56$ \quad (E) $70$
+> Sulla lavagna sono scritti alcuni numeri. La media aritmetica dei $5$ numeri più grandi è $68$, e la media aritmetica dei $5$ numeri più piccoli è $44$. La somma di tutti i numeri è:
+> (A) $560$ \quad (B) $504$ \quad (C) $112$ \quad (D) $56$ \quad (E) $70$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n2_f1#q06|src_obm_2008_n2_f1__Q06]]
 
 
 
@@ -205,11 +242,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggiare quadrati con vertici su una griglia a punti*
+*Conta i quadrati i cui vertici si trovano su una griglia di punti*
 
-> Quanti quadrati hanno come vertici i punti della griglia puntata (reticulado) mostrati accanto? (A) $6$ \quad (B) $7$ \quad (C) $8$ \quad (D) $9$ \quad (E) $10$
+> Quanti quadrati hanno come vertici i punti della griglia a puntini mostrata accanto?
+> (A) $6$ \quad (B) $7$ \quad (C) $8$ \quad (D) $9$ \quad (E) $10$
 
 ![[src_obm_2008_n2_f1__q07.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2008_n2_f1#q07|src_obm_2008_n2_f1__Q07]]
 
 
 
@@ -233,9 +278,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-L'anno prossimo il 14 giugno è nuovamente sabato
+*L'anno prossimo, il 14 giugno cadrà di nuovo di sabato*
 
-> La prima fase dell'OBM si svolge il 14 giugno, sabato dell'anno bisto $2008$. Da ora in poi, tra quanti anni il 14 giugno sarà di nuovo sabato? (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $7$ \quad (E) $8$
+> La prima fase dell'OBM si svolge il 14 giugno, un sabato dell'anno bisestile $2008$. Da ora in poi, tra quanti anni il 14 giugno sarà di nuovo un sabato?
+> (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $7$ \quad (E) $8$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n2_f1#q08|src_obm_2008_n2_f1__Q08]]
 
 
 
@@ -259,9 +312,17 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cifri a, b, c con numeri prim di due cifre che sumano aaa*
+*Cifre a, b, c con numeri primi a due cifre la cui somma è aaa*
 
-> Le cifre $a$, $b$ e $c$ sono tali che i numeri a due cifre $\overline{aa}$, $\overline{bc}$ e $\overline{cb}$ siano numeri primi e $\overline{aa}+\overline{bc}+\overline{cb}=\overline{aaa}$. Se $c<a$, allora $\overline{bc}$ è uguale a: (A) $19$ \quad (B) $17$ \quad (C) $37$ \quad (D) $29$ \quad (E) $59$
+> Le cifre $a$, $b$ e $c$ sono tali che i numeri di due cifre $\overline{aa}$, $\overline{bc}$ e $\overline{cb}$ sono numeri primi, e $\overline{aa}+\overline{bc}+\overline{cb}=\overline{aaa}$. Se $c<a$, allora $\overline{bc}$ è uguale a:
+> (A) $19$ \quad (B) $17$ \quad (C) $37$ \quad (D) $29$ \quad (E) $59$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n2_f1#q09|src_obm_2008_n2_f1__Q09]]
 
 
 
@@ -291,9 +352,23 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque integri positivi con determinate condizioni di somma del prodotto, trovare totale*
+*Cinque interi positivi con date condizioni sul prodotto e sulla somma: trovare il totale*
 
-> Cinque integri positivi $a, b, c, d, e$ superiori a uno soddisfano le seguenti condizioni: $$a(b+c+d+e)=128$$ $$b(a+c+d+e)=155$$ $$c(a+b+d+e)=203$$ $$d(a+b+c+e)=243$$ $$e(a+b+c+d)=275$$ Quanto è $a+b+c+d+e$? (A) $9$ \quad (B) $16$ \quad (C) $25$ \quad (D) $36$ \quad (E) $49$
+> Cinque interi positivi $a, b, c, d, e$ maggiori di uno soddisfano le seguenti condizioni:
+> $$a(b+c+d+e)=128$$
+> $$b(a+c+d+e)=155$$
+> $$c(a+b+d+e)=203$$
+> $$d(a+b+c+e)=243$$
+> $$e(a+b+c+d)=275$$
+> Quanto vale $a+b+c+d+e$?
+> (A) $9$ \quad (B) $16$ \quad (C) $25$ \quad (D) $36$ \quad (E) $49$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n2_f1#q10|src_obm_2008_n2_f1__Q10]]
 
 
 
@@ -318,11 +393,18 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza MN a partire da piedi perpendicolari, perimetro triangolo ortico 10*
+*Lunghezza MN a partire dai piedi delle perpendicolari, perimetro del triangolo ortico 10*
 
-> Nel triangolo $ABC$ si disegna l'altitudine $AH$. I punti $M$ e $N$ siano ponti sui lati $AB$ e $AC$, rispettivamente, in modo tale che $HM$ sia perpendicolare a $AB$ e $HN$ sia perpendicolare a $AC$. Trova $MN$, sapendo che il perimetro del triangolo ortico del triangolo $ABC$ è uguale a $10$.
-> 
-> \textit{Osservazione:} Il triangolo ortico di un triangolo è il triangolo le cui vertici sono le intersezioni delle altitudini del triangolo con i rispettivi lati. Si può dimostrare che le altitudini di qualsiasi triangolo sono sempre i bisettori del suo triangolo ortico (l'ortocentro è il punto di incontro delle altitudini del triangolo originale). (A) $5$ \quad (B) $6$ \quad (C) $7$ \quad (D) $8$ \quad (E) $9$
+> Nel triangolo $ABC$ è tracciata l'altezza $AH$. Siano $M$ e $N$ dei punti sui lati $AB$ e $AC$, rispettivamente, tali che $HM$ sia perpendicolare a $AB$ e $HN$ sia perpendicolare a $AC$. Determinare $MN$, sapendo che il perimetro del triangolo ortico del triangolo $ABC$ è uguale a $10$.
+>
+> \textit{Osservazione:} Il triangolo ortico di un triangolo è il triangolo i cui vertici sono gli incroci delle altezze del triangolo con i lati rispettivi. Si può dimostrare che le altezze di un qualsiasi triangolo sono sempre le bisettrici del suo triangolo ortico (essendo l'ortocentro il punto di incontro delle altezze del triangolo originale).
+> (A) $5$ \quad (B) $6$ \quad (C) $7$ \quad (D) $8$ \quad (E) $9$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n2_f1#q11|src_obm_2008_n2_f1__Q11]]
 
 
 
@@ -346,9 +428,17 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare numeri interi inferiori a 500 con esattamente 15 divisori*
+*Conta gli interi inferiori a 500 che hanno esattamente 15 divisori*
 
-> Quanti numeri interi positivi più piccoli di $500$ hanno esattamente $15$ distinti divisori di numeri interi positivi? (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $3$ \quad (E) $4$
+> Quanti numeri interi positivi minori di $500$ hanno esattamente $15$ divisori interi positivi distinti?
+> (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $3$ \quad (E) $4$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n2_f1#q12|src_obm_2008_n2_f1__Q12]]
 
 
 
@@ -372,9 +462,17 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa delle somme digitali P(1)+...+P(1000)*
+*Somma delle somme delle cifre P(1)+...+P(1000)*
 
-> $P(n)$ sia la somma delle cifre del numero $n$. Per esempio, $P(1234)=1+2+3+4=10$. Qual è il valore di $P(1)+P(2)+P(3)+\ldots+P(1000)$? (A) $200$ \quad (B) $500$ \quad (C) $400$ \quad (D) $900$ \quad (E) $2250$
+> Sia $P(n)$ la somma delle cifre del numero $n$. Ad esempio, $P(1234)=1+2+3+4=10$. Qual è il valore di $P(1)+P(2)+P(3)+\ldots+P(1000)$?
+> (A) $200$ \quad (B) $500$ \quad (C) $400$ \quad (D) $900$ \quad (E) $2250$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n2_f1#q13|src_obm_2008_n2_f1__Q13]]
 
 
 
@@ -398,9 +496,17 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medi per fare R\$10.00 con monete 10c e 25c, almeno una ciascuna*
+*Modi per ottenere 10,00 R$ con monete da 10 c e 25 c, almeno una di ciascun tipo*
 
-> In quanti modi possiamo dividere R\$10.00 into coins of $10$ centavos and of $25$ centavos, using at least one coin of each type? (A) $15$ \quad (B) $16$ \quad (C) $17$ \quad (D) $18$ \quad (E) $19$
+> In quanti modi possiamo dividere R\$10.00 into coins of $10$ centavos and of $25$ centavos, utilizzando almeno una moneta di ogni tipo?
+> (A) $15$ \quad (B) $16$ \quad (C) $17$ \quad (D) $18$ \quad (E) $19$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n2_f1#q14|src_obm_2008_n2_f1__Q14]]
 
 
 
@@ -424,9 +530,17 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le più piccole disuguaglianze in catena e d<40*
+*Il più grande possibile dato un insieme di disuguaglianze catenate e d<40*
 
-> I numeri $a$, $b$, $c$, $d$ sono numeri interi come $a<2b$, $b<3c$, $c<4d$. Se $d<40$, il valore più grande possibile di $a$ sarà: (A) $960$ \quad (B) $959$ \quad (C) $951$ \quad (D) $934$ \quad (E) $927$
+> I numeri $a$, $b$, $c$, $d$ sono interi tali che $a<2b$, $b<3c$, $c<4d$. Se $d<40$, il valore massimo possibile di $a$ sarà:
+> (A) $960$ \quad (B) $959$ \quad (C) $951$ \quad (D) $934$ \quad (E) $927$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n2_f1#q15|src_obm_2008_n2_f1__Q15]]
 
 
 
@@ -449,9 +563,16 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa magica di un quadrato magico di ordine-7 con numeri da 1 a 49*
+*Somma magica di un quadrato magico di ordine 7 con i numeri da 1 a 49*
 
-> La figura seguente è un esempio di quadrato magico di ordine $4$. La somma dei numeri $4$ in ogni riga, colonna o diagonale è $34$. Quindi diciamo che la somma magica di questo quadrato magico è $34$. Supponiamo che esista un quadrato magico dell'ordine $7$, formato dai numeri interi da $1$ a $49$. Determina la sua somma magica. (A) $175$ \quad (B) $2450$ \quad (C) $1225$ \quad (D) $190$ \quad (E) $100$
+> La figura sottostante è un esempio di quadrato magico di ordine $4$. La somma dei $4$ numeri in ogni riga, colonna o diagonale è $34$. Diciamo allora che la somma magica di questo quadrato magico è $34$. Supponiamo che esista un quadrato magico di ordine $7$, formato dagli interi da $1$ a $49$. Determinare la sua somma magica.
+> (A) $175$ \quad (B) $2450$ \quad (C) $1225$ \quad (D) $190$ \quad (E) $100$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n2_f1#q16|src_obm_2008_n2_f1__Q16]]
 
 
 
@@ -479,9 +600,21 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La minore x+y che rende la somma delle potenze un quadrato perfetto*
+*Coppia x+y più piccola tale che la somma delle potenze sia un quadrato perfetto*
 
-> Si noti che: $$3^{2}+4^{2}=5^{2},$$ $$3^{3}+4^{3}+12^{2}=13^{2},$$ $$3^{4}+4^{4}+12^{2}+84^{2}=85^{2}.$$ Qual è il valore più piccolo possibile della somma $x+y$ con $x$, $y$ interi positivi come $3^{5}+4^{5}+12^{2}+84^{2}+x^{2}=y^{2}$? (A) $289$ \quad (B) $250$ \quad (C) $425$ \quad (D) $795$ \quad (E) $103$
+> Si noti che:
+> $$3^{2}+4^{2}=5^{2},$$
+> $$3^{3}+4^{3}+12^{2}=13^{2},$$
+> $$3^{4}+4^{4}+12^{2}+84^{2}=85^{2}.$$
+> Qual è il valore più piccolo possibile della somma $x+y$ con $x$, $y$ numeri interi positivi tali che $3^{5}+4^{5}+12^{2}+84^{2}+x^{2}=y^{2}$?
+> (A) $289$ \quad (B) $250$ \quad (C) $425$ \quad (D) $795$ \quad (E) $103$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_n2_f1#q17|src_obm_2008_n2_f1__Q17]]
 
 
 
@@ -504,9 +637,16 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un numero a tre cifre 629 volte inferiore alla somma di tutti gli altri*
+*Un numero di tre cifre, 629 volte più piccolo della somma di tutti gli altri*
 
-> Un certo numero a tre cifre è $629$ volte inferiore alla somma di tutti gli altri numeri a tre cifre. Questo numero è: (A) $450$ \quad (B) $785$ \quad (C) $630$ \quad (D) $471$ \quad (E) $525$
+> Un certo numero di tre cifre è $629$ volte più piccolo della somma di tutti gli altri numeri di tre cifre. Questo numero è:
+> (A) $450$ \quad (B) $785$ \quad (C) $630$ \quad (D) $471$ \quad (E) $525$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n2_f1#q18|src_obm_2008_n2_f1__Q18]]
 
 
 
@@ -532,11 +672,19 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di colori a cubo distinti con 5 colori fino alla rotazione*
+*Numero di colorazioni distinte di un cubo con 5 colori, a meno di rotazioni*
 
-> Soninha ha carte a forma di cubi, tutte uguali, con un design diverso su ciascuno dei sei volti. Utilizzerà cinque colori (verde, gialle, azzurre, rosso e arancione) per dipingere ogni scheda, in modo tale che due facce della stessa scheda non siano dipinte dello stesso colore. La figura qui sotto, ad esempio, mostra due carte che sono uguali, ma sembrano diverse perché una di loro è stata girata per essere ottenuta dall'altra. Quante carte diverse può produrre Soninha? (A) $16$ \quad (B) $25$ \quad (C) $30$ \quad (D) $60$ \quad (E) $90$
+> Soninha ha delle carte a forma di cubo, tutte uguali, con un motivo diverso su ciascuna delle sei facce. Userà cinque colori (verde, giallo, blu, vermiglio e arancione) per dipingere ogni carta, in modo che nessuna delle due facce di una stessa carta sia dipinta dello stesso colore. La figura sottostante, ad esempio, mostra due carte uguali, ma che appaiono diverse perché una di esse è stata ruotata per ottenere l'altra. Quante carte diverse può produrre Soninha?
+> (A) $16$ \quad (B) $25$ \quad (C) $30$ \quad (D) $60$ \quad (E) $90$
 
 ![[src_obm_2008_n2_f1__q19.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2008_n2_f1#q19|src_obm_2008_n2_f1__Q19]]
 
 
 
@@ -559,9 +707,16 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo IAO tra le direzioni incentro e circoncentro*
+*Angolo IAO tra le direzioni dell'incentro e del circocentro*
 
-> In un triangolo $ABC$, $\angle A=20^\circ$ e $\angle B=110^\circ$. Se $I$ è l'incentro (centro del cerchio inciso) e $O$ è il circumcentro (centro del cerchio circoscritto) del triangolo $ABC$, qual è la misura dell'angolo $\angle IAO$? (A) $20^\circ$ \quad (B) $25^\circ$ \quad (C) $30^\circ$ \quad (D) $40^\circ$ \quad (E) $35^\circ$
+> In un triangolo $ABC$, $\angle A=20^\circ$ e $\angle B=110^\circ$. Se $I$ è l'incentro (centro della circonferenza inscritta) e $O$ è il circocentro (centro della circonferenza circoscritta) del triangolo $ABC$, qual è la misura dell'angolo $\angle IAO$?
+> (A) $20^\circ$ \quad (B) $25^\circ$ \quad (C) $30^\circ$ \quad (D) $40^\circ$ \quad (E) $35^\circ$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n2_f1#q20|src_obm_2008_n2_f1__Q20]]
 
 
 
@@ -585,9 +740,17 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di ragazze tra il 60% della classe che svolge attività comunitarie*
+*Numero minimo di ragazze tra il 60% della classe che svolge attività di servizio alla comunità*
 
-> Una classe ha ragazzi e ragazze. Durante le vacanze, $60\%$ di tutti gli studenti di quella classe sono andati a fare lavori comunitari. Almeno quante ragazze hanno partecipato a questo lavoro? (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $6$ \quad (E) $8$
+> In una classe ci sono $22$ ragazzi e $18$ ragazze. Durante le vacanze, $60\%$ di tutti gli studenti di quella classe sono andati a svolgere lavoro di comunità. Quante ragazze, almeno, hanno partecipato a questo lavoro?
+> (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $6$ \quad (E) $8$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n2_f1#q21|src_obm_2008_n2_f1__Q21]]
 
 
 
@@ -612,11 +775,18 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Relazione tra tre aree triangolari tra due linee parallele*
+*Relazione tra le aree di tre triangoli compresi tra due rette parallele*
 
-> Nella figura seguente i punti $A$, $B$, $C$ sono collineari, così come i punti $D$, $E$, $F$. Le due linee $ABC$ e $DEF$ sono parallele. Lasciando $A_1$, $A_2$ e $A_3$ essere le aree delle regioni evidenziate nella figura, possiamo affermare che: (A) $A_3=2A_1=2A_2$ \quad (B) $A_2=A_3-A_1$ \quad (C) $A_3=A_2+A_3$ \quad (D) $A_3=A_1+A_2$ \quad (E) $A_2^{2}=A_1\cdot A_3$
+> Nella figura sottostante, i punti $A$, $B$, $C$ sono allineati, così come i punti $D$, $E$, $F$. Le due rette $ABC$ e $DEF$ sono parallele. Indicando con $A_1$, $A_2$ e $A_3$ le aree delle regioni evidenziate nella figura, possiamo affermare che:
+> (A) $A_3=2A_1=2A_2$ \quad (B) $A_2=A_3-A_1$ \quad (C) $A_3=A_2+A_3$ \quad (D) $A_3=A_1+A_2$ \quad (E) $A_2^{2}=A_1\cdot A_3$
 
 ![[src_obm_2008_n2_f1__q22.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n2_f1#q22|src_obm_2008_n2_f1__Q22]]
 
 
 
@@ -648,17 +818,25 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine il risultato dell'Austria contro la Danimarca dalla classifica di gruppo*
+*Determinare il risultato di Austria-Danimarca in base alla classifica del girone*
 
-> Il Gruppo A dell'ultima Coppa del Mondo di calcio si è concluso con i seguenti risultati:
-> 
+> Il Gruppo A dell'ultimo Campionato mondiale di calcio si è concluso con i seguenti risultati:
+>
 > Austria $7$ punti; Brasile $5$ punti; Camerun $4$ punti; Danimarca $0$ punti.
-> 
-> È noto che l'Austria e il Camerun hanno segnato solo $1$ gol ciascuno, mentre l'Austria ha ceduto $3$ gol. Qual è stato il risultato della partita Austria $\times$ Danimarca?
-> 
-> \textit{Osservazione:} Nel gruppo, ciascuna squadra gioca con le altre una volta; una vittoria dà $3$ punti, un pareggio dà $1$ punti a ciascuna, e il perdente non guadagna nulla; o, se c'è un pareggio, ogni squadra guadagna $1$ punti. (A) $1\times 0$ \quad (B) $2\times 1$ \quad (C) $2\times 0$ \quad (D) $0\times 0$ \quad (E) Non è possibile saperlo.
+>
+> È noto che l'Austria e il Camerun hanno segnato solo $1$ gol ciascuno, mentre l'Austria ha subito $3$ gol. Qual è stato il risultato della partita Austria $\times$ Danimarca?
+>
+> \textit{Osservazione:} Nel gruppo, ogni squadra affronta le altre una volta; una vittoria vale $3$ punti, un pareggio vale $1$ punto per ciascuna, mentre la sconfitta non porta alcun punto; oppure, in caso di pareggio, ogni squadra ottiene $1$ punti.
+> (A) $1\times 0$ \quad (B) $2\times 1$ \quad (C) $2\times 0$ \quad (D) $0\times 0$ \quad (E) Non è possibile saperlo.
 
 ![[src_obm_2008_n2_f1__q23.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n2_f1#q23|src_obm_2008_n2_f1__Q23]]
 
 
 
@@ -684,11 +862,19 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato magico moltiplicato, trovare la somma A+B+C+D*
+*Quadrato magico moltiplicativo, trova la somma A+B+C+D*
 
-> Di seguito abbiamo un quadrato magico moltiplicativo, cioè il prodotto dei numeri in ogni riga, colonna e diagonale è lo stesso. $\overline{ABCD}$ è un numero a quattro cifre, ciascuna lettera rappresenta un numero a una cifra e $\overline{AC}$ rappresenta il numero a due cifre i cui numeri sono $A$ e $C$. Alcune celle del quadrato contengono le voci $4$, $\overline{AC}$, $C$ e $24$. La somma $A+B+C+D$ è: (A) $17$ \quad (B) $18$ \quad (C) $19$ \quad (D) $20$ \quad (E) $21$
+> Qui sotto abbiamo un quadrato magico moltiplicativo, cioè il prodotto dei numeri in ogni riga, colonna e diagonale è lo stesso. $\overline{ABCD}$ è un numero di quattro cifre, ogni lettera rappresenta un numero di una cifra, e $\overline{AC}$ rappresenta il numero di due cifre le cui cifre sono $A$ e $C$. Alcune caselle del quadrato contengono i valori assegnati $4$, $\overline{AC}$, $C$ e $24$. La somma $A+B+C+D$ è:
+> (A) $17$ \quad (B) $18$ \quad (C) $19$ \quad (D) $20$ \quad (E) $21$
 
 ![[src_obm_2008_n2_f1__q24.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n2_f1#q24|src_obm_2008_n2_f1__Q24]]
 
 
 
@@ -712,6 +898,14 @@ L'anno prossimo il 14 giugno è nuovamente sabato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cubini piccoli con faccia rossa e blu provenienti da un cubo tagliato*
+*Piccoli cubi con una faccia rossa e una faccia blu, ricavati da un cubo tagliato*
 
-> Ho un cubo di legno con tre facce rosse e tre facce blu. È tagliato in cubetti $3\times 3\times 3=27$ più piccoli. Quanti di questi cubetti più piccoli hanno almeno una faccia rossa e almeno una faccia blu? (A) $6$ \quad (B) $12$ \quad (C) $14$ \quad (D) $16$ \quad (E) Dipende dalla disposizione delle facce rosse e delle facce blu.
+> Ho un cubo di legno con tre facce rosse e tre facce blu. Viene tagliato in $3\times 3\times 3=27$ cubetti più piccoli. Quanti di questi cubetti più piccoli hanno almeno una faccia rossa e almeno una faccia blu?
+> (A) $6$ \quad (B) $12$ \quad (C) $14$ \quad (D) $16$ \quad (E) Dipende dalla disposizione delle facce rosse e delle facce blu.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2008_n2_f1#q25|src_obm_2008_n2_f1__Q25]]

@@ -31,9 +31,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine quali integri positivi m si verificano come termine m^2 a quadrato perfetto in una sequenza di ricorrenza a radice quadrata del pavimento.*
+*Determinare quali interi positivi m compaiono come termine quadrato perfetto m^2 in una successione ricorrente del tipo floor-of-square-root.*
 
-> Che $x_1, x_2, x_3, \ldots$ sia una sequenza di integri positivi definita come segue: $x_1 = 1$ e per ogni $n \ge 1$ abbiamo $$x_{n+1} = x_n + \lfloor \sqrt{x_n} \rfloor.$$ Determinare tutti gli integri positivi $m$ per i quali $x_n = m^2$ per alcuni $n \ge 1$. (Qui $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$ per ogni numero reale $x$.)
+> Sia $x_1, x_2, x_3, \ldots$ una successione di interi positivi definita come segue: $x_1 = 1$ e, per ogni $n \ge 1$, si ha
+> $$x_{n+1} = x_n + \lfloor \sqrt{x_n} \rfloor.$$
+> Determinare tutti gli interi positivi $m$ per i quali $x_n = m^2$ per qualche $n \ge 1$. (Qui $\lfloor x \rfloor$ denota il più grande intero minore o uguale a $x$ per ogni numero reale $x$.)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2026#q01|src_inmo_2026__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per f:N->N dove f(k) conti la molteplicità massima in f(1),...,f(k-1) per k>2026, prova f(n)=f(n+1) per infinite n.*
+*Sia f: N → N, dove f(k) conta la molteplicità massima in f(1), ..., f(k-1) per k > 2026; dimostrare che f(n) = f(n+1) per infiniti n.*
 
-> Che $f : \mathbb{N} \to \mathbb{N}$ sia una funzione che soddisfi la seguente condizione: per ogni $k > 2026$, il numero $f(k)$ è uguale al numero massimo di volte in cui un numero appare nell'elenco $f(1), f(2), \ldots, f(k-1)$. Prova che $f(n) = f(n+1)$ per infinite $n \in \mathbb{N}$. (Qui $\mathbb{N}$ indica l'insieme $\{1, 2, 3, \ldots\}$ di numeri interi positivi.)
+> Sia $f : \mathbb{N} \to \mathbb{N}$ una funzione che soddisfa la seguente condizione: per ogni $k > 2026$, il numero $f(k)$ è uguale al numero massimo di volte in cui un numero compare nella lista $f(1), f(2), \ldots, f(k-1)$. Dimostrare che $f(n) = f(n+1)$ per infiniti $n \in \mathbb{N}$. (Qui $\mathbb{N}$ denota l'insieme $\{1, 2, 3, \ldots\}$ degli interi positivi.)
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2026#q02|src_inmo_2026__Q02]]
 
 
 
@@ -81,9 +97,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un triangolo di scalene acuto, con P,Q sui lati che soddisfano BP=BN, CQ=CN e K sulla linea AN con MK=MN, prova che l'angolo PKQ è un angolo retto.*
+*In un triangolo acuto scaleno, con P e Q sui lati tali che BP=BN, CQ=CN, e con K sulla retta AN tale che MK=MN, dimostrare che l'angolo PKQ è retto.*
 
-> Il $ABC$ deve essere un triangolo scaleno a angolo acuto con un circoncircolo $\Gamma$. Il $M$ deve essere il punto medio del $BC$ e il $N$ deve essere il punto medio dell'arco minore $BC$ del $\Gamma$. I punti $P$ e $Q$ si trovano rispettivamente sui segmenti $AB$ e $AC$ in modo tale che $BP = BN$ e $CQ = CN$. Il punto $K \ne N$ si trova sulla linea $AN$ con $MK = MN$. Prova che $\angle PKQ = 90^\circ$.
+> Sia $ABC$ un triangolo scaleno acutangolo con circonferenza circoscritta $\Gamma$. Sia $M$ il punto medio di $BC$ e sia $N$ il punto medio dell'arco minore $BC$ di $\Gamma$. I punti $P$ e $Q$ giacciono sui segmenti $AB$ e $AC$ rispettivamente in modo che $BP = BN$ e $CQ = CN$. Il punto $K \ne N$ giace sulla retta $AN$ con $MK = MN$. Dimostrare che $\angle PKQ = 90^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2026#q03|src_inmo_2026__Q03]]
 
 
 
@@ -106,9 +129,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determina tutte le f:N0->N0 con f(0)=0 in modo tale che f(n) + m e f(n) + f(m) siano compagni (dividono esattamente gli stessi divisori primi) per tutte le m,n.*
+*Determinare tutte le funzioni f:N0→N0 con f(0)=0 tali che f(n)+m e f(n)+f(m) siano compagni (condividano esattamente gli stessi divisori primi) per tutti gli m,n.*
 
-> Due integri $a$ e $b$ sono chiamati compagni se ogni numero primo $p$ divide entrambi o nessuno di $a, b$. Determinare tutte le funzioni $f : \mathbb{N}_0 \to \mathbb{N}_0$ in modo tale che $f(0) = 0$ e i numeri $f(n) + m$ e $f(n) + f(m)$ siano compagni di tutte le $m, n \in \mathbb{N}_0$. (Qui $\mathbb{N}_0$ indica l'insieme di tutti gli integri non negativi.)
+> Due interi $a$ e $b$ sono detti compagni se ogni numero primo $p$ divide entrambi o nessuno dei $a, b$. Determinare tutte le funzioni $f : \mathbb{N}_0 \to \mathbb{N}_0$ tali che $f(0) = 0$ e i numeri $f(n) + m$ e $f(n) + f(m)$ siano compagni per ogni $m, n \in \mathbb{N}_0$. (Qui $\mathbb{N}_0$ denota l'insieme di tutti gli interi non negativi.)
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2026#q04|src_inmo_2026__Q04]]
 
 
 
@@ -131,9 +161,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per un punto interno P di un triangolo acuto T con riflessi successivi nei suoi lati, dimostrare che le sei immagini a triplice riflessione sono concicliche se P è l'ortocentro.*
+*Per un punto interno P di un triangolo acuto T, mediante riflessioni successive rispetto ai suoi lati, dimostrare che le sei immagini ottenute con triple riflessioni sono concycliche se e solo se P è l'ortocentro.*
 
-> Tre linee $t_1, t_2, t_3$ formano un triangolo acuto angolato $\mathcal{T}$ nel piano. Il punto $P$ si trova all'interno di $\mathcal{T}$. Il $r_i$ indica la trasformazione del piano in modo tale che l'immagine $r_i(X)$ di qualsiasi punto $X$ nel piano sia il riflesso di $X$ in $t_i$, per ogni $i \in \{1, 2, 3\}$. Indicare con $P_{ijk}$ il punto $r_k(r_j(r_i(P)))$ per ogni permutazione $(i, j, k)$ di $(1, 2, 3)$. Prova che $P_{123}, P_{132}, P_{213}, P_{231}, P_{312}, P_{321}$ sono conciclici se e solo se $P$ coincide con l'ortocentro di $\mathcal{T}$.
+> Tre rette $t_1, t_2, t_3$ formano nel piano un triangolo acutangolo $\mathcal{T}$. Il punto $P$ giace nell'interno di $\mathcal{T}$. Sia $r_i$ la trasformazione del piano tale che l'immagine $r_i(X)$ di ogni punto $X$ del piano sia la riflessione di $X$ rispetto a $t_i$, per ogni $i \in \{1, 2, 3\}$. Si indichi con $P_{ijk}$ il punto $r_k(r_j(r_i(P)))$ per ogni permutazione $(i, j, k)$ di $(1, 2, 3)$. Dimostrare che $P_{123}, P_{132}, P_{213}, P_{231}, P_{312}, P_{321}$ sono conciclici se e solo se $P$ coincide con l'ortocentro di $\mathcal{T}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2026#q05|src_inmo_2026__Q05]]
 
 
 
@@ -162,6 +199,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due mazzi di 40 carte giocano duelli deterministici ripetuti con regole di vincita/riguardo/senza interazione; dimostrare che il tempo massimo che può richiedere un gioco di fine è di 356 ore.*
+*Due mazzi da 40 carte disputano duelli deterministici ripetuti secondo regole con vittoria, pareggio o assenza di interazione; dimostrare che il tempo massimo che può richiedere una partita che termina è di 356 ore.*
 
-> Due mazzi $\mathcal{A}$ e $\mathcal{B}$ di 40 schede sono posizionati su un tavolo al mezzogiorno. Ogni minuto dopo, scegliamo le prime carte $a \in \mathcal{A}$ e $b \in \mathcal{B}$, ciascuna una carta $b$, il risultato rimane lo stesso ed è indipendente da tutti gli altri duelli. Un duello ha tre possibili risultati: \begin{itemize} \item Se una carta vince, viene riposta in cima al suo mazzo e la carta perdente viene posta in fondo all'altro mazzo. \item Se $a$ e $b$ sono uguali, entrambi vengono rimossi dai rispettivi ponti. \item Se $a$ e $b$ non interagiscono tra loro, entrambi sono posizionati in fondo ai rispettivi ponti. Il processo termina quando entrambi i ponti sono vuoti. Un processo si chiama gioco se termina. Prove che il tempo massimo di una partita è pari a 356 ore.
+> Due mazzi, $\mathcal{A}$ e $\mathcal{B}$, ciascuno composto da 40 carte, vengono posizionati su un tavolo a mezzogiorno. Ogni minuto da quel momento in poi, estraiamo le carte in cima $a \in \mathcal{A}$ e $b \in \mathcal{B}$, ciascuna delle quali è una carta $b$; l'esito rimane lo stesso ed è indipendente da tutti gli altri duelli. Un duello ha tre esiti possibili:
+> \begin{itemize}
+> \item Se una carta vince, viene rimessa in cima al proprio mazzo e la carta perdente viene messa in fondo all'altro mazzo. \item Se $a$ e $b$ sono alla pari, entrambe vengono rimosse dai rispettivi mazzi. \item Se $a$ e $b$ non interagiscono tra loro, allora entrambe vengono messe in fondo ai rispettivi mazzi.
+> \end{itemize}
+> Il processo termina quando entrambi i mazzi sono vuoti. Un processo è definito partita se termina. Dimostrare che il tempo massimo che una partita può richiedere è pari a 356 ore.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2026#q06|src_inmo_2026__Q06]]

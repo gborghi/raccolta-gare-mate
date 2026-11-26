@@ -29,9 +29,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*miscela di alcol e benzina egualizzata con l'aggiunta di alcol puro*
+*Miscela alcol-benzina resa omogenea aggiungendo alcol puro*
 
-> Il serbatoio della macchina di Esmeralda ha una capacità di 60 litri e contiene una miscela di alcol del 20% e benzina dell'80%, a metà piena. Esmeralda chiese di aggiungere alcolici al serbatoio fino a che la miscela non diventasse uguale quantità di alcol e benzina. Quanti litri di alcol dovrebbero essere aggiunti?
+> Il serbatoio dell'auto di Esmeralda ha una capacità di 60 litri ed è mezzo pieno di una miscela composta per il 20% da alcol e per l'80% da benzina. Esmeralda ha chiesto di aggiungere alcol al serbatoio finché la miscela non avesse contenuto quantità uguali di alcol e benzina. Quanti litri di alcol vanno aggiunti?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n1_f2#q01|src_obm_2005_n1_f2__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza aritmetica: trovare il termine 2005*
+*Successione aritmetica: trova il 2005º termine*
 
-> Nella sequenza di numeri $1, a, 2, b, c, d, \ldots$ il primo termine è $1$, il secondo termine è $a$, il terzo termine è $2$, il quarto termine è $b$, e così via. È noto che questa sequenza ha termini del 2005 e che ogni termine, dal terzo in poi, è la media aritmetica dei due termini precedenti. Qual è l'ultimo termine (2005) di questa sequenza?
+> Nella successione di numeri $1, a, 2, b, c, d, \ldots$ il primo termine è $1$, il secondo termine è $a$, il terzo termine è $2$, il quarto termine è $b$, e così via. Si sa che questa successione ha 2005 termini e che ciascun termine, a partire dal terzo, è la media aritmetica dei due termini precedenti. Qual è l'ultimo termine (il 2005º) di questa successione?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n1_f2#q02|src_obm_2005_n1_f2__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
+*Natasha cancella i numeri 1 e 3 dalle pagine del diario fino alla 200*
 
-> Natasha è superstiziosa e, a partire dalla pagina 1 del suo diario di 200 pagine, ha incrociato tutti i numeri in cui i numeri 1 e 3 appaiono insieme (in qualsiasi ordine). Per esempio, i numeri 31 e 137 non figurano nel diario, ma 103 invece. Qual è il numero che Natasha ha scritto sull'ultima pagina del suo diario?
+> Natasha è superstiziosa e, a partire dalla pagina 1 del suo diario di 200 pagine, ha cancellato tutti i numeri in cui le cifre 1 e 3 compaiono insieme (in qualsiasi ordine). Ad esempio, i numeri 31 e 137 non compaiono nel diario, ma 103 sì. Qual è il numero che Natasha ha scritto sull'ultima pagina del suo diario?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n1_f2#q03|src_obm_2005_n1_f2__Q03]]
 
 
 
@@ -110,15 +131,22 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i pezzi di nastro adesivo per contornare una scala di enti interi positivi fino a 105*
+*Conta i pezzi di nastro adesivo per delimitare una scala di numeri interi positivi fino a 105*
 
-> Juliana ha fissato un nastro adesivo rappresentato da rettangoli scuri nella figura qui sotto per limitare i numeri interi positivi successivi disposti in reti quadrate, fianco a fianco, dove ogni riga di quadrati ha un quadrato in più della riga sopra di esso. Ha scritto fino al numero 105 e si è fermata. Quanti pezzi di nastro adesivo ha usato?
-> 
+> Juliana ha applicato del nastro adesivo, rappresentato nei rettangoli scuri nella figura sottostante, per delimitare i successivi numeri interi positivi disposti in griglie quadrate, una accanto all'altra, in cui ogni riga di quadrati ha un quadrato in più rispetto alla riga sopra di essa. Ha scritto fino al numero 105 e si è fermata. Quante strisce di nastro adesivo ha usato?
+>
 > $$\begin{array}{ccccc} & & 1 & & \\ & 2 & 3 & 4 & \\ 5 & 6 & 7 & 8 & \\ & & \cdots & & \end{array}$$
-> 
-> (La disposizione è una scala: la riga $k$ ha quadrati $k$ e circonda gruppi di righe con nastri adesivi.)
+>
+> (La disposizione è a scala: la riga $k$ ha $k$ caselle, e lei circonda gruppi di righe con strisce di nastro adesivo.)
 
 ![[src_obm_2005_n1_f2__q04.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n1_f2#q04|src_obm_2005_n1_f2__Q04]]
 
 
 
@@ -141,9 +169,16 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per dipingere cubetti uguali con facce arancione, non due identici*
+*Conta i modi di dipingere cubi uguali con facce arancioni, senza due identici*
 
-> Lara ha cubi uguali e vuole dipingere in modi diversi, usando il colore arancione per dipingere ciascuno dei 6 volti. Per due cubi che non possono essere confusi (cioè uno non può essere rotato per apparire identico all'altro), ad esempio, c'è solo un modo per dipingere un cubo con una faccia arancione. Quanti cubetti dipinti diversamente può ottenere?
+> Lara ha dei cubi identici e vuole dipingerli in modi diversi, usando il colore arancione per dipingere ciascuna delle 6 facce. Per due cubi che non possono essere confusi (cioè tali che uno non può essere ruotato per apparire identico all'altro), ad esempio, c'è un solo modo per dipingere un cubo con una faccia arancione. Quanti cubi dipinti in modi diversi può ottenere?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n1_f2#q05|src_obm_2005_n1_f2__Q05]]
 
 
 
@@ -168,11 +203,18 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Volume di scatola di legno aperta di tavole rettangolari*
+*Volume di una cassa di legno aperta realizzata con assi rettangolari*
 
-> Un falegname fa scatole aperte in legno (aperte in alto) utilizzando due tavole rettangolari di $600\,\text{cm}^2$ ciascuno, due tavole rettangolari di $1200\,\text{cm}^2$ ciascuno e una tavole rettangolare di $800\,\text{cm}^2$, come mostrato nella figura. Qual è il volume, in litri, della scatola? Si noti che $1\,\text{litre} = 1000\,\text{cm}^3$.
+> Un falegname realizza scatole di legno aperte (aperte in alto) utilizzando due assi rettangolari di $600\,\text{cm}^2$ ciascuna, due assi rettangolari di $1200\,\text{cm}^2$ ciascuna e un'asse rettangolare di $800\,\text{cm}^2$, come mostrato nella figura. Qual è il volume, in litri, della scatola? Si noti che $1\,\text{litre} = 1000\,\text{cm}^3$.
 
 ![[src_obm_2005_n1_f2__q06.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n1_f2#q06|src_obm_2005_n1_f2__Q06]]
 
 
 
@@ -197,11 +239,18 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area dei quadrati IJKL e MNOP da disposizione triangolare rettangolare*
+*Aree dei quadrati IJKL e MNOP derivanti dalla disposizione a triangolo rettangolo*
 
-> Quattro pezzi uguali, ognuno a forma di triangolo rettangolo, erano disposti in due modi diversi, come mostrato nelle figure. I quadrati $ABCD$ e $EFGH$ hanno lati uguali rispettivamente a $3\,\text{cm}$ e $9\,\text{cm}$. Calcolare le superfici dei quadrati $IJKL$ e $MNOP$.
+> Quattro pezzi uguali, ciascuno a forma di triangolo rettangolo, sono stati disposti in due modi diversi, come mostrato nelle figure. I quadrati $ABCD$ e $EFGH$ hanno lati rispettivamente uguali a $3\,\text{cm}$ e $9\,\text{cm}$. Calcola le aree dei quadrati $IJKL$ e $MNOP$.
 
 ![[src_obm_2005_n1_f2__q07.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n1_f2#q07|src_obm_2005_n1_f2__Q07]]
 
 
 
@@ -224,9 +273,16 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i multipli a 3 cifre di 7 dove il successore è multiple di 11*
+*Trovare tutti i multipli di 7 costituiti da 3 cifre per cui il successore è un multiplo di 11*
 
-> Considerate tre numeri interi positivi consecutivi di tre cifre in modo tale che il più piccolo sia un multiple di $7$, il medio è un multiple di $9$, e il più grande è un multiple di $11$. Scrivi tutte le sequenze di numeri che soddisfano queste proprietà.
+> Si considerino tre interi positivi consecutivi di tre cifre tali che il più piccolo sia un multiplo di $7$, il medio sia un multiplo di $9$ e il più grande sia un multiplo di $11$. Si scrivano tutte le sequenze di numeri che soddisfano queste proprietà.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n1_f2#q08|src_obm_2005_n1_f2__Q08]]
 
 
 
@@ -255,12 +311,19 @@ Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
 <div class="qlang-split" data-lang="it"></div>
 
 
-*allineamento della catena di domini e impossibilità con 14 piastrelle*
+*Allineamento della catena di domino e impossibilità con 1–4 tessere*
 
-> Ogni gioco di domino ha due case numerate. Considerate i 6 pezzi formati solo dai numeri 1, 2 e 3.
-> 
-> (a) In quanti modi è possibile posizionare tutti questi pezzi in una fila, in modo che il numero sulla casa destra di ogni pezzo sia uguale al numero sulla casa sinistra del pezzo immediatamente a destra? Qui di seguito sono riportati due esempi.
-> 
-> (b) Spiegate perché non è possibile fare lo stesso con tutti i 10 pezzi formati solo dai numeri 1, 2, 3 e 4.
+> Ogni tessera del gioco del domino ha due semi numerati. Si considerino le 6 tessere formate esclusivamente dai numeri 1, 2 e 3.
+>
+> (a) In quanti modi è possibile disporre tutti questi pezzi in fila, in modo che il numero sulla casa di destra di ciascun pezzo sia uguale al numero sulla casa di sinistra del pezzo immediatamente a destra di esso? Di seguito sono mostrati due esempi.
+>
+> (b) Spiega perché non è possibile fare lo stesso con tutti e 10 i pezzi formati esclusivamente dai numeri 1, 2, 3 e 4.
 
 ![[src_obm_2005_n1_f2__q09.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n1_f2#q09|src_obm_2005_n1_f2__Q09]]

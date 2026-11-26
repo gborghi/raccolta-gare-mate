@@ -33,11 +33,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reduction to lowest terms of a fraction of sums*
+*Reduction of a fraction of sums to lowest terms*
 
-> Minimum terms Reduce to lowest terms the fraction (1 + 3 + 5 + ... + 51) / (4 + 6 + 8 + ... + 54) and report consecutively numerator and denominator (for example, if the fraction was 5/8 write [0508]).
+> Reduce to lowest terms: Reduce the fraction (1 + 3 + 5 + … + 51) / (4 + 6 + 8 + … + 54) to lowest terms and write the numerator and denominator consecutively (for example, if the fraction were 5/8, write [0508]).
 
-**Answer:** 2629
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q01|src_kangourou_2019_junior_semifinale_a__Q01]]
 
 
 
@@ -63,11 +67,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Radius in decimeters of three circles in the triangle*
+*Radii in decimetres of three circumcircles in the triangle*
 
-> Three circles In an equilateral triangle of 40 metres side, three circles of equal radius are drawn, pairwise tangent to each other, each tangent to two sides of the triangle. What is the largest integer that does not exceed the length in decimeters of the radius of the circles?
+> Three Circles In an equilateral triangle with side length 40 metres, three circles of equal radius are drawn; each pair of circles is tangent to each other, and each circle is tangent to two sides of the triangle. What is the greatest integer that does not exceed the length, in decimetres, of the radius of the circles?
 
-**Answer:** 0073
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q02|src_kangourou_2019_junior_semifinale_a__Q02]]
 
 
 
@@ -127,7 +135,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ways to assign integers to the octagon with diagonal sums*
+*Ways of assigning integers to the octagon with diagonal sums*
 
 ![[src_kangourou_2019_junior_semifinale_a__prob3.png]]
 
@@ -159,9 +167,14 @@ level: kangourou
 \end{document}
 ```
 
-> Between 1 and 9 the vertices and the centre of the regular octagon in the figure have been given a name. In how many different ways can each of the points, vertices and center, be assigned an integer between 1 and 9 so that different points receive different numbers but, for each fixed assignment, the sum of the three numbers affecting the individual diagonals passing through the center is always the same when the diagonal varies?
+> Between 1 and 9, the vertices and the center of the regular octagon in the figure have been given names. In how many different ways can an integer between 1 and 9 be assigned to each of the points—the vertices and the center—so that different points receive different numbers but, for any fixed assignment, the sum of the three numbers associated with the individual diagonals passing through the center is always the same as the diagonals vary?
 
-**Answer:** 1152
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q03|src_kangourou_2019_junior_semifinale_a__Q03]]
 
 
 
@@ -191,13 +204,14 @@ level: kangourou
 
 *Maximum N+T+Q with constraint T-Q=5*
 
-> The maximum value
-> In a plane a set S of N points is given: no three of them are collinear and the possible
-> quadrilaterals (non-self-intersecting) with vertices in S are all convex. If T is the number of possible
-> triangles with vertices in the given set and Q is the number of possible convex quadrilaterals with vertices
-> in the same set, what is the maximum possible value for N + T + Q under the constraint T – Q = 5?
+> The maximum value: In a plane, a set S of N points is given: no three of these points are collinear, and all possible (non-self-intersecting) quadrilaterals with vertices in S are convex. If T is the number of possible triangles with vertices in the given set and Q is the number of possible convex quadrilaterals with vertices in the same set, what is the maximum possible value of N + T + Q subject to the constraint T – Q = 5?
 
-**Answer:** 0041
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q04|src_kangourou_2019_junior_semifinale_a__Q04]]
 
 
 
@@ -224,11 +238,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tangent circles at exactly three out of ten lines*
+*Find tangents to exactly three of ten lines*
 
-> 10 lines In the plane there are 10 lines: of these, there are no two parallels, there are no three concurrent at the same point, there are no four tangent to the same circle. How many circles are tangent to exactly three of the ten lines?
+> 10 lines: In the plane, there are 10 lines. Among these, no two are parallel, no three meet at the same point, and no four are tangent to the same circle. How many circles are tangent to exactly three of the ten lines?
 
-**Answer:** 0480
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q05|src_kangourou_2019_junior_semifinale_a__Q05]]
 
 
 
@@ -254,13 +273,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*30 with p q primes*
+*30 with p and q prime*
 
-> The remainder   
-> Let p and q be two prime numbers both greater than 2019. What is the greatest possible remainder for the 
-> division (p2 + q2) : 30?
+> Remainder Let p and q be two prime numbers, both greater than 2019. What is the greatest possible remainder when (p² + q²) is divided by 30?
 
-**Answer:** 0020
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q06|src_kangourou_2019_junior_semifinale_a__Q06]]
 
 
 
@@ -287,11 +309,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ABC product with continued fraction = 881/97*
+*Product ABC with continued fraction = 881/97*
 
-> The product For three positive integers A, B and C, A + 1/(B + (1/C)) = 881/97. What is their product?
+> Product: For three positive integers A, B, and C, it happens that A + 1/(B + (1/C)) = 881/97. What is the value of their product?
 
-**Answer:** 0864
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q07|src_kangourou_2019_junior_semifinale_a__Q07]]
 
 
 
@@ -321,9 +348,14 @@ level: kangourou
 
 *Types of three-square banknotes (rotations)*
 
-> Kanglandia banknotes are rectangular, obtained by aligning three squares of the same size. For all of them the back is gray, while on the other side each of the squares can be yellow, red, green or blue. Only the colours (and their positions) differentiate different banknotes. How many types of banknotes are there?
+> Banknotes The banknotes of Kanglandia are rectangular, formed by placing three squares of the same size in a line side by side. All of them have a gray reverse, while on the other side, each of the squares can be yellow, red, green, or blue. Only the colors (and their positions) distinguish different banknotes. How many types of banknotes are there?
 
-**Answer:** 0040
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q08|src_kangourou_2019_junior_semifinale_a__Q08]]
 
 
 
@@ -352,12 +384,14 @@ level: kangourou
 
 *Product of the solutions of f(n)=n*
 
-> An equation
-> For every positive integer n let f(n) = (n2 – 3n + 3)2 – 3(n2 – 3n + 3) + 3. What is the product of all the
-> (real) solutions of the equation f(n) = n ? (Answer [0000] if the equation has no solutions,
-> [9999] if it has infinitely many.)
+> An Equation For every positive integer n, let f(n) = (n² – 3n + 3)² – 3(n² – 3n + 3) + 3. What is the product of all (real) solutions of the equation f(n) = n? (Answer [0000] if the equation has no solutions, [9999] if it has infinitely many.)
 
-**Answer:** 0003
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q09|src_kangourou_2019_junior_semifinale_a__Q09]]
 
 
 
@@ -385,12 +419,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ways to choose n with mean greater than n*
+*Ways of choosing n with a mean greater than n*
 
-> The addition
-> In an urn there are 2019 cards, on each of which a different positive integer from 1 to 2019 is written. We want to add to the urn a card on which a positive integer n is written so that the arithmetic mean of the numbers written on the cards now in the urn is greater than n. In how many different ways can we choose n?
+> Addition: There are 2019 cards in an urn, and each card bears a different positive integer from 1 to 2019. We want to add to the urn a card on which a positive integer n is written, in such a way that the arithmetic mean of the numbers written on the cards currently in the urn is greater than n. In how many different ways can we choose n?
 
-**Answer:** 1009
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q10|src_kangourou_2019_junior_semifinale_a__Q10]]
 
 
 
@@ -418,11 +456,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability that ABC+AB+A is divisible by 3*
+*Probability that ABC+AB+A is divisible by 3*
 
-> Divisible by 3 Choosing at random three positive integers (not necessarily distinct) A, B, C less than or equal to 2019, what is the probability that the number A × B × C + A × B + A is divisible by 3? (Write down below the numerator and denominator of the fraction reduced to minimum terms; for example, if the answer is 4/31, write [0431].)
+> Divisible by 3: If three positive integers (not necessarily distinct), A, B, and C, each less than or equal to 2019, are chosen at random, what is the probability that the number A × B × C + A × B + A is divisible by 3? (Below, write the numerator and denominator of the fraction in lowest terms; for example, if the answer were 4/31, write [0431].)
 
-**Answer:** 1327
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q11|src_kangourou_2019_junior_semifinale_a__Q11]]
 
 
 
@@ -448,11 +491,15 @@ The probability that ABC+AB+A is divisible by 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of John from the relationship between the ages*
+*And of Giovanni from the relationship between ages*
 
-> Birthdays Today is the birthday of Peter and John; the sum of their ages is 91 years and John's age is twice the age that Peter had when John was the same age as Peter now has. How old is John?
+> Birthdays: Today is Piero's and Giovanni's birthday; the sum of their ages is 91 years, and Giovanni's age is twice the age Piero was when Giovanni was the same age Piero is now. How old is Giovanni?
 
-**Answer:** 0052
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q12|src_kangourou_2019_junior_semifinale_a__Q12]]
 
 
 
@@ -481,11 +528,16 @@ The probability that ABC+AB+A is divisible by 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most connected graph arcs without triangles 99 points*
+*Maximum connected arborgraph without triangles, 99 points*
 
-> 99 points In space 99 distinct points are assigned so that there are no four are coplanar. Some points are connected by segments so that each of the 99 points is reachable (through the traced segments) from each of the others (i.e. there is a connected graph), but the traced segments do not form any triangle. What is the maximum number of segments traced (i.e. the number of arcs in the graph)?
+> 99 points In space, 99 distinct points are placed so that no four of them are coplanar. Some of the points are joined by line segments so that each of the 99 points can be reached (via the drawn segments) from each of the other points (that is, the graph is connected), but the drawn segments do not form any triangle. What is the maximum possible number of drawn segments (that is, the number of edges of the graph)?
 
-**Answer:** 2450
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q13|src_kangourou_2019_junior_semifinale_a__Q13]]
 
 
 
@@ -513,11 +565,16 @@ The probability that ABC+AB+A is divisible by 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of digits of back-balanced numbers*
+*Sum of the digits of the retro-imbalanced numbers*
 
-> Back-balanced numbers Let's say a positive integer N of five digits is back-balanced if, say, A is the six-digit integer that you get by putting 2 before the digits of N and B is the six-digit integer that you get by putting 2 after the digits of N, you have B = 3A. What is the sum of the digits of all the back-balanced numbers? (Write [0000] if there are no back-balanced numbers.)
+> Retro-unbalanced numbers Suppose a positive five-digit integer N is retro-unbalanced if, letting A be the six-digit integer obtained by prepending 2 to the digits of N and B be the six-digit integer obtained by appending 2 to the digits of N, we have B = 3A. What is the sum of the digits of all retro-unbalanced numbers? (Write [0000] if no retro-unbalanced numbers exist.)
 
-**Answer:** 0025
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q14|src_kangourou_2019_junior_semifinale_a__Q14]]
 
 
 
@@ -555,16 +612,20 @@ The probability that ABC+AB+A is divisible by 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of F occupied by the rectangle ABCD*
+*Percentage of F occupied by rectangle ABCD*
 
 ![[src_kangourou_2019_junior_semifinale_a__prob15.png]]
 
-> The percentage Some equal rectangles are arranged as shown in the image and form a figure F. What percentage of F is occupied by the ABCD rectangle drawn on it? Round the answer to the nearest whole.
-> 
+> Percentage: Some identical rectangles are arranged as shown in the image and form a figure F. Approximately what percentage of F is occupied by the rectangle ABCD drawn within it? Round your answer to the nearest whole number.
+>
 > 1
->  
-> Kangourou of Mathematics 2019 Junior Cup to teams Semifinal round in Cervia, 6 May 2019
->  
-> Questions and solutions
+>
+> Kangaroo Mathematics Competition 2019 Junior Team Cup Semifinal, Round A, Cervia, 6 May 2019
+>
+> Questions and Solutions
 
-**Answer:** 0046
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale_a#q15|src_kangourou_2019_junior_semifinale_a__Q15]]

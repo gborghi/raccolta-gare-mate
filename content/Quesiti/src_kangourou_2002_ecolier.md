@@ -33,15 +33,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tile removed from the Kangourou figure*
+*Which square tile was removed from the kangaroo figure*
 
 ![[src_kangourou_2002_ecolier__prob1.png]]
 
-> Which of the square tiles shown below has been 
-> removed from the large figure on the right representing a 
-> Kangourou?
+> Which of the square tiles, shown below, was removed from the large figure on the right, depicting a kangaroo?
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_ecolier#q01|src_kangourou_2002_ecolier__Q01]]
 
 
 
@@ -71,18 +72,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Calculation of the alternating sum of 2*
+*The result of a sum of twos with alternating signs*
 
-> Perform the following calculation:  2 + 2 – 2 + 2 – 2 + 2 – 2 + 2 – 2 + 2. What do you get? 
->  
-> A. 0 
->    B. 2 
->    C. 4 
->     D. 12 
->  
+> Work out the following calculation: 2 + 2 – 2 + 2 – 2 + 2 – 2 + 2 – 2 + 2. What do you get?
+>
+> A. 0
+> B. 2
+> C. 4
+> D. 12
 > E. 20
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_ecolier#q02|src_kangourou_2002_ecolier__Q02]]
 
 
 
@@ -121,27 +124,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of a melon in oranges*
+*The weight of one melon in oranges*
 
 ![[src_kangourou_2002_ecolier__prob3.png]]
 
-> On one pan of the scale shown in the figure  
-> there are 6 oranges, equal to each other, and on the other 2 melons, 
-> equal to each other. When we put on the pan of the 
-> oranges another melon, exactly equal to the two 
-> 
-> Ecolier 2002. Page No. 
-> 2 
-> previous ones, the scale is in balance. The weight of a melon is then: 
->  
-> A. the same as 2 oranges 
-> B. the same as 3 oranges  
-> C. the same as 4 
-> oranges  
-> D. the same as 5 oranges  
+> On one pan of the balance shown in the figure there are 6 oranges, equal to one another, and on the other 2 melons, equal to one another. When we put on the pan of the oranges another melon, exactly equal to the two
+>
+> Ecolier 2002. Page no.
+> 2
+> previous ones, the balance is in equilibrium. The weight of one melon is then:
+>
+> A. the same as 2 oranges
+> B. the same as 3 oranges
+> C. the same as 4 oranges
+> D. the same as 5 oranges
 > E. the same as 6 oranges
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_ecolier#q03|src_kangourou_2002_ecolier__Q03]]
 
 
 
@@ -169,13 +171,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Heart rate in one hour
+*How many times the heart beats in an hour*
 
-> The human heart beats about 70 times a minute. How many times does the heart beat approximately in an hour?
->  
-> A. 42 000 B. 7 000 C. 4 200       D. 700         E. 420
+> The human heart beats approximately 70 times a minute. How many times does the heart beat approximately in an hour?
+>
+> A. 42 000
+> B. 7 000
+> C. 4 200
+> D. 700
+> E. 420
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_ecolier#q04|src_kangourou_2002_ecolier__Q04]]
 
 
 
@@ -224,7 +233,7 @@ Heart rate in one hour
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between square and rectangle perimeters*
+*By how many centimetres the square's perimeter exceeds the rectangle's*
 
 ![[src_kangourou_2002_ecolier__prob5.png]]
 
@@ -243,11 +252,18 @@ Heart rate in one hour
 \end{document}
 ```
 
-> ABCD is a square. Its sides are 10 centimeters long. AMTD is a rectangle, the smallest side of which measures 3 cm. How many centimetres is the perimeter of the square longer than that of the AMTD rectangle?
->  
-> A. 14 cm B. 10 cm C. 7 cm D. 6 cm E. 4 cm
+> ABCD is a square. Its sides measure 10 cm. AMTD is a rectangle, whose shorter side measures 3 cm. By how many centimetres is the perimeter of the square longer than that of the rectangle AMTD?
+>
+> A. 14 cm
+> B. 10 cm
+> C. 7 cm
+> D. 6 cm
+> E. 4 cm
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_ecolier#q05|src_kangourou_2002_ecolier__Q05]]
 
 
 
@@ -281,16 +297,20 @@ Heart rate in one hour
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Books to be moved to level the shelves*
+*How many books must be moved so that the shelves have the same number*
 
-> A bookcase is made up of three shelves. On the upper shelf there are four books, on the central shelf nine and on the lower shelf fourteen. I now move a book from the lower shelf to the central one. How many books do I have to move from the bottom shelf to the top shelf so that the number of books is the same on each shelf?
->  
->  
-> A. 4 B. 5 C. 6 D. a number different from the previous ones
->  
-> E. There is no such number.
+> A bookcase is made of 3 shelves. On the top shelf there are 4 books, on the middle one 9 and on the bottom one 14. I now move one book from the bottom shelf to the middle one. How many books must I move from the bottom shelf to the top one so that the number of books is the same on every shelf?
+>
+> A. 4
+> B. 5
+> C. 6
+> D. a number different from the previous ones
+> E. no such number exists
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_ecolier#q06|src_kangourou_2002_ecolier__Q06]]
 
 
 
@@ -323,14 +343,20 @@ Heart rate in one hour
 <div class="qlang-split" data-lang="en"></div>
 
 
-Members of the club when boys = girls
+*How many members the club has when boys and girls are equal in number*
 
-> Twelve boys and eight girls are members of the Kangourou Club in their town. Every week, two new girls and a new boy are accepted into the Club. How many members are there in the club on the day when the number of boys is equal to the number of girls?
->  
->  
-> A. 22 B. 24 C. 28 D. 32 E. 36
+> 12 boys and 8 girls are members of the Kangourou Club of their town. Every week 2 new girls and one new boy are accepted into the Club. How many members does the Club have on the day when the number of boys equals that of the girls?
+>
+> A. 22
+> B. 24
+> C. 28
+> D. 32
+> E. 36
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_ecolier#q07|src_kangourou_2002_ecolier__Q07]]
 
 
 
@@ -358,14 +384,17 @@ Members of the club when boys = girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unobtainable tile from the square*
+*Which tile cannot be obtained by cutting the square*
 
-> The square shown on the right is cut along the indicated lines. Which of the following tiles cannot be obtained in this way?
-> Ecolier 2002. Page N.
+> The square you see on the right is cut out along the lines shown. Which of the following tiles cannot be obtained in this way?
+> Ecolier 2002. Page no.
 > 3
-> Questions from No. 9 to No. 16 are worth 4 points each
+> Questions 9 to 16 are worth 4 points each
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_ecolier#q08|src_kangourou_2002_ecolier__Q08]]
 
 
 
@@ -396,13 +425,21 @@ Members of the club when boys = girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times the number 2 from 1 to 24*
+*How many times the digit 2 is used in the house numbers*
 
-> Cristina lives on a short street whose houses are numbered from 1 to 24. How many times is the number 2 used to write the numbers of all the houses on that street?
->  
-> A. 4 B. 7 C. 8 D. 10 E. 16
+> Cristina lives in a short street whose houses are numbered from 1 to 24. How many times is the digit 2 used to write the numbers of all the houses in that street?
+>
+> A. 4
+> B. 7
+> C. 8
+> D. 10
+> E. 16
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_ecolier#q09|src_kangourou_2002_ecolier__Q09]]
 
 
 
@@ -432,13 +469,20 @@ Members of the club when boys = girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number obtained by operations*
+*The result of adding 17 to the smallest two-digit integer and dividing*
 
-> Add 17 to the smallest two-digit integer and divide the result by the largest single-digit integer. What number do you get?
->  
-> A. 3 B. 6 C. 9 D. 11 E. 27
+> Add 17 to the smallest two-digit integer and divide the result so obtained by the largest one-digit integer. What number do you get?
+>
+> A. 3
+> B. 6
+> C. 9
+> D. 11
+> E. 27
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_ecolier#q10|src_kangourou_2002_ecolier__Q10]]
 
 
 
@@ -469,11 +513,14 @@ Members of the club when boys = girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mesopotamian writing number 124*
+*Which writing stands for the number 124*
 
-> In Mesopotamia, in 2500 B.C., numbers were written as follows: the symbol appeared many times as many as the sixties, the symbol appeared many times as many as the tens minus the sixties, the symbol appeared many times as many as the units minus the sixties and the tens. For example, the number 72 was written like this. Which of the following writings represents the number 124?
+> In Mesopotamia, in 2500 BC, numbers were written as follows: the symbol appeared as many times as there were sixties, the symbol appeared as many times as there were tens after the sixties had been removed, the symbol appeared as many times as there were units after the sixties and the tens had been removed. For example, the number 72 was written thus. Which of the following writings stands for the number 124?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_ecolier#q11|src_kangourou_2002_ecolier__Q11]]
 
 
 
@@ -500,11 +547,15 @@ Members of the club when boys = girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Breakdown of the clock face into four parts*
+*The only way to split a clock face into four parts with consecutive sums*
 
-> The dial of a clock is broken down into four parts. Taking these parts in an appropriate order and adding the numbers in each of them, four consecutive numbers are obtained. There is only one way to break down the clock face if you want to get that result. What is it?
+> The face of a clock is split into four parts. Taking these parts in a suitable order and adding the numbers contained in each of them, one obtains four consecutive numbers. There is only one way of splitting the face if one wants to obtain such a result. What is it?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_ecolier#q12|src_kangourou_2002_ecolier__Q12]]
 
 
 
@@ -532,16 +583,20 @@ Members of the club when boys = girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who was born on May 17*
+*Who was born on 17 May*
 
-> The birthdays of Giovanna, Stefania, Susanna and Elena are (in no particular 
-> order) March 3, May 17, July 20 and March 20. Stefania and Susanna 
-> were born in the same month, while Giovanna's birthday and Susanna's 
-> fall on days with the same number. Who was born on May 17? 
->  
-> A. Giovanna   B. Stefania C. Susanna   D. Elena E. cannot be answered
+> The birthdays of Giovanna, Stefania, Susanna and Elena are (in no particular order) 3 March, 17 May, 20 July and 20 March. Stefania and Susanna were born in the same month, while Giovanna's birthday and Susanna's fall on days with the same number. Who was born on 17 May?
+>
+> A. Giovanna
+> B. Stefania
+> C. Susanna
+> D. Elena
+> E. one cannot answer
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_ecolier#q13|src_kangourou_2002_ecolier__Q13]]
 
 
 
@@ -579,24 +634,24 @@ Members of the club when boys = girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Matches for the side of the rectangle*
+*How many matches form each of the other sides of Viviana's rectangle*
 
-> Alessandra and Viviana together have 60 matches. Using some of these matches, Alessandra builds a triangle in which each side is made up of 6 matches.
-> 
-> Ecolier 2002. Page N.
+> Alessandra and Viviana have 60 matches together. Using some of those matches, Alessandra builds a triangle in which each side is formed by 6
+>
+> Ecolier 2002. Page no.
 > 4
-> matches in a row. Using all the remaining matches, Viviana builds a rectangle in which two sides are still each made of 6 matches in a row.
-> How many matches in a row form each of the other two sides of the rectangle?
->  
-> A. 30 
->       B. 18 
->  
-> C. 15  
->   D. 12 
->  
+> matches in a line. Using all the remaining matches, Viviana builds a rectangle in which two sides are still each formed by 6 matches in a line. By how many matches in a line is each of the other sides of the rectangle formed?
+>
+> A. 30
+> B. 18
+> C. 15
+> D. 12
 > E. 9
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_ecolier#q14|src_kangourou_2002_ecolier__Q14]]
 
 
 
@@ -626,13 +681,16 @@ Members of the club when boys = girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Impossible image of the flag*
+*Which of the five images Carla can never see*
 
 ![[src_kangourou_2002_ecolier__prob15.png]]
 
-> From the window of her room, Carla looks at the wall of the house across the street. She can see that there's a rectangular flag, like the one in the picture, hanging in the wind. Carla watches the flag at different times. Assuming the flag is not torn by the force of the wind, which of the five images below will Carla never see?
+> From the window of her room Carla looks at the wall of the house opposite. She can see that there is a rectangular flag, like the one in the figure, flapping in the wind. Carla watches the flag at different moments. Assuming the flag does not tear in the force of the wind, which of the 5 images shown below can Carla never see?
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_ecolier#q15|src_kangourou_2002_ecolier__Q15]]
 
 
 
@@ -665,20 +723,22 @@ Members of the club when boys = girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What time does Matteo leave home*
+*What time Matteo leaves home*
 
-> Martina leaves home at 6:55 in the morning to arrive at school at 7:32. Her
-> friend Matteo arrives at school only at 7:45 even though he lives closer to her to
-> school and takes 12 minutes less to reach it. What time does he leave home
-> Matteo?
->  
-> A. at 7:07
-> B. at 7:20       C. at 7:25
->  D. at 7:30
-> E. at 7:33
-> Questions from No. 17 to No. 24 are worth 5 points each
+> Martina leaves home at 6.55 in the morning to arrive at school at 7.32. Her friend Matteo arrives at school only at 7.45, although he lives closer to the school than she does and takes 12 minutes less to get there. What time does Matteo leave home?
+>
+> A. at 7.07
+> B. at 7.20
+> C. at 7.25
+> D. at 7.30
+> E. at 7.33
+> Questions 17 to 24 are worth 5 points each
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_ecolier#q16|src_kangourou_2002_ecolier__Q16]]
 
 
 
@@ -720,23 +780,25 @@ Members of the club when boys = girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total cookies with re-kneading of the scraps*
+*How many heart-shaped biscuits can be made in all*
 
 ![[src_kangourou_2002_ecolier__prob17.png]]
 
-> Rosalia's mother is preparing heart-shaped cookies. She cuts them from a dough using a mold that gives her one cookie at a time. For every 4 cookies she gets from the dough, the re-kneaded scraps are enough to get another cookie. After the first pass with the mold she got 16 cookies. How many cookies can she make in total?
->  
-> A. 16 
->    B. 17 
->  
-> C. 18  
->   D. 20 
->  
+> Rosalia's mother is making heart-shaped biscuits. She cuts them from a dough using a cutter that gives her one biscuit at a time. For every 4 biscuits she gets from the dough, the scraps re-kneaded are enough to obtain another biscuit. After the first pass with the cutter she has obtained 16 biscuits. How many biscuits can she make in all?
+>
+> A. 16
+> B. 17
+> C. 18
+> D. 20
 > E. 21
-> Ecolier 2002. Page No.
+> Ecolier 2002. Page no.
 > 5
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_ecolier#q17|src_kangourou_2002_ecolier__Q17]]
 
 
 
@@ -773,15 +835,23 @@ Members of the club when boys = girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tunnel cubes not used in pyramid*
+*How many cubes from the tunnel were not used for the pyramid*
 
 ![[src_kangourou_2002_ecolier__prob18.png]]
 
-> Roberta builds a tunnel using only identical cubes between them (fig. 1). When she is tired of that construction, she dismantles the tunnel and builds a pyramid (fig. 2). How many cubes were used in the tunnel that weren't used to build the pyramid?
->  
-> A. 34 B. 29 C. 22 D. 18 E. 15
+> Roberta builds a tunnel using only cubes identical to one another (fig. 1). When she has grown tired of that construction, she takes the tunnel apart and builds a pyramid (fig. 2). How many cubes used in the tunnel were not used to build the pyramid?
+>
+> A. 34
+> B. 29
+> C. 22
+> D. 18
+> E. 15
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_ecolier#q18|src_kangourou_2002_ecolier__Q18]]
 
 
 
@@ -819,15 +889,24 @@ Members of the club when boys = girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who can't get 20
+*Who can never obtain 20 with his or her cards*
 
-> The numbers 1 through 9 are each written on a card. Alexander has the cards with the numbers , Marta with the numbers and Federico with the numbers . Using their cards once and only once each and two of the four operations +, –, ×, : (possibly twice the same), each of the three boys can achieve different results. Who can't ever get 20?
->  
-> A. Just Alexander B. Just Marta C. Just Federico
->                
-> D. Alexander and Marta E. Everyone can get 20
+> The numbers from 1 to 9 are each written on a card. Alessandro has the cards with the numbers
+> , Marta those with the numbers
+> and Federico those with the numbers
+> . Using his or her own cards once and only once each, and two of the four operations +, –, ×, : (the same one twice if need be), each of the three children can obtain various results. Who will never be able to obtain 20?
+>
+> A. Only Alessandro
+> B. Only Marta
+> C. Only Federico
+> D. Alessandro and Marta
+> E. All of them can obtain 20
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_ecolier#q19|src_kangourou_2002_ecolier__Q19]]
 
 
 
@@ -859,14 +938,21 @@ Who can't get 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum colours for the straw web*
+*The fewest colours so that no straw touches one of the same colour*
 
-> Using colored straws (each straw has only one color), you propose to build a lattice like the one in the figure (in which each side of each square is made with only one straw). You don't want any straw coming into contact with straws of the same color. What's the minimum number of different colors that you can use to make your project?
->  
->  
-> A. 2 B. 3       C. 4     D. 5         E. 8
+> Using coloured straws (each straw has only one colour), you set out to build a lattice like the one in the figure (in which each side of each little square is made with a single straw). You want no straw to come into contact with straws of the same colour. What is the smallest number of different colours that lets you carry out your plan?
+>
+> A. 2
+> B. 3
+> C. 4
+> D. 5
+> E. 8
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_ecolier#q20|src_kangourou_2002_ecolier__Q20]]
 
 
 
@@ -895,13 +981,20 @@ Who can't get 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Matteo's arrival position*
+*In which position Matteo finished*
 
-> Twenty-eight boys are taking part in a race. The number of boys who came after Matteo is twice the number of boys who came before Matteo. In what position did Matteo arrive?
->  
-> A. 16th B. 17th C. Eighth D. Ninth E. the tenth
+> 28 boys take part in a running race. The number of boys who finished after Matteo is twice the number of boys who finished before Matteo. In which position did Matteo finish?
+>
+> A. sixteenth
+> B. seventeenth
+> C. eighth
+> D. ninth
+> E. tenth
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_ecolier#q21|src_kangourou_2002_ecolier__Q21]]
 
 
 
@@ -930,13 +1023,20 @@ Who can't get 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-Kilometers to the next digit all different *
+*After how many kilometres the odometer next shows all different digits*
 
-> My car's meter indicates that we've traveled 187,569 kilometers, a number whose digits are all different. After how many kilometers will it happen again, next time?
->  
-> A. 13776 B. 12431         C. 431           D. 21 E. 1
+> The odometer of my car shows that 187 569 km have been travelled, a number whose digits are all different from one another. After how many kilometres will this happen again, the next time?
+>
+> A. 13776
+> B. 12431
+> C. 431
+> D. 21
+> E. 1
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_ecolier#q22|src_kangourou_2002_ecolier__Q22]]
 
 
 
@@ -971,22 +1071,24 @@ Kilometers to the next digit all different *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum intersection points of three figures*
+*The greatest number of intersection points of a circle, a square and a triangle*
 
-> Draw on a sheet of paper a circle, a square and a triangle so that their
-> outlines intersect (pairwise) in the largest possible number of points. What
-> is this number?
->  
-> 
-> Ecolier 2002. Page No.
+> Draw on a sheet a circle, a square and a triangle so that their outlines meet (pairwise) in as many points as possible. What is this number?
+>
+> Ecolier 2002. Page no.
 > 6
->  
-> A. 14   
-> B. 16       C. 18 
->   D. 20 
+>
+> A. 14
+> B. 16
+> C. 18
+> D. 20
 > E. 22
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_ecolier#q23|src_kangourou_2002_ecolier__Q23]]
 
 
 
@@ -1029,30 +1131,30 @@ Kilometers to the next digit all different *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last three letters of the 2002 sequence*
+*The last three letters of a sequence of 2002 letters*
 
-> Using the letters A, B, C, compose the sequence made up of 2002 letters that
-> begins with
->            A B C B A B C B A B C B A B C B A…….
->        and continues by repeating this block of letters. What are the last three letters?
->  
+> Using the letters A, B, C, form the sequence of 2002 letters that begins with
+> A B C B A B C B A B C B A B C B A…….
+> and continues by repeating this block of letters. What are the last three letters?
+>
 > A. ABC
 > B. BCB
 > C. CBA
 > D. BAB
->  
 > E. CAB
->  
-> 
-> Ecolier Answers 2002. Page No. 1
+>
+> Answers, Ecolier 2002. Page no. 1
 > Kangourou Italia
 > Contest of 21 March 2002
-> Category Ecolier
-> For fourth and fifth grade elementary students
+> Écolier category
+> For students in the fourth and fifth year of primary school
 > Solutions
->  
->  
-> The correct answer is indicated in round brackets
+>
+> The correct answer is marked in round brackets
 > after the question number.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_ecolier#q24|src_kangourou_2002_ecolier__Q24]]

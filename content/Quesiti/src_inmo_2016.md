@@ -29,9 +29,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles orthocentro su incircolo, trovare AB/BC*
+*Nel triangolo isoscele, l'ortocentro giace sulla circonferenza inscritta: trovare AB/BC*
 
-> $ABC$ sia un triangolo in cui $AB = AC$. Supponiamo che l'ortocentro del triangolo si trovi sul cerchio interno. Trova il rapporto $AB/BC$.
+> Sia $ABC$ un triangolo in cui vale $AB = AC$. Si supponga che l'ortocentro del triangolo giaccia sulla circonferenza inscritta. Determinare il rapporto $AB/BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2016#q01|src_inmo_2016__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Che condizioni sui reali positivi implicano a=b=c*
+*Quali condizioni sui numeri reali positivi implicano a=b=c?*
 
 > Per i numeri reali positivi $a, b, c$, quale delle seguenti affermazioni implica necessariamente $a = b = c$: (I) $a(b^3 + c^3) = b(c^3 + a^3)$, (II) $a(b^3 + c^3) = c(a^3 + b^3)$, (III) $a^2(b + c) = b^2(c + a) = c^2(a + b)$? Giustifica la tua risposta.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2016#q02|src_inmo_2016__Q02]]
 
 
 
@@ -85,9 +99,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione T su naturali, mostrare iterazioni raggiungono 1, ricorrenza di Fibonacci per i conti*
+*Funzione T sui numeri naturali: mostrare che le iterazioni portano a 1, ricorrenza di Fibonacci per i conteggi*
 
-> $\mathbb{N}$ indichi l'insieme di tutti i numeri naturali. Definire una funzione $T : \mathbb{N} \to \mathbb{N}$ da $T(2k) = k$ e $T(2k+1) = 2k + 2$. Scriviamo $T^1(n) = T(T(n))$ e in generale $T^k(n) = T(T^{k-1}(n))$ per qualsiasi $k \ge 1$. (i) Indicare che per ogni $n \in \mathbb{N}$, esiste un $k$ tale che $T^k(n) = 1$. (ii) Per $k \in \mathbb{N}$, $c_k$ indichi il numero di elementi dell'insieme $\{n : T^k(n) = 1\}$. Provare che $c_{k+2} = c_{k+1} + c_k$ per $k \ge 1$.
+> Sia $\mathbb{N}$ l'insieme di tutti i numeri naturali. Si definisca una funzione $T : \mathbb{N} \to \mathbb{N}$ mediante $T(2k) = k$ e $T(2k+1) = 2k + 2$. Si scrive $T^1(n) = T(T(n))$ e, in generale, $T^k(n) = T(T^{k-1}(n))$ per ogni $k \ge 1$. (i) Si dimostri che, per ogni $n \in \mathbb{N}$, esiste $k$ tale che $T^k(n) = 1$. (ii) Per $k \in \mathbb{N}$, si indichi con $c_k$ il numero di elementi dell'insieme $\{n : T^k(n) = 1\}$. Si dimostri che $c_{k+2} = c_{k+1} + c_k$ per $k \ge 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2016#q03|src_inmo_2016__Q03]]
 
 
 
@@ -110,9 +131,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2016 punti rossi sul cerchio; ogni n-gon regolare ha una copia blu*
+*Punti rossi su un cerchio nel 2016; ogni n-gono regolare ha una copia interamente blu*
 
-> Supponiamo che i punti 2016 della circonferenza di un cerchio siano di colore rosso e i punti rimanenti di colore blu. Date qualsiasi numero naturale $n \ge 3$, dimostrare che esiste un poligono a lato regolare $n$ i cui vertici sono tutti blu.
+> Si supponga che 2016 punti della circonferenza di un cerchio siano colorati in rosso e che i restanti punti siano colorati in blu. Dato un qualsiasi numero naturale $n \ge 3$, si dimostri che esiste un poligono regolare con $n$ lati tale che tutti i suoi vertici siano blu.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_cassetti|Principio dei cassetti]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_inmo_2016#q04|src_inmo_2016__Q04]]
 
 
 
@@ -136,9 +164,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo retto, uguale all'inradii dei subtriangoli, prova 1/r'=1/r+1/BD*
+*Triangolo rettangolo, raggi inscritti dei sottotriangoli uguali: dimostrare che 1/r' = 1/r + 1/BD*
 
-> Il $ABC$ deve essere un triangolo rettangolare con $\angle B = 90^\circ$. Il $D$ deve essere un punto su $AC$ tale da rendere uguali i radii di in dei triangoli $ABD$ e $CBD$. Se questo valore comune è $r'$ e se $r$ è il raggio di in del triangolo $ABC$, dimostrare che $$\frac{1}{r'} = \frac{1}{r} + \frac{1}{BD}.$$
+> Sia $ABC$ un triangolo rettangolo con $\angle B = 90^\circ$. Sia $D$ un punto su $AC$ tale che i raggi inradiati dei triangoli $ABD$ e $CBD$ siano uguali. Se questo valore comune è $r'$ e se $r$ è il raggio inradiato del triangolo $ABC$, dimostrare che
+> $$\frac{1}{r'} = \frac{1}{r} + \frac{1}{BD}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2016#q05|src_inmo_2016__Q05]]
 
 
 
@@ -161,6 +197,13 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*AP non costante con determinate potenze anche in AP implica che tutti i termini sono interi*
+*Un PA non costante con certi esponenti, anche nell'ambito dei PA, implica che tutti i termini siano interi*
 
-> Considera una progressione aritmetica non costante $a_1, a_2, \ldots, a_n, \ldots$. Supponiamo che esistano numeri interi positivi relativamente primi $p > 1$ e $q > 1$ in modo tale che $a_1^p$, $a_{q+1}^p$ e $a_{q^2+1}^p$ siano anche i termini della stessa progressione aritmetica. Prova che i termini della progressione aritmetica sono tutti interi.
+> Si consideri una progressione aritmetica non costante $a_1, a_2, \ldots, a_n, \ldots$. Si supponga che esistano numeri interi positivi $p > 1$ e $q > 1$ coprimi tra loro tali che anche $a_1^p$, $a_{q+1}^p$ e $a_{q^2+1}^p$ siano termini della stessa progressione aritmetica. Dimostrare che tutti i termini della progressione aritmetica sono numeri interi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2016#q06|src_inmo_2016__Q06]]

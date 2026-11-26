@@ -30,11 +30,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca set A somma data di sottoinsiemi terzi*
+*Trovare l'insieme A dati i sommi degli insiemi ternari parziali*
 
-> Let $A = \{a_1, a_2, a_3, a_4\}$. Supponiamo che l'insieme delle somme di tutti gli elementi di ogni sottoinsieme ternario di $A$ sia $B = \{-1, 3, 5, 8\}$. Poi $A =$ ________.
+> Sia $A = \{a_1, a_2, a_3, a_4\}$. Si supponga che l'insieme delle somme di tutti gli elementi di ciascun sottoinsieme ternario di $A$ sia $B = \{-1, 3, 5, 8\}$. Allora $A =$ ________.
 
-**Risposta:** {-3, 0, 2, 6}
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc_2011#q01|src_cn_cmc_2011__Q01]]
 
 
 
@@ -58,11 +63,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca A/tan B dato un cos B meno b cos A è uguale a 3c/5*
+*Trovare tan A / tan B sapendo che a cos B meno b cos A è uguale a 3c/5*
 
-> Supponiamo che $\triangle ABC$ con angoli $A$, $B$ e $C$, e i lati corrispondenti $a$, $b$ e $c$ soddisfi l'equazione $a\cos B - b\cos A = \frac{3}{5}c$. Il valore di $\frac{\tan A}{\tan B}$ è quindi __________.
+> Supponiamo che $\triangle ABC$, con angoli $A$, $B$ e $C$, e i lati corrispondenti $a$, $b$ e $c$, soddisfi l'equazione $a\cos B - b\cos A = \frac{3}{5}c$. Allora il valore di $\frac{\tan A}{\tan B}$ è __________.
 
-**Risposta:** 4
+**Topic:** [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2011#q02|src_cn_cmc_2011__Q02]]
 
 
 
@@ -86,11 +96,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il log_a(b) le condizioni indicate sui reali positivi a,b*
+*Trovare log_a(b) dati i vincoli sui numeri reali positivi a, b*
 
-> Supponiamo che $a$ e $b$ siano numeri reali positivi che soddisfano $\dfrac{1}{a} + \dfrac{1}{b} \leq 2\sqrt{2}$ e $(a-b)^2 = 4(ab)^3$. Poi $\log_a b =$ ________.
+> Supponiamo che $a$ e $b$ siano numeri reali positivi che soddisfano $\dfrac{1}{a} + \dfrac{1}{b} \leq 2\sqrt{2}$ e $(a-b)^2 = 4(ab)^3$. Allora $\log_a b =$ ________.
 
-**Risposta:** -1
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2011#q03|src_cn_cmc_2011__Q03]]
 
 
 
@@ -114,11 +129,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rapporto massimo |MN|/|AB| per la corda AB della parabola con angolo fisso AFB = pi/3*
+*Rapporto massimo |MN|/|AB| per la corda AB di una parabola con angolo AFB fisso pari a pi/3*
 
-> Il punto di mira e la direzione della parabola $y^2 = 2px$ ($p > 0$) siano rispettivamente $F$ e $l$. $A$ e $B$ sono punti in movimento della parabola che soddisfano $\angle AFB = \frac{\pi}{3}$. La proiezione di $M$ il punto medio del segmento $AB$ su $l$ deve essere $N$. Il valore massimo di $\frac{|MN|}{|AB|}$ è quindi __________.
+> Siano $F$ e $l$, rispettivamente, il fuoco e la direttrice della parabola $y^2 = 2px$ ($p > 0$). $A$ e $B$ sono punti mobili sulla parabola che soddisfano $\angle AFB = \frac{\pi}{3}$. Sia $N$ la proiezione su $l$ del punto medio del segmento $AB$, che è $M$. Allora il valore massimo di $\frac{|MN|}{|AB|}$ è __________.
 
-**Risposta:** 1
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2011#q04|src_cn_cmc_2011__Q04]]
 
 
 
@@ -142,11 +162,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi di conteggio di 7 studenti in 5 eventi con limitazioni*
+*Contare le disposizioni di 7 studenti in 5 eventi con vincoli*
 
-> Sette studenti sono organizzati per partecipare a cinque eventi sportivi. È necessario che gli studenti $A$ e $B$ non possano partecipare allo stesso evento, ogni evento è partecipato da almeno uno studente e ogni studente deve partecipare a uno solo evento. Poi il numero dei piani di disposizione che soddisfano la condizione richiesta è ________ (la risposta deve essere data in valore numerico).
+> Sette studenti sono disposti in modo da partecipare a cinque eventi sportivi. È richiesto che gli studenti $A$ e $B$ non possano partecipare allo stesso evento, che ogni evento abbia almeno uno studente presente e che ciascuno studente partecipi a uno e un solo evento. Allora il numero dei piani di disposizione che soddisfano la condizione richiesta è ________ (la risposta va fornita in valore numerico).
 
-**Risposta:** 15000
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2011#q05|src_cn_cmc_2011__Q05]]
 
 
 
@@ -170,11 +195,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'intervallo di a in modo che f(x+a)>=2f(x) per tutte le x in [a,a+2], f odd*
+*Trovare l'insieme dei valori di a tali che f(x+a) >= 2f(x) per ogni x in [a,a+2], con f dispari*
 
-> $f$ sia una funzione odd su $\mathbf{R}$, e $f(x) = x^2$ per $x > 0$. Supponiamo che per qualsiasi $x \in [a, a + 2]$, $f(x + a) \ge 2f(x)$. Quindi l'intervallo del numero reale $a$ è __________.
+> Sia $f$ una funzione dispari su $\mathbf{R}$, e $f(x) = x^2$ per $x > 0$. Si supponga che, per ogni $x \in [a, a + 2]$, $f(x + a) \ge 2f(x)$. Allora l'insieme dei valori del numero reale $a$ è __________.
 
-**Risposta:** [\sqrt{2}, +\infty)
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2011#q06|src_cn_cmc_2011__Q06]]
 
 
 
@@ -198,11 +228,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di numeri interi positivi n con 1/4 < sin(pi/n) < 1/3*
+*Somma degli interi positivi n tali che 1/4 < sin(pi/n) < 1/3*
 
-> La somma di tutti gli integri positivi $n$ che soddisfano $\frac{1}{4} < \sin \frac{\pi}{n} < \frac{1}{3}$ è __________.
+> La somma di tutti gli interi positivi $n$ che soddisfano $\frac{1}{4} < \sin \frac{\pi}{n} < \frac{1}{3}$ è __________.
 
-**Risposta:** 33
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc_2011#q07|src_cn_cmc_2011__Q07]]
 
 
 
@@ -226,11 +261,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il codice di probabilità A viene utilizzato nella settimana 7 dato che è stato utilizzato nella settimana 1*
+*Il codice di probabilità A viene utilizzato nella settimana 7, poiché è stato utilizzato nella settimana 1*
 
-> Una stazione di informazione utilizza quattro codici diversi, $A$, $B$, $C$ e $D$, per la comunicazione, ma ogni settimana ne utilizza solo uno. Il codice utilizzato in una settimana determinata viene selezionato in modo casuale con pari probabilità tra i tre che non sono stati utilizzati nell'ultima settimana. Supponiamo che il codice utilizzato nella prima settimana sia $A$. La probabilità che $A$ venga utilizzato anche nella settima settimana è quindi __________ (espressa come frazione irriducibile).
+> Una stazione informativa impiega quattro codici diversi, $A$, $B$, $C$ e $D$, per la comunicazione, ma ogni settimana ne usa solo uno. Il codice utilizzato in una settimana specifica viene scelto a caso con uguale probabilità tra i tre che non sono stati usati nella settimana precedente. Supponiamo che il codice utilizzato nella prima settimana sia $A$. Allora la probabilità che anche $A$ venga utilizzato nella settima settimana è __________ (espressa come frazione irriducibile).
 
-**Risposta:** \frac{61}{243}
+**Topic:** [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2011#q08|src_cn_cmc_2011__Q08]]
 
 
 
@@ -254,11 +294,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova a, b date le condizioni su f(x)=|lg(x+1)|*
+*Trovare a, b dati i vincoli su f(x)=|lg(x+1)|*
 
-> Supponiamo che $f(x) = |\lg(x + 1)|$ e i numeri reali $a$, $b$ ($a < b$) soddisfino $f(a) = f\!\left(-\dfrac{b+1}{b+2}\right)$, $f(10a + 6b + 21) = 4\lg 2$. Trova i valori di $a$, $b$.
+> Supponiamo che $f(x) = |\lg(x + 1)|$ e i numeri reali $a$, $b$ ($a < b$) soddisfino $f(a) = f\!\left(-\dfrac{b+1}{b+2}\right)$, $f(10a + 6b + 21) = 4\lg 2$. Determinare i valori di $a$, $b$.
 
-**Risposta:** $a = -\dfrac{2}{5}$, $b = -\dfrac{1}{3}$
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2011#q09|src_cn_cmc_2011__Q09]]
 
 
 
@@ -284,9 +329,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di ricorrenze: trovare termine generale e confrontare termini consecutivi*
+*Successione ricorrente: trovare il termine generale e confrontare i termini consecutivi*
 
-> Supponiamo che la sequenza $\{a_n\}$ soddisfi $a_1 = 2t - 3$ ($t \in \mathbf{R}$ e $t \neq \pm 1$), $$a_{n+1} = \frac{(2t^{n+1} - 3)a_n + 2(t - 1)t^n - 1}{a_n + 2t^n - 1} \quad (n \in \mathbf{N}^*).$$ (1) Trova la formula del termine generale circa $\{a_n\}$. (2) Se $t > 0$, scopri quale sia più grande tra $a_{n+1}$ e $a_n$.
+> Supponiamo che la successione $\{a_n\}$ soddisfi $a_1 = 2t - 3$ ($t \in \mathbf{R}$ e $t \neq \pm 1$),
+> $$a_{n+1} = \frac{(2t^{n+1} - 3)a_n + 2(t - 1)t^n - 1}{a_n + 2t^n - 1} \quad (n \in \mathbf{N}^*).$$
+> (1) Trova la formula del termine generale relativa a $\{a_n\}$. (2) Se $t > 0$, determina quale tra $a_{n+1}$ e $a_n$ è maggiore.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2011#q10|src_cn_cmc_2011__Q10]]
 
 
 
@@ -314,10 +368,15 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Elisse di intercettazione delle linee; locus e area del centro del cerchio inscritto*
+*La retta interseca l'ellisse; luogo dei centri della circonferenza inscritta e area*
 
-> La linea retta $l$ con pendenza $\dfrac{1}{3}$ intercetta l'ellisse $C\colon \dfrac{x^2}{36} + \dfrac{y^2}{4} = 1$ nei punti $A$, $B$, e il punto $P(3\sqrt{2},\, \sqrt{2})$ si trova nella parte superiore sinistra di $l$ (come mostrato alla figura. 11.1). (1) Provare che il centro del cerchio di $\triangle PAB$ è su una linea data. (2) Quando $\angle APB = 60^\circ$, trovare la superficie di $\triangle PAB$.
+> La retta $l$, di pendenza $\dfrac{1}{3}$, interseca l'ellisse $C\colon \dfrac{x^2}{36} + \dfrac{y^2}{4} = 1$ nei punti $A$, $B$, e il punto $P(3\sqrt{2},\, \sqrt{2})$ si trova nell'angolo in alto a sinistra di $l$ (come mostrato nella Fig. 11.1). (1) Dimostrare che il centro del cerchio inscritto in $\triangle PAB$ giace su una retta data. (2) Quando $\angle APB = 60^\circ$, determinare l'area di $\triangle PAB$.
 
 ![[src_cn_cmc_b11_w42__q11.png]]
 
-**Risposta:** $\dfrac{117\sqrt{3}}{49}$
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2011#q11|src_cn_cmc_2011__Q11]]

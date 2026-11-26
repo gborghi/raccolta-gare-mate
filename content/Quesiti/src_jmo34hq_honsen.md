@@ -29,9 +29,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazione di n integri consecutivi mappati a se stessi con ricorrenza lineare*
+*Permutazioni di interi consecutivi la cui immagine è ancora una permutazione*
 
-> $n \ge 2$ sia un numero intero. Trovare tutte le permutazioni $(a_1, a_2, \ldots, a_n)$ di $n$ numeri interi consecutivi in modo tale che $(a_1 - 2a_2,\; a_2 - 2a_3,\; \ldots,\; a_{n-1} - 2a_n,\; a_n - 2a_1)$ sia anche una permutazione di $(a_1, a_2, \ldots, a_n)$.
+> Sia $n \ge 2$ un intero. Determinare tutte le permutazioni $(a_1, a_2, \ldots, a_n)$ di $n$ interi consecutivi tali che $(a_1 - 2a_2,\; a_2 - 2a_3,\; \ldots,\; a_{n-1} - 2a_n,\; a_n - 2a_1)$ sia anch'essa una permutazione di $(a_1, a_2, \ldots, a_n)$.
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_induzione|Induzione]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo34hq_honsen#q01|src_jmo34hq_honsen__Q01]]
 
 
 
@@ -56,9 +61,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni su numeri interi positivi che soddisfano un'equazione funzionale lcm*
+*Funzioni sugli interi positivi che soddisfano un'equazione con il minimo comune multiplo*
 
-> Trova tutte le funzioni $f$ definite sui numeri interi positivi che assumono valori interi positivi in modo tale che, per tutti i numeri interi positivi $m$ e $n$, $$\mathrm{lcm}(f(m + f(n)),\, f(m)) = \mathrm{lcm}(f(m),\, f(m + n)).$$ qui $\mathrm{lcm}(x, y)$ denota il più piccolo comune multiple di $x$ e $y$.
+> Determinare tutte le funzioni $f$ definite sugli interi positivi, a valori interi positivi, tali che per tutti gli interi positivi $m$ e $n$
+>
+> $$\mathrm{lcm}(f(m + f(n)),\, f(m)) = \mathrm{lcm}(f(m),\, f(m + n)).$$
+>
+> Qui $\mathrm{lcm}(x, y)$ indica il minimo comune multiplo di $x$ e $y$.
+
+**Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_jmo34hq_honsen#q02|src_jmo34hq_honsen__Q02]]
 
 
 
@@ -91,15 +105,24 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum n in modo che un certo punto buono si trovi su n linee rotte a forma di Z in una griglia*
+*Minimo intero per cui un punto buono sta su almeno due spezzate a Z*
 
-> Nel piano $xy$, un punto di rete $(x, y)$ è chiamato **good** se $1 < x \le 2000$ e $1 < y \le 2000$ (cioè.~ entrambe le coordinate sono interi con $2 \le x \le 2000$ e $2 \le y \le 2000$). Per quattro punti buoni $A(x_1, y_1)$, $B(x_2, y_2)$, $C(x_3, y_3)$, $D(x_4, y_4)$, il percorso poligonale $ABCD$ si chiama linea rotta ** a forma di Z** se tutti i seguenti punti: - $A, B, C, D$ sono tutti punti buoni. - $x_1 < x_2$ e $y_1 = y_2$. - $x_2 > x_3$ e $y_2 > y_3$. - $x_3 < x_4$ e $y_3 = y_4$.
-> 
-> Qui una linea rotta a forma di Z $ABCD$ è composta da segmenti $AB$, $BC$, $CD$ (compresi i loro punti di fine).
-> 
-> Lasciate che $n$ buone linee rotte a forma di Z $Z_1, Z_2, \ldots, Z_n$ soddisfino tutte le condizioni di cui sopra. Trovare il numero intero minimo $n$ in modo tale che: non importa quali $n$ buone linee rotte a forma di Z siano scelte, esiste sempre un buon punto $P$ che si trova su almeno due di esse.
-> 
-> (Nota: il segmento $AB$, $BC$ o $CD$ comprende entrambi gli endpoint.)
+> Nel piano $xy$, un punto del reticolo $(x, y)$ si dice **buono** se $1 < x \le 2000$ e $1 < y \le 2000$ (cioè entrambe le coordinate sono intere, con $2 \le x \le 2000$ e $2 \le y \le 2000$). Per quattro punti buoni $A(x_1, y_1)$, $B(x_2, y_2)$, $C(x_3, y_3)$, $D(x_4, y_4)$, la poligonale $ABCD$ si dice **spezzata a Z** se valgono tutte le condizioni seguenti:
+> - $A, B, C, D$ sono tutti punti buoni;
+> - $x_1 < x_2$ e $y_1 = y_2$;
+> - $x_2 > x_3$ e $y_2 > y_3$;
+> - $x_3 < x_4$ e $y_3 = y_4$.
+>
+> Qui una spezzata a Z $ABCD$ è formata dai segmenti $AB$, $BC$, $CD$ (estremi compresi).
+>
+> Siano $n$ spezzate a Z buone $Z_1, Z_2, \ldots, Z_n$ che soddisfano tutte le condizioni sopra. Trovare il minimo intero $n$ tale che, comunque si scelgano $n$ spezzate a Z buone, esiste sempre un punto buono $P$ che sta su almeno due di esse.
+>
+> (Nota: il segmento $AB$, $BC$ o $CD$ include entrambi gli estremi.)
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_jmo34hq_honsen#q03|src_jmo34hq_honsen__Q03]]
 
 
 
@@ -124,11 +147,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il punto di fine del diametro del cerchio si trova sul cerchio del triangolo ausiliario attraverso la caccia angolare*
+*Un segmento è un diametro se e solo se tre punti sono allineati*
 
-> Il triangolo $ABC$ deve soddisfare $AB < AC$. Let $O$ essere il centro circostante di $\triangle ABC$, e let $M$ essere il punto medio di arco $BC$ non contenente $A$ sul circolo circostante. Il punto di estensione del lato $AB$ al di là di $B$ deve essere $D$ in modo tale che $BD = BM$. $E$ deve essere il punto laterale $AB$ (tra $A$ e $B$) in modo tale che $CE = CM$. Il circoncircolo di $\triangle ABE$ deve incontrare di nuovo il circoncircolo di $\triangle ABC$ in un punto $X$ (diversi da $B$). Che $U$ e $V$ siano le intersezioni della linea $AX$ con il circoncircolo di $\triangle ABC$ (così $UV$ è un'accorda, con $U$ su arco $AB$ che non contiene $C$ e $V$ su arco $BC$ che non contiene $A$, o se del caso). Indicare che il segmento $UV$ è un diametro del circoncircolo di $\triangle ABC$ se e solo se $D$, $O$, $X$ sono collineari.
-> 
-> (Più precisamente: $E$ sia il punto del segmento $AB$ con $CE = CM$. Il circoncircolo di $\triangle ABE$ incontra il circoncircolo di $\triangle ABC$ a $B$ e in un altro punto $X$. $U$, $V$ siano i due punti di intersezione della linea $AX$ con il circoncircolo di $\triangle ABC$. Provare che $UV$ è un diametro del circoncircolo di $\triangle ABC$ se e solo se $D$, $O$, $X$ sono collineari, dove $D$ è sul raggio da $A$ a $B$ oltre $B$ con $BD = BM$.)
+> Il triangolo $ABC$ soddisfi $AB < AC$. Sia $O$ il circocentro di $\triangle ABC$, e sia $M$ il punto medio dell'arco $BC$ che non contiene $A$, sulla circonferenza circoscritta. Sia $D$ il punto sul prolungamento del lato $AB$ oltre $B$ tale che $BD = BM$. Sia $E$ il punto sul lato $AB$ (fra $A$ e $B$) tale che $CE = CM$. La circonferenza circoscritta a $\triangle ABE$ incontri di nuovo la circonferenza circoscritta a $\triangle ABC$ in un punto $X$ (diverso da $B$). Siano $U$ e $V$ le intersezioni della retta $AX$ con la circonferenza circoscritta a $\triangle ABC$ (così $UV$ è una corda, con $U$ sull'arco $AB$ che non contiene $C$ e $V$ sull'arco $BC$ che non contiene $A$, o come opportuno). Dimostrare che il segmento $UV$ è un diametro della circonferenza circoscritta a $\triangle ABC$ se e solo se $D$, $O$, $X$ sono allineati.
+>
+> (Più precisamente: sia $E$ il punto sul segmento $AB$ con $CE = CM$. La circonferenza circoscritta a $\triangle ABE$ incontra la circonferenza circoscritta a $\triangle ABC$ in $B$ e in un altro punto $X$. Siano $U$, $V$ i due punti di intersezione della retta $AX$ con la circonferenza circoscritta a $\triangle ABC$. Dimostrare che $UV$ è un diametro della circonferenza circoscritta a $\triangle ABC$ se e solo se $D$, $O$, $X$ sono allineati, dove $D$ sta sulla semiretta da $A$ per $B$ oltre $B$, con $BD = BM$.)
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo34hq_honsen#q04|src_jmo34hq_honsen__Q04]]
 
 
 
@@ -152,6 +180,13 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nessuna soluzione di integri positivi a^2+b^2+c^2+d^2−4√(abcd)=7·2^(2n−1)*
+*Non esistono interi positivi che soddisfano un'equazione*
 
-> Prova che non ci sono numeri interi positivi $(a, b, c, d, n)$ che soddisfano $$a^2 + b^2 + c^2 + d^2 - 4\sqrt{abcd} = 7 \cdot 2^{2n-1}.$$
+> Dimostrare che non esistono interi positivi $(a, b, c, d, n)$ che soddisfano
+>
+> $$a^2 + b^2 + c^2 + d^2 - 4\sqrt{abcd} = 7 \cdot 2^{2n-1}.$$
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_induzione|Induzione]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo34hq_honsen#q05|src_jmo34hq_honsen__Q05]]

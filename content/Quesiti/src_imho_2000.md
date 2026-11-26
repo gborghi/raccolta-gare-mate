@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La tangente incontra corde e raggi in segmenti uguali*
+*La retta tangente interseca le corde e i raggi in segmenti uguali*
 
-> La circonferenza $AB$ è tangente alle circonferenze $CAMN$ e $NMBD$. Il punto $M$ si trova tra i punti $C$ e $D$ sulla retta $CD$, e la retta $CD$ è parallela alla retta $AB$. Le corde $NA$ e $CM$ si intersecano nel punto $P$; le corde $NB$ e $DM$ si intersecano nel punto $Q$. I raggi $CA$ e $DB$ si incontrano nel punto $E$. Si dimostri che $PE = QE$.
+> $AB$ è tangente alle circonferenze $CAMN$ e $NMBD$. $M$ si trova tra $C$ e $D$ sulla retta $CD$, e $CD$ è parallela a $AB$. Le corde $NA$ e $CM$ si incontrano in $P$; le corde $NB$ e $DM$ si incontrano in $Q$. I raggi $CA$ e $DB$ si incontrano in $E$. Dimostrare che $PE = QE$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2000#q01|src_imho_2000__Q01]]
 
 
 
@@ -55,10 +62,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disuguaglianza per reali positivi con prodotto 1*
+*Disuguaglianza per numeri reali positivi il cui prodotto è 1*
 
-> Siano $a, b, c$ numeri reali positivi il cui prodotto è 1. Si dimostri che
+> Siano $a, b, c$ numeri reali positivi il cui prodotto è 1. Dimostrare che
 > $$\left(a - 1 + \frac{1}{b}\right)\left(b - 1 + \frac{1}{c}\right)\left(c - 1 + \frac{1}{a}\right) \le 1.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2000#q02|src_imho_2000__Q02]]
 
 
 
@@ -81,9 +95,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di punti mobili su una retta, domanda sulla periodicità*
+*Gioco di spostamento di punti su una retta, questione di periodicità*
 
-> Siano $k$ un numero reale positivo, $N$ un intero maggiore di 1 e $N$ punti disposti su una retta, non tutti coincidenti. Una mossa consiste nel seguente: si scelgono due punti $A$ e $B$ non sovrapposti; si sostituisce $B$ con un altro punto $B'$ posto a destra di $B$; si sostituisce $A$ con un altro punto $A'$ posto a sinistra di $A$ in modo che $A'B' = kAB$. Per quali valori di $k$ è possibile spostare i punti arbitrariamente lontano a destra compiendo ripetutamente mosse di questo tipo?
+> $k$ è un numero reale positivo. $N$ è un numero intero maggiore di 1. $N$ punti sono disposti su una retta, non tutti coincidenti. Una mossa si effettua nel modo seguente. Si scelgono due punti qualsiasi $A$ e $B$ che non si trovino nello stesso punto. Si sostituisce $B$ con un altro punto $B'$ a destra di $B$. Si sostituisce $A$ con un altro punto $A'$ a sinistra di $A$ in modo che $A'B' = kAB$. Per quali valori di $k$ possiamo spostare i punti arbitrariamente lontano verso destra mediante mosse ripetute?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2000#q03|src_imho_2000__Q03]]
 
 
 
@@ -108,7 +129,14 @@ level: IMO
 
 *Carte nelle scatole; la somma identifica la terza scatola*
 
-> 100 carte sono numerate da 1 a 100 (ogni carta con un numero diverso) e messe in 3 scatole (almeno una carta in ogni scatola). In quanti modi si può fare ciò in modo che, scelte due scatole ed estratta una carta da ciascuna, la sola conoscenza della loro somma sia sempre sufficiente per identificare la terza scatola?
+> Ci sono 100 carte numerate da 1 a 100 (ciascuna diversa) e vengono collocate in 3 scatole (almeno una carta in ciascuna scatola). In quanti modi si può procedere in modo che, scegliendo due scatole e estraendo una carta da ciascuna, la sola conoscenza della loro somma sia sempre sufficiente per identificare la terza scatola?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2000#q04|src_imho_2000__Q04]]
 
 
 
@@ -131,9 +159,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N divisibile solo da 2000 primi distinti, condizione sulla potenza di 2*
+*Esiste un N con esattamente 2000 fattori primi distinti che divide 2^N + 1?*
 
-> Possiamo trovare $N$ divisibile esattamente da 2000 primi distinti, in modo che $N$ divida $2^N + 1$? [N può essere divisibile da una potenza di un primo.]
+> Si può trovare un $N$ divisibile per esattamente 2000 primi distinti, tale che $N$ divida $2^N + 1$? [$N$ può essere divisibile per una potenza di un primo.]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]]
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_imho_2000#q05|src_imho_2000__Q05]]
 
 
 
@@ -156,6 +191,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I piedi delle altezze riflesse nei bisettori angolari giacciono sulla circonferenza inscritta*
+*I piedi dell'altitudine riflessi sulle bisettrici giacciono sull'incirconferenza*
 
-> Sia $A_1A_2A_3$ un triangolo acutangolo. Il piede dell'altezza da $A_i$ è $K_i$, e la circonferenza inscritta tocca il lato opposto a $A_i$ nel punto $L_i$. La retta $K_1K_2$ è riflessa rispetto alla retta $L_1L_2$. Analogamente, la retta $K_2K_3$ è riflessa rispetto alla retta $L_2L_3$, e la retta $K_3K_1$ è riflessa rispetto alla retta $L_3L_1$. Si dimostri che le tre nuove rette formano un triangolo i cui vertici appartengono alla circonferenza inscritta.
+> Sia $A_1A_2A_3$ un triangolo acutangolo. Il piede dell'altezza condotta da $A_i$ è $K_i$, e l'incircoscritto tocca il lato opposto a $A_i$ in $L_i$. La retta $K_1K_2$ viene riflessa rispetto alla retta $L_1L_2$. Analogamente, la retta $K_2K_3$ viene riflessa rispetto alla retta $L_2L_3$, e la retta $K_3K_1$ viene riflessa rispetto a $L_3L_1$. Dimostrare che le tre nuove rette formano un triangolo i cui vertici giacciono sull'incircoscritto.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2000#q06|src_imho_2000__Q06]]

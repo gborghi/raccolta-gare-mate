@@ -79,54 +79,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max rooms to be visited in the triangle of 9 rooms*
+*How many rooms can you visit at most?*
 
 ![[src_kangourou_2021_ecolier_semifinale__prob1.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=2]
-  \draw[thick] (0,0) -- (3,0) -- (1.5,2.598) -- cycle;
-  \draw[thick] (0.5,0.866) -- (2.5,0.866);
-  \draw[thick] (1.0,1.732) -- (2.0,1.732);
-  \draw[thick] (1,0) -- (1.5,0.866);
-  \draw[thick] (2,0) -- (2.5,0.866);
-  \draw[thick] (0.5,0.866) -- (1.0,1.732);
-  \draw[thick] (1.5,0.866) -- (2.0,1.732);
-  \draw[thick] (1,0) -- (0.5,0.866);
-  \draw[thick] (2,0) -- (1.5,0.866);
-  \draw[thick] (1.5,0.866) -- (1.0,1.732);
-  \draw[thick] (2.5,0.866) -- (2.0,1.732);
-  \draw[thick] (1.46,1.692) -- (1.54,1.772);
-  \draw[thick] (0.96,0.826) -- (1.04,0.906);
-  \draw[thick] (1.96,0.826) -- (2.04,0.906);
-  \draw[thick] (0.70,1.249) -- (0.80,1.349);
-  \draw[thick] (0.70,1.349) -- (0.80,1.249);
-  \draw[thick] (1.20,1.249) -- (1.30,1.349);
-  \draw[thick] (1.20,1.349) -- (1.30,1.249);
-  \draw[thick] (0.70,0.383) -- (0.80,0.483);
-  \draw[thick] (0.70,0.483) -- (0.80,0.383);
-  \draw[thick] (1.20,0.383) -- (1.30,0.483);
-  \draw[thick] (1.20,0.483) -- (1.30,0.383);
-  \draw[thick] (1.70,0.383) -- (1.80,0.483);
-  \draw[thick] (1.70,0.483) -- (1.80,0.383);
-  \draw[thick] (2.20,0.383) -- (2.30,0.483);
-  \draw[thick] (2.20,0.483) -- (2.30,0.383);
-\end{tikzpicture}
-\end{document}
-```
-
-> (2 points) In the figure you see a large triangle divided into 9 small triangles. Imagine that each small triangle represents a room and that the bars on its sides represent as many doors allowing passage from one room to the adjacent ones. Starting from the room at the top, how many rooms can you visit at most by passing once through each room you visit? A) 3
->  
+> (2 points) The picture shows a large triangle divided into 9 small triangles. Imagine that each small triangle is a room, and that the bars on its sides are doors that let you pass from one room to the adjacent ones. Starting from the top room, how many rooms can you visit at most, passing only once through each room you visit?
+>
+> A) 3
 > B) 4
->  
 > C) 5
->  
 > D) 6
->  
 > E) 7
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q01|src_kangourou_2021_ecolier_semifinale__Q01]]
 
 
 
@@ -157,13 +127,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Yellow tiles on the floor with red diagonals*
+*How many of the tiles are yellow?*
 
-> (3 points) A square floor is tiled with square tiles all of the same size. The nine tiles along the diagonals are red, the others yellow. How many yellow tiles are there? A) 10
->  
-> B) 12 C) 14 D) 16 E) 18
+> (3 points) A square floor is tiled with square tiles all of the same size. The 9 tiles along the diagonals are red, the others yellow. How many of the tiles are yellow?
+>
+> A) 10
+> B) 12
+> C) 14
+> D) 16
+> E) 18
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q02|src_kangourou_2021_ecolier_semifinale__Q02]]
 
 
 
@@ -222,39 +201,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the four invisible numbers in the diagram*
+*What is the sum of the invisible numbers?*
 
 ![[src_kangourou_2021_ecolier_semifinale__prob3.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.2, >=latex, thick]
-  \draw (0.6,3.4) rectangle (1.4,4.2);
-  \draw (-0.9,1.6) rectangle (-0.1,2.4);
-  \node at (-0.5,2.0) {\textbf{8}};
-  \draw (0.6,1.6) rectangle (1.4,2.4);
-  \draw (2.1,1.6) rectangle (2.9,2.4);
-  \draw (-0.9,-0.4) rectangle (-0.1,0.4);
-  \node at (-0.5,0.0) {\textbf{3}};
-  \draw (0.6,-0.4) rectangle (1.4,0.4);
-  \draw (2.1,-0.4) rectangle (2.9,0.4);
-  \node at (2.5,0.0) {\textbf{2}};
-  \draw[->] (0.6,3.4) -- (-0.1,2.4);
-  \draw[->] (1.4,3.4) -- (2.1,2.4);
-  \draw[->] (-0.1,2.0) -- (0.6,2.0);
-  \draw[->] (2.1,2.0) -- (1.4,2.0);
-  \draw[->] (1.0,1.6) -- (1.0,0.4);
-  \draw[->] (0.6,0.0) -- (-0.1,0.0);
-  \draw[->] (1.4,0.0) -- (2.1,0.0);
-\end{tikzpicture}
-\end{document}
-```
+> (3 points) In this diagram each square contains an integer different from all those in the others, but in four squares the number is invisible. The arrows between two squares point from the square containing the larger number to the one containing the smaller. What is the sum of the invisible numbers?
+>
+> A) 30
+> B) 28
+> C) 22
+> D) 16
+> E) 14
 
-> (3 points) In this diagram each square contains an integer number different from all the others, but in four squares the number is invisible. The arrows between two squares are directed from the square containing the largest number to the square containing the smallest number. What's the sum of the invisible numbers? A) 30
->  
-> B) 28 C) 22 D) 16 E) 14
-
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q03|src_kangourou_2021_ecolier_semifinale__Q03]]
 
 
 
@@ -288,19 +251,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit numbers from 337337 by deleting two*
+*How many different four-digit numbers can be obtained?*
 
-> (4 points) How many different four-digit numbers can be obtained from 337337 by deleting two digits? A) 6
->  
+> (4 points) How many different four-digit numbers can be obtained from 337337 by deleting two of its digits?
+>
+> A) 6
 > B) 7
->  
 > C) 8
->  
 > D) 9
->  
 > E) 10
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q04|src_kangourou_2021_ecolier_semifinale__Q04]]
 
 
 
@@ -333,13 +299,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of 3142 among the 24 ordered permutations*
+*In which position is the number 3142?*
 
-> (4 points) Using each of the digits 1, 2, 3, 4, each one and only once, you can construct 24 different numbers (all of 4 digits). If you put these 24 numbers in order from smallest to largest (and so the smallest is in position 1, the largest is in position 24) in which position is the number 3142? A) 12
->  
-> B) 13 C) 14 D) 16 E) 17
+> (4 points) Using each of the digits 1, 2, 3, 4 exactly once, one can build 24 different numbers (all of 4 digits). If these 24 numbers are put in order from the smallest to the largest (so the smallest is in position 1 and the largest in position 24), in which position is the number 3142?
+>
+> A) 12
+> B) 13
+> C) 14
+> D) 16
+> E) 17
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q05|src_kangourou_2021_ecolier_semifinale__Q05]]
 
 
 
@@ -376,15 +351,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many rabbits eat carrots today?
+*How many rabbits will eat carrots today?*
 
-> (4 points) Bianca has 20 rabbits: 9 of them eat carrots every day, the others only one day yes and one no, not necessarily all on the same day. Yesterday 16 rabbits ate carrots. How many rabbits will eat carrots today? A) 9 B) 13 C) 14 D) 15 E) The information is insufficient.
->  
->  
->  
-> 3 2 8
+> (4 points) Bianca has 20 rabbits: she feeds carrots to 9 of them every day, and to the others only every other day, not necessarily all on the same day. Yesterday 16 rabbits ate carrots. How many rabbits will eat carrots today?
+>
+> A) 9
+> B) 13
+> C) 14
+> D) 15
+> E) The information is not enough.
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q06|src_kangourou_2021_ecolier_semifinale__Q06]]
 
 
 
@@ -419,17 +401,22 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to add numbers 1..8 to get 30*
+*In how many different ways can you meet the request?*
 
-> (5 points) You have to add up some of the eight natural numbers from 1 to 8 so you get 30. If each number cannot be used more than once, how many different ways can you meet the request? (The addition of the same addends in a different order should not be considered as a different way). A) 4
->  
+> (5 points) You have to add some of the eight natural numbers from 1 to 8 so as to obtain 30 as the sum. If each number may be used at most once, in how many different ways can you meet the request? (Adding the same summands in a different order must not be counted as a different way.)
+>
+> A) 4
 > B) 6
->  
 > C) 8
->  
-> D)10 E) 12
+> D) 10
+> E) 12
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q07|src_kangourou_2021_ecolier_semifinale__Q07]]
 
 
 
@@ -462,13 +449,22 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max 1s in the first 15 digits of the alignment*
+*How many digits 1 can that number N contain at most?*
 
-> (5 points) Ada has 10,000 cards, each containing a different number from 1 to 10,000 included. She arranges them (not necessarily in a preset order) and then reads the first 15 digits of the alignment as if they were a single number N. At most how many digits 1 can that number N contain? A) 11
->  
-> B) 12 C) 13 D) 14 E) 15
+> (5 points) Ada has 10,000 cards, on each of which a different number from 1 to 10,000 inclusive is written. She lines them up (not necessarily in a fixed order) and then reads the first 15 digits of the line as if they were a single number N. How many digits 1 can that number N contain at most?
+>
+> A) 11
+> B) 12
+> C) 13
+> D) 14
+> E) 15
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q08|src_kangourou_2021_ecolier_semifinale__Q08]]
 
 
 
@@ -505,17 +501,28 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Certainly false claim (Lisa's euro)*
+*Which statement is certainly false?*
 
-> (6 points) If of the following three statements a) Lisa has more than 2021 euros b) Lisa has less than 2021 euros c) Lisa has at least 1 euro one and only one is true, which of the following statements is definitely false? A) Lisa has 2021 euros.
->  
-> B) Lisa has no euro.
->  
-> C) Lisa has a thousand euros. (D) Claim (c) is false. E) The statement c) is true.
->  
-> Open-ended questions
+> (6 points) If, of the following three statements
+>
+> a) "Lisa has more than 2021 euros"
+> b) "Lisa has fewer than 2021 euros"
+> c) "Lisa has at least 1 euro"
+>
+> exactly one is true, which of the following statements is certainly false?
+>
+> A) Lisa has 2021 euros.
+> B) Lisa has no euros at all.
+> C) Lisa has 1000 euros.
+> D) Statement c) is false.
+> E) Statement c) is the true one.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q09|src_kangourou_2021_ecolier_semifinale__Q09]]
 
 
 
@@ -540,11 +547,16 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Other years of the 21st century with digit sum 5*
+*How many other years have the same property?*
 
-> (4 points) The sum of the digits of 2021 is 5. In the 21st century (i.e. 2001 to 2100) how many other years have the same property?
+> (4 points) The sum of the digits of 2021 is 5. In the 21st century (that is, from 2001 to 2100), how many other years have the same property?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 3
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q10|src_kangourou_2021_ecolier_semifinale__Q10]]
 
 
 
@@ -568,11 +580,15 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of one watermelon in hectograms (3 kg less than three watermelons)*
+*What is it, in hectograms?*
 
-> (4 points) One watermelon weighs 3 kg less than three watermelons. All watermelons have the same weight. Which is it, in hectograms?
+> (4 points) One watermelon weighs 3 kilograms less than three watermelons. All the watermelons have the same weight: what is it, in hectograms?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 15
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q11|src_kangourou_2021_ecolier_semifinale__Q11]]
 
 
 
@@ -598,11 +614,15 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Matches won by Edward in the card game*
+*How many games did Edoardo win?*
 
-> (6 points) Edward, Susanna and Teresa play cards. At the end of each match, there are no ties: the winner earns 3 points, the second-placed 1 point while the third-placed does not earn points. After four games, Susanna has 4 points and Teresa has 3. How many games has Edward won?
+> (6 points) Edoardo, Susanna and Teresa play cards. At the end of each game there are no ties: the winner scores 3 points, the one who comes second scores 1 point, and the one who comes third scores nothing. After four games Susanna has 4 points and Teresa 3. How many games did Edoardo win?
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 3
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q12|src_kangourou_2021_ecolier_semifinale__Q12]]
 
 
 
@@ -628,11 +648,16 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of Martians to have two of the same type*
+*How many Martians must enter at least?*
 
-> (6 points) Not all Martians have the same number of hands and not all have the same number of feet: hands can be 3 to 6, feet 2 to 7. How many Martians do you have to get on a space shuttle to make sure there's at least two of the same type?
+> (6 points) Not all Martians have the same number of hands, and not all have the same number of feet: the hands may be from 3 to 6, the feet from 2 to 7. How many Martians must enter a space shuttle at least, so that there are certainly at least two of the same type?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 25
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q13|src_kangourou_2021_ecolier_semifinale__Q13]]
 
 
 
@@ -656,11 +681,15 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Years since the last year = two consecutive integers placed side by side*
+*How many years have passed since the last time this happened?*
 
-> (8 points) The 2021 number is formed by joining two consecutive integers in increasing order. How many years have passed since the last time this happened?
+> (8 points) The number 2021 is formed by placing side by side two consecutive integers in increasing order. How many years have passed since the last time this happened?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 101
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q14|src_kangourou_2021_ecolier_semifinale__Q14]]
 
 
 
@@ -692,16 +721,13 @@ How many rabbits eat carrots today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum minutes to cross the Tibetan bridge*
+*How many minutes will they take at least?*
 
-> (8 points) Returning from a hike, Anna, Bob, Carla and Doris must cross a river
-> on a suspension bridge, on which at most two people can cross at a time; it is dark and therefore for
-> the crossing a flashlight is needed, but they have only one that can be enough for two people and they
-> cannot throw it from one side of the river to the other. How many minutes will they need at minimum to
-> all get to the other bank if for the crossing Anna takes 10 minutes, Bob 5, Carla 2 and Doris
-> 1 minute and, obviously, if two friends cross together, they do so at the speed of the slower one?
->  
-> Answers
-> 0003 0015 0003 0025 0101 0017
+> (8 points) On the way back from an outing, Anna, Bob, Carla and Doris have to cross a river on a rope bridge, on which at most two people can go at a time. It is dark, so a torch is needed for the crossing, but they have only one, which can serve two people, and they cannot throw it from one side of the river to the other. How many minutes will they take at least for everyone to get to the other bank, if Anna takes 10 minutes to cross, Bob 5, Carla 2 and Doris 1 minute, and, of course, if two friends cross together they do so at the speed of the slower one?
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 17
+[[Quesiti/src_kangourou_2021_ecolier_semifinale#q15|src_kangourou_2021_ecolier_semifinale__Q15]]

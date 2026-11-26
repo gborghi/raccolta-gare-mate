@@ -34,13 +34,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare (2016^2-1)/2015.*
+*Valuta (2016^2-1)/2015.*
 
-> Calcolare il valore di $\dfrac{2016^2-1}{2015}$.
-> 
-> [Fonte: la chiave di risposta ufficiale (GABARITO); la dichiarazione di scelta pluriennale originale e le opzioni non sono riprodotte. Dalla soluzione: $\dfrac{2016^2-1}{2015}=\dfrac{(2016+1)(2016-1)}{2015}=\dfrac{2017\times 2015}{2015}=2017$. In alternativa, $\dfrac{2016^2-1}{2015}=\dfrac{4064256-1}{2015}=\dfrac{4064255}{2015}=2017$.]
+> Calcola il valore di $\dfrac{2016^2-1}{2015}$.
+>
+> [La fonte è la chiave di risposta ufficiale (GABARITO); l'enunciato e le opzioni originali a scelta multipla non vengono riprodotti. Dalla soluzione: $\dfrac{2016^2-1}{2015}=\dfrac{(2016+1)(2016-1)}{2015}=\dfrac{2017\times 2015}{2015}=2017$. In alternativa, $\dfrac{2016^2-1}{2015}=\dfrac{4064256-1}{2015}=\dfrac{4064255}{2015}=2017$.]
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2016_n1_f1#q01|src_obm_2016_n1_f1__Q01]]
 
 
 
@@ -67,13 +74,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area del più grande quadrato ABCD in una figura.*
+*Area del quadrato ABCD più grande in una figura.*
 
-> Trova l'area del più grande quadrato $ABCD$ nella figura data.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: la superficie del quadrato più grande $ABCD$ è $(9\times 1)\times 4 = 36\ \text{cm}^2$.]
+> Trovare l'area del quadrato più grande $ABCD$ nella figura data.
+>
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: l'area del quadrato più grande $ABCD$ è $(9\times 1)\times 4 = 36\ \text{cm}^2$.]
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2016_n1_f1#q02|src_obm_2016_n1_f1__Q02]]
 
 
 
@@ -99,11 +112,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri a cinque cifre con cifre odd distinte; legati a case senza giornale.*
+*Numeri di cinque cifre con cifre dispari tutte distinte; limite sulle abitazioni senza giornale.*
 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: ci sono $5$ numeri unici: $1,3,5,7,9$. Quindi ci sono $5\cdot 5 = 25$ numeri di esattamente cinque cifre tutti strani e con una somma pari di cifre. Pertanto, al massimo le case $25-18 = 7$ non hanno ricevuto il giornale.]
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: ci sono $5$ cifre dispari: $1,3,5,7,9$. Pertanto, ci sono $5\cdot 5 = 25$ numeri di esattamente cinque cifre, tutti dispari e con una somma delle cifre dispari. Di conseguenza, al massimo $25-18 = 7$ case non hanno ricevuto il giornale.]
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n1_f1#q03|src_obm_2016_n1_f1__Q03]]
 
 
 
@@ -133,15 +153,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri sulle vertici di un solido in modo che ogni faccia abbia la somma uguale; totale di tutti i vertici.*
+*Assegna dei numeri ai vertici di un solido in modo che ogni faccia abbia la stessa somma; somma totale di tutti i vertici.*
 
-> I numeri sono scritti sulle cime della figura in modo che i numeri che appaiono sulle facce siano gli stessi. Trova la somma dei numeri scritti su tutti i vertici.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: le facce che si incontrano al vertice con il numero $2$ danno $2+x+7$ e $2+7+y$; per tutte le facce essere uguali i valori delle facce portano a $2+7+7=16$, e si deduce il vertice inferiore uguale $2$. La somma di tutti i vertici è $2+7+7+7+2+2 = 25$.]
+> I numeri sono scritti sui vertici della figura in modo che i numeri che compaiono sulle facce siano uguali. Determinare la somma dei numeri scritti su tutti i vertici.
+>
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: le facce che si incontrano nel vertice con numero $2$ danno $2+x+7$ e $2+7+y$; affinché tutte le facce siano uguali, i valori delle facce portano a $2+7+7=16$, e si deduce che il vertice inferiore è uguale a $2$. La somma su tutti i vertici è $2+7+7+7+2+2 = 25$.]
 
 ![[src_obm_2016_n1_f1__q04.png]]
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2016_n1_f1#q04|src_obm_2016_n1_f1__Q04]]
 
 
 
@@ -167,11 +194,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Giochi/ragazze che leggono riviste settimanali; a che data diventano uguali.*
+*Ragazzo/ragazza: riviste lette a settimana; in quale data diventano uguali.*
 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: con $x$ il numero di settimane, $29+3x = 12+4x \Leftrightarrow x = 17$ settimane. Contando $17\times 7 = 119$ giorni dall'inizio della seconda settimana di febbraio, e dal momento che $31+30+31$ (marzo, aprile, maggio) più i giorni di febbraio rimanenti totali $21+31+30+31 = 113$ giorni, si conclude che il ragazzo equivale alla ragazza nel numero di riviste solo alla fine della prima settimana di giugno.]
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: con $x$ il numero di settimane, $29+3x = 12+4x \Leftrightarrow x = 17$ settimane. Contando $17\times 7 = 119$ giorni a partire dall'inizio della seconda settimana di febbraio, e poiché $31+30+31$ (marzo, aprile, maggio) più i giorni restanti di febbraio fanno in totale $21+31+30+31 = 113$ giorni, si conclude che il ragazzo e la ragazza hanno lo stesso numero di riviste solo alla fine della prima settimana di giugno.]
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n1_f1#q05|src_obm_2016_n1_f1__Q05]]
 
 
 
@@ -202,15 +236,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quali lettere (O, B, M) possono apparire nella cella ombrata di una griglia 3x3.*
+*Quali lettere (O, B, M) possono comparire nella cella ombreggiata di una griglia 3x3?*
 
-> Determina quali lettere possono apparire nella cella ombrata della griglia.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: i seguenti esempi mostrano che qualsiasi delle lettere può apparire nella cella ombrata (grigio): $\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&B\\\hline O&B&O\\\hline\end{array}\quad\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&B\\\hline O&B&M\\\hline\end{array}\quad\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&M\\\hline O&M&B\\\hline\end{array}$ ]
+> Determinare quali delle lettere possono comparire nella cella ombreggiata della griglia.
+>
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: i seguenti esempi mostrano che una qualsiasi delle lettere può comparire nella cella ombreggiata (grigia): $\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&B\\\hline O&B&O\\\hline\end{array}\quad\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&B\\\hline O&B&M\\\hline\end{array}\quad\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&M\\\hline O&M&B\\\hline\end{array}$ ]
 
 ![[src_obm_2016_n1_f1__q06.png]]
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n1_f1#q06|src_obm_2016_n1_f1__Q06]]
 
 
 
@@ -237,13 +278,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimo numero di pezzi uguali divisibili tra 2, 3 o 5 persone.*
+*Minor numero di parti uguali che si possono distribuire tra 2, 3 o 5 persone.*
 
-> Trova il minor numero di pezzi uguali in cui si può tagliare qualcosa in modo che possa essere diviso in modo uguale tra $2$, $3$ o $5$ persone.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: poiché tutti i pezzi sono uguali e possono essere divisi in gruppi di $2$, $3$ o $5$, il numero di pezzi deve essere un multiple del più piccolo comune di questi numeri, ovvero un multiple di $30$. Con $30$ pezzi uguali la divisione desiderata è effettivamente possibile.]
+> Trovare il numero minimo di pezzi uguali in cui si può tagliare qualcosa affinché possa essere diviso equamente tra $2$, $3$ o $5$ persone.
+>
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: poiché i pezzi sono tutti uguali e possono essere suddivisi in gruppi di $2$, $3$ o $5$, il numero di pezzi deve essere un multiplo del minimo comune multiplo di questi numeri, cioè un multiplo di $30$. Con $30$ pezzi uguali, la suddivisione desiderata è effettivamente possibile.]
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n1_f1#q07|src_obm_2016_n1_f1__Q07]]
 
 
 
@@ -270,13 +317,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La posizione di Josias in fila data la proporzione tra persone prima e dopo di lui.*
+*La posizione di Josias in una coda, data una proporzione tra le persone che lo precedono e quelle che lo seguono.*
 
-> Trova la posizione di Josias $x$ nella coda.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: $x-1$ persone sono arrivate prima di Josias e $2016-x$ persone sono arrivate dopo di lui, con $\dfrac{2016-x}{4} = 4(x-1)$, cioè $2016-x = 16(x-1)$, con $x = 404$.]
+> Trovare la posizione di Josias $x$ nella coda.
+>
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: $x-1$ persone sono arrivate prima di Josias e $2016-x$ persone sono arrivate dopo di lui, con $\dfrac{2016-x}{4} = 4(x-1)$, cioè $2016-x = 16(x-1)$, il che dà $x = 404$.]
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n1_f1#q08|src_obm_2016_n1_f1__Q08]]
 
 
 
@@ -304,13 +357,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo di lati interi con perimetro 58 e superficie quadrata; trovare lato di quadrato.*
+*Rettangolo a lati interi con perimetro 58 e area quadrata; trova il lato del quadrato.*
 
-> Un rettangolo ha dimensioni interi $x$ e $y$ e la sua superficie è uguale a quella di un quadrato laterale $n$. Trova $n$.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: $2x+2y = 58$ quindi $x+y = 29$; le possibili coppie $(x,y)$ sono $(1,28),(2,27),(3,26),\dots,(14,15)$. Di questi, solo $(4,25)$ dà un prodotto che è un quadrato perfetto, $4\cdot 25 = 100$, quindi $n = \sqrt{4\cdot 25} = \sqrt{100} = 10$.]
+> Un rettangolo ha dimensioni intere $x$ e $y$, e la sua area è uguale a quella di un quadrato di lato $n$. Trovare $n$.
+>
+> [La fonte è la soluzione ufficiale; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: $2x+2y = 58$ quindi $x+y = 29$; le coppie possibili $(x,y)$ sono $(1,28),(2,27),(3,26),\dots,(14,15)$. Tra queste, solo $(4,25)$ dà un prodotto che è un quadrato perfetto, $4\cdot 25 = 100$, quindi $n = \sqrt{4\cdot 25} = \sqrt{100} = 10$.]
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_obm_2016_n1_f1#q09|src_obm_2016_n1_f1__Q09]]
 
 
 
@@ -340,15 +400,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sborra i punti da una figura di 12 punti in modo che non siano rimasti quattro punti che formino una configurazione proibita.*
+*Cancella dei punti da una figura di 12 punti in modo che nessun insieme di quattro punti rimanenti formi una configurazione vietata.*
 
-> Nella figura dei punti $12$, decidere quanti punti devono essere cancellati.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: si cancella alcuni punti del $12$, lasciando $4$. Esaminando i segmenti, ogni gruppo di punti uniti da un segmento si trova su una configurazione quadrata; eliminando un punto di ciascuna di tali coppie rimuove esattamente $8$ punti. Ragionando attraverso le voci, la risposta è $12$.]
+> Nella figura di $12$ punti, decidi quanti punti devono essere cancellati.
+>
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: si cancellano alcuni punti del $12$, lasciando $4$. Esaminando i segmenti, ogni gruppo di punti uniti da un segmento giace sopra una configurazione quadrata; eliminando un punto di ciascuna di tali coppie si rimuovono esattamente $8$ punti. Ragionando sugli elementi, la risposta è $12$.]
 
 ![[src_obm_2016_n1_f1__q10.png]]
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2016_n1_f1#q10|src_obm_2016_n1_f1__Q10]]
 
 
 
@@ -376,13 +443,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Le persone in fila si alternano a dire la verità e a mentire; contare i bugiardi.
+*Le persone allineate alternano narratori di verità e bugiardi; conta i bugiardi.*
 
-> In una fila di persone, ognuno è onesto o bugiardo. Scopri quanti sono i bugiardi.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: la prima persona a rispondere non può dire la verità; la seconda ha detto la verità, la terza ha mentito, la quarta ha detto la verità, e così via, quindi i bugiardi e le persone oneste si alternano. Quindi ci sono mentitori nella fila.]
+> In una fila di persone, ciascuna è o onesta o bugiarda; determina quanti sono i bugiardi.
+>
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: la prima persona a rispondere non può dire la verità; la seconda ha detto la verità, la terza ha mentito, la quarta ha detto la verità, e così via, perciò bugiardi e persone oneste si alternano. Pertanto, nella fila ci sono $\dfrac{2016}{2} = 1008$ bugiardi.]
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n1_f1#q11|src_obm_2016_n1_f1__Q11]]
 
 
 
@@ -409,13 +483,19 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Relazione tra superficie totale verde e superficie totale rossa dopo aver tagliato un cubo dipinto in 8.*
+*Rapporto tra l'area superficiale totale verde e l'area superficiale totale rossa dopo aver tagliato un cubo dipinto in 8 parti.*
 
-> Dopo aver tagliato il cubo in otto blocchi più piccoli, trova il rapporto tra superficie verde totale e superficie rossa totale.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: ogni faccia verde degli otto blocchi più piccoli ottenuti dopo aver tagliato il cubo è opposta a quella rossa e viceversa. Pertanto il rapporto tra superficie verde totale e superficie rossa totale è $1:1$.]
+> Dopo aver tagliato il cubo in otto blocchi più piccoli, determina il rapporto tra l'area superficiale totale verde e l'area superficiale totale rossa.
+>
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: ciascuna faccia verde degli otto blocchi più piccoli ottenuti dopo aver tagliato il cubo è opposta a una faccia rossa, e viceversa. Pertanto, il rapporto tra l'area verde totale e l'area rossa totale è $1:1$.]
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n1_f1#q12|src_obm_2016_n1_f1__Q12]]
 
 
 
@@ -443,13 +523,20 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lista di 10 numeri divisi in numeri odd/even x,y; relazione tra coppie di parità uguale e miscela; max x.*
+*Elenco di 10 numeri suddivisi in conteggi di numeri dispari/pari x,y; relazione tra coppie della stessa parità e coppie di parità mista; max x.*
 
-> In un elenco di numeri $10$, $x$ e $y$ siano le quantità di numeri odd e pari. Trova il valore massimo di $x$.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: in un insieme di elementi $n$ il numero di sottoinsiemi di due elementi è $\dfrac{n(n-1)}{2}$. Con $x+y = 10$ e la condizione $\dfrac{x(x-1)}{2}+\dfrac{y(y-1)}{2} = 4xy$ (dal momento che la somma di due numeri con la stessa parità è pari e una coppia mista è impar). Substituendo $y = 10-x$ si ottiene $x^2-9x+10 = 0$, con soluzioni $x = 1$ o $x = 9$. Poiché $(x,y) = (9,1)$ soddisfa la condizione, il valore massimo di $x$ è $9$.]
+> In una lista di $10$ numeri, siano $x$ e $y$ le quantità di numeri dispari e pari. Determinare il valore massimo di $x$.
+>
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: in un insieme di $n$ elementi, il numero di sottoinsiemi a due elementi è $\dfrac{n(n-1)}{2}$. Con $x+y = 10$ e la condizione $\dfrac{x(x-1)}{2}+\dfrac{y(y-1)}{2} = 4xy$ (poiché la somma di due numeri della stessa parità è pari e una coppia mista è dispari). Sostituendo $y = 10-x$ si ottiene $x^2-9x+10 = 0$, con soluzioni $x = 1$ o $x = 9$. Poiché $(x,y) = (9,1)$ soddisfa la condizione, il valore massimo di $x$ è $9$.]
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2016_n1_f1#q13|src_obm_2016_n1_f1__Q13]]
 
 
 
@@ -478,13 +565,19 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa/media delle classi di matematica e di portoghese per le classi A e B; quali dichiarazioni sono false.*
+*Somma/media dei voti di matematica e portoghese per le classi A e B; quali affermazioni sono false.*
 
-> La tabella mostra la somma dei voti degli studenti delle classi A e B nelle prove di matematica e di portoghese. Decidere quali affermazioni (a) - (d) sono false.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione, la tabella è: $\begin{array}{|l|c|c|}\hline & \text{Class A} & \text{Class B}\\\hline \text{Mathematics} & 6\cdot 20 = 120 & 9\cdot 30 = 270\\\hline \text{Portuguese} & 8\cdot 20 = 160 & 5\cdot 30 = 150\\\hline\end{array}$ L'analisi del grafico mostra immediatamente che i punti (a) e (b) sono falsi. La media matematica delle due classi insieme è $\dfrac{120+270}{50} = 7.8$, quindi anche il punto (c) è vero. Le medie delle due prove delle classi A e B sono rispettivamente $280/40 = 7$ e $420/60 = 7$. La media complessiva di tutte le classi è $\dfrac{120+160+270+150}{20+20+30+30} = 7$, quindi la lettera d) è vera.]
+> La tabella mostra le somme dei voti degli studenti delle classi A e B nelle prove di matematica e di portoghese. Determinare quali delle affermazioni da (a) a (d) sono false.
+>
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione, la tabella è: $\begin{array}{|l|c|c|}\hline & \text{Class A} & \text{Class B}\\\hline \text{Mathematics} & 6\cdot 20 = 120 & 9\cdot 30 = 270\\\hline \text{Portuguese} & 8\cdot 20 = 160 & 5\cdot 30 = 150\\\hline\end{array}$ L'analisi del grafico mostra immediatamente che le voci (a) e (b) sono false. La media di matematica delle due classi insieme è $\dfrac{120+270}{50} = 7.8$, quindi anche la voce (c) è vera. Le medie dei due test nelle classi A e B sono rispettivamente $280/40 = 7$ e $420/60 = 7$. La media complessiva di tutti i voti è $\dfrac{120+160+270+150}{20+20+30+30} = 7$, quindi la voce (d) è vera.]
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n1_f1#q14|src_obm_2016_n1_f1__Q14]]
 
 
 
@@ -514,15 +607,22 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di movimenti singoli per riorganizzare una griglia di tokeni colorati in un obiettivo.*
+*Mosse minime con un singolo gettone per riorganizzare una griglia di gettoni colorati in un obiettivo.*
 
-> Trova il numero minimo di mosse necessarie per riordinare i token colorati della griglia nella configurazione di destinazione.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: una terza colonna ha già la disposizione ripetuta quindi non ha bisogno di movimento; la prima e la seconda colonna hanno bisogno di un movimento ciascuno; un solo movimento non è sufficiente perché due token si trovano in diverse righe. Due mosse sono sufficienti, come illustrato.]
+> Trovare il numero minimo di mosse necessarie per riorganizzare i gettoni colorati della griglia nella configurazione obiettivo.
+>
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: una terza colonna presenta già la disposizione ripetuta, quindi non richiede alcun spostamento; la prima e una seconda colonna richiedono ciascuna uno spostamento; un unico spostamento non basta perché due gettoni si trovano in righe diverse. Due spostamenti sono sufficienti, come illustrato.]
 
 ![[src_obm_2016_n1_f1__q15.png]]
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n1_f1#q15|src_obm_2016_n1_f1__Q15]]
 
 
 
@@ -549,13 +649,19 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Paginazione del libretto: collegare i numeri delle pagine nella parte anteriore/retro di un foglio.*
+*Paginazione del libretto: collega i numeri di pagina sul recto/verso di un foglio.*
 
-> In un opuscolo, indicare il numero della pagina richiesta (s) su un foglio.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: la pagina $1$ ha la pagina $2$ sul retro e le pagine $59$ e $60$ sull'altra parte. Quindi la pagina $7$ (che è $1+6$) ha sulla sua pagina posteriore $8$ (che è $2+6$) e le pagine $53$ ($=59-6$) e $54$ ($=60-6$) dall'altra parte.]
+> In un opuscolo, individua sulla pagina le pagina/e richiesta/e.
+>
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: la pagina $1$ ha sulla retro la pagina $2$ e, sull'altra parte, le pagine $59$ e $60$. Quindi la pagina $7$ (che è $1+6$) ha sulla retro la pagina $8$ (che è $2+6$) e, sull'altra parte, le pagine $53$ ($=59-6$) e $54$ ($=60-6$).]
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n1_f1#q16|src_obm_2016_n1_f1__Q16]]
 
 
 
@@ -584,15 +690,21 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza totale di una catena/colletto di 20 anelli collegati.*
+*Lunghezza totale di una catena/collana composta da 20 anelli collegati.*
 
-> Trovare la lunghezza totale richiesta ottenuta all'interno degli anelli collegati.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: divisione o incollazione delle parti come mostrato, la lunghezza richiesta è $4\,\text{mm} + 20\times 4.2\,\text{cm} + 4\,\text{mm} = 84\,\text{cm} + 0.8\,\text{cm} = 84.8\,\text{cm}$.]
+> Trovare la lunghezza totale richiesta ottenuta disponendo gli anelli collegati.
+>
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: dividendo o incollando le parti come mostrato, la lunghezza richiesta è $4\,\text{mm} + 20\times 4.2\,\text{cm} + 4\,\text{mm} = 84\,\text{cm} + 0.8\,\text{cm} = 84.8\,\text{cm}$.]
 
 ![[src_obm_2016_n1_f1__q17.png]]
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n1_f1#q17|src_obm_2016_n1_f1__Q17]]
 
 
 
@@ -622,15 +734,22 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di una regione grigia in un quadrato con segmenti segnalati uguali (AB=BC=CD=AE=EG=GH=2).*
+*Area di una regione grigia in un quadrato con segmenti uguali segnati (AB=BC=CD=AE=EG=GH=2).*
 
-> Con $AB = BC = CD = AE = EG = GH = 2$ si trova l'area della regione grigia.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: l'area del triangolo $AEB$ è $\dfrac{2\times 2}{2} = 2$. L'area del triangolo $OGH$ è $\dfrac{2\times 3}{2} = 3$ (con $OF = 3$, $F$ il punto medio del lato $BF$ e $O$ il centro del quadrato). La superficie del triangolo $AGC$ è $\dfrac{4\times 4}{2} = 8$ e la superficie del triangolo $DAH$ è $\dfrac{6\times 6}{2} = 18$, quindi il quadrilaterale $CGHD$ ha superficie $18 - 8 = 10$; per simmetria, il triangolo $CGO$ ha superficie $10 - 2\times 3 = 4$. Resta da trovare le aree dei triangoli $BEI$ e $IGC$. Dividere $IGC$ in quattro triangoli come $BEI$ dà $s + 4x + 2(2-x) = 6 \Rightarrow 3x = 2 \Rightarrow x = \dfrac{2}{3}$. L'area grigia all'interno del triangolo $AHD$ è $5x + 4 = 5\cdot\dfrac{2}{3} + 4 = \dfrac{22}{3}$, quindi per simmetria l'area grigia totale è $2\times\dfrac{22}{3} = \dfrac{44}{3}$.]
+> Con $AB = BC = CD = AE = EG = GH = 2$, determina l'area della regione grigia.
+>
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: l'area del triangolo $AEB$ è $\dfrac{2\times 2}{2} = 2$. L'area del triangolo $OGH$ è $\dfrac{2\times 3}{2} = 3$ (con $OF = 3$, $F$ il punto medio del lato $BF$ e $O$ il centro del quadrato). L'area del triangolo $AGC$ è $\dfrac{4\times 4}{2} = 8$ e l'area del triangolo $DAH$ è $\dfrac{6\times 6}{2} = 18$, quindi il quadrilatero $CGHD$ ha area $18 - 8 = 10$; per simmetria, il triangolo $CGO$ ha area $10 - 2\times 3 = 4$. Resta da trovare le aree dei triangoli $BEI$ e $IGC$. Suddividendo $IGC$ in quattro triangoli come $BEI$ si ottiene $s + 4x + 2(2-x) = 6 \Rightarrow 3x = 2 \Rightarrow x = \dfrac{2}{3}$. L'area grigia all'interno del triangolo $AHD$ è $5x + 4 = 5\cdot\dfrac{2}{3} + 4 = \dfrac{22}{3}$, quindi, per simmetria, l'area grigia totale è $2\times\dfrac{22}{3} = \dfrac{44}{3}$.]
 
 ![[src_obm_2016_n1_f1__q18.png]]
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2016_n1_f1#q18|src_obm_2016_n1_f1__Q18]]
 
 
 
@@ -658,13 +777,20 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Costo di viaggio di 6000 dividiti tra amici; tre drop out aumentando ogni quota di 100; trovare numero/costo.*
+*Il costo del viaggio, 6000, viene diviso tra gli amici; tre si tirano indietro, facendo aumentare ciascuna quota di 100; determinare il numero e il costo.*
 
-> Un viaggio che costa $6000$ reais deve essere condiviso in modo uguale tra gli amici, ma tre abbandonano, aumentando la quota di ciascuna persona rimanente di $100$ reais. Si imposta e si risolve per il numero di persone.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: inizialmente ciascuna delle persone $x$ pagherebbe $\dfrac{6000}{x}$ reais; dopo tre uscite, ciascuna delle persone $x-3$ pagherebbe $\dfrac{6000}{x-3}$, che è $100$ reais in più, quindi $\dfrac{6000}{x}+100 = \dfrac{6000}{x-3} \Leftrightarrow 60(x-3)+x(x-3) = 60x \Leftrightarrow 60x-180+x^2-3x = 60x \Leftrightarrow x^2-3x-180 = 0$.]
+> Un viaggio del costo di $6000$ reais deve essere diviso equamente tra gli amici, ma tre si tirano indietro, facendo aumentare di $100$ reais la quota di ciascuno dei restanti. Imposta l'equazione e risolvila per determinare il numero di persone.
+>
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: inizialmente ciascuno dei $x$ partecipanti pagava $\dfrac{6000}{x}$ reais; dopo che tre si sono ritirati, ciascuno dei $x-3$ viaggiatori paga $\dfrac{6000}{x-3}$, il che rappresenta $100$ reais in più, quindi $\dfrac{6000}{x}+100 = \dfrac{6000}{x-3} \Leftrightarrow 60(x-3)+x(x-3) = 60x \Leftrightarrow 60x-180+x^2-3x = 60x \Leftrightarrow x^2-3x-180 = 0$.]
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2016_n1_f1#q19|src_obm_2016_n1_f1__Q19]]
 
 
 
@@ -692,10 +818,17 @@ Le persone in fila si alternano a dire la verità e a mentire; contare i bugiard
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i prodotti distinti P da un puzzle di numeri con numeri non zero e Z=S^3 x I^2.*
+*Conta i prodotti distinti P provenienti da un rompicapo numerico con cifre non nulle e Z=S^3 x I^2.*
 
-> Ogni lettera è una cifra non zero; contare il numero di valori distinti che il prodotto $P = S\times E\times I\times S\times E\times Z$ può assumere.
-> 
-> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: poiché tutte le cifre non sono zero, annullare i termini ripetuti dà $Z = S^3\times I^2$. Poiché $Z$ è una cifra, sia $Z = 1$ che $S = 2$. Nel primo caso $I^2 = 4$ o $I^2 = 9$; nel secondo caso le possibilità sono $(S,I) = (1,2),(1,3)$ o $(2,1)$. Poiché $E$ differisce da $I$ e $S$, ci sono opzioni $7$ per $E$ in ogni caso. Se si elencano i possibili prodotti $P = S\times E\times I\times S\times E\times Z$ ed escludono le combinazioni che danno un $Z$ già scelto, ci sono valori $12$ distinti per $P$: $6,10,12,14,15,16,18,20,21,24,28$ e $36$.]
+> Ogni lettera rappresenta una cifra diversa da zero; conta il numero di valori distinti che può assumere il prodotto $P = S\times E\times I\times S\times E\times Z$.
+>
+> [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: poiché tutte le cifre sono diverse da zero, cancellando i termini ripetuti si ottiene $Z = S^3\times I^2$. Poiché $Z$ è una cifra, si ha o $Z = 1$ oppure $S = 2$. Nel primo caso, $I^2 = 4$ oppure $I^2 = 9$; nel secondo caso, le possibilità sono $(S,I) = (1,2),(1,3)$ oppure $(2,1)$. Poiché $E$ differisce da $I$ e da $S$, in ciascun caso ci sono $7$ opzioni per $E$. Elencando i possibili prodotti $P = S\times E\times I\times S\times E\times Z$ ed escludendo le combinazioni che danno un $Z$ già scelto, si ottengono $12$ valori distinti per $P$: $6,10,12,14,15,16,18,20,21,24,28$ e $36$.]
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n1_f1#q20|src_obm_2016_n1_f1__Q20]]

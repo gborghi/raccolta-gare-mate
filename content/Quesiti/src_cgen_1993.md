@@ -12,56 +12,110 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Perfect weight box: characterize and count by factorization, total mass 1993g*
+*Boîtes de poids parfaites : masses obtenues de manière unique*
 
-> We call a **box of weights** any finite set of weights consisting of:
-> $$x_1 \text{ weights of } d_1 \text{ grams each,}$$
-> $$x_2 \text{ weights of } d_2 \text{ grams each,}$$
-> $$\vdots$$
-> $$x_k \text{ weights of } d_k \text{ grams each.}$$
-> The numbers $x_i$ and $d_i$ (for $1 \le i \le k$) are non-zero natural numbers such that
-> $$1 \le d_1 < d_2 < \cdots < d_k.$$
-> We set $n = x_1 d_1 + x_2 d_2 + \cdots + x_k d_k$ and say that the total mass of the box is $n$ grams.
-> 
-> A box of weights is called **perfect** if it allows one to obtain, in a unique way, every mass $m$ from $\{0, 1, \ldots, n\}$: that is, for every integer $m$ in $\{0, 1, \ldots, n\}$, there exist unique integers $y_1, y_2, \ldots, y_k$ such that for every index $i$, $1 \le i \le k$, one has $0 \le y_i \le x_i$, and $m = y_1 d_1 + y_2 d_2 + \cdots + y_k d_k$.
-> 
-> **1.** Determine all boxes of weights of total mass $5$ grams. Which of these are perfect?
-> 
-> **2.** Show that for a perfect box of weights of total mass $n$ grams, one has, with the notation from the preamble:
+> **Exercice I**
+>
+> On appelle « boîte de poids » tout ensemble de poids comprenant $x_1$ poids de $d_1$ grammes chacun, $x_2$ poids de $d_2$ grammes chacun, $\ldots$, $x_k$ poids de $d_k$ grammes chacun.
+>
+> Les nombres $x_i$ et $d_i$ (pour $1 \leqslant i \leqslant k$) sont des entiers naturels non nuls, tels que
+>
+> $$1 \leqslant d_1 < d_2 < \cdots < d_k.$$
+>
+> On pose $n = x_1 d_1 + x_2 d_2 + \cdots + x_k d_k$ et on dit que la masse totale de la boîte de poids est $n$ grammes.
+>
+> Cette boîte de poids est dite « parfaite » si elle permet d'obtenir, de manière unique, toute masse de $0, 1, \ldots, n$ grammes, c'est-à-dire si, pour tout entier $m$ de l'ensemble $\{0, 1, \ldots, n\}$, il existe des entiers $y_1, y_2, \ldots, y_k$ uniques tels que, pour tout indice $i$ avec $1 \leqslant i \leqslant k$, on ait
+>
+> $$0 \leqslant y_i \leqslant x_i \quad \text{et} \quad m = y_1 d_1 + y_2 d_2 + \cdots + y_k d_k.$$
+>
+> 1. Déterminer toutes les boîtes de poids de masse totale $5$ grammes. Quelles sont celles qui sont parfaites ?
+> 2. Montrer que pour une boîte de poids parfaite de masse totale $n$ grammes, on a, avec les notations du préambule,
+>
 > $$(1 + x_1)(1 + x_2) \cdots (1 + x_k) = n + 1.$$
-> 
-> **3.** Conversely, given $k$ strictly positive integers $x_1, x_2, \ldots, x_k$ ($k$ non-zero) such that
-> $$n + 1 = (1 + x_1)(1 + x_2) \cdots (1 + x_k),$$
-> show that there exist integers $d_1, d_2, \ldots, d_k$ with $1 \le d_1 < d_2 < \cdots < d_k$ such that the box of weights composed of $x_1$ weights of $d_1$ grams, $x_2$ weights of $d_2$ grams, $\ldots$, $x_k$ weights of $d_k$ grams is perfect.
-> 
-> **4.** Determine all perfect boxes of weights of total mass $1993$ grams.
+>
+> 3. Inversement, on se donne $k$ entiers $x_1, x_2, \ldots, x_k$ strictement positifs ($k$ non nul), et on définit $n$ par
+>
+> $$n + 1 = (1 + x_1)(1 + x_2) \cdots (1 + x_k).$$
+>
+> Montrer qu'il existe des entiers $d_1, d_2, \ldots, d_k$ uniques avec $1 \leqslant d_1 < d_2 < \cdots < d_k$ tels que la boîte de poids composée de $x_1$ poids de $d_1$ grammes, $x_2$ poids de $d_2$ grammes, $\ldots$, $x_k$ poids de $d_k$ grammes soit parfaite.
+> 4. Déterminer toutes les boîtes de poids parfaites de masse totale $1993$ grammes.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]], [[topic_combinatoria|Combinatoire]]
+**Metodo:** [[method_fattorizzazione|Factorisation]], [[method_conteggio|Dénombrement]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_lettura_attenta|Lecture attentive]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]], [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa totale 1993g
+*Scatole di pesi perfette: masse ottenute in modo unico*
 
-> Chiamiamo una scatola di pesi **** qualsiasi insieme finito di pesi composto da: $$x_1 \text{ weights of } d_1 \text{ grams each,}$$ $$x_2 \text{ weights of } d_2 \text{ grams each,}$$ $$\vdots$$ $$x_k \text{ weights of } d_k \text{ grams each.}$$ $$x_k \text{ weights of } d_k \text{ grams each.}$$ I numeri $x_i$ e $d_i$ (per $1 \le i \le k$) sono numeri naturali non zero come $$1 \le d_1 < d_2 < \cdots < d_k.$$ Settiamo $n = x_1 d_1 + x_2 d_2 + \cdots + x_k d_k$ e diciamo che la massa totale della scatola è $n$ grammi.
-> 
-> Una scatola di pesi è chiamata **perfetta** se consente di ottenere, in modo unico, ogni massa $m$ da $\{0, 1, \ldots, n\}$: cioè, per ogni intero $m$ in $\{0, 1, \ldots, n\}$, esistono enti unici $y_1, y_2, \ldots, y_k$ in modo che per ogni indice $i$, $1 \le i \le k$, si abbia $0 \le y_i \le x_i$ e $m = y_1 d_1 + y_2 d_2 + \cdots + y_k d_k$.
-> 
-> **1.** Determinare tutte le scatole di pesi di massa totale $5$ grammi. Quale di queste è perfetta?
-> 
-> **2.** Indicare che per una casella perfetta di pesi di massa totale $n$ grammi, si ha, con la notazione del preambolo: $$(1 + x_1)(1 + x_2) \cdots (1 + x_k) = n + 1.$$
-> 
-> **3.** Invece, dati $k$ numeri interi rigorosamente positivi $x_1, x_2, \ldots, x_k$ ($k$ non zero) in modo che $$n + 1 = (1 + x_1)(1 + x_2) \cdots (1 + x_k),$$ dimostri che esistono numeri interi $d_1, d_2, \ldots, d_k$ con $1 \le d_1 < d_2 < \cdots < d_k$ in modo che la scatola di pesi composta da pesi $x_1$ di grammi $d_1$, pesi $x_2$ di grammi $d_2$, pesi $\ldots$ di grammi $x_k$ sia perfetta.
-> 
-> **4.** Determina tutte le scatole perfette di pesi di massa totale $1993$ grammi.
+> **Esercizio I**
+>
+> Si chiama «scatola di pesi» ogni insieme di pesi che comprende $x_1$ pesi di $d_1$ grammi ciascuno, $x_2$ pesi di $d_2$ grammi ciascuno, $\ldots$, $x_k$ pesi di $d_k$ grammi ciascuno.
+>
+> I numeri $x_i$ e $d_i$ (per $1 \leqslant i \leqslant k$) sono interi positivi, tali che
+>
+> $$1 \leqslant d_1 < d_2 < \cdots < d_k.$$
+>
+> Si ponga $n = x_1 d_1 + x_2 d_2 + \cdots + x_k d_k$ e si dica che la massa totale della scatola di pesi è $n$ grammi.
+>
+> Questa scatola di pesi si dice «perfetta» se permette di ottenere, in modo unico, ogni massa di $0, 1, \ldots, n$ grammi: cioè se, per ogni intero $m$ dell'insieme $\{0, 1, \ldots, n\}$, esistono interi $y_1, y_2, \ldots, y_k$ unici tali che, per ogni indice $i$ con $1 \leqslant i \leqslant k$,
+>
+> $$0 \leqslant y_i \leqslant x_i \quad \text{e} \quad m = y_1 d_1 + y_2 d_2 + \cdots + y_k d_k.$$
+>
+> 1. Determinare tutte le scatole di pesi di massa totale $5$ grammi. Quali sono perfette?
+> 2. Dimostrare che per una scatola di pesi perfetta di massa totale $n$ grammi, con le notazioni del preambolo,
+>
+> $$(1 + x_1)(1 + x_2) \cdots (1 + x_k) = n + 1.$$
+>
+> 3. Inversamente, sono dati $k$ interi $x_1, x_2, \ldots, x_k$ strettamente positivi ($k$ non nullo), e si definisce $n$ mediante
+>
+> $$n + 1 = (1 + x_1)(1 + x_2) \cdots (1 + x_k).$$
+>
+> Dimostrare che esistono interi $d_1, d_2, \ldots, d_k$ unici con $1 \leqslant d_1 < d_2 < \cdots < d_k$ tali che la scatola di pesi composta da $x_1$ pesi di $d_1$ grammi, $x_2$ pesi di $d_2$ grammi, $\ldots$, $x_k$ pesi di $d_k$ grammi sia perfetta.
+> 4. Determinare tutte le scatole di pesi perfette di massa totale $1993$ grammi.
+
+[[Quesiti/src_cgen_1993#q01|src_cgen_1993__Q01]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Perfect weight boxes: masses obtained in a unique way*
+
+> **Exercise I**
+>
+> A "weight box" is any set of weights comprising $x_1$ weights of $d_1$ grams each, $x_2$ weights of $d_2$ grams each, $\ldots$, $x_k$ weights of $d_k$ grams each.
+>
+> The numbers $x_i$ and $d_i$ (for $1 \leqslant i \leqslant k$) are positive integers, such that
+>
+> $$1 \leqslant d_1 < d_2 < \cdots < d_k.$$
+>
+> Set $n = x_1 d_1 + x_2 d_2 + \cdots + x_k d_k$, and say that the total mass of the weight box is $n$ grams.
+>
+> This weight box is called "perfect" if it allows one to obtain, in a unique way, every mass of $0, 1, \ldots, n$ grams: that is, if for every integer $m$ in the set $\{0, 1, \ldots, n\}$ there exist unique integers $y_1, y_2, \ldots, y_k$ such that, for every index $i$ with $1 \leqslant i \leqslant k$,
+>
+> $$0 \leqslant y_i \leqslant x_i \quad \text{and} \quad m = y_1 d_1 + y_2 d_2 + \cdots + y_k d_k.$$
+>
+> 1. Determine all weight boxes of total mass $5$ grams. Which of them are perfect?
+> 2. Prove that for a perfect weight box of total mass $n$ grams, with the notation of the preamble,
+>
+> $$(1 + x_1)(1 + x_2) \cdots (1 + x_k) = n + 1.$$
+>
+> 3. Conversely, one is given $k$ strictly positive integers $x_1, x_2, \ldots, x_k$ ($k$ nonzero), and $n$ is defined by
+>
+> $$n + 1 = (1 + x_1)(1 + x_2) \cdots (1 + x_k).$$
+>
+> Prove that there exist unique integers $d_1, d_2, \ldots, d_k$ with $1 \leqslant d_1 < d_2 < \cdots < d_k$ such that the weight box made of $x_1$ weights of $d_1$ grams, $x_2$ weights of $d_2$ grams, $\ldots$, $x_k$ weights of $d_k$ grams is perfect.
+> 4. Determine all perfect weight boxes of total mass $1993$ grams.
+
+[[Quesiti/src_cgen_1993#q01|src_cgen_1993__Q01]]
 
 
 
@@ -113,107 +167,190 @@ Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa 
 > 
 > Si può usare l'identità $1^2 + 2^2 + \cdots + n^2 = \left[\dfrac{n(n+1)}{2}\right]^2$.
 
+[[Quesiti/src_cgen_1993#q02|src_cgen_1993__Q02]]
+
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,topic_algebra,method_estremalita,method_backward,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Bounded-below function on Z with midpoint inequality implies constant*
+*Fonction minorée strictement convexe sur Z : elle est constante*
 
-> Let $f$ be an application from $\mathbb{Z}$ to the set $\mathbb{R}$ of real numbers. Suppose that $f$ is bounded below and satisfies: for every relative integer $n$,
-> $$f(n) > \frac{1}{2}|f(n+1) + f(n-1)|.$$
-> Show that the application $f$ is constant.
+> **Exercice 3**
+>
+> Soit $f$ une application de l'ensemble $\mathbb{Z}$ des entiers relatifs dans l'ensemble $\mathbb{R}$ des réels.
+>
+> On suppose que $f$ est minorée et vérifie, pour tout entier relatif $n$,
+>
+> $$f(n) > \frac{1}{2}\bigl(f(n+1) + f(n-1)\bigr).$$
+>
+> Montrer que l'application $f$ est constante.
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_backward|Backward]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_insiemi_funzioni|Ensembles et fonctions]], [[topic_algebra|Algèbre]]
+**Metodo:** [[method_estremalita|Extrémalité]], [[method_backward|Raisonnement à rebours]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_lettura_attenta|Lecture attentive]]
+**Area:** [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione di sotto limite su Z con disuguaglianza di punto medio implica costante*
+*Una funzione minorata e strettamente convessa su Z è costante*
 
-> $f$ sia un'applicazione da $\mathbb{Z}$ all'insieme $\mathbb{R}$ di numeri reali. Supponiamo che $f$ sia delimitato di seguito e soddisfi: per ogni numero intero relativo $n$, $$f(n) > \frac{1}{2}|f(n+1) + f(n-1)|.$$ Mostri che l'applicazione $f$ è costante.
+> **Esercizio 3**
+>
+> Sia $f$ un'applicazione dall'insieme $\mathbb{Z}$ degli interi relativi nell'insieme $\mathbb{R}$ dei reali.
+>
+> Si supponga che $f$ sia minorata e verifichi, per ogni intero relativo $n$,
+>
+> $$f(n) > \frac{1}{2}\bigl(f(n+1) + f(n-1)\bigr).$$
+>
+> Dimostrare che l'applicazione $f$ è costante.
+
+[[Quesiti/src_cgen_1993#q03|src_cgen_1993__Q03]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*A function bounded below and strictly convex on Z is constant*
+
+> **Exercise 3**
+>
+> Let $f$ be a map from the set $\mathbb{Z}$ of integers to the set $\mathbb{R}$ of real numbers.
+>
+> Assume that $f$ is bounded from below and satisfies, for every integer $n$,
+>
+> $$f(n) > \frac{1}{2}\bigl(f(n+1) + f(n-1)\bigr).$$
+>
+> Prove that the map $f$ is constant.
+
+[[Quesiti/src_cgen_1993#q03|src_cgen_1993__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_estremalita,method_coordinate,skill_ragionamento_geometrico,skill_stima,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Covering a unit disk with two or three equal disks of radius r < 1*
+*Recouvrement d'un disque de rayon 1 par deux ou trois disques de rayon r < 1*
 
-> Let $D$ be a disk of radius $1$ in the plane.
-> 
-> **1.** Show that it is impossible to cover the disk $D$ with two disks of the same radius $r$, when $r$ is strictly less than $1$.
-> 
-> **2.** Show that, for certain values of $r < 1$, it is possible to cover the disk $D$ with three disks of the same radius $r$. What is the smallest value of $r$ permitting such a covering?
+> **Exercice 4**
+>
+> Soit dans le plan un disque $D$ de rayon $1$.
+>
+> 1. Montrer qu'il est impossible de recouvrir le disque $D$ avec deux disques de même rayon $r$, lorsque $r$ est strictement inférieur à $1$.
+> 2. Montrer que, pour certaines valeurs de $r$, avec $r < 1$, il est possible de recouvrir le disque $D$ avec trois disques de même rayon $r$. Quelle est la plus petite valeur de $r$ permettant un tel recouvrement ?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]]
+**Metodo:** [[method_estremalita|Extrémalité]], [[method_coordinate|Coordonnées]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_stima|Estimation]], [[skill_lettura_attenta|Lecture attentive]]
+**Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coperta di un disco unitario con due o tre dischi uguali di raggio r < 1*
+*Ricoprire un disco di raggio 1 con due o tre dischi di raggio r < 1*
 
-> Si deve $D$ essere un disco di raggio $1$ nel piano.
-> 
-> **1.** Indicare che è impossibile coprire il disco $D$ con due dischi dello stesso raggio $r$, quando $r$ è strettamente inferiore a $1$.
-> 
-> **2.** Indicare che, per alcuni valori di $r < 1$, è possibile coprire il disco $D$ con tre dischi dello stesso raggio $r$. Qual è il valore minimo di $r$ che consente tale copertura?
+> **Esercizio 4**
+>
+> Sia nel piano un disco $D$ di raggio $1$.
+>
+> 1. Dimostrare che è impossibile ricoprire il disco $D$ con due dischi dello stesso raggio $r$, quando $r$ è strettamente minore di $1$.
+> 2. Dimostrare che, per certi valori di $r$ con $r < 1$, è possibile ricoprire il disco $D$ con tre dischi dello stesso raggio $r$. Qual è il più piccolo valore di $r$ che permette un tale ricoprimento?
+
+[[Quesiti/src_cgen_1993#q04|src_cgen_1993__Q04]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Covering a disk of radius 1 by two or three disks of radius r < 1*
+
+> **Exercise 4**
+>
+> Let $D$ be a disk of radius $1$ in the plane.
+>
+> 1. Prove that it is impossible to cover the disk $D$ with two disks of the same radius $r$, when $r$ is strictly less than $1$.
+> 2. Prove that, for some values of $r$ with $r < 1$, it is possible to cover the disk $D$ with three disks of the same radius $r$. What is the smallest value of $r$ that allows such a covering?
+
+[[Quesiti/src_cgen_1993#q04|src_cgen_1993__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,topic_geometria_piana,topic_disuguaglianze,method_estremalita,method_disuguaglianze,skill_ragionamento_geometrico,skill_stima,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Optimal triangles MAB by area/perimeter; maximize V/L^3 for a tetrahedron*
+*Triangles d'aire ou de périmètre extrémal ; maximum de V/L^3 pour un tétraèdre*
 
-> Let $A$ and $B$ be two distinct points in space.
-> 
-> **1.** Let $M$ be a point in space.
-> 
-> **a.** Among all triangles $MAB$ with a given area, which have minimal perimeter?
-> 
-> **b.** Among all triangles $MAB$ with a given perimeter, which have maximal area?
-> 
-> **2.** In a tetrahedron of volume $V$, let $a, b, c, d$ be four edges such that any three of them are non-coplanar, and let $L = a + b + c + d$.
-> 
-> Determine the maximum value of the quotient $\dfrac{V}{L^3}$.
+> **Exercice 5**
+>
+> 1. Soient $A$ et $B$ deux points distincts de l'espace.
+>
+> a. Parmi les triangles $MAB$ d'aire donnée, quels sont ceux de périmètre minimal ?
+>
+> b. Parmi les triangles $MAB$ de périmètre donné, quels sont ceux d'aire maximale ?
+>
+> 2. Soit, dans un tétraèdre de volume $V$, $a$, $b$, $c$, $d$ les longueurs de quatre arêtes telles que trois quelconques d'entre elles ne soient pas coplanaires, et $L = a + b + c + d$.
+>
+> Déterminer la valeur maximale du quotient
+>
+> $$\frac{V}{L^3}.$$
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Topic:** [[topic_geometria_solida|Géométrie dans l'espace]], [[topic_geometria_piana|Géométrie plane]], [[topic_disuguaglianze|Inégalités]]
+**Metodo:** [[method_estremalita|Extrémalité]], [[method_disuguaglianze|Inégalités]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_stima|Estimation]], [[skill_modellizzazione|Modélisation]], [[skill_lettura_attenta|Lecture attentive]]
+**Area:** [[Geometria|Géométrie]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli ottimali MAB per area/perimetro; massimizzazione di V/L^3 per un tetraedro*
+*Triangoli di area o perimetro estremale; massimo di V/L^3 per un tetraedro*
 
-> Lasciate che $A$ e $B$ siano due punti distinti nello spazio.
-> 
-> **1.** $M$ sia un punto nello spazio.
-> 
-> Tra tutti i triangoli $MAB$ con una determinata area, che hanno un perimetro minimo?
-> 
-> Tra tutti i triangoli $MAB$ con un determinato perimetro, che hanno superficie massima?
-> 
-> **2.** In un tetraedro di volume $V$, $a, b, c, d$ deve avere quattro bordi in modo che ognuno di essi sia non coplanare e $L = a + b + c + d$.
-> 
-> Determinare il valore massimo del quotiente $\dfrac{V}{L^3}$.
+> **Esercizio 5**
+>
+> 1. Siano $A$ e $B$ due punti distinti dello spazio.
+>
+> a. Tra i triangoli $MAB$ di area data, quali hanno perimetro minimo?
+>
+> b. Tra i triangoli $MAB$ di perimetro dato, quali hanno area massima?
+>
+> 2. In un tetraedro di volume $V$, siano $a$, $b$, $c$, $d$ le lunghezze di quattro spigoli tali che tre qualunque di essi non siano complanari, e sia $L = a + b + c + d$.
+>
+> Determinare il valore massimo del quoziente
+>
+> $$\frac{V}{L^3}.$$
+
+[[Quesiti/src_cgen_1993#q05|src_cgen_1993__Q05]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Triangles of extremal area or perimeter; maximum of V/L^3 for a tetrahedron*
+
+> **Exercise 5**
+>
+> 1. Let $A$ and $B$ be two distinct points of space.
+>
+> a. Among the triangles $MAB$ of given area, which ones have minimal perimeter?
+>
+> b. Among the triangles $MAB$ of given perimeter, which ones have maximal area?
+>
+> 2. In a tetrahedron of volume $V$, let $a$, $b$, $c$, $d$ be the lengths of four edges such that any three of them are not coplanar, and let $L = a + b + c + d$.
+>
+> Determine the maximal value of the quotient
+>
+> $$\frac{V}{L^3}.$$
+
+[[Quesiti/src_cgen_1993#q05|src_cgen_1993__Q05]]

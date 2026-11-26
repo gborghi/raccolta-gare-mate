@@ -30,11 +30,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i multipli di 7 che sono 4 volte un quadrato perfetto, fino a 10^9*
+*Quanti multipli positivi di un intero, non superiori a un dato valore, hanno una data forma*
 
 > Quanti multipli positivi di $7$ che non superano $10^9$ sono della forma $4k^2$ per qualche intero positivo $k$?
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 14
+[[Quesiti/src_jmo30yq_yosen#q01|src_jmo30yq_yosen__Q01]]
 
 
 
@@ -60,13 +64,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esagono regolare, triangolo equilaterale CGH all'interno, area del triangolo EFH*
+*Area di un triangolo equilatero interno a un esagono regolare*
 
-> Un esagono regolare $ABCDEF$ ha una lunghezza laterale $1$. Il punto medio del lato $AB$ è $G$. Un punto $H$ è preso all'interno dell'esagono in modo che il triangolo $CGH$ sia equilaterale. Trova l'area del triangolo $EFH$.
+> Un esagono regolare $ABCDEF$ ha lato $1$. Sia $G$ il punto medio del lato $AB$. Si prende un punto $H$ interno all'esagono tale che il triangolo $CGH$ sia equilatero. Trovare l'area del triangolo $EFH$.
 
 ![[src_jmo30yq_yosen__q02.png]]
 
-**Risposta:** \frac{\sqrt{3}}{8}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $\frac{\sqrt{3}}{8}$
+[[Quesiti/src_jmo30yq_yosen#q02|src_jmo30yq_yosen__Q02]]
 
 
 
@@ -90,11 +98,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi di conteggio di 1-6 in griglia 2x3 con celle adiacenti diverse*
+*Disposizioni di interi in una griglia, con valori diversi su caselle che condividono un lato*
 
-> Riempire ogni cella di una griglia $2 \times 3$ con i numeri interi $1, 2, 3, 4, 5, 6$ (ciascuno utilizzato esattamente una volta) in modo che due celle che condividono un bordo contengano numeri diversi. Quante sono queste disposizioni? Due accordi che coincidono dopo la rotazione o la riflessione sono ancora considerati come distinti.
+> Si riempia ogni casella di una griglia $2 \times 3$ con gli interi $1, 2, 3, 4, 5, 6$ (ciascuno usato esattamente una volta) in modo che due caselle qualunque che condividono un lato contengano numeri diversi. Quante sono tali disposizioni? Due disposizioni che coincidono dopo una rotazione o una riflessione si contano comunque come distinte.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
 **Risposta:** 16
+[[Quesiti/src_jmo30yq_yosen#q03|src_jmo30yq_yosen__Q03]]
 
 
 
@@ -118,11 +130,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contate i numeri interi positivi n dove le somme digitali di n^2 e n^3 sono ciascuna da 1 a 8*
+*Interi positivi le cui somme delle cifre stanno in un intervallo*
 
-> Trova il numero di interi positivi $n$ in modo tale che la somma digitali di $n^2$ e la somma digitali di $n^3$ si trovino ciascuna in $\{1, 2, 3, 4, 5, 6, 7, 8\}$ (cioè\ entrambe le somme digitali sono tra $1$ e $8$ incluse).
+> Trovare il numero di interi positivi $n$ tali che la somma delle cifre di $n^2$ e la somma delle cifre di $n^3$ stiano ciascuna in $\{1, 2, 3, 4, 5, 6, 7, 8\}$ (cioè entrambe le somme delle cifre sono comprese tra $1$ e $8$ inclusi).
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 24
+[[Quesiti/src_jmo30yq_yosen#q04|src_jmo30yq_yosen__Q04]]
 
 
 
@@ -148,11 +164,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La minore n positiva uguale a (x1^2-1) ((x2^2-2)...(x10^2-10) per gli integri xi*
+*Il minimo intero positivo scrivibile come una certa espressione*
 
-> Un intero positivo $n$ viene chiamato *scrivibile* se esistono interi $x_1, x_2, \ldots, x_{10}$ in modo tale che $$n = (x_1^2 - 1)(x_2^2 - 2)(x_3^2 - 3) \cdots (x_{10}^2 - 10).$$ Trova il più piccolo intero positivo scrivibile.
+> Un intero positivo $n$ si dice *scrivibile* se esistono interi $x_1, x_2, \ldots, x_{10}$ tali che
+>
+> $$n = (x_1^2 - 1)(x_2^2 - 2)(x_3^2 - 3) \cdots (x_{10}^2 - 10).$$
+>
+> Trovare il minimo intero positivo scrivibile.
 
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Risposta:** 84
+[[Quesiti/src_jmo30yq_yosen#q05|src_jmo30yq_yosen__Q05]]
 
 
 
@@ -178,13 +202,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre quadrati nidificati con due vertici condivisi, trovare area ombrata*
+*Area della regione ombreggiata fra tre quadrati*
 
-> Ci sono tre quadrati nell'aereo. Come mostrato nella figura, due dei quattro vertici del più piccolo quadrato coincidono con due vertici del più grande quadrato, e le estensioni diagonali del più piccolo quadrato passano attraverso il vertice inferiore a sinistra del più grande quadrato. La lunghezza laterale del più piccolo quadrato è $1$ e la lunghezza laterale del più grande quadrato è $3$. Trova l'area dell'ombra.
+> Nel piano ci sono tre quadrati. Come in figura, due dei quattro vertici del quadrato più piccolo coincidono con due vertici del quadrato più grande, e i prolungamenti della diagonale del quadrato più piccolo passano per il vertice in basso a sinistra del quadrato più grande. Il lato del quadrato più piccolo è $1$ e il lato del quadrato più grande è $3$. Trovare l'area della regione ombreggiata.
 
 ![[src_jmo30yq_yosen__q06.png]]
 
-**Risposta:** \frac{\sqrt{17}-1}{4}
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Risposta:** $\frac{\sqrt{17}-1}{4}$
+[[Quesiti/src_jmo30yq_yosen#q06|src_jmo30yq_yosen__Q06]]
 
 
 
@@ -208,11 +236,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i riempimenti della griglia 2x1010 con 1-5 in modo tale che le celle adiacenti differiscano di 2 o 3*
+*Disposizioni di interi in una griglia con differenza assoluta fissata fra caselle adiacenti*
 
-> Riempire ciascuna cella di una griglia $2 \times 1010$ con un numero intero da $1$ a $5$ (repetimento consentito) in modo che due celle che condividono un bordo contengano numeri la cui differenza assoluta è $2$ o $3$. Quante sono queste disposizioni? Gli accordi che coincidono dopo la rotazione o la riflessione sono considerati distinti.
+> Si riempia ogni casella di una griglia $2 \times 1010$ con un intero da $1$ a $5$ (ripetizioni ammesse) in modo che due caselle qualunque che condividono un lato contengano numeri la cui differenza assoluta è $2$ oppure $3$. Quante sono tali disposizioni? Disposizioni che coincidono dopo una rotazione o una riflessione si contano come distinte.
 
-**Risposta:** 10 \cdot 3^{1009}
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio combinatorio]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $10 \cdot 3^{1009}$
+[[Quesiti/src_jmo30yq_yosen#q07|src_jmo30yq_yosen__Q07]]
 
 
 
@@ -241,11 +273,20 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di 100 integri positivi che soddisfano due condizioni, trovare minimo a_100*
+*Minimo valore possibile di un termine di una successione di interi positivi*
 
-> Una sequenza $a_1, a_2, \ldots, a_{100}$ di numeri interi positivi soddisfa: \begin{itemize} \item[(i)] Per tutti $2 \le k \le 100$: $a_{k-1} < a_k$. \item[(ii) Per tutti $6 \le k \le 100$: $a_k$ è uguale a uno di $2a_1, 2a_2, \ldots, 2a_{k-1}$. \end{itemize} Trova il minimo possibile valore di $a_{100}$.
+> Una successione $a_1, a_2, \ldots, a_{100}$ di interi positivi soddisfa:
+> \begin{itemize}
+> \item[(i)] per tutti i $2 \le k \le 100$: $a_{k-1} < a_k$;
+> \item[(ii)] per tutti i $6 \le k \le 100$: $a_k$ è uguale a uno di $2a_1, 2a_2, \ldots, 2a_{k-1}$.
+> \end{itemize}
+> Trovare il minimo valore possibile di $a_{100}$.
 
-**Risposta:** 2^{19} \cdot 9
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Risposta:** $2^{19} \cdot 9$
+[[Quesiti/src_jmo30yq_yosen#q08|src_jmo30yq_yosen__Q08]]
 
 
 
@@ -273,13 +314,21 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale moltiplicativa f(mn)=f(m)^f(n), trovare il minimo di f(f(n))*
+*Minimo di un'iterata, con una formula non del tutto leggibile nella scansione*
 
-> $f$ deve essere una funzione definita sull'insieme di integri $\ge 2$ che assume valori nell'insieme di integri $\ge 2$, in modo tale che per tutti gli integri $m, n \ge 2$, $$f(mn) = f(m)^{f(n)}.$$ Trovare il valore minimo possibile di $f(f^{(0)})$, dove $f^{(n)}$ indica la composizione $n$-fold di $f$.
-> 
-> *(Nota: l'espressione esatta nell'esponente/composto non è stata completamente leggibile nella scansione. In base al contesto e alla chiave di risposta, il problema chiede il valore minimo raggiunto da $f$ composto da sé su tutte le funzioni valide $f$, che equivale a $4$.) *
+> Sia $f$ una funzione definita sull'insieme di interi $\ge 2$, a valori nell'insieme di interi $\ge 2$, tale che per tutti gli interi $m, n \ge 2$
+>
+> $$f(mn) = f(m)^{f(n)}.$$
+>
+> Trovare il minimo valore possibile di $f(f^{(0)})$, dove $f^{(n)}$ indica la composizione $n$ volte di $f$.
+>
+> *(Nota: l'espressione esatta nell'esponente o nella composizione non era del tutto leggibile nella scansione. In base al contesto e alle soluzioni, il problema chiede il minimo valore assunto da $f$ composta con sé stessa su tutte le funzioni ammissibili $f$, e questo minimo è $4$.)*
 
+**Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 4
+[[Quesiti/src_jmo30yq_yosen#q09|src_jmo30yq_yosen__Q09]]
 
 
 
@@ -307,15 +356,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizionare 4 pezzi neri e 4 bianchi su scacchi 8x8, uno per riga/colonna, ordini di conteggio*
+*Disposizioni di pezzi neri e bianchi su una scacchiera, uno per riga e per colonna, sulla casella del proprio colore*
 
-> Considerate una scacchiera $8 \times 8$ (con quadrati in bianco e nero alternati nel solito colore). Posizionare sul tabellone $4$ pezzi neri e $4$ pezzi bianchi, un pezzo per riga e un pezzo per colonna (così sono occupate esattamente le celle $8$), a condizione che in ogni riga e in ogni colonna ci sia esattamente un pezzo $1$, che viene posto su una cella nera se è un pezzo nero e su una cella bianca se è un pezzo bianco.
-> 
-> Gli accordi che coincidono dopo la rotazione o la riflessione sono ancora considerati come distinti. Quante sono queste disposizioni?
+> Si consideri una scacchiera $8 \times 8$ (con caselle nere e bianche alternate, nella colorazione usuale). Si pongano $4$ pezzi neri e $4$ pezzi bianchi sulla scacchiera, un pezzo per riga e un pezzo per colonna (così sono occupate esattamente $8$ caselle), con la condizione seguente: in ogni riga e in ogni colonna c'è esattamente $1$ pezzo, posto su una casella nera se è un pezzo nero e su una casella bianca se è un pezzo bianco.
+>
+> Disposizioni che coincidono dopo una rotazione o una riflessione si contano comunque come distinte. Quante sono tali disposizioni?
 
 ![[src_jmo30yq_yosen__q10.png]]
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 20736
+[[Quesiti/src_jmo30yq_yosen#q10|src_jmo30yq_yosen__Q10]]
 
 
 
@@ -339,11 +392,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo con 5 punti, due cerchi tangenti si incontrano a K, trovare lunghezza CQ*
+*Lunghezza di una corda, date due circonferenze tangenti e punti medi*
 
-> Cinque punti $A, B, C, D, P$ si trovano su un cerchio $\Omega$ in questo ordine. Il cerchio che attraversa $P$ e tangente alla linea $AB$ a $A$, e il cerchio che attraversa $P$ e tangente alla linea $CD$ a $D$, si intersecano in un punto $K$ all'interno di $\Omega$. $M$ e $N$ siano rispettivamente i punti medi degli accordi $AB$ e $CD$. Si ritiene che i tre punti $A$, $K$, $N$ siano collineari e i tre punti $D$, $K$, $M$ siano collineari. Dato $AK = 5$, $DK = 3$, $KM = 7$, $Q$ deve essere l'intersezione della linea $PK$ con $\Omega$ diversa da $P$. Trova la lunghezza $CQ$, dove $XY$ indica la lunghezza del segmento $XY$.
+> Cinque punti $A, B, C, D, P$ stanno su una circonferenza $\Omega$, in quest'ordine. La circonferenza passante per $P$ e tangente alla retta $AB$ in $A$, e la circonferenza passante per $P$ e tangente alla retta $CD$ in $D$, si intersecano in un punto $K$ interno a $\Omega$. Siano $M$ e $N$ i punti medi delle corde $AB$ e $CD$ rispettivamente. È dato che i tre punti $A$, $K$, $N$ sono allineati, e i tre punti $D$, $K$, $M$ sono allineati. Dati $AK = 5$, $DK = 3$, $KM = 7$, sia $Q$ l'intersezione della retta $PK$ con $\Omega$, diversa da $P$. Trovare la lunghezza $CQ$, dove $XY$ indica la lunghezza del segmento $XY$.
 
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 11
+[[Quesiti/src_jmo30yq_yosen#q11|src_jmo30yq_yosen__Q11]]
 
 
 
@@ -372,8 +429,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza massima di buona sequenza di numeri interi positivi distinti non superiore a 30 con modello di divisibilità*
+*Lunghezza massima di una successione buona*
 
-> Per un intero positivo $k$, una sequenza di $k$ diversi interi positivi $a_1, a_2, \ldots, a_k$ è chiamata *buona sequenza* se soddisfa entrambe le seguenti condizioni: \begin{itemize} item \Tutti i termini sono al massimo $30$. \item Per ogni $i = 1, 2, \ldots, k-1$: se $i$ è pari, allora $a_{i+1}$ è un multiple di $a_i$; se $i$ è pari, allora $a_{i+1}$ è un divisore di $a_i$. Trova la lunghezza massima possibile di una buona sequenza.
+> Per un intero positivo $k$, una successione di $k$ interi positivi distinti $a_1, a_2, \ldots, a_k$ si dice *successione buona* se soddisfa entrambe le condizioni seguenti:
+> \begin{itemize}
+> \item tutti i termini sono al più $30$;
+> \item per ogni $i = 1, 2, \ldots, k-1$: se $i$ è dispari, allora $a_{i+1}$ è un multiplo di $a_i$; se $i$ è pari, allora $a_{i+1}$ è un divisore di $a_i$.
+> \end{itemize}
+> Trovare la massima lunghezza possibile di una successione buona.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]]
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 23
+[[Quesiti/src_jmo30yq_yosen#q12|src_jmo30yq_yosen__Q12]]

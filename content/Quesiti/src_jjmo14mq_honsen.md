@@ -29,9 +29,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Altezza di piedi, due circoncircoli, punto medio dell'accordo*
+*Piedi di altitudine, due circonferenze circoscritte, punto medio della corda*
 
-> Lasciate che $ABC$ sia un triangolo acuto. I gradi $D$, $E$, $F$ siano i piedi delle altitudini da $A$, $B$, $C$ ai lati $BC$, $CA$ e $AB$, rispettivamente. Il $G$ deve essere l'intersezione della linea $AD$ con la linea $EF$. Tra le intersezioni del circoncircolo del triangolo $DFG$ con il lato $AB$, $P$ deve essere quella che non è $F$. Tra le intersezioni del circoncircolo del triangolo $DEG$ con il lato $AC$, $Q$ sia quella che non è $E$. Prova che la riga $DG$ divide il segmento $PQ$.
+> Sia $ABC$ un triangolo acutangolo. Siano $D$, $E$, $F$ i piedi delle altezze condotte da $A$, $B$, $C$ sui lati $BC$, $CA$, $AB$, rispettivamente. Sia $G$ l'intersezione della retta $AD$ con la retta $EF$. Tra gli intersegmenti della circonferenza circoscritta al triangolo $DFG$ con il lato $AB$, sia $P$ quello che non è $F$. Tra gli intersegmenti della circonferenza circoscritta al triangolo $DEG$ con il lato $AC$, sia $Q$ quello che non è $E$. Dimostrare che la retta $DG$ biseca il segmento $PQ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo14mq_honsen#q01|src_jjmo14mq_honsen__Q01]]
 
 
 
@@ -56,11 +63,18 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n×n griglia latina di fila, massimizzare le coppie di numeri uguali adiacenti*
+*Griglia latina a righe n×n: massimizza le coppie adiacenti di numeri uguali*
 
-> $n \ge 2$ sia un numero intero. Considera una griglia di celle $n \times n$, in cui ogni cella contiene un numero intero da $1$ a $n$. Ogni numero intero da $1$ a $n$ appare esattamente una volta in ogni riga. Due cellule sono chiamate "coppie vicine" se condividono un lato (non solo un vertex). Trova il numero massimo possibile di coppie di cellule vicine che contengono lo stesso numero intero.
-> 
-> (Nota: due cellule che condividono solo una vertica non sono considerate vicine.)
+> Sia $n \ge 2$ un numero intero. Si consideri una griglia di $n \times n$ celle, in cui ciascuna cella contiene un numero intero compreso tra $1$ e $n$. Ogni numero intero compreso tra $1$ e $n$ compare esattamente una volta in ogni riga. (Nelle colonne possono esserci ripetizioni.) Due celle si dicono "coppia di celle vicine" se condividono un lato (e non solo un vertice). Determinare il numero massimo possibile di coppie di celle vicine che contengono lo stesso numero intero.
+>
+> (Nota: due celle che condividono solo un vertice non sono considerate vicine.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo14mq_honsen#q02|src_jjmo14mq_honsen__Q02]]
 
 
 
@@ -84,9 +98,17 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare il prodotto di due quadratici con ab+bc+cd=1*
+*Il minimo di (a²+ac+c²)(b²+bd+d²) se ab+bc+cd = 1*
 
-> $a, b, c, d$ siano numeri reali che soddisfino $ab + bc + cd = 1$. Trova il valore minimo di $$(a^2 + ac + c^2)(b^2 + bd + d^2).$$
+> Siano $a, b, c, d$ numeri reali che soddisfano $ab + bc + cd = 1$. Trovare il valore minimo di
+> $$(a^2 + ac + c^2)(b^2 + bd + d^2).$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_jjmo14mq_honsen#q03|src_jjmo14mq_honsen__Q03]]
 
 
 
@@ -109,9 +131,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circumcenter, orthocenter, parallelo a BC, angolazioni uguali*
+*Centro della circonferenza circoscritta, ortocentro, parallelo a BC, angoli uguali*
 
-> Il $ABC$ deve essere un triangolo acuto con il circoncentro $O$ e l'ortocentro $H$. Lascia che la linea che attraversa $O$ parallela a $BC$ si riunisca rispettivamente alle linee $AB$ e $AC$ a $P$ e $Q$. Il $M$ deve essere il punto medio di $AH$. Prova che $\angle BMP = \angle CMQ$.
+> Sia $ABC$ un triangolo acutangolo con circocentro $O$ e ortocentro $H$. Sia $M$ il punto medio di $AH$. Sia la retta passante per $O$ e parallela a $BC$ a intersecare le rette $AB$ e $AC$ rispettivamente nei punti $P$ e $Q$. Dimostrare che $\angle BMP = \angle CMQ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo14mq_honsen#q04|src_jjmo14mq_honsen__Q04]]
 
 
 
@@ -143,10 +172,21 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le compagnie aeree X e Y in n città, viaggiano in m voli evitando Y-after-X*
+*Compagnie aeree X e Y su n città, m voli con evitamento di Y-dopo-X*
 
-> $m$ e $n$ siano integri positivi che soddisfino $\dfrac{m(m+1)}{2} < n$. In un determinato paese ci sono città $n$ e due compagnie aeree $X$ e $Y$. Ogni compagnia aerea opera alcuni voli diretti (non-stop) tra coppie di città. Per ogni città $C$, è impossibile tornare a $C$ effettuando solo voli diretti della stessa compagnia aerea, partendo e terminando a $C$ (cioè nessuna compagnia aerea ha un ciclo attraverso $C$ utilizzando solo i propri voli). Per ogni due città distinte, si può viaggiare da una città all'altra utilizzando solo voli diretti di una compagnia aerea (non necessariamente la stessa compagnia aerea per entrambe le direzioni). Nota: se esiste un volo diretto da città $C$ a città $D$, non esiste necessariamente un volo diretto da $D$ a $C$.
-> 
-> dimostrare che esiste una città da cui è possibile partire e effettuare esattamente $m$ voli diretti in successione, in modo che sia soddisfatta la seguente condizione:
-> 
-> \textit{Condizione: un volo $X$ non viene mai immediatamente seguito da un volo $Y$.}
+> Siano $m$ e $n$ interi positivi tali che $\dfrac{m(m+1)}{2} < n$. In un certo paese ci sono $n$ città e due compagnie aeree, $X$ e $Y$. Ciascuna compagnia aerea opera alcuni voli diretti (senza scali) tra coppie di città. Si sa quanto segue:
+> \begin{itemize}
+> \item Per ogni città $C$, è impossibile tornare a $C$ prendendo solo voli diretti della stessa compagnia aerea, partendo e arrivando a $C$ (ossia, nessuna compagnia aerea ha un ciclo che passa per $C$ utilizzando solo i propri voli). \item Per ogni coppia di città distinte, è possibile spostarsi da una città all'altra utilizzando solo voli diretti di una compagnia aerea (non necessariamente la stessa compagnia aerea per entrambe le direzioni).
+> \end{itemize}
+> Nota: se esiste un volo diretto dalla città $C$ alla città $D$, non è detto che esista un volo diretto da $D$ a $C$.
+>
+> Dimostrare che esiste una città da cui si può partire e prendere esattamente $m$ voli diretti di seguito in modo che sia soddisfatta la seguente condizione:
+>
+> \textit{Condizione: un volo $X$ non è mai immediatamente seguito da un volo $Y$.}
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|topic_combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo14mq_honsen#q05|src_jjmo14mq_honsen__Q05]]

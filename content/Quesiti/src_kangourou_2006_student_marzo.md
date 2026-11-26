@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which product is the largest (isoperimetric)*
+*Which product is the largest (isoperimetric)?*
 
-> Which of the following numbers is the largest? A) 2006×2006  B) 2005×2007   C) 2004×2008  D) 2003×2009   E) 2002×2010
+> Which of the following numbers is the largest?
+> A) 2006×2006  B) 2005×2007   C) 2004×2008  D) 2003×2009   E) 2002×2010
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q01|src_kangourou_2006_student_marzo__Q01]]
 
 
 
@@ -61,13 +66,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max squares that can be added without changing perimeter*
+*Maximum number of small squares that can be added without changing the perimeter*
 
 ![[src_kangourou_2006_student_marzo__prob2.png]]
 
-> Note the figure: You can add more squares to the grey region without increasing the perimeter of the grey region. How many more can you add? A) 0         B) 7          C) 18          D) 12          E) 16
+> Look at the figure: with the small gray-colored squares, you can
+> Add more of them without increasing the perimeter of the region shaded in gray. What is the maximum number you can add?
+> A) 0         B) 7          C) 18          D) 12          E) 16
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q02|src_kangourou_2006_student_marzo__Q02]]
 
 
 
@@ -112,7 +123,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Radius of the circle equivalent to the crown*
+*Radius of the circle equivalent to the annulus*
 
 ![[src_kangourou_2006_student_marzo__prob3.png]]
 
@@ -127,9 +138,18 @@ level: kangourou
 \end{document}
 ```
 
-> Stefania has two pendants made of the same material, the same thickness and weight. Ignoring thickness, one is shaped like a circular crown with an outer radius of 6 cm and an inner radius of 4 cm, the other is simply shaped like a circle. What's its radius in centimeters? A) 4         B) C) 5 D) E)
+> Stefania has two pendants made with the same
+> Material of the same thickness and the same weight. Ignoring thickness, one has the shape of a circular ring with an outer radius of 6 cm and an inner radius of 4 cm; the other simply has the shape of a circle. What is its radius in centimeters?
+> A) 4         B)         
+> C) 5         
+> D)          
+> E)
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q03|src_kangourou_2006_student_marzo__Q03]]
 
 
 
@@ -160,15 +180,18 @@ level: kangourou
 
 *Value of a in an arithmetic progression*
 
-> a, b, c, d, e are five numbers in arithmetic progression. It is known that
-> b = 5.5 and e = 10. What is the value of a?
-> A) 0.5
+> a, b, c, d, e are five numbers in arithmetic progression. It is known that b = 5.5 and e = 10. What is the value of a?
+> A) 0,5
 > B) 3
 > C) 4
-> D) 4.5
+> D) 4,5
 > E) 5
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q04|src_kangourou_2006_student_marzo__Q04]]
 
 
 
@@ -196,11 +219,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of ab data 4^a=9 and 9^b=256*
+*Given values: 4^a = 9 and 9^b = 256*
 
-> If 4a = 9 and 9b = 256, then ab is equal to A) 2006 B) 48 C) 36 D) 10 E) 4
+> If 4a = 9 and 9b = 256, then ab equals
+> A) 2006
+> B) 48
+> C) 36
+> D) 10
+> E) 4
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q05|src_kangourou_2006_student_marzo__Q05]]
 
 
 
@@ -249,37 +281,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which cards to turn over (conditional logic)*
+*Which cards to flip (conditional logic)*
 
 ![[src_kangourou_2006_student_marzo__prob6.png]]
 
-> Each of the four cards you see in the figure has a letter on
-> one face and a number on the opposite face. Pietro
-> states: "Whatever the card, if there is a vowel on one face, there is an even number on the opposite face". Alice does not trust him and
-> would like to check. Which cards is it necessary and sufficient
-> for Alice to turn over to establish whether Pietro has told the truth? 
+> Each of the four cards you see in the figure features on
+> One face has a letter, and the opposite face has a number. Pietro states: "Whatever the card, if a vowel appears on one face, an even number appears on the opposite face." Alice doesn't trust him and would like to check. Which cards does Alice need to turn over—and is it sufficient for her to turn only those cards over—in order to determine whether Pietro told the truth?
 > A) U, 7      B) U         C) U, 4, 7            D) U, 4            E) U, K, 4, 7
-> 4 cm
-> 6 cm
-> 6
-> 2
-> 5
-> 2
-> 10
-> U
-> K
-> 4
-> 7
-> Student_06.qxp  20/02/2006  23.38  Page 28
-> 
-> Pag. 
-> Pag. 29
-> 29
-> Kang 2006
-> Kang 2006
-> tudent
+> 4 cm 6 cm 6 2 5 2 10 U K 4 7 Student_06.qxp 20/02/2006 23.38 Page 28
+>
+> Pag. Pag. 29 29 Kang 2006 Kang 2006 tudent
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q06|src_kangourou_2006_student_marzo__Q06]]
 
 
 
@@ -309,11 +326,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Variation of revenue (+20% of price, -20% of turnover)*
+*Collection variation (+20% price, -20% footfall)*
 
-> On the occasion of a particularly important match, the price of the stadium entrance ticket was increased by 20% compared to previous matches. As a result, however, the attendance of spectators decreased by 20%. Compared to the previous batches, the proceeds are A) unchanged. (b) increased by 2%. (c) decreased by 2%. D) increased by 4%. E) decreased by 4%.
+> On the occasion of a particularly important match, the ticket price for entry to the stadium was increased by 20% compared with previous matches. As a result, however, attendance fell by 20%. Compared with previous matches, the revenue is
+> A) Remained unchanged.
+> B) increased by 2%.
+> C) reduced by 2%.
+> D) increased by 4%.
+> E) decreased by 4%.
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q07|src_kangourou_2006_student_marzo__Q07]]
 
 
 
@@ -342,11 +368,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between centres with 3 common tangents*
+*Distance between centers with 3 common tangents*
 
-> Two circumferences lie on the same plane; their radii measure 3 meters and 5 meters, and there are exactly three lines tangent to both. So the distance in meters between their centers is A) less than 2 B) 2 C) 4 D) 8 E) greater than 8
+> Two circles lie in the same plane; their radii measure 3 metres and 5 metres, and there are exactly three straight lines that are tangent to both circles. Then the distance in metres between their centres is
+> A) less than 2 B) 2
+> C) 4
+> D) 8
+> E) greater than 8
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q08|src_kangourou_2006_student_marzo__Q08]]
 
 
 
@@ -374,11 +409,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of apple eaten by the seagull*
+*A piece of apple eaten by the seagull*
 
-> An apple, or a part of it, floating on the surface of a lake emerges from it by 1/3 of its mass. A fish and a seagull jump on a floating whole apple at the same time and begin to eat the submerged part and the emerging part, respectively. In equal time, the seagull eats twice as much as the fish. When the whole apple has been eaten, what fraction of the apple has the seagull eaten? A) 2/3                B) 1/3             C) 1/2            D) 2/9              E) 7/9
+> An apple, or a part of one, floating on the surface of a lake protrudes from the water by one-third of its mass. A fish and a seagull simultaneously pounce on an entire floating apple and begin eating, respectively, the submerged part and the part protruding above the water. Over the same amount of time, the seagull eats twice as much as the fish. When the whole apple has been eaten, what fraction of the apple will the seagull have eaten?
+> A) 2/3                B) 1/3             C) 1/2            D) 2/9              E) 7/9
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q09|src_kangourou_2006_student_marzo__Q09]]
 
 
 
@@ -406,11 +446,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of bus in semicircular tunnel*
+*Bus height in the semicircular tunnel*
 
-> A tunnel has a semicircular section with a diameter of 10 meters. The roof (flat) of a bus comes into contact with the tunnel's vault if its right wheels (flush with the side) are two metres from the right edge of the tunnel. What is the height of the bus in meters? A) 2,70 B) 3,20 C) 3,60 D) 4,00 E) 4,50 The questions from N. 11 to N. 20 are worth four points.
+> A tunnel has a semicircular cross-section with a diameter of 10 metres. The (flat) roof of a bus comes into contact with the vault of the tunnel if its right wheels (flush with the side of the bus) are two metres from the right edge of the tunnel. What is the height of the bus in metres?
+> A) 2,70          B) 3,20        C) 3,60             D) 4,00               E) 4,50
+> Questions 11 to 20 are worth 4 points each.
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q10|src_kangourou_2006_student_marzo__Q10]]
 
 
 
@@ -440,11 +487,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2006 remainder with the same divisor (rest 5 out of 1001)*
+*Remainder of 2006 with the same divisor (remainder 5 when divided by 1001)*
 
-> If you divide 1001 by an appropriate one-digit number, you get 5 as remainder. If you divide 2006 by the same number, what do you get? A) 2 B) 3 C) 4 D) 5 E) 6
+> If you divide 1001 by an appropriate single-digit number, the remainder is 5. If you divide 2006 by the same number, what remainder do you get?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q11|src_kangourou_2006_student_marzo__Q11]]
 
 
 
@@ -478,22 +535,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of abc (three primes with sum and difference)*
+*abc value (three first numbers with sum and difference)*
 
-> Three positive integers a, b, c are known to be prime, with
-> a > b > c,
-> a + b + c = 90,
-> and a - b - c = 28.
-> What is the value of abc?
+> Of three positive integers a, b, c, it is known that they are prime, that a > b > c, that a + b + c = 90, and that a - b - c = 28. What is the value of abc?
+> A) 590             B) 1062        C) 1239            D) 2006              E) 3422
+> Student_06.qxp 20/02/2006 23.38 Page 29
 >
-> (A) 590 (B) 1062 (C) 1239 (D) 2006 (E) 3422
-> 
-> Page
-> Page 30
-> Kang 2006
-> Student
+> Pag. Pag. 30 30 Kang 2006 Kang 2006 tudent
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q12|src_kangourou_2006_student_marzo__Q12]]
 
 
 
@@ -520,13 +575,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of sector and circle areas*
+*Ratio of sector areas to circle*
 
 ![[src_kangourou_2006_student_marzo__prob13.png]]
 
-> The radius of the circular sector and the radius of the circle in the figure are in the ratio 3:1. What is the ratio of the sector area to the circle area? A) 3:2       B) 4:3        C) 5:3        D) 6:5          E) 5:4
+> The radius of the circular sector and the radius of the circle in the figure are in the ratio 3:1. What is the ratio of the area of the sector to the area of the circle?
+> A) 3:2       B) 4:3        C) 5:3        D) 6:5          E) 5:4
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q13|src_kangourou_2006_student_marzo__Q13]]
 
 
 
@@ -553,11 +613,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Elements of the choir this year (percentage)*
+*Choir members this year (percentages)*
 
-> Last year in a polyphonic choir there were 30 more men than women. This year the number of choir members has increased by 10%, the number of women has increased by 20%, and the number of men by 5%. How many members does the choir have this year? A) 88               B) 99             C) 110              D) 121                E) 13
+> Last year, in a polyphonic choir, there were 30 more men than women. This year, the choir's membership has grown by 10%: the number of women has increased by 20%, and the number of men by 5%. How many members are in the choir this year?
+> A) 88               B) 99             C) 110              D) 121                E) 13
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q14|src_kangourou_2006_student_marzo__Q14]]
 
 
 
@@ -585,11 +650,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sheets for two equal digits (pigeonhole)*
+*Minimum number of slips for two identical digits (pigeonhole)*
 
-> Consider all the positive 9-digit integers you can construct using each of the 9 digits 1,2,...,9. Suppose that each of those numbers is written on a piece of paper (one number on each piece of paper) and that the pieces of paper are deposited in an urn. What is the minimum number of sheets that you can extract from the urn if you want to be sure that, among the numbers shown on the extracted sheets, there are at least two that, in some position, have the same digit? A) 20160          B) 40320          C) 72            D) 10                E) 9
+> Consider all positive 9-digit integers that you can form, each using all 9 digits 1, 2, …, 9. Suppose each of those numbers is written on a slip of paper (one number per slip) and that the slips are placed in an urn. What is the minimum number of slips you need to draw from the urn if you want to be assured in advance that, among the numbers written on the slips drawn, there are at least two that have the same digit in some position?
+> A) 20160          B) 40320          C) 72            D) 10                E) 9
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q15|src_kangourou_2006_student_marzo__Q15]]
 
 
 
@@ -620,13 +691,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Blue glass surface (circular glass)*
+*Blue glass surface (circular glazing)*
 
 ![[src_kangourou_2006_student_marzo__prob16.png]]
 
-> A cathedral window has a glass like the one in the figure, where the letters R, G, and B represent glass of red, yellow, and blue colors respectively. The area occupied by the yellow glass measures 400 dm2 . How many dm2 does the area occupied by blue glass measure? A) 396             B) 400           C) 120 π D) 90     π E) 382
+> A window of a cathedral has a stained-glass panel like the one in the figure, where the letters R, G, and B represent glass panes that are red, yellow, and blue, respectively. The area occupied by the yellow glass is 400 dm². What is the area occupied by the blue glass, in dm²?
+> A) 396             B) 400           C) 120 π
+> D) 90     π
+> E) 382
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q16|src_kangourou_2006_student_marzo__Q16]]
 
 
 
@@ -651,11 +730,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the largest number (fractions with a,b)*
+*Which number is greater? (Fractions with a, b)*
 
-> If a and b are two numbers greater than 1, which of the following numbers is the largest? A)              B)                   C)                 D)              E)
+> If a and b are two numbers greater than 1, which of the following numbers is the largest?
+> A)              B)                   C)                 D)              E)
 
-**Answer:** A
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q17|src_kangourou_2006_student_marzo__Q17]]
 
 
 
@@ -723,51 +808,20 @@ level: kangourou
 
 *Points of the last-placed team (arithmetic progression tournament)*
 
-> Sixteen teams play a volleyball tournament. Each team
-> faces every other team exactly once: in each match, the
-> winning team advances by one point in the standings, while the losing
-> team remains with the score it had (there can be no
-> draws). At the end of the tournament, the standings appear in arithmetic
-> progression. How many points did the team that finished last obtain?
-> A) 3        B) 2            C) 1             D) A score different from 3, 2, 1.
-> E) The described situation cannot occur.            
-> 2
-> 1
-> −
-> b
-> a
-> 1
-> +
-> b
-> a
-> 1
-> 2
-> 2
-> +
-> b
-> a
-> 1
-> 2
-> 2
-> −
-> b
-> a
-> 1
-> 3
-> 3
-> +
-> b
-> a
-> Student_06.qxp  20/02/2006  23.38  Page 30
-> 
-> Pag. 
-> Pag. 31
-> 31
-> Kang 2006
-> Kang 2006
-> tudent
+> Sixteen teams are playing in a volleyball tournament. Each team
+> Each other team is faced once and only once: in each match, the winning team moves up one point in the standings, while the losing team retains its previous score (there can be no draws). At the end of the tournament, the standings form an arithmetic progression. How many points did the team that finished last earn?
+> A) 3 B) 2 C) 1 D) A score different from 3, 2, 1.
+> E) The situation described cannot occur.
+> 2 1 − b a 1 + b a 1 2 2 + b a 1 2 2 − b a 1 3 3 + b a Student_06.qxp 20/02/2006 23.38 Page 30
+>
+> Pag. Pag. 31 31 Kang 2006 Kang 2006 tudent
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q18|src_kangourou_2006_student_marzo__Q18]]
 
 
 
@@ -797,11 +851,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max angles less than 60 in convex polygon*
+*Maximum number of interior angles less than 60° in a convex polygon*
 
-> How many angles of measure less than 60° can a convex polygon have at most? A) 1 B) 2 C) 3 D) 4 E) 6
+> What is the maximum number of angles less than 60° that a convex polygon can have?
+> A) 1
+> B) 2 
+> C) 3
+> D) 4 
+> E) 6
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q19|src_kangourou_2006_student_marzo__Q19]]
 
 
 
@@ -831,13 +895,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*XA diagonal of the rectangular parallelepiped (Pitagora)*
+*Diagonal XA of the parallelepiped (Pythagoras)*
 
 ![[src_kangourou_2006_student_marzo__prob20.png]]
 
-> A rectangular rectangular parallelepiped is shown in the figure. The dimensions, in centimetres, of the sides of the XYZ triangle are 8, 9 and . What is the size, in centimeters, of the XA diagonal? A) B) 10 C) D) 11 E) Questions from N. 21 to N. 30 are worth 5 points.
+> The figure shows a parallelepiped.
+> Rectangle. The side lengths, in centimeters, of triangle XYZ are 8, 9, and . What is the length, in centimeters, of diagonal XA?
+> A)            B) 10         C)            D) 11          E)   
+> Questions 21 to 30 are worth 5 points each.
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q20|src_kangourou_2006_student_marzo__Q20]]
 
 
 
@@ -872,9 +944,16 @@ level: kangourou
 
 ![[src_kangourou_2006_student_marzo__prob21.png]]
 
-> Figure 1 shows a grid of 4×4 with white and grey cells. On it we are only allowed to make moves of the following type: exchange between two cells on the same row or column. What is the minimum number of moves that allows us to obtain the figure shown in Figure 2? A) We will never be able to achieve it if we only make authorized moves. B) 2                     C) 3                     D) 4                     E) 5
+> In Figure 1, a 4×4 grid with white and gray cells is shown. On it, we are permitted to make only moves of the following type: swapping two cells that lie in the same row or the same column. What is the minimum number of moves that will allow us to obtain the configuration shown in Figure 2?
+> A) We will never be able to obtain it if we make only authorized moves.
+> B) 2                     C) 3                     D) 4                     E) 5
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q21|src_kangourou_2006_student_marzo__Q21]]
 
 
 
@@ -899,11 +978,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For how many n the power n^300 has <=100 digits*
+*For how many n does n^300 have ≤100 digits?*
 
-> For how many positive integers n is the power n^300 a number that, in decimal notation, has no more than 100 digits? A) 1 B) 2 C) 3 D) 4 E) More than 4, but a finite number.
+> For how many positive integer values of n is n^300 a number that, in decimal notation, has no more than 100 digits?
+> A) 1 B) 2 C) 3 D) 4 E) More than 4, but a finite number.
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q22|src_kangourou_2006_student_marzo__Q22]]
 
 
 
@@ -929,11 +1013,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sub-sets with sum min+max=13*
+*Subsets with min+max=13*
 
-> How many subsets of the set {1, 2, 3, ..., 12} are such that the sum of the smallest and largest of their elements is 13? A) 1024         B) 1175            C) 1365          D) 1785                E) 4095
+> How many subsets of the set {1, 2, 3, …, 12} are there such that the sum of the smallest and largest of their elements is 13?
+> A) 1024         B) 1175            C) 1365          D) 1785                E) 4095
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q23|src_kangourou_2006_student_marzo__Q23]]
 
 
 
@@ -983,11 +1073,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lists of answers providing 4 correct answers*
+*Lists of answers that guarantee 4 correct ones*
 
-> I have to do a 10-question test, and the answer to each question is "yes" or "no". It must be structured in such a way that those who answer 'yes' to one half of the questions and 'no' to the other half still give correct answers to at least four questions. How many possible lists of correct answers give me this guarantee? A) 55 B) 252 C) 2 D) 10 E) 22 55 Z A X Y 90 120 200 figure 2 figure 1 Student_06.qxp 20/02/2006 23.38 Page 31
+> I need to compose a test consisting of 10 questions, each of which has a response of "yes" or "no". The test must be structured so that anyone who takes it and answers "yes" to half of the questions and "no" to the other half still provides correct answers to at least 4 questions. How many possible lists of correct answers give me this guarantee?
+> A) 55
+> B) 252
+> C) 2
+> D) 10
+> E) 22 
+> 55 Z A X Y 90 120 200 Figure 2 Figure 1 Student_06.qxp 20/02/2006 23.38 Page 31
+>
+> Pag. Pag. 32 32 Kang 2006 Kang 2006 tudent
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q24|src_kangourou_2006_student_marzo__Q24]]
 
 
 
@@ -1013,11 +1116,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number removed from 10 consecutive integers (sum of 2006)*
+*Number removed from 10 consecutive whole numbers (sum 2006)*
 
-> From a sequence of ten consecutive integers, one has been removed. The sum of the remaining nine numbers is 2006. What's the number that's been removed? A) 218          B) 219             C) 220               D) 225               E) 227
+> From a sequence of ten consecutive integers, one number has been removed. The sum of the nine remaining numbers is 2006. What is the number that was removed?
+> A) 218          B) 219             C) 220               D) 225               E) 227
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q25|src_kangourou_2006_student_marzo__Q25]]
 
 
 
@@ -1066,7 +1174,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ways of arranging 1..6 with difference constraint not 3*
+*Ways of arranging 1..6 with the constraint that the difference is not 3*
 
 ![[src_kangourou_2006_student_marzo__prob26.png]]
 
@@ -1083,9 +1191,22 @@ level: kangourou
 \end{document}
 ```
 
-> I want to write the numbers 1, 2, 3, 4, 5, 6 inside the squares that make up the figure (one for each square) so that if two squares are adjacent, the difference (positive) of the numbers written in them is not 3. How many different ways can I do this? (Squares having only one vertex in common are not considered adjacent.) A) 3 x 25 B) 36 C) 63 D) 2 x 35 E) 3 x 52
+> I want to write the numbers 1, 2, 3, 4, 5, 6 inside.
+> of the squares that make up the figure (one for each square) so that, if two squares are adjacent, the (positive) difference of the numbers written in them is not
+> 3. In how many different ways can I do it? (Squares that
+> Those that share only one vertex are not considered adjacent.)
+> A) 3 x 25
+> B) 36
+> C) 63
+> D) 2 x 35
+> E) 3 x 52
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q26|src_kangourou_2006_student_marzo__Q26]]
 
 
 
@@ -1113,11 +1234,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers in the hundredth group*
+*Sum of the numbers in the hundredth group*
 
-> The natural numbers were grouped and summed within each group according to the criterion suggested below 1, 2+3, 4+5+6, 7+8+9+10, 11+12+13+14+15, ... What is the sum of the numbers hosted in the hundredth group? A) 500050        B) 5050        C) 50050      D) 499950         E) 49950
+> The natural numbers have been grouped and summed within each group according to the criterion suggested below: 1, 2+3, 4+5+6, 7+8+9+10, 11+12+13+14+15, … What is the sum of the numbers contained in the hundredth group?
+> A) 500050        B) 5050        C) 50050      D) 499950         E) 49950
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q27|src_kangourou_2006_student_marzo__Q27]]
 
 
 
@@ -1146,13 +1273,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of region? (rectangle divided by M,N)*
+*Area of the region? (rectangle divided by M, N)*
 
 ![[src_kangourou_2006_student_marzo__prob28.png]]
 
-> Note the figure: ABCD is a rectangle, M and N are randomly selected points, respectively, within the AB side and the BC side. The rectangle is divided into eight regions, some of which have an area. What is the area of the quadrilateral region indicated by "?" A) 20 B) 21 C) 25 D) 26 E) The information given is insufficient.
+> Observe the figure: ABCD is a rectangle, and M and N are points chosen at random, respectively, inside side AB and side BC. The rectangle is divided into eight regions, and the area is indicated for some of them. What is the area of the quadrilateral region labeled "?"?
+> A) 20           B) 21           C) 25           D) 26
+> E) The information provided is not sufficient.
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q28|src_kangourou_2006_student_marzo__Q28]]
 
 
 
@@ -1180,13 +1313,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded triangle area (hexagon and square)*
+*Area of shaded triangle (hexagon and squares)*
 
 ![[src_kangourou_2006_student_marzo__prob29.png]]
 
-> In the figure you see a hexagon with side length [missing]; XABC and XPQR are squares. What is the area of the shaded triangle? A)              B)           C)        D)             E)
+> In the figure, you see a hexagon with side ; XABC and
+> XPQR are squares. What is the area of the shaded triangle?
+> A)              B)           C)        D)             E)
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q29|src_kangourou_2006_student_marzo__Q29]]
 
 
 
@@ -1252,9 +1392,16 @@ level: kangourou
 
 *Intersection points of chords (8 points)*
 
-> Eight points on a circumference have been selected to maximise the number of distinct points that are intersection of at least two of the chords they have identified. What are the intersection points (excluding the 8 points chosen)? A)  48         B) 56               C) 112                D) 140               E) 70 N C B M A D ? 20 3 2 3 A B C X P Q R 4 3 5 − 2 1 3 + 4 3 4 3 2 − 4 3 2 + Student_06.qxp 20/02/2006 23.38 Page 32
-> 
->  
-> 1 Student category For students in fourth or fifth grades
+> On a circle, 8 points were chosen so as to maximize the number of distinct points that are the intersection points of at least two of the chords determined by those points. How many intersection points are there (excluding the 8 chosen points)?
+> A)  48         B) 56               C) 112                D) 140               E) 70
+> N C B M A D ? 20 3 2 3 A B C X P Q R 4 3 5 − 2 1 3 + 4 3 4 3 2 − 4 3 2 + Student_06.qxp 20/02/2006 23.38 Page 32
+>
+>
+> 1 Student Category For fourth- or fifth-year high school students
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_student_marzo#q30|src_kangourou_2006_student_marzo__Q30]]

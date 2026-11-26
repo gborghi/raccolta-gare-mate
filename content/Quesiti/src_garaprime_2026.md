@@ -39,9 +39,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Products of all 1024^3 dividers*
+*Product of all divisors of 1024^3*
 
-> Teacher Scaldasedia, in order not to give a lesson, assigns her students to do a calculation in class that she thinks is long enough to fill in all the time: find the product of all the divisors of 10243, including 1 and 10243. To her great surprise, after a few minutes, her best student brings her the drawer with the correct result written on it. What is the result?
+> Teacher Scaldasedia, so as not to teach a lesson, assigns her pupils a calculation to do in class—one she thinks will be long enough to fill the whole period: to find the product of all the divisors of 10243, including 1 and 10243. To her great surprise, after just a few minutes, her best pupil brings her the small slate with the correct result written on it. What is the result?
 >
 > - **(A)** 291
 > - **(B)** 2465
@@ -49,7 +49,12 @@ level: Classi Prime
 > - **(D)** 2900
 > - **(E)** 2450
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2026#q01|src_garaprime_2026__Q01]]
 
 
 
@@ -78,9 +83,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of five consecutive products with product 6720*
+*Sum of five consecutive numbers with product 6720*
 
-> The product of five consecutive positive integers is 6720. How much is their sum?
+> The product of five consecutive positive integers is 6720. What is their sum?
 >
 > - **(A)** 20
 > - **(B)** 25
@@ -88,7 +93,11 @@ level: Classi Prime
 > - **(D)** 35
 > - **(E)** 40
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2026#q02|src_garaprime_2026__Q02]]
 
 
 
@@ -117,17 +126,21 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sides of the polygon with an inner angle 11 times the outer angle*
+*To form a polygon whose interior angle is 11 times the exterior angle*
 
-> In a regular polygon the inner angle is eleven times the outer. How many sides does the polygon have?
+> In a regular polygon, the interior angle is eleven times the exterior angle. How many sides does the polygon have?
 >
 > - **(A)** 11
 > - **(B)** 12
 > - **(C)** 22
 > - **(D)** 24
-> - **(E)** There is no polygon with this property.
+> - **(E)** No polygon has this property
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2026#q03|src_garaprime_2026__Q03]]
 
 
 
@@ -187,7 +200,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the hexagon from the intersection of two squares*
+*Area of the hexagon formed by the intersection of two squares*
 
 ![[src_garaprime_2026__prob4.png]]
 
@@ -218,7 +231,7 @@ level: Classi Prime
 \end{document}
 ```
 
-> In the drawing, the intersection of the squares ABCD and EFGH, both of area 12, is a square of area 3. What is the value of the ABFGHD axis?
+> In the diagram, the intersection of squares ABCD and EFGH, both with area 12, is a square of area 3. What is the area of hexagon ABFGHD?
 >
 > - **(A)** 24
 > - **(B)** 36
@@ -226,7 +239,12 @@ level: Classi Prime
 > - **(D)** 22
 > - **(E)** 26
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2026#q04|src_garaprime_2026__Q04]]
 
 
 
@@ -285,7 +303,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of dividing a rectangle into 4 triangles of area 1*
+*Ways of dividing a rectangle into 4 triangles each with area 1*
 
 ![[src_garaprime_2026__prob5.png]]
 
@@ -312,7 +330,7 @@ level: Classi Prime
 \end{document}
 ```
 
-> Given the ACDF rectangle, area 4, be B and E respectively the midpoints of the AC and DF sides. The rectangle is to be divided into 4 triangles of area 1, each of which has 3 vertices of points A, B, C, D, E, F (such as the AEF, ABE, ECB, CDE triangles shown in the figure below). How many ways can this be done?
+> Given rectangle ACDF with area 4, let B and E be the midpoints of sides AC and DF, respectively. The goal is to divide the rectangle into 4 triangles each of area 1, with each triangle having 3 of the points A, B, C, D, E, F as its vertices (such as the triangles AEF, ABE, BCE, CDE shown in the figure beside). In how many ways can this be done?
 >
 > - **(A)** 5
 > - **(B)** 6
@@ -320,7 +338,12 @@ level: Classi Prime
 > - **(D)** 8
 > - **(E)** 2
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2026#q05|src_garaprime_2026__Q05]]
 
 
 
@@ -351,9 +374,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum M with N divisible by M but not M^2*
+*Minimum M such that N is divisible by M but not by M^2*
 
-> Whether N is the product of all positive integers less than or equal to 100, which have exactly 3 divisors. What is the smallest value of M such that N is divisible by M, but not by M2?
+> Let N be the product of all positive integers less than or equal to 100 that have exactly 3 divisors. What is the smallest value of M such that N is divisible by M but not by M²?
 >
 > - **(A)** M = 2
 > - **(B)** M = 8
@@ -361,7 +384,12 @@ level: Classi Prime
 > - **(D)** M = 10
 > - **(E)** M = 6
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2026#q06|src_garaprime_2026__Q06]]
 
 
 
@@ -390,9 +418,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x^(x^2x+1) given that x^x=2*
+*Value of x^(x^2x+1) given x^x=2*
 
-> If we know that xx is 2, then x(x2x+1) is equal to:
+> Knowing that xx = 2, then x(x2x+1) is equal to:
 >
 > - **(A)** 8
 > - **(B)** 12
@@ -400,7 +428,11 @@ level: Classi Prime
 > - **(D)** 20
 > - **(E)** 32
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2026#q07|src_garaprime_2026__Q07]]
 
 
 
@@ -432,9 +464,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number at position 2026 by subtracting the perfect squares*
+*Number in position 2026, excluding perfect squares*
 
-> Cecilia wrote on the board the ordered list of all integers from 1 to 2100, extremes included, which are not perfect squares (i.e., squares of integers, such as 1, 4, 9, etc.). The first written numbers, therefore, are 2, 3, 5, 6, 7, 8, 10, 11, 12. . . Which number is in position 2026?
+> Cecilia has written on the blackboard the ordered list of all integers from 1 to 2100, inclusive, that are not perfect squares (that is, squares of integers, such as 1, 4, 9, etc.). Therefore, the first numbers written are 2, 3, 5, 6, 7, 8, 10, 11, 12, ... Which number is in position 2026?
 >
 > - **(A)** 2068
 > - **(B)** 2070
@@ -442,7 +474,12 @@ level: Classi Prime
 > - **(D)** 2072
 > - **(E)** 2075
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2026#q08|src_garaprime_2026__Q08]]
 
 
 
@@ -473,9 +510,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*area of the AEH triangle divided by points on the sides*
+*Area of triangle AEH divided by points on its sides*
 
-> The area of an ABC triangle is 360 cm2. Two internal points on the AB side are D, E such that AD = DE = EB and three internal points in AC such that AF = FG = GH = HC are F, G, H. What is the area of the AEH triangle in cm2 ?
+> The area of triangle ABC is 360 cm². Let D and E be two points on side AB such that AD = DE = EB, and let F, G, and H be three points on AC such that AF = FG = GH = HC. What is the area of triangle AEH in cm²?
 >
 > - **(A)** 120
 > - **(B)** 180
@@ -483,7 +520,11 @@ level: Classi Prime
 > - **(D)** 270
 > - **(E)** 240
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2026#q09|src_garaprime_2026__Q09]]
 
 
 
@@ -513,9 +554,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural between 10 and 2026 with a sum of 3 digits*
+*Natural numbers between 10 and 2026 with digit sum 3*
 
-> What are the natural numbers greater than 10 and less than 2026 whose sum of the digits is 3?
+> How many natural numbers greater than 10 and less than 2026 have a digit sum of 3?
 >
 > - **(A)** 13
 > - **(B)** 14
@@ -523,7 +564,12 @@ level: Classi Prime
 > - **(D)** 16
 > - **(E)** 17
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2026#q10|src_garaprime_2026__Q10]]
 
 
 
@@ -554,7 +600,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum of the largest of four integers with mean 2026 *
+*Maximum of the greatest of four integers with mean 2026*
 
 > If the arithmetic mean of four distinct positive integers is 2026, what is the maximum possible value of the largest of these numbers?
 >
@@ -564,7 +610,12 @@ Maximum of the largest of four integers with mean 2026 *
 > - **(D)** 7592
 > - **(E)** 8101
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2026#q11|src_garaprime_2026__Q11]]
 
 
 
@@ -594,9 +645,9 @@ Maximum of the largest of four integers with mean 2026 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio between area of equilateral triangle and hexagon*
+*Ratio between the area of an equilateral triangle and that of a hexagon*
 
-> An equilateral triangle has a side that measures twice that of a regular hexagon. What is the relationship between the area of the triangle and that of the hexagon?
+> An equilateral triangle has a side whose length is twice that of a regular hexagon. What is the ratio of the area of the triangle to the area of the hexagon?
 >
 > - **(A)** 2
 > - **(B)** 1
@@ -604,7 +655,11 @@ Maximum of the largest of four integers with mean 2026 *
 > - **(D)** 1/2
 > - **(E)** 2/3
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2026#q12|src_garaprime_2026__Q12]]
 
 
 
@@ -637,7 +692,7 @@ Maximum of the largest of four integers with mean 2026 *
 
 *Minimum S(n+1) given S(n)=2026*
 
-> Let's show with S(n) the sum of the digits of a positive integer n (e.g. S(574) = 16). If S(n) = 2026, what can be the smallest value of S(n + 1)?
+> Let S(n) denote the sum of the digits of a positive integer n (for example, S(574) = 16). If S(n) = 2026, what could be the smallest possible value of S(n + 1)?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -645,7 +700,12 @@ Maximum of the largest of four integers with mean 2026 *
 > - **(D)** 4
 > - **(E)** 2027
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2026#q13|src_garaprime_2026__Q13]]
 
 
 
@@ -676,9 +736,9 @@ Maximum of the largest of four integers with mean 2026 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-Problems written by Mark when Anna finished
+*Problems written by Marco when Anna finished*
 
-> Mark writes problems at a constant rate of 8 problems per hour, and Anna solves problems at a constant rate of 12 problems per hour. Mark starts writing three hours before Anna starts solving them. How many problems will Mark have written when Anna has finished solving all the problems he has written up to that point?
+> Marco writes problems at a constant rate of 8 problems per hour, and Anna solves problems at a constant rate of 12 problems per hour. Marco starts writing 3 hours before Anna starts solving them. How many problems will Marco have written by the time Anna has finished solving all the problems he has written up to that point?
 >
 > - **(A)** 36
 > - **(B)** 48
@@ -686,7 +746,11 @@ Problems written by Mark when Anna finished
 > - **(D)** 80
 > - **(E)** 84
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2026#q14|src_garaprime_2026__Q14]]
 
 
 
@@ -718,9 +782,9 @@ Problems written by Mark when Anna finished
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Anater with red head and feathers (together)*
+*Ducks with red heads and red feathers (sets)*
 
-> A lake is populated by 800 ducks with red or blue feathers and red or blue heads. If 430 ducks have red feathers, 290 ducks have blue heads and 160 ducks have both blue heads and blue feathers, how many ducks have both red heads and red feathers?
+> A lake is inhabited by 800 ducks with red or blue feathers and red or blue heads. If 430 ducks have red feathers, 290 ducks have blue heads, and 160 ducks have both blue heads and blue feathers, how many ducks have both red heads and red feathers?
 >
 > - **(A)** 370
 > - **(B)** 350
@@ -728,7 +792,12 @@ Problems written by Mark when Anna finished
 > - **(D)** 300
 > - **(E)** The information is insufficient
 
-**Answer:** D
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2026#q15|src_garaprime_2026__Q15]]
 
 
 
@@ -759,9 +828,9 @@ Problems written by Mark when Anna finished
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hypotenuse from the rotation volumes around the chains*
+*Hypotenuse from the volumes of revolution about the legs*
 
-> If a rectangular triangle is rotated around a catheter, completing one complete rotation, a volume of 1500π cm3 is obtained. If rotated around the other catheter, a volume of 2000π cm3 is obtained. How long is the hypotenuse?
+> If a right triangle is rotated through a full revolution about one of its legs, the resulting volume is 1500π cm³. If, instead, it is rotated about the other leg, the resulting volume is 2000π cm³. How long is the hypotenuse?
 >
 > - **(A)** 15 cm
 > - **(B)** 25 cm
@@ -769,7 +838,11 @@ Problems written by Mark when Anna finished
 > - **(D)** 16 cm
 > - **(E)** 36 cm
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2026#q16|src_garaprime_2026__Q16]]
 
 
 
@@ -798,9 +871,9 @@ Problems written by Mark when Anna finished
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of figures from 10^2026 - 2026*
+*Sum of numbers of 10^2026 - 2026*
 
-> Nicolò enjoys calculating the sum of the digits of the number 102026 −2026. What's your number?
+> Nicolò enjoys calculating the sum of the digits of the number 102026 − 2026. What number does he get?
 >
 > - **(A)** 18225
 > - **(B)** 18205
@@ -808,7 +881,11 @@ Problems written by Mark when Anna finished
 > - **(D)** 18243
 > - **(E)** 18218
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2026#q17|src_garaprime_2026__Q17]]
 
 
 
@@ -839,14 +916,19 @@ Problems written by Mark when Anna finished
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit numbers with digits 2,0,6*
+*4-digit numbers using the digits 2, 0, 6*
 
-> How many 4-digit numbers can be written using the digits 2, 0 and 6 (digits can be repeated)? For example, 2026 is one of the numbers that can be written (while 0006 is not because it starts with 0).
+> How many 4-digit numbers can be written using the digits 2, 0, and 6 (digits may be repeated)? For example, 2026 is one of the numbers that can be written (whereas 0006 cannot, because it starts with 0).
 >
 > - **(A)** 16
 > - **(B)** 81
 > - **(C)** 36
 > - **(D)** 54
-> - **(E)** 2025 Test n. 1 Italian Mathematical Union Mathematical Olympiad Project XI National Competition for the First Classes Monday 26 January 2026 Name: Cognome: Gender: M F Date of birth: City: School: The competition lasts 2 hours and 30 minutes and consists of 18 problems. Only one of the answers is correct. The letter corresponding to the correct answer shall be shown, for each question, on this page in the window at the bottom. Every right answer is worth 5 points, every wrong answer is worth 0 points, and every problem left unanswered is worth 1 point. Cancellations on the grid are not allowed. The use of electronic devices, compass and goniometer shall not be permitted. The problems are not in order of difficulty, but alternate randomly. If you have been given an optical reading sheet, you will need to enter the answers only there and finally deliver only that sheet. Otherwise, you'll need to enter your answers in the grid below and deliver this sheet. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 Test number 2
+> - **(E)** 2025 Test No. 1 Italian Mathematical Union Mathematics Olympiads Project XI National Competition for First-Year Classes Monday, 26 January 2026 First name: Surname: Gender: M F Date of birth: City: School: The competition lasts 2 hours and 30 minutes and consists of 18 problems. Only one of the answers is correct. For each question, the letter corresponding to the correct answer must be entered on this page in the box at the bottom. Each correct answer is worth 5 points, each incorrect answer is worth 0 points, and each problem left unanswered is worth 1 point. Erasures on the grid are not permitted. The use of electronic devices, a compass, and a protractor is not permitted. The problems are not arranged in order of difficulty; they have been permuted at random. If you have been given an optical-mark-read sheet, you must enter the answers only on that sheet and, at the end, hand in only that sheet. Otherwise, you must enter the answers in the grid below and hand in this sheet. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 Test No. 2
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2026#q18|src_garaprime_2026__Q18]]

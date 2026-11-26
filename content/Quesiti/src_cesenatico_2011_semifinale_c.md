@@ -32,11 +32,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First 4 digits of the positive root of x^2011-x-1*
+*First 4 significant digits of the unique positive root of x2011 −x−1*
 
-> Borelix is so greedy with the potion made by Parabolix that he tries his best to get a taste of it even though he fell into it as a child. The druid turns to Borelix: I'll give you a sip of the potion only if you can find the first 4 significant digits of the only positive root of x2011 −x−1. What will Borelix have to answer?
+> Sins of gluttony
+> Borelix is so greedy for the potion prepared by Parabolix that he tries in every way to get a little taste of it, even though he fell into it when he was a child. The druid turns to Borelix: "I will give you a sip of the potion only if you can find the first 4 significant digits of the unique positive root of x2011 −x−1." What will Borelix have to reply?
 
-**Answer:** 1000
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_c#q01|src_cesenatico_2011_semifinale_c__Q01]]
 
 
 
@@ -63,11 +67,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Meanly affected galls (tangent circles in octagon)*
+*Average number of the 208 Gauls hit, standing at random in a regular octagon whose vertices carry identical mutually tangent circles*
 
-> The Gauls have been besieged! The Roman archers set themselves at the top of a battlefield shaped like a regular octagon and the areas covered by the radius of action of their infallible arches are identical circles between their tangents. The archers are sure to strike any enemy entering the area covered by their arrows. If 208 Gauls are all in random spots on the battlefield, how many will be hit on average?
+> Unerring archers
+> The Gauls have been surrounded! The Roman archers have taken up position at the vertices of a battlefield in the shape of a regular octagon, and the zones covered by the range of their unerring bows are identical circles, tangent to one another. The archers are sure to hit every enemy who enters the zone covered by their bows. If 208 Gauls are all at random points of the battlefield, how many will be hit on average?
 
-**Answer:** 0101
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_c#q02|src_cesenatico_2011_semifinale_c__Q02]]
 
 
 
@@ -96,11 +104,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number whose square ends in its digits*
+*The combination, between 0000 and 9999, is the product of the two-digit numbers whose square has the same units and tens digits as the number itself*
 
-> An unremembered emperor Julius Caesar has closed the fortress where he hides his war strategies with a lock whose combination is a number between 0000 and 9999. The Emperor knows that the combination he has chosen is the product of the two-digit numbers whose square has the units and decimal digits equal to the respective digits of the starting number (which is between 10 and 99). But, as you know, too much glory is given to the head and Julius Caesar has forgotten the combination. Then he orders him to call Abacus, who as soon as he arrives opens the lock. What combination did Julius Caesar choose?
+> A forgetful emperor
+> Julius Caesar has locked the chest in which he hides his strategies of war with a padlock whose combination is a number between 0000 and 9999. The emperor knows that the combination he chose is the product of the two-digit numbers whose square has units digit and tens digit equal to the respective digits of the starting number (which lies between 10 and 99). But, as everyone knows, too much glory goes to the head, and Julius Caesar has forgotten the combination. He therefore orders Abacus to be summoned, and as soon as he arrives he opens the padlock for him. What combination had Julius Caesar chosen?
 
-**Answer:** 1900
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_c#q03|src_cesenatico_2011_semifinale_c__Q03]]
 
 
 
@@ -127,11 +140,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total of the first 3 digits to the left*
+*Sum of the first three four-digit numbers such that every initial block of digits is prime*
 
-> Potion first Parabolix while preparing the magic potion reveals to Borelix that this time to defeat the Romans will suffice a quantity (in milliliters) equal to the sum of the first three numeric numbers of four digits with the property that the number formed by the first digit is first, that formed by the first two digits is first, and so on (e.g. 3797 being 3, 37, 379 and 3797 prime). How many milliliters of potion does Parabolix prepare?
+> Potion first
+> While preparing the magic potion, Parabolix reveals to Borelix that this time, to defeat the Romans, a quantity (in millilitres) equal to the sum of the first three four-digit numbers with the following property will suffice: the number formed by the first digit is prime, the one formed by the first two digits is prime, and so on (for example 3797, since 3, 37, 379 and 3797 are prime). How many millilitres of potion does Parabolix prepare?
 
-**Answer:** 7065
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_c#q04|src_cesenatico_2011_semifinale_c__Q04]]
 
 
 
@@ -159,11 +176,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of returning to the point after 2011 jumps*
+*Probability of being back at the start after 2011 jumps on a circle of length 6; first four digits after the decimal point*
 
-> Left alone by Borelix, engaged as usual in an incursion against the Romans, the dog Idealix decides to spend time jumping over points of a length of circumference 6. At each jump it has a 1/2 chance of moving clockwise or counterclockwise and the jump width (measured along the circumference) increases gradually: the first jump has a width of n+1. What are the chances that after 2011 jumps will return to the starting point? Write the first four digits after the comma.
+> Idealix's circle
+> Left alone by Borelix, engaged as usual in a raid against the Romans, the dog Idealix decides to pass the time by jumping on the points of a circle of length 6. At each jump he has probability 1/2 of moving clockwise or anticlockwise, and the length of the jump (measured along the circle) increases gradually: the nth jump has length n+1. What is the probability that after 2011 jumps he is back at the starting point? Write the first four digits after the decimal point.
 
-**Answer:** 0000
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_c#q05|src_cesenatico_2011_semifinale_c__Q05]]
 
 
 
@@ -192,11 +214,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum time travelling through circular forest*
+*Minimum time, in minutes, to reach a plant 20 km away when a forest of radius 5 km is centred halfway, at 5 km/h inside and 10 km/h outside*
 
-> Abelix and the magic plant Parabolix must prepare a new magic potion and to do so he needs a plant that grows beyond the forest of Sternbrocaud. So send Abelix to pick this plant. Abelix knows that the plant is 20km away from him, while halfway there is the centre of the Sternbrocaud forest, which is shaped like a circle with a radius of 5km. Abelix also knows that inside the forest it travels at 5km/h while outside it travels at 10km/h. What is the minimum time in minutes that Abelix takes to reach the plant?
+> Abelix and the magic plant
+> Parabolix has to prepare a new magic potion, and to do so he needs a plant that grows beyond the forest of Sternbrocaud. He therefore sends Abelix to gather this plant. Abelix knows that the plant is 20 km away from him, while halfway there lies the centre of the forest of Sternbrocaud, which has the shape of a circle of radius 5 km. Abelix also knows that inside the forest he proceeds at 5 km/h, while outside he travels at 10 km/h. What is the minimum time, in minutes, that Abelix takes to reach the plant?
 
-**Answer:** 0135
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_c#q06|src_cesenatico_2011_semifinale_c__Q06]]
 
 
 
@@ -232,13 +259,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of women on the short sides of tables (links)
+*Maximum number of women seated on the short sides of 8 tables, with 64 guests and 14 druids, under the seating rules*
 
-> The feast of Abelix At the feast of Abelix, in which all the Gauls of the village participate, there are 64 guests sitting at 8 rectangular tables all equal, so that on each of the two short sides there is only one person and on each of the long ones there are three. Lessicografix must arrange the diners in order: each child must be near at least one other child and, if sitting next to an adult, there must be at least one druid at the same table; each druid must sit next to another druid and an adult; each adult can have another adult next to him only if there are both adult men and women at the same table; each woman must have a child next to her and never another woman; each man, finally, if he is next to a child then has a woman next to him. Knowing that the druids present are 14 and that every woman in the village has two children, what is the maximum number of women sitting on the short sides of the tables? (Druids in particular are adult males.) Team competition 2011  Semifinal C  Problem Tests  1/2
-> 
-> 2/2 Team competition 2011  Semifinal C  Problem tests
+> Abelix's party
+> At Abelix's party, which all the Gauls of the village attend, there are 64 guests seated at 8 identical rectangular tables, so that on each of the two short sides there is a single person and on each of the long sides there are three. Lessicografix must seat the diners in order: every child must be next to at least one other child and, if seated beside an adult, there must be at least one druid at the same table; every druid must sit next to another druid and next to an adult; an adult may have another adult beside him only if the same table has both male and female adults; every woman must have a child beside her and never another woman; every man, finally, if he is beside a child, then also has a woman nearby. Knowing that the druids present are 14 and that every woman of the village has two children, what is the maximum number of women seated on the short sides of the tables? (Druids, in particular, are adult males.)
 
-**Answer:** 0013
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_c#q07|src_cesenatico_2011_semifinale_c__Q07]]
 
 
 
@@ -267,11 +297,16 @@ Maximum number of women on the short sides of tables (links)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the AFPD polygon in the triangular clexid*
+*Area of polygon AFPD in the hourglass built in a triangle of area 4173, with AB = 91 and angle BCA = 45°*
 
-> A particularly valuable object belonging to the Gauls is a curious clessandra, located within a triangle. This triangle, called ABC, was constructed as follows: two points D and E were taken, respectively on AC and BC, such that DE was parallel to AB, and two points F and G on AB such that DG was parallel to BC, EF parallel to AC, and DE = FG. Calling P the intersection between DG and EF, and knowing that AB = 91, that the area of the triangle is 4173 and that the BCA angle measures 45°, would you be able to calculate the area of the AFPD polygon?
+> A Gaulish hourglass
+> An object particularly precious to the Gauls is a curious hourglass, situated inside a triangle. Calling that triangle ABC, the hourglass in question was built as follows: two points D and E were taken, on AC and BC respectively, such that DE was parallel to AB, and two points F and G on AB such that DG was parallel to BC, EF parallel to AC, and DE = FG. Calling P the intersection of DG and EF, and knowing that AB = 91, that the area of the triangle is 4173 and that angle BCA measures 45°, could you calculate the area of the polygon AFPD?
 
-**Answer:** 1391
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_c#q08|src_cesenatico_2011_semifinale_c__Q08]]
 
 
 
@@ -299,11 +334,16 @@ Maximum number of women on the short sides of tables (links)
 <div class="qlang-split" data-lang="en"></div>
 
 
-Other travel *
+*Borelix moves a stack of 7 stone discs between two platforms, under the usual stacking rules; the statement breaks off*
 
-> The three Borelix towers must overcome one of the twelve tasks imposed by Julius Caesar, for this purpose it transports a pile of 7 heavy stone discs from a pedana in the temple of Julius Caesar to an identical one in that of Cleopatra. The discs are of 7 different sizes, must be carried one at a time and can only be placed on a larger disc or on a free pedal. Initially, the discs are stacked in order from the largest (located on the pedal) to the smallest (top). Borelix has the impression that there is no
+> The three towers
+> Borelix must overcome one of the XII labours imposed by Julius Caesar; to that end he carries a stack of 7 heavy stone discs from a platform in the temple of Julius Caesar to an identical one in that of Cleopatra. The discs are of 7 different sizes, they must be carried one at a time, and they may be set down only on a larger disc or on a free platform. At the start the discs are stacked in order from the largest (set on the platform) to the smallest (on top). Borelix has the impression that there is not
 
-**Answer:** 0088
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_c#q09|src_cesenatico_2011_semifinale_c__Q09]]
 
 
 
@@ -329,11 +369,16 @@ Other travel *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times the number 8 in the whole <2011*
+*How many times the digit 8 is used in writing all positive integers less than 2011*
 
-> Little Unosuix, one of Parabolix's most promising students, takes time to write down all the positive integers minus 2011. How many times will he use the number 8?
+> Child's play
+> Little Unosuix, one of Parabolix's most promising pupils, to pass the time sets about writing all the positive integers less than 2011. How many times will he use the digit 8?
 
-**Answer:** 0601
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_c#q10|src_cesenatico_2011_semifinale_c__Q10]]
 
 
 
@@ -362,11 +407,18 @@ Other travel *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*f(10)*
+*f(10), for a function satisfying a broken relation; the answer is numerator plus denominator in lowest terms*
 
-> Parabolix suspects that, once again, some Romans disguised themselves as Gauls and infiltrated the village. Knowing the superiority of the Gauls over the Romans in mathematics (not at all was he to teach it to the village), to identify them tried to submit to all the following question. If f is a function such that f(x) + f(1 1−x) = x, x =0.1. Determine the f ((10). Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+> Impostors unmasked
+> Parabolix suspects that, once again, some Romans have disguised themselves as Gauls and slipped into the village. Knowing the superiority of the Gauls over the Romans in mathematics (not for nothing was it he who taught it to the village), in order to identify them he tries setting everyone the following question. Let f be a function such that f(x) + f( 1
+> 1−x) = x, x ̸= 0,1. Determine f(10).
+> Reply with the sum of the numerator and the denominator of the fraction in lowest terms.
 
-**Answer:** 1171
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_c#q11|src_cesenatico_2011_semifinale_c__Q11]]
 
 
 
@@ -393,11 +445,15 @@ Other travel *
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of the securities issued by the issuer.
+*The term a2011 of a sequence of integers whose first n terms have average exactly n, for every n*
 
-> Numeroprimus and the boredom mediating a truce The Romans decided to take turns in attacking the village, so that every legionary could recover from bruises and bruises. However, the long waiting days must also be fought. The legionnaire Numeroprimus, for example, has given himself to mathematics and is writing a sequence of integers a1, a2,... so that the mean of the first n numbers is exactly n, for each n. How much is 2011?
+> Numeroprimus and boredom arrange a truce
+> The Romans have decided to take turns attacking the village, so that every legionary can recover from bruises and bumps. The long days of waiting, however, have to be fought too. The legionary Numeroprimus, for example, has taken up mathematics and is writing a sequence of integers a1, a2, ... such that the average of the first n numbers is exactly n, for every n. What is a2011?
 
-**Answer:** 4021
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_c#q12|src_cesenatico_2011_semifinale_c__Q12]]
 
 
 
@@ -427,11 +483,17 @@ This is the total value of the securities issued by the issuer.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of aryan reaching the walls (catapult)*
+*Probability that at least one ram reaches the walls, when the Romans build the least number that makes this probability greater than 50%; first 4 digits after the decimal point*
 
-> The Romans besieged the village of the Gauls and intended to build arrows to bring down the walls. The Welsh have a catapult that can destroy their fins, but it can't hit them if they're closer than 30 steps or more than 150 steps away from the walls. In addition, a kite travels 40 steps per minute, a catapult launches a stroke per minute and hits the kite with a probability of 10 d where d is the distance (in steps) of the kite from the walls. The Romans send the kite one at a time, they want more than a 50% chance of getting at least one kite to the walls and they build the minimum number of kite that allows it. What's the probability in this case? Provide the first four digits after the comma as the answer.
+> The siege of the walls
+> The Romans are besieging the Gauls' village and intend to build rams to bring down the walls. The Gauls have a catapult capable of destroying their rams, but it cannot hit them if they are closer than 30 paces or farther than 150 paces from the walls. Moreover a ram travels 40 paces a minute, a catapult fires one shot a minute and hits the ram with a probability equal to
+> 10
+> d where d is the distance (in paces) of the ram from the walls. The Romans send the rams one at a time; they want a probability greater than 50% of getting at least one ram to the walls, and they build the least number of rams that allows this. What is the probability in this case? Give as the answer the first 4 digits after the decimal point.
 
-**Answer:** 7346
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_c#q13|src_cesenatico_2011_semifinale_c__Q13]]
 
 
 
@@ -462,11 +524,16 @@ This is the total value of the securities issued by the issuer.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Empty carriages between the first and last carriage (carriage)*
+*How many empty carts arrive at the camp between the first and the last barrel, on a circular caravan of 1196 paces*
 
-> A drunken transport The Romans look for a bottle of magic potion scattered among an entire cellar of identical bottles of wine. To bring the sticks to the camp, where the centurion will taste them one by one, a circular caravan of 1,196 steps is arranged, with the cellar and the camp diametrically opposite. Numerous carriages, all identical, form the caravan at 26 steps away from each other, going with the barrels and returning empty. To allow the centurion to dispense the wine, between two wagons carrying barrels, an increasing number of wagons are left empty: first 1, then 2, 3, 4, .... When the first carriage leaves empty again, the number of cans still to load is 4/5 of the total. How many empty wagons arrive at the camp between the first and last batch? (Non-empty wagons each carry the same number of barrels.)
+> An intoxicating transport
+> The Romans are looking for a barrel of magic potion lost among a whole cellar of identical barrels of wine. To carry the barrels to the camp, where the centurion will taste them one by one, a circular caravan 1196 paces long is organised, with the cellar and the camp diametrically opposite. Numerous carts, all alike, make up the caravan at 26 paces from one another, going with the barrels and returning empty. To allow the centurion to work off the wine, between two carts carrying barrels an increasing number of carts are left empty: first 1, then 2, 3, 4, .... When the first cart that set off arrives back empty at the cellar, the number of barrels still to be loaded is 4/5 of the total. How many empty carts arrive in all at the camp between the first and the last barrel? (The carts that are not empty each carry the same number of barrels.)
 
-**Answer:** 0990
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_c#q14|src_cesenatico_2011_semifinale_c__Q14]]
 
 
 
@@ -499,11 +566,17 @@ This is the total value of the securities issued by the issuer.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number with remainder 1 mod 2.10 and then divisible*
+*In how many rows the legionaries, more than 10000 and fewer than 11000, will be arranged*
 
-> Invincible Cohorts The centurion Gruppus Abelianus was commissioned to prepare a legionary cohort for the next attack on the village of the Gauls. Its task is to arrange all the legionaries in a tight rectangle, composed of rows all equal and of the minimum possible length (but greater than 1). After a few hours of unsuccessful work, Abelianus goes to Julius Caesar and complains: "We are Julius Caesar, I tried to arrange the soldiers in line for 2, for 3, for 4, for 5 and so on until I arranged them in line for 10, but in all cases a legionary always advanced. How can I do? Julius Caesar answers without delay:Centurion Abelianus, the number of legionaries to be deployed in each row must certainly be greater than 10, and Julius Caesar is sure  Julius Caesar always speaks of himself in the third person  that it is possible to deploy legionaries so that he does not add any. Knowing that the legionaries in total are more than 10000 but less than 11000, in how many rows will they be deployed?
+> Invincible cohorts
+> The centurion Gruppus Abelianus has been charged with preparing a cohort of legionaries for the next attack on the Gauls' village. His task is to arrange all the legionaries in a tight rectangle, made up of rows all equal and of the least possible length (but greater than 1).
+> After some hours of work with no result, Abelianus goes to Julius Caesar and complains: "Supreme Julius Caesar, I have tried to arrange the soldiers in rows of 2, of 3, of 4, of 5, and so on up to rows of 10, but in every case one legionary was left over. What am I to do?" Julius Caesar replies without hesitation: "Centurion Abelianus, the number of legionaries to be placed in each row will certainly have to be greater than 10, and Julius Caesar is sure — Julius Caesar always speaks of himself in the third person — that it is possible to arrange the legionaries so that none is left over." Knowing that the legionaries in all are more than 10000 but fewer than 11000, in how many rows will they be arranged?
 
-**Answer:** 0593
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_c#q15|src_cesenatico_2011_semifinale_c__Q15]]
 
 
 
@@ -537,10 +610,13 @@ This is the total value of the securities issued by the issuer.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max square points in a 4x4 grid*
+*Maximum n such that n points of a 4×4 lattice contain no square that can be formed from 4 of the 16 points*
 
-> An astute attack scheme by Julius Caesar explains to the centurion Caius Tatticus how he intends to dispose of his troops in a future confrontation. To do this, it shows them a pattern where there are 16 points arranged in a square grid 4×4. You can draw 20 squares having 4 vertices of these points. Julius Caesar wants to choose n points so that no square has all its vertices between them. What is the maximum value of n?
-> 
-> This year's event is the 12th national semi-final. The problem
+> A cunning plan of attack
+> Julius Caesar explains to the centurion Caius Tatticus how he intends to dispose his troops in a future engagement. To do so he shows them a diagram in which there are 16 points arranged in a 4×4 square lattice. One can draw 20 squares having as vertices 4 of these points. Julius Caesar wants to choose n points so that no square has all its vertices among them. What is the greatest n can be?
 
-**Answer:** 0010
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_c#q16|src_cesenatico_2011_semifinale_c__Q16]]

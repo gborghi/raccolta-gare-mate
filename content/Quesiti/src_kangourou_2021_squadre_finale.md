@@ -29,10 +29,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Prime between 11^2 and 12^2 sum of two squares*
+*What is that prime?*
 
-> Prime number 
-> What is the prime number between 112 and 122 that is the sum of two squares?
+> A prime
+>
+> What is the prime between 112 and 122 that is a sum of two squares?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q01|src_kangourou_2021_squadre_finale__Q01]]
 
 
 
@@ -59,9 +65,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many households on the bus (sum of km 2021)*
+*How many families are there?*
 
-> Families On a bus to Mirabilandia, which is Covid free, in addition to the driver, some families are travelling. Each family consists of exactly a father, a mother and one child, except one in which the children are two. At the end of the journey, adding up the kilometres travelled by all travellers, including the driver, gives 2021. How many families are there?
+> The families
+>
+> On a bus to Mirabilandia, which is Covid-free, besides the driver some families are travelling. Each family consists of exactly a father, a mother and one child, except one family in which there are two children. At the end of the journey, adding up the kilometres travelled by all the travellers, driver included, one obtains 2021. How many families are there?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q02|src_kangourou_2021_squadre_finale__Q02]]
 
 
 
@@ -88,9 +102,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum opposite sum of products of sequence 0,1,-1*
+*What is the greatest value we can obtain for the opposite of this sum?*
 
-> Product sum Any term in a sequence of 2021 integers is 1 or 0 or −1. For each unordered pair of terms in the sequence, the product of the terms that make up the pair is computed; all the products obtained are added. When we vary all the possible sequences of this kind, what is the maximum value we can get for the opposite of this sum?
+> Sum of products
+>
+> Each term of a sequence of 2021 integers is 1, or 0, or −1. For every unordered pair of terms of the sequence, the product of the terms that make it up is formed; all the products obtained are then added up. As all possible sequences of this kind vary, what is the greatest value we can obtain for the opposite of this sum?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q03|src_kangourou_2021_squadre_finale__Q03]]
 
 
 
@@ -118,11 +140,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle phi between square octagon and hexagon*
+*How many degrees does the angle ϕ measure?*
 
 ![[src_kangourou_2021_squadre_finale__prob4.png]]
 
-> The angle In the figure you see a square, a regular octagon and a regular hexagon, having one side in common. You can also see two triangles made by joining some of the vertices of the other figures. How many degrees does the angle φ measure, the sum of two consecutive angles of the two triangles shown in the figure?
+> The angle
+>
+> In the picture you see a square, a regular octagon and a regular hexagon, sharing a side. You also see two triangles obtained by joining some vertices of the other figures. How many degrees does the angle ϕ measure, the sum of two consecutive angles of the two triangles, as marked in the picture?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q04|src_kangourou_2021_squadre_finale__Q04]]
 
 
 
@@ -149,9 +178,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of weights of 5-digit numbers with 1..5.*
+*What number do you obtain?*
 
-> We call the weight of a positive integer of at least two digits the number of ordered pairs of its digits, not necessarily adjacent, for which the first digit is greater than the second; for example, the weight of 5142 is 4. Consider all the positive five-digit integers that you can write using for each of them all the digits 1, 2, 3, 4, 5 and add up their weights: what number do you get?
+> With 5 digits
+>
+> We call the weight of a positive integer of at least two digits the number of ordered pairs of its digits, not necessarily adjacent, for which the first digit is greater than the second; for example, the weight of 5142 is 4. Consider all the positive 5-digit integers that can be written using, for each of them, all the digits 1, 2, 3, 4, 5, and add up their weights. What number do you obtain?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q05|src_kangourou_2021_squadre_finale__Q05]]
 
 
 
@@ -177,9 +214,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AEG triangle area with two adjacent squares*
+*What is the area in square centimetres of the triangle AEG?*
 
-> The side of a square ABCD measures 19 cm. On the CD side a point G is located and, externally to the ABCD square, the square GCEF with side 14 cm is constructed. What is the area in square centimetres of the AEG triangle?
+> The triangle
+>
+> The side of a square ABCD measures 19 cm. On the side CD a point G is marked, and outside the square ABCD the square GCEF of side 14 cm is built. What is the area in square centimetres of the triangle AEG?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q06|src_kangourou_2021_squadre_finale__Q06]]
 
 
 
@@ -208,11 +253,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bus speed (order to two distributors)*
+*What is the speed of the bus, in km/h?*
 
-> The bus A bus, a truck and a car travel at a constant speed, the truck at 63 km/h and the car at 126 km/h. They pass in this order in front of a service station spaced at equal intervals. They then pass by a second service station still at the same time intervals as before, but this time in the order bus, car, truck. What is the speed of the bus in km/h?
->  
-> ϕ
+> The bus
+>
+> A bus, a lorry and a car travel at constant speed, the lorry at 63 km/h and the car at 126 km/h. They pass, in this order, a service station, separated by equal intervals of time. They then pass a second service station, still separated by the same intervals of time as before, but this time in the order bus, car, lorry. What is the speed of the bus, in km/h?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q07|src_kangourou_2021_squadre_finale__Q07]]
 
 
 
@@ -241,15 +291,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many euros does Francesco have (remainders and constraints)*
+*How many euros does Francesco have?*
 
 > Coins
-> When he emptied his piggy bank to count his savings, Francesco discovered that it
-> contained only 1-euro coins. He arranged them in piles of 3 coins each and had one euro left over.
-> So he arranged them in piles of 4 coins each and again had one euro left over. The same thing
-> happened when he arranged them in piles of 5 euros each. With these savings Francesco could
-> buy a book costing 65 euros, but not the ticket for a trip costing 150 euros.
-> How many euros does Francesco have?
+>
+> When he emptied his money box to count his savings, Francesco found that it contained only 1-euro coins. He arranged them in piles of 3 coins each and had one euro left over. He then arranged them in piles of 4 coins each and again had one euro left over. The same thing happened when he arranged them in piles of 5 euros each. With these savings Francesco could buy a book costing 65 euros, but not a ticket for a journey costing 150 euros. How many euros does Francesco have?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q08|src_kangourou_2021_squadre_finale__Q08]]
 
 
 
@@ -273,9 +325,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of vertices (angles in arithmetic progression)*
+*How many vertices does the polygon have?*
 
-> How many vertices? The interior angles of a convex polygon are measured in arithmetic progression: the smallest measures 106 degrees, the largest measures 194. How many vertices does the polygon have?
+> How many vertices?
+>
+> The interior angles of a convex polygon have sizes in arithmetic progression: the smallest measures 106 degrees, the largest measures 194. How many vertices does the polygon have?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q09|src_kangourou_2021_squadre_finale__Q09]]
 
 
 
@@ -300,9 +359,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers from 1 to 2021 without the digit 6*
+*How many numbers does he write?*
 
-> Without six John writes all integers from 1 to 2021 except those containing the digit 6. How many numbers does he write?
+> Without six
+>
+> Giovanni writes all the integers from 1 to 2021 except those that contain the digit 6. How many numbers does he write?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q10|src_kangourou_2021_squadre_finale__Q10]]
 
 
 
@@ -328,9 +395,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solutions (X,Y) with 135X6Y divisible by 12*
+*How many solutions (X, Y) does this problem admit?*
 
-> The letters Mauro must replace with a digit each letter appearing in the number 135X6Y so that the resulting number is divisible by 12. How many solutions (X,Y) does this problem admit? (It is not excluded that X may coincide with Y).
+> The letters
+>
+> Mauro must replace with a digit every letter that appears in the string 135X6Y so that the number obtained is divisible by 12. How many solutions (X, Y) does this problem admit? (It is not ruled out that X may equal Y.)
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q11|src_kangourou_2021_squadre_finale__Q11]]
 
 
 
@@ -357,9 +432,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The last four digits of the largest strongest number*
+*What are the last four digits of the largest strong number?*
 
-> Numbers "strong" Let's say a number is "strong" if every pair of its consecutive digits is a number that is a power, at least of second degree, of a positive integer. For example, 325 is a strong number because 32 and 25 are powers of integers. What are the last four digits of the largest strongest number? Write the digit of the thousands, that of the hundreds, etc. in order.
+> "Strong" numbers
+>
+> We say that a number is "strong" if every pair of its consecutive digits forms a number that is a power, of degree at least 2, of a positive integer. For example, 325 is a strong number, since 32 and 25 are powers of integers. What are the last four digits of the largest strong number? Write, in order, the thousands digit, the hundreds digit, and so on.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q12|src_kangourou_2021_squadre_finale__Q12]]
 
 
 
@@ -385,9 +468,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*F in cents (gift collection)*
+*How many hundredths is the quotient of the division M : F worth?*
 
-> Alice's birthday is during a summer camp and her friends want to give her a gift: to buy it, the 20 boys each put the same M-euro number and the 10 girls each put the same F-euro number. The average total amount collected exceeds 50% of the M sum paid by each boy. How many cents is the quotient of the division M: F ?
+> The present
+>
+> Alice has her birthday during a summer camp, and her companions want to give her a present. To buy it, the 20 boys each put in the same number M of euros, and the 10 girls each put in the same number F of euros. The average of the amounts collected in all exceeds by 50% the amount M paid by each boy. How many hundredths is the quotient of the division M : F worth?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q13|src_kangourou_2021_squadre_finale__Q13]]
 
 
 
@@ -426,21 +516,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the square with black rectangle 8x4*
+*What is the area of the square?*
 
 ![[src_kangourou_2021_squadre_finale__prob14.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.8]
-  \draw (0,0) rectangle (4,4);
-  \draw (2,2) circle (2);
-  \fill[black] (2.4,3.2) rectangle (4,4);
-\end{tikzpicture}
-\end{document}
-```
+> The black rectangle
+>
+> The black rectangle in the picture measures 8 × 4. It is placed in the gap between the edge of a square and the inscribed circle, with one vertex on the circle and the opposite vertex coinciding with a vertex of the square. What is the area of the square?
 
-> Black rectangle The black rectangle in the figure has dimensions of 8 × 4. It is located in the gap between the edge of a square and the inscribed circle, has a vertex on it and the opposite one coincides with a vertex of the square. How much is the area of the square?
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q14|src_kangourou_2021_squadre_finale__Q14]]
 
 
 
@@ -468,6 +556,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest early number of 4 digits*
+*What is the smallest anticipated number of 4 digits?*
 
-> If we write all the integers starting with 1, one after the other and without leaving any spaces between them, we get the sequence 123456789101112131415.... By isolating two or more digits that appear as consecutive in this alignment, it may happen that the number formed by them appears for the first time much earlier than its natural position: for example, 12 appears at the beginning, and then again in its natural position between 11 and 13. This kind of numbers are called early numbers. What's the smallest four-digit early number?
+> Anticipated numbers
+>
+> If we write all the integers starting from 1, one after another and leaving no spaces between one and the next, we obtain the sequence 123456789101112131415…. By isolating two or more digits that appear as consecutive in this string, it can happen that the number they form appears for the first time much earlier than its natural position: for example, 12 appears at the beginning, and then appears again in its natural position between 11 and 13. Numbers of this kind are called anticipated. What is the smallest anticipated number of 4 digits?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+[[Quesiti/src_kangourou_2021_squadre_finale#q15|src_kangourou_2021_squadre_finale__Q15]]

@@ -29,9 +29,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con AB=AC, angolo retto in A; prova angolo MAN=45°*
+*Triangolo con AB=AC e angolo retto in A; dimostrare che l'angolo MAN è uguale a 45°*
 
-> Si deve $ABC$ essere un triangolo in cui $AB = AC$ e $\angle CAB = 90^\circ$. Supponiamo che $M$ e $N$ siano punti sull'ipotenusa $BC$ in modo tale che $BM^2 + CN^2 = MN^2$. Dimostra che $\angle MAN = 45^\circ$.
+> Sia $ABC$ un triangolo in cui $AB = AC$ e $\angle CAB = 90^\circ$. Si supponga che $M$ e $N$ siano punti sull'ipotenusa $BC$ tali che $BM^2 + CN^2 = MN^2$. Dimostrare che $\angle MAN = 45^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2003#q01|src_rmo_2003__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove C(n,7) meno pavimento(n/7) divisibile per 7 per n>7*
+*Prova: C(n,7) meno floor(n/7) è divisibile per 7 per n>7*
 
-> Se $n$ è un numero intero superiore a 7, dimostrare che $\binom{n}{7} - \left\lfloor \frac{n}{7} \right\rfloor$ è divisibile per 7. [Qui $\binom{n}{7}$ indica il numero di modi per scegliere 7 oggetti tra gli oggetti $n$; inoltre, per qualsiasi numero reale $x$, $\lfloor x \rfloor$ indica il numero intero più grande non superiore a $x$.]
+> Se $n$ è un numero intero maggiore di 7, dimostrare che $\binom{n}{7} - \left\lfloor \frac{n}{7} \right\rfloor$ è divisibile per 7. [Qui $\binom{n}{7}$ denota il numero di modi per scegliere 7 oggetti tra $n$ oggetti; inoltre, per ogni numero reale $x$, $\lfloor x \rfloor$ denota il più grande intero non superiore a $x$.]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2003#q02|src_rmo_2003__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove min di tre espressioni ≤1/4 e max ≥2/9 quando a+b+c=1*
+*Dimostrare che il minimo di tre espressioni è ≤1/4 e il massimo è ≥2/9 quando a+b+c=1*
 
-> $a, b, c$ siano tre numeri reali positivi come $a + b + c = 1$. Prova che tra i tre numeri $a - ab$, $b - bc$, $c - ca$ c'è uno che è al massimo $\frac{1}{4}$ e c'è uno che è almeno $\frac{2}{9}$.
+> Siano $a, b, c$ tre numeri reali positivi tali che $a + b + c = 1$. Dimostrare che, tra i tre numeri $a - ab$, $b - bc$, $c - ca$, ce n'è uno che è al più $\frac{1}{4}$ e ce n'è uno che è almeno $\frac{2}{9}$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2003#q03|src_rmo_2003__Q03]]
 
 
 
@@ -106,9 +127,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i tripli ordinati di numeri interi non negativi con x≤y≤z, x+y+z≤100*
+*Conta le terne ordinate di interi non negativi tali che x≤y≤z e x+y+z≤100*
 
-> Trova il numero di triples ordinati $(x, y, z)$ di enti interi non negativi che soddisfano le condizioni: (i) $x \le y \le z$; (ii) $x + y + z \le 100$.
+> Trovare il numero di triple ordinate $(x, y, z)$ di interi non negativi che soddisfano le condizioni: (i) $x \le y \le z$; (ii) $x + y + z \le 100$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2003#q04|src_rmo_2003__Q04]]
 
 
 
@@ -133,9 +161,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto interno P con uguali rapporti di distanze vertex-side; trovare valore comune*
+*Punto interno P con rapporti uguali tra le distanze dal vertice e dai lati; determinare il valore comune*
 
-> Supponiamo che $P$ sia un punto interno di un triangolo $ABC$ tale che i rapporti $$\frac{d(A,BC)}{d(P,BC)}, \quad \frac{d(B,CA)}{d(P,CA)}, \quad \frac{d(C,AB)}{d(P,AB)}$$ siano tutti uguali. Trova il valore comune di questi rapporti. [Qui $d(X, YZ)$ indica la distanza perpendicolare da un punto $X$ alla linea $YZ$.]
+> Supponiamo che $P$ sia un punto interno di un triangolo $ABC$ tale che i rapporti
+> $$\frac{d(A,BC)}{d(P,BC)}, \quad \frac{d(B,CA)}{d(P,CA)}, \quad \frac{d(C,AB)}{d(P,AB)}$$
+> Sono tutti uguali. Determinare il valore comune di questi rapporti. [Qui $d(X, YZ)$ indica la distanza perpendicolare da un punto $X$ alla retta $YZ$.]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2003#q05|src_rmo_2003__Q05]]
 
 
 
@@ -160,9 +197,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Find all real a tale che x2+(a-2) x+1=3 di cui xx di cui ha esattamente tre soluzioni reali distinte*
+*Trovare tutti i valori reali di a tali che l'equazione x²+(a-2)x+1=3|x| abbia esattamente tre soluzioni reali distinte*
 
-> Trova tutti i numeri reali $a$ per i quali l'equazione $$x^2 + (a-2)x + 1 = 3|x|$$ ha esattamente tre soluzioni reali distinte in $x$.
+> Trovare tutti i numeri reali $a$ per cui l'equazione
+> $$x^2 + (a-2)x + 1 = 3|x|$$
+> Ha esattamente tre soluzioni reali distinte in $x$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2003#q06|src_rmo_2003__Q06]]
 
 
 
@@ -188,6 +234,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca due sottogruppi non vuoti A,B di {1,...,10} che riducono al minimo il prodotto A)/prod(B)*
+*Trovare due sottoinsiemi disgiunti e non vuoti A, B di {1,...,10} che minimizzino prod(A)/prod(B)*
 
-> Considera l'insieme $X = \{1, 2, 3, \ldots, 9, 10\}$. Trova due sottinsiemi non vuoti $A$ e $B$ di $X$ in modo tale che: (a) $A \cup B = X$; (b) $\mathrm{prod}(A)$ sia divisibile da $\mathrm{prod}(B)$, dove per qualsiasi insieme finito di numeri $C$, $\mathrm{prod}(C)$ indica il prodotto di tutti i numeri di $C$; (c) il quotiente $\mathrm{prod}(A)/\mathrm{prod}(B)$ è il più piccolo possibile.
+> Si consideri l'insieme $X = \{1, 2, 3, \ldots, 9, 10\}$. Si trovino due sottoinsiemi disgiunti e non vuoti $A$ e $B$ di $X$ tali che:
+> (a) $A \cup B = X$;
+> (b) $\mathrm{prod}(A)$ è divisibile per $\mathrm{prod}(B)$, dove, per qualsiasi insieme finito di numeri $C$, $\mathrm{prod}(C)$ denota il prodotto di tutti i numeri in $C$;
+> (c) il quoziente $\mathrm{prod}(A)/\mathrm{prod}(B)$ è il più piccolo possibile.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2003#q07|src_rmo_2003__Q07]]

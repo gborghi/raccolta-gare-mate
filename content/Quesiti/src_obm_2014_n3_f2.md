@@ -31,11 +31,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio EG/GD in triangolo equilaterale con punti di trisezione*
+*Rapporto EG/GD nel triangolo equilatero con i punti di trisezione*
 
-> Nella figura seguente, il triangolo $ABC$ è equilaterale e $BD = CE = AF = \frac{AB}{3}$. Il rapporto $\frac{EG}{GD}$ può essere scritto nella forma $\frac{m}{n}$ con $\gcd(m,n) = 1$. Qual è il valore di $m + n$?
+> Nella figura sottostante, il triangolo $ABC$ è equilatero e $BD = CE = AF = \frac{AB}{3}$. Il rapporto $\frac{EG}{GD}$ può essere scritto nella forma $\frac{m}{n}$ con $\gcd(m,n) = 1$. Qual è il valore di $m + n$?
 
 ![[src_obm_2014_n3_f2__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n3_f2#q01|src_obm_2014_n3_f2__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le ultime due cifre della parte impar del 2014*
+*Ultime due cifre della parte dispari di 2014*
 
-> La parte impar di $n$ è definita come il prodotto di tutti i numeri naturali impar meno o uguali a $n$. Quali sono le ultime due cifre della parte impar di $2014$?
+> La parte dispari di $n$ è definita come il prodotto di tutti i numeri naturali dispari minori o uguali a $n$. Quali sono le ultime due cifre della parte dispari di $2014$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n3_f2#q02|src_obm_2014_n3_f2__Q02]]
 
 
 
@@ -83,9 +97,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integra più vicina a a_{2014} in una sequenza ricorsiva*
+*Intero più vicino ad a_{2014} in una successione ricorsiva*
 
-> La sequenza $a_1, a_2, a_3, \ldots$ soddisfa $a_1 = 1$ e $a_n = \left\lceil \sqrt{a_{n-1}^2 + n} \right\rceil$. Qual è il numero intero più vicino a $a_{2014}$?
+> La successione $a_1, a_2, a_3, \ldots$ soddisfa $a_1 = 1$ e $a_n = \left\lceil \sqrt{a_{n-1}^2 + n} \right\rceil$. Qual è l'intero più vicino a $a_{2014}$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2014_n3_f2#q03|src_obm_2014_n3_f2__Q03]]
 
 
 
@@ -108,9 +129,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contate i sottosette di {1,...2014} con media 2012, trovate il rimanente mod 2014*
+*Conta i sottoinsiemi di {1,...,2014} con mediana 2012, determina il resto della divisione per 2014*
 
-> La media di un insieme $\{a_1, a_2, \ldots, a_n\}$ con $a_1 < a_2 < \cdots < a_n$ è definita come la media dei due termini centrali $\dfrac{a_{n/2} + a_{n/2+1}}{2}$ quando $n$ è pari, e come $a_{(n+1)/2}$ quando $n$ è pari. $M$ è il numero di sottoinsiemi di $\{1, 2, \ldots, 2014\}$ con media pari a $2012$. Trova il resto della divisione di $M$ per $2014$.
+> La mediana di un insieme $\{a_1, a_2, \ldots, a_n\}$ con $a_1 < a_2 < \cdots < a_n$ è definita come la media dei due termini centrali $\dfrac{a_{n/2} + a_{n/2+1}}{2}$ quando $n$ è pari, e come $a_{(n+1)/2}$ quando $n$ è dispari. Sia $M$ il numero di sottoinsiemi di $\{1, 2, \ldots, 2014\}$ la cui mediana è uguale a $2012$. Determinare il resto della divisione di $M$ per $2014$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n3_f2#q04|src_obm_2014_n3_f2__Q04]]
 
 
 
@@ -133,9 +161,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area massima di ombra di una scatola 3x4x6 sotto luce parallela di 45 gradi*
+*Area massima dell'ombra di un parallelepipedo 3x4x6 sotto luce parallela a 45 gradi*
 
-> Una scatola di legno in forma di parallelepipedone rettangolare con dimensioni $3 \times 4 \times 6$ si posa sul pavimento e una delle sue facce è completamente piatta sul pavimento. Una fonte luminosa emette raggi paralleli al pavimento a $45^\circ$. Considerando solo la luce proveniente da questa fonte, qual è la superficie massima possibile dell'ombra gettata sul pavimento (esclusa la superficie direttamente sotto la scatola)?
+> Una scatola di legno a forma di parallelepipedo rettangolo con dimensioni $3 \times 4 \times 6$ riposa sul pavimento con una delle sue facce completamente a contatto con il pavimento. Una sorgente luminosa emette raggi paralleli con un angolo di $45^\circ$ rispetto al pavimento. Considerando solo la luce proveniente da questa sorgente, qual è l'area massima possibile dell'ombra proiettata sul pavimento (senza includere l'area direttamente sotto la scatola)?
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n3_f2#q05|src_obm_2014_n3_f2__Q05]]
 
 
 
@@ -158,9 +193,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massima dimensione di insieme completamente divisibile contenente elementi inferiori a 2 milioni*
+*Dimensione massima di un insieme completamente divisibile che contiene 2016 e ha elementi inferiori a 2 milioni*
 
-> Un insieme è chiamato \emph{completamente divisibile} se per due elementi $a < b$ nel insieme, $a$ divide $b$. Un insieme di integri positivi $A$ è completamente divisibile, contiene $2016$ come uno dei suoi elementi e tutti gli elementi di $A$ sono inferiori a $2{,}000{,}000$. Qual è il numero massimo di elementi che $A$ può contenere?
+> Un insieme è detto \emph{completamente divisibile} se, per due elementi qualsiasi $a < b$ dell'insieme, $a$ divide $b$. Un insieme di interi positivi $A$ è completamente divisibile, contiene $2016$ come uno dei suoi elementi, e tutti gli elementi di $A$ sono minori di $2{,}000{,}000$. Qual è il numero massimo di elementi che $A$ può avere?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n3_f2#q06|src_obm_2014_n3_f2__Q06]]
 
 
 
@@ -183,9 +225,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La maggior parte degli studenti in classe vota con determinati limiti di frazione*
+*Numero massimo di studenti in aula che votano con i vincoli di frazione specificati*
 
-> In una classe, un insegnante ha votato se rinviare l'esame di matematica. Un terzo degli studenti ha votato a favore del rinvio e il resto ha votato contro. Diversi studenti hanno discusso e l'insegnante ha tenuto un nuovo voto, in cui esattamente $8$ gli studenti hanno cambiato idea, in modo che $\dfrac{3}{4}$ degli studenti hanno votato contro il rinvio. Qual è il numero massimo di studenti che avrebbero potuto partecipare al voto?
+> In un'aula, un insegnante fece votare se rinviare l'esame di matematica. Un terzo degli studenti votò a favore del rinvio, mentre gli altri votarono contro. Diversi studenti discussero e l'insegnante indisse una nuova votazione, nella quale esattamente $8$ studenti cambiarono idea, cosicché $\dfrac{3}{4}$ studenti votarono contro il rinvio. Qual è il numero massimo di studenti che avrebbero potuto partecipare alla votazione?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2014_n3_f2#q07|src_obm_2014_n3_f2__Q07]]
 
 
 
@@ -208,9 +257,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di punti in modo che ogni cerchio unitario all'interno di quadrato 4x4 contiene un punto*
+*Punti minimi tali che ogni cerchio unitario all'interno del quadrato 4x4 contenga un punto*
 
-> Il $ABCD$ deve essere quadrato con lunghezza laterale $4$. Un insieme $S$ di punti all'interno di $ABCD$ ha la seguente proprietà: ogni cerchio di raggio $1$ contenuto interamente all'interno di $ABCD$ (cioè contenuto all'interno o al suo confine) contiene almeno un punto di $S$. Qual è il numero minimo di punti in $S$?
+> Sia $ABCD$ un quadrato di lato $4$. Un insieme $S$ di punti nell'interno di $ABCD$ ha la seguente proprietà: ogni cerchio di raggio $1$ contenuto interamente in $ABCD$ (ossia contenuto nel suo interno o sulla sua frontiera) contiene almeno un punto di $S$. Qual è il numero minimo di punti in $S$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2014_n3_f2#q08|src_obm_2014_n3_f2__Q08]]
 
 
 
@@ -233,6 +289,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza SU in quadrilatore con un cerchio inciso, date le lunghezze tangenti*
+*Lunghezza SU in un quadrilatero con cerchio inscritto, dati i segmenti delle tangenti*
 
-> Un cerchio è tangente ai quattro lati del quadrilaterale $ABCD$. I punti di tangenza sono $R$ su $AB$, $S$ su $BC$, $T$ su $CD$ e $U$ su $DA$. Dato che $AU = 1$, $DU = 2$, $BS = 2$ e $CS = 4$, si trova la lunghezza $SU$.
+> Un cerchio è tangente ai quattro lati del quadrilatero $ABCD$. I punti di tangenza sono $R$ su $AB$, $S$ su $BC$, $T$ su $CD$ e $U$ su $DA$. Dato che $AU = 1$, $DU = 2$, $BS = 2$ e $CS = 4$, determina la lunghezza $SU$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n3_f2#q09|src_obm_2014_n3_f2__Q09]]

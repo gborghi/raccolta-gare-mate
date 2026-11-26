@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three suspects, one tells the truth*
+*Three suspects; one is telling the truth*
 
-> A police commissioner questioned three people A, B, C suspected of having committed a theft. A: «I am not the thief, the thief is C». B: «The thief is A and C is innocent». C: «I am not the thief and B is innocent». One told the truth, another two false things, a third one true thing and one false. Who is the thief?
+> A police commissioner interrogated three people, A, B, and C, suspected of having committed a theft. A: "I am not the thief; C is the thief." B: "A is the thief, and C is innocent." C: "I am not the thief, and B is innocent." One of them told the truth, another said two false things, and the third said one true thing and one false thing. Who is the thief?
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2026_benjamin_finale#qb1|src_kangourou_2026_benjamin_finale__QB1]]
 
 
 
@@ -56,11 +60,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight difference between 50 or 60 triple bags*
+*Weight difference between 50- or 60-kg bags*
 
-> There are 4 sacks and each weighs an integer number of kilograms. If we choose 3 of them in each of the four possible ways, the total weight of the 3 chosen is either 50 or 60 kilograms. How many possible differences in weight are there between the heaviest sack and the lightest one?
+> There are 4 sacks, and each weighs a whole number of kilograms. If we choose 3 sacks in each of the four possible ways, the total weight of the 3 chosen sacks is either 50 or 60 kilograms. How many possible differences in weight are there between the heaviest sack and the lightest sack?
 
-**Answer:** 1
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2026_benjamin_finale#qb2|src_kangourou_2026_benjamin_finale__QB2]]
 
 
 
@@ -83,11 +91,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remainder modulo 10 given remainders modulo 5 and 4*
+*The remainder modulo 10 is given by the remainder modulo 5 and 4*
 
-> The remainder of the division by 5 of a positive integer is 3; the remainder of the division by 4 of that same number is 2. What is the remainder of the division by 10 of that number?
+> The remainder when a positive integer is divided by 5 is 3; the remainder when that same number is divided by 4 is 2. What is the remainder when that number is divided by 10?
 
-**Answer:** 8
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2026_benjamin_finale#qb3|src_kangourou_2026_benjamin_finale__QB3]]
 
 
 
@@ -112,9 +124,13 @@ level: kangourou
 
 *Area of the fourth quadrilateral in a square*
 
-> In a square, four segments have been drawn, each having one endpoint at the same interior point of the square and the other endpoint at the midpoint of one of the sides. The areas (in square centimeters) of three of the four resulting quadrilaterals are given as $200$, $320$, and $160$. What is the area of the fourth quadrilateral, in square centimeters?
+> In a square, 4 line segments have been drawn, each having one endpoint at the same point inside the square and the other endpoint at the midpoint of one of the sides. The areas (in square centimeters) of three of the four quadrilaterals are given: $200$, $320$, $160$. What is the area of the fourth, in square centimeters?
 
-**Answer:** 280
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2026_benjamin_finale#qb4|src_kangourou_2026_benjamin_finale__QB4]]
 
 
 
@@ -137,11 +153,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Centers of external squares on a rectangle*
+*Centers of the squares external to a rectangle*
 
-> A rectangle $R$ is given. Externally to $R$, on each side of $R$ a square is constructed, one side of which coincides with that side of $R$. What can be said about the polygon whose vertices are the centers of the four squares?
+> A rectangle $R$ is given. Outside $R$, on each side of $R$, a square is constructed, one side of which coincides with that side of $R$. What can be said about the polygon whose vertices are the centers of the four squares?
 
-**Answer:** it is a square
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2026_benjamin_finale#qb5|src_kangourou_2026_benjamin_finale__QB5]]
 
 
 
@@ -165,8 +185,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Drawing balls to get at least 20 of the same color*
+*Drawing marbles, at least 20 of the same color*
 
-> In a bag there are 46 green, red or yellow marbles. I know that, by drawing them at random, to be certain of having at least 10 of the same color I must draw 26. How many must I plan to draw to be certain of having at least 20 of the same color?
+> There are 46 green, red, or yellow marbles in a bag. I know that, if I draw them at random, I must draw 26 marbles to be certain of having at least 10 marbles of the same color. How many marbles should I expect to draw to be certain of having at least 20 marbles of the same color?
 
-**Answer:** 46, all of them
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2026_benjamin_finale#qb6|src_kangourou_2026_benjamin_finale__QB6]]

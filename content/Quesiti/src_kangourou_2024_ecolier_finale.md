@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the result of Marco (always 1089)*
+*What result does Marco get (always 1089)?*
 
-> Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, he puts the digit 0 in front of this difference, otherwise he leaves it unchanged. Finally, he adds to the number thus obtained the number he gets by reversing the order of its digits. What is the result?
+> Marco tries to carry out the following operations: he chooses a three-digit number whose digits are all different, writes the number obtained by reversing the order of the digits, and calculates the difference between the larger and the smaller of the two numbers. If this difference has only two digits, he prefixes the digit 0 to this difference; otherwise, he leaves it unchanged. Finally, he adds to the number thus obtained the number he gets by reversing the order of its digits. What result does he obtain?
 
-**Answer:** 1089
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_finale#qe1|src_kangourou_2024_ecolier_finale__QE1]]
 
 
 
@@ -109,9 +113,14 @@ level: kangourou
 \end{document}
 ```
 
-> Four friends live alone, each in a different house from the others. The four of them are never absent at the same time, and they want that if something happens in one's house when he is absent, at least one of the other three, finding himself at home, can step in with the key. They then decide to leave a key to at least one friend who will keep it in his home in a place known to all four of them. What is the minimum number of keys to their own home that each of them must leave to their friends, considering them as a whole? And how are the left keys to be arranged?
+> Four friends live alone, each in a house different from the others'. The four are never all away from home at the same time, and they want that, if something happens in one of their houses while its occupant is away, at least one of the other three, who is at home in their own house, can intervene by entering with a key. They therefore decide to leave a key with at least one friend, who will keep it at their own home in a place known to all four. What is the minimum number of keys to their own house that each person must leave with their friends, considered as a group? And how should the keys that are left be arranged?
 
-**Answer:** 1
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_finale#qe2|src_kangourou_2024_ecolier_finale__QE2]]
 
 
 
@@ -134,11 +143,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of the empty gas cylinder*
+*Weight of empty gas cylinder*
 
-> A cylinder of liquid gas is full and weighs 28 kilograms. Initially half of the contents is used. After some time half of the remaining contents is used, and at that point the weight of the cylinder with what remains has dropped to 10 kilograms. How many kilograms does the empty cylinder weigh?
+> A liquefied gas cylinder is full and weighs 28 kilograms. Initially, half of its contents are used up. After some time, half of the remaining contents are used up, and at that point the weight of the cylinder together with what remains has dropped to 10 kilograms. How many kilograms does the empty cylinder weigh?
 
-**Answer:** 4
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_finale#qe3|src_kangourou_2024_ecolier_finale__QE3]]
 
 
 
@@ -161,11 +174,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Can the meaning of KAB be deduced?*
+*The meaning of KAB can be deduced*
 
-> In the strange language of Kangland, the words "yes" and "no" are translated into KAB and BAK, but not necessarily in this order. You meet a person you can trust who speaks both Italian and Kanglandish and ask them: Is it true that KAB means 'yes'? The person replies: KAB. Can you tell if KAB means "yes" or "no"?
+> In the strange language of Kanglandia, the words "yes" and "no" translate to "KAB" and "BAK", but not necessarily in that order. You meet a person you can trust who knows both Italian and the language of Kanglandia, and you ask them: "Is it true that KAB means 'yes'?" The person replies: "KAB". Can you deduce whether "KAB" means "yes" or "no"?
 
-**Answer:** no
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_finale#qe4|src_kangourou_2024_ecolier_finale__QE4]]
 
 
 
@@ -189,11 +206,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-What numbers could Bruno have written (maximum sum)
+*What numbers could Bruno have written (maximum sum)?*
 
-> Alice wrote a three-digit integer (thus greater than 99), Bruno wrote a two-digit integer (thus greater than 9) and Carla a one-digit integer. The case decided that the six digits that make up the three numbers should all be different from each other and that the sum of the three numbers should be as large as possible under these conditions. What are the numbers that Bruno could have written?
+> Alice wrote a three-digit integer (so greater than 99), Bruno wrote a two-digit integer (so greater than 9), and Carla wrote a one-digit integer. By chance, the six digits that make up the three numbers are all different from one another, and the sum of the three numbers is as large as possible under these conditions. What numbers could Bruno have written?
 
-**Answer:** 86,85,84,76,75,74
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_finale#qe5|src_kangourou_2024_ecolier_finale__QE5]]
 
 
 
@@ -217,8 +239,13 @@ What numbers could Bruno have written (maximum sum)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colourings of 8 objects with different adjacent colours*
+*Colorings of 8 objects with different adjacencies*
 
-> Eight objects are aligned. They need to be painted four in red, three in blue and one in yellow, but so that adjacent objects receive different colors. How many different colourings are admissible?
+> Eight objects are arranged in a line. Four of them are to be painted red, three blue, and one yellow, but in such a way that adjacent objects receive different colors. How many different colorings are permissible?
 
-**Answer:** 14
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_finale#qe6|src_kangourou_2024_ecolier_finale__QE6]]

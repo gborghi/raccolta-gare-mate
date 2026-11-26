@@ -31,13 +31,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prezzo del computer dopo sconto del 5% e poi aumento del 5%*
+*Prezzo del computer dopo uno sconto del 5% e poi un aumento del 5%*
 
-> Joana vuole comprare un computer oggi per 2000 reais e riceverebbe uno sconto del 5%. Se aspetta fino a domani, il prezzo del computer aumenterà del 5%. Se aspetta, cosa succederà?
-> 
-> (A) Niente; pagherà lo stesso importo. (B) Perderà 100 reais. (C) Guadagna 105 reais. (D) Perderà 95 reais. (E) Perderà 105 reais.
+> Oggi Joana vuole comprare un computer per 2000 reais e riceverebbe uno sconto del 5%. Se aspetta fino a domani, il prezzo del computer aumenterà del 5%. Se aspetta, cosa succederà?
+>
+> (A) Niente; pagherà la stessa cifra. (B) Perderà 100 reais. (C) Guadagnerà 105 reais. (D) Perderà 95 reais. (E) Perderà 105 reais.
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n2_f1#q01|src_obm_2013_n2_f1__Q01]]
 
 
 
@@ -65,15 +69,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di blocchi per completare un parallelepiped rectangulare*
+*Blocchi minimi per completare un parallelepipedo rettangolo*
 
-> Esmeralda sta costruendo un parallelepiped rettangolare usando blocchi più piccoli identici. Per completare il suo compito, quanti blocchi almeno deve ancora mettere Esmeralda?
-> 
+> Esmeralda sta costruendo un parallelepipedo rettangolo usando blocchi più piccoli identici. Per completare il compito, quanti blocchi deve ancora posizionare, al minimo, Esmeralda?
+>
 > (A) 12 \quad (B) 14 \quad (C) 16 \quad (D) 18 \quad (E) 20
 
 ![[src_obm_2013_n2_f1__q02.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n2_f1#q02|src_obm_2013_n2_f1__Q02]]
 
 
 
@@ -101,15 +110,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I modi per coprire una griglia di 24 quadrati con 4 pezzi L quadrati*
+*Modi per coprire una griglia di 24 caselle con pezzi a L da 4 caselle*
 
-> Luisa ha sei pezzi identici formati ciascuno da quattro unità quadrate di area 1. Vuole inserire tutti e sei i pezzi in un quadrilaterale formato da 24 unità quadrate di area 1. Ha già posto alcuni pezzi come mostrato nella figura. In quanti modi può finire di coprire il quadrilaterale?
-> 
+> Luisa ha sei pezzi identici, ciascuno formato da quattro quadrati unitari di area 1. Vuole far rientrare tutti e sei i pezzi in un quadrilatero formato da 24 quadrati unitari di area 1. Ha già collocato alcuni pezzi come mostrato nella figura. In quanti modi diversi può completare la copertura del quadrilatero?
+>
 > (A) 2 \quad (B) 3 \quad (C) 4 \quad (D) 5 \quad (E) 6
 
 ![[src_obm_2013_n2_f1__q03.png]]
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n2_f1#q03|src_obm_2013_n2_f1__Q03]]
 
 
 
@@ -136,15 +150,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area reale della camera da letto dal disegno di scala 1:45*
+*Superficie reale della camera da letto ricavata da un disegno in scala 1:45*
 
-> Le misure riportate nella figura si riferiscono a un disegno su scala (scala $1{:}45$) che rappresenta una camera da letto rettangolare, compresa una bagno. Qual è la vera area della camera da letto?
-> 
+> Le misure riportate nella figura si riferiscono a un disegno in scala (scala $1{:}45$) che rappresenta una camera da letto rettangolare comprendente un bagno. Qual è l'area reale della camera da letto?
+>
 > (A) $12.15\,\text{m}^2$ \quad (B) $15.5\,\text{m}^2$ \quad (C) $27\,\text{m}^2$ \quad (D) $32\,\text{m}^2$ \quad (E) $60\,\text{m}^2$
 
 ![[src_obm_2013_n2_f1__q04.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n2_f1#q04|src_obm_2013_n2_f1__Q04]]
 
 
 
@@ -172,15 +190,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ante sul perimetro del pentagono, posizione dopo i secondi 2013*
+*Formica sul perimetro del pentagono, posizione dopo 2013 secondi*
 
-> Nel pentagono $ABCDE$, le lunghezze laterali sono $AB = BC = CD = 2$ metri e $DE = EA = 3$ metri. Una formica parte al vertice $A$ e cammina a velocità costante di un metro al secondo lungo i lati, sempre nella stessa direzione. Dove sarà la formica dopo $2013$ secondi?
-> 
+> Nel pentagono $ABCDE$, le lunghezze dei lati sono di $AB = BC = CD = 2$ metri e di $DE = EA = 3$ metri. Una formica parte dal vertice $A$ e cammina a velocità costante di un metro al secondo lungo i lati, sempre nella stessa direzione. Dove si troverà la formica dopo $2013$ secondi?
+>
 > (A) $A$ \quad (B) $B$ \quad (C) $C$ \quad (D) $D$ \quad (E) $E$
 
 ![[src_obm_2013_n2_f1__q05.png]]
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n2_f1#q05|src_obm_2013_n2_f1__Q05]]
 
 
 
@@ -206,13 +229,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio incorreto dei moltipli di 7 utilizzando la regola della somma digitali inferiore a 100*
+*Conteggio errato dei multipli di 7 tramite la regola della somma delle cifre al di sotto di 100*
 
-> Lo studente $D$ (utilizzando questo nome di codice per proteggere la sua identità) non ha prestato attenzione in classe, e quando gli è stato chiesto di verificare se un numero è un moltiplo di 7, ha deciso di utilizzare la regola della somma digitali (la regola per 3): somma tutte le cifre e verifica se il risultato è un moltiplo di 7. Ad esempio, per 100: $1+0+0=1$, che non è un multiple di 7, quindi identifica correttamente 100 come non un multiple di 7. Questo metodo scorretto indica che un numero è un multiple di 7 ogni volta che la somma digitali è un multiple di 7. Quanti numeri interi positivi inferiori a 100 indicheranno questo metodo errato come multipli di 7 (cioè, il metodo dice che è un multiple di 7 ma in realtà non lo è)?
-> 
+> Lo studente $D$ (usiamo questo nome in codice per proteggere la sua identità) non ha prestato attenzione in classe e, quando gli è stato chiesto di verificare se un numero è multiplo di 7, ha deciso di usare la regola della somma delle cifre (la regola per il 3): somma tutte le cifre e verifica se il risultato è multiplo di 7. Per esempio, per 100: $1+0+0=1$, che non è multiplo di 7, quindi identifica correttamente 100 come non multiplo di 7. Questo metodo errato indicherà che un numero è multiplo di 7 ogni volta che la somma delle cifre sarà multipla di 7. Quanti numeri interi positivi minori di 100 questo metodo errato indicherà \emph{erroneamente} come multipli di 7 (cioè, il metodo dice che è multiplo di 7 ma in realtà non lo è)?
+>
 > (A) 0 \quad (B) 1 \quad (C) 2 \quad (D) 3 \quad (E) 4
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n2_f1#q06|src_obm_2013_n2_f1__Q06]]
 
 
 
@@ -238,13 +266,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tricco di divisibilità per 7: contare i moltipli attraverso il raddoppio dell'ultima cifra; trovare il numero concatenato*
+*Trucco per la divisibilità per 7: conta i multipli raddoppiando l'ultima cifra; trova il numero concatenato*
 
-> Dalvenibon (un altro alias di studente $D$) ha trovato un amico per insegnargli un trucco per controllare la divisibilità per 7: cancellare la cifra di unità del numero e sottrarre due volte quella cifra dal numero rimanente. Per esempio, per 1001: rimuovere l'ultimo numero 1, e calcolare $100 - 2\cdot 1 = 98$, che è un multiple di 7. Ripetizione, $9 - 2\cdot 8 = 9 - 16 = -7$, multiplo di 7. Questo conferma che 1001 è un multiple di 7. Allo stesso modo 98: $9 - 2\cdot 8 = -7$, un multiple di 7. Usando questo metodo per elencare tutti i multipli positivi di 7 meno di 100 in ordine crescente e concatenandoli, qual è il numero risultante?
-> 
+> Dalvenibon (un altro alias dello studente $D$) ha trovato un amico che gli ha insegnato un trucco per verificare la divisibilità per 7: cancellare la cifra delle unità del numero e sottrarre dal numero rimanente il doppio di quella cifra. Per esempio, per 1001: si rimuove l'ultima cifra, 1, e si calcola $100 - 2\cdot 1 = 98$, che è un multiplo di 7. Ripetendo, si ottiene $9 - 2\cdot 8 = 9 - 16 = -7$, un multiplo di 7. Ciò conferma che 1001 è un multiplo di 7. Analogamente, per 98: $9 - 2\cdot 8 = -7$, un multiplo di 7. Usando questo metodo per elencare in ordine crescente tutti i multipli positivi di 7 minori di 100 e per concatenarli, qual è il numero risultante?
+>
 > (A) 102112 \quad (B) 270280 \quad (C) 833823 \quad (D) 929925 \quad (E) 923823
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n2_f1#q07|src_obm_2013_n2_f1__Q07]]
 
 
 
@@ -270,13 +303,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri naturali 1-9 divisibili per 5 non 9, o 9 non 5; massimo anche divisibili per 7*
+*Conta i numeri naturali da 1 a 9 divisibili per 5 ma non per 9, oppure per 9 ma non per 5; il massimo è anch'esso divisibile per 7*
 
-> Tra i numeri naturali da 1 a 9, quanti sono divisibili da 5 ma non da 9, o divisibili da 9 ma non da 5? Qual è il numero massimo di numeri naturali fino a qualche limite che sono divisibili per 5 ma non per 9 (o viceversa) e allo stesso tempo divisibili per 7? Al massimo quanti dei numeri nell'intervallo sono divisibili per 7?
-> 
+> Tra i numeri naturali da 1 a 9, quanti sono divisibili per 5 ma non per 9, oppure divisibili per 9 ma non per 5? Qual è il numero massimo di numeri naturali fino a un certo limite che siano divisibili per 5 ma non per 9 (o viceversa) e contemporaneamente divisibili per 7? Al massimo, quanti dei numeri dell'intervallo sono divisibili per 7?
+>
 > (A) 4 \quad (B) 5 \quad (C) 6 \quad (D) 7 \quad (E) 8
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n2_f1#q08|src_obm_2013_n2_f1__Q08]]
 
 
 
@@ -308,17 +346,24 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Problema a tre porte: dedurre quale porta nasconde l'auto dalle dichiarazioni dei portieri*
+*Problema delle tre porte: deduci quale porta nasconde l'auto a partire dalle dichiarazioni del portiere*
 
-> Il programma $O$ divenne famoso negli Stati Uniti. Il programma originale: un partecipante sceglie una delle tre porte; dietro una c'è un'auto, dietro le altre capre. L'ospite (che sa dove si trova l'auto) apre una delle porte non scelte che rivela una capra. Nella nuova versione del programma, ciascuna delle tre porte ha un portiere che fa una dichiarazione. Il partecipante sceglie poi una porta. I tre portatori affermano:
-> 
-> - L'auto non e' dietro la mia porta. - L'auto e' dietro la mia porta. - Porter 3: l'auto e' dietro la mia porta.
-> 
-> È noto che almeno una affermazione è vera e almeno una falsa. Di dietro a quale porta c'è l'auto?
-> 
-> (A) Porta 1 \quad (B) Porta 2 \quad (C) Porta 3 \quad (D) Non è possibile determinare. Non è possibile in nessuna di esse.
+> Il programma $O$ è diventato famoso negli Stati Uniti. Il programma originale: un partecipante sceglie una delle tre porte; dietro una c'è un'auto, dietro le altre delle capre. Il conduttore (che sa dove si trova l'auto) apre una delle porte non scelte, rivelando una capra. Nella nuova versione del programma, ciascuna delle tre porte ha un portiere che fa una dichiarazione. Il partecipante sceglie poi una porta. I tre portieri dichiarano:
+>
+> - Porter 1: L'auto non è dietro la mia porta.
+> - Porter 2: L'auto è dietro la mia porta.
+> - Porter 3: L'auto è dietro la mia porta.
+>
+> È noto che almeno una delle affermazioni è vera e almeno una è falsa. Dietro quale porta si trova l'auto?
+>
+> (A) Porta 1 \quad (B) Porta 2 \quad (C) Porta 3 \quad (D) Non è possibile determinarlo. \quad (E) Non è possibile in nessuna di esse.
 
-**Risposta:** A
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n2_f1#q09|src_obm_2013_n2_f1__Q09]]
 
 
 
@@ -351,17 +396,25 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo di numeri dispari consecutivi: quale riga contiene 2013?*
+*Triangolo dei numeri dispari consecutivi: in quale riga si trova 2013?*
 
-> Il triangolo aritmetico di Fibonacci si forma posizionando tutti i numeri integri odd positivi, a partire da 1, riga per riga, con ogni riga contenente un elemento in più rispetto al precedente. Le prime quattro righe sono:
-> 
-> $$\text{Row 1: } 1$$ $$\text{Row 2: } 3 \quad 5$$ $$\text{Row 3: } 7 \quad 9 \quad 11$$ $$\text{Row 4: } 13 \quad 15 \quad 17 \quad 19$$
-> 
-> In quale riga appare il numero $2013$?
-> 
+> Il triangolo aritmetico di Fibonacci si forma disponendo, riga per riga, tutti gli interi dispari positivi a partire da 1, con ogni riga che contiene un elemento in più rispetto alla precedente. Le prime quattro righe sono:
+>
+> $$\text{Row 1: } 1$$
+> $$\text{Row 2: } 3 \quad 5$$
+> $$\text{Row 3: } 7 \quad 9 \quad 11$$
+> $$\text{Row 4: } 13 \quad 15 \quad 17 \quad 19$$
+>
+> In quale riga compare il numero $2013$?
+>
 > (A) 45 \quad (B) 46 \quad (C) 62 \quad (D) 63 \quad (E) 64
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n2_f1#q10|src_obm_2013_n2_f1__Q10]]
 
 
 
@@ -386,13 +439,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo retto, punto medio D di AC, BD=3DC, trovare ipotenusa*
+*Triangolo rettangolo, punto medio D di AC, BD=3DC, trovare l'ipotenusa*
 
-> $ABC$ sia un triangolo rettangolo con angolo rettangolo a $A$. $D$ sia il punto medio di $AC$. Dato che $BD = 3DC$ e $AC = 2$, trovare la lunghezza dell'ipotenuza del triangolo $ABC$.
-> 
+> Sia $ABC$ un triangolo rettangolo con l'angolo retto in $A$. Sia $D$ il punto medio di $AC$. Dato che $BD = 3DC$ e $AC = 2$, determina la lunghezza dell'ipotenusa del triangolo $ABC$.
+>
 > (A) $\sqrt{7}$ \quad (B) $2\sqrt{2}$ \quad (C) $3$ \quad (D) $\sqrt{10}$ \quad (E) $2\sqrt{3}$
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n2_f1#q11|src_obm_2013_n2_f1__Q11]]
 
 
 
@@ -426,17 +483,26 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Amici che viaggiano lungo le strade: ogni giorno si fermano alla città 6*
+*Amici che viaggiano lungo le strade: di giorno si fermano tutti in città 6*
 
-> Un paese ha 11 città collegate da strade uniche. Undici amici decidono di viaggiare, ognuno partendo da una città diversa. Ogni giorno viaggiano esattamente su una strada. La tabella qui sotto mostra da quale città ogni amico parte e a quale città arriva.
-> 
-> Partendo da} & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 \\ \hline \text{arrivo a} & 6 & 9 & 1 & 2 & 3 & 4 & 1 & 1 & 8 & 5 \end{array}
-> 
-> Quando un amico arriva alla città 6, smette di viaggiare. In quanti giorni tutti gli amici smetteranno di viaggiare?
-> 
+> Un paese ha 11 città collegate da strade uniche. Undici amici decidono di viaggiare, ciascuno partendo da una città diversa. Ogni giorno percorrono esattamente una strada. La tabella sottostante mostra da quale città parte ciascun amico e in quale città arriva.
+>
+> \begin{array}{c|ccccccccccc}
+> \text{Partenza da} & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 \\
+> \hline
+> \text{Arrivo a} & 6 & 9 & 1 & 2 & 3 & 4 & 4 & 1 & 1 & 8 & 5
+> \end{array}
+>
+> Dopo che un amico raggiunge la città 6, smette di viaggiare. In quanti giorni tutti gli amici avranno smesso di viaggiare?
+>
 > (A) 2 \quad (B) 3 \quad (C) 6 \quad (D) 9 \quad (E) 12
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n2_f1#q12|src_obm_2013_n2_f1__Q12]]
 
 
 
@@ -462,13 +528,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La maggior quantità di cioccolatini non esattamente acquistabili da scatole di 8,9,10*
+*La quantità più elevata di cioccolatini non esattamente acquistabile in confezioni da 8, 9 o 10*
 
-> In un negozio di cioccolato ci sono scatole di cioccolati 8, 9 e 10. Si noti che non si possono acquistare esattamente alcune quantità; ad esempio, non si possono acquistare esattamente 12 cioccolatini. Qual è la maggior quantità di cioccolati che non si possono acquistare esattamente in questo negozio?
-> 
+> In un negozio di cioccolato ci sono confezioni da 8, 9 e 10 cioccolatini. Si noti che alcune quantità non possono essere acquistate esattamente; ad esempio, 12 cioccolatini non possono essere acquistati esattamente. Qual è la quantità maggiore di cioccolatini che \emph{non} può essere acquistata esattamente in questo negozio?
+>
 > (A) 25 \quad (B) 13 \quad (C) 11 \quad (D) 31 \quad (E) 53
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n2_f1#q13|src_obm_2013_n2_f1__Q13]]
 
 
 
@@ -494,13 +565,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare interi fino a 100 che sono potenze perfette a^b con b>1*
+*Conta gli interi fino a 100 che sono potenze perfette a^b con b>1*
 
-> Un \emph{potenza perfetta} è un intero positivo della forma $a^b$, dove $a$ e $b$ sono interi positivi con $b > 1$. Per quanti numeri interi positivi inferiori o uguali a 100 il numero è una potenza perfetta che supera un quadrato perfetto? In altre parole, per quanti integri positivi $n \le 100$ esiste un intero $a$ e $b > 1$ tale che $n = a^b$?
-> 
+> Una \emph{potenza perfetta} è un numero intero positivo della forma $a^b$, dove $a$ e $b$ sono numeri interi positivi con $b > 1$. Per quanti numeri interi positivi minori o uguali a 100 il numero è una potenza perfetta che supera un quadrato perfetto? In altre parole, per quanti numeri interi positivi $n \le 100$ esistono un numero intero $a$ e $b > 1$ tali che $n = a^b$?
+>
 > (A) 64 \quad (B) 72 \quad (C) 81 \quad (D) 90 \quad (E) 96
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n2_f1#q14|src_obm_2013_n2_f1__Q14]]
 
 
 
@@ -528,15 +604,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Eroe e cattivo: trovare angolo BHA da velocità di arco e freccia*
+*Eroe e cattivo: determina l'angolo BHA a partire dalle velocità dell'arco e della freccia*
 
-> In un disegno animato, un cattivo è in posizione $V$ e spara un fascio di energia lungo l'arco di un cerchio dal punto $H$ per colpire l'amico a $A$. L'eroe è in posizione $H$ e spara una freccia in linea retta verso $A$. Dato che $VA = 60\,\text{m}$, il fascio viaggia a $10\,\text{m/s}$, e la freccia viaggia a $15\,\text{m/s}$, e che l'eroe spara esattamente quando il fascio viene lanciato in modo che entrambi arrivano a $A$ contemporaneamente, determinare il valore dell'angolo $\angle BHA$.
-> 
+> In un disegno animato, un malvagio si trova nella posizione $V$ e spara un raggio di energia lungo l'arco di un cerchio, partendo dal punto $H$, per colpire l'amico in $A$. L'eroe si trova nella posizione $H$ e scocca una freccia in linea retta verso $A$. Dato che $VA = 60\,\text{m}$, il raggio viaggia a $10\,\text{m/s}$ e la freccia viaggia a $15\,\text{m/s}$, e dato che l'eroe scocca la freccia esattamente nel momento in cui il raggio viene sparato, così che entrambi arrivino in $A$ contemporaneamente, determina il valore dell'angolo $\angle BHA$.
+>
 > (A) $10^\circ$ \quad (B) $15^\circ$ \quad (C) $30^\circ$ \quad (D) $45^\circ$ \quad (E) $60^\circ$
 
 ![[src_obm_2013_n2_f1__q15.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n2_f1#q15|src_obm_2013_n2_f1__Q15]]
 
 
 
@@ -562,13 +643,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più grande divisore comune di tutti i numeri a 9 cifre (cifre 1-9)*
+*Massimo divisore comune di tutti i numeri pandigitali di 9 cifre (cifre da 1 a 9)*
 
-> Determina il più grande divisore comune a tutti i numeri a 9 cifre formati utilizzando ciascuno dei numeri $1, 2, 3, 4, 5, 6, 7, 8, 9$ esattamente una volta.
-> 
+> Determinare il più grande divisore comune a \emph{tutti} i numeri di 9 cifre ottenuti utilizzando ciascuna delle cifre $1, 2, 3, 4, 5, 6, 7, 8, 9$ esattamente una volta.
+>
 > (A) 3 \quad (B) 9 \quad (C) 18 \quad (D) 27 \quad (E) 123456789
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n2_f1#q16|src_obm_2013_n2_f1__Q16]]
 
 
 
@@ -595,13 +681,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova x+y dato x^3+y^3=9 e x^2×y+xy^2=6*
+*Trovare x+y sapendo che x^3+y^3=9 e x^2*y+xy^2=6*
 
-> Determinare $x + y$, dove $x$ e $y$ sono numeri reali che soddisfano $$x^3 + y^3 = 9 \quad \text{and} \quad x^2 y + x y^2 = 6.$$
-> 
+> Determinare $x + y$, dove $x$ e $y$ sono numeri reali tali che
+> $$x^3 + y^3 = 9 \quad \text{and} \quad x^2 y + x y^2 = 6.$$
+>
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n2_f1#q17|src_obm_2013_n2_f1__Q17]]
 
 
 
@@ -628,15 +720,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono inscritto: trovare angolo DAE dato BCE=35 e CD perpendicolare AB*
+*Pentagono inscritto: determina l'angolo DAE sapendo che BCE=35 e che AB è perpendicolare a CD*
 
-> Nella figura, $O$ è il centro di un cerchio che attraversa i punti $A$, $B$, $C$, $D$, $E$ (in ordine sul cerchio). Gli accordi $AB$ e $CD$ sono perpendicolari l'uno all'altro e $\angle BCE = 35^\circ$. Trova il valore in gradi di angolo $\angle DAE$.
-> 
+> Nella figura, $O$ è il centro di una circonferenza che passa per i punti $A$, $B$, $C$, $D$, $E$ (in ordine sulla circonferenza). Le corde $AB$ e $CD$ sono perpendicolari tra loro, e $\angle BCE = 35^\circ$. Determinare il valore, in gradi, dell'angolo $\angle DAE$.
+>
 > (A) $35^\circ$ \quad (B) $40^\circ$ \quad (C) $45^\circ$ \quad (D) $50^\circ$ \quad (E) $55^\circ$
 
 ![[src_obm_2013_n2_f1__q18.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n2_f1#q18|src_obm_2013_n2_f1__Q18]]
 
 
 
@@ -662,13 +758,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza ricursiva mod 4 con conteggio di moltipli di 4; troverà il termine 2013*
+*Successione ricorsiva modulo 4 con conteggio dei multipli di 4; trovare il 2013-esimo termine*
 
-> Ogni termine di una sequenza è definito come il rimanente quando si divide per 4 la somma del termine precedente e il numero di moltipli di 4 che appaiono tra i termini della sequenza fino a quel punto. Dato che il primo termine è 0, qual è il termine $2013^{\text{th}}$ della sequenza?
-> 
+> Ogni termine di una successione è definito come il resto della divisione per 4 della somma del termine precedente e del numero di multipli di 4 che compaiono tra i termini della successione fino a quel punto. Dato che il primo termine è 0, qual è il termine $2013^{\text{th}}$ della successione?
+>
 > (A) 0 \quad (B) 1 \quad (C) 2 \quad (D) 3 \quad (E) Impossibile da determinare.
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n2_f1#q19|src_obm_2013_n2_f1__Q19]]
 
 
 
@@ -694,13 +795,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri a 3 cifre che restano validi quando la calcolatrice è girata a 180 gradi*
+*Conta i numeri a tre cifre che rimangono validi quando la calcolatrice viene ruotata di 180 gradi*
 
-> A Juquinha piace giocare con la sua calcolatrice. Le cifre della calcolatrice vengono visualizzate su un display a 7 segmenti. Ha definito i numeri chiamati \emph{interessante invertito} come numeri che, quando la calcolatrice è girata $180^\circ$, visualizzano ancora un numero valido (le cifre 0, 1, 2, 5, 6, 8, 9 rimangono valide quando ruotate; nota che i numeri rotati $0\to 0$, $1\to 1$, $2\to 2$, $5\to 5$, $6\to 9$, $8\to 8$, $9\to 6$). Ad esempio, 25 invertito dà 52, che è un numero valido. Ma 3 non è interessante invertito perché ruotare dà una forma che non è una cifra. Quanti numeri inversi interessanti a 3 cifre ci sono? (Le sequenze con uno zero a sinistra non sono numeri validi.)
-> 
+> A Juquinha piace giocare con la sua calcolatrice. Le cifre sulla calcolatrice appaiono su un display a 7 segmenti. Ha definito i numeri chiamati \emph{invertiti interessanti} come numeri che, quando la calcolatrice viene ruotata $180^\circ$, mostrano comunque un numero valido (le cifre 0, 1, 2, 5, 6, 8, 9 rimangono valide dopo la rotazione; si noti che, ruotando $0\to 0$, $1\to 1$, $2\to 2$, $5\to 5$, $6\to 9$, $8\to 8$, $9\to 6$). Ad esempio, 25 ruotato dà 52, che è un numero valido. Ma 3 non è un invertito interessante perché, dopo la rotazione, si ottiene una forma che non è una cifra. Quanti numeri invertiti interessanti di tre cifre esistono? (Le sequenze con uno zero iniziale a sinistra non sono numeri validi.)
+>
 > (A) 150 \quad (B) 216 \quad (C) 125 \quad (D) 80 \quad (E) 120
 
-**Risposta:** A
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n2_f1#q20|src_obm_2013_n2_f1__Q20]]
 
 
 
@@ -726,13 +832,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri specchiati a 3 cifre sulla calcolatrice (specchio sul lato destro)*
+*Conta i numeri a 3 cifre speculari sulla calcolatrice (specchio sul lato destro)*
 
-> Anche a Mariazinha, sorella di Juquinha, piace giocare con la calcolatrice. Ha creato numeri specchiati interessanti: sono numeri che, quando scritti sulla calcolatrice e visualizzati in uno specchio posizionato a destra del display, mostrano anche un numero valido. Ad esempio, la cifra 5 riflessa dà 5, e la cifra 2 riflessa dà 3 (e viceversa); la cifra 4, tuttavia, quando è riflessa dà una strana figura che non rappresenta una cifra. Le cifre che rimangono valide quando sono rispecchiate sono 0, 1, 2, 3, 5, 8 (dove $0\to 0$, $1\to 1$, $2\to 3$, $3\to 2$, $5\to 5$, $8\to 8$). Quanti numeri a 3 cifre sono interessanti? (Le sequenze con uno zero di punta non sono numeri validi.)
-> 
+> Anche Mariazinha, la sorella di Juquinha, ama giocare con la calcolatrice. Ha creato numeri \emph{interessanti speculari}: si tratta di numeri che, una volta scritti sulla calcolatrice e osservati in uno specchio collocato a destra del display, mostrano anch'essi un numero valido. Ad esempio, il digit 5 riflesso dà 5, e il digit 2 riflesso dà 3 (e viceversa); il digit 4, invece, quando viene specchiato, dà una figura strana che non rappresenta un digit. I digit che rimangono validi quando vengono specchiati sono 0, 1, 2, 3, 5, 8 (dove $0\to 0$, $1\to 1$, $2\to 3$, $3\to 2$, $5\to 5$, $8\to 8$). Quanti numeri speculari interessanti di tre cifre esistono? (Le sequenze con uno zero iniziale non sono numeri validi.)
+>
 > (A) 150 \quad (B) 216 \quad (C) 125 \quad (D) 80 \quad (E) 120
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n2_f1#q21|src_obm_2013_n2_f1__Q21]]
 
 
 
@@ -759,15 +870,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova CG in due rettangoli sovrapposti con lati paralleli*
+*Trovare CG in due rettangoli che si sovrappongono e hanno i lati paralleli*
 
-> Nella figura, i rettangoli $ABCD$ e $EFGH$ hanno lati paralleli. Poiché $AE = 3$, $BF = 4$ e $DH = 5$, si trova la misura di $CG$.
-> 
+> Nella figura, i rettangoli $ABCD$ e $EFGH$ hanno i lati paralleli. Dato che $AE = 3$, $BF = 4$ e $DH = 5$, determina la misura di $CG$.
+>
 > (A) 6 \quad (B) $\sqrt{32}$ \quad (C) 7 \quad (D) $\sqrt{40}$ \quad (E) $\sqrt{60}$
 
 ![[src_obm_2013_n2_f1__q22.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n2_f1#q22|src_obm_2013_n2_f1__Q22]]
 
 
 
@@ -793,13 +908,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*numeri a 4 cifre che usano cifre 1-4 una volta ogni volta, la somma delle prime due cifre è uguale alle ultime due*
+*Numeri di 4 cifre in cui le cifre da 1 a 4 compaiono una sola volta ciascuna, e la somma delle prime due cifre è uguale a quella delle ultime due*
 
-> Jo~ao ha scritto tutti i numeri a 4 cifre in cui ciascuno dei numeri $1, 2, 3, 4$ appare esattamente una volta. In quanti di questi numeri la somma delle prime due cifre è uguale alla somma delle ultime due cifre?
-> 
+> Jo\~ao ha scritto tutti i numeri di 4 cifre in cui ciascuna delle cifre $1, 2, 3, 4$ compare esattamente una volta. In quanti di questi numeri la somma delle prime due cifre è uguale alla somma delle ultime due cifre?
+>
 > (A) 8 \quad (B) 12 \quad (C) 4 \quad (D) 16 \quad (E) 2
 
-**Risposta:** A
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n2_f1#q23|src_obm_2013_n2_f1__Q23]]
 
 
 
@@ -827,15 +947,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza minima della lavagna per sostenere un cilindro di raggio 1 in un angolo*
+*Lunghezza minima della tavola per sostenere un cilindro di raggio 1 in un angolo*
 
-> Un cilindro di raggio $R = 1$ deve essere posizionato nell'angolo di una stanza (l'angolo tra le due pareti è $90^\circ$). Una lavagna di lunghezza $L$ è appoggiata al muro in modo che si appoggi su di esso e tocchi entrambe le pareti, come mostrato nella figura. Qual è la lunghezza minima $L$ della lavagna necessaria per sostenere le due pareti?
-> 
+> Un cilindro di raggio $R = 1$ deve essere collocato nell'angolo di una stanza (l'angolo tra le due pareti è $90^\circ$). Una tavola di lunghezza $L$ viene appoggiata alla parete in modo che poggi sopra il cilindro e tocchi entrambe le pareti, come mostrato nella figura. Qual è la lunghezza minima $L$ della tavola necessaria affinché le due pareti la sorreggano?
+>
 > (A) $2 + 2\sqrt{2}$ \quad (B) $1 + 2\sqrt{2}$ \quad (C) $1 + \sqrt{2}$ \quad (D) $1 + \sqrt{2}$ \quad (E) $2\sqrt{2}$
 
 ![[src_obm_2013_n2_f1__q24.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n2_f1#q24|src_obm_2013_n2_f1__Q24]]
 
 
 
@@ -861,10 +986,15 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di cifre di 3^1000 più vicine al quale valore*
+*Il numero di cifre di 3^1000 è più vicino a quale valore?*
 
-> Quale dei seguenti numeri è più vicino al numero di cifre di $3^{1000}$?
-> 
+> Quale dei seguenti numeri è il più vicino al numero di cifre di $3^{1000}$?
+>
 > (A) 100 \quad (B) 150 \quad (C) 200 \quad (D) 240 \quad (E) 300
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n2_f1#q25|src_obm_2013_n2_f1__Q25]]

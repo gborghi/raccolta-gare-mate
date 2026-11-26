@@ -31,9 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Termini di numeri interi ordinati in sequenza ricorsiva*
+*Per quali $a_1$ tutti i termini della successione sono interi dispari*
 
-> Una sequenza $a_1, a_2, a_3, \ldots$ ha $a_1 > 2$ e soddisfa: $$a_{n+1} = \frac{a_n(a_n - 1)}{2}$$ per tutti gli integri positivi $n$. Per quali valori di $a_1$ tutti i termini della sequenza sono numeri interi pari?
+> Una successione $a_1, a_2, a_3, \ldots$ ha $a_1 > 2$ e soddisfa
+> $$a_{n+1} = \frac{a_n(a_n - 1)}{2}$$
+> per tutti gli interi positivi $n$. Per quali valori di $a_1$ tutti i termini della successione sono interi dispari?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2020#q01|src_bmo2_2020__Q01]]
 
 
 
@@ -58,11 +67,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Collezioni di quattro punti coplanari con circondazioni uguali*
+*Insiemi di almeno quattro punti in cui ogni triangolo ha lo stesso circumraggio*
 
-> Descrivere tutte le collezioni $S$ di almeno quattro punti del piano in modo tale che non ci siano tre punti collineari e che ogni triangolo formato da tre punti di $S$ abbia lo stesso radio di circonferenza.
-> 
-> *(Il radius circundiale di un triangolo è il radius del cerchio che attraversa tutte e tre le sue vertici.) *
+> Descrivere tutte le collezioni $S$ di almeno quattro punti del piano tali che non ci siano tre punti allineati e ogni triangolo formato da tre punti di $S$ abbia lo stesso circumraggio.
+>
+> *(Il circumraggio di un triangolo è il raggio della circonferenza passante per tutti e tre i suoi vertici.)*
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2020#q02|src_bmo2_2020__Q02]]
 
 
 
@@ -87,11 +103,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colori bilanciati del 2019×grid del 2019*
+*Quante colorazioni *equilibrate* di una griglia $2019 \times 2019$*
 
-> Una griglia quadrata $2019 \times 2019$ è composta da celle unità $2019^2$. Ogni cella è di colore nero o bianco. Un colorante è denominato *equilibrato* se, all'interno di ogni sottogrido quadrato composto da cellule $k^2$ per $1 \le k \le 2019$, il numero di cellule nere differisce dal numero di cellule bianche di almeno una. Quante diverse colorazioni equilibrate ci sono?
-> 
-> *(Due colorazioni sono diverse se in una di esse c'è almeno una cellula nera.) *
+> Una griglia quadrata $2019 \times 2019$ è composta da $2019^2$ celle unitarie. Ogni cella è colorata di nero o di bianco. Una colorazione si dice *equilibrata* se, in ogni sotto-griglia quadrata composta da $k^2$ celle per $1 \le k \le 2019$, il numero di celle nere differisce dal numero di celle bianche al più di uno. Quante colorazioni equilibrate diverse ci sono?
+>
+> *(Due colorazioni sono diverse se c'è almeno una cella che è nera in esattamente una delle due.)*
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2020#q03|src_bmo2_2020__Q03]]
 
 
 
@@ -118,8 +141,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nero sequenza reale con limite e superiore al 2020*
+*La successione resta limitata, ma per qualche $k$ supera $2020$*
 
-> Una sequenza $b_1, b_2, b_3, \ldots$ di numeri reali non zero ha la proprietà di $$b_{n+2} = \frac{b_{n+1}^2 - 1}{b_n}$$ per tutti gli enti interi positivi $n$.
-> 
-> Supponiamo che $b_1 = 1$ e $b_2 = k$ dove $1 < k < 2$. Indicare che esiste una costante $B$, a seconda di $k$, tale che $-B \le b_n \le B$ per tutti $n$. Indicare anche che, per alcuni $1 < k < 2$, esiste un valore di $n$ tale che $b_n > 2020$.
+> Una successione $b_1, b_2, b_3, \ldots$ di numeri reali non nulli ha la proprietà che
+> $$b_{n+2} = \frac{b_{n+1}^2 - 1}{b_n}$$
+> per tutti gli interi positivi $n$.
+>
+> Si supponga che $b_1 = 1$ e $b_2 = k$ dove $1 < k < 2$. Dimostrare che esiste una costante $B$, dipendente da $k$, tale che $-B \le b_n \le B$ per ogni $n$. Dimostrare anche che, per qualche $1 < k < 2$, esiste un valore di $n$ tale che $b_n > 2020$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2020#q04|src_bmo2_2020__Q04]]

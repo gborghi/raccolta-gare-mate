@@ -34,11 +34,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Girls in class 29 with 3 more*
+*Girls in a class of 29, three more than the boys*
 
-> There are 29 students in a class, girls are three more than boys. How many girls are there? A) 6 B) 13 C) 16 D) 19 E) 29
+> In a class there are 29 students, and there are 3 more girls than boys. How many girls are there?
+> A) 6
+> B) 13
+> C) 16
+> D) 19
+> E) 29
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2000_studenti#q01|src_kangourou_2000_studenti__Q01]]
 
 
 
@@ -63,11 +71,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mice in the pockets of the giant*
+*Baby mice living in a giant's jacket*
 
-> In a giant's jacket there are 585 pockets, in each pocket live 3 mice, and each mouse is accompanied by 5 little mice. How many little mice live in that giant's jacket? A) (585:3):5      B) (585×3):5     C) (585×5):3    D) 585×3×5      E) 585×(5+3)
+> A giant's jacket has 585 pockets; 3 mice live in each pocket, and each mouse is accompanied by 5 baby mice. How many baby mice live in that giant's jacket?
+> A) (585:3):5
+> B) (585×3):5
+> C) (585×5):3
+> D) 585×3×5
+> E) 585×(5+3)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2000_studenti#q02|src_kangourou_2000_studenti__Q02]]
 
 
 
@@ -95,11 +111,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*More than 5 consecutive numbers with sum of 2000*
+*The largest of five consecutive numbers summing to 2000*
 
-> The sum of five consecutive numbers is 2000. The largest of these numbers is: A) 490 B) 475 C) 471 D) 423 E) 402
+> The sum of 5 consecutive numbers is 2000. The largest of these numbers is:
+> A) 490
+> B) 475
+> C) 471
+> D) 423
+> E) 402
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2000_studenti#q03|src_kangourou_2000_studenti__Q03]]
 
 
 
@@ -127,13 +151,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Now read in the mirror*
+*The time on a clock seen in a mirror*
 
 ![[src_kangourou_2000_studenti__prob4.png]]
 
-> In a mirror, you see a clock, that figure, what time is it? A) 15.15 B) 10.15  C) 10.45  D) 8.45   E) 9.45
+> In a mirror you see a clock, the one in the figure. What time is it?
+> A) 15.15
+> B) 10.15
+> C) 10.45
+> D) 8.45
+> E) 9.45
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2000_studenti#q04|src_kangourou_2000_studenti__Q04]]
 
 
 
@@ -160,11 +192,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities 2 and 5 to make 2000*
+*How many twos and fives multiply to give 2000*
 
-> The year 2000: the number 2000 is obtained by multiplying only two and five. How many of each type are needed? A) 2 twos and 5 fives  B) 3 twos and 3 fives  C) 3 twos and 4 fives  D) 4 twos and 3 fives  E) 4 twos and 4 fives
+> The year 2000: the number 2000 is obtained by multiplying only twos and fives. How many of each are needed?
+> A) 2 twos and 5 fives
+> B) 3 twos and 3 fives
+> C) 3 twos and 4 fives
+> D) 4 twos and 3 fives
+> E) 4 twos and 4 fives
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2000_studenti#q05|src_kangourou_2000_studenti__Q05]]
 
 
 
@@ -195,11 +236,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different lengths by cutting strip into 3 and 4*
+*How many different lengths after cutting a strip into thirds and quarters*
 
-> On a strip of paper 1 m long, we draw vertical lines that divide the strip into 4 equal parts and also draw the lines, always vertical, that divide the same strip into 3 equal parts. After that, we cut the strip according to the lines we've drawn. How many different lengths will these pieces have ? A) 2 B) 3 C) 4 D) 5 E) 6
+> On a strip of paper 1 m long we draw vertical lines that divide the strip into 4 equal parts, and we also draw the vertical lines that divide the same strip into 3 equal parts. We then cut the strip along the lines we have drawn. How many different lengths will the pieces so obtained have?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2000_studenti#q06|src_kangourou_2000_studenti__Q06]]
 
 
 
@@ -227,11 +276,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest of 7 consecutive odd numbers with sum 119*
+*The smallest of seven consecutive odd numbers summing to 119*
 
-> The sum of seven consecutive odd numbers is 119. The smallest of these numbers is A) 11 B) 13 C) 15 D) 17 E) 19
+> The sum of 7 consecutive odd numbers is 119. The smallest of these numbers is
+> A) 11
+> B) 13
+> C) 15
+> D) 17
+> E) 19
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** A
+[[Quesiti/src_kangourou_2000_studenti#q07|src_kangourou_2000_studenti__Q07]]
 
 
 
@@ -262,19 +319,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of ribbon around the box*
+*Length of the gold ribbon round Baby Roo's present*
 
 ![[src_kangourou_2000_studenti__prob8.png]]
 
-> The gift box for the birthday of Baby Roo, the son
-> of Kanga Roo, has dimensions 10 cm × 10 cm × 30 cm and was
-> tied with a golden ribbon as in the figure. What is the
-> length of the ribbon? The length of the ribbon for the
-> knot can be considered negligible.
-> A) 2 m    B) 2 m 40 cm    C) 2 m 60 cm    D) 3 m     E) 2 m 50
-> cm
+> The box of the birthday present for Baby Roo, the son of Kanga Roo, measures 10 cm × 10 cm × 30 cm and has been tied with a gold ribbon as in the figure. What is the length of the ribbon? The length of ribbon used for the knot may be neglected.
+> A) 2 m
+> B) 2 m 40 cm
+> C) 2 m 60 cm
+> D) 3 m
+> E) 2 m 50 cm
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2000_studenti#q08|src_kangourou_2000_studenti__Q08]]
 
 
 
@@ -302,11 +361,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bicycle rental time with barter*
+*How long Mike may ride Charlie's bicycle*
 
-> Charlie rents his flaming bicycle to his friends in the following way: for two bars of chocolate four hours and for 12 candy bars three hours. Mike gives Charlie one bar of chocolate and four candies. How long can you ride Charlie's bike? A) an hour and a half B) 1 hour C) 2 hours D) 3 hours E) 4 hours
+> Charlie hires out his brand-new bicycle to his friends as follows: four hours for two bars of chocolate, and three hours for 12 sweets. Mike gives Charlie 1 bar of chocolate and 4 sweets. For how long may he race about on Charlie's bicycle?
+> A) an hour and a half
+> B) 1 hour
+> C) 2 hours
+> D) 3 hours
+> E) 4 hours
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2000_studenti#q09|src_kangourou_2000_studenti__Q09]]
 
 
 
@@ -335,11 +402,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remove 4 digits for a minimum number of 3 digits*
+*Which four digits to delete to obtain the smallest three-digit number*
 
-> What are the four digits that must be removed from the number 4921508 without changing the order, to get the smallest three-digit number possible? A) 4,9,2,1 B) 4,2,1,0 C) 1,5,0,8 D) 4,9,2,5 E) 4,9,5,8)
+> Which four digits must be removed from the number 4921508, without changing the order, to obtain the smallest possible three-digit number?
+> A) 4,9,2,1
+> B) 4,2,1,0
+> C) 1,5,0,8
+> D) 4,9,2,5
+> E) 4,9,5,8)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2000_studenti#q10|src_kangourou_2000_studenti__Q10]]
 
 
 
@@ -368,11 +443,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 2 digits divisible by 2 and 7*
+*Two-digit numbers divisible by both 2 and 7*
 
-> How many two-digit numbers are divisible simultaneously by 2 and by 7? A) 8 B) 7 C) 6 D) 5 E) 4
+> How many two-digit numbers are divisible by both 2 and 7?
+> A) 8
+> B) 7
+> C) 6
+> D) 5
+> E) 4
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2000_studenti#q11|src_kangourou_2000_studenti__Q11]]
 
 
 
@@ -400,16 +484,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest among A..E with shifted equalities*
+*Which of A, B, C, D, E is the greatest*
 
-> If  A + 1 = B + 2 = C – 3 = D + 4 = E – 5  which is the largest?
-> A) A  
-> B) B  
-> C) C  
-> D) D  
+> If A + 1 = B + 2 = C – 3 = D + 4 = E – 5, which is the greatest?
+> A) A
+> B) B
+> C) C
+> D) D
 > E) E
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2000_studenti#q12|src_kangourou_2000_studenti__Q12]]
 
 
 
@@ -504,9 +591,18 @@ level: kangourou
 \end{document}
 ```
 
-> How many squares will form a figure similar to the one on the side but with 10 steps? A) 25 B) 30 C) 40 D) 55 E) 100
+> How many little squares make up a figure like the one beside it, but with 10 steps?
+> A) 25
+> B) 30
+> C) 40
+> D) 55
+> E) 100
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** D
+[[Quesiti/src_kangourou_2000_studenti#q13|src_kangourou_2000_studenti__Q13]]
 
 
 
@@ -538,20 +634,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Longest hedge among five gardens*
+*Which neighbour used the longest hedge*
 
 ![[src_kangourou_2000_studenti__prob14.png]]
 
-> Five neighbors have identical rectangular plots of land. Each of them planted a hedge (indicated
-> in the figure by a continuous line) on their own plot to protect the part of the garden with the flowers.
-> Who used a longer hedge?
-> A) Mr. Ale  
-> B) Mr. Ben  
-> C) Mr. Cod  
-> D) Mr. Dag  
-> E) Mr. Eld
+> Five neighbours have identical rectangular plots. Each of them has planted a hedge (shown in the figure by a solid line) on his own plot, to protect the part of the garden with the flowers. Who used a longer hedge?
+> A) Mr Ale
+> B) Mr Ben
+> C) Mr Cod
+> D) Mr Dag
+> E) Mr Eld
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2000_studenti#q14|src_kangourou_2000_studenti__Q14]]
 
 
 
@@ -584,11 +681,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-When they all get back together at the club
+*When seven club members will all be present again*
 
-> Alberto comes to the club every day, Bob every two days, Cloe every three days, Dan every four days, Enrico every five days, Franco every six days and Gabriele every seven days. They're all here today, how many days from now will they all be together again? A) 27 B) 28 C) 210 D) 420 E) 5040 Time worked: ............. minutes (to be completed under the supervision of the supervisory instructor)
+> Alberto comes to the Club every day, Bob every other day, Cloe every three days, Dan every four days, Enrico every five days, Franco every six days and Gabriele every seven days. Today they are all present; in how many days will they all be together again?
+> A) 27
+> B) 28
+> C) 210
+> D) 420
+> E) 5040
+> Time taken: ….……… minutes
+> (to be filled in by the invigilating teacher)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2000_studenti#q15|src_kangourou_2000_studenti__Q15]]
 
 
 
@@ -618,11 +726,19 @@ When they all get back together at the club
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time to wash 3 elephants together*
+*Time for a trainer and his son to wash three elephants together*
 
-> Kang Circus elephant trainer takes 40 minutes to wash an elephant. His young son takes two hours to do the same job. How long will it take the trainer and his son to wash three elephants if they work together? A) 30 minutes. B) 45 minutes. C) 60 minutes. D) 90 minutes. E) 100 minutes.
+> The elephant trainer at the Kang Circus takes 40 minutes to wash an elephant. His young son takes 2 hours to do the same job. How long will the trainer and his son take to wash three elephants if they work together?
+> A) 30 min.
+> B) 45 min.
+> C) 60 min.
+> D) 90 min.
+> E) 100 min.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2000_studenti#q16|src_kangourou_2000_studenti__Q16]]
 
 
 
@@ -670,7 +786,7 @@ When they all get back together at the club
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the areas of triangles in the figure*
+*Sum of the areas of all the triangles in the figure*
 
 ![[src_kangourou_2000_studenti__prob17.png]]
 
@@ -690,9 +806,18 @@ When they all get back together at the club
 \end{document}
 ```
 
-> The sum of the areas of all triangles that can be seen in the figure is: A) 3 B) 4 C) 7 D) 8 E) 10
+> The sum of the areas of all the triangles that can be seen in the figure is:
+> A) 3
+> B) 4
+> C) 7
+> D) 8
+> E) 10
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2000_studenti#q17|src_kangourou_2000_studenti__Q17]]
 
 
 
@@ -723,11 +848,19 @@ When they all get back together at the club
 <div class="qlang-split" data-lang="en"></div>
 
 
-Waiting for mother kangaroo at the tree
+*How long mother kangaroo waits at the eucalyptus for her joey*
 
-> Each jump of a kangaroo mother is 3 meters long and lasts 1 second; each jump of her young child is 1 meter long and lasts half a second. Both kangaroos jump simultaneously from the same place to a eucalyptus tree. The distance between the starting point and the tree is 180 metres. How many seconds will Kangaroo Mom have to wait at the tree for her baby boy to arrive? A) 30 B) 60 C) 10 D) 120 E) 35
+> Each jump of mother kangaroo is 3 metres long and lasts 1 second; each jump of her little son is 1 metre long and lasts half a second. Both kangaroos set off jumping at the same moment from the same place towards a eucalyptus tree. The distance from the starting point to the tree is 180 metres. How many seconds will mother kangaroo have to wait at the tree for her little son to arrive?
+> A) 30
+> B) 60
+> C) 10
+> D) 120
+> E) 35
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2000_studenti#q18|src_kangourou_2000_studenti__Q18]]
 
 
 
@@ -758,11 +891,20 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to divide 96 children into groups*
+*Ways to split 96 boys into equal groups of between 6 and 19*
 
-> 96 children at a summer camp were divided into groups, so that each group was made up of the same number of children. How many different ways can this division be achieved if each group must contain more than 5 and less than 20 children? A) 10 B) 8 C) 5 D) 4 E) 2
+> 96 boys at a summer camp have been divided into several groups, so that every group has the same number of boys. In how many different ways can this division be made, if each group must contain more than 5 and fewer than 20 boys?
+> A) 10
+> B) 8
+> C) 5
+> D) 4
+> E) 2
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2000_studenti#q19|src_kangourou_2000_studenti__Q19]]
 
 
 
@@ -790,11 +932,19 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle to the centre by sector 15% of the circle*
+*The angle at the centre of a sector whose area is 15% of the circle*
 
-> What is the angle at the center of a sector whose area is 15% of the area of the entire circle? A) 15° B) 36° C) 54° D) 90° E) 150°
+> What is the angle at the centre of a sector whose area is 15% of the area of the whole circle?
+> A) 15°
+> B) 36°
+> C) 54°
+> D) 90°
+> E) 150°
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2000_studenti#q20|src_kangourou_2000_studenti__Q20]]
 
 
 
@@ -823,17 +973,19 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Doubloon-ducat-thaler conversion*
+*How many ducats equal 100 thalers*
 
-> 800 doubloons have the same value as 100 ducats. 100 doubloons have the same value as 250 thalers.
-> How many ducats have the same value as 100 thalers?
-> A) 2  
-> B) 5  
-> C) 10  
-> D) 25  
+> 800 doubloons have the same value as 100 ducats. 100 doubloons have the same value as 250 thalers. How many ducats have the same value as 100 thalers?
+> A) 2
+> B) 5
+> C) 10
+> D) 25
 > E) 50
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2000_studenti#q21|src_kangourou_2000_studenti__Q21]]
 
 
 
@@ -863,18 +1015,19 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sugar cubes left after layers eaten*
+*Sugar lumps left after Cristina eats three layers*
 
-> Mamma Chiara buys a box of sugar cubes. Cristina eats the top layer,
-> that is 77 sugar cubes; of what remains she eats the side layer, which consists of 55 sugar cubes; finally
-> Cristina eats the front layer. How many sugar cubes are left in the box?
-> A) 203  
-> B) 256  
-> C) 295  
-> D) 300  
+> Mother Chiara buys a box of lump sugar. Cristina eats the top layer, that is 77 lumps; of what remains she eats the side layer, which consists of 55 lumps; finally Cristina eats the front layer. How many lumps are left in the box?
+> A) 203
+> B) 256
+> C) 295
+> D) 300
 > E) 3
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2000_studenti#q22|src_kangourou_2000_studenti__Q22]]
 
 
 
@@ -904,11 +1057,19 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of judges on average 5.625*
+*Fewest judges so that a mean score of 5.625 is possible*
 
-> In a dance competition, all the judges cast their vote for the candidates with integer votes. The average of all scores for a candidate was 5.625. What is the minimum number of judges for this to be possible? A) 2 B) 6 C) 8 D) 10 E) 12
+> At a dance competition all the judges give the candidates whole-number marks. The mean of all the scores for one candidate was 5.625. What is the smallest number of judges for this to be possible?
+> A) 2
+> B) 6
+> C) 8
+> D) 10
+> E) 12
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** C
+[[Quesiti/src_kangourou_2000_studenti#q23|src_kangourou_2000_studenti__Q23]]
 
 
 
@@ -938,13 +1099,17 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of the vertices after 1999 foldings*
+*Where vertices A, B and C end up after 1999 folds*
 
 ![[src_kangourou_2000_studenti__prob24.png]]
 
-> The figure represents a long strip of paper divided into 2000 triangles, with the dashed lines. Suppose that the strip can be folded along the lines drawn, in the order indicated by the numbers, so that the right side of the strip always retains its horizontal position and that the folded portion from the left overlaps the triangle immediately adjacent to the right. What position will the A, B and C vertices be in after 1999 folding?
+> The figure shows a long strip of paper divided into 2000 triangles, with dashed lines. Suppose the strip can be folded along the dashed lines, in the order given by the numbers, so that the right-hand part of the strip always keeps its horizontal position and the portion folded from the left comes to lie on the triangle immediately to its right. In which position will the vertices A, B, C be after 1999 folds?
 
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** E
+[[Quesiti/src_kangourou_2000_studenti#q24|src_kangourou_2000_studenti__Q24]]
 
 
 
@@ -974,18 +1139,19 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of the coin among the boxes*
+*Which box holds the coin*
 
-> There are three boxes and three objects: a coin, a shell and a pea. Each box contains one
-> and only one object: the green box is to the left of the blue box; the coin is to the left of the
-> pea; the red box is to the right of the shell; the pea is to the right of the red box; in
-> which box is the coin?
-> A) in the red box  B) in the green box 
-> C) in the blue box  
-> D) we cannot know  
-> E) the conditions are impossible to be verified
+> There are three boxes and three objects: a coin, a shell and a pea. Each box contains one and only one object: the green box is to the left of the blue box; the coin is to the left of the pea; the red box is to the right of the shell; the pea is to the right of the red box. In which box is the coin?
+> A) in the red box
+> B) in the green box
+> C) in the blue box
+> D) we cannot tell
+> E) the conditions cannot all hold
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2000_studenti#q25|src_kangourou_2000_studenti__Q25]]
 
 
 
@@ -1017,11 +1183,23 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of KANGAROO with distinct digits*
+*The value of a cryptarithm with KANGAROO*
 
-> If each letter corresponds to a different digit, then KANGAROO + 10000 × AROO – 10000 × KANG ("×" indicates the ordinary multiplication) is A) AROOAROO B) AROOKANG C) KANGKANG D) KANGAROO E) KAGANROO
+> If each letter stands for a different digit, then
+> KANGAROO + 10000 × AROO – 10000 × KANG
+> ("×" means ordinary multiplication)
+> equals
+> A) AROOAROO
+> B) AROOKANG
+> C) KANGKANG
+> D) KANGAROO
+> E) KAGANROO
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** A
+[[Quesiti/src_kangourou_2000_studenti#q26|src_kangourou_2000_studenti__Q26]]
 
 
 
@@ -1075,7 +1253,7 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure the BAC angle in Figure*
+*The measure of angle BAC in the figure*
 
 ![[src_kangourou_2000_studenti__prob27.png]]
 
@@ -1103,9 +1281,17 @@ Waiting for mother kangaroo at the tree
 \end{document}
 ```
 
-> In the figure, the angle BÂC is measured: A) 15° B) 12° C) 30° D) 20° E) Other
+> In the figure, angle BÂC measures:
+> A) 15°
+> B) 12°
+> C) 30°
+> D) 20°
+> E) other
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2000_studenti#q27|src_kangourou_2000_studenti__Q27]]
 
 
 
@@ -1134,11 +1320,20 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers between 100 and 999 with different digits*
+*Integers from 100 to 999 with all digits different*
 
-> How many whole numbers between 100 and 999 have all the different digits? A) 864 B) 684 C) 648 D) 486 E) 468
+> How many integers between 100 and 999 have all their digits different?
+> A) 864
+> B) 684
+> C) 648
+> D) 486
+> E) 468
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2000_studenti#q28|src_kangourou_2000_studenti__Q28]]
 
 
 
@@ -1168,11 +1363,20 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angles of 30 degrees in the diagonals of the hexagon*
+*How many 30° angles appear among the diagonals of a regular hexagon*
 
-> Let's take a regular hexagon and draw all its diagonals. How many angles of 30° do we see? A) 4 B) 6 C)12 D) 24 E) 36
+> Take a regular hexagon and draw all its diagonals. How many angles of 30° do we see?
+> A) 4
+> B) 6
+> C) 12
+> D) 24
+> E) 36
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2000_studenti#q29|src_kangourou_2000_studenti__Q29]]
 
 
 
@@ -1207,19 +1411,22 @@ Waiting for mother kangaroo at the tree
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Types of worm with 3 yellow and 2 green*
+*Worms of five discs, three yellow and two green*
 
 ![[src_kangourou_2000_studenti__prob30.png]]
 
-> A worm's body consists of circles. How many different types of this worm exist, if 3 out of the 5 body parts must be yellow and 2 must be green?
+> A little worm's body is made of circles. How many different types of this worm are there, if 3 of the 5 parts of the body must be yellow and 2 must be green?
+> A) 6
+> B) 8
+> C) 9
+> D) 10
+> E) 12
 >
-> (A) 6
-> (B) 8
-> (C) 9
-> (D) 10
-> (E) 12
-> 
 > Answers:
 > 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2000_studenti#q30|src_kangourou_2000_studenti__Q30]]

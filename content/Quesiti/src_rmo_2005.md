@@ -31,11 +31,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un quadrilaterale converso con triangoli equilaterali dai punti medi è un rombo*
+*Un quadrilatero convesso con triangoli equilateri costruiti sui punti medi è un rombo*
 
-> Che $ABCD$ sia un quadrilaterale convexo; $P$, $Q$, $R$, $S$ siano i punti di mezzo rispettivamente di $AB$, $BC$, $CD$, $DA$ in modo tale che i triangoli $AQR$ e $CSP$ siano equilaterali. Provare che $ABCD$ è un rombo. Determina le sue angolazioni.
+> Sia $ABCD$ un quadrilatero convesso; siano $P$, $Q$, $R$, $S$ i punti medi di $AB$, $BC$, $CD$, $DA$ rispettivamente, in modo che i triangoli $AQR$ e $CSP$ siano equilateri. Dimostrare che $ABCD$ è un rombo. Determinare i suoi angoli.
 
 ![[src_rmo_2005__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2005#q01|src_rmo_2005__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integra x,y: 17 divide due espressioni implica 17 divide terzo*
+*Interi x, y: se 17 divide due espressioni, allora 17 divide la terza*
 
-> Se $x$, $y$ sono numeri interi e 17 divide sia $x^2 - 3xy + 2y^2 + x - y$ che $x^2 - 3xy + 2y^2 - 5x + 7y$, dimostri che 17 divide $xy - 12x + 15y$.
+> Se $x$ e $y$ sono interi e 17 divide sia $x^2 - 3xy + 2y^2 + x - y$ sia $x^2 - 3xy + 2y^2 - 5x + 7y$, allora dimostrare che 17 divide $xy - 12x + 15y$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2005#q02|src_rmo_2005__Q02]]
 
 
 
@@ -83,9 +97,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre reali con condizioni di differenza in coppia: uno è uguale alla somma di altri due*
+*Tre numeri reali con condizioni di differenza a coppie: uno è uguale alla somma degli altri due*
 
-> Se $a$, $b$, $c$ sono tre numeri reali come $|a - b| \ge |c|$, $|b - c| \ge |a|$, $|c - a| \ge |b|$, dimostrate che uno di $a$, $b$, $c$ è la somma degli altri due.
+> Se $a$, $b$, $c$ sono tre numeri reali tali che $|a - b| \ge |c|$, $|b - c| \ge |a|$, $|c - a| \ge |b|$, allora dimostrare che uno di $a$, $b$, $c$ è la somma degli altri due.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2005#q03|src_rmo_2005__Q03]]
 
 
 
@@ -108,9 +129,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri a 5 cifre contenenti il blocco 15 e divisibili per 15*
+*Conta i numeri di 5 cifre che contengono il blocco 15 e sono divisibili per 15*
 
-> Trova il numero di tutti i numeri a 5 cifre (in base 10) ognuno dei quali contiene il blocco 15 e è divisibile per 15. (Per esempio, 34545 e 34155 sono due tali numeri.)
+> Determinare il numero di tutti i numeri di 5 cifre (in base 10) ciascuno dei quali contiene il blocco 15 ed è divisibile per 15. (Ad esempio, 34545 e 34155 sono due numeri di questo tipo.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2005#q04|src_rmo_2005__Q04]]
 
 
 
@@ -135,11 +163,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con punto medio di BC e due angoli dati; trovare angolo BAD*
+*Triangolo con il punto medio di BC e due angoli dati; trovare l'angolo BAD*
 
-> Nel triangolo $ABC$, $D$ sia il punto medio di $BC$. Se $\angle ACD = 45^\circ$ e $\angle ADC = 30^\circ$, determinare $\angle BAD$.
+> Nel triangolo $ABC$, sia $D$ il punto medio di $BC$. Se $\angle ACD = 45^\circ$ e $\angle ADC = 30^\circ$, determina $\angle BAD$.
 
 ![[src_rmo_2005__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2005#q05|src_rmo_2005__Q05]]
 
 
 
@@ -163,9 +198,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tutti i tripli di integri positivi con a+b+c+ab+bc+ca = abc+1*
+*Tutte le terne di interi positivi tali che a+b+c+ab+bc+ca = abc+1*
 
-> Determinare tutti i triples $(a, b, c)$ di numeri interi positivi quali $a \le b \le c$ e $$a + b + c + ab + bc + ca = abc + 1.$$
+> Determinare tutte le triple $(a, b, c)$ di interi positivi tali che $a \le b \le c$ e
+> $$a + b + c + ab + bc + ca = abc + 1.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2005#q06|src_rmo_2005__Q06]]
 
 
 
@@ -190,6 +233,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali positivi sommati a 1; espressioni cubiche minime danno radici reali*
+*Numeri reali positivi la cui somma è 1; il minimo delle espressioni cubiche fornisce radici reali*
 
-> $a$, $b$, $c$ siano tre numeri reali positivi come $a + b + c = 1$. Provare che le radici dell'equazione $x^2 + x + 4\lambda = 0$ sono reali.
+> Siano $a$, $b$, $c$ tre numeri reali positivi tali che $a + b + c = 1$. Sia
+> $$\lambda = \min \left\{ a^3 + a^2 bc,\; b^3 + ab^2 c,\; c^3 + abc^2 \right\}.$$
+> Dimostrare che le radici dell'equazione $x^2 + x + 4\lambda = 0$ sono reali.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2005#q07|src_rmo_2005__Q07]]

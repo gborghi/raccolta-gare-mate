@@ -28,9 +28,14 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*to determine them*
+*determining them*
 
-> Determine all the positive integers of three digits that are equal to 34 times the sum of their digits.
+> Determine all three-digit positive integers that are equal to 34 times the sum of their digits.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2002_individuale#q01|src_archimede_2002_individuale__Q01]]
 
 
 
@@ -59,17 +64,18 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*to determine the volume*
+*determine the volume*
 
-![[src_archimede_2002_individuale__prob2.png]]
-
-> The plank of a house is in the shape of an L obtained by conveniently flanking four squares whose sides measure 10 meters. The side walls are all 10 meters high and the roof of the house has faces starting from its side walls and sloping $30°$ over a horizontal plane.
-> 
-> Determine the volume of the house (i.e. the solid bounded by the six faces of the roof, the six side walls and the horizontal plane).
-> 
+> The floor plan of a house is L-shaped, obtained by suitably placing four squares whose side measures 10 metres. The side walls are all 10 metres high and the roof of the house has faces starting from its side walls and inclined at $30°$ to a horizontal plane.
+>
+> Determine the volume of the house (that is, of the solid bounded by the six faces of the roof, the six side walls and the horizontal plane).
+>
 > (see figure)
 
-**Answer:** 2750/3 m^3
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_individuale#q02|src_archimede_2002_individuale__Q02]]
 
 
 
@@ -95,13 +101,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*show*
+*to prove*
 
-![[src_archimede_2002_individuale__prob3.png]]
-
-> Both $r$ a straight line and $A$ $B$ two points above and below $r$ respectively, with the feet of the perpendiculars led by $A$ and $B$ on the straight line $r$ respectively called $R$ and $S$. Called $M$ the middle point of the $AB$ segment, to show that the circumferences circumscribed to the $ARM$ and $BSM$ triangles are equal (assuming the triangles are not degenerate).
+> Let $r$ be a line and let $A$, $B$ be two points respectively above and below $r$, with the feet of the perpendiculars drawn from $A$ and $B$ to the line $r$ called respectively $R$ and $S$. Calling $M$ the midpoint of the segment $AB$, prove that the circumscribed circles of the triangles $ARM$ and $BSM$ are equal (assuming that the triangles are not degenerate).
 > 
 > (see figure)
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_individuale#q03|src_archimede_2002_individuale__Q03]]
 
 
 
@@ -125,11 +134,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*for which n roots are integer*
+*For which values of $n$ are all the roots integers*
 
-> Determine for which values of $n$ all solutions to the equation $X^3 - 3X + n = 0$ are integers.
+> Determine for which values of $n$ all the solutions of the equation $X^3 - 3X + n = 0$ are integers.
 
-**Answer:** n=2 e n=-2
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2002_individuale#q04|src_archimede_2002_individuale__Q04]]
 
 
 
@@ -152,9 +165,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*divide expression into three parts, k multiple of 3*
+*Split the expression into three parts, k a multiple of 3*
 
-> Whether $m = 5^n + 3^n + 1$, where $n$ is a natural number. Show that if $m$ is prime then $n$ is multiple 12.
+> Let $m = 5^n + 3^n + 1$, where $n$ is a natural number. Prove that if $m$ is prime then $n$ is a multiple of 12.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2002_individuale#q05|src_archimede_2002_individuale__Q05]]
 
 
 
@@ -185,14 +204,20 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*coloring boxes with conditions on adjacent boxes*
+*Coloring squares with conditions on the neighbours*
 
-> Let's have a chessboard of 100 rows and 100 columns with all the white boxes.
-> 
-> **(a) ** Is it possible to colour an odd number of boxes so that each coloured box has an odd number of adjacent coloured boxes?
-> 
-> **(b) ** Can you color some boxes so that an odd number of them have exactly 4 colored adjacent boxes and all other colored boxes have exactly 2 colored adjacent boxes?
-> 
-> Can you color some boxes so that an odd number of them have exactly 2 colored adjacent boxes and all other colored boxes have exactly 4 colored adjacent boxes?
-> 
-> **Note:** Two boxes are considered adjacent if they have one side in common.
+> A 100-row by 100-column chessboard is given, with all squares white.
+>
+> **(a)** Is it possible to colour an odd number of squares so that every coloured square has an odd number of coloured neighbouring squares?
+>
+> **(b)** Is it possible to colour some squares so that an odd number of them have exactly 4 coloured neighbouring squares and all the other coloured squares have exactly 2 coloured neighbouring squares?
+>
+> **(c)** Is it possible to colour some squares so that an odd number of them have exactly 2 coloured neighbouring squares and all the other coloured squares have exactly 4 coloured neighbouring squares?
+>
+> **Note:** Two squares are considered neighbouring if they share a side.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2002_individuale#q06|src_archimede_2002_individuale__Q06]]

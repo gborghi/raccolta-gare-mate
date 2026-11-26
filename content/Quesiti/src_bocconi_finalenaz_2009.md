@@ -31,11 +31,16 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of children in elevators with 10 adults
+*Maximum number of children in the elevator with 10 adults*
 
-> The Math-City elevator, you know, is a strange city. For example, all adults weigh the same. All children also weigh the same weight (naturally different from adults). It is also true that the elevator at Math-City can support a maximum of 15 adults or, equivalently, 24 children. How many children can climb an elevator with 10 adults?
+> The Elevator
+> Math-City, you see, is a strange city. For example, all the adults weigh the same. All the children also weigh the same (naturally, a different weight from that of the adults). It is also true that the elevator in Math-City can support at most the weight of 15 adults or, equivalently, of 24 children. At most, how many children can get into the elevator along with 10 adults?
 
-**Answer:** 8
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q01|src_bocconi_finalenaz_2009__Q01]]
 
 
 
@@ -65,11 +70,17 @@ Maximum number of children in elevators with 10 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who broke the glass between Angelo, Desiderio and Nando?
+*Who broke the glass between Angelo, Desiderio, and Nando?*
 
-> Angel, Desiderio and Nando play ball, but one of the three throws it with too much fire and breaks a glass. When asked who was behind the mess, he gets these answers: "It was me". Desire: "No, it was Nando who broke the glass". Nando: "It's Angelo who pulled the ball that broke the glass". One of the three always tells the truth, another always lies and the third... you don't know. Who broke the glass?
+> The Broken Glass
+> Angelo, Desiderio, and Nando are playing ball, but one of the three kicks it with too much force and breaks a window. When they ask who caused the mess, they get these answers: Angelo: "I did it." Desiderio: "No, it was Nando who broke the window." Nando: "It was Angelo who kicked the ball that broke the window." One of the three always tells the truth, another always lies, and the third … no one knows. Who broke the window?
 
-**Answer:** Desiderio
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q02|src_bocconi_finalenaz_2009__Q02]]
 
 
 
@@ -99,13 +110,19 @@ Who broke the glass between Angelo, Desiderio and Nando?
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many arrows did Amerigo put in the white area?
+*How many darts has Amerigo put in the white area?*
 
-> Amerigo, Berto, and Carlo are arrows. They've built themselves a board where there's a black zone of 13 points and a white zone of 11. Amerigo, Berto and Carlo each fired six arrows in this game. "More than 60 but less than 66", Amerigo replies of his score. How many arrows did Amerigo point in the white area?
+> The Darts
+> Amerigo, Berto, and Carlo are playing darts. They built themselves a dartboard featuring a black section worth 13 points and a white section worth 11 points. In this game, Amerigo, Berto, and Carlo each threw 6 darts. "More than 60 but less than 66," Amerigo replies regarding his score. How many darts did Amerigo score in the white section?
 
 ![[src_bocconi_finalenaz_2009__q03.png]]
 
-**Answer:** 3
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q03|src_bocconi_finalenaz_2009__Q03]]
 
 
 
@@ -132,13 +149,19 @@ How many arrows did Amerigo put in the white area?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordinate four surfaces per growing area*
+*Order four surfaces by increasing area*
 
-> From the smallest to the largest These four surfaces were drawn on the same square sheet of paper. Order them in increasing order from smaller to larger.
+> From the Smallest to the Largest
+> These four surfaces were drawn on the same grid paper. Arrange them in ascending order, from the one with the smallest area to the one with the largest area.
 
 ![[src_bocconi_finalenaz_2009__q04.png]]
 
-**Answer:** D, B, A, C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q04|src_bocconi_finalenaz_2009__Q04]]
 
 
 
@@ -167,13 +190,19 @@ How many arrows did Amerigo put in the white area?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the other two stamps to obtain all consecutive integers*
+*Value of the other two stamps needed to obtain all consecutive whole numbers*
 
-> You have six stamps. Of the first four, two have a value of 1 Euro and two have a value of 3 Euro (as you can see in the figure). What is the value of the other two, knowing that with the six stamps (and some of them), you can get all consecutive integers from 1 Euro at some point in the future (the largest possible)? Note: the last two stamps may have different values.
+> THE SIX STAMPS
+> You have six stamps at your disposal. Of the first four, two are worth 1 euro and two are worth 3 euros (as you can see in the figure). What is the value of the other two, given that with the six stamps (and some of them) it is possible to obtain all consecutive integer values from 1 euro onward up to some point (the largest possible point)? Note: the last two stamps may have different values.
 
 ![[src_bocconi_finalenaz_2009__q05.png]]
 
-**Answer:** 9 - 18
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q05|src_bocconi_finalenaz_2009__Q05]]
 
 
 
@@ -199,11 +228,19 @@ How many arrows did Amerigo put in the white area?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Setting the numbers 1 to 16 in the grid with adjacent successive numbers*
+*Arrange the numbers from 1 to 16 in the grid so that consecutive numbers are adjacent*
 
-> The grid of 16 Numbers Put the integers 1 to 16 in the grid boxes (one number per box). In fact, two have already found their accommodation. Note, however: for each number other than 16, the immediately higher one must be placed in an adjacent box (i.e. it has a side in common with the previous one).
+> The Grid of 16 Numbers
+> Place the integers from 1 to 16 in the cells of the grid (one number per cell). In fact, two of them have already found their places. But beware: for each number other than 16, the number immediately greater than it must be placed in an adjacent cell (that is, a cell that shares a side with the previous one).
 
 ![[src_bocconi_finalenaz_2009__q06.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q06|src_bocconi_finalenaz_2009__Q06]]
 
 
 
@@ -230,13 +267,19 @@ How many arrows did Amerigo put in the white area?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of triangles not overlapping with 7 points*
+*Maximum number of non-overlapping triangles with 7 points*
 
-> TRIANGOLS 5 points in a plane are the vertices, at most, of 5 triangles that do not overlap (as shown in Figure 1). What about seven points? How many non-overlapping triangles can be plotted, at most, in the seven-point plane?
+> Triangles
+> In a plane, 5 points are the vertices of at most 5 non-overlapping triangles (as in the figure). And 7 points? At most how many non-overlapping triangles can be drawn in the plane using 7 points?
 
 ![[src_bocconi_finalenaz_2009__q07.png]]
 
-**Answer:** 9
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q07|src_bocconi_finalenaz_2009__Q07]]
 
 
 
@@ -265,13 +308,19 @@ How many arrows did Amerigo put in the white area?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the four numbers in the last column in the circle and square scheme*
+*Sum of the four numbers in the last column in the circles and squares diagram*
 
-> In each of the squares, the result (natural number) must be written, which is obtained by adding the natural numbers written in the circles that touch that square. The central circle, as well as the right circle, must remain empty. The sum of the numbers written in circles touching a square must be equal to the number written in that square. Enter the sum of the four numbers in the last column on the right.
+> Circles and Squares
+> In each of the squares, write the result (a natural number) obtained by adding the natural numbers written in the circles that touch that square. The central circle, as well as the circle on the right, must remain empty. The sum of the numbers written in the circles that touch a square must equal the number written in that square. Indicate the sum of the four numbers that appear in the last column on the right.
 
 ![[src_bocconi_finalenaz_2009__q08.png]]
 
-**Answer:** 33
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q08|src_bocconi_finalenaz_2009__Q08]]
 
 
 
@@ -297,11 +346,17 @@ How many arrows did Amerigo put in the white area?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two natural numbers with the sum of 203 using all ten digits*
+*Two natural numbers whose sum is 203 and which use all ten digits*
 
-> TEN figures Two natural numbers have the sum of 203. Writing the two numbers, their difference (the largest minus the smallest) and their sum (203) uses the ten digits from 0 to 9, each once. What are the two numbers?
+> THE TEN DIGITS
+> Two natural numbers have a sum of 203. The representations of the two numbers, of their difference (the larger minus the smaller), and of their sum (203) use all ten digits from 0 to 9, each exactly once. What are the two numbers?
 
-**Answer:** 57 , 146
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q09|src_bocconi_finalenaz_2009__Q09]]
 
 
 
@@ -329,13 +384,19 @@ How many arrows did Amerigo put in the white area?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of a small square given the large square of area 405*
+*Area of a small square given a large square with an area of 405*
 
-> A large square has an area of $405 \text{ cm}^2$ and contains five smaller, equal squares arranged as shown in the figure (which has an axis of stretched symmetry). What's the area of a small square?
+> The Mysterious Square
+> A large square has an area of $405 \text{ cm}^2$ and contains five smaller, identical squares arranged as in the figure (which shows a dashed axis of symmetry). What is the area of one small square?
 
 ![[src_bocconi_finalenaz_2009__q10.png]]
 
-**Answer:** 40 cm²
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q10|src_bocconi_finalenaz_2009__Q10]]
 
 
 
@@ -361,11 +422,16 @@ How many arrows did Amerigo put in the white area?
 <div class="qlang-split" data-lang="en"></div>
 
 
-At what time did Carla turn off the two candles?
+*At what time did Carla put out the two candles?*
 
-> Two candles are the same length but the first one burns completely (and regularly) in 5 hours while the second one burns completely (also regularly) in just 4 hours. Carla lights the candles at noon, and when she decides to turn them off, she does so for both at the same time. Then check that the remainder of the first candle is four times longer than the remainder of the second candle. What time did Carla turn off the two candles?
+> The Two Candles
+> Two candles are the same length, but the first burns away completely (and at a steady rate) in 5 hours, while the second burns away completely (also at a steady rate) in only 4 hours. Carla lights the candles at noon, and when she decides to put them out, she does so for both of them at the same instant. She then checks that the remaining part of the first candle is four times longer than what remains of the second candle. At what time did Carla put out the two candles?
 
-**Answer:** h.15 , min 45
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q11|src_bocconi_finalenaz_2009__Q11]]
 
 
 
@@ -392,11 +458,17 @@ At what time did Carla turn off the two candles?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of three digits in decreasing order with multiple anagrams*
+*A three-digit number in descending order with multiple anagrams*
 
-> A number diagram is a number composed of the same digits arranged in (possibly) different order. For example, the number 120 has four anagrams: 102, 120, 201, and 210 (the writing of a number never starts with 0). Now you have a three-digit number that has (at least) an anagram multiple of 2, (at least) an anagram multiple of 4, ... and (at least) an anagram multiple of $N$, with $N$ the largest possible value. What is this three-digit number, knowing that its digits are arranged in descending order?
+> NUMERIC ANAGRAMS
+> An anagram of a number is a number made up of the same digits arranged in a (possibly) different order. For example, the number 120 has four anagrams: 102, 120, 201, and 210 (a number is never written starting with 0). Now you have a three-digit number that has (at least) one anagram that is a multiple of 2, (at least) one anagram that is a multiple of 4, … and (at least) one anagram that is a multiple of $N$, where $N$ is the greatest possible value. What is this three-digit number, given that its digits are arranged in descending order?
 
-**Answer:** 630 ; 540 (two solutions)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q12|src_bocconi_finalenaz_2009__Q12]]
 
 
 
@@ -426,11 +498,17 @@ At what time did Carla turn off the two candles?
 
 *Area of the bright star in the square of area 111*
 
-> A LIGHTING STAR The large square, which has an area of $111 \text{ cm}^2$, has been divided into nine equal squares. In each square thus obtained, a smaller square was drawn, also divided into nine equal squares. At this point a star was drawn (see figure). What is (in $\text{cm}^2$) the area of the star?
+> A Shining Star
+> The large square, which has an area of $111 \text{ cm}^2$, was divided into nine equal squares. In each of the squares thus obtained, a smaller square was drawn, and that smaller square was also divided into nine equal squares. At this point, a star was drawn (see figure). What is the area of the star (in $\text{cm}^2$)?
 
 ![[src_bocconi_finalenaz_2009__q13.png]]
 
-**Answer:** 37 cm²
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q13|src_bocconi_finalenaz_2009__Q13]]
 
 
 
@@ -456,11 +534,17 @@ At what time did Carla turn off the two candles?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the triangle ABC divided by the three parallels on the sides*
+*Area of triangle ABC divided by the three lines parallel to the sides*
 
-> DECOUPAGE OF A TRIANGLE From an inner point in a $ABC$ triangle the three parallels to the sides of the triangle are plotted. Thus, the triangle is divided into three parallelograms and three smaller triangles of area (respectively) $9 \text{ cm}^2$, $16 \text{ cm}^2$ and $25 \text{ cm}^2$. What is (in $\text{cm}^2$) the area of the triangle $ABC$?
+> DECOMPOSITION OF A TRIANGLE
+> From an interior point of triangle $ABC$, three lines parallel to the sides of the triangle are drawn. In this way, the triangle is divided into three parallelograms and three smaller triangles with areas (respectively) $9 \text{ cm}^2$, $16 \text{ cm}^2$, and $25 \text{ cm}^2$. What is (in $\text{cm}^2$) the area of triangle $ABC$?
 
-**Answer:** 144 cm²
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q14|src_bocconi_finalenaz_2009__Q14]]
 
 
 
@@ -487,11 +571,17 @@ At what time did Carla turn off the two candles?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smaller than two consecutive winning tickets, a perfect square*
+*Smaller than the two consecutive winning tickets—one of them a perfect square*
 
-> The numbers of the Mathematical Lottery tickets are numbered (without interruption) from 1 to 9999. The winning cards are those whose number can be separated by a dash in two parts, so that the sum of the numbers written on the left of the dash is equal to the sum of the numbers on its right. For example, numbers 33, 440 and 2024 are winning because $3=3$; $4 = 4+0$; $2+0=2+4$. Milena buys two tickets with two consecutive 4-digit numbers and with great joy receives two prizes. His two tickets are indeed winning and one of the two numbers is the square of an integer. Which is the smaller of the two numbers?
+> The Mathematician's Lottery
+> The tickets for the Mathematician's Lottery are numbered (without any gaps) from 1 to 9999. The winning tickets are those whose number can be split with a hyphen into two parts, such that the sum of the digits to the left of the hyphen equals the sum of the digits to its right. For example, the numbers 33, 440, and 2024 are winning numbers because $3=3$ ; $4 = 4+0$ ; $2+0=2+4$. Milena buys two tickets with two consecutive four-digit numbers and, to her great joy, wins two prizes. Indeed, her two tickets are winning tickets, and one of the two numbers is the square of an integer. What is the smaller of the two numbers?
 
-**Answer:** 3249
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q15|src_bocconi_finalenaz_2009__Q15]]
 
 
 
@@ -516,11 +606,17 @@ At what time did Carla turn off the two candles?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seven different positive numbers with sum divisible by each, minimum sum*
+*Seven distinct positive numbers whose sum is divisible by each of them, with the minimum possible sum*
 
-> W THE DIVISIbility Write (in increasing order) 7 positive numbers, all different from each other and such that their sum is divisible by each of the 7 numbers, being the smallest possible.
+> ON DIVISIBILITY
+> Write (in ascending order) 7 positive numbers, all distinct from one another, such that their sum is divisible by each of the 7 numbers and is as small as possible.
 
-**Answer:** 1-2-3-4-6-8-24 ; 1-2-3-6-8-12-16 (two solutions)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q16|src_bocconi_finalenaz_2009__Q16]]
 
 
 
@@ -546,11 +642,17 @@ At what time did Carla turn off the two candles?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three numbers in arithmetic progression with A+B, B+C, C+A squares*
+*Three numbers in arithmetic progression such that A+B, B+C, and C+A are squares*
 
-> IN PROGRESS The three integers $A$, $B$ and $C$ (with $400 < A < B < C < 5000$) are in arithmetic progression. Furthermore, the numbers $A+B$, $B+C$ and $C+A$ are all three squares. How much are $A$, $B$, $C$?
+> IN PROGRESS
+> The three integers $A$, $B$, and $C$ (with $400 < A < B < C < 5000$) are in arithmetic progression. Furthermore, the numbers $A+B$, $B+C$, and $C+A$ are all three perfect squares. What are the values of $A$, $B$, and $C$?
 
-**Answer:** A = 482, B = 3362, C = 6242
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q17|src_bocconi_finalenaz_2009__Q17]]
 
 
 
@@ -577,8 +679,14 @@ At what time did Carla turn off the two candles?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit number giving the longest list by summing the squares of the digits*
+*A three-digit number that yields the longest list when the squares of its digits are added together*
 
-> SQUARE IN SQUARE Choose a natural number that is not more than three digits and write it down. Then you add the squares of its digits, you get a second number. With it, you start the operation again, which is adding the squares of the numbers and writing the result. And so on, until you get a number that's already written. For example: $409 \to 97 \to 130 \to 10 \to 1$ Which number will give the longest list?
+> The Square in a Square
+> Choose a natural number with at most three digits and write it down. Then add the squares of its digits: you will get a second number. Using that number, start the process over—the process consists of adding the squares of the digits and writing down the result. And so on, until you get a number that has already been written as the result. For example: $409 \to 97 \to 130 \to 10 \to 1$ Which number will produce the longest list?
 
-**Answer:** 12 solutions: 369 – 396 – 629 – 692 – 926 – 962 – 667 – 676 – 766 – 799 – 979 – 997
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2009#q18|src_bocconi_finalenaz_2009__Q18]]

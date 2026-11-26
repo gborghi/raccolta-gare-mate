@@ -33,9 +33,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*exists n with xn+2=xn*
+*There exists an n such that xn+2 = xn*
 
-> Jack writes on the board the number x0 = 20242024. And then he deletes it and writes in its place x1 = x0 −π Then you delete x1 and write in its place x2 = x1 −π, and so on. In other words, with each move, Jack deletes the previously written number xn and replaces it with xn+1 = ̊xn −π ̊. Prove that there is a value of n such that xn+2 = xn.
+> Jack writes on the blackboard the number x0 = 20242024.
+> He then erases it and writes in its place x1 = |x0 − π|. Then he erases x1 and writes in its place x2 = |x1 − π|, and so on. In other words, at every move Jack erases the number xn written previously and replaces it with xn+1 = |xn − π|.
+> Prove that there exists a value of n such that xn+2 = xn.
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2024#q01|src_cesenatico_2024__Q01]]
 
 
 
@@ -65,13 +73,18 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*set of the median points*
+*The set of all the median points, and only those*
 
-![[src_cesenatico_2024__prob2.png]]
+> A square of unit side is given in the plane. A point M of the plane is called median if there exist two points P and Q, belonging to the boundary of the square, such that
+> • the segment PQ has unit length,
+> • M is the midpoint of PQ.
+> Determine the set consisting of all the median points, and only those.
 
-> Let's have a square of the unit side in the plane. A point M of the median plane says if there are two points P and Q, belonging to the edge of the square, such that • the segment PQ has unit length, • M is the middle point of PQ. Determine the whole of all the median points.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-**Answer:** two segments and four arcs
+[[src_cesenatico_2024__prob2.png]]
 
 
 
@@ -106,11 +119,25 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-Are 72, 71 and 72^71 Egyptians?
+*Whether 72, 71 and 7271 are Egyptian; the sum of reciprocals is a broken extraction*
 
-> An integer n is defined as Egyptian if there exists a sequence of strictly increasing positive integers 0 < a1 < a2 < ... < ak = n (so the last term of the sequence is n) such that 1 a1 + 1 a2 + · · + 1 ak = 1. (a) Determine whether the number n = 72 is Egyptian. (b) Determine whether the number n = 71 is Egyptian. (c) Determine whether the number n = 7271 is Egyptian.
+> An integer n is called Egyptian if there exists a strictly increasing sequence of positive integers 0 < a1 < a2 < ... < ak = n (so the last term of the sequence is n) such that
+> 1
+> a1
+> + 1
+> a2
+> + · · + 1
+> ak
+> = 1.
+> (a) Determine whether the number n = 72 is Egyptian.
+> (b) Determine whether the number n = 71 is Egyptian.
+> (c) Determine whether the number n = 7271 is Egyptian.
 
-**Answer:** 72 yes, 71 no, 72^71 yes
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2024#q03|src_cesenatico_2024__Q03]]
 
 
 
@@ -141,11 +168,18 @@ Are 72, 71 and 72^71 Egyptians?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*XS=PS e AX=DQ*
+*XS = PS, and AX = DQ*
 
-![[src_cesenatico_2024__prob4.png]]
+> Let ABCD be a rectangle with AB < BC, inscribed in a circle Γ. Let P be on the arc BC (not containing A) and Q on the arc CD (not containing A) such that BP = CQ.
+> The circle with diameter AQ meets the line AP again at S. The line through B perpendicular to AQ meets the line AP at X.
+> (a) Prove that XS = PS.
+> (b) Prove that AX = DQ.
 
-> Whether ABCD is a rectangle with AB < BC, inscribed in a circumference Γ. They are P on the BC (not containing A) and Q on the CD (not containing A) such that BP = CQ. The circumference of diameter AQ again intersects the straight AP in S. The line for B and perpendicular to AQ intersects the line AP in X. (a) Demonstrate that XS = PS. (b) Demonstrate that AX = DQ. Italian Olympic Games of Mathematics 2024 -- Texts and solutions -- Page 1 of 14
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[src_cesenatico_2024__prob4.png]]
 
 
 
@@ -191,13 +225,23 @@ Are 72, 71 and 72^71 Egyptians?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum guards per perimeter and area*
+*The least k guards that suffice for every fortress of perimeter at most 2024, and for every fortress of area at most 2024*
 
-![[src_cesenatico_2024__prob5.png]]
+> A fortress is a finite set of cells in an infinite square grid, with the property that from every cell one can reach every other cell by always moving between cells that have a side in common. The walls of the fortress are the unit segments of the grid that separate a square of the fortress from a square not belonging to the fortress.
+> The area A of a fortress is the number of squares that compose it. The perimeter P of a fortress is the total length of its walls. In the figure below three possible fortresses are shown, with the corresponding values of area and perimeter.
+> A = 23, P = 26
+> A = 20, P = 34
+> A = 17, P = 30
+> b
+> Some cells of the fortress may contain a guard, who watches all the cells that lie above, below, to the right or to the left of their position, with no walls in between (every guard also watches the cell in which they are). For example, a guard placed in the cell with the dot of the first fortress watches six cells, including the one in which they are.
+> (a) Determine the least k for which k guards suffice to watch every possible fortress with perimeter P ≤ 2024.
+> (b) Determine the least k for which k guards suffice to watch every possible fortress with area A ≤ 2024.
 
-> A fortress is a finite set of boxes in an infinite square grid, with the property that from each box you can reach every other box by always moving between boxes with one side in common. The walls of the fortress are the unitary segments of the grid separating a square of the fortress from a square not belonging to the fortress. The area A of a fortress is the number of squares that make up it. The perimeter P of a fortress is the total length of its walls. The figure below shows three possible fortresses, with their area and perimeter values. A = 23, P = 26 A = 20, P = 34 A = 17, P = 30 b Some boxes of the fortress may contain a guard, who watches over all boxes located above, below, to the right or left of its position, without walls in the middle (each guard also watches over the box in which it is located). For example, a guard placed in the box with the tip of the first fortress guards six boxes, including the one in which it is located. (a) Determine the smallest k for which k guards are sufficient to monitor any possible fortress with perimeter P ≤2024. (b) Determine the smallest k for which k guards are sufficient to monitor any possible fortress with area A ≤2024.
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 
-**Answer:** 506 e 1012
+[[src_cesenatico_2024__prob5.png]]
 
 
 
@@ -231,8 +275,22 @@ Are 72, 71 and 72^71 Egyptians?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum Mn for 1/a1+a1/a2+...+a(n-1)/year with increasing integers*
+*The least real Mn that bounds the sum for every strictly increasing n-tuple of integers greater than 1; the sum is a broken extraction*
 
-> For each positive integer n, determine the smallest real number Mn such that 1 a1 + a1 a2 + a2 a3 + · · + an−1 an ≤Mn for each n-upple (a1, a2, . . . , an) of integers such as 1 < a1 < a2 < . . . < an.
+> For every positive integer n, determine the least real number Mn such that
+> 1
+> a1
+> + a1
+> a2
+> + a2
+> a3
+> + · · + an−1
+> an
+> ≤ Mn
+> for every n-tuple (a1, a2, . . . , an) of integers such that 1 < a1 < a2 < . . . < an.
 
-**Answer:** M1=1/2, M2=7/6, Mn=n-1 for n>=3
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2024#q06|src_cesenatico_2024__Q06]]

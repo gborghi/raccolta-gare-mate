@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Q è l'incentro del triangolo PAB attraverso due cerchi incrociati*
+*Q è il incentro del triangolo PAB tramite due cerchi che si intersecano*
 
-> Si tratta di due cerchi con centri $C_1$ e $C_2$, che si incrociano rispettivamente a due punti $P$ e $Q$. Supponiamo che il circolo circonscritto del triangolo $PC_1C_2$ incontri $\omega_1$ di nuovo a $A \neq P$ e incontri $\omega_2$ di nuovo a $B \neq P$. Supponiamo inoltre che $Q$ si trovi all'interno del triangolo $PAB$. Provare che $Q$ è il centro del triangolo $PAB$.
+> Siano $\omega_1$ e $\omega_2$ due circonferenze aventi centri rispettivamente $C_1$ e $C_2$, che si intersecano in due punti $P$ e $Q$. Si supponga che la circonferenza circoscritta al triangolo $PC_1C_2$ incontri nuovamente $\omega_1$ nel punto $A \neq P$ e incontri nuovamente $\omega_2$ nel punto $B \neq P$. Si supponga inoltre che $Q$ si trovi nell'interno del triangolo $PAB$. Dimostrare che $Q$ è l'incentro del triangolo $PAB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2019_n3_fx#q01|src_obm_2019_n3_fx__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Operazioni minime per segnalare un numero intero n su una linea reale a partire da 0 e 1*
+*Numero minimo di operazioni per contrassegnare l'intero n sulla retta reale partendo da 0 e 1*
 
-> Ci viene data la linea reale con solo i punti $0$ e $1$ contrassegnati. Possiamo eseguire la seguente operazione quante volte vogliamo: scegliere due punti già segnalati $a$ e $b$ e segnalare il riflesso di $a$ su $b$. $f(n)$ sia il numero minimo di operazioni necessario per segnalare il numero reale $n$ (che è il numero a distanza $|n|$ da $0$, a destra di $0$ se $n > 0$ e a sinistra di $0$ se $n < 0$). Ad esempio, $f(0) = f(1) = 0$ e $f(-1) = f(2) = 1$. Trova $f(n)$.
+> Ci è data la retta reale con solo i punti $0$ e $1$ segnati. Possiamo eseguire l'operazione seguente quante volte vogliamo: scegliere due punti già segnati, $a$ e $b$, e segnare il riflesso di $a$ rispetto a $b$. Sia $f(n)$ il numero minimo di operazioni necessarie per segnare il numero reale $n$ (che è il numero a distanza $|n|$ da $0$, a destra di $0$ se $n > 0$ e a sinistra di $0$ se $n < 0$). Ad esempio, $f(0) = f(1) = 0$ e $f(-1) = f(2) = 1$. Determinare $f(n)$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2019_n3_fx#q02|src_obm_2019_n3_fx__Q02]]
 
 
 
@@ -81,9 +95,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni sui reali positivi che soddisfano f ((xy+f ((x))=f ((f ((x) f ((y))+x*
+*Trovare tutte le funzioni definite sui numeri reali positivi che soddisfano f(xy+f(x))=f(f(x)f(y))+x*
 
-> Che $\mathbb{R}_{>0}$ sia l'insieme dei numeri reali positivi. Determinare tutte le funzioni $f : \mathbb{R}_{>0} \to \mathbb{R}_{>0}$ in modo tale che $$f(xy + f(x)) = f(f(x)f(y)) + x$$ per tutti i valori reali positivi $x$ e $y$.
+> Sia $\mathbb{R}_{>0}$ l'insieme dei numeri reali positivi. Determinare tutte le funzioni $f : \mathbb{R}_{>0} \to \mathbb{R}_{>0}$ tali che
+> $$f(xy + f(x)) = f(f(x)f(y)) + x$$
+> per tutti i numeri reali positivi $x$ e $y$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2019_n3_fx#q03|src_obm_2019_n3_fx__Q03]]
 
 
 
@@ -107,9 +130,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per ogni m positivo c'è n_m così la somma unità di n-th potenze di reciprocità è*
+*Per ogni m positivo esiste n_m tale che vale la somma unitaria delle potenze n-esime dei reciproci*
 
-> Prova che per ogni intero positivo $m$, esiste un intero positivo $n_m$ tale che per ogni intero positivo $n \ge n_m$, esistono interi positivi (non necessariamente distinti) $a_1, a_2, \ldots, a_n$ tale che $$\frac{1}{a_1^n} + \frac{1}{a_2^n} + \cdots + \frac{1}{a_n^n} = 1.$$
+> Dimostrare che per ogni numero intero positivo $m$, esiste un numero intero positivo $n_m$ tale che, per ogni numero intero positivo $n \ge n_m$, esistono numeri interi positivi (non necessariamente distinti) $a_1, a_2, \ldots, a_n$ tali che
+> $$\frac{1}{a_1^n} + \frac{1}{a_2^n} + \cdots + \frac{1}{a_n^n} = 1.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2019_n3_fx#q04|src_obm_2019_n3_fx__Q04]]
 
 
 
@@ -136,13 +167,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Partire interi positivi in due o tre sottoinsiemi con limiti di rapporto*
+*Partiziona gli interi positivi in due o tre sottoinsiemi con limiti sul rapporto*
 
-> a) Prove che le costanti $a, b$ con $1 < a < 2 < b$ non hanno una divisione del set di integri positivi in due sottoinsiemi $A_0, A_1$ in modo tale che: se $j \in \{0,1\}$ e $m, n$ appartengono a $A_j$, allora $n/m < a$ o $n/m > b$.
-> 
-> b) Determinare tutte le coppie di reali $(a, b)$ con $1 < a < 2 < b$ per le quali si applica la seguente proprietà: esiste una divisione dell'insieme di integri positivi in tre sottoinsiemi $A_0, A_1, A_2$ in modo tale che: se $j \in \{0, 1, 2\}$ e $m, n$ appartengono a $A_j$, allora $n/m < a$ o $n/m > b$.
-> 
-> **Nota: ** Una partizione di un insieme significa scrivere che il set è un'unione di sottoinsiemi dissociati in coppia.
+> (a) Dimostrare che, dati i costanti $a, b$ con $1 < a < 2 < b$, non esiste alcuna partizione dell'insieme dei numeri interi positivi in due sottoinsiemi $A_0, A_1$ tale che: se $j \in \{0,1\}$ e $m, n$ appartengono a $A_j$, allora $n/m < a$ oppure $n/m > b$.
+>
+> (b) Determina tutte le coppie di numeri reali $(a, b)$ con $1 < a < 2 < b$ per cui vale la seguente proprietà: esiste una partizione dell'insieme dei numeri interi positivi in tre sottoinsiemi $A_0, A_1, A_2$ tale che: se $j \in \{0, 1, 2\}$ e $m, n$ appartengono a $A_j$, allora $n/m < a$ oppure $n/m > b$.
+>
+> **Osservazione:** Una partizione di un insieme consiste nello scrivere tale insieme come unione di sottoinsiemi a due a due disgiunti.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2019_n3_fx#q05|src_obm_2019_n3_fx__Q05]]
 
 
 
@@ -165,6 +203,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le intersezioni del circoncircolo del pentagono stellare producono cinque linee simultanee*
+*Gli incroci tra la stella a cinque punte e la circonferenza circoscritta danno origine a cinque rette concorrenti*
 
-> Il $A_1A_2A_3A_4A_5$ deve essere un pentagono convexo inserito in un cerchio in modo tale che $\angle A_i + \angle A_{i+1} > 180^\circ$ per $i = 1, 2, 3, 4, 5$ (indici mod 5 in tutto il problema). Definire $B_i$ come l'intersezione delle linee $A_{i-1}A_i$ e $A_{i+1}A_{i+2}$, in modo che i cinque punti $B_i$ formino una stella. I circoncircoli dei triangoli $A_{i-1}B_{i-1}A_i$ e $A_iB_{i+1}A_{i+1}$ si riuniscono a $C_i \neq A_i$, e i circoncircoli dei triangoli $B_{i-1}A_iB_i$ si riuniscono a $D_i \neq A_i$. Provare che le linee $A_iC_i$ e $B_iD_i$, per $i = 1, 2, 3, 4, 5$, passano tutte attraverso un punto comune.
+> Sia $A_1A_2A_3A_4A_5$ un pentagono convesso inscritto in una circonferenza tale che $\angle A_i + \angle A_{i+1} > 180^\circ$ per $i = 1, 2, 3, 4, 5$ (gli indici sono considerati modulo 5 per tutto il problema). Si definisca $B_i$ come l'intersezione delle rette $A_{i-1}A_i$ e $A_{i+1}A_{i+2}$, in modo che i cinque punti $B_i$ formino una stella. Le circonferenze circoscritte ai triangoli $A_{i-1}B_{i-1}A_i$ e $A_iB_{i+1}A_{i+1}$ si incontrano di nuovo in $C_i \neq A_i$, e le circonferenze circoscritte ai triangoli $B_{i-1}A_iB_i$ si incontrano di nuovo in $D_i \neq A_i$. Dimostrare che le rette $A_iC_i$ e $B_iD_i$, per $i = 1, 2, 3, 4, 5$, passano tutte per un punto comune.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2019_n3_fx#q06|src_obm_2019_n3_fx__Q06]]

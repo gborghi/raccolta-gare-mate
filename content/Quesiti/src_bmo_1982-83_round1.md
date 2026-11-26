@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circumcento, punto medio, centroide; prova che l'OE è perpendicolare al CD*
+*Dimostrare che $OE$ è perpendicolare a $CD$*
 
-> Nel triangolo $ABC$ con circoncentro $O$, $D$ è il punto medio di $AB$ e $E$ è il centroide del triangolo $ACD$. Prova che $OE$ è perpendicolare a $CD$.
+> Nel triangolo $ABC$ di circocentro $O$, $D$ è il punto medio di $AB$ e $E$ è il baricentro del triangolo $ACD$. Dimostrare che $OE$ è perpendicolare a $CD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1982-83_round1#q01|src_bmo_1982-83_round1__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Sequenza di Fibonacci: mostra f_n - ab^n divisibile da tutti i numeri interi positivi
+*Esistono unici interi $a$, $b$ con $0 < a < b$ tali che $b$ divide $f_n - ab^n$ per ogni $n$*
 
-> La sequenza di Fibonacci $\{f_n\}$ è definita da $$f_1 = 1,\quad f_2 = 1,\quad f_{n+2} = f_{n+1} + f_n \qquad (n > 2).$$ Prove che ci sono integri unici $a$, $b$ in modo tale che $0 < a < b$ e $f_n - ab^n$ siano divisibili da $b$ per tutti gli integri positivi $n$.
+> La successione di Fibonacci $\{f_n\}$ è definita da
+> $$f_1 = 1,\quad f_2 = 1,\quad f_{n+2} = f_{n+1} + f_n \qquad (n > 2).$$
+> Dimostrare che esistono unici interi $a$, $b$ tali che $0 < a < b$ e $f_n - ab^n$ è divisibile per $b$ per tutti gli interi positivi $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1982-83_round1#q02|src_bmo_1982-83_round1__Q02]]
 
 
 
@@ -85,11 +101,20 @@ Sequenza di Fibonacci: mostra f_n - ab^n divisibile da tutti i numeri interi pos
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza x_n con x_1=-1, x_2=2; provare nS_n + F_n = 1 per tutte le n*
+*Dimostrare che $nS_n + F_n = 1$ per ogni $n$*
 
-> I numeri reali $x_1, x_2, x_3, \ldots$ sono definiti da $$x_1 = -1, \quad x_2 = 2 \quad \text{and} \quad x_{n+1} = 2x_n - x_{n-1} \text{ for all } n \geq 1.$$ $S_n$ è la media e $F_n$ è il $n$-th termine della sequenza $y_1, y_2, \ldots$, dove $y_n = \dfrac{x_{n-1} + x_n}{2}$.
-> 
-> Prova che $nS_n + F_n = 1$ per tutti $n$.
+> I numeri reali $x_1, x_2, x_3, \ldots$ sono definiti da
+> $$x_1 = -1, \quad x_2 = 2 \quad \text{and} \quad x_{n+1} = 2x_n - x_{n-1} \text{ for all } n \geq 1.$$
+> $S_n$ è la media e $F_n$ è l'$n$-esimo termine della successione $y_1, y_2, \ldots$, dove $y_n = \dfrac{x_{n-1} + x_n}{2}$.
+>
+> Dimostrare che $nS_n + F_n = 1$ per ogni $n$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_telescoping|Metodo telescopico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1982-83_round1#q03|src_bmo_1982-83_round1__Q03]]
 
 
 
@@ -114,9 +139,18 @@ Sequenza di Fibonacci: mostra f_n - ab^n divisibile da tutti i numeri interi pos
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cupola sulla torre: trovare il percorso più corto sulla superficie*
+*La distanza minima dal punto più alto della cupola a un angolo della base della torre*
 
-> Le due superfici cilindriche $$x^2 + z^2 = 4, \quad y \geq 0 \quad \text{and} \quad y^2 + z^2 = 4, \quad x \geq 0$$ si intersecano e con $x \geq 0$, $y \geq 0$, $z \geq 0$ formano una forma di cupola che qui viene chiamata "cupola". La cupola è collocata sopra una torre verticale di altezza $h$ la cui sezione trasversale orizzontale è un quadrato laterale $2$. Trova la distanza più breve dal punto più alto della cupola a un angolo della base della torre, sopra la superficie della cupola e della torre.
+> Le due superfici cilindriche
+> $$x^2 + z^2 = 4, \quad y \geq 0 \quad \text{and} \quad y^2 + z^2 = 4, \quad x \geq 0$$
+> si intersecano e con $x \geq 0$, $y \geq 0$, $z \geq 0$ formano una forma a cupola, qui chiamata «cupola». La cupola è posta in cima a una torre verticale di altezza $h$ la cui sezione orizzontale è un quadrato di lato $2$. Trovare la distanza minima dal punto più alto della cupola a un angolo della base della torre, sulla superficie della cupola e della torre.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1982-83_round1#q04|src_bmo_1982-83_round1__Q04]]
 
 
 
@@ -139,9 +173,16 @@ Sequenza di Fibonacci: mostra f_n - ab^n divisibile da tutti i numeri interi pos
 <div class="qlang-split" data-lang="it"></div>
 
 
-*10 punti in un cerchio di diametro 5"; provare due entro 2" l'uno dell'altro*
+*La distanza fra due dei $10$ punti è minore di $2''$*
 
-> Se i punti $10$ sono all'interno di un cerchio di diametro $5''$, dimostrare che la distanza tra alcuni $2$ dei punti è inferiore a $2''$.
+> Se $10$ punti stanno in una circonferenza di diametro $5''$, dimostrare che la distanza fra $2$ dei punti è minore di $2''$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1982-83_round1#q05|src_bmo_1982-83_round1__Q05]]
 
 
 
@@ -168,6 +209,17 @@ Sequenza di Fibonacci: mostra f_n - ab^n divisibile da tutti i numeri interi pos
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione con radici quadrate; trovare p per esattamente una soluzione reale x*
+*L'insieme dei $p$ reali per cui (1) è soddisfatta da esattamente un $x$ reale*
 
-> Considera l'equazione $$\sqrt{2p + 1 - x^2} + \sqrt{3x + p + 4} = \sqrt{x^2 + 9x + 3p + 9} \tag{1}$$ in cui $x, p$ sono numeri reali e le radici quadrate devono essere reali e non negative. Mostrare che se $(1)$ è valido allora $$(x^2 + x - p)(x^2 + 8x + 2p + 9) = 0.$$ Trovare quindi l'insieme dei numeri reali $p$ per i quali $(1)$ è soddisfatto da esattamente un numero reale $x$.
+> Si consideri l'equazione
+> $$\sqrt{2p + 1 - x^2} + \sqrt{3x + p + 4} = \sqrt{x^2 + 9x + 3p + 9} \tag{1}$$
+> in cui $x, p$ sono numeri reali e le radici quadrate devono essere reali e non negative. Dimostrare che se vale $(1)$ allora
+> $$(x^2 + x - p)(x^2 + 8x + 2p + 9) = 0.$$
+> Trovare dunque l'insieme dei numeri reali $p$ per cui $(1)$ è soddisfatta da esattamente un numero reale $x$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1982-83_round1#q06|src_bmo_1982-83_round1__Q06]]

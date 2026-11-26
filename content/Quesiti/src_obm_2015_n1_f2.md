@@ -31,11 +31,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadro tagliato in 3 pezzi riordinati in rettangolo; trovare un nuovo perimetro*
+*Un quadrato tagliato in 3 pezzi viene riorganizzato in un rettangolo; trova il nuovo perimetro*
 
-> In un quadrato di perimetro $48$ cm, $M$ e $N$ sono i punti di mezzo di due lati adiacenti. $O$ è il centro e $A$ è un vertice. Tagliando il quadrato lungo le linee tracciate e riordinando i tre pezzi, si forma un rettangolo con la stessa area del quadrato originale ma un perimetro diverso. Qual e' questo perimetro?
+> In un quadrato di perimetro $48$ cm, $M$ e $N$ sono i punti medi di due lati adiacenti. $O$ è il centro e $A$ è un vertice. Tagliando il quadrato lungo le linee tratteggiate e riassemblando i tre pezzi, si ottiene un rettangolo avente la stessa area del quadrato originale ma un perimetro diverso. Qual è questo perimetro?
 
 ![[src_obm_2015_n1_f2__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n1_f2#q01|src_obm_2015_n1_f2__Q01]]
 
 
 
@@ -57,9 +64,15 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sconti sulle magliette: 3 al 10% contro 2 al 5%, differenza 12 reais; trovare prezzo scontato*
+*Sconti sulle T-shirt: 3 a -10% contro 2 a -5%, differenza di 12 reais; trova il prezzo scontato*
 
-> Júlia ha comprato magliette $3$ uguali e pagato con uno sconto $10\%$, mentre suo fratello ha comprato magliette $2$ dello stesso tipo e pagato con uno sconto $5\%$. Il fratello di Júlia ha pagato $12$ reais più di Júlia. Qual è il prezzo, in reais, di ogni T-shirt al prezzo scontato di Júlia?
+> Júlia ha comprato $3$ magliette uguali e ha pagato con uno sconto di $10\%$, mentre suo fratello ha comprato $2$ magliette dello stesso tipo e ha pagato con uno sconto di $5\%$. Il fratello di Júlia ha pagato $12$ reais in più rispetto a Júlia. Qual è il prezzo, in reais, di ciascuna maglietta al prezzo scontato di Júlia?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n1_f2#q02|src_obm_2015_n1_f2__Q02]]
 
 
 
@@ -86,13 +99,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due strisce di 1 cm di larghezza tagliate in rettangoli che formano una striscia decorativa di 100 cm; trovare larghezza originale*
+*Due strisce larghe 1 cm, tagliate a rettangoli, formano una striscia decorativa di 100 cm; trovare la larghezza originale*
 
-> Due strisce di larghezza $1$ cm, una nera e una bianca, sono state incollate insieme per formare rettangoli più piccoli. I rettangoli sono stati posizionati fianco a fianco (senza sovrapposizioni e utilizzando entrambe le strisce completamente) per formare la striscia decorativa mostrata di seguito. Se la striscia decorativa ha una lunghezza totale di $100$ cm, quale era la larghezza, in cm, di ciascuna striscia prima di essere tagliata?
-> 
-> (La striscia mostra pezzi rettangolari in bianco e nero alternati disposti in una fila di lunghezza totale $100$ cm.)
+> Due strisce di larghezza $1$ cm, una nera e una bianca, sono state incollate insieme per formare rettangoli più piccoli. I rettangoli sono stati disposti uno accanto all'altro (senza sovrapposizioni e utilizzando entrambe le strisce per intero) per formare la striscia decorativa mostrata di seguito. Se la striscia decorativa ha una lunghezza totale di $100$ cm, qual era la larghezza, in cm, di ciascuna strisca prima che venisse tagliata?
+>
+> (La striscia mostra pezzi rettangolari bianchi e neri alternati, disposti in una riga della lunghezza totale di $100$ cm.)
 
 ![[src_obm_2015_n1_f2__q03.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_obm_2015_n1_f2#q03|src_obm_2015_n1_f2__Q03]]
 
 
 
@@ -115,9 +135,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2015 persone a tavola rotonda, ognuno dice un vicino onesto e un disonesto; contare onesto*
+*2015 persone attorno a un tavolo rotondo: ciascuna dichiara che un vicino è onesto e l'altro disonesto; conta i onesti*
 
-> Ci sono persone $2015$ sedute attorno a un tavolo circolare. Ognuno di loro è onesto o disonesto. Ognuno dice: "Uno dei miei due vicini (il di sinistra o quello di destra) è onesto, e l'altro è disonesto".
+> Intorno a un tavolo circolare sono sedute $2015$ persone. Ciascuna di esse è o onesta (dice sempre la verità) o disonesta (mente sempre). Ognuna delle persone fa la seguente affermazione: "Uno dei miei due vicini (quello a sinistra o quello a destra) è onesto, e l'altro vicino è disonesto." Qual è il numero di persone oneste nel gruppo?
+
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n1_f2#q04|src_obm_2015_n1_f2__Q04]]
 
 
 
@@ -146,15 +173,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di griglie (quadrati bianchi e grigi, medesima regola); trovare l'eccesso di grigio sul bianco nella figura 30*
+*Sequenza di griglie (quadrati bianchi e grigi, stessa regola); individuare l'eccedenza di grigio rispetto al bianco nella figura 30*
 
-> Elisa costruisce una sequenza di griglie di quadrati di unità bianche e grigi, seguendo sempre la stessa regola, come illustrato di seguito (Figura 1, Figura 2, Figura 3, Figura 4, $\ldots$).
-> 
-> (Le figure mostrano le reti successive del modello.)
-> 
-> Nella figura $30$, quanti quadrati grigie ci sono di più rispetto ai quadrati bianchi?
+> Elisa costruisce una sequenza di griglie composte da quadrati unitari bianchi e grigi, seguendo sempre la stessa regola, come illustrato di seguito (Figura 1, Figura 2, Figura 3, Figura 4, $\ldots$).
+>
+> (Le figure mostrano le griglie successive nel motivo.)
+>
+> Nella Figura $30$, quante caselle grigie in più ci sono rispetto alle caselle bianche?
 
 ![[src_obm_2015_n1_f2__q05.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n1_f2#q05|src_obm_2015_n1_f2__Q05]]
 
 
 
@@ -179,11 +213,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia esattamente 2 vertici verdi e 2 gialli
+*Colora con 3 colori 12 vertici di 12 quadrati in modo che ciascun quadrato abbia esattamente 2 vertici verdi e 2 vertici gialli*
 
-> Nella figura ci sono quadrati $12$. Matilu vuole dipingere i vertici di questi quadrati $12$ utilizzando tre colori  verde, giallo e blu  in modo che ogni quadrato abbia esattamente $2$ vertici verdi e $2$ vertici gialli. In quanti modi diversi si possono dipingere questi vertici?
+> Nella figura ci sono $12$ quadrati. Matilu vuole colorare i vertici di questi $12$ quadrati usando tre colori — verde, giallo e blu — in modo che ciascun quadrato abbia esattamente $2$ vertici verdi e $2$ vertici gialli. In quanti modi diversi si possono colorare questi vertici?
 
 ![[src_obm_2015_n1_f2__q06.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n1_f2#q06|src_obm_2015_n1_f2__Q06]]
 
 
 
@@ -216,19 +257,26 @@ Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia
 <div class="qlang-split" data-lang="it"></div>
 
 
-*numeri a 10 cifre in cui ogni nuova cifra è pari alla somma di tutte le precedenti (o ultime cifre di tale somma); trovare le cifre più piccole, più grandi e possibili*
+*Numeri di 10 cifre in cui ogni nuova cifra è uguale alla somma di tutte le cifre precedenti (o all'ultima cifra di tale somma); trovare le cifre finali possibili, la più piccola e la più grande*
 
-> Janaina ama scrivere $10$ numeri a cifre come segue:
-> 
-> (i) Scrive ogni cifra da sinistra a destra, senza mai usare un primo zero (la prima cifra non è zero);
-> 
-> (ii) Ogni nuova cifra deve essere uguale alla somma di tutte le cifre scritte finora, O deve essere uguale all'ultima cifra di tale somma. Ad esempio, può scrivere $5\,386\,248\,624$, perché $8 = 5 + 3$, $6$ è l'ultima cifra di $5 + 3 + 8 = 16$, $2$ è l'ultima cifra di $5 + 3 + 8 + 6 = 22$, e così via. Un altro esempio è $4\,600\,000\,000$.
-> 
-> a) Qual è il numero più piccolo che possa scrivere?
-> 
-> b) Qual è il numero più grande che possa scrivere?
-> 
-> c) Quali cifre possono apparire come ultima (decima) cifra?
+> A Janaina piace scrivere numeri di $10$ cifre nel seguente modo:
+>
+> (i) Scrive ogni cifra da sinistra a destra, senza mai usare uno zero iniziale (la prima cifra è diversa da zero);
+>
+> (ii) Ogni nuovo digit che scrive deve essere uguale alla somma di tutti i digit scritti finora, OPPURE deve essere uguale all'ultimo digit di tale somma. Per esempio, può scrivere $5\,386\,248\,624$, perché $8 = 5 + 3$, $6$ è l'ultimo digit di $5 + 3 + 8 = 16$, $2$ è l'ultimo digit di $5 + 3 + 8 + 6 = 22$, e così via. Un altro esempio è $4\,600\,000\,000$.
+>
+> a) Qual è il numero più piccolo che può scrivere?
+>
+> b) Qual è il numero più grande che può scrivere?
+>
+> c) Quali cifre possono comparire come ultima (decima) cifra?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2015_n1_f2#q07|src_obm_2015_n1_f2__Q07]]
 
 
 
@@ -261,19 +309,26 @@ Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esagono regolare con centro O costituito da 6 triangoli equilaterali (lato 6 cm); trovare aree di varie sottoregioni*
+*Esagono regolare con centro O, formato da 6 triangoli equilateri (lato 6 cm); determinare le aree di varie sottoregioni*
 
-> L'esagono regolare $ABCDEF$ con centro $O$, mostrato lateralmente, è composto da triangoli equilaterali $6$ di lato $6$ cm.
-> 
-> a) Qual è la superficie, in $\text{cm}^2$, del triangolo i cui vertici sono i punti $B$, $F$ e $D$?
-> 
-> b) Qual è la superficie, in $\text{cm}^2$, del quadrilaterale $ACDF$?
-> 
-> c) I triangoli $ABC$ e $BCD$ si sovrappongono parzialmente. Qual è la superficie, in $\text{cm}^2$, della regione comune a entrambi i triangoli, indicata in grigio nella figura seguente?
-> 
-> d) Qual è l'area, in $\text{cm}^2$, del triangolo le cui vertici sono i punti medi dei lati $AB$, $CD$ e $EF$?
+> L'esagono regolare $ABCDEF$, con centro $O$, mostrato qui accanto, è composto da $6$ triangoli equilateri di lato $6$ cm.
+>
+> a) Qual è l'area, in $\text{cm}^2$, del triangolo i cui vertici sono i punti $B$, $F$ e $D$?
+>
+> b) Qual è l'area, in $\text{cm}^2$, del quadrilatero $ACDF$?
+>
+> c) I triangoli $ABC$ e $BCD$ si sovrappongono parzialmente. Qual è l'area, in $\text{cm}^2$, della regione comune a entrambi i triangoli, indicata in grigio nella figura sottostante?
+>
+> d) Qual è l'area, in $\text{cm}^2$, del triangolo i cui vertici sono i punti medi dei lati $AB$, $CD$ e $EF$?
 
 ![[src_obm_2015_n1_f2__q08.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n1_f2#q08|src_obm_2015_n1_f2__Q08]]
 
 
 
@@ -300,10 +355,17 @@ Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cubbi di unità assemblati in cubetti più grandi e poi dipinti; contare le facce per visibilità*
+*Cubi unitari assemblati in un cubo più grande e poi verniciati; conta le facce in base alla visibilità*
 
-> Esmeralda incolla i cubetti bianchi per costruire cubetti più grandi. Dopo aver riunito i cubetti più grandi, dipinge alcune delle facce visibili dei piccoli cubetti in verde o giallo.
-> 
-> a) Dopo aver assemblato un grande cubo laterale $3$ (fatto di $27$ piccoli cubetti), Esmeralda dipinge di verde le facce di piccoli cubetti che hanno esattamente $3$ facce visibili e di giallo le facce di piccoli cubetti che hanno esattamente $2$ facce visibili. Dopo la vernice, le facce $120$ sono gialle. Quanti volti sono rimasti non dipinti sui piccoli cubetti?
-> 
-> b) Dopo aver assemblato un grande cubo di $9$ piccoli cubetti, Esmeralda dipinse $3$ le facce del grande cubo verde e $1$ la faccia gialla. Al massimo, quanti piccoli cubetti avrebbero potuto avere esattamente $2$ volti verdi e $1$ volti gialli?
+> Esmeralda incolla tra loro i cubi unitari bianchi per costruire cubi più grandi. Dopo aver assemblato i cubi più grandi, dipinge di verde o di giallo alcune delle facce visibili dei cubi piccoli.
+>
+> a) Dopo aver assemblato un cubo grande di lato $3$ (composto da $27$ cubetti), Esmeralda dipinge di verde le facce dei cubetti che hanno esattamente $3$ facce visibili, e dipinge di giallo le facce dei cubetti che hanno esattamente $2$ facce visibili. Dopo la verniciatura, $120$ facce sono gialle. Quante facce dei cubetti rimangono non dipinte?
+>
+> b) Dopo aver assemblato un cubo grande formato da $9$ cubetti, Esmeralda ha dipinto di verde $3$ facce del cubo grande e di giallo $1$ facce. Al massimo, quanti cubetti avrebbero potuto avere esattamente $2$ facce verdi e $1$ faccia gialla?
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n1_f2#q09|src_obm_2015_n1_f2__Q09]]

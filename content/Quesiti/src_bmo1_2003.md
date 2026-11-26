@@ -31,9 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine i numeri a,b,c da una potenza di 3*
+*Determinare le cifre $a$, $b$, $c$ di $3^{47}$*
 
-> Dato che $$3^{47} = 295\,232\,799\,cd9\,614\,810\,847\,618\,609\,643\,5ab\,000\,000,$$ determina le cifre $a$, $b$, $c$.
+> Sapendo che
+> $$3^{47} = 295\,232\,799\,cd9\,614\,810\,847\,618\,609\,643\,5ab\,000\,000,$$
+> determinare le cifre $a$, $b$, $c$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2003#q01|src_bmo1_2003__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo, piede di altitudine, punto medio e condizione di diametro*
+*$BX = CX$ se e solo se $PQ$ è un diametro di $S$*
 
-> Il triangolo $ABC$, dove $AB < AC$, ha un circoncircolo $S$. La perpendicolare da $A$ a $BC$ incontra di nuovo $S$ a $P$. Il punto $X$ si trova nel segmento di linea $AC$ e $BX$ incontra di nuovo $S$ al $Q$. Indicare che $BX = CX$ se e solo se $PQ$ ha un diametro di $S$.
+> Il triangolo $ABC$, con $AB < AC$, ha circocerchio $S$. La perpendicolare da $A$ a $BC$ seca di nuovo $S$ in $P$. Il punto $X$ sta sul segmento $AC$, e $BX$ seca di nuovo $S$ in $Q$. Dimostrare che $BX = CX$ se e solo se $PQ$ è un diametro di $S$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2003#q02|src_bmo1_2003__Q02]]
 
 
 
@@ -82,9 +98,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza simmetrica per i reali positivi sulla sfera unitaria*
+*Dimostrare che $x^2 y^2 + y^2 z^2 + z^2 x^2 \le 1/3$*
 
-> $x$, $y$, $z$ siano numeri reali positivi tali da $x^2 + y^2 + z^2 = 1$. Provare che $$x^2 y^2 + y^2 z^2 + z^2 x^2 \le \frac{1}{3}.$$
+> Siano $x$, $y$, $z$ numeri reali positivi tali che $x^2 + y^2 + z^2 = 1$. Dimostrare che
+> $$x^2 y^2 + y^2 z^2 + z^2 x^2 \le \frac{1}{3}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2003#q03|src_bmo1_2003__Q03]]
 
 
 
@@ -107,9 +131,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti rossi massimi in griglia senza triangolo rettangolo*
+*Massimo numero di punti rossi su una griglia $n \times n$ senza triangoli rettangoli allineati*
 
-> $n$ sia un numero intero superiore a 1. Considera una griglia rettangolare $n \times n$ di punti nel piano. Alcuni $k$ di questi punti sono colorati in rosso in modo tale che non ci siano tre punti rossi che siano le vertici di un triangolo rettangolare i cui lati sono paralleli ai lati della griglia. Determinare il massimo valore possibile di $k$.
+> Sia $n$ un intero maggiore di 1. Si consideri una griglia rettangolare $n \times n$ di punti del piano. Alcuni $k$ di questi punti sono colorati di rosso in modo che tre punti rossi non siano mai i vertici di un triangolo rettangolo due dei cui lati siano paralleli ai lati della griglia. Determinare il massimo valore possibile di $k$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2003#q04|src_bmo1_2003__Q04]]
 
 
 
@@ -133,6 +164,14 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni a^b = b^a + b^c*
+*Soluzioni intere positive di $a^b = b^a + b^c$*
 
-> Trova tutte le soluzioni in numeri interi positivi $a$, $b$, $c$ all'equazione $$a^b = b^a + b^c.$$
+> Trovare tutte le soluzioni in interi positivi $a$, $b$, $c$ dell'equazione
+> $$a^b = b^a + b^c.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2003#q05|src_bmo1_2003__Q05]]

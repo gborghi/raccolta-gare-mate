@@ -33,11 +33,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-Distribuire caramelle a gruppi di persone in condizioni*
+*Si possono distribuire caramelle a gruppi con le quantità prescritte*
 
-> $n,k$ siano integri positivi con $n \ge k$. Ci sono persone $n$, e ciascuna persona appartiene esattamente a uno dei gruppi $1, \ldots, k$. Inoltre, ogni gruppo contiene almeno una persona. dimostrare che, in queste condizioni, è possibile distribuire le caramelle $n^2$ tra le persone $n$ in modo da soddisfare tutte le seguenti condizioni:
-> 
-> - Ogni persona riceve almeno $1$ dolci. - Ogni persona appartenente al gruppo $i$ riceve esattamente $a_i$ dolci $(1 \le i \le k)$. - Se $1 \le i < j \le k$, allora $a_i > a_j$.
+> Siano $n,k$ interi positivi con $n \ge k$. Ci sono $n$ persone, e ciascuna appartiene esattamente a uno dei gruppi $1, \ldots, k$. Inoltre ogni gruppo contiene almeno una persona. Dimostrare che, sotto queste condizioni, è possibile distribuire $n^2$ caramelle tra le $n$ persone in modo che valgano tutte le condizioni seguenti:
+>
+> - ogni persona riceve almeno $1$ caramella;
+> - ogni persona del gruppo $i$ riceve esattamente $a_i$ caramelle $(1 \le i \le k)$;
+> - se $1 \le i < j \le k$, allora $a_i > a_j$.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_jmo23mq_honsen#q01|src_jmo23mq_honsen__Q01]]
 
 
 
@@ -62,9 +69,16 @@ Distribuire caramelle a gruppi di persone in condizioni*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni integrali che soddisfano un'equazione funzionale*
+*Funzioni sugli interi, a valori reali, che soddisfano un'equazione funzionale*
 
-> Trovare tutte le funzioni $f$ definite sui numeri interi e prendere valori reali in modo tale che, per tutti gli enti $m,n$, $$f(m) + f(n) = f(mn) + f(m + n + mn)$$ tenga.
+> Determinare tutte le funzioni $f$ definite sugli interi e a valori reali tali che, per qualunque interi $m,n$, valga
+>
+> $$f(m) + f(n) = f(mn) + f(m + n + mn)$$
+
+**Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo23mq_honsen#q02|src_jmo23mq_honsen__Q02]]
 
 
 
@@ -90,11 +104,17 @@ Distribuire caramelle a gruppi di persone in condizioni*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum m con sequenza in aumento le cui metà quadrate adiacenti sono quadrate*
+*Minimo intero positivo per cui certi numeri sono tutti quadrati perfetti*
 
-> $n$ sia un numero intero con $n \ge 2$. Trova il valore minimo dell'intero numero positivo $m$ per il quale esistono interi positivi $a_1, \ldots, a_n$ che soddisfano le seguenti due condizioni:
-> 
-> - $a_1 < \cdots < a_n = m$. - I numeri $n-1$ $\dfrac{a_1^2 + a_2^2}{2}, \ldots, \dfrac{a_{n-1}^2 + a_n^2}{2}$ sono tutti quadrati perfetti.
+> Sia $n$ un intero con $n \ge 2$. Trovare il minimo valore dell'intero positivo $m$ per il quale esistono interi positivi $a_1, \ldots, a_n$ che soddisfano le due condizioni seguenti:
+>
+> - $a_1 < \cdots < a_n = m$;
+> - gli $n-1$ numeri $\dfrac{a_1^2 + a_2^2}{2}, \ldots, \dfrac{a_{n-1}^2 + a_n^2}{2}$ sono tutti quadrati perfetti.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo23mq_honsen#q03|src_jmo23mq_honsen__Q03]]
 
 
 
@@ -117,9 +137,14 @@ Distribuire caramelle a gruppi di persone in condizioni*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che KD taglia l'angolo BKC attraverso il piede dell'asse radicale*
+*Una relazione da dimostrare, a partire dall'ortocentro*
 
-> Il $ABC$ deve essere un triangolo acuto con il centro orto $H$. Il cerchio che attraversa i punti $B$ e $C$ e il cerchio con segmento $AH$ come diametro si intersecano a due punti distinti $X, Y$. Il $D$ deve essere il piede della perpendicolare da $A$ alla linea $BC$, e il $K$ deve essere il piede della perpendicolare da $D$ alla linea $XY$. Prove che $\angle BKD = \angle CKD$.
+> Sia $ABC$ un triangolo acutangolo di ortocentro $H$. La circonferenza passante per i punti $B$ e $C$ e la circonferenza di diametro il segmento $AH$ si intersecano in due punti distinti $X, Y$. Sia $D$ il piede della perpendicolare da $A$ alla retta $BC$, e sia $K$ il piede della perpendicolare da $D$ alla retta $XY$. Dimostrare che $\angle BKD = \angle CKD$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo23mq_honsen#q04|src_jmo23mq_honsen__Q04]]
 
 
 
@@ -142,6 +167,11 @@ Distribuire caramelle a gruppi di persone in condizioni*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximi coppie di segmenti che si intersecano in una sequenza di punti di svolta a 90 gradi*
+*Massimo numero di coppie di segmenti che si intersecano, data una rotazione di raggi*
 
-> $n$ sia un numero intero positivo. Nel piano ci sono punti $P_1, P_2, \ldots, P_{4n}$, di cui non tre sono collineari, in modo tale che per ogni $i = 1, 2, \ldots, 4n$, rotando il raggio $P_i P_{i-1}$ in senso orario per $90^\circ$ circa il punto $P_i$, esso coincide con il raggio $P_i P_{i+1}$. Trovare il numero massimo possibile di coppie $(i,j)$ in modo tale che i segmenti $P_i P_{i+1}$ e $P_j P_{j+1}$ si intersecano in un punto diverso dai loro punti di fine. Qui $P_0 = P_{4n}$, $P_{4n+1} = P_1$ e $1 \le i < j \le 4n$.
+> Sia $n$ un intero positivo. Nel piano ci sono punti $P_1, P_2, \ldots, P_{4n}$, di cui non ce ne siano tre allineati, tali che per ogni $i = 1, 2, \ldots, 4n$, ruotando il raggio $P_i P_{i-1}$ in senso orario di $90^\circ$ attorno al punto $P_i$, esso coincide con il raggio $P_i P_{i+1}$. Trovare il massimo numero possibile di coppie $(i,j)$ tali che i segmenti $P_i P_{i+1}$ e $P_j P_{j+1}$ si intersecano in un punto diverso dagli estremi. Qui $P_0 = P_{4n}$, $P_{4n+1} = P_1$ e $1 \le i < j \le 4n$.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_jmo23mq_honsen#q05|src_jmo23mq_honsen__Q05]]

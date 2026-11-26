@@ -32,13 +32,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova sqrt(AB) dove 19AB è un quadrato perfetto, cifre A, B*
+*19AB è un quadrato perfetto: si chiede la radice di AB*
 
-> Il numero $19\overline{AB}$, dove $A$ e $B$ sono cifre, è un quadrato perfetto. Il valore di $\sqrt{\overline{AB}}$ (radicola quadrata del numero a due cifre $\overline{AB}$) è:
-> 
+> Il numero $19\overline{AB}$, dove $A$ e $B$ sono cifre, è un quadrato perfetto. Il valore di $\sqrt{\overline{AB}}$ (la radice quadrata del numero di due cifre $\overline{AB}$) è:
+>
 > A) $5$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $5$
 
 **Risposta:** B
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_obm_2003_n3_f1#q01|src_obm_2003_n3_f1__Q01]]
 
 
 
@@ -64,13 +72,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il termine 2003 della sequenza oscillante 1,2,3,4,5,4,3,2,1,2,...*
+*Si chiede un termine lontano di una sequenza che sale e scende tra 1 e 5*
 
-> Considera la sequenza oscillante: $1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, \ldots$ Qual è il termine $2003^{\text{rd}}$ di questa sequenza?
-> 
+> Si consideri la sequenza oscillante: $1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, \ldots$ Qual è il termine $2003^{\text{rd}}$ di questa sequenza?
+>
 > A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) $5$
 
 **Risposta:** E
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
+
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_obm_2003_n3_f1#q02|src_obm_2003_n3_f1__Q02]]
 
 
 
@@ -98,13 +114,29 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Le cellule segnate del conte Camila su una lavagna in stile 4x4 Minesweeper
+*Su una scacchiera 4×4, dal numero di vicine segnate si ricostruisce quante caselle sono segnate*
 
-> Camila e Lara stanno giocando una versione semplificata di Minesweeper su una scheda $4 \times 4$. Camila segna alcune cellule e dice a Lara, per ogni cellula, il numero di cellule segnate nel suo quartiere. In questo gioco, due celle sono vicine se condividono almeno un lato (vertice) in comune. Lara scopre poi quali cellule sono state segnate. Dopo aver contrassegnato alcune celle, Camila ha mostrato a Lara la seguente tabella (ogni voce è il numero di vicini contrassegnati): $$\begin{array}{|c|c|c|c|}\hline 1 & 2 & 1 & 1 \\ \hline 0 & 2 & 1 & 2 \\ \hline 3 & 3 & 1 & 1 \\ \hline 1 & 0 & 2 & 1 \\ \hline\end{array}$$ Il numero di celle contrassegnate è:
-> 
+> Camila e Lara giocano a una versione semplificata del Campo minato su una scacchiera $4 \times 4$. Camila segna alcune caselle e dice a Lara, per ogni casella, il numero di caselle segnate nel suo intorno. In questo gioco due caselle sono vicine se hanno in comune almeno un lato (un vertice). Lara ricostruisce allora quali caselle erano segnate. Dopo averne segnate alcune, Camila mostra a Lara questa scacchiera (ogni casella riporta il numero di vicine segnate):
+>
+>
+>
+$$\begin{array}{|c|c|c|c|}\hline 1 & 2 & 1 & 1 \\ \hline 0 & 2 & 1 & 2 \\ \hline 3 & 3 & 1 & 1 \\ \hline 1 & 0 & 2 & 1 \\ \hline\end{array}$$
+>
+>
+>
+> Il numero di caselle segnate è:
+>
 > A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
 
 **Risposta:** B
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_casi_conteggio|Conteggio per casi]]
+
+**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_obm_2003_n3_f1#q03|src_obm_2003_n3_f1__Q03]]
 
 
 
@@ -130,13 +162,21 @@ Le cellule segnate del conte Camila su una lavagna in stile 4x4 Minesweeper
 <div class="qlang-split" data-lang="it"></div>
 
 
-Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
+*Cinque amici e altre 30 persone: Arnaldo deve stare davanti a ciascuno degli altri quattro*
 
-> Cinque amici  Arnaldo, Bernaldo, Cornaldo, Dernaldo e Ernaldo  devono formare una linea insieme ad altre 30 persone (35 persone in totale). In quanti modi possiamo formare questa linea in modo che Arnaldo sia prima di ciascuno degli altri quattro amici? (Nota: gli amici non devono essere in posizione consecutiva.)
-> 
+> Cinque amici — Arnaldo, Bernaldo, Cornaldo, Dernaldo ed Ernaldo — devono mettersi in fila insieme ad altre 30 persone (35 persone in tutto). In quanti modi si può formare la fila in modo che Arnaldo stia davanti a ciascuno degli altri quattro amici? (Nota: gli amici non devono occupare posizioni consecutive.)
+>
 > A) $35!$ \quad B) $\dfrac{35!}{5!}$ \quad C) $\dfrac{35!}{5}$ \quad D) $\left(\dfrac{35}{5}\right)! \cdot 5!$ \quad E) $e^{\sqrt{10}}$
 
 **Risposta:** B
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_obm_2003_n3_f1#q04|src_obm_2003_n3_f1__Q04]]
 
 
 
@@ -165,15 +205,29 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ordine di magnitudo stimato del volume terrestre in metri cubi*
+*Dal raggio terrestre dell'ordine di 10^7 metri si chiede l'ordine di grandezza del volume*
 
-> La Rivoluzione francese del 1789 portò molti cambiamenti all'umanità. Nel 1791, dopo la Rivoluzione francese, l'Accademia delle Scienze propose un nuovo sistema di misure basato su un'unità naturale di lunghezza chiamata metro, definita come un decimo milione della distanza dal Polo Nord all'Equatore lungo il meridiano che attraversa Parigi. Questo sistema fu adottato effettivamente nel 1795. La definizione attuale del contatore differisce leggermente, ma il valore è approssimativamente lo stesso.
-> 
-> Considerando che il raggio della Terra è dell'ordine di $10^7$ metri, qual è l'ordine di grandezza del volume $V$ della Terra, in metri cubi, utilizzando la formula $$V = \frac{4}{3}\pi R^3,$$ dove $R$ è il raggio della Terra?
-> 
+> La Rivoluzione francese del 1789 portò molti cambiamenti. Nel 1791, dopo la Rivoluzione, l'Accademia delle scienze propose un nuovo sistema di misure basato su un'unità naturale di lunghezza, il metro, definito come un dieci milionesimo della distanza dal Polo Nord all'Equatore lungo il meridiano che passa per Parigi. Il sistema fu adottato di fatto nel 1795. La definizione attuale del metro differisce di poco, ma il valore è circa lo stesso.
+>
+> Considerando il raggio terrestre dell'ordine di $10^7$ metri, qual è l'ordine di grandezza del volume $V$ della Terra, in metri cubi, secondo la formula
+>
+>
+>
+$$V = \frac{4}{3}\pi R^3,$$
+>
+>
+>
+> dove $R$ è il raggio terrestre?
+>
 > A) $10^{10}$ \quad B) $10^{21}$ \quad C) $10^{26}$ \quad D) $10^{21}$ \quad E) $10^{36}$
 
 **Risposta:** B
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Abilità:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_obm_2003_n3_f1#q05|src_obm_2003_n3_f1__Q05]]
 
 
 
@@ -201,13 +255,29 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare la somma infinita dei numeri di Fibonacci diviso per potenze di 2*
+*Nella serie di Fibonacci, si chiede la somma dei termini divisi per potenze di 2*
 
-> Nella sequenza di Fibonacci $1, 1, 2, 3, 5, 8, 13, 21, 34, 55, \ldots$, ogni termine dal terzo in poi è uguale alla somma dei due termini precedenti. Qual è il valore della somma infinita $$S = \frac{1}{2} + \frac{1}{4} + \frac{2}{8} + \frac{3}{16} + \frac{5}{32} + \frac{8}{64} + \frac{13}{128} + \frac{21}{256} + \frac{34}{512} + \frac{55}{1024} + \cdots,$$ dove il $n$-th termine è il $n$-th numero di Fibonacci diviso da $2^n$?
-> 
+> Nella successione di Fibonacci $1, 1, 2, 3, 5, 8, 13, 21, 34, 55, \ldots$, ogni termine dal terzo in poi è la somma dei due precedenti. Qual è il valore della somma infinita
+>
+>
+>
+$$S = \frac{1}{2} + \frac{1}{4} + \frac{2}{8} + \frac{3}{16} + \frac{5}{32} + \frac{8}{64} + \frac{13}{128} + \frac{21}{256} + \frac{34}{512} + \frac{55}{1024} + \cdots,$$
+>
+>
+>
+> dove il termine di posto $n$ è il numero di Fibonacci di posto $n$ diviso per $2^n$?
+>
 > A) $3/2$ \quad B) $2$ \quad C) $5/2$ \quad D) $3$ \quad E) $\dfrac{1+\sqrt{5}}{2}$
 
 **Risposta:** B
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_ricorsione|Ricorsione]]
+
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n3_f1#q06|src_obm_2003_n3_f1__Q06]]
 
 
 
@@ -233,13 +303,21 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'equazione di y=x^2-5x+9 dopo una rotazione di 180 gradi circa l'origine*
+*Una parabola ruotata di 180° attorno all'origine: qual è la nuova equazione*
 
-> Il grafico di $y = x^2 - 5x + 9$ è rotato $180^\circ$ circa l'origine. Qual è l'equazione della nuova curva?
-> 
+> Il grafico di $y = x^2 - 5x + 9$ viene ruotato di $180^\circ$ attorno all'origine. Qual è l'equazione della nuova curva?
+>
 > A) $y = x^2 + 5x + 9$ \quad B) $y = x^2 - 5x - 9$ \quad C) $y = -x^2 + 5x - 9$ \quad D) $y = -x^2 - 5x + 9$ \quad E) $y = -x^2 - 5x - 9$
 
 **Risposta:** E
+
+**Argomento:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_obm_2003_n3_f1#q07|src_obm_2003_n3_f1__Q07]]
 
 
 
@@ -265,13 +343,21 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova n in un club da tennis con n giocatori a sinistra, 2n a destra, dato il rapporto di vittoria 3:4*
+*Mancini e destri, meno di 20 giocatori, rapporto 3:4 delle partite vinte: quanto vale n*
 
-> Un club di tennis ha giocatori di sinistra $n$ e di destra $2n$, con meno di 20 giocatori in totale. Nell'ultimo campionato, ogni giocatore ha giocato contro ogni altro giocatore di club esattamente una volta. Ogni giocatore a sinistra batte esattamente 20 giocatori a destra (in totale, in tutte le partite), e il rapporto tra il totale delle partite vinte da giocatori a sinistra e il totale delle partite vinte da giocatori a destra è $3:4$. Qual è il valore di $n$?
-> 
-> A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) Sono necessarie ulteriori informazioni.
+> Un circolo di tennis ha $n$ giocatori mancini e $2n$ destri, in tutto meno di 20. Nell'ultimo campionato ogni giocatore ha incontrato ogni altro del circolo esattamente una volta. Ogni mancino ha battuto esattamente 20 destri (in totale, su tutte le partite), e il rapporto tra le partite vinte dai mancini e quelle vinte dai destri è $3:4$. Qual è il valore di $n$?
+>
+> A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) Servono altre informazioni.
 
 **Risposta:** C
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n3_f1#q08|src_obm_2003_n3_f1__Q08]]
 
 
 
@@ -301,17 +387,25 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il raggio del cerchio C3 tangente a due linee parallele e a due cerchi C1,C2*
+*Due rette parallele e tre circonferenze tangenti: raggio della terza, dati i raggi a e b*
 
-> La figura seguente mostra due linee parallele $r$ e $s$. La linea $r$ è tangente ai cerchi $C_1$ e $C_3$; la linea $s$ è tangente ai cerchi $C_2$ e $C_3$; e i cerchi si toccano anche tra loro come mostrato nella figura.
-> 
-> I cerchi $C_1$ e $C_2$ hanno rispettivamente radii $a$ e $b$. Qual è il raggio del cerchio $C_3$?
-> 
+> La figura mostra due rette parallele $r$ e $s$. La retta $r$ è tangente alle circonferenze $C_1$ e $C_3$; la retta $s$ è tangente alle circonferenze $C_2$ e $C_3$; e le circonferenze si toccano anche tra loro, come in figura.
+>
+> Le circonferenze $C_1$ e $C_2$ hanno raggi $a$ e $b$. Qual è il raggio della circonferenza $C_3$?
+>
 > A) $2\sqrt{a^2 + b^2}$ \quad B) $a + b$ \quad C) $2\sqrt{ab}$ \quad D) $\dfrac{4ab}{a+b}$ \quad E) $2b - a$
 
 ![[src_obm_2003_n3_f1__q09.png]]
 
 **Risposta:** C
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n3_f1#q09|src_obm_2003_n3_f1__Q09]]
 
 
 
@@ -337,13 +431,21 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare quale sequenza NON si descrive autologicamente*
+*Tra cinque sequenze che dovrebbero descrivere le proprie cifre, quale non lo fa*
 
-> La sequenza $``22"$ si descrive, poiché è formata da esattamente due $2$. Analogamente, la sequenza $``31\;12\;33\;15"$ si descrive perché contiene esattamente tre $1$, uno $2$, tre $3$, uno $4$ (=quattro zero), e uno $5$... Quale delle seguenti sequenze NON si descrive?
-> 
+> La sequenza $``22"$ si descrive da sola, perché è formata da esattamente due $2$. Analogamente la sequenza $``31\;12\;33\;15"$ si descrive da sola perché contiene esattamente tre $1$, un $2$, tre $3$, un $4$ (cioè zero quattro) e un $5$. Quale delle sequenze seguenti NON si descrive da sola?
+>
 > A) $21\;32\;23\;16$ \quad B) $31\;12\;33\;18$ \quad C) $31\;22\;33\;17\;19$ \quad D) $31\;32\;33\;24\;15\;16\;18$ \quad E) $41\;32\;33\;24\;15\;16\;18$
 
 **Risposta:** D
+
+**Argomento:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_obm_2003_n3_f1#q10|src_obm_2003_n3_f1__Q10]]
 
 
 
@@ -371,13 +473,34 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca f(21,12) da equazioni funzionali che definiscono f su coppie di integri positivi*
+*Una funzione sulle coppie di interi positivi: si chiede f(21; 12)*
 
-> La funzione $f$ è definita per tutte le coppie ordinate $(x; y)$ di integri positivi e ha le seguenti proprietà: $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y)\,f(x;\, y + x).$$ Qual è il valore di $f(21;\, 12)$?
-> 
+> La funzione $f$ è definita per tutte le coppie ordinate $(x; y)$ di interi positivi e ha queste proprietà:
+>
+>
+>
+$$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y)\,f(x;\, y + x).$$
+>
+>
+>
+> Qual è il valore di $f(21;\, 12)$?
+>
+>
+>
+$$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y)\,f(x;\, y + x).$$
+>
+>
 > A) $\dfrac{7}{4}$ \quad B) $\dfrac{7}{2}$ \quad C) $\dfrac{11}{6}$ \quad D) $\dfrac{6}{11}$ \quad E) $\dfrac{1}{2003}$
 
 **Risposta:** D
+
+**Argomento:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_backward|Ragionamento all'indietro]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_obm_2003_n3_f1#q11|src_obm_2003_n3_f1__Q11]]
 
 
 
@@ -403,13 +526,25 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la posizione del primo non primo in sequenza di numeri 2 meno di due successivi più grandi*
+*Tra i naturali maggiori di 10, una sequenza ottenuta sottraendo 2: il primo termine non primo*
 
-> Tra tutti i numeri naturali superiori a $10$, considera i due numeri più grandi che vengono sottratti da $2$ dai loro successori. Questi formano la sequenza $5, 11, 19, \ldots$ Qual è il primo elemento di questa sequenza che NON è un numero primo?
-> 
-> A) quarto \quad B) quinto \quad C) sesto \quad D) nessuno \quad E) settimo
+> Tra tutti i numeri naturali maggiori di $10$, si considerino i due più grandi che si ottengono sottraendo $2$ dai loro successivi. Essi formano la sequenza $5, 11, 19, \ldots$. Qual è il primo elemento di questa sequenza che NON è un numero primo?
+>
+> - **(A)** il quarto
+> - **(B)** il quinto
+> - **(C)** il sesto
+> - **(D)** nessuno
+> - **(E)** il settimo
 
 **Risposta:** C
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n3_f1#q12|src_obm_2003_n3_f1__Q12]]
 
 
 
@@ -439,13 +574,25 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Puzzle logico sulla narrazione della verità in lingua straniera con "KAB"/"BAK" che significa sì/no*
+*BAK e KAB sono sì e no, non si sa quale: la persona risponde KAB*
 
-> Vi trovate in un paese straniero e non conoscete la lingua locale, chiamata LUCIANÊS, ma sapete che le parole "BAK" e "KAB" significano "sì" o "no" (non sapete quale è quale). Incontri una persona che parla portoghese e chiedi: "KAB significa sim?" La persona risponde "KAB". Si può dedurre:
-> 
-> A) KAB significa no. B) La persona ha detto di sì ma ha mentito. C) La persona che ha risposto ha mentito. D) La persona che ha risposto ha detto la verità. E) Non è possibile determinare se la persona ha detto la verità senza un dizionario LUCIANÊS - PORTUGUEZES.
+> Siete in un paese straniero e non conoscete la lingua locale, il LUCIANÊS, ma sapete che le parole «BAK» e «KAB» significano «sì» o «no» (non sapete quale sia quale). Incontrate una persona che parla portoghese e chiedete: «KAB significa sim?» («KAB significa sì?»). La persona risponde «KAB». Si può dedurre:
+>
+> - **(A)** KAB significa no.
+> - **(B)** La persona ha detto sì, ma ha mentito.
+> - **(C)** Chi ha risposto ha mentito.
+> - **(D)** Chi ha risposto ha detto la verità.
+> - **(E)** Senza un dizionario lucianês–portoghese non si può stabilire se ha detto la verità.
 
 **Risposta:** D
+
+**Argomento:** [[topic_logica|Logica]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_obm_2003_n3_f1#q13|src_obm_2003_n3_f1__Q13]]
 
 
 
@@ -471,13 +618,25 @@ Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
 <div class="qlang-split" data-lang="it"></div>
 
 
-Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isabele, Nicole.
+*Isabele vince con due croci di fila, Nicole con due teste di fila, Beatriz se nessuna delle due ha ancora vinto*
 
-> Beatriz, Isabele e Nicole stanno giocando a lanciare monete consecutive. Isabele vince se le code appaiono in due lanci consecutivi; Nicole vince se le teste appaiono in due lanci consecutivi. Lanciano finche' uno di loro non vince. Beatriz vince se né Isabele né Nicole hanno ancora vinto quando finisce la partita. Quali giocatori hanno meno possibilità di vincere la partita?
-> 
-> A) Beatriz \quad B) Isabele \quad C) Nicole \quad D) Beatriz e Nicole \quad E) Tutti e tre hanno la stessa possibilità.
+> Beatriz, Isabele e Nicole giocano con lanci consecutivi di una moneta. Isabele vince se in due lanci consecutivi esce croce. Nicole vince se in due lanci consecutivi esce testa. Continuano a lanciare finché una di loro vince. Beatriz vince se, quando la partita finisce, né Isabele né Nicole hanno ancora vinto. Chi ha meno possibilità di vincere?
+>
+> - **(A)** Beatriz
+> - **(B)** Isabele
+> - **(C)** Nicole
+> - **(D)** Beatriz e Nicole
+> - **(E)** Tutte e tre hanno la stessa possibilità.
 
 **Risposta:** B
+
+**Argomento:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]]
+
+**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_obm_2003_n3_f1#q14|src_obm_2003_n3_f1__Q14]]
 
 
 
@@ -503,13 +662,21 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 <div class="qlang-split" data-lang="it"></div>
 
 
-*dividere {2,3,5,7,11,13,17} nei gruppi A,B con A-B=1; trovare la somma digitali di A×B*
+*Si ripartiscono sette primi in due gruppi i cui prodotti differiscono di 1: somma delle cifre di A·B*
 
-> Dividere i numeri $2, 3, 5, 7, 11, 13$ e $17$ in due gruppi con i prodotti $A$ e $B$, in modo tale che $A - B = 1$. La somma delle cifre di $A \cdot B$ è:
-> 
+> Si dividano i numeri $2, 3, 5, 7, 11, 13$ e $17$ in due gruppi di prodotti $A$ e $B$, tali che $A - B = 1$. La somma delle cifre di $A \cdot B$ è:
+>
 > A) $10$ \quad B) $11$ \quad C) $13$ \quad D) $14$ \quad E) $15$
 
 **Risposta:** C
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_obm_2003_n3_f1#q15|src_obm_2003_n3_f1__Q15]]
 
 
 
@@ -539,17 +706,25 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'area del triangolo BFG all'interno del quadrato ABCD con triangolo equilaterale BEF del lato 1*
+*Un quadrato e un triangolo equilatero di lato 1 cm: area di un triangolo in figura*
 
-> La figura seguente mostra un quadrato $ABCD$ e un triangolo equilaterale $BEF$, entrambi con lunghezza laterale $1\,\text{cm}$. I punti $A$, $B$, $E$ sono collineari, così come i punti $A$, $G$, $F$.
-> 
+> La figura mostra un quadrato $ABCD$ e un triangolo equilatero $BEF$, entrambi di lato $1\,\text{cm}$. I punti $A$, $B$, $E$ sono allineati, e così i punti $A$, $G$, $F$.
+>
 > L'area del triangolo $BFG$, in $\text{cm}^2$, è:
-> 
+>
 > A) $\dfrac{1}{4}$ \quad B) $\dfrac{1}{4}$ \quad C) $\dfrac{\sqrt{3}}{4}$ \quad D) $\dfrac{\sqrt{3}}{12}$ \quad E) $\dfrac{3}{10}$
 
 ![[src_obm_2003_n3_f1__q16.png]]
 
 **Risposta:** D
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n3_f1#q16|src_obm_2003_n3_f1__Q16]]
 
 
 
@@ -575,13 +750,21 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta gli ospiti alla festa che riceve 77 piatti di 4 tipi che servono diversi numeri di persone*
+*Riso, maionese, carne e dolci condivisi, 77 piatti: quante persone, se ognuna è servita una volta*
 
-> In una tipica festa, ogni piatto di riso servito a persone $2$, ogni piatto di magonese servito a persone $3$, ogni piatto di carne servito a persone $4$, e ogni piatto di dolci servito a persone $5$. Sono stati utilizzati un totale di piatti $77$ e ogni persona alla festa è stata servita esattamente una volta. Quante persone erano alla festa?
-> 
+> A una festa tipica ogni piatto di riso ha servito $2$ persone, ogni piatto di maionese $3$ persone, ogni piatto di carne $4$ persone e ogni piatto di dolci $5$ persone. Sono stati usati in tutto $77$ piatti e ogni persona alla festa è stata servita esattamente una volta. Quante persone c'erano?
+>
 > A) $20$ \quad B) $30$ \quad C) $45$ \quad D) $60$ \quad E) $75$
 
 **Risposta:** D
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n3_f1#q17|src_obm_2003_n3_f1__Q17]]
 
 
 
@@ -607,13 +790,21 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di domande di sì/no per trovare il numero impar scelto da Carlinha fino a 100*
+*Domande del tipo «è maggiore o uguale a x?»: quante ne servono per essere sicuri*
 
-> Carlinha pensa a un numero odd positivo inferiore a $100$. Pedrinho vuole scoprire il numero. Carlinha risponde alle domande del modulo: "Il numero è maggiore o uguale a $x$?" con sì o no. Quante domande di questo tipo deve fare Pedrinho per poter trovare il numero di Carlinha?
-> 
+> Carlinha pensa un intero positivo dispari minore di $100$. Pedrinho vuole scoprirlo. Carlinha risponde sì o no a domande della forma: «Il numero è maggiore o uguale a $x$?» Quante domande di questo tipo deve fare Pedrinho per essere sicuro di trovare il numero di Carlinha?
+>
 > A) $15$ \quad B) $7$ \quad C) $15$ \quad D) $25$ \quad E) $45$
 
 **Risposta:** A
+
+**Argomento:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+
+[[Quesiti/src_obm_2003_n3_f1#q18|src_obm_2003_n3_f1__Q18]]
 
 
 
@@ -639,13 +830,21 @@ Scopri quale giocatore ha meno possibilità nel gioco di lancio con Beatriz, Isa
 <div class="qlang-split" data-lang="it"></div>
 
 
-Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal ponte
+*Un treno arriva da dietro: uno torna indietro e l'altro va avanti, entrambi a 15 km/h, e si salvano appena*
 
-> Due amici, Augusto e Eduardo, stanno attraversando un ponte. Ciascuno ha camminato $\dfrac{2}{5}$ del ponte quando un treno appare da dietro Augusto (venendo dal lato di Augusto). Se Augusto torna a $15\,\text{km/h}$, scappa a malapena (esce proprio quando arriva il treno). Eduardo corre avanti a $15\,\text{km/h}$ e scappa a malapena. Qual è la velocità del treno, in $\text{km/h}$?
-> 
+> Due amici, Augusto ed Eduardo, stanno attraversando un ponte. Ciascuno ha percorso $\dfrac{2}{5}$ del ponte quando compare un treno alle spalle di Augusto (dal lato di Augusto). Se Augusto torna indietro correndo a $15\,\text{km/h}$, si salva per un pelo (esce proprio quando arriva il treno). Eduardo corre in avanti a $15\,\text{km/h}$ e anche lui si salva per un pelo. Qual è la velocità del treno, in $\text{km/h}$?
+>
 > A) $30$ \quad B) $45$ \quad C) $60$ \quad D) $75$ \quad E) $90$
 
 **Risposta:** D
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_backward|Ragionamento all'indietro]]
+
+**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n3_f1#q19|src_obm_2003_n3_f1__Q19]]
 
 
 
@@ -675,13 +874,37 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova la somma di N espressibile come 9 numeri interi consecutivi e come 11 numeri interi consecutivi*
+*N è somma di 9 consecutivi centrati in n1 e di 11 consecutivi centrati in n2: il minimo è 495*
 
-> Esistono numeri interi positivi $n_1$ e $n_2$ in modo tale che $$N = (n_1 - 4) + (n_1 - 3) + (n_1 - 2) + (n_1 - 1) + n_1 + (n_1 + 1) + (n_1 + 2) + (n_1 + 3) + (n_1 + 4)$$ (una somma di $9$ numeri interi consecutivi incentrati su $n_1$) e anche $$N = (n_2 - 5) + (n_2 - 4) + \cdots + (n_2 + 5)$$ (una somma di $11$ numeri interi consecutivi incentrati su $n_2$). Il più piccolo di questi valori $N$ è $N = 495$. La somma delle cifre di $N$ è:
-> 
+> Esistono interi positivi $n_1$ e $n_2$ tali che
+>
+>
+>
+$$N = (n_1 - 4) + (n_1 - 3) + (n_1 - 2) + (n_1 - 1) + n_1 + (n_1 + 1) + (n_1 + 2) + (n_1 + 3) + (n_1 + 4)$$
+>
+>
+>
+> (somma di $9$ interi consecutivi centrati in $n_1$) e anche
+>
+>
+>
+$$N = (n_2 - 5) + (n_2 - 4) + \cdots + (n_2 + 5)$$
+>
+>
+>
+> (somma di $11$ interi consecutivi centrati in $n_2$). Il più piccolo tale $N$ positivo è $N = 495$. La somma delle cifre di $N$ è:
+>
 > A) $9$ \quad B) $18$ \quad C) $22$ \quad D) $27$ \quad E) $36$
 
 **Risposta:** B
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n3_f1#q20|src_obm_2003_n3_f1__Q20]]
 
 
 
@@ -709,13 +932,29 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare pavimento di (3^2001+2^2001)/(3^2000+2^2000)*
+*Si chiede la parte intera di un quoziente di somme di potenze*
 
-> Il numero intero più grande non superiore a $$\frac{3^{2001} + 2^{2001}}{3^{2000} + 2^{2000}}$$ è uguale a:
-> 
+> Il più grande intero che non supera
+>
+>
+>
+$$\frac{3^{2001} + 2^{2001}}{3^{2000} + 2^{2000}}$$
+>
+>
+>
+> è uguale a:
+>
 > A) $4$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $9$
 
 **Risposta:** D
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_obm_2003_n3_f1#q21|src_obm_2003_n3_f1__Q21]]
 
 
 
@@ -749,17 +988,26 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le affermazioni vere sul triangolo T e sui triangoli derivati T' e sqrt(T)*
+*Conta le affermazioni vere riguardo al triangolo T e ai triangoli derivati T' e sqrt(T)*
 
-> $T = (a, b, c)$ sia un triangolo, dove $a$, $b$, $c$ sono le lunghezze laterali. Definire $T' = (a^2, b^2, c^2)$ e $\sqrt{T} = (\sqrt{a}, \sqrt{b}, \sqrt{c})$, e lasciare $\tilde{T} = $ la radice quadrata di $T$. Considerate le seguenti affermazioni:
-> 
-> 1. $T'$ è sempre un triangolo. 2. Se $T$ è equilaterale, allora $T'$ è equilaterale. 3. $T'$ è un triangolo rettangolo se e solo se $T$ è un triangolo rettangolo. 4. $\sqrt{T}$ è un triangolo per ogni triangolo $T$. 5. Tutti gli angoli di $\sqrt{T}$ sono acuti.
-> 
-> Il numero delle dichiarazioni vere è:
-> 
+> Sia $T = (a, b, c)$ un triangolo, dove $a$, $b$, $c$ sono le lunghezze dei lati. Definisci $T' = (a^2, b^2, c^2)$ e $\sqrt{T} = (\sqrt{a}, \sqrt{b}, \sqrt{c})$, e sia $\tilde{T} = $ la radice quadrata di $T$. Considera le seguenti affermazioni:
+>
+> 1. $T'$ è sempre un triangolo.
+> 2. Se $T$ è equilatero, allora $T'$ è equilatero.
+> 3. $T'$ è un triangolo rettangolo se e solo se $T$ è un triangolo rettangolo.
+> 4. $\sqrt{T}$ è un triangolo per ogni triangolo $T$.
+> 5. Tutti gli angoli di $\sqrt{T}$ sono acuti.
+>
+> Il numero di affermazioni vere è:
+>
 > A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) $5$
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2003_n3_f1#q22|src_obm_2003_n3_f1__Q22]]
 
 
 
@@ -785,13 +1033,18 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero massimo dopo le operazioni del 2003: sostituire la cifra con il suo quadrato o doppio (selezionare il massimo)*
+*Numero massimo dopo 2003 operazioni: sostituisci una cifra con il suo quadrato o con il suo doppio (scegli il massimo)*
 
-> Un numero scritto è operato come segue: se il numero è superiore a $1$, viene sostituito dal suo quadrato; se è uguale a $1$, viene raddoppiato. Partendo da una singola cifra e applicando questa operazione esattamente $2003$ volte, quale è il numero più grande che può essere ottenuto?
-> 
+> Un numero scritto viene sottoposto all'operazione nel modo seguente: se il numero è maggiore di $1$, viene sostituito con il suo quadrato; se è uguale a $1$, viene raddoppiato. Partendo da una qualsiasi cifra singola e applicando questa operazione esattamente $2003$ volte, qual è il numero più grande che si può ottenere?
+>
 > A) $2^{2003}$ \quad B) $4^{2003}$ \quad C) $2^{(2^{\cdots})}$ \quad D) $2^{(2^{2003})}$ \quad E) $2^{(2^{2004})}$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2003_n3_f1#q23|src_obm_2003_n3_f1__Q23]]
 
 
 
@@ -823,13 +1076,24 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Caricare tutte le funzioni reali che soddisfano f(x)(f(x) -x) = 0 per tutte le x*
+*Caratterizza tutte le funzioni reali che soddisfano f(x)(f(x)-x)=0 per ogni x*
 
-> Se $f : \mathbb{R} \to \mathbb{R}$ è una funzione tale che, per tutti $x \in \mathbb{R}$, $$f(x)\bigl(f(x) - x\bigr) = 0,$$:
-> 
-> A) $f$ è la funzione zero. B) $f$ è la funzione di identità, cioè $f(x) = x$ per tutte le $x$ reali. C) $f$ è la funzione zero o la funzione identità. D) Esistono esattamente $4$ funzioni possibili $f$. E) Ci sono infinite funzioni $f$.
+> Se $f : \mathbb{R} \to \mathbb{R}$ è una funzione tale che, per ogni $x \in \mathbb{R}$,
+> $$f(x)\bigl(f(x) - x\bigr) = 0,$$
+> poi:
+>
+> A) $f$ è la funzione nulla.
+> B) $f$ è la funzione identità, cioè $f(x) = x$ per ogni $x$ reale.
+> C) $f$ è oppure la funzione nulla oppure la funzione identità.
+> D) Ci sono esattamente $4$ funzioni possibili $f$.
+> E) Esistono infiniti funzioni $f$.
 
-**Risposta:** E
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2003_n3_f1#q24|src_obm_2003_n3_f1__Q24]]
 
 
 
@@ -855,10 +1119,15 @@ Trova la velocità del treno dato che Augusto ed Eduardo scampano a malapena dal
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca angolo DAE nel triangolo ABC con AB=20, AC=21,BC=29 e D,E su BC*
+*Trovare l'angolo DAE nel triangolo ABC con AB=20, AC=21, BC=29 e D, E su BC*
 
-> In triangolo $ABC$, $AB = 20$, $AC = 21$ e $BC = 29$. I punti $D$ e $E$ si trovano sul lato $BC$ in modo tale che $BD = 8$ e $EC = 9$. La misura dell'angolo $\widehat{DAE}$, in gradi, è uguale a:
-> 
+> Nel triangolo $ABC$, $AB = 20$, $AC = 21$, $BC = 29$. I punti $D$ e $E$ giacciono sul lato $BC$ in modo che $BD = 8$ e $EC = 9$. La misura dell'angolo $\widehat{DAE}$, in gradi, è uguale a:
+>
 > A) $30$ \quad B) $40$ \quad C) $45$ \quad D) $60$ \quad E) $75$
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2003_n3_f1#q25|src_obm_2003_n3_f1__Q25]]

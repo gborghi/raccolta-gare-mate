@@ -31,9 +31,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le funzioni reali che soddisfano f(a+b)=f(ab) per a,b irrazionali*
+*Trovare tutte le funzioni reali che soddisfano f(a+b)=f(ab) per a,b irrazionali*
 
-> Trova tutte le funzioni $f:\mathbb{R}\to\mathbb{R}$ in modo tale che $$f(a+b)=f(ab)$$ per tutte le $a,b$ irrazionali.
+> Trovare tutte le funzioni $f:\mathbb{R}\to\mathbb{R}$ tali che
+> $$f(a+b)=f(ab)$$
+> per tutti gli $a,b$ irrazionali.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n3_f3#q01|src_obm_2010_n3_f3__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio con coefficienti reali: trovare n,k con k con n cifre e più di P(n) divisori*
+*Polinomio a coefficienti reali: trovare n,k tali che k abbia n cifre e più di P(n) divisori*
 
-> Lasciate che $P(x)$ sia un polinomio con coefficienti reali. Prove che esistono integri positivi $n$ e $k$ in modo tale che $k$ abbia numeri $n$ e più di $P(n)$ divisori positivi.
+> Sia $P(x)$ un polinomio a coefficienti reali. Dimostrare che esistono numeri interi positivi $n$ e $k$ tali che $k$ abbia $n$ cifre e più di $P(n)$ divisori positivi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n3_f3#q02|src_obm_2010_n3_f3__Q02]]
 
 
 
@@ -83,11 +99,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'ombra più grande (area di proiezione ortogonale) di un cubo solido di bordo unitario*
+*La più grande ombra (area di proiezione ortogonale) di un cubo solido con spigoli di lunghezza unitaria*
 
-> Qual è l'ombra più grande che un cubo solido di lunghezza di bordo $1$ può gettare alla luce solare diretta?
-> 
-> *Nota: * "La più grande ombra di una figura nella luce solare diretta aerea" è intesa come la più grande area possibile della proiezione ortogonale della figura su un piano.
+> Qual è la più grande ombra che un cubo solido di spigolo $1$ può proiettare sotto la luce solare diretta e verticale?
+>
+> *Osservazione:* Per "la più grande ombra di una figura sotto la luce solare diretta zenitale" si intende la massima area possibile della proiezione ortogonale della figura su un piano.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2010_n3_f3#q03|src_obm_2010_n3_f3__Q03]]
 
 
 
@@ -110,9 +133,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale convex: le perpendicolari nei punti di metà si incontrano su diagonali se le diagonali sono perpendicolari*
+*Quadrilatero convesso: le perpendicolari condotte nei punti medi si incontrano sulla diagonale se e solo se le diagonali sono perpendicolari*
 
-> Che $ABCD$ sia un quadrilaterale convesso, e che $M$ e $N$ siano rispettivamente i punti medi dei lati $CD$ e $AD$. La linea perpendicolare a $AB$ che attraversa $M$ e la linea perpendicolare a $BC$ che attraversa $N$ si incontrano in un punto $P$. Dimostra che $P$ si trova sulla diagonale $BD$ se e solo se le diagonali $AC$ e $BD$ sono perpendicolari.
+> Sia $ABCD$ un quadrilatero convesso, e siano $M$ e $N$ i punti medi dei lati $CD$ e $AD$, rispettivamente. La retta perpendicolare a $AB$ passante per $M$ e la retta perpendicolare a $BC$ passante per $N$ si incontrano in un punto $P$. Dimostrare che $P$ giace sulla diagonale $BD$ se e solo se le diagonali $AC$ e $BD$ sono perpendicolari.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2010_n3_f3#q04|src_obm_2010_n3_f3__Q04]]
 
 
 
@@ -135,9 +165,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le n per le quali n punti (nessun 3 collineari) possono essere colorati in modo che ogni triangolo non abbia un angolo obtuso*
+*Trovare tutti gli n per cui è possibile colorare n punti (nessun tre allineati) in modo che ogni triangolo non abbia angoli ottusi*
 
-> Determinare tutti i valori di $n$ per i quali esiste un insieme $S$ di punti $n$, senza tre colineari, che hanno la seguente proprietà: è possibile colorare tutti i punti di $S$ in modo che ogni angolo determinato da tre punti di $S$ , sia che siano tutti e tre dello stesso colore o di tre diversi colori , non sia obtusoso. Il numero di colori disponibili è illimitato.
+> Determinare tutti i valori di $n$ per i quali esiste un insieme $S$ di $n$ punti, senza tre punti allineati, con la seguente proprietà: è possibile colorare tutti i punti di $S$ in modo che ogni angolo determinato da tre punti di $S$ — sia che i tre siano dello stesso colore sia che siano di tre colori diversi — sia non ottuso. Il numero di colori disponibili è illimitato.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2010_n3_f3#q05|src_obm_2010_n3_f3__Q05]]
 
 
 
@@ -161,6 +198,14 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di integri positivi (a,b) con 3^a = 2b^2 + 1*
+*Trovare tutte le coppie di interi positivi (a,b) tali che 3^a = 2b^2 + 1*
 
-> Trova tutte le coppie $(a,b)$ di integri positivi tali che $$3^{a}=2b^{2}+1.$$
+> Trovare tutte le coppie $(a,b)$ di interi positivi tali che
+> $$3^{a}=2b^{2}+1.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n3_f3#q06|src_obm_2010_n3_f3__Q06]]

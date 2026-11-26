@@ -34,9 +34,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What shape has the largest area*
+*Product of seven digits*
 
-> A number (in decimal form) has seven digits. Adding them together, we get 6. What is the product of these digits? A) 0 B) 1 C) 5 D) 6 E) A number different from the previous one
+> A number (in decimal representation) has seven digits. Adding them, we obtain 6. What is the product of these digits?
+> A) 0
+> B) 1
+> C) 5
+> D) 6
+> E) A different number from the ones above
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q01|src_kangourou_2012_junior__Q01]]
 
 
 
@@ -64,9 +75,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Calculation of 11.111-1.1111*
+*Pedestrian and cyclist*
 
-> The speed of a pedestrian and that of a cyclist are in the ratio of 2 to 7. The pedestrian covers 4 kilometers in an hour. How many miles does a cyclist travel in four hours? A) 14 B) 16 C) 28 D) 36 E) A number different from the previous one
+> The speed of a pedestrian and that of a cyclist are in the ratio 2 : 7. The pedestrian covers 4 km in one hour. How many kilometres does the cyclist cover in 4 hours?
+> A) 14
+> B) 16
+> C) 28
+> D) 36
+> E) A different number from the ones above
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q02|src_kangourou_2012_junior__Q02]]
 
 
 
@@ -97,9 +119,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes for the launch to go from NE to NW*
+*The white block*
 
-> The parallel-piped rectangle you see in the figure is made by assembling four blocks of different colors, one of which is white. Each block, in turn, is made by attaching 4 cubes, all of the same size and color. What's the white block? A) B) C) D) E)
+> The rectangular parallelepiped you see in the figure is made by assembling four blocks of different colours, one of which is white. Each block, in turn, is made by placing 4 little cubes side by side, all of the same size and colour. Which is the white block?
+> A)
+> B)
+> C)
+> D)
+> E)
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q03|src_kangourou_2012_junior__Q03]]
 
 
 
@@ -137,24 +170,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the quadrilateral from the midpoints of a triangle*
+*Alice's coded message*
 
-> When Alice wants to send a message to Bruno, she uses the following code,
-> which Bruno knows well. First, she transforms each letter of the Italian alphabet into a number according to the following scheme: A = 01, B = 02, C = 03,
-> …, V = 20, Z = 21. Then, for each letter, she doubles the number and adds 9
-> to the result. The message is thus transformed into a sequence of numbers,
-> separated by a hyphen, which is sent to Bruno. This morning Bruno has
-> received the following sequence: 25 – 19 – 29 – 36. What can be said about the
-> word sent by Alice to Bruno?
-> A) The word is HELO          B) The word is HELP             C) The word is HERO
-> D) It is a 4-letter word different from the previous three
-> E) The word does not exist, because Alice made a mistake
-> 
-> Pag. 
-> Pag. 23
-> 23
-> Kang 2012
-> Kang 2012
+> When Alice wants to send a message to Bruno, she uses the following code, which Bruno knows well. First, she transforms each letter of the Italian alphabet into a number according to the following scheme: A = 01, B = 02, C = 03, …, V = 20, Z = 21. Then, for each letter, she doubles the number and adds 9 to the result. The message is thus transformed into a sequence of numbers, separated by a hyphen, which is sent to Bruno. This morning Bruno received the following sequence: 25 – 19 – 29 – 36. What can be said about the word sent by Alice to Bruno?
+> A) The word is HELO
+> B) The word is HELP
+> C) The word is HERO
+> D) It is a 4-letter word different from the three above
+> E) The word does not exist, because Alice has made a mistake
+>
+> Page Page 23 23 Kang 2012 Kang 2012
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q04|src_kangourou_2012_junior__Q04]]
 
 
 
@@ -183,11 +215,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which expression varies by replacing 8*
+*Which expression changes when 8 is replaced*
 
-> In four of the following expressions, the number 8 can be replaced by any positive number without altering the result. What is the expression for which this does not occur? A) (8 + 8 – 8) : 8 B) 8 + (8 : 8) – 8 C) 8 : (8 + 8 + 8) D) 8 – (8 : 8) + 8 E) 8 × (8 : 8) : 8
+> In four of the following expressions, the number 8 can be replaced by any positive number without altering the result. Which is the expression for which this is not the case?
+> A) (8 + 8 – 8) : 8
+> B) 8 + (8 : 8) – 8
+> C) 8 : (8 + 8 + 8)
+> D) 8 – (8 : 8) + 8
+> E) 8 × (8 : 8) : 8
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+**Source:** [open PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q05|src_kangourou_2012_junior__Q05]]
 
 
 
@@ -240,7 +282,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance from point E to straight line g*
+*Distance of point E from the straight line g*
 
 ![[src_kangourou_2012_junior__prob6.png]]
 
@@ -264,9 +306,19 @@ level: kangourou
 \end{document}
 ```
 
-> Note the figure: the square ABCD has a side length of 4 cm and has the same area as the triangle ECD. What's the distance from the point E to the line g? A) 8 cm B) (4+2 cm C) 12 cm D) 10 cm E) You cannot answer without knowing the position of E
+> Look at the figure: the square ABCD has side length 4 cm and has the same area as the triangle ECD. What is the distance of the point E from the straight line g?
+> A) 8 cm
+> B) (4+ 2       ) cm
+> C) 12 cm
+> D) 10      cm
+> E) It is not possible to answer without knowing the position of E
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q06|src_kangourou_2012_junior__Q06]]
 
 
 
@@ -353,9 +405,20 @@ level: kangourou
 \end{document}
 ```
 
-> Note the figure: M and N are the middle points of the two sides of an isosceles triangle of equal length, which is divided by the two medians into three triangles and a quadrilateral. The area of each of the three triangles is indicated. What is the area of the quadrilateral? A) 3 B) 4 C) 7 D) 8 E) A number different from the previous one
+> Look at the figure: M and N are the midpoints of the two sides of equal length of an isosceles triangle, which is subdivided by the two medians into three triangles and a quadrilateral. The area of each of the three triangles is shown. What is the area of the quadrilateral?
+> A) 3
+> B) 4
+> C) 7
+> D) 8
+> E) a different number from the ones above
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+**Source:** [open PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q07|src_kangourou_2012_junior__Q07]]
 
 
 
@@ -384,11 +447,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the KLM triangle of the midpoints*
+*Perimeter of the midpoint triangle KLM*
 
-> ABC is a right triangle whose legs are 6 and 8 cm long. The points K, L, and M are the midpoints of its sides. How many centimeters is the perimeter of the KLM triangle? A) 10 B) 12 C) 15 D) 20 E) 24
+> ABC is a right-angled triangle whose legs have lengths 6 and 8 cm. The points K, L and M are the midpoints of its sides. How many centimetres long is the perimeter of triangle KLM?
+> A) 10
+> B) 12
+> C) 15
+> D) 20
+> E) 24
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q08|src_kangourou_2012_junior__Q08]]
 
 
 
@@ -419,9 +492,19 @@ level: kangourou
 
 *Perimeter of the quadrilateral divided into isosceles triangles*
 
-> Two sides of a quadrilateral measure 1 and 4 cm. One of the two diagonals measures 2 cm and divides the quadrilateral into two isosceles triangles. How many centimeters does the perimeter of the quadrilateral measure? A) 8 B) 9 C) 10 D) 11 E) 12
+> Two sides of a quadrilateral measure 1 cm and 4 cm. One of the two diagonals measures 2 cm and divides the quadrilateral into two isosceles triangles. How many centimetres long is the perimeter of the quadrilateral?
+> A) 8
+> B) 9
+> C) 10
+> D) 11
+> E) 12
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q09|src_kangourou_2012_junior__Q09]]
 
 
 
@@ -452,11 +535,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of n which is 11 for 144 and 220*
+*Value of n that leaves remainder 11 for 144 and 220*
 
-> If you divide the numbers 144 and 220 by the same positive integer n, in both cases you get remainder 11. What is n ? A) 7 B) 11 C) 15 D) 19 E) 38 Questions from N. 11 to N. 20 are worth 4 points each.
+> If the numbers 144 and 220 are divided by the same positive integer n, the remainder is 11 in both cases. What is the value of n?
+> A) 7
+> B) 11
+> C) 15
+> D) 19
+> E) 38
+> Questions from N. 11 to N. 20 are worth 4 points each.
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+**Source:** [open PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q10|src_kangourou_2012_junior__Q10]]
 
 
 
@@ -504,21 +599,30 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which calculation with 8 does not work by swapping the digit*
+*Four-digit tris numbers*
 
-> A four-digit positive integer (in decimal notation) is called a "tris number" if the hundreds digit is 3 and the sum of the remaining digits is still 3. How many tris numbers exist?
+> A positive integer with four digits (in decimal notation) is called a “tris number” if the hundreds digit is 3 and the sum of the remaining digits is also 3. How many tris numbers are there?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
+> g
+> A
+> B
+> C
+> D
+> E
+> M N 3 3 6 ?
 >
-> (A) 2
-> (B) 3
-> (C) 4
-> (D) 5
-> (E) 6
-> 
-> Page
-> Page 24
-> 24
-> Kang 2012
-> Kang 2012
+> p. p. 24 24 Kang 2012 Kang 2012
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q11|src_kangourou_2012_junior__Q11]]
 
 
 
@@ -549,18 +653,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Order of arrival in the running race*
+*Finishing order in the running race*
 
-> Ada, Bice and Carla compete in a running race. Before the start, four of their friends made, one each, the following predictions.
-> "Ada or Bice will win"; "If Bice arrives second, Carla will win"; "If Bice arrives third, Ada will not win"; "Bice or Carla will arrive second". At the end of the
-> race all the predictions came true. What is the order of arrival?
+> Ada, Bice and Carla compete in a running race. Before the start, four of their friends made the following predictions, one each. “Ada or Bice will win”; “If Bice comes second, Carla will win”; “If Bice comes third, Ada will not win”; “Bice or Carla will come second”. At the end of the race all the predictions came true. What is the finishing order?
 > A) Ada, Bice, Carla
 > B) Ada, Carla, Bice
 > C) Carla, Bice, Ada
 > D) Bice, Carla, Ada
 > E) Bice, Ada, Carla
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q12|src_kangourou_2012_junior__Q12]]
 
 
 
@@ -591,11 +699,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many centimetres is the table tall*
+*How many centimetres tall is the table*
 
-> There's a table in Andrea and Michele's room. If Andrea stands on the table and Michele stands on the floor, it's as if Andrea is 80 cm taller than Michele. If you change positions, it's as if Michele is 90 cm taller than Andrea. How tall is the table? A) 10 B) 75 C) 80 D) 85 E) 90
+> In Andrea and Michele's room there is a table. If Andrea stands on the table and Michele stands on the floor, it is as if Andrea were 80 cm taller than Michele. If they swap positions, it is as if Michele were 90 cm taller than Andrea. How many centimetres tall is the table?
+> A) 10
+> B) 75
+> C) 80
+> D) 85
+> E) 90
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q13|src_kangourou_2012_junior__Q13]]
 
 
 
@@ -627,20 +745,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times did it come up tails*
+*How many times tails came up*
 
-> Daniele and Maria gamble their candies by tossing a coin. If it comes up
-> heads, Daniele must give Maria 2 candies; if it comes up tails, Maria must give
-> Daniele 3 candies. After 30 tosses of the coin, both have the same
-> number of candies they had when they started playing. How many
-> times did it come up tails?
+> Daniele and Maria play for their sweets by tossing a coin. If it comes up heads, Daniele must give Maria 2 sweets; if it comes up tails, Maria must give Daniele 3 sweets. After 30 tosses of the coin, both have the same number of sweets as they had when they started playing. How many times did it come up tails?
 > A) 6
 > B) 12
 > C) 18
 > D) 24
 > E) 30
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+**Source:** [open PDF p.3](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q14|src_kangourou_2012_junior__Q14]]
 
 
 
@@ -671,13 +790,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between the centers of the two grey circles*
+*Distance between the centres of the two grey circles*
 
 ![[src_kangourou_2012_junior__prob15.png]]
 
-> Six circles of equal radius are inserted into a rectangle as shown in the figure, which also indicates the size of one side of the rectangle. How many centimeters do you measure the distance between the centers of the two grey circles? A) 3 B)       + 2 C) 2 D) π/2 + 2         E) 4
+> Six circles of equal radius are placed in a rectangle as shown in the figure, which also indicates the length of one of the sides of the rectangle. How many centimetres is the distance between the centres of the two grey circles?
+> A) 3
+> B) + 2
+> C) 2
+> D) π/2 + 2
+> E) 4
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.3](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q15|src_kangourou_2012_junior__Q15]]
 
 
 
@@ -712,11 +841,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the exact time between the four clocks*
+*What is the exact time among the four clocks*
 
-> Roberta left for the holidays and lent her house to a friend. She warned her that there were four clocks in the house and that the time indicated was wrong for a clock of 2 minutes, another of 3 minutes, another of 4 minutes and the last of 5 minutes. Roberta, however, forgot to tell her friend which clock and to which direction to attribute each single error. When the friend enters the house, the first clock she sees indicates three minus six minutes, the second three minus three minutes, the third three and two minutes, and the last three and three minutes. What's the exact time? A) 3:00 B) 2:57 C) 2:58 D) 2:59 E) 3:01
+> Roberta has gone on holiday and has lent her house to a friend. She has warned her that there are four clocks in the house and that the time shown is wrong by 2 minutes for one clock, by 3 minutes for another, by 4 minutes for yet another and by 5 minutes for the last. Roberta has, however, forgotten to tell her friend to which clock, and in which direction, to assign each individual error. When the friend enters the house, the first of the clocks she sees shows 6 minutes to three, the second 3 minutes to three, the third 2 minutes past three and the last 3 minutes past three. What is the exact time?
+> A) 3:00
+> B) 2:57
+> C) 2:58
+> D) 2:59
+> E) 3:01
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q16|src_kangourou_2012_junior__Q16]]
 
 
 
@@ -796,11 +936,22 @@ level: kangourou
 \end{document}
 ```
 
-> The sides of the right triangle you see in the figure are 5, 12, and 13 centimeters. How many centimeters does the radius of the inscribed semicircle measure? A) 7/3 B) 10/3 C) 12/3 D) 13/3 E) 17/3 6 cm 12 13 5
-> 
-> Pag. 25 Kang 2012
+> The sides of the right-angled triangle you see in the figure measure 5, 12 and 13 cm. How many centimetres is the radius of the inscribed semicircle?
+> A) 7/3
+> B) 10/3
+> C) 12/3
+> D) 13/3
+> E) 17/3
+> 6 cm 12 13 5
+>
+> p. p. 25 25 Kang 2012 Kang 2012
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.3](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q17|src_kangourou_2012_junior__Q17]]
 
 
 
@@ -836,13 +987,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the free cell of the first row*
+*Number in the empty cell of the first row*
 
 ![[src_kangourou_2012_junior__prob18.png]]
 
-> In each of the 12 cells of the grid shown in the figure, an integer between 1 and 9 must be inserted so that the sum of the numbers in each row is the same for all the rows and the sum of the numbers in each column is the same for all the columns. Some of the numbers have already been entered. What number should you put in the free cell on the first line? A) 1 B) 4 C) 6 D) 8 E) 9
+> In each of the 12 cells of the grid in the figure, an integer from 1 to 9 inclusive is to be entered so that the sum of the numbers entered in each of the rows is the same for all the rows, and the sum of the numbers entered in each of the columns is the same for all the columns. Some of the numbers have already been entered. What number should be entered in the empty cell of the first row?
+> A) 1
+> B) 4
+> C) 6
+> D) 8
+> E) 9
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q18|src_kangourou_2012_junior__Q18]]
 
 
 
@@ -877,9 +1038,19 @@ level: kangourou
 
 ![[src_kangourou_2012_junior__prob19.png]]
 
-> The region you see in the figure is obtained by placing side by side a square of 4 cm on the side, a square of 5 cm on the side, a triangle with an area of 8 cm2 and a parallelogram. How much is the area of the parallelogram (shaded) in square centimetres? A) 15 B) 16 C) 18 D) 20 E) 21
+> The region you see in the figure is obtained by putting together a square of side 4 cm, a square of side 5 cm, a triangle of area 8 cm2 and a parallelogram. What is the area, in square centimetres, of the parallelogram (shaded)?
+> A) 15
+> B) 16
+> C) 18
+> D) 20
+> E) 21
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.4](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q19|src_kangourou_2012_junior__Q19]]
 
 
 
@@ -909,11 +1080,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last digit other than 0 of the number 2^59 3^4 5^53*
+*Last non-zero digit*
 
-> What is the last digit other than 0 of the number 259 × 34 × 553 ? A) 1 B) 2 C) 4 D) 6 E) 9 Questions from N. 21 to N. 30 are worth 5 points each.
+> What is the last non-zero digit of the number 259 × 34 × 553?
+> A) 1
+> B) 2
+> C) 4
+> D) 6
+> E) 9
+> The questions from 21 to 30 are worth 5 points each
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.4](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q20|src_kangourou_2012_junior__Q20]]
 
 
 
@@ -942,11 +1125,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of k if 2012 = m^m (m^k - k)*
+*Value of k if 2012 = mm × (mk – k)*
 
-> Anna found that, for an appropriate choice of positive integers m and k, we have 2012 = m^m × (m^k – k). How much is k? A) 2 B) 3 C) 4 D) 9 E) 11
+> Anna has discovered that, for a suitable choice of the positive integers m and k, we have  2012 = mm × (mk – k). What is the value of k?
+> A) 2
+> B) 3
+> C) 4
+> D) 9
+> E) 11
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q21|src_kangourou_2012_junior__Q21]]
 
 
 
@@ -978,13 +1171,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of rings to be opened for the necklace*
+*Minimum number of rings to open for the necklace*
 
 ![[src_kangourou_2012_junior__prob22.png]]
 
-> A jeweler has 12 pairs of rings; in each pair the two rings are chained together and the only way to separate them is to open one of the two. The jeweler wants to get a necklace of 24 rings, each chained only to the two adjacent ones, as suggested by the figure. What is the minimum number of rings he needs to open (and then close) to achieve his goal? A) 8 B) 9 C) 10 D) 11 E) 12
+> A jeweller has 12 pairs of rings; in each pair the two rings are linked to each other and the only way to separate them is to open one of the two. The jeweller wants to obtain a necklace of 24 rings, each linked only to the two adjacent ones, as suggested by the figure. What is the minimum number of rings that it is enough for him to open (and then close again) to achieve his aim?
+> A) 8
+> B) 9
+> C) 10
+> D) 11
+> E) 12
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+**Source:** [open PDF p.4](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q22|src_kangourou_2012_junior__Q22]]
 
 
 
@@ -1048,52 +1251,41 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of pentagon ABNMD’ after folding*
+*Area of pentagon ABNMD' after the fold*
 
 ![[src_kangourou_2012_junior__prob23.png]]
 
-> Observe the figure. A rectangular sheet of paper
-> ABCD with dimensions 4 cm × 16 cm is folded
-> onto itself along a line MN in such a way
-> that vertex C comes to overlap vertex
-> A. What is the area in square centimeters of pentagon ABNMD'?           
+> Look at the figure. A paper rectangle ABCD measuring 4 cm × 16 cm is folded onto itself along a straight line MN so that the vertex C is superimposed on the vertex
+> A. What is the area, in square centimetres, of the pentagon ABNMD'?
 > A) 17
 > B) 27
 > C) 37
 > D) 47
 > E) 57
-> 2
-> 4
-> 2
-> 3
-> 3
-> 6
-> 1
+> 2 4 2 3 3 6 1
 > A
 > B
 > C
 > D
-> M
-> N
-> D′
+> M N D′
 > D
 > N
 > B
 > A
-> N
-> M
+> N M
 > D
 > C
 > D
 > C
-> 
-> Pag. 
-> Pag. 26
-> 26
-> Kang 2012
-> Kang 2012
+>
+> p. p. 26 26 Kang 2012 Kang 2012
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q23|src_kangourou_2012_junior__Q23]]
 
 
 
@@ -1123,11 +1315,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-What is said about the lengths of the two trains?
+*What is said about the lengths of the two trains*
 
-> Two G and H trains travel each at a constant speed. G takes 8 seconds to pass under a footbridge; shortly thereafter it meets H and the two trains are at least partially side by side for 9 seconds; finally H takes 12 seconds to pass under the same footbridge. What can be said about the length of the two trains? A) G is twice the length of H B) G and H are the same length C) H is one and a half times the length of G D) H is twice the length of G E) Information is insufficient to answer
+> Two trains G and H each travel at constant speed. G takes 8 seconds to pass under a footbridge; shortly afterwards it meets H and the two trains are at least partially alongside each other for 9 seconds; finally H takes 12 seconds to pass under the same footbridge. What can be said about the lengths of the two trains?
+> A) G is twice as long as H
+> B) G and H have the same length
+> C) H is one and a half times as long as G
+> D) H is twice as long as G
+> E) The information is insufficient to answer
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+**Source:** [open PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q24|src_kangourou_2012_junior__Q24]]
 
 
 
@@ -1163,13 +1365,24 @@ What is said about the lengths of the two trains?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to get home in 13 jumps*
+*Ways to return home in 13 jumps*
 
 ![[src_kangourou_2012_junior__prob25.png]]
 
-> The figure represents the pattern of an electronic game. Kangaroo Jim is at school (S) and must return home (C); if he wants to, he can pass through the library (B) and playground (G). From every box he is in except C, Jim can jump to any of the two adjacent boxes he chooses; however, when he reaches C, the game is over. If you want to do exactly 13 jumps, how many different ways can you go home? A) 12 B) 32 C) 64 D) 144 E) 1024
+> The figure represents the diagram of an electronic game. The kangaroo Jim is at school (S) and must return home (C); if he wishes, he may pass by the library (B) and the playground (G). From every square he is in except C, Jim can reach with one jump either of the two adjacent squares of his choice; but when he arrives at C, the game is over. If he wants to make exactly 13 jumps, in how many different ways can he return home?
+> A) 12
+> B) 32
+> C) 64
+> D) 144
+> E) 1024
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+**Source:** [open PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q25|src_kangourou_2012_junior__Q25]]
 
 
 
@@ -1195,11 +1408,22 @@ What is said about the lengths of the two trains?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What to conclude on a and b from conditions*
+*What to conclude about a and b from the conditions*
 
-> For two real numbers a and b we ask that both conditions a3 < b3 and a5 > b6 be verified. So we can conclude that A) a > 1 and b > 1. B) a > 1  and  0 < b < 1. C) 0 < a < 1  and  b > 1. D) 0 < a < 1  and  0 < b < 1. E) the two requests are incompatible.
+> For two real numbers a and b we require that both conditions a3 < b3 and a5 > b6 hold.  Then one can conclude that
+> A) a > 1  and  b > 1.
+> B) a > 1  and  0 < b < 1.
+> C) 0 < a < 1  and  b > 1.
+> D) 0 < a < 1  and  0 < b < 1.
+> E) the two requirements are incompatible.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+**Source:** [open PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q26|src_kangourou_2012_junior__Q26]]
 
 
 
@@ -1227,11 +1451,22 @@ What is said about the lengths of the two trains?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest value of the maximum among six integers*
+*Smallest value of the largest of six integers*
 
-> Six distinct positive integers are given; for one and only one pair of these integers it happens that the smaller is not a divisor of the larger. What's the smallest possible value for the largest of these six integers? A) 18 B) 20 C) 36 D) 45 E) A number different from the previous one
+> Six positive integers, all different from each other, are given; for one and only one pair of these integers, the smaller is not a divisor of the larger. What is the smallest possible value of the largest of these six integers?
+> A) 18
+> B) 20
+> C) 36
+> D) 45
+> E) A different number from the ones above
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+**Source:** [open PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q27|src_kangourou_2012_junior__Q27]]
 
 
 
@@ -1262,11 +1497,22 @@ What is said about the lengths of the two trains?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of the numerical products of all 3-digit numbers*
+*Sum of the products of the digits of all 3-digit numbers*
 
-> For each positive three-digit integer (in decimal notation), Nicola calculated the product of the three digits; he then summed all the products thus obtained. What was the result? A) 45 B) 452 C) 453 D) 245 E) 345
+> For each positive three-digit integer (in decimal notation), Nicola calculated the product of the three digits; he then added together all the products obtained in this way. What result did he obtain?
+> A) 45
+> B) 452
+> C) 453
+> D) 245
+> E) 345
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+**Source:** [open PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q28|src_kangourou_2012_junior__Q28]]
 
 
 
@@ -1297,9 +1543,19 @@ What is said about the lengths of the two trains?
 
 *Minimum number of unit fractions for 28/33*
 
-> What is the smallest number of addends of type 1/n, with positive integer n, such that the number 28/33 can be expressed as the sum of those addends? A) 2 B) 3 C) 4 D) 5 E) 285
+> What is the smallest number of addends of the form 1/n, with n a positive integer, such that the number 28/33 can be expressed as a sum of such addends?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 285
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q29|src_kangourou_2012_junior__Q29]]
 
 
 
@@ -1346,24 +1602,22 @@ What is said about the lengths of the two trains?
 
 ![[src_kangourou_2012_junior__prob30.png]]
 
-> An equilateral triangle rotates around a square with side 1 starting
-> from the position shown in the figure
-> and as shown in it. How
-> long is the path traveled by the vertex of the triangle that is marked in
-> bold, when both the triangle and
-> the point find themselves for the first time in the initial position?
+> An equilateral triangle rotates around a square of side 1, starting from the position indicated by the figure and as shown in it. How long is the path travelled by the vertex of the triangle that is marked in bold, when both the triangle and the point first find themselves back in the initial position?
 > A) 4π
-> B) 28π/3              C) 8π
-> D)14π/3                E)3π
+> B) 28π/3
+> C) 8π
+> D) 14π/3
+> E) 3π
 > C
-> Casa
-> S
-> Scuola
+> Home S School
 > B
-> G
-> Biblio
-> Giochi
-> 
-> JUNIOR 2012 ANSWERS
+> G Biblio Games
+>
+> ANSWERS JUNIOR 2012
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+[[Quesiti/src_kangourou_2012_junior#q30|src_kangourou_2012_junior__Q30]]

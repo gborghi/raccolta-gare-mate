@@ -34,11 +34,16 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-Order of 7 overlapping cards
+*Order of 7 overlapping cards.*
 
-> Matilde put seven cards on each other. In what order did you place them?
+> Matilde has placed 7 cards on top of one another. In what order did she place them?
 
-**Answer:** GEFADCB
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q01|src_bocconi_finaleint_2008_g2__Q01]]
 
 
 
@@ -62,11 +67,16 @@ Order of 7 overlapping cards
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting of camels and dromedaries.*
+*Count of camels and dromedaries.*
 
-> A herd consists of camels and dromedaries (at least one animal of each species). There are a total of 29 gobs. How many animals does the herd include at least? Remember, a camel has two hoofs and a dromedary has only one.
+> A herd consists of camels and dromedaries (at least one animal of each species). In total, there are 29 humps. What is the minimum number of animals in the herd? Recall that a camel has two humps and a dromedary has only one.
 
-**Answer:** 15 animals
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q02|src_bocconi_finaleint_2008_g2__Q02]]
 
 
 
@@ -92,11 +102,16 @@ Order of 7 overlapping cards
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of small square diagonals without crossings or contacts.*
+*Maximum number of diagonals in small squares with no crossings or contacts.*
 
-> Divide a rectangle $3 \times 4$ into 12 small squares. What is the maximum number of small diagonals that can be drawn so that: $\bullet$ two diagonals cannot cross; $\bullet$ two diagonals cannot touch one end?
+> A rectangle $3 \times 4$ is divided into 12 small squares. What is the maximum number of small diagonals that can be drawn such that: $\bullet$ two diagonals cannot cross each other; $\bullet$ two diagonals cannot touch at an endpoint?
 
-**Answer:** 8 diagonals
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q03|src_bocconi_finaleint_2008_g2__Q03]]
 
 
 
@@ -120,11 +135,16 @@ Order of 7 overlapping cards
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Order of operations to be from 1 to 11.*
+*Order of operations to get from 1 to 11.*
 
-> Alice multiplies by 5, Beatrice adds 4, Camille subtracts 3 and Dorothée divides by 2. They start at 1. In what order do they have to operate to get to 11 operating once each? Each operation shall be indicated by the corresponding initial letter (A for Alice, B for Beatrice, C for Camille and D for Dorothée).
+> Alice multiplies by 5, Beatrice adds 4, Camille subtracts 3, and Dorothée divides by 2. They start from 1. In what order must they act to reach 11, with each performing their operation only once? Each operation will be indicated by the corresponding initial letter (A for Alice, B for Beatrice, C for Camille, and D for Dorothée).
 
-**Answer:** B A C D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_backward|Working backwards]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q04|src_bocconi_finaleint_2008_g2__Q04]]
 
 
 
@@ -155,19 +175,16 @@ Order of 7 overlapping cards
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Self-reference: how many of the given statements are true.*
+*Self-reference: how many of the given sentences are true.*
 
-> $\bullet$ This box contains exactly one false statement.
-> $\bullet$ This box contains exactly two false statements.
-> $\bullet$ This box contains exactly three false statements.
-> $\bullet$ This box contains exactly four true statements.
-> $\bullet$ This box contains exactly five true statements.
-> $\bullet$ This box contains exactly six true statements.
-> $\bullet$ This box contains exactly seven false statements.
->
-> How many of the statements in the above boxes are true?
+> $\bullet$ This box contains exactly one false sentence. $\bullet$ This box contains exactly two false sentences. $\bullet$ This box contains exactly three false sentences. $\bullet$ This box contains exactly four true sentences. $\bullet$ This box contains exactly five true sentences. $\bullet$ This box contains exactly six true sentences. $\bullet$ This box contains exactly seven false sentences. In the box above, how many sentences are true?
 
-**Answer:** 2 true sentences
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q05|src_bocconi_finaleint_2008_g2__Q05]]
 
 
 
@@ -191,11 +208,16 @@ Order of 7 overlapping cards
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Telephone number with different numbers in pairs and starting with 06.*
+*A phone number with different digits in pairs and starting with 06.*
 
-> Jean-Louis is trying to remember Michel's cell phone number. He noted that the number, at 8 digits all different, starts with 06 and that two successive digits in the number differ by at least 2. After a few moments of reflection, it is also remembered that Michel's phone number is the largest possible (after 0) having this property. What's Michel's number?
+> Jean-Louis is trying to remember Michel's mobile phone number. He has noticed that the number, which has 8 distinct digits, starts with 06 and that two consecutive digits in the number differ by at least 2. After a few moments of thought, he also remembers that Michel's phone number is the largest possible (after 0) number with this property. What is Michel's number?
 
-**Answer:** 06 97 58 31 42
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q06|src_bocconi_finaleint_2008_g2__Q06]]
 
 
 
@@ -219,11 +241,16 @@ Order of 7 overlapping cards
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Longest list of numbers written by Nicole's rules starting at most from one number.*
+*A longer list of numbers written according to Nicole's rules, starting from at most one number.*
 
-> Nicole Hatz plays this game. It starts with a non-zero number, which it writes. If this number is even, divide it by 2 and write the result. When the last written number is odd, multiply it by 3, add 1 to the result and write the resulting number. It stops when you write 1. For example, starting from 5, write the following list of numbers: $5\ ;\ 16\ ;\ 8\ ;\ 4\ ;\ 2\ ;\ 1$. How many numbers will it have on the longest list you can write starting with a number that's at most equal to 10?
+> Nicole Hatz plays this game. She starts with a non-zero number and writes it down. If this number is even, she divides it by 2 and writes down the result. When the last number written is odd, she multiplies it by 3, adds 1 to the result, and writes down the number obtained. She stops when she writes 1. For example, starting from 5, she will write the following list of numbers: $5\ ;\ 16\ ;\ 8\ ;\ 4\ ;\ 2\ ;\ 1$. How many numbers will the longest list she can write, starting from a number at most equal to 10, contain?
 
-**Answer:** 20 numbers (starting from 9)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q07|src_bocconi_finaleint_2008_g2__Q07]]
 
 
 
@@ -247,11 +274,16 @@ Order of 7 overlapping cards
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of arrows for a total of 100 with 10 data value regions.*
+*Minimum number of darts to score 100 with ten regions of given values.*
 
-> A target has ten regions. Each of these points has a different number of points, chosen from the numbers: $2,\ 7,\ 12,\ 17,\ 22,\ 37,\ 42,\ 57,\ 62$ and $77$. How many arrows do you need to throw, at least, to get a total score of 100?
+> A target has ten regions. Each region contributes a different number of points from the others, chosen from the numbers: $2,\ 7,\ 12,\ 17,\ 22,\ 37,\ 42,\ 57,\ 62$ and $77$. What is the minimum number of darts that must be thrown to achieve a total score of 100?
 
-**Answer:** 5 darts
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q08|src_bocconi_finaleint_2008_g2__Q08]]
 
 
 
@@ -277,13 +309,18 @@ Order of 7 overlapping cards
 <div class="qlang-split" data-lang="en"></div>
 
 
-Order to visit 16 tapes without going through them twice.
+*An order to visit 16 boxes without passing by the same one twice.*
 
-> The Xavier factor collects the correspondence from the mailboxes of the city of Math-City. It starts from Deposit D and collects the correspondence from each box to end at Deposit A, and must then return directly to deposit the correspondence at Deposit D. In what order should you visit the boxes 1 to 15, knowing that you never have to go through the same box twice?
+> Factor Xavier collects mail from the letterboxes in the town of Math-City. He starts at depot D and collects the mail from each letterbox, finishing at depot A; he must then return directly to depot D to deposit the mail. In what order must he visit letterboxes 1 to 15, knowing that he must never pass through the same letterbox twice?
 
 ![[src_bocconi_finaleint_2008_g2__q09.png]]
 
-**Answer:** 2 solutions: 1,2,3,4,8,7,10,13,15,14,11,12,9,6,5 or 1,2,3,4,8,13,15,14,11,12,9,10,7,6,5
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q09|src_bocconi_finaleint_2008_g2__Q09]]
 
 
 
@@ -309,13 +346,18 @@ Order to visit 16 tapes without going through them twice.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of rectangular triangles formed with the vertices of a cube.*
+*Number of right-angled triangles that can be formed using the vertices of a cube.*
 
-> Luke considers a cube. Count all the rectangular triangles you can form by choosing three vertices of the cube. How many right triangles do you get?
+> Luc considers a cube. He lists all the right-angled triangles that can be formed by choosing three vertices of the cube. How many right-angled triangles does he obtain?
 
 ![[src_bocconi_finaleint_2008_g2__q10.png]]
 
-**Answer:** 48 right triangles
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q10|src_bocconi_finaleint_2008_g2__Q10]]
 
 
 
@@ -340,11 +382,18 @@ Order to visit 16 tapes without going through them twice.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of coloured vertices without two on the same line in a triangular network.*
+*Maximum number of colored vertices with no two on the same line in a triangular lattice.*
 
-> Color as many vertices as possible of this triangular network, so that there are never two colored vertices on the same traced line.
+> Color as many vertices of this triangular network as possible, so that no two colored vertices ever lie on the same drawn line.
 
 ![[src_bocconi_finaleint_2008_g2__q11.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q11|src_bocconi_finaleint_2008_g2__Q11]]
 
 
 
@@ -372,13 +421,18 @@ Order to visit 16 tapes without going through them twice.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Write in each circle a digit from 1 to 9 with directional sum conditions.*
+*Write a digit from 1 to 9 in each circle, subject to directional sum conditions.*
 
-> Write in each circle a digit from 1 to 9 so that: $\bullet$ each digit is used at least once; $\bullet$ each digit is equal to the sum of all the digits in the same direction, to the right, to the bottom, to the left or to the top.
+> Write a digit from 1 to 9 in each circle so that: $\bullet$ each digit is used at least once; $\bullet$ each digit equals the sum of all the digits located in the same direction—to the right, downward, to the left, or upward.
 
 ![[src_bocconi_finaleint_2008_g2__q12.png]]
 
-**Answer:** 1 solution
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q12|src_bocconi_finaleint_2008_g2__Q12]]
 
 
 
@@ -405,11 +459,16 @@ Order to visit 16 tapes without going through them twice.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of digits of the social security number with different consecutive pairs, never prime or square.*
+*Number of digits in the Social Security number with distinct consecutive pairs, none of which are primes or squares.*
 
-> Math-Pays Social Security wants to give Sissi a number. It is the largest possible number such that the numbers consisting of two consecutive digits: $\bullet$ are all different from each other; $\bullet$ never form prime numbers or squares. Remember the prime numbers and the two-digit squares: $11,\ 13,\ 16,\ 17,\ 19,\ 23,\ 25,\ 29,\ 31,\ 36,\ 37,\ 41,\ 43,\ 47,\ 49,\ 53,\ 59,\ 61,\ 64,\ 67,\ 71,\ 73,\ 79,\ 81,\ 83,\ 89$ and $97$. What's the number of digits in the number?
+> Math-Pays's social security system wants to assign a number to Sissi. It is the largest possible number such that the two-digit numbers formed by two consecutive digits: $\bullet$ are all different from one another; $\bullet$ never form prime numbers or perfect squares. The two-digit prime numbers and perfect squares are recalled: $11,\ 13,\ 16,\ 17,\ 19,\ 23,\ 25,\ 29,\ 31,\ 36,\ 37,\ 41,\ 43,\ 47,\ 49,\ 53,\ 59,\ 61,\ 64,\ 67,\ 71,\ 73,\ 79,\ 81,\ 83,\ 89$ and $97$. How many digits does the number have?
 
-**Answer:** 18 digits
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q13|src_bocconi_finaleint_2008_g2__Q13]]
 
 
 
@@ -434,11 +493,18 @@ Order to visit 16 tapes without going through them twice.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cutting the grid into five pieces of equal area and perimeter.*
+*Cut the grid into five pieces of equal area and perimeter.*
 
-> Cut the grid into five square pieces of paper each containing the same area and perimeter. Note: the unit length is the side of a small square of the square, and the unit area is that of a small square.
+> Cut the grid, according to the grid of small squares, into five pieces of paper, each piece having the same area and the same perimeter. Note: the unit of length is the side of a small square in the grid of small squares, and the unit of area is that of a small square.
 
 ![[src_bocconi_finaleint_2008_g2__q14.png]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q14|src_bocconi_finaleint_2008_g2__Q14]]
 
 
 
@@ -464,13 +530,18 @@ Order to visit 16 tapes without going through them twice.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of different figures observed with six rocks thrown into the water.*
+*Number of different figures observable with six pebbles thrown into the water.*
 
-> After throwing three stones into the water, one next to the other, you can observe different shapes: the circles that touch each other remain distinct, you only look at how the circles are framed, without taking into account either the orientation or the size. Same thing, but with six stones, how many different figures can you observe?
+> After throwing three small stones into the water, close to one another, different patterns can be observed: the circles that touch remain distinct; one looks solely at how the circles fit together, without paying attention to either orientation or size. In the same way, but with six small stones, how many different patterns can be observed?
 
 ![[src_bocconi_finaleint_2008_g2__q15.png]]
 
-**Answer:** 48 figure
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q15|src_bocconi_finaleint_2008_g2__Q15]]
 
 
 
@@ -496,13 +567,18 @@ Order to visit 16 tapes without going through them twice.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reconstruct two combined multiplication figures by figures on a seven-segment display.*
+*Reconstruct two combined multiplications digit by digit on a seven-segment display.*
 
-> In digital visualization, each figure is represented by two to seven light segments (see drawing). The multiplication below is the combination, figure by figure, of two similar multiplication: two two-digit factors, two three-digit intermediate results and a four-digit final result. The combination of two digits shall result in a light segment if, and only if, at least one of them contains the corresponding light segment. What are the two multiples combined? It is given as $(A \times B\ ;\ C \times D)$, where A and C are the factors above, B and D are the factors below, with $A \le C$.
+> In digital display, each digit is represented by two to seven light segments (see the drawing). The multiplication below is the digit-by-digit combination of two analogous multiplications: two two-digit factors, two three-digit intermediate results, and one four-digit final result. The combination of two digits involves one light segment if and only if at least one of them involves the corresponding light segment. What are the two multiplications that are combined? Answer in the form $(A \times B\ ;\ C \times D)$, where A and C are the factors on top, B and D those on the bottom, with $A \le C$.
 
 ![[src_bocconi_finaleint_2008_g2__q16.png]]
 
-**Answer:** 41 × 49 ; 59 × 34
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q16|src_bocconi_finaleint_2008_g2__Q16]]
 
 
 
@@ -530,11 +606,16 @@ Order to visit 16 tapes without going through them twice.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Find the eight-digit AB password with conditions on A, B and a Fibonacci sequence.*
+*Find the eight-digit password AB subject to conditions on A, B, and a Fibonacci sequence.*
 
-> Hector's computer password is a number of the form AB (the digits of the numbers A and B are written consecutively). Hector knows that even if he forgets it, he can find his password again, but he only knows that: $\bullet$ A and B are two four-digit numbers (not starting with zero); $\bullet$ A is greater than B; $\bullet$ A and B have no common divisor other than 1; $\bullet$ the number of four digits AB is a succession term whose first term is A, the second term is B and each subsequent term is the sum of the two terms that precede it. What's Hector's password?
+> Hector's computer password is a number of the form AB (the digits of numbers A and B are written consecutively). Hector knows that, even if he forgets it, he can recover his password, but he only knows that: $\bullet$ A and B are two four-digit numbers (not starting with zero); $\bullet$ A is greater than B; $\bullet$ A and B have no common divisor other than 1; $\bullet$ the four-digit number AB is a term of the sequence whose first term is A, second term is B, and each subsequent term is the sum of the two terms preceding it. What is Hector's password?
 
-**Answer:** 6764 5819
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_ricorsione|Recursion]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q17|src_bocconi_finaleint_2008_g2__Q17]]
 
 
 
@@ -565,10 +646,14 @@ Order to visit 16 tapes without going through them twice.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Game of triangles of a hexagon: order all the values obtained.*
-
-> It's called triangulation of a hexagon, a set of three non-intersecting diagonals that cut the hexagon into four triangles. Each triangle is associated with a 'value' equal to the sum of the numbers at the vertices of the hexagon that are not ends of a diagonal. So the triangle shown in the figure is 5. Albert plays as follows: $\bullet$ chooses a starting triangle; $\bullet$ then, a move consists of forming another triangle by replacing one of the drawn diagonals with another; $\bullet$ has no right to draw a triangle whose value has already been used during the match; $\bullet$ the value of the starting triangle must be less than that of the final triangle. During Albert's game, all possible values were obtained. Give these values in order (including the starting value).
+*Game of triangulations of a hexagon: give in order all the values obtained.*
+> A triangulation of a hexagon is a set of three non-intersecting diagonals that thus cuts the hexagon into four triangles. To each triangulation is associated a "value" equal to the sum of the numbers located at the vertices of the hexagon that are not endpoints of a diagonal. Thus, the triangulation shown in the figure has value 5. Albert plays as follows: $\bullet$ chooses an initial triangulation; $\bullet$ thereafter, a move consists of forming another triangulation by replacing one of the drawn diagonals with another; $\bullet$ is not allowed to draw a triangulation whose value has already been used during the game; $\bullet$ the value of the initial triangulation must be lower than that of the final triangulation. During Albert's game, all possible values were obtained. Give these values in order (including the starting one).
 
 ![[src_bocconi_finaleint_2008_g2__q18.png]]
 
-**Answer:** 4 solutions: 6 12 10 5 4 9 8 7 ; 7 6 9 4 5 10 12 8 ; 7 6 12 10 5 4 9 8 ; 6 9 4 5 10 12 8 7
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2008_g2#q18|src_bocconi_finaleint_2008_g2__Q18]]

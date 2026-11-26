@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Green apples in the crate if three at random always contain at least one green*
+*How many green apples are in the crate?*
 
-> In a crate there are $24$ apples: some are green and the remaining ones are red. You have been told that, if you take three at random, surely at least one is green. Marco has just taken $3$ and two of these are red. How many green apples are there in the crate?
+> In a crate there are $24$ apples: some are green and the rest are red. You have been told that, if you take three at random, at least one is certainly green. Marco has just taken $3$, and two of these are red. How many green apples are in the crate?
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 22
+[[Quesiti/src_kangourou_2021_ecolier_finale#q01|src_kangourou_2021_ecolier_finale__Q01]]
 
 
 
@@ -59,13 +64,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer sides of the squares for a frame around a square with side 6*
+*Which side lengths can the bordering squares have?*
 
 ![[src_kangourou_2021_ecolier_finale__prob2.png]]
 
-> I have a square $Q$ with a side of $6$ cm. I want to obtain a new square by surrounding it with squares that are all equal to each other, and I want the sides of these squares to measure an integer number of centimeters. What can the side lengths of the squares used as the frame be? The figure shows you, for example, what I can do with squares with a side of $1$ cm.
+> I have a square $Q$ of side $6$ cm. I want to obtain a new square by bordering it with squares that are all equal to one another, and I want the sides of these squares to measure a whole number of centimetres. What can the side lengths of the squares used as a border be? The picture shows, for example, what I can do with squares of side $1$ cm.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Answer:** 1 cm, 2 cm, 3 cm, 6 cm
+[[Quesiti/src_kangourou_2021_ecolier_finale#q02|src_kangourou_2021_ecolier_finale__Q02]]
 
 
 
@@ -92,15 +101,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes to fill the first container of amoeba*
+*How many minutes does the first jar take to fill?*
 
-> Amoebas are protozoa that reproduce in three minutes, that is, every 3 minutes each
-> amoeba generates another identical one. No amoeba dies as long as it has space to reproduce. Two
-> containers of equal capacity initially contain, the first one amoeba, the second 8 amoebas. The
-> second container is found full of amoebas after exactly 3 hours. How many minutes does it take to
-> fill the first container?
+> Amoebae are protozoa that reproduce in three minutes: every 3 minutes each amoeba produces another identical one. No amoeba dies as long as it has room to reproduce. Two jars of equal capacity contain at the start one amoeba in the first and 8 amoebae in the second. The second jar is full of amoebae after exactly 3 hours. How many minutes does the first jar take to fill?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 189
+[[Quesiti/src_kangourou_2021_ecolier_finale#q03|src_kangourou_2021_ecolier_finale__Q03]]
 
 
 
@@ -126,13 +135,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Correct 25x2=211 with +1/-1 on the digits*
+*Write the new correct equality, and explain.*
 
-> The equality 25 × 2 = 211 is false, but you can turn it into a correct
-> equality by adding 1 to some of its digits and subtracting 1 from the others. Write this new correct
-> equality, giving reasons.
+> The equality 25 × 2 = 211 is false, but you can turn it into a correct equality by adding 1 to some of its digits and subtracting 1 from the others. Write this new correct equality, and explain.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 34x3=102
+[[Quesiti/src_kangourou_2021_ecolier_finale#q04|src_kangourou_2021_ecolier_finale__Q04]]
 
 
 
@@ -157,12 +169,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final zeros of the product of even numbers between 1 and 101*
+*With how many digits 0 does the product end?*
 
-> Imagine you have multiplied together all the even integers between 1
-> and 101. With how many digits 0 does the product end?
+> Imagine you have multiplied together all the even integers between 1 and 101. With how many digits 0 does the product end?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 12
+[[Quesiti/src_kangourou_2021_ecolier_finale#q05|src_kangourou_2021_ecolier_finale__Q05]]
 
 
 
@@ -201,22 +217,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Getting 5 numbers equal by adding 1 to adjacent pairs*
+*Explain how the five numbers can all be made equal.*
 
 ![[src_kangourou_2021_ecolier_finale__prob6.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \def\R{2}
-  \draw (0,0) circle (\R);
-  \fill (90:\R) circle (2.5pt) node[above=2pt] {1};
-  \fill (18:\R) circle (2.5pt) node[right=2pt] {2};
-  \fill (-54:\R) circle (2.5pt) node[right=2pt] {3};
-  \fill (-126:\R) circle (2.5pt) node[left=2pt] {4};
-  \fill (162:\R) circle (2.5pt) node[left=2pt] {5};
-\end{tikzpicture}
-\end{document}
-```
+> The picture shows the numbers from $1$ to $5$ arranged clockwise on a circle. You may change them as many times as you like, but each time only by adding $1$ to two numbers that stand in adjacent positions (for example, you may add $1$ to $5$ and $1$, thus making them $6$ and $2$; then to $2$ and $2$, making them $3$ and $3$). Explain how it is possible, keeping to this rule, to arrive at five numbers that are all equal.
 
-> In the figure you see the numbers from $1$ to $5$ arranged clockwise on a circle. You can modify them as many times as you want, but each time only by adding $1$ to two numbers that are in adjacent positions (for example, you can add $1$ to $5$ and $1$, thus making them become $6$ and $2$; then to $2$ and $2$, making them become $3$ and $3$). Explain how it is possible, while respecting this rule, to end up with five numbers that are all equal.
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+[[Quesiti/src_kangourou_2021_ecolier_finale#q06|src_kangourou_2021_ecolier_finale__Q06]]

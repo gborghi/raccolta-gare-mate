@@ -28,9 +28,15 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Diagonali di quadrilaterali ciclici; circoncentro e collineare ortocentro*
+*Diagonali di un quadrilatero ciclico; centro della circonferenza circoscritta e ortocentro collineari*
 
-> Le diagonali $AC$ e $BD$ di un quadrilaterale ciclico $ABCD$ si intersecano al punto $P$. Che $O$ sia il circoncentro del triangolo $APB$ e $H$ sia l'ortocentro del triangolo $CPD$. Indicare che i punti $H$, $P$ e $O$ si trovano su una linea.
+> Le diagonali $AC$ e $BD$ di un quadrilatero ciclico $ABCD$ si intersecano nel punto $P$. Sia $O$ il circocentro del triangolo $APB$ e $H$ l'ortocentro del triangolo $CPD$. Dimostrare che i punti $H$, $P$ e $O$ giacciono su una retta.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1993#q01|src_inmo_1993__Q01]]
 
 
 
@@ -53,9 +59,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio quadratico con valori interi a numeri interi consecutivi*
+*Polinomio quadratico con valori interi in interi consecutivi*
 
-> Considera un polinomio quadratico $P(x) = x^2 + ax + b$ con $a, b \in \mathbb{Z}$. Indicare che per qualsiasi intero $n$ esiste un intero $m$ tale che $P(n)P(n+1) = P(m)$.
+> Si consideri un polinomio quadratico $P(x) = x^2 + ax + b$ con $a, b \in \mathbb{Z}$. Si dimostri che, per ogni numero intero $n$, esiste un numero intero $m$ tale che $P(n)P(n+1) = P(m)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_1993#q02|src_inmo_1993__Q02]]
 
 
 
@@ -80,9 +93,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza per quattro valori reali positivi sommati a 1*
+*Disuguaglianza per quattro numeri reali positivi la cui somma è 1*
 
-> Se $a, b, c, d$ sono numeri positivi con $a + b + c + d = 1$, dimostrare che $$ab + bc + cd \le \frac{1}{4}.$$ La disuguaglianza analogo vale per le variabili $n$?
+> Se $a, b, c, d$ sono numeri positivi con $a + b + c + d = 1$, dimostrare che
+> $$ab + bc + cd \le \frac{1}{4}.$$
+> L'uguaglianza disuguale analoga vale per $n$ variabili?
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1993#q03|src_inmo_1993__Q03]]
 
 
 
@@ -104,9 +126,15 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Localisso dei punti con circondazioni uguali per i sotto-triangoli*
+*Luogo dei punti con uguali raggi circunscritti per i sottotriangoli*
 
-> Trovare l'insieme di tutti i punti $P$ nell'insieme di un triangolo $ABC$ in modo tale che $P \neq A, B, C$ e i triangoli $ABP$, $BCP$ e $CAP$ abbiano lo stesso circondario.
+> Trovare l'insieme di tutti i punti $P$ nell'insieme di un triangolo $ABC$ tali che $P \neq A, B, C$ e i triangoli $ABP$, $BCP$ e $CAP$ abbiano lo stesso raggio circoscritto.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1993#q04|src_inmo_1993__Q04]]
 
 
 
@@ -129,9 +157,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-Numero naturale n tale che n! termina esattamente in zero 1993*
+*Esiste un n! che in decimale termina con esattamente 1993 zeri*
 
-> Indicare che esiste un numero naturale $n$ tale che $n!$ nel sistema decimale finisce esattamente in zero $1993$.
+> Dimostrare che esiste un numero naturale $n$ tale che $n!$, in notazione decimale, termina con esattamente $1993$ zeri.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_inmo_1993#q05|src_inmo_1993__Q05]]
 
 
 
@@ -153,9 +188,15 @@ Numero naturale n tale che n! termina esattamente in zero 1993*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi tangenti ai lati di un triangolo rettangolo; prodotto dei raggi uguale all'area*
+*Due cerchi tangenti ai lati di un triangolo rettangolo; il prodotto dei raggi è uguale all'area*
 
-> Il $\mathscr{S}$ deve essere un semicircolo di un triangolo rettangolo $ABC$ con $\angle A = 90^\circ$. Circolo $\mathscr{S}_1$ è tangente alle linee $AB$ e $AC$ e internamente a $\mathscr{S}$. Circolo $\mathscr{S}_2$ è tangente a $AB$ e $AC$ e esternamente a $\mathscr{S}$. Se $r_1, r_2$ sono i raggi di $S_1$ e $S_2$, dimostrare che $r_1 \cdot r_2$ è uguale a quattro volte l'area di $\triangle ABC$.
+> Sia $\mathscr{S}$ un semicerchio di un triangolo rettangolo $ABC$ con $\angle A = 90^\circ$. Il cerchio $\mathscr{S}_1$ è tangente alle rette $AB$ e $AC$ e tangente internamente a $\mathscr{S}$. Il cerchio $\mathscr{S}_2$ è tangente a $AB$ e $AC$ e tangente esternamente a $\mathscr{S}$. Se $r_1, r_2$ sono i raggi di $S_1$ e $S_2$, dimostrare che $r_1 \cdot r_2$ è uguale a quattro volte l'area di $\triangle ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1993#q06|src_inmo_1993__Q06]]
 
 
 
@@ -178,9 +219,16 @@ Numero naturale n tale che n! termina esattamente in zero 1993*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*53-sottoinsieme di elementi di {1,...,100} contiene due elementi la cui somma è divisibile per 9*
+*Un sottoinsieme di 53 elementi di {1,...,100} contiene due elementi la cui somma è divisibile per 9*
 
-> $A$ sia un sottogruppo di 53 elementi di $A = \{1, 2, 3, \ldots, 100\}$. Prova che esistono due elementi distinti $x, y \in A$ la cui somma è divisibile da $9$.
+> Sia $A$ un sottoinsieme di $A = \{1, 2, 3, \ldots, 100\}$ costituito da 53 elementi. Dimostrare che esistono due elementi distinti $x, y \in A$ la cui somma è divisibile per $9$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_1993#q07|src_inmo_1993__Q07]]
 
 
 
@@ -203,9 +251,16 @@ Numero naturale n tale che n! termina esattamente in zero 1993*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bijezione da {1,...,n} a se stessa iterata M volte è uguale all'identità*
+*Una bigezione da {1,...,n} in sé stessa, iterata M volte, è uguale all'applicazione identità*
 
-> Lasciate che $f$ sia una funzione bijectiva da $A = \{1, 2, \ldots, n\}$ a se stessa. Prove che esiste un intero positivo $M$ tale che $f^M(i) = i$ per ogni $i \in A$, dove $f^M = f \circ f \circ \cdots \circ f$ ($M$ volte).
+> Sia $f$ una funzione biiettiva da $A = \{1, 2, \ldots, n\}$ a se stessa. Dimostrare che esiste un intero positivo $M$ tale che $f^M(i) = i$ per ogni $i \in A$, dove $f^M = f \circ f \circ \cdots \circ f$ ($M$ volte).
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1993#q08|src_inmo_1993__Q08]]
 
 
 
@@ -227,6 +282,12 @@ Numero naturale n tale che n! termina esattamente in zero 1993*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esagono converso con angoli e lunghezze laterali uguali 1,2,3,4,5,6 in qualche ordine*
+*Esagono convesso con angoli uguali e lunghezze dei lati 1,2,3,4,5,6 in un certo ordine*
 
-> Dimostrare che nel piano esiste un esagono converso i cui angoli interni sono tutti uguali e le cui lunghezze laterali sono $1, 2, 3, 4, 5, 6$ in un certo ordine.
+> Dimostrare che esiste un esagono convesso nel piano i cui angoli interni sono tutti uguali e le cui lunghezze dei lati sono $1, 2, 3, 4, 5, 6$ in qualche ordine.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_1993#q09|src_inmo_1993__Q09]]

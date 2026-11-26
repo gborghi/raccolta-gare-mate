@@ -41,21 +41,28 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sette preziose di domini: prove, contate a doppio, contate tutte*
+*Set di domino preziosi: prove, conta le coppie, conta tutto*
 
-> Un set di domino è formato da 28 pezzi diversi. Ogni pezzo ha due metà, ciascuna metà ha da zero a sei punti.
-> 
-> Esmeralda mette 4 pezzi di domino all'interno di una scatola, rispettando le regole del gioco  cioè, i pezzi posizionati vicini a vicenda toccano mezzo a mezzo con lo stesso numero di punti. Ogni volta che è possibile conservare i quattro pezzi nella scatola, diciamo che l'insieme di quattro pezzi è **prezioso**. La figura accanto mostra i modi in cui il prezioso set può essere organizzato:
-> 
-> (a) dimostrare che un insieme prezioso non può contenere due pezzi doppi (un doppio pezzo ha entrambe le metà con lo stesso numero di punti).
-> 
-> La figura seguente mostra i preziosi set con due doppi pezzi:
-> 
-> (b) Quanti preziosi set contengono esattamente un doppio pezzo?
-> 
-> c) Determinare il numero totale di set preziosi.
+> Un set di domino è composto da 28 tessere diverse. Ogni tessera ha due metà, e ciascuna metà presenta da zero a sei puntini.
+>
+> Esmeralda colloca 4 tessere del domino all'interno di una scatola, rispettando le regole del gioco: cioè, le tessere poste adiacenti tra loro si toccano per metà con lo stesso numero di puntini. Ogni volta che è possibile riporre le quattro tessere nella scatola, diciamo che l'insieme delle quattro tessere è **prezioso**. La figura accanto mostra i modi in cui l'insieme prezioso può essere disposto:
+>
+> (a) Dimostrare che un set prezioso non può contenere due pezzi doppi (un pezzo doppio ha entrambe le metà con lo stesso numero di puntini).
+>
+> La figura sottostante mostra i set preziosi con due pezzi doppi:
+>
+> (b) Quanti set preziosi contengono esattamente un pezzo doppio?
+>
+> (c) Determina il numero totale di set preziosi.
 
 ![[src_obm_2008_n2_f3__q01.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n2_f3#q01|src_obm_2008_n2_f3__Q01]]
 
 
 
@@ -78,9 +85,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il punto di intersezione di due cerchi è il centro circostante di ABC*
+*Il punto di intersezione di due cerchi è il circocentro di ABC*
 
-> Che $A$ sia uno dei punti di intersezione di due cerchi con centri $X$ e $Y$. Le tangenti ai cerchi a $A$ si incrociano di nuovo ai cerchi a $B$ e $C$, rispettivamente. Che $P$ sia un punto del piano tale che $PXAY$ sia un parallelo. Prove che $P$ è il circoncentro del triangolo $ABC$.
+> Sia $A$ uno dei punti di intersezione di due cerchi aventi centri $X$ e $Y$. Le rette tangenti ai cerchi in $A$ intersecano nuovamente i cerchi rispettivamente in $B$ e $C$. Sia $P$ un punto del piano tale che $PXAY$ sia un parallelogramma. Dimostrare che $P$ è il circocentro del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n2_f3#q02|src_obm_2008_n2_f3__Q02]]
 
 
 
@@ -105,7 +119,14 @@ level: OBM Nível 2
 
 *Nessun numero intero positivo soddisfa $x^x + y^y = 2^{2009}$*
 
-> Prova che non esistono numeri interi positivi $x$ e $y$ tali da $x^x + y^y = 2^{2009}$.
+> Dimostrare che non esistono numeri interi positivi $x$ e $y$ tali che $x^x + y^y = 2^{2009}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n2_f3#q03|src_obm_2008_n2_f3__Q03]]
 
 
 
@@ -130,9 +151,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi un sistema reale con reciprocità cicliche e xyz=1*
+*Risolvi il sistema reale con reciproci ciclici e xyz=1*
 
-> Risolvere, in numeri reali, il sistema $$x + \frac{1}{y} = y + \frac{1}{z} = z + \frac{1}{x}$$ $$xyz = 1.$$
+> Risolvere, nei numeri reali, il sistema
+> $$x + \frac{1}{y} = y + \frac{1}{z} = z + \frac{1}{x}$$
+> $$xyz = 1.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_n2_f3#q04|src_obm_2008_n2_f3__Q04]]
 
 
 
@@ -159,11 +189,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ante che girano 60 gradi ogni passo: ritorno dopo i passi del 2008 o del 2009?*
+*La formica ruota di 60 gradi a ogni passo: si torna dopo 2008 o 2009 passi?*
 
-> Una formica cammina nel piano in questo modo: inizialmente cammina $1\,\text{cm}$ in qualsiasi direzione. Dopo ogni passo, cambia la direzione della sua traiettoria di $60^\circ$ a sinistra o a destra e cammina $1\,\text{cm}$ in quella nuova direzione. È possibile che la formica ritorni al suo punto di partenza in (a) $2008$? b) le fasi $2009$?
+> Una formica si muove nel piano nel modo seguente: inizialmente, percorre $1\,\text{cm}$ in una direzione qualsiasi. Dopo ogni passo, modifica la direzione della propria traiettoria di $60^\circ$ verso sinistra o verso destra, e percorre $1\,\text{cm}$ in questa nuova direzione. È possibile che la formica torni al punto di partenza in
+> (a) $2008$ passi?
+> (b) $2009$ passi?
 
 ![[src_obm_2008_n2_f3__q05.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2008_n2_f3#q05|src_obm_2008_n2_f3__Q05]]
 
 
 
@@ -186,6 +225,13 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circumcentro O, intersezioni secondarie, tre linee contemporanee*
+*Centro circoscritto O, intersezioni secondarie, tre rette concorrenti*
 
-> Lasciate che $ABC$ sia un triangolo e $O$ il suo centro circonda. Le linee $AB$ e $AC$ rientrano nel circoncircolo di $OBC$ rispettivamente a $B_1 \neq B$ e $C_1 \neq C$; le linee $BA$ e $BC$ rientrano nel circoncircolo di $OAC$ rispettivamente a $A_2 \neq A$ e $C_2 \neq C$; le linee $CA$ e $CB$ rientrano nel circoncircolo di $OAB$ rispettivamente a $A_3 \neq A$ e $B_3 \neq B$. Prove che le righe $A_2A_3$, $B_1B_3$ e $C_1C_2$ sono simultanee.
+> Sia $ABC$ un triangolo e $O$ il suo circocentro. Le rette $AB$ e $AC$ incontrano nuovamente la circonferenza circoscritta a $OBC$ rispettivamente in $B_1 \neq B$ e $C_1 \neq C$; le rette $BA$ e $BC$ incontrano la circonferenza circoscritta a $OAC$ rispettivamente in $A_2 \neq A$ e $C_2 \neq C$; e le rette $CA$ e $CB$ incontrano la circonferenza circoscritta a $OAB$ rispettivamente in $A_3 \neq A$ e $B_3 \neq B$. Dimostrare che le rette $A_2A_3$, $B_1B_3$ e $C_1C_2$ sono concorrenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n2_f3#q06|src_obm_2008_n2_f3__Q06]]

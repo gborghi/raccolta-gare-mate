@@ -33,9 +33,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi equazioni simultanee in quattro numeri reali*
+*Risolvi un sistema di equazioni simultanee in quattro numeri reali*
 
-> Risolvere le equazioni simultanee $$a + b = c + d,$$ $$b + c = 2a + b,$$ $$a + c = b + d,$$ $$a + b + c = 6$$ dove $a, b, c, d$ sono numeri reali.
+> Risolvere il sistema di equazioni simultanee
+> $$a + b = c + d,$$
+> $$b + c = 2a + b,$$
+> $$a + c = b + d,$$
+> $$a + b + c = 6$$
+> dove $a, b, c, d$ sono numeri reali.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2003-04_round1#q01|src_bmo_2003-04_round1__Q01]]
 
 
 
@@ -59,9 +70,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo con punto medio e perpendicolare; prove triangolo isosceles*
+*Rettangolo con punto medio e perpendicolare; dimostrare che il triangolo è isoscele*
 
-> $ABCD$ è un rettangolo, $P$ è il punto medio di $AB$, e $Q$ è il punto su $PD$ in modo tale che $CQ$ sia perpendicolare a $PD$. Prove che il triangolo $BQC$ è uguale.
+> $ABCD$ è un rettangolo, $P$ è il punto medio di $AB$, e $Q$ è il punto su $PD$ tale che $CQ$ è perpendicolare a $PD$. Dimostrare che il triangolo $BQC$ è isoscele.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2003-04_round1#q02|src_bmo_2003-04_round1__Q02]]
 
 
 
@@ -84,9 +102,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco di carte: Alice punta sempre almeno quanto Barbara
+*Gioco di carte: Alice ottiene sempre un punteggio almeno pari a quello di Barbara*
 
-> Alice e Barbara giocano a un gioco con un pacchetto di carte $26$, su ciascuna delle quali è scritto un intero positivo. Il pacchetto è mescolato e le carte disposte in fila, con i numeri rivolti verso l'alto. Alice inizia, e le ragazze si alternano per togliere una carta da entrambe le estremità della fila, fino a quando Barbara prende l'ultima carta. Il punteggio di ogni ragazza è la somma dei numeri sulle carte scelte. Dimostra che Alice può sempre ottenere un punteggio almeno grande come Barbara.
+> Alice e Barbara giocano a un gioco con un mazzo di $26$ carte, sulle quali è scritto un numero intero positivo. Il mazzo viene mescolato e le carte vengono disposte in fila, con i numeri rivolti verso l'alto. Alice inizia, e le ragazze si alternano nel rimuovere una carta da uno dei due estremi della fila, finché Barbara prende l'ultima carta. Il punteggio di ciascuna ragazza è la somma dei numeri sulle carte da lei scelte. Dimostrare che Alice può sempre ottenere un punteggio almeno pari a quello di Barbara.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2003-04_round1#q03|src_bmo_2003-04_round1__Q03]]
 
 
 
@@ -109,9 +134,16 @@ Gioco di carte: Alice punta sempre almeno quanto Barbara
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i sottosetti malvagi (nessun tre successivi) di {1,...,10}*
+*Conta i sottoinsiemi malvagi (senza tre elementi consecutivi) di {1,...,10}*
 
-> Un insieme di numeri interi positivi è definito come cattivo se non contiene tre numeri interi consecutivi come elementi; l'insieme vuoto è un insieme cattivo. Trovare il numero di sottosette malvagi di $\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10\}$.
+> Un insieme di numeri interi positivi si definisce malvagio se non contiene tre numeri interi consecutivi come elementi; l'insieme vuoto è un insieme malvagio. Determinare il numero di sottoinsiemi malvagi di $\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10\}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2003-04_round1#q04|src_bmo_2003-04_round1__Q04]]
 
 
 
@@ -134,6 +166,13 @@ Gioco di carte: Alice punta sempre almeno quanto Barbara
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Primi p,q,r con q di p-1, rp-1; trovare tutti i valori di pq*
+*Scegli i primi p, q, r tali che q|p-1 e r|p-1; trova tutti i valori di pq*
 
-> Lasciate che $p$, $q$ e $r$ siano numeri primi. È dato che $q$ divide $p - 1$ e $r$ divide $p - 1$. Determinare tutti i possibili valori di $pq$.
+> Siano $p$, $q$ e $r$ numeri primi. Si sa che $q$ divide $p - 1$ e che $r$ divide $p - 1$. Determinare tutti i valori possibili di $pq$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2003-04_round1#q05|src_bmo_2003-04_round1__Q05]]

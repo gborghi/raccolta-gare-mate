@@ -37,13 +37,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which words denote three consecutive integers*
+*Which of the six words can stand for three consecutive integers*
 
-> We indicate with: - $s$ any positive integer divisible by 6; - $e$ any even positive integer that is not divisible by 6; - $t$ any positive integer divisible by 3 that has not already been indicated with $s$ or with $e$; - $x$ any positive integer of the remaining ones.
-> 
-> Which of the following six words $$\text{ese} \quad \text{ete} \quad \text{exe} \quad \text{ets} \quad \text{exs} \quad \text{ext}$$ can correspond to three consecutive integers?
+> We denote by:
+> - $s$ any positive integer divisible by 6;
+> - $e$ any positive even integer that is not divisible by 6;
+> - $t$ any positive integer divisible by 3 that has not already been denoted by $s$ or by $e$;
+> - $x$ any positive integer among those remaining.
+>
+> Which of the following six words
+>
+> $$\text{ese} \quad \text{ete} \quad \text{exe} \quad \text{ets} \quad \text{exs} \quad \text{ext}$$
+>
+> can correspond to three consecutive integers?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** ete, exs
+[[Quesiti/src_kangourou_2003_junior_finale#qj1|src_kangourou_2003_junior_finale__QJ1]]
 
 
 
@@ -66,11 +77,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum difference between simultaneous numbers*
+*By how much the two closest numbers said at the same instant differ*
 
-> Cristina and Roberta start counting at the same instant and with the same frequency. Cristina counts in twos increasing from 110 (110, 112, 114, $\ldots$), while Roberta counts in fives decreasing from 953 (953, 948, 943, $\ldots$). How different will the two closest numbers they will utter at the same time be?
+> Cristina and Roberta start counting at the same instant and at the same pace. Cristina counts up in twos starting from 110 (110, 112, 114, $\ldots$), while Roberta counts down in fives starting from 953 (953, 948, 943, $\ldots$). By how much will the two closest numbers that they say at the same instant differ?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** 3
+[[Quesiti/src_kangourou_2003_junior_finale#qj2|src_kangourou_2003_junior_finale__QJ2]]
 
 
 
@@ -111,7 +125,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the max circle inscribed in the curvilinear triangle*
+*The area of the largest circle that can be inscribed in the triangle*
 
 ![[src_kangourou_2003_junior_finale__probj3.png]]
 
@@ -131,9 +145,12 @@ level: kangourou
 \end{document}
 ```
 
-> The figure represents a mystilinear triangle $PQR$. Its outline consists of a segment $PR$ of length 2 and two arcs of circumference $PQ$ and $QR$ of centers $R$ and $P$ respectively. How much is the area of the largest circle that can be inscribed in the triangle? (see figure)
+> The figure shows a mixtilinear triangle $PQR$. Its boundary consists of a segment $PR$ of length 2 and of two circular arcs $PQ$ and $QR$ with centres $R$ and $P$ respectively. What is the area of the largest circle that can be inscribed in the triangle? (see the figure)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** 9pi/16
+[[Quesiti/src_kangourou_2003_junior_finale#qj3|src_kangourou_2003_junior_finale__QJ3]]
 
 
 
@@ -156,11 +173,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Speed ratio of two cyclists*
+*The ratio of the faster cyclist's speed to the slower one's*
 
-> Two cyclists run on a circular track each at a constant speed. If they run in the same direction, every ten minutes the fastest rider reaches the other; if they run in opposite directions, they meet every two minutes. What is the ratio between the speed of the fastest rider and the speed of the slowest rider?
+> Two cyclists ride on a circular track, each at constant speed. If they ride in the same direction, every ten minutes the faster cyclist catches the other; if they ride in opposite directions, they meet every two minutes. What is the ratio of the speed of the faster cyclist to that of the slower cyclist?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** 3/2
+[[Quesiti/src_kangourou_2003_junior_finale#qj4|src_kangourou_2003_junior_finale__QJ4]]
 
 
 
@@ -183,11 +203,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle area with three parallel inner triangles*
+*The area of the original right-angled triangle*
 
-> For a point fixed internally to a right triangle the parallels to the sides are drawn. These are $a$, $b$ and $c$ the areas of the three right triangles that are thus identified. How much is the area of the starting triangle?
+> Through a point fixed inside a right-angled triangle, draw the lines parallel to the sides. Let $a$, $b$ and $c$ be the areas of the three right-angled triangles that are thus determined. What is the area of the original triangle?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** (a+b+c)^2
+[[Quesiti/src_kangourou_2003_junior_finale#qj5|src_kangourou_2003_junior_finale__QJ5]]
 
 
 
@@ -211,8 +234,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Auto-descriptive number of 10 digits*
+*The ten-digit number described by its own digits*
 
-> A single positive integer of ten digits (significant) has a decimal representation such that its first digit (left) corresponds to the number of its digits that are equal to zero, its second digit corresponds to the number of its digits that are equal to one, its third digit corresponds to the number of its digits that are equal to two and so on until its tenth digit corresponds to the number of its digits equal to nine. Find that number.
+> Only one positive integer of ten (significant) digits has a decimal representation such that its first digit (from the left) equals the number of its digits that are equal to zero, its second digit equals the number of its digits that are equal to one, its third digit equals the number of its digits that are equal to two, and so on up to its tenth digit, which equals the number of its digits equal to nine. Find that number.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** 6210001000
+[[Quesiti/src_kangourou_2003_junior_finale#qj6|src_kangourou_2003_junior_finale__QJ6]]

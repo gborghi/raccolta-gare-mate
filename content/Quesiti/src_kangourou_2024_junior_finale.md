@@ -29,9 +29,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Are there more reducible or irreducible fractions (1..12)*
+*There are more reducible fractions or irreducible fractions (1..12)*
 
-> Consider all possible fractions of less than 1 in which both the numerator and denominator are integers between 1 and 12 inclusive. Are there more reducible fractions or irreducible fractions?
+> Consider all possible fractions with a value less than 1, in which both the numerator and the denominator are integers between 1 and 12 inclusive. Are there more reducible fractions or more irreducible fractions?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_junior_finale#qj1|src_kangourou_2024_junior_finale__QJ1]]
 
 
 
@@ -73,7 +80,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two triangles with two sides and equal height are congruent*
+*Two triangles with two equal sides and an equal height are congruent*
 
 ![[src_kangourou_2024_junior_finale__probj2.png]]
 
@@ -95,7 +102,13 @@ level: kangourou
 \end{document}
 ```
 
-> Two triangles are given. The lengths of two of the sides of one shall coincide with the lengths of two of the sides of the other and the height relative to the third side of one shall coincide with that relative to the third side of the other. Are the two triangles necessarily congruent?
+> Two triangles are given. The lengths of two of the sides of one triangle coincide with the lengths of two of the sides of the other triangle, and the altitude corresponding to the third side of one triangle coincides with the altitude corresponding to the third side of the other triangle. Are the two triangles necessarily congruent?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_junior_finale#qj2|src_kangourou_2024_junior_finale__QJ2]]
 
 
 
@@ -118,9 +131,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Establish which city the aircraft operates in (calendar, cafe)*
+*Determine which city the plane operates in (calendar, coffee)*
 
-> I don't drink coffee only on Mondays and Saturdays. An aircraft is used on alternate days on the Milan  Cagliari and Milan  Palermo routes with daily round-trip flights operated weekly from Tuesday to Sunday included; every Monday it is stationary for maintenance. During a year there were two consecutive months during which it operated for a total of 53 days, the first of which was in Cagliari. On the first day of the first of these two months, I didn't drink coffee. Is it possible to determine which city the aircraft operated in on the first day of operation in the second month? Is it possible to determine whether that day coincides with the first day of the month?
+> I do not drink coffee on Mondays and Saturdays only. An aircraft is used on alternate days on the Milan–Cagliari and Milan–Palermo routes, with daily round-trip flights operated weekly from Tuesday to Sunday inclusive; every Monday it is grounded for maintenance. Over the course of a year, there were two consecutive months during which it operated for a total of 53 days, the first of those days being on the Cagliari route. On the first day of the first of these two months, I did not drink coffee. Is it possible to determine which city the aircraft operated in on the first day of operations in the second month? Is it possible to determine whether that day coincides with the first day of the month?
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_finale#qj3|src_kangourou_2024_junior_finale__QJ3]]
 
 
 
@@ -149,7 +169,14 @@ level: kangourou
 
 ![[src_kangourou_2024_junior_finale__probj4.png]]
 
-> For a polygon (plane) $P$, not necessarily convex, we indicate with $N(P)$ the number of points that are diagonal intersections and not vertices. If $P$ is a quadrilateral, $N(P)$ may be only $1$ or $0$. If $P$ is a pentagon, the maximum possible value for $N(P)$ is $5$ (e.g. if $P$ is regular); but what is the minimum possible value? (In any polygon, by diagonal means a segment that joins two non-adjacent vertices.)
+> For a (planar) polygon $P$, not necessarily convex, let $N(P)$ denote the number of points that are intersections of diagonals and are not vertices. If $P$ is a quadrilateral, then $N(P)$ can only be $1$ or $0$. If $P$ is a pentagon, the maximum possible value of $N(P)$ is $5$ (for example, if $P$ is regular); what, however, is the minimum possible value? (In any polygon, a diagonal means a line segment joining two non-adjacent vertices.)
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_junior_finale#qj4|src_kangourou_2024_junior_finale__QJ4]]
 
 
 
@@ -172,9 +199,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of lines to cover the vertices of the squares*
+*Minimum number of straight lines needed to cover the vertices of the small squares*
 
-> On a huge square sheet of square paper you want to draw lines, none parallel to the ones that delimit the squares, so that all the vertices of the squares that appear on the sheet are covered by at least one line. What is the smallest number of lines that is sufficient to trace?
+> On an enormous square sheet $2024 \times 2024$ of graph paper, one wants to draw straight lines—none of which are parallel to the lines that bound the squares—so that all the vertices of the squares visible on the sheet are covered by at least one line. What is the smallest number of lines that suffice to draw?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_junior_finale#qj5|src_kangourou_2024_junior_finale__QJ5]]
 
 
 
@@ -197,6 +231,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Do there exist 4-digit perfect square ABBA palindromes?
+*There exist ABBA palindromic 4-digit perfect squares*
 
-> Are there 4-digit palindromes (i.e. $\overline{ABBA}$ with $A \neq 0$) in decimal notation, which are perfect squares?
+> Are there any 4-digit palindromic integers (that is, of the form $\overline{ABBA}$ with $A \neq 0$) in decimal notation that are perfect squares?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_junior_finale#qj6|src_kangourou_2024_junior_finale__QJ6]]

@@ -50,7 +50,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Winning move in TRIS*
+*Where to place X so as to be sure of winning*
 
 ![[src_kangourou_2004_ecolier_finale__probe1.png]]
 
@@ -66,13 +66,19 @@ level: kangourou
 \end{document}
 ```
 
-> In the game of TRIS two players A and B place their own symbol (X for player A,O for player B) in a chess box. The winner is the one who manages to position three of his symbols horizontally or vertically or diagonally. In the table you see a game started:
-> 
-> | X | O | X | |---|---|---| |   |   |   | |   | O |   |
-> 
-> You are player A and you have to place your symbol X: enter it so that you are sure to win. (see figure)
+> In the game of noughts and crosses (TRIS) two players A and B place in turn their own symbol ("X" for player A, "O" for player B) in a cell of the board. The first to manage to place three of his symbols horizontally or vertically or diagonally wins. In the table you see a game that has begun:
+>
+> | X | O | X |
+> |---|---|---|
+> |   |   |   |
+> |   | O |   |
+>
+> You are player A and it is your turn to place your symbol "X": place it so as to be sure of winning. (see the figure)
 
-**Answer:** third row, first column
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Answer:** terza riga prima colonna
+[[Quesiti/src_kangourou_2004_ecolier_finale#qe1|src_kangourou_2004_ecolier_finale__QE1]]
 
 
 
@@ -96,11 +102,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max visible cubes of the cube 11x11x11*
+*The greatest number of unit cubes of which one face can be seen*
 
-> A wood cube of $11$ cm, obtained by gluing together $11 \times 11 \times 11$ unit cubes of $1$ cm, shall be rested on a table. What is the maximum number of unit cubes I can see at least one face of, if I can choose the position from which to observe the large cube, but once the choice is made I can't move anymore?
+> A wooden cube of side $11$ cm, obtained by gluing together $11 \times 11 \times 11$ little cubes of side $1$ cm, rests on a table. What is the greatest number of unit cubes of which I can see at least one face, if I may choose the position from which to look at the large cube, but once the choice is made I may no longer move?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** 331
+[[Quesiti/src_kangourou_2004_ecolier_finale#qe2|src_kangourou_2004_ecolier_finale__QE2]]
 
 
 
@@ -126,13 +136,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cards in the 0-0..8-8 dominoes*
+*How many tiles one has for the game*
 
 ![[src_kangourou_2004_ecolier_finale__probe3.png]]
 
-> A variation of the game of dominoes contains all the cards with the number pairs between double zero and double eight. Each number pair appears exactly once. For example, the card in the figure is $2 \times 4$ but also $4 \times 2$. How many cards do you have for the game? (see figure)
+> A variant of the game of dominoes contains all the tiles with the pairs of numbers from double zero to double eight. Each pair of numbers appears exactly once. For example the tile in the figure is the $2 \times 4$ but also the $4 \times 2$. How many tiles does one have available for the game? (see the figure)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** 45
+[[Quesiti/src_kangourou_2004_ecolier_finale#qe3|src_kangourou_2004_ecolier_finale__QE3]]
 
 
 
@@ -155,11 +169,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance between red and green flags*
+*The least distance between two points marked by both a red and a green flag*
 
-> A path length $1800$ meters is divided into $15$ equal parts of each other, planting $16$ red flags in the ground; it is also divided into $6$ equal parts of each other, planting $7$ green flags in the ground. What is, in metres, the minimum distance between two distinct points on the route marked by both a red flag and a green flag?
+> A path $1800$ metres long is divided into $15$ parts equal to one another, by planting $16$ red flags in the ground; it is also divided into $6$ parts equal to one another, by planting $7$ green flags in the ground. What, in metres, is the least distance between two distinct points of the path that are both marked by a red flag and by a green flag?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** 600
+[[Quesiti/src_kangourou_2004_ecolier_finale#qe4|src_kangourou_2004_ecolier_finale__QE4]]
 
 
 
@@ -183,11 +200,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*White spaces on the last line (numbers 1..150)*
+*How many blank spaces remain on the last line after the last zero*
 
-> My computer screen allows me to write $80$ characters (letters, numbers or white spaces) on each line. If there is not enough space for a word or a number at the end of the line, the word or number is entirely moved to the next line. I write the numbers from $1$ to $150$ (in digits) and I leave a blank space between each number and the following one. How many white spaces are left on the last line after the last zero?
+> The screen of my computer allows one to write $80$ characters (letters, digits or blank spaces) on each line. If there is not enough room for a word or a number at the end of the line, the word or the number is moved entirely to the next line. I write the numbers from $1$ to $150$ (in digits) and leave a blank space between each number and the next. How many blank spaces remain on the last line after the last zero?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** 73
+[[Quesiti/src_kangourou_2004_ecolier_finale#qe5|src_kangourou_2004_ecolier_finale__QE5]]
 
 
 
@@ -210,8 +231,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many grandchildren and little eggs (exact divisions)*
+*How many grandchildren there are, and how many little eggs*
 
-> For Easter, grandma had a basket with many Easter eggs waiting for us grandchildren. When the time came to divide them, grandma invented this criterion, which takes into account the right of priority in choosing of the older grandchildren and the greed of the younger ones: the first grandchild would have taken $1$ little egg and the sixth part of the remaining little eggs, the second $2$ little eggs and the sixth part of the remaining ones, the third $3$ little eggs and the sixth part of the remaining ones, and so on until the eggs were used up. To our surprise, the divisions always came out exact and in the end we all had the same number of little eggs! Grandma commented that with more little eggs she could not have performed the same miracle. How many of us are there and how many little eggs were in the basket?
+> For Easter grandmother left us grandchildren a basket with many little Easter eggs. When the time came to share them out, grandmother invented this rule, which takes into account the older grandchildren's right to choose first and the younger ones' greed: the first grandchild would take $1$ little egg and a sixth of the little eggs remaining, the second $2$ little eggs and a sixth of those remaining, the third $3$ little eggs and a sixth of those remaining, and so on until the eggs ran out. To our surprise the divisions always came out exact, and in the end we all had the same number of little eggs! Grandmother remarked that with more little eggs she could not have performed the same miracle. How many of us are there, and how many little eggs were there in the basket?
 
-**Answer:** 5 grandchildren 25 little eggs
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Answer:** 5 nipoti 25 ovetti
+[[Quesiti/src_kangourou_2004_ecolier_finale#qe6|src_kangourou_2004_ecolier_finale__QE6]]

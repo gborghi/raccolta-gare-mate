@@ -67,7 +67,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shape of the sheet folded twice*
+*Broken text: only option fragments and a page footer remain*
 
 ![[src_kangourou_2001_cadet__prob1.png]]
 
@@ -81,27 +81,26 @@ level: kangourou
 ```
 
 > (E)
->  
->           
+>
 > 4
 > 3
->  
+>
 > (D)
->           
+>
 > 6
-> 5 
+> 5
 > (C)
->         
-> 2 
+>
+> 2
 > (B)
->         
+>
 > 3
 > 2
->  )
+> )
 > A
 > (
-> 
-> Kangourou 15 March 2001, Cadet category.     Page N.
+>
+> Kangourou 15 March 2001, Cadet category. Page no.
 > 4
 > (A) 0
 > (B) 1
@@ -109,7 +108,10 @@ level: kangourou
 > (D) 3
 > (E) 4.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_cadet#q01|src_kangourou_2001_cadet__Q01]]
 
 
 
@@ -132,11 +134,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Boxes for packing the kangaroos*
+*How many boxes Roberta needs, without mixing the colours*
 
-> 2. Roberta has to pack wooden kangaroos into boxes of 10. If 178 kangaroos are red and 121 are blue, how many boxes does Roberta need to pack them all, without mixing the two colors? (A) 13 (B) 18 (C) 24 (D) 30 (E) 31. Kangourou 15 March 2001, Cadet category. Page No. 1
+> 2. Roberta has to pack wooden kangaroos into boxes of 10. If 178 kangaroos are red and 121 are blue, how many boxes does Roberta need to pack them all, without mixing the two colours? (A) 13 (B) 18 (C) 24 (D) 30 (E) 31. Kangourou 15 March 2001, Cadet category. Page no. 1
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_cadet#q02|src_kangourou_2001_cadet__Q02]]
 
 
 
@@ -162,13 +167,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Cutting off a ring to free them all
+*Whether cutting one ring frees them all*
 
 ![[src_kangourou_2001_cadet__prob3.png]]
 
-> 3. By cutting off a single ring, can you free them all? (A) yes, cutting A (B) yes, cutting B (C) yes, cutting C (D) yes, cutting D (E) no.
+> 3. By cutting a single ring, is it possible to free them all? (A) yes, by cutting A (B) yes, by cutting B (C) yes, by cutting C (D) yes, by cutting D (E) no.
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_cadet#q03|src_kangourou_2001_cadet__Q03]]
 
 
 
@@ -191,11 +200,14 @@ Cutting off a ring to free them all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Giovanna's female classmates in the class*
+*How many girls are in Giovanna's class*
 
-> 4. Enrico's classmates are 7 more than the female classmates. In the same class the number of boys is twice that of the girls. How many female classmates does Giovanna, who is in the same class as Enrico, have? (A) 6 (B) 7 (C) 8 (D) 9 (E) 10.
+> 4. Enrico's male classmates are 7 more than his female classmates. In the same class the number of boys is twice the number of girls. How many female classmates does Giovanna, who is in the same class as Enrico, have? (A) 6 (B) 7 (C) 8 (D) 9 (E) 10.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_cadet#q04|src_kangourou_2001_cadet__Q04]]
 
 
 
@@ -220,13 +232,16 @@ Cutting off a ring to free them all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Route via C compared to route via B*
+*How the route via C compares with the route via B*
 
 ![[src_kangourou_2001_cadet__prob5.png]]
 
-> 5. The figure on the right shows some streets of a small town. The distance between A and P is equal to that between A and Q which is 500 meters. The path from P to Q via A is 215 metres longer than that via B. So the path on C, compared to that on B, is (A) 275 meters longer (B) 215 meters longer (C) 430 meters longer (D) 43 meters longer (E) shorter.
+> 5. The figure on the right shows some streets of a small town. The distance between A and P equals that between A and Q, which is 500 metres. The route from P to Q via A is 215 metres longer than the one via B. Then the route via C, compared with the one via B, is (A) 275 metres longer (B) 215 metres longer (C) 430 metres longer (D) 43 metres longer (E) shorter.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_cadet#q05|src_kangourou_2001_cadet__Q05]]
 
 
 
@@ -250,11 +265,15 @@ Cutting off a ring to free them all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum product of two numbers of the set*
+*The smallest product of two numbers from a given set*
 
-> 6. Multiplying two numbers belonging to the set {−9, −7, −5, 2, 4, 6}, what is the minimum result that can be obtained? (A) −63 (B) −54 (C) −18 (D) −10 (E) 8.
+> 6. Multiplying two numbers belonging to the set {−9, −7, −5, 2, 4, 6}, what is the smallest result that can be obtained? (A) −63 (B) −54 (C) −18 (D) −10 (E) 8.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_cadet#q06|src_kangourou_2001_cadet__Q06]]
 
 
 
@@ -290,7 +309,7 @@ Cutting off a ring to free them all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*COM angle given OND of 60 degrees*
+*The measure of angle COM*
 
 ![[src_kangourou_2001_cadet__prob7.png]]
 
@@ -305,9 +324,12 @@ Cutting off a ring to free them all
 \end{document}
 ```
 
-> 7. ABCD is a square. What is the COM angle if the OND angle is 60°? (A) 10° (B) 15° (C) 20° (D) 30° (E) 35°.
+> 7. ABCD is a square. What is the measure of angle COM, if angle OND measures 60°? (A) 10° (B) 15° (C) 20° (D) 30° (E) 35°.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_cadet#q07|src_kangourou_2001_cadet__Q07]]
 
 
 
@@ -330,11 +352,14 @@ Cutting off a ring to free them all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time for the koala family together*
+*How long the three koalas take to eat the leaves together*
 
-> 8. A small koala eats the leaves of an entire eucalyptus tree in 10 hours. Both his father and mother eat twice as fast as he does. How long will the three members of the family together manage to eat all the leaves of the same tree? (A) two hours (B) three hours (C) four hours (D) five hours (E) six hours. Kangourou 15 March 2001, category Cadet. Page N.
+> 8. A little koala eats the leaves of a whole eucalyptus tree in 10 hours. Both his father and his mother eat twice as fast as he does. How long will the three members of the family together take to eat all the leaves of the same tree? (A) two hours (B) 3 hours (C) 4 hours (D) 5 hours (E) 6 hours. Kangourou 15 March 2001, Cadet category. Page no.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_cadet#q08|src_kangourou_2001_cadet__Q08]]
 
 
 
@@ -357,11 +382,14 @@ Cutting off a ring to free them all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of hexagon area and equilateral triangle*
+*The ratio of the area of a regular hexagon to that of an equilateral triangle*
 
-> 9. What is the ratio between the area of a regular hexagon with side 1 and the area of an equilateral triangle with side 3? 2 5 3 ( A ) (B) 2 (C) (D) (E) 1. 3 6 4
+> 9. What is the ratio of the area of a regular hexagon of side 1 to the area of an equilateral triangle of side 3? 2 5 3 ( A ) (B) 2 (C) (D) (E) 1. 3 6 4
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_cadet#q09|src_kangourou_2001_cadet__Q09]]
 
 
 
@@ -387,13 +415,17 @@ Cutting off a ring to free them all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trails from A to B without going back*
+*Paths from A to B that do not pass through any point more than once*
 
 ![[src_kangourou_2001_cadet__prob10.png]]
 
-> 10. How many different paths are possible to go from point A to point B in the figure, if no point is allowed to be crossed more than once? (A) 3 (B) 6 (C) 7 (D) 8 (E) more than 10. The questions from N. 11 to N. 20 are worth 4 points each.
+> 10. How many different possible paths are there from point A to point B in the figure, if one is not allowed to pass through any point more than once? (A) 3 (B) 6 (C) 7 (D) 8 (E) more than 10. Questions 11 to 20 are worth 4 points each
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_cadet#q10|src_kangourou_2001_cadet__Q10]]
 
 
 
@@ -417,11 +449,15 @@ Cutting off a ring to free them all
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Intersections of four circumferences*
+*In how many points four circles of radius 1 cm meet*
 
-> 11. The length of the side of a square placed on a plane is 1 cm. Each vertex of this square is the center of a circle of radius 1 cm, lying on the same plane. How many points in the plane do these circles intersect? (A) 6 (B) 8 (C) 10 (D) 12 (E) 14.
+> 11. The side of a square lying in a plane is 1 cm long. Each vertex of this square is the centre of a circle of radius 1 cm, lying in the same plane. In how many points of the plane do these circles meet? (A) 6 (B) 8 (C) 10 (D) 12 (E) 14.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_cadet#q11|src_kangourou_2001_cadet__Q11]]
 
 
 
@@ -444,11 +480,14 @@ Cutting off a ring to free them all
 <div class="qlang-split" data-lang="en"></div>
 
 
-Nuts by Nicholas and Michele
+*Who has more peanuts after two rounds of taking*
 
-> 12. On each of the two tables there are 2001 nuts. Nicholas gets the nuts from one table, Michael gets the nuts from the other. In the first round, Nicholas takes one nut every three; then, in the second round, he takes one every five of the remaining. In the first round, Michael takes one nut every five; in the second round, one every three of the remaining ones. At this point, what is the situation? (A) Nicholas has 3/5 of Michael's nuts (B) Michael has 3/5 of Nicholas' nuts (C) Michael has 1 more nut than Nicholas (D) Nicholas has 1 more nut than Michael (E) Michael and Nicholas have the same number of nuts.
+> 12. On each of two tables there are 2001 peanuts. Nicola gets the peanuts on one table, Michele those on the other. On the first round, Nicola takes one peanut in every three; then, on the second round, he takes one in every five of those remaining. On the first round, Michele removes one peanut in every five; on the second round, one in every three of those remaining. At this point, what is the situation? (A) Nicola has 3/5 of Michele's peanuts (B) Michele has 3/5 of Nicola's peanuts (C) Michele has 1 peanut more than Nicola (D) Nicola has 1 peanut more than Michele (E) Michele and Nicola have the same number of peanuts.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_cadet#q12|src_kangourou_2001_cadet__Q12]]
 
 
 
@@ -472,11 +511,15 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*M number in the expression 4xKLMNP4*
+*Which digit the letter M stands for*
 
-> 13. In the expression below, each of the letters K, L, M, N and P corresponds to one and only one decimal digit. What number corresponds to the letter M? 4 × K L M N P 4 = 4 K L M N P. Kangourou 15 March 2001, category Cadet. This item is not intended to be used. 3
+> 13. In the expression below, each of the letters K, L, M, N and P stands for one and only one decimal digit. Which digit corresponds to the letter M? 4 × K L M N P 4 = 4 K L M N P. Kangourou 15 March 2001, Cadet category. Page no. 3
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_cadet#q13|src_kangourou_2001_cadet__Q13]]
 
 
 
@@ -525,7 +568,7 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BED angle with CE maximum*
+*The measure of angle BED*
 
 ![[src_kangourou_2001_cadet__prob14.png]]
 
@@ -542,7 +585,7 @@ Nuts by Nicholas and Michele
 \end{document}
 ```
 
-> ABC is an equilateral triangle and B is the midpoint of the AD segment (see figure). A point E is chosen in the same plane so that DE = AB. We know that the distance between C and E is the maximum possible. What is the size of angle BED?
+> ABC is an equilateral triangle and B is the midpoint of the segment AD (see the figure). A point E is chosen in the same plane so that DE = AB. It is known that the distance between C and E is as large as possible. What is the measure of angle BED?
 >
 > - **(A)** 45°
 > - **(B)** 30°
@@ -550,7 +593,11 @@ Nuts by Nicholas and Michele
 > - **(D)** 15°
 > - **(E)** 10°.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_cadet#q14|src_kangourou_2001_cadet__Q14]]
 
 
 
@@ -584,9 +631,9 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Palindromic hours on a digital clock*
+*How often a digital clock shows a time that reads the same both ways*
 
-> A digital clock indicates hours (with two digits, for 24 hours) and minutes (even these with two digits). How many times between a minute after midnight (00:01) and a minute before midnight the following day (23:59) does the digital clock show the same time both reading from left to right and vice versa (for example, at 15:51)?
+> A digital clock shows the hours (with two digits, on a 24-hour clock) and the minutes (also with two digits). How many times between one minute after midnight (00:01) and one minute before the next midnight (23:59) does the digital clock show the same time whether read from left to right or the other way round (for example, at 15:51)?
 >
 > - **(A)** 10
 > - **(B)** 13
@@ -594,7 +641,11 @@ Nuts by Nicholas and Michele
 > - **(D)** 18
 > - **(E)** 24.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_cadet#q15|src_kangourou_2001_cadet__Q15]]
 
 
 
@@ -626,9 +677,9 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of the thirsty Desiree camel*
+*The weight of the camel Desirée when she is thirsty*
 
-> Whenever the Desirée camel is thirsty, 84 percent of its body is made up of water. After drinking, its weight reaches 800 kg and water makes up 85 percent of its weight. What's the weight of the Desirée camel when it's thirsty?
+> Whenever the camel Desirée is thirsty, 84% of her body consists of water. After drinking, her weight reaches 800 kg and water makes up 85% of her weight. What is the weight of the camel Desirée when she is thirsty?
 >
 > - **(A)** 672 kg
 > - **(B)** 680 kg
@@ -636,7 +687,10 @@ Nuts by Nicholas and Michele
 > - **(D)** 720 kg
 > - **(E)** 750 kg.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_cadet#q16|src_kangourou_2001_cadet__Q16]]
 
 
 
@@ -669,9 +723,9 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total turns when found*
+*Total laps when Eros and Gianni next cross the start line together*
 
-> Eros and Gianni are taking part in a track race. Each one runs at a constant speed: Eros makes 5 laps in 12 minutes; Gianni makes 3 laps in 10 minutes. Knowing that they started together from the starting line, after how many laps do they still cross the starting line together for the first time? It asks the total of the laps taken by the two.
+> Eros and Gianni take part in a race on a track. Each runs at a constant speed: Eros covers 5 laps in 12 minutes; Gianni covers 3 laps in 10 minutes. Given that they started together from the starting line, after how many laps do they next cross the starting line together for the first time? What is asked is the total of the laps run by the two of them.
 >
 > - **(A)** 3
 > - **(B)** 43
@@ -679,7 +733,10 @@ Nuts by Nicholas and Michele
 > - **(D)** 90
 > - **(E)** 135.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_cadet#q17|src_kangourou_2001_cadet__Q17]]
 
 
 
@@ -744,7 +801,7 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of ADB and ACB areas*
+*The ratio of the area of ADB to the area of ACB*
 
 ![[src_kangourou_2001_cadet__prob18.png]]
 
@@ -762,25 +819,35 @@ Nuts by Nicholas and Michele
 \end{document}
 ```
 
-> In the side drawing, the angle A is equal to the angle B and measures 90°; furthermore, the ratio between the area of ABCD and the area of ACB is 3. The question arises as to the relationship between the ADB area and the ACB area. .2
->  
+> In the drawing beside it, angle A equals angle B and measures 90°; moreover the ratio of the area of ABCD to the area of ACB is 3. What is asked is the ratio of the area of ADB to the area of ACB.
+> .2
+>
 > (E)
->       
-> 2 5
->  
+>
+> 2
+> 5
+>
 > (D)
->       
-> 1 (C)
->       
-> 2 3
->  
+>
+> 1
+> (C)
+>
+> 2
+> 3
+>
 > (B)
->      
-> 2 ) A (
-> 
-> Kangourou 15 March 2001, category Cadet. This item is not intended to be used. 5
+>
+> 2 )
+> A
+> (
+>
+> Kangourou 15 March 2001, Cadet category. Page no.
+> 5
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_cadet#q18|src_kangourou_2001_cadet__Q18]]
 
 
 
@@ -816,15 +883,11 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum product of faces at a vertex*
+*The greatest product of the three faces meeting at a vertex*
 
 ![[src_kangourou_2001_cadet__prob19.png]]
 
-> The figure alongside shows the net of a cube whose
-> faces have been numbered from 1 to 6. When three faces
-> determine a vertex of the cube, multiply together the
-> numbers that appear on the faces, thus obtaining 8
-> numbers.  Which is the largest of them?
+> The figure beside it shows the net of a cube whose faces have been numbered from 1 to 6. When three faces determine a vertex of the cube, multiply together the numbers on those faces, thus obtaining 8 numbers. What is the greatest of them?
 >
 > - **(A)** 40
 > - **(B)** 60
@@ -832,7 +895,11 @@ Nuts by Nicholas and Michele
 > - **(D)** 90
 > - **(E)** 120.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_cadet#q19|src_kangourou_2001_cadet__Q19]]
 
 
 
@@ -873,29 +940,23 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Net meshes with knots and sinkers*
+*How many meshes a net with 32 interior knots and 28 weights has*
 
 ![[src_kangourou_2001_cadet__prob20.png]]
 
-> A fisherman builds a net with
-> square
-> meshes
-> by himself.
-> By sewing it
-> he
-> made
-> exactly 32 knots inside and put 28
-> sinkers on the perimeter of the net. How many meshes
-> does that net have? (in the drawing there are 6 knots, 14 sinkers and 12
-> meshes)
+> A fisherman builds a net with square meshes by himself. In sewing it he made exactly 32 knots in the interior and put 28 weights on the perimeter of the net. How many meshes does that net have? (in the drawing there are 6 knots, 14 weights and 12 meshes)
 >
 > - **(A)** 40
 > - **(B)** 45
 > - **(C)** 54
 > - **(D)** 60
-> - **(E)** 64. Questions from No. 21 to No. 30 are worth 5 points each
+> - **(E)** 64. Questions 21 to 30 are worth 5 points each
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_cadet#q20|src_kangourou_2001_cadet__Q20]]
 
 
 
@@ -927,9 +988,9 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Impossible number of parts with 4 cuts*
+*Which number cannot be the number of pieces of a cake cut by 4 straight cuts*
 
-> Which of the following numbers cannot in any case be the number of parts to be obtained by cutting a round cake with 4 different straight knife cuts?
+> Which of the following numbers cannot in any case be the number of pieces obtained by cutting a round cake with 4 different straight cuts of a knife?
 >
 > - **(A)** 5
 > - **(B)** 7
@@ -937,7 +998,11 @@ Nuts by Nicholas and Michele
 > - **(D)** 11
 > - **(E)** 12.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_cadet#q21|src_kangourou_2001_cadet__Q21]]
 
 
 
@@ -972,9 +1037,9 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum final score of Joey*
+*The least possible final score after discarding Joey's lowest jump*
 
-> In a kangaroo jump competition, each participant performs 5 jumps. Each jump is rated on a score of 1 to 20. The leap with the lowest score (or one of the leaps that received the same lowest score, if more than one) is not counted in the final score. Before we discarded the lowest-scoring jump, the sum of the scores for Joey's five jumps was 72. So the final score is at least
+> In a jumping competition for kangaroos, each participant makes 5 jumps. Each jump is scored with a mark between 1 and 20. The jump with the lowest score (or one of the jumps that obtained the same lowest score, if there is more than one) is not counted in the final score. Before discarding the jump with the lowest score, the sum of the scores for Joey's 5 jumps was 72. Then the final score is at least
 >
 > - **(A)** 52
 > - **(B)** 54
@@ -982,7 +1047,11 @@ Nuts by Nicholas and Michele
 > - **(D)** 58
 > - **(E)** 72.
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_cadet#q22|src_kangourou_2001_cadet__Q22]]
 
 
 
@@ -1024,11 +1093,15 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of points on the surface of the talisman*
+*The sum of the pips on the surface of a charm of seven dice*
 
-> Maddalena builds a talisman by gluing seven dice to each other according to the following rule: two faces with the same number of dots are glued to each other. As she plays with her masterpiece, it slides into a bucket containing white paint. Taking out the talisman, Maddalena realizes that all the dots have disappeared. What was the sum of all the dots on the talisman's surface? (In a die the sum of the points on opposite sides is always 7.)
+> Maddalena builds a charm by gluing seven dice together according to the following rule: glue together two faces that have the same number of pips. While she is playing with her masterpiece, it slips into a bucket of white paint. When she takes the charm out, Maddalena notices that all the pips have disappeared. What did the sum of all the pips on the surface of the charm amount to? (On a die, the pips on opposite faces always add up to 7.)
+> Knots
+> mesh
+> Weights
 >
-> Kangourou 15 March 2001, category Cadet. This item is not intended to be used. 6
+> Kangourou 15 March 2001, Cadet category. Page no.
+> 6
 >
 > - **(A)** 95
 > - **(B)** 102
@@ -1036,7 +1109,11 @@ Nuts by Nicholas and Michele
 > - **(D)** 112
 > - **(E)** 126.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_cadet#q23|src_kangourou_2001_cadet__Q23]]
 
 
 
@@ -1067,7 +1144,7 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First digit of the minimum number with sum 2001*
+*The first digit of the smallest natural number whose digits sum to 2001*
 
 > What is the first digit of the smallest natural number the sum of whose digits is 2001?
 >
@@ -1077,7 +1154,11 @@ Nuts by Nicholas and Michele
 > - **(D)** 4
 > - **(E)** 5.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_cadet#q24|src_kangourou_2001_cadet__Q24]]
 
 
 
@@ -1112,11 +1193,11 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum and maximum cubes from view*
+*The least and greatest number of little cubes compatible with the views*
 
 ![[src_kangourou_2001_cadet__prob25.png]]
 
-> Next to it you have the view from the left and front of a building made by placing small cubes side by side. How many cubes were used? The minimum and maximum number of cubes compatible with the illustrations shown shall be required.
+> Beside it you have the view from the left and the front view of a construction obtained by placing small cubes side by side. How many little cubes were used? What is asked is the least number and the greatest number of little cubes compatible with the pictures shown.
 >
 > - **(A)** 7 and 13
 > - **(B)** 8 and 13
@@ -1124,7 +1205,11 @@ Nuts by Nicholas and Michele
 > - **(D)** 7 and 16
 > - **(E)** 8 and 16.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_cadet#q25|src_kangourou_2001_cadet__Q25]]
 
 
 
@@ -1154,11 +1239,19 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total 102 empty boxes given*
+*How many boxes there are in all, if 102 are empty*
 
-> I have 11 large boxes: some of them contain 8 medium boxes each, some of the medium boxes in turn contain 8 small boxes each. If the empty boxes (of varying size) are 102, how many boxes are there in total (regardless of size)? (A) 102 B 64 C 118 D 115 E cannot be answered.
+> I have 11 large boxes: some of them contain 8 medium boxes each, and some of the medium boxes in turn contain 8 small boxes each. If the empty boxes (of various sizes) are 102, how many boxes are there in all (regardless of size)?
+> (A) 102
+> (B) 64
+> (C) 118
+> (D) 115
+> (E) it is not possible to answer.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_cadet#q26|src_kangourou_2001_cadet__Q26]]
 
 
 
@@ -1191,9 +1284,9 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hexagons of the football*
+*How many hexagons a football has*
 
-> A soccer ball is sewn with pieces of leather shaped like a regular pentagon or regular hexagon. Each pentagon is surrounded by five hexagons and each hexagon is surrounded by three pentagons and three hexagons. The ball has 12 pentagons. How many hexagons does it have?
+> A football is sewn from pieces of leather in the shape of a regular pentagon or a regular hexagon. Each pentagon is surrounded by 5 hexagons, and each hexagon is surrounded by 3 pentagons and 3 hexagons. The ball has 12 pentagons. How many hexagons must it have?
 >
 > - **(A)** 60
 > - **(B)** 30
@@ -1201,7 +1294,11 @@ Nuts by Nicholas and Michele
 > - **(D)** 15
 > - **(E)** 10.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_cadet#q27|src_kangourou_2001_cadet__Q27]]
 
 
 
@@ -1232,9 +1329,9 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of children with a product age 1664*
+*How many children, given the product of their ages*
 
-> The product of the ages of my children (in years) is 1664. The youngest is half the age of the oldest, and there are no twins. How many children do I have?
+> The product of my children's ages (in years) is 1664. The youngest is half as old as the eldest, and there are no twins. How many children do I have?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -1242,7 +1339,11 @@ Nuts by Nicholas and Michele
 > - **(D)** 5
 > - **(E)** 6.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_cadet#q28|src_kangourou_2001_cadet__Q28]]
 
 
 
@@ -1275,9 +1376,9 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Groups bound by Federico-Daniel*
+*How many groups can go to the concert if Federico goes only with Daniele*
 
-> There are 10 kids in a class. Next Saturday, there's going to be a big rock concert at a club in town. How many different groups can the boys form, to attend the concert, if Federico will go to the concert only in case his classmate Daniel goes too?
+> There are 10 boys in a class. Next Saturday there will be an important rock concert in a venue in the city. How many different groups can the boys form, to attend the concert, if Federico will go to the concert only if his classmate Daniele goes too?
 >
 > - **(A)** 512
 > - **(B)** 640
@@ -1285,7 +1386,11 @@ Nuts by Nicholas and Michele
 > - **(D)** 768
 > - **(E)** 1024.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_cadet#q29|src_kangourou_2001_cadet__Q29]]
 
 
 
@@ -1320,14 +1425,18 @@ Nuts by Nicholas and Michele
 <div class="qlang-split" data-lang="en"></div>
 
 
-The stones to be taken to win
+*How many pebbles Andrea must take first to be sure of winning*
 
-> Andrea and Nicola play as follows: they take turns taking from a pile of stones some of these up to a maximum of 7. You're not allowed to take as many stones as your opponent took on the last move. Whoever can't move loses. Starting with a bunch of 20 stones, how many stones does Andrea have to take on the first move if he wants to be sure of victory, knowing that he and Nicola will play the best they can?
+> Andrea and Nicola play as follows: they take turns removing some pebbles from a pile, up to a maximum of 7. It is not allowed to take as many pebbles as the opponent took on the last move. The one who can no longer move loses. Starting from a little pile of 20 pebbles, how many pebbles must Andrea take on the first move if he wants to be sure of winning, given that he and Nicola will both play as well as possible?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
-> - **(E)** 5. 1 Answers Category Cadet Competition of 15 March 2001
+> - **(E)** 5. 1 Answers, Cadet category, contest of 15 March 2001
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_cadet#q30|src_kangourou_2001_cadet__Q30]]

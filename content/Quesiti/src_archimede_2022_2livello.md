@@ -42,17 +42,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Packing to minimize travel, together points*
+*Set of points where parking minimizes the walk*
 
-> Viale Marconi is 800m long; 200m from one end there is a parking meter, 100m from the opposite end there is a clothing store. Astolfo wants to park his car, get a ticket to the parking meter, return to the car to display it on the windshield, visit the store, and finally return to the car. Besides, he is lazy and therefore wants to walk as little as possible; where does he have to park to do so? Indicate the total number of points on the sidewalk that minimize the distance Astolfo must walk.
+> Viale Marconi is 800m long; 200m from one end there is a parking meter, and 100m from the opposite end there is a clothes shop. Astolfo wants to park his car, take a ticket at the parking meter, return to the car to display it on the windshield, visit the shop, and finally return to the car. He is also lazy and therefore wants to walk as little as possible; where should he park in order to do so? Indicate the set of points of the avenue that minimize the distance Astolfo must cover on foot.
 >
-> - **(A)** The point in front of the parking meter
-> - **(B)** The spot in front of the store
-> - **(C)** The midpoint between the parking meter and the store
-> - **(D)** All points of the avenue
-> - **(E)** All points on the sidewalk between the parking meter and the store.
+> - **(A)** the point in front of the parking meter
+> - **(B)** the point in front of the shop
+> - **(C)** the midpoint between the parking meter and the shop
+> - **(D)** every point of the avenue
+> - **(E)** every point of the stretch of the avenue lying between the parking meter and the shop.
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2022_2livello#q01|src_archimede_2022_2livello__Q01]]
 
 
 
@@ -83,9 +87,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of first 2022 figures of 57/111*
+*Sum of the first 2022 digits of 57/111*
 
-> The result of dividing 57 by 111 is a number of the form 0, . . . with infinite numbers after the comma. What is the sum of the first 2022 digits after the comma?
+> The result of dividing 57 by 111 is a number of the form 0. . . . with infinitely many digits after the decimal point. What is the sum of the first 2022 digits after the decimal point?
 >
 > - **(A)** 3033
 > - **(B)** 4044
@@ -93,7 +97,11 @@ level: 2 livello
 > - **(D)** 6066
 > - **(E)** 7077
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2022_2livello#q02|src_archimede_2022_2livello__Q02]]
 
 
 
@@ -128,9 +136,7 @@ level: 2 livello
 
 *Four tangent circles, radius of the fourth*
 
-![[src_archimede_2022_2livello__prob3.png]]
-
-> Three unit radius circles are tangent to each other and a fourth circle is tangent to all three, and does not enclose them. How much is the radius of the fourth circumference?
+> Three unit-radius circles are tangent to one another, and a fourth circle is tangent to all three, and does not enclose them. What is the radius of the fourth circle?
 >
 > - **(A)** √ 3+1 24
 > - **(B)** 1 8
@@ -138,7 +144,11 @@ level: 2 livello
 > - **(D)** 2 √ 3 3 −1
 > - **(E)** √ 3−1 4
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2022_2livello#q03|src_archimede_2022_2livello__Q03]]
 
 
 
@@ -169,17 +179,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial with p(a) + p(b) + p(c) = p(674), value of p(2022)*
+*Value of p(2022) given p(a)+p(b)+p(c)=p(674)*
 
-> The polynomial p(x) has the following property: for each set of integers a, b, c such that a+b+c = 2022 we have that p(a) + p(b) + p(c) = p(674). It is also known that p(0) = −2696. How much is it worth?
+> The polynomial p(x) has the following property: for every triple of integers a, b, c such that a+b+c = 2022, one has p(a) + p(b) + p(c) = p(674). It is also known that p(0) = −2696. What is the value of p(2022)?
 >
 > - **(A)** −2696
 > - **(B)** 674
 > - **(C)** 5392
 > - **(D)** 8088
-> - **(E)** It is not possible to determine this with the data provided.
+> - **(E)** it cannot be determined from the data given.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2022_2livello#q04|src_archimede_2022_2livello__Q04]]
 
 
 
@@ -211,17 +225,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three 30 divisors with first consecutive MCDs*
+*Ways to write three divisors of 30 with prime consecutive MCDs*
 
-> Lucia wants to write three positive integers a, b, c so that each of them is a divisor of 30 and that the maximum common divisors between two consecutive terms (i.e. MCD(a, b) and MCD(b, c)) are prime numbers. How many ways can you do that?
+> Lucia wants to write three positive integers a, b, c so that each of them is a divisor of 30 and the greatest common divisors of two consecutive terms (that is, MCD(a, b) and MCD(b, c)) are prime numbers. In how many ways can she do this?
 >
 > - **(A)** 69
 > - **(B)** 72
 > - **(C)** 105
 > - **(D)** 27
-> - **(E)** None of the above.
+> - **(E)** none of the above.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2022_2livello#q05|src_archimede_2022_2livello__Q05]]
 
 
 
@@ -253,11 +271,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Isosceles triangle, two heights, area*
+*Isosceles triangle, two altitudes, area*
 
-![[src_archimede_2022_2livello__prob6.png]]
-
-> So ABC is an isosceles triangle with AB = AC. The height out of A is 15 and the height out of B is 24. How much is the ABC area?
+> ABC is an isosceles triangle with AB = AC. The altitude from A measures 15 while the altitude from B measures 24. What is the area of ABC?
 >
 > - **(A)** 180
 > - **(B)** 300
@@ -265,7 +281,10 @@ level: 2 livello
 > - **(D)** 200 √ 3
 > - **(E)** 320
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2022_2livello#q06|src_archimede_2022_2livello__Q06]]
 
 
 
@@ -299,9 +318,11 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Setting of x and y equal to 7xy, sum of x+y*
+*Concatenation of x and y equals 7xy, sum x+y*
 
-> On the board is written the multiplication x × y, where x and y are three-digit positive integers. Nicolás, a bit sloppy, did not notice the symbol of multiplication and copied on his notebook the six-digit number obtained by juxtaposing x and y. The teacher, passing between the benches, notices Nicolò that the number he writes is equal to 7 times the product xy. How much is the sum of x plus y?
+> On the blackboard is written the multiplication x × y, where x and y are three-digit positive integers.
+> Nicolò, a bit absent-minded, did not notice the multiplication symbol and copies into his notebook
+> the six-digit number obtained by concatenating x and y. The teacher, passing between the desks, points out to Nicolò that the number he wrote is equal to 7 times the product xy. What is the value of the sum x + y?
 >
 > - **(A)** 125
 > - **(B)** 286
@@ -309,7 +330,11 @@ level: 2 livello
 > - **(D)** 487
 > - **(E)** 513
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2022_2livello#q07|src_archimede_2022_2livello__Q07]]
 
 
 
@@ -347,19 +372,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total amount of the loan.
+*Value of k in a match of Riemannian ball*
 
-> In a Riemannian football match, two teams face each other; at any given time, each row in the field k > 1 players. At the end of each action, a point is awarded to one of the two teams; in addition, each team can make an arbitrary number of substitutions before the next action begins. Alice and Barbara are part of the Geodetic team. At the end of today's game, Alice notes that while she was on the field, Geodetic won
->
-> 7 more shares than they lost. When Barbara was on the field, they lost two more shares than they won. Each of the other Geodetic players has participated in as many winning actions as losing. How much is k?
+> In a match of Riemannian ball, two teams face each other; at any moment, each fields k > 1 players. At the end of each action a point is awarded to one of the two teams; moreover, each team may make any number of substitutions before the next action begins. Alice and Barbara are on the Geodesics. At the end of today's match, Alice observes that, while she was on the field, the Geodesics won 7 more actions than they lost. While Barbara was on the field, instead, they lost 2 more actions than they won. Each of the other Geodesics players took part in as many winning actions as losing ones. What is the value of k?
 >
 > - **(A)** 3
 > - **(B)** 5
 > - **(C)** 6
 > - **(D)** 9
-> - **(E)** There's not enough data to determine that.
+> - **(E)** the data are not sufficient to determine it.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2022_2livello#q08|src_archimede_2022_2livello__Q08]]
 
 
 
@@ -391,9 +418,11 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Recurring succession, minimum n with a_n divisible by 2022*
+*Recursive sequence, smallest n with a_n divisible by 2022*
 
-> Let's put a1 = 1 and, for every n ≥2, an = n(a1 + a2 + · · + an−1). What is the smallest value of n by which an is divisible by 2022?
+> Let a1 = 1 and, for every n ≥ 2,
+> an = n(a1 + a2 + · · + an−1).
+> What is the smallest value of n for which an is divisible by 2022?
 >
 > - **(A)** 47
 > - **(B)** 289
@@ -401,7 +430,11 @@ This is the total amount of the loan.
 > - **(D)** 2022
 > - **(E)** 2023
 
-**Answer:** C
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2022_2livello#q09|src_archimede_2022_2livello__Q09]]
 
 
 
@@ -431,17 +464,20 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Points of 2 from 1 to 2^100 starting with 1*
+*Number of powers of 2 from 1 to 2100 that start with 1*
 
-> Maddalena writes on a sheet all the powers of 2 from 1 to 2100 (extremes included). How many of the numbers you wrote start with 1?
+> Maddalena writes on a sheet all the powers of 2 from 1 to 2100 (endpoints included). How many of the numbers she has written start with 1?
 >
-> - **(A)** 28 or less
+> - **(A)** 28 or fewer
 > - **(B)** 29
 > - **(C)** 30
 > - **(D)** 31
 > - **(E)** 32 or more.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2022_2livello#q10|src_archimede_2022_2livello__Q10]]
 
 
 
@@ -478,9 +514,9 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Families of π chicks, total possibility after 7 nesting*
+*Families of πcchi, total possibilities after 7 nestings*
 
-> π chi are animals that live in families of 1, 2 or 3 individuals. A family of 3 π chi were originally imported into Italy. A family of n π which reproduces by increasing 2n −2 new individuals, forming a total of 3n −2, and dividing into new families (not necessarily two families with the same number of individuals divide equally). All families reproduce simultaneously at each nest. For example, after the first nest there are necessarily seven π chi, which could be divided into three families of two and one of one, or into one of three and two of two, or into seven of one, etc. What are the chances for the total number of π chi after the seventh nesting?
+> πcchi are animals that live in families of 1, 2 or 3 individuals. Originally a family of 3 πcchi was imported into Italy. A family of $n$ πcchi reproduces by growing $2n - 2$ new individuals, forming a total of $3n - 2$, and dividing into new families (not necessarily two families with the same number of individuals divide in the same way). All families reproduce simultaneously at each nesting. For example, after the first nesting there are necessarily seven πcchi, which could be divided into three families of two and one of one, or in one of three and two of two, or in seven of one, etc. How many are the possibilities for the total number of πcchi after the seventh nesting?
 >
 > - **(A)** 129
 > - **(B)** 253
@@ -488,7 +524,11 @@ This is the total amount of the loan.
 > - **(D)** 27+37+1 2
 > - **(E)** 37
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2022_2livello#q11|src_archimede_2022_2livello__Q11]]
 
 
 
@@ -522,19 +562,21 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle inside hexagon, length of route from the vertex*
+*Length travelled by the unconstrained vertex of an equilateral triangle inside a hexagon*
 
-![[src_archimede_2022_2livello__prob12.png]]
-
-> Give a regular hexagon on side 1. Consider an equilateral triangle of side 1 inside the hexagon, with two vertices bound to the perimeter of the hexagon. So we move the equilateral triangle so that one of the two vertices that are bound makes exactly one spin along the perimeter of the hexagon. What is the length of the unbounded summit?
+> Let a regular hexagon of side 1 be given. Consider an equilateral triangle of side 1 inside the hexagon, with two vertices constrained to the perimeter of the hexagon. We move the equilateral triangle so that one of the two constrained vertices completes exactly one lap along the perimeter of the hexagon. What is the length travelled by the unconstrained vertex?
 >
 > - **(A)** π/2
 > - **(B)** π √ 3 3
 > - **(C)** 8 √ 3 −12
 > - **(D)** (4 √ 3 −6)π
-> - **(E)** None of the above. Problems with numerical answer  5 points
+> - **(E)** none of the above.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2022_2livello#q12|src_archimede_2022_2livello__Q12]]
 
 
 
@@ -590,42 +632,17 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hexagonal table, rectangular tablecloth, table area*
+*Area of a regular hexagonal table covered between opposite sides by a rectangular cloth*
 
 ![[src_archimede_2022_2livello__prob13.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=2]
-  \coordinate (A) at (-0.5,-0.866);
-  \coordinate (B) at (0.5,-0.866);
-  \coordinate (C) at (1,0);
-  \coordinate (D) at (0.5,0.866);
-  \coordinate (E) at (-0.5,0.866);
-  \coordinate (F) at (-1,0);
-  \coordinate (O) at (0,0);
-  \coordinate (K) at (-0.5,0);
-  \coordinate (H) at (0.5,0);
-  \fill[gray!30] (A) -- (B) -- (D) -- (E) -- cycle;
-  \draw (A)--(B)--(C)--(D)--(E)--(F)--cycle;
-  \draw (E)--(A) (D)--(B) (F)--(C) (A)--(D) (E)--(B);
-  \foreach \p in {A,B,C,D,E,F,O,K,H} \fill (\p) circle (0.02);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[right] at (C) {$C$};
-  \node[above right] at (D) {$D$};
-  \node[above left] at (E) {$E$};
-  \node[left] at (F) {$F$};
-  \node[below right] at (O) {$O$};
-  \node[below left] at (K) {$K$};
-  \node[below right] at (H) {$H$};
-\end{tikzpicture}
-\end{document}
-```
+> Lucio buys a table in the shape of a regular hexagon and a rectangular tablecloth of area 1024 cm2, whose shorter side equals the side of the hexagon and which covers exactly the portion of the table lying between two opposite sides. What is the area of the table, in cm2?
 
-> Lucio purchases a regular hexagon table and a rectangular tablecloth with an area of 1024 cm2 which has a smaller side equal to the side of the hexagon and covers exactly the portion of table between two opposite sides. What is the area of the table, expressed in cm2?
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
-**Answer:** 1536
+[[Quesiti/src_archimede_2022_2livello#q13|src_archimede_2022_2livello__Q13]]
 
 
 
@@ -655,11 +672,16 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interi n for which the sum of the seed potencies is integer*
+*Integers n for which the sum of half-integer powers is an integer*
 
-> How many positive integers are n for which 2022 + 1 2 n + 25 + 1 2 n is an integer?
+> How many positive integers n are there for which
+> $\frac{2022 + 1}{2}^n + \frac{25 + 1}{2}^n$ is an integer?
 
-**Answer:** 6
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2022_2livello#q14|src_archimede_2022_2livello__Q14]]
 
 
 
@@ -694,9 +716,23 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Petalose numbers, maximum flower, not divisible by 13*
+*Petal numbers, maximum bloom, not divisible by 13*
 
-> A number of three digits, different from each other and not zero (say abc), is said to be petalose if there exists an integer n ≥1 such that the number cba 00 · · 0 . The smallest n that makes this divisibility true is called an abc flower. I'll give you an example. The number 132 is petallic, since 132 divides 23100. Since 23100/132 = 175 is an integer but 2310/132 = 17.5 is not, the flower of 132 is 2. (a) Whether abc is a number of three digits (different from each other and not zero) of the form 2x ·3y ·5z with x, y, z nonnegative integers and y ≤2. To prove that ABC is petal. (b) What is the maximum value of a flower of a petal-shaped (three-digit) number? (c) Whether or not a petalled number. Prove that abc is not divisible by 13.
+> PROOF EXERCISE
+> A three-digit number, with distinct and non-zero digits (let us call it abc), is called petaloso if there exists an integer n ≥ 1 such that the number cba 00 · · 0
+> | {z }
+> n zeros
+> is a multiple of abc. The smallest n that makes this divisibility true is called the bloom of abc.
+> Example. The number 132 is petaloso, since 132 divides 23100. Since 23100/132 = 175 is an integer but 2310/132 = 17.5 is not, the bloom of 132 is 2.
+> (a) Let abc be a three-digit number (with distinct and non-zero digits) of the form 2x ·3y ·5z with x, y, z non-negative integers and y ≤ 2. Prove that abc is petaloso.
+> (b) What is the maximum possible bloom of a petaloso number (of three digits)?
+> (c) Let abc be a petaloso number. Prove that abc is not divisible by 13.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2022_2livello#q15|src_archimede_2022_2livello__Q15]]
 
 
 
@@ -729,11 +765,19 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle, beam, projections, isosceles ADH*
+*Triangle, angle bisector, projections, isosceles ADH*
 
-![[src_archimede_2022_2livello__prob16.png]]
+> PROOF EXERCISE
+> Let ABC be a triangle, let r be the internal bisector of the acute angle BAC, and let K be the projection of B onto r, L the projection of K onto AB, and D the reflection of B with respect to L. Finally, let H be the foot of the altitude of triangle ABC from B. Prove that:
+> (a) BH = 2LK;
+> (b) KA bisects the angle HKD;
+> (c) triangle ADH is isosceles.
 
-> Whether ABC is a triangle, whether r is the inner beam of the acute angle \ BAC and whether K is the projection of B on r, L is the projection of K on AB and D is the symmetrical of B with respect to L. Let's call H the foot of the height of the ABC triangle coming out of B. Demonstrate that: (a) BH = 2LK; (b) KA bisects the angle \ HKD; (c) the triangle ADH is isosceles.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2022_2livello#q16|src_archimede_2022_2livello__Q16]]
 
 
 
@@ -762,6 +806,18 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Color first quadrant with semicircle, monochromatic*
+*Colouring the first quadrant with rays, monochromatic*
 
-> The first quadrant of the Cartesian plane is the set of points (x, y) with x and y strictly positive real numbers (i.e. x > 0, y > 0). Each point in the first quadrant is colored red or blue. In addition, for each point P = (x, y) of the first quadrant, all points on the semicircle exiting from P with slope y (i.e. the semicircle originating in P and passing through the coordinate point (x + 1, 2y)) have the same color as P. Prove that all points in the first quadrant have the same color.
+> DEMONSTRATION EXERCISE
+> The first quadrant of the Cartesian plane is the set of points (x, y) with x and y real numbers
+> strictly positive (that is, x > 0, y > 0). Each point of the first quadrant is coloured red
+> or blue. Moreover, for every point P = (x, y) of the first quadrant, all the points on the ray
+> emanating from P with slope y (that is, the ray with origin at P and passing through the point
+> with coordinates (x + 1, 2y)) have the same colour as P. Prove that all the points of the first
+> quadrant have the same colour.
+
+
+**Topic:** [[topic_geometria_analitica|Analytic geometry]], [[topic_insiemi_funzioni|Sets and functions]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2022_2livello#q17|src_archimede_2022_2livello__Q17]]

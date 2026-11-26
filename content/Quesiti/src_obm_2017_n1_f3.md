@@ -35,15 +35,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Corse di auto: tabella di posizioni dopo il giro 17, recupero della griglia di partenza e determinazione del podio a partire dai tempi del giro*
+*Gara automobilistica: classifica delle posizioni dopo il giro 17, recupero della griglia di partenza e determinazione del podio in base ai tempi sul giro*
 
-> Nelle gare automobilistiche è comune mostrare la posizione dei piloti in ogni giro della gara, rispetto all'ordine di partenza. A tal fine, i simboli $-0$ indicano che la posizione è la stessa di quando si inizia, $\wedge$ accanto a un numero che indica quante posizioni il conducente si è spostato verso l'alto rispetto alla partenza e $\vee$ accanto a un numero che indica quante posizioni il conducente è caduto rispetto alla partenza. Inoltre, viene utilizzata un'abbreviazione dei nomi dei conducenti. Nel giro $17$ di una gara $25$, le posizioni dei primi dieci piloti erano le seguenti:
-> 
+> Nelle corse automobilistiche, è comune mostrare la posizione dei piloti in ciascun giro di gara rispetto all'ordine di partenza. A tal fine, si usano i simboli $-0$ per indicare che la posizione è la stessa di quella di partenza, $\wedge$ accanto a un numero che indica di quante posizioni il pilota è salito rispetto alla partenza, e $\vee$ accanto a un numero che indica di quante posizioni il pilota è retrocesso rispetto alla partenza. Inoltre, si utilizza una forma abbreviata dei nomi dei piloti. Al giro $17$ di una gara di $25$ giri, le posizioni dei primi dieci piloti erano le seguenti:
+>
 > $$\begin{array}{|c|l|}\hline \multicolumn{2}{|c|}{\text{Lap } 17/25} \\ \hline \textbf{Position} & \textbf{Driver} \\ \hline 1 & \text{PRE} \;\; -0 \\ 2 & \text{SAP} \;\; \wedge 2 \\ 3 & \text{BET} \;\; \wedge 3 \\ 4 & \text{ICO} \;\; \vee 1 \\ 5 & \text{ROI} \;\; \vee 3 \\ 6 & \text{FRE} \;\; \vee 1 \\ 7 & \text{LEM} \;\; -0 \\ 8 & \text{ARE} \;\; \wedge 2 \\ 9 & \text{DON} \;\; \wedge 7 \\ 10 & \text{JEZ} \;\; \vee 2 \\ \hline \end{array}$$
-> 
-> a) Scrivere i nomi abbreviati dei primi cinque piloti nell'ordine di partenza della gara e le rispettive posizioni.
-> 
-> b) Dal giro $17$ fino alla fine della gara, i primi tre piloti riescono a mantenere la loro durata per giro: PRE fa ogni giro in $2\text{ min }01\text{ s}$, SAP fa ogni giro in $1\text{ min }59\text{ s}$ e BET fa ogni giro in $1\text{ min }58\text{ s}$. Alla fine del giro $17$, SAP era $15\text{ s}$ dietro PRE e BET era $18\text{ s}$ dietro PRE. Considerando che questi tre piloti compongono il podio e che il pilota più veloce riesce sempre a superare un pilota più lento davanti a lui, spiegate chi ha vinto la gara e quali piloti hanno preso il secondo e il terzo posto.
+>
+> a) Scrivi i nomi abbreviati dei primi cinque piloti nell'ordine di partenza della gara e le rispettive posizioni.
+>
+> b) Dal giro $17$ fino alla fine della gara, i primi tre piloti riescono a mantenere i propri tempi per giro: PRE completa ogni giro in $2\text{ min }01\text{ s}$, SAP completa ogni giro in $1\text{ min }59\text{ s}$ e BET completa ogni giro in $1\text{ min }58\text{ s}$. Al termine del giro $17$, SAP era $15\text{ s}$ dietro a PRE e BET era $18\text{ s}$ dietro a PRE. Considerando che questi tre piloti hanno occupato il podio e che il pilota più veloce è sempre riuscito a sorpassare un pilota più lento davanti a sé, spiega chi ha vinto la gara e quali piloti si sono classificati al secondo e al terzo posto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2017_n1_f3#q01|src_obm_2017_n1_f3__Q01]]
 
 
 
@@ -72,15 +79,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per costruire un cubo di 27 cm3 e un cubo di 64 cm3 da cubetti di lato 1, 2, 3 cm*
+*Conta i modi per costruire un cubo di 27 cm³ e un cubo di 64 cm³ usando cubi di lato 1, 2, 3 cm*
 
-> Jacira ha molti piccoli cubetti i cui lati misurano $1\text{ cm}$, $2\text{ cm}$ o $3\text{ cm}$. Quindi, ad esempio, ha due modi diversi per ottenere un cubo il cui volume è $8\text{ cm}^3$: uno di essi è quello di costruire un cubo con $8$ cubi di lato $1\text{ cm}$ e l'altro è semplicemente quello di prendere un cubo di lato $2\text{ cm}$, come mostrato nella figura. Si noti che due cubes dello stesso volume vengono ottenuti in modi diversi se, e solo se, sono assemblati con diversi numeri di cubes.
-> 
+> Jacira possiede molti cubi piccoli i cui spigoli misurano $1\text{ cm}$, $2\text{ cm}$ o $3\text{ cm}$. Pertanto, ad esempio, ha due modi diversi per ottenere un cubo il cui volume è $8\text{ cm}^3$: uno consiste nel costruire un cubo con $8$ cubi di spigolo $1\text{ cm}$, l'altro consiste semplicemente nel prendere un cubo di spigolo $2\text{ cm}$, come mostrato nella figura. Si noti che due cubi di uguale volume vengono ottenuti in modi diversi se, e solo se, vengono assemblati con un numero diverso di cubi.
+>
 > a) In quanti modi diversi può ottenere un cubo con volume $27\text{ cm}^3$?
-> 
+>
 > b) In quanti modi diversi può ottenere un cubo di volume $64\text{ cm}^3$?
 
 ![[src_obm_2017_n1_f3__q02.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_obm_2017_n1_f3#q02|src_obm_2017_n1_f3__Q02]]
 
 
 
@@ -110,15 +124,23 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sistema di numeri "Impas" a soli cifre limitate: scrivere 20 e 2017, e calcolare una moltiplicazione*
+*Sistema numerico 'Impas' basato solo su cifre dispari: scrivi 20 e 2017, e calcola una moltiplicazione*
 
-> Nel Paese degli Impas, solo cifre rare vengono usate per contare e scrivere numeri. Pertanto, invece dei numeri $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$, le Impas hanno i numeri corrispondenti $1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 31, 33, \ldots$ (nota che i numeri delle Impas hanno solo cifre odd). Ad esempio, se un bambino ha $11$ anni, gli Impas direbbero che ha $31$ anni.
-> 
+> Nella Terra degli Impas, per contare e scrivere i numeri si usano solo cifre dispari. Pertanto, invece dei numeri $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$, gli Impas hanno i numeri corrispondenti $1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 31, 33, \ldots$ (si noti che i numeri degli Impas hanno solo cifre dispari). Ad esempio, se un bambino ha $11$ anni, gli Impas direbbero che ha $31$ anni.
+>
 > a) Come scrivono gli Impas il nostro numero $20$?
-> 
-> b) In una scuola di quel paese, l'insegnante scrisse sulla lavagna la piccola moltiplicazione qui sotto. Se fossi uno studente di Impa, cosa scriveresti come risultato? $$\begin{array}{r} 13 \\ \times \, 5 \\ \hline \end{array}$$
-> 
-> c) Scrivi, nella lingua degli Impas, il numero che nella nostra normale rappresentazione decimale è scritto come $2017$.
+>
+> b) In una scuola di quella terra, l'insegnante ha scritto sulla lavagna la piccola moltiplicazione qui sotto. Se fossi uno studente di Impa, cosa scriveresti come risultato?
+> $$\begin{array}{r} 13 \\ \times \, 5 \\ \hline \end{array}$$
+>
+> c) Scrivi, nella lingua degli Impas, il numero che nella nostra consueta rappresentazione decimale è scritto come $2017$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2017_n1_f3#q03|src_obm_2017_n1_f3__Q03]]
 
 
 
@@ -147,15 +169,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo diviso in quadrato più quattro rettangoli uguali più piccoli che si riassemblano in un nuovo quadrato*
+*Un rettangolo suddiviso in un quadrato più quattro rettangoli più piccoli uguali, che si ricombinano a formare un nuovo quadrato*
 
-> Alcuni rettangoli possono essere divisi in un quadrato e quattro rettangoli uguali più piccoli, in modo tale che tutte queste cinque parti possano essere riunite per comporre un nuovo quadrato.
-> 
-> a) Fare un disegno che mostri come un quadrato e quattro rettangoli uguali possano essere riuniti per formare un nuovo quadrato.
-> 
-> b) Indicare un rettangolo che può essere diviso secondo le esigenze della dichiarazione e indicare le misure dei suoi lati.
-> 
-> c) Se il perimetro del tuo rettangolo è $780\text{ cm}$, quali possono essere i valori del perimetro del quadrato formato dopo la nuova disposizione delle parti?
+> Alcuni rettangoli possono essere suddivisi in un quadrato e quattro rettangoli più piccoli e uguali, in modo tale che tutte queste cinque parti possano essere riunite per formare un nuovo quadrato.
+>
+> a) Fai un disegno che mostri come un quadrato e quattro rettangoli uguali possano essere riuniti per formare un nuovo quadrato.
+>
+> b) Disegna un rettangolo che possa essere diviso secondo quanto richiesto nell'enunciato e indica le misure dei suoi lati.
+>
+> c) Se il perimetro del tuo rettangolo è $780\text{ cm}$, quali possono essere i valori del perimetro del quadrato che si forma dopo la nuova disposizione delle parti?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2017_n1_f3#q04|src_obm_2017_n1_f3__Q04]]
 
 
 
@@ -196,24 +225,31 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Modelli di sblocco del telefono come sequenze digitali su una griglia 3x3: identificare una password e modelli di conteggio*
+*Schemi di sblocco del telefono come sequenze di cifre su una griglia 3x3: identifica una password e conta gli schemi*
 
-> Vediamo, nelle figure 1 e 2 di seguito, esempi del blocco dello schermo di un cellulare che funziona solo con una password che non viene digitata ma disegnata con segmenti di linea. Questi segmenti formano una linea poligonale con vertici su una griglia. Quando si disegna il modello corrispondente alla password, il dito deve continuare a toccare lo schermo per tutto il tempo. L'intera linea poligonale corrisponde a una sequenza di cifre, e questa sequenza è, infatti, la password. Il tracciamento delle linee poligonali è conforme alle seguenti regole:
-> 
-> i. Il tracciamento inizia ad uno dei punti evidenziati, che corrispondono ai numeri $1$ a $9$ (figura 3).
-> 
-> ii. Ogni segmento del modello deve avere come uno dei suoi punti finali (quello al quale finiamo di tracciare il segmento) un punto che non è ancora stato utilizzato.
-> 
-> iii. Se un segmento unisce due punti e contiene un terzo (il suo punto medio), allora la cifra corrispondente a tale terzo punto è inclusa nella password. Questo non avviene quando tale punto/cifre è già stato utilizzato.
-> 
-> iv. Ogni password ha almeno quattro cifre.
-> 
-> Pertanto, ogni linea poligonale è associata a una sequenza di quattro o più cifre, che appaiono nella password nello stesso ordine in cui vengono visitate. Nella figura 1 sopra, ad esempio, la password è $218369$, nel caso in cui il primo punto visitato fosse il $2$. Si noti che il segmento che unisce i punti associati ai numeri $3$ e $9$ include il punto associato al numero $6$. Se il primo punto visitato fosse il $9$, la password sarebbe $963812$. Se il primo punto visitato fosse il $6$, la password sarebbe $693812$. Si noti che la $6$ sarebbe saltata, poiché non poteva ripetersi.
-> 
-> a) Perché la riga della figura 2 corrisponde a una singola password? Qual è la password?
-> 
+> Nelle figure 1 e 2 qui sotto vediamo esempi del blocco schermo di un telefono cellulare che funziona solo con una password non digitata, ma tracciata mediante segmenti di linea. Questi segmenti formano una linea poligonale i cui vertici si trovano su una griglia. Quando si disegna il motivo corrispondente alla password, il dito deve rimanere a contatto con lo schermo per tutto il tempo. L'intera linea poligonale corrisponde a una sequenza di cifre, e questa sequenza è in effetti la password. Il tracciamento delle linee poligonali segue le seguenti regole:
+>
+> i. Il tracciamento inizia da uno dei punti evidenziati, che corrispondono alle cifre da $1$ a $9$ (figura 3).
+>
+> ii. Ciascun segmento del motivo deve avere, come uno dei suoi estremi (quello in cui si termina il tracciamento del segmento), un punto che non è stato ancora utilizzato.
+>
+> iii. Se un segmento unisce due punti e contiene un terzo punto (il suo punto medio), allora la cifra corrispondente a tale terzo punto è inclusa nella password. Ciò non accade quando quel punto/quella cifra è già stato utilizzato/utilizzata.
+>
+> iv. Ogni password contiene almeno quattro cifre.
+>
+> Pertanto, ogni linea poligonale è associata a una sequenza di quattro o più cifre, che compaiono nella password nello stesso ordine in cui vengono visitate. Nella figura 1 sopra, ad esempio, la password è $218369$, nel caso in cui il primo punto visitato fosse il $2$. Si noti che il segmento che unisce i punti associati alle cifre $3$ e $9$ include il punto associato alla cifra $6$. Se il primo punto visitato fosse il $9$, allora la password sarebbe $963812$. Se il primo punto visitato fosse il $6$, allora la password sarebbe $693812$. Si noti che il $6$ verrebbe saltato, poiché non potrebbe ripetersi.
+>
+> a) Perché la linea nella figura 2 corrisponde a una singola password? Qual è quella password?
+>
 > b) Quante password sono associate esattamente a tre lati consecutivi di un quadrato?
-> 
-> c) Quante diverse password di quattro cifre hanno due segmenti collineari (segmenti che si trovano sulla stessa linea)?
+>
+> c) Quante password diverse di quattro cifre hanno due segmenti collineari (segmenti che giacciono sulla stessa retta)?
 
 ![[src_obm_2017_n1_f3__q05.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2017_n1_f3#q05|src_obm_2017_n1_f3__Q05]]

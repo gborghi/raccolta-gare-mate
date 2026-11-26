@@ -29,20 +29,23 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9216
-**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.1
+**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The mosaic*
+*The Mosaic In 2000, the International Year of Mathematics, the Mathematical Union M…*
 
 ![[src_gs_2004__prob1.png]]
 
-> The mosaic. In 2000, the international year of mathematics, the World Mathematical Union chose the atoll of Tematamaki to host facilities for the development and dissemination of mathematical research. In the same year a reception hall was built, whose floor is a simple mosaic consisting of a 99 × 99 array of square tiles, all made of Carrara marble except those on the border and on the two diagonals. Determine how many Carrara marble tiles there are in the mosaic.
+> The Mosaic In 2000, the International Year of Mathematics, the International Mathematical Union chose the Tematamaki Atoll to host facilities for the development and dissemination of mathematical research. In the same year, a reception hall was built; its floor is a simple mosaic consisting of a grid of 99 × 99 square tiles, all of which are made of Carrara marble except for those on the border and on the two diagonals. Determine how many Carrara marble tiles there are in the mosaic.
 
-**Answer:** 9216
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2004#q01|src_gs_2004__Q01]]
 
 
 
@@ -63,20 +66,21 @@ level: squadre
 > grammi pesava lo scudo del guerriero Matteo.
 
 **Risposta:** 6800
-**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.1
+**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The armour*
+*The Armature: the main hero in the history of the atoll, the*
 
 ![[src_gs_2004__prob2.png]]
 
-> The armour. The main hero in the history of the atoll, the warrior Matteo, wore a beautiful suit of armour with a total weight of 21.4 kg, made up of a helmet, a shield and a breastplate. The helmet weighed 3 kg less than the shield, which in turn weighed 4 kg less than the breastplate. Determine how many grams the warrior Matteo's shield weighed.
+> The Armature: the main hero in the history of the atoll, the
+> Warrior Matteo wore a very fine suit of armor with a total weight of 21.4 kg, consisting of a helmet, a shield, and a cuirass. The helmet weighed 3 kg less than the shield, and the shield in turn weighed 4 kg less than the cuirass. Determine how many grams the shield of warrior Matteo weighed.
 
-**Answer:** 6800
+[[Quesiti/src_gs_2004#q02|src_gs_2004__Q02]]
 
 
 
@@ -100,20 +104,21 @@ level: squadre
 > ville abusive sono state costruite.
 
 **Risposta:** 1990
-**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.1
+**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Illegal building*
+*Unlicensed Activity Unfortunately, as is well known, it's all the same wherever you go, and*
 
 ![[src_gs_2004__prob3.png]]
 
-> Illegal building. Unfortunately, as everyone knows, the whole world is alike, and a large number of illegal villas have been built on the shores of the atoll too. To get an overall picture of the situation, the Carabinieri and the Guardia di Finanza started from two different points of the shore and counted the illegal buildings proceeding clockwise. In this way, the fifth villa counted by the Carabinieri turned out to be the thousandth for the Guardia di Finanza, and the fifth villa counted by the Guardia di Finanza turned out to be the thousandth for the Carabinieri. Determine how many illegal villas have been built.
+> Unlicensed Activity Unfortunately, as is well known, it's all the same wherever you go, and
+> A large number of unauthorized villas were also built on the shores of the atoll. To get an overall picture of the situation, the Carabinieri and the Guardia di Finanza set off from two different points on the shore and counted the unauthorized structures while proceeding clockwise. In this way, the fifth villa counted by the Carabinieri turned out to be the thousandth for the Guardia di Finanza, and the fifth villa counted by the Guardia di Finanza turned out to be the thousandth for the Carabinieri. Determine how many unauthorized villas were built.
 
-**Answer:** 1990
+[[Quesiti/src_gs_2004#q03|src_gs_2004__Q03]]
 
 
 
@@ -137,20 +142,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4217
-**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2004)
+**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fathers and children*
+*Fathers and Sons Domenico feels "young inside," but his*
 
 ![[src_gs_2004__prob4.png]]
 
-> Fathers and children. Domenico feels “young at heart”, but his daughter Ilaria brings him back to reality by saying: “The registry office speaks clearly: today you are 25 years older than me, and in exactly 8 years your age will be twice mine.” Determine how old Domenico and Ilaria are today.
-> In the answer use the first two digits on the left for the father's age and the remaining ones for the daughter's.
+> Fathers and Sons Domenico feels "young inside," but his
+> His daughter Ilaria brings him back to reality, saying: "The civil registry speaks clearly: today you are 25 years older than me, and exactly 8 years from now your age will be twice mine." Determine how old Domenico and Ilaria are today. In the answer, use the first two digits on the left for the father's age and the remaining digits for the daughter's age.
 
-**Answer:** 4217
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2004#q04|src_gs_2004__Q04]]
 
 
 
@@ -173,20 +181,24 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0135
-**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.1
+**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The atoll*
+*The atoll The shape of the Tematamaki atoll resembles a*
 
 ![[src_gs_2004__prob5.png]]
 
-> The atoll. The shape of the atoll of Tematamaki recalls a letter V, which can be thought of as obtained by taking two equal isosceles trapezoids and gluing them along a leg. Knowing that the remaining two legs of the trapezoids lie on the same line, determine the measure in degrees of the angle between a leg and the shorter base in the two trapezoids.
+> The atoll The shape of the Tematamaki atoll resembles a
+> The letter V, which can be thought of as obtained by taking two identical isosceles trapezoids and gluing them together along one non-parallel side. Given that the remaining two non-parallel sides of the trapezoids lie on the same straight line, determine the measure, in degrees, of the angle between one non-parallel side and the shorter base in the two trapezoids.
 
-**Answer:** 0135
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2004#q05|src_gs_2004__Q05]]
 
 
 
@@ -212,20 +224,23 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4251
-**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2004)
+**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The summit*
+*The summit: representatives of six international powers*
 
 ![[src_gs_2004__prob6.png]]
 
-> The summit. The representatives of six international powers have been summoned to a summit on the atoll. The representatives sit around a round table, at which by convention the seats have been labelled 2^0, 2^1, 2^2, 2^3, 2^4, 2^5. It is known that powers with consecutive exponents never sit next to each other, that the sum of the two neighbours of 16 is not a multiple of 3, and that 2 sits immediately to the right of 8. Determine how the powers are seated around the table.
-> In the answer write, from left to right, the exponents of the four powers of 2 that are met starting from 2^0 (excluded) and proceeding clockwise.
+> The summit: representatives of six international powers
+> They have been convened for a summit on the atoll. The representatives are seated around a round table, on which, by convention, the seats have been labeled 2^0, 2^1, 2^2, 2^3, 2^4, 2^5. It is known that powers with consecutive exponents never sit next to each other, that the sum of the two neighbors of 16 is not a multiple of 3, and that 2 sits immediately to the right of 8. Determine how the powers are seated around the table. In the answer, write, from left to right, the exponents of the four powers of 2 encountered starting from 2^0 (exclusive) and proceeding clockwise.
 
-**Answer:** 4251
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2004#q06|src_gs_2004__Q06]]
 
 
 
@@ -248,20 +263,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0128
-**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2)
-**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.2
+**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Look into my eyes*
+*My Eyes On the door of the office of a well-known hypnotist, Dr. Gio MindFlyer,…*
 
 ![[src_gs_2004__prob7.png]]
 
-> Look into my eyes. On the door of the office of a well-known hypnotist, Dr. Gio MindFlyer, there is a logo consisting of a square, in which a circle is inscribed, in which a square is inscribed, in which a circle is inscribed, and so on. In total, 15 squares appear in the logo, the smallest of which has a side of 1 mm. Determine how many millimetres the side of the largest square measures.
+> To Me, the Eyes On the door of the office of a well-known hypnotist, Dr. Gio MindFlyer, there appears a logo consisting of a square containing a circle, which contains a square, which contains a circle, and so on. In total, 15 squares appear in the logo, and the smallest of these has a side length of 1 mm. Determine how many millimeters the side of the largest square measures.
 
-**Answer:** 0128
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2004#q07|src_gs_2004__Q07]]
 
 
 
@@ -282,19 +300,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4096
-**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2004)
+**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Free radicals*
+*Free radicals To try their new calculators,*
 
 ![[src_gs_2004__prob8.png]]
 
-> Free radicals. To try out their new calculators, Sara and Alessandro write down the same 4-digit number and then compute, respectively, its fourth root and its sixth root. To their great surprise, both obtain an integer as the result. Determine which number they wrote at the beginning.
+> Free radicals To try their new calculators,
+> Sara and Alessandro write the same four-digit number and then, respectively, compute its fourth root and its sixth root. To their great surprise, both obtain an integer as the result. Determine which number they wrote at the beginning.
 
-**Answer:** 4096
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2004#q08|src_gs_2004__Q08]]
 
 
 
@@ -316,20 +338,24 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6600
-**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2)
-**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.2
+**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sailing*
+*Sail In the first regatta of the season, the winning boat*
 
 ![[src_gs_2004__prob9.png]]
 
-> Sailing. In the first regatta of the season, the winning boat completed the course in an hour and a half. The second regatta was held on a course 10% longer and, because of the different weather conditions, the winning boat kept an average speed 10% lower than the winner of the previous race. Determine how many seconds the winner of the second regatta took to complete the course.
+> There, in the first regatta of the season, the winning boat
+> They completed the course in an hour and a half. The second regatta was held on a course 10% longer, and due to different weather conditions, the winning boat maintained an average speed 10% lower than that of the winner of the previous race. Determine how many seconds the winner of the second regatta took to complete the course.
 
-**Answer:** 6600
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_probabilita|Probability and statistics]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2004#q09|src_gs_2004__Q09]]
 
 
 
@@ -353,19 +379,20 @@ level: squadre
 > crescente, i punteggi mancanti.
 
 **Risposta:** 0149
-**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2004)
+**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Skating*
+*Skating In a skateboarding competition, the competitors are*
 
 ![[src_gs_2004__prob10.png]]
 
-> Skating. In a skateboard competition, the competitors are evaluated by 8 judges, each of whom gives an integer mark from 0 to 9 (inclusive). Then the highest and the lowest marks are discarded (if there is more than one maximum mark only one is discarded, and similarly for the minimum mark) and the sum of the remaining ones is the total score obtained by the athlete. At the end of Paolo's performance, the loudspeaker announces: “The judges gave Paolo all different marks. The total is 23 and the marks of the individual judges were 5, 3, 2, 8, …”. At this point the loudspeaker stops working and the marks given by the remaining 4 judges cannot be heard. Write, from left to right, in increasing order, the missing marks.
+> Skating In a skateboarding competition, the competitors are
+> They are judged by 8 judges, each of whom gives a whole score from 0 to 9 inclusive. At this point, the highest score and the lowest score are discarded (if there is more than one highest score, only one is discarded; the same applies to the lowest score), and the sum of the remaining scores is the total score achieved by the athlete. At the end of Paolo's performance, the loudspeaker announces: "The judges have given Paolo scores that are all different. The total is 23, and the individual judges' scores were 5, 3, 2, 8, . . .". At this point, the loudspeaker stops working, and the scores given by the remaining 4 judges cannot be heard. Write the missing scores from left to right in ascending order.
 
-**Answer:** 0149
+[[Quesiti/src_gs_2004#q10|src_gs_2004__Q10]]
 
 
 
@@ -391,20 +418,24 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0729
-**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2)
-**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.2
+**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*So many fish!*
+*So many fish! At the Genoa Aquarium, the tank of the*
 
 ![[src_gs_2004__prob11.png]]
 
-> So many fish! At the Genoa aquarium, the coral reef tank contains fish of many species: a table shows the public how many fish of each species swim in the tank. The most numerous species is the clownfish: there are 100 of them. During his visit Massimo notices a strange coincidence: the quantities in the table are all different, and each of them is the product of 4 prime factors, not necessarily distinct (for example 100 = 2·2·5·5). Determine the maximum number of fish swimming in the tank. Recall that 1 is not a prime number.
+> So many fish! At the Genoa Aquarium, the tank of the
+> The coral reef contains fish of many species: a table shows the public how many fish of each species are swimming in the tank. The most numerous species is the clownfish: there are 100 of them. During the visit, Massimo notices a strange coincidence: the quantities on the table are all different, and each is the product of 4 prime factors, which are not necessarily distinct (for example, 100 = 2·2·5·5). Determine the maximum number of fish swimming in the tank. Note that 1 is not a prime number.
 
-**Answer:** 0729
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2004#q11|src_gs_2004__Q11]]
 
 
 
@@ -426,20 +457,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0720
-**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2)
-**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.2
+**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tempus fugit*
+*Time flies. This race started (or at least was supposed to start) at 14:00:00 and t…*
 
 ![[src_gs_2004__prob12.png]]
 
-> Tempus fugit. This competition started (or at least was supposed to start) at 14:00:00 and will end at 16:00:00. Throughout, the time is constantly shown by a 6-digit digital clock (2 for the hours, 2 for the minutes, 2 for the seconds). Determine for how many seconds, during the competition, the 6 digits shown by the clock will all be different.
+> Time flies. This race started (or at least was supposed to start) at 14:00:00 and will end at 16:00:00. During the race, the time is constantly displayed by a six-digit digital clock (2 digits for hours, 2 for minutes, 2 for seconds). Determine for how many seconds, during the race, the six digits shown on the clock will be different.
 
-**Answer:** 0720
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2004#q12|src_gs_2004__Q12]]
 
 
 
@@ -470,22 +504,24 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6601
-**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3)
-**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.3
+**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Thank you, Splaffy!*
+*Thanks, Splaffy! In class, Valentina copied from the*
 
 ![[src_gs_2004__prob13.png]]
 
-> Thank you, Splaffy! In class Valentina copied from the blackboard the working of a multiplication. Then she went to the Aquarium. While crossing the bridge over the seal tank, she drops her backpack; Splaffy the seal retrieves it and brings it to dry land. The exercise book got wet, so many of the digits of the multiplication can no longer be read. The situation is described by the scheme below, in which the illegible digits have been replaced by asterisks.
-> ∗ ∗ × ∗ ∗ = ∗ ∗ ∗ ∗ ∗ ∗ ∗
-> In spite of the disaster, Valentina still manages to reconstruct the calculation. Determine the result of the multiplication.
+> Thanks, Splaffy! In class, Valentina copied from the
+> On the blackboard, the working out of a multiplication. Then she went to the Aquarium. As she crossed the bridge over the seal tank, her backpack fell; the seal Splaffy retrieved it and brought it to dry ground. The notebook got wet, so many of the digits in the multiplication are no longer legible. The situation is described by the diagram below, in which the illegible digits have been replaced by asterisks. ∗ ∗ × ∗ ∗ = ∗ ∗ ∗ ∗ ∗ ∗ ∗ Despite the disaster, Valentina still manages to reconstruct the calculation. Determine the result of the multiplication.
 
-**Answer:** 6601
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2004#q13|src_gs_2004__Q13]]
 
 
 
@@ -514,20 +550,23 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5994
-**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3)
-**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.3
+**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Big Brother*
+*Big Brother: The well-known TV format has also arrived on the atoll—and very soon…*
 
 ![[src_gs_2004__prob14.png]]
 
-> Big Brother. The well-known TV format has reached the atoll too, and very soon a certain number of mathematicians will be isolated in a special area for over three months. To avoid any contact with the outside, the area will be surrounded by a wall with a square plan, 3 metres high, one brick thick, with an outer side of 100 metres. To build the wall, bricks 20 cm long are available, with depth and height equal to half the length. Each brick costs 10 euro cents. To make the wall sturdier, it will be built in the usual way, that is laying the bricks in several rows starting from the ground, each row offset by half a brick with respect to the row below. If some bricks need to be cut in half, a firm offers to do it at a price of 20 euro cents per cut. Determine the minimum cost, in euros, of building the wall. Neglect the cost and the space taken up by the cement needed to hold the bricks together.
+> Big Brother: The well-known television format has also come to the atoll, and very soon a certain number of mathematicians will be isolated in a special area for more than three months. To prevent any contact with the outside world, the area will be surrounded by a square-walled structure 3 metres high and as thick as a brick, with an outer side of 100 metres. To build the wall, bricks 20 cm long are available, with a depth and height equal to half the length. Each brick costs 10 cents of a euro. To make the wall stronger, it will be built in the usual way—that is, by laying the bricks in multiple courses starting from the ground, with each course offset by half a brick relative to the course below. If any bricks need to be cut in half, a company has offered to do so at a price of 20 cents of a euro per cut. Determine the minimum cost, in euros, of building the wall. Ignore the cost and the space occupied by the cement used to bind the bricks together.
 
-**Answer:** 5994
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2004#q14|src_gs_2004__Q14]]
 
 
 
@@ -555,20 +594,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0576
-**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3)
-**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.3
+**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Esoteric symbols*
+*Esoteric symbols In a cave on the atoll, archaeologists discovered many…*
 
 ![[src_gs_2004__prob15.png]]
 
-> Esoteric symbols. In a cave on the atoll, archaeologists have found many rock paintings. All the paintings contain a certain kind of “magic triangle”, evidently linked to the rites of the ancient inhabitants of the island. Schematically, it is an isosceles triangle in which the altitude to the base and the segment joining the midpoints of the two equal sides are drawn. This gives 5 segments, which determine 7 points, in which all and only the digits from 1 to 7 are written, so that on each of the 5 segments drawn the sum of the 3 numbers that appear is always the same. Reading from left to right the 3 digits written on the base, one gets a 3-digit integer. Determine the difference between the maximum and the minimum value that the integer written on the base can take.
+> Esoteric Symbols In a cave on the atoll, archaeologists discovered many rock paintings. All of the paintings contain within them a certain type of "magic triangle," evidently linked to the rituals of the island's ancient inhabitants. Schematically, it is an isosceles triangle in which the altitude relative to the base and the line joining the midpoints of the two equal sides are drawn. This yields 5 line segments, which define 7 points; on these points are written exactly and only the digits from 1 to 7, in such a way that on each of the 5 drawn segments the sum of the 3 numbers that appear is always the same. Reading the 3 digits written on the base from left to right gives a three-digit integer. Determine the difference between the maximum and minimum values that the integer written on the base can take.
 
-**Answer:** 0576
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2004#q15|src_gs_2004__Q15]]
 
 
 
@@ -593,19 +635,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0118
-**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2004)
+**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Territorial waters*
+*Territorial waters: the opening of the atoll bay*
 
 ![[src_gs_2004__prob16.png]]
 
-> Territorial waters. The opening of the bay of the atoll of Tematamaki, that is the base of the isosceles triangle whose legs are the shorter bases of the two trapezoids, is 20 km (see the description of the atoll in a previous problem). The territorial waters of the atoll extend up to 20 km from the shore. Determine how many kilometres the difference between the outer perimeter of the territorial waters and the perimeter of the atoll measures.
+> Territorial waters: the opening of the atoll bay
+> The base of the isosceles triangle—that is, the atoll's base—whose two equal sides are the shorter bases of the two trapezoids, is 20 km long (see the description of the atoll in a previous problem). The atoll's territorial waters extend up to 20 km from the shore. Determine how many kilometers the difference is between the outer perimeter of the territorial waters and the perimeter of the atoll.
 
-**Answer:** 0118
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2004#q16|src_gs_2004__Q16]]
 
 
 
@@ -631,20 +677,24 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2013
-**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3)
-**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.3
+**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Touch wood*
+*Touch wood. An ancient prophecy says that the atoll*
 
 ![[src_gs_2004__prob17.png]]
 
-> Touch wood. An ancient prophecy says that the atoll will be swallowed by the waters of the sea, and that this will happen in a year whose number is the difference between two 4-digit palindromic numbers (that is, numbers that do not change when read from left to right or from right to left). The chronicles recall the scenes of panic of 1782 (which is 5005 − 3223), while the last time the inhabitants were at risk was in 2002 (which can be written, for example, as 5225 − 3223). Determine the next year in which the inhabitants will have to worry.
+> Knock on wood. An ancient prophecy says that the atoll
+> It will be swallowed by the sea waters, and this will happen in a year whose number is the difference between two four-digit palindromic numbers (that is, numbers that remain unchanged when read from left to right or from right to left). The chronicles recall the scenes of panic in 1782 (which is 5005 − 3223), while the last time the inhabitants were at risk was in 2002 (which can be written, for example, as 5225 − 3223). Determine the next year in which the inhabitants will have to worry.
 
-**Answer:** 2013
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2004#q17|src_gs_2004__Q17]]
 
 
 
@@ -670,19 +720,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4114
-**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2004)
+**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The mascots*
+*The mascots, Two Little Goats, are now permanent guests at the Mathematical Institute of the I…*
 
 ![[src_gs_2004__prob18.png]]
 
-> The mascots. Two little goats are by now permanent guests of the Mathematical Institute of the atoll. So that they do not wander off during the night, the first goat is tied to a post with a rope 5 metres long, while the second goat is tied to a second post, 5 metres away from the first, with a second rope that is also 5 metres long. In the region accessible to both goats there is a square trough, with two sides parallel to the line joining the two posts, containing in special compartments the water and the food for the two goats. Determine the maximum length, in millimetres, of the side of the trough.
+> The mascots, Two Little Goats, are now permanent residents of the Atoll Mathematical Institute. To prevent them from wandering off during the night, the first goat is tied to a post with a 5-meter-long rope, while the second goat is tied to a second post, 5 meters away from the first, with a second rope also 5 meters long. In the area accessible to both goats, there is a square trough, two of whose sides are parallel to the line joining the two posts; the trough contains, in dedicated compartments, water and food for the two goats. Determine the maximum possible length, in millimeters, of a side of the trough.
 
-**Answer:** 4114
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2004#q18|src_gs_2004__Q18]]
 
 
 
@@ -704,20 +757,20 @@ level: squadre
 > Determinare quante persone hanno partecipato alla raccolta.
 
 **Risposta:** 0030
-**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=4)
-**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.4
+**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*They never change!*
+*They never contradict themselves! To give the organizer a gift, some participants…*
 
 ![[src_gs_2004__prob19.png]]
 
-> They never change! To give the organiser a present, some participants in this competition started a collection: the majority put in 20 euros each, while a minority, consisting of all the Genoese, contributed 15 euros each. Since in the end the money was still not enough, everybody paid in another euro each. In this way a total of 600 euros was collected. Determine how many people took part in the collection.
+> They never let themselves down! To give the organizer a gift, some participants in this competition organized a fundraiser: the majority put in 20 euros each, while a minority consisting of all the people from Genoa contributed 15 euros each. Since in the end the money still wasn't enough, everyone put in another euro each. In this way, a total of 600 euros was raised. Determine how many people took part in the fundraiser.
 
-**Answer:** 0030
+[[Quesiti/src_gs_2004#q19|src_gs_2004__Q19]]
 
 
 
@@ -744,19 +797,23 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 7539
-**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2004)
+**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*“Tematamakese” shadows*
+*Shadows “tematamakesi” The traditional chandelier*
 
 ![[src_gs_2004__prob20.png]]
 
-> “Tematamakese” shadows. The traditional chandelier used on the atoll has an iron-wire frame consisting of many wires corresponding to the edges and to the diagonals of the faces of a cube. A light bulb is placed at the centre of the cube. The frame is surrounded by a spherical lampshade, whose radius is 20 cm, passing through all the vertices of the cube. When the bulb is switched on, the shadow of the iron wires is projected onto the surface of the lampshade. Determine, in millimetres, the total length of the shadows projected onto the lampshade. Assume that the bulb is point-like and is held at the centre of the cube by wires so thin that they cast no further shadows.
+> Shadows “tematamakesi” The traditional chandelier
+> The one used on the atoll has a wire frame made up of many wires corresponding to the edges and diagonals of the faces of a cube. A light bulb is placed at the center of the cube. The frame is surrounded by a spherical lampshade with a radius of 20 cm, passing through all the vertices of the cube. When the light bulb is switched on, the shadows of the wires are projected onto the surface of the lampshade. Determine, in millimetres, the total length of the shadows projected onto the lampshade. Assume that the light bulb is a point source and is supported at the center of the cube by wires so thin that they do not produce any additional shadows.
 
-**Answer:** 7539
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2004#q20|src_gs_2004__Q20]]
 
 
 
@@ -782,20 +839,24 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1892
-**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=4)
-**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.4
+**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Vintage... gardens*
+*Gardens... of the season In the 19th century, to celebrate*
 
 ![[src_gs_2004__prob21.png]]
 
-> Vintage... gardens. In the 19th century, to celebrate a glorious event in the history of the atoll, the authorities decided to build a large garden in the shape of a right triangle. Trees were planted at the vertices and along the whole perimeter, at regular distances from one another. It is known that the total number of trees coincides with the year in which the garden was built, and that on the hypotenuse (endpoints included) there is one tree more than on the longer leg (endpoints included). Determine how many trees there are around the garden.
+> Gardens... of the season In the 19th century, to celebrate
+> As a glorious event in the atoll's history, the authorities decided to build a large right-angled triangular garden. Trees were planted at the vertices and along the entire perimeter, at regular intervals from one another. It is known that the total number of trees equals the year in which the garden was built, and that on the hypotenuse (including the endpoints) there is one more tree than on the longer leg (including the endpoints). Determine how many trees there are around the garden.
 
-**Answer:** 1892
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2004#q21|src_gs_2004__Q21]]
 
 
 
@@ -818,22 +879,24 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0576
-**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=4)
-**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.4
+**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The decimation*
+*Decimation In the following expression*
 
 ![[src_gs_2004__prob22.png]]
 
-> The decimation. In the following expression
-> 1/2 + 1/3 + 1/4 + 1/5 + 1/6 + 1/7 + 1/8 + 1/9 + 1/10 + 1/11
-> Federico wants to delete some terms, so that the sum of the remaining ones is 1. Determine the maximum possible value of the product of the denominators of the remaining fractions.
+> Decimation In the following expression
+> 1/2 + 1/3 + 1/4 + 1/5 + 1/6 + 1/7 + 1/8 + 1/9 + 1/10 + 1/11 Federico wants to remove some of the terms so that the sum of the remaining ones is 1. Determine the maximum possible value of the product of the denominators of the remaining fractions.
 
-**Answer:** 0576
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2004#q22|src_gs_2004__Q22]]
 
 
 
@@ -861,20 +924,24 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0431
-**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=5)
-**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.5
+**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*And after so much effort...*
+*And after so much toil... To recover from the exertions*
 
 ![[src_gs_2004__prob23.png]]
 
-> And after so much effort... To recover from the efforts of this competition, the 7 members of a team organised a spaghetti dinner with garlic, oil and chili pepper. The portions of pasta served are the same for everyone except for the captain, who is entitled to a double portion, and the runner who hands in the answers, who, having run so much, is entitled to a triple portion. Knowing that 4 whole chili peppers were put in the sauce, and that the plates were filled at random after mixing the pasta well with the sauce, determine the probability that at least one diner finds more than one chili pepper on his plate. Having expressed the probability as an irreducible fraction m/n, write the sum m + n as the answer.
+> And after so much toil... To recover from the exertions
+> In this competition, the 7 members of a team organized a garlic, oil, and chili spaghetti meal. The amounts of pasta served are the same for everyone except the captain, who is entitled to a double portion, and the delivery person, who, having run a lot, is entitled to a triple portion. Knowing that 4 whole chilies were put in the sauce and that the plates were assembled at random after the pasta was well mixed with the sauce, determine the probability that at least one diner ends up with more than one chili on their plate. Having expressed the probability as an irreducible fraction m/n, write the sum m + n in the answer.
 
-**Answer:** 0431
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2004#q23|src_gs_2004__Q23]]
 
 
 
@@ -900,17 +967,20 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1140
-**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=5)
-**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2004-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2004)
+**Fonte risposta:** soluzione ufficiale, PDF p.5
+**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2004)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*An infernal... mechanism*
+*A . . . infernal mechanism. Three gear wheels have their centers aligned and are…*
 
 ![[src_gs_2004__prob24.png]]
 
-> An infernal... mechanism. Three gear wheels have collinear centres and are connected so that, when the central wheel turns, the other two turn as well. The central wheel has 39 teeth, the other two have 38 and 52 teeth respectively. In the rest position, the line joining the centres is drawn on the wheels. Then the mechanism is set in motion at the constant speed that makes the central wheel complete a full turn in three and a half minutes. Determine after how many seconds the three segments drawn on the three wheels are parallel for the first time.
+> A . . . infernal mechanism. Three gear wheels have their centers aligned and are connected to one another such that, when the central wheel turns, the other two also turn. The central wheel has 39 teeth; the other two have 38 and 52 teeth, respectively. In the rest position, the line joining the centers is drawn on the wheels. Subsequently, the mechanism is set in motion at a constant speed that allows the central wheel to complete one full revolution in 3.5 minutes. Determine after how many seconds the three line segments drawn on the three wheels are parallel for the first time.
 
-**Answer:** 1140
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2004#q24|src_gs_2004__Q24]]

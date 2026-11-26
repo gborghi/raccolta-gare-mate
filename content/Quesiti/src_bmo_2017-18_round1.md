@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Compare le somme dei rimanenti di 365 per 1,365 e 366 per 1,366*
+*Confronta le somme dei resti di 365 per 1..365 e di 366 per 1..366*
 
-> Helen divide $365$ per ciascuno di $1, 2, 3, \ldots, 365$ a sua volta, scrivendo un elenco dei rimanenti $365$. Quindi Phil divide $366$ per ciascuno di $1, 2, 3, \ldots, 366$ a sua volta, scrivendo un elenco dei rimanenti $366$. Di chi è la lista dei rimanenti che ha la somma maggiore e per quanto?
+> Helen divide $365$ per ciascuno di $1, 2, 3, \ldots, 365$, a turno, e annota una lista dei $365$ resti. Poi Phil divide $366$ per ciascuno di $1, 2, 3, \ldots, 366$, a turno, e annota una lista dei $366$ resti. Quale lista di resti ha la somma maggiore e di quanto?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2017-18_round1#q01|src_bmo_2017-18_round1__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximo e minimo numero di giorni in cui almeno cinque dei sei amici nuotano*
+*Numero massimo e minimo di giorni in cui almeno cinque dei sei amici nuotano*
 
-> In un periodo di $100$ giorni, ciascuno dei sei amici va a nuotare esattamente $75$ giorni. Ci sono $n$ giorni in cui almeno cinque degli amici nuotano. Quali sono i valori più grandi e più piccoli possibili di $n$?
+> In un periodo di $100$ giorni, ciascuno dei sei amici va a nuotare per esattamente $75$ giorni. Ci sono $n$ giorni in cui almeno cinque degli amici nuotano. Quali sono i valori massimo e minimo possibili di $n$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2017-18_round1#q02|src_bmo_2017-18_round1__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La linea MN divide sia l'area che il perimetro del triangolo ABC*
+*La retta MN biseca sia l'area sia il perimetro del triangolo isoscele ABC*
 
-> Il triangolo $ABC$ ha $AB = CA$ e $BC$ è il suo lato più lungo. Il punto $N$ è sul lato $BC$ e $BN = AB$. La linea perpendicolare a $AB$ che passa attraverso $N$ incontra $AB$ a $M$. Prova che la linea $MN$ divide sia l'area che il perimetro del triangolo $ABC$ in parti uguali.
+> Il triangolo $ABC$ ha $AB = CA$ e $BC$ è il suo lato più lungo. Il punto $N$ si trova sui lati $BC$ e $BN = AB$. La retta perpendicolare a $AB$ che passa per $N$ incontra $AB$ in $M$. Dimostrare che la retta $MN$ divide in parti uguali sia l'area sia il perimetro del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2017-18_round1#q03|src_bmo_2017-18_round1__Q03]]
 
 
 
@@ -106,9 +127,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i valori possibili di a_2017 per la sequenza con una data ricorrenza*
+*Conta i valori possibili di a_2017 per una successione con relazione di ricorrenza data*
 
-> Considera le sequenze $a_1, a_2, a_3, \ldots$ di numeri reali positivi con $a_1 = 1$ e tali che $$a_{n+1} + a_n = (a_{n+1} - a_n)^2$$ per ogni intero positivo $n$. Quanti valori possibili può contenere $a_{2017}$?
+> Si considerino le successioni $a_1, a_2, a_3, \ldots$ di numeri reali positivi con $a_1 = 1$ e tali che
+> $$a_{n+1} + a_n = (a_{n+1} - a_n)^2$$
+> per ogni intero positivo $n$. Quanti valori possibili può assumere $a_{2017}$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2017-18_round1#q04|src_bmo_2017-18_round1__Q04]]
 
 
 
@@ -131,9 +161,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro quadrati colorati più piccoli, in modo che non si inseriscano in una griglia di 200x200 100 colori*
+*Il più piccolo k di quadrati colorati tale che nessuna combinazione 100 di celle non colorate rientri in una griglia 200x200*
 
-> Se prendiamo una griglia $2 \times 100$ (o $100 \times 2$) di quadrati unitari, e rimuoviamo i quadrati alternativi da un lato lungo, i quadrati rimanenti $150$ formano un $100$-combo. Henry prende una griglia $200 \times 200$ di quadrati unità, e sceglie $k$ di questi quadrati e li colora in modo che James non sia in grado di scegliere $150$ quadrati incolori che formano un $100$-combo. Qual è il minimo valore possibile di $k$?
+> Se prendiamo una griglia di quadrati unitari $2 \times 100$ (o $100 \times 2$) e rimuoviamo i quadrati in posizioni alternate lungo un lato lungo, i quadrati $150$ rimanenti formano un pettine-$100$. Henry prende una griglia di quadrati unitari $200 \times 200$, sceglie $k$ di questi quadrati e li colora in modo che James non possa scegliere $150$ quadrati non colorati che formino un pettine-$100$. Qual è il valore minimo possibile di $k$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2017-18_round1#q05|src_bmo_2017-18_round1__Q05]]
 
 
 
@@ -157,6 +194,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le schede min posizionate quando i mezzi di fila devono rimanere numeri interi; dare l'esempio*
+*Minimo di carte posizionate quando le medie delle righe devono rimanere numeri interi; fornisci un esempio*
 
-> Matthew ha un mazzo di carte $300$ numerate $1$ a $300$. Prende le carte dal mazzo una alla volta e posiziona le carte selezionate in una fila, con ogni nuova carta aggiunta all'estremità destra della fila. Matthew deve provvedere che, in ogni momento, la media dei numeri sulle carte della fila sia un numero intero. Se, a un certo punto, non rimane nessuna carta nel mazzo che permetta a Matthew di continuare, allora si ferma. Quando Matthew si è fermato, qual è il numero minimo possibile di carte che avrebbe potuto mettere in fila? Cita un esempio di una tale battaglia.
+> Matthew ha un mazzo di $300$ carte numerate da $1$ a $300$. Estrae le carte dal mazzo una alla volta e dispone le carte scelte in una riga, aggiungendo ogni nuova carta all'estremità destra della riga. Matthew deve fare in modo che, in ogni momento, la media dei numeri sulle carte nella riga sia un numero intero. Se, a un certo punto, non resta alcuna carta nel mazzo che permetta a Matthew di continuare, allora si ferma. Quando Matthew si è fermato, qual è il numero minimo possibile di carte che potrebbe aver disposto nella riga? Dai un esempio di una tale riga.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2017-18_round1#q06|src_bmo_2017-18_round1__Q06]]

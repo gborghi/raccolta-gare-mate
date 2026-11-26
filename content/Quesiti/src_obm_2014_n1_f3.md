@@ -37,17 +37,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Figura delle scale dei quadrati unitari; contare i quadrati bianchi nella figura 13*
+*Figure a scala di quadrati unitari; conta i quadrati bianchi nella figura 13*
 
-> Esmeralda disegna quadrati laterali per formare la sequenza delle figure qui sotto, secondo una regola che deve scoprire.
-> 
-> (La sequenza mostra figure a forma di scala: la figura 1 ha 1 quadrato grigio; la figura 2 ha 2 quadrati grigi e 1 quadrato bianco a forma di L; la figura 3 ha 3 quadrati grigi e 3 bianchi; la figura 4 ha 4 quadrati grigi e 6 bianchi, formando modelli di scala in crescita.)
-> 
+> Esmeralda disegna quadrati sul lato delle unità per formare la sequenza di figure qui sotto, secondo una regola che deve scoprire.
+>
+> (La sequenza mostra figure a forma di scala: la figura 1 ha 1 quadrato grigio; la figura 2 ha 2 quadrati grigi e 1 quadrato bianco disposti a L; la figura 3 ha 3 quadrati grigi e 3 quadrati bianchi; la figura 4 ha 4 quadrati grigi e 6 quadrati bianchi, formando motivi a scala in crescita.)
+>
 > a) Quanti quadrati bianchi ha la figura 13?
-> 
-> b) Se esiste, quale figura ha esattamente 100 quadrati bianchi in più dei quadrati grigri?
+>
+> b) Se esiste, quale figura ha esattamente 100 quadrati bianchi in più rispetto ai quadrati grigi?
 
 ![[src_obm_2014_n1_f3__q01.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n1_f3#q01|src_obm_2014_n1_f3__Q01]]
 
 
 
@@ -78,17 +85,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area delle schede di plastica quadrate e trapezziali; quadrato minimo per le tessere*
+*Area delle carte di plastica quadrate e trapezoidali; quadrato minimo per rivestirle con esse*
 
-> Janaina ha molte carte di plastica, alcune in forma di quadrati uguali e altre in forma di trapezzi, come mostra la figura. La carta quadrata ha lato $10\,\text{cm}$; la carta trapezoidale ha lati paralleli $10\,\text{cm}$ e $20\,\text{cm}$, e altezza $10\,\text{cm}$.
-> 
-> a) Qual è l'area di ciascuna carta quadrata e di ciascuna carta trapezoidale?
-> 
-> b) Utilizzando una carta di ogni tipo, Jade assembla un quadrato. Qual è l'area del più piccolo quadrato che può assemblare in queste condizioni?
-> 
-> c) Desidera assemblare un quadrato con superficie $3600\,\text{cm}^2$, utilizzando il minor numero possibile di carte, uguali o meno. Quante carte sono queste?
+> Janaina ha molte carte di plastica: alcune hanno la forma di quadrati congruenti, altre quella di trapezi, come mostrato nella figura. La carta quadrata ha il lato $10\,\text{cm}$; la carta trapezoidale ha lati paralleli di lunghezza $10\,\text{cm}$ e $20\,\text{cm}$, e altezza $10\,\text{cm}$.
+>
+> a) Qual è l'area di ciascuna carta quadrata e l'area di ciascuna carta trapezoidale?
+>
+> b) Utilizzando una carta di ciascun tipo, Jade compone un quadrato. Qual è l'area del quadrato più piccolo che può comporre in queste condizioni?
+>
+> c) Vuole assemblare un quadrato con area $3600\,\text{cm}^2$, utilizzando il minor numero possibile di carte, uguali o diverse. Quante carte sono?
 
 ![[src_obm_2014_n1_f3__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n1_f3#q02|src_obm_2014_n1_f3__Q02]]
 
 
 
@@ -117,15 +131,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dicci pilastrati come pilastri; volti in contatto e cubo rigido con uguali sommi facciali*
+*Dice impilati a formare una colonna; facce a contatto e cubo rigido con somme delle facce uguali*
 
-> Geraldo ha diversi dadi ordinari (la somma dei punti sulle facce opposte è di 7). Può vedere tre volti di ciascuna morte alla volta, come mostrato nella figura.
-> 
-> a) Geraldo utilizza quattro dadi per costruire un pilastro su un tavolo, in modo che le facce in contatto abbiano lo stesso numero di punti. Qual è la somma dei punti sui volti che non possono essere visti (volti in contatto tra loro o riposati sul tavolo)?
-> 
-> b) Geraldo vuole incollare alcune facce dei dadi, formando un cubo rigido. Le facce in contatto devono avere uguali numeri di punti, e la somma dei punti su tutte e sei le facce del cubo deve essere $116$. Spiega come Geraldo dovrebbe incollare queste facce.
+> Geraldo ha diversi dadi comuni (la somma dei puntini sulle facce opposte è 7). Può vedere tre facce di ciascun dado alla volta, come mostrato nella figura.
+>
+> a) Geraldo usa quattro dadi per costruire un pilastro su un tavolo, in modo che le facce a contatto abbiano lo stesso numero di puntini. Qual è la somma dei puntini sulle facce non visibili (le facce a contatto tra loro o appoggiate sul tavolo)?
+>
+> b) Geraldo vuole incollare alcune facce dei dadi tra loro, formando un cubo rigido. Le facce a contatto devono avere lo stesso numero di puntini, e la somma dei puntini su tutte e sei le facce del cubo deve essere $116$. Spiega come Geraldo dovrebbe incollare queste facce.
 
 ![[src_obm_2014_n1_f3__q03.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n1_f3#q03|src_obm_2014_n1_f3__Q03]]
 
 
 
@@ -154,15 +175,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Crittografia aritmetica: sei permutazioni di OBM sommate uguali a OOOX*
+*Crittoaritmetica: la somma di sei permutazioni di OBM è uguale a OOOX*
 
-> Le lettere O, B e M rappresentano ciascuno di cifre diverse. Pertanto, OBM e BOM sono numeri a tre cifre con cifre distinte non a zero; ad esempio, se $O=1$, $B=2$, $M=3$, allora $OBM=123$ e $BOM=213$.
-> 
+> Le lettere O, B e M rappresentano ciascuna cifre non nulle distinte. Pertanto, OBM e BOM sono numeri di tre cifre con cifre non nulle distinte; ad esempio, se $O=1$, $B=2$, $M=3$, allora $OBM=123$ e $BOM=213$.
+>
 > $$\begin{array}{r} OBM \\ OMB \\ MBO \\ + \quad MOB \\ BMO \\ BOM \\ \hline OOOX \end{array}$$
-> 
-> a) Qual è la somma di tutti i numeri a tre cifre forniti da $O=1$, $B=2$, $M=3$?
-> 
-> b) Quali sono tutti i valori del numero OBM in modo che nell'addizione di cui sopra, X sia anche un numero (cioè il risultato OOOX è un numero a quattro cifre)?
+>
+> a) Qual è la somma di tutti i numeri di tre cifre dati da $O=1$, $B=2$, $M=3$?
+>
+> b) Quali sono tutti i valori del numero OBM tali che, nella somma sopra, X sia anch'esso una cifra (cioè il risultato OOOX sia un numero di quattro cifre)?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n1_f3#q04|src_obm_2014_n1_f3__Q04]]
 
 
 
@@ -195,16 +223,23 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di rimozione delle monete: strategia vincente per 11 e 15 monete sul tavolo*
+*Gioco della rimozione delle monete: strategia vincente per 11 e 15 monete sul tavolo*
 
-> Ana e Beatriz hanno molte monete. Li mettono su un tavolo e giocano secondo le seguenti regole:
-> 
-> i. Il primo giocatore deve togliere almeno una moneta, ma non tutte;
-> 
-> ii. Il giocatore successivo deve rimuovere almeno una moneta e al massimo il doppio del numero di monete rimuovute dal giocatore precedente;
-> 
-> iii. Il giocatore che toglie l'ultima moneta vince.
-> 
-> a) Supponiamo che mettano monete $11$ sul tavolo. Se Ana gioca prima e toglie due monete, mostra come Beatriz può vincere la partita (indipendentemente dalle mosse rimanenti di Ana).
-> 
-> b) Ora supponiamo che mettano monete $15$ sul tavolo. Mostrare che il primo giocatore può sempre vincere (indipendentemente dalle mosse del secondo giocatore).
+> Ana e Beatriz hanno molte monete. Ne mettono alcune su un tavolo e giocano secondo le seguenti regole:
+>
+> i. Il primo giocatore deve rimuovere almeno una moneta, ma non tutte;
+>
+> ii. Il giocatore successivo deve rimuovere almeno una moneta e al massimo il doppio del numero di monete rimosse dal giocatore precedente;
+>
+> iii. Vince il giocatore che rimuove l'ultima moneta.
+>
+> a) Supponiamo che mettano $11$ monete sul tavolo. Se Ana gioca per prima e rimuove due monete, mostra come Beatriz può vincere la partita (indipendentemente dalle mosse rimanenti di Ana).
+>
+> b) Ora supponiamo che mettano $15$ monete sul tavolo. Dimostrare che il primo giocatore può sempre vincere (indipendentemente dalle mosse del secondo giocatore).
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n1_f3#q05|src_obm_2014_n1_f3__Q05]]

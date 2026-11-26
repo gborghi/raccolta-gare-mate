@@ -31,9 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Alineare i bambini in modo che ciascuno sia accanto al massimo a due dei loro amici*
+*Allineate i bambini in modo che ciascuno abbia al massimo due amici accanto*
 
-> Ci sono bambini in un campo di matematica. Ciascuno ha al massimo tre amici nel campo, e $A$ è amico di $B$ se e solo se $B$ è amico di $A$. Il capo del campo vorrebbe mettere in fila i bambini in modo che ogni bambino sia vicino a un massimo di due bambini tra qualsiasi coppia di amici. E' sempre possibile farlo?
+> Al campo di matematica ci sono $2010^{2010}$ bambini. Ognuno ha al massimo tre amici al campo, e $A$ è amico di $B$ se e solo se $B$ è amico di $A$. Il responsabile del campo vorrebbe mettere in fila i bambini in modo che, tra due amici qualsiasi, ogni bambino sia accanto a non più di due bambini. È sempre possibile farlo?
+
+> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2009-10_round2#q01|src_bmo_2009-10_round2__Q01]]
 
 
 
@@ -58,9 +67,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova la condizione angolare in triangolo se angolo retto a C*
+*Dimostrare la condizione sull'angolo nel triangolo se e solo se l'angolo retto è in C*
 
-> Nel triangolo $ABC$, il centroide è $G$ e $D$ è il punto medio di $CA$. La linea attraverso $G$ parallela a $BC$ incontra $AB$ a $E$. Prova che $\angle AEC = \angle DGC$ se e solo se $\angle ACB = 90^\circ$.
+> Nel triangolo $ABC$, il baricentro è $G$ e $D$ è il punto medio di $CA$. La retta passante per $G$ e parallela a $BC$ incontra $AB$ in $E$. Dimostrare che $\angle AEC = \angle DGC$ se e solo se $\angle ACB = 90^\circ$.
+
+> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2009-10_round2#q02|src_bmo_2009-10_round2__Q02]]
 
 
 
@@ -85,9 +103,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova un intero n tale che n^2+4 divida n^3+n*
+*Trovare un intero n tale che n^2+4 divida n^3+n*
 
-> Trova tutti gli enti $n$ in modo tale che $n^2 + 4$ divida $n^3 + n$, e prova che la tua risposta è completa.
+> Trovare tutti gli interi $n$ tali che $n^2 + 4$ divida $n^3 + n$, e dimostrare che la tua risposta è completa.
+
+> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2009-10_round2#q03|src_bmo_2009-10_round2__Q03]]
 
 
 
@@ -113,6 +140,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza dei valori reali positivi x, y, z*
+*Dimostrare la disuguaglianza per i numeri reali positivi x, y, z*
 
-> Prove che, per tutti i numeri reali positivi $x$, $y$ e $z$, $$\left(\frac{x+y}{z}\right)^2 + \left(\frac{y+z}{x}\right)^2 + \left(\frac{z+x}{y}\right)^2 \ge 3(x+y+z)\left(\frac{1}{x}+\frac{1}{y}+\frac{1}{z}\right) - 9.$$
+> Dimostrare che, per tutti i numeri reali positivi $x$, $y$ e $z$,
+> $$\left(\frac{x+y}{z}\right)^2 + \left(\frac{y+z}{x}\right)^2 + \left(\frac{z+x}{y}\right)^2 \ge 3(x+y+z)\left(\frac{1}{x}+\frac{1}{y}+\frac{1}{z}\right) - 9.$$
+
+> [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2009-10_round2#q04|src_bmo_2009-10_round2__Q04]]

@@ -35,9 +35,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to choose the number of problems per subject with constraints*
+*Ways of choosing the number of problems per subject with constraints*
 
-> Now, if we know that (2h −1)2 = h(4h + 1), what's the value of 3h + 1?
+> Knowing that (2h −1)2 = h(4h + 1), what is the value of 3h + 1?
 >
 > - **(A)** 4/3
 > - **(B)** 3/2
@@ -45,7 +45,10 @@ level: triennio
 > - **(D)** 4/5
 > - **(E)** 5/2
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2026_triennio#q01|src_archimede_2026_triennio__Q01]]
 
 
 
@@ -76,9 +79,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Round-table riders' or skydivers' positions, excluding rotation*
+*Arrangements of knights/furfanti around a round table, up to rotation*
 
-> One box contains 40 red balls. Andrea adds more seeds to the blue box. How many blue balls does he have to add, at least, because blue balls are more than 25% of the total?
+> A box contains 40 red marbles. Andrea adds more marbles to the box, of
+> blue colour. How many blue marbles must he add, at minimum, so that the blue marbles are more than 25% of the total?
 >
 > - **(A)** 10
 > - **(B)** 14
@@ -86,7 +90,10 @@ level: triennio
 > - **(D)** 12
 > - **(E)** 11
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2026_triennio#q02|src_archimede_2026_triennio__Q02]]
 
 
 
@@ -116,17 +123,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Martian/Venus age, years past multiple of 3*
+*Number of powers of the form 2025(3n) that are squares of integers*
 
-> Consider the numbers 20253, 20259, 202527. . . , 2025(32025), i.e. all the powers of type 2025(3n) with 1 ⩽n ⩽2025. How many of these are squares of integers?
+> Consider the numbers 20253, 20259, 202527, . . . , 2025(32025), that is, all powers of the form 2025(3n) with 1 ⩽n ⩽2025. How many of them are squares of integers?
 >
 > - **(A)** 2025
-> - **(B)** No one
+> - **(B)** none
 > - **(C)** 150
 > - **(D)** 1012
 > - **(E)** 75
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2026_triennio#q03|src_archimede_2026_triennio__Q03]]
 
 
 
@@ -160,9 +170,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*CQ length given a square and polygon areas*
+*Length CQ given a square and areas of polygons*
 
-> Giulia has a bag of 17 mint candies, which she wants to share with three friends and her cousin Claudia. Each of them, including Julia herself, must receive at least one candy; in addition, in order not to cause any misunderstandings, Julia's three friends must receive the same number of candy. How many ways will Julia be able to make the cut?
+> Giulia has a bag with 17 mint candies, which she wants to share with three
+> friends and with her cousin Claudia. Each of them, including Giulia herself, must
+> receive at least one candy; moreover, so as not to create ill feeling, Giulia's three friends must receive the same number of candies. In how many ways can Giulia make the division?
 >
 > - **(A)** 33
 > - **(B)** 36
@@ -170,7 +182,11 @@ level: triennio
 > - **(D)** 30
 > - **(E)** 35
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_triennio#q04|src_archimede_2026_triennio__Q04]]
 
 
 
@@ -204,9 +220,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of orange faces with 50% likelihood of same colour*
+*Maximum number of orange faces with 50% probability of the same colour*
 
-> Alice has a rather strange watch. There's the classic 12-hour quadrant, with the hour and minute bid. However, while the minute hand moves as usual (rotating clockwise), the hour hand moves the opposite way (anti-clockwise). How many times will the two bids cross each other over the course of a day (i.e. from midnight to midnight the following day, considering both the initial and final bids)?
+> Alice has a rather strange clock. There is the classic 12-hour dial, with the hour hand and the minute hand. However, while the minute hand moves as usual (rotating clockwise), the hour hand moves in the opposite direction (counterclockwise). How many times will the two hands cross over the course of a day (that is, from midnight to the next midnight, considering both the initial and the final instant)?
 >
 > - **(A)** 27
 > - **(B)** 26
@@ -214,7 +230,10 @@ level: triennio
 > - **(D)** 24
 > - **(E)** 23
 
-**Answer:** D
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2026_triennio#q05|src_archimede_2026_triennio__Q05]]
 
 
 
@@ -249,17 +268,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*maximum divider = k times minimum divider >1*
+*Number of knights in Dino's class of knights and knaves*
 
-> On the island of knights and crooks, every inhabitant is either a knight (who always tells the truth) or a crook (who always lies). Dino's class is made up of 23 students in total. His fellow banker Philip says: "There are precisely 13 thieves in our classroom. Another 10 companions then say: Dino is a knight, the other 11 say instead: Dino is a cunning. Dino prefers not to lose his balance and is silent. How many knights are in the class?
+> On the island of knights and knaves, each inhabitant is either a knight (who always tells the truth) or a knave (who always lies). Dino's class consists of 23 students in all. His deskmate Filippo declares: "in our class there are exactly 13 knaves". Another 10 classmates then claim: "Dino is a knight", while the other 11 say: "Dino is a knave". Dino prefers not to commit himself and stays silent. How many knights are there in the class?
 >
 > - **(A)** 12
-> - **(B)** It is not possible to establish
+> - **(B)** it cannot be determined
 > - **(C)** 13
 > - **(D)** 10
 > - **(E)** 11
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2026_triennio#q06|src_archimede_2026_triennio__Q06]]
 
 
 
@@ -298,9 +321,17 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Around area of perpendicular strings, theorem of strings*
+*Area of a circle from perpendicular chords, chord theorem*
 
-> The sides of the square ABCD measure 3 cm. The sides of the EFGH square divide the sides of the ABCD into three equal parts. How many cm2 does the EFGH area measure? A B C D E F G H
+> The sides of square ABCD measure 3 cm. The sides of square EFGH divide the sides of ABCD into three equal parts. What is the area of EFGH in cm2?
+> A
+> B
+> C
+> D
+> E
+> F
+> G
+> H
 >
 > - **(A)** 25/3
 > - **(B)** 9
@@ -308,7 +339,10 @@ level: triennio
 > - **(D)** 16 3 √ 2
 > - **(E)** 6 √ 2
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_triennio#q07|src_archimede_2026_triennio__Q07]]
 
 
 
@@ -339,17 +373,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial containing 4 digits, value p(10)*
+*Position of NUMERO among its anagrams in alphabetical order*
 
-> Henry is writing, in alphabetical order, all the possible anagrams of the word NUMERO. What position does the word NUMBER occupy in this list?
+> Enrico is writing, in alphabetical order, all possible anagrams of the word NUMERO. What position does the word NUMERO occupy in this list?
 >
-> - **(A)** la 341a
-> - **(B)** la 344a
-> - **(C)** la 361a
-> - **(D)** la 337a
-> - **(E)** la 336a
+> - **(A)** the 341st
+> - **(B)** the 344th
+> - **(C)** the 361st
+> - **(D)** the 337th
+> - **(E)** the 336th
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2026_triennio#q08|src_archimede_2026_triennio__Q08]]
 
 
 
@@ -379,9 +417,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of 4-digit palindromes with palindromic difference*
+*Pairs of four-digit palindromes with palindromic difference*
 
-> The real number k satisfies the ratio −1 < k < 0. You can conclude that . . .
+> The real number k satisfies the relation −1 < k < 0. It can be concluded that . . .
 >
 > - **(A)** 1 k < k2 < k3 < 1 k2
 > - **(B)** k < 1 k < k2 < 1 k2
@@ -389,7 +427,11 @@ level: triennio
 > - **(D)** 1 k < k3 < k2 < 1 k2
 > - **(E)** k3 < 1 k < k2 < 1 k2
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2026_triennio#q09|src_archimede_2026_triennio__Q09]]
 
 
 
@@ -431,9 +473,17 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (a,b) with an integer polynomial p(5,1)=a, p(17,19)=b*
+*Pairs (a,b) with integer polynomial p(5,1)=a, p(17,19)=b*
 
-> The sides AB and BC of the triangle ABC are divided into 3 equal parts by the points P, Q and R, S. We know that the area of the ABC triangle is 120 m2. Taking any point X on the CA side, how many m2 does the area of the shaded quadrilateral at least measure? A B C X P Q R S
+> The sides AB and BC of triangle ABC are divided into 3 equal parts by the points P, Q and R, S. It is known that the area of triangle ABC is 120 m2. For any point X on side CA, what is the minimum area, in m2, of the shaded quadrilateral?
+> A
+> B
+> C
+> X
+> P
+> Q
+> R
+> S
 >
 > - **(A)** 64/3
 > - **(B)** 24
@@ -441,7 +491,11 @@ level: triennio
 > - **(D)** 18
 > - **(E)** 81/4
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2026_triennio#q10|src_archimede_2026_triennio__Q10]]
 
 
 
@@ -472,9 +526,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary CAB angle values in trapezoid with conditions on P*
+*Sum of values of angle CAB in a trapezium with conditions on P*
 
-> The natural numbers a, b, c are prime and satisfy the ratio abc = 3 (a+b+c) + 1. What is the maximum value of the quantity 5a + 3b + c?
+> The natural numbers a, b, c are prime and satisfy the relation abc = 3 (a+b+c)+1.
+> What can be, at most, the value of the quantity 5a + 3b + c ?
 >
 > - **(A)** 79
 > - **(B)** 73
@@ -482,7 +537,11 @@ level: triennio
 > - **(D)** 71
 > - **(E)** 77
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_triennio#q11|src_archimede_2026_triennio__Q11]]
 
 
 
@@ -516,7 +575,7 @@ level: triennio
 
 *Minimum of x+y with constraints and equation with roots*
 
-> Michela puts in line, on a shelf of her library, 5 books of fiction, 3 books of poetry and 2 books of photography, in a completely random way. What is the probability that all three books of poetry will be found next door (without other books in between)?
+> Michela lines up, on a shelf of her bookcase, 5 novels, 3 poetry books and 2 photography books, completely at random. What is the probability that the poetry books all end up next to each other (with no other books in between them)?
 >
 > - **(A)** 1/24
 > - **(B)** 1/72
@@ -524,7 +583,11 @@ level: triennio
 > - **(D)** 3/10
 > - **(E)** 1/15
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Analytic geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2026_triennio#q12|src_archimede_2026_triennio__Q12]]
 
 
 
@@ -557,9 +620,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Running/walking training, value x to finish home*
+*Running/walking practice, value x to finish at home*
 
-> George has a square table of 4 × 4 boxes. It wants to have coins on some boxes (no more than one per box), so that each row and each column contains an odd number of coins. How many configurations are possible?
+> Giorgio has a square table made up of 4 × 4 cells. He wants to place coins on some cells (no more than one per cell) so that each row and each column contain an odd number of coins.
+> How many possible configurations are there?
 >
 > - **(A)** 450
 > - **(B)** 441
@@ -567,7 +631,11 @@ level: triennio
 > - **(D)** 480
 > - **(E)** 512
 
-**Answer:** 50
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2026_triennio#q13|src_archimede_2026_triennio__Q13]]
 
 
 
@@ -603,9 +671,13 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Terns (x,y,z) with x+y+z+MCD(x,y,z) = 24*
+*Triples (x,y,z) with x+y+z+GCD(x,y,z)=24*
 
-> A square of 4 cm side contains three circles, tangent to each other and tangent to the sides of the square, as in the figure next to it. The circles α and β have the same radius. How many centimetres does the radius of γ measure ? α β γ
+> A square of side 4 cm contains three circles, tangent to one another and tangent to the sides of the square, as in the figure alongside. The circles α and β have the same radius.
+> How many cm is the radius of γ?
+> α
+> β
+> γ
 >
 > - **(A)** 7/6
 > - **(B)** 1
@@ -613,7 +685,11 @@ level: triennio
 > - **(D)** 9/8
 > - **(E)** 10/9
 
-**Answer:** 298
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2026_triennio#q14|src_archimede_2026_triennio__Q14]]
 
 
 
@@ -651,13 +727,20 @@ level: triennio
 
 *Isosceles triangle with BC=BP, ratio BC/AB and parallelogram*
 
-> Emma is busy painting the faces of a large number of cubes. It's available in seven different colors. In each cube, you want to color one face of one color, two other faces of another color and the other three of another color. How many cubes, at most, can you color in different ways? (the colours of two cubes shall be considered the same if, moving them in any way, they do not appear distinguishable from the colours of the faces) 
->
+> Emma is busy colouring the faces of a large number of cubes. She has 7 different colours available. In each cube, she wants to colour 1 face one colour, another 2 faces a second colour and the remaining 3 a third colour. What is the maximum number of cubes she can colour in mutually different ways?
+> (two colourings of two cubes are considered equal if, by moving them in any way, they do not appear distinguishable by the colours of the faces)
+> 
 > - **(A)** 630
 > - **(B)** 840
 > - **(C)** 420
 > - **(D)** 1050
 > - **(E)** 210
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_triennio#q15|src_archimede_2026_triennio__Q15]]
 
 
 
@@ -687,15 +770,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grid 11x11 cherries/fish, flowering conditions*
+*11x11 grid of cherries/peaches, flowering conditions*
 
-> The quadrilateral ABCD is inscribed in a circumference. Indicated by E as the intersection point between the AC and BD diagonals, AC = 10 AE and BD = 5 BE. What's the relationship between the major and the minor diagonal?
+> A quadrilateral ABCD is inscribed in a circle. Let E be the point of intersection of the diagonals AC and BD, and suppose AC = 10 AE and BD = 5 BE. What is the ratio of the longer diagonal to the shorter diagonal?
 >
 > - **(A)** 2
 > - **(B)** 4/3
 > - **(C)** 3/2
 > - **(D)** 5/4
 > - **(E)** 8/5 311
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2026_triennio#q16|src_archimede_2026_triennio__Q16]]
 
 
 
@@ -718,6 +806,12 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Terns (a,b,c) with a!=2^b+2^c*
+*Triples (a,b,c) with a≠2^b+2^c*
 
-> **[No problem present]** The Archimedes 2026 Triennial Race (27 November 2025) trial consists of only 16 problems. Problem 17 does not exist in this document.
+> **[Problem not present]** The Archimede 2026 Senior paper (27 November 2025) consists of only 16 problems. Problem 17 does not exist in this document.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2026_triennio#q17|src_archimede_2026_triennio__Q17]]

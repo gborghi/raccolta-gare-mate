@@ -33,9 +33,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Multiplicazione f con le condizioni di cifra 3 e f(10)=0 implica f=0*
+*f moltiplicativa con condizioni di cifra 3 e f(10)=0 implica f=0*
 
-> Un intero non negativo $f(n)$ è assegnato a ogni intero positivo $n$ in modo tale che siano soddisfatte le seguenti condizioni: (i) $f(mn) = f(m) + f(n)$ per tutti gli integri positivi $m$, $n$; (ii) $f(n) = 0$ quando la cifra decimale finale (a destra) di $n$ è $3$; e (iii) $f(10) = 0$. Prova che $f(n) = 0$ per tutti gli integri positivi $n$.
+> Ad ogni intero positivo $n$ è associato un intero non negativo $f(n)$ in modo tale che siano soddisfatte le seguenti condizioni:
+> (i) $f(mn) = f(m) + f(n)$ per tutti gli interi positivi $m$, $n$;
+> (ii) $f(n) = 0$ ogni volta che la cifra decimale finale (a destra) di $n$ è $3$; e
+> (iii) $f(10) = 0$.
+> Dimostrare che $f(n) = 0$ per tutti gli interi positivi $n$.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_bmo1_1977#q01|src_bmo1_1977__Q01]]
 
 
 
@@ -58,9 +68,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto medio di BC collineare con punti medio di BX e CY per il contatto incircolare*
+*Punto medio di BC allineato con i punti medi di BX e CY per il contatto con la circonferenza inscritta*
 
-> I lati $BC$, $CA$ e $AB$ di un triangolo toccano un cerchio rispettivamente a $X$, $Y$ e $Z$. Prove che il punto medio di $BC$ si trova sulla linea retta attraverso i punti medio di $BX$ e $CY$.
+> I lati $BC$, $CA$, $AB$ di un triangolo toccano una circonferenza rispettivamente nei punti $X$, $Y$, $Z$. Dimostrare che il punto medio di $BC$ giace sulla retta passante per i punti medi di $BX$ e $CY$.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_bmo1_1977#q02|src_bmo1_1977__Q02]]
 
 
 
@@ -86,9 +102,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza simmetrica in tre reali non negativi; conseguenza per tutti i reali*
+*Disuguaglianza simmetrica in tre reali non negativi; conseguenza per tutti i reali*
 
-> (i) Dimostra che, se $x$, $y$, $z$ sono numeri reali non negativi, allora $$x(x-y)(x-z) + y(y-z)(y-x) + z(z-x)(z-y) \ge 0.$$ (ii) Dimostra quindi o altrimenti che per tutti i numeri reali $a$, $b$, $c$ $$a^4 + b^4 + c^4 + 3a^2b^2c^2 \ge 2(b^2c^2 + c^2a^2 + a^2b^2).$$
+> (i) Dimostrare che, se $x$, $y$, $z$ sono numeri reali non negativi, allora
+> $$x(x-y)(x-z) + y(y-z)(y-x) + z(z-x)(z-y) \ge 0.$$
+> (ii) Pertanto o in altro modo mostrare che per tutti i numeri reali $a$, $b$, $c$
+> $$a^4 + b^4 + c^4 + 3a^2b^2c^2 \ge 2(b^2c^2 + c^2a^2 + a^2b^2).$$
+
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+[[Quesiti/src_bmo1_1977#q03|src_bmo1_1977__Q03]]
 
 
 
@@ -112,9 +137,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Radici di quarticche correlate espresse con radici di x^4+qx+r=0; legate a radici reali*
+*Radici di un quartico correlato espresse tramite le radici di $x^4+qx+r=0$; stima sul numero di radici reali*
 
-> L'equazione $x^4 + qx + r = 0$ ha radici $v_1, v_2, v_3, v_4$. \quad \ldots (1) Esprimere le radici di $x^4 + qx + r = 0$ in termini di $v_1, v_2, v_3, v_4$ per mostrare che se $(1)$ ha solo radici reali allora $-1 < x < 3$.
+> L'equazione $x^4 + qx + r = 0$ ha le radici $v_1, v_2, v_3, v_4$. \quad \ldots (1)
+> Esprimere le radici di $x^4 + qx + r = 0$ in termini di $v_1, v_2, v_3, v_4$ per mostrare che se $(1)$ ha solo radici reali allora $-1 < x < 3$.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_bmo1_1977#q04|src_bmo1_1977__Q04]]
 
 
 
@@ -137,9 +169,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due sfere ciascuna tangente all'esterno a cinque vertex-sfere di otteedro; punto comune?*
+*Due sfere ciascuna tangente esternamente a cinque sfere dei vertici di un ottaedro; punto comune?*
 
-> $A_1 A_2 A_3 A_4 A_5 A_6$ è un ottaedro regolare i cui lati sono di lunghezza $2a$. Per ogni $i = 1, 2, \ldots, 5$, $K_i$ è una sfera con centro $A_i$ e raggio $r_i$. Ciascuna di queste sfere $K_1, K_2, \ldots, K_5$ è toccata all'esterno da ciascuna delle due sfere $P_1$ e $P_2$ del raggio $a$. Determinare con la prova e senza tabelle se $P_1$ e $P_2$ hanno o non hanno un punto comune.
+> $A_1 A_2 A_3 A_4 A_5 A_6$ è un ottaedro regolare le cui lati sono ciascuno di lunghezza $2a$. Per ogni $i = 1, 2, \ldots, 5$, $K_i$ è una sfera con centro $A_i$ e raggio $r_i$. Ciascuna di queste sfere $K_1, K_2, \ldots, K_5$ è toccata esternamente da ciascuna delle due sfere $P_1$ e $P_2$ di raggio $a$. Determinare, con dimostrazione e senza tabelle, se $P_1$ e $P_2$ hanno o non hanno un punto comune.
+
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_bmo1_1977#q05|src_bmo1_1977__Q05]]
 
 
 
@@ -164,8 +202,14 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Decomponere 26(x^{2n}+...+1) in polinomi con diversi coefficienti digitali; trovare n*
+*Decomporre 26(x^{2n}+...+1) in polinomi con coefficienti-cifre distinti; trovare n*
 
-> Il polinomio $26(x^{2n} + x^{2n-2} + \cdots + x^2 + 1)$, dove $n > 1$, deve essere decomposto in una somma di polinomi, ognuno diverso. Ciascuno di questi polinomi è di forma $a_k x^k + a_{k-1} x^{k-1} + \cdots + a_1 x + a_0$, dove ogni $a_j$ è uno dei numeri $1, 2, \ldots, 9$ e non ci sono due $a_j$ uguali.
-> 
-> Trova tutti i valori di $n$ per i quali è possibile questa decomposizione.
+> Il polinomio $26(x^{2n} + x^{2n-2} + \cdots + x^2 + 1)$, dove $n > 1$, deve essere decomposto in una somma di polinomi, ciascuno diverso dagli altri. Ciascuno di questi polinomi ha la forma $a_k x^k + a_{k-1} x^{k-1} + \cdots + a_1 x + a_0$, dove ciascun $a_j$ è uno dei numeri $1, 2, \ldots, 9$ e nessun due $a_j$ sono uguali.
+>
+> Trovare tutti i valori di $n$ per i quali questa decomposizione è possibile.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+[[Quesiti/src_bmo1_1977#q06|src_bmo1_1977__Q06]]

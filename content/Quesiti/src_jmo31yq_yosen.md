@@ -30,11 +30,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare il prodotto mn con m+n=90 e m,n coprimo*
+*Massimo prodotto di due interi positivi coprimi*
 
-> Che $m$ e $n$ siano interamente integri positivi coprimari che soddisfano $m+n=90$. Trova il valore massimo possibile del prodotto $mn$.
+> Siano $m$ e $n$ interi positivi coprimi fra loro che soddisfano $m+n=90$. Trovare il massimo valore possibile del prodotto $mn$.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Risposta:** 2021
+[[Quesiti/src_jmo31yq_yosen#q01|src_jmo31yq_yosen__Q01]]
 
 
 
@@ -60,13 +64,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area ombrata all'interno di un decagono regolare di area 1*
+*Area della regione ombreggiata in un decagono regolare*
 
-> C'è un decagono regolare (poligono laterale regolare $10$) come mostrato nella figura seguente. Se la superficie totale del decagone è $1$, si trova la superficie della regione ombrata.
+> C'è un decagono regolare (poligono regolare di $10$ lati), come in figura. Se l'area totale del decagono è $1$, trovare l'area della regione ombreggiata.
 
 ![[src_jmo31yq_yosen__q02.png]]
 
-**Risposta:** \frac{2}{5}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Risposta:** $\frac{2}{5}$
+[[Quesiti/src_jmo31yq_yosen#q02|src_jmo31yq_yosen__Q02]]
 
 
 
@@ -92,13 +100,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles: piedi di perpendicolari dal punto interno; trovare AB*
+*Lato di un triangolo isoscele, date le distanze di un punto interno dai lati*
 
-> Lasciate che $ABC$ sia un triangolo di uguali dimensioni con $AB=AC$, e lasciate che $P$ sia un punto all'interno di esso. I piedi $D$, $E$ e $F$ siano i piedi delle perpendicolari abbassate rispettivamente da $P$ ai lati $BC$, $CA$ e $AB$. Supponiamo $BD=9$, $CD=5$, $PE=2$, $PF=5$. Trova la lunghezza del lato $AB$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Sia $ABC$ un triangolo isoscele con $AB=AC$, e sia $P$ un punto al suo interno. Siano $D$, $E$, $F$ i piedi delle perpendicolari abbassate da $P$ rispettivamente sui lati $BC$, $CA$, $AB$. Si supponga $BD=9$, $CD=5$, $PE=2$, $PF=5$. Trovare la lunghezza del lato $AB$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 ![[src_jmo31yq_yosen__q03.png]]
 
-**Risposta:** 4\sqrt{7}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $4\sqrt{7}$
+[[Quesiti/src_jmo31yq_yosen#q03|src_jmo31yq_yosen__Q03]]
 
 
 
@@ -122,11 +134,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La media di triples 2021 volte produce numeri interi; massimizza la somma iniziale*
+*Massima somma iniziale di tre interi positivi, dopo un'operazione ripetuta*
 
-> Tre numeri interi positivi distinti sono scritti su una lavagna nera. Quando i numeri reali $a$, $b$, $c$ sono scritti sulla lavagna, si considera l'operazione che li riscrive contemporaneamente come $\dfrac{b+c}{2}$, $\dfrac{c+a}{2}$, $\dfrac{a+b}{2}$. Dopo che questa operazione è stata eseguita $2021$ volte, i tre numeri sulla lavagna si sono rivelati tutti numeri interi positivi. Trova il valore massimo possibile della somma dei tre numeri interi positivi che sono stati scritti all'inizio.
+> Sulla lavagna sono scritti tre interi positivi distinti. Quando sulla lavagna sono scritti i numeri reali $a$, $b$, $c$, si consideri l'operazione che li riscrive contemporaneamente come $\dfrac{b+c}{2}$, $\dfrac{c+a}{2}$, $\dfrac{a+b}{2}$. Dopo che questa operazione è stata eseguita $2021$ volte, i tre numeri infine sulla lavagna sono risultati tutti interi positivi. Trovare il massimo valore possibile della somma dei tre interi positivi scritti all'inizio.
 
-**Risposta:** 3\cdot 2^{2021}+3
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Risposta:** $3\cdot 2^{2021}+3$
+[[Quesiti/src_jmo31yq_yosen#q04|src_jmo31yq_yosen__Q04]]
 
 
 
@@ -152,13 +168,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Imballare quattro tipi di blocchi di L-tetracube in una scatola 2x2x4*
+*Modi di mettere blocchi di cubetti in una scatola rettangolare*
 
-> Come mostrato nella figura di seguito, ci sono tipi di blocchi $4$, ognuno formato da cubetti unitari $4$ di lunghezza di bordo $1$. Quanti modi ci sono per inserire $4$ tali blocchi in una scatola rettangolare $2\times 2\times 4$ in modo che nulla salga fuori? Blocchi dello stesso tipo possono essere utilizzati più volte e blocchi possono essere inseriti dopo la rotazione. I posizionamenti che coincidono sotto una rotazione dell'intera scatola sono contati come distinti.
+> Come in figura, ci sono $4$ tipi di blocchi, ciascuno formato da $4$ cubetti unitari di spigolo $1$. In quanti modi si possono mettere $4$ tali blocchi in una scatola rettangolare $2\times 2\times 4$ senza che nulla sporga? Blocchi dello stesso tipo si possono usare più volte, e i blocchi si possono inserire dopo una rotazione. Disposizioni che coincidono per una rotazione dell'intera scatola si contano come distinte.
 
 ![[src_jmo31yq_yosen__q05.png]]
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Risposta:** 379
+[[Quesiti/src_jmo31yq_yosen#q05|src_jmo31yq_yosen__Q05]]
 
 
 
@@ -182,11 +202,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i valori distinti di f tra f  1)..f  10^10)*
+*Quanti interi positivi distinti compaiono in un conteggio di coppie coprime*
 
-> Per un intero positivo $n$, $f(n)$ indichi il numero di interi positivi $m$ in modo tale che $m$ e $n$ siano reciprocamente copriemi e $m+1$ e $n+1$ siano reciprocamente copriemi, dove $m$ va oltre $1,2,\dots,n$. Tra $f(1),f(2),\dots,f(10^{10})$, quanti numeri interi positivi distinti appaiono?
+> Per un intero positivo $n$, sia $f(n)$ il numero di interi positivi $m$ tali che $m$ e $n$ sono coprimi fra loro e anche $m+1$ e $n+1$ sono coprimi fra loro, dove $m$ varia in $1,2,\dots,n$. Tra $f(1),f(2),\dots,f(10^{10})$, quanti interi positivi distinti compaiono?
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 11
+[[Quesiti/src_jmo31yq_yosen#q06|src_jmo31yq_yosen__Q06]]
 
 
 
@@ -210,11 +234,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Centroidi ACP e ABQ coincidono; trovare BC*
+*Lato di un triangolo, dati due punti e i baricentri coincidenti*
 
-> Sul lato $BC$ del triangolo $ABC$, si prendono i punti $P$ e $Q$ e il centroide del triangolo $ACP$ coincide con il centroide del triangolo $ABQ$. Dato $AB=10$, $AC=11$, $BP=5$, $CQ=6$, si trova la lunghezza del lato $BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Sul lato $BC$ del triangolo $ABC$ si prendono i punti $P$ e $Q$, e il baricentro del triangolo $ACP$ coincide con il baricentro del triangolo $ABQ$. Dati $AB=10$, $AC=11$, $BP=5$, $CQ=6$, trovare la lunghezza del lato $BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-**Risposta:** \sqrt{231}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $\sqrt{231}$
+[[Quesiti/src_jmo31yq_yosen#q07|src_jmo31yq_yosen__Q07]]
 
 
 
@@ -240,11 +268,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta 17 doppi con due torri di alimentazione entrambe 1 mod 17*
+*Numero di tuple di interi in un intervallo che soddisfano un'equazione a torre di potenze*
 
-> Trova il numero di tuppi $(a_1,a_2,\dots,a_{17})$ di numeri interi, ciascuno almeno $2$ e al massimo $20$, in modo tale che $$a_1^{a_2^{\cdot^{\cdot^{a_{17}}}}}\equiv a_2^{a_3^{\cdot^{\cdot^{a_{17}}}}}\equiv 1\pmod{17}.$$ Qui ogni esponente è la torre di potenza formata dai due (e ulteriori) numeri scritti in alto a destra.
+> Trovare il numero di tuple $(a_1,a_2,\dots,a_{17})$ di interi, ciascuno almeno $2$ e al più $20$, tali che
+>
+> $$a_1^{a_2^{\cdot^{\cdot^{a_{17}}}}}\equiv a_2^{a_3^{\cdot^{\cdot^{a_{17}}}}}\equiv 1\pmod{17}.$$
+>
+> Qui ogni esponente è la torre di potenze formata dai due (e dagli ulteriori) numeri scritti in alto a destra.
 
-**Risposta:** 2042\cdot 19^{14}
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $2042\cdot 19^{14}$
+[[Quesiti/src_jmo31yq_yosen#q08|src_jmo31yq_yosen__Q08]]
 
 
 
@@ -268,11 +304,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Completare il 2021x2021 con 1,2,3, quindi ogni 2x2 è pari a 8; contare mod 100*
+*Resto del numero di riempimenti di una griglia, diviso per un intero*
 
-> Considerare i modi per scrivere uno dei numeri $1$, $2$, $3$ in ogni cella di una griglia $2021\times 2021$ in modo tale che, per ogni blocco di celle $2\times 2$, la somma dei quattro numeri scritti in esso sia uguale a $8$. Supponiamo che ci siano $A$ tali riempimenti in totale. Trova il rimanente quando $A$ è diviso da $100$. I riempimenti che coincidono sotto una rotazione o una riflessione sono contati come distinti.
+> Si considerino i modi di scrivere uno dei numeri $1$, $2$, $3$ in ogni casella di una griglia $2021\times 2021$ in modo che, per ogni blocco $2\times 2$ di caselle, la somma dei quattro numeri scritti sia uguale a $8$. Si supponga che ci siano in tutto $A$ tali riempimenti. Trovare il resto della divisione di $A$ per $100$. Riempimenti che coincidono per una rotazione o una riflessione si contano come distinti.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 3
+[[Quesiti/src_jmo31yq_yosen#q09|src_jmo31yq_yosen__Q09]]
 
 
 
@@ -296,11 +336,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conciclica D,B,C,E con punto interno P e angoli uguali; trovare BP/CP*
+*Un valore in un triangolo, dati quattro punti conciclici*
 
-> Nei lati $AB$ e $AC$ del triangolo $ABC$ ci sono i punti $D$ e $E$ rispettivamente, e i quattro punti $D$, $B$, $C$ e $E$ si trovano su un cerchio. Inoltre, $P$ è un punto all'interno del quadrilaterale $DBCE$ che soddisfa $\angle BDP=\angle BPC=\angle PEC$. Date $AB=9$, $AC=11$, $DP=1$, $EP=3$, si trova il valore di $\dfrac{BP}{CP}$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Sui lati $AB$ e $AC$ del triangolo $ABC$ ci sono rispettivamente i punti $D$ e $E$, e i quattro punti $D$, $B$, $C$, $E$ stanno su una circonferenza. Inoltre $P$ è un punto interno al quadrilatero $DBCE$ che soddisfa $\angle BDP=\angle BPC=\angle PEC$. Dati $AB=9$, $AC=11$, $DP=1$, $EP=3$, trovare il valore di $\dfrac{BP}{CP}$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-**Risposta:** \frac{\sqrt{33}}{11}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $\frac{\sqrt{33}}{11}$
+[[Quesiti/src_jmo31yq_yosen#q10|src_jmo31yq_yosen__Q10]]
 
 
 
@@ -324,11 +368,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa massima/minima di tre abbinamenti su tutti i tuppi; divisori di M-m*
+*Numero di divisori positivi di una differenza di due somme*
 
-> Su tutti i tuppi $(x,y,z,w)$ di numeri interi ognuno almeno $1$ e al massimo $1000$, $M$ sia la somma dei valori massimi di $xy+zw$, $zx+yw$, $xw+yz$ (cioè per ogni tuple sommare il più grande di questi tre quantitativi). Allo stesso modo, su tutti tali tupli $(x,y,z,w)$, $m$ sia la somma dei valori minimi di $xy+zw$, $zx+yw$, $xw+yz$. Trova il numero dei divisori positivi di $M-m$.
+> Su tutte le tuple $(x,y,z,w)$ di interi, ciascuno almeno $1$ e al più $1000$, sia $M$ la somma dei valori massimi di $xy+zw$, $zx+yw$, $xw+yz$ (cioè, per ogni tupla si aggiunge il più grande di queste tre quantità). Analogamente, su tutte tali tuple $(x,y,z,w)$, sia $m$ la somma dei valori minimi di $xy+zw$, $zx+yw$, $xw+yz$. Trovare il numero di divisori positivi di $M-m$.
 
+**Argomento:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
 **Risposta:** 20412
+[[Quesiti/src_jmo31yq_yosen#q11|src_jmo31yq_yosen__Q11]]
 
 
 
@@ -359,10 +407,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Monete su tavolo 7x7, quattro operazioni di diffusione; massimizzazione del totale delle monete*
+*Massimo numero di monete ottenibili con quattro operazioni su una tabella*
 
-> C'è un array di celle $7\times 7$. Una moneta viene posta sulla cella nella riga $1$st dall'alto e nella colonna $4$th dalla sinistra. Diciamo che la cellula $Y$ è a basso a sinistra della cellula $X$ se, per qualche intero positivo $k$, $Y$ è $k$ cellule a sinistra e $k$ cellule al di sotto $X$; allo stesso modo, $Y$ è a basso a destra di $X$ se, per qualche intero positivo $k$, $Y$ è $k$ cellule a destra e $k$ cellule al di sotto $X$. Per una cella $X$ che non è nella riga inferiore che ha una moneta sopra, si può eseguire esattamente una delle seguenti quattro operazioni: (a) Rimuovere una moneta da $X$ e inserire una moneta nella cella $1$ sotto $X$. b) Rimuovere una moneta da $X$ e posizionare una moneta su ciascuna delle celle situate in basso a sinistra di $X$. (c) Rimuovere una moneta da $X$ e posizionare una moneta su ciascuna delle celle in basso a destra di $X$. (d) Rimuovere una moneta da $X$ e posizionare una moneta su ciascuna delle celle $1$ a sinistra e $1$ sotto $X$ e la cella $1$ a destra e $1$ sotto $X$; tuttavia, se esiste solo una di queste due celle, posizionare una moneta solo su quella cella. Se si cerca di mettere una moneta su una cella che già ha una moneta, non viene messa lì. Dopo aver eseguito tali operazioni un certo numero di volte, trova il numero massimo possibile di monete che possono essere sulle celle.
+> C'è una tabella $7\times 7$ di caselle. Una moneta è posta sulla casella della $1$-esima riga dall'alto e della $4$-esima colonna da sinistra. Si dice che la casella $Y$ è in basso a sinistra della casella $X$ se, per qualche intero positivo $k$, $Y$ è $k$ caselle a sinistra e $k$ caselle sotto $X$; analogamente, $Y$ è in basso a destra di $X$ se, per qualche intero positivo $k$, $Y$ è $k$ caselle a destra e $k$ caselle sotto $X$. Per una casella $X$ non nell'ultima riga che ha una moneta, si può eseguire esattamente una delle quattro operazioni seguenti:
+> (a) si toglie una moneta da $X$ e se ne pone una sulla casella $1$ sotto $X$;
+> (b) si toglie una moneta da $X$ e se ne pone una su ciascuna delle caselle in basso a sinistra di $X$;
+> (c) si toglie una moneta da $X$ e se ne pone una su ciascuna delle caselle in basso a destra di $X$;
+> (d) si toglie una moneta da $X$ e se ne pone una sulla casella $1$ a sinistra e $1$ sotto $X$ e sulla casella $1$ a destra e $1$ sotto $X$; però, se esiste solo una di queste due caselle, si pone una moneta solo su quella.
+> Se si tenta di porre una moneta su una casella che ne ha già una, lì non si pone alcuna moneta. Dopo aver eseguito tali operazioni un numero qualunque di volte, trovare il massimo numero possibile di monete che possono stare sulle caselle.
 
 ![[src_jmo31yq_yosen__q12.png]]
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Risposta:** 19
+[[Quesiti/src_jmo31yq_yosen#q12|src_jmo31yq_yosen__Q12]]

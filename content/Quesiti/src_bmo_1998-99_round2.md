@@ -32,9 +32,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Partire prima n naturali in 2 o 3 sottoinsiemi di somma uguale*
+*Partiziona i primi n numeri naturali in 2 o 3 sottoinsiemi con somma uguale*
 
-> Per ogni numero intero positivo $n$, $S_n$ indichi l'insieme composto dai primi $n$ numeri naturali, cioè $$S_n = \{1, 2, 3, 4, \ldots, n-1, n\}.$$ (i) Per quali valori di $n$ è possibile esprimere $S_n$ come l'unione di due sottinsiemi disgiunti non vuoti in modo che gli elementi dei due sottinsiemi abbiano somme uguali? (ii) Per quali valori di $n$ è possibile esprimere $S_n$ come unione di tre sottoinsiemi non vuoti dissociati in modo che gli elementi dei tre sottoinsiemi abbiano somme uguali?
+> Per ogni intero positivo $n$, si indichi con $S_n$ l'insieme costituito dai primi $n$ numeri naturali, cioè
+> $$S_n = \{1, 2, 3, 4, \ldots, n-1, n\}.$$
+> (i) Per quali valori di $n$ è possibile esprimere $S_n$ come unione di due sottoinsiemi non vuoti e disgiunti tali che gli elementi nei due sottoinsiemi abbiano somme uguali? (ii) Per quali valori di $n$ è possibile esprimere $S_n$ come unione di tre sottoinsiemi non vuoti e disgiunti tali che gli elementi nei tre sottoinsiemi abbiano somme uguali?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_1998-99_round2#q01|src_bmo_1998-99_round2__Q01]]
 
 
 
@@ -58,9 +67,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove una relazione di prodotto in un esagono con lati paralleli*
+*Dimostra una relazione tra prodotti in un esagono con lati paralleli*
 
-> Il $ABCDEF$ deve essere un esagono (che può non essere regolare), che ha $AB$ parallelo a $ED$, $BC$ parallelo a $FE$ e $CD$ parallelo a $AF$. Provare che $$AD \cdot BC \cdot CE = CA \cdot EF \cdot FD.$$
+> Sia $ABCDEF$ un esagono (che può non essere regolare), il quale ha $AB$ parallelo a $ED$, $BC$ parallelo a $FE$ e $CD$ parallelo a $AF$. Dimostrare che
+> $$AD \cdot BC \cdot CE = CA \cdot EF \cdot FD.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_1998-99_round2#q02|src_bmo_1998-99_round2__Q02]]
 
 
 
@@ -84,9 +101,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimprovare la disuguaglianza simmetrica per i reali non negativi che sommano a 1*
+*Dimostrazione di una disuguaglianza simmetrica per numeri reali non negativi la cui somma è 1*
 
-> I numeri reali non negativi $p$, $q$ e $r$ soddisfano $p + q + r = 1$. Provare che $$7(pq + qr + rp) \le 2 + 9pqr.$$
+> I numeri reali non negativi $p$, $q$ e $r$ soddisfano $p + q + r = 1$. Dimostrare che
+> $$7(pq + qr + rp) \le 2 + 9pqr.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_1998-99_round2#q03|src_bmo_1998-99_round2__Q03]]
 
 
 
@@ -111,6 +136,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summe digitali di numeri del modulo 3n^2+n+1*
+*Somme delle cifre dei numeri della forma 3n^2+n+1*
 
-> Considerate tutti i numeri del modulo $3n^2 + n + 1$, dove $n$ è un intero positivo. (i) Quanto può essere piccola la somma delle cifre (in base 10) di un tale numero? (ii) Un tale numero può avere la somma delle sue cifre (in base 10) pari al 1999?
+> Si considerino tutti i numeri della forma $3n^2 + n + 1$, dove $n$ è un intero positivo. (i) Quanto può essere piccola la somma delle cifre (in base 10) di un tale numero? (ii) Un tale numero può avere la somma delle sue cifre (in base 10) pari a 1999?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_1998-99_round2#q04|src_bmo_1998-99_round2__Q04]]

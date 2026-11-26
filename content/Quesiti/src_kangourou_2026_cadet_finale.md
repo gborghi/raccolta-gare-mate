@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight difference between 50 or 60 triple bags*
+*Weight difference between 50- or 60-kg bags*
 
-> There are 4 sacks and each weighs an integer number of kilograms. If we choose 3 of them in each of the four possible ways, the total weight of the 3 chosen is either 50 or 60 kilograms. How many possible differences in weight are there between the heaviest sack and the lightest one?
+> There are 4 sacks, and each weighs a whole number of kilograms. If we choose 3 sacks in each of the four possible ways, the total weight of the 3 chosen sacks is either 50 or 60 kilograms. How many possible differences in weight are there between the heaviest sack and the lightest sack?
 
-**Answer:** 1
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2026_cadet_finale#qc1|src_kangourou_2026_cadet_finale__QC1]]
 
 
 
@@ -58,9 +62,13 @@ level: kangourou
 
 *Area of the fourth quadrilateral in a square*
 
-> In a square, four segments have been drawn from an internal point to the midpoints of the sides. The areas of three regions are indicated as $200$, $320$, $160$. What is the area of the fourth region?
+> In a square, 4 line segments have been drawn from an interior point to the midpoints of the sides. The areas are indicated as $200$, $320$, $160$. What is the area of the fourth?
 
-**Answer:** 280
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2026_cadet_finale#qc2|src_kangourou_2026_cadet_finale__QC2]]
 
 
 
@@ -83,11 +91,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counterfeit coin lighter with 6 weighings*
+*Fake coin lighter with 6 weighings*
 
-> There is a pile of coins that all look alike: they all have the same weight except one, which is the only fake one and weighs slightly less. I can identify the fake coin using a two-pan balance. If with at most 6 weighings I am certain I can identify the fake coin, what is the maximum number of coins that can be in the pile?
+> There's a pile of coins that all appear to be the same: they all have the same weight except for one, which is the only counterfeit coin and weighs slightly less. I can identify the counterfeit coin using a two-pan balance. If, with at most 6 comparisons, I'm certain I can identify the counterfeit coin, what's the maximum number of coins there can be in the pile?
 
-**Answer:** 729
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2026_cadet_finale#qc3|src_kangourou_2026_cadet_finale__QC3]]
 
 
 
@@ -110,11 +122,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Centers of external squares on a rectangle*
+*Centers of the squares external to a rectangle*
 
-> A rectangle $R$ is given. Externally to $R$, on each side a square is constructed. What can be said about the polygon whose vertices are the centers of the four squares?
+> A rectangle $R$ is given. Outside $R$, a square is constructed on each side. What can be said about the polygon whose vertices are the centers of the four squares?
 
-**Answer:** it is a square
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2026_cadet_finale#qc4|src_kangourou_2026_cadet_finale__QC4]]
 
 
 
@@ -137,11 +153,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remove an integer from 1 to 2026 for integer average*
+*Remove an entire unit from 1 to 2026 for the whole average*
 
-> Consider the integers from 1 to 2026 inclusive. You want to remove one so that the average of the remaining ones is an integer. List the numbers you can choose.
+> Consider the integers from 1 to 2026 inclusive. You want to remove one of them so that the mean of the remaining numbers is an integer. List the numbers you can choose.
 
-**Answer:** 1 or 2026
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2026_cadet_finale#qc5|src_kangourou_2026_cadet_finale__QC5]]
 
 
 
@@ -165,8 +185,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit palindrome pairs with palindromic sum*
+*Pairs of 4-digit palindromes with a palindromic sum*
 
-> How many unordered pairs of positive integer palindromes with 4 digits are there such that the sum of the two numbers is a 5-digit palindrome?
+> How many unordered pairs of positive 4-digit palindromic integers are there such that the sum of the two numbers is a 5-digit palindromic number?
 
-**Answer:** 36
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2026_cadet_finale#qc6|src_kangourou_2026_cadet_finale__QC6]]

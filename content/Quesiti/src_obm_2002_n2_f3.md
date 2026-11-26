@@ -35,15 +35,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di triangolo ottenuta riflettendo ogni vertice di un triangolo rettangolo sul lato opposto*
+*Area del triangolo ottenuto riflettendo ciascun vertice di un triangolo rettangolo rispetto al lato opposto*
 
-> Nel disegno laterale, la linea $t$ è perpendicolare al segmento $AB$ e passa attraverso il suo punto medio $M$. Diciamo che $A$ è il riflesso di $B$ rispetto alla linea $t$ (o rispetto al segmento $PQ$).
-> 
-> Il $XYZ$ deve essere un triangolo rettangolo di superficie $1\,\mathrm{m}^2$. Considera il triangolo $X'Y'Z'$ tale che $X'$ sia il riflesso di $X$ rispetto al lato $YZ$, $Y'$ sia il riflesso di $Y$ rispetto al lato $XZ$ e $Z'$ sia il riflesso di $Z$ rispetto al lato $XY$.
-> 
-> Calcolare l'area del triangolo $X'Y'Z'$.
+> Nel disegno accanto, la retta $t$ è perpendicolare al segmento $AB$ e passa per il suo punto medio $M$. Si dice che $A$ è il riflesso di $B$ rispetto alla retta $t$ (o rispetto al segmento $PQ$).
+>
+> Sia $XYZ$ un triangolo rettangolo di area $1\,\mathrm{m}^2$. Si consideri il triangolo $X'Y'Z'$ tale che $X'$ sia la riflessione di $X$ rispetto al lato $YZ$, $Y'$ sia la riflessione di $Y$ rispetto al lato $XZ$, e $Z'$ sia la riflessione di $Z$ rispetto al lato $XY$.
+>
+> Calcola l'area del triangolo $X'Y'Z'$.
 
 ![[src_obm_2002_n2_f3__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2002_n2_f3#q01|src_obm_2002_n2_f3__Q01]]
 
 
 
@@ -66,9 +73,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tra diciotto numeri interi a tre cifre consecutive uno è divisibile dalla sua somma di cifre*
+*Tra diciotto numeri interi consecutivi di tre cifre, uno è divisibile per la somma delle proprie cifre*
 
-> Mostrate che, tra diciotto numeri interi a tre cifre consecutive, esiste sempre uno che è divisibile dalla somma delle sue cifre.
+> Dimostrare che, tra diciotto interi consecutivi di tre cifre, esiste sempre almeno un numero divisibile per la somma delle sue cifre.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n2_f3#q02|src_obm_2002_n2_f3__Q02]]
 
 
 
@@ -93,11 +107,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di matchstick su una tavola m x n; prima di completare una vittoria quadrata unità; determinare il giocatore con una strategia vincente*
+*Gioco degli stuzzicadenti su una scacchiera m × n; vince chi per primo completa un quadrato unitario; determinare il giocatore che possiede una strategia vincente*
 
-> Vi viene fornita una lavagna a scacchi $m \times n$ e bastoni di fiammifero della dimensione dei lati delle celle. Due giocatori giocano alternativamente e, ad ogni mossa, uno dei giocatori mette un fiammifero su un lato di una cella della tavola, essendo vietato sovrapporre i fiammiferi.
-> 
-> Il giocatore che per primo riesce a completare un quadrato $1 \times 1$ di fiammiferi vince. Supponendo che nessuno dei due giocatori commetta errori, quale dei due giocatori ha la strategia vincente, cioè può vincere indipendentemente dal modo in cui il suo avversario gioca?
+> Ti viene fornito un tavoliere a scacchiera di dimensioni $m \times n$ e dei fiammiferi delle dimensioni dei lati delle caselle. Due giocatori si alternano e, ad ogni mossa, uno dei giocatori posiziona un fiammifero su un lato di una casella del tavoliere; è vietato sovrapporre i fiammiferi.
+>
+> Vince il giocatore che per primo riesce a completare una casella $1 \times 1$ con i stuzzicadenti. Supponendo che nessuno dei due giocatori commetta errori, quale dei due giocatori possiede la strategia vincente, cioè può vincere indipendentemente da come gioca l'avversario?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2002_n2_f3#q03|src_obm_2002_n2_f3__Q03]]
 
 
 
@@ -119,9 +140,15 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Combinazione di tre miscele a due componenti per ottenere un rapporto di tre componenti obiettivo*
+*Combina tre miscele binarie per ottenere il rapporto ternario target*
 
-> Una miscela ha i componenti $A$ e $B$ nel rapporto $3 : 5$, una seconda miscela ha i componenti $B$ e $C$ nel rapporto $1 : 2$, e una terza miscela ha i componenti $A$ e $C$ nel rapporto $2 : 3$. In quale rapporto dobbiamo combinare la prima, la seconda e la terza miscela in modo che i componenti $A$, $B$ e $C$ appaiano nel rapporto $3 : 5 : 2$?
+> Una miscela ha i componenti $A$ e $B$ nel rapporto $3 : 5$, una seconda miscela ha i componenti $B$ e $C$ nel rapporto $1 : 2$, e una terza miscela ha i componenti $A$ e $C$ nel rapporto $2 : 3$. In quale rapporto dobbiamo combinare la 1ª, la 2ª e la 3ª miscela affinché i componenti $A$, $B$ e $C$ compaiano nel rapporto $3 : 5 : 2$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n2_f3#q04|src_obm_2002_n2_f3__Q04]]
 
 
 
@@ -150,15 +177,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo inciso in un cerchio; perpendicolari da P su arco AB a BO e AO; dimostrare un triangolo a uguali stelle e una relazione di prodotto*
+*Triangolo inscritto in una circonferenza; perpendicolari condotte da P sull'arco AB alle rette BO e AO; dimostrare che si tratta di un triangolo isoscele e una relazione sul prodotto*
 
-> Il $ABC$ deve essere un triangolo inserito in un cerchio con il centro $O$ e il $P$ deve essere un punto dell'arco $AB$ che non contiene $C$. La perpendicolare tracciata da $P$ alla linea $BO$ incrocia $AB$ a $S$ e $BC$ a $T$. La perpendicolare tracciata da $P$ a $AO$ incrocia $AB$ a $Q$ e $AC$ a $R$.
-> 
-> Provare le seguenti due affermazioni:
-> 
-> a) $PQS$ è un triangolo di uguali dimensioni.
-> 
+> Sia $ABC$ un triangolo inscritto in una circonferenza avente centro $O$, e sia $P$ un punto sull'arco $AB$ che non contiene $C$. La perpendicolare condotta da $P$ alla retta $BO$ interseca $AB$ in $S$ e $BC$ in $T$. La perpendicolare condotta da $P$ a $AO$ interseca $AB$ in $Q$ e $AC$ in $R$.
+>
+> Dimostra le seguenti due affermazioni:
+>
+> a) $PQS$ è un triangolo isoscele.
+>
 > b) $PQ^2 = QR \cdot ST$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2002_n2_f3#q05|src_obm_2002_n2_f3__Q05]]
 
 
 
@@ -183,8 +217,15 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Euler totient phi: dimostrare che per ogni m esiste n con phi(n) = m!*
+*Totiente di Eulero phi: dimostrare che per ogni m esiste n tale che phi(n) = m!*
 
-> $n$ sia un numero intero positivo. Definitiamo $\varphi(n) = \left(1 - \dfrac{1}{p_1}\right) \cdot \left(1 - \dfrac{1}{p_2}\right) \cdot \ldots \cdot \left(1 - \dfrac{1}{p_k}\right) \cdot n$, dove $p_1, p_2, \ldots, p_k$ sono i fattori primi distinti di $n$. Prova che per ogni $m \ge 1$ esiste $n$ tale che $\varphi(n) = m!$.
-> 
+> Sia $n$ un numero intero positivo. Definiamo $\varphi(n) = \left(1 - \dfrac{1}{p_1}\right) \cdot \left(1 - \dfrac{1}{p_2}\right) \cdot \ldots \cdot \left(1 - \dfrac{1}{p_k}\right) \cdot n$, dove $p_1, p_2, \ldots, p_k$ sono i fattori primi distinti di $n$. Dimostrare che per ogni $m \ge 1$ esiste $n$ tale che $\varphi(n) = m!$.
+>
 > Nota: $m! = 1 \cdot 2 \cdot \ldots \cdot m$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n2_f3#q06|src_obm_2002_n2_f3__Q06]]

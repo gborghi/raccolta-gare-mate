@@ -31,11 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-La prova 49 dei primi 60 termini di una sequenza decimale ha ≥3 fattori primi*
+*49 delle prime 60 termini di una successione decimale hanno ≥3 fattori primi*
 
-> Nella sequenza $7, 76, 769, 7692, 76923, 769230, \ldots$, il termine $n$ è dato dai primi cifre $n$ dopo il punto decimale nell'espansione di $10/13 = 0.7692307692\ldots$
-> 
-> Prova che nei primi 60 termini della sequenza, almeno 49 hanno tre o più fattori primi (si ammette i fattori primi ripetuti; ad esempio, $76 = 2 \times 2 \times 19$ ha tre fattori primi).
+> Nella successione $7, 76, 769, 7692, 76923, 769230, \ldots$, il termine $n$-esimo è dato dai primi $n$ cifre dopo la virgola nello sviluppo decimale di $10/13 = 0.7692307692\ldots$
+>
+> Dimostrare che, tra i primi 60 termini della successione, almeno 49 hanno tre o più fattori primi (sono ammessi fattori primi ripetuti; ad esempio, $76 = 2 \times 2 \times 19$ ha tre fattori primi).
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2023-24_round2#q01|src_bmo_2023-24_round2__Q01]]
 
 
 
@@ -59,9 +66,17 @@ La prova 49 dei primi 60 termini di una sequenza decimale ha ≥3 fattori primi*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni interi che soddisfano 2f(f(n))=5f(n)−2n*
+*Trovare tutte le funzioni a valori interi che soddisfano 2f(f(n))=5f(n)−2n*
 
-> Trova tutte le funzioni $f$ dai numeri interi ai numeri interi in modo che per tutti i numeri interi $n$: $$2f(f(n)) = 5f(n) - 2n.$$
+> Trovare tutte le funzioni $f$ da ℤ a ℤ tali che, per ogni intero $n$:
+> $$2f(f(n)) = 5f(n) - 2n.$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2023-24_round2#q02|src_bmo_2023-24_round2__Q02]]
 
 
 
@@ -86,11 +101,18 @@ La prova 49 dei primi 60 termini di una sequenza decimale ha ≥3 fattori primi*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che l'AXPY quadrilaterale è ciclico in configurazione triangolare acuta*
+*Dimostrare che il quadrilatero AXPY è ciclico nella configurazione del triangolo acutangolo*
 
-> Il $ABC$ deve essere un triangolo acuto con $AB > AC$. $P$ è l'intersezione delle tangenti al circoncircolo di $ABC$ a $B$ e $C$. La linea che attraversa i punti medi dei segmenti $PB$ e $PC$ incontra rispettivamente le linee $AB$ e $AC$ a $X$ e $Y$.
-> 
-> Provare che il quadrilaterale $AXPY$ è ciclico.
+> Sia $ABC$ un triangolo acutangolo con $AB > AC$. Sia $P$ l'intersezione delle tangenti alla circonferenza circoscritta di $ABC$ nei punti $B$ e $C$. La retta passante per i punti medi dei segmenti $PB$ e $PC$ incontra le rette $AB$ e $AC$ rispettivamente nei punti $X$ e $Y$.
+>
+> Dimostrare che il quadrilatero $AXPY$ è ciclico.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2023-24_round2#q03|src_bmo_2023-24_round2__Q03]]
 
 
 
@@ -113,6 +135,13 @@ La prova 49 dei primi 60 termini di una sequenza decimale ha ≥3 fattori primi*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti (m,n) per i quali n pile di oggetti m possono essere svuotate*
+*Trovare tutte le coppie (m,n) per cui è possibile svuotare n pile di m oggetti ciascuna*
 
-> Lasciate che $m < n$ siano numeri interi positivi. Inizia con pile $n$, ciascuno degli oggetti $m$. eseguire ripetutamente la seguente operazione: scegliere due pile e rimuovere l'insieme degli oggetti $n$ da queste due pile. Per quale $(m, n)$ è possibile svuotare tutte le pile?
+> Siano $m < n$ numeri interi positivi. Si parta da $n$ mucchi, ciascuno contenente $m$ oggetti. Si esegua ripetutamente l'operazione seguente: si scelgano due mucchi e si rimuovano in totale $n$ oggetti dai due mucchi. Per quali valori di $(m, n)$ è possibile svuotare tutti i mucchi?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2023-24_round2#q04|src_bmo_2023-24_round2__Q04]]

@@ -29,9 +29,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare buoni set di grado n; dimostrare la ricorrenza di tipo Fibonacci*
+*Conta i buoni insiemi di grado n; dimostra una relazione di ricorrenza di tipo Fibonacci*
 
-> Un insieme non vuoto $A \subseteq \{1, 2, 3, \ldots, n\}$ è chiamato un buon insieme di gradi $n$ se $|A| \leq \min_{a \in A} a$. $a_n$ indichi il numero di buoni gruppi di grado $n$. Prova che $a_n = a_{n-1} + a_{n-2} + 1$ per qualsiasi numero intero positivo $n \geq 1$.
+> Un insieme non vuoto $A \subseteq \{1, 2, 3, \ldots, n\}$ è detto insieme buono di grado $n$ se $|A| \leq \min_{a \in A} a$. Sia $a_n$ il numero di insiemi buoni di grado $n$. Dimostrare che $a_n = a_{n-1} + a_{n-2} + 1$ per ogni intero positivo $n \geq 1$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2013#q01|src_cn_cwmo_2013__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sosteniamo la disuguaglianza della somma per i reali in [0,1]*
+*Dimostrare la disuguaglianza della somma per i numeri reali in [0,1]*
 
-> $n$ sia un numero intero, $n \ge 2$ e $x_1, x_2, \ldots, x_n \in [0, 1]$. Provare che $$3\sum_{1 \le k < r \le n} k x_k x_r \le (n-1)\sum_{k=1}^{n} k x_k.$$ (posato da Guangjian)
+> Sia $n$ un numero intero, $n \ge 2$ e $x_1, x_2, \ldots, x_n \in [0, 1]$. Dimostrare che
+> $$3\sum_{1 \le k < r \le n} k x_k x_r \le (n-1)\sum_{k=1}^{n} k x_k.$$
+> (proposto da Guangjian)
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2013#q02|src_cn_cwmo_2013__Q02]]
 
 
 
@@ -83,11 +99,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Line tangenti a cerchio; dimostrare CD = CE tramite bisettori angolari*
+*Tangenti a una circonferenza; dimostrare che CD = CE tramite le bisettrici degli angoli*
 
-> Come mostrato nella figura. 6.1, $PA$, $PB$ sono tangenti al cerchio con il centro $O$ a $A$ e $B$, il punto $C$ (diverso da $A$, $B$) è su un arco minore $AB$. La linea $l$ attraverso il punto $C$ e perpendicolare a $PC$ incontra rispettivamente i bisettori angolari di $\angle AOC$ e $\angle BOC$ nei punti $D$ e $E$. Prova che $CD = CE$. (Possibile da He Yijie)
+> Come mostrato nella Fig. 6.1, $PA$ e $PB$ sono tangenti al cerchio di centro $O$ nei punti $A$ e $B$; il punto $C$ (diverso da $A$ e $B$) giace sull'arco minore $AB$. La retta $l$, passante per il punto $C$ e perpendicolare a $PC$, incontra le bisettrici dell'angolo di $\angle AOC$ e di $\angle BOC$ nei punti $D$ e $E$, rispettivamente. Dimostrare che $CD = CE$. (proposto da He Yijie)
 
 ![[src_cn_cwmo_b11_w268__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2013#q03|src_cn_cwmo_2013__Q03]]
 
 
 
@@ -113,13 +136,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lingue e diagonali di lato di n-gon regolare con somma triangolare uguale*
+*Etichetta i lati e le diagonali di un n-gono regolare con somme triangolari uguali*
 
-> Etichettare i lati di un normale $n$-gon in senso orario con $1, 2, \ldots, n$. Determinare tutti i numeri interi $n$ ($n \geq 4$) che soddisfano le seguenti due condizioni:\n(1) non vengono selezionati entrambi due diagonali incrociati nel $n$-gon, e i diagonali non incrociati selezionati $n - 3$ suddividono il $n$-gon in triangoli non sovrapposti $n - 2$;\n(2) ciascuno dei diagonali selezionati $n - 3$ è etichettato con un numero intero positivo, in modo che non ci siano due diagonali che condividano la stessa etichetta, e la somma dei numeri etichettati sui tre lati di ogni triangolo è uguale al valore. (Posizionato da Zou Jin)
+> Etichetta i lati di un $n$-gono regolare in senso orario con $1, 2, \ldots, n$. Determinare tutti gli interi $n$ ($n \geq 4$) che soddisfano le seguenti due condizioni:\n(1) nessuna delle due diagonali che si intersecano in un $n$-gono è selezionata insieme all'altra, e le $n - 3$ diagonali non incidenti scelte suddividono l'$n$-gono in $n - 2$ triangoli non sovrapposti;\n(2) ciascuna delle $n - 3$ diagonali scelte è etichettata con un numero intero positivo, in modo che nessuna coppia di diagonali condivida la stessa etichetta, e la somma dei numeri etichettati sui tre lati di ciascun triangolo è uguale allo stesso valore. (proposto da Zou Jin)
 
 ![[src_cn_cwmo_b11_w268__q04.png]]
 
-**Risposta:** tutti gli $n \geq 4$ con $n \not\equiv 2 \pmod{4}$
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2013#q04|src_cn_cwmo_2013__Q04]]
 
 
 
@@ -143,8 +171,13 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare tutti gli integri positivi a divisione a^n - n^a per 2^n - n^2*
+*Trovare tutti gli interi positivi a tali che a^n - n^a sia divisibile per 2^n - n^2*
 
-> Trova tutti gli integri positivi $a$ in modo tale che $(2^n - n^2) \mid (a^n - n^a)$ per tutti gli integri positivi $n \geq 4$. (Posizionato da Yang Mingliang)
+> Trovare tutti gli interi positivi $a$ tali che $(2^n - n^2) \mid (a^n - n^a)$ per tutti gli interi positivi $n \geq 4$. (proposto da Yang Mingliang)
 
-**Risposta:** $a = 2$ oppure $a = 4$
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2013#q05|src_cn_cwmo_2013__Q05]]

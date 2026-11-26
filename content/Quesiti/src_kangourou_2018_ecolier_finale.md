@@ -23,17 +23,21 @@ level: kangourou
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1950
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iLzsOOxo6qGBnfqFxDfWJ5fjJnKt5amO/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of the empty truck from three trips with 5 t of sand*
+*Weight of the empty truck for three trips with 5 t of sand*
 
-> A pile of sand weighs $5$ tons. A truck can transport all the sand in $3$ trips: on the first trip the loaded truck weighs $3950$ kg; on the second trip it weighs $3750$ kg; on the third trip it weighs $3150$ kg. How many kilograms does the empty truck weigh?
+> A pile of sand weighs $5$ tonnes. A truck can transport all the sand in $3$ trips: on the first trip, the loaded truck weighs $3950$ kg; on the second trip, it weighs $3750$ kg; on the third trip, it weighs $3150$ kg. How many kilograms does the empty truck weigh?
 
-**Answer:** 1950
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_ecolier_finale#qe1|src_kangourou_2018_ecolier_finale__QE1]]
 
 
 
@@ -55,7 +59,7 @@ level: kangourou
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iLzsOOxo6qGBnfqFxDfWJ5fjJnKt5amO/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -65,11 +69,16 @@ level: kangourou
 
 > Call $S$ the result of the addition
 > $$2015 + 2016 + 2017 + 2018 + 2019 + 2020 + 2021.$$
-> What do you think is the fastest way to compute the quotient
+> In your opinion, what's the fastest way to calculate the quotient?
 > $$S : 2018$$
-> and what is the result?
+> And what's the result?
 
-**Answer:** 7
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_ecolier_finale#qe2|src_kangourou_2018_ecolier_finale__QE2]]
 
 
 
@@ -87,17 +96,22 @@ level: kangourou
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iLzsOOxo6qGBnfqFxDfWJ5fjJnKt5amO/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most frequent remainder when dividing numbers from 1 to 10000 by 11*
+*The most frequent remainder when dividing the numbers from 1 to 10000 by 11*
 
-> Matteo divided each of the integers from $1$ to $10,000$ inclusive by $11$: sometimes he got remainder $0$, other times not. What is the remainder he got most often?
+> Matteo divided each of the integers from $1$ to $10.000$ inclusive by $11$: sometimes he got a remainder of $0$, and other times he didn't. Which remainder did he get most often?
 
-**Answer:** 1
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_ecolier_finale#qe3|src_kangourou_2018_ecolier_finale__QE3]]
 
 
 
@@ -116,19 +130,23 @@ level: kangourou
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iLzsOOxo6qGBnfqFxDfWJ5fjJnKt5amO/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Turns of the 20-tooth wheel for the marks to come together again*
+*Engage the 20-tooth wheel so that the notches line up again*
 
 ![[src_kangourou_2018_ecolier_finale__probe4.png]]
 
-> A gear consists of two toothed wheels: one has $16$ teeth, the other has $20$. As the figure suggests, the two wheels are in contact, that is, the teeth of one engage the teeth of the other, and both have a mark. At this instant the gear starts moving: how many turns must the wheel with $20$ teeth make before the two marks return simultaneously, for the first time, to their current position?
+> A gear assembly consists of two gears: one has $16$ teeth, and the other has $20$ teeth. As the figure suggests, the two gears are in contact—that is, the teeth of one gear mesh with the teeth of the other—and both gears have a notch. At this instant, the gear assembly starts moving: how many revolutions must the gear with $20$ teeth make before the two notches simultaneously return to their current position for the first time?
 
-**Answer:** 4
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_ecolier_finale#qe4|src_kangourou_2018_ecolier_finale__QE4]]
 
 
 
@@ -146,17 +164,22 @@ level: kangourou
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iLzsOOxo6qGBnfqFxDfWJ5fjJnKt5amO/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cars in the four least numerous groups by sum of digits of the license plate*
+*Car in the four smallest groups by the sum of the digits on the license plate*
 
-> In Kangland there are exactly one thousand cars. Their license plates, all different from each other, have three digits: the numbers are therefore between $000$ and $999$. For each car, the digits of the license plate are summed and the cars are divided into groups, so that all cars in the same group give the same sum and different groups correspond to different sums. How many cars do the four least numerous groups have in total?
+> In Kanglandia, exactly a thousand cars are in circulation. Their license plates, all different from one another, have three digits: the numbers therefore lie between $000$ and $999$. For each car, the digits on its license plate are added together, and the cars are divided into groups so that all the cars in the same group yield the same sum and different groups correspond to different sums. How many cars are there in total in the four smallest groups?
 
-**Answer:** 8
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_ecolier_finale#qe5|src_kangourou_2018_ecolier_finale__QE5]]
 
 
 
@@ -173,14 +196,18 @@ level: kangourou
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 336
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iLzsOOxo6qGBnfqFxDfWJ5fjJnKt5amO/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Days to save 1000 euros with grandpa's and uncle's pocket money*
+*Days to save €1,000 from Grandpa's and Uncle's tips*
 
-> Enrico would like to buy a bike that costs $1000$ euros and to get the necessary money he plans to save, from today onwards, all the pocket money he receives from his grandpa and his uncle. His grandpa gives him $10$ euros every week, while his uncle gives him $15$ euros every ten days: today he received pocket money from both. How many days must pass from today for Enrico to be able to go and buy the bike he longs for?
+> Enrico would like to buy a bicycle that costs $1000$ euros, and in order to have the necessary money, he is thinking of saving, from today onward, all the tips he receives from his grandfather and his uncle. Every week, his grandfather gives him $10$ euros as a gift, while his uncle gives him $15$ euros as a gift every ten days: today he received a tip from both of them. How many days must pass from today for Enrico to be able to go and buy the longed-for bicycle?
 
-**Answer:** 336
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_ecolier_finale#qe6|src_kangourou_2018_ecolier_finale__QE6]]

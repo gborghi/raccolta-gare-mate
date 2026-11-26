@@ -33,9 +33,19 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi positivi con rapporto fattoriale di media primaria e numeri interi*
+*Trovare tutte le coppie di numeri interi positivi con media prima e rapporto di fattoriali intero*
 
-> Trova tutte le coppie di integri positivi $(x, y)$ che soddisfano le seguenti due condizioni: \begin{itemize} \item La media di $x$ e $y$ è un numero primo. \item $\dfrac{x! + y!}{x + y}$ è un numero intero. # Finire #
+> Trovare tutte le coppie di interi positivi $(x, y)$ che soddisfano le seguenti due condizioni:
+> \begin{itemize}
+> \item La media di $x$ e $y$ è un numero primo. \item $\dfrac{x! + y!}{x + y}$ è un numero intero.
+> \end{itemize}
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jegmo13q#q01|src_jegmo13q__Q01]]
 
 
 
@@ -64,15 +74,22 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Armoni di cerchio di conte che garantiscono la vittoria della partita a griglia B*
+*Conta le disposizioni circolari che garantiscono la vittoria di B nel gioco della griglia*
 
-> $n \ge 2$ sia un numero intero. C'è una griglia $n \times n$, e cero o più cellule hanno un cerchio scritto in esse. I giocatori A e B giocano con questa griglia. La seguente operazione è ripetuta $n - 1$ volte:
-> 
-> Il giocatore A sceglie una riga che non è stata scelto prima e colora tutte le celle in quella riga in nero. Quindi il giocatore B sceglie una colonna che non è stata scelto prima e colora tutte le celle in quella colonna in nero.
-> 
-> Dopo che tutte le operazioni sono completate, se esiste una cella che non è di colore nero e contiene un cerchio, allora B vince; altrimenti A vince. Trova il numero di modi per posizionare cerchi in modo che B possa garantire una vittoria indipendentemente dalle azioni di A.
-> 
-> Nota: gli arrangiamenti che coincidono per rotazione o riflessione sono considerati come distinti.
+> Sia $n \ge 2$ un numero intero. C'è una griglia $n \times n$, e in zero o più celle è scritto un cerchio. I giocatori A e B giocano una partita usando questa griglia. L'operazione seguente viene ripetuta $n - 1$ volte:
+>
+> Il giocatore A sceglie una riga che non è stata scelta prima e colora di nero tutte le celle di quella riga. Poi il giocatore B sceglie una colonna che non è stata scelta prima e colora di nero tutte le celle di quella colonna.
+>
+> Dopo che tutte le operazioni sono state completate, se esiste una cella che non è colorata di nero e contiene un cerchio, allora B vince; altrimenti A vince. Determinare il numero di modi per posizionare i cerchi tali che B possa garantirsi la vittoria indipendentemente dalle mosse di A.
+>
+> Nota: le disposizioni che coincidono per rotazione o riflessione sono considerate distinte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jegmo13q#q02|src_jegmo13q__Q02]]
 
 
 
@@ -96,9 +113,17 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni a valore reale che soddisfano una determinata equazione funzionale*
+*Trovare tutte le funzioni a valori reali che soddisfano una data equazione funzionale*
 
-> Trovare tutte le funzioni $f$ definite sui numeri reali e prendere valori reali in modo che per tutti i numeri reali $x, y$, $$f(f(x) + xy) = f(x)f(x + y).$$
+> Trovare tutte le funzioni $f$ definite sui numeri reali e a valori reali tali che, per tutti i numeri reali $x, y$,
+> $$f(f(x) + xy) = f(x)f(x + y).$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jegmo13q#q03|src_jegmo13q__Q03]]
 
 
 
@@ -126,9 +151,19 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i numeri interi n>=2 e stringente aumento delle sequenze di numeri interi positivi con condizione di divisibilità*
+*Trovare tutti gli interi n≥2 e tutte le successioni di interi positivi strettamente crescenti che soddisfano la condizione di divisibilità*
 
-> Trova tutti gli integri $n \ge 2$ e tutti $n$-tupli di integri positivi $(a_1, a_2, \ldots, a_n)$ che soddisfano le seguenti tre condizioni: \begin{itemize} \item $a_1 < a_2 < \cdots < a_n$. \item $a_n$ è un numero primo. \item Per ogni numero intero $k$ con $1 \le k \le n$, $a_k$ divide $a_1 + a_2 + \cdots + a_n$. # Finire #
+> Trovare tutti gli interi $n \ge 2$ e tutte le n-uple $n$ di interi positivi $(a_1, a_2, \ldots, a_n)$ che soddisfano le seguenti tre condizioni:
+> \begin{itemize}
+> \item $a_1 < a_2 < \cdots < a_n$. \item $a_n$ è un numero primo. \item Per ogni numero intero $k$ tale che $1 \le k \le n$, $a_k$ divide $a_1 + a_2 + \cdots + a_n$.
+> \end{itemize}
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jegmo13q#q04|src_jegmo13q__Q04]]
 
 
 
@@ -151,6 +186,13 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che due perpendicolari si incontrano su un circoncircolo data condizione di conciclicità*
+*Dimostrare che due perpendicolari si incontrano sul cerchio circoscritto, data la condizione di conciclicità*
 
-> Let $G$ essere il centroide del triangolo $ABC$, e let $M$, $N$ essere i punti medi dei lati $AB$, $AC$, rispettivamente. Supponiamo che i quattro punti $A$, $G$, $M$, $N$ siano conciclici. Prova che la linea attraverso $A$ perpendicolare alla linea $AG$ e la linea attraverso $G$ perpendicolare alla linea $BC$ si incontrano sul circoncircolo del triangolo $ABC$.
+> Sia $G$ il baricentro del triangolo $ABC$, e siano $M$, $N$ i punti medi dei lati $AB$, $AC$, rispettivamente. Si supponga che i quattro punti $A$, $G$, $M$, $N$ siano concyclici. Dimostrare che la retta passante per $A$ e perpendicolare alla retta $AG$ e la retta passante per $G$ e perpendicolare alla retta $BC$ si incontrano sulla circonferenza circoscritta al triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jegmo13q#q05|src_jegmo13q__Q05]]

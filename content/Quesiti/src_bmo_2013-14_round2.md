@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di colori per le diagonali di colore del 2014-gon in modo che le diagonali di incrocio differiscano*
+*Colori minimi per colorare le diagonali di un 2014-gono in modo che le diagonali che si intersecano siano di colore diverso*
 
-> Ogni diagonale di un poligono regolare con lati $2014$ è colorata in uno dei colori $n$. Ogni volta che due diagonali si incrociano all'interno, sono di colori diversi. Qual è il valore minimo di $n$ per il quale questo è possibile?
+> Ogni diagonale di un poligono regolare con $2014$ lati è colorata con uno dei $n$ colori. Ogni volta che due diagonali si intersecano all'interno del poligono, esse hanno colori diversi. Qual è il valore minimo di $n$ per cui ciò è possibile?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_grafi|Grafi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2013-14_round2#q01|src_bmo_2013-14_round2__Q01]]
 
 
 
@@ -56,11 +63,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che nessun cuboide ha volume, superficie e perimetro numericamente uguali*
+*Dimostrare che nessun parallelepipedo rettangolo ha volume, area superficiale e perimetro numericamente uguali*
 
-> Prove che è impossibile avere un cuboide per il quale il volume, la superficie e il perimetro sono numericamente uguali.
-> 
-> Il perimetro di un cuboide è la somma delle lunghezze di tutti i suoi dodici bordi.
+> Dimostrare che è impossibile avere un parallelepipedo rettangolo per il quale il volume, l'area della superficie e il perimetro siano numericamente uguali.
+>
+> Il perimetro di un parallelepipedo rettangolo è la somma delle lunghezze di tutti i suoi dodici spigoli.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2013-14_round2#q02|src_bmo_2013-14_round2__Q02]]
 
 
 
@@ -87,13 +101,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza a_1=3, a_{n+1}=a_n^2+a_n-1; dimostrare infiniti prime divisori*
+*Successione a_1=3, a_{n+1}=a_n^2+a_n-1; dimostrare l'esistenza di infiniti divisori primi*
 
-> Definire una sequenza $(a_n)$ per $a_1 = 3$ e $a_{n+1} = a_n^2 + a_n - 1$ per $n \geq 1$.
-> 
-> a) dimostrare che ci sono infiniti numeri primi che dividono almeno un termine della sequenza.
-> 
-> b) dimostrare che ci sono infinitamente molti numeri primi che non dividono alcun termine della sequenza.
+> Definisci una successione $(a_n)$ mediante $a_1 = 3$ e $a_{n+1} = a_n^2 + a_n - 1$ per $n \geq 1$.
+>
+> a) Dimostrare che esistono infiniti numeri primi che dividono almeno un termine della successione.
+>
+> b) Dimostrare che esistono infiniti numeri primi che non dividono alcun termine della successione.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2013-14_round2#q03|src_bmo_2013-14_round2__Q03]]
 
 
 
@@ -122,12 +143,19 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con punto interno; circoncenti di subtriangoli si incontrano su tre linee simultanee*
+*Triangolo con punto interno; i circocentri dei sottotriangoli concorrono su tre rette concorrenti*
 
-> Che $ABC$ sia un triangolo e $P$ un punto nel suo interno. Si deve far incontrare $AP$ il circoncircolo di $ABC$ a $A'$. I punti $B'$ e $C'$ sono definiti in modo simile.
-> 
-> $O_A$ sia il circoncentro del triangolo $BCP$. Le circoncentri $O_B$ e $O_C$ sono definite in modo simile.
-> 
-> $O_{A'}$ sia il circoncentro del triangolo $B'C'P$. Le circoncentri $O_{B'}$ e $O_{C'}$ sono definite in modo simile.
-> 
-> Prove che le linee $O_A O_{A'}$, $O_B O_{B'}$ e $O_C O_{C'}$ sono simultanee.
+> Sia $ABC$ un triangolo e $P$ un punto nel suo interno. Sia $AP$ tale che incontri la circonferenza circoscritta di $ABC$ in $A'$. I punti $B'$ e $C'$ sono definiti in modo analogo.
+>
+> Sia $O_A$ il circocentro del triangolo $BCP$. I circocentri $O_B$ e $O_C$ sono definiti in modo analogo.
+>
+> Sia $O_{A'}$ il circocentro del triangolo $B'C'P$. I circocentri $O_{B'}$ e $O_{C'}$ sono definiti in modo analogo.
+>
+> Dimostrare che le rette $O_A O_{A'}$, $O_B O_{B'}$ e $O_C O_{C'}$ sono concorrenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2013-14_round2#q04|src_bmo_2013-14_round2__Q04]]

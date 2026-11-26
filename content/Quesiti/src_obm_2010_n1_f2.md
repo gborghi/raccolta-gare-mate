@@ -30,11 +30,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Copi necessari per completare il riempimento di un vaso da 1/4 pieno a 1/3 pieno*
+*Tazze necessarie per completare il riempimento di un barattolo, portandolo da 1/4 pieno a 1/3 pieno*
 
-> Un vaso contiene $\frac{1}{4}$ della sua capacità in acqua. Versa una tazza piena di acqua nel vaso, il volume raggiunge $\frac{1}{3}$ della sua capacità. Quanti altri bicchieri pieni sono ancora necessari per riempire completamente il vaso?
+> Un barattolo contiene $\frac{1}{4}$ della sua capacità in acqua. Versando nel barattolo una tazza piena d'acqua, il volume raggiunge $\frac{1}{3}$ della sua capacità. Quante altre tazze piene servono ancora per riempire completamente il barattolo?
 
-**Risposta:** 8
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n1_f2#q01|src_obm_2010_n1_f2__Q01]]
 
 
 
@@ -60,11 +65,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di numeri sostituiti da quadrati in una moltiplicazione*
+*Somma delle cifre sostituite dai quadrati in una moltiplicazione*
 
-> Joãozinho vuole fare una moltiplicazione per i compiti, ma ha cancellato alcune cifre dal suo quaderno, che sono rappresentate da $\square$ (ogni cifra cancellata può essere diversa dalle altre). I prodotti parziali e il risultato finale sono come mostrato: $$\begin{array}{r} \square \; 1 \\ \times \; 2 \; 3 \\ \hline 4 \; \square \\ \square \; \square \; 4 \\ \hline 1 \; \square \; \square \; 0 \; 2 \end{array}$$ Qual è la somma dei numeri cancellati?
+> Joãozinho vuole fare una moltiplicazione per i compiti, ma ha cancellato alcune cifre dal suo quaderno; tali cifre sono rappresentate da $\square$ (ogni cifra cancellata può essere diversa dalle altre). I prodotti parziali e il risultato finale sono come mostrato:
+> $$\begin{array}{r} \square \; 1 \\ \times \; 2 \; 3 \\ \hline 4 \; \square \\ \square \; \square \; 4 \\ \hline 1 \; \square \; \square \; 0 \; 2 \end{array}$$
+> Qual è la somma delle cifre che sono state cancellate?
 
-**Risposta:** 14
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n1_f2#q02|src_obm_2010_n1_f2__Q02]]
 
 
 
@@ -90,13 +102,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Modi per visualizzare un cubo con tre facce dipinte dai lati visibili*
+*Modi per osservare un cubo con tre facce dipinte dai lati visibili*
 
-> Soninha dipinse sei facce di un cubo nel modo seguente: una faccia preta (nera) e la faccia opposta vermelha (rosso), una faccia amarela (giallo) e la faccia opposta azzurra (blu), una faccia branca (bianca) e la faccia opposta verde (verde). Guardando il cubo in modo da vedere tre volti contemporaneamente, e considerando solo l'insieme di colori dei tre volti visibili, in quanti modi diversi si può vedere questo cubo?
+> Soninha ha dipinto sei facce di un cubo nel modo seguente: una faccia preta (nera) e la faccia opposta vermelha (rossa), una faccia amarela (gialla) e la faccia opposta azul (blu), una faccia branca (bianca) e la faccia opposta verde (verde). Guardando il cubo in modo da vedere tre facce contemporaneamente, e considerando solo l'insieme dei colori delle tre facce visibili, in quanti modi diversi si può vedere questo cubo?
 
 ![[src_obm_2010_n1_f2__q03.png]]
 
-**Risposta:** 4
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n1_f2#q03|src_obm_2010_n1_f2__Q03]]
 
 
 
@@ -120,11 +137,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'ultima cifra quando Esmeralda scrive numeri interi positivi in sequenza e si ferma al 149162536 ° numero*
+*L'ultima cifra quando Esmeralda scrive gli interi positivi in sequenza e si ferma alla 149162536ª cifra*
 
-> Esmeralda scrisse i numeri interi positivi uno dopo l'altro formando una sequenza: $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$ e si fermò quando raggiunse la $149{,}162{,}536$th cifra. Qual e' stata l'ultima cifra che ha scritto?
+> Esmeralda ha scritto i numeri interi positivi uno dopo l'altro formando una sequenza: $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$, e si è fermata quando ha raggiunto il $149{,}162{,}536$-esimo digit. Qual era l'ultimo digit che ha scritto?
 
-**Risposta:** 6
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n1_f2#q04|src_obm_2010_n1_f2__Q04]]
 
 
 
@@ -148,11 +170,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di palle in una scatola data la condizione di divisibilità sui picchi di Mariazinha*
+*Numero di palline in una scatola, data la condizione di divisibilità sulle scelte di Mariazinha*
 
-> Carlinhos scrive diversi numeri interi positivi inferiori a $1000$ su diverse palle e li colloca in una scatola, in modo che Mariazinha possa disegnare palle successive casuali dalla scatola. Quante palle Carlinhos deve mettere nella scatola come minimo in modo che Mariazinha sia garantita, quando traccia al massimo $\frac{1}{7}$ delle palle totali nella scatola, di tracciare due palle il cui numero ha un divisore comune maggiore di $1$?
+> Carlinhos scrive diversi interi positivi minori di $1000$ su diverse palline e le mette in una scatola, in modo che Mariazinha possa estrarre a caso palline una dopo l'altra dalla scatola. Quante palline deve mettere Carlinhos nella scatola, al minimo, affinché Mariazinha abbia la garanzia, quando estrae al massimo $\frac{1}{7}$ delle palline totali presenti nella scatola, di estrarre due palline i cui numeri abbiano un divisore comune maggiore di $1$?
 
-**Risposta:** 162
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n1_f2#q05|src_obm_2010_n1_f2__Q05]]
 
 
 
@@ -176,11 +203,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Candidati massimi che hanno ottenuto il punteggio più alto in un concorso di 10 domande con regole di punteggio indicate*
+*Numero massimo di candidati con il punteggio più alto in una gara di 10 domande con le regole di punteggio specificate*
 
-> Un concorso ha domande $10$; ogni risposta corretta punta $3$ punti, ogni risposta sbagliata punta $-1$ punti e ogni domanda senza risposta punta $0$ punti. Nessun candidato ha dato le stesse risposte, e le correzioni sono state fatte con lo stesso foglio di punteggio. Quanti candidati al massimo avrebbero potuto ottenere il punteggio più alto in questo concorso?
+> Una gara prevede $10$ domande; ogni risposta corretta vale $3$ punti, ogni risposta sbagliata vale $-1$ punto e ogni domanda non risposta vale $0$ punti. Nessun candidato ha fornito lo stesso insieme di risposte, e le correzioni sono state effettuate con lo stesso foglio di correzione. Al massimo, quanti candidati avrebbero potuto ottenere il punteggio più alto in questa gara?
 
-**Risposta:** 14
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n1_f2#q06|src_obm_2010_n1_f2__Q06]]
 
 
 
@@ -211,17 +243,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di quadrato grigio nelle figure 4 e 5 in una sequenza di cinque quadrati di 27 cm*
+*Area del quadrato grigio nella quarta e nella quinta figura di una sequenza di cinque quadrati di 27 cm*
 
-> Usando cinque quadrati con lato $27\,\text{cm}$, formiamo una sequenza di figure, le prime quattro delle quali sono:
-> 
-> (Vedi la figura a pagina 2 per vedere il modello dei quadrati grigi nidificati.)
-> 
-> a) Nella figura $4$, quale è l'area del quadrato grigio?
-> 
-> b) Nella figura $5$, quale è l'area del quadrato grigio?
+> Utilizzando cinque quadrati di lato $27\,\text{cm}$, formiamo una sequenza di figure, le prime quattro delle quali sono:
+>
+> (Per lo schema dei quadrati grigi annidati, vedere la figura a pagina 2.)
+>
+> a) Nella $4$-esima figura, qual è l'area del quadrato grigio?
+>
+> b) Nella $5$ª figura, qual è l'area del quadrato grigio?
 
 ![[src_obm_2010_n1_f2__q07.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n1_f2#q07|src_obm_2010_n1_f2__Q07]]
 
 
 
@@ -244,9 +283,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Faci di carta: somma di cifre sul retro; trovare carte dove una faccia è doppia dell'altra*
+*Faccce delle carte: somma delle cifre sul retro; trova le carte in cui una faccia è il doppio dell'altra*
 
-> Maria ha carte $90$ numerate da $10$ a $99$ su una faccia; sull'altra faccia di ogni carta ha scritto la somma dei numeri del numero sul fronte. Ad esempio, la scheda con $43$ sul fronte ha $7$ scritto sul retro. In quante carte il numero su una faccia è esattamente il doppio del numero sull'altra faccia?
+> Maria ha $90$ carte numerate da $10$ a $99$ su una faccia; sull'altra faccia di ciascuna carta ha scritto la somma delle cifre del numero presente sulla faccia anteriore. Per esempio, sulla carta con $43$ sulla faccia anteriore, sul retro è scritto $7$. In quante carte il numero presente su una faccia è esattamente il doppio del numero presente sull'altra faccia?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n1_f2#q08|src_obm_2010_n1_f2__Q08]]
 
 
 
@@ -275,12 +321,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trascrizioni minime per fondersi i quadrati in uno; tagli per conservare la superficie di 3x3 e 4x4 in 5x5*
+*Tagli minimi per unire i quadrati in uno solo; tagli che preservano l'area per trasformare configurazioni 3x3 e 4x4 in una 5x5*
 
-> Facendo tre tagli in un quadrato $3\times 3$ e unendo i pezzi risultanti a un quadrato $4\times 4$, otteniamo un quadrato $5\times 5$, come indicato nella figura. I tagli devono essere paralleli ai lati dei quadrati e non devono esserci sovrapposizioni di pezzi durante il montaggio.
-> 
-> a) Trasformare un quadrato di lato $8\,\text{cm}$ e un quadrato di lato $15\,\text{cm}$ in un singolo quadrato di lato $17\,\text{cm}$, facendo solo quattro tagli nel quadrato $8\,\text{cm}$.
-> 
-> b) Qual è il numero minimo di tagli per trasformare tre quadrati di aree $4\,\text{cm}^2$, $9\,\text{cm}^2$ e $36\,\text{cm}^2$ rispettivamente in un unico quadrato?
+> Effettuando tre tagli in un quadrato $3\times 3$ e unendo i pezzi così ottenuti a un quadrato $4\times 4$, si ottiene un quadrato $5\times 5$, come indicato nella figura. I tagli devono essere paralleli ai lati dei quadrati e, durante l'assemblaggio, i pezzi non devono sovrapporsi.
+>
+> a) Trasforma un quadrato di lato $8\,\text{cm}$ e un quadrato di lato $15\,\text{cm}$ in un unico quadrato di lato $17\,\text{cm}$, effettuando solo quattro tagli nel quadrato $8\,\text{cm}$.
+>
+> b) Qual è il numero minimo di tagli necessari per trasformare tre quadrati di aree rispettivamente pari a $4\,\text{cm}^2$, $9\,\text{cm}^2$ e $36\,\text{cm}^2$ in un unico quadrato?
 
 ![[src_obm_2010_n1_f2__q09.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n1_f2#q09|src_obm_2010_n1_f2__Q09]]

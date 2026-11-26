@@ -34,11 +34,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Adam's age with reversed year figures*
+*Adam's age with inverted year digits*
 
-> Adam's Age Today, May 5, 2024, is Adam's birthday and, by filling out a form in which he was required to indicate his year of birth, Adam mistakenly reversed the last two digits of the year. Thus, it turns out that Adam would be 30 years old. How old is Adam?
+> Adamo's Age Today, May 5, 2024, is Adamo's birthday, and when filling out a form that required him to state his year of birth, Adamo accidentally swapped the last two digits of the year. This means that Adamo would be 30 years old. But how old is Adamo actually? Answer: 0075.
 
-**Answer:** 0075
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q01|src_kangourou_2024_ecolier_squadre_f2__Q01]]
 
 
 
@@ -67,16 +72,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest 4-digit septimino number*
+*Larger seven-digit number with 4 digits*
 
-> The septimino  
-> Let us say that a 4-digit integer is septimino if it has the following property:  
-> "the product of two of its digits is equal to the sum of 7 with the product of the other two." 
-> For example, the number 2701 is septimino: in fact 7 × 1 = 7 + 2 × 0. What is the largest of the 
-> septimino numbers? 
-> Answer: 9877.
+> Septimino: Let's say that a four-digit integer is a septimino if it has the following property: "the product of two of its digits equals 7 plus the product of the other two." For example, the number 2701 is a septimino: indeed, 7 × 1 = 7 + 2 × 0. What is the largest of the septimino numbers? Answer: 9877.
 
-**Answer:** 9877
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q02|src_kangourou_2024_ecolier_squadre_f2__Q02]]
 
 
 
@@ -108,11 +113,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many block numbers are divisible by 5*
+*How many block numbers are divisible by 5?*
 
-> 2024 times 2024 Consider the alignment of figures 202420242024...20242024 where the ordered quadruple 2024 appears 2.024 times. Any block formed by any number of consecutive digits in this alignment and not beginning with 0, identifies an integer (e.g. block 4202420, which starts with the fourth digit and ends with the tenth or the eighth and ends with the fourteenth, and so on, identifies the number 4.202.420). How many whole numbers, all different from each other, determined by allowable blocks, are divisible by 5? Answer: 6070.
+> 2024 times 2024 Consider the alignment of digits 202420242024…20242024 in which the ordered quadruple 2024 appears 2,024 times. Each block formed by any number of consecutive digits in this alignment and not beginning with 0 identifies an integer (for example, the block 4202420, which starts at the fourth digit and ends at the tenth, or starts at the eighth digit and ends at the fourteenth, and so on, identifies the number 4,202,420). How many integers, all distinct from one another, determined by admissible blocks, are divisible by 5? Answer: 6070.
 
-**Answer:** 6070
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q03|src_kangourou_2024_ecolier_squadre_f2__Q03]]
 
 
 
@@ -139,15 +149,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Euros taken by brother piggy bank*
+*Euros taken by the brother's piggy bank*
 
-> In my piggy bank
-> Today in my piggy bank there are 15 euros. Starting tomorrow, every day I will put 3 euros in it, but
-> every day my brother will take 4 out. When, at the end of a certain day, there are
-> 8 euros left in the piggy bank, how many euros will my brother have taken in total?
-> Answer: 0028.
+> In My Piggy Bank Today, there are 15 euros in my piggy bank. Starting tomorrow, I will put 3 euros into it every day, but every day my brother will take 4 euros out of it. When, at the end of a certain day, 8 euros are left in the piggy bank, how many euros in total will my brother have taken? Answer: 0028.
 
-**Answer:** 0028
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q04|src_kangourou_2024_ecolier_squadre_f2__Q04]]
 
 
 
@@ -175,11 +185,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 3 digits with tens digit the mean of the others*
+*3-digit numbers with the tens digit being the average of the other digits*
 
-> We call the mean of two numbers half their sum. How many three-digit integers (therefore with the hundreds digit different from 0) are such that the tens digit is the average of the other two digits? The answer is 0045. The solution.
+> We call the half of the sum of two numbers their "mean". How many three-digit integers (so with the hundreds digit different from 0) are there such that the tens digit is the mean of the other two digits? Answer: 0045. Solution.
 
-**Answer:** 0045
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q05|src_kangourou_2024_ecolier_squadre_f2__Q05]]
 
 
 
@@ -208,11 +223,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Of how many numbers does Elsa have to guess the sum*
+*From how many numbers must Elsa guess the sum?*
 
-> Clotilde wrote all the whole numbers from 1 to 2,024, including each one on a different note. Then she had Sandro draw one of the 2,024 tickets and Chiara one of the 2,023 remaining tickets. Finally, she added the two numbers on the extracted tickets and asked Elsa to guess the sum she got. Among how many numbers must Elsa try to guess? Answer: 4045.
+> On the slips of paper, Clotilde wrote all the whole numbers from 1 to 2,024 inclusive, each on a different slip. Then she had Sandro draw one of the 2,024 slips and Chiara draw one of the remaining 2,023 slips. Finally, she added the two numbers written on the drawn slips and asked Elsa to guess the sum she had obtained. How many numbers must Elsa try to guess? Answer: 4045.
 
-**Answer:** 4045
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q06|src_kangourou_2024_ecolier_squadre_f2__Q06]]
 
 
 
@@ -262,7 +282,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Kilometres per litre of petrol*
+*Kilometers per liter of gasoline*
 
 ![[src_kangourou_2024_ecolier_squadre_f2__prob7.png]]
 
@@ -284,16 +304,13 @@ level: squadre
 \end{document}
 ```
 
-> Petrol  
->  With my car I am at a petrol station that 
-> is located at point A shown in the figure. Starting from 
-> A with only 6 litres of petrol I would stop, for lack 
-> of petrol, at point B which is 54 km from point C. Instead with 9 and a half litres I would stop, again 
-> for lack of petrol, at point D which is 23 km beyond point C. How many kilometres does my 
-> car travel with one litre of petrol? 
-> Answer: 0022.
+> Petrol With my car, I am at a petrol station located at point A indicated in the figure. Starting from A with only 6 litres of petrol, I would stop, due to lack of petrol, at point B, which is 54 km from point C. However, with 9 and a half litres, I would stop, again due to lack of petrol, at point D, which is 23 km beyond point C. How many kilometres does my car travel on one litre of petrol? Answer: 0022.
 
-**Answer:** 0022
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q07|src_kangourou_2024_ecolier_squadre_f2__Q07]]
 
 
 
@@ -320,14 +337,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many numbers 10..99 with even digit sum*
+*How many numbers from 10 to 99 have an even digit sum?*
 
-> Even sum  
-> For how many of the numbers between 10 and 99 (included) does it happen that the sum of their two digits is an 
-> even number? 
-> Answer: 0045.
+> Even sum: Among how many of the numbers between 10 and 99 (inclusive) is the sum of their two digits an even number? Answer: 0045.
 
-**Answer:** 0045
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q08|src_kangourou_2024_ecolier_squadre_f2__Q08]]
 
 
 
@@ -354,11 +373,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of entries, sum of the last two 2024*
+*Maximum number of written digits, sum of the last two, 2024*
 
-> So many multiples I wrote an integer and then double that number, and then triple, quadruple, and so on until, adding up the last two numbers I wrote (i.e. the two biggest ones), I got 2,024. How many numbers could I have written at most? Answer: 0127.
+> Many multiples: I wrote an integer, then twice that number, then three times it, four times it, and so on, until, by adding the last two numbers I wrote (that is, the two largest ones), I got 2,024 as the result. What is the maximum number of numbers I could have written? Answer: 0127.
 
-**Answer:** 0127
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q09|src_kangourou_2024_ecolier_squadre_f2__Q09]]
 
 
 
@@ -384,11 +407,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Year first novel, sum of years 13804*
+*In the first year of the novel, total years 13804*
 
-> A novelist has published seven novels, one every two years. Adding up the years in which his novels were published, you get 13,804. In what year did he publish his first novel? The answer is 1966.
+> The novelist: A writer has published seven novels, one every two years. Adding together the years in which his novels were published gives 13,804. In what year did he publish his first novel? Answer: 1966.
 
-**Answer:** 1966
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q10|src_kangourou_2024_ecolier_squadre_f2__Q10]]
 
 
 
@@ -414,11 +441,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 1000..4000 with only odd digits*
+*Numbers from 1000 to 4000 using only odd digits*
 
-> Odd digits How many integers between 1,000 and 4,000 are composed of odd digits only? The answer is 0250.
+> Odd digits: How many integers between 1,000 and 4,000 consist only of odd digits? Answer: 0250.
 
-**Answer:** 0250
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q11|src_kangourou_2024_ecolier_squadre_f2__Q11]]
 
 
 
@@ -456,23 +488,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First 4 digits smallest divisible by 3, seven addends*
+*Prime 4-digit number, minimum, divisible by 3, seven addends*
 
-> Seven addends  
-> Consider the results of the 9 additions of seven addends  
-> 1 + 11 + 111 + 1,111 + 11,111 + 111,111 + 1,111,111 
-> 2 + 22 + 222 + 2,222 + 22,222 + 222,222 + 2,222,222 
-> and so on up to  
-> 9 + 99 + 999 + 9,999 + 99,999 + 999,999 + 9,999,999. 
-> A 
-> B 
-> C 
-> D 
-> 54 km 
-> 23 km 
-> 
-> Among these, determine the smallest that is divisible by 3 and write its first four digits from 
-> the left.   
-> Answer: 3703.
+> Seven Addends Consider the results of the 9 additions involving seven addends: 1 + 11 + 111 + 1,111 + 11,111 + 111,111 + 1,111,111; 2 + 22 + 222 + 2,222 + 22,222 + 222,222 + 2,222,222; and so on up to 9 + 99 + 999 + 9,999 + 99,999 + 999,999 + 9,999,999. A B C D 54 km 23 km
+>
+> Among these, determine the smallest one that is divisible by 3 and write down its first four digits from the left. Answer: 3703.
 
-**Answer:** 3703
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_ecolier_squadre_f2#q12|src_kangourou_2024_ecolier_squadre_f2__Q12]]

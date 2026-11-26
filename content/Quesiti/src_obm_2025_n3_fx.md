@@ -39,17 +39,26 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca numeri interi positivi n e 2n reali non negativi con tre proprietà*
+*Trovare un numero intero positivo n e 2n numeri reali non negativi con tre proprietà*
 
-> Prove l'esistenza di un intero positivo $n$ e $2n$ numeri reali non negativi $$0 \le a_1 \le a_2 \le \cdots \le a_n \quad \text{and} \quad 0 \le b_1 \le b_2 \le \cdots \le b_n$$ che soddisfano le seguenti tre proprietà:
-> 
+> Dimostrare che esiste un numero intero positivo $n$ e $2n$ numeri reali non negativi
+> $$0 \le a_1 \le a_2 \le \cdots \le a_n \quad \text{and} \quad 0 \le b_1 \le b_2 \le \cdots \le b_n$$
+> soddisfacendo le seguenti tre proprietà:
+>
 > (i) $a_1 + a_2 + \cdots + a_n \ge 2025^{2025}$;
-> 
+>
 > (ii) $b_1 + b_2 + \cdots + b_n \ge 2025^{2025}$;
-> 
+>
 > (iii) $c_1 + c_2 + \cdots + c_n \le \dfrac{1}{2025^{2025}}$, dove $c_i = \min\{a_i, b_i\}$ per ogni $i \in \{1, 2, \ldots, n\}$.
-> 
-> Inoltre, trovare tutti $n$ con questa proprietà.
+>
+> Inoltre, trova tutti gli $n$ con questa proprietà.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2025_n3_fx#q01|src_obm_2025_n3_fx__Q01]]
 
 
 
@@ -72,9 +81,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto con circoncircolo; simultaneità/colinearità di punti di intersezione specifici*
+*Triangolo acuto con circonferenza circoscritta; concorrenza/collinearità di punti d'intersezione specifici*
 
-> Che $ABC$ sia un triangolo acuto con $AB < AC$ e che $\Gamma$ sia il suo cerchio circoscritto. Definire $M$ come punto medio del lato $BC$ e $D$, $E$, $F$ come i piedi delle altitudini rispetto ai lati $BC$, $AC$ e $AB$, rispettivamente. Prendi $N$ come intersezione di $EF$ e $AM$. Il $R$, $S$ siano le intersezioni di $EF$ e $\Gamma$, in modo tale che $R$ sia situato sull'arco $AB$ senza $C$ e $S$ sia situato sull'arco $AC$ senza $B$. Inoltre, supponiamo che $BS$ e $CR$ si incontrino al punto $T$. Indicare che $DA$ divide l'angolo $\angle TDN$.
+> Sia $ABC$ un triangolo acutangolo con $AB < AC$ e sia $\Gamma$ la sua circonferenza circoscritta. Si definisca $M$ come il punto medio del lato $BC$, e si definiscano $D$, $E$, $F$ come i piedi delle altezze relative ai lati $BC$, $AC$ e $AB$, rispettivamente. Si prenda $N$ come l'intersezione di $EF$ e $AM$. Siano $R$, $S$ gli incroci di $EF$ e $\Gamma$, in modo che $R$ giaccia sull'arco $AB$ che non contiene $C$ e $S$ giaccia sull'arco $AC$ che non contiene $B$. Inoltre, si supponga che $BS$ e $CR$ si incontrino nel punto $T$. Si dimostri che $DA$ biseca l'angolo $\angle TDN$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2025_n3_fx#q02|src_obm_2025_n3_fx__Q02]]
 
 
 
@@ -103,15 +119,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza infinita di integri positivi con condizione di potenza di min-differenza di 2025; dimostrare la surgezione sui positivi*
+*Successione infinita di numeri interi positivi con la condizione che la differenza minima sia una potenza di 2025; dimostrare che è suriettiva sull'insieme dei numeri interi positivi*
 
-> Lasciate che $(a_k)_{k \ge 1}$ sia una sequenza infinita di integri positivi tale che:
-> 
-> (i) $a_1, a_2, \ldots, a_{10000}$ sono numeri interi positivi separati in coppia, tutti diversi da $2$;
-> 
-> (ii) per $n > 10000$ definire $a_n$ come il numero intero positivo più piccolo diverso da $a_1, a_2, \ldots, a_{n-1}$ in modo tale che $|a_n - a_{n-1}|$ sia una potenza di $2025$ (nota che $1$ è una potenza di $2025$).
-> 
-> Prova che ogni intero positivo appare nella sequenza.
+> Sia $(a_k)_{k \ge 1}$ una successione infinita di interi positivi tale che:
+>
+> (i) $a_1, a_2, \ldots, a_{10000}$ sono interi positivi tutti distinti a due a due e tutti diversi da $2$;
+>
+> (ii) per $n > 10000$, si definisca $a_n$ come il più piccolo intero positivo diverso da $a_1, a_2, \ldots, a_{n-1}$ tale che $|a_n - a_{n-1}|$ sia una potenza di $2025$ (si noti che $1$ è una potenza di $2025$).
+>
+> Dimostrare che ogni numero intero positivo compare nella successione.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2025_n3_fx#q03|src_obm_2025_n3_fx__Q03]]
 
 
 
@@ -139,13 +162,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi k in modo che f(n) =nk abbia una soluzione di integri positivi n*
+*Trovare tutti gli interi positivi k tali che l'equazione f(n)=nk abbia una soluzione n intera positiva*
 
-> Per ogni intero positivo $n$, definire $$f(n) = \lfloor \sqrt{1} \rfloor + \lfloor \sqrt{2} \rfloor + \cdots + \lfloor \sqrt{n} \rfloor.$$
-> 
-> *Osservazione: per un numero reale $x$, $\lfloor x \rfloor$ è definito come il numero intero più grande inferiore o uguale a $x$. Ad esempio, $\lfloor \sqrt{1} \rfloor = 1$, $\lfloor \sqrt{2} \rfloor = 1$, $\lfloor \sqrt{14} \rfloor = 3$.*
-> 
-> Determinare tutti gli integri positivi $k$ in modo tale che esista un intero positivo $n$ soddisfacente $f(n) = nk$.
+> Per ogni intero positivo $n$, definisci
+> $$f(n) = \lfloor \sqrt{1} \rfloor + \lfloor \sqrt{2} \rfloor + \cdots + \lfloor \sqrt{n} \rfloor.$$
+>
+> *Osservazione: per un numero reale $x$, $\lfloor x \rfloor$ è definito come il più grande intero minore o uguale a $x$. Ad esempio, $\lfloor \sqrt{1} \rfloor = 1$, $\lfloor \sqrt{2} \rfloor = 1$, $\lfloor \sqrt{14} \rfloor = 3$.*
+>
+> Determinare tutti gli interi positivi $k$ tali che esista un intero positivo $n$ che soddisfi $f(n) = nk$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2025_n3_fx#q04|src_obm_2025_n3_fx__Q04]]
 
 
 
@@ -172,13 +203,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolazione poligonale: dimensione minima dell'insieme di diagonali ostruzionali*
+*Triangolazione dei poligoni: dimensione minima dell'insieme delle diagonali ostruttive*
 
-> $\mathcal{P}$ sia un poligono converso con vertici $n$, $n \ge 4$. Possiamo dividere $\mathcal{P}$ in triangoli disegnando diagonali che non si incrociano all'interno di $\mathcal{P}$. Una partizione di questo tipo è chiamata triangolazione **. Un insieme $X$ di diagonali di $\mathcal{P}$ si chiama *obstruttivo* se ha la seguente proprietà:
-> 
-> *Qualsiasi triangolazione di $\mathcal{P}$ utilizza almeno una diagonale appartenente al set $X$.*
-> 
-> Determinare, come funzione di $n$, il numero minimo possibile di elementi di un insieme ostruzionale.
+> Sia $\mathcal{P}$ un poligono convesso con $n$ vertici, $n \ge 4$. Possiamo suddividere $\mathcal{P}$ in triangoli tracciando diagonali che non si intersecano all'interno di $\mathcal{P}$. Una suddivisione di questo tipo è detta *triangolazione*. Un insieme $X$ di diagonali di $\mathcal{P}$ è detto *ostruttivo* se possiede la seguente proprietà:
+>
+> *Qualsiasi triangolazione di $\mathcal{P}$ utilizza almeno una diagonale appartenente all'insieme $X$.*
+>
+> Determinare, in funzione di $n$, il numero minimo possibile di elementi di un insieme ostruttivo.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2025_n3_fx#q05|src_obm_2025_n3_fx__Q05]]
 
 
 
@@ -201,6 +239,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD convex quadrilaterale con condizione angolare; famiglia di partizioni di linee tangenti in 8 insieme simultanei/paralleli*
+*Quadrilatero convesso ABCD con condizione angolare; suddividere la famiglia di rette tangenti in 8 insiemi di rette concorrenti/parallele*
 
-> Il $ABCD$ deve essere un quadrilaterale convesso che soddisfi $90^\circ > \angle ABC > \angle CDA > \angle DAB$. $\mathcal{R}$ sia l'insieme di tutte le linee $\ell$ in modo tale che esista un cerchio tangente alle quattro riflessioni di $\ell$ attraverso i quattro lati del quadrilaterale $ABCD$. Prova che $\mathcal{R}$ può essere suddiviso in gruppi $8$ in modo che le linee di ciascun gruppo siano tutte simultanee o tutte parallele.
+> Sia $ABCD$ un quadrilatero convesso che soddisfa $90^\circ > \angle ABC > \angle CDA > \angle DAB$. Sia $\mathcal{R}$ l'insieme di tutte le rette $\ell$ tali che esista una circonferenza tangente alle quattro riflessioni di $\ell$ rispetto ai quattro lati del quadrilatero $ABCD$. Dimostrare che $\mathcal{R}$ può essere suddiviso in $8$ gruppi in modo che le rette di ciascun gruppo siano tutte concorrenti o tutte parallele.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2025_n3_fx#q06|src_obm_2025_n3_fx__Q06]]

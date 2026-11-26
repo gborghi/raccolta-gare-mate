@@ -30,9 +30,17 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolare un'espressione aritmetica con prodotti e somme*
+*Il valore di 39×37 + 41×82 + 43×80 + 45×39*
 
-> Calcolare quanto segue: $$39 \times 37 + 41 \times 82 + 43 \times 80 + 45 \times 39$$
+> Calcolare quanto segue:
+> $$39 \times 37 + 41 \times 82 + 43 \times 80 + 45 \times 39$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_jjmo4q#q01|src_jjmo4q__Q01]]
 
 
 
@@ -57,11 +65,18 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di PQRS quadrato con vertici sui lati del rettangolo ABCD*
+*Area del quadrato PQRS i cui vertici giacciono sui lati del rettangolo ABCD*
 
-> Nella figura seguente, $ABCD$ è un rettangolo con $AB = 4$ e $BC = 5$, e i punti sono contrassegnati a pari distanza su ciascun lato. Trova l'area del quadrilaterale $PQRS$.
+> Nella figura sottostante, $ABCD$ è un rettangolo con $AB = 4$ e $BC = 5$, e sui lati sono segnati dei punti a spaziatura uniforme. Determinare l'area del quadrilatero $PQRS$.
 
 ![[src_jjmo4q__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo4q#q02|src_jjmo4q__Q02]]
 
 
 
@@ -86,9 +101,18 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Frazione con numeratore e denominatore interi più vicini a 1, con somma 109*
+*Frazione con numeratore e denominatore interi più vicina a 1, con somma 109*
 
-> Tra le frazioni il cui numeratore e il cui denominatore sono entrambi numeri interi e la cui somma è $109$, $$\frac{108}{1},\ \frac{107}{2},\ \frac{106}{3},\ \ldots,\ \frac{3}{106},\ \frac{2}{107},\ \frac{1}{108}$$ trova quella che è più vicina a $1$. Qui, "più vicino a $1$" significa quello la cui differenza assoluta da $1$ è minore.
+> Tra le frazioni il cui numeratore e denominatore sono entrambi numeri interi e la cui somma è $109$,
+> $$\frac{108}{1},\ \frac{107}{2},\ \frac{106}{3},\ \ldots,\ \frac{3}{106},\ \frac{2}{107},\ \frac{1}{108}$$
+> trova quella più vicina a $1$. Qui, "più vicina a $1$" significa quella la cui differenza assoluta da $1$ è minima.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo4q#q03|src_jjmo4q__Q03]]
 
 
 
@@ -113,11 +137,18 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca angolo DEF dove DEF è il triangolo di contatto di ABC con angolo BAC=70°*
+*Trovare l'angolo DEF, dove DEF è il triangolo di contatto di ABC con angolo BAC=70°*
 
-> I punti $D$, $E$ e $F$ sono i punti in cui l'incircolo del triangolo $ABC$ tocca rispettivamente i lati $AB$, $BC$ e $CA$. Dato che $\angle BAC = 70^\circ$, trovare $\angle DEF$.
+> I punti $D$, $E$, $F$ sono i punti in cui l'incircoscritta al triangolo $ABC$ tocca i lati $AB$, $BC$, $CA$ rispettivamente. Dato che $\angle BAC = 70^\circ$, determina $\angle DEF$.
 
 ![[src_jjmo4q__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo4q#q04|src_jjmo4q__Q04]]
 
 
 
@@ -145,9 +176,20 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Monete massime su 8 ×8 griglia: al massimo una faccia in su per riga, al massimo una faccia in giù per colonna*
+*Monete massime sulla griglia 8×8: al massimo una moneta scoperta per riga, al massimo una moneta coperta per colonna*
 
-> C'è una griglia $8 \times 8$. Su alcune celle, le monete sono posizionate sia a faccia alta che a faccia bassa, soddisfacendo le seguenti condizioni: \begin{itemize} \item Se una cella contiene una moneta a faccia alta, allora nessuna altra cella nella stessa riga contiene una moneta a faccia alta. \item Se una cella contiene una moneta rivolta verso il basso, allora nessuna altra cella nella stessa colonna contiene una moneta rivolta verso il basso. Qual è il numero massimo di monete che si possono mettere sulla griglia?
+> C'è una griglia $8 \times 8$. In alcune celle, vengono poste delle monete, rivolte sia con la faccia in su sia con la faccia in giù, in modo da soddisfare le seguenti condizioni:
+> \begin{itemize}
+> \item Se una cella contiene una moneta con il lato raffigurato rivolto verso l'alto, allora nessun'altra cella nella stessa riga contiene una moneta con il lato raffigurato rivolto verso l'alto. \item Se una cella contiene una moneta con il lato raffigurato rivolto verso il basso, allora nessun'altra cella nella stessa colonna contiene una moneta con il lato raffigurato rivolto verso il basso.
+> \end{itemize}
+> Qual è il numero massimo di monete che si possono collocare sulla griglia?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo4q#q05|src_jjmo4q__Q05]]
 
 
 
@@ -174,13 +216,20 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Volume di cubo formato dall'unione dei centroidi di facce adiacenti di un ottaedro regolare*
+*Volume del cubo formato unendo i baricentri delle facce adiacenti di un ottaedro regolare*
 
-> Per qualsiasi triangolo, i tre mediani (i segmenti che uniscono ogni vertice al punto medio del lato opposto) si incontrano in un unico punto, chiamato centroide del triangolo.
-> 
-> Ora, quando i centroidi delle facce adiacenti di un ottaedro regolare sono collegati da bordi, si forma un cubo. Trova il volume di questo cubo come una frazione del volume dell'ottoedro regolare originale.
+> Per qualsiasi triangolo, le tre mediane (i segmenti che uniscono ciascun vertice al punto medio del lato opposto) concorrono in un unico punto, detto baricentro del triangolo.
+>
+> Ora, quando i baricentri delle facce adiacenti di un ottaedro regolare vengono collegati da spigoli, si forma un cubo. Determinare il volume di questo cubo come frazione del volume dell'ottaedro regolare originale.
 
 ![[src_jjmo4q__q06.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo4q#q06|src_jjmo4q__Q06]]
 
 
 
@@ -203,9 +252,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per scegliere 3 carte da 20 carte a numeri blu (110 ciascuna in 2 copie) che si sommano a 16*
+*Conta i modi per scegliere 3 carte tra 20 carte con numeri blu (da 1 a 10, ciascuno in 2 copie) la cui somma sia 16*
 
-> Ci sono carte $20$ numerate $1, 2, \ldots, 10$, ciascuna delle quali appare esattamente su carte $2$ (tutte le carte sono blu). Da queste carte $20$ vengono scelte le carte $3$. Trova il numero di modi per scegliere le carte $3$ in modo tale che la somma dei numeri scritti su di esse sia uguale a $16$. Nota: le carte con lo stesso numero sono considerate distinguibili (cioè le due carte con lo stesso numero sono considerate diverse).
+> Ci sono $20$ carte numerate $1, 2, \ldots, 10$, e ogni numero compare esattamente su $2$ carte (tutte le carte sono blu). Da queste $20$ carte si scelgono $3$ carte. Determinare il numero di modi per scegliere $3$ carte in modo che la somma dei numeri scritti sulle carte scelte sia uguale a $16$. Nota: le carte con lo stesso numero sono considerate distinguibili (cioè le due carte che portano lo stesso numero sono trattate come diverse).
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo4q#q07|src_jjmo4q__Q07]]
 
 
 
@@ -228,9 +284,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ritrovare triples di integri positivi reciprocamente coprimi dove due di entrambi sono quadrati perfetti, con somma minima*
+*Trovare triple di interi positivi coprimi a due a due in cui due qualsiasi degli elementi della tripla siano quadrati perfetti, con somma minima*
 
-> Tra i set di tre integri positivi reciprocamente coprimi in modo tale che la somma di due di essi sia un quadrato perfetto, trovare tutti tali set con la somma più piccola possibile dei tre numeri. Qui, le serie $\{1, 2, 3\}$ e $\{3, 2, 1\}$ sono considerate uguali, mentre $\{1, 2, 3\}$ e $\{3, 1, 2\}$ sono anche uguali.
+> Tra gli insiemi di tre numeri interi positivi coprimi a due a due tali che la somma di due qualsiasi di essi sia un quadrato perfetto, determinare tutti gli insiemi di questo tipo aventi la somma dei tre numeri più piccola possibile. Qui, gli insiemi $\{1, 2, 3\}$ e $\{3, 2, 1\}$ sono considerati identici, mentre anche $\{1, 2, 3\}$ e $\{3, 1, 2\}$ sono identici.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo4q#q08|src_jjmo4q__Q08]]
 
 
 
@@ -253,9 +316,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare copriemi (x,y,z) dove decine di cifre di x·z e y·z sono uguali a decine di cifre di x e y*
+*Conta le terne (x,y,z) coprime per cui le cifre delle decine di x·z e y·z sono uguali alle cifre delle decine di x e y*
 
-> Se i numeri $x$, $y$, $z$ sono interamente integri positivi coprimi di due cifre ciascuno. La decima cifra di $x \cdot z$ equivale alla decima cifra di $x$, e la decima cifra di $y \cdot z$ equivale alla decima cifra di $y$, e la decima cifra di $x \cdot z$ equivale alla decima cifra di $y \cdot z$. Quanti sono tali tripli $(x, y, z)$?
+> Siano $x$, $y$, $z$ numeri interi positivi a due cifre, a due a due coprimi. La cifra delle decine di $x \cdot z$ è uguale alla cifra delle decine di $x$, la cifra delle decine di $y \cdot z$ è uguale alla cifra delle decine di $y$, e la cifra delle unità di $x \cdot z$ è uguale alla cifra delle unità di $y \cdot z$. Quante triple $(x, y, z)$ di questo tipo esistono?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo4q#q09|src_jjmo4q__Q09]]
 
 
 
@@ -282,11 +352,20 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni integrali di x2+xy+y2+3x+3y+6=0 con x=1 escluso; quindi tutte le coppie di numeri integrali*
+*Trovare tutte le soluzioni intere dell'equazione x²+xy+y²+3x+3y+6=0, escludendo il caso x=1; poi trova tutte le coppie intere*
 
-> Considera l'equazione $$x^2 + xy + y^2 + 3x + 3y + 6 = 0. \quad (*)$$ (1) Trova tutte le coppie di integri $(x, y)$ che soddisfano $(*)$ con $x = 1$.
-> 
-> (2) Trova tutte le coppie di integri $(x, y)$ che soddisfano $(*)$.
+> Si consideri l'equazione
+> $$x^2 + xy + y^2 + 3x + 3y + 6 = 0. \quad (*)$$
+> (1) Determinare tutte le coppie di interi $(x, y)$ che soddisfano $(*)$ con $x = 1$.
+>
+> (2) Determinare tutte le coppie di interi $(x, y)$ che soddisfano $(*)$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo4q#q10|src_jjmo4q__Q10]]
 
 
 
@@ -311,11 +390,18 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare colori di 3 ×3 griglie con 3 o 4 colori; celle adiacenti di colori diversi*
+*Conta le colorazioni della griglia 3×3 con 3 o 4 colori; le celle adiacenti hanno colori diversi*
 
-> (1) Colorare ciascuna cellula di una griglia $3 \times 3$ con uno dei tre colori: blu, giallo o rosso, in modo che le cellule adiacenti (che condividono un bordo) siano di colori diversi. Quante sono queste colorazioni? (I colori che sono uguali fino alla rotazione o alla riflessione sono comunque considerati diversi. Tuttavia, i colori che differiscono solo per rotazione o riflessione vengono contati come diversi.)
-> 
-> (2) Nella situazione di (1), se i tre colori sono blu, giallo, rosso e verde (quattro colori in totale), quanti colori ci sono?
+> (1) Colora ciascuna cella di una griglia $3 \times 3$ con uno di tre colori: blu, giallo o rosso, in modo che le celle adiacenti (che condividono un lato) abbiano colori diversi. Quante colorazioni di questo tipo esistono? Le colorazioni che sono identiche a meno di rotazione o riflessione vengono comunque conteggiate come diverse. Tuttavia, le colorazioni che differiscono solo per una rotazione o una riflessione vengono conteggiate come diverse.
+>
+> (2) Nella situazione descritta in (1), se i tre colori sono blu, giallo, rosso e verde (quattro colori in totale), quante colorazioni esistono?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo4q#q11|src_jjmo4q__Q11]]
 
 
 
@@ -352,20 +438,27 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserire la griglia m×n con numeri interi: non zero in ≥1 cella per vicinato di fila, t(S)=0 per ogni cella*
+*Riempire una griglia m×n con numeri interi: valori non nulli in almeno 1 cella per ogni vicinato di riga, t(S)=0 per ogni cella*
 
-> $m, n$ siano numeri interi con $m, n \ge 2$. Vogliamo riempire ogni cella di una griglia $m \times n$ con un numero intero, soddisfacendo le seguenti due condizioni:
-> 
-> (i) C'è almeno una cella contenente un numero intero non zero.
-> 
-> (ii) Per ogni cella $S$, se $t(S)$ indica la somma di tutti gli enti scritti nelle celle che condividono un lato con $S$ (cioè i vicini di $S$), allora $t(S) = 0$.
-> 
-> Ad esempio, se $m = 3$, $n = 4$ e tutte le celle contengono $1$, il valore di $t(S)$ per ciascuna cellula è come indicato di seguito (in questo caso la condizione (ii) non è soddisfatta).
-> 
-> Quando i numeri interi possono essere riempiti soddisfacendo entrambe le condizioni, chiamiamo $(m, n)$ una \emph{buona coppia}. Ad esempio, $(2, 2)$ è una buona coppia.
-> 
-> (1) Let $m = 3$. Trova tutti gli enti $n$ con $n \le 10$ in modo tale che $(3, n)$ sia una buona coppia.
-> 
-> (2) Per le buone coppie $(m, n)$ con $m, n \le 10$, indicare il numero di tali coppie. Si noti che $(9, 6)$ e $(6, 9)$ sono conteggiate come coppie diverse.
+> Siano $m, n$ degli interi con $m, n \ge 2$. Vogliamo riempire ogni cella di una griglia $m \times n$ con un intero, in modo da soddisfare le seguenti due condizioni:
+>
+> (i) C'è almeno una cella che contiene un intero non nullo.
+>
+> (ii) Per ogni cella $S$, se $t(S)$ denota la somma di tutti gli interi scritti nelle celle che condividono un lato con $S$ (ossia i vicini di $S$), allora $t(S) = 0$.
+>
+> Ad esempio, se $m = 3$, $n = 4$ e tutte le celle contengono $1$, allora il valore di $t(S)$ per ogni cella è come mostrato di seguito (in questo caso la condizione (ii) non è soddisfatta).
+>
+> Quando si possono inserire degli interi in modo da soddisfare entrambe le condizioni, chiamiamo $(m, n)$ una \emph{coppia buona}. Ad esempio, $(2, 2)$ è una coppia buona.
+>
+> (1) Sia $m = 3$. Trovare tutti gli interi $n$ con $n \le 10$ tali che $(3, n)$ sia una coppia buona.
+>
+> (2) Per le coppie buone $(m, n)$ con $m, n \le 10$, determina il numero di tali coppie. Si noti che $(9, 6)$ e $(6, 9)$ sono conteggiate come coppie diverse.
 
 ![[src_jjmo4q__q12.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo4q#q12|src_jjmo4q__Q12]]

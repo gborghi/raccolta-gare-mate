@@ -30,9 +30,17 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi un'equazione con valori assoluti e la funzione del segno in reales.*
+*Risolvi un'equazione con valori assoluti e la funzione segno nei numeri reali.*
 
-> Risolvere la seguente equazione in numeri reali: $$\frac{(x^2-1)(|x|+1)}{x+\operatorname{sgn} x}=[x+1].$$
+> Risolvi la seguente equazione nei numeri reali:
+> $$\frac{(x^2-1)(|x|+1)}{x+\operatorname{sgn} x}=[x+1].$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1993_r1#q01|src_pol_1993_r1__Q01]]
 
 
 
@@ -56,9 +64,17 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi un sistema ciclico di n equazioni che coinvolgono tangente e cotangente.*
+*Risolvere un sistema ciclico di n equazioni che coinvolgono la tangente e la cotangente.*
 
-> $n\ge 3$ sia un numero intero. Risolvere il sistema di equazioni: $$\begin{aligned}\tan x_1+3\cot x_1&=2\tan x_2,\\\tan x_2+3\cot x_2&=2\tan x_3,\\&\;\;\vdots\\\tan x_n+3\cot x_n&=2\tan x_1.\end{aligned}$$
+> Sia $n\ge 3$ un numero intero. Risolvi il sistema di equazioni:
+> $$\begin{aligned}\tan x_1+3\cot x_1&=2\tan x_2,\\\tan x_2+3\cot x_2&=2\tan x_3,\\&\;\;\vdots\\\tan x_n+3\cot x_n&=2\tan x_1.\end{aligned}$$
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1993_r1#q02|src_pol_1993_r1__Q02]]
 
 
 
@@ -82,9 +98,17 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove un rapporto di prodotto per un esagono centricamente simmetrico dai punti di intersezione delle sue linee laterali.*
+*Prova una relazione tra i prodotti per un esagono simmetrico centrale, basata sui punti di intersezione delle rette dei suoi lati.*
 
-> Che il $ABCDEF$ sia un esagono centralmente simmetrico. Le linee $AB$ e $EF$ si incontrano a $A'$, le linee $BC$ e $AF$ si incontrano a $B'$, e le linee $AB$ e $CD$ si incontrano a $C'$. Provare che $$AB\cdot BC\cdot CD=AA'\cdot BB'\cdot CC'.$$
+> Sia $ABCDEF$ un esagono centralmente simmetrico. Le rette $AB$ e $EF$ si intersecano in $A'$, le rette $BC$ e $AF$ si intersecano in $B'$, e le rette $AB$ e $CD$ si intersecano in $C'$. Dimostrare che
+> $$AB\cdot BC\cdot CD=AA'\cdot BB'\cdot CC'.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1993_r1#q03|src_pol_1993_r1__Q03]]
 
 
 
@@ -107,9 +131,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni che soddisfano una determinata equazione funzionale.*
+*Trovare tutte le funzioni che soddisfano una data equazione funzionale.*
 
-> Trova tutte le funzioni $f:\mathbb{R}\to\mathbb{R}$ in modo che per tutte le $x,y$ reali, $$f(x+y)-f(x-y)=f(x)f(y).$$
+> Trovare tutte le funzioni $f:\mathbb{R}\to\mathbb{R}$ tali che, per ogni $x,y$ reale,
+> $$f(x+y)-f(x-y)=f(x)f(y).$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1993_r1#q04|src_pol_1993_r1__Q04]]
 
 
 
@@ -132,9 +163,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Prove che una linea determinata da due quadrati costruiti su un triangolo passa attraverso un punto fisso.
+*Dimostrare che una retta determinata da due quadrati costruiti su un triangolo passa per un punto fisso.*
 
-> Si deve considerare che $A$ e $C$ siano punti distinti nel piano. Per ogni punto $B$ si costruiscono quadrati $ABKL$ e $BCMN$ al di fuori del triangolo $ABC$. Prove che le linee $LM$ passano attraverso un punto fisso in quanto $B$ varia nello stesso semiplano determinato da $AC$.
+> Siano $A$ e $C$ punti distinti nel piano. Per ogni punto $B$ si costruiscono i quadrati $ABKL$ e $BCMN$ all'esterno del triangolo $ABC$. Dimostrare che le rette $LM$ passano per un punto fisso quando $B$ varia nello stesso semipiano determinato da $AC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1993_r1#q05|src_pol_1993_r1__Q05]]
 
 
 
@@ -159,9 +197,18 @@ Prove che una linea determinata da due quadrati costruiti su un triangolo passa 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Data una sequenza definita da una ricorrenza media in esecuzione, valutare una somma ponderata.*
+*Data una successione definita da una relazione di ricorrenza basata sulla media mobile, valuta una somma pesata.*
 
-> La sequenza $(x_n)$ è definita da $x_0=1992$ e $$x_n=-\frac{1992}{n}\sum_{k=0}^{n-1}x_k$$ per ciascuna $n\ge 1$. Calcolare $\displaystyle\sum_{n=0}^{1992}2^n x_n$.
+> La successione $(x_n)$ è definita da $x_0=1992$ e
+> $$x_n=-\frac{1992}{n}\sum_{k=0}^{n-1}x_k$$
+> Per ciascun $n\ge 1$. Calcola $\displaystyle\sum_{n=0}^{1992}2^n x_n$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1993_r1#q06|src_pol_1993_r1__Q06]]
 
 
 
@@ -184,9 +231,16 @@ Prove che una linea determinata da due quadrati costruiti su un triangolo passa 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il volume dello scafo convexo dei punti definiti dalle equazioni vettoriali nello spazio.*
+*Trovare il volume dell'involucro convesso dei punti definiti da uguaglianze vettoriali nello spazio.*
 
-> Considerare i punti $A_0(0,0,0)$, $A_1(1,0,0)$, $A_2(0,1,0)$ e $A_3(0,0,1)$ nello spazio. Il punto $P_{ij}$ ($i,j=0,1,2,3$) deve essere definito da $\overrightarrow{A_0 P_{ij}}=\overrightarrow{A_i A_j}$. Trovare il volume della cassa convexa dei punti $P_{ij}$.
+> Si considerino i punti $A_0(0,0,0)$, $A_1(1,0,0)$, $A_2(0,1,0)$ e $A_3(0,0,1)$ nello spazio. Sia il punto $P_{ij}$ ($i,j=0,1,2,3$) definito da $\overrightarrow{A_0 P_{ij}}=\overrightarrow{A_i A_j}$. Si determini il volume dell'involucro convesso dei punti $P_{ij}$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1993_r1#q07|src_pol_1993_r1__Q07]]
 
 
 
@@ -210,9 +264,17 @@ Prove che una linea determinata da due quadrati costruiti su un triangolo passa 
 <div class="qlang-split" data-lang="it"></div>
 
 
-Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma delle loro quinte potenze.
+*Massimizza la somma di nove numeri naturali sotto il vincolo che la somma delle loro quinte potenze sia limitata.*
 
-> Date un numero intero positivo $n$, determinare il valore massimo possibile della somma dei numeri naturali $k_1,k_2,\ldots,k_9$ che soddisfano $$k_1^5+k_2^5+\cdots+k_9^5\le 7n.$$
+> Dato un numero intero positivo $n$, determina il valore massimo possibile della somma dei numeri naturali $k_1,k_2,\ldots,k_9$ che soddisfano
+> $$k_1^5+k_2^5+\cdots+k_9^5\le 7n.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1993_r1#q08|src_pol_1993_r1__Q08]]
 
 
 
@@ -236,9 +298,17 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimostra una disuguaglianza per tre numeri reali.*
+*Dimostra una disuguaglianza per tre numeri reali.*
 
-> Lasciate che $a,b,c$ siano numeri reali. Provare la disuguaglianza $$(a^2+b^2-c^2)(b^2+c^2-a^2)(c^2+a^2-b^2)\le(a+b-c)^2(b+c-a)^2(c+a-b)^2.$$
+> Siano $a,b,c$ numeri reali. Dimostra la disuguaglianza
+> $$(a^2+b^2-c^2)(b^2+c^2-a^2)(c^2+a^2-b^2)\le(a+b-c)^2(b+c-a)^2(c+a-b)^2.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1993_r1#q09|src_pol_1993_r1__Q09]]
 
 
 
@@ -261,9 +331,16 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostrare che un'isometria è una suriezione non in aumento di distanza di un cubo su se stesso.*
+*Dimostrare che una suriezione di un cubo in sé stesso, a distanza non crescente, è un'isometria.*
 
-> Che $\mathscr{C}$ sia un cubo e che $f:\mathscr{C}\to\mathscr{C}$ sia una suriezione tale che $|PQ|\ge|f(P)f(Q)|$ per tutti $P,Q\in\mathscr{C}$. Provare che $f$ è un'isometria.
+> Sia $\mathscr{C}$ un cubo e sia $f:\mathscr{C}\to\mathscr{C}$ una suriezione tale che $|PQ|\ge|f(P)f(Q)|$ per ogni $P,Q\in\mathscr{C}$. Dimostrare che $f$ è un'isometria.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1993_r1#q10|src_pol_1993_r1__Q10]]
 
 
 
@@ -286,9 +363,16 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il limite di n volte la probabilità che due dei sei pedoni posizionati in modo casuale condividano una riga o una colonna.*
+*Trovare il limite di n per la probabilità che due pedine su sei, disposte a caso, condividano una riga o una colonna.*
 
-> Sei pedoni vengono posizionati a caso su una scacchiera $n\times n$. La probabilità che almeno due dei pedoni si trovino nella stessa riga o colonna è $p_n$. Trova $\displaystyle\lim_{n\to\infty} n p_n$.
+> Sei pedoni vengono posizionati a caso su una scacchiera $n\times n$. Sia $p_n$ la probabilità che almeno due dei pedoni si trovino nella stessa riga o nella stessa colonna. Determinare $\displaystyle\lim_{n\to\infty} n p_n$.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1993_r1#q11|src_pol_1993_r1__Q11]]
 
 
 
@@ -311,6 +395,13 @@ Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma d
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Caricare quando x^n+4 fattori in due polinomi non costanti di coefficienti interi.*
+*Caratterizza i casi in cui x^n+4 si scompone in due polinomi a coefficienti interi non costanti.*
 
-> Prove che il polinomio $x^n+4$ è espressibile come il prodotto di due polinomi non costanti con coefficienti interi se e solo se $4\mid n$.
+> Dimostrare che il polinomio $x^n+4$ è esprimibile come prodotto di due polinomi non costanti a coefficienti interi se e solo se $4\mid n$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1993_r1#q12|src_pol_1993_r1__Q12]]

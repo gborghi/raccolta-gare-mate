@@ -29,9 +29,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono con base quadrata; prova triangolo inciso in cerchio*
+*Pentagono con base quadrata; dimostrare che il triangolo è inscritto nella circonferenza*
 
-> Che $ABCDE$ sia un pentagono tale che il quadrilaterale $ABCD$ sia quadrato. Supponiamo $\angle AEC + \angle BED = 180^\circ$. Prova che il triangolo $\triangle AEC$ è un triangolo acuto. (Un poligono converso è quello in cui tutti gli angoli interni sono inferiori a $180^\circ$.)
+> Sia $ABCDE$ un pentagono tale che il quadrilatero $ABCD$ sia un quadrato. Si supponga $\angle AEC + \angle BED = 180^\circ$. Dimostrare che il triangolo $\triangle AEC$ è un triangolo acutangolo. (Un poligono convesso è un poligono in cui tutti gli angoli interni sono minori di $180^\circ$.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo10mq_honsen#q01|src_jjmo10mq_honsen__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*moltipli a 7 cifre di 7 stabili sotto tutti i riordini a cifre*
+*I multipli di 7 composti da 7 cifre sono stabili sotto tutte le permutazioni delle cifre*
 
-> $n$ è un numero di 7 cifre che è un multiple di $7$. Supponiamo che non importa come i numeri di $n$ siano riordinati, il numero risultante è sempre un multiple di $7$. Trova tutte queste $n$.
+> Sia $n$ un numero di 7 cifre che è multiplo di $7$. Supponiamo che, indipendentemente da come vengono riordinate le cifre di $n$, il numero risultante sia sempre multiplo di $7$. Determinare tutti i $n$ di questo tipo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo10mq_honsen#q02|src_jjmo10mq_honsen__Q02]]
 
 
 
@@ -83,13 +97,20 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*operazione di stampaggio della griglia; trovare il minimo a,b dato N monete iniziali*
+*Operazione di timbratura a griglia; trovare i minimi a,b dati N monete iniziali*
 
-> Lasciate che $a, b$ siano numeri interi positivi. Considera una griglia di celle $a \times b$, con celle $N$ che contengono inizialmente una moneta. La seguente operazione può essere eseguita in qualsiasi numero di volte:
-> 
-> **Operazione:** Scegli qualsiasi riga; se in quella riga esattamente la cella $1$ non ha una moneta, inserisci una moneta in quella cella.
-> 
-> Trovare, in termini di $N$, il valore minimo di $a$ (con appropriato $b$) in modo tale che, per alcuni posizionamenti iniziali di monete $N$, si possa infine inserire una moneta in ogni cella applicando ripetutamente l'operazione.
+> Siano $a, b$ interi positivi. Si consideri una griglia di celle di dimensioni $a \times b$, con $N$ celle che inizialmente contengono una moneta. Si può eseguire l'operazione seguente un numero qualsiasi di volte:
+>
+> **Operazione:** Scegliere una riga qualsiasi; se in quella riga esattamente $1$ celle non contengono una moneta, mettere una moneta in una di quelle celle.
+>
+> Determinare, in funzione di $N$, il valore minimo di $a$ (con un appropriato $b$) tale che, per una certa disposizione iniziale di $N$ monete, si possa alla fine mettere una moneta in ogni cella applicando ripetutamente l'operazione.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo10mq_honsen#q03|src_jjmo10mq_honsen__Q03]]
 
 
 
@@ -112,9 +133,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles, costruzione circumcentrale; prova angolo PMQ = 90°*
+*Triangolo isoscele, costruzione del circocentro; dimostrare che l'angolo PMQ è uguale a 90°*
 
-> Che $\triangle ABC$ sia un triangolo di uguali dimensioni con $\angle BAC = 30^\circ$. Il punto $X$ deve essere un punto all'interno del triangolo $ABC$ tale che $\angle XBC = \angle XCB = 30^\circ$. Per il segmento $BX$, prendere il punto $P$ in modo che $AP = BP$; per il segmento $CX$, prendere il punto $Q$ in modo che $AQ = CQ$. Il $M$ deve essere il punto medio di $BC$. Prove che $\angle PMQ = 90^\circ$.
+> Sia $\triangle ABC$ un triangolo isoscele con $\angle BAC = 30^\circ$. Sia $X$ un punto all'interno del triangolo $ABC$ tale che $\angle XBC = \angle XCB = 30^\circ$. Sul segmento $BX$, si prenda il punto $P$ tale che $AP = BP$; sul segmento $CX$, si prenda il punto $Q$ tale che $AQ = CQ$. Sia $M$ il punto medio di $BC$. Dimostrare che $\angle PMQ = 90^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo10mq_honsen#q04|src_jjmo10mq_honsen__Q04]]
 
 
 
@@ -139,8 +167,15 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Segna di carte ripetute; trova la più piccola n in modo che la somma k-th sia sempre pari*
+*Prelievi ripetuti di carte; trova il più piccolo n tale che la somma k-esima sia sempre pari*
 
-> Ci sono infinite carte, ognuna etichettata con un intero non negativo, e per ogni intero non negativo ci sono infinite carte con quel numero. Da queste carte vengono tratte le carte $2012$ (che vengono sostituite ogni volta). Questa operazione di disegno viene ripetuta. Trova il numero intero positivo più piccolo $n$ che soddisfa la seguente condizione:
-> 
-> **Condizione: ** Per ogni numero intero positivo $k$, la somma dei numeri scritti sulle carte $2012$ tirate al tiro $k$-th è sempre pari.
+> Ci sono infiniti biglietti, ciascuno contrassegnato da un intero non negativo, e per ogni intero non negativo ci sono infiniti biglietti che riportano quel numero. Da questi biglietti vengono estratti $2012$ biglietti (con reinserimento ogni volta). Questa operazione di estrazione viene ripetuta. Determinare il più piccolo intero positivo $n$ che soddisfa la seguente condizione:
+>
+> **Condizione:** Per ogni intero positivo $k$, la somma dei numeri scritti sui $2012$ biglietti estratti alla $k$-esima estrazione è sempre pari.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo10mq_honsen#q05|src_jjmo10mq_honsen__Q05]]

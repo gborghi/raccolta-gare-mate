@@ -29,9 +29,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato con vertici su tre linee parallele a distanza di 3 anni; trovare superficie*
+*Quadrato i cui vertici giacciono su tre rette parallele distanti 3 l'una dall'altra; trovare l'area*
 
-> Nel piano sono tracciate tre linee parallele $l_1, l_2, l_3$ in modo tale che la distanza perpendicolare tra $l_1$ e $l_2$ sia 3 e la distanza perpendicolare tra $l_2$ e $l_3$ sia anche 3. Un quadrato $ABCD$ è costruito in modo tale che $A$ si trova su $l_1$, $B$ si trova su $l_2$, $C$ si trova su $l_2$ e $D$ si trova su $l_3$. Trova l'area della piazza.
+> Nel piano vengono tracciate tre rette parallele $l_1, l_2, l_3$ in modo che la distanza perpendicolare tra $l_1$ e $l_2$ sia 3 e la distanza perpendicolare tra $l_2$ e $l_3$ sia anch'essa 3. Viene costruito un quadrato $ABCD$ in modo che $A$ giaccia su $l_1$, $B$ giaccia su $l_2$, $C$ giaccia su $l_2$ e $D$ giaccia su $l_3$. Determinare l'area del quadrato.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2021#q01|src_ioqm_2021__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri da 1 a 101 scritti in rosso/blu; contare i numeri rossi con vincoli*
+*Numeri da 1 a 101 scritti in rosso/blu; conta i numeri rossi dati i vincoli*
 
-> Ria scrive i numeri $1, 2, \ldots, 101$ in penne rosse e blu. Il numero blu più grande è pari al numero di numeri scritti in blu e il numero rosso più piccolo è pari alla metà del numero di numeri scritti in rosso. Quanti numeri ha scritto Ria con la penna rossa?
+> Ria scrive i numeri $1, 2, \ldots, 101$ con penne rosse e blu. Il numero blu più grande è uguale al numero di numeri scritti in blu, e il numero rosso più piccolo è uguale alla metà del numero di numeri scritti in rosso. Quanti numeri ha scritto Ria con la penna rossa?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2021#q02|src_ioqm_2021__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con lati primari distinti in AP; trovare a/L per il perimetro minimo*
+*Triangolo con lati primi distinti in progressione aritmetica; trovare a/L per il perimetro minimo*
 
-> Considerate l'insieme $\mathcal{T}$ di tutti i triangoli i cui lati sono numeri primi distinti che sono anche in progressione aritmetica. $\triangle \in \mathcal{T}$ sia il triangolo con il minimo perimetro. Se $a^\circ$ è l'angolo più grande di $\triangle$ e $L$ è il suo perimetro, determinare il valore di $\dfrac{a}{L}$.
+> Si consideri l'insieme $\mathcal{T}$ di tutti i triangoli i cui lati sono numeri primi distinti e che formano anche una progressione aritmetica. Sia $\triangle \in \mathcal{T}$ il triangolo con il perimetro minimo. Se $a^\circ$ è l'angolo maggiore di $\triangle$ e $L$ è il suo perimetro, si determini il valore di $\dfrac{a}{L}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_ioqm_2021#q03|src_ioqm_2021__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*numeri a 6 cifre con solo cifre a,b,c; somma 5939399406; maggior rimanente di abc mod 100*
+*Numeri di 6 cifre composti solo dalle cifre a, b, c; la somma è 5939399406; il resto più grande di abc mod 100*
 
-> Considerate l'insieme di tutti i numeri a 6 cifre composti solo da 3 cifre, $a, b, c$ sono distinti. Supponiamo che la somma di tutti questi numeri sia 5939399406. Qual è il maggior residuo quando il numero a tre cifre $\overline{abc}$ è diviso da $100$?
+> Si consideri l'insieme di tutti i numeri di 6 cifre composti esclusivamente da 3 cifre, $a, b, c$ sono distinte. Si supponga che la somma di tutti questi numeri sia 5939399406. Qual è il resto più grande quando il numero di tre cifre $\overline{abc}$ viene diviso per $100$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2021#q04|src_ioqm_2021__Q04]]
 
 
 
@@ -129,9 +157,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Parallelogramma ABCD con lato più lungo due volte più corto; bisectori di angolo formano XYZW; area di ABCD*
+*Parallelogramma ABCD con il lato più lungo il doppio del più corto; le bisettrici degli angoli formano XYZW; area di ABCD*
 
-> Nel parallelo $ABCD$ il lato più lungo è il doppio del lato più breve. Il $XYZW$ è il quadrilaterale formato dai bisettori interni degli angoli di $ABCD$. Se l'area di $XYZW$ è 10, si trova l'area di $ABCD$.
+> Nel parallelogramma $ABCD$, il lato più lungo è il doppio del lato più corto. Sia $XYZW$ il quadrilatero formato dalle bisettrici interne degli angoli di $ABCD$. Se l'area di $XYZW$ è 10, determina l'area di $ABCD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2021#q05|src_ioqm_2021__Q05]]
 
 
 
@@ -154,9 +189,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali positivi x,y,z con tre restrizioni quadratiche; trovare p+q dove l'espressione è uguale a p×sqrt(q)*
+*Numeri reali positivi x, y, z con tre vincoli quadratici; trovare p+q, dove l'espressione è uguale a p*sqrt(q)*
 
-> $x, y, z$ siano numeri reali positivi come $x^2 + y^2 + z^2 = 49$, $xy + yz + zx = 36$ e $x^2 + \sqrt{3}xy + z^2 = 25$. Se il valore di $2xy + \sqrt{3}yz + sx$ può essere scritto come $p\sqrt{q}$ dove $p, q$ sono numeri interi e $q$ non è divisibile da un numero primo, trovare $p + q$.
+> Siano $x, y, z$ numeri reali positivi tali che $x^2 + y^2 + z^2 = 49$, $xy + yz + zx = 36$ e $x^2 + \sqrt{3}xy + z^2 = 25$. Se il valore di $2xy + \sqrt{3}yz + sx$ può essere scritto come $p\sqrt{q}$, dove $p, q$ sono interi e $q$ non è divisibile per alcun numero primo, determina $p + q$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2021#q06|src_ioqm_2021__Q06]]
 
 
 
@@ -179,9 +221,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le mappe non in diminuzione da {1,2,3} a {1,2,3,4,5}*
+*Mappe non decrescenti da {1,2,3} in {1,2,3,4,5}*
 
-> Trova il numero di mappe $f : \{1, 2, 3\} \to \{1, 2, 3, 4, 5\}$ in modo tale che $f(i) \le f(j)$ ogni volta che $i < j$.
+> Trovare il numero di mappe $f : \{1, 2, 3\} \to \{1, 2, 3, 4, 5\}$ tali che $f(i) \le f(j)$ ogni volta che $i < j$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_bigezione|Bigezione / corrispondenza]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_ioqm_2021#q07|src_ioqm_2021__Q07]]
 
 
 
@@ -206,9 +255,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più grande numero intero N con pavimento(sqrt(pavimento(sqrt(N))=4; trovare la somma digitali di N*
+*Massimo intero N tale che floor(sqrt(floor(sqrt(N))))=4; trova la somma delle cifre di N*
 
-> Per qualsiasi numero reale $t$, $[t]$ indichi il numero intero più grande $\le t$. Supponiamo che $N$ sia il numero intero più grande tale che $$\left[\sqrt{\left[\sqrt{N}\right]}\right] = 4$$ Trova la somma delle cifre di $N$.
+> Per ogni numero reale $t$, si indichi con $[t]$ il più grande intero $\le t$. Si supponga che $N$ sia il più grande intero tale che
+> $$\left[\sqrt{\left[\sqrt{N}\right]}\right] = 4$$
+> Trovare la somma delle cifre di $N$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2021#q08|src_ioqm_2021__Q08]]
 
 
 
@@ -233,9 +291,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza P_n definita da ricorrenza lineare; area del pentagono P0, P2, P4, P6, P8*
+*Successione P_n definita da una ricorrenza lineare; area del pentagono P0,P2,P4,P6,P8*
 
-> Indicare $P_0 = (3, 1)$ e definire $P_{n+1} = (x_{n+1}, y_{n+1})$ per $n \ge 0$ con $$x_{n+1} = \frac{3x_n - y_n}{2}, \quad y_{n+1} = \frac{x_n + y_n}{2}$$ Indicare l'area del quadrilaterale formato dai punti $P_0, P_2, P_4, P_6, P_8$.
+> Sia $P_0 = (3, 1)$ e si definisca $P_{n+1} = (x_{n+1}, y_{n+1})$ per $n \ge 0$ mediante
+> $$x_{n+1} = \frac{3x_n - y_n}{2}, \quad y_{n+1} = \frac{x_n + y_n}{2}$$
+> Trova l'area del quadrilatero formato dai punti $P_0, P_2, P_4, P_6, P_8$.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2021#q09|src_ioqm_2021__Q09]]
 
 
 
@@ -260,9 +327,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio di grado minimo con coefficienti interi che soddisfano P(sqrt(7)+sqrt(5))=2(sqrt(7)-sqrt(5)); trovare P(2)*
+*Polinomio di grado minimo a coefficienti interi tale che P(radice(7)+radice(5))=2(radice(7)-radice(5)); trovare P(2)*
 
-> Supponiamo che $P$ sia il polinomio di grado minimo con coefficienti interi tali che $$P(\sqrt{7} + \sqrt{5}) = 2(\sqrt{7} - \sqrt{5})$$ Trova $P(2)$.
+> Sia $P$ il polinomio di grado minimo a coefficienti interi tale che
+> $$P(\sqrt{7} + \sqrt{5}) = 2(\sqrt{7} - \sqrt{5})$$
+> Trova $P(2)$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2021#q10|src_ioqm_2021__Q10]]
 
 
 
@@ -285,9 +361,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*4 coppie sposate sedute a turno per sesso in un cerchio; nessun marito accanto alla moglie*
+*4 coppie sposate sedute in cerchio a alternare i sessi; nessun marito accanto alla moglie*
 
-> In quanti modi quattro coppie sposate possono sedersi in un giro con sedi identici in modo tale che uomini e donne occupino sedi alternativi e nessun marito si sedi accanto alla moglie?
+> In quanti modi 4 coppie sposate possono sedersi su una giostra con posti identici, in modo che uomini e donne occupino posti alternati e nessun marito sieda accanto a sua moglie?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2021#q11|src_ioqm_2021__Q11]]
 
 
 
@@ -310,6 +393,13 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*12x12 tabella; corve N minime per garantire 7 reciprocamente non attaccanti*
+*Scacchiera 12x12; numero minimo N di torri per garantire 7 torri a vicenda non in attacco*
 
-> Una tabella $12 \times 12$ è divisa in 144 quadrati unitari disegnando linee parallele ai lati. Si dice che due corve posizionate su due quadrati di unità non attaccano se non sono nella stessa colonna o nella stessa riga. Trovare il numero minimo $N$ in modo che se le corde $N$ sono posizionate sui quadrati di unità, una torre per quadrato, possiamo sempre trovare 7 corde in modo che non ci siano due che si attaccano.
+> Una scacchiera $12 \times 12$ è divisa in 144 caselle unitarie tracciando linee parallele ai lati. Si dice che due torri poste su due caselle unitarie non si attaccano se non si trovano nella stessa colonna né nella stessa riga. Determinare il minimo numero $N$ tale che, se si collocano $N$ torri sulle caselle unitarie, una torre per casella, si possano sempre trovare 7 torri tali che nessuna di esse attacchi un'altra.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2021#q12|src_ioqm_2021__Q12]]

@@ -35,11 +35,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum loyal round table Vikings with declarations*
+*Minimum number of loyal Vikings at a round table with statements*
 
-> ... The dragons! Catherine Malfatto After another dragon attack, all 1000 Vikings in the village of Berkhoff gather around a round table to discuss defense strategies. Some of them are loyal Vikings, who always tell the truth, while others are devious Vikings, who always lie. In turn, each of them declares: In total, between the two Vikings sitting on my right and the two Vikings sitting on my left, there is an equal number of loyal Vikings. What's the minimum number of loyal Vikings?
+> ... the dragons!
+> Caterina Malfatto
+> After yet another attack by the dragons, all 1000 Vikings of the village of Berkhoff gather around a round table to discuss defence strategies. Some of them are loyal Vikings, who always tell the truth, while others are cheating Vikings, who always lie. Taking turns, each of them states: "In total, among the two Vikings seated to my right and the two Vikings seated to my left, there is an even number of loyal Vikings." What is the minimum possible number of loyal Vikings?
 
-**Answer:** 0200
+
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q01|src_archimede_2026_squadre_finale_mista__Q01]]
 
 
 
@@ -74,11 +79,24 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum k whole with t satisfying dissection*
+*Smallest positive integer k for which there exists a positive integer t satisfying the inequality*
 
-> Dark Fourier Federico Antonini During the dragon attack at Berkhoff, Hilcup attempts to hit a Dark Fourier with one of his unlikely inventions. When studying the dark Fourier flight, we find ourselves considering the dissection (k +1−t) t ≥3 k(k +1) 2 +t ! . "I've got it!" cries Hilcup, but when he tells the others, no one believes him. So, as his father rebukes him, he thinks back on the dissection just studied and asks himself: What is the minimum positive integer k for which there exists a positive integer t that satisfies her?
+> Fourier Buia
+> Federico Antonini
+> During the dragon attack on Berkhoff, Hilcup tries to hit a Fourier Buia with one of his
+> unlikely inventions. Studying the flight of the Fourier Buia, he finds himself considering the inequality
+> (k +1−t)t ≥3
+>  k(k +1)
+> 2
+> +t
+> !
+> .
+> “I got it!” Hilcup exclaims, but when he tells the others, no one believes him. So, while his father reproaches him, he rethinks the inequality just studied and asks himself: “What is the smallest positive integer k for which there exists a positive integer t that satisfies it?”
 
-**Answer:** 0000
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q02|src_archimede_2026_squadre_finale_mista__Q02]]
 
 
 
@@ -111,13 +129,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*QX length with tangent and drying-tangent theorem*
+*Length QX with tangent and secant-tangent theorem*
 
-![[src_archimede_2026_squadre_finale_mista__prob3.png]]
+> That shield is mine!
+> Francesco Laganà
+> “If you are forced to choose between a sword and a shield, take the shield,” Scalarchio repeats to the young
+> apprentices in the Arena of Dragons. Meanwhile, Θ(tufo) and Θbruta are already arguing over who should
+> wield a particular training shield, on whose front appears a drawing: AB is a segment of length 108 cm, while Γ is a circle with centre B and radius 72 cm. “K is the intersection point of Γ with AB” shouts Θ(tufo). “P is one of the two points of Γ for which AP is tangent to Γ” replies Θbruta.
+> Finally, the point Q, which is the orthogonal projection of K onto the line AP, and the point X, which is the further intersection of the line QK with Γ, are highlighted. How many centimetres does QX measure?
 
-> That shield is mine! Francesco Laganà If you are forced to choose between a sword and a shield, take the shield, repeat Scalarchio to the young apprentices in the Arena dei Draghi. In the meantime, Θ(tufo) and Θbruta are already fighting over who should wear a particular training shield, with a design on the forehead: AB is a segment of 108 cm in length, while Γ is a circumference of center B and a radius of 72 cm. K is the intersection point of Γ with AB scream Θ(tuff). P is one of the two points of Γ for which AP is tangent to Γ corresponds to Θbruta. Finally, point Q, which is the orthogonal projection of K on the straight AP, and point X, which is the further intersection of the straight QK with Γ, are highlighted. How many centimeters does QX measure?
 
-**Answer:** 0120
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q03|src_archimede_2026_squadre_finale_mista__Q03]]
 
 
 
@@ -157,13 +181,25 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mn length medium trapezoidal segment with angles 55 and 35*
+*Length MN of the mid-segment of a trapezium with angles 55° and 35°*
 
-![[src_archimede_2026_squadre_finale_mista__prob4.png]]
+> Artificial wing
+> Leonardo Franchi
+> “Why can’t you fly away?” Hilcup wonders, observing the Black Fourier that has struck. Sketching one in his notebook, he notices that the dragon is missing a rear wing, in the shape of trapezium ABCD, with greater base CD and lesser base AB. Hilcup calculates that AB = 20 dm, CD = 80 dm, and that the angles at C and D measure 55° and 35° respectively. To build an artificial wing, he must determine the length of MN, where M and N are the midpoints of AB and CD, respectively. How many decimetres is MN?
+> 55°
+> 35°
+> A
+> B
+> C
+> D
+> E
+> M
+> N
 
-> On the artificial wing Leonardo Franchi Why can't you fly away?, Hilcup wonders looking at the dark Fourier that hit. When drawing a sketch on his notebook, he notices that the dragon lacks a trapezoidal ABCD rear wing, with a major base CD and a minor base AB. Hilcup calculates that AB = 20 dm, CD = 80 dm, and that the angles in C and D measure 55° and 35° respectively. To construct an artificial wing, it must determine the length of MN, where M and N are the midpoints of AB and CD, respectively. How many centimetres does MN measure? 55° 35° A B C D E M N
 
-**Answer:** 0030
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q04|src_archimede_2026_squadre_finale_mista__Q04]]
 
 
 
@@ -193,11 +229,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summation of max and min self-divisible digits 1-9*
+*Maximum and minimum sums of self-dividing triples of digits 1–9*
 
-> The Horrifying Bijection Giuseppe Mascellani Moduloso and Nashtrid are training their ability to do multiple things simultaneously in the arena. In defeating the Predator Dragon, they also have to use all the digits from 1 to 9 once to make up three self-dividing three-digit numbers. A number is said to be self-divisible if it is multiple of each of its own digits explains Scalarchio. Among all possible solutions, Nashtrid finds the set of numbers with maximum sum S, while Moduloso finds the one with minimum sum s. How much is S+s worth?
+> The Terrifying Chilling
+> Giuseppe Mascellani
+> Moduloso and Nashtrid are training their ability to do more things at once in the arena.
+> In defeating the Terrifying Chilling dragon, they must also use each digit from 1 to 9 exactly once to
+> compose three three-digit numbers that are self-dividing. “A number is said to be self-dividing if it is a multiple
+> of each of its digits” explains Scalarchio. Among all possible solutions, Nashtrid finds the triple of
+> numbers with maximum sum S, while Moduloso finds the one with minimum sum s. What is S + s?
 
-**Answer:** 2754
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q05|src_archimede_2026_squadre_finale_mista__Q05]]
 
 
 
@@ -225,11 +271,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples (m,n) with 4·m!+1=2^n+3^n, giving a·b*
+*Pairs (m,n) with 4·m!+1=2^n+3^n, give a·b*
 
-> Missed it! David Averoldi Be careful, I'll take care of it! cries out Moduloso to Nashtrid, as he throws a accept against a dragon and misses him completely. I had the sun in my eyes! But at least I can determine all pairs of nonnegative integers (m,n) that satisfy 4m! + 1 = 2n + 3n. Either (a,b) the component sum per component of all pairs found; give as a response a·b. You remember that m! = 1·2·3··m, whereas 0! = 1.
+> Missed!
+> Davide Averoldi
+> “Careful, I’ll handle it!” exclaims Moduloso to Nashtrid, while throwing an axe at a dragon and missing it completely. “I had the sun in my eyes! But at least I can determine all pairs of non-negative integers (m,n) satisfying 4m!+1 = 2n +3n”. Let (a,b) be the component-wise sum of all the pairs found; give as answer a·b. Recall that m! = 1·2·3··m, while 0! = 1.
 
-**Answer:** 0030
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q06|src_archimede_2026_squadre_finale_mista__Q06]]
 
 
 
@@ -258,11 +309,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Years with double-digit sums of the following, extreme sums*
+*Years with digit sum double the next year's, sum of extremes*
 
-> Andrea Rossetti (Fish) is reading the Berkhoff Chronicles and the dragon raids that hit the village. When you carefully compare the dates recorded in the registers, you notice a curious regularity: there is a survey every year whose sum of figures is twice the sum of the figures of the following year. What is the first and last year that a raid will take place between 2000 and 2999? Give the sum of the two numbers found.
+> Cronache di Berkhoff
+> Andrea Rossetti
+> Γ(pesce) is reading the chronicles of Berkhoff and of the dragon raids that struck the village.
+> While carefully comparing the dates recorded in the registers, he notices a curious regularity: a raid occurs in every year whose digit sum equals double the digit sum of the following year. “What are then the first and last years in which a raid will occur, between 2000 and 2999?” Γ(pesce) asks. Give as answer the sum of the two numbers found.
 
-**Answer:** 4568
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q07|src_archimede_2026_squadre_finale_mista__Q07]]
 
 
 
@@ -290,11 +347,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum q(0)^2 with two common root polynomials*
+*Maximum q(0)^2 with two polynomials sharing a common root*
 
-> With a burning whisper, Stellato erased some of Hilcup's notes! What remains are the two polynomials p(x) = x2 +⋆x+1 and q(x) = x2 +x+⋆, where ⋆ indicates a now unreadable coefficient. Hilcup recalls, however, that the deleted coefficients in the two polynomials were equal and that the polynomials had at least one real root in common. What is the maximum value that q(0)2 can have?
+> Sbuffo infuocato
+> Gaia Fuselli
+> With a fiery puff, Stellato erased part of Hilcup's notes! What remains are the two
+> polynomials p(x) = x2 +⋆x+1 and q(x) = x2 +x+⋆, where ⋆ indicates a coefficient now illegible. Hilcup remembers
+> however that the erased coefficients in the two polynomials were equal and that the polynomials had at least one real root
+> in common. What is the maximum value that q(0)2 can have?
 
-**Answer:** 0004
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q08|src_archimede_2026_squadre_finale_mista__Q08]]
 
 
 
@@ -326,11 +391,23 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Munice root cubic polynomials and single-digit coefficients*
+*Cubic monic polynomials with single-digit roots and coefficients*
 
-> The son of a half-troll, Fabio Lilliu Nashtrid observes with increasing annoyance Hilcup's continuous progress: not only has he become surprisingly good with dragons, but he seems to do far too well with mathematics as well. To test this, he decides to ask him a question: How many polynomials of third degree with integer coefficients for which all three roots are single-digit integers, all the coefficients are also single-digit integers and the third degree coefficient is exactly one? Hilcup asks: "Can I also use negative integers?" to which Nashtrid replies: "Certainly, all integers between −9 and 9". Not even the time to finish, that Hilcup has already solved the problem. "Son of a half-troll!" cries Nashtrid in a spacious voice. What is the answer to Nashtrid's question?
+> Figlio di un mezzo troll
+> Fabio Lilliu
+> Nashtrid osserva con crescente fastidio i continui progressi di Hilcup: non solo è diventato sorprendentemente
+> bravo con i draghi, ma pare cavarsela fin troppo bene anche con la matematica. Per metterlo alla prova,
+> decide di proporgli un quesito: «Quanti sono i polinomi di terzo grado a coefficienti interi per cui tutte
+> e tre le radici sono interi di una sola cifra, tutti i coefficienti sono anch’essi interi di una sola cifra e il
+> coefficiente di grado tre è esattamente uno?». Hilcup chiede: «Posso usare anche interi negativi?», a cui
+> Nashtrid risponde: «Certo, tutti gli interi tra −9 e 9». Neanche il tempo di finire, che Hilcup già ha risolto il
+> problema. «Figlio di un mezzo troll!» urla Nashtrid spazientita. Qual è la risposta al quesito di Nashtrid?
 
-**Answer:** 0122
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q09|src_archimede_2026_squadre_finale_mista__Q09]]
 
 
 
@@ -362,11 +439,22 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Islands (n,n) reachable by increasing steps*
+*Reachable (n,n) islands with increasing steps*
 
-> In flight, Marco Targia Nashtrid has discovered Stellato's hideout! To convince her that he's a friendly dragon, Hilcup takes her on a flight with him. The two, however, do not realize that Stellato is heading towards the archipelago of which Dragon Island is also a part. Its route can be represented on the Cartesian plane: it starts at point (0,0), while the 1501 islands of the archipelago are located at points (n,n) with 1500 ≤n ≤3000. The dragon can only move in directions parallel to the Cartesian axis to the right or up, and not diagonally... It's a dragon. In addition, at k-eighth beat dali travels exactly k units of length: the first shift is length 1, the second 2, the third 3, and so on (Stellato moves between points at full coordinates). Which islands of the archipelago can you reach in this way? Tell me how many there are.
+> In flight
+> Marco Targia
+> Nashtrid has discovered Stellato's hideout! To convince her that he is a friendly dragon, Hilcup takes her
+> on a flight with him. The two, however, do not notice that Stellato is heading toward the archipelago
+> of which the Dragon Island is also part. His path can be represented on the Cartesian plane: he starts from
+> the point (0,0), while the 1501 islands of the archipelago are located at the points (n,n) with 1500 ≤ n ≤ 3000. The dragon
+> can move only in directions parallel to the Cartesian axes to the right or upward, and not diagonally. Moreover, at the k-th wingbeat he travels exactly k units of length: the first
+> move is 1 long, the second 2, the third 3, and so on (Stellato moves between points with integer coordinates).
+> Which of the islands of the archipelago can he reach in this way? Indicate how many there are.
 
-**Answer:** 0016
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_invarianti|Invariants / monovariants]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q10|src_archimede_2026_squadre_finale_mista__Q10]]
 
 
 
@@ -423,13 +511,37 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Black paper area visible after folding the square*
+*Visible black paper area after folding the square*
 
-![[src_archimede_2026_squadre_finale_mista__prob11.png]]
+> Fraintendimenti
+> Giacomo Gallina
+> “For Odin, it was hard!” exclaims Stochastick, commenting on Hilcup’s excellent results in the training arena. While talking with his father, Hilcup nervously fiddles with a square sheet of paper ABCD of side 1 dm, placed on the table with the white face up and the black face down. On the sides AB, BC, CD and DA are marked, respectively, four points E, F, G and H, such that AE = BF = CG = DH = 1/3 dm. Keeping the center of the sheet fixed, Hilcup lifts vertex A and folds the sheet along segment HE, bringing A to touch the interior of the square. In the same way, he then folds the sheet along segments EF, FG and GH, lifting respectively vertices B, C and D and bringing them into contact with the interior of the sheet. “I really should be in bed!” says Hilcup yawning, rather than continue the conversation with his father. How many mm² is the area of black paper visible from above?
+> A
+> B
+> C
+> D
+> E
+> F
+> G
+> H
+> A′
+> B′
+> C′
+> D′
+> 1
+> 3
+> 1
+> 3
+> 1
+> 3
+> 1
+> 3
 
-> Misunderstandings Giacomo Gallina For Odin, it was hard! exclaims Stochastick, commenting on Hilcup's excellent results in the training arena. As she talks to her father, Hilcup nervously plays with a square sheet of ABCD 1 dm side, leaning on the table with her white face facing up and her black face facing down. On the sides AB, BC, CD and DA are marked, respectively, four points E, F, G and H, AE = BF = CG = DH = 1 3 dm. Leaving the center of the sheet standing, Hilcup raises the top A and folds the sheet along the HE segment, leading A to touch the inside of the square. Similarly, it then folds the sheet along the EF, FG and GH segments, lifting the B, C and D vertices respectively and bringing them into contact with the inside of the sheet. "I should really be in bed!" says Hilcup waving, not wanting to continue the conversation with his father. How many mm2 does the area of black paper visible from above measure? A B C D E F G H A′ B′ C′ D′ 1 3 1 3 1 3 1 3
 
-**Answer:** 4444
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q11|src_archimede_2026_squadre_finale_mista__Q11]]
 
 
 
@@ -459,11 +571,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*9 ships with multiple bonds of 3*
+*Permutations of 9 ships with a multiple-of-3 constraint*
 
-> To Dragon Island Eugenio Trovarelli Stochastick, furious at his son's behavior during the final exam, decides to sail to Dragon Island with the intention of eliminating them once and for all. For the expedition, he prepares nine ships, numbered 1 to 9, which will have to proceed in Indian line. To avoid confusion during navigation, however, he imposes a rule: every ship whose number is divisible by 3 must immediately have a ship with a smaller number than its own. How many different ways can ships line up?
+> Verso l’Isola dei Draghi
+> Eugenio Trovarelli
+> Stochastick, furious at his son’s behaviour during the final exam, decides to set sail for the Island
+> of Dragons with the intention of eliminating them once and for all. For the expedition he prepares 9 boats,
+> numbered from 1 to 9, which must proceed in a line. To avoid confusion during the voyage,
+> he imposes a rule: every ship whose number is divisible by 3 must have immediately in front of it
+> a ship with a smaller number than its own. In how many different ways can the ships be arranged in a line?
 
-**Answer:** 4560
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q12|src_archimede_2026_squadre_finale_mista__Q12]]
 
 
 
@@ -497,11 +619,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final tables of dragons raced with constraints*
+*Final scorelines of dragon races with constraints*
 
-> After the defeat of the Red Death, Berkhoff came to peace: Vikings and dragons live in harmony and, in their free time, play a sport called dragon racing. In one match, two teams face each other, who challenge each other in five matches. In each round, five sheep are released, and each sheep is captured in flight by one and only one team. The team that collects the most sheep in a match wins the match and receives 1 point. At the end of the 5 matches, the team with the most points wins the game. In today's match, Nashtrid's team won against Moduloso's; however, Moduloso's team collected more sheep overall than Nashtrid's. How many different final tables are possible (by final table means the orderly succession of the results of the 5 matches, each expressed as the number of sheep collected by each of the two teams in that match)?
+> Dragon races
+> Giuseppe Mascellani
+> After the defeat of the Red Death, Berkhoff has come to peace: Vikings and dragons live in harmony and, in their free time, enjoy a sport called dragon races. In a match, two teams face each other in 5 rounds. In each round, 5 sheep are released, and each sheep is caught mid-flight by exactly one team. The team that collects more sheep in a round wins the round and scores 1 point. At the end of the 5 rounds, the team with the most points wins the match. In today's match, Nashtrid's team beat Moduloso's team; however, Moduloso's team collected overall more sheep than Nashtrid's team. How many different final scorelines are possible (a final scoreline means the ordered sequence of the results of the 5 rounds, each expressed as the number of sheep collected by each of the two teams in that round)?
 
-**Answer:** 0515
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q13|src_archimede_2026_squadre_finale_mista__Q13]]
 
 
 
@@ -535,11 +663,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to assist 25 citizens with arches and equality*
+*Ways to assist 25 citizens with arcs and parities*
 
-> Preparing to be Chief Eugenio Trovarelli Hilcup has just returned from a reconnaissance flight with Stellato when Stochastick immediately calls him back to his duties: Lection number one: a Chief's first duty is to his people. Come and help me and Scalarchio with these 25 citizens, numbered 1, 2,... 25. So as not to waste time, everyone will be assisted, but by at most two people between me, you and Scalarchio. At the end of the day, the three find that each of them has attended an equal number of citizens; taken as a whole, each of them or his complement is either one or more citizens with consecutive numbers; however two are chosen, the number of citizens attended by both is odd. How many different ways could the 25 citizens have attended?
+> Prepararsi a essere Capo
+> Eugenio Trovarelli
+> Hilcup has just returned from a reconnaissance flight with Stellato when Stochastick immediately calls him back to his duties: “Lesson number one: the first duty of a Capo is towards his people. Come help me and Scalarchio with these 25 citizens, numbered 1,2,...,25. To avoid losing time, each will be assisted, but by at most two people among me, you and Scalarchio”. At the end of the day, the three notice that each of them has assisted an even number of citizens; taking the set of those assisted by each one, either it or its complement is made up of one or more citizens with consecutive numbers; moreover, however two of them are chosen, the number of citizens assisted by both is odd. In how many different ways can the 25 citizens have been assisted?
 
-**Answer:** 8400
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q14|src_archimede_2026_squadre_finale_mista__Q14]]
 
 
 
@@ -572,11 +706,24 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum calculating cost for two bilinear expressions*
+*Minimum calculator cost for two bilinear expressions*
 
-> Viking calculator Nikita Deniskin Eret (born) is a dragon hunter who is hired by the ruthless Dragon Burnsvist. After capturing Nashtrid, Fish, and the twins Thuff and Thbruta along with their dragons, he wants to determine how much to sell them to his master. To do this, it starts from six numbers a,b,c,x,y,z and must calculate the values of the following expressions: 2ay +2bx+2cy +2bz; az +bz +cz +cy +cx. Unfortunately, Eret cannot do calculations by heart and must use a Viking calculator, which only allows two numbers to be entered at once and an operation between addition, subtraction and multiplication can be performed. However, he has an excellent memory and can reuse any previous results as input. Each addition or subtraction consumes 4 odinowatts, while each multiplication consumes 23. How many Odinowatt will you consume to calculate both expressions?
+> Viking calculator
+> Nikita Deniskin
+> Eret(eret) is a dragon hunter in the pay of the ruthless dragon Burnsvist. After capturing Nashtrid,
+> Γ(fish) and the twins Θ(stink) and Θbruta together with their dragons, he wants to establish how much to sell them to his master.
+> To do this, he starts from six numbers a,b,c,x,y,z and must calculate the values of the following expressions:
+> 2ay +2bx+2cy +2bz;
+> az +bz +cz +cy +cx.
+> Unfortunately Eret(eret) cannot do mental calculations and must use a Viking calculator, which allows only
+> to enter two numbers at a time and perform an operation between addition, subtraction and multiplication.
+> However, he has an excellent memory and can reuse as input any result obtained previously.
+> Each addition or subtraction consumes 4 Odinowatts, while each multiplication consumes 23. How many
+> Odinowatts will Eret(eret) consume at minimum to calculate both expressions?
 
-**Answer:** 0109
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games, strategies]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q15|src_archimede_2026_squadre_finale_mista__Q15]]
 
 
 
@@ -605,11 +752,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum mesh colours with the same distance N=6767·7676*
+*Maximum number of colours on a grid with equal distance N=6767·7676*
 
-> For every sea I will sail, David Averoldi Stochastick whistles a melody that is immediately recognized by Valgebra, who begins to sing: For every point at full coordinates of the Cartesian plane I will sail, and each of them I will color without fear: if two points will be exactly 6767·7676 units apart, the same color I will give them. What's the maximum number of colors I can use?
+> For every point I will sail
+> Davide Averoldi
+> Stochastick whistles a melody that is immediately recognised by Valgebra, who begins to sing:
+> “For every point with integer coordinates in the Cartesian plane I will sail,
+> and I will colour each of them without fear:
+> if two points are exactly 6767·7676 units apart, I will give them the same colour.
+> What is the maximum number of colours I can use?”
 
-**Answer:** 8464
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_analitica|Analytic geometry]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q16|src_archimede_2026_squadre_finale_mista__Q16]]
 
 
 
@@ -667,13 +823,24 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shadow area conical trunk with sun at 30°*
+*Shade area of a conical frustum with sun at 30°*
 
-![[src_archimede_2026_squadre_finale_mista__prob17.png]]
+> Icy trap
+> Lorenzo Cortesi
+> Stellato has come to his senses and, together with Hilcup, is fighting against Drago Burnsvist. “It’s over now!” Hilcup shouts to the enemy. “Really?” replies Drago Burnsvist, just as the Great Wild Beast traps Hilcup and Stellato in an ice block in the shape of a conical frustum of height 6 √ 2 m, whose radii of the lower and upper bases measure respectively 7 √ 3 m and √ 3 m. At the moment they are trapped, Hilcup and Stellato are in flight, so the upper base of the conical frustum is at a height of 180 dm from the ground. Moreover, the axis of the conical frustum is perpendicular to the ground, which is perfectly horizontal. Knowing that the rays of the Sun, considered parallel to each other, form an angle of 30° with the ground, how many m2 is the area of the shadow of the ice block projected onto the ground?
+> Ground
+> 2 √ 3
+> 14 √ 3
+> 2 √ 3
+> 14 √ 3
+> h = 6 √ 2
+> 30°
+> Gara a Squadre 2026 – Finale Nazionale – Testi dei problemi – 9/12
 
-> Lorenzo Cortesi Stellato is back on his feet and, along with Hilcup, is fighting Dragon Burnsvist. It's over! Hilcup screams at the enemy. Really?Ripes Dragon Burnsvist, just as the Big Wild Beast traps Hilcup and Stellato in a cone-shaped ice block of 6 √ 2 m high, whose lower and upper base rays measure respectively 7 √ 3 m and √ 3 m. At the moment of being trapped, Hilcup and Stellato are in flight, so the top base of the cone trunk is at a height of 180 dm from the ground. In addition, the axis of the cone trunk is perpendicular to the ground, which is perfectly horizontal. Knowing that the sun's rays, considered to be parallel to each other, form an angle of 30° with the ground, how many m2 does the area of the shadow of the ice block projected onto the ground measure? Field 2 √ 3 14 √ 3 2 √ 3 14 √ 3 h = 6 √ 2 30° Team competition 2026  National final  Problem tests  9/12
 
-**Answer:** 0492
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q17|src_archimede_2026_squadre_finale_mista__Q17]]
 
 
 
@@ -703,11 +870,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary powers of 16 of the roots of the polynomial*
+*Sum of the 16th powers of the roots of the polynomial*
 
-> The Chief has returned to the house Lorenzo Degli Act It's time to proclaim the new Chief of Berkhoff! The old Gödhi begins the ceremony by tracing with coal, on the front of Hilcup, the polynomial p(x) = x15 −2x14 +2x13 −x12 +x11 −2x10 +2x9 −x8 +x7 −2x6 +2x5 −x4 +x3 −2x2 +2x−1. Only someone truly worthy of this title is able to calculate the sum of the 16th powers of all the roots of p (x), including complex ones. How much is that?
+> The Boss is back home
+> Lorenzo Degli Atti
+> The time has come to proclaim the new Boss of Berkhoff! The elderly Gödhi begins the ceremony
+> by drawing, with charcoal, on Hilcup's forehead, the polynomial
+> p(x) = x15 −2x14 +2x13 −x12 +x11 −2x10 +2x9 −x8 +x7 −2x6 +2x5 −x4 +x3 −2x2 +2x−1.
+> Only those who are truly worthy of this title are able to calculate the sum of the 16th powers of all the
+> roots of p(x), including the complex ones. What is the value of this sum?
 
-**Answer:** 0012
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q18|src_archimede_2026_squadre_finale_mista__Q18]]
 
 
 
@@ -733,13 +910,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of coating grid 6x10 with trim, prime factors*
+*Modi rivestire griglia 6x10 con trimini, fattori primi*
 
-![[src_archimede_2026_squadre_finale_mista__prob19.png]]
+> 19. Ala ignifuga Eugenio Trovarelli Stellato si è innamorato di una Fourier Chiara, che però non va affatto d’accordo con gli umani. Hilcup capisce che è arrivato il momento di lasciarlo volare anche senza di lui e decide di rivestire l’ala artificiale con pelle di drago, così da renderla ignifuga. L’ala è una griglia 6×10 di caselle quadrate, composta da 6 righe e 10 colonne. I ritagli di pelle di drago sono a forma di trimino (oppure , in una qualunque rotazione). Hilcup riveste l’ala a partire dall’angolo in basso a sinistra, cucendo un ritaglio alla volta, senza sovrapporli. Per facilitare il lavoro, ogni casella coperta da un ritaglio appena cucito deve soddisfare la seguente condizione: l
 
-> 19. The flaming Eugenio Trovarelli Stellato has fallen in love with a Fourier Clear, which, however, does not agree with humans. Hilcup realizes that the time has come to let him fly even without him and decides to coat the artificial wing with dragon skin, so as to make it fireproof. The wire is a grid of 6×10 square boxes, consisting of 6 rows and 10 columns. The dragon skin cuts are triminous (or , in any rotation). Hilcup covers the wing from the bottom left corner, sewing one cut at a time, without overlapping. In order to facilitate the work, each box covered by a newly sewn cut must meet the following condition:
 
-**Answer:** 0103
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q19|src_archimede_2026_squadre_finale_mista__Q19]]
 
 
 
@@ -764,13 +943,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of AGM triangle with built-in circumferences*
+*Area triangolo AGM con costruzione su circonferenze*
 
-![[src_archimede_2026_squadre_finale_mista__prob20.png]]
+> 20. Il Mondo Nascosto Francesco Laganà Gli abitanti di Berkhoff stanno studiando un’antica mappa che, secondo la leggenda, conduce alMondo Nascosto. Su di essa è tracciato un triangoloABC, conAC>AB , tale che[ABC = [BCA +30◦. Le istruzioni per raggiungere il Mondo Nascosto sono riportate in una nota: «Considera il puntoZ, simmetrico diA rispetto al punto medio diBC. Traccia quindi la circonferenzaωcircoscritta al triangoloBCZ; le rette AB e AC intersecano nuovamenteωrispettivamente nei puntiP e Q. Siano inoltreX il centro diω, Y il circocentro del triangoloAPQ e M il punto medio diAX. Il Mondo Nascosto è rappresentato dal triangolo AGM, doveG è il baricentro diABC». Nella mappa sono indicate
 
-> 20. The Hidden World Francis Laganà The inhabitants of Berkhoff are studying an ancient map that, according to legend, leads to the Hidden World. On it is drawn an ABC triangle, with AC>AB, such that [ABC = [BCA +30◦. The instructions for reaching the Hidden World are given in a note: Consider the Z-point, symmetrical to the mean point of BC. Then trace the circumference of the triangleBCZ; lines AB and AC intersect again at points P and Q respectively. In addition, X is the center of the diω, Y is the circumcenter of the triangleAPQ and M is the midpoint of AX. The Hidden World is represented by the AGM triangle, where G is the barycenter of ABC. On the map they are shown
 
-**Answer:** 8601
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Method:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q20|src_archimede_2026_squadre_finale_mista__Q20]]
 
 
 
@@ -794,8 +974,12 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of 4 consecutive integers of the same number of divisors*
+*Minimum sum of 4 consecutive integers with the same number of divisors*
 
-> 21. Goodbye Filippo Falqui Cao The legend says that when the earth trembles or spits out lava, it is the dragons that remind us that they still exist..., Hilcup thinks, observing for one last time the swarm of dragons moving away in the sky. The world believes that there are no four consecutive positive integers with the same number of divisors, but we Berkhoffians know that this is not the case, and we will keep this secret until the time comes when dragons can return in peace. What is the minimum possible value of the sum of these four integers? The solution. Both d the number of divisors of the four consecutive integers required. Let's note that ched can't be odd because there aren't four squares.
+> 21. Addio Filippo Falqui Cao «La leggenda dice che, quando la terra trema o sputa fuori lava, sono i draghi che ci ricordano che esistono ancora...», pensa Hilcup, osservando un’ultima volta lo stormo di draghi allontanarsi nel cielo. «Il mondo crede che non esistano quattro interi positivi consecutivi con lo stesso numero di divisori, ma noi Berkhoffiani sappiamo che non è così, e custodiremo questo segreto finché non verrà il tempo in cui i draghi potranno tornare in pace». Qual è il minimo valore possibile della somma di questi quattro interi? Soluzione. Sia d il numero di divisori dei quattro interi consecutivi richiesti. Notiamo ched non può essere dispari perché non esistono4 quadrati
 
-**Answer:** 0974
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2026_squadre_finale_mista#q21|src_archimede_2026_squadre_finale_mista__Q21]]

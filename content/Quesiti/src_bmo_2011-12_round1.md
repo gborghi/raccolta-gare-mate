@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti gli enti n in modo tale che n^2+20n+11 sia un quadrato perfetto*
+*Trovare tutti gli interi n tali che n^2+20n+11 sia un quadrato perfetto*
 
-> Trova tutti gli integri $n$ (positivi o negativi) per i quali $n^2 + 20n + 11$ è un quadrato perfetto. Ricorda che devi giustificare di averli trovati tutti.
+> Trovare tutti gli interi (positivi o negativi) $n$ per i quali $n^2 + 20n + 11$ è un quadrato perfetto. Ricorda che devi giustificare di averli trovati tutti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2011-12_round1#q01|src_bmo_2011-12_round1__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*T più grande in modo che 1,2,...,k possa essere disposta con divisibilità adiacente*
+*Il più grande t tale che 1,2,...,k possano essere disposti con divisibilità tra elementi adiacenti*
 
-> Considerate i numeri $1, 2, \ldots, k$. Trova, in termini di $n$, il più grande intero $t$ in modo tale che questi numeri possano essere disposti in una riga in modo che tutti i numeri adiacenti si dividano tra loro.
+> Si considerino i numeri $1, 2, \ldots, k$. Determinare, in funzione di $n$, il più grande intero $t$ tale che questi numeri possano essere disposti in una riga in modo che tutti i numeri adiacenti si dividano a vicenda.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2011-12_round1#q02|src_bmo_2011-12_round1__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'intersezione di due cerchi attraverso la tangente P a S è fissa*
+*L'intersezione di due cerchi passanti per P e tangenti a S è fissa*
 
-> Considera un cerchio $S$. Il punto $P$ si trova al di fuori di $S$ e una linea è tracciata attraverso $P$, tagliando $S$ in punti distinti $X$ e $Y$. I cerchi $S_1$ e $S_2$ sono tracciati attraverso $P$ che sono tangenti a $S$ rispettivamente a $X$ e $Y$. Indicare che l'intersezione (diversi da $P$) di $S_1$ e $S_2$ è indipendente dalle posizioni di $P$, $X$ e $Y$.
+> Si consideri una circonferenza $S$. Il punto $P$ giace all'esterno di $S$ e si traccia una retta passante per $P$, che interseca $S$ nei punti distinti $X$ e $Y$. Si tracciano le circonferenze $S_1$ e $S_2$ passanti per $P$, le quali sono tangenti a $S$ rispettivamente nei punti $X$ e $Y$. Dimostrare che l'intersezione (diversa da $P$) di $S_1$ e $S_2$ è indipendente dalle posizioni di $P$, $X$ e $Y$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2011-12_round1#q03|src_bmo_2011-12_round1__Q03]]
 
 
 
@@ -112,15 +133,23 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bags con palle: decidere se tutte le n possono essere svuotate con operazioni di triplice e sottrazione*
+*Sacchi con palline: decidere se tutti gli n possono essere svuotati con operazioni di triplicazione e sottrazione*
 
-> Inizialmente c'è un sacchetto contenente palle $n$, dove $n > 1$, e un secondo sacchetto vuoto. È possibile eseguire le seguenti due operazioni:
-> 
-> a) Rimuovere un numero uguale di palle da ciascuna borsa (in modo che il totale diminuisca). b) raddoppiare il numero di palle in una borsa.
-> 
-> L'operazione b) è ora sostituita da: b) Triplico il numero di palle in un sacchetto.
-> 
-> È ora sempre possibile svuotare entrambe le sacche dopo una sequenza finita di operazioni utilizzando solo le operazioni a) e b)?
+> Inizialmente c'è un sacchetto che contiene $n$ palline, dove $n > 1$, e un secondo sacchetto vuoto. È possibile eseguire le seguenti due operazioni:
+>
+> a) Togli un numero uguale di palline da ogni sacchetto (così il totale diminuisce).
+> b) Raddoppia il numero di palline in un sacchetto.
+>
+> L'operazione b) è ora sostituita da: b') Triplica il numero di palle in un sacchetto.
+>
+> Ora è sempre possibile svuotare entrambe le borse dopo una sequenza finita di operazioni, utilizzando solo le operazioni a) e b')?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2011-12_round1#q04|src_bmo_2011-12_round1__Q04]]
 
 
 
@@ -143,9 +172,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il prodotto di quattro numeri interi positivi consecutivi non è mai un quadrato perfetto
+*Il prodotto di quattro interi positivi consecutivi non è mai un quadrato perfetto*
 
-> Prova che il prodotto di quattro numeri interi positivi consecutivi non può essere un quadrato perfetto.
+> Dimostrare che il prodotto di quattro interi positivi consecutivi non può essere un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2011-12_round1#q05|src_bmo_2011-12_round1__Q05]]
 
 
 
@@ -168,6 +204,13 @@ Il prodotto di quattro numeri interi positivi consecutivi non è mai un quadrato
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un triangolo acuto, piede di altitudine D, piede da D a EF si trova sulla media*
+*In un triangolo acuto, il piede dell'altezza D e il piede della perpendicolare da D a EF giacciono sulla mediana*
 
-> Che il $ABC$ sia un triangolo acuto. Il piede dell'altitudine da $A$ a $BC$ è $D$. Il piede dell'altitudine da $B$ a $AC$ è $E$. Il piede dell'altitudine da $C$ a $AB$ è $F$. Il punto $P$ è il piede della perpendicolare da $D$ a $EF$. Indicare che $AP$ bisecta $BC$.
+> Sia $ABC$ un triangolo acutangolo. Il piede dell'altezza condotta da $A$ a $BC$ è $D$. Il piede dell'altezza condotta da $B$ a $AC$ è $E$. Il piede dell'altezza condotta da $C$ a $AB$ è $F$. Il punto $P$ è il piede della perpendicolare condotta da $D$ a $EF$. Dimostrare che $AP$ biseca $BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2011-12_round1#q06|src_bmo_2011-12_round1__Q06]]

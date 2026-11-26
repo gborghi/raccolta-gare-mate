@@ -33,11 +33,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Self-referential answer to ((n-1) ((n-3)+6)/2*
+*A self-referential answer to ((n-1)(n-3)+6)/2*
 
-> Two ships with a π-rate each were launched at peak, three ships were sunk in 1602 (1, 2, 1) with one, two and one π-rate respectively, and so on. The superstitious Master Gibbs explains that all of these have become ghost vessels, and only those with a strange beak. How many ghost ships have appeared in this time period?
+> Two ships, each carrying a π-rata, sank in 1602; in (1, 2, 1), three ships sank, carrying one, two, and one π-rata respectively, and so on. The superstitious Master Gibbs explains that, of these, only those with an odd-sized crew became ghost ships. How many ghost ships appeared during this period?
 
-**Answer:** 0003
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_semifinale_b#q01|src_gas_2010_semifinale_b__Q01]]
 
 
 
@@ -61,11 +66,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the bisector segment in an isosceles triangle 120 degrees*
+*Length of the bisector segment in a 120-degree isosceles triangle*
 
-> 2. Captain Disparrow is studying a treasure map on which three points A, B, and C are marked, which are the vertices of an isosceles triangle. The base AB of the triangle measures 4.4 km and the angle at the top is 120 degrees. Captain Disparrow is at point B and knows that the treasure is at the intersection between the BC side and the angle's intersection in A. How many yards will it take to get to the treasure?
+> 2. A Priceless Parchment Captain Disparrow is studying a treasure map on which three points, A, B, and C, are marked; these points are the vertices of an isosceles triangle. The base AB of the triangle measures 4.4 km, and the vertex angle is 120 degrees. Captain Disparrow is at point B and knows that the treasure is at the intersection point of side BC and the angle bisector of the angle at A. How many meters will he have to travel to reach the treasure?
 
-**Answer:** 1610
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2010_semifinale_b#q02|src_gas_2010_semifinale_b__Q02]]
 
 
 
@@ -89,11 +99,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Circle count of non-bugs with neighbouring statements*
+*Non-liars counting in a circle with statements about neighbors*
 
-> 3. The true pearl swarm is divided into two factions: the MSK rat recruited by Captain Jack Disparrow, who always tell the truth, and those recruited by the fearsome Bourbakossa, who always lie and plot to mutineer. At the end of the final count, 7776 members of the crew were in a circle on the deck of the ship. Each of them says out loud, "Of my two neighbors, one was recruited by Jack and the other by Bourbakossa". Knowing that Master Gibbs is also in the circle, who was the first to be recruited by Jack, how many in total will not mutine?
+> 3. The Showdown  The crew of the Perla Vera is divided into two factions: the π-pirates recruited by Captain Jack Disparrow, who always tell the truth, and those enlisted by the formidable Bourbakossa, who always lie and are plotting mutiny. At the final showdown, a full 7776 crew members form a circle on the ship's deck. Each of them says aloud, "Of my two neighbors, one was recruited by Jack and the other by Bourbakossa." Knowing that Master Gibbs, who was the first to be recruited by Jack, is also in the circle, how many in total will not mutiny?
 
-**Answer:** 5184
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_semifinale_b#q03|src_gas_2010_semifinale_b__Q03]]
 
 
 
@@ -116,11 +131,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ship's speed of descent estimated at 1 minute every 8 miles*
+*Estimated ship's speed: 1 minute per 8 miles*
 
-> 4. The pirate's compass $Tom^{2}$, besides always indicating the direction of the treasure, also provides the estimated time of arrival by assuming that the ship travels directly to the destination at a constant speed of 12 knots (a speed knot corresponds to 1 mile per hour). The Dutchman Secante, the vessel on which he is embarking $Tom^{2}$, is heading straight for the treasure at its maximum speed. Knowing that the compass's estimated time of arrival drops by 1 minute every 8 miles traveled, at how many knots of speed does the ship go? [As a result, the product of the numerator and denominator of the reduced fraction is provided to the minimum terms] Team competition 2010  Semifinal B  Problem tests  1/3
+> 4. As explained to you, the Pirate's Compass $Tom^{2}$, besides always indicating the direction to the treasure, also provides the estimated time of arrival, assuming that the ship travels directly toward the destination at a constant speed of 12 knots (one knot of speed corresponds to 1 mile per hour). The Flying Dutchman Secant, the vessel on which $Tom^{2}$ is aboard, is heading straight for the treasure at its maximum speed. Knowing that the estimated time of arrival given by the compass decreases by 1 minute for every 8 miles traveled, at how many knots is the ship traveling? [As the result, provide the product of the numerator and denominator of the fraction reduced to lowest terms] Team Competition 2010 – Semifinal B – Problem Texts – 1/3
 
-**Answer:** 2080
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gas_2010_semifinale_b#q04|src_gas_2010_semifinale_b__Q04]]
 
 
 
@@ -144,11 +163,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different symbol count in cyclic triangle of 2010 rows*
+*Difference in symbol count in a cyclic triangle of 2010 rows*
 
-> 5. Unfortunately, the mutiny succeeded, Jack Disparrow was abandoned on a deserted island and the True Pearl fell into the hands of Bourbakossa, whose flag is a large black triangle on which three pirate symbols are often depicted. The first line depicts a monkey. On the second line, a monkey and a forzer. On the third line, there's a monkey, a forzer, and an apple. On the fourth line again a monkey, a forcer, an apple and another monkey, and so on: on the ninth line there are n symbols obtained repeating in monkey, forcer and apple order. The triangle counts all 2010 lines: what's the difference between the number of monkeys and the number of apples?
+> 5. Flag in the Wind Unfortunately, the mutiny succeeded: Jack Sparrow was marooned on a deserted islet, and the True Pearl fell into Bourbakossa's hands; he had his ensigns hoisted: his flag is a large black triangle bearing, repeated many times, three pirate symbols. On the first row, a monkey is depicted. On the second row, a monkey and a chest. On the third row, a monkey, a chest, and an apple. On the fourth row, again a monkey, a chest, an apple, and another monkey, and so on: on the n-th row, there are n symbols obtained by repeating, in order, monkey, chest, and apple. The triangle has a total of 2010 rows: what is the difference between the number of monkeys and the number of apples?
 
-**Answer:** 1340
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_semifinale_b#q05|src_gas_2010_semifinale_b__Q05]]
 
 
 
@@ -172,11 +196,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting of odd lines in the Triangle of Tartaglia (1600-1726)*
+*Count of odd rows in Tartaglia's triangle (1600–1726)*
 
-> 6. The Tortuga Triangle on the Tortuga Island has a great importance a commemorative plaque called the Tortuga Triangle. It is apparently identical to the Tartaglia triangle, but each of its lines is dedicated to a year from 1600 to 1726 and the numbers reported represent the number of π-rates boarded for each of the π-rates ships that sank in that year. For example, in 1600 (1) only one ship with a singleπ-rate was sunk, in 1601 (1),
+> 6. The Tortuga Triangle On Tortuga Island, a commemorative plaque known as the Tortuga Triangle is of great importance. It appears to be identical to Tartaglia's triangle, but each of its rows is dedicated to a year from 1600 to 1726, and the numbers given represent the number of π-rates embarked on each of the π-rate ships that sank in that year. For example, in 1600 (1), only one ship with a single π-rate sank; in 1601 (1,
 
-**Answer:** 2059
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_semifinale_b#q06|src_gas_2010_semifinale_b__Q06]]
 
 
 
@@ -206,11 +235,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum a=n^5+4n^4 squared of odd whole*
+*Minimum a = n^5 + 4n^4, square of an odd integer*
 
-> The Aztec fortress The Aztec gold fortress is empty and all the ancient coins must be recovered before the curse is dissolved. The ghost pirate Bourbakossa has led his men to look everywhere, and in the meantime he tries to remember how many coins there were when the enforcer was found. The only clue is a note in Captain Jack Disparrow's boarding journal that says: ...the Aztec coins are in quantity equal to the smallest positive integer a = n5 + 4n4, such that n is a natural number and a is the square of an odd integer. How many coins must the π-raties of Bourbakossa look for?
+> The Aztec chest
+> The chest containing the Aztec gold is empty, and all the ancient coins will have to be recovered before the curse is lifted. The ghost pirate Bourbakossa has sent his men scouring everywhere, while he tries to remember how many coins there were when the chest was found. The only clue is a note in Captain Jack Disparrow's ship's log that reads: "...the Aztec coins number as many as the smallest positive integer a = n5 + 4n4, where n is a natural number and a is the square of an odd integer." How many coins must Bourbakossa's pirates look for?
 
-**Answer:** 5625
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2010_semifinale_b#q07|src_gas_2010_semifinale_b__Q07]]
 
 
 
@@ -236,11 +271,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum a with a^2+200a+1 perfect square*
+*Maximum with a^2+200a+1 a perfect square*
 
-> Optimize it! When beautiful Elizabeth Somm ends up a prisoner of Bourbakossa, she invokes the optimiser to be spared, but discovers with regret that to make it effective with real π-rates, she is asked to find the largest positive integer such that a2 +200a + 1 is a perfect square. What's the answer?
+> Optimiser! When the beautiful Elizabeth Somm ends up a prisoner of Bourbakossa, she invokes the “optimiser” to be spared, but to her regret she discovers that, in order to make it effective with real π-rats, she is asked to find the greatest positive integer a such that a² + 200a + 1 is a perfect square. What must she reply?
 
-**Answer:** 4900
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2010_semifinale_b#q08|src_gas_2010_semifinale_b__Q08]]
 
 
 
@@ -269,11 +309,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Medium staircase between floors with ramps rising over 222 floors*
+*Average number of steps between levels, with ramps increasing over 222 levels*
 
-> Hard escape Jack Disparrow with Will's help has escaped from his cell which is on the lower floor of the prison tower and wants to climb to the top floor, from where he hopes to escape. The prison consists of 222 floors, numbered from 1 to 222 and connected by a number of stair ramps. From the 1st to the 2nd floor there is only 1 staircase ramp with only 1 step. From floors 2 to 3 there are 2 ramps with 1 and 2 steps respectively; from floors 3 to 4, there are 3 ramps with 1, 2 and 3 steps; and so on. How many stairs are there, on average, between one floor and the other?
+> Laborious Escape
+> With Will's help, Jack Disparrow has escaped from his cell, which is located on the lowest floor of the prison tower, and wants to make his way up to the top floor, from where he hopes to manage to escape. The prison has 222 floors, numbered from 1 to 222 and connected by a certain number of staircases. From floor 1 to floor 2, there is only one staircase with a single step. From floor 2 to floor 3, there are two staircases with 1 and 2 steps respectively; from floor 3 to floor 4, there are three staircases with 1, 2, and 3 steps; and so on. On average, how many steps are there between one floor and the next?
 
-**Answer:** 8251
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_semifinale_b#q09|src_gas_2010_semifinale_b__Q09]]
 
 
 
@@ -306,13 +352,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum double per pirate with exact division and +13*
+*Maximum doubloons per pirate with exact division and +13*
 
-> The true pearl has got its hands on a fabulous loot of no more than 100,000 doubles. Jack realizes that he can exactly divide the spoil between theπ-rates of the swarm. But suddenly Master Gibbs comes and says, "Captain, we lost a man". Jack is only sad for a moment, but then he rolls his shoulders, shakes his smiling hat and informs theπ-rat of the swarm that the exact division of the loot is still possible, and each one will thus have exactly 13 more doubles. How many doubles can be reached at eachπ rate at the most?
-> 
-> Team competition 2010  Semifinal B  Problem tests 3/3
+> Macabre division
+> La Perla Vera has got hold of a fabulous haul worth no more than 100,000 doubloons. Jack realizes that he can divide the haul exactly among the crew's π-rats. Suddenly, however, Master Gibbs arrives and says to him, "Captain, we've lost a man." Jack looks grieved for only a moment, but then shrugs, waves his hat with a smile, and informs the crew's π-rats that an exact division of the haul is still possible—and that in this way each of them will get exactly 13 doubloons more. What is the maximum number of doubloons that each π-rat could end up receiving?
+>
+> 2010 Team Competition – Semifinal B – Problem Statements 3/3
 
-**Answer:** 1144
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2010_semifinale_b#q10|src_gas_2010_semifinale_b__Q10]]
 
 
 
@@ -347,11 +399,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expected value lines above the red card in the triangle*
+*Expected value of the rows above the red card in the triangle*
 
-> Are you afraid of Davy Jensen's grave? The cursed Davy Jensen rat has a bag that contains 90 white tiles from the tomb, plus one single red card of blood. Each prisoner on his ship, the Dutchman Secante, undergoes the following game to know how many years he will have to serve on the ship: he extracts the cards randomly one at a time and arranges them in a triangle (1, then 2, then 3, ..., up to 13). The headless man will have to serve as many years as the lines of the triangle are longer than the one in which the red card appears. Bill Turing, who observes from a different angle, wonders on average how many years of service are affected in this way. Jack does not understand exactly what his colleague π-rate means, but his son Will, who has studied, explains that among the many ways of defining the average number of years of service (all leading to the same result) the most common is the sum of the numbers k· pk where, for every natural number 0 ≤k ≤12, pk is the probability that the years of service are k. What is the average number of years of service? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
+> Are you afraid of Davy Jensen's bingo? The cursed π-rat Davy Jensen has a bag containing 90 white bingo tiles plus 1 single blood-red tile. Every prisoner on his ship, the Secant Dutchman, takes part in the following game to find out how many years they will have to serve on the ship: they draw the tiles at random one at a time and arrange them in a triangle (1, then 2, then 3, ..., up to 13). The unlucky soul will have to serve as many years as the number of rows of the triangle that are longer than the row in which the red tile appears. Bill "Fire-Spitter" Turing, who is watching from the sidelines, wonders, on average, how many years of service fall to each person in this way. Jack doesn't quite understand what his π-rat colleague means, but his son Will, who has studied, explains to him that among the many ways of defining the average number of years of service (all of which lead to the same result), the most common one is the sum of the numbers k·pk, where, for each natural number 0 ≤ k ≤ 12, pk is the probability that the number of years of service is k. What is the average number of years of service? [As the result, give the product of the numerator and the denominator of the fraction reduced to lowest terms.]
 
-**Answer:** 0004
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_semifinale_b#q11|src_gas_2010_semifinale_b__Q11]]
 
 
 
@@ -380,11 +437,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum numbers of 5 digits with digits 0 to 9, one double the other*
+*Smallest 5-digit numbers using digits 0–9, one double the other*
 
-> The Fraternity of the π-rats is made up of 9 π-rat nobles plus Teague Disparrow, Jack's father. Each member holds one of the cards in a deck of 10 magic tarot decks, numbered from 0 to 9. To capture Cauchypso in human form, π-rates must arrange all the cards so as to form with them 2 5-digit numbers (none of which starts with zero) that are one double the other and so as to be the smallest possible. What are the last four digits of the smaller of the two?
+> The Capture of Cauchypso
+> The Brotherhood of the π-rats consists of the 9 noble π-rats plus Teague Disparrow, Jack's father. Each member possesses one of the cards in a deck of 10 magic tarot cards numbered from 0 to 9. To capture Cauchypso in human form, the π-rats must arrange all the cards so as to form, with them, two 5-digit numbers (neither of which starts with zero) such that one is twice the other and the numbers are as small as possible. What are the last 4 digits of the smaller of the two?
 
-**Answer:** 3485
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_semifinale_b#q12|src_gas_2010_semifinale_b__Q12]]
 
 
 
@@ -414,11 +477,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Optimal price of swords to maximize earnings*
+*Optimal sword price to maximize profits*
 
-> The swords made by the young Will Turing are famous for their quality and can be sold for a high price. Will wants to finance his next adventure by selling his swords to Tortuga, but he has to decide how many to make and at what price to sell them. If you ask for a price of 70 doubles or less, you're sure that all 10,000 Tortuga rates will want one. But if he sets a higher price, for every extra double he sells 50 fewer swords. Knowing that making every sword costs him 10 doubles, assuming he sets a price that maximizes his earnings, how many pirates will buy their sword from Will?
+> An avid buccaneer
+> The swords made by the young Will Turing are renowned for their quality and can be sold at a high price. Will wants to finance his next adventure by selling his swords in Tortuga, but he must decide how many to make and at what price to sell them. If he asks for a price of 70 doubloons or less, he can be sure that all 10,000 pirates of Tortuga will want one. If, however, he sets a higher price, for each additional doubloon he will sell 50 fewer swords. Knowing that making each sword costs him 10 doubloons, and assuming he sets a price that maximizes his profits, how many pirates will buy their sword from Will?
 
-**Answer:** 6500
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gas_2010_semifinale_b#q13|src_gas_2010_semifinale_b__Q13]]
 
 
 
@@ -449,11 +518,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum speed pursuer with two-way alternating course*
+*Maximum speed of the pursuer with an alternating two-directional course*
 
-> An ingenious route The True Pearl is caught by Cramer, the terrible sea monster set off by Davy Jensen, and is trying to get to land ahead of him. The nearest island is a point that lies exactly 10 miles north of the ship. As the wind is not windy but slightly lateral, Captain Disparrow imposes a route that alternates continuously in two different directions: to the northeast (30 degrees relative to the north) the ship goes at 5 m/s, while to the northwest (60 degrees relative to the north) the ship goes at 3 m/s. The Cramer starts at a point 10 miles south of the ship and moves north at constant speed. What's the maximum speed of the Cramer that allows the Pearl to reach the island first? Answer in cm/s.
+> An ingenious route
+> The Perla Vera is being hunted by Cramer, the terrible sea monster unleashed by Davy Jensen, and is trying to reach land before him. The nearest island is a point exactly 10 miles north of the ship. Since the wind is not astern but slightly abeam, Captain Disparrow sets a course that continuously alternates between two different directions: heading northeast (30 degrees from north), the ship travels at 5 m/s, while heading northwest (60 degrees from north), the ship travels at 3 m/s. Cramer starts from a point 10 miles south of the ship and moves north at a constant speed. What is the maximum speed of Cramer that allows the Perla Vera to reach the island first? Answer in cm/s.
 
-**Answer:** 0588
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2010_semifinale_b#q14|src_gas_2010_semifinale_b__Q14]]
 
 
 
@@ -483,11 +558,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum attempts to open the box with 4 locks and fasteners*
+*Maximum attempts to open a chest with 4 locks and a constraint*
 
-> It's not easy to open the chest that holds Davy Jensen's heart: the prodigy Will Turing already has the key, but now he's in crisis, because he discovered that the chest has 4 locks (one on each side). Fortunately, the key in his possession is good for all locks, but to unlock the mechanism that opens the casket, you have to make 2 turns at each lock, in a precise order that Will doesn't know; he only knows that the first turn (but not the second) is on the front lock. How many times does Will have to try to unlock the mechanism to make sure he opens the safe?
+> The Spectral Chest
+> It's not easy to open the chest that holds Davy Jensen's heart: the valiant Will Turing already has the key, but now he's in a bind because he's discovered that the chest has a full four locks—one on each side. Fortunately, the key he has fits all the locks, but to unlock the mechanism that opens the chest, each lock must be turned twice, in a precise order that Will doesn't know; he only knows that the first turn (but not the second) must be made on the front lock. At most, how many times will Will have to try to unlock the mechanism to be sure of opening the chest?
 
-**Answer:** 0540
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_semifinale_b#q15|src_gas_2010_semifinale_b__Q15]]
 
 
 
@@ -517,8 +598,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum quadrilateral area in semicircle with data angles*
+*Maximum area of a quadrilateral in a semicircle with given angles*
 
-> The true pearl is in danger of being swallowed up in a vortex! The latter has the shape of an OABC quadrilateral, all contained in a semicircle of centre O and diameter AD. The point B is on the semicircular and the BOA angle is 60 degrees. The Dutch Dryer gives battle from a point E of the semicircle such that EOD measures 30 degrees. The point C belongs to the DE segment or to the EB arc, but unfortunately the viewpoint is not certain. Knowing that AD measures 48 m, how many square meters can it measure, at most, the area of the vortex?
+> Clash Among the Waves
+> La Perla Vera risks being swallowed by a vortex! This vortex is shaped like the quadrilateral OABC, all of which lies within a semicircle with center O and diameter AD. Point B lies on the semicircumference, and angle BOA measures 60 degrees. The Dutch Secant puts up a fight from a point E on the semicircumference such that angle EOD measures 30 degrees. Point C belongs either to segment DE or to arc EB, but unfortunately the lookout is not sure. Given that AD measures 48 m, what is the maximum possible area of the vortex in square metres?
 
-**Answer:** 0537
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2010_semifinale_b#q16|src_gas_2010_semifinale_b__Q16]]

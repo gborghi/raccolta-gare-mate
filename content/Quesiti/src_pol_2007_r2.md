@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Zero comune di P(x) e P(P(x)) implica un numero intero comune zero.*
+*Polinomio a coefficienti interi: se P e P composto con sé hanno uno zero in comune, ne hanno uno intero in comune*
 
-> Un polinomio $P(x)$ ha coefficienti interi. Prova che se i polinomi $P(x)$ e $P(P(x))$ hanno uno zero comune, allora hanno anche uno zero intero comune.
+> Un polinomio $P(x)$ ha coefficienti interi. Dimostrare che, se i polinomi $P(x)$ e $P(P(x))$ hanno uno zero in comune, allora hanno anche uno zero intero in comune.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2007_r2#q01|src_pol_2007_r2__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un pentagono convexo con le due uguali e gli angoli rettangolari dati, dimostrare che tre segmenti formano un triangolo e trovare i suoi angoli dati due angoli.*
+*Pentagono convesso con due lati uguali e due angoli retti: AC, CE ed EB sono lati di un triangolo, di cui si chiedono gli angoli*
 
-> Considera un pentagono convex $ABCDE$ con $BC=CD$, $DE=EA$ e $\angle BCD=\angle DEA=90^\circ$. Prova che $AC,CE$ e $EB$ sono lati di un triangolo e trova gli angoli di questo triangolo, sapendo che $\angle ACE=\alpha$ e $\angle BEC=\beta$.
+> Si consideri un pentagono convesso $ABCDE$ con $BC=CD$, $DE=EA$ e $\angle BCD=\angle DEA=90^\circ$. Dimostrare che $AC,CE$ e $EB$ sono lati di un triangolo e trovarne gli angoli, sapendo che $\angle ACE=\alpha$ e $\angle BEC=\beta$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2007_r2#q02|src_pol_2007_r2__Q02]]
 
 
 
@@ -79,9 +91,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo equalaterale di n^2 piccoli triangoli con facce a due colori; determinare per quale n una posizione iniziale consente infiniti movimenti.*
+*Triangolo equilatero di tessere bianche e nere: per ogni n almeno 2, esiste una disposizione che permette infinite capovolgimenti?*
 
-> Un triangolo equilaterale di lato $n$ è composto da piastrelle triangolari equilaterali di lato $n^2$. Ogni piastrella ha un lato bianco e l'altro nero. Una mossa consentita è la seguente: scegliere una piastrella $P$ che abbia un lato comune con almeno altre due piastrelle la cui faccia superiore è di colore diverso da quello di $P$; poi girare $P$. Per ciascuna $n\ge 2$ determinare se esiste una posizione iniziale che consente infinite mosse di questo tipo.
+> Un triangolo equilatero di lato $n$ è composto da $n^2$ tessere triangolari equilatere di lato $1$. Ogni tessera ha una faccia bianca e una nera. Una mossa lecita è la seguente: si sceglie una tessera $P$ che ha un lato in comune con almeno due altre tessere la cui faccia superiore ha colore diverso da quella di $P$, e si capovolge $P$. Per ogni $n\ge 2$, stabilire se esiste una disposizione iniziale che permette infinite mosse di questo tipo.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2007_r2#q03|src_pol_2007_r2__Q03]]
 
 
 
@@ -104,9 +122,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se i numeri interi positivi a,b,c,d soddisfano ad=b^2+bc+c^2, allora a^2+b^2+c^2+d^2 è composto.*
+*Se ad = b^2 + bc + c^2, con a, b, c, d interi positivi, allora la somma dei quadrati è composta*
 
-> Prova che se $a,b,c,d$ sono numeri interi positivi che soddisfano $ad=b^2+bc+c^2$, il numero $a^2+b^2+c^2+d^2$ è composto.
+> Dimostrare che, se $a,b,c,d$ sono interi positivi che soddisfano $ad=b^2+bc+c^2$, allora il numero $a^2+b^2+c^2+d^2$ è composto.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2007_r2#q04|src_pol_2007_r2__Q04]]
 
 
 
@@ -129,9 +153,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero ciclico con AB != CD; due rombini di lato a costruiti su di esso; dimostrare che quattro vertici sono conciclici.*
+*Quadrilatero inscritto con AB diverso da CD, e due rombi di lato a: quattro vertici sono conciclici*
 
-> Un quadrilaterale convex $ABCD$ con $AB\ne CD$ è inserito in un cerchio. Le $AKDL$ e $CMBN$ siano rombole con lunghezza laterale $a$. Prova che i punti $K,L,M,N$ si trovano su un cerchio.
+> Un quadrilatero convesso $ABCD$ con $AB\ne CD$ è inscritto in una circonferenza. Siano $AKDL$ e $CMBN$ rombi di lato $a$. Dimostrare che i punti $K,L,M,N$ giacciono su una circonferenza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2007_r2#q05|src_pol_2007_r2__Q05]]
 
 
 
@@ -154,6 +184,14 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per i valori positivi a,b,c,d con ripercussioni sommate a 4, provare che la somma dei termini di radice cubica è al massimo 2(a+b+c+d)-4.*
+*Quattro numeri positivi con somma dei reciproci uguale a 4: una somma di radici cubiche non supera 2(a+b+c+d)−4*
 
-> I numeri positivi $a,b,c,d$ soddisfano $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}+\frac{1}{d}=4$. Provare che $$\sqrt[3]{\frac{a^3+b^3}{2}}+\sqrt[3]{\frac{b^3+c^3}{2}}+\sqrt[3]{\frac{c^3+d^3}{2}}+\sqrt[3]{\frac{d^3+a^3}{2}}\le 2(a+b+c+d)-4.$$
+> Numeri positivi $a,b,c,d$ soddisfano $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}+\frac{1}{d}=4$. Dimostrare che
+>
+> $$\sqrt[3]{\frac{a^3+b^3}{2}}+\sqrt[3]{\frac{b^3+c^3}{2}}+\sqrt[3]{\frac{c^3+d^3}{2}}+\sqrt[3]{\frac{d^3+a^3}{2}}\le 2(a+b+c+d)-4.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2007_r2#q06|src_pol_2007_r2__Q06]]

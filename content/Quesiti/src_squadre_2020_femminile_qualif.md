@@ -32,23 +32,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0009
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*That branch of the lake (Silvia Sconza)*
+*That Branch of the Lake Silvia Sconza*
 
 ![[src_squadre_2020_femminile_qualif__prob1.png]]
 
-> THAT BRANCH OF THE LAKE (Silvia Sconza)
-> A.M.: That branch of the lake of Como which turns towards midday (and, when midday strikes, Don Abbondio's music box switches on and a random number between 1 and 15000 appears in a little window. Pressing a button changes the number in the window as follows:
-> • if the number shown is not prime, it becomes the largest of the odd divisors of the number shown that are smaller than it;
-> • if the number shown is 1 or is prime, the number disappears and the music box plays.)
-> Perpetua (shortly before midday): Without knowing what number will appear, what is the maximum number of times I must expect to have to press the button to make the music box play?
+> THAT BRANCH OF THE LAKE Silvia Sconza A.M. That branch of Lake Como that faces south (and, when noon strikes, Don Abbondio's carillon lights up and a random number between 1 and 15,000 appears in a small window. By pressing a button, the number in the window is changed as follows: • if the number shown is not prime, it becomes the greatest of the odd divisors of the number shown that are less than it; • if the number shown is 1 or is prime, the number disappears and the carillon sounds.) Perpetua (Shortly before noon) Without knowing which number will appear, at most how many times must I expect to have to press the button to make the carillon sound?
 
-**Answer:** 0009
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q01|src_squadre_2020_femminile_qualif__Q01]]
 
 
 
@@ -72,24 +71,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2019
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complications (Andrea Giusto)*
+*IMBROGLI Andrea Giusto*
 
 ![[src_squadre_2020_femminile_qualif__prob2.png]]
 
-> COMPLICATIONS (Andrea Giusto)
-> Don Abbondio: Today, today... be patient, but today I can't.
-> Renzo: Today you can't! What has happened?
-> Don Abbondio: There are complications: how many polynomials P(x) are there with coefficients 0 or 1 such that P(2) ≤ 2020?
-> Renzo: But of what degree?
-> Don Abbondio: What a question, worthy of Carneades! Of any degree, from one upwards!
+> TRICKS Andrea Giusto Don Abbondio Today, today... bear with me, but today I can't. Renzo Today he can't! What's come up? Don Abbondio There are some tricks: How many polynomials P(x) are there with coefficients 0 or 1 such that P(2) ≤ 2020? Renzo But what degree? Don Abbondio What a stupid question! But any degree, starting from one!
 
-**Answer:** 2019
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q02|src_squadre_2020_femminile_qualif__Q02]]
 
 
 
@@ -115,24 +112,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0012
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*I am not a robot (Sandro Campigotto)*
+*I AM NOT A ROBOT Sandro Campigotto*
 
 ![[src_squadre_2020_femminile_qualif__prob3.png]]
 
-> I AM NOT A ROBOT (Sandro Campigotto)
-> Fra Cristoforo is in front of Don Rodrigo's castle. A sign reads: No entry for robots and Lombards.
-> Fra Cristoforo: Let me in.
-> Tira-dritto: Friar, you can't read.
-> Fra Cristoforo: Of course I can! I come from \*\*\*; I am not a Lombard.
-> Tira-dritto: To enter you must prove you are not a robot: answer the following question. What is the sum of all possible positive integers b for which there exists a positive integer a such that √(ab + b!) = 100?
+> I AM NOT A ROBOT Sandro Campigotto Friar Cristoforo is in front of Don Rodrigo's castle. On a sign it says: No entry for robots and Lombards. Friar Cristoforo: Let me in. Tira-dritto: Brother, you can't read. Friar Cristoforo: Of course! I'm from \*\*\*; I'm not a Lombard. Tira-dritto: To get in, you have to prove you're not a robot: answer the following question. What is the sum of all possible positive integer numbers b for which there exists a positive integer a such that √(ab + b!) = 100?
 
-**Answer:** 0012
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q03|src_squadre_2020_femminile_qualif__Q03]]
 
 
 
@@ -153,24 +148,19 @@ level: squadre
 > A.M. Quanti minuti servono a Tonio per terminare il lavoro?
 
 **Risposta:** 0024
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The repair (Sandro Campigotto)*
+*The Repair Sandro Campigotto*
 
 ![[src_squadre_2020_femminile_qualif__prob4.png]]
 
-> THE REPAIR (Sandro Campigotto)
-> Tonio: I can't come now: I have to repair the two windows. It will take me 4 hours.
-> Renzo: Well, you're quick. On my own it would take me 5 hours.
-> Tonio: Help me! (Together with Renzo, he works on repairing the two windows)
-> Renzo (after two hours): I have to go. But it's almost finished now. Join me as soon as you finish.
-> A.M.: How many minutes does Tonio need to finish the job?
+> THE REPAIR Sandro Campigotto Tonio: I can't come now—I have to repair the two windows. It'll take me 4 hours. Renzo: Well, you're quick. On my own, I'd take 5 hours. Tonio: Help me! (Together with Renzo, he works on repairing the two windows.) Renzo: (Two hours have passed.) I have to go. But it's done by now. Come and join me right away as soon as you're finished. A.M.: How many minutes does Tonio need to finish the work?
 
-**Answer:** 0024
+[[Quesiti/src_squadre_2020_femminile_qualif#q04|src_squadre_2020_femminile_qualif__Q04]]
 
 
 
@@ -194,21 +184,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0144
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Consolation (Matteo Bobbio)*
+*Consolation Matteo Bobbio*
 
 ![[src_squadre_2020_femminile_qualif__prob5.png]]
 
-> CONSOLATION (Matteo Bobbio)
-> Agnese (consoling Lucia): There's nothing to worry about; it just takes patience. Do as mathematicians do: write some numbers on the little blackboard and compute their sum.
-> Lucia (writes 15 + 14 + 13 + 12 + 11 + 10 + 9 + 8 + 7 + 6 + 5 + 4 + 3 + 2 + 1): Unhappy me: the sum is 120, but my favourite number is 88. Now I'll change the largest possible number of + signs into − signs so that the resulting expression gives exactly 88. [Give as the answer the absolute value of the product of the terms whose sign has been changed.]
+> CONSOLATION Matteo Bobbio Agnese (Consoling Lucia) There's nothing to worry about; you just need patience. Do as mathematicians do: write some numbers on the small chalkboard and calculate their sum. Lucia (Writes 15 + 14 + 13 + 12 + 11 + 10 + 9 + 8 + 7 + 6 + 5 + 4 + 3 + 2 + 1) Woe is me: the sum is 120, but my favorite number is 88. Now I'll change as many + signs as possible to − signs so that the resulting expression evaluates exactly to 88. [Give as the answer the absolute value of the product of the terms whose signs have been changed.]
 
-**Answer:** 0144
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q05|src_squadre_2020_femminile_qualif__Q05]]
 
 
 
@@ -232,20 +223,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1005
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The bravi's discovery (Andrea Giusto)*
+*The Discovery of the Brave Ones Andrea Giusto*
 
 ![[src_squadre_2020_femminile_qualif__prob6.png]]
 
-> THE BRAVI'S DISCOVERY (Andrea Giusto)
-> Griso (to Sfregiato and Tira-dritto): Yesterday evening, as a pastime, I discovered the operation ∗. (Sfregiato and Tira-dritto glare at each other) Well, you won't believe it, but it is commutative! (Sfregiato and Tira-dritto reach for their knives) Moreover I know that 0 ∗ 0 = 1 and n ∗ (m + 1) = m(n ∗ m) + (n ∗ m) for every pair of natural numbers n and m. Which of you can tell me how many zeros the number 2020 ∗ 2019 ends with? (Sfregiato and Tira-dritto drop their knives and start doing the calculations.)
+> THE DISCOVERY OF THE BRAVI Andrea Giusto Griso (Addressed to Sfregiato and Tira-dritto) Last night, as a pastime, I discovered the operation ∗. (Sfregiato and Tira-dritto glare at each other.) Well, you won't believe it, but it's commutative! (Sfregiato and Tira-dritto reach for their knives.) Moreover, I know that 0 ∗ 0 = 1 and n ∗ (m + 1) = m(n ∗ m) + (n ∗ m) for any pair of natural numbers n and m. Which of you can tell me how many zeros the number 2020 ∗ 2019 ends with? (Sfregiato and Tira-dritto drop their knives and start doing the calculations.)
 
-**Answer:** 1005
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q06|src_squadre_2020_femminile_qualif__Q06]]
 
 
 
@@ -288,41 +281,22 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0037
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In the castle (Giulia Gaggero)*
+*IN THE CASTLE Giulia Gaggero*
 
 ![[src_squadre_2020_femminile_qualif__prob7.png]]
 
-> IN THE CASTLE (Giulia Gaggero)
-> In the castle of Don Rodrigo, Count of Fuentes, Mendoza, Deferia, Duke of Terranova, Constable of Castile, there are servants, who always tell the truth, and bravi, who always lie. In the courtyard there are twenty employees in Don Rodrigo's service.
-> First employee: Everyone present is lying.
-> Second employee: Everyone present is lying except me.
-> Third employee: Everyone present is lying except me and one other.
-> Fourth employee: Everyone present is lying except me and two others.
-> Fifth employee: Everyone present is lying except me and three others.
-> Sixth employee: Everyone present is lying except me and four others.
-> Seventh employee: Everyone present is lying except me and five others.
-> Eighth employee: Everyone present is lying except me and six others.
-> Ninth employee: Everyone present is lying except me and seven others.
-> Tenth employee: Everyone present is lying except me and eight others.
-> Eleventh employee: Exactly one of those present is telling the truth.
-> Twelfth employee: Exactly two of those present are telling the truth.
-> Thirteenth employee: Exactly three of those present are telling the truth.
-> Fourteenth employee: Exactly four of those present are telling the truth.
-> Fifteenth employee: Exactly five of those present are telling the truth.
-> Sixteenth employee: Exactly six of those present are telling the truth.
-> Seventeenth employee: Exactly seven of those present are telling the truth.
-> Eighteenth employee: Exactly eight of those present are telling the truth.
-> Nineteenth employee: Exactly nine of those present are telling the truth.
-> Twentieth employee: Exactly ten of those present are telling the truth.
-> A.M.: What is the maximum number of bravi compatible with all the statements? And what is the minimum number? [Give as the answer the sum of the two numbers.]
+> IN THE CASTLE Giulia Gaggero In the castle of Don Rodrigo, Count of Fuentes, Mendoza, Deferia, Duke of Terranova, Constable of Castile, there are servants who always tell the truth and bravi who always tell lies. In the courtyard there are twenty employees in the service of Don Rodrigo. First employee: Everyone present is lying. Second employee: Everyone present is lying except me. Third employee: Everyone present is lying except me and one other. Fourth employee: Everyone present is lying except me and two others. Fifth employee: Everyone present is lying except me and three others. Sixth employee: Everyone present is lying except me and four others. Seventh employee: Everyone present is lying except me and five others. Eighth employee: Everyone present is lying except me and six others. Ninth employee: Everyone present is lying except me and seven others. Tenth employee: Everyone present is lying except me and eight others. Eleventh employee: Exactly one of those present is telling the truth. Twelfth employee: Exactly two of those present are telling the truth. Thirteenth employee: Exactly three of those present are telling the truth. Fourteenth employee: Exactly four of those present are telling the truth. Fifteenth employee: Exactly five of those present are telling the truth. Sixteenth employee: Exactly six of those present are telling the truth. Seventeenth employee: Exactly seven of those present are telling the truth. Eighteenth employee: Exactly eight of those present are telling the truth. Nineteenth employee: Exactly nine of those present are telling the truth. Twentieth employee: Exactly ten of those present are telling the truth. A.M. What is the maximum number of bravi compatible with all the statements? And what is the minimum number? [Give as the answer the sum of the two numbers.]
 
-**Answer:** 0037
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q07|src_squadre_2020_femminile_qualif__Q07]]
 
 
 
@@ -343,21 +317,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0800
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The ceiling (Luca Renzi)*
+*The Ceiling Luca Renzi*
 
 ![[src_squadre_2020_femminile_qualif__prob8.png]]
 
-> THE CEILING (Luca Renzi)
-> Tonio: The chapel has twenty walls: it is an icosagon. The decoration I made for the ceiling consists of thin beams tracing the 170 diagonals.
-> Renzo: How many triangles are there whose sides are three whole beams?
+> THE CEILING Luca Renzi Tonio The chapel has twenty walls: it is an icosagon. The decoration I created for the ceiling consists of thin beams tracing the 170 diagonals. Renzo How many triangles have three whole beams as their sides?
 
-**Answer:** 0800
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q08|src_squadre_2020_femminile_qualif__Q08]]
 
 
 
@@ -377,20 +352,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0336
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*On the road (Sandro Campigotto)*
+*ON THE WAY Sandro Campigotto*
 
 ![[src_squadre_2020_femminile_qualif__prob9.png]]
 
-> ON THE ROAD (Sandro Campigotto)
-> Fra Cristoforo (walking thoughtfully): What is the sum 3 + 33 + 333 + ... + 33...3 (the last addend has 100 digits)? [Give as the answer the sum of the digits of the result.]
+> ON THE WAY Sandro Campigotto Fra Cristoforo (Walking Thoughtfully) What is the value of the sum 3 + 33 + 333 + ... + 33...3 (the last addend has 100 digits)? [Give as the answer the sum of the digits of the result.]
 
-**Answer:** 0336
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q09|src_squadre_2020_femminile_qualif__Q09]]
 
 
 
@@ -415,22 +392,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1000
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In 1830 (Luca Renzi)*
+*In 1830 Luca Renzi*
 
 ![[src_squadre_2020_femminile_qualif__prob10.png]]
 
-> IN 1830 (Luca Renzi)
-> A.M.: The sum of the digits of 1830 is 12; the sum of the digits of 12 is 3, which is exactly the number of non-zero digits in 1830.
-> Renzo: How many four-digit numbers share this property?
-> Lucia: Lorenzo, or, as everyone called him, Renzo, you mean: how many integers between 999 and 9999 are there such that the digit obtained by adding up their digits and, if necessary, repeating this operation when a single digit is not obtained straight away, is exactly the number of non-zero digits appearing in the given number? (Renzo nods.)
+> In 1830, Luca Renzi A.M. The sum of the digits in 1830 is 12; the sum of the digits in 12 is 3, which is exactly the number of digits different from 0 in 1830. Renzo: How many four-digit numbers share this property? Lucia: Lorenzo—or, as everyone used to call him, Renzo—you mean: how many integers between 999 and 9999 are there such that the digit obtained by adding their digits and, if a single digit is not obtained straight away, by repeating this operation, is exactly the number of digits different from 0 that appear in the given number? (Renzo nods.)
 
-**Answer:** 1000
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q10|src_squadre_2020_femminile_qualif__Q10]]
 
 
 
@@ -458,27 +435,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3419
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In Pescarenico (Silvia Sconza)*
+*A PESCARENICO Silvia Sconza*
 
 ![[src_squadre_2020_femminile_qualif__prob11.png]]
 
-> IN PESCARENICO (Silvia Sconza)
-> Lucia: In Pescarenico there are 3420 people: some are liars and always lie; the others always tell the truth. Lorenzo, or, as everyone called him, Renzo, it's too dangerous; we must flee.
-> Renzo: Let's stop these four inhabitants of Pescarenico. (Turning to four inhabitants of Pescarenico.) How many inhabitants of Pescarenico are liars?
-> First inhabitant: There is an even number of liars.
-> Second inhabitant: There is a number of liars divisible by 3.
-> Third inhabitant: There is a number of liars divisible by 5.
-> Fourth inhabitant: There are as many sincere people as liars.
-> Fra Cristoforo: I assure you that among these four there is at least one liar.
-> Lucia: In this case, what is the maximum number of liars in Pescarenico?
+> AT PESCARENICO Silvia Sconza Lucia In Pescarenico there are 3,420 people: some are liars and always tell lies; the others always tell the truth. Lorenzo—or, as everyone used to call him, Renzo—is too dangerous; we have to run away. Renzo Let's stop these four inhabitants of Pescarenico. (To four inhabitants of Pescarenico.) How many liars are there among the inhabitants of Pescarenico? First inhabitant There is an even number of liars. Second inhabitant There is a number of liars divisible by 3. Third inhabitant There is a number of liars divisible by 5. Fourth inhabitant There are as many truthful people as liars. Friar Cristoforo I assure you that among these four there is at least one liar. Lucia In that case, what is the maximum number of liars in Pescarenico?
 
-**Answer:** 3419
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q11|src_squadre_2020_femminile_qualif__Q11]]
 
 
 
@@ -514,25 +486,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0048
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In MMMMMonza (Giuseppe Rosolini)*
+*A MMMMMONZA Giuseppe Rosolini*
 
 ![[src_squadre_2020_femminile_qualif__prob12.png]]
 
-> IN MMMMMONZA (Giuseppe Rosolini)
-> Gertrude: Lucia, this is your room. (She opens the door, but finds in front of her some nuns repairing the beams, shaped like rectangular parallelepipeds, that cross the ceiling of the rectangular room exactly along the diagonals of the ceiling; each beam joins a corner of the room to the centre of the ceiling. There is a decorative red line running along the middle of the base of each beam, and pairs of red lines draw each of the diagonals of the ceiling.)
-> Lucia: Perhaps it will take a long time...
-> First nun: No, we have already measured the room: it is 3 m × 4 m. Knowing the distance from a vertex of the ceiling rectangle to the centre of the ceiling, we have already cut four equal parallelepiped-shaped beams of that length.
-> Second nun: The cross-section of each beam is a square with side 10 cm. But we had to cut the ends of each beam so that they fit together without leaving gaps against the walls of the room or at the centre of the ceiling, nor steps between one beam and another.
-> Third nun: In short, each beam has exactly two sides that do not touch another beam or the ceiling.
-> Gertrude (to Lucia): What is the ratio between the volume of the parallelepiped beams originally cut and the volume of the parts removed from the beams to fit them together without leaving gaps or steps?
+> A MMMMMONZA Giuseppe Rosolini Gertrude Lucia, this is your room. (He opens the door, but finds several nuns in front of him; they are repairing the parallelepipedal beams that run through the ceiling of the rectangular room exactly along the diagonals of the ceiling; each beam joins a corner of the room with the center of the ceiling. There is a decorative red line running along the middle of the base of each beam, and pairs of red lines trace each of the diagonals of the ceiling.) Lucia: Maybe it'll take a long time... First nun: No, we've already taken the measurements of the room: it's 3 m × 4 m. Knowing the distance from a vertex of the rectangular ceiling to the center of the ceiling, we've already cut four identical parallelepipedal beams of that length. Second nun: The cross-section of each beam is square, with sides 10 cm long. But we had to cut the ends of each beam in such a way that they can fit together without leaving gaps against the walls of the room or at the center of the ceiling, and without any steps between one beam and another. Third nun: So, each beam has exactly two sides that do not touch another beam or the ceiling. Gertrude (to Lucia): What is the ratio of the volume of the parallelepipedal beams originally cut to the volume of the parts removed from the beams in order to fit them together without leaving gaps or steps?
 
-**Answer:** 0048
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q12|src_squadre_2020_femminile_qualif__Q12]]
 
 
 
@@ -553,21 +522,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0136
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*During break (Sandro Campigotto)*
+*During Recess, Sandro Campigotto*
 
 ![[src_squadre_2020_femminile_qualif__prob13.png]]
 
-> DURING BREAK (Sandro Campigotto)
-> First nun: Consider the numbers n with the following properties: dividing 545 by n gives remainder r; dividing 682 by n gives remainder 2r; dividing 1227 by n gives remainder 3r.
-> Gertrude: What is the largest number n with the listed properties?
+> DURING RECESS Sandro Campigotto First Nun Consider the numbers n with the following properties: when 545 is divided by n, the remainder is r; when 682 is divided by n, the remainder is 2r; when 1227 is divided by n, the remainder is 3r. Gertrude What is the greatest number n with the listed properties?
 
-**Answer:** 0136
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q13|src_squadre_2020_femminile_qualif__Q13]]
 
 
 
@@ -590,22 +560,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0193
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In the monastery (Anna Ulivi)*
+*At the Monastery Anna Ulivi*
 
 ![[src_squadre_2020_femminile_qualif__prob14.png]]
 
-> IN THE MONASTERY (Anna Ulivi)
-> In a secluded spot near the boundary wall.
-> Egidio (writing on a sheet of paper): Let's consider an isosceles trapezoid ABCD with shorter base CD of 6 cm and draw the bisector of D̂, which meets the base AB at E. Let F be the intersection point of DB and CE. We know that CF = FE and that CE is 14 cm long. (He passes it to Gertrude)
-> Gertrude (wretchedly): What is the area of the trapezoid?
+> IN THE MONASTERY Anna Ulivi In a secluded place near the perimeter wall. Egidio (Writing on a sheet of paper) Consider an isosceles trapezoid ABCD with the shorter base CD measuring 6 cm, and draw the bisector of angle D, which meets base AB at E. Let F be the intersection point of DB and CE. It is known that CF = FE and that CE is 14 cm long. (He passes it to Gertrude) Gertrude (Unfortunately) What is the area of the trapezoid?
 
-**Answer:** 0193
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q14|src_squadre_2020_femminile_qualif__Q14]]
 
 
 
@@ -627,21 +597,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0525
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The complete kitchen (Sandro Campigotto)*
+*The Complete Kitchen Sandro Campigotto*
 
 ![[src_squadre_2020_femminile_qualif__prob15.png]]
 
-> THE COMPLETE KITCHEN (Sandro Campigotto)
-> Pennellone: To the first person who phones with the correct answer to how many three-digit numbers there are in which the tens digit is larger than at least one of the other digits, we will give the complete kitchen!
-> A.M.: What is the correct answer?
+> THE COMPLETE KITCHEN Sandro Campigotto Pennellone To the first person who calls in with the correct answer to the question of how many three-digit numbers there are in which the tens digit is greater than at least one of the other digits, we will give away the complete kitchen! A.M. What is the correct answer?
 
-**Answer:** 0525
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q15|src_squadre_2020_femminile_qualif__Q15]]
 
 
 
@@ -666,23 +637,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0557
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*At the inn (Sandro Campigotto)*
+*At the Inn Sandro Campigotto*
 
 ![[src_squadre_2020_femminile_qualif__prob16.png]]
 
-> AT THE INN (Sandro Campigotto)
-> Renzo: What game are you playing with that well-balanced six-sided die?
-> Innkeeper: After a roll, I erase the number on the top face of the die and replace it with its double.
-> Renzo: But what is the probability that an odd number comes up on the fourth roll?
-> Innkeeper: It isn't zero. [Give as the answer the sum of the numerator and denominator of the fraction in lowest terms.]
+> AT THE INN Sandro Campigotto Renzo What game are you playing with that well-balanced six-sided die? Innkeeper After a roll, I erase the number on the top face of the die and replace it with its double. Renzo But what is the probability that an odd number comes up on the fourth roll? Innkeeper It's not zero. [Give as the answer the sum of the numerator and the denominator of the fraction reduced to lowest terms.]
 
-**Answer:** 0557
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q16|src_squadre_2020_femminile_qualif__Q16]]
 
 
 
@@ -707,22 +677,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0554
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In the library (Sandro Campigotto)*
+*IN THE LIBRARY Sandro Campigotto*
 
 ![[src_squadre_2020_femminile_qualif__prob17.png]]
 
-> IN THE LIBRARY (Sandro Campigotto)
-> Don Ferrante: Lucia, try to answer. (He starts reading) Given an equilateral triangle ABC, let P, Q and R be points inside the triangle such that PB = PC, PA = 15 cm, QB = QA, QC = PA, RA = RC and RB = QC. The ratio between the area of triangle ABC and that of triangle PQR is 16. How many millimetres long is side AB?
-> Lucia: But the problem doesn't have a unique solution!
-> Don Ferrante (recovering from his surprise and in a reproachful tone): Then tell me the sum of all the solutions.
+> IN THE LIBRARY Sandro Campigotto Don Ferrante Lucia, try to answer. (Starts reading) Given an equilateral triangle ABC, let P, Q, and R be points inside the triangle such that PB = PC, PA = 15 cm, QB = QA, QC = PA, RA = RC, and RB = QC. The ratio of the area of triangle ABC to the area of triangle PQR is 16. How many millimeters long is side AB? Lucia But the problem doesn't have a unique solution! Don Ferrante (Recovering from his surprise and in a reproachful tone) Then tell me the sum of all the solutions.
 
-**Answer:** 0554
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q17|src_squadre_2020_femminile_qualif__Q17]]
 
 
 
@@ -755,26 +725,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1472
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The bag (Anna Ulivi)*
+*The Pouch Anna Ulivi*
 
 ![[src_squadre_2020_femminile_qualif__prob18.png]]
 
-> THE BAG (Anna Ulivi)
-> Don Ferrante: Here is a bag containing balls of 3 different colours: green, red and blue.
-> Donna Prassede: How many balls are there of each colour?
-> Don Ferrante: Open the bag!
-> Donna Prassede: I don't want to open it just for such a petty curiosity.
-> Don Ferrante (with a sneer): I assure you that there are at most 13 balls in the bag; the number of green balls is greater than that of red ones, which is greater than that of blue ones. (He takes a sheet of paper, writes a number on it and shows it to Donna Prassede) This is the product of the three quantities.
-> Donna Prassede: I don't have enough data: are there at least two blue balls?
-> A.M.: But Donna Prassede knows that only one of the answers will allow her to satisfy her curiosity. In the case in which Don Ferrante's answer did not allow Donna Prassede to determine how the colours are distributed, what would the two remaining possible partitions be? [Give as the answer the sum of the two numbers 100a + 10b + c, with a the number of green balls, b the number of red balls and c the number of blue balls.]
+> THE BAG Anna Ulivi Don Ferrante Here is a bag containing balls of 3 different colors: green, red, and blue. Donna Prassede How many balls are there of each color? Don Ferrante Open the bag! Donna Prassede I don't want to open it just for such a petty bit of curiosity. Don Ferrante (With a smirk) I assure you that there are at most 13 balls in the bag; the number of green balls is greater than the number of red balls, which is greater than the number of blue balls. (He takes a sheet of paper; writes a number on it and shows it to Donna Prassede) This is the product of the three quantities. Donna Prassede I don't have enough data: are there at least two blue balls? A.M. But Donna Prassede knows that only one of the answers will allow her to satisfy her curiosity. If Don Ferrante's answer did not allow Donna Prassede to determine how the colors are distributed, what would the two remaining possible partitions be? [Give as the answer the sum of the two numbers 100a+10b+c, where a is the number of green balls, b is the number of red balls, and c is the number of blue balls.]
 
-**Answer:** 1472
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q18|src_squadre_2020_femminile_qualif__Q18]]
 
 
 
@@ -801,22 +767,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1625
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*At dinner (Silvia Sconza)*
+*The Price: Silvia Sconza*
 
 ![[src_squadre_2020_femminile_qualif__prob19.png]]
 
-> AT DINNER (Silvia Sconza)
-> Don Ferrante: A pity that the quotient of 1624 in the division by 4 is not a prime number, because it would have been an interesting sequence: 1621 is prime, 1622 is 2 · 811 and 811 is prime, 1623 is 3 · 541 and 541 is prime.
-> Lucia: Forgive me, most illustrious sir! But it would not have been possible, because there are no quadruples of numbers like the one you wished for. Instead there are many sequences of three consecutive numbers n, n + 1 and n + 2 such that n is prime, (n + 1)/2 is prime and (n + 2)/3 is prime. In Lecco people call such numbers n numbers of providence.
-> A.M.: How right she is! Already the numbers of providence below 1000 are many: what is their sum?
+> SCENE: Silvia Sconza, Don Ferrante: It's a pity that the quotient 1624 when divided by 4 isn't a prime number, because it would have been an interesting sequence: 1621 is prime, 1622 is 2 · 811 and 811 is prime, 1623 is 3 · 541 and 541 is prime. Lucia: Forgive me, Most Illustrious Sir! But it wouldn't have been possible, because there are no quadruples of numbers like the one you wanted. Instead, there are many sequences of three consecutive numbers n, n + 1, and n + 2 such that n is prime, (n + 1)/2 is prime, and (n + 2)/3 is prime. In Lecco, people call such numbers n "numbers of providence". A.M.: How right you are! Already, the numbers of providence below 1000 are numerous: what is their sum?
 
-**Answer:** 1625
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q19|src_squadre_2020_femminile_qualif__Q19]]
 
 
 
@@ -847,23 +813,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0111
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In the lazaretto (Andrea Giusto)*
+*In the Lazzaretto, Andrea Giusto*
 
 ![[src_squadre_2020_femminile_qualif__prob20.png]]
 
-> IN THE LAZARETTO (Andrea Giusto)
-> Don Rodrigo (to two other plague-stricken noblemen): We are dying by now. Why don't we amuse ourselves with a game with pistols?
-> Count Attilio: Explain.
-> Don Rodrigo: I start and I shoot at you. If you are not hit, you toss a doubloon: if it comes up heads you shoot at that door; if it comes up tails you shoot at Don Juan. If Don Juan is not hit (whether you shot at the door or at him), Don Juan shoots at me. If I am not hit, I start again and shoot at you. And so on. The game ends when one of the three players is hit.
-> A.M.: Considering that, given the condition of Don Rodrigo, Count Attilio and Don Juan, each hits the intended target with probability 1/2, what is the probability that at the end of the game Count Attilio has hit the door exactly once? [Give as the answer the sum of the numerator and denominator of the fraction in lowest terms.]
+> IN THE LAZZARETTO Andrea Giusto Don Rodrigo (To two other nobles afflicted with the plague) We are dying now. Why don't we distract ourselves with a pistol game? Count Attilio Explain. Don Rodrigo I'll start and shoot at you. If you aren't hit, you toss a doubloon: if heads comes up, you shoot at that door; if tails comes up, you shoot at Don Juan. If Don Juan isn't hit (whether you shot at the door or at him), Don Juan shoots at me. If I'm not hit, I start over and shoot at you. And so on. The game ends when one of the three players is hit. A.M. Assuming that, given the conditions of Don Rodrigo, Count Attilio, and Don Juan, each hits the designated target with probability 1/2, what is the probability that, at the end of the game, Count Attilio has hit the door exactly once? [Give as the answer the sum of the numerator and denominator of the fraction reduced to lowest terms.]
 
-**Answer:** 0111
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q20|src_squadre_2020_femminile_qualif__Q20]]
 
 
 
@@ -890,20 +855,19 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0456
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2020_17%20gennaio%20-%20Ga.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2020 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perfection (Sandro Campigotto and Giuseppe Rosolini)*
+*Perfection Sandro Campigotto and Giuseppe Rosolini*
 
 ![[src_squadre_2020_femminile_qualif__prob21.png]]
 
-> PERFECTION (Sandro Campigotto and Giuseppe Rosolini)
-> Agnese: By n¡ I denote the product of all the factorials from 1 to n, that is n¡ := 1! · 2! · 3! · ... · n!. I say that m is the perfection of n if m¡/n! is the square of an integer. Do you know which pairs of numbers (m, n) are such that m is the perfection of n?
-> Perpetua: Certainly not, but it is clear from the first pairs of perfections that, for every n, there is at most one perfection of n.
-> Agnese: You're wrong! There are already three numbers n\_1, n\_2 and n\_3 less than 10 for which there exist two different perfections m′\_i and m″\_i, i = 1, 2, 3.
-> A.M.: What are the perfections m′\_1, m″\_1, m′\_2, m″\_2, m′\_3 and m″\_3? [Give as the answer m′\_1 · m″\_1 + m′\_2 · m″\_2 + m′\_3 · m″\_3.]
+> PERFECTION Sandro Campigotto and Giuseppe Rosolini Agnese: I denote by n¡ the product of all factorials from 1 to n, that is, n¡ := 1! · 2! · 3! · ... · n!. I say that m is the perfection of n if m¡/n! is the square of an integer. Do you know what the pairs of numbers (m, n) are such that m is the perfection of n? Perpetua: No, certainly not, but from the first pairs of perfections it is clear that, for each n, there is at most one perfection of n. Agnese: You're wrong! Already three numbers n_1, n_2, and n_3 less than 10 are found for which there exist two different perfections m′_i and m″_i, i = 1, 2, 3. A.M.: What are the perfections m′_1, m″_1, m′_2, m″_2, m′_3, and m″_3? [Give as the answer m′_1 · m″_1 + m′_2 · m″_2 + m′_3 · m″_3.]
 
-**Answer:** 0456
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2020_femminile_qualif#q21|src_squadre_2020_femminile_qualif__Q21]]

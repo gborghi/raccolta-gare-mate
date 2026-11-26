@@ -32,13 +32,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi interamente tangenti; PQ=QR, raggio 9; trovare PQ*
+*Lunghezza di un segmento, date due circonferenze tangenti internamente*
 
-> Circolo $C_1$ contiene circolo $C_2$ internamente, con i due cerchi tangenti internamente. Il $O$ deve essere il centro di $C_2$. Il punto di tangenza interna di $C_1$ e $C_2$ è $A$. Il punto $P$ deve essere un punto su $C_1$. Il raggio da $O$ a $P$ incontra $C_2$ al punto $Q$ (così $Q$ si trova tra $O$ e $P$). La tangente di $C_1$ a $A$ risponde alla linea $OP$ estesa oltre $P$ al punto $R$. Dato che $PQ = QR$ e che il raggio di $C_2$ è $9$, si trova la lunghezza del segmento $PQ$. (Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.)
+> La circonferenza $C_1$ contiene internamente la circonferenza $C_2$, e le due circonferenze sono tangenti internamente. Sia $O$ il centro di $C_2$. Sia $A$ il punto di tangenza interna di $C_1$ e $C_2$. Sia $P$ un punto di $C_1$. Il raggio uscente da $O$ e passante per $P$ incontra $C_2$ nel punto $Q$ (così $Q$ sta fra $O$ e $P$). La tangente a $C_1$ in $A$ incontra la retta $OP$ prolungata oltre $P$ nel punto $R$. Sapendo che $PQ = QR$ e che il raggio di $C_2$ è $9$, trovare la lunghezza del segmento $PQ$. (Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.)
 
 ![[src_jmo24yq_yosen__q01.png]]
 
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 3
+[[Quesiti/src_jmo24yq_yosen#q01|src_jmo24yq_yosen__Q01]]
 
 
 
@@ -66,11 +70,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*vertici di ottagoni regolari etichettati 18; ordini di conteggio che evitano vicini di valore consecutivo*
+*Etichettature dei vertici di un ottagono regolare senza interi consecutivi su lati o diagonali corte*
 
-> Un ottagono regolare ha i suoi vertici $8$ ognuno etichettato con un numero intero distinto scelto da $1$ a $8$ (ogni numero intero usato esattamente una volta). Contare il numero di tali etichette che soddisfano entrambe le seguenti condizioni. (Le etichette che differiscono solo per rotazione o riflessione sono ancora contate come distinte.) \begin{itemize} \item I numeri interi scritti in due vertici adiacenti (connessi da un lato) non sono mai numeri interi consecutivi. \item I numeri interi scritti in due vertici collegati da una diagonale breve non sono mai numeri interi consecutivi. # Finire #
+> Un ottagono regolare ha i suoi $8$ vertici etichettati ciascuno con un intero distinto scelto da $1$ a $8$ (ogni intero usato esattamente una volta). Contare il numero di tali etichettature che soddisfano entrambe le condizioni seguenti. (Etichettature che differiscono solo per rotazione o riflessione si contano comunque come distinte.)
+> \begin{itemize}
+> \item Gli interi scritti in due vertici adiacenti qualunque (uniti da un lato) non sono mai interi consecutivi.
+> \item Gli interi scritti in due vertici qualunque uniti da una \emph{diagonale corta} (che salta esattamente un vertice) non sono mai interi consecutivi.
+> \end{itemize}
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
 **Risposta:** 576
+[[Quesiti/src_jmo24yq_yosen#q02|src_jmo24yq_yosen__Q02]]
 
 
 
@@ -96,11 +108,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di 1/(d+sqrt(10)) su tutti i divisori positivi d di 10*
+*Somma di un'espressione su tutti i divisori positivi*
 
-> Calcolare la somma $$\sum_{d \mid 10} \frac{1}{d + \sqrt{10}}$$ in cui la somma corre su tutti i divisori positivi $d$ di $10$.
+> Calcolare la somma
+>
+> $$\sum_{d \mid 10} \frac{1}{d + \sqrt{10}}$$
+>
+> dove la somma è estesa a tutti i divisori positivi $d$ di $10$.
 
-**Risposta:** \dfrac{3}{16\sqrt{7}}
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_telescoping|Somme telescopiche]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Risposta:** $\dfrac{3}{16\sqrt{7}}$
+[[Quesiti/src_jmo24yq_yosen#q03|src_jmo24yq_yosen__Q03]]
 
 
 
@@ -124,11 +144,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sei punti conciclici; tre accordi simultanei; trovare FA dati cinque lunghezze di corda d'arco*
+*Lunghezza di una corda, date sei corde concorrenti in un punto interno*
 
-> Sei punti $A, B, C, D, E, F$ si trovano su un cerchio in questo ordine ciclico. I diagonali $AD$, $BE$, $CF$ passano tutti attraverso un unico punto interno comune. Se si dà $AB = 1$, $BC = 2$, $CD = 3$, $DE = 4$, $EF = 5$, si trova la lunghezza $FA$. (Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.)
+> Sei punti $A, B, C, D, E, F$ stanno su una circonferenza, in quest'ordine ciclico. Le diagonali $AD$, $BE$, $CF$ passano tutte per un unico punto interno comune. Dati $AB = 1$, $BC = 2$, $CD = 3$, $DE = 4$, $EF = 5$, trovare la lunghezza $FA$. (Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.)
 
-**Risposta:** \dfrac{15}{8}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $\dfrac{15}{8}$
+[[Quesiti/src_jmo24yq_yosen#q04|src_jmo24yq_yosen__Q04]]
 
 
 
@@ -154,11 +178,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei prodotti dei coefficienti trinomiali su tripli (a,b,c) con a+b+c=5*
+*Somma di un'espressione su tutte le terne di interi non negativi che soddisfano una condizione*
 
-> Per tutti i triples $(a, b, c)$ di numeri interi non negativi che soddisfano $a + b + c = 5$, calcolare $$\sum_{\substack{a,b,c \ge 0 \\ a+b+c=5}} \binom{5}{a}\binom{5}{b}\binom{5}{c}.$$ La risposta deve essere espressa come valore numerico senza calcolatore.
+> Per tutte le terne $(a, b, c)$ di interi non negativi che soddisfano $a + b + c = 5$, calcolare
+>
+> $$\sum_{\substack{a,b,c \ge 0 \\ a+b+c=5}} \binom{5}{a}\binom{5}{b}\binom{5}{c}.$$
+>
+> La risposta va espressa come valore numerico, senza calcolatrice.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Risposta:** 2349060
+[[Quesiti/src_jmo24yq_yosen#q05|src_jmo24yq_yosen__Q05]]
 
 
 
@@ -182,11 +214,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due tavole nere con numeri interi distinti da 220; sempre abbinate all'interno di 1; massimizzazione del prodotto delle dimensioni*
+*Massimo prodotto dei numeri di interi su due lavagne, data una condizione di accoppiamento*
 
-> Il cartone $A$ e il cartone $B$ contengono ciascuno dei numeri interi distinti scelti tra $\{2, 3, \ldots, 20\}$. È dato che non importa come si tenta di abbinare ogni numero intero a bordo $A$ con un numero intero distinto a bordo $B$ in modo tale che i due numeri interi abbinati differiscano di almeno $1$, questa abbinamento è sempre possibile (cioè\ un abbinamento perfetto esiste sempre sotto la restrizione di differenza-al-massimo-$1$). In questa condizione, trovare il valore massimo possibile del prodotto $|A| \times |B|$, dove $|A|$ e $|B|$ indicano rispettivamente il numero di integri sulle tavole $A$ e $B$.
+> La lavagna $A$ e la lavagna $B$ contengono ciascuna alcuni interi distinti scelti da $\{2, 3, \ldots, 20\}$. È dato che, comunque si tenti di accoppiare ogni intero della lavagna $A$ con un intero distinto della lavagna $B$ in modo che i due interi accoppiati differiscano al più di $1$, questo accoppiamento è sempre possibile (cioè esiste sempre un accoppiamento perfetto sotto il vincolo di differenza al più $1$). Sotto questa condizione, trovare il massimo valore possibile del prodotto $|A| \times |B|$, dove $|A|$ e $|B|$ indicano il numero di interi sulle lavagne $A$ e $B$ rispettivamente.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Risposta:** 65
+[[Quesiti/src_jmo24yq_yosen#q06|src_jmo24yq_yosen__Q06]]
 
 
 
@@ -210,11 +246,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Comitato di 4 persone con 4 posizioni; a ciascun membro sono assegnate 2 posizioni distinte; incarichi di conteggio*
+*Modi di assegnare coppie di incarichi ai membri di un comitato*
 
-> Un comitato studentesco ha membri $4$ e posizioni (rolle) $4$. Ogni membro del comitato è assegnato esattamente $2$ delle posizioni $4$. A diversi membri devono essere assegnate diverse coppie di posizioni (nessun membro detiene la stessa serie di due posizioni). Ogni membro è felice di ricevere una coppia di posizioni. In quanti modi tutte le posizioni $4$ possono essere distribuite tra i membri $4$ in modo tale che ogni membro riceva esattamente le posizioni $2$ e nessun membro riceva la stessa coppia?
+> Un comitato studentesco ha $4$ membri e $4$ incarichi (ruoli). A ogni membro si assegnano esattamente $2$ degli $4$ incarichi. Membri diversi devono ricevere coppie diverse di incarichi (non ci sono due membri con lo stesso insieme di due incarichi). Ogni membro è contento di qualunque coppia di incarichi. In quanti modi si possono distribuire tutti gli $4$ incarichi fra i $4$ membri in modo che ogni membro ne riceva esattamente $2$ e non ci siano due membri con la stessa coppia?
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
 **Risposta:** 936
+[[Quesiti/src_jmo24yq_yosen#q07|src_jmo24yq_yosen__Q07]]
 
 
 
@@ -238,11 +278,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per ogni n≤1000, contare m≤1000 con pavimento(m/n) odd; trovare il conteggio massimo su tutte le n*
+*Massimo numero di interi positivi per cui una parte intera è dispari*
 
-> Per gli integri positivi $m$ e $n$, $\left\lfloor \dfrac{m}{n} \right\rfloor$ indica il piano di $\dfrac{m}{n}$. Per un intero positivo fisso $n \le 1000$, $f(n)$ è il numero di interi positivi $m \le 1000$ per i quali $\left\lfloor \dfrac{m}{n} \right\rfloor$ è pari. Trova il valore massimo di $f(n)$ su tutti gli integri positivi $n \le 1000$.
+> Per interi positivi $m$ e $n$, sia $\left\lfloor \dfrac{m}{n} \right\rfloor$ la parte intera di $\dfrac{m}{n}$. Per un intero positivo fissato $n \le 1000$, sia $f(n)$ il numero di interi positivi $m \le 1000$ per i quali $\left\lfloor \dfrac{m}{n} \right\rfloor$ è dispari. Trovare il massimo valore di $f(n)$ su tutti gli interi positivi $n \le 1000$.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 939
+[[Quesiti/src_jmo24yq_yosen#q08|src_jmo24yq_yosen__Q08]]
 
 
 
@@ -266,11 +310,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto medio diagonale ABCD quadrato O; punti P,Q,R,S sui lati; OP=3, OQ=OR=4; trovare XY*
+*Lunghezza di un segmento in un quadrato, date due intersezioni*
 
-> Il quadrato $ABCD$ ha diagonali che si incontrano a $O$. I punti $P, Q, R, S$ si trovano rispettivamente sui lati $AB$, $BC$, $CD$ e $DA$. È dato che $OP = 3$ e $OQ = OR = 4$. La linea attraverso $C$ e $D$ incontra la linea attraverso $Q$ e $R$ in un punto; la linea attraverso $B$ e $C$ incontra la linea attraverso $R$ e $S$ in un altro punto; questi due punti di intersezione sono rispettivamente $X$ e $Y$. Trova la lunghezza del segmento $XY$. (Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.)
+> Il quadrato $ABCD$ ha le diagonali che si incontrano in $O$. I punti $P, Q, R, S$ stanno rispettivamente sui lati $AB$, $BC$, $CD$, $DA$. È dato che $OP = 3$ e $OQ = OR = 4$. La retta per $C$ e $D$ incontra la retta per $Q$ e $R$ in un punto; la retta per $B$ e $C$ incontra la retta per $R$ e $S$ in un altro punto; questi due punti di intersezione sono rispettivamente $X$ e $Y$. Trovare la lunghezza del segmento $XY$. (Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.)
 
-**Risposta:** \dfrac{60}{23}
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $\dfrac{60}{23}$
+[[Quesiti/src_jmo24yq_yosen#q09|src_jmo24yq_yosen__Q09]]
 
 
 
@@ -299,11 +347,20 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*55×55 griglia, operazioni a colori; operazioni minime per ottenere il modello nero/bianco prescritto*
+*Minimo numero di operazioni per ottenere una configurazione bianca e nera*
 
-> Considera una griglia di celle $55 \times 55$. L'operazione \emph{} consiste nel: scegliere una sottogriglia rettangolare (una o più righe e colonne complete), poi dipingere ogni cella in quel rettangolo in un unico colore (intero nero o tutto bianco). Partendo dallo stato in cui tutte le celle sono bianche, trovare il numero minimo di operazioni necessarie per raggiungere una configurazione in cui tutte le seguenti tre condizioni sono valide: \begin{itemize} \item Tutte le celle nella colonna più sinistra sono nere. \item Ogni riga che contiene almeno una cellula bianca contiene anche una cellula nera adiacente (con un lato condiviso) a qualche cellula bianca. Ogni cellula bianca è adiacente ad almeno una cellula nera. # Finire #
+> Si consideri una griglia $55 \times 55$ di caselle. Un'\emph{operazione} consiste nello scegliere una sottogriglia rettangolare (una o più righe complete e colonne), e poi dipingere ogni casella di quel rettangolo di un solo colore (tutto nero o tutto bianco). Partendo dallo stato in cui tutte le caselle sono bianche, trovare il minimo numero di operazioni necessario per raggiungere una configurazione in cui valgono tutte e tre le condizioni seguenti:
+> \begin{itemize}
+> \item tutte le caselle della colonna più a sinistra sono nere;
+> \item ogni riga che contiene almeno una casella bianca contiene anche una casella nera adiacente (che condivide un lato) a qualche casella bianca;
+> \item ogni casella bianca è adiacente ad almeno una casella nera.
+> \end{itemize}
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Risposta:** 784
+[[Quesiti/src_jmo24yq_yosen#q10|src_jmo24yq_yosen__Q10]]
 
 
 
@@ -331,11 +388,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fill 6×6 array con numeri interi 16; due condizioni di composizione; contare array validi*
+*Modi di riempire una tabella con interi in un intervallo, con due condizioni sulle righe*
 
-> Scrivere un numero intero da $1$ a $6$ in ogni cella di un array $6 \times 6$ $(a_{i,j})$ (dove $1 \le i, j \le 6$), con la ripetizione consentita. Per ogni riga $i$, definire la funzione $f_i : \{1,\ldots,6\} \to \{1,\ldots,6\}$ con $f_i(j) = a_{i,j}$. Conteggi il numero di modi per riempire la matrice in modo che entrambe le seguenti condizioni si applichino a tutti gli indici validi: \begin{itemize} \item Per ogni $i$ con $1 \le i \le 6$: $f_i(f_i(j)) = i$ per tutti $j$ con $1 \le j \le 6$. \item Per ogni $i, k$ con $1 \le i, k \le 6$: $f_{f_i(k)}(j) = f_i(f_k(j))$ per tutti $j$ con $1 \le j \le 6$. # Finire #
+> Si scriva un intero da $1$ a $6$ in ogni casella di una tabella $6 \times 6$ $(a_{i,j})$ (dove $1 \le i, j \le 6$), con ripetizioni ammesse. Per ogni riga $i$, si definisca la funzione $f_i : \{1,\ldots,6\} \to \{1,\ldots,6\}$ mediante $f_i(j) = a_{i,j}$. Contare il numero di modi di riempire la tabella in modo che valgano entrambe le condizioni seguenti per tutti gli indici ammessi:
+> \begin{itemize}
+> \item per ogni $i$ con $1 \le i \le 6$: $f_i(f_i(j)) = i$ per tutti gli $j$ con $1 \le j \le 6$;
+> \item per ogni $i, k$ con $1 \le i, k \le 6$: $f_{f_i(k)}(j) = f_i(f_k(j))$ per tutti gli $j$ con $1 \le j \le 6$.
+> \end{itemize}
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 122
+[[Quesiti/src_jmo24yq_yosen#q11|src_jmo24yq_yosen__Q11]]
 
 
 
@@ -360,8 +425,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il più grande m in modo che gli indici 2m garantiscano un limite di somma del prodotto 1/2.014*
+*Massimo intero positivo per cui esiste una scelta di interi che maggiora ogni successione*
 
-> Trova il più grande intero positivo $m$ che soddisfi la seguente condizione: esistono $2m$ enti $i_1, \ldots, i_m$ e $j_1, \ldots, j_m$ (non necessariamente distinti), ciascuno tra $1$ e $1000$ inclusi, in modo che per ogni sequenza di numeri reali non negativi $a_1, \ldots, a_{1000}$ con $a_1 + a_2 + \cdots + a_{1000} = 1$, $$a_{i_1}a_{j_1} + a_{i_2}a_{j_2} + \cdots + a_{i_m}a_{j_m} \le \frac{1}{2.014}.$$
+> Trovare il massimo intero positivo $m$ che soddisfa la condizione seguente: esistono $2m$ interi $i_1, \ldots, i_m$ e $j_1, \ldots, j_m$ (non necessariamente distinti), ciascuno compreso tra $1$ e $1000$ inclusi, tali che per ogni successione di numeri reali non negativi $a_1, \ldots, a_{1000}$ con $a_1 + a_2 + \cdots + a_{1000} = 1$,
+>
+> $$a_{i_1}a_{j_1} + a_{i_2}a_{j_2} + \cdots + a_{i_m}a_{j_m} \le \frac{1}{2.014}.$$
 
+**Argomento:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_stima|Stima e approssimazione]]
 **Risposta:** 496503
+[[Quesiti/src_jmo24yq_yosen#q12|src_jmo24yq_yosen__Q12]]

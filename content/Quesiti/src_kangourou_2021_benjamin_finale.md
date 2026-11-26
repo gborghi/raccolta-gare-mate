@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes to fill the first container of amoeba*
+*How many minutes does the first jar take to fill?*
 
-> Amoebas are protozoa that reproduce in three minutes, that is, every three minutes each amoeba generates another identical amoeba. No amoeba dies as long as it has room to reproduce. Two vessels of equal capacity initially contain one amoeba, the second eight amoebas. The second container is filled with amoebas after exactly three hours. How many minutes does it take to fill the first container?
+> Amoebae are protozoa that reproduce in three minutes: every 3 minutes each amoeba produces another identical one. No amoeba dies as long as it has room to reproduce. Two jars of equal capacity contain at the start one amoeba in the first and 8 amoebae in the second. The second jar is full of amoebae after exactly 3 hours. How many minutes does the first jar take to fill?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 189
+[[Quesiti/src_kangourou_2021_benjamin_finale#q01|src_kangourou_2021_benjamin_finale__Q01]]
 
 
 
@@ -58,11 +63,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Correct 25x2=211 with +1/-1 on the digits*
+*Write the new correct equality, and explain.*
 
-> The $25 \times 2 = 211$ equation is false, but you can turn it into a correct equation by adding 1 to some of its digits and subtracting 1 from the others. Write this new correct equation, motivating.
+> The equality $25 \times 2 = 211$ is false, but you can turn it into a correct equality by adding 1 to some of its digits and subtracting 1 from the others. Write this new correct equality, and explain.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 34x3=102
+[[Quesiti/src_kangourou_2021_benjamin_finale#q02|src_kangourou_2021_benjamin_finale__Q02]]
 
 
 
@@ -98,24 +108,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the square large given the small area 18*
+*What is the area of the large square?*
 
 ![[src_kangourou_2021_benjamin_finale__prob3.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw (0,0) rectangle (3,3);
-  \draw (0,3) -- (3,0);
-  \fill[gray!30] (2,3) -- (3,2) -- (2,1) -- (1,2) -- cycle;
-  \draw (2,3) -- (3,2) -- (2,1) -- (1,2) -- cycle;
-\end{tikzpicture}
-\end{document}
-```
+> The small square in the picture has two consecutive vertices on two consecutive sides of the large square, and the opposite side on its diagonal. If the area of the small square is 18, what is the area of the large square? (see the picture)
 
-> The small square in the figure has two consecutive vertices on two consecutive sides of the large square and the opposite side on its diagonal. If the area of the small square is 18, what is the area of the large square? (see figure)
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 81
+[[Quesiti/src_kangourou_2021_benjamin_finale#q03|src_kangourou_2021_benjamin_finale__Q03]]
 
 
 
@@ -142,15 +145,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Estimating the number of confetti with the capture-recapture method*
+*What is a plausible number of confetti in the bag?*
 
-> You have a bag of confetti and would like to know how many there are, at least approximately. You plan to use the following strategy:
-> - you take out 50 and mark them with a sign, then put them back in the bag and mix all the confetti so that the ones you marked can distribute themselves uniformly inside the bag;
-> - you then take out 70 at random and find that, among these 70, only two have been marked by you.
-> 
-> Based on this experiment, what is a reliable number for the confetti contained in the bag?
+> You have a bag of confetti and you would like to know how many there are, at least approximately. You plan to use the following strategy:
+>
+> - you take out 50 and mark them, then you put them back in the bag and mix all the confetti so that the ones you marked can spread evenly through the bag;
+> - you then take out 70 at random and find that, of these 70, only two were marked by you.
+>
+> On the basis of this experiment, what is a plausible number for the confetti in the bag?
 
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_stima|Estimation and approximation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 1750
+[[Quesiti/src_kangourou_2021_benjamin_finale#q04|src_kangourou_2021_benjamin_finale__Q04]]
 
 
 
@@ -173,9 +181,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To make 7 numbers equal by adding 1 to adjacent pairs*
+*Explain how the seven numbers can all be made equal.*
 
-> The numbers 1 to 7 are arranged in a clockwise direction on a circumference. You can change them as many times as you want, but each time just by adding 1 to two numbers that are in adjacent positions. Explain how it is possible, by following this rule, to get seven numbers that are all the same.
+> The numbers from 1 to 7 are arranged clockwise on a circle. You may change them as many times as you like, but each time only by adding 1 to two numbers that stand in adjacent positions. Explain how it is possible, keeping to this rule, to arrive at seven numbers that are all equal.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+[[Quesiti/src_kangourou_2021_benjamin_finale#q05|src_kangourou_2021_benjamin_finale__Q05]]
 
 
 
@@ -199,8 +213,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum to be removed from 2..2021 without residual products*
+*How few do you need to remove, at least?*
 
-> Consider the set of integers from 2 to 2021 inclusive. You want to take some of them away so none of the remaining ones can be expressed as a product of two of the remaining ones. How many do you need to take away, at minimum?
+> Consider the set of integers from 2 to 2021 inclusive. You want to remove some of them so that none of those that remain can be written as a product of two of those that remain. How few do you need to remove, at least?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 43
+[[Quesiti/src_kangourou_2021_benjamin_finale#q06|src_kangourou_2021_benjamin_finale__Q06]]

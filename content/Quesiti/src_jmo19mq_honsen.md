@@ -29,9 +29,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi n con 2^n+n dividendo 8^n+n^n*
+*Interi positivi per cui un intero ne divide un altro*
 
-> Trova tutti gli integri positivi $n$ in modo tale che $2^n + n$ divida $8^n + n^n$.
+> Determinare tutti gli interi positivi $n$ tali che $2^n + n$ divide $8^n + n^n$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo19mq_honsen#q01|src_jmo19mq_honsen__Q01]]
 
 
 
@@ -60,9 +65,20 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tanti interi della lavagna con somma pari: dimostra che l'etichettatura a croce circolare equivale a somme parziali*
+*Si possono etichettare gli interi scritti alla lavagna in due gruppi di somma uguale*
 
-> $N$ sia un numero intero positivo. Su una lavagna, finitamente molti numeri interi sono scritti soddisfacendo le seguenti tre condizioni: \begin{itemize} \item Ogni numero scritto è almeno $1$ e al massimo $N$. \item Per ogni numero intero $m$ con $1 \le m \le N$, è scritta almeno una copia di $m$. \item La somma di tutti i numeri scritti è pari. \end{itemize} Prova che si può etichettare ogni numero scritto con $\bigcirc$ o $\times$ in modo che la somma dei numeri etichettati $\bigcirc$ sia uguale alla somma dei numeri etichettati $\times$.
+> Sia $N$ un intero positivo. Su una lavagna sono scritti finitamente molti interi che soddisfano le tre condizioni seguenti:
+> \begin{itemize}
+> \item ogni numero scritto è almeno $1$ e al più $N$;
+> \item per ogni intero $m$ con $1 \le m \le N$, è scritta almeno una copia di $m$;
+> \item la somma di tutti i numeri scritti è pari.
+> \end{itemize}
+> Dimostrare che si può etichettare ogni numero scritto con $\bigcirc$ oppure con $\times$ in modo che la somma dei numeri etichettati $\bigcirc$ sia uguale alla somma dei numeri etichettati $\times$.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_jmo19mq_honsen#q02|src_jmo19mq_honsen__Q02]]
 
 
 
@@ -87,9 +103,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i triples (n1,n2,n3) di numeri interi positivi con b1×b2=b3*
+*Terne per cui un'espressione definita assume un valore dato*
 
-> Che $k \ge 2$ sia un intero, che $n_1, n_2, n_3$ sia un intero positivo e che $a_1, a_2, a_3$ sia un intero che soddisfa $1 \le a_i \le k-1$. Definire $$b_i = a_i \sum_{j=0}^{n_i} k^j \quad (i = 1, 2, 3).$$ Trovare tutti i triples $(n_1, n_2, n_3)$ in modo tale che $b_1 b_2 = b_3$.
+> Sia $k \ge 2$ un intero, siano $n_1, n_2, n_3$ interi positivi, e siano $a_1, a_2, a_3$ interi ciascuno dei quali soddisfa $1 \le a_i \le k-1$. Si definisca
+>
+> $$b_i = a_i \sum_{j=0}^{n_i} k^j \quad (i = 1, 2, 3).$$
+>
+> Determinare tutte le terne $(n_1, n_2, n_3)$ tali che $b_1 b_2 = b_3$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo19mq_honsen#q03|src_jmo19mq_honsen__Q03]]
 
 
 
@@ -112,9 +137,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo tangente a BC e circoncircolo: prova la proprietà del bisettore angolare a A*
+*Una corda biseca un angolo: dimostrare una relazione di tangenza*
 
-> $\Gamma$ sia il circoncircolo del triangolo $ABC$. Il $\omega$ deve essere un cerchio centrato a $O$ che sia tangente internamente a $\Gamma$ e tangente lateralmente a $BC$ al punto $P$. Il $Q$ deve essere il punto sull'arco $BC$ di $\Gamma$ non contenente $A$. Dato che $\angle BAO = \angle CAO$ (cioè $AO$ bisecta $\angle BAC$), dimostrare che $\angle PAO = \angle QAO$.
+> Sia $\Gamma$ la circonferenza circoscritta al triangolo $ABC$. Sia $\omega$ una circonferenza di centro $O$, tangente internamente a $\Gamma$ e tangente al lato $BC$ nel punto $P$. Sia $Q$ il punto sull'arco $BC$ di $\Gamma$ che non contiene $A$. Sapendo che $\angle BAO = \angle CAO$ (cioè $AO$ biseca $\angle BAC$), dimostrare che $\angle PAO = \angle QAO$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_jmo19mq_honsen#q04|src_jmo19mq_honsen__Q04]]
 
 
 
@@ -139,6 +169,13 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni a valore reale non negativo che soddisfano un'equazione funzionale*
+*Funzioni sui reali non negativi che soddisfano un'equazione funzionale*
 
-> Trovare tutte le funzioni $f$ definite sui numeri reali non negativi che assumono valori reali non negativi in modo tale che per tutti i numeri reali non negativi $x$ e $y$, $$f(x^2) + f(y) = f\!\left(x^2 + y + x f(4y)\right)$$ sia valido.
+> Determinare tutte le funzioni $f$ definite sui numeri reali non negativi, a valori reali non negativi, tali che per qualunque numeri reali non negativi $x$ e $y$ valga
+>
+> $$f(x^2) + f(y) = f\!\left(x^2 + y + x f(4y)\right)$$
+
+**Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_backward|Ragionamento all'indietro]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo19mq_honsen#q05|src_jmo19mq_honsen__Q05]]

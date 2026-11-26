@@ -34,9 +34,25 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati a somme di due cubi.
+*Sistema ciclico di cinque equazioni che legano un quadrato alla somma di due cubi*
 
-> Risolvere in numeri reali $a, b, c, d, e$ il sistema di equazioni: $$a^2 = b^3 + c^3,$$ $$b^2 = c^3 + d^3,$$ $$c^2 = d^3 + e^3,$$ $$d^2 = e^3 + a^3,$$ $$e^2 = a^3 + b^3.$$
+> Risolvere nei numeri reali $a, b, c, d, e$ il sistema di equazioni:
+>
+> $$a^2 = b^3 + c^3,$$
+>
+> $$b^2 = c^3 + d^3,$$
+>
+> $$c^2 = d^3 + e^3,$$
+>
+> $$d^2 = e^3 + a^3,$$
+>
+> $$e^2 = a^3 + b^3.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2006_r3#q01|src_pol_2006_r3__Q01]]
 
 
 
@@ -59,9 +75,15 @@ Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi k per i quali 3^k + 5^k è una potenza perfetta con esponente superiore a 1.*
+*Interi positivi k per cui 3^k + 5^k è una potenza con esponente maggiore di 1*
 
-> Trova tutti gli integri positivi $k$ per i quali il numero $3^k + 5^k$ è una potenza di un intero con l'esponente maggiore di 1.
+> Trovare tutti gli interi positivi $k$ per cui il numero $3^k + 5^k$ è una potenza di un intero con esponente maggiore di 1.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2006_r3#q02|src_pol_2006_r3__Q02]]
 
 
 
@@ -84,9 +106,15 @@ Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un esagono converso con tre coppie di diagonali uguali, dimostrare che le linee che uniscono i punti di mezzo di lati opposti sono in concorenza.*
+*Esagono convesso con tre coppie di diagonali corte uguali: le rette dei punti medi dei lati opposti concorrono*
 
-> Si dà un esagono convexo $ABCDEF$ con $AC = DF$, $CE = FB$ e $EA = BD$. Prove che le linee che uniscono i punti medi dei lati opposti di questo esagono si incontrano in un punto.
+> È dato un esagono convesso $ABCDEF$ con $AC = DF$, $CE = FB$ e $EA = BD$. Dimostrare che le rette che congiungono i punti medi dei lati opposti di questo esagono si incontrano in un punto.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2006_r3#q03|src_pol_2006_r3__Q03]]
 
 
 
@@ -109,9 +137,15 @@ Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato un'operazione che sostituisce due numeri con la loro somma e il loro prodotto, decidere se da (3,4,5) si può raggiungere i lati di un triangolo rettangolo.*
+*Partendo da (3, 4, 5) e sostituendo due numeri con la somma e il prodotto, si ottengono i lati di un triangolo rettangolo?*
 
-> La seguente operazione viene eseguita su un triplo di numeri. Due dei numeri vengono scelti e sostituiti dalla loro somma e dal loro prodotto, mentre il terzo numero resta invariato. Decidi se, partendo dal triplo $(3, 4, 5)$ e eseguendo finitamente molte di queste operazioni, possiamo ottenere un altro triplo di numeri che sono le lunghezze laterali di un triangolo rettangolo.
+> Su una terna di numeri si esegue l'operazione seguente: se ne scelgono due e li si sostituisce con la loro somma e il loro prodotto, mentre il terzo resta invariato. Stabilire se, partendo dalla terna $(3, 4, 5)$ ed eseguendo un numero finito di tali operazioni, si può ottenere un'altra terna di numeri che siano le lunghezze dei lati di un triangolo rettangolo.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2006_r3#q04|src_pol_2006_r3__Q04]]
 
 
 
@@ -134,9 +168,15 @@ Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La sfera incentrata di un tetraedro tocca due facce nei loro centriodi; dimostra che il tetraedro è regolare.*
+*Tetraedro con AB = CD, sfera inscritta che tocca due facce nei baricentri: il tetraedro è regolare*
 
-> La sfera incentrata di un tetraedro $ABCD$ con $AB = CD$ tocca rispettivamente le facce $ABC$ e $ABD$ a $K$ e $L$. Prova che se $K$ e $L$ sono i centroidi delle facce corrispondenti, allora $ABCD$ è un tetraedro regolare.
+> La sfera inscritta di un tetraedro $ABCD$ con $AB = CD$ tocca le facce $ABC$ e $ABD$ in $K$ e $L$ rispettivamente. Dimostrare che, se $K$ e $L$ sono i baricentri delle facce corrispondenti, allora $ABCD$ è un tetraedro regolare.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2006_r3#q05|src_pol_2006_r3__Q05]]
 
 
 
@@ -161,6 +201,16 @@ Risolvere un sistema ciclico di cinque equazioni reali che collegano i quadrati 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le coppie di numeri interi (a,b) per le quali (x^2+ax+b) P(x) può essere un polinomio monico i cui altri coefficienti sono tutti 1 o -1.*
+*Coppie di interi (a, b) per cui x^2+ax+b moltiplica un polinomio a coefficienti interi e dà un polinomio con coefficienti ±1, salvo il termine di grado massimo*
 
-> Trovare tutte le coppie di integri $(a, b)$ per le quali esiste un polinomio $P(x)$ con coefficienti interi in modo tale che il prodotto $(x^2 + ax + b)P(x)$ sia un polinomio della forma $$x^n + c_{n-1}x^{n-1} + \cdots + c_1 x + c_0,$$ dove ognuno di $c_0, \ldots, c_{n-1}$ è uguale a $1$ o $-1$.
+> Trovare tutte le coppie di interi $(a, b)$ per cui esiste un polinomio $P(x)$ a coefficienti interi tale che il prodotto $(x^2 + ax + b)P(x)$ sia un polinomio della forma
+>
+> $$x^n + c_{n-1}x^{n-1} + \cdots + c_1 x + c_0,$$
+>
+> dove ciascuno di $c_0, \ldots, c_{n-1}$ è uguale a $1$ o a $-1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2006_r3#q06|src_pol_2006_r3__Q06]]

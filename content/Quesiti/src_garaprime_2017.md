@@ -37,11 +37,16 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure 1 in the binary representation of 255·257*
+*The digit 1 in the binary representation of 255*257*
 
-> Whether n = 255 · 257. In the binary representation of n, how many digits are equal to 1? A 16 B 1 C 2 D 4 E 8 F 7
+> Let n = 255 · 257. In the binary representation of n, how many digits are equal to 1? A 16 B 1 C 2 D 4 E 8 F 7
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2017#q01|src_garaprime_2017__Q01]]
 
 
 
@@ -71,11 +76,15 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remains of a 2017 binary repunit divided by 16 digits*
+*Remainder of a repunit binary number from 2017, digits divided by 16*
 
-> Both n and the number whose binary representation is 2017 are all digits equal to 1. What is (based on 10) the remainder you get by dividing n by 16? A 15 B 1 C 3 D 7 E 12 F 0
+> Let n be the number whose binary representation has 2017 digits, all of which are 1. What is (in base 10) the remainder when n is divided by 16? A 15 B 1 C 3 D 7 E 12 F 0
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2017#q02|src_garaprime_2017__Q02]]
 
 
 
@@ -122,13 +131,17 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equilateral triangle area with four inner triangles*
+*Area of an equilateral triangle from four small internal triangles*
 
 ![[src_garaprime_2017__prob3.png]]
 
-> The ABC triangle is equilateral. The four grey triangles in the figure are also equilateral and their areas are 1, 4, 9 and 16. What's the area of ABC? A B C 1 16 4 9 H K P Q R S Figure 1 A 121 B 100 C 101 D 144 E 120 F cannot be determined by the data provided alone
+> Triangle ABC is equilateral. The four triangles shaded gray in the figure are also equilateral, and their areas are 1, 4, 9, and 16. What is the area of ABC? A B C 1 16 4 9 H K P Q R S Figure 1 A 121 B 100 C 101 D 144 E 120 F cannot be determined from the data given alone
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2017#q03|src_garaprime_2017__Q03]]
 
 
 
@@ -167,13 +180,17 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grey area with arcs in a rectangle of area 1000*
+*Gray area with arcs within a rectangle of area 1000*
 
 ![[src_garaprime_2017__prob4.png]]
 
-> The ABCD rectangle has an area of 1000. In addition, the MD arc is centered in A, the MC arc is centered in B and the CD arc is centered in M. How much is the grey area in the figure? A B C D M is shown 2 A 500 B 150π C 125 + 125π D 900 −125π E 450 F 625
+> Rectangle ABCD has an area of 1000. Furthermore, arc MD has its center at A, arc MC has its center at B, and arc CD has its center at M. What is the area of the shaded region in the figure? A B C D M Figure 2 A 500 B 150π C 125 + 125π D 900 −125π E 450 F 625
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2017#q04|src_garaprime_2017__Q04]]
 
 
 
@@ -206,11 +223,15 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Orders for arrival of three cars with average speed*
+*Arrival order of three cars with average speeds*
 
-> Three cars, one white, one black and one red, take the same route, starting together. The white car travels at 60 km/h for the first half of the time, then travels at 120 km/h. The black car travels 60 km/h for the first half of its journey, then travels at 120 km/h. The red car, on the other hand, travels 80 km/h for the first half of the journey, then travels at 100 km/h. In what order do they reach the goal? In white, red, black. B's white, black, red. Black, white, red. All of them together. It's red, black, white. Red, white, black.
+> Three cars—one white, one black, and one red—travel the same route, starting together. The white car travels at 60 km/h for the first half of the time taken, then travels at 120 km/h. The black car travels at 60 km/h for the first half of the distance covered, then travels at 120 km/h. The red car, however, travels at 80 km/h for the first half of the distance covered, then travels at 100 km/h. In what order do they reach the destination? A: white, red, black. B: white, black, red. C: black, white, red. D: all together. E: red, black, white. F: red, white, black.
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2017#q05|src_garaprime_2017__Q05]]
 
 
 
@@ -242,11 +263,16 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum perimeter of full rectangle with area 12120*
+*Minimum perimeter of an integer rectangle with area 12120*
 
-> A rectangle has an area of 12120 and sides of full size. What's the minimum value of its perimeter? A 442 B 440 C 444 D 446 E 448 F None of the other answers are correct
+> A rectangle has an area of 12120 and integer side lengths. What is the minimum value of its perimeter? A 442 B 440 C 444 D 446 E 448 F none of the other answers is correct
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2017#q06|src_garaprime_2017__Q06]]
 
 
 
@@ -277,11 +303,16 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Count of k with unchanged MCD and mcm*
+*Count of k with GCD and LCM unchanged*
 
-> That's n = 7575 and m = 7755. How many ways can I choose the positive integer k so that MCD(m, n) = MCD(m, n, k) and mcm(m, n) = mcm(m, n, k)? A 16 B 12 C 2 D 181 E 163 F 36
+> We are given n = 7575 and m = 7755. In how many ways can I choose the positive integer k such that GCD(m, n) = GCD(m, n, k) and LCM(m, n) = LCM(m, n, k)? A 16 B 12 C 2 D 181 E 163 F 36
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2017#q07|src_garaprime_2017__Q07]]
 
 
 
@@ -320,11 +351,16 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum reflected path to the seashore*
+*Reflex minimum path toward the seashore*
 
-> On the island of Kenoncè, RivaDritta's beach is famous because the line separating the land from the sea remains perfectly straight for many kilometres. Luca lit a fire on the beach just six feet from the shore and then fell asleep while Claudia went to look for more wood. At some point, while exactly 39 meters in the airline from the fire and 21 meters from the shore, Claudia sees that the fire could burn Luke and then decides to run to a C point on the shore, get some water and run to put out the fire. What is the length of the route Claudia runs, if she chooses C so that it is minimal? A 45 m B 48 m C 42 m D 44 m E 50 m F 49 m
+> On Kenoncè Island, RivaDritta Beach is famous because the line separating land from sea remains perfectly straight for many kilometers. Luca lit a fire on the beach exactly 6 meters from the shore and then fell asleep while Claudia went to look for more firewood. At some point, while she is exactly 39 meters in a straight line from the fire and 21 meters from the shore, Claudia sees that the fire could burn Luca, so she decides to run to a point C on the shore, get some water, and run to put out the fire. What is the length of the path Claudia runs, if she chooses C so that the length is minimal? A 45 m B 48 m C 42 m D 44 m E 50 m F 49 m
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2017#q08|src_garaprime_2017__Q08]]
 
 
 
@@ -358,11 +394,16 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of areas matching ten segments*
+*Minimum sum of the areas by pairing ten segments*
 
-> I have ten segments of lengths, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 respectively, and I want to build five rectangles, each having one of those segments for base and height. If, in the end, I have to have used all ten segments, what is the minimum value I can get for the sum of the areas of the five rectangles? A 110 B 96 C 120 D 119 E 90 F None of the other answers are correct
+> I have ten line segments with lengths 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10 respectively, and I want to construct 5 rectangles, each having one of these segments as its base and one as its height. If, in the end, I must have used all ten segments, what is the minimum value I can obtain for the sum of the areas of the five rectangles? A 110 B 96 C 120 D 119 E 90 F none of the other answers is correct
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2017#q09|src_garaprime_2017__Q09]]
 
 
 
@@ -395,11 +436,16 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PIN 41a9b divided by 312, produced a·b*
+*PIN 41a9b divisible by 312, product a*b*
 
-> We know that Claudia's ATM PIN is a 5-digit number of the form n = 41a9b, where a and b indicate the numbers we don't know. But we know that n is divisible by 312. How much is the product a · b? A 24 B 36 C 12 D 10 E 64 F not determined by the data provided alone
+> We know that Claudia's ATM PIN is a 5-digit number of the form n = 41a9b, where a and b represent the digits we do not know. However, we know that n is divisible by 312. What is the value of a · b? A 24 B 36 C 12 D 10 E 64 F cannot be determined from the data provided alone
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2017#q10|src_garaprime_2017__Q10]]
 
 
 
@@ -433,11 +479,15 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who has sufficient data to determine the acutangol triangle*
+*Who has enough data to determine the acute-angled triangle?*
 
-> The height measurements hA and hB, carried out by vertices A and B respectively, are known from an acute triangle ABC. Furthermore, Claudia knows the measure of the AC side, Luke the measure of the AB side and Raffaella the measure of the internal angle bA, but none of the three communicates the information in his possession to the other two. Which of the three has enough data to uniquely determine the triangle? To all B only Luca and Claudia C only Raffaella and Claudia D only Luca and Raffaella E only Claudia F only Luca
+> In an acute-angled triangle ABC, the lengths of the altitudes hA and hB, drawn from vertices A and B respectively, are known. Furthermore, Claudia knows the length of side AC, Luca knows the length of side AB, and Raffaella knows the measure of the interior angle bA, but none of the three communicates the information they possess to the other two. Which of the three has enough data to determine the triangle uniquely? A All of them B Only Luca and Claudia C Only Raffaella and Claudia D Only Luca and Raffaella E Only Claudia F Only Luca
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2017#q11|src_garaprime_2017__Q11]]
 
 
 
@@ -466,11 +516,15 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of the MCD figures ((4344,4368)*
+*Sum of the digits of MCD(4344,4368)*
 
-> It is either M = MCD ((4344, 4368). How much is the sum of the digits of M? A 6 B 8 C 9 D 15 E 3 F 7
+> Let M = GCD(4344, 4368). What is the sum of the digits of M? A 6 B 8 C 9 D 15 E 3 F 7
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2017#q12|src_garaprime_2017__Q12]]
 
 
 
@@ -501,11 +555,16 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grade of the polynomial by degree equality*
+*Degree of the polynomial from equality of degrees*
 
-> From the non-identically zero polynomial p(x) we only know that by developing (p(x))3 and (x8 −x3) · p(x) we get two polynomials of the same degree. What's this grade? A 12 B 36 C 10 D 9 E 24 F not determined by the data provided alone
+> Of the non-identically-zero polynomial p(x), we know only that when (p(x))³ and (x⁸ − x³) · p(x) are expanded, two polynomials of the same degree are obtained. What is this degree? A 12 B 36 C 10 D 9 E 24 F cannot be determined from the data provided alone
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2017#q13|src_garaprime_2017__Q13]]
 
 
 
@@ -536,11 +595,16 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many perfect squares divides 16?
+*How many perfect squares divide 16!?*
 
-> Whether N = 16!, i.e. N = 16 · 15 · 14 · . . . · 3 · 2 · 1. How many perfect squares divide N? A 128 B 36 C 144 D 48 E 64 F 96
+> Let N = 16!, that is, N = 16 · 15 · 14 · ... · 3 · 2 · 1. How many perfect squares divide N? A 128 B 36 C 144 D 48 E 64 F 96
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2017#q14|src_garaprime_2017__Q14]]
 
 
 
@@ -570,11 +634,16 @@ How many perfect squares divides 16?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of distinct whole rectangles with area 12600*
+*Number of distinct integer rectangles with area 12600*
 
-> How many different rectangles with whole sides and area 12600? A 36 B 27 C 12 D 48 E 30 F 92
+> How many different rectangles with integer sides and an area of 12600 are there? A 36 B 27 C 12 D 48 E 30 F 92
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2017#q15|src_garaprime_2017__Q15]]
 
 
 
@@ -605,11 +674,16 @@ How many perfect squares divides 16?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*cube of sides equal to diagonal square*
+*Cube with equal sides, square of diagonals*
 
-> In a regular polygon the cube of the number of sides is equal to the square of the number of diagonals. What's the number of sides? A 9 B 4 C 25 D 16 E 27 F is not uniquely determined
+> In a regular polygon, the cube of the number of sides equals the square of the number of diagonals. What is the number of sides? A 9 B 4 C 25 D 16 E 27 F not uniquely determined
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2017#q16|src_garaprime_2017__Q16]]
 
 
 
@@ -640,11 +714,16 @@ How many perfect squares divides 16?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Sum of 1965 and permutations of its figures
+*The sum of 1965 and the permutations of its digits*
 
-> Adding the number 1965 and all the other 23 numbers you get by swapping its digits, you get a quantity M. How much is M? A 139986 B 153318 C 126654 D 173316 E 113322 F 106656
+> Adding the number 1965 and all the other 23 numbers obtained by permuting its digits gives a quantity M. What is the value of M? A 139986 B 153318 C 126654 D 173316 E 113322 F 106656
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2017#q17|src_garaprime_2017__Q17]]
 
 
 
@@ -684,10 +763,14 @@ Sum of 1965 and permutations of its figures
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mean of non-participants by weighted average*
+*Mean of non-participants from weighted mean*
 
-> On the island of Kenoncè, all students who finished high school this year took part in the university entrance test. Taking into account the entire school population, the average test score was 11. But if you narrow it down to students who took part in math competitions, which is 25% of the total, the average test score was much higher: 18 points. Then, indicating with p the average score of students who did not take part in mathematics competitions, you get: A 8 ≤p < 9 B 10 ≤p < 11 C 9 ≤p < 10 D 7 ≤p < 8 E 6 ≤p < 7 F p < 6 1
-> 
-> Solutions Below you will find the solutions in written form. Some of the solutions in the form of videos will later be published on the YouTube channel: problemisolti.it
+> On Kenoncè Island, all students who completed high school this year took the university entrance exam. Considering the entire student population, the average test score was 11. However, if we restrict our focus to the students who took part in the math competitions—who make up 25% of the total—the average test score was much higher: a full 18 points. So, if we let p denote the average score of the students who did NOT take part in the math competitions, then: A 8 ≤ p < 9 B 10 ≤ p < 11 C 9 ≤ p < 10 D 7 ≤ p < 8 E 6 ≤ p < 7 F p < 6 1
+>
+> Solutions Below you will find the solutions in written form. Some solutions in video format will be published later on the YouTube channel: problemisvolti.it
 
-**Answer:** A
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2017#q18|src_garaprime_2017__Q18]]

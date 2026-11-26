@@ -33,9 +33,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza integrale con ricorrenza per alcuni spostamenti fissi c*
+*Successione intera con una relazione di ricorrenza per un certo scarto fisso c*
 
-> Lasciate che $a_1, a_2, \ldots$ siano numeri interi positivi. Supponiamo che esista un intero $c \ge 2$ tale che, per ogni intero positivo $n$, $$a_{n+c} = 2a_{n+1} - a_n$$ sia valido. Trovare tutte queste sequenze (determinare tutte le sequenze per le quali esiste un $c$ adatto).
+> Sia $a_1, a_2, \ldots$ un insieme di interi positivi. Si supponga che esista un intero $c \ge 2$ tale che, per ogni intero positivo $n$,
+> $$a_{n+c} = 2a_{n+1} - a_n$$
+> vale. Trovare tutte le sequenze di questo tipo (determina tutte le sequenze per cui esiste un $c$ adeguato).
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2024#q01|src_selection_camp_2024__Q01]]
 
 
 
@@ -62,11 +73,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo, bisettore e riflesso, cerchio; prova angoli uguali*
+*Triangolo isoscele, bisettrice e riflessione, cerchio; dimostrare l'uguaglianza degli angoli*
 
-> Che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$. Il $D$ deve essere l'intersezione del bisettore di $\angle BAC$ con il lato $BC$, e il $E$ deve essere il riflesso di $D$ attraverso il lato $BC$. $F$ sia un punto sul segmento $AC$. La linea attraverso $A$ parallela a $BC$ incontra la linea $DF$ in un punto $G$. Il $P$ è l'intersezione della linea $AB$ con la linea $FG$, e il $Q$ è l'intersezione della linea $EP$ con la linea $FQ$ (come illustrato nella figura). Le linee $EP$ e $FQ$ determinano i punti $K$, $R$, $S$ e il circoncircolo del triangolo $KRS$ incontra un ulteriore punto $X$ (con $X \neq K$). Provare che $\angle BXP = \angle CXQ$.
+> Sia $ABC$ un triangolo isoscele con $AB = AC$. Sia $D$ l'intersezione della bisettrice di $\angle BAC$ con il lato $BC$, e sia $E$ il riflesso di $D$ rispetto al lato $BC$. Sia $F$ un punto sul segmento $AC$. La retta passante per $A$ e parallela a $BC$ incontra la retta $DF$ in un punto $G$. Sia $P$ l'intersezione della retta $AB$ con la retta $FG$, e sia $Q$ l'intersezione della retta $EP$ con la retta $FQ$ (come costruito nella figura). Le rette $EP$ e $FQ$ determinano i punti $K$, $R$, $S$, e la circonferenza circoscritta al triangolo $KRS$ incontra un ulteriore punto $X$ (con $X \neq K$). Dimostrare che $\angle BXP = \angle CXQ$.
 
 ![[src_selection_camp_2024__q02.png]]
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2024#q02|src_selection_camp_2024__Q02]]
 
 
 
@@ -91,9 +111,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Grafica completa dei ponti suddivisi in società del percorso di Hamilton; massimizzazione delle imprese*
+*Grafo completo di ponti suddiviso in compagnie a percorso di Hamilton; massimizza le compagnie*
 
-> $n$ sia un numero intero con $n \ge 2$. Ci sono $n$ isole $I_1, I_2, \ldots, I_n$, e per ogni coppia di isole distinte esiste esattamente un ponte (strada) che le collega, utilizzabile in entrambe le direzioni. Ciascuna strada è gestita da esattamente una delle più compagnie stradali. Le strade sono gestite in modo che si possa viaggiare tra due isole utilizzando solo le strade di una singola società. Supponiamo che, per qualsiasi società stradale, vi sia una permutazione $p(1), p(2), \ldots, p(n)$ di $1, 2, \ldots, n$ tale che tale società gestisca esattamente le strade che uniscono $I_{p(i)}$ e $I_{p(i+1)}$ per $i = 1, 2, \ldots, n-1$ (cioè: le strade di ciascuna società costituiscono un percorso hamiltoniano sulle isole $n$). Determinare il numero massimo possibile di compagnie stradali. Qui una permutazione $p(1), p(2), \ldots, p(n)$ di $1, 2, \ldots, n$ significa che ogni intero da $1$ a $n$ appare esattamente una volta.
+> Sia $n$ un numero intero tale che $n \ge 2$. Ci sono $n$ isole $I_1, I_2, \ldots, I_n$, e per ogni coppia di isole distinte esiste esattamente un ponte (strada) che le collega, utilizzabile in entrambe le direzioni. Ogni strada è gestita da esattamente una tra diverse compagnie stradali. Le strade sono gestite in modo che si possa viaggiare tra due isole qualsiasi utilizzando solo strade di una singola compagnia. Supponiamo che, per ogni compagnia stradale, esista una permutazione $p(1), p(2), \ldots, p(n)$ di $1, 2, \ldots, n$ tale che quella compagnia gestisca esattamente le strade che collegano $I_{p(i)}$ e $I_{p(i+1)}$ per $i = 1, 2, \ldots, n-1$ (ossia le strade di ciascuna compagnia formano un cammino di Hamilton sulle $n$ isole). Determinare il numero massimo possibile di compagnie stradali. Qui, una permutazione $p(1), p(2), \ldots, p(n)$ di $1, 2, \ldots, n$ significa che ogni numero intero da $1$ a $n$ compare esattamente una volta.
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2024#q03|src_selection_camp_2024__Q03]]
 
 
 
@@ -120,11 +149,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo, circoncircolo e un raggio di circolo r, piedi perpendicolari; trovare lunghezza XY*
+*Triangolo, circonferenza circoscritta e una circonferenza di raggio r, piedi delle perpendicolari; trovare la lunghezza XY*
 
-> $ABC$ sia un triangolo con $AB < AC$, con circoncircolo $\Omega$, e $\Gamma$ sia un cerchio di raggio $r$. Il punto $P$ è il punto con $AB = AP$ sul lato appropriato e il punto $D$ è la seconda intersezione della linea $PB$ con $\Omega$ (diversi da $B$). Da $P$ scaricare la perpendicolare alla riga $BC$ con piede $H$. Il punto $Q$ deve essere il punto della linea $HP$ con $QH = r$, in modo che $H$, $P$, $Q$ si trovino nella linea $HP$ in questo ordine. I punti di intersezione $X$ e $Y$ risultano (come illustrato nella figura), con i piedi perpendicolari alle linee $DQ$ e $AQ$. Provare la simultanea/coincidenza dichiarata e trovare la lunghezza del segmento $XY$.
+> Sia $ABC$ un triangolo con $AB < AC$, con circonferenza circoscritta $\Omega$, e sia $\Gamma$ una circonferenza di raggio $r$. Sia $P$ il punto con $AB = AP$ sul lato appropriato, e sia $D$ il secondo punto d'intersezione della retta $PB$ con $\Omega$ (diverso da $B$). Da $P$ si abbassi la perpendicolare alla retta $BC$, con piede $H$. Sia $Q$ il punto sulla retta $HP$ con $QH = r$, in modo che $H$, $P$, $Q$ giacciano sulla retta $HP$ in questo ordine. Siano $X$ e $Y$ i punti d'intersezione risultanti (come costruiti nella figura), con i piedi delle perpendicolari alle rette $DQ$ e $AQ$. Dimostrare la concorrenza/coincidenza affermata e trovare la lunghezza del segmento $XY$.
 
 ![[src_selection_camp_2024__q04.png]]
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2024#q04|src_selection_camp_2024__Q04]]
 
 
 
@@ -151,9 +189,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale con esponente iterato b×f(a)*
+*Equazione funzionale con esponente dell'iterata b*f(a)*
 
-> Trova tutte le funzioni $f$ definite sui numeri interi positivi e prendi valori di numeri interi positivi in modo tale che, per tutti i numeri interi positivi $a, b$, $$f^{\,b\,f(a)}(a+1) = (a+1)\,f(b)$$ si mantenga, dove $f^{k}(n)$ indica l'iterata moltiplicata $k$ $\underbrace{f(f(\cdots f(n)\cdots))}_{k}$ ($f$ applicata $k$ volte).
+> Trovare tutte le funzioni $f$ definite sugli interi positivi e a valori in gli interi positivi tali che, per tutti gli interi positivi $a, b$,
+> $$f^{\,b\,f(a)}(a+1) = (a+1)\,f(b)$$
+> vale, dove $f^{k}(n)$ denota l'iterata $k$-volta di $\underbrace{f(f(\cdots f(n)\cdots))}_{k}$ ($f$ applicato $k$ volte).
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2024#q05|src_selection_camp_2024__Q05]]
 
 
 
@@ -179,9 +228,19 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca quadrupli interi positivi con 2^a 3^b + 4^c 5^d = 2^b 3^a + 4^d 5^c*
+*Trovare quadruple di interi positivi tali che 2^a 3^b + 4^c 5^d = 2^b 3^a + 4^d 5^c*
 
-> Trova tutti i quadrupli $(a, b, c, d)$ di numeri interi positivi che soddisfano $$2^a 3^b + 4^c 5^d = 2^b 3^a + 4^d 5^c.$$
+> Trovare tutte le quaruple $(a, b, c, d)$ di interi positivi che soddisfano
+> $$2^a 3^b + 4^c 5^d = 2^b 3^a + 4^d 5^c.$$
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2024#q06|src_selection_camp_2024__Q06]]
 
 
 
@@ -211,9 +270,22 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La sequenza più lunga di numeri interi in [1,2^2023] senza sottosum sottoscritto a zero*
+*Sequenza più lunga di interi in [1,2^2023] priva di sottosomme con segno nulle*
 
-> Trova il più grande intero positivo $N$ in modo che esista una sequenza $a_1, a_2, \ldots, a_N$ che soddisfa entrambi i seguenti elementi: \begin{itemize} \item Per ogni intero $i$ con $1 \le i \le N$, $a_i$ è un intero con $1 \le a_i \le 2^{2023}$. \item Per tutti gli integri $i, j$ con $1 \le i \le j \le N$ e ogni scelta di $s_i, s_{i+1}, \ldots, s_j$ ognuno uguale a $1$ o $-1$, $$s_i a_i + s_{i+1} a_{i+1} + \cdots + s_j a_j \neq 0.$$ \end{itemize}
+> Trovare il più grande intero positivo $N$ tale che esista una successione $a_1, a_2, \ldots, a_N$ che soddisfi entrambe le seguenti condizioni:
+> \begin{itemize}
+> \item Per ogni numero intero $i$ con $1 \le i \le N$, $a_i$ è un numero intero con $1 \le a_i \le 2^{2023}$. \item Per tutti i numeri interi $i, j$ con $1 \le i \le j \le N$ e per ogni scelta di $s_i, s_{i+1}, \ldots, s_j$, ciascuno dei quali è uguale a $1$ o a $-1$,
+> $$s_i a_i + s_{i+1} a_{i+1} + \cdots + s_j a_j \neq 0.$$
+> \end{itemize}
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2024#q07|src_selection_camp_2024__Q07]]
 
 
 
@@ -240,9 +312,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione su coppie di numeri interi che rende un'espressione un quadrato perfetto*
+*Funzione sulle coppie di interi che rende un'espressione un quadrato perfetto*
 
-> Trova tutte le funzioni $f$ definite su coppie ordinate di integri positivi e prendi valori di integri positivi in modo tale che, per tutti gli integri positivi $x, y, z$, $$f(x, y)^2 + f(y^4, z) + 2x y^4 z$$ sia un quadrato perfetto.
+> Trovare tutte le funzioni $f$ definite su coppie ordinate di interi positivi e a valori in interi positivi tali che, per tutti gli interi positivi $x, y, z$,
+> $$f(x, y)^2 + f(y^4, z) + 2x y^4 z$$
+> è un quadrato perfetto.
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2024#q08|src_selection_camp_2024__Q08]]
 
 
 
@@ -269,9 +352,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre permutazioni di 1..n approssimativamente 2 sqrt(n) per somma di radici quadrate*
+*Tre permutazioni di 1..n che approssimano 2 radice(n) mediante somme di radici quadrate*
 
-> $n$ sia un numero intero positivo. Prova che esistono permutazioni $(a_1, a_2, \ldots, a_n)$, $(b_1, b_2, \ldots, b_n)$, $(c_1, c_2, \ldots, c_n)$ di $(1, 2, \ldots, n)$ in modo tale che per ogni intero $k$ con $1 \le k \le n$, $$\left| \sqrt{a_k} + \sqrt{b_k} + \sqrt{c_k} - 2\sqrt{n} \right| < 2023.$$ qui $(x_1, x_2, \ldots, x_n)$ è una permutazione di $(1, 2, \ldots, n)$ se ogni intero da $1$ a $n$ appare esattamente una volta tra $x_1, x_2, \ldots, x_n$.
+> Sia $n$ un numero intero positivo. Dimostrare che esistono permutazioni $(a_1, a_2, \ldots, a_n)$, $(b_1, b_2, \ldots, b_n)$, $(c_1, c_2, \ldots, c_n)$ di $(1, 2, \ldots, n)$ tali che, per ogni numero intero $k$ con $1 \le k \le n$,
+> $$\left| \sqrt{a_k} + \sqrt{b_k} + \sqrt{c_k} - 2\sqrt{n} \right| < 2023.$$
+> Qui, $(x_1, x_2, \ldots, x_n)$ è una permutazione di $(1, 2, \ldots, n)$ se ogni intero da $1$ a $n$ compare esattamente una volta tra $x_1, x_2, \ldots, x_n$.
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2024#q09|src_selection_camp_2024__Q09]]
 
 
 
@@ -301,9 +395,22 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di sequenza in aumento con divisibilità e densità di primo divisore*
+*Esistenza di una successione crescente con divisibilità e densità dei divisori primi*
 
-> Lasciate che $a_1, a_2, \ldots$ siano numeri interi positivi. Determinare se esiste una sequenza che soddisfa entrambe le seguenti condizioni: \begin{itemize} \item Per ogni intero positivo $k$, $a_k < a_{k+1}$, e $a_{k+1}$ divide $2(a_1 + a_2 + \cdots + a_k)$. \item Esiste un primo $p$ tale che infinitamente molti dei termini $a_1, a_2, \ldots$ sono divisibili da $p$. \end{itemize} Determinare l'esistenza di tale sequenza $a_1, a_2, \ldots$.
+> Sia $a_1, a_2, \ldots$ una successione di numeri interi positivi. Determinare se esista una tale successione che soddisfi entrambe le seguenti condizioni:
+> \begin{itemize}
+> \item Per ogni intero positivo $k$, $a_k < a_{k+1}$, e $a_{k+1}$ divide $2(a_1 + a_2 + \cdots + a_k)$. \item Esiste un numero primo $p$ tale che infiniti dei termini $a_1, a_2, \ldots$ sono divisibili per $p$.
+> \end{itemize}
+> Determinare se esista una tale sequenza $a_1, a_2, \ldots$.
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2024#q10|src_selection_camp_2024__Q10]]
 
 
 
@@ -330,9 +437,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n x n griglia riempita bietivamente sotto una congruenza; massimizzare le coppie adiacenti +1*
+*Griglia n x n riempita biettivamente secondo una congruenza; massimizzare le coppie adiacenti con valore +1*
 
-> $n$ sia un numero intero con $n \ge 2$. Ogni cella di una griglia $n \times n$ è riempita di uno dei numeri interi distinti da $1$ a $n^2$, ciascuna utilizzata esattamente una volta. $a_{i,j}$ sia il numero intero scritto nella cella della prima riga $i$ dall'alto e della seconda colonna $j$ dalla sinistra. Supponiamo le seguenti sostanze: $$\text{for all integers } i, j \text{ with } 1 \le i \le n,\ 1 \le j \le n, \quad n \mid a_{i,j} - (i + j - 1).$$ Determinare il numero massimo possibile di coppie $(i, j)$, con $1 \le i \le n$ e $1 \le j \le n-1$, in modo tale che $a_{i,j+1} = a_{i,j} + 1$.
+> Sia $n$ un numero intero tale che $n \ge 2$. Ogni cella di una griglia $n \times n$ viene riempita con uno degli interi distinti compresi tra $1$ e $n^2$, ciascuno dei quali viene utilizzato esattamente una volta. Sia $a_{i,j}$ l'intero scritto nella cella situata alla $i$-esima riga partendo dall'alto e alla $j$-esima colonna partendo da sinistra. Si supponga che valga quanto segue:
+> $$\text{for all integers } i, j \text{ with } 1 \le i \le n,\ 1 \le j \le n, \quad n \mid a_{i,j} - (i + j - 1).$$
+> Determinare il numero massimo possibile di coppie $(i, j)$, con $1 \le i \le n$ e $1 \le j \le n-1$, tali che $a_{i,j+1} = a_{i,j} + 1$.
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2024#q11|src_selection_camp_2024__Q11]]
 
 
 
@@ -357,6 +475,15 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto, centro ortografico, circoncircoli, riflessione; prova quattro punti conciclici*
+*Triangolo acuto, ortocentro, circonferenze circoscritte, riflessione; dimostrare che quattro punti sono conciclici*
 
-> Lasciate che $ABC$ sia un triangolo acuto con $AB < AC$, e lasciate che $H$ sia il suo centro orto. Il $D$ deve essere un punto sul lato $BC$ (esclusi i suoi punti di fine) con $AB = AD$, e il $P$ deve essere un punto sul segmento $BD$ (esclusi i suoi punti di fine). La linea $BH$ incontra nuovamente il circoncircolo del triangolo $ABC$ in un punto $E$ (con $E \neq B$). Il $Q$ è la seconda intersezione (diversi da $D$) del circoncircolo del triangolo $ABD$ e del circoncircolo del triangolo $DHP$, e il $Q'$ è il riflesso di $Q$ attraverso la linea $AB$. Prova che i quattro punti $B$, $E$, $P$, $Q'$ si trovano su un cerchio comune (sono conciclici). Qui $XY$ indica la lunghezza del segmento $XY$.
+> Sia $ABC$ un triangolo acutangolo con $AB < AC$, e sia $H$ il suo ortocentro. Sia $D$ un punto sul lato $BC$ (esclusi gli estremi) tale che $AB = AD$, e sia $P$ un punto sul segmento $BD$ (esclusi gli estremi). La retta $BH$ incontra nuovamente la circonferenza circoscritta al triangolo $ABC$ in un punto $E$ (con $E \neq B$). Sia $Q$ il secondo punto d'incontro (diverso da $D$) tra la circonferenza circoscritta al triangolo $ABD$ e la circonferenza circoscritta al triangolo $DHP$, e sia $Q'$ il riflesso di $Q$ rispetto alla retta $AB$. Dimostrare che i quattro punti $B$, $E$, $P$, $Q'$ giacciono su una stessa circonferenza (sono conciclici). Qui $XY$ denota la lunghezza del segmento $XY$.
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2024#q12|src_selection_camp_2024__Q12]]

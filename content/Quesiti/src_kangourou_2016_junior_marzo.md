@@ -36,13 +36,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number closest to 17x0,3x20,16/999*
+*Number closest to 17x0.3x20.16/999*
 
-> In two of them is inscribed a circle. What is the distance between the two circumferences? A) 2 √ 2 – 1 B) 2 √ 2 + 1 C) 2 √ 2 D) 2
-> 	
+> A circle is inscribed in two of them. What is the distance between the two circumferences?
+> A) 2 √ 2 – 1	
+> B) 2 √ 2 + 1	
+> C) 2 √ 2
+> D) 2	
+>
 > E) 3
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q01|src_kangourou_2016_junior_marzo__Q01]]
 
 
 
@@ -66,11 +74,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remainder of 3x divided by 6 given remainder of x equal to 3*
+*Remainder of 3x divided by 6, given that the remainder of x is 3*
 
-> 2. Dividing the positive integer x by 6 gives remainder 3. What is the remainder in the JUNIOR division by 6 of 3x ? A) 4 B) 3 C) 2 D) 1 E) 0
+> 2. When the positive integer x is divided by 6, the remainder is 3. What is the remainder when 3x is divided by 6 in the JUNIOR division? A) 4 B) 3 C) 2 D) 1 E) 0
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q02|src_kangourou_2016_junior_marzo__Q02]]
 
 
 
@@ -93,11 +106,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many weeks are equal to 2016 hours*
+*How many weeks is 2016 hours equivalent to?*
 
-> 3. How many weeks is 2016 hours? A) 6 B) 8 C) 10 D) 12 E) 16
+> 3. How many weeks are equivalent to 2016 hours? A) 6 B) 8 C) 10 D) 12 E) 16
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q03|src_kangourou_2016_junior_marzo__Q03]]
 
 
 
@@ -120,11 +137,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*50% more than errors on 30*
+*50% more errors out of 30*
 
-> 4. The Kangourou contest involves 30 questions in which each answer is either right or wrong. Last year Rossana took part, answering all questions and her correct answers were 50% more than those wrong. How many correct answers did Rossana give ? A) 10 B) 12 C) 15 D) 18 E) 20
+> 4. The Kangaroo Competition consists of 30 questions, each answer being either correct or incorrect. Last year, Rossana took part and answered all the questions; her correct answers were 50% more than her incorrect answers. How many correct answers did Rossana give? A) 10 B) 12 C) 15 D) 18 E) 20
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q04|src_kangourou_2016_junior_marzo__Q04]]
 
 
 
@@ -148,11 +169,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pair that is not a vertex of the square*
+*A pair that is not the vertex of the square*
 
-> 5. Four of the ordered pairs you find in the answers, in a Cartesian reference system, represent the vertices of a square. Which one is not a vertex of this square? A) (-1, 3) C) (-2, -1) D) (1, 1) E) (3, -2) B) (0, -4)
+> 5. Four of the ordered pairs you find in the answers, in a Cartesian coordinate system, represent the vertices of a square. Which one does not represent a vertex of this square? A) (-1, 3) C) (-2, -1) D) (1, 1) E) (3, -2) B) (0, -4)
 
-**Answer:** A
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q05|src_kangourou_2016_junior_marzo__Q05]]
 
 
 
@@ -175,11 +201,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*result of 000000 minus 00*
+*Result of 000000 minus 00*
 
-> 6. Luke, who has not yet learned the ordinary notation of negative numbers, has devised his own way of representing integers before zero; considering the relative integers closest to zero he would write: 0000, 000, 00, 0, 1, 2, 3, ... . Using its notation, what is the result of 000000 – 00? A) 1 B) 0000 C) 00000 D) 0000000 E) 00000000
+> 6. Luca, who has not yet learned the usual notation for negative numbers, has invented his own way of representing the integers that precede zero; considering the integers relative to zero that are closest to zero, he would write: … 0000, 000, 00, 0, 1, 2, 3, … . Using his notation, what is the result of 000000 – 00? A) 1 B) 0000 C) 00000 D) 0000000 E) 00000000
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q06|src_kangourou_2016_junior_marzo__Q06]]
 
 
 
@@ -203,11 +233,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Impossible sum by throwing two dice with negative odds*
+*Impossible sum when rolling two dice with negative odd numbers*
 
-> 7. I have strange dice. On each of their faces there's a number from 1 to 6, but every odd number is preceded by the minus sign, so the corresponding number is negative. By rolling two of these dice and adding up the numbers on the upper faces, which of the following numbers can never be obtained? A) 3 B) 4 C) 5 D) 7 E) 8
+> 7. You have some strange dice: on each face, a number from 1 to 6 appears, but each odd number is preceded by a minus sign, so the corresponding number is negative. If you roll two of these dice and add the numbers that appear on the top faces, which of the following numbers can never be obtained? A) 3 B) 4 C) 5 D) 7 E) 8
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q07|src_kangourou_2016_junior_marzo__Q07]]
 
 
 
@@ -230,11 +265,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Adjacent letter exchanges from VELO to LOVE*
+*Swaps of adjacent letters from VELO to LOVE*
 
-> 8. How many times do I have to swap two adjacent letters to change, step by step, the word VELO into the word LOVE? A) 3 B) 4 C) 5 D) 6 E) 7
+> 8. How many times must I swap two adjacent letters to change the word VELO into the word LOVE step by step? A) 3 B) 4 C) 5 D) 6 E) 7
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q08|src_kangourou_2016_junior_marzo__Q08]]
 
 
 
@@ -258,11 +297,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*5 digits, no pairs sum 10*
+*5 digits, no pair sums to 10*
 
-> 9. Sonia wrote five different one-digit positive integers on the board. She discovered that the sum of two of any of them is never 10. Which of these numbers is Sonia certain to have written on the board? A) 1 B) 2 C) 3 D) 4 E) 5
+> 9. Sonia wrote 5 different positive one-digit integers on the board. She found that the sum of any two of them is never 10. Which of these numbers is certain to have been written on the board by Sonia? A) 1 B) 2 C) 3 D) 4 E) 5
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q09|src_kangourou_2016_junior_marzo__Q09]]
 
 
 
@@ -285,11 +329,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure that cannot fit in a square with side 1 dm*
+*A figure that cannot be fitted into a square with a side length of 1 dm*
 
-> 10. Which of the following geometric figures cannot fit in a square with side 1 dm? A) A circle with radius 5 cm. B) A regular octagon with side 3.5 cm. C) A right triangle with hypotenuse 1 dm long. JUNIOR D) An equilateral triangle with perimeter 3 dm. E) None. Questions from No. 11 to No. 20 are worth 4 points each
+> 10. Which of the following geometric figures cannot be placed inside a square with a side length of 1 dm? A) A circle with a radius of 5 cm. B) A regular octagon with a side length of 3.5 cm. C) A right-angled triangle with a hypotenuse 1 dm long. JUNIOR D) An equilateral triangle with a perimeter of 3 dm. E) None. Questions 11 to 20 are each worth 4 points.
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q10|src_kangourou_2016_junior_marzo__Q10]]
 
 
 
@@ -312,11 +360,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest among a,b,c,d given a system of equalities*
+*Greater among a, b, c, d given system of equalities*
 
-> 11. Four real numbers a, b, c, d satisfy these equalities: a + 5 = $b^{2}$ – 1 = $c^{2}$ + 3 = d – 4. Which of them is the largest? A) a B) b C) c D) d E) It is impossible to determine.
+> 11. Four real numbers a, b, c, d satisfy these equalities: a + 5 = $b^{2}$ – 1 = $c^{2}$ + 3 = d – 4. Which of them is the greatest? A) a B) b C) c D) d E) It is impossible to determine.
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q11|src_kangourou_2016_junior_marzo__Q11]]
 
 
 
@@ -351,7 +403,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between two circles*
+*Distance between two circles inscribed in squares*
 
 ![[src_kangourou_2016_junior_marzo__prob12.png]]
 
@@ -365,9 +417,13 @@ level: kangourou
 \end{document}
 ```
 
-> 12. In the figure you see a square divided into nine squares of side.
+> 12. In the figure, you see a square divided into 9 squares with a given side length.
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q12|src_kangourou_2016_junior_marzo__Q12]]
 
 
 
@@ -405,25 +461,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Missing result of the tennis tournament*
+*Missing result from the tennis tournament*
 
-> A single-elimination tennis tournament has ended. The outcomes of six of the seven 
-> final matches (quarter-finals, semi-finals and final) were (not necessarily 
-> in this order): Bianca beats Anna, Carla beats Daniela, Gina beats Hether, Gina 
-> beats Carla, Carla beats Bianca and Emma beats Franca. What is the missing result? 
-> 	
-> A) Gina  beats  Bianca	
-> 	
-> B) Carla  beats  Anna	
-> 	
-> C) Emma  beats  Carla
-> 	
-> D) Bianca  beats  Hether	
-> 	
-> E) Gina  beats  Emma
+> A single-elimination tennis tournament has come to an end. The outcomes of six of the seven final matches (quarterfinals, semifinals, and the final) were (not necessarily in this order): Bianca beats Anna, Carla beats Daniela, Gina beats Hether, Gina beats Carla, Carla beats Bianca, and Emma beats Franca. What is the missing result?
+>
+> A) Gina beats Bianca
+>
+> B) Carla beats Anna
+>
+> C) Emma beats Carla
+>
+> D) Bianca beats Hether
+>
+> E) Gina beats Emma
 >
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q13|src_kangourou_2016_junior_marzo__Q13]]
 
 
 
@@ -482,7 +540,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded percentage of the area of the triangle*
+*Shaded percentage of the triangle's area*
 
 ![[src_kangourou_2016_junior_marzo__prob14.png]]
 
@@ -514,9 +572,18 @@ level: kangourou
 \end{document}
 ```
 
-> What percentage of the area of the triangle is shaded? A) 80% B) 85% C) 88% D) 90% E) None of the above.
+> What percentage of the area of the triangle in the figure is shaded?
+> A) 80%	 	
+> B) 85%	 	
+> C) 88%	 	
+> D) 90%
+> E) None of the above.
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q14|src_kangourou_2016_junior_marzo__Q14]]
 
 
 
@@ -565,7 +632,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Number in place of ? in the magic square multiplied by *
+*Number to replace the ? in the multiplicative magic square*
 
 ![[src_kangourou_2016_junior_marzo__prob15.png]]
 
@@ -580,17 +647,22 @@ Number in place of ? in the magic square multiplied by *
 \end{document}
 ```
 
-> By inserting, one per box, each of the numbers 1, 2, 4, 5, 10, 20, 25, 50 and 100, Gilberto wants to construct a magic square multiplier: he wants that, however he chooses a line, a column or a diagonal, the product of the three numbers in it contents not varied. In the figure, you can see how Gilberto started the game. What number will you have to put in place of the question mark? A) 2
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 10
-> 	
+> By placing each of the numbers 1, 2, 4, 5, 10, 20, 25, 50, and 100, one per cell, Gilberto wants to construct a multiplicative magic square: that is, he wants the product of the three numbers in any row, column, or diagonal he chooses to be the same. In the figure, you can see how Gilberto began the game. Which number must he put in place of the question mark?
+> A) 2	
+>
+> B) 4	
+>
+> C) 5	
+>
+> D) 10	
+>
 > E) 25
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q15|src_kangourou_2016_junior_marzo__Q15]]
 
 
 
@@ -626,13 +698,23 @@ Number in place of ? in the magic square multiplied by *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Comparison of the perimeters of the two cylinder bases fastened together*
+*Comparison of the perimeters of the two bases of bundled small cylinders*
 
 ![[src_kangourou_2016_junior_marzo__prob16.png]]
 
-> Andrea has twelve identical cylinders, a circular section 2 cm in diameter; she has them in two groups of six, wrapping each group with plastic film. He thus obtained two solids whose bases are shown in the figures, which we will call for short parallelogram and triangle. As regards the perimeter of the two bases, it can be stated that A) that of the parallelogram is shorter than π cm. (b) the parallelogram is shorter than 4 cm. (c) that of the triangle is shorter than π cm. D) that of the triangle is shorter than 4 cm. E) are of the same length.
+> Andrea has twelve identical small cylinders with a circular cross-section 2 cm in diameter; she grouped them into two groups of six, wrapping each group in plastic film. This gave her two solids whose bases are shown in the figures; for brevity, we will call these bases "parallelogram" and "triangle". Regarding the perimeters of the two bases, it can be said that
+> A) The one of the parallelogram is π cm shorter.
+> B) The one for the parallelogram is 4 cm shorter.
+> C) That of the triangle is shorter by π cm.
+> D) That of the triangle is 4 cm shorter.
+> E) have the same length.
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q16|src_kangourou_2016_junior_marzo__Q16]]
 
 
 
@@ -667,19 +749,24 @@ Number in place of ? in the magic square multiplied by *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum exceeds by 31 that of Alice*
+*The sum exceeds Alice's by 31*
 
-> I have eight identical, unmarked envelopes; in each one I have entered one and only one of the numbers 1, 2, 4, 8, 16, 32, 64, 128. Eva randomly picks some of these envelopes, Alice takes the others. The sum of the numbers in Eva's envelopes exceeds by 31 that of the numbers in Alice's. How many envelopes did Eva take? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> I have eight identical, unmarked envelopes; in each one I have placed one and only one of the numbers 1, 2, 4, 8, 16, 32, 64, 128. Eva randomly chooses some of these envelopes, and Alice takes the rest. The sum of the numbers in Eva's envelopes exceeds the sum of the numbers in Alice's envelopes by 31. How many envelopes did Eva take?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q17|src_kangourou_2016_junior_marzo__Q17]]
 
 
 
@@ -719,20 +806,27 @@ Number in place of ? in the magic square multiplied by *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum colours for grid 3x3 diagonal column rows*
+*Minimum colors for 3x3 grid: rows, columns, diagonals*
 
-> Piero wants to color the cells of a 3x3 grid so that each row, each column and each of the two diagonals is made up of 3 cells of different colors. What is the minimum number of colours that Piero can use to succeed? A) 3
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
+> Piero wants to color the cells of a 3×3 grid so that each row, each column, and each of the two diagonals consists of 3 cells of different colors. What is the minimum number of colors with which Piero can achieve this?
+> A) 3	
+>
+> B) 4	
+>
+> C) 5	
+>
+> D) 6	
+>
 > E) 7
+> 20 1 ?
 >
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q18|src_kangourou_2016_junior_marzo__Q18]]
 
 
 
@@ -763,13 +857,22 @@ Number in place of ? in the magic square multiplied by *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of four angles highlighted on a cube*
+*Sum of four angles highlighted on a cube*
 
 ![[src_kangourou_2016_junior_marzo__prob19.png]]
 
-> The figure shows a cube in which four angles have been highlighted. What is the sum of their measurements in degrees? A) 315 B) 330 C) 345 D) 360 E) 375
+> The figure shows a cube in which four angles have been highlighted. What is the sum of their measures in degrees?
+> A) 315	 	
+> B) 330	 	
+> C) 345	    
+> D) 360	 	
+> E) 375
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q19|src_kangourou_2016_junior_marzo__Q19]]
 
 
 
@@ -802,19 +905,22 @@ Number in place of ? in the magic square multiplied by *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of fractions with different/same color for 2016 kangaroo*
+*Sum of fractions with different/same colors for 2016 Canguri*
 
-> There are 2016 kangaroos; each is either grey or red, and there is at least one grey and at least one red kangaroo. For each kangaroo K, we write the ratio between the number of kangaroos with a different color from K and the number of kangaroos with the same color as K (including K itself). What is the sum of all these fractions?
->
-> (A) 2016
-> (B) 1344
-> (C) 1008
-> (D) 672
-> (E) Not enough information.
->
-> Questions 21 to 30 are worth 5 points each.
+> There are 2016 kangaroos; each of them is either grey or red, and there is at least one grey kangaroo and at least one red kangaroo. For each kangaroo K, we write the ratio of the number of kangaroos whose color is different from K to the number of kangaroos whose color is the same as K's (including K). What is the sum of all these fractions?
+> A) 2016		
+> B) 1344		
+> C) 1008		
+> D) 672	
+> E) The information is insufficient.
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q20|src_kangourou_2016_junior_marzo__Q20]]
 
 
 
@@ -848,22 +954,23 @@ Number in place of ? in the magic square multiplied by *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A climbing plant wound 5 times around the pole*
+*The climbing stem is wrapped around the stake 5 times*
 
 ![[src_kangourou_2016_junior_marzo__prob21.png]]
 
-> A climbing plant has wound itself exactly 5 times around a 
-> pole one metre high with a circumference of 15 cm, as shown in the 
-> figure. During growth its increase in height was constant 
-> over time. How many metres long is the plant?
-> A) 0.75	 	
-> B) 1.0	
-> 	
-> C) 1.25	 	
-> D) 1.5	 	
-> E) 1.75
+> A climbing plant has wound around a one-meter-high post with a circumference of 15 cm exactly 5 times, as shown in the figure. During its growth, the increase in its height was constant over time. How many meters long is the plant?
+> A) 0,75	 	
+> B) 1,0	
+>
+> C) 1,25	 	
+> D) 1,5	 	
+> E) 1,75
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q21|src_kangourou_2016_junior_marzo__Q21]]
 
 
 
@@ -894,17 +1001,23 @@ Number in place of ? in the magic square multiplied by *
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum remaining two digits divided by the sum of its digits
+*Maximum remainder, two-digit number divided by the sum of its digits*
 
-> What is the largest remainder that can be obtained by dividing a two-digit number (a positive integer) by the sum of its digits? A) 13
-> 	
-> B) 14
-> 	
-> C) 15
-> 	
+> What is the largest remainder that can be obtained by dividing a two-digit positive integer by the sum of its digits?
+> A) 13	
+>
+> B) 14	
+>
+> C) 15	
+>
 > D) 16
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q22|src_kangourou_2016_junior_marzo__Q22]]
 
 
 
@@ -994,17 +1107,23 @@ Maximum remaining two digits divided by the sum of its digits
 \end{document}
 ```
 
-> Imagine a square divided into 25 equal cells. Initially, all cells are white, as shown in the diagram on the left. With each move, you can change the color of a pair of cells that have one side in common: the white cells turn dark and vice versa. What's the minimum number of moves to turn the square into a chessboard colored like the figure on the right? A) 11
-> 	
-> B) 12
-> 	
-> C) 13
-> 	
-> D) 14
-> 	
+> Imagine a square divided into 25 equal cells. At the initial moment, all the cells are white, as shown in the drawing on the left. On each move, you can change the color of a pair of cells that share a side: the white cells become dark, and vice versa. What is the minimum number of moves required to turn the square into a colored checkerboard like the one in the figure on the right?
+> A) 11	
+>
+> B) 12	
+>
+> C) 13	
+>
+> D) 14	
+>
 > E) 15
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q23|src_kangourou_2016_junior_marzo__Q23]]
 
 
 
@@ -1042,24 +1161,29 @@ Maximum remaining two digits divided by the sum of its digits
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hours per branch dragged by the current, boat 4 and 6 hours*
+*Ore for a branch dragged by the current; boat: 4 and 6 hours*
 
-> The cities X and Y rise along a river. A motorboat takes four hours to travel, following the current, from X to Y. When you go back from Y to X, using the same power used on the way there, it takes 6 hours. In how many hours would the current carry a tree branch from X to Y, assuming there are no obstacles along its path? A) 5
-> 	
-> B) 10
-> 	
-> C) 12
-> 	
-> D) 20
-> 	
+> Cities X and Y lie along a river. A motorboat takes 4 hours to travel from X to Y downstream. When it returns from Y to X using the same power as on the outward journey, it takes 6 hours. How many hours would it take for the current to carry a tree branch from X to Y, assuming there are no obstacles in its path?
+> A) 5	
+>
+> B) 10	
+>
+> C) 12	
+>
+> D) 20	
+>
 > E) 24
-> 
-> 
-> 
-> 
+>
+>
+>
+>
 >
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q24|src_kangourou_2016_junior_marzo__Q24]]
 
 
 
@@ -1089,11 +1213,21 @@ Maximum remaining two digits divided by the sum of its digits
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in place of 2016 between permutations of 1..7*
+*Number at position 2016 among permutations of 1..7*
 
-> If we list all the seven-digit numbers in increasing order that we can write using all the numbers from 1 to 7 for each, what's the number in place of 2016 on the list? A) 3547612 B) 3547621 C) 3657421 D) 4125673 E) 4125736
+> If we list in ascending order all 7-digit numbers that we can write using all the digits from 1 to 7 in each number, what is the number in position 2016 on the list?
+> A) 3547612
+> B) 3547621
+> C) 3657421
+> D) 4125673
+> E) 4125736
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q25|src_kangourou_2016_junior_marzo__Q25]]
 
 
 
@@ -1125,9 +1259,19 @@ Maximum remaining two digits divided by the sum of its digits
 
 *Impossible measurement of the third height given 10 and 11*
 
-> Two of the heights of a triangle measure 10 cm and 11 cm. Which of the following cannot be the centimetre measure of the third height? A) 5 B) 6 C) 7 D) 10 E) 100
+> Two of the altitudes of a triangle measure 10 cm and 11 cm. Which of the following cannot be the measure, in centimeters, of the third altitude?
+> A) 5
+> B) 6
+> C) 7
+> D) 10
+> E) 100
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q26|src_kangourou_2016_junior_marzo__Q26]]
 
 
 
@@ -1158,11 +1302,21 @@ Maximum remaining two digits divided by the sum of its digits
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum three at a time never prime among four consecutive*
+*Sum of three threes, more than the firsts on 4 consecutive ones*
 
-> James wrote four consecutive positive integers. Adding three to three of these numbers in four possible ways never gets a prime number. What's the smallest whole James could have written? A) 12 B) 10 C) 7 D) 6 E) 3
+> Giacomo has written 4 consecutive positive integers. When these numbers are added in groups of three in all four possible ways, the sum is never a prime number. What is the smallest integer that Giacomo could have written?
+> A) 12
+> B) 10
+> C) 7
+> D) 6
+> E) 3
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q27|src_kangourou_2016_junior_marzo__Q27]]
 
 
 
@@ -1194,11 +1348,21 @@ Maximum remaining two digits divided by the sum of its digits
 <div class="qlang-split" data-lang="en"></div>
 
 
-Eva's sport, four round-table athletes
+*The sport Eva practices; four athletes at a round table*
 
-> Four athletes sit around a round table; each of them practices one sport, judo, swimming, fencing, and volleyball. The swimmer sits to Ada's left; the judo player stands in front of Bruno; Eva and Filippo sit side by side. There's a woman to the left of the volleyball player. What sport does Eva play? A) Judo B) Swimming C) Volleyball D) Fencing E) The information is insufficient.
+> Four athletes are sitting around a round table; each of them practices one and only one sport—judo, swimming, fencing, or volleyball. The person who swims is to Ada's left; the person who practices judo is facing Bruno; Eva and Filippo are sitting next to each other. A woman is to the left of the person who plays volleyball. What sport does Eva practice?
+> A) Judo
+> B) Swimming
+> C) Volley
+> D) Fencing
+> E) The information is insufficient.
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q28|src_kangourou_2016_junior_marzo__Q28]]
 
 
 
@@ -1229,11 +1393,21 @@ Eva's sport, four round-table athletes
 <div class="qlang-split" data-lang="en"></div>
 
 
-Next month with a surprising date (eight distinct digits)
+*Next month with a surprising date (eight distinct digits)*
 
-> A date may be written as GG.MM.AAAA: e.g. The date today is 17.03.2016. Let's say it's a "surprising" date if the eight digits that appear in it are all distinct. What month will the next "surprising" date fall? (a) March (b) June (c) July (d) August (e) December
+> A date can be written in the form DD.MM.YYYY: e.g., today's date is 17.03.2016. We call a date "surprising" if the eight digits that appear in it are all different in pairs. In which month will the next "surprising" date fall?
+> A) March
+> B) June
+> C) July
+> D) August
+> E) December
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q29|src_kangourou_2016_junior_marzo__Q29]]
 
 
 
@@ -1271,10 +1445,20 @@ Next month with a surprising date (eight distinct digits)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Handshakes of P2016 given handshake pattern*
+*P2016 handshakes given handshake scheme*
 
-> At a conference the 2016 participants were registered with the abbreviations P1, ..., P2016. Each participant from P1 to P2015 shook hands with a number of participants exactly equal to that in their registration code. How many participants did P2016 shake hands with? A) 1 B) 504 C) 672 D) 1008 E) 2015
-> 
-> Category
+> At a conference in 2016, the participants were registered with the codes P1, …, P2016. Each participant from P1 to P2015 shook hands with a number of participants exactly equal to the number in their registration code. How many participants did P2016 shake hands with?
+> A) 1
+> B) 504
+> C) 672
+> D) 1008
+> E) 2015
+>
+> Category A B C D E
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_junior_marzo#q30|src_kangourou_2016_junior_marzo__Q30]]

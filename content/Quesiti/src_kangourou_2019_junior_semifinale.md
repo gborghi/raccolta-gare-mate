@@ -37,15 +37,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expression value with powers of 7 (differences in squares)*
+*Value of the expression involving powers of 7 (differences of squares)*
 
-> What is the result of the expression ? A) 1
-> 	
-> B) 7/4 C) 7
-> 	
-> D) 14 E) 49
+> (Point 2) What is the result of the expression?
+> A) 1	
+>
+> B) 7/4		
+> C) 7	
+>
+> D) 14	 	
+> E) 49
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q01|src_kangourou_2019_junior_semifinale__Q01]]
 
 
 
@@ -76,11 +84,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trajectory of the vertex A in two rotations of the rectangle*
+*Path of vertex A in two rotations of the rectangle*
 
-> (Points 3) The vertices of a rectangle, named in a clockwise direction, are A, B, C, D. The AB side is 15 and the BC side is 20. The rectangle rotates, always clockwise and always 90 degrees, first around the C vertex, then around the D vertex (in the new position in which it came to be). What is the nearest integer to the length of the path traveled by vertex A in two rotations? A) 78 B) 79 C) 70 D) 71 E) A number different from the previous ones
+> (Point 3) The vertices of a rectangle, named in clockwise order, are A, B, C, D. Side AB is 15 units long, and side BC is 20 units long. The rectangle rotates, always clockwise and always through 90 degrees: first about vertex C, then about vertex D (in the new position it has come to occupy). What is the integer closest to the length of the path traveled by vertex A during the two rotations?
+> A) 78	 	
+> B) 79	 	
+> C) 70	 	
+> D) 71	 	
+> E) A number different from the preceding ones
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q02|src_kangourou_2019_junior_semifinale__Q02]]
 
 
 
@@ -114,17 +131,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many of the 5 numbers given are multiples of 10*
+*How many of the 5 given numbers are multiples of 10?*
 
-> (Points 3) How many of the following five integers a = 2100 + 2102, b = 3100 + 3102, c = 5100 - 599, d = 399 + 799, and = 398 + 1 are multiples of 10? (A) One only (B) Two
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> (Point 3) How many of the following five integers—a = 2100 + 2102, b = 3100 + 3102, c = 5100 - 599, d = 399 + 799, e = 398 + 1—are multiples of 10?
+> A) Only one
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) All
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q03|src_kangourou_2019_junior_semifinale__Q03]]
 
 
 
@@ -154,11 +178,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability that a 4-digit palindrome is divisible by 7*
+*Probability that a 4-digit palindrome is divisible by 7*
 
-> (Points 4) If you randomly pick a four-digit palindrome integer, what is the probability that it is divisible by 7? A) 1/9 B) 1/8 C) 1/7 D) 1/6 E) 1/5
+> (Question 4) If we randomly choose a four-digit integer palindrome, what is the probability that it is divisible by 7?
+> A) 1/9	
+> B) 1/8		
+> C) 1/7	
+> D) 1/6	
+> E) 1/5
 
-**Answer:** E
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q04|src_kangourou_2019_junior_semifinale__Q04]]
 
 
 
@@ -189,15 +223,20 @@ The probability that a 4-digit palindrome is divisible by 7*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which edge of the cube gives an integer area in the cut*
+*Which edge of the cube with an integer-area cross-section?*
 
-> (Points 4) Cutting a cube with a plane that passes through two of its opposite vertices and through the midpoints of two opposite edges that do not contain those vertices yields a quadrilateral whose area, in square centimeters, is expressed by an integer. Which of the following numbers can express the length, in centimeters, of the edges of the cube?
+> (Point 4) Cutting a cube with a plane that passes through two of its opposite vertices and through the midpoints of two opposite edges that do not contain those vertices yields a quadrilateral whose area, in square centimeters, is given by an integer. Which of the following numbers can represent the length, in centimeters, of the edges of the cube?
 > A) 1                 B) √8	 	
 > C) √12	
 > D) √27  	
 > E) None
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q05|src_kangourou_2019_junior_semifinale__Q05]]
 
 
 
@@ -258,7 +297,7 @@ The probability that a 4-digit palindrome is divisible by 7*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Where the ball hits the left edge of the grid 4x2019*
+*Where the ball strikes the left edge of grid 4x2019 again*
 
 ![[src_kangourou_2019_junior_semifinale__prob6.png]]
 
@@ -282,11 +321,20 @@ Where the ball hits the left edge of the grid 4x2019*
 \end{document}
 ```
 
-> (Points 4) In Figure A, B, C, D and E, the 5 points of contact between the left vertical edge of a rectangular grid 4×2019 and the horizontal segments delimiting the square cells of that grid are indicated (from the top). A ball (shaped points!) is thrown from the point E towards the inside of the grid at an angle of 45 degrees (with respect to the sides of the grid) and bounces regularly whenever it hits the edges of the grid: the figure suggests the initial trajectory of the ball. When the ball hits the left edge of the grid for the first time, where does it hit it? A) A B) B
-> 	
-> C) C D) D E) E
+> (Point 4) In the figure, A, B, C, D, and E denote (starting from the top) the 5 points of contact between the left vertical edge of a 4×2019 rectangular grid and the horizontal line segments that bound the square cells of that grid. A ball (point-shaped!) is launched from point E into the interior of the grid at a 45-degree angle (relative to the sides of the grid) and bounces regularly each time it hits the edges of the grid: the figure suggests the ball's initial trajectory to you. When the ball first returns to hit the left edge of the grid, at which point does it hit it?
+> A) A	 	
+> B) B	
+>
+> C) C	 	
+> D) D	 	
+> E) E
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q06|src_kangourou_2019_junior_semifinale__Q06]]
 
 
 
@@ -321,19 +369,25 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hundreds digit of 2019xN given the divisors of 3N and 5N*
+*The hundreds digit of 2019xN, given the divisors of 3N and 5N*
 
-> (Points 5) Of a positive integer N we know that the integer 3 × N has exactly 4 divisors and the integer 5 × N has exactly 6 divisors. What is the hundreds digit of the number 2019 × N? Note: The divisors of a number include 1 and the number itself. A) 1
-> 	
-> B) 3
-> 	
-> C) 8
-> 	
-> D) 9
-> 	
-> E) It cannot be established
+> (5 points) It is known that for a positive integer N, the integer 3 × N has exactly 4 divisors and the integer 5 × N has exactly 6 divisors. What is the hundreds digit of the number 2019 × N? Note: the divisors of a number include 1 and the number itself.
+> A) 1	
+>
+> B) 3	
+>
+> C) 8	
+>
+> D) 9	
+>
+> E) It is not possible to determine it
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q07|src_kangourou_2019_junior_semifinale__Q07]]
 
 
 
@@ -372,13 +426,22 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Central number in alignment 1-17 with square sums*
+*Central number in the 1-17 alignment with sums of squares*
 
-> (Points 5) The integers from 1 to 17 inclusive have been aligned so that the sum of two consecutive numbers is always a perfect square (and of course in the alignment each appears once and only once). What number is in the centre of the alignment? A) 3               B) 4
-> 	
-> C) 14 D) 13 E) 12 (72019)2 - (72017)2 ----------------------------- (72018)2 - (72016)2 A B C D E
+> (Point 5) The integers from 1 to 17 inclusive have been arranged in a sequence such that the sum of any two consecutive numbers is always a perfect square (and, obviously, in the sequence each number appears exactly once). Which number is in the middle position of the sequence?
+> A) 3               B) 4	
+>
+> C) 14	 	
+> D) 13	 	
+> E) 12
+> (72019)2 - (72017)2 ----------------------------- (72018)2 - (72016)2 A B C D E
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q08|src_kangourou_2019_junior_semifinale__Q08]]
 
 
 
@@ -412,17 +475,20 @@ Where the ball hits the left edge of the grid 4x2019*
 
 *How many distinct sums with addends 3 and 5 (constraints)*
 
-> (Points 6) How many sums all different from each other can be obtained by adding at least two
-> integers and at most nine integers, each of which is either 3 or 5, if we want there to be no more than six
-> addends equal to 3 and no more than three addends equal to 5?
-> A) 23
-> B) 25
-> C) 28
-> D) 26
-> E) 27
+> (6 points) How many sums, all of which are different from one another, can be obtained by adding at least two integers and at most nine integers, each of which is either 3 or 5, if it is required that there be no more than six addends equal to 3 and no more than three addends equal to 5?
+> A) 23	 	
+> B) 25	 	
+> C) 28	 	
+> D) 26	 	
+> E) 27 
 > Open-ended questions
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q09|src_kangourou_2019_junior_semifinale__Q09]]
 
 
 
@@ -446,10 +512,16 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many 3-digit n with tens digit half the units digit and prime factors of the same parity*
+*How many 3-digit numbers have the tens digit equal to half the units digit and prime factors of the same parity?*
 
-> (4 points) How many positive integers n with three significant digits are there such that the tens
-> digit of n is half of the units digit and the prime factors of n all have the same parity?
+> (Point 4) How many positive three-significant-digit integers n are there such that the tens digit of n is half the units digit and all prime factors of n have the same parity?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q10|src_kangourou_2019_junior_semifinale__Q10]]
 
 
 
@@ -475,11 +547,16 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum k by hanging a digit to the right of N to get kN*
+*Massimo k by appending a digit to the right of N to obtain kN*
 
-> (Points 5) To the (decimal) notation of a positive integer N I added a digit to the right: thus I obtained a number (with one digit more than N) that is k times N, with k an integer. What 's the maximum value of k ?
+> (Point 5) To the (decimal) notation of a positive integer N, I added a digit to the right; in doing so, I obtained a number (with one more digit than N has) that is k times N, where k is an integer. What is the maximum possible value of k?
 
-**Answer:** 19
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q11|src_kangourou_2019_junior_semifinale__Q11]]
 
 
 
@@ -504,9 +581,16 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fourth number of the geometric sequence from 6 to 192*
+*Fourth term of the geometric sequence from 6 to 192*
 
-> (Points 5) A sequence of 6 integers begins with 6 and ends with 192 and is constructed so that each intermediate number is the square root of the product of the number preceding it and the number following it. What is the fourth number?
+> (Point 5) A sequence of 6 integers begins with 6 and ends with 192, and is constructed so that each intermediate number is the square root of the product of the number preceding it and the number following it. What is the value of the fourth number?
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q12|src_kangourou_2019_junior_semifinale__Q12]]
 
 
 
@@ -532,12 +616,16 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of edges of a rectangular parallelepiped with octahedron volume 150*
+*Maximum sum of the edges of a parallelepiped with octahedron volume 150*
 
-> (6 points) In every rectangular parallelepiped the centers of the six faces are the vertices of an octahedron. If 
-> the measures of the edges of the parallelepiped are each expressed by an integer number of centimeters 
-> and the volume of the octahedron is 150 cm3, what can the sum of the measures of the 
-> edges of the parallelepiped be at most?
+> (Point 6) In any right rectangular parallelepiped, the centers of the six faces are the vertices of an octahedron. If the edge lengths of the parallelepiped are each expressed as an integer number of centimeters and the volume of the octahedron is 150 cm³, what is the maximum possible value of the sum of the edge lengths of the parallelepiped?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q13|src_kangourou_2019_junior_semifinale__Q13]]
 
 
 
@@ -565,14 +653,16 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many voters lied in the two towns of the referendum*
+*How many voters lied in the two cities where the referendum was held?*
 
-> (Points 6) In Kanglandia a referendum was held. In two small towns, A with 8,400 voters and B with
-> 6,900 voters, right after the vote every voter was asked how they had voted: in both
-> towns half of the answers obtained were "YES" and half were "NO". After the count, however, it
-> turned out that in A "YES" won with 70% of the votes while in B "NO" won always with 70%
-> of the votes. If, compatibly with the results obtained, in A the smallest possible number of
-> voters lied and in B the largest, how many voters lied altogether in the two towns?
+> (Point 6) A referendum was held in Kanglandia. In two towns—A, with 8,400 voters, and B, with 6,900 voters—immediately after voting, each voter was asked how they had voted: in both towns, half of the responses received were "YES" and half were "NO". However, once the votes had been counted, it turned out that in A "YES" had won with 70% of the votes, while in B "NO" had won with 70% of the votes as well. If, consistent with the results obtained, the fewest possible number of voters in A had lied and the maximum number in B had lied, how many voters in total had lied in the two towns?
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q14|src_kangourou_2019_junior_semifinale__Q14]]
 
 
 
@@ -598,9 +688,16 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum exchanges for reds twice as white (tokens)*
+*Minimum trades to get double red tokens compared to white tokens*
 
-> (Points 6) There are two token-changers: one provides three red tokens for one white, the other five white tokens for one red. I am starting with only 4 white tokens: what is the smallest number of exchanges that allows me to get twice as many red tokens as white tokens?
+> (Point 6) There are two token-exchange machines: one gives three red tokens for one white token, and the other gives five white tokens for one red token. I start with only 4 white tokens: what is the smallest number of exchanges that will allow me to end up with twice as many red tokens as white tokens?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q15|src_kangourou_2019_junior_semifinale__Q15]]
 
 
 
@@ -627,13 +724,16 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum score Giraffes (geometric vs arithmetic)*
+*Minimum Giraffe score (geometric vs arithmetic)*
 
-> (7 points) The Kangaroos team and the Giraffes team faced each other in a basketball
-> game. The game lasted four quarters: at the end of the first the teams were tied, but in the end
-> the Kangaroos won by a one-point margin. The Kangaroos' scores, considered individually in the
-> four quarters, are in geometric progression, while those of the Giraffes are in arithmetic progression.
-> What is the minimum possible value for the total score achieved at the end of the game by the Giraffes?
+> (Points 7) The Kangaroos team and the Giraffes team faced each other in a basketball game. The game had four quarters: at the end of the first quarter, the teams were tied, but in the end the Kangaroos won by one point. The Kangaroos' scores, considered individually across the four quarters, form a geometric progression, whereas the Giraffes' scores form an arithmetic progression. What is the minimum possible value of the total score the Giraffes accumulated by the end of the game?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q16|src_kangourou_2019_junior_semifinale__Q16]]
 
 
 
@@ -670,19 +770,28 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum grid blackout cells 6x2019 (connected domain)*
+*Minimum cells to darken: 6x2019 grid (connected domain)*
 
-> (Points 7) In a grid of square cells 6× 2019 we say that two cells are adjacent if we share one side. You want to blacken some cells so that
-> 	
-> (a) each white cell is adjacent to a black cell;
-> 	
-> (b) however two blackened cells are chosen, they can be connected by a sequence
-> 	
-> 	
-> ordered sequence of black cells starting with one of the two and terminating with the other, each
-> 	
-> 	
-> (except the last of the sequence) adjacent to the next one. What is the smallest number of cells that you can blacken to achieve the goal?
+> (Point 7) In a grid with square cells measuring 6×2019, we say that two cells are adjacent if they share a side. We want to blacken some cells so that
+>
+> a)	
+> Every cell that has remained white must be adjacent to at least one blackened cell;
+>
+> b)	
+> In any case, if two blackened cells are chosen, they can be connected by a sequence.
+>
+>
+> An ordered sequence of blackened cells that starts with one of the two and ends with the other, each
+>
+>
+> (except for the last one in the sequence) adjacent to the next one. What is the smallest number of cells that need to be blackened to achieve the goal?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q17|src_kangourou_2019_junior_semifinale__Q17]]
 
 
 
@@ -718,19 +827,15 @@ Where the ball hits the left edge of the grid 4x2019*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of the two break marks of the ruler*
+*Minimum sum of the two break marks on the ruler*
 
-> (Points 8) Enrica had a ruler with more than five marks, numbered in sequence: accidentally
-> she broke it into two parts with the breaking point between two marks. By chance, the
-> sum of the numbers present on the two parts is the same. What must the sum of the
-> numbers denoting the two marks between which the ruler broke be at minimum?
-> 
-> 0001
-> 0019
-> 0048
-> 0902
-> 7200
-> 0008
-> 0074
-> 4040
-> 0029
+> (Point 8) Enrica had a ruler with more than five marks, numbered in sequence: by accident, she broke it into two pieces, with the break point lying between two marks. Coincidentally, the sum of the numbers on the two pieces is the same. What must be the minimum value of the sum of the numbers denoting the two marks between which the ruler broke?
+>
+> 0001 0019 0048 0902 7200 0008 0074 4040 0029
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_semifinale#q18|src_kangourou_2019_junior_semifinale__Q18]]

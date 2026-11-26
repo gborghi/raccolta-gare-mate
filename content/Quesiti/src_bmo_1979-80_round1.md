@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Non provare alcuna soluzione integrale a $x^n+y^n=z^n$ con $0<x\le n$, $0<y\le n$*
+*Nessuna soluzione intera con $0 < x \le n$ e $0 < y \le n$*
 
-> Prova che l'equazione $x^n + y^n = z^n$, dove $n$ è un numero intero $> 1$, non ha soluzione nei numeri interi $x$, $y$, $z$, con $0 < x \le n$, $0 < y \le n$.
+> Dimostrare che l'equazione $x^n + y^n = z^n$, dove $n$ è un intero $> 1$, non ha soluzioni in interi $x$, $y$, $z$, con $0 < x \le n$, $0 < y \le n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1979-80_round1#q01|src_bmo_1979-80_round1__Q01]]
 
 
 
@@ -57,9 +64,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca 7 numeri interi consecutivi con un polinomio a coefficiente interi di grado-5 che scompare su 5 di essi*
+*Un insieme $S$ di 7 interi consecutivi e un polinomio di grado 5 con quelle proprietà*
 
-> Trovare un insieme $S = \{n\}$ di 7 integri positivi consecutivi per i quali esiste un polinomio $P(x)$ del quinto grado con le seguenti proprietà: (a) tutti i coefficienti di $P(x)$ sono integri; (b) $P(n) = n$ per 5 membri di $S$, compresi i più piccoli e i più grandi; (c) $P(n) = 0$ per un membro di $S$.
+> Trovare un insieme $S = \{n\}$ di 7 interi positivi consecutivi per cui esista un polinomio $P(x)$ di quinto grado con le proprietà seguenti:
+> (a) tutti i coefficienti di $P(x)$ sono interi;
+> (b) $P(n) = n$ per 5 elementi di $S$, compresi il minimo e il massimo;
+> (c) $P(n) = 0$ per un elemento di $S$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1979-80_round1#q02|src_bmo_1979-80_round1__Q02]]
 
 
 
@@ -84,11 +101,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato inserito in semicircolo; linea attraverso il vertice e il punto d'arco passa attraverso l'incentro del triangolo*
+*Una retta per uno fra $R$, $S$ e uno fra $A$, $B$ seca un lato del quadrato nell'incentro*
 
-> Sul diametro $AB$ che confina una regione semicircolare ci sono due punti $P$ e $Q$, e sull'arco semicircolare ci sono due punti $R$ e $S$ in modo tale che $PQRS$ sia quadrato. $C$ è un punto dell'arco semicircolare tale che le superfici del triangolo $ABC$ e del quadrato $PQRS$ siano uguali.
-> 
-> Prova che una linea retta che attraversa uno dei punti $R$ e $S$ e uno dei punti $A$ e $B$ taglia un lato del quadrato al centro del triangolo.
+> Sul diametro $AB$ che delimita una regione semicircolare ci sono due punti $P$ e $Q$, e sull'arco semicircolare ci sono due punti $R$ e $S$ tali che $PQRS$ sia un quadrato. $C$ è un punto dell'arco semicircolare tale che le aree del triangolo $ABC$ e del quadrato $PQRS$ siano uguali.
+>
+> Dimostrare che una retta passante per uno dei punti $R$ e $S$ e per uno dei punti $A$ e $B$ seca un lato del quadrato nell'incentro del triangolo.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1979-80_round1#q03|src_bmo_1979-80_round1__Q03]]
 
 
 
@@ -114,9 +138,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i valori iniziali $a_0$ che rendono la ricorrenza $a_{n+1}=2^n-3a_n$ in aumento*
+*L'insieme degli $a_0$ reali per cui la successione è strettamente crescente*
 
-> Trova l'insieme dei numeri reali $a_0$ per i quali la sequenza infinita $\{a_n\}$ dei numeri reali definiti da $$a_{n+1} = 2^n - 3a_n \qquad (n \ge 0)$$ è strettamente in aumento, cioè $$a_n < a_{n+1} \qquad (n \ge 0).$$
+> Trovare l'insieme dei numeri reali $a_0$ per cui la successione infinita $\{a_n\}$ di numeri reali definita da
+> $$a_{n+1} = 2^n - 3a_n \qquad (n \ge 0)$$
+> è strettamente crescente, cioè
+> $$a_n < a_{n+1} \qquad (n \ge 0).$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1979-80_round1#q04|src_bmo_1979-80_round1__Q04]]
 
 
 
@@ -139,6 +173,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Partito di 10: ogni 3 contiene 2 estranei; dimostra l'esistenza di 4 reciproci estranei*
+*Quattro persone di cui nessuna conosce un'altra delle quattro*
 
-> In un gruppo di dieci persone, tra tutte e tre persone ci sono almeno due che non si conoscono. Prove che alla festa ci sono quattro persone, nessuna delle quali conosce un'altra delle quattro.
+> In una festa di dieci persone, fra tre persone qualunque ce ne sono almeno due che non si conoscono. Dimostrare che alla festa ci sono quattro persone di cui nessuna conosce un'altra delle quattro.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1979-80_round1#q05|src_bmo_1979-80_round1__Q05]]

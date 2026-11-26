@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers divisible by 11 with N/11 sum to square digits*
+*Three-digit numbers divisible by 11 whose quotient is the sum of the squares of the digits*
 
-> Determine all three digit numbers $N$ such that $N$ is divisible by 11 and $N/11$ is equal to the sum of the squares of the digits $N$.
+> Determine all three-digit numbers $N$ such that $N$ is divisible by 11 and $N/11$ equals the sum of the squares of the digits of $N$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imho_1960#q01|src_imho_1960__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values of x for which the inequality is rooted*
+*Values of x satisfying a rational inequality*
 
-> For which values of the variable $x$ is the following inequality: $$\frac{4x^2}{\left(1 - \sqrt{1 + 2x}\right)^2} < 2x + 9\,?$$
+> For which values of the variable $x$ does the following inequality hold:
+> $$\frac{4x^2}{\left(1 - \sqrt{1 + 2x}\right)^2} < 2x + 9\,?$$
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imho_1960#q02|src_imho_1960__Q02]]
 
 
 
@@ -81,9 +96,17 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Try tan(alpha)=4nh/(((n^2-1) a) in the rectangular triangle*
+*Tangent of an angle subtended at the midpoint of a divided hypotenuse*
 
-> In a given $ABC$ rectangle, the hypotenuse $BC$, of length $a$, is divided into $n$ equal parts ($n$ odd integer). Either $\alpha$ the acute angle below $A$ to the segment containing the midpoint of the hypotenuse. Either $h$ the length of the height relative to the hypotenuse of the triangle. Provide proof that: $$\tan \alpha = \frac{4nh}{(n^2 - 1)a}.$$
+> In a given right triangle $ABC$, the hypotenuse $BC$, of length $a$, is divided into $n$ equal parts ($n$ an odd integer). Let $\alpha$ be the acute angle subtended at $A$ by the segment that contains the midpoint of the hypotenuse. Let $h$ be the length of the altitude to the hypotenuse. Prove that:
+> $$\tan \alpha = \frac{4nh}{(n^2 - 1)a}.$$
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imho_1960#q03|src_imho_1960__Q03]]
 
 
 
@@ -105,9 +128,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Building triangle data has, hb and median but*
+*Construct a triangle given two altitudes and a median*
 
-> Construct the triangle $ABC$, data $h_a$, $h_b$ (heights from $A$ and from $B$) and $m_a$, the median from the vertex $A$.
+> Construct the triangle $ABC$, given $h_a$, $h_b$ (the altitudes from $A$ and from $B$) and $m_a$, the median from the vertex $A$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imho_1960#q04|src_imho_1960__Q04]]
 
 
 
@@ -134,13 +163,20 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Medium and point locations on cube segments*
+*Locus of midpoints of segments joining two opposite edges of a cube*
 
-> Consider the $ABCDA'B'C'D'$ cube (with the $ABCD$ face directly above the $A'B'C'D'$ face).
-> 
-> (a) Find the geometric location of the mean points of the $XY$ segments, where $X$ is any point of $AC$ and $Y$ is any point of $B'D'$.
-> 
-> (b) Find the geometric location of the $Z$ points lying on the $XY$ segments of part (a) with $ZY = 2XZ$.
+> Consider the cube $ABCDA'B'C'D'$ (with the face $ABCD$ directly above the face $A'B'C'D'$).
+>
+> (a) Find the locus of the midpoints of the segments $XY$, where $X$ is any point of $AC$ and $Y$ is any point of $B'D'$.
+>
+> (b) Find the locus of the points $Z$ lying on the segments $XY$ of part (a) with $ZY = 2XZ$.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imho_1960#q05|src_imho_1960__Q05]]
 
 
 
@@ -167,13 +203,20 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cone with inscribed sphere and circumscribed cylinder, minimum k*
+*A cone, its inscribed sphere, and a circumscribed cylinder*
 
-> Consider a rotating cone with a tangent inscribed sphere at the base of the cone. A cylinder is surrounded by this sphere so that one of its bases lies at the base of the cone. Both $V_1$ the cone volume and $V_2$ the cylinder volume.
-> 
-> (a) Demonstrate that $V_1 \neq V_2$.
-> 
-> (b) Find the smallest number $k$ for which $V_1 = k V_2$; in this case, construct the angle below a diameter of the base of the cone to the top of the cone.
+> Consider a cone of revolution with an inscribed sphere tangent to the base of the cone. A cylinder is circumscribed about this sphere so that one of its bases lies in the base of the cone. Let $V_1$ be the volume of the cone and $V_2$ the volume of the cylinder.
+>
+> (a) Prove that $V_1 \neq V_2$.
+>
+> (b) Find the least number $k$ for which $V_1 = k V_2$; for this case, construct the angle subtended by a diameter of the base of the cone at the vertex of the cone.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imho_1960#q06|src_imho_1960__Q06]]
 
 
 
@@ -202,12 +245,19 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Points on the axis of an isosceles trapezoid at right angles*
+*Points on the axis of an isosceles trapezium at which the legs subtend right angles*
 
-> An isosceles trapezoid with bases $a$ and $c$ and height $h$ is given.
-> 
-> (a) On the axis of symmetry of this trapezoid, find all points $P$ such that both oblique sides of the trapezoid subtract right angles in $P$.
-> 
-> (b) Calculate the distance $P$ from each base.
-> 
-> (c) Determine under what conditions such$P$points actually exist (discuss the various cases that may arise).
+> An isosceles trapezium is given, with bases $a$ and $c$ and height $h$.
+>
+> (a) On the axis of symmetry of this trapezium, find all points $P$ such that both non-parallel sides of the trapezium subtend right angles at $P$.
+>
+> (b) Compute the distance of $P$ from each of the bases.
+>
+> (c) Determine under which conditions such points $P$ actually exist (discuss the various cases that may arise).
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imho_1960#q07|src_imho_1960__Q07]]

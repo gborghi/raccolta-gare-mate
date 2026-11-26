@@ -30,11 +30,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo numero a 5 cifre la cui somma di cifre è 8 e che diventa un quadrato perfetto quando si aggiunge 1*
+*Il più piccolo numero di 5 cifre la cui somma delle cifre è 8 e che diventa un quadrato perfetto quando gli si aggiunge 1*
 
-> Un intero positivo è chiamato un numero **di quest'anno** se la somma digitali è uguale a $8$ e aggiungendo $1$ a esso si ottiene un quadrato perfetto. Ad esempio, $2024$ è un tale numero. Trova il numero a 5 cifre più piccolo di quest'anno.
+> Un numero intero positivo è detto **numero di quest'anno** se la somma delle sue cifre è uguale a $8$ e se, sommando $1$ a tale numero, si ottiene un quadrato perfetto. Ad esempio, $2024$ è un numero di questo tipo. Trovare il più piccolo numero di 5 cifre di quest'anno.
 
-**Risposta:** 10403
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo22yqa_yosen#q01|src_jjmo22yqa_yosen__Q01]]
 
 
 
@@ -60,13 +65,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la lunghezza BC utilizzando due cerchi concentrici, secanti e tangenti*
+*Trovare la lunghezza BC utilizzando due cerchi concentrici, una secante e una tangente*
 
-> Come mostrato nella figura seguente, ci sono due cerchi $\Gamma_1$ e $\Gamma_2$ con centro $O$. I punti $A$ e $B$ siano due punti distinti su $\Gamma_1$. Il segmento $AB$ incontra $\Gamma_2$ in due punti distinti; $C$ sia quello più vicino a $B$. C'è anche un punto $D$ su $\Gamma_2$ tale che la riga $AD$ sia tangente a $\Gamma_2$. Dato che $AC = 9$ e $AD = 6$, trovare la lunghezza $BC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Come mostrato nella figura sottostante, ci sono due cerchi $\Gamma_1$ e $\Gamma_2$ con centro $O$. Siano $A$ e $B$ due punti distinti su $\Gamma_1$. Il segmento $AB$ incontra $\Gamma_2$ in due punti distinti; sia $C$ quello più vicino a $B$. C'è anche un punto $D$ su $\Gamma_2$ tale che la retta $AD$ è tangente a $\Gamma_2$. Dati $AC = 9$ e $AD = 6$, determina la lunghezza $BC$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
 ![[src_jjmo22yqa_yosen__q02.png]]
 
-**Risposta:** 4
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo22yqa_yosen#q02|src_jjmo22yqa_yosen__Q02]]
 
 
 
@@ -90,11 +100,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Arrangimenti di conteggio di 2024 pietre nere e bianche con condizione di maggioranza di segno-flip*
+*Conta le disposizioni di 2024 pietre bianche e nere con una condizione di maggioranza per l'inversione del segno*
 
-> Un totale di pietre $2024$  bianche e nere  sono disposte in fila. Si è scoperto che il numero di pietre nere che hanno una pietra bianca a destra è maggiore del numero di pietre nere che hanno una pietra bianca a sinistra. Trova il numero di tali accordi.
+> In totale, $2024$ pietre — bianche e nere — sono disposte in una riga. È risultato che il numero di pietre nere che hanno una pietra bianca alla loro destra è maggiore del numero di pietre nere che hanno una pietra bianca alla loro sinistra. Determinare il numero di tali disposizioni.
 
-**Risposta:** 2^{2022}
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo22yqa_yosen#q03|src_jjmo22yqa_yosen__Q03]]
 
 
 
@@ -120,13 +135,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il più piccolo razionale positivo con espansione decimale finita il cui numero intero e parti frazionarie hanno il prodotto 42*
+*Trovare il più piccolo numero razionale positivo con sviluppo decimale finito il cui prodotto tra la parte intera e la parte frazionaria sia 42*
 
-> Un numero razionale positivo $x$ può essere espresso come decimale terminale, e il prodotto della sua parte integrale e della sua parte frazionaria equivale a $42$. Trovare il più piccolo $x$.
-> 
-> (Un **terminante decimale** è un decimale con finitamente molte cifre non zero dopo il punto decimale, come $2.024$ o $5$. Per un numero reale positivo $r$, la parte integrale **** di $r$ è il numero intero più grande non superiore a $r$, e la parte frazionaria **** di $r$ è $r$ meno la sua parte integrale. Ad esempio, la parte integrale di $2.024$ è $2$, la parte frazionaria è $0.024$; la parte integrale di $5$ è $5$, la parte frazionaria è $0$.)
+> Un numero razionale positivo $x$ può essere espresso come decimale finito, e il prodotto della sua parte intera per la sua parte frazionaria è uguale a $42$. Determinare il più piccolo $x$ di questo tipo.
+>
+> (Un **decimale finito** è un decimale con un numero finito di cifre non nulle dopo la virgola, come $2.024$ o $5$. Per un numero reale positivo $r$, la **parte intera** di $r$ è il più grande intero non superiore a $r$, e la **parte frazionaria** di $r$ è $r$ meno la sua parte intera. Ad esempio, la parte intera di $2.024$ è $2$, la parte frazionaria è $0.024$; la parte intera di $5$ è $5$, la parte frazionaria è $0$.)
 
-**Risposta:** 48.875
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo22yqa_yosen#q04|src_jjmo22yqa_yosen__Q04]]
 
 
 
@@ -150,11 +170,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di ABCD quadrilaterale con BC=1, angolo C=90 deg, AC=AD, triangolo ABD e BCD simile*
+*Area del quadrilatero ABCD con BC=1, angolo C=90°, AC=AD, triangoli ABD e BCD simili*
 
-> C'è un quadrilaterale $ABCD$ che soddisfa $BC = 1$, $\angle BCD = 90^\circ$ e $AC = AD$. Dato che i triangoli $ABD$ e $BCD$ sono simili, si trova l'area del quadrilaterale $ABCD$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Esiste un quadrilatero $ABCD$ che soddisfa $BC = 1$, $\angle BCD = 90^\circ$ e $AC = AD$. Dato che i triangoli $ABD$ e $BCD$ sono simili, determina l'area del quadrilatero $ABCD$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-**Risposta:** \dfrac{5\sqrt{2}}{4}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo22yqa_yosen#q05|src_jjmo22yqa_yosen__Q05]]
 
 
 
@@ -180,11 +205,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare 6 doppi di numeri interi positivi con gcd 1 in modo tale che sei rapporti specificati siano tutti numeri interi*
+*Conta le 6-tuple di interi positivi con mcd uguale a 1 tali che sei rapporti specificati siano tutti interi*
 
-> Trova il numero di 6 doppi $(a_1, a_2, a_3, a_4, a_5, a_6)$ di numeri interi positivi con $\gcd(a_1, a_2, a_3, a_4, a_5, a_6) = 1$ in modo tale che tutte le sei quantità $$\frac{a_1}{a_2},\quad \frac{2a_2}{a_3},\quad \frac{3a_3}{a_4},\quad \frac{4a_4}{a_5},\quad \frac{5a_5}{a_6},\quad \frac{6a_6}{a_1}$$ siano numeri interi.
+> Trovare il numero di 6-tuple $(a_1, a_2, a_3, a_4, a_5, a_6)$ di interi positivi con $\gcd(a_1, a_2, a_3, a_4, a_5, a_6) = 1$ tali che tutte e sei le quantità
+> $$\frac{a_1}{a_2},\quad \frac{2a_2}{a_3},\quad \frac{3a_3}{a_4},\quad \frac{4a_4}{a_5},\quad \frac{5a_5}{a_6},\quad \frac{6a_6}{a_1}$$
+> siano intere.
 
-**Risposta:** 15876
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo22yqa_yosen#q06|src_jjmo22yqa_yosen__Q06]]
 
 
 
@@ -212,15 +244,20 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri interi n in [10^98, 10^100) in modo tale che l'operazione di cancellazione lascia esattamente 3 numeri*
+*Conta gli interi n in [10^98, 10^100) tali che l'operazione di cancellazione lasci esattamente 3 numeri*
 
-> $n$ sia un numero intero con $10^{98} \le n < 10^{100}$. Scrivere i numeri interi da $1$ a $n$ su una lavagna, quindi eseguire ripetutamente la seguente operazione fino a quando non rimangono al massimo i numeri $3$ sulla lavagna:
-> 
-> *Sbarazzare contemporaneamente tutti i numeri della scheda che si trovano in posizione a quadrato perfetto dalla più piccola (cioè cancellare la 1a più piccola, la 4a più piccola, la 9a più piccola, ecc.).*
-> 
-> Trovare il numero di valori di $n$ per i quali i numeri $3$ rimangono sulla lavagna quando l'operazione termina.
+> Sia $n$ un numero intero tale che $10^{98} \le n < 10^{100}$. Scrivi sulla lavagna i numeri interi da $1$ a $n$, poi esegui ripetutamente l'operazione seguente finché sulla lavagna non restano al più $3$ numeri:
+>
+> *Cancella simultaneamente tutti i numeri presenti sulla lavagna che si trovano in una posizione corrispondente a un quadrato perfetto, a partire dal più piccolo (cioè cancella il 1° più piccolo, il 4° più piccolo, il 9° più piccolo, ecc.).*
+>
+> Determina il numero di valori di $n$ per cui, al termine dell'operazione, sulla lavagna restano esattamente $3$ numeri.
 
-**Risposta:** 18 \cdot 10^{49}
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo22yqa_yosen#q07|src_jjmo22yqa_yosen__Q07]]
 
 
 
@@ -249,15 +286,21 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per riempire la griglia 2024x2024 con J,M,O in due condizioni*
+*Conta i modi per riempire una griglia 2024x2024 con J, M, O rispettando due condizioni*
 
-> Trovare il numero di modi per riempire ogni cella di una griglia $2024 \times 2024$ con una delle lettere J, M, O in modo tale che soddisfino entrambe le seguenti condizioni:
-> 
-> - Ogni $2 \times 2$ sottogrid contiene esattamente $2$ copie di J, $1$ copia di M e $1$ copia di O. - Ogni cella di una riga a numeri odd (conteggiata dall'alto) e di una colonna a numeri odd (conteggiata dalla sinistra) contiene la lettera J.
-> 
-> (I dispositivi che coincidono dopo la rotazione o la riflessione sono considerati come distinti.)
+> Trovare il numero di modi per riempire ogni cella di una griglia $2024 \times 2024$ con una delle lettere J, M, O, in modo che siano soddisfatte entrambe le seguenti condizioni:
+>
+> - Ogni sottogriglia $2 \times 2$ contiene esattamente $2$ occorrenze di J, $1$ occorrenze di M e $1$ occorrenze di O.
+> - Ogni cella di una riga di numero dispari (contando dall'alto) e di una colonna di numero dispari (contando da sinistra) contiene la lettera J.
+>
+> (Le disposizioni che coincidono dopo una rotazione o una riflessione sono considerate distinte.)
 
-**Risposta:** 3 \cdot 2^{1013} - 6
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo22yqa_yosen#q08|src_jjmo22yqa_yosen__Q08]]
 
 
 
@@ -292,19 +335,27 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i tour hamiltoniani in fase 2024 sulle celle 2024 con movimenti limitati che ritornano alla cellula 1*
+*Conta i giri hamiltoniani di 2024 passi su 2024 celle con mosse restrette che ritornano alla cella 1*
 
-> Ci sono $2024$ celle etichettate $1, 2, \ldots, 2024$, e un pezzo che inizia sulla cella $1$. Per un numero intero $k$ con $1 \le k \le 2024$, quando il pezzo è in cella $k$, può essere eseguita una delle seguenti mosse:
-> 
-> 1. Traslocare il pezzo nella cella $k - 1$. 2. Trasferire il pezzo nella cella $k + 1$. 3. Trasferire il pezzo nella cella $k - 2$ (autorizzato solo quando $k$ è pari). 4. Trasferire il pezzo nella cella $k + 2$ (autorizzato solo quando $k$ è pari).
-> 
-> Trova il numero di sequenze di movimenti $2024$ esattamente in modo che il pezzo visita ogni cella diversa dalla cella $1$ esattamente una volta e ritorni alla cella $1$ alla fine, senza visitare la cella $1$ in mezzo.
-> 
-> (Qui le celle $0$ e $2025$ rappresentano le celle $2024$ e $1$, rispettivamente.)
+> Ci sono $2024$ celle etichettate $1, 2, \ldots, 2024$, e un pezzo che parte dalla cella $1$. Per un intero $k$ tale che $1 \le k \le 2024$, quando il pezzo si trova nella cella $k$, si può eseguire una qualsiasi delle seguenti mosse:
+>
+> 1. Spostare il pezzo nella cella $k - 1$.
+> 2. Spostare il pezzo nella cella $k + 1$.
+> 3. Spostare il pezzo nella cella $k - 2$ (consentito solo quando $k$ è pari).
+> 4. Spostare il pezzo nella cella $k + 2$ (consentito solo quando $k$ è dispari).
+>
+> Determinare il numero di sequenze composte esattamente da $2024$ mosse tali che il pezzo visiti esattamente una volta ogni cella diversa dalla cella $1$ e torni alla cella $1$ alla fine, senza visitare la cella $1$ nel frattempo.
+>
+> (Qui le celle $0$ e $2025$ rappresentano rispettivamente le celle $2024$ e $1$.)
 
 ![[src_jjmo22yqa_yosen__q09.png]]
 
-**Risposta:** 2026
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_grafi|Grafi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo22yqa_yosen#q09|src_jjmo22yqa_yosen__Q09]]
 
 
 
@@ -328,11 +379,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca AB in un triangolo dato ABC con BC=16, D,E su BC, DF parallelo AC, EF parallelo AB, F su circolo, circolo di DEF tangente a AB*
+*Trovare AB dato il triangolo ABC con BC=16, D ed E su BC, DF parallela ad AC, EF parallela ad AB, F sulla circonferenza circoscritta, la circonferenza circoscritta a DEF tangente ad AB*
 
-> Nel triangolo $ABC$ con $BC = 16$, i punti $D$ e $E$ si trovano sul lato $BC$ con $BD = 1$ e $EC = 7$. Il $F$ è l'intersezione della linea attraverso $D$ parallela a $AC$ e la linea attraverso $E$ parallela a $AB$. È dato che $F$ si trova sul circoncircolo del triangolo $ABC$. Quando il circoncircolo del triangolo $DEF$ è tangente a lato $AB$, si trova la lunghezza $AB$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Nel triangolo $ABC$ con $BC = 16$, i punti $D$ e $E$ giacciono sul lato $BC$ con $BD = 1$ e $EC = 7$. Sia $F$ l'intersezione della retta passante per $D$ e parallela a $AC$ con la retta passante per $E$ e parallela a $AB$. È dato che $F$ giace sulla circonferenza circoscritta al triangolo $ABC$. Quando la circonferenza circoscritta al triangolo $DEF$ è tangente al lato $AB$, determina la lunghezza $AB$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-**Risposta:** 3 + 3\sqrt{15}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo22yqa_yosen#q10|src_jjmo22yqa_yosen__Q10]]
 
 
 
@@ -360,13 +416,20 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i tuppi di sequenza di segno raggiungibili (s1,...,s100) da permutazioni di 1..100*
+*Conta le n-uple di sequenze di segni realizzabili (s1,...,s100) ricavate dalle permutazioni di 1..100*
 
-> $a_1, a_2, \ldots, a_{100}$ sia una permutazione di $1, 2, \ldots, 100$. Per ogni numero intero $n$ con $1 \le n \le 100$, definire il numero intero $s_n$ da $$s_n = \begin{cases} 1 & (a_n > n), \\ 0 & (a_n = n), \\ -1 & (a_n < n). \end{cases}$$ Trovare il numero di tupli distinti $(s_1, s_2, \ldots, s_{100})$ che possono derivare da qualche permutazione di $1, 2, \ldots, 100$.
-> 
-> (Una permutazione di $1, 2, \ldots, 100$ è una sequenza di lunghezza $100$ in cui ciascuno dei numeri interi $1$ attraverso $100$ appare esattamente una volta.)
+> Sia $a_1, a_2, \ldots, a_{100}$ una permutazione di $1, 2, \ldots, 100$. Per ogni intero $n$ tale che $1 \le n \le 100$, si definisca l'intero $s_n$ mediante
+> $$s_n = \begin{cases} 1 & (a_n > n), \\ 0 & (a_n = n), \\ -1 & (a_n < n). \end{cases}$$
+> Si determini il numero di n-uple distinte $(s_1, s_2, \ldots, s_{100})$ che possono risultare da una qualche permutazione di $1, 2, \ldots, 100$.
+>
+> (Una permutazione di $1, 2, \ldots, 100$ è una successione di lunghezza $100$ in cui ciascuno degli interi da $1$ a $100$ compare esattamente una volta.)
 
-**Risposta:** \dfrac{3^{100} - 197}{4}
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo22yqa_yosen#q11|src_jjmo22yqa_yosen__Q11]]
 
 
 
@@ -397,12 +460,20 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il massimo N tale che 2N interi positivi a_i, x_i soddisfino quattro condizioni di divisibilità e concatenamento*
+*Trovare il massimo N tale che 2N interi positivi a_i, x_i soddisfino quattro condizioni di divisibilità e di concatenazione*
 
-> $N$ sia un numero intero positivo. Trova il valore massimo di $N$ in modo tale che esistano $2N$ interi positivi $a_1, a_2, \ldots, a_N, x_1, x_2, \ldots, x_N$ che soddisfano tutte le seguenti condizioni:
-> 
-> - Ogni $x_i$ è un divisore di $9 \cdot 10^{100}$. - $x_i \ne x_{i+1}$ per ogni numero intero $i$ con $1 \le i \le N - 1$. - Per ogni numero intero $i$ con $1 \le i \le N - 1$, $a_{i+1}$ si ottiene aggiungendo $x_i$ alla fine di $a_i$. - Per ogni numero intero $i$ con $1 \le i \le N$, $a_i$ è un multiple di $x_i$.
-> 
-> (Per i numeri interi positivi $s$ e $t$, aggiungere $t$ alla fine di $s$ significa scrivere la rappresentazione decimale di $s$ immediatamente seguita dalla rappresentazione decimale di $t$. Ad esempio, aggiungendo $22$ a $2024$ si ottiene $202422$.)
+> Sia $N$ un numero intero positivo. Determinare il valore massimo di $N$ tale che esistano $2N$ numeri interi positivi $a_1, a_2, \ldots, a_N, x_1, x_2, \ldots, x_N$ che soddisfino tutte le seguenti condizioni:
+>
+> - Ogni $x_i$ è un divisore di $9 \cdot 10^{100}$.
+> - $x_i \ne x_{i+1}$ per ogni numero intero $i$ con $1 \le i \le N - 1$.
+> - Per ogni numero intero $i$ con $1 \le i \le N - 1$, $a_{i+1}$ si ottiene aggiungendo $x_i$ alla fine di $a_i$.
+> - Per ogni numero intero $i$ con $1 \le i \le N$, $a_i$ è un multiplo di $x_i$.
+>
+> (Per numeri interi positivi $s$ e $t$, aggiungere $t$ alla fine di $s$ significa scrivere la rappresentazione decimale di $s$ seguita immediatamente dalla rappresentazione decimale di $t$. Ad esempio, aggiungere $22$ a $2024$ dà $202422$.)
 
-**Risposta:** 805
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo22yqa_yosen#q12|src_jjmo22yqa_yosen__Q12]]

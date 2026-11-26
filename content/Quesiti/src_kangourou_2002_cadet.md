@@ -41,13 +41,31 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Larger fraction*
+*Which of the fractions is the largest*
 
-> Which of the following numbers, expressed as fractions, is the largest?
->  
-> A. 7 6         B. 55 44         C. 666 555         D. 8888 7777        E. 44444 33333 .
+> Which of the following numbers, written as a fraction, is the largest?
+>
+> A.
+> 7
+> 6
+> B.
+> 55
+> 44
+> C.
+> 666
+> 555
+> D.
+> 8888
+> 7777
+> E.
+> 44444
+> 33333
+> .
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_cadet#q01|src_kangourou_2002_cadet__Q01]]
 
 
 
@@ -82,23 +100,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Turns of the small wheel*
+*What the smaller gear does when the larger one turns once anticlockwise*
 
 ![[src_kangourou_2002_cadet__prob2.png]]
 
-> In a machine there are two gear wheels arranged like those in the figure. The
-> radius of the larger wheel is 3 times the radius of the other. What happens to the
-> smaller wheel if the larger one makes one turn in a counterclockwise direction (that is, in the direction
-> opposite to that of the hands of a clock)?
-> 
-> A.  it makes one turn in a clockwise direction
-> B.  it makes three turns in a clockwise direction
-> C.  it makes three turns in a counterclockwise direction
-> 
-> D.  it makes nine turns in a clockwise direction
-> E. it makes nine turns in a counterclockwise direction.
+> In a machine there are two toothed wheels arranged like those in the figure. The radius of the larger wheel is 3 times the radius of the other. What happens to the smaller wheel if the larger one makes one turn anticlockwise (that is, in the direction opposite to that of the hands of a clock)?
+>
+> A. it makes one turn clockwise
+> B. it makes three turns clockwise
+> C. it makes three turns anticlockwise
+> D. it makes nine turns clockwise
+> E. it makes nine turns anticlockwise.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_cadet#q02|src_kangourou_2002_cadet__Q02]]
 
 
 
@@ -135,19 +152,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Applause by multiples or digit 3*
+*How many times one must clap while counting from 1 to 100*
 
-> In a game, you have to count from 1 to 100 and applaud each time you meet either an integer multiple of 3 or a number that ends in 3. How many times do you have to applaud?
->  
-> A. 30 B. 33        C. 36 D. 39 E. 43
->  
->  
-> 
-> Kangourou Italy 2002, category Cadet.
->  
+> In a game one must count from 1 to 100 and clap every time one meets either a whole multiple of 3 or a number that ends in 3. How many times will one have to clap?
+>
+> A. 30
+> B. 33
+> C. 36
+> D. 39
+> E. 43
+>
+> Kangourou Italia 2002, Cadet category. Page no.
 > 2
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_cadet#q03|src_kangourou_2002_cadet__Q03]]
 
 
 
@@ -177,13 +199,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solar day in Newbury*
+*The time of solar noon at Newbury on 1 July*
 
-> The July1°in Newbury the sun rises at 4:53 a.m. and sets at 9:25 p.m. The solar noon is therefore halfway between these two hours. What time is the solar noon in Newbury on1°of July?
->  
-> A. 11:08 B. 12:39 C. 13:09            D. 16:32 E. 12:00
+> On 1 July at Newbury the sun rises at 4:53 and sets at 21:25. Solar noon is therefore halfway between these two times. At what time is solar noon at Newbury on 1 July?
+>
+> A. 11:08
+> B. 12:39
+> C. 13:09
+> D. 16:32
+> E. 12:00
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_cadet#q04|src_kangourou_2002_cadet__Q04]]
 
 
 
@@ -222,13 +251,32 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded fraction of the rectangle*
+*What fraction of the rectangle is shaded*
 
-> Look at the figure. K, L, M, N are the midpoints of the rectangle ABCD; similarly O, P, R, S are the midpoints of the sides of the KLMN quadrilateral. What fraction of the area of the ABCD rectangle is shaded?
->                                      
-> A. 3/5         B. 2/3     C. 5/6        D. 3/4          E. 5/7 .
+> Look at the figure. K, L, M, N are the midpoints of the rectangle ABCD; likewise O, P, R, S are the midpoints of the sides of the quadrilateral KLMN. What fraction of the area of the rectangle ABCD is shaded?
+>
+> A.
+> 5
+> 3
+> B.
+> 3
+> 2
+> C.
+> 6
+> 5
+> D.
+> 4
+> 3
+> E.
+> 7
+> 5
+> .
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_cadet#q05|src_kangourou_2002_cadet__Q05]]
 
 
 
@@ -256,16 +304,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expression with the highest result*
+*Which expression gives the greatest result*
 
 > Which of the following expressions gives the greatest result?
->  
-> A. 10 × 0,001× 100          B. 0,01 : 100         C. 100 : 0,01
->  
->  
-> D. 10 000 × 100 : 10         E. 0,1 × 0,01 × 10 000 .
+>
+> A. 10 × 0.001 × 100
+> B. 0.01 : 100
+> C. 100 : 0.01
+> D. 10 000 × 100 : 10
+> E. 0.1 × 0.01 × 10 000.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_cadet#q06|src_kangourou_2002_cadet__Q06]]
 
 
 
@@ -300,18 +352,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Days and eggs remaining for the order*
+*After how many days Alfonso can fill the order, and how many eggs remain*
 
-> Alfonso the pastry chef produces 23 Easter eggs a day and receives a request for 2002 eggs just on a day when he no longer has eggs in stock. After how many days (including the first) can Alfonso fulfill the order and how many eggs does he have left after sending the 2002 eggs?
->  
-> A. 87 days, remaining eggs: none
->  
-> B. 87 days, remaining eggs: 1 C. 88 days, remaining eggs: 20
->  
->  
-> D. 88 days, remaining eggs: 21 E. 88 days, remaining eggs: 22.
+> Alfonso the pastry-cook produces 23 Easter eggs a day and receives an order for 2002 eggs on a day when he has no eggs left in store. After how many days (including the first) can Alfonso fill the order, and how many eggs remain after he has sent the 2002 eggs?
+>
+> A. 87 days, eggs remaining: none
+> B. 87 days, eggs remaining: 1
+> C. 88 days, eggs remaining: 20
+> D. 88 days, eggs remaining: 21
+> E. 88 days, eggs remaining: 22.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_cadet#q07|src_kangourou_2002_cadet__Q07]]
 
 
 
@@ -347,13 +401,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum points visible on the dice*
+*The greatest number of pips that can be seen at once*
 
-> The bottom face of the dice in the figure has 6 points, the left face has 4, the back face has 2. Assuming you can't see more than three faces at a time, what is the maximum number of points that can be seen simultaneously by turning the cube?
->                                                          
-> A. 15        B. 14        C. 13        D. 12        E. Another number.
+> The lower face of the die in the figure has 6 pips, the face on the left has 4, the rear face has 2. Assuming one cannot see more than three faces at the same time, what is the greatest number of pips that can be seen at the same time by turning the cube over?
+>
+> A. 15
+> B. 14
+> C. 13
+> D. 12
+> E. another number.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_cadet#q08|src_kangourou_2002_cadet__Q08]]
 
 
 
@@ -389,24 +450,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*False statement about animals*
+*Which statement about the four pets is false*
 
-> Fabio, Giulia, Mauro and Nadia each own only one animal. Their animals 
->     are a dog, a canary, a cat and a goldfish. Mauro's animal has      
->     fur; Fabio's has 4 legs; Nadia has a small bird and both Giulia and Mauro do not    
->     own cats. Which of the following statements is false? 
->  
-> 
-> Kangourou Italia 2002, Cadet category.     Page No.  
->  
-> 3 
->      A. Fabio has a dog  
-> B. Nadia has a canary 
-> C. Giulia has a fish 
-> D. Fabio has a cat  
+> Fabio, Giulia, Mauro and Nadia each own only one animal. Their animals are a dog, a canary, a cat and a goldfish. Mauro's animal has fur; Fabio's has 4 legs; Nadia has a little bird, and neither Giulia nor Mauro owns a cat. Which of the following statements is false?
+>
+> Kangourou Italia 2002, Cadet category. Page no.
+> 3
+> A. Fabio has a dog
+> B. Nadia has a canary
+> C. Giulia has a fish
+> D. Fabio has a cat
 > E. Mauro has a dog
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_cadet#q09|src_kangourou_2002_cadet__Q09]]
 
 
 
@@ -436,14 +495,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of plums
+*How many of the crates can contain plums, at most*
 
-> A box of apples costs 2 euros, a box of pears costs 3 euros and a box of plums costs 4 euros. If eight boxes of fruit cost 23 euros, how many of them, at most, can contain plums? A. 1          B. 2          C. 3          D. 4          E. 5.
->  
->  
-> The questions from N. 11 to N. 20 are worth 4 points each.
+> A crate of apples costs 2 €, a crate of pears costs 3 € and a crate of plums costs 4 €. If 8 crates of fruit cost 23 €, how many of them, at most, can contain plums?
+> A. 1
+> B. 2
+> C. 3
+> D. 4
+> E. 5.
+>
+> Questions 11 to 20 are worth 4 points each
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_cadet#q10|src_kangourou_2002_cadet__Q10]]
 
 
 
@@ -469,13 +536,20 @@ Maximum number of plums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*(b-c) with proportions*
+*The value of (a−b) : (b−c)*
 
-> a, b, c are three numbers such that a: b = 9: 4 and b: c = 5: 3. It follows that (a−b): (b−c) is equal to
->  
-> A. 7 : 12       B. 25 : 8       C. 4 : 1      D. 5 : 2       E. It's impossible to answer.
+> a, b, c are three numbers such that a : b = 9 : 4 and b : c = 5 : 3. One deduces that (a−b) : (b−c) is equal to
+>
+> A. 7 : 12
+> B. 25 : 8
+> C. 4 : 1
+> D. 5 : 2
+> E. it is impossible to answer.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_cadet#q11|src_kangourou_2002_cadet__Q11]]
 
 
 
@@ -508,13 +582,20 @@ Maximum number of plums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*People on board before the shipwrecked people*
+*How many people were on board before the shipwrecked were picked up*
 
-> A ship picks up 30 shipwrecked people at sea. Supplies on board before the encounter would have been sufficient for 60 days, but only become sufficient for 50 days once the shipwrecked people set foot on the ship. Assuming that all people on board consume the same amount of food, how many people were on board before the shipwreck?
->  
-> A. 15 B. 40 C. 110 D. 140 E. 150.
+> A ship picks up 30 shipwrecked people at sea. The provisions on board before the meeting would have been enough for 60 days, but they become enough for only 50 days as soon as the shipwrecked set foot on the ship. Assuming that all the people on board consume the same amount of provisions, how many people were on board before the meeting with the shipwrecked?
+>
+> A. 15
+> B. 40
+> C. 110
+> D. 140
+> E. 150.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_cadet#q12|src_kangourou_2002_cadet__Q12]]
 
 
 
@@ -548,16 +629,20 @@ Maximum number of plums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total mice with blue eyes*
+*How many mice the colony consists of*
 
-> A certain colony is 25% white and 75% black. Among white mice, 50% have blue eyes while among black mice only 20% have blue eyes. Knowing that 99 mice have blue eyes, how many mice does the colony consist of?
->  
->  
-> A. 360 B. 340 C. 240 D. None of the preceding numbers
->  
-> E. The data is insufficient to answer.
+> A certain colony consists of 25% white mice and 75% black mice. Among the white mice, 50% have blue eyes, while among the black mice only 20% have blue eyes. Given that 99 mice have blue eyes, how many mice does the colony consist of?
+>
+> A. 360
+> B. 340
+> C. 240
+> D. none of the previous numbers
+> E. the data are not enough to answer.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_cadet#q13|src_kangourou_2002_cadet__Q13]]
 
 
 
@@ -601,22 +686,27 @@ Maximum number of plums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PQT triangle area given two circumferences*
+*The area of triangle PQT*
 
-> In Figure P and Q are the centers of two outer tangent circles P and Q and the straight PQ cuts the two circles in A and B (as well as in the tangent point). ABCD is a rectangle with the DC side tangent to Q at point T. If the area of ABCD is 15, what is the area of the PQT triangle?
->  
+> In the figure P and Q are the centres of two circles P and Q, externally tangent, and the line PQ cuts the two circles at A and B (as well as at the point of tangency). ABCD is a rectangle with the side DC tangent to Q at the point T. If the area of ABCD is 15, what is the area of triangle PQT?
+>
 > A. 4
->  
-> B. 15 / 4 C. π / 2 D. 5
->   
-> E. 5/2 .
->  
-> 
-> Kangourou Italy 2002, Cadet category.
->  
+> B. 15 / 4
+> C. π / 2
+> D. 5
+> E.
+> 5
+> 2
+> .
+>
+> Kangourou Italia 2002, Cadet category. Page no.
 > 4
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_cadet#q14|src_kangourou_2002_cadet__Q14]]
 
 
 
@@ -645,16 +735,21 @@ Maximum number of plums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the weights of the five boys*
+*The sum of the weights of the five boys*
 
-> Five boys get on a scale in pairs in all possible combinations. 
-> The weights read are, in kg: 90, 92, 93, 94, 95, 96, 97, 98, 100, 101. Adding the weights 
-> of the five boys gives 
->  
-> A. 225 kg       B. 230 kg  
->  C. 239 kg    D. 240 kg      E. 247 kg
+> Five boys get on a pair of scales in pairs, in all possible combinations. The weights read are, in kg: 90, 92, 93, 94, 95, 96, 97, 98, 100, 101. Adding the weights of the five boys one obtains
+>
+> A. 225 kg
+> B. 230 kg
+> C. 239 kg
+> D. 240 kg
+> E. 247 kg
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_cadet#q15|src_kangourou_2002_cadet__Q15]]
 
 
 
@@ -682,13 +777,21 @@ Maximum number of plums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage who speak both languages*
+*What percentage of the population speaks both languages*
 
-> In Canada, part of the population speaks only English, part only French and part both languages. If 85% of the population speaks English and 75% French, what percentage of the population speaks both languages?
->  
-> A. 50%        B. 57%        C. 25%        D. 60%        E. 40%.
+> In Canada part of the population speaks only English, part only French, and part speaks both languages. If 85% of the population speaks English and 75% speaks French, what percentage of the population speaks both languages?
+>
+> A. 50%
+> B. 57%
+> C. 25%
+> D. 60%
+> E. 40%.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_cadet#q16|src_kangourou_2002_cadet__Q16]]
 
 
 
@@ -718,14 +821,20 @@ Maximum number of plums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordering of the last dish*
+*Where the last plate must be placed*
 
-> The plates P, Q and R are aligned in increasing weight order and the last plate is to be added to them, maintaining this sort of order. Knowing that objects of equal shape have the same weight, which of the following statements is correct?
->  
->  
-> A. The last plate must be between P and Q B. The last plate must be between Q and R C. The last plate must be before P D. The last plate must be after R E. The last plate has the same weight as R.
+> The plates P, Q and R are lined up in order of increasing weight, and one wants to add the last plate to them, keeping this kind of ordering. Given that objects of the same shape have the same weight, which of the following statements is correct?
+>
+> A. the last plate must go between P and Q
+> B. the last plate must go between Q and R
+> C. the last plate must go before P
+> D. the last plate must go after R
+> E. the last plate has the same weight as R.
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_cadet#q17|src_kangourou_2002_cadet__Q17]]
 
 
 
@@ -760,23 +869,25 @@ Maximum number of plums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who lied among the four sons*
+*Who lied about hiding father's birthday present*
 
-> Mom wants to know which of her 4 children hid the gift for Dad's birthday.
-> They make the following statements:
-> Aldo: "It wasn't me"
->  
->  
-> Bruno: "it wasn't me"
-> Carlo: "it was Dino"
->  
->  
-> Dino: "it was Bruno."
-> If everyone except one told the truth, who lied?
->  
-> A. Aldo   B. Bruno   C. Carlo   D. Dino   E. it cannot be determined with certainty.
+> Mother wants to know which of her 4 sons hid the present for father's birthday. They make the following statements:
+> Aldo: "It was not me"
+> Bruno: "It was not me"
+> Carlo: "It was Dino"
+> Dino: "It was Bruno".
+> If all but one told the truth, who lied?
+>
+> A. Aldo
+> B. Bruno
+> C. Carlo
+> D. Dino
+> E. it cannot be established with certainty.
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_cadet#q18|src_kangourou_2002_cadet__Q18]]
 
 
 
@@ -804,11 +915,20 @@ Maximum number of plums
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum coins on the 2x9 grid
+*The least number of coins on a 2 by 9 grid*
 
-> In some of the squares that make up a grid of 2 × 9 there are coins. Each square either contains a coin or has a side in common with a square containing one. The number of coins on the grid shall be at least A. 5           B. 6          C. 7          D. 8          E. 9.
+> In some of the little squares that make up a 2 × 9 grid there are coins. Every little square either contains a coin or shares a side with a little square that contains one. The number of coins on the grid must be at least
+> A. 5
+> B. 6
+> C. 7
+> D. 8
+> E. 9.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_cadet#q19|src_kangourou_2002_cadet__Q19]]
 
 
 
@@ -846,19 +966,25 @@ Minimum coins on the 2x9 grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seconds on an ascending escalator*
+*How many seconds Mr Rossi takes if the escalator is running and he walks up*
 
-> Mr. Rossi takes 90 seconds to get to the sixth floor of a large warehouse by climbing the steps of an escalator when it is not running; he takes 60 seconds when the escalator is running, but he lets himself be carried without moving. How many seconds does it take if the escalator is running and at the same time he climbs the stairs?
->  
-> A. 36             B. 75 C. 45 D. 30 E. 50
-> 
-> Kangourou Italy 2002, category Cadet.
->  
+> Mr Rossi takes 90 seconds to reach the sixth floor of a department store by walking up the steps of an escalator when it is not running; he takes 60 seconds when the escalator is running, but he lets himself be carried without moving. How many seconds does he take if the escalator is running and at the same time he walks up its steps?
+>
+> A. 36
+> B. 75
+> C. 45
+> D. 30
+> E. 50
+>
+> Kangourou Italia 2002, Cadet category. Page no.
 > 5
->  
-> The questions from N. 21 to N. 30 are worth 5 points each.
+>
+> Questions 21 to 30 are worth 5 points each
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_cadet#q20|src_kangourou_2002_cadet__Q20]]
 
 
 
@@ -884,13 +1010,20 @@ Minimum coins on the 2x9 grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum divisors of n divisible by 21 and 9*
+*The least number of positive divisors n must have*
 
-> A positive integer n is divisible by 21 and by 9. What is the minimum number of positive divisors that n must have (1 and n inclusive)?
->  
-> A. 3           B. 4           C. 5           D. 6           E. 7.
+> A positive integer n is divisible by 21 and by 9. What is the smallest number of positive integer divisors that n must have (1 and n included)?
+>
+> A. 3
+> B. 4
+> C. 5
+> D. 6
+> E. 7.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_cadet#q21|src_kangourou_2002_cadet__Q21]]
 
 
 
@@ -936,13 +1069,25 @@ Minimum coins on the 2x9 grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distinct pieces with three out of five colours*
+*The least number of distinct pieces in a game of coloured triangles*
 
-> A game consists of pieces in the shape of an equilateral triangle, each divided into three equal parts, each colored with different colors (see. Figure, where three pieces are present and where equal numbers correspond to equal colours). If there are 5 colours available and the game contains all possible combinations of these colours, how many distinct pieces must the game consist of? Attention. The pieces may be rotated: therefore two pieces using the colours 1, 2, 3 such as those indicated in the figure with (*) and (**) shall be considered equal, but different from the piece indicated with (***).
->  
-> A. 20         B. 125          C. 60          D. 30          E. 35
+> A game is made of pieces in the shape of an equilateral triangle, each divided into three equal parts, each coloured with different colours (see the figure, where three pieces are present and where equal numbers correspond to equal colours). If 5 colours are available and the game contains all the possible combinations of these colours, what is the least number of distinct pieces that make up the game?
+> Note. The pieces may be rotated: so two pieces that use the colours 1, 2, 3 like those marked (*) and (**) in the figure are to be regarded as the same, but different from the piece marked (***).
+>
+> A. 20
+> B. 125
+> C. 60
+> D. 30
+> E. 3
+> 5
+> 3
+> .
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_cadet#q22|src_kangourou_2002_cadet__Q22]]
 
 
 
@@ -969,13 +1114,21 @@ Minimum coins on the 2x9 grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Day of the week of the 20th of the month*
+*What day of the week the 20th was*
 
-> In the same month, three Sundays fell on even days. What day of the week was the 20th of that month?
->  
-> A. Monday B. Tuesday C. Wednesday D. Thursday E. Saturday.
+> In the same month three Sundays fell on even days. What day of the week was the 20th of that month?
+>
+> A. Monday
+> B. Tuesday
+> C. Wednesday
+> D. Thursday
+> E. Saturday.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_cadet#q23|src_kangourou_2002_cadet__Q23]]
 
 
 
@@ -1014,18 +1167,24 @@ Minimum coins on the 2x9 grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sectors of the quadrant with equal sum*
+*What one can be sure of when a clock face breaks into three sectors*
 
-> The dial of a clock breaks into three sectors (i.e. into three parts, each consisting of a single piece) so that each of the numbers indicating the twelve hours falls entirely within some sector. Since the sum of the numbers in each sector is the same for the three sectors, we can be sure that
->  
-> A. 7 and 5 are not in the same sector B. 8 and 4 are in the same sector C. 12 and 3 are not in the same sector D. 11, 1 and 5 are in the same sector E. 2, 11 and 9 are in the same sector.
->  
-> 
-> Kangourou Italy 2002, category Cadet.
->  
+> The face of a clock breaks into three sectors (that is, into three parts, each consisting of a single piece) so that each of the numbers marking the twelve hours falls entirely inside some sector. Given that the sum of the numbers in each sector is the same for the three sectors, one can be sure that
+>
+> A. 7 and 5 are not in the same sector
+> B. 8 and 4 are in the same sector
+> C. 12 and 3 are not in the same sector
+> D. 11, 1 and 5 are in the same sector
+> E. 2, 11 and 9 are in the same sector.
+>
+> Kangourou Italia 2002, Cadet category. Page no.
 > 6
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_cadet#q24|src_kangourou_2002_cadet__Q24]]
 
 
 
@@ -1053,13 +1212,21 @@ Minimum coins on the 2x9 grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most intersections of lines and circles*
+*The greatest number of points where at least two of the figures meet*
 
-> In the plane, draw two different circles and three different lines. What is the maximum number of points where at least two of these geometric entities intersect?
->  
-> A. 18        B. 17        C. 16        D. 15        E. 14.
+> Draw in the plane two circles different from each other and three lines different from each other. What is the greatest number of points at which at least two of these geometric objects meet?
+>
+> A. 18
+> B. 17
+> C. 16
+> D. 15
+> E. 14.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_cadet#q25|src_kangourou_2002_cadet__Q25]]
 
 
 
@@ -1092,20 +1259,20 @@ Minimum coins on the 2x9 grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle with the question mark after folds*
+*The size of the angle marked with a question mark*
 
-> By folding a square sheet of paper
-> a pentagon was obtained: first the sheet was
-> folded, pivoting
-> on vertex C, so as to
-> bring sides BC and DC onto
-> diagonal AC, and then the shape thus obtained was
-> folded so as to bring vertex C onto vertex A (see
-> figure). What is the measure of the angle marked with the question mark?
->  
-> A. 104°      B. 106°30’      C. 108°      D. 112°30’      E. 114°30’.
+> By folding a square sheet of paper one has obtained a pentagon: first the sheet was folded, pivoting on the vertex C, so as to bring the sides BC and DC onto the diagonal AC, and then the shape so obtained was folded so as to bring the vertex C onto the vertex A (see the figure). What is the size of the angle marked with the question mark?
+>
+> A. 104°
+> B. 106°30'
+> C. 108°
+> D. 112°30'
+> E. 114°30'.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_cadet#q26|src_kangourou_2002_cadet__Q26]]
 
 
 
@@ -1136,13 +1303,21 @@ Minimum coins on the 2x9 grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Small cubes with a single painted face*
+*How many little cubes have only one face painted*
 
-> A cube with a side length of 5 cm is made up of small cubes of 1 cm. Let's take three rows of cubes as shown in the figure and dip the remaining solid in a paint jug. How many cubes have one painted face?
->  
-> A. 30 B. 26 C. 40        D. 48         E. 24.
+> A cube with a side 5 cm long is made of little cubes of side 1 cm. We remove 3 rows of little cubes as shown in the figure and dip the solid that remains into a pot of paint. How many little cubes have only one face painted?
+>
+> A. 30
+> B. 26
+> C. 40
+> D. 48
+> E. 24.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_cadet#q27|src_kangourou_2002_cadet__Q27]]
 
 
 
@@ -1171,13 +1346,21 @@ Minimum coins on the 2x9 grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of all numbers with digits 1,2,3,4*
+*The sum of all four-digit numbers formed from 1, 2, 3, 4 with none repeated*
 
-> Consider the set of all 4-digit integers formed by the digits 1, 2, 3, 4, no repetition. The sum of all the numbers in this set is
->  
-> A. 55550         B. 99990 C. 66660        D. 100000 E. 98760.
+> Consider the set of all four-digit integers formed from the digits 1, 2, 3, 4, with none repeated. The sum of all the numbers in this set is
+>
+> A. 55550
+> B. 99990
+> C. 66660
+> D. 100000
+> E. 98760.
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_cadet#q28|src_kangourou_2002_cadet__Q28]]
 
 
 
@@ -1205,13 +1388,20 @@ Minimum coins on the 2x9 grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A quadrilateral area of AFDC in equal triangles*
+*The area of the quadrilateral AFDC*
 
-> In the figure, the triangles ABC and DCE are equal; furthermore, the length of DC is 1 cm and that of CB is 4 cm. If the area of the triangle ABC is S, then the area of the quadrilateral AFDC is
->  
-> A. 2S / 3        B. S / 2       C. 2S / 5       D. S / 4      E. S / 5.
+> In the figure, the triangles ABC and DCE are equal; moreover the length of DC is 1 cm and that of CB is 4 cm. If the area of triangle ABC is S, then the area of the quadrilateral AFDC is
+>
+> A. 2S / 3
+> B. S / 2
+> C. 2S / 5
+> D. S / 4
+> E. S / 5.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_cadet#q29|src_kangourou_2002_cadet__Q29]]
 
 
 
@@ -1261,34 +1451,29 @@ Minimum coins on the 2x9 grid
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Second number in the sequence up to 1000*
+*The second number in the longest sequence ending at 1000*
 
-> Consider a sequence of positive integers, such that every number from the
-> third onward is the sum of all those that precede it, the first number is 1 and
-> the last is 1000. In the longest sequence that can be constructed with this
-> law, what is the second number?
->  
-> A. 124 
->  
-> B. 125 
->  
-> C. 225 
->  
-> D. 224 
->  
-> E. 120.  
-> 
-> Cadet Answers 2002.     Page No.
->  
+> Consider a sequence of positive integers such that every number from the third onwards is the sum of all those that precede it, the first number is 1 and the last is 1000. In the longest sequence that can be built with this rule, what is the second number?
+>
+> A. 124
+> B. 125
+> C. 225
+> D. 224
+> E. 120.
+>
+> Answers, Cadet 2002. Page no.
 > 1
 > Kangourou Italia
 > Contest of 21 March 2002
-> Cadet Category
-> For students in the third year of middle school and the first year of high school
+> Cadet category
+> For students in the third year of middle school and the first year of upper school
 > Solutions
->  
->  
-> The correct answer is indicated in square brackets
+>
+> The correct answer is marked in square brackets
 > after the question number.
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_cadet#q30|src_kangourou_2002_cadet__Q30]]

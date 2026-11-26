@@ -29,9 +29,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove x^8+y^8+z^8=n^8 non ha una soluzione integrale con 0<=x,y,z<n*
+*Dimostrare che l'equazione non ammette soluzioni intere con 0 ≤ x, y, z < n.*
 
-> Prova che l'equazione $x^8 + y^8 + z^8 = n^8$, dove $n$ è un intero $> 1$, non ha soluzione in numeri interi $x, y, z$, con $0 \le y \le n$.
+> Dimostrare che l'equazione $x^8 + y^8 + z^8 = n^8$, dove $n$ è un intero $> 1$, non ammette soluzioni in interi $x, y, z$, con $0 \le y \le n$.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1980#q01|src_bmo1_1980__Q01]]
 
 
 
@@ -57,9 +63,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova 7 numeri interi consecutivi che ammettenne un polinomio di grado-5 con proprietà date*
+*Trovare 7 interi consecutivi che ammettono un polinomio di grado 5 con proprietà date*
 
-> Trovare un insieme $S = \{a_1, a_2, a_3, a_4, a_5, a_6, a_7\}$ di 7 integri positivi consecutivi per i quali esiste un polinomio $P(x)$ di grado 5 con le seguenti proprietà: (a) tutti i coefficienti di $P(x)$ sono integri; (b) $P(n) = n$ per 3 membri di $S$, compresi i più piccoli e i più grandi; (c) $P(n) = 0$ per un membro di $S$.
+> Trovare un insieme $S = \{a_1, a_2, a_3, a_4, a_5, a_6, a_7\}$ di 7 interi positivi consecutivi per cui esiste un polinomio $P(x)$ di grado 5 con le seguenti proprietà:
+> (a) tutti i coefficienti di $P(x)$ sono interi;
+> (b) $P(n) = n$ per 3 membri di $S$, inclusi il più piccolo e il più grande;
+> (c) $P(n) = 0$ per un membro di $S$.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_bmo1_1980#q02|src_bmo1_1980__Q02]]
 
 
 
@@ -82,9 +97,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Linea retta attraverso P o Q e A o B passa attraverso l'incentro del triangolo ABC*
+*Retta per P o Q e A o B che passa per il centro inscritto del triangolo ABC*
 
-> Sul diametro $AB$ che confina una regione semicircolare ci sono due punti $P$ e $Q$, e sull'arco ci sono punti $R$ e $S$ in modo tale che $PQRS$ sia quadrato. $C$ è un punto sul semicircolo tale che le superfici del triangolo $ABC$ e del quadrato $PQRS$ siano uguali. Prova che una linea retta che attraversa uno dei punti $P$ e $Q$ e uno dei punti $A$ e $B$ taglia al centro del triangolo $ABC$.
+> Sul diametro $AB$ che delimita una regione semicircolare si trovano due punti $P$ e $Q$, e sull'arco si trovano i punti $R$ e $S$ tali che $PQRS$ sia un quadrato. $C$ è un punto sulla semicirconferenza tale che le aree del triangolo $ABC$ e del quadrato $PQRS$ siano uguali. Dimostrare che una retta che passa per uno dei punti $P$ e $Q$ e per uno dei punti $A$ e $B$ passa per il centro inscritto del triangolo $ABC$.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1980#q03|src_bmo1_1980__Q03]]
 
 
 
@@ -110,9 +131,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i valori iniziali che rendono la ricorrenza a_{n+1}=2^n-3a_n rigorosamente in aumento*
+*Trovare i valori iniziali che rendono la ricorrenza $a_{n+1}=2^n-3a_n$ strettamente crescente*
 
-> Trova l'insieme dei numeri reali $a_n$ per i quali la sequenza infinita $\{a_n\}$ dei numeri reali definiti da $$a_{n+1} = 2^n - 3a_n \quad (n \ge 0)$$ è strettamente in aumento, cioè $$a_n < a_{n+1} \quad (n \ge 0).$$
+> Trovare l'insieme dei numeri reali $a_n$ per i quali la successione infinita $\{a_n\}$ di numeri reali definita da
+> $$a_{n+1} = 2^n - 3a_n \quad (n \ge 0)$$
+> è strettamente crescente, cioè
+> $$a_n < a_{n+1} \quad (n \ge 0).$$
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+[[Quesiti/src_bmo1_1980#q04|src_bmo1_1980__Q04]]
 
 
 
@@ -135,6 +165,12 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dieci persone senza reciproca conoscenza triple implica quattro reciproci sconosciuti*
+*Dieci persone senza triplice di conoscenti reciproci implicano quattro estranei reciproci*
 
-> In un gruppo di dieci persone, tra tutte e tre persone ci sono almeno due che non si conoscono. Dimostra che alla festa ci sono quattro persone di cui non due si conoscono.
+> In una festa di dieci persone, tra qualsiasi tre persone ci sono almeno due che non si conoscono a vicenda. Dimostrare che alla festa ci sono quattro persone tra le quali nessuna conosce l'altra.
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_bmo1_1980#q05|src_bmo1_1980__Q05]]

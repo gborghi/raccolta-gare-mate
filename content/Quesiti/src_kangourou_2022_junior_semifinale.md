@@ -42,19 +42,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final product unit number for 2021..2029*
+*What is the units digit of this number?*
 
-> (2 points) Sandra wrote on a sheet each of the whole numbers from 2021 to 2029. Samuel, who has a calculator at his disposal, chooses two at random, eliminates them, and replaces them with their product. He proceeds on the eight numbers remaining in the same way, obtaining seven and so on, until there is only one number left on the sheet. What is the units digit of this number? A) 0
->  
+> (2 points) Sandra wrote on a sheet each of the integers from 2021 to 2029. Samuele, who has a calculator, chooses two of them at random, crosses them out and replaces them with their product. He proceeds in the same way with the eight numbers left, obtaining seven, and so on, until only one number is left on the sheet. What is the units digit of this number?
+>
+> A) 0
 > B) 2
->  
 > C) 4
->  
 > D) 6
->  
 > E) 8
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_junior_semifinale#q01|src_kangourou_2022_junior_semifinale__Q01]]
 
 
 
@@ -85,19 +88,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Additional fertilizer for a lawn 30 vs 25 meters per side*
+*Which of the following numbers is closest to the extra amount of fertiliser needed?*
 
-> (3 points) To fertilize a square lawn with a side of 25 meters, a certain quantity q of
-> fertilizer is needed. Which of the following numbers is closest to the amount of additional fertilizer needed
-> to fertilize in the same way a square lawn with a side of 30 meters?
+> (3 points) To fertilise a square lawn of side 25 metres, a certain amount q of fertiliser is needed. Which of the following numbers is closest to the extra amount of fertiliser needed to fertilise in the same way a square lawn of side 30 metres?
+>
 > A) q/6
->  
-> B) q/5  
-> C) q/4  
-> D) q/3  
+> B) q/5
+> C) q/4
+> D) q/3
 > E) q/2
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_junior_semifinale#q02|src_kangourou_2022_junior_semifinale__Q02]]
 
 
 
@@ -160,34 +165,30 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*true statements*
+*How many of the following statements are correct?*
 
 ![[src_kangourou_2022_junior_semifinale__prob3.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw (0,0) node[below left] {A} -- (3,0) node[below right] {B} -- (3,3) node[above right] {C} -- (0,3) node[above left] {D} -- cycle;
-  \filldraw[red] (0,0) circle (3pt);
-  \filldraw[red] (3,0) circle (3pt);
-  \filldraw[red] (3,3) circle (3pt);
-  \filldraw[red] (0,3) circle (3pt);
-\end{tikzpicture}
-\end{document}
-```
-
-> (3 points) In the figure you see a square on the edge of which Ada and Bice train to run, each without ever moving in the same direction, but we don't know if it's in the same direction or in the opposite direction. They run for many laps each at a constant speed, but Ada's is three times Bice's. Right now Ada is at vertex A while Bice is at vertex B. How many of the following statements are correct? Ada and Bice will never be together at vertex B. Ada and Bice will never be together at vertex C. Ada and Bice will never be together at vertex D. - Sometimes Ada and Bice will be together at vertex A. Ada and Bice can't be together except at one of the vertices. (A) 0 (none)
->  
+> (3 points) In the picture you see a square, on the edge of which Ada and Bice are training by running, each without ever changing direction, but we do not know whether in the same direction or in opposite directions. They run for many laps, each at constant speed, but Ada's speed is three times Bice's. At this moment Ada is at vertex A while Bice is at vertex B. How many of the following statements are correct?
+>
+> - Ada and Bice will never be together at vertex B.
+> - Ada and Bice will never be together at vertex C.
+> - Ada and Bice will never be together at vertex D.
+> - Sometimes Ada and Bice will be together at vertex A.
+> - Ada and Bice cannot be together except at one of the vertices.
+>
+> A) 0 (none)
 > B) 1
->  
 > C) 3
->  
->  
 > D) 4
->  
 > E) 5 (all)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_junior_semifinale#q03|src_kangourou_2022_junior_semifinale__Q03]]
 
 
 
@@ -222,17 +223,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*estimation of who knew the correct answer*
+*Which of the following numbers is most likely to be the number of those who knew the correct answer?*
 
-> (4 points) To a closed answer question by Kangourou like this, with 5 options for the answer, 10,000 students answered. Of these, some have been able to determine the correct answer based on their knowledge, others have tried to guess by choosing quite randomly among the five proposals. The correct answers were 3,000. Which of the following is more likely to be the number of people who knew the correct answer? A) 3.000 B) 2.500
->  
+> (4 points) 10.000 students answered a multiple-choice Kangourou question like this one, with 5 options for the answer. Of these, some were able to determine the correct answer from their knowledge; the others guessed, choosing entirely at random among the 5 proposals. The answers that turned out correct were 3.000. Among the following numbers, which is most likely to be the number of those who knew the correct answer?
+>
+> A) 3.000
+> B) 2.500
 > C) 1.500
->  
 > D) 1.250
->  
 > E) 1.000
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_junior_semifinale#q04|src_kangourou_2022_junior_semifinale__Q04]]
 
 
 
@@ -268,17 +273,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit number with the last digit shifted to the head, sum*
+*How many of the following numbers could be the result?*
 
-> (4 points) Simona writes a four-digit integer, then removes its last digit and moves it to the head of the number (for example, if the number written was 1030 it would get 0103). Now Simona sums up the two numbers thus obtained: how many of the following numbers 1221, 8612, 4322, 13859 could be the result? A) 0 (none)
->  
+> (4 points) Simona writes a four-digit integer, then takes its last digit and moves it to the front of the number (for example, if the number written were 1030 she would obtain 0103). Now Simona adds the two numbers thus obtained: how many of the following numbers could be the result?
+>
+> 1221, 8612, 4322, 13859
+>
+> A) 0 (none)
 > B) 1
->  
-> C) 2 D) 3
->  
+> C) 2
+> D) 3
 > E) 4 (all)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_junior_semifinale#q05|src_kangourou_2022_junior_semifinale__Q05]]
 
 
 
@@ -309,11 +321,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which perimeter is impossible*
+*Which of the following numbers is certainly not the sum of their perimeters in metres?*
 
-> (4 points) The dimensions of four rectangles are a × b, b × c, c × d and d × a, where all numbers a, b, c and d are positive integers and express lengths in metres. Their total area is 105 square meters. Which of the following numbers is certainly not the sum of their perimeters in meters? A) 88 B) 104 C) 124 D) 152 E) None, all could be.
+> (4 points) The dimensions of four rectangles are a × b, b × c, c × d and d × a, where all the numbers a, b, c and d are positive integers and give lengths in metres. The sum of their areas is 105 square metres. Which of the following numbers is certainly not the sum of their perimeters in metres?
+>
+> A) 88
+> B) 104
+> C) 124
+> D) 152
+> E) None; all of them could be.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_junior_semifinale#q06|src_kangourou_2022_junior_semifinale__Q06]]
 
 
 
@@ -348,15 +371,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square with two inscribed circles, black area*
+*What is the area of the region painted black?*
 
 ![[src_kangourou_2022_junior_semifinale__prob7.png]]
 
-> (5 points) In the figure you see a square divided into two gray rectangles and two squares. The two rectangles are congruent and inside each of the two squares is inscribed a circle. In each of the squares, the outside of the circle is painted black. The sum of the circle areas is 20π. What is the area of the region painted black? A) 4(5π – 4) B) 20(4 – π) C) 4 + π
->  
-> D) 8π E) 2022(2022 – π)
+> (5 points) In the picture you see a square divided into two grey rectangles and two squares. The two rectangles are congruent, and inside each of the two squares a circle is inscribed. In each of the squares, the part outside the circle is painted black. The sum of the areas of the circles is 20π. What is the area of the region painted black?
+>
+> A) 4(5π – 4)
+> B) 20(4 – π)
+> C) 4 + π
+> D) 8π
+> E) 2022(2022 – π)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_junior_semifinale#q07|src_kangourou_2022_junior_semifinale__Q07]]
 
 
 
@@ -391,17 +422,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four circles of radius 1, outer edge length*
+*How long is the outer boundary of the figure highlighted by the thickened black arcs?*
 
 ![[src_kangourou_2022_junior_semifinale__prob8.png]]
 
-> (5 points) The figure shows four circles of radius 1 with exactly one point in common with all of them. How long is the outer edge of the figure highlighted by the thickened black dashed arcs? A) 3π
->  
-> B) 3π/2 C) 8π/3
->  
-> D) 4π E) 11π/5
+> (5 points) The picture shows four circles of radius 1 with exactly one point in common to all of them. How long is the outer boundary of the figure highlighted by the thickened black arcs?
+>
+> A) 3π
+> B) 3π/2
+> C) 8π/3
+> D) 4π
+> E) 11π/5
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_junior_semifinale#q08|src_kangourou_2022_junior_semifinale__Q08]]
 
 
 
@@ -439,18 +476,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*even/odd product, prob 4x, find n*
+*What is the value of n?*
 
-> (6 points) Anna and Ernesto play as follows. On the table there are n covered cards numbered from 1 to n, where n is an even number. Anna turns one and then Ernesto turns another. The resulting numbers are then multiplied: if the product is an even number Anna wins, if it is an odd number Ernesto wins. You know, the probability of Anna winning is four times the probability of Ernesto winning. How much is n? A) 6
->  
+> (6 points) Anna and Ernesto play as follows. On the table there are n face-down cards numbered from 1 to n, where n is an even number. Anna turns one over and then Ernesto turns over another. The numbers obtained are then multiplied: if the product is an even number Anna wins, if it is an odd number Ernesto wins. It is known that Anna's probability of winning is four times Ernesto's probability of winning. What is the value of n?
+>
+> A) 6
 > B) 8
->  
-> C) 10 D) 12 E) 16
->  
->  
+> C) 10
+> D) 12
+> E) 16
+>
 > Open-ended questions
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_junior_semifinale#q09|src_kangourou_2022_junior_semifinale__Q09]]
 
 
 
@@ -477,13 +520,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of digits in the quotient of 111222...999 divided by 111*
+*How many digits does the quotient of that division have?*
 
 > (4 points) The number 111.222.333.444.555.666.777.888.999 (each of the digits from 1 to 9 appears exactly 3 times) is divisible by 111. How many digits does the quotient of that division have?
->  
-> K
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 25
+[[Quesiti/src_kangourou_2022_junior_semifinale#q10|src_kangourou_2022_junior_semifinale__Q10]]
 
 
 
@@ -511,13 +557,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two regular hexagons with perpendicular sides, angle ABC*
+*How many degrees does the marked angle ABC measure?*
 
 ![[src_kangourou_2022_junior_semifinale__prob11.png]]
 
-> (5 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that vertex are perpendicular. How many degrees does the indicated angle ABC measure?
+> (5 points) The picture shows two congruent regular hexagons that have only one vertex in common. Two of the sides that meet at that vertex are perpendicular. How many degrees does the marked angle ABC measure?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 15
+[[Quesiti/src_kangourou_2022_junior_semifinale#q11|src_kangourou_2022_junior_semifinale__Q11]]
 
 
 
@@ -545,11 +595,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five people in a car with restrictions, provisions*
+*In how many different ways can they take their seats in the car?*
 
-> (5 points) Five people must board a car which has five seats, two in front and three in the back. Only one of them can drive, two of the other four cannot sit next to each other, while there are no constraints on the remaining two. How many different ways can they get in the car? (Two ways are considered different if at least one of the car seats is occupied by different people.)
+> (5 points) Five people have to get into a car that has five seats, two in front and three behind. Only one of them can drive; two of the other four cannot sit next to each other, while there are no constraints on the remaining two. In how many different ways can they take their seats in the car? (Two ways are to be regarded as different if at least one of the seats in the car is occupied by different people.)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 16
+[[Quesiti/src_kangourou_2022_junior_semifinale#q12|src_kangourou_2022_junior_semifinale__Q12]]
 
 
 
@@ -577,11 +632,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum steps from 1 to 2022*
+*What is the least number of operations that suffice to reach 2022?*
 
-> (6 points) A small calculator can only perform four optional operations on a number that is assigned: subtract 1, divide by 2, multiply by 3, add 4. Starting from number 1 and running in sequence one at a time operations like these on the results obtained, what is the minimum number of operations that are sufficient to reach 2022? (For example, to reach 6 it takes exactly 3: 1 × 3 + 4 − 1.)
+> (6 points) A small calculating machine can carry out only four operations, to be chosen, on a number that is given to it: subtract 1, divide by 2, multiply by 3, add 4. Starting from the number 1 and carrying out, one at a time in sequence, operations such as these on the results obtained along the way, what is the least number of operations that suffice to reach 2022? (For example, to reach 6, 3 are needed and suffice: 1 × 3 + 4 − 1.)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 9
+[[Quesiti/src_kangourou_2022_junior_semifinale#q13|src_kangourou_2022_junior_semifinale__Q13]]
 
 
 
@@ -611,17 +671,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of integers m<n with 1/m+1/n=1/3*
+*How many pairs of integers m, n with m ≤ n satisfy the equality?*
 
-> (6 points) How many pairs of integers m, n with m  n satisfy the equality   
+> (6 points) How many pairs of integers m, n with m ≤ n satisfy the equality
+>
 > 1
-> 𝑚+ 
+> m+
 > 1
-> 𝑛= 
+> n=
 > 1
 > 3 ?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 3
+[[Quesiti/src_kangourou_2022_junior_semifinale#q14|src_kangourou_2022_junior_semifinale__Q14]]
 
 
 
@@ -649,15 +715,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*edge equal to interior*
+*How many fair rectangles are there, if any exist?*
 
-> (6 points) We call a rectangle of integer dimensions m × n fair if the following happens:
-> when it is divided into mn unit squares, the squares that lie along the edge are as many
-> as the remaining ones (that is, those that lie strictly in the interior). How many fair
-> rectangles are there, if any exist? (An m × n rectangle must be considered identical to the n × m rectangle; if you believe that there
-> are infinitely many fair rectangles, answer 9999.)
+> (6 points) We call a rectangle of integer dimensions m × n fair if the following happens: when it is divided into mn squares of unit side, the squares that lie along the border are as many as the remaining ones (that is, those that lie strictly inside). How many fair rectangles are there, if any exist? (A rectangle m × n is to be regarded as the same as the rectangle n × m; if you think there are infinitely many fair rectangles, answer 9999.)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 2
+[[Quesiti/src_kangourou_2022_junior_semifinale#q15|src_kangourou_2022_junior_semifinale__Q15]]
 
 
 
@@ -683,13 +750,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last non-zero decimal digit of 1/5^2022*
+*What is the last decimal digit other than 0 of the number?*
 
 > (7 points) What is the last decimal digit other than 0 of the number
+>
 > 1
 > 52022 ?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 4
+[[Quesiti/src_kangourou_2022_junior_semifinale#q16|src_kangourou_2022_junior_semifinale__Q16]]
 
 
 
@@ -716,11 +789,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer-coefficient polynomials with root 1+√2, minimum sum |coeff|*
+*What is the least possible value of s(P) as P varies in the set P?*
 
-> (7 points) Indicate with P the set of polynomials with integer coefficients that have 1 + √2 among their roots and whose degree is as low as possible. For a polynomial P, denote with s(P) the sum of the absolute values of the coefficients of P. What is the minimum possible value for s(P) as P varies in P?
+> (7 points) Denote by P the set of polynomials with integer coefficients that have among their roots the number 1 + √2 and whose degree is as low as possible. For a polynomial P, denote by s(P) the sum of the absolute values of the coefficients of P. What is the least possible value of s(P) as P varies in the set P?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 4
+[[Quesiti/src_kangourou_2022_junior_semifinale#q17|src_kangourou_2022_junior_semifinale__Q17]]
 
 
 
@@ -759,12 +837,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (x,y) with x²+y and x+y² both squared*
+*For how many ordered pairs (x, y) of positive integers does it happen that both the integers x2 + y and x + y2 are perfect squares?*
 
-> (8 points) For how many pairs (x, y) of positive integers does it happen that both integers x² + y and x + y² are perfect squares? (Write 9999 if you think there are infinite pairs.)
->  
-> 25 15 16 9 3 2 4 4 0
->  
-> A B C
+> (8 points) For how many ordered pairs (x, y) of positive integers does it happen that both the integers x2 + y and x + y2 are perfect squares? (Write 9999 if you think there are infinitely many pairs.)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0
+[[Quesiti/src_kangourou_2022_junior_semifinale#q18|src_kangourou_2022_junior_semifinale__Q18]]

@@ -32,13 +32,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quale numero NON è un multiple di 15?*
+*Quale numero NON è un multiplo di 15?*
 
-> Quale dei seguenti numeri NON è un multiple di $15$?
-> 
+> Quale dei seguenti numeri NON è un multiplo di $15$?
+>
 > (A) $135$ \quad (B) $315$ \quad (C) $555$ \quad (D) $785$ \quad (E) $915$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n1_f1#q01|src_obm_2010_n1_f1__Q01]]
 
 
 
@@ -63,13 +68,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il real di Lucia dato in coppie*
+*Trovare i reali di Lucia dati le somme a coppie*
 
-> Ana, Esmeralda e L'Ucia insieme hanno REAL. Ana e Esmeralda insieme hanno $19$ reais, e Esmeralda e L\'{u}cia insieme hanno $21$ reais. Quanti reais ha l'U.C.?
-> 
+> Ana, Esmeralda e Lúcia insieme hanno $33$ reais. Ana ed Esmeralda insieme hanno $19$ reais, e Esmeralda e Lúcia insieme hanno $21$ reais. Quanti reais ha Lúcia?
+>
 > (A) $6$ \quad (B) $7$ \quad (C) $10$ \quad (D) $12$ \quad (E) $14$
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2010_n1_f1#q02|src_obm_2010_n1_f1__Q02]]
 
 
 
@@ -94,13 +103,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2% aumento dei numeri interi uguali al successore; trovare la loro somma*
+*Un aumento del 2% di un numero intero equivale al suo successore; trova la loro somma*
 
-> Aumentare un intero positivo di $2\%$ di se stesso produce il suo successore (il prossimo intero). Qual è la somma di questi due numeri?
-> 
+> Aumentando un numero intero positivo di $2\%$ volte il suo valore, si ottiene il suo successore (il numero intero successivo). Qual è la somma di questi due numeri?
+>
 > (A) $43$ \quad (B) $53$ \quad (C) $97$ \quad (D) $101$ \quad (E) $115$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n1_f1#q03|src_obm_2010_n1_f1__Q03]]
 
 
 
@@ -126,13 +139,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max token in griglia 5x5 con conteggio di righe e colonne multipli di 3*
+*Token massimi in una griglia 5x5 con il numero di righe e colonne multipli di 3*
 
-> Qual è il numero massimo di token che può essere inserito in una tabella $5 \times 5$, con un token al massimo per cella, in modo tale che il numero di token in ogni riga e in ogni colonna sia un multiple di $3$?
-> 
+> Qual è il numero massimo di gettoni che si possono collocare in una tabella $5 \times 5$, con al massimo un gettone per cella, in modo che il numero di gettoni in ogni riga e in ogni colonna sia un multiplo di $3$?
+>
 > (A) $3$ \quad (B) $9$ \quad (C) $12$ \quad (D) $15$ \quad (E) $24$
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n1_f1#q04|src_obm_2010_n1_f1__Q04]]
 
 
 
@@ -159,15 +177,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Altezza della colonna costruita a partire da blocchi rettangolari del 2010*
+*Altezza della colonna costruita con blocchi rettangolari dal 2010*
 
-> Carlos ha $2010$ blocchi identici, ognuno lungo $10\,\text{cm}$, largo $20\,\text{cm}$ e spessore $1.5\,\text{cm}$. Le stacca in una colonna $20\,\text{cm}$ di larghezza e $40\,\text{cm}$ di lunghezza, come mostra la figura. Quale dei seguenti valori è più vicino all'altezza della colonna, in metri?
-> 
+> Carlos ha $2010$ blocchi identici, ciascuno lungo $10\,\text{cm}$, largo $20\,\text{cm}$ e spesso $1.5\,\text{cm}$. Li impila formando una colonna larga $20\,\text{cm}$ e lunga $40\,\text{cm}$, come mostrato nella figura. Quale dei seguenti valori è il più vicino all'altezza della colonna, in metri?
+>
 > (A) $7$ \quad (B) $7.5$ \quad (C) $8$ \quad (D) $8.5$ \quad (E) $9$
 
 ![[src_obm_2010_n1_f1__q05.png]]
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n1_f1#q05|src_obm_2010_n1_f1__Q05]]
 
 
 
@@ -193,13 +215,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Quale opzione è un divisore di 3^3 per 4^4 per 5^5?
+*Quale opzione è un divisore di 3^3 per 4^4 per 5^5?*
 
-> Qual è il divisore di $3^3 \cdot 4^4 \cdot 5^5$?
-> 
+> Quale dei seguenti è un divisore di $3^3 \cdot 4^4 \cdot 5^5$?
+>
 > (A) $42$ \quad (B) $45$ \quad (C) $52$ \quad (D) $85$ \quad (E) $105$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n1_f1#q06|src_obm_2010_n1_f1__Q06]]
 
 
 
@@ -224,13 +251,17 @@ Quale opzione è un divisore di 3^3 per 4^4 per 5^5?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Semplificare 4^(4^4) diviso per 4^4*
+*Semplifica 4^(4^4) diviso per 4^4*
 
 > Dividendo $4^{\left(4^4\right)}$ per $4^4$, otteniamo:
-> 
+>
 > (A) $2$ \quad (B) $4^1$ \quad (C) $4^4$ \quad (D) $4^{4^3}$ \quad (E) $4^{4^4 - 4}$
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n1_f1#q07|src_obm_2010_n1_f1__Q07]]
 
 
 
@@ -258,15 +289,20 @@ Quale opzione è un divisore di 3^3 per 4^4 per 5^5?
 <div class="qlang-split" data-lang="it"></div>
 
 
-Quale totale non può essere la somma delle facce visibili di due dadi tetraedrali uniti a una faccia?
+*Quale totale non può essere la somma delle facce visibili di due dadi tetraedrici uniti per una faccia?*
 
-> Le quattro facce di un dado sono triangoli equilaterali, numerati $1$ a $4$, come mostrato nella figura. Rotoliamo due dadi identici e li posizioniamo in modo che due volti coincidano (mostrando gli stessi o diversi numeri). Quale dei seguenti numeri NON può essere la somma di tutti i numeri visibili?
-> 
+> Le quattro facce di un dado sono triangoli equilateri, numerati da $1$ a $4$, come mostrato nella figura. Lanciamo due dadi identici e li disponiamo in modo che due facce coincidano (mostrando numeri uguali o diversi). Quale dei seguenti numeri NON PUÒ essere la somma dei numeri presenti su tutte le facce visibili?
+>
 > (A) $12$ \quad (B) $14$ \quad (C) $17$ \quad (D) $18$ \quad (E) $19$
 
 ![[src_obm_2010_n1_f1__q08.png]]
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n1_f1#q08|src_obm_2010_n1_f1__Q08]]
 
 
 
@@ -292,13 +328,18 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i divisori positivi di 120 che sono multipli di 6*
+*Conta i divisori positivi di 120 che sono multipli di 6*
 
 > Quanti divisori positivi di $120$ sono multipli di $6$?
-> 
+>
 > (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $8$ \quad (E) $12$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n1_f1#q09|src_obm_2010_n1_f1__Q09]]
 
 
 
@@ -325,15 +366,19 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perimetro della figura formata da due quadrati che si sovrappongono*
+*Perimetro della figura formata da due quadrati sovrapposti*
 
-> La figura mostra due quadrati sovrapposti: uno con lato $5\,\text{cm}$ e uno con lato $6\,\text{cm}$. Qual è il perimetro della figura risultante (il contorno spessore), in centimetri?
-> 
+> La figura mostra due quadrati che si sovrappongono: uno con lato $5\,\text{cm}$ e uno con lato $6\,\text{cm}$. Qual è il perimetro della figura risultante (il contorno spesso), in centimetri?
+>
 > (A) $31$ \quad (B) $34$ \quad (C) $36$ \quad (D) $38$ \quad (E) $41$
 
 ![[src_obm_2010_n1_f1__q10.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2010_n1_f1#q10|src_obm_2010_n1_f1__Q10]]
 
 
 
@@ -360,15 +405,19 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Die per un orologio che perde 5 minuti/ora per mostrare di nuovo l'ora corretta*
+*Giorni necessari affinché un orologio che perde 5 minuti all'ora torni a segnare l'ora esatta*
 
-> L'orologio mostrato indica l'ora corretta in questo momento, ma inizia a perdere esattamente $5$ minuti per ogni vera ora che passa. Dopo quanti giorni l'orologio mostrerà di nuovo l'ora corretta?
-> 
+> L'orologio mostrato indica l'ora esatta in questo momento, ma inizia a perdere esattamente $5$ minuti per ogni ora reale che trascorre. Dopo quanti giorni l'orologio indicherà di nuovo l'ora esatta?
+>
 > (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $6$ \quad (E) $12$
 
 ![[src_obm_2010_n1_f1__q11.png]]
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n1_f1#q11|src_obm_2010_n1_f1__Q11]]
 
 
 
@@ -396,15 +445,20 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di regione poligonale ombrata in una griglia a punti di 1 cm*
+*Area della regione poligonale ombreggiata in una griglia di punti da 1 cm*
 
-> Nella griglia mostrata, i punti vicini (verticalmente o orizzontalmente) sono $1\,\text{cm}$ separati. Qual è la superficie della regione ombrata, in $\text{cm}^2$?
-> 
+> Nella griglia mostrata, i punti adiacenti (verticalmente o orizzontalmente) sono distanti $1\,\text{cm}$. Qual è l'area della regione ombreggiata, in $\text{cm}^2$?
+>
 > (A) $7$ \quad (B) $8$ \quad (C) $8.5$ \quad (D) $9$ \quad (E) $9.5$
 
 ![[src_obm_2010_n1_f1__q12.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2010_n1_f1#q12|src_obm_2010_n1_f1__Q12]]
 
 
 
@@ -434,17 +488,22 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i gol che ha colpito l'Esmeralda FC da una tabella di campionato incompleta*
+*Trovare i gol subiti dall'Esmeralda FC a partire dalla classifica incompleta del campionato*
 
-> Un giornale pubblicò le classifiche di un campionato di calcio con quattro squadre, mostrando i gol segnati e i gol subiti da ciascuna squadra. A causa di un errore di stampa, mancano alcune voci (indicate come $***$):
-> 
-> Il gruppo di team ha segnato i gol e il team ha segnato i gol e il team ha segnato i gol.
-> 
-> È noto che l'Esmeralda FC ha colpito due gol in più di EC Boleiros. Quanti gol ha colpito Esmeralda FC?
-> 
+> Un giornale ha pubblicato la classifica di un campionato di calcio a quattro squadre, indicando le reti segnate e quelle subite da ciascuna squadra. A causa di un errore di stampa, alcune voci mancano (indicate come $***$):
+>
+> \begin{array}{|l|c|c|}\hline \textbf{Team} & \textbf{Goals scored} & \textbf{Goals suffered} \\\hline \text{Craques do Momento} & 8 & {***} \\\hline \text{Independentes} & 1 & 6 \\\hline \text{EC Boleiros} & 4 & {***} \\\hline \text{Esmeralda FC} & 5 & {***} \\\hline \end{array}
+>
+> È noto che l'Esmeralda FC ha subito due gol in più rispetto all'EC Boleiros. Quanti gol ha subito l'Esmeralda FC?
+>
 > (A) $2$ \quad (B) $3$ \quad (C) $4$ \quad (D) $5$ \quad (E) $6$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n1_f1#q13|src_obm_2010_n1_f1__Q13]]
 
 
 
@@ -469,13 +528,17 @@ Quale totale non può essere la somma delle facce visibili di due dadi tetraedra
 <div class="qlang-split" data-lang="it"></div>
 
 
-Frazione Beatriz deve ancora salire dopo che Ana ha finito di scendere
+*La Frazione Beatriz deve ancora salire dopo che Ana ha finito di scendere*
 
-> Ana inizia a scendere una scala esattamente nello stesso momento in cui Beatriz inizia a salire. Si incrociano quando Ana scende da una scala. Nel momento in cui Ana finisce di scendere, quale frazione della scala deve ancora salire Beatriz?
-> 
+> Ana inizia a scendere una scala esattamente nello stesso momento in cui Beatriz inizia a salire. Si incrociano quando Ana è scesa di $\dfrac{3}{4}$ della scala. Nel momento in cui Ana finisce di scendere, quale frazione della scala deve ancora salire Beatriz?
+>
 > (A) $\dfrac{1}{4}$ \quad (B) $\dfrac{1}{3}$ \quad (C) $\dfrac{1}{12}$ \quad (D) $\dfrac{5}{12}$ \quad (E) $\dfrac{2}{3}$
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n1_f1#q14|src_obm_2010_n1_f1__Q14]]
 
 
 
@@ -501,13 +564,18 @@ Frazione Beatriz deve ancora salire dopo che Ana ha finito di scendere
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero più piccolo in un insieme con somma 83 e prodotto 1024*
+*Il numero più piccolo in un insieme con somma 83 e prodotto 1024*
 
-> Alcuni numeri interi positivi (non necessariamente distinti) sono scritti su una lavagna. La loro somma è $83$ e il loro prodotto è $1024$. Qual è il minimo valore possibile del numero più piccolo tra tutti quelli sulla lavagna?
-> 
+> Sulla lavagna sono scritti alcuni interi positivi (non necessariamente distinti). La loro somma è $83$ e il loro prodotto è $1024$. Qual è il valore minimo possibile del più piccolo tra tutti i numeri scritti sulla lavagna?
+>
 > (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $8$ \quad (E) $16$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n1_f1#q15|src_obm_2010_n1_f1__Q15]]
 
 
 
@@ -533,13 +601,18 @@ Frazione Beatriz deve ancora salire dopo che Ana ha finito di scendere
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gli studenti che amano sia la matematica che il portoghese nella classe 56
+*Studenti a cui piacciono sia la matematica sia il portoghese in una classe di 56 alunni*
 
-> In una classe di grado $6^{\text{th}}$, ogni studente ama almeno una delle due materie seguenti: matematica o portoghese. Meno di $\dfrac{3}{4}$ degli studenti come la matematica e $\dfrac{5}{7}$ degli studenti come il portoghese. La classe ha studenti $56$. Quanti studenti amano entrambi i soggetti allo stesso tempo?
-> 
+> In una classe di livello $6^{\text{th}}$, ogni studente gradisce almeno una delle due seguenti materie: Matematica o Portoghese. Meno di $\dfrac{3}{4}$ studenti gradiscono la Matematica, e $\dfrac{5}{7}$ studenti gradiscono il Portoghese. La classe conta $56$ studenti. Quanti studenti gradiscono entrambe le materie contemporaneamente?
+>
 > (A) $8$ \quad (B) $13$ \quad (C) $24$ \quad (D) $26$
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n1_f1#q16|src_obm_2010_n1_f1__Q16]]
 
 
 
@@ -567,15 +640,20 @@ Gli studenti che amano sia la matematica che il portoghese nella classe 56
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di piastrelle rettangolari con 17 quadrati di unità bianche in angolo*
+*Area di un pavimentamento rettangolare con 17 quadrati unitari bianchi disposti a motivo d'angolo*
 
-> La figura rappresenta un angolo di una piastra rettangolare fatta di quadrati unitari (lato $1\,\text{cm}$). In questo tessuto $17$ i quadrati sono bianchi. Qual è la superficie della piastrella, in $\text{cm}^2$?
-> 
+> La figura rappresenta un angolo di una tassellazione rettangolare composta da quadrati unitari (lato $1\,\text{cm}$). In questa tassellazione, $17$ quadrati sono bianchi. Qual è l'area della tassellazione, in $\text{cm}^2$?
+>
 > (A) $29$ \quad (B) $34$ \quad (C) $35$ \quad (D) $40$ \quad (E) $150$
 
 ![[src_obm_2010_n1_f1__q17.png]]
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_obm_2010_n1_f1#q17|src_obm_2010_n1_f1__Q17]]
 
 
 
@@ -607,19 +685,24 @@ Gli studenti che amano sia la matematica che il portoghese nella classe 56
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il primo passo che garantisce che Fabio ottiene il quadrato delle mandorle
+*Quale prima pausa garantisce che Fabio ottenga il quadratino di mandorle?*
 
-> La figura rappresenta una barra di cioccolato che ha una singola mandorla coperta di cioccolato in un quadrato. Ne' Elias ne' F'abio amano le mandorle. Decidono di dividere il cioccolato rompendolo lungo le linee verticali o orizzontali, un pezzo alla volta, a turno; per la lotteria, Elias va prima, e è vietato prendere più della metà del cioccolato. Quale scelta garantisce che F'a Bio finira' con il quadrato di cioccolato alla mandorle?
+> La figura rappresenta una barretta di cioccolato in cui, in una delle caselle, c'è una sola mandorla ricoperta di cioccolato. Né Elias né Fábio gradiscono le mandorle. Decidono di dividere il cioccolato rompendolo lungo le linee verticali o orizzontali, un pezzo alla volta e a turno; tramite sorteggio, tocca a Elias iniziare, e è vietato prendere più della metà del cioccolato. Quale scelta garantisce che Fábio si ritroverà con la casella del cioccolato che contiene la mandorla?
 >
 > - **(A)** Scegli la prima colonna a sinistra.
-> - **(B)** Scegliere le prime due colonne a sinistra.
-> - **(C)** Scegli la terza riga dall'alto, contando verso il basso.
-> - **(D)** Scegli le ultime due righe dal basso, contando verso l'alto.
-> - **(E)** Qualsiasi interruzione, dal momento che F'a Bio finira' con la forza con il quadrato delle mandorle.
+> - **(B)** Seleziona le prime due colonne a sinistra.
+> - **(C)** Scegli la terza riga partendo dall'alto, contando verso il basso.
+> - **(D)** Scegli le ultime due righe partendo dal basso e contando verso l'alto.
+> - **(E)** Qualsiasi pausa, visto che Fàbio finirà per forza con il quadrato di mandorle.
 
 ![[src_obm_2010_n1_f1__q18.png]]
 
-**Risposta:** E
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_backward|Backward]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n1_f1#q18|src_obm_2010_n1_f1__Q18]]
 
 
 
@@ -652,17 +735,22 @@ Il primo passo che garantisce che Fabio ottiene il quadrato delle mandorle
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare chi ha fatto la dichiarazione falsa in un gioco di carte*
+*Identifica chi ha fatto la dichiarazione falsa in un gioco di carte*
 
-> Quattro amici  Arnaldo, Bernaldo, Cernaldo e Dernaldo  stanno giocando a carte. Esistono diverse schede $20$ in $4$ (blu, giallo, verde, rosso e viola) e numerate $1$ a $5$. Ogni amico riceve carte $5$ in modo che tutte le carte siano distribuite. Essi fanno le seguenti dichiarazioni:
-> 
-> Arnaldo: ``Ho quattro carte con lo stesso numero.'' Bernaldo: ``Ho cinque carte rosse.'' Cernaldo: ``Le mie cinque carte iniziano tutte con la lettera V.'' Dernaldo: ``Ho tre carte con un numero e due carte con un altro numero.''
-> 
-> È noto che esattamente una delle affermazioni è falsa. Chi ha fatto la falsa dichiarazione?
-> 
-> (A) Arnaldo \quad (B) Bernaldo \quad (C) Cernaldo \quad (D) Dernaldo \quad (E) Non è possibile determinare.
+> Quattro amici — Arnaldo, Bernaldo, Cernaldo e Dernaldo — stanno giocando a carte. Ci sono $20$ carte diverse in $4$ colori (blu, giallo, verde, rosso e viola) e numerate da $1$ a $5$. Ogni amico riceve $5$ carte, in modo che tutte le carte vengano distribuite. Fanno le seguenti affermazioni:
+>
+> Arnaldo: "Ho quattro carte con lo stesso numero." Bernaldo: "Ho cinque carte rosse." Cernaldo: "Le mie cinque carte iniziano tutte con la lettera V." Dernaldo: "Ho tre carte con un numero e due carte con un altro numero."
+>
+> È noto che esattamente una delle affermazioni è falsa. Chi ha fatto l'affermazione falsa?
+>
+> (A) Arnaldo \quad (B) Bernaldo \quad (C) Cernaldo \quad (D) Dernaldo \quad (E) Non è possibile determinarlo.
 
-**Risposta:** B
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n1_f1#q19|src_obm_2010_n1_f1__Q19]]
 
 
 
@@ -690,12 +778,17 @@ Il primo passo che garantisce che Fabio ottiene il quadrato delle mandorle
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il numero del viso mancante su una rete di icosaedro*
+*Trovare il numero della faccia mancante in uno sviluppo piatto dell'icosaedro*
 
-> La figura seguente è una rete (piano) di un icosaedro (un solido la cui faccia è triangolare equilaterale). Le facce sono numerate da $1$ a $5$ in modo tale che intorno a ogni vertice del solido appaiano tutti i numeri $1$ a $5$. Qual è il numero sul volto contrassegnato con ``?'?
-> 
+> La figura sottostante è una rete (pianta) di un icosaedro (un solido tutti i cui spigoli sono triangoli equilateri). Le facce sono numerate da $1$ a $5$ in modo tale che, attorno a ciascun vertice del solido, compaiano tutti i numeri da $1$ a $5$. Quale numero compare sulla faccia contrassegnata con ``?''?
+>
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
 ![[src_obm_2010_n1_f1__q20.png]]
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2010_n1_f1#q20|src_obm_2010_n1_f1__Q20]]

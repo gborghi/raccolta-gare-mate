@@ -29,9 +29,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadratico con coefficienti digitali ha radice razionale, quindi il numero a tre cifre è composto*
+*Un polinomio di secondo grado con coefficienti interi ha una radice razionale, quindi il numero di tre cifre è composto*
 
-> In questo caso, si deve indicare il valore di $a$, $b$, $c \in \{0, 1, 2, \ldots, 9\}$. L'equazione quadrata $ax^2 + bx + c = 0$ ha una radice razionale. Prova che il numero a tre cifre $\overline{abc}$ non è un numero primo.
+> Siano $a$, $b$, $c \in \{0, 1, 2, \ldots, 9\}$. L'equazione quadratica $ax^2 + bx + c = 0$ ha una radice razionale. Dimostrare che il numero di tre cifre $\overline{abc}$ non è un numero primo.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2010#q01|src_cn_csmo_2010__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma dei prodotti di tutti i sottoinsiemi di 99 elementi di {1,...,2010} è divisibile per 2011*
+*La somma dei prodotti di tutti i sottoinsiemi di {1,...,2010} costituiti da 99 elementi è divisibile per 2011*
 
-> Per ogni sottoinsieme di 99 elementi $A = \{a_1, a_2, \ldots, a_{99}\}$ di $\{1, 2, \ldots, 2010\}$, indicare $P(A) = a_1 \cdot a_2 \cdots a_{99}$. $A_1, A_2, \ldots, A_n$ siano tutti i sottoinsiemi di 99 elementi di $\{1, 2, \ldots, 2010\}$, $n = \binom{2010}{99}$. Prove che $2011 \mid \sum_{i=1}^{n} P(A_i)$.
+> Per ogni sottoinsieme di 99 elementi $A = \{a_1, a_2, \ldots, a_{99}\}$ di $\{1, 2, \ldots, 2010\}$, si denoti $P(A) = a_1 \cdot a_2 \cdots a_{99}$. Sia $A_1, A_2, \ldots, A_n$ l'insieme di tutti i sottoinsiemi di 99 elementi di $\{1, 2, \ldots, 2010\}$, $n = \binom{2010}{99}$. Dimostrare che $2011 \mid \sum_{i=1}^{n} P(A_i)$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2010#q02|src_cn_csmo_2010__Q02]]
 
 
 
@@ -81,11 +95,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo inciso interseca i ceviani; rapporto di prova dei prodotti è uguale a 3*
+*La circonferenza inscritta interseca le ceviane; dimostrare che il rapporto dei prodotti è uguale a 3*
 
-> Come mostrato nella figura. 3.1. Il cerchio $I$ di $\triangle ABC$ deve toccare $BC$ e $AB$ rispettivamente a $D$ e $F$. Il segmento $AD$ e il segmento $CF$ devono essere incrociati rispettivamente a $H$ e $K$. Provare che $$\frac{FD \times HK}{FH \times DK} = 3.$$
+> Come mostrato nella Fig. 3.1. Sia $I$ il cerchio inscritto in $\triangle ABC$; esso tocchi $BC$ e $AB$ rispettivamente in $D$ e $F$. Sia $I$ tale che intersechi i segmenti $AD$ e $CF$ rispettivamente in $H$ e $K$. Dimostrare che $$\frac{FD \times HK}{FH \times DK} = 3.$$
 
 ![[src_cn_csmo_b11_w277__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_csmo_2010#q03|src_cn_csmo_2010__Q03]]
 
 
 
@@ -108,9 +129,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare buone coppie (a, b) con 1 <=a <=b <=10 e ab , a^k - b^k per qualche k*
+*Conta le coppie (a,b) tali che 1<=a<=b<=10 e ab | a^k - b^k per qualche k*
 
-> $a$ e $b$ siano integri positivi come $1 \le a \le b \le 10$. Se esiste un intero positivo $k$ tale che $ab \mid (a^k - b^k)$, allora diciamo che la coppia $(a, b)$ è buona. Determina il numero di buone coppie.
+> Siano $a$ e $b$ numeri interi positivi tali che $1 \le a \le b \le 10$. Se esiste un numero intero positivo $k$ tale che $ab \mid (a^k - b^k)$, allora diciamo che la coppia $(a, b)$ è buona. Determinare il numero di coppie buone.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_csmo_2010#q04|src_cn_csmo_2010__Q04]]
 
 
 
@@ -135,11 +163,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo retto con punto medio di due punti interiori; dimostrare la disuguaglianza di media armonica per i rapporti*
+*Triangolo rettangolo con il punto medio di due punti interni; dimostrare la disuguaglianza della media armonica per i rapporti*
 
-> Come mostrato nella figura. 5.1. Il $C$ deve essere l'angolo retto di $\triangle ABC$. Che $M_1$ e $M_2$ siano due punti arbitrari all'interno di $\triangle ABC$, e che $M$ sia il punto medio di $M_1 M_2$. Le estensioni di $BM_1$, $BM_2$ e $BM$ si incrociano rispettivamente a $N_1$, $N_2$ e $N$. Provare che $$\frac{M_1 N_1}{BM_1} + \frac{M_2 N_2}{BM_2} \ge \frac{MN}{BM}.$$
+> Come mostrato nella Fig. 5.1. Sia $C$ l'angolo retto di $\triangle ABC$. Siano $M_1$ e $M_2$ due punti arbitrari all'interno di $\triangle ABC$, e sia $M$ il punto medio di $M_1 M_2$. Le estensioni di $BM_1$, $BM_2$ e $BM$ intersecano $AC$ rispettivamente in $N_1$, $N_2$ e $N$. Dimostrare che $$\frac{M_1 N_1}{BM_1} + \frac{M_2 N_2}{BM_2} \ge \frac{MN}{BM}.$$
 
 ![[src_cn_csmo_b11_w277__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_csmo_2010#q05|src_cn_csmo_2010__Q05]]
 
 
 
@@ -164,9 +199,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la formula ricorsiva per la sequenza definita con il vincolo frazione unitaria*
+*Dimostrare la formula ricorsiva per la successione definita dal vincolo delle frazioni unitarie*
 
-> Che $\mathbf{N}^*$ sia l'insieme di integri positivi. Definire $a_1 = 2$ e per $n = 1, 2, \ldots,$ $$a_{n+1} = \min\left\{\lambda \,\middle|\, \frac{1}{a_1} + \frac{1}{a_2} + \cdots + \frac{1}{a_n} + \frac{1}{\lambda} < 1,\ \lambda \in \mathbf{N}^*\right\}.$$ Prove che $a_{n+1} = a_n^2 - a_n + 1$ per $n = 1, 2, \ldots.$
+> Sia $\mathbf{N}^*$ l'insieme degli interi positivi. Definisci $a_1 = 2$, e per $n = 1, 2, \ldots,$
+> $$a_{n+1} = \min\left\{\lambda \,\middle|\, \frac{1}{a_1} + \frac{1}{a_2} + \cdots + \frac{1}{a_n} + \frac{1}{\lambda} < 1,\ \lambda \in \mathbf{N}^*\right\}.$$
+> Dimostrare che $a_{n+1} = a_n^2 - a_n + 1$ per $n = 1, 2, \ldots.$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_csmo_2010#q06|src_cn_csmo_2010__Q06]]
 
 
 
@@ -189,9 +233,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Doppia somma con min delle sequenze ordinate non è negativa*
+*La somma doppia con il minimo di sequenze ordinate è non negativa*
 
-> $n$ sia un numero intero positivo. I numeri reali $a_1, a_2, \ldots, a_n$ e $r_1, r_2, \ldots, r_n$ sono tali che $a_1 \le a_2 \le \cdots \le a_n$ e $0 \le r_1 \le r_2 \le \cdots \le r_n$. Provare che $$\sum_{i=1}^{n} \sum_{j=1}^{n} a_i a_j \min(r_i, r_j) \ge 0.$$
+> Sia $n$ un numero intero positivo. I numeri reali $a_1, a_2, \ldots, a_n$ e $r_1, r_2, \ldots, r_n$ sono tali che $a_1 \le a_2 \le \cdots \le a_n$ e $0 \le r_1 \le r_2 \le \cdots \le r_n$. Dimostrare che $$\sum_{i=1}^{n} \sum_{j=1}^{n} a_i a_j \min(r_i, r_j) \ge 0.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_telescoping|Telescoping]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_csmo_2010#q07|src_cn_csmo_2010__Q07]]
 
 
 
@@ -217,10 +268,15 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova n minimo in modo che n triangoli su 8 punti circolari condividano un lato*
+*Trovare il minimo n tale che n triangoli costruiti sui 8 punti della circonferenza condividano un lato*
 
-> Dati otto punti $A_1, A_2, \ldots, A_8$ su un cerchio, determinare il numero intero positivo più piccolo $n$ in modo tale che tra tutti i triangoli $n$ con vertici in questi otto punti, ci sono due che hanno un lato comune.
+> Dati otto punti $A_1, A_2, \ldots, A_8$ su una circonferenza, determina il più piccolo intero positivo $n$ tale che, tra qualsiasi insieme di $n$ triangoli i cui vertici siano tra questi otto punti, vi siano due triangoli che hanno un lato in comune.
 
 ![[src_cn_csmo_b11_w285__q08.png]]
 
-**Risposta:** 9
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_csmo_2010#q08|src_cn_csmo_2010__Q08]]

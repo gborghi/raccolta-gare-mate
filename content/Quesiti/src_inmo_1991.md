@@ -33,13 +33,20 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi positivi n con n <=1991 e n^2+3n+2 divisibili per 6*
+*Quanti interi positivi n ≤ 1991 hanno n² + 3n + 2 multiplo di 6*
 
-> Trova il numero di interi positivi $n$ in modo tale che
-> 
+> Trovare il numero di interi positivi $n$ tali che
+>
 > (i) $n \le 1991$,
-> 
-> (ii) $n^2 + 3n + 2$ è un multiple di 6.
+>
+> (ii) $n^2 + 3n + 2$ è un multiplo di 6.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_inmo_1991#q01|src_inmo_1991__Q01]]
 
 
 
@@ -64,9 +71,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto con semicircoli su ciascun lato: prova l'identità della somma di superficie*
+*Triangolo acuto con semicerchi su ciascun lato: dimostrare l'identità sulla somma delle aree*
 
-> In un triangolo a angolo acuto $ABC$, un semicircolo è costruito verso l'esterno su ciascun lato. I punti $B'$ e $C'$ sono definiti in modo analogo. Prove che $$S_{BCA'} + S_{CAB'} + S_{ABC'} = S_{ABC},$$ dove $S_{XYZ}$ indica l'area del triangolo $XYZ$.
+> In un triangolo acutangolo $ABC$, su ciascun lato si costruisce, verso l'esterno, un semicerchio. I punti $B'$ e $C'$ sono definiti analogamente. Dimostrare che
+> $$S_{BCA'} + S_{CAB'} + S_{ABC'} = S_{ABC},$$
+> dove $S_{XYZ}$ denota l'area del triangolo $XYZ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1991#q02|src_inmo_1991__Q02]]
 
 
 
@@ -91,9 +107,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC: prova x+y+z+xyz=0 per le espressioni tangenti indicate*
+*Triangolo ABC: dimostrare che x+y+z+xyz=0 per le espressioni date della tangente*
 
-> Date un triangolo $ABC$, indicare $$x = \tan\frac{B-C}{2}\tan\frac{A}{2}, \quad y = \tan\frac{C-A}{2}\tan\frac{B}{2}, \quad z = \tan\frac{A-B}{2}\tan\frac{C}{2}.$$ Prove che $x + y + z + xyz = 0$.
+> Dato un triangolo $ABC$, si denoti
+> $$x = \tan\frac{B-C}{2}\tan\frac{A}{2}, \quad y = \tan\frac{C-A}{2}\tan\frac{B}{2}, \quad z = \tan\frac{A-B}{2}\tan\frac{C}{2}.$$
+> Dimostrare che $x + y + z + xyz = 0$.
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1991#q03|src_inmo_1991__Q03]]
 
 
 
@@ -117,9 +142,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri reali a,b,c in (0,1) con a+b+c=2: dimostrare la somma delle frazioni >=8*
+*Numeri reali a, b, c in (0,1) tali che a+b+c=2: dimostrare che la somma delle frazioni è ≥8*
 
-> $a, b, c$ siano numeri reali nell'intervallo $(0, 1)$ con $a + b + c = 2$. Provare che $$\frac{a}{1-a} + \frac{b}{1-b} + \frac{c}{1-c} \ge 8.$$
+> Siano $a, b, c$ numeri reali nell'intervallo $(0, 1)$ con $a + b + c = 2$. Dimostrare che
+> $$\frac{a}{1-a} + \frac{b}{1-b} + \frac{c}{1-c} \ge 8.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1991#q04|src_inmo_1991__Q04]]
 
 
 
@@ -142,9 +175,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con incentro I, punti X,Y su AB,AC: collinearietà e angolo*
+*Triangolo con incentro I, punti X, Y su AB, AC: collinearità e angolo*
 
-> In un triangolo $ABC$ con incentro $I$, i punti $X$, $Y$ sono presi sui segmenti $AB$, $AC$ rispettivamente in modo tale che $BX \cdot AB = IB^2$ e $CY \cdot AC = IC^2$. Dato che i punti $X$, $I$, $Y$ sono collineari, trovare i possibili valori di $\angle A$.
+> In un triangolo $ABC$ con incentro $I$, si prendono i punti $X$, $Y$ sui segmenti $AB$, $AC$ rispettivamente in modo che $BX \cdot AB = IB^2$ e $CY \cdot AC = IC^2$. Dato che i punti $X$, $I$, $Y$ sono allineati, determina i valori possibili di $\angle A$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1991#q05|src_inmo_1991__Q05]]
 
 
 
@@ -169,11 +209,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i numeri interi positivi p per i quali 3^(p-1) divide 2^p+1; 3^(n+2) non divide 2^n+1+1*
+*Trovare i numeri interi positivi p per cui 3^(p-1) divide 2^p+1; 3^(n+2) non divide 2^n+1+1*
 
-> (a) Trova tutti gli integri positivi $p$ per i quali $3^{p-1}$ divide $2^p + 1$.
-> 
-> b) dimostrare che $3^{n+2}$ non divide $2^{n+1} + 1$ per un intero positivo $n$.
+> (a) Trova tutti gli interi positivi $p$ per cui $3^{p-1}$ divide $2^p + 1$.
+>
+> (b) Dimostrare che $3^{n+2}$ non divide $2^{n+1} + 1$ per nessun intero positivo $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1991#q06|src_inmo_1991__Q06]]
 
 
 
@@ -197,9 +244,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le soluzioni reali a un sistema simmetrico di tre equazioni*
+*Trovare tutte le soluzioni reali di un sistema simmetrico di tre equazioni*
 
-> Determinare tutte le soluzioni reali $x, y, z$ del sistema $$\begin{cases} x + y - z = 4, \\ x^2 - y^2 + z^2 = -4, \\ xyz = 6. \end{cases}$$
+> Determinare tutte le soluzioni reali $x, y, z$ del sistema
+> $$\begin{cases} x + y - z = 4, \\ x^2 - y^2 + z^2 = -4, \\ xyz = 6. \end{cases}$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1991#q07|src_inmo_1991__Q07]]
 
 
 
@@ -222,9 +277,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*10 oggetti di peso intero per un totale di 20: divisione in gruppi di peso uguale se nessun peso supera 10*
+*10 oggetti a peso intero per un totale di 20: suddividili in gruppi di uguale peso se nessun peso supera 10*
 
-> Ci sono stati dati 10 oggetti di pesi interi con il peso totale di 20. Prova che se nessuno dei pesi supera il 10, allora gli oggetti possono essere divisi in due gruppi di pesi uguali.
+> Ci vengono dati 10 oggetti con pesi interi, il cui peso totale è 20. Dimostrare che, se nessuno dei pesi supera 10, allora gli oggetti possono essere suddivisi in due gruppi di ugual peso.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_1991#q08|src_inmo_1991__Q08]]
 
 
 
@@ -247,9 +309,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Construzione tangente in cerchio: triangolo AB'C' simile a ABC*
+*Costruzione della tangente all'incircoscritta: triangolo AB'C' simile ad ABC*
 
-> L'incircolo $l$ di un triangolo $ABC$ è centrato a $I$ e tocca il lato $BC$ a $T$. La linea attraverso $T$ parallela a $IA$ incontra di nuovo l'incircolo a $S$ e la tangente all'incircolo a $S$ incontra rispettivamente $AB$, $AC$ nei punti $C'$ e $B'$. Prove che il triangolo $AB'C'$ sia simile al triangolo $ABC$.
+> L'incircoscritta $l$ di un triangolo $ABC$ ha centro in $I$ e è tangente al lato $BC$ nel punto $T$. La retta passante per $T$ e parallela a $IA$ incontra nuovamente l'incircoscritta nel punto $S$, e la tangente all'incircoscritta nel punto $S$ incontra $AB$ e $AC$ nei punti $C'$ e $B'$, rispettivamente. Dimostrare che il triangolo $AB'C'$ è simile al triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1991#q09|src_inmo_1991__Q09]]
 
 
 
@@ -274,6 +343,15 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le n per le quali il numero di coppie ordinate (x,y) con 1/x+1/y=1/n è pari a 5*
+*Trovare tutti gli n per cui il numero di coppie ordinate (x,y) tali che 1/x+1/y=1/n è uguale a 5*
 
-> Per qualsiasi integro positivo $n$, $s(n)$ indichi il numero di coppie ordinate $(x, y)$ di integri positivi per i quali $$\frac{1}{x} + \frac{1}{y} = \frac{1}{n}.$$ determina tutte quelle $n$ per le quali $s(n) = 5$.
+> Per ogni intero positivo $n$, si indichi con $s(n)$ il numero di coppie ordinate $(x, y)$ di interi positivi tali che
+> $$\frac{1}{x} + \frac{1}{y} = \frac{1}{n}.$$
+> Determinare tutti quegli $n$ per cui $s(n) = 5$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1991#q10|src_inmo_1991__Q10]]

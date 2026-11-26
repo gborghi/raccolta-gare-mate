@@ -40,17 +40,20 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Contemporary leaf cut in 2020 similar parts*
+*Length of the other side of a contemporary sheet cut into 2020 parts of the same shape*
 
-> If you cut an A4 sheet precisely in half along a straight line parallel to the shorter side, you create two sheets that have the same shape as the original one, that is, you get from it through a rotation and a reduction in scale. This year we're going to say that a rectangular sheet is contemporary if, by cutting it in 2020 into equal parts obtained with parallel cuts on its shorter side, you get 2020 rectangles that have the same shape as the original one. If the short side of a contemporary sheet is 1, how long is the other side?
+> If an A4 sheet is cut exactly in half along a straight line parallel to the shorter side, two sheets are created that have the same shape as the original, that is, that are obtained from it by a rotation and a reduction in scale. This year we will say that a rectangular sheet is "contemporary" if, when it is cut into 2020 equal parts by cuts parallel to its shorter side, one obtains 2020 rectangles that have the same shape as the original. If the short side of a contemporary sheet measures 1, how long is the other side?
 >
 > - **(A)** √ 2020
 > - **(B)** 20203/2
 > - **(C)** 2021 2
 > - **(D)** 2020
-> - **(E)** None of the above
+> - **(E)** none of the above
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2020_2livello#q01|src_archimede_2020_2livello__Q01]]
 
 
 
@@ -82,11 +85,19 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Game of thrones, always true*
+*Chalkboard game, always-true statement*
 
-> Alberto and Barbara write numbers on the board. Alberto leaves and writes the real number x. Then Barbara writes number one. The two then alternate, and each turn they write a number. Albert in his turn multiplies the last number written for x2 and writes the result. Barbara in her turn sums up the last number written x + 1 and writes the result. They stop when they have 2020 numbers written on the board. Which of the following statements is always true? (A) There is at least one negative number written on the board (B) All numbers written on the board are positive (C) Alberto wrote only positive numbers (D) Alberto wrote only negative numbers (E) Barbara wrote only positive numbers
+> Alberto and Barbara write numbers on the chalkboard. Alberto starts by writing the real number x.
+> Then Barbara writes the number 1. The two then alternate, and at each turn they write a number.
+> On his turn Alberto multiplies the last number written by x2 and writes the result. On her turn Barbara adds x + 1 to the last number written and writes the result.
+> They stop when 2020 numbers are written on the chalkboard. Which of the following statements is always true?
+> (A) There is at least one negative number written on the chalkboard (B) All the numbers written on the chalkboard are positive (C) Alberto wrote only positive numbers (D) Alberto wrote only negative numbers (E) Barbara wrote only positive numbers
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_induzione|Induction]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2020_2livello#q02|src_archimede_2020_2livello__Q02]]
 
 
 
@@ -118,9 +129,11 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four first years with a total of 240, the youngest*
+*Four prime ages with sum 240, the youngest*
 
-> Anna, Bianca, Carla, and Diana are four women of different ages. Their ages are prime numbers whose sum is 240. Knowing that none of them are over 70, what is the age of the youngest?
+> Anna, Bianca, Carla and Diana are four women of different ages (in years). Their ages are
+> prime numbers whose sum is 240. Knowing that none of them is more than 70 years old, what is the age
+> of the youngest?
 >
 > - **(A)** 47
 > - **(B)** 53
@@ -128,7 +141,11 @@ level: 2 livello
 > - **(D)** 61
 > - **(E)** 67
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2020_2livello#q03|src_archimede_2020_2livello__Q03]]
 
 
 
@@ -163,7 +180,7 @@ level: 2 livello
 
 *Square, circle, intersections, length AY*
 
-> Lucia, after drawing the square ABCD of the unit side, draws a circumference of center C and equal radius to the side of the square. It then indicates with X the intersection between the diagonal AC and the circumference, and with Y the intersection of the straight DX with the side AB. How much is the length of the AY segment ?
+> Lucia, after drawing the unit-side square ABCD, draws a circle with centre C and radius equal to the side of the square. She then denotes by X the intersection between the diagonal AC and the circle, and by Y the intersection of the line DX with the side AB. What is the length of the segment AY?
 >
 > - **(A)** √ 2+1 6
 > - **(B)** √ 2 −1
@@ -171,7 +188,11 @@ level: 2 livello
 > - **(D)** 3 + √ 2 8
 > - **(E)** √ 2 2
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2020_2livello#q04|src_archimede_2020_2livello__Q04]]
 
 
 
@@ -203,17 +224,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-Choose 3 people at the table, neither adjacent nor opposite
+*Ways to choose 3 of 32 people, pairwise neither adjacent nor opposite*
 
-> Around a round table, 32 people are seated at a constant distance from each other. How many ways can you choose 3 of them so that couples are neither adjacent nor diametrically opposite?
+> Around a round table sit 32 people, each at a constant distance from the next. In how many ways can one choose 3 of them so that, pairwise, they are neither adjacent nor diametrically opposite?
 >
 > - **(A)** 2246
 > - **(B)** 2480
 > - **(C)** 3616
 > - **(D)** 24128
-> - **(E)** None of the above
+> - **(E)** none of the above
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2020_2livello#q05|src_archimede_2020_2livello__Q05]]
 
 
 
@@ -249,9 +274,9 @@ Choose 3 people at the table, neither adjacent nor opposite
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two swimmers, possible values of Zanobi tanks*
+*Two swimmers, possible values of Zanobi's lengths*
 
-> Zanobi and Veronica go to the pool together and start swimming back and forth at the same time, at constant but different speeds, each in their own lane, starting from the same side of the pool. Veronica notices that, by the time she completes 28 swimming pools (i.e. she finishes 28 times the length of the pool), Zanobi is next to her. As soon as she completes 70 swimming pools, Veronica stops swimming and comes out of the water; at the same time, Zanobi also arrives at the edge of the pool, stops swimming and comes out of the water next to Veronica. Zanobi, who is slower than Veronica, has made m tanks; how many different values can m assume?
+> Zanobi and Veronica go to the pool together and start swimming back and forth at constant but different speeds, each in their own lane, starting from the same side of the pool. Veronica notices that, at the moment she completes 28 lengths (i.e. finishes swimming the length of the pool 28 times), Zanobi is next to her. As soon as she completes 70 lengths, Veronica stops swimming and gets out of the water; at the same moment, Zanobi also arrives at the edge of the pool, stops swimming and gets out of the water next to Veronica. Zanobi, who is slower than Veronica, has done m lengths; how many different values can m take?
 >
 > - **(A)** 1
 > - **(B)** 3
@@ -259,7 +284,11 @@ Choose 3 people at the table, neither adjacent nor opposite
 > - **(D)** 35
 > - **(E)** 69
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2020_2livello#q06|src_archimede_2020_2livello__Q06]]
 
 
 
@@ -291,9 +320,10 @@ Choose 3 people at the table, neither adjacent nor opposite
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangle with inner conical points, ratio AB/BC*
+*Rectangle with interior concyclic points, ratio AB/BC*
 
-> Either ABCD is a rectangle and M and N are internal points, respectively, on the sides AB and BC. Let's say that MC = CD, MD = MN and the points C, D, M, N belong to the same circumference. How much is the AB/BC ratio?
+> Let ABCD be a rectangle and let M, N be points inside, respectively, on sides AB and BC. Suppose that MC = CD, MD = MN and that the points C, D, M, N belong to the same circle.
+> What is the value of the ratio AB/BC?
 >
 > - **(A)** 1+ √ 3 2
 > - **(B)** √ 2
@@ -301,7 +331,11 @@ Choose 3 people at the table, neither adjacent nor opposite
 > - **(D)** √ 3
 > - **(E)** 2
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2020_2livello#q07|src_archimede_2020_2livello__Q07]]
 
 
 
@@ -332,9 +366,9 @@ Choose 3 people at the table, neither adjacent nor opposite
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between figures 1 and figures 0 from 1 to 2020*
+*Difference between the number of 1s and the number of 0s from 1 to 2020*
 
-> Aisha writes on a sheet all the numbers from 1 to 2020. What's the difference between the number of digits 1 and the number of digits 0 you wrote?
+> Aisha writes down all the numbers from 1 to 2020 on a sheet of paper. What is the difference between the number of digits “1” and the number of digits “0” that she wrote?
 >
 > - **(A)** 78
 > - **(B)** 1010
@@ -342,7 +376,11 @@ Choose 3 people at the table, neither adjacent nor opposite
 > - **(D)** 2020
 > - **(E)** 5005
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2020_2livello#q08|src_archimede_2020_2livello__Q08]]
 
 
 
@@ -381,17 +419,30 @@ Choose 3 people at the table, neither adjacent nor opposite
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Linear cube system, combined value*
+*Value of a linear combination given three equations in x1 through x30*
 
-> The real numbers x1, x2, x3, . . . , x30 the following conditions are fulfilled:       203x1 + 213x2 + 223x3 + · · + 493x30 = 13 213x1 + 223x2 + 233x3 + · · · + 503x30 = 1 223x1 + 233x2 + 243x3 + · · · + 513x30 = 19. How much is 21x1 + 22x2 + 23x3 + · · + 50x30?
+> The real numbers x1, x2, x3, . . . , x30 satisfy the following conditions:
+> 
+> 
+> 
+> 
+> 
+> 203x1 + 213x2 + 223x3 + · · + 493x30 = 13
+> 213x1 + 223x2 + 233x3 + · · + 503x30 = 1
+> 223x1 + 233x2 + 243x3 + · · + 513x30 = 19.
+> What is the value of 21x1 + 22x2 + 23x3 + · · + 50x30?
 >
-> - **(A)** More acceptable values
-> - **(B)** The system has no solution
+> - **(A)** there is more than one acceptable value
+> - **(B)** the system has no solution
 > - **(C)** 1065
 > - **(D)** 7
 > - **(E)** 5
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2020_2livello#q09|src_archimede_2020_2livello__Q09]]
 
 
 
@@ -424,11 +475,18 @@ Choose 3 people at the table, neither adjacent nor opposite
 <div class="qlang-split" data-lang="en"></div>
 
 
-Playing with stacks of coins, who loses?
+*Coin-stack game, who loses*
 
-> Agnese, Beatrice, Claudius and Darius play with 53 piles of coins. Anyway, he took two piles, these have a different number of coins. In each turn, a player picks a stack and removes a coin from it. He loses who by removing a coin from a stack makes this stack equal to another one on the table. A stack can have 0 coins and two stacks with 0 coins are considered equal. Agnese begins, then in order play Beatrice, Claudius and Darius, after which he touches Agnese again and it always proceeds in this order. If at the start of the game there are 2020 coins in total and everyone plays their best, who loses? (A) Agnese (B) Beatrice (C) Claudius (D) Darius (E) It is not possible to determine this with these data
+> Agnese, Beatrice, Claudio and Dario play with 53 piles of coins. Any two piles, however chosen, have a different number of coins. On each turn, a player chooses a pile and removes one coin from it. The player who, by removing a coin from a pile, makes this pile the same height as another one present on the table loses.
+> A pile may have 0 coins and two piles with 0 coins are considered equal. Agnese starts, then Beatrice, Claudio and Dario play in order, after which it is Agnese’s turn again and the order continues in this way.
+> If at the start of the game there are 2020 coins in total and if everyone plays optimally, who loses?
+> (A) Agnese (B) Beatrice (C) Claudio (D) Dario (E) It cannot be determined from these data
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2020_2livello#q10|src_archimede_2020_2livello__Q10]]
 
 
 
@@ -459,9 +517,10 @@ Playing with stacks of coins, who loses?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bisset, tangent circle, find AB*
+*Angle bisector, tangent circle, find AB*
 
-> Both ABC is a triangle and D is the foot of the vertex coming out of the vertex A. Both ω the tangent circumference to AC in A and passing through D. Let P be the second intersection of ω with the BC line. If we know that AC is 54, AD is 63, and CP is 108, we find AB.
+> Let ABC be a triangle and let D be the foot of the bisector from vertex A. Let ω be the circle tangent to AC at A and passing through D. Let P be the second intersection of ω with line BC.
+> Given that AC = 54, AD = 63 and CP = 108, find AB.
 >
 > - **(A)** 72
 > - **(B)** 147 2
@@ -469,7 +528,10 @@ Playing with stacks of coins, who loses?
 > - **(D)** 99
 > - **(E)** 102
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2020_2livello#q11|src_archimede_2020_2livello__Q11]]
 
 
 
@@ -504,17 +566,26 @@ Playing with stacks of coins, who loses?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum power of 5 dividing combination coefficients*
+*Highest power of 5 dividing a combination of coefficients*
 
-> Given the polynomial (x2 + 5x −19)50 = a0 + a1x + a2x2 + · · + a100x100, consider the quantity M = a0 −a1 + 4a2 −9a3 + 16a4 −81a5 + 64a6 −729a7 + · · · + 298a98 −398a99 + 2100a100, where the coefficient of a2k is 22k and the coefficient of a2k+1 is −32k. What's the maximum power of 5 dividing M?
+> Given the polynomial
+> (x2 + 5x −19)50 = a0 + a1x + a2x2 + · · + a100x100,
+> consider the quantity
+> M = a0 −a1 + 4a2 −9a3 + 16a4 −81a5 + 64a6 −729a7 + · · + 298a98 −398a99 + 2100a100,
+> where the coefficient of a2k is 22k and the coefficient of a2k+1 is −32k. What is the highest power of
+> 5 that divides M?
 >
 > - **(A)** 50
 > - **(B)** 51
 > - **(C)** 55
 > - **(D)** 550
-> - **(E)** 5100 Problems with numerical answer  5 points
+> - **(E)** 5100 Problemi a risposta numerica – 5 punti
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2020_2livello#q12|src_archimede_2020_2livello__Q12]]
 
 
 
@@ -544,11 +615,21 @@ Playing with stacks of coins, who loses?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Combination of safe with divisibility conditions 11*
+*Combination of a safe with divisibility conditions by 11*
 
-> The burglar Fabio is grappling with a safe guarded by a combination of five digits, each between 1 and 9. Fortunately for him, the poor housewives left a note with some indication: They are a, b, c, d and e, in order, the five digits of the combination. So both ae and abe and abde, read as numbers in base 10, are divisible by 11, but abcde is not. How many attempts will Fabio have to make to be sure he can open the safe?
+> The burglar Fabio is dealing with a safe protected by a combination of 5 digits,
+> each between 1 and 9.
+> Fortunately for him, the unsuspecting homeowners left
+> a note with some indication: “Let a, b, c, d and e, in order, be the five digits of
+> the combination. Then both ae and abe and abde, read as numbers in base 10, are divisible by
+> 11, but abcde is not.” How many attempts will Fabio have to make at most to be sure of being able to
+> open the safe?
 
-**Answer:** 64
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2020_2livello#q13|src_archimede_2020_2livello__Q13]]
 
 
 
@@ -576,11 +657,15 @@ Playing with stacks of coins, who loses?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomials with p(x) ^2=p(x^2) + alpha p(x), counting*
+*Polynomials with p(x)^2=p(x^2)+alpha p(x), counting*
 
-> How many polynomials are p(x) with real coefficients, of degree between 1 and 2020 (extremes included), for which there exists a real number α such that the equation p(x) 2 = p x2 + αp(x) is verified for each real number x?
+> How many real-coefficient polynomials p(x) of degree between 1 and 2020 (inclusive) are there for which there exists a real number α such that the equation p(x)^2 = p(x^2) + αp(x) holds for every real number x?
 
-**Answer:** 4040
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2020_2livello#q14|src_archimede_2020_2livello__Q14]]
 
 
 
@@ -609,9 +694,18 @@ Playing with stacks of coins, who loses?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Full square dividers, maximum number*
+*Divisors of a perfect square, maximum number*
 
-> Demonstrative Exercise (a) Suppose n = k2 is a perfect square. Show that the number of positive divisors of n strictly less than k is equal to the number of n strictly greater than k divisors. (b) Suppose n = k2 is a perfect square. Prove that n has a maximum of 2k −1 positive divisors. (c) Find all positive integers k such that k2 has exactly 2k −1 positive divisors.
+> PROOF EXERCISE
+> (a) Suppose that n = k2 is a perfect square. Prove that the number of positive divisors of n strictly less than k is equal to the number of divisors of n strictly greater than k.
+> (b) Suppose that n = k2 is a perfect square. Prove that n has at most 2k −1 positive divisors.
+> (c) Find all positive integers k such that k2 has exactly 2k −1 positive divisors.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_bigezione|Bijection / correspondence]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2020_2livello#q15|src_archimede_2020_2livello__Q15]]
 
 
 
@@ -643,9 +737,19 @@ Playing with stacks of coins, who loses?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*segments between square centers, minimum colour*
+*Segments between square centres, minimum colouring*
 
-> On a huge square sheet, Marco considers a rectangle with a length of 2020 squares and height 2. At this point it wants to combine with 20202 segments each of the 2020 square centers in the lower row of the rectangle to each of the square centers of the upper row. In addition, he wants that if two of these segments intersect (possibly only at one end) they are plotted with different-colored pens. (a) Demonstrate that it is impossible to satisfy Marco's requests if you have only 4038 different coloured pens. (b) Demonstrate that it is possible to draw the segments according to Marco's requests using 4039 colours.
+> DEMONSTRATION EXERCISE
+> On a huge grid sheet, Marco considers a rectangle 2020 squares long and 2 high.
+> He then wants to join with 20202 segments each of the 2020 centres of the squares in the lower row of the rectangle to each of the centres of the squares in the upper row. Moreover, he wants that if two of these segments intersect (possibly even only at an endpoint) they be drawn with pens of different colour.
+> (a) Prove that it is impossible to satisfy Marco's requests if only pens of 4038 different colours are available.
+> (b) Prove that it is instead possible to draw the segments according to Marco's requests using 4039 colours.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_grafi|Graph theory]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2020_2livello#q16|src_archimede_2020_2livello__Q16]]
 
 
 
@@ -676,8 +780,17 @@ Playing with stacks of coins, who loses?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Scalene triangle, circles, symmetrical, alignments*
+*Scalene triangle, circles, symmetry, collinearities*
 
-![[src_archimede_2020_2livello__prob17.png]]
+> PROOF EXERCISE
+> Let ABC be an scalene triangle with BC > CA > AB. Let ω and γ be the circles passing through A with centres, respectively, B and C. They intersect segment BC at M and N, respectively.
+> Construct Z as the reflection of A about the midpoint of MN.
+> (a) Calling P the intersection of ZM with AC, show that CPM is isosceles.
+> (b) Letting X be the intersection of ZM with ω distinct from M, show that BX and AC are parallel.
+> (c) Letting Y be the intersection of ZN with γ distinct from N, show that A, X and Y are collinear.
 
-> Whether ABC is a slope triangle with BC > CA > AB. The circumferences passing through A of the centre are ω and γ, respectively, B and C. They intersect the BC segment in M and N, respectively. We construct Z as the symmetrical of A with respect to the mean point of MN. (a) Called P the intersection of ZM with AC, showing that CPM is isosceles. (b) This X is the intersection of ZM with ω distinct from M, showing that BX and AC are parallel. (c) This Y is the intersection of ZN with γ distinct from N, showing that A, X and Y are aligned.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2020_2livello#q17|src_archimede_2020_2livello__Q17]]

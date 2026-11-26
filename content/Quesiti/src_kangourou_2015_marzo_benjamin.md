@@ -36,7 +36,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In which figure is the shaded area half of the total*
+*In which figure is the shaded area half of the total?*
 
 ![[src_kangourou_2015_marzo_benjamin__prob1.png]]
 
@@ -47,7 +47,11 @@ level: kangourou
 >           D)	
 >         E)
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q01|src_kangourou_2015_marzo_benjamin__Q01]]
 
 
 
@@ -80,13 +84,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which is not my*
+*Which is not mine*
 
 ![[src_kangourou_2015_marzo_benjamin__prob2.png]]
 
-> Looking at my umbrella from above, as shown in the accompanying figure, you read the word KANGAROO. Which of the drawings in the answers shows an umbrella that is certainly not mine? A) B) C) D) E)
+> Looking at my umbrella from above, as shown in the figure beside it, the word KANGAROO can be read. Which of the drawings in the answers shows an umbrella that is certainly not mine?
+>         A)	 	
+>        B)	 	
+>        C)	 	
+>        D)	 	
+>        E)
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q02|src_kangourou_2015_marzo_benjamin__Q02]]
 
 
 
@@ -137,7 +150,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min squares to be repainted (not adjacent to each other)*
+*Small squares to repaint (no adjacent identical ones)*
 
 ![[src_kangourou_2015_marzo_benjamin__prob3.png]]
 
@@ -161,9 +174,15 @@ level: kangourou
 \end{document}
 ```
 
-> Samuel painted the nine squares into which the large square is divided by white, gray and black paint as you can see in the picture. He then decided to repaint some of them so that two squares painted the same way do not have sides in common. What's the minimum number of squares he can repaint? A) 2          B) 3            C) 4           D) 5               E) 6
+> Samuele painted the nine small squares into which the large square is divided with white, grey, and black paint, as you can see in the figure. He then decided to repaint some of them so that no two small squares painted in the same way share a side. What is the minimum number of small squares he needs to repaint?
+> A) 2          B) 3            C) 4           D) 5               E) 6
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q03|src_kangourou_2015_marzo_benjamin__Q03]]
 
 
 
@@ -197,19 +216,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*10 chickens, eggs in 10 days*
+*10 hens, eggs in 10 days*
 
-> There are ten chickens in a chicken coop. Five of them each lay one egg a day while the others each lay one egg on alternate days. How many eggs do the chickens lay in a 10-day period? A) 75
-> 	
-> B) 60
-> 	
-> C) 50
-> 	
-> D) 25
-> 	
+> In a hen house, there are ten hens. Five of them each lay one egg a day, while each of the other five lays one egg on alternate days. How many eggs do the hens lay in total over a period of 10 days?
+> A) 75	
+>
+> B) 60	
+>
+> C) 50	
+>
+> D) 25	
+>
 > E) 10
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q04|src_kangourou_2015_marzo_benjamin__Q04]]
 
 
 
@@ -246,12 +270,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which fraction gives a number smaller than 2*
+*Which fraction has the smallest number less than 2?*
 
-> Which of the following fractions gives a number smaller than 2 ? A) 19/8 B) 20/9 C) 21/10 D) 22/11 E) 23/12 R A G N A K O O
+> Which of the following fractions yields a number smaller than 2?
+> A) 19/8	 	
+> B) 20/9	 	
+> C) 21/10	
+> D) 22/11	
+> E) 23/12
+> R A G N A K O O
 >
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q05|src_kangourou_2015_marzo_benjamin__Q05]]
 
 
 
@@ -286,19 +320,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the highlighted line (4 cm2 squares)*
+*Length of the highlighted line (small squares: 4 cm²)*
 
 ![[src_kangourou_2015_marzo_benjamin__prob6.png]]
 
-> The area of each of the squares making up the figure is 4 cm2. What is the length of the line highlighted in the figure? A) 16 cm
-> 	
+> Each of the small squares that make up the figure has an area of 4 cm². What is the length of the line highlighted in the figure?
+> A) 16 cm
+>
 > B) 18 cm
-> 	
-> C) 20 cm D) 21 cm
-> 	
+>
+> C) 20 cm
+> D) 21 cm
+>
 > E) 23 cm
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q06|src_kangourou_2015_marzo_benjamin__Q06]]
 
 
 
@@ -329,13 +369,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How much does Dita weigh (balances)*
+*How much does Dita weigh (scale)?*
 
 ![[src_kangourou_2015_marzo_benjamin__prob7.png]]
 
-> Look at the figures: how much does Dita weigh? A) 2 kg B) 3 kg C) 4 kg D) 5 kg E) 6 kg
+> Look at the figures: How much does Dita weigh?
+> A) 2 kg
+> B) 3 kg
+> C) 4 kg
+> D) 5 kg
+> E) 6 kg
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q07|src_kangourou_2015_marzo_benjamin__Q07]]
 
 
 
@@ -367,13 +417,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which image never appears in the lens*
+*Which image never appears in the lens?*
 
 ![[src_kangourou_2015_marzo_benjamin__prob8.png]]
 
-> With a magnifying glass, Peter examines this drawing piece by piece. Which of the following images never appears in the lens? A) B) C) D) E)
+> Using a magnifying glass, Pietro examines this drawing piece by piece. Which of the following images never appears in the lens?
+>         A)	 	
+>         B)	 	
+>        C)	 	
+>        D)	 	
+>       E)
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q08|src_kangourou_2015_marzo_benjamin__Q08]]
 
 
 
@@ -400,11 +459,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many plants*
+*How many plants?*
 
-> In John's garden there are only two types of plants: those of one type have 5 leaves, the other 2 leaves and 1 flower. John discovered that there are 32 leaves and 6 flowers in all. How many plants are there in all? A) 10             B) 12            C) 13             D) 15                E) 16
+> In Giovanni's garden, there are only two types of plants: plants of one type have 5 leaves, while those of the other type have 2 leaves and 1 flower. Giovanni has found that there are 32 leaves and 6 flowers in total. How many plants are there in total?
+> A) 10             B) 12            C) 13             D) 15                E) 16
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q09|src_kangourou_2015_marzo_benjamin__Q09]]
 
 
 
@@ -442,15 +507,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*of what is overlapping*
+*of how much to overlay*
 
 ![[src_kangourou_2015_marzo_benjamin__prob10.png]]
 
-> Sara has four strips of paper all the same length. She glues two of them together so that they overlap by 10 cm and gets a single strip 50 cm long. Now she wants to paste the other two together so that they form a 56 cm long strip. How many centimeters does she have to overlay them? A) 4 cm B) 6 cm C) 7 cm D) 10 cm E) 12 cm 10 cm 10 cm 50 cm
-> 
-> The questions from N. 11 to N. 20 are worth 4 points each.
+> Sara has 4 strips of paper, all of the same length. She glues two of them together so that they overlap by 10 cm, and she ends up with a single strip 50 cm long. Now she wants to glue the other 2 together so that they form a strip 56 cm long. By how many centimetres must she make them overlap?
+> A) 4 cm
+> B) 6 cm
+> C) 7 cm
+> D) 10 cm
+> E) 12 cm
+> 10 cm 10 cm 50 cm
+>
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q10|src_kangourou_2015_marzo_benjamin__Q10]]
 
 
 
@@ -482,9 +557,14 @@ level: kangourou
 
 ![[src_kangourou_2015_marzo_benjamin__prob11.png]]
 
-> Thomas places together six equal squares, one centimeter on each side, to form the figure you see in the drawing. How many centimeters does the perimeter of the figure built by Thomas measure? A) 9             B) 10               C) 11                D) 12              E) 13
+> Tommaso puts 6 identical squares, each with a side length of 1 cm, side by side to form the figure you see in the drawing. How many centimeters is the perimeter of the figure Tommaso has constructed?
+> A) 9             B) 10               C) 11                D) 12              E) 13
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q11|src_kangourou_2015_marzo_benjamin__Q11]]
 
 
 
@@ -520,19 +600,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of digits given dd/mm of the year*
+*Maximum sum of digits, given dd/mm of the year*
 
-> Every evening Mary writes the date of the day (without the year) in numbers and then calculates the sum of the digits written. For example, on March 19, she writes 19/03 and calculate 1 + 9 + 0 + 3 = 13. What is the largest number she can write this way during the year? A) 7
-> 	
-> B) 13
-> 	
-> C) 14
-> 	
-> D) 16
-> 	
+> Every evening, Maria writes the date of the day (without the year) in digits and then calculates the sum of the digits she has written. For example, on March 19, she writes 19/03 and calculates 1 + 9 + 0 + 3 = 13. What is the largest number she can write in this way during the year?
+> A) 7	
+>
+> B) 13	
+>
+> C) 14	
+>
+> D) 16	
+>
 > E) 20
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q12|src_kangourou_2015_marzo_benjamin__Q12]]
 
 
 
@@ -568,9 +654,19 @@ level: kangourou
 
 ![[src_kangourou_2015_marzo_benjamin__prob13.png]]
 
-> The ABCD rectangle in the figure is formed by placing 4 equal rectangles side by side. If the length of BC is 1 cm, how long is AB? A) 4 cm B) 3 cm C) 2 cm D) 1 cm E) 0,5 cm
+> The rectangle ABCD in the figure is formed by joining
+> 4 equal rectangles. If the length of BC is 1 cm, how long is AB?
+> A) 4 cm
+> B) 3 cm
+> C) 2 cm
+> D) 1 cm
+> E) 0.5 cm
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q13|src_kangourou_2015_marzo_benjamin__Q13]]
 
 
 
@@ -602,13 +698,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which shape does not form a pyramid*
+*Which shape does not form a pyramid?*
 
 ![[src_kangourou_2015_marzo_benjamin__prob14.png]]
 
-> By folding each of these paper shapes along the segments drawn within it, in one case a pyramid cannot be obtained. What kind? A) B) C) D) E)
+> By folding each of these paper templates appropriately along the line segments drawn within it, in just one case a pyramid cannot be obtained. Which one?
+>           A)		
+>          B)		
+>        C)	 	
+>        D)	 	
+>        E)
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q14|src_kangourou_2015_marzo_benjamin__Q14]]
 
 
 
@@ -647,17 +752,23 @@ level: kangourou
 
 *min bottles*
 
-> There's only nine houses on Via del Salto, all on the same side of the road. At least one person lives in each house, and the total number of people living in a pair of adjacent houses never exceeds 6. A milkman must deliver one bottle of milk for every person living in Via del Salto. What's the minimum number of bottles he has to put on the truck to make sure you have enough? A) 23
-> 	
-> B) 25
-> 	
-> C) 27
-> 	
-> D) 28
-> 	
+> On Via del Salto, there are only 9 houses, all on the same side of the road. At least one person lives in each house, and the total number of people living in any two adjacent houses never exceeds 6. A milkman must deliver one bottle of milk for each person living on Via del Salto. What is the minimum number of bottles he must load onto the van to be sure he has enough?
+> A) 23	
+>
+> B) 25	
+>
+> C) 27	
+>
+> D) 28	
+>
 > E) 29
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q15|src_kangourou_2015_marzo_benjamin__Q15]]
 
 
 
@@ -693,12 +804,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Summary of age and age of Lucia and mother
+*Sum of the years and ages of Lucia and Mom*
 
-> Both Lucia and her mother were born in January. Today, March 19, 2015, Lucia adds the year of her mother's birth to her mother's age and then adds her year of birth and her age to the result. What number does she get? A) 4028 B) 4029 C) 4030 D) 4031 E) 4032 A B C D 1 cm
+> Both Lucia and her mother were born in January. Today, March 19, 2015, Lucia adds her mother's year of birth to her mother's age, and then adds her own year of birth and her own age to the result. What number does she get?
+> A) 4028		
+> B) 4029		
+> C) 4030		
+> D) 4031		
+> E) 4032
+> A B C D 1 cm
 >
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q16|src_kangourou_2015_marzo_benjamin__Q16]]
 
 
 
@@ -728,11 +849,20 @@ Summary of age and age of Lucia and mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*perimeter possible*
+*Possible perimeter*
 
-> The area of a rectangle is 12 cm2 and the lengths (in cm) of its sides are integers. Which of the following values can be the length of the perimeter of the rectangle? A) 20 cm B) 26 cm C) 28 cm D) 32 cm E) 48 cm
+> The area of a rectangle is 12 cm², and the lengths (in cm) of its sides are whole numbers. Which of the following values could be the perimeter of the rectangle?
+> A) 20 cm
+> B) 26 cm
+> C) 28 cm
+> D) 32 cm
+> E) 48 cm
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q17|src_kangourou_2015_marzo_benjamin__Q17]]
 
 
 
@@ -772,9 +902,20 @@ Summary of age and age of Lucia and mother
 
 ![[src_kangourou_2015_marzo_benjamin__prob18.png]]
 
-> Each of the nine segments in the figure must be coloured by choosing between the colours red, green and blue and making sure that, in each triangle, the three sides have different colours. As you can see, three segments have already been assigned colours in the figure. What color can the segment marked with x be ? A) Only blue. B) Only green. C) Only red. D) Any color is fine. E) No color is right.
+> Each of the 9 segments in the figure must be colored.
+> Choosing from the colors red, green, and blue and ensuring that, in each triangle, the 3 sides have different colors. As you can see, in the figure, colors have already been assigned to three line segments. What color can the line segment marked with x be?
+> A) Solo blue.
+> B) Green only.
+> C) Solo red.
+> D) Any color is fine.
+> E) No color will do.
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q18|src_kangourou_2015_marzo_benjamin__Q18]]
 
 
 
@@ -810,19 +951,25 @@ Summary of age and age of Lucia and mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many fruits per apple and pear of the same colour*
+*How many fruits per apple and pear of the same color*
 
-> In a completely dark room, Simona randomly picks up the fruit from a basket containing 3 green apples, 5 yellow apples, 7 green pears and 2 yellow pears. How many fruits does Simona need to take to make sure she has at least an apple and a pear of the same color? A) 9
-> 	
-> B) 10
-> 	
-> C) 11
-> 	
-> D) 12
-> 	
+> In a completely dark room, Simona randomly takes some fruit from a basket containing 3 green apples, 5 yellow apples, 7 green pears, and 2 yellow pears. How many fruits must Simona take to be certain that she has at least one apple and one pear of the same color?
+> A) 9	
+>
+> B) 10	
+>
+> C) 11	
+>
+> D) 12	
+>
 > E) 13
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q19|src_kangourou_2015_marzo_benjamin__Q19]]
 
 
 
@@ -864,21 +1011,28 @@ Summary of age and age of Lucia and mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min moves to A*
+*My move to reach A*
 
 ![[src_kangourou_2015_marzo_benjamin__prob20.png]]
 
-> In a new version of the game of chess there is also a piece called Kang. The moves that Kang can make are only two: move 3 squares vertically and 1 horizontally, or 3 squares horizontally and 1 vertically, as shown in the figure. What is the minimum number of moves that will allow Kang to move from the current square to the one with A? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
-> E) 6 Questions from N. 21 to N. 30 are worth 5 points each.
+> In a new version of the game of chess, exi-
+> There is also a piece called "Kang". "Kang" can make only two moves: move 3 squares vertically and 1 square horizontally, or move 3 squares horizontally and 1 square vertically, as shown in the figure. What is the minimum number of moves that allows "Kang" to go from its current square to the square marked A?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
+> E) 6 
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q20|src_kangourou_2015_marzo_benjamin__Q20]]
 
 
 
@@ -907,11 +1061,19 @@ Summary of age and age of Lucia and mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number X*
+*Figure X*
 
-> In the sum shown here, the same letters represent the same number, and different letters represent different numbers. What number is represented by the letter X ? A) 2 B) 3 C) 4	         D) 5          E) 6
+> In the sum indicated here, identical letters represent the same digit, and different letters represent different digits. Which digit is represented by the letter X?
+> A) 2	
+>   B) 3	
+>      C) 4	         D) 5          E) 6
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q21|src_kangourou_2015_marzo_benjamin__Q21]]
 
 
 
@@ -959,35 +1121,30 @@ Summary of age and age of Lucia and mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how much spent*
+*Amount spent*
 
-> Giovanna bought 3 toys. For the first she paid 1 euro more than half
-> of the money she had. By adding 2 euros to half of the money she had left she
-> bought the second toy and by adding 3 euros to half of what she had left
-> after buying the first two toys she bought the third. In this way she
-> spent all the money she had.  How many euros did she spend in all?
+> Giovanna bought 3 toys. For the first one, she paid 1 euro more than half of the money she had. By adding 2 euros to half of the money left to her, she bought the second toy, and by adding 3 euros to half of what was left to her after buying the first two toys, she bought the third one. In this way, she spent all the money she had. How many euros did she spend in total?
 > A) 34	
-> 	
+>
 > B) 36	
-> 	
+>
 > C) 45	
-> 	
+>
 > D) 65	
-> 	
+>
 > E) 100
-> red
-> red
-> blue
-> x
-> A
-> X
+> red red blue x A X
 > +            X
 > +       Y   Y
-> -------------
-> Z   Z   Z
+> ------------Z Z Z
 >
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q22|src_kangourou_2015_marzo_benjamin__Q22]]
 
 
 
@@ -1026,13 +1183,23 @@ Summary of age and age of Lucia and mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which should be deleted*
+*Which one to delete*
 
 ![[src_kangourou_2015_marzo_benjamin__prob23.png]]
 
-> I want to cover a cube-shaped box with paper, no overlapping. So I drew on a piece of paper and cut out the figure you see here next to it (composed of squares all equal to each other and equal to the sides of the box), which I'll then fold along each side common to two squares. But by mistake, I drew 7 squares instead of 6. I must therefore remove one, but I want the paper not to break in two and in particular that there is no square connected only by one vertex to another. Which square can I delete? A) Only four. B) Only 7. C) Only 3 or 4. D) Only 3 or 7. E) 3, 4 or 7.
+> I want to cover a box shaped like with paper
+> A cube, with no overlaps. That's why I drew on a sheet of paper and cut out the figure you see here beside it (composed of squares that are all the same as one another and the same as the faces of the box), which I will then fold along each side common to two squares. By mistake, though, I drew 7 squares instead of 6. So I have to remove one of them, but I want the sheet of paper not to break in two and, in particular, I don't want any square to be joined to another by only a vertex. Which square can I remove?
+> A) Only 4.
+> B) Only 7.
+> C) Only 3 or 4.
+> D) Only 3 or 7.
+> E) The 3rd, the 4th, or the 7th.
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q23|src_kangourou_2015_marzo_benjamin__Q23]]
 
 
 
@@ -1068,15 +1235,22 @@ Summary of age and age of Lucia and mother
 
 *written number*
 
-> Aster must guess a whole number written by Laura. Laura says she doesn't remember how she got it: she knows she started from 100, then multiplied by 2 or by 3, added 1 or 2 and finally divided by 3 or by 4. What's the number Laura wrote? A) 50
-> 	
-> B) 51
-> 	
-> C) 67
-> 	
-> D) 68 E) The information is not sufficient to determine this.
+> Aster must guess an integer written by Laura. Laura says she doesn't remember well how she got it: she knows she started from 100, then multiplied by 2 or 3, added 1 or 2, and finally divided by 3 or 4. What is the number written by Laura?
+> A) 50	
+>
+> B) 51	
+>
+> C) 67	
+>
+> D) 68
+> E) The information is insufficient to determine it.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q24|src_kangourou_2015_marzo_benjamin__Q24]]
 
 
 
@@ -1111,19 +1285,25 @@ Summary of age and age of Lucia and mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the maximum BD-AC *
+*max BD-AC*
 
-> ABCD is a 4-digit number; the digits A, B, C and D are in increasing order from left to right. Consider the two numbers BD and AC: what is the maximum possible value of the difference BD-AC ? A) 86
-> 	
-> B) 61
-> 	
-> C) 56
-> 	
-> D) 50
-> 	
+> ABCD is a four-digit number; the digits A, B, C, and D are in ascending order from left to right. Consider the two numbers BD and AC: what is the maximum possible value of the difference BD - AC?
+> A) 86	
+>
+> B) 61	
+>
+> C) 56	
+>
+> D) 50	
+>
 > E) 16
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q25|src_kangourou_2015_marzo_benjamin__Q25]]
 
 
 
@@ -1164,21 +1344,27 @@ This is the maximum BD-AC *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*top F*
+*vertex F*
 
 ![[src_kangourou_2015_marzo_benjamin__prob26.png]]
 
-> Mary writes a number on each face of the cube in the figure. It then assigns to each vertex of the cube the sum of the numbers written on the 3 faces containing that vertex (e.g., for vertex B it sums the numbers on the faces BCDA, BAEF and BFGC). The numbers that Mary gets for the vertices C, D and E are 14, 16 and 24 respectively. What number do you get for vertex F ? A) 15
-> 	
-> B) 19
-> 	
-> C) 22
-> 	
-> D) 24
-> 	
+> Maria writes a number on each face of the cube shown in the figure. Then, for each vertex of the cube, she assigns the sum of the numbers written on the three faces that contain that vertex (for example, for vertex B, she adds the numbers on faces BCDA, BAEF, and BFGC). The numbers Maria obtains for vertices C, D, and E are 14, 16, and 24, respectively. What number does she obtain for vertex F?
+> A) 15	
+>
+> B) 19	
+>
+> C) 22	
+>
+> D) 24	
+>
 > E) 26
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q26|src_kangourou_2015_marzo_benjamin__Q26]]
 
 
 
@@ -1215,20 +1401,25 @@ This is the maximum BD-AC *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Train 12 carriages, compartments for each carriage*
+*Train with 12 carriages, compartments per carriage*
 
-> A train has 12 carriages, each divided into the same number of compartments. Michele is travelling on the third carriage and, counting from the first after the locomotive, is in the 18th compartment. Sofia sits in the seventh carriage and, counting from the locomotive, her compartment is the 50th. How many compartments are there in each carriage? A) 9
-> 	
-> B) 8
-> 	
-> C) 7
-> 	
-> D) 6
-> 	
-> E) 12
+> A train has 12 carriages, each divided into the same number of compartments. Michele is traveling in the third carriage and, counting from the first carriage after the locomotive, is in the 18th compartment. Sofia is seated in the seventh carriage and, again counting from the locomotive, is in the 50th compartment. How many compartments are there in each carriage?
+> A) 9	
+>
+> B) 8	
+>
+> C) 7	
+>
+> D) 6	
+>
+> E) 12  
 >
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q27|src_kangourou_2015_marzo_benjamin__Q27]]
 
 
 
@@ -1264,21 +1455,27 @@ This is the maximum BD-AC *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to place 3 kangaroos in 7 boxes not adjacent*
+*Ways of placing 3 kangaroos in 7 non-adjacent boxes*
 
 ![[src_kangourou_2015_marzo_benjamin__prob28.png]]
 
-> How many different ways can you put the three kangaroos in seven boxes, no more than one per box, if you don't want to have two kangaroos in adjacent boxes? A) 7
-> 	
-> B) 8
-> 	
-> C) 9
-> 	
-> D) 10
-> 	
+> In how many different ways can the three kangaroos be placed in the 7 boxes, with no more than one per box, if we don't want two kangaroos to be in adjacent boxes?
+> A) 7	
+>
+> B) 8	
+>
+> C) 9	
+>
+> D) 10	
+>
 > E) 11
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q28|src_kangourou_2015_marzo_benjamin__Q28]]
 
 
 
@@ -1312,17 +1509,24 @@ This is the maximum BD-AC *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*the missing one*
+*the one that's missing*
 
-> Alberto marked four distinct points on a straight line and now, for each pair of points, he measures their distance. Of the six different numbers he gets, five are (in increasing order): 2, 3, 11, 12, 14. The missing one is less than 14. What is it? A) 1
-> 	
-> B) 5
-> 	
-> C) 6
-> 	
-> D) 9 E) It could be 1 or 9.
+> Alberto has marked four distinct points on a line and now, for each pair of points, measures the distance between them. Of the six different numbers he obtains, five are (listed in increasing order): 2, 3, 11, 12, 14. The missing number is less than 14. What is it?
+> A) 1	
+>
+> B) 5	
+>
+> C) 6	
+>
+> D) 9        
+> E) It could be 1 or 9.
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q29|src_kangourou_2015_marzo_benjamin__Q29]]
 
 
 
@@ -1360,18 +1564,24 @@ This is the maximum BD-AC *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*cube with red and blue*
+*Cubes with red and blue*
 
-> Brando used 1cm side cubes to build a 4cm side cube. He then painted three faces of the large cube red and the other three blue. When he finished, he noticed that none of the little cubes had three red faces. How many cubes have both red and blue faces? A) 0
-> 	
-> B) 8
-> 	
-> C) 12
-> 	
-> D) 24
-> 	
+> Brando used small cubes with 1 cm sides to build a large cube with 4 cm sides. He then painted 3 faces of the large cube red and the other 3 faces blue. When he was done, he realized that none of the small cubes had three red faces. How many small cubes have both red faces and blue faces?
+> A) 0	
+>
+> B) 8	
+>
+> C) 12	
+>
+> D) 24	
+>
 > E) 32
-> 
-> STRINGA BENJAMIN 2015
+>
+> BENJAMIN STRING 2015
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_benjamin#q30|src_kangourou_2015_marzo_benjamin__Q30]]

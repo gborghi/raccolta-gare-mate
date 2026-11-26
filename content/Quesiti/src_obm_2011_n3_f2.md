@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo intero positivo m quindi il quadratico ha una soluzione di intero*
+*Il più piccolo intero positivo m tale che il polinomio di secondo grado abbia una soluzione intera*
 
-> L'equazione di secondo grado $x^2 - 5x + m = 2011$ ha almeno una soluzione di un intero. Qual è il valore intero positivo più piccolo di $m$?
+> L'equazione di secondo grado $x^2 - 5x + m = 2011$ ha almeno una soluzione intera. Qual è il più piccolo valore intero positivo di $m$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f2#q01|src_obm_2011_n3_f2__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta gli anagrammi di FELICIDADE alternati (consonante/vocale)*
+*Conta gli anagrammi di FELICIDADE che sono alternati (consonante/vocale)*
 
-> Una sequenza di lettere, con o senza significato, viene chiamata $alternated$ quando è formata da consonanti e vocali alternati. Ad esempio, EZEQAF, MATEMATICA, LEGAL e ANIMADA sono parole alternate, mentre DSOIUF, OLIMPIADA e ORDINARIO non lo sono. Quanti anagrammi della parola FELICIDADE (compresa la parola FELICIDADE stessa) sono sequenze alternate?
+> Una sequenza di lettere, con o senza significato, è chiamata $alternated$ quando è formata da consonanti e vocali che si alternano. Ad esempio, EZEQAF, MATEMATICA, LEGAL e ANIMADA sono parole alternate, mentre DSOIUF, OLIMPIADA e ORDINARIO non lo sono. Quanti anagrammi della parola FELICIDADE (inclusa la parola FELICIDADE stessa) sono sequenze alternate?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n3_f2#q02|src_obm_2011_n3_f2__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto, piede d'altitudine da A; distanze da B e centro orto pari a 10; superficie approssimativa*
+*Triangolo acuto, piede dell'altezza da A; le distanze da B e dall'ortocentro valgono 10; area approssimativa*
 
-> L'angolo interno alla vertica $A$ di un triangolo acuto $ABC$ misura $75$ gradi. L'altitudine relativa al vertice $A$ tocca il lato $BC$ al punto $D$. Le distanze da $D$ alla verticale $B$ e all'ortocentro del triangolo sono uguali a $10$ cm. Qual è l'area del triangolo $ABC$, approssimato al numero intero più vicino? Se necessario, utilizzare $\sqrt{3} \approx 1{,}732$.
+> L'angolo interno nel vertice $A$ di un triangolo acuto $ABC$ misura $75$ gradi. L'altezza relativa al vertice $A$ incontra il lato $BC$ nel punto $D$. Le distanze da $D$ al vertice $B$ e all'ortocentro del triangolo sono uguali a $10$ cm. Qual è l'area del triangolo $ABC$, approssimata all'intero più vicino? Se necessario, usa $\sqrt{3} \approx 1{,}732$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n3_f2#q03|src_obm_2011_n3_f2__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gcd più piccolo possibile di due numeri distinti in {1,...,2011}*
+*Il massimo comun divisore possibile di due numeri distinti appartenenti a {1,...,2011}*
 
-> Qual è il più grande valore possibile del più grande divisore comune di due numeri distinti appartenenti all'insieme $\{1, 2, 3, \ldots, 2011\}$?
+> Qual è il valore massimo possibile del massimo comune divisore di due numeri distinti appartenenti all'insieme $\{1, 2, 3, \ldots, 2011\}$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f2#q04|src_obm_2011_n3_f2__Q04]]
 
 
 
@@ -134,9 +162,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione Odd su reali non-zero con un'identità di somma quadrata; trovare il numero intero più vicino a f(33)*
+*Funzione dispari sui reali non nulli con un'identità della somma dei quadrati; trova l'intero più vicino a f(33)*
 
-> Che $f$ sia una funzione dai reali non-zero ai reali non-zero tale che \begin{itemize} \item $(f(x) + f(y) + f(z))^2 = (f(x))^2 + (f(y))^2 + (f(z))^2$ per tutti i reali non-zero $x, y, z$ tale che $x + y + z = 0$; \item $f(-x) = -f(x)$ per ogni reale non-zero $x$; \item $f(2011) = 1$. \end{itemize} Trova il numero intero più vicino a $f(33)$.
+> Sia $f$ una funzione dai numeri reali non nulli ai numeri reali non nulli tale che
+> \begin{itemize}
+> \item $(f(x) + f(y) + f(z))^2 = (f(x))^2 + (f(y))^2 + (f(z))^2$ per tutti i reali non nulli $x, y, z$ tali che $x + y + z = 0$; \item $f(-x) = -f(x)$ per ogni reale non nullo $x$; \item $f(2011) = 1$.
+> \end{itemize}
+> Trovare l'intero più vicino a $f(33)$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n3_f2#q05|src_obm_2011_n3_f2__Q05]]
 
 
 
@@ -159,9 +197,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC con angolo A=45°; cerchio sul diametro BC incontra AB, AC a D, E; distanza dal punto medio del BC alla linea DE*
+*Triangolo ABC con angolo A=45°; la circonferenza avente BC come diametro interseca AB e AC rispettivamente nei punti D ed E; distanza dal punto medio di BC alla retta DE*
 
-> Nel triangolo $ABC$, l'angolo $B\hat{A}C$ misura $45^\circ$. Il cerchio di diametro $BC$ taglia rispettivamente i lati $AB$ e $AC$ a $D$ e $E$. Dato che $DE = 10$, trovare la distanza dal punto medio $M$ di $BC$ alla linea $DE$.
+> Nel triangolo $ABC$, l'angolo $B\hat{A}C$ misura $45^\circ$. Il cerchio avente come diametro $BC$ interseca i lati $AB$ e $AC$ rispettivamente nei punti $D$ e $E$. Dato che $DE = 10$, determina la distanza dal punto medio $M$ di $BC$ alla retta $DE$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n3_f2#q06|src_obm_2011_n3_f2__Q06]]
 
 
 
@@ -187,9 +232,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le soluzioni reali di un sistema ciclico 2y=x+1/x, ecc..*
+*Trovare tutte le soluzioni reali di un sistema ciclico 2y=x+1/x, ecc.*
 
-> Trova tutte le soluzioni reali $(x, y, z)$ del sistema \[ \begin{cases} 2y = x + \dfrac{1}{x} \\ 2z = y + \dfrac{1}{y} \\ 2x = z + \dfrac{1}{z} \end{cases} \]
+> Trovare tutte le soluzioni reali $(x, y, z)$ del sistema \[
+> \begin{cases} 2y = x + \dfrac{1}{x} \\ 2z = y + \dfrac{1}{y} \\ 2x = z + \dfrac{1}{z} \end{cases}
+> \]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n3_f2#q07|src_obm_2011_n3_f2__Q07]]
 
 
 
@@ -212,9 +266,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio integrale-coeff: P(x) = 2011 ha radici 1 e t, P(x) = 0 ha una radice integrale; trova tutti t*
+*Polinomio a coefficienti interi: P(x)=2011 ha le radici 1 e t; P(x)=0 ha una radice intera; trovare tutti i t*
 
-> Che $P(x)$ sia un polinomio con coefficienti interi. È noto che $P(x) = 2011$ ha almeno due radici di numeri interi distinte uguali a $1$ e $t$, e che $P(x) = 0$ ha almeno una radice di numeri interi. Determinare tutti i possibili valori di $t$.
+> Sia $P(x)$ un polinomio a coefficienti interi. È noto che $P(x) = 2011$ ha almeno due radici intere distinte uguali a $1$ e $t$, e che $P(x) = 0$ ha almeno una radice intera. Determinare tutti i valori possibili di $t$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f2#q08|src_obm_2011_n3_f2__Q08]]
 
 
 
@@ -237,6 +298,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Correcte colorazioni di un disco diviso in n settori ciclici con k colori*
+*Colorazioni proprie di un disco suddiviso in n settori ciclici con k colori*
 
-> Esmeralda ha un cerchio di cartone diviso in settori circolari $n$, numerati da $1$ a $n$, in ordine orario. In quanti modi Esmeralda può dipingere il cartone, dipingendo ogni settore con un unico colore, avendo $k$ colori disponibili, in modo che due settori circolari vicini (cioè settori che condividono un segmento in comune, un confine) abbiano colori diversi? Si noti che ciò implica che i settori numerati $1$ e $n$ devono avere colori diversi.
+> Esmeralda ha un cerchio di cartone suddiviso in $n$ settori circolari, numerati da $1$ a $n$ in senso orario. In quanti modi può dipingere il cartone Esmeralda, colorando ciascun settore con un unico colore, avendo a disposizione $k$ colori, in modo che qualsiasi due settori circolari adiacenti (ossia settori che hanno in comune un segmento, un bordo) abbiano colori diversi? Si noti che ciò implica che i settori numerati $1$ e $n$ debbano avere colori diversi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n3_f2#q09|src_obm_2011_n3_f2__Q09]]

@@ -34,9 +34,25 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali positivi con ugualità di potenza della triplice somma ciclica implicano tutti uguali*
+*Quattro numeri positivi con quattro uguaglianze cicliche fra somme di quadrati e quarte potenze: sono uguali*
 
-> I numeri positivi $a, b, c, d$ soddisfano le equazioni $$a^2 + b^2 + c^2 = a^4$$ $$b^2 + c^2 + d^2 = b^4$$ $$c^2 + d^2 + a^2 = c^4$$ $$d^2 + a^2 + b^2 = d^4.$$ Prove che $a = b = c = d$.
+> Numeri positivi $a, b, c, d$ soddisfano le uguaglianze
+>
+> $$a^2 + b^2 + c^2 = a^4$$
+>
+> $$b^2 + c^2 + d^2 = b^4$$
+>
+> $$c^2 + d^2 + a^2 = c^4$$
+>
+> $$d^2 + a^2 + b^2 = d^4.$$
+>
+> Dimostrare che $a = b = c = d$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2004_r2#q01|src_pol_2004_r2__Q01]]
 
 
 
@@ -61,9 +77,19 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Diagonali concorrenti in un esagono convesso con lati uguali e somma degli angoli*
+*Esagono convesso equilatero con somme alternate degli angoli uguali: le tre diagonali lunghe concorrono*
 
-> In un esagono converso $ABCDEF$ tutti i lati hanno la stessa lunghezza e $$\angle A + \angle C + \angle E = \angle B + \angle D + \angle F.$$ Prove che le diagonali $AD$, $BE$ e $CF$ sono simultanee.
+> In un esagono convesso $ABCDEF$ tutti i lati hanno la stessa lunghezza e
+>
+> $$\angle A + \angle C + \angle E = \angle B + \angle D + \angle F.$$
+>
+> Dimostrare che le diagonali $AD$, $BE$ e $CF$ concorrono.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2004_r2#q02|src_pol_2004_r2__Q02]]
 
 
 
@@ -88,9 +114,19 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze di 1 e -1 con proprietà moltiplicative e densità*
+*Successioni di 1 e −1 moltiplicative sugli indici, in cui ogni terna consecutiva contiene entrambi i valori*
 
-> Determinare tutte le sequenze $a_1, a_2, a_3, \ldots$ di $1$ e $-1$ che soddisfano l'uguaglianza $$a_{mn} = a_m a_n$$ per tutte le $m, n$ e che hanno la proprietà: tra i tre termini successivi $a_n, a_{n+1}, a_{n+2}$, si verificano sia $1$ che $-1$.
+> Determinare tutte le successioni $a_1, a_2, a_3, \ldots$ di $1$ e di $-1$ che soddisfano l'uguaglianza
+>
+> $$a_{mn} = a_m a_n$$
+>
+> per ogni $m, n$, e che hanno la proprietà seguente: fra tre termini consecutivi qualunque $a_n, a_{n+1}, a_{n+2}$ compaiono sia $1$ sia $-1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2004_r2#q03|src_pol_2004_r2__Q03]]
 
 
 
@@ -113,9 +149,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi con esattamente sqrt(n) divisori positivi*
+*Interi positivi che hanno esattamente radice di n divisori positivi*
 
-> Trova tutti i numeri interi positivi $n$ che hanno esattamente $\sqrt{n}$ divisori positivi.
+> Trovare tutti gli interi positivi $n$ che hanno esattamente $\sqrt{n}$ divisori positivi.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2004_r2#q04|src_pol_2004_r2__Q04]]
 
 
 
@@ -138,9 +180,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*PQ/AD = PR/BE per il bisettore di incontro e angolo dei ceviani*
+*D su BC ed E su CA con BD = AE, bisettrice dell'angolo in C: i rapporti PQ/AD e PR/BE sono uguali*
 
-> I punti $D$ e $E$ sono presi rispettivamente sui lati $BC$ e $CA$ di un triangolo $ABC$ in modo tale che $BD = AE$. I segmenti $AD$ e $BE$ si incontrano a $P$. Il bisettore di $\angle ACB$ interseca i segmenti $AD$ e $BE$ rispettivamente a $Q$ e $R$. Prove che $\frac{PQ}{AD} = \frac{PR}{BE}$.
+> Si prendono i punti $D$ e $E$ rispettivamente sui lati $BC$ e $CA$ di un triangolo $ABC$, in modo che $BD = AE$. I segmenti $AD$ e $BE$ si incontrano in $P$. La bisettrice di $\angle ACB$ interseca i segmenti $AD$ e $BE$ in $Q$ e $R$ rispettivamente. Dimostrare che $\frac{PQ}{AD} = \frac{PR}{BE}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2004_r2#q05|src_pol_2004_r2__Q05]]
 
 
 
@@ -163,6 +211,12 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Selezionare n/2 persone a tavola rotonda, ciascuna tra due conoscenti*
+*Festa di n persone, n almeno 5: fra tre qualunque due si conoscono. Se ne possono sedere almeno n/2 a un tavolo rotondo, ciascuna fra conoscenti*
 
-> Ci sono persone $n \geq 5$ in una festa. Supponiamo che tra i tre ci siano due che si conoscono. Mostrare che si può selezionare almeno $n/2$ delle persone e organizzarle su una tavola rotonda in modo che ciascuna persona si sedi tra due delle sue conoscenze.
+> A una festa ci sono $n \geq 5$ persone. Si supponga che, fra tre qualunque di esse, due si conoscano. Dimostrare che se ne possono scegliere almeno $n/2$ e disporle a un tavolo rotondo in modo che ciascuna sieda fra due suoi conoscenti.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2004_r2#q06|src_pol_2004_r2__Q06]]

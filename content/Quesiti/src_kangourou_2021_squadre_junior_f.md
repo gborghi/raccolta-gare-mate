@@ -24,16 +24,23 @@ level: squadre
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum product of digits of a 5-digit number with sum 37*
+*What is the least their product can be?*
 
 > The product
-> The sum of the digits of a five-digit number is 37. What is the minimum possible value of their product?
+>
+> The sum of the digits of a five-digit number is 37. What is the least their product can be?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q01|src_kangourou_2021_squadre_junior_f__Q01]]
 
 
 
@@ -51,16 +58,23 @@ level: squadre
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum n with 4^27 + 4^1025 + 4^n perfect square*
+*What is the largest such integer n?*
 
 > The perfect square
+>
 > What is the largest integer n such that $4^{27} + 4^{1025} + 4^n$ is a perfect square?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q02|src_kangourou_2021_squadre_junior_f__Q02]]
 
 
 
@@ -77,16 +91,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many reduced fractions N/D<1 with N+D=2021*
+*How many fractions of the year are there?*
 
 > "Fractions of the year"
-> We call "fraction of the year" a fraction of positive integers $N/D$ less than $1$, reduced to lowest terms and such that the sum $N + D$ equals $2021$. How many fractions of the year are there?
+>
+> We call a "fraction of the year" a fraction of positive integers $N/D$, less than $1$, in lowest terms, and such that the sum $N + D$ equals $2021$. How many fractions of the year are there?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q03|src_kangourou_2021_squadre_junior_f__Q03]]
 
 
 
@@ -104,16 +124,23 @@ level: squadre
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Common black area of two overlapping 8×8 chessboards rotated by 45°*
+*What is the area of the region that stays black?*
 
 > The chessboard
-> On a sheet of paper a traditional square chessboard of $8 \times 8$ square cells is drawn, each of area $\sqrt2 + 1$, with alternating white and black colors. On top of it a second chessboard identical to the first is drawn, concentric but rotated by $45$ degrees. What is the area of the region whose points were black in the first drawing and remain black in the second?
+>
+> On a sheet of paper a traditional square chessboard of $8 \times 8$ square cells is drawn, each of area $\sqrt2 + 1$, in alternating black and white. On top of it a second chessboard, identical to the first, is drawn, concentric but rotated by $45$ degrees. What is the area of the region whose points were black in the first drawing and remain black in the second?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q04|src_kangourou_2021_squadre_junior_f__Q04]]
 
 
 
@@ -131,16 +158,23 @@ level: squadre
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Stacks of 12 tokens (6 red, 3 green, 3 yellow) with no equal colors touching*
+*How many different stacks can he make?*
 
-> The tokens
-> Matteo has $6$ red tokens, $3$ green tokens and $3$ yellow tokens, and tokens of the same color are indistinguishable. He wants to build a stack by placing them one on top of another with the only constraint that tokens of the same color are never touching. How many different stacks (of $12$ tokens each) can he form? (Two stacks are considered different if at some level the color of the tokens placed there is different.)
+> The counters
+>
+> Matteo has $6$ red counters, $3$ green counters and $3$ yellow counters, and counters of the same colour are indistinguishable. He wants to build a stack by placing them one on top of another, with the only constraint that counters of the same colour are never touching. How many different stacks (of $12$ counters each) can he make? (Two stacks are regarded as different if on some level the colour of the counters there is different.)
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q05|src_kangourou_2021_squadre_junior_f__Q05]]
 
 
 
@@ -157,16 +191,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First of 25 consecutive odd numbers with sum 25^3*
+*What is the first of them?*
 
-> Consecutive odd numbers
-> The number $25^3$ can be expressed as the sum of $25$ consecutive odd integers. What is the first of them?
+> Consecutive odds
+>
+> The number $25^3$ can be written as a sum of $25$ consecutive odd integers. What is the first of them?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q06|src_kangourou_2021_squadre_junior_f__Q06]]
 
 
 
@@ -186,19 +226,22 @@ level: squadre
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Date on which Penelope has 100 m long canvas*
+*On what date will Penelope have a cloth at least 100 m long?*
 
 > Penelope
-> Penelope begins weaving a cloth at dawn on January 1. Each day she weaves 25 meters of it, but during the
-> night she destroys 1/10 of the work done up to that moment. On what date will Penelope manage to have
-> a cloth at least 100 m long? (Give the date in the format ddmm, for example July 9 must be
-> given as 0907; if you think the answer is NEVER, give 9999.)
+>
+> Penelope starts weaving a cloth at dawn on 1 January. Every day she weaves 25 metres of it, but during the night she destroys 1/10 of the work done up to that moment. On what date will Penelope manage to have a cloth at least 100 m long? (Give the date in the form ddmm; for example, 9 July must be given as 0907. If you think the answer is NEVER, give 9999.)
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q07|src_kangourou_2021_squadre_junior_f__Q07]]
 
 
 
@@ -217,17 +260,23 @@ level: squadre
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of n with 2021 = n + sum of digits of n*
+*What result do you obtain?*
 
-> A sum 2021
-> Determine all positive integers n such that 2021 can be expressed as the sum of n with the
-> sum of the digits of n, and add them together: what result do you get?
+> Summing to 2021
+>
+> Find all positive integers n such that 2021 can be written as the sum of n and the sum of the digits of n, and add them up. What result do you obtain?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q08|src_kangourou_2021_squadre_junior_f__Q08]]
 
 
 
@@ -247,18 +296,23 @@ level: squadre
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum L for segments covering the triangle*
+*What is the smallest such value of L?*
 
 > The equilateral triangle
-> The side of an equilateral triangle measures 2022. Consider all segments of the same length L
-> that have their endpoints on the boundary of the triangle. What is the smallest value of L such that every point
-> of the triangle belongs to at least one of these segments?
+>
+> The side of an equilateral triangle measures 2022. Consider all the segments of one and the same length L that have their endpoints on the boundary of the triangle. What is the smallest value of L such that every point of the triangle belongs to at least one of these segments?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q09|src_kangourou_2021_squadre_junior_f__Q09]]
 
 
 
@@ -277,17 +331,23 @@ level: squadre
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of prime numbers of whole 3 digits with digits 1,3,5*
+*How many of them are prime?*
 
 > Primes
-> Among the positive three-digit integers that can be written using only digits chosen from the set
-> {1, 3, 5}, how many are prime?
+>
+> Among the positive three-digit integers that can be written using only digits chosen from the set {1, 3, 5}, how many are prime?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q10|src_kangourou_2021_squadre_junior_f__Q10]]
 
 
 
@@ -308,19 +368,23 @@ level: squadre
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the sizes of the numbers with 3 distinct digits*
+*What number do you obtain?*
 
 > The sizes
-> We call the size of a positive integer with at least two digits the number of ordered pairs
-> of its digits, not necessarily adjacent, for which the first digit is greater than the second; for
-> example, the size of 5142 is 4. Consider all possible 3-digit numbers with significant digits different from
-> one another, and add up their sizes: what number do you get?
+>
+> We call the size of a positive integer of at least two digits the number of ordered pairs of its digits, not necessarily adjacent, for which the first digit is greater than the second; for example, the size of 5142 is 4. Consider all possible numbers of 3 significant digits, all different from one another, and add up their sizes. What number do you obtain?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q11|src_kangourou_2021_squadre_junior_f__Q11]]
 
 
 
@@ -341,20 +405,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the bridge (Aldo and Carlo)*
+*How many metres long is the bridge?*
 
 > The bridge
-> Aldo is already crossing a bridge when Carlo begins to cross it from the same end from which
-> Aldo started. Both walk at constant but different speeds. If, at the moment Carlo starts,
-> Aldo were to go back 150 meters, he would meet Carlo exactly at the middle of the bridge; if
-> instead he continued, Aldo and Carlo would reach the end of the bridge at the same instant. How many meters
-> long is the bridge?
+>
+> Aldo is already crossing a bridge when Carlo starts to cross it from the same end from which Aldo set off. Both walk at constant speeds, but different ones. If, at the moment Carlo sets off, Aldo turned back 150 metres, he would meet Carlo exactly halfway across the bridge; if instead he went on, Aldo and Carlo would reach the end of the bridge at the same moment. How many metres long is the bridge?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q12|src_kangourou_2021_squadre_junior_f__Q12]]
 
 
 
@@ -373,18 +439,22 @@ level: squadre
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many terms < 2021 with mean prime n equal to n*
+*How many terms of the sequence are less than 2021?*
 
 > The mean
-> A sequence of positive integers enjoys the following property: for every n ≥ 1, the arithmetic
-> mean of the first n terms of the sequence is n. How many terms of the sequence are less
-> than 2021?
+>
+> A sequence of positive integers has the following property: for every n ≥ 1, the arithmetic mean of the first n terms of the sequence is n. How many terms of the sequence are less than 2021?
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q13|src_kangourou_2021_squadre_junior_f__Q13]]
 
 
 
@@ -402,16 +472,23 @@ level: squadre
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value a+b figures of 4^2021 and 25^2021*
+*What is a + b?*
 
 > The digits of the sum
-> Let a be the number of digits of $4^{2021}$ and let b be the number of digits of $25^{2021}$. What is the value of a + b?
+>
+> Let a be the number of digits of $4^{2021}$, and let b be the number of digits of $25^{2021}$. What is a + b?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q14|src_kangourou_2021_squadre_junior_f__Q14]]
 
 
 
@@ -434,18 +511,22 @@ level: squadre
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oHPa_uZ7IcAtim2ACzQr34HTZ_XIkaWW/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major CASE in encrypted multiplication*
+*What is the largest?*
 
 > CASE
-> The figure shows a multiplication carried out using the
-> traditional method. Each letter corresponds to a digit, different letters
-> correspond to different digits; each asterisk denotes a digit; the leftmost
-> one in each row is certainly different from 0. The four-digit numbers
-> possible for CASE are more than one: which is the largest?
-> (Diagram in the figure: CASE × CASE = …, with partial products ****C, ****A, ****S, ****E, each shifted one place to the left, and result ********.)
+>
+> The picture shows a multiplication carried out in the traditional way. Each letter corresponds to a digit, and different letters correspond to different digits; each asterisk denotes a digit; the leftmost digit in each row is certainly different from 0. There is more than one possible four-digit number for CASE: what is the largest?
+>
+> (Layout in the picture: CASE × CASE = …, with partial products ****C, ****A, ****S, ****E, each shifted one place to the left, and result ********)
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+[[Quesiti/src_kangourou_2021_squadre_junior_f#q15|src_kangourou_2021_squadre_junior_f__Q15]]

@@ -33,13 +33,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
+*Numero di medaglie d'oro assegnate con rapporto 1:2:3 e 90% di medagliati*
 
-> Nella fase finale dell'OBM hanno partecipato studenti provenienti da tutto il Brasile. Seguendo la tradizione delle Olimpiadi internazionali, le Olimpiadi distribuiscono medaglie d'oro, d'argento e di bronzo nella proporzione $1{:}2{:}3$, rispettivamente. Sapendo che $90\%$ del numero totale degli studenti ha vinto alcune delle 3 medaglie, quanti studenti hanno vinto una medaglia d'oro?
-> 
+> Nella fase finale dell'OBM, hanno partecipato $600$ studenti provenienti da tutto il Brasile. Seguendo la tradizione delle olimpiadi internazionali, l'olimpiade assegna medaglie d'oro, d'argento e di bronzo nella proporzione $1{:}2{:}3$, rispettivamente. Sapendo che $90\%$ del numero totale di studenti ha vinto una delle 3 medaglie, quanti studenti hanno vinto una medaglia d'oro?
+>
 > A) 60 \quad B) 120 \quad C) 180 \quad D) 240 \quad E) 300
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n2_f1#q01|src_obm_2012_n2_f1__Q01]]
 
 
 
@@ -65,11 +71,19 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Auto-referenziale: quante vocali sono la risposta corretta*
+*Autoriferito: quante vocali ci sono nella risposta corretta?*
 
-> Quante vocali ha la risposta corretta a questo problema? Non contare la lettera A né le alternative A a E.
-> 
-> A) Seis \quad B) Cinco \quad C) Quatro \quad D) Tr\^{e}s \quad E) Due
+> Quante vocali ha la risposta corretta a questo problema? Non contare la lettera A né le alternative da A a E.
+>
+> A) Sei \quad B) Cinque \quad C) Quattro \quad D) Tre \quad E) Due
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_logica|Logica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n2_f1#q02|src_obm_2012_n2_f1__Q02]]
 
 
 
@@ -96,11 +110,20 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conte dei numeri di "bascio" (3,5 volte un numero intero) in un intervallo*
+*Conteggio dei numeri 'bacium' (3,5 volte un numero intero) in un intervallo*
 
-> In un certo contesto un numero è chiamato bacio se è un intero che è $3{,}5$ volte un altro intero. Ad esempio, $3{,}5$ è un bacio, poiché è $3{,}5$ volte $1$. Quanti numeri di bacio esistono tra $2{,}1$ e $33{,}3$?
-> 
-> A) 61 Quad B) 62 Quad C) 60 Quad D) 66 Quad E) 33
+> In un certo contesto, un numero è chiamato bacium se è un intero che è $3{,}5$ volte un altro intero. Ad esempio, $3{,}5$ è un bacium, poiché è $3{,}5$ volte $1$. Quanti numeri bacium esistono tra $2{,}1$ e $33{,}3$?
+>
+> A) 61 \quad B) 62 \quad C) 60 \quad D) 66 \quad E) 33
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n2_f1#q03|src_obm_2012_n2_f1__Q03]]
 
 
 
@@ -128,13 +151,21 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*FP di spostamento quando una linea di divisione del territorio è spostata sul poligono ABCDEF*
+*Spostamento FP quando una linea di suddivisione del terreno viene spostata sul poligono ABCDEF*
 
-> Jo e Maria hanno ereditato un pezzo di terra, rappresentato dal poligono. C'era una recinzione che separava la terra in due parti, fatta di pezzi dritti. L'hanno ripartita in modo che la linea passi attraverso il punto $P$, mantenendo le due regioni uguali. Gli angoli di $A$, $B$, $D$, $E$ e $F$ sono rimasti uguali. Utilizzando le dimensioni della figura ($100\,\text{m}$ in alto e $60\,\text{m}$ sul lato destro), qual è il spostamento $FP$?
-> 
+> João e Maria hanno ereditato un terreno rappresentato dal poligono $ABCDEF$. C'era una recinzione che divideva il terreno in due parti, composta da tratti rettilinei. Lo hanno diviso di nuovo in modo che la linea passasse per il punto $P$, mantenendo le due regioni uguali. Gli angoli in $A$, $B$, $D$, $E$ e $F$ sono rimasti uguali. Utilizzando le dimensioni indicate nella figura ($100\,\text{m}$ in alto e $60\,\text{m}$ sul lato destro), qual è lo spostamento $FP$?
+>
 > A) 5 \quad B) 8 \quad C) 10 \quad D) 12 \quad E) 20
 
 ![[src_obm_2012_n2_f1__q04.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n2_f1#q04|src_obm_2012_n2_f1__Q04]]
 
 
 
@@ -161,11 +192,20 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta massima della frazione di criptaritmo (MATEM)/(ATJCA)*
+*Valore massimo della frazione di crittoaritmetica (MATEM)/(ATJCA)*
 
-> Nell'espressione $\dfrac{M \times A \times T \times E \times M}{A \times T \times J \times C \times A}$, le lettere diverse rappresentano cifre diverse e le lettere uguali rappresentano cifre uguali. Qual è il valore più grande possibile di questa espressione?
-> 
+> Nell'espressione $\dfrac{M \times A \times T \times E \times M}{A \times T \times J \times C \times A}$, lettere diverse rappresentano cifre diverse e lettere uguali rappresentano cifre uguali. Qual è il valore massimo possibile di questa espressione?
+>
 > A) 38 \quad B) 96 \quad C) 159 \quad D) 358 \quad E) 648
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n2_f1#q05|src_obm_2012_n2_f1__Q05]]
 
 
 
@@ -194,13 +234,22 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fragzione dipinta con sei triangoli equilaterali laterali-2 e un esagono laterale-1*
+*Frazione dipinta di una figura composta da sei triangoli equilateri di lato 2 e un esagono di lato 1*
 
-> La figura mostra sei triangoli equilaterali con lati di lunghezza $2$ e un esagono regolare con lati di lunghezza $1$. Qual è la frazione della superficie totale che viene dipinta?
-> 
+> La figura mostra sei triangoli equilateri con lati di lunghezza $2$ e un esagono regolare con lati di lunghezza $1$. Qual è la frazione dell'area totale che è colorata?
+>
 > A) $\dfrac{1}{8}$ \quad B) $\dfrac{1}{7}$ \quad C) $\dfrac{1}{6}$ \quad D) $\dfrac{1}{5}$ \quad E) $\dfrac{1}{4}$
 
 ![[src_obm_2012_n2_f1__q06.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n2_f1#q06|src_obm_2012_n2_f1__Q06]]
 
 
 
@@ -228,13 +277,20 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca xy data x^3+y^3=5(x+y) e x^2+y^2=4*
+*Trovare xy sapendo che x^3+y^3=5(x+y) e x^2+y^2=4*
 
-> Se $x$ e $y$ sono numeri reali come $x^3 + y^3 = 5(x+y)$, $x^2 + y^2 = 4$ e $x + y \neq 0$, determinare il valore di $xy$.
-> 
+> Se $x$ e $y$ sono numeri reali tali che $x^3 + y^3 = 5(x+y)$, $x^2 + y^2 = 4$ e $x + y \neq 0$, determina il valore di $xy$.
+>
 > A) 4 \quad B) 3 \quad C) 1 \quad D) 0 \quad E) $-1$
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2012_n2_f1#q07|src_obm_2012_n2_f1__Q07]]
 
 
 
@@ -263,13 +319,22 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Data di vacanza dall'ultima cifra del 2016^2014 e del resto del 2014^2014 mod 11*
+*Data della festività ricavata dall'ultima cifra di 2016^2014 e dal resto di 2014^2014 mod 11*
 
-> Per rendere omaggio alla Coppa del Mondo e alle Olimpiadi in Brasile, Esmeralda, sindaco della città di Gugul\^{a}ndia, ha deciso di creare una vacanza nella sua città il giorno $x$ del mese di numero $y$, dove $x$ è l'ultima cifra del numero $2016^{2014}$ e $y$ è il resto di $2014^{2014}$ diviso da $11$. Così, questa festa sarà il giorno:
-> 
-> A) 8 di marzo B) 6 di gennaio C) 4 di gennaio D) 6 di aprile E) 6 di marzo
-> 
-> Osservazione: il mese di gennaio corrisponde al numero di mese $1$ e così via.
+> Per rendere omaggio alla Coppa del Mondo e alle Olimpiadi in Brasile, Esmeralda, sindaco della città di Gugul^a}ndia, ha deciso di istituire una festività nella propria città il giorno $x$ del mese numero $y$, dove $x$ è l'ultima cifra del numero $2016^{2014}$ e $y$ è il resto della divisione di $2014^{2014}$ per $11$. Pertanto, questa festività cadrà nel giorno:
+>
+> A) 8 marzo \quad B) 6 gennaio \quad C) 4 gennaio \quad D) 6 aprile \quad E) 6 marzo
+>
+> Osservazione: il mese di gennaio corrisponde al numero di mese $1$, e così via.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n2_f1#q08|src_obm_2012_n2_f1__Q08]]
 
 
 
@@ -296,11 +361,20 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quante volte la cifra 7 si ripete in una sequenza per formare il più piccolo multiple di 77*
+*Quante volte si ripete la cifra 7 in una sequenza per formare il più piccolo multiplo di 77?*
 
-> Fernando scrive una sequenza di numeri $1234561234561234566\ldots$ Quante volte al massimo la cifra $7$ si ripete in $123456$ in modo che il numero che otteniamo sia il più piccolo multiple di $77$?
-> 
+> Fernando scrive una sequenza di numeri $1234561234561234566\ldots$. Quante volte al massimo si ripete la cifra $7$ in $123456$ affinché il numero che otteniamo sia il più piccolo multiplo di $77$?
+>
 > A) 7 \quad B) 11 \quad C) 18 \quad D) 49 \quad E) 77
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n2_f1#q09|src_obm_2012_n2_f1__Q09]]
 
 
 
@@ -329,13 +403,22 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medi di tessitura di una lavagna 4x4 con un quadrato 2x2 e quattro tromini L*
+*Modi per piastrellare una scacchiera 4x4 con un quadrato 2x2 e quattro trommini a L*
 
-> In quanti modi possiamo coprire una lavagna $4 \times 4$ con un quadrato di lato $2$ e quattro pezzi identici di formato $L$, ognuno occupando tre piccoli quadrati della lavagna? La tabella non può essere rotata, vale a dire le possibilità indicate di seguito devono essere considerate diverse.
-> 
+> In quanti modi possiamo coprire una scacchiera di dimensioni $4 \times 4$ con un quadrato di lato $2$ e quattro pezzi identici di formato $L$, ciascuno dei quali occupa tre piccoli quadrati della scacchiera? La scacchiera non può essere ruotata; in altre parole, le possibilità mostrate di seguito devono essere considerate distinte.
+>
 > A) 2 \quad B) 3 \quad C) 4 \quad D) 5 \quad E) 6
 
 ![[src_obm_2012_n2_f1__q10.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n2_f1#q10|src_obm_2012_n2_f1__Q10]]
 
 
 
@@ -363,13 +446,20 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo numero odd con esattamente 10 divisori positivi*
+*Il più piccolo numero dispari con esattamente 10 divisori positivi*
 
-> Qual è il più piccolo numero odd che ha esattamente $10$ divisori positivi inclusi $1$ e il numero stesso?
-> 
+> Qual è il più piccolo numero dispari che ha esattamente $10$ divisori positivi, inclusi $1$ e il numero stesso?
+>
 > A) 1875 \quad B) 405 \quad C) 390 \quad D) 330 \quad E) 105
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n2_f1#q11|src_obm_2012_n2_f1__Q11]]
 
 
 
@@ -396,11 +486,20 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contato di interi positivi pari a 3 volte il loro numero di divisori*
+*Numero di interi positivi uguali a 3 volte il proprio numero di divisori*
 
-> Quanti integri positivi sono uguali a $3$ volte il proprio numero di divisori positivi?
-> 
-> A) 1 \quad B) 2 \quad C) 3 \quad D) 9 \quad E) infinitamente molti
+> Quanti numeri interi positivi sono uguali a $3$ volte il proprio numero di divisori positivi?
+>
+> A) 1 \quad B) 2 \quad C) 3 \quad D) 9 \quad E) infiniti
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n2_f1#q12|src_obm_2012_n2_f1__Q12]]
 
 
 
@@ -427,11 +526,20 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massa di uno studente data la somma pari di cinque studenti*
+*Massa di uno studente, dati i dieci sommi a coppie di cinque studenti*
 
-> Le masse di tutte le coppie tra gli studenti $5$ sono $90$kg, $92$kg, $93$kg, $94$kg, $95$kg, $96$kg, $97$kg, $98$kg, $100$kg e $101$kg. Qual è la massa di uno degli studenti?
-> 
+> Le masse di tutte le coppie tra gli studenti $5$ sono $90$ kg, $92$ kg, $93$ kg, $94$ kg, $95$ kg, $96$ kg, $97$ kg, $98$ kg, $100$ kg e $101$ kg. Qual è la massa di uno degli studenti?
+>
 > A) 52 kg \quad B) 51 kg \quad C) 49 kg \quad D) 48 kg \quad E) 46 kg
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n2_f1#q13|src_obm_2012_n2_f1__Q13]]
 
 
 
@@ -457,11 +565,19 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Distanza percorsa da una palla da golf/calcio seguendo un percorso semicircolare*
+*Distanza percorsa da una palla da golf/da calcio lungo una traiettoria semicircolare*
 
-> Il grande artigliere Tornado sta per fare il colpo più bello della sua carriera. Si trova davanti al gol e prevede che la palla, al partire, percorrerà $2$ metri in linea retta fino a un punto, e quindi descriverà un semicircolo, raggiungendo $3$ metri di altitudine sul terreno solido al gol. Qual è la distanza percorsa fino a quando la palla entra nel gol?
-> 
+> Il grande artigliere Tornado sta per effettuare il tiro più bello della sua carriera. Si trova davanti alla porta e prevede che, al momento della partenza, il pallone percorrerà $2$ metri in linea retta fino a un punto, per poi descrivere un semicerchio e arrivare a un'altitudine di $3$ metri sopra il terreno solido presso la porta. Qual è la distanza percorsa dal pallone fino a quando non entra in porta?
+>
 > A) 3 \quad B) 3.5 \quad C) 4 \quad D) 4.5 \quad E) 5
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n2_f1#q14|src_obm_2012_n2_f1__Q14]]
 
 
 
@@ -491,15 +607,22 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di distanze distinte tra punti in una griglia 4x4*
+*Numero di distanze distinte tra i punti in una griglia 4x4*
 
-> Quante distanze distinte sono possibili tra due punti distinti della griglia $4 \times 4$ mostrata di seguito? I punti sono distribuiti in righe e colonne spaziate tra loro per un'unità.
-> 
+> Quante distanze distinte sono possibili tra due punti distinti della griglia $4 \times 4$ mostrata di seguito? I punti sono disposti in righe e colonne, con spaziatura uniforme di un'unità tra un punto e l'altro.
+>
 > A) 4 \quad B) 6 \quad C) 9 \quad D) 11 \quad E) 16
 
 ![[src_obm_2012_n2_f1__q15.png]]
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n2_f1#q15|src_obm_2012_n2_f1__Q15]]
 
 
 
@@ -526,11 +649,20 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum pezzi di torta per parità di condivisione tra 4 o 6 persone*
+*Numero minimo di pezzi di torta per una divisione equa tra 4 o 6 persone*
 
-> Esmeralda sta organizzando la sua festa di compleanno e, a causa di un errore nella distribuzione degli inviti, non sa se saranno presenti persone $4$ o $6$. Quindi ha intenzione di lasciare la torta tagliata in alcuni pezzi in modo che, se $4$ o $6$ persone vengono, ognuno di loro riceverà la stessa quantità di pezzi interi di torta, senza che nessun pezzo abbia bisogno di essere tagliato ulteriormente. Qual è il numero minimo di pezzi per raggiungere questo obiettivo?
-> 
+> Esmeralda sta organizzando la sua festa di compleanno e, a causa di un errore nella distribuzione degli inviti, non sa se saranno presenti $4$ o $6$ persone. Pertanto, intende lasciare la torta tagliata in un certo numero di pezzi in modo che, che vengano $4$ o $6$ persone, ciascuna di esse riceva la stessa quantità di pezzi interi di torta, senza che alcun pezzo debba essere tagliato ulteriormente. Qual è il numero minimo di pezzi necessario per raggiungere questo obiettivo?
+>
 > A) 24 \quad B) 10 \quad C) 8 \quad D) 7 \quad E) 6
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n2_f1#q16|src_obm_2012_n2_f1__Q16]]
 
 
 
@@ -559,13 +691,22 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area oscurata in parallelo con lati divisi in 4 e 3 parti*
+*Area ombreggiata all'interno di un parallelogramma i cui lati sono divisi in 4 e 3 parti*
 
-> I lati $AB$ e $DC$ del parallelo $ABCD$ sono stati suddivisi in segmenti uguali $4$. I lati $AD$ e $BC$ sono stati divisi in segmenti uguali $3$. I punti di divisione sono stati collegati come indica la figura seguente. La superficie di $ABCD$ è $84$. Determina la zona ombrata.
-> 
+> I lati $AB$ e $DC$ del parallelogramma $ABCD$ sono stati divisi in $4$ segmenti uguali. I lati $AD$ e $BC$ sono stati divisi in $3$ segmenti uguali. I punti di divisione sono stati collegati come indica la figura sottostante. L'area di $ABCD$ è $84$. Determinare l'area ombreggiata.
+>
 > A) 1 \quad B) 3 \quad C) 4 \quad D) 7 \quad E) 12
 
 ![[src_obm_2012_n2_f1__q17.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n2_f1#q17|src_obm_2012_n2_f1__Q17]]
 
 
 
@@ -592,11 +733,20 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conto dei quadrati paralleli all'asse in una griglia 4x2012 che generalizza il caso 4x4*
+*Conteggio dei quadrati assialmente paralleli in una griglia 4x2012, che generalizza il caso 4x4*
 
-> Renan disegnò una tavola $4 \times 4$, come mostrato nella figura di seguito, e contò tutti i quadrati con lati paralleli ai lati della tavola, con vertici scelti tra i vertici dei piccoli quadrati della tavola, e ottenne i quadrati $30$. Che numero avrebbe ottenuto Renan se avesse fatto lo stesso con una lavagna $4 \times 2012$?
-> 
+> Renan ha disegnato una tavola $4 \times 4$, come mostrato nella figura sottostante, e ha contato tutti i quadrati i cui lati sono paralleli ai lati della tavola e i cui vertici sono scelti tra i vertici dei piccoli quadrati della tavola, ottenendo $30$ quadrati. Quale numero avrebbe ottenuto Renan se avesse fatto lo stesso con una tavola $4 \times 2012$?
+>
 > A) 30180 \quad B) 32175 \quad C) 20110 \quad D) 25190 \quad E) 8048
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2012_n2_f1#q18|src_obm_2012_n2_f1__Q18]]
 
 
 
@@ -623,11 +773,20 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei valori di m così radici di x^2-mx+m+5=0 sono gambe di un triangolo rettangolo con ipotenuza 5*
+*Somma dei valori di m tali che le radici dell'equazione x^2 - mx + m + 5 = 0 siano i cateti di un triangolo rettangolo con ipotenusa 5*
 
-> Nel calcolare le radici dell'equazione di secondo grado $x^2 - mx + m + 5 = 0$, Samuca notò che sono le gambe di un triangolo rettangolo con ipotenusa di lunghezza $5$. Qual è la somma dei possibili valori di $m$?
-> 
+> Calcolando le radici dell'equazione di secondo grado $x^2 - mx + m + 5 = 0$, Samuca ha notato che esse sono i cateti di un triangolo rettangolo con ipotenusa di lunghezza $5$. Qual è la somma dei valori possibili di $m$?
+>
 > A) 2 \quad B) 12 \quad C) 7 \quad D) 10 \quad E) 8
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_obm_2012_n2_f1#q19|src_obm_2012_n2_f1__Q19]]
 
 
 
@@ -654,11 +813,20 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi in (23456,65432) con prodotto a numeri unici non multiplo di 7*
+*Conta gli interi nell'intervallo (23456,65432) il cui prodotto delle cifre è dispari e non è multiplo di 7*
 
-> Quanti numeri esistono tra $23456$ e $65432$ in modo tale che il prodotto delle loro cifre sia un numero impar che non è un multiple di $7$?
-> 
+> Quanti numeri esistono tra $23456$ e $65432$ tali che il prodotto delle loro cifre sia un numero dispari che non sia multiplo di $7$?
+>
 > A) 128 \quad B) 256 \quad C) 512 \quad D) 1024 \quad E) 2048
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n2_f1#q20|src_obm_2012_n2_f1__Q20]]
 
 
 
@@ -687,13 +855,22 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di un quadrato con un semicircolo inciso il cui centro si trova su una diagonale*
+*Area di un quadrato con un semicerchio inscritto il cui centro giace su una diagonale*
 
-> Nella figura del raggio $r$ abbiamo un semicircolo inciso in un quadrato in modo tale che il suo centro passi attraverso una delle diagonali del quadrato. Qual è l'area della piazza?
-> 
+> Nella figura di raggio $r$, abbiamo un semicerchio inscritto in un quadrato in modo tale che il suo centro passi per una delle diagonali del quadrato. Qual è l'area del quadrato?
+>
 > A) $\dfrac{3}{2} + \sqrt{2}$ \quad B) $1 + 2\sqrt{2}$ \quad C) $5 + \dfrac{\sqrt{2}}{2}$ \quad D) $4$ \quad E) $\dfrac{2}{3} + \sqrt{2}$
 
 ![[src_obm_2012_n2_f1__q21.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n2_f1#q21|src_obm_2012_n2_f1__Q21]]
 
 
 
@@ -720,11 +897,20 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Migliore potenza di 2 divisione 2011^2012 - 1*
+*La massima potenza di 2 che divide 2011^2012 - 1*
 
-> Qual è la maggiore potenza di $2$ che divide $2011^{2012} - 1$?
-> 
+> Qual è la più grande potenza di $2$ che divide $2011^{2012} - 1$?
+>
 > A) 2 \quad B) 4 \quad C) 8 \quad D) 16 \quad E) 32
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n2_f1#q22|src_obm_2012_n2_f1__Q22]]
 
 
 
@@ -751,11 +937,20 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Anno in cui è massimizzata l'edizione GCD dell'anno e OBM*
+*Anno in cui il mcd tra l'anno e l'edizione OBM è massimizzato*
 
-> In $2012$ abbiamo l'edizione $34$ dell'OBM e $\mathrm{mdc}(2012, 34) = 2$. Supponendo che l'OBM si svolga sempre ogni anno, in quale anno si verificherà il più grande valore possibile per il $\mathrm{mdc}$ dell'anno e l'edizione dell'OBM tenuta in quell'anno?
-> 
+> In $2012$ stiamo tenendo l'edizione $34$ dell'OBM, e $\mathrm{mdc}(2012, 34) = 2$. Supponendo che l'OBM si tenga sempre ogni anno, in quale anno si verificheranno il valore più grande possibile per l'$\mathrm{mdc}$ dell'anno e l'edizione dell'OBM tenuta in quell'anno?
+>
 > A) 12 \quad B) 28 \quad C) 38 \quad D) 1978 \quad E) 2012
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n2_f1#q23|src_obm_2012_n2_f1__Q23]]
 
 
 
@@ -784,13 +979,22 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Meditazione dell'angolo PBQ dato angolo retto ABC e angolo AFD=40 gradi*
+*Misura dell'angolo PBQ, dato l'angolo retto ABC e l'angolo AFD=40 gradi*
 
-> Nella figura che segue, l'angolo $A\hat{B}C$ è corretto, $r$ è una linea sopra i segmenti $AB$ e $BC$ rispettivamente a $D$ e $E$; le linee $CD$ e $AE$ tagliate a $F$; $P$ e $Q$ sono le proiezioni ortogonali di $A$ e $C$ sulla linea $r$, rispettivamente. Sapendo che l'angolo tra le linee $CD$ e $AE$ è $m(A\hat{F}D) = 40^\circ$, la misura di $P\hat{B}Q$, in gradi, è:
-> 
+> Nella figura che segue, l'angolo $A\hat{B}C$ è retto, $r$ è una retta che interseca i segmenti $AB$ e $BC$ rispettivamente in $D$ e $E$; le rette $CD$ e $AE$ si intersecano in $F$; $P$ e $Q$ sono le proiezioni ortogonali di $A$ e $C$ sulla retta $r$, rispettivamente. Sapendo che l'angolo tra le rette $CD$ e $AE$ è $m(A\hat{F}D) = 40^\circ$, la misura di $P\hat{B}Q$, in gradi, è:
+>
 > A) 110 \quad B) 120 \quad C) 130 \quad D) 140 \quad E) 160
 
 ![[src_obm_2012_n2_f1__q24.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n2_f1#q24|src_obm_2012_n2_f1__Q24]]
 
 
 
@@ -817,8 +1021,17 @@ Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsieme più grande di {1..25} senza due elementi il cui prodotto è un quadrato perfetto*
+*Il più grande sottoinsieme di {1..25} in cui non esistono due elementi il cui prodotto sia un quadrato perfetto*
 
-> Quanti elementi hanno il più grande sottoinsieme di $\{1, 2, 3, \ldots, 25\}$ che non contiene due numeri distinti il cui prodotto è un quadrato perfetto?
-> 
+> Quanti elementi ha il più grande sottoinsieme di $\{1, 2, 3, \ldots, 25\}$ che non contiene due numeri distinti il cui prodotto sia un quadrato perfetto?
+>
 > A) 15 \quad B) 16 \quad C) 17 \quad D) 18 \quad E) 19
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n2_f1#q25|src_obm_2012_n2_f1__Q25]]

@@ -37,15 +37,24 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Min passi per riscrivere la sequenza 1..n nell'ordine*
+*Passaggi minimi per riscrivere la sequenza 1..n in ordine*
 
-> Scriviamo, in fila, i numeri $1, 2, 3, \ldots, n$. Ad ogni passo, prendiamo gli ultimi due numeri della riga corrente, scriviamo l'ultimo prima e l'ultimo dopo l'ultimo, e poi mettiamo i restanti numeri $n-2$ in mezzo. Per esempio, per $n = 12$ otteniamo: $$1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 \to 12, 11, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10$$ $$\to 10, 9, 12, 11, 1, 2, 3, 4, 5, 6, 7, 8 \to \cdots$$
-> 
-> Qual è il numero minimo di passi necessari per scrivere $1, 2, 3, \ldots, n$ in ordine di nuovo, quando
-> 
+> Scriviamo in fila i numeri $1, 2, 3, \ldots, n$. A ogni passo, prendiamo gli ultimi due numeri della riga corrente, scriviamo per prima l'ultima e per ultima la penultima, e poi inseriamo tra di esse i restanti $n-2$ numeri. Ad esempio, per $n = 12$ otteniamo:
+> $$1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 \to 12, 11, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10$$
+> $$\to 10, 9, 12, 11, 1, 2, 3, 4, 5, 6, 7, 8 \to \cdots$$
+>
+> Qual è il numero minimo di passaggi necessari per riscrivere $1, 2, 3, \ldots, n$ in ordine, quando
+>
 > (a) $n = 2006$?
-> 
+>
 > (b) $n = 2005$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n2_f3#q01|src_obm_2006_n2_f3__Q01]]
 
 
 
@@ -74,15 +83,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Vincenti collineari massimi in un poligono a 12 lati*
+*Vertici collineari massimi in un poligono di 12 lati*
 
-> Tra tutti i poligoni con 5 lati, il numero massimo di vertici collineari (cioè appartenenti a una singola linea) è di tre, come mostrato di seguito.
-> 
-> Qual è il numero massimo di vertici collineari che un poligono con 12 lati può avere?
-> 
-> **Attenzione:** dopo aver disegnato un 12-gon con il numero massimo di vertici collineari, ricorda di mostrare che nessun altro 12-gon ha più vertici collineari del tuo.
+> Tra tutti i poligoni a 5 lati, il numero massimo di vertici allineati (ossia appartenenti a una singola retta) è tre, come mostrato di seguito.
+>
+> Qual è il numero massimo di vertici allineati che un poligono con 12 lati può avere?
+>
+> **Attenzione:** dopo aver disegnato un dodecagono con il numero massimo di vertici allineati, ricorda di dimostrare che nessun altro dodecagono ha più vertici allineati del tuo.
 
 ![[src_obm_2006_n2_f3__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n2_f3#q02|src_obm_2006_n2_f3__Q02]]
 
 
 
@@ -105,9 +121,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi con x^3 - y^3 = 3(x^2 - y^2)*
+*Trovare tutte le coppie di numeri interi tali che x^3 - y^3 = 3(x^2 - y^2)*
 
-> Trova tutte le coppie ordinate $(x, y)$ di integri come $x^3 - y^3 = 3(x^2 - y^2)$.
+> Trovare tutte le coppie ordinate $(x, y)$ di interi tali che $x^3 - y^3 = 3(x^2 - y^2)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n2_f3#q03|src_obm_2006_n2_f3__Q03]]
 
 
 
@@ -130,9 +153,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i sottogruppi di 3 elementi {a,b,c} di {1..100} con b media aritmetica di a e c*
+*Conta i sottoinsiemi a 3 elementi {a,b,c} di {1..100} tali che b sia la media aritmetica di a e c*
 
-> Quanti sottoinsiemi di tre elementi $\{a, b, c\}$ di $\{1, 2, 3, \ldots, 100\}$ sono tali che $b$ sia la media aritmetica di $a$ e $c$ (con $a < b < c$)?
+> Quanti sottoinsiemi a tre elementi $\{a, b, c\}$ di $\{1, 2, 3, \ldots, 100\}$ sono tali che $b$ è la media aritmetica di $a$ e $c$ (con $a < b < c$)?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n2_f3#q04|src_obm_2006_n2_f3__Q04]]
 
 
 
@@ -155,9 +185,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare l'angolo MNR in un triangolo acuto dato il centro ortografico e i punti medi*
+*Trovare l'angolo MNR in un triangolo acuto dati l'ortocentro e i punti medi*
 
-> Che $ABC$ sia un triangolo acuto e $H$ il suo centro orto. $M$, $N$ e $R$ siano rispettivamente i punti intermedi di $AB$, $BC$ e $AH$. Trova la misura dell'angolo $M\hat{N}R$ se angolo $A\hat{B}C = 70^\circ$.
+> Sia $ABC$ un triangolo acutangolo e $H$ il suo ortocentro. Siano $M$, $N$ e $R$ i punti medi di $AB$, $BC$ e $AH$, rispettivamente. Determinare la misura dell'angolo $M\hat{N}R$ se l'angolo $A\hat{B}C = 70^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n2_f3#q05|src_obm_2006_n2_f3__Q05]]
 
 
 
@@ -182,8 +219,15 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il torneo di prova senza k-cycle ha un vincitore e un perdente
+*Prova: un torneo senza k-cicli ha un vincitore e un perdente*
 
-> In un torneo di tennis da tavolo (in cui nessuna partita termina in pareggio), ciascuno dei partecipanti $n$ gioca esattamente una volta contro ciascuno degli altri. È noto che per tutti i $k > 2$ non esistono $k$ giocatori $J_1, J_2, \ldots, J_k$ in modo che $J_1$ batta $J_2$, $J_2$ batta $J_3$, $J_3$ batta $J_4$, $\ldots$, $J_{k-1}$ batta $J_k$ e $J_k$ batta $J_1$.
-> 
-> Prove che esiste un giocatore che ha battuto tutti gli altri e esiste un giocatore che ha perso agli altri.
+> In un torneo di tennistavolo (in cui nessuna partita termina in parità), ciascuno dei $n$ partecipanti ha giocato esattamente una volta contro ciascuno degli altri. È noto che, per tutti gli $k > 2$, non esistono $k$ giocatori $J_1, J_2, \ldots, J_k$ tali che $J_1$ abbia battuto $J_2$, $J_2$ abbia battuto $J_3$, $J_3$ abbia battuto $J_4$, $\ldots$, $J_{k-1}$ abbiano battuto $J_k$ e $J_k$ abbia battuto $J_1$.
+>
+> Dimostrare che esiste un giocatore che ha battuto tutti gli altri e che esiste un giocatore che ha perso contro tutti gli altri.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n2_f3#q06|src_obm_2006_n2_f3__Q06]]

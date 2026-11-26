@@ -36,9 +36,14 @@ level: kangourou
 
 > Consider the two numbers
 > $$A = 201920192019 \times 20202020 \quad \text{e} \quad B = 202020202020 \times 20192019.$$
-> Is the difference $A - B$ positive, zero or negative?
+> Is the difference $A - B$ positive, zero, or negative?
 
-**Answer:** zero
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_cadet_finale#q01|src_kangourou_2019_cadet_finale__Q01]]
 
 
 
@@ -89,7 +94,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the ITE angle in the equilateral pentagon and triangle*
+*Measurement of the ITE angle in the pentagon and the equilateral triangle*
 
 ![[src_kangourou_2019_cadet_finale__prob2.png]]
 
@@ -119,9 +124,13 @@ level: kangourou
 \end{document}
 ```
 
-> Look at the figure. $IBLEC$ is a regular pentagon and the triangle $CER$ is equilateral. $T$ is the intersection point between $CE$ and $IR$ segments. How many degrees does the angle $ITE$ measure? (see figure)
+> Observe the figure. $IBLEC$ is a regular pentagon, and triangle $CER$ is equilateral. $T$ is the point of intersection of segments $CE$ and $IR$. How many degrees is angle $ITE$? (see figure)
 
-**Answer:** 114
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_cadet_finale#q02|src_kangourou_2019_cadet_finale__Q02]]
 
 
 
@@ -145,11 +154,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Why Elvira wants to start in the game of the 66 tokens*
+*Why does Elvira want to start in the 66-token game?*
 
-> Gianni and Elvira play in this way. There are 66 tokens on the table: at each turn each of them can take 1 or 2 or 3 or 4 or 5 tokens. Whoever is forced to take the last token loses. Elvira, who wants to win, insists on being the one to start. Why?
+> Gianni and Elvira play in this way. There are 66 tokens on the table: on each turn, each of them can take 1 or 2 or 3 or 4 or 5 tokens. Whoever is forced to take the last token loses. Elvira, who wants to win, wants at all costs to be the one to start. Why?
 
-**Answer:** winning strategy
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_cadet_finale#q03|src_kangourou_2019_cadet_finale__Q03]]
 
 
 
@@ -173,11 +187,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many years will the full moon return at Ferragosto*
+*In how many years will the full moon return on Ferragosto?*
 
-> Last August 15, the day of Ferragosto, there was a full moon. Assuming that the lunar cycle is exactly 28 days, in how many years will there be a full moon at Ferragosto again for the first time? (If, for example, it happened next year, you should answer: in 1 year.)
+> Last August 15, which was Ferragosto Day, there was a full moon. Assuming the lunar cycle is exactly 28 days, in how many years will there be a full moon on Ferragosto for the first time again? (If, for example, it happened next year, you should answer: in 1 year.)
 
-**Answer:** 22
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_cadet_finale#q04|src_kangourou_2019_cadet_finale__Q04]]
 
 
 
@@ -201,11 +220,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of 4 integers at the vertices of the square (divisibility)*
+*Minimum sum of the 4 integers at the vertices of the square (divisibility)*
 
-> Every vertex of a square has a positive integer written on it. If two vertices are adjacent, one of the two corresponding integers divides the other; if two vertices are opposite, neither of the two corresponding integers divides the other. What's the smallest possible value for the sum of these four integers?
+> A positive integer was written at each vertex of a square. If two vertices are adjacent, one of the two corresponding integers divides the other; if two vertices are opposite, neither of the two corresponding integers divides the other. What is the smallest possible value of the sum of these four integers?
 
-**Answer:** 35
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_cadet_finale#q05|src_kangourou_2019_cadet_finale__Q05]]
 
 
 
@@ -232,10 +256,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the edge VD of the rectangular base pyramid*
+*Length of edge VD of the pyramid with a rectangular base*
 
 ![[src_kangourou_2019_cadet_finale__prob6.png]]
 
-> A rectangular-based pyramid is known for the lengths of three of the four oblique edges connecting its vertex $V$ with the vertices $A$, $B$, $C$, $D$ of the base: $$VA = 90 \text{ m}, \quad VB = 70 \text{ m}, \quad VC = 20 \text{ m}.$$ Can the length of the edge $VD$ be determined? If yes, determine that length; if not, identify the measurements of two pyramids that meet the problem data where the length of the edge $VD$ is different.
+> For a pyramid with a rectangular base, the lengths of three of the four slant edges that join its apex $V$ to the base vertices $A$, $B$, $C$, $D$ are known:
+> $$VA = 90 \text{ m}, \quad VB = 70 \text{ m}, \quad VC = 20 \text{ m}.$$
+> Is it possible to determine the length of edge $VD$? If so, determine that length; if not, identify the measurements of two pyramids that satisfy the data of the problem in which the length of edge $VD$ is different.
 
-**Answer:** 60
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_cadet_finale#q06|src_kangourou_2019_cadet_finale__Q06]]

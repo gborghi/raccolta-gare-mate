@@ -30,11 +30,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fattore primo più piccolo di k dato k^2 < 2014 < (k+1)^2*
+*k naturale con k^2 < 2014 < (k+1)^2: massimo fattore primo di k*
 
-> Un numero naturale $k$ è tale che $k^2 < 2014 < (k+1)^2$. Qual è il più grande fattore primo di $k$?
+> Un numero naturale $k$ è tale che $k^2 < 2014 < (k+1)^2$. Qual è il massimo fattore primo di $k$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
 **Risposta:** 11
+
+[[Quesiti/src_prmo_2014#q01|src_prmo_2014__Q01]]
 
 
 
@@ -58,11 +64,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2014º termine della successione in cui ogni termine è la somma dei cubi delle cifre del precedente*
+*Successione che parte da 2014 e somma i cubi delle cifre: il termine di indice 2014*
 
-> Il primo termine di una sequenza è 2014. Ogni termine successivo è la somma dei cubi dei numeri del termine precedente. Qual è il termine $2014^{\text{th}}$ della sequenza?
+> Il primo termine di una successione è 2014. Ogni termine successivo è la somma dei cubi delle cifre del termine precedente. Qual è il termine $2014^{\text{th}}$ della successione?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 2
+
+[[Quesiti/src_prmo_2014#q02|src_prmo_2014__Q02]]
 
 
 
@@ -86,11 +98,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valore di DA in ABCD quadrilaterale convexa con diagonali perpendicolari*
+*Quadrilatero convesso a diagonali perpendicolari, tre lati noti: lunghezza del quarto*
 
-> Il $ABCD$ deve essere un quadrilaterale converso con diagonali perpendicolari. Se $AB = 20$, $BC = 70$ e $CD = 90$, qual è il valore di $DA$?
+> Sia $ABCD$ un quadrilatero convesso con diagonali perpendicolari. Se $AB = 20$, $BC = 70$ e $CD = 90$, qual è il valore di $DA$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 60
+
+[[Quesiti/src_prmo_2014#q03|src_prmo_2014__Q03]]
 
 
 
@@ -114,11 +132,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più grande perimetro possibile di un triangolo a lato intero con un lato tre volte l'altro e un terzo lato 17*
+*Triangolo a lati interi, un lato triplo di un altro e il terzo uguale a 17: massimo perimetro*
 
-> In un triangolo con lunghezze laterali interi, un lato è tre volte più lungo di un secondo lato, e il terzo lato è 17. Qual è il più grande perimetro possibile del triangolo?
+> In un triangolo con lati di lunghezza intera, un lato è il triplo di un secondo lato e il terzo lato è 17. Qual è il massimo perimetro possibile del triangolo?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
 
 **Risposta:** 49
+
+[[Quesiti/src_prmo_2014#q04|src_prmo_2014__Q04]]
 
 
 
@@ -144,11 +168,21 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta di a^2+b^2+c^2+d^2+e^2 data una restrizione simmetrica*
+*Cinque reali legati da una catena di uguaglianze: somma dei quadrati*
 
-> Se i numeri reali $a, b, c, d, e$ soddisfano $$a+1=b+2=c+3=d+4=k+5=a+b+c+d+e+3,$$ qual è il valore di $a^2 + b^2 + c^2 + d^2 + e^2$?
+> Se i numeri reali $a, b, c, d, e$ soddisfano
+>
+> $$a+1=b+2=c+3=d+4=k+5=a+b+c+d+e+3,$$
+>
+> qual è il valore di $a^2 + b^2 + c^2 + d^2 + e^2$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 10
+
+[[Quesiti/src_prmo_2014#q05|src_prmo_2014__Q05]]
 
 
 
@@ -172,11 +206,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo numero naturale n tale che x^2 - nx + 2014 = 0 abbia radici interi*
+*Minimo naturale n per cui x^2 − nx + 2014 = 0 ha radici intere*
 
-> Qual è il numero naturale $n$ più piccolo possibile per il quale l'equazione $x^2 - nx + 2014 = 0$ ha radici interi?
+> Qual è il minimo numero naturale $n$ per cui l'equazione $x^2 - nx + 2014 = 0$ ha radici intere?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
 **Risposta:** 91
+
+[[Quesiti/src_prmo_2014#q06|src_prmo_2014__Q06]]
 
 
 
@@ -200,11 +240,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valore di 2^(1/y) + 2^(1/x) dato 2^(x+y) = 4*
+*Se 2^{x+y} = 4, quanto vale 2^{1/x} + 2^{1/y}*
 
 > Se $2^{x+y} = 4$, qual è il valore di $2^{1/x} + 2^{1/y}$?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
 **Risposta:** 4
+
+[[Quesiti/src_prmo_2014#q07|src_prmo_2014__Q07]]
 
 
 
@@ -228,11 +274,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di elementi in S date condizioni medie su S∪{15} e S∪{15,1}*
+*Insieme di media M: aggiungendo 15 la media cresce di 2, aggiungendo anche 1 cresce di 1. Quanti elementi*
 
-> $S$ sia un insieme di numeri reali con media $M$. Se i mezzi degli insiemi $S \cup \{15\}$ e $S \cup \{15, 1\}$ sono rispettivamente $M + 2$ e $M + 1$, quanti elementi ha $S$?
+> Sia $S$ un insieme di numeri reali di media $M$. Se le medie degli insiemi $S \cup \{15\}$ e $S \cup \{15, 1\}$ sono rispettivamente $M + 2$ e $M + 1$, quanti elementi ha $S$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 
 **Risposta:** 4
+
+[[Quesiti/src_prmo_2014#q08|src_prmo_2014__Q08]]
 
 
 
@@ -256,11 +308,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di tutti i valori possibili di q di determinate condizioni sulle radici di due quadratici*
+*Se a e b sono radici di un'equazione, a+1/b e b+1/a lo sono di un'altra: somma dei valori possibili di q*
 
-> I numeri naturali $p, q, r$ sono tali che $a$ e $b$ sono radici di $x^2 - px + 1 = 0$ e $a + \frac{1}{b}$ e $b + \frac{1}{a}$ sono radici di $x^2 - rx + q = 0$. Qual è la somma di tutti i valori possibili di $q$?
+> I numeri naturali $p, q, r$ sono tali che, se $a$ e $b$ sono radici di $x^2 - px + 1 = 0$, allora $a + \frac{1}{b}$ e $b + \frac{1}{a}$ sono radici di $x^2 - rx + q = 0$. Qual è la somma di tutti i valori possibili di $q$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
 **Risposta:** 10
+
+[[Quesiti/src_prmo_2014#q09|src_prmo_2014__Q09]]
 
 
 
@@ -284,11 +342,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area del triangolo ABC dato rapporto AY:YC=2:1 e area di AXY=10*
+*Punti che dividono i lati in 1:2 e 2:1, area del triangolino 10: area del triangolo*
 
-> In un triangolo $ABC$, $X$ e $Y$ sono punti sui segmenti $AB$ e $AC$, rispettivamente, tali da $AX : XB = 1 : 2$ e $AY : YC = 2 : 1$. Se l'area del triangolo $AXY$ è 10 allora qual è l'area del triangolo $ABC$?
+> In un triangolo $ABC$, $X$ e $Y$ sono punti sui segmenti $AB$ e $AC$ rispettivamente, tali che $AX : XB = 1 : 2$ e $AY : YC = 2 : 1$. Se l'area del triangolo $AXY$ è 10, qual è l'area del triangolo $ABC$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 45
+
+[[Quesiti/src_prmo_2014#q10|src_prmo_2014__Q10]]
 
 
 
@@ -312,11 +376,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di coppie (x,y) con z=gcd soddisfacente 2xy + y(z,y) = (x+y) ^2*
+*Coppie di naturali x ≤ y con xy + y(x, y) = (x+y)^2, dove (x, y) è il massimo comun divisore*
 
-> Per i numeri naturali $x$ e $y$, $(x, y)$ indichi il più grande divisore comune di $x$ e $y$. Quante coppie di numeri naturali $x$ e $y$ con $x \le y$ soddisfano l'equazione $xy + y(x, y) = (x + y)^2$?
+> Per numeri naturali $x$ e $y$, sia $(x, y)$ il massimo comun divisore di $x$ e $y$. Quante coppie di numeri naturali $x$ e $y$ con $x \le y$ soddisfano l'equazione $xy + y(x, y) = (x + y)^2$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 3
+
+[[Quesiti/src_prmo_2014#q11|src_prmo_2014__Q11]]
 
 
 
@@ -340,11 +410,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa delle radici di triangoli ABD e BCD in ABCD quadrilaterale*
+*Quadrilatero con due angoli retti, circonferenze inscritte che toccano la diagonale: somma dei raggi, dati AD e PQ*
 
-> Il $ABCD$ deve essere un quadrilaterale converso con $\angle DAB = \angle BDC = 90^\circ$. Lasciate che gli incircoli dei triangoli $ABD$ e $BCD$ toccino $BD$ a $P$ e $Q$, rispettivamente, con $P$ tra $B$ e $Q$. Se $AD = 999$ e $PQ = 200$, qual è la somma dei radii degli incircoli dei triangoli $ABD$ e $BCD$?
+> Sia $ABCD$ un quadrilatero convesso con $\angle DAB = \angle BDC = 90^\circ$. Le circonferenze inscritte dei triangoli $ABD$ e $BCD$ toccano $BD$ in $P$ e $Q$ rispettivamente, con $P$ fra $B$ e $Q$. Se $AD = 999$ e $PQ = 200$, qual è la somma dei raggi delle circonferenze inscritte dei triangoli $ABD$ e $BCD$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 799
+
+[[Quesiti/src_prmo_2014#q12|src_prmo_2014__Q12]]
 
 
 
@@ -368,11 +444,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri naturali n nel [1,2014] per i quali 8n/(9999-n) è un intero*
+*Per quanti naturali n fra 1 e 2014, estremi compresi, 8n/(9999−n) è un intero*
 
-> Per quanti numeri naturali $n$ tra il 1 e il 2014 (entrambi inclusi) $\dfrac{8n}{9999 - n}$ è un numero intero?
+> Per quanti numeri naturali $n$ fra 1 e 2014, estremi compresi, $\dfrac{8n}{9999 - n}$ è un intero?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 1
+
+[[Quesiti/src_prmo_2014#q13|src_prmo_2014__Q13]]
 
 
 
@@ -396,11 +478,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre di persone nella famiglia di Manjul che hanno avuto problemi con la miscela di caffè/ latte*
+*Ogni familiare beve caffè e latte: Manjul beve un settimo del latte e due diciassettesimi del caffè. Quanti sono*
 
-> Una mattina, ogni membro della famiglia di Manjul bevette un misto di circa 10 grammi di caffè e latte. Le quantità di caffè e latte variavano da tazza a tazza, ma non erano mai zero. Manjul ha bevuto $1/7$-th della quantità totale di latte e $2/17$-th della quantità totale di caffè. Quante persone ci sono nella famiglia di Manjul?
+> Una mattina ogni membro della famiglia di Manjul bevve una miscela di 8 once di caffè e latte. Le quantità di caffè e di latte variavano da tazza a tazza, ma non erano mai nulle. Manjul bevve $1/7$ della quantità totale di latte e $2/17$ della quantità totale di caffè. Quante persone ci sono nella famiglia di Manjul?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 
 **Risposta:** 8
+
+[[Quesiti/src_prmo_2014#q14|src_prmo_2014__Q14]]
 
 
 
@@ -424,11 +512,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza XY in triangolo XOY con angolo=90, punti di mezzo M,N sulle gambe, XN=YM=22*
+*Triangolo rettangolo isoscele, punti medi dei cateti, due lunghezze note: lunghezza dell'ipotenusa*
 
-> Che $XOY$ sia un triangolo con $\angle XOY = 90^\circ$. Il punto medio delle gambe $M$ e $N$ sono rispettivamente $OX$ e $OY$. Supponiamo che $XN = 19$ e $YM = 22$. Che cos'è $XY$?
+> Sia $XOY$ un triangolo con $\angle XOY = 90^\circ$. Siano $M$ e $N$ i punti medi dei cateti $OX$ e $OY$ rispettivamente. Si supponga che $XN = 19$ e $YM = 22$. Quanto vale $XY$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 26
+
+[[Quesiti/src_prmo_2014#q15|src_prmo_2014__Q15]]
 
 
 
@@ -452,11 +546,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta dell'angolo QPR nel triangolo ABC con incentro I e angolo BAC=40*
+*Incentro, seconde intersezioni delle bisettrici con la circonferenza inscritta, angolo in A di 40 gradi: misura di un angolo*
 
-> In un triangolo $ABC$, $I$ indichi l'incentro. Lasciate che le linee $AI$, $BI$ e $CI$ incrociano l'incircolo rispettivamente a $P$, $Q$ e $R$. Se $\angle BAC = 40^\circ$, qual è il valore di $\angle QPR$ in gradi?
+> In un triangolo $ABC$, sia $I$ l'incentro. Le rette $AI$, $BI$ e $CI$ intersecano la circonferenza inscritta in $P$, $Q$ e $R$ rispettivamente. Se $\angle BAC = 40^\circ$, qual è il valore di $\angle QPR$ in gradi?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 55
+
+[[Quesiti/src_prmo_2014#q16|src_prmo_2014__Q16]]
 
 
 
@@ -480,11 +580,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La b più piccola tale che N(b) = 20, dove N(b) conta a per la quale x^2+ax+b=0 non ha radici interi*
+*N(b) conta i naturali a per cui x^2 + ax + b = 0 ha radici intere: minimo b con N(b) = 20*
 
-> Per un numero naturale $b$, $N(b)$ indica il numero di numeri naturali $a$ per i quali l'equazione $x^2 + ax + b = 0$ ha radici interi. Qual è il valore più piccolo di $b$ per il quale $N(b) = 20$?
+> Per un numero naturale $b$, sia $N(b)$ il numero dei numeri naturali $a$ per cui l'equazione $x^2 + ax + b = 0$ ha radici intere. Qual è il minimo valore di $b$ per cui $N(b) = 20$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
 **Risposta:** 749
+
+[[Quesiti/src_prmo_2014#q17|src_prmo_2014__Q17]]
 
 
 
@@ -508,11 +614,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta minima possibile di f(999) per la funzione uno a uno su naturali con f(mn) = f(m) f(n)*
+*Funzione iniettiva e moltiplicativa sui naturali: minimo valore possibile di f(999)*
 
-> Lasciate che $f$ sia una funzione uno a uno dall'insieme dei numeri naturali a se stesso tale che $f(mn) = f(m)f(n)$ per tutti i numeri naturali $m$ e $n$. Qual è il valore minimo possibile di $f(999)$?
+> Sia $f$ una funzione iniettiva dall'insieme dei numeri naturali in sé tale che $f(mn) = f(m)f(n)$ per tutti i numeri naturali $m$ e $n$. Qual è il minimo valore possibile di $f(999)$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_modellizzazione|Modellizzazione]]
 
 **Risposta:** 24
+
+[[Quesiti/src_prmo_2014#q18|src_prmo_2014__Q18]]
 
 
 
@@ -539,11 +651,23 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta della somma di x_i^2/(1-x_i) data x_1+...+x_2014=1 e condizione di somma ciclica*
+*2014 reali diversi da 1, di somma 1, con somma delle frazioni x/(1−x) uguale a 1: somma di x^2/(1−x)*
 
-> Che $x_1, x_2, \ldots, x_{2014}$ siano numeri reali diversi da 1, come $x_1 + x_2 + \cdots + x_{2014} = 1$ e $$\frac{x_1}{1-x_1} + \frac{x_2}{1-x_2} + \cdots + \frac{x_{2014}}{1-x_{2014}} = 1.$$ Qual è il valore di $$\frac{x_1^2}{1-x_1} + \frac{x_2^2}{1-x_2} + \cdots + \frac{x_{2014}^2}{1-x_{2014}}\,?$$
+> Siano $x_1, x_2, \ldots, x_{2014}$ numeri reali diversi da 1, tali che $x_1 + x_2 + \cdots + x_{2014} = 1$ e
+>
+> $$\frac{x_1}{1-x_1} + \frac{x_2}{1-x_2} + \cdots + \frac{x_{2014}}{1-x_{2014}} = 1.$$
+>
+> Qual è il valore di
+>
+> $$\frac{x_1^2}{1-x_1} + \frac{x_2^2}{1-x_2} + \cdots + \frac{x_{2014}^2}{1-x_{2014}}\,?$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
 **Risposta:** 0
+
+[[Quesiti/src_prmo_2014#q19|src_prmo_2014__Q19]]
 
 
 
@@ -567,8 +691,14 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di coppie ordinate (A,B) con sottoinsiemi A,B di {1,...,5}, né A⊆B né B⊆A*
+*Coppie ordinate di sottoinsiemi di {1, 2, 3, 4, 5} in cui nessuno dei due contiene l'altro*
 
-> Qual è il numero di coppie ordinate $(A, B)$ in modo tale che $A$ e $B$ siano sottoinsiemi di $\{1, 2, 3, 4, 5\}$ e non $A \subseteq B$ né $B \subseteq A$?
+> Qual è il numero di coppie ordinate $(A, B)$ tali che $A$ e $B$ sono sottoinsiemi di $\{1, 2, 3, 4, 5\}$ e non vale né $A \subseteq B$ né $B \subseteq A$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 570
+
+[[Quesiti/src_prmo_2014#q20|src_prmo_2014__Q20]]

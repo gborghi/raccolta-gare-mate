@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Compare le somme rimanenti: Helen divide 365, Henry divide 366*
+*Quale elenco di resti ha somma maggiore, e di quanto*
 
-> Helen divide $365$ per ciascuno di $1, 2, 3, \ldots, 365$ a sua volta, scrivendo un elenco dei rimanenti $365$. Henry divide $366$ per ciascuno di $1, 2, 3, \ldots, 366$ a sua volta, scrivendo un elenco dei rimanenti $366$. Quale elenco di rimanenti ha la somma maggiore e per quanto?
+> Helen divide $365$ per ciascuno di $1, 2, 3, \ldots, 365$ a turno, e scrive l'elenco dei $365$ resti. Henry divide $366$ per ciascuno di $1, 2, 3, \ldots, 366$ a turno, e scrive l'elenco dei $366$ resti. Quale elenco di resti ha la somma maggiore, e di quanto?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2018#q01|src_bmo1_2018__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-I giorni in cui tutti e sei gli amici nuotano in un periodo di 100 giorni, massimo e min.
+*Deve esserci un giorno in cui tutti e sei nuotano, e i valori estremi di $n$*
 
-> In un periodo di 100 giorni, ciascuno dei sei amici va a nuotare in esattamente 75 giorni. Mostrate che ci deve essere almeno un giorno in cui tutti e sei i vostri amici nuotano. Quali sono i valori più grandi e più piccoli possibili di $n$?
+> In un periodo di 100 giorni, ciascuno di sei amici va a nuotare in esattamente 75 giorni. Dimostrare che deve esserci almeno un giorno in cui tutti e sei gli amici nuotano. Quali sono il massimo e il minimo valore possibile di $n$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2018#q02|src_bmo1_2018__Q02]]
 
 
 
@@ -79,9 +93,16 @@ I giorni in cui tutti e sei gli amici nuotano in un periodo di 100 giorni, massi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Linea attraverso il piede di altitudine divide ugualmente la superficie del triangolo e il perimetro*
+*La retta $MN$ divide a metà area e perimetro di $ABC$*
 
-> Il triangolo $ABC$ ha $AB = CA$ e $BC$ è il suo lato più lungo. Il punto $N$ è sul lato $BC$ e $BN = AB$. La linea $MN$ è perpendicolare a $AB$ e passa attraverso $N$ incontra $AB$ a $M$. Prova che la linea $MN$ divide sia l'area che il perimetro del triangolo $ABC$ in parti uguali.
+> Il triangolo $ABC$ ha $AB = CA$ e $BC$ è il lato più lungo. Il punto $N$ sta sul lato $BC$ e $BN = AB$. La retta $MN$ è perpendicolare ad $AB$ e, passando per $N$, incontra $AB$ in $M$. Dimostrare che la retta $MN$ divide a metà sia l'area sia il perimetro del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2018#q03|src_bmo1_2018__Q03]]
 
 
 
@@ -106,9 +127,18 @@ I giorni in cui tutti e sei gli amici nuotano in un periodo di 100 giorni, massi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza reale positiva con ricorrenza; trovare possibili valori di a_2017*
+*Valori possibili di $a_{2017}$*
 
-> Considerare le sequenze $a_1, a_2, a_3, \ldots$ di numeri reali positivi, come $$a_{n+1} + a_n = (a_{n+1} - a_n)^2$$ per ogni intero positivo $n$. Quali sono i valori possibili che $a_{2017}$ può assumere?
+> Si considerino successioni $a_1, a_2, a_3, \ldots$ di numeri reali positivi tali che
+> $$a_{n+1} + a_n = (a_{n+1} - a_n)^2$$
+> per ogni intero positivo $n$. Quali valori può assumere $a_{2017}$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2018#q04|src_bmo1_2018__Q04]]
 
 
 
@@ -131,9 +161,16 @@ I giorni in cui tutti e sei gli amici nuotano in un periodo di 100 giorni, massi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di colori nella griglia per bloccare tutti i 100 combi*
+*Il minimo $k$ che impedisce a James di scegliere un $100$-comb*
 
-> Se prendiamo una griglia $200 \times 100$ (o $100 \times 2$) di quadrati unitari, e rimuoviamo quadrati alternativi, i quadrati $150$ rimanenti formano un $100$-combo. Henry prende una griglia $200 \times 100$ di quadrati unitari, rimuove $150$ quadrati, e sceglie $k$ di questi quadrati e li colora in modo che James non sia in grado di scegliere $150$ quadrati multicolori che formano un $100$-combo. Qual è il minimo valore possibile di $k$?
+> Se si prende una griglia $200 \times 100$ (oppure $100 \times 2$) di quadrati unitari e si tolgono i quadrati alterni, i $150$ quadrati rimasti formano un $100$-comb. Henry prende una griglia $200 \times 100$ di quadrati unitari, ne toglie $150$ e ne sceglie $k$, colorandoli in modo che James non possa scegliere $150$ quadrati multicolori che formino un $100$-comb. Qual è il minimo valore possibile di $k$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2018#q05|src_bmo1_2018__Q05]]
 
 
 
@@ -156,6 +193,13 @@ I giorni in cui tutti e sei gli amici nuotano in un periodo di 100 giorni, massi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero minimo di carte con media interi in ogni momento*
+*Il minimo numero di carte che Matthew può aver messo in fila*
 
-> Matthew ha un mazzo di carte $300$ numerate $1$ a $300$. Prende le carte dal mazzo una alla volta e posiziona le carte selezionate in una fila, con ogni nuova carta aggiunta all'estremità destra della fila. Matthew deve provvedere che, in ogni momento, la media dei numeri sulle carte della fila sia un numero intero. Se a un certo punto, non rimane nessuna carta nel mazzo che permetta a Matthew di continuare, allora si ferma. Quando Matthew si è fermato, qual è il numero minimo possibile di carte che avrebbe potuto mettere in fila? Datemi un esempio che dimostri che ciò è possibile.
+> Matthew ha un mazzo di $300$ carte numerate da $1$ a $300$. Prende le carte dal mazzo una alla volta e le dispone in fila, aggiungendo ogni nuova carta all'estremo destro della fila. Matthew deve fare in modo che, in ogni momento, la media dei numeri sulle carte in fila sia un intero. Se a un certo punto non resta nel mazzo alcuna carta che gli permetta di continuare, si ferma. Quando Matthew si è fermato, qual è il minimo numero possibile di carte che potrebbe aver messo in fila? Dare un esempio per mostrare che è raggiungibile.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2018#q06|src_bmo1_2018__Q06]]

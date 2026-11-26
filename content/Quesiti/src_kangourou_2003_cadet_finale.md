@@ -32,13 +32,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Disposition 1-9 with sums at vertices 20*
+*The remaining numbers in the square of nine squares*
 
 ![[src_kangourou_2003_cadet_finale__probc1.png]]
 
-> The figure represents a square obtained by placing 9 smaller squares side by side. You must enter all the numbers from $1$ to $9$, one per square, so that the sum of the four numbers surrounding each of the inner vertices, marked with a black ball, is $20$. The numbers $3$ and $5$ have already been placed: enter the remaining ones. (see figure)
+> The figure shows a square obtained by placing 9 smaller squares side by side. You must enter all the numbers from $1$ to $9$, one in each square, so that the sum of the four numbers surrounding each of the interior vertices, marked with a black dot, equals $20$. The numbers $3$ and $5$ have already been placed: enter the remaining ones. (see the figure)
 
-**Answer:** arrangement
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Answer:** disposizione
+[[Quesiti/src_kangourou_2003_cadet_finale#qc1|src_kangourou_2003_cadet_finale__QC1]]
 
 
 
@@ -62,11 +66,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum balls for 15 of the same colour*
+*The fewest balls one must draw to be sure of 15 of one colour*
 
-> A box contains $100$ coloured balls. Of these, $28$ are red, $20$ green, $12$ yellow, $20$ blue, $10$ white and $10$ black. What is the minimum number of balls that must be drawn to be sure in advance of having at least $15$ of the same colour?
+> A box contains $100$ coloured balls. Of these, $28$ are red, $20$ green, $12$ yellow, $20$ blue, $10$ white and $10$ black. What is the smallest number of balls one must draw in order to be sure in advance of having at least $15$ of the same colour?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** 75
+[[Quesiti/src_kangourou_2003_cadet_finale#qc2|src_kangourou_2003_cadet_finale__QC2]]
 
 
 
@@ -89,11 +97,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial length of the magic rectangle*
+*The initial length of the magic rectangle*
 
-> Mirabilandia's magical leather rectangle shrinks by half in length and by a third in height every time it fulfills a wish of its owner. It is known that at first the height measured $27$ centimeters and that, when $3$ desires were fulfilled, the rectangle became a square. How long was the original length?
+> A magic leather rectangle from Mirabilandia shrinks by half in length and by a third in height every time it grants a wish of its owner. It is known that initially the height measured $27$ centimetres and that, after $3$ wishes had been granted, the rectangle became a square. What did the length measure initially?
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** 64
+[[Quesiti/src_kangourou_2003_cadet_finale#qc3|src_kangourou_2003_cadet_finale__QC3]]
 
 
 
@@ -138,7 +149,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of lengths of the 7 parallel segments*
+*The sum of the lengths of the seven segments*
 
 ![[src_kangourou_2003_cadet_finale__probc4.png]]
 
@@ -161,9 +172,13 @@ level: kangourou
 \end{document}
 ```
 
-> The $AC$ hypotenuse of a right triangle is divided into $8$ segments equal to each other using $7$ segments parallel to the leg $BC$, each having one end on the leg $AB$ and the other on the hypotenuse. The leg $BC$ is $10$ meters long. What is the sum of the lengths of these $7$ segments?
+> The hypotenuse $AC$ of a right-angled triangle is divided into $8$ segments equal to one another by means of $7$ segments parallel to the leg $BC$, each having one endpoint on the leg $AB$ and the other on the hypotenuse. The leg $BC$ is $10$ metres long. What is the sum of the lengths of these $7$ segments?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** 35
+[[Quesiti/src_kangourou_2003_cadet_finale#qc4|src_kangourou_2003_cadet_finale__QC4]]
 
 
 
@@ -186,11 +201,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time between the overlapping of the hands*
+*The time between two successive coincidences of the hands*
 
-> The hour hand of a clock completes a complete turn in $12$ hours while the minute hand completes a complete turn in one hour. Both hands rotate continuously. There are times when the two hands are overlapping. How long does it take between one of these moments and the next?
+> The hour hand of a clock completes a full turn in $12$ hours, while the minute hand completes a full turn in one hour. Both hands turn continuously. There are some instants at which the two hands coincide. How much time passes between one of these instants and the next?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** 1h5'27"3/11
+[[Quesiti/src_kangourou_2003_cadet_finale#qc5|src_kangourou_2003_cadet_finale__QC5]]
 
 
 
@@ -214,8 +232,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seven digit integers divisible by 2003*
+*How many 7-digit positive integers are divisible by 2003*
 
-> How many positive integers of $7$ digits divisible by $2003$?
+> How many positive integers of $7$ digits are divisible by $2003$?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** 4493
+[[Quesiti/src_kangourou_2003_cadet_finale#qc6|src_kangourou_2003_cadet_finale__QC6]]

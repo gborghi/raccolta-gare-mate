@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Question 1 (text not available in the sidecar)*
+*Which of the five figures shows the two triangles?*
 
-> Six points are numbered as shown in the figure. Cristina obtains two triangles: one with vertices marked by even numbers, the other with vertices marked by odd numbers. Which of the five figures shows the two triangles obtained by Cristina? (see figure)
+> Six points are numbered as the picture shows. Cristina obtains two triangles: one whose vertices are the points marked with even numbers, the other whose vertices are the points marked with odd numbers. Which of the five figures shows the two triangles Cristina obtained? (see the picture)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_benjamin_gara#q01|src_kangourou_2022_benjamin_gara__Q01]]
 
 
 
@@ -62,17 +66,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Question 2 (text not available in the sidecar)*
+*Around which buoys did Elena go anticlockwise?*
 
-> With her little boat, Elena went around some buoys following the route shown in the figure. Around which buoys did Elena go in a counterclockwise direction? (see figure)
-> 
+> In her little boat, Elena went around some buoys, following the path shown in the picture. Around which buoys did Elena go anticlockwise? (see the picture)
+>
 > A) 1 and 4
 > B) 2, 3 and 5
 > C) 2 and 3
 > D) 1, 4 and 5
 > E) 1 and 3
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_benjamin_gara#q02|src_kangourou_2022_benjamin_gara__Q02]]
 
 
 
@@ -106,19 +114,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of packages for 95 marbles*
+*What is the least number of packs he can have bought?*
 
-> The stationer sells marbles in packs of 5, 10 or 25. Tom bought exactly 95 marbles. What's the minimum number of packages he could have bought? A) 4
->   
+> The stationer sells marbles in packs of 5, of 10 or of 25. Tom bought exactly 95 marbles. What is the least number of packs he can have bought?
+>
+> A) 4
 > B) 5
->   
 > C) 7
->   
 > D) 8
->   
 > E) 10
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_benjamin_gara#q03|src_kangourou_2022_benjamin_gara__Q03]]
 
 
 
@@ -155,21 +165,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum number of vehicles to move to get the black car out
+*What is the least number of vehicles that must be moved?*
 
 ![[src_kangourou_2022_benjamin_gara__prob4.png]]
 
-> In the garage shown in the figure, vehicles can only move forward or backward, but they cannot turn. What is the minimum number of vehicles to move for the black car to get out of the garage? A) 2
->   
+> In the garage shown in the picture, the vehicles can only move forwards or backwards; they cannot turn. What is the least number of vehicles that must be moved so that the black car can leave the garage?
+>
+> A) 2
 > B) 3
->   
 > C) 4
->   
 > D) 5
->   
 > E) 6
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_benjamin_gara#q04|src_kangourou_2022_benjamin_gara__Q04]]
 
 
 
@@ -203,17 +215,23 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The last three digits of the smallest 12-digit number*
+*What are the last three digits of that number?*
 
 ![[src_kangourou_2022_benjamin_gara__prob5.png]]
 
-> Bianca places the seven cards side by side you see in the picture.
->  
-> so that the resulting 12-digit number is as small as possible. What are the last three digits of that number?
-> 
-> A) 699 B) 113 C) 551 D) 967 E) 459
+> Bianca places the seven cards you see in the picture side by side so that the resulting 12-digit number is as small as possible. What are the last three digits of that number?
+>
+> A) 699
+> B) 113
+> C) 551
+> D) 967
+> E) 459
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_benjamin_gara#q05|src_kangourou_2022_benjamin_gara__Q05]]
 
 
 
@@ -248,17 +266,22 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Slices of pizza with ham and vegetables*
+*How many slices have both ham and vegetables?*
 
-> A pizza maker cut a pizza into 12 slices and then topped it using the ingredients he had: mushrooms, ham and vegetables. He put only mushrooms on three slices; he put ham on seven slices and vegetables on five slices. No slice was left without topping. How many slices have both ham and vegetables? A) 1
->   
+> A pizza-maker cut a pizza into 12 slices and then topped them using the ingredients he had: mushrooms, ham and vegetables. He put only mushrooms on 3 slices; he put ham on 7 slices and vegetables on 5 slices. No slice was left without a topping. How many slices have both ham and vegetables?
+>
+> A) 1
 > B) 2
->   
 > C) 3
->   
-> D) 4 E) 5
+> D) 4
+> E) 5
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_benjamin_gara#q06|src_kangourou_2022_benjamin_gara__Q06]]
 
 
 
@@ -291,13 +314,23 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spin fraction to lift the white cab*
+*Which fraction of a full turn is enough?*
 
 ![[src_kangourou_2022_benjamin_gara__prob7.png]]
 
-> One of the two white cabins currently located further down in the Ferris wheel is to be taken to the farthest position from the ground. To that end, which of the following fractions of a full lap is enough to make the wheel complete? A) 5/6 B) 1/2 C) 5/12 D) 1/6 E) 1/12
+> One wants to bring to the position furthest from the ground one of the two white cabins that are at present lowest on the big wheel. To that end, which of the following fractions of a full turn is it enough to make the wheel turn?
+>
+> A) 5/6
+> B) 1/2
+> C) 5/12
+> D) 1/6
+> E) 1/12
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_benjamin_gara#q07|src_kangourou_2022_benjamin_gara__Q07]]
 
 
 
@@ -332,15 +365,22 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of pieces never to be obtained by dividing by three*
+*Which of the following numbers can she never obtain?*
 
-> Julia has a very long tape. She cuts it into three pieces; then she takes each piece one after another and divides it back into three and repeats this operation several times. In the course of her work every now and then, as soon as he has finished dividing some pieces into three, he stops and counts the number of pieces he has obtained: which of the following numbers can he never get? A) 13
->   
+> Giulia has a very long ribbon. She cuts it into three pieces; then she takes each piece in turn and divides it into three again, and she repeats this operation several times. In the course of her work, now and then, just after finishing dividing some piece into three, she stops and counts the number of pieces obtained. Which of the following numbers can she never obtain?
+>
+> A) 13
 > B) 17
->   
-> C) 20 D) 23 E) 25
+> C) 20
+> D) 23
+> E) 25
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_benjamin_gara#q08|src_kangourou_2022_benjamin_gara__Q08]]
 
 
 
@@ -372,13 +412,24 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the grey star in the square of area 100*
+*How many square centimetres is the area of the grey star?*
 
 ![[src_kangourou_2022_benjamin_gara__prob9.png]]
 
-> The square in the figure has an area of 100 cm2. How many square centimeters does the area of the grey star measure? A) 20 B) 25 C) 30 D) 35 E) 40
+> The square in the picture has area 100 cm2. How many square centimetres is the area of the grey star?
+>
+> A) 20
+> B) 25
+> C) 30
+> D) 35
+> E) 40
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_benjamin_gara#q09|src_kangourou_2022_benjamin_gara__Q09]]
 
 
 
@@ -416,19 +467,26 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Small cubes with exactly 4 faces painted in 2022*
+*How many little cubes have exactly 4 faces painted?*
 
 ![[src_kangourou_2022_benjamin_gara__prob10.png]]
 
-> Mario and his friends built the 2022 number by attaching 66 cubes, as shown in the figure. Then they painted all the faces of the structure gray. How many cubes have exactly four faces painted? A) 16
->   
+> Mario and his friends built the number 2022 by gluing 66 little cubes together, as the picture shows. They then painted all the faces of the structure grey. How many little cubes have exactly 4 faces painted?
+>
+> A) 16
 > B) 30
->   
-> C) 46 D) 54
->   
-> E) 60 Questions from N. 11 to N. 20 are worth 4 points each.
+> C) 46
+> D) 54
+> E) 60
+>
+> Questions 11 to 20 are worth 4 points each.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_benjamin_gara#q10|src_kangourou_2022_benjamin_gara__Q10]]
 
 
 
@@ -464,24 +522,19 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Impossible situation of elephants after the fork*
+*Which of the following cannot be the situation after all have passed the fork?*
 
 ![[src_kangourou_2022_benjamin_gara__prob11.png]]
 
-> Five 
-> adult 
-> elephants 
-> and 
-> four 
-> baby elephants, lined up as in the figure, move 
-> along a track in the savanna without ever overtaking one another. 
-> When  
-> 
-> they reach the fork, each of them turns right or left, without a rule. 
-> Which of the following cannot be the situation after all of them have passed the 
-> fork? A)
+> Five adult elephants and four baby elephants, lined up as in the picture, move along a track in the savannah without ever overtaking one another. When they reach the fork, each of them turns right or left, with no rule. Which of the following cannot be the situation after all have passed the fork?
+>
+> A)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_benjamin_gara#q11|src_kangourou_2022_benjamin_gara__Q11]]
 
 
 
@@ -517,19 +570,23 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final number following arrows from 12*
+*What number does she finish with?*
 
 ![[src_kangourou_2022_benjamin_gara__prob12.png]]
 
-> Chiara starts from 12 and follows the path of the arrows by applying the rules (multiplication or division) shown in the figure to the left. What number does it end with? A) 3
->   
+> Chiara starts from 12 and follows the path of the arrows, applying the rules (multiplication or division) shown in the leftmost picture. What number does she finish with?
+>
+> A) 3
 > B) 6
->   
-> C) 12 D) 24
->   
+> C) 12
+> D) 24
 > E) 48
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_benjamin_gara#q12|src_kangourou_2022_benjamin_gara__Q12]]
 
 
 
@@ -566,13 +623,23 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of water in the tank at another position*
+*What height does the water reach?*
 
 ![[src_kangourou_2022_benjamin_gara__prob13.png]]
 
-> The figure shows a water tank in the form of a right parallelepiped (i.e. box with all rectangular faces) in two different positions. Its dimensions are 1m×2m×4m and when placed on a face of 2m×4m the water in it reaches a height of 25 cm. What height does it reach when lying on a face measuring 1m×2m? A) 25 cm B) 50 cm C) 75 cm D) 1 m E) 1,25 m
+> The picture shows a water tank in the shape of a right parallelepiped (that is, a box with all faces rectangular) in two different positions. Its dimensions are 1 m × 2 m × 4 m, and when it lies on the face of dimensions 2 m × 4 m the water in it reaches a height of 25 cm. What height does the water reach when the parallelepiped lies on the face of dimensions 1 m × 2 m?
+>
+> A) 25 cm
+> B) 50 cm
+> C) 75 cm
+> D) 1 m
+> E) 1,25 m
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_benjamin_gara#q13|src_kangourou_2022_benjamin_gara__Q13]]
 
 
 
@@ -634,42 +701,24 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the shaded rhombus in the rectangle 90cm2*
+*How many square centimetres is the area of the shaded rhombus?*
 
 ![[src_kangourou_2022_benjamin_gara__prob14.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-\draw[thick] (0,0) rectangle (4,2);
-\draw (2,0) -- (0,2);
-\draw (2,0) -- (4,2);
-\draw (2,2) -- (0,0);
-\draw (2,2) -- (4,0);
-\fill[gray!50] (2,0) -- (3,1) -- (2,2) -- (1,1) -- cycle;
-\draw (2,0) -- (3,1) -- (2,2) -- (1,1) -- cycle;
-\end{tikzpicture}
-\end{document}
-```
-
-> In the figure you see a rectangle that has an area of 90 cm2. From the midpoints of its two sides of greater length, the segments connecting them to its four vertices have been mapped. How many square centimetres is the area of the shaded rhombus? A) 18
->   
-> B) 22
->   
-> (C) 26 D) 30 E) None of the above answers is correct.
->    
-> B)
->   
-> C)
->   
-> D)
->   
-> E)
->  
-> : :
+> In the picture you see a rectangle of area 90 cm2. From the midpoints of its two longer sides, the segments joining them to its four vertices have been drawn. How many square centimetres is the area of the shaded rhombus?
 >
+> A) 18
+> B) 22
+> C) 26
+> D) 30
+> E) none of the previous answers is correct
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_benjamin_gara#q14|src_kangourou_2022_benjamin_gara__Q14]]
 
 
 
@@ -704,19 +753,22 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Image on the sheet folded in four*
+*Which of the following images is seen on the sheet folded into four?*
 
 ![[src_kangourou_2022_benjamin_gara__prob15.png]]
 
-> The figure shows a drawing made on a square sheet of transparent paper. The sheet is folded twice as shown in the figure. Which of the following images can be seen on the sheet folded in four? A)
->  
+> The picture shows a drawing made on a square sheet of transparent paper. The sheet is folded twice as indicated in the picture. Which of the following images is seen on the sheet folded into four?
+>
+> A)
 > B)
->  
 > C)
->  
 > D)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_benjamin_gara#q15|src_kangourou_2022_benjamin_gara__Q15]]
 
 
 
@@ -753,19 +805,24 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solid that requires less paint than the four*
+*Which of the four solids needs the least paint to be painted completely?*
 
 ![[src_kangourou_2022_benjamin_gara__prob16.png]]
 
-> By removing, as suggested by the figure, cubes of different sizes from a complete cube A, three more solids can be obtained. Which of the four solids requires the least amount of paint to be fully painted? A) A
->   
+> By removing, as the picture suggests, little cubes of different sizes from a complete cube A, three other solids can be obtained. Which of the four solids needs the least amount of paint to be painted completely?
+>
+> A) A
 > B) B
->   
 > C) C
->   
-> D) D E) All solids require the same amount of paint.
+> D) D
+> E) All the solids need the same amount of paint.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_benjamin_gara#q16|src_kangourou_2022_benjamin_gara__Q16]]
 
 
 
@@ -800,18 +857,22 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum age of Eva turtle by end of 2022*
+*What is the least age Eva will have at the end of 2022?*
 
-> The year 2022 is a special year as the figure 2 appears three times. It's the third time the turtle Eva has seen a year with three equal digits. What is the minimum age Eva will be at the end of 2022? A) 18
->   
+> The year 2022 is a special year because the digit 2 appears three times. Since she was born, this is the third time the tortoise Eva has seen a year with three equal digits. What is the least age Eva will have at the end of 2022?
+>
+> A) 18
 > B) 20
->   
-> C) 22 D) 23
->  
->   
+> C) 22
+> D) 23
 > E) 134
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_benjamin_gara#q17|src_kangourou_2022_benjamin_gara__Q17]]
 
 
 
@@ -848,19 +909,23 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the circle with question mark (Latin square)*
+*What number must Andrea write in the circle marked with a question mark?*
 
 ![[src_kangourou_2022_benjamin_gara__prob18.png]]
 
-> Andrea wants to complete the diagram so that in each row, in each column and in each set of four circles connected by segments all four numbers 1, 2, 3, 4 (one per circle) appear. What number should Andrea write in the circle indicated by the question mark? A) 1
->   
+> Andrea wants to complete the grid in the picture so that in every row, in every column and in every set of four circles joined by segments, all four numbers 1, 2, 3, 4 appear (one per circle). What number must Andrea write in the circle marked with a question mark?
+>
+> A) 1
 > B) 2
->   
 > C) 3
->   
-> D) 4 E) There is more than one possible answer.
+> D) 4
+> E) There is more than one possible answer.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_benjamin_gara#q18|src_kangourou_2022_benjamin_gara__Q18]]
 
 
 
@@ -894,17 +959,20 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of third dog in descending order*
+*How many kilograms does the third dog weigh?*
 
-> Lisa has four dogs. Each weighs an integer number of kilograms (at least 1). There are no two that weigh the same. Their total weight is 60 kg. The second dog in descending order weighs 28 kg. How many kilograms does the third dog weigh in descending order of weight? A) 2
->   
+> Lisa has four dogs. Each of them weighs a whole number of kilograms (at least 1). No two have the same weight. Their total weight is 60 kg. The second dog in decreasing order of weight weighs 28 kg. How many kilograms does the third dog in decreasing order of weight weigh?
+>
+> A) 2
 > B) 3
->   
 > C) 4
->   
 > D) 5
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_benjamin_gara#q19|src_kangourou_2022_benjamin_gara__Q19]]
 
 
 
@@ -965,48 +1033,26 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum on each segment with 3..9*
+*What is the greatest sum Giacomo can obtain on each segment?*
 
 ![[src_kangourou_2022_benjamin_gara__prob20.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[every node/.style={draw,circle,minimum size=8mm,inner sep=0}]
-\node (c) at (0,0) {};
-\node (t1) at (0,1) {};
-\node (t2) at (0,2) {};
-\node (l1) at (-0.866,-0.5) {};
-\node (l2) at (-1.732,-1) {};
-\node (r1) at (0.866,-0.5) {};
-\node (r2) at (1.732,-1) {};
-\draw[thick] (c) -- (t1) -- (t2);
-\draw[thick] (c) -- (l1) -- (l2);
-\draw[thick] (c) -- (r1) -- (r2);
-\end{tikzpicture}
-\end{document}
-```
+> Giacomo writes the seven numbers 3, 4, 5, 6, 7, 8, 9 in the circles of the picture, taking care that the sums of the three numbers on each segment are equal. What is the greatest sum Giacomo can obtain on each segment?
+>
+> A) 28
+> B) 18
+> C) 22
+> D) 16
+> E) 20
+>
+> Questions 21 to 30 are worth 5 points each.
 
-> Giacomo writes the seven numbers 3, 4, 5, 6, 7, 8, 9 in the circles
-> of the figure, taking care to make the sums of the three numbers
-> on each segment equal. What is the
-> maximum sum that Giacomo can obtain on each segment?  
->   
-> E)   
-> E) 6 
-> 
-> A) 102   
-> A)   
->   
-> A) 28  
->   
-> B) 18  
->   
-> C) 22    
-> D) 16    
-> E) 20 
-> Questions from No. 21 to No. 30 are worth 5 points each
-
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_benjamin_gara#q20|src_kangourou_2022_benjamin_gara__Q20]]
 
 
 
@@ -1043,19 +1089,21 @@ Minimum number of vehicles to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many players are definitely weaker than the loser of the final?
+*How many of the 8 players can we be sure are weaker than the player who loses the final?*
 
-> Eight players take part in a knockout chess tournament: only the winners of the newly completed round move on to the next round. At each turn, the pairs of players to meet are drawn by lot. Four matches are played in the first round, two in the second and the final in the third. Suppose the strongest player wins every game: how many of the eight players can we be sure are less strong than the losing player? A) 7
->   
+> Eight players take part in a knockout chess tournament: only the winners of the round just finished go through to the next round. At each round, the pairs of players who must meet are drawn by lot. Thus 4 games are played in the first round, 2 in the second, and the final in the third round. Suppose that in every match the stronger player wins: how many of the 8 players can we be sure are weaker than the player who loses the final?
+>
+> A) 7
 > B) 6
->   
 > C) 5
->   
 > D) 4
->   
 > E) 3
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_benjamin_gara#q21|src_kangourou_2022_benjamin_gara__Q21]]
 
 
 
@@ -1095,19 +1143,24 @@ How many players are definitely weaker than the loser of the final?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of the four integers in the first row*
+*What is the greatest possible value of the sum of the four integers written in the first row?*
 
 ![[src_kangourou_2022_benjamin_gara__prob22.png]]
 
-> In the table alongside, each animal represents a positive integer and different animals represent different numbers. Under each column the sum of the two numbers represented by the animals occupying it is indicated. What is the maximum value of the sum of the four integers in the first row? A) 18
->   
+> In the table beside, each animal stands for a positive integer, and different animals stand for different numbers. Under each column is written the sum of the two numbers represented by the animals in that column. What is the greatest possible value of the sum of the four integers written in the first row?
+>
+> A) 18
 > B) 19
->   
-> C) 20 D) 25
->   
+> C) 20
+> D) 25
 > E) 26
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_benjamin_gara#q22|src_kangourou_2022_benjamin_gara__Q22]]
 
 
 
@@ -1141,13 +1194,27 @@ How many players are definitely weaker than the loser of the final?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit code of the lock from the clues*
+*What is the code that opens the padlock?*
 
-> Paul has to open a three-digit lock. Francis gives him these suggestions: - in sequence 682 only one of the digits is correct and it is in the right place, - in sequence 614 only one of the digits is correct, but it is in a wrong place, - in sequence 206 exactly two digits are correct, but both are in the wrong places, - in sequence 738 all the digits are wrong. What's the code to open the lock?
->  
-> A) 062 B) 082 C) 642 D) 042 E) 012
+> Paolo has to open a padlock with a three-digit code. Francesca gives him these hints:
+>
+> - in the sequence 682 only one of the digits is correct, and it is in the right place;
+> - in the sequence 614 only one of the digits is correct, but it is in a wrong place;
+> - in the sequence 206 exactly two digits are correct, but both are in wrong places;
+> - in the sequence 738 all the digits are wrong.
+>
+> What is the code that opens the padlock?
+>
+> B) 082
+> C) 642
+> D) 042
+> E) 012
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_benjamin_gara#q23|src_kangourou_2022_benjamin_gara__Q23]]
 
 
 
@@ -1184,21 +1251,22 @@ How many players are definitely weaker than the loser of the final?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Which solid represents Anna's from another perspective
+*Which of the following solids is Anna's solid seen from a different point of view?*
 
 ![[src_kangourou_2022_benjamin_gara__prob24.png]]
 
-> Anna built the solid shown in the figure. Which of the following solids represents Anna's solid from a different perspective?
->   
-> D)
->   
-> E)
-> 
+> Anna built the solid shown in the picture. Which of the following solids is Anna's solid seen from a different point of view?
+>
 > B)
->  
 > C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_benjamin_gara#q24|src_kangourou_2022_benjamin_gara__Q24]]
 
 
 
@@ -1233,17 +1301,22 @@ Which solid represents Anna's from another perspective
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many numbers can be written in the shaded box*
+*How many of the five numbers can Alberto write in the shaded box?*
 
 ![[src_kangourou_2022_benjamin_gara__prob25.png]]
 
-> Albert chooses four of the five numbers 2, 3, 4, 5 and 6 and inserts each of them into one of the boxes in the figure so as to write a correct equality. How many of the five numbers can Albert write in the shaded box? A) 1
->   
+> Alberto chooses four of the five numbers 2, 3, 4, 5 and 6 and puts each of them in one of the boxes in the picture so as to write a correct equality. How many of the five numbers can Alberto write in the shaded box?
+>
+> A) 1
 > B) 2
->   
 > C) 3
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_benjamin_gara#q25|src_kangourou_2022_benjamin_gara__Q25]]
 
 
 
@@ -1310,46 +1383,24 @@ Which solid represents Anna's from another perspective
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the three numbers in the vertices of the shaded triangle*
+*What is the sum of the three numbers that go at the vertices of the shaded triangle?*
 
 ![[src_kangourou_2022_benjamin_gara__prob26.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[every node/.style={draw,circle,minimum size=8mm,inner sep=0}]
-\node (top) at (0,2) {};
-\node (left) at (-1.5,0) {};
-\node (cen) at (0,0) {};
-\node (right) at (1.5,0) {};
-\node (bot) at (0,-2) {};
-\draw (top) -- (left);
-\draw (top) -- (right);
-\draw (top) -- (cen);
-\draw (left) -- (cen);
-\draw (right) -- (cen);
-\draw (bot) -- (left);
-\draw (bot) -- (right);
-\draw (bot) -- (cen);
-\fill[gray!40] (0,0) -- (1.5,0) -- (0,-2) -- cycle;
-\draw (0,0) -- (1.5,0) -- (0,-2) -- cycle;
-\node[draw=none,fill=white,inner sep=1pt] at (-0.85,1.1) {\small 105};
-\node[draw=none,fill=white,inner sep=1pt] at (0.85,1.1) {\small 84};
-\node[draw=none,fill=white,inner sep=1pt] at (-0.55,-1.1) {\small 210};
-\foreach \p in {top,left,cen,right,bot}
-  \draw (\p.center) circle (4mm);
-\end{tikzpicture}
-\end{document}
-```
-
-> Enter the numbers 3, 4, 5, 6, and 7 in the five circles in the figure so that the number written inside each triangle is the product of the numbers written in its vertices. What is the sum of the three numbers to be inserted into the vertices of the shaded triangle? A) 12
->   
+> Put the numbers 3, 4, 5, 6 and 7 in the five circles in the picture so that the number written inside each triangle is the product of the numbers written at its vertices. What is the sum of the three numbers that go at the vertices of the shaded triangle?
+>
+> A) 12
 > B) 14
->   
-> C) 15 D) 17
->   
+> C) 15
+> D) 17
 > E) 18
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_benjamin_gara#q26|src_kangourou_2022_benjamin_gara__Q26]]
 
 
 
@@ -1391,30 +1442,23 @@ Which solid represents Anna's from another perspective
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Plane net that does not produce the solid shown*
+*Which of the following nets, when rolled up, does not produce a solid that, from a suitable point of view, looks like this?*
 
 ![[src_kangourou_2022_benjamin_gara__prob27.png]]
 
-> Look at this image:  
->  
-> Which of the following plane nets, if folded back up, does not produce a solid that, from a suitable point of view, has this appearance? 
->   
-> A)   
->   
-> D) 4  
->   
-> E) 5 
->   
-> B)   
->   
-> C)  
->   
-> D)   
->   
->       E)  
+> Look at this picture. Which of the following nets, when rolled up, does not produce a solid that, from a suitable point of view, looks like this?
 >
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_benjamin_gara#q27|src_kangourou_2022_benjamin_gara__Q27]]
 
 
 
@@ -1453,15 +1497,22 @@ Which solid represents Anna's from another perspective
 <div class="qlang-split" data-lang="en"></div>
 
 
-Where the school is located minimizing distances
+*Where does the school stand?*
 
-> Four villages A, B, C and D are aligned in this order along the road linking them, each village at a constant distance of 10 km from the next. There are 10 students in village A, 20 in village B, 30 in village C and 40 in village D. The authorities built the school so that the sum of the distances traveled by the various students to school was as small as possible. Where is the school? A) In A.
->   
-> B) In B . C) Exactly halfway between B and C. D) In C.
->   
+> Four villages A, B, C, D are lined up in that order along the road that joins them, each village a constant distance of 10 km from the next. In village A there live 10 pupils, in village B there live 20, in village C there live 30 and in village D there live 40. The authorities had the school built so that the sum of the distances the various pupils travel to go to school was as small as possible. Where does the school stand?
+>
+> A) In A.
+> B) In B.
+> C) Exactly halfway between B and C.
+> D) In C.
 > E) In D.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_benjamin_gara#q28|src_kangourou_2022_benjamin_gara__Q28]]
 
 
 
@@ -1497,17 +1548,24 @@ Where the school is located minimizing distances
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of cubes from three points of view*
+*What is the greatest number of cubes that might have been used to build the structure?*
 
 ![[src_kangourou_2022_benjamin_gara__prob29.png]]
 
-> The three images show the view from above, from the front and from the right of a structure composed of cubes all equal to each other. What is the maximum number of cubes that could have been used to build the structure? A) 18
->   
+> The three pictures show the view from above, from the front and from the right of a structure made of cubes all equal to one another. What is the greatest number of cubes that might have been used to build the structure?
+>
+> A) 18
 > B) 19
->   
-> C) 20 D) 21 E) 22
+> C) 20
+> D) 21
+> E) 22
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_benjamin_gara#q29|src_kangourou_2022_benjamin_gara__Q29]]
 
 
 
@@ -1588,16 +1646,19 @@ Where the school is located minimizing distances
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of people with a hat at the table
+*How many people wearing a hat can there be, at most?*
 
-> Thirty people are sitting around a round table. Some of them wear hats. Those who wear the hat always tell the truth, while those who do not wear it can either lie or tell the truth. Each of them says, "At least one of my two neighbors doesn't wear a hat". How many people can wear the hat at most? A) 5
->   
+> Thirty people are sitting around a round table. Some of them are wearing a hat. Whoever is wearing a hat always tells the truth, while whoever is not wearing one may either lie or tell the truth. Each of them says: "At least one of my two neighbours is not wearing a hat." How many people wearing a hat can there be, at most?
+>
+> A) 5
 > B) 10
->   
-> C) 15 D) 20 E) 25
->  
-> 0 1 1 1 2 1 3 1 4 1 5 1 6 1 7 1 8 1 9 2 0 2 1 2 2 2 3 2 4 2 5 2 6 2 7 2 8 2 9 3 0
->  
-> From the top, from the front to the right.
+> C) 15
+> D) 20
+> E) 25
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_benjamin_gara#q30|src_kangourou_2022_benjamin_gara__Q30]]

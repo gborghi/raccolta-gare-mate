@@ -42,19 +42,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum squares to blacken in 7x7 squares because every 4x4 contains one
+*Minimum number of cells to be blackened in a 7x7 square, so that each 4x4 contains one*
 
-> (Points 2) Imagine isolating, in a square sheet, a square of seven squares on the side. Now you want to blacken some of the squares in the square that you've isolated so that any square of 4 squares on the side contained in it contains at least one of the squares that you blacked out. What's the smallest number of squares you can blacken? A) 5
-> 	
-> B) 2
-> 	
-> C) 4
-> 	
-> D) 1
-> 	
+> (Point 2) Imagine isolating, on a grid paper, a square with sides 7 squares long. Now you want to blacken some of the squares in the square you have isolated, so that any square with sides 4 squares long contained within it contains at least one of the squares you have blackened. What is the smallest number of squares you need to blacken?
+> A) 5	
+>
+> B) 2	
+>
+> C) 4	
+>
+> D) 1	
+>
 > E) 3
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q01|src_kangourou_2019_ecolier_semifinale__Q01]]
 
 
 
@@ -93,21 +99,26 @@ Minimum squares to blacken in 7x7 squares because every 4x4 contains one
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum white cars to move to get the black car out
+*Minimum number of white cars to move to get the black car out*
 
 ![[src_kangourou_2019_ecolier_semifinale__prob2.png]]
 
-> (Points 3) The figure shows the layout of a parking lot where some cars of different sizes are parked. At this time, it is possible to exit only from the exit shown on the left side and all cars can only move back and forth. What is the minimum number of white cars that you have to move to get the black car out? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> (Point 3) The figure shows a diagram of a parking lot in which several cars of different sizes are parked. At present, it is possible to exit only via the exit indicated on the left side, and all the cars can move only forward and backward. What is the minimum number of white cars that need to be moved in order to get the black car out?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q02|src_kangourou_2019_ecolier_semifinale__Q02]]
 
 
 
@@ -139,17 +150,23 @@ Minimum white cars to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age difference between Thomas and Mary given constraints*
+*Age difference between Tommaso and Maria, given the constraints*
 
-> (Points 3) George is 8 years younger than Paul; Paul is 11 years older than Mary and George is 3 years younger than Thomas. What is the age difference, in years, between Thomas and Mary? A) 1
-> 	
-> B) 6
-> 	
-> C) 17 D) 4
-> 	
+> (Point 3) Giorgio is 8 years younger than Paolo; Paolo is 11 years older than Maria, and Giorgio is 3 years younger than Tommaso. What is the age difference, in years, between Tommaso and Maria?
+> A) 1	
+>
+> B) 6	
+>
+> C) 17	 	
+> D) 4	
+>
 > E) 0
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q03|src_kangourou_2019_ecolier_semifinale__Q03]]
 
 
 
@@ -182,13 +199,22 @@ Minimum white cars to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What are the starting shapes of the triangle after two bends*
+*Which starting shapes yield the triangle after two folds?*
 
 ![[src_kangourou_2019_ecolier_semifinale__prob4.png]]
 
-> (Doc. 4) Marta folded a sheet of paper exactly in half, in one of the possible ways, and then folded the result in half again, always making sure the two sides were well matched. She got the triangle on the right. Which of the shapes P, Q, R might have had the starting sheet? A) Only P B) Only Q C) Only R D) Only P and R E) All three
+> (Point 4) Marta folded a sheet of paper exactly in half, in one of the possible ways, and then folded the result in half again, always making sure that the two halves aligned properly. She obtained the triangle shown on the right. Which of the shapes P, Q, R could the starting sheet have had?
+> A) Solo P
+> B) Solo Q
+> C) Solo R
+> D) Only P and R
+> E) All three
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q04|src_kangourou_2019_ecolier_semifinale__Q04]]
 
 
 
@@ -220,11 +246,20 @@ Minimum white cars to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total length of the ribbon divided into thirds*
+*Total length of the tape divided into thirds*
 
-> (Dots 4) Anna cuts a tape into four parts; she holds one part and gives the other three (one for each) to her friends Betta, Cinzia, and Donatella. The length of the part of Betta is one third of the length of that of Anna, the length of the part of Cinzia is one third of that of Betta and the length of the part of Donatella is one third of that of Cinzia. If the length of the piece of Cinzia is 3 meters, how many meters was the length of the tape before it was cut? A) 21 B) 30 C) 40 D) 54 E) 51
+> (Point 4) Anna cuts a ribbon into four pieces; she keeps one piece and gives the other three (one to each) to her friends Betta, Cinzia, and Donatella. The length of Betta's piece is one third of the length of Anna's piece; the length of Cinzia's piece is one third of the length of Betta's piece; and the length of Donatella's piece is one third of the length of Cinzia's piece. If Cinzia's piece is 3 meters long, how many meters long was the ribbon before it was cut?
+> A) 21	 	
+> B) 30	 	
+> C) 40	 	
+> D) 54	 	
+> E) 51
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q05|src_kangourou_2019_ecolier_semifinale__Q05]]
 
 
 
@@ -259,23 +294,21 @@ Minimum white cars to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coins per sack given 42 sacks divided among 41 people*
+*Coins by sack: 42 sacks distributed among 41 people*
 
-> (Points 4) Ali Baba and his forty thieves steal 42 sacks of gold coins: each sack contains
-> the same number of coins and all the coins are identical. Then they divide the loot into equal parts.
-> Each of them receives one full sack and two gold coins. How many coins does each
-> sack contain?
-> A) 41
-> B) 42
-> C) 81
-> D) 82
+> (Point 4) Ali Baba and his forty thieves steal 42 sacks of gold coins: each sack contains the same number of coins, and all the coins are identical. Then they divide the loot equally. Each of them receives one whole sack and two gold coins. How many coins are in each sack?
+> A) 41	 	
+> B) 42	 	
+> C) 81	 	
+> D) 82	 	
 > E) 84
-> Exit
-> P
-> Q
-> R
+> Exit P Q R
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q06|src_kangourou_2019_ecolier_semifinale__Q06]]
 
 
 
@@ -312,21 +345,26 @@ Minimum white cars to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which sheet first pasted in the overlay*
+*Which sheet was pasted first in the overlap?*
 
 ![[src_kangourou_2019_ecolier_semifinale__prob7.png]]
 
-> (Points 5) Filippo has 8 identical sheets of paper, but of different colours: he glues them onto a cardboard one after another, each at least partially overlapping with the previous one, so that the square in the figure (where the letters denote the colour of the sheet) is finally obtained. Which sheet did he paste first? A) b
-> 	
-> B) d
-> 	
-> C) e
-> 	
-> D) f
-> 	
+> (Point 5) Filippo has 8 identical sheets of paper, but in different colors: he has glued them onto a piece of cardboard one after another, each at least partially overlapping the previous one, so that in the end he obtains the square shown in the figure (where the letters denote the color of the sheet). Which sheet did he glue first?
+> A) b	
+>
+> B) d	
+>
+> C) e	
+>
+> D) f	
+>
 > E) h
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q07|src_kangourou_2019_ecolier_semifinale__Q07]]
 
 
 
@@ -355,11 +393,20 @@ Minimum white cars to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum a+b+c+d in the encrypted subtraction*
+*Sum a+b+c+d in the encrypted subtraction*
 
-> In the subtraction you see in the figure, some digits have been replaced by letters (different letters for different digits). What 's the sum of a + b + c + d ? A) 22 B) 23 C) 24 D) 25 E) 27
+> (Point 5) In the subtraction shown in the figure, some digits have been replaced by letters (different letters for different digits). What is the value of a + b + c + d?
+> A) 22	 	
+> B) 23	 	
+> C) 24	 	
+> D) 25	 	
+> E) 27
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q08|src_kangourou_2019_ecolier_semifinale__Q08]]
 
 
 
@@ -394,19 +441,26 @@ Minimum white cars to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of final zeros in the product 1991x...x2019*
+*Number of trailing zeros in the product 1991x...x2019*
 
-> (Points 6) The game-competition Kangourou was born in 1991. How many zeros does the product 1991 × 1992 ×...× 2018 × 2019 end with? A) 3
-> 	
-> B) 4
-> 	
-> C) 6
-> 	
-> D) 7
-> 	
-> E) 8 Open-ended questions
+> (Point 6) The Kangourou game-competition was launched in 1991. How many zeros does the product 1991 × 1992 × … × 2018 × 2019 end with?
+> A) 3	
+>
+> B) 4	
+>
+> C) 6	
+>
+> D) 7	
+>
+> E) 8
+> Open-ended questions
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q09|src_kangourou_2019_ecolier_semifinale__Q09]]
 
 
 
@@ -436,18 +490,17 @@ Minimum white cars to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cells can the token reach in 5 moves*
+*How many cells can the pawn reach in 5 moves?*
 
 ![[src_kangourou_2019_ecolier_semifinale__prob10.png]]
 
-> (4 points) A board game is played on the grid you see in the figure. The 
-> token cannot go on the black cells and, in one move, it can only go 
-> from one cell to an adjacent one (that is, one that has a side in common with it) 
-> without ever returning to a previously occupied cell. How many different 
-> cells can the token reach if it starts from the position in the figure and makes 5 
-> moves?
+> (Point 4) A board game is played on the grid shown in the figure. The piece cannot move onto the black cells, and in one move it can only move from one cell to an adjacent cell (that is, a cell that shares a side with it), never returning to a cell that it has occupied before. How many different cells can the piece reach if it starts from the position shown in the figure and makes 5 moves?
 
-**Answer:** 5
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q10|src_kangourou_2019_ecolier_semifinale__Q10]]
 
 
 
@@ -473,11 +526,16 @@ Minimum white cars to move to get the black car out
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many friends of Agnes dividing 121 crackers
+*How many of Agnese's friends, dividing 121 savory crackers*
 
-> (Points 4) Agnese has 121 crackers; she distributes them to her friends so that she and her friends have the same number of crackers and more than one each. How many of Agnes' friends are there?
+> (Point 4) Agnese has 121 savory crackers; she distributes them among her friends so that she and her friends all end up with the same number of crackers, and each person gets more than one. How many friends does Agnese have?
 
-**Answer:** 10
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q11|src_kangourou_2019_ecolier_semifinale__Q11]]
 
 
 
@@ -504,13 +562,17 @@ How many friends of Agnes dividing 121 crackers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure area on square sheet of 2cm2 area*
+*Area of the figure on a grid paper sheet with an area of 2 cm²*
 
 ![[src_kangourou_2019_ecolier_semifinale__prob12.png]]
 
-> (Points 6) Each square of this square sheet has an area of 2 cm2; how many square centimetres is the area of the figure we have drawn on the sheet?
+> (Point 6) Each small square on this grid paper has an area of 2 cm²; how many square centimetres is the area of the figure we drew on the paper?
 
-**Answer:** 24
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q12|src_kangourou_2019_ecolier_semifinale__Q12]]
 
 
 
@@ -537,11 +599,16 @@ How many friends of Agnes dividing 121 crackers
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum sum of the first two cards with total sum of 35
+*Maximum sum of the first two cards, with a total sum of 35*
 
-> (Points 6) From a bag containing many decks of cards mixed together, Ada drew five cards (not one of which is a joker or a face card) and arranged them so that the score of each card did not exceed that of the next card. Putting all the scores together, she gets 35. What is the maximum value of the sum of the scores of the first two cards?
+> (Points 6) From a bag containing many decks of cards mixed together, Ada drew five cards (none of which are jokers or face cards) and arranged them so that the value of each card did not exceed that of the next card. Adding up all the values gives 35. What is the maximum possible value of the sum of the values of the first two cards?
 
-**Answer:** 14
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q13|src_kangourou_2019_ecolier_semifinale__Q13]]
 
 
 
@@ -566,11 +633,17 @@ Maximum sum of the first two cards with total sum of 35
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many hours will the two tanks have the same amount of water*
+*In how many hours will the two tanks have the same amount of water?*
 
-> At this moment one tank contains 100 litres of water and another tank contains 120 litres. From the first, water comes out at a rate of one litre per hour, while from the second, water comes out at a rate of three litres per hour. How many hours from now will the two tanks contain the same amount of water?
+> (Point 8) At this moment, one tank contains 100 liters of water, and another tank contains
+> 120. From the first, water comes out at a rate of one liter per hour, while from the second, water comes out at a rate of 3 liters.
+> At that time. In how many hours will the two tanks contain the same amount of water?
 
-**Answer:** 10
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q14|src_kangourou_2019_ecolier_semifinale__Q14]]
 
 
 
@@ -597,8 +670,12 @@ Maximum sum of the first two cards with total sum of 35
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many wheels of cheese were there initially, given two days of mice*
+*How many initial forms of cheese, given two days of mice?*
 
-> A cellar contains some whole wheels of cheese. One day 36 mice invade the cellar and devour a total of 12 whole wheels of cheese, all eating the same amount of cheese. The next day, 12 of those mice return to the cellar and, each eating half of what they ate the day before, deplete the remaining wheels. How many whole wheels of cheese were there initially in the cellar?
+> (Question 8) A cellar contains some whole wheels of cheese. One day, 36 mice invade the cellar and collectively devour 12 whole wheels of cheese, each eating the same amount of cheese. The next day, 12 of those mice return to the cellar and, each eating half as much as it ate the previous day, finish off the remaining wheels. How many whole wheels of cheese were there in the cellar initially?
 
-**Answer:** 14
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale#q15|src_kangourou_2019_ecolier_semifinale__Q15]]

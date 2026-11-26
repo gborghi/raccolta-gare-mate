@@ -43,21 +43,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*what cutting piece*
+*Which of the following pieces will he be able to cut out of the table?*
 
 ![[src_kangourou_2023_benjamin__prob1.png]]
 
-> Federico is inserting in the table you see next to all the integers from 1 to 40, following the order suggested by the figure. In the end, which of the following pieces will he be able to cut from the table? A)
-> 	
+> Federico is entering in the table you see beside all the integers from 1 to 40, following the ordering suggested by the picture. At the end, which of the following pieces will he be able to cut out of the table?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_benjamin#q01|src_kangourou_2023_benjamin__Q01]]
 
 
 
@@ -89,13 +91,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*order of wrapping*
+*In what order, from first to last, were the four ribbons wrapped?*
 
 ![[src_kangourou_2023_benjamin__prob2.png]]
 
-> The figure shows a package surrounded by four tapes, denoted by the letters M, N, P, Q. In what order, from first to last, were the four tapes wrapped? A) M, N, Q, P B) N, M, P, Q C) N, Q, M, P D) N, M, Q, P E) Q, N, M, P
+> The picture shows a parcel around which four ribbons have been wrapped, denoted by the letters M, N, P, Q. In what order, from first to last, were the four ribbons wrapped?
+>
+> A) M, N, Q, P
+> B) N, M, P, Q
+> C) N, Q, M, P
+> D) N, M, Q, P
+> E) Q, N, M, P
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_benjamin#q02|src_kangourou_2023_benjamin__Q02]]
 
 
 
@@ -131,19 +143,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number with 7 matches*
+*What is the largest number that can be represented using 7 matches?*
 
 ![[src_kangourou_2023_benjamin__prob3.png]]
 
-> The figure shows how to construct each digit by placing matches side by side. With this technique, using exactly 7 matches, you can represent various integers, for example 8 or 15. What is the largest number that can be represented using 7 matches? A) 31
-> 	
+> The picture shows how to build each digit by placing matches side by side. With this technique, using exactly 7 matches one can represent various integers, for example 8 or 15. What is the largest number that can be represented using 7 matches?
+>
+> A) 31
 > B) 51
-> 	
 > C) 74
-> 	
-> D) 711 E) 1111
+> D) 711
+> E) 1111
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_benjamin#q03|src_kangourou_2023_benjamin__Q03]]
 
 
 
@@ -178,21 +194,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which cube is obtained*
+*If she folds it, which of the following cubes can she obtain?*
 
 ![[src_kangourou_2023_benjamin__prob4.png]]
 
-> Rosalia has a card with the shape and designs shown in the figure. If she folds it, which of the following cubes can she get? A)
-> 	
+> Rosalia has a piece of card with the shape and the drawings shown in the picture. If she folds it, which of the following cubes can she obtain?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_benjamin#q04|src_kangourou_2023_benjamin__Q04]]
 
 
 
@@ -245,20 +263,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*one +4 one -2 from true, quantities*
+*How many kangaroos live in the zoological garden?*
 
-> Five friends are trying to guess how many kangaroos live in the zoo. They assume, in the order of answer, that they are 5, 8, 9, 11, 12. One of these answers is 4 greater than the correct number, another is 2 less than the correct number. How many kangaroos live in the zoo? A) 6
-> 	
-> B) 7
-> 	
-> C) 8
-> 	
-> D) 9
-> 	
-> E) 10
+> Five friends are trying to guess how many kangaroos live in the zoological garden. They guess, in the order of their answers, that there are 5, 8, 9, 11, 12. One of these answers is 4 greater than the correct number, and another is 2 less than the correct number. How many kangaroos live in the zoological garden?
 >
+> A) 6
+> B) 7
+> C) 8
+> D) 9
+> E) 10
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_benjamin#q05|src_kangourou_2023_benjamin__Q05]]
 
 
 
@@ -295,21 +315,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*non-visible steps*
+*How many steps are not visible?*
 
 ![[src_kangourou_2023_benjamin__prob6.png]]
 
-> A staircase with steps all of equal height and depth rises from the bottom to the top of a cylindrical tank. In the figure that represents the situation, at least partly, nine steps are visible: how many steps are not visible? A) 9
-> 	
+> A staircase made of steps all of equal height and depth rises from the base to the top of a cylindrical tank. In the picture that represents the situation, 9 steps are visible, at least in part: how many steps are not visible?
+>
+> A) 9
 > B) 10
-> 	
 > C) 11
-> 	
 > D) 12
-> 	
 > E) 13
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_benjamin#q06|src_kangourou_2023_benjamin__Q06]]
 
 
 
@@ -341,13 +363,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*equal to*
+*Which ones?*
 
 ![[src_kangourou_2023_benjamin__prob7.png]]
 
-> Alice has the four pieces shown in this figure. Two of these can be combined to form the hexagon of the second figure. Which ones? A) 1 and 2 B) 1 and 3 C) 2 and 3 D) 2 and 4 E) 1 and 4
+> Alice has the four pieces shown in this picture. Two of them can be combined to form the hexagon of the second picture. Which ones?
+>
+> A) 1 and 2
+> B) 1 and 3
+> C) 2 and 3
+> D) 2 and 4
+> E) 1 and 4
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_benjamin#q07|src_kangourou_2023_benjamin__Q07]]
 
 
 
@@ -380,13 +412,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*visible fireplace*
+*Which of the following triples of numbers can be visible after the rotation?*
 
 ![[src_kangourou_2023_benjamin__prob8.png]]
 
-> On a clock (pictured left) a circle of grey cardboard with three holes was overlaid. Now the circle is rotated around its center. Which of the following sets of numbers can be seen after rotation? A) 2, 4 and 9 B) 1, 5, and 10 C) 4, 6 and 12 D) 3, 6, and 9 E) 5, 7, and 12
+> On a clock (picture on the left) a grey cardboard circle with three holes has been placed. Now the circle is rotated about its centre. Which of the following triples of numbers can be visible after the rotation?
+>
+> A) 2, 4 and 9
+> B) 1, 5 and 10
+> C) 4, 6 and 12
+> D) 3, 6 and 9
+> E) 5, 7 and 12
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_benjamin#q08|src_kangourou_2023_benjamin__Q08]]
 
 
 
@@ -423,21 +465,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The manufacturer shall provide the manufacturer with the following information:
+*How many centimetres long is the vertical side of the rectangle?*
 
 ![[src_kangourou_2023_benjamin__prob9.png]]
 
-> The tower designed by Catherine consists of a square, rectangle and equilateral triangle. These three figures all have the same perimeter. The side of the square is 9 cm long. How many centimeters is the vertical side of the rectangle? A) 2
-> 	
+> The tower drawn by Caterina is made up of a square, a rectangle and an equilateral triangle. These three figures all have the same perimeter. The side of the square is 9 cm long. How many centimetres long is the vertical side of the rectangle?
+>
+> A) 2
 > B) 4
-> 	
 > C) 6
-> 	
 > D) 8
-> 	
 > E) 10
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_benjamin#q09|src_kangourou_2023_benjamin__Q09]]
 
 
 
@@ -472,19 +516,23 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*in how many ways*
+*In how many different ways can she do it?*
 
-> Anna has 100 discs of different sizes. She wants to build a tower overlapping 99 disks so that each disk is smaller than the disk it's leaning on. In how many different ways can she do that? A) 49
-> 	
+> Anna has 100 discs of different sizes. She wants to build a tower by stacking 99 discs so that each disc is smaller than the disc it rests on. In how many different ways can she do it?
+>
+> A) 49
 > B) 50
-> 	
 > C) 51
-> 	
 > D) 99
-> 	
-> E) 100 Questions from N. 11 to N. 20 are worth 4 points each.
+> E) 100
+>
+> Questions 11 to 20 are worth 4 points each.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_benjamin#q10|src_kangourou_2023_benjamin__Q10]]
 
 
 
@@ -541,14 +589,23 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*length of snake*
+*How many centimetres long is the snake?*
 
 ![[src_kangourou_2023_benjamin__prob11.png]]
 
-> The floor of a balcony is tiled with square tiles of three different sizes, arranged as shown in the figure. The length of the perimeter of the smallest squares is 80 cm. In the thicker line, the figure depicts a serpent that has been drawn on the floor. How long is the snake? A) 380 B) 400 C) 420 D) 440 E) 1680 1 2 3 4 1 2 3 4 5 6 7 8 9 10 11 12 1 5 7 ? 9 cm
+> The floor of a balcony is tiled with square tiles of three different sizes, arranged as the picture shows. The length of the perimeter of the smallest squares is 80 cm. In a thicker line, the picture shows a snake that has been drawn on the floor. How many centimetres long is the snake?
 >
+> A) 380
+> B) 400
+> C) 420
+> D) 440
+> E) 1680
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_benjamin#q11|src_kangourou_2023_benjamin__Q11]]
 
 
 
@@ -578,13 +635,23 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which pieces complete the puzzle*
+*Which of the four pieces on the left must be used to complete the puzzle?*
 
 ![[src_kangourou_2023_benjamin__prob12.png]]
 
-> Which of the four pieces on the left should be used to complete the puzzle? A) 1 and 2 B) 1 and 4 C) 2 and 3 D) 2 and 4 E) 3 and 4
+> Which of the four pieces on the left must be used to complete the puzzle?
+>
+> A) 1 and 2
+> B) 1 and 4
+> C) 2 and 3
+> D) 2 and 4
+> E) 3 and 4
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_benjamin#q12|src_kangourou_2023_benjamin__Q12]]
 
 
 
@@ -612,11 +679,21 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*in which group is 4*
+*In which group is the number 4 present?*
 
-> Pamela divided the integers from 1 to 15 into five groups of three numbers each. The sums of the numbers in each of the first four groups are in the order 25, 27, 30 and 31. In which group is the number 4 present? A) In the first. (B) In the second. C) In the third. D) In the fourth. E) In the fifth.
+> Pamela divided the integers from 1 to 15 into five groups of three numbers each. The sums of the numbers in each of the first four groups are, in order, 25, 27, 30 and 31. In which group is the number 4 present?
+>
+> A) In the first.
+> B) In the second.
+> C) In the third.
+> D) In the fourth.
+> E) In the fifth.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_benjamin#q13|src_kangourou_2023_benjamin__Q13]]
 
 
 
@@ -653,21 +730,23 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*image in 30 minutes*
+*What image will I see in the mirror in 30 minutes?*
 
 ![[src_kangourou_2023_benjamin__prob14.png]]
 
-> A digital clock hangs on a wall in my studio; on the opposite wall there's a mirror. If I look now at the reflection of the clock in the mirror I see the image on the right. What image will I see in the mirror in 30 minutes? A)
-> 	
+> On one wall of my study a digital clock is hanging; on the opposite wall there is a mirror. If I now look at the reflection of the clock in the mirror I see the image on the right. What image will I see in the mirror in 30 minutes?
+>
+> A)
 > B)
-> 	
 > C)
->    	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_benjamin#q14|src_kangourou_2023_benjamin__Q14]]
 
 
 
@@ -703,11 +782,29 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who broke the window?
+*Who broke the window?*
 
-> While Maria, Pietro, Richard and Tina were playing football in the yard, the ball broke through a window. To the teacher who asked the principal, the four answered as follows: Mary: It was Peter Peter: It was Richard Richard: It wasn't me Tina: It wasn't me Only one of them told the truth. Who broke the window? A) Maria B) Tina C) Peter D) Richard E) It is not possible to establish it with certainty.
+> While Maria, Pietro, Riccardo and Tina were playing football in the courtyard, the ball smashed a window. To the teacher who asked who was responsible, the four answered like this:
+>
+> Maria: "It was Pietro."
+> Pietro: "It was Riccardo."
+> Riccardo: "It was not me."
+> Tina: "It was not me."
+>
+> Only one of them told the truth. Who broke the window?
+>
+> A) Maria
+> B) Tina
+> C) Pietro
+> D) Riccardo
+> E) It cannot be established with certainty.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2023_benjamin#q15|src_kangourou_2023_benjamin__Q15]]
 
 
 
@@ -746,21 +843,24 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coloring 5 rectangles with 3 adjacent different colours*
+*In how many different ways can she carry out her plan?*
 
 ![[src_kangourou_2023_benjamin__prob16.png]]
 
-> The drawing shows a rectangle divided into five rectangles. Lucia wants to colour each rectangle of a single colour, chosen between red, yellow and blue, so that if two rectangles are in contact, they receive different colours. How many different ways can she accomplish her project? A) 3
-> 	
+> The drawing shows a rectangle divided into five little rectangles. Lucia wants to colour each little rectangle in a single colour, chosen from red, yellow and blue, so that if two little rectangles touch they receive different colours. In how many different ways can she carry out her plan?
+>
+> A) 3
 > B) 4
-> 	
 > C) 5
-> 	
 > D) 6
-> 	
 > E) 7
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_benjamin#q16|src_kangourou_2023_benjamin__Q16]]
 
 
 
@@ -806,14 +906,23 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exchange two numbers to equal gray/white sums*
+*Which numbers must she swap?*
 
 ![[src_kangourou_2023_benjamin__prob17.png]]
 
-> Serena wants to replace two of the numbers in this grid so that the sum of the numbers in gray is equal to the sum of the numbers in white. What numbers do you have to swap places with? A) 1 and 11 B) 2 and 8 C) 3 and 7 D) 4 and 13 E) 7 and 13 4 2 3 1 1 3 5 2 13 7 4 6 8 11
+> Serena wants to swap two of the numbers written in this grid so that the sum of the numbers written on a grey background equals that of the numbers written on a white background. Which numbers must she swap?
 >
+> A) 1 and 11
+> B) 2 and 8
+> C) 3 and 7
+> D) 4 and 13
+> E) 7 and 13
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_benjamin#q17|src_kangourou_2023_benjamin__Q17]]
 
 
 
@@ -857,21 +966,24 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum movement*
+*What is the least number of moves that will let him stack them from the largest to the smallest?*
 
 ![[src_kangourou_2023_benjamin__prob18.png]]
 
-> George stacked four bricks of different lengths in the order shown in the first figure. This rule has been given: to change the order of the bricks in the pile you can, in each single move, take a group of bricks (possibly all) from the top of the pile and flip them all together, placing them on the ones you haven't touched, as shown in the example in the figure to the left. What is the minimum number of moves that will allow them to stack them from the largest to the smallest (see last figure)? A) 2
-> 	
+> Giorgio stacked four little bricks of different lengths in the order shown by the first picture. He set himself this rule: to change the order of the bricks in the pile he may, in each single move, take a group of bricks (possibly all of them) from the top of the pile and turn them all over together, placing them on those he has not touched, as the example in the picture on the left shows. What is the least number of moves that will let him stack them from the largest to the smallest (see the last picture)?
+>
+> A) 2
 > B) 3
-> 	
 > C) 4
-> 	
 > D) 5
-> 	
 > E) 6
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_benjamin#q18|src_kangourou_2023_benjamin__Q18]]
 
 
 
@@ -910,26 +1022,24 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*who wins*
+*Who wins?*
 
 ![[src_kangourou_2023_benjamin__prob19.png]]
 
-> A beaver, a rabbit and a kangaroo have 
-> a jumping race along the circular path illu­
-> strated in the figure. They all start from the same small cir­
-> cle denoted with START and they all go in a clock­
-> wise direction. At each jump the beaver lands on the first 
-> small circle starting from the one from which it jumped, the 
-> rabbit lands on the second and the kangaroo on the third. 
-> Whoever lands on the point denoted with FINISH 
-> in the fewest number of complete jumps wins. Who wins?
-> A) The beaver.	
-> B) The rabbit.	
+> A beaver, a rabbit and a kangaroo hold a jumping race along the circular path shown in the picture. They all start from the same little circle marked START and all go clockwise. At each jump the beaver lands on the first little circle from the one he jumped from, the rabbit lands on the second and the kangaroo on the third. The winner is whoever lands on the point marked FINISH in the smallest number of complete jumps. Who wins?
+>
+> A) The beaver.
+> B) The rabbit.
 > C) The kangaroo.
-> D) The kangaroo and the rabbit.   
+> D) The kangaroo and the rabbit.
 > E) The kangaroo and the beaver.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_benjamin#q19|src_kangourou_2023_benjamin__Q19]]
 
 
 
@@ -969,21 +1079,25 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which arrangement completes*
+*Which of the five arrangements of little cubes you see in the answers lets her complete the task?*
 
 ![[src_kangourou_2023_benjamin__prob20.png]]
 
-> Martha must build a building by stacking cubes on the square table you see on the right. The number in each box indicates how many cubes she must stack on that box. On the left you can see the part of that building that Marta has already erected. Which of the five cube arrangements you see in the answers allows you to complete the task? A)
-> 	
+> Marta has to put up a construction by stacking little cubes on the square table you see on the right: the number in each cell tells how many little cubes she must stack on that cell. On the left you see the part of that construction that Marta has already put up. Which of the five arrangements of little cubes you see in the answers lets her complete the task?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
-> 	
-> E) Questions from N. 21 to N. 30 are worth 5 points each.
+> E)
+>
+> Questions 21 to 30 are worth 5 points each.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_benjamin#q20|src_kangourou_2023_benjamin__Q20]]
 
 
 
@@ -1031,36 +1145,23 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which weights rise*
+*Which weights move upwards?*
 
 ![[src_kangourou_2023_benjamin__prob21.png]]
 
-> The gear denoted with A starts rotating in a
-> clockwise direction, as indicated. Which weights move upwards?
-> A) 1 and 4.		
-> B) 2 and 3.		
-> C) 1 and 3.	
-> D) 2 and 4.		
-> E) It is not possible to determine it.
-> ARRIVAL
-> START
-> 1
-> 2
-> 3
-> 0
-> 1
-> 2
-> 1
-> 2
-> 3
-> A
-> 1
-> 2
-> 3
-> 4
+> The cogwheel marked A begins to turn clockwise, as indicated. Which weights move upwards?
 >
+> A) 1 and 4.
+> B) 2 and 3.
+> C) 1 and 3.
+> D) 2 and 4.
+> E) It cannot be established.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_benjamin#q21|src_kangourou_2023_benjamin__Q21]]
 
 
 
@@ -1100,21 +1201,23 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*shapes in the centre rectangle*
+*Which shapes must she draw in the rectangle at the centre of the lower level?*
 
 ![[src_kangourou_2023_benjamin__prob22.png]]
 
-> In each of the six rectangles that make up the pyramid you see in the figure Daniela wants to design geometric shapes so that each rectangle contains all the geometric shapes contained in the two rectangles just below and nothing else. Taking into account the shapes already inserted, what shapes should she draw in the rectangle at the centre of the lower level? A)
-> 	
+> In each of the six rectangles that make up the pyramid you see in the picture, Daniela wants to draw geometric shapes so that each rectangle contains all the geometric shapes contained in the two rectangles immediately below it, and nothing else. Taking account of the shapes already entered, which shapes must she draw in the rectangle at the centre of the lower level?
+>
+> A)
 > B)
-> 	
 > C)
->   	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_insiemi_funzioni|Sets and functions]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_benjamin#q22|src_kangourou_2023_benjamin__Q22]]
 
 
 
@@ -1148,13 +1251,23 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which word does not appear*
+*Which is the word that does not appear?*
 
 ![[src_kangourou_2023_benjamin__prob23.png]]
 
-> The alphabet of the state of Kangland consists of only 3 letters: K, G, R. On the side you see a crossword puzzle in the Kanglandic language. When fully resolved, it consists of 4 of the 5 words KKG, KGK, GRK, RGK and RGG. What word doesn't show up? A) KKG B) KGK C) GRK D) RGK E) RGG
+> The alphabet of the state of Kanglandia is made up of only 3 letters: K, G, R. Beside you see a crossword grid in the language of Kanglandia. When it is completely solved, 4 of the 5 words KKG, KGK, GRK, RGK and RGG appear in it. Which is the word that does not appear?
+>
+> A) KKG
+> B) KGK
+> C) GRK
+> D) RGK
+> E) RGG
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_benjamin#q23|src_kangourou_2023_benjamin__Q23]]
 
 
 
@@ -1193,21 +1306,24 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min equidistant posts*
+*What is the least number of posts that it is enough to add so that the distance between one post and the next is the same all along the path?*
 
 ![[src_kangourou_2023_benjamin__prob24.png]]
 
-> Four posts were placed along a 120 m route in the positions indicated in the figure. What is the minimum number of posts to be added so that the distance between one post and the next is the same throughout the entire route? A) 12
-> 	
+> Four posts have been placed along a path 120 m long in the positions indicated by the picture. What is the least number of posts that it is enough to add so that the distance between one post and the next is the same all along the path?
+>
+> A) 12
 > B) 15
-> 	
 > C) 17
-> 	
 > D) 20
-> 	
 > E) 37
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_benjamin#q24|src_kangourou_2023_benjamin__Q24]]
 
 
 
@@ -1244,13 +1360,23 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*adjacent pair*
+*Which of the following pairs of numbers are on adjacent books in the new tower?*
 
 ![[src_kangourou_2023_benjamin__prob25.png]]
 
-> On the table is a tower of books all identical, numbered from 1 to 50. Emma builds a new tower as follows: from the top of the starting tower she takes two books and places them on the table (without changing the order) as the base of the new tower; then from the top of what remains of the original tower she takes two more books and places them on top of the new tower; and so on, as suggested by the figure. Which of the following number pairs are on adjacent books in the new tower? A) 29 and 28 B) 34 and 35 C) 29 and 26 D) 31 and 33 E) 27 and 30
+> On the table there is a tower of identical books numbered from 1 to 50. Emma builds a new tower in the following way: from the top of the starting tower she takes two books and places them on the table (without changing their order) as the base of the new tower; then from the top of what remains of the original tower she takes another two books and places them on top of the new tower; and so on, as the picture suggests. Which of the following pairs of numbers are on adjacent books in the new tower?
+>
+> A) 29 and 28
+> B) 34 and 35
+> C) 29 and 26
+> D) 31 and 33
+> E) 27 and 30
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_benjamin#q25|src_kangourou_2023_benjamin__Q25]]
 
 
 
@@ -1318,22 +1444,24 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many different sums*
+*How many different sums can Martino obtain?*
 
 ![[src_kangourou_2023_benjamin__prob26.png]]
 
-> Martino has three cards, each with a number on both faces. The card with 1 on one face has 4 on the opposite face; the card with 2 on one face has 5 on the other; the card with 3 on one face has 6 on the other. By arranging the three cards on the table in every possible way and adding up the three numbers that appear, how many different sums can Martino get? A) 3
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
-> E) 10 24 m 30 m 66 m 2 2 3 4 49 50 49 50 47 48 1 1 1 4 2 5 3 6 Front Back Card 1 Card 2 Card 3
+> Martino has three cards: each has a number on both faces. The card with 1 on one face has 4 on the opposite face; the one with 2 on one face has 5 on the other; the one with 3 on one face has 6 on the other. By placing the three cards on the table in every possible way and adding the three numbers that appear, how many different sums can Martino obtain?
 >
+> A) 3
+> B) 4
+> C) 5
+> D) 6
+> E) 10
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_benjamin#q26|src_kangourou_2023_benjamin__Q26]]
 
 
 
@@ -1363,11 +1491,21 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*more expensive collection*
+*Which of the following collections of clothes costs the most?*
 
-> In a clothing store, two hats are sold for the same price as five skirts, three skirts for the same price as eight shirts and two shirts for the same price as three hats. Which of the following clothing collections costs the most? A. A hat and five skirts. B) A hat, three skirts and a cap. C) Eight skirts and six shirts. D) Thirty-seven caps. E) Three skirts and three hats.
+> In a clothes shop, two hats are sold at the same price as five skirts, three skirts at the same price as eight T-shirts, and two T-shirts at the same price as three caps. Which of the following collections of clothes costs the most?
+>
+> A) One hat and five skirts.
+> B) One hat, three skirts and one cap.
+> C) Eight skirts and six T-shirts.
+> D) Thirty-seven caps.
+> E) Three skirts and three caps.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_benjamin#q27|src_kangourou_2023_benjamin__Q27]]
 
 
 
@@ -1404,24 +1542,22 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sonia's move*
+*How many marbles must she leave for Roberto to be sure of winning?*
 
-> Sonia and Roberto have a bowl full of marbles and play as follows. In turn they may
-> take, at their choice, 1, 2, 3, 4 or 5 marbles from the bowl. Whoever of the two takes the last
-> marble (or the last marbles) loses. At a certain point in the game there are 10 marbles left
-> in the bowl and it is Sonia's turn: how many marbles must she leave to Roberto to be sure
-> of winning?
-> A) 9	
-	
-> B) 8	
-	
-> C) 7	
-	
-> D) 6	
-	
+> Sonia and Roberto have a bowl full of marbles and play like this. On their turn they may take, as they choose, 1, 2, 3, 4 or 5 marbles from the bowl. Whichever of the two takes the last marble (or the last marbles) loses. At a certain point in the game 10 marbles are left in the bowl and it is Sonia's turn: how many marbles must she leave for Roberto to be sure of winning?
+>
+> A) 9
+> B) 8
+> C) 7
+> D) 6
 > E) 5
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_benjamin#q28|src_kangourou_2023_benjamin__Q28]]
 
 
 
@@ -1453,15 +1589,23 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which has a larger area*
+*Which shape has the greater area?*
 
 ![[src_kangourou_2023_benjamin__prob29.png]]
 
-> The following four shapes are drawn on a grid of squares whose vertices we can see. What shape has larger area? A) W.
-> 	
-> B) Rhombus. C) Crown. D) Lightning. E) They all have the same area.
+> The following four shapes are drawn on a sheet of squared paper, of which we see the vertices. Which shape has the greater area?
+>
+> A) W.
+> B) Rhombus.
+> C) Crown.
+> D) Lightning.
+> E) They all have the same area.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_benjamin#q29|src_kangourou_2023_benjamin__Q29]]
 
 
 
@@ -1518,17 +1662,21 @@ Who broke the window?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*movement after X*
+*What will his next move be?*
 
 ![[src_kangourou_2023_benjamin__prob30.png]]
 
-> Andrea wants a path that crosses the maze shown in the figure from the point marked with "Partenza" to the point marked with "Arrivo". It can only move on horizontal or vertical lines and can only pass on white circles; it must also pass on all white circles and on each one only once. When he reaches the circle marked with X, what will be his next move? A) ↑
-> 	
-> B) ↓
-> 	
-> C) → D) ← E) There is no such path. W Rombo Corona Lamp
->  
-> X Partenza Arrivo
+> Andrea wants to find a path that crosses the maze shown by the picture from the point marked Start to the point marked Finish. He can move only along horizontal or vertical lines and can pass only on the white circles; he must also pass on all the white circles, and on each one only once. When he arrives at the circle marked X, what will his next move be?
 >
+> A) ↑
+> B) ↓
+> C) →
+> D) ←
+> E) No path of this kind exists.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_benjamin#q30|src_kangourou_2023_benjamin__Q30]]

@@ -38,7 +38,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'espressione più grande per i valori reali positivi x,y*
+*Espressione massima per i numeri reali positivi x, y*
 
 > Se $x$ e $y$ sono numeri reali positivi, quale dei seguenti numeri è il più grande?
 >
@@ -48,7 +48,14 @@ level: OBM Nível 3
 > - **(D)** $x^2+y(x+y)$
 > - **(E)** $\dfrac{x^3+y^3}{x+y}$
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n3_f1#q01|src_obm_2000_n3_f1__Q01]]
 
 
 
@@ -79,7 +86,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo di quadrato costruito al di fuori di un pentagono regolare*
+*Angolo del quadrato costruito all'esterno di un pentagono regolare*
 
 > $DEFG$ è un quadrato costruito all'esterno del pentagono regolare $ABCDE$. Qual è l'angolo $E\widehat{A}F$?
 >
@@ -89,7 +96,13 @@ level: OBM Nível 3
 > - **(D)** $18^\circ$
 > - **(E)** $21^\circ$
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2000_n3_f1#q02|src_obm_2000_n3_f1__Q02]]
 
 
 
@@ -123,9 +136,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio di distanze orizzontali a verticali in figura a punti*
+*Rapporto tra le distanze orizzontali e quelle verticali in una figura a punti*
 
-> Nella figura, le distanze tra due punti orizzontali consecutivi sono tutte uguali a 1. La regione ha un triangolo inciso e un quadrato; il rapporto tra distanze orizzontali e distanze verticali tale da chiudere la figura ha un valore:
+> Nella figura, le distanze tra due punti orizzontali consecutivi sono tutte uguali a 1. La regione contiene un triangolo inscritto e un quadrato; il rapporto tra le distanze orizzontali e quelle verticali tale che la figura si chiuda ha il valore:
 >
 > - **(A)** $\dfrac{9}{10}$
 > - **(B)** $\dfrac{15}{16}$
@@ -135,7 +148,14 @@ level: OBM Nível 3
 
 ![[src_obm_2000_n3_f1__q03.png]]
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2000_n3_f1#q03|src_obm_2000_n3_f1__Q03]]
 
 
 
@@ -167,9 +187,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max numeri conservati in modo che nessuno sia la differenza di altri due*
+*Si conservano i numeri massimi in modo che nessuno sia la differenza di altri due*
 
-> Scriviamo i numeri interi da 1 a 30 inclusivi. Poi cancelliamo alcuni di questi numeri in modo che, tra quelli rimasti, nessun numero sia la differenza di altri due nella lista. Qual è la quantità massima di numeri interi che possono rimanere nell'elenco?
+> Scriviamo tutti gli interi da 1 a 30, inclusi. Poi cancelliamo alcuni di questi numeri in modo che, tra quelli che restano, nessun numero sia la differenza di altri due presenti nell'elenco. Qual è il numero massimo di interi che possono restare nell'elenco?
 >
 > - **(A)** 15
 > - **(B)** 18
@@ -177,7 +197,14 @@ level: OBM Nível 3
 > - **(D)** 20
 > - **(E)** 21
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n3_f1#q04|src_obm_2000_n3_f1__Q04]]
 
 
 
@@ -209,17 +236,24 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Comparizione di (a+1)/(b+1) con a/b quando a/b<1*
+*Confronto tra (a+1)/(b+1) e a/b quando a/b<1*
 
-> $a$ e $b$ siano numeri positivi con $\dfrac{a}{b}<1$. Poi $\dfrac{a+1}{b+1}$:
+> Siano $a$ e $b$ numeri positivi tali che $\dfrac{a}{b}<1$. Allora $\dfrac{a+1}{b+1}$:
 >
 > - **(A)** è uguale a $\dfrac{a}{b}+1$.
 > - **(B)** è uguale a $\dfrac{a}{b}$.
-> - **(C)** è inferiore a $\dfrac{a}{b}$.
-> - **(D)** è superiore a $\dfrac{a}{b}$ ma inferiore a 1.
+> - **(C)** è minore di $\dfrac{a}{b}$.
+> - **(D)** è maggiore di $\dfrac{a}{b}$ ma minore di 1.
 > - **(E)** può essere maggiore di 1.
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n3_f1#q05|src_obm_2000_n3_f1__Q05]]
 
 
 
@@ -253,9 +287,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale f(x+y)=x+f(y), trovare f(2000)*
+*Equazione funzionale f(x+y)=x+f(y); trovare f(2000)*
 
-> Che $f$ sia una funzione con le seguenti proprietà: (i) per tutti i valori $x,y$, $f(x+y)=x+f(y)$; (ii) $f(0)=2$. Che cos' è $f(2000)$?
+> Sia $f$ una funzione con le seguenti proprietà: (i) per tutti i numeri reali $x,y$, $f(x+y)=x+f(y)$; (ii) $f(0)=2$. Che cos'è $f(2000)$?
 >
 > - **(A)** 0
 > - **(B)** 2
@@ -263,7 +297,13 @@ level: OBM Nível 3
 > - **(D)** 2000
 > - **(E)** 2002
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n3_f1#q06|src_obm_2000_n3_f1__Q06]]
 
 
 
@@ -299,17 +339,24 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Puzzle logico: cinque carte facciate verso il basso che sommano a 13, dedurre la carta centrale*
+*Puzzle logico: cinque carte girate verso il basso la cui somma è 13; deduci la carta centrale*
 
-> Ci sono cinque carte rovesciate su un tavolo. È noto che su ciascuno di essi è scritto un numero intero positivo. Samuel e Tomas ricevono le seguenti informazioni: (i) tutti i numeri scritti sulle carte sono diversi; (ii) la loro somma è 13; (iii) sono in ordine crescente, da sinistra a destra. Prima, Samuel guarda il numero della scheda a sinistra e dice: "Non ho abbastanza informazioni per determinare gli altri numeri". Poi, Tomas guarda il numero della scheda a destra e dice: "Non ho abbastanza informazioni per determinare gli altri numeri". Poi Samuel guarda di nuovo la scheda a sinistra e dice: "Non ho ancora abbastanza informazioni per determinare gli altri numeri".
+> Sul tavolo ci sono cinque carte rivolte verso il basso. Si sa che su ciascuna è scritto un numero intero positivo. A Samuel e Tomas vengono fornite le seguenti informazioni: (i) tutti i numeri scritti sulle carte sono diversi; (ii) la loro somma è 13; (iii) i numeri sono in ordine crescente, da sinistra a destra. Per prima cosa, Samuel guarda il numero sulla carta estrema sinistra e dice: "Non ho informazioni sufficienti per determinare gli altri numeri". Poi Tomas guarda il numero sulla carta estrema destra e dice: "Non ho informazioni sufficienti per determinare gli altri numeri". Poi Samuel guarda di nuovo la carta estrema sinistra e dice: "Ancora non ho informazioni sufficienti per determinare gli altri numeri". Sapendo che entrambi sono intelligenti e ascoltano i commenti dell'altro, qual è il numero sulla carta centrale?
 >
 > - **(A)** 2
 > - **(B)** 3
 > - **(C)** 4
 > - **(D)** 5
-> - **(E)** Non ci sono informazioni sufficienti per determinare il numero.
+> - **(E)** Non vi sono informazioni sufficienti per determinare il numero.
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n3_f1#q07|src_obm_2000_n3_f1__Q07]]
 
 
 
@@ -341,9 +388,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
+*Gioco in stile Nim: si rimuovono da 1 a 5 bastoncini da 1000; vince chi fa l'ultima mossa*
 
-> In un gioco tra due persone, i giocatori togliono alternativamente 1, 2, 3, 4 o 5 bastoni da una pila che inizia con 1000 bastoni. Il giocatore che prende l'ultimo bastone vince. Quanti bastoni deve togliere il primo giocatore nella prima mossa per assicurarsi la vittoria?
+> In una partita tra due persone, i giocatori rimuovono a turno 1, 2, 3, 4 o 5 bastoncini da un mucchio che inizialmente contiene 1000 bastoncini. Vince il giocatore che prende l'ultimo bastoncino. Quanti bastoncini deve rimuovere il primo giocatore nella mossa iniziale per assicurarsi la vittoria?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -351,7 +398,14 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > - **(D)** 4
 > - **(E)** 5
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n3_f1#q08|src_obm_2000_n3_f1__Q08]]
 
 
 
@@ -383,9 +437,9 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Carte min tratte da 100-999 per garantire somme di tre cifre uguali*
+*Minimo di carte pescate da 100 a 999 per garantire tre somme di cifre uguali*
 
-> Una scatola contiene 900 carte numerate da 100 a 999. Le carte vengono prese a caso, senza sostituzione, e la somma delle loro cifre viene notata. Qual è il minimo numero di carte da scaricare per garantire che almeno tre di queste somme siano uguali?
+> In una scatola ci sono 900 carte, numerate da 100 a 999. Le carte vengono estratte a caso, senza reinserimento, e si annota la somma delle loro cifre. Qual è il numero minimo di carte che devono essere estratte per garantire che almeno tre di queste somme siano uguali?
 >
 > - **(A)** 51
 > - **(B)** 52
@@ -393,7 +447,14 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > - **(D)** 54
 > - **(E)** 55
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n3_f1#q09|src_obm_2000_n3_f1__Q09]]
 
 
 
@@ -425,9 +486,9 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri interi positivi x con piano(x/3)+piano(x/5)... =10*
+*Conta gli interi positivi x tali che floor(x/3)+floor(x/5)... =10*
 
-> La notazione $\lfloor x \rfloor$ indica il numero intero più grande che non supera $x$. Ad esempio, $\lfloor 3{,}5 \rfloor = 3$ e $\lfloor 5 \rfloor = 5$. Quanti integri positivi $x$ esistono per i quali $\left\lfloor \dfrac{x}{3} \right\rfloor + \left\lfloor \dfrac{x}{5} \right\rfloor = 10$?
+> La notazione $\lfloor x \rfloor$ indica il più grande numero intero che non supera $x$. Ad esempio, $\lfloor 3{,}5 \rfloor = 3$ e $\lfloor 5 \rfloor = 5$. Quanti numeri interi positivi $x$ esistono per cui $\left\lfloor \dfrac{x}{3} \right\rfloor + \left\lfloor \dfrac{x}{5} \right\rfloor = 10$?
 >
 > - **(A)** 11
 > - **(B)** 12
@@ -435,7 +496,14 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 > - **(D)** 14
 > - **(E)** 15
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n3_f1#q10|src_obm_2000_n3_f1__Q10]]
 
 
 
@@ -469,9 +537,9 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Legge triangolare dei numeri odd nelle celle bianche; trovare il termine 2000*
+*Lettura triangolare dei numeri dispari nelle celle bianche; trova il 2000° termine*
 
-> Si inseriscono in ordine crescente i numeri dispari nelle celle bianche di una tavola seguendo l'ordine indicato (i numeri in parentesi indicano le linee). Quindi, per esempio, il nono numero della nostra lista è 14. Qual è il 2000° numero della nostra lista?
+> Disponiamo in ordine crescente i numeri dispari nelle caselle bianche di una scacchiera, seguendo l'ordine mostrato (i numeri tra parentesi indicano le righe). Così, ad esempio, il nono numero della nostra lista è 14. Qual è il 2000° numero della nostra lista?
 >
 > - **(A)** 3931
 > - **(B)** 3933
@@ -481,7 +549,14 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 
 ![[src_obm_2000_n3_f1__q11.png]]
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n3_f1#q11|src_obm_2000_n3_f1__Q11]]
 
 
 
@@ -513,17 +588,24 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medi di due classi dopo il passaggio dell'ultimo di classe A alla classe B*
+*Medie di due classi dopo aver spostato l'ultimo della classe A nella classe B*
 
-> I 61 candidati approvati in un concorso, i cui voti erano tutti diversi, sono stati suddivisi in due classi, in modo tale che, secondo una classifica ottenuta in precedenza, i 31 migliori classificati sono andati alla classe A e i 30 successivi alla classe B. Sono state calcolate le medie delle due classi del concorso. Poi, per errore, fu deciso di spostare il candidato posto ultimo nella classe A alla classe B. Allora:
+> I 61 candidati risultati idonei in una gara, i cui voti erano tutti diversi, furono distribuiti in due classi in modo tale che, secondo una classifica ottenuta in precedenza, i 31 meglio piazzati andassero nella classe A e i successivi 30 nella classe B. Furono calcolate le medie delle due classi nella gara. Poi, per errore, si decise di spostare nella classe B il candidato piazzatosi all'ultimo posto nella classe A. Poi:
 >
 > - **(A)** La media della classe A è migliorata, ma quella della classe B è peggiorata.
-> - **(B)** La media della classe A peggiorò, ma quella della classe B migliorò.
+> - **(B)** La media della classe A è peggiorata, ma quella della classe B è migliorata.
 > - **(C)** Le medie di entrambe le classi sono peggiorate.
 > - **(D)** Le medie di entrambe le classi sono migliorate.
 > - **(E)** Le medie delle due classi possono peggiorare o migliorare, a seconda dei voti dei candidati.
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n3_f1#q12|src_obm_2000_n3_f1__Q12]]
 
 
 
@@ -557,9 +639,9 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Radius del cerchio esterno nel logo dei cerchi tangenti, interno r=1*
+*Raggio del cerchio esterno nel logo dei cerchi tangenti, raggio interno r=1*
 
-> La figura seguente mostra il logo di un'azienda, costituita da due cerchi concentrici e quattro piccoli cerchi interni, ognuno dei quali è tangente ad altri due e ai due cerchi concentrici. Il raggio del cerchio interno misura 1 cm. Poi il raggio del cerchio esterno deve misurare, in cm:
+> La figura sottostante mostra il logo di un'azienda, costituito da due cerchi concentrici e da quattro piccoli cerchi interni, ciascuno dei quali è tangente a due altri cerchi e ai due cerchi concentrici. Il raggio del cerchio interno misura 1 cm. Allora il raggio del cerchio esterno deve misurare, in cm:
 >
 > - **(A)** $2\sqrt{2}+3$
 > - **(B)** $\sqrt{2}+2$
@@ -569,7 +651,14 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 
 ![[src_obm_2000_n3_f1__q13.png]]
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2000_n3_f1#q13|src_obm_2000_n3_f1__Q13]]
 
 
 
@@ -600,17 +689,23 @@ Gioco in stile nim che elimina 1-5 bastoni da 1000, l'ultimo prende le vittorie
 <div class="qlang-split" data-lang="it"></div>
 
 
-Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
+*Corridori su una pista circolare; quando Alberto incontra per la prima volta Beatriz?*
 
-> Alberto, Beatriz e Carlos corrono su una pista circolare. Iniziano tutti allo stesso tempo e dallo stesso punto, ognuno a una velocità costante. Correndo nella stessa direzione, Carlos incontra Alberto, per la prima volta, esattamente 90 secondi dopo l'inizio della gara, e incontra Beatriz esattamente 15 secondi dopo. Alberto, correndo nella direzione opposta, incontra Beatriz, per la prima volta, 20 secondi dopo l'inizio della gara. Quanti secondi ci vogliono per Alberto per incontrare Beatriz correndo nella stessa direzione (per la prima volta)?
+> Alberto, Beatriz e Carlos corrono su una pista circolare. Partono tutti nello stesso momento e dallo stesso punto, ciascuno a velocità costante. Correndo nella stessa direzione, Carlos incontra Alberto per la prima volta esattamente 90 secondi dopo l'inizio della gara, e incontra Beatriz esattamente 15 secondi dopo. Alberto, correndo in direzione opposta, incontra Beatriz per la prima volta 20 secondi dopo l'inizio della gara. Quanti secondi occorrono affinché Alberto incontri Beatriz correndo nella stessa direzione (per la prima volta)?
 >
 > - **(A)** 105
 > - **(B)** 630
 > - **(C)** 900
 > - **(D)** 1050
-> - **(E)** non può essere determinato
+> - **(E)** non è possibile determinarlo
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n3_f1#q14|src_obm_2000_n3_f1__Q14]]
 
 
 
@@ -642,9 +737,9 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due numeri a due cifre la cui somma è il doppio dei loro numeri*
+*Due numeri di due cifre la cui somma è il doppio del prodotto delle loro cifre*
 
-> Quanti numeri a due cifre ci sono che sono uguali al doppio del prodotto delle loro cifre?
+> Quanti numeri di due cifre ci sono che sono uguali al doppio del prodotto delle loro cifre?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -652,7 +747,14 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(D)** 3
 > - **(E)** 4
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n3_f1#q15|src_obm_2000_n3_f1__Q15]]
 
 
 
@@ -684,9 +786,9 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due nuotatori che attraversano una piscina; contano i passaggi in 12 minuti*
+*Due nuotatori che attraversano una piscina; conta i passaggi in 12 minuti*
 
-> Due nuotatori, inizialmente a fianco opposto di una piscina, iniziano a nuotare contemporaneamente l'uno verso l'altro. Uno nuota a velocità uniforme da un lato della piscina all'altro in 45 secondi, e l'altro in 30 secondi. Ogni volta che raggiungono un lato si voltano indietro, mantenendo la stessa velocità, senza perdere tempo nelle curve. Numerose volte si passano l'una l'altra (sia nella stessa direzione che in direzioni opposte); contando come passaggio anche quando raggiungono un lato contemporaneamente. Quante volte si passano l'una dall'altra, nella stessa direzione o in direzioni opposte, nei primi 12 minuti?
+> Due nuotatori, inizialmente ai lati opposti di una piscina, iniziano a nuotare simultaneamente l'uno verso l'altro. Uno percorre la piscina da un lato all'altro a velocità uniforme in 45 secondi, l'altro in 30 secondi. Ogni volta che raggiungono un lato, tornano indietro mantenendo la stessa velocità, senza perdere tempo nelle virate. Si incrociano numerose volte (sia nello stesso verso sia in versi opposti); si conta come incrocio anche il caso in cui raggiungono simultaneamente un lato. Quante volte si incrociano, nello stesso verso o in versi opposti, nei primi 12 minuti?
 >
 > - **(A)** 10
 > - **(B)** 12
@@ -694,7 +796,14 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(D)** 18
 > - **(E)** 20
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n3_f1#q16|src_obm_2000_n3_f1__Q16]]
 
 
 
@@ -726,9 +835,9 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum somma dei quadrati di due naturali la cui differenza è di 29*
+*Somma minima dei quadrati di due numeri naturali la cui differenza è 29*
 
-> Di due numeri naturali la cui differenza è di 29, il valore minimo della somma dei loro quadrati è:
+> Tra due numeri naturali la cui differenza è 29, il valore minimo della somma dei loro quadrati è:
 >
 > - **(A)** 785
 > - **(B)** 733
@@ -736,7 +845,14 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(D)** 421
 > - **(E)** 334
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n3_f1#q17|src_obm_2000_n3_f1__Q17]]
 
 
 
@@ -768,9 +884,9 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare interi positivi inferiori a 1000000 i cui cubetti terminano in 1*
+*Conta gli interi positivi inferiori a 1000000 i cui cubi terminano con 1*
 
-> Quanti numeri interi positivi minori di $1{.}000{.}000$ ci sono i cui cubetti finiscono in 1?
+> Quanti numeri interi positivi minori di $1{.}000{.}000$ hanno un cubo che termina con 1?
 >
 > - **(A)** 1.000
 > - **(B)** 10.000
@@ -778,7 +894,14 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(D)** 100.000
 > - **(E)** 500.000
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n3_f1#q18|src_obm_2000_n3_f1__Q18]]
 
 
 
@@ -812,9 +935,9 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i rettangoli con vertici A,B tra le intersezioni della linea della griglia 9x9*
+*Conta i rettangoli con vertici A, B tra le intersezioni delle linee di una griglia 9x9*
 
-> Quanti rettangoli hanno i punti $A$ e $B$ come vertici, e i cui vertici sono tra i punti di intersezione delle 9 linee orizzontali con le 9 linee verticali della figura seguente?
+> Quanti rettangoli ci sono che hanno i punti $A$ e $B$ come vertici e i cui vertici sono tra i punti di intersezione delle 9 rette orizzontali con le 9 rette verticali della figura sottostante?
 >
 > - **(A)** 3
 > - **(B)** 4
@@ -824,7 +947,14 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 
 ![[src_obm_2000_n3_f1__q19.png]]
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2000_n3_f1#q19|src_obm_2000_n3_f1__Q19]]
 
 
 
@@ -853,13 +983,21 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizione della bandiera incollata sull'attrezzatura più a destra di una catena di magliatura*
+*Posizione della bandierina incollata sull'ingranaggio più a destra in una catena di ingranaggi in presa*
 
-> Juliano incollava una piccola bandiera grigia su ciascun equipaggiamento, come mostra la figura seguente. Le engranaggi sono tutte uguali e, quando il cambio sulla sinistra girò un po', la sua piccola bandiera occupava la posizione indicata dalla piccola bandiera puntata in bianco. In questa situazione, possiamo affermare che la posizione della piccola bandiera sull'attrezzatura a destra è:
+> Juliano ha incollato una piccola bandierina grigia su ciascun ingranaggio, come mostrato nella figura sottostante. Gli ingranaggi sono tutti uguali e, quando l'ingranaggio a sinistra ha ruotato un po', la sua piccola bandierina ha occupato la posizione indicata dalla piccola bandierina bianca tratteggiata. In questa situazione, possiamo affermare che la posizione della piccola bandierina sull'ingranaggio a destra è:
+> (A) (B) (C) (D) (E)
 
 ![[src_obm_2000_n3_f1__q20.png]]
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n3_f1#q20|src_obm_2000_n3_f1__Q20]]
 
 
 
@@ -893,9 +1031,9 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rapporto tra superficie ordinaria dell'esagono e superficie del triangolo equilaterale ABC*
+*Rapporto tra l'area del esagono regolare e l'area del triangolo equilatero ABC*
 
-> La figura mostra due triangoli $ABC$ e $A'B'C'$, entrambi equilaterali, e la regione evidenziata è un esagono regolare. Il rapporto tra la superficie della regione evidenziata e la superficie del triangolo $ABC$ è uguale a:
+> La figura mostra due triangoli $ABC$ e $A'B'C'$, entrambi equilateri, e la regione evidenziata è un esagono regolare. Il rapporto tra l'area della regione evidenziata e l'area del triangolo $ABC$ è uguale a:
 >
 > - **(A)** 1
 > - **(B)** $\dfrac{2}{3}$
@@ -905,7 +1043,14 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 
 ![[src_obm_2000_n3_f1__q21.png]]
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2000_n3_f1#q21|src_obm_2000_n3_f1__Q21]]
 
 
 
@@ -937,9 +1082,9 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I figli del conte emir sono stati nidificati "escluse 39" con condizioni gemelle/triplici*
+*Conteggio dei figli dell'emiro con condizioni annidate di gemelli/trigemini 'except 39'*
 
-> L'emiro Abdel Azir divenne famoso per i suoi molti figli. Ha avuto più di 39 figli, tra cui tre bambini, i gemelli dei figli dello storico Ahmed Aab che afferma, inoltre, che tra tutti questi l'emiro aveva solo due set di triplici, tranne 39; aveva solo gemelli, tranne 39; aveva solo nascite singole, tranne 39; tutte le coppie gemelle sono quadruple, tranne 39. Quanti figli aveva l'emiro?
+> L'emiro Abdel Azir divenne famoso per i suoi numerosi figli. Ebbe più di 39 figli, tra cui dei maschi trigemini, i figli gemelli dello storico Ahmed Aab, il quale afferma inoltre che, tra tutti questi figli, l'emiro ebbe solo due gruppi di trigemini, eccetto 39; ebbe solo gemelli, eccetto 39; ebbe solo nascite singole, eccetto 39; tutte le coppie di gemelli sono quadrigemelli, eccetto 39. Quanti figli ebbe l'emiro?
 >
 > - **(A)** 75
 > - **(B)** 48
@@ -947,7 +1092,14 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(D)** 78
 > - **(E)** 111
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n3_f1#q22|src_obm_2000_n3_f1__Q22]]
 
 
 
@@ -978,9 +1130,9 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Velocità media su un viaggio di 60 km con un tratto lento di traffico*
+*Velocità media su un tragitto di 60 km con un tratto di coda lenta*
 
-> Itacimirim è una città sulla costa di Coco, situata a 60 km da Salvador. Di questi, a 15 km da Salvador, c'è un incidente che causa un ingorghio. Nella restante parte dell'autostrada la velocità è di 60 km/h, ad eccezione della zona di jam, dove la velocità è di 6 km/h. Qual è la velocità media, in km/h?
+> Itacimirim è una località sulla costa di Coco, situata a 60 km da Salvador. A 15 km da Salvador si verifica un incidente che provoca un ingorgo stradale. Sul resto dell'autostrada la velocità è di 60 km/h, tranne nella zona dell'ingorgo, dove la velocità è di 6 km/h. Qual è la velocità media, in km/h?
 >
 > - **(A)** 10h47min
 > - **(B)** 10h17min
@@ -988,7 +1140,13 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(D)** 10h53min
 > - **(E)** 11h01min
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n3_f1#q23|src_obm_2000_n3_f1__Q23]]
 
 
 
@@ -1020,9 +1178,9 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Espresso somma dei coefficienti indicizzati pari di un polinomio di grado-2000*
+*Esprimi la somma dei coefficienti di indice pari di un polinomio di grado 2000*
 
-> Let $P(x)=a_{2000}x^{2000}+a_{1999}x^{1999}+a_{1998}x^{1998}+\ldots+a_1x+a_0$. Quindi $a_{2000}+a_{1998}+a_{1996}+\ldots+a_2+a_0$ è uguale a:
+> Sia $P(x)=a_{2000}x^{2000}+a_{1999}x^{1999}+a_{1998}x^{1998}+\ldots+a_1x+a_0$. Allora $a_{2000}+a_{1998}+a_{1996}+\ldots+a_2+a_0$ è uguale a:
 >
 > - **(A)** $\dfrac{P(1)-P(-1)}{2}$
 > - **(B)** $\dfrac{P(1)+P(-1)}{2}$
@@ -1030,7 +1188,14 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(D)** $P(0)\cdot P(1)$
 > - **(E)** $P(-1)\cdot P(1)$
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n3_f1#q24|src_obm_2000_n3_f1__Q24]]
 
 
 
@@ -1062,9 +1227,9 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare numeri a tre cifre con una cifra uguale alla media delle altre due*
+*Conta i numeri di tre cifre in cui una cifra è uguale alla media delle altre due*
 
-> Quanti numeri a tre cifre (che non iniziano con 0) hanno una cifra uguale alla media aritmetica degli altri due?
+> Quanti numeri di tre cifre (che non iniziano con 0) hanno una cifra uguale alla media aritmetica delle altre due?
 >
 > - **(A)** 121
 > - **(B)** 117
@@ -1072,4 +1237,11 @@ Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
 > - **(D)** 115
 > - **(E)** 105
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n3_f1#q25|src_obm_2000_n3_f1__Q25]]

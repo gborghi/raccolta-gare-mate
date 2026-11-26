@@ -32,13 +32,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'angolo acuto che rende quadratici ha radice ripetuta*
+*Angolo acuto theta tale che il polinomio quadratico abbia una radice multipla*
 
-> Che $\theta$ sia un angolo acuto tale che l'equazione $x^2 + 4\cos\theta \cdot x + \cot\theta = 0$ che coinvolge la variabile $x$ abbia più radici. Quindi la misura di $\theta$ nei radiani è ( ).
-> 
+> Sia $\theta$ un angolo acuto tale che l'equazione $x^2 + 4\cos\theta \cdot x + \cot\theta = 0$, in cui compare la variabile $x$, abbia più radici. Allora la misura di $\theta$ in radianti è ( ).
+>
 > (A) $\dfrac{\pi}{6}$ \quad (B) $\dfrac{\pi}{12}$ \quad (C) $\dfrac{5\pi}{6}$ \quad (D) $\dfrac{5\pi}{12}$
 
-**Risposta:** B
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2004#q01|src_cn_cmc_2004__Q01]]
 
 
 
@@ -64,13 +69,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rango di b per le linee di ellisse che si intersecano sempre*
+*Intervallo di b per la linea ellittica che interseca sempre*
 
-> Supponiamo che $M = \{(x,\, y) \mid x^2 + 2y^2 = 3\}$ e $N = \{(x,\, y) \mid y = mx + b\}$. Se $M \cap N \neq \varnothing$ per tutti $m \in \mathbf{R}$, $b$ prende i valori da ( ).
-> 
+> Si assuma che $M = \{(x,\, y) \mid x^2 + 2y^2 = 3\}$ e $N = \{(x,\, y) \mid y = mx + b\}$. Se $M \cap N \neq \varnothing$ per tutti gli $m \in \mathbf{R}$, allora $b$ assume valori da ( ).
+>
 > (A) $\left[-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right]$ \quad (B) $\left(-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right)$ \quad (C) $\left(-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right]$ \quad (D) $\left[-\dfrac{2\sqrt{3}}{3},\, \dfrac{2\sqrt{3}}{3}\right]$
 
-**Risposta:** A
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2004#q02|src_cn_cmc_2004__Q02]]
 
 
 
@@ -96,13 +106,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme di soluzioni di disuguaglianza con radice quadrata e log*
+*Insieme delle soluzioni della disequazione con radice quadrata e logaritmo*
 
-> Il set di soluzioni della disuguaglianza $\sqrt{\log_2 x - 1} + \dfrac{1}{2}\log_{\frac{1}{2}} x^3 + 2 > 0$ è ( ).
-> 
+> L'insieme delle soluzioni della disequazione $\sqrt{\log_2 x - 1} + \dfrac{1}{2}\log_{\frac{1}{2}} x^3 + 2 > 0$ è ( ).
+>
 > (A) $[2,\, 3)$ \quad (B) $(2,\, 3]$ \quad (C) $[2,\, 4)$ \quad (D) $(2,\, 4]$
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2004#q03|src_cn_cmc_2004__Q03]]
 
 
 
@@ -128,13 +143,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio di superficie del triangolo ABC al subtriangolo utilizzando i punti medi*
+*Rapporto tra l'area del triangolo ABC e quella del sottotriangolo costruito usando i punti medi*
 
-> Il punto $O$ deve essere un punto interno di $\triangle ABC$ tale che $\overrightarrow{OA} + 2\,\overrightarrow{OB} + 3\,\overrightarrow{OC} = \vec{0}$. Il rapporto tra l'area di $\triangle ABC$ e l'area di $\triangle AOC$ è quindi ( ).
-> 
+> Sia $O$ un punto interno di $\triangle ABC$ tale che $\overrightarrow{OA} + 2\,\overrightarrow{OB} + 3\,\overrightarrow{OC} = \vec{0}$. Allora il rapporto tra l'area di $\triangle ABC$ e l'area di $\triangle AOC$ è ( ).
+>
 > (A) $2$ \quad (B) $\dfrac{5}{2}$ \quad (C) $3$ \quad (D) $\dfrac{7}{2}$
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2004#q04|src_cn_cmc_2004__Q04]]
 
 
 
@@ -160,13 +180,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi a 3 cifre i cui numeri formano un triangolo di pari taglia*
+*Conta gli interi a tre cifre le cui cifre formano un triangolo isoscele*
 
-> $\sigma = \overline{abc}$ sia un numero a 3 cifre. Se si può costruire un triangolo di parice (compreso un triangolo equilaterale) con $a$, $b$ e $c$ come lunghezze dei lati, il numero di tali integri a 3 cifre è ( ).
-> 
+> Sia $\sigma = \overline{abc}$ un numero di tre cifre. Se è possibile costruire un triangolo isoscele (incluso il triangolo equilatero) con $a$, $b$ e $c$ come lunghezze dei lati, il numero di tali interi di tre cifre è ( ).
+>
 > (A) $45$ \quad (B) $81$ \quad (C) $165$ \quad (D) $216$
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc_2004#q05|src_cn_cmc_2004__Q05]]
 
 
 
@@ -194,15 +219,20 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza del segmento in cono con configurazione scritta*
+*Lunghezza del segmento nel cono con configurazione inscritta*
 
-> La sezione trasversale verticale di un cono circolare con vertice $P$ è un triangolo rettangolare di uguali pollice. Il punto $A$ è sulla circonferenza del cerchio base, il punto $B$ è interno al cerchio base, $O$ è il centro del cerchio base, $AB \perp OB$ e si interseca a $B$, $OB \perp PD$ e si interseca a $H$, $PA = 4$, e $C$ è il punto medio di $PA$. Quindi la lunghezza di $CB$ è ( ).
-> 
+> La sezione verticale di un cono circolare avente vertice $P$ è un triangolo rettangolo isoscele. Il punto $A$ giace sulla circonferenza della base, il punto $B$ è interno alla base circolare, $O$ è il centro della base circolare, $AB \perp OB$ e si intersecano in $B$, $OB \perp PD$ e si intersecano in $H$, $PA = 4$, e $C$ è il punto medio di $PA$. Allora la lunghezza di $CB$ è ( ).
+>
 > (A) $\dfrac{\sqrt{5}}{2}$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{2\sqrt{5}}{3}$ \quad (D) $\dfrac{2\sqrt{6}}{3}$
 
 ![[src_cn_cmc_2004__q06.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2004#q06|src_cn_cmc_2004__Q06]]
 
 
 
@@ -226,11 +256,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di rettangolo sotto grafico di funzione periodica*
+*Area del rettangolo sotto il grafico di una funzione periodica*
 
-> In un sistema rettangolare piano $xOy$, l'area circondata dai grafici della funzione $f(x) = a\sin x + \cos x$ $(a > 0)$ definiti in un intervallo con il periodo meno positivo e dal grafico della funzione $g(x) = \sqrt{a^2 + 1}$ è ___.
+> In un sistema rettangolare planare $xOy$, l'area delimitata dai grafici della funzione $f(x) = a\sin x + \cos x$ $(a > 0)$ definita su un intervallo con il minimo periodo positivo e dal grafico della funzione $g(x) = \sqrt{a^2 + 1}$ è ___.
 
-**Risposta:** $4\pi$
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2004#q07|src_cn_cmc_2004__Q07]]
 
 
 
@@ -256,11 +291,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca f(x) dall'equazione funzionale f(x) -f(y) = f(x-y) +2*
+*Trovare f(x) a partire dall'equazione funzionale f(x)-f(y)=f(x-y)+2*
 
-> $f: \mathbf{R} \to \mathbf{R}$ deve essere una funzione tale che $f(0) = 1$ e per qualsiasi $x$, $y \in \mathbf{R}$, $$f(x) - f(y) = f(x - y) + 2$$ sia contenuta. Poi $f(x) = $ ___.
+> Sia $f: \mathbf{R} \to \mathbf{R}$ una funzione tale che $f(0) = 1$ e, per ogni $x$, $y \in \mathbf{R}$,
+> $$f(x) - f(y) = f(x - y) + 2$$
+> vale. Allora $f(x) = $ ___.
 
-**Risposta:** $x + 1$
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2004#q08|src_cn_cmc_2004__Q08]]
 
 
 
@@ -286,13 +328,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo diidrale in un cubo lungo il bordo diagonale*
+*Angolo diedro in un cubo lungo il spigolo diagonale*
 
-> Nel diagramma, $ABCD$-$A_1B_1C_1D_1$ è un cubo. Disegni di linea $\overline{D_1C}$ e $\overline{D_1B}$. Disegnare $CE$ in modo tale che $CE \perp D_1B$ e $CE$ si incrociano $\overline{D_1B}$ a $F$. $AE$ si interseca con $\overline{D_1B}$ a $G$. L'angolo diedrico $A$-$BD_1$-$A_1$ in gradi è ___.
+> Nel diagramma, $ABCD$-$A_1B_1C_1D_1$ è un cubo. Traccia i segmenti di retta $\overline{D_1C}$ e $\overline{D_1B}$. Traccia $CE$ in modo che $CE \perp D_1B$ e $CE$ intersecano $\overline{D_1B}$ in $F$. $AE$ interseca $\overline{D_1B}$ in $G$. L'angolo diedro $A$-$BD_1$-$A_1$, in gradi, è ___.
 
 ![[src_cn_cmc_2004__q09.png]]
 
-**Risposta:** $120^\circ$
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2004#q09|src_cn_cmc_2004__Q09]]
 
 
 
@@ -316,11 +363,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova un intero positivo k tale che sqrt(p^2-p) sia un intero, p primo pari*
+*Trovare un intero positivo k tale che sqrt(p^2-p) sia un intero, con p numero primo dispari*
 
-> Lasciate che $p$ sia un primo strano. $k$ sia un intero positivo tale che $\sqrt{p^2 - pk}$ sia anche un intero positivo. Poi $k = $ ___.
+> Sia $p$ un numero primo dispari. Sia $k$ un intero positivo tale che $\sqrt{p^2 - pk}$ sia anch'esso un intero positivo. Allora $k = $ ___.
 
-**Risposta:** $\dfrac{(p+1)^2}{4}$
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2004#q10|src_cn_cmc_2004__Q10]]
 
 
 
@@ -344,11 +396,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Somma dei reciproci di una successione con ricorrenza (3-a_{n+1})(6+a_n)=18*
+*Somma dei reciproci di una successione con relazione di ricorrenza (3-a_{n+1})(6+a_n)=18*
 
-> $a_0,\, a_1,\, a_2,\, \cdots,\, a_n,\, \cdots$ è una sequenza di numeri che soddisfa $(3 - a_{n+1}) \cdot (6 + a_n) = 18$ e $a_0 = 3$. Quindi $\displaystyle\sum_{i=0}^{n} \frac{1}{a_i}$ equivale a ___.
+> Sia $a_0,\, a_1,\, a_2,\, \cdots,\, a_n,\, \cdots$ una successione di numeri che soddisfa $(3 - a_{n+1}) \cdot (6 + a_n) = 18$ e $a_0 = 3$. Allora $\displaystyle\sum_{i=0}^{n} \frac{1}{a_i}$ è uguale a ___.
 
-**Risposta:** $\dfrac{1}{3}\left[2(2^{n+1}-1) - (n+1)\right]$
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2004#q11|src_cn_cmc_2004__Q11]]
 
 
 
@@ -372,11 +429,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*coordinata x del punto P sull'asse x angolo di massimizzazione MPN*
+*Ascissa del punto P sull'asse x che massimizza l'angolo MPN*
 
-> Che $M(-1, 2)$ e $N(1, 4)$ siano due punti in un sistema di coordinate retangolare piano $xOy$. $P$ è un punto in movimento sull'asse $x$. Quando $\angle MPN$ prende il suo valore massimo, la coordinata $x$ del punto $P$ è ___.
+> Siano $M(-1, 2)$ e $N(1, 4)$ due punti in un sistema di coordinate cartesiane planare $xOy$. $P$ è un punto mobile sull'asse $x$. Quando $\angle MPN$ assume il suo valore massimo, la coordinata $x$ del punto $P$ è ___.
 
-**Risposta:** $1$
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2004#q12|src_cn_cmc_2004__Q12]]
 
 
 
@@ -403,13 +465,20 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-La probabilità di attraversare i primi tre ostacoli nel gioco dei dadi
+*Probabilità di superare i primi tre ostacoli nel gioco dei dadi*
 
-> La regola di "corso di ostacolo" specifica che all'ostacolo $n$, una persona deve lanciare un dado fino a quando il numero di punti in tali lanci $n$ è maggiore di $2^n$; si dice che la persona abbia attraversato l'ostacolo.
-> 
+> La regola del "percorso a ostacoli" stabilisce che, al $n$-esimo ostacolo, una persona deve lanciare un dado finché il totale dei punti ottenuti in quei $n$ lanci non risulta superiore a $2^n$; si dice allora che la persona ha superato l'ostacolo.
+>
 > (1) Quanti ostacoli può superare una persona?
-> 
-> (2) Qual è la probabilità che una persona attraverserà i primi tre ostacoli?
+>
+> (2) Qual è la probabilità che una persona superi i primi tre ostacoli?
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2004#q13|src_cn_cmc_2004__Q13]]
 
 
 
@@ -436,13 +505,20 @@ La probabilità di attraversare i primi tre ostacoli nel gioco dei dadi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Locus del punto P e linee attraverso il centro con 3 punti comuni*
+*Luogo geometrico del punto P e rette passanti per l'incentro con 3 punti comuni*
 
-> In un sistema di coordinate rettangolare piano $xOy$ ci sono tre punti $A\!\left(0,\, \dfrac{4}{3}\right)$, $B(-1,\, 0)$ e $C(1,\, 0)$. La distanza dal punto $P$ alla linea $BC$ è la media geometrica delle distanze da questo punto alle linee $AB$ e $AC$.
-> 
-> (1) Trovare il luogo del punto $P$.
-> 
-> (2) Se la linea $L$ passa attraverso l'incentro (per esempio $D$) di $\triangle ABC$ e ha esattamente 3 punti comuni con il locus del punto $P$, determinare tutti i valori della pendenza $k$ della linea $L$.
+> In un sistema di coordinate cartesiane nel piano $xOy$ vi sono tre punti $A\!\left(0,\, \dfrac{4}{3}\right)$, $B(-1,\, 0)$ e $C(1,\, 0)$. La distanza dal punto $P$ alla retta $BC$ è la media geometrica delle distanze di questo punto dalle rette $AB$ e $AC$.
+>
+> (1) Determinare il luogo geometrico del punto $P$.
+>
+> (2) Se la retta $L$ passa per l'incentro (sia esso $D$) di $\triangle ABC$ e ha esattamente 3 punti comuni con il luogo geometrico del punto $P$, determinare tutti i valori del coefficiente angolare $k$ della retta $L$.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2004#q14|src_cn_cmc_2004__Q14]]
 
 
 
@@ -470,10 +546,18 @@ La probabilità di attraversare i primi tre ostacoli nel gioco dei dadi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione a intervallo dalle radici quadratiche; disuguaglianza max-min e trigonale*
+*Funzione sull'intervallo definito dalle radici del trinomio di secondo grado; massimo-minimo e disuguaglianza trigonometrica*
 
-> Supponiamo che $\alpha$ e $\beta$ siano diverse radici reali dell'equazione $4x^2 - 4tx - 1 = 0$ ($t \in \mathbf{R}$). $[\alpha,\, \beta]$ è il dominio della funzione $f(x) = \dfrac{2x - t}{x^2 + 1}$.
-> 
-> (1) Trova $g(t) = \max f(x) - \min f(x)$.
-> 
-> (2) Prova che per $u_i \in \left(0,\, \dfrac{\pi}{2}\right)$ ($i = 1,\, 2,\, 3$), se $\sin u_1 + \sin u_2 + \sin u_3 = 1$, allora $$\frac{1}{g(\tan u_1)} + \frac{1}{g(\tan u_2)} + \frac{1}{g(\tan u_3)} < \frac{3}{4}\sqrt{6}.$$
+> Supponiamo che $\alpha$ e $\beta$ siano radici reali distinte dell'equazione $4x^2 - 4tx - 1 = 0$ ($t \in \mathbf{R}$). $[\alpha,\, \beta]$ è il dominio della funzione $f(x) = \dfrac{2x - t}{x^2 + 1}$.
+>
+> (1) Determina $g(t) = \max f(x) - \min f(x)$.
+>
+> (2) Dimostrare che, per $u_i \in \left(0,\, \dfrac{\pi}{2}\right)$ ($i = 1,\, 2,\, 3$), se $\sin u_1 + \sin u_2 + \sin u_3 = 1$, allora
+> $$\frac{1}{g(\tan u_1)} + \frac{1}{g(\tan u_2)} + \frac{1}{g(\tan u_3)} < \frac{3}{4}\sqrt{6}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2004#q15|src_cn_cmc_2004__Q15]]

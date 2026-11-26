@@ -33,13 +33,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioca su fila quadrata 2022; trova i quadrati massimi A può garantire*
+*Minimo numero di caselle con il nome di A che A può garantire a fine partita*
 
-> Si utilizza una fila di quadrati 2022; i giocatori A e B giocano a un gioco. Inizialmente, i quadrati in posizioni odd (da sinistra) hanno il nome di A scritto in loro, e i quadrati in posizioni pari hanno il nome di B scritto in loro. A partire da A, i giocatori si alternano eseguendo la seguente operazione:
-> 
-> Scegliete 2 quadrati che sono adiacenti (vicinanti) e i cui vicini immediatile quadrate che li accompagnanonon sono entrambi occupati dal nome dello stesso giocatore; più precisamente, scegliete 2 quadrati consecutivi in modo che i quadrati adiacenti a quei 2 quadrati scelti abbiano il nome dell'altro giocatore, quindi sostituite i nomi nei 2 quadrati scelti con il nome dell'altro giocatore.
-> 
-> Quando un giocatore non può eseguire l'operazione, il gioco finisce. Trova il numero intero massimo $m$ in modo che A possa sempre garantire che il suo nome compare in almeno $m$ quadrati quando il gioco termina, indipendentemente dalla strategia di B.
+> Si usa una fila di 2022 caselle; i giocatori A e B giocano una partita. All'inizio, nelle caselle in posizione dispari (da sinistra) è scritto il nome di A, e nelle caselle in posizione pari è scritto il nome di B. A partire da A, i giocatori eseguono a turno l'operazione seguente.
+>
+> Si scelgono 2 caselle adiacenti (vicine) i cui vicini immediati — le caselle che le stringono — non sono entrambi occupati dal nome dello stesso giocatore; più precisamente, si prendono 2 caselle consecutive tali che le caselle adiacenti a quelle 2 caselle scelte abbiano il nome dell'altro giocatore, poi si sostituiscono i nomi nelle 2 caselle scelte con il nome dell'altro giocatore.
+>
+> Quando un giocatore non può eseguire l'operazione, la partita finisce. Trovare il massimo intero $m$ tale che A possa sempre garantire che il suo nome compaia in almeno $m$ caselle quando la partita finisce, qualunque sia la strategia di B.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_jmo32hq_honsen#q01|src_jmo32hq_honsen__Q01]]
 
 
 
@@ -64,9 +69,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le f stringentemente in aumento con f^100(m) +mn=f(m) f(n)*
+*Funzioni strettamente crescenti sugli interi positivi che soddisfano un'equazione*
 
-> Lasciate che $f$ sia una funzione strettamente in aumento dai numeri interi positivi ai numeri interi positivi. Trovare tutti tali $f$ in modo che $$f^{100}(m) + mn = f(m)f(n)$$ si tenga per ogni coppia di integri positivi $m, n$. Qui $f^{100}(n)$ indica $f(f(\cdots f(n)\cdots))$ con $f$ applicato $100$ volte.
+> Sia $f$ una funzione strettamente crescente dagli interi positivi agli interi positivi. Determinare tutte le $f$ tali che
+>
+> $$f^{100}(m) + mn = f(m)f(n)$$
+>
+> valga per ogni coppia di interi positivi $m, n$. Qui $f^{100}(n)$ indica $f(f(\cdots f(n)\cdots))$ con $f$ applicata $100$ volte.
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo32hq_honsen#q02|src_jmo32hq_honsen__Q02]]
 
 
 
@@ -89,9 +103,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il triangolo isosceles, il circoncircolo, il circoncentro di HDF si trova su Gamma*
+*Il circocentro di un triangolo sta su una circonferenza*
 
-> Che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$. Il $O$ deve essere un punto rigorosamente all'interno del triangolo (non su nessun lato). Il $\Gamma$ deve essere il circoncircolo del triangolo $ABC$. Le linee che attraversano $O$ incontrano il segmento $BC$ a $D$ e il segmento $AC$ (escluse le estremità) a $E$, e queste due linee si incrociano. Che $F$ sia un punto su $\Gamma$ diverso da $A$, $B$, $C$ in modo tale che $B$, $D$, $F$ siano collineari (o che la linea $BD$ rientri a $\Gamma$ a $F$). Il $H$ è la seconda intersezione del circoncircolo del triangolo $AEO$ con $\Gamma$. Prove che il centro circoncentrale del triangolo $HDF$ si trova su $\Gamma$. Qui, $XY$ indica la lunghezza del segmento $XY$.
+> Sia $ABC$ un triangolo isoscele con $AB = AC$. Sia $O$ un punto strettamente interno al triangolo (non su alcun lato). Sia $\Gamma$ la circonferenza circoscritta al triangolo $ABC$. Rette per $O$ incontrano il segmento $BC$ in $D$ e il segmento $AC$ (estremi esclusi) in $E$, e queste due rette si intersecano. Sia $F$ un punto di $\Gamma$ diverso da $A$, $B$, $C$ tale che $B$, $D$, $F$ siano allineati (oppure la retta $BD$ incontra di nuovo $\Gamma$ in $F$). Sia $H$ la seconda intersezione della circonferenza circoscritta al triangolo $AEO$ con $\Gamma$. Dimostrare che il circocentro del triangolo $HDF$ sta su $\Gamma$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo32hq_honsen#q03|src_jmo32hq_honsen__Q03]]
 
 
 
@@ -115,9 +134,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi positivi con 3^x - 8^y = 2xy+1*
+*Coppie di interi positivi che soddisfano un'equazione*
 
-> Trova tutte le coppie di integri positivi $(x, y)$ soddisfacenti $$3^x - 8^y = 2xy + 1.$$
+> Determinare tutte le coppie di interi positivi $(x, y)$ che soddisfano
+>
+> $$3^x - 8^y = 2xy + 1.$$
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Analisi per casi accurata]]
+[[Quesiti/src_jmo32hq_honsen#q04|src_jmo32hq_honsen__Q04]]
 
 
 
@@ -151,8 +177,22 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*999 quadrati circolari con reali; trovare m minimo per la proprietà sequenziale*
+*Minimo intero positivo per cui una condizione su numeri scritti in cerchio implica un'altra*
 
-> Trovare il numero intero positivo minimo $m$ per il quale è valida la seguente affermazione:
-> 
-> I numeri reali sono scritti in ognuno dei 999 quadrati disposti in un cerchio. Per ogni quadrato $A$ e per ogni intero positivo $k \le m$, almeno uno dei seguenti valori è: \begin{itemize} \item La differenza tra il numero scritto nel quadrato $k$ passi in senso orario da $A$ e il numero scritto in $A$ equivale a $k$. \item La differenza tra il numero scritto nel quadrato $k$ passi in senso contrario all'orologio da $A$ e il numero scritto in $A$ equivale a $k$. Poi esiste un quadrato $S$ tale che, lasciando $x$ essere il numero reale scritto in $S$, per ogni intero positivo $k$ con $k < 999$, almeno uno dei seguenti contiene: \begin{itemize} \item Il numero scritto nel quadrato $k$ passi in senso orario da $S$ equivale a $x + k$. \item Il numero scritto nel quadrato $k$ passi in senso contrario all'orologio da $S$ equivale a $x + k$. # Finire #
+> Trovare il minimo intero positivo $m$ per il quale vale l'affermazione seguente.
+>
+> In ciascuna di 999 caselle disposte in cerchio è scritto un numero reale. Per qualunque casella $A$ e qualunque intero positivo $k \le m$, vale almeno una delle condizioni seguenti:
+> \begin{itemize}
+> \item la differenza fra il numero scritto nella casella $k$ passi in senso orario da $A$ e il numero scritto in $A$ è uguale a $k$;
+> \item la differenza fra il numero scritto nella casella $k$ passi in senso antiorario da $A$ e il numero scritto in $A$ è uguale a $k$.
+> \end{itemize}
+> Allora esiste una casella $S$ tale che, detto $x$ il numero reale scritto in $S$, per ogni intero positivo $k$ con $k < 999$ vale almeno una delle condizioni seguenti:
+> \begin{itemize}
+> \item il numero scritto nella casella $k$ passi in senso orario da $S$ è uguale a $x + k$;
+> \item il numero scritto nella casella $k$ passi in senso antiorario da $S$ è uguale a $x + k$.
+> \end{itemize}
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_cassetti|Principio dei cassetti]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo32hq_honsen#q05|src_jmo32hq_honsen__Q05]]

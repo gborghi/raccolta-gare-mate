@@ -24,19 +24,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4000
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers below 6000 divisible neither by 6 nor by 5*
+*How many strictly positive integers less than 6000 are not of…*
 
 ![[src_squadre_2009_roma__prob1.png]]
 
-> How many strictly positive integers less than 6000 are divisible neither by 6 nor by 5?
+> How many strictly positive integers less than 6000 are divisible by neither 6 nor 5?
 
-**Answer:** 4000
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2009_roma#q01|src_squadre_2009_roma__Q01]]
 
 
 
@@ -55,19 +58,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9900
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers up to 10,000 with an even number of divisors*
+*How many strictly positive integers not greater than 10,000 are there that h…*
 
 ![[src_squadre_2009_roma__prob2.png]]
 
-> How many strictly positive integers not greater than 10,000 have an even number of divisors? (among the divisors of a number n, 1 and n are also to be counted)
+> How many strictly positive integers not greater than 10,000 have an even number of divisors? (Among the divisors of a number n, 1 and n should also be counted.)
 
-**Answer:** 9900
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2009_roma#q02|src_squadre_2009_roma__Q02]]
 
 
 
@@ -85,19 +91,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0127
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Isosceles triangle with apex angle 37°: angle NPR*
+*Let ABC be an isosceles triangle with base AB and vertex angle ∠ACB measuring 37°, and let N be a point on base AB such that ∠ACN = 11°.…*
 
 ![[src_squadre_2009_roma__prob3.png]]
 
-> Let ABC be an isosceles triangle with base AB and with apex angle ∠ACB measuring 37°, and let N be a point of the base AB such that ∠ACN = 11°. Taking P on CN, draw the line through P perpendicular to CN and let Q be its intersection point with AC. Calling R the projection of Q on CB, say how large the angle ∠NPR is.
+> Let ABC be an isosceles triangle with base AB and vertex angle ∠ACB measuring 37°, and let N be a point on base AB such that ∠ACN = 11°. Choose P on CN, draw the line through P perpendicular to CN, and let Q be its intersection point with AC. Let R be the projection of Q onto CB; state the measure of angle ∠NPR.
 
-**Answer:** 0127
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2009_roma#q03|src_squadre_2009_roma__Q03]]
 
 
 
@@ -115,19 +124,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0495
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*8-letter vowel words in alphabetical order*
+*How many 8-letter words (even nonsensical ones) contain only vowels (c…*
 
 ![[src_squadre_2009_roma__prob4.png]]
 
-> How many 8-letter words (even meaningless ones) are there containing only vowels (i.e. A, E, I, O, U) and such that the letters appearing in them are arranged in alphabetical order?
+> How many 8-letter words (even nonsensical ones) contain only vowels (namely A, E, I, O, U) and have their letters arranged in alphabetical order?
 
-**Answer:** 0495
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2009_roma#q04|src_squadre_2009_roma__Q04]]
 
 
 
@@ -143,19 +155,19 @@ level: squadre
 > Sviluppando i calcoli di (1 + √2)^(13)/(3 + 2√2) si ottiene un numero del tipo a + b√2, con a e b interi. Quanto vale a − b?
 
 **Risposta:** 2378
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*(1 + √2)^13/(3 + 2√2) = a + b√2*
+*Carrying out the calculations for (1 + √2)^(13)/(3 + 2√2) yields a number of the form a + b√2, where a and b are integers.…*
 
 ![[src_squadre_2009_roma__prob5.png]]
 
-> Working out (1 + √2)^(13)/(3 + 2√2) one obtains a number of the form a + b√2, with a and b integers. What is a − b?
+> Carrying out the calculations for (1 + √2)^(13)/(3 + 2√2) yields a number of the form a + b√2, where a and b are integers. What is the value of a − b?
 
-**Answer:** 2378
+[[Quesiti/src_squadre_2009_roma#q05|src_squadre_2009_roma__Q05]]
 
 
 
@@ -175,21 +187,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0220
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of a polyhedron (not a frustum)*
+*Calculate the volume of the polyhedron (attention: it is not a frustum of a pyramid) repr…*
 
 ![[src_squadre_2009_roma__prob6.png]]
 
-> Compute the volume of the polyhedron (careful: it is not a frustum of a pyramid) shown in the following figure:
-> A ≡ (4, 3, 0), B ≡ (−4, 3, 0), C ≡ (−4, −3, 0), D ≡ (4, −3, 0), E ≡ (1, 1, 10), F ≡ (−1, 1, 10), G ≡ (−1, −1, 10), H ≡ (1, −1, 10)
-> figure 1
+> Calculate the volume of the polyhedron shown in the following figure (note: it is not a frustum of a pyramid): A ≡ (4, 3, 0), B ≡ (−4, 3, 0), C ≡ (−4, −3, 0), D ≡ (4, −3, 0), E ≡ (1, 1, 10), F ≡ (−1, 1, 10), G ≡ (−1, −1, 10), H ≡ (1, −1, 10) Figure 1
 
-**Answer:** 0220
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2009_roma#q06|src_squadre_2009_roma__Q06]]
 
 
 
@@ -207,19 +220,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0100
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Right triangle with legs 1 km and 1.5 km: segment AR*
+*Triangle ABC, which is right-angled at B, has leg AB measuring 1 km and leg BC…*
 
 ![[src_squadre_2009_roma__prob7.png]]
 
-> Triangle ABC, right-angled at B, has leg AB measuring 1 km and leg BC measuring 1.5 km. Let P be a point on segment AB such that PA = (1/24)BA and Q a point on segment CA such that QA = (1/24)CA. Let R be the intersection of PC and QB. What is the length (in metres) of segment AR?
+> Triangle ABC, right-angled at B, has leg AB measuring 1 km and leg BC measuring 1.5 km. Let P be a point on segment AB such that PA = (1/24)BA, and let Q be a point on segment CA such that QA = (1/24)CA. Let R be the intersection of PC and QB. What is the length (in meters) of segment AR?
 
-**Answer:** 0100
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2009_roma#q07|src_squadre_2009_roma__Q07]]
 
 
 
@@ -238,19 +254,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0170
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side CA from AB = 26, BC = 168 and median 85*
+*In triangle ABC, side AB measures 26 cm and side BC measures 168 cm. Determine…*
 
 ![[src_squadre_2009_roma__prob8.png]]
 
-> In triangle ABC side AB measures 26 cm and side BC measures 168 cm. Determine the length of side CA (in cm) knowing that the median BM relative to it measures 85 cm. (if you think the problem is impossible or indeterminate, give 0 as the answer)
+> In triangle ABC, side AB measures 26 cm and side BC measures 168 cm. Determine the length of side CA (expressed in cm), given that the median BM corresponding to CA measures 85 cm. (If the problem is deemed impossible or indeterminate, indicate 0 as the answer.)
 
-**Answer:** 0170
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2009_roma#q08|src_squadre_2009_roma__Q08]]
 
 
 
@@ -274,19 +293,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1080
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Star from a regular pentagon and dodecagon*
+*A regular pentagon and a regular dodecagon are inscribed in the same circ…*
 
 ![[src_squadre_2009_roma__prob9.png]]
 
-> A regular pentagon and a regular dodecagon are inscribed in the same circle γ and have one vertex in common, which we shall call A\_0. The remaining 4 vertices of the pentagon and 11 vertices of the dodecagon form a set of 15 points of the circle γ which, starting from the point A\_0 and going round the circle anticlockwise, we can call A\_1, A\_2, . . ., A\_(15) respectively. We join A\_0 with A\_5, A\_5 with A\_(10), A\_(10) with A\_(15), A\_(15) with A\_4, and so on, that is, we join each point with the one found 5 positions further on, turning anticlockwise. After drawing exactly 16 segments we are back at the point A\_0, thus completing the drawing of an (irregular) 16-pointed star having the points A\_0, A\_1, . . ., A\_(15) as vertices. What is (in degrees) the sum of the 16 acute angles that the star has at its vertices?
+> A regular pentagon and a regular dodecagon are inscribed in the same circle γ and share a vertex that we will denote by A_0. The remaining 4 vertices of the pentagon and the 11 vertices of the dodecagon form a set of 15 points on the circle γ which, starting from point A_0 and traversing the circle counterclockwise, we can label respectively A_1, A_2, ..., A_(15). We join A_0 to A_5, A_5 to A_(10), A_(10) to A_(15), A_(15) to A_4, and so on—that is, we join each point to the one that lies 5 positions ahead when rotating counterclockwise. After drawing exactly 16 line segments, one returns to point A_0, thus completing the drawing of an (irregular) 16-pointed star whose vertices are the points A_0, A_1, ..., A_(15). What is the sum (expressed in degrees) of the 16 acute angles at the vertices of the star?
 
-**Answer:** 1080
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2009_roma#q09|src_squadre_2009_roma__Q09]]
 
 
 
@@ -305,19 +327,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0033
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Labelling the vertices of a pyramid with 1, 2, 3*
+*Let a pyramid be given whose base is a scalene trapezoid. We want to decorate each…*
 
 ![[src_squadre_2009_roma__prob10.png]]
 
-> Consider a pyramid whose base is a scalene trapezoid. We want to decorate each of its vertices with a number chosen among 1, 2, 3 (repetitions are of course allowed). In how many ways can this be done so that, for each face, the sum of the numbers at its vertices is even?
+> Suppose we are given a pyramid whose base is a scalene trapezoid. We want to decorate each of its vertices with a number chosen from 1, 2, 3 (repetitions are, of course, allowed). In how many ways can this be done so that, for each face, the sum of the numbers on its vertices is even?
 
-**Answer:** 0033
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2009_roma#q10|src_squadre_2009_roma__Q10]]
 
 
 
@@ -335,19 +360,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 8100
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A table on wheels round a corner*
+*Figure 2 shows the plan of 2 long, narrow corridors, of width…*
 
 ![[src_squadre_2009_roma__prob11.png]]
 
-> Figure 2 shows the plan of 2 long, narrow corridors, only 90 cm wide, crossing at right angles. Note that, to make passage worse, there is also a small square column PQRS, whose side is 5 cm. The furniture designers have been asked to design a rectangular (but not square) table with the largest possible area, fitted with wheels, which can perform the manoeuvre shown in figures 3 and 4, without ever lifting it into strange positions, but only by rolling it on its wheels. What is the maximum area, in cm^2, that such a table can have?
+> Figure 2 shows the plan of two long, narrow corridors, only 90 cm wide, that intersect at right angles. Note that traffic flow is further impeded by a small square column PQRS with sides 5 cm long. The interior designers were asked to design a rectangular (but not square) table with the largest possible area and fitted with wheels, such that the table could perform the maneuver shown in Figures 3 and 4 without ever being lifted into awkward positions—but merely by being rolled on its wheels. What is the maximum area, in cm², that such a table can have?
 
-**Answer:** 8100
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2009_roma#q11|src_squadre_2009_roma__Q11]]
 
 
 
@@ -366,19 +394,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2850
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distributing 24 million euros to 10 schools*
+*The Rome Provincial Education Office has 24 million euros and has a lis…*
 
 ![[src_squadre_2009_roma__prob12.png]]
 
-> The Rome education authority has 24 million euros and a list of 10 schools to fund with them. In how many different ways can it do so if it decides to distribute all the money available, allocating 1, 2 or 3 million euros to each school on the list?
+> The Rome Provincial Education Office has 24 million euros at its disposal and has a list of 10 schools to be funded with these funds. In how many different ways can it do this if it decides to distribute all the money available to it, allocating 1, 2, or 3 million euros to each school on the list?
 
-**Answer:** 2850
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2009_roma#q12|src_squadre_2009_roma__Q12]]
 
 
 
@@ -400,19 +431,19 @@ level: squadre
 > Qual è il minimo numero di operazioni che bisogna fare per riuscirci? (nel caso sia impossibile indicare 0 come risposta)
 
 **Risposta:** 0144
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cistern: remove 191 litres, add 480 litres*
+*A large tank with a capacity of 1 million litres is exactly full for…*
 
 ![[src_squadre_2009_roma__prob13.png]]
 
-> A large cistern with a capacity of 1 million litres is exactly half full. It can be operated on in 2 ways: A: remove exactly 191 litres using a giant ladle; B: add exactly 480 litres using a giant measuring cup. By suitably performing operations of type A and type B, one wants the quantity of liquid in the cistern, at the end, to have increased by exactly 7 litres with respect to the initial situation. What is the minimum number of operations needed to achieve this? (if it is impossible, give 0 as the answer)
+> A large tank with a capacity of 1 million liters is exactly half full. Two operations can be performed on it: A: remove exactly 191 liters using a giant ladle; B: add exactly 480 liters using a giant measuring cup. By carrying out appropriate operations of type A and type B, the goal is for the amount of liquid in the tank at the end to be exactly 7 liters more than in the initial situation. What is the minimum number of operations that must be performed to achieve this? (If it is impossible, indicate 0 as the answer.)
 
-**Answer:** 0144
+[[Quesiti/src_squadre_2009_roma#q13|src_squadre_2009_roma__Q13]]
 
 
 
@@ -432,19 +463,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0329
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remainder of a polynomial division by x^20 + 2*
+*Performing division with remainder on the polynomial p_1(x) = −3x^(81) + 10x^(41) +…*
 
 ![[src_squadre_2009_roma__prob14.png]]
 
-> Performing the division with remainder of the polynomial p\_1(x) = −3x^(81) + 10x^(41) + x^(27) + 6x^(21) + 2x^7 + x^2 + 9x + 53 by the polynomial p\_2(x) = x^(20) + 2, one obtains a certain quotient polynomial q(x) and a remainder polynomial r(x), the latter with degree strictly less than that of p\_2(x). What is r(23)?
+> Performing division with remainder of the polynomial p_1(x) = −3x^(81) + 10x^(41) + x^(27) + 6x^(21) + 2x^7 + x^2 + 9x + 53 by the polynomial p_2(x) = x^(20) + 2 yields a certain quotient polynomial q(x) and a remainder polynomial r(x), the latter having degree strictly less than that of p_2(x). What is the value of r(23)?
 
-**Answer:** 0329
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2009_roma#q14|src_squadre_2009_roma__Q14]]
 
 
 
@@ -462,19 +496,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1568
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum product of distances from the sides*
+*In a triangle, the three sides measure (13/2)∛195, 7∛195, and (15/2)∛195, respectively.…*
 
 ![[src_squadre_2009_roma__prob15.png]]
 
-> In a triangle the 3 sides measure (13/2)∛195, 7∛195 and (15/2)∛195 respectively. For each interior point P we denote by M\_P the product of the 3 distances of P from the sides of the triangle. What is, as P varies inside the triangle, the maximum value that M\_P can take?
+> In a triangle, the three sides measure (13/2)∛195, 7∛195, and (15/2)∛195, respectively. For each interior point P of the triangle, let M_P denote the product of the three distances from P to the sides of the triangle. As P varies within the triangle, what is the maximum value that M_P can take?
 
-**Answer:** 1568
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2009_roma#q15|src_squadre_2009_roma__Q15]]
 
 
 
@@ -496,19 +533,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0577
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*King's paths on a chessboard in columns A–C*
+*According to the rules of chess, the king moves by passing from the square in…*
 
 ![[src_squadre_2009_roma__prob16.png]]
 
-> According to the rules of chess, the king moves from the square it is on to one of the 8 squares adjacent to it, that is, having a side or a vertex in common with the starting square. The chessboard is a square of 8 × 8 squares; the 8 columns are marked with the letters from A to H, while the 8 horizontal rows are marked with the numbers from 1 to 8. If the king is initially placed on square B1, by how many different paths of 7 moves can it be brought to the eighth row, while always staying in columns A, B and C?
+> According to the rules of chess, the king moves from the square on which it is situated to one of the 8 squares adjacent to it—that is, squares that share a side or a vertex with the starting square. The chessboard is a square of 8 × 8 squares; the 8 columns are labeled with the letters from A to H, while the 8 horizontal ranks are labeled with the numbers from 1 to 8. If the king is initially placed on the square B1, in how many different 7-move paths can it be moved to the eighth rank while always remaining in columns A, B, and C?
 
-**Answer:** 0577
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2009_roma#q16|src_squadre_2009_roma__Q16]]
 
 
 
@@ -527,19 +567,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3434
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*200 as a sum of 3 non-negative integers*
+*In how many ways can the number 200 be written as the sum of 3 integers, no…*
 
 ![[src_squadre_2009_roma__prob17.png]]
 
-> In how many ways can the number 200 be written as the sum of 3 non-negative integers, possibly zero? (two ways are to be considered equal if, up to order, they consist of the same numbers)
+> In how many ways can the number 200 be written as the sum of 3 non-negative integers, which may possibly be zero as well? (Two ways are to be considered the same if, apart from order, they consist of the same numbers.)
 
-**Answer:** 3434
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2009_roma#q17|src_squadre_2009_roma__Q17]]
 
 
 
@@ -560,19 +603,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0096
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grid squares crossed by quarter circles*
+*In a Cartesian coordinate system, we consider a grid in which each square h…*
 
 ![[src_squadre_2009_roma__prob18.png]]
 
-> In a Cartesian diagram consider a grid in which every square has side 1 and vertices with integer coordinates. Then draw, in the first quadrant, a quarter circle with centre the origin and integer radius n, for each n from 1 to 10. We say that an arc of a circle crosses a small square if it passes through a point inside it (that is, touching its perimeter is not enough). Consider the number of small squares crossed by each arc; what is the sum of these numbers (as n varies from 1 to 10)?
+> In a Cartesian coordinate plane, consider a grid in which each square has side length 1 and vertices with integer coordinates. Then, in the first quadrant, for each n from 1 to 10, draw a quarter-circle centered at the origin and having an integer radius n. We will say that an arc of a circle passes through a small square if it goes through a point inside that square (that is, it is not enough for it to touch the perimeter of the square). Consider the number of small squares traversed by each arc of a circle; what is the sum of these numbers (as n varies from 1 to 10)?
 
-**Answer:** 0096
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2009_roma#q18|src_squadre_2009_roma__Q18]]
 
 
 
@@ -597,23 +643,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0360
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Truth-tellers on planet Tondo*
+*On the planet Tondo, a year consists of 10,000 days, numbered from 1 to 10,000. S…*
 
 ![[src_squadre_2009_roma__prob19.png]]
 
-> On planet Tondo the year consists of 10,000 days, numbered from 1 to 10,000. Three young siblings live on this planet: Claudia, Luca and Marco. Claudia tells the truth only on the days of the year that are multiples of 36, while she lies on all other days. In exactly the same way Luca tells the truth only on days that are multiples of 19, and Marco tells the truth only on even days. Consider the following dialogue:
-> Claudia: - Tomorrow I will be a liar.
-> Luca: - Tomorrow I will be a liar.
-> Marco: - At least one of you two is lying.
-> What is the first day of the year on which this dialogue can take place? (give 0 if you think this dialogue cannot take place on any day)
+> On the planet Tondo, a year consists of 10,000 days, numbered from 1 to 10,000. Three little brothers live on this planet: Claudia, Luca, and Marco. Claudia tells the truth only on the days of the year that are multiples of 36, while she is a liar on all other days. In exactly the same way, Luca tells the truth only on days that are multiples of 19, and Marco tells the truth only on even days. Consider the following dialogue: Claudia: "Tomorrow I will be a liar." Luca: "Tomorrow I will be a liar." Marco: "At least one of you two is lying." What is the first day of the year on which this dialogue can take place? (Indicate 0 if you believe that this dialogue cannot take place on any day.)
 
-**Answer:** 0360
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2009_roma#q19|src_squadre_2009_roma__Q19]]
 
 
 
@@ -632,16 +677,19 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0744
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2009_26%20marzo%20-%20Roma.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2009 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Boxes with volume 10^10 cm^3 and integer edges*
+*How many parallelepipeds have a volume of 10^(10) cm³ and edges whose length…*
 
 ![[src_squadre_2009_roma__prob20.png]]
 
-> How many rectangular boxes are there with volume 10^(10) cm^3 and edges whose length in cm is an integer? (two boxes are to be considered equal if, up to order, the lengths of their edges coincide)
+> How many parallelepipeds have a volume of 10^(10) cm³ and edges whose lengths, expressed in cm, are whole numbers? (Two parallelepipeds are to be regarded as identical if, apart from order, the lengths of their edges coincide.)
 
-**Answer:** 0744
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2009_roma#q20|src_squadre_2009_roma__Q20]]

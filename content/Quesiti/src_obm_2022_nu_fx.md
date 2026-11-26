@@ -29,9 +29,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le continue f soddisfacenti f(x) + f(ax)=x*
+*Trovare tutte le funzioni continue f tali che f(x)+f(ax)=x*
 
-> Date $0 < a < 1$, trovare tutte le funzioni continue $f : \mathbb{R} \to \mathbb{R}$ tali da $f(x) + f(ax) = x$ per tutte $x \in \mathbb{R}$.
+> Dato $0 < a < 1$, trovare tutte le funzioni continue $f : \mathbb{R} \to \mathbb{R}$ tali che $f(x) + f(ax) = x$ per ogni $x \in \mathbb{R}$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2022_nu_fx#q01|src_obm_2022_nu_fx__Q01]]
 
 
 
@@ -58,9 +65,20 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra che il gruppo G di matrici interi è generato da A e B*
+*Mostrare che il gruppo G delle matrici intere è generato da A e B*
 
-> Considera la serie $G$ delle matrici $2 \times 2$ data da $$G = \left\{ \begin{pmatrix} a & b \\ c & d \end{pmatrix} \,\middle|\, a,b,c,d \in \mathbb{Z},\; ad - bc = 1,\; c \text{ is a multiple of } 3 \right\}$$ e le matrici $$A = \begin{pmatrix} 1 & 1 \\ 0 & 1 \end{pmatrix}, \qquad B = \begin{pmatrix} -1 & 1 \\ -3 & 2 \end{pmatrix}.$$ Mostra che qualsiasi matricia in $G$ può essere scritta come prodotto $M_1 M_2 \cdots M_r$, con $M_i \in \{A, A^{-1}, B, B^{-1}\}$, per tutte le $i \le r$.
+> Si consideri l'insieme $G$ di $2 \times 2$ matrici dato da
+> $$G = \left\{ \begin{pmatrix} a & b \\ c & d \end{pmatrix} \,\middle|\, a,b,c,d \in \mathbb{Z},\; ad - bc = 1,\; c \text{ is a multiple of } 3 \right\}$$
+> e le matrici
+> $$A = \begin{pmatrix} 1 & 1 \\ 0 & 1 \end{pmatrix}, \qquad B = \begin{pmatrix} -1 & 1 \\ -3 & 2 \end{pmatrix}.$$
+> Dimostrare che ogni matrice in $G$ può essere scritta come prodotto $M_1 M_2 \cdots M_r$, con $M_i \in \{A, A^{-1}, B, B^{-1}\}$, per tutti gli $i \le r$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2022_nu_fx#q02|src_obm_2022_nu_fx__Q02]]
 
 
 
@@ -88,9 +106,21 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze di interi autoreferenziali e M minimale*
+*Successioni di interi autoriferite e M minimo*
 
-> Let $(a_n)_{n \in \mathbb{N}}$ essere una sequenza di numeri interi. Definire $a_n^{(0)} = a_n$ per ogni numero naturale $n$. Per ogni numero intero $M \ge 0$, definire $$a_n^{(M+1)} = a_{n+1}^{(M)} - a_n^{(M)}, \quad \forall n \in \mathbb{N}.$$ Diciamo $(a_n)_{n \in \mathbb{N}}$ è $(M+1)$-auto-referenziale se esistono numeri naturali fissi $k_1$ e $k_2$ in modo tale che $$a_{n+k_1}^{(M)} = a_{a_n^{(M+1)}+k_2}^{(M)}, \quad \forall n \in \mathbb{N}.$$ (a) Esiste una sequenza di numeri interi in modo tale che il più piccolo $M$ per il quale è $M$-auto-referenziale è $M = 2022$? b) Esiste una sequenza di numeri interi positivi in stretta crescita che è $M$-auto-referenziale con il più piccolo di tali $M = 2022$?
+> Sia $(a_n)_{n \in \mathbb{N}}$ una successione di interi. Definisci $a_n^{(0)} = a_n$ per ogni numero naturale $n$. Per ogni intero $M \ge 0$, definisci
+> $$a_n^{(M+1)} = a_{n+1}^{(M)} - a_n^{(M)}, \quad \forall n \in \mathbb{N}.$$
+> Diciamo che $(a_n)_{n \in \mathbb{N}}$ è $(M+1)$-autoriferito se esistono numeri naturali fissi $k_1$ e $k_2$ tali che
+> $$a_{n+k_1}^{(M)} = a_{a_n^{(M+1)}+k_2}^{(M)}, \quad \forall n \in \mathbb{N}.$$
+> (a) Esiste una successione di interi tale che il più piccolo $M$ per cui essa è $M$-autoriferita sia $M = 2022$?
+> (b) Esiste una successione strettamente crescente di interi positivi che sia $M$-autoriferita con il più piccolo tale $M = 2022$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2022_nu_fx#q03|src_obm_2022_nu_fx__Q03]]
 
 
 
@@ -115,9 +145,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Convergenza di serie con ricorrenza esponenziale iterata*
+*Convergenza di serie che coinvolgono ricorrenze esponenziali iterate*
 
-> Considerando $c, a > 0$, si deve considerare la sequenza $(x_n)_{n \ge 1}$ definita da $x_1 = c$ e $$x_{n+1} = x_n e^{-x_n^a}, \quad n \ge 1.$$ per i quali valori reali di $\beta$ è convergente la serie $\displaystyle\sum_{n=1}^{\infty} x_n^{\beta}$?
+> Dato $c, a > 0$, si consideri la successione $(x_n)_{n \ge 1}$ definita da $x_1 = c$ e
+> $$x_{n+1} = x_n e^{-x_n^a}, \quad n \ge 1.$$
+> Per quali valori reali di $\beta$ la serie $\displaystyle\sum_{n=1}^{\infty} x_n^{\beta}$ è convergente?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2022_nu_fx#q04|src_obm_2022_nu_fx__Q04]]
 
 
 
@@ -140,9 +179,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizione del prodotto di densità superiore implica intersezione modulare*
+*La condizione del prodotto di densità superiore implica l'intersezione modulare*
 
-> Dato $X \subseteq \mathbb{N}$, definire $d(X)$ come il più grande $c \in [0,1]$ in modo tale che per tutti $a < c$ e $n_0 \in \mathbb{N}$ esista $m, r \in \mathbb{N}$ con $r \ge n_0$ e $|X \cap [m, m+r]| / r \ge a$. Let $E, F \subseteq \mathbb{N}$ con $d(E) \cdot d(F) > 1/4$. Prove che per ogni primo $p$ e $k \in \mathbb{N}$ esistono $m \in E$ e $n \in F$ con $m \equiv n \pmod{p^k}$.
+> Dato $X \subseteq \mathbb{N}$, si definisca $d(X)$ come il più grande $c \in [0,1]$ tale che, per tutti gli $a < c$ e gli $n_0 \in \mathbb{N}$, esistano $m, r \in \mathbb{N}$ con $r \ge n_0$ e $|X \cap [m, m+r]| / r \ge a$. Sia $E, F \subseteq \mathbb{N}$ con $d(E) \cdot d(F) > 1/4$. Si dimostri che, per ogni numero primo $p$ e $k \in \mathbb{N}$, esistono $m \in E$ e $n \in F$ con $m \equiv n \pmod{p^k}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2022_nu_fx#q05|src_obm_2022_nu_fx__Q05]]
 
 
 
@@ -165,6 +211,13 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo tangente razionale, primo p3 mod 4, numeratore divisibile da p*
+*Angolo della tangente razionale, numero primo p≡3 mod 4, numeratore divisibile per p*
 
-> Che $p \equiv 3 \pmod{4}$ sia un primo e che $\theta$ sia un angolo tale che $\tan(\theta)$ sia razionale. Prova che $\tan((p+1)\theta)$ è un numero razionale il cui numeratore è un multiple di $p$; cioè $\tan((p+1)\theta) = \dfrac{u}{v}$ con $u, v \in \mathbb{Z}$, $v > 0$, $\gcd(u,v) = 1$ e $u \equiv 0 \pmod{p}$.
+> Sia $p \equiv 3 \pmod{4}$ un numero primo e sia $\theta$ un angolo tale che $\tan(\theta)$ sia razionale. Dimostrare che $\tan((p+1)\theta)$ è un numero razionale il cui numeratore è un multiplo di $p$; cioè, $\tan((p+1)\theta) = \dfrac{u}{v}$ con $u, v \in \mathbb{Z}$, $v > 0$, $\gcd(u,v) = 1$ e $u \equiv 0 \pmod{p}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2022_nu_fx#q06|src_obm_2022_nu_fx__Q06]]

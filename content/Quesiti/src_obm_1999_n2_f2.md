@@ -29,9 +29,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre mesi consecutivi in un anno non bisestivo, ognuno con esattamente quattro domeniche; dimostrare che uno di essi è febbraio.*
+*Tre mesi consecutivi in un anno non bisestile, ciascuno dei quali abbia esattamente quattro domeniche; dimostrare che uno di essi è febbraio.*
 
-> Tre mesi consecutivi di un determinato anno non alto hanno esattamente quattro domeniche. Prova che uno di questi mesi è febbraio.
+> Tre mesi consecutivi di un certo anno non bisestile hanno ciascuno esattamente quattro domeniche. Dimostrare che uno di questi mesi è febbraio.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n2_f2#q01|src_obm_1999_n2_f2__Q01]]
 
 
 
@@ -58,13 +65,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre numeri interi su una lavagna; ogni movimento cancella due e scrive la loro somma meno uno; può partire da 2,2,2 o 3,3,3 rendere 17,75,91?*
+*Tre interi su una lavagna; ogni mossa cancella due numeri e vi scrive la loro somma meno uno; partendo da 2,2,2 o da 3,3,3 si può ottenere 17,75,91?*
 
-> Su una lavagna sono scritte tre numeri interi. Poi viene eseguita una sequenza di mosse in cui, ad ogni passo, uno ne cancella due e scrive al loro posto un numero uguale alla somma delle due mosse cancellate diminuita di un'unità. Dopo numerose mosse si ottengono sulla lavagna i numeri $17$, $75$ e $91$. È possibile che i numeri scritti all'inizio fossero:
-> 
+> Su una lavagna sono scritti tre numeri interi. Poi si esegue una sequenza di mosse in cui, a ogni passo, si cancellano due di essi e al loro posto si scrive un numero pari alla somma dei due numeri cancellati meno una unità. Dopo diverse mosse, sulla lavagna si ottengono i numeri $17$, $75$ e $91$. È possibile che i numeri scritti all'inizio fossero:
+>
 > a) $2, 2, 2$ ?
-> 
+>
 > b) $3, 3, 3$ ?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n2_f2#q02|src_obm_1999_n2_f2__Q02]]
 
 
 
@@ -87,9 +101,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrato con punti M,N,P,Q sui lati in modo che i circoncircoli dei triangoli MBN e PDQ siano tangenti esternamente; dimostrare MN + PQ >= AC.*
+*Quadrato ABCD con i punti M, N, P, Q sui lati tali che le circonferenze circoscritte ai triangoli MBN e PDQ siano tangenti esternamente; dimostrare che MN + PQ >= AC.*
 
-> Lasciate che $ABCD$ sia quadrato. Scegliamo i punti $M$, $N$, $P$, $Q$ rispettivamente su $AB$, $BC$, $CD$ e $DA$, in modo tale che i cerchi circumscritti dei triangoli $MBN$ e $PDQ$ siano tangenti esternamente. Prova che $MN + PQ \ge AC$.
+> Sia $ABCD$ un quadrato. Si scelgono i punti $M$, $N$, $P$, $Q$ rispettivamente su $AB$, $BC$, $CD$ e $DA$, in modo che le circonferenze circoscritte ai triangoli $MBN$ e $PDQ$ siano tangenti esternamente. Dimostrare che $MN + PQ \ge AC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1999_n2_f2#q03|src_obm_1999_n2_f2__Q03]]
 
 
 
@@ -112,9 +133,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il numero naturale più grande che, per qualche riorganizzazione (a,b,c,d) di (3,6,9,12), è uguale alla radice cubica di 3^a 6^b 9^c 12^d.*
+*Trovare il più grande numero naturale che, per una qualche permutazione (a,b,c,d) di (3,6,9,12), sia uguale alla radice cubica intera di 3^a 6^b 9^c 12^d.*
 
-> Determinare il numero naturale più grande per il quale esiste una riorganizzazione $(a, b, c, d)$ di $(3, 6, 9, 12)$ (cioè $\{a, b, c, d\} = \{3, 6, 9, 12\}$) tale che il numero $\sqrt[3]{3^a \cdot 6^b \cdot 9^c \cdot 12^d}$ sia un numero intero. Giustifica la tua risposta.
+> Determinare il più grande numero naturale per il quale esiste una permutazione $(a, b, c, d)$ di $(3, 6, 9, 12)$ (ossia $\{a, b, c, d\} = \{3, 6, 9, 12\}$) tale che il numero $\sqrt[3]{3^a \cdot 6^b \cdot 9^c \cdot 12^d}$ sia un intero. Giustifica la tua risposta.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1999_n2_f2#q04|src_obm_1999_n2_f2__Q04]]
 
 
 
@@ -137,9 +165,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*aggiunta di due frazioni già ridotte A/B + C/D sul loro denominatore lcm; prova che la frazione risultante è già in termini più bassi.*
+*Sommare due frazioni già ridotte, A/B + C/D, ponendo a denominatore il loro mcm; dimostrare che la frazione risultante è già irriducibile.*
 
-> Un insegnante di matematica ha dato ai suoi studenti l'aggiunta $\dfrac{A}{B} + \dfrac{C}{D}$, dove $A$, $B$, $C$ e $D$ sono numeri interi positivi e le frazioni sono già semplificate al massimo (cioè i denominatori sono coprime con i rispettivi numeratori). Dopo averlo semplificato al minimo (cioè scrivendo il risultato con il minimo denominatore comune e quindi riducendo il risultato), mostrare che la frazione che gli studenti troveranno come risultato è già semplificata.
+> Un insegnante di matematica ha proposto ai suoi studenti la somma $\dfrac{A}{B} + \dfrac{C}{D}$, dove $A$, $B$, $C$ e $D$ sono numeri interi positivi e le frazioni sono già ridotte ai minimi termini (ossia i denominatori sono coprimi con i rispettivi numeratori). Dopo averla semplificata al massimo (ossia dopo aver scritto il risultato con il minimo comune denominatore e poi aver ridotto il risultato ai minimi termini), dimostrare che la frazione che gli studenti otterranno come risultato è già ridotta ai minimi termini.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1999_n2_f2#q05|src_obm_1999_n2_f2__Q05]]
 
 
 
@@ -162,6 +197,13 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi n per i quali un rettangolo 9x10 può essere cartigliato utilizzando pezzi 1xn.*
+*Trovare tutti gli interi positivi n per cui un rettangolo 9x10 può essere ricoperto con tasselli 1xn.*
 
-> Determinare tutti i numeri interi positivi $n$ per i quali è possibile assemblare un rettangolo $9 \times 10$ utilizzando pezzi $1 \times n$.
+> Determinare tutti gli interi positivi $n$ per cui è possibile assemblare un rettangolo $9 \times 10$ utilizzando pezzi $1 \times n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1999_n2_f2#q06|src_obm_1999_n2_f2__Q06]]

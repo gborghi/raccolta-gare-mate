@@ -32,13 +32,18 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete a 4x4 square with a 0, two 1 and a 2 per row and column.*
+*Complete a 4x4 square with one 0, two 1s, and one 2 in each row and each column.*
 
-> Complete the square so that each row and column contains a "0", two "1" and a "2".
+> Complete the square so that each row and each column contains one "0", two "1"s, and one "2".
 
 ![[src_bocconi_semifinale_2011__q01.png]]
 
-**Answer:** $\begin{array}{|c|c|c|c|}\hline 2&0&1&1\\\hline 0&1&1&2\\\hline 1&1&2&0\\\hline 1&2&0&1\\\hline\end{array}$
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q01|src_bocconi_semifinale_2011__Q01]]
 
 
 
@@ -64,13 +69,18 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Insert 1-8 into the grid so that consecutive integers do not touch each other.*
+*Place 1–8 in the grid so that consecutive integers do not touch.*
 
-> Place all integers from 1 to 8 in the grid in the figure (actually, 3.6,8 have already been inserted) so that two consecutive integers never occupy boxes that have one side or one vertex in common.
+> Place all the integers from 1 to 8 in the grid in the figure (in fact, 3, 6, and 8 have already been placed) so that two consecutive integers never occupy cells that share a side or a vertex.
 
 ![[src_bocconi_semifinale_2011__q02.png]]
 
-**Answer:** $\begin{array}{|c|c|}\hline 3&5\\\hline 1&8\\\hline\end{array}$ with base $7\;4\;6\;2$ (3,5 / 1,8 / 7,4,6,2)
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q02|src_bocconi_semifinale_2011__Q02]]
 
 
 
@@ -96,13 +106,18 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of moves to move the two-cube tower on pedestal C.*
+*Minimum number of moves to move the tower two cubes up onto pedestal C.*
 
-> With each move, Anna moves a cube, from the pedestal where it is located, to the one nearby (to her right or to her left). Never, however, at any stage of the game, can the "2" cube be above the "1" cube. How many moves does it take for Anna, at least, to rebuild the tower on pedestal C?
+> With each move, Anna moves a cube from the pedestal where it is located to the adjacent pedestal (to her right or to her left). However, at no point during the game may cube "2" be on top of cube "1". What is the minimum number of moves Anna needs to reassemble the tower on pedestal C?
 
 ![[src_bocconi_semifinale_2011__q03.png]]
 
-**Answer:** 8 moves
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q03|src_bocconi_semifinale_2011__Q03]]
 
 
 
@@ -126,11 +141,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of 5 different digits, not 0 or 5, increasing, with sum of 20.*
+*A 5-digit number with distinct digits, none of which are 0 or 5, arranged in increasing order, with a sum of 20.*
 
-> Fill the five boxes with five different digits. None can be equal to 0 or 5. Their sum must be equal to 20. Finally, they must be ordered (left to right) from the smallest to the largest.
+> Fill the 5 boxes with 5 different digits. None of them may be equal to 0 or 5. Their sum must be 20. Finally, they must be arranged (from left to right) from smallest to largest.
 
-**Answer:** Two solutions: 12368 and 12467
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q04|src_bocconi_semifinale_2011__Q04]]
 
 
 
@@ -156,13 +176,18 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To have the digits 1,2,3,4 in the expression for the minimum result.*
+*Arrange the digits 1, 2, 3, 4 in the expression to obtain the smallest result.*
 
-> Place all the digits 1,2,3,4 in the boxes in the figure to get the smallest possible result. The figure is $\big(\ \square\,\square - \square\ \big) \times \square$.
+> Place all the digits 1, 2, 3, 4 in the cells of the figure so as to obtain the smallest possible result. The figure is $\big(\ \square\,\square - \square\ \big) \times \square$.
 
 ![[src_bocconi_semifinale_2011__q05.png]]
 
-**Answer:** $(13 - 4) \times 2$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q05|src_bocconi_semifinale_2011__Q05]]
 
 
 
@@ -186,11 +211,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many numbers of the Debora sequence do we need to get to 2011.
+*How many numbers from Debora's sequence are needed to reach 2011?*
 
-> Deborah writes the number 1, adds 70 and gets 71. Then (reversing his numbers) he writes 17, he adds 70 and he finds 87. It divides, reversing the figures of the last result obtained: it writes 78, adds 70 and finds 148. Doing so and continuing, he writes (including the initial one) the numbers 1.71,87,148,911,.... How many numbers of this sequence are needed to get to 2011?
+> Debora writes the number 1, adds 70 to it, and gets 71. Then (reversing its digits) she writes 17, adds 70 to it, and gets 87. She starts again, reversing the digits of the last result obtained: she writes 78, adds 70 to it, and gets 148. By doing this and continuing, she writes (including the initial one) the numbers 1, 71, 87, 148, 911, …. How many numbers in this sequence are needed to get to writing 2011 (including 2011)?
 
-**Answer:** 22 numbers
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q06|src_bocconi_semifinale_2011__Q06]]
 
 
 
@@ -214,11 +244,16 @@ How many numbers of the Debora sequence do we need to get to 2011.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hours in which all three chamber lights are turned off within 24 hours.*
+*Occasions when all three room lights are off within 24 hours.*
 
-> There are three individuals living in our condo. The first one is a greedy guy and every night he lights up his room for only an hour, from 8:00 to 9:00. The second suffers instead of insomnia and keeps the room light on from 11 p.m. to 5 a.m. for six hours. The third is a curious type: he keeps his room lit when the lights of at least one of the two condominiums are on or when one of these lights has been off for no more than an hour. How many hours a day (of 24 hours) do the lights in the three rooms all go out?
+> Three individuals live in our condominium. The first is a stingy sort and every evening turns on the light in his room for only an hour, from 8 p.m. to 9 p.m. The second, on the other hand, suffers from insomnia and keeps the light in his room on from 11 p.m. to 5 a.m. the following morning—a full six hours. The third is a curious sort: he keeps the light in his room on when the light in at least one of the other two rooms is on, or when one of those lights was switched off no more than an hour ago. Over the course of a day (a 24-hour period), for how many hours are the lights in all three rooms off?
 
-**Answer:** 15 hours
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q07|src_bocconi_semifinale_2011__Q07]]
 
 
 
@@ -242,11 +277,16 @@ How many numbers of the Debora sequence do we need to get to 2011.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Find the digits of the two tokens chosen by Carla.
+*Find the values of the two tokens chosen by Carla.*
 
-> Carla and Milena take, each, two tokens from the nine that are on the table and that are identified by the digits 1,2,3,4,5,6,7,8,9. Of the four tokens chosen, the one with the biggest number is Carla's. Then a very strange fact happens: the product of the digits of the two tokens of Milena is equal to the sum of those of the tokens of Carla and the product of the latter is equal to the sum of the digits of the tokens of Milena. What are the numbers on the tokens Carla chose?
+> Carla and Milena each take two tokens from the nine tokens on the table, which are marked with the digits 1, 2, 3, 4, 5, 6, 7, 8, and 9. Among the four tokens chosen, Carla took the one with the largest digit. Then a very strange thing happens: the product of the digits on Milena's two tokens equals the sum of the digits on Carla's tokens, and the product of Carla's digits equals the sum of the digits on Milena's tokens. What are the digits on the tokens chosen by Carla?
 
-**Answer:** 1 and 5 (or vice versa)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q08|src_bocconi_semifinale_2011__Q08]]
 
 
 
@@ -270,11 +310,16 @@ Find the digits of the two tokens chosen by Carla.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sides of a convex polygon with diagonal equal to 13 times the sides.*
+*To form a convex polygon whose diagonals are 13 times the sides.*
 
-> In our (convex) polygon, the number of diagonals is 13 times that of the sides. How many sides does our polygon have?
+> In our polygon (convex), the number of diagonals is 13 times the number of sides. How many sides does our polygon have?
 
-**Answer:** 29 sides
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q09|src_bocconi_semifinale_2011__Q09]]
 
 
 
@@ -297,11 +342,15 @@ Find the digits of the two tokens chosen by Carla.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Current age of Nadia from a series of family relationships.*
+*Nadia's current state stems from a series of family relationships.*
 
-> Desiderio, Nadia's father, is 58. Jacob (Nadia's brother) is 27 years old, while her mother, Fausta, is 22 years older than her daughter. When Desiderio is twice Jacob's age, Fausta and Nadia will be 100 years old. How old is Nadia today?
+> Desiderio, Nadia's father, is 58 years old. Jacob (Nadia's brother) is 27 years old, while their mother, Fausta, is 22 years older than her daughter. When Desiderio is twice Jacob's age, Fausta and Nadia will together be 100 years old. How old is Nadia today?
 
-**Answer:** 35 years
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q10|src_bocconi_semifinale_2011__Q10]]
 
 
 
@@ -325,11 +374,16 @@ Find the digits of the two tokens chosen by Carla.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Make 5 grid boxes so that the sums of rows and columns are equal.*
+*Darken 5 cells of the grid so that the row sums and column sums are equal.*
 
-> Strike five grid boxes in the figure so that, with the remaining boxes, the sum of the numbers of each row and each column is always the same. The $5\times 5$ grid contains: line 1: $25,16,23,5,10$; line 2: $21,12,14,7,2$; line 3: $6,11,1,20,17$; line 4: $8,15,13,24,18$; line 5: $19,3,4,22,9$.
+> Fill in five cells of the grid in the figure so that, with the cells that remain, the sum of the numbers in each row and each column is always the same. The grid $5\times 5$ contains: row 1: $25,16,23,5,10$; row 2: $21,12,14,7,2$; row 3: $6,11,1,20,17$; row 4: $8,15,13,24,18$; row 5: $19,3,4,22,9$.
 
-**Answer:** Shade the cells: (row1,col1)=25, (row2,col5)=2, (row3,col2)=11, (row4,col3)=13, (row5,col2)=3
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q11|src_bocconi_semifinale_2011__Q11]]
 
 
 
@@ -353,11 +407,16 @@ Find the digits of the two tokens chosen by Carla.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit palindrome numbers which are also perfect squares.*
+*Three-digit palindromic numbers that are also perfect squares.*
 
-> It's called a palindrome, a number that reads the same way from left to right and right to left. For example, 252 is a palindrome number. Marco is all happy because he found some three-digit palindromes that are also the square of an integer. What are the numbers Marco found?
+> A number that reads the same from left to right and from right to left is called a palindrome. For example, 252 is a palindrome. Marco is over the moon because he has found some three-digit palindromes that are also the square of an integer. What are the numbers Marco found?
 
-**Answer:** Three solutions: 121 – 484 – 676
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q12|src_bocconi_semifinale_2011__Q12]]
 
 
 
@@ -381,11 +440,16 @@ Find the digits of the two tokens chosen by Carla.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Top side of the cube whose lateral development is 120 cm square.*
+*The maximum edge length of the cube whose lateral net is a square of 120 cm.*
 
-> Amerigo developed the lateral surface of a cube by leaning it on the plane, within a square of 120 cm by side (the development of the lateral surface of the cube is "a single piece" consisting of 6 squares). What is the maximum size of the side of Amerigo's cube? (Replace $1{,}414$ with $\sqrt{2}$ and round the result to the nearest cm).
+> Amerigo has unfolded the lateral surface of a cube by placing it on a plane, inside a square with sides 120 cm long (the unfolded lateral surface of the cube is "a single piece" made up of 6 small squares). What is the maximum possible length of the side of Amerigo's cube? (replace $1{,}414$ with $\sqrt{2}$ and round the result to the nearest centimeter).
 
-**Answer:** 34 cm
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q13|src_bocconi_semifinale_2011__Q13]]
 
 
 
@@ -409,11 +473,16 @@ Find the digits of the two tokens chosen by Carla.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum arrival time together with Geocity sharing a single bicycle.*
+*Minimum time to arrive together with Geocity, sharing a single bicycle.*
 
-> To get from the town of Mathville to that of Geocity, which is 40 miles away, Angelo and Pietro have a bicycle at their disposal. One, though, that they can't ride in two. Angelo walks at a speed of 4 km/h and cycles at 30 km/h. Peter's, on the other hand, walks 6 km/h and cycles 20 km/h. If they leave together at 8:00 a.m. from Mathville, what time will they arrive together at Geocity as soon as possible?
+> To get from the town of Mathville to the town of Geocity, which is 40 km away, Angelo and Pietro have a bicycle available. However, there is only one, and two people can't ride it together. Angelo walks at a speed of 4 km/h and cycles at a speed of 30 km/h. Pietro, on the other hand, walks at 6 km/h and cycles at 20 km/h. If they set off together from Mathville at 8:00 a.m., what is the earliest time at which they can arrive in Geocity together?
 
-**Answer:** 12:48
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q14|src_bocconi_semifinale_2011__Q14]]
 
 
 
@@ -437,11 +506,16 @@ Find the digits of the two tokens chosen by Carla.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Find the two positive integers whose combination of operations gives 88.*
+*Find the two positive integers whose combination of operations yields 88.*
 
-> Luke considers two positive integers. Then he adds them up, multiplies them, makes the difference (the greater minus the lesser) and then he calculates their power, raising the first to the exponent represented by the second. Finally, Luke adds up the four results and finds 88. What were the two numbers originally considered by Luke?
+> Luca considers two positive integers. Then he adds them, multiplies them together, finds their difference (the larger minus the smaller), and then calculates their power by raising the first to the exponent represented by the second. Finally, Luca adds the four results thus obtained and gets 88. What were the two numbers that Luca initially considered?
 
-**Answer:** Three solutions: $(2,6) - (22,1) - (1,29)$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q15|src_bocconi_semifinale_2011__Q15]]
 
 
 
@@ -465,11 +539,16 @@ Find the digits of the two tokens chosen by Carla.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diameter of the fifth smallest sphere supported on the other four.*
+*Diameter of the fifth smallest sphere resting on the other four.*
 
-> The witch Liliana has been given the gift of new crystal balls to practice reading the future with. The balls received as a gift are four and equal to each other. They lie on the bottom of a cylinder-shaped box, which has a base diameter of 20 cm, and their centers form a square. They are tangent to each other (two to two), tangent to the side surface of the box and tangent to the cover of the box when the box is closed. The box also contains a smaller fifth sphere, leaning (above) the previous four and tangent to the cover of the box when it is closed. What is the diameter of the smallest of the five spheres of the Liliana witch? (give the answer in cm, replacing $1{,}414$ with $\sqrt{2}$ and rounding the second decimal digit of the result to the nearest cent).
+> The witch Liliana has received as a gift some new crystal spheres with which to practice reading the future. The spheres received as a gift are four and equal to one another. They rest on the bottom of a cylindrical box, which has a base diameter of 20 cm, and their centers form a square. They are tangent to one another (pairwise), tangent to the lateral surface of the box and tangent to the lid of the same when the box is closed. The box also contains a fifth, smaller sphere, resting (on top) on the four previous ones and tangent to the lid of the box when it is closed. What is the diameter of the smallest of the five spheres of the witch Liliana? (give the answer in cm, replacing $\sqrt{2}$ with $1.414$ and rounding the second decimal digit of the result to the nearest hundredth).
 
-**Answer:** cm 4,14
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q16|src_bocconi_semifinale_2011__Q16]]
 
 
 
@@ -493,11 +572,15 @@ Find the digits of the two tokens chosen by Carla.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimize the diameter of the round table so that the three noses do not touch each other.
+*Minimum diameter of the round table so that the three noses do not touch.*
+> It is the one that torments the Pinocchi family. The nose of dad Pinocchio measures 40 cm; that of the wife, Pinocchia, 30 cm, while that of their son Pinocchino measures 20 cm. The problem is that the head of the family wants to install in the dining room a circular table large enough for all three family members to sit around it and turn their heads freely without fear of touching each other with their noses. For this to happen, the diameter of the table must be greater than a certain value. What is the minimum of this value? It is assumed that the "attachment" of each nose lies on the vertical line passing through the edge of the table and that it is at the same height as the others (give the answer in cm, replacing $\sqrt{3}$ with $1.732$ and $\sqrt{2}$ with $1.414$, and then rounding the result to the nearest cm).
 
-> She's the one who's been upsetting the Pinocchi family. The nose of Pinocchio's father measures 40 cm; that of his wife, Pinocchio, 30 cm while that of their son Pinocchio measures 20 cm. The problem is that the head of the family wants to install a circular table large enough in the dining room so that all three members of the family can sit around and turn their heads freely without fear of touching their noses. For this to happen, the diameter of the table must be greater than a certain value. What is the minimum of this value? The 'attachment' of each nose is assumed to be on the vertical passing through the edge of the table and to be at the same height as the others (given the answer in cm, replacing $1{,}732$ with $\sqrt{3}$ and $1{,}414$ with $\sqrt{2}$ and then rounding the result to the nearest cm).
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
 
-**Answer:** cm 71
+[[Quesiti/src_bocconi_semifinale_2011#q17|src_bocconi_semifinale_2011__Q17]]
 
 
 
@@ -521,8 +604,13 @@ Minimize the diameter of the round table so that the three noses do not touch ea
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of moves to bring a single token to box 2011.*
+*Minimum number of moves to get a single token to square 2011.*
 
-> It consists of an unlimited strip of numbered boxes: 0,1,2,3 ... . There is also an unlimited number of tokens and, in turn, each box can contain an unlimited number of tokens. At the beginning of the game, however, there is only one token placed in the box with the number 1. Two types of moves are possible: you 'double' a token (not in the box with the number 0) by replacing it with two tokens placed in the adjacent boxes (one to its left, one to its right); you remove a token, 'group' two and replace them with a token placed in the only box between the two. You win when you can get a single token, and that's in the box with the number 2011. How many moves, at least, can you win? (you answer 0 if you think the question is impossible).
+> It consists of an unlimited row of numbered boxes: 0, 1, 2, 3, …. There are also an unlimited number of tokens, and each box can in turn hold an unlimited number of tokens. At the beginning of the game, however, there is only a single token placed in the box numbered 1. Two types of moves are possible: one "doubles" a token (one not in the box numbered 0) by replacing it with two tokens placed in the adjacent boxes (one to its left, one to its right); one removes a token by "grouping" two tokens and replacing them with a single token placed in the only box between the two. You win when you manage to have a single token and that token is in the box numbered 2011. What is the minimum number of moves with which you can win? (Answer 0 if you think the question is impossible.)
 
-**Answer:** 5362 moves
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2011#q18|src_bocconi_semifinale_2011__Q18]]

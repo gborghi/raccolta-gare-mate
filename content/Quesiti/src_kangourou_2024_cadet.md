@@ -42,21 +42,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which closed string cannot be arranged as an 8*
+*Which closed cord cannot be arranged in an 8 shape?*
 
 ![[src_kangourou_2024_cadet__prob1.png]]
 
-> Here on the right is a closed cord arranged at 8. Which of the following closed strings cannot be arranged in the same way without cutting it? A)
->  
-> B)
->  
-> C)
->  
-> D)
->  
+> On the right, a closed cord arranged in a figure-eight shape is shown. Which of the following closed cords cannot be arranged in the same way without cutting it?
+> A)  
+>
+> B)  
+>
+> C)  
+>
+> D)  
+>
 > E)
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet#q01|src_kangourou_2024_cadet__Q01]]
 
 
 
@@ -88,20 +93,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*By what percentage is the area of the second figure greater*
+*By what percentage is the area of the second figure greater?*
 
 ![[src_kangourou_2024_cadet__prob2.png]]
 
-> The first figure represents a rhombus; in the second figure the 
-> two sides of the rhombus are the hypotenuses of two right triangles whose 
-> shorter legs are aligned. By what percentage is the total area of the second figure greater than that of the first?
+> The first figure represents a rhombus; in the second figure, two sides of the rhombus are the hypotenuses of two right-angled triangles whose shorter legs are collinear. By what percentage is the total area of the second figure greater than that of the first?
 > A) 20%  
 > B) 25%  
 > C) 30%  
 > D) 40%  
 > E) 50%
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet#q02|src_kangourou_2024_cadet__Q02]]
 
 
 
@@ -137,19 +144,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantity of 4-digit numbers with three tokens 1, 5, 11*
+*How many 4-digit numbers can be formed with the three tokens 1, 5, 11?*
 
-> Alice has the three tokens you see in the figure, each of which represents one of the numbers 1, 5, 11. She wants to place them next to each other so as to compose a four-digit number. How many different numbers can she compose? A) 3
->  
-> B) 4
->  
-> C) 6
->  
-> D) 8
->  
+> Alice has the three tokens shown in the figure; each token bears one of the numbers 1, 5, 11. She wants to arrange them side by side to form a four-digit number. How many different numbers can she form?
+> A) 3  
+>
+> B) 4  
+>
+> C) 6  
+>
+> D) 8 
+>
 > E) 9
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_cadet#q03|src_kangourou_2024_cadet__Q03]]
 
 
 
@@ -185,21 +198,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which pentagon leaves two black closed curves*
+*Which pentagon leaves two black closed curves?*
 
 ![[src_kangourou_2024_cadet__prob4.png]]
 
-> Look at the figure: seven congruent pentagons, each with two inner 90-degree angles, contour an eighth white pentagon, congruent to the previous ones. Which of the following pentagons can be replaced with the white one (perhaps by rotating it, but not by flipping it) so that two closed curves remain drawn in black? A)
->  
-> B)
->  
-> C)
->  
-> D)
->  
+> Look at the figure: seven congruent pentagons, each having two interior angles of 90 degrees, surround an eighth white pentagon that is congruent to the preceding ones. Which of the following pentagons can replace the white one (possibly rotated but not flipped) so that two closed curves remain drawn in black?
+> A)  
+>
+> B)  
+>
+> C)  
+>
+> D)  
+>
 > E)
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet#q04|src_kangourou_2024_cadet__Q04]]
 
 
 
@@ -239,22 +257,28 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many vertices does the solid have after removing 4 pyramids?
+*How many vertices does the solid have after removing 4 pyramids?*
 
 ![[src_kangourou_2024_cadet__prob5.png]]
 
-> Julius has a regular wooden tetrahedron. From it he removes the four small pyramids shown in dark in the figure. How many vertices does the solid have left? A) 8
->  
-> B) 9
->  
-> C) 11
->  
-> D) 12
->  
-> E) 15 1 5 11
+> Giulio has a regular wooden tetrahedron. From it, he removes the four small pyramids indicated in dark in the figure. How many vertices does the remaining solid have?
+> A) 8  
+>
+> B) 9 
+>
+> C) 11 
+>
+> D) 12 
+>
+> E) 15
+> 1 5 11
 >
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet#q05|src_kangourou_2024_cadet__Q05]]
 
 
 
@@ -287,19 +311,24 @@ How many vertices does the solid have after removing 4 pyramids?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of children in an elevator with 9 adults
+*Maximum number of children in the elevator with 9 adults*
 
-> The user notes of a large elevator say that it can carry up to 12 adults or 20 children. Based on these notes, what is the maximum number of children that can ride in the elevator with nine adults? A) 3
->  
-> B) 4
->  
-> C) 5
->  
-> D) 6
->  
+> The usage notes for a large elevator state that it can carry a maximum of 12 adults or 20 children. According to these notes, what is the maximum number of children who can get into the elevator along with nine adults?
+> A) 3  
+>
+> B) 4  
+>
+> C) 5  
+>
+> D) 6 
+>
 > E) 8
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_cadet#q06|src_kangourou_2024_cadet__Q06]]
 
 
 
@@ -361,9 +390,15 @@ Maximum number of children in an elevator with 9 adults
 \end{document}
 ```
 
-> In each grid box in the figure, we wrote a different positive integer. Then we covered the numbers. The figure shows the four products of the numbers in the individual rows and columns. What's the sum of the four hidden integers? A) 10  B) 12 C) 13  D) 14  E) 15
+> In each cell of the grid in the figure, we have written a different positive integer. Then we covered the numbers. The figure shows the four products of the numbers in each row and in each column. What is the sum of the four hidden integers?
+> A) 10  B) 12  
+> C) 13  D) 14  E) 15
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_cadet#q07|src_kangourou_2024_cadet__Q07]]
 
 
 
@@ -398,9 +433,18 @@ Maximum number of children in an elevator with 9 adults
 
 ![[src_kangourou_2024_cadet__prob8.png]]
 
-> The clock in the figure marks exactly 10:20. What is the width of the convex angle formed by the hour and minute hands? A) 162°30’ B) 165° C) 167°30’ D) 170° E) 172°15’
+> The clock in the figure shows exactly 10:20. What is the measure of the convex angle formed by the hour hand and the minute hand?
+> A) 162°30’    
+> B) 165°     
+> C) 167°30’   
+> D) 170°    
+> E) 172°15’
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet#q08|src_kangourou_2024_cadet__Q08]]
 
 
 
@@ -438,21 +482,26 @@ Maximum number of children in an elevator with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grades of the angle between redistributed slices of the cake*
+*Degrees of the angle between redistributed slices of the cake*
 
 ![[src_kangourou_2024_cadet__prob9.png]]
 
-> Laura made a cake and split it into 10 equal slices. She ate one slice and then redistributed the others so that the angle between the two sides from the same cut of two nearby slices was always the same, as shown in the figure. How many degrees does that angle measure? A) 5
->  
-> B) 4
->  
-> C) 3
->  
-> D) 2
->  
+> Laura made a cake and divided it into 10 equal slices. She ate one slice and then redistributed the others so that the angle between the two sides originating from the same cut of two adjacent slices was always the same, as shown in the figure. How many degrees does this angle measure?
+> A) 5 
+>
+> B) 4 
+>
+> C) 3 
+>
+> D) 2 
+>
 > E) 1
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet#q09|src_kangourou_2024_cadet__Q09]]
 
 
 
@@ -487,19 +536,26 @@ Maximum number of children in an elevator with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum difference between two of 4 distinct integers with mean 5*
+*Maximum difference between two of four distinct integers with an average of 5*
 
-> Four positive integers are all different from each other and their arithmetic mean is 5. What may be the greatest difference between the two? A) 5
->  
-> B) 6
->  
-> C) 8
->  
-> D) 13
->  
-> E) 25 Questions from N. 11 to N. 20 are worth 4 points each.
+> Four positive integers are all different from one another, and their arithmetic mean is 5. What is the greatest possible difference between two of them?
+> A) 5 
+>
+> B) 6 
+>
+> C) 8 
+>
+> D) 13 
+>
+> E) 25
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_cadet#q10|src_kangourou_2024_cadet__Q10]]
 
 
 
@@ -537,21 +593,26 @@ Maximum number of children in an elevator with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which tile completes the magic square 4x4*
+*Which tile completes the 4x4 magic square?*
 
 ![[src_kangourou_2024_cadet__prob11.png]]
 
-> Sergio has four tiles made of square cells, each containing a number: the figure shows you three. He can place them together to form a 4x4 square where, for each row and column, the sum of the numbers each contains is always the same. Which of the following is the fourth tile? A)
->  
-> B)
->  
-> C)
->  
-> D)
->  
+> Sergio has four tiles made up of square cells, each of which contains a number; the figure shows you three of them. He can arrange them so as to form a 4×4 square in which, for each row and each column, the sum of the numbers contained in each of them is always the same. Which of the following is the fourth tile?
+> A)  
+>
+> B)  
+>
+> C)  
+>
+> D)  
+>
 > E)
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_cadet#q11|src_kangourou_2024_cadet__Q11]]
 
 
 
@@ -611,12 +672,23 @@ Maximum number of children in an elevator with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Radius of circumference given nearest and farthest points*
+*Radius of the circle given the nearest and farthest points*
 
-> In the plane a point P and a circumference γ are given. The point of γ closest to P is 20 cm from P, the farthest is 24. Then the measurement in centimetres of the radius of the circumference A) must be 2. B) must be 4. C) must be 12. D) must be 22. E) It could be either 2, or 22. 6 8 4 12 12 6 3 9 1 2 4 5 8 7 11 10 2 2 1 2 2 1 3 1 1 2 3 1 2 1 1 3 2 1 0 1 2 1 2 2 2 2 2 3
+> In the problem, a point P and a circle γ are given. The point on γ closest to P is 20 cm from P, and the point on γ farthest from P is 24 cm from P. Then the radius of the circle, measured in centimeters,
+> A) must be 2.
+> B) must be 4.
+> C) must be 12.
+> D) must be 22.
+> E) It could be either 2 or 22.
+> 6 8 4 12 12 6 3 9 1 2 4 5 8 7 11 10 2 2 1 2 2 1 3 1 1 2 3 1 2 1 1 3 2 1 0 1 2 1 2 2 2 2 2 3
 >
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet#q12|src_kangourou_2024_cadet__Q12]]
 
 
 
@@ -692,9 +764,18 @@ Maximum number of children in an elevator with 9 adults
 \end{document}
 ```
 
-> The side of the square in the figure is 10 m long. The square is divided into five triangles by three segments, as shown. The two shaded triangles have areas, in square meters, A and B. How much is the difference A – B ? A) 0 B) 1 C) 2 D) 5 E) 10
+> The side of the square in the figure is 10 m long. The square is divided into five triangles by three line segments, as shown. The two shaded triangles have areas, in square meters, A and B. What is the value of A – B?
+> A) 0 
+> B) 1 
+> C) 2 
+> D) 5 
+> E) 10
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet#q13|src_kangourou_2024_cadet__Q13]]
 
 
 
@@ -729,19 +810,24 @@ Maximum number of children in an elevator with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fish eaten by the other chicken (44 to one)*
+*Fish eaten by the other chick (44 to 1)*
 
-> The seagull Paola fishes 12 fish for her two chicks every day and gives 7 fish every day to the first chick she sees and 5 fish every second: they eat all the fish. A chick has eaten 44 fish in the last few days. How many fish did the other chick eat in the same days ? A) 34
->  
-> B) 40
->  
-> C) 46
->  
-> D) 52
->  
+> The little seagull Paola catches 12 fish every day for her two chicks, and every day she gives 7 fish to the first chick she sees and 5 fish to the second one: they eat all the fish. Over the past few days, one chick has eaten 44 fish. How many fish has the other chick eaten in the same period?
+> A) 34 
+>
+> B) 40 
+>
+> C) 46 
+>
+> D) 52 
+>
 > E) 58
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_cadet#q14|src_kangourou_2024_cadet__Q14]]
 
 
 
@@ -781,21 +867,27 @@ Maximum number of children in an elevator with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cubes are needed to extend the structure*
+*How many cubes are needed to extend the structure?*
 
 ![[src_kangourou_2024_cadet__prob15.png]]
 
-> John has a lot of identical cubes. He composed the structure you see on the right by taking a cube and gluing to each of its faces another cube. Now he wants to extend the structure in the same way, that is, stick a cube on all the faces of the structure in the figure. How many more cubes are needed to complete the extended structure? A) 30
->  
-> B) 24
->  
-> C) 18
->  
-> D) 12
->  
+> Giovanni has a large number of identical cubes. He built the structure you see on the right by taking one cube and gluing another cube to each of its faces. Now he wants to extend the structure in the same way—that is, by gluing one cube to exactly all of the faces of the structure shown in the figure. How many more cubes are needed to complete the extended structure?
+> A) 30 
+>
+> B) 24 
+>
+> C) 18 
+>
+> D) 12 
+>
 > E) 6
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet#q15|src_kangourou_2024_cadet__Q15]]
 
 
 
@@ -826,11 +918,20 @@ Maximum number of children in an elevator with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Meter of kangaroo paths in 2024 jumps (jumps/descends)*
+*Meters traveled by the kangaroo in 2024 via jumps (ascending/descending)*
 
-> A kangaroo jumps up a hill and then jumps down the same road. His ascent jumps all measure 1 m. Even his descending jumps are all the same length, but with a descending jump he travels three times the distance he travels with a climbing jump. In total the kangaroo makes 2024 jumps. How many meters does the kangaroo go through? A) 506 B) 1012 C) 2024 D) 3036 E) 4048
+> A kangaroo hops to the top of a hill and then hops down the same path. All of its hops uphill are 1 m long. All of its hops downhill are also the same length, but with one hop downhill it covers three times the distance it covers with one hop uphill. In total, the kangaroo makes 2024 hops. How many meters does the kangaroo cover in total?
+> A) 506  
+> B) 1012  
+> C) 2024  
+> D) 3036  
+> E) 4048
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_cadet#q16|src_kangourou_2024_cadet__Q16]]
 
 
 
@@ -866,21 +967,26 @@ Maximum number of children in an elevator with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the fourth rectangle known to the other three*
+*Perimeter of the fourth small rectangle, given the other three*
 
 ![[src_kangourou_2024_cadet__prob17.png]]
 
-> Elisa carves a large rectangle to produce four rectangles, as shown in the figure. Three of these small rectangles have perimeter 16, 18 and 24. What is the perimeter of the fourth small rectangle? A) 8
->  
-> B) 10
->  
-> C) 12
->  
-> D) 14
->  
+> Elisa cuts out a large rectangle, producing four rectangles, as shown in the figure. Three of these small rectangles have perimeters of 16, 18, and 24. What is the perimeter of the fourth small rectangle?
+> A) 8 
+>
+> B) 10 
+>
+> C) 12 
+>
+> D) 14 
+>
 > E) 16
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet#q17|src_kangourou_2024_cadet__Q17]]
 
 
 
@@ -912,19 +1018,24 @@ Maximum number of children in an elevator with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of decrease in mass of dried mushroom*
+*Percentage decrease in mass of the dried fungus*
 
-> Water constitutes 80% of the mass of a fresh mushroom. Water, on the other hand, constitutes only 20% of the mass of the same dried mushroom. By what percentage does the mass of the mushroom decrease during drying? A) 60
->  
-> B) 70
->  
-> C) 75
->  
-> D) 80
->  
+> Water makes up 80% of the mass of a fresh mushroom. By contrast, water makes up only 20% of the mass of the same mushroom when dried. By what percentage does the mass of the mushroom decrease during drying?
+> A) 60 
+>
+> B) 70 
+>
+> C) 75 
+>
+> D) 80 
+>
 > E) 85
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_cadet#q18|src_kangourou_2024_cadet__Q18]]
 
 
 
@@ -965,14 +1076,25 @@ Maximum number of children in an elevator with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triangular tiles are needed with 3000 hexagons*
+*How many triangular tiles are needed with 3000 hexagonal ones?*
 
 ![[src_kangourou_2024_cadet__prob19.png]]
 
-> Tiziana plans to cover a large rectangular floor with tiles arranged according to a repeated pattern. She will use hexagonal and triangular tiles, which are held together as shown in the figure. For the work Tiziana plans to use 3000 hexagonal tiles. Approximately, how many triangular tiles will she need? A) 1000 B) 1500 C) 3000 D) 6000 E) 9000 A B 10 m ? 16 18 24
+> Tiziana is planning to cover a large rectangular floor with tiles arranged according to a repeating pattern. She will use hexagonal and triangular tiles placed side by side as shown in the figure. For the job, Tiziana expects to use 3000 hexagonal tiles. Approximately how many triangular tiles will she need?
+> A) 1000  
+> B) 1500  
+> C) 3000  
+> D) 6000  
+> E) 9000 
+> A B 10 m ? 16 18 24
 >
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet#q19|src_kangourou_2024_cadet__Q19]]
 
 
 
@@ -1009,19 +1131,26 @@ Maximum number of children in an elevator with 9 adults
 <div class="qlang-split" data-lang="en"></div>
 
 
-Which card remains on the table from Ada's statements.
+*Which card remains on the table from Ada..Dina's statements?*
 
-> Nine cards numbered 1 to 9 were placed face down on the table. Ada, Bea, Cloe and Dinah each took two of these cards. Ada says, "The sum of my numbers is 6". Bea says, "The difference between my numbers is 5". Cloe says, "The product of my numbers is 18". Dina says, "One of my numbers is twice the other". All four statements are true. What number is left on the table? A) 1
->  
-> B) 3
->  
-> C) 6
->  
-> D) 8
->  
-> E) 9 Questions from N. 21 to N. 30 are worth 5 points each.
+> Nine numbered cards from 1 to 9 were placed face down on the table. Ada, Bea, Cloe, and Dina each took two of these cards. Ada says, "The sum of my numbers is 6." Bea says, "The difference between my numbers is 5." Cloe says, "The product of my numbers is 18." Dina says, "One of my numbers is twice the other." All four statements are true. Which number was left on the table?
+> A) 1 
+>
+> B) 3 
+>
+> C) 6 
+>
+> D) 8 
+>
+> E) 9
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_cadet#q20|src_kangourou_2024_cadet__Q20]]
 
 
 
@@ -1058,21 +1187,26 @@ Which card remains on the table from Ada's statements.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of three digits with 5 horizontal and 10 vertical lines*
+*A three-digit sum with 5 horizontal strokes and 10 vertical strokes*
 
 ![[src_kangourou_2024_cadet__prob21.png]]
 
-> The figure shows how to write the digits from 0 to 9 using horizontal and vertical lines. Gioia chooses three different digits: in total her digits have 5 horizontal and 10 vertical lines. How much is the sum of these three digits? A) 9
->  
-> B) 10
->  
-> C) 14
->  
-> D) 18
->  
+> The figure shows how to write the digits from 0 to 9 using horizontal and vertical strokes. Gioia chooses three different digits: in total, her digits have 5 horizontal strokes and 10 vertical strokes. What is the sum of these three digits?
+> A) 9 
+>
+> B) 10 
+>
+> C) 14 
+>
+> D) 18 
+>
 > E) 19
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_cadet#q21|src_kangourou_2024_cadet__Q21]]
 
 
 
@@ -1119,7 +1253,7 @@ Which card remains on the table from Ada's statements.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to blacken two squares for a single axis*
+*In how many ways can two small squares be darkened along a single axis?*
 
 ![[src_kangourou_2024_cadet__prob22.png]]
 
@@ -1133,17 +1267,23 @@ Which card remains on the table from Ada's statements.
 \end{document}
 ```
 
-> Orlando wants to blacken two more squares in the drawing alongside so that the resulting overall figure (not just the one formed by the black squares) has a single axis of symmetry. How many different ways can Orlando complete the drawing? A) 2
->  
-> B) 3
->  
-> C) 4
->  
-> D) 5
->  
+> Orlando wants to blacken two more small squares in the drawing beside it so that the overall figure obtained (not just the one formed by the black squares) has a single axis of symmetry. In how many different ways can Orlando complete the drawing?
+> A) 2 
+>
+> B) 3 
+>
+> C) 4 
+>
+> D) 5 
+>
 > E) 6
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet#q22|src_kangourou_2024_cadet__Q22]]
 
 
 
@@ -1182,19 +1322,25 @@ Which card remains on the table from Ada's statements.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the rectangle with three tangent semicircles*
+*Perimeter of a rectangle with three tangent semicircles*
 
 ![[src_kangourou_2024_cadet__prob23.png]]
 
-> The drawing represents three semicircles with diameters on one side of a rectangle. The semicircle of the intermediate radius is tangent to the other two and each of the latter is tangent to one of the two smaller sides of the rectangle. Furthermore, the semicircle of the major radius is tangent to the major side as well, while the minimum distances of the other two from that side of the rectangle are 5 cm and 7 cm, as shown. If the length of the major side is 36 cm, how many centimeters does the perimeter of the rectangle measure? A) 82
->  
-> B) 92
->  
-> C) 96
->  
-> D) 108 E) 120
+> The drawing shows three semicircles whose diameters lie on one side of a rectangle. The semicircle with the intermediate radius is tangent to the other two, and each of the latter is tangent to one of the two shorter sides of the rectangle. Furthermore, the semicircle with the larger radius is also tangent to the longer side, while the shortest distances from the other two semicircles to that side of the rectangle are 5 cm and 7 cm, as shown. If the length of the longer side is 36 cm, how many centimeters is the perimeter of the rectangle?
+> A) 82 
+>
+> B) 92 
+>
+> C) 96 
+>
+> D) 108  
+> E) 120
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet#q23|src_kangourou_2024_cadet__Q23]]
 
 
 
@@ -1230,19 +1376,25 @@ Which card remains on the table from Ada's statements.
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many kangaroos never got the ball (50, jump 6)
+*How many kangaroos have never caught the ball (50, jump 6)*
 
-> A group of 50 kangaroos is in a circle playing with a ball like this. Whoever receives the ball throws the ball to the sixth kangaroo after him in a counterclockwise direction, who takes it and releases it with the same pattern. Kangaroo Flower has now taken the ball for the 100th time. How many kangaroos have never caught the ball? A) 0
->  
-> B) 8
->  
-> C) 10
->  
-> D) 25
->  
+> A group of 50 kangaroos stands in a circle and plays with a ball as follows: whoever receives the ball throws it to the sixth kangaroo after them in a counterclockwise direction; that kangaroo catches it and throws it back using the same pattern. Kangaroo Fiore has now caught the ball for the 100th time. At this moment, how many kangaroos have never caught the ball?
+> A) 0 
+>
+> B) 8 
+>
+> C) 10 
+>
+> D) 25 
+>
 > E) 40
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_cadet#q24|src_kangourou_2024_cadet__Q24]]
 
 
 
@@ -1297,7 +1449,7 @@ How many kangaroos never got the ball (50, jump 6)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to choose n in the product diagram (720)*
+*In how many ways can n be chosen in the product diagram (720)?*
 
 ![[src_kangourou_2024_cadet__prob25.png]]
 
@@ -1314,18 +1466,25 @@ How many kangaroos never got the ball (50, jump 6)
 \end{document}
 ```
 
-> Note the figure: under each box A of the first and second row (from above) there are two boxes, B and C. Daniel wants to insert a number in each box of the diagram so that each box A contains the product of the numbers contained in the corresponding boxes B and C. In particular, he wants the box in the first row to contain 720. In how many different ways can he choose the number n ? A) 1
->  
-> B) 4
->  
-> C) 5
->  
-> D) 6
->  
-> E) 8 n 720
+> Observe the figure: below each box A in the first and second rows (from the top), there are two boxes, B and C. Daniele wants to put a number in each box of the diagram so that each box A contains the product of the numbers in the corresponding boxes B and C. In particular, he wants the box in the first row to contain 720. In how many different ways can he choose the number n?
+> A) 1 
+>
+> B) 4 
+>
+> C) 5 
+>
+> D) 6 
+>
+> E) 8
+> n 720
 >
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_cadet#q25|src_kangourou_2024_cadet__Q25]]
 
 
 
@@ -1361,19 +1520,25 @@ How many kangaroos never got the ball (50, jump 6)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many eggs the customer has purchased (double pigeon chicken)*
+*How many eggs did the customer buy (hen double pigeon)?*
 
-> Marianna brings chicken eggs and pigeon eggs to the market. She placed them, without distinction, in baskets containing 4, 6, 12, 13, 22 and 29 eggs. Her first customer buys all the eggs in a basket. Marianna observes that, in this way, she was left with twice as many chicken eggs as the number of pigeon eggs. How many eggs did the customer buy? A) 4
->  
-> B) 12
->  
-> C) 13
->  
-> D) 22
->  
+> Marianna brings chicken eggs and pigeon eggs to the market. She has placed them, without distinction, in baskets holding 4, 6, 12, 13, 22, and 29 eggs. Her first customer buys all the eggs in one basket. Marianna notes that, in this way, she is left with twice as many chicken eggs as pigeon eggs. How many eggs did the customer buy?
+> A) 4 
+>
+> B) 12 
+>
+> C) 13 
+>
+> D) 22 
+>
 > E) 29
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_cadet#q26|src_kangourou_2024_cadet__Q26]]
 
 
 
@@ -1409,21 +1574,27 @@ How many kangaroos never got the ball (50, jump 6)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of alpha+beta+gamma angles on square paper*
+*Sum of angles alpha + beta + gamma on graph paper*
 
 ![[src_kangourou_2024_cadet__prob27.png]]
 
-> I drew on a square sheet of paper the three angles highlighted in the figure. If their measurements in degrees are in the order α, β and γ, what is the sum of α + β + γ? A) 60
->  
-> B) 70
->  
-> C) 75
->  
-> D) 90
->  
+> On a sheet of graph paper, I drew the three angles highlighted in the figure. If their measures in degrees are α, β, and γ in that order, what is the value of α + β + γ?
+> A) 60 
+>
+> B) 70 
+>
+> C) 75 
+>
+> D) 90 
+>
 > E) 105
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet#q27|src_kangourou_2024_cadet__Q27]]
 
 
 
@@ -1459,13 +1630,22 @@ How many kangaroos never got the ball (50, jump 6)
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who wrote the truth on the parchment (30 coins)
+*Who wrote the truth on the parchment (30 coins)*
 
 ![[src_kangourou_2024_cadet__prob28.png]]
 
-> Captain Flint has asked four of his pirates to write on a parchment how many of the 30 coins in the treasure trunk are gold, how many are silver, and how many are bronze. In the figure, you see the scroll torn apart with only one part of each one's answers. It is known that only one pirate wrote the truth on the scroll, while the other three wrote the false in each of the three entries. Is it possible to determine with certainty who wrote the truth and if so who is it? A) Yes, Tom. B) Yes, Al. C) Yes, Pit. D) Yes, Jim. E) It cannot be established with certainty.
+> Captain Flint asked four of his pirates to write on a parchment how many of the 30 coins in the treasure chest are gold, how many are silver, and how many are bronze. In the figure, you can see the torn parchment, with only part of each pirate's answers. It is known that only one pirate wrote the truth on the parchment, while the other three wrote falsehoods in each of the three entries. Is it possible to determine with certainty who wrote the truth, and if so, who that person is?
+> A) Yes, Tom.
+> B) Yes, Al.
+> C) Yes, Pit.
+> D) Yes, Jim.
+> E) It is not possible to determine this with certainty.
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_cadet#q28|src_kangourou_2024_cadet__Q28]]
 
 
 
@@ -1502,19 +1682,24 @@ Who wrote the truth on the parchment (30 coins)
 <div class="qlang-split" data-lang="en"></div>
 
 
-When Claudius and Leo meet for the second time
+*When Claudio and Leone meet for the second time*
 
-> Claudius and Leo travel on the same road: Claudius goes from point A to point B of the road and then immediately returns to A; Leo goes from point B to point A of the road and then immediately returns to B. Both depart at the same instant and travel at a constant speed, but Claudius's speed is three times Leo's. Claudius and Leo find themselves at the same point on the road for the first time, 15 minutes after departure. How many minutes after the departure will this happen a second time? A) 20
->  
-> B) 25
->  
-> C) 30
->  
-> D) 35
->  
+> Claudio and Leone travel along the same road: Claudio goes from point A to point B on the road and then immediately returns to A; Leone goes from point B to point A on the road and then immediately returns to B. Both start at the same instant and travel at a constant speed, but Claudio's speed is three times Leone's speed. Claudio and Leone are at the same point on the road, for the first time, 15 minutes after they start. How many minutes after they start will this happen for the second time?
+> A) 20 
+>
+> B) 25 
+>
+> C) 30 
+>
+> D) 35 
+>
 > E) 45
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_cadet#q29|src_kangourou_2024_cadet__Q29]]
 
 
 
@@ -1567,20 +1752,26 @@ When Claudius and Leo meet for the second time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the pentagon with regions of the given area*
+*Area of the pentagon with regions of given area*
 
 ![[src_kangourou_2024_cadet__prob30.png]]
 
-> In the figure you see an ABCDE pentagon where the two sides AE and BC and the two sides CD and DE are congruent, while the two EAB and ABC angles are straight. On the AB side four points are marked which divide the side into five congruent segments and any other segment that has an end in one of those points is perpendicular to AB. The dark region has an area of 13 cm2, the light gray region has an area of 10 cm2. How many square centimetres does the area of the pentagon measure? A) 45
->  
-> B) 47
->  
-> C) 49
->  
-> D) 58
->  
-> E) 60 α β γ Gold Silver Bronze A B C D E
-> 
+> In the figure, you see a pentagon ABCDE in which the two sides AE and BC are congruent, and the two sides CD and DE are congruent, while the two angles EAB and ABC are right angles. On side AB, four points are marked, dividing the side into five congruent segments, and every other segment whose one endpoint lies at one of these points is perpendicular to AB. The dark region has an area of 13 cm², and the light gray region has an area of 10 cm². What is the area of the pentagon in square centimeters?
+> A) 45 
+>
+> B) 47 
+>
+> C) 49 
+>
+> D) 58 
+>
+> E) 60
+> α β γ Gold Silver Bronze A B C D E
+>
 > 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet#q30|src_kangourou_2024_cadet__Q30]]

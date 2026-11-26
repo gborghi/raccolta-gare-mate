@@ -33,9 +33,16 @@ level: INMO
 
 *Esistenza e unicità della condizione di divisibilità per s+j*
 
-> (a) Indicare che, per ogni intero positivo $n$, esistono diversi interi positivi $x$ e $y$ in modo tale che $x + j$ divida $y + j$ per $j = 1, 2, \ldots, n$.
-> 
-> b) Se per alcuni integri positivi $x$ e $y$, $x + j$ divide $y + j$ per tutti gli integri positivi $j$, indicare che $x = y$.
+> (a) Dimostrare che, per ogni intero positivo $n$, esistono interi positivi distinti $x$ e $y$ tali che $x + j$ divide $y + j$ per $j = 1, 2, \ldots, n$.
+>
+> (b) Se per alcuni interi positivi $x$ e $y$, $x + j$ divide $y + j$ per tutti gli interi positivi $j$, dimostrare che $x = y$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_1996#q01|src_inmo_1996__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circoli concentrici C1, C2 con radii R e 3R; ortocentri*
+*Cerchi concentrici C1, C2 con raggi R e 3R; ortocentri*
 
-> Si tratta di due cerchi concentrici nel piano con radii $R$ e $3R$ rispettivamente. Indicare che l'ortocentro di qualsiasi triangolo inserito in $C_1$ si trova all'interno di $C_2$. Al contrario, mostrare che ogni punto all'interno di $C_2$ è l'ortocentro di un triangolo inciso in $C_1$.
+> Siano $C_1$ e $C_2$ due cerchi concentrici nel piano, con raggi rispettivamente pari a $R$ e $3R$. Dimostrare che l'ortocentro di ogni triangolo inscritto in $C_1$ giace nell'interno di $C_2$. Viceversa, dimostrare che ogni punto nell'interno di $C_2$ è l'ortocentro di qualche triangolo inscritto in $C_1$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1996#q02|src_inmo_1996__Q02]]
 
 
 
@@ -85,9 +99,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi sistema ciclico di quattro equazioni cubiche in a,b,c,d,e*
+*Risolvi il sistema ciclico di quattro equazioni cubiche in a, b, c, d, e*
 
-> Risolvere in numeri reali $a, b, c, d, e$ il seguente sistema di equazioni: $$3a = (b + c + d)^3, \quad 3b = (c + d + e)^3, \quad 3c = (d + e + a)^3,$$ $$3d = (e + a + b)^3.$$
+> Risolvere nei numeri reali $a, b, c, d, e$ il seguente sistema di equazioni:
+> $$3a = (b + c + d)^3, \quad 3b = (c + d + e)^3, \quad 3c = (d + e + a)^3,$$
+> $$3d = (e + a + b)^3.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1996#q03|src_inmo_1996__Q03]]
 
 
 
@@ -110,9 +133,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i tripli ordinati (A,B,C) dei sottogruppi con A⊂B⊂C del set di n-elementi*
+*Terne ordinate di sottoinsiemi A ⊂ B ⊂ C di un insieme di n elementi*
 
-> Trova il numero di triples ordinati $(A, B, C)$ di sottoinsiemi di un dato set $n$-elemento $X$ in modo tale che $A \subset B \subset C$.
+> Trovare il numero di terne ordinate $(A, B, C)$ di sottoinsiemi di un dato insieme $X$ di $n$ elementi tali che $A \subset B \subset C$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_inmo_1996#q04|src_inmo_1996__Q04]]
 
 
 
@@ -137,9 +167,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con a_{n+2}=2a_{n+1}-a_n+2; dimostra a_{4m+2} è un termine*
+*Successione con a_{n+2}=2a_{n+1}-a_n+2; dimostrare che a_{4m+2} è un termine*
 
-> La sequenza $(a_n)_{n \ge 1}$ è definita da $a_1 = 1$, $a_2 = 2$ e $$a_{n+2} = 2a_{n+1} - a_n + 2 \quad \text{for } n \ge 1.$$ Prove che per qualsiasi $m$, $a_{4m+2}$ è anche un termine della sequenza.
+> La successione $(a_n)_{n \ge 1}$ è definita da $a_1 = 1$, $a_2 = 2$ e
+> $$a_{n+2} = 2a_{n+1} - a_n + 2 \quad \text{for } n \ge 1.$$
+> Dimostrare che, per ogni $m$, anche $a_{4m+2}$ è un termine della successione.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1996#q05|src_inmo_1996__Q05]]
 
 
 
@@ -162,6 +201,13 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2n×2n array binario con 5n zero; rimuovere n righe e n colonne per rimuovere tutti i zero*
+*Array binario 2n×2n con 5n zeri; elimina n righe e n colonne per rimuovere tutti gli zeri*
 
-> Data una serie di 0 e 1 $2n \times 2n$ contenenti esattamente 0 $5n$, mostrare che è possibile rimuovere tutti gli zero eliminando alcune righe $n$ e colonne $n$.
+> Dato un array $2n \times 2n$ di 0 e 1 che contiene esattamente $5n$ zeri, dimostrare che è possibile rimuovere tutti gli zeri cancellando alcune $n$ righe e $n$ colonne.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_1996#q06|src_inmo_1996__Q06]]

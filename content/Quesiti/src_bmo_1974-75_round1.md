@@ -31,9 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi la somma del pavimento delle radici quadrate pari a 400*
+*Risolvere l'equazione con le parti intere, e dimostrare che la soluzione è completa*
 
-> Dato che $x$ è un intero positivo risolvere $$[\sqrt{1}] + [\sqrt{2}] + \ldots + [\sqrt{x^2-1}] = 400$$ (dove $[z]$ significa la parte integrale di $z$) e dimostrare la soluzione è completa.
+> Sapendo che $x$ è un intero positivo, risolvere
+> $$[\sqrt{1}] + [\sqrt{2}] + \ldots + [\sqrt{x^2-1}] = 400$$
+> (dove $[z]$ indica la parte intera di $z$) e dimostrare che la soluzione è completa.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1974-75_round1#q01|src_bmo_1974-75_round1__Q01]]
 
 
 
@@ -60,13 +69,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il divisore di differenza dei prodotti di primo set è 1 o almeno p_n*
+*Se $d$ divide la differenza dei due prodotti, allora $d = 1$ oppure $d \ge p_n$*
 
-> I primi numeri primi $n$, $2, 3, 5, \ldots, p_n$ sono suddivisi in due gruppi disconnessi $A$ e $B$. I primi di $A$ sono $\alpha_1, \alpha_2, \ldots, \alpha_h$ e i primi di $B$ sono $\beta_1, \beta_2, \ldots, \beta_k$, dove $h + k = n$.
-> 
-> I due prodotti $\displaystyle\prod_{1}^{h} \alpha_i^{a_i}$ e $\displaystyle\prod_{1}^{k} \beta_i^{b_i}$ si formano quando $a_i$ e $\beta_i$ sono numeri interi positivi.
-> 
-> Se $d$ divide la differenza tra questi prodotti, indicare che $d = 1$ o $d \ge p_n$.
+> I primi $n$ numeri primi, $2, 3, 5, \ldots, p_n$, sono ripartiti in due insiemi disgiunti $A$ e $B$. I primi in $A$ sono $\alpha_1, \alpha_2, \ldots, \alpha_h$ e i primi in $B$ sono $\beta_1, \beta_2, \ldots, \beta_k$, dove $h + k = n$.
+>
+> Si formano i due prodotti $\displaystyle\prod_{1}^{h} \alpha_i^{a_i}$ e $\displaystyle\prod_{1}^{k} \beta_i^{b_i}$, dove gli $a_i$ e i $\beta_i$ sono interi positivi qualunque.
+>
+> Se $d$ divide la differenza fra questi prodotti, dimostrare che o $d = 1$ oppure $d \ge p_n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1974-75_round1#q02|src_bmo_1974-75_round1__Q02]]
 
 
 
@@ -93,13 +109,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Buco di piccione: 7 punti a distanza reciproca nell'unità di forza del disco uno al centro*
+*Se nel disco ci sono $7$ punti a distanza almeno $1$, uno di essi è $O$*
 
-> Utilizzare il principio del buco di piccione (cioè: se più di $n$ oggetti sono inseriti in $n$ fori di piccione, allora almeno un foro di piccione deve contenere più di un oggetto) per rispondere alla seguente domanda.
-> 
-> Un disco $S$ è definito come l'insieme di tutti i punti $P$ in un piano tale che $[OP] \le 1$, dove $[OP]$ è la distanza di $P$ da $O$, un dato punto del piano, chiamato centro del disco.
-> 
-> Prova che se il disco $S$ contiene punti $7$ in modo tale che la distanza da uno dei punti $7$ a un altro punto sia superiore o pari a $1$, allora uno dei punti $7$ è $O$.
+> Usare il principio dei cassetti (cioè: se più di $n$ oggetti sono messi in $n$ cassetti, allora almeno un cassetto deve contenerne più di uno) per rispondere alla domanda seguente.
+>
+> Un disco $S$ è definito come l'insieme di tutti i punti $P$ di un piano tali che $[OP] \le 1$, dove $[OP]$ è la distanza di $P$ da $O$, un punto dato del piano, detto centro del disco.
+>
+> Dimostrare che se il disco $S$ contiene $7$ punti tali che la distanza da uno qualunque dei $7$ punti a un altro qualunque è maggiore o uguale a $1$, allora uno dei $7$ punti è $O$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometria]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1974-75_round1#q03|src_bmo_1974-75_round1__Q03]]
 
 
 
@@ -124,11 +147,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti collineari che dividono ceviani paralleli in rapporto k:1; trovare k*
+*Il valore di $k$ se $P$, $Q$, $R$ sono allineati*
 
-> Tre linee parallele $AD$, $BE$ e $CF$ sono tracciate attraverso le vertici del triangolo $ABC$ che si incontrano sui lati opposti rispettivamente in $D$, $E$ e $F$.
-> 
-> I punti $P$, $Q$, $R$ dividono $AD$, $BE$, $CF$ rispettivamente nello stesso rapporto $k:1$ e $P$, $Q$, $R$ sono collineari. Trova il valore di $k$.
+> Tre rette parallele $AD$, $BE$, $CF$ sono tracciate per i vertici del triangolo $ABC$ e incontrano i lati opposti rispettivamente in $D$, $E$, $F$.
+>
+> I punti $P$, $Q$, $R$ dividono rispettivamente $AD$, $BE$, $CF$ nello stesso rapporto $k:1$ e $P$, $Q$, $R$ sono allineati. Trovare il valore di $k$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1974-75_round1#q04|src_bmo_1974-75_round1__Q04]]
 
 
 
@@ -156,9 +186,21 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca a così il limite di g(a)/f(a) è uguale a 1/2*
+*I valori di $a$ per cui quel limite vale $\frac{1}{2}$*
 
-> Per ogni intero positivo $m$ viene data quella $$1 + \binom{2m}{1}\cos\theta + \binom{2m}{2}\cos 2\theta + \ldots + \cos 2m\theta = \left(2\cos\tfrac{1}{2}\theta\right)^{2m}\cos m\theta$$ dove ci sono termini $2m+1$ sul lato sinistro. La funzione $f(\theta)$ è definita da una di queste espressioni. La funzione $g(\theta)$ è definita da $$g(\theta) = 1 + \binom{2m}{1}\cos 2\theta + \binom{2m}{2}\cos 4\theta + \ldots + \cos 2m\theta.$$ Dato che non esiste un $k$ razionale per il quale $a = k\pi$ trova i valori di $a$ per il quale $$\lim_{m \to \infty} \frac{g(a)}{f(a)} = \frac{1}{2}.$$
+> Per ogni intero positivo $m$ è dato
+> $$1 + \binom{2m}{1}\cos\theta + \binom{2m}{2}\cos 2\theta + \ldots + \cos 2m\theta = \left(2\cos\tfrac{1}{2}\theta\right)^{2m}\cos m\theta$$
+> dove a primo membro ci sono $2m+1$ termini. La funzione $f(\theta)$ è definita da una qualunque di queste espressioni. La funzione $g(\theta)$ è definita da
+> $$g(\theta) = 1 + \binom{2m}{1}\cos 2\theta + \binom{2m}{2}\cos 4\theta + \ldots + \cos 2m\theta.$$
+> Sapendo che non esiste un razionale $k$ per cui $a = k\pi$, trovare i valori di $a$ per cui
+> $$\lim_{m \to \infty} \frac{g(a)}{f(a)} = \frac{1}{2}.$$
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1974-75_round1#q05|src_bmo_1974-75_round1__Q05]]
 
 
 
@@ -182,9 +224,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove una disuguaglianza tra due funzioni razionali di x e y*
+*Una disuguaglianza fra rapporti, se $x > y > 1$*
 
-> Prova che se $n$ è un numero intero superiore a $1$ e $x > y > 1$, allora $$\frac{x^{n+1}-1}{x(x^{n-1}-1)} > \frac{y^{n+1}-1}{y(y^{n-1}-1)}.$$
+> Dimostrare che se $n$ è un intero maggiore di $1$ e $x > y > 1$, allora
+> $$\frac{x^{n+1}-1}{x(x^{n-1}-1)} > \frac{y^{n+1}-1}{y(y^{n-1}-1)}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1974-75_round1#q06|src_bmo_1974-75_round1__Q06]]
 
 
 
@@ -208,9 +258,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove l'unicità dei reali che soddisfano un'identità di somma di quadrati*
+*Un solo insieme di numeri reali soddisfa quell'uguaglianza*
 
-> Prove che esiste solo un insieme di numeri reali $x_1, x_2, \ldots, x_n$ tale che $$(1-x_1)^2 + (x_1-x_2)^2 + \ldots + (x_{n-1}-x_n)^2 + x_n^2 = \frac{1}{n+1}.$$
+> Dimostrare che esiste un solo insieme di numeri reali $x_1, x_2, \ldots, x_n$ tale che
+> $$(1-x_1)^2 + (x_1-x_2)^2 + \ldots + (x_{n-1}-x_n)^2 + x_n^2 = \frac{1}{n+1}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_telescoping|Metodo telescopico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1974-75_round1#q07|src_bmo_1974-75_round1__Q07]]
 
 
 
@@ -233,6 +291,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fraczione di vetro di vino conico occupato dall'acqua quando inclinato*
+*Che frazione del cono è occupata dall'acqua quando il piano orizzontale biseca la generatrice più lontana da $P$*
 
-> L'interno di un bicchiere di vino è un cono a destra circolare. Il bicchiere è a metà riempito di acqua e poi lentamente inclinato in modo che l'acqua inizi e continui a scorrere da un punto $P$ sul bordo. Quale frazione dell'intero interno conico è occupata dall'acqua quando il piano orizzontale del livello dell'acqua divide il generatore del cono più lontano da $P$?
+> L'interno di un bicchiere da vino è un cono circolare retto. Il bicchiere è riempito a metà d'acqua e poi inclinato lentamente in modo che l'acqua cominci e continui a versarsi da un punto $P$ del bordo. Che frazione dell'intero interno conico è occupata dall'acqua quando il piano orizzontale del livello dell'acqua biseca la generatrice del cono più lontana da $P$?
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1974-75_round1#q08|src_bmo_1974-75_round1__Q08]]

@@ -29,11 +29,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many apples from packages with 9 total oranges*
+*How many apples were bought in all*
 
-> In one store, fruit packages of two types are on sale: packages of 2 oranges and 4 apples each and packages of 5 oranges and 3 apples each. After I bought some packages at that store, I find myself with nine oranges in all. How many apples have I bought in total?
+> In a shop, fruit packs of two types are on sale: packs each made of 2 oranges and 4 apples, and packs each made of 5 oranges and 3 apples. After buying some packs in that shop, I find I have 9 oranges in all. How many apples did I buy in all?
 
-**Answer:** 11 apples
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Answer:** 11 mele
+[[Quesiti/src_kangourou_2003_ecolier_finale#qe1|src_kangourou_2003_ecolier_finale__QE1]]
 
 
 
@@ -56,11 +59,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of pens in class with constraints*
+*How many pens there are in that class*
 
-> A class is made up of 23 children. Some of them have only one pen, others two pens and the remaining three pens. The children who have one pen are as many as those who have three. Finally, the teacher has five pens. How many pens are in that class?
+> A class consists of 23 children. Some of them own only one pen, others two pens, and the rest 3 pens. The children who own only one pen are as many as those who own three. Finally the teacher owns 5 pens. How many pens are there in that class?
 
-**Answer:** 51 pens
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Answer:** 51 penne
+[[Quesiti/src_kangourou_2003_ecolier_finale#qe2|src_kangourou_2003_ecolier_finale__QE2]]
 
 
 
@@ -83,11 +89,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number corresponding to R in inequalities*
+*Which number corresponds to the letter R*
 
-> In inequalities $A<B>R>A>C<A>D<A<B>R>A$ with a different letter, an odd number of a single different digit corresponds, while the same letter always denotes the same number ($A<B$ means that the number $A$ is less than the number $B$, $B>R$ means that the number $B$ is greater than the number $R$). What number corresponds to the letter $R$?
+> In the inequalities $A<B>R>A>C<A>D<A<B>R>A$, different letters correspond to different one-digit odd numbers, while the same letter always denotes the same number ($A<B$ means that the number $A$ is less than the number $B$, $B>R$ means that the number $B$ is greater than the number $R$). Which number corresponds to the letter $R$?
 
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** R=7
+[[Quesiti/src_kangourou_2003_ecolier_finale#qe3|src_kangourou_2003_ecolier_finale__QE3]]
 
 
 
@@ -111,11 +120,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Occurring weights by weight and weights 1,2,5,10*
+*The possible weights one can measure exactly*
 
-> We have a two-plate scale and a set of weights comprising only one weight for each of these sizes, in grams: $1, 2, 5, 10$. What are the possible weights for an object that we can weigh exactly with our own scales?
+> We have a two-pan balance and a set of weights comprising only one weight of each of these sizes, in grams: $1, 2, 5, 10$. What are the possible weights of an object that we can weigh exactly with our balance?
 
-**Answer:** integers 1..18
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Answer:** interi 1..18
+[[Quesiti/src_kangourou_2003_ecolier_finale#qe4|src_kangourou_2003_ecolier_finale__QE4]]
 
 
 
@@ -155,7 +168,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Insert 1..9, with sums of 20 around the vertices*
+*The remaining numbers in the square of nine squares*
 
 ![[src_kangourou_2003_ecolier_finale__probe5.png]]
 
@@ -173,9 +186,13 @@ level: kangourou
 \end{document}
 ```
 
-> The figure you're going to get is a square obtained by placing 9 smaller squares side by side. You must enter all the numbers from $1$ to $9$, one for each square, so that the sum of the four numbers surrounding each of the inner vertices, marked with a black ball, is $20$. As you can see, the numbers $3$ and $5$ have already been placed: enter the remaining ones. (see figure)
+> The figure you are given shows a square obtained by placing 9 smaller squares side by side. You must enter all the numbers from $1$ to $9$, one in each square, so that the sum of the four numbers surrounding each of the interior vertices, marked with a black dot, equals $20$. As you can see, the numbers $3$ and $5$ have already been placed: enter the remaining ones. (see the figure)
 
-**Answer:** two solutions
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Answer:** due soluzioni
+[[Quesiti/src_kangourou_2003_ecolier_finale#qe5|src_kangourou_2003_ecolier_finale__QE5]]
 
 
 
@@ -218,7 +235,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of paths from P to Q (downwards)*
+*How many paths there are from P to Q*
 
 ![[src_kangourou_2003_ecolier_finale__probe6.png]]
 
@@ -239,6 +256,10 @@ level: kangourou
 \end{document}
 ```
 
-> Look at the figure. You can move from $P$ to $Q$ only by following the lines drawn and only by moving from top to bottom. How many possible routes are there to go from $P$ to $Q$? (see figure)
+> Look at the figure. One can move from $P$ to $Q$ only by following the lines drawn, and only by moving from top to bottom. How many possible paths are there to go from $P$ to $Q$? (see the figure)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** 20
+[[Quesiti/src_kangourou_2003_ecolier_finale#qe6|src_kangourou_2003_ecolier_finale__QE6]]

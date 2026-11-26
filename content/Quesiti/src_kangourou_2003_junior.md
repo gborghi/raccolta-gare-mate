@@ -40,13 +40,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grades of the angle of the slice (15%)*
+*How many degrees the marked angle is*
 
 ![[src_kangourou_2003_junior__prob1.png]]
 
-> From a circular cake a slice of the type indicated in the figure is cut (naturally the "vertex" of the slice is at the "center" of the cake). Knowing that the slice represents 15% of the entire cake, how many degrees is the angle indicated by the question mark? A) 30° B) 45° C) 54° D) 15° E) 20°
+> From a circular cake a slice of the kind shown in the figure is cut (of course the "vertex" of the slice is at the "centre" of the cake). Given that the slice is 15% of the whole cake, how many degrees is the angle marked with the question mark?
+> A) 30°
+> B) 45°
+> C) 54°
+> D) 15°
+> E) 20°
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_junior#q01|src_kangourou_2003_junior__Q01]]
 
 
 
@@ -73,15 +81,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diameter of the second flowerbed with four times the area*
+*The diameter of the second flowerbed*
 
-> A circular flowerbed has a diameter of 1.2 m and nearby there is another circular flowerbed whose area is 4 times the area of the first flowerbed. What is the diameter of this second flowerbed?
-> A)  2.4 m
-> B)  3.6 m
-> C)  4.8 m
-> D)  6.4 m       E)  9.6 m
+> A circular flowerbed has a diameter of 1.2 m, and nearby there is another circular flowerbed whose area is 4 times the area of the first flowerbed. What is the diameter of this second flowerbed?
+> A) 2.4 m
+> B) 3.6 m
+> C) 4.8 m
+> D) 6.4 m
+> E) 9.6 m
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_junior#q02|src_kangourou_2003_junior__Q02]]
 
 
 
@@ -131,7 +143,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which strip has a larger area*
+*Which strip has the greater area*
 
 ![[src_kangourou_2003_junior__prob3.png]]
 
@@ -153,9 +165,17 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure three strips are indicated, all having the same horizontal width equal to a. The two lines r and s that delimit these strips are parallel. Which strip has larger area? A) The strips have the same area B) The strip 1 C) The strip 2 D) The strip 3 E) You cannot answer if you do not know a
+> In the figure three strips are shown, all having the same horizontal width equal to "a". The two lines "r" and "s" that bound these strips are parallel. Which strip has the greater area?
+> A) The strips have the same area
+> B) Strip 1
+> C) Strip 2
+> D) Strip 3
+> E) It is not possible to answer unless one knows "a"
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_junior#q03|src_kangourou_2003_junior__Q03]]
 
 
 
@@ -183,11 +203,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the odd number for each integer n*
+*Which number is odd for every integer n*
 
-> Which of the following numbers is odd, whatever the integer n is? A) 2003n B) n2 + 2003 C)  n3 D) n + 2004      E) 2n2 + 2003
+> Which of the following numbers is odd whatever the integer n?
+> A) 2003n
+> B) n2 + 2003
+> C) n3
+> D) n + 2004
+> E) 2n2 + 2003
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_junior#q04|src_kangourou_2003_junior__Q04]]
 
 
 
@@ -228,14 +257,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Type of triangle with angles x,2x,3x*
+*What kind of triangle ABC is*
 
-> In a triangle ABC the angle at C is three times the angle at A and the angle at B
-> is twice the angle at A. Then the triangle ABC is
+> In a triangle ABC the angle at C is three times the angle at A, and the angle at B is twice the angle at A. Then triangle ABC is
 > A) equilateral
-> B) isosceles but not equilateral  
+> B) isosceles but not equilateral
 > C) obtuse
-> D) right
+> D) right-angled
 > E) acute but not equilateral
 > r
 > s
@@ -243,14 +271,17 @@ level: kangourou
 > a
 > a
 > 15%
-> 
-> Pag. 
-> Pag. 23
+>
+> Page
+> Page 23
 > 23
 > Kang 2003
 > Kang 2003
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_junior#q05|src_kangourou_2003_junior__Q05]]
 
 
 
@@ -281,11 +312,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time fraction in which the three sing together*
+*The fraction of the singing time when all three sing together*
 
-> Three singers are to sing a canon made up of three lines of the same length and each one ends when they have sung the piece four times. The second singer begins when the first singer begins the second line and the third begins when the first begins the third line. How much of the total singing time is the time the three singers sing simultaneously? A) 3/5 B) 4/5 C) 4/7 D) 5/7 E) 7/11
+> Three singers must sing a round made of three lines of the same length, and each finishes when he has sung the piece 4 times. The second singer starts when the first singer starts the second line, and the third starts when the first starts the third line. What fraction of the total singing time is the time during which the three singers sing at the same time?
+> A) 3/5
+> B) 4/5
+> C) 4/7
+> D) 5/7
+> E) 7/11
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_junior#q06|src_kangourou_2003_junior__Q06]]
 
 
 
@@ -314,11 +353,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tenth term succession (Fibonacci with signs)*
+*The tenth term of the sequence*
 
-> The first two terms of a sequence of numbers are 1 and 2 and each new term is obtained by dividing the term before the previous term by the previous term. What is the tenth term of succession? A) 2-10 B) 256 C) 2-13 D) 1024 E) 234
+> The first two terms of a sequence of numbers are 1 and 2, and every new term is obtained by dividing the term before the previous one by the previous term. What is the tenth term of the sequence?
+> A) 2-10
+> B) 256
+> C) 2-13
+> D) 1024
+> E) 234
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_junior#q07|src_kangourou_2003_junior__Q07]]
 
 
 
@@ -348,13 +396,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure area bounded by elastic (3 circles)*
+*The area of the figure bounded by the elastic band*
 
 ![[src_kangourou_2003_junior__prob8.png]]
 
-> The area of the square in Figure 1 is a; we call b the area of each of the circles in Figures 1 and 2. In Figure 2, the three aligned circles are enclosed by a rubber band. If the elastic is shortened so that it is in tension, without changing the position of the three circles, what is the area of the figure bounded by the elastic? A) 3b B) 2a+b C) a+2b D) 3a E) a+b
+> The area of the square in figure 1 is "a"; we call "b" the area of each of the circles in figures 1 and 2. In figure 2, the three circles in a line are enclosed by an elastic band. If the elastic band is shortened so that it is taut, without changing the position of the three circles, what is the area of the figure bounded by the elastic band?
+> A) 3b
+> B) 2a+b
+> C) a+2b
+> D) 3a
+> E) a+b
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_junior#q08|src_kangourou_2003_junior__Q08]]
 
 
 
@@ -388,13 +444,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which module is the fourth (parallelepiped)*
+*Which module is the fourth*
 
 ![[src_kangourou_2003_junior__prob9.png]]
 
-> Using 4 modules, each made up of 4 cubes, a parallelepiped was constructed as shown in the figure. Three of the four modules are clearly visible while only one face of the fourth (colored black). Which module is the fourth? A) B) C) D) E)
+> Using 4 modules, each formed from 4 little cubes, a parallelepiped has been built as shown in the figure. Three of the four modules are clearly visible, while only one face of the fourth is seen (coloured black). Which module is the fourth?
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_junior#q09|src_kangourou_2003_junior__Q09]]
 
 
 
@@ -437,13 +501,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Digit X in the cryptarithmetic sum XX+YY+ZZ=ZYX*
+*What digit the letter X stands for*
 
-> In the sum shown alongside, each of the letters X,Y,Z represents a non-zero digit. If the three digits are distinct from one another, then
-> the letter X stands for:                                           
+> In the sum shown alongside, each of the letters X, Y, Z stands for a non-zero digit. If the three digits are distinct from one another, then the letter X stands for:
 > A) 1
 > B) 2
-> C) 7    
+> C) 7
 > D) 8
 > E) 9
 > XX
@@ -453,15 +516,18 @@ level: kangourou
 > ZYX
 > fig. 1
 > fig. 2
-> 
-> Pag. 
-> Pag. 24
+>
+> Page
+> Page 24
 > 24
 > Kang 2003
 > Kang 2003
-> Questions from No. 11 to No. 21 are worth 4 points each
+> Questions 11 to 21 are worth 4 points each
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_junior#q10|src_kangourou_2003_junior__Q10]]
 
 
 
@@ -532,7 +598,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PQT triangle area fraction in the rectangle*
+*What fraction of the area of ABCD is taken up by triangle PQT*
 
 ![[src_kangourou_2003_junior__prob11.png]]
 
@@ -574,9 +640,18 @@ level: kangourou
 \end{document}
 ```
 
-> In the rectangle ABCD, P, Q, R and S are the midpoints of the sides, as shown in the figure. If T is the midpoint of the RS segment, what fraction of the area of ABCD is occupied by the PQT triangle? A) 5/16 B) 1/4 C) 1/5 D) 1/6 E) 3/8
+> In the rectangle ABCD let P, Q, R and S be the midpoints of the sides, as shown in the figure. If T is the midpoint of the segment RS, what fraction of the area of ABCD is taken up by triangle PQT?
+> A) 5/16
+> B) 1/4
+> C) 1/5
+> D) 1/6
+> E) 3/8
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_junior#q11|src_kangourou_2003_junior__Q11]]
 
 
 
@@ -606,11 +681,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length travelled at different speeds*
+*The length of the outward journey*
 
-> A kangaroo traveled, never stopping, a round trip in a total of 15 minutes. On the way, the speed was 5 m/s and on the way back, 4 m/s. The length of the one-way journey is A) 4.05 km B) 8.1 km C) 0.9 km D) 2 km E) impossible to determine with this information alone.
+> A kangaroo travelled, without ever stopping, a route made of an outward journey and a return, in a total time of 15 minutes. On the way out the speed was 5 m/s and on the way back 4 m/s. The length of the outward journey alone is
+> A) 4.05 km
+> B) 8.1 km
+> C) 0.9 km
+> D) 2 km
+> E) impossible to determine from this information alone.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_junior#q12|src_kangourou_2003_junior__Q12]]
 
 
 
@@ -639,17 +722,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tray capacity from percentages*
+*How many litres the tub holds when full*
 
-> When a tray is filled except for 30% it contains 30 liters
-> more than when it is filled only to 30%. How many liters does the tray contain when it is full?
+> When a tub is filled except for 30%, it holds 30 litres more than when it is filled only to 30%. How many litres does the tub hold when it is full?
 > A) 60
 > B) 75
 > C) 90
 > D) 100
 > E) 120
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_junior#q13|src_kangourou_2003_junior__Q13]]
 
 
 
@@ -682,11 +767,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max-min multiple difference of 8 from 888*
+*The difference between the two results*
 
-> Anna and Barbara write the three-digit number 888, which is clearly a multiple of 8. Anna changes 2 of the three digits so that she gets the maximum possible number still multiple of 8 and Barbara instead changes two digits of 888 so that she gets the minimum possible number of three digits multiple of 8. What is the difference between the two results? A) 800 B) 840 C) 856 D) 864 E) 904
+> Anna and Barbara write the three-digit number 888, which is clearly a multiple of 8. Anna changes 2 of the three digits so as to obtain the greatest possible number that is still a multiple of 8, while Barbara changes two digits of 888 so as to obtain the smallest possible three-digit number that is a multiple of 8. What is the difference between the two results?
+> A) 800
+> B) 840
+> C) 856
+> D) 864
+> E) 904
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_junior#q14|src_kangourou_2003_junior__Q14]]
 
 
 
@@ -718,13 +812,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between grey and black areas (4 squares)*
+*The difference between the grey region and the black region*
 
 ![[src_kangourou_2003_junior__prob15.png]]
 
-> The figure shows four partially overlapping squares with sides of 11 cm, 9 cm, 7 cm and 5 cm. What is the difference between the grey area and the black area? A) 25 cm2 B) 36 cm2 C) 49 cm2 D) 64 cm2 E) 0 cm2
+> In the figure 4 partly overlapping squares are shown, with sides of 11 cm, 9 cm, 7 cm and 5 cm. What is the difference between the area of the grey region and the area of the black region?
+> A) 25 cm2
+> B) 36 cm2
+> C) 49 cm2
+> D) 64 cm2
+> E) 0 cm2
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_junior#q15|src_kangourou_2003_junior__Q15]]
 
 
 
@@ -788,9 +891,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the telescoping product up to 2003*
+*The value of the expression*
 
-> The value of the expression 
+> The value of the expression
 > is equal to
 > A) 2004
 > B) 2003
@@ -825,14 +928,18 @@ level: kangourou
 > 2
 > 1
 > 1
-> 
-> Pag. 
-> Pag. 25
+>
+> Page
+> Page 25
 > 25
 > Kang 2003
 > Kang 2003
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_junior#q16|src_kangourou_2003_junior__Q16]]
 
 
 
@@ -862,13 +969,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Radius of circle tangent to 4 semicircles*
+*The radius of the circle tangent to the four semicircles*
 
 ![[src_kangourou_2003_junior__prob17.png]]
 
-> The drawing shows four semicircles with a radius of 1 cm. The centers of the semicircles coincide with the midpoints of the sides of the square. What is the radius of the circle tangent to the four semicircles? A) B) ? /2-1   C) D) E)
+> The drawing shows 4 semicircles of radius 1 cm. The centres of the semicircles coincide with the midpoints of the sides of the square. What is the radius of the circle tangent to the 4 semicircles?
+> A)
+> B) ? /2-1
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_junior#q17|src_kangourou_2003_junior__Q17]]
 
 
 
@@ -896,15 +1011,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of all numbers from the digits of 2003*
+*The sum of all four-digit numbers formed from the digits of 2003*
 
-> Consider all (positive integer) 4-digit numbers obtainable by using each time the 4 digits of the number 2003. By adding all these numbers, what
-> number is obtained?
-> A)   5005    
-> B)  5555   
-> C)  16665        D)  1110          E)  15555
+> Consider all the (positive integer) numbers of 4 digits that can be obtained by using each time the 4 digits of the number 2003. Adding all these numbers, what number does one obtain?
+> A) 5005
+> B) 5555
+> C) 16665
+> D) 1110
+> E) 15555
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_junior#q18|src_kangourou_2003_junior__Q18]]
 
 
 
@@ -928,11 +1048,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of digits of the product 2003×A*
+*The sum of the digits of the product of 2003 and A*
 
-> Let's use A to indicate the number 11111... 1111 formed from 2003 digits all equal to 1. What is the sum of the digits of the product of 2003 and A ? A) 10000     B) 10015     C)  10020       D) 10030      E)  20032
+> Let A be the number 11111… 1111 formed from 2003 digits all equal to 1. What is the sum of the digits of the product of 2003 and A?
+> A) 10000
+> B) 10015
+> C) 10020
+> D) 10030
+> E) 20032
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_junior#q19|src_kangourou_2003_junior__Q19]]
 
 
 
@@ -964,20 +1092,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of the rhombus from a sheet folded along the diagonal*
+*The side length of the rhombus*
 
-> A rectangular sheet of paper measuring 6 cm x
-> 12 cm is folded along its diagonal. The two non-overlapping
-> parts are cut away and then the sheet is unfolded,
-> thus obtaining a rhombus. What is the length
-> of the side of the rhombus?
-> A) 3.5       cm
+> A rectangular sheet of paper measuring 6 cm x 12 cm is folded along its diagonal. The two parts that do not overlap are cut away, and then the sheet is opened again, thus obtaining a rhombus. What is the length of the side of the rhombus?
+> A) 3.5 cm
 > B) 7.35 cm
 > C) 7.5 cm
-> D) 7.85 cm       E) 8.1 cm
-> Questions from No. 21 to No. 30 are worth 5 points each
+> D) 7.85 cm
+> E) 8.1 cm
+> Questions 21 to 30 are worth 5 points each
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_junior#q20|src_kangourou_2003_junior__Q20]]
 
 
 
@@ -1008,13 +1136,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of ADE and ABC triangle areas (similar)*
+*The ratio of the areas of triangles ADE and ABC*
 
 ![[src_kangourou_2003_junior__prob21.png]]
 
-> What is the ratio of the areas of the ADE and ABC triangles shown in the figure? A) 9/4 B) 7/3 C) 4/5 D)15/10 E) 26/9
+> What is the ratio of the areas of the triangles ADE and ABC shown in the figure?
+> A) 9/4
+> B) 7/3
+> C) 4/5
+> D) 15/10
+> E) 26/9
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_junior#q21|src_kangourou_2003_junior__Q21]]
 
 
 
@@ -1073,20 +1209,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of rectangle OPCQ (inscribed circle)*
+*The area of the rectangle OPCQ*
 
 ![[src_kangourou_2003_junior__prob22.png]]
 
-> Rectangle ABCD has area 36 cm2. A circle
-> with center at point O is inscribed in triangle ABD.
-> What is the area of rectangle OPCQ ?
+> The rectangle ABCD has area 36 cm2. A circle with centre at the point O is inscribed in the triangle ABD. What is the area of the rectangle OPCQ?
 > A) 24 cm2
 > B) 6 ? ?cm2
 > C) 18 cm2
-> D) 12 
+> D) 12
 > cm2
-> E) It cannot be determined, as it depends on the
-> ratio between the lengths of the sides of the rectangle.
+> E) It cannot be determined, since it depends on the ratio of the lengths of the sides of the rectangle.
 > 2
 > 1
 > 2 ?
@@ -1106,14 +1239,17 @@ level: kangourou
 > 10
 > 15
 > 9
-> 
-> Pag. 
-> Pag. 26
+>
+> Page
+> Page 26
 > 26
 > Kang 2003
 > Kang 2003
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_junior#q22|src_kangourou_2003_junior__Q22]]
 
 
 
@@ -1147,11 +1283,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many kids are telling the truth?
+*How many boys told the truth*
 
-> There are four boys whose last names are White, Black, Red and Green. White says, "Red, Black and Green are girls". Red says, "White, Black and Green are boys". Black says, "White and Red are lying". Green says, "White, Red and Black are telling the truth". How many kids have told the truth? A) 0 B) 1 C) 2 D) 3 E) It cannot be determined.
+> There are 4 boys whose surnames are Bianchi, Neri, Rossi and Verdi.
+> Bianchi says: "Rossi, Neri and Verdi are girls."
+> Rossi says: "Bianchi, Neri and Verdi are boys."
+> Neri says: "Bianchi and Rossi are lying."
+> Verdi says: "Bianchi, Rossi and Neri are telling the truth."
+> How many boys told the truth?
+> A) 0
+> B) 1
+> C) 2
+> D) 3
+> E) It cannot be determined.
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_junior#q23|src_kangourou_2003_junior__Q23]]
 
 
 
@@ -1183,11 +1333,20 @@ How many kids are telling the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability that the second number is greater than the first*
+*The probability that the second number is greater than the first*
 
-> In a box, 2003 tickets numbered from 1 to 2003 are placed. A ticket is drawn at random and then a second is drawn, without the first drawn ticket being put back. At this point, the numbers of the drawn tickets are read in order. So the probability that the second of the two numbers is greater than the first is A) more than 1/2 B) 1/2 C) between 1/3 and 1/2 D) 1/3 E) less than 1/3.
+> 2003 tickets numbered from 1 to 2003 are placed in a box. A ticket is drawn at random and then a second one is drawn, without the first drawn ticket having been put back. At this point the numbers of the tickets drawn are read, in order. Then the probability that the second of the two numbers is greater than the first is
+> A) more than 1/2
+> B) 1/2
+> C) between 1/3 and 1/2
+> D) 1/3
+> E) less than 1/3.
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_junior#q24|src_kangourou_2003_junior__Q24]]
 
 
 
@@ -1217,11 +1376,20 @@ How many kids are telling the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real (x,y) pairs satisfying the equation*
+*How many pairs of real numbers satisfy the equation*
 
-> How many pairs (x,y) of real numbers satisfy the equation (x + y )2 = (x + 3) (y - 3) ? A) 0 B) 1 C) 2 D) 3 E) infinite
+> How many pairs (x, y) of real numbers satisfy the equation ( x + y )2 = ( x + 3) ( y - 3)?
+> A) 0
+> B) 1
+> C) 2
+> D) 3
+> E) infinitely many
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_junior#q25|src_kangourou_2003_junior__Q25]]
 
 
 
@@ -1251,11 +1419,20 @@ How many kids are telling the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max consecutive integers whose digit sum is not divisible by 5*
+*The greatest number of consecutive positive integers with digit-sum not divisible by 5*
 
-> What is the greatest number of consecutive integers greater than 0 such that for none of them the sum of the digits is divisible by 5 ? A) 4 B) 5 C) 6 D) 7 E) 8
+> What is the greatest number of consecutive integers greater than 0 such that for none of them is the sum of the digits divisible by 5?
+> A) 4
+> B) 5
+> C) 6
+> D) 7
+> E) 8
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_junior#q26|src_kangourou_2003_junior__Q26]]
 
 
 
@@ -1287,11 +1464,20 @@ How many kids are telling the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What conclusions about books can be false*
+*Which conclusion can be false*
 
-> All 50 books on a bookshelf in a library are mathematics or physics. We know that there are no two physics books next to each other, and that every math book has another math book next to it. Which of these conclusions can be false? A) There are three consecutive mathematics books, that is, not interspersed with physics books. B) The number of mathematics books is at least 32. C) The number of physics books is at most 17. D) If the number of physics books is 17, then one of them is in the first or last place on the shelf. E) Given 9 books placed consecutively, at least 6 of them are mathematics books.
+> All 50 books on a shelf in a bookshop are either mathematics or physics. We know that there are no two physics books next to each other and that every mathematics book has another mathematics book next to it. Which of these conclusions can be false?
+> A) There are three consecutive mathematics books, that is, not separated by physics books.
+> B) The number of mathematics books is at least 32.
+> C) The number of physics books is at most 17.
+> D) If the number of physics books is 17, then one of them is in the first or the last place on the shelf.
+> E) Of any 9 books placed consecutively, at least 6 of them are mathematics.
 
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_junior#q27|src_kangourou_2003_junior__Q27]]
 
 
 
@@ -1327,11 +1513,26 @@ How many kids are telling the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many sums of three elements*
+*How many different sums a + b + c are possible*
 
-> a, b and c are three distinct numbers taken together {1, 4, 7, 10, 13, 16, 19, 22, 25, 28}. How many different sums of a + b + c are possible? A) 19 B) 21 C) 22 D) 30 E) 63
+> a, b and c are three distinct numbers taken from the set {1, 4, 7, 10, 13, 16, 19, 22, 25, 28}. How many different sums a + b + c are possible?
+> A) 19
+> B) 21
+> C) 22
+> D) 30
+> E) 63
+>
+> Page
+> Page 27
+> 27
+> Kang 2003
+> Kang 2003
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_junior#q28|src_kangourou_2003_junior__Q28]]
 
 
 
@@ -1366,13 +1567,24 @@ How many kids are telling the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min moves change chess colour 2x3*
+*The fewest moves from figure 1 to figure 2*
 
 ![[src_kangourou_2003_junior__prob29.png]]
 
-> The squares of a 2x3 chessboard are colored white or black as in Figure 1. Determine the minimum number of moves necessary to move from the configuration of Figure 1 to the configuration of Figure 2 if each move complies with the following rules: 1.- Only one and only one pair of adjacent squares (i.e. two squares having one side in common) must be changed in colour; 2.- black turns green, green turns white, white turns black. A) 3 B) 5 C) 6 D) 8 E) 9
+> The squares of a 2x3 chessboard are coloured white or black as in figure 1. Find the smallest number of moves needed to pass from the arrangement of figure 1 to the arrangement of figure 2, if every move obeys the following rules:
+> 1. one must change the colours of one and only one pair of adjacent squares (that is, two squares that have a side in common);
+> 2. black changes to green, green changes to white, white changes to black.
+> A) 3
+> B) 5
+> C) 6
+> D) 8
+> E) 9
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_junior#q29|src_kangourou_2003_junior__Q29]]
 
 
 
@@ -1407,10 +1619,22 @@ How many kids are telling the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many '1's in numbers up to 7 binary digits*
+*How many 1s were used*
 
-> Let's write all integers greater than or equal to 0 with a maximum of 7 digits all equal to 0 or 1. How many "1" have we used? A) 128 B) 288 C) 448 D) 512 E) 896 Fig. 1 Fig. 2
-> 
-> Answers commented at JUNIOR level 2nd and 3rd year of high school
+> We write all the integers greater than or equal to 0 that have at most 7 digits, all equal to 0 or 1. How many "1"s have we used?
+> A) 128
+> B) 288
+> C) 448
+> D) 512
+> E) 896
+> Fig. 1
+> Fig. 2
+>
+> Commented answers, JUNIOR level
+> 2nd and 3rd year of upper secondary school
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_junior#q30|src_kangourou_2003_junior__Q30]]

@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare la somma delle distanze quadrate a due punti e a una linea*
+*Il punto $F$ che rende minima $PF^2 + QF^2 + RF^2$*
 
-> I punti $P$, $Q$ e una linea $\ell$ sono indicati in un piano. Indicare, con prova, il punto $F$ del piano per il quale $PF^2 + QF^2 + RF^2$ è minimo, dove $R$ è il piede della perpendicolare da $F$ a $\ell$.
+> Sono dati in un piano i punti $P$, $Q$ e una retta $\ell$. Individuare, con dimostrazione, il punto $F$ del piano per cui $PF^2 + QF^2 + RF^2$ è minima, dove $R$ è il piede della perpendicolare da $F$ a $\ell$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1982-83_round2#q01|src_bmo_1982-83_round2__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circoli di triangolo scritti; tangenti formano un triangolo T; provare il risultato ortocentrico*
+*IS è perpendicolare a un lato di $T$*
 
-> Considerate i tre cerchi scritti del triangolo $ABC$, cioè i tre cerchi distinti ognuno dei quali tocca un lato del triangolo $ABC$ internamente ma gli altri due esternamente. Ogni coppia di cerchi scritti ha solo una tangente interna comune da un lato del triangolo, e le tre tangenti comuni formano un triangolo $T$. Provare che l'IS è perpendicolare a un lato di $T$.
+> Si considerino i tre cerchi exinscritti del triangolo $ABC$, cioè le tre circonferenze distinte ciascuna delle quali tocca un lato del triangolo $ABC$ internamente e gli altri due esternamente. Ogni coppia di cerchi exinscritti ha esattamente una tangente interna comune proveniente da un lato del triangolo, e le tre tali tangenti comuni formano un triangolo $T$. Dimostrare che IS è perpendicolare a un lato di $T$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1982-83_round2#q02|src_bmo_1982-83_round2__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre linee nello spazio; PQ perpendicolare a n ha una lunghezza costante*
+*$PQ$ ha lunghezza costante*
 
-> $l$, $m$, $n$ sono tre linee nello spazio. Né $l$ né $m$ sono perpendicolari a $n$. I punti $P$ e $Q$ variano rispettivamente su $l$ e $m$ in modo tale che $PQ$ sia perpendicolare a $n$, e il piano attraverso $PQ$ perpendicolare a $n$ incontra $n$ in un punto. Provare che $PQ$ è di lunghezza costante.
+> $l$, $m$, $n$ sono tre rette nello spazio. Né $l$ né $m$ è perpendicolare a $n$. I punti $P$ e $Q$ variano rispettivamente su $l$ e su $m$ in modo che $PQ$ sia perpendicolare a $n$, e il piano per $PQ$ perpendicolare a $n$ incontra $n$ in un punto. Dimostrare che $PQ$ ha lunghezza costante.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1982-83_round2#q03|src_bmo_1982-83_round2__Q03]]
 
 
 
@@ -105,9 +126,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza per sei reali positivi con struttura di media armonica*
+*Una disuguaglianza fra somme di mezzi armonici*
 
-> Dimostra che se $a, b, c, d, e, f$ sono numeri reali positivi allora $$\frac{ab}{a+b} + \frac{cd}{c+d} + \frac{ef}{e+f} \le \frac{(a+c+e)(b+d+f)}{a+b+c+d+e+f}.$$
+> Dimostrare che se $a, b, c, d, e, f$ sono numeri reali positivi allora
+> $$\frac{ab}{a+b} + \frac{cd}{c+d} + \frac{ef}{e+f} \le \frac{(a+c+e)(b+d+f)}{a+b+c+d+e+f}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1982-83_round2#q04|src_bmo_1982-83_round2__Q04]]
 
 
 
@@ -133,9 +162,19 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi di conteggio di 18 che soddisfano sette condizioni di ordine*
+*Il numero di disposizioni di $1, \ldots, 8$ che soddisfano quelle sette disuguaglianze*
 
-> Trova il numero di accordi $$a,\ b,\ c,\ d,\ e,\ f,\ g,\ h$$ dei numeri $1, 2, 3, 4, 5, 6, 7, 8$ che soddisfano tutte le sette condizioni $$a < b,\ c < d,\ e < f,\ g < h \quad \text{and} \quad b > c,\ d > e,\ f > g.$$
+> Trovare il numero di disposizioni
+> $$a,\ b,\ c,\ d,\ e,\ f,\ g,\ h$$
+> dei numeri $1, 2, 3, 4, 5, 6, 7, 8$ che soddisfano tutte e sette le condizioni
+> $$a < b,\ c < d,\ e < f,\ g < h \quad \text{and} \quad b > c,\ d > e,\ f > g.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1982-83_round2#q05|src_bmo_1982-83_round2__Q05]]
 
 
 
@@ -160,9 +199,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di integri positivi (n,k) con (n+1)^k = n! + 1*
+*Tutte le coppie $(n, k)$ tali che $(n+1)^k = n! + 1$*
 
-> $n$ e $k$ sono integri positivi. Trova tutte le coppie $(n, k)$ soddisfacenti $$(n+1)^k = n! + 1,$$ che dimostrano di avere l'insieme completo delle soluzioni.
+> $n$ e $k$ sono interi positivi. Trovare tutte le coppie $(n, k)$ che soddisfano
+> $$(n+1)^k = n! + 1,$$
+> dimostrando di avere l'insieme completo delle soluzioni.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1982-83_round2#q06|src_bmo_1982-83_round2__Q06]]
 
 
 
@@ -189,10 +237,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In una colonia di topi mn+1 dimostrare l'esistenza di un anticatenato o di una catena di tipo Dilworth*
+*In una colonia di $(mn + 1)$ topi vale (a) oppure (b)*
 
-> In una colonia di topi $(mn + 1)$, dimostrare che almeno una delle seguenti affermazioni è vera:
-> 
-> (a) C'è un insieme $A$ di topi $(m + 1)$ nessuno dei quali è genitore di nessun altro nel gruppo.
-> 
-> b) Esiste un insieme ordinato $B$ di topi $(n + 1)$ $a_1, a_2, \ldots, a_n, a_{n+1}$ in modo tale che $a_{i+1}$ sia il genitore di $a_i$ per ciascun $i = 1, 2, \ldots, n$.
+> In una colonia di $(mn + 1)$ topi, dimostrare che almeno una delle affermazioni seguenti è vera:
+>
+> (a) Esiste un insieme $A$ di $(m + 1)$ topi di cui nessuno è genitore di un altro dell'insieme.
+>
+> (b) Esiste un insieme ordinato $B$ di $(n + 1)$ topi $a_1, a_2, \ldots, a_n, a_{n+1}$ tale che $a_{i+1}$ sia genitore di $a_i$ per ogni $i = 1, 2, \ldots, n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1982-83_round2#q07|src_bmo_1982-83_round2__Q07]]

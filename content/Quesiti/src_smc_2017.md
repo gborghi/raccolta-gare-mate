@@ -36,9 +36,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-Qual è il numero primo di 2017-2, 2017-1, 2017, 2017+1, 2017+2?
+*Quale tra 2017-2, 2017-1, 2017, 2017+1, 2017+2 è un numero primo?*
 
-> Uno dei seguenti numeri è primo. Che cosa è?
+> Uno dei seguenti numeri è primo. Quale?
 >
 > - **(A)** $2017 - 2$
 > - **(B)** $2017 - 1$
@@ -46,7 +46,12 @@ Qual è il numero primo di 2017-2, 2017-1, 2017, 2017+1, 2017+2?
 > - **(D)** $2017 + 1$
 > - **(E)** $2017 + 2$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2017#q01|src_smc_2017__Q01]]
 
 
 
@@ -77,11 +82,11 @@ Qual è il numero primo di 2017-2, 2017-1, 2017, 2017+1, 2017+2?
 <div class="qlang-split" data-lang="it"></div>
 
 
-Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di lunghezza in g/cm.*
+*Earthworm Dave: lunghezza 40 cm, massa 26 g. Determinare la massa per unità di lunghezza in g/cm.*
 
-> L'anno scorso, un verme di nome Dave è stato inserito nei libri dei record come il più grande trovato nel Regno Unito. Dave aveva 40 cm di lunghezza e un peso di 26 g.
-> 
-> Qual era la massa di Dave per unità di lunghezza?
+> L'anno scorso, un lombrico di nome Dave è entrato nei libri dei record come il più grande mai trovato nel Regno Unito. Dave era lungo 40 cm e pesava 26 g.
+>
+> Qual era la massa per unità di lunghezza di Dave?
 >
 > - **(A)** $0.6$ g/cm
 > - **(B)** $0.65$ g/cm
@@ -89,7 +94,11 @@ Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di 
 > - **(D)** $1.6$ g/cm
 > - **(E)** $1.75$ g/cm
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2017#q02|src_smc_2017__Q02]]
 
 
 
@@ -121,11 +130,11 @@ Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque enti 2,5,6,9,14 riordinati in modo che la somma delle prime tre è uguale alla somma delle ultime tre; trova il numero medio.*
+*Cinque interi, 2, 5, 6, 9, 14, vengono riordinati in modo che la somma dei primi tre sia uguale alla somma degli ultimi tre; trovare il numero centrale.*
 
-> I cinque integri $2, 5, 6, 9, 14$ sono disposti in un ordine diverso. Nel nuovo sistema, la somma dei primi tre enti è pari alla somma degli ultimi tre enti.
-> 
-> Qual è il numero medio nel nuovo sistema?
+> I cinque interi $2, 5, 6, 9, 14$ sono disposti in un ordine diverso. Nella nuova disposizione, la somma dei primi tre interi è uguale alla somma degli ultimi tre interi.
+>
+> Qual è il numero centrale nella nuova disposizione?
 >
 > - **(A)** $2$
 > - **(B)** $5$
@@ -133,7 +142,12 @@ Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di 
 > - **(D)** $9$
 > - **(E)** $14$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2017#q03|src_smc_2017__Q03]]
 
 
 
@@ -163,9 +177,9 @@ Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Qual'espressione è uguale 2017 - 1/2017?*
+*Quale espressione è uguale a 2017 - 1/2017?*
 
-> Quale delle seguenti è uguale a $2017 - \dfrac{1}{2017}$?
+> Quale delle seguenti opzioni è uguale a $2017 - \dfrac{1}{2017}$?
 >
 > - **(A)** $\dfrac{2017^2}{2016}$
 > - **(B)** $\dfrac{2016}{2017}$
@@ -173,7 +187,12 @@ Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di 
 > - **(D)** $\dfrac{4059}{2017}$
 > - **(E)** $\dfrac{2018 \times 2016}{2017}$
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2017#q04|src_smc_2017__Q04]]
 
 
 
@@ -204,11 +223,11 @@ Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di 
 <div class="qlang-split" data-lang="it"></div>
 
 
-Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce di distanza. Quanti chilometri circa è lontana la galassia?
+*Un anno luce corrisponde a circa 6×10^12 miglia; una galassia dista 13,4 miliardi di anni luce. In linea di massima, a quante miglia di distanza si trova la galassia?*
 
-> Un anno luce è quasi $6 \times 10^{12}$ miglia. Nel 2016, il telescopio spaziale Hubble ha stabilito un nuovo record cosmico, osservando una galassia $13.4$ a mille milioni di anni luce di distanza.
-> 
-> Quanti chilometri circa?
+> Un anno luce corrisponde a quasi $6 \times 10^{12}$ miglia. Nel 2016, il Telescopio Spaziale Hubble ha stabilito un nuovo record cosmico, osservando una galassia distante $13.4$ miliardi di anni luce.
+>
+> All'incirca, quanti miglia sono?
 >
 > - **(A)** $8 \times 10^{20}$
 > - **(B)** $8 \times 10^{21}$
@@ -216,7 +235,11 @@ Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce d
 > - **(D)** $8 \times 10^{23}$
 > - **(E)** $8 \times 10^{24}$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2017#q05|src_smc_2017__Q05]]
 
 
 
@@ -250,11 +273,11 @@ Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce d
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circoli in un diagramma collegato da segmenti di linea; trovare il numero minimo di colori necessari in modo che due cerchi adiacenti non condividano un colore.*
+*Cerchi in un diagramma collegati da segmenti; determina il numero minimo di colori necessari affinché nessun paio di cerchi adiacenti abbia lo stesso colore.*
 
-> I cerchi del diagramma devono essere colorati in modo che due cerchi collegati da un segmento di linea abbiano colori diversi.
-> 
-> Qual è il numero minimo di colori richiesti?
+> I cerchi nel diagramma devono essere colorati in modo che due qualsiasi cerchi collegati da un segmento di retta abbiano colori diversi.
+>
+> Qual è il numero minimo di colori necessari?
 >
 > - **(A)** $2$
 > - **(B)** $3$
@@ -264,7 +287,12 @@ Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce d
 
 ![[src_smc_2017__q06.png]]
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2017#q06|src_smc_2017__Q06]]
 
 
 
@@ -296,10 +324,10 @@ Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce d
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova k tale che sqrt(2)+sqrt(8)+sqrt(18)=sqrt(k).*
+*Trovare k tale che sqrt(2)+sqrt(8)+sqrt(18)=sqrt(k).*
 
 > Il numero intero positivo $k$ soddisfa l'equazione $\sqrt{2} + \sqrt{8} + \sqrt{18} = \sqrt{k}$.
-> 
+>
 > Qual è il valore di $k$?
 >
 > - **(A)** $28$
@@ -308,7 +336,12 @@ Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce d
 > - **(D)** $128$
 > - **(E)** $288$
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2017#q07|src_smc_2017__Q07]]
 
 
 
@@ -337,9 +370,9 @@ Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce d
 <div class="qlang-split" data-lang="it"></div>
 
 
-Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
+*Quale tra 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?*
 
-> Quando viene valutato, quale delle seguenti non è un numero intero?
+> Valutato, quale dei seguenti non è un numero intero?
 >
 > - **(A)** $1^{-1}$
 > - **(B)** $4^{-\frac{1}{2}}$
@@ -347,7 +380,11 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 > - **(D)** $8^{\frac{2}{3}}$
 > - **(E)** $16^{\frac{3}{4}}$
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2017#q08|src_smc_2017__Q08]]
 
 
 
@@ -381,10 +418,10 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un rettangolo n×(n+1) è cartigliato da rettangoli k×(k+1) per k=1 a 8; trovare n.*
+*Un rettangolo n×(n+1) viene rivestito con rettangoli k×(k+1) per k da 1 a 8; determina n.*
 
-> Il diagramma mostra un rettangolo $n \times (n+1)$ incollato con rettangoli $k \times (k+1)$, dove $n$ e $k$ sono numeri interi e $k$ prende ogni valore da $1$ a $8$ inclusivo.
-> 
+> Il diagramma mostra un $n \times (n+1)$ rettangolo rivestito da $k \times (k+1)$ rettangoli, dove $n$ e $k$ sono interi e $k$ assume ciascun valore da $1$ a $8$, inclusi.
+>
 > Qual è il valore di $n$?
 >
 > - **(A)** $16$
@@ -395,7 +432,12 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 
 ![[src_smc_2017__q09.png]]
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_smc_2017#q09|src_smc_2017__Q09]]
 
 
 
@@ -430,13 +472,13 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo diviso in tre rettangoli più piccoli congruenti, ciascuno simile a quello grande; trovare il rapporto di lato più lungo a lato più breve.*
+*Un rettangolo suddiviso in tre rettangoli più piccoli congruenti, ciascuno simile a quello grande; determina il rapporto tra il lato più lungo e il lato più corto.*
 
-> Un rettangolo è diviso in tre rettangoli congruenti più piccoli come mostrato.
-> 
-> Ogni rettangolo più piccolo è simile al grande rettangolo.
-> 
-> In ciascuno dei quattro rettangoli, qual è il rapporto tra la lunghezza di un lato più lungo e quella di un lato più corto?
+> Un rettangolo viene suddiviso in tre rettangoli più piccoli congruenti, come mostrato.
+>
+> Ogni rettangolo più piccolo è simile al rettangolo grande.
+>
+> In ciascuno dei quattro rettangoli, qual è il rapporto tra la lunghezza del lato più lungo e quella del lato più corto?
 >
 > - **(A)** $2\sqrt{3} : 1$
 > - **(B)** $3 : 1$
@@ -446,7 +488,11 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 
 ![[src_smc_2017__q10.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2017#q10|src_smc_2017__Q10]]
 
 
 
@@ -481,15 +527,15 @@ Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
 <div class="qlang-split" data-lang="it"></div>
 
 
-Due adolescenti: differenza dei quadrati di età = 4 volte la somma delle età; somma = 8 volte la differenza. Indicare l'età di persona più anziana.*
+*Due adolescenti: la differenza dei quadrati delle età è uguale a 4 volte la somma delle età; la somma è uguale a 8 volte la differenza. Determinare l'età del più grande.*
 
-> Gli adolescenti Sam e Jo notano i seguenti fatti sulla loro età:
-> 
-> La differenza tra i quadrati delle loro età è quattro volte la somma delle loro età.
-> 
-> La somma delle loro età è otto volte la differenza tra loro.
-> 
-> Quanti anni ha l'anziano?
+> Gli adolescenti Sam e Jo notano i seguenti fatti riguardo alle loro età:
+>
+> La differenza tra i quadrati delle loro età è pari a quattro volte la somma delle loro età.
+>
+> La somma delle loro età è pari a otto volte la differenza tra le loro età.
+>
+> Qual è l'età del più anziano dei due?
 >
 > - **(A)** $15$
 > - **(B)** $16$
@@ -497,7 +543,11 @@ Due adolescenti: differenza dei quadrati di età = 4 volte la somma delle età; 
 > - **(D)** $18$
 > - **(E)** $19$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2017#q11|src_smc_2017__Q11]]
 
 
 
@@ -530,10 +580,10 @@ Due adolescenti: differenza dei quadrati di età = 4 volte la somma delle età; 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il quadrato e il decagono regolare condividono un bordo; un lato del quadrato esteso incontra il bordo esteso del decagono; trovare angolo x.*
+*Un quadrato e un decagono regolare condividono un lato; un lato del quadrato, prolungato, incontra il lato prolungato del decagono; determina l'angolo x.*
 
-> Il diagramma mostra un quadrato e un decagono regolare che condividono un bordo. Un lato del quadrato è esteso per incontrare un bordo esteso del decagono.
-> 
+> Il diagramma mostra un quadrato e un decagono regolare che condividono un lato. Un lato del quadrato viene prolungato fino a incontrare un lato prolungato del decagono.
+>
 > Qual è il valore di $x$?
 >
 > - **(A)** $15$
@@ -544,7 +594,11 @@ Due adolescenti: differenza dei quadrati di età = 4 volte la somma delle età; 
 
 ![[src_smc_2017__q12.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2017#q12|src_smc_2017__Q12]]
 
 
 
@@ -582,25 +636,30 @@ Due adolescenti: differenza dei quadrati di età = 4 volte la somma delle età; 
 <div class="qlang-split" data-lang="it"></div>
 
 
-Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente uno è colpevole e gli altri tre dicono la verità. Chi è colpevole?
+*Puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente una è colpevole e le altre tre dicono la verità. Chi è colpevole?*
 
 > Isobel: "Josh è innocente"
-> 
+>
 > Genotan: "Tegan è colpevole"
-> 
+>
 > Josh: "Genotan è colpevole"
-> 
+>
 > Tegan: "Isobel è colpevole"
-> 
+>
 > Solo una delle quattro persone è colpevole, e tutte le altre dicono la verità. Chi è colpevole?
 >
 > - **(A)** Isobel
-> - **(B)** - Josh .
-> - **(C)** Genotano
+> - **(B)** Josh
+> - **(C)** Genotan
 > - **(D)** Tegan
-> - **(E)** Ulteriori informazioni necessarie
+> - **(E)** Sono necessarie ulteriori informazioni
 
-**Risposta:** C
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2017#q13|src_smc_2017__Q13]]
 
 
 
@@ -633,10 +692,10 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un diagramma, tutti gli angoli (punti) segnati sono uguali a x gradi; trovare x.*
+*In un diagramma, tutti gli angoli contrassegnati (punti) misurano x gradi; determina x.*
 
-> Nel diagramma tutti gli angoli contrassegnati $\bullet$ sono uguali in dimensioni all'angolo contrassegnato $x^\circ$.
-> 
+> Nel diagramma, tutti gli angoli contrassegnati con $\bullet$ hanno la stessa misura dell'angolo contrassegnato con $x^\circ$.
+>
 > Qual è il valore di $x$?
 >
 > - **(A)** $100$
@@ -647,7 +706,11 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 
 ![[src_smc_2017__q14.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2017#q14|src_smc_2017__Q14]]
 
 
 
@@ -680,10 +743,10 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*PQRS quadrato con PT=1, QU=2, RV=3, SW=4 dove T,U,V,W si trovano sui bordi; TUVW costituisce un quadrilaterale con una superficie della metà della PQRS. Trova PQ.*
+*Quadrilatero PQRS con PT=1, QU=2, RV=3, SW=4, dove T, U, V, W giacciono sui lati; TUVW forma un quadrilatero la cui area è la metà di quella di PQRS. Determinare PQ.*
 
-> Il diagramma mostra un quadrato $PQRS$. I punti $T$, $U$, $V$ e $W$ si trovano sui bordi del quadrato, come mostrato, come $PT = 1$, $QU = 2$, $RV = 3$ e $SW = 4$.
-> 
+> Il diagramma mostra un quadrato $PQRS$. I punti $T$, $U$, $V$ e $W$ giacciono sui lati del quadrato, come mostrato, in modo tale che $PT = 1$, $QU = 2$, $RV = 3$ e $SW = 4$.
+>
 > Qual è la lunghezza di $PQ$?
 >
 > - **(A)** $5$
@@ -694,7 +757,11 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 
 ![[src_smc_2017__q15.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2017#q15|src_smc_2017__Q15]]
 
 
 
@@ -727,11 +794,11 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due triangoli rettangolari all'interno di un quadrato; i lati perpendicolari di un triangolo più grande sono 15 e 20; trovare area di quadrilaterali ombrati.*
+*Due triangoli rettangoli all'interno di un quadrato; i cateti del triangolo più grande misurano 15 e 20; determina l'area del quadrilatero ombreggiato.*
 
-> Il diagramma mostra due triangoli rettangolari all'interno di un quadrato. I lati perpendicolari del triangolo più grande hanno lunghezze $15$ e $20$.
-> 
-> Qual è l'area del quadrilaterale ombrato?
+> Il diagramma mostra due triangoli rettangoli all'interno di un quadrato. I cateti del triangolo più grande hanno lunghezze $15$ e $20$.
+>
+> Qual è l'area del quadrilatero ombreggiato?
 >
 > - **(A)** $142$
 > - **(B)** $146$
@@ -741,7 +808,11 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 
 ![[src_smc_2017__q16.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2017#q16|src_smc_2017__Q16]]
 
 
 
@@ -773,11 +844,11 @@ Un puzzle logico con quattro persone: Isobel, Josh, Genotan, Tegan; esattamente 
 <div class="qlang-split" data-lang="it"></div>
 
 
-Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono tutti uguali. Trova il conto originale di Claire.
+*Amy, Beth e Claire si scambiano i dolci dando ciascuna 1/3 al prossimo; alla fine hanno tutti la stessa quantità. Determinare la quantità iniziale di Claire.*
 
-> Amy, Beth e Claire hanno ciascuno dei dolci. Amy dà un terzo dei suoi dolci a Beth. Beth dà un terzo di tutti i dolci che ha ora a Claire. E poi Claire dà un terzo di tutti i dolci che ha a Amy. Tutte le ragazze finiscono per avere lo stesso numero di dolci.
-> 
-> Quanti dolci aveva originariamente Claire?
+> Amy, Beth e Claire hanno ciascuna delle caramelle. Amy dà a Beth un terzo delle sue caramelle. Beth dà a Claire un terzo di tutte le caramelle che ora possiede. Poi Claire dà ad Amy un terzo di tutte le caramelle che ora possiede. Alla fine, tutte le ragazze hanno lo stesso numero di caramelle.
+>
+> Quanti dolci aveva inizialmente Claire?
 >
 > - **(A)** $20$
 > - **(B)** $30$
@@ -785,7 +856,12 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 > - **(D)** $50$
 > - **(E)** $60$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2017#q17|src_smc_2017__Q17]]
 
 
 
@@ -819,12 +895,12 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La media aritmetica A e la media geometrica G di x>y positiva soddisfano A:G=5:4. Trova x:y.*
+*La media aritmetica A e la media geometrica G di numeri positivi x>y soddisfano A:G=5:4. Determinare x:y.*
 
-> La media aritmetica, $A$, di due numeri positivi $x$ e $y$ è definita come $A = \tfrac{1}{2}(x + y)$ e la media geometrica, $G$, è definita come $G = \sqrt{xy}$.
-> 
+> La media aritmetica, $A$, di due qualsiasi numeri positivi $x$ e $y$ è definita come $A = \tfrac{1}{2}(x + y)$, e la loro media geometrica, $G$, è definita come $G = \sqrt{xy}$.
+>
 > Per due valori particolari $x$ e $y$, con $x > y$, il rapporto $A : G = 5 : 4$.
-> 
+>
 > Per questi valori di $x$ e $y$, qual è il rapporto $x : y$?
 >
 > - **(A)** $5 : 4$
@@ -833,7 +909,12 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 > - **(D)** $7 : 2$
 > - **(E)** $4 : 1$
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2017#q18|src_smc_2017__Q18]]
 
 
 
@@ -867,11 +948,11 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il raggio del cerchio 1 tocca tre lati del rettangolo 2×4; la diagonale interseca il cerchio a P e Q. Trova la lunghezza di accordo PQ.*
+*Il cerchio di raggio 1 tocca tre lati di un rettangolo 2×4; la diagonale interseca il cerchio nei punti P e Q. Determinare la lunghezza della corda PQ.*
 
-> Il diagramma mostra un cerchio di raggio $1$ che tocca tre lati di un rettangolo $2 \times 4$. Una diagonale del rettangolo interseca il cerchio nei punti $P$ e $Q$, come mostrato.
-> 
-> Qual è la lunghezza dell'accordo $PQ$?
+> Il diagramma mostra un cerchio di raggio $1$ che è tangente a tre lati di un rettangolo $2 \times 4$. Una diagonale del rettangolo interseca il cerchio nei punti $P$ e $Q$, come mostrato.
+>
+> Qual è la lunghezza della corda $PQ$?
 >
 > - **(A)** $\sqrt{5}$
 > - **(B)** $\dfrac{2}{\sqrt{5}}$
@@ -881,7 +962,12 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 
 ![[src_smc_2017__q19.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2017#q19|src_smc_2017__Q19]]
 
 
 
@@ -914,11 +1000,11 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza quadrata del bordo PQRS 1; quattro archi di quartiere (TRU centrato S, VPW centrato Q); trovare il perimetro della regione ombreggiata.*
+*Il quadrato PQRS ha il lato di lunghezza 1; vi sono quattro archi di quarto di cerchio (TRU con centro in S, VPW con centro in Q); determinare il perimetro della regione ombreggiata.*
 
-> Il diagramma mostra un quadrato $PQRS$ con bordi di lunghezza 1, e quattro archi, ognuno dei quali è un quarto di cerchio. L'arco $TRU$ ha il centro $S$; l'arco $VPW$ ha il centro $Q$.
-> 
-> Qual è la lunghezza del perimetro della regione ombrosa?
+> Il diagramma mostra un quadrato $PQRS$ con lati di lunghezza 1, e quattro archi, ciascuno dei quali è un quarto di cerchio. L'arco $TRU$ ha centro $S$; l'arco $VPW$ ha centro $Q$.
+>
+> Qual è la lunghezza del perimetro della regione ombreggiata?
 >
 > - **(A)** $6$
 > - **(B)** $(2\sqrt{2} - 1)\pi$
@@ -928,7 +1014,11 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 
 ![[src_smc_2017__q20.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2017#q20|src_smc_2017__Q20]]
 
 
 
@@ -958,9 +1048,9 @@ Amy, Beth e Claire condividono i dolci dando ciascuno 1/3 all'altro; finiscono t
 <div class="qlang-split" data-lang="it"></div>
 
 
-Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
+*Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?*
 
-> Quante coppie $(x, y)$ di integri positivi soddisfano l'equazione $4^x = y^2 + 15$?
+> Quante coppie $(x, y)$ di interi positivi soddisfano l'equazione $4^x = y^2 + 15$?
 >
 > - **(A)** $0$
 > - **(B)** $1$
@@ -968,7 +1058,12 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 > - **(D)** $4$
 > - **(E)** un numero infinito
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2017#q21|src_smc_2017__Q21]]
 
 
 
@@ -1001,10 +1096,10 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Octogono regolare e quadrato inciso formato da quattro diagonali; bordi quadrati hanno lunghezza 1. Trova area di ottagone.*
+*Ottagono regolare e quadrato inscritto formato da quattro diagonali; i lati del quadrato hanno lunghezza 1. Determinare l'area dell'ottagono.*
 
-> Il diagramma mostra un ottagono regolare e un quadrato formato disegnando quattro diagonali dell'ottagono. I bordi del quadrato hanno lunghezza $1$.
-> 
+> Il diagramma mostra un ottagono regolare e un quadrato ottenuto tracciando quattro diagonali dell'ottagono. I lati del quadrato hanno lunghezza $1$.
+>
 > Qual è l'area dell'ottagono?
 >
 > - **(A)** $\dfrac{\sqrt{6}}{2}$
@@ -1015,7 +1110,11 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 
 ![[src_smc_2017__q22.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2017#q22|src_smc_2017__Q22]]
 
 
 
@@ -1047,10 +1146,10 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Parabola y=x^2 riflessa nella riga y=x+2; trovare l'equazione della parabola riflessa.*
+*Parabola y=x^2 riflessa rispetto alla retta y=x+2; trovare l'equazione della parabola riflessa.*
 
-> La parabola con l'equazione $y = x^2$ si riflette nella linea con l'equazione $y = x + 2$.
-> 
+> La parabola di equazione $y = x^2$ viene riflessa rispetto alla retta di equazione $y = x + 2$.
+>
 > Quale delle seguenti è l'equazione della parabola riflessa?
 >
 > - **(A)** $x = y^2 + 4y + 2$
@@ -1059,7 +1158,12 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 > - **(D)** $x = y^2 - 4y - 2$
 > - **(E)** $x = y^2 + 2$
 
-**Risposta:** C
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2017#q23|src_smc_2017__Q23]]
 
 
 
@@ -1091,11 +1195,11 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme di n linee rette nel piano in cui ciascuna linea incontra esattamente altre 10; quale valore non può essere n?*
+*Un insieme di n rette nel piano tali che ciascuna retta interseca esattamente 10 altre rette; quale valore non può essere n?*
 
-> C'è un insieme di linee rette $n$ nel piano in modo che ciascuna linea interseca esattamente altre dieci.
-> 
-> Quale delle seguenti non potrebbe essere il numero di righe nell'insieme?
+> Nel piano esiste un insieme di $n$ rette tali che ciascuna retta interseca esattamente dieci altre rette.
+>
+> Quale dei seguenti valori NON potrebbe essere il numero di rette nell'insieme?
 >
 > - **(A)** $11$
 > - **(B)** $12$
@@ -1103,7 +1207,12 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 > - **(D)** $16$
 > - **(E)** $20$
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2017#q24|src_smc_2017__Q24]]
 
 
 
@@ -1137,11 +1246,11 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N nonagone regolare; ad ogni vertice un segmento di linea perpendicolare produce un nonagone S più piccolo (ombra). Trova area(S)/area(N).*
+*Nonagono regolare N; in ciascun vertice, un segmento di retta perpendicolare genera un nonagono più piccolo S (ombreggiato). Determinare area(S)/area(N).*
 
-> Il diagramma mostra un nonagon regolare $N$. Muovendosi in senso orario, ad ogni vertice un segmento di linea è disegnato perpendicolare al bordo precedente. Ciò produce un nonagon regolare più piccolo $S$, mostrato in ombra.
-> 
-> Quale frazione della superficie di $N$ è la superficie di $S$?
+> Il diagramma mostra un ennagono regolare $N$. Muovendosi in senso orario, in ciascun vertice si traccia un segmento di retta perpendicolare al lato precedente. Ciò produce un ennagono regolare più piccolo $S$, rappresentato in ombra.
+>
+> Quale frazione dell'area di $N$ è l'area di $S$?
 >
 > - **(A)** $\dfrac{1 - \cos 40^\circ}{1 + \cos 40^\circ}$
 > - **(B)** $\dfrac{\cos 40^\circ}{1 + \cos 40^\circ}$
@@ -1151,4 +1260,9 @@ Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
 
 ![[src_smc_2017__q25.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2017#q25|src_smc_2017__Q25]]

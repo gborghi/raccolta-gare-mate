@@ -33,9 +33,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reachable points in square with steps (1,1) or (-1,0)*
+*Points reachable in a square using steps (1,1) or (-1,0)*
 
-> The sage Numeritus often uses the step of the hag to confuse his opponents. Each step consists of adding (1,1) or (−1,0) to its position. If Numeruto starts from the point (0,0), how many points of the square [−5,5] × [−5,5] (edges included) can be reached by Numeruto without ever leaving the square?
+> The Hermit Crab's Walk
+> The astute Numeruto often uses the hermit crab step to confuse his opponents. Each step consists of adding (1,1) or (−1,0) to his position. If Numeruto starts at the point (0,0), how many points in the square [−5,5] × [−5,5] (including the edges) can Numeruto reach without ever leaving the square?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q01|src_cesenatico_2007_squadre_finale__Q01]]
 
 
 
@@ -63,9 +71,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solid volume at the center of the cutting cube for coloured dies*
+*Solid volume at the center of the cube, cut into colored triplets*
 
-> A challenging training A key stage of morning training is sword cutting. Today Numeruto must show his skill to the master and his companions. There's a wooden cube in front of it with 12 long beads. Color the centers of each face using 3 colors (the same color for the centers of opposite faces). He then cuts through each passing plane with his sword through a fine line of distinctly colored dots. Determine the volume of the solid containing the center of the cube.
+> A demanding training session
+> An essential phase of mateninja training is sword cutting. Today Numeruto must demonstrate his skill to the master and his peers. In front of him is a wooden cube whose edges are 12 long. Color the centers of each face using 3 colors (the same color for the centers of opposite faces). Then cut cleanly with the sword along each plane that passes through a set of three points of distinct colors. Determine the volume of the solid containing the center of the cube.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q02|src_cesenatico_2007_squadre_finale__Q02]]
 
 
 
@@ -91,9 +107,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last 4 digits 2007-eighth multiple of 3 before a square*
+*Last 4 digits: the 2007th multiple of 3 preceding a square*
 
-> Indigestion Otenusa wants to try and guess how many bowls of ramen the golden Numeruto ate. Master Isoshilo reveals that the number of bowls is equal to the last four digits of the 2007th term of sequence 3, 15, 24, 48. . . of the positive multiples of 3 before a square. How many bowls did Numeruto swallow?
+> Indigestion
+> Otenusa wants to try to guess how many bowls of ramen the gluttonous Numeruto has devoured. Master Isoshilo reveals to her that the number of bowls equals the last 4 digits of the 2007th term of the sequence 3, 15, 24, 48, ...—the sequence of positive multiples of 3 that precede a square. How many bowls has Numeruto gulped down?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q03|src_cesenatico_2007_squadre_finale__Q03]]
 
 
 
@@ -120,9 +144,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum area quadrilateral ABCD with P within 2,4,6,8 distances*
+*Maximum area of quadrilateral ABCD with P inside at distances 2, 4, 6, 8*
 
-> In the trap Numeruto is surrounded by four moreninja from the village of Binomio. The four opposing matins are at the vertices of an ABCD quadrilateral and Numeruto occupies the P-point inside the quadrilateral. If the distances of P from the four vertices of the quadrilateral are 2, 4, 6, 8 mat-ken, what is the maximum area in mat-ken2 that can have ABCD?
+> In a trap
+> Numeruto is surrounded by four mateninja from the Binomio Village. The four opposing mateninja are at the vertices of a quadrilateral ABCD, and Numeruto occupies point P inside the quadrilateral. If the distances from P to the four vertices of the quadrilateral are 2, 4, 6, and 8 mat-ken, what is the maximum area, in mat-ken², that ABCD can have?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q04|src_cesenatico_2007_squadre_finale__Q04]]
 
 
 
@@ -181,11 +213,22 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum of the maximum in a 5x5 spiral quintet without row/column*
+*Minimum of the maximums in a 5x5 spiral quintet with no row/column*
 
 ![[src_cesenatico_2007_squadre_finale__prob5.png]]
 
-> Spirals of force The 25 Grandin of the village of Retta have arranged themselves in spirals, as shown in the figure, where the numbers correspond to their life force. If you select a team of five moreninja so that there are never two of them on the same line or column, what is the minimum possible value of the life force of the strongest moreninja in the quintet, varied by all possible choices? 1 16 15 14 13 2 17 24 23 12 3 18 25 22 11 4 19 20 21 10 5 6 7 8 9 Team competition 2007  National final  Problem texts  Pag. 1 di 4
+> Spirals of Force
+> The 25 Grandins of the village of Retta are arranged in a spiral, as shown in the figure, where the numbers correspond to their vital force. If a team of five mateninjas is selected such that no two of them ever lie in the same row or the same column, what is the minimum possible value of the vital force of the strongest mateninja in the quintet, as all possible selections vary? 1 16 15 14 13 2 17 24 23 12 3 18 25 22 11 4 19 20 21 10 5 6 7 8 9
+> 2007 Team Competition – National Final – Problem Statements – Page 1 of 4
+>
+> Page 2 of 4 – Team Competition 2007 – National Final – Problem Statements
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q05|src_cesenatico_2007_squadre_finale__Q05]]
 
 
 
@@ -211,9 +254,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to divide 4 males and 8 females into 3 mixed teams
+*Ways of dividing 4 males and 8 females into mixed teams of 3*
 
-> A mix of mixed teams The mateninjutsu class is attended by 4 young male mateninji and 8 young female mateninji. How many ways can these be divided into three-match teams so that each team is mixed, that is, has matches of both sexes?
+> A mix of mixed teams
+> At the mateninjutsu lesson, 4 young male mateninji and 8 young female mateninje are present. In how many ways can they be divided into teams of 3 mateninja such that each team is mixed—that is, contains mateninja of both sexes?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q06|src_cesenatico_2007_squadre_finale__Q06]]
 
 
 
@@ -243,9 +294,17 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of dice with all three colours (assembly)*
+*Number of single dice with all three colors (assembly)*
 
-> Under Per Numeruto and his friends, the time has finally come to face the exam from Mezzin! The committee of examiners will decide who will first face the examination by throwing dice. The faces of the 27 unit side dice are coloured in red, white and blue so that examiners can assemble a maxi-dado 3×3×3 all coloured in red, a maxi-dado 3×3×3 all coloured in white and a maxi-dado 3 × 3 × 3 all coloured in blue. Determine the number of unit dice on which all three colors appear.
+> It's someone else's turn
+> For Numeruto and his friends, the time to take the Mezzin exam has finally come! The examination board will decide who has to take the exam first by rolling dice. The faces of the 27 unit cubes are colored red, white, and blue in such a way that the examiners can assemble one 3×3×3 mega-cube entirely red, one 3×3×3 mega-cube entirely white, and one 3×3×3 mega-cube entirely blue. Determine the number of unit cubes whose faces show all three colors.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q07|src_cesenatico_2007_squadre_finale__Q07]]
 
 
 
@@ -274,9 +333,17 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Compatible combinations of the zodiac friends/enemies*
+*Compatible zodiac combinations: friends/enemies*
 
-> The morning zodiac signs of the morning zodiac are 12 like ours. Each sign has exactly two friends and one enemy sign. The two friends of one sign are always enemies of the other. A sign and its enemy always have the same two friend signs. Friendship and enmity are symmetrical. Numeruto only remembers that the enemy of the elephant is the mouse and that one of the tiger's friends is the frog and he must complete a pattern returning the friends and the enemy of all signs. How many combinations compatible with the rules set out can you choose from?
+> The Zodiac of Mateninja
+> The morning-ninja zodiac signs are 12, like ours. Each sign has exactly two friendly signs and one enemy sign. The two friends of a given sign are always enemies of each other. A sign and its enemy always have the same two friendly signs. Friendship and enmity are symmetrical. Numeruto only remembers that the elephant's enemy is the mouse and that one of the tiger's friends is the frog; he must complete a diagram by entering the friends and the enemy of all the signs. How many combinations compatible with the rules set out can he choose from?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q08|src_cesenatico_2007_squadre_finale__Q08]]
 
 
 
@@ -303,9 +370,17 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum term of arithmetic progression with 0 and sum 10001*
+*Maximum term of an arithmetic progression with first term 0 and sum 10001*
 
-> The road to success is becoming increasingly complex and challenging for Numeruto. He receives an arithmetic progression of 137 elements, one of which is 0. After long and exhausting research, Numeruto discovers that the sum of the terms of succession is 10001. What is the maximum value of the largest term of succession?
+> The path to success
+> The exam to become a Mezzin is becoming increasingly complex and demanding for Numeruto. He is given an arithmetic progression with 137 terms, one of which is 0. After long and exhausting searches, Numeruto discovers that the sum of the terms of the sequence is 10001. What is the maximum possible value of the largest term in the sequence?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q09|src_cesenatico_2007_squadre_finale__Q09]]
 
 
 
@@ -341,11 +416,19 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smaller area of the cut Yin-Yang (coef. pi)*
+*Area of the smaller part of the cut yin-yang (coeff. pi)*
 
 ![[src_cesenatico_2007_squadre_finale__prob10.png]]
 
-> The broken amulet Lo Yin-Yang, the amulet symbol of the village of the Straight, is obtained by taking five aligned and equal-spaced points A, B, C, D, E, and drawing a circumference with a center in C and AC radius and two semicircles of radius AB centered one in B and the other in D as shown in Figure 1. The disgruntled Numeruto cut a Yin-Yang with a straight cut passing B and perpendicular to the AE segment. The cut and the two semi-conferences delimit four parts. If AB is 60 mat-bu, how many mat-bu2 measures the smallest part in which Numerus divided the Yin-Yang? Give the coefficient π as the answer, once all parentheses are dissolved. A B C D E
+> The Broken Amulet
+> The Yin-Yang, the talisman that is the symbol of the Village of the Straight Path, is obtained by taking five collinear and equally spaced points A, B, C, D, E, and drawing a circle with center C and radius AC, and two semicircles of radius AB centered one at B and the other at D, as shown in the figure. The mischievous Numeruto has cut a Yin-Yang with a straight cut passing through B and perpendicular to segment AE. The cut and the two semicircles delimit 4 parts. If AB = 60 mat-bu, how many mat-bu² is the smallest part into which Numeruto has divided the Yin-Yang? Give as the answer the coefficient that multiplies π after all parentheses have been removed. A B C D E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q10|src_cesenatico_2007_squadre_finale__Q10]]
 
 
 
@@ -371,9 +454,17 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arithmetic mean life forces given together with mean of 3*
+*Arithmetic mean of vital forces, given a set of means from 3*
 
-> Group vitality A group of 10 mornings meet before a mission. If the sum of the values obtained by calculating the arithmetic mean of the life forces of each possible group of three moreninja is 2.4,...,240 (the even numbers between 2 and 240), what is the arithmetic mean of the life force of the whole group of 10 moreninja?
+> Group vitality
+> A group of 10 mateninja meets up before a mission. If the set of values obtained by calculating the arithmetic mean of the vital forces of each possible group of three mateninja is 2, 4, ..., 240 (the even numbers between 2 and 240 inclusive), what is the arithmetic mean of the vital force of the entire group of 10 mateninja?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q11|src_cesenatico_2007_squadre_finale__Q11]]
 
 
 
@@ -400,9 +491,17 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum minutes with possibility of rapid doubling*
+*Minimum minutes with the option to double the speed*
 
-> Race against time Numeruto must run to save his companion Otenusa, prisoner to 265 mat-cho from him. Numeruto can decide, from the start, whether to continue running or spend a minute to summon a spirit that doubles his speed, but between one invocation and the other he must travel at least 1 mat-cho. If its initial speed is 1 matcho per minute, how many minutes will it take to get from Otenusa? Give as a solution the numerator of the fraction reduced to the minimum terms.
+> Race against time
+> Numeruto must rush to save his companion Otenusa, who is held captive 265 mat-cho away from him. From the very start, Numeruto can decide whether to keep running or to spend a minute summoning a spirit that doubles his speed; however, between one summoning and the next, he must cover at least 1 mat-cho. If his speed at the beginning is 1 mat-cho per minute, what is the minimum number of minutes it will take him to reach Otenusa? Give as the solution the numerator of the fraction reduced to lowest terms.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q12|src_cesenatico_2007_squadre_finale__Q12]]
 
 
 
@@ -431,11 +530,19 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x which maximizes length of succession a_n=a_(n-2)-a_(n-1)*
+*Value of x that maximizes the length of the sequence a_n = a_(n-2) - a_(n-1)*
 
-> Today, Numeruto's team is facing a rather unique mission. The three find themselves considering the succession of natural a1 = 1000, a2 = x, a3 = a1−a2, . . . , an = an−2−an−1. The sequence ends with the first negative. What value of x should Numeruto's team trace to get the longest sequence?
-> 
-> Team competition 2007  National final  Problem texts  Pag. 3 di 4
+> Bizarre Mission
+> Today, Numeruto's team is facing a rather peculiar mission. The three of them find themselves considering the sequence of naturals a1 = 1000, a2 = x, a3 = a1−a2, . . . , an = an−2−an−1. The sequence ends at the first negative ai. What value of x should Numeruto's team determine in order to obtain the longest sequence?
+>
+> 2007 Team Competition – National Final – Problem Statements – Page 3 of 4
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q13|src_cesenatico_2007_squadre_finale__Q13]]
 
 
 
@@ -462,9 +569,16 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A parallelogram area formed by the intersections of segments*
+*Area of the parallelogram whose vertices are the intersections of the four segments*
 
-> The front cover is the symbol that every morning in the village of Retta wears proudly. Today Numeruto is required to build himself out of his front cover. Numbering starts from an ABCD parallelogram of area 12600. After that, it denotes with E, F, G, H the mean points of the sides AB, BC, CD, DA respectively and finally traces the segments AG, BH, CE, DF. Calculate the area of the parallelogram at the vertices of the intersections of these four segments.
+> A point of pride
+> The forehead protector is the symbol that every mateninja of the village of Retta wears with pride. Today Numeruto has to make his own forehead protector. He starts from a parallelogram ABCD of area 12600. He then marks the midpoints E, F, G and H of the sides AB, BC, CD and DA respectively, and draws the segments AG, BH, CE and DF. Find the area of the parallelogram whose vertices are the intersections of these four segments.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q14|src_cesenatico_2007_squadre_finale__Q14]]
 
 
 
@@ -495,11 +609,16 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of the radii of two tangent circles in a rectangle*
+*Greatest possible sum of the radii of two externally tangent circles in a rectangle*
 
-![[src_cesenatico_2007_squadre_finale__prob15.png]]
+> In the open
+> Numeruto and Sekante finally meet, face to face, on a plateau. The plateau is a 2940×3000 rectangle, and two circles must be drawn, externally tangent to each other, each tangent to two consecutive sides of the rectangle, so that every side is touched by exactly one circle. Find the greatest possible sum of the radii.
 
-> In the open field, Numeruto and Sekante finally face each other, face to face, on a plain. The plane is shaped like a rectangle 2940×3000, and two tangent circumferences must be drawn externally, and each of the two tangents on two consecutive sides of the rectangle, so that all sides are touched by a single circumference. Determine the maximum value of the sum of the rays.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[src_cesenatico_2007_squadre_finale__prob15.png]]
 
 
 
@@ -526,9 +645,16 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little b with (mnmn)_b perfect cube, answer b+m+n*
+*Smallest integer b > 1 such that (mnmn)b is a perfect cube; give b+m+n*
 
-> The invasion! The Moreninja of the village of the Root have invaded the village of Numeruto! Every street corner is the scene of bloody clashes. In one of these, two mateninja are committed to finding the smallest integer b > 1 such that there exist m, n natural minors of b so that the positive integer (mnmn) b (i.e. the number mnmn at the base of b) is a perfect cube. Returns the value of b+m+n as a response.
+> Invasion!
+> The mateninja of the village of Radice have invaded Numeruto's village! Every street corner is the scene of fierce fighting. In one clash, two mateninja are trying to find the smallest integer b > 1 such that there exist natural numbers m and n, both less than b, for which the positive integer (mnmn)b (that is, the number mnmn in base b) is a perfect cube. Give b+m+n as the answer.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q16|src_cesenatico_2007_squadre_finale__Q16]]
 
 
 
@@ -555,9 +681,16 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Years orderly divided by k, k-1,... more than 2007*
+*First year after 2007 at which a longer run of years divisible in order by k, k−1, k−2, … begins*
 
-> The last favorable moment for the seal closure ritual that imprisons the demon was 2007, as mathematics is reinforced by the fact that 2007 is divisible by 9, 2008 by 8, 2009 by 7, and 2010 by 6. When a sequence, longer than this, of years with the characteristic of being orderly divisible by positive integers k, k −1, k −2, begins for the first time after 2007. . . ?
+> The fleeting moment
+> The last favourable moment for the closing ritual of the seal that imprisons the demon was 2007, because the mathemagic is strengthened by the fact that 2007 is divisible by 9, 2008 by 8, 2009 by 7 and 2010 by 6. When, for the first time after 2007, will there begin a sequence longer than this one, of years divisible in order by positive integers k, k −1, k −2, . . . ?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q17|src_cesenatico_2007_squadre_finale__Q17]]
 
 
 
@@ -585,9 +718,16 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total number of iterated merger awards from 95 schools*
+*Total number of homages paid in the successive mergers of 95 schools*
 
-> A form of courtesy In ancient times there were as many as 95 Shinobi schools, each with only one morning teacher. Each year, the two schools that had fewer teachers than all the others (or possibly two random choices among all schools with the least number of teachers if more than two) merged. It was a well-established tradition that during the merging rituals of two schools, each of the morning teachers of the two merging schools paid tribute to each of the teachers of the other school. Today, in Numeruth's time, there are only three schools left, one with 31 teachers and the other two with 32 teachers. How many tributes have been exchanged so far?
+> A form of courtesy
+> In ancient times there were fully 95 Shinobi schools, and each had only one mateninja master. Every year, the two schools with fewer masters than all the others merged (or, if more than two schools shared that minimum, two chosen at random among them). It was an established tradition that, during the rituals of a merger, each mateninja master of either school paid homage to each master of the other school. Today, in Numeruto's time, only 3 schools remain: one with 31 masters, and the other two with 32 masters each. How many homages have been exchanged in all, up to today?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q18|src_cesenatico_2007_squadre_finale__Q18]]
 
 
 
@@ -614,9 +754,16 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cyclic quadrilateral area with E reflection (radius 15)*
+*Area of a cyclic quadrilateral, given a reflection E and a circumradius of 15*
 
-> Amara medicine Otenusa is engaged in a difficult healing technique. Doses and measures are essential for medical morning. Otenusa considers an ABCD quadrilateral inscribed in a circumference with a radius equal to 15 mat-shaku. That said, the symmetry of B with respect to the axis of the AC segment, Otenusa knows that AC, BD and DE have lengths equal to 23, 24 and 25 mat-shaku respectively. What is the surface area of the ABCD quadrilateral in mat-shaku2?
+> Bitter medicine
+> Otenusa is working on a difficult healing technique. Doses and measurements are essential for mateninja physicians. She considers a quadrilateral ABCD inscribed in a circle of radius 15 mat-shaku. Let E be the reflection of B in the perpendicular bisector of the segment AC. Otenusa knows that AC, BD and DE have lengths 23, 24 and 25 mat-shaku respectively. What is the area of quadrilateral ABCD, in mat-shaku2?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q19|src_cesenatico_2007_squadre_finale__Q19]]
 
 
 
@@ -649,9 +796,22 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of N values with N=sum i/a_i, at positive increases*
+*Sum of the positive integers N that can be written as the given sum in strictly increasing positive integers a_i; last four digits if the sum exceeds 9999*
 
-> A curious coincidence A curious coincidence has recently been noted. All of the greatest moreninjas in the history of the village of Retta have had a life force positive integer N such that there are a1, a2, . . . , a2007 positive integers for which a1 < a2 < ... < a2007 e N = 1 a1 + 2 a2 + 3 a3 +··+ 2007 a2007. Find the sum of all life force N values (indicate the last 4 digits of that sum if the result is greater than 9999).
+> A curious coincidence
+> A curious coincidence has recently been noticed. Every one of the greatest mateninja in the history of the village of Retta has had, as vital force, a positive integer N for which there exist positive integers a1, a2, . . . , a2007 such that a1 < a2 < ... < a2007 and
+> N = 1
+> a1 + 2
+> a2 + 3
+> a3 +··+ 2007
+> a2007.
+> Find the sum of all such values of the vital force N (if that sum is greater than 9999, give its last 4 digits).
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q20|src_cesenatico_2007_squadre_finale__Q20]]
 
 
 
@@ -681,9 +841,18 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Valid sequences of 12 zodiac positions starting from tiger*
+*Valid sequences of 12 zodiac positions starting with the tiger*
 
-> As we all know, the signs of the morning zodiac are 12 like ours. Each sign has exactly two friends and one enemy sign. The two friends of one sign are always enemies of the other. A sign and its enemy always have the same two friend signs. Friendship and enmity are symmetrical. Mathematical techniques of mateninja require a rapid sequence of positions to be executed by hand. The different positions in the whole are 12, each called as the corresponding sign of the morning zodiac. In a sequence of valid positions the positions are all different, if a sign appears its enemy does not appear and two friends signs are never consecutive. How many are in all the valid position sequences that start with the tiger's position?
+> Magic positions
+> As everyone knows, there are 12 mateninja zodiac signs, just as in ours. Each sign has exactly two friend signs and one enemy sign. The two friends of a sign are always enemies of each other. A sign and its enemy always have the same two friend signs. Friendship and enmity are symmetric.
+>
+> Mateninja mathemagical techniques require a rapid sequence of hand positions. There are 12 positions in all, each named after the corresponding mateninja zodiac sign. In a valid sequence the positions are all different; if a sign appears, its enemy does not; and two friend signs are never consecutive. How many valid sequences of positions begin with the tiger?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q21|src_cesenatico_2007_squadre_finale__Q21]]
 
 
 
@@ -714,9 +883,20 @@ How to divide 4 males and 8 females into 3 mixed teams
 <div class="qlang-split" data-lang="en"></div>
 
 
-Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
+*Sum of the coefficients a1 + a4 + a7 + ... of p(x); the formula for p is a broken extraction, and the answer is numerator plus denominator in lowest terms*
 
-> A rough road Numeruto and his team are chasing Sekante's kidnappers. Our mornings are moving cautiously, the pursuers have spread the traps. Suddenly, Numeruto is trapped in a trap. If p(x) = x4+x2+1 3 2007. If p(x) = a0 + a1x + a2x2 + ·· + a8028x8028, the only way to escape the trap is to calculate a1 + a4 + a7 +...+ a3k+1 +...+a8026. Give the sum of the numerator and denominator of the result reduced to the minimum terms.
+> A rough path
+> Numeruto and his team are pursuing Sekante's kidnappers. Our mateninja advance cautiously; the fugitives have strewn the path with traps. Suddenly Numeruto walks into a snare.
+> Let p(x) =
+> x4+x2+1
+> 3
+> 2007. If p(x) = a0 + a1x + a2x2 + ·· + a8028x8028, the only way out of the trap is to compute a1 +a4 +a7 +...+a3k+1 +...+a8026. Give, as the answer, the sum of the numerator and the denominator of the result reduced to lowest terms.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q22|src_cesenatico_2007_squadre_finale__Q22]]
 
 
 
@@ -747,9 +927,18 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to assign categories to 8 missions (1 G,2 M,5 P)*
+*Ways to assign categories to 8 missions, of which 1 went to a Grandin, 2 to Mezzin and 5 to Piccin teams*
 
-> A distracted official The missions are listed by the village council in descending order of difficulty, in categories A, B, C, D. There are three levels of mateninja, the Piccin (the apprentices), the Mezzin and the Grandin (the most skilled). Missions A are entrusted exclusively to the Grandin, those B only to the Mezzin, those C can be assigned to the Mezzin or Piccin, those D only to the Piccin. A distracted official lost the scroll on which he had written the categories of the last eight missions inspected by the board. All you know is that one of these was entrusted to a Grandin, two to a Mezzin, five to a Piccin team. But he doesn't remember which missions were entrusted to whom. In how many ways can you assign each mission its own category in a way that is consistent with the information it has?
+> An absent-minded official
+> Missions are catalogued by the village's grand council in decreasing order of difficulty, in the categories A, B, C and D. There are three ranks of mateninja: the Piccin (the apprentices), the Mezzin, and the Grandin (the most skilled). Missions of type A are entrusted exclusively to Grandin, those of type B only to Mezzin, those of type C may be assigned to Mezzin or Piccin, and those of type D only to Piccin.
+>
+> An absent-minded official has lost the scroll on which he had written the categories of the last 8 missions examined by the council. He knows only that 1 of them was entrusted to a Grandin, 2 to Mezzin, and 5 to teams of Piccin. He does not remember which missions were entrusted to whom. In how many ways can he assign each mission its category, compatibly with the information he has?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q23|src_cesenatico_2007_squadre_finale__Q23]]
 
 
 
@@ -777,6 +966,13 @@ Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of the number of magic morning decks dividers*
+*Number of positive divisors of the number of magic mateninja decks*
 
-> The classic mateninja deck consists of 16 cards, marked with a number between 1, 2, 3, 4 and a symbol between ♥, ♣, ♦, (so that for each paired number-symbol there is a card). A mateninja deck becomes magical if adjacent cards have adjacent values (the 4 is considered adjacent to  1 and vice versa, a value is not adjacent to itself). How many possible magic morning decks are there? Give the answer the number of all the positive divisors of the number of magic decks.
+> A stacked deck
+> The classic mateninja deck consists of 16 cards, each marked with a number among 1, 2, 3, 4 and a symbol among ♥, ♣, ♦, ♠ (so that there is one card for every number–symbol pair). A mateninja deck becomes magic if adjacent cards have adjacent values (4 is regarded as adjacent to 1 and vice versa; a value is not adjacent to itself). How many magic mateninja decks are there? Give, as the answer, the number of positive divisors of the number of magic decks.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2007_squadre_finale#q24|src_cesenatico_2007_squadre_finale__Q24]]

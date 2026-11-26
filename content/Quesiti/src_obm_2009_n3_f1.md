@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri a 3 cifre che "detonano" 314 (ogni cifra è strettamente maggiore).*
+*Conta i numeri di tre cifre che "detonano" 314 (ogni cifra strettamente maggiore).*
 
-> Un numero naturale a tre cifre $A$ \textit{detona} un numero naturale a tre cifre $B$ se ogni cifra di $A$ è maggiore della cifra corrispondente di $B$. Ad esempio, $876$ detona $345$; tuttavia, $651$ non detona $542$ perché $1 < 2$. Quanti numeri a tre cifre esplodono? (A) $120$ (B) $240$ (C) $360$ (D) $480$ (E) $600$
+> Un numero naturale di tre cifre $A$ \textit{fa detonare} un numero naturale di tre cifre $B$ se ciascuna cifra di $A$ è maggiore della cifra corrispondente di $B$. Ad esempio, $876$ fa detonare $345$; tuttavia, $651$ non fa detonare $542$ perché $1 < 2$. Quanti numeri di tre cifre fanno detonare $314$? (A) $120$ (B) $240$ (C) $360$ (D) $480$ (E) $600$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n3_f1#q01|src_obm_2009_n3_f1__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Interi positivi m,n con 15m=20n; mn è necessariamente un multiple di cui il valore.*
+*Numeri interi positivi m, n tali che 15m=20n; mn è necessariamente un multiplo di quale valore?*
 
-> I numeri interi positivi $m$ e $n$ soddisfano $15m = 20n$. Poi è possibile affermare, con certezza, che $mn$ è un multiple di: (A) $5$ (B) $10$ (C) $12$ (D) $15$ (E) $20$
+> I numeri interi positivi $m$ e $n$ soddisfano $15m = 20n$. Allora è possibile affermare con certezza che $mn$ è un multiplo di: (A) $5$ (B) $10$ (C) $12$ (D) $15$ (E) $20$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n3_f1#q02|src_obm_2009_n3_f1__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se x^2=x+3, trovi x^3.*
+*Se x^2=x+3, determina x^3.*
 
 > Se $x^2 = x + 3$, allora $x^3$ è uguale a: (A) $x^2 + 3$ (B) $x + 4$ (C) $2x + 2$ (D) $4x + 3$ (E) $x^2 - 2$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n3_f1#q03|src_obm_2009_n3_f1__Q03]]
 
 
 
@@ -106,11 +127,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A'B'C'D' quadrato da una rotazione di 25 gradi in senso orario di ABCD circa il punto medio di AB; angolo acuto tra AC e B'D'.*
+*Quadrilatero A'B'C'D' ottenuto dalla rotazione di 25 gradi in senso orario di ABCD attorno al punto medio di AB; angolo acuto tra AC e B'D'.*
 
-> Nella figura, il quadrato $A'B'C'D'$ è stato ottenuto da una rotazione in senso orario del quadrato $ABCD$ di $25$ gradi circa il punto medio di $AB$. Qual è l'angolo acuto, in gradi, tra le linee $AC$ e $B'D'$? (A) $5$ (B) $25$ (C) $45$ (D) $65$ (E) $85$
+> Nella figura, il quadrato $A'B'C'D'$ è stato ottenuto ruotando in senso orario il quadrato $ABCD$ di $25$ gradi attorno al punto medio di $AB$. Qual è, in gradi, l'angolo acuto tra le rette $AC$ e $B'D'$? (A) $5$ (B) $25$ (C) $45$ (D) $65$ (E) $85$
 
 ![[src_obm_2009_n3_f1__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n3_f1#q04|src_obm_2009_n3_f1__Q04]]
 
 
 
@@ -133,9 +161,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Uno dei cinque numeri divide la somma degli altri quattro; quale uno.*
+*Uno dei cinque numeri divide la somma degli altri quattro: quale?*
 
-> Uno dei seguenti cinque numeri è un divisore della somma degli altri quattro. Qual e' quel numero? (A) $20$ (B) $24$ (C) $28$ (D) $38$ (E) $42$
+> Uno dei seguenti cinque numeri è un divisore della somma degli altri quattro. Qual è quel numero? (A) $20$ (B) $24$ (C) $28$ (D) $38$ (E) $42$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n3_f1#q05|src_obm_2009_n3_f1__Q05]]
 
 
 
@@ -157,9 +192,15 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Logica: Agilulfo è punito solo se riceve un avvertimento e sua madre è a casa; dato che non è stato punito, questa affermazione è certamente vera.*
+*Logica: Agilulfo viene punito solo se riceve un avvertimento e sua madre è in casa; poiché non è stato punito, quale delle seguenti affermazioni è certamente vera?*
 
-> Ogni volta che Agilulfo torna a casa dalla scuola con un avvertimento, se sua madre è a casa, lo mette sotto punizione. Sapendo che ieri pomeriggio Agilulfo non è stato punito, quale delle seguenti affermazioni è certamente vera? A) Agilulfo ha ricevuto un avvertimento ieri. B) Agilulfo non ha ricevuto un avvertimento ieri. (C) Ieri pomeriggio sua madre era a casa. (D) Ieri pomeriggio sua madre non era a casa. (E) Nessuna delle affermazioni di cui sopra è certamente vera.
+> Ogni volta che Agilulfo torna a casa da scuola con un avvertimento (advertencia), se sua madre è in casa, lo mette in punizione. Sapendo che ieri pomeriggio Agilulfo non è stato messo in punizione, quale delle seguenti affermazioni è certamente vera? (A) Ieri Agilulfo ha ricevuto un avvertimento. (B) Ieri Agilulfo non ha ricevuto un avvertimento. (C) Ieri pomeriggio sua madre era in casa. (D) Ieri pomeriggio sua madre non era in casa. (E) Nessuna delle affermazioni sopra è certamente vera.
+
+**Topic:** [[topic_logica|Logica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n3_f1#q06|src_obm_2009_n3_f1__Q06]]
 
 
 
@@ -184,11 +225,18 @@ Logica: Agilulfo è punito solo se riceve un avvertimento e sua madre è a casa;
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel minimo n>1 per posizionare n pezzi su n×n tabella senza due nella stessa riga, colonna o diagonale.*
+*Il più piccolo n>1 tale che si possano collocare n pezzi su una scacchiera n×n senza che due pezzi si trovino nella stessa riga, nella stessa colonna o sulla stessa diagonale.*
 
-> Qual è il valore più piccolo di $n > 1$ per il quale è possibile posizionare pezzi $n$ su una tavola $n \times n$ in modo che non ci siano due pezzi nella stessa riga, nella stessa colonna o nella stessa diagonale? Le figure mostrano coppie di pezzi nella stessa riga, nella stessa colonna e sulla stessa diagonale, su diverse tavole. (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
+> Qual è il valore minimo di $n > 1$ per cui è possibile posizionare $n$ pezzi su una scacchiera di dimensioni $n \times n$ in modo che nessun due pezzi si trovino nella stessa riga, nella stessa colonna o sulla stessa diagonale? Le figure mostrano coppie di pezzi nella stessa riga, nella stessa colonna e sulla stessa diagonale, su diverse scacchiere. (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
 
 ![[src_obm_2009_n3_f1__q07.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n3_f1#q07|src_obm_2009_n3_f1__Q07]]
 
 
 
@@ -213,11 +261,18 @@ Logica: Agilulfo è punito solo se riceve un avvertimento e sua madre è a casa;
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel quadrato ABCD del lato 4 con K su AD, L su AB, M su BC e KLM un triangolo rettangolo con angolo retto uguale a L, trovare l'area del CDKM quadrilaterale.*
+*Nel quadrato ABCD di lato 4, con K su AD, L su AB, M su BC e KLM triangolo rettangolo isoscele con l'angolo retto in L, si determini l'area del quadrilatero CDKM.*
 
-> Nella figura, $ABCD$ è un quadrato di lato $4$, $K$ appartiene al lato $AD$, $L$ appartiene al lato $AB$, $M$ appartiene al lato $BC$, e $KLM$ è un triangolo rettangolare di uguali braccia con angolo retto a $L$. Poi la superficie del quadrilaterale $CDKM$ è uguale a: (A) $6$ (B) $8$ (C) $10$ (D) $12$ (E) $14$
+> Nella figura, $ABCD$ è un quadrato di lato $4$, $K$ appartiene al lato $AD$, $L$ appartiene al lato $AB$, $M$ appartiene al lato $BC$, e $KLM$ è un triangolo rettangolo isoscele con l'angolo retto in $L$. Allora l'area del quadrilatero $CDKM$ è uguale a: (A) $6$ (B) $8$ (C) $10$ (D) $12$ (E) $14$
 
 ![[src_obm_2009_n3_f1__q08.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n3_f1#q08|src_obm_2009_n3_f1__Q08]]
 
 
 
@@ -242,11 +297,18 @@ Logica: Agilulfo è punito solo se riceve un avvertimento e sua madre è a casa;
 <div class="qlang-split" data-lang="it"></div>
 
 
-Su una mappa del quartiere (case A, B, C, D), contare da quante case si può iniziare un percorso attraversando ogni strada esattamente una volta.
+*Su una mappa di un quartiere (case A, B, C, D), conta da quante case si può iniziare un percorso che attraversi ogni strada esattamente una volta.*
 
-> La figura accanto è la mappa di un quartiere: i punti $A$, $B$, $C$ e $D$ sono case e i segmenti sono strade. Da quante case è possibile fare un percorso che attraversa esattamente una volta ogni strada? È consentito passare più di una volta attraverso la stessa casa. (A) $0$ (B) $1$ (C) $2$ (D) $3$ (E) $4$
+> La figura accanto è la mappa di un quartiere: i punti $A$, $B$, $C$ e $D$ sono case, e i segmenti sono strade. Da quante case è possibile partire per percorrere un itinerario che attraversi ciascuna strada esattamente una volta? È consentito passare più di una volta per la stessa casa. (A) $0$ (B) $1$ (C) $2$ (D) $3$ (E) $4$
 
 ![[src_obm_2009_n3_f1__q09.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n3_f1#q09|src_obm_2009_n3_f1__Q09]]
 
 
 
@@ -270,11 +332,17 @@ Su una mappa del quartiere (case A, B, C, D), contare da quante case si può ini
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dal mezzogiorno, quando le mani dell'ora e del minuto formano per la prima volta un angolo di 145 gradi.*
+*A partire da mezzogiorno, quando le lancette delle ore e dei minuti formano per la prima volta un angolo di 145 gradi?*
 
-> L'orologio della parete indica inizialmente mezzogiorno. Le mani dell'ora e del minuto formeranno per la prima volta un angolo di $145$ gradi: (A) tra le 12h e le 12h10min. (B) tra le 12.10 e le 12.15 min. (C) tra le 12.15 e le 12.20 min. D) tra le 12h20 e le 12h25. (E) dopo le 12h25min.
+> L'orologio da parete indica inizialmente mezzogiorno. Le lancette delle ore e dei minuti formeranno un angolo di $145$ gradi per la prima volta: (A) tra le 12:00 e le 12:10. (B) tra le 12:10 e le 12:15. (C) tra le 12:15 e le 12:20. (D) tra le 12:20 e le 12:25. (E) dopo le 12:25.
 
 ![[src_obm_2009_n3_f1__q10.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n3_f1#q10|src_obm_2009_n3_f1__Q10]]
 
 
 
@@ -297,9 +365,16 @@ Su una mappa del quartiere (case A, B, C, D), contare da quante case si può ini
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tutto il numero positivo n tale che il numero di divisori di 2n è uguale al doppio del numero di divisori di n; concludere quale è n.*
+*Numero intero positivo n tale che il numero di divisori di 2n sia il doppio del numero di divisori di n; determina quale sia n.*
 
-> Considera il numero intero positivo $n$ tale che il numero di divisori positivi del doppio di $n$ sia uguale al doppio del numero di divisori positivi di $n$. Possiamo concludere che $n$ è (A) un numero primo (B) un numero pari (C) un numero odd (D) un quadrato perfetto (E) una potenza interiore di $2$
+> Si consideri l'intero positivo $n$ tale che il numero di divisori positivi del doppio di $n$ sia uguale al doppio del numero di divisori positivi di $n$. Si può concludere che $n$ è (A) un numero primo (B) un numero pari (C) un numero dispari (D) un quadrato perfetto (E) una potenza intera di $2$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n3_f1#q11|src_obm_2009_n3_f1__Q11]]
 
 
 
@@ -322,9 +397,16 @@ Su una mappa del quartiere (case A, B, C, D), contare da quante case si può ini
 <div class="qlang-split" data-lang="it"></div>
 
 
-I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale e il resto spostato; contare i modi.*
+*I 5 libri di Esmeralda vengono rimessi a scaffale con esattamente due al loro posto originario e il resto spostato; conta i modi.*
 
-> Esmeralda ha cinque libri sull'eraldia su uno scaffale. Il fine settimana, pulì lo scaffale e, dopo aver sostituito i libri, ne mise due nel posto in cui erano prima e gli altri in luoghi diversi da dove erano. In quanti modi avrebbe potuto farlo? (A) $20$ (B) $25$ (C) $30$ (D) $34$ (E) $45$
+> Esmeralda ha cinque libri sull'araldica su uno scaffale. Nel fine settimana ha pulito lo scaffale e, rimettendo a posto i libri, ne ha collocati due nel posto in cui si trovavano prima e gli altri in posti diversi da quelli in cui si trovavano. In quanti modi avrebbe potuto farlo? (A) $20$ (B) $25$ (C) $30$ (D) $34$ (E) $45$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n3_f1#q12|src_obm_2009_n3_f1__Q12]]
 
 
 
@@ -347,9 +429,16 @@ I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale
 <div class="qlang-split" data-lang="it"></div>
 
 
-*6 domande test per 18 studenti; ogni studente ha ottenuto esattamente 4 corrette e ogni domanda ha avuto lo stesso numero di risposte corrette; trovare m.*
+*Una prova di 6 domande per 18 studenti; ogni studente ha avuto esattamente 4 risposte corrette e ogni domanda ha avuto lo stesso numero m di risposte corrette; determina m.*
 
-> Il professor Piraldo ha applicato un test di domande $6$ agli studenti $18$. Ogni domanda vale $0$ o $1$ punti; non ci sono punteggi parziali. Dopo il test, Piraldo ha creato una tabella come quella di seguito per organizzare i voti, in cui ogni riga rappresenta uno studente e ogni colonna rappresenta una domanda. Piraldo ha scoperto che ogni studente ha ottenuto esattamente le domande corrette e che ogni domanda ha avuto lo stesso numero di risposte corrette. Qual è il valore di $m$? (A) $8$ (B) $9$ (C) $10$ (D) $12$ (E) $14$
+> Professor Piraldo applied a test of $6$ questions to $18$ students. Each question is worth $0$ or $1$ point; there are no partial scores. After the test, Piraldo made a table like the one below to organize the grades, in which each row represents a student and each column represents a question. $$\begin{array}{c|cccccc} \text{Students} & 1 & 2 & 3 & 4 & 5 & 6 \\ \hline \text{Arnaldo} & 0 & 1 & 1 & 1 & 1 & 0 \\ \text{Bernaldo} & 1 & 1 & 1 & 0 & 0 & 1 \\ \text{Cernaldo} & 0 & 1 & 1 & 1 & 1 & 0 \\ \vdots & & & & & & \end{array}$$ Piraldo found that each student got exactly $4$ questions correct and that each question had the same number $m$ of correct answers. What is the value of $m$? (A) $8$ (B) $9$ (C) $10$ (D) $12$ (E) $14$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n3_f1#q13|src_obm_2009_n3_f1__Q13]]
 
 
 
@@ -372,9 +461,16 @@ I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione f:Z->Z con f(0)=0, f(1)=1, f(2)=2 e f(x+12)=f(x+21)=f(x; trovare f(2009).*
+*Funzione f:Z->Z tale che f(0)=0, f(1)=1, f(2)=2 e f(x+12)=f(x+21)=f(x); determina f(2009).*
 
-> $f : \mathbb{Z} \to \mathbb{Z}$ deve essere una funzione tale che $f(0) = 0$, $f(1) = 1$, $f(2) = 2$ e $f(x+12) = f(x+21) = f(x)$ per ogni $x \in \mathbb{Z}$. Poi $f(2009)$ è: (A) $0$ (B) $1$ (C) $2$ (D) $3$
+> Sia $f : \mathbb{Z} \to \mathbb{Z}$ una funzione tale che $f(0) = 0$, $f(1) = 1$, $f(2) = 2$ e $f(x+12) = f(x+21) = f(x)$ per ogni $x \in \mathbb{Z}$. Allora $f(2009)$ è: (A) $0$ (B) $1$ (C) $2$ (D) $3$ (E) $2009$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n3_f1#q14|src_obm_2009_n3_f1__Q14]]
 
 
 
@@ -399,11 +495,18 @@ I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Semicircolo sul diametro AB, centro O, con CD=BC e angolo BAD=72 gradi; trovare angolo DEC.*
+*Semicerchio sul diametro AB, centro O, con CD=BC e angolo BAD=72 gradi; determina l'angolo DEC.*
 
-> Nella figura, $CD = BC$, $\angle BAD = 72^\circ$, $AB$ è il diametro e $O$ è il centro del semicircolo. Determinare la misura dell'angolo $\angle DEC$. (A) $36^\circ$ (B) $42^\circ$ (C) $54^\circ$ (D) $63^\circ$ (E) $18^\circ$
+> Nella figura, $CD = BC$, $\angle BAD = 72^\circ$, $AB$ è il diametro e $O$ è il centro del semicerchio. Determinare la misura dell'angolo $\angle DEC$. (A) $36^\circ$ (B) $42^\circ$ (C) $54^\circ$ (D) $63^\circ$ (E) $18^\circ$
 
 ![[src_obm_2009_n3_f1__q15.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n3_f1#q15|src_obm_2009_n3_f1__Q15]]
 
 
 
@@ -426,9 +529,16 @@ I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La minima k reale tale che 2x^2-12xy+ky^2>=0 per tutte le x,y reali.*
+*Il più piccolo k reale tale che 2x^2-12xy+ky^2>=0 per tutti i x,y reali.*
 
-> È noto che $2x^2 - 12xy + ky^2 \ge 0$ per tutti i $x$ reali, $y$. Il valore reale più piccolo di $k$ è (A) $9$ (B) $16$ (C) $18$ (D) $27$ (E) $36$
+> È noto che $2x^2 - 12xy + ky^2 \ge 0$ per tutti i $x$, $y$ reali. Il valore reale più piccolo di $k$ è (A) $9$ (B) $16$ (C) $18$ (D) $27$ (E) $36$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n3_f1#q16|src_obm_2009_n3_f1__Q16]]
 
 
 
@@ -451,9 +561,16 @@ I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale
 <div class="qlang-split" data-lang="it"></div>
 
 
-In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, trovi la differenza più grande tra i due numeri primi.
+*Tra tutte le rappresentazioni di 126 come somma di due numeri primi secondo la congettura di Goldbach, determina la massima differenza tra i due numeri primi.*
 
-> La famosa Conjectura di Goldbach dice che ogni numero intero pari maggiore di $2$ può essere scritto come la somma di due numeri primi. Ad esempio, $18$ può essere rappresentato come $5 + 13$ o, anche, come $7 + 11$. Considerando tutte le possibili rappresentazioni di $126$ come somma di due numeri primi, qual è la più grande differenza tra i due numeri primi che lo formano? (A) $112$ (B) $100$ (C) $92$ (D) $88$ (E) $80$
+> La celebre congettura di Goldbach afferma che ogni numero intero pari maggiore di $2$ può essere espresso come somma di due numeri primi. Ad esempio, $18$ può essere rappresentato come $5 + 13$ oppure anche come $7 + 11$. Considerando tutte le possibili rappresentazioni di $126$ come somma di due numeri primi, qual è la differenza massima tra i due numeri primi che lo compongono? (A) $112$ (B) $100$ (C) $92$ (D) $88$ (E) $80$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n3_f1#q17|src_obm_2009_n3_f1__Q17]]
 
 
 
@@ -476,9 +593,16 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un sottoinsieme di {1,...,20} è 'superpar' quando due dei suoi elementi hanno un prodotto pari; trovare il numero massimo di elementi.*
+*Un sottoinsieme di {1,...,20} è "superpar" quando il prodotto di due qualsiasi dei suoi elementi è pari; determina il numero massimo di elementi.*
 
-> Un sottoinsieme di $\{1, 2, 3, \dots, 20\}$ è \textit{superpar} quando due dei suoi elementi hanno un prodotto pari. Il maggior numero di elementi di un sottoinsieme superpar è: (A) $3$ (B) $4$ (C) $6$ (D) $7$ (E) $11$
+> Un sottoinsieme di $\{1, 2, 3, \dots, 20\}$ è \textit{superpar} quando il prodotto di due qualsiasi dei suoi elementi è pari. Il numero massimo di elementi di un sottoinsieme superpar è: (A) $3$ (B) $4$ (C) $6$ (D) $7$ (E) $11$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n3_f1#q18|src_obm_2009_n3_f1__Q18]]
 
 
 
@@ -503,7 +627,14 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 
 *S_n è la somma dei primi dieci multipli positivi di n; calcola S_1+S_2+...+S_10.*
 
-> Per ogni numero naturale $n$, $S_n$ è la somma dei primi dieci multipli positivi di $n$. Ad esempio, $S_2 = 2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20$. Che cos' è $S_1 + S_2 + S_3 + \cdots + S_{10}$? (A) $2925$ (B) $3025$ (C) $3125$ (D) $3225$ (E) $3325$
+> Per ogni numero naturale $n$, si ponga $S_n$ uguale alla somma dei primi dieci multipli positivi di $n$. Ad esempio, $S_2 = 2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20$. Quanto vale $S_1 + S_2 + S_3 + \cdots + S_{10}$? (A) $2925$ (B) $3025$ (C) $3125$ (D) $3225$ (E) $3325$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n3_f1#q19|src_obm_2009_n3_f1__Q19]]
 
 
 
@@ -528,11 +659,18 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi tangenti esternamente (radii 3 e 4) con tangenti esterni comuni a P,Q e R,S e tangente interna che li incontrano a M,N; rapporto tra le aree dei quadrilaterali MNPQ e MNRS.*
+*Due cerchi tangenti esternamente (raggi 3 e 4), con tangenti comuni esterne in P,Q e R,S e una tangente interna che le incontra in M,N; rapporto delle aree dei quadrilateri MNPQ e MNRS.*
 
-> I cerchi $C_1$ e $C_2$, rispettivamente di raggio $3$ e $4$, sono tangenti esternamente a $T$. Le tangenti esterne comuni toccano $C_1$ a $P$ e $Q$ e $C_2$ a $R$ e $S$. La tangente interna comune a $T$ taglia le tangenti esterne ai punti $M$ e $N$, come mostra la figura. Il rapporto tra le superfici dei quadrilaterali $MNPQ$ e $MNRS$ è (A) $\frac{1}{7}$ (B) $\frac{9}{16}$ (C) $\frac{3}{4}$ (D) $\frac{\sqrt{3}}{2}$ (E) $\frac{13}{15}$
+> I cerchi $C_1$ e $C_2$, di raggi rispettivamente $3$ e $4$, sono tangenti esternamente in $T$. Le tangenti comuni esterne toccano $C_1$ in $P$ e $Q$, e $C_2$ in $R$ e $S$. La tangente comune interna in $T$ interseca le tangenti esterne nei punti $M$ e $N$, come mostra la figura. Il rapporto tra le aree dei quadrilateri $MNPQ$ e $MNRS$ è (A) $\frac{1}{7}$ (B) $\frac{9}{16}$ (C) $\frac{3}{4}$ (D) $\frac{\sqrt{3}}{2}$ (E) $\frac{13}{15}$
 
 ![[src_obm_2009_n3_f1__q20.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n3_f1#q20|src_obm_2009_n3_f1__Q20]]
 
 
 
@@ -554,9 +692,15 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due auto partono contemporaneamente da A e B verso l'altra su una strada retta; date le distanze distanti quando ciascuna raggiunge il punto medio M, si trova la distanza tra le città.*
+*Due automobili partono contemporaneamente da A e da B e si muovono l'una verso l'altra su una strada rettilinea; data la distanza che le separa quando ciascuna raggiunge il punto medio M, determinare la distanza tra le città.*
 
-> Due auto lasciano contemporaneamente le città $A$ e $B$, partendo da una città all'altra, con velocità costanti, in direzioni opposte. Le due città sono collegate da una strada dritta. Quando l'auto più veloce raggiunge il punto medio $M$ di $AB$, la distanza tra le due auto è $96$ km. Quando l'auto più lenta raggiunge il punto $M$, le auto sono a $160$ km di distanza. Qual è la distanza, in km, tra le due città? (A) $320$ (B) $420$ (C) $480$ (D) $520$ (E) $560$
+> Due automobili partono simultaneamente dalle città $A$ e $B$, muovendosi da una città verso l'altra con velocità costanti e in direzioni opposte. Le due città sono collegate da una strada rettilinea. Quando l'automobile più veloce raggiunge il punto medio $M$ di $AB$, la distanza tra le due automobili è di $96$ km. Quando l'automobile più lenta raggiunge il punto $M$, le automobili sono distanti $160$ km. Qual è la distanza, in km, tra le due città? (A) $320$ (B) $420$ (C) $480$ (D) $520$ (E) $560$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n3_f1#q21|src_obm_2009_n3_f1__Q21]]
 
 
 
@@ -579,9 +723,16 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N è una torre di potenza di otto del 2009; sommare ripetutamente i numeri a una singola cifra (radice digitale); trovarla.*
+*N è una torre di potenze composta da 2009 ottetti; somma ripetutamente le cifre fino a ottenere una singola cifra (radice digitale); determinala.*
 
-> Let $N = 8^{8^{\cdot^{\cdot^{8}}}}$, in cui figurano $2009$ numeri $8$ (una torre di $2009$ otto). Agilulfo, sotto punizione, deve scrivere la somma delle cifre di $N$, ottenendo un numero $M$; quindi deve calcolare la somma delle cifre di $M$; e deve ripetere la procedura fino a ottenere un numero con una singola cifra. Aiutiamo Agilulfo: quella cifra è (A) $1$ (B) $2$ (C) $3$ (D) $7$ (E) $8$
+> Sia $N = 8^{8^{\cdot^{\cdot^{8}}}}$, in cui compaiono $2009$ numeri $8$ (una torre di $2009$ ottoni). Agilulfo, in punizione, deve scrivere la somma delle cifre di $N$, ottenendo un numero $M$; poi deve calcolare la somma delle cifre di $M$; e deve ripetere la procedura finché non ottiene un numero con una sola cifra. Aiutiamo Agilulfo: quella cifra è (A) $1$ (B) $2$ (C) $3$ (D) $7$ (E) $8$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n3_f1#q22|src_obm_2009_n3_f1__Q22]]
 
 
 
@@ -606,11 +757,18 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cubbi impilati in un blocco; data la sua vista sinistra e la sua vista anteriore, determinare quale delle figure non può essere la vista superiore.*
+*Cubi impilati a formare un blocco; dati la vista laterale sinistra e la vista frontale, determina quale delle figure non può essere la vista in pianta.*
 
-> Alcuni cubetti erano impilati formando un blocco. Le figure di fianco rappresentano la vista da sinistra e la vista dalla parte anteriore di questo blocco. Guardando il blocco dall'alto, quale delle figure di sotto può essere visto? (Ogni opzione mostra una configurazione etichettata con le direzioni "sinistra" (esquerda) e "front" (frente).
+> Alcuni cubi sono stati impilati formando un blocco. Le figure accanto rappresentano la vista da sinistra e la vista frontale di questo blocco. Guardando il blocco dall'alto, quale delle figure sottostanti \textbf{non} si può vedere? (Ogni opzione mostra una configurazione contrassegnata dalle direzioni "sinistra" (esquerda) e "frontale" (frente).)
 
 ![[src_obm_2009_n3_f1__q23.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n3_f1#q23|src_obm_2009_n3_f1__Q23]]
 
 
 
@@ -633,9 +791,16 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lappe di notebook rettangolare con confini gialli di 24 cm e confini rossi di 36 cm; ciascun punto dipingue il colore del suo lato più vicino; trova la zona gialla.*
+*Foglio rettangolare da quaderno con bordi gialli lunghi 24 cm e bordi rossi lunghi 36 cm; ogni punto è colorato del colore del lato più vicino; determina l'area gialla.*
 
-> Un foglio del quaderno di Carlos è un rettangolo con due lati gialli (frontieri) di $24$ cm e due lati rossi (frontieri) di $36$ cm. Carlos dipinge ogni punto del rettangolo nello stesso colore del lato più vicino a quel punto. Qual è l'area della regione dipinta di giallo? (A) $144$ cm$^2$ (B) $288$ cm$^2$ (C) $364$ cm$^2$ (D) $442$ cm$^2$ (E) $524$ cm$^2$
+> Una pagina del quaderno di Carlos è un rettangolo con due lati (i bordi) gialli di $24$ cm e due lati (i bordi) rossi di $36$ cm. Carlos colora ciascun punto del rettangolo dello stesso colore del lato più vicino a quel punto. Qual è l'area della regione colorata di giallo? (A) $144$ cm$^2$ (B) $288$ cm$^2$ (C) $364$ cm$^2$ (D) $442$ cm$^2$ (E) $524$ cm$^2$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n3_f1#q24|src_obm_2009_n3_f1__Q24]]
 
 
 
@@ -658,6 +823,13 @@ In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I lati di un triangolo formano una progressione aritmetica con differenza comune t; trovare la distanza tra incentro e centroide.*
+*I lati di un triangolo formano una progressione aritmetica di ragione t; trova la distanza tra il centro incircoscritto e il baricentro.*
 
-> I lati di un triangolo formano una progressione aritmetica con differenza comune (ratio) $t$. Quindi la distanza tra l'incentro e il baricentro (centroid) di questo triangolo è: (A) $t$ (B) $\frac{t}{2}$ (C) $\frac{t}{3}$ (D) $\frac{2t}{3}$ (E) i dati non sono sufficienti
+> I lati di un triangolo formano una progressione aritmetica con differenza (rapporto) comune $t$. Allora la distanza tra l'incentro e il baricentro (centroide) di questo triangolo è: (A) $t$ (B) $\frac{t}{2}$ (C) $\frac{t}{3}$ (D) $\frac{2t}{3}$ (E) i dati sono insufficienti
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n3_f1#q25|src_obm_2009_n3_f1__Q25]]

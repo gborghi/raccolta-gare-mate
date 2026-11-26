@@ -31,11 +31,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolare il valore del rapporto delle somme di potenze consecutive*
+*Calcola il valore del rapporto tra somme di potenze consecutive*
 
-> Calcolare il valore di $$\frac{2014^2 + 4 \times 2013^2 + 2012^2}{2013^2 + 4 \times 2012^2 + 2011^2} \div \frac{2013^2 + 4 \times 2012^2 + 2011^2}{2012^2 + 4 \times 2011^2 + 2010^2}.$$
+> Calcola il valore di
+> $$\frac{2014^2 + 4 \times 2013^2 + 2012^2}{2013^2 + 4 \times 2012^2 + 2011^2} \div \frac{2013^2 + 4 \times 2012^2 + 2011^2}{2012^2 + 4 \times 2011^2 + 2010^2}.$$
 
-**Risposta:** 1
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2013-14_round1#q01|src_bmo_2013-14_round1__Q01]]
 
 
 
@@ -59,11 +65,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova l'angolo CDE in triangolo con due altitudini*
+*Trovare l'angolo CDE in un triangolo con due altezze*
 
-> Nel triangolo $ABC$, $D$ è il piede della perpendicolare da $A$ a $BC$, e $E$ è il piede della perpendicolare da $B$ a $AC$. L'angolo $\angle ABC = 40^\circ$. Qual è l'angolo $\angle CDE$?
+> Nel triangolo $ABC$, $D$ è il piede della perpendicolare condotta da $A$ a $BC$, e $E$ è il piede della perpendicolare condotta da $B$ a $AC$. L'angolo $\angle ABC = 40^\circ$. Qual è l'angolo $\angle CDE$?
 
-**Risposta:** 40
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2013-14_round1#q02|src_bmo_2013-14_round1__Q02]]
 
 
 
@@ -86,9 +97,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Poverità massima di 3 dividendo un numero scritto con la cifra 3^2013*
+*Massima potenza di 3 che divide un numero scritto con la cifra 3^2013*
 
-> Un numero è scritto in base $3^{2013}$ utilizzando solo la cifra $3^{2013}$. Nessun altro numero appare. Trova la potenza più alta di $3$ che divide questo numero.
+> Un numero è scritto in base $3^{2013}$ utilizzando solo la cifra $3^{2013}$. Non compare nessun'altra cifra. Determinare la massima potenza di $3$ che divide questo numero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2013-14_round1#q03|src_bmo_2013-14_round1__Q03]]
 
 
 
@@ -111,9 +129,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i piani di vacanza di 5 giorni con limitazioni di attività*
+*Conta i piani di vacanza di 5 giorni con vincoli relativi alle attività*
 
-> Isaac sta pianificando una vacanza di cinque giorni. In ciascuno dei cinque giorni ha intenzione di fare solo una delle seguenti cose: andare a fare surf, andare a vela o andare in bicicletta. Vuole andare a fare surf almeno un giorno. Vuole andare a vela almeno un giorno. Inoltre, non vuole andare in bicicletta per due giorni consecutivi. In quanti modi può pianificare le sue vacanze?
+> Isaac sta pianificando una vacanza di cinque giorni. In ciascuno dei cinque giorni, intende fare esattamente una delle seguenti attività: andare a fare surf, andare a vela o andare in bicicletta. Vuole andare a fare surf almeno un giorno. Vuole andare a vela almeno un giorno. Inoltre, non vuole andare in bicicletta per due giorni consecutivi. In quanti modi può pianificare la sua vacanza?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2013-14_round1#q04|src_bmo_2013-14_round1__Q04]]
 
 
 
@@ -138,9 +163,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo equilaterale con punto interno; dimostrare due identità/inequità*
+*Triangolo equilatero con un punto interno; dimostrare due identità/disuguaglianze*
 
-> Che $ABC$ sia un triangolo equilaterale, e che $P$ sia un punto all'interno di questo triangolo. I piedi delle perpendicolari da $P$ ai lati $BC$, $CA$ e $AB$ siano rispettivamente $D$, $E$ e $F$. Provare che a) $AP + BP + CP = AD + BE + CF$, b) $AP + BD + CE \geq BP + CD + AE$.
+> Sia $ABC$ un triangolo equilatero e sia $P$ un punto all'interno di questo triangolo. Siano $D$, $E$ e $F$ i piedi delle perpendicolari condotte da $P$ ai lati $BC$, $CA$ e $AB$ rispettivamente. Dimostrare che
+> a) $AP + BP + CP = AD + BE + CF$,
+> b) $AP + BD + CE \geq BP + CD + AE$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2013-14_round1#q05|src_bmo_2013-14_round1__Q05]]
 
 
 
@@ -165,6 +199,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La media ponderata dell'angolo di prova si trova tra 60 e l'angolo più grande*
+*Dimostrare che la media angolare pesata si trova tra 60 e l'angolo massimo*
 
-> Gli angoli $A$, $B$ e $C$ di un triangolo sono misurati in gradi, e $A$, $B$ e $C$ sono interi positivi con $A + B + C = 180$. Le lunghezze dei lati opposti sono rispettivamente $a$, $b$ e $c$. Prova che $$60 \leq \frac{aA + bB + cC}{a + b + c} \leq C$$ dove $C$ è l'angolo più grande e $c$ è il lato più lungo corrispondente.
+> Gli angoli $A$, $B$ e $C$ di un triangolo si misurano in gradi, e $A$, $B$ e $C$ sono interi positivi con $A + B + C = 180$. Le lunghezze dei lati opposti sono rispettivamente $a$, $b$ e $c$. Dimostrare che
+> $$60 \leq \frac{aA + bB + cC}{a + b + c} \leq C$$
+> dove $C$ è l'angolo più grande e $c$ è il lato più lungo corrispondente.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2013-14_round1#q06|src_bmo_2013-14_round1__Q06]]

@@ -30,12 +30,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum 2001+2002+2003+2004+2005*
+*The result of the sum*
 
-> What is the result of the sum   2001 + 2002 + 2003 + 2004 + 2005 = ?
-> A) 1015       B) 5010       C) 10150     D) 11005     E) 10015
+> What is the result of the sum 2001 + 2002 + 2003 + 2004 + 2005 = ?
+> A) 1015
+> B) 5010
+> C) 10150
+> D) 11005
+> E) 10015
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_ecolier#q01|src_kangourou_2004_ecolier__Q01]]
 
 
 
@@ -81,7 +88,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Extension of path for deviation*
+*By how many kilometres the route from A to B is lengthened*
 
 ![[src_kangourou_2004_ecolier__prob2.png]]
 
@@ -100,9 +107,17 @@ level: kangourou
 \end{document}
 ```
 
-> In the drawing below, you can see the road between town A and town B, shown by a continuous line, and the deviation for ongoing work in section A' B', shown by a dashed line. How many kilometers does the path from A to B extend because of the deviation? A) 4 B) 8 C) 6 D) 10 E) cannot be answered without further information
+> In the drawing below you can see the road between town A and town B, shown by a solid line, and the diversion for the works in progress on the stretch A' B', shown by a dashed line. By how many kilometres is the route from A to B lengthened because of the diversion?
+> A) 4
+> B) 8
+> C) 6
+> D) 10
+> E) one cannot answer without further information
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_ecolier#q02|src_kangourou_2004_ecolier__Q02]]
 
 
 
@@ -131,17 +146,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many swallows at the beginning*
+*How many swallows were perched on the wires at the start*
 
-> There were some swallows on the power lines. At a certain moment 5 of
-> those swallows flew away, and 3 new swallows landed.
-> We now count the swallows on the power lines: there are 12. How many swallows
-> were perched on the lines at the beginning? 
-> A)  8           B)  9
-> C)  10
-> D)  12         E)  14
+> There were some swallows on the power lines. At a certain moment 5 of those swallows flew away, and 3 new swallows perched. We now count the swallows on the power lines: there are 12. How many swallows were perched on the wires at the start?
+> A) 8
+> B) 9
+> C) 10
+> D) 12
+> E) 14
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_ecolier#q03|src_kangourou_2004_ecolier__Q03]]
 
 
 
@@ -169,13 +186,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers in rectangle and circle but not triangle*
+*Which numbers are inside the rectangle and the circle but not the triangle*
 
 ![[src_kangourou_2004_ecolier__prob4.png]]
 
-> What numbers are written inside the rectangle and the circle but not inside the triangle? A) 5 and 11 B) 1 and 10     C) 13 D) 3 and 9      E) 6, 7 and 4
+> Which numbers are written inside the rectangle and the circle but not inside the triangle?
+> A) 5 and 11
+> B) 1 and 10
+> C) 13
+> D) 3 and 9
+> E) 6, 7 and 4
 
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_ecolier#q04|src_kangourou_2004_ecolier__Q04]]
 
 
 
@@ -217,13 +242,31 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many paint squares (black to white)*
+*How many white little squares must be painted black*
 
 ![[src_kangourou_2004_ecolier__prob5.png]]
 
-> How many white squares do I have to paint in black if I want the number of black squares to be exactly half the number of white squares? A) 2 B) 3 C) 4 D) 6 E) 0 A B B’ A’ 3 km
+> How many white little squares must I paint black if I want the number of black little squares to be exactly half the number of white little squares?
+> A) 2
+> B) 3
+> C) 4
+> D) 6
+> E) 0
+> A
+> B
+> B'
+> A'
+> 3 km
+>
+> Page
+> Page 6
+> Kang 2004
+> Kang 2004
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_ecolier#q05|src_kangourou_2004_ecolier__Q05]]
 
 
 
@@ -251,13 +294,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the net of the cube (opposite colour faces)*
+*Which net is that of the cube*
 
 ![[src_kangourou_2004_ecolier__prob6.png]]
 
-> A cube (the one in the figure to the right) is painted so that each face and its opposite face have the same color, different from the colors of the other faces. Which of the following nets is that of the surface of the cube? A)                B)                    C)                  D)               E)
+> A cube (the one in the figure on the right) is painted so that each face and the face opposite it have the same colour, different from the colours of the other faces. Which of the following nets is that of the surface of the cube we are talking about?
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_ecolier#q06|src_kangourou_2004_ecolier__Q06]]
 
 
 
@@ -291,13 +342,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exact time among four clocks*
+*What the exact time is*
 
 ![[src_kangourou_2004_ecolier__prob7.png]]
 
-> In the drawing below you can see four clocks represented at the same time. Only one indicates the correct time; another marks a delay of 20 minutes, a third is 20 minutes ahead, and finally the fourth is stopped. What is the correct time? A) 4 and 45 minutes B) 5 and 5 minutes C) 5 and 25 minutes D) 5 and 40 minutes E) cannot be answered without further information
+> In the drawing below you can see four clocks shown at the same instant. Only one of them shows the exact time; another is 20 minutes slow, a third is 20 minutes fast, and the fourth has stopped. What is the exact time?
+> A) 4:45
+> B) 5:05
+> C) 5:25
+> D) 5:40
+> E) one cannot answer without further information
 
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_ecolier#q07|src_kangourou_2004_ecolier__Q07]]
 
 
 
@@ -326,13 +386,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which rectangle and negative*
+*Which rectangle is the negative of the one on the right*
 
 ![[src_kangourou_2004_ecolier__prob8.png]]
 
-> The illustrated rectangles are all the same size. Only one of the rectangles A, B, C, D, E is the negative (eventually rotated) of the one on the right (i.e. it has white squares in the positions where the one on the right has them black and vice versa). What kind? (A) B) C) D) E) Questions from N. 9 al N. 16 is worth 4 points each.
+> The rectangles shown all have the same dimensions. Only one of the rectangles A, B, C, D, E is the negative (possibly rotated) of the one on the right (that is, it has white squares in the positions where the one on the right has black ones, and vice versa). Which?
+> A)
+> B)
+> C)
+> D)
+> E)
+> Questions 9 to 16 are worth 4 points each
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_ecolier#q08|src_kangourou_2004_ecolier__Q08]]
 
 
 
@@ -364,20 +433,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of a fountain pen*
+*How many grams a fountain pen weighs*
 
-> 7 pencils weigh 30 grams more than 2 pencils. A pencil and a fountain pen together weigh 15 grams. How many grams does a fountain pen weigh?
+> 7 pencils weigh 30 grams more than 2 pencils. A pencil and a fountain pen weigh 15 grams together. How many grams does a fountain pen weigh?
 > A) 6
 > B) 7
-> C)8            D) 9
+> C) 8
+> D) 9
 > E) 10
-> 
-> Pag. 
-> Pag. 7
+>
+> Page
+> Page 7
 > Kang 2004
 > Kang 2004
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_ecolier#q09|src_kangourou_2004_ecolier__Q09]]
 
 
 
@@ -402,13 +475,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shovelfuls of stones for 350 of concrete*
+*How many shovelfuls of stones are required*
 
-> To make concrete you need to mix 4 shovelfuls of stones,
-> 2 shovelfuls of sand and 1 shovelful of cement. How many shovelfuls of stones are required to obtain 350 shovelfuls of concrete?
-> A) 200        B) 150         C)  100       D)  87.5      E)  50
+> To make concrete one must mix 4 shovelfuls of stones, 2 shovelfuls of sand and 1 shovelful of cement. How many shovelfuls of stones are required to obtain 350 shovelfuls of concrete?
+> A) 200
+> B) 150
+> C) 100
+> D) 87.5
+> E) 50
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_ecolier#q10|src_kangourou_2004_ecolier__Q10]]
 
 
 
@@ -439,9 +518,17 @@ level: kangourou
 
 *What part of the fruit remains in the basket*
 
-> Elizabeth brings Clement a basket of apples and oranges. Clement eats half the apples and a third of the oranges. What part of the fruit remains in the basket? (a) half of all fruit B) more than half of all fruit C) two fifths of all fruit D) less than one third of all fruit E) one third of all fruit
+> Elisabetta brings Clemente a basket of apples and oranges. Clemente eats half of the apples and a third of the oranges. What part of the fruit remains in the basket?
+> A) half of all the fruit
+> B) more than half of all the fruit
+> C) two fifths of all the fruit
+> D) less than a third of all the fruit
+> E) a third of all the fruit
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_ecolier#q11|src_kangourou_2004_ecolier__Q11]]
 
 
 
@@ -470,11 +557,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many sheets are missing between pages 24 and 45*
+*How many sheets are missing between page 24 and page 45*
 
-> Simonetta found an old book missing a few pages. The book is open and the left page is numbered "page 24" while the right page is numbered "page 45". How many sheets are missing between page 24 and page 45? A) 9 B) 10 C) 11 D) 20         E) 21
+> Simonetta has found an old book from which some pages are missing. The book is open and the left-hand page is numbered "page 24" while the right-hand one is numbered "page 45". How many sheets are missing between "page 24" and "page 45"?
+> A) 9
+> B) 10
+> C) 11
+> D) 20
+> E) 21
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_ecolier#q12|src_kangourou_2004_ecolier__Q12]]
 
 
 
@@ -503,11 +598,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Sandro's birthday day.
+*On which day of the week Sandro will celebrate his birthday*
 
-> Angelo, born in March, is 52 days older than his classmate Sandro. This year, Angelo celebrated his birthday on Tuesday. What day of the week will Sandro celebrate his birthday this year? A) Monday B) Tuesday C) Wednesday D) Thursday E) Friday
+> Angelo, born in March, is 52 days older than his classmate Sandro. This year Angelo celebrated his birthday on a Tuesday. On which day of the week will Sandro celebrate his birthday this year?
+> A) Monday
+> B) Tuesday
+> C) Wednesday
+> D) Thursday
+> E) Friday
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_ecolier#q13|src_kangourou_2004_ecolier__Q13]]
 
 
 
@@ -531,11 +635,19 @@ Sandro's birthday day.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which difference is not equal to 671-389*
+*Which difference is not equal to 671 − 389*
 
-> Which difference is not equal to 671 − 389? A)  771 −489     B)  681 −399    C) 669 −391     D) 1871 −1589    E) 600 −318
+> Which difference is not equal to 671 − 389?
+> A) 771 − 489
+> B) 681 − 399
+> C) 669 − 391
+> D) 1871 − 1589
+> E) 600 − 318
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_ecolier#q14|src_kangourou_2004_ecolier__Q14]]
 
 
 
@@ -568,13 +680,25 @@ Sandro's birthday day.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colour of house number 3*
+*What colour house number 3 is*
 
 ![[src_kangourou_2004_ecolier__prob15.png]]
 
-> There are five houses on Rainbow Street: one blue, one red, one yellow, one pink and one green. The houses are numbered from 1 to 5 (as shown in Figure 1). We know that: - the blue house and the yellow house have even numbers; - the red house is only near the blue house; - the blue house is between the green house and the red house. What color is the house number 3 ? A) blue B) red C) yellow D) pink E) green
+> There are five houses in Rainbow Street: a blue one, a red one, a yellow one, a pink one and a green one. The houses are numbered from 1 to 5 (as in the figure). It is known that:
+> - the blue house and the yellow house have even numbers;
+> - the red house is next only to the blue house;
+> - the blue house is between the green one and the red one.
+> What colour is the house marked with the number 3?
+> A) blue
+> B) red
+> C) yellow
+> D) pink
+> E) green
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_ecolier#q15|src_kangourou_2004_ecolier__Q15]]
 
 
 
@@ -613,27 +737,30 @@ Sandro's birthday day.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of the digits (sum 9, 10 digits)*
+*The product of the digits of this number*
 
-> The sum of the digits of a 10-digit number is equal to 9. What
-> is the product of the digits of this number?
-> A)  0     
-> B)  1            C)  45   
+> The sum of the digits of a 10-digit number is equal to 9. What is the product of the digits of this number?
+> A) 0
+> B) 1
+> C) 45
 > D) 9x8x7x6x … x2x1
-> E)  it depends on the digits that make up the number
+> E) it depends on the digits that make up the number
 > 1
 > 2
 > 3
 > 4
 > 5
-> 
-> Pag. 
-> Pag. 8
+>
+> Page
+> Page 8
 > Kang 2004
 > Kang 2004
-> Questions from No. 17 to No. 24 are worth 5 points each
+> Questions 17 to 24 are worth 5 points each
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_ecolier#q16|src_kangourou_2004_ecolier__Q16]]
 
 
 
@@ -665,13 +792,21 @@ Sandro's birthday day.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure cannot be constructed with two pieces*
+*Which figure cannot be built from two different pieces*
 
 ![[src_kangourou_2004_ecolier__prob17.png]]
 
-> Figures A, B, D are constructed by placing 7 cubes side by side (equal to each other), C by placing 8 side by side. Which of these figures cannot be constructed using two different pieces from those shown next to each other ? A) A B) B C) C D) D E) None, all figures can be constructed in this way
+> The figures below, A, B, D, were built by placing 7 cubes (equal to one another) side by side, and C by placing 8 side by side. Which figure among them cannot be built using two different pieces from those shown alongside?
+> A) A
+> B) B
+> C) C
+> D) D
+> E) none: all the figures can be built in that way
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_ecolier#q17|src_kangourou_2004_ecolier__Q17]]
 
 
 
@@ -724,7 +859,7 @@ Sandro's birthday day.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Of how many triangles the seventh (square numbers)*
+*How many triangles equal to the first the seventh triangle is made of*
 
 ![[src_kangourou_2004_ecolier__prob18.png]]
 
@@ -750,9 +885,17 @@ Sandro's birthday day.
 \end{document}
 ```
 
-> Here you see three triangles in succession. The second and third are obtained by placing 4 and 9 triangles equal to the first side by side respectively. Imagine continuing to build triangles like this. How many triangles equal to the first will make up the seventh triangle of the series (i.e. the fourth you build)? A) 21 B) 25 C) 35 D) 49                 E) 64
+> Here you see three triangles in succession. The second and the third are obtained by placing side by side, in the way shown, 4 and 9 triangles equal to the first respectively. Imagine going on building triangles in this way. How many triangles equal to the first will the seventh triangle of the series be made of (that is, the fourth that you will build)?
+> A) 21
+> B) 25
+> C) 35
+> D) 49
+> E) 64
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_ecolier#q18|src_kangourou_2004_ecolier__Q18]]
 
 
 
@@ -777,11 +920,19 @@ Sandro's birthday day.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number with quotient 10001 and remainder 1*
+*What the number is*
 
-> A number divided by 2004 provides as a quotient 10001 and as a remainder 1. What 's the number ? A) 2006005    B) 2004005     C) 20032004      D) 20042005     E) 20052005
+> A number divided by 2004 gives 10001 as quotient and 1 as remainder. What number is it?
+> A) 2006005
+> B) 2004005
+> C) 20032004
+> D) 20042005
+> E) 20052005
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_ecolier#q19|src_kangourou_2004_ecolier__Q19]]
 
 
 
@@ -824,30 +975,31 @@ Sandro's birthday day.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many white small cubes (3D chessboard)*
+*How many white little cubes were used*
 
 ![[src_kangourou_2004_ecolier__prob20.png]]
 
-> The cube shown in the figure is solid and is
-> built using white small cubes and black small cubes,
-> all of the same size. Two small cubes that match along an entire face always have
-> different colors. The small cubes that contain the vertices of the large
-> cube are all black. How many white small cubes were
-> used?
-> A) 62 
-> B) 63         C) 64  
-> D) 65         E) 68
+> The cube shown in the figure is solid and is built using white little cubes and black little cubes, all of the same size. Two little cubes that meet along a whole face always have different colours. The little cubes that contain the vertices of the large cube are all black. How many white little cubes were used?
+> A) 62
+> B) 63
+> C) 64
+> D) 65
+> E) 68
 > A
 > B
 > C
 > D
-> 
-> Page 
+>
+> Page
 > Page 9
 > Kang 2004
 > Kang 2004
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_ecolier#q20|src_kangourou_2004_ecolier__Q20]]
 
 
 
@@ -876,11 +1028,20 @@ Sandro's birthday day.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number appears in the sequence minus 3*
+*Which of the numbers appears in the new sequence*
 
-> Consider the following sequence of numbers: 11, 18, 25, 32, 39, ... (each number, starting with the second, is obtained by adding 7 to the number preceding it). If we subtract 3 from each number in this sequence, we get another one. Which of the following numbers appears in the latter? A) 221 B) 222 C) 223 D) 224       E) 225
+> Consider the following sequence of numbers: 11, 18, 25, 32, 39, … (every number, starting from the second, is obtained by adding 7 to the number that precedes it). If we subtract 3 from every number of this sequence, we obtain another. Which of the following numbers appears in the latter?
+> A) 221
+> B) 222
+> C) 223
+> D) 224
+> E) 225
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_ecolier#q21|src_kangourou_2004_ecolier__Q21]]
 
 
 
@@ -911,11 +1072,19 @@ Sandro's birthday day.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of second grid column 2x2*
+*The sum of the numbers in the second column*
 
-> In each box of a 2 x 2 grid of 4 squares, a number is written. The sum of the numbers in the first row is 11, the sum of the numbers in the second row is 13, and the sum of the numbers in the first column is 14. What is the sum of the numbers in the second column? A) 8 B) 10 C) 11 D) 14          E) 15
+> In each cell of a 2 x 2 grid formed by 4 squares a number is written. The sum of the numbers in the first row is 11, the sum of the numbers in the second row is 13 and the sum of the numbers in the first column is 14. What is the sum of the numbers in the second column?
+> A) 8
+> B) 10
+> C) 11
+> D) 14
+> E) 15
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_ecolier#q22|src_kangourou_2004_ecolier__Q22]]
 
 
 
@@ -947,11 +1116,20 @@ Sandro's birthday day.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What score can't the team have*
+*Which score the team cannot have*
 
-> After three football championship games, one team scored three goals and suffered one. In the championship, three points are awarded for each win, one point for each draw and zero points for each defeat. What score, among those listed, can't that team have in the standings today? A) 7 B) 6 C) 5 D) 4 E) 3
+> After three matches of the football championship, a team has scored three goals and conceded one. In the championship three points are awarded for every win, one point for every draw and zero points for every defeat. Which score, among those listed, can that team not have in the table today?
+> A) 7
+> B) 6
+> C) 5
+> D) 4
+> E) 3
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_ecolier#q23|src_kangourou_2004_ecolier__Q23]]
 
 
 
@@ -998,12 +1176,32 @@ Sandro's birthday day.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which two letters are equal in the multiplication table*
+*Which two letters stand for the same number*
 
 ![[src_kangourou_2004_ecolier__prob24.png]]
 
-> Figure 1 shows a table of multiplication results between numbers constructed according to the following rule: the number in the box identified by a given row and a given column is the product of the first number (left, in the grey column) of that row and the first number (top, in the grey row) of that column (e.g. 42 = 6 x 7). Two of the letters already entered in the table represent the same number. What are they? A) L e M     B) A e N     C) R e P D) K e P      E) M e S J K L 56 M 36 8 N A 27 6 P 18 R S 42 x 6 7
-> 
-> ECOLIER solutions 2004
+> In the figure a table of results of multiplications of numbers is shown, built according to the following rule: the number found in the cell given by a certain row and a certain column is the product of the first number (on the left, in the grey column) of that row and the first number (at the top, in the grey row) of that column (for example 42 = 6 x 7). Two of the letters already entered in the table stand for the same number. Which are they?
+> A) L and M
+> B) A and N
+> C) R and P
+> D) K and P
+> E) M and S
+> J
+> K
+> L 56
+> M 36 8
+> N
+> A 27 6
+> P
+> 18 R
+> S 42
+> x
+> 6
+> 7
+>
+> SOLUTIONS ÉCOLIER 2004
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_ecolier#q24|src_kangourou_2004_ecolier__Q24]]

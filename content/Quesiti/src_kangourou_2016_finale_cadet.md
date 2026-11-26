@@ -46,7 +46,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*side of the largest triangle*
+*Side of the larger triangle*
 
 ![[src_kangourou_2016_finale_cadet__probc1.png]]
 
@@ -65,9 +65,13 @@ level: kangourou
 \end{document}
 ```
 
-> Look at the figure. All the triangles you can see are equilateral: the sides of the black one (the smallest one) are $2$ cm long, the sides of the gray ones are all $5$ cm long. How long are the sides of the largest triangle (the one that contains them all)? As the figure suggests, the sides of the grey and black triangles that have common vertices are on the same straight line. (see figure)
+> Observe the figure. All the triangles you can see are equilateral: the sides of the black one (the smallest) are $2$ cm long, and the sides of the gray ones are all $5$ cm long. How long are the sides of the largest triangle (the one that contains all of them)? As the figure suggests, the sides of the gray triangles and of the black triangle that share vertices lie on the same straight line. (see figure)
 
-**Answer:** 19
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_finale_cadet#qc1|src_kangourou_2016_finale_cadet__QC1]]
 
 
 
@@ -90,11 +94,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*frozen 2 kang with 2 euro*
+*Gelato 2 with 2 euros*
 
-> The currency of Kangland is the kang. In Kangcity the euro-kang exchange rate works like this: you get $1$ kang by paying $1{,}20$ euro, you get $1$ euro by paying $1$ kang and proportionally if you exchange lower-value coins. In both currencies, the minimum value coin is that of a cent; any amount of money can be changed and the result of the change, if not expressed by an integer of cents, is rounded up to the nearest cent. I'm in Kangcity and I only have euros. Is there a (legal) way to buy a $2$ kang ice cream with only $2$ euros? If yes, what is the minimum number of exchanges that I can make?
+> The currency of Kanglandia is the kang. In Kangcity, the euro-to-kang exchange rate works as follows: you get $1$ kangs by paying $1{,}20$ euros; you get $1$ euros by paying $1$ kangs; and proportionally, if you exchange currencies of lower value. In both currencies, the smallest-denomination coin is the one worth one cent; you can exchange any amount of money, and if the result of the exchange cannot be expressed as a whole number of cents, it is rounded up to the nearest cent. I am in Kangcity and I have only euros. Is there a (lawful) way to buy an ice cream that costs $2$ kangs while spending only $2$ euros? If so, what is the minimum number of exchanges that will allow me to do it?
 
-**Answer:** yes, 40
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_finale_cadet#qc2|src_kangourou_2016_finale_cadet__QC2]]
 
 
 
@@ -120,11 +128,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*is suitable for which?*
+*Which one is suitable?*
 
-> The Fox student must, to be promoted, make a maximum of one mistake and take a closed-ended test. You can choose between two envelopes: - envelope A containing $7$ questions, each with $2$ answers, - envelope B containing $3$ questions, each with $6$ answers. Fox is unprepared and thinks he's answering questions at random. If he wants a promotion, should he choose envelope A or envelope B?
+> To be promoted, student Fox must take a closed-response test, making at most one error. They can choose between two envelopes:
+> - Envelope A, which contains $7$ questions, each with $2$ answers,
+> - Envelope B, which contains $3$ questions, each with $6$ answers.
+> Fox is unprepared and thinks he'll just answer the questions at random. If he wants to be promoted, should he opt for envelope A or envelope B?
 
-**Answer:** envelope B
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_finale_cadet#qc3|src_kangourou_2016_finale_cadet__QC3]]
 
 
 
@@ -163,7 +178,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*full diameter of coin B*
+*Total diameter of coin B*
 
 ![[src_kangourou_2016_finale_cadet__probc4.png]]
 
@@ -181,9 +196,13 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure, two circular coins are outlined on the edge of each of which there is a notch; the two coins touch each other at the notches. The diameter of coin A, the largest, is $18$ mm. If the coin B starts to spin around the coin A, and remains in contact with it at all times, it must make exactly two revolutions around the coin A so that the situation in the figure is repeated for the first time (i.e. the two coins touch again at the notches). Knowing that the diameter of coin B is also an integer of millimeters, what can be said about that length? (see figure)
+> The figure schematically shows two circular coins, each having a notch on its rim; the two coins touch at the notches. The diameter of coin A, the larger one, is $18$ mm. If coin B starts rotating around coin A while always remaining in contact with it, it must complete exactly two revolutions around A for the situation shown in the figure to reappear for the first time (that is, for the two coins to come into contact again at the notches). Given that the diameter of coin B is also an integer number of millimetres, what can be said about this length? (see figure)
 
-**Answer:** 4 or 12
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_finale_cadet#qc4|src_kangourou_2016_finale_cadet__QC4]]
 
 
 
@@ -242,9 +261,13 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure you see a semicircle with diameter $8$. Points $A$ and $D$ are its endpoints, points $B$ and $C$ are two other points on the semicircle that are $2$ away from point $A$ and from point $B$ respectively. How far is point $C$ from point $D$? (see figure)
+> In the figure, you see a semicircle with diameter $8$. The points $A$ and $D$ are its endpoints; the points $B$ and $C$ are two other points on the semicircle, and they are $2$ away from point $A$ and point $B$, respectively. How far is point $C$ from point $D$? (see figure)
 
-**Answer:** 7
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_finale_cadet#qc5|src_kangourou_2016_finale_cadet__QC5]]
 
 
 
@@ -267,8 +290,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*days of additional bridge*
+*Extra bridge days*
 
-> In the strange Kang Republic, years last $3000$ days, numbered from $1$ to $3000$. Holidays are those whose number is divisible by $6$ or is a prime number; the others are working days. If every "bridge" day, that is, a working day preceded and followed by a holiday, were added to the holidays, how many more holidays would there be in each year?
+> In the strange Republic of Kang, years last $3000$ days, numbered from $1$ to $3000$. Holiday days are those whose number is divisible by $6$ or is a prime number; the others are working days. If every "bridge" day—that is, a working day preceded and followed by a holiday day—were also added to the holiday days, how many more holiday days would there be in each year?
 
-**Answer:** 2
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_finale_cadet#qc6|src_kangourou_2016_finale_cadet__QC6]]

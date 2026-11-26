@@ -29,9 +29,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le perpendicolari dei punti su una linea avvolgono una parabola*
+*Le perpendicolari condotte da punti di una retta inviluppano una parabola*
 
-> Che $O$ sia un punto e $r$ una linea nel piano. Per ogni punto $P$ di $r$, $r_P$ deve essere perpendicolare a $OP$ che passa attraverso $P$. Prove che l'insieme $\{r_P \mid P \in r\}$ è l'insieme di tutte le linee tangenti di una parabola.
+> Sia $O$ un punto e $r$ una retta nel piano. Per ogni punto $P$ di $r$, sia $r_P$ la perpendicolare a $OP$ passante per $P$. Dimostrare che l'insieme $\{r_P \mid P \in r\}$ è l'insieme di tutte le rette tangenti a una parabola.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_nu_f2#q01|src_obm_2001_nu_f2__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ogni linea attraverso l'origine incontra infinitamente molti cerchi centrati in punti interi*
+*Ogni retta passante per l'origine interseca infiniti cerchi aventi il centro in punti a coordinate intere*
 
-> $\varepsilon$ sia un numero reale positivo arbitrario. Con centro in ogni punto del piano con coordinate interi, disegnare un cerchio di raggio $\varepsilon$. Prove che ogni linea che passa attraverso l'origine incontra infinitamente molti di questi cerchi.
+> Sia $\varepsilon$ un numero reale positivo arbitrario. Con centro in ciascun punto del piano a coordinate intere, si tracci una circonferenza di raggio $\varepsilon$. Dimostrare che ogni retta passante per l'origine interseca infiniti di questi cerchi.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_nu_f2#q02|src_obm_2001_nu_f2__Q02]]
 
 
 
@@ -82,7 +96,15 @@ level: OBM Nível Universitário
 
 *Esistenza di X in SL(2,Z) tale che X^t AX sia uguale a una delle quattro matrici*
 
-> Definire $SL(2,\mathbb{Z})$ come l'insieme di matrici $2 \times 2$ con voci interi e determinante $1$. Che $A \in SL(2,\mathbb{Z})$ sia una matrice tale che esista $n > 0$ un intero con $A^n = I$. Prova che esiste $X \in SL(2,\mathbb{Z})$ tale che $X^T A X$ sia uguale a una delle seguenti matrici: $$\pm\begin{pmatrix}1 & 0\\0 & 1\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & 0\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & -1\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & 1\end{pmatrix}.$$
+> Definisci $SL(2,\mathbb{Z})$ come l'insieme delle matrici $2 \times 2$ a coefficienti interi e con determinante $1$. Sia $A \in SL(2,\mathbb{Z})$ una matrice tale che esista $n > 0$, un numero intero, con $A^n = I$. Dimostrare che esiste $X \in SL(2,\mathbb{Z})$ tale che $X^T A X$ sia uguale a una delle seguenti matrici:
+> $$\pm\begin{pmatrix}1 & 0\\0 & 1\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & 0\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & -1\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & 1\end{pmatrix}.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_nu_f2#q03|src_obm_2001_nu_f2__Q03]]
 
 
 
@@ -107,11 +129,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare percorsi distinti da A a B sulla figura di segmento unitario senza rivedere un punto*
+*Conta i percorsi distinti da A a B in una figura composta da segmenti unitari, senza rivisitare alcun punto*
 
-> Se si seguono i segmenti unitari della figura di seguito, si può determinare quanti percorsi distinti esistono da $A$ a $B$ senza passare più di una volta attraverso alcun punto.
+> Muovendoti lungo i segmenti unitari della figura sottostante, determina quante vie distinte esistono da $A$ a $B$ senza passare per alcun punto più di una volta.
 
 ![[src_obm_2001_nu_f2__q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_nu_f2#q04|src_obm_2001_nu_f2__Q04]]
 
 
 
@@ -138,13 +167,20 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale per I(u) definita da un'integrale, quindi calcola I(u)*
+*Equazione funzionale per I(u) definita mediante un integrale, poi calcolare I(u)*
 
-> Per tutti i $u$ reali, $I(u) = \int_0^u \ln(1 - 2a\cos x + a^2)\,dx$.
-> 
-> a) Provare che $I(u) = I(-u) = \frac{1}{2}I(u^2)$. [Nota: l'originale utilizza $I(u) = \frac{1}{2}I(u^2)$ con la sostituzione $a \mapsto a^2$; la dichiarazione precisa è: provare $I(u) = I(-u)$ e $I(u) = \frac{1}{2}I(u^2)$.]
-> 
-> b) Calcolare $I(u)$ per tutti $u \in \mathbb{R}$.
+> Per ogni $u$ reale, si ponga $I(u) = \int_0^u \ln(1 - 2a\cos x + a^2)\,dx$.
+>
+> a) Dimostrare che $I(u) = I(-u) = \frac{1}{2}I(u^2)$. [Nota: nell'originale si usa $I(u) = \frac{1}{2}I(u^2)$ con la sostituzione $a \mapsto a^2$; l'enunciato preciso è: dimostra $I(u) = I(-u)$ e $I(u) = \frac{1}{2}I(u^2)$.]
+>
+> b) Calcola $I(u)$ per tutti gli $u \in \mathbb{R}$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_nu_f2#q05|src_obm_2001_nu_f2__Q05]]
 
 
 
@@ -169,8 +205,15 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mappa soggettiva sul disco unitario che preserva la distanza implica isometria*
+*Una applicazione suriettiva sul disco unitario che conserva la distanza implica un'isometria*
 
-> $D$ è l'insieme dei punti di $\mathbb{R}^2$ con $|p| \le 1$. Che $f : D \to D$ sia una funzione soggettiva che soddisfi $|f(p) - f(q)| \le |p - q|$ per tutti $p, q \in D$. Provare che $f$ è un'isometria, cioè $|f(p) - f(q)| = |p - q|$ per tutti $p, q \in D$.
-> 
+> Sia $D$ l'insieme dei punti in $\mathbb{R}^2$ con $|p| \le 1$. Sia $f : D \to D$ una funzione suriettiva che soddisfa $|f(p) - f(q)| \le |p - q|$ per ogni $p, q \in D$. Dimostrare che $f$ è un'isometria, cioè che $|f(p) - f(q)| = |p - q|$ per ogni $p, q \in D$.
+>
 > (Notazione: $|(x,y)| = \sqrt{x^2 + y^2}$.)
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_nu_f2#q06|src_obm_2001_nu_f2__Q06]]

@@ -33,13 +33,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Griglia di somma magica 3x3 con moltipli di 3*
+*Griglia magica 3x3 con multipli di 3*
 
-> In una tabella $3 \times 3$ scriviamo i numeri $1$ a $9$, uno in ogni cella. Quindi calcoliamo la somma dei numeri in ogni riga, in ogni colonna e in ogni diagonale, ottenendo somme $8$ in totale (le tre righe, tre colonne e due diagonali). Ad esempio, nella tabella di seguito tutti i numeri $8$ sono moltipli di $3$.
-> 
+> In una tabella $3 \times 3$ scriviamo i numeri da $1$ a $9$, uno per cella. Calcoliamo poi la somma dei numeri in ogni riga, in ogni colonna e in ogni diagonale, ottenendo in totale $8$ somme (le tre righe, le tre colonne e le due diagonali). Ad esempio, nella tabella sottostante tutti i numeri $8$ sono multipli di $3$.
+>
 > $$\begin{array}{|c|c|c|}\hline 1 & 2 & 3 \\ \hline 4 & 5 & 6 \\ \hline 7 & 8 & 9 \\ \hline\end{array}$$
-> 
-> È possibile che nessuna delle somme $8$ sia un multiple di $3$? Ricorda di giustificare la tua risposta.
+>
+> È possibile che nessuna delle somme $8$ sia un multiplo di $3$? Ricorda di motivare la tua risposta.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n2_f3#q01|src_obm_2011_n2_f3__Q01]]
 
 
 
@@ -62,9 +69,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I punti medi quadrilaterali convex formano triangolo isosceles*
+*I punti medi di un quadrilatero convesso formano un triangolo isoscele*
 
-> Il $ABCD$ deve essere un quadrilaterale convex tale che $AD = DC$, $AC = AB$ e $\angle ADC = \angle CAB$. $M$ e $N$ siano rispettivamente i punti intermedi di $\overline{AD}$ e $\overline{AB}$. Prova che il triangolo $MNC$ è uguale.
+> Sia $ABCD$ un quadrilatero convesso tale che $AD = DC$, $AC = AB$ e $\angle ADC = \angle CAB$. Siano $M$ e $N$ i punti medi di $\overline{AD}$ e $\overline{AB}$, rispettivamente. Dimostrare che il triangolo $MNC$ è isoscele.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n2_f3#q02|src_obm_2011_n2_f3__Q02]]
 
 
 
@@ -87,9 +101,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco: Jade recupera il prodotto della lista numero 2011 di Esmeralda
+*Gioco: Jade recupera il prodotto dell'elenco numerico del 2011 di Esmeralda*
 
-> Esmeralda e Jade giocano a un gioco. Esmeralda fa un elenco di numeri interi positivi $2011$, ma non lo mostra a Jade. Jade può porre a Esmeralda qualsiasi domanda del modulo: "Qual è il GCD o l'LCM di qualsiasi sottoinsieme dei numeri dell'elenco con più di un elemento?" (ad esempio, "Qual è il GCD dei numeri $1$st, $2$nd, e $2000$th dell'elenco?", o "Qual è il LCM di tutti i numeri $2011$ dell'elenco?"). Jade può porre quante domande vuole, ottenendo risposte corrette da Esmeralda (Esmeralda è generosa e dice anche a Jade l'LCM di ogni sottoinsieme dei suoi numeri). Jade può quindi applicare una qualsiasi delle quattro operazioni aritmetiche di base (addizione, sottrazione, moltiplicazione, divisione) ai numeri ottenuti da Esmeralda. Jade può sempre trovare una strategia per determinare il prodotto di tutti i numeri $2011$ della lista di Esmeralda? Giustifica la tua risposta.
+> Esmeralda e Jade giocano a un gioco. Esmeralda compila un elenco di $2011$ numeri interi positivi, ma non lo mostra a Jade. Jade può porre a Esmeralda qualsiasi domanda della forma: "Qual è il MCD o il mcm di un qualsiasi sottoinsieme dei numeri nell'elenco che abbia più di un elemento?" (per esempio: "Qual è il MCD del $1$-esimo, del $2$-esimo e del $2000$-esimo numero nell'elenco?", oppure "Qual è il mcm di tutti i $2011$ numeri nell'elenco?"). Jade può porre quante domande vuole, ottenendo risposte corrette da Esmeralda (Esmeralda è generosa e dice anche a Jade il mcm di ogni sottoinsieme dei suoi numeri). Jade può poi applicare una qualsiasi delle quattro operazioni aritmetiche di base (addizione, sottrazione, moltiplicazione, divisione) ai numeri che ha ottenuto da Esmeralda. Jade può sempre trovare una strategia per determinare il prodotto di tutti i $2011$ numeri nell'elenco di Esmeralda? Giustifica la tua risposta.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n2_f3#q03|src_obm_2011_n2_f3__Q03]]
 
 
 
@@ -112,9 +133,16 @@ Gioco: Jade recupera il prodotto della lista numero 2011 di Esmeralda
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conto massimo di interi positivi con tutte le somme del sottogruppo di elementi distinti non divisibili da qualsiasi quadrato perfetto*
+*Numero massimo di interi positivi tali che le somme degli sottoinsiemi, ciascuna con tutti elementi distinti, non siano divisibili per alcun quadrato perfetto*
 
-> Esmeralda scrisse una lista di numeri interi positivi su un foglio di carta. Renan notò che tutti i numeri dell'elenco, e tutte le somme di qualsiasi quantità di numeri distinti dall'elenco, non sono divisibili da alcun quadrato perfetto diverso da $1$. Qual e' il numero massimo della lista di Esmeralda?
+> Esmeralda ha scritto una lista di numeri interi positivi su un foglio di carta. Renan ha notato che tutti i numeri presenti nella lista, e tutte le somme di qualsiasi quantità di numeri distinti presi dalla lista, non sono divisibili per alcun quadrato perfetto diverso da $1$. Qual è il numero massimo di numeri nella lista di Esmeralda?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n2_f3#q04|src_obm_2011_n2_f3__Q04]]
 
 
 
@@ -137,9 +165,16 @@ Gioco: Jade recupera il prodotto della lista numero 2011 di Esmeralda
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il triangolo equilaterale del lato 2√3 copre almeno 16 punti su 1000 in unità quadrata*
+*Un triangolo equilatero di lato 2√3 copre almeno 16 dei 1000 punti nel quadrato unitario*
 
-> All'interno di un quadrato laterale $16$ sono posizionati punti $1000$. Mostrare che è possibile posizionare un triangolo equilaterale di lato $2\sqrt{3}$ nel piano in modo che copra almeno $16$ di questi punti.
+> All'interno di un quadrato di lato $16$ sono disposti $1000$ punti. Dimostrare che è possibile collocare nel piano un triangolo equilatero di lato $2\sqrt{3}$ in modo che copra almeno $16$ di questi punti.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2011_n2_f3#q05|src_obm_2011_n2_f3__Q05]]
 
 
 
@@ -162,6 +197,13 @@ Gioco: Jade recupera il prodotto della lista numero 2011 di Esmeralda
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Non N naturale a 2 k cifre soddisfa la simmetria I(N)=I(N) e P(N)=P(N*
+*Nessun numero naturale N a 2k cifre soddisfa la simmetria I(N)=I(N) e P(N)=P(N)*
 
-> Per qualsiasi numero naturale $N$ con cifre $2k$, definire $I(N)$ come il numero $k$ di cifre ottenuto scrivendo le cifre di $N$ di ordine odd da sinistra a destra e $P(N)$ come il numero $k$ di cifre ottenuto scrivendo le cifre di $N$ di ordine pari da sinistra a destra. Ad esempio, $I(249035) = 405$ e $P(249035) = 293$. Prove che non è possibile trovare un numero naturale $N$ di cifre $2k$ come $N = I(N) \cdot P(N)$.
+> Per ogni numero naturale $N$ con $2k$ cifre, si definisca $I(N)$ come il numero di $k$ cifre ottenuto scrivendo da sinistra a destra le cifre di $N$ di ordine dispari, e si definisca $P(N)$ come il numero di $k$ cifre ottenuto scrivendo da sinistra a destra le cifre di $N$ di ordine pari. Ad esempio, $I(249035) = 405$ e $P(249035) = 293$. Dimostrare che non è possibile trovare un numero naturale $N$ di $2k$ cifre tale che $N = I(N) \cdot P(N)$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n2_f3#q06|src_obm_2011_n2_f3__Q06]]

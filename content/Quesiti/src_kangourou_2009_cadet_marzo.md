@@ -35,11 +35,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate of number of cats and dogs*
+*Ratio of the number of cats to the number of dogs*
 
-> There are dogs and cats in a room. The number of cat legs is twice the number of dog noses. So the number of cats is A) twice the number of dogs. B) equal to the number of dogs. C) half the number of dogs. D) 1/4 of the number of dogs. E) 1/6 of the number of dogs.
+> In a room, there are dogs and cats. The number of cat paws is twice the number of dog noses. So the number of cats is
+> A) twice the number of dogs.
+> B) equal to the number of dogs.
+> C) half the number of dogs.
+> D) 1/4 of the number of dogs.
+> E) 1/6 of the number of dogs.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q01|src_kangourou_2009_cadet_marzo__Q01]]
 
 
 
@@ -71,11 +80,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-With how many companions did the fourth girl dance?
+*With how many partners did the fourth girl dance?*
 
-> Four girls and four boys attended a dance party. Eventually, the four boys claimed to have danced with 3, 1, 2, 2 different partners while three of the girls claimed to have danced with 2 different partners each. How many different partners did the fourth girl dance with? A) 1 B) 3 C) 0 D) 4 E) 2
+> Four girls and four boys attended a ball. In the end, the four boys state that they danced with 3, 1, 2, and 2 different partners, respectively, while three of the girls state that each of them danced with 2 different partners. With how many different partners did the fourth girl dance?
+> A) 1
+> B) 3
+> C) 0
+> D) 4
+> E) 2
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q02|src_kangourou_2009_cadet_marzo__Q02]]
 
 
 
@@ -151,9 +170,19 @@ With how many companions did the fourth girl dance?
 \end{document}
 ```
 
-> The star depicted here is made up of 12 identical equilateral triangles. The perimeter of the star is 36 cm. How many centimetres does the perimeter of the shaded hexagon measure? A) 6 B) 12 C) 18 D) 24 E) 30
+> The star shown in the figure is made up of 12
+> Identical equilateral triangles. The perimeter of the star is 36 cm. How many centimeters is the perimeter of the shaded hexagon?
+> A) 6
+> B) 12
+> C) 18
+> D) 24
+> E) 30
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q03|src_kangourou_2009_cadet_marzo__Q03]]
 
 
 
@@ -187,9 +216,18 @@ With how many companions did the fourth girl dance?
 
 *How many letters to deliver (odd numbers)*
 
-> The houses on Via Lunga are numbered from 1, without skipping numbers. Henry has to deliver letters to some houses: he has to deliver a letter to each house that has an odd house number, starting with house number 15 and ending with house number 53. How many letters does he have to deliver in all? A) 19 B) 20 C) 27 D) 38 E) 53
+> The houses on Via Lunga are numbered starting from 1, with no numbers skipped. Enrico has to deliver letters to some houses: specifically, he has to deliver one letter to each house with an odd house number, starting with house number 15 and ending with house number 53. How many letters does he have to deliver in total?
+> A) 19
+> B) 20
+> C) 27
+> D) 38
+> E) 53
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q04|src_kangourou_2009_cadet_marzo__Q04]]
 
 
 
@@ -221,13 +259,23 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Black square area (subdivisions)*
+*Area of the small black square (subdivisions)*
 
 ![[src_kangourou_2009_cadet_marzo__prob5.png]]
 
-> The figure shows a square divided into smaller squares. If the largest square has area 1, how much is the area of the black square? A) 1/100 B) 1/300 C) 1/600 D) 1/900 E) 1/1000
+> In the figure, a square divided into is shown
+> Squares that get progressively smaller. If the largest square has an area of 1, what is the area of the small black square?
+> A) 1/100
+> B) 1/300
+> C) 1/600
+> D) 1/900
+> E) 1/1000
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q05|src_kangourou_2009_cadet_marzo__Q05]]
 
 
 
@@ -266,22 +314,22 @@ With how many companions did the fourth girl dance?
 
 *Sum of four distinct integers with product 100*
 
-> The product of four different positive integers is 100. What is their
-> sum?
+> The product of four distinct positive integers is 100. What is their sum?
 > A) 10
 > B) 12
 > C) 15
 > D) 18
 > E) 20
-> Testi_09.qxp  15-04-2009  20:26  Page 16
-> 
-> Pag. 
-> Pag. 17
-> 17
-> Kang 2009
-> Kang 2009
+> Testi_09.qxp 15-04-2009 20:26 Page 16
+>
+> Pag. Pag. 17 17 Kang 2009 Kang 2009
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q06|src_kangourou_2009_cadet_marzo__Q06]]
 
 
 
@@ -310,11 +358,20 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many children with 9 adults in an elevator*
+*How many children with 9 adults in the elevator?*
 
-> An elevator can carry up to 12 adults or up to 20 children. How many children can ride at most together with 9 adults? A) 3 B) 4 C) 5 D) 6 E) 8
+> An elevator can carry up to 12 adults or up to 20 children. At most, how many children can board together with 9 adults?
+> A) 3
+> B) 4
+> C) 5
+> D) 6
+> E) 8
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q07|src_kangourou_2009_cadet_marzo__Q07]]
 
 
 
@@ -347,20 +404,24 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which knots cannot be made with a single piece (parity)*
+*What interweavings not with a single segment (parita)*
 
 ![[src_kangourou_2009_cadet_marzo__prob8.png]]
 
-> The figure shows five knots
-> of rope. Which of them cannot
-> be made with a single piece of rope?
+> The figure shows five interlacings.
+> Of strings. Which of them cannot be made with a single piece of string?
 > A) All
 > B) None
 > C) All except II
-> D) Only III, IV and V       
-> E) Only I, III and V
+> D) III, IV, and V only
+> E) Only I, III, and V
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q08|src_kangourou_2009_cadet_marzo__Q08]]
 
 
 
@@ -392,11 +453,20 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Litres in the half-sized container*
+*Liters in the container with halved dimensions*
 
-> A rectangular parallelepiped container is of such size that, when filled to the brim, it contains one litre of water. Each of its three dimensions is halved, creating a new vessel of the same shape. If this container is also filled to the brim, how many litres of water is it? A) 0,0625 B) 0,125 C) 0,25 D) 0,5 E) A number different from the previous ones
+> A rectangular parallelepiped-shaped container has dimensions such that, when filled to the brim, it holds one liter of water. Each of its three dimensions is halved, creating a new container of the same shape. If this container too is filled to the brim, how many liters of water does it hold?
+> A) 0,0625
+> B) 0,125
+> C) 0,25
+> D) 0,5  
+> E) A number different from the preceding ones
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q09|src_kangourou_2009_cadet_marzo__Q09]]
 
 
 
@@ -429,13 +499,24 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*QPR angle measurement (isosceles triangles)*
+*Measure angle QPR (isosceles triangles)*
 
 ![[src_kangourou_2009_cadet_marzo__prob10.png]]
 
-> The Q, R and S points shown in the figure are aligned, the QPS angle is 12 degrees and the PQ, PS and RS segments are the same length. How many degrees does the QPR angle measure? A) 60 B) 54 C) 42 D) 84 E) 36 Questions from N. 11 to N. 20 are worth 4 points each.
+> The points Q, R, and S shown in the figure
+> They are aligned, angle QPS measures 12 degrees, and segments PQ, PS, and RS are of equal length. How many degrees does angle QPR measure?
+> A) 60
+> B) 54
+> C) 42
+> D) 84
+> E) 36
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q10|src_kangourou_2009_cadet_marzo__Q10]]
 
 
 
@@ -466,11 +547,21 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many N with square and cube with same number of digits*
+*How many Ns with square and cube having the same number of digits*
 
-> How many positive integers N have the following property: "the number of digits of the decimal representation of the square of N is equal to the number of digits of the decimal representation of the cube of N"? A) 2 B) 3 C) 4 D) 9 E) Infinite
+> How many positive integers N have the following property: "the number of digits in the decimal representation of N squared is equal to the number of digits in the decimal representation of N cubed"?
+> A) 2
+> B) 3
+> C) 4
+> D) 9
+> E) Infiniti
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q11|src_kangourou_2009_cadet_marzo__Q11]]
 
 
 
@@ -512,7 +603,7 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum points to be removed for no three collinear points*
+*Minimum number of points to remove for no aligned triplet*
 
 ![[src_kangourou_2009_cadet_marzo__prob12.png]]
 
@@ -526,9 +617,19 @@ With how many companions did the fourth girl dance?
 \end{document}
 ```
 
-> What is the smallest number of points that you can remove from the figure so that there are no three collinear points? A) 1 B) 2 C) 3 D) 4 E) 7
+> What is the smallest number of points that need to be removed from the figure for there to be no three points among the remaining points that are collinear?
+> A) 1 
+> B) 2
+> C) 3
+> D) 4
+> E) 7
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q12|src_kangourou_2009_cadet_marzo__Q12]]
 
 
 
@@ -576,35 +677,24 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest angle in the acute-angled triangle*
+*The smallest angle in an acute triangle*
 
-> Nicola measured the six angles of two triangles, one acute-angled, the other obtuse-angled. He remembers the measures of four of these angles: 120°,
-> 80°, 55° and 10°. How many degrees does the smallest angle in the
-> acute-angled triangle measure?
+> Nicola measured the six angles of two triangles, one acute-angled and the other obtuse-angled. He remembers the measures of four of these angles: 120°, 80°, 55°, and 10°. How many degrees is the smallest angle in the acute-angled triangle?
 > A) 45
 > B) 55
 > C) 5
 > D) 10
-> E) The data are insufficient to answer.
-> I
-> II
-> III
-> IV
-> V
-> S
-> P
-> R
-> Q
-> 12°
-> Testi_09.qxp  15-04-2009  20:26  Page 17
-> 
-> Pag. 
-> Pag. 18
-> 18
-> Kang 2009
-> Kang 2009
+> E) The data are insufficient to respond.
+> I II III IV V S P R Q 12° Testi_09.qxp 15-04-2009 20:26 Page 17
+>
+> Pag. Pag. 18 18 Kang 2009 Kang 2009
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q13|src_kangourou_2009_cadet_marzo__Q13]]
 
 
 
@@ -635,13 +725,23 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded region area (square area 1)*
+*Shaded area (square area 1)*
 
 ![[src_kangourou_2009_cadet_marzo__prob14.png]]
 
-> The largest square shown in the figure has area 1. What is the area of the shaded region? A) B) C) D) E)
+> The largest square shown in the figure
+> ha area 1. What is the area of the shaded region?
+> A) 
+> B) 
+> C) 
+> D) 
+> E)
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q14|src_kangourou_2009_cadet_marzo__Q14]]
 
 
 
@@ -673,11 +773,21 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many liars in the row of 25 (sincere/liars)*
+*How many liars in the line of 25 (honest/liars)?*
 
-> There are two kinds of people living on an island: the sincere, who never lie, and the liars, who always lie. There are 25 people in line on this island. Everyone, except the first in line, says the person in front of him in line is a liar while the first says everyone behind him is a liar. How many liars are in line? (a) 24 (b) 13 (c) 12 (d) 0 (e) It is not possible to establish
+> On an island, there are two categories of people: the sincere, who never lie, and the liars, who always lie. On this island, 25 people are standing in a line. Everyone except the first person in the line says that the person in front of them in the line is a liar, while the first person says that everyone behind them is a liar. How many liars are there in the line?
+> A) 24
+> B) 13
+> C) 12
+> D) 0
+> E) It cannot be determined
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q15|src_kangourou_2009_cadet_marzo__Q15]]
 
 
 
@@ -712,13 +822,23 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of all numbers on the vertices of the solid*
+*Sum of all the numbers on the vertices of the solid*
 
 ![[src_kangourou_2009_cadet_marzo__prob16.png]]
 
-> The solid in the figure has six faces, all triangular. Each of its vertices is associated with a number so that the sum of the numbers associated with the three vertices of each face is the same for all faces. The figure shows the numbers associated with two of the vertices. What is the sum of all the numbers used? A) 9 B) 12 C) 17 D) 18 E) 24
+> The solid in the figure has 6 faces, all of which are triangular. A number is assigned to each of its vertices such that the sum of the numbers assigned to the three vertices of each individual face is the same for all faces. The figure shows the numbers assigned to two of the vertices. What is the sum of all the numbers used?
+> A) 9
+> B) 12
+> C) 17
+> D) 18
+> E) 24
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q16|src_kangourou_2009_cadet_marzo__Q16]]
 
 
 
@@ -751,11 +871,22 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many values of O×T×T×O (alphametic)*
+*How many values of O*T*T*O (cryptarithm)*
 
-> In the equality, different letters represent different numbers, whereas equal letters represent equal numbers. How many different values can the O•T•T•O product take? A) 1 B) 2 C) 3 D) 4 E) 5
+> In equality
+> Different letters represent different digits, while identical letters represent identical digits. How many different values can the product O•T•T•O take?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q17|src_kangourou_2009_cadet_marzo__Q17]]
 
 
 
@@ -821,53 +952,27 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*With which colours the shaded cell (4 colours)*
+*With which colors is the shaded cell (4 colors)?*
 
 ![[src_kangourou_2009_cadet_marzo__prob18.png]]
 
-> We want to colour the cells of the grid in
-> the figure using the four different colours X, Y, Z, W
-> so that two cells that are in contact never
-> receive the same colour (two cells are considered in contact if they have in common at least one
-> vertex). The figure shows that some colours have
-> already been assigned. With which colours can
-> the shaded cell be coloured?
-> A) Only Y.
-> B) Only Z.
-> C) Only W.
+> We want to color the cells of the grid in
+> A figure using four different colors, X, Y, Z, and W, such that two adjacent cells never receive the same color (two cells are considered adjacent if they share at least one vertex). The figure shows that some colors have already been assigned. With which colors can the shaded cell be colored?
+> A) Solo Y.
+> B) Solo Z.
+> C) Solo W.
 > D) Indifferently Z or W.
-> E) It is not possible to achieve the colouring.
-> D.O.D.I.C.I
-> T.R.E
-> = Q.U.A.T.T.R.O
-> 1
-> 3
-> π
-> 4
-> π + 2
-> 16
-> π
-> 12
-> 1
-> 4
-> 1
-> 5
-> X
-> Y
-> Z W
-> Y
-> Y
-> 1/2
-> 1/2
-> Testi_09.qxp  15-04-2009  20:26  Pagina 18
-> 
-> Pag. 
-> Pag. 19
-> 19
-> Kang 2009
-> Kang 2009
+> E) It is not possible to carry out the coloring.
+> D.O.D.I.C.I T.R.E = Q.U.A.T.T.R.O 1 3 π 4 π + 2 16 π 12 1 4 1 5 X Y Z W Y Y 1/2 1/2 Testi_09.qxp 15-04-2009 20:26 Page 18
+>
+> Pag. Pag. 19 19 Kang 2009 Kang 2009
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q18|src_kangourou_2009_cadet_marzo__Q18]]
 
 
 
@@ -897,13 +1002,22 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure the angle X by extending two sides (9-agons)*
+*Measure angle X by extending two sides (9-gon)*
 
 ![[src_kangourou_2009_cadet_marzo__prob19.png]]
 
-> The figure shows a regular polygon with 9 sides. How many degrees does the X angle shown in the figure measure, made by extending two sides? A) 40 B) 45 C) 50 D) 55 E) 60
+> The figure shows a regular polygon with 9 sides. How many degrees does angle X, highlighted in the figure and formed by extending two of the sides, measure?
+> A) 40
+> B) 45
+> C) 50
+> D) 55
+> E) 60
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q19|src_kangourou_2009_cadet_marzo__Q19]]
 
 
 
@@ -940,13 +1054,25 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squares for the tenth drawing of the sequence*
+*Squares for the tenth drawing in the sequence*
 
 ![[src_kangourou_2009_cadet_marzo__prob20.png]]
 
-> The first three drawings of a sequence are shown in the figure: each of them consists of squares of side 1 surrounding a square hole (gray in the figure). How many squares of side 1 are needed to build the tenth drawing of the sequence? A) 76 B) 80 C) 84 D) 92 E) 100 Questions from N. 21 to N. 30 are worth 5 points each.
+> In the figure, the are shown
+> The first three drawings in a sequence: each of them consists of 1-unit squares that surround a square hole (shown in grey in the figure) in the manner indicated. How many 1-unit squares are needed to construct the tenth drawing in the sequence?
+> A) 76
+> B) 80
+> C) 84
+> D) 92
+> E) 100
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q20|src_kangourou_2009_cadet_marzo__Q20]]
 
 
 
@@ -986,9 +1112,20 @@ With how many companions did the fourth girl dance?
 
 ![[src_kangourou_2009_cadet_marzo__prob21.png]]
 
-> We move along the edges of the cube in the figure starting from point P, in the direction indicated by the arrow. At the end of the first edge we have to decide whether to go to the right or to the left, and so at the end of each edge we follow: we choose alternating right and left. How many edges will we have traveled when we first return to point P? A) 2 B) 4 C) 6 D) 9 E) 12
+> We move along the edges of the cube in the figure.
+> Starting from point P, in the direction indicated by the arrow. At the end of the first edge, we have to decide whether to go right or left; the same applies at the end of each edge we traverse subsequently: we choose by alternating right and left. How many edges will we have traversed when we first return to point P?
+> A) 2
+> B) 4
+> C) 6
+> D) 9
+> E) 12
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q21|src_kangourou_2009_cadet_marzo__Q21]]
 
 
 
@@ -1018,11 +1155,21 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ten-digit numbers with adjacent digits that differ by 1*
+*10-digit numbers in which adjacent digits differ by 1*
 
-> How many are the ten-digit positive integers containing only the digits 1, 2 and 3 in which two of any adjacent digits differ by 1? A) 16 B) 32 C) 64 D) 80 E) 100
+> How many positive ten-digit integers contain only the digits 1, 2, and 3, and in which any two adjacent digits differ by 1?
+> A) 16
+> B) 32
+> C) 64
+> D) 80
+> E) 100
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q22|src_kangourou_2009_cadet_marzo__Q22]]
 
 
 
@@ -1071,37 +1218,25 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which mark corresponds to 1/4 (between 1/5 and 1/3)*
+*Which mark corresponds to 1/4 (between 1/5 and 1/3)?*
 
 ![[src_kangourou_2009_cadet_marzo__prob23.png]]
 
-> The figure shows the segment of the number line between the fractions 1/5 and 1/3, divided by marks into segments of equal
-> length. Then 1/4 corresponds to the mark indicated with
+> In the figure, the segment of the number line between the fractions 1/5 and 1/3 is shown, divided by marks into segments of equal length. Then 1/4 corresponds to the mark indicated by
 > A) a 
 > B) b
 > C) c
 > D) d
 > E) e
-> X
-> P
-> 1
-> 5
-> 1
-> 3
-> a
-> b
-> c
-> d
-> e
-> Testi_09.qxp  15-04-2009  20:26  Page 19
-> 
-> Pag. 
-> Pag. 20
-> 20
-> Kang 2009
-> Kang 2009
+> X P 1 5 1 3 a b c d e Testi_09.qxp 15-04-2009 20:26 Page 19
+>
+> Pag. Pag. 20 20 Kang 2009 Kang 2009
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q23|src_kangourou_2009_cadet_marzo__Q23]]
 
 
 
@@ -1134,13 +1269,23 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area ratio of eight parallelepipeds on a cube*
+*Ratio of the surface areas of eight parallelepipeds to that of a cube*
 
 ![[src_kangourou_2009_cadet_marzo__prob24.png]]
 
-> With three cuts we divided a large cube into eight rectangular parallelepipeds. What is the ratio between the sum of the total surfaces of these eight parallelepipeds and the total surface area of the original cube? A) 1:1 B) 4:3 C) 3:2 D) 4:1 E) 2:1
+> With three cuts, we divided a large
+> A cube divided into eight rectangular parallelepipeds. What is the ratio of the sum of the total surface areas of these eight rectangular parallelepipeds to the total surface area of the original cube?
+> A) 1:1
+> B) 4:3
+> C) 3:2
+> D) 4:1
+> E) 2:1
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q24|src_kangourou_2009_cadet_marzo__Q24]]
 
 
 
@@ -1170,11 +1315,21 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many N with maximum divisor = 45 times the minimum*
+*Quanti N with the greatest common divisor = 45 times the minimum*
 
-> How many positive integers N satisfy the following condition: of all the divisors of N, other than N and 1, the largest is 45 times the smallest? A) 0 B) 1 C) 2 D) 3 E) more than 3
+> How many positive integers N satisfy the following condition: among all divisors of N other than N and 1, the largest is 45 times the smallest?
+> A) 0
+> B) 1
+> C) 2
+> D) 3
+> E) more than 3
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q25|src_kangourou_2009_cadet_marzo__Q25]]
 
 
 
@@ -1208,9 +1363,20 @@ With how many companions did the fourth girl dance?
 
 *Minimum side length for 2009 whole squares*
 
-> A square was exactly divided (i.e. without surpluses and overlaps) into 2009 squares. If the length of the side of each of the squares we're talking about is an integer, what is the minimum length of the side of the original square that makes this possible? A) 46 B) 47 C) 503 D) A number different from the previous ones. E) This breakdown is not feasible.
+> A square has been divided exactly (that is, without remainders and without overlaps) into 2009 squares. If the side length of each of the squares in question is an integer, what is the smallest side length of the original square that makes this decomposition possible?
+> A) 46
+> B) 47
+> C) 503
+> D) A different number
+> from the previous ones.
+> E) Such a decomposition is not feasible.
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q26|src_kangourou_2009_cadet_marzo__Q26]]
 
 
 
@@ -1242,11 +1408,23 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which angles of the quadrilateral are < 180 degrees*
+*Which angles of the quadrilateral are < 180 degrees?*
 
-> In an non-self-intersecting PQRS quadrilateral the PQ side measures 2006, the QR side measures 2008, the RS side measures 2007 and the SP side measures 2009. What internal angles of the quadrilateral are necessarily less than 180°? A) P, Q, R, S B) P, Q, R C) Q, R, S D) P, Q, S E) P, R, S
+> In a simple quadrilateral PQRS, side PQ measures 2006, side QR measures 2008, side RS measures 2007, and side SP measures
+> 2009. Which interior angles of the quadrilateral are necessarily
+> Less than 180°?
+> A) P, Q, R, S
+> B) P, Q, R
+> C) Q, R, S
+> D) P, Q, S
+> E) P, R, S
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q27|src_kangourou_2009_cadet_marzo__Q27]]
 
 
 
@@ -1279,11 +1457,21 @@ With how many companions did the fourth girl dance?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the triangle (overlapping with the square)*
+*Area of the triangle (overlaps with the square)*
 
-> By overlapping a square of side 6 centimeters on a triangle, I can cover up to 60% of the area of that triangle. By overlapping the triangle on the square, I can cover up to 2/3 of the area of the square. What is the area of the triangle in square centimetres? A) 22,8 B) 24 C) 36 D) 40 E) 60
+> By superimposing a square with a side length of 6 centimeters on a triangle, I can cover at most 60% of the triangle's area. By superimposing the triangle on the square, I can cover at most 2/3 of the square's area. What is the area of the triangle in square centimeters?
+> A) 22,8
+> B) 24
+> C) 36
+> D) 40
+> E) 60
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q28|src_kangourou_2009_cadet_marzo__Q28]]
 
 
 
@@ -1324,24 +1512,22 @@ With how many companions did the fourth girl dance?
 
 *Maximum alignable numbers (adjacent divisibility)*
 
-> Pinocchio wrote in sequence some positive integers, all
-> different from each other and less than 11. The Talking Cricket observes that in every
-> pair of adjacent numbers, as Pinocchio has aligned them, there is
-> one that is divisible by the other. What is the maximum number of numbers Pinocchio could have written?
+> Pinocchio wrote, in sequence, some positive integers, all different from one another and less than 11. The Talking Cricket notes that in every pair of adjacent numbers, as Pinocchio arranged them, one of the numbers is divisible by the other. What is the maximum number of numbers Pinocchio could have written?
 > A) 6
 > B) 7
 > C) 8
 > D) 9
 > E) 10
-> Testi_09.qxp  15-04-2009  20:26  Page 20
-> 
-> Pag. 
-> Pag. 21
-> 21
-> Kang 2009
-> Kang 2009
+> Testi_09.qxp 15-04-2009 20:26 Page 20
+>
+> Pag. Pag. 21 21 Kang 2009 Kang 2009
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q29|src_kangourou_2009_cadet_marzo__Q29]]
 
 
 
@@ -1382,9 +1568,20 @@ With how many companions did the fourth girl dance?
 
 *Difference BC-AB (long bisector 2)*
 
-> In an ABC triangle the angle in B measures 20 degrees and the angle in C measures 40 degrees. The length of the bisector of the angle in A is 2. What is the difference between the length of BC and the length of AB? A) 4 B) 2 C) 1,5 D) 1 E) A different value Tests_09.qxp 15-04-2009 20:26
-> 
->  
-> 1 2009 Cadet Category For third-year students of lower secondary school or first-year students of upper secondary school
+> In triangle ABC, the angle at B measures 20 degrees and the angle at C measures 40 degrees. The length of the angle bisector of the angle at A is 2. What is the difference between the length of BC and the length of AB?
+> A) 4
+> B) 2
+> C) 1,5
+> D) 1
+> E) A different value
+> Testi_09.qxp 15-04-2009 20:26 Page 21
+>
+>
+> 1 2009 Cadet Category For students in the third year of lower secondary school or the first year of upper secondary school
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_marzo#q30|src_kangourou_2009_cadet_marzo__Q30]]

@@ -33,11 +33,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il più piccolo intero positivo a per quadratici con due radici in (0,1)*
+*Il minimo intero positivo $a$ per cui l'equazione ha due radici distinte in $(0,1)$*
 
-> Trova il numero intero positivo più piccolo $a$ con la proprietà:
-> 
-> Esistono numeri interi $b, c$ in modo che l'equazione $$ax^2 - bx + c = 0$$ abbia due radici distinte nell'intervallo $0 < x < 1$.
+> Trovare il minimo intero positivo $a$ con la proprietà seguente.
+>
+> Esistono interi $b, c$ tali che l'equazione
+> $$ax^2 - bx + c = 0$$
+> ha due radici distinte nell'intervallo $0 < x < 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1989#q01|src_bmo2_1989__Q01]]
 
 
 
@@ -64,11 +73,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi di conteggio delle lettere in cui ciascuna lettera è adiacente a una lettera identica*
+*Disposizioni di quattro A, quattro B e quattro C in cui ogni lettera è accanto a una uguale*
 
-> Trovare il numero di diversi arrangiamenti in una riga delle lettere $$A, A, A, A, B, B, B, B, C, C, C, C$$ in modo tale che ogni lettera sia adiacente a una lettera identica.
-> 
-> Indicare se è possibile generare le lettere $n$ che appaiono ciascuna cinque volte.
+> Trovare il numero di disposizioni diverse in fila delle lettere
+> $$A, A, A, A, B, B, B, B, C, C, C, C$$
+> tali che ogni lettera sia adiacente a una lettera identica.
+>
+> Indicare, se si può, una generalizzazione al caso di $n$ lettere che compaiono ciascuna cinque volte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1989#q02|src_bmo2_1989__Q02]]
 
 
 
@@ -93,9 +111,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio di grado n con f(k)=1/(k+1); trovare f(n+1)*
+*Trovare $f(n+1)$ se $f(k) = 1/(k+1)$ per $k = 0, 1, \ldots, n$*
 
-> Che $f(x)$ sia un polinomio di grado $n$ tale che $$f(k) = \frac{1}{k+1}, \quad k = 0, 1, 2, \ldots, n.$$ Trova $f(n+1)$, esprimendo il risultato il più semplicemente possibile.
+> Sia $f(x)$ un polinomio di grado $n$ tale che
+> $$f(k) = \frac{1}{k+1}, \quad k = 0, 1, 2, \ldots, n.$$
+> Trovare $f(n+1)$, esprimendo il risultato nel modo più semplice possibile.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1989#q03|src_bmo2_1989__Q03]]
 
 
 
@@ -118,6 +145,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto M su AC del triangolo ABC con cerchi incisi; trovare IM in termini di lati*
+*La lunghezza di $IM$ in funzione di $a, b, c$*
 
-> $M$ è un punto sul lato $AC$ del triangolo $ABC$ in modo tale che i triangoli $ABM$, $BCM$ abbiano scritti cerchi. Trova la lunghezza di $IM$ in termini di lunghezza $a, b, c$ dei lati del triangolo $ABC$.
+> $M$ è un punto sul lato $AC$ del triangolo $ABC$ tale che i triangoli $ABM$, $BCM$ hanno circonferenze inscritte. Trovare la lunghezza di $IM$ in funzione delle lunghezze $a, b, c$ dei lati del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1989#q04|src_bmo2_1989__Q04]]

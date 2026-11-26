@@ -35,13 +35,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Score di campionato di calcio con vincite, pareggio e sconfitte
+*Punteggio del campionato di calcio con vittorie, pareggi e sconfitte*
 
-> Quattro squadre di calcio disputeranno un campionato in cui ciascuna squadra giocherà l'altra squadra esattamente una volta, senza ripartite. Una vittoria vale $3$ punti e ogni pareggio vale $1$ punti per ogni squadra; le perdite non danno punti. In questo campionato:
-> 
-> a) Se il campione ottiene $9$ punti, il secondo posto $6$ punti e la squadra al terzo posto $3$ punti, quanti punti riceverà la squadra al quarto posto?
-> 
-> b) Se il campione ottiene $5$ punti, due squadre finiscono nella stessa posizione con $3$ punti ciascuno, e l'ultimo ottiene $2$ punti, quante gare si saranno verificate?
+> Quattro squadre di calcio si contenderanno un campionato in cui ogni squadra affronterà ciascuna delle altre esattamente una volta, senza rivincite. Una vittoria vale $3$ punti e ogni pareggio vale $1$ punto per ciascuna squadra; le sconfitte non danno punti. In questo campionato:
+>
+> a) Se il campione ottiene $9$ punti, il secondo classificato $6$ punti e la squadra al terzo posto $3$ punti, quanti punti otterrà la squadra al quarto posto?
+>
+> b) Se il campione ottiene $5$ punti, due squadre terminano nella stessa posizione con $3$ punti ciascuna e l'ultima ottiene $2$ punti, quante partite saranno finite in pareggio?
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n2_f3#q01|src_obm_2016_n2_f3__Q01]]
 
 
 
@@ -74,17 +83,26 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di quadrati, ogni nuovo quadrato costruito sulla diagonale del precedente più grande*
+*Sequenza di quadrati, ciascun nuovo quadrato costruito sulla diagonale del quadrato precedente, più grande*
 
-> Janaina disegna una sequenza di figure come mostrato di seguito. Ogni figura ha un quadrato in più della figura precedente, e ogni quadrato aggiunto ha un lato uguale alla diagonale del quadrato più grande della figura precedente. Inoltre, tutti i quadrati di ciascuna figura condividono un vertice comune. Il quadrato della figura $1$ ha superficie $2\ \mathrm{cm}^2$.
-> 
+> Janaina disegna una sequenza di figure come mostrato di seguito. Ogni figura ha un quadrato in più rispetto alla figura precedente, e ciascun quadrato aggiunto ha il lato uguale alla diagonale del quadrato più grande della figura precedente. Inoltre, tutti i quadrati di ciascuna figura condividono un vertice comune. Il quadrato della figura $1$ ha area $2\ \mathrm{cm}^2$.
+>
 > a) Qual è l'area del quadrato più grande della figura $2$?
-> 
-> b) Qual è la superficie totale della figura $2$?
-> 
-> c) Qual è la superficie totale della figura $6$?
+>
+> b) Qual è l'area totale della figura $2$?
+>
+> c) Qual è l'area totale della figura $6$?
 
 ![[src_obm_2016_n2_f3__q02.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n2_f3#q02|src_obm_2016_n2_f3__Q02]]
 
 
 
@@ -121,21 +139,30 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Spartizione dei numeri interi da 1 a 99 in gruppi in modo che non ci siano due in una somma di gruppo a un multiple di 3*
+*Partizione degli interi da 1 a 99 in gruppi tale che, in ciascun gruppo, nessuna coppia di elementi abbia somma multipla di 3*
 
-> I numeri interi da $1$ a $99$ sono suddivisi in gruppi $n$, rispettando le seguenti regole:
-> 
-> I- ogni numero appartiene esattamente a un gruppo;
-> 
+> Gli interi da $1$ a $99$ sono suddivisi in $n$ gruppi, secondo le seguenti regole:
+>
+> I- ogni numero appartiene a esattamente un gruppo;
+>
 > II- ciascun gruppo ha almeno due elementi distinti;
-> 
-> III- se due numeri appartengono allo stesso gruppo, la loro somma non è un numero divisibile per $3$.
-> 
+>
+> III- se due numeri appartengono allo stesso gruppo, allora la loro somma non è un numero divisibile per $3$.
+>
 > Sapendo questo:
-> 
-> a) Spiegare perché il numero $n$ dei gruppi non può essere $50$.
-> 
-> b) Qual è il valore minimo possibile di $n$?
+>
+> a) Spiega perché il numero $n$ di gruppi non può essere $50$.
+>
+> b) Qual è il valore più piccolo possibile di $n$?
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n2_f3#q03|src_obm_2016_n2_f3__Q03]]
 
 
 
@@ -164,13 +191,22 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri a quattro cifre, numeri distinti che sommano a 12, due pari e due unici*
+*Numeri di quattro cifre, con cifre distinte la cui somma è 12, due cifre pari e due cifre dispari*
 
-> Carlinhos fa un elenco di tutti i numeri a quattro cifre con cifre distinte che soddisfano le seguenti condizioni: la somma delle cifre è $12$, e tra le cifre due sono pari e due sono odd. Il numero $2703$, ad esempio, è nella sua lista. Ricordate che il numero non può avere un primo zero (zero a sinistra).
-> 
-> a) Qual è il numero più vicino a $2016$ che figura nell'elenco di Carlinhos?
-> 
-> b) Determinare la somma di tutti i numeri della lista di Carlinhos inferiori a $2016$.
+> Carlinhos stila un elenco di tutti i numeri di quattro cifre con cifre distinte che soddisfano le seguenti condizioni: la somma delle cifre è $12$, e tra le cifre due sono pari e due sono dispari. Il numero $2703$, ad esempio, è presente nel suo elenco. Ricorda che il numero non può avere uno zero iniziale (uno zero a sinistra).
+>
+> a) Qual è il numero più vicino a $2016$ presente nell'elenco di Carlinhos?
+>
+> b) Determina la somma di tutti i numeri presenti nell'elenco di Carlinhos che sono minori di $2016$.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n2_f3#q04|src_obm_2016_n2_f3__Q04]]
 
 
 
@@ -209,20 +245,29 @@ Score di campionato di calcio con vincite, pareggio e sconfitte
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco a due giocatori di coprime-halving numero; determinare il vincitore per un dato N*
+*Gioco numerico a due giocatori di dimezzamento con numeri coprimi; determina il vincitore per un dato N*
 
-> $N$ sia un numero intero, $N \ge 2$.
-> 
-> Il gioco OBM ha la partecipazione di due giocatori $A$ e $B$ e inizia con il giocatore $A$ che riceve il numero $N$. Deve quindi scegliere un nuovo numero $m$, con coprimo $m$ e $N$ e $m$ maggiore o uguale alla metà di $N$ e inferiore a $N$. Questo numero viene trasmesso al giocatore $B$.
-> 
-> Il giocatore $B$ riceve quindi il numero $n$ e deve scegliere un nuovo numero, vale a dire un numero $p$, con coprimo $p$ e $n$ e $p$ maggiore o uguale alla metà di $n$ e inferiore a $n$. Poi passa al suo avversario il numero $p$. Il processo si ripete fino a quando uno dei due giocatori può scegliere solo il numero $1$. Quel giocatore è il vincitore!
-> 
-> Per esempio, per $N = 9$, il giocatore $A$ può scegliere il numero $5$ (nota che le scelte sono $5$, $7$ o $8$); se $B$ sceglie il numero $3$, $A$ è costretto a scegliere il numero $2$ (questo è l'unica opzione rispetto alle regole del gioco), e quindi $B$ sceglie $1$ e vince.
-> 
-> Determinare, per ogni valore $N$ di seguito, quale giocatore ha una strategia vincente, ovvero riesce a vincere indipendentemente dalle mosse del suo avversario.
-> 
+> Sia $N$ un numero intero, $N \ge 2$.
+>
+> Il gioco OBM vede la partecipazione di due giocatori, $A$ e $B$, e inizia con il giocatore $A$ che riceve il numero $N$. Egli deve poi scegliere un nuovo numero $m$, con $m$ e $N$ coprimi e $m$ maggiore o uguale alla metà di $N$ e minore di $N$. Questo numero viene passato al giocatore $B$.
+>
+> Il giocatore $B$ riceve poi il numero $n$ e deve scegliere un nuovo numero, precisamente un numero $p$, con $p$ e $n$ coprimi e $p$ maggiore o uguale alla metà di $n$ e minore di $n$. Poi passa al proprio avversario il numero $p$. Il processo si ripete finché uno dei due giocatori può scegliere solo il numero $1$. Quel giocatore è il vincitore!
+>
+> Ad esempio, per $N = 9$, il giocatore $A$ può scegliere il numero $5$ (si noti che le scelte sono $5$, $7$ o $8$); se $B$ sceglie poi il numero $3$, $A$ è costretto a scegliere il numero $2$ (essendo questa l'unica opzione che rispetta le regole del gioco), e poi $B$ sceglie $1$ e vince.
+>
+> Per ciascun valore di $N$ riportato di seguito, determina quale giocatore dispone di una strategia vincente, ossia riesce a vincere indipendentemente dalle mosse dell'avversario.
+>
 > a) $N = 7$.
-> 
+>
 > b) $N = 2016$.
-> 
-> Nota: diciamo che due numeri sono copriemi se non hanno un divisore comune maggiore o uguale a $2$ (più grande di $1$). Ad esempio, $9$ e $4$ sono coprime, poiché $1$ è il loro unico divisore comune.
+>
+> Osservazione: diciamo che due numeri sono coprimi se non hanno un divisore comune maggiore o uguale a $2$ (maggiore di $1$). Ad esempio, $9$ e $4$ sono coprimi, poiché $1$ è il loro unico divisore comune.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n2_f3#q05|src_obm_2016_n2_f3__Q05]]

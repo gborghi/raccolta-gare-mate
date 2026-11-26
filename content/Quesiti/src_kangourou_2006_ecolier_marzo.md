@@ -35,9 +35,16 @@ level: kangourou
 
 *Day of the week of the birthday*
 
-> Yesterday was Matthew's birthday. Tomorrow is Thursday. On what day of the week did Matthew's birthday fall? (a) Tuesdays (b) Wednesdays (c) Thursdays (d) Saturdays (e) Mondays
+> Yesterday was Matteo's birthday. Tomorrow will be Thursday. On which day of the week did Matteo's birthday fall?
+> A) Tuesday
+> B) Wednesday
+> C) Thursday D) Saturday E) Monday
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q01|src_kangourou_2006_ecolier_marzo__Q01]]
 
 
 
@@ -68,11 +75,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max people around 7 square tables next to each other*
+*Maximum number of people around 7 adjacent square tables*
 
-> We have a number of equal square tables available. For the school party, we've brought seven of them together, forming a long rectangular table. If each square table can seat four people, one on each side, how many people can sit around the rectangular table? A) 14 B) 16 C) 18 D) 21 E) 28
+> We have several identical square tables available: for the school party, we put 7 of them side by side to form one long rectangular table. If four people can sit at each square table—one on each side—what is the maximum number of people who can sit around the rectangular table?
+> A) 14
+> B) 16
+> C) 18
+> D) 21
+> E) 28
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q02|src_kangourou_2006_ecolier_marzo__Q02]]
 
 
 
@@ -105,13 +121,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to make 10 cents with coins*
+*Ways to make 10 cents using coins*
 
 ![[src_kangourou_2006_ecolier_marzo__prob3.png]]
 
-> You can see the coins in your purse beside you. A lollipop costs 10 cents. How many different ways can you make up the amount to pay for it? (Consider two coins of equal value indistinguishable.) A) 1 B) 2 C) 3 D) 4 E) 5
+> On the side, you can see the coins you have in the
+> Purse. A lollipop costs 10 cents. In how many different ways can you make up the amount needed to pay for it? (Consider two coins of equal value to be indistinguishable.)
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q03|src_kangourou_2006_ecolier_marzo__Q03]]
 
 
 
@@ -141,13 +168,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum tokens to move to make a square*
+*Minimum number of tokens to move to make a square*
 
 ![[src_kangourou_2006_ecolier_marzo__prob4.png]]
 
-> In the drawing next to it are represented nine tokens arranged in a triangle. You want to make a square, what's the minimum number of tokens you can move? A) 1 B) 2 C) 3 D) 4 E) 5
+> In the drawing next to it, nine tokens are arranged in a triangle. You want to form a square: what is the minimum number of tokens you need to move?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q04|src_kangourou_2006_ecolier_marzo__Q04]]
 
 
 
@@ -191,31 +227,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max triangular stamps on 10 envelopes with a constraint*
+*Maximum of triangular stamps on 10 envelopes with a constraint*
 
-> The postman Gennaro has two stamps that he can use interchangeably:
-> one shaped like a square and the other like a triangle. He must cancel the stamps placed on ten envelopes using only one stamp per envelope. How many
-> triangular stamps can he apply at most, if he wants that, no matter which
-> three of those envelopes are taken, at least one does not have the triangular stamp?
+> Postman Gennaro has two stamps that he can use interchangeably: one is square-shaped and the other is triangular. He must cancel the stamps on ten envelopes, using only one stamp per envelope. What is the maximum number of triangular stamps he can apply if he wants that, no matter which three of those envelopes are chosen, at least one of them has no triangular stamp?
 > A) 3 
 > B) 0
 > C) 2
 > D) 4 
 > E) 8
-> 1
-> 5
-> 5
-> 10
-> 20
-> 50
-> Ecolier_06.qxp  21/02/2006  0.07  Page 5
-> 
-> Pag. 
-> Pag. 6
-> Kang 2006
-> Kang 2006
+> 1 5 5 10 20 50 Ecolier_06.qxp 21/02/2006 0.07 Page 5
+>
+> Pag. Pag. 6 Kang 2006 Kang 2006
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q05|src_kangourou_2006_ecolier_marzo__Q05]]
 
 
 
@@ -250,23 +279,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which road is the shortest*
+*Which road is the shortest?*
 
 ![[src_kangourou_2006_ecolier_marzo__prob6.png]]
 
-> Between two points, the four roads we propose to you have been drawn:
-> A 
-> B 
-> C 
-> D
-> Which of them is the shortest?
+> Between two points, the four routes we are suggesting to you have been drawn: A B C D Which of them is the shortest?
 > A) A
 > B) B
 > C) C
 > D) D
-> E) The four roads have the same length.
+> E) The four roads are of the same length.
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q06|src_kangourou_2006_ecolier_marzo__Q06]]
 
 
 
@@ -297,19 +325,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exit door by crossing triangular rooms*
+*Exit by passing through triangular rooms*
 
 ![[src_kangourou_2006_ecolier_marzo__prob7.png]]
 
-> A kangaroo enters the building whose
-> floor plan we see on the side. If
-> it wants to cross exclusively
-> rooms of triangular shape, it will have
-> to exit the building through door
+> A kangaroo enters the building of
+> Whose plan we see on the side. If you want to pass through only triangularly shaped rooms, you will have to exit the building through the door.
 > A) a           B) b           C) c
 > D) d           E) e
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q07|src_kangourou_2006_ecolier_marzo__Q07]]
 
 
 
@@ -344,13 +373,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest 10-digit number with sheets*
+*The smallest 10-digit number with the little sheets*
 
 ![[src_kangourou_2006_ecolier_marzo__prob8.png]]
 
-> Look at the figure: six numbers are written on as many sheets. By holding all six sheets together, you can form ten-digit numbers. Which is the smallest? (a) 3094157682 (b) 2309541687 (c) 3097568241 (d) 2309415687 (e) 2309415678 (i) Questions from N. 9 al N. 16 is worth 4 points each.
+> Observe the figure: six numbers are
+> Written on as many little slips of paper. By putting all six slips together, you can form ten-digit numbers. Which one is the smallest?
+> A) 3094157682          B) 2309541687          C) 3097568241
+> D) 2309415687          E) 2309415678
+> Questions 9 to 16 are each worth 4 points.
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q08|src_kangourou_2006_ecolier_marzo__Q08]]
 
 
 
@@ -383,13 +420,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of petals with remainder 2 in division by 6*
+*Sum of petals with remainder 2 when divided by 6*
 
 ![[src_kangourou_2006_ecolier_marzo__prob9.png]]
 
-> In the figure on the side you can see a "numbered flower". Mary separates all the petals with numbers that, divided by 6, give remainder 2. How much is the sum of the numbers on the petals that Mary pulled off? A) 46 B) 66 C) 84 D) 86 E) 114
+> In the figure beside it, you can see a "numbered flower". Maria tears off all the petals with numbers that leave a remainder of 2 when divided by 6. What is the sum of the numbers on the petals that Maria has torn off?
+> A) 46
+> B) 66
+> C) 84
+> D) 86
+> E) 114
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q09|src_kangourou_2006_ecolier_marzo__Q09]]
 
 
 
@@ -436,35 +483,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many children in Pietro's family*
+*How many children are there in Pietro's family?*
 
-> Pietro has exactly one brother and his sister Caterina has as many
-> brothers as sisters. How many children (boys and girls) are there in
-> Pietro's family?
+> Pietro has exactly one brother, and his sister Caterina has as many brothers as sisters. How many children (boys and girls) are there in Pietro's family?
 > A) 2
 > B) 3
 > C) 4
 > D) 5
 > E) 6
-> a
-> b
-> c
-> d
-> e
-> 309
-> 41
-> 68
-> 5
-> 7
-> 2
-> Ecolier_06.qxp  21/02/2006  0.07  Page 6
-> 
-> Pag. 
-> Pag. 7
-> Kang 2006
-> Kang 2006
+> a b c d e 309 41 68 5 7 2 Ecolier_06.qxp 21/02/2006 0.07 Page 6
+>
+> Pag. Pag. 7 Kang 2006 Kang 2006
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q10|src_kangourou_2006_ecolier_marzo__Q10]]
 
 
 
@@ -494,13 +529,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cards for a four-tiered castle*
+*Cards for a 4-level castle*
 
 ![[src_kangourou_2006_ecolier_marzo__prob11.png]]
 
-> Stefania is building card castles. In the figure you can observe the castles of one, two and three levels that she has built so far. How many cards will Stefania have to use to build an entire four-tiered castle? A) 11          B) 24          C) 25          D) 26          E) 27
+> Stefania is building card towers. In the figure, one can see the one-level, two-level, and three-level towers she has built so far. How many cards will Stefania need to use to build an entire four-level tower?
+> A) 11          B) 24          C) 25          D) 26          E) 27
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q11|src_kangourou_2006_ecolier_marzo__Q11]]
 
 
 
@@ -526,11 +567,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minutes to eat 78 nuts (sum of 1..n)
+*Minutes to eat 78 peanuts (sum from 1 to n)*
 
-> A squirrel starts eating nuts. He eats one, and for every minute that follows, he eats one more peanut than he ate in the previous minute. How many minutes will it take to eat 78 nuts? A) 9             B) 10             C) 12            D) 13             E) 20
+> A squirrel starts eating peanuts. It eats one peanut, and in each subsequent minute, it eats one more peanut than it ate in the previous minute. How many minutes will it take for the squirrel to eat 78 peanuts?
+> A) 9             B) 10             C) 12            D) 13             E) 20
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q12|src_kangourou_2006_ecolier_marzo__Q12]]
 
 
 
@@ -560,13 +606,18 @@ Minutes to eat 78 nuts (sum of 1..n)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure is not used in the puzzle*
+*Which shape is not used in the puzzle?*
 
 ![[src_kangourou_2006_ecolier_marzo__prob13.png]]
 
-> The figure shows a puzzle obtained by joining various tiles; some of them have the shape of four of the five figures shown below. Compared to the figures represented, the tiles may be rotated or translated, but not overturned. Which figure wasn't used to compose the puzzle?
+> The figure shows a puzzle obtained
+> By joining various tiles together; some of these tiles are shaped like four of the five figures shown below. Relative to the figures shown, the tiles can optionally be rotated or dragged, but not flipped. Which figure was not used to assemble the puzzle?
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q13|src_kangourou_2006_ecolier_marzo__Q13]]
 
 
 
@@ -604,11 +655,23 @@ Minutes to eat 78 nuts (sum of 1..n)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weights in the third box*
+*Weight in the third box*
 
-> Six weights of 1, 2, 3, 4, 5 and 6 grams were locked in three empty boxes, two weights for each box. The contents of the first box weigh nine grams, the contents of the second eight grams. What weights were placed in the third box? A) 4g and 3g B) 5g and 2g C) 6g and 1g D) 4g and 2g E) 3g and 1g one level 2 cards two levels 7 cards three levels 15 cards A) B) C) D) E) Ecolier_06.qxp 21/02/2006 0.07 Page 7
+> Six weights of 1, 2, 3, 4, 5, and 6 grams were placed inside three empty boxes, with two weights in each box. The contents of the first box weigh 9 grams, and those of the second box weigh 8 grams. Which weights were put into the third box?
+> A) 4g e 3g      B) 5g e 2g     C) 6g e 1g       D) 4g e 2g         E) 3g e 1g
+> Level 2: 2 cards; Level 7: 2 cards; Level 15: 3 cards
+> A)
+> B)
+> C)
+> D)
+> E)
+> Ecolier_06.qxp 21/02/2006 0.07 Page 7
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q14|src_kangourou_2006_ecolier_marzo__Q14]]
 
 
 
@@ -635,13 +698,19 @@ Minutes to eat 78 nuts (sum of 1..n)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Net of the cube with two holes*
+*Development of the net of the cube with two holes*
 
 ![[src_kangourou_2006_ecolier_marzo__prob15.png]]
 
-> What is the plane development of the cubic surface with two holes shown in the figure to the right? E) None of the above.
+> What is the planar development of the cubic surface with
+> Two holes shown in the figure on the right?
+> E) None of the above.
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q15|src_kangourou_2006_ecolier_marzo__Q15]]
 
 
 
@@ -676,18 +745,20 @@ Minutes to eat 78 nuts (sum of 1..n)
 
 *Distance between Blu and Dan (crows on a beam)*
 
-> Four crows are perched on a beam. Their names are Ala,
-> Blu, Cra and Dan. Ala is perched exactly halfway between Blu and Cra. The
-> distance between Blu and Ala is equal to that between Cra and Dan. Ala is 4
-> metres from Dan. What distance is there between Blu and Dan?
+> Four crows are perched on a beam. Their names are Ala, Blu, Cra, and Dan. Ala is perched exactly halfway between Blu and Cra. The distance between Blu and Ala is equal to the distance between Cra and Dan. Ala is 4 meters from Dan. What is the distance between Blu and Dan?
 > A) 5 m
 > B) 6 m
 > C) 7 m
 > D) 8 m
 > E) 9 m
-> Questions from No. 17 to No. 24 are worth 5 points each
+> Questions 17 to 24 are each worth 5 points.
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q16|src_kangourou_2006_ecolier_marzo__Q16]]
 
 
 
@@ -717,11 +788,21 @@ Minutes to eat 78 nuts (sum of 1..n)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What digit to change in 81x7=623*
+*Which digit should be changed in 81x7=623?*
 
-> The expression 81x7 = 623 describes an incorrect operation. However, one can correct the error by changing only one digit: which one? A) 1 B) 2 C) 3 D) 6 E) 7
+> The notation 81x7 = 623 describes an incorrect operation. However, the error can be corrected by changing just one digit—which one?
+> A) 1
+> B) 2
+> C) 3
+> D) 6
+> E) 7
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q17|src_kangourou_2006_ecolier_marzo__Q17]]
 
 
 
@@ -754,13 +835,23 @@ Minutes to eat 78 nuts (sum of 1..n)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum expense from A to B on railway network*
+*Minimum cost from A to B on the railway network*
 
 ![[src_kangourou_2006_ecolier_marzo__prob18.png]]
 
-> The small circles in the figure represent as many cities. Each segment connecting two circles represents a railway line connecting the corresponding cities and the number closest to it indicates the euro cost of the ticket for that route. Paolo arranged the trip to get from A to B spending as little as possible. How much did he spend? A) 80 B) 90 C)100 D) 110 E) 180
+> The small circles in the figure represent the same number of cities. Each line segment connecting two circles represents a railway line linking the corresponding cities, and the number closest to the segment indicates the cost, in euros, of a ticket for that route. Paolo has arranged a trip from A to B while spending as little as possible. How much did he spend?
+> A) 80
+> B) 90
+> C)100
+> D) 110
+> E) 180
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q18|src_kangourou_2006_ecolier_marzo__Q18]]
 
 
 
@@ -816,13 +907,31 @@ Minutes to eat 78 nuts (sum of 1..n)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Painted faces of a structure of 10 cubes*
+*Painted faces of a 10-cube structure*
 
 ![[src_kangourou_2006_ecolier_marzo__prob19.png]]
 
-> The structure shown in the figure consists of 10 cubes glued together. Roman paints the entire structure, including the bottom. How many faces of cubes have been painted? (A) 18 (B) 24 (C) 30 (D) 36 (E) 42 pages. A B 80 20 60 30 20 10 10 60 70 A) B) C) D) Ecolier_06.qxp 21/02/2006 0.07 Page 8
+> The structure shown in the figure consists of 10 cubes.
+> Stuck together. Romano paints the entire structure, including the background. How many faces of the cubes have been painted?
+> A) 18
+> B) 24
+> C) 30         D) 36
+> E) 42
+> Page Page 8 Kang 2006 Kang 2006 A B 80 20 60 30 20 10 10 60 70
+> A)
+> B)
+> C)
+> D)
+> Ecolier_06.qxp 21/02/2006 0.07 Page 8
+>
+> Page Page 9 Kang 2006 Kang 2006
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q19|src_kangourou_2006_ecolier_marzo__Q19]]
 
 
 
@@ -856,9 +965,19 @@ Minutes to eat 78 nuts (sum of 1..n)
 
 *Who lives on the first floor (logic)*
 
-> Irene, Anna, Clara, Olga, and Elena live in the same building. Two of them live on the first floor, the others on the second. Olga lives on a different floor than Clara and Elena. Anna lives on a different floor than Irene and Clara. Who lives on the first floor? A) Clara and Elena B) Irene and Elena C) Irene and Olga D) Irene and Clara E) Anna and Olga
+> Irene, Anna, Clara, Olga, and Elena live in the same building: of them, two live on the first floor, and the others on the second floor. Olga lives on a different floor from Clara and Elena. Anna lives on a different floor from Irene and Clara. Who lives on the first floor?
+> A) Clara and Elena
+> B) Irene and Elena
+> C) Irene and Olga
+> D) Irene and Clara
+> E) Anna and Olga
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q20|src_kangourou_2006_ecolier_marzo__Q20]]
 
 
 
@@ -888,11 +1007,20 @@ Minutes to eat 78 nuts (sum of 1..n)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Impossible result with +/- out of 5 numbers*
+*Impossible result with +/- on 5 numbers*
 
-> In writing 2002 * 2003 * 2004 * 2005 * 2006 picture replacing each * symbol with a + or a - (not necessarily always the same sign): depending on the choices operated are possible many different results. Only one of the following results is impossible: which? A) 1998 B) 2001 C) 2002 D) 2004          E) 2006
+> In the expression 2002 * 2003 * 2004 * 2005 * 2006, imagine replacing each * symbol with a + or a - (not necessarily always the same sign): depending on the choices made, many different results are possible. Only one of the following results cannot be obtained: which one?
+> A) 1998
+> B) 2001     
+> C) 2002
+> D) 2004          E) 2006
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q21|src_kangourou_2006_ecolier_marzo__Q21]]
 
 
 
@@ -922,11 +1050,17 @@ Minutes to eat 78 nuts (sum of 1..n)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to choose sheets with a difference of 3 digits*
+*Ways of choosing slips with a 3-digit difference*
 
-> I wrote all the four-digit integers on as many green sheets (one number for each sheet). And then I wrote all the single-digit integers on as many yellow sheets (a number for each sheet). How many ways can I choose two sheets of different colors if I want the difference between the two numbers written on them to be a 3-digit number? A) 9                B) 17                 C) 24                 D) 36             E) 45
+> I wrote all four-digit integers on an equal number of green slips of paper (one number per slip). Then I wrote all one-digit integers on an equal number of yellow slips of paper (one number per slip). In how many ways can I choose two slips of different colors if I want the difference between the two numbers written on them to be a three-digit number?
+> A) 9                B) 17                 C) 24                 D) 36             E) 45
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q22|src_kangourou_2006_ecolier_marzo__Q22]]
 
 
 
@@ -966,7 +1100,7 @@ Minutes to eat 78 nuts (sum of 1..n)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to complete the 3x3 grid with 1,2,3*
+*Ways to complete a 3x3 grid with 1, 2, 3*
 
 ![[src_kangourou_2006_ecolier_marzo__prob23.png]]
 
@@ -979,9 +1113,16 @@ Minutes to eat 78 nuts (sum of 1..n)
 \end{document}
 ```
 
-> In each of the nine cells of the square grid in the figure, we want to insert one of the digits 1, 2, or 3. The only condition is that each digit appears in every row and column. In the upper left cell, we've already entered the number 1. How many different ways can we complete the grid? A) 2            B) 3            C) 4            D) 5            E) 8
+> In each of the nine cells of the square grid
+> In the figure, we want to insert one of the digits 1, 2, or 3. The only condition is that each digit appears in every row and every column. In the top-left cell, we have already inserted the digit 1. In how many different ways can we complete the grid?
+> A) 2            B) 3            C) 4            D) 5            E) 8
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q23|src_kangourou_2006_ecolier_marzo__Q23]]
 
 
 
@@ -1025,22 +1166,21 @@ Minutes to eat 78 nuts (sum of 1..n)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of a circular pendulum (mobile equilibrium)*
+*Weight of the circular pendulum (mobile equilibrium)*
 
 ![[src_kangourou_2006_ecolier_marzo__prob24.png]]
 
-> Miriam has hung from the ceiling of her room the mobile shown in the figure. Bars and pendants of identical shape have the same weight, and the entire structure is in perfect equilibrium. Each square-shaped pendant weighs 30 grams. What is the weight of each circular pendant?
+> Miriam has hung it from the ceiling.
+> In its room is the mobile you see in the figure. Bars and pendants of the same shape have the same weight, and the entire structure is in perfect equilibrium. Each square pendant weighs 30 grams. What is the weight of each circular pendant?
+> A) 10          B) 20          C) 30
+> D) 40          E) 50
+> 1 ceiling 30 ? Ecolier_06.qxp 21/02/2006 0.07 Page 9
 >
-> (A) 10 (B) 20 (C) 30 (D) 40 (E) 50
 >
-> 1
-> ceiling
-> 30
-> ?
-> 
->  
-> 1
-> Ecolier Category
-> For students in fourth or fifth grade
+> 1 Ecolier Category For fourth- or fifth-grade elementary school students
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_ecolier_marzo#q24|src_kangourou_2006_ecolier_marzo__Q24]]

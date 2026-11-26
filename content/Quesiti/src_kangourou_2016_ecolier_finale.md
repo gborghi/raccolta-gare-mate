@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest even number with all ten digits*
+*The smallest even number containing all ten digits*
 
-> Elisa wrote the smallest even number in whose writing all ten digits appear at least once. What number did she write? Careful: the first digit cannot be 0!
+> Elisa wrote the smallest even number in whose representation all ten digits appear at least once. Which number did she write? Attention: the first digit cannot be 0!
 
-**Answer:** 1023456798
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_ecolier_finale#qe1|src_kangourou_2016_ecolier_finale__QE1]]
 
 
 
@@ -56,11 +60,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Name of basketball player among three athletes*
+*Name of the basketball player among three athletes*
 
-> Alberto, Daniel and Martino are sportsmen. One of the three plays football, one plays basketball, and the rest plays volleyball. The footballer is an only child and the youngest of the three. Martino is older than the basketball player and is a friend of Alberto's sister. What's the name of the basketball player?
+> Alberto, Daniele, and Martino are sportspeople. One of the three plays football, another plays basketball, and the remaining one plays volleyball. The footballer is an only child and is the youngest of the three. Martino is older than the basketball player and is a friend of Alberto's sister. What is the basketball player's name?
 
-**Answer:** Alberto
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_ecolier_finale#qe2|src_kangourou_2016_ecolier_finale__QE2]]
 
 
 
@@ -86,13 +94,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last possible figures if sum and product match*
+*Last possible digits if the sum and the product coincide*
 
 ![[src_kangourou_2016_ecolier_finale__probe3.png]]
 
-> Two integers are such that their product and their sum have the same last digit (i.e. that of the units). Of the ten digits, what can be the last digit of the sum?
+> Two integers are such that their product and their sum have the same final digit (that is, the units digit). Among the ten digits, which digits can be the final digit of the sum?
 
-**Answer:** 0, 2 and 4
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_ecolier_finale#qe3|src_kangourou_2016_ecolier_finale__QE3]]
 
 
 
@@ -115,11 +128,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-I can run out of money.
+*I can end up without any money*
 
-> The currency of Kangland is the kang. Eurokang exchange rate works like this: you get $1$ kang by paying $2$ euro, you get $1$ euro by paying $1$ kang and proportionally if you change lower value coins. In both currencies, the minimum value coin is the one-cent coin; any amount of money can be changed and the result of the change, if not expressed by an integer number of cents, is rounded to a cent for excess. If at first I change the euro into kang, then I change the kang made into euro, then I change the kang made into euro and I do this, can I run out of money?
+> The currency of Kanglandia is the kang. The euro–kang exchange rate works like this: you get $1$ kangs by paying $2$ euros; you get $1$ euros by paying $1$ kangs; and if you exchange currencies of lower value, the exchange is proportional. In both currencies, the smallest-denomination coin is the one-cent coin; you can exchange any amount of money, and if the result of the exchange cannot be expressed as a whole number of cents, it is rounded up to the nearest cent. If at the beginning I exchange $10$ euros for kangs, then I exchange the kangs I got for euros, then I exchange the euros I got for kangs, and I keep doing this, can I end up with no money?
 
-**Answer:** No, I am left with 1 cent
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_ecolier_finale#qe4|src_kangourou_2016_ecolier_finale__QE4]]
 
 
 
@@ -143,11 +160,16 @@ I can run out of money.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of comparisons to check the 5 heaviest*
+*Minimum number of comparisons to verify the 5 heaviest*
 
-> On the table there are $100$ objects of very close weight (some may even have the same weight): they told me that the 5 heaviest objects, listed in descending weight order, are A, B, C, D and E. I want to check the statement, but I only have a two-plate balance and there can only be one object on each plate, so I can only compare the weights of two objects at a time. What is the minimum number of comparisons that allows me to check the statement?
+> On the table there are $100$ objects whose weights are very close to one another (some might even have the same weight): I was told that the $5$ heaviest objects, listed in descending order of weight, are A, B, C, D, and E. I want to verify the claim, but I have only a two-pan balance, and only one object can be placed on each pan—so I can only compare the weights of two objects at a time. What is the minimum number of comparisons that will allow me to verify the claim?
 
-**Answer:** 99
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_ecolier_finale#qe5|src_kangourou_2016_ecolier_finale__QE5]]
 
 
 
@@ -174,10 +196,16 @@ I can run out of money.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bust A or B more convenient by answering randomly*
+*Envelope A or B is more convenient when answering at random*
 
-> To be promoted, a Fox student must take a closed-answer test, answering all questions correctly. You can choose between two envelopes: - envelope A containing $5$ questions, each with $2$ answers, - envelope B containing $2$ questions, each with $6$ answers.
-> 
-> Fox is unprepared and thinks he's answering questions at random. To try to get promoted, should he choose envelope A or envelope B?
+> To be promoted, student Fox must take a closed-response test and answer all questions correctly. They can choose between two envelopes:
+> - Envelope A, which contains $5$ questions, each with $2$ answers,
+> - Envelope B, which contains $2$ questions, each with $6$ answers.
+>
+> Fox is unprepared and thinks he'll answer the questions at random. To try to get promoted, should he choose envelope A or envelope B?
 
-**Answer:** envelope A
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_ecolier_finale#qe6|src_kangourou_2016_ecolier_finale__QE6]]

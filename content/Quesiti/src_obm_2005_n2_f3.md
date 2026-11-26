@@ -29,9 +29,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triangoli rettangolari con gambe parallele ai bordi della lavagna su griglia 5x5*
+*Conta i triangoli rettangoli i cui cateti sono paralleli ai bordi della tavola su una griglia 5x5*
 
-> Su una tavola $5 \times 5$ devono essere posizionati tre pulsanti identici, ciascuno al centro di una cella, determinando un triangolo. In quanti modi si possono posizionare i pulsanti per formare un triangolo rettangolo con gambe parallele ai lati della tavola?
+> Su una scacchiera $5 \times 5$, si devono collocare tre pulsanti identici, ciascuno al centro di una casella, in modo da determinare un triangolo. In quanti modi si possono collocare i pulsanti per formare un triangolo rettangolo i cui cateti siano paralleli ai lati della scacchiera?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2005_n2_f3#q01|src_obm_2005_n2_f3__Q01]]
 
 
 
@@ -58,13 +65,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo retto, punto medio dell'ipotenusa, perpendicularità e area quadrilaterale*
+*Triangolo rettangolo, punto medio dell'ipotenusa, perpendicolarità e area del quadrilatero*
 
-> Nel triangolo rettangolo $ABC$, le gambe $AB$ e $BC$ misurano rispettivamente 3 cm e 4 cm. $M$ sia il punto medio dell'ipotenusa $AC$, e $D$ sia un punto distinto da $A$, tale da $BM = MD$ e $AB = BD$.
-> 
-> a) dimostrare che $BM$ è perpendicolare a $AD$.
-> 
-> b) Calcolare l'area del quadrilaterale $ABDC$.
+> Nel triangolo rettangolo $ABC$, i cateti $AB$ e $BC$ misurano rispettivamente 3 cm e 4 cm. Sia $M$ il punto medio dell'ipotenusa $AC$, e sia $D$ un punto, distinto da $A$, tale che $BM = MD$ e $AB = BD$.
+>
+> a) Dimostrare che $BM$ è perpendicolare a $AD$.
+>
+> b) Calcola l'area del quadrilatero $ABDC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n2_f3#q02|src_obm_2005_n2_f3__Q02]]
 
 
 
@@ -87,9 +101,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato che il rapporto del prodotto è uguale a 1/11, trovi la somma ciclica di a/(a+b)*
+*Dato che il rapporto dei prodotti è pari a 1/11, determina la somma ciclica di a/(a+b)*
 
-> Dato che $$\frac{(a-b)(b-c)(c-a)}{(a+b)(b+c)(c+a)} = \frac{1}{11},$$ qual è il valore di $$\frac{a}{a+b} + \frac{b}{b+c} + \frac{c}{c+a}\,?$$
+> Given that $$\frac{(a-b)(b-c)(c-a)}{(a+b)(b+c)(c+a)} = \frac{1}{11},$$ what is the value of $$\frac{a}{a+b} + \frac{b}{b+c} + \frac{c}{c+a}\,?$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n2_f3#q03|src_obm_2005_n2_f3__Q03]]
 
 
 
@@ -112,9 +133,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Problema del nuotatore e del registro: tempo per il registro di viaggio da A a B*
+*Problema del nuotatore e del tronco: tempo necessario al tronco per percorrere la distanza da A a B*
 
-> Nella sua allenamento quotidiano di nuoto, Esmeraldinho nuota più volte tra due punti $A$ e $B$ situati sulla stessa riva di un fiume, con un tasso di accumulo costante. La corrente del fiume scorre da $A$ a $B$, e la corrente nella direzione opposta è contro Esmeraldinho. Un registro trasportato dal punto di passaggio corrente $A$ al momento esatto in cui Esmeraldinho parte da $A$. Esmeraldinho raggiunge $B$ e ritorna immediatamente verso $A$. Nel viaggio di ritorno, attraversa il tronco 6 minuti dopo aver lasciato il$A$. Esmeraldinho raggiunge quindi $A$ e immediatamente parte di nuovo verso $B$, raggiungendo $B$ 5 minuti dopo aver superato il registro per la seconda volta mentre passa da $B$ a $A$. Quanti minuti ci vogliono per spostare il registro da $A$ a $B$?
+> Nel suo allenamento quotidiano di nuoto, Esmeraldinho nuota più volte tra due punti $A$ e $B$ situati sulla stessa riva di un fiume, con una frequenza di bracciate costante. La corrente del fiume scorre da $A$ a $B$, e la corrente nella direzione opposta va contro Esmeraldinho. Un tronco trasportato dalla corrente passa per il punto $A$ esattamente nel momento in cui Esmeraldinho parte da $A$. Esmeraldinho raggiunge $B$ e torna subito verso $A$. Nel viaggio di ritorno, incrocia il tronco 6 minuti dopo essere partito da $A$. Esmeraldinho raggiunge poi $A$ e riparte subito verso $B$, arrivando a $B$ 5 minuti dopo aver incrociato il tronco per la seconda volta mentre va da $B$ a $A$. Quanti minuti impiega il tronco a percorrere la distanza da $A$ a $B$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n2_f3#q04|src_obm_2005_n2_f3__Q04]]
 
 
 
@@ -137,9 +165,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova 1^2005 + 2^2005 + ... + 2005^2005 è divisibile per 1+2+...+2005*
+*Dimostrare che 1^2005 + 2^2005 + ... + 2005^2005 è divisibile per 1+2+...+2005*
 
-> Provare che il numero $1^{2005} + 2^{2005} + 3^{2005} + \cdots + 2005^{2005}$ è un multiple di $1 + 2 + 3 + \cdots + 2005$.
+> Dimostrare che il numero $1^{2005} + 2^{2005} + 3^{2005} + \cdots + 2005^{2005}$ è un multiplo di $1 + 2 + 3 + \cdots + 2005$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n2_f3#q05|src_obm_2005_n2_f3__Q05]]
 
 
 
@@ -162,6 +197,13 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bissettori d'angolo e bisettori esterni: prova angolo APM = 30 gradi*
+*Bisettrici degli angoli e bisettrice esterna: dimostrare che l'angolo APM è uguale a 30 gradi*
 
-> La misura dell'angolo $B$ del triangolo $ABC$ è $120^\circ$. Il $M$ deve essere un punto sul lato $AC$ e $K$ un punto sull'estensione del lato $AB$ oltre $B$, in modo tale che $BM$ sia il bisettore interno dell'angolo $\angle ABC$ e $CK$ sia il bisettore esterno corrispondente all'angolo $\angle ACB$. Il segmento $MK$ si interseca con $BC$ al punto $P$. Prove che $\angle APM = 30^\circ$.
+> La misura dell'angolo $B$ del triangolo $ABC$ è $120^\circ$. Sia $M$ un punto sul lato $AC$ e $K$ un punto sull'estensione del lato $AB$ oltre $B$, in modo che $BM$ sia la bisettrice interna dell'angolo $\angle ABC$ e $CK$ sia la bisettrice esterna corrispondente all'angolo $\angle ACB$. Il segmento $MK$ interseca $BC$ nel punto $P$. Dimostrare che $\angle APM = 30^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n2_f3#q06|src_obm_2005_n2_f3__Q06]]

@@ -31,11 +31,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Insinsiemi finiti di punti simmetrici rispetto a tutti gli assi perpendicolari*
+*Insiemi finiti di punti simmetrici rispetto a tutti i mediatori perpendicolari*
 
 > Determinare tutti gli insiemi finiti $S$ di almeno tre punti nel piano che soddisfano la seguente condizione:
-> 
-> Per ogni coppia di punti distinti $A$ e $B$ in $S$, l'asse del segmento $AB$ è un asse di simmetria per $S$.
+>
+> per ogni coppia di punti distinti $A$ e $B$ appartenenti a $S$, la mediatrice del segmento $AB$ è un asse di simmetria per $S$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1999#q01|src_imho_1999__Q01]]
 
 
 
@@ -64,15 +71,22 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minima costante per disuguaglianza simmetrica di somma*
+*Il meno costante per la disuguaglianza della somma simmetrica*
 
 > Sia $n$ un intero fisso, con $n \ge 2$.
-> 
+>
 > (a) Determinare la minima costante $C$ tale che la disuguaglianza
 > $$\sum_{1 \le i < j \le n} x_i x_j (x_i^2 + x_j^2) \le C \left( \sum_{1 \le i \le n} x_i \right)^4$$
 > sia verificata per tutti i numeri reali $x_1, \cdots, x_n \ge 0$.
-> 
-> (b) Per questo valore costante $C$, determinare in quali casi si ha l'uguaglianza.
+>
+> (b) Per questa costante $C$, determinare quando vale l'uguaglianza.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1999#q02|src_imho_1999__Q02]]
 
 
 
@@ -99,13 +113,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrati segnati minimi in modo che ogni quadrato sia adiacente a uno segnato*
+*Numero minimo di caselle contrassegnate affinché ogni casella sia adiacente a una casella contrassegnata*
 
-> Si consideri un tabellone quadro di dimensione $n \times n$, dove $n$ è un intero positivo fisso pari. Il tabellone è suddiviso in $n^2$ quadratini unitari. Si dice che due quadratini diversi del tabellone sono adiacenti se condividono un lato in comune.
-> 
-> $N$ quadratini unitari sulla scacchiera sono segnati in modo tale che ogni casella (segna o non segnata) sulla scacchiera sia adiacente a almeno un quadratino segnato.
-> 
-> Determinare il più piccolo valore possibile di $N$.
+> Si consideri una scacchiera quadrata di dimensione $n \times n$, dove $n$ è un intero positivo pari fisso. La scacchiera è suddivisa in $n^2$ caselle unitarie. Si dice che due caselle distinte della scacchiera siano adiacenti se hanno un lato in comune.
+>
+> $N$ caselle unitarie della scacchiera sono contrassegnate in modo tale che ogni casella (contrassegnata o meno) della scacchiera sia adiacente ad almeno una casella contrassegnata.
+>
+> Determinare il valore minimo possibile di $N$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1999#q03|src_imho_1999__Q03]]
 
 
 
@@ -132,13 +153,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coppie di interi positivi con condizione di divisibilità coinvolgente un numero primo*
+*Coppie di interi positivi con una condizione di divisibilità che coinvolge un numero primo*
 
 > Determinare tutte le coppie $(n, p)$ di interi positivi tali che
-> 
-> $p$ è un numero primo,
-> $n$ non supera $2p$, e
-> $(p-1)^n + 1$ è divisibile per $n^{p-1}$.
+>
+> $p$ è un numero primo, $n$ non superato da $2p$, e $(p-1)^n + 1$ è divisibile per $n^{p-1}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1999#q04|src_imho_1999__Q04]]
 
 
 
@@ -163,11 +189,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Retta tangente CD alla circonferenza G2 nella configurazione di circonferenze secanti*
+*Retta tangente CD al cerchio G2 tramite configurazione di cerchi secanti*
 
-> Due circonferenze $G_1$ e $G_2$ sono contenute all'interno della circonferenza $G$, e sono tangenti a $G$ rispettivamente nei punti distinti $M$ e $N$. La retta $G_1$ passa per il centro di $G_2$. La retta che passa per i due punti di intersezione tra $G_1$ e $G_2$ incontra $G$ nei punti $A$ e $B$. Le rette $MA$ e $MB$ incontrano $G_1$ rispettivamente nei punti $C$ e $D$.
-> 
-> Si dimostri che $CD$ è tangente a $G_2$.
+> Due circonferenze $G_1$ e $G_2$ sono contenute all'interno della circonferenza $G$ e sono tangenti a $G$ rispettivamente nei punti distinti $M$ e $N$. $G_1$ passa per il centro di $G_2$. La retta passante per i due punti di intersezione di $G_1$ e $G_2$ incontra $G$ nei punti $A$ e $B$. Le rette $MA$ e $MB$ incontrano $G_1$ rispettivamente nei punti $C$ e $D$.
+>
+> Dimostrare che $CD$ è tangente a $G_2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1999#q05|src_imho_1999__Q05]]
 
 
 
@@ -192,8 +225,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le funzioni reali che soddisfano l'equazione funzionale data*
+*Trovare tutte le funzioni reali che soddisfano l'equazione funzionale data*
 
 > Determinare tutte le funzioni $f : \mathbf{R} \longrightarrow \mathbf{R}$ tali che
 > $$f(x - f(y)) = f(f(y)) + xf(y) + f(x) - 1$$
-> per ogni numero reale $x, y$.
+> per tutti i numeri reali $x, y$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1999#q06|src_imho_1999__Q06]]

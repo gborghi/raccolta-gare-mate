@@ -61,39 +61,48 @@ level: Olympiades Première
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 1 (tutti i candidati): dieci problemi brevi, per lo più indipendenti sulle percentuali, la classificazione, i pesi, la forma del vetro, il rapporto dorato, i quadrilaterali articolati, gli specchi angolari, il rotolo del nastro e la classificazione di una tavola.*
+*Esercizio 1 (per tutti i candidati): dieci problemi brevi, per lo più indipendenti, su percentuali, valutazione, pesature, forma dei bicchieri, rapporto aureo, quadrilatero articolato, specchi angolari, rotolo di nastro e ordinamento di una tabella.*
 
-> L'esercizio 1 (tutti i candidati)
-> 
-> In questo esercizio, tutte le domande e le sotto-missioni sono, in larga misura, indipendenti. A partire dalla domanda 7, la difficoltà è aumentata. Tutte le risposte devono essere giustificate.
-> 
+> **Esercizio 1 (tutti i candidati) — Più forte!**
+>
+> In questo esercizio, tutte le domande e le sottodomande sono, in larga misura, indipendenti. A partire dalla domanda 7, si registra un certo aumento della difficoltà. Tutte le risposte devono essere giustificate.
+>
 > **1. Percentuali per tutte le età.**
-> 
-> **a.** È esatto che, per tutti i numeri reali positivi $x$ e $y$, $x\%$ di euro $y$ è uguale a $y\%$ di euro $x$? Riduzione, senza un calcolo complicato, del valore di $32\%$ di $25$ euro.
-> 
-> **b.** È esatto che, durante le vendite, dopo $4$ riduzioni consecutive di $25\%$, un articolo diventi gratuito?
-> 
-> **c.** Passiamo da un prezzo escluso dalla tassa (HT, hors tax) a un prezzo incluso da tutte le tasse (TTC, incluse tutte le tasse) aumentando il prezzo HT di $20\%$. Se il prezzo TTC di un articolo è $2$ volte superiore in un negozio rispetto ad un altro, è il prezzo HT anche $2$ volte superiore?
-> 
-> **2. Doppio significato.** Date due riformulazioni molto diverse della domanda  Quale numero dà $51$ quando si moltiplica con $0.01$ e poi si alza con $1$?  in modo da rimuovere l'ambiguità e fornire le due risposte diverse.
-> 
-> **3. Il segreto del 20/20.** Un soggetto di esame, classificato fuori di $20$, è composto da un esercizio classificato fuori di $5$ e da un problema classificato fuori di $15$. Un candidato riceve il grado $4$ da $5$ sull'esercizio e $3$ da $15$ sul problema. Qual è il grado del candidato in $20$? Tuttavia, il calcolo frazionario dimostra che $\frac{4}{5}+\frac{3}{15}=\frac{20}{20}$ (il risultato è giustificato); proporre un motivo che possa dare al candidato $20$ di $20$ (il paradosso), e poi dimostrare che, nello stesso contesto di un esercizio di $5$ e di un problema di $15$, questo calcolo dà sempre un risultato migliore del primo.
-> 
-> **4. Trovare l'intruso.** Uno ha un equilibrio a due pannelli come nella figura a destra. Tra le arance $5$ indistinguibili dal tatto e dalla vista  $4$ di esse pesano esattamente la stessa quantità e $1$ è leggermente più leggera  si propone una procedura per rilevare, nel massimo dei pesi $2$, l'arancione più leggero. Ora consideriamo le arance $2\,024$ indistinguibili dal tatto e dalla vista, di cui $2\,023$ pesa esattamente la stessa e $1$ è leggermente più leggera; proponiamo una procedura che permetta di rilevare l'arancia più leggera, nel massimo dei pesi $10$.
-> 
-> **5. Tchin!** Un vetro è mostrato in sezione trasversale del meridiano (unità: cm; la figura non è a scala; le pareti interne ed esterne sono parallele). Un secondo bicchiere dello stesso modello è messo su di esso. A che altezza salire l'assemblea? Accompagna la tua risposta con uno schizzo.
-> 
-> **6. L'inizio della ricchezza.** Due rettangoli identici $ABCD$ e $A'B'C'D'$ di larghezza $\ell$ e lunghezza $L>\ell$ sono posizionati fianco a fianco come nella figura a destra, il primo posizionato orizzontalmente e il secondo in posizione verticale. Indicare che i punti $A$, $C$, $B'$ sono collineari quando $\dfrac{L}{\ell}=\dfrac{1+\sqrt{5}}{2}$. (Dopo l'esame, prova con due rettangoli in formato CB ( carte bleue , una carta bancaria); vedrai che funziona!)
-> 
-> **7. Quale forma!?** Un rettangolo $ABCD$ è articolato ai suoi quattro vertici. Può quindi deformarsi in un parallelo e poi in un contraparallelo giocando sull'apertura $\theta=\widehat{(\vec{CB},\vec{CD})}$ come mostrato di seguito. Disegnare le configurazioni ottenute quando gli angoli misurano successivamente $\theta=120^\circ$, quindi $\theta=180^\circ$, quindi $\theta=225^\circ$. Lasciare visibili le linee di costruzione e scegliere $DC$ tre volte più grande di $AD$. Uno ha quindi quattro barre a forma di parallelepiped (percette alle loro estremità): due lunghe e due corte (le lunghe sono tre volte più lunghe di quelle corte) e quattro bulloni (un bullone è composto da una vite e un nodo). Disegnare in prospettiva i possibili assemblaggi che consentono di costruire un parallelo articolato con questi materiali. Tuttavia, quale è l'unico assemblaggio che consente al meccanismo di deformarsi fino al contraparallelogramma?
-> 
-> **8. Solo per gli occhi.** Un angolo di cubo è costituito da tre specchi reciprocamente perpendicolari. In generale, un raggio incidente che colpisce uno degli specchi viene poi riflettuto sugli altri due prima di partire. Ad esempio, sul diagramma a destra, il raggio luminoso rimbalza tre volte: prima colpisce la faccia anteriore, poi la faccia laterale destra, poi la faccia superiore. Spiegate perché il raggio in partenza è parallelo al raggio in entrata. Riduzione dell'uso di tale dispositivo per la realizzazione dei retroreflettori (catadioptri) posizionati nella parte posteriore delle biciclette e delle automobili.
-> 
-> **9. ** Un rotolio di nastro adesivo ha un raggio interno $R=1.8$ cm e un raggio esterno $R'=2.6$ cm. Il nastro adesivo è lungo $25$ m. Determinare, il più precisamente possibile, lo spessore del nastro.
-> 
-> **10.** Una tabella di righe $n$ e colonne $p$ contiene numeri reali. Riordiniamo ogni riga da sinistra a destra in ordine crescente, poi ogni colonna a sua volta dal basso verso l'alto in ordine crescente (qui $n=3$ e $p=5$). Dimostra che dopo questa seconda operazione ogni riga rimane ordinata, sempre in ordine crescente da sinistra a destra.
+>
+> **a.** È esatto che, per tutti i numeri reali positivi $x$ e $y$, $x\%$ di $y$ euro equivale a $y\%$ di $x$ euro? Deduci, senza un calcolo complicato, il valore di $32\%$ di $25$ euro.
+>
+> **b.** È esatto che, durante le vendite, dopo $4$ riduzioni consecutive di $25\%$, un articolo diventa gratuito?
+>
+> **c.** Passiamo da un prezzo al netto di imposte (HT, hors taxe) a un prezzo comprensivo di tutte le imposte (TTC, toutes taxes comprises) aumentando il prezzo HT di $20\%$. Se il prezzo TTC di un articolo è $2$ volte più alto in un negozio che in un altro, anche il prezzo HT è $2$ volte più alto?
+>
+> **2. Doppio significato.** Fornisci due riformulazioni molto diverse della domanda « Quale numero dà $51$ quando lo si moltiplica per $0.01$ e poi lo si eleva a potenza $1$? » in modo da eliminare l'ambiguità, e fornisci le due risposte diverse.
+>
+> **3. Il segreto del 20/20.** Una materia d'esame, valutata su $20$, è composta da un esercizio valutato su $5$ e da un problema valutato su $15$. Un candidato ottiene il voto $4$ su $5$ nell'esercizio e $3$ su $15$ nel problema. Qual è il voto del candidato su $20$? Tuttavia, il calcolo frazionario mostra che $\frac{4}{5}+\frac{3}{15}=\frac{20}{20}$ (risultato da giustificare); proponi un motivo che farebbe ottenere al candidato $20$ su $20$ (il paradosso), poi dimostrare che, nello stesso contesto di un esercizio su $5$ e di un problema su $15$, questo calcolo dà sempre un risultato migliore del primo.
+>
+> **4. Trovare l'intruso.** Si dispone di una bilancia a due piatti come nella figura a destra. Tra $5$ arance indistinguibili al tatto e alla vista, $4$ di esse pesano esattamente allo stesso modo e $1$ è leggermente più leggera: si proponga una procedura per individuare, in non più di $2$ pesate, l'arancia più leggera. Ora si considerino $2\,024$ arance indistinguibili al tatto e alla vista, delle quali $2\,023$ pesano esattamente allo stesso modo e $1$ è leggermente più leggera; si proponga una procedura che permetta, in non più di $10$ pesate, di individuare l'arancia più leggera.
+>
+> **5. Cin!** Viene mostrato un bicchiere in sezione trasversale meridiana (unità: cm; la figura non è in scala; le pareti interna ed esterna sono parallele). Su di esso è impilato un secondo bicchiere dello stesso modello. Fino a che altezza si innalza l'insieme? Allega alla tua risposta uno schizzo.
+>
+> **6. L'inizio della ricchezza.** Due rettangoli identici $ABCD$ e $A'B'C'D'$, di larghezza $\ell$ e lunghezza $L>\ell$, sono disposti affiancati come nella figura a destra: il primo è orientato orizzontalmente e il secondo verticalmente. Dimostrare che i punti $A$, $C$, $B'$ sono allineati quando $\dfrac{L}{\ell}=\dfrac{1+\sqrt{5}}{2}$. (Dopo l'esame, prova con due rettangoli in formato CB (« carte bleue », una carta bancaria); vedrai che funziona!)
+>
+> **7. Che forma!?** Un rettangolo $ABCD$ è articolato nei suoi quattro vertici. Può quindi deformarsi in un parallelogramma, poi in un contraparallelogramma, giocando sull'apertura $\theta=\widehat{(\vec{CB},\vec{CD})}$ come mostrato di seguito. Disegna le configurazioni ottenute quando gli angoli misurano successivamente $\theta=120^\circ$, poi $\theta=180^\circ$, poi $\theta=225^\circ$. Lascia visibili le linee di costruzione e scegli $DC$ tre volte più grande di $AD$. Si hanno allora quattro aste a forma di parallelepipedo (forate alle estremità): due lunghe e due corte (quelle lunghe sono tre volte più lunghe di quelle corte), e quattro bulloni (un bullone è composto da una vite e da un dado). Disegna in prospettiva gli assemblaggi possibili che consentono di costruire un parallelogramma articolato con questi materiali. Tuttavia, qual è l'unico assemblaggio che permette al meccanismo di deformarsi fino al contraparallelogramma?
+>
+> **8. Solo per i tuoi occhi.** Un angolo di un cubo è costituito da tre specchi mutuamente perpendicolari. In generale, un raggio incidente che colpisce uno degli specchi viene poi riflesso sugli altri due prima di uscire. Ad esempio, nel diagramma a destra, il raggio luminoso rimbalza tre volte: colpisce per primo la faccia frontale, poi la faccia laterale destra e infine la faccia superiore. Spiega perché il raggio uscente è parallelo al raggio incidente. Deduci l'utilizzo di un dispositivo del genere per realizzare i retroriflettori (catadiottri) collocati nella parte posteriore di biciclette e automobili.
+>
+> **9.** Un rotolo di nastro adesivo ha raggio interno $R=1.8$ cm e raggio esterno $R'=2.6$ cm. Il nastro adesivo è lungo $25$ m. Determina, con la massima precisione possibile, lo spessore del nastro.
+>
+> **10.** Una tabella con $n$ righe e $p$ colonne contiene numeri reali. Riordiniamo ciascuna riga da sinistra a destra in ordine crescente, poi ciascuna colonna a turno dal basso verso l'alto in ordine crescente (qui $n=3$ e $p=5$). Dimostriamo che, dopo questa seconda operazione, ciascuna riga rimane ordinata, sempre in ordine crescente da sinistra a destra.
 
 ![[src_oprem_2024__q01.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_conteggio|Conteggio]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_oprem_2024#q01|src_oprem_2024__Q01]]
 
 
 
@@ -188,75 +197,88 @@ level: Olympiades Première
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 2 (traccia generale, specialità matematica): set di STD (tutti i sottosetti sommano distinte)  esempi/contresempi, una sequenza ricorsiva dimostrata geometrica, e limiti inferiori per le sequenze di STD utilizzando un argomento probabilistico (varianza).*
+*Esercizio 2 (percorso generale, indirizzo matematico): insiemi STD (tutte le somme degli sottoinsiemi distinte) — esempi/controesempi, una successione ricorsiva dimostrata essere geometrica, e limiti inferiori per le successioni STD mediante un argomento probabilistico (varianza).*
 
-> **Esercizio 2 (candidati della pista generale seguendo l'opzione  spé maths ) **
-> 
-> *Summiamo tutti i numeri distinti (Nous sommes toutes distinctes). *
-> 
-> In questo esercizio, il simbolo $n$ indica un intero naturale con $n\ge 1$; tutti gli insiemi considerati sono non vuoti, finiti e costituiti da numeri reali distinti; inoltre, ogni insieme finito $A=\{a_1,a_2,\ldots,a_n\}$ di $n$ elementi reali distinti verrà scritto con i suoi elementi ordinati come $a_1<a_2<\cdots<a_n$. Dato un tale insieme, scriviamo $S(A)$ per la somma dei suoi elementi, cioè $S(A)=a_1+\cdots+a_n$. In particolare, quando $n=1$ e $A=\{a_1\}$ è un singleton, $S(A)=a_1$.
-> 
-> Diciamo che l'insieme $A$ è **STD** (à sommes toutes distinctes, cioè tutte le somme del sottoinsieme distinte) quando, per tutti i sottoinsiemi non vuoti $Y$ e $Z$ di $A$ con $Y\neq Z$, si ha $S(Y)\neq S(Z)$. Allo stesso modo, le somme $2^n-1$ che si possono formare con gli elementi di $A$ sono tutte distinte.
-> 
-> Ad esempio, $A=\{1,2,5\}$ è STD poiché i numeri $1,2,5,\ 1+2=3,\ 2+5=7,\ 1+5=6,\ 1+2+5=8$ sono tutti distinti. Al contrario, $A=\{2,4,6,7\}$ non è STD perché, assumendo $Y=\{2,4,7\}$ e $Z=\{6,7\}$, si ha $S(Y)=2+4+7=13=S(Z)$, anche se $Y\neq Z$.
-> 
+> **Esercizio 2 (candidati del percorso generale che seguono l'opzione « spé maths »)**
+>
+> *Sommiamo tutti i numeri distinti (Siamo tutte distinte).*
+>
+> In questo esercizio, il simbolo $n$ denota un numero intero naturale con $n\ge 1$; tutti gli insiemi considerati sono non vuoti, finiti e costituiti da numeri reali distinti; inoltre, ogni insieme finito $A=\{a_1,a_2,\ldots,a_n\}$ di $n$ elementi reali distinti sarà scritto con i suoi elementi ordinati come $a_1<a_2<\cdots<a_n$. Dato un tale insieme, indichiamo con $S(A)$ la somma dei suoi elementi, cioè $S(A)=a_1+\cdots+a_n$. In particolare, quando $n=1$ e $A=\{a_1\}$ è un insieme unitario, $S(A)=a_1$.
+>
+> Diciamo che l'insieme $A$ è **STD** (à sommes toutes distinctes, cioè con tutte le somme degli sottoinsiemi distinte) quando, per tutti i sottoinsiemi non vuoti $Y$ e $Z$ di $A$ con $Y\neq Z$, si ha $S(Y)\neq S(Z)$. Equivalently, le $2^n-1$ somme che si possono formare con gli elementi di $A$ sono tutte distinte.
+>
+> Ad esempio, $A=\{1,2,5\}$ è STD poiché i numeri $1,2,5,\ 1+2=3,\ 2+5=7,\ 1+5=6,\ 1+2+5=8$ sono tutti distinti. Al contrario, $A=\{2,4,6,7\}$ non è STD perché, prendendo $Y=\{2,4,7\}$ e $Z=\{6,7\}$, si ha $S(Y)=2+4+7=13=S(Z)$, sebbene $Y\neq Z$.
+>
 > ---
-> 
-> **Parte 1  Esempi e semplici contro-esempi**
-> 
+>
+> **Parte 1 — Esempi e controesempi semplici**
+>
 > **1.** Spiega perché il numero di somme da considerare per studiare il carattere STD di $A$ è $2^n-1$.
-> 
-> **2.** Indicare che il set $\{1,3,5\}$ è STD ma che il set $\{4,6,7,9\}$ non lo è.
-> 
-> Quale set di $A$ contenente $0$ è (sono) STD?
-> 
-> **4.** $A$ e $B$ siano due insieme finiti non vuoti di reali distinti, con $A\subset B$ (cioè $A$ è un sottoinsieme di $B$).
-> 
-> **a.** Se $B$ è STD, giustificare che $A$ è anche STD.
-> 
-> **b.** Il set $B$ può essere STD se $A$ non lo è?
-> 
-> **5.** $A$ sia un insieme finito non vuoto di $n$ reali distinte. Supponiamo che $A$ sia ** non ** costituito da integri e che sia STD. giustificare che $A\cup\{\frac{1}{2}\}$, quindi $A\cup\{\frac{1}{2},\sqrt{2}\}$, siano anche malattie sessualmente trasmissibili.
-> 
+>
+> **2.** Dimostrare che l'insieme $\{1,3,5\}$ è STD ma che l'insieme $\{4,6,7,9\}$ non lo è.
+>
+> **3.** Quale/i insieme/i $A$ contenente/i $0$ è/sono STD?
+>
+> **4.** Siano $A$ e $B$ due insiemi finiti non vuoti di numeri reali distinti, con $A\subset B$ (ossia $A$ è un sottoinsieme di $B$).
+>
+> **a.** Se $B$ è STD, giustifica che anche $A$ è STD.
+>
+> **b.** L'insieme $B$ può essere STD se $A$ non lo è?
+>
+> **5.** Sia $A$ un insieme finito non vuoto di $n$ numeri reali distinti. Si supponga che $A$ **non** sia costituito da interi e che sia STD. Giustificare che anche $A\cup\{\frac{1}{2}\}$, e poi che anche $A\cup\{\frac{1}{2},\sqrt{2}\}$, siano STD.
+>
 > ---
-> 
-> **Parte 2  Costruzione di una sequenza**
-> 
-> Consideriamo la sequenza $(u_n)$ definita da $u_1=1$ e la relazione di ricorrenza, valida per tutti $n\ge 1$: $$u_{n+1}=u_1+\cdots+u_n+1.$$
-> 
-> **6. ** Verificare che $u_2=2$ e $u_3=4$. Calcolare $u_5$.
-> 
-> **7.** Scrivi sulla tua copia un programma nel linguaggio Python che restituisca $u_{100}$ (che in realtà non calcoleremo).
-> 
-> **8. ** Studiare la direzione di variazione (monotonicità) della sequenza $(u_n)$.
-> 
-> **9.** Mostra che, per tutti $n\ge 1$, l'insieme $\{u_1,\ldots,u_n\}$ è STD.
-> 
-> **10.** Mostra che $(u_n)$ è in realtà una sequenza geometrica, che determinerai.
-> 
+>
+> **Parte 2 — Costruzione di una successione**
+>
+> Consideriamo la successione $(u_n)$ definita da $u_1=1$ e dalla relazione di ricorrenza, valida per tutti gli $n\ge 1$:
+> $$u_{n+1}=u_1+\cdots+u_n+1.$$
+>
+> **6.** Verifica che $u_2=2$ e $u_3=4$. Calcola $u_5$.
+>
+> **7.** Scrivi sulla tua copia un programma in linguaggio Python che restituisca $u_{100}$ (che non calcoleremo effettivamente).
+>
+> **8.** Studia la direzione di variazione (monotonicità) della successione $(u_n)$.
+>
+> **9.** Dimostrare che, per ogni $n\ge 1$, l'insieme $\{u_1,\ldots,u_n\}$ è STD.
+>
+> **10.** Dimostrare che $(u_n)$ è in effetti una successione geometrica, che determinerai.
+>
 > ---
-> 
-> **Parte 3  Sequenze di STD**
-> 
-> Una sequenza $(u_n)$ si dice STD quando è in aumento rigoroso, composta da integri rigorosamente positivi, e tale che per tutti $n\ge 1$ l'insieme $\{u_1,\ldots,u_n\}$ sia STD. Per esempio, la sequenza studiata nella Parte 2 è una sequenza di malattie sessualmente trasmissibili.
-> 
-> **11.** $(u_n)$ sia una sequenza di STD arbitraria.
-> 
-> **a.** Indicare che per tutti i $n\ge 1$: $$u_1+\cdots+u_n\ge 2^n-1.$$
-> 
-> **b.** Deduce che per tutti $n\ge 2$: $$u_n\ge \frac{2^n}{n}.$$
-> 
-> L'obiettivo di questa domanda è quello di perfezionare il limite inferiore ottenuto nella domanda precedente. Per fare questo, useremo la probabilità, e diremo che una variabile casuale $X$ che prende valori in un insieme reale finito non vuoto $A=\{a_1,\ldots,a_n\}$ di $n$ elementi distinti segue la legge uniforme quando tutti i valori che può prendere sono equiprobabili. Quindi, $P(X=a_1)=P(X=a_2)=\cdots=P(X=a_n)=\frac{1}{n}$.
-> 
-> **a.** $(u_n)$ sia una sequenza di STD arbitraria. Per $n\ge 2$, considera le variabili casuali indipendenti $X_1,\ldots,X_n$ che seguono la legge uniforme sull'insieme $\{-1,1\}$; quindi, per ogni indice $i$, $P(X_i=1)=P(X_i=-1)=\frac{1}{2}$. Set $X=u_1X_1+\cdots+u_nX_n$. Ammettiamo che $E(X)=u_1E(X_1)+\cdots+u_nE(X_n)$ e che $V(X)=u_1^2V(X_1)+\cdots+u_n^2V(X_n)$. Dopo aver giustificato $E(X_1)=0$ e $V(X_1)=1$, calcolare l'aspettativa $E(X)$ ed esprimere la varianza $V(X)$ in termini di $u_1,u_2,\ldots,u_n$.
-> 
-> **b.** Indicare che $X$ segue una legge uniforme su un insieme di integri relativi $2^n$, simmetrici rispetto a $0$, i cui elementi non sono zero e della stessa parità.
-> 
-> **c.** Deduci che per tutti $n\ge 1$: $$u_n^2\ge \frac{1}{n}\,\frac{1}{2^{n-1}}\left(1^2+3^2+5^2+\cdots+(2^n-1)^2\right).$$
-> 
-> **d.** Proporre un valore di $n\ge 2$ per il quale questa disuguaglianza fornisce un limite inferiore maggiore di quello della domanda **11.b**.
+>
+> **Parte 3 — Sequenze STD**
+>
+> Una successione $(u_n)$ è detta STD quando è strettamente crescente, è composta da interi strettamente positivi e tale che, per ogni $n\ge 1$, l'insieme $\{u_1,\ldots,u_n\}$ è STD. Ad esempio, la successione studiata nella Parte 2 è una successione STD.
+>
+> **11.** Sia $(u_n)$ una sequenza STD arbitraria.
+>
+> **a.** Dimostrare che per ogni $n\ge 1$:
+> $$u_1+\cdots+u_n\ge 2^n-1.$$
+>
+> **b.** Deduci che per tutti gli $n\ge 2$:
+> $$u_n\ge \frac{2^n}{n}.$$
+>
+> **12.** L'obiettivo di questa domanda è perfezionare il limite inferiore ottenuto nella domanda precedente. A tal fine, utilizzeremo la probabilità e diremo che una variabile aleatoria $X$ che assume valori in un insieme reale finito non vuoto $A=\{a_1,\ldots,a_n\}$ di $n$ elementi distinti segue la legge uniforme quando tutti i valori che può assumere sono equiprobabili. Pertanto, $P(X=a_1)=P(X=a_2)=\cdots=P(X=a_n)=\frac{1}{n}$.
+>
+> **a.** Sia $(u_n)$ una successione STD arbitraria. Per $n\ge 2$, si considerino le variabili casuali indipendenti $X_1,\ldots,X_n$ che seguono la legge uniforme sull'insieme $\{-1,1\}$; pertanto, per ogni indice $i$, $P(X_i=1)=P(X_i=-1)=\frac{1}{2}$. Si ponga $X=u_1X_1+\cdots+u_nX_n$. Si ammette che $E(X)=u_1E(X_1)+\cdots+u_nE(X_n)$ e che $V(X)=u_1^2V(X_1)+\cdots+u_n^2V(X_n)$. Dopo aver giustificato che $E(X_1)=0$ e $V(X_1)=1$, si calcoli l'aspettativa $E(X)$ e si esprima la varianza $V(X)$ in termini di $u_1,u_2,\ldots,u_n$.
+>
+> **b.** Dimostrare che $X$ segue una legge uniforme su un insieme di $2^n$ interi relativi, simmetrico rispetto a $0$, e i cui elementi sono non nulli e della stessa parità.
+>
+> **c.** Deduci che per tutti gli $n\ge 1$:
+> $$u_n^2\ge \frac{1}{n}\,\frac{1}{2^{n-1}}\left(1^2+3^2+5^2+\cdots+(2^n-1)^2\right).$$
+>
+> **d.** Proponi un valore di $n\ge 2$ per cui questa disuguaglianza fornisca un minorante maggiore di quello della domanda **11.b**.
 
 ![[src_oprem_2024__q02.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_oprem_2024#q02|src_oprem_2024__Q02]]
 
 
 
@@ -315,40 +337,49 @@ level: Olympiades Première
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 3 (traccia generale senza specialità matematica, e tutta la traccia tecnologica): Piramide di Pascal di differenze assolute  costruzione, conteggio delle entrate, piramidi perfette, e dove la più grande entrata deve essere attraverso un argomento di percorso più grande vicino.*
+*Esercizio 3 (percorso generale senza indirizzo matematico e percorso tecnologico completo): piramidi di Pascal delle differenze assolute — costruzione, conteggio degli elementi, piramidi perfette e determinazione del luogo in cui deve trovarsi l'elemento massimo mediante un argomento basato su un percorso dei vicini maggiori.*
 
-> **Esercizio 3 (candidati della pista generale NON seguendo l'opzione  spé maths  E TUTTI i candidati della pista tecnologica) **
-> 
-> *Piramidi di Pascal (Piramidi di Pascal) *
-> 
-> Una piramide Pascal è un array triangolare di numeri interi naturali formato in modo seguente: la sua linea superiore contiene un numero, i due numeri successivi, ecc. Inoltre, su ogni linea, tranne l'ultima (la di sotto), ogni numero deve essere uguale alla distanza tra i due numeri situati appena sotto di esso, uno a sinistra e l'altro a destra (cioè la differenza assoluta). Qui di seguito è rappresentata, in pochi passi, la costruzione di un triangolo con linee $4$ (ad esempio, dalla linea di base $8,\ 4,\ 10,\ 7$ si ottiene $4,\ 6,\ 3$, quindi $2,\ 3$, quindi $1$).
-> 
-> **1. Domanda preliminare.** Ricordi perché la somma $1+2+\cdots+n$ dei primi $n$ enti interi positivi, con $n\ge 1$, è uguale a $\dfrac{n(n+1)}{2}$.
-> 
+> **Esercizio 3 (candidati del percorso generale CHE NON seguono l'opzione « spé maths » E TUTTI i candidati del percorso tecnologico)**
+>
+> *Piramidi di Pascal (Pyramides de Pascal)*
+>
+> Una **piramide di Pascal** è un array triangolare di numeri interi naturali costruito nel modo seguente: la sua riga superiore contiene un numero, le due righe successive ne contengono due ciascuna, e così via. Inoltre, in ogni riga tranne l'ultima (quella in fondo), ciascun numero deve essere uguale alla distanza tra i due numeri collocati subito al di sotto di esso, uno alla sua sinistra e l'altro alla sua destra (ossia la differenza assoluta). Qui sotto è rappresentata, in pochi passaggi, la costruzione di un tale triangolo con $4$ righe (per esempio, partendo dalla riga di base $8,\ 4,\ 10,\ 7$ si ottiene $4,\ 6,\ 3$, poi $2,\ 3$, poi $1$).
+>
+> **1. Questione preliminare.** Ricorda perché la somma $1+2+\cdots+n$ dei primi $n$ numeri interi positivi, con $n\ge 1$, è uguale a $\dfrac{n(n+1)}{2}$.
+>
 > **2. Alcuni esempi.**
-> 
-> **a.** Costruire la piramide Pascal con linee $4$ la cui ultima linea è costituita, in questo ordine di esposizione, dai numeri interi $4,\ 3,\ 9$ e $7$ ($4$ è quindi all'estrema sinistra e $7$ all'estrema destra).
-> 
-> **b.** Costruire una piramide di Pascal con linee $3$ utilizzando esclusivamente gli integri $1$, $2$, $3$.
-> 
-> **3. Numero di integri in una piramide di Pascal.**
-> 
-> **a.** Quanti numeri (distinti o meno) sono scritti in una piramide Pascal con linee $3$? Con linee $4$?
-> 
-> **b.** Lasciate $n\ge 2$. Quanti numeri (distinti o meno) sono scritti in una piramide di Pascal con linee $n$?
-> 
-> In quanto segue, diciamo che una piramide di Pascal è perfetta se contiene esattamente una volta ciascuno dei numeri interi tra$1$e il numero totale di numeri interi del triangolo. Ad esempio, la piramide Pascal con le linee $3$ che hanno $2$, la linea media $3$ $5$ e la linea base $4$ $1$ $6$ è perfetta.
-> 
-> **4. ** Lasciate $n\ge 2$. Mostrare che se esiste una piramide perfetta con linee $n$, il numero intero più grande che possiede si trova sulla linea inferiore. Qual è questo numero intero?
-> 
-> **5.** Costruire una piramide Pascal perfetta con linee $3$ in cui il numero $6$ sia situato in basso e in mezzo.
-> 
-> L'obiettivo di questa domanda è dimostrare che in una piramide Pascal perfetta con linee $n$, e tranne quando $n\le 3$, il numero $n(n+1)/2$ non può essere situato né in basso a destra né in basso a sinistra.
-> 
-> **a.** giustificare che sia sufficiente a dimostrare che non può essere situato in fondo a destra. Supponiamo, in quanto segue, che il numero $n(n+1)/2$ sia situato in basso a destra.
-> 
-> **b.** Considera quindi il percorso che parte dalla cima della piramide e scende progressivamente, collegando il numero raggiunto su ciascuna linea al più grande dei due numeri della linea inferiore situata a sinistra e a destra. Nell'esempio di cui sopra la domanda 4 questo percorso sarebbe $2\to 5\to 6$. Mostrare che, nel caso generale, questo percorso può seguire solo il bordo destro della piramide e terminare a $n(n+1)/2$.
-> 
-> **c.** Concludi considerando il triangolo equilaterale la cui base inferiore è composta dai numeri $n-2$ più a sinistra dell'ultima linea.
+>
+> **a.** Costruire la piramide di Pascal con $4$ righe, la cui ultima riga è costituita, in questo ordine di esposizione, dagli interi $4,\ 3,\ 9$ e $7$ ($4$ è quindi estremamente a sinistra e $7$ estremamente a destra).
+>
+> **b.** Costruisci una piramide di Pascal con $3$ righe, utilizzando esclusivamente gli interi $1$, $2$, $3$.
+>
+> **3. Numero di interi in una piramide di Pascal.**
+>
+> **a.** Quanti numeri (distinti o meno) sono scritti in una piramide di Pascal con $3$ righe? Con $4$ righe?
+>
+> **b.** Sia $n\ge 2$. Quanti numeri (distinti o meno) sono scritti in una piramide di Pascal con $n$ righe?
+>
+> *Nel seguito, diciamo che una piramide di Pascal è* **perfetta** *se contiene esattamente una volta ciascuno degli interi compresi tra $1$ e il numero totale degli interi del triangolo. Ad esempio, la piramide di Pascal con $3$ righe, avente come cima $2$, come riga centrale $3$ $5$ e come riga di base $4$ $1$ $6$, è perfetta.*
+>
+> **4.** Sia $n\ge 2$. Dimostrare che, se esiste una piramide perfetta con $n$ righe, allora il più grande intero che essa possiede si trova sulla riga inferiore. Qual è questo intero?
+>
+> **5.** Costruisci una piramide di Pascal perfetta con $3$ righe, in cui il numero $6$ si trovi alla base e al centro.
+>
+> **6.** Lo scopo di questa domanda è dimostrare che, in una piramide di Pascal perfetta con $n$ righe, e salvo nel caso in cui $n\le 3$, il numero $n(n+1)/2$ non può trovarsi né all'estremità destra in fondo né all'estremità sinistra in fondo.
+>
+> **a.** Giustifica che basta stabilire che non può trovarsi in basso, estremamente a destra. Nelle considerazioni che seguono, si assume che il numero $n(n+1)/2$ si trovi in basso, estremamente a destra.
+>
+> **b.** Si consideri poi il percorso che parte dalla cima della piramide e scende progressivamente, collegando il numero raggiunto su ciascuna riga al maggiore dei due numeri della riga sottostante situati a sinistra e a destra di esso. Nell'esempio sopra riportato nella domanda 4, questo percorso sarebbe $2\to 5\to 6$. Si dimostri che, nel caso generale, tale percorso può seguire solo il bordo destro della piramide e terminare in $n(n+1)/2$.
+>
+> **c.** Concludi considerando il triangolo equilatero la cui base inferiore è composta dai $n-2$ numeri più a sinistra dell'ultima riga.
 
 ![[src_oprem_2024__q03.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_oprem_2024#q03|src_oprem_2024__Q03]]

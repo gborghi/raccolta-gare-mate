@@ -33,11 +33,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolare un radicale di quattro potenze*
+*Valore intero di un'espressione*
 
-> Calcolare il valore della seguente espressione e dare la risposta come numero intero: $$\sqrt{\dfrac{11^4 + 100^4 + 111^4}{2}}.$$
+> Calcolare il valore dell'espressione seguente e dare la risposta come intero:
+>
+> $$\sqrt{\dfrac{11^4 + 100^4 + 111^4}{2}}.$$
 
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 11221
+[[Quesiti/src_jmo26yq_yosen#q01|src_jmo26yq_yosen__Q01]]
 
 
 
@@ -63,11 +69,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri interi 1..2016 con mod 20*
+*Quanti interi in un intervallo hanno resto minore della metà del divisore*
 
-> Tra i numeri interi da $1$ a $2016$, quanti sono i cui restanti dopo la divisione da $20$ sono inferiori alla metà di $16$ (cioè il restante del modulo intero $20$ è inferiore a $\tfrac{16}{2} = 8$)?
+> Tra gli interi da $1$ a $2016$, quanti sono quelli il cui resto nella divisione per $20$ è minore della metà di $16$ (cioè il resto dell'intero modulo $20$ è minore di $\tfrac{16}{2} = 8$)?
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 600
+[[Quesiti/src_jmo26yq_yosen#q02|src_jmo26yq_yosen__Q02]]
 
 
 
@@ -93,11 +103,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo di due linee in un esagono ciclico*
+*Ampiezza dell'angolo formato da due rette in un esagono inscritto*
 
-> Il $ABCDEF$ deve essere un esagono inciso in un cerchio. $P$ è l'intersezione della linea $AB$ e della linea $DC$, $Q$ l'intersezione della linea $BC$ e della linea $ED$, $R$ l'intersezione della linea $CD$ e della linea $FE$, $S$ l'intersezione della linea $DE$ e della linea $AF$, e $T$ l'intersezione della linea $FE$ e della linea $CB$. È dato che $\angle BPC = 50^\circ$, $\angle CQD = 45^\circ$, $\angle DRE = 40^\circ$ e $\angle ESF = 35^\circ$. Trova la dimensione dell'angolo formato dall'intersezione della linea $BE$ e della linea $CF$.
+> Sia $ABCDEF$ un esagono inscritto in una circonferenza. Sia $P$ l'intersezione della retta $AB$ e della retta $DC$, $Q$ l'intersezione della retta $BC$ e della retta $ED$, $R$ l'intersezione della retta $CD$ e della retta $FE$, $S$ l'intersezione della retta $DE$ e della retta $AF$, e $T$ l'intersezione della retta $FE$ e della retta $CB$. È dato che $\angle BPC = 50^\circ$, $\angle CQD = 45^\circ$, $\angle DRE = 40^\circ$ e $\angle ESF = 35^\circ$. Trovare l'ampiezza dell'angolo formato dall'intersezione della retta $BE$ e della retta $CF$.
 
-**Risposta:** 95^\circ
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Risposta:** $95^\circ$
+[[Quesiti/src_jmo26yq_yosen#q03|src_jmo26yq_yosen__Q03]]
 
 
 
@@ -123,11 +137,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Partzioni della griglia 11x11 in 5 rettangoli, un interno*
+*Partizioni di una griglia in rettangoli di cui esattamente uno non tocca il bordo*
 
-> Una griglia $11 \times 11$ di celle di unità è suddivisa lungo le linee della griglia in rettangoli $5$. Tra queste partizioni, si possono considerare quelle in cui esattamente uno dei rettangoli risultanti non tocca il confine esterno della griglia (nessuno dei suoi lati si trova sul confine esterno). Quante partizioni di questo tipo ci sono? Due partizioni che coincidono sotto rotazione o riflessione sono contate come distinte.
+> Una griglia $11 \times 11$ di caselle unitarie è partizionata lungo le linee della griglia in $5$ rettangoli. Tra queste partizioni, si considerino quelle in cui esattamente uno dei rettangoli ottenuti non tocca il bordo esterno della griglia (nessuno dei suoi lati sta sul bordo esterno). Quante sono tali partizioni? Due partizioni che coincidono per rotazione o riflessione si contano come distinte.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
 **Risposta:** 32400
+[[Quesiti/src_jmo26yq_yosen#q04|src_jmo26yq_yosen__Q04]]
 
 
 
@@ -153,11 +171,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area del triangolo BCP da triangoli simili*
+*Area di un triangolo, dato un triangolo simile e un'area*
 
-> In quadrilaterali $ABCD$, $AC = 20$ e $AD = 16$. Prendi un punto $P$ sul lato $CD$. Supponiamo che il triangolo $ABP$ e il triangolo $ACD$ siano simili (hanno la stessa forma). Quando l'area del triangolo $APD$ è $28$, si trova l'area del triangolo $BCP$.
+> Nel quadrilatero $ABCD$, $AC = 20$ e $AD = 16$. Si prenda un punto $P$ sul lato $CD$. Si supponga che il triangolo $ABP$ e il triangolo $ACD$ siano simili (abbiano la stessa forma). Quando l'area del triangolo $APD$ è $28$, trovare l'area del triangolo $BCP$.
 
-**Risposta:** \dfrac{63}{4}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $\dfrac{63}{4}$
+[[Quesiti/src_jmo26yq_yosen#q05|src_jmo26yq_yosen__Q05]]
 
 
 
@@ -183,11 +205,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto medio su tutti i modi per circolare 100 su 1,200*
+*Media di un punteggio su tutte le scelte di biglietti cerchiati*
 
-> I numeri interi da $1$ a $200$ sono scritti esattamente una volta su biglietti di lotteria separati, e esattamente $100$ di essi sono circolati (scelti). Per una tale scelta, il punteggio è definito come la somma dei numeri interi circondati meno la somma dei numeri interi $100$ non circondati. Calcola la media di questo punteggio su tutte le possibili scelte.
+> Gli interi da $1$ a $200$ sono scritti ciascuno esattamente una volta su biglietti della lotteria distinti, e esattamente $100$ di essi sono cerchiati (scelti). Per una tale scelta, il punteggio è la somma degli interi cerchiati meno la somma degli $100$ interi non cerchiati. Calcolare la media di questo punteggio su tutte le scelte possibili.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Risposta:** 670000
+[[Quesiti/src_jmo26yq_yosen#q06|src_jmo26yq_yosen__Q06]]
 
 
 
@@ -215,11 +241,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum della somma dei quadrati sotto tre equazioni di prodotto*
+*Minimo valore possibile di un'espressione su numeri reali*
 
-> Numeri reali $a, b, c, d$ soddisfano $$\begin{cases}(a+b)(c+d) = 2,\\ (a+c)(b+d) = 3,\\ (a+d)(b+c) = 4.\end{cases}$$ Trovare il valore minimo possibile di $a^2 + b^2 + c^2 + d^2$.
+> Numeri reali $a, b, c, d$ soddisfano
+>
+> $$\begin{cases}(a+b)(c+d) = 2,\\ (a+c)(b+d) = 3,\\ (a+d)(b+c) = 4.\end{cases}$$
+>
+> Trovare il minimo valore possibile di $a^2 + b^2 + c^2 + d^2$.
 
+**Argomento:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 7
+[[Quesiti/src_jmo26yq_yosen#q07|src_jmo26yq_yosen__Q07]]
 
 
 
@@ -245,11 +279,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza XD da un'accordazione incircolare con dati relativi*
+*Lunghezza di un segmento, data la circonferenza inscritta e un raggio*
 
-> $\omega$ sia l'incircolo del triangolo $ABC$. $D$ sia il punto in cui il lato $BC$ tocca $\omega$, e $X$ sia il secondo incrocio della linea $AD$ con $\omega$ (diversi da $D$). Dato che $AX : XD : BC = 1 : 3 : 16$ e che il raggio di $\omega$ è $1$, si trova la lunghezza del segmento $XD$.
+> Sia $\omega$ la circonferenza inscritta nel triangolo $ABC$. Sia $D$ il punto in cui il lato $BC$ tocca $\omega$, e sia $X$ la seconda intersezione della retta $AD$ con $\omega$ (diversa da $D$). Sapendo che $AX : XD : BC = 1 : 3 : 16$ e che il raggio di $\omega$ è $1$, trovare la lunghezza del segmento $XD$.
 
-**Risposta:** \dfrac{3\sqrt{10}}{5}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $\dfrac{3\sqrt{10}}{5}$
+[[Quesiti/src_jmo26yq_yosen#q08|src_jmo26yq_yosen__Q08]]
 
 
 
@@ -275,11 +313,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coppie di conteggio (a,b) con due condizioni di divisibilità*
+*Coppie di interi per cui due espressioni sono multiple di due interi dati*
 
-> Quante coppie di integri $(a, b)$ con $1 \le a, b \le 2015$ esistono tali che $a$ sia un multiple di $b + 1$ e $2016 - a$ sia un multiple di $b$?
+> Quante coppie di interi $(a, b)$ con $1 \le a, b \le 2015$ sono tali che $a$ è un multiplo di $b + 1$ e $2016 - a$ è un multiplo di $b$?
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Risposta:** 1980
+[[Quesiti/src_jmo26yq_yosen#q09|src_jmo26yq_yosen__Q09]]
 
 
 
@@ -305,11 +347,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di distanza da percorrere per visitare i punti 2016 su un cerchio*
+*Distanza minima, nel caso peggiore, per abbassare tutte le bandiere su una circonferenza*
 
-> Su un cerchio ci sono bandiere $2016$ posizionate in posizioni spaziali uguali (punti $2016$, quelli adiacenti a distanza d'arco $1$). La persona A si muove lungo il cerchio e vuole abbattere tutte le bandiere. Per il peggiore caso sopra la posizione di partenza di A, trovare la distanza totale minima A deve percorrere in modo da poter abbattere tutte le bandiere. A non deve tornare al punto di partenza. (La risposta è riportata sotto.)
+> Su una circonferenza ci sono $2016$ bandiere poste in posizioni equispaziate ($2016$ punti, quelle adiacenti a distanza d'arco $1$). La persona A si muove lungo la circonferenza e vuole abbassare tutte le bandiere. Nel caso peggiore sulla posizione di partenza di A, trovare la minima distanza totale che A deve percorrere per poter abbassare tutte le bandiere. A non deve tornare al punto di partenza. (La risposta ha la forma sotto.)
 
-**Risposta:** 1 - \dfrac{1}{3 \cdot 2^{1008} - 2}
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
+**Risposta:** $1 - \dfrac{1}{3 \cdot 2^{1008} - 2}$
+[[Quesiti/src_jmo26yq_yosen#q10|src_jmo26yq_yosen__Q10]]
 
 
 
@@ -335,11 +381,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi permutazioni di 1..1000 con condizione di fase a o b*
+*Coppie di interi per cui esiste una permutazione con una condizione ciclica*
 
-> Quante coppie di integri $(a, b)$ con $a, b \ge 2$ esistono tali che esista una sequenza $x_1, x_2, \ldots, x_{1000}$ che soddisfa entrambe le seguenti condizioni? (i) $x_1, x_2, \ldots, x_{1000}$ è una riorganizzazione di $1, 2, \ldots, 1000$. (ii) Per ogni numero intero $i$ con $1 \le i \le 1000$ (indici presi ciclicamente), $x_{i+1} = x_i + a$ o $x_{i+1} = x_i - b$ è tenuto.
+> Quante coppie di interi $(a, b)$ con $a, b \ge 2$ sono tali che esiste una successione $x_1, x_2, \ldots, x_{1000}$ che soddisfa entrambe le condizioni seguenti? (i) $x_1, x_2, \ldots, x_{1000}$ è un riordinamento di $1, 2, \ldots, 1000$. (ii) Per ogni intero $i$ con $1 \le i \le 1000$ (indici presi in modo ciclico), vale $x_{i+1} = x_i + a$ oppure $x_{i+1} = x_i - b$.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Risposta:** 2940
+[[Quesiti/src_jmo26yq_yosen#q11|src_jmo26yq_yosen__Q11]]
 
 
 
@@ -365,8 +415,12 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maxime conteggio onesto identificabile attraverso i rapporti di contato di bugiardi del villaggio*
+*Massimo numero di abitanti onesti identificabili, con una scansione in parte illeggibile*
 
-> Ci sono abitanti di villaggio numerati da $1$ a $2015$ che vivono in un villaggio; tra i abitanti di villaggio $2016$ alcuni sono onesti e altri sono bugiardi, con almeno un abitante onesto. Un cittadino onesto dice sempre la verità, mentre un bugiardo può dire la verità o la menzogna (non sai cosa fa ogni bugiardo, né chi è onesto). Sapete che il numero di abitanti onesti è esattamente $T$. Ogni cittadino sa, per ogni cittadino, se quel cittadino è onesto o un bugiardo. Ogni giorno potete dare segretamente un'istruzione a un abitante del villaggio scelto; il giorno successivo quel abitante scrive il numero di bugiardi tra un gruppo specifico di abitanti del villaggio e, la sera del $i$-th giorno, consegna la carta al abitante del villaggio $i - k_i$ (con $1 \le i \le 2016$). Un abitante onesto scrive il conto vero; un bugiardo può scrivere qualsiasi numero. Determina il valore massimo di $T$ per il quale esiste una strategia che, non importa come si comportino i bugiardi, ti permette di identificare correttamente tutti i villaggieri onesti. (Nota: alcune parti della meccanica di questo problema sono parzialmente illeggibili nella scansione; la risposta finale è $503$.)
+> Nel villaggio abitano persone numerate da $1$ a $2015$; tra gli $2016$ abitanti alcuni sono onesti e alcuni sono bugiardi, e c'è almeno un abitante onesto. Un abitante onesto dice sempre la verità, mentre un bugiardo può dire il vero o il falso (non si sa che cosa faccia ciascun bugiardo, né chi sia onesto). Si sa che il numero di abitanti onesti è esattamente $T$. Ogni abitante sa, per ogni altro abitante, se quello è onesto o bugiardo. In un giorno qualunque si può dare in segreto un'istruzione a un abitante scelto; il giorno dopo quell'abitante scrive il numero di bugiardi in un insieme specificato di abitanti e, la sera del $i$-esimo giorno, consegna il foglio all'abitante $i - k_i$ (con $1 \le i \le 2016$). Un abitante onesto scrive il conteggio vero; un bugiardo può scrivere un numero qualunque. Determinare il massimo valore di $T$ per il quale esiste una strategia che, comunque si comportino i bugiardi, permette di identificare correttamente tutti gli abitanti onesti. (Nota: parti del meccanismo di questo problema sono in parte illeggibili nella scansione; la risposta finale è $503$.)
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 503
+[[Quesiti/src_jmo26yq_yosen#q12|src_jmo26yq_yosen__Q12]]

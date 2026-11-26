@@ -34,11 +34,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*total volume by 4 volumes*
+*The volume of the rectangular parallelepiped, given four of the eight piece-volumes*
 
-> Give a rectangular parallel piped ABCDA′B′C′D′, where ABCD is the lower face with the letters assigned clockwise, and A, B, C, and D are below A′, B′, C′, and D′ respectively. The parallelepiped is divided into eight pieces by three planes orthogonal to each other and parallel to the faces of the parallelepiped. For each vertex P of the parallelepiped, the volume of the piece of parallelepiped containing P shall be indicated by VP. Knowing that VA = 40, VC = 300, VB′ = 360 and VC′ = 90, what is the volume of the ABCDA′B′C′D′ parallel piped?
+> Let a rectangular parallelepiped ABCDA′B′C′D′ be given, where ABCD is the lower face with the letters assigned clockwise, and A, B, C and D lie under A′, B′, C′ and D′ respectively. The parallelepiped is divided into eight pieces by three planes orthogonal to one another and parallel to the faces of the parallelepiped. For each vertex P of the parallelepiped, let VP be the volume of the piece of the parallelepiped that contains P. Knowing that VA = 40, VC = 300, VB′ = 360 and VC′ = 90, what is the volume of the parallelepiped ABCDA′B′C′D′?
 
-**Answer:** 2015
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2015#q01|src_cesenatico_2015__Q01]]
 
 
 
@@ -68,9 +72,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*to some extent a single genus*
+*From some point on, all the songs proposed are of the same genre*
 
-> A music streaming service offers songs classified into 10 music genres, so that each track belongs to one and only one genre. The songs are played one after the other: the first 17 are chosen by the user, but from the eighteenth the service automatically determines which song to play. Elisabetta noted that if one ranks which genres appear more than once during the last 17 tracks played, the new song always belongs to the genre at the top of the chart or, in case of equal merit, to one of the first ex-aequo. To show that no matter what the first 17 tracks are, from a certain point onwards the proposed songs are all the same.
+> A music streaming service offers songs classified into 10 musical genres, so that each track belongs to one and only one genre. The songs are played one after another: the first 17 are chosen by the user, but from the eighteenth onwards the service automatically determines which song to play. Elisabetta has noticed that, if one ranks which genres appear most often in the course of the last 17 tracks played, the new song always belongs to the genre at the top of the ranking or, in the event of a tie, to one of those tied for first.
+> Prove that, however the first 17 tracks are chosen, from some point on the songs proposed are all of the same genre.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2015#q02|src_cesenatico_2015__Q02]]
 
 
 
@@ -96,9 +107,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*cycled if parallelism*
+*The quadrilateral ABB′C is cyclic if and only if the lines C′K and B′B are parallel*
 
-> Either ABC is a triangle, either K is the foot of the bisector relative to BC and either J is the foot of the tri-sector relative to BC nearest to the AC side (i.e. J is the point on BC such that 3 · CAJ = CAB). Then C′ and B′ are two points on the straight AJ, on the side of J with respect to A, such that AC′ = AC and AB = AB′. Demonstrate that the quadrilateral ABB′C can be inscribed in a circumference if and only if the lines C′K and B′B are parallel.
+> Let ABC be a triangle, let K be the foot of the bisector relative to BC, and let J be the foot of the trisector relative to BC nearest the side AC (that is, J is the point on BC such that 3 · ∠CAJ = ∠CAB). Let then C′ and B′ be two points on the line AJ, on the side of J with respect to A, such that AC′ = AC and AB = AB′. Prove that the quadrilateral ABB′C can be inscribed in a circle if and only if the lines C′K and B′B are parallel.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2015#q03|src_cesenatico_2015__Q03]]
 
 
 
@@ -122,11 +139,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integrated pairs (a,b) with a^3+b^3+3ab=1*
+*All integer pairs (a, b) that solve a3 + b3 + 3ab = 1*
 
 > Determine all pairs of integers (a, b) that solve the equation a3 + b3 + 3ab = 1.
 
-**Answer:** (-1,-1) e (c+1,-c)
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2015#q04|src_cesenatico_2015__Q04]]
 
 
 
@@ -152,9 +173,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following table shows the results of the evaluation:
+*CA = CB if and only if CF = CG*
 
-> If Γ is a circumference, AB is a rope, C is an inner point of AB, r is a straight line for C such that, given D and E the intersections of r with Γ, they are in opposite places to the axis of AB. Then ΓD is the tangent circumference externally at Γ in D and tangent at a point F at AB, ΓE is the tangent circumference externally at Γ in E and tangent at a point G at AB. Prove that CA = CB if and only if CF = CG.
+> Let Γ be a circle, AB a chord of it, C a point in the interior of AB, and r a line through C such that, if D and E are the intersections of r with Γ, they lie on opposite sides of the perpendicular bisector of AB. Let then ΓD be the circle externally tangent to Γ at D and tangent at a point F to AB, and ΓE the circle externally tangent to Γ at E and tangent at a point G to AB. Prove that CA = CB if and only if CF = CG.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2015#q05|src_cesenatico_2015__Q05]]
 
 
 
@@ -185,8 +212,15 @@ The following table shows the results of the evaluation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*for which n wins Charles*
+*For which n Charles has a winning strategy*
 
-> Ada and Charles are playing. At the beginning an integer n > 1 is written on the board. In turn, Ada and Charles cancel out the number k they find on the board and replace it with 1  or with a positive divisor of k other than 1 and k itself 2  or with k + 1. Initially, each player has a thousand points. When a player plays move 1, he gains a point; when he plays move 2, he loses a point. The game ends when one of the players gets zero points, and that player loses. Ada plays first. What values does Charles have a winning strategy for?
+> Ada and Charles play a game. At the start an integer n > 1 is written on the blackboard. In turn, Ada and Charles erase the number k they find on the blackboard and replace it
+> 1 – either with a positive divisor of k different from 1 and from k itself
+> 2 – or with k + 1.
+> Initially each of the players has a thousand points. When a player plays move 1, they gain a point; when they play move 2, they lose a point. The game ends when one of the players comes to have zero points, and that player has lost. Ada plays first. For which values of n does Charles have a winning strategy?
 
-**Answer:** primes except 2,7,13, plus 8,14,26,49,91,169
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2015#q06|src_cesenatico_2015__Q06]]

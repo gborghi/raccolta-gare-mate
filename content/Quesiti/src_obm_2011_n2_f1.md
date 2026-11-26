@@ -33,13 +33,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di pedaggio sulla mappa stradale a senso unico da A a B*
+*Pedaggio minimo sulla mappa stradale a senso unico da A a B*
 
-> La figura accanto mostra una mappa stradale. I numeri scritti accanto alle frecce indicano quanto si paga, in monete, per viaggiare lungo quella strada. Tutte le strade sono a senso unico, nella direzione indicata dalle frecce. Qual è il valore minimo del pedaggio che si paga quando si lascia la città $A$ e si arriva nella città $B$?
-> 
+> La figura accanto mostra una mappa stradale. I numeri scritti accanto alle frecce indicano quanto si paga, in monete, per percorrere quella strada. Tutte le strade sono a senso unico, nella direzione indicata dalle frecce. Qual è il valore minimo del pedaggio che si paga partendo dalla città $A$ e arrivando nella città $B$?
+>
 > (A) $11$ \quad (B) $14$ \quad (C) $12$ \quad (D) $10$ \quad (E) $15$
 
 ![[src_obm_2011_n2_f1__q01.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n2_f1#q01|src_obm_2011_n2_f1__Q01]]
 
 
 
@@ -65,13 +72,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'ampiezza delle strisce laterali uguali che coprono il 20% di un'area rettangolare*
+*Larghezza delle strisce laterali uguali che coprono il 20% di un lotto rettangolare*
 
-> Il padre di Esmeralda ha acquistato un terreno rettangolare di $120$ metri di lunghezza e $80$ metri di larghezza. A causa delle leggi ambientali, deve piantare alberi su $20\%$ della terra. Decise di usare strisce, della stessa larghezza, lungo i lati laterali del terreno, come mostra la figura. Qual è questa larghezza?
-> 
+> Il padre di Esmeralda ha acquistato un terreno rettangolare lungo $120$ metri e largo $80$ metri. A causa delle leggi ambientali, deve piantare alberi su $20\%$ del terreno. Ha deciso di utilizzare delle strisce, tutte della stessa larghezza, lungo i lati laterali del terreno, come mostra la figura. Qual è questa larghezza?
+>
 > (A) $6\,\text{m}$ \quad (B) $8\,\text{m}$ \quad (C) $10\,\text{m}$ \quad (D) $16\,\text{m}$ \quad (E) $24\,\text{m}$
 
 ![[src_obm_2011_n2_f1__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n2_f1#q02|src_obm_2011_n2_f1__Q02]]
 
 
 
@@ -98,13 +111,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma più piccola possibile di facce nascoste di tre cubi numerati impilati*
+*Somma più piccola possibile delle facce nascoste di tre cubi numerati impilati*
 
-> Nel disegno di fianco, tre cubetti uguali sono sostenuti su un tavolo. Ogni cubo ha sulle sue facce i numeri $0$, $1$, $3$, $4$, $5$, $9$, dove ogni numero appare esattamente una volta. Qual è la somma più piccola che si può ottenere sui volti che toccano il tavolo o un altro cubo?
-> 
+> Nel disegno accanto, tre cubi uguali sono appoggiati su un tavolo. Su le facce di ciascun cubo compaiono i numeri $0$, $1$, $3$, $4$, $5$, $9$, e ciascun numero compare esattamente una volta. Qual è la somma minima che si può ottenere sulle facce a contatto con il tavolo o con un altro cubo?
+>
 > (A) $6$ \quad (B) $8$ \quad (C) $9$ \quad (D) $10$ \quad (E) $12$
 
 ![[src_obm_2011_n2_f1__q03.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_obm_2011_n2_f1#q03|src_obm_2011_n2_f1__Q03]]
 
 
 
@@ -129,11 +149,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta dell'espressione con quadrati di 20112011 e 20112003*
+*Valore dell'espressione con i quadrati di 20112011 e 20112003*
 
 > Qual è il valore dell'espressione $20112011^2 + 20112003^2 - 16 \times 20112007$?
-> 
+>
 > (A) $2 \times 20112007^2$ \quad (B) $2 \times 20112003^2$ \quad (C) $2 \times 20112007$ \quad (D) $2 \times 20112003$ \quad (E) $2 \times 20112011^2$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n2_f1#q04|src_obm_2011_n2_f1__Q04]]
 
 
 
@@ -158,11 +185,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triangoli del perimetro 7 con lati interi*
+*Conta i triangoli di perimetro 7 con lati interi*
 
-> Quanti triangoli con perimetro $7$ hanno tutti i lati con lunghezze interi?
-> 
+> Quanti triangoli con perimetro $7$ hanno tutti i lati di lunghezza intera?
+>
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2011_n2_f1#q05|src_obm_2011_n2_f1__Q05]]
 
 
 
@@ -189,13 +223,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perimetro di esagono comune a due triangoli equilaterali sovrapposti*
+*Perimetro dell'esagono comune a due triangoli equilateri sovrapposti*
 
-> Due triangoli parilaterali di perimetro $36$ cm sono sovrapposti in modo che la regione comune ai due triangoli sia un esagono, come mostra la figura accanto. Qual è il perimetro di questo esagono?
-> 
+> Due triangoli equilateri di perimetro $36$ cm sono sovrapposti in modo che la regione comune ai due triangoli sia un esagono, come mostra la figura accanto. Qual è il perimetro di questo esagono?
+>
 > (A) $12$ cm \quad (B) $16$ cm \quad (C) $18$ cm \quad (D) $24$ cm \quad (E) $36$ cm
 
 ![[src_obm_2011_n2_f1__q06.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n2_f1#q06|src_obm_2011_n2_f1__Q06]]
 
 
 
@@ -220,11 +261,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prodotto autoreferenziale del conteggio vocale e consonante dell'opzione corretta*
+*Prodotto autoriferito del conteggio delle vocali e del conteggio delle consonanti dell'opzione corretta*
 
-> Qual è il prodotto della quantità di vocali per la quantità di consonanti nell'alternativa corretta? (Non considerare le lettere A, B, C, D, E delle alternative nel conto.)
-> 
-> (A) Vinte e quattro. Quad (B) Trinta e sei. Quarenta e due. Quarenta e otto. Quad (E) Cinquanta e sei. (Piccento sei.)
+> Qual è il prodotto tra il numero di vocali e il numero di consonanti nell'alternativa corretta? (Nel conteggio, non considerare le lettere A, B, C, D, E delle alternative.)
+>
+> (A) Ventiquattro. (Ventiquattro.) \quad (B) Trentasei. (Trentasei.) \quad (C) Quarantadue. (Quarantadue.) \quad (D) Quarantotto. (Quarantotto.) \quad (E) Cinquantasei. (Cinquantasei.)
+
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n2_f1#q07|src_obm_2011_n2_f1__Q07]]
 
 
 
@@ -249,11 +297,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di modi per dare 37 centesimi di cambio con 1,5,10,25 monete*
+*Numero di modi per dare 37 centavos di resto usando monete da 1, 5, 10 e 25*
 
-> Luca ha comprato un gibi (libro fumetti) per R\$4.63 and paid with a R\$ 5,00 banconota. In quanti modi può ricevere il suo cambio di R\$0.37 in coins of $1$, $5$, $10$ and $25$ centavos? Supponiamo che abbia quante monete di ciascun tipo siano necessarie.
-> 
+> Luca ha comprato un gibi (fumetto) con una banconota da R\$4.63 and paid with a R\$5,00. In quanti modi può ricevere il resto, pari a R\$0.37 in coins of $1$, $5$, $10$ and $25 centavos? Si supponga che abbia a disposizione tutte le monete di ogni tipo, in quantità sufficiente.
+>
 > (A) $10$ \quad (B) $12$ \quad (C) $15$ \quad (D) $24$ \quad (E) $25$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n2_f1#q08|src_obm_2011_n2_f1__Q08]]
 
 
 
@@ -278,11 +333,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri positivi inferiori a 30 con esattamente due divisori (prime)*
+*Conta i numeri positivi inferiori a 30 che hanno esattamente due divisori (numeri primi)*
 
-> Quanti numeri positivi più piccoli di $30$ hanno esattamente due divisori positivi?
-> 
+> Quanti numeri positivi minori di $30$ hanno esattamente due divisori positivi?
+>
 > (A) $6$ \quad (B) $7$ \quad (C) $8$ \quad (D) $9$ \quad (E) $10$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n2_f1#q09|src_obm_2011_n2_f1__Q09]]
 
 
 
@@ -306,11 +368,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Find angle ADE data differenza di angolo e perpendicolare dal piede bisettore*
+*Trovare l'angolo ADE dati la differenza angolare e una perpendicolare condotta dal piede della bisettrice*
 
-> Nel triangolo $ABC$, $m(A\hat{B}C) - m(B\hat{A}C) = 50^\circ$, il bisettore dell'angolo $A\hat{C}B$ interseca il lato $AB$ a $D$. Il punto $E$ deve essere il punto $AC$ in modo tale che $m(C\hat{D}E) = 90^\circ$. La misura dell'angolo $A\hat{D}E$ è:
-> 
+> Nel triangolo $ABC$, $m(A\hat{B}C) - m(B\hat{A}C) = 50^\circ$, la bisettrice dell'angolo $A\hat{C}B$ interseca il lato $AB$ in $D$. Sia $E$ il punto di $AC$ tale che $m(C\hat{D}E) = 90^\circ$. La misura dell'angolo $A\hat{D}E$ è:
+>
 > (A) $25^\circ$ \quad (B) $30^\circ$ \quad (C) $40^\circ$ \quad (D) $45^\circ$ \quad (E) $50^\circ$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n2_f1#q10|src_obm_2011_n2_f1__Q10]]
 
 
 
@@ -335,11 +403,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di cifre del numero sottraito per trasformare 13/14 in 14/15*
+*Somma delle cifre del numero da sottrarre per trasformare 13/14 in 14/15*
 
-> Sottraendo lo stesso numero dal numeratore e dal denominatore della frazione $\dfrac{13}{14}$, otteniamo la frazione $\dfrac{14}{15}$. La somma delle cifre di questo numero è:
-> 
+> Sottraendo lo stesso numero dal numeratore e dal denominatore della frazione $\dfrac{13}{14}$, si ottiene la frazione $\dfrac{14}{15}$. La somma delle cifre di questo numero è:
+>
 > (A) $1$ \quad (B) $3$ \quad (C) $5$ \quad (D) $7$ \quad (E) $9$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n2_f1#q11|src_obm_2011_n2_f1__Q11]]
 
 
 
@@ -364,11 +439,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unita' di numero di prodotto di numeri interi inferiori al 2011 non multipli di 5*
+*Cifra delle unità del prodotto degli interi minori di 2011 non multipli di 5*
 
-> Se moltiplicare tutti gli enti positivi più piccoli di $2011$ che non sono moltipli di $5$, qual è la cifra unità del numero ottenuto?
-> 
+> Se moltiplichiamo tutti gli interi positivi minori di $2011$ che non sono multipli di $5$, qual è la cifra delle unità del numero ottenuto?
+>
 > (A) $2$ \quad (B) $4$ \quad (C) $6$ \quad (D) $8$ \quad (E) $0$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n2_f1#q12|src_obm_2011_n2_f1__Q12]]
 
 
 
@@ -393,11 +475,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ipotenusa XY di triangolo rettangolo dai due mediani alle gambe*
+*Ipotenusa XY del triangolo rettangolo, determinata a partire dalle due mediane relative ai cateti*
 
-> Che $XOY$ sia un triangolo rettangolo con $X\hat{O}Y = 90^\circ$. I punti intermedi $M$ e $N$ siano rispettivamente i punti intermedi $OX$ e $OY$ delle gambe. Dato che $XN = 19$ e $YM = 22$, determinare la misura del segmento $XY$.
-> 
+> Sia $XOY$ un triangolo rettangolo con $X\hat{O}Y = 90^\circ$. Siano $M$ e $N$ i punti medi dei cateti $OX$ e $OY$, rispettivamente. Dato che $XN = 19$ e $YM = 22$, determina la misura del segmento $XY$.
+>
 > (A) $24$ \quad (B) $26$ \quad (C) $28$ \quad (D) $30$ \quad (E) $32$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n2_f1#q13|src_obm_2011_n2_f1__Q13]]
 
 
 
@@ -422,11 +511,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta di n data ripetuta lacrima-one-in-n rendimenti 2011 pezzi*
+*Il valore di n per cui la lacerazione ripetuta di un pezzo in n ne produce 2011 è*
 
-> Safira strappò un foglio di carta in pezzi $n$ e poi prese uno di questi pezzi e lo strappò di nuovo in pezzi $n$. Ha continuato questo processo, cioè a ogni passo ha preso uno dei pezzi e lo ha strappato in pezzi $n$. Sapendo che la quantità finale di fogli di carta che ha ottenuto è $2011$, in quanti pezzi Safira ha strappato il foglio?
-> 
+> Safira strappò un foglio di carta in $n$ pezzi, poi prese uno di quei pezzi e lo strappò di nuovo in $n$ pezzi. Continuò questo processo, cioè a ogni passo prendeva uno dei pezzi e lo strappava in $n$ pezzi. Sapendo che la quantità finale di pezzi di carta ottenuti è $2011$, in quanti pezzi strappò Safira il foglio?
+>
 > (A) $15$ \quad (B) $26$ \quad (C) $28$ \quad (D) $33$ \quad (E) $36$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n2_f1#q14|src_obm_2011_n2_f1__Q14]]
 
 
 
@@ -451,11 +547,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsieme più grande di {1..20} senza elemento doppio di un altro*
+*Il più grande sottoinsieme di {1..20} in cui nessun elemento è il doppio di un altro*
 
-> Qual è la quantità più grande di numeri dell'insieme $\{1,2,3,\ldots,20\}$ che possiamo scegliere in modo che nessuno di loro sia il doppio di un altro?
-> 
+> Qual è la quantità massima di numeri appartenenti all'insieme $\{1,2,3,\ldots,20\}$ che possiamo scegliere in modo che nessuno di essi sia il doppio di un altro?
+>
 > (A) $10$ \quad (B) $11$ \quad (C) $12$ \quad (D) $13$ \quad (E) $14$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n2_f1#q15|src_obm_2011_n2_f1__Q15]]
 
 
 
@@ -480,11 +583,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare la figura che non può essere disegnata in un solo tratto senza ritrattare*
+*Identifica la figura che non può essere tracciata in un unico tratto senza ripassare*
 
-> Topazio disegnò le figure riportate di seguito, tranne una, sollevando la matita dalla carta esattamente una volta e non superando mai la stessa linea due volte. Quale di queste figure è quella che non ha disegnato?
+> Topazio ha disegnato le figure mostrate qui sotto, tranne una, sollevando la matita dal foglio esattamente una volta e senza mai passare due volte sulla stessa linea. Quale delle figure qui sotto è quella che non ha disegnato?
 
 ![[src_obm_2011_n2_f1__q16.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|topic_combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2011_n2_f1#q16|src_obm_2011_n2_f1__Q16]]
 
 
 
@@ -510,13 +620,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo BAC dato D,E su BC con BD=BA, CE=CA e angolo DAE=40*
+*Angolo BAC, dati D ed E su BC, con BD=BA, CE=CA e angolo DAE=40*
 
-> Nel triangolo $ABC$, i punti $D$ e $E$ appartengono al lato $BC$ e sono tali che $BD = BA$ e $CE = CA$. Dato che $m(D\hat{A}E) = 40^\circ$, quanto in gradi misura l'angolo $B\hat{A}C$?
-> 
+> Nel triangolo $ABC$, i punti $D$ e $E$ appartengono al lato $BC$ e sono tali che $BD = BA$ e $CE = CA$. Dato che $m(D\hat{A}E) = 40^\circ$, quanti gradi misura l'angolo $B\hat{A}C$?
+>
 > (A) $80$ \quad (B) $90$ \quad (C) $100$ \quad (D) $110$ \quad (E) $120$
 
 ![[src_obm_2011_n2_f1__q17.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n2_f1#q17|src_obm_2011_n2_f1__Q17]]
 
 
 
@@ -541,11 +657,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Problemi massimi risposti punteggiando +4/-1/0 per un totale di 52 su 24*
+*Numero massimo di problemi risolti, con punteggio +4/-1/0, per un totale di 52 su 24*
 
-> In un test di scelta multipla con problemi $24$, ciascuno di essi può essere risposto ottenendo uno dei seguenti punteggi: $4$ punti se la risposta è corretta, $-1$ punti se la risposta è errata e $0$ punti se la risposta è lasciata in bianco. Sapendo che uno studente ha ricevuto esattamente $52$ punti, quale è il numero massimo di problemi che avrebbe potuto rispondere?
-> 
+> In una prova a scelta multipla con $24$ quesiti, per ciascun quesito si può ottenere uno dei seguenti punteggi: $4$ punti se la risposta è corretta, $-1$ punto se la risposta è errata e $0$ punti se la risposta viene lasciata in bianco. Sapendo che uno studente ha totalizzato esattamente $52$ punti, qual è il numero massimo di quesiti a cui potrebbe aver risposto?
+>
 > (A) $14$ \quad (B) $15$ \quad (C) $16$ \quad (D) $17$ \quad (E) $18$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n2_f1#q18|src_obm_2011_n2_f1__Q18]]
 
 
 
@@ -570,11 +693,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maxime presse di squart rotto (sqrt o /100) per prima scendere al di sotto di 2*
+*Pressioni massime di sqrt rotto (sqrt o /100) per scendere per la prima volta sotto 2*
 
-> La calcolatrice di Esmeralda è rotta: quando si pulsa il pulsante $\sqrt{\phantom{x}}$, la calcolatrice fa, per caso, una di queste due operazioni: prende la radice quadrata (come dovrebbe) o divide il numero per $100$ (come non dovrebbe). Esmeralda ha inserito il numero $201120112011$ sulla calcolatrice e ha iniziato a premere il pulsante $\sqrt{\phantom{x}}$ ripetutamente. Quante volte, al massimo, Esmeralda avrebbe premuto il pulsante fino a far apparire, per la prima volta, un numero inferiore a $2$?
-> 
+> La calcolatrice di Esmeralda è rotta: quando si preme il tasto $\sqrt{\phantom{x}}$, la calcolatrice esegue, a caso, una di queste due operazioni: estrae la radice quadrata (come dovrebbe) oppure divide il numero per $100$ (come non dovrebbe). Esmeralda ha inserito il numero $201120112011$ nella calcolatrice e ha iniziato a premere ripetutamente il tasto $\sqrt{\phantom{x}}$. Quante volte, al massimo, premerà il tasto prima che compaia, per la prima volta, un numero minore di $2$?
+>
 > (A) $2$ \quad (B) $4$ \quad (C) $5$ \quad (D) $8$ \quad (E) $9$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n2_f1#q19|src_obm_2011_n2_f1__Q19]]
 
 
 
@@ -601,13 +731,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi 3 colori di una figura a forma di casa con regola adiacente diversa*
+*Conta le colorazioni a 3 colori di una figura a forma di casa con la regola dei colori diversi tra adiacenti*
 
-> Renan vuole dipingere i piccoli quadrati della figura accanto, utilizzando al massimo tre colori diversi, in modo tale che due quadrati che possiedono un lato comune abbiano colori diversi. Quante dipinti distinti può fare Renan?
-> 
+> Renan vuole colorare i piccoli quadrati della figura accanto usando al massimo tre colori diversi, in modo che due quadrati che hanno un lato in comune abbiano colori diversi. Quante pitture distinte può realizzare Renan?
+>
 > (A) $3^4$ \quad (B) $246$ \quad (C) $178$ \quad (D) $150$ \quad (E) $120$
 
 ![[src_obm_2011_n2_f1__q20.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n2_f1#q20|src_obm_2011_n2_f1__Q20]]
 
 
 
@@ -639,15 +776,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max ET-nerds tra quattro nerds che fanno dichiarazioni di verità/buonezza*
+*Il massimo dei nerd ET tra quattro nerd che fanno affermazioni di verità/menzogna*
 
-> Sul pianeta Nerdia, esistono tre specie di nerds: nerds ET, nerds UFO e nerds UFO. La prima specie dice sempre la verità, la seconda mente sempre, e la terza dice sempre la verità e poi mente, o prima mente e poi dice la verità. Un certo giorno, Bruberson, un nerd molto amichevole con tutti, incontra quattro nerd. Dicono:
-> 
-> $X$: "Oggi è sole. " $Y$: "Il nerd $Z$ mentirà. " $Z$: "Oggi non è sole. " $W$: "Il primo nerd ci ha mentito; siamo tutti nerd ET".
-> 
-> Con quanti nerd extraterrestri ha parlato Bruberson al massimo?
-> 
+> Sul Pianeta Nerdia esistono tre specie di nerd: i nerd ET, i nerd UFO e i nerd OVNI. La prima specie dice sempre la verità, la seconda mente sempre, la terza dice sempre la verità e poi mente, oppure mente per prima e poi dice la verità. Un certo giorno, Bruberson, un nerd molto amichevole con tutti, incontra quattro nerd. Essi dicono:
+>
+> $X$: "Oggi c'è il sole." $Y$: "Il nerd $Z$ mentirà." $Z$: "Oggi non c'è il sole." $W$: "Il primo nerd ci ha mentito; siamo tutti nerd ET."
+>
+> Con quanti nerd di ET ha parlato Bruberson al massimo?
+>
 > (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $3$ \quad (E) $4$
+
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n2_f1#q21|src_obm_2011_n2_f1__Q21]]
 
 
 
@@ -673,9 +817,15 @@ level: OBM Nível 2
 
 *Prima cifra decimale di 1/5^12*
 
-> Qual è la prima cifra dopo il punto decimale nella rappresentazione decimale della frazione $\dfrac{1}{5^{12}}$?
-> 
+> Qual è la prima cifra dopo la virgola nella rappresentazione decimale della frazione $\dfrac{1}{5^{12}}$?
+>
 > (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $5$ \quad (E) $7$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n2_f1#q22|src_obm_2011_n2_f1__Q22]]
 
 
 
@@ -700,11 +850,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di modi per organizzare i proiettili 2011 in righe uguali lasciando 2 sopra*
+*Numero di modi per disporre 2011 proiettili in file uguali, con 2 proiettili in più*
 
-> Esmeralda ha $2011$ proiettili (caramelle) e vuole organizzarli in righe, ciascuna fila con la stessa quantità di proiettili, in modo che il numero di righe sia un altro rispetto alla quantità di proiettili in ogni riga, lasciando tra di loro $2$ proiettili. Quante possibilita' ci sono? (Vedi avvertenze: questa affermazione è parzialmente distorta nella fonte.)
-> 
+> Esmeralda ha $2011$ proiettili (caramelle) e vuole disporli in file, ciascuna con la stessa quantità di proiettili, in modo che il numero di file sia pari a uno in più rispetto alla quantità di proiettili in ogni file, con $2$ proiettili avanzati. Quante possibilità ci sono? (Vedi gli avvertimenti: in origine, questa formulazione è parzialmente illeggibile.)
+>
 > (A) $1$ \quad (B) $2$ \quad (C) $5$ \quad (D) $7$ \quad (E) $11$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n2_f1#q23|src_obm_2011_n2_f1__Q23]]
 
 
 
@@ -728,11 +885,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza CQ in cui il cerchio attraverso B,A,D del parallelo incontra CD*
+*Lunghezza CQ nel punto in cui la circonferenza passante per B, A, D del parallelogramma interseca CD*
 
-> Una circonferenza che attraversa i vertici $B$, $A$, $D$ del parallelo $ABCD$ incontra il segmento $CD$ a $Q$. Sapendo che $m(B\hat{A}D) = 60^\circ$ e $AD = 10$, quale è la dimensione del segmento $CQ$?
-> 
+> Una circonferenza che passa per i vertici $B$, $A$, $D$ del parallelogramma $ABCD$ interseca il segmento $CD$ in $Q$. Sapendo che $m(B\hat{A}D) = 60^\circ$ e $AD = 10$, qual è la misura del segmento $CQ$?
+>
 > (A) $10$ \quad (B) $20$ \quad (C) $\dfrac{5\sqrt{3}}{2}$ \quad (D) $10\sqrt{3}$ \quad (E) $15$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n2_f1#q24|src_obm_2011_n2_f1__Q24]]
 
 
 
@@ -759,10 +922,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum somma di sei somme coppie adiacenti su un esagono etichettato 1-6*
+*Somma minima di sei somme di coppie di elementi adiacenti su un esagono contrassegnato con i numeri da 1 a 6*
 
-> Rosa scrisse i numeri da $1$ a $6$ alle vertici dell'esagono sottostante, uno a ciascuno, poi aggiunse i numeri a ciascuna coppia di vertici adiacenti e scrisse ogni risultato accanto al lato corrispondente. I numeri scritti accanto ai lati erano tutti diversi. Qual è il valore minimo della somma di questi sei numeri ottenuti?
-> 
+> Rosa ha scritto i numeri da $1$ a $6$ ai vertici del esagono qui sotto, uno per ciascun vertice, poi ha sommato i numeri di ciascuna coppia di vertici adiacenti e ha scritto ogni risultato accanto al lato corrispondente. I numeri scritti accanto ai lati erano tutti diversi. Qual è il valore minimo della somma di questi sei numeri ottenuti?
+>
 > (A) $69$ \quad (B) $58$ \quad (C) $59$ \quad (D) $61$ \quad (E) $57$
 
 ![[src_obm_2011_n2_f1__q25.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n2_f1#q25|src_obm_2011_n2_f1__Q25]]

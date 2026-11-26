@@ -35,11 +35,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Total students with Elena 50th from both sides
+*Total number of students with Elena, 50th from both sides*
 
-> At Kangourou 2004, Elena in her school placed 50th. Her place is 50th even from the bottom of the standings. How many students from that school took part in the competition? A) 99 B) 75 C) 103 D) 100 E) 101
+> At Kangourou 2004, Elena came in fiftieth place at her school. Her position is also fiftieth when counting from the bottom of the ranking. How many students from that school took part in the competition?
+> A) 99
+> B) 75
+> C) 103
+> D) 100
+> E) 101
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_junior#q01|src_kangourou_2005_junior__Q01]]
 
 
 
@@ -70,11 +79,20 @@ Total students with Elena 50th from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of males with mixed pairs*
+*Number of males with mixed even pairs*
 
-> To perform a task, the 18 students in a class are divided into pairs and the pairs are numbered from 1 to 9. Couples marked with an even number are made up of a male and a female, while couples marked with an odd number are made up only of males. How many males are in that class? A) 10 B) 11 C) 12 D) 14 E) 18
+> To carry out a task, the 18 students in a class were divided into pairs, and the pairs were numbered from 1 to 9. The pairs marked with an even number consist of one boy and one girl, whereas those marked with an odd number consist solely of boys. How many boys are there in that class?
+> A) 10
+> B) 11
+> C) 12
+> D) 14
+> E) 18
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_junior#q02|src_kangourou_2005_junior__Q02]]
 
 
 
@@ -104,18 +122,20 @@ Total students with Elena 50th from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum coins tangent to a central one*
+*Maximum number of coins tangent to a central point*
 
-> 10 one-euro coins are arranged on the table. Having taken one of these
-> coins, what is the maximum number of coins that can be arranged
-> around it so that they touch it, but there are no overlaps between coins? 
+> Ten 1-euro coins are arranged on the table. If one of these coins is taken, what is the maximum number of coins that can be arranged around it so that they touch it but no two coins overlap?
 > A) 5       
 > B) 6         
 > C) 7          
 > D) 8             
 > E) 9
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_junior#q03|src_kangourou_2005_junior__Q03]]
 
 
 
@@ -157,30 +177,25 @@ Total students with Elena 50th from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the measures of 10 small aligned circles*
+*Sum of the measurements of 10 small aligned circumferences*
 
 ![[src_kangourou_2005_junior__prob4.png]]
 
-> The large circle in the figure is 10 m long.
-> The 10 small circles have their centers aligned on a diameter of the large circle. The
-> two outermost small circles are internally tangent to the large circle;
-> each of the others is externally tangent to the
-> two adjacent to it. What is the sum of the
-> measures of the small circles?
+> The large circle in the figure has a circumference of 10 m. The centers of the 10 small circles lie on a diameter of the large circle. The two outermost small circles are internally tangent to the large circle; each of the other small circles is externally tangent to the two adjacent to it. What is the sum of the circumferences of the small circles?
 > A) 1 m
 > B) 5 m
 > C) 10 m
 > D) 100 m
-> E) it depends on the diameter of the individual circles
-> junior_05_D.qxp  21/02/2005  16.13  Page 22
-> 
-> Pag. 
-> Pag. 23
-> 23
-> Kang 2005
-> Kang 2005
+> E) depends on the diameter of each individual circle
+> junior_05_D.qxp 21/02/2005 16.13 Page 22
+>
+> Pag. Pag. 23 23 Kang 2005 Kang 2005
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_junior#q04|src_kangourou_2005_junior__Q04]]
 
 
 
@@ -207,11 +222,18 @@ Total students with Elena 50th from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum balloons inflated in two hours*
+*Maximum number of balloons inflated in two hours*
 
-> Angelo can inflate eight balloons every three minutes, but one out of every 10 blows up as soon as it's inflated. What's the maximum number of inflated balloons Angelo can deliver in two hours? A) 160            B) 216            C) 240 D) 288 E) 320
+> Angelo can inflate 8 balloons every 3 minutes, but one out of every 10 balloons bursts as soon as it is inflated. What is the maximum number of inflated balloons that Angelo can deliver in two hours?
+> A) 160            B) 216            C) 240
+> D) 288
+> E) 320
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_junior#q05|src_kangourou_2005_junior__Q05]]
 
 
 
@@ -245,13 +267,22 @@ Total students with Elena 50th from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number x for arithmetic progressions in the table*
+*Number x for arithmetic progressions in a table*
 
 ![[src_kangourou_2005_junior__prob6.png]]
 
-> What number do you have to put in the box marked with x if you want to complete the table so that in each row, in each column and on the two diagonals the numbers are in arithmetic progression? (The numbers in a sequence form an arithmetic progression when the difference between each number and the previous one is constant.) A) 49 B) 42 C) 33 D) 28 E) 4
+> What number must you place in the box marked with x if you want to complete the table so that, in each row, each column, and along both diagonals, the numbers form an arithmetic progression? (The numbers in a sequence form an arithmetic progression when the difference between each number and the one preceding it is constant.)
+> A) 49
+> B) 42
+> C) 33
+> D) 28
+> E) 4
 
-**Answer:** B
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2005_junior#q06|src_kangourou_2005_junior__Q06]]
 
 
 
@@ -282,11 +313,20 @@ Total students with Elena 50th from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage increase in wrong brick volume*
+*Incorrect percentage increase in brick volume*
 
-> One firm has been commissioned to make rectangular parallel-piped bricks. The required dimensions were 10 cm × 12 cm × 14 cm, but by mistake the bricks produced were 12 cm × 14 cm × 16 cm. By what percentage is the volume of the brick manufactured greater than the volume of the brick ordered? A) 20% B) 30% C) 40% D) 50% E) 60%
+> A company received an order to manufacture rectangular parallelepipedal bricks. The required dimensions were 10 cm × 12 cm × 14 cm, but due to an error, the bricks produced turned out to have dimensions 12 cm × 14 cm × 16 cm. By what percentage is the volume of the manufactured brick greater than the volume of the ordered brick?
+> A) 20%
+> B) 30%
+> C) 40%
+> D) 50%
+> E) 60%
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_junior#q07|src_kangourou_2005_junior__Q07]]
 
 
 
@@ -342,7 +382,7 @@ Total students with Elena 50th from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area shaded region with three semicircles*
+*Region shaded with three semicircles*
 
 ![[src_kangourou_2005_junior__prob8.png]]
 
@@ -370,9 +410,17 @@ Total students with Elena 50th from both sides
 \end{document}
 ```
 
-> The figure shows three semicircles with a radius of 2 cm; the centers E and F of the two lower semicircles, which are tangent, are the orthogonal projections of the points A and B respectively at the intersection of the upper semicircle with the other two. What is the area of the shaded region in cm2? A) 2π B) 7    C) 2π+1 D) 8       E) 2π+2
+> In the figure, 3 semicircles are drawn.
+> with radius 2 cm; the centres E and F of the two lower semicircles, which are tangent to each other, are the orthogonal projections of the points A and B, respectively—the points where the upper semicircle intersects the other two. What is the area, in cm², of the shaded region?
+> A) 2π
+> B) 7    C) 2π+1
+> D) 8       E) 2π+2
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_junior#q08|src_kangourou_2005_junior__Q08]]
 
 
 
@@ -402,9 +450,17 @@ Total students with Elena 50th from both sides
 
 *Arithmetic mean of two periodic decimals*
 
-> What is the arithmetic mean of the periodic decimal numbers 2,00(4) and 2,00(5)? A) 2,0045 B) 2,00(45) C) 2,005      D) 2,0054 E) 2,00(54)
+> What is the arithmetic mean of the repeating decimals 2.00(4) and 2.00(5)?
+> A) 2,0045
+> B) 2,00(45)
+> C) 2,005      D) 2,0054
+> E) 2,00(54)
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_junior#q09|src_kangourou_2005_junior__Q09]]
 
 
 
@@ -450,33 +506,24 @@ Total students with Elena 50th from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of integers m,n with m^2=n^2+17*
+*Pairs of integers m, n such that m² = n² + 17*
 
-> How many pairs of positive integers m, n (with m > n) are there such
-> that m 2 = n 2 + 17?
+> How many pairs of positive integers m, n (with m > n) are there such that m² = n² + 17?
 > A) none
 > B) one
-> C) two
+> C) due
 > D) four
-> E) infinitely many 
-> 21
-> 16
-> 27
-> x
-> E
-> A
-> B
-> F
-> junior_05_D.qxp  21/02/2005  16.13  Page 23
-> 
-> Page 
-> Page 24
-> 24
-> Kang 2005
-> Kang 2005
-> Questions from No. 11 to No. 20 are worth 4 points each
+> E) infinite
+> 21 16 27 x E A B F junior_05_D.qxp 21/02/2005 16.13 Page 23
+>
+> Page Page 24 24 Kang 2005 Kang 2005 Questions 11 to 20 are each worth 4 points.
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_junior#q10|src_kangourou_2005_junior__Q10]]
 
 
 
@@ -515,9 +562,20 @@ Total students with Elena 50th from both sides
 
 ![[src_kangourou_2005_junior__prob11.png]]
 
-> The sum of the points on the opposite faces of a die is always 7. A die rolls along the path shown in the figure. In the initial position (S) on the upper face of the dice, it reads 3. What do you read on the upper face when the die is in the final position (F)? A) 2 B) 3 C) 4 D) 5 E) 6
+> The sum of the points on the faces
+> The sum of the opposite faces of a die is always 7. A die rolls along the path shown in the figure. In the initial position (S), the top face of the die shows
+> 3. What is read on the top face when the die is in the final position (F)?
+> A) 2
+> B) 3
+> C) 4
+> D) 5        
+> E) 6
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_junior#q11|src_kangourou_2005_junior__Q11]]
 
 
 
@@ -549,11 +607,21 @@ Total students with Elena 50th from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum balls extracted by sum of 18*
+*Minimum number of balls drawn for a sum of 18*
 
-> In an urn there are 17 balls numbered 1 to 17. You have the option to perform a single extraction of a number of balls of your choice. If you want to be sure that among the balls you extracted, there are at least two whose sum is 18, how many do you need to extract? A) 8 B) 10 C) 11 D) 12 E) 17
+> In an urn, there are 17 balls numbered from 1 to 17. You have the option of drawing a single set of balls, with the number of balls being up to your choice. If you want to be certain that, among the balls you draw, at least two have numbers that add up to 18, how many balls must you draw?
+> A) 8
+> B) 10
+> C) 11
+> D) 12
+> E) 17
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_junior#q12|src_kangourou_2005_junior__Q12]]
 
 
 
@@ -588,11 +656,25 @@ Total students with Elena 50th from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A claim that the alternating liar cannot make*
+*A statement that the alternating liar cannot make*
 
-> Carlo is a strange guy: every single day he lies or always tells the truth, alternating his behavior with the changing of the days. Today he made four of the following five statements. Which one couldn't he have made? A) The number of my friends is a prime number. B) I have as many male friends as female friends. C) My name is Carlo. D) I tell the truth every day of my life. E) Among my male and female friends, three are older than me.
+> Carlo is a strange sort: on every single day, either he always thinks or he always tells the truth, alternating his behavior depending on the day. Today, he has made 4 of the following 5 statements. Which one can he not have made?
+> A)
+> The number of my friends is a prime number.
+> B)
+> I have as many male friends as female friends.
+> C)
+> My name is Carlo.
+> D)
+> I tell the truth every day of my life.
+> E)
+> Among my male and female friends, three are older than me.
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_junior#q13|src_kangourou_2005_junior__Q13]]
 
 
 
@@ -639,7 +721,7 @@ Total students with Elena 50th from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couple areas of the remaining two rectangles*
+*Pair of areas of the two remaining rectangles*
 
 ![[src_kangourou_2005_junior__prob14.png]]
 
@@ -656,9 +738,18 @@ Total students with Elena 50th from both sides
 \end{document}
 ```
 
-> A rectangle is divided into 4 smaller rectangles by two segments parallel to the sides. If, as shown in the figure, two rectangles have an area of 4 cm2 and 12 cm2 respectively, which of the following pairs of numbers can express the area in cm2 of the remaining two rectangles? A) 3 and 10 B) 5 and 15 C) 6 and 16 D) 3 and 16 E) 6 and 9
+> A rectangle is divided into 4 smaller rectangles by two line segments parallel to the sides. If, as shown in the figure, two of the rectangles have areas of 4 cm² and 12 cm² respectively, which of the following pairs of numbers could represent the area in cm² of the remaining two rectangles?
+> A) 3 e 10
+> B) 5 e 15
+> C) 6 e 16
+> D) 3 e 16
+> E) 6 e 9
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_junior#q14|src_kangourou_2005_junior__Q14]]
 
 
 
@@ -698,11 +789,23 @@ Total students with Elena 50th from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible sum of 22 integers with product 1*
+*Maximum possible sum of 22 integers with product 1*
 
-> The product of 22 integers is 1. Which of the following numbers can be their sum? A) -1 B) 0 C) 1 D) 4 E) none of these S F 4 cm2 12 cm2 junior_05_D.qxp 21/02/2005 16.13 Page 24
+> The product of 22 integers is 1. Which of the following numbers could be their sum?
+> A) -1
+> B) 0 
+> C) 1
+> D) 4
+> E) none of these
+> S F 4 cm2 12 cm2 junior_05_D.qxp 21/02/2005 16.13 Page 24
+>
+> Pag. Pag. 25 25 Kang 2005 Kang 2005
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_junior#q15|src_kangourou_2005_junior__Q15]]
 
 
 
@@ -735,13 +838,22 @@ Total students with Elena 50th from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of ten angles on five lines through P*
+*Sum of the ten angles on five lines through P*
 
 ![[src_kangourou_2005_junior__prob16.png]]
 
-> Five different lines pass through the same point P and two points are fixed on each of them, different from P and opposite to P: the five triangles shown in the figure are obtained by joining the ten points in question together. How many degrees does the sum of the ten angles shown in the figure measure? A) 300 B) 450 C) 360 D) 600 E) 720
+> Five distinct lines pass through the same point P, and on each of these lines two points are fixed—points different from P and lying on opposite sides of P. The five triangles in the figure are formed by joining the ten points in question in an appropriate manner. How many degrees is the sum of the ten angles highlighted in the figure?
+> A) 300
+> B) 450
+> C) 360
+> D) 600
+> E) 720
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_junior#q16|src_kangourou_2005_junior__Q16]]
 
 
 
@@ -774,13 +886,23 @@ Total students with Elena 50th from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum segments of the common stretch of two wires*
+*Maximum of the segments of the common part of two threads*
 
 ![[src_kangourou_2005_junior__prob17.png]]
 
-> Two pieces of iron wire are shown in the figure. Each is made up of segments each 10 cm long. One of the two pieces is partially superimposed on the other so that they have a stretch in common. What is the maximum number of segments that make up this stretch? A) 7 B) 5 C) 4 D) 3 E) 1
+> In the figure, two are shown
+> Pieces of wire. Each is made up of segments, all of which are 10 cm long. One of the two pieces is partially superimposed on the other so that they come to share a common section. What is the maximum number of segments that can make up this section?
+> A) 7
+> B) 5
+> C) 4
+> D) 3
+> E) 1
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_junior#q17|src_kangourou_2005_junior__Q17]]
 
 
 
@@ -812,11 +934,21 @@ Total students with Elena 50th from both sides
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum KANGOUROU number with bell code *
+*Maximum number of KANGOUROU with bell code*
 
-> The 7 letter sequence AGONKRU is associated with a sequence of 7 digits all different from each other, arranged in ascending order up to the digit corresponding to the letter N and decreasing from there onwards. Each chosen sequence is a code respecting which a number is associated with the word KANGOUROU. What is the maximum number that can be obtained for the word KANGOUROU by changing the eligible codes? A) 859763473 B) 987654354 C) 569784384 D) 859673473 E) 569783483
+> To the sequence of 7 letters AGONKRU is associated a sequence of 7 digits, all of which are different from one another; the digits are arranged in ascending order up to the digit corresponding to the letter N, and from there onward in descending order. Each chosen sequence is a code; in accordance with this code, a number is associated with the word KANGOUROU. What is the greatest number that can be obtained for the word KANGOUROU as the admissible codes vary?
+> A) 859763473      
+> B) 987654354
+> C) 569784384
+> D) 859673473
+> E) 569783483
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_junior#q18|src_kangourou_2005_junior__Q18]]
 
 
 
@@ -847,11 +979,21 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum perimeter of new rectangle from shafts*
+*Minimum perimeter of the new rectangle from dowels*
 
-> A rectangle 24 cm long and 1 cm wide is divided into rectangles 1 cm wide. Four of them are 4 cm long, two are 3 cm long and one is 2 cm long. These rectangles are aligned (without overlapping) to form another rectangle. Then the length in cm of the perimeter of the new rectangle is at least A) 28 B) 18 C) 22 D) 20 E) none of the previous
+> A rectangle measuring 24 cm in length and 1 cm in width is divided into rectangles that are 1 cm wide. Of these, four are 4 cm long, two are 3 cm long, and one is 2 cm long. These rectangles are placed side by side (without overlapping) to form another rectangle. Then the length, in cm, of the perimeter of the new rectangle is at least
+> A) 28
+> B) 18
+> C) 22
+> D) 20
+> E) none of the above
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_junior#q19|src_kangourou_2005_junior__Q19]]
 
 
 
@@ -890,24 +1032,24 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Valore a_2005 in successione a_n=a_{n-1}-a_{n-2}*
+*Value of a_2005 in the sequence a_n = a_{n-1} - a_{n-2}*
 
-> A sequence of numbers is defined as follows: a₁ = 2005,
-> a₂ = 21, and for every n > 2, aₙ = aₙ₋₁ − aₙ₋₂.
-> Then a₂₀₀₅ equals
+> A sequence of numbers is defined as follows: a1 = 2005, a2 = 21, and for every n > 2, an = an−1 − an−2. Then a2005 equals
+> A) 2005
+> B) 21
+> C) 1984
+> D) 2004
+> E) 0
+> P junior_05_D.qxp 21/02/2005 16.13 Page 25
 >
-> (A) 2005
-> (B) 21
-> (C) 1984
-> (D) 2004
-> (E) 0
-> 
-> Page
-> Page 26
-> Kang 2005
-> Questions 21 to 30 are worth 5 points each
+> Page Page 26 26 Kang 2005 Kang 2005 Questions 21 to 30 are each worth 5 points.
 
-**Answer:** A
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2005_junior#q20|src_kangourou_2005_junior__Q20]]
 
 
 
@@ -939,11 +1081,21 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of different bus results in 19 minutes*
+*Different numbers of bus results in 19 minutes*
 
-> At a bus stop only bus A (regularly every 3 minutes) and bus B (regularly every 5 minutes) pass. If I'm at the stop exactly 19 minutes and count the total number of buses passing in the meantime, how many different results can I get? A) 1 B) 2 C) 3 D) 4 E) 5
+> At a bus stop, only bus A (regularly every 3 minutes) and bus B (regularly every 5 minutes) pass by. If I stay at the stop for exactly 19 minutes and count the total number of buses that pass by in that time, how many different results can I get?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_junior#q21|src_kangourou_2005_junior__Q21]]
 
 
 
@@ -977,13 +1129,22 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of pyramid containing 14 cubes*
+*Volume of the pyramid that encloses 14 cubes*
 
 ![[src_kangourou_2005_junior__prob22.png]]
 
-> 14 volume 1 cubes are stacked as shown in the figure. The resulting construction is enclosed in a pyramid, as shown in the figure. What's the volume of this pyramid? A) 64 B) 32 C) D) E)
+> 14 cubes of volume 1 are stacked as shown in the figure. The resulting structure is enclosed within a pyramid, also as shown in the figure. What is the volume of this pyramid?
+> A) 64
+> B) 32
+> C) 
+> D) 
+> E)
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_junior#q22|src_kangourou_2005_junior__Q22]]
 
 
 
@@ -1007,11 +1168,17 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is not the net of an octahedron (cancelled)*
+*What is not the development of an octahedron (canceled)*
 
 ![[src_kangourou_2005_junior__prob23.png]]
 
-> Which of the following is not the net of an octahedron?
+> Which of the following is not a net of an octahedron?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_junior#q23|src_kangourou_2005_junior__Q23]]
 
 
 
@@ -1057,7 +1224,7 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Radius of small circle in square*
+*Radius of the small circle in a square*
 
 ![[src_kangourou_2005_junior__prob24.png]]
 
@@ -1074,9 +1241,18 @@ Maximum KANGOUROU number with bell code *
 \end{document}
 ```
 
-> The figure represents a square and two circles. The square is circumscribed about the large circle, which has a radius of 1 and is tangent externally to the small circle, which is tangent to two sides of the square. What is the radius of the small circle? A)                 B) C) D) E)
+> The figure depicts a square and two
+> Circumferences. The square is circumscribed about the large circle, which has a radius of 1 and is externally tangent to the small circle, to which two sides of the square are tangent. What is the radius of the small circle?
+> A)                 B)
+> C)   
+> D)  
+> E)
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_junior#q24|src_kangourou_2005_junior__Q24]]
 
 
 
@@ -1141,52 +1317,24 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many integers n satisfy two inequalities*
+*How many integers n satisfy two inequalities?*
 
-> How many positive integers n satisfy both inequalities 2000 <
-> < 2005?
+> How many positive integers n satisfy both inequalities 2000 < n < 2005?
 > A) 1
 > B) 2
 > C) 3
 > D) 4
 > E) 5
-> 2
-> 3
-> 2
-> 64
-> (
-> )
-> 1
-> +
-> n
-> n
-> 3
-> 64
-> 3
-> 32
-> 2
-> 2
-> 3 −
-> 4
-> 2
-> 1 +
-> 2
-> 2
-> 2 −
-> 2
-> 3
-> 4 +
-> 1
-> 2 −
-> junior_05_D.qxp  21/02/2005  16.13  Page 26
-> 
-> Pag. 
-> Pag. 27
-> 27
-> Kang 2005
-> Kang 2005
+> 2 3 2 64 ( ) 1 + n n 3 64 3 32 2 2 3 − 4 2 1 + 2 2 2 − 2 3 4 + 1 2 − junior_05_D.qxp 21/02/2005 16.13 Page 26
+>
+> Pag. Pag. 27 27 Kang 2005 Kang 2005
 
-**Answer:** E
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_junior#q25|src_kangourou_2005_junior__Q25]]
 
 
 
@@ -1221,13 +1369,24 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance E to D with equal trapezoidal areas*
+*Distance E from D with equal trapezoid areas*
 
 ![[src_kangourou_2005_junior__prob26.png]]
 
-> A rectangle is divided into two regions by the polygonal line ABCD, as shown in the figure. The segments AB, BC and CD are parallel to the sides of the rectangle and their lengths in metres are respectively 30, 24 and 10. E is a point on the upper side of the rectangle such that the area of each of the trapezoids into which AE divides the rectangle coincides with that of the initial region containing the same vertices of the rectangle. How far is E from D in meters? A) 8 B) 12 C) 13 D) 14 E) 16
+> A rectangle is divided into two regions by the polygonal chain ABCD, as shown in the figure. The line segments AB, BC, and CD are parallel to the sides of the rectangle, and their lengths in meters are 30, 24, and, respectively.
+> 10. Let E be a point on the upper side of the
+> A rectangle such that the area of each of the trapezoids into which AE divides the rectangle equals the area of the initial region that contains the same vertices as the rectangle. How many meters is E from D?
+> A) 8
+> B) 12
+> C) 13
+> D) 14
+> E) 16
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_junior#q26|src_kangourou_2005_junior__Q26]]
 
 
 
@@ -1256,11 +1415,21 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit divisors of 102^2*
+*4-digit divisors of 102^2*
 
-> How many 4-digit divisors (positive integers) does the number 102^2 have? A) 2 B) 3 C) 4 D) 5 E) 6
+> How many positive integer divisors of 4-digit numbers does 1022 have?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_junior#q27|src_kangourou_2005_junior__Q27]]
 
 
 
@@ -1293,13 +1462,23 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded triangle area in the matchstick fish*
+*Area of the shaded triangle in the matchstick fish*
 
 ![[src_kangourou_2005_junior__prob28.png]]
 
-> 10 matches of equal length are arranged in such a way as to represent a fish, as shown in the figure. The area of the region occupied by the fish is 24. How much is the area of the shaded triangle, delimited using the segment drawn in the figure between two of the fish's "vertices"? A) 1 B) 3/2 C) 2 D) 5/2 E) 3
+> 10 matches of equal length are
+> A fish is arranged in a certain way, as shown in the figure. The area of the region occupied by the fish is 24. What is the area of the shaded triangle, bounded by the line segment drawn in the figure between two of the fish's "vertices"?
+> A) 1
+> B) 
+> C) 2
+> D)
+> E)
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_junior#q28|src_kangourou_2005_junior__Q28]]
 
 
 
@@ -1328,13 +1507,20 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of non-line/column black and white box*
+*White-black cell pairs not in the same row/column*
 
 ![[src_kangourou_2005_junior__prob29.png]]
 
-> How many ways can you choose, on a traditional 8x8 chessboard, a pair of squares, a white and a black, so that those squares don't lie on the same row or on the same column? A) 56      B) 5040     C) 720 D) 672         E) 768
+> In how many ways can one, on a traditional 8x8 chessboard, choose a pair of squares—one white and one black—such that the squares do not lie in the same row or the same column?
+> A) 56      B) 5040     C) 720
+> D) 672         E) 768
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_junior#q29|src_kangourou_2005_junior__Q29]]
 
 
 
@@ -1415,7 +1601,7 @@ Maximum KANGOUROU number with bell code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle CPE with three squares placed side by side*
+*CPE corner with three adjacent squares*
 
 ![[src_kangourou_2005_junior__prob30.png]]
 
@@ -1445,35 +1631,18 @@ Maximum KANGOUROU number with bell code *
 \end{document}
 ```
 
-> Three squares are placed side by side
-> as in the figure. The segments AE and
-> CH intersect at point P.
-> What is the measure of angle CPE ?
+> Three squares are placed side by side.
+> In the figure. Segments AE and CH intersect at point P. What is the measure of angle CPE?
 > A) 30° 
 > B) 45°
 > C) 60° 
 > D) 50°
 > E) 40°
-> A
-> E
-> C
-> D
-> B
-> X
-> X
-> H
-> G
-> F
-> E
-> A
-> D
-> B
-> C
-> P
-> ?
-> 3
-> 5
-> 6
-> junior_05_D.qxp  21/02/2005  16.13  Page 27
+> A E C D B X X H G F E A D B C P ? 3 5 6 junior_05_D.qxp 21/02/2005 16.13 Page 27
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_junior#q30|src_kangourou_2005_junior__Q30]]

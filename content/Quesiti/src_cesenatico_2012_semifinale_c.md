@@ -37,11 +37,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Starting day of collection of figures (doubles 1/13)*
+*How many stones Death collected, if Esmeralda collected 9284 and won*
 
-> The last stone The world has come to an end at other times in the past. Once in particular it was a certain Esmeralda Weatherwax who challenged Death to the game for everyone's salvation, but neither chess, cards, nor Monopoly were chosen. The two players sat down in front of a large pile of stones and began to play. He started Emerald, which took 30 stones. Death took 130 of them, then Emerald took 230. And they did so, according to the rules, which required each one to collect 100 more stones than the previous one. When the stones on the ground were no longer enough, the player would collect them all. The first one who couldn't pick up a stone would lose. As you can imagine, Esmeralda won after collecting 9,284 stones throughout the game. How many stones did Death collect?
+> The last stone
+> The world has been close to the end at other times in the past. Once in particular a certain Esmeralda Weatherwax challenged Death to the game for everyone's salvation, but neither chess, nor cards, nor Monopoly was chosen. The two players sat down facing a great heap of stones and began to play. Esmeralda started, and took 30 stones. Death in turn took 130, then Esmeralda took 230. They went on like this, according to the rules, which obliged each to pick up 100 stones more than the previous player. When the stones on the ground were no longer enough, the player would have picked them all up. The first who could not take any stone would have lost. As one imagines, Esmeralda won, having picked up 9284 stones in the whole game. How many stones did Death pick up?
 
-**Answer:** 1911
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+
+[[Quesiti/src_cesenatico_2012_semifinale_c#q01|src_cesenatico_2012_semifinale_c__Q01]]
 
 
 
@@ -71,11 +76,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Antenates Matemaya (branches with 7 males and 7 females)*
+*The value of n if the Earth is destroyed after a game of 594 moves, Leila having no winning chance against perfect play*
 
-> Commander Tarkin threatens to destroy the Earth with the Black Death, but will give up if Princess Leila defeats him in the next game. Initially there is a heap of n stones; then players alternate starting with Leila. The only valid moves are to remove pile 1, 2, 4 or 16 stones. The winner is the one who can remove the last stone. Leila, reflecting a little, realizes that if Tarkin doesn't make mistakes, there will be no chance of victory for her. Then try to make the game last as long as possible, hoping that Tarkin will make a mistake sooner or later and also to delay the destruction of Earth. How much was it worth if the Earth was destroyed after a game of 594 moves?
+> Technological terror
+> Commander Tarkin threatens to destroy the Earth with the Death Star, but he will relent if Princess Leila beats him at the following game. Initially there is a heap of n stones; then the players take turns, starting with Leila. The only valid moves are to remove from the heap 1, 2, 4 or 16 stones. Whoever manages to take the last stone wins. Reflecting a little, Leila realises that if Tarkin makes no mistakes, she will have no chance of victory. She therefore tries to make the game last as many moves as possible, in the hope that Tarkin will sooner or later make a mistake, and also to delay the destruction of the Earth. What was n worth if the Earth is destroyed after a game of 594 moves?
 
-**Answer:** 1716
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2012_semifinale_c#q02|src_cesenatico_2012_semifinale_c__Q02]]
 
 
 
@@ -103,11 +113,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance tower A from the centre of the circle*
+*The least possible value of the unreadable number, of at least 7 digits, whose largest 4-digit divisor is this year's solar flare*
 
-> From a time capsule buried fifty years ago a prophecy is recovered: The world will end in a solar flare in year n, where n is the largest number of 4 digits dividing by. . . ”. Unfortunately, the number that was written in place of the dots is no longer legible, only understood to have at least seven digits. Knowing that the MIT glow will occur this year, what is the smallest possible value for the number that completed the prophecy?
+> A prophecy in a box
+> From a time capsule buried fifty years ago a prophecy is recovered: "The world will end in a solar flare in the year n, where n is the largest 4-digit divisor of. . . ". Unfortunately the number that was written in place of the dots is no longer legible; one can only tell that it had at least 7 digits. Knowing that the flare, according to MIT, will happen this year, what is the smallest possible value of the number that completed the prophecy?
 
-**Answer:** 6500
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2012_semifinale_c#q03|src_cesenatico_2012_semifinale_c__Q03]]
 
 
 
@@ -136,11 +151,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Other roots of x^2-bx+c=0 (b is odd, b is odd)*
+*How many virtual machines Skynet has in all, on 63 servers numbered from 1 to 63*
 
-> The Matrix actually the world as we know it has been over for a while. According to Zion's archives, in the actual year 2004, many generations ago, a computer network called Skynet became self-aware and enslaved mankind. Skynet was made up of 63 servers, numbered 1 to 63, each of which ran a number of virtual machines equal to the maximum exponent of a power of 2 dividing the factor of the number that marks it. How many virtual machines are there on Skynet?
+> The Matrix
+> In fact the world as we know it ended a long time ago. According to the archives of Zion, in the true year 2004, many generations ago, a computer network called Skynet became self-aware and enslaved the human race. Skynet was made up of 63 servers, numbered from 1 to 63, on each of which there ran a number of virtual machines equal to the highest exponent of a power of 2 that divides the factorial of the number that labels it. How many virtual machines does Skynet have in all?
 
-**Answer:** 0997
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2012_semifinale_c#q04|src_cesenatico_2012_semifinale_c__Q04]]
 
 
 
@@ -170,11 +190,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of high power figures*
+*The least r, in metres, such that simultaneous surface bombs split the asteroid of revolution into at least two pieces*
 
-> Deep impact An asteroid is heading toward Earth. Its shape is that of a rotating solid, obtained by rotating around the straight axis of the side AB (which measures 3800 meters) the flat figure consisting of the square ABCD and the 4 circles with a radius of 1900 meters and centers at the vertices of the square. To destroy it, heroic miners are sent to the asteroid that can count on an infinite number of bombs, each of which disintegrates everything within a radius r from the point where it explodes. Our heroes cover the entire surface of the asteroid with bombs, only a few inches apart from each other and then detonate them simultaneously. How many meters must r be at least for the remainder of the asteroid to be split into at least two pieces?
+> Deep impact
+> An asteroid is heading for the Earth. Its shape is that of a solid of revolution, obtained by rotating about the line that is the perpendicular bisector of the side AB (which measures 3800 metres) the plane figure consisting of the square ABCD and of the 4 circles of radius 1900 metres centred at the vertices of the square. To destroy it, heroic miners are sent onto the asteroid; they can count on an infinite number of bombs, each of which disintegrates everything within a radius r of the point at which it explodes. Our heroes cover the whole surface of the asteroid with bombs, only a few centimetres apart, and then detonate them simultaneously. How many metres must r be, at least, so that what remains of the asteroid is divided into at least two pieces?
 
-**Answer:** 0936
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2012_semifinale_c#q05|src_cesenatico_2012_semifinale_c__Q05]]
 
 
 
@@ -203,11 +228,18 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max gold in the two statues (weights and bonds)*
+*The least number of heads Bernardus can have, for positive integers n and m satisfying a broken equation*
 
-> It's written as predicted in the terrible book Necronomicon by the mad Arab Abdul Alhazred, when for man the Last Day will come, he will rise from the bottom Bernardus, monster with n heads and m tails (both positive integers) such that 1 95 + 1 n = 1 m. What's the minimum number of heads Bernardus can have?
+> It is written
+> As was foretold in the terrible book Necronomicon of the mad Arab Abdul Alhazred, when the Last Day comes for Man, Bernardus will rise from the depths, a monster with n heads and m tails (both positive integers) such that 1
+> 95 + 1
+> n = 1
+> m. What is the least number of heads Bernardus can have?
 
-**Answer:** 0507
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2012_semifinale_c#q06|src_cesenatico_2012_semifinale_c__Q06]]
 
 
 
@@ -241,13 +273,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum red area on the faces of the parallel piped*
+*Probability that the Earth is saved, if a circular shield of radius 5 km is centred on the square K of side 26 km; first 4 digits after the decimal point*
 
-> First Impact On December 21, 2012, a spherical asteroid with a radius of 1/7 of a kilometer will hit the Earth's surface perpendicularly in a K-square area on the side of 26 km, making a hole exactly the same size as the asteroid. It is known that the hole will be completely contained in K, but it is not known exactly in which position (experts are likely to consider each position as equally likely). The authorities have a 5 km radius circular disintegrating shield: if the asteroid also competes in Team 2012  Semifinal A  Problem texts  1/1
-> 
-> 2/1 Team Race 2012  Semifinal A  Problem testing will only wipe it out, it will be annihilated and the Earth will be saved. The shield is placed a few metres from the ground, right in the centre of area K. What are the odds of Earth being saved? As a response, provide the first four digits after the comma.
+> First Impact
+> On 21 December 2012 a spherical asteroid of radius 1/7 of a kilometre will strike the surface of the Earth perpendicularly, in a square area K of side 26 km, making a hole of exactly the same size as the asteroid. It is known that the hole will be completely contained in K, but it is not known exactly in which position (the experts are inclined to regard every position as equally likely). The authorities have a disintegrator shield of circular shape, of radius 5 km: even if the asteroid only grazes it, it will be annihilated and the Earth will be saved. The shield is placed a few metres above the ground, right at the centre of the area K. What is the probability that the Earth is saved? As the answer, give the first 4 digits after the decimal point.
 
-**Answer:** 0060
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2012_semifinale_c#q07|src_cesenatico_2012_semifinale_c__Q07]]
 
 
 
@@ -275,11 +310,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Water in the tetrahedral pool inscribed*
+*How many days until Cthulhu wakes, if that number is (12•7)⋄17 under the new operations*
 
-> The followers of the Great Cthulhu to be ready for the Chaos of the Last Day completely changed the usual rules of calculation on natural numbers. The addition has been replaced by an operation denoted by tale which for each a,b ∈N, has ab = a+b+1, whereas, instead of multiplication, an operation has been adopted, denoted by •, such that 0•0 = 1, and that for each a,b,c ∈N, has a•b = b•a and also that a•bc) = (a•b)(a•c). According to the Necronomicon, only 12•7)17 days remain until Cthulhu wakes up: how many days would that be?
+> Alien arithmetic
+> The followers of Great Cthulhu, to be ready for the Chaos of the Last Day, have completely changed the usual rules of calculation on the natural numbers. Addition has been replaced by an operation denoted by ⋄ such that for every a, b ∈ N one has a⋄b = a+b+1, while, in place of multiplication, an operation denoted by • has been adopted, such that 0•0 = 1, and such that for every a, b, c ∈ N one has a•b = b•a and also a•(b⋄c) = (a•b)⋄(a•c). According to the Necronomicon, only (12•7)⋄17 days remain until the awakening of Cthulhu: how many days would that be?
 
-**Answer:** 0448
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2012_semifinale_c#q08|src_cesenatico_2012_semifinale_c__Q08]]
 
 
 
@@ -310,11 +349,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Guess consecutive number after 2012 No*
+*How many pages the alien insect ate, from between pages 100 and 101 of volume 1 to between pages 10 and 11 of volume n*
 
-> The alien invaders Santovasku know that the only Earthling who can resist them is a scholar who keeps the secrets to defeat them on n voluminous books, arranged on a single shelf, from number 1 (left) all the way to number n (right). To destroy the books, an alien insect is sent out into the space between page 100 and page 101 of the first volume and begins to eat to the right, until the last volume, where it stops between page 10 and page 11. It is known that each volume has 38 more pages than the previous one and that the sum of the pages of the fourth and last volumes is equal to twice the pages of the seventh volume and three times the pages of the first volume. How many pages did the worm eat? Ignore the covers, but remember how the volumes are arranged on the shelf.
+> Lost secrets
+> The alien invaders Santovasku know that the only earthling able to oppose them is a scholar who keeps the secrets for defeating them in n bulky books, arranged on a single shelf, from number 1 (on the left) onwards to number n (on the right). To destroy the books an alien insect is sent, which starts in the space between page 100 and page 101 of the first volume and begins to eat towards the right, as far as the last volume, where it stops between page 10 and page 11. It is known that each volume has 38 pages more than the previous one, and that the sum of the pages of the fourth volume and of the last volume is equal both to twice the pages of the seventh volume and to three times the pages of the first volume. How many pages did the worm eat? Ignore the covers, but remember how the volumes are arranged on the shelf.
 
-**Answer:** 4025
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_induzione|Induction]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2012_semifinale_c#q09|src_cesenatico_2012_semifinale_c__Q09]]
 
 
 
@@ -343,16 +387,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum |coeff| polynomial max degree with integer roots*
+*Probability that the World does not end, if Ash Williams rolls a die on each of 9 days under the stated conditions; first 4 digits after the decimal point*
 
-> Trying your luck
-> No one remembers anymore the password to deactivate the robot Gort, which in 9 days will turn on and destroy life on Earth.
-> However, there is a second shutdown procedure. On each of these days the heroic Ash Williams will roll a 6-sided die. If
-> every roll is different both from the number that came up two days before and from the one that will come up four days later, Gort will be deactivated.
-> (If on one of the required days Ash did not roll the die, for example two days before the first day, the number that came up is
-> considered different.) What is the probability that the World will not end? As your answer, provide the first 4 digits after the decimal point.
+> Trying one's luck
+> No one any longer remembers the password for deactivating the robot Gort, which in 9 days will switch on and destroy life on Earth. There is, however, a second shutdown procedure. On each of these days the heroic Ash Williams will roll a 6-sided die. If every roll is different both from the number that came up two days earlier and from the one that will come up four days later, Gort will deactivate. (If on one of the days required Ash did not roll the die, for example two days before the first day, the number that came up is regarded as different.) What is the probability that the World does not end? As the answer, give the first 4 digits after the decimal point.
 
-**Answer:** 1700
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2012_semifinale_c#q10|src_cesenatico_2012_semifinale_c__Q10]]
 
 
 
@@ -380,11 +424,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max roots >1 of palindrome polynomial of degree 2012*
+*The alien's speed, in centimetres per second, on a 500-metre track*
 
-> The ferocious aliens of the Uru System are invading Earth! The world will end unless the Earth Champion defeats the alien chief's daughter in a desperate race. The race is held on a 500-meter track, on multiple laps. The alien surpasses the Champion every three minutes. If one of them were to run in the opposite direction, they would cross each other every 20 seconds. What is the speed of the alien in centimeters per second?
+> The chase
+> The ferocious aliens of the Uru System invade the Earth! The world will end unless the Champion of the Earth defeats the daughter of the aliens' chief in a desperate running race. The race is held on a track 500 metres long, over several laps. The alien overtakes the Champion every 3 minutes. If one of the two ran in the opposite direction, they would meet every 20 seconds. What is the alien's speed, in centimetres per second?
 
-**Answer:** 0503
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2012_semifinale_c#q11|src_cesenatico_2012_semifinale_c__Q11]]
 
 
 
@@ -412,11 +461,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-The Sun and Moon are likely to lose to an uninjured man.
+*The fiery-red area, in square metres, on a square face of area 2012 m2*
 
-> Another sign A space probe has recently discovered on the surface of Mars a mysterious monolith that may foretell the end of the world. One of its square faces ABCD, has an area of 2012 m2. That is, E is the middle point of AB and O is the intersection between AC and BD, so the intersection between the DCE triangle and the ABO triangle is red in colour. All the rest of the monolith is black. How many square meters is the red area?
+> The umpteenth sign
+> A space probe has just discovered on the surface of Mars a mysterious monolith that perhaps heralds the end of the world. One of its square faces, ABCD, has area 2012 m2. Let E be the midpoint of AB and O the intersection of AC and BD. One observes that the intersection of triangle DCE and triangle ABO is fiery red. All the rest of the monolith is black. How many square metres does the red area measure?
 
-**Answer:** 0585
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2012_semifinale_c#q12|src_cesenatico_2012_semifinale_c__Q12]]
 
 
 
@@ -444,11 +498,16 @@ The Sun and Moon are likely to lose to an uninjured man.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Second year pyramid (counting zero)*
+*How many aliens sit at the round table of 8595 creatures*
 
-> Knights of other shores The alien invasion of the Uru System is complete! At the peace conference, called in a hurry, around the round table sit 8595 creatures, who may be aliens or terrestrials (the former always tell the truth, the latter always lie to save themselves). We know that the aliens at the conference are more than 2012 and less than 8,000, and that each creature claims that between the two creatures on its left there are as many aliens as between the two creatures on its right. How many aliens are out there?
+> Knights from other shores
+> The invasion by the aliens of the Uru System is complete! At the peace conference, called in great haste, 8595 creatures sit around the round table; they may be aliens or earthlings (the former always tell the truth, the latter always lie in order to save themselves). It is known that the aliens at the conference are more than 2012 and fewer than 8000, and that every creature asserts that among the two creatures on its left there are as many aliens as among the two creatures on its right. How many aliens are there in all?
 
-**Answer:** 2005
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2012_semifinale_c#q13|src_cesenatico_2012_semifinale_c__Q13]]
 
 
 
@@ -478,11 +537,16 @@ The Sun and Moon are likely to lose to an uninjured man.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*consecutive scores (ABCD)*
+*How many people can live in one shelter, at 3.5 m2 of residential area each*
 
-> A new hope The End of the World Order has been activated and life on Earth will be extinct within a few months. Il Dr. Strangely, it suggests preserving the human race in underground shelters. The shelters constructed have the form described here. The habitable area is an equilateral QPR triangle of 112 m side. It is served by three PQDC, QRIH and RPNM square hydroponic tanks and by three regular hexagonal water tanks ABCPNO, FGHQDE and KLMRIJ. The actual residential area is a polygon with 6 STUVWX sides such that S = AI ∩RP, T = KC ∩RP, U = FN ∩PQ, V = AH ∩PQ, W = KD ∩QR and X = FM ∩QR. Knowing that 3.5 square meters of living space is needed per person, how many people can live at most in one of these shelters?
+> A new hope
+> The Doomsday Device has been activated, and life on Earth will die out within a few months. Dr Strangelove suggests preserving the human race in underground shelters. The shelters that have been built have the shape described here. The habitable zone is an equilateral triangle QPR of side 112 m. It is served by three square hydroponic tanks PQDC, QRIH and RPNM, and by three water tanks in the shape of regular hexagons ABCPNO, FGHQDE and KLMRIJ. The residential zone proper is a polygon with 6 sides STUVWX such that S = AI ∩ RP, T = KC ∩ RP, U = FN ∩ PQ, V = AH ∩ PQ, W = KD ∩ QR and X = FM ∩ QR. Knowing that 3.5 m2 of residential area are needed for each person, how many people can live at most in one of these shelters?
 
-**Answer:** 0222
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2012_semifinale_c#q14|src_cesenatico_2012_semifinale_c__Q14]]
 
 
 
@@ -510,11 +574,15 @@ The Sun and Moon are likely to lose to an uninjured man.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minutes earned by the slowing Earth
+*The least side, in millimetres, of the regular hexagonal slab that held one 16 mm circle for each year up to AD 2012*
 
-> In an ancient Egyptian temple, a regular hexagon-shaped stone slab was found that was used to count years. For every year from an uncertain date between 700 BC and 800 BC until their demise, the Egyptians engraved a circle of 16 mm radius on the slab. The circles were engraved so as not to overlap, and it was calculated that, even by optimizing space, the plate was only placed for the years up to 2012 DC. Apparently, then it would be the Absolute Evil that would end civilization. How many millimetres does the side of the hexagon measure at least?
+> Egyptian accuracy
+> In an ancient Egyptian temple a stone slab in the shape of a regular hexagon was found, which was used to count the years. For every year, starting from an uncertain date between 700 BC and 800 BC and up to their disappearance, the Egyptians engraved on the slab a circle of radius 16 mm. The circles were engraved so as not to overlap, and it was calculated that, even optimising the space, there was room on the slab only for the years up to AD 2012. Apparently Absolute Evil would then have come to put an end to civilisation. How many millimetres, at least, does the side of the hexagon measure?
 
-**Answer:** 5551
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2012_semifinale_c#q15|src_cesenatico_2012_semifinale_c__Q15]]
 
 
 
@@ -577,19 +645,37 @@ Minutes earned by the slowing Earth
 <div class="qlang-split" data-lang="en"></div>
 
 
-Second light destroys surface from cubic vertices
+*How many distinct vaccines are needed for a virus of 8 discs, up to rotation and flipping of the whole ring*
 
-> Despite all the prophecies, the world will actually end up with the spread in the coming months of a virus that will almost completely annihilate humans. The virus is composed of eight identical planar discs linked together by rings. Each disk has a face rich in plutonium and a face rich in arsenic. The virus can mutate by flipping one or more of the disks and then swapping faces. A specific vaccine is needed for each different configuration of the virus, but keep in mind that a vaccine works even if the entire virus changes position rigidly, rotating around the center of the ring or completely flipping over. How many different vaccines will the few survivors have to prepare to get rid of the virus?
-> 
-> 	
-  
-> 
-> 	
-  
-> 
-> 	
-  
-> 
-> Cesenatico 2012 XIII GARA NAZIONALE A SemiFINAL SQUADRE B  4 May 2012 General instructions Please note that for each problem, an integer between 0000 and 9999 must be indicated on the answer card. If the quantity required is not an integer, unless otherwise stated, the whole part shall be indicated. If the quantity requested is a negative number, or if the problem is unsolved, indicate 0000. If the quantity required is an integer greater than 9999, indicate the last four digits. The following approximate values may be useful to take into account when performing the calculations: √ 2 = 1,4142 √ 3 = 1,7321 √ 5 = 2,2361 √ 7 = 2,6458 π = 3,1416. Important deadlines 10 minutes from the start: final deadline for selecting the Jolly problem (after which the first problem will be deleted). 30 minutes from the start: deadline for questions on the text. 90 minutes from the start: end of the race.
+> Twelve Monkeys
+> Despite all the prophecies, the world will in fact end through the spread, in the coming months, of a virus that will almost completely wipe out human beings. The virus is made up of 8 identical coplanar discs linked together in a ring. Each disc has one face rich in plutonium and one rich in arsenic. The virus can mutate by flipping one or more of the discs, thus swapping their faces. A specific vaccine is needed for every different configuration of the virus, but bear in mind that a vaccine also works if the whole virus changes position rigidly, rotating about the centre of the ring or flipping over completely. How many different vaccines will the few survivors have to prepare in order to wipe out the virus?
+>
+> Cesenatico 2012
+> 13th NATIONAL TEAM
+> COMPETITION
+> Semi-final B – 4 May 2012
+> General instructions
+> Recall that for each problem one must indicate on the answer card an integer between 0000 and 9999.
+> If the quantity asked for is not an integer, unless otherwise indicated, give its integer part.
+> If the quantity asked for is a negative number, or if the problem has no solution, indicate 0000.
+> If the quantity asked for is an integer greater than 9999, indicate its last four digits.
+> In carrying out the calculations it may be useful to bear in mind the following approximate values:
+> √
+> 2 = 1.4142
+> √
+> 3 = 1.7321
+> √
+> 5 = 2.2361
+> √
+> 7 = 2.6458
+> π = 3.1416.
+> Important deadlines
+> 10 minutes from the start: the last moment for choosing the Jolly problem (afterwards the first problem will be assigned automatically).
+> 30 minutes from the start: the last moment for asking questions about the text.
+> 90 minutes from the start: the end of the contest.
 
-**Answer:** 0300
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2012_semifinale_c#q16|src_cesenatico_2012_semifinale_c__Q16]]

@@ -33,13 +33,20 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ordine di prova di 2 modulo Fermat potenza primaria*
+*Dimostrare l'ordine di 2 modulo una potenza di un numero primo di Fermat*
 
-> Supponiamo che $m$ e $k$ siano integri non negativi, e $p = 2^{2^m} + 1$ sia un numero primo. Prove questo .
-> 
+> Supponiamo che $m$ e $k$ siano interi non negativi, e che $p = 2^{2^m} + 1$ sia un numero primo. Dimostrare che
+>
 > (a) $2^{2^{m+1} p^k} \equiv 1 \pmod{p^{k+1}}$;
-> 
-> b) $2^{m+1} p^k$ è il numero intero positivo più piccolo $n$ che soddisfa l'equazione di congruenza $2^n \equiv 1 \pmod{p^{k+1}}$.
+>
+> (b) $2^{m+1} p^k$ è il più piccolo intero positivo $n$ che soddisfa l'equazione di congruenza $2^n \equiv 1 \pmod{p^{k+1}}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2010#q01|src_cn_cwmo_2010__Q01]]
 
 
 
@@ -64,11 +71,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove quattro punti conciclici in cerchio con due tangenti*
+*Dimostrare che quattro punti sono conciclici in una circonferenza con due tangenti*
 
-> Come mostrato nella figura. 2.1, $AB$ è il diametro di un cerchio con centro $O$. Le linee tangenti al cerchio nei punti $C$ e $D$ si incontrano a $F$. Le linee $EF$ e $AB$ si incontrano a $M$. Prova che $E$, $C$, $M$ e $D$ sono conciclici.
+> Come mostrato nella Fig. 2.1, $AB$ è un diametro di una circonferenza avente centro $O$. Siano $C$ e $D$ due punti distinti della circonferenza, posti sullo stesso lato rispetto a $AB$; le rette tangenti alla circonferenza nei punti $C$ e $D$ si intersecano in $F$. Le rette $EF$ e $AB$ si intersecano in $M$. Dimostrare che $E$, $C$, $M$ e $D$ sono conciclici.
 
 ![[src_cn_cwmo_b11_w236__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2010#q02|src_cn_cwmo_2010__Q02]]
 
 
 
@@ -91,9 +105,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i n con n sottoinsiemi di k di intersezione singola in coppia di {1,...,n}*
+*Trovare tutti gli n tali che esistano k-sottoinsiemi di {1,...,n} a due a due con un'unica intersezione*
 
-> Determinare tutti i possibili valori del numero intero positivo $n$ in modo che ci siano $n$ diversi $k$-sottotitoli $A_1, A_2, \ldots, A_n$ dell'insieme $\{1, 2, \ldots, n\}$ con $|A_i \cap A_j| = 1$ per tutti $1 \le i < j \le n$ e $2 \le k \le 3$.
+> Determinare tutti i possibili valori dell'intero positivo $n$ tali che esistano $n$ sottoinsiemi distinti di $k$ elementi $A_1, A_2, \ldots, A_n$ dell'insieme $\{1, 2, \ldots, n\}$ con $|A_i \cap A_j| = 1$ per tutti gli $1 \le i < j \le n$ e gli $2 \le k \le 3$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cwmo_2010#q03|src_cn_cwmo_2010__Q03]]
 
 
 
@@ -124,17 +145,24 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove il limite superiore del prodotto massimo dato il limite di tre momenti*
+*Dimostrare una maggiorante per il prodotto massimo dati tre vincoli sui momenti*
 
-> $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n$ siano numeri non negativi che soddisfino contemporaneamente le seguenti condizioni:
-> 
+> Sia $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n$ un insieme di numeri non negativi che soddisfano simultaneamente le seguenti condizioni:
+>
 > (1) $\displaystyle\sum_{i=1}^{n} (a_i - b_i) = 1$;
-> 
+>
 > (2) $\displaystyle\sum_{i=1}^{n} i(a_i - b_i) = 0$;
-> 
+>
 > (3) $\displaystyle\sum_{i=1}^{n} i^2(a_i + b_i) \le 10$.
-> 
-> Prove che $\max_{1 \le k \le n} a_k b_k \le \dfrac{10}{n^2}$.
+>
+> Dimostrare che $\max_{1 \le k \le n} a_k b_k \le \dfrac{10}{n^2}$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2010#q04|src_cn_cwmo_2010__Q04]]
 
 
 
@@ -158,11 +186,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le k>1 per le quali la sequenza di ricorrenza lineare ha la proprietà della somma ripetuta*
+*Trovare tutti i k>1 per cui la successione ricorrente lineare possiede la proprietà della somma ripetuta*
 
-> $k$ sia un numero intero e $k > 1$. Definire una sequenza $\{a_n\}$ come segue: $a_1 = 0$, $a_2 = 1$ e $a_{n+1} = ka_n + a_{n-1}$ per $n = 1, 2, \ldots$ Determinare, con la prova, tutti i possibili $k$ in modo che esistano integri non negativi $\ell, m$ ($\ell \ne m$) e integri positivi $p, q$ in modo che $a_\ell + ka_p = a_m + ka_q$.
+> Sia $k$ un numero intero e $k > 1$. Si definisca una successione $\{a_n\}$ nel modo seguente: $a_1 = 0$, $a_2 = 1$ e $a_{n+1} = ka_n + a_{n-1}$ per $n = 1, 2, \ldots$. Si determinino, con dimostrazione, tutti i possibili $k$ tali che esistano numeri interi non negativi $\ell, m$ ($\ell \ne m$) e numeri interi positivi $p, q$ tali che $a_\ell + ka_p = a_m + ka_q$.
 
-**Risposta:** k=2
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2010#q05|src_cn_cwmo_2010__Q05]]
 
 
 
@@ -187,11 +220,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove GE = GH in triangolo rettangolo con configurazione tangente a cerchio inscritta*
+*Dimostrare che GE = GH in un triangolo rettangolo con configurazione di cerchio inscritto tangente*
 
-> Come mostrato nella figura. 6.1, $\triangle ABC$ è un triangolo rettangolare, $\angle C = 90^\circ$. Disegnare un cerchio centrato a $B$ con raggio $BC$. Il $D$ deve essere un punto sul lato $AC$ e $DE$ deve essere tangente al cerchio a $E$. La linea attraverso $C$ perpendicolare a $AB$ incontra la linea $DE$ estesa al punto $F$. La linea $AF$ incontra $DE$ al punto $G$. La linea attraverso $A$ parallela a $BG$ incontra $DE$ (estesa) a $H$. Provare che $GE = GH$.
+> Come mostrato nella Fig. 6.1, $\triangle ABC$ è un triangolo rettangolo, $\angle C = 90^\circ$. Si tracci una circonferenza con centro in $B$ e raggio $BC$. Sia $D$ un punto sul lato $AC$, e sia $DE$ tangente alla circonferenza in $E$. La retta passante per $C$ e perpendicolare a $AB$ incontra la retta $DE$ prolungata nel punto $F$. La retta $AF$ incontra $DE$ nel punto $G$. La retta passante per $A$ e parallela a $BG$ incontra $DE$ (prolungata) in $H$. Si dimostri che $GE = GH$.
 
 ![[src_cn_cwmo_b11_w236__q06.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2010#q06|src_cn_cwmo_2010__Q06]]
 
 
 
@@ -214,6 +254,13 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le n in cui ogni giocatore non è superato nel torneo di round-robin*
+*Trovare tutti gli n per cui, in un torneo all'italiana, nessun giocatore viene superato dagli altri*
 
-> Ci sono giocatori $n$ ($n \ge 3$) in un torneo di tennis da tavolo, in cui due giocatori hanno una partita. Il giocatore $A$ è chiamato non superato dal giocatore $B$, se almeno uno dei perdenti del giocatore $A$ non è un perdente di $B$. Determinare, con la prova, tutti i valori di $n$ in modo tale che possa verificarsi il seguente caso: dopo aver terminato tutte le partite, ogni giocatore non è superato da nessun altro giocatore.
+> In un torneo di tennistavolo ci sono $n$ ($n \ge 3$) giocatori, e ogni coppia di giocatori disputa una partita. Il giocatore $A$ si dice non superato dal giocatore $B$ se almeno uno dei perdenti del giocatore $A$ non è un perdente del giocatore $B$. Determina, con dimostrazione, tutti i valori di $n$ per cui può verificarsi il seguente caso: al termine di tutte le partite, nessun giocatore è superato da alcun altro giocatore.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cwmo_2010#q07|src_cn_cwmo_2010__Q07]]

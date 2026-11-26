@@ -34,11 +34,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-On what day did you carve the last letter of KANGOUROU?
+*On what day does it carve the last letter of KANGOUROU?*
 
-> Angelo wants to carve the word KANGOUROU into the wood. He can carve a letter a day and he starts on Thursday. On what day of the week will he carve the last letter? A) Monday B) Tuesday C) Wednesday D) Thursday E) Friday
+> Angelo wants to carve the word KANGOUROU into wood. He can carve one letter per day and starts on Thursday. On which day of the week will he carve the last letter?
+> A) Monday
+> B) Tuesday
+> C) Wednesday
+> D) Thursday E) Friday
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q01|src_kangourou_2011_ecolier__Q01]]
 
 
 
@@ -70,19 +78,24 @@ On what day did you carve the last letter of KANGOUROU?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What number had Elisa started from*
+*From which number had Elisa started?*
 
 ![[src_kangourou_2011_ecolier__prob2.png]]
 
 > Starting from a certain number, Elisa
-> carried out the operations shown in the figure, obtaining 6 as a result. What number had she started from?
+> They carried out the operations shown in the figure, obtaining 6 as the result. What number did they start with?
 > A) 9
 > B) 7
 > C) 4
 > D) 0
 > E) 1
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q02|src_kangourou_2011_ecolier__Q02]]
 
 
 
@@ -109,13 +122,17 @@ On what day did you carve the last letter of KANGOUROU?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final position of the token after movements*
+*Final position of the pawn after the moves*
 
 ![[src_kangourou_2011_ecolier__prob3.png]]
 
-> Charles placed a token in a square grid box, as shown in the figure to the right. Now he enjoys moving it, one box at a time, first to the right, then up, then to the left, then down, and finally back to the right. Which of the following figures shows the final position of the token?
+> Carlo placed a pawn on a square of a square grid, as shown in the figure on the right. Now he is having fun moving it, always one square at a time: first to the right, then up, then to the left, then down, and finally again to the right. In which of the following figures is the pawn's final position indicated?
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q03|src_kangourou_2011_ecolier__Q03]]
 
 
 
@@ -146,11 +163,20 @@ On what day did you carve the last letter of KANGOUROU?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minutes to decorate cakes and pastries with two people
+*Minutes to decorate cakes and Panettone with two people*
 
-> A customer ordered three cream cakes and three panettoni from a bakery. When you get to the bakery, the desserts are almost ready. In order to do it as quickly as possible, the baker has a clerk help him. Each dessert, however, must be decorated by one person: if it takes nine minutes to decorate a cream cake and three minutes to decorate a panettone, how many minutes will the customer have to wait? A) 9 B) 12 C) 15 D) 18 E) 24
+> A customer has ordered three cream cakes and three panettones from a pastry chef. When the customer arrives at the pastry shop, the treats are almost ready—only the decorations are missing. To get it done as quickly as possible, the pastry chef has an assistant help him. However, each treat must be decorated by only one person: if it takes 9 minutes to decorate a cream cake and 3 minutes to decorate a panettone, how many minutes will the customer have to wait?
+> A) 9
+> B) 12
+> C) 15
+> D) 18
+> E) 24
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q04|src_kangourou_2011_ecolier__Q04]]
 
 
 
@@ -203,42 +229,31 @@ Minutes to decorate cakes and pastries with two people
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which shape is Marina referring to (gray round or triangular)?*
+*Which shape is Marina talking about (gray round or triangular)?*
 
 ![[src_kangourou_2011_ecolier__prob5.png]]
 
-> Referring to one of the figures shown here, Marina states:
-> “It is gray, round, or triangular.”
-> Which figure is it?
+> Referring to one of the shapes here on the side, Marina says, "It's gray; it's round or triangular." Which shape is this?
+> A) A
+> B) B
+> C) C
+> D) D
+> E) E
 >
-> (A) A
-> (B) B
-> (C) C
-> (D) D
-> (E) E
->  
 > A)
 > B)
 > C)
 > D)
 > E)
-> E
-> A
-> C
-> D
-> B
-> ?
-> 6
-> +1
-> -2
-> +3
-> Texts_11Mat.qxp  19-05-2011  21:20 Page 5
-> 
-> Page
-> Page 6
-> Kangaroo 2011
+> E A C D B ? 6 +1 -2 +3 Testi_11Mat.qxp 19-05-2011 21:20 Page 5
+>
+> Pag. Pag. 6 Kang 201 Kang 2011
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q05|src_kangourou_2011_ecolier__Q05]]
 
 
 
@@ -268,11 +283,20 @@ Minutes to decorate cakes and pastries with two people
 <div class="qlang-split" data-lang="en"></div>
 
 
-How much did Sandro pay for ice cream and cake?
+*How much did Sandro pay for ice cream and cake?*
 
-> Anna, Mario and Sandro went to the bakery. Anna paid €1.50 for three ice cream balls, Mario paid €2.40 for two slices of cake. How much did Sandro pay for an ice cream ball and a slice of cake? A) 1 € and 70 cents B) 1 € and 90 cents C) 2 € and 20 cents D) 2 € and 70 cents E) 3 € and 90 cents
+> Anna, Mario, and Sandro went to the pastry shop. Anna paid 1 euro and 50 cents for three scoops of ice cream, and Mario paid 2 euros and 40 cents for two slices of cake. How much did Sandro pay for one scoop of ice cream and one slice of cake?
+> A) 1 € and 70 cents
+> B) 1 € and 90 cents
+> C) 2 € and 20 cents
+> D) 2 € and 70 cents
+> E) 3 € and 90 cents
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q06|src_kangourou_2011_ecolier__Q06]]
 
 
 
@@ -305,11 +329,21 @@ How much did Sandro pay for ice cream and cake?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many strokes does the clock strike between 7.55 and 10.45*
+*How many strokes does the clock strike between 7:55 and 10:45?*
 
-> The clock of a bell tower strikes at the stroke of each hour the number of strokes corresponding to the hour (e.g. at 7.00 beats 7 strokes, at 8.00 beats 8 strokes and so on). In addition, it strikes one stroke at every hour plus 30 minutes (e.g. 7:30 a.m., 8:30 a.m., etc.). How many strokes does the clock strike in all between 7:55 and 10:45 on the same day? A) 6 B) 18 C) 27 D) 30 E) 33
+> At the stroke of each hour, the clock in a bell tower strikes a number of times equal to the hour (for example, at 7:00 it strikes 7 times, at 8:00 it strikes 8 times, and so on). In addition, it strikes once at every hour and 30 minutes (for example, at 7:30, at 8:30, and so on). How many times does the clock strike in total between 7:55 and 10:45 on the same day?
+> A) 6
+> B) 18
+> C) 27
+> D) 30
+> E) 33
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q07|src_kangourou_2011_ecolier__Q07]]
 
 
 
@@ -341,9 +375,19 @@ How much did Sandro pay for ice cream and cake?
 
 *Minimum number of boxes for 66 eggs*
 
-> Boxing eggs can be done using boxes of 6 eggs and boxes of 12 eggs. What is the minimum number of boxes that can contain 66 eggs? A) 5 B) 6 C) 9 D) 11 E) 13 Questions from N. 9 to N. 16 are worth 4 points each.
+> To pack eggs, you can use boxes that hold 6 eggs or boxes that hold 12 eggs. What is the minimum number of boxes needed to pack 66 eggs?
+> A) 5
+> B) 6
+> C) 9
+> D) 11
+> E) 13
+> Questions 9 to 16 are each worth 4 points.
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q08|src_kangourou_2011_ecolier__Q08]]
 
 
 
@@ -368,13 +412,17 @@ How much did Sandro pay for ice cream and cake?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure has the largest area*
+*Which shape has the largest area?*
 
 ![[src_kangourou_2011_ecolier__prob9.png]]
 
 > Which of the following figures has the largest area?
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q09|src_kangourou_2011_ecolier__Q09]]
 
 
 
@@ -407,11 +455,21 @@ How much did Sandro pay for ice cream and cake?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many kids in the class have catfish dogs*
+*How many boys in the class have cats, dogs, and fish?*
 
-> The kids in one class have a total of eight cats, six dogs and three fish. Every kid has at least one animal, no one has more than two, and whoever has two certainly has a dog, but he doesn't have two dogs. Exactly two kids have both a dog and a fish and exactly three kids have both a cat and a dog. How many kids are in that class? A) 11 B) 12 C) 13 D) 14 E) 17
+> The students in a class have a total of 8 cats, 6 dogs, and 3 fish. Each student has at least one animal; no one has more than two animals; and anyone who has two animals definitely has a dog but does not have two dogs. Exactly two students have both a dog and a fish, and exactly three students have both a cat and a dog. How many students are there in that class?
+> A) 11
+> B) 12
+> C) 13
+> D) 14
+> E) 17
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q10|src_kangourou_2011_ecolier__Q10]]
 
 
 
@@ -442,11 +500,21 @@ How much did Sandro pay for ice cream and cake?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What sum can't have with 13 coins of 5 or 10*
+*Which total cannot be achieved using 13 coins worth 5 or 10?*
 
-> Andrea has 13 coins in her pocket, each of which is five cents or ten cents. Which of the following certainly cannot be, in cents, the total amount Andrew has in his pocket? A) 80 B) 60 C) 70 D) 115 E) 125
+> Andrea has 13 coins in their pocket: each one is worth either 5 cents or 10 cents. Which of the following cannot certainly be, in cents, the total amount Andrea has in their pocket?
+> A) 80
+> B) 60
+> C) 70
+> D) 115
+> E) 125
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q11|src_kangourou_2011_ecolier__Q11]]
 
 
 
@@ -495,13 +563,12 @@ How much did Sandro pay for ice cream and cake?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which letter is not covered when folding the sheet*
+*Which letter is not covered when the sheet is folded?*
 
 ![[src_kangourou_2011_ecolier__prob12.png]]
 
-> Look at the figure: if you fold the sheet along the
-> indicated line, which of the letters will not be covered by a
-> small gray square?
+> Observe the figure: if you fold the sheet along the line
+> Indicated: which of the letters will not be covered by a small grey square?
 > A) A
 > B) B
 > C) C
@@ -512,19 +579,16 @@ How much did Sandro pay for ice cream and cake?
 > C)
 > D)
 > E)
-> A
-> B
-> D
-> E
-> C
-> Testi_11Mat.qxp  19-05-2011  21:20  Page 6
-> 
-> Pag. 
-> Pag. 7
-> Kang 201
-> Kang 2011
+> A B D E C Testi_11Mat.qxp 19-05-2011 21:20 Page 6
+>
+> Page Page 7 Kang 201 Kang 2011
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q12|src_kangourou_2011_ecolier__Q12]]
 
 
 
@@ -555,19 +619,20 @@ How much did Sandro pay for ice cream and cake?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is Franco's number with the dice*
+*What is Franco's number with the dice?*
 
-> Anna, Bruno, Cecilia, Dario, Enrica and Franco roll a die (numbered from
-> 1 to 6) and get numbers all different from each other. Anna's number is twice
-> Bruno's and three times Cecilia's. Dario's number is four
-> times Enrica's. What is Franco's number?
+> Anna, Bruno, Cecilia, Dario, Enrica, and Franco roll a die (numbered from 1 to 6) and get numbers that are all different from one another. Anna's number is twice Bruno's number and three times Cecilia's number. Dario's number is four times Enrica's number. What is Franco's number?
 > A) 2
 > B) 3
 > C) 4
 > D) 5
 > E) 6
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q13|src_kangourou_2011_ecolier__Q13]]
 
 
 
@@ -598,11 +663,20 @@ How much did Sandro pay for ice cream and cake?
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many answers did Mr Rossi get wrong?
+*How many answers did Mr. Rossi get wrong?*
 
-> A TV quiz is based on the following rules. Each participant has an initial allocation of 10 points and must answer 10 questions: he earns one point for each correct answer he provides and loses one point for each wrong answer. After answering all the questions in the quiz, Mr. Rossi finds himself with 14 points. How many answers did he get wrong? A) 7 B) 4 C) 5 D) 3 E) 6
+> A television quiz is based on the following rules. Each participant starts with 10 points and must answer 10 questions: they gain one point for each correct answer they give and lose one point for each incorrect answer. After answering all the questions on the quiz, Mr. Rossi finds himself with 14 points. How many answers did he get wrong?
+> A) 7
+> B) 4
+> C) 5
+> D) 3
+> E) 6
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q14|src_kangourou_2011_ecolier__Q14]]
 
 
 
@@ -632,13 +706,18 @@ How many answers did Mr Rossi get wrong?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Which grid could Emanuela not have written
+*Which grid couldn't Emanuela have written?*
 
 ![[src_kangourou_2011_ecolier__prob15.png]]
 
-> Emanuela enjoys writing her name on some grids like the ones in the answers. Enter a letter in each box in the order following this rule: it can start from any box but, if a letter is written in a box, the next one must be written in a box that has a side or a vertex in common with the previous one. Which of these grids could not have been filled by Emanuela?
+> Emanuela enjoys writing her own name on certain grids like those shown in the answers. In order, she puts one letter in each cell following this rule: she can start in any cell, but once a letter has been written in a cell, the next one must be written in a cell that shares a side or a vertex with the previous one. Which of these grids could not have been filled by Emanuela?
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q15|src_kangourou_2011_ecolier__Q15]]
 
 
 
@@ -668,11 +747,21 @@ Which grid could Emanuela not have written
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many people were invited to the party with two cakes?
+*How many were the guests at the party with two cakes?*
 
-> Two cakes were brought to a party. Each was divided into four parts and three pieces were obtained from each of these parts. Each guest had exactly one slice and three slices were left over. How many guests were there? A) 24 B) 21 C) 18 D) 27 E) 13 Questions from N. 17 to N. 24 are worth five points each.
+> At a party, two cakes were brought. Each cake was divided into four parts, and from each of these parts, three slices were obtained. Each guest got exactly one slice, and three slices were left over. How many guests were there?
+> A) 24
+> B) 21
+> C) 18
+> D) 27
+> E) 13
+> Questions 17 to 24 are each worth 5 points.
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q16|src_kangourou_2011_ecolier__Q16]]
 
 
 
@@ -753,9 +842,26 @@ How many people were invited to the party with two cakes?
 
 *Initial order of the four friends on the bench*
 
-> Anna, Bice, Carla and Daria are four friends. They walk to a bench and sit in a certain order. After 10 minutes, Anna switches places with Carla; after another 10 minutes, Carla switches places with Daria. At this point, the four friends are seated, from left to right, in alphabetical order of their names. What was the order, from left to right, in which they sat initially? A) Anna, Bice, Carla, Daria B) Anna, Carla, Daria, Bice C) Carla, Bice, Daria, Anna D) Bice, Anna, Carla, Daria E) Daria, Anna, Bice, Carla and M A A L N E U N N U E E E A L A L E E E E M N A E E A M L E A U N A A A B) C) D) E) E E M A N L A E E E U_11Mat.qxp 19-05-2011 21:20 Page 7
+> Anna, Bice, Carla, and Daria are four friends. While walking, they come to a bench and sit down in a certain order. After 10 minutes, Anna swaps places with Carla; after another 10 minutes, Carla swaps places with Daria. At this point, the four friends are sitting, from left to right, in the alphabetical order of their names. What was the order, from left to right, in which they had initially sat down?
+> A) Anna, Bice, Carla, Daria
+> B) Anna, Carla, Daria, Bice
+> C) Carla, Bice, Daria, Anna
+> D) Bice, Anna, Carla, Daria
+> E) Daria, Anna, Bice, Carla
+> E M A A L N E U A N M U E E L A A L E E U M N A E A M L E A U N
+> A)
+> B)
+> C)
+> D)
+> E)
+> E M A N L A E U Testi_11Mat.qxp 19-05-2011 21:20 Page 7
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q17|src_kangourou_2011_ecolier__Q17]]
 
 
 
@@ -789,13 +895,24 @@ How many people were invited to the party with two cakes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times the four digits of the watch are equal*
+*How many times are the four digits on the clock the same?*
 
 ![[src_kangourou_2011_ecolier__prob18.png]]
 
-> A digital clock shows the time from 00:00 to 23:59, with four digits, as shown in the figure. How many times in a day do the four digits shown are all the same? A) 1 B) 24 C) 3 D) 5 E) 12
+> A digital clock displays the time from 00:00 to 23:59,
+> With four digits, as in the figure. How many times a day does it happen that all four digits shown are the same?
+> A) 1
+> B) 24
+> C) 3
+> D) 5
+> E) 12
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q18|src_kangourou_2011_ecolier__Q18]]
 
 
 
@@ -822,13 +939,18 @@ How many people were invited to the party with two cakes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What the construction of dice looks like from behind*
+*What does the nut assembly look like when viewed from behind?*
 
 ![[src_kangourou_2011_ecolier__prob19.png]]
 
-> Four identical dice have been placed together to form the structure you see in the figure to the right. The sum of the points on two opposite sides of each die is always 7. What does the construction look like from behind?
+> Four identical dice were placed next to each other so as to
+> Form the structure you see in the figure on the right. The sum of the dots on two opposite faces of each die is always 7. What does the structure look like when viewed from behind?
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q19|src_kangourou_2011_ecolier__Q19]]
 
 
 
@@ -861,13 +983,23 @@ How many people were invited to the party with two cakes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers with the three cards 9,9,8*
+*How many three-digit numbers can be formed with the three cards 9, 9, 8?*
 
 ![[src_kangourou_2011_ecolier__prob20.png]]
 
-> You have the three cards you see in the figure. So by combining them, you can form different three-digit numbers, like 989 or 986. How many different numbers can you form? A) 4 B) 6 C) 8 D) 9 E) 12
+> You have the three cards shown in the figure. By putting them together, you can form several three-digit numbers, such as 989 or 986. How many different numbers can you form?
+> A) 4
+> B) 6
+> C) 8
+> D) 9
+> E) 12
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q20|src_kangourou_2011_ecolier__Q20]]
 
 
 
@@ -917,38 +1049,31 @@ How many people were invited to the party with two cakes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which piece is certainly not used in the mosaic*
+*Which piece was certainly not used in the mosaic?*
 
 ![[src_kangourou_2011_ecolier__prob21.png]]
 
-> Stefano has assembled the mosaic shown in the figure on the right
-> by joining identical pieces, without overlapping or even partially overlapping.
-> Which of the following pieces was certainly not used?
+> Stefano assembled the mosaic you see in the figure on the right by placing pieces that were all identical to one another side by side, without overlapping them even in part. Which of the following pieces did he certainly not use? Page Page 8 Kang 201 Kang 2011
+> A)
+> B)
+> C)
+> D)
+> E)
+> 9 9 8
+> A)
+> B)
+> C)
+> D)
+> E)
+> Testi_11Mat.qxp 19-05-2011 21:20 Page 8
 >
-> Page
-> Page 8
-> Kang 2011
-> Kang 20111
-> A)
-> B)
-> C)
-> D)
-> E)
-> 9
-> 9
-> 8
-> A)
-> B)
-> C)
-> D)
-> E)
-> Testi_11Mat.qxp  19-05-2011  21:20  Page 8
-> 
-> Page
-> Page 9
-> Kangaroo 2011
+> Page. Page 9 Kang 201 Kang 2011
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q21|src_kangourou_2011_ecolier__Q21]]
 
 
 
@@ -984,13 +1109,24 @@ How many people were invited to the party with two cakes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pieces of cheese did the mouse take in the maze*
+*How many pieces of cheese did the mouse take in the maze?*
 
 ![[src_kangourou_2011_ecolier__prob22.png]]
 
-> In every square cell of the maze you see in the figure, there's a piece of cheese. The mouse Luigi entered the maze from the opening indicated by the upper left arrow and came out of the one indicated by the lower right arrow after taking the largest number of cheese pieces he could take by passing through each cell at most once. How many pieces of cheese did you have? A) 17 B) 33 C) 37 D) 41 E) 49
+> In each square cell of the maze you see in the figure
+> There's a piece of cheese. The mouse Luigi entered the maze through the opening indicated by the arrow in the upper left corner and exited through the one indicated by the arrow in the lower right corner after collecting the greatest number of pieces of cheese he could collect while passing through each cell at most once. How many pieces of cheese did he collect?
+> A) 17
+> B) 33
+> C) 37
+> D) 41
+> E) 49
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q22|src_kangourou_2011_ecolier__Q22]]
 
 
 
@@ -1021,11 +1157,21 @@ How many people were invited to the party with two cakes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spectators certainly Italian male and vegetarian*
+*Spectators who are certainly Italian, male, and vegetarian*
 
-> In a theater there are 100 spectators: 50 of them are Italians, 60 are men, 90 are vegetarians. How many spectators in that theater can you be sure of being Italian, male and vegetarian at the same time? A) 0 B) 1 C) 10 D) 40 E) 50
+> In a theater, there are 100 spectators: 50 of them are Italian, 60 are male, and 90 are vegetarian. How many of the spectators present in that theater can we be certain are at the same time Italian, male, and vegetarian?
+> A) 0
+> B) 1
+> C) 10
+> D) 40
+> E) 50
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q23|src_kangourou_2011_ecolier__Q23]]
 
 
 
@@ -1066,21 +1212,24 @@ How many people were invited to the party with two cakes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many hexagons is the fifth figure made of?*
+*How many hexagons does the fifth figure consist of?*
 
 ![[src_kangourou_2011_ecolier__prob24.png]]
 
-> Using identical hexagonal tiles, Silvia has built five figures. Here we show the first three, and you are told that Silvia constructed the fourth and fifth figures following the same rule used to build the ones you see (i.e., each figure is built by "surrounding hexagons" around the previous figure).
-> How many hexagons form the fifth figure?
-> (A) 37
-> (B) 49
-> (C) 57
-> (D) 61
-> (E) 64
-> 
->  
-> 1
-> 2011
-> Category Écolier
+> Using hexagonal tiles that are all identical, Silvia built five figures. Here we show you the first three, telling you that Silvia built the fourth and fifth according to the same rule she used to build the ones you see (that is, each figure is built by "surrounding the previous figure with hexagons"). How many hexagons make up the fifth figure?
+> A) 37
+> B) 49
+> C) 57
+> D) 61
+> E) 64
+> Testi_11Mat.qxp 19-05-2011 21:20 Page 9
+>
+>
+> 1 2011 Écolier Category
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_ecolier#q24|src_kangourou_2011_ecolier__Q24]]

@@ -30,9 +30,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le funzioni f:R->R che soddisfano una determinata equazione funzionale.*
+*Trovare tutte le funzioni f:R->R che soddisfano una data equazione funzionale.*
 
-> Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano $$(x - y)f(x + y) - (x + y)f(x - y) = 4xy(x^2 - y^2).$$
+> Trovare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano
+> $$(x - y)f(x + y) - (x + y)f(x - y) = 4xy(x^2 - y^2).$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1990_r3#q01|src_pol_1990_r3__Q01]]
 
 
 
@@ -56,9 +64,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che la somma ciclica delle frazioni in numeri positivi è al massimo n-1.*
+*Dimostrare che la somma ciclica di frazioni di numeri positivi è al più n-1.*
 
-> Lasciate che $x_1, x_2, \ldots, x_n$ siano numeri positivi. Provare che $$\frac{x_1^2}{x_1^2 + x_2 x_3} + \frac{x_2^2}{x_2^2 + x_3 x_4} + \cdots + \frac{x_{n-1}^2}{x_{n-1}^2 + x_n x_1} + \frac{x_n^2}{x_n^2 + x_1 x_2} \le n - 1.$$
+> Siano $x_1, x_2, \ldots, x_n$ numeri positivi. Dimostrare che
+> $$\frac{x_1^2}{x_1^2 + x_2 x_3} + \frac{x_2^2}{x_2^2 + x_3 x_4} + \cdots + \frac{x_{n-1}^2}{x_{n-1}^2 + x_n x_1} + \frac{x_n^2}{x_n^2 + x_1 x_2} \le n - 1.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1990_r3#q02|src_pol_1990_r3__Q02]]
 
 
 
@@ -85,13 +101,20 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-In un torneo di round-robin di n giocatori, provare una delle due conclusioni strutturali sui risultati.
+*In un torneo all'italiana con n giocatori, dimostra una delle due conclusioni strutturali sui risultati.*
 
-> In un torneo, due dei giocatori $n$ hanno giocato esattamente una partita (senza pareggio). Prove che sia possibile
-> 
-> (i) dividere la lega in due gruppi $A$ e $B$ in modo che tutti in $A$ sconfiggano tutti in $B$; o
-> 
-> (ii) organizzare tutti i giocatori in una catena $x_1, x_2, \ldots, x_n, x_1$ in modo tale che ciascuno dei giocatori sconfigga il suo successore.
+> In un torneo, ogni coppia qualsiasi dei $n$ giocatori ha disputato esattamente una partita (nessun pareggio). Dimostrare che è possibile o
+>
+> (i) suddividere il campionato in due gironi $A$ e $B$ in modo che tutti i membri di $A$ abbiano sconfitto tutti i membri di $B$; oppure
+>
+> (ii) disporre tutti i giocatori in una catena $x_1, x_2, \ldots, x_n, x_1$ in modo tale che ciascun giocatore abbia sconfitto il proprio successore.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1990_r3#q03|src_pol_1990_r3__Q03]]
 
 
 
@@ -114,9 +137,16 @@ In un torneo di round-robin di n giocatori, provare una delle due conclusioni st
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un triangolo con tutti i lati almeno 1 è inscritto in un quadrato unitario; dimostrare che il centro del quadrato si trova all'interno o sul triangolo.*
+*Un triangolo con tutti i lati di lunghezza almeno 1 è inscritto in un quadrato di lato 1; dimostrare che il centro del quadrato giace all'interno del triangolo o sul suo contorno.*
 
-> Un triangolo il cui lunghezza non è inferiore a 1 è inciso in un quadrato di lunghezza laterale 1. Prova che il centro del quadrato si trova all'interno del triangolo o al suo confine.
+> Un triangolo, tutti i cui lati hanno lunghezza non inferiore a 1, è inscritto in un quadrato di lato 1. Dimostrare che il centro del quadrato giace all'interno del triangolo o sul suo bordo.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1990_r3#q04|src_pol_1990_r3__Q04]]
 
 
 
@@ -139,9 +169,16 @@ In un torneo di round-robin di n giocatori, provare una delle due conclusioni st
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per una sequenza di interi positivi con n/a_n -> 0, dimostrare l'esistenza di k con almeno 1990 quadrati perfetti tra somme parziali consecutive.*
+*Per una successione di numeri interi positivi tale che n/a_n -> 0, dimostrare l'esistenza di un k per cui vi siano almeno 1990 quadrati perfetti tra somme parziali consecutive.*
 
-> Supponiamo che $(a_n)$ sia una sequenza di integri positivi come $\lim_{n \to \infty} \frac{n}{a_n} = 0$. Dimostrare l'esistenza di $k$ in modo tale che ci siano almeno 1990 quadrati perfetti tra $a_1 + a_2 + \cdots + a_k$ e $a_1 + a_2 + \cdots + a_{k+1}$.
+> Supponiamo che $(a_n)$ sia una successione di interi positivi tale che $\lim_{n \to \infty} \frac{n}{a_n} = 0$. Dimostrare che esiste $k$ tale che vi siano almeno 1990 quadrati perfetti tra $a_1 + a_2 + \cdots + a_k$ e $a_1 + a_2 + \cdots + a_{k+1}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1990_r3#q05|src_pol_1990_r3__Q05]]
 
 
 
@@ -164,6 +201,13 @@ In un torneo di round-robin di n giocatori, provare una delle due conclusioni st
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la divisibilità per 3 di una somma alternata di coefficienti binomiali per numeri interi n>2.*
+*Dimostrare la divisibilità per 3 di una somma alternata di coefficienti binomiali per interi n>2.*
 
-> Prova che per tutti gli integri $n > 2$, $\sum_{k=0}^{\lfloor n/3 \rfloor} (-1)^k \binom{n}{3k}$ è divisibile per 3.
+> Dimostrare che, per tutti gli interi $n > 2$, $\sum_{k=0}^{\lfloor n/3 \rfloor} (-1)^k \binom{n}{3k}$ è divisibile per 3.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1990_r3#q06|src_pol_1990_r3__Q06]]

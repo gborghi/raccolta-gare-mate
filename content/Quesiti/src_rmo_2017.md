@@ -29,9 +29,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Construire un CD di segmento di linea utilizzando una bussola/regola con angolo e rapporto dati*
+*Costruisci il segmento di retta CD utilizzando compasso e riga, dato l'angolo e il rapporto*
 
-> Il punto $AOB$ deve essere un angolo determinato inferiore a $180^\circ$ e il punto $P$ deve essere un punto interno della regione angolare determinata da $\angle AOB$. Mostra, con la prova, come costruire, utilizzando solo la regola e le buste, un segmento di linea $CD$ che passa attraverso $P$ in modo tale che $C$ si trova sul raggio $OA$ e $D$ si trova sul raggio $OB$, e $CP : PD = 1 : 2$.
+> Sia $AOB$ un angolo dato minore di $180^\circ$ e sia $P$ un punto interno della regione angolare determinata da $\angle AOB$. Dimostrando, mostra come costruire, usando solo riga e compasso, un segmento di retta $CD$ che passi per $P$ in modo che $C$ giace sul semiraggio $OA$ e $D$ giace sul semiraggio $OB$, e $CP : PD = 1 : 2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2017#q01|src_rmo_2017__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra che la somma polinomica non ha soluzioni integrali in a, b*
+*Mostrare che la somma polinomiale non ammette soluzioni intere in a, b*
 
-> Mostrare che $$a^2 + (a+1)^2 + (a+2)^2 + (a+3)^2 + (a+4)^2 + (a+5)^2 + (a+6)^2 = b^2 + (b+1)^2$$ non ha soluzioni nei numeri interi $a$, $b$.
+> Show that $$a^2 + (a+1)^2 + (a+2)^2 + (a+3)^2 + (a+4)^2 + (a+5)^2 + (a+6)^2 = b^2 + (b+1)^2$$ has no solutions in integers $a$, $b$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2017#q02|src_rmo_2017__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le radici reali della composizione P(Q(x)) = 0*
+*Trovare tutte le radici reali della composizione P(Q(x)) = 0*
 
-> Che $P(x) = x^2 + \frac{1}{2}x + b$ e $Q(x) = x^2 + cx + d$ siano due polinomi con coefficienti reali tali che $P(x)Q(x) = Q(P(x))$ per tutti i $x$ reali. Trova tutte le radici reali di $P(Q(x)) = 0$.
+> Siano $P(x) = x^2 + \frac{1}{2}x + b$ e $Q(x) = x^2 + cx + d$ due polinomi a coefficienti reali tali che $P(x)Q(x) = Q(P(x))$ per ogni $x$ reale. Determinare tutte le radici reali di $P(Q(x)) = 0$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2017#q03|src_rmo_2017__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di colori per colori n^2 quadrati unitari con condizione di centro distinta*
+*Numero minimo di colori per colorare n^2 quadrati unitari con la condizione dei centri distinti*
 
-> Considerare i quadrati di unità $n^2$ nel piano $xy$ centrato al punto $(i, j)$ con coordinate interi, $1 \le i \le n$, $1 \le j \le n$. È necessario colorare ogni quadrato unitario utilizzando uno dei colori $k$ in modo che due quadrati con centri a distanza pari a $\sqrt{5}$ l'uno dall'altro abbiano colori distinti. Qual è il minimo $k$ possibile?
+> Si considerino $n^2$ quadrati unitari nel piano $xy$, centrati nel punto $(i, j)$ avente coordinate intere $1 \le i \le n$, $1 \le j \le n$. Si deve colorare ciascun quadrato unitario usando uno dei $k$ colori in modo che due quadrati qualsiasi i cui centri siano distanti $\sqrt{5}$ l'uno dall'altro abbiano colori diversi. Qual è il minimo possibile di $k$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2017#q04|src_rmo_2017__Q04]]
 
 
 
@@ -129,9 +157,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo tangente a AB, internamente a due cerchi; prova che XY è un diametro*
+*Cerchio tangente ad AB, tangente internamente a due cerchi; dimostrare che XY è un diametro*
 
-> Si deve $\Omega$ essere un cerchio con un accordo $AB$ che non è diametro. Il $\Gamma_1$ deve essere un cerchio su un lato di $AB$ tale da essere tangente a $AB$ a $C$ e tangente internamente a $\Omega$ a $D$. Allo stesso modo, $\Gamma_2$ sia un cerchio dall'altro lato di $AB$ tale da essere tangente a $AB$ a $E$ e internamente tangente a $\Omega$ a $F$. Supponiamo che la linea $DC$ si incroci $\Omega$ in un punto $X \ne D$ e la linea $FE$ si incroci $\Omega$ in un punto $Y \ne F$. Provare che $XY$ ha un diametro di $\Omega$.
+> Sia $\Omega$ un cerchio con una corda $AB$ che non è un diametro. Sia $\Gamma_1$ un cerchio situato da un lato di $AB$ tale che sia tangente a $AB$ in $C$ e tangente internamente a $\Omega$ in $D$. Analogamente, sia $\Gamma_2$ un cerchio situato dall'altro lato di $AB$ tale che sia tangente a $AB$ in $E$ e tangente internamente a $\Omega$ in $F$. Si supponga che la retta $DC$ intersechi $\Omega$ in un punto $X \ne D$ e che la retta $FE$ intersechi $\Omega$ in un punto $Y \ne F$. Dimostrare che $XY$ è un diametro di $\Omega$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2017#q05|src_rmo_2017__Q05]]
 
 
 
@@ -154,6 +189,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimprovare le disuguaglianze cicliche per reali superiori a 1*
+*Dimostrazioni della disuguaglianza ciclica per numeri reali maggiori di 1*
 
-> $x, y, z$ siano numeri reali, ognuno più grande di $1$. Provare che $$\frac{x+1}{y+1} + \frac{y+1}{z+1} + \frac{z+1}{x+1} \le \frac{x-1}{y-1} + \frac{y-1}{z-1} + \frac{z-1}{x-1}.$$
+> Let $x, y, z$ be real numbers, each greater than $1$. Prove that $$\frac{x+1}{y+1} + \frac{y+1}{z+1} + \frac{z+1}{x+1} \le \frac{x-1}{y-1} + \frac{y-1}{z-1} + \frac{z-1}{x-1}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2017#q06|src_rmo_2017__Q06]]

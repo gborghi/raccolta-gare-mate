@@ -38,17 +38,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of the smallest perfect square 'modern' (containing 2006)*
+*Digits of the smallest positive modern perfect square*
 
-> A number is said to be modern if, on base 10, it can be expressed by containing a few  of decimal scripts from 2006: for example 20062006 is modern, while 20200606 and 2006200 are not. How many digits does the smallest perfect square of a positive modern have?
+> A number is called "modern" if, in base 10, it can be written by concatenating "a few" decimal representations of 2006: for example 200620062006 is modern, while 20200606 and 2006200 are not. How many digits does the smallest positive modern perfect square have?
 >
 > - **(A)** 32
 > - **(B)** 64
 > - **(C)** 100
 > - **(D)** 1000
-> - **(E)** There's no such number.
+> - **(E)** no such number exists.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2006_2livello#q01|src_archimede_2006_2livello__Q01]]
 
 
 
@@ -83,9 +87,14 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many claims about dogs/cats can be false together*
+*How many statements about dog/cat can be false together*
 
-> Consider the following four statements: Manuela has a dog and a cat. Manuela has no dog or cat. If Manuela has a dog, then she has a cat. Manuela doesn't have a dog, but she has a cat. How many of them can be fake at the same time?
+> Consider the following four statements:
+> Manuela has a dog and a cat.
+> Manuela has neither a dog nor a cat.
+> If Manuela has a dog, then she also has a cat.
+> Manuela does not have a dog, but has a cat.
+> What is the maximum number of them that can be false at the same time?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -93,7 +102,11 @@ level: 2 livello
 > - **(D)** 3
 > - **(E)** 4.
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2006_2livello#q02|src_archimede_2006_2livello__Q02]]
 
 
 
@@ -122,9 +135,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expression equivalent to (x+y+z)^3 - x^3 - y^3 - z^3*
+*Equivalent expression to (x+y+z)^3 - x^3 - y^3 - z^3*
 
-> Which of the following is equivalent to (x + y + z) 3 −x3 −y3 −z3?
+> Which of the following expressions is equivalent to (x + y + z)3 −x3 −y3 −z3?
 >
 > - **(A)** 3x2(y + z) + 3y2(x + z) + 3z2(x + y)
 > - **(B)** 3x(y + z)2 + 3y(x + z)2 + 3z(x + y)2
@@ -132,7 +145,10 @@ level: 2 livello
 > - **(D)** 3x(y2 + z2) + 3y(x2 + z2) + 3z(x2 + y2)
 > - **(E)** 3xy(1 −z) + 3xz(1 −y) + 3yz(1 −x).
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2006_2livello#q03|src_archimede_2006_2livello__Q03]]
 
 
 
@@ -166,17 +182,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many knights among Albert, Bruno, Charles
+*Number of knights among Alberto, Bruno and Carlo*
 
-> The inhabitants of an island are either crooks or knights: the knights always tell the truth, the crooks always lie. One night at the bar, Alberto says: Bruno is a knight; Bruno says:. . . . . . All three riders (at that moment a truck passes and you don't understand if Bruno saidWe are all. . . We're not all of us. . . ); Charles says: Bruno said that we are not all three knights. How many of them are knights?
+> The inhabitants of an island are either knaves or knights: knights always tell the truth, knaves always lie. One evening at the bar, Alberto says: "Bruno is a knight"; Bruno says: ". . . . . . all three knights" (at that moment a truck passes and one cannot tell whether Bruno said "We are all. . . " or "We are not all. . . "); Carlo says: "Bruno said that we are not all three knights". How many of them are knights?
 >
 > - **(A)** 0
 > - **(B)** 1
 > - **(C)** 2
 > - **(D)** 3
-> - **(E)** There's no way to tell.
+> - **(E)** it cannot be determined.
 
-**Answer:** A
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2006_2livello#q04|src_archimede_2006_2livello__Q04]]
 
 
 
@@ -207,17 +227,20 @@ How many knights among Albert, Bruno, Charles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2005 o 2006*
+*Tiling with 2005 or 2006 equilateral tiles*
 
-> Silvia has 2006 identical equilateral triangle-shaped tiles and wants to put them all on the table without overlaps and so that each has exactly two sides in common with two other tiles. Can he succeed in his intent? Could he have done it last year, when he had 2005 tickets?
+> Silvia has 2006 identical tiles in the shape of an equilateral triangle and wants to place them all on the table without overlapping, so that each has exactly two sides in common with two other tiles. Can she succeed? Could she have succeeded last year, when she had 2005 tiles?
 >
-> - **(A)** It's impossible in both cases.
-> - **(B)** It's possible with 2005 cards, but not 2006.
-> - **(C)** It's possible with 2006 cards, but not with 2005.
-> - **(D)** In these two cases it is possible, but there is at least one number greater than 12 for which it is not possible.
-> - **(E)** It is possible for all card numbers greater than 12.
+> - **(A)** it is impossible in both cases.
+> - **(B)** it is possible with 2005 tiles, but not with 2006.
+> - **(C)** it is possible with 2006 tiles, but not with 2005.
+> - **(D)** in these two cases it is possible, but among the numbers greater than 12 there is at least one for which it is not possible.
+> - **(E)** it is possible for every number of tiles greater than 12.
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2006_2livello#q05|src_archimede_2006_2livello__Q05]]
 
 
 
@@ -252,9 +275,9 @@ How many knights among Albert, Bruno, Charles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of triangles in the F10 polygon of the fastener*
+*Number of triangles in the F10 polygon of the tiling*
 
-> Consider the plane marked with equilateral triangles, and whether F0 is any one of them. A sequence of increasingly larger figures is constructed in this way: F1 is the polygon obtained by adding to F0 the frame formed by all the triangles of the fastening that touch F0 (for one side or for one vertex), F2 is the polygon obtained by adding to F1 the frame formed by the triangles that touch F1, and similarly the subsequent ones up to F10 are constructed. How many triangles of the axle is this last polygon composed of?
+> Consider the plane tiled with equilateral triangles, and let F0 be any one of them. A sequence of ever larger figures is constructed in this way: F1 is the polygon obtained by adding to F0 the border made up of all the triangles of the tiling that touch F0 (along a side or at a vertex), F2 is the polygon obtained by adding to F1 the border made up of the triangles that touch F1, and similarly the successive figures are constructed up to F10. From how many triangles of the tiling is this last polygon composed?
 >
 > - **(A)** 541
 > - **(B)** 661
@@ -262,7 +285,11 @@ How many knights among Albert, Bruno, Charles
 > - **(D)** 721
 > - **(E)** 841.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2006_2livello#q06|src_archimede_2006_2livello__Q06]]
 
 
 
@@ -318,33 +345,11 @@ How many knights among Albert, Bruno, Charles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Intersection area of two XY data circles and angle 120°*
+*Area of the intersection of two equal circles meeting at 120 degrees*
 
 ![[src_archimede_2006_2livello__prob7.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.2]
-  \coordinate (O) at (-0.866,0);
-  \coordinate (O2) at (0.866,0);
-  \coordinate (X) at (0,1.5);
-  \coordinate (Y) at (0,-1.5);
-  \coordinate (P) at (0.703,0.732);
-  \draw (O) circle (1.732);
-  \draw (O2) circle (1.732);
-  \draw (X)--(O)--(Y);
-  \draw (X)--(Y);
-  \draw[dashed] (X)--(P)--(Y);
-  \fill (O) circle (1.2pt); \fill (X) circle (1.2pt); \fill (Y) circle (1.2pt); \fill (P) circle (1.2pt);
-  \node[above] at (X) {$X$};
-  \node[below] at (Y) {$Y$};
-  \node[left] at (O) {$O$};
-  \node[above right] at (P) {$P$};
-\end{tikzpicture}
-\end{document}
-```
-
-> Two circles of the same radius intersect in X and Y . P is a point on an XY arc of one inner circumference to the other. Knowing that the XY segment is long 3 and that the angle $\widehat{XPY}$ measures 120°, what is the area of the intersection between the two circles?
+> Two circles of the same radius meet at X and Y. Let P be a point on an arc XY of one circle that lies inside the other. Given that the segment XY has length 3 and that the angle $\widehat{XPY}$ measures 120°, what is the area of the intersection of the two discs?
 >
 > - **(A)** 2(π −1 4 √ 3)
 > - **(B)** 3(π − √ 3)
@@ -352,7 +357,12 @@ How many knights among Albert, Bruno, Charles
 > - **(D)** 2(π −2 3 √ 3)
 > - **(E)** 2(π −3 4 √ 3).
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2006_2livello#q07|src_archimede_2006_2livello__Q07]]
 
 
 
@@ -386,19 +396,21 @@ How many knights among Albert, Bruno, Charles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length AA' from product similar quadrilateral areas*
+*Length of AA′ from the product of areas of similar quadrilaterals*
 
-![[src_archimede_2006_2livello__prob8.png]]
-
-> Either ABC is a triangle and A′ is the symmetric of A with respect to BC; either DAA′ is similar to ABC and D′ is the symmetric of D with respect to AA′. Knowing that the product of the quadrilateral areas ABA′C and ADA′D′ is 16, it can be said that AA′ . . .
+> Let ABC be a triangle and let A′ be the reflection of A across BC; then let DAA′ be similar to ABC and let D′ be the reflection of D across AA′. Given that the product of the areas of the quadrilaterals ABA′C and ADA′D′ is 16, one can say that AA′ . . .
 >
-> - **(A)** è 1
-> - **(B)** è 2 4√ 2
-> - **(C)** è 2
-> - **(D)** è 2 √ 2
-> - **(E)** It is not solely determined by the data. (Note: the similarity between DAA′ and ABC should be understood in an orderly manner: DA/AB = AA′/BC = A′D/CA)
+> - **(A)** is 1
+> - **(B)** is 2 4√ 2
+> - **(C)** is 2
+> - **(D)** is 2 √ 2
+> - **(E)** is not uniquely determined by the data. (Note: the similarity between DAA′ and ABC is to be understood in that order: DA/AB = AA′/BC = A′D/CA)
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2006_2livello#q08|src_archimede_2006_2livello__Q08]]
 
 
 
@@ -433,9 +445,14 @@ How many knights among Albert, Bruno, Charles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of square roots to drop below 2*
+*Minimum number of square roots to get below 2*
 
-> How many square root symbols, as a minimum, must appear in the expression q · · p√ 123.456.789 in order for the result to be less than 2?
+> How many square-root symbols, at minimum, must appear in the expression
+> q
+> ·
+> p√
+> 123.456.789
+> so that the result is less than 2?
 >
 > - **(A)** 5
 > - **(B)** 6
@@ -443,7 +460,11 @@ How many knights among Albert, Bruno, Charles
 > - **(D)** 8
 > - **(E)** 9.
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2006_2livello#q09|src_archimede_2006_2livello__Q09]]
 
 
 
@@ -481,17 +502,29 @@ How many knights among Albert, Bruno, Charles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubric root value of 2+√5 plus cubic root of 2-√5*
+*Value of the cube root of 2+√5 plus the cube root of 2-√5*
 
-> What is 3p 2 + √ 5 + 3p 2 − √ 5 ?
+> What is the value of
+> 3p
+> 2 +
+> √
+> 5 +
+> 3p
+> 2 −
+> √
+> 5 ?
 >
 > - **(A)** 3p 9 −4 √ 5
 > - **(B)** 1
 > - **(C)** 3 2
 > - **(D)** 3√ 4
-> - **(E)** 2 3√ 2. Problems with a numerical answer  8 points
+> - **(E)** 2 3√ 2. Numerical-answer problems – 8 points
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2006_2livello#q10|src_archimede_2006_2livello__Q10]]
 
 
 
@@ -517,11 +550,15 @@ How many knights among Albert, Bruno, Charles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many "sacred" numbers are written as equal in base 10 and base 19*
+*How many 'sacred' numbers are written the same in base 10 and 19*
 
-> The members of a tribe have ten fingers on their hands and nine on their feet and so they count indifferently on a base of 10 or 19. In their mathematical culture, a positive integer is called sac if in both bases it is written with the same two digits (included between 1 and 9). How many are the sacred numbers?
+> Members of a tribe have ten fingers on their hands and nine on their feet and therefore count indifferently in base 10 or 19. In their mathematical culture, a positive integer is called "sacred" if in both bases it is written with the same two digits (between 1 and 9). How many are the sacred numbers?
 
-**Answer:** 4
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2006_2livello#q11|src_archimede_2006_2livello__Q11]]
 
 
 
@@ -551,11 +588,15 @@ How many knights among Albert, Bruno, Charles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 17 digits (1 and 2) compatible with column max/min*
+*17-digit numbers (1 and 2) compatible with column max/min*
 
-> On the board is written a 17-digit number composed of only 1 and 2. Paul enters and rewrites the number in reverse sequence, aligning it under the preceding one. Gianni enters and writes under each column the maximum number that appears in that column. Alberto enters and writes under each column the minimum number that appears in that column, then deletes the first two rows. Carla comes in and finds the numbers 12212212221221221 and 1121111111211 written on it and is explained what Paolo, Gianni, and Alberto have done. How many different numbers could be written on the board as the first number?
+> On the blackboard there is written a 17-digit number composed solely of 1s and 2s. Paolo enters and rewrites the number in reverse order, aligning it under the previous one. Gianni enters and writes under each column the digit that appears as the maximum in that column. Alberto enters and writes under each column the digit that appears as the minimum in that column, then erases the first two rows. Carla enters and finds written the numbers 12212212221221221 and 11211111211111211, and is told what Paolo, Gianni and Alberto did. How many different numbers could have been written on the blackboard as the first number?
 
-**Answer:** 16
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2006_2livello#q12|src_archimede_2006_2livello__Q12]]
 
 
 
@@ -583,13 +624,15 @@ How many knights among Albert, Bruno, Charles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Produced areas ABP triangle and quadrilateral ACPD in parallelogram*
+*Product of the areas of triangle ABP and quadrilateral ACPD in a parallelogram*
 
-![[src_archimede_2006_2livello__prob13.png]]
+> Let ABCD be a parallelogram. It is known that side AB measures 6, the angle $\widehat{BAD}$ measures 60° and the angle $\widehat{ADB}$ is right. Let P be the centroid of triangle ACD. Calculate the value of the product of the areas of triangle ABP and quadrilateral ACPD.
 
-> Let ABCD be a parallelogram. You know that the AB side measures 6, the angle $\widehat{BAD}$ measures 60° and the angle $\widehat{ADB}$ is straight. Let P be the center of the ACD triangle. Calculate the product value of the areas of the triangle ABP and the quadrilateral ACPD.
 
-**Answer:** 27
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2006_2livello#q13|src_archimede_2006_2livello__Q13]]
 
 
 
@@ -618,11 +661,20 @@ How many knights among Albert, Bruno, Charles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle between non-planar spikes of square base pyramid*
+*Angle between non-coplanar edges of a square-based pyramid*
 
-> A square-base pyramid has the base side length √ 3 and all of the lateral faces are length √ 2. How many degrees does the angle between two rods not on the same side measure?
+> A square-based pyramid has a base side length of
+> √
+> 3 and all the edges of the lateral faces are
+> long
+> √
+> 2. How many degrees does the angle between two edges not belonging to the same lateral face measure?
 
-**Answer:** 120
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_trigonometria|Trigonometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2006_2livello#q14|src_archimede_2006_2livello__Q14]]
 
 
 
@@ -647,11 +699,15 @@ How many knights among Albert, Bruno, Charles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five-digit numbers without multiples of 12*
+*Five-digit numbers without zeros that are multiples of 12*
 
-> How many five-digit numbers (i.e. between 10000 and 99999) do not contain zeros and are multiples of 12?
+> How many five-digit numbers (that is, between 10000 and 99999) contain no zeros and are multiples of 12?
 
-**Answer:** 4374
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2006_2livello#q15|src_archimede_2006_2livello__Q15]]
 
 
 
@@ -680,11 +736,19 @@ How many knights among Albert, Bruno, Charles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integres with k odd digits and a coefficient n/5 similar*
+*Counting integers with k odd digits and quotient n/5 similar*
 
-> Display Exercise Whether k ≥1 is a natural number. Determine the number of positive integers n with the following properties as a function of k: (a) on base ten are written with k digits, all odd; (b) they are divisible by 5, and the quotient n 5, written on base ten, still has k digits, all odd.
+> PROOF EXERCISE
+> Let k ≥ 1 be a natural number. Determine, as a function of k, the number of positive integers n with
+> the following properties:
+> (a) in base ten they are written with k digits, all odd;
+> (b) they are divisible by 5, and the quotient n/5, written in base ten, still has k digits, all odd.
 
-**Answer:** 3^(k-1)
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_induzione|Induction]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2006_2livello#q16|src_archimede_2006_2livello__Q16]]
 
 
 
@@ -722,8 +786,14 @@ How many knights among Albert, Bruno, Charles
 
 *parallelism and parallelogram*
 
-![[src_archimede_2006_2livello__prob17.png]]
+> PROOF PROBLEM
+> Let ABCD be a quadrilateral; call E the intersection (distinct from A) of the circles with diameters AB and AC, and F the intersection (always distinct from A) of the circles with diameters AC and AD. Prove that:
+> (a) if E ⊥ AD = 90° then BC is parallel to AD
+> (b) if E ⊥ AD = $\widehat{FAB}$ = 90° then ABCD is a parallelogram
+> (c) if ABCD is a parallelogram then E ⊥ AD = F ⊥ AB = 90°.
 
-> Whether ABCD is a quadrilateral we call E the intersection (different from A) between the circumferences of diameters AB and AC and F the intersection (always distinct from A) between the circumferences of diameters AC and AD. Demonstrate that: (a) if E b AD = 90°then BC is parallel to AD (b) if E b AD = $\widehat{FAB}$ = 90°then ABCD is a parallelogram (c) if ABCD is a parallelogram then E b AD = F b AB = 90°.
 
-**Answer:** proof
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2006_2livello#q17|src_archimede_2006_2livello__Q17]]

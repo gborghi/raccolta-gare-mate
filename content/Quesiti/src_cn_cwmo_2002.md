@@ -31,9 +31,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i numeri interi positivi n che rendono un'espressione quadrata perfetta*
+*Trovare numeri interi positivi n tali che un'espressione di quarto grado diventi un quadrato perfetto*
 
-> Trova tutti gli integri positivi $n$ in modo tale che $$n^4 - 4n^2 + 22n + 18$$ sia un quadrato perfetto. (Possibile da Pan Chengbiao)
+> Trovare tutti gli interi positivi $n$ tali che
+> $$n^4 - 4n^2 + 22n + 18$$
+> sia un quadrato perfetto. (proposto da Pan Chengbiao)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2002#q01|src_cn_cwmo_2002__Q01]]
 
 
 
@@ -58,11 +67,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il parallelogramma formato dalle proiezioni a pedale si trova all'interno del triangolo*
+*Il parallelogramma formato dalle proiezioni pedali giace all'interno del triangolo*
 
-> Supponiamo che $O$ sia il centro circostante di un triangolo acuto $\triangle ABC$. $P$ è un punto all'interno di $\triangle AOB$, e $D$, $E$, $F$ sono le proiezioni di $P$ su tre lati $BC$, $CA$ e $AB$ di $\triangle ABC$ rispettivamente. Prova che un parallelo con $FE$ e $FD$ come lati adiacenti si trova all'interno di $\triangle ABC$. (Posizionato da Leng Ganpeng)
+> Sia $O$ il circocentro di un triangolo acuto $\triangle ABC$. $P$ è un punto interno a $\triangle AOB$, e $D$, $E$, $F$ sono le proiezioni di $P$ sui tre lati $BC$, $CA$, $AB$ di $\triangle ABC$, rispettivamente. Dimostrare che un parallelogramma avente $FE$ e $FD$ come lati adiacenti giace all'interno di $\triangle ABC$. (proposto da Leng Ganpeng)
 
 ![[src_cn_cwmo_2002__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2002#q02|src_cn_cwmo_2002__Q02]]
 
 
 
@@ -86,11 +102,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area minima di un quadrato le cui vertici sono radici di una quarticca con coefficienti interi*
+*Area minima di un quadrato i cui vertici sono le radici di un polinomio di quarto grado a coefficienti interi*
 
-> Considerate un quadrato sul piano complesso. I numeri complessi corrispondenti ai suoi quattro vertici sono le quattro radici di qualche equazione del quarto grado con un coefficiente sconosciuto e interi $x^4 + px^3 + qx^2 + rx + s = 0$. Trova il valore minimo dell'area di tale quadrato. (Posizionato da Xiong Jin)
+> Si consideri un quadrato nel piano complesso. I numeri complessi corrispondenti ai suoi quattro vertici sono le quattro radici di una certa equazione di quarto grado in un'incognita a coefficienti interi $x^4 + px^3 + qx^2 + rx + s = 0$. Determinare il valore minimo dell'area di un tale quadrato. (proposto da Xiong Jin)
 
-**Risposta:** 2
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2002#q03|src_cn_cwmo_2002__Q03]]
 
 
 
@@ -115,9 +136,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che due set di indici dissociati danno unioni uguali di sottoinsiemi*
+*Dimostrare che due insiemi di indici disgiunti danno unioni uguali di sottoinsiemi*
 
-> Supponiamo che $n$ sia un intero positivo e $A_1, A_2, \ldots, A_{n+1}$ siano $n+1$ sottosette non vuote del set $\{1, 2, \ldots, n\}$. Prova che esistono due sottinsiemi dissociati e non vuoti $\{i_1, i_2, \ldots, i_k\}$ e $\{j_1, j_2, \ldots, j_m\}$ in modo tale che $$A_{i_1} \cup A_{i_2} \cup \cdots \cup A_{i_k} = A_{j_1} \cup A_{j_2} \cup \cdots \cup A_{j_m}.$$ (posato da Pan Chengbiao)
+> Si supponga che $n$ sia un intero positivo, e che $A_1, A_2, \ldots, A_{n+1}$ siano $n+1$ sottoinsiemi non vuoti dell'insieme $\{1, 2, \ldots, n\}$. Dimostrare che esistono due sottoinsiemi disgiunti e non vuoti $\{i_1, i_2, \ldots, i_k\}$ e $\{j_1, j_2, \ldots, j_m\}$ tali che
+> $$A_{i_1} \cup A_{i_2} \cup \cdots \cup A_{i_k} = A_{j_1} \cup A_{j_2} \cup \cdots \cup A_{j_m}.$$
+> (proposto da Pan Chengbiao)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2002#q04|src_cn_cwmo_2002__Q04]]
 
 
 
@@ -142,11 +172,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza del segmento che unisce i circoncentri nel trapezoide è fissa*
+*La lunghezza del segmento che unisce i circocentri in un trapezio è fissa*
 
-> In un dato trapezio $ABCD$, $AD \parallel BC$. Supponiamo che $E$ sia un punto variabile su $AB$. $O_1$ e $O_2$ sono i circoncentri di $\triangle AED$ e $\triangle BEC$ rispettivamente. Provare che la lunghezza di $O_1O_2$ è un valore fisso. (Posizionato da Leng Ganpeng)
+> In un dato trapezio $ABCD$, $AD \parallel BC$. Si supponga che $E$ sia un punto variabile su $AB$. $O_1$ e $O_2$ sono i circocentri di $\triangle AED$ e $\triangle BEC$ rispettivamente. Dimostrare che la lunghezza di $O_1O_2$ è un valore fisso. (proposto da Leng Ganpeng)
 
 ![[src_cn_cwmo_2002__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2002#q05|src_cn_cwmo_2002__Q05]]
 
 
 
@@ -172,9 +209,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i n-tupli interi che soddisfano le condizioni di somma e somma quadrata*
+*Trovare tutte le n-uple intere che soddisfano le condizioni sulla somma e sulla somma dei quadrati*
 
-> Supponiamo che $n$ sia un dato numero intero positivo. Trova tutti i gruppi di numeri interi $(a_1, a_2, \ldots, a_n)$ che soddisfano le condizioni: (1) $a_1 + a_2 + \cdots + a_n \ge n^2$; (2) $a_1^2 + a_2^2 + \cdots + a_n^2 \le n^3 + 1$. (Possibile da Pan Chengbiao)
+> Si supponga che $n$ sia un intero positivo dato. Si determinino tutti i gruppi interi $(a_1, a_2, \ldots, a_n)$ che soddisfano le condizioni: (1) $a_1 + a_2 + \cdots + a_n \ge n^2$; (2) $a_1^2 + a_2^2 + \cdots + a_n^2 \le n^3 + 1$. (proposto da Pan Chengbiao)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2002#q06|src_cn_cwmo_2002__Q06]]
 
 
 
@@ -199,6 +243,13 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di tipo Fibonacci: dimostrare la ricorrenza e trovare coppie di divisibilità*
+*Successione di tipo Fibonacci: dimostra la ricorrenza e trova le coppie di divisibilità*
 
-> Supponiamo che $\alpha$, $\beta$ siano due radici dell'equazione $x^2 - x - 1 = 0$. Proviamo che per qualsiasi intero positivo $n$, abbiamo $a_{n+2} = a_{n+1} + a_n$. (2) Trovare tutti i numeri interi positivi $a$ e $b$, $a < b$, soddisfacendo che $b$ divide $a_n - 2a \cdot n^b$ per qualsiasi numero intero positivo $n$. (Posizionato da Li Shenghong)
+> Si supponga che $\alpha$, $\beta$ siano due radici dell'equazione $x^2 - x - 1 = 0$. Siano $a_n = \dfrac{\alpha^n - \beta^n}{\alpha - \beta}$, $n = 1, 2, \ldots$. (1) Si dimostri che, per ogni intero positivo $n$, si ha $a_{n+2} = a_{n+1} + a_n$. (2) Si determinino tutti gli interi positivi $a$ e $b$, $a < b$, tali che $b$ divida $a_n - 2a \cdot n^b$ per ogni intero positivo $n$. (proposto da Li Shenghong)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2002#q07|src_cn_cwmo_2002__Q07]]

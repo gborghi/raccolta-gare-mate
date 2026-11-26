@@ -31,11 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Espresso 1/n come somma finita di reciprocità triangolari distinte*
+*Esprimi 1/n come somma finita di reciproci di numeri triangolari distinti*
 
-> Prova che se $n$ è un intero positivo, allora $\frac{1}{n}$ può essere scritto come una somma finita di reciprocità di diversi numeri triangolari.
-> 
-> [Un *numero triangolare* è una delle forme $\frac{k(k+1)}{2}$ per un intero positivo $k$.]
+> Dimostrare che, se $n$ è un intero positivo, allora $\frac{1}{n}$ può essere scritto come somma finita di reciproci di numeri triangolari distinti.
+>
+> [Un *numero triangolare* è un numero della forma $\frac{k(k+1)}{2}$, per qualche intero positivo $k$.]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2024-25_round2#q01|src_bmo_2024-25_round2__Q01]]
 
 
 
@@ -60,11 +67,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La prova D si trova su AQP di cerchio in configurazione triangolare acuta*
+*Dimostrazione che D giace sulla circonferenza AQP in configurazione di triangolo acutangolo*
 
-> In un triangolo angolato acuto $ABC$ con $AB < AC$, l'incentro è $I$ e il bisettore perpendicolare di $BC$ incontra $BI$ a $P$ e $CI$ a $Q$. I cerchi $BIQ$ e $CIP$ si incontrano di nuovo a $X$. Le linee $AX$ e $BC$ si incontrano a $D$.
-> 
-> Provare che $D$ si trova sul cerchio $AQP$.
+> In un triangolo acutangolo $ABC$ con $AB < AC$, il centro del cerchio inscritto è $I$ e l'asse perpendicolare di $BC$ incontra $BI$ in $P$ e $CI$ in $Q$. Le circonferenze $BIQ$ e $CIP$ si intersecano nuovamente in $X$. Le rette $AX$ e $BC$ si incontrano in $D$.
+>
+> Dimostrare che $D$ giace sulla circonferenza $AQP$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2024-25_round2#q02|src_bmo_2024-25_round2__Q02]]
 
 
 
@@ -89,11 +103,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-I più grandi swap Elijah ha bisogno di ripristinare il colore della scacchiera
+*I più grandi scambi di cui Elijah ha bisogno per ripristinare la colorazione a scacchiera*
 
-> Una scacchiera $n \times n$ è composta da celle $n^2$ che sono quadrati unitari. Ogni cellula è di colore nero o bianco, in modo che le cellule con un bordo comune abbiano colori diversi. Isaac sconvolge il colore scambiando ripetutamente due colonne complete o due righe complete. Elijah vuole ripristinare il colore originale scambiando ripetutamente due colonne complete o due righe complete.
-> 
-> In termini di $n$, qual è il maggior numero di swap che Elijah potrebbe aver bisogno?
+> Una scacchiera $n \times n$ è composta da $n^2$ caselle che sono quadrati unitari. Ogni casella è colorata di nero o di bianco in modo che le caselle che condividono un lato abbiano colori diversi. Isaac sconvolge la colorazione scambiando ripetutamente oppure due colonne intere oppure due righe intere. Elijah vuole ripristinare la colorazione originale scambiando ripetutamente oppure due colonne intere oppure due righe intere.
+>
+> In termini di $n$, qual è il numero massimo di scambi di cui Elijah potrebbe aver bisogno?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2024-25_round2#q03|src_bmo_2024-25_round2__Q03]]
 
 
 
@@ -118,6 +139,15 @@ I più grandi swap Elijah ha bisogno di ripristinare il colore della scacchiera
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le sequenze di numeri interi positivi con una data ricorrenza e u1=1*
+*Conta le successioni di interi positivi con relazione di ricorrenza data e u1=1*
 
-> Quante diverse sequenze di integri positivi soddisfano $u_1 = 1$ e $$u_{n+1} = \frac{(u_n^2 + u_n + 1)^{2025}}{u_{n-1}}$$ per tutti $n \ge 2$?
+> Quante sequenze distinte di numeri interi positivi soddisfano $u_1 = 1$ e
+> $$u_{n+1} = \frac{(u_n^2 + u_n + 1)^{2025}}{u_{n-1}}$$
+> per tutti gli $n \ge 2$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2024-25_round2#q04|src_bmo_2024-25_round2__Q04]]

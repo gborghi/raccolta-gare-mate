@@ -33,13 +33,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*intere di 9 cifre M e N: sostituzioni di cifre sempre divisibili per 7*
+*Scambiando una cifra di $N$ con quella di $M$ si ottiene ancora un multiplo di 7*
 
-> Che $M$ e $N$ siano due integri positivi a 9 cifre con la proprietà che se una cifra di $M$ viene sostituita dalla cifra di $N$ al posto corrispondente (ad esempio, la cifra "dieci" di $M$ è sostituita dalla cifra "dieci" di $N$), il numero intero risultante è un multiple di $7$.
-> 
-> Prova che qualsiasi numero ottenuto sostituendo una cifra di $N$ con la cifra corrispondente di $M$ è anche un multiple di $7$.
-> 
-> Trova un intero $d > 9$ tale che il risultato sopra riportato in merito alla divisibilità per $7$ rimanga vero quando $M$ e $N$ sono due interi positivi a 4 cifre $d$.
+> Siano $M$ e $N$ due interi positivi di 9 cifre con la proprietà che, se una qualunque cifra di $M$ è sostituita dalla cifra di $N$ nella posizione corrispondente (per esempio la cifra delle decine di $M$ sostituita da quella di $N$), l'intero ottenuto è un multiplo di $7$.
+>
+> Dimostrare che qualunque numero ottenuto sostituendo una cifra di $N$ con la cifra corrispondente di $M$ è anch'esso un multiplo di $7$.
+>
+> Trovare un intero $d > 9$ tale che il risultato precedente sulla divisibilità per $7$ resti vero quando $M$ e $N$ sono due interi positivi di $d$ cifre.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1997#q01|src_bmo2_1997__Q01]]
 
 
 
@@ -62,9 +69,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con media uguale altitudine e angoli uguali implica equilaterale*
+*Dimostrare che $ABC$ è equilatero se $BM = CF$ e $\angle MBC = \angle FCA$*
 
-> Nel triangolo a angolo acuto $ABC$, $CF$ è un'altitudine, con $F$ su $AB$, e $BM$ è una media, con $M$ su $CA$. Dato che $BM = CF$ e $\angle MBC = \angle FCA$ dimostrano che il triangolo $ABC$ è equilaterale.
+> Nel triangolo acutangolo $ABC$, $CF$ è un'altezza, con $F$ su $AB$, e $BM$ è una mediana, con $M$ su $CA$. Sapendo che $BM = CF$ e $\angle MBC = \angle FCA$, dimostrare che il triangolo $ABC$ è equilatero.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1997#q02|src_bmo2_1997__Q02]]
 
 
 
@@ -87,9 +101,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare polinomi di grado-5 con coefficienti distinti divisibili da x2−x+1*
+*Quanti polinomi di grado 5 con coefficienti distinti in $\{1,\ldots,8\}$ sono divisibili per $x^2 - x + 1$*
 
-> Trova il numero di polinomi di grado $5$ con coefficienti distinti dall'insieme $\{1, 2, 3, 4, 5, 6, 7, 8\}$ divisibili da $x^2 - x + 1$.
+> Trovare il numero di polinomi di grado $5$ con coefficienti distinti nell'insieme $\{1, 2, 3, 4, 5, 6, 7, 8\}$ che sono divisibili per $x^2 - x + 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1997#q03|src_bmo2_1997__Q03]]
 
 
 
@@ -116,10 +137,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Progressioni aritmetiche massime in reciprocità di numeri interi positivi*
+*Progressioni aritmetiche massimali di reciproci, di lunghezza 1996 e 1997*
 
-> L'insieme $S = \{1/r : r = 1, 2, 3, \ldots\}$ di reciprocità dei numeri interi positivi contiene progressioni aritmetiche di varie lunghezze. Ad esempio, $1/20, 1/8, 1/5$ è una tale progressione, di lunghezza $3$ (e differenza comune $3/40$). Inoltre, si tratta di una progressione massima in $S$ di lunghezza $3$ poiché non può essere estesa a sinistra o a destra all'interno di $S$ ($-1/40$ e $11/40$ non essendo membri di $S$).
-> 
-> (i) Trovare una progressione massima in $S$ di lunghezza $1996$.
-> 
-> (ii) C'è una progressione massima in $S$ di lunghezza $1997$?
+> L'insieme $S = \{1/r : r = 1, 2, 3, \ldots\}$ dei reciproci degli interi positivi contiene progressioni aritmetiche di varie lunghezze. Per esempio $1/20, 1/8, 1/5$ è una tale progressione, di lunghezza $3$ (e ragione $3/40$). Inoltre è una progressione massimale in $S$ di lunghezza $3$, poiché non si può estendere a sinistra né a destra dentro $S$ ($-1/40$ e $11/40$ non appartengono a $S$).
+>
+> (i) Trovare una progressione massimale in $S$ di lunghezza $1996$.
+>
+> (ii) Esiste una progressione massimale in $S$ di lunghezza $1997$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1997#q04|src_bmo2_1997__Q04]]

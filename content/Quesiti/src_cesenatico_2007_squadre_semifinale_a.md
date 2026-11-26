@@ -35,9 +35,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-luxury cartels (multiple 12) (not multiple 18) in 2007*
+*Stationers (multiples of 12) that are not luxury shops (not multiples of 18), among 2007 buildings*
 
-> The village of Retta I Mateninja live organized in various villages. For example, the Retta road consists of a single long road (absolutely straight), flanked by buildings numbered 1 to 2007. Mateninja consume a lot of paper and in fact all buildings with multiples of 12 are billboards; also many mateninja are affluent, so all buildings with multiples of 18 are luxury shops. Numeruto walks the whole village looking for the best price for square footage: How many shops do you visit in total, if you skip the luxury ones?
+> The village of Retta
+> Mateninja live organised in various villages. The village of Retta, for example, consists of a single long street (absolutely straight), lined with 2007 buildings numbered from 1 to 2007. Mateninja get through a great deal of paper, and indeed every building whose number is a multiple of 12 is a stationer's; moreover many mateninja are wealthy, so every building whose number is a multiple of 18 is a luxury shop. Numeruto walks the whole village looking for the best price for squared paper: how many stationers does he visit in all, if he skips the luxury ones?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q01|src_cesenatico_2007_squadre_semifinale_a__Q01]]
 
 
 
@@ -66,9 +73,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number 4 multiple digits 25 with condition of central digits*
+*Four-digit multiple of 25 whose middle digits are the swap of the quotient by 25*
 
-> Too many graduates The morning prode Numeruto is better off on the field than on the bench. Today there is the task of history and the first question asks the exact number of Grandin's morning diplomats from the village's founding to the present day and he has no idea what the answer is. Fortunately, he manages to intercept a coded suggestion from the beautiful Otenusa directed to his rival Sekante: It is a four-digit number, multiple of 25 which, divided by 25, gives a two-digit number that, exchanged, are the central digits of the same number (such as 54 and 2450, only that 54×25 = 2450). What's the answer?
+> Too many graduates
+> The brave mateninja Numeruto is better in the field than at a desk. Today there is a history test, and the first question asks for the exact number of mateninja who have graduated as Grandin, from the founding of the village to the present day, and he has no idea of the answer. Fortunately he manages to intercept a coded hint from the fair Otenusa, meant for his rival Sekante: "It is a four-digit number, a multiple of 25, which, divided by 25, gives a two-digit number whose digits, swapped, are the middle digits of the number itself" (as with 54 and 2450, except that 54×25 ̸= 2450). What is the answer?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q02|src_cesenatico_2007_squadre_semifinale_a__Q02]]
 
 
 
@@ -100,9 +114,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum triangular area by triangulation polygon+oasis*
+*Maximum number of triangular regions in a triangulation of a 2007-gon with 1789 interior oases*
 
-> The village of Binomio occupies a convex polygon-shaped deserted area with 2007 sides. Within the territory there are 1789 oases that are very important for the survival of the mateninja. Noting that, if one considers the set of points A, consisting of the vertices of the polygon and the oases, there are never three points aligned, the village chief decided to increase security by building some walls. Walls are erected along segments with vertices at two points of A, so that the territory is divided exclusively into triangles and the walls intersect only at points of A. What is the maximum number of closed triangular zones that can be obtained? Team competition 2007  Semifinal A Problem texts  Pag. 1 di 4
+> The village of Binomio
+> The village of Binomio occupies a desert territory in the shape of a convex polygon with 2007 sides. Inside the territory there are 1789 point-like oases, of the greatest importance for the survival of the mateninja. Having noticed that, if one considers the set of points A consisting of the vertices of the polygon and the oases, no three points are ever collinear, the village chief has decided to increase security by building some walls. Walls are erected along segments with endpoints at two points of A, so that the territory is divided exclusively into triangles and the walls meet only at points of A. What is the maximum number of closed triangular regions that can be obtained?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q03|src_cesenatico_2007_squadre_semifinale_a__Q03]]
 
 
 
@@ -131,9 +152,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum of 252 cos t -275sin t +298*
+*Maximum of 252cosθ−275sinθ+298*
 
-> The strength of a frog miraculously overcame the task of history, Numeruto must now face that of theoretical magical arts! The most difficult question is what is the maximum level of life force that a frog sign matinee can develop. Numeruto is the sign of the frog and is sure that its vital force depends on its θ concentration according to the function: 252cosθ−275sinθ+298. What is the greatest life force Numeruto can develop?
+> The strength of a frog
+> [⋆]
+> Having miraculously got through the history test, Numeruto must now face the one in theoretical magical arts! The hardest question asks for the greatest level of vital force that a mateninja of the frog sign can develop. Numeruto is himself of the frog sign, and he is sure that his vital force depends on his concentration θ according to the function
+> 252cosθ−275sinθ+298.
+> What is the greatest vital force Numeruto can develop?
+
+**Topic:** [[topic_trigonometria|Trigonometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q04|src_cesenatico_2007_squadre_semifinale_a__Q04]]
 
 
 
@@ -160,9 +191,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many multiple palindrome codes 3 odd digits <=5 digits*
+*How many palindromic multiples of 3 with an odd number of digits, and at most 5 digits, there are*
 
-> Code missions The village council encodes and assigns the missions to morning experts. Each mission is also assigned a numeric code which, for security reasons, is a positive palindrome integer, multiple of 3, and with an odd number of digits. How many missions can be encoded using valid 5-digit codes or less and all different?
+> Coded missions
+> The village's grand council encodes missions and entrusts them to expert mateninja. Each mission is also assigned a numerical code which, for security, is a palindromic positive integer, a multiple of 3, with an odd number of digits. How many missions can be encoded using valid codes of 5 digits or fewer, all distinct?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q05|src_cesenatico_2007_squadre_semifinale_a__Q05]]
 
 
 
@@ -194,9 +232,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smaller whole greater than the area of each shuriken*
+*Smallest integer greater than the area of every shuriken of this construction*
 
-> The shuriken is one of the basic weapons used by every morning. Those in the village of Retta have a variable number of points, but they're all made by the same blacksmith. To manufacture a shuriken at n > 1 points, the blacksmith takes a flat metal plate and starts by drawing two concentric circles of radius 9 mat-bu and 31 mat-bu. On the greater sign 2n equidistant points, numbered from 1 to 2n in the anti-clockwise order; from each point it leads the beam and marks a point with the same number corresponding to the intersection with the lesser circumference. It then traces the segments connecting each internal equal point with the two consecutive external odd points (the point 2n is connected to 2n −1 and to 1); finally it cuts along the resulting fracture. What is the smallest integer, greater than the area (in mat-bu2) of any shuriken?
+> The shuriken
+> The shuriken is one of the basic weapons used by every mateninja. Those of the village of Retta have a variable number of points, but they are all made by the same smith. To make a shuriken with n > 1 points, the smith takes a flat metal plate and begins by drawing on it two concentric circles, of radii 9 mat-bu and 31 mat-bu. On the larger one he marks 2n equally spaced points, numbered from 1 to 2n in order, anticlockwise; from each he draws the radius and marks a point with the same number where it meets the smaller circle. He then draws the segments joining each even interior point to the two consecutive odd exterior points (the point 2n is joined to 2n −1 and to 1); finally he cuts along the polygonal path obtained. What is the smallest integer greater than the area (in mat-bu2) of any such shuriken?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q06|src_cesenatico_2007_squadre_semifinale_a__Q06]]
 
 
 
@@ -223,9 +268,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum amount not payable with a maximum of 10 euro coins*
+*Least amount, in virgole, that cannot be paid exactly with at most 10 coins or notes and no change*
 
-> The corona, the official currency of Mauritania, has exactly the same cuts as the euro and is divided in commas as the euro is divided in cents. Of course, the cutting of comma and crown coins is exactly the same as the euro and euro cents. What is the minimum amount, expressed in commas, that you cannot pay with exactly 10 coins or banknotes without receiving any balance?
+> Hard cash
+> The korona, the official currency of the mateninja, has exactly the same denominations as the euro, and it is divided into virgole just as the euro is divided into cents. Naturally, the coin denominations in virgole and in korone are exactly the same as those of euro cents and of euros.
+> What is the least amount, expressed in virgole, that cannot be paid exactly with at most 10 coins or notes, without receiving any change?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q07|src_cesenatico_2007_squadre_semifinale_a__Q07]]
 
 
 
@@ -254,9 +307,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities n in [1,2007] with 2n in 19 groups (conditions)*
+*How many n from 1 to 2007 inclusive allow n boys and n girls to be split into 19 non-empty groups as stated*
 
-> The big dance [⋆] Even at the moreninja academy occasionally the weather is relaxing and tonight the big dance of the little ones is taking place. All the guests have already arrived in the room: n mateninji (the males) and n mateninje (the females) show off their best uniforms and equipment, but they do not have the courage to invite themselves to dance, and they team up from afar, divided into 19 non-empty groups. Two groups of any kind differ by more than one unit and each female is in the company of only females. How many n between 1 and 2007 are such that the above conditions can be fulfilled?
+> The grand ball
+> [⋆]
+> Even at the mateninja academy the atmosphere eases off now and then, and this evening the Piccin's grand ball is under way. All the guests have already arrived: n mateninji (the boys) and n mateninje (the girls) are showing off their finest uniforms and gear, but they have not the courage to ask one another to dance, and they size one another up from a distance, divided into 19 non-empty groups. Any two groups differ by at most one, and every female is in the company of females only. How many n between 1 and 2007 inclusive are there for which the conditions above can occur?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q08|src_cesenatico_2007_squadre_semifinale_a__Q08]]
 
 
 
@@ -286,11 +347,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of values a for which x^2-ax+4a has positive integer roots*
+*Sum of the positive integers a for which x2 −ax+4a has only positive integer roots*
 
-> The technique of transformation finally the practical proof! Numeruto can do his best; however, in order to succeed perfectly in the difficult technique of transformation, he must knead his magical strength according to very delicate balances. The useable magical force levels are all positive integers a for which the polynomial x2 −ax+4a has only positive integers. If Numeruto performs the technique well, his score on the exam will be the sum of all the magical force values he will use. How much will it take?
-> 
-> Team competition 2007  Semifinal A Problem texts  Pag. 3 di 4
+> The transformation technique
+> At last, the practical test! Numeruto can give of his best; yet to succeed completely in the difficult transformation technique, he must blend his magical force according to the most delicate balances. The usable levels of magical force are all the positive integers a for which the polynomial x2 −ax+4a has only positive integer roots. If Numeruto performs the technique well, his mark in the examination will be the sum of all the values of magical force that he uses. What is the highest mark he can obtain?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q09|src_cesenatico_2007_squadre_semifinale_a__Q09]]
 
 
 
@@ -321,9 +387,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fragment area larger than the broken kunai (AC=26)*
+*Area of the larger fragment of the broken kunai, with AC = 26*
 
-> The kunai is one of the basic weapons used by all mateninja; its blade has a particular shape: it is a quadrilateral made so that its smaller diagonal divides it into two isosceles triangles, each with the diagonal as its base. We call A, B, C, D the tips of the blade of a kunai, with A and C the extremes of the minor diagonal; then the traditional measures of the village blacksmith of the Retta predict that ABC = 30°, CDA = 90° and that the AC segment is 26 mat-bu long. Numeritus' kunai broke in combat along the straight line passing for A and perpendicular to AD. What is the surface area of the largest blade fragment measured in mat-bu2?
+> The kunai
+> [⋆]
+> The kunai is one of the basic weapons used by every mateninja; its blade has a particular shape: it is a quadrilateral made so that its shorter diagonal divides it into two isosceles triangles, each with the diagonal as base. Call A, B, C, D the vertices of the blade of a kunai, with A and C the endpoints of the shorter diagonal; the traditional measurements of the smith of the village of Retta then require that ABC = 30°, CDA = 90°, and that the segment AC is 26 mat-bu long. Numeruto's kunai broke in combat along the line through A perpendicular to AD. What is the area, in mat-bu2, of the larger blade fragment?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q10|src_cesenatico_2007_squadre_semifinale_a__Q10]]
 
 
 
@@ -349,9 +423,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product possible third side values (30 degrees, sides 57.75)*
+*The 99th root of the product of the positive divisors of 21038*
 
-> Master Isoshilo is very strict and has been holding Otenusa for hours under the effects of an illusion through his magical arts. To dissolve the spell Otenusa must concentrate fully and be able to determine the value of the 99th root of the product of the positive divisors of number 21038. How long is it?
+> Numerical illusion
+> Master Isoshilo is very strict, and he has been holding Otenusa for hours under the effects of an illusion by means of his magical arts. To break the spell, Otenusa must concentrate completely and manage to determine the value of the 99th root of the product of the positive divisors of the number 21038. What is it?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q11|src_cesenatico_2007_squadre_semifinale_a__Q11]]
 
 
 
@@ -377,9 +458,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*99-th root of the product dividers of 2^10×3^8*
+*Product of all possible lengths of the third side of a triangle with an angle of 30°, the opposite side 57 mat-ken and another side 75 mat-ken*
 
-> The brilliant Sekante has only one dream: when he becomes Grandin he will build himself a magnificent throne. He has even completed the project, he only has to decide exactly what the shape of the garden will be, but he knows that it will be triangular, and that it will have an angle of 30°, the opposite side of 57 mat-ken and another side of 75 mat-ken. What is the product of all possible length (in mat-ken) values of the third side?
+> Triangular indecision
+> The brilliant Sekante has a single dream: when he is a Grandin he will build himself a magnificent palace. He has even finished the design already; he only has to decide the exact shape of the garden. He knows, however, that it will be triangular, and that it will have an angle of 30°, the opposite side of 57 mat-ken and another side of 75 mat-ken. What is the product of all possible values of the length (in mat-ken) of the third side?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q12|src_cesenatico_2007_squadre_semifinale_a__Q12]]
 
 
 
@@ -407,9 +495,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hexagonal prism paper surface (209 sheets)*
+*Area of a parchment sliced into 209 square sheets when a hexagonal prism of side 2 is cut through its axis*
 
-> Ruined parchment The mathematical formulas of the mateninja are written on long rectangular strips of zero-thick parchment (they are magical too!), which are rolled repeatedly around a ninja pencil. Ninja pencils are similar to ours: they have the shape of a prism whose base is a regular hexagon on the 2 mat-shaku side. The slender Numeritus, in handling his new sword, mistakenly strikes the prism on which the precious formula of Itˆo is preserved, cutting it perfectly in two along a plane passing through its axis. As a result, the scroll with the formula is sliced into 209 square sheets. How many mat-shaku2 measured the surface of the scroll?
+> A ruined parchment
+> The mathemagical formulae of the mateninja are written on long rectangular strips of parchment of zero thickness (they too are magical!), which are rolled several times around a ninja pencil. Ninja pencils are like ours: they have the shape of a prism whose base is a regular hexagon of side 2 mat-shaku. Clumsy Numeruto, handling his new sword, accidentally strikes the prism on which Itô's precious formula is kept, cutting it cleanly in two along a plane through its axis. As a result, the parchment with the formula is sliced into 209 square sheets. What was the area of the parchment, in mat-shaku2?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q13|src_cesenatico_2007_squadre_semifinale_a__Q13]]
 
 
 
@@ -442,9 +536,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Term number (a,b,c) with a<b, a<4c, bc^3<=ac^3+b, <=2007*
+*Number of triples of positive integers (a, b, c) at most 2007 satisfying the broken conditions a < b, a < 4c, bc3 ≤ ac3 + b*
 
-> A task too difficult Sekante now thinks only of his future reign and is so taken by the idea of saving money, that he started doing other students' homework in exchange for money. Master Isoshilo discovered it and to put it in line, he presented himself under false pretenses offering him a laudous compensation to find all the positive integers that satisfy a <b, a <4c, bc3 ≤ac3 +b, a,b,c ≤2007. Sekante is squeezing the meningi and Isoshilo doesn't think he can make it, but even if he does, he'll mock him without paying! How many solutions should Sekante find?
+> Too hard a task
+> Sekante now thinks of nothing but his future palace, and he is so taken with the idea of saving money that he has begun to do the other pupils' homework in exchange for cash. Master Isoshilo has found him out and, to bring him into line, has appeared in disguise and offered him a handsome fee to find all the triples of positive integers satisfying
+> a < b,
+> a < 4c,
+> bc3 ≤ac3 +b,
+> a,b,c ≤2007.
+> Sekante is racking his brains, and Isoshilo does not think he can manage it; but even if he did, he would mock him and not pay! How many solutions should Sekante find?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q14|src_cesenatico_2007_squadre_semifinale_a__Q14]]
 
 
 
@@ -475,6 +581,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last 4 digits sum produced by subsets of multiples of 2007*
+*Last four digits of the sum of the products of the non-empty subsets of 2007, 2·2007, …, 20072*
 
-> The superior technique of multiplication [⋆] Numeruto is an expert in the superior technique of multiplication, a magical art that allows him to instantly obtain the product of any set of integers. However, Master Isoshilo entrusted him with a very difficult training: considering the whole numbers 2007, 2 · 2007, 3 · 2007, . . . , 20072 must calculate the product of each non-empty subset of the numbers assigned and sum them all. Are you able to help him (even without morning powers), by calculating at least the last 4 digits of the result?
+> The higher technique of multiplication
+> [⋆]
+> Numeruto is an expert in the higher technique of multiplication, a magical art that lets him obtain at once the product of any set of integers. Master Isoshilo has nevertheless set him a very hard training exercise: given the integers 2007, 2 · 2007, 3 · 2007, . . . , 20072, he must compute the product of every non-empty subset of the given numbers and add them all up. Can you help him (even without mateninja powers), by computing at least the last 4 digits of the result?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2007_squadre_semifinale_a#q15|src_cesenatico_2007_squadre_semifinale_a__Q15]]

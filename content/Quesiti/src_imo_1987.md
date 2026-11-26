@@ -36,16 +36,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Somma di k volte i numeri di permutazioni con k punti fissi uguale a n!*
+*La somma delle permutazioni di k elementi con k punti fissi è uguale a n!*
 
-> Sia pn(k) il numero delle permutazioni dell'insieme {1, . . . , n}, n ≥1, che
-> hanno esattamente k punti fissi. Si dimostri che
-> n
-> X
-> k=0
-> k · pn(k) = n!.
-> (Osservazione: una permutazione f di un insieme S è una corrispondenza biunivoca di S in sé.
-> Un elemento i di S si dice punto fisso della permutazione f se f(i) = i.)
+> Sia pn(k) il numero di permutazioni dell'insieme {1, . . . , n}, con n ≥ 1, che hanno esattamente k punti fissi. Dimostrare che n X k=0 k · pn(k) = n!. (Osservazione: una permutazione f di un insieme S è una corrispondenza biunivoca di S su se stesso. Un elemento i in S è detto punto fisso della permutazione f se f(i) = i.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1987#q01|src_imo_1987__Q01]]
 
 
 
@@ -71,9 +71,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I quadrilatero AKNM e il triangolo ABC hanno aree uguali*
+*Il quadrilatero AKNM e il triangolo ABC hanno aree uguali*
 
-> In un triangolo acutangolo ABC, la bisettrice interna dell'angolo A interseca BC in L e la circonferenza circoscritta ad ABC nuovamente in N. Dall punto L si conducono le perpendicolari a AB e AC; i piedi di queste perpendicolari sono rispettivamente K e M. Si dimostri che il quadrilatero AKNM e il triangolo ABC hanno la stessa area.
+> In un triangolo acutangolo ABC, la bisettrice interna dell'angolo A interseca BC in L e interseca nuovamente la circonferenza circoscritta a ABC in N. Dal punto L si tracciano le perpendicolari ad AB e ad AC; i piedi di queste perpendicolari sono rispettivamente K e M. Dimostrare che il quadrilatero AKNM e il triangolo ABC hanno aree uguali.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1987#q02|src_imo_1987__Q02]]
 
 
 
@@ -108,22 +114,21 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Combinazione intera limitata di reali con norma unitaria è piccola*
+*La combinazione intera limitata di numeri reali a norma unitaria è piccola*
 
 > Siano x1, x2, . . . , xn numeri reali tali che x2
-> 1 + x2
-> 2 + · · + x2
-> n = 1. Si dimostri che
-> per ogni intero k ≥2 esistono interi a1, a2, . . . , an, non tutti nulli, tali che
-> |ai| ≤k −1 per ogni i e
+> 1 + x2 2 + · · + x2 n = 1. Dimostrare che per ogni intero k ≥ 2 esistono interi a1, a2, . . . , an, non tutti nulli, tali che
+> |ai| ≤k −1 for all i and
 > |a1x1 + a1x2 + · · + anxn| ≤(k −1)√n
-> kn −1
-> .
-> 
-> XXVIII Olimpiade Internazionale di Matematica
-> Havana, Cuba
-> Giorno II
-> 11 luglio 1987
+> kn −1 .
+>
+> 28ª Olimpiade Internazionale di Matematica, L'Avana, Cuba, Seconda giornata, 11 luglio 1987
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1987#q03|src_imo_1987__Q03]]
 
 
 
@@ -146,10 +151,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nessuna funzione sui numeri naturali con f(f(n))=n+1987*
+*Non esiste una funzione sugli interi non negativi con f(f(n)) = n + 1987*
 
-> Si dimostri che non esiste alcuna funzione f dall'insieme degli interi non negativi in sé
-> tale che f(f(n)) = n + 1987 per ogni n.
+> Dimostrare che non esiste una funzione f dall'insieme degli interi non negativi in sé tale che f(f(n)) = n + 1987 per ogni n.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_imo_1987#q04|src_imo_1987__Q04]]
 
 
 
@@ -174,12 +184,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n punti con distanze irrazionali e aree triangolari razionali*
+*n punti con distanze irrazionali e aree dei triangoli razionali*
 
-> Sia n un intero maggiore o uguale a 3. Si dimostri che esiste un insieme di n
-> punti del piano tale che la distanza tra due punti qualsiasi è irrazionale
-> e tre punti qualsiasi determinano un triangolo non degenere di area
-> razionale.
+> Sia n un numero intero maggiore o uguale a 3. Dimostrare che esiste un insieme di n punti nel piano tale che la distanza tra due punti qualsiasi sia irrazionale e che ogni insieme di tre punti determini un triangolo non degenero avente area razionale.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_imo_1987#q05|src_imo_1987__Q05]]
 
 
 
@@ -205,6 +218,12 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio quadratrico che genera numeri primi estende la primalità a un intervallo più ampio*
+*Il polinomio quadratico generatore di numeri primi estende la primalità a un intervallo più ampio*
 
-> Sia n un intero maggiore o uguale a 2. Si dimostri che se k² + k + n è primo per tutti gli interi k tali che 0 ≤ k ≤ √(n/3), allora k² + k + n è primo per tutti gli interi k tali che 0 ≤ k ≤ n − 2.
+> Sia n un intero maggiore o uguale a 2. Dimostrare che, se k² + k + n è primo per tutti gli interi k tali che 0 ≤ k ≤ p n/3, allora k² + k + n è primo per tutti gli interi k tali che 0 ≤ k ≤ n − 2.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_1987#q06|src_imo_1987__Q06]]

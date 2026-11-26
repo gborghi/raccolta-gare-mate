@@ -29,9 +29,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti medi di altitudine nel triangolo acuto, trovare CD*
+*Triangolo acutangolo di base 8 e altezza 6: distanza fra i punti medi di un segmento dell'altezza e di un lato*
 
-> Il $ABC$ è un triangolo acuto e $CD$ è l'altitudine attraverso $C$. Se $AB = 8$ e $CD = 6$, trovare la distanza tra i punti di mezzo di $AD$ e $BC$.
+> Sia $ABC$ un triangolo acutangolo e $CD$ l'altezza per $C$. Se $AB = 8$ e $CD = 6$, trovare la distanza fra i punti medi di $AD$ e $BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1993#q01|src_rmo_1993__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La cifra di dieci di qualsiasi potenza di 3 è pari*
+*La cifra delle decine di qualunque potenza di 3 è pari*
 
-> Prove che la cifra di dieci di qualsiasi potenza di $3$ è pari. [e.g. la cifra decimale di $3^8 = 729$ è $2$].
+> Dimostrare che la cifra delle decine di qualunque potenza di $3$ è pari. Per esempio, la cifra delle decine di $3^8 = 729$ è $2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_rmo_1993#q02|src_rmo_1993__Q02]]
 
 
 
@@ -79,9 +91,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli non isocelli da vertici di 20 g*
+*Quanti triangoli scaleni hanno i vertici fra quelli di un icosagono regolare*
 
-> Supponiamo che $A_1 A_2 \ldots A_{20}$ sia un poligono regolare laterale $20$. Quanti triangoli non isoscelli (scaleni) possono essere formati le cui vertici sono tra le vertici del poligono?
+> Si supponga che $A_1 A_2 \ldots A_{20}$ sia un poligono regolare di $20$ lati. Quanti triangoli scaleni, cioè non isosceli, si possono formare i cui vertici siano fra i vertici del poligono?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_rmo_1993#q03|src_rmo_1993__Q03]]
 
 
 
@@ -105,9 +123,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inuguaglianza per i radii di un cerchio inciso nel rettangolo*
+*Rettangolo, due circonferenze tangenti ai lati opposti: r₁ + r₂ ≥ (5/8)(a + b)*
 
-> Il $ABCD$ deve essere un rettangolo con $AB = a$ e $BC = b$. Supponiamo che $r_1$ sia il raggio del cerchio che attraversa $A$ e $B$ e tocca $CD$; e allo stesso modo $r_2$ è il raggio del cerchio che attraversa $B$ e $C$ e tocca $AD$. Indicare che $$r_1 + r_2 \ge \frac{5}{8}(a + b).$$
+> Sia $ABCD$ un rettangolo con $AB = a$ e $BC = b$. Sia $r_1$ il raggio della circonferenza passante per $A$ e $B$ e tangente a $CD$; e analogamente sia $r_2$ il raggio della circonferenza passante per $B$ e $C$ e tangente a $AD$. Dimostrare che
+>
+> $$r_1 + r_2 \ge \frac{5}{8}(a + b).$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1993#q04|src_rmo_1993__Q04]]
 
 
 
@@ -130,9 +156,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*19^93 - 13^93 divisibile per 162*
+*19^93 − 13^93 è un intero positivo divisibile per 162*
 
-> Indicare che $19^{93} - 13^{93}$ è un intero positivo divisibile da $162$.
+> Dimostrare che $19^{93} - 13^{93}$ è un intero positivo divisibile per $162$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_rmo_1993#q05|src_rmo_1993__Q05]]
 
 
 
@@ -156,9 +188,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inequità per quattro valori reali positivi con abcd=1*
+*Quattro reali positivi di prodotto 1: (1+a)(1+b)(1+c)(1+d) ≥ 16*
 
-> Se $a$, $b$, $c$, $d$ sono quattro numeri reali positivi come $abcd = 1$, dimostrare che $$(1 + a)(1 + b)(1 + c)(1 + d) \ge 16.$$
+> Se $a$, $b$, $c$, $d$ sono quattro numeri reali positivi tali che $abcd = 1$, dimostrare che
+>
+> $$(1 + a)(1 + b)(1 + c)(1 + d) \ge 16.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_rmo_1993#q06|src_rmo_1993__Q06]]
 
 
 
@@ -181,9 +221,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Age di 10 persone da 9 sottogruppi di elementi*
+*Dieci persone scrivono la somma delle età delle altre nove; le somme formano un insieme di nove numeri. Trovare le età*
 
-> In un gruppo di dieci persone, ogni persona viene invitata a scrivere la somma delle età di tutte le altre persone $9$. Se tutte le dieci somme formano l'insieme $9$-elemento $\{82, 83, 84, 85, 87, 89, 90, 91, 92\}$ si trovano le singole età delle persone (assumendo che siano numeri interi di anni).
+> In un gruppo di dieci persone, a ciascuna si chiede di scrivere la somma delle età di tutte le altre $9$ persone. Se le dieci somme formano l'insieme di $9$ elementi $\{82, 83, 84, 85, 87, 89, 90, 91, 92\}$, trovare le età delle singole persone, supponendo che siano numeri interi di anni.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_1993#q07|src_rmo_1993__Q07]]
 
 
 
@@ -206,6 +252,12 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio di cene assistite da sole in condizioni di sovrapposizione*
+*Sei amici a cena: con tutti e sei in un giorno, con ogni gruppo di cinque in due giorni, e così via. Quante cene da solo*
 
-> Ho 6 amici e durante le vacanze li ho incontrati durante diverse cene. Ho scoperto che ho cenato con tutti i 6 esattamente il giorno $1$; con ogni $5$ di loro nei giorni $2$; con ogni $4$ di loro nei giorni $3$; con ogni $3$ di loro nei giorni $4$; con ogni $2$ di loro nei giorni $5$. Inoltre, ogni amico era presente alle cene $7$ e ogni amico era assente alle cene $7$. Quante cene ho fatto da sola?
+> Ho 6 amici e, durante una vacanza, li ho incontrati in diverse cene. Ho cenato con tutti e 6 esattamente in $1$ giorno; con ogni gruppo di $5$ di loro in $2$ giorni; con ogni gruppo di $4$ di loro in $3$ giorni; con ogni gruppo di $3$ di loro in $4$ giorni; con ogni gruppo di $2$ di loro in $5$ giorni. Inoltre ogni amico era presente a $7$ cene e ogni amico era assente a $7$ cene. A quante cene ho cenato da solo?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_1993#q08|src_rmo_1993__Q08]]

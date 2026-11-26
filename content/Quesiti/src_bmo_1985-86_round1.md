@@ -31,9 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riduzione di una frazione N/D di grandi dimensioni a termini più bassi*
+*Ridurre ai minimi termini la frazione $\dfrac{N}{D}$*
 
-> Riduzione della frazione $\dfrac{N}{D}$ ai suoi termini più bassi quando $$N = 22548548548548516627 ,$$ $$D = 8118811881188118000 .$$
+> Ridurre la frazione $\dfrac{N}{D}$ ai minimi termini quando
+> $$N = 22548548548548516627 ,$$
+> $$D = 8118811881188118000 .$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1985-86_round1#q01|src_bmo_1985-86_round1__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Radius di un cerchio da due cerchi tangenti esternamente tra tangenti paralleli*
+*$R$ in funzione di $r_1$ e $r_2$*
 
-> Un cerchio $S$ di raggio $R$ ha due tangenti paralleli $\tau_1$ e $\tau_2$. Un cerchio $S_1$ di raggio $r_1$ tocca $S$ e $\tau_1$; un cerchio $S_2$ di raggio $r_2$ tocca $S$ e $\tau_2$, nonché il cerchio $S_1$. Tutti i contatti del cerchio sono esterni. Calcolare $R$ in termini di $r_1$ e $r_2$.
+> Una circonferenza $S$ di raggio $R$ ha due tangenti parallele $\tau_1$, $\tau_2$. Una circonferenza $S_1$ di raggio $r_1$ tocca $S$ e $\tau_1$; una circonferenza $S_2$ di raggio $r_2$ tocca $S$ e $\tau_2$, e anche la circonferenza $S_1$. Tutti i contatti fra circonferenze sono esterni. Calcolare $R$ in funzione di $r_1$ e $r_2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1985-86_round1#q02|src_bmo_1985-86_round1__Q02]]
 
 
 
@@ -83,9 +99,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove un'equazione radicale in numeri interi positivi costringe m ad essere quadrato*
+*Se vale quell'uguaglianza, allora $m$ è un quadrato perfetto*
 
-> Prova che se $m$, $n$ sono interi positivi e $$1 + m + n\sqrt{3} = \left(2 + \sqrt{3}\right)^{2n-1}$$ allora $m$ è un quadrato perfetto.
+> Dimostrare che se $m$, $n$ sono interi positivi e
+> $$1 + m + n\sqrt{3} = \left(2 + \sqrt{3}\right)^{2n-1}$$
+> allora $m$ è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1985-86_round1#q03|src_bmo_1985-86_round1__Q03]]
 
 
 
@@ -110,9 +135,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*K più grande in una disuguaglianza per i lati di qualsiasi triangolo obtuso*
+*Il massimo $K$ reale per cui la disuguaglianza vale in ogni triangolo ottusangolo*
 
-> Trovare, con prova, il numero reale più grande $K$ (indipendente da $a$, $b$, $c$) in modo tale che l'ineguaglianza $$a^2 + b^2 + c^2 > K(a+b+c)^2$$ sia valida per le lunghezze $a$, $b$, $c$ dei lati di qualsiasi triangolo angolato obtuso.
+> Trovare, con dimostrazione, il massimo numero reale $K$ (indipendente da $a$, $b$, $c$) tale che la disuguaglianza
+> $$a^2 + b^2 + c^2 > K(a+b+c)^2$$
+> valga per le lunghezze $a$, $b$, $c$ dei lati di un triangolo ottusangolo qualunque.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1985-86_round1#q04|src_bmo_1985-86_round1__Q04]]
 
 
 
@@ -141,9 +175,22 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi permutazioni di 1..n con restrizioni di salto limitate*
+*Il numero di permutazioni che soddisfano quelle due disuguaglianze*
 
-> Trova, con prova, il numero di permutazioni $$a_1, a_2, \ldots, a_n$$ di $1, 2, \ldots, n$ in modo tale che $$a_r \le a_{r+2} \quad\text{for } 1 \le r \le n-2$$ e $$a_r \le a_{r+3} \quad\text{for } 1 \le r \le n-3 .$$ (In una permutazione appaiono ciascuno dei numeri $1, 2, \ldots, n$.)
+> Trovare, con dimostrazione, il numero di permutazioni
+> $$a_1, a_2, \ldots, a_n$$
+> di $1, 2, \ldots, n$ tali che
+> $$a_r \le a_{r+2} \quad\text{for } 1 \le r \le n-2$$
+> e
+> $$a_r \le a_{r+3} \quad\text{for } 1 \le r \le n-3 .$$
+> (In una permutazione compare ciascuno dei numeri $1, 2, \ldots, n$.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1985-86_round1#q05|src_bmo_1985-86_round1__Q05]]
 
 
 
@@ -166,6 +213,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area della sezione cubica è uguale all'area della sezione tetraedro sotto piani paralleli*
+*Le sezioni del cubo e del tetraedro $ABEF$ con un piano parallelo a $BCD$ hanno la stessa area*
 
-> $AB$, $AC$, $AD$ sono tre bordi di un cubo. $AB$ è prodotto a $X$ in modo che $AX = 2AC$, e $AD$ è prodotto a $Y$ in modo che $AY = 3AD$. Prova che l'area della sezione del cubo per qualsiasi piano parallelo a $BCD$ è uguale all'area della sezione trasversale del tetraedro $ABEF$ per lo stesso piano.
+> $AB$, $AC$, $AD$ sono tre spigoli di un cubo. $AB$ è prolungato fino a $X$ in modo che $AX = 2AC$, e $AD$ è prolungato fino a $Y$ in modo che $AY = 3AD$. Dimostrare che l'area della sezione del cubo con un piano qualunque parallelo a $BCD$ è uguale all'area della sezione del tetraedro $ABEF$ con lo stesso piano.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1985-86_round1#q06|src_bmo_1985-86_round1__Q06]]

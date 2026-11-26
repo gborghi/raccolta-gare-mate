@@ -34,9 +34,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*two circumferences of the same radius*
+*The two circles have the same radius*
 
-> Let a and b be two positive real numbers. Let's consider a regular hexagon on side a, and build on its sides six rectangles of sides a and b, arranged externally to the hexagon. The twelve new peaks lie on a circumference. We repeat the previous operation, but exchanging the values of a and b: that is, we start from a regular hexagon on side b and build on it, always externally to the hexagon, six rectangles of sides a and b. We get that the twelve new vertices lie on a second circumference. Demonstrate that the two circumferences have the same radius.
+> Let a and b be two positive real numbers. Consider a regular hexagon of side a, and construct on its sides six rectangles of sides a and b, placed externally to the hexagon. The twelve new vertices lie on a circle. Repeat the previous operation, but swapping the values of a and b: that is, start from a regular hexagon of side b and construct on it, again externally to the hexagon, six rectangles of sides a and b. One finds that the twelve new vertices lie on a second circle.
+> Prove that the two circles have the same radius.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2017#q01|src_cesenatico_2017__Q01]]
 
 
 
@@ -64,9 +71,19 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*finished whole solutions*
+*There is at least one integer solution, and only finitely many; the system is a broken extraction*
 
-> Let n ≥2 be an integer. Consider the solutions (a, b, c) of the system of equations (n = a + b −c n = a2 + b2 −c2, where a, b, c are integers. Demonstrate that there is at least one solution and that there are a finite number of solutions.
+> Let n ≥ 2 be an integer. Consider the solutions (a, b, c) of the system of equations
+> (
+> n = a + b −c
+> n = a2 + b2 −c2,
+> where a, b, c are integers. Prove that there is at least one solution and that there are finitely many solutions.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2017#q02|src_cesenatico_2017__Q02]]
 
 
 
@@ -94,11 +111,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many spins*
+*How many packets of seven cards Magò has turned*
 
-> Magician has a deck of 52 cards, stacked in piles, with the back up. Magogo separates the seven-card deck at the top of the pile, flips it over, and puts it under the pile. Now all the cards are back in the pile, but not all of them have their backs up yet: the bottom seven have turned upside down. Magno repeats the previous operation until it happens again that all the cards have their backs up. In total, how many seven-card deals did Magog make?
+> The sorceress Magò has a pack of 52 cards, arranged in a pile, face down. Magò separates the packet consisting of the seven cards at the top of the pile, turns it over, and puts it under the pile. Now all the cards are in a pile again, but not all of them are still face down: the seven at the bottom are turned the other way. Magò repeats the previous operation until it happens again that all the cards are face down. In all, how many packets of seven cards has Magò turned?
 
-**Answer:** 112
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2017#q03|src_cesenatico_2017__Q03]]
 
 
 
@@ -124,9 +145,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*equal opposite corners*
+*The product of the lengths of two opposite edges is constant*
 
-> ABCD is a tetrahedron with the following properties: A′, B′, C′, D′, respectively, the centers of the faces BCD, ACD, ABD and ABC, so that the directions AA′, BB′, CC′ and DD′ have one thing in common. Demonstrate that the product of the lengths of two opposite sides of the tetrahedron is constant, i.e. AB·CD = AC·BD = AD·BC.
+> ABCD is a tetrahedron with the following property: letting A′, B′, C′ and D′ be, respectively, the incentres of the faces BCD, ACD, ABD and ABC, the lines AA′, BB′, CC′ and DD′ have a point in common. Prove that the product of the lengths of two opposite edges of the tetrahedron is constant, that is, that AB · CD = AC · BD = AD · BC.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2017#q04|src_cesenatico_2017__Q04]]
 
 
 
@@ -150,9 +177,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total amount of the contribution from the Union to the project.
+*There exists a positive integer i such that xi ≥ 2017*
 
-> Whether x1, x2, x3, . . . a sequence of positive integers such that for every m, n positive integers, xmn = xm(n+1). Demonstrate that a positive integer such as xi ≥2017.
+> Let x1, x2, x3, . . . be a sequence of positive integers such that, for all positive integers m and n, one has xmn ̸= xm(n+1). Prove that there exists a positive integer i such that xi ≥ 2017.
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_cassetti|Pigeonhole principle]], [[method_induzione|Induction]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2017#q05|src_cesenatico_2017__Q05]]
 
 
 
@@ -178,6 +211,13 @@ This is the total amount of the contribution from the Union to the project.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Endless m with num. Unusual prime factors of m(m+3) multiple of 3*
+*There are infinitely many positive integers m such that the number of distinct odd prime factors of m(m+3) is a multiple of 3*
 
-> To prove that there are infinitely many positive integers m such that the number of distinct prime factors of m*m+3) is a multiple of 3. Note: For example, the number 60 = 22 · 3 · 5 has two distinct odd prime factors and the number 1050 = 2 · 3 · 52 · 7 has three.
+> Prove that there exist infinitely many positive integers m such that the number of distinct odd prime factors of m(m+3) is a multiple of 3.
+> Note: For example, the number 60 = 22 · 3 · 5 has two distinct odd prime factors and the number 1050 = 2 · 3 · 52 · 7 has three.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_induzione|Induction]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2017#q06|src_cesenatico_2017__Q06]]

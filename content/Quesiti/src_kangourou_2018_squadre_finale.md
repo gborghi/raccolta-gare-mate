@@ -32,13 +32,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tens and units digits of 9^2017+9^2018*
+*Digits in the tens and units places of 9^2017 + 9^2018*
 
-> Tens and units
-> What are, in order, the tens digit and the units digit of the result of the sum
-> 92017 + 92018 ?
+> Tens and units: In order, what are the tens digit and the units digit of the result of the sum 92017 + 92018?
 
-**Answer:** 0090
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_finale#q01|src_kangourou_2018_squadre_finale__Q01]]
 
 
 
@@ -64,11 +67,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle ADC in a quadrilateral with known angles*
+*ADC angle in a quadrilateral with known angles*
 
-> The quadrilateral In a (non-self-intersecting) quadrilateral ABCD, the angles ABD, CBD and CAD all measure 40 degrees. How many degrees does the angle ADC measure?
+> The Quadrilateral In a (non-intersecting) quadrilateral ABCD, angles ABD, CBD, and CAD are all 40 degrees. How many degrees is angle ADC?
 
-**Answer:** 0100
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_squadre_finale#q02|src_kangourou_2018_squadre_finale__Q02]]
 
 
 
@@ -95,14 +103,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Digits of the smallest repunit of 5 divisible by 495*
+*Find the smallest multiple of 5 divisible by 495*
 
-> How many digits
-> Consider all integers of the type 5, 55, 555, 5555, 55555, ... , that is, all positive integers
-> in whose decimal representation only the digit 5 appears. How many digits does the smallest of these numbers
-> that is divisible by 495 have?
+> How many digits? Consider all integers of the form 5, 55, 555, 5555, 55555, ..., that is, all positive integers whose decimal representation contains only the digit 5. How many digits does the smallest of these numbers that is divisible by 495 have?
 
-**Answer:** 0018
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_finale#q03|src_kangourou_2018_squadre_finale__Q03]]
 
 
 
@@ -129,11 +139,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage increase in discounted price*
+*Percentage increase in the discounted price*
 
-> Excessive discount To sell a product in abundance, a retailer reduces its price by 60%. But now he realizes that the discount is too high: the price he should impose is the average between the original and the discounted. By what percentage should the discounted price be increased? (Just write the number, for example, 0003 to indicate 3%.)
+> Excessive discount: To sell a product that he has in abundance, a shopkeeper reduces its price by 60%. Now, however, he realizes that the discount is too steep: the price he should reasonably set is the average of the original price and the discounted price. By what percentage must the discounted price be increased? (Write only the number; for example, write 0003 to indicate 3%.)
 
-**Answer:** 0075
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_squadre_finale#q04|src_kangourou_2018_squadre_finale__Q04]]
 
 
 
@@ -158,12 +172,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of 2-digit divisors of 2^16-1*
+*Sum of two-digit divisors of 2^16-1*
 
-> The divisors  
-> What is the sum of all positive integer divisors of 2 digits of the number 216 – 1?
+> Divisors: What is the sum of all two-digit positive integer divisors of 216 – 1?
 
-**Answer:** 0168
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_finale#q05|src_kangourou_2018_squadre_finale__Q05]]
 
 
 
@@ -188,11 +206,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number 3 digits equal to 34 times the sum of digits*
+*Maximum 3-digit number equal to 34 times the sum of its digits*
 
-> Thirty-four times What is the greatest three-digit integer that is equal to 34 times the sum of its digits?
+> Thirty-four times: What is the largest three-digit integer that is equal to 34 times the sum of its digits?
 
-**Answer:** 0408
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_finale#q06|src_kangourou_2018_squadre_finale__Q06]]
 
 
 
@@ -249,7 +272,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square region shaded area with 4 circles*
+*Shaded square area with 4 circles*
 
 ![[src_kangourou_2018_squadre_finale__prob7.png]]
 
@@ -273,13 +296,18 @@ level: squadre
 \end{document}
 ```
 
-> The figure shows a square containing four circles. Each of them  has a radius of 3 cm,  is tangent to one of the sides of the square at its midpoint,  is tangent to two other circles. How many square centimetres is the area of the shaded region worth? (Write the integer number closest to the exact value of the area; to determine this, use the approximations you think are appropriate for the purpose.)
->  
->  
-> 
+> Four Circles The figure shows a square containing four circles. Each of them: - has a radius of 3 cm, - is tangent to one of the sides of the square at its midpoint, - is tangent to two other circles. How many square centimeters is the area of the shaded region? (Write the integer closest to the exact value of the area; to determine it, use the approximations you consider appropriate for the purpose.)
+>
+>
+>
 > 2
 
-**Answer:** 0089
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_squadre_finale#q07|src_kangourou_2018_squadre_finale__Q07]]
 
 
 
@@ -304,11 +332,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit numbers with zero-digit product*
+*4-digit numbers with a product of digits equal to zero*
 
-> With product zero How many numbers (positive integers) with 4 significant digits have digit product 0?
+> Product zero: How many 4-significant-digit positive integers have a digit product of 0?
 
-**Answer:** 2439
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_finale#q08|src_kangourou_2018_squadre_finale__Q08]]
 
 
 
@@ -335,11 +368,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of the trapezoidal area occupied by the AHD triangle*
+*Percentage of the trapezoid area occupied by triangle AHD*
 
-> An isosceles trapezoid ABCD has bases AB and CD of 7 cm and 3 cm respectively. Its AC and BD diagonals intersect at an H-point. What percentage of the trapezoid area is occupied by the AHD triangle? Note: the % sign is to be omitted in the answer.
+> The Trapezoid: An isosceles trapezoid ABCD has bases AB and CD measuring 7 cm and 3 cm, respectively. Its diagonals AC and BD intersect at point H. What percentage of the area of the trapezoid is occupied by triangle AHD? Note: in the answer, the symbol % should be understood implicitly.
 
-**Answer:** 0021
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_squadre_finale#q09|src_kangourou_2018_squadre_finale__Q09]]
 
 
 
@@ -367,11 +405,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of competing pairs sum >41*
+*Maximum number of pairs of contestants with a sum >41*
 
-> Competition In a singing competition 41 contestants are numbered from 1 to 41. They can be performed in pairs (each pair only once), but only if the sum of the numbers assigned to the competitors that make up the pair is strictly greater than 41. How many different pairs can perform during the contest? (Two pairs are different if they differ by at least one of the components.)
+> The competition: In a singing competition, the 41 contestants are numbered from 1 to 41. They may perform in pairs (each pair only once), but only if the sum of the numbers assigned to the contestants making up the pair is strictly greater than 41. What is the maximum number of distinct pairs that can perform during the competition? (Two pairs are considered distinct if they differ in at least one of their members.)
 
-**Answer:** 0420
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_finale#q10|src_kangourou_2018_squadre_finale__Q10]]
 
 
 
@@ -409,9 +452,14 @@ level: squadre
 
 *Reconstruct the addition from the rearranged digits*
 
-> The sum Daniel used a magnetic board and magnetic numbers to perform an addition between two two-digit numbers. Then the numbers of additions and sums were rearranged in increasing order and now on the board you can see the following alignment of numbers and symbols: 2 3 6 7 8 9 + = What was the result of the addition?
+> In the sum, Daniele used a magnetic whiteboard and magnetic numbers to perform an addition of two two-digit numbers. Then the digits of the addends and of the sum were rearranged in ascending order, and now the following arrangement of digits and symbols can be seen on the board: 2 3 6 7 8 9 + = What was the result of the addition?
 
-**Answer:** 0067
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_finale#q11|src_kangourou_2018_squadre_finale__Q11]]
 
 
 
@@ -438,11 +486,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many numbers are reduced to zero by multiplying the digits*
+*How many numbers become zero when their digits are multiplied?*
 
-> Reducing to a single digit Francis plays this game: multiply together the digits of a two-digit number and, if the result is a two-digit number, multiply the digits again. He continues in this way until he gets a single digit number. From how many numbers can you get zero as the end result?
+> Reduce to a single digit: Francesco plays this game—he multiplies the digits of a two-digit number together, and if the result is a two-digit number, he multiplies the digits again. He continues in this way until he gets a single-digit number. From how many numbers can he obtain zero as the final result?
 
-**Answer:** 0024
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_finale#q12|src_kangourou_2018_squadre_finale__Q12]]
 
 
 
@@ -469,14 +522,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many relatives of 2018 with sum of squares of digits*
+*How many relatives of 2018 with the sum of the squares of the digits*
 
-> Related numbers 
-> We say that two positive integers are "related" if they have the same sum of the squares of their 
-> digits. For example, the numbers 1111, 20 and 2 are related. How many positive integers are related to 
-> 2018 and strictly less than 2018?
+> Relative Numbers Let us say that two positive integers are "relatives" if they have the same sum of the squares of their digits. For example, the numbers 1111, 20, and 2 are relatives. How many positive integers are relatives of 2018 and strictly less than 2018?
 
-**Answer:** 0021
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_finale#q13|src_kangourou_2018_squadre_finale__Q13]]
 
 
 
@@ -505,11 +560,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability sum 7 with two non-standard dice*
+*Probability of a sum of 7 with two non-standard dice*
 
-> Two odd dice Nicola has two dice that are not loaded, but not traditional: in one there is a face with 1 point, two faces with 2 points and three faces with 3 points; in the other a face with 6 points, two faces with 5 points and three faces with 4 points. What is the probability that, by throwing the two dice, the sum of the points that Nicola gets is 7? Write the numerator of the fraction, reduced to the minimum terms, followed by the denominator: for example, if the result was 3/23, write 0323.
+> Two Strange Dice Nicola has two unrigged but non-traditional dice: on one die, there is one face with 1 dot, two faces with 2 dots, and three faces with 3 dots; on the other, there is one face with 6 dots, two faces with 5 dots, and three faces with 4 dots. What is the probability that, when the two dice are rolled, the sum of the dots Nicola gets is 7? Write the numerator of the fraction, reduced to lowest terms, followed by the denominator: for example, if the result were 3/23, write 0323.
 
-**Answer:** 0718
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_finale#q14|src_kangourou_2018_squadre_finale__Q14]]
 
 
 
@@ -546,12 +606,17 @@ level: squadre
 
 *Irreducible fractions <1 with sum of terms 2018*
 
-> Fractions How many positive irreducible fractions less than 1 are such that the sum of the numerator and denominator is 2018?
-> 
+> Fractions: How many positive, irreducible fractions less than 1 are there such that the sum of the numerator and the denominator is 2018?
+>
 > 1
->  
-> Kangourou of Mathematics 2018 Kangourou Cup to teams Final Cervia, 4 May 2018
->  
-> Questions and developments
+>
+> Kangaroo Mathematics Competition 2018 Kangaroo Team Cup Final, Cervia, 4 May 2018
+>
+> Questions and Solutions
 
-**Answer:** 0504
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_finale#q15|src_kangourou_2018_squadre_finale__Q15]]

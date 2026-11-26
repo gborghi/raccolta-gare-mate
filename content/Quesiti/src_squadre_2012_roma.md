@@ -26,19 +26,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0831
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square cut by two lines parallel to the diagonals*
+*A square ABCD is divided into 4 parts by two lines r and s, where r is parallel to…*
 
 ![[src_squadre_2012_roma__prob1.png]]
 
-> A square ABCD is divided into 4 parts by two lines r and s, where r is parallel to the diagonal AC and s is parallel to the diagonal BD. Of the 4 parts into which the square is divided by the two lines, we know that the 3 smallest have areas of 81 cm^2, 257 cm^2 and 431 cm^2 respectively. What is the area of the remaining part?
+> A square ABCD is divided into 4 parts by two lines r and s, where r is parallel to diagonal AC and s is parallel to diagonal BD. Of the 4 parts into which the square is divided by the two lines, we know that the 3 smaller parts have areas of 81 cm², 257 cm², and 431 cm², respectively. What is the area of the remaining part?
 
-**Answer:** 0831
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2012_roma#q01|src_squadre_2012_roma__Q01]]
 
 
 
@@ -56,19 +59,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5345
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of 3-digit numbers with tens digit 3*
+*Let S be the sum of all three-digit numbers whose tens digit is equal to…*
 
 ![[src_squadre_2012_roma__prob2.png]]
 
-> Let S be the sum of all 3-digit numbers whose tens digit equals 3. What is S/9?
+> Let S be the sum of all three-digit numbers whose tens digit is 3. What is the value of S/9?
 
-**Answer:** 5345
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2012_roma#q02|src_squadre_2012_roma__Q02]]
 
 
 
@@ -88,19 +94,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 5187
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Incentre projection: length CH*
+*In triangle ABC, let P denote the interior point that is farthest from all the a…*
 
 ![[src_squadre_2012_roma__prob3.png]]
 
-> In triangle ABC let P be the interior point farthest from the boundary, and H its projection on BC. Knowing that the lengths of the sides, in centimetres, are AB = 8824, BC = 10123 and CA = 9075 respectively, find the length, again in centimetres, of CH.
+> In triangle ABC, let P be the interior point that is farthest from the boundary, and let H be its projection onto BC. Given that the side lengths, expressed in centimeters, are AB = 8824, BC = 10123, and CA = 9075, respectively, find the length of CH, also in centimeters.
 
-**Answer:** 5187
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2012_roma#q03|src_squadre_2012_roma__Q03]]
 
 
 
@@ -122,19 +131,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0180
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Light beam inside a mirrored sphere*
+*The inner surface of a perfectly spherical cavity is polished to spe…*
 
 ![[src_squadre_2012_roma__prob4.png]]
 
-> The inner surface of a perfectly spherical cavity is polished like a mirror, so that every beam of light generated inside keeps bouncing off the wall forever, describing a broken line. From a point P of the wall a beam of light starts inwards, forming an angle of 59° with the segment joining P to the centre of the sphere. After a certain number of bounces, the beam of light hits the point P again. How many segments make up the trajectory of the beam of light, from when it leaves P until it returns to P for the first time?
+> The inner surface of a perfectly spherical cavity is mirror-polished, so that every beam of light generated inside it continues to bounce off the wall indefinitely, tracing a broken line. From a point P on the wall, a beam of light travels inward, forming an angle of 59° with the line segment joining P to the center of the sphere. After a certain number of bounces, the beam of light strikes point P again. How many line segments make up the path of the beam of light from the moment it departs from P until the moment it first returns to P?
 
-**Answer:** 0180
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2012_roma#q04|src_squadre_2012_roma__Q04]]
 
 
 
@@ -156,19 +168,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 2772
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Frustum between two homothetic cones*
+*In space, given a line t and a point P on it, consider two cones c…*
 
 ![[src_squadre_2012_roma__prob5.png]]
 
-> Given in space a line t and a point P on it, consider two right circular cones both having P as vertex and t as axis of symmetry. Suppose moreover that the two cones are homothetic with respect to P and that P is the only point they have in common. Finally, we know that the volumes of the two cones are 132 cm^3 and 1056 cm^3 respectively and that the sum of their heights, in centimetres, is an integer. Determine, in cm^3, the volume of the frustum whose bases are the bases of the two cones. (if you think the data are not sufficient to determine the required volume, give 0 as the answer)
+> In space, given a line t and a point P on t, consider two right circular cones, both having P as their vertex and t as their axis of symmetry. Suppose further that the two cones are homothetic with respect to P and that P is their only common point. Finally, we know that the volumes of the two cones are 132 cm³ and 1056 cm³, respectively, and that the sum of their heights, expressed in centimetres, is an integer. Determine, in cm³, the volume of the frustum of a cone whose bases are the bases of the two cones. (If it is considered that the data are insufficient to determine the required volume, indicate 0 as the answer.)
 
-**Answer:** 2772
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2012_roma#q05|src_squadre_2012_roma__Q05]]
 
 
 
@@ -186,19 +201,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0032
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perfect squares dividing 12,345,654,321*
+*State how many perfect squares divide 12,345,654,321 (counting even…*
 
 ![[src_squadre_2012_roma__prob6.png]]
 
-> Say how many perfect squares divide 12.345.654.321 (counting also 1 and the number itself, if applicable).
+> State how many perfect squares divide 12,345,654,321 (counting 1 and the number itself if applicable).
 
-**Answer:** 0032
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2012_roma#q06|src_squadre_2012_roma__Q06]]
 
 
 
@@ -217,19 +235,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0027
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer boxes with surface area at most 50*
+*How many rectangular parallelepipeds have edges of integer length and super…*
 
 ![[src_squadre_2012_roma__prob7.png]]
 
-> How many rectangular boxes with integer edge lengths and total surface area less than or equal to 50 are there? (two congruent boxes, that is, superimposable by a rigid motion, are to be considered equal and therefore counted only once)
+> How many right-angled parallelepipeds have edges of integer length and a total surface area less than or equal to 50? (Two congruent parallelepipeds—that is, parallelepipeds that can be superimposed by a rigid motion—are to be regarded as the same and therefore counted only once.)
 
-**Answer:** 0027
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2012_roma#q07|src_squadre_2012_roma__Q07]]
 
 
 
@@ -247,19 +268,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0132
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer volumes of a box with surface area 156*
+*How many possible positive integer values can the volume of a… take?*
 
 ![[src_squadre_2012_roma__prob8.png]]
 
-> How many possible positive integer values can the volume of a rectangular box with total surface area 156 take?
+> How many possible positive integer values can the volume of a right rectangular prism with a total surface area of 156 take?
 
-**Answer:** 0132
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2012_roma#q08|src_squadre_2012_roma__Q08]]
 
 
 
@@ -281,22 +305,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0025
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangular billiard table with 8 bounces*
+*The surface of a billiard table, instead of having the usual rectangular shape, is…*
 
 ![[src_squadre_2012_roma__prob9.png]]
 
-> The top of a billiard table, instead of the usual rectangular shape, is an isosceles triangle ABC with base AB, having the following properties:
-> a. the measure of the interior angle at C, in degrees, is an integer;
-> b. it is possible to shoot the billiard ball from a point of the base AB so as to make it bounce 8 times on the sides CA and CB (that is, 4 times on each side) before it bounces again on side AB.
-> What is the maximum size the interior angle at C can have?
+> Instead of having the usual rectangular shape, the surface of a billiard table is an isosceles triangle ABC with base AB, having the following properties: a. the measure, in degrees, of the interior angle at C is an integer; b. it is possible to strike the billiard ball from a point on base AB so that the ball bounces off sides CA and CB 8 times in total (that is, 4 times off each side) before bouncing off side AB again. What is the maximum possible measure of the interior angle at C?
 
-**Answer:** 0025
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2012_roma#q09|src_squadre_2012_roma__Q09]]
 
 
 
@@ -318,19 +342,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 1619
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A samurai cutting a tetrahedron*
+*In a tetrahedron with vertices A, B, C, and D, the lengths of the edges, expressed in cen…*
 
 ![[src_squadre_2012_roma__prob10.png]]
 
-> In a tetrahedron with vertices A, B, C and D, the lengths of the edges, in centimetres, are AB = 120, BC = 32, CA = 104, BD = DC = 27 and AD = 123. A samurai throws the tetrahedron into the air and, with a stroke of his sword, cuts it into two parts, both of non-zero volume, so that the section separating them is a triangle whose area S, in cm^2, is an integer. How many different values can S take?
+> In a tetrahedron with vertices A, B, C, and D, the edge lengths, expressed in centimeters, are AB = 120, BC = 32, CA = 104, BD = DC = 27, and AD = 123. A samurai tosses the tetrahedron into the air and, with a single sword strike, cuts it into two parts, both of nonzero volume, such that the cross-section separating the parts is a triangle whose area S, expressed in cm², is an integer. How many different values can S take?
 
-**Answer:** 1619
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2012_roma#q10|src_squadre_2012_roma__Q10]]
 
 
 
@@ -350,21 +377,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7680
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*10-digit numbers with digits 5–9 and 4 consecutive distinct*
+*State how many 10-digit numbers (written, of course, in base 10) have…*
 
 ![[src_squadre_2012_roma__prob11.png]]
 
-> Say how many 10-digit numbers (written, of course, in base 10) have the following properties:
-> a. they do not contain the digits from 0 to 4;
-> b. the digits occupying 4 consecutive positions in the number are always all different.
+> State how many 10-digit numbers (written, of course, in base 10) have the following properties: a. they do not contain the digits from 0 to 4; b. the digits occupying 4 consecutive positions in the number are always all different.
 
-**Answer:** 7680
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2012_roma#q11|src_squadre_2012_roma__Q11]]
 
 
 
@@ -382,19 +410,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2711
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last 4 digits of 101 + 101^2 + … + 101^1111*
+*Find the four smallest digits of 101 + 101^2 + 101^3 + ... + 101^(1111).*
 
 ![[src_squadre_2012_roma__prob12.png]]
 
-> Find the 4 lowest digits of 101 + 101^2 + 101^3 + . . . + 101^(1111).
+> Find the four smallest digits of 101 + 101^2 + 101^3 + ... + 101^(1111).
 
-**Answer:** 2711
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2012_roma#q12|src_squadre_2012_roma__Q12]]
 
 
 
@@ -415,19 +446,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1807
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A flea on a regular pentagon after 14 jumps*
+*A flea hops among the 5 vertices of a regular pentagon, using the following rule…*
 
 ![[src_squadre_2012_roma__prob13.png]]
 
-> A flea jumps among the 5 vertices of a regular pentagon, using the following rule: each time it jumps it chooses as landing point, each with equal probability, one of the two vertices farthest from the one it is on. What is the probability p that after 14 jumps the flea is again at the vertex it started from? (Give as the answer the integer in the numerator of the fraction representing p, in lowest terms)
+> A flea jumps among the 5 vertices of a regular pentagon, following this rule: each time it jumps, it chooses as its landing point, each with equal probability, one of the two vertices that are farthest from the vertex where it is located. What is the probability p that, after 14 jumps, the flea is still at the vertex from which it started? (As the answer, state the integer that appears in the numerator of the fraction representing p, reduced to lowest terms.)
 
-**Answer:** 1807
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2012_roma#q13|src_squadre_2012_roma__Q13]]
 
 
 
@@ -447,21 +481,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0132
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n such that a quotient is always ≤ 2012*
+*Find a positive integer n such that for every quadruple of real numbers (x, y, z…*
 
 ![[src_squadre_2012_roma__prob14.png]]
 
-> Find a positive integer n such that for every quadruple of real numbers (x, y, z, w), not all zero, we have:
-> x^(35)y^(15)z^(24)w^n / (x^(84) + y^(180) + z^(120) + w^(440)) ≤ 2012
-> (If there were none, or more than one, give 0 as the answer).
+> Find a positive integer n such that for every quadruple of real numbers (x, y, z, w), not all zero, we have: x^(35)y^(15)z^(24)w^n / (x^(84) + y^(180) + z^(120) + w^(440)) ≤ 2012 (If there is none or if there is more than one, state 0 as the answer).
 
-**Answer:** 0132
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2012_roma#q14|src_squadre_2012_roma__Q14]]
 
 
 
@@ -483,19 +518,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0987
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Draughts piece crowned within the first 4 columns*
+*Checkers pieces move across the board according to the following rule: each…*
 
 ![[src_squadre_2012_roma__prob15.png]]
 
-> Draughts pieces move on the board according to the following rule: each move consists of a single step forward, moving diagonally to the right or to the left. When the piece, continuing to advance, reaches the other side of the board, it ceases to exist and becomes a king. Imagine a piece is in the bottom right corner of a 16×16 board. By how many different paths can it go on to become a king, while always staying in the first 4 columns of the board?
+> Checkers pieces move across the board according to the following rule: each move consists of a single step forward, moving diagonally to the right or to the left. When a piece, continuing to move forward, reaches the other side of the board, it ceases to exist and turns into a king. Suppose a piece is in the bottom-right corner of a 16×16 board. In how many different ways can it reach the point where it turns into a king while always remaining within the first 4 columns of the board?
 
-**Answer:** 0987
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2012_roma#q15|src_squadre_2012_roma__Q15]]
 
 
 
@@ -518,23 +556,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0039
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible lengths of AC for four points in space*
+*Four points A, B, C, and V are given in space. We know that: a. A, B, C, and V are not…*
 
 ![[src_squadre_2012_roma__prob16.png]]
 
-> 4 points A, B, C and V in space are given. We know that:
-> a. A, B, C and V do not lie in the same plane;
-> b. the length of AC in centimetres is an integer;
-> c. the lengths of the other segments, in centimetres, are: VA = 52, VB = 65, VC = 60, AB = 39 and BC = 25.
-> How many possible values can AC take?
+> Four points A, B, C, and V are given in space. We know that: a. A, B, C, and V are not coplanar; b. the length of AC, expressed in centimeters, is an integer; c. the lengths of the other line segments, expressed in centimeters, are: VA = 52, VB = 65, VC = 60, AB = 39, and BC = 25. How many possible values can AC take?
 
-**Answer:** 0039
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2012_roma#q16|src_squadre_2012_roma__Q16]]
 
 
 
@@ -555,22 +592,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2019
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial with (a + 2019)p(a − 2) = (a + 3)p(a + 5)*
+*A polynomial p(x) has a certain degree n > 1 (which is unknown) and is endowed with the prop…*
 
 ![[src_squadre_2012_roma__prob17.png]]
 
-> A polynomial p(x) has a certain degree n > 1 (not known) and has the following properties:
-> a. the coefficient of the term of degree n is 144;
-> b. for every real number a, the expressions (a + 2019) · p(a − 2) and (a + 3) · p(a + 5) give the same value.
-> What is the coefficient of the term of degree n − 1?
+> A polynomial p(x) has a certain degree n > 1 (which is unknown) and has the following properties: a. the coefficient of the term of degree n is 144; b. for every real number a, the expressions (a + 2019) · p(a − 2) and (a + 3) · p(a + 5) yield the same value. What is the coefficient of the term of degree n − 1?
 
-**Answer:** 2019
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2012_roma#q17|src_squadre_2012_roma__Q17]]
 
 
 
@@ -586,19 +623,19 @@ level: squadre
 > Sia A l’insieme dei punti del piano aventi entrambe le coordinate intere. Una pulce salta da un punto all’altro dell’insieme A partendo dall’origine e compiendo sempre balzi lunghi, in linea d’aria, esattamente √74. Qual è il minimo numero di balzi che gli occorrono per arrivare in (1, 1)?
 
 **Risposta:** 0007
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A flea jumping √74 on the integer lattice*
+*Let A be the set of points in the plane whose both coordinates are integers. A flea jumps…*
 
 ![[src_squadre_2012_roma__prob18.png]]
 
-> Let A be the set of points of the plane with both coordinates integers. A flea jumps from one point of the set A to another, starting from the origin and always making jumps exactly √74 long as the crow flies. What is the minimum number of jumps it needs to reach (1, 1)?
+> Let A be the set of points in the plane whose both coordinates are integers. A flea jumps from one point to another within set A, starting from the origin and always making long leaps—in a straight line—of exactly √74. What is the minimum number of leaps it needs to reach (1, 1)?
 
-**Answer:** 0007
+[[Quesiti/src_squadre_2012_roma#q18|src_squadre_2012_roma__Q18]]
 
 
 
@@ -616,19 +653,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6163
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Knight paths on a 4 × 3 board*
+*In one of the two central squares of a 4 × 3 chessboard, there is a knight (…*
 
 ![[src_squadre_2012_roma__prob19.png]]
 
-> A knight (of the game of chess) is on one of the two central squares of a 4 × 3 board. Let N be the number of paths 16 moves long that start from the square it is on and end in one of the two central squares of the board. Say what N/18 is.
+> In one of the two central squares of a 4 × 3 chessboard, there is a knight (from the game of chess). Let N denote the number of 16-move paths that start from the square where the knight is located and end in one of the two central squares of the chessboard. State the value of N/18.
 
-**Answer:** 6163
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2012_roma#q19|src_squadre_2012_roma__Q19]]
 
 
 
@@ -648,18 +688,19 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6825
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2012_22%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2012 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Filling a two-row table with 1 to 30*
+*Let N be the number of different ways in which the integers from 1… can be inserted*
 
 ![[src_squadre_2012_roma__prob20.png]]
 
-> Let N be the number of different ways in which the integers from 1 to 30 can be placed in the following table:
-> figure 1
-> so that each cell contains a different number and the number in each cell is greater both than the one immediately to its left and than the one below it. Say what N/(29 · 23 · 7) is.
+> Let N be the number of different ways in which the integers from 1 to 30 can be placed in the following table—Figure 1—so that each cell contains a different number and the number in each cell is greater than both the number immediately to its left and the number immediately below it. State the value of N/(29 · 23 · 7).
 
-**Answer:** 6825
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2012_roma#q20|src_squadre_2012_roma__Q20]]

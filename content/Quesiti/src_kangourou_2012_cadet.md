@@ -34,11 +34,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How much does a chocolate bar cost*
+*How much does a bar of chocolate cost?*
 
-> Four chocolate bars cost six euros more than one bar. How much does a chocolate bar cost? A) 1 euro B) 2 euro C) 3 euro D) 4 euro E) 5 euro
+> Four chocolate bars cost 6 euros more than a single bar. How much does a chocolate bar cost?
+> A) 1 euro B) 2 euro
+> C) 3 euros
+> D) 4 euros
+> E) 5 euros
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2012_cadet#q01|src_kangourou_2012_cadet__Q01]]
 
 
 
@@ -67,17 +75,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many minutes will the hand be pointing North-West*
+*In how many minutes will the hand be in the northwest?*
 
-> A traditional clock is placed on a table with its face pointing upwards.
-> Right now its minute hand is pointing exactly North-East. In how many minutes will this hand be pointing exactly North-West for the first time?
+> A traditional clock is placed on a table with its dial facing upward. Right now, its minute hand is pointing exactly northeast. In how many minutes will this hand point exactly northwest for the first time?
 > A) 45
 > B) 40
 > C) 30
 > D) 20
 > E) 15
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_cadet#q02|src_kangourou_2012_cadet__Q02]]
 
 
 
@@ -110,13 +121,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which letter produces the most pieces with a cut*
+*Which letter produces more pieces with one cut?*
 
 ![[src_kangourou_2012_cadet__prob3.png]]
 
-> Mary has five cardboard letters like those drawn below. With a pair of scissors, she cuts each one of them once (along a straight line) so that each letter produces as many pieces as possible. Which letter produces the most pieces? A) B) C) D) E)
+> Maria has 5 cardboard letters like the ones drawn below. Using a pair of scissors, she cuts each one only once (along a straight line) so that each letter yields as many pieces as possible. Which letter yields the most pieces?
+> A)
+> B)
+> C)
+> D)
+> E)
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_cadet#q03|src_kangourou_2012_cadet__Q03]]
 
 
 
@@ -145,11 +165,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many heads does the dragon have after the cuts?
+*How many heads does the dragon have after the cuts?*
 
-> A dragon initially has five heads. Every time we cut one off, they grow five new heads. One by one, we're cutting the dragon six heads. How many heads does the dragon have at this point? A) 25 B) 28 C) 29 D) 30 E) 35
+> A dragon initially has 5 heads. Every time we cut off one of its heads, 5 new heads grow back. One after another, we cut off 6 heads from the dragon. At this point, how many heads does the dragon have?
+> A) 25
+> B) 28
+> C) 29
+> D) 30
+> E) 35
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_cadet#q04|src_kangourou_2012_cadet__Q04]]
 
 
 
@@ -178,11 +207,20 @@ How many heads does the dragon have after the cuts?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the five digits with product 5*
+*Sum of five digits with product 5*
 
-> A number (in decimal form) has five digits. Multiplying them together, we get 5. What is the sum of the five digits? A) 1 B) 5 C) 6 D) 25 E) A number different from the previous one
+> A number (in decimal representation) has five digits. When these digits are multiplied together, we get 5. What is the sum of the five digits?
+> A) 1
+> B) 5
+> C) 6
+> D) 25         
+> E) A number different from the preceding ones
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_cadet#q05|src_kangourou_2012_cadet__Q05]]
 
 
 
@@ -217,11 +255,22 @@ How many heads does the dragon have after the cuts?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which expression is invariant by replacing 8*
+*Which invariant expression by substituting 8*
 
-> In which of the following expressions can we replace the number 8, every time it occurs, with the same positive number (other than 8) and get the same result? A)  (8 + 8) : 8 + 8 B) 8 ⋅(8 + 8) : 8 C) 8 + 8 – 8 + 8 D)  (8 + 8 – 8) ⋅8 E) (8 + 8 – 8) : 8
+> In which of the following expressions can we replace the number 8, each time it appears, with the same positive number (different from 8) and still get the same result?
+> A)  (8 + 8) : 8 + 8
+> B) 8 ⋅(8 + 8) : 8
+> C) 8 + 8 – 8 + 8 
+> D)  (8 + 8 – 8) ⋅8 
+> E) (8 + 8 – 8) : 8
+>
+> Pag. Pag. 17 17 Kang 2012 Kang 2012
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2012_cadet#q06|src_kangourou_2012_cadet__Q06]]
 
 
 
@@ -255,13 +304,24 @@ How many heads does the dragon have after the cuts?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Longest route from A to B without repeating sidewalks*
+*Longest route from A to B without repeating any pathways*
 
 ![[src_kangourou_2012_cadet__prob7.png]]
 
-> In the public gardens there are 9 avenues arranged as shown in the figure. Every alley is 50 meters long. Anna wants to go from A to B without going down the same alleyway more than once. How many meters is the longest path she can choose to follow? A) 450 B) 400 C) 350 D) 300 E) 200
+> In the public gardens, there are 9 little paths arranged like
+> As indicated in the figure. Each path is 50 meters long. Anna wants to go from A to B without using the same path more than once. How many meters long is the longest route she can choose to follow?
+> A) 450 
+> B) 400
+> C) 350
+> D) 300
+> E) 200
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_cadet#q07|src_kangourou_2012_cadet__Q07]]
 
 
 
@@ -296,13 +356,23 @@ How many heads does the dragon have after the cuts?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to choose vertices without cutting triangles*
+*In how many ways can vertices be chosen without cutting the triangles?*
 
 ![[src_kangourou_2012_cadet__prob8.png]]
 
-> The figure shows you two triangles in a precise position. In each of the two triangles, choose a vertex so that the segment that joins the two vertices you chose doesn't cut either of the two triangles. How many ways can you operate the choice? A) 1 B) 2 C) 3 D) 4 E) more than 4
+> The figure shows you two triangles in a specific position. In each of the two triangles, choose a vertex so that the line segment joining the two vertices you have chosen does not intersect either of the two triangles: in how many ways can you make the choice?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) more than 4
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_cadet#q08|src_kangourou_2012_cadet__Q08]]
 
 
 
@@ -337,13 +407,24 @@ How many heads does the dragon have after the cuts?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What shape does not come with two cuts on folded sheet*
+*Which shape cannot be obtained by two cuts on a folded sheet?*
 
 ![[src_kangourou_2012_cadet__prob9.png]]
 
-> William folds a sheet of paper in half as shown in the figure. If he makes two straight cuts with the scissors and then reopens the sheet, he certainly cannot get one of the following shapes. Which one? A) B) C) D) E)
+> Guglielmo folds a sheet of paper to
+> Half, as shown in the figure. If you make two straight cuts with scissors and then unfold the sheet, you certainly can't obtain one of the following shapes. Which one?
+> A)
+> B)  
+> C)
+> D) 
+> E)
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_cadet#q09|src_kangourou_2012_cadet__Q09]]
 
 
 
@@ -378,13 +459,24 @@ How many heads does the dragon have after the cuts?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What and the white block of the paralelepiped*
+*What is the white block of the parallelepiped?*
 
 ![[src_kangourou_2012_cadet__prob10.png]]
 
-> The parallel-piped rectangle you see in the figure is made by assembling four blocks of different colors, one of which is white. Each block, in turn, is made by attaching 4 cubes, all of the same size and color. What's the white block? (A) B) C) D) E) Questions from N. 11 al N. 20 is worth 4 points each.
+> The right rectangular parallelepiped that you see in the figure
+> It is made by assembling four blocks of different colors, one of which is white. Each block, in turn, is made by placing 4 small cubes side by side, all of the same size and color. Which block is white?
+> A)
+> B)
+> C)
+> D)
+> E) 
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_cadet#q10|src_kangourou_2012_cadet__Q10]]
 
 
 
@@ -422,25 +514,24 @@ How many heads does the dragon have after the cuts?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of two 4-digit numbers with digits 1-8*
+*Minimum sum of two 4-digit numbers using digits 1–8*
 
-> Using each of the digits 1, 2, 3, 4, 5, 6, 7, 8 exactly once
-> we form two 4-digit numbers in such a way that their sum is as small as possible. What is the value of that sum? 
+> Using each of the digits 1, 2, 3, 4, 5, 6, 7, 8 exactly once, we form two 4-digit numbers in such a way that their sum is as small as possible. What is the value of this sum?
 > A) 2468
 > B) 3825
 > C) 4023
 > D) 4734
 > E) 6912
-> A
-> B
-> 
-> Pag. 
-> Pag. 18
-> 18
-> Kang 2012
-> Kang 2012
+> A B
+>
+> Pag. Pag. 18 18 Kang 2012 Kang 2012
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_cadet#q11|src_kangourou_2012_cadet__Q11]]
 
 
 
@@ -475,23 +566,23 @@ How many heads does the dragon have after the cuts?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the pea patch before the change*
+*Area of the pea bed before the change*
 
 ![[src_kangourou_2012_cadet__prob12.png]]
 
-> Mrs Ortolani has a field in which she grows
-> peas and strawberries in two adjacent rectangular patches as shown in the figure. This year she
-> lengthened by 3 metres one of the sides of the pea
-> patch so that the patch became square.
-> By doing so the area of the strawberry patch decreased by 15 m2. Before the change, how many square
-> metres did the area of the pea patch measure?
+> Mrs. Ortolani has a field where she grows crops.
+> Peas and strawberries in two adjacent rectangular flowerbeds, as shown in the figure. This year, they extended one of the sides of the pea bed by 3 metres so that the bed became square. By doing so, the area of the strawberry bed decreased by 15 m². Before the change, how many square metres was the area of the pea bed?
 > A) 5 
 > B) 9 
 > C) 10 
 > D) 15 
 > E) 18
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_cadet#q12|src_kangourou_2012_cadet__Q12]]
 
 
 
@@ -524,13 +615,23 @@ How many heads does the dragon have after the cuts?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the central cell with sums of 100,200,300*
+*Number in the central cell with sums 100,200,300*
 
 ![[src_kangourou_2012_cadet__prob13.png]]
 
-> Barbara wants to complete the grid that follows by inserting a number into each of the empty cells. She wants the sum of the first three numbers (left) to be 100, the sum of the three numbers in the middle to be 200 and the sum of the last three is 300. What number do you have to put in the central cell of the grid? A) 50 B) 60 C) 70 D) 75 E) 100
+> Barbara wants to complete the following grid by placing a number in each of the empty cells. She wants the sum of the first three numbers (from the left) to be 100, the sum of the three middle numbers to be 200, and the sum of the last three to be
+> 300. Which number should be entered in the central cell of the grid?
+> A) 50
+> B) 60
+> C) 70
+> D) 75
+> E) 100
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2012_cadet#q13|src_kangourou_2012_cadet__Q13]]
 
 
 
@@ -562,13 +663,23 @@ How many heads does the dragon have after the cuts?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure of the angle in A of the starry pentagon*
+*Measure of the angle at A in the star pentagon*
 
 ![[src_kangourou_2012_cadet__prob14.png]]
 
-> The figure shows a stellar pentagon and the degree measurements of some of the angles formed by its sides. How many degrees does the angle in A measure? A) 35 B) 42 C) 51 D) 65 E) 109
+> The figure shows a star pentagon and the
+> Measurements in degrees of some of the angles formed by its sides. How many degrees is the angle at A?
+> A) 35
+> B) 42
+> C) 51
+> D) 65
+> E) 109
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_cadet#q14|src_kangourou_2012_cadet__Q14]]
 
 
 
@@ -600,11 +711,19 @@ How many heads does the dragon have after the cuts?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Any number on paper with more than 100*
+*Which number on the card is greater than 100?*
 
-> We have four cards. The numbers 2, 5, 7 and 12 are each written on one side of a card; on the opposite side one of the following attributes is instead written: divisible by 7, prime, odd, greater than 100. It is known that in each card the number written does not correspond to the attribute written on the opposite face. What number is written on the card with the attribute  greater than 100? A) 2 B) 5 C) 7 D) 12 E) 2 or 5, but it is not possible to decide
+> We have four cards. The numbers 2, 5, 7, and 12 are each written on one side of a card; on the opposite side, one of the following attributes is written: "divisible by 7", "prime", "odd", "greater than 100". It is known that on each card, the number written does not correspond to the attribute written on the opposite side. Which number is written on the card bearing the attribute "greater than 100"?
+> A) 2
+> B) 5
+> C) 7 D) 12 E) Either 2 or 5, but it's impossible to decide
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_cadet#q15|src_kangourou_2012_cadet__Q15]]
 
 
 
@@ -687,7 +806,7 @@ How many heads does the dragon have after the cuts?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of triangles cut from the equilateral triangle*
+*Area of the triangles cut from the equilateral triangle*
 
 ![[src_kangourou_2012_cadet__prob16.png]]
 
@@ -712,9 +831,22 @@ How many heads does the dragon have after the cuts?
 \end{document}
 ```
 
-> From an equilateral triangle with a side length of 6 cm three equilateral triangles were cut as shown in the figure, where the remaining hexagon is highlighted in gray. The sum of the perimeters of the three cut triangles is equal to the perimeter of the hexagon. How many centimeters does the side of the cut triangles measure? A) 1 B) 1.2 C) 1.25 D) 1.5 E) 2 Aid first strawberries strawberries 10 130 58° 100° 93° x ° A B C D E Aid dopo 100° 93° 58° x °
+> From an equilateral triangle with a side length of 6 cm
+> Three identical equilateral triangles were cut out as shown in the figure, where the remaining hexagon is highlighted in gray. The sum of the perimeters of the three cut-out triangles is equal to the perimeter of the hexagon. How many centimeters long is the side of the cut-out triangles?
+> A) 1
+> B) 1,2
+> C) 1,25
+> D) 1,5 
+> E) 2
+> Beds “before” strawberries strawberries peas peas 10 130 58° 100° 93° x° A B C D E Beds “after” 100° 93° 58° x°
+>
+> Pag. Pag. 19 19 Kang 2012 Kang 2012
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_cadet#q16|src_kangourou_2012_cadet__Q16]]
 
 
 
@@ -747,11 +879,21 @@ How many heads does the dragon have after the cuts?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of mice seen by Leo*
+*Maximum number of mice seen by Leone*
 
-> A form of cut-up cheese was left unattended and the mice stole pieces all day. Leo, a lazy cat, noted that each mouse stole less than 10 pieces of cheese, that each mouse stole a different number of pieces from the others, that no mouse stole exactly twice the pieces of another mouse. What is the maximum number of different mice that Leo could have seen? A) 4 B) 5 C) 6 D) 7 E) 8
+> A piece of cheese cut into chunks was left unattended, and the mice stole chunks all day long. Leone, a lazy cat, noticed that each mouse stole fewer than 10 chunks of cheese, that each mouse stole a different number of chunks from the others, and that no mouse stole exactly twice as many chunks as another mouse. What is the maximum number of different mice that Leone could have seen?
+> A) 4
+> B) 5
+> C) 6
+> D) 7
+> E) 8
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_cadet#q17|src_kangourou_2012_cadet__Q17]]
 
 
 
@@ -781,11 +923,20 @@ Maximum number of mice seen by Leo*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between Anna and Luigi on the moving walkway*
+*Distance between Anna and Luigi on the moving sidewalk*
 
-> At the airport there is a 500-metre-long horizontal moving walkway that moves at a speed of 4 km/h. Anna and Luigi climb together on the moving walkway: Luigi stands still while Anna walks at a speed of 6 km/h: in the moment she leaves the moving walkway, how many meters is Anna from Luigi? A) 100 B) 160 C) 200 D) 250 E) 300
+> At the airport, there is a 500-metre-long horizontal moving walkway that moves at a speed of 4 km/h. Anna and Luigi get on the moving walkway together: Luigi remains stationary while Anna walks at a speed of 6 km/h. At the instant she leaves the moving walkway, how many metres is Anna from Luigi?
+> A) 100
+> B) 160 
+> C) 200 
+> D) 250
+> E) 300
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2012_cadet#q18|src_kangourou_2012_cadet__Q18]]
 
 
 
@@ -820,9 +971,19 @@ Maximum number of mice seen by Leo*
 
 *Maximum perimeter of the magic square after the statements*
 
-> There's a magic square that can talk. If he tells the truth, his side becomes two centimeters shorter, but if he lies, his perimeter doubles. Initially his side was 8 cm long; then he made four statements, two of which were true and two false, but we don't know in which order. How many centimeters can you measure the perimeter of the magic square after the four statements? A) 28 B) 80 C) 88 D) 112 E) 120
+> There is a magic square that can speak. If it tells the truth, its side becomes 2 cm shorter; if, on the other hand, it lies, its perimeter doubles. Initially, its side was 8 cm long; then it made four statements, two of which were true and two false, but we don't know in what order. What is the maximum possible length, in centimeters, of the perimeter of the magic square after the four statements?
+> A) 28
+> B) 80
+> C) 88
+> D) 112
+> E) 120
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_cadet#q19|src_kangourou_2012_cadet__Q19]]
 
 
 
@@ -854,13 +1015,23 @@ Maximum number of mice seen by Leo*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What positions are occupied by the same face of the cube*
+*What positions are occupied by the same face of the cube?*
 
 ![[src_kangourou_2012_cadet__prob20.png]]
 
-> A cube rolls on the floor, rotating around its edges. The face touching the plane passes in order through the positions 1, 2, 3, 4, 5, 6 and 7 shown in the figure. Only two of these positions are occupied by the same face of the cube: which? A) 1 and 7 B) 1 and 6 C) 1 and 5 D) 2 and 7 E) 2 and 6 The questions from N. 21 to N. 30 are worth 5 points each.
+> A cube rolls on a plane, rotating about its edges. The face in contact with the plane passes in sequence through positions 1, 2, 3, 4, 5, 6, and 7 shown in the figure. Only two of these positions are occupied by the same face of the cube: which ones?
+> A) 1 e 7
+> B) 1 e 6
+> C) 1 e 5
+> D) 2 e 7
+> E) 2 e 6
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_cadet#q20|src_kangourou_2012_cadet__Q20]]
 
 
 
@@ -904,13 +1075,23 @@ Maximum number of mice seen by Leo*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of the tower by stacking the five cubes*
+*Height of the tower when the five cubes are stacked*
 
-> Paolo has five cubes. When you align them from the smallest to the largest, the height difference of two consecutive cubes is always 2 cm. The height of the largest cube coincides with the height of the tower which is formed by overlapping the two smaller cubes. How tall is the tower formed by stacking all five cubes? A) 6 B) 14 C) 22 D) 44 E) 50 1 2 3 4 5 6 7
-> 
-> Page 20 Kang 2012 Kang 2012
+> Paolo has 5 cubes. When he lines them up from smallest to largest, the height difference between two consecutive cubes is always 2 cm. The height of the largest cube is equal to the height of the tower formed by stacking the two smallest cubes. How many centimeters tall is the tower formed by stacking all 5 cubes?
+> A) 6
+> B) 14 
+> C) 22 
+> D) 44 
+> E) 50
+> 1 2 3 4 5 6 7
+>
+> Pag. Pag. 20 20 Kang 2012 Kang 2012
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_cadet#q21|src_kangourou_2012_cadet__Q21]]
 
 
 
@@ -963,7 +1144,7 @@ Maximum number of mice seen by Leo*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio between area of CMN triangle and square ABCD*
+*Ratio of the area of triangle CMN to the area of square ABCD*
 
 ![[src_kangourou_2012_cadet__prob22.png]]
 
@@ -986,9 +1167,20 @@ Maximum number of mice seen by Leo*
 \end{document}
 ```
 
-> Find the ratio between the area of the CMN triangle (highlighted in gray in the figure) and that of the ABCD square, knowing that M is the middle point of AD and MN is perpendicular to AC. A) 1:6 B) 1:5 C) 7:36 D) 3:16 E) 7:40
+> Find the ratio of the area of the triangle
+> CMN (highlighted in grey in the figure) and that of square ABCD, given that M is the midpoint of AD and MN is perpendicular to AC.
+> A) 1:6
+> B) 1:5
+> C) 7:36
+> D) 3:16
+> E) 7:40
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_cadet#q22|src_kangourou_2012_cadet__Q22]]
 
 
 
@@ -1019,11 +1211,21 @@ Maximum number of mice seen by Leo*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which numbers are definitely adjacent in the circle*
+*Which numbers are certainly adjacent on the circle?*
 
-> David arranges the twelve integers from 1 to 12 in a circle, so that two adjacent numbers always differ by 2 or 3. Which of the following numbers are certainly adjacent? A) 5 and 8 B) 3 and 5 C) 7 and 9 D) 6 and 8 E) 4 and 6
+> Davide arranges the twelve integers from 1 to 12 in a circle so that any two adjacent numbers always differ by 2 or by 3. Which of the following numbers are certainly adjacent?
+> A) 5 e 8
+> B) 3 e 5
+> C) 7 e 9
+> D) 6 e 8
+> E) 4 e 6
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_cadet#q23|src_kangourou_2012_cadet__Q23]]
 
 
 
@@ -1059,9 +1261,18 @@ Maximum number of mice seen by Leo*
 
 ![[src_kangourou_2012_cadet__prob24.png]]
 
-> The region you see in the figure is obtained by placing side by side a square of 4 cm on the side, a square of 5 cm on the side, a triangle with an area of 8 cm2 and a parallelogram. How much is the area of the parallelogram (shaded) in square centimetres? A) 15 B) 16 C) 18 D) 20 E) 21
+> The region shown in the figure is formed by joining together a square with sides 4 cm long, a square with sides 5 cm long, a triangle with an area of 8 cm², and a parallelogram. What is the area, in square centimetres, of the parallelogram (shaded)?
+> A) 15
+> B) 16
+> C) 18
+> D) 20
+> E) 21
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_cadet#q24|src_kangourou_2012_cadet__Q24]]
 
 
 
@@ -1091,11 +1302,20 @@ Maximum number of mice seen by Leo*
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many people were dancing at that moment?
+*How many people were dancing at that moment?*
 
-> Tango is danced in pairs of a man and a woman. No more than 50 people attended a dance party. At some point, three-quarters of the men were dancing with four-fifths of the women. How many people were dancing at that moment? A) 20 B) 24 C) 30 D) 32 E) 46
+> Tango is danced in couples consisting of one man and one woman. At a dance evening, no more than 50 people were present. At a certain point, 3/4 of the men were dancing with 4/5 of the women. How many people were dancing at that moment?
+> A) 20
+> B) 24   
+> C) 30
+> D) 32
+> E) 46
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_cadet#q25|src_kangourou_2012_cadet__Q25]]
 
 
 
@@ -1137,29 +1357,24 @@ How many people were dancing at that moment?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the three-digit numbers with the strange property*
+*Sum of three-digit numbers with the strange property*
 
-> There exist some (positive integer) three-digit numbers (with significant digits) that
-> have the following property: whether you remove the first digit or you remove the last digit, you obtain a perfect square. What is the sum of all the three-digit numbers (with significant digits) with this strange property?
+> There are some three-digit (significant-digit) positive integers that have the following property: whether you remove the first digit or remove the last digit, you get a perfect square. What is the sum of all three-digit (significant-digit) numbers with this strange property?
 > A) 1013
 > B) 1177
 > C) 1465
 > D) 1993
 > E) 2016
-> A
-> B
-> C
-> D
-> M
-> N
-> 
-> Pag. 
-> Pag. 21
-> 21
-> Kang 2012
-> Kang 2012
+> A B C D M N
+>
+> Pag. Pag. 21 21 Kang 2012 Kang 2012
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_cadet#q26|src_kangourou_2012_cadet__Q26]]
 
 
 
@@ -1192,11 +1407,21 @@ How many people were dancing at that moment?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most stories that start on odd pages*
+*Maximus, stories that begin on odd-numbered pages*
 
-> There are 30 stories in a book. The stories all have different lengths: 1, 2, 3, ..., 30 pages, but they are not said to be in increasing order of length. Every story begins on a new page and there are no blank pages between one story and another. The first story begins on page 1. How many stories can start on an odd page? A) 15 B) 18 C) 20 D) 21 E) 23
+> A book contains 30 stories. All the stories have different lengths: 1, 2, 3, ..., 30 pages, but they are not necessarily arranged in increasing order of length. Each story begins on a new page, and there are no blank pages between one story and the next. The first story starts on page 1. What is the maximum number of stories that can begin on an odd-numbered page?
+> A) 15
+> B) 18
+> C) 20
+> D) 21
+> E) 23
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_cadet#q27|src_kangourou_2012_cadet__Q27]]
 
 
 
@@ -1227,11 +1452,21 @@ How many people were dancing at that moment?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many distinct positions of the rotating equilateral triangle*
+*How many distinct positions of the rotating equilateral triangle?*
 
-> An equilateral triangle rotates, always in the same direction, around its center before 3 degrees, then 9 degrees, then 27 degrees, and so on (i.e. at the n-th rotation it rotates by 3n degrees). How many different positions (including the first) will the triangle occupy during these rotations? A) 3 B) 4 C) 5 D) 6 E) 360
+> An equilateral triangle rotates, always in the same direction, about its center by 3 degrees, then by 9 degrees, then by 27 degrees, and so on (that is, on the n-th rotation, it rotates through 3^n degrees). How many different positions (including the first) will the triangle occupy during these rotations?
+> A) 3
+> B) 4
+> C) 5
+> D) 6
+> E) 360
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_cadet#q28|src_kangourou_2012_cadet__Q28]]
 
 
 
@@ -1262,18 +1497,21 @@ How many people were dancing at that moment?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What length cannot the folded and cut string have*
+*What length can the folded and cut string not have?*
 
-> A string was folded in half, and then in half again and then in half
-> again. In the end the string folded in this way was cut only once and several
-> pieces were formed. One of them is 9 cm long, another 4 cm. Then the length in centimetres of the entire string 
+> A piece of string was folded in half, then folded in half again, and then folded in half once more. Finally, the string, folded in this way, was cut only once, and several pieces were formed. One of them is 9 cm long, and another is 4 cm long. So, the length in centimeters of the entire piece of string
 > A) cannot be 52.
 > B) cannot be 68.
 > C) cannot be 72.
 > D) cannot be 88.
-> E) can be any of the proposed measurements.
+> E) can be any of the proposed measures.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_cadet#q29|src_kangourou_2012_cadet__Q29]]
 
 
 
@@ -1311,20 +1549,19 @@ How many people were dancing at that moment?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the central cell of the 3×3 grid with products*
+*Number in the central cell of the 3x3 grid with products*
 
-> In each cell of a 3×3 grid, a positive number has been placed such that
-> - for each row and each column, the product of the numbers in that row or column is 1,
-> and
-> - for each 2×2 square formed by adjoining adjacent cells in the 3×3 grid, the product of the numbers in that square is 2.
-> What number appears in the central cell?
+> In each cell of a 3x3 grid, a positive number has been placed so that, for each row and each column, the product of the numbers contained in the row or column is 1, and for each 2x2 square grid formed by adjoining adjacent cells of the 3x3 grid, the product of the numbers contained in the grid is 2. Which number appears in the central cell?
+> A) 16
+> B) 8
+> C) 4
+> D) 1/4
+> E) 1/8
 >
-> (A) 16
-> (B) 8
-> (C) 4
-> (D) 1/4
-> (E) 1/8
-> 
-> SOLUTIONS CADET 2012
+> CADET 2012 ANSWERS
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_cadet#q30|src_kangourou_2012_cadet__Q30]]

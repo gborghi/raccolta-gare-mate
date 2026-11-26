@@ -35,15 +35,22 @@ level: China Mathematical Competition (Complementary Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti di centro del cerchio circoscritto, centro interno, prova di conciclicità*
+*Punti medi della circonferenza circoscritta, centro interno, dimostrazione della conciclicità*
 
-> (30 marchi) Come mostrato alla figura. 1, $M$, $N$ sono i punti medi degli archi $\widehat{BC}$ e $\widehat{AC}$, rispettivamente, che si trovano sul cerchio circonscritto di un triangolo acuto $\triangle ABC$ ($\angle A < \angle B$). Attraverso il punto $C$ tracciare $PC \perp MN$, intercettando il cerchio $\Gamma$ al punto $P$. $I$ è il centro interno di $\triangle ABC$. Estendere la linea $PI$ per intercettare $\Gamma$ al punto $T$.
-> 
-> (1) Provare che $MP > MT = NP > NT$.
-> 
-> (2) Per un punto arbitrario $Q$ ($Q \neq A, T, B$) su arco $\widehat{AB}$ (non contenente $C$), indicare rispettivamente i centri interni di $\triangle AQC$, $\triangle QCB$ da $I_1$ e $I_2$. Provare che $Q$, $I_1$, $I_2$, $T$ sono conciclici.
+> (30 punti) Come mostrato nella Fig. 1, $M$, $N$ sono i punti medi degli archi $\widehat{BC}$, $\widehat{AC}$ rispettivamente, i quali giacciono sulla circonferenza circoscritta a un triangolo acuto $\triangle ABC$ ($\angle A < \angle B$). Passando per il punto $C$, si traccia $PC \perp MN$, che interseca la circonferenza $\Gamma$ nel punto $P$. $I$ è il centro interno di $\triangle ABC$. Si prolunga la retta $PI$ fino a intersecare $\Gamma$ nel punto $T$.
+>
+> (1) Dimostrare che $MP > MT = NP > NT$.
+>
+> (2) Per un punto arbitrario $Q$ ($Q \neq A, T, B$) sull'arco $\widehat{AB}$ (che non contiene $C$), si indichino con $I_1$, $I_2$ rispettivamente i centri interni di $\triangle AQC$, $\triangle QCB$. Dimostrare che $Q$, $I_1$, $I_2$, $T$ sono concyclici.
 
 ![[src_cn_cmc-complementary-test_2009__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-complementary-test_2009#q01|src_cn_cmc-complementary-test_2009__Q01]]
 
 
 
@@ -67,9 +74,17 @@ level: China Mathematical Competition (Complementary Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la doppia disuguaglianza per la somma parziale armonica meno log n*
+*Dimostrare la doppia disuguaglianza per la somma parziale di tipo armonico meno log n*
 
-> (50 marchi) dimostrare che $$-1 < \left(\sum_{k=1}^{n} \frac{k}{k^2+1}\right) - \ln n \leq \frac{1}{2}, \quad n = 1, 2, \ldots$$
+> (50 punti) Dimostrare che
+> $$-1 < \left(\sum_{k=1}^{n} \frac{k}{k^2+1}\right) - \ln n \leq \frac{1}{2}, \quad n = 1, 2, \ldots$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-complementary-test_2009#q02|src_cn_cmc-complementary-test_2009__Q02]]
 
 
 
@@ -92,9 +107,16 @@ level: China Mathematical Competition (Complementary Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Infinitamente molti m >= k con C(m,k) coprimo a l*
+*Infiniti m >= k tali che C(m,k) sia coprimo con l*
 
-> (50 punti) Supponiamo che $k$, $l$ siano due numeri interi positivi. Prova che ci sono infiniti interi positivi $m \geq k$ in modo tale che $\binom{m}{k}$ e $l$ siano relativamente primi.
+> (50 punti) Siano $k$, $l$ due interi positivi. Dimostrare che esistono infiniti interi positivi $m \geq k$ tali che $\binom{m}{k}$ e $l$ siano coprimi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-complementary-test_2009#q03|src_cn_cmc-complementary-test_2009__Q03]]
 
 
 
@@ -136,20 +158,32 @@ level: China Mathematical Competition (Complementary Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Matrice nonneg 3x9 con proprietà (O) sulla prima sottomatrice di tre colonne*
+*Matrice non negativa 3x9 con proprietà (O) sulla sottomatrice delle prime tre colonne*
 
-> (50 punti) Supponiamo che una matrice di voci non negative $$P = \begin{pmatrix} x_{11} & x_{12} & x_{13} & x_{14} & x_{15} & x_{16} & x_{17} & x_{18} & x_{19} \\ x_{21} & x_{22} & x_{23} & x_{24} & x_{25} & x_{26} & x_{27} & x_{28} & x_{29} \\ x_{31} & x_{32} & x_{33} & x_{34} & x_{35} & x_{36} & x_{37} & x_{38} & x_{39} \end{pmatrix}$$ abbia le seguenti proprietà:
-> 
-> (1) I numeri di una riga sono diversi l'uno dall'altro;
-> 
-> (2) La somma dei numeri di una colonna delle prime sei colonne è $1$;
-> 
+> (50 punti) Si supponga che una matrice a entrate non negative
+> $$P = \begin{pmatrix} x_{11} & x_{12} & x_{13} & x_{14} & x_{15} & x_{16} & x_{17} & x_{18} & x_{19} \\ x_{21} & x_{22} & x_{23} & x_{24} & x_{25} & x_{26} & x_{27} & x_{28} & x_{29} \\ x_{31} & x_{32} & x_{33} & x_{34} & x_{35} & x_{36} & x_{37} & x_{38} & x_{39} \end{pmatrix}$$
+> abbia le seguenti proprietà:
+>
+> (1) I numeri in una riga sono tutti diversi tra loro;
+>
+> (2) La somma dei numeri in una colonna tra le prime sei colonne è $1$;
+>
 > (3) $x_{i4} = x_{i5} = x_{i6} = 0$ per $i = 1, 2, 3$;
-> 
+>
 > (4) $x_{i1} + x_{i2} + x_{i3} + x_{i7} + x_{i8} + x_{i9} \geq 1$.
-> 
-> La matrice $S$ è costituita dalle prime tre colonne di $P$: $$S = \begin{pmatrix} x_{11} & x_{12} & x_{13} \\ x_{21} & x_{22} & x_{23} \\ x_{31} & x_{32} & x_{33} \end{pmatrix}.$$ $S$ ha la seguente proprietà:
-> 
-> (O) Per ogni colonna $\begin{pmatrix} x_{1k} \\ x_{2k} \\ x_{3k} \end{pmatrix}$ ($k = 1, 2, \ldots, 9$) in $P$, esiste $i \in \{1, 2, 3\}$ tale che $$x_{ik} \leq u_i = \min(x_{i1}, x_{i2}, x_{i3}).$$
-> 
-> Provare che $\widetilde{S}$, la matrice ottenuta riordinando due righe di $S$, ha anche la proprietà (O).
+>
+> La matrice $S$ è costituita dalle prime tre colonne di $P$:
+> $$S = \begin{pmatrix} x_{11} & x_{12} & x_{13} \\ x_{21} & x_{22} & x_{23} \\ x_{31} & x_{32} & x_{33} \end{pmatrix}.$$
+> $S$ ha la seguente proprietà:
+>
+> (O) Per ogni colonna $\begin{pmatrix} x_{1k} \\ x_{2k} \\ x_{3k} \end{pmatrix}$ ($k = 1, 2, \ldots, 9$) in $P$, esiste $i \in \{1, 2, 3\}$ tale che
+> $$x_{ik} \leq u_i = \min(x_{i1}, x_{i2}, x_{i3}).$$
+>
+> Dimostrare che $\widetilde{S}$, la matrice ottenuta scambiando due righe qualsiasi di $S$, possiede anch'essa la proprietà (O).
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-complementary-test_2009#q04|src_cn_cmc-complementary-test_2009__Q04]]

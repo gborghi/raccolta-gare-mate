@@ -39,9 +39,13 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Year in which Greta's total of children exceeds that of Eva
+*Year in which the sum of Greta's children's ages exceeds Eva's*
 
-> On Venus, in the Venusian year 33, Eva and Greta meet in the gardens. Eve says to Greta, "I only have 153 children, but at the end of this year their ages will be more than 100 years older than your children's ages, which are also 180!" During what Venusian year will the sum of the ages of Greta's children exceed that of Eve's children?
+> On Venus, in the Venusian year 33, Eva and Greta meet in the gardens. Eva says
+> to Greta: “I have only 153 children, but at the end of this year the sum of their ages
+> will be more than 100 years greater than the sum of the ages of your children, who are also 180!”.
+> During which Venusian year will the sum of the ages of Greta's children exceed that
+> of Eva's children?
 >
 > - **(A)** 37,
 > - **(B)** 38,
@@ -49,7 +53,10 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(D)** 40,
 > - **(E)** 41.
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2009_triennio#q03|src_archimede_2009_triennio__Q03]]
 
 
 
@@ -82,9 +89,10 @@ Year in which Greta's total of children exceeds that of Eva
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of school pupils graduated, transferred and enrolled*
+*Number of students in the school from graduates, transfers and enrolments*
 
-> 6) At the end of last year, 18% of pupils in the whole school graduated from one school and another 3% of pupils moved to other schools. This year 84 new pupils have enrolled in the school and the number of pupils is now the same as last year. How many students does the school have?
+> 6)
+> At the end of last year, 18% of the students in the whole school graduated and another 3% of the students transferred to other schools. This year 84 new students enrolled at the school and now the number of students is equal to last year's. How many students does the school have?
 >
 > - **(A)** 324,
 > - **(B)** 400,
@@ -92,7 +100,10 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(D)** 525,
 > - **(E)** 600.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2009_triennio#q06|src_archimede_2009_triennio__Q06]]
 
 
 
@@ -123,9 +134,11 @@ Year in which Greta's total of children exceeds that of Eva
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of female average grade in class*
+*Number of girls from the class average grades*
 
-> A math test was taken in one class and the average score was 7. In addition, the average male score was 6.5 while the female score was 8. If the boys in the class are 10, how many are the girls?
+> In a class a maths test was taken and the average grade was 7. Moreover
+> the average grade of the boys was 6.5 while that of the girls was 8. If the
+> boys of the class are 10, how many are the girls?
 >
 > - **(A)** 4,
 > - **(B)** 5,
@@ -133,7 +146,10 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(D)** 9,
 > - **(E)** 11.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2009_triennio#q10|src_archimede_2009_triennio__Q10]]
 
 
 
@@ -168,17 +184,21 @@ Year in which Greta's total of children exceeds that of Eva
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many wages between thieves, knights and wages*
+*Number of pages among knaves, knights and pages*
 
-> The hidden face of the moon is populated only by crooks, who always lie, knights who always tell the truth, and pagans, who when they utter two consecutive sentences, lie on one and tell the truth on the other, choosing randomly the order between the two. Three residents, Drago, Ludovico, and Orlando, make the following statements. Dragon: I'm a paid man. Louis is a knight. Louis: Orlando is a paycheck. I'm a con man. Orlando: I'm a paid man. We're all paid! How many of them are actually paid?
+> The far side of the Moon is populated only by knaves, who always lie, knights, who always tell the truth, and pages, who, when they utter two consecutive sentences, lie in one and tell the truth in the other, choosing the order of the two at random. Three inhabitants, Drago, Ludovico and Orlando, make the following statements. Drago: "I am a page. Ludovico is a knight". Ludovico: "Orlando is a page. I am a knave". Orlando: "I am a page. We are all pages!". How many of them are actually pages?
 >
 > - **(A)** 0,
 > - **(B)** 1,
 > - **(C)** 2,
 > - **(D)** 3,
-> - **(E)** It cannot be determined from the available data.
+> - **(E)** it cannot be determined from the data available.
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2009_triennio#q11|src_archimede_2009_triennio__Q11]]
 
 
 
@@ -210,9 +230,9 @@ Year in which Greta's total of children exceeds that of Eva
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little number with sum of 83 and product 1024*
+*Smallest number with sum 83 and product 1024*
 
-> On my board are written some positive integers, not necessarily distinct. If I add them up, I find 83, if I multiply them, I find 1024. What's the smallest number written on my board?
+> On my blackboard are written some positive integers, not necessarily distinct. If I add them I get 83, if I multiply them I get 1024. What is the smallest of the numbers written on my blackboard?
 >
 > - **(A)** 1,
 > - **(B)** 2,
@@ -220,7 +240,11 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(D)** 8,
 > - **(E)** 16.
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2009_triennio#q15|src_archimede_2009_triennio__Q15]]
 
 
 
@@ -251,9 +275,10 @@ Year in which Greta's total of children exceeds that of Eva
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of four digit numbers separated by 1,2,3,6*
+*Sum of four-digit numbers with distinct digits chosen from 1, 2, 3, 6*
 
-> What number is obtained by adding up all the numbers of four distinct digits, each of which can only be 1, 2, 3, or 6?
+> What number is obtained by adding all the numbers formed by four distinct digits,
+> where each digit can only be 1, 2, 3 or 6?
 >
 > - **(A)** 79992,
 > - **(B)** 13332,
@@ -261,7 +286,11 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(D)** 100000,
 > - **(E)** 63210.
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2009_triennio#q16|src_archimede_2009_triennio__Q16]]
 
 
 
@@ -296,9 +325,9 @@ Year in which Greta's total of children exceeds that of Eva
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Research area around the pentagonal building*
+*Search area around a pentagonal building*
 
-> David and Goliath live in a palace whose plan is a regular pentagon of 10 meters. The gate of the palace is placed on one of the vertices of the pentagon and the palace is surrounded, within a radius of a few kilometers, by flat ground. Goliath steals David's spoon, leaves the gate, travels no more than 20 meters (without entering the palace) and leaves the spoon on the ground. What is the maximum area David will have to search before he finds his spindle?
+> Davide and Golia live in a building whose floor plan is a regular pentagon with side 10 metres. The building's gate is located at one of the pentagon's vertices and the building is surrounded, within a radius of several kilometres, by flat ground. Golia steals David's slingshot, leaves through the gate, travels no more than 20 metres (without re-entering the building) and leaves the slingshot on the ground. What is the maximum area in which David must search, at most, before finding his slingshot?
 >
 > - **(A)** 320π m2,
 > - **(B)** 160π m2,
@@ -306,7 +335,11 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(D)** 100(2π + √ 5−1 2 ) m2,
 > - **(E)** 280π m2.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2009_triennio#q17|src_archimede_2009_triennio__Q17]]
 
 
 
@@ -338,7 +371,7 @@ Year in which Greta's total of children exceeds that of Eva
 
 *Second digit of the product (10^4+1)(10^2+1)(10+1)*
 
-> What's the second digit, starting from the left, of the number (104 + 1) ((102 + 1) ((10 + 1))?
+> What is the second digit, counting from the left, of the number (10^4 +1)(10^2+1)(10+1)?
 >
 > - **(A)** 0,
 > - **(B)** 1,
@@ -346,7 +379,11 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(D)** 3,
 > - **(E)** 4.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2009_triennio#q18|src_archimede_2009_triennio__Q18]]
 
 
 
@@ -381,11 +418,9 @@ Year in which Greta's total of children exceeds that of Eva
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded area with rectangle, circle and semicircular*
+*Shaded area with rectangle, circle and semicircles*
 
-![[src_archimede_2009_triennio__prob19.png]]
-
-> We draw a rectangle with sides of 5 cm and 12 cm, the circumference in which it is inscribed and the semicirculars which have the sides of the rectangle in diameter and are external to it, as shown in the figure next to it. What is the area of the shaded part?
+> We draw a rectangle with sides 5 cm and 12 cm, the circle in which it is inscribed, and the semicircles that have the sides of the rectangle as diameters and are external to it, as indicated in the figure alongside. What is the area of the shaded part?
 >
 > - **(A)** 45 cm2,
 > - **(B)** 13π cm2,
@@ -393,7 +428,10 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(D)** 60 cm2,
 > - **(E)** 20π cm2.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2009_triennio#q19|src_archimede_2009_triennio__Q19]]
 
 
 
@@ -424,9 +462,10 @@ Year in which Greta's total of children exceeds that of Eva
 <div class="qlang-split" data-lang="en"></div>
 
 
-*unit number of 66^66 divided by 2*
+*Units digit of 66^66 divided by 2*
 
-> What is the unit number of the number: 6666 2 ?
+> What is the units digit of the number: 6666
+> 2 ?
 >
 > - **(A)** 1,
 > - **(B)** 3,
@@ -434,7 +473,11 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(D)** 8,
 > - **(E)** 9.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2009_triennio#q20|src_archimede_2009_triennio__Q20]]
 
 
 
@@ -464,17 +507,21 @@ Year in which Greta's total of children exceeds that of Eva
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers n with n and (n-6)^2+1 both prime*
+*Natural numbers n for which both n and (n-6)^2+1 are prime*
 
-> For how many natural numbers n, are both n and (n −6) 2 + 1 prime?
+> For how many natural numbers n are both n and (n −6)2 + 1 prime?
 >
 > - **(A)** 1,
 > - **(B)** 3,
 > - **(C)** 4,
 > - **(D)** 7,
-> - **(E)** more than eight.
+> - **(E)** more than 8.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2009_triennio#q21|src_archimede_2009_triennio__Q21]]
 
 
 
@@ -506,9 +553,9 @@ Year in which Greta's total of children exceeds that of Eva
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of side cubes 3 cm given sum of volumes*
+*Number of 3 cm-side cubes given the sum of volumes*
 
-> Gabriele has ten cubes, three sizes: some have sides of 3 cm, others the side of 4 cm and others still have the side of 5 cm (he has at least one of each type). The sum of the volumes of the ten cubes is 577 cm3. How many cubes are there with a side of three centimeters?
+> Gabriele has ten cubes, of three sizes: some have side 3 cm, others have side 4 cm and still others have side 5 cm (he has at least one of each type). The sum of the volumes of the ten cubes is 577 cm3. How many cubes have side 3 cm?
 >
 > - **(A)** 2,
 > - **(B)** 3,
@@ -516,7 +563,11 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(D)** 5,
 > - **(E)** 6.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2009_triennio#q22|src_archimede_2009_triennio__Q22]]
 
 
 
@@ -548,9 +599,9 @@ Year in which Greta's total of children exceeds that of Eva
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Anthony hamiltonian paths on the cube shafts*
+*Ant Hamiltonian paths on the edges of the cube*
 
-> An ant is on top of a cube. It moves along the tips of the cube so that it passes once and only once from each vertex of the cube. How many distinct paths can he take?
+> An ant is on a vertex of a cube. It moves along the edges of the cube so as to pass exactly once through each vertex of the cube. How many distinct paths can it follow?
 >
 > - **(A)** 10,
 > - **(B)** 18,
@@ -558,7 +609,11 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(D)** 26,
 > - **(E)** 30.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2009_triennio#q24|src_archimede_2009_triennio__Q24]]
 
 
 
@@ -589,9 +644,9 @@ Year in which Greta's total of children exceeds that of Eva
 <div class="qlang-split" data-lang="en"></div>
 
 
-*External cubic surface area of spheres for midpoints*
+*Surface area of cube outside sphere for midpoints*
 
-> A 1 m side cube and a sphere have the same center and the surface of the sphere passes through the midpoints on all sides of the cube. What is the surface area of the cube outside the sphere?
+> A cube of side 1 m and a sphere have the same center, and the surface of the sphere passes through the midpoints of all the edges of the cube. What is the area of the surface of the cube outside the sphere?
 >
 > - **(A)** (6 −3π 2 ) m2,
 > - **(B)** (8 −2π) m2,
@@ -599,4 +654,7 @@ Year in which Greta's total of children exceeds that of Eva
 > - **(D)** (12 −3π) m2,
 > - **(E)** π m2.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2009_triennio#q25|src_archimede_2009_triennio__Q25]]

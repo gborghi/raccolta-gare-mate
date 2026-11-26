@@ -47,29 +47,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum moves to unify the 9 bicolor tokens*
+*What is the smallest number of moves that lets the game be finished?*
 
 ![[src_kangourou_2022_ecolier_finale__probe1.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \filldraw[fill=black, draw=black] (0,0) circle (0.45);
-  \filldraw[fill=white, draw=black, thick] (1.2,0) circle (0.45);
-  \filldraw[fill=black, draw=black] (2.4,0) circle (0.45);
-  \filldraw[fill=white, draw=black, thick] (0,-1.2) circle (0.45);
-  \filldraw[fill=white, draw=black, thick] (1.2,-1.2) circle (0.45);
-  \filldraw[fill=white, draw=black, thick] (2.4,-1.2) circle (0.45);
-  \filldraw[fill=black, draw=black] (0,-2.4) circle (0.45);
-  \filldraw[fill=white, draw=black, thick] (1.2,-2.4) circle (0.45);
-  \filldraw[fill=black, draw=black] (2.4,-2.4) circle (0.45);
-\end{tikzpicture}
-\end{document}
-```
+> On a table there are 9 counters, coloured white on one face and black on the other. The counters are arranged in a square in three rows and show their faces as the picture indicates. A game consists in trying to get all the counters to show faces of the same colour, white or black, by making only moves that consist in turning over all three counters of one and the same row, or of one and the same column, or of one and the same diagonal, the choice being free from move to move. What is the smallest number of moves that lets the game be finished? (see the picture)
 
-> On a table, there are nine tokens, white on one face and black on the other. The tokens are arranged in a square over three rows and show their faces as shown in the figure. A game consists of trying to get all the tokens to show the same colour, white or black faces, performing only moves that consist of flipping all three tokens of the same row or column or diagonal, and being able to choose from move to move. What's the smallest number of moves to finish the game? (see figure)
-
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 2
+[[Quesiti/src_kangourou_2022_ecolier_finale#qe1|src_kangourou_2022_ecolier_finale__QE1]]
 
 
 
@@ -92,11 +80,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time from A to B swimming with the same energy as the counter current*
+*How long would he take to reach bridge B starting from bridge A?*
 
-> A river is crossed by a bridge A and a bridge B and the river flows from A to B. Stefano enters the river in correspondence with bridge A and is passively carried by the current to bridge B, which he reaches in 6 minutes; then from bridge B, swimming against the current, he reaches bridge A, again in 6 minutes. If Stefano swam from bridge A to bridge B consuming the same energy used in his countercurrent route, how long would it take to reach bridge B from bridge A?
+> A river is crossed by a bridge A and a bridge B, and the river flows from A towards B. Stefano enters the river at bridge A and lets himself be carried passively by the current to bridge B, which he reaches in 6 minutes; then from bridge B, swimming against the current, he reaches bridge A, again in 6 minutes. If Stefano swam from bridge A to bridge B using the same energy as on his trip against the current, how long would he take to reach bridge B starting from bridge A?
 
-**Answer:** 2 minutes
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Answer:** 2 minuti
+[[Quesiti/src_kangourou_2022_ecolier_finale#qe2|src_kangourou_2022_ecolier_finale__QE2]]
 
 
 
@@ -119,11 +111,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sarah's position at the classification goal with Gino and Pino*
+*Which place does Sara occupy?*
 
-> Three students per class of the school participate in a cross-country race. In the final ranking, Sara is exactly in the middle of the ranking (i.e. there is the same number of participants who precede and follow her), while Gino follows her to 19th place and Pino follows her to 28th place. Knowing there were no ties, what place does Sara occupy?
+> Three pupils from each class of the school take part in a cross-country walking race. In the final ranking, Sara is exactly halfway (that is, the same number of participants are ahead of her as behind her), while Gino is behind her in 19th place and Pino is behind her in 28th place. Given that there were no ties, which place does Sara occupy?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 17
+[[Quesiti/src_kangourou_2022_ecolier_finale#qe3|src_kangourou_2022_ecolier_finale__QE3]]
 
 
 
@@ -148,13 +144,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which boxes contain bananas by weight*
+*Which crate or crates contain bananas?*
 
 ![[src_kangourou_2022_ecolier_finale__probe4.png]]
 
-> A greengrocer sells only apples, bananas and oranges. He received an order to compose 5 boxes, none of which contains both apples and bananas. He used a total of 4 oranges, each weighing two and a half hectograms; the total weight of the apples he used is three times that of the bananas he used. Here is the weight of the contents of the 5 boxes: box 1: 8 kg, box 2: 5 kg, box 3: 6 kg, box 4: 2 kg, box 5: 16 kg. Which box or boxes contain bananas?
+> A greengrocer sells only apples, bananas and oranges. He was ordered to make up 5 crates, none of which contains both apples and bananas. He used 4 oranges in all, each weighing two and a half hectograms; the total weight of the apples he used is three times that of the bananas he used. Here is the weight of the contents of the 5 crates: crate 1: 8 kg, crate 2: 5 kg, crate 3: 6 kg, crate 4: 2 kg, crate 5: 16 kg. Which crate or crates contain bananas?
 
-**Answer:** boxes 1 and 4
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Answer:** la 1 e la 4
+[[Quesiti/src_kangourou_2022_ecolier_finale#qe4|src_kangourou_2022_ecolier_finale__QE4]]
 
 
 
@@ -178,11 +178,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible number of Sundays in three consecutive months*
+*What are the possible results she obtained?*
 
-> Giulia has calculated correctly how many Sundays there can be in three consecutive months. What are the possible outcomes?
+> Giulia calculated, without making a mistake, how many Sundays there can be in all in three consecutive months. What are the possible results she obtained?
 
-**Answer:** 12 or 13 or 14
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Answer:** 12 o 13 o 14
+[[Quesiti/src_kangourou_2022_ecolier_finale#qe5|src_kangourou_2022_ecolier_finale__QE5]]
 
 
 
@@ -206,8 +211,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many cyclists have at least lied if the sum is 36
+*At least how many of them lied?*
 
-> Ten cyclists finish a race with different arrival times. After a while, a reporter asks each of them to tell him their order of arrival in that race, obviously with a number between 1 and 10. The reporter sums up the answers given to him and gets 36. He concludes that some certainly lied - how many, at least?
+> 10 cyclists finish a race with finishing times all different from one another. Some time later, a journalist asks each of them to tell him his own finishing place in that race, of course with a number between 1 and 10. The journalist adds up the answers he is given and obtains 36. He deduces that some of them certainly lied: how many, at least?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 3
+[[Quesiti/src_kangourou_2022_ecolier_finale#qe6|src_kangourou_2022_ecolier_finale__QE6]]

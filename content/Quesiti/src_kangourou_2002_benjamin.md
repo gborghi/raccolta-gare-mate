@@ -37,13 +37,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-palindromic alignment*
+*Which string of digits does not read the same both ways*
 
-> 2002 is an alignment of numbers that provides the same number whether it is read from the right or the left. Which of the following number alignments does not have the same property?
->  
-> A. 1991 B. 2323 C. 2112 D. 2222 E. 2332
+> 2002 is a string of digits that gives the same number whether it is read from the right or from the left. Which of the following strings of digits does not have the same property?
+>
+> A. 1991
+> B. 2323
+> C. 2112
+> D. 2222
+> E. 2332
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_benjamin#q01|src_kangourou_2002_benjamin__Q01]]
 
 
 
@@ -71,13 +78,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Line that cannot be part of the profile*
+*Which line cannot be part of the castle's outline*
 
 ![[src_kangourou_2002_benjamin__prob2.png]]
 
-> In the figure you can see the profile of a castle. Which of the following lines cannot be included in the profile?
+> The figure shows the outline of a castle. Which of the following lines cannot be part of the outline?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_benjamin#q02|src_kangourou_2002_benjamin__Q02]]
 
 
 
@@ -107,13 +117,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The euro that John gives to Stephen
+*How many euros Giovanni must give Stefano so that they have the same amount*
 
-> John has 132 euros while Stephen has only 86. How many euros must John give to Stephen for the two to have the same number of euros?
->  
-> A. 23 B. 32 C. 33 D. 43 E. 46
+> Giovanni has 132 euros while Stefano has only 86. How many euros must Giovanni give Stefano so that the two have the same number of euros?
+>
+> A. 23
+> B. 32
+> C. 33
+> D. 43
+> E. 46
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_benjamin#q03|src_kangourou_2002_benjamin__Q03]]
 
 
 
@@ -147,22 +164,23 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Members of the Kangourou family*
+*How many members the Kangourou family has*
 
-> Daddy and mummy Kangourou have 3 daughters. Each girl has 2 brothers. How many 
-> members of the Kangourou family are there? 
->  
-> A. 11 
->  B. 9  
-> C. 8  
-> D. 7  
-> E. 5 
->  
-> 
-> Benjamin 2002. Page No. 
+> Dad and Mum Kangourou have 3 daughters. Each girl has 2 brothers. How many members does the Kangourou family have?
+>
+> A. 11
+> B. 9
+> C. 8
+> D. 7
+> E. 5
+>
+> Benjamin 2002. Page no.
 > 2
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_benjamin#q04|src_kangourou_2002_benjamin__Q04]]
 
 
 
@@ -195,13 +213,21 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum mice for one colour of each*
+*The fewest mice Antony must draw to be sure of one of each colour*
 
-> The magician Antony has 14 grey mice in his magic hat, 8 white and 6 black. What is the minimum number of mice you have to pull out of his magic hat, blindfolded, to be absolutely sure that, among the extracted mice, there is at least one for each color?
->  
-> A. 23 B. 22 C. 21 D. 15 E. 9
+> The magician Antony has in his magic hat 14 grey baby mice, 8 white ones and 6 black ones. What is the smallest number of mice he must draw from the magic hat, blindfolded, to be absolutely sure that, among the baby mice drawn, there is at least one of each colour?
+>
+> A. 23
+> B. 22
+> C. 21
+> D. 15
+> E. 9
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_benjamin#q05|src_kangourou_2002_benjamin__Q05]]
 
 
 
@@ -231,16 +257,20 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Birthday day*
+*On which day of the week the birthday fell this year*
 
 > One day after my birthday, this year, it would have been correct to say "The day after tomorrow will be a Thursday". On which day of the week did I have my birthday this year?
->  
+>
 > A. Monday
-> B. Tuesday  
+> B. Tuesday
 > C. Wednesday
-> D. Thursday E. Friday
+> D. Thursday
+> E. Friday
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_benjamin#q06|src_kangourou_2002_benjamin__Q06]]
 
 
 
@@ -265,13 +295,16 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Necklace with two thirds black hearts*
+*In which necklace the black hearts are two thirds of the total*
 
 ![[src_kangourou_2002_benjamin__prob7.png]]
 
-> In which of the following necklaces are two-thirds of the hearts black?
+> In which of the following necklaces are the black hearts two thirds of the total?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_benjamin#q07|src_kangourou_2002_benjamin__Q07]]
 
 
 
@@ -304,15 +337,21 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sweets eaten by Andrea*
+*The least number of sweets Andrea must have eaten*
 
-> Three children ate a total of 17 sweets. Andrea ate more sweets than each of the other children. How many must have eaten at least?
->  
+> Three children have eaten 17 sweets in all. Andrea has eaten more sweets than each of the other children: what is the least number he must have eaten?
+>
 > A. 5
->  
-> B. 9 C. 6 D. 8 E. 7
+> B. 9
+> C. 6
+> D. 8
+> E. 7
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_benjamin#q08|src_kangourou_2002_benjamin__Q08]]
 
 
 
@@ -346,15 +385,23 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distinct angles less than 180 degrees*
+*How many angles less than 180°, all of different size, can be seen*
 
 ![[src_kangourou_2002_benjamin__prob9.png]]
 
-> How many angles less than 180°, two by two of different measure, can be seen in the figure beside, if you also consider the angles obtained by joining adjacent angles?
->  
-> A. 6 B. 7 C. 8 D. 9 E. 10
+> How many angles less than 180º, pairwise of different measure, can be seen in the figure beside it, if one also counts the angles obtained by placing adjacent angles side by side?
+>
+> A. 6
+> B. 7
+> C. 8
+> D. 9
+> E. 10
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_benjamin#q09|src_kangourou_2002_benjamin__Q09]]
 
 
 
@@ -387,21 +434,23 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Marbles in the third box*
+*How many marbles the third box must contain*
 
-> We want to divide 49 marbles into three boxes so that the first box contains 
-> half of the marbles of the second and the second half of the marbles of the third. 
-> How many marbles must the third box contain? 
->  
->  A. 16 
->   B. 17   
-> C. 7     D. 14 
-> E. 28 
-> Benjamin 2002. Page N. 
-> 3 
-> Questions from No. 11 to No. 20 are worth 4 points
+> One wants to share 49 marbles among three boxes so that the first box contains half the marbles of the second, and the second half the marbles of the third. How many marbles must the third box contain?
+>
+> A. 16
+> B. 17
+> C. 7
+> D. 14
+> E. 28
+> Benjamin 2002. Page no.
+> 3
+> Questions 11 to 20 are worth 4 points
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_benjamin#q10|src_kangourou_2002_benjamin__Q10]]
 
 
 
@@ -445,7 +494,7 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle area from the midpoints*
+*The area of the triangle cut from a rectangle of area 1*
 
 ![[src_kangourou_2002_benjamin__prob11.png]]
 
@@ -461,11 +510,18 @@ The euro that John gives to Stephen
 \end{document}
 ```
 
-> The area of a rectangle is equal to 1. What is the area of the triangle obtained by cutting the rectangle according to the line joining the midpoints of two consecutive sides (see figure)
->  
-> A. 1 / 3 B. 1 / 4 C. 2 / 5 D. 3 / 8 E. 1 / 8
+> The area of a rectangle is 1. What is the area of the triangle obtained by cutting the rectangle along the line joining the midpoints of two consecutive sides (see the figure)?
+>
+> A. 1 / 3
+> B. 1 / 4
+> C. 2 / 5
+> D. 3 / 8
+> E. 1 / 8
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_benjamin#q11|src_kangourou_2002_benjamin__Q11]]
 
 
 
@@ -498,15 +554,22 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the square IV*
+*The perimeter of square IV*
 
 ![[src_kangourou_2002_benjamin__prob12.png]]
 
-> Figures I, II, III and IV are squares. The perimeter of square I measures 16 metres while the perimeter of square II measures 24 metres. What is the perimeter of square IV?
->  
-> A. 56 m. B. 60 m. C. 64 m. D. 72 m. E. 80 m.
+> Figures I, II, III and IV are squares. The perimeter of square I measures 16 metres, while the perimeter of square II measures 24 metres. What is the perimeter of square IV?
+>
+> A. 56 m.
+> B. 60 m.
+> C. 64 m.
+> D. 72 m.
+> E. 80 m.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_benjamin#q12|src_kangourou_2002_benjamin__Q12]]
 
 
 
@@ -541,15 +604,22 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Movement of the bee in the hive*
+*Which cell the bee will move to next*
 
 ![[src_kangourou_2002_benjamin__prob13.png]]
 
-> A bee moves from one cell to another in the hive according to the rule suggested by the figure (which highlights the path taken so far). In which cell, always according to the rule, will the bee move from the position reached, indicated by the arrow?
->  
-> A. A B. B C. C D. D E. E
+> A bee moves from one cell of the honeycomb to another according to the rule suggested by the figure (which shows the path covered so far). To which cell, still according to the rule, will the bee move from the position reached, indicated by the arrow?
+>
+> A. A
+> B. B
+> C. C
+> D. D
+> E. E
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_benjamin#q13|src_kangourou_2002_benjamin__Q13]]
 
 
 
@@ -579,13 +649,20 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Raise the height of the ceiling*
+*By how much the ceiling must be raised*
 
-> One room is four meters wide, five meters long and three meters high. We want to increase its volume by 60 cubic meters, leaving its width and length unchanged. How much do you have to raise the ceiling?
->  
-> A. 3 m. B. 4 m. C. 5 m. D. 12 m. E. 20 m.
+> A room is 4 metres wide, 5 metres long and 3 metres high. One wants to increase its volume by 60 cubic metres, leaving the width and the length unchanged. By how much must the ceiling be raised?
+>
+> A. 3 m.
+> B. 4 m.
+> C. 5 m.
+> D. 12 m.
+> E. 20 m.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_benjamin#q14|src_kangourou_2002_benjamin__Q14]]
 
 
 
@@ -632,35 +709,30 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relationship between the colored areas Q,T,S,P*
+*Which relation among the coloured areas is true*
 
 ![[src_kangourou_2002_benjamin__prob15.png]]
 
-> There are 4 equal squares; the midpoints of the sides have been
-> indicated in the figure with black dots. In each square a certain
-> portion has been colored. The areas of the colored portions
-> have been named Q, T, S, P (see figure).
-> Which of the following relationships is true?
->  
-> A. S < P < Q = T 
->  
-> B. S < Q = T = P  
-> C. S < Q = P < T  
->  
-> D. S < P < Q < T  
-> E. P < S < Q < T. 
->  
->  
->  
+> There are 4 equal squares; the midpoints of the sides have been marked in the figure with black dots. In each square a certain portion has been coloured. The areas of the coloured portions have been named Q, T, S, P (see the figure). Which of the following relations is true?
+>
+> A. S < P < Q = T
+> B. S < Q = T = P
+> C. S < Q = P < T
+> D. S < P < Q < T
+> E. P < S < Q < T.
+>
 > Q
 > T
-> S 
+> S
 > P
-> 
-> Benjamin 2002. Page N.
+>
+> Benjamin 2002. Page no.
 > 4
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_benjamin#q15|src_kangourou_2002_benjamin__Q15]]
 
 
 
@@ -692,20 +764,20 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*False statement about the animals*
+*Which statement about the four pets is false*
 
-> Fabio, Giulia, Mauro and Nadia each own only one animal. Their animals 
-> are a dog, a canary, a cat and a goldfish. Mauro's animal has 
-> fur; Fabio's has 4 legs; Nadia has a small bird and both Giulia and Mauro 
-> do not own cats. Which of the following statements is false? 
->  
->      A. Fabio has a dog  
-> B. Nadia has a canary 
-> C. Giulia has a fish 
-> D. Fabio has a cat  
+> Fabio, Giulia, Mauro and Nadia each own only one animal. Their animals are a dog, a canary, a cat and a goldfish. Mauro's animal has fur; Fabio's has 4 legs; Nadia has a little bird, and neither Giulia nor Mauro owns a cat. Which of the following statements is false?
+>
+> A. Fabio has a dog
+> B. Nadia has a canary
+> C. Giulia has a fish
+> D. Fabio has a cat
 > E. Mauro has a dog
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_benjamin#q16|src_kangourou_2002_benjamin__Q16]]
 
 
 
@@ -735,13 +807,20 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of salt in solution*
+*The percentage of salt in the solution*
 
 > Roberta adds 3 grams of salt to 17 grams of water. What is the percentage of salt in the solution obtained?
->  
-> A. 17.6% B. 17% C. 16% D. 15% E. 6%
+>
+> A. 17.6%
+> B. 17%
+> C. 16%
+> D. 15%
+> E. 6%
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_benjamin#q17|src_kangourou_2002_benjamin__Q17]]
 
 
 
@@ -773,13 +852,21 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum intersection points of three figures*
+*The greatest number of intersection points of a circle, a square and a triangle*
 
-> Draw on a sheet a circle, a square and a triangle so that their contours intersect (two to two) in as many points as possible. What's this number?
->  
-> A. 14 B. 16 C. 18 D. 20 E. 22
+> Draw on a sheet a circle, a square and a triangle so that their outlines meet (pairwise) in as many points as possible. What is this number?
+>
+> A. 14
+> B. 16
+> C. 18
+> D. 20
+> E. 22
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_benjamin#q18|src_kangourou_2002_benjamin__Q18]]
 
 
 
@@ -811,13 +898,20 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Color as opposed to white*
+*The colour of the face opposite the white one*
 
-> Each face of a cube is painted in a different color. Paul, Andrew and Benedict, one by one, take the cube in their hands and tell what colors they see. Paul: "Blue, white and yellow"; Andrew: "Black, blue and red"; Benedict: "Green, black and white". What color is the face opposite the white one?
->  
-> A. Red B. Blue C. Black D. Green E. Yellow
+> Each face of a cube is painted a different colour. Paolo, Sandro and Benedetto, one after another, pick up the cube and say which colours they see. Paolo: "Blue, white and yellow"; Sandro: "Black, blue and red"; Benedetto: "Green, black and white". What colour is the face opposite the white one?
+>
+> A. red
+> B. blue
+> C. black
+> D. green
+> E. yellow
 
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_benjamin#q19|src_kangourou_2002_benjamin__Q19]]
 
 
 
@@ -850,17 +944,23 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of the weights of the five boys*
+*The sum of the weights of the five boys*
 
-> Five boys go up on a scale in pairs in every possible combination. The weights read are, in kilograms: 90, 92, 93, 94, 95, 96, 97, 98, 100, 101. Adding up the weights of the five boys gives
->  
-> A. 225 kg B. 230 kg C. 239 kg D. 240 kg E. 247 kg
->    
->  
->  
-> The questions from N. 21 to N. 30 are worth 5 points.
+> Five boys get on a pair of scales in pairs, in all possible combinations. The weights read are, in kg: 90, 92, 93, 94, 95, 96, 97, 98, 100, 101. Adding the weights of the five boys one obtains
+>
+> A. 225 kg
+> B. 230 kg
+> C. 239 kg
+> D. 240 kg
+> E. 247 kg
+>
+> Questions 21 to 30 are worth 5 points
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_benjamin#q20|src_kangourou_2002_benjamin__Q20]]
 
 
 
@@ -894,22 +994,23 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mice eaten by 15 cats in 15 hours*
+*How many mice 15 cats can eat in 15 hours*
 
-> One and a half cats eat one and a half mice in one and a half hours. How many mice 
-> can 15 cats eat in 15 hours? 
->  
-> A. 15 
-> B. 45  
-> C. 60  
-> D. 125 
-> E. 150 
->  
-> 
-> Benjamin 2002. Page N. 
+> A cat and a half eats a mouse and a half in an hour and a half. How many mice can 15 cats eat in 15 hours?
+>
+> A. 15
+> B. 45
+> C. 60
+> D. 125
+> E. 150
+>
+> Benjamin 2002. Page no.
 > 5
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_benjamin#q21|src_kangourou_2002_benjamin__Q21]]
 
 
 
@@ -941,13 +1042,21 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Applause by multiples or digit 3*
+*How many times one must clap while counting from 1 to 100*
 
-> In a game, you have to count from 1 to 100 and applaud each time you meet either an integer multiple of 3 or a number that ends in 3. How many times do you have to applaud?
->  
-> A. 30 B. 33 C. 36 D. 39 E. 43
+> In a game one must count from 1 to 100 and clap every time one meets either a whole multiple of 3 or a number that ends in 3. How many times will one have to clap?
+>
+> A. 30
+> B. 33
+> C. 36
+> D. 39
+> E. 43
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_benjamin#q22|src_kangourou_2002_benjamin__Q22]]
 
 
 
@@ -978,15 +1087,22 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of segment lengths in the rectangle*
+*The sum of the lengths of the segments drawn inside the rectangle*
 
 ![[src_kangourou_2002_benjamin__prob23.png]]
 
-> The sides of the rectangle in the figure are long a and b. What is the sum of the lengths of the segments drawn within the rectangle, knowing that each segment is parallel to one of the sides?
->  
-> A. 3(a + b) B. 3a + b C. 3a + 2b D. 2a + 3b E. impossible to answer
+> The sides of the rectangle in the figure are of lengths a and b. What is the sum of the lengths of the segments drawn inside the rectangle, given that each segment is parallel to one of the sides?
+>
+> A. 3(a + b)
+> B. 3a + b
+> C. 3a + 2b
+> D. 2a + 3b
+> E. impossible to answer
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_benjamin#q23|src_kangourou_2002_benjamin__Q23]]
 
 
 
@@ -1018,13 +1134,20 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ascended length given time difference*
+*The length of the uphill part of the ride*
 
-> A cyclist climbs along a mountain road at a speed of 12 km/h and descends along the same road at a speed of 20 km/h. The difference between the time taken to climb and the time taken to descend is 16 minutes. What is the length of the climb?
->  
-> A. 8 km B. 10 km C. 12 km D. 14 km E. It 's impossible to answer .
+> A cyclist goes up a mountain road at a speed of 12 km/h and comes down the same road at a speed of 20 km/h. The difference between the time taken for the ascent and that for the descent is 16 minutes. What is the length of the route covered on the way up?
+>
+> A. 8 km
+> B. 10 km
+> C. 12 km
+> D. 14 km
+> E. impossible to answer
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_benjamin#q24|src_kangourou_2002_benjamin__Q24]]
 
 
 
@@ -1056,15 +1179,22 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordering of the last dish*
+*Where the last plate must be placed*
 
 ![[src_kangourou_2002_benjamin__prob25.png]]
 
-> The plates P, Q and R in the figure are aligned in increasing order of weight and the last plate is to be added to them, maintaining this sort of order. Knowing that objects of equal shape have the same weight, which of the following statements is correct?
->  
-> (A) the last plate must be between P and Q (B) the last plate must be between Q and R (C) the last plate must be before P (D) the last plate must be after R (E) the last plate has the same weight as R.
+> The plates P, Q and R in the figure are lined up in order of increasing weight, and one wants to add the last plate to them, keeping this kind of ordering. Given that objects of the same shape have the same weight, which of the following statements is correct?
+>
+> (A) the last plate must go between P and Q
+> (B) the last plate must go between Q and R
+> (C) the last plate must go before P
+> (D) the last plate must go after R
+> (E) the last plate has the same weight as R.
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_benjamin#q25|src_kangourou_2002_benjamin__Q25]]
 
 
 
@@ -1100,23 +1230,26 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum digit sum of the digit sum*
+*The greatest value of the digit-sum of the digit-sum of a three-digit number*
 
-> What is the maximum value of the "sum of the digits of the sum of the digits" of a 
-> 3-digit number? 
->  
-> A. 9 
-> B. 10  
-> C. 11  
-> D. 12  
-> E. 18 
-> a 
-> b 
-> 
-> Benjamin 2002. Page N. 
+> What is the greatest value of the "sum of the digits of the sum of the digits" of a 3-digit number?
+>
+> A. 9
+> B. 10
+> C. 11
+> D. 12
+> E. 18
+> a
+> b
+>
+> Benjamin 2002. Page no.
 > 6
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_benjamin#q26|src_kangourou_2002_benjamin__Q26]]
 
 
 
@@ -1149,16 +1282,23 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum cuts for 7 slices with one star*
+*The fewest straight cuts to give each star its own piece of cake*
 
 ![[src_kangourou_2002_benjamin__prob27.png]]
 
-> John's mother prepares a cake for her son's birthday and decorates the surface with 7 stars by positioning them as in the figure. She wants to divide the cake into 7 parts, even in different sizes, but in such a way that each part contains exactly one star. What is the minimum number of straight cuts to be made on the cake to achieve the goal?
->  
->  
-> A. 3 B. 4 C. 5 D. 6 E. 7
+> Giovanni's mother makes a cake for her son's birthday and decorates the surface with 7 stars, placing them as in the figure. She wants to divide the cake into 7 pieces, even of different sizes, but so that each piece contains exactly one star. What is the smallest number of straight cuts that must be made on the cake to achieve this?
+>
+> A. 3
+> B. 4
+> C. 5
+> D. 6
+> E. 7
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_benjamin#q27|src_kangourou_2002_benjamin__Q27]]
 
 
 
@@ -1193,15 +1333,23 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total weight of the hexagonal network*
+*The total weight of a net of hexagonal meshes*
 
 ![[src_kangourou_2002_benjamin__prob28.png]]
 
-> The sides of the hexagons in the figure consist of bars weighing 200 grams. A hexagonal mesh network is constructed, in which 32 hexagons appear arranged on 3 lines as shown in the figure (for practical reasons the figure represents only the left and right ends of the network). What is the total weight of the network?
->  
-> A. 24,6 kg B. 24,4 kg C. 26,4 kg D. 30,4 kg E. 28,6 kg
+> The sides of the hexagons in the figure are made of bars weighing 200 grams. A net of hexagonal meshes is built, in which 32 hexagons appear, arranged in 3 rows as in the figure (for practical reasons the figure shows only the left-hand and right-hand ends of the net). What is the total weight of the net?
+>
+> A. 24.6 kg
+> B. 24.4 kg
+> C. 26.4 kg
+> D. 30.4 kg
+> E. 28.6 kg
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_benjamin#q28|src_kangourou_2002_benjamin__Q28]]
 
 
 
@@ -1236,13 +1384,21 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Matches played throughout the tournament*
+*How many matches are played in the whole water-polo tournament*
 
-> 32 teams participate in a water polo tournament. At each stage of the tournament the teams are divided into groups of four teams. In each group, each team meets the others only once. The top two teams from each group qualify for the next stage, the other two are eliminated. After the final stage (with four teams) the remaining two teams play the final to determine the winning team. How many games will be played throughout the tournament?
->  
-> A. 49 B. 89 C. 91 D. 97 E. 181
+> 32 teams take part in a water-polo tournament. At each stage of the tournament the teams are divided into groups of 4 teams. In each group every team meets the others once only. The two best teams of each group qualify for the next stage; the other two are eliminated. After the last stage (with four teams) the two remaining teams play the final to determine the winning team. How many matches will be played in the whole tournament?
+>
+> A. 49
+> B. 89
+> C. 91
+> D. 97
+> E. 181
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_benjamin#q29|src_kangourou_2002_benjamin__Q29]]
 
 
 
@@ -1304,7 +1460,7 @@ The euro that John gives to Stephen
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers in the center with equal sums*
+*Which statement about the centre circle is true*
 
 ![[src_kangourou_2002_benjamin__prob30.png]]
 
@@ -1323,27 +1479,24 @@ The euro that John gives to Stephen
 \end{document}
 ```
 
-> We want to place the numbers from 1 to 7 in the circles of the figure (one number per
-> each circle) so that the same sum is obtained every time 3 circles are
-> aligned. Which of the following statements is true?
->  
-> A. it is impossible to do so   
-> B. there is only one number that can occupy the central
-> circle  
-> C. there are exactly two different numbers that can
-> occupy the central circle
-> D. there are exactly three different numbers that can
-> occupy the central circle
-> E. all seven numbers can occupy the central circle.
->  
->  
-> 
+> One wants to place the numbers from 1 to 7 in the circles of the figure (one number per circle) so as to obtain the same sum every time 3 circles are aligned. Which of the following statements is true?
+>
+> A. it is impossible to do so
+> B. there is only one number that can occupy the centre circle
+> C. there are exactly two different numbers that can occupy the centre circle
+> D. there are exactly three different numbers that can occupy the centre circle
+> E. all seven numbers can occupy the centre circle.
+>
 > Kangourou Italia
-> Competition of 21 March 2002
-> Category Benjamin
-> For first- and second-year middle school students
+> Contest of 21 March 2002
+> Benjamin category
+> For students in the first and second year of middle school
 > Solutions
-> The correct answer is indicated in square brackets
+> The correct answer is marked in square brackets
 > after the question number.
 
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_benjamin#q30|src_kangourou_2002_benjamin__Q30]]

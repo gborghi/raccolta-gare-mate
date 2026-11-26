@@ -36,9 +36,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum dog walk in a ball game
+*The dog's best path in a ball-throwing game*
 
-> The walk (points 20) Frank takes the dog for a walk along the east wall of the prison, perfectly straight and 9 km long. They leave the prison gate, right at the beginning of the east wall, side by side, and they start a game: Frank throws the ball, the dog returns it to him, Frank picks it up immediately, and just as instantly the dog starts back behind the ball. For the duration of the game Frank walks at 6 km/h and the dog at 12 km/h. When they reach the end of the wall, they return and continue to play until the gate. How far can Frank get the dog to go by throwing the ball properly? Give the answer in hm.
+> The stroll
+> (points 20) Frank takes the dog for a walk along the eastern wall of the prison—a perfectly straight wall 9 km long. They set off from the prison gate, right at the beginning of the eastern wall, side by side, and start a game: Frank throws the ball, the dog brings it back, Frank immediately retrieves it, and just as instantly the dog sets off again after the ball. Throughout the game, Frank walks at 6 km/h and the dog at 12 km/h. When they reach the end of the wall, they turn back, continuing the game all the way to the gate. What is the maximum distance Frank can get the dog to cover by throwing the ball appropriately? Give the answer in hectometres.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2010#q01|src_gs_2010__Q01]]
 
 
 
@@ -68,9 +75,17 @@ Maximum dog walk in a ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Person at the door with Q3 ticket and call rule*
+*People at the counter with Q3 ticket and call rule*
 
-> The queue (points 20) The machine that prints the tickets at the municipal offices in Chicago produces tickets numbered 1 to 99; the number is preceded by a letter of the alphabet, which changes in alphabetical order every 99 prints. To speed up the timing, it is established that each number called can bring as many people to the door as the value indicated on your ticket. For example, the person with the D7 ticket carries with him D8, D9, D10... up to D14. Jake picked up the Q3 ticket, and he just got a call from the person with the L75 ticket. How many people will go with Jake to the door, including him?
+> The tail
+> (Point 20) The machine that prints waiting tickets in the municipal offices in Chicago produces numbered tickets from 1 to 99; the number is preceded by a letter of the alphabet, and the letter changes in alphabetical order every 99 prints. To speed things up, it is decided that, for each number called, as many people as the value indicated on their ticket may accompany the person to the counters. For example, the person with ticket D7 brings along D8, D9, D10... up to D14. Jake has collected ticket Q3, and the person with ticket L75 has just been called. How many people, including Jake, will go to the counter together with Jake?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2010#q02|src_gs_2010__Q02]]
 
 
 
@@ -109,9 +124,16 @@ Maximum dog walk in a ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Liar and order of arrival in a race race*
+*Liar and finishing order in a running race*
 
-> The race, I (20 points) Alan, Bob, Claire, and Duncan make a race. Then they're interviewed and each says their own: Alan: Bob is not close to Duncan (in first position). Bob: Alan is not last. Claire: I'm not immediately after Bob (in second position). Duncan: N' and I and Bob have won. However, only one of them is a liar. Elwood knows who's lying and, listening to these phrases, thinks: I know with absolute certainty the order of arrival of the players. Write who's the liar and, next, the order of the players on the podium, using 1 to indicate Alan, 2 to indicate Bob, 3 to indicate Claire and 4 to indicate Duncan.
+> The running race, I
+> (points 20) Alan, Bob, Claire, and Duncan are having a race. Afterwards, they are interviewed, and each says their piece: Alan: <<Bob is not near Duncan (in finishing position).>> Bob: <<Alan is not last.>> Claire: <<I am not right after Bob (in finishing position).>> Duncan: <<Neither I nor Bob have won.>> However, exactly one of them is a liar. Elwood knows who is lying and, while listening to these statements, thinks: <<I know the finishing order of the players with absolute certainty.>> State who the liar is and, following that, the order of the players on the podium, using 1 to indicate Alan, 2 to indicate Bob, 3 to indicate Claire, and 4 to indicate Duncan.
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010#q03|src_gs_2010__Q03]]
 
 
 
@@ -143,9 +165,17 @@ Maximum dog walk in a ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum to be divided between musicians by ages and equal parts*
+*An amount to be divided equally among musicians by age*
 
-> Murph explains to the three Magic Tones how the money they owe for their performance will be divided, as provided for in the regulations of the Musicians' Union. Murph explains: Half of the money will be divided equally between you, the other half will be allocated to you in proportion to your age in years.Knowing that the older musician will receive, in fact, $40, and that his age is the sum of the ages of the other two, how much in cents of a dollar is the sum to be divided? Team competition  Problem texts  Pag. 1 di 6
+> The musicians' pay
+> (points 20) Murph explains to the three Magic Tones how the money due to them for their performance will be divided, as provided for in the regulations of the Musicians' Union. Murph explains: "Half of the money will be divided among you equally, and the other half will be allocated to you in proportion to your ages in years." Knowing that, all things considered, the oldest musician will receive 40 dollars and that his age is the sum of the ages of the other two, what is the total amount to be split, in hundredths of a dollar?
+> Team Competition – Problem Statements – Page 1 of 6
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2010#q04|src_gs_2010__Q04]]
 
 
 
@@ -175,9 +205,16 @@ Maximum dog walk in a ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers other than 10 given product 360360 of numbers 7-17*
+*Sum of non-10 numbers given product 360360 of numbers 7–17*
 
-> Grades (point 30) Very pleased with the results of her 11 pupils, Mother Superior, Director of the Institute of St. Helen of the Blessed Shroud assigns each of them a different number between 7 and 17 and tests them with a problem: she writes the number 360360 on the board. Then he explains: This is the product of the numbers for the students who took 10, everyone else took 8.What is the sum of the numbers assigned to the students who did not take 10?
+> The votes
+> (30 points) Very satisfied with the results of her 11 pupils, the Mother Superior, director of the Institute of St. Helen of the Blessed Shroud, assigns each of them a different number between 7 and 17 and puts them to the test with a problem: she writes the number 360360 on the blackboard. Then she explains: "This is the product of the numbers corresponding to the pupils who got 10; all the others got 8." What is the sum of the numbers assigned to the pupils who did not get 10?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2010#q05|src_gs_2010__Q05]]
 
 
 
@@ -205,9 +242,16 @@ Maximum dog walk in a ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Located area between square lake and triangular valleys*
+*Uncultivated area between the square lake and the triangular flowerbeds*
 
-> The lake in the park (point 30) A park comprises a square lake, each of which forms the base of an equilateral triangle-shaped lake. The four tops of the gulls that are not on the lake are joined by two to two straight fences. The land between the fences and the fences is left untouched. The area of the lake is 9747 square meters, how many square meters is the area of the uncultivated land?
+> The lake in the park
+> (30 points) A park contains a square-shaped lake, each bank of which forms the base of an equilateral-triangle-shaped flower bed. The four vertices of the flower beds that are not on the lake are joined in pairs by straight fences. The land between the flower beds and the fences is left uncultivated. The area of the lake is 9747 square metres; how many square metres is the area of the uncultivated land?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2010#q06|src_gs_2010__Q06]]
 
 
 
@@ -241,9 +285,16 @@ Maximum dog walk in a ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Winner's dollars in playing cards with periodic sequences*
+*Winner's dollars in a card game with periodic sequences*
 
-> A game of chance, I (points 30) Jake and Sline play a game of chance: they divide a deck of 4020 poker cards, each carrying a red seed or a black seed. They each support their deck of 2010 cards covered on the table and start playing. They discover a card together: if the seeds of the two cards are of different color, Sline pays Jake a dollar, if the seeds of both cards are red nothing happens, if the seeds of both cards are black Jake pays Sline two dollars. For a coincidence in the mixing, Jake's cards are a sequence of a red seed card and a black seed card (i.e. red, black, red, black, red). . . ) while Sline's are a sequence of one black seed paper followed by two red seed (i.e. black, red, red, black, red, red, black,. . . ). Knowing that they start the game with 2010 bucks in their head, how much bucks does the winner have at the end?
+> A Gamble, I
+> (30 points) Jake and Sline play a gambling game: they split a deck of 4020 Pokwer cards between themselves, each card bearing either a red suit or a black suit. Each places their deck of 2010 cards face down on the table, and they begin to play. Together they reveal one card: if the suits of the two cards are different colors, Sline pays Jake one dollar; if both cards have red suits, nothing happens; if both cards have black suits, Jake pays Sline 2 dollars. By a fortunate coincidence in the shuffling, Jake's cards form a sequence of one red-suit card followed by one black-suit card (that is, red, black, red, black, red...), while Sline's cards form a sequence of one black-suit card followed by two red-suit cards (that is, black, red, red, black, red, red, black...). Knowing that they start the game with 2010 dollars each, how many dollars does the winner have at the end?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010#q07|src_gs_2010__Q07]]
 
 
 
@@ -274,9 +325,16 @@ Maximum dog walk in a ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum ceilings for maximum surpluses with subsequent divisions*
+*Minimum chickpeas for maximum leftovers with successive divisions*
 
-> Chicken soup (points 30) Slim is very efficient in preparing chicken soup. He buys the chickens and then divides them into two plates, so that there's exactly the same number. He gives those who advance (and only those) to his parrot Fuzz. Then he divides all the chickens he's kept equally into six plates, and as before those who advance Fuzz eats them. At this point, repeat the same operation with 30 plates, then 210 plates, and then 2310 plates. Considering that today he wants to buy them so that the parrot can eat as many as possible, but not spending more than necessary, how many chicks does he have to buy?
+> Chickpea soup
+> (30 points) Slim is very superstitious when preparing chickpea soup. He buys the chickpeas and then divides them between two dishes so that there are exactly the same number in each. He gives the leftovers (and only the leftovers) to his parrot Fuzz. Then he evenly divides all the chickpeas he has kept among six dishes, and, as before, Fuzz eats the leftovers. At this point, he repeats the same procedure with thirty dishes, then with 210 dishes, and then with 2310 dishes. Given that today he wants to buy enough so that the parrot can eat as many as possible but without spending more than necessary, how many chickpeas must he buy?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2010#q08|src_gs_2010__Q08]]
 
 
 
@@ -306,9 +364,17 @@ Maximum dog walk in a ball game
 <div class="qlang-split" data-lang="en"></div>
 
 
-Turns so a player stays with half a penny
+*Turns so that a player keeps the money*
 
-> A game of chance, II (points 40) Jake and Sline had realized that the two decks had a strange sequence of seed colors when they first played. They decide to make a revenge using exactly the same sequence, but they will stop only when one of the two is left with half the money (obviously, if there are not enough cards, they take back those used by placing them in the exact sequence). As before, each one starts with $10. After how many turns does the game end? Team competition  Problem texts  Pag. 2 di 6
+> A Gamble, II
+> (points 40) Jake and Sline had noticed that the two decks had a strange sequence of suit colors when they had played for the first time. They decide to have a rematch using exactly the same sequence, but they will stop only when one of them is left with half the money (obviously, if there aren't enough cards, they put the used ones back in the exact same sequence). As before, each starts with $2010. After how many turns does the game end?
+> Team Competition – Problem Statements – Page 2 of 6
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010#q09|src_gs_2010__Q09]]
 
 
 
@@ -337,9 +403,16 @@ Turns so a player stays with half a penny
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum beans beyond 2010 to win the game of Nim*
+*Minimum beans over 2010 to win the game of Nim*
 
-> The beans (point 40) Sam and Dave have a bag containing thousands of beans. The two play a game of picking, in turn, a number of beans between 1 and 8. Whoever extracts the last beans wins. Sam decides how many beans to put in the bag, and Dave starts fishing, and from now on, they fish alternately. What's the minimum amount of beans over 2010 that Sam will have to choose to secure victory?
+> Beans
+> (40 points) Sam and Dave have a bag containing thousands of beans. The two play a game in which, taking turns, they each take a number of beans between 1 and 8. The person who draws the last bean wins. Sam decides how many beans to put in the bag, and Dave starts drawing; from then on, they draw alternately. What will be the smallest number of beans greater than 2010 that Sam must choose in order to guarantee victory?
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010#q10|src_gs_2010__Q10]]
 
 
 
@@ -374,7 +447,14 @@ Turns so a player stays with half a penny
 
 *Dollars paid with progressive fractional abandonments*
 
-> The jazz party (points 40) Matt and Lou host a jazz party together, renting a clubhouse that costs $8 per person present for every hour. All the guests arrive, and after dancing, drinking, and playing for five hours in a row, a tenth of those present leave the party. At the stroke of the next hour one in nine of the remaining people leaves. After another 60 minutes, one-eighth of the rest leaves the party, and so on and so forth, until half of those still present leave. At this point, only Matt and Lou are left with an hour left to eat what's left and settle the bill with the club. How much do they have to pay?
+> The Jazz Festival
+> (points 40) Matt and Lou jointly organize a party for jazz musicians, renting a venue that costs 8 dollars per person present per hour. All the guests arrive, and after dancing, drinking, and playing music for 5 consecutive hours, one tenth of those present leave the party. When the next hour begins, one ninth of those remaining leave. After another 60 minutes, one eighth of those still there abandon the party, and so on according to this pattern, until half of those still present leave. At this point, only Matt and Lou are left; they stay for another hour eating what's left and settle the bill with the venue. How many dollars do they have to pay?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2010#q11|src_gs_2010__Q11]]
 
 
 
@@ -408,9 +488,16 @@ Turns so a player stays with half a penny
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Materials brought by Duncan with combinatoric constraints*
+*Matters carried by Duncan with combinatorial constraints*
 
-> The books (40 points) Alan, Bob, Claire and Duncan are schoolmates. They study three scientific subjects: Science, Physics, Geometry, and five humanities: Latin, Greek, Literature, History, and Philosophy. Since the folders are too heavy, they agree to bring each four books of four subjects with different initials, of which at least one is scientific, and so that in total they have two books for each subject. It is also known that: • Alan and Duncan have at least two subjects in common; • Bob brings Philosophy and Letters; • Claire has all scientific subjects; • Alan and Bob have only Greek in common; Write, in alphabetical order, the subjects Duncan brings, indicating the subjects, in alphabetical order, with the digits 1 to 8.
+> The books
+> (40 points) Alan, Bob, Claire, and Duncan are classmates. They study three science subjects: Science, Physics, and Geometry, and five humanities subjects: Latin, Greek, Literature, History, and Philosophy. Since the schoolbags are too heavy, they agree that each of them will carry four books from four subjects with different initials, at least one of which is a science subject, and in such a way that in total they will have two books for each subject. It is also known that: • Alan and Duncan have at least two subjects in common; • Bob carries Philosophy and Literature; • Claire has all the science subjects; • Alan and Bob have only Greek in common; Write, in alphabetical order, the subjects that Duncan carries, indicating the subjects, in alphabetical order, with the numbers 1 to 8.
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010#q12|src_gs_2010__Q12]]
 
 
 
@@ -441,9 +528,17 @@ Turns so a player stays with half a penny
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Type of stars to be drawn with 2011 vertices*
+*Types of stars that can be drawn with 2011 vertices*
 
-> The paper stars, I (points 50) Reverend Cleophus James prepares colored paper stars to decorate the Triple Rock Church. To draw a five-pointed star, mark five distinct points on a circumference and join them together with five segments without ever separating the pen from the sheet. That way, he can only draw one type of star. With 7 vertices, he can instead draw two different types, connecting the vertices by skipping one or two at a time, respectively. How many different types of stars can you draw if you mark 2011 vertices on the circumference? Team competition  Problem texts  Pag. 3 di 6
+> Paper Stars, I
+> (50 points) Reverend Cleophus James prepares colored paper stars to decorate Triple Rock Church. To draw a five-pointed star, mark 5 distinct points on a circle and join them with 5 line segments without ever lifting the pen from the paper. In this way, he can draw only one type of star. With 7 vertices, however, he can draw two different types by connecting the vertices while skipping one or two vertices at a time, respectively. How many different types of stars can he draw if he marks 2011 vertices on the circle?
+> Team Competition – Problem Statements – Page 3 of 6
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010#q13|src_gs_2010__Q13]]
 
 
 
@@ -470,9 +565,16 @@ Turns so a player stays with half a penny
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of oddities less than 100 difference squares in two ways*
+*Sum of odd numbers less than 100: difference of squares in two ways*
 
-> Curled up and Dye, Carrie concentrates on calculating long sums in mind. The last thing he calculated is the sum of those odd positive integers less than 100 that can be written in at least two distinct ways as the difference of perfect squares. What number did you find?
+> Screwed in and pop
+> (50 points) Locked inside the Curl up and Dye beauty salon, Carrie concentrates on mentally calculating long sums. The last sum she calculated was the sum of those positive odd integers less than 100 that can be expressed in at least two different ways as the difference of perfect squares. What number did she find?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2010#q14|src_gs_2010__Q14]]
 
 
 
@@ -503,9 +605,15 @@ Turns so a player stays with half a penny
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum steps for the polygon side to be below 1/2^2010*
+*Minimum steps for the side of the polygon to be less than 1/2^2010*
 
-> The polygons inscribed (points 50) In a circumference of 1 m radius, the first step is to trace the diameter. As a second step, mark the midpoints of each of the two arcs so formed and join the vertices of the diameter and the two midpoints to get a square. It continues by bisecting each arc formed at the previous step and joining the points marked on the circumference to obtain a regular polygon. How many steps do you have to take at least because the side of the polygon you get is shorter than 122010 m?
+> Inscribed polygons
+> (50 points) In a circle of radius 1 m, the diameter is drawn as the first step. As the second step, the midpoints of each of the two arcs thus formed are marked, and the endpoints of the diameter and the two midpoints are joined to obtain a square. The process continues by bisecting each arc formed in the previous step and by joining the points marked on the circumference to obtain a regular polygon. How many steps must be taken at least for the side of the resulting polygon to be shorter than 1/22010 m?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2010#q15|src_gs_2010__Q15]]
 
 
 
@@ -535,9 +643,17 @@ Turns so a player stays with half a penny
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dollars for a 50% chance of extracting two red beads*
+*Dollars for a probability greater than 50% of drawing two red balls*
 
-> A card game (50 points) A gambling game is played with a bag containing 2010 cards, 2 reds, all other black ones. You win if you extract all the red seeds (no matter how many black seeds). A player, before starting the draw sequence, must pay $1 for each draw he intends to make. How much does Jake have to pay to have a 50% chance of winning?
+> A marble game
+> (50 points) A gambling game is played with a bag containing 2010 marbles—2 red and all the rest black. You win if, by drawing marbles one after another as many times as you like, you draw all the red marbles (it doesn't matter how many black ones you draw). Before starting the sequence of draws, a player must pay $1 for each draw they intend to make. How many dollars must Jake pay to have a probability of winning greater than 50%?
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010#q16|src_gs_2010__Q16]]
 
 
 
@@ -575,9 +691,17 @@ Turns so a player stays with half a penny
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Combined numbers with local divisibility constraints*
+*Digits of a combination with local divisibility constraints*
 
-> The county vault (points 50) The combination of the Cook County vault is made up of five digits. Steven recalls that • The first digit is 1; • All the numbers formed by considering each pair of adjacent digits, taken in the same order as they appear in the combination, are divisible by 2; • All the numbers formed by considering each set of adjacent digits, taken in the same order as they appear in the combination, are divisible by 3; • All the numbers formed by considering each quartet of adjacent digits, taken in the same order as they appear in the combination, are divisible by 42; • the combination, read as a five-digit number, is divisible by 5. Write the last four digits of the combination in the order. Team competition  Problem texts  Pag. 4 di 6
+> The County's Safe
+> (50 points) The combination for the Cook County safe consists of five digits. Steven remembers that: • The first digit is 1; • All numbers formed by considering each pair of adjacent digits, taken in the same order in which they appear in the combination, are divisible by 2; • All numbers formed by considering each triplet of adjacent digits, taken in the same order in which they appear in the combination, are divisible by 3; • All numbers formed by considering each group of four adjacent digits, taken in the same order in which they appear in the combination, are divisible by 42; • When read as a five-digit number, the combination is divisible by 5. Write the last four digits of the combination in order.
+> Team Competition – Problem Statements – Page 4 of 6
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2010#q17|src_gs_2010__Q17]]
 
 
 
@@ -603,9 +727,16 @@ Turns so a player stays with half a penny
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Logical deductions on the order of a race race*
+*Logical deductions concerning the order of a running race*
 
-> Maybe Elwood was wrong about the liar in the race between Alan, Bob, Claire, and Duncan. Knowing only that exactly one of the four is a liar, but the winner isn't lying, say:
+> The Running Race, II
+> (50 points) Perhaps Elwood was wrong about who the liar was in the race among Alan, Bob, Claire, and Duncan. Knowing only that exactly one of the four is a liar but that the winner does not lie, to say:
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010#q18|src_gs_2010__Q18]]
 
 
 
@@ -627,9 +758,15 @@ Turns so a player stays with half a penny
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of a step mausoleum with equal side surfaces*
+*Height of a stepped mausoleum with equal side surfaces*
 
-> 19. The mausoleum (points 50) The commander of the Illinois Nazi group had himself built a mausoleum, built with cubic stone blocks, side 1 m. Formed by 10 steps, it looks like a ziqqurat: each step is a square-based parallel piped, and all the steps are resting on each other. The top of the mausoleum is a side step of 2 m and a height of 2520 m. But the main peculiarity of the mausoleum is that each step has the side of the lower base square exactly 2 meters from the one below and the lateral surfaces of each step are always the same. How high is the mausoleum?
+> 19. The Mausoleum (points 50) The commander of the Illinois Nazis group had a mausoleum built for himself; it was constructed from cubic stone blocks with sides 1 m long. Consisting of 10 terraces, it looks like a ziggurat: each terrace is a rectangular parallelepiped with a square base, and all the terraces are stacked on top of one another. The top of the mausoleum is a terrace 2 m on a side and 2520 m high. But the mausoleum's main peculiarity is that, for each terrace, the side length of its square base is exactly 2 meters less than that of the base of the terrace below it, and the lateral surfaces of each terrace are always the same. How many meters high is the mausoleum?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2010#q19|src_gs_2010__Q19]]
 
 
 
@@ -652,9 +789,16 @@ Turns so a player stays with half a penny
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Type of stars to be drawn with 2010 vertices*
+*Types of stars that can be drawn with 2010 vertices*
 
-> 20. The paper stars, II (points 60) Helping Reverend James, instead of scoring 2011 distinct points on the circumference, Jake scored 2010. How many different types of stars can you draw?
+> 20. Paper Stars, II (points 60) By helping Reverend James, instead of marking 2011 distinct points on the circumference, Jake marked 2010 points. How many different types of stars can he draw?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010#q20|src_gs_2010__Q20]]
 
 
 
@@ -676,9 +820,15 @@ Turns so a player stays with half a penny
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Drappers of 9 volunteers with 3 fixed captains*
+*Pairs of teams of 9 volunteers, with 3 fixed captains*
 
-> 21. To track down the Blues Brothers, the Illinois Nazi commander wants three drops from a group of nine volunteers. Knowing their innate incapacity, the commander appoints three captains of drapel from among the nine volunteers: Al, Bruno and Cal. In addition, he wants at least one other component in each drapery, in addition to the captain. How many different drapes can the commander form? Team competition  Problem texts  Pag. 5 di 6
+> 21. Parties (points 60) To track down the Blues Brothers, the commander of the Illinois Nazis wants to form 3 parties from a group of 9 volunteers. Knowing their innate incompetence, the commander appoints 3 party leaders from among the 9 volunteers: Al, Bruno, and Cal. Furthermore, the commander wants each party to have at least one other member in addition to the leader. How many different sets of three parties can the commander form? Team competition – Problem statements – Page 5 of 6
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010#q21|src_gs_2010__Q21]]
 
 
 
@@ -700,9 +850,15 @@ Turns so a player stays with half a penny
 <div class="qlang-split" data-lang="en"></div>
 
 
-Calculation of a recursive operation n star m (5 star 5)
+*Calculation of an n-star-m recursive operation (5-star-5)*
 
-> 22. At the entrance to the motel, Twiggy found the following rules 0⋆ 0 = 1 0 ⋆ (m + 1) = 0 (n + 1) ⋆ 0 = (n + 1)× (n⋆ 0) ((n + 1)⋆ (m + 1)) = (n + 1)× [((n + 1)⋆m ) + (n⋆ (m + 1))). He understands that they allow you to calculate the value of the writing n⋆m for each pair of positive integers or zeros: Waiting for Elwood, Twiggy calculates what 5⋆ 5 1000 is worth. What number do you get?
+> 22. The Motel Rules, I (points 60) At the motel entrance, Twiggy found the following rules: 0⋆0 = 1, 0⋆(m + 1) = 0, (n + 1)⋆0 = (n + 1)×(n⋆0), ((n + 1)⋆(m + 1)) = (n + 1)×[((n + 1)⋆m) + (n⋆(m + 1))]. Twiggy understands that these rules make it possible to calculate the value of the expression n⋆m for every pair of non-negative integers: While waiting for Elwood, Twiggy calculates what 5⋆5 1000 equals. What number does Twiggy find?
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2010#q22|src_gs_2010__Q22]]
 
 
 
@@ -724,9 +880,15 @@ Calculation of a recursive operation n star m (5 star 5)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mean number of extractions with 7 red balls*
+*Average number of draws with 7 red balls*
 
-> 23. Another card game (points 70) Another gambling game is always played with a bag containing 2010 cards, 7 reds and all the other black ones. The rules state that the seeds should be extracted one at a time until all the red seeds have come out, at which point the game is over. Elwood wonders on average how long the game takes. Jake doesn't understand exactly what his brother means, but Ray, who knows it well, explains to him that among the many ways to define the average number of extractions in the game (all leading to the same result) the most interesting is the sum of the probabilities pk where, for every natural number 0 ≤k ≤2010, pk is the probability that, after the k-eighth extraction, not all 7 red balls have come out. What is the average number of extractions?
+> 23. Another Marbles Game (70 points) Another gambling game is always played with a bag containing 2010 marbles—7 red and all the rest black. The rules require drawing the marbles one at a time until all the red ones have been drawn; at that point, the game is over. Elwood wonders, on average, how many draws the game will last. Jake doesn't quite understand what his brother means, but Ray, who knows a thing or two, explains to him that among the many ways of defining the average number of draws in the game (all of which lead to the same result), the most interesting one is the sum of the probabilities pk, where, for every natural number 0 ≤ k ≤ 2010, pk is the probability that, after the k-th draw, not all 7 red marbles have been drawn. What is the average number of draws?
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010#q23|src_gs_2010__Q23]]
 
 
 
@@ -748,6 +910,12 @@ Calculation of a recursive operation n star m (5 star 5)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n with 3 stars n multiple of 73*
+*Minimum n with 3 stars, a multiple of 73*
 
-> 24. Motel rules, II. Elwood is not coming. To pass the time, Twiggy looks for the smallest number n such that 3 ⋆n is a multiple of 73. What's the number n? Team competition  Problem texts  Pag. 6 di 6
+> 24. Motel Rules, II (points 70) Elwood doesn't arrive. To pass the time, Twiggy looks for the smallest number n such that 3 ⋆ n is a multiple of 73. What is the number n? Team Competition – Problem Statements – Page 6 of 6
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2010#q24|src_gs_2010__Q24]]

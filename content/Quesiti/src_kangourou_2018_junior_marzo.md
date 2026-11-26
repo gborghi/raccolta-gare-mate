@@ -41,17 +41,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sixth result of sums of 3x3 grid rows/columns*
+*Sixth result of row/column sums of a 3x3 grid*
 
 ![[src_kangourou_2018_junior_marzo__prob1.png]]
 
-> In each cell of the 3 × 3 grid in the figure a number has been entered. The numbers in the individual rows and the numbers in the individual columns were then added: five out of the six results obtained are indicated. What's the sixth? A) 4
-> 	
-> B) 7 C) 8 D) 9
-> 	
+> A number has been placed in each cell of the 3 × 3 grid in the figure. The numbers in each row and the numbers in each column were then added together; five of the six results obtained are shown. What is the sixth?
+> A) 4	
+>
+> B) 7	
+>                 C) 8
+> D) 9	
+>
 > E) 10
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q01|src_kangourou_2018_junior_marzo__Q01]]
 
 
 
@@ -85,19 +92,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Third whole side odd triangle of sides 5 and 2*
+*The third odd whole side of a triangle with sides 5 and 2*
 
-> In a triangle (not reduced to a segment) two sides have lengths 5 and 2 respectively and the length of the third side is an odd integer. Which of the following numbers is the measure of the third side? A) 3
-> 	
-> B) 1
-> 	
-> C) 5
-> 	
-> D) 9
-> 	
+> In a triangle (not reduced to a line segment), two sides are 5 and 2 in length respectively, and the length of the third side is an odd integer. Which of the following numbers is the measure of the third side?
+> A) 3	
+>
+> B) 1	
+>
+> C) 5	
+>
+> D) 9	
+>
 > E) 7
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q02|src_kangourou_2018_junior_marzo__Q02]]
 
 
 
@@ -135,19 +147,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Table height two cat gaps*
+*Table height given two level differences between cats*
 
 ![[src_kangourou_2018_junior_marzo__prob3.png]]
 
-> Look at the figure. The distance between the back of the cat sleeping on the floor and the ear of the cat sitting on the table is 115 cm. The distance between the ear of the cat sitting on the floor and the back of the sleeping cat on the table is 75 cm. How tall is the table? A) 80
-> 	
-> B) 85
-> 	
-> C) 90 D) 95
-> 	
+> Look at the figure. The distance between the back of the sleeping cat on the floor and the ear of the cat sitting on the table is 115 cm. The distance between the ear of the cat sitting on the floor and the back of the sleeping cat on the table is 75 cm. How many centimeters tall is the table?
+> A) 80	
+>
+> B) 85	
+>
+> C) 90	
+> D) 95	
+>
 > E) 100
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q03|src_kangourou_2018_junior_marzo__Q03]]
 
 
 
@@ -175,11 +193,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Third of five consecutive numbers with the sum of 10×2018*
+*Third of five consecutive numbers with a sum of 10*2018*
 
-> The sum of five consecutive numbers is 102018. What's the third of the five numbers? A) 102013 B) 52017 C) 102017 D) 22018 E) 2 × 102017
+> The sum of five consecutive numbers is 102018. What is the third of the five numbers?
+> A) 102013	 	
+> B) 52017 	 	
+> C) 102017	 	
+> D) 22018	 	
+> E) 2 × 102017
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q04|src_kangourou_2018_junior_marzo__Q04]]
 
 
 
@@ -212,19 +239,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of baskets with 42,60,90 fruit (MCD)
+*Maximum number of baskets with 42, 60, 90 fruits (MCD)*
 
-> Mary picked 42 apples, 60 apricots and 90 cherries. She wants to divide the fruits into baskets of identical content, using them all. How many baskets can she make? A) 3
-> 	
-> B) 6
-> 	
-> C) 10
-> 	
-> D) 14
-> 	
+> Maria has gathered 42 apples, 60 apricots, and 90 cherries. She wants to divide the fruits into baskets with identical contents, using all of them. What is the maximum number of baskets she can make?
+> A) 3	
+>
+> B) 6	
+>
+> C) 10	
+>
+> D) 14	
+>
 > E) 42
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q05|src_kangourou_2018_junior_marzo__Q05]]
 
 
 
@@ -260,19 +292,26 @@ Maximum number of baskets with 42,60,90 fruit (MCD)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of digits P+Q+R+S in encrypted addition*
+*Sum the numbers P+Q+R+S in encrypted addition*
 
 ![[src_kangourou_2018_junior_marzo__prob6.png]]
 
-> I summed two numbers correctly and then, as you can see in the figure, I replaced some digits with the letters P, Q, R and S. What is the value of the sum P + Q + R + S ? A) 14
-> 	
-> B) 15
-> 	
-> C) 16 D) 17
-> 	
+> I added two numbers correctly, and then, as you can see in the figure, I replaced some digits with the letters P, Q, R, and S. What is the value of P + Q + R + S?
+> A) 14	
+>
+> B) 15	
+>
+> C) 16
+> D) 17	
+>
 > E) 24
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q06|src_kangourou_2018_junior_marzo__Q06]]
 
 
 
@@ -300,11 +339,20 @@ Maximum number of baskets with 42,60,90 fruit (MCD)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of 25% of 2018 plus 2018% of 25*
+*25% of 2018 plus 2018% of 25*
 
-> Adding the 25% of 2018 to the 2018% of 25 what do you get? A) 1009 B) 2016 C) 2018 D) 3027 E) 5045
+> If you add 25% of 2018 to 2018% of 25, what do you get?
+> A) 1009	 	
+> B) 2016	 	
+> C) 2018	 	
+> D) 3027	 	
+> E) 5045
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q07|src_kangourou_2018_junior_marzo__Q07]]
 
 
 
@@ -340,19 +388,26 @@ Maximum number of baskets with 42,60,90 fruit (MCD)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of routes from A to B with arrows pointing*
+*Number of paths from A to B with directed arrows*
 
 ![[src_kangourou_2018_junior_marzo__prob8.png]]
 
-> You can go from point A to point B in the figure only by following the directions and orientations indicated by the arrows. How many different routes are possible? A) 20
-> 	
-> B) 16
-> 	
-> C) 12 D) 9
-> 	
+> In the figure, one can go from point A to point B only by following the directions and orientations indicated by the arrows. How many different paths are possible?
+> A) 20	
+>
+> B) 16	
+>
+> C) 12	
+> D) 9	
+>
 > E) 8
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q08|src_kangourou_2018_junior_marzo__Q08]]
 
 
 
@@ -387,17 +442,23 @@ Maximum number of baskets with 42,60,90 fruit (MCD)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance d of wire extended by 10 m around the equator*
+*Distance d of the stretched wire, 10 m around the equator*
 
-> Suppose that the earth is a perfect sphere and imagine stretching a wire, of the same length as the equator, so that it covers the equator exactly. Now extend the wire by 10 metres and imagine that it can be placed around the equator so as to have a uniform distance from it, i.e. so that all the points of the wire have the same distance d (measured in metres) from the equator. So you have A) d < 0.001
-> 	
-> B) 0,001 ≤ d < 0,01 C) 0,01 ≤ d < 0,1
-> 	
-> D) 0,1 ≤ d ≤ 1
-> 	
+> Suppose the Earth is a perfect sphere and imagine stretching a string of the same length as the equator so that it exactly covers the equator. Now lengthen the string by 10 meters and imagine that it can be placed around the equator so that it is at a uniform distance from the equator—that is, so that all points on the string are at the same distance d (measured in meters) from the equator. Then we have
+> A) d < 0,001	
+>
+> B) 0,001 ≤ d < 0,01
+> C) 0,01 ≤ d < 0,1	
+>
+> D) 0,1 ≤ d ≤ 1	
+>
 > E) d > 1
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q09|src_kangourou_2018_junior_marzo__Q09]]
 
 
 
@@ -431,17 +492,25 @@ Maximum number of baskets with 42,60,90 fruit (MCD)
 <div class="qlang-split" data-lang="en"></div>
 
 
-Sum of two dice with highest probability between 7, 8, 9, 10*
+*Sum of two dice, with the highest probability among 7, 8, 9, 10*
 
-> Two regular dice (faces numbered from one to six) are thrown not loaded. Which of the numbers 7, 8, 9, and 10 is most likely to be the sum of the two scores? A) 7
-> 	
-> B) 8
-> 	
-> C) 9
-> 	
-> D) 10 E) 7 and 8 have the same probability. The questions from N. 11 to N. 20 are worth 4 points each.
+> Two fair, unloaded dice (with faces numbered from one to six) are rolled. Among the numbers 7, 8, 9, and 10, which has the highest probability of being the sum of the two scores obtained?
+> A) 7	
+>
+> B) 8	
+>
+> C) 9	
+>
+> D) 10
+> E) 7 and 8 have the same probability.
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** A
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q10|src_kangourou_2018_junior_marzo__Q10]]
 
 
 
@@ -480,22 +549,27 @@ Sum of two dice with highest probability between 7, 8, 9, 10*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Stop position that minimizes total student path*
+*Stop location that minimizes total student travel distance*
 
-> On the same road, 250 m apart, two student residences are built. The first building houses 100 students, the second 150 students. Every morning, everyone takes the same bus to class. Where will the bus stop be located if the sum of the journeys taken each morning by students from both residences to reach the bus stop is to be as small as possible?
-> 	
+> On the same road, 250 m apart from each other, there are two student residences. In the first building, 100 students live; in the second, 150. Every morning, all of them take the same bus to go to class. Where should the bus stop be located if one wants the sum of the distances traveled each morning by the students from both residences to reach the stop to be as small as possible?
+>
 > A) In front of the first building.
-> 	
+>
 > B) 100 metres from the first building (and 150 metres from the second).
-> 	
-> C) 100 metres from the second building (and 150 metres from the first).
-> 	
-> 	
+>
+> C) 100 metres from the second building (and 150 from the first).
+>
+>
 > D) In front of the second building.
-> 	
-> E) Anywhere between the two buildings.
+>
+> E) At any point between the two buildings.
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q11|src_kangourou_2018_junior_marzo__Q11]]
 
 
 
@@ -533,20 +607,27 @@ Sum of two dice with highest probability between 7, 8, 9, 10*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many of the first 105 numbers in the list are divisible by 3*
+*How many of the first 105 numbers on the list are divisible by 3?*
 
-> Suppose you have written in increasing order every natural number n exactly n times: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, and so on. From the first to the 105th number on the list, how many of the numbers written are divisible by 3? A) 4
-> 	
-> B) 12
-> 	
-> C) 21
-> 	
-> D) 30
-> 	
-> E) 45 A B
+> Imagine that you have written each natural number n exactly n times in ascending order: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, … and so on. From the first to the 105th number in the list, how many of the numbers written are divisible by 3?
+> A) 4	
+>
+> B) 12	
+>
+> C) 21	
+>
+> D) 30 	
+>
+> E) 45
+> A B
 >
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q12|src_kangourou_2018_junior_marzo__Q12]]
 
 
 
@@ -582,17 +663,25 @@ Sum of two dice with highest probability between 7, 8, 9, 10*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unshaded area in square with 8 semicircles*
+*Unshaded square area with 8 semicircumferences*
 
 ![[src_kangourou_2018_junior_marzo__prob13.png]]
 
-> Observe the figure: in a square of side 4 eight semicircles of the same radius have been drawn and some of the regions enclosed between them and the sides of the square have been shaded. What is the area of the unshaded part of the square? A) 2π
-> 	
-> B) 8
-> 	
-> C) 6+ π D) 3π – 2 E) 12
+> Observe the figure: in a square with side length 4, 8 semicircles, all having the same radius, have been drawn, and some of the regions enclosed between the semicircles and the sides of the square have been shaded. What is the area of the unshaded part of the square?
+> A) 2π	
+>
+> B) 8	
+>
+> C) 6+ π
+> D) 3π – 2		
+> E) 12
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q13|src_kangourou_2018_junior_marzo__Q13]]
 
 
 
@@ -634,27 +723,33 @@ Sum of two dice with highest probability between 7, 8, 9, 10*
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many trains to or from Z between 40 trains and 5 cities
+*How many trains from or to Z among 40 trains and 5 cities?*
 
-> In one day, 40 trains traveled between two of the cities S, T, U, V, and Z.
-> 	
-> Ten trains travelled either to or from S.
-> 	
-> Ten trains have traveled either to or from T.
-> 	
-> Ten trains have traveled either to or from U.
-> 	
-> Ten trains have traveled either to or from V. How many trains have traveled to or from Z ? A) 0
-> 	
-> B) 10
-> 	
-> C) 20
-> 	
-> D) 30
-> 	
+> On a certain day, 40 trains traveled between two of the cities S, T, U, V, and Z.
+>
+> Ten trains have traveled either from or to S.
+>
+> Ten trains have traveled either from or to T.
+>
+> Ten trains have traveled either from or to U.
+>
+> Ten trains traveled either from or to V. How many trains traveled either from or to Z?
+> A) 0	
+>
+> B) 10	
+>
+> C) 20	
+>
+> D) 30	
+>
 > E) 40
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q14|src_kangourou_2018_junior_marzo__Q14]]
 
 
 
@@ -687,9 +782,18 @@ How many trains to or from Z between 40 trains and 5 cities
 
 *Percentage of students studying a language*
 
-> In a training centre you can study foreign languages, programming and accounting. 35% of those studying a language study English; 13% of the students at the centre study a language other than English. No student studies more than one language. What percentage of the students at the centre study a language? A) 13% B) 20% C) 22% D) 48% E) 65%
+> At a training center, one can study foreign languages, programming, and accounting. 35% of those studying a language are studying English; 13% of the center's students are studying a language other than English. No student studies more than one language. What percentage of the center's students are studying a language?
+> A) 13%	 	
+> B) 20%	 	
+> C) 22%	 	
+> D) 48%	 	
+> E) 65%
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q15|src_kangourou_2018_junior_marzo__Q15]]
 
 
 
@@ -724,19 +828,24 @@ How many trains to or from Z between 40 trains and 5 cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cost of the book given family contribution scheme*
+*Book cost given family contribution scheme*
 
-> Peter had no money, but he wanted to buy a book. With the help of his father and his two brothers, he bought it. His father gave him half the sum his brothers collectively gave him. The older brother gave him a third of what the others gave him. His younger brother gave him 10 euros. How many euros did the book cost? A) 24
-> 	
-> B) 26
-> 	
-> C) 28
-> 	
-> D) 30
-> 	
+> Pietro had no money, but he wanted to buy a book: he bought it with the help of his father and his two brothers. His father gave him half of the total amount that his brothers gave him. His older brother gave him a third of what the others gave him. His younger brother gave him 10 euros. How many euros did the book cost?
+> A) 24	
+>
+> B) 26	
+>
+> C) 28	
+>
+> D) 30	
+>
 > E) 32
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q16|src_kangourou_2018_junior_marzo__Q16]]
 
 
 
@@ -770,19 +879,25 @@ How many trains to or from Z between 40 trains and 5 cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many 3-digit numbers can be deleted = one ninth*
+*How many 3-digit numbers with cancellation = one ninth*
 
-> How many three-digit positive integers are such that the two-digit number obtained by deleting the central digit is a ninth of the original three-digit number? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> How many positive three-digit integers are there such that the two-digit number obtained by deleting the middle digit is one ninth of the original three-digit number?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q17|src_kangourou_2018_junior_marzo__Q17]]
 
 
 
@@ -814,17 +929,23 @@ How many trains to or from Z between 40 trains and 5 cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times 2018^2 under roots to get 2018^10*
+*How many times do you take 2018^2 under a square root to get 2018^10?*
 
-> Why is this equation √(2018^2 + 2018^2 + ... + 2018^2) = 2018^10 true, how many times does 2018^2 have to appear under the square root? A) 5
-> 	
-> B) 8
-> 	
-> C) 18
-> 	
-> D) 20188 E) A number different from the previous one
+> For this equality √20182 + 20182 + … + 20182 = 201810 to be true, how many times must the addend 20182 appear under the square root sign?
+> A) 5	
+>
+> B) 8	
+>
+> C) 18	
+>
+> D) 20188	  
+> E) A number different from the preceding ones
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q18|src_kangourou_2018_junior_marzo__Q18]]
 
 
 
@@ -856,15 +977,22 @@ How many trains to or from Z between 40 trains and 5 cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Average full route speed with two speeds*
+*Average speed over the entire route with two speeds*
 
-> A train travels 2/3 of the way at an average speed of 140 km/h and the remainder of the way at an average speed of 50 km/h. What is its average speed in km/h along the entire route? A) 125
-> 	
-> B) 87,5 C) 90
-> 	
-> D) 190/3 E) 260/3
+> A train travels for 2/3 of its journey at an average speed of 140 km/h and for the remaining part of the journey at an average speed of 50 km/h. What is its average speed over the entire journey, in km/h?
+> A) 125	
+>
+> B) 87,5	 	
+> C) 90	
+>
+> D) 190/3	 	
+> E) 260/3
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q19|src_kangourou_2018_junior_marzo__Q19]]
 
 
 
@@ -894,13 +1022,22 @@ How many trains to or from Z between 40 trains and 5 cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-The number of digits of the result 10^2018*(10^2018-1)/9*
+*Number of digits of the result 10^2018*(10^2018-1)/9*
 
-> Determine how many digits the result of operation 102018 × (102018 - 1) × 1/9 has. A) 2017 B) 2018 C) 4035 D) 4036 E) 4037
-> 
-> The questions from N. 21 to N. 30 are worth 5 points each.
+> Determine how many digits the result of the operation 102018 × (102018 - 1) × 1/9 has.
+> A) 2017	  	
+> B) 2018	 	
+> C) 4035	 	
+> D) 4036	 	
+> E) 4037
+>
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q20|src_kangourou_2018_junior_marzo__Q20]]
 
 
 
@@ -935,17 +1072,24 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of vertices of the three polygons of the 2018 split axis*
+*Number of vertices of the three polygons of the 2018-gon divided*
 
-> In a regular polygon with 2018 vertices numbered consecutively from 1 to 2018, for example clockwise, two diagonals have been drawn. One connects the vertices with the numbers 18 and 1018, the other connects the vertices with the numbers 1018 and 2000. How many vertices do the three polygons in which the original polygon is divided have? A) 38, 983, 1001
-> 	
-> B) 37, 983, 1001
-> 	
-> C) 38, 982, 1001 D) 37, 982, 1000
-> 	
+> In a regular polygon with 2018 vertices numbered consecutively from 1 to 2018, for example in a clockwise direction, two diagonals have been drawn. One joins the vertices numbered 18 and 1018; the other joins the vertices numbered 1018 and 2000. How many vertices do the three polygons into which the original polygon is divided have?
+> A) 38, 983, 1001	
+>
+> B) 37, 983, 1001	
+>
+> C) 38, 982, 1001	
+> D) 37, 982, 1000	
+>
 > E) 37, 983, 1002
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q21|src_kangourou_2018_junior_marzo__Q21]]
 
 
 
@@ -982,17 +1126,22 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 
 *Maximum of the four numbers given the four average results*
 
-> Consider this procedure: given four positive integers, choose three, calculate their arithmetic mean, and sum the fourth number. Maria set four numbers and the corresponding results for the four possible ways (selection of three out of four numbers) of applying the procedure are 17, 21, 23 and 29: what is the value of the largest of the four numbers set by Maria? A) 12
-> 	
-> B) 15
-> 	
-> C) 21
-> 	
-> D) 24
-> 	
+> Consider this procedure: given four positive integers, choose three of them, compute their arithmetic mean, and add the fourth number. Maria has fixed four numbers, and the results corresponding to the four possible ways (choices of three numbers out of four) of applying the procedure are 17, 21, 23, and 29: what is the value of the largest of the four numbers that Maria fixed?
+> A) 12 	
+>
+> B) 15	
+>
+> C) 21	
+>
+> D) 24	
+>
 > E) 29
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q22|src_kangourou_2018_junior_marzo__Q22]]
 
 
 
@@ -1028,19 +1177,25 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many faces are painted if 45 cubes are unpainted*
+*How many painted faces if there are 45 cubes without paint?*
 
-> Henry built a cube by gluing together a number of identical cubes. Then he painted some of the faces of the big cube. His sister dropped the cube that broke apart into the original cubes. Of these cubes, 45 have no painted faces. How many faces of the big cube did Henry paint? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> Enrico built a cube by gluing together a certain number of identical small cubes. Then he painted some of the faces of the large cube. His sister dropped the cube, and it fell apart into the original small cubes. Of these small cubes, 45 have no painted faces. How many faces of the large cube had Enrico painted?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q23|src_kangourou_2018_junior_marzo__Q23]]
 
 
 
@@ -1077,13 +1232,18 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum N tangent circles in the circular annulus*
+*Maximum number N of circles tangent to the annular region*
 
 ![[src_kangourou_2018_junior_marzo__prob24.png]]
 
-> The smaller radius of a circular annulus is 1, the larger is 9. We want to draw N circles within the circular annulus so that • each is tangent to both the circles that delimit the circular crown and • no two circles have more than one point in common. The figure next to it, not in scale, illustrates a possible position for one of the N circles. What's the greatest possible value for N?
+> The inner radius of an annulus is 1, and the outer radius is 9. We want to draw N circles inside the annulus such that • each circle is tangent to both of the circles that bound the annulus, and • no two of the circles have more than one point in common. The figure alongside, not to scale, illustrates a possible position for one of the N circles. What is the greatest possible value of N?
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q24|src_kangourou_2018_junior_marzo__Q24]]
 
 
 
@@ -1130,28 +1290,36 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number to be written in the A-spoke of the 18-acre recursive area*
+*Number to be written at vertex A of the recursive 18-gon*
 
 ![[src_kangourou_2018_junior_marzo__prob25.png]]
 
-> In the figure you see a regular polygon of 18 sides. In each vertex a number is to be written which is the sum of the numbers written in the two adjacent vertices. Two numbers have already been entered. What number should you write in vertex A? A) 2018 B) 20
-> 	
-> C) 18
-> 	
-> D) 38
-> 	
-> E) - 38 A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> In the figure, you see a regular 18-sided polygon. At each of its vertices, you want to write a number that is the sum of the numbers written at the two adjacent vertices. Two numbers have already been entered. What number should be written at vertex A?
+> A) 2018	 	
+> B) 20	
+>
+> C) 18	
+>
+> D) 38	
+>
+> E) - 38
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
 >
 
-**Answer:** D
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q25|src_kangourou_2018_junior_marzo__Q25]]
 
 
 
@@ -1187,13 +1355,23 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of numbers in the grid for 2018 squares*
+*Maximum sum of numbers in the 2018-grid with squares*
 
 ![[src_kangourou_2018_junior_marzo__prob26.png]]
 
-> Look at the picture: Diana drew a rectangular grid of 12 squares on a sheet of graph paper, then blacked out some of the squares, and on each remaining white square she wrote down the number of black squares that share a side with it. Now she does the same thing with a rectangular grid of 2018 squares. What is the maximum value you can get if you add up all the numbers in the grid? A) 1262 B) 2017 C) 2018 D) 3025 E) 3027
+> Look at the figure: Diana drew a rectangular grid of 12 squares on graph paper, then shaded some of the squares black, and in each square that remained white she wrote the number of black squares that share a side with it. Now she is doing the same with a rectangular grid of 2018 squares. What is the maximum value she can obtain if she adds up all the numbers in the grid?
+> A) 1262	 	
+> B) 2017	 	
+> C) 2018	 	
+> D) 3025	 	
+> E) 3027
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q26|src_kangourou_2018_junior_marzo__Q26]]
 
 
 
@@ -1244,37 +1422,27 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many statements about the deaf ladybugs are true*
+*How many claims about deaf ladybugs are true?*
 
 ![[src_kangourou_2018_junior_marzo__prob27.png]]
 
-> Four indistinguishable ladybugs, some of which might be deaf, each sit in a different cell of a 4 × 4 grid. Each time 
-> a whistle is blown, all the non-deaf ladybugs, and only those, move 
-> to an adjacent cell that is free at the moment of the whistle, without two of them ending up 
-> in the same cell: they can move up, down, right or left, 
-> but they cannot return to the cell from which they came at the previous whistle. 
-> The first figure shows that initially the ladybugs occupy cells (2,1), 
-> (3,1), (3,2) and (4,3). If the second figure shows the result after the third whistle, 
-> how many of the following statements can be true?
-> •	
-> No ladybug is deaf (all the ladybugs have moved). 
-> •	
-> Only the ladybug in initial and final position (3,2) is deaf.
-> •	
-> Only the ladybug in initial and final position (4,3) is deaf.
-> •	
-> The two ladybugs in final position (2,2) and (2,4) are deaf and only they are.
+> Four indistinguishable ladybugs, some of which may be deaf, each occupy a different cell of a 4 × 4 grid. Each time a whistle is blown, all the non-deaf ladybugs—and only those—move to an adjacent cell that is already empty at the moment of the whistle, with no two of them ending up in the same cell; they may move up, down, right, or left, but they cannot return to the cell they occupied at the previous whistle. The first figure shows that initially the ladybugs occupy cells (2,1), (3,1), (3,2), and (4,3). If the second figure shows the situation after the third whistle, how many of the following statements can be true? • No ladybug is deaf (all the ladybugs have moved). • Only the ladybug in the initial and final position (3,2) is deaf. • Only the ladybug in the initial and final position (4,3) is deaf. • The two ladybugs in the final positions (2,2) and (2,4) are deaf, and only they are deaf.
 > A) 0	
-> 	
+>
 > B) 1	
-> 	
+>
 > C) 2	
-> 	
+>
 > D) 3	
-> 	
+>
 > E) 4
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q27|src_kangourou_2018_junior_marzo__Q27]]
 
 
 
@@ -1309,17 +1477,24 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Section of the holed cube with centre plane*
+*Section of the drilled cube with a plane for the center*
 
 ![[src_kangourou_2018_junior_marzo__prob28.png]]
 
-> Look at the figure: from a cube of side three, seven cubes of side one have been removed. Now let's cut this holed cube with a plane passing through the center of the cube and perpendicular to one of its 4 diagonals. Which of the following figures will the section look like? A) B)
-> 	
-> C)
-> 	
-> D) E)
+> Look at the figure: from a cube with side length 3, seven unit cubes have been removed. Now let's cut this hollow cube with a plane that passes through the center of the cube and is perpendicular to one of its four diagonals. Which of the following figures will the cross-section resemble?
+>          A) 	 	
+>       B) 	
+>
+>     C) 	
+>
+>  D) 	
+>                E)
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q28|src_kangourou_2018_junior_marzo__Q28]]
 
 
 
@@ -1353,17 +1528,24 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to fill a 2x3 table with sums divisible by 3*
+*Ways to fill a 2x3 table with sums divisible by 3*
 
-> In each cell of a table 2 × 3 you want to write exactly one of the numbers of the set {1, 2, 3, 4, 5, 6} so that for each row and each column the sum of the numbers in it is divisible by 3. How many different ways can you fill the table? A) 24
-> 	
-> B) 36
-> 	
-> C) 40
-> 	
-> D) 45 E) A different number from the previous ones.
+> In each cell of a 2 × 3 table, we want to write exactly one of the numbers from the set {1, 2, 3, 4, 5, 6} such that, for each row and each column, the sum of the numbers in that row or column is divisible by 3. In how many different ways can the table be filled?
+> A) 24	
+>
+> B) 36	
+>
+>  C) 40	
+>
+> D) 45
+> E) A number different from the preceding ones.
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q29|src_kangourou_2018_junior_marzo__Q29]]
 
 
 
@@ -1412,22 +1594,28 @@ The number of digits of the result 10^2018*(10^2018-1)/9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Chord length BD in the circle with 60-degree chords*
+*Length of chord BD in the circle with chords at 60 degrees*
 
 ![[src_kangourou_2018_junior_marzo__prob30.png]]
 
-> Look at the figure: in a circle with a diameter of AD, two chords AB and AC have been drawn that form an angle of 60°. The BE segment is perpendicular to AC, and EC measures 3 cm. How many centimeters is the chord BD ? A) √3
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 2√3
-> 	
+> Look at the figure: in a circle with diameter AD, two chords AB and AC have been drawn, forming an angle of 60°. Segment BE is perpendicular to AC, and EC measures 3 cm. How many centimeters long is chord BD?
+> A) √3	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 2√3	
+>
 > E) 3√2
->  
+>
 > Initial position Final position
-> 
+>
 > D C D E B B A B
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_junior_marzo#q30|src_kangourou_2018_junior_marzo__Q30]]

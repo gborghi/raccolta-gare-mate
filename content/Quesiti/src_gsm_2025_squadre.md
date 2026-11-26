@@ -44,11 +44,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of lighting with eight switches*
+*Probability of turning on a lamp controlled by eight switches*
 
-> In one room there are eight switches that control the same lamp. The lamp shall be switched on only if all eight switches are in the ON position. There's nothing written on the switches, so it's impossible to tell which are on and which are off. A person walks into the room and knows that four switches are on and four on, but they don't know what they are. To turn on the light the person proceeds in this way: he chooses four switches at random and changes their status. What's the probability that the light will turn on on the first attempt? [Give the answer the probability multiplied by 10000.] : 0007
+> Switches
+> Carlo Càssola
+> In a room there are eight switches that control the same lamp. The lamp comes on only if all eight switches are in the ON position. Nothing is written on the switches, so it is impossible to tell which are ON and which are OFF. A person enters the room and knows that four switches are ON and four are OFF, but does not know which. To turn on the light, the person proceeds as follows: they choose four switches at random and change their state. What is the probability that they turn the light on at the first attempt? [Give as the answer the probability multiplied by 10000.]
+> : 0007
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 0135
+
+[[Quesiti/src_gsm_2025_squadre#q01|src_gsm_2025_squadre__Q01]]
 
 
 
@@ -78,11 +88,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number at the beginning of the 97th row of odd numbers*
+*The number at the start of the 97th row of odd numbers*
 
-> Schema Sandro Campigotto Write the odd numbers according to the following scheme: in the first line write the number 1; in the second line write the next two odd numbers 3 and 5; in the third the next three odd numbers 7, 9 and 11, and so on. What number do you write at the beginning of the 97th line? : 9313
+> Scheme
+> Sandro Campigotto
+> Write the odd numbers according to the following scheme: in the first row write the number 1; in the second row write the next two odd numbers, 3 and 5; in the third the next three odd numbers, 7, 9 and 11, and so on. Which number do you write at the start of the 97th row?
+> : 9313
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 0000
+
+[[Quesiti/src_gsm_2025_squadre#q02|src_gsm_2025_squadre__Q02]]
 
 
 
@@ -116,11 +135,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parallel-piped heights with perfect square volume*
+*Heights of a square-based box whose volume is a perfect square*
 
-> Possibility Benedetta Demoro A square-based parallel piped has all full-sized shoulders in cm; in particular its height has length (p2 + p+ 4) cm, with nonnegative integer p. The value of the volume of the parallelepiped in cm3 is equal to that of the area in cm2 of a square with sides of whole dimensions. What are the possible heights of the paralelepiped? [Give the sum of the values in cm of possible heights.]: 0084
+> Possibilities
+> Benedetta Demoro
+> A square-based parallelepiped has edges all of integer length in cm; in particular its height has length (𝑝2 + 𝑝+ 4) cm, with 𝑝 a non-negative integer. The volume of the parallelepiped in cm3 equals the area in cm2 of a square whose sides have integer length. What are the possible heights of the parallelepiped? [Give as the answer the sum of the possible heights, in cm.]
+> : 0084
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 0064
+
+[[Quesiti/src_gsm_2025_squadre#q03|src_gsm_2025_squadre__Q03]]
 
 
 
@@ -163,13 +192,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting triangles in a construction on a rectangle*
+*How many triangles in a construction on a rectangle*
 
-![[src_gsm_2025_squadre__prob4.png]]
+> Triangles and rectangles
+> Giuseppe Rosolini
+> Take a rectangle 𝐴𝐵𝐶𝐷 with 𝐴𝐵 of length 30 cm and 𝐵𝐶 of length 12 cm, draw the two diagonals 𝐴𝐶 and 𝐵𝐷 and the two segments joining the midpoints of opposite sides: the segment 𝐸𝐹 joining the midpoint 𝐸 of 𝐴𝐵 and the midpoint 𝐹 of 𝐶𝐷; the segment 𝐺𝐻 joining the midpoint 𝐺 of 𝐵𝐶 and the midpoint 𝐻 of 𝐷𝐴. Then divide each side of the rectangle into six equal parts: on the side 𝐴𝐵 mark the segments 𝐴𝑃1 = 𝑃1𝑃2 = 𝑃2𝐸= 𝐸𝑃3 = 𝑃3𝑃4 = 𝑃4𝐵; do the same for the side 𝐶𝐷 using the points 𝑄1, 𝑄2, 𝑄3 and 𝑄4, and likewise for the other two sides 𝐵𝐶 and 𝐷𝐴, using respectively the four points 𝑅1, 𝑅2, 𝑅3 and 𝑅4, and the four points 𝑆1, 𝑆2, 𝑆3 and 𝑆4. Finally, from each of these 16 points draw the segment perpendicular to the side it lies on, joining it to the nearest diagonal of the rectangle. How many triangles have you drawn?
+> : 0016
 
-> Triangles and rectangles Giuseppe Rosolini Taking a rectangle ABCD with a length of 30 cm and a length of 12 cm BC, he traces the two diagonal ACe Bde of the two segments connecting the middle points of opposite sides: the EFe segment connecting the middle point Edi ABe the middle point Fdi CD; the GHe segment connecting the middle point Gdi BCe the middle point Hdi DA. Then divide each side of the rectangle into six equal parts: mark on the side ABi segments AP1 = P1P2 = P2E = EP3 = P3P4 = P4B; do the same for the side by covering the points Q1, Q2, Q3 and Q4, as well as for the other two sides BCe DA, using the four points R1, R2, R3 and R4, and the four points S1, S2, S3 and S4 respectively. Finally, trace from each of these 16 points the segment perpendicular to the side on which it stands and which connects it to the nearest diagonal of the rectangle. How many triangles have you drawn? : 0016
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 **Answer:** 0016
+
+[[Quesiti/src_gsm_2025_squadre#q04|src_gsm_2025_squadre__Q04]]
 
 
 
@@ -197,9 +234,18 @@ level: squadre
 
 *Number of positive divisors of 246246*
 
-> Quite briefly Carlo Cassola How many are the positive divisors of 246246? : 0048
+> Very short
+> Carlo Càssola
+> How many positive divisors does 246246 have?
+> : 0048
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 0016
+
+[[Quesiti/src_gsm_2025_squadre#q05|src_gsm_2025_squadre__Q05]]
 
 
 
@@ -229,11 +275,24 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum consecutive digits of 1/26 with sum of 3000*
+*Most consecutive digits of the decimal part of 1/26 that sum to 3000*
 
-> Periodic sums Lorenzo Mazza What is the maximum number of consecutive digits of the decimal place of 1 26 that all add up to the result 3000? : 0333
+> Periodic sums
+> Lorenzo Mazza
+> What is the greatest number of consecutive digits of the decimal part of
+> 1
+> 26
+> which, added all together, give 3000?
+> : 0333
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 0335
+
+[[Quesiti/src_gsm_2025_squadre#q06|src_gsm_2025_squadre__Q06]]
 
 
 
@@ -262,11 +321,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of distinct parallel pipes with 630 cubes*
+*How many distinct parallelepipeds can be built with 630 little cubes*
 
-> There are 630 identical cubes. By using all of them, you can arrange them to form a parallel piped. How many different parallel pipes can you get? : 0048
+> Little cubes
+> Carlo Càssola
+> There are 630 identical little cubes. Using all of them, you can arrange them so as to form a parallelepiped. How many different parallelepipeds can you obtain?
+> : 0048
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 0020
+
+[[Quesiti/src_gsm_2025_squadre#q07|src_gsm_2025_squadre__Q07]]
 
 
 
@@ -306,11 +375,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of the last viewer sitting in the right place*
+*Probability that the last cinemagoer sits in the right seat*
 
-> At the cinema Giuseppe Rosolini The cinema hall only with numbered chairs is almost complete, there are four free seats with the respective tickets still available. The movie's about to start. A spectator comes in and buys a ticket, walks into the room and sits in the first free chair he sees without checking which seat is on his ticket. One after another, three more spectators arrive, they know the room is almost full and the film is about to begin. Each, respecting the rules, therefore decides to sit in the seat indicated on his ticket as long as the seat is free. Otherwise, it'll fit into a random seat. What is the probability that the last spectator will sit in the seat indicated on his ticket? [Give the answer the probability multiplied by 10000.]: 9375
+> At the cinema
+> Giuseppe Rosolini
+> The cinema, with numbered seats only, is almost full: four seats remain free, with their tickets still available. The film is about to start. A cinemagoer arrives, buys a ticket, enters the auditorium and sits in the first free seat they see, without checking which seat is printed on their ticket. One after another, three further cinemagoers arrive; they know the auditorium is almost full and the film is about to start. Each of them, respecting the rules, therefore decides to sit in the seat printed on their ticket, provided that seat is free. Otherwise they will settle for sitting at random. What is the probability that the last cinemagoer sits in the seat printed on their ticket? [Give as the answer the probability multiplied by 10000.]
+> : 9375
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 4375
+
+[[Quesiti/src_gsm_2025_squadre#q08|src_gsm_2025_squadre__Q08]]
 
 
 
@@ -369,11 +448,26 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of the fracture passing through the source*
+*Probability that a ruled polyline passes through the origin*
 
-> Broken Rodolfo Asserto On a very large square sheet of paper, the side of each square is the length of u. Draw on the sheet two cartesian axes so that each axis is overlapping with the segments printed on the sheet and that, from the intersection of the axes which must therefore be the summit of a pre-printed square, there are at least 2025 squares towards each of the four edges of the sheet. The coordinates are calculated in relation to the unit of length u. You can draw segments with the pencil by joining one vertex of a square with another by following the sides of the pre-printed squares on the sheet and make segmented drawings by following these rules: if you finish on a point identified by a pair with first equal coordinate and the secondary, turned right in relation to the direction from which you came and continue the track on the 1 side; if you finish on a point identified by a pair with first equal coordinate, turn left in relation to the direction from which you came and continue the track on the 1 side; otherwise, continue the track on the 1 side in the direction from which you came. Choose at random the summit of a square within the radius of radius 3 u and the centre of origin of the axes (the summit must be internal, not the entire square) and plot a segment of length following at random one of the pre-printed segments, then proceed by following the three rules. What is the probability that the trace will pass through a finite number of traces and possibly out of the circumference, but not out of the sheet for the origin of the axes? [Give as an answer the probability multiplied by 10000.]: 0833 Mixed team competition 2025  Problem texts  Pag. 1 di 2
+> Broken lines
+> Rodolfo Assereto
+> On a very large sheet of squared paper, the side of each square has length u. Draw two Cartesian axes on the sheet so that each axis lies along the segments preprinted on the sheet and so that, from the intersection of the axes—which must therefore be a vertex of a preprinted square—there are at least 2025 squares towards each of the four edges of the sheet. Coordinates are measured in the unit of length u. You may draw segments in pencil, joining one vertex of a square to another along the sides of the squares preprinted on the sheet, and make segmented drawings according to these rules:
+>  if you end on a point given by a pair whose first coordinate is even and whose second is odd, turn right relative to the direction you arrived from and continue the trace by 1 side;
+>  if you end on a point given by a pair whose first coordinate is odd and whose second is even, turn left relative to the direction you arrived from and continue the trace by 1 side;
+>  otherwise continue the trace by 1 side in the direction you arrived from.
+> Choose at random the vertex of a square inside the circle of radius 3 u centred at the origin of the axes (the vertex must be inside, not the whole square) and draw a segment of length u along a preprinted segment chosen at random, then continue, respecting the three rules. What is the probability that the trace passes—within a finite number of traces, and possibly leaving the circle, but not the sheet—through the origin of the axes? [Give as the answer the probability multiplied by 10000.]
+> : 0833
+> Mixed team competition 2025 – Problem texts – Page 1 of 2
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_geometria_analitica|Coordinate geometry]], [[topic_probabilita|Probability and statistics]], [[topic_geometria_analitica|Coordinate geometry]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 **Answer:** 2367
+
+[[Quesiti/src_gsm_2025_squadre#q09|src_gsm_2025_squadre__Q09]]
 
 
 
@@ -402,11 +496,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies 1..2025 divisible by 19 or containing 19*
+*Integers from 1 to 2025 divisible by 19 or containing the digits 19 in a row*
 
-> Short Carlo Càssola How many integers between 1 and 2025 are divisible by 19, such as 38, or contain within them the digits 1 and 9 written below, such as in 1192? : 0114
+> Brief
+> Carlo Càssola
+> How many integers between 1 and 2025 are divisible by 19, as for example 38, or contain within them the digits 1 and 9 written in a row, as for example in 1192?
+> : 0114
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_casework_accurato|Careful casework]], [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 0123
+
+[[Quesiti/src_gsm_2025_squadre#q10|src_gsm_2025_squadre__Q10]]
 
 
 
@@ -457,11 +561,24 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eight-digit numbers generating rectangles*
+*Eight-digit numbers that generate rectangles*
 
-> Separate Luca Renzi Consider the separation of two digits gives us a number: the absolute value of the difference between the exponents of the two powers of 10 whose two digits are the factors. In other words, the number of digits separating d increased by 1. Now take a number of eight digits in which at least three zeros appear, none of which (in the first or) in the last position, and draw on a sheet a parallelogram as follows: the separation between the first digit 0 and the second digit 0 is the centimetre measurement of two parallel sides of the parallelogram; the separation between the second digit 0 and the third digit 0 is the centimetre measurement of the other two parallel sides. For example, if we take the number 12300405, the separation between the first and second 0 is 1, so the first side will be 1 cm; the separation between the second and third 0 is 2, so the second side will be 2 cm long. To choose the angles of the parallelogram, the product of the numbers read before the first zero and after the third in the above example is p=123 ⋅5 = 615. The two degree amplitudes at the angles of the parallelogram must be positive integers that have produced p. How many eight-digit numbers can generate rectangles? : 0060
+> Separated
+> Luca Renzi
+> Consider the separation of two digits 𝑐 and 𝑑 in a number: the absolute value of the difference between the exponents of the two powers of 10 of which the two digits are the coefficients. In other words, the number of digits separating 𝑐 and 𝑑, increased by 1.
+> Now take an eight-digit number in which at least three zeros appear, none of them in the first or in the last position, and draw a parallelogram on a sheet as follows: the separation between the first digit 0 and the second digit 0 is the length in centimetres of two parallel sides of the parallelogram; the separation between the second digit 0 and the third digit 0 is the length in centimetres of the other two parallel sides.
+> For example, take the number 12300405: the separation between the first and the second 0 is 1, so the first side will be 1 cm; the separation between the second and the third 0 is 2, so the second side will be 2 cm long.
+> To choose the measures of the angles of the parallelogram one considers the product 𝑝 of the numbers read before the first zero and after the third—in the example above, 𝑝= 123 ⋅5 = 615. The two measures in degrees 𝑛 and 𝑚 of the angles of the parallelogram must be positive integers whose product is 𝑝. How many eight-digit numbers can generate rectangles?
+> : 0060
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_casework_accurato|Careful casework]], [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 0052
+
+[[Quesiti/src_gsm_2025_squadre#q11|src_gsm_2025_squadre__Q11]]
 
 
 
@@ -491,11 +608,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of a die being the sum of the other two*
+*Probability that one of three dice equals the sum of the other two*
 
-> Three dice Carlo Cassola What is the probability that, by drawing three unmade dice, the number of any one of the three dice is equal to the sum of the other two? [Give the answer the probability multiplied by 10000.]: 0693
+> Three dice
+> Carlo Càssola
+> What is the probability that, on rolling three fair dice, the number on any one of the three equals the sum of the other two? [Give as the answer the probability multiplied by 10000.]
+> : 0693
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 1390
+
+[[Quesiti/src_gsm_2025_squadre#q12|src_gsm_2025_squadre__Q12]]
 
 
 
@@ -529,11 +656,27 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of 1/a_2025 for a defined succession*
+*Value of 1/a_2025 for a sequence defined by a weighted sum*
 
-> Succession, I Giuseppe Rosolini Consider a succession which verifies the following properties a1 = 1 a1 + 2a2 + ... + nan = n(n+ 1)anper n≥2 What is 1 a2025? : 0001
+> Sequence, I
+> Giuseppe Rosolini
+> Consider a sequence (𝑎𝑛)𝑛∈ℕ satisfying the following properties
+>  𝑎1 = 1
+>  𝑎1 + 2𝑎2 + … + 𝑛𝑎𝑛= 𝑛(𝑛+ 1)𝑎𝑛per 𝑛≥2
+> What is the value of
+> 1
+> 𝑎2025
+> ?
+> : 0001
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 **Answer:** 4049
+
+[[Quesiti/src_gsm_2025_squadre#q13|src_gsm_2025_squadre__Q13]]
 
 
 
@@ -575,13 +718,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length AP998 in a triangulation of the equilateral triangle*
+*Length of AP998 in a triangulation of an equilateral triangle*
 
-![[src_gsm_2025_squadre__prob14.png]]
+> Triangles
+> Lorenzo Mazza
+> A triangulation is a subdivision of a plane figure into triangles. Consider the following triangulation of the equilateral triangle 𝐴𝐵𝐶: it is divided into 999 triangles obtained as follows. One triangle has a vertex at 𝐵, another is the point 𝑃1 on the side 𝐵𝐶, the third is the point 𝑃2 on the side 𝐴𝐵; another triangle, of twice the area of 𝐵𝑃1𝑃2, has a vertex at 𝑃1, another at 𝑃2, and its third vertex is the point 𝑃3 on the side 𝐵𝐶; another triangle, of three times the area of 𝐵𝑃1𝑃2, has a vertex at 𝑃2, another at 𝑃3, and the third is the point 𝑃4 on the side 𝐴𝐵. And so on, until one reaches the 999th triangle, of area 999 times that of 𝐵𝑃1𝑃2, which has a vertex at 𝑃998 on the side 𝐴𝐵, the other two vertices being 𝐶 and 𝐴. The length of the segment 𝐵𝑃1 is 20 m. What is the length of the segment 𝐴𝑃998 in cm?
+> : 0008
 
-> Large Lorenzo Triangles A triangle is a subdivision of a flat figure into many triangles. Consider the following triangulation of the equilateral triangle ABC: it is divided into 999 triangles obtained as follows. A triangle has a vertex in B, another is the point P1 on the side BC, the third is the point P2 on the side AB; another triangle, with an area twice that of BP1P2, has a vertex in P1, another in P2, the third vertex is the point P3 on the side BC; another triangle, with an area triple that of BP1P2, has a vertex in P2, another in P3, the third is the point P4 on the side AB. And so we go on, until we get to the 999th triangle, with an area 999 times that of BP1P2, which has a vertex in P998 on the AB side, and the other two vertices are Ce A. The length of the segment BP1 is 20 m. What is the length of the AP998 segment in cm? : 0008
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** 3988
+
+[[Quesiti/src_gsm_2025_squadre#q14|src_gsm_2025_squadre__Q14]]
 
 
 
@@ -609,11 +760,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural matter less than 10000 with a multiple-digit sum of 6*
+*Natural numbers below 10000 whose digits sum to a multiple of 6*
 
-> How many natural numbers are less than 10000 where the sum of the digits is a multiple of 6? : 1666
+> Short
+> Carlo Càssola
+> How many natural numbers less than 10000 have a digit-sum that is a multiple of 6?
+> : 1666
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 0004
+
+[[Quesiti/src_gsm_2025_squadre#q15|src_gsm_2025_squadre__Q15]]
 
 
 
@@ -645,11 +806,26 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of a_100 of a recurring max/min succession*
+*Value of a_100 in a recurrence with max and min*
 
-> Succession, II Leonardo Cimino Consider the succession {a0 = 3 a1 = 1 an+2 = max(an+1, an) −2 min(an+1, an) What is the value of a100? : 0603
+> Sequence, II
+> Leonardo Cimino
+> Consider the sequence
+> {
+> 𝑎0 = 3
+> 𝑎1 = 1
+> 𝑎𝑛+2 = max(𝑎𝑛+1, 𝑎𝑛) −2 min(𝑎𝑛+1, 𝑎𝑛)
+> What is the value of 𝑎100?
+> : 0603
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 **Answer:** 1616
+
+[[Quesiti/src_gsm_2025_squadre#q16|src_gsm_2025_squadre__Q16]]
 
 
 
@@ -682,13 +858,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of a quadrilateral between squares on a rectangular triangle*
+*Area of a quadrilateral between squares on a right triangle*
 
-![[src_gsm_2025_squadre__prob17.png]]
+> In the right triangle
+> Carlo Càssola
+> In the triangle 𝐴𝐵𝐶, right-angled at the vertex 𝐴, the hypotenuse 𝐵𝐶 is 65 cm long, and the leg 𝐴𝐶 is 16 cm long. Externally to the triangle one constructs the square 𝐴𝑁𝑀𝐵 on the leg and the square 𝐵𝑄𝑃𝐶 on the hypotenuse. What is the area of the quadrilateral 𝐴𝑀𝑄𝑃 in cm2?
+> : 0256
 
-> In the triangle rectangle Carlo Càssola In the triangle ABC, rectangle in vertex A, the hypotenuse BC is 65 cm long, the catheter AC is 16 cm long. The square ANMB on the triangle is constructed externally and the square BQPC on the hypotenuse. What is the area of the quadrilateral AMQPin cm2? : 0256
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** 6833
+
+[[Quesiti/src_gsm_2025_squadre#q17|src_gsm_2025_squadre__Q17]]
 
 
 
@@ -731,11 +915,28 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability to occur in 2026 in a succession of operations*
+*Probability that 2026 appears in a sequence of random operations*
 
-> Simón Muselli operations To generate sequences, first a positive number is chosen randomly and then operations are applied in sequence, randomly chosen each time between the following three: add the addition 3; multiply by the factor 4; raise to the power 5. For example, we can generate the sequence 2 25 = 32 32⋅4 = 144 144 + 3 = 147 147 + 3 = 150 ... What is the probability that the number 2026 will occur in the sequence knowing that we have used the  operation multiply for the factor 4 no more than once? [Give the number of divisors of the denominator of the fraction reduced to the minimum terms as the answer.]: 0003
+> Operations
+> Simone Muselli
+> To generate sequences, one first chooses a positive digit 𝑐 at random and then applies operations to it, in sequence, each time chosen at random from the following three: add the summand 3; multiply by the factor 4; raise to the power 5. For example, one may generate the sequence
+> 2
+> 25 = 32
+> 32⋅4 = 144
+> 144+3 = 147
+> 147+3 = 150
+> …
+> What is the probability that the number 2026 appears in the sequence, given that the operation “multiply by the factor 4” has been used at most once? [Give as the answer the number of divisors of the denominator of the fraction in lowest terms.]
+> : 0003
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 1351
+
+[[Quesiti/src_gsm_2025_squadre#q18|src_gsm_2025_squadre__Q18]]
 
 
 
@@ -767,13 +968,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rage of tangent circumference in a triangle*
+*Radius of a circle tangent to two sides of a triangle, centre on the third*
 
-![[src_gsm_2025_squadre__prob19.png]]
+> In the triangle
+> Carlo Càssola
+> In the triangle 𝐴𝐵𝐶, the side 𝐴𝐵 is 17 m long, the side 𝐵𝐶 is 26 m long, and the side 𝐶𝐴 is 25 m long. Draw a circle with centre on the side 𝐵𝐶, tangent to the other two sides. What is its radius in mm?
+> : 9999
 
-> In the triangle Carlo Càssola In the triangle ABC, the side AB is 17 m long, the side BC is 26 m long, and the side CA is 25 m long. Draw a circle with a center on the BC side, tangent to the other two sides. How much is its radius in mm? : 9999
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** 0285
+
+[[Quesiti/src_gsm_2025_squadre#q19|src_gsm_2025_squadre__Q19]]
 
 
 
@@ -807,11 +1016,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of the covered die being 6*
+*Probability that the covered die shows 6*
 
-> Six on the dice Sandro Campigotto Andrea throws a dice and gets a six, then walks away from the room. Barbara throws two more dice on the same table, fails to look at the result and leaves the room. Carlo walks into the room and covers a random dice. The two remaining dice on the table both show face 6. What's the probability that the covered dice has a value of 6? [Give the answer the probability multiplied by 10000.]: 0625
+> Sixes on the dice
+> Sandro Campigotto
+> Andrea rolls a die and gets a 6, then leaves the room. Barbara rolls two further dice on the same table, does not look at the result, and leaves the room. Carlo enters the room and covers a die at random. The two dice left on the table both show the face 6. What is the probability that the covered die has value 6? [Give as the answer the probability multiplied by 10000.]
+> : 0625
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 1682
+
+[[Quesiti/src_gsm_2025_squadre#q20|src_gsm_2025_squadre__Q20]]
 
 
 
@@ -848,10 +1067,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of perimeter sections of icosahedron and dodecahedron*
+*Ratio of the perimeters of sections of an icosahedron and a dodecahedron*
 
-> Matteo Littardi's report Given a regular icosahedron and a regular dodecahedron with the same side, it cuts the first with a plane passing through the center and orthogonal to the segment that joins two opposite vertices. Cut the second with a plane passing through the center and parallel to a face. What is the ratio of the perimeter of the first section to the perimeter of the second? [Give the answer the ratio multiplied by 1000.]: 1291 Mixed team competition 2025  Problem texts  Pag. 2 di 2
-> 
-> Mixed team mathematics competition 2025 Solutions
+> Ratio
+> Matteo Littardi
+> Given a regular icosahedron and a regular dodecahedron with the same side, cut the first with a plane through the centre and orthogonal to the segment joining two opposite vertices. Cut the second with a plane through the centre and parallel to a face. What is the ratio of the perimeter of the first section to the perimeter of the second? [Give as the answer the ratio multiplied by 1000.]
+> : 1291
+> Mixed team competition 2025 – Problem texts – Page 2 of 2
+>
+> Mixed team mathematics competition 2025
+> Solutions
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** 0673
+
+[[Quesiti/src_gsm_2025_squadre#q21|src_gsm_2025_squadre__Q21]]

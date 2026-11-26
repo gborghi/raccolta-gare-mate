@@ -31,11 +31,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which rectangle contains only numbers less than 7*
+*Which rectangle contains only numbers less than 7?*
 
 ![[src_kangourou_2019_koala_preecolier__prob1.png]]
 
-> Students themselves fill out their own answer cards: in this case, teachers may allow them to fill in the part on the identification data requested in advance.
+> Students complete their own response sheets independently; in this case, teachers may allow them to complete in advance the section relating to the required identifying information.
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q01|src_kangourou_2019_koala_preecolier__Q01]]
 
 
 
@@ -4278,80 +4284,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which one is a part of the necklace shown*
+*What is a part of the necklace shown?*
 
 ![[src_kangourou_2019_koala_preecolier__prob2.png]]
 
-> The students mark their answers on the question booklet (it is suggested to have them fill in the class and first and last name on the first
-> page); then they hand it in to the teacher, who fills in all
-> the forms to be sent for evaluation.
-> In any case, it is up to the teacher to fill in the part relating to the time taken by the student.
-> Every answer form that you send for evaluation must be read by an optical reader: for this reason only BLACK pens must be used. To mark a box, it is not enough to draw a
-> cross on it: it must be blackened completely and without smudges, as shown by the facsimile on the
-> adjacent page, relating to a hypothetical female student who
-> -
-> is named BACE ADA (in the first column of "field 1" the box to the right
-> of the letter "B" must therefore be blackened, in the second column the one to the right of the letter "A" and so on; the column relating to the space between surname and name must be left blank, and they must be entered in this order);
-> -
-> answered only questions no. 1, 2, 3, 4, 6, 9 giving respectively the answers A, B, B, C, A, E;
-> -
-> attends class II of the elementary school "ALESSANDRO VOLTA";
-> -
-> handed in her answers to the teacher after 42 minutes.
-> Corrections and/or erasures are not allowed (the forms are in any case provided in excess).
-> SCORING
-> How the score is assigned:
-> Therefore, if a question is worth more, getting its answer wrong costs more.  For example, if you answer all
-> the questions and correctly all except
-> •
-> one worth 3 points, you get 3x7 + 4x8 + 5x8 - 0.75 = 92.25 points
-> •
-> one worth 4 points, you get 3x8 + 4x7 + 5x8 - 1      = 91 points 
-> •
-> one worth 5 points, you get 3x8 + 4x8 + 5x7 - 1.25 = 89.75 points.
-> It is reiterated that for each question one and only one of the five indicated answers is correct. 
-> Questions
-> Correct Answer
-> Wrong Answer
-> No answer
-> from No. 1 to No. 8
-> + 3 points
-> - 0.75 points
-> 0 points
-> from No. 9 to No. 16
-> + 4 points
-> - 1 point
-> 0 points
-> from No. 17 to No. 24
-> + 5 points
-> - 1.25 points
-> 0 points
-> -
-> o
-> a
-> e
-> -
-> a
-> a
-> a
-> -
-> .
-> i
- 
-22
-The tricks of the Koalas no. 6
--
-> o
-> a
-> e
-> -
-> a
-> a
-> a
-> -
-> .
-> i
->
+> Look at this necklace. Which of these is a part of it?
+> A)
+> B)
+> C)
+> D)
+> E)
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q02|src_kangourou_2019_koala_preecolier__Q02]]
 
 
 
@@ -4385,21 +4329,27 @@ The tricks of the Koalas no. 6
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What part can be cut from the grid*
+*Which piece can be cut out from the grid?*
 
 ![[src_kangourou_2019_koala_preecolier__prob3.png]]
 
-> Catherine cut a piece of this grid.
+> Caterina has cut out a piece of this grid.
 >
 > (see figure)
 >
-> Which one of these could be the piece he cut?
+> Which of these could be the piece he cut out?
 >
-> - **(A)** Triangle and square
-> - **(B)** Inverted triangle and circle
-> - **(C)** star and left-facing triangle
-> - **(D)** Star and rhombus
+> - **(A)** triangle and square
+> - **(B)** inverted triangle and circle
+> - **(C)** star and triangle pointing to the left
+> - **(D)** star and rhombus
 > - **(E)** square and circle
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q03|src_kangourou_2019_koala_preecolier__Q03]]
 
 
 
@@ -4431,11 +4381,11 @@ The tricks of the Koalas no. 6
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pairs of socks with the same number*
+*How many pairs of stockings with the same size?*
 
 ![[src_kangourou_2019_koala_preecolier__prob4.png]]
 
-> In the picture you can see socks, each with a number on it. To make a pair, you have to use two socks with the same number. How many pairs of socks can you make?
+> In the figure, you can see some socks, each of which has a number on it. To make a pair, you must use two socks that have the same number. How many pairs of socks can be made?
 >
 > (see figure)
 >
@@ -4444,6 +4394,12 @@ The tricks of the Koalas no. 6
 > - **(C)** 5
 > - **(D)** 4
 > - **(E)** 3
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q04|src_kangourou_2019_koala_preecolier__Q04]]
 
 
 
@@ -4475,11 +4431,11 @@ The tricks of the Koalas no. 6
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many discs did Anna take away from the house?
+*How many little discs did Anna take away from the little house?*
 
 ![[src_kangourou_2019_koala_preecolier__prob5.png]]
 
-> By attaching a triangle to a cardboard board and all the same discs, possibly broken in half, Mark created the image of a small house. To make fun of him, Anna took away some of the entire discs; the figure shows you what remains of Mark's work. How many discs did Anna take?
+> By gluing a triangle and some discs—all of them identical, and possibly split in half—onto a piece of cardboard, Marco created the image of a little house. To play a prank on him, Anna took away some of the whole discs; the diagram shows what remains of Marco's work. How many discs did Anna take away?
 >
 > (see figure)
 >
@@ -4488,6 +4444,12 @@ How many discs did Anna take away from the house?
 > - **(C)** 6
 > - **(D)** 5
 > - **(E)** 4
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q05|src_kangourou_2019_koala_preecolier__Q05]]
 
 
 
@@ -4519,11 +4481,11 @@ How many discs did Anna take away from the house?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many flowers is the bunch in the rectangle outside the triangle composed of*
+*How many flowers make up the bouquet in the rectangle outside the triangle?*
 
 ![[src_kangourou_2019_koala_preecolier__prob6.png]]
 
-> In order to form a flower bunch, Gaia must use all the flowers in the rectangle, but outside the triangle, and only those. How many flowers will Gaia's bunch be made of?
+> To make a bouquet of flowers, Gaia must use all the flowers that are inside the rectangle but outside the triangle, and only those flowers. How many flowers will Gaia's bouquet consist of?
 >
 > (see figure)
 >
@@ -4532,6 +4494,12 @@ How many discs did Anna take away from the house?
 > - **(C)** 19
 > - **(D)** 14
 > - **(E)** 13
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q06|src_kangourou_2019_koala_preecolier__Q06]]
 
 
 
@@ -4563,11 +4531,11 @@ How many discs did Anna take away from the house?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How much do the two together cost (sums given in pairs)*
+*How much do the two together cost (amounts given in pairs)?*
 
 ![[src_kangourou_2019_koala_preecolier__prob7.png]]
 
-> Two apples and a pear together cost six cents. Two pears and an apple together cost eight cents. How much does an apple and a pear cost together?
+> Two apples and one pear together cost 6 cents. Two pears and one apple together cost 8 cents. How many cents do one apple and one pear cost together?
 >
 > (see figure)
 >
@@ -4576,6 +4544,12 @@ How many discs did Anna take away from the house?
 > - **(C)** 7
 > - **(D)** 8
 > - **(E)** 9
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q07|src_kangourou_2019_koala_preecolier__Q07]]
 
 
 
@@ -4609,13 +4583,13 @@ How many discs did Anna take away from the house?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How packages will be aligned on the left-hand tape*
+*How will the parcels be aligned on the left conveyor belt?*
 
 ![[src_kangourou_2019_koala_preecolier__prob8.png]]
 
-> On the conveyor belt to the left of the figure, the packages are aligned. When the three tapes begin to move, the elf alternately distributes the packets on the right D tape and on the left S tape: the first pack goes on the right one, the second on the left one, the third on the right one, the fourth on the left one, and so on.
+> On the leftmost conveyor belt in the figure, parcels are lined up. When the three belts start moving, the elf distributes the parcels alternately onto the right-hand belt D and the left-hand belt S: the first parcel goes onto the right-hand belt, the second onto the left-hand belt, the third again onto the right-hand belt, the fourth onto the left-hand belt, and so on.
 >
-> When the distribution is over, all tapes will stop. Which of these figures shows you how the packages will be aligned on the left-hand tape?
+> Once distribution is complete, all the belts will stop. Which of these figures shows you how the packages will be aligned on the left-hand belt?
 >
 > (see figure)
 >
@@ -4624,6 +4598,12 @@ How many discs did Anna take away from the house?
 > - **(C)** [Figure C]
 > - **(D)** [Figure D]
 > - **(E)** [Figure E]
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q08|src_kangourou_2019_koala_preecolier__Q08]]
 
 
 
@@ -4655,19 +4635,25 @@ How many discs did Anna take away from the house?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which two doors to close to stop the mouse*
+*Which two doors should be closed to stop the mouse?*
 
 ![[src_kangourou_2019_koala_preecolier__prob9.png]]
 
-> If you want to keep the mouse from reaching the cheese, you just have to close two doors. Which ones?
+> If you want to prevent the mouse from reaching the cheese, all you have to do is close two doors. Which ones?
 >
 > (see figure)
 >
-> - **(A)** 1 and 2
-> - **(B)** 2 and 3
-> - **(C)** 3 and 4
-> - **(D)** 4 and 5
-> - **(E)** 3 and 5
+> - **(A)** 1 e 2
+> - **(B)** 2 e 3
+> - **(C)** 3 e 4
+> - **(D)** 4 e 5
+> - **(E)** 3 e 5
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q09|src_kangourou_2019_koala_preecolier__Q09]]
 
 
 
@@ -4699,11 +4685,11 @@ How many discs did Anna take away from the house?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pieces of paper after folding and cutting*
+*How many pieces of paper after folding and cutting?*
 
 ![[src_kangourou_2019_koala_preecolier__prob10.png]]
 
-> Patricia had a piece of paper. She folded it one time and then a second time along the dashed segments and finally cut it along the undashed segment: these three operations are suggested to you in the order from the figure. How many pieces of paper did she get?
+> Patrizia had a sheet of paper. She folded it once and then a second time along the dashed line segments, and finally cut it along the non-dashed line segment: the figure suggests these three operations to you in that order. In the end, how many pieces of paper did she get?
 >
 > (see figure)
 >
@@ -4712,6 +4698,12 @@ How many discs did Anna take away from the house?
 > - **(C)** 4
 > - **(D)** 5
 > - **(E)** 6
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q10|src_kangourou_2019_koala_preecolier__Q10]]
 
 
 
@@ -4743,11 +4735,11 @@ How many discs did Anna take away from the house?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In which order to remove the five overlapping sheets*
+*In what order should the five overlapping sheets be removed?*
 
 ![[src_kangourou_2019_koala_preecolier__prob11.png]]
 
-> Five square sheets of paper, of different color and number, are partially overlapped to form a single square, as shown in the figure. Sandra wants to pick them up one at a time, but to pick up a sheet, no other sheet must cover even a part of it. In what order must she take them?
+> Five square sheets of paper, each a different color and numbered, are partially superimposed to form a single square, as the figure shows you. Sandra wants to remove them one at a time, but in order to remove a sheet, none of the other sheets may cover even part of it. In what order must she remove them?
 >
 > (see figure)
 >
@@ -4756,6 +4748,12 @@ How many discs did Anna take away from the house?
 > - **(C)** 4-5-2-3-1
 > - **(D)** 5-3-2-1-4
 > - **(E)** 5-2-3-1-4
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q11|src_kangourou_2019_koala_preecolier__Q11]]
 
 
 
@@ -4788,11 +4786,11 @@ How many discs did Anna take away from the house?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many different routes for the cat to milk*
+*So many different paths for the cat to the milk*
 
 ![[src_kangourou_2019_koala_preecolier__prob12.png]]
 
-> The figure shows you a square floor of 9 tiles, a cat and a cup of milk occupying tiles placed at two opposite corners of the square. The cat can only move in the directions indicated by the arrows, that is, from left to right or from top to bottom, and if it wants to change direction, it can only do so when it is in the center of a tile. How many different routes allow it to reach the cup of milk?
+> The figure shows you a square floor made up of 9 tiles, a cat, and a cup of milk; the cat and the cup of milk occupy tiles located in two opposite corners of the square. The cat can move only in the directions indicated by the arrows—that is, from left to right or from top to bottom—and if it wants to change direction, it can do so only when it is in the center of a tile. How many different paths allow it to reach the cup of milk?
 >
 > (see figure)
 >
@@ -4801,6 +4799,13 @@ How many discs did Anna take away from the house?
 > - **(C)** 4
 > - **(D)** 5
 > - **(E)** 6
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q12|src_kangourou_2019_koala_preecolier__Q12]]
 
 
 
@@ -4826,13 +4831,19 @@ How many discs did Anna take away from the house?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What Aldo sees from the interwoven strips (opposite view)*
+*What does Aldo see from the interwoven strips (opposite view)?*
 
 ![[src_kangourou_2019_koala_preecolier__prob13.png]]
 
-> Four strips of paper are interwoven and glued onto a transparent glass; Silvia and Aldo observe them from opposite sides of the glass. The figure shows you what Silvia sees. What does Aldo see?
-> 
+> Four strips of paper are braided and glued onto a sheet of transparent glass; Silvia and Aldo are observing them from opposite sides of the glass. The figure shows you what Silvia sees. What does Aldo see?
+>
 > (see figure)
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q13|src_kangourou_2019_koala_preecolier__Q13]]
 
 
 
@@ -4858,13 +4869,19 @@ How many discs did Anna take away from the house?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which solid of four cubes requires less paint*
+*Which solid made of four cubes requires the least paint?*
 
 ![[src_kangourou_2019_koala_preecolier__prob14.png]]
 
-> Corrado wants to glue four equal cubes together and then paint the solid he composed, but the little paint he has is enough for only one of the five solids he could compose. Which one?
-> 
+> Corrado wants to glue four identical cubes together and then paint the solid he has assembled, but the little paint he has is enough for only one of the five solids he could assemble. Which one?
+>
 > (see figure)
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q14|src_kangourou_2019_koala_preecolier__Q14]]
 
 
 
@@ -4896,11 +4913,11 @@ How many discs did Anna take away from the house?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the long side of the sheet floor*
+*Length of the long side of the slab floor*
 
 ![[src_kangourou_2019_koala_preecolier__prob15.png]]
 
-> The figure shows you a rectangular floor obtained by attaching some rectangular plates, all of them equal to each other. The shortest side of each plate is one meter long. How long is the longest side of the floor?
+> The figure shows you a rectangular floor formed by placing several rectangular slabs, all of which are identical to one another, side by side. The shorter side of each slab is one metre long. How many metres long is the longer side of the floor?
 >
 > (see figure)
 >
@@ -4909,6 +4926,12 @@ How many discs did Anna take away from the house?
 > - **(C)** 10
 > - **(D)** 11
 > - **(E)** 12
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q15|src_kangourou_2019_koala_preecolier__Q15]]
 
 
 
@@ -4940,11 +4963,11 @@ How many discs did Anna take away from the house?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many hours since the third stop in Aroo (total 17 hours)*
+*How many hours from the third stop to Aroo (total 17 hours)?*
 
 ![[src_kangourou_2019_koala_preecolier__prob16.png]]
 
-> A train left Kang at exactly 6 in the morning, heading to Aroo (a place very far from Kang) where it arrived at 11 p.m. During the journey it made three intermediate stops: the numbers you see in the figure indicate, in order, the travel times between Kang and the first stop, those between the first stop and the second, those between the second and the third. How many hours did it take to get from the third stop to Aroo?
+> A train departed from Kang at exactly 6 a.m., heading for Aroo (a place very far from Kang), and arrived there at 11 p.m. Along the way, it made three intermediate stops: the numbers you see in the figure indicate, in order, the travel times between Kang and the first stop, between the first stop and the second stop, and between the second stop and the third stop. How many hours did it take to get from the third stop to Aroo?
 >
 > (see figure)
 >
@@ -4953,6 +4976,12 @@ How many discs did Anna take away from the house?
 > - **(C)** 4
 > - **(D)** 5
 > - **(E)** 6
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q16|src_kangourou_2019_koala_preecolier__Q16]]
 
 
 
@@ -4982,17 +5011,23 @@ How many discs did Anna take away from the house?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many animals in all (cows and sheep, 8 sheep remaining)*
+*How many animals in total (cows and sheep, 8 sheep remaining)?*
 
 ![[src_kangourou_2019_koala_preecolier__prob17.png]]
 
-> On a farm there are only sheep and cows. The farmer milks one cow and one sheep at a time: by doing so, when all the cows are milked, there remain 8 sheep to be milked. The total number of sheep is twice that of the cows. How many animals are there in all on the farm?
+> On a farm, there are only sheep and cows. The farmer milks one cow and one sheep at a time together: in this way, once all the cows have been milked, 8 sheep still need to be milked. The total number of sheep is twice the number of cows. How many animals are there in total on the farm?
 >
 > - **(A)** 16
 > - **(B)** 18
 > - **(C)** 20
 > - **(D)** 24
 > - **(E)** 28
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q17|src_kangourou_2019_koala_preecolier__Q17]]
 
 
 
@@ -5026,21 +5061,27 @@ How many discs did Anna take away from the house?
 <div class="qlang-split" data-lang="en"></div>
 
 
-What figure did Mauro cut into three pieces?
+*What shape did Mauro cut into the three pieces?*
 
 ![[src_kangourou_2019_koala_preecolier__prob18.png]]
 
-> By cutting a figure, Mauro got the three pieces you see.
+> By cutting a shape, Mauro obtained the three pieces you see.
 >
 > (see figure)
 >
-> Which of the following is the figure that Mauro cut?
+> Which of the following is the shape Mauro cut?
 >
 > - **(A)** cloud
 > - **(B)** circle
 > - **(C)** U-shape
 > - **(D)** rectangle
 > - **(E)** heart
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q18|src_kangourou_2019_koala_preecolier__Q18]]
 
 
 
@@ -5074,13 +5115,19 @@ What figure did Mauro cut into three pieces?
 
 ![[src_kangourou_2019_koala_preecolier__prob19.png]]
 
-> At the zoo there are some two-humped camels and some one-humped dromedaries, 10 animals in all. Altogether there are 14 humps. How many dromedaries are there?
+> In the zoo, there are some two-humped camels and some one-humped dromedaries—10 animals in total. In all, there are 14 humps. How many dromedaries are there?
 >
 > - **(A)** 2
 > - **(B)** 3
 > - **(C)** 4
 > - **(D)** 6
 > - **(E)** 7
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q19|src_kangourou_2019_koala_preecolier__Q19]]
 
 
 
@@ -5110,17 +5157,23 @@ What figure did Mauro cut into three pieces?
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
+*How many nuts does the squirrel with the most nuts have? (7 nuts, 3 different ones)*
 
 ![[src_kangourou_2019_koala_preecolier__prob20.png]]
 
-> Three squirrels together found seven nuts. Each found a different number of nuts than the others, and they all found at least one. How many nuts did the squirrel that found the most find?
+> Three squirrels together found 7 nuts. Each found a different number of nuts from each of the others, and all of them found at least one nut. How many nuts did the squirrel that found the most nuts find?
 >
 > - **(A)** 2
 > - **(B)** 3
 > - **(C)** 4
 > - **(D)** 5
 > - **(E)** 6
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q20|src_kangourou_2019_koala_preecolier__Q20]]
 
 
 
@@ -5152,11 +5205,11 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How high is the pile of sand (flag pole)*
+*How high is the sand pile (flagpole)?*
 
 ![[src_kangourou_2019_koala_preecolier__prob21.png]]
 
-> While playing on the beach, Tim and Tom formed a pile of sand and planted a flag on top of it. Exactly half the flag's pole is stuck in the sand; from the top of the pole to the base of the sand pile there are 80 centimeters, from the base of the pole to the base of the pile there are 20 centimeters. How high is the pile of sand?
+> While playing on the beach, Tim and Tom made a sand pile and planted a flag on its top. Exactly half of the flagpole is stuck in the sand; the distance from the top of the pole to the base of the sand pile is 80 centimeters, and the distance from the base of the pole to the base of the pile is 20 centimeters. How tall is the sand pile?
 >
 > (see figure)
 >
@@ -5165,6 +5218,12 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 > - **(C)** 50 cm
 > - **(D)** 55 cm
 > - **(E)** 60 cm
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q21|src_kangourou_2019_koala_preecolier__Q21]]
 
 
 
@@ -5194,17 +5253,23 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which strip left Gino (color changes)*
+*Which strip did Gino leave (color substitutions)?*
 
 ![[src_kangourou_2019_koala_preecolier__prob22.png]]
 
-> Here you see a strip divided into nine squares.
-> 
+> Here you see a strip divided into nine small squares.
+>
 > (see figure)
-> 
-> Henry came in and replaced every black square with a white square. Then Fabio arrived and, in the strip left by Henry, replaced each gray square with a black square. Finally Gino arrived and, in the strip left by Fabio, replaced each white square with a gray square. What's the strip left by Gino?
-> 
+>
+> Enrico arrived and replaced each black square with a white square. Then Fabio arrived and, in the strip left by Enrico, replaced each grey square with a black square. Finally, Gino arrived and, in the strip left by Fabio, replaced each white square with a grey square. Which strip did Gino leave behind?
+>
 > (see figure)
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q22|src_kangourou_2019_koala_preecolier__Q22]]
 
 
 
@@ -5239,7 +5304,7 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What number to indicate for sure (square sum >63)*
+*Which number should be given to be sure (sum of squares >63)?*
 
 ![[src_kangourou_2019_koala_preecolier__prob23.png]]
 
@@ -5247,13 +5312,20 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 >
 > $$\begin{array}{|c|c|c|c|c|}\hline 1 & 2 & 3 & 4 & 5 \\ \hline 6 & 7 & 8 & 9 & 10 \\ \hline 11 & 12 & 13 & 14 & 15 \\ \hline 16 & 17 & 18 & 19 & 20 \\ \hline \end{array}$$
 >
-> Peter carved out a square of four cells, summed up the four numbers that appear in these four cells, and told you that he got a number larger than 63. Then he told you that at least one of the following five numbers appears in the square that he carved and asked you to guess. Which of these five numbers do you have to indicate if you want to make sure you're not wrong?
+> Pietro has cut out a square consisting of four cells, added the four numbers that appear in these four cells, and told you that he obtained a number greater than 63. Then he told you that at least one of the following five numbers appears in the square he cut out, and asked you to guess it. Which of these five numbers must you indicate if you want to be sure you won't get it wrong?
 >
 > - **(A)** 8
 > - **(B)** 10
 > - **(C)** 14
 > - **(D)** 15
 > - **(E)** 18
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q23|src_kangourou_2019_koala_preecolier__Q23]]
 
 
 
@@ -5288,18 +5360,25 @@ How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of tokens after three exchanges (token changing machine)*
+*Minimum number of tokens after three exchanges (token-exchange machine)*
 
 ![[src_kangourou_2019_koala_preecolier__prob24.png]]
 
-> A strange token-switching machine gives you three white tokens if you insert one red, gives you two red tokens if you insert one white.
+> A strange token-exchange machine gives you three white tokens if you insert a red one, and gives you two red tokens if you insert a white one.
 >
 > (see figure)
 >
-> At the beginning of the game, you have three red and one white tokens. After you've played three times, placing one token at a time, what is the minimum number of chips, between white and red, that you can find yourself having?
+> At the beginning of the game, you have three red tokens and one white token at your disposal. After playing three times, inserting one token at a time, what is the minimum possible number of tokens—both white and red—that you could end up with?
 >
 > - **(A)** 7
 > - **(B)** 6
 > - **(C)** 8
 > - **(D)** 5
 > - **(E)** 9
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_koala_preecolier#q24|src_kangourou_2019_koala_preecolier__Q24]]

@@ -30,11 +30,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quante volte appare la cifra 9 in 10^100 meno 2003*
+*Si chiede quante volte una cifra compare nel risultato di una potenza meno 2003*
 
-> Quante volte appare la cifra $9$ nel risultato dell'operazione $10^{100} - 2003$?
+> Quante volte compare la cifra $9$ nel risultato dell'operazione $10^{100} - 2003$?
 
 **Risposta:** 98
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_obm_2003_n1_f2#q01|src_obm_2003_n1_f2__Q01]]
 
 
 
@@ -58,11 +66,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi inferiori a 2003^2 e 2004^2 che sono multipli di 100*
+*Si contano i multipli di 100 strettamente compresi tra due quadrati consecutivi*
 
-> Quanti integri positivi superiori a $2003^2$ e inferiori a $2004^2$ sono multipli di $100$?
+> Quanti interi positivi maggiori di $2003^2$ e minori di $2004^2$ sono multipli di $100$?
 
 **Risposta:** 40
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_conteggio|Conteggio]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n1_f2#q02|src_obm_2003_n1_f2__Q02]]
 
 
 
@@ -88,13 +104,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triangoli formati da segmenti in una figura*
+*Si contano i triangoli i cui lati stanno su segmenti già tracciati*
 
-> Quanti triangoli ci sono i cui lati si trovano su alcuni dei segmenti disegnati nella figura laterale?
+> Quanti triangoli hanno i lati su qualcuno dei segmenti disegnati nella figura a lato?
 
 ![[src_obm_2003_n1_f2__q03.png]]
 
 **Risposta:** 17
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_obm_2003_n1_f2#q03|src_obm_2003_n1_f2__Q03]]
 
 
 
@@ -120,13 +144,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'allievo nota X su un orologio digitale che mostra 7 ogni minuto; trova la metà dei voti totali*
+*Ogni minuto si segna una X per ogni cifra 7 sul display: si chiede la metà del totale*
 
-> Uno studente con molto tempo libero e curiosità decise di fare il seguente: ogni minuto, quando cambiava l'ora sul suo orologio digitale, segnava un $X$ nel suo quaderno per ogni cifra $7$ che appareva sul display. Quindi, se il suo orologio mostrava $\mathbf{02{:}07}$ ha segnato $X$, e quando mostrava $\mathbf{07{:}17}$ ha segnato $XX$. Ha iniziato a farlo quando l'orologio mostrava $\mathbf{01{:}00}$ e si è fermato quasi dodici ore dopo, quando l'orologio mostrava $\mathbf{12{:}59}$. Calcola la metà del numero di $X$ che ha segnato nel suo quaderno.
+> Uno studente con molto tempo libero e molta curiosità decise di fare così: ogni minuto, al cambio dell'ora sul suo orologio digitale, segnava una $X$ sul quaderno per ogni cifra $7$ che compariva sul display. Se l'orologio mostrava $\mathbf{02{:}07}$ segnava $X$, e quando mostrava $\mathbf{07{:}17}$ segnava $XX$. Cominciò quando l'orologio mostrava $\mathbf{01{:}00}$ e smise quasi dodici ore dopo, quando mostrava $\mathbf{12{:}59}$. Calcolare la metà del numero di $X$ che ha segnato sul quaderno.
 
 ![[src_obm_2003_n1_f2__q04.png]]
 
 **Risposta:** 66
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n1_f2#q04|src_obm_2003_n1_f2__Q04]]
 
 
 
@@ -152,13 +184,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rota di traghetto con 25 cabine; quante cabine totali*
+*Se la cabina 25 è in basso e la 8 è in alto, quante cabine ha la ruota*
 
-> La grande attrazione di OBM Park è una gigantesca ruota di Ferris (la figura mostra una gigantesca ruota di Ferris, ma con un numero minore di cabine). Le cabine sono numerate $1, 2, 3, \ldots$ in ordine orario. Quando la cabina $25$ si trova nella posizione più bassa della ruota del Ferris, la cabina $8$ si trova nella posizione più alta. Quante cabine ha la ruota del Ferris?
+> La grande attrazione del parco dell'OBM è una ruota panoramica gigante (la figura ne mostra una, ma con meno cabine). Le cabine sono numerate $1, 2, 3, \ldots$ in senso orario. Quando la cabina $25$ è nel punto più basso della ruota, la cabina $8$ è nel punto più alto. Quante cabine ha la ruota?
 
 ![[src_obm_2003_n1_f2__q05.png]]
 
 **Risposta:** 34
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n1_f2#q05|src_obm_2003_n1_f2__Q05]]
 
 
 
@@ -182,11 +222,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare gli anni biscotti dal 1889 ad oggi*
+*Anni bisestili dalla proclamazione della Repubblica del Brasile fino al 2003*
 
-> Gli anni bisesti sono multipli di $4$, ad eccezione di quelli che sono multipli di $100$ ma non di $400$. Quanti anni a salto sono passati dalla Proclamazione della Repubblica del Brasile in $1889$ fino ad oggi (2003)?
+> Gli anni bisestili sono i multipli di $4$, tranne quelli multipli di $100$ ma non di $400$. Quanti anni bisestili ci sono stati dalla proclamazione della Repubblica del Brasile, nel $1889$, fino a oggi (2003)?
 
 **Risposta:** 27
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n1_f2#q06|src_obm_2003_n1_f2__Q06]]
 
 
 
@@ -212,13 +260,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Torre di dice: ridurre al minimo la somma dei punti visibili del viso*
+*Su un dado le facce opposte sommano a 7: minimo dei pallini esposti su una torre di quattro dadi*
 
-> Su un dado standard la somma dei punti su facce opposte è sempre $7$. Beatriz costruì una torre con $4$ dadi identici, incollare le facce insieme come mostrato nella figura. Qual è il numero minimo di punti che Beatriz può ottenere sommando tutti i punti sulle facce esposte della torre?
+> Su un dado ordinario la somma dei pallini di due facce opposte è sempre $7$. Beatriz ha costruito una torre con $4$ dadi identici, incollando le facce come in figura. Qual è il minimo numero di pallini che Beatriz può ottenere sommando tutti i pallini sulle facce esposte della torre?
 
 ![[src_obm_2003_n1_f2__q07.png]]
 
 **Risposta:** 58
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+
+[[Quesiti/src_obm_2003_n1_f2#q07|src_obm_2003_n1_f2__Q07]]
 
 
 
@@ -244,11 +300,27 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Multiplicazione 45 per a3 = 3bcd; trovare b+c+d*
+*In una moltiplicazione con cifre incognite si chiede b+c+d*
 
-> Nella seguente moltiplicazione, $a$, $b$, $c$ e $d$ sono cifre: $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$ Calcolare $b + c + d$.
+> Nella moltiplicazione seguente, $a$, $b$, $c$ e $d$ sono cifre:
+>
+>
+>
+$$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
+>
+>
+>
+> Calcolare $b + c + d$.
 
 **Risposta:** 15
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n1_f2#q08|src_obm_2003_n1_f2__Q08]]
 
 
 
@@ -272,11 +344,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque diversi interi positivi con media 11; massimizzare il più grande*
+*Cinque interi positivi distinti hanno media 11: quanto può valere, al massimo, il più grande*
 
-> La media di cinque diversi interi positivi è $11$. Determinare il valore massimo possibile del più grande dei cinque integri.
+> La media di cinque interi positivi distinti è $11$. Determinare il massimo valore possibile del più grande dei cinque.
 
 **Risposta:** 45
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_estremalita|Estremalità]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_obm_2003_n1_f2#q09|src_obm_2003_n1_f2__Q09]]
 
 
 
@@ -302,13 +382,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piezzi di domino parzialmente coperti di carta; trovare punti nascosti totale*
+*Nove tessere di domino si toccano a pallini uguali: quanti pallini copre il foglio*
 
-> Sono posti su un tavolo nove pezzi diversi di domino, parzialmente coperti da un pezzo di carta. I dominosi si toccano in modo che il punto $1$ sia adiacente al punto $1$, i punti $2$ siano adiacenti ai punti $2$, ecc. Qual è il numero totale di punti nascosti dalla carta?
+> Nove tessere di domino diverse sono sul tavolo, in parte coperte da un foglio. Si toccano in modo che $1$ pallino sia adiacente a $1$ pallino, $2$ pallini siano adiacenti a $2$ pallini, e così via. Qual è il numero totale di pallini nascosti dal foglio?
 
 ![[src_obm_2003_n1_f2__q10.png]]
 
 **Risposta:** 22
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti]]
+
+**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_obm_2003_n1_f2#q10|src_obm_2003_n1_f2__Q10]]
 
 
 
@@ -331,9 +419,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Interi positivi inferiori a 120 espressi come somma di due o più potenze distinte di 3*
+*Si cercano le somme di almeno due potenze di 3 con esponenti distinti, sotto 120*
 
-> Quali integri positivi inferiori a $120$ possono essere scritti come somma di due o più potenze distinte di $3$ con esponenti non negativi? Ad esempio, $12 = 3^1 + 3^2$ è uno di tali numeri, ma $18 = 3^1 + 3^2 + 3^1$ non lo è (l'esponente $1$ viene ripetuto). Trova tutti questi numeri.
+> Quali interi positivi minori di $120$ si possono scrivere come somma di due o più potenze distinte di $3$ con esponenti interi non negativi? Per esempio $12 = 3^1 + 3^2$ è uno di questi numeri, mentre $18 = 3^1 + 3^2 + 3^1$ non lo è (l'esponente $1$ è ripetuto). Trovare tutti questi numeri.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n1_f2#q11|src_obm_2003_n1_f2__Q11]]
 
 
 
@@ -359,13 +455,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due quadrati ABCD e FHIJ condividono una linea laterale; trovare superficie di quadrato BEFG*
+*Due quadrati di area nota hanno cinque vertici allineati: area del terzo quadrato*
 
-> Nella figura, il quadrato $ABCD$ ha superficie $64\text{ cm}^2$ e il quadrato $FHIJ$ ha superficie $36\text{ cm}^2$. I vertici $A$, $D$, $E$, $H$ e $I$ si trovano sulla stessa linea retta. Calcolare la superficie del quadrato $BEFG$.
+> Nella figura il quadrato $ABCD$ ha area $64\text{ cm}^2$ e il quadrato $FHIJ$ ha area $36\text{ cm}^2$. I vertici $A$, $D$, $E$, $H$ e $I$ stanno sulla stessa retta. Calcolare l'area del quadrato $BEFG$.
 
 ![[src_obm_2003_n1_f2__q12.png]]
 
 **Risposta:** 100
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_coordinate|Coordinate]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n1_f2#q12|src_obm_2003_n1_f2__Q12]]
 
 
 
@@ -388,6 +492,14 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i numeri potenti inferiori a 100*
+*Si definisce potente un intero il cui prodotto dei divisori diversi da sé è il suo quadrato: trovarli sotto 100*
 
-> Considera il prodotto di tutti i divisori positivi di un intero positivo $N$, diverso da $N$ stesso. Diciamo $N$ è \emph{potente} se il prodotto di questi divisori è uguale al quadrato di $N$. Ad esempio, $12$ è potente, poiché i suoi divisori positivi diversi da $12$ sono $1, 2, 3, 4, 6$ e $1 \cdot 2 \cdot 3 \cdot 4 \cdot 6 = 144 = 12^2$. Trova tutti i numeri potenti inferiori a $100$.
+> Si consideri il prodotto di tutti i divisori positivi di un intero positivo $N$, diversi da $N$ stesso. Si dice che $N$ è potente se il prodotto di questi divisori è uguale al quadrato di $N$. Per esempio $12$ è potente, perché i suoi divisori positivi diversi da $12$ sono $1, 2, 3, 4, 6$ e $1 \cdot 2 \cdot 3 \cdot 4 \cdot 6 = 144 = 12^2$. Trovare tutti i numeri potenti minori di $100$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_obm_2003_n1_f2#q13|src_obm_2003_n1_f2__Q13]]

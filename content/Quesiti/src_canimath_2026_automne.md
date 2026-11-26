@@ -26,8 +26,8 @@ level: Coupe Animath Automne
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=3)
-**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=3) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.3
+**Fonte:** apri PDF p.3 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -42,6 +42,8 @@ level: Coupe Animath Automne
 > *Qui è richiesta solo la risposta numerica semplificata.*
 
 **Risposta:** 7
+
+[[Quesiti/src_canimath_2026_automne#q01|src_canimath_2026_automne__Q01]]
 
 
 
@@ -59,8 +61,8 @@ level: Coupe Animath Automne
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** $90^\circ$
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=4)
-**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=3) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.4
+**Fonte:** apri PDF p.3 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -73,6 +75,8 @@ level: Coupe Animath Automne
 > Quanto misura l'angolo $\widehat{DEF}$?
 
 **Risposta:** $90^\circ$
+
+[[Quesiti/src_canimath_2026_automne#q02|src_canimath_2026_automne__Q02]]
 
 
 
@@ -90,8 +94,8 @@ level: Coupe Animath Automne
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $n=7$
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.6](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=6)
-**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=3) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.6
+**Fonte:** apri PDF p.3 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -104,6 +108,8 @@ level: Coupe Animath Automne
 > Qual è il più piccolo valore di $n$ per cui ciò è possibile?
 
 **Risposta:** $n=7$
+
+[[Quesiti/src_canimath_2026_automne#q03|src_canimath_2026_automne__Q03]]
 
 
 
@@ -119,8 +125,8 @@ level: Coupe Animath Automne
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(a,b,c)=(0,1,1),\ (1,0,1),\ (1,1,0)$
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.8](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=8)
-**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=3) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.8
+**Fonte:** apri PDF p.3 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -131,6 +137,8 @@ level: Coupe Animath Automne
 > Determinare tutti gli interi $a,b,c$ positivi o nulli per cui i numeri $a^2+a+b+c$, $b^2+a+b+c$ e $c^2+a+b+c$ sono tutti e tre numeri primi.
 
 **Risposta:** $(a,b,c)=(0,1,1),\ (1,0,1),\ (1,1,0)$
+
+[[Quesiti/src_canimath_2026_automne#q04|src_canimath_2026_automne__Q04]]
 
 
 
@@ -148,8 +156,8 @@ level: Coupe Animath Automne
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** proof — official solution in the corrigé
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.9](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=9)
-**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=3) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.9
+**Fonte:** apri PDF p.3 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -162,6 +170,8 @@ level: Coupe Animath Automne
 > Dimostrare che le rette $(EM)$ e $(AC)$ sono parallele.
 
 **Risposta:** dimostrazione — soluzione ufficiale nel corrigé
+
+[[Quesiti/src_canimath_2026_automne#q05|src_canimath_2026_automne__Q05]]
 
 
 
@@ -179,8 +189,8 @@ level: Coupe Animath Automne
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** only $a=b=c=2$
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.10](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=10)
-**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=3) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.10
+**Fonte:** apri PDF p.3 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -193,6 +203,8 @@ level: Coupe Animath Automne
 > Determinare i numeri reali $a,b,c$ per cui ciò è possibile.
 
 **Risposta:** solo $a=b=c=2$
+
+[[Quesiti/src_canimath_2026_automne#q06|src_canimath_2026_automne__Q06]]
 
 
 
@@ -210,8 +222,8 @@ level: Coupe Animath Automne
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 120
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.12](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=12)
-**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=3) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.12
+**Fonte:** apri PDF p.3 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -224,6 +236,8 @@ level: Coupe Animath Automne
 > Qual è il numero minimo di mosse necessarie a Raphaël per arrivare a una situazione in cui c'è una pietra bianca su ogni casella della riga in alto e una pietra nera su ogni casella della riga in basso?
 
 **Risposta:** 120
+
+[[Quesiti/src_canimath_2026_automne#q07|src_canimath_2026_automne__Q07]]
 
 
 
@@ -243,8 +257,8 @@ level: Coupe Animath Automne
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.14](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=14)
-**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=4) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.14
+**Fonte:** apri PDF p.4 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -259,6 +273,8 @@ level: Coupe Animath Automne
 > *Qui è richiesta solo la risposta numerica semplificata.*
 
 **Risposta:** 5
+
+[[Quesiti/src_canimath_2026_automne#q08|src_canimath_2026_automne__Q08]]
 
 
 
@@ -276,8 +292,8 @@ level: Coupe Animath Automne
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $n=7$
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.15](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=15)
-**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=4) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.15
+**Fonte:** apri PDF p.4 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -290,6 +306,8 @@ level: Coupe Animath Automne
 > Qual è il più piccolo valore di $n$ per cui ciò è possibile?
 
 **Risposta:** $n=7$
+
+[[Quesiti/src_canimath_2026_automne#q09|src_canimath_2026_automne__Q09]]
 
 
 
@@ -305,8 +323,8 @@ level: Coupe Animath Automne
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(a,b,c)=(0,1,1),\ (1,0,1),\ (1,1,0)$
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.17](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=17)
-**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=4) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.17
+**Fonte:** apri PDF p.4 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -317,6 +335,8 @@ level: Coupe Animath Automne
 > Determinare tutti gli interi $a,b,c$ positivi o nulli per cui i numeri $a^2+a+b+c$, $b^2+a+b+c$ e $c^2+a+b+c$ sono tutti e tre numeri primi.
 
 **Risposta:** $(a,b,c)=(0,1,1),\ (1,0,1),\ (1,1,0)$
+
+[[Quesiti/src_canimath_2026_automne#q10|src_canimath_2026_automne__Q10]]
 
 
 
@@ -334,8 +354,8 @@ level: Coupe Animath Automne
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** $\frac14$
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.18](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=18)
-**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=4) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.18
+**Fonte:** apri PDF p.4 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -348,6 +368,8 @@ level: Coupe Animath Automne
 > Determinare l'area del quadrilatero $ABCD$.
 
 **Risposta:** $\frac14$
+
+[[Quesiti/src_canimath_2026_automne#q11|src_canimath_2026_automne__Q11]]
 
 
 
@@ -365,8 +387,8 @@ level: Coupe Animath Automne
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $k=7$
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.19](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=19)
-**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=4) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.19
+**Fonte:** apri PDF p.4 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -379,6 +401,8 @@ level: Coupe Animath Automne
 > Qual è il valore minimo di $k$ per cui Théo può organizzare il suo viaggio in bicicletta?
 
 **Risposta:** $k=7$
+
+[[Quesiti/src_canimath_2026_automne#q12|src_canimath_2026_automne__Q12]]
 
 
 
@@ -394,8 +418,8 @@ level: Coupe Animath Automne
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $n=4$ and $n=100$
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.20](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=20)
-**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=4) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.20
+**Fonte:** apri PDF p.4 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -406,6 +430,8 @@ level: Coupe Animath Automne
 > Determinare tutti gli interi strettamente positivi $n$ tali che $\dfrac{\sqrt n}{2}+\dfrac{10}{\sqrt n}$ sia un numero intero.
 
 **Risposta:** $n=4$ e $n=100$
+
+[[Quesiti/src_canimath_2026_automne#q13|src_canimath_2026_automne__Q13]]
 
 
 
@@ -425,8 +451,8 @@ level: Coupe Animath Automne
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** proof — official solution in the corrigé
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.22](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=22)
-**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=4) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.22
+**Fonte:** apri PDF p.4 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -441,6 +467,8 @@ level: Coupe Animath Automne
 > Dimostrare che Antoine può cerchiare due di queste frazioni, indicate con $a$ e $b$, tali che $|a-b|\leqslant\dfrac1{\sqrt{30}}$.
 
 **Risposta:** dimostrazione — soluzione ufficiale nel corrigé
+
+[[Quesiti/src_canimath_2026_automne#q14|src_canimath_2026_automne__Q14]]
 
 
 
@@ -458,8 +486,8 @@ level: Coupe Animath Automne
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** proof — official solution in the corrigé
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.23](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=23)
-**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=4) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.23
+**Fonte:** apri PDF p.4 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -472,3 +500,5 @@ level: Coupe Animath Automne
 > Dimostrare che $\widehat{AOG}=90^\circ$.
 
 **Risposta:** dimostrazione — soluzione ufficiale nel corrigé
+
+[[Quesiti/src_canimath_2026_automne#q15|src_canimath_2026_automne__Q15]]

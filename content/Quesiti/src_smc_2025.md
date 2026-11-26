@@ -35,9 +35,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più grande cubo perfetto al massimo 100 costruito da 100 piccoli cubetti; quanti sono rimasti.*
+*Il cubo perfetto più grande non superiore a 100, costruito con 100 cubetti piccoli: quanti ne rimangono?*
 
-> Pablo ha 100 piccoli cubetti identici. Usa alcuni di loro per costruire il più grande cubo solido possibile. Quanti dei piccoli cubetti sono rimasti?
+> Pablo ha 100 cubetti identici. Ne usa alcuni per costruire il cubo solido più grande possibile. Quanti cubetti rimangono?
 >
 > - **(A)** 16
 > - **(B)** 27
@@ -45,7 +45,11 @@ level: Senior Mathematical Challenge
 > - **(D)** 73
 > - **(E)** 92
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2025#q01|src_smc_2025__Q01]]
 
 
 
@@ -76,19 +80,23 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fraczione di triangolo equilaterale ombrato quando diviso in nove triangoli più piccoli con due linee aggiuntive.*
+*Frazione dell'area del triangolo equilatero che risulta ombreggiata quando il triangolo viene diviso in nove triangoli più piccoli mediante due linee aggiuntive.*
 
-> Il diagramma mostra un triangolo equilaterale diviso in nove triangoli equilaterali più piccoli, con due linee aggiuntive. Quale frazione del grande triangolo è ombrata?
+> Il diagramma mostra un triangolo equilatero suddiviso in nove triangoli equilateri più piccoli, con due linee aggiuntive. Che frazione del triangolo grande è ombreggiata?
 >
-> - **(A)** - Sì, certo.
-> - **(B)** - Sì, signore.
-> - **(C)** - Sì, certo.
-> - **(D)** - Sì, certo.
-> - **(E)** - Sì, certo.
+> - **(A)** \frac{1}{3}
+> - **(B)** \frac{1}{4}
+> - **(C)** \frac{2}{9}
+> - **(D)** \frac{3}{9}
+> - **(E)** \frac{4}{9}
 
 ![[src_smc_2025__q02.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2025#q02|src_smc_2025__Q02]]
 
 
 
@@ -118,9 +126,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare 25^2 - 24^2 - 23^2 + 22^2 utilizzando la differenza di fattorizzazione dei quadrati.*
+*Valuta 25^2 - 24^2 - 23^2 + 22^2 utilizzando la fattorizzazione per differenza di quadrati.*
 
-> Che cos' è $25^2 - 24^2 - 23^2 + 22^2$?
+> Che cos'è $25^2 - 24^2 - 23^2 + 22^2$?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -128,7 +136,12 @@ level: Senior Mathematical Challenge
 > - **(D)** 3
 > - **(E)** 4
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2025#q03|src_smc_2025__Q03]]
 
 
 
@@ -158,9 +171,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre numeri a 2 cifre: un primo, un quadrato perfetto, uno pari; si sommano a 46; trovare il numero pari.*
+*Tre numeri di due cifre: uno primo, uno quadrato perfetto, uno pari; la loro somma è 46; trova il numero pari.*
 
-> Sonia scrive tre numeri a due cifre. Il primo numero è primo, il secondo è un quadrato perfetto e il terzo è pari. La somma dei tre numeri è 46. Qual è il numero pari?
+> Sonia scrive tre numeri di due cifre. Il primo numero è primo, il secondo è un quadrato perfetto e il terzo è pari. La somma dei tre numeri è 46. Qual è il numero pari?
 >
 > - **(A)** 10
 > - **(B)** 12
@@ -168,7 +181,12 @@ level: Senior Mathematical Challenge
 > - **(D)** 16
 > - **(E)** 18
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2025#q04|src_smc_2025__Q04]]
 
 
 
@@ -199,9 +217,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre cerchi di raggio 1, 2, 3 mostrati in un diagramma; trovare il rapporto tra superficie ombrata e superficie del cerchio più grande.*
+*Tre cerchi di raggi 1, 2 e 3 sono mostrati in un diagramma; determinare il rapporto tra l'area ombreggiata e l'area del cerchio più grande.*
 
-> Il diagramma mostra tre cerchi con radii 1, 2 e 3. Qual è il rapporto tra l'area ombrata e l'area del cerchio più grande?
+> Il diagramma mostra tre cerchi con raggi pari a 1, 2 e 3. Qual è il rapporto tra l'area ombreggiata e l'area del cerchio più grande?
 >
 > - **(A)** 1:3
 > - **(B)** 1:2
@@ -211,7 +229,11 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2025__q05.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2025#q05|src_smc_2025__Q05]]
 
 
 
@@ -241,9 +263,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova x che soddisfa l'equazione di radice quadrata incastonata sqrt(sqrt(sqrt(x) +1) +1) +1 = 3.*
+*Trovare x che soddisfi l'equazione con radice quadrata annidata sqrt(sqrt(sqrt(x)+1)+1)+1 = 3.*
 
-> Per quale valore di $x$ è $\sqrt{\sqrt{\sqrt{x}+1}+1}+1 = 3$?
+> Per quale valore di $x$ vale $\sqrt{\sqrt{\sqrt{x}+1}+1}+1 = 3$?
 >
 > - **(A)** 4096
 > - **(B)** 64
@@ -251,7 +273,12 @@ level: Senior Mathematical Challenge
 > - **(D)** 3
 > - **(E)** 0
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2025#q06|src_smc_2025__Q06]]
 
 
 
@@ -281,9 +308,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*1000° termine della sequenza di numeri dispari con moltipli di 3 rimossi.*
+*Il 1000º termine della successione dei numeri dispari da cui sono stati rimossi i multipli di 3.*
 
-> Qual è il 1000° termine della sequenza $1, 5, 7, 11, 13, 17, 19, 23, \ldots$ i cui termini sono numeri dispari consecutivi ma con tutti i multipli di 3 rimossi?
+> Qual è il 1000º termine della successione $1, 5, 7, 11, 13, 17, 19, 23, \ldots$ i cui termini sono numeri dispari consecutivi, ma da cui sono stati rimossi tutti i multipli di 3?
 >
 > - **(A)** 201
 > - **(B)** 203
@@ -291,7 +318,12 @@ level: Senior Mathematical Challenge
 > - **(D)** 299
 > - **(E)** 301
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2025#q07|src_smc_2025__Q07]]
 
 
 
@@ -322,19 +354,23 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di forma formata da tre archi di cerchi di raggio 1; P è il centro dell'arco BQ e Q è il centro dell'arco PR.*
+*Area della figura formata da tre archi di cerchio di raggio 1; P è il centro dell'arco BQ e Q è il centro dell'arco PR.*
 
-> Il diagramma mostra tre archi di cerchi di raggio 1. $P$ è il centro del cerchio di cui $BQ$ è un arco e $Q$ è il centro del cerchio di cui $PR$ è un arco. Qual è l'area di questa forma?
+> Il diagramma mostra tre archi di cerchi di raggio 1. $P$ è il centro del cerchio di cui $BQ$ è un arco, e $Q$ è il centro del cerchio di cui $PR$ è un arco. Qual è l'area di questa figura?
 >
-> - **(A)** - Sì, certo. - Sì.
-> - **(B)** - Sì, certo.
-> - **(C)** - Sì, certo.
-> - **(D)** - Sì, certo.
-> - **(E)** - Sì, certo.
+> - **(A)** \frac{\sqrt{3}\pi}{10}
+> - **(B)** \frac{\pi}{6}
+> - **(C)** \frac{\sqrt{3}\pi}{8}
+> - **(D)** \frac{\sqrt{3}}{4}
+> - **(E)** \frac{\sqrt{2}\pi}{9}
 
 ![[src_smc_2025__q08.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2025#q08|src_smc_2025__Q08]]
 
 
 
@@ -364,9 +400,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piccento quadrati in riga; primo e ultimo ombreggiato; non due ombreggiati adiacenti; non più di tre consecutivi non ombreggiati; trovare la differenza tra i quadrati ombreggiati massimo e min.*
+*Cinquanta caselle in fila; la prima e l'ultima sono ombreggiate; non ci sono due caselle ombreggiate adiacenti; non ci sono più di tre caselle non ombreggiate consecutive; determina la differenza tra il numero massimo e il numero minimo di caselle ombreggiate.*
 
-> Cinquanta quadrati sono disegnati fianco a fianco in una linea. Il primo e l'ultimo quadrato sono ombrati. Gli altri quadrati della linea devono essere ombrati in modo tale che (a) non siano ombrati due quadrati adiacenti e (b) non vi siano più di tre quadrati non ombrati consecutivi. Qual è la differenza tra il più grande e il più piccolo numero di quadrati che possono essere ombrati?
+> Vengono disegnati cinquanta quadrati uno accanto all'altro in una riga. Il primo e l'ultimo quadrato sono ombreggiati. Gli altri quadrati della riga devono essere ombreggiati in modo che (a) nessun paio di quadrati adiacenti sia ombreggiato e (b) non ci siano più di tre quadrati non ombreggiati consecutivi. Qual è la differenza tra il numero massimo e il numero minimo di quadrati che possono essere ombreggiati?
 >
 > - **(A)** 8
 > - **(B)** 10
@@ -374,7 +410,12 @@ level: Senior Mathematical Challenge
 > - **(D)** 13
 > - **(E)** 15
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2025#q09|src_smc_2025__Q09]]
 
 
 
@@ -404,9 +445,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare quanti diversi quadrati perfetti sono fattori del 2025.*
+*Conta quanti quadrati perfetti distinti sono divisori di 2025.*
 
-> Quanti quadrati diversi sono fattori del 2025?
+> Quanti quadrati distinti sono divisori di 2025?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -414,7 +455,12 @@ level: Senior Mathematical Challenge
 > - **(D)** 5
 > - **(E)** 6
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2025#q10|src_smc_2025__Q10]]
 
 
 
@@ -445,9 +491,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*PQR triangolare rettangolare con angolo PQR = 90°, PQ = 20, PR = 25; M su PR; N su QR; trovare MN dove la superficie del triangolo PQM è metà PQR.*
+*Triangolo rettangolo PQR con angolo PQR = 90°, PQ = 20, PR = 25; M su PR; N su QR; si determini MN sapendo che l'area del triangolo PQM è la metà dell'area del triangolo PQR.*
 
-> Il diagramma mostra un triangolo $PQR$ con $\angle PQR = 90^\circ$, $PQ = 20$ e $PR = 25$. Il punto $M$ si trova su $PR$ in modo tale che $QM$ sia un triangolo rettangolare la cui superficie è metà di quella del triangolo $PQR$. Qual è la lunghezza di $MN$?
+> Il diagramma mostra un triangolo $PQR$ con $\angle PQR = 90^\circ$, $PQ = 20$ e $PR = 25$. Il punto $M$ giace su $PR$ in modo tale che $QM$ sia un triangolo rettangolo la cui area è la metà di quella del triangolo $PQR$. Qual è la lunghezza di $MN$?
 >
 > - **(A)** $4\sqrt{2}$
 > - **(B)** $\frac{15}{\sqrt{2}}$
@@ -457,7 +503,11 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2025__q11.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2025#q11|src_smc_2025__Q11]]
 
 
 
@@ -487,9 +537,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri a 3 cifre composti da tre diversi numeri dispari divisibili per 3.*
+*Conta i numeri di tre cifre composti da tre cifre dispari diverse e divisibili per 3.*
 
-> Ayain scrive tutti i numeri a 3 cifre composti da tre diversi numeri odd. Quanti dei numeri di Ayain sono divisibili per 3?
+> Ayain annota tutti i numeri di tre cifre composti da tre cifre dispari diverse. Quanti dei numeri di Ayain sono divisibili per 3?
 >
 > - **(A)** 42
 > - **(B)** 36
@@ -497,7 +547,12 @@ level: Senior Mathematical Challenge
 > - **(D)** 24
 > - **(E)** 18
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2025#q12|src_smc_2025__Q12]]
 
 
 
@@ -528,9 +583,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro quadrati congruenti del lato 2a posizionati da borda a borda; due cerchi con lo stesso centro tracciati attraverso vertici; trovare l'area tra i cerchi.*
+*Cinque quadrati congruenti di lato 2a disposti fianco a fianco; due circonferenze aventi lo stesso centro e passanti per i vertici; determinare l'area compresa tra le circonferenze.*
 
-> Cinque quadrati congruenti, ciascuno di lato $2a$, sono posizionati borda a borda. Due cerchi con lo stesso centro sono tracciati attraverso i vertici come mostrato. Qual è l'area della regione tra i due cerchi?
+> Cinque quadrati congruenti, ciascuno di lato $2a$, sono disposti con i lati a contatto. Si tracciano due cerchi aventi lo stesso centro e passanti per i vertici, come mostrato. Qual è l'area della regione compresa tra i due cerchi?
 >
 > - **(A)** $2\pi a^2$
 > - **(B)** $4\pi a^2$
@@ -540,7 +595,11 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2025__q13.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2025#q13|src_smc_2025__Q13]]
 
 
 
@@ -570,17 +629,22 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le equazioni simultanee x + 1/y = 2 e y + 1/x = 9/4 hanno due coppie di soluzioni reali; trovare la differenza tra i valori possibili di x.*
+*Il sistema di equazioni simultanee x + 1/y = 2 e y + 1/x = 9/4 ammette due coppie di soluzioni reali; determina la differenza tra i valori possibili di x.*
 
-> Le equazioni simultanee $x + \frac{1}{y} = 2$ e $y + \frac{1}{x} = \frac{9}{4}$ hanno due coppie di soluzioni reali. Qual è la differenza tra i possibili valori di $x$?
+> Le equazioni simultanee $x + \frac{1}{y} = 2$ e $y + \frac{1}{x} = \frac{9}{4}$ hanno due coppie di soluzioni reali. Qual è la differenza tra i valori possibili di $x$?
 >
-> - **(A)** - Sì, certo.
-> - **(B)** - Sì, certo.
-> - **(C)** - Sì, certo.
+> - **(A)** \frac{1}{3}
+> - **(B)** \frac{2}{3}
+> - **(C)** \frac{3}{4}
 > - **(D)** 1
-> - **(E)** - Sì, certo.
+> - **(E)** \frac{3}{2}
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2025#q14|src_smc_2025__Q14]]
 
 
 
@@ -610,9 +674,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integra n con 1 < n n9; P = ̊1 - n ̊, Q = 99 - n ̊, R = ̊P - Q ̊; per quanti n è R primo?*
+*Intero n tale che 1 < n < 99; P = |1 - n|, Q = |99 - n|, R = |P - Q|; per quanti valori di n R è un numero primo?*
 
-> Il numero intero $n$ è tale che $1 < n < 99$. $P$ è la differenza tra 1 e $n$, $Q$ è la differenza tra 99 e $n$ e $R$ è la differenza tra $P$ e $Q$. Per quanti valori di $n$ $R$ è un numero primo?
+> L'intero $n$ è tale che $1 < n < 99$. $P$ è la differenza tra 1 e $n$, $Q$ è la differenza tra 99 e $n$, e $R$ è la differenza tra $P$ e $Q$. Per quanti valori di $n$ $R$ è un numero primo?
 >
 > - **(A)** 0
 > - **(B)** 2
@@ -620,7 +684,12 @@ level: Senior Mathematical Challenge
 > - **(D)** 8
 > - **(E)** 99
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2025#q15|src_smc_2025__Q15]]
 
 
 
@@ -651,9 +720,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato con una diagonale e un cerchio di raggio 2 che tocca la diagonale e due lati; trovare lunghezza laterale del quadrato.*
+*Quadrato con una diagonale e un cerchio di raggio 2 che tocca la diagonale e due lati; trovare la lunghezza del lato del quadrato.*
 
-> Il diagramma mostra un quadrato, una delle sue diagonali e un cerchio. Il cerchio tocca la diagonale e due lati del quadrato. Il cerchio ha raggio 2. Qual è la lunghezza del lato del quadrato?
+> Il diagramma mostra un quadrato, una delle sue diagonali e un cerchio. Il cerchio è tangente alla diagonale e a due lati del quadrato. Il cerchio ha raggio 2. Qual è la lunghezza del lato del quadrato?
 >
 > - **(A)** $4 + 2\sqrt{2}$
 > - **(B)** $8 - \sqrt{3}$
@@ -663,7 +732,11 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2025__q16.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2025#q16|src_smc_2025__Q16]]
 
 
 
@@ -695,9 +768,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque integri posizionati in cerchi in modo che qualsiasi numero intero 121 possa essere fatto sommando fino a 5 adiacenti; trovare s quando 1 è nella posizione indicata.*
+*Cinque interi sono collocati in dei cerchi in modo che, sommando al massimo 5 elementi adiacenti, si possa ottenere qualsiasi intero da 1 a 21; determina s quando 1 si trova nella posizione indicata.*
 
-> I cerchi sono riempiti di cinque numeri interi in modo che qualsiasi numero intero da 1 a 21 possa essere fatto sommando fino a 5 numeri interi adiacenti. Quando 1 è nella posizione indicata, qual è il valore di $s$?
+> I cerchi sono riempiti con cinque numeri interi in modo che ogni numero intero da 1 a 21 possa essere ottenuto sommando al massimo 5 numeri interi adiacenti. Quando 1 occupa la posizione mostrata, qual è il valore di $s$?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -707,7 +780,12 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2025__q17.png]]
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2025#q17|src_smc_2025__Q17]]
 
 
 
@@ -737,9 +815,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N intero positivo con 2025 cifre, prima cifra 3; ogni due cifre consecutive formano un moltiplo di 17 o 23; trovare la cifra unità.*
+*Numero intero positivo N di 2025 cifre, con prima cifra 3; ogni coppia di cifre consecutive forma un multiplo di 17 o di 23; determinare la cifra delle unità.*
 
-> Il numero intero positivo $N$ ha 2025 cifre. La prima cifra è 3. Ogni due cifre consecutive di $N$ costituiscono un numero a due cifre divisibile per 17 o 23. La cifra unità di $N$ può essere $p$ o $q$. Che cos'è $p + q$?
+> Il numero intero positivo $N$ ha 2025 cifre. La prima cifra è 3. Ogni coppia di cifre consecutive di $N$ forma un numero di due cifre divisibile per 17 o per 23. La cifra delle unità di $N$ potrebbe essere oppure $p$ $q$. Qual è $p + q$?
 >
 > - **(A)** 3
 > - **(B)** 6
@@ -747,7 +825,12 @@ level: Senior Mathematical Challenge
 > - **(D)** 9
 > - **(E)** 10
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2025#q18|src_smc_2025__Q18]]
 
 
 
@@ -776,9 +859,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sistema di prezzo del kit di calcio; scopri quante kit complete Eden può comprare con i soldi per nove camicie.*
+*Sistema di prezzi degli kit da calcio; scopri quanti kit completi può comprare Eden con il denaro sufficiente per nove maglie.*
 
-> Un kit di calcio "completo" consiste in una camicia, un paio di pantaloncini e un paio di calzini. Tre coppie di pantaloncini e un paio di calzini insieme costano la stessa cosa di due camicie. Sette paia di pantaloncini e quattro paia di calzini insieme costano la stessa cifra di cinque camicie. Eden ha esattamente la giusta quantità di soldi per comprare nove camicie. Quanti kit di calcio 'completi' si potevano comprare per la stessa quantità di denaro?
+> Una tenuta da calcio "completa" è composta da una maglia, un paio di pantaloncini e un paio di calzettoni. Tre paia di pantaloncini e un paio di calzettoni insieme costano quanto due maglie. Sette paia di pantaloncini e quattro paia di calzettoni insieme costano quanto cinque maglie. Eden ha esattamente la somma necessaria per comprare nove maglie. Quante tenute da calcio "complete" si potrebbero comprare con la stessa somma di denaro?
 >
 > - **(A)** 3
 > - **(B)** 4
@@ -786,7 +869,11 @@ level: Senior Mathematical Challenge
 > - **(D)** 6
 > - **(E)** 7
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2025#q19|src_smc_2025__Q19]]
 
 
 
@@ -816,17 +903,22 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato che 1/x - 1/y = 2025, valutare (x + 2026xy - y)/(2y - 2025xy - 2x).*
+*Data l'uguaglianza 1/x - 1/y = 2025, calcola il valore di (x + 2026xy - y)/(2y - 2025xy - 2x).*
 
 > Quando $\frac{1}{x} - \frac{1}{y} = 2025$, qual è il valore di $\frac{x + 2026xy - y}{2y - 2025xy - 2x}$?
 >
 > - **(A)** 0
 > - **(B)** 1
-> - **(C)** - Sì, certo.
+> - **(C)** \frac{1}{2}
 > - **(D)** 2026
-> - **(E)** - Sì, certo.
+> - **(E)** \frac{1}{2025}
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2025#q20|src_smc_2025__Q20]]
 
 
 
@@ -858,9 +950,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*PQRSTU esagono regolare inciso in un cerchio di raggio 5; X sulla circonferenza; trovare XP^2 + XQ^2 + XR^2 + XS^2 + XT^2 + XU^2.*
+*Esagono regolare PQRSTU inscritto in una circonferenza di raggio 5; X appartiene alla circonferenza; si calcoli XP^2 + XQ^2 + XR^2 + XS^2 + XT^2 + XU^2.*
 
-> Un esagono regolare $PQRSTU$ è inserito in un cerchio di raggio 5. Un punto $X$ si trova sulla circonferenza del cerchio ed è collegato alle vertici dell'esagono per formare sei accordi $XP$, $XQ$, $XR$, $XS$, $XT$ e $XU$. Qual è il valore di $XP^2 + XQ^2 + XR^2 + XS^2 + XT^2 + XU^2$?
+> Un esagono regolare $PQRSTU$ è inscritto in una circonferenza di raggio 5. Un punto $X$ giace sulla circonferenza e è collegato ai vertici dell'esagono, formando sei corde $XP$, $XQ$, $XR$, $XS$, $XT$ e $XU$. Qual è il valore di $XP^2 + XQ^2 + XR^2 + XS^2 + XT^2 + XU^2$?
 >
 > - **(A)** 150
 > - **(B)** 216
@@ -870,7 +962,12 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2025__q21.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2025#q21|src_smc_2025__Q21]]
 
 
 
@@ -900,9 +997,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n Nerdvarks e 12 formiatri mangiano n^2 + 20n + 25 formiche in eguaglianza; quante formiche mangia ogni animale?*
+*n tatu-babbuini e 12 formichieri mangiano n^2 + 20n + 25 formiche in parti uguali; quante formiche mangia ciascun animale?*
 
-> Insieme, gli aardvarks $n$ e i 12 formici mangiano $n^2 + 20n + 25$ formiche. Ogni animale mangia lo stesso numero di formiche. Quante formiche mangia ogni animale?
+> Insieme, $n$ oritteropi e 12 formichieri mangiano $n^2 + 20n + 25$ formiche. Ogni animale mangia lo stesso numero intero di formiche. Quante formiche mangia ogni animale?
 >
 > - **(A)** 61
 > - **(B)** 66
@@ -910,7 +1007,12 @@ level: Senior Mathematical Challenge
 > - **(D)** 74
 > - **(E)** 79
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2025#q22|src_smc_2025__Q22]]
 
 
 
@@ -939,9 +1041,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Jemima fa n'esame; dopo (n-2) le prove la media è stata m; i punteggi completi nella prova n-1 aumentano la media di 4; i punteggi completi nella prova n aumentano la media di 3; trova n.*
+*Jemima sostiene n prove; dopo (n-2) prove, la media era m; il punteggio massimo nella prova n-1 ha aumentato la media di 4; il punteggio massimo nella prova n ha aumentato la media di 3; trova n.*
 
-> Jemima fa una serie di test $n$ ognuno con lo stesso punteggio massimo. Dopo i test $(n-2)$, il suo punteggio medio è stato $m$. Ha ottenuto punteggi completi nel test $(n-1)$, e così ha aumentato il suo punteggio medio di 4 punteggi. Nel test$n$ ha di nuovo ottenuto voti completi e ha aumentato il suo punteggio medio di 3 voti. Quanti test ha fatto Jemima?
+> Jemima sostiene una serie di $n$ prove, ciascuna con lo stesso punteggio massimo. Dopo $(n-2)$ prove, la sua media era $m$. Nella $(n-1)$-esima prova ha ottenuto il punteggio massimo, aumentando così la propria media di 4 punti. Nella $n$-esima prova ha di nuovo ottenuto il punteggio massimo, facendo aumentare la propria media di 3 punti. Quante prove ha sostenuto Jemima?
 >
 > - **(A)** 6
 > - **(B)** 7
@@ -949,7 +1051,11 @@ level: Senior Mathematical Challenge
 > - **(D)** 9
 > - **(E)** 10
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2025#q23|src_smc_2025__Q23]]
 
 
 
@@ -981,9 +1087,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*F(x) = funzione di pavimento; identificare quale grafico mostra y = x^(F(x)) per x non zero in -2 < x < 2.*
+*F(x) = funzione parte intera; individua quale grafico rappresenta y = x^(F(x)) per x diverso da zero in -2 < x < 2.*
 
-> L'uscita della funzione $F(x)$ quando applicata a un numero reale $x$ è il più grande intero inferiore o uguale a $x$. Per esempio, $F(3.7) = 3$, $F(4.7) = 4$, $F(-3) = -3$. Qual è il grafico di $y = x^{F(x)}$ per i valori non zero di $x$ nell'intervallo $-2 < x < 2$?
+> L'output della funzione $F(x)$ applicata a un numero reale $x$ è il più grande intero minore o uguale a $x$. Ad esempio, $F(3.7) = 3$, $F(4.7) = 4$, $F(-3) = -3$. Quale dei seguenti è il grafico di $y = x^{F(x)}$ per valori non nulli di $x$ nell'intervallo $-2 < x < 2$?
 >
 > - **(A)** Grafico A
 > - **(B)** Grafico B
@@ -993,7 +1099,12 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2025__q24.png]]
 
-**Risposta:** A
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2025#q24|src_smc_2025__Q24]]
 
 
 
@@ -1025,9 +1136,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due quadrati OPQR (area 25) e OSTU; S si trova su QV; triangolo UQV ha angolo retto a V; trovare superficie di OSTU.*
+*Due quadrati OPQR (area 25) e OSTU; S giace su QV; il triangolo UQV ha l'angolo retto in V; trovare l'area di OSTU.*
 
-> Il diagramma mostra due quadrati $OPQR$ e $OSTU$. Il triangolo $UQV$ ha un angolo retto a $V$. Il quadrato $OPQR$ ha area 25. Il punto $S$ si trova su $QV$. Qual è la superficie del quadrato $OSTU$?
+> Il diagramma mostra due quadrati $OPQR$ e $OSTU$. Il triangolo $UQV$ ha un angolo retto in $V$. Il quadrato $OPQR$ ha area 25. Il punto $S$ giace su $QV$. Qual è l'area del quadrato $OSTU$?
 >
 > - **(A)** 36
 > - **(B)** 45
@@ -1037,4 +1148,9 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2025__q25.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2025#q25|src_smc_2025__Q25]]

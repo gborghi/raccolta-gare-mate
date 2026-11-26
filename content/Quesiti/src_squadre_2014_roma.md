@@ -24,19 +24,22 @@ level: squadre
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0343
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequence with a1 = 1, a2 = ⁷√7, each term the product of the previous two*
+*For a sequence of numbers a₁, a₂, …, aₙ, …, we know that a₁ = 1, a₂ = ⁷√7, and that each of the subsequent…*
 
 ![[src_squadre_2014_roma__prob1.png]]
 
-> Of a sequence of numbers a\_1, a\_2, . . . , a\_n, . . . we know that a\_1 = 1, a\_2 = ⁷√7 and that each of the following terms is the product of the two preceding it. What is a\_9?
+> For a sequence of numbers a₁, a₂, ..., aₙ, ..., we know that a₁ = 1, a₂ = ⁷√7, and that each subsequent term is the product of the two terms preceding it. What is the value of a₉?
 
-**Answer:** 0343
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2014_roma#q01|src_squadre_2014_roma__Q01]]
 
 
 
@@ -55,19 +58,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1260
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest circle inside both Γ and an equilateral triangle*
+*An equilateral triangle ABC with side length 2014 cm is given, and a circle Γ centered at i…*
 
 ![[src_squadre_2014_roma__prob2.png]]
 
-> An equilateral triangle ABC with side 2014 cm is given, together with a circle Γ centred at A with area 11340 cm^2. What is (in cm^2) the area of the largest circle contained both in Γ and in ABC.
+> Given an equilateral triangle ABC with side length 2014 cm and a circle Γ centered at A with area 11340 cm². What is the area (expressed in cm²) of the largest circle contained both in Γ and in ABC?
 
-**Answer:** 1260
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2014_roma#q02|src_squadre_2014_roma__Q02]]
 
 
 
@@ -87,19 +93,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 2014
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Regular octagon cut by diagonals parallel to AB or CD*
+*In a regular octagon ABCDEFGH, all the diagonals that are parallel… are drawn*
 
 ![[src_squadre_2014_roma__prob3.png]]
 
-> In a regular octagon ABCDEFGH all the diagonals parallel to side AB or to side CD are drawn. In this way the octagon is divided into 9 regions. Knowing that the area of the largest is 2014 m^2, say what is (again in m^2) the sum of the areas of the 4 smallest regions.
+> In a regular octagon ABCDEFGH, all diagonals parallel to side AB or to side CD are drawn. In this way, the octagon is divided into 9 regions. Given that the area of the largest region is 2014 m², state the value (again expressed in m²) of the sum of the areas of the 4 smallest regions.
 
-**Answer:** 2014
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2014_roma#q03|src_squadre_2014_roma__Q03]]
 
 
 
@@ -117,19 +126,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0240
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*30030 as a product of 5 integers other than ±1*
+*In how many different ways can 30030 be written as the product of 5 integers, p…*
 
 ![[src_squadre_2014_roma__prob4.png]]
 
 > In how many different ways can 30030 be written as the product of 5 integers, positive or negative, different from 1 and −1?
 
-**Answer:** 0240
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2014_roma#q04|src_squadre_2014_roma__Q04]]
 
 
 
@@ -148,19 +160,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 4028
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square P1P4P7P10 inside a regular dodecagon*
+*Given a regular dodecagon with vertices P_1P_2P_3 ... P_(12), consider the q…*
 
 ![[src_squadre_2014_roma__prob5.png]]
 
-> Given a regular dodecagon with vertices P\_1P\_2P\_3 . . . P\_(12), consider the square obtained by joining the vertices P\_1P\_4P\_7P\_(10). Knowing that the total area of the part of the plane contained in the dodecagon but outside the square is 2014 cm^2, say what the area of the square is in cm^2.
+> Given a regular dodecagon with vertices P_1P_2P_3...P_(12), consider the square formed by joining the vertices P_1P_4P_7P_(10). Given that the total area of the region of the plane contained within the dodecagon but outside the square is 2014 cm², state the area of the square in cm².
 
-**Answer:** 4028
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2014_roma#q05|src_squadre_2014_roma__Q05]]
 
 
 
@@ -181,19 +196,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1960
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Projections of the vertices of a parallelogram on the diagonals*
+*Parallelogram ABCD has an area of 7840 m² and a perimeter of 2014 m. We also know that…*
 
 ![[src_squadre_2014_roma__prob6.png]]
 
-> The parallelogram ABCD has area 7840 m^2 and perimeter 2014 m. We also know that the diagonals intersect forming 2 angles of 60° and 2 angles of 120°. Projecting each vertex onto the line through the diagonal to which it does not belong, we obtain the four points A′, B′, C′ and D′. What is (in m^2) the area of the quadrilateral A′B′C′D′?
+> Parallelogram ABCD has an area of 7840 m² and a perimeter of 2014 m. We also know that the diagonals intersect to form 2 angles of 60° and 2 angles of 120°. By projecting each vertex onto the line passing through the diagonal to which it does not belong, we obtain the four points A′, B′, C′, and D′. What is the area of quadrilateral A′B′C′D′ (expressed in m²)?
 
-**Answer:** 1960
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2014_roma#q06|src_squadre_2014_roma__Q06]]
 
 
 
@@ -211,19 +229,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0123
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*x^8 + 1/x^8 = 47: find x^10 + 1/x^10*
+*Knowing that x^8 + 1/x^8 = 47, state what value x^(10) + 1/x^(10) has.…*
 
 ![[src_squadre_2014_roma__prob7.png]]
 
-> Knowing that x^8 + 1/x^8 = 47, say what x^(10) + 1/x^(10) is. If you think the information given is not sufficient to answer, give 0 as the answer.
+> Given that x^8 + 1/x^8 = 47, state the value of x^(10) + 1/x^(10). If you believe the information provided is insufficient to answer, indicate 0 as the answer.
 
-**Answer:** 0123
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2014_roma#q07|src_squadre_2014_roma__Q07]]
 
 
 
@@ -242,19 +263,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0610
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*14 as an ordered sum of 1s and 2s*
+*Find out in how many ways the number 14 can be written as a sum of the numbers 1 and 2…*
 
 ![[src_squadre_2014_roma__prob8.png]]
 
-> Find in how many ways the number 14 can be written as a sum of the numbers 1 and 2, taking the order into account. (For example: 1+1+2+2+2+2+2+2 and 1 + 2 + 1 + 2 + 2 + 2 + 2 + 2 are to be considered different and therefore both counted)
+> Find how many ways the number 14 can be written as a sum of the numbers 1 and 2, taking order into account. (For example: 1+1+2+2+2+2+2+2 and 1 + 2 + 1 + 2 + 2 + 2 + 2 + 2 should be regarded as different and therefore both counted.)
 
-**Answer:** 0610
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2014_roma#q08|src_squadre_2014_roma__Q08]]
 
 
 
@@ -273,20 +297,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0849
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of fourth powers of the roots of a rational equation*
+*Determine the sum of the fourth powers of the real solutions of the equation 1/x + 2/(x − 2) + 3/(x − 4) + 4/(x − 6) = −2.*
 
 ![[src_squadre_2014_roma__prob9.png]]
 
-> Determine the sum of the fourth powers of the real solutions of the following equation:
-> 1/x + 2/(x − 2) + 3/(x − 4) + 4/(x − 6) = −2.
+> Determine the sum of the fourth powers of the real solutions of the following equation: 1/x + 2/(x − 2) + 3/(x − 4) + 4/(x − 6) = −2.
 
-**Answer:** 0849
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2014_roma#q09|src_squadre_2014_roma__Q09]]
 
 
 
@@ -308,19 +334,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0943
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Julius Caesar counting the Tenth Legion*
+*Once the battle was over, Julius Caesar decided to count the survivors of the Tenth…*
 
 ![[src_squadre_2014_roma__prob10.png]]
 
-> After the battle, Julius Caesar decides to count the survivors of the Tenth Legion, his favourite. With a quick glance he sees at once that they are certainly fewer than 1000. To know the exact number he orders them to line up in rows of 7, but finds that, once all the complete rows are formed, a partial row of 5 soldiers remains. If instead he tries to line them up in rows of 11, 8 are left over. If finally he tries to line them up in rows of 13, those left over are 7. How many soldiers are there? (If the data given are insufficient to determine the result, give 0 as the answer)
+> Once the battle is over, Julius Caesar decides to count the survivors of the Tenth Legion, his favorite legion. With a quick glance, he immediately realizes that there are certainly fewer than 1,000 of them. To find out the exact number, he orders them to line up in groups of 7, but he finds that, once all the complete rows have been formed, there remains an incomplete row of 5 soldiers. If, on the other hand, he tries to line them up in groups of 11, 8 of them are left over. Finally, if he tries to line them up in groups of 13, 7 of them are left over. How many soldiers are there? (If the data provided are insufficient to determine the result, indicate 0 as the answer.)
 
-**Answer:** 0943
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2014_roma#q10|src_squadre_2014_roma__Q10]]
 
 
 
@@ -338,19 +367,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0097
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest prime factor of p(17, 13)*
+*Let the polynomial p(x, y) = x^8 + y^8 + 2x^2y^6 + 2x^6y^2 + 3x^4y^4 be given. Find…*
 
 ![[src_squadre_2014_roma__prob11.png]]
 
-> Consider the polynomial p(x, y) = x^8 + y^8 + 2x^2y^6 + 2x^6y^2 + 3x^4y^4. Find the largest prime number dividing p(17, 13).
+> Let the polynomial p(x, y) = x^8 + y^8 + 2x^2y^6 + 2x^6y^2 + 3x^4y^4 be given. Find the largest prime number that divides p(17, 13).
 
-**Answer:** 0097
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2014_roma#q11|src_squadre_2014_roma__Q11]]
 
 
 
@@ -370,19 +402,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4814
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of squares of the roots of P(x + 1)*
+*Of a polynomial P(x), we know that it has 2014 real roots, all distinct from one another…*
 
 ![[src_squadre_2014_roma__prob12.png]]
 
-> Of a polynomial P(x) we know that it has 2014 real roots, all different from each other. The sum of these roots is 100, while the sum of their squares is 3000. Find the sum of the squares of the real roots of P(x + 1).
+> For a polynomial P(x), we know that it has 2014 real roots, all distinct from one another. The sum of these roots is 100, while the sum of their squares is 3000. Find the sum of the squares of the real roots of P(x + 1).
 
-**Answer:** 4814
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2014_roma#q12|src_squadre_2014_roma__Q12]]
 
 
 
@@ -403,19 +438,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 3402
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of triangle ABT in a square*
+*In square ABCD, two points P and Q are taken on side CD, distinct from the vertices,…*
 
 ![[src_squadre_2014_roma__prob13.png]]
 
-> In the square ABCD two points P and Q are taken on side CD, distinct from the vertices, so that the segments AP and BQ intersect at a point T inside the square. Find, in cm^2, the area of triangle ABT, knowing that the area of triangle PQT is 672 cm^2, while those of the quadrilaterals BCPT and ATQD are 2014 cm^2 and 3740 cm^2 respectively.
+> In square ABCD, two points P and Q are taken on side CD, distinct from the vertices, such that segments AP and BQ intersect at a point T inside the square. Find, in cm², the area of triangle ABT, given that the area of triangle PQT is 672 cm², while the areas of quadrilaterals BCPT and ATQD are 2014 cm² and 3740 cm², respectively.
 
-**Answer:** 3402
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2014_roma#q13|src_squadre_2014_roma__Q13]]
 
 
 
@@ -433,19 +471,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 8055
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer polynomial with p(1) = 3, p(2) = 7: smallest positive p(2014)*
+*For the polynomial p(x) with integer coefficients, we know that p(1) = 3 and p(2) = 7. What…*
 
 ![[src_squadre_2014_roma__prob14.png]]
 
-> Of the polynomial with integer coefficients p(x) we know that p(1) = 3 and p(2) = 7. What is the smallest positive value p(2014) can take?
+> For the polynomial p(x) with integer coefficients, we know that p(1) = 3 and p(2) = 7. What is the smallest positive value that p(2014) can take?
 
-**Answer:** 8055
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2014_roma#q14|src_squadre_2014_roma__Q14]]
 
 
 
@@ -464,19 +505,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0218
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triples with gcd 7 and lcm 7,000,000*
+*State how many triples of integers (k, n, m), with 1 ≤ k ≤ n ≤ m, are such that…*
 
 ![[src_squadre_2014_roma__prob15.png]]
 
-> Say how many triples of integers (k, n, m), with 1 ≤ k ≤ n ≤ m, are there such that their greatest common divisor is 7, while their least common multiple is 7.000.000.
+> Determine how many triples of integers (k, n, m), with 1 ≤ k ≤ n ≤ m, exist such that their greatest common divisor is 7 and their least common multiple is 7,000,000.
 
-**Answer:** 0218
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2014_roma#q15|src_squadre_2014_roma__Q15]]
 
 
 
@@ -496,19 +540,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0124
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solutions of x1 + … + x5 = 30 with xk ≤ k(6 − k)*
+*Determine the number of solutions of the equation x_1 + x_2 + x_3 + x_4 + x_5 =…*
 
 ![[src_squadre_2014_roma__prob16.png]]
 
-> Determine the number of solutions of the equation x\_1 + x\_2 + x\_3 + x\_4 + x\_5 = 30, where each x\_k is a strictly positive integer such that x\_k ≤ k(6 − k).
+> Determine the number of solutions of the equation x_1 + x_2 + x_3 + x_4 + x_5 = 30, where each x_k is a strictly positive integer such that x_k ≤ k(6 − k).
 
-**Answer:** 0124
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2014_roma#q16|src_squadre_2014_roma__Q16]]
 
 
 
@@ -530,19 +577,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5045
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sweets of 1024 mg and 1003 mg: largest impossible weight*
+*A vending machine contains infinitely many candies of two types: those worth 10…*
 
 ![[src_squadre_2014_roma__prob17.png]]
 
-> A vending machine contains infinitely many sweets of two kinds: those of 1024 milligrams (which come out when the white button is pressed) and those of 1003 milligrams (which come out when the black button is pressed). A child, pressing the white and black buttons as many times as he likes, takes some sweets and puts them in his bag. Let k be the largest positive integer such that, whatever the sequence of buttons pressed by the child, the bag will never contain k milligrams of sweets. Write the last 4 digits of k (that is, thousands, hundreds, tens and units). If you think such a k does not exist, give 0 as the answer.
+> A vending machine contains infinitely many candies of two types: those weighing 1024 milligrams (which come out when the white button is pressed) and those weighing 1003 milligrams (which come out when the black button is pressed). A child, pressing the white and black buttons multiple times as desired, takes some candies and puts them in their bag. Let k be the greatest positive integer such that, regardless of the sequence of buttons pressed by the child, the bag will never contain k milligrams of candies. Write the last 4 digits of k (that is, the thousands, hundreds, tens, and units digits). If one believes that such a k does not exist, indicate 0 as the answer.
 
-**Answer:** 5045
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2014_roma#q17|src_squadre_2014_roma__Q17]]
 
 
 
@@ -564,19 +614,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0233
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A flea's closed 28-jump paths on a 4 × 4 board*
+*A flea moves by jumping between the squares of a 4 × 4 chessboard: it starts from a…*
 
 ![[src_squadre_2014_roma__prob18.png]]
 
-> A flea moves by jumping among the squares of a 4 × 4 board: it starts from a corner square and, after 28 jumps between neighbouring squares (that is, having a side in common), returns to the square it started from. We know that among the 28 jumps there are exactly 7 of each of the four possible kinds (up, down, right, left). If n is the number of different paths the flea may have taken, what is the largest prime number appearing in the factorisation of n?
+> A flea moves by jumping between the squares of a 4 × 4 chessboard: it starts from a corner square and, after 28 jumps between adjacent squares (that is, squares sharing a side), returns to the square from which it started. We know that, of the 28 jumps, exactly 7 are of each of the four possible types (up, down, right, left). If we denote by n the number of different paths the flea could have taken, what is the largest prime number that appears in the prime factorization of n?
 
-**Answer:** 0233
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2014_roma#q18|src_squadre_2014_roma__Q18]]
 
 
 
@@ -598,19 +651,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0425
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five balls from five baskets summing to 96*
+*Claudia has 5 baskets, each containing 97 balls numbered from 0 to 96. The ba…*
 
 ![[src_squadre_2014_roma__prob19.png]]
 
-> Claudia has 5 baskets, each containing 97 balls numbered from 0 to 96. The balls in the first basket are blue, those in the second are green and those in the third are red. The balls in the two remaining baskets are white. Claudia takes 5 balls (one from each basket), taking care to choose them so that their sum is 96, and puts them in a bag, which she then hands to Luca. How many different configurations of balls can Luca get? (If the result were greater than 9999, give as the answer the 4 lowest digits, that is, thousands, hundreds, tens and units)
+> Claudia has 5 baskets, each containing 97 balls numbered from 0 to 96. The balls in the first basket are blue, those in the second are green, and those in the third are red. The balls in the remaining two baskets are white. Claudia takes 5 balls (one from each basket), making sure to choose them so that their sum is 96, and puts them in a bag, which she then hands to Luca. How many different configurations of balls can Luca end up with? (If the result were greater than 9999, indicate as the answer the four lowest digits—that is, the thousands, hundreds, tens, and units digits.)
 
-**Answer:** 0425
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2014_roma#q19|src_squadre_2014_roma__Q19]]
 
 
 
@@ -630,16 +686,19 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0571
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Domino tilings of a 3 × 10 board*
+*I have a rectangular 3×10 chessboard, whose squares are (obviously) square.…*
 
 ![[src_squadre_2014_roma__prob20.png]]
 
-> I have a rectangular 3×10 board, whose squares are (of course) square. I also have 15 identical domino tiles, of a size that exactly covers two neighbouring squares of the board. In how many different ways can I cover the whole board exactly using the 15 tiles?
+> I have a rectangular 3×10 chessboard, whose squares are (obviously) square. I also have 15 identical domino tiles, sized so that each tile exactly covers two adjacent squares on the chessboard. In how many different ways can I cover the entire chessboard exactly using the 15 tiles?
 
-**Answer:** 0571
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2014_roma#q20|src_squadre_2014_roma__Q20]]

@@ -29,9 +29,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare l'angolo BAC da una condizione di bisettore perpendicolare*
+*Misura di un angolo quando una retta passa per il punto medio di un segmento*
 
-> Che $O$ sia il centro circundante del triangolo $ABC$. Il $\ell$ deve essere la linea che attraversa il punto medio del lato $BC$ e perpendicolare al bisector di $\angle BAC$. Quando $\ell$ passa attraverso il punto medio del segmento $AO$, trova la misura di $\angle BAC$.
+> Sia $O$ il circocentro del triangolo $ABC$. Sia $\ell$ la retta passante per il punto medio del lato $BC$ e perpendicolare alla bisettrice di $\angle BAC$. Quando $\ell$ passa per il punto medio del segmento $AO$, trovare la misura di $\angle BAC$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_jmo24mq_honsen#q01|src_jmo24mq_honsen__Q01]]
 
 
 
@@ -54,9 +59,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni a numeri interi positivi di un'equazione esponenziale*
+*Terne di interi positivi che soddisfano un'equazione*
 
-> Trova tutti i triples $(a,b,c)$ di numeri interi positivi che soddisfano $2^a + 3^b + 1 = 6^c$.
+> Determinare tutte le terne $(a,b,c)$ di interi positivi che soddisfano $2^a + 3^b + 1 = 6^c$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_casework_accurato|Analisi per casi accurata]]
+[[Quesiti/src_jmo24mq_honsen#q02|src_jmo24mq_honsen__Q02]]
 
 
 
@@ -82,9 +92,17 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa massima dei numeri di copertura e di colorazione di un grafico*
+*Massimo, su tutte le scuole, del minimo di una somma di due numeri di squadre*
 
-> $n$ sia un numero intero positivo. Considerate una scuola in cui ogni due studenti sono o amici reciprocamente o non amici reciprocamente. Per una tale scuola, $N$ deve essere il minimo valore possibile della somma $a + b$ di enti interi positivi $a, b$ che soddisfi entrambe le seguenti condizioni: (1) Gli studenti possono essere suddivisi in squadre $a$ in modo che due studenti appartenenti allo stesso team siano reciprocamente amici. (2) Gli studenti possono essere suddivisi in squadre $b$ in modo che due studenti appartenenti allo stesso team non siano reciprocamente amici. Trovare il più grande valore possibile di $N$ su tutte le scuole il cui numero di studenti è $n$. Qui, quando si dividono gli studenti in squadre, ogni studente deve appartenere esattamente a una squadra.
+> Sia $n$ un intero positivo. Si consideri una scuola in cui due studenti qualunque sono o amici fra loro o non amici fra loro. Per una tale scuola, sia $N$ il minimo valore possibile della somma $a + b$ di interi positivi $a, b$ che soddisfano entrambe le condizioni seguenti:
+> (1) gli studenti si possono ripartire in $a$ squadre in modo che due studenti qualunque della stessa squadra siano amici fra loro;
+> (2) gli studenti si possono ripartire in $b$ squadre in modo che due studenti qualunque della stessa squadra non siano amici fra loro.
+> Trovare il massimo valore possibile di $N$ su tutte le scuole il cui numero di studenti è $n$. Qui, nel ripartire gli studenti in squadre, ogni studente deve appartenere esattamente a una squadra.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalità]], [[method_colorazione|Colorazione / parità]]
+**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_jmo24mq_honsen#q03|src_jmo24mq_honsen__Q03]]
 
 
 
@@ -107,9 +125,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che un cerchio attraverso quattro punti è tangente a BC*
+*Quattro punti su una circonferenza tangente a una retta*
 
-> La linea tangente di $\Gamma$ è la linea di circonferenza del triangolo $ABC$ e $\ell$ è la linea tangente di $\Gamma$ al punto $A$. I punti $D$ e $E$ devono essere punti sui lati $AB$ e $AC$, rispettivamente, separati dai punti finali, soddisfacendo $BD : DA = AE : EC$. $F$ e $G$ siano i due punti di intersezione della linea $DE$ con $\Gamma$. Il $H$ è l'intersezione di $\ell$ con la linea attraverso $D$ parallela a $AC$, e il $I$ è l'intersezione di $\ell$ con la linea attraverso $E$ parallela a $AB$. Prova che i quattro punti $F, G, H, I$ si trovano su un cerchio comune e che questo cerchio è tangente alla linea $BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Sia $\Gamma$ la circonferenza circoscritta al triangolo $ABC$, e sia $\ell$ la tangente a $\Gamma$ nel punto $A$. Siano $D$ e $E$ punti sui lati $AB$ e $AC$ rispettivamente, distinti dagli estremi, che soddisfano $BD : DA = AE : EC$. Siano $F$ e $G$ i due punti di intersezione della retta $DE$ con $\Gamma$. Sia $H$ l'intersezione di $\ell$ con la retta per $D$ parallela a $AC$, e sia $I$ l'intersezione di $\ell$ con la retta per $E$ parallela a $AB$. Dimostrare che i quattro punti $F, G, H, I$ stanno su una stessa circonferenza, e che questa circonferenza è tangente alla retta $BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo24mq_honsen#q04|src_jmo24mq_honsen__Q04]]
 
 
 
@@ -132,6 +155,13 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La k più piccola per una disuguaglianza ciclica a tre variabili*
+*Massima costante in una disuguaglianza per reali non negativi*
 
-> Trovare il valore più grande del numero reale $k$ in modo tale che l'ineguaglianza $$\frac{a}{1+9bc+k(b-c)^2} + \frac{b}{1+9ca+k(c-a)^2} + \frac{c}{1+9ab+k(a-b)^2} \ge \frac{1}{2}$$ sia valida per tutti i numeri reali non negativi $a, b, c$ che soddisfano $a+b+c=1$.
+> Trovare il massimo valore del numero reale $k$ tale che la disuguaglianza
+> $$\frac{a}{1+9bc+k(b-c)^2} + \frac{b}{1+9ca+k(c-a)^2} + \frac{c}{1+9ab+k(a-b)^2} \ge \frac{1}{2}$$
+> valga per tutti i numeri reali non negativi $a, b, c$ che soddisfano $a+b+c=1$.
+
+**Argomento:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_jmo24mq_honsen#q05|src_jmo24mq_honsen__Q05]]

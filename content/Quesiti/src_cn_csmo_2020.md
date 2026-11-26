@@ -30,11 +30,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazione di 1,17 con prodotto ciclico uguale a 2^t, ritrovare massimo t*
+*Permutazione di 1..17 con prodotto ciclico uguale a 2^t, trova il massimo t*
 
-> Che $a_1, a_2, \ldots, a_{17}$ sia una permutazione di $1, 2, \ldots, 17$, soddisfacendo tale $(a_1 - a_2)(a_2 - a_3) \cdots (a_{16} - a_{17})(a_{17} - a_1) = 2^t$. Trova il valore massimo del numero intero $t$.
+> Sia $a_1, a_2, \ldots, a_{17}$ una permutazione di $1, 2, \ldots, 17$, tale che $(a_1 - a_2)(a_2 - a_3) \cdots (a_{16} - a_{17})(a_{17} - a_1) = 2^t$. Determinare il valore massimo dell'intero $t$.
 
-**Risposta:** 38
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2020#q01|src_cn_csmo_2020__Q01]]
 
 
 
@@ -59,11 +64,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles, circoncircolo, incentro, punto medio dell'arco; prova collinearità M,B,T*
+*Triangolo isoscele, circonferenza circoscritta, incentro, punto medio dell'arco; dimostrare la collinearità di M, B, T*
 
-> Come illustrato in Fig. 2.1, in $\triangle ABC$, $AB = AC$, $PB$, $PC$ sono tangenti al circoncircolo $O$ di $\triangle ABC$. $R$ sia un punto su $\widehat{AC}$ con $AR \parallel BC$, e $Q$ sia l'altra intersezione di $PR$ e di $O$. Che $I$ sia l'incentro di $\triangle ABC$, $ID \perp BC$ con piede $D$ e $G$ sia l'altra intersezione di $QD$ e di cerchio $O$. Supponiamo che la linea attraverso $I$ e perpendicolare a $AI$ incroci le linee $AG$, $AC$ rispettivamente nei punti $M$ e $N$. $S$ sia il punto medio di $\widehat{AR}$, $T$ sia l'altra intersezione della linea $SN$ e del cerchio $O$. Provare che $M$, $B$, $T$ sono collineari.
+> Come illustrato nella Fig. 2.1, in $\triangle ABC$, $AB = AC$, $PB$, $PC$ sono tangenti alla circonferenza circoscritta $O$ di $\triangle ABC$. Sia $R$ un punto su $\widehat{AC}$ tale che $AR \parallel BC$, e sia $Q$ l'altro punto d'intersezione tra $PR$ e la circonferenza $O$. Sia $I$ l'incentro di $\triangle ABC$, $ID \perp BC$ con piede $D$, e sia $G$ l'altro punto d'intersezione tra $QD$ e la circonferenza $O$. Si supponga che la retta passante per $I$ e perpendicolare a $AI$ intersechi le rette $AG$, $AC$ nei punti $M$, $N$, rispettivamente. Sia $S$ il punto medio di $\widehat{AR}$, e sia $T$ l'altro punto d'intersezione tra la retta $SN$ e la circonferenza $O$. Dimostrare che $M$, $B$, $T$ sono allineati.
 
 ![[src_cn_csmo_2020__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_csmo_2020#q02|src_cn_csmo_2020__Q02]]
 
 
 
@@ -87,11 +99,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio con coefficienti in {-1,0,1}, numero massimo di radici interi positive*
+*Polinomio con coefficienti in {-1,0,1}, numero massimo di radici intere positive*
 
-> Che $f(x) = x^{2020} + \sum_{k=0}^{2019} c_k x^k$, $c_k \in \{-1, 0, 1\}$ siano polinomi e $N$ il numero di radici interi positive di $f(x)$ (conteggiate con le loro moltiplicità). Dato che $f(x)$ non ha radici interi negative, trovare il valore massimo di $N$.
+> Siano $f(x) = x^{2020} + \sum_{k=0}^{2019} c_k x^k$, $c_k \in \{-1, 0, 1\}$ un polinomio e $N$ il numero di radici intere positive di $f(x)$ (contate con le loro molteplicità). Dato che $f(x)$ non ha radici intere negative, determina il valore massimo di $N$.
 
-**Risposta:** 10
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2020#q03|src_cn_csmo_2020__Q03]]
 
 
 
@@ -114,6 +131,13 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Printatrice a getto d'inchiostro su 1 ×n striscia con scuro accidentale adiacente, trovare le strisce attese T(n)*
+*Stampante a getto d'inchiostro su striscia 1×n con annerimento adiacente casuale; trovare il numero atteso di stampe T(n)*
 
-> Una stampante a getto di inchiostro è utilizzata per stampare su una striscia di carta con griglie $1 \times n$. Quando la nozzola stampa sulla griglia $i$th ($1 \le i \le n$), diventa nera; inoltre, ciascuna delle griglie adiacenti, la griglia $(i-1)$th e la griglia $(i+1)$th (se esistono), ha indipendentemente la probabilità che $\dfrac{1}{2}$ diventi nera. Il numero previsto di stampe deve essere il $T(n)$ per rendere tutte le griglie nere, a condizione che sia adottata la strategia ottimale (fare il minor numero possibile di stampe). Trova la formula di $T(n)$.
+> Una stampante a getto d'inchiostro viene utilizzata per stampare su una striscia di carta con $1 \times n$ griglie. Quando l'ugello stampa sulla $i$-ma ($1 \le i \le n$) griglia, questa diventa nera; inoltre, ciascuna delle griglie adiacenti, la $(i-1)$-ma e la $(i+1)$-ma griglia (se esistono), ha indipendentemente una probabilità pari a $\dfrac{1}{2}$ di diventare nera. Sia $T(n)$ il numero atteso di stampe necessarie per rendere nere tutte le griglie, supponendo che si adotti la strategia ottimale (effettuare il minor numero possibile di stampe). Trovare la formula di $T(n)$.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_csmo_2020#q04|src_cn_csmo_2020__Q04]]

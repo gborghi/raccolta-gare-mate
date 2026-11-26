@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizione 10000 in sequenza costruita con la concatenatura di blocchi di 1..2k*
+*Posizione 10000 nella sequenza ottenuta concatenando blocchi 1..2^k*
 
-> Considerate la sequenza di numeri $1, 1, 2, 1, 2, 3, 4, 5, 6, 1, 2, \ldots$ in cui scriviamo i numeri da $1$ a $2^1$, poi da $1$ a $2^2$, poi da $1$ a $2^3$, e così via. Si noti che ogni posizione in questa sequenza è occupata da esattamente un numero. Ad esempio, il numero $5$ appare per la prima volta nella posizione $8$. Determinare quale numero occupa la posizione $10000$.
+> Si consideri la successione di numeri $1, 1, 2, 1, 2, 3, 4, 5, 6, 1, 2, \ldots$ in cui si scrivono i numeri da $1$ a $2^1$, poi da $1$ a $2^2$, poi da $1$ a $2^3$, e così via. Si noti che ciascuna posizione in questa successione è occupata da esattamente un numero. Ad esempio, il numero $5$ compare per la prima volta nella posizione $8$. Determinare quale numero occupa la posizione $10000$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n3_f2#q01|src_obm_2016_n3_f2__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova a+b data una radice condivisa di due polinomi*
+*Trovare a+b sapendo che due polinomi hanno una radice in comune*
 
-> $r$ sia la radice dell'equazione $x^2 - 12x - 12 = 0$. Sappiamo che $r$ è anche una radice dell'equazione $x^4 - ax^2 - b = 0$, dove $a$ e $b$ sono numeri reali. Trova $a + b$.
+> Sia $r$ una radice dell'equazione $x^2 - 12x - 12 = 0$. Sappiamo che $r$ è anch'essa una radice dell'equazione $x^4 - ax^2 - b = 0$, dove $a$ e $b$ sono numeri reali. Determinare $a + b$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2016_n3_f2#q02|src_obm_2016_n3_f2__Q02]]
 
 
 
@@ -81,11 +95,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca p^q in geometria semicircolare con lunghezze di accordi e rapporto di coprime dati*
+*Trovare p^q nella geometria del semicerchio con lunghezze delle corde date e rapporto coprimo*
 
-> Nella figura seguente $AB = 4$, $BD = 8$, $CB = BE = 2$ e $AGD$ è un semicircolo di diametro $AD$. Dato che $AG/GD = p/q$, dove $p$ e $q$ sono integri positivi che sono reciprocamente primi, trovare $p^q$.
+> Nella figura sottostante, $AB = 4$, $BD = 8$, $CB = BE = 2$ e $AGD$ è un semicerchio di diametro $AD$. Dato che $AG/GD = p/q$, dove $p$ e $q$ sono interi positivi coprimi, determinare $p^q$.
 
 ![[src_obm_2016_n3_f2__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2016_n3_f2#q03|src_obm_2016_n3_f2__Q03]]
 
 
 
@@ -108,9 +129,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il perimetro più piccolo condiviso da due triangoli rettangolari a lato intero non congruenti*
+*Perimetro minimo comune a due triangoli rettangoli con lati interi non congruenti*
 
-> Determinare il numero intero positivo più piccolo $n$ in modo tale che esistano due triangoli rettangolari non congruenti con lunghezze laterali interi e perimetro $n$.
+> Determinare il più piccolo intero positivo $n$ tale che esistano due triangoli rettangoli non congruenti con lati di lunghezza intera e perimetro $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n3_f2#q04|src_obm_2016_n3_f2__Q04]]
 
 
 
@@ -133,9 +161,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum numero di divisori positivi di P(n) per il polinomio di radice integrale di grado-10*
+*Numero minimo di divisori positivi di P(n) per polinomi a radice intera di grado 10*
 
-> Le radici di un polinomio $P$ di grado $10$, con coefficienti interi, sono tutti interi e distinti. Determinare il numero minimo di divisori positivi che ogni valore non zero $P(n)$, per $n$ un numero intero, deve avere.
+> Le radici di un polinomio $P$ di grado $10$, a coefficienti interi, sono tutte intere e distinte. Determinare il numero minimo di divisori positivi che ogni valore non nullo $P(n)$, con $n$ intero, deve possedere.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n3_f2#q05|src_obm_2016_n3_f2__Q05]]
 
 
 
@@ -160,11 +195,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tagliare la scheda m x n con pezzi quadrati e quadrati; ridurre al minimo la m ×n*
+*Rivestimento di una scacchiera m x n con tasselli da 4 caselle e da 3 caselle; minimizzare m*n*
 
-> La figura seguente mostra due tipi di pezzi: tipo 1, con $4$ quadrati, e tipo 2, con $3$ quadrati. Una tabella con righe $m$ e colonne $n$ è cartigliata, senza sovrapposizioni, da pezzi di tipo 1, ad eccezione dei quadrati $3$. La stessa lavagna è inoltre incollata, senza sovrapposizioni, con pezzi di tipo 2, ad eccezione dei quadrati $2$. I pezzi possono essere rotati ma non possono estendersi al di fuori della lavagna. Qual è il minimo valore possibile del prodotto $m \times n$?
+> La figura sottostante mostra due tipi di tessere: il tipo 1, con $4$ caselle, e il tipo 2, con $3$ caselle. Una scacchiera con $m$ righe e $n$ colonne viene rivestita, senza sovrapposizioni, con tessere di tipo 1, ad eccezione di $3$ caselle. La stessa scacchiera viene inoltre rivestita, senza sovrapposizioni, con tessere di tipo 2, ad eccezione di $2$ caselle. Le tessere possono essere ruotate, ma non possono estendersi al di fuori della scacchiera. Qual è il valore minimo possibile del prodotto $m \times n$?
 
 ![[src_obm_2016_n3_f2__q06.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n3_f2#q06|src_obm_2016_n3_f2__Q06]]
 
 
 
@@ -187,9 +229,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta le celle marroni in colorazione 7x7 con restrizioni di maggioranza a fila rossa e a colonna blu*
+*Conteggia le celle marroni in una colorazione 7x7 con vincoli di maggioranza: righe rosse e colonne blu*
 
-> Janaína vuole dipingere le cellule di un pannello $7 \times 7$ in rosso, blu o marrone nel modo seguente: in ogni riga, il numero di cellule rosse non può essere inferiore al numero di cellule di ciascuno degli altri colori; in ogni colonna, il numero di cellule blu non può essere inferiore al numero di cellule di ciascuno degli altri colori. Quante cellule saranno dipinte di marrone?
+> Janaína vuole dipingere di rosso, blu o marrone le caselle di una scacchiera $7 \times 7$ nel modo seguente: in ogni riga, il numero di caselle rosse non può essere inferiore al numero di caselle di ciascuno degli altri colori; in ogni colonna, il numero di caselle blu non può essere inferiore al numero di caselle di ciascuno degli altri colori. Quante caselle saranno dipinte di marrone?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n3_f2#q07|src_obm_2016_n3_f2__Q07]]
 
 
 
@@ -212,9 +261,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Agglio massimo BAC quando G è centroid e due cerchi sono tangenti a una linea comune*
+*Angolo BAC massimo quando G è il baricentro e due cerchi sono tangenti a una retta comune*
 
-> Due cerchi $\Gamma$ e $\Omega$ si incrociano ai punti $A$ e $G$. Una linea $t$ è tangente a $\Gamma$ a $B$ e a $\Omega$ a $C$. La linea $AG$ estesa incontra $t$ a $E$, con $C$ tra $B$ e $E$. $G$ è il centroide del triangolo $ABC$. Qual è il valore massimo possibile dell'angolo $\widehat{BAC}$?
+> Due cerchi $\Gamma$ e $\Omega$ si intersecano nei punti $A$ e $G$. Una retta $t$ è tangente a $\Gamma$ in $B$ e a $\Omega$ in $C$. La retta $AG$ prolungata incontra $t$ in $E$, con $C$ compreso tra $B$ e $E$. $G$ è il baricentro del triangolo $ABC$. Qual è il valore massimo possibile dell'angolo $\widehat{BAC}$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2016_n3_f2#q08|src_obm_2016_n3_f2__Q08]]
 
 
 
@@ -237,6 +293,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Zero di seguito del coefficiente binomial q C(2016,38)_q come polinomio in q*
+*Zeri finali del coefficiente q-binomiale C(2016,38)_q visto come polinomio in q*
 
-> In combinatorica, esistono $q$-analoghi di conti combinatori; fondamentalmente, sostituisco $n$ con $[n]_q$, dove $[n]_q = 1 + q + q^2 + \cdots + q^{n-1}$. Il $q$-fattoriale è $$[n]_q! = [1]_q \cdot [2]_q \cdots [n]_q = 1\cdot(1+q)\cdot(1+q+q^2)\cdots(1+q+q^2+\cdots+q^{n-1}).$$ Dato che $\dbinom{n}{k}_q = \dfrac{[n]_q!}{[k]_q!\,[n-k]_q!}$, con quanti zeri termina il $q$-binomio $\dbinom{2016}{38}_q$ (come polinomio in $q$)?
+> In combinatorics, there exist $q$-analogs of combinatorial counts; basically, we replace $n$ by $[n]_q$, where $[n]_q = 1 + q + q^2 + \cdots + q^{n-1}$. The $q$-factorial is $$[n]_q! = [1]_q \cdot [2]_q \cdots [n]_q = 1\cdot(1+q)\cdot(1+q+q^2)\cdots(1+q+q^2+\cdots+q^{n-1}).$$ Given that $\dbinom{n}{k}_q = \dfrac{[n]_q!}{[k]_q!\,[n-k]_q!}$, with how many zeros does the $q$-binomial $\dbinom{2016}{38}_q$ end (as a polynomial in $q$)?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n3_f2#q09|src_obm_2016_n3_f2__Q09]]

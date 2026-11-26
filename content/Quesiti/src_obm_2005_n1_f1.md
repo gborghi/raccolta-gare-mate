@@ -33,13 +33,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Divisibilità per 13 da un'identità di prodotto*
+*Divisibilità per 13 a partire da un'identità del prodotto*
 
 > Sapendo che $9{,}174{,}532 \times 13 = 119{,}268{,}916$, si può concludere che $13$ divide il numero:
-> 
-> A) $119{,}268{,}903$ \quad B) $119{,}268{,}907$ \quad C) $119{,}268{,}911$ D) $119{,}268{,}913$ \quad E) $119{,}268{,}923$
+>
+> A) $119{,}268{,}903$ \quad B) $119{,}268{,}907$ \quad C) $119{,}268{,}911$
+> D) $119{,}268{,}913$ \quad E) $119{,}268{,}923$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n1_f1#q01|src_obm_2005_n1_f1__Q01]]
 
 
 
@@ -69,13 +75,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riducimento del colore dei marmi rimossi da una scatola*
+*Dedurre il colore delle biglie rimosse da una scatola*
 
-> Una scatola contiene 3 marmi rossi, 2 marmi bianchi e 1 marmo nero. Il professor Piraldo ha rimosso tre marmi dalla scatola. Sapendo che nessuno dei marmi rimossi è nero, possiamo dire che i 3 marmi rimossi:
-> 
-> A) sono tutti dello stesso colore. B) sono tutti rossi. C) uno è rosso e due bianchi. D) uno è bianco e due rosso. E) almeno uno è rosso.
+> In una scatola ci sono 3 biglie rosse, 2 biglie bianche e 1 biglia nera. Il professor Piraldo ha rimosso 3 biglie dalla scatola. Sapendo che nessuna delle biglie rimosse è nera, riguardo alle 3 biglie rimosse possiamo affermare che:
+>
+> A) Hanno tutti lo stesso colore.
+> B) Sono tutti rossi.
+> C) uno è rosso e due sono bianchi.
+> D) uno è bianco e due sono rossi.
+> E) almeno uno è rosso.
 
-**Risposta:** E
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n1_f1#q02|src_obm_2005_n1_f1__Q02]]
 
 
 
@@ -100,13 +115,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Percentuale di polpa dopo miscelazione di succo e acqua*
+*Percentuale di polpa dopo la miscelazione di succo e acqua*
 
-> Diamantino mette tre litri di acqua e un litro di succo (composto di polpa $20\%$ e acqua $80\%$) in un contenitore. Dopo aver miscelato tutto, quale percentuale del volume totale è la polpa?
-> 
+> Diamantino ha messo tre litri d'acqua e un litro di succo (composto da polpa di $20\%$ e acqua di $80\%$) in un contenitore. Dopo aver mescolato tutto, quale percentuale del volume totale è costituita dalla polpa?
+>
 > A) $5\%$ \quad B) $7\%$ \quad C) $8\%$ \quad D) $20\%$ \quad E) $60\%$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n1_f1#q03|src_obm_2005_n1_f1__Q03]]
 
 
 
@@ -131,13 +150,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Differenza tra un miliardo e un milione di milioni
+*Differenza tra un miliardo e un milione di milioni*
 
-> Alla domanda, Arnaldo dice che un miliardo equivale a un milione di milioni. Il professore Piraldo lo corregge e dice che $1$ miliardi equivale a mille milioni. Qual è la differenza tra queste due quantità?
-> 
+> Alla domanda, Arnaldo afferma che un miliardo equivale a un milione di milioni. Il professor Piraldo lo corregge e dice che $1$ miliardi equivalgono a mille milioni. Qual è la differenza tra queste due quantità?
+>
 > A) $1{,}000$ \quad B) $999{,}000$ \quad C) $1{,}000{,}000$ \quad D) $999{,}000{,}000$ \quad E) $999{,}000{,}000{,}000$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n1_f1#q04|src_obm_2005_n1_f1__Q04]]
 
 
 
@@ -163,13 +186,18 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sesto termine di una sequenza in cui ogni termine è uguale alla somma di due precedenti*
+*Sesto termine di una successione in cui ogni termine è uguale alla somma dei due termini precedenti*
 
-> In una sequenza, ogni termine dal terzo è la somma dei due termini precedenti. Il secondo termine è $1$ e il quinto termine è $2005$. Qual è il sesto mandato?
-> 
+> In una successione, ogni termine a partire dal terzo è la somma dei due termini precedenti. Il secondo termine è uguale a $1$ e il quinto termine è uguale a $2005$. Qual è il sesto termine?
+>
 > A) $3{,}002$ \quad B) $3{,}008$ \quad C) $3{,}010$ \quad D) $4{,}002$ \quad E) $5{,}004$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n1_f1#q05|src_obm_2005_n1_f1__Q05]]
 
 
 
@@ -194,13 +222,17 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di api se 10 galloni sono condivisi tra 7 milioni di chilometri di viaggi*
+*Numero di api se 10 galloni vengono ripartiti tra 7 milioni di km di viaggi*
 
-> Un gallone di miele fornisce energia sufficiente per una api a volare $7$ milione di chilometri. Se i galloni di miele fossero condivisi tra tutte le api, quante api potrebbero condividerli?
-> 
+> Un gallone di miele fornisce energia sufficiente affinché un'ape voli per $7$ milioni di chilometri. Se $10$ galloni di miele fossero divisi tra tutte le api, quante api potrebbero condividerli?
+>
 > A) $7{,}000$ \quad B) $70{,}000$ \quad C) $700{,}000$ \quad D) $7{,}000{,}000$ \quad E) $70{,}000{,}000$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n1_f1#q06|src_obm_2005_n1_f1__Q06]]
 
 
 
@@ -225,13 +257,17 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa della popolazione tre anni fa data l'attuale crescita*
+*Popolazione complessiva tre anni fa, in base ai dati attuali sulla crescita*
 
-> Tre anni fa, la popolazione di Pirajussara era uguale a quella di Tucupira oggi. Da allora, la popolazione di Pirajussara non è cambiata, mentre la popolazione di Tucupira è cresciuta di $50\%$. Attualmente, entrambe le città insieme hanno $9{,}000$ abitanti. Qual era la somma della popolazione delle due città tre anni fa?
-> 
+> Tre anni fa, la popolazione di Pirajussara era uguale alla popolazione di Tucupira oggi. Da allora, la popolazione di Pirajussara non è cambiata, mentre la popolazione di Tucupira è aumentata di $50\%$. Attualmente, le due città insieme contano $9{,}000$ abitanti. Qual era la somma delle popolazioni delle due città tre anni fa?
+>
 > A) $3{,}600$ \quad B) $4{,}500$ \quad C) $5{,}000$ \quad D) $6{,}000$ \quad E) $7{,}500$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n1_f1#q07|src_obm_2005_n1_f1__Q07]]
 
 
 
@@ -257,13 +293,18 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valutazione della perdita derivante da una frazione delle entrate totali delle colture*
+*Valore della perdita rispetto a una frazione del ricavo totale delle colture*
 
-> Un agricoltore dovrebbe ricevere circa $100{,}000$ reais dalla vendita del suo raccolto. Tuttavia, la mancanza di pioggia ha causato una perdita del raccolto, valutata tra $\frac{1}{5}$ e $\frac{1}{4}$ del totale previsto. Quali dei seguenti valori potrebbero rappresentare la perdita dell'agricoltore?
-> 
-> A) R\$\,21{,}987.53 \quad B) R\$\,34{,}000.00 \quad C) R\$\,44{,}999.99 D) R\$\,21{,}987.53 \quad E) R\$\,60{,}000.00
+> Un agricoltore si aspettava di ricevere circa $100{,}000$ reais dalla vendita del proprio raccolto. Tuttavia, la mancanza di pioggia ha causato una perdita nel raccolto pari a un valore compreso tra $\frac{1}{5}$ e $\frac{1}{4}$ rispetto al totale atteso. Quale dei seguenti valori potrebbe rappresentare la perdita dell'agricoltore?
+>
+> A) R\$\,21{,}987.53 \quad B) R\$\,34{,}000.00 \quad C) R\$\,44{,}999.99
+> D) R\$\,21{,}987.53 \quad E) R\$\,60{,}000.00
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n1_f1#q08|src_obm_2005_n1_f1__Q08]]
 
 
 
@@ -289,13 +330,18 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pagine vuote in un libro di 600 pagine stampato in multipli di 3 e 5*
+*Pagine bianche in un libro di 600 pagine stampato in multipli di 3 e 5*
 
-> A causa di un difetto di stampa, in un libro di $600$ pagine tutte le pagine i cui numeri sono multipli di $3$ o $5$ appaiono vuote. Quante pagine sono vuote?
-> 
+> A causa di un difetto di stampa, in un libro di $600$ pagine, tutte le pagine il cui numero è multiplo di $3$ o di $5$ risultano bianche. Quante pagine sono bianche?
+>
 > A) $100$ \quad B) $150$ \quad C) $250$ \quad D) $300$ \quad E) $430$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n1_f1#q09|src_obm_2005_n1_f1__Q09]]
 
 
 
@@ -322,15 +368,19 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area di un grande rettangolo formato da sei piccoli rettangoli identici*
+*Area del grande rettangolo formato da sei piccoli rettangoli identici*
 
-> Sei rettangoli identici vengono messi insieme per formare un rettangolo più grande come mostrato nella figura. Qual è l'area del rettangolo più grande?
-> 
+> Sei rettangoli identici vengono uniti per formare un rettangolo più grande, come mostrato nella figura. Qual è l'area del rettangolo più grande?
+>
 > A) $210\text{ cm}^2$ \quad B) $280\text{ cm}^2$ \quad C) $430\text{ cm}^2$ \quad D) $504\text{ cm}^2$ \quad E) $588\text{ cm}^2$
 
 ![[src_obm_2005_n1_f1__q10.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n1_f1#q10|src_obm_2005_n1_f1__Q10]]
 
 
 
@@ -358,15 +408,20 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Immagine speculare dell'orologio che mostra 2h23min*
+*Immagine speculare di un orologio che segna le 2:23*
 
-> L'orologio del professor Piraldo è preciso ma diverso: le sue mani si muovono in senso contrario. Se guardate l'orologio in uno specchio quando mostra $2{:}23$, quale delle seguenti immagini vedreste?
-> 
-> A) B) C) D) E)
+> L'orologio del professor Piraldo è preciso ma diverso: le lancette si muovono in senso antiorario. Se guardi l'orologio in uno specchio quando segna $2{:}23$, quale delle seguenti immagini vedresti?
+>
+> A) \quad B) \quad C) \quad D) \quad E)
 
 ![[src_obm_2005_n1_f1__q11.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n1_f1#q11|src_obm_2005_n1_f1__Q11]]
 
 
 
@@ -393,15 +448,19 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fraczione di piastra decorativa quadrata dipinta*
+*Frazione della placca decorativa quadrata che è dipinta*
 
-> Una piastra decorativa è costituita da un quadrato di laterale $4$ metri, dipinto in un modello simmetrico con alcune strisce, come mostrato nella figura. Quale frazione della superficie della targa è dipinta?
-> 
+> Una placca decorativa è costituita da un quadrato con lato di $4$ metri, dipinto con un motivo simmetrico che comprende alcune strisce, come mostrato nella figura. Quale frazione dell'area della placca è dipinta?
+>
 > A) $\dfrac{1}{2}$ \quad B) $\dfrac{1}{3}$ \quad C) $\dfrac{3}{8}$ \quad D) $\dfrac{6}{13}$ \quad E) $\dfrac{7}{11}$
 
 ![[src_obm_2005_n1_f1__q12.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n1_f1#q12|src_obm_2005_n1_f1__Q12]]
 
 
 
@@ -426,13 +485,17 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riduzione della trasparenza combinando due strati di film solare*
+*Riduzione della trasparenza mediante combinazione di due strati di pellicola solare*
 
-> I film isolanti vengono utilizzati sulle finestre degli edifici e dei vetri dei veicoli per ridurre la radiazione solare. I film sono valutati per la loro percentuale di trasparenza, cioè la percentuale di radiazioni solari che trasmettono. Se si colloca un film di trasparenza $70\%$ su un vetro di trasparenza $90\%$, la riduzione della radiazione risultante è pari a:
-> 
+> Le pellicole isolanti vengono utilizzate sulle finestre degli edifici e sul vetro dei veicoli per ridurre la radiazione solare. Le pellicole vengono classificate in base alla percentuale di trasparenza, ossia alla percentuale di radiazione solare che lasciano passare. Applicando una pellicola con trasparenza $70\%$ su un vetro con trasparenza $90\%$, la riduzione della radiazione che ne risulta è pari a:
+>
 > A) $3\%$ \quad B) $37\%$ \quad C) $40\%$ \quad D) $63\%$ \quad E) $160\%$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n1_f1#q13|src_obm_2005_n1_f1__Q13]]
 
 
 
@@ -459,15 +522,19 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo x tra due triangoli equilaterali che condividono un lato*
+*Angolo x tra due triangoli equilateri che condividono un lato*
 
-> Nella figura, i due triangoli sono equilaterali. Qual è il valore dell'angolo $x$?
-> 
+> Nella figura, i due triangoli sono equilateri. Qual è il valore dell'angolo $x$?
+>
 > A) $30^\circ$ \quad B) $40^\circ$ \quad C) $50^\circ$ \quad D) $60^\circ$ \quad E) $70^\circ$
 
 ![[src_obm_2005_n1_f1__q14.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n1_f1#q14|src_obm_2005_n1_f1__Q14]]
 
 
 
@@ -495,15 +562,20 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Finalità di un pannello a striscia metallica ripetuta*
+*Forma finale di un pannello a strisce metalliche ripetute*
 
-> Un fabbro salda strisce di metallo per produrre pezzi identici che saranno uniti per fare il pannello mostrato di seguito. Il disegno mostra le misure, in centimetri, di uno dei pezzi. Il fabbro utilizza esattamente $20$ metri di striscia per realizzare il suo lavoro. Quale dei disegni di seguito rappresenta il pannello finale?
-> 
-> A) B) C) D) E)
+> Un fabbro salda delle strisce di metallo per produrre pezzi identici che verranno uniti per realizzare il pannello mostrato di seguito. Il disegno riporta le misure, in centimetri, di uno dei pezzi. Il fabbro utilizza esattamente $20$ metri di striscia per realizzare il suo lavoro. Quale dei disegni sottostanti rappresenta il pannello finale?
+>
+> A) \quad B) \quad C) \quad D) \quad E)
 
 ![[src_obm_2005_n1_f1__q15.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n1_f1#q15|src_obm_2005_n1_f1__Q15]]
 
 
 
@@ -533,17 +605,22 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di numeri in cerchi bianchi con restrizioni adiacenti e quadrate*
+*Somma dei numeri nei cerchi bianchi con vincoli di adiacenza e di quadrato*
 
-> Tra i numeri $1, 2, 3, 4, 5, 6, 7, 8, 9, 10$, scegliene alcuni e posizionarli nei cerchi bianchi in modo che la somma dei due numeri in due cerchi vicini sia sempre un quadrato perfetto. Nota: $2$ è già stato inserito in uno dei cerchi e non è consentito inserire numeri ripetuti; inoltre, i cerchi separati dal rettangolo nero non sono vicini.
-> 
+> Tra i numeri $1, 2, 3, 4, 5, 6, 7, 8, 9, 10$, scegline alcuni e collocali nei cerchi bianchi in modo che la somma dei due numeri in due qualsiasi cerchi adiacenti sia sempre un quadrato perfetto. Nota: $2$ è già stato collocato in uno dei cerchi e non è consentito inserire numeri ripetuti; inoltre, i cerchi separati dal rettangolo nero non sono adiacenti.
+>
 > Qual è la somma dei numeri inseriti in tutti i cerchi bianchi?
-> 
+>
 > A) $36$ \quad B) $46$ \quad C) $47$ \quad D) $49$ \quad E) $55$
 
 ![[src_obm_2005_n1_f1__q16.png]]
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n1_f1#q16|src_obm_2005_n1_f1__Q16]]
 
 
 
@@ -570,15 +647,19 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di quadrati necessari per bilanciare l'ultima scala*
+*Numero di quadrati necessari per bilanciare l'ultima bilancia*
 
-> Figure della stessa forma rappresentano oggetti della stessa massa. Quanti quadrati sono necessari per bilanciare l'ultima scala?
-> 
+> Le figure della stessa forma rappresentano oggetti della stessa massa. Quanti quadrati servono per bilanciare l'ultima bilancia?
+>
 > A) $7$ \quad B) $8$ \quad C) $9$ \quad D) $10$ \quad E) $12$
 
 ![[src_obm_2005_n1_f1__q17.png]]
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n1_f1#q17|src_obm_2005_n1_f1__Q17]]
 
 
 
@@ -604,13 +685,18 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di due sedie consecutive a due cifre di quadrato perfetto numerate*
+*Somma di due sedie contigue numerate con numeri quadrati perfetti a due cifre*
 
-> Le sedie $10$ di un tavolo rotondo erano numerate con numeri di due cifre consecutive, tra cui ci sono esattamente due quadrati perfetti. Carlos si sedette sulla sedia con il maggior numero e Janaína, la sua fidanzata, si sedette sulla sedia con il numero più piccolo. Qual è la somma dei numeri di queste due sedie?
-> 
+> Le $10$ sedie di un tavolo rotondo erano numerate con numeri a due cifre consecutivi, tra i quali ce ne sono esattamente due che sono quadrati perfetti. Carlos si sedette sulla sedia con il numero più grande e Janaína, la sua ragazza, si sedette sulla sedia con il numero più piccolo. Qual è la somma dei numeri di queste due sedie?
+>
 > A) $29$ \quad B) $36$ \quad C) $37$ \quad D) $41$ \quad E) $64$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n1_f1#q18|src_obm_2005_n1_f1__Q18]]
 
 
 
@@ -636,13 +722,18 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre massimo di mesi in un anno con cinque domeniche*
+*Numero massimo di mesi in un anno con cinque domeniche*
 
-> In un anno, quante mesi al massimo possono avere cinque domeniche?
-> 
+> In un anno, al massimo, quante mensilità possono avere cinque domeniche?
+>
 > A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n1_f1#q19|src_obm_2005_n1_f1__Q19]]
 
 
 
@@ -668,10 +759,15 @@ Differenza tra un miliardo e un milione di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colori minimi per dipingere la griglia 3x3 senza ripetizione di righe/colonne/diagonali*
+*Numero minimo di colori per dipingere una griglia 3x3 senza ripetizioni in righe, colonne o diagonali*
 
-> Le nove celle di una scheda $3 \times 3$ devono essere dipinte in modo che non appaiano due celle dello stesso colore nella stessa colonna, nella stessa riga o in una delle due diagonali principali. Qual è il numero minimo di colori richiesti?
-> 
+> Le nove caselle di una scacchiera $3 \times 3$ devono essere colorate in modo che non vi siano due caselle dello stesso colore nella stessa colonna, nella stessa riga o su una delle due diagonali principali. Qual è il numero minimo di colori necessari?
+>
 > A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n1_f1#q20|src_obm_2005_n1_f1__Q20]]

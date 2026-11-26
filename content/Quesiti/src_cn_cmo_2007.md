@@ -30,9 +30,17 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La prova massima di due moduli complessi è almeno mn/sqrt(m^2+n^2)*
+*La prova che il massimo di due moduli complessi è almeno mn/sqrt(m^2+n^2)*
 
-> Date le cifre complesse $a$, $b$, $c$, lasciamo $|a + b| = m$, $|a - b| = n$, e supponiamo $mn \neq 0$. Provare che $$\max\{|ac + b|,\ |a + bc|\} \ge \frac{mn}{\sqrt{m^2 + n^2}}.$$
+> Dati i numeri complessi $a$, $b$, $c$, si pongano $|a + b| = m$, $|a - b| = n$, e si supponga $mn \neq 0$. Dimostrare che
+> $$\max\{|ac + b|,\ |a + bc|\} \ge \frac{mn}{\sqrt{m^2 + n^2}}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2007#q01|src_cn_cmo_2007__Q01]]
 
 
 
@@ -63,17 +71,24 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove due affermazioni sulle frazioni (a_j+a_{j+1})/gcd per primo/composto 2n-1*
+*Dimostra due affermazioni riguardo alle frazioni (a_j+a_{j+1})/gcd per 2n-1 primo/composto*
 
-> Provare le seguenti affermazioni:
-> 
-> (1) Se $2n - 1$ è un primo, allora per qualsiasi gruppo di integri positivi distinti $a_1, a_2, \cdots, a_n$ (dove $a_{n+1} = a_1$), esiste $j \in \{1, 2, \cdots, n\}$ tale che $\dfrac{a_j + a_{j+1}}{(a_j, a_{j+1})} \ge 2n - 1$.
-> 
-> (2) Se $2n - 1$ è un numero composto, allora esiste un gruppo di integri positivi distinti $a_1, a_2, \cdots, a_n$ tale che $\dfrac{a_j + a_{j+1}}{(a_j, a_{j+1})} < 2n - 1$ per qualsiasi $j \in \{1, 2, \cdots, n\}$.
-> 
-> Qui $(x, y)$ indica il più grande divisore comune degli integri positivi $x$ e $y$.
+> Dimostrare le seguenti affermazioni:
+>
+> (1) Se $2n - 1$ è un numero primo, allora per ogni insieme di interi positivi distinti $a_1, a_2, \cdots, a_n$ (dove $a_{n+1} = a_1$), esiste $j \in \{1, 2, \cdots, n\}$ tale che $\dfrac{a_j + a_{j+1}}{(a_j, a_{j+1})} \ge 2n - 1$.
+>
+> (2) Se $2n - 1$ è un numero composto, allora esiste un insieme di interi positivi distinti $a_1, a_2, \cdots, a_n$ tale che $\dfrac{a_j + a_{j+1}}{(a_j, a_{j+1})} < 2n - 1$ per ogni $j \in \{1, 2, \cdots, n\}$.
+>
+> Qui $(x, y)$ denota il massimo comune divisore degli interi positivi $x$ e $y$.
 
 ![[src_cn_b07_w62__q02.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmo_2007#q02|src_cn_cmo_2007__Q02]]
 
 
 
@@ -102,15 +117,22 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Compare i numeri dei gruppi di funzionamento buoni vs. gruppi di funzionamento buoni secondari*
+*Confronta il numero di gruppi operativi buoni rispetto a quelli secondariamente buoni*
 
-> Lasciate che $a_1, a_2, \cdots, a_{11}$ siano 11 numeri interi positivi distinti e scrivete i numeri $1, 2, \cdots, 2007$ in ordine sulla lavagna. Ora definiamo un gruppo di 22 operazioni ordinate.
-> 
-> L'operazione $i$ è quella di prendere qualsiasi numero sulla lavagna e aggiungere $a_i$ se $1 \leq i \leq 11$, o aggiungere $-a_{i-11}$ se $12 \leq i \leq 22$, quindi scrivere i risultati sulla lavagna. Se il risultato finale è una permutazione pari di $1, 2, \cdots, 2007$, allora lo chiamiamo un gruppo "buono". Se il risultato finale è una permutazione odd di $1, 2, \cdots, 2007$, allora lo chiamiamo un gruppo di "seconda buona".
-> 
-> La nostra domanda è: quale è più grande? Il numero dei gruppi "buoni" o quello dei gruppi "secondi buoni"? E quanti altri?
-> 
-> (Nota: supponiamo che $x_1, x_2, \cdots, x_{2007}$ sia una permutazione di $1, 2, \cdots, 2007$. Lo chiamiamo una permutazione pari se $\prod_{1 \leq i < j \leq 2007}(x_i - x_j) > 0$ ($< 0$), e altrimenti una permutazione pari.)
+> Sia $a_1, a_2, \cdots, a_{11}$ un insieme di 11 interi positivi distinti, e scriviamo i numeri $1, 2, \cdots, 2007$ in ordine sulla lavagna. Ora definiamo un gruppo di 22 operazioni ordinate.
+>
+> La $i$-esima operazione consiste nel prendere un qualunque numero sulla lavagna e, se $1 \leq i \leq 11$, aggiungervi $a_i$, oppure, se $12 \leq i \leq 22$, aggiungervi $-a_{i-11}$; quindi si scrivono i risultati sulla lavagna. Se il risultato finale è una permutazione pari di $1, 2, \cdots, 2007$, allora lo chiamiamo gruppo 'buono'. Se il risultato finale è una permutazione dispari di $1, 2, \cdots, 2007$, allora lo chiamiamo gruppo 'secondo buono'.
+>
+> La nostra domanda è: cosa è maggiore? Il numero di gruppi 'buoni' o quello di gruppi 'secondo buoni'? E di quanto in più?
+>
+> (Osservazione: supponiamo che $x_1, x_2, \cdots, x_{2007}$ sia una permutazione di $1, 2, \cdots, 2007$. La chiamiamo permutazione pari (dispari) se $\prod_{1 \leq i < j \leq 2007}(x_i - x_j) > 0$ ($< 0$); altrimenti è una permutazione dispari.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2007#q03|src_cn_cmo_2007__Q03]]
 
 
 
@@ -133,9 +155,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circumcenter, incenter, punti tangenti; prova OIMN*
+*Centro circoscritto, centro incircoscritto, punti di tangenza; dimostrare che OI è perpendicolare a MN*
 
-> Supponiamo che i punti $O$ e $I$ siano rispettivamente il circoncentro e l'incentro di $\triangle ABC$, e che il cerchio di $\triangle ABC$ sia tangente ai lati $BC$, $CA$, $AB$ rispettivamente ai punti $D$, $E$ e $F$. Le linee $FD$ e $CA$ sono intercettate al punto $P$, mentre le linee $DE$ e $AB$ sono intercettate al punto $Q$. E i punti $M$ e $N$ sono il punto medio dei segmenti $PE$ e $QF$ rispettivamente. Provare che $OI \perp MN$.
+> Si supponga che i punti $O$ e $I$ siano rispettivamente il circocentro e l'incentro di $\triangle ABC$, e che la circonferenza inscritta di $\triangle ABC$ sia tangente ai lati $BC$, $CA$, $AB$ nei punti $D$, $E$, $F$ rispettivamente. Le rette $FD$ e $CA$ si intersecano nel punto $P$, mentre le rette $DE$ e $AB$ si intersecano nel punto $Q$. Inoltre, i punti $M$, $N$ sono rispettivamente i punti medi dei segmenti $PE$, $QF$. Dimostrare che $OI \perp MN$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2007#q04|src_cn_cmo_2007__Q04]]
 
 
 
@@ -158,9 +187,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza limitata che soddisfa la condizione di somma; dimostrare un < 1/n*
+*Successione limitata che soddisfa la condizione sulla somma; dimostrare che aₙ < 1/n*
 
-> Supponiamo che una sequenza di numeri limitata $\{a_n\}$ soddisfi $$a_n \leq \sum_{k=n}^{2n+2006} \frac{a_k}{k+1}, \quad n = 1, 2, 3, \cdots.$$ Provi che $a_n < \frac{1}{n}$, $n = 1, 2, 3, \cdots$.
+> Supponiamo che una successione numerica limitata $\{a_n\}$ soddisfi $$a_n \leq \sum_{k=n}^{2n+2006} \frac{a_k}{k+1}, \quad n = 1, 2, 3, \cdots.$$. Dimostrare che $a_n < \frac{1}{n}$, $n = 1, 2, 3, \cdots$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2007#q05|src_cn_cmo_2007__Q05]]
 
 
 
@@ -184,8 +220,13 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il più piccolo n≥9 tale che qualsiasi interi permettano b∈{4,7} con 9|somma*
+*Trovare il più piccolo n≥9 tale che, per qualsiasi insieme di interi, esista b∈{4,7} con 9|sum*
 
-> Trovare il più piccolo intero positivo $n \geq 9$ che soddisfi che per qualsiasi gruppo di numeri interi $a_1, a_2, \cdots, a_n$, esiste sempre $b_1, b_2, \cdots, b_n \in \{4, 7\}$ tale che $9 \mid (a_1 b_1 + a_2 b_2 + \cdots + a_n b_n)$.
+> Trovare il più piccolo intero positivo $n \geq 9$ tale che, per ogni insieme di interi $a_1, a_2, \cdots, a_n$, esistano sempre degli $b_1, b_2, \cdots, b_n \in \{4, 7\}$ tali che $9 \mid (a_1 b_1 + a_2 b_2 + \cdots + a_n b_n)$.
 
-**Risposta:** 13
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2007#q06|src_cn_cmo_2007__Q06]]

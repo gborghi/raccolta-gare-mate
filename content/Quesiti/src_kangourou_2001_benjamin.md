@@ -37,9 +37,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Calculate 2x0+0x1*
+*The value of 2 times 0 plus 0 times 1*
 
-> The kangaroo calculates:
+> The kangaroo works out:
 > 2 × 0 + 0 × 1.
 > The result is
 >
@@ -47,9 +47,12 @@ level: kangourou
 > - **(B)** 0
 > - **(C)** 1
 > - **(D)** 2001
-> - **(E)** 3. Kangourou 15 March 2001, category Benjamin. Page No. 2
+> - **(E)** 3. Kangourou 15 March 2001, Benjamin category. Page no. 2
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_benjamin#q01|src_kangourou_2001_benjamin__Q01]]
 
 
 
@@ -74,13 +77,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Folded and triangular cut sheet*
+*Which sheet matches the folded one in the figure*
 
 ![[src_kangourou_2001_benjamin__prob2.png]]
 
-> Which of the following sheets corresponds to the one folded in the figure?
+> Which of the following sheets matches the one folded in the figure?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_benjamin#q02|src_kangourou_2001_benjamin__Q02]]
 
 
 
@@ -110,9 +116,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Clock delay after 24 hours*
+*How late grandfather's clock is after 24 hours*
 
-> Grandpa's old watch lags 20 seconds an hour. What will be the clock's delay after 24 hours?
+> Grandfather's old clock loses 20 seconds every hour. How late will the clock be after 24 hours?
 >
 > - **(A)** 7 minutes
 > - **(B)** 8 minutes
@@ -120,7 +126,10 @@ level: kangourou
 > - **(D)** 10 minutes
 > - **(E)** 11 minutes.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_benjamin#q03|src_kangourou_2001_benjamin__Q03]]
 
 
 
@@ -145,13 +154,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Black part of the figure*
+*What fraction of the figure is coloured black*
 
 ![[src_kangourou_2001_benjamin__prob4.png]]
 
-> How much of this figure is black?
+> What part of this figure is coloured black?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_benjamin#q04|src_kangourou_2001_benjamin__Q04]]
 
 
 
@@ -181,9 +193,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Passengers with empty seats every two*
+*Passengers when one seat in three is empty*
 
-> There are 108 seats on a passenger plane. There's an empty seat for every two passengers. How many passengers are on that plane?
+> There are 108 seats on a passenger aeroplane. One seat is empty for every two passengers. How many passengers are on that aeroplane?
 >
 > - **(A)** 36
 > - **(B)** 42
@@ -191,7 +203,10 @@ level: kangourou
 > - **(D)** 64
 > - **(E)** 72.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_benjamin#q05|src_kangourou_2001_benjamin__Q05]]
 
 
 
@@ -221,9 +236,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Product S times F of siblings
+*The product of Sabina's sisters and brothers*
 
-> Henry has three sisters and five brothers. His sister Sabina has "S" sisters and "F" brothers. What is the product of S times F?
+> Enrico has three sisters and five brothers. His sister Sabina has "S" sisters and "F" brothers. What is the product of S and F?
 >
 > - **(A)** 8
 > - **(B)** 10
@@ -231,7 +246,10 @@ Product S times F of siblings
 > - **(D)** 15
 > - **(E)** 18.
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_benjamin#q06|src_kangourou_2001_benjamin__Q06]]
 
 
 
@@ -256,13 +274,16 @@ Product S times F of siblings
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major grey area between the figures*
+*Which figure has the greater grey area*
 
 ![[src_kangourou_2001_benjamin__prob7.png]]
 
-> In which figure is the grey area of the surface larger?
+> In which figure is the area of the surface coloured grey greater?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_benjamin#q07|src_kangourou_2001_benjamin__Q07]]
 
 
 
@@ -294,17 +315,21 @@ Product S times F of siblings
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number not obtained by doubling 4 times*
+*Which number cannot be the result of four doublings*
 
-> Chiara thinks of an integer. It doubles that number, doubles the result again, doubles it again, and then doubles it again. Which of the following numbers certainly cannot be the result?
+> Chiara thinks of a whole number. She doubles that number, doubles the result again, doubles it once more, and then once more again. Which of the following numbers certainly cannot be the result?
 >
 > - **(A)** 80
 > - **(B)** 1200
 > - **(C)** 48
 > - **(D)** 84
-> - **(E)** 880. (Kangourou 15 March 2001, category Benjamin. Page No. 3
+> - **(E)** 880. . 15 1 (E) 12 1 (D) 10 1 (C) 8 1 (B) 6 1 ) A ( Kangourou 15 March 2001, Benjamin category. Page no. 3
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_benjamin#q08|src_kangourou_2001_benjamin__Q08]]
 
 
 
@@ -336,19 +361,22 @@ Product S times F of siblings
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number represented by Figure 3*
+*Which number the third figure stands for*
 
 ![[src_kangourou_2001_benjamin__prob9.png]]
 
-> If it is agreed that figure 1 represents number 14 and figure 2 number 123, which number represents figure 3?
+> If we agree that figure 1 stands for the number 14 and figure 2 for the number 123, which number does figure 3 stand for?
 >
 > - **(A)** 1246
 > - **(B)** 2461
 > - **(C)** 2641
 > - **(D)** 1462
-> - **(E)** None of the above.
+> - **(E)** none of the above.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_benjamin#q09|src_kangourou_2001_benjamin__Q09]]
 
 
 
@@ -382,21 +410,23 @@ Product S times F of siblings
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum matches for 11 squares*
+*Fewest matches to add so as to obtain exactly 11 squares*
 
 ![[src_kangourou_2001_benjamin__prob10.png]]
 
-> Find the minimum number of matches that must be
-> added to the figure in order to obtain exactly
-> 11 squares.
+> Find the smallest number of matches that must be added to the figure so as to obtain exactly 11 squares.
 >
 > - **(A)** 2
 > - **(B)** 3
 > - **(C)** 4
 > - **(D)** 5
-> - **(E)** 6. Questions from No. 11 to No. 20 are worth 4 points each
+> - **(E)** 6. Questions 11 to 20 are worth 4 points each
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_benjamin#q10|src_kangourou_2001_benjamin__Q10]]
 
 
 
@@ -427,17 +457,20 @@ Product S times F of siblings
 <div class="qlang-split" data-lang="en"></div>
 
 
-When Nikita and Sasha meet again
+*When Nikita and Sasha next cross the start line together*
 
-> Nikita and Sasha are running on the stadium track. Nikita takes 3 minutes for each lap, while Sasha takes 4 minutes for each lap. They leave at the same time. After how many minutes will they still cross the starting line together?
+> Nikita and Sasha run on the stadium track. Nikita takes 3 minutes for each lap, while Sasha takes 4 minutes for each lap. They start at the same moment. After how many minutes will they next cross the starting line together?
 >
-> - **(A)** After 6 minutes
-> - **(B)** After 8 minutes
-> - **(C)** After 10 minutes
-> - **(D)** After 12 minutes
-> - **(E)** You can't answer, because it depends on the length of the track.
+> - **(A)** after 6 minutes
+> - **(B)** after 8 minutes
+> - **(C)** after 10 minutes
+> - **(D)** after 12 minutes
+> - **(E)** it is not possible to answer, because it depends on the length of the track.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_benjamin#q11|src_kangourou_2001_benjamin__Q11]]
 
 
 
@@ -468,17 +501,20 @@ When Nikita and Sasha meet again
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Edward's euros with third coins*
+*How many euros Edoardo has in 201 coins*
 
-> Edward has 201 coins. One third of these are 1 euro coins, one third are 5 euro coins and the rest are 10 euro coins. How many euros does Edward own?
+> Edoardo has 201 coins. One third of them are 1-euro coins, one third are 5-euro coins, and the rest are 10-euro coins. How many euros does Edoardo have?
 >
 > - **(A)** 1072
 > - **(B)** 201
 > - **(C)** 972
 > - **(D)** 1062
-> - **(E)** 2001. Kangourou 15 March 2001, category Benjamin. Page No. 4
+> - **(E)** 2001. Kangourou 15 March 2001, Benjamin category. Page no. 4
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_benjamin#q12|src_kangourou_2001_benjamin__Q12]]
 
 
 
@@ -508,18 +544,19 @@ When Nikita and Sasha meet again
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Missing centimetres for Giorgio*
+*How many centimetres Giorgio still has to run*
 
-> We are at the final of the 10 kilometres for the school athletics
-> competitions. Giorgio runs for 9 641 metres, 3 456 decimetres and 12 340
-> millimetres and after this distance he collapses to the ground exhausted and can no
-> longer continue. How many centimetres is he missing to reach the
-> finish line?
+> We are at the final of the 10 kilometres in the school athletics. Giorgio runs for 9 641 metres, 3 456 decimetres and 12 340 millimetres, and after that distance he collapses to the ground exhausted and cannot go on. How many centimetres does he still lack to reach the finish line?
 > (A) 1 060 cm
-> (B) 160 cm  (C) 106 cm   (D) 100 cm
+> (B) 160 cm
+> (C) 106 cm
+> (D) 100 cm
 > (E) 96 cm.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_benjamin#q13|src_kangourou_2001_benjamin__Q13]]
 
 
 
@@ -550,11 +587,11 @@ When Nikita and Sasha meet again
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last train number of the train*
+*The number of the last carriage of the kangaroo's little train*
 
 ![[src_kangourou_2001_benjamin__prob14.png]]
 
-> What's the number of the last wagon on the kangaroo train?
+> What is the number of the last carriage of the kangaroo's little train?
 >
 > - **(A)** 52
 > - **(B)** 64
@@ -562,7 +599,10 @@ When Nikita and Sasha meet again
 > - **(D)** 72
 > - **(E)** 88.
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_benjamin#q14|src_kangourou_2001_benjamin__Q14]]
 
 
 
@@ -593,9 +633,9 @@ When Nikita and Sasha meet again
 <div class="qlang-split" data-lang="en"></div>
 
 
-Red dragon heads
+*How many heads the red dragon has*
 
-> If the red dragon had six more heads than the green dragon, they would have a total of 34 heads. But the red dragon has six fewer heads than the green dragon. How many heads does the red dragon have?
+> If the red dragon had 6 more heads than the green dragon, they would have 34 heads in all. But the red dragon has 6 fewer heads than the green dragon. How many heads does the red dragon have?
 >
 > - **(A)** 6
 > - **(B)** 8
@@ -603,7 +643,10 @@ Red dragon heads
 > - **(D)** 14
 > - **(E)** 16.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_benjamin#q15|src_kangourou_2001_benjamin__Q15]]
 
 
 
@@ -634,9 +677,9 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of a second rectangular field*
+*The length of a field whose area and width are both half*
 
-> The length of a rectangular field is 80 m and the area is 3 200 m². Find the length of another rectangular field whose area and width are both half the corresponding of the first field.
+> The length of a rectangular field is 80 m and the area is 3 200 m². Find the length of another rectangular field whose area and whose width are both half of the corresponding measures of the first field.
 >
 > - **(A)** 20 m
 > - **(B)** 40 m
@@ -644,7 +687,10 @@ Red dragon heads
 > - **(D)** 80 m
 > - **(E)** 100 m.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_benjamin#q16|src_kangourou_2001_benjamin__Q16]]
 
 
 
@@ -676,17 +722,20 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time for other subjects of Susanna*
+*Time Susanna spends on subjects other than mathematics and geography*
 
-> Susanna takes exactly one hour to do all her homework. She spends a third of her time on math and two-fifths of the remaining time on geography. How long does it take to do the other subjects?
+> Susanna takes exactly one hour to do all her homework. She spends one third of her time on mathematics and two fifths of the remainder on geography. How long does she spend on the homework for the other subjects?
 >
-> - **(A)** 12 minutes .
-> - **(B)** 20 minutes .
-> - **(C)** 24 minutes .
-> - **(D)** 36 minutes .
+> - **(A)** 12 minutes
+> - **(B)** 20 minutes
+> - **(C)** 24 minutes
+> - **(D)** 36 minutes
 > - **(E)** 40 minutes.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_benjamin#q17|src_kangourou_2001_benjamin__Q17]]
 
 
 
@@ -716,16 +765,20 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Susy's current age*
+*How old Susy is now*
 
-> Three years ago the three triplets Paolo, Simone and Billy with their sister Susy, who was four years "older" than them, added up together to 24 years. How old is Susy currently?
+> Three years ago the three twins Paolo, Simone and Billy, together with their sister Susy, four years older than they are, added up to 24 years. How old is Susy now?
 >
 > - **(A)** 5 years
 > - **(B)** 8 years
 > - **(C)** 9 years
-> - **(D)** 12 years (E) 15 years. Kangourou 15 March 2001, category Benjamin. Page No. 5
+> - **(D)** 12 years
+> - **(E)** 15 years. Kangourou 15 March 2001, Benjamin category. Page no. 5
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_benjamin#q18|src_kangourou_2001_benjamin__Q18]]
 
 
 
@@ -760,11 +813,11 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pamela garden area*
+*The area of Pamela's garden*
 
 ![[src_kangourou_2001_benjamin__prob19.png]]
 
-> Pamela's garden has the shape shown in the figure next to it. All angles are straight (90°), and the lengths of the individual sides are expressed in metres. So the area of the garden, in square meters, is
+> Pamela's garden has the shape shown in the figure beside it. All the angles are right angles (90°), and the lengths of the individual sides are given in metres. Then the area of the garden, in square metres, is
 >
 > - **(A)** 700
 > - **(B)** 750
@@ -772,7 +825,10 @@ Red dragon heads
 > - **(D)** 850
 > - **(E)** 900.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_benjamin#q19|src_kangourou_2001_benjamin__Q19]]
 
 
 
@@ -804,20 +860,20 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cristina's Euros divided into parts*
+*How many euros Cristina receives*
 
-> During their holidays Alberto, Brenda and Cristina earned together
-> 280 Euros. Alberto worked twice the time of Brenda and four times the
-> time of Cristina. They decide to divide their earnings fairly.
-> How many Euros does Cristina get?
+> During their holidays Alberto, Brenda and Cristina earned 280 euros together. Alberto worked twice as long as Brenda and four times as long as Cristina. They decide to share their earnings fairly. How many euros does Cristina get?
 >
 > - **(A)** 30
 > - **(B)** 40
 > - **(C)** 50
 > - **(D)** 60
-> - **(E)** 70. Questions from No. 21 to No. 30 are worth 5 points each
+> - **(E)** 70. Questions 21 to 30 are worth 5 points each
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_benjamin#q20|src_kangourou_2001_benjamin__Q20]]
 
 
 
@@ -850,11 +906,11 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of parts with the question mark*
+*The length of each of the two equal parts marked with a question mark*
 
 ![[src_kangourou_2001_benjamin__prob21.png]]
 
-> The seven gray sticks in the figure are the same length; the free space between one and the next on the same line is always the same. What is the length of each of the two equal parts marked with a question mark?
+> The seven grey sticks in the figure have the same length; the free space between one of them and the next on the same row is always the same. What is the length of each of the two equal parts marked with a question mark?
 >
 > - **(A)** 1 cm
 > - **(B)** 2 cm
@@ -862,7 +918,10 @@ Red dragon heads
 > - **(D)** 5 cm
 > - **(E)** 8 cm.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_benjamin#q21|src_kangourou_2001_benjamin__Q21]]
 
 
 
@@ -898,19 +957,22 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cabins on the panoramic wheel*
+*How many cabins the big wheel has*
 
 ![[src_kangourou_2001_benjamin__prob22.png]]
 
-> The biggest attraction of a Luna Park is the large panoramic wheel (the figure shows a similar but smaller one). The cabins are equidistant and numbered 1, 2, 3, ... At the moment when cabin n. 25 is in the lowest position cabin n. 8 is in the highest position. How many cabins are there on that panoramic wheel?
+> The greatest attraction at a funfair is the big wheel (the figure shows a similar but smaller one). The cabins are equally spaced and numbered 1, 2, 3, …. At the moment when cabin no. 25 is at the lowest position, cabin no. 8 is at the highest position. How many cabins are there on that big wheel?
 >
 > - **(A)** 33
 > - **(B)** 34
 > - **(C)** 35
 > - **(D)** 36
-> - **(E)** 37. Kangourou 15 March 2001, category Benjamin. Page N. 6
+> - **(E)** 37. Kangourou 15 March 2001, Benjamin category. Page no. 6
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_benjamin#q22|src_kangourou_2001_benjamin__Q22]]
 
 
 
@@ -941,11 +1003,9 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Beeches for oxygen for 34 students*
+*How many beeches are needed to supply oxygen for 34 students*
 
-> A 100-year-old beech produces 1.7 kg of oxygen in one hour. How many beeches
-> of this type are needed to supply oxygen for one hour to 34 students, knowing
-> that each student consumes 0.7 kg of oxygen in one hour?
+> A 100-year-old beech produces 1.7 kg of oxygen in an hour. How many beeches of this kind are needed to supply oxygen for one hour to 34 students, given that each student uses 0.7 kg of oxygen in an hour?
 >
 > - **(A)** 10
 > - **(B)** 12
@@ -953,7 +1013,10 @@ Red dragon heads
 > - **(D)** 15
 > - **(E)** 21.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_benjamin#q23|src_kangourou_2001_benjamin__Q23]]
 
 
 
@@ -995,7 +1058,7 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Oblique square area*
+*The area of the square set at an angle*
 
 ![[src_kangourou_2001_benjamin__prob24.png]]
 
@@ -1009,7 +1072,7 @@ Red dragon heads
 \end{document}
 ```
 
-> The largest square has an area of 16, the smallest has an area of 4. What's the area of the square in an oblique position?
+> The largest square has area 16, the smallest has area 4. What is the area of the square set at an angle?
 >
 > - **(A)** 8
 > - **(B)** 8,5
@@ -1017,7 +1080,10 @@ Red dragon heads
 > - **(D)** 10,5
 > - **(E)** 12.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_benjamin#q24|src_kangourou_2001_benjamin__Q24]]
 
 
 
@@ -1053,11 +1119,11 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum points on the dice tower*
+*The greatest total of pips on the surface of a tower of six dice*
 
 ![[src_kangourou_2001_benjamin__prob25.png]]
 
-> In a common dice, the sum of the points on the opposite faces always gives seven. Cecilia builds a tower with six identical common dice, gluing the faces as shown in the figure. What is the maximum number of points Cecilia can score by adding up the values obtained on the surface of the tower?
+> On an ordinary die the pips on opposite faces always add up to seven. Cecilia builds a tower of six identical ordinary dice, gluing the faces as shown in the figure. What is the greatest number of pips Cecilia can obtain by adding the values on the surface of the tower?
 >
 > - **(A)** 106
 > - **(B)** 91
@@ -1065,7 +1131,11 @@ Red dragon heads
 > - **(D)** 84
 > - **(E)** 96.
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_benjamin#q25|src_kangourou_2001_benjamin__Q25]]
 
 
 
@@ -1098,9 +1168,11 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers in multiplication by 45xA3*
+*The sum of the four digits that make a multiplication exact*
 
-> Replace each letter with a digit so that the result of multiplication is exact. 45 × A3 = 3BCD The sum of the four digits inserted is:
+> Replace each letter by a digit so that the result of the multiplication is exact.
+> 45 × A3 = 3BCD
+> The sum of the four digits inserted is:
 >
 > - **(A)** 20
 > - **(B)** 21
@@ -1108,7 +1180,11 @@ Red dragon heads
 > - **(D)** more than 21
 > - **(E)** less than 17.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_benjamin#q26|src_kangourou_2001_benjamin__Q26]]
 
 
 
@@ -1142,11 +1218,11 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining cubes after the holes*
+*How many unit cubes remain after holes are drilled through a cube of side 5*
 
 ![[src_kangourou_2001_benjamin__prob27.png]]
 
-> In a side 5 cube, constructed by adjoining side 1 cubes, holes were made (from side to side) as shown in the figure. How many unit cubes are left?
+> In a cube of side 5, built by placing cubes of side 1 side by side, holes have been made (from one side to the other) as shown in the figure. How many cubes of side 1 remain?
 >
 > - **(A)** 88
 > - **(B)** 80
@@ -1154,7 +1230,11 @@ Red dragon heads
 > - **(D)** 96
 > - **(E)** 85.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_benjamin#q27|src_kangourou_2001_benjamin__Q27]]
 
 
 
@@ -1200,7 +1280,7 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of hexagon given star area*
+*The area of a regular hexagon, given the area of the star*
 
 ![[src_kangourou_2001_benjamin__prob28.png]]
 
@@ -1222,9 +1302,13 @@ Red dragon heads
 > - **(B)** 9
 > - **(C)** 12
 > - **(D)** 15
-> - **(E)** 18. Kangourou 15 March 2001, category Benjamin. Page N. 7
+> - **(E)** 18. Kangourou 15 March 2001, Benjamin category. Page no. 7
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_benjamin#q28|src_kangourou_2001_benjamin__Q28]]
 
 
 
@@ -1251,13 +1335,17 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solid with a larger total surface area*
+*Which solid of equal volume has the greatest total surface*
 
 ![[src_kangourou_2001_benjamin__prob29.png]]
 
-> All of the following solids, obtained by adjoining identical cubes, have the same volume. Which has the largest total surface area?
+> All the following solids, obtained by placing identical little cubes side by side, have the same volume. Which has the greatest total surface area?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_benjamin#q29|src_kangourou_2001_benjamin__Q29]]
 
 
 
@@ -1289,16 +1377,18 @@ Red dragon heads
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum difference between two 3-digit numbers*
+*The smallest difference between two three-digit numbers using 1 to 6 once each*
 
-> Using the digits from 1 to 6 only once each, you can form two three-digit numbers
-> (for example 645 and 321, which differ by 324). Find the two three-digit numbers
-> whose difference is as small as possible. The smallest difference is:
+> Using each of the digits from 1 to 6 once, you can form two three-digit numbers (for example 645 and 321, which differ by 324). Look for the two three-digit numbers whose difference is as small as possible. The smallest difference is:
 >
 > - **(A)** 69
 > - **(B)** 56
 > - **(C)** 49
 > - **(D)** 47
-> - **(E)** 38. Answers category Benjamin, 15 March 2001. Page No. 1 Answers Category Benjamin Competition of 15 March 2001
+> - **(E)** 38. Answers, Benjamin category, 15 March 2001. Page no. 1 Answers, Benjamin category, contest of 15 March 2001
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_benjamin#q30|src_kangourou_2001_benjamin__Q30]]

@@ -34,9 +34,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti i quadrati perfetti parziali a 3 cifre la cui somma di numeri è un quadrato perfetto*
+*Trovare tutti i quadrati perfetti dispari di tre cifre il cui somma delle cifre sia un quadrato perfetto*
 
-> Trova tutti i numeri naturali a tre cifre $n$ che soddisfano tutte le seguenti proprietà: \begin{itemize} \item $n$ è odd; \item $n$ è un quadrato perfetto; \item la somma delle cifre di $n$ è un quadrato perfetto. # Finire #
+> Trovare tutti i numeri naturali di tre cifre $n$ che soddisfano tutte le seguenti proprietà:
+> \begin{itemize}
+> \item $n$ è dispari; \item $n$ è un quadrato perfetto; \item la somma delle cifre di $n$ è un quadrato perfetto.
+> \end{itemize}
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n1_f3#q01|src_obm_2004_n1_f3__Q01]]
 
 
 
@@ -61,11 +71,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i pezzi tricolori equilaterali triangolari distinti (lato 2) fino alla rotazione*
+*Conta i pezzi distinti a tre colori, a forma di triangolo equilatero di lato 2, a meno di rotazione*
 
-> Con quattro triangoli equilaterali di lato $1$ è possibile formare un pezzo a forma di triangolo equilaterale di lato $2$, come mostrato nella figura. I quattro piccoli triangoli che compongono il pezzo sono colorati in tre possibili colori: bianco, nero e grigio. Due pezzi sono considerati uguali quando uno può essere ottenuto dall'altro mediante rotazione. Quanti pezzi diversi si possono formare alle condizioni indicate?
+> Con quattro triangoli equilateri di lato $1$ è possibile formare un pezzo a forma di triangolo equilatero di lato $2$, come mostrato nella figura. I quattro piccoli triangoli che compongono il pezzo sono colorati con tre colori possibili: bianco, nero e grigio. Due pezzi si considerano uguali quando uno può essere ottenuto dall'altro mediante una rotazione. Quanti pezzi diversi si possono formare nelle condizioni date?
 
 ![[src_obm_2004_n1_f3__q02.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n1_f3#q02|src_obm_2004_n1_f3__Q02]]
 
 
 
@@ -92,11 +109,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che un numero specifico di grandi dimensioni è composto*
+*Dimostrare che un numero intero grande specifico è composto*
 
-> Diciamo che un numero naturale è composto se può essere scritto come il prodotto di due numeri naturali entrambi più grandi di$1$. Ad esempio, $91$ è composto perché possiamo scrivere $91 = 7 \times 13$.
-> 
-> Provare che il numero $$\frac{1}{2}\!\left(2^{2004}+2\right)+1$$ è composto.
+> Diciamo che un numero naturale è \emph{composto} se può essere scritto come prodotto di due numeri naturali entrambi maggiori di $1$. Ad esempio, $91$ è composto perché possiamo scrivere $91 = 7 \times 13$.
+>
+> Dimostrare che il numero
+> $$\frac{1}{2}\!\left(2^{2004}+2\right)+1$$
+> è composito.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n1_f3#q03|src_obm_2004_n1_f3__Q03]]
 
 
 
@@ -127,13 +153,23 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine la strategia di vincita in 2 ×n gioco di posizionamento di domino*
+*Determinare la strategia vincente nel gioco di posizionamento dei domino 2×n*
 
-> Arnaldo e Bernaldo giocano su una tavola. I pezzi del gioco sono $1 \times 2$ domino. Inizialmente Arnaldo pone un domino che copre esattamente due celle della tavola, orizzontale o verticale. I giocatori si alternano poi, ognuno di loro mettendo un domino che copre esattamente due celle della tavola, sempre coprendo esattamente due celle. Non è consentito posizionare un pezzo sopra un pezzo già posto. Il giocatore che non riesce a piazzare un pezzo perde.
-> 
-> Quale dei due giocatori ha una strategia vincente  cioè, una strategia che porta alla vittoria non importa quali mosse fa l'avversario  per: \begin{enumerate} \item[(a)] $n = 2004$? \item[(b)] $n = 2005$? \end{enumere}
+> Arnaldo e Bernaldo giocano una partita su una scacchiera $2 \times n$. Le pedine del gioco sono $1 \times 2$ domino. Inizialmente Arnaldo posiziona un domino che copre esattamente due caselle della scacchiera, o in orizzontale o in verticale. Poi i giocatori si alternano, e ciascuno posiziona un domino che copre esattamente due caselle della scacchiera, coprendo sempre esattamente due caselle. Non è permesso posizionare una pedina sopra una pedina già posizionata. Perde il giocatore che non può posizionare una pedina.
+>
+> Quale dei due giocatori possiede una strategia vincente — cioè una strategia che porta alla vittoria indipendentemente dalle mosse dell'avversario — per:
+> \begin{enumerate}
+> \item[(a)] $n = 2004$? \item[(b)] $n = 2005$?
+> \end{enumerate}
 
 ![[src_obm_2004_n1_f3__q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n1_f3#q04|src_obm_2004_n1_f3__Q04]]
 
 
 
@@ -162,12 +198,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine se un poligono a 13 lati può piastrellare il piano tramite copie di traduzione*
+*Determinare se un poligono con 13 lati può tassellare il piano mediante copie ottenute per traslazione*
 
-> Considerate il poligono laterale $6$ $\boldsymbol{P}$ mostrato nella figura.
-> 
-> Con le copie di $\boldsymbol{P}$ possiamo tessere l'intero piano senza sovrapposizioni, come mostrato nella figura.
-> 
-> Esiste un poligono laterale $13$ con il quale è possibile tessere l'intero piano utilizzando le sue copie senza sovrapposizioni? In caso affermativo, mostrare un poligono del genere. Se no, spiegate perché no.
+> Si consideri il poligono $\boldsymbol{P}$ a $6$ lati mostrato nella figura.
+>
+> Con delle copie di $\boldsymbol{P}$ possiamo rivestire l'intero piano senza sovrapposizioni, come mostrato nella figura.
+>
+> Esiste un poligono con $13$ lati con cui sia possibile tassellare l'intero piano utilizzando le sue copie senza sovrapposizioni? In caso affermativo, si mostri un tale poligono. In caso negativo, si spieghi perché no.
 
 ![[src_obm_2004_n1_f3__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n1_f3#q05|src_obm_2004_n1_f3__Q05]]

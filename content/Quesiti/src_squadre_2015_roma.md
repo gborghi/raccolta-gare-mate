@@ -24,19 +24,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0601
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest prime dividing 66711*
+*What is the largest prime number that divides 66711?*
 
 ![[src_squadre_2015_roma__prob1.png]]
 
-> What is the largest prime number dividing 66711?
+> What is the largest prime number that divides 66711?
 
-**Answer:** 0601
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2015_roma#q01|src_squadre_2015_roma__Q01]]
 
 
 
@@ -56,19 +59,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1820
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Points of a regular hexagon projecting onto every side*
+*The area of a regular hexagon is 5460 cm². Find the area (expressed in cm²) of…*
 
 ![[src_squadre_2015_roma__prob2.png]]
 
-> The area of a regular hexagon is 5460 cm^2. Find the area (in cm^2) of the set S made up of all and only the points P inside the hexagon with the following property: whichever side of the hexagon is taken, the projection of P on the line containing that side belongs to the side.
+> The area of a regular hexagon is 5460 cm². Find the area (expressed in cm²) of the set S consisting of all and only those points P that lie inside the hexagon and have the following property: for any side of the hexagon, the projection of P onto the line on which the side lies belongs to the side.
 
-**Answer:** 1820
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2015_roma#q02|src_squadre_2015_roma__Q02]]
 
 
 
@@ -87,19 +93,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0080
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A sphere cut by 10 planes in a cubic room*
+*A sphere, suspended in a cubic room, is cut into many pieces using 10…*
 
 ![[src_squadre_2015_roma__prob3.png]]
 
-> A sphere, hanging in a cubic room, is cut into many pieces using 10 planes, each parallel to a wall or to the floor. What is the maximum number of pieces that can be obtained?
+> A sphere, suspended in a cubic room, is cut into many pieces using 10 planes, each parallel to a wall or to the floor. What is the maximum number of pieces that can be obtained?
 
-**Answer:** 0080
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2015_roma#q03|src_squadre_2015_roma__Q03]]
 
 
 
@@ -117,19 +126,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0210
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Anagrams of PISTOLA giving SPIA*
+*How many anagrams of PISTOLA are there such that, if the letters L, O… are deleted?*
 
 ![[src_squadre_2015_roma__prob4.png]]
 
-> How many anagrams of PISTOLA are there such that, if the letters L, O and T are deleted, the word SPIA is obtained?
+> How many anagrams of PISTOLA are there such that, if the letters L, O, and T are deleted, the word SPIA is obtained?
 
-**Answer:** 0210
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2015_roma#q04|src_squadre_2015_roma__Q04]]
 
 
 
@@ -148,19 +160,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2002
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*5 numbers from 1 to 50 pairwise at least 10 apart*
+*In how many ways can I choose a set of 5 integers between 1 and 50 in such a way that…*
 
 ![[src_squadre_2015_roma__prob5.png]]
 
-> In how many ways can I choose a set of 5 integers between 1 and 50 so that the difference between any two of them is at least 10?
+> In how many ways can I choose a set of 5 integers between 1 and 50 such that the difference between any two of them is at least 10?
 
-**Answer:** 2002
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2015_roma#q05|src_squadre_2015_roma__Q05]]
 
 
 
@@ -181,19 +196,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1064
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square divided by two perpendicular lines: maximum area*
+*A square is divided into 4 parts, all with different areas, by 2 straight lines…*
 
 ![[src_squadre_2015_roma__prob6.png]]
 
-> A square is divided into 4 parts, all with different areas, by 2 lines perpendicular to each other and parallel to some side of the square. We know that the area of the smallest part is 6 m^2, while the area of the largest is 600 m^2. Of the 2 remaining parts we only know that they have integer area (in square metres). What is, in square metres, the maximum value the area of the square can have?
+> A square is divided into 4 parts—all with different areas—by 2 lines that are perpendicular to each other and parallel to one of the sides of the square. We know that the area of the smallest part is 6 m², while the area of the largest part is 600 m². Of the 2 remaining parts, we only know that their areas are whole numbers (expressed in square metres). In square metres, what is the maximum possible value of the area of the square?
 
-**Answer:** 1064
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2015_roma#q06|src_squadre_2015_roma__Q06]]
 
 
 
@@ -212,19 +230,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0314
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lattice points within 10^6 of the origin*
+*In the Cartesian plane, let n be the number of points with both coordinates integers…*
 
 ![[src_squadre_2015_roma__prob7.png]]
 
-> In the Cartesian plane, let n be the number of points with both coordinates integers at distance at most 10^6 from the origin. What are the three highest digits of n? (that is, if in decimal notation n = abc........., the answer to give is ”abc”)
+> In the Cartesian plane, let n be the number of points with both coordinates integers that are at most 10^6 away from the origin. What are the three highest digits of n? (That is, if, in decimal notation, n = abc........., the answer to be given is "abc".)
 
-**Answer:** 0314
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2015_roma#q07|src_squadre_2015_roma__Q07]]
 
 
 
@@ -243,19 +264,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1093
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values p(4) for polynomials with coefficients 0, ±1*
+*For how many distinct values of A, which are strictly positive integers not exceeding 9999…*
 
 ![[src_squadre_2015_roma__prob8.png]]
 
-> For how many different values A, strictly positive integers not greater than 9999, is there a polynomial p(x) with all coefficients equal to 0, 1 or −1 such that p(4) = A?
+> For how many distinct values of A—where A is a strictly positive integer not exceeding 9999—does there exist a polynomial p(x) whose coefficients are all equal to 0, 1, or −1, such that p(4) = A?
 
-**Answer:** 1093
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2015_roma#q08|src_squadre_2015_roma__Q08]]
 
 
 
@@ -274,19 +298,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0192
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cyclic quadrilateral with diagonals 20 m: maximum area*
+*A quadrilateral inscribed in a circle has both diagonals equal to…*
 
 ![[src_squadre_2015_roma__prob9.png]]
 
-> A quadrilateral inscribed in a circle has both diagonals equal to 20 m and two consecutive sides measuring 7 m and 15 m respectively. What is, in m^2, the maximum area the quadrilateral can have?
+> A quadrilateral inscribed in a circle has both diagonals equal to 20 m, and two consecutive sides measuring 7 m and 15 m, respectively. What is the maximum area the quadrilateral can have, expressed in m²?
 
-**Answer:** 0192
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2015_roma#q09|src_squadre_2015_roma__Q09]]
 
 
 
@@ -305,19 +332,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9802
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Permutations of 1–100 sorted after deleting one number*
+*State how many permutations of the first 100 positive integers have…*
 
 ![[src_squadre_2015_roma__prob10.png]]
 
-> Say how many permutations of the first 100 positive integers have the following property: deleting one of the numbers, suitably chosen, a list of numbers in increasing order is obtained.
+> State how many permutations of the first 100 positive integers have the following property: by deleting one of the numbers, chosen appropriately, one obtains a list of numbers in ascending order.
 
-**Answer:** 9802
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2015_roma#q10|src_squadre_2015_roma__Q10]]
 
 
 
@@ -335,19 +365,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1375
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of ABC from two overlapping triangles*
+*In triangle ABC, let P be taken on side BC and Q on side CA. Let T_1 be the triangl…*
 
 ![[src_squadre_2015_roma__prob11.png]]
 
-> In triangle ABC take P on side BC and Q on side CA. Calling T\_1 the triangle APC and T\_2 the triangle QBC, we know that the areas of T\_1, T\_2 and T\_1 ∩ T\_2 are 847 m^2, 175 m^2 and 147 m^2 respectively. What is, in m^2, the area of ABC?
+> In triangle ABC, let P be on side BC and Q on side CA. Let T_1 be triangle APC and T_2 be triangle QBC; we know that the areas of T_1, T_2, and T_1 ∩ T_2 are 847 m², 175 m², and 147 m², respectively. What is the area of ABC, expressed in m²?
 
-**Answer:** 1375
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2015_roma#q11|src_squadre_2015_roma__Q11]]
 
 
 
@@ -368,19 +401,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2340
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colouring the sides of a regular heptagon with 5 colours*
+*In a regular heptagon, each side is colored with a color at…*
 
 ![[src_squadre_2015_roma__prob12.png]]
 
-> In a regular polygon with 7 sides, each side is coloured with a colour chosen among white, black, yellow, green or red, without having to use them all, but so that consecutive sides never have the same colour. In how many different ways can this be done? (two colourings are to be considered equal, and therefore counted only once, if there is a rotation making them coincide)
+> In a regular heptagon, each side is colored with a color chosen from white, black, yellow, green, or red; it is not required to use all of the colors, but consecutive sides must never be the same color. In how many different ways can this be done? (Two colorings are to be regarded as identical and therefore counted only once if there is a rotation that makes them coincide.)
 
-**Answer:** 2340
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2015_roma#q12|src_squadre_2015_roma__Q12]]
 
 
 
@@ -400,19 +436,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0052
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Signs in 1 ± 2 ± … ± 9 giving a multiple of 5*
+*In how many ways can the signs be chosen in the expression 1 ± 2 ± 3 ± 4 ± 5 ±…?*
 
 ![[src_squadre_2015_roma__prob13.png]]
 
 > In how many ways can the signs in the expression 1 ± 2 ± 3 ± 4 ± 5 ± 6 ± 7 ± 8 ± 9 be chosen so that the result is divisible by 5?
 
-**Answer:** 0052
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2015_roma#q13|src_squadre_2015_roma__Q13]]
 
 
 
@@ -432,19 +471,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1216
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*p(p(x)) = p(x)^2016 + 2015: find p(49)*
+*Let p(x) be a polynomial with real coefficients such that p(p(x)) = (p(x))^(2016) + 20…*
 
 ![[src_squadre_2015_roma__prob14.png]]
 
-> Let p(x) be a polynomial with real coefficients such that p(p(x)) = (p(x))^(2016) + 2015. What is p(49)? (if p(x) does not exist or if p(49) is not uniquely determined, give 0 as the answer; if p(49) is uniquely determined but greater than 9999, give as the answer its four lowest digits, that is, thousands, hundreds, tens and units.)
+> Let p(x) be a polynomial with real coefficients such that p(p(x)) = (p(x))^(2016) + 2015. What is the value of p(49)? (If p(x) does not exist or if p(49) is not uniquely determined, give 0 as the answer; if p(49) is uniquely determined but is greater than 9999, give as the answer the four lowest digits, namely the thousands, hundreds, tens, and units digits.)
 
-**Answer:** 1216
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2015_roma#q14|src_squadre_2015_roma__Q14]]
 
 
 
@@ -463,20 +505,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 3969
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of 90 positive reals under a constraint*
+*Find what the minimum value that the sum of 90 real numbers can take is…*
 
 ![[src_squadre_2015_roma__prob15.png]]
 
-> Find the minimum value that the sum of 90 positive real numbers x\_1, x\_2, x\_3, ... x\_(90) can take, knowing that:
-> 1^2/x\_1 + 2^2/x\_2 + 3^2/x\_3 + . . . + 90^2/x\_(90) = 4225.
+> Find the minimum possible value of the sum of 90 positive real numbers x₁, x₂, x₃, ..., x₉₀, given that 1²/x₁ + 2²/x₂ + 3²/x₃ + ... + 90²/x₉₀ = 4225.
 
-**Answer:** 3969
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2015_roma#q15|src_squadre_2015_roma__Q15]]
 
 
 
@@ -496,21 +540,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4033
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Binary digit sum of n^3 for n = 111…11101*
+*Let n be an integer whose binary representation is 111…11101 (with 2015 leading 1s). What is the sum of the digits…*
 
 ![[src_squadre_2015_roma__prob16.png]]
 
-> Let n be an integer whose binary notation is
-> 111 . . . 111 01 (with 2015 leading 1s)
-> What is the sum of the digits of the binary notation of n^3?
+> Let n be an integer whose binary representation is 111...11101 (with 2015 leading 1s). What is the sum of the digits in the binary representation of n^3?
 
-**Answer:** 4033
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2015_roma#q16|src_squadre_2015_roma__Q16]]
 
 
 
@@ -530,21 +575,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 2520
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of a box from two tetrahedra*
+*In a parallelepiped ABCDEFGH, we take P on edge AB and Q on edge FG…*
 
 ![[src_squadre_2015_roma__prob17.png]]
 
-> In a rectangular box ABCDEFGH take P on edge AB and Q on edge FG. Let T\_1 be the tetrahedron CPBF (see fig. 1) and T\_2 the tetrahedron EQFB (see fig. 2).
-> figure 1 figure 2
-> We know that the volumes of T\_1, T\_2 and T\_1 ∩ T\_2 are 105 cm^3, 70 cm^3 and 12 cm^3 respectively. Find, in cm^3, the volume of the box.
+> In a parallelepiped ABCDEFGH, we take P on edge AB and Q on edge FG. Let T_1 denote the tetrahedron CPBF (see Fig. 1), and let T_2 denote the tetrahedron EQFB (see Fig. 2). Figure 1 Figure 2 We know that the volumes of T_1, T_2, and T_1 ∩ T_2 are 105 cm³, 70 cm³, and 12 cm³, respectively. Find the volume of the parallelepiped, expressed in cm³.
 
-**Answer:** 2520
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2015_roma#q17|src_squadre_2015_roma__Q17]]
 
 
 
@@ -566,19 +612,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8048
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*King paths on a 334 × 3 board on one colour*
+*Let's take a 334 × 3 chessboard, that is, a table with 334 rows and 3 columns, with…*
 
 ![[src_squadre_2015_roma__prob18.png]]
 
-> Take a 334 × 3 chessboard, that is, a table with 334 rows and 3 columns whose squares are coloured white and black so that squares with a side in common have different colours. Place the chess king on the central square of the first row and let N be the number of different paths 335 moves long which, starting from that square and always moving on squares of the same colour, take it to the 334th row. What are the 4 lowest digits of N?
+> Let us take a 334 × 3 chessboard—that is, a table with 334 rows and 3 columns, whose squares are colored white and black so that squares sharing a side have different colors. Let us place the chess king in the central square of the first row and denote by N the number of distinct paths of length 335 moves that, starting from that square and always moving through squares of the same color, lead the king to the 334th row. What are the four smallest digits of N?
 
-**Answer:** 8048
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2015_roma#q18|src_squadre_2015_roma__Q18]]
 
 
 
@@ -599,19 +648,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4000
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coefficient of x^244 in P(x)^12 · Q(x)^3*
+*Let P(x) = 1 − x + x^2 − ... + (−1)^n x^n + ... − x^(2015) and Q(x) = 1 + 4x…*
 
 ![[src_squadre_2015_roma__prob19.png]]
 
-> Let P(x) = 1 − x + x^2 − . . . + (−1)^n x^n + . . . − x^(2015) and Q(x) = 1 + 4x + 9x^2 + . . . + (n + 1)^2 x^n + . . . + 2016^2 x^(2015). Consider the (huge) polynomial obtained by computing (P(x))^(12) · (Q(x))^3 and collecting like terms. Let N be the coefficient of x^(244) in this polynomial. What are the 4 lowest digits of N, that is, thousands, hundreds, tens and units?
+> Let P(x) = 1 − x + x^2 − ... + (−1)^n x^n + ... − x^(2015) and Q(x) = 1 + 4x + 9x^2 + ... + (n + 1)^2 x^n + ... + 2016^2 x^(2015). Consider the (enormous) polynomial obtained by computing (P(x))^12 · (Q(x))^3 and adding like terms together. Let N be the coefficient of x^(244) in this polynomial. What are the four lowest digits of N—that is, the thousands, hundreds, tens, and units digits?
 
-**Answer:** 4000
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2015_roma#q19|src_squadre_2015_roma__Q19]]
 
 
 
@@ -631,18 +683,19 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0028
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_26%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polyominoes of area 21 with minimum perimeter*
+*A polyomino is a planar geometric figure obtained by joining a finite number of poly…*
 
 ![[src_squadre_2015_roma__prob20.png]]
 
-> A polyomino is a plane geometric figure obtained by joining a finite number of unit squares so that every square has at least one whole side in common with another square. Among the polyominoes of area 7, those with minimum perimeter up to translations, rotations and reflections are the following 4:
-> figure 3 figure 4 figure 5 figure 6
-> Among the polyominoes of area 21, how many have minimum perimeter up to translations, rotations and reflections?
+> A polyomino is a planar geometric figure obtained by joining a finite number of unit-sided squares in such a way that each square shares at least one entire side with another square. Among the polyominoes of area 7, those with minimal perimeter up to translations, rotations, and reflections are the following 4: figure 3, figure 4, figure 5, figure 6. Among the polyominoes of area 21, how many have minimal perimeter up to translations, rotations, and reflections?
 
-**Answer:** 0028
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2015_roma#q20|src_squadre_2015_roma__Q20]]

@@ -36,15 +36,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter ratio in the two regions*
+*The ratio of the perimeters of the shaded region and its complement*
 
 ![[src_kangourou_2002_junior__prob1.png]]
 
-> The figure represents a regular hexagon divided into two regions. What is the ratio between the perimeter of the shaded region and that of the complementary region?
->  
-> A. 1      B. 1 / 2   C. 1 / ð   D. 1 / 4 E. cannot be answered without further information
+> The figure shows a regular hexagon divided into two regions. What is the ratio of the perimeter of the shaded region to that of the complementary region?
+>
+> A. 1
+> B. 1 / 2
+> C. 1 / ð
+> D. 1 / 4
+> E. impossible to answer without further information
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_junior#q01|src_kangourou_2002_junior__Q01]]
 
 
 
@@ -92,36 +99,35 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Name from the family tree*
+*The name of the son of the brother of the grandfather of Matteo's father's brother*
 
 ![[src_kangourou_2002_junior__prob2.png]]
 
-> Matteo examines his own family tree where   
->      only the males are shown and where the arrows  
->      indicate the direction from the father to the respective sons.  
->      What is the name of the son of the brother of the grandfather of the   
->      brother of Matteo's father?   
->  
-> A. Marco 
-> B. Alex 
-> C. Tommaso 
-> D. Roberto  
-> E. none of the above 
-> Angelo 
-> Tommaso 
-> Bruno 
+> Matteo examines his family tree, where only the males are shown and where the arrows indicate the direction from the father to his sons. What is the name of the son of the brother of the grandfather of the brother of Matteo's father?
+>
+> A. Marco
+> B. Alex
+> C. Tommaso
+> D. Roberto
+> E. none of the above
+> Angelo
+> Tommaso
+> Bruno
 > Roberto
-> Marco 
-> Giovanni 
-> Alex 
-> Enrico 
-> Matteo 
-> Riccardo 
-> 
-> Junior 2002. Page No.  
+> Marco
+> Giovanni
+> Alex
+> Enrico
+> Matteo
+> Riccardo
+>
+> Junior 2002. Page no.
 > 2
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_junior#q02|src_kangourou_2002_junior__Q02]]
 
 
 
@@ -156,15 +162,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The meeting point of Jack and Susanna.
+*Where Jack and Susanna first meet*
 
 ![[src_kangourou_2002_junior__prob3.png]]
 
-> Jack is running at three times the speed of his little sister Susanna. They shall start at the same time from the same point P of the track shown in the figure, moving in opposite directions and following the track. Where will they meet for the first time?
->  
-> A. A B. B C. C D. D E. E
+> Jack runs at a speed that is three times that of his little sister Susanna. They start at the same moment from the same point P of the track shown in the figure, moving in opposite directions and following the track. At which point will they meet for the first time?
+>
+> A. A
+> B. B
+> C. C
+> D. D
+> E. E
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_junior#q03|src_kangourou_2002_junior__Q03]]
 
 
 
@@ -197,13 +210,21 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum cookies eaten by Daniela*
+*The smallest number of biscuits Daniela can have eaten*
 
-> Six children ate a total of 20 cookies together. Andrea ate one, Beatrice two and Charles three. Daniela ate more cookies than any of the other kids. What's the smallest number of cookies Daniela could have eaten?
->  
-> A. 3 B. 4 C. 5 D. 6 E. 7
+> Six children have eaten 20 biscuits together. Andrea has eaten one, Beatrice two and Carlo three. Daniela has eaten more biscuits than each of the other children. What is the smallest number of biscuits Daniela can have eaten?
+>
+> A. 3
+> B. 4
+> C. 5
+> D. 6
+> E. 7
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_junior#q04|src_kangourou_2002_junior__Q04]]
 
 
 
@@ -233,13 +254,21 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Longest broken line on the square*
+*Which of the numbers is closest to the longest broken line*
 
-> Let l be the length of the longest broken line, formed by segments having the ends at the vertices of a square of side 1, which can be traced without ever pulling the pen off the sheet and without twice traversing any segment (it is allowed to pass more than once for some vertices). Which of the following numbers is closest to l?
->  
-> A. 4        B. 3            C. 5,4      D. 5,8         E. 6,8
+> Let l be the length of the longest broken line, formed by segments with their endpoints at the vertices of a square of side 1, that can be drawn without ever lifting the pen from the paper and without travelling along any segment twice (one may pass through a vertex more than once). Which of the following numbers is the closest to l?
+>
+> A. 4
+> B. 3
+> C. 5.4
+> D. 5.8
+> E. 6.8
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_junior#q05|src_kangourou_2002_junior__Q05]]
 
 
 
@@ -269,13 +298,20 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between maximum and minimum of 3 digits*
+*The difference between the greatest and the smallest three-digit numbers with distinct digits*
 
-> What's the difference between the largest and smallest positive integer, each made up of exactly three significant digits, all different from each other?
->  
-> A. 899 B. 885 C. 800 D. 100 E. None of the above values
+> What is the difference between the greatest and the smallest positive integers, each formed from exactly 3 significant digits, pairwise different from one another?
+>
+> A. 899
+> B. 885
+> C. 800
+> D. 100
+> E. none of the previous values
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_junior#q06|src_kangourou_2002_junior__Q06]]
 
 
 
@@ -303,13 +339,20 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum faces of a polyhedron with a pentagon*
+*The smallest number of faces a polyhedron with a pentagonal face can have*
 
-> What is the smallest number of faces a polyhedron can have, a face of which is a pentagon?
->  
-> A. 5     B. 6 C. 7      D. 8 E. 10
+> What is the smallest number of faces a polyhedron can have if one of its faces is a pentagon?
+>
+> A. 5
+> B. 6
+> C. 7
+> D. 8
+> E. 10
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_junior#q07|src_kangourou_2002_junior__Q07]]
 
 
 
@@ -341,19 +384,21 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trailing zeros in the product of the first 2002 primes*
+*How many zeros the product of the first 2002 primes ends with*
 
-> An integer is called "prime" if it is greater than or equal to 2 and if it admits as  
-> positive integer divisors only 1 and itself (there exist infinitely many prime numbers). With how many 
-> zeros does the decimal representation of the product of the first 2002 prime numbers end? 
->  
-> A. 0  
-> B. 1  
-> C. 10  
-> D. 20  
+> A positive integer is called prime if it is greater than or equal to 2 and if its only positive integer divisors are 1 and itself (there are infinitely many primes). With how many zeros does the decimal representation of the product of the first 2002 primes end?
+>
+> A. 0
+> B. 1
+> C. 10
+> D. 20
 > E. 100
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_junior#q08|src_kangourou_2002_junior__Q08]]
 
 
 
@@ -390,13 +435,24 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of disk remaining healthy*
+*What fraction of the hard disk is still healthy*
 
-> A computer is infected by a virus that, during the day it was inoculated, damaged half of the hard drive. During the next day the virus damaged 1/3 of the remaining part of the disc; during the third day the virus damaged 1/4 of the still healthy part at the beginning of the day and during the fourth day
-> 
-> Junior year 2002. This item is not intended to be used. 3 1/5 of the part still healthy at the beginning of the day. At this point, what fraction of the hard drive is still intact? A. 1/5 B. 1/6 C. 1/10 D. 1/12 E. 1/24
+> A computer is affected by a virus which, during the day it was introduced, damaged half of the hard disk. During the following day the virus damaged 1/3 of the remaining part of the disk; during the third day the virus damaged 1/4 of the part still healthy at the start of the day, and during the fourth day
+>
+> Junior 2002. Page no.
+> 3
+> 1/5 of the part still healthy at the start of the day. At this point, what fraction of the hard disk has remained healthy?
+> A. 1/5
+> B. 1/6
+> C. 1/10
+> D. 1/12
+> E. 1/24
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_junior#q09|src_kangourou_2002_junior__Q09]]
 
 
 
@@ -430,18 +486,22 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Conclusion on neighbour Franco*
+*What one can be sure of about Franco*
 
-> Alberto is always lying. One day he told his neighbor Franco, "At least one of us never lies". On the basis of this information, it can be concluded that
->  
-> A. Franco always lies.
->  
-> B. Frank lies at least sometimes, but it's not always C. Franco always tells the truth, D. Franco sometimes tells the truth, but he doesn't always tell it E. Franco said nothing .
->  
->  
-> The questions from N. 11 to N. 20 are worth 4 points each.
+> Alberto always lies. One day he said to his neighbour Franco: "At least one of us never lies". On the basis of this information one can be sure that
+>
+> A. Franco always lies
+> B. Franco lies at least sometimes, but it is not certain that he always lies
+> C. Franco always tells the truth
+> D. Franco sometimes tells the truth, but it is not certain that he always does
+> E. Franco has said nothing
+>
+> Questions 11 to 20 are worth 4 points each
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_junior#q10|src_kangourou_2002_junior__Q10]]
 
 
 
@@ -497,7 +557,7 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the sum S of roots*
+*The value of S*
 
 > Let S =
 > 2
@@ -509,13 +569,13 @@ The meeting point of Jack and Susanna.
 > 6
 > 7
 > 1
-> .  Then S equals 
-> A. 3 
-> B. 
+> . Then S equals
+> A. 3
+> B.
 > 2
 > 7 −
->   
-> C. 
+>
+> C.
 > 2
 > 5
 > 2
@@ -525,15 +585,19 @@ The meeting point of Jack and Susanna.
 > +
 > +
 > −
->   
-> D. 1 
-> E. 
+>
+> D. 1
+> E.
 > 2
 > 7
 > 1
 > −
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_junior#q11|src_kangourou_2002_junior__Q11]]
 
 
 
@@ -579,23 +643,22 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region shaded in the triangle*
+*The area of the shaded region*
 
 ![[src_kangourou_2002_junior__prob12.png]]
 
-> The ABC triangle in the figure has area 1. The points P and Q on the AC side are arranged so that the segments AP, PQ and QC have the same length; the points R and S on the BC side so that the segments BR, RS and SC have the same length. What's the area of the shaded region?
->  
+> Triangle ABC in the figure has area 1. The points P and Q on the side AC are placed so that the segments AP, PQ and QC have the same length; the points R and S on the side BC so that the segments BR, RS and SC have the same length. What is the area of the shaded region?
+>
 > A. 1 / 4
->  
 > B. 1 / 3
->  
 > C. 1 / 2
->  
 > D. 2 / 3
->  
 > E. 3 / 4
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_junior#q12|src_kangourou_2002_junior__Q12]]
 
 
 
@@ -630,15 +693,23 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Jumps of the kangaroo to Moscow*
+*After how many jumps the kangaroo is as close as possible to Moscow*
 
-> A phenomenal kangaroo moves by jumping in a straight line from Trieste to Moscow (the two cities are about 2,500 km apart) and each jump is twice the length of the previous jump. If the first jump is 1 meter long, after how many jumps will the kangaroo be as close to Moscow as possible?
->  
-> A. 11 B. 12 C. 10 D. 20 E. 21
-> 
-> Junior year 2002. This item is not intended to be used. 4
+> A phenomenal kangaroo moves by jumping in a straight line from Trieste to Moscow (the two cities are about 2 500 km apart) and each jump is twice as long as the previous one. If the first jump is 1 metre long, after how many jumps will the kangaroo be as close as possible to Moscow?
+>
+> A. 11
+> B. 12
+> C. 10
+> D. 20
+> E. 21
+>
+> Junior 2002. Page no.
+> 4
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Skill:** [[skill_stima|Estimation and approximation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_junior#q13|src_kangourou_2002_junior__Q13]]
 
 
 
@@ -672,15 +743,22 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length BC in the rectangular trapezoid*
+*The length of the side BC*
 
 ![[src_kangourou_2002_junior__prob14.png]]
 
-> A rectangular ABCD trapezoid in D and C, having longer base AD, has a perimeter of length 16. If the lengths of the sides are all expressed by integers, how long is the BC side?
->  
-> A. 1 B. 2 C. 3 D. 4 E. 5
+> A trapezium ABCD, right-angled at D and C, with longer base AD, has perimeter 16. If the lengths of the sides are all given by integers, how long is the side BC?
+>
+> A. 1
+> B. 2
+> C. 3
+> D. 4
+> E. 5
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_junior#q14|src_kangourou_2002_junior__Q14]]
 
 
 
@@ -733,7 +811,7 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure of the angle phi*
+*The size of the angle ϕ*
 
 ![[src_kangourou_2002_junior__prob15.png]]
 
@@ -758,11 +836,18 @@ The meeting point of Jack and Susanna.
 \end{document}
 ```
 
-> Now, look at this figure: ABCD is a square, while CDE is an equilateral triangle. What is the degree of the angle φ?
->  
-> A. 22,5° B. 25° C. 30° D. 27,5° E. 32,5°
+> Look at the figure: ABCD is a square, while CDE is an equilateral triangle. What is the size, in degrees, of the angle ϕ?
+>
+> A. 22.5°
+> B. 25°
+> C. 30°
+> D. 27.5°
+> E. 32.5°
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_junior#q15|src_kangourou_2002_junior__Q15]]
 
 
 
@@ -794,13 +879,20 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Girls originally in the group*
+*How many girls were originally in the group*
 
-> From a group of boys and girls, 15 girls leave. At this point, for every girl who stays, there are exactly two boys. After a while 45 boys leave the group: now for each boy who remains there are 5 girls. How many girls were originally in the group?
->  
-> A. 20 B. 25 C. 35 D. 40 E. 75
+> From a group made up of boys and girls, 15 girls leave: at this point, for every girl who remains there are exactly 2 boys. After a while 45 boys leave the group: now for every boy who remains there are 5 girls. How many girls were there originally in the group?
+>
+> A. 20
+> B. 25
+> C. 35
+> D. 40
+> E. 75
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_junior#q16|src_kangourou_2002_junior__Q16]]
 
 
 
@@ -833,15 +925,22 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of EF segment with similar triangles*
+*The length of the segment EF*
 
 ![[src_kangourou_2002_junior__prob17.png]]
 
-> Look at the figure: OEF is a right triangle, ABCD is a square, segment OA is 48 and segment OB is 36. How long is the EF segment ?
->  
-> A. 185 B. 180 C. 176 D. 190 E. 188
+> Look at the figure: OEF is a right-angled triangle, ABCD is a square, the segment OA is 48 long and the segment OB is 36 long. How long is the segment EF?
+>
+> A. 185
+> B. 180
+> C. 176
+> D. 190
+> E. 188
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_junior#q17|src_kangourou_2002_junior__Q17]]
 
 
 
@@ -863,9 +962,13 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exercise deleted*
+*Question withdrawn*
 
-> Exercise discontinued
+> Question withdrawn
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
+[[Quesiti/src_kangourou_2002_junior#q18|src_kangourou_2002_junior__Q18]]
 
 
 
@@ -905,18 +1008,23 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number available from the robot*
+*What one can say about the greatest number the robot can obtain*
 
-> Assigned any real number x, a robot has the only possibilities of transforming it into the number x + 3 or the number x − 2 or the number 1 / x or the number x2. It is allowed to carry out the transformation three times in a row, with full freedom of choice at each step. It is initially assigned the number 1.99. If we show with y the largest number that the robot can get at the end, then
->  
-> 
-> Junior year 2002. This item is not intended to be used. 5 A. y = (1,99)8 B. y = (4,99)4 C. y = (7,99)2 D. 1.000 < y < 10.000
->  
->  
->  
-> E. y  10.000
+> Given any real number x, a robot can only turn it into the number x + 3, or the number x − 2, or the number 1 / x, or the number x2. It is allowed to carry out the transformation 3 times in a row, with a free choice at each step. Initially it is given the number 1.99. If we denote by y the greatest number the robot can obtain at the end, then
+>
+> Junior 2002. Page no.
+> 5
+> A. y = (1.99)8
+> B. y = (4.99)4
+> C. y = (7.99)2
+> D. 1,000 < y < 10,000
+> E. y  10,000
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_junior#q19|src_kangourou_2002_junior__Q19]]
 
 
 
@@ -950,13 +1058,21 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seconds on a moving scale upwards*
+*How many seconds Mr Rossi takes if the escalator is running and he walks up*
 
-> Mr. Rossi takes 90 seconds to get to the sixth floor of a large warehouse by walking up the stairs of a escalator when it is not in operation; he takes 60 seconds when the escalator is in operation, but he lets himself be carried without moving. How many seconds does it take if the escalator is running and at the same time he climbs the stairs?
->  
-> A. 36 B. 75 C. 45 D. 30 E. 50 Questions from N. 21 al N. 30 is worth 5 points each.
+> Mr Rossi takes 90 seconds to reach the sixth floor of a department store by walking up the steps of an escalator when it is not running; he takes 60 seconds when the escalator is running, but he lets himself be carried without moving. How many seconds does he take if the escalator is running and at the same time he walks up its steps?
+>
+> A. 36
+> B. 75
+> C. 45
+> D. 30
+> E. 50
+> Questions 21 to 30 are worth 5 points each
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_junior#q20|src_kangourou_2002_junior__Q20]]
 
 
 
@@ -987,13 +1103,21 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible area of the rectangle with perimeter 32*
+*Which of the numbers can be the area of the rectangle*
 
-> The centimeter measurements of the sides of a rectangle are integers and its perimeter is 32. Which of the following numbers can coincide with its area (in cm2)?
->  
-> A. 24 B. 48 C. 76 D. 192 E. 384
+> The lengths in centimetres of the sides of a rectangle are integers and its perimeter is 32. Which of the following numbers can equal its area (in cm2)?
+>
+> A. 24
+> B. 48
+> C. 76
+> D. 192
+> E. 384
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_junior#q21|src_kangourou_2002_junior__Q21]]
 
 
 
@@ -1026,13 +1150,21 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum trucks for 50 boxes*
+*The smallest number of lorries enough to carry the boxes*
 
-> We have to transport 50 boxes at the same time using trucks with a capacity of 1,200 kg each. The first weighs 150 kg, the second 151 kg, the third 152 kg and so on until the last weighs 199 kg. What is the minimum number of trucks sufficient to carry out the transport?
->  
-> A. 9 B. 10 C. 8 D. 7 E. 6
+> We have to carry 50 boxes at the same time using lorries each with a capacity of 1200 kg. The first weighs 150 kg, the second 151 kg, the third 152 kg, and so on up to the last, which therefore weighs 199 kg. What is the smallest number of lorries enough to carry them?
+>
+> A. 9
+> B. 10
+> C. 8
+> D. 7
+> E. 6
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_junior#q22|src_kangourou_2002_junior__Q22]]
 
 
 
@@ -1070,37 +1202,22 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To divide the triangle into 4 equal areas*
+*Whether D and E can be chosen so that the four polygons have the same area*
 
 ![[src_kangourou_2002_junior__prob23.png]]
 
-> Assigned a triangle ABC, it is divided into 4 polygons S1, S2, S3, S4 by choosing two points D and E, respectively on the AB side and the BC side, as shown in the figure. Is it possible to choose D and E so that the four polygons have the same area?
->  
-> A. No, whatever the ABC triangle is
->  
->  
->  
->  
->  
->  
+> Given a triangle ABC, divide it into 4 polygons S1, S2, S3, S4 by choosing two points D and E, on the side AB and on the side BC respectively, as shown in the figure. Is it possible to choose D and E so that the 4 polygons have the same area?
+>
+> A. No, whatever the triangle ABC
 > B. Yes, but only if ABC is an equilateral triangle
->  
->  
->  
->  
->  
-> C. Yes, but only if ABC is a right triangle
->  
->  
->  
->  
+> C. Yes, but only if ABC is a right-angled triangle
 > D. Yes, but only if ABC is an obtuse triangle
->  
->  
->  
-> E. Yes, whatever the ABC triangle is.
+> E. Yes, whatever the triangle ABC
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_junior#q23|src_kangourou_2002_junior__Q23]]
 
 
 
@@ -1135,16 +1252,22 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mean annual use of the hotel*
+*The average occupancy of the hotel over the whole year*
 
-> The average capacity utilisation of a hotel is 88% during the three summer months and 44% during the remaining months of the year. What is the average utilisation for the whole year?
->  
-> 
-> Junior year 2002. This item is not intended to be used. 6 A. 55 %
->  
-> B. 50 % C. 46 % D. 80 % E. 48 %
+> The average use of a hotel's capacity is 88% during the three summer months and 44% during the remaining months of the year. What is the average use over the whole year?
+>
+> Junior 2002. Page no.
+> 6
+> A. 55%
+> B. 50%
+> C. 46%
+> D. 80%
+> E. 48%
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_junior#q24|src_kangourou_2002_junior__Q24]]
 
 
 
@@ -1177,13 +1300,20 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle between broken hands*
+*The smaller angle formed by the two hands*
 
-> An earthquake damaged the clock dial of the tower, which is circular in shape. Surprisingly, the hands remained intact and now are arranged along two straight segments, one connecting the number 11 to the number three and the other the number one to the number eight. How wide is the smallest of the two corners they determine?
->  
-> A. 70° B. 75° C. 80° D. 85° E. 90°
+> An earthquake has damaged the face of the tower clock, which is circular. Surprisingly the hands have remained intact and are now arranged along two straight segments, one joining the number eleven to the number three and the other the number one to the number eight. How large (in degrees) is the smaller of the two angles they form?
+>
+> A. 70°
+> B. 75°
+> C. 80°
+> D. 85°
+> E. 90°
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_junior#q25|src_kangourou_2002_junior__Q25]]
 
 
 
@@ -1215,13 +1345,21 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of similar triangles in the pyramid*
+*How many pairs of distinct similar triangles among the faces*
 
-> The lengths of the edges of a triangular-based pyramid ABCD are: AB = 9, BC = 12, CA = 8, AD = 6, BD = 12 and CD = 4. How many pairs of distinct similar triangles can you spot between the faces of the pyramid?
->  
-> A. 0 B. 1 C. 2 D. 3 E. 4
+> The lengths of the edges of a pyramid ABCD with a triangular base are: AB = 9, BC = 12, CA = 8, AD = 6, BD = 12 and CD = 4. How many pairs of distinct similar triangles can be found among the faces of the pyramid?
+>
+> A. 0
+> B. 1
+> C. 2
+> D. 3
+> E. 4
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_junior#q26|src_kangourou_2002_junior__Q26]]
 
 
 
@@ -1257,17 +1395,23 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Common area between triangle and square*
+*The area of the region common to the triangle and the square*
 
 ![[src_kangourou_2002_junior__prob27.png]]
 
-> In the figure on the side, any two points chosen, provided that they are adjacent horizontally or vertically, are 1 metre apart. How much is (in square metres) the area of the common part of the triangle and the square indicated?
->  
->  
->  
-> A. 9 / 10 B. 15 / 16 C. 8 / 9              D. 11 / 12 E. 14 / 15
+> In the figure alongside, any two points, provided they are adjacent horizontally or vertically, are 1 metre apart. What is the area (in square metres) of the region common to the triangle and the square shown?
+>
+> A. 9 / 10
+> B. 15 / 16
+> C. 8 / 9
+> D. 11 / 12
+> E. 14 / 15
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_junior#q27|src_kangourou_2002_junior__Q27]]
 
 
 
@@ -1317,7 +1461,7 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*V with a vertex assigned between 7 points*
+*How many V-shapes with a given vertex can be found*
 
 ![[src_kangourou_2002_junior__prob28.png]]
 
@@ -1336,14 +1480,18 @@ The meeting point of Jack and Susanna.
 \end{document}
 ```
 
-> Let's say that three non-aligned points form a V with a given vertex if one of them (the vertex, precisely) is equidistant from the other two. How many Vs with a given vertex can be detected in a set of 7 points, 6 of which are the vertices of a regular hexagon and the seventh is the center of the same hexagon?
->  
->  
->  
->  
-> A. 6 B. 18 C. 20 D. 30 E. 36
+> We say that three non-collinear points form a "V with a given vertex" if one of them (the vertex, that is) is equidistant from the other two. How many "V-shapes with a given vertex" can be found in a set of 7 points, 6 of which are the vertices of a regular hexagon and the seventh is the centre of that hexagon?
+> A. 6
+> B. 18
+> C. 20
+> D. 30
+> E. 36
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_junior#q28|src_kangourou_2002_junior__Q28]]
 
 
 
@@ -1370,13 +1518,21 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of n·2^n from 2 to 10*
+*The value of the sum*
 
-> What is the sum of 2 · 22 + 3 · 23 + 4 · 24 + ... + 10 · 210 ?
->  
-> A. 9 · 211 B. 10 · 211        C. 11 · 210    D. 11 · 222            E. 10 · 212
+> What is the value of the sum 2 · 22 + 3 · 23 + 4 · 24 + … + 10 · 210?
+>
+> A. 9 · 211
+> B. 10 · 211
+> C. 11 · 210
+> D. 11 · 222
+> E. 10 · 212
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_junior#q29|src_kangourou_2002_junior__Q29]]
 
 
 
@@ -1420,15 +1576,28 @@ The meeting point of Jack and Susanna.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four digit integers subject to the digits*
+*How many four-digit integers satisfy the digit condition*
 
-> How many significant 4-digit integers are such that the sum of the last two digits and the number formed by the first two coincides with the number formed by the last two digits? (A number satisfying the condition described is, for example, 6370: in fact 7 + 0 + 63 = 70.)
->  
-> A. 10 B. 45 C. 50 D. 80 E. 90
-> 
-> Junior answers 2002. Page No. 1 Kangourou Italy Competition of 21 March 2002 Junior category For second and third year high school students Solutions
->  
->  
-> The correct answer is indicated in square brackets after the question number.
+> How many integers with 4 significant digits are such that the sum of the last two digits and of the number formed by the first two coincides with the number formed by the last two digits? (A number that satisfies the condition described is, for example, 6370: indeed 7 + 0 + 63 = 70.)
+>
+> A. 10
+> B. 45
+> C. 50
+> D. 80
+> E. 90
+>
+> Answers, Junior 2002. Page no. 1
+> Kangourou Italia
+> Contest of 21 March 2002
+> Junior category
+> For students in the second and third year of upper secondary school
+> Solutions
+>
+> The correct answer is marked in square brackets
+> after the question number.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_junior#q30|src_kangourou_2002_junior__Q30]]

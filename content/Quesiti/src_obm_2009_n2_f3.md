@@ -29,9 +29,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri interi a 4 cifre positivi che sono "abestado"*
+*Conta gli interi positivi di quattro cifre che sono 'abestado'*
 
-> Diciamo che un intero positivo $n$ è *abestado* ("bestia") se leggendo i suoi numeri da destra a sinistra dà un numero maggiore di $n$. Ad esempio, $2009$ è abestado perché $9002 > 2009$; d'altra parte, $2010$ non è abestado perché la lettura $2010$ da destra a sinistra dà $0102$, che equivale a $102$, che è inferiore a $2010$; e $3443$ non è abestado perché la lettura da destra a sinistra dà $3443$, che è esattamente uguale all'originale. Quanti numeri interi positivi con esattamente quattro cifre sono abestado?
+> Diciamo che un numero intero positivo $n$ è *abestado* ("beasted") se, leggendo le sue cifre da destra a sinistra, si ottiene un numero maggiore di $n$. Ad esempio, $2009$ è abestado perché $9002 > 2009$; d'altra parte, $2010$ non è abestado perché, leggendo $2010$ da destra a sinistra, si ottiene $0102$, che è uguale a $102$, il quale è minore di $2010$; e $3443$ non è abestado perché, leggendolo da destra a sinistra, si ottiene $3443$, che è esattamente uguale a quello originale. Quanti numeri interi positivi con esattamente quattro cifre sono abestado?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n2_f3#q01|src_obm_2009_n2_f3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il centro del circolo del triangolo CEF si trova sul circolo del triangolo ABD*
+*Il circocentro del triangolo CEF giace sulla circonferenza circoscritta al triangolo ABD*
 
-> Si deve $ABCD$ essere un parallelo e $\Gamma$ il cerchio circonscritto del triangolo $ABD$. $E$ e $F$ siano rispettivamente le intersezioni di $\Gamma$ con le linee $BC$ e $CD$. Prove che il centro circoncentrale del triangolo $CEF$ si trova su $\Gamma$.
+> Sia $ABCD$ un parallelogramma e $\Gamma$ la circonferenza circoscritta al triangolo $ABD$. Siano $E$ e $F$ gli incroci di $\Gamma$ con le rette $BC$ e $CD$, rispettivamente. Dimostrare che il circocentro del triangolo $CEF$ giace su $\Gamma$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n2_f3#q02|src_obm_2009_n2_f3__Q02]]
 
 
 
@@ -81,11 +95,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di scacchi-cavaliere su m×n tavola; determinare il vincitore*
+*Partita di cavallo degli scacchi su una scacchiera m×n; determina il vincitore*
 
-> Arnaldo e Bernaldo giocano il seguente gioco su una tavola $m \times n$, $m, n \ge 2$. Arnaldo inizia scegliendo una piazza e mettendo su di essa un cavaliere di scacchi; poi Arnaldo e Bernaldo spostano alternativamente il cavaliere, a partire da Bernaldo, con la restrizione che il cavaliere non può atterrare su una piazza già visitata. Il giocatore che non può muovere il cavaliere perde. Determinare, in termini di $m$ e $n$, quale giocatore abbia una strategia vincente, indipendentemente dalle mosse dell'altro giocatore, e mostrare come dovrebbe giocare per vincere.
-> 
-> *Nota: * Ogni mossa di un cavaliere di scacchi consiste di due quadrati nella direzione verticale o orizzontale seguiti da un quadrato nella direzione perpendicolare.
+> Arnaldo e Bernaldo giocano il seguente gioco su una scacchiera $m \times n$, $m, n \ge 2$. Arnaldo inizia scegliendo una casella e collocandovi un cavallo degli scacchi; poi Arnaldo e Bernaldo muovono alternativamente il cavallo, a partire da Bernaldo, con la restrizione che il cavallo non può atterrare su una casella già visitata. Perde il giocatore che non può muovere il cavallo. Determina, in termini di $m$ e $n$, quale giocatore possiede una strategia vincente, indipendentemente dalle mosse dell'altro giocatore, e mostra come debba giocare per vincere.
+>
+> *Osservazione:* Ogni mossa del cavallo negli scacchi consiste nel percorrere due caselle in direzione verticale o orizzontale, seguite da una casella nella direzione perpendicolare.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n2_f3#q03|src_obm_2009_n2_f3__Q03]]
 
 
 
@@ -109,11 +130,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato che a2(b+c)=b2(c+a)=2010, calcolare c2(a+b)*
+*Dati a²(b+c)=b²(c+a)=2010, calcola c²(a+b)*
 
-> $a$, $b$ e $c$ siano numeri reali come $a \ne b$ e $a^2(b+c) = b^2(c+a) = 2010$. Calcolare $c^2(a+b)$.
+> Siano $a$, $b$ e $c$ numeri reali tali che $a \ne b$ e $a^2(b+c) = b^2(c+a) = 2010$. Calcola $c^2(a+b)$.
 
-**Risposta:** 2010
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n2_f3#q04|src_obm_2009_n2_f3__Q04]]
 
 
 
@@ -136,9 +162,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circoli circoscritti di AOB e COD incontrano BC e AD a M,N,P,Q; dimostrano che MNPQ è ciclico con centro O*
+*Le circonferenze circoscritte ad AOB e COD incontrano BC e AD rispettivamente nei punti M, N, P, Q; dimostrare che MNPQ è un quadrilatero ciclico con centro O*
 
-> Le diagonali di un quadrilaterale ciclico $ABCD$ si incontrano a $O$. I cerchi circoscritti dei triangoli $AOB$ e $COD$ intersecano per la seconda volta le linee $BC$ e $AD$ ai punti $M$, $N$, $P$ e $Q$, rispettivamente. Prove che il quadrilaterale $MNPQ$ è inserito in un cerchio con il centro $O$.
+> Le diagonali di un quadrilatero ciclico $ABCD$ si incontrano in $O$. Le circonferenze circoscritte ai triangoli $AOB$ e $COD$ intersecano le rette $BC$ e $AD$ per la seconda volta nei punti $M$, $N$, $P$ e $Q$, rispettivamente. Dimostrare che il quadrilatero $MNPQ$ è inscritto in una circonferenza avente centro $O$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n2_f3#q05|src_obm_2009_n2_f3__Q05]]
 
 
 
@@ -162,8 +195,13 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area minima del triangolo con tutti i lati interi e l'area interi*
+*Area minima di un triangolo con tutti i lati interi e area intera*
 
-> I tre lati e l'area di un triangolo sono tutti numeri interi. Qual è il valore minimo possibile dell'area di un triangolo?
+> I tre lati e l'area di un triangolo sono tutti interi. Qual è il valore minimo possibile dell'area di un tale triangolo?
 
-**Risposta:** 6
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_obm_2009_n2_f3#q06|src_obm_2009_n2_f3__Q06]]

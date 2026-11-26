@@ -31,11 +31,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo in pentagono regolare con punto triangolare equilaterale interno*
+*Angolo nel pentagono regolare con vertice del triangolo equilatero interno*
 
-> Nella figura, $ABCDE$ è un pentagono regolare e $AEF$ è un triangolo equilaterale. Il segmento $P$ deve essere un punto sul segmento $BF$, all'interno di $ABCDE$, in modo tale che l'angolo $\widehat{PEA}$ misura $12^\circ$, come mostrato nella figura seguente. Trova la misura, in gradi, dell'angolo $\widehat{PAC}$.
+> Nella figura, $ABCDE$ è un pentagono regolare e $AEF$ è un triangolo equilatero. Sia $P$ un punto sul segmento $BF$, all'interno di $ABCDE$, tale che l'angolo $\widehat{PEA}$ misuri $12^\circ$, come mostrato nella figura sottostante. Determinare la misura, in gradi, dell'angolo $\widehat{PAC}$.
 
 ![[src_obm_2005_n3_f2__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n3_f2#q01|src_obm_2005_n3_f2__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La più piccola cifra integrale positiva multiplice modulo 5,7,9,11*
+*Condizioni sui multipli interi positivi più piccoli modulo 5,7,9,11*
 
-> Che $a$ sia un intero positivo tale che $a$ sia un multiple di $5$, $a+1$ sia un multiple di $7$, $a+2$ sia un multiple di $9$, e $a+3$ sia un multiple di $11$. Determinare il valore più piccolo che $a$ può assumere.
+> Sia $a$ un numero intero positivo tale che $a$ sia un multiplo di $5$, $a+1$ sia un multiplo di $7$, $a+2$ sia un multiplo di $9$ e $a+3$ sia un multiplo di $11$. Determinare il valore minimo che $a$ può assumere.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n3_f2#q02|src_obm_2005_n3_f2__Q02]]
 
 
 
@@ -85,11 +99,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area del quarto lotto quando il terreno quadrangolare è diviso in quattro lotti*
+*Area del quarto lotto quando un terreno quadrangolare viene suddiviso in quattro lotti*
 
-> Un terreno quadrangolare fu diviso in quattro lotti più piccoli da due linee rette che univano i punti di mezzo di lati opposti del terreno. Le aree di tre dei lotti sono indicate nella figura (in metri quadrati sulla mappa): $250$, $200$ e $210$. Qual è l'area del quarto lotto, rappresentato dalla regione ombrata nella figura?
+> Un terreno di forma quadrangolare è stato suddiviso in quattro lotti più piccoli da due rette che uniscono i punti medi dei lati opposti del terreno. Le aree di tre dei lotti sono indicate nella figura (in metri quadrati sulla mappa): $250$, $200$ e $210$. Qual è l'area del quarto lotto, rappresentato dalla regione ombreggiata nella figura?
 
 ![[src_obm_2005_n3_f2__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n3_f2#q03|src_obm_2005_n3_f2__Q03]]
 
 
 
@@ -112,9 +133,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale f(x+f(y))=x+f(f(y)), ritrovare f(2005)*
+*Equazione funzionale f(x+f(y))=x+f(f(y)), trova f(2005)*
 
-> Una funzione $f:\mathbb{R}\to\mathbb{R}$ soddisfa $f(x+f(y))=x+f(f(y))$ per tutti i numeri reali $x$ e $y$. Poiché $f(2)=8$, trovare il valore numerico di $f(2005)$.
+> Una funzione $f:\mathbb{R}\to\mathbb{R}$ soddisfa $f(x+f(y))=x+f(f(y))$ per tutti i numeri reali $x$ e $y$. Dato che $f(2)=8$, determina il valore numerico di $f(2005)$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n3_f2#q04|src_obm_2005_n3_f2__Q04]]
 
 
 
@@ -137,9 +165,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Questioni minime per determinare polinomi con coefficienti interi positivi*
+*Numero minimo di domande per determinare un polinomio a coefficienti interi positivi*
 
-> Si desidera determinare un polinomio $p(x)$ con coefficienti interi positivi facendo domande della forma "Qual è il valore numerico di $p(k)$?", dove $k$ è un intero di vostra scelta. Qual è il numero minimo di domande sufficiente a garantire che il polinomio sia determinato?
+> Si vuole determinare un polinomio $p(x)$ a coefficienti interi positivi ponendo domande della forma "Qual è il valore numerico di $p(k)$?", dove $k$ è un intero a tua scelta. Qual è il numero minimo di domande sufficiente a garantire che il polinomio venga determinato?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n3_f2#q05|src_obm_2005_n3_f2__Q05]]
 
 
 
@@ -162,9 +197,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tutte le coppie di numeri interi (x,y) che soddisfano 9xy - x^2 - 8y^2 = 2005*
+*Tutte le coppie di interi (x,y) che soddisfano 9xy - x^2 - 8y^2 = 2005*
 
-> Determinare tutte le coppie di integri $(x,\,y)$ in modo tale che $9xy - x^2 - 8y^2 = 2005$.
+> Determinare tutte le coppie di interi $(x,\,y)$ tali che $9xy - x^2 - 8y^2 = 2005$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n3_f2#q06|src_obm_2005_n3_f2__Q06]]
 
 
 
@@ -187,9 +229,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sezione trasversale del prisma retto con base triangolare equilaterale tagliata a piano*
+*Sezione trasversale di un prisma retto a base triangolare equilatera, tagliato da un piano*
 
-> Un prisma è retto e ha un triangolo equilaterale come base. Un piano taglia il prisma ma non taglia nessuna delle sue basi, determinando una sezione trasversale triangolare con lati $a$, $b$ e $c$. Trova il lato della base del prisma come funzione di $a$, $b$ e $c$.
+> Un prisma è retto e ha come base un triangolo equilatero. Un piano interseca il prisma ma non interseca alcuna delle sue basi, determinando una sezione trasversale triangolare i cui lati misurano $a$, $b$ e $c$. Determinare il lato della base del prisma in funzione di $a$, $b$ e $c$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n3_f2#q07|src_obm_2005_n3_f2__Q07]]
 
 
 
@@ -212,9 +261,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Sequenze ordinate di Flamengo con 20 punti, nessuna sconfitta
+*Sequenze ordinate dei risultati del Flamengo con 20 punti, nessuna sconfitta*
 
-> In un campionato di calcio, ogni vittoria vale tre punti, ogni pareggio vale un punto e ogni sconfitta vale zero punti. È noto che il Flamengo non ha subito alcuna sconfitta e ha finito con $20$ punti, ma il numero di partite giocate è sconosciuto. Rappresentando una vittoria da $V$, un pareggio da $E$ e una sconfitta da $D$, due possibilità sono $(V,\,E,\,V,\,E,\,V)$ e $(E,\,V,\,V,\,V,\,E,\,V)$. Quante sequenze ordinate di risultati ha ottenuto Flamengo?
+> In un campionato di calcio, ogni vittoria vale tre punti, ogni pareggio vale un punto e ogni sconfitta vale zero punti. Si sa che il Flamengo non ha subito alcuna sconfitta e ha chiuso con $20$ punti, ma il numero di partite giocate è sconosciuto. Rappresentando una vittoria con $V$, un pareggio con $E$ e una sconfitta con $D$, due possibilità sono $(V,\,E,\,V,\,E,\,V)$ e $(E,\,V,\,V,\,V,\,E,\,V)$. Quante sequenze ordinate di risultati può aver ottenuto il Flamengo?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n3_f2#q08|src_obm_2005_n3_f2__Q08]]
 
 
 
@@ -239,8 +295,15 @@ Sequenze ordinate di Flamengo con 20 punti, nessuna sconfitta
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Termino massimo minimo possibile di AP con sei termini primari distinti*
+*Massimo termine minimo possibile di una progressione aritmetica con sei termini primi distinti*
 
-> Determinare il minimo valore possibile del termine massimo di una progressione aritmetica con tutti e sei i termini $a_1,\,a_2,\,a_3,\,a_4,\,a_5,\,a_6$ che sono numeri primi positivi distinti.
-> 
-> In passato, gli ex olimpici Terence Tao (Australia, oro all'IMO 1988) e Ben Green (Regno Unito, argento all'IMO 1994) hanno dimostrato che esistono progressioni aritmetiche arbitrariamente lunghe con tutti i termini prim. Questa domanda risale al diciottesimo secolo e appare nella ricerca di Lagrange e Waring.
+> Determinare il valore minimo possibile del termine massimo di una progressione aritmetica i cui sei termini $a_1,\,a_2,\,a_3,\,a_4,\,a_5,\,a_6$ siano tutti numeri primi positivi distinti.
+>
+> *Curiosità:* In passato, gli ex olimpionici Terence Tao (Australia, oro all'IMO 1988) e Ben Green (Regno Unito, argento all'IMO 1994) hanno dimostrato che esistono progressioni aritmetiche di lunghezza arbitraria i cui termini sono tutti numeri primi. Questa questione risale al XVIII secolo ed emerge nella ricerca di Lagrange e Waring.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n3_f2#q09|src_obm_2005_n3_f2__Q09]]

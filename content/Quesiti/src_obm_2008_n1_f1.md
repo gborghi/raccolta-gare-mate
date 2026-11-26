@@ -32,13 +32,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Segmenti di 1 cm per formare triangoli equilaterali; il cui conteggio è impossibile*
+*Segmenti di 1 cm per formare triangoli equilateri; il loro numero è impossibile da determinare*
 
-> Con segmenti di 1 cm di lunghezza possiamo formare triangoli. Ad esempio, con nove segmenti possiamo formare un triangolo equilaterale del lato 3. Con quale numero di segmenti è impossibile formare un triangolo equilaterale?
-> 
+> Con segmenti lunghi 1 cm possiamo formare dei triangoli. Ad esempio, con nove segmenti possiamo formare un triangolo equilatero di lato 3. Con quale numero di segmenti è impossibile formare un triangolo equilatero?
+>
 > A) 4 $\quad$ B) 5 $\quad$ C) 6 $\quad$ D) 7 $\quad$ E) 8
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_obm_2008_n1_f1#q01|src_obm_2008_n1_f1__Q01]]
 
 
 
@@ -71,21 +76,25 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Espressione per il cambiamento quando si acquista olio d'oliva e succo*
+*Espressione per il cambiamento quando si acquistano olio d'oliva e succo*
 
-> Esmeralda compra cinque scatole di olio d'oliva a quattro reais e settanta centoville ciascuno, cinque scatole di succo a tre reais e dodici centoville ciascuno e tre scatole di succo a ottanta centoville ciascuno. Lei paga con un biglietto di cinquanta soldi reali e vuole sapere quanta cambio riceverà. Quale delle seguenti espressioni aritmetiche rappresenta la soluzione a questo problema?
-> 
+> Esmeralda compra cinque lattine di olio d'oliva a quattro reais e settanta centavos ciascuna, cinque cartoni di succo a tre reais e dodici centavos ciascuno, e tre scatole di succo a ottanta centavos ciascuna. Paga con una banconota da cinquanta reais e vuole sapere quanto resto riceverà. Quale delle seguenti espressioni aritmetiche rappresenta la soluzione di questo problema?
+>
 > A) $50 - 5 \times (4{,}70 + 3{,}12) + 3 \times 6 \times 0{,}80$
-> 
+>
 > B) $5 \times 4{,}70 + 5 \times 3{,}12 + 3 \times 6 \times 0{,}80 - 50$
-> 
+>
 > C) $-\left[5 \times (4{,}70 + 3{,}12) + 3 \times 6 \times 0{,}80\right] + 50$
-> 
+>
 > D) $50 - \left[5 \times (4{,}70 + 3{,}12) + 3 \times 6 \times 0{,}80\right]$
-> 
+>
 > E) $50 - \left[5 \times (4{,}70 + 3{,}12) + 6{,}80\right]$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n1_f1#q02|src_obm_2008_n1_f1__Q02]]
 
 
 
@@ -115,17 +124,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Studizione delle preferenze di colore con grafici delle torte; determina la classificazione complessiva*
+*Sondaggio sulle preferenze cromatiche con diagrammi a torta; determinare la classifica generale*
 
-> Un sondaggio è stato condotto con persone di entrambi i sessi, in numero uguale, chiedendo: Tra i colori blu, rosso e giallo, quale preferisci? Ognuno di loro ha dato esattamente una risposta. I risultati sono riportati nelle tabelle di seguito.
-> 
+> È stata condotta un'indagine tra persone di entrambi i sessi, in numero uguale, chiedendo: Tra i colori blu, rosso e giallo, quale preferisci? Ognuno ha fornito esattamente una risposta. I risultati sono riportati nei diagrammi a torta qui sotto.
+>
 > Donne: 48% giallo (I), 19% blu (II), 33% rosso (III). Uomini: 32% giallo (I), 18% blu (II), 50% rosso (III).
-> 
-> Possiamo concludere che, in relazione al numero totale di persone intervistate, l'ordine di preferenza dei colori (da più a meno preferito) è:
-> 
+>
+> Possiamo concludere che, in relazione al numero totale delle persone intervistate, l'ordine di preferenza dei colori (dal più al meno preferito) è:
+>
 > A) I, II, III $\quad$ B) I, III, II $\quad$ C) II, I, III $\quad$ D) II, III, I $\quad$ E) III, II, I
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n1_f1#q03|src_obm_2008_n1_f1__Q03]]
 
 
 
@@ -150,13 +164,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quotiente e rimanente di 26097 diviso per 25*
+*Quoziente e resto della divisione di 26097 per 25*
 
-> Il quotiente e il rimanente nella divisione di $26097$ per $25$ sono rispettivamente:
-> 
-> A) $1043$ e $22$ $\quad$ B) $1044$ e $22$ $\quad$ C) $143$ e $22$ $\quad$ D) $1044$ e $3$ $\quad$
+> Il quoziente e il resto nella divisione di $26097$ per $25$ sono, rispettivamente:
+>
+> A) $1043$ e $22$ $\quad$ B) $1044$ e $22$ $\quad$ C) $143$ e $22$ $\quad$ D) $1044$ e $3$ $\quad$ E) $144$ e $3$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n1_f1#q04|src_obm_2008_n1_f1__Q04]]
 
 
 
@@ -182,13 +200,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Persone numerate 1125; multipli di 3 elencati; alcuni nomi appaiono due volte*
+*Persone numerate da 1 a 125; elencati i multipli di 3; alcuni nomi compaiono due volte*
 
-> In una riunione della comunità del quartiere, ciascuno dei 125 presenti ricevette un numero diverso, da 1 a 125. In quel momento, è stato fatto un elenco di tutte le persone il cui numero è multiplo di 3, che dovevano partecipare a un progetto. Alcune persone si lamentarono che il loro nome apparve due volte nella lista. Quante persone sono apparse due volte sulla lista?
-> 
+> Durante una riunione comunitaria di quartiere, ciascuna delle 125 persone presenti ha ricevuto un numero diverso, da 1 a 125. In quel momento è stata redatta una lista di tutte le persone il cui numero è un multiplo di 3, le quali avrebbero dovuto partecipare a un progetto. Alcune persone si sono lamentate del fatto che il loro nome compariva due volte nella lista. Quante persone comparivano due volte nella lista?
+>
 > A) 2 $\quad$ B) 6 $\quad$ C) 20 $\quad$ D) 41 $\quad$ E) 62
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n1_f1#q05|src_obm_2008_n1_f1__Q05]]
 
 
 
@@ -215,15 +238,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Camera sopra tavolo con quattro solidi; identificare la corretta visione aerea*
+*Telecamera sopra un tavolo con quattro solidi; identifica la vista dall'alto corretta*
 
-> Su un tavolo rettangolare, quattro solidi sono stati posizionati come mostrato nel disegno. Una telecamera sul soffitto della stanza, direttamente sopra il tavolo, fotografò il set. Quale dei seguenti schizzi rappresenta meglio questa fotografia?
-> 
-> [Cinque risposte a) e) mostrano diversi schizzi top-view della tabella con solidi geometrici.]
+> Su un tavolo rettangolare sono stati collocati quattro solidi come mostrato nel disegno. Una telecamera sul soffitto della stanza, direttamente sopra il tavolo, ha fotografato la composizione. Quale dei seguenti schizzi rappresenta meglio questa fotografia?
+>
+> [Cinque opzioni di risposta, da a) a e), mostrano diversi schizzi in vista dall'alto del tavolo con solidi geometrici.]
 
 ![[src_obm_2008_n1_f1__q06.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n1_f1#q06|src_obm_2008_n1_f1__Q06]]
 
 
 
@@ -249,13 +276,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Classe di 22 ragazzi e 18 ragazze; il 60% fa lavoro comunitario; minimo da ragazzi*
+*Classe composta da 22 ragazzi e 18 ragazze; il 60% svolge attività di servizio alla comunità; il minimo proviene dai ragazzi*
 
-> Una classe ha 22 maschi e 18 femmine. Durante le vacanze, $60\%$ di tutti gli studenti della classe svolgono attività comunitarie. Almeno quanti studenti maschi partecipano a questo lavoro?
-> 
+> Una classe conta 22 studenti maschi e 18 studentesse. Durante le vacanze, $60\%$ di tutti gli studenti della classe svolgono attività di servizio alla comunità. Quanti studenti maschi partecipano a tale attività come minimo?
+>
 > A) 1 $\quad$ B) 4 $\quad$ C) 6 $\quad$ D) 6 $\quad$ E) 8
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n1_f1#q07|src_obm_2008_n1_f1__Q07]]
 
 
 
@@ -281,13 +313,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Carte numerate 12008; disegnare due e somma; contare somme odd diverse*
+*Carte numerate da 1 a 2008; si estraggono due carte e si sommano i loro numeri; si contano le somme dispari distinte*
 
-> Una urna contiene carte del 2008. Ogni carta ha un numero diverso, dal 1 al 2008. Due carte vengono tirate a caso e i loro numeri vengono sommati. Quanti diversi numeri dispari si possono ottenere in questo modo?
-> 
+> In un'urna ci sono 2008 carte. Ogni carta porta un numero diverso, da 1 a 2008. Si estraggono a caso due carte e si sommano i loro numeri. Quanti numeri dispari distinti si possono ottenere in questo modo?
+>
 > A) 1004 $\quad$ B) 1005 $\quad$ C) 2007 $\quad$ D) 2008 $\quad$ E) 4016
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n1_f1#q08|src_obm_2008_n1_f1__Q08]]
 
 
 
@@ -314,15 +351,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due trapezzi uguali uniti per formare un quadrato con buco quadrato interno; trovare area*
+*Due trapezi congruenti uniti a formare un quadrato con un foro quadrato interno; determinare l'area*
 
-> Unendo due trapeziodi uguali con basi $30\,\text{cm}$ e $50\,\text{cm}$, fianco a fianco, possiamo formare un quadrato di superficie $2500\,\text{cm}^2$, con un buco quadrato al centro. Qual è l'area di ciascun trapezoide, in $\text{cm}^2$?
-> 
+> Unendo due trapezi congruenti con basi $30\,\text{cm}$ e $50\,\text{cm}$, uno accanto all'altro, possiamo formare un quadrato di area $2500\,\text{cm}^2$, con un foro quadrato al centro. Qual è l'area di ciascun trapezio, in $\text{cm}^2$?
+>
 > A) 200 $\quad$ B) 250 $\quad$ C) 300 $\quad$ D) 350 $\quad$ E) 400
 
 ![[src_obm_2008_n1_f1__q09.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n1_f1#q09|src_obm_2008_n1_f1__Q09]]
 
 
 
@@ -348,13 +389,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri a tre cifre con esattamente due cifre odd*
+*Numeri di tre cifre con esattamente due cifre dispari*
 
-> Quanti numeri a tre cifre hanno esattamente due cifre strane?
-> 
+> Quanti numeri di tre cifre hanno esattamente due cifre dispari?
+>
 > A) 20 $\quad$ B) 48 $\quad$ C) 100 $\quad$ D) 125 $\quad$ E) 225
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n1_f1#q10|src_obm_2008_n1_f1__Q10]]
 
 
 
@@ -379,13 +425,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fraczioni: 2/9 di bottiglia riempie la tazza fino a 5/6; bottiglie necessarie per 15 tazze complete*
+*Frazioni: 2/9 di una bottiglia riempiono un bicchiere fino a 5/6; bottiglie necessarie per 15 bicchieri pieni*
 
-> È noto che $\dfrac{2}{9}$ del contenuto di una bottiglia riempie una tazza a $\dfrac{5}{6}$ della sua capacità. Per riempire completamente 15 tazze, quante bottiglie sono necessarie?
-> 
+> È noto che $\dfrac{2}{9}$ del contenuto di una bottiglia riempie una tazza fino a $\dfrac{5}{6}$ della sua capacità. Per riempire completamente 15 tazze, quante bottiglie sono necessarie?
+>
 > A) 2 $\quad$ B) 3 $\quad$ C) 4 $\quad$ D) 5 $\quad$ E) 6
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n1_f1#q11|src_obm_2008_n1_f1__Q11]]
 
 
 
@@ -413,15 +463,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggiare quadrati con vertici sulla griglia a punti 4x4*
+*Conta i quadrati i cui vertici si trovano su una griglia di punti 4x4*
 
-> Quanti quadrati possono essere formati con vertici nei punti della griglia di punti mostrati? (un array $4 \times 4$ di 16 punti)
-> 
+> Quanti quadrati si possono formare avendo come vertici i punti della griglia di puntini mostrata? (Una disposizione $4 \times 4$ di 16 puntini.)
+>
 > A) 6 $\quad$ B) 7 $\quad$ C) 8 $\quad$ D) 9 $\quad$ E) 10
 
 ![[src_obm_2008_n1_f1__q12.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n1_f1#q12|src_obm_2008_n1_f1__Q12]]
 
 
 
@@ -447,13 +502,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il 14 giugno 2008 è sabato; quando sarà il prossimo 14 giugno sabato?*
+*Il 14 giugno 2008 è un sabato; quando cadrà di nuovo un 14 giugno di sabato?*
 
-> La prima fase dell'OBM si svolge il 14 giugno, sabato dell'anno bisto 2008. Tra quanti anni il 14 giugno ricadrà sabato?
-> 
+> La prima fase dell'OBM si svolge il 14 giugno, un sabato dell'anno bisestile 2008. Tra quanti anni il 14 giugno ricadrà di nuovo di sabato?
+>
 > A) 4 $\quad$ B) 5 $\quad$ C) 6 $\quad$ D) 7 $\quad$ E) 8
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n1_f1#q13|src_obm_2008_n1_f1__Q13]]
 
 
 
@@ -482,13 +542,17 @@ level: OBM Nível 1
 
 *Triangolo con AE=BE=CE=CD e angoli alfa, beta; trovare alfa/beta*
 
-> Nel disegno, $AE = BE = CE = CD$. Inoltre, $\alpha$ e $\beta$ sono misure di angolo. Qual è il valore del rapporto $\dfrac{\alpha}{\beta}$?
-> 
+> Nel disegno, $AE = BE = CE = CD$. Inoltre, $\alpha$ e $\beta$ sono misure angolari. Qual è il valore del rapporto $\dfrac{\alpha}{\beta}$?
+>
 > A) $\dfrac{3}{5}$ $\quad$ B) $\dfrac{4}{5}$ $\quad$ C) $1$ $\quad$ D) $\dfrac{5}{4}$ $\quad$ E) $\dfrac{5}{3}$
 
 ![[src_obm_2008_n1_f1__q14.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n1_f1#q14|src_obm_2008_n1_f1__Q14]]
 
 
 
@@ -516,15 +580,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*moltiplicazione del numero sostitutivo per 7 dà 6157; trovare la somma dei numeri sostituiti*
+*La moltiplicazione per 7 con sostituzione delle cifre dà 6157; trova la somma delle cifre sostituite*
 
-> Nella moltiplicazione di seguito, alcuni numeri sono stati sostituiti dal simbolo $*$. Qual è la somma delle cifre sostituite da $*$?
-> 
+> Nella moltiplicazione qui sotto, alcune cifre sono state sostituite dal simbolo $*$. Qual è la somma delle cifre sostituite da $*$?
+>
 > $$\begin{array}{r} * * * \\ \times \quad 7 \\ \hline * * * * \\ \hline 6 \; 1 \; 5 \; 7 \end{array}$$
-> 
+>
 > A) 17 $\quad$ B) 27 $\quad$ C) 37 $\quad$ D) 47 $\quad$ E) 57
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n1_f1#q15|src_obm_2008_n1_f1__Q15]]
 
 
 
@@ -550,13 +619,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il puzzle logico: identificare un medico, un ingegnere, un professore tra tre amici
+*Puzzle logico: identifica il medico, l'ingegnere e il professore tra tre amici*
 
-> Tre amici vivono nella stessa strada: un dottore, un ingegnere e un professore. I loro nomi sono Arnaldo (A), Bernaldo (B) e Cernaldo (C). Il dottore è un figlio unico ed è il più giovane dei tre amici. Cernaldo è più vecchio dell'ingegnere ed è sposato con la sorella di Arnaldo. I nomi del dottore, dell'ingegnere e del professore, in quell'ordine, sono:
-> 
+> Tre amici abitano sulla stessa strada: un medico, un ingegnere e un professore. I loro nomi sono Arnaldo (A), Bernaldo (B) e Cernaldo (C). Il medico è figlio unico ed è il più giovane dei tre amici. Cernaldo è più anziano dell'ingegnere ed è sposato con la sorella di Arnaldo. I nomi del medico, dell'ingegnere e del professore, in quest'ordine, sono:
+>
 > A) A, B, C $\quad$ B) C, A, B $\quad$ C) B, A, C $\quad$ D) B, C, A $\quad$ E) A, C, B
 
-**Risposta:** C
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n1_f1#q16|src_obm_2008_n1_f1__Q16]]
 
 
 
@@ -583,15 +657,19 @@ Il puzzle logico: identificare un medico, un ingegnere, un professore tra tre am
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due carte triangolari rettangolari (5,12,13 cm) posizionate fianco a fianco; trovare il perimetro*
+*Due carte a forma di triangolo rettangolo (5, 12, 13 cm) poste una accanto all'altra; calcola il perimetro*
 
-> Due carte uguali hanno la forma di un triangolo rettangolo con gambe $5\,\text{cm}$ e $12\,\text{cm}$ e ipotenusa $13\,\text{cm}$. Esmeralda mette le due carte su un foglio di carta, fianco a fianco, tracciando il loro contorno con una matita, ottenendo una figura simile a quella mostrata (non in scala). Qual è il perimetro di questa figura, in cm?
-> 
+> Due carte uguali hanno la forma di un triangolo rettangolo con i cateti $5\,\text{cm}$ e $12\,\text{cm}$ e l'ipotenusa $13\,\text{cm}$. Esmeralda posiziona le due carte su un foglio di carta, una accanto all'altra, tracciando il loro contorno con una matita, ottenendo una figura simile a quella mostrata (non in scala). Qual è il perimetro di questa figura, in cm?
+>
 > A) 28 $\quad$ B) 35 $\quad$ C) 42 $\quad$ D) 43 $\quad$ E) 60
 
 ![[src_obm_2008_n1_f1__q17.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n1_f1#q17|src_obm_2008_n1_f1__Q17]]
 
 
 
@@ -617,13 +695,18 @@ Il puzzle logico: identificare un medico, un ingegnere, un professore tra tre am
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sbarazzare i numeri minimi dal numero ripetuto 2008 in modo che la somma digitali sia pari al 2008*
+*Cancella il numero minimo di cifre dal numero ripetuto-2008 in modo che la somma delle cifre sia uguale a 2008*
 
-> Qual è il numero minimo di cifre che deve essere cancellato dal numero $\underbrace{20082008\cdots2008}_{\text{1000 digits}}$ (la stringa "2008" è ripetuta 250 volte) in modo che la somma delle cifre rimanenti sia uguale a $2008$?
-> 
+> Qual è il numero minimo di cifre che devono essere cancellate dal numero $\underbrace{20082008\cdots2008}_{\text{1000 digits}}$ (la stringa "2008" ripetuta 250 volte) affinché la somma delle cifre rimanenti sia uguale a $2008$?
+>
 > A) 130 $\quad$ B) 260 $\quad$ C) 510 $\quad$ D) 746 $\quad$ E) 1020
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n1_f1#q18|src_obm_2008_n1_f1__Q18]]
 
 
 
@@ -651,15 +734,20 @@ Il puzzle logico: identificare un medico, un ingegnere, un professore tra tre am
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Carte con 5 colori in 5 regioni; rotazioni rendono le carte equivalenti; contare le carte distinte*
+*Carte con 5 colori in 5 regioni; le rotazioni rendono le carte equivalenti; conta le carte distinte*
 
-> Soninha ha molte carte. Ogni carta ha cinque colori diversi (verde, blu, rosso, giallo, arancione), uno in ogni regione del disegno. Nella figura seguente, ad esempio, le due carte mostrate sono uguali, poiché una può essere girata per corrispondere all'altra. Quante carte diverse può produrre Soninha?
-> 
+> Soninha ha molte carte. Ogni carta presenta cinque colori diversi (verde, blu, rosso, giallo, arancione), uno in ciascuna zona del disegno. Nella figura sottostante, per esempio, le due carte mostrate sono identiche, poiché una può essere ruotata in modo da coincidere con l'altra. Quante carte diverse può produrre Soninha?
+>
 > A) 16 $\quad$ B) 25 $\quad$ C) 30 $\quad$ D) 60 $\quad$ E) 120
 
 ![[src_obm_2008_n1_f1__q19.png]]
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n1_f1#q19|src_obm_2008_n1_f1__Q19]]
 
 
 
@@ -684,10 +772,14 @@ Il puzzle logico: identificare un medico, un ingegnere, un professore tra tre am
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre auto a velocità costanti; posizioni relative date quando A supera B; trovare distanza AC*
+*Tre automobili che si muovono a velocità costanti; date le posizioni relative nel momento in cui A sorpassa B, si determini la distanza tra A e C*
 
-> Tre auto viaggiano a velocità costanti lungo la stessa strada, tutte attraversando lo stesso punto nello stesso momento. Quando la macchina A è 100 km avanti alla macchina B, la macchina A è a Brasília; nello stesso momento, la macchina A è 20 km avanti alla macchina B, e la macchina B è 50 km avanti alla macchina C. Quando A è 100 km davanti a B, quanti chilometri davanti a C è A?
-> 
+> Tre automobili percorrono la stessa strada a velocità costanti, e tutte e tre passano per lo stesso punto nello stesso istante. Quando l'automobile A è 100 km davanti all'automobile B, l'automobile A si trova a Brasilia; nello stesso istante, l'automobile A è 20 km davanti all'automobile B, e l'automobile B è 50 km davanti all'automobile C. Quando A è 100 km davanti a B, di quanti chilometri A è davanti a C?
+>
 > A) 20 $\quad$ B) 25{,}5 $\quad$ C) 30 $\quad$ D) 35 $\quad$ E) 37{,}5
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n1_f1#q20|src_obm_2008_n1_f1__Q20]]

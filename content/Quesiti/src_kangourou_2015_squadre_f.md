@@ -33,9 +33,13 @@ level: squadre
 
 *Percentage by which B exceeds A*
 
-> A number A is exceeded by 25% (compared to itself) by a number B. By what percentage does number B (compared to itself) exceed number A?
+> Percentage: Number A is exceeded by 25% (relative to itself) by number B. By what percentage does number B (relative to itself) exceed number A?
 
-**Answer:** 20
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_squadre_f#q01|src_kangourou_2015_squadre_f__Q01]]
 
 
 
@@ -61,11 +65,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiple of 9 with five odd digits (>=4 different)*
+*Multiples of 9 with five odd digits (>=4 distinct)*
 
-> Five odd digits How many multiples (positive integers) of 9 are there whose representation consists of five odd digits of which at least four are all different from each other?
+> Five Odd Digits: How many (positive integer) multiples of 9 are there whose representation consists of five odd digits, at least four of which are all different from one another?
 
-**Answer:** 240
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_squadre_f#q02|src_kangourou_2015_squadre_f__Q02]]
 
 
 
@@ -118,7 +127,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AQB angle in the square with two quarter circles*
+*Angle AQB in the square with two quarter-circles*
 
 ![[src_kangourou_2015_squadre_f__prob3.png]]
 
@@ -144,9 +153,14 @@ level: squadre
 \end{document}
 ```
 
-> Inside a square, look at the figure. ABCD is a square in which the quarter circle with center in D passing through A and C and the quarter circle with center in C passing through B and D are plotted. The two quarter circles intersect in Q. What is the measure in degrees of the AQB angle?
+> Inside a square Observe the figure. ABCD is a square within which the quarter circle centered at D and passing through A and C, and the quarter circle centered at C and passing through B and D, are drawn. The two quarter circles intersect at Q. What is the measure, in degrees, of angle AQB?
 
-**Answer:** 150
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_squadre_f#q03|src_kangourou_2015_squadre_f__Q03]]
 
 
 
@@ -172,11 +186,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of adults given average age of groups and total*
+*Given number of adults, average number of groups and total*
 
-> Young people and adults The average age of a group of "young" friends is 25 years; that of a group of "adult" friends is 45 years. Each of the two groups is made up of fewer than 20 people. If the two groups meet, the average age is 36. How many members are there in the "adult" group?
+> Young people and adults: The average age of a group of "young" friends is 25 years; that of a group of "adult" friends is 45 years. Each of the two groups has fewer than 20 people. If the two groups get together, the average age is 36 years. How many members are in the "adult" group?
 
-**Answer:** 11
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_squadre_f#q04|src_kangourou_2015_squadre_f__Q04]]
 
 
 
@@ -204,11 +222,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little lucky number (sum of digits div 17)*
+*Smaller lucky number (sum of digits divisible by 17)*
 
-> A lucky number Some believe that 17 brings good luck. So let's say that a positive integer is lucky if the sum of its digits is divisible by 17 and, when you add 1 to it, the sum of the digits of the new number you get is still divisible by 17. What's the smallest lucky number?
+> A Lucky Number Some people believe that 17 brings good luck. So let's say that a positive integer is lucky if the sum of its digits is divisible by 17 and, when 1 is added to it, the sum of the digits of the new number obtained is still divisible by 17. What is the smallest lucky number?
 
-**Answer:** 8899
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_squadre_f#q05|src_kangourou_2015_squadre_f__Q05]]
 
 
 
@@ -234,11 +257,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n with decreasing residues divided by 10..2*
+*Minimum n with decreasing remainders when dividing by 10..2*
 
-> Remainders and Divisions What's the smallest positive integer that divided by 10 gives a remainder of 9, divided by 9 gives a remainder of 8, divided by 8 gives a remainder of 7 and so on until "divided by 2 gives a remainder of 1"?
+> Remainders and divisions: What is the smallest positive integer that, when divided by 10, leaves a remainder of 9; when divided by 9, leaves a remainder of 8; when divided by 8, leaves a remainder of 7; and so on, all the way to "when divided by 2, leaves a remainder of 1"?
 
-**Answer:** 2519
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_squadre_f#q06|src_kangourou_2015_squadre_f__Q06]]
 
 
 
@@ -275,14 +303,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of grid 3x3 with six different prime sums*
+*Minimum sum of a 3x3 grid with six distinct prime sums*
 
-> Grid 3 × 3 In each cell of a grid 3 × 3 one and only one positive integer is inserted so that the six numbers obtained by adding those inserted in each single row and those inserted in each single column are six prime numbers all different from each other. The nine numbers in the grid, on the other hand, are not necessarily all different from each other. What's the minimum possible value for the sum of these 9 numbers?
->  
->  
+> The 3 × 3 Grid In each cell of a 3 × 3 grid, exactly one positive integer is placed so that the six numbers obtained by summing the numbers placed in each individual row and the numbers placed in each individual column are six distinct prime numbers. The 9 numbers placed in the grid, however, are not necessarily all distinct from one another. What is the minimum possible value of the sum of these 9 numbers?
+>
+>
 > A D B C Q ?
 
-**Answer:** 29
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_squadre_f#q07|src_kangourou_2015_squadre_f__Q07]]
 
 
 
@@ -311,11 +344,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of odd sums from products of primes*
+*Maximum number of odd sums that are products of primes*
 
-> Daniela and prime numbers Daniela chooses 20 prime integers to her liking, all different from each other. She then multiplies them two by two in every possible way (except the order: for example, product 3 × 5 and product 5 × 3 correspond in one way; she never multiplies a number by itself). Finally, she adds the products thus obtained two by two in every possible way. What's the maximum number of odd sums you could get?
+> Daniela and Prime Numbers Daniela chooses 20 integers that are prime to each other, all of them distinct, as she pleases. Then she multiplies them in pairs in all possible ways (up to order: for example, the product 3 × 5 and the product 5 × 3 correspond to a single way; she never multiplies a number by itself). Finally, she adds the products thus obtained in pairs in all possible ways. What is the maximum number of odd sums she could obtain?
 
-**Answer:** 3249
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_squadre_f#q08|src_kangourou_2015_squadre_f__Q08]]
 
 
 
@@ -353,7 +391,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ways of colouring segments with a colour per triangle*
+*Ways of coloring segments with one color per triangle*
 
 ![[src_kangourou_2015_squadre_f__prob9.png]]
 
@@ -366,9 +404,14 @@ level: squadre
 \end{document}
 ```
 
-> Three colors. Each segment of those in the figure should be painted red, green or blue so that each triangle has a red, green or blue side. How many different ways can this be done?
+> Three Colors Each of the segments shown in the figure must be painted red, green, or blue so that each triangle has one red side, one green side, or one blue side. In how many different ways can this be done?
 
-**Answer:** 96
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_squadre_f#q09|src_kangourou_2015_squadre_f__Q09]]
 
 
 
@@ -396,15 +439,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ways to form three teams from 6 pairs of twins*
+*Ways of forming three teams of 6 pairs of twins each*
 
-> A strange class         
->         A strange class is made up of 6 pairs of twins. The 12 students are to be divided into three teams 
-> of four students each, which will compete in a contest, in such a way that no team has among its 
-> members both a student and his twin. In how many different ways can the 
-> three teams be formed?
+> A Strange Class A strange class consists of 6 pairs of twins. The 12 students must be divided into three teams of four students each, and the teams will compete in a contest in such a way that no team includes both a student and that student's twin. In how many different ways can the three teams be formed?
 
-**Answer:** 960
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_squadre_f#q10|src_kangourou_2015_squadre_f__Q10]]
 
 
 
@@ -433,11 +477,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four digits of Cristina with a difference in products 1000*
+*Cristina's four-digit number with a product difference of 1000*
 
-> Cristina's numbers From the numbers 1 to 9, Cristina chooses four of them all different from each other. She then groups them into pairs and orders the two pairs thus obtained, so as to form two two-digit integers from which she calculates the product. After carrying out this operation in all possible ways, she notices that the difference between the highest and lowest of the products obtained is exactly 1000. Write in increasing order the four digits chosen by Cristina.
+> Cristina's Digits Among the digits from 1 to 9, Cristina chooses four digits, all different from one another. She then groups them into pairs and orders the two pairs thus obtained so as to form two two-digit whole numbers, for which she calculates the product. After performing this operation in all possible ways, she realizes that the difference between the largest and the smallest of the products obtained is exactly 1000. Write the four digits chosen by Cristina in ascending order.
 
-**Answer:** 1234
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_squadre_f#q11|src_kangourou_2015_squadre_f__Q11]]
 
 
 
@@ -465,11 +514,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Speed to arrive on time between late and early*
+*Speed to arrive on time—between being late and being early*
 
-> Franco likes to ride a bicycle, even if he has to travel long distances. Starting at a given moment and cycling at a speed of 20 km/h, you would arrive at an appointment with an hour of delay; leaving at the same moment and cycling at a speed of 30 km/h, you would arrive an hour early. How many kilometers an hour does he have to cycle if, starting at that moment, he wants to get there on time?
+> Right on time: Franco likes to get around by bicycle, even though he has to cover long distances. If he sets off at a given moment and pedals at a speed of 20 km/h, he would arrive at an appointment an hour late; if he sets off at the same moment and pedals at a speed of 30 km/h, he would arrive an hour early. At what speed in kilometers per hour must he pedal if, setting off at that moment, he wants to arrive right on time?
 
-**Answer:** 24
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_squadre_f#q12|src_kangourou_2015_squadre_f__Q12]]
 
 
 
@@ -496,11 +549,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triples of aligned points among 27 points of the cube*
+*Pairs of collinear points among 27 points of the cube*
 
-> The cube In a cube, 27 points are selected: all vertices, the middle points of each edge, the center points of each face, and the center point of the cube. How many different triples of aligned points can be found in this set of 27 points?
+> The Cube In a cube, 27 points are chosen: all the vertices, the midpoints of each edge, the centers of each face, and the center of the cube. How many distinct sets of three collinear points can be identified in this set of 27 points?
 
-**Answer:** 49
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_squadre_f#q13|src_kangourou_2015_squadre_f__Q13]]
 
 
 
@@ -527,11 +585,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantity of 2015-balanced 7-digit numbers*
+*How many 7-digit 2015-unbalanced numbers?*
 
-> 2015-balanced numbers A positive integer of 7 digits is called 2015-balanced if the product of its first four digits is 20 and the product of its last four digits is 15. How many 2015-balanced numbers are there?
+> 2015-unbalanced numbers: A positive integer with 7 digits is called 2015-unbalanced if the following holds: the product of its first four digits is 20, and the product of its last four digits is 15. How many 2015-unbalanced numbers exist?
 
-**Answer:** 72
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_squadre_f#q14|src_kangourou_2015_squadre_f__Q14]]
 
 
 
@@ -560,15 +623,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of forming a meter with bars 9 and 12 cm*
+*Ways of forming a meter using 9-cm and 12-cm sticks*
 
-> One meter You have bars 9 cm long and bars 12 cm long, in unlimited quantities. By aligning them one after another, without overlapping them or even partially, you want to form a bar exactly one meter long. How many possibilities do you have if you don't take into account the order in which the bars follow each other?
->  
->  
->  
-> 
->  
->  
-> Questions and solutions
+> One meter You have at your disposal bars 9 cm long and bars 12 cm long, in unlimited quantities. By lining some of them up one after another, without any even partial overlap, you want to form a bar exactly one meter long. How many possibilities do you have if you do not take into account the order in which the bars follow one another? Questions and solutions
 
-**Answer:** 0
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_squadre_f#q15|src_kangourou_2015_squadre_f__Q15]]

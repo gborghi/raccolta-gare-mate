@@ -35,15 +35,22 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti i k in modo tale che esistano infinitamente molti k-numeri*
+*Tutti i $k$ per cui esistono infiniti $k$-numeri*
 
-> Per un dato numero intero positivo $k$, chiamiamo un numero intero $n$ un numero $k$ se sono soddisfatte entrambe le seguenti condizioni:
-> 
-> (i) Il numero intero $n$ è il prodotto di due numeri interi positivi che differiscono di $k$.
-> 
-> (ii) Il numero intero $n$ è $k$ inferiore a un numero quadrato.
-> 
-> Trova tutti $k$ in modo che ci siano infinitamente molti $k$-numeri.
+> Per un dato intero positivo $k$, chiamiamo un intero $n$ un $k$-numero se sono soddisfatte entrambe le condizioni seguenti:
+>
+> (i) l'intero $n$ è il prodotto di due interi positivi che differiscono di $k$;
+>
+> (ii) l'intero $n$ è di $k$ minore di un quadrato.
+>
+> Trovare tutti i $k$ tali che esistano infiniti $k$-numeri.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2022#q01|src_bmo2_2022__Q01]]
 
 
 
@@ -67,9 +74,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ritrovare tutti i f dai numeri interi positivi ai numeri interi positivi che soddisfano l'equazione funzionale*
+*Tutte le funzioni dagli interi positivi in sé che soddisfano quell'identità*
 
-> Trova tutte le funzioni $f$ dai numeri interi positivi ai numeri interi positivi in modo che per tutti $x, y$ abbiamo: $$2y f(f(x^2) + x) = f(x+1) f(2xy).$$
+> Trovare tutte le funzioni $f$ dagli interi positivi agli interi positivi tali che per tutti gli $x, y$ si abbia
+> $$2y f(f(x^2) + x) = f(x+1) f(2xy).$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2022#q02|src_bmo2_2022__Q02]]
 
 
 
@@ -92,9 +107,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Carte nelle scatole; mostra N esiste per dividere la pila regolare in due pile regolare non vuote*
+*Per $n$ abbastanza grande le scatole si dividono in due pile regolari non vuote*
 
-> Le carte provenienti da mazzi di carte identiche $n$ vengono messe in scatole. Ogni mazzo contiene 50 carte, etichettate da 1 a 50. Ogni scatola può contenere al massimo 2022 carte. Si dice che una pila di scatole sia regolare se contiene uguali numeri di carte con ciascuna etichetta. Mostrare che esiste un certo $N$ in modo che se $n \ge N$, le scatole possano essere suddivise in due pile regolari non vuote.
+> Le carte di $n$ mazzi identici sono messe in scatole. Ogni mazzo contiene 50 carte, etichettate da 1 a 50. Ogni scatola può contenere al più 2022 carte. Una pila di scatole si dice regolare se quella pila contiene lo stesso numero di carte per ogni etichetta. Dimostrare che esiste un $N$ tale che, se $n \ge N$, allora le scatole si possono dividere in due pile regolari non vuote.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_induzione|Induzione]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2022#q03|src_bmo2_2022__Q03]]
 
 
 
@@ -121,10 +143,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto con circoncircolo; prova che la linea AT passa attraverso Q*
+*Se $Q$ sta su $BC$, allora la retta $AT$ passa per $Q$*
 
-> Il $ABC$ deve essere un triangolo angolato acuto con circoncircolo $\Gamma$. Le linee $l_B$ e $l_C$ siano perpendicolari a $BC$ che attraversano rispettivamente $B$ e $C$. Un punto $T$ si trova sull'arco minore $BC$. La tangente di $\Gamma$ a $T$ incontra rispettivamente $l_B$ a $P_B$ e $l_C$ a $P_C$. La linea attraverso $P_B$ perpendicolare a $AC$ e la linea attraverso $P_C$ perpendicolare a $AB$ si incontrano in un punto $Q$.
-> 
-> Dato che $Q$ si trova su $BC$, dimostrare che la linea $AT$ passa attraverso $Q$.
-> 
-> Un arco minore di un cerchio è il più corto dei due archi con determinati punti di fine.)
+> Sia $ABC$ un triangolo acutangolo con circonferenza circoscritta $\Gamma$. Siano $l_B$ e $l_C$ le rette perpendicolari a $BC$ che passano rispettivamente per $B$ e per $C$. Un punto $T$ sta sull'arco minore $BC$. La tangente a $\Gamma$ in $T$ incontra $l_B$ in $P_B$ e $l_C$ in $P_C$. La retta per $P_B$ perpendicolare ad $AC$ e la retta per $P_C$ perpendicolare ad $AB$ si incontrano in un punto $Q$.
+>
+> Sapendo che $Q$ sta su $BC$, dimostrare che la retta $AT$ passa per $Q$.
+>
+> *(Un arco minore di una circonferenza è il più corto dei due archi con gli estremi dati.)*
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2022#q04|src_bmo2_2022__Q04]]

@@ -33,13 +33,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Proprietà di numeri a tre cifre con somma di cifre e condizioni di prodotto*
+*Numeri di tre cifre $n$ tali che $n/f(n) = 1$*
 
-> A partire da qualsiasi numero a tre cifre $n$ (come $n = 625$) otteniamo un nuovo numero $f(n)$ che è la somma delle tre cifre di $n$, dei loro tre prodotti in coppia e del prodotto di tutte e tre le cifre.
-> 
-> (i) Trova il valore di $n/f(n)$ quando $n = 625$. (La risposta è un numero intero!)
-> 
-> (ii) Trovare tutti e tre i numeri $n$ in modo tale che $n/f(n) = 1$.
+> Partendo da un qualunque numero di tre cifre $n$ (per esempio $n = 625$) si ottiene un nuovo numero $f(n)$, somma delle tre cifre di $n$, dei loro tre prodotti a due a due e del prodotto di tutte e tre le cifre.
+>
+> (i) Trovare il valore di $n/f(n)$ quando $n = 625$. (La risposta è un intero!)
+>
+> (ii) Trovare tutti i numeri di tre cifre $n$ tali che $n/f(n) = 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_1994#q01|src_bmo1_1994__Q01]]
 
 
 
@@ -66,13 +73,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizioni di punto medio e angolo del triangolo con locus*
+*Che cosa si può dire di $ABX$ e di $AB + AC$ in due configurazioni*
 
-> Nel triangolo $ABC$ il punto $X$ si trova su $BC$.
-> 
-> (i) Supponiamo che $\angle BAC = 90^\circ$, che $X$ sia il punto medio di $BC$, e che $\angle BAX = \angle XAC$. Cosa puoi dire (e dimostrare!) sul triangolo $ABX$?
-> 
-> (ii) Supponiamo che $\angle BAC = 60^\circ$, che $AX$ divide l'angolo $BAC$ e che $BX = 1$. Che cosa si può dire (e dimostrare!) sulla somma $AB + AC$? Qual è il locus del punto $A$ in quanto $X$ varia lungo $BC$?
+> Nel triangolo $ABC$ il punto $X$ sta su $BC$.
+>
+> (i) Si supponga che $\angle BAC = 90^\circ$, che $X$ sia il punto medio di $BC$ e che $\angle BAX = \angle XAC$. Che cosa si può dire (e dimostrare!) del triangolo $ABX$?
+>
+> (ii) Si supponga che $\angle BAC = 60^\circ$, che $AX$ bisechi l'angolo $BAC$ e che $BX = 1$. Che cosa si può dire (e dimostrare!) della somma $AB + AC$? Qual è il luogo del punto $A$ al variare di $X$ su $BC$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_1994#q02|src_bmo1_1994__Q02]]
 
 
 
@@ -97,9 +111,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza che soddisfa la ricorrenza con parametro fisso k*
+*Valori possibili di $k$ se $u_{2000} = 2000$*
 
-> La sequenza $u_1, u_2, u_3, \ldots$ soddisfa $u_1 = 1$ e $$u_{n+1} - u_n = k u_{n-1}, \quad \text{for each } n \ge 2,$$ dove $k$ è un numero intero fisso. Se $u_{2000} = 2000$, determinare tutti i possibili valori di $k$.
+> La successione $u_1, u_2, u_3, \ldots$ soddisfa $u_1 = 1$ e
+> $$u_{n+1} - u_n = k u_{n-1}, \quad \text{for each } n \ge 2,$$
+> dove $k$ è un intero fissato. Se $u_{2000} = 2000$, determinare tutti i valori possibili di $k$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_1994#q03|src_bmo1_1994__Q03]]
 
 
 
@@ -122,9 +145,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti su un cerchio con condizione tangente e angolare*
+*Dimostrare che $\angle PAR = \angle ABC$*
 
-> I punti $Q$, $R$ si trovano sul cerchio $\gamma$, e $P$ è un punto tale che $PQ$, $PR$ sono tangenti di $\gamma$. $A$ è il punto medio di $PQ$ e $C$ è il circoncentro del triangolo $PQR$. Il cerchio $\gamma$ taglia di nuovo $AQ$ al punto $B$. Prove che $\angle PAR = \angle ABC$.
+> I punti $Q$, $R$ stanno sulla circonferenza $\gamma$, e $P$ è un punto tale che $PQ$ e $PR$ sono tangenti a $\gamma$. $A$ è il punto medio di $PQ$ e $C$ è il circocentro del triangolo $PQR$. La circonferenza $\gamma$ seca di nuovo $AQ$ nel punto $B$. Dimostrare che $\angle PAR = \angle ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_1994#q04|src_bmo1_1994__Q04]]
 
 
 
@@ -147,6 +177,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Seguenza alternativa di integri con equazione funzionale*
+*Successioni alternanti su $\{1, 2, \ldots, n\}$ e il valore di $A(20)$*
 
-> Si dice che una sequenza crescente di numeri interi si alternasse se inizia con un termine impar, il secondo termine è pari, il terzo termine è impar, il quarto è pari, e così via. La sequenza vuota (senza termine) è considerata alternante. $A(n)$ indichi il numero di sequenze alternative che coinvolgono solo gli integri del set $\{1, 2, \ldots, n\}$. Indicare che $A(1) = 2$ e $A(2) = 3$. Trova una formula per $A(n+2)$ in termini di $A(n+1)$ e $A(n)$ e prova che la formula è corretta. Trova quindi il valore di $A(20)$ e prova che il valore è corretto.
+> Una successione crescente di interi si dice alternante se comincia con un termine dispari, il secondo è pari, il terzo è dispari, il quarto è pari, e così via. La successione vuota (senza alcun termine) si considera alternante. Sia $A(n)$ il numero di successioni alternanti che usano solo interi dell'insieme $\{1, 2, \ldots, n\}$. Dimostrare che $A(1) = 2$ e $A(2) = 3$. Trovare una formula per $A(n+2)$ in funzione di $A(n+1)$ e di $A(n)$, e dimostrare che è corretta. Di qui trovare il valore di $A(20)$, e dimostrare che quel valore è corretto.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_1994#q05|src_bmo1_1994__Q05]]

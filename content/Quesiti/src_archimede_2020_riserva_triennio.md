@@ -37,15 +37,23 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to buy three different types of clothing*
+*Ways of buying three items all of different types*
 
-> Andrea's trying on clothes in a store. He's undecided between four shirts, five sweaters, four sweaters and three pants. He will buy three different types of clothes (not two shirts and a sweater or three trousers, etc.). How many ways will Andrea be able to make her purchases?
+> Andrea is trying on clothes in a shop. He is undecided between 4 shirts, 5 jumpers, 4 sweatshirts and 3 trousers. He will buy
+> precisely three items, all of different types (that is, not two shirts and a jumper or three trousers, etc.). In how many
+> ways can Andrea make his purchases?
 >
 > - **(A)** 248
 > - **(B)** 342
 > - **(C)** 262
 > - **(D)** 294
 > - **(E)** 326
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q01|src_archimede_2020_riserva_triennio__Q01]]
 
 
 
@@ -75,15 +83,22 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of payment of EUR 141 with 5 banknotes and 2 coins*
+*Ways of paying 141 euros with 5-euro notes and 2-euro coins*
 
-> Martina buys books, which cost a total of 141 euros. He has 40 five-euro notes and 80 two-euro coins in his pocket. How many different ways will Martina be able to pay for the books precisely (without receiving any balance)?
+> Martina buys some books, which cost 141 euros in total. She has 40 five-euro notes and 80 two-euro coins in her pocket.
+> In how many different ways can Martina pay for the books exactly (without receiving any change)?
 >
 > - **(A)** 13
 > - **(B)** 15
 > - **(C)** 28
 > - **(D)** 14
 > - **(E)** 26
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q02|src_archimede_2020_riserva_triennio__Q02]]
 
 
 
@@ -113,15 +128,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-conforming triangles with sides between 2,3,4,5*
+*Non-congruent triangles with side lengths among 2, 3, 4, 5*
 
-> How many non-degenerate triangles (i.e. no area) are possible, each of them not congruent, where the length of each side is one of the measures 2, 3, 4, 5?
+> How many possible non-degenerate (i.e. of non-zero area) triangles, pairwise non-congruent, are there in which the length of each side is one of the measures 2, 3, 4, 5?
 >
 > - **(A)** 17
 > - **(B)** 12
 > - **(C)** 13
 > - **(D)** 14
 > - **(E)** 16
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q03|src_archimede_2020_riserva_triennio__Q03]]
 
 
 
@@ -150,15 +171,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Third-digit numbers equal to 0 and 7*
+*Even three-digit numbers with distinct digits containing 0 and 7*
 
-> How many numbers are equal to three digits all different from each other, where are both the digit 0 and the digit 7 present?
+> How many even three-digit numbers with all digits distinct are there, in which both the digit 0 and the digit 7 are present?
 >
 > - **(A)** 18
 > - **(B)** 20
 > - **(C)** 22
 > - **(D)** 23
 > - **(E)** 19
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q04|src_archimede_2020_riserva_triennio__Q04]]
 
 
 
@@ -186,15 +213,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum n with a 24^n divider of 60^100*
+*Largest integer n such that 24^n divides 60^100*
 
-> Indicate the maximum integer n such that 24n is a divisor of 60100.
+> Indicate the largest integer n such that 24^n is a divisor of 60^100.
 >
 > - **(A)** 73
 > - **(B)** 76
 > - **(C)** 66
 > - **(D)** 80
 > - **(E)** 83
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q05|src_archimede_2020_riserva_triennio__Q05]]
 
 
 
@@ -223,15 +255,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of 36 by throwing 4 dice*
+*Probability of product 36 when rolling 4 dice*
 
-> If you roll four dice, with faces from 1 to 6, what is the probability that the product of the resulting numbers is 36?
+> Rolling 4 game dice, with faces from 1 to 6, what is the probability that the product of the numbers rolled is 36?
 >
 > - **(A)** 1/27
 > - **(B)** 5/108
 > - **(C)** 5/36
 > - **(D)** 7/216
 > - **(E)** 7/144
+
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q06|src_archimede_2020_riserva_triennio__Q06]]
 
 
 
@@ -262,15 +300,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of falling into water by walking 2 metres at random*
+*Probability of ending up in the water after walking 2 metres at random*
 
-> Francis takes the sun on a 4 meter-wide square ABCD platform, surrounded by water. For a bet, you're placed at the point of the platform 1 meter away from the sides AB and BC. Then, blindfolded, he walks in a random direction for two meters. What are the chances that Francis will end up in the water?
+> Francesco sunbathes on a square platform ABCD with side length 4 metres, surrounded by water. For a bet, he stands at the point of the platform that is 1 metre from sides AB and BC. Then, blindfolded, he walks in a random direction for 2 metres. What is the probability that Francesco ends up in the water?
 >
 > - **(A)** 1/2
 > - **(B)** 3/4
 > - **(C)** 2/3
 > - **(D)** 7/12
 > - **(E)** 9/16
+
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q07|src_archimede_2020_riserva_triennio__Q07]]
 
 
 
@@ -300,15 +344,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes to fill the tank with a second target faucet*
+*Minutes to fill the tank with the second tap at half-full*
 
-> To fill a water tank, there are two identical taps. Leaving only one of the two open, the tub fills up in 24 minutes. To shorten the time, when the tank is filled in half with water from a tap, the second tap is also opened. In doing so, how many minutes does it take for the entire tank to fill?
+> To fill a water tank there are two identical taps. Leaving only one of the two open, the tank fills in 24 minutes. To shorten the time, when the tank is half-full with water coming from one tap, the second tap is also opened. Doing so, how many minutes does the tank take in total to fill?
 >
 > - **(A)** 12
 > - **(B)** 16
 > - **(C)** 18
 > - **(D)** 15
 > - **(E)** 20
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q08|src_archimede_2020_riserva_triennio__Q08]]
 
 
 
@@ -340,15 +389,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of thieves at tables bound to neighbours*
+*Minimum number of liars at tables with a constraint on neighbours*
 
-> On an island there are two categories of people: the knights (who always tell the truth) and the crooks (who always tell the lies). At a banquet, there are 9 tables with 3 people sitting, 8 tables with 4 people, 5 tables with 5 people and 10 tables with 6 (all round tables). Each of them says: The two people next to me are from two different categories. How many thieves can there be at the banquet?
+> On an island live two categories of people: knights (who always tell the truth) and liars (who always tell lies). At a banquet, there are 9 tables with 3 people seated, 8 tables with 4 people, 5 tables with 5 people and 10 tables with 6 (all circular tables). Each of those present says: “the two people next to me are of two different categories”. What can be, at minimum, the number of liars present at the banquet?
 >
 > - **(A)** 144
 > - **(B)** 86
 > - **(C)** 48
 > - **(D)** 88
 > - **(E)** 72
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q09|src_archimede_2020_riserva_triennio__Q09]]
 
 
 
@@ -377,15 +432,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle area of EFG from CDE triangular bisetters*
+*Area of triangle EFG from angle bisectors in triangle CDE*
 
-> The sides CD, DE, EC of a CDE triangle measure 13 m, 17 m and 21 m respectively. The visors coming from the C and D vertices intersect the opposite sides at the points F and G. In the area of CDE, what is the area of the EFG triangle?
+> The sides CD, DE, EC of a triangle CDE measure, respectively, 13 m, 17 m, 21 m. The angle bisectors from the vertices C and D intersect the opposite sides at points F and G. Let A be the area of CDE; what is the area of triangle EFG?
 >
 > - **(A)** 4 9A
 > - **(B)** 7 20A
 > - **(C)** 1 3A
 > - **(D)** 1 4A
 > - **(E)** 5 14A
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q10|src_archimede_2020_riserva_triennio__Q10]]
 
 
 
@@ -414,15 +474,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trapezoidal area from areas of two triangles on the diagonals*
+*Area of a trapezium from the areas of two triangles on the diagonals*
 
-> In the PQRS trapezoid, of PQ and RS bases, T is the intersection point of the PR and QS diagonals. The areas of the RST and PST triangles are 12 mm2 and 24 mm2 respectively. How many mm2 does the area of the PQRS trapezoid measure?
+> In trapezium PQRS, with bases PQ and RS, let T be the intersection point of the diagonals PR and QS. The areas of triangles RST and PST are, respectively, 12 mm2 and 24 mm2. How many mm2 is the area of trapezium PQRS?
 >
 > - **(A)** 105
 > - **(B)** 108
 > - **(C)** 100
 > - **(D)** 104
 > - **(E)** 102
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q11|src_archimede_2020_riserva_triennio__Q11]]
 
 
 
@@ -452,12 +517,19 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Prime p with x^2-(43-p) x+5p positive whole roots*
+*First primes p with x^2-(43-p)x+5p having positive integer roots*
 
-> Determine all prime numbers p such that the polynomial P(x) = x2 −(43 −p) x + 5p has two positive integers. Please indicate the sum of the above numbers p.
+> Determine all prime numbers p such that the polynomial P(x) = x^2 −(43 −p)x + 5p has two positive integer roots.
+> Indicate as the answer the sum of the said numbers p.
 >
 > - **(A)** 20
 > - **(B)** 26
 > - **(C)** 42
 > - **(D)** 19
-> - **(E)** 31 The Archimedean Games 2020/2021 Third Reserve Games   PROOF Codes: TT02
+> - **(E)** 31 I Giochi di Archimede 2020/2021 GARA DI RISERVA TRIENNIO – – CODICE PROVA: TT02
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2020_riserva_triennio#q12|src_archimede_2020_riserva_triennio__Q12]]

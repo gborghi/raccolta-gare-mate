@@ -31,11 +31,18 @@ level: China Mathematical Competition (Extra Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo tangente triangolare, incentro ed eccentro via DE DF*
+*Cerchio tangente al triangolo, incentro ed excentri tramite DE DF*
 
-> In $\triangle ABC$, $AB > AC$, $l$ è una linea tangente del cerchio circoscritto di $\triangle ABC$. Il cerchio, incentrato a $A$ con raggio $AC$, si interseca con $AB$ a $D$ e $l$ a $E$, $F$ (vedere il diagramma). Provare che le linee $DE$ e $DF$ passano rispettivamente attraverso l'incentro e l'eccentro di $\triangle ABC$.
+> In $\triangle ABC$, $AB > AC$, $l$ è una retta tangente alla circonferenza circoscritta di $\triangle ABC$. La circonferenza, centrata in $A$ con raggio $AC$, interseca $AB$ in $D$ e $l$ in $E$, $F$ (vedi la figura). Dimostrare che le rette $DE$, $DF$ passano rispettivamente per l'incentro e l'escentro di $\triangle ABC$.
 
 ![[src_cn_cmc-extra-test_2005__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-extra-test_2005#q01|src_cn_cmc-extra-test_2005__Q01]]
 
 
 
@@ -60,11 +67,17 @@ level: China Mathematical Competition (Extra Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di funzione simmetrica data la limitazione lineare sui reali positivi*
+*Minimo di una funzione simmetrica con vincoli lineari sui reali positivi*
 
-> Supponiamo che i numeri positivi $a$, $b$, $c$, $x$, $y$, $z$ soddisfino $cy + bz = a$, $az + cx = b$, $bx + ay = c$. Trova il valore minimo della funzione $$f(x, y, z) = \frac{x^2}{1+x} + \frac{y^2}{1+y} + \frac{z^2}{1+z}.$$
+> Si supponga che i numeri positivi $a$, $b$, $c$, $x$, $y$, $z$ soddisfino $cy + bz = a$, $az + cx = b$, $bx + ay = c$. Si determini il valore minimo della funzione
+> $$f(x, y, z) = \frac{x^2}{1+x} + \frac{y^2}{1+y} + \frac{z^2}{1+z}.$$
 
-**Risposta:** \frac{1}{2}
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-extra-test_2005#q02|src_cn_cmc-extra-test_2005__Q02]]
 
 
 
@@ -90,8 +103,15 @@ level: China Mathematical Competition (Extra Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa della funzione del pavimento che comprende una parte frazionaria della radice quadrata*
+*Somma di funzioni parte intera che coinvolgono la parte frazionaria della radice quadrata*
 
-> Per ogni intero positivo $n$, definire una funzione $$f(n) = \begin{cases} 0, & \text{if } n \text{ is the square of an integer,} \\ \left[\dfrac{1}{\{\sqrt{n}\}}\right], & \text{if } n \text{ is not the square of an integer.} \end{cases}$$ (qui $[x]$ indica il numero intero massimo non superiore a $x$, e $\{x\} = x - [x]$.) Trova il valore di $\displaystyle\sum_{k=1}^{200} f(k)$.
+> Per ogni intero positivo $n$, si definisca una funzione
+> $$f(n) = \begin{cases} 0, & \text{if } n \text{ is the square of an integer,} \\ \left[\dfrac{1}{\{\sqrt{n}\}}\right], & \text{if } n \text{ is not the square of an integer.} \end{cases}$$
+> (Qui $[x]$ denota il massimo intero non superiore a $x$, e $\{x\} = x - [x]$.) Si determini il valore di $\displaystyle\sum_{k=1}^{200} f(k)$.
 
-**Risposta:** 768
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-extra-test_2005#q03|src_cn_cmc-extra-test_2005__Q03]]

@@ -29,9 +29,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Isosceles trapezoide ABCD in piano xy; trovare a^b*
+*Trapezio isoscele ABCD nel piano xy; trova a^b*
 
-> Che $ABCD$ sia un quadrilaterale nel piano $xy$ con $AB$ parallelo a $CD$ e $AD = BC$. Supponiamo $A = (0, 0)$, $B = (10, 0)$, $C = (8, 5)$ e $D = (a, b)$. Determinare il valore di $a^b$.
+> Sia $ABCD$ un quadrilatero nel piano $xy$, con $AB$ parallelo a $CD$ e a $AD = BC$. Si supponga che valgano $A = (0, 0)$, $B = (10, 0)$, $C = (8, 5)$ e $D = (a, b)$. Determinare il valore di $a^b$.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2025_sep28#q01|src_ioqm_2025_sep28__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale su numeri interi positivi; trovare tutti n con f(f(n))=99*
+*Equazione funzionale sugli interi positivi; trovare tutti gli n tali che f(f(n))=99*
 
-> Una funzione è definita sull'insieme di integri positivi in modo tale che se $n$ è un intero odd, $f(n) = n - 1$ e se $n$ è un intero pari, $f(n) = n^2 - 1$. Determinare la somma di tutti i possibili valori di $n$ in modo tale che $f(f(n)) = 99$.
+> È definita una funzione sull'insieme degli interi positivi tale che, se $n$ è un intero dispari, $f(n) = n - 1$, e se $n$ è un intero pari, $f(n) = n^2 - 1$. Determinare la somma di tutti i valori possibili di $n$ tali che $f(f(n)) = 99$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2025_sep28#q02|src_ioqm_2025_sep28__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi positivi n ≤ 100 senza fattore primo diverso da 2 o 3*
+*Conta gli interi positivi n ≤ 100 che non hanno altri fattori primi oltre a 2 o 3*
 
-> Trova il numero di integri positivi $n$ inferiore o uguale a 100 in modo tale che $n$ non sia divisibile da nessun numero primo diverso da 2 o 3.
+> Trovare il numero di interi positivi $n$ minori o uguali a 100 tali che $n$ non sia divisibile per alcun numero primo diverso da 2 o 3.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2025_sep28#q03|src_ioqm_2025_sep28__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dei dadi cubici rivolti a 2^0,...,2^5; due a pietra; somma massima di 9 visibili; somma dei quadrati di cifre*
+*Facce dei dadi cubici 2^0,...,2^5; due impilati; somma massima visibile 9; somma dei quadrati delle cifre*
 
-> Le sei facce di un dado cubico sono numerate con $2^0, 2^1, 2^2, 2^3, 2^4, 2^5$ in modo tale che il prodotto dei numeri su qualsiasi coppia di facce opposte sia $2^5$. Due di questi dadi sono impilati uno sopra l'altro. Se $N$ è la somma più grande possibile dei 9 numeri visibili (per tutti tali disegni di dadi), trovare la somma dei quadrati delle cifre di $N$.
+> Le sei facce di un dado cubico sono numerate con $2^0, 2^1, 2^2, 2^3, 2^4, 2^5$ in modo che il prodotto dei numeri su ogni coppia di facce opposte sia $2^5$. Due dadi di questo tipo vengono impilati uno sull'altro. Se $N$ è la somma massima possibile dei 9 numeri visibili (per tutte le possibili disposizioni dei dadi di questo tipo), determina la somma dei quadrati delle cifre di $N$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2025_sep28#q04|src_ioqm_2025_sep28__Q04]]
 
 
 
@@ -131,9 +159,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coefficiente di x^2025 in prodotto; restante mod 100*
+*Coefficiente di x^2025 nel prodotto; resto modulo 100*
 
-> Che $N$ sia il coefficiente di $x^{2025}$ nell'espansione di $$(x+1)(x^2+3)(x^4+5)(x^8+7)\cdots(x^{1024}+21).$$ Qual è il rimanente quando $N$ è diviso per 100?
+> Sia $N$ il coefficiente di $x^{2025}$ nello sviluppo di
+> $$(x+1)(x^2+3)(x^4+5)(x^8+7)\cdots(x^{1024}+21).$$
+> Qual è il resto della divisione di $N$ per 100?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2025_sep28#q05|src_ioqm_2025_sep28__Q05]]
 
 
 
@@ -156,9 +193,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro numeri primi distinti sommano a 240, nessuno più grande di 70; trovare il più piccolo*
+*Quattro numeri primi distinti sommano a 240, nessuno supera i 70; trova il più piccolo*
 
-> La somma di quattro numeri primi distinti è 240. Se nessuno dei quattro numeri primi è più grande di 70, quale è il più piccolo dei quattro numeri?
+> La somma di quattro numeri primi distinti è 240. Se nessuno dei quattro numeri primi è maggiore di 70, qual è il più piccolo dei quattro numeri?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2025_sep28#q06|src_ioqm_2025_sep28__Q06]]
 
 
 
@@ -181,9 +225,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi positivi n ≤ 100 divisibili per tutti i con i^3 ≤ n*
+*Interi positivi n ≤ 100 divisibili per ogni i con i³ ≤ n*
 
-> Quanti integri positivi $n \le 100$ sono divisibili da tutti gli integri positivi $i$ in modo tale che $i^3 \le n$?
+> Quanti interi positivi $n \le 100$ sono divisibili per tutti gli interi positivi $i$ tali che $i^3 \le n$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_casework_accurato|Analisi accurata per casi]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_ioqm_2025_sep28#q07|src_ioqm_2025_sep28__Q07]]
 
 
 
@@ -206,9 +257,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fill 2×3 grid con 16 in modo che le celle adiacenti siano coprime; contare modi*
+*Riempi una griglia 2×3 con numeri da 1 a 6 in modo che le celle adiacenti siano coprime; conta le possibilità*
 
-> Considerate un rettangolo $2 \times 3$ costituito da 6 unità quadrate. In quanti modi possiamo riempire le sei celle utilizzando i numeri $1, 2, 3, 4, 5, 6$, uno in ogni cella, in modo che qualsiasi numero in celle adiacenti (cioè in celle che condividono un lato comune) sia coprimo l'uno dell'altro?
+> Si consideri un rettangolo $2 \times 3$ composto da 6 quadrati unitari. In quanti modi si possono riempire le sei celle usando i numeri $1, 2, 3, 4, 5, 6$, uno per cella, in modo che due numeri qualsiasi in celle adiacenti (ossia in celle che condividono un lato comune) siano coprimi tra loro?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2025_sep28#q08|src_ioqm_2025_sep28__Q08]]
 
 
 
@@ -231,9 +289,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più grande numero intero n in modo che un quadrato di lato n si inserisca all'interno di un disco di area 1000*
+*Il più grande n tale che un quadrato di lato n sta in un disco di area 1000*
 
-> Trova il più grande intero $n$ in modo tale che un quadrato di lunghezza laterale $n$ sia contenuto in un disco circolare di area 1000.
+> Trovare il più grande intero $n$ tale che un quadrato di lato $n$ sia contenuto in un disco circolare di area 1000.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_ioqm_2025_sep28#q09|src_ioqm_2025_sep28__Q09]]
 
 
 
@@ -256,9 +321,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel più piccolo intero positivo con somma alterna di quadrati < 100*
+*Il più grande n per cui la somma alternata dei quadrati fino a 2n è minore di 100*
 
-> Trovare il più grande intero positivo $n$ per il quale la disuguaglianza $\sum_{k=1}^{2n}(-1)^k k^2 < 100$ è valida.
+> Trovare il più grande intero positivo $n$ per cui vale la disuguaglianza $\sum_{k=1}^{2n}(-1)^k k^2 < 100$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_ioqm_2025_sep28#q10|src_ioqm_2025_sep28__Q10]]
 
 
 
@@ -283,9 +355,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*5(2m+1)(2m+3)(2m+5) = ababab a sei cifre; trovare m+a+b*
+*5(2m+1)(2m+3)(2m+5) = ababab, un numero di sei cifre; trova m+a+b*
 
-> Let $m$ essere un intero positivo che soddisfi l'equazione $$5(2m+1)(2m+3)(2m+5) = \overline{ababab}$$ dove $a$ e $b$ rappresentano cifre diverse e $\overline{ababab}$ è un numero di sei cifre. Qual è il valore di $m + a + b$?
+> Sia $m$ un numero intero positivo che soddisfa l'equazione
+> $$5(2m+1)(2m+3)(2m+5) = \overline{ababab}$$
+> dove $a$ e $b$ rappresentano cifre diverse e $\overline{ababab}$ è un numero di sei cifre. Qual è il valore di $m + a + b$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2025_sep28#q11|src_ioqm_2025_sep28__Q11]]
 
 
 
@@ -308,9 +389,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie ordinate (m,n) ≤ 20000 con m2+n4 a potenza di 2*
+*Conteggia le coppie ordinate (m,n) tali che m ≤ 20000, n ≤ 20000 e m²+n⁴ sia una potenza di 2*
 
-> Trova i numeri delle coppie ordinate $(m, n)$ dove $m$ e $n$ sono interi positivi inferiori o uguali a 20000 in modo che $m^2 + n^4$ sia una potenza di 2.
+> Trovare il numero di coppie ordinate $(m, n)$ in cui $m$ e $n$ sono numeri interi positivi minori o uguali a 20000 tali che $m^2 + n^4$ sia una potenza di 2.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2025_sep28#q12|src_ioqm_2025_sep28__Q12]]
 
 
 
@@ -333,9 +421,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterali convex, diagonali 12 e 16, segmenti di punto medio uguali; superficie massima*
+*Quadrilatero convesso, diagonali di 12 e 16, segmenti dei punti medi uguali; area massima*
 
-> In un quadrilaterale converso $ABCD$, le lunghezze dei diagonali sono 12 e 16 e i segmenti di linea che uniscono i punti di mezzo dei lati opposti sono di uguale lunghezza. Qual è la superficie massima possibile del quadrilaterale $ABCD$?
+> In un quadrilatero convesso $ABCD$, le lunghezze delle diagonali sono 12 e 16, e i segmenti che uniscono i punti medi dei lati opposti hanno la stessa lunghezza. Qual è l'area massima possibile del quadrilatero $ABCD$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2025_sep28#q13|src_ioqm_2025_sep28__Q13]]
 
 
 
@@ -358,9 +453,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sito ABCD quadrato 1 come corda di cerchio; tangente da C ha lunghezza 2; trovare d2*
+*Il lato 1 del quadrato ABCD è una corda di una circonferenza; la tangente condotta da C ha lunghezza 2; trovare d²*
 
-> Il lato $AB$ di un quadrato $ABCD$ è 1 ed è anche un cordone di un cerchio $S$. Il lato $CD$ non interseca $S$. La lunghezza della tangente $CK$, tratta da $C$ a $S$ al punto $K$ è di 2. Se $d$ è il diametro di $S$, calcolare $d^2$.
+> Il lato $AB$ di un quadrato $ABCD$ è 1 ed è anche una corda di un cerchio $S$. Il lato $CD$ non interseca $S$. La lunghezza della tangente $CK$, tracciata da $C$ a $S$ nel punto $K$, è 2. Se $d$ è il diametro di $S$, allora calcola $d^2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2025_sep28#q14|src_ioqm_2025_sep28__Q14]]
 
 
 
@@ -385,9 +487,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tanti interi positivi che soddisfano 17 ((abcd+ab+ad+cd+1) = 20 ((bcd+b+d); trovare a2+b2+c2+d2*
+*a²+b²+c²+d² per interi positivi che soddisfano un'equazione data*
 
-> Se $a, b, c, d$ sono integri positivi tale che $$17(abcd + ab + ad + cd + 1) = 20(bcd + b + d),$$ trovi $a^2 + b^2 + c^2 + d^2$.
+> Se $a, b, c, d$ sono interi positivi tali che
+> $$17(abcd + ab + ad + cd + 1) = 20(bcd + b + d),$$
+> trovare $a^2 + b^2 + c^2 + d^2$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_ioqm_2025_sep28#q15|src_ioqm_2025_sep28__Q15]]
 
 
 
@@ -412,9 +523,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione di frazione continua; trovare la somma di x_1+...+x_7*
+*Equazione delle frazioni continue; trova la somma di x_1+...+x_7*
 
-> Se $$1 - \cfrac{1}{2+\cfrac{1}{3+\cfrac{1}{4+\cfrac{1}{5+\cfrac{1}{6+\frac{1}{7}}}}}} = \cfrac{1}{x_1+\cfrac{1}{x_2+\cfrac{1}{x_3+\cfrac{1}{x_4+\cfrac{1}{x_5+\cfrac{1}{x_6+\frac{1}{x_7}}}}}}}$$ dove $x_1, x_2, \ldots, x_7$ sono numeri interi positivi, trovare $x_1 + x_2 + x_3 + x_4 + x_5 + x_6 + x_7$.
+> Se
+> $$1 - \cfrac{1}{2+\cfrac{1}{3+\cfrac{1}{4+\cfrac{1}{5+\cfrac{1}{6+\frac{1}{7}}}}}} = \cfrac{1}{x_1+\cfrac{1}{x_2+\cfrac{1}{x_3+\cfrac{1}{x_4+\cfrac{1}{x_5+\cfrac{1}{x_6+\frac{1}{x_7}}}}}}}$$
+> dove $x_1, x_2, \ldots, x_7$ sono interi positivi, trova $x_1 + x_2 + x_3 + x_4 + x_5 + x_6 + x_7$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2025_sep28#q16|src_ioqm_2025_sep28__Q16]]
 
 
 
@@ -437,9 +557,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di carte da disegnare per il prodotto di garanzia divisibile per 6*
+*Numero minimo di carte da pescare per garantire che il prodotto sia divisibile per 6*
 
-> Ci sono 100 carte in una scatola che sono numerate da 1 a 100. Mentre è legato gli occhi, Mainak sta per disegnare una o più carte dalla scatola. Dopo di che, toglierà la benda e moltiplicerà insieme i numeri su queste carte. Mainak vuole che il prodotto dei numeri sulle carte disegnate sia un multiple di 6. Quante carte deve disegnare per assicurarsi che questo accada?
+> In una scatola ci sono 100 carte numerate da 1 a 100. Con gli occhi bendati, Mainak estrarrà una o più carte dalla scatola. Successivamente si toglierà la benda e moltiplicherà tra loro i numeri presenti su queste carte. Mainak vuole che il prodotto dei numeri sulle carte estratte sia un multiplo di 6. Quante carte deve estrarre per essere certo che ciò accada?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2025_sep28#q17|src_ioqm_2025_sep28__Q17]]
 
 
 
@@ -462,9 +589,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cosci di griglia da (0,0) a (7,12) evitando punti con entrambe le coordinate odd*
+*Cammini sulla griglia da (0,0) a (7,12) che evitano i punti con entrambe le coordinate dispari*
 
-> Nel piano, la fine positiva dell'asse $x$ deve essere diretta verso est e la fine positiva dell'asse $y$ deve essere diretta verso nord. Supponiamo che tu sia a $(0, 0)$ e che tu voglia andare a $(7, 12)$. Ad ogni mossa è consentito spostare la lunghezza unità verso est o la lunghezza unità verso nord dalla posizione attuale, ma non è consentito visitare alcun punto $(h, k)$ in cui entrambe le $h, k$ sono odd. Trova il numero di tali percorsi $n$.
+> Nel piano, si supponga che l'estremità positiva dell'asse $x$ sia orientata verso est e che l'estremità positiva dell'asse $y$ sia orientata verso nord. Supponiamo di trovarvi in $(0, 0)$ e di voler raggiungere $(7, 12)$. Ad ogni mossa, è consentito spostarsi di una unità verso est o di una unità verso nord dalla posizione attuale, ma non è consentito visitare alcun punto $(h, k)$ in cui entrambi gli $h, k$ siano dispari. Determinare il numero di tali percorsi $n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2025_sep28#q18|src_ioqm_2025_sep28__Q18]]
 
 
 
@@ -487,9 +621,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie ordinate (m,n) con 1 ≤ m < n ≤ 50 e mn un quadrato perfetto*
+*Conta le coppie ordinate (m,n) tali che 1≤m<n≤50 e mn sia un quadrato perfetto*
 
-> Trova il numero di coppie ordinate $(m, n)$ dove $m$ e $n$ sono integri positivi in modo tale che $1 \le m < n \le 50$ e il prodotto $mn$ sia un quadrato perfetto.
+> Trovare il numero di coppie ordinate $(m, n)$ in cui $m$ e $n$ sono numeri interi positivi tali che $1 \le m < n \le 50$ e il prodotto $mn$ siano un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2025_sep28#q19|src_ioqm_2025_sep28__Q19]]
 
 
 
@@ -512,9 +653,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri a quattro cifre con cifre non zero: a+c=bd e b+d=ac; conteggio*
+*Numeri di quattro cifre con cifre non nulle: a+c=bd e b+d=ac; conta*
 
-> Quanti numeri a quattro cifre $\overline{abcd}$, con cifre non zero $a, b, c, d$ nella base 10, sono tali da $a + c = bd$ e $b + d = ac$?
+> Quanti numeri di quattro cifre $\overline{abcd}$, con cifre non nulle $a, b, c, d$ in base 10, esistono tali che $a + c = bd$ e $b + d = ac$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2025_sep28#q20|src_ioqm_2025_sep28__Q20]]
 
 
 
@@ -537,9 +685,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*f soddisfa 4f ((3-x) +3f ((x) = x2; trova f ((27)-f ((25)) al numero intero più vicino*
+*f soddisfa 4f(3-x)+3f(x)=x²; determina f(27)-f(25) arrotondato all'intero più vicino*
 
-> $f : \mathbb{R} \to \mathbb{R}$ sia una funzione che soddisfi $4f(3-x) + 3f(x) = x^2$ per qualsiasi $x$ reale. Trova il valore di $f(27) - f(25)$ al numero intero più vicino.
+> Sia $f : \mathbb{R} \to \mathbb{R}$ una funzione che soddisfa $4f(3-x) + 3f(x) = x^2$ per ogni $x$ reale. Determinare il valore di $f(27) - f(25)$ arrotondato all'intero più vicino.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2025_sep28#q21|src_ioqm_2025_sep28__Q21]]
 
 
 
@@ -562,9 +717,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre ragazze, quattro piani; contare validi come accordi; trovare la somma dei quadrati di numeri di n*
+*Tre ragazze, quattro storie; le conteggi sono validi come disposizioni; trova la somma dei quadrati delle cifre di n*
 
-> Tre ragazze $G_1, G_2, G_3$, ognuna legge quattro storie $S_1, S_2, S_3, S_4$ e discute quali le piacciono. Nessuna storia piace a tutti e tre. Per ciascuna delle tre coppie di ragazze, c'è almeno una storia che piace alla coppia e non piace alla terza. $n$ sia il numero di modi in cui questo è possibile. Trova la somma dei quadrati delle cifre di $n$.
+> Tre ragazze $G_1, G_2, G_3$, ciascuna legge quattro storie $S_1, S_2, S_3, S_4$ e discute quali storie gradiscono. Nessuna storia è gradita da tutte e tre. Per ciascuna delle tre coppie di ragazze, esiste almeno una storia che è gradita dalla coppia ma non è gradita dalla terza. Sia $n$ il numero dei modi in cui ciò è possibile. Trovare la somma dei quadrati delle cifre di $n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2025_sep28#q22|src_ioqm_2025_sep28__Q22]]
 
 
 
@@ -589,9 +751,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ceviani dal punto interno P; BP/PE=5/2, CP/PF=7/3; trovare p+q dove AP/PD=p/q*
+*Ceviane uscenti da un punto interno P; BP/PE=5/2, CP/PF=7/3; determina p+q, dove AP/PD=p/q*
 
-> Il $P$ deve essere un punto all'interno di un triangolo $ABC$ e $AP$, $BP$, $CP$ devono incontrare i lati $BC$, $CA$, $AB$ rispettivamente in $D$, $E$ e $F$. Se $$\frac{BP}{PE} = \frac{5}{2}, \quad \frac{CP}{PF} = \frac{7}{3}, \quad \text{and} \quad \frac{AP}{PD} = \frac{p}{q}$$ dove $p, q$ sono numeri naturali e $\gcd(p, q) = 1$, trovare $p + q$.
+> Sia $P$ un punto nell'interno di un triangolo $ABC$ e siano $AP$, $BP$, $CP$ tali che intersecano i lati $BC$, $CA$, $AB$ rispettivamente nei punti $D$, $E$, $F$. Se
+> $$\frac{BP}{PE} = \frac{5}{2}, \quad \frac{CP}{PF} = \frac{7}{3}, \quad \text{and} \quad \frac{AP}{PD} = \frac{p}{q}$$
+> dove $p, q$ sono numeri naturali e $\gcd(p, q) = 1$, trova $p + q$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2025_sep28#q23|src_ioqm_2025_sep28__Q23]]
 
 
 
@@ -614,9 +785,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieri interi positivi a,b con 4^a+4a2+4=b2; trovare il massimo a+b*
+*Il massimo di a+b se 4^a + 4a² + 4 = b²*
 
-> Se $a$ e $b$ sono integri positivi che soddisfano $4^a + 4a^2 + 4 = b^2$, qual è il valore massimo possibile di $a + b$?
+> Se $a$ e $b$ sono interi positivi che soddisfano $4^a + 4a^2 + 4 = b^2$, qual è il massimo valore possibile di $a + b$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_ioqm_2025_sep28#q24|src_ioqm_2025_sep28__Q24]]
 
 
 
@@ -639,9 +817,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-Contare i numeri naturali n 10^5 con 7 . 2^n - n2
+*Numeri naturali n ≤ 10^5 tali che 7 divide 2^n − n²*
 
-> Quanti numeri naturali $n \le 10^5$ sono tali da $7 \mid 2^n - n^2$?
+> Quanti numeri naturali $n \le 10^5$ esistono tali che $7 \mid 2^n - n^2$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_ioqm_2025_sep28#q25|src_ioqm_2025_sep28__Q25]]
 
 
 
@@ -664,9 +849,16 @@ Contare i numeri naturali n 10^5 con 7 . 2^n - n2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC; D punto medio di BC, O circumcenter, H orthocenter; ODH lato equilaterale 6; trovare a+b per l'area a√b*
+*Triangolo ABC; D punto medio di BC, O circocentro, H ortocentro; ODH equilatero di lato 6; trovare a+b per l'area a√b*
 
-> Che $ABC$ sia un triangolo, $D$ sia il punto medio del lato $BC$, $O$ sia il circondario e $H$ sia l'ortocentro. Se il triangolo $ODH$ è equilaterale con lunghezza laterale pari a 6 e l'area del triangolo $ABC$ può essere scritta come $a\sqrt{b}$, dove $a, b$ sono interi positivi e $b$ non è divisibile per il quadrato di qualsiasi primo, trovare $a + b$.
+> Sia $ABC$ un triangolo, $D$ il punto medio del lato $BC$, $O$ il circocentro e $H$ l'ortocentro. Se il triangolo $ODH$ è equilatero e ha il lato di lunghezza 6, e l'area del triangolo $ABC$ può essere espressa come $a\sqrt{b}$, dove $a, b$ sono interi positivi e $b$ non è divisibile per il quadrato di alcun numero primo, determina $a + b$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2025_sep28#q26|src_ioqm_2025_sep28__Q26]]
 
 
 
@@ -691,9 +883,18 @@ Contare i numeri naturali n 10^5 con 7 . 2^n - n2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coppie ordinate (a,b): ab=406+11·lcm(a,b)+7·gcd(a,b); trovare il minimo a+b*
+*Coppie ordinate (a,b): ab=406+11·mcm(a,b)+7·mcd(a,b); trovare il minimo di a+b*
 
-> Considera la raccolta $M$ di tutte le coppie ordinate $(a, b)$ di integri positivi $a$ e $b$ che soddisfano $$ab = 406 + 11 \cdot \text{lcm}(a, b) + 7 \cdot \gcd(a, b).$$ Qual è il minimo valore possibile di $a + b$?
+> Si consideri la collezione $M$ di tutte le coppie ordinate $(a, b)$ di interi positivi $a$ e $b$ che soddisfano
+> $$ab = 406 + 11 \cdot \text{lcm}(a, b) + 7 \cdot \gcd(a, b).$$
+> Qual è il valore minimo possibile di $a + b$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2025_sep28#q27|src_ioqm_2025_sep28__Q27]]
 
 
 
@@ -722,9 +923,20 @@ Contare i numeri naturali n 10^5 con 7 . 2^n - n2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Linea fotografica della delegazione di 10 membri; più breve a sinistra, più alto a destra, esattamente una valle; trovare a+b*
+*Fila fotografica della delegazione di 10 membri: il più basso all'estrema sinistra, il più alto all'estrema destra, esattamente una valle; trova a+b*
 
-> Una delegazione ha 10 membri. Nessun di loro ha la stessa altezza. Lasciate $N$ essere il numero di modi in cui possono stare in fila per una fotografia in modo tale che \begin{itemize} \item la persona più sinistra è la più corta, \item la persona più destra è la più alta, e \item nella linea tra la persona più corta e la più alta, c'è esattamente una persona che è più corta di entrambi i suoi vicini immediati. \end{itemize} Se $N$ può essere scritto come $100a + b$ dove $a$ e $b$ sono interi positivi inferiori a 100, trovare $a + b$.
+> In una delegazione ci sono 10 membri. Nessuno di loro ha la stessa altezza di un altro. Sia $N$ il numero di modi in cui possono mettersi in fila per una fotografia in modo che
+> \begin{itemize}
+> \item la persona estrema a sinistra è la più bassa, \item la persona estrema a destra è la più alta, e \item nella fila, tra la persona più bassa e quella più alta, c'è esattamente una persona che è più bassa di entrambi i suoi vicini immediati.
+> \end{itemize}
+> Se $N$ può essere scritto come $100a + b$, dove $a$ e $b$ sono numeri interi positivi minori di 100, determina $a + b$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2025_sep28#q28|src_ioqm_2025_sep28__Q28]]
 
 
 
@@ -747,9 +959,16 @@ Contare i numeri naturali n 10^5 con 7 . 2^n - n2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles 13-13-10; tangenti incircoli paralleli ai lati formano esagoni; trovare m+n+l*
+*Triangolo isoscele 13-13-10; le tangenti alla circonferenza inscritta parallele ai lati formano un esagono; trovare m+n+l*
 
-> Che $ABC$ sia un triangolo a uguali con i lati 13, 13 e 10. Le tangenti dell'incircolo, disegnate in parallelo ai lati all'interno, intersecano i lati nei punti $D, E, F, G, H, K$ che formano un esagono. Se l'area dell'esagono $DEFGHK$ è $\frac{m}{n}$, dove $m, n$ sono integri positivi con $n < l$ e $\gcd(m, l) = 1$, quale è $m + n + l$?
+> Sia $ABC$ un triangolo isoscele con lati 13, 13 e 10. Le rette tangenti all'incircolo, tracciate in modo parallelo ai lati all'interno del triangolo, intersecano i lati nei punti $D, E, F, G, H, K$, i quali formano un esagono. Se l'area dell'esagono $DEFGHK$ è $\frac{m}{n}$, dove $m, n$ sono interi positivi tali che $n < l$ e $\gcd(m, l) = 1$, qual è $m + n + l$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2025_sep28#q29|src_ioqm_2025_sep28__Q29]]
 
 
 
@@ -772,6 +991,13 @@ Contare i numeri naturali n 10^5 con 7 . 2^n - n2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Vertici regolari del dodicagono colorati blu/rosso; nessun triangolo o quadrato equilaterale monocromatico; trovare p+q*
+*Vertici di un dodecagono regolare colorati in blu/rosso; nessun triangolo equilatero né quadrato monocolore; trovare p+q*
 
-> I vertici di un dodicagono regolare (un poligono con 12 lati) sono colorati blu o rosso. $N$ sia il numero di tutti i colori possibili in modo tale che nessun tre punti dello stesso colore costituiscano i vertici di un triangolo equilaterale e nessun quattro punti dello stesso colore costituiscano i vertici di un quadrato. Se $N$ può essere scritto come $N = 100p + q$ dove $p, q$ sono due numeri interi positivi inferiori a 100, trovare $p + q$.
+> I vertici di un dodecagono regolare (un poligono con 12 lati) sono colorati in blu o in rosso. Sia $N$ il numero di tutte le colorazioni possibili tali che nessun insieme di tre punti della stessa colorazione costituisca i vertici di un triangolo equilatero, e nessun insieme di quattro punti della stessa colorazione costituisca i vertici di un quadrato. Se $N$ può essere scritto come $N = 100p + q$, dove $p, q$ sono due interi positivi minori di 100, determina $p + q$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2025_sep28#q30|src_ioqm_2025_sep28__Q30]]

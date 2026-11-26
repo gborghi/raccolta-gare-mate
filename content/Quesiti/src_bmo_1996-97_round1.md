@@ -31,11 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gli numeri inversi di N sono uguali a 4N+3; trovare tutti i N a quattro cifre*
+*Il numero ottenuto invertendo le cifre di N è uguale a 4N+3; trova tutti i numeri N di quattro cifre.*
 
-> $N$ è un numero intero a quattro cifre, che non termina in zero, e $B(N)$ è il numero intero a quattro cifre ottenuto invertendo i numeri di $N$. Ad esempio, $B(3275) = 5723$.
-> 
-> Determinare tutti i numeri interi $N$ per i quali $B(N) = 4N + 3$.
+> $N$ è un numero intero di quattro cifre che non termina con zero, e $B(N)$ è il numero intero di quattro cifre ottenuto invertendo le cifre di $N$. Ad esempio, $B(3275) = 5723$.
+>
+> Determinare tutti i numeri interi $N$ di tale tipo per cui vale $B(N) = 4N + 3$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_1996-97_round1#q01|src_bmo_1996-97_round1__Q01]]
 
 
 
@@ -60,9 +67,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con a_{n+1} definita da somma di cifre; trovare a_{1997}*
+*Successione con a_{n+1} definita mediante la somma delle cifre; trovare a_{1997}*
 
-> Per i numeri interi positivi $n \geq 1$, definire la sequenza $a_1, a_2, a_3, \ldots$ da $$a_1 = 1, \quad a_{n+1} = a_n + \frac{n+1}{\text{largest prime factor of }(n+1)}, \quad n \geq 1.$$ Determinare il valore di $a_{1997}$.
+> Per gli interi positivi $n \geq 1$, si definisca la successione $a_1, a_2, a_3, \ldots$ mediante
+> $$a_1 = 1, \quad a_{n+1} = a_n + \frac{n+1}{\text{largest prime factor of }(n+1)}, \quad n \geq 1.$$
+> Determinare il valore di $a_{1997}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_1996-97_round1#q02|src_bmo_1996-97_round1__Q02]]
 
 
 
@@ -87,11 +103,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i modi di pagamento 1997 Pippin con monete decimali*
+*Conta i modi per pagare 1997 Pippin con monete decimali*
 
-> I Nani della Terra sotto la Montagna hanno appena adottato un sistema di valuta decimale completamente basato sul Pippin. Le monete disponibili valgono 1 Pippin, 10 Pippin, 100 Pippin e 1000 Pippin.
-> 
-> In quanti modi è possibile per un Nano pagare, in moneta esatta, una bolletta di Pippin del 1997?
+> I nani della Terra sotto la Montagna hanno appena adottato un sistema monetario del tutto decimale basato sul Pippin. Le monete disponibili valgono 1 Pippin, 10 Pippin, 100 Pippin e 1000 Pippin.
+>
+> In quanti modi diversi un nano può pagare, usando esclusivamente monete, un conto di 1997 Pippin?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_1996-97_round1#q03|src_bmo_1996-97_round1__Q03]]
 
 
 
@@ -114,9 +137,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale con un cerchio inciso; dimostrare la superficie PQRS metà di ABCD*
+*Quadrilatero con cerchio inscritto; dimostrare che l'area di PQRS è la metà di quella di ABCD*
 
-> Che il $ABCD$ sia un quadrilaterale convexo che abbia un cerchio inciso (cioè un cerchio che tocca tutti e quattro i lati). I punti intermedi di $AB$, $BC$, $CD$, $DA$ sono rispettivamente $P$, $Q$, $R$ e $S$. Prove che l'area del quadrilaterale $PQRS$ è la metà dell'area di $ABCD$.
+> Sia $ABCD$ un quadrilatero convesso dotato di cerchio inscritto (ossia un cerchio tangente a tutti e quattro i lati). I punti medi di $AB$, $BC$, $CD$, $DA$ sono rispettivamente $P$, $Q$, $R$, $S$. Dimostrare che l'area del quadrilatero $PQRS$ è metà dell'area di $ABCD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_1996-97_round1#q04|src_bmo_1996-97_round1__Q04]]
 
 
 
@@ -143,10 +173,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali positivi x, y con x+y>=2; due domande di disuguaglianza*
+*Numeri reali positivi x, y con x+y>=2; due quesiti sulle disuguaglianze*
 
-> $x$ e $y$ siano numeri reali positivi.
-> 
+> Siano $x$ e $y$ numeri reali positivi.
+>
 > (a) Se $x + y \geq 2$, è necessariamente vero che $\dfrac{1}{x} + \dfrac{1}{y} \geq 2$?
-> 
-> b) Se $x + y \geq 2$, è necessariamente vero che $\dfrac{1}{x^2} + \dfrac{1}{y^2} \geq 2$?
+>
+> (b) Se $x + y \geq 2$, è necessariamente vero che $\dfrac{1}{x^2} + \dfrac{1}{y^2} \geq 2$?
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_1996-97_round1#q05|src_bmo_1996-97_round1__Q05]]

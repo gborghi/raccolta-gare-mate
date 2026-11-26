@@ -31,9 +31,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo fattore primo si triplica nella progressione aritmetica*
+*Triple di maggiori fattori primi in progressione aritmetica*
 
-> Per ogni numero intero $n > 1$, $p(n)$ indica il più grande fattore primo di $n$. Determinare tutti i triples $(x, y, z)$ di numeri interi positivi distinti che soddisfano: (i) $x, y, z$ sono in progressione aritmetica e (ii) $p(x), p(y), p(z)$ sono in progressione aritmetica.
+> Per ogni numero intero $n > 1$, si indichi con $p(n)$ il più grande fattore primo di $n$. Determinare tutte le triple $(x, y, z)$ di interi positivi distinti che soddisfano: (i) $x, y, z$ sono in progressione aritmetica, e (ii) $p(x), p(y), p(z)$ sono in progressione aritmetica.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2002-03_round2#q01|src_bmo_2002-03_round2__Q01]]
 
 
 
@@ -56,9 +63,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bisettore angolo triangolo incontra la media, prova angolo inferiore a 90 gradi*
+*La bisettrice di un angolo di un triangolo incontra la mediana; dimostrare che l'angolo è minore di 90 gradi*
 
-> Lasciate che $ABC$ sia un triangolo. $D$ sia il punto medio di $BC$. Il bisettore angolare di $\angle BAC$ incontra $BC$ a $E$. Prove che $\angle AED < 90^\circ$ se $AB > AC$.
+> Sia $ABC$ un triangolo. Sia $D$ il punto medio di $BC$. La bisettrice dell'angolo di $\angle BAC$ incontra $BC$ in $E$. Dimostrare che $\angle AED < 90^\circ$ se $AB > AC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2002-03_round2#q02|src_bmo_2002-03_round2__Q02]]
 
 
 
@@ -86,11 +100,21 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazione dei numeri interi positivi e delle progressioni aritmetiche monotone*
+*Permutazione di interi positivi e progressioni aritmetiche monotone*
 
-> $f$ sia una permutazione dell'insieme $\mathbb{N}$ di tutti i numeri interi positivi.
-> 
-> (i) Mostra che vi è una progressione aritmetica di integri positivi $a, a+d, a+2d$ (dove $d > 0$) tale che $$f(a) < f(a+d) < f(a+2d).$$ (ii) Deve esserci una progressione aritmetica $a, a+d, a+2d, \ldots, a+2003d$ (dove $d > 0$) tale che $$f(a) < f(a+d) < f(a+2d) < \cdots < f(a+2003d)?$$
+> Sia $f$ una permutazione dell'insieme $\mathbb{N}$ di tutti gli interi positivi.
+>
+> (i) Mostrare che esiste una progressione aritmetica di interi positivi $a, a+d, a+2d$ (dove $d > 0$) tale che
+> $$f(a) < f(a+d) < f(a+2d).$$
+> (ii) Deve necessariamente esistere una progressione aritmetica $a, a+d, a+2d, \ldots, a+2003d$ (dove $d > 0$) tale che
+> $$f(a) < f(a+d) < f(a+2d) < \cdots < f(a+2003d)?$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2002-03_round2#q03|src_bmo_2002-03_round2__Q03]]
 
 
 
@@ -113,6 +137,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valutazioni di conteggio inferiori al 2003 nell'immagine di f con f(f(n))=n+2003*
+*Conta i valori minori di 2003 nell'immagine di f, con f(f(n))=n+2003*
 
-> Let $f$ essere una funzione da $\mathbb{N}$ a $\mathbb{N}$ (dove $\mathbb{N}$ indica l'insieme di interi positivi) tale che $f(f(n)) = n + 2003$ per tutti $n \in \mathbb{N}$. Quanti valori inferiori a $2003$ ci sono nell'immagine di $f$?
+> Sia $f$ una funzione da $\mathbb{N}$ a $\mathbb{N}$ (dove $\mathbb{N}$ denota l'insieme degli interi positivi) tale che $f(f(n)) = n + 2003$ per ogni $n \in \mathbb{N}$. Quanti valori minori di $2003$ ci sono nell'immagine di $f$?
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2002-03_round2#q04|src_bmo_2002-03_round2__Q04]]

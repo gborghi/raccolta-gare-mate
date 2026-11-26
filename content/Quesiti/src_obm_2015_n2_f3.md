@@ -31,11 +31,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggiamento delle rappresentazioni di numeri interi come somma dei quadrati di naturali*
+*Conta le rappresentazioni degli interi come somme di quadrati di numeri naturali*
 
-> Prove che esiste un numero che può essere rappresentato in almeno 2015 in modi diversi come una somma di quadrati di numeri interi non negativi (non necessariamente tutti distinti), dove l'ordine dei sommi non importa. Due somme che differiscono solo nell'arredamento dei loro termini sono considerate rappresentate nello stesso modo.
-> 
-> Ad esempio, $1^2 + 1^2 + 3^2 + 3^2 + 7^2 + 10^2 + 5^2 + 12^2$ e $1^2 + 3^2 + 1^2 + 3^2 + 7^2 + 5^2 + 10^2 + 12^2$ sono due ordini diversi di scrivere 169 come somma di quadrati.
+> Dimostrare che esiste un numero che può essere rappresentato in almeno 2015 modi diversi come somma di quadrati di interi non negativi (non necessariamente tutti distinti), dove l'ordine degli addendi non conta. Due somme che differiscono solo nell'ordinamento dei loro termini si considerano rappresentazioni dello stesso modo.
+>
+> Ad esempio, $1^2 + 1^2 + 3^2 + 3^2 + 7^2 + 10^2 + 5^2 + 12^2$ e $1^2 + 3^2 + 1^2 + 3^2 + 7^2 + 5^2 + 10^2 + 12^2$ sono due ordinamenti diversi per scrivere 169 come somma di quadrati.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n2_f3#q01|src_obm_2015_n2_f3__Q01]]
 
 
 
@@ -62,13 +69,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterali convexi con perpendicolari; punti conciclici e cerchio tangente*
+*Quadrilatero convesso con perpendicolari; punti conciclici e cerchio tangente*
 
-> Che $ABCD$ sia un quadrilaterale convex. Le linee $AB$ e $CD$ si incontrano a $E$ e le linee $BC$ e $AD$ si incontrano a $F$. Il $P$ e il $Q$ sono i piedi delle perpendicolari da $E$ alle linee $AB$ e $BC$ rispettivamente, e il $R$ e il $S$ sono i piedi delle perpendicolari da $F$ alle linee $AB$ e $CD$ rispettivamente. Le linee $ER$ e $FS$ si incontrano a $T$.
-> 
-> a) Indicare che esiste un cerchio che attraversa i punti $E$, $F$, $P$, $Q$, $R$ e $S$.
-> 
-> b) Dimostra che il circoncircolo del triangolo $RST$ è tangente al circoncircolo del triangolo $QRB$.
+> Sia $ABCD$ un quadrilatero convesso. Le rette $AB$ e $CD$ si incontrano in $E$, e le rette $BC$ e $AD$ si incontrano in $F$. Siano $P$ e $Q$ i piedi delle perpendicolari condotte da $E$ alle rette $AB$ e $BC$ rispettivamente, e siano $R$ e $S$ i piedi delle perpendicolari condotte da $F$ alle rette $AB$ e $CD$ rispettivamente. Le rette $ER$ e $FS$ si incontrano in $T$.
+>
+> a) Dimostrare che esiste una circonferenza che passa per i punti $E$, $F$, $P$, $Q$, $R$ e $S$.
+>
+> b) Dimostrare che la circonferenza circoscritta al triangolo $RST$ è tangente alla circonferenza circoscritta al triangolo $QRB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n2_f3#q02|src_obm_2015_n2_f3__Q02]]
 
 
 
@@ -91,9 +105,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo suddiviso da ceviani da n divisioni uguali; regioni di conteggio*
+*Triangolo suddiviso da ceviane tratte da n suddivisioni uguali; conta le regioni*
 
-> Che $ABC$ sia un triangolo e $n$ un intero positivo. Al lato $BC$ si considerano i punti $A_1, A_2, \ldots, A_{2^n - 1}$ che dividono $BC$ in $2^n$ parti uguali, in modo che $BA_1 = A_1A_2 = \cdots = A_{2^n-1}C$. Definire analogamente i punti $B_1, B_2, \ldots, B_{2^n-1}$ sui lati $CA$ e $AB$. Disegnare i segmenti $AA_1, AA_2, \ldots, AA_{2^n-1}$, $BB_1, BB_2, \ldots, BB_{2^n-1}$, $CC_1, CC_2, \ldots, CC_{2^n-1}$. Determinare, in funzione di $n$, in quante regioni la regione delimitata dal triangolo $ABC$ è divisa da questi segmenti.
+> Sia $ABC$ un triangolo e $n$ un numero intero positivo. Sul lato $BC$ si considerino i punti $A_1, A_2, \ldots, A_{2^n - 1}$ che dividono $BC$ in $2^n$ parti uguali, in modo che $BA_1 = A_1A_2 = \cdots = A_{2^n-1}C$. Si definiscano analogamente i punti $B_1, B_2, \ldots, B_{2^n-1}$ sui lati $CA$ e $AB$. Si traccino i segmenti $AA_1, AA_2, \ldots, AA_{2^n-1}$, $BB_1, BB_2, \ldots, BB_{2^n-1}$, $CC_1, CC_2, \ldots, CC_{2^n-1}$. Si determini, in funzione di $n$, in quante regioni i segmenti suddetti dividono la regione delimitata dal triangolo $ABC$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2015_n2_f3#q03|src_obm_2015_n2_f3__Q03]]
 
 
 
@@ -124,17 +145,24 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare le foglie nel processo di riforma stradale su un albero di n città*
+*Minimizza le foglie nel processo di riforma stradale su un albero di n città*
 
-> Nel paese di Arnaldópolis ci sono città collegate da strade $n - 1$ e da qualsiasi città è possibile raggiungere la capitale Arnaldópolis utilizzando le strade.
-> 
-> Durante i primi giorni dell'anno, ogni giorno viene scelto una strada e il suo traffico viene interrotto per un periodo che durerà almeno $n$ giorni. Durante questo processo, chiamiamo una città una foglia ** se non è né la capitale né collegata esattamente ad un'altra città a cui è collegata. Per questo motivo, una strada può essere riformata solo una volta al massimo; cioè solo quando una delle città che la collega è una foglia.
-> 
-> Ad esempio, nella mappa di seguito con $n = 9$ città, determinare un ordine appropriato di riforme per le 8 strade e, successivamente, determinare il numero di giorni in cui il numero di foglie non è alterato durante il processo di riforma.
-> 
-> Supponiamo ora che $n = 230$ e ci sono inizialmente 69 foglie. Determinare il numero di giorni in cui il numero delle foglie non viene modificato durante qualsiasi processo di riforma che coinvolga tutte le strade nei primi 229 giorni.
+> Nel paese di Arnaldópolis, le città sono collegate da $n - 1$ strade, e da qualsiasi città è possibile raggiungere la capitale Arnaldópolis utilizzando le strade.
+>
+> Durante i primi $n - 1$ giorni dell'anno, ogni giorno viene scelta una strada e il suo traffico viene interrotto per un periodo della durata di almeno $n$ giorni. Nel corso di questo processo, definiamo una città una *foglia* se non è la capitale e non è collegata a esattamente un'altra città a cui è collegata. Per questo motivo, una strada può essere ristabilita al massimo una volta; vale a dire, solo quando una delle città che collega è una foglia.
+>
+> Ad esempio, nella mappa sottostante con $n = 9$ città, determina un ordine appropriato delle riforme per le 8 strade e, successivamente, determina il numero di giorni in cui il numero di foglie non viene modificato durante il processo di riforma.
+>
+> Supponiamo ora che $n = 230$ e che inizialmente ci siano 69 foglie. Determinare il numero di giorni in cui il numero di foglie non viene modificato durante alcun processo di riforma che coinvolga tutte le strade nei primi 229 giorni.
 
 ![[src_obm_2015_n2_f3__q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n2_f3#q04|src_obm_2015_n2_f3__Q04]]
 
 
 
@@ -164,13 +192,23 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Formula di somma alternata dei divisori; trovare n con somma alternata data*
+*Formula alternata per la somma dei divisori; trovare n con somma alternata data*
 
-> Che $n$ sia un intero positivo e che $n = d_1 > d_2 > \cdots > d_k = 1$ sia il suo divisore positivo.
-> 
-> a) Dimostra che $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1}\,d_k = n - 1$$ se e solo se $n$ è primo o $n = 4$.
-> 
-> b) Determinare i tre numeri interi più piccoli $n$ per i quali $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1}\,d_k = n - 4.$$
+> Sia $n$ un numero intero positivo e siano $n = d_1 > d_2 > \cdots > d_k = 1$ i suoi divisori positivi.
+>
+> a) Dimostrare che
+> $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1}\,d_k = n - 1$$
+> se e solo se $n$ è primo o $n = 4$.
+>
+> b) Determina i tre interi più piccoli $n$ per i quali
+> $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1}\,d_k = n - 4.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n2_f3#q05|src_obm_2015_n2_f3__Q05]]
 
 
 
@@ -193,6 +231,13 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo di scalene con bisettori interni; angolo di calcolo BCA*
+*Triangolo scaleno con bisettrici interne; calcola l'angolo BCA*
 
-> Il $ABC$ deve essere un triangolo di scalene con $AD$, $BE$ e $CF$ come bisettori interni, con $D$ su $BC$, $E$ su $AC$ e $F$ su $AB$. È dato che $\angle AFE = \angle ADC$. Calcolare la misura dell'angolo $\angle BCA$.
+> Sia $ABC$ un triangolo scaleno con $AD$, $BE$ e $CF$ come bisettrici interne, con $D$ su $BC$, $E$ su $AC$ e $F$ su $AB$. È dato che $\angle AFE = \angle ADC$. Calcola la misura dell'angolo $\angle BCA$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n2_f3#q06|src_obm_2015_n2_f3__Q06]]

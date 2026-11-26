@@ -35,9 +35,13 @@ level: kangourou
 
 ![[src_kangourou_2020_cadet_finale__probc1.png]]
 
-> The four arcs that delimit the shaded region are all the same length, equal to the length of the two stretched arcs. This length is a quarter of the length of a circumference of radius 1 cm. How many square centimeters is the area of the shaded region? (see figure)
+> The four arcs that bound the shaded region are all of the same length, which is equal to the length of the two dashed arcs. This length is one quarter of the circumference of a circle with a radius of 1 cm. How many square centimetres is the area of the shaded region? (see figure)
 
-**Answer:** 2
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_cadet_finale#qc1|src_kangourou_2020_cadet_finale__QC1]]
 
 
 
@@ -61,11 +65,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance between two points touching the y axis*
+*Minimum path between two points touching the y-axis*
 
-> In the Cartesian plane, how long is the shortest path linking the $(808, 808)$ point to the $(404, -808)$ point by touching the $y$ axis at least once?
+> On the Cartesian plane, how long is the shortest path connecting point $(808, 808)$ to point $(404, -808)$ while touching the $y$-axis at least once?
 
-**Answer:** 2020
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_cadet_finale#qc2|src_kangourou_2020_cadet_finale__QC2]]
 
 
 
@@ -89,11 +98,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Units digit of n where 7n has 2021 digits*
+*Figure of the units of n with 7n of 2021 digits*
 
-> If $n$ is the smallest positive integer such that the number $7 \cdot n$ has 2021 digits. What is the units digit of $n$?
+> Let $n$ be the smallest positive integer such that the number $7 \cdot n$ has 2021 digits. What is the units digit of $n$?
 
-**Answer:** 9
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_cadet_finale#qc3|src_kangourou_2020_cadet_finale__QC3]]
 
 
 
@@ -123,17 +137,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True statements on special grid position number 6x6*
+*True statements about a number in a special position in a 6x6 grid*
 
-> We fill a square grid with the first 62 positive integers, one per box: if one of the numbers is the largest of all the numbers in its row and the smallest of all the numbers in its column, let's say that the number is in the special position** relative to the way we filled the grid. Discuss, justifying the answer, the truth or falsity of each of the following three statements:
-> 
-> (a) there is at least one special number for each method of filling the grid;
-> 
-> (b) there is at least one special number for some method of filling the grid;
-> 
-> (c) for each method of filling the grid there is at most a special number.
+> We fill a square grid $6 \times 6$ by inserting the first 62 positive integers into it, one per cell: if one of the inserted numbers happens to be the largest among all the numbers in its row and the smallest among all the numbers in its column, we say that this number is in a **special position** relative to the way we filled the grid. Discuss, giving reasons for your answer, whether each of the following three statements is true or false:
+>
+> a) With respect to each way of filling the grid, there exists at least one special number;
+>
+> b) With respect to some way of filling the grid, there exists at least one special number;
+>
+> c) For each way of filling the grid, there is at most one special number.
 
-**Answer:** a) false, b) true, c) true
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_cadet_finale#qc4|src_kangourou_2020_cadet_finale__QC4]]
 
 
 
@@ -170,7 +189,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*More convex polygons that contain p than those that do not*
+*More convex polygons that contain p or that do not contain p*
 
 ![[src_kangourou_2020_cadet_finale__probc5.png]]
 
@@ -186,9 +205,13 @@ level: kangourou
 \end{document}
 ```
 
-> On a circle, 10 points are marked, all distinct from one another. Consider all possible convex polygons (that is, non-self-intersecting polygons whose interior angles all measure less than $180°$) whose vertices are some of the marked points. Let $p$ be any one of the marked points. Are there more polygons that contain $p$ or those that do not contain it, or are there an equal number? (see figure)
+> On a circle, 10 points are marked, with no two of them the same. Consider all possible convex polygons (that is, non-self-intersecting polygons in which all interior angles are less than $180°$) whose vertices are some of the marked points. Let $p$ be any one of the marked points. Are there more polygons that contain $p$ than those that do not contain it, or are there an equal number of each? (see figure)
 
-**Answer:** more contain p
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_cadet_finale#qc5|src_kangourou_2020_cadet_finale__QC5]]
 
 
 
@@ -212,8 +235,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ordered pairs (x,y) of integers with x^2+7y=xy*
+*How many ordered pairs (x,y) of integers satisfy x^2+7y=xy?*
 
-> How many pairs $(x, y)$ of integers (not necessarily positive) such that $x^2 + 7y = xy$?
+> How many ordered pairs $(x, y)$ of integers (not necessarily positive) are there such that $x^2 + 7y = xy$?
 
-**Answer:** 6
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_cadet_finale#qc6|src_kangourou_2020_cadet_finale__QC6]]

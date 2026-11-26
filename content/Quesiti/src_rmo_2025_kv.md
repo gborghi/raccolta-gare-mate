@@ -33,9 +33,20 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sistema di equazioni di prodotto ciclico in numeri interi non negativi, a_i≠1*
+*Sistema di equazioni cicliche per i prodotti in numeri interi non negativi, a_i≠1*
 
-> Risolvere il seguente sistema di equazioni in numeri interi non negativi $a_1, a_2, \ldots, a_8$ dove $a_i \neq 1$ per $i = 1, \ldots, 8$: $$a_1 a_2 = a_3 + a_4,$$ $$a_3 a_4 = a_5 + a_6,$$ $$a_5 a_6 = a_7 + a_8,$$ $$a_7 a_8 = a_1 + a_2.$$
+> Risolvi il seguente sistema di equazioni in numeri interi non negativi $a_1, a_2, \ldots, a_8$, dove $a_i \neq 1$ per $i = 1, \ldots, 8$:
+> $$a_1 a_2 = a_3 + a_4,$$
+> $$a_3 a_4 = a_5 + a_6,$$
+> $$a_5 a_6 = a_7 + a_8,$$
+> $$a_7 a_8 = a_1 + a_2.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2025_kv#q01|src_rmo_2025_kv__Q01]]
 
 
 
@@ -59,9 +70,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza dei valori reali positivi con abc=1*
+*Dimostrare una disuguaglianza per numeri reali positivi con abc=1*
 
-> $a, b, c$ siano numeri reali positivi che soddisfino $abc = 1$. Provare che $$\frac{2a^2}{a^2+1} + \frac{2b^2}{b^2+1} + \frac{2c^2}{c^2+1} \le a^2 + b^2 + c^2.$$
+> Siano $a, b, c$ numeri reali positivi che soddisfano $abc = 1$. Dimostrare che
+> $$\frac{2a^2}{a^2+1} + \frac{2b^2}{b^2+1} + \frac{2c^2}{c^2+1} \le a^2 + b^2 + c^2.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2025_kv#q02|src_rmo_2025_kv__Q02]]
 
 
 
@@ -84,9 +103,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono convex con condizioni di simmetria; prova angolo retto a I*
+*Pentagono convesso con condizioni di simmetria; dimostrare che l'angolo in I è retto*
 
-> Il $ABCDE$ deve essere un pentagono convexo in cui $AB = AE$, $CB = CE$ e $\angle CBD = 90^\circ$. Lasciate che i bisettori interni di $\angle EAB$ e $\angle DCB$ si intersecano a $I$, e lasciate che $M$ sia il punto medio di $AC$. Prove che $\angle MIC = 90^\circ$.
+> Sia $ABCDE$ un pentagono convesso in cui valgono $AB = AE$, $CB = CE$ e $\angle CBD = 90^\circ$. Siano $I$ l'intersezione delle bisettrici interne di $\angle EAB$ e $\angle DCB$, e $M$ il punto medio di $AC$. Dimostrare che $\angle MIC = 90^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2025_kv#q03|src_rmo_2025_kv__Q03]]
 
 
 
@@ -117,11 +143,22 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i percorsi di rana da (0,0) a (n,2) evitando UU o DD consecutivi*
+*Conta i percorsi delle rane da (0,0) a (n,2) evitando UU o DD consecutivi*
 
-> Una rana è inizialmente a $(0, 0)$ e raggiunge $(n, 2)$, $n \ge 1$, utilizzando le seguenti mosse in qualsiasi ordine più volte: \begin{enumerate} \item[(i)] $R = (1, 0)$, cioè, se la rana è a $(a, b)$ va a $(a+1, b)$; \item[(ii) $U = (0, 1)$, cioè, se la rana è a $(a, b)$ va a $(a, b+1)$; \([iii)] $D = (0, -1)$, cioè, se la rana è a $(a, b)$ va a $(a, b-1)$. \end{enumerate} In quanti modi la rana può passare da $(0, 0)$ a $(n, 2)$, $n \ge 1$, utilizzando i passaggi di cui sopra, a condizione che i passaggi del tipo $UU$, $DD$ siano proibiti?
-> 
-> (Per esempio, per $n = 3$, $RDUR$, $DRD$ sono percorsi ammissibili, mentre $DDR$, $RUURR$ non lo sono.)
+> Una rana parte da $(0, 0)$ e raggiunge $(n, 2)$, $n \ge 1$, utilizzando le seguenti mosse, in qualsiasi ordine e più volte:
+> \begin{enumerate}
+> \item[(i)] $R = (1, 0)$, cioè, se la rana si trova in $(a, b)$, va in $(a+1, b)$; \item[(ii)] $U = (0, 1)$, cioè, se la rana si trova in $(a, b)$, va in $(a, b+1)$; \item[(iii)] $D = (0, -1)$, cioè, se la rana si trova in $(a, b)$, va in $(a, b-1)$.
+> \end{enumerate}
+> In quanti modi può la rana andare da $(0, 0)$ a $(n, 2)$, $n \ge 1$, utilizzando i passaggi sopra indicati e con la condizione che i passaggi di tipo $UU$, $DD$ siano vietati?
+>
+> (Ad esempio, per $n = 3$, $RDUR$ e $DRD$ sono percorsi ammissibili, mentre $DDR$ e $RUURR$ non lo sono.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2025_kv#q04|src_rmo_2025_kv__Q04]]
 
 
 
@@ -144,9 +181,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto con angolo 60°; riflessi di piedi d'altitudine bisetti BC*
+*Triangolo acuto con angolo di 60°; le riflessioni dei piedi delle altezze bisecano BC*
 
-> Il $ABC$ deve essere un triangolo acuto con $\angle BAC = 60^\circ$ e $AB < BC < AC$. $M$ e $N$ siano i piedi delle altitudini rispettivamente da $B$ e $C$. Supponiamo che $BE$, $CF$ siano le altitudini, con $E$ su $CA$ e $F$ su $AB$. L'immagine $X$ deve essere l'immagine di $M$ riflessa nel punto medio di $BF$, e l'immagine $Y$ deve essere l'immagine di $N$ riflessa nel punto medio di $CE$. Provare che $XY$ divide $BC$.
+> Sia $ABC$ un triangolo acutangolo con $\angle BAC = 60^\circ$ e $AB < BC < AC$. Siano $M$, $N$ i piedi delle altezze condotte da $B$, $C$ rispettivamente. Si supponga che $BE$, $CF$ siano le altezze, con $E$ su $CA$ e $F$ su $AB$. Sia $X$ l'immagine di $M$ mediante la riflessione rispetto al punto medio di $BF$, e sia $Y$ l'immagine di $N$ mediante la riflessione rispetto al punto medio di $CE$. Dimostrare che $XY$ biseca $BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2025_kv#q05|src_rmo_2025_kv__Q05]]
 
 
 
@@ -169,6 +213,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma digitali di a_n^2 è uguale a n^2+n+7 per tutte le n≥0*
+*La somma delle cifre di a_n^2 è uguale a n^2+n+7 per ogni n≥0*
 
-> Definire la sequenza $\{a_n\}$ come segue: $a_0 = 49$ e $a_n = 10^{a_{n-1}} \cdot a_{n-1} - 1$ per $n \ge 1$. Indicare che $s(a_n^2) = n^2 + n + 7$ per tutti $n \ge 0$, dove $s(m)$ indica la somma di cifre nella rappresentazione di base $10$ di un intero non negativo $m$.
+> Definisci la successione $\{a_n\}$ nel modo seguente: $a_0 = 49$ e $a_n = 10^{a_{n-1}} \cdot a_{n-1} - 1$ per $n \ge 1$. Dimostrare che $s(a_n^2) = n^2 + n + 7$ per tutti gli $n \ge 0$, dove $s(m)$ denota la somma delle cifre nella rappresentazione in base $10$ di un intero non negativo $m$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2025_kv#q06|src_rmo_2025_kv__Q06]]

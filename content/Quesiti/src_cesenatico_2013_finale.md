@@ -36,11 +36,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total 10 areas of triangular intersections (p+q)*
+*p+q, where p/q is the sum of the areas of the 10 intersections, in lowest terms*
 
-> On a quiet May afternoon, Root is now tired of being outdoors doing nothing, watching her older sister Maggioret read a thick, thick book. What's the use of a book without figures or dialogues?, he thinks. To distract yourself, imagine a handsome figure with two parallel lines a and b, 1 apart. On a it takes 11 distinct points A−5,A−4,...,A4,A5, on b instead the distinct points B−5,B−4,...,B4,B5, so that AiAi+1 = BiBi+1 = 1 for i = −5,...,4, and AiBi = 1 for i = −5,...,5. Consider then, for each i = −5,...,4, the intersection of the triangles AiAi+1B0 and BiBi+1A0. How much is the sum of the areas of these 10 figures? This p/q solution, expressed as a fraction reduced to minimum terms, is answered by p+q.
+> A quiet afternoon in May
+> Radice is by now bored of being out in the open doing nothing, watching her elder sister Maggioret read a book written in a dense hand. "What is the use of a book without pictures or conversations?", she thinks. To distract herself, she imagines a pretty figure with two parallel lines a and b, a distance 1 apart. On a she takes 11 distinct points A−5, A−4, ..., A4, A5, and on b the distinct points B−5, B−4, ..., B4, B5, so that AiAi+1 = BiBi+1 = 1 for i = −5, ..., 4, and AiBi = 1 for i = −5, ..., 5. She then considers, for each i = −5, ..., 4, the intersection of the triangles AiAi+1B0 and BiBi+1A0. What is the sum of the areas of these 10 figures? If p/q is the solution, expressed as a fraction in lowest terms, answer with p+q.
 
-**Answer:** 1193
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2013_finale#q01|src_cesenatico_2013_finale__Q01]]
 
 
 
@@ -72,11 +77,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lay circle in the lock (area = r×perim/2)*
+*The radius of the circle in the lock, given DE = 7453 and that the area is half the product of the radius and the perimeter*
 
-> The tiny lock on the Root trail sees a Banachoniglio sneak into a narrow, but normative, spacey Banachoniglio and curious decide to follow him. As soon as she enters, she is completely involved in a long fall that leads her into a locked room with a tiny door locked. He's crossed the threshold of the Matteviglie Field. The lock on the door that Root would like to open is the union of an equilateral triangle of vertices ABC with a circle passing through A, symmetrical with respect to the beam coming out of A, and not intersecting BC. Root is confused by this strange figure and the Banachoniglio explains to her that to enter she must know the value of the radius of the circle. It also tells you that DE = 7453 (D is the intersection between the circumference and the AC side, E is the intersection between the BC side and the tangent to the circumference in D). Root is still puzzled, so the Banachoniglio gives her one last, important suggestion: the area of the lock is equal to half the product between the radius of the circle and the perimeter of the lock. What answer will Root have to give?
+> The tiny lock
+> All of a sudden Radice sees a Banach-rabbit slip into a cramped, but normed, space of Banach-rabbits, and, curious, she decides to follow it. As soon as she has entered, she is completely caught up in a long fall that leads her to a little room with a very small locked door. She has crossed the threshold of the Field of Mathewonders. The lock of the door Radice would like to open is the union of an equilateral triangle with vertices ABC and a circle through A, symmetric with respect to the bisector issuing from A, and not intersecting BC. Radice is confused by this strange figure, and the Banach-rabbit explains that to enter she must know the value of the radius of the circle. He also tells her that DE = 7453 (D is the intersection of the circle and the side AC, E is the intersection of the side BC and the tangent to the circle at D). Radice is still perplexed, so the Banach-rabbit gives her one last, important hint: the area of the lock is equal to half the product of the radius of the circle and the perimeter of the lock. What answer will Radice have to give?
 
-**Answer:** 7453
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2013_finale#q02|src_cesenatico_2013_finale__Q02]]
 
 
 
@@ -106,11 +116,20 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of 1/3 (power)*
+*How many bites of the cake Radice must take to become exactly one third of her present height*
 
-> Drink me, Eat me Root finds in the living room a small bottle with the words BEVIMI, containing a liquid that causes a drinker to shrink by a factor of 243,512. Nearby is also a cake with the inscription MANGIAMI, a bite of which makes people enlarge by a factor of 128 81 . Root wants to get exactly a third taller than she is now, so she can get through the little door she's seen. Since Root is a square person, although sometimes irrational, he begins to think about what to do. How many bites will you have to give the pie?
+> Drink me, Eat me
+> Radice finds in the little room a small phial with DRINK ME written on it, containing a liquid that shrinks, by a factor of 243
+> 512, whoever drinks a
+> sip of it. Nearby there is also a little cake with EAT ME written on it, a bite of which enlarges people by a factor of 128
+> 81. Radice wants
+> to become exactly one third as tall as she is now, so as to manage to pass through the little door she has glimpsed. Since Radice is a square person, though sometimes irrational, she sets about thinking what to do. How many bites will she have to take of the cake?
 
-**Answer:** 0009
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2013_finale#q03|src_cesenatico_2013_finale__Q03]]
 
 
 
@@ -141,11 +160,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Term sum <=25 not covered by two to two*
+*The sum of all the numbers Radice wrote, the ages in the unordered triples of integers at most 25, pairwise not coprime, but coprime taken all three together*
 
-> Wet top, you unlucky mouse! Sadly, Root's disaster came to a head: First she grew too big and started crying, then she became tiny, losing her ampoule and her pill. Swimming in the lake formed by his own tears, he encounters a Logical Top. To start a conversation, Root starts telling him about his adorable little Diny. He'd never done that! In fact, the three brothers of the Logical Top were killed by a cat. The Logical Top is so upset that he can only remember that when they died they were not more than 25 years old and that their ages, taken from two to two, were not covered, but considered all three together were. Root, then, to ask forgiveness, writes all the possible (unordered) age trunks on a sheet. What is the sum of all the numbers written by Root? Two integers are called covers if they have no common divisors greater than 1.
+> Wet mouse, unlucky mouse!
+> Unfortunately Radice has made a mess of things: first she grew too large and felt like crying, then she became tiny, losing the phial and the cake. Swimming in the lake formed by her own tears, she meets a Logic Mouse. To start a conversation, Radice begins telling him about her adorable kitten Diny. If only she hadn't! For the Logic Mouse's three brothers died killed by a cat. The Logic Mouse is so upset that he can only remember that when they died they were no more than 25 years old, and that their ages, taken two at a time, were not coprime, but considered all three together they were. Radice, then, to be forgiven, writes all the possible triples of ages (unordered) on a sheet of paper. What is the sum of all the numbers written by Radice? Two integers are said to be coprime if they have no common divisor greater than 1.
 
-**Answer:** 0560
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2013_finale#q04|src_cesenatico_2013_finale__Q04]]
 
 
 
@@ -176,11 +200,18 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seconds for meeting on circumference (marathon)*
+*After how many seconds Radice, running on the inscribed pentagon, meets Captain Liebezout on the circle*
 
-> Marathon runner Finally Root can get out of the lake of tears, but it's all soup. Captain Liebezout organizes a marathon so that he can dry himself up. He runs around a circle at a constant speed, making one lap every 12 minutes. Root wants to reach it and runs at a constant speed around the perimeter of a regular ABCDE pentagon inscribed in the circumference making a turn every 11 minutes. At the beginning Root starts from A and runs towards B on the pentagon, while Captain Liebezout starts from point L on the minor arc AB such that ˆ LBA = 12° and runs towards A on the circumference. After how many seconds do they meet?
+> The roundathon
+> At last Radice manages to get out of the lake of tears, but she is soaked through. Captain Liebezout, so that she can dry off, organises a roundathon: he runs on a circle at constant speed, doing a lap every 12 minutes. Radice wants to catch him up and runs at constant speed on the perimeter of a regular pentagon ABCDE inscribed in the circle, doing a lap every 11 minutes. At the start Radice sets off from A and runs towards B on the pentagon, while Captain Liebezout sets off from the point L on the minor arc AB such that
+> ˆ
+> LBA = 12° and runs in the direction of A on the circle. After how many seconds do they meet?
 
-**Answer:** 1056
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+
+[[Quesiti/src_cesenatico_2013_finale#q05|src_cesenatico_2013_finale__Q05]]
 
 
 
@@ -215,13 +246,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume region closest to the white fan (cube)*
+*How many cubic decimetres Radice occupies, the set of points of the cube nearer to the white fan than to any other*
 
-> The Banachoniglio's house is in a hurry. It must be from the Duchess as soon as possible. However, he forgot his ceremonial white fan at home and therefore orders Root to retrieve it. His home is a cube and the white fan is perfectly centered, but there are other fans in the house as well. If you divide the house into 8 equal cubes that have half the side of the house and a vertex in the white fan, there are 26 green fans, one on each of the other eight cubes' vertices, and 36 red fans, one in the center of each of their faces. Root, next to the white fan, finds a bucket with EXP written on it and, driven by curiosity, drinks the contents and begins to grow out of proportion. It expands to such an extent that it occupies all but the points of the house that have as their nearest fan the white one. Knowing that the fan closest to the white one is a foot away, how many cubic feet of space does Root's body occupy? Team competition 2013  National final  Problems tests  1/4
-> 
-> 2/4 Team competition 2013  National final  Problem texts
+> The Banach-rabbit's house
+> The Banach-rabbit is in a hurry: he must be at the Duchessiana's as soon as possible. He has, however, forgotten his white ceremonial fan at home, and so he orders Radice to fetch it. His dwelling is a cube and the white fan is precisely at its centre, but there are other fans in the house as well. If one divides the house into the 8 equal cubes that have side half that of the house and a vertex at the white fan, there are 26 green fans, one at each of the other vertices of the 8 cubes, and 36 red fans, one at the centre of each of their faces. Radice, near the white fan, finds a little bottle with EXP written on it and, driven by curiosity, drinks the contents and begins to grow beyond measure. She expands to such a point that she occupies all and only the points of the house whose nearest fan is the white one. Knowing that the fan nearest to the white one is 1 m away from it, how many cubic decimetres of space does Radice's body occupy?
 
-**Answer:** 0707
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2013_finale#q06|src_cesenatico_2013_finale__Q06]]
 
 
 
@@ -249,11 +283,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flat height of the 3 high points (4 tangent spheres)*
+*How many palmipedoni the plane of the three highest points lies above the ground*
 
-> To better understand where it has ended, Root relies on the sage Brucarythmus. The rounded fungus of the Brucaritmus is made up of four spheres, all tangent to each other. A sphere resting on the ground, with a radius of 2000 palmipedons, forms its base; three larger spheres, with a radius of 3000 palmipedons, are resting on it so that their three most distant points from the ground form a plane parallel to the ground. How many palms is this floor from the ground?
+> Brucaritmo enthroned
+> To understand better where she has ended up, Radice goes to the wise Brucaritmo. Brucaritmo's rounded mushroom is made up of four spheres, all tangent to one another. One sphere resting on the ground, with radius 2000 palmipedoni, forms its stem; three larger ones, of radius 3000 palmipedoni, rest on it so that their three points farthest from the ground form a plane parallel to the ground. How many palmipedoni is this plane from the ground?
 
-**Answer:** 8605
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2013_finale#q07|src_cesenatico_2013_finale__Q07]]
 
 
 
@@ -282,11 +321,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiple concatenated numbers of 11*
+*How many possible numbers of smoke rings there are: multiples of 11, formed by consecutive two-digit numbers starting from 10*
 
-> One part of the Brucarythmus fungus has the power to enlarge people, the other to shrink them. Root would like to take a piece of the mushroom, but he can only do so by solving the riddle that Brucaritmus proposes: I can tell you that their number is a multiple of 11 and that (based on 10) is made up of many consecutive 2-digit numbers next to each other, starting with 10 (such as 10, 1011, 101112, 10111213, ...). Knowing just this information, how many possible smoke rings could I have made?
+> A smoky question
+> One part of Brucaritmo's mushroom has the power to enlarge people, the other to shrink them. Radice would like to take a few pieces from the mushroom, but she can do so only by solving the riddle Brucaritmo sets her: "In all my long life I have created a great many smoke rings with my pipe, and I have always kept count of them. I can tell you that their number is a multiple of 11 and that (in base 10) it is formed of consecutive two-digit numbers placed side by side, starting from 10 (as for example 10, 1011, 101112, 10111213, ...). Knowing only this, how many possible numbers of smoke rings can I have made?"
 
-**Answer:** 0016
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2013_finale#q08|src_cesenatico_2013_finale__Q08]]
 
 
 
@@ -326,11 +370,29 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ABCD product (nested radicals)*
+*The product abcd, where a, b, c, d are given by a broken extraction*
 
-> Snake, snake! Roots miscalibrate the amount of mushroom to eat and grow more and more. This brings Pigeon out of his drawer, where he has his nest, alerting him, for he fears that Root has come to eat his eggs. So Pigeon complains: They are a,b,c,d four real numbers such that a = p 44+√71+a,b = p 44+ √ 71−b,c = p 44−√71+c,d = p 44− √ 71−d: my eggs will be eaten within a number of minutes equal to the product abcd. I'll never tell you the value of this number, you snake! How much is this product worth?
+> Snake, snake!
+> Radice misjudges the dose of mushroom to eat and grows more and more. This brings Pigeon out of his drawer, where he has his nest, and alarms him: he fears that Radice has come to eat his eggs. Pigeon complains thus: "Let a, b, c, d be four real numbers such that a =
+> p
+> 44+√71+a,b =
+> p
+> 44+
+> √
+> 71−b,c =
+> p
+> 44−√71+c,d =
+> p
+> 44−
+> √
+> 71−d: my eggs will be eaten in a number of
+> minutes equal to the product abcd. I shall never tell you the value of this number, slimy snake!". What is this product worth?
 
-**Answer:** 1865
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2013_finale#q09|src_cesenatico_2013_finale__Q09]]
 
 
 
@@ -360,11 +422,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different angles of a triangle (rectangles)*
+*How many different measures an angle of the triangle can take*
 
-> Invited to court Tornado of the Right Dimensions, Root sees the valley fish of the Q of hearts deliver a prestigious ticket to the valley frog of the Duchessiana. An invitation to court to play a game of croquet is not a privilege you get every day! Even the invitation cards are finely decorated. On the rear they have a particular design made of a triangle on whose sides are built three rectangles externally to the sides. In addition, these rectangles are made in such a way that between each pair of rectangles one can insert exactly one regular polygon, with a vertex coinciding with one of the triangles and two sides coinciding with those of the rectangles emanating from it that are also not sides of the triangle. How many different angles can a triangle take?
+> An invitation to court
+> Back to the right size, Radice catches sight of the fish-footman of the Queen of Hearts delivering a prestigious card to the frog-footman of the Duchessiana. An invitation to court to play a game of croquet is not a privilege one receives every day! Even the invitation cards are finely decorated. On the back they present a particular drawing formed by a triangle on whose sides three rectangles are built, externally to the sides. Moreover, these rectangles are made in such a way that between each pair of rectangles one can fit exactly a regular polygon, with a vertex coinciding with one of those of the triangle and two sides coinciding with those of the rectangles issuing from it that are not also sides of the triangle. How many different measures can an angle of the triangle take?
 
-**Answer:** 0014
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2013_finale#q10|src_cesenatico_2013_finale__Q10]]
 
 
 
@@ -393,11 +460,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nine number product (system)*
+*The product of the two numbers hidden in the Duchessiana's lullaby*
 
-> Root bed bugger enters the Duchess' house, who is cuddling an ugly baby in tears, singing him this unusual nanna nanna. Two numbers, one day, I wrote on a booklet, if you take the biggest one out of a hundred, and you add one to the smallest one, one will just increase their output. But if you take the sum of them by seventy-nine-five times, kid, you get the difference in the squares of those numbers over there. Now, can you tell me how long their product is? Hearing this, the baby starts screaming and groaning, until he turns into a piglet. What number is hidden behind the Duchess's nanny's nest?
+> Sleep, and it's bacon
+> Radice enters the Duchessiana's house. She is rocking an ugly child in tears, singing him this unusual lullaby. "Two numbers, one day, I wrote in a notebook; if from the larger you take a hundred, and add one to the smaller, their product will increase by just one. But if six hundred and ninety-five times their sum you take, little boy, you obtain the difference of the squares of those numbers. Now, can you tell me what their product is?" On hearing this, the child begins to shriek and grunt, until he turns into a piglet. What number is hidden behind the Duchessiana's lullaby?
 
-**Answer:** 4206
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2013_finale#q11|src_cesenatico_2013_finale__Q11]]
 
 
 
@@ -426,11 +498,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Year with the same figures in 2013 factoring*
+*The year in the Field of Mathewonders, the smallest whose prime factorisation uses exactly the same digits as that of 2013*
 
-> In order to be punctual for the croquet match, Duchessiana reminds Root that it is necessary to keep in mind that a different calendar is in use from the one we commonly use in the Matteviglie field. In particular, years are counted differently. This year, in 2013, a funny thing happened: in the factorizations at the beginning of the two dates, ours and that of the Matteviglie Field, the figures are exactly the same (for example in 137 and 91 = 13·7). In addition, the year according to the calendar of the Campo delle Mateviglie is the smallest number for which this property is worth with 2013. What year is it in Matteviglie Camp?
+> Mathewonderful jet lag
+> To arrive on time for the game of croquet, the Duchessiana reminds Radice that one must bear in mind that in the Field of Mathewonders a calendar different from the one we commonly use is in force. In particular the years are counted differently. This year, in 2013, a funny thing happens: in the prime factorisations of the two dates, ours and that of the Field of Mathewonders, exactly the same digits appear (as for example in 137 and 91 = 13·7). Moreover, the year according to the calendar of the Field of Mathewonders is the smallest number for which this property holds with 2013. What year is it in the Field of Mathewonders?
 
-**Answer:** 1793
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2013_finale#q12|src_cesenatico_2013_finale__Q12]]
 
 
 
@@ -460,11 +537,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-Probability of Stregauss sending from the Leper (5 dice, p+q)
+*p+q, where p/q is the probability that Stregauss sends Radice to the Diophantine Hare*
 
-> A crazy bivouac Left by the Duchess, Root is now facing a bivouac, when mysterious and charming Stregauss appears. "Please tell me which way to go". "It depends on where you want to go". I don't care where Root says. Then it doesn't matter which way you go. Let's do it this way: I have five five-sided dice here; now I draw them and if there's at least one 1, or at least two 2, or at least three 3, or at least four 4, or five 5, I'll send you to the left of the Diophantine Hare, or else to the right of the K -ellaio Matto. What are the odds of Stregauss sending Root from the hare? This p/q solution, expressed as a fraction reduced to minimum terms, is answered by p+q.
+> A mad fork in the road
+> Having left the Duchessiana, Radice now finds herself facing a fork in the road, when the mysterious and fascinating Stregauss appears. "Please, would you tell me which road I must take?" "It depends a great deal on where you want to go," replies Stregauss. "I don't much care where," says Radice. "Then it doesn't much matter which road you take either. Let us do this: I have here five dice with five faces; now I roll them, and if among the numbers that come up there is at least one 1, or at least two 2s, or at least three 3s, or at least four 4s, or five 5s, I shall send you left to the Diophantine Hare, otherwise right to the Mad K-hatter." What is the probability that Stregauss sends Radice to the Hare? If p/q is the solution, expressed as a fraction in lowest terms, answer with p+q.
 
-**Answer:** 1143
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2013_finale#q13|src_cesenatico_2013_finale__Q13]]
 
 
 
@@ -493,11 +575,16 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sit at the table (head restraints)*
+*How many ways they can sit at the tea table, the Mad K-hatter at the head and the other four together, none of Radice or the K-hatter next to Ghiρ*
 
-> At tea time Root reaches the K -ellaio Matto, the Lepre Diofantina, the Ghiρ and the Banachoniglio, who ask her to join them for the tea ceremony. The table on which the tea is served is rectangular and has 20 chairs on each long side and a tabletop chair (on both sides). The K-black fool necessarily wants to sit at the top of the table. The other four want to be all sitting next to each other, that is, without empty chairs in the middle (but not necessarily near the K -ellaio) and all on the same side of the table. But neither Root nor K-Ello wants to sit next to Ghiρ. How many different ways can they sit?
+> Tea time
+> Radice reaches the Mad K-hatter, the Diophantine Hare, Ghiρ and the Banach-rabbit, who ask her to join them for the tea ceremony. The table on which the tea is served is rectangular and has 20 chairs on each long side and one chair at the head (on both sides). The Mad K-hatter necessarily wants to sit at the head. The other four all want to sit next to one another, that is, with no empty chairs between them (but not necessarily next to the K-hatter), and all on the same side of the table. Neither Radice nor the K-hatter, however, wants to sit beside Ghiρ. In how many different ways can they sit?
 
-**Answer:** 0800
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2013_finale#q14|src_cesenatico_2013_finale__Q14]]
 
 
 
@@ -528,11 +615,16 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Days in a year (holidays other than birthdays)*
+*How many days there are in a year in the Field of Mathewonders*
 
-> A good non-complete to you! During the tea, Root is made aware of a strange custom: in the Field of Mateviglie it is used to celebrate their non-birthdays: any day other than their birthday is a non-birthday. There are various non-birthday parties every day. Each party is attended by exactly 140 celebrants (i.e. people who celebrate a non-birthday on that day) and 6 guests (i.e. people who do not celebrate a non-birthday on that day). Each inhabitant of the Campo delle Mateviglie, on the day of his or her birthday, participates (as invited) in exactly 33 parties; on all other days, instead, participates (as celebrated) in exactly one party. In the Matteviglie field, the years all last the same number of days, but it is different from 365. Knowing that the inhabitants of the Matteviglie Camp are in limited numbers, how many days are there in a year?
+> A very merry unbirthday to you!
+> During tea, Radice is made aware of a strange custom: in the Field of Mathewonders one celebrates one's unbirthdays: any day other than one's birthday is an unbirthday. Every day various unbirthday parties are organised. At each party exactly 140 celebrants take part (that is, people who that day are celebrating an unbirthday) and 6 guests (that is, people who that day are not celebrating an unbirthday). Every inhabitant of the Field of Mathewonders, on the day of their birthday, takes part (as a guest) in exactly 33 parties; on all the other days, instead, they take part (as a celebrant) in exactly one party. In the Field of Mathewonders the years all last the same number of days, which is however different from 365. Knowing that the inhabitants of the Field of Mathewonders are finite in number, how many days are there in a year?
 
-**Answer:** 0771
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+
+[[Quesiti/src_cesenatico_2013_finale#q15|src_cesenatico_2013_finale__Q15]]
 
 
 
@@ -567,13 +659,18 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Now when the sum Ghiro exceeds 2012/2013*
+*What time the K-hatter's clock shows when Radice's sum first exceeds the broken quotient 2012 over 2013*
 
-> After a robust dose of butter and a generous teaspoon, the K-oil clock finally started working again. Now mark midnight and a minute. The following test shall be carried out to verify its accuracy. Whenever she shoots an exact hour (the hour is an integer number between 1 and 24), the Diophantine Hare takes the number of the hour, multiplies it by its next and tells the result out loud. The K-ellaio Matto, at that point, says out loud the number obtained by adding 1 to the triple of the number spoken by the hare. The Ghiρ, therefore, says
-> 
-> Team competition 2013  National Finals  Problem texts 3/4 sleeping the number you get by dividing the number said by K -ellaio by the cube of the number said by the Hare. Finally, Root is tasked with calculating the sum of all the numbers given up to that point by Ghiρ. What time will the K-lock indicate when this sum will be greater than 2012-2013 for the first time? (Let the calculations made and the words spoken by the characters be considered instantaneous)
+> High clockmaking
+> After a hefty dose of butter and a generous splash of tea, the K-hatter's clock has at last started working again. It now shows one minute past midnight. To check its accuracy the following test is carried out. Every time an exact hour strikes (the hour is an integer between 1 and 24), the Diophantine Hare takes the number of the hour, multiplies it by its successor and says the result out loud. The Mad K-hatter, at that point, says out loud the number obtained by adding 1 to three times the number said by the Hare. Ghiρ then says, drowsily, the number obtained by dividing the number said by the K-hatter by the cube of the number said by the Hare. Finally, Radice is charged with calculating the sum of all the numbers said up to that moment by Ghiρ. What time will the K-hatter's clock show when that sum becomes, for the first time, greater than
+> 2012
+> 2013? (Regard as instantaneous the calculations made and the words spoken by the characters.)
 
-**Answer:** 0012
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2013_finale#q16|src_cesenatico_2013_finale__Q16]]
 
 
 
@@ -603,11 +700,15 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flowers lost for each rose (icosahedron+race)*
+*How many florins they lose on each fake rose*
 
-> There is also a crisis in the Matteviglie Camp The Two, the Five and the Seven Peaks, soldiers of the hearted Q, have decided to make their experience work by opening a factory of fake red roses. They do this: the flower's soul consists of a regular polystyrene icosahedron with a length of one centimeter; around it is a dense layer of shell that occupies all available space up to a distance of 2 centimeters from the icosahedron. As a last step, the outside of the rose is painted red. They can get free polystyrene and razor, while red paint costs them a thousand florins for every square inch of surface to color. The selling price, on the other hand, is set at one thousand Fiorini for each cubic centimetre of razor (polystyrene and paint are not taken into account). They realize, horribly, that the expenses are greater than the proceeds of the sale. And in the Matteviglie Field, the penalty for unpaid debts is beheaded! How many flowers do they lose for each rose?
+> There is a crisis in the Field of Mathewonders too
+> The Two, the Five and the Seven of Spades, soldiers of the Queen of Hearts, have decided to put their accumulated experience to use by opening a factory of fake red roses. They do it like this: the heart of the flower is a regular icosahedron of polystyrene, with edges one centimetre long; around it there is a dense layer of satin that occupies all the available space up to a distance of 2 centimetres from the icosahedron. As a last step the outside of the rose is painted red. They manage to obtain the polystyrene and the satin free of charge, while the red paint costs them a thousand florins for every square centimetre of surface to be coloured. The sale price, on the other hand, is fixed at a thousand florins for every cubic centimetre of satin (the polystyrene and the paint are not counted). To their horror, they realise that the expenses exceed the proceeds of the sale. And in the Field of Mathewonders the penalty for unpaid debts is beheading! How many florins do they lose on each rose?
 
-**Answer:** 8094
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2013_finale#q17|src_cesenatico_2013_finale__Q17]]
 
 
 
@@ -636,11 +737,16 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Days since its foundation (periodic meetings, 487 openings)*
+*How many days have passed since the founding of Come quando fuori piove*
 
-> An exclusive Root circle reaches the Q of hearts to start the game of croquet. The elitary croquet circle like when it rains has only four members: the K, the Q and the F of hearts plus the Banachoniglio. On the day it was founded, all four were present, then the K came every 42 days, the Q every 35, the F every 45 and the Banachoniglio every 28. The club was only open on days when at least one member was needed. The Q of hearts explains to Radice that today would have been the 487th opening day, but in his honour all the members showed up exceptionally. How many days have passed since the founding of the Como when it rains?
+> An exclusive club
+> Radice reaches the Queen of Hearts to begin the game of croquet. The exclusive croquet club Come quando fuori piove boasts only four members: the King, the Queen and the Knave of Hearts, plus the Banach-rabbit. On the day it was founded all four were present, then the King has come every 42 days, the Queen every 35, the Knave every 45 and the Banach-rabbit every 28. The club has remained open only on the days when at least one of the members was there. The Queen of Hearts explains to Radice that today would have been the 487th day of opening, but in her honour all the members have exceptionally turned up. How many days have passed since the founding of Come quando fuori piove?
 
-**Answer:** 5670
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2013_finale#q18|src_cesenatico_2013_finale__Q18]]
 
 
 
@@ -675,11 +781,22 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min decapitations d(2013) with d polynomial*
+*The least positive number of heads that will roll on day 2013, if d is a polynomial with integer coefficients*
 
-> A macabre head-to-head The Q cards of hearts are very worried: not a day goes by that you don't hear the scream Cut off his head! They also keep a record of how many capital executions there are every day. Recently they recorded this data: d(2002) = 11 d(2006) = 7 d(2008) = 5 d(2009) = 4 d(2011) = 2 where d(t) = h is the decapitation function and indicates that h heads were cut off on the day t of the report (a negative number indicates people pardoned). Recently, papers have realized that for a Q-shaped heart, d is a polynomial with integer coefficients. Today is the 2013 report day and Q is very nervous about the croquet game, so the number will inevitably be a positive integer. How many heads will roll at least today?
+> A macabre head-to-head
+> The Queen of Hearts' cards are very worried: not a day passes without the cry "Off with his head!" being heard. They also keep a record of how many capital executions there are each day. Lately they have recorded these data:
+> d(2002) = 11
+> d(2006) = 7
+> d(2008) = 5
+> d(2009) = 4
+> d(2011) = 2
+> where d(t) = h is the decapitation function and indicates that h heads were cut off on day t of the record (a negative number indicates people pardoned). Lately the cards have realised that, on a whim of the Queen of Hearts, d is a polynomial with integer coefficients. Today is day 2013 of the record and the Queen is very nervous about the game of croquet, so the number will inevitably be a positive integer. How many heads will roll today, at least?
 
-**Answer:** 3080
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2013_finale#q19|src_cesenatico_2013_finale__Q19]]
 
 
 
@@ -709,11 +826,16 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum 2^a 3^b with a+b in 0.9. (last 4 digits)*
+*The last four digits of the number of dancers, the positive integers that are products of powers of 2 and 3 with exponents summing to between 0 and 9 inclusive*
 
-> Root gets bored with croquet in the long run: the balls/thorns move of their own free will and the ferns/sticks don't cooperate. So he seizes the opportunity to chat with False Quadrature and Grif1. Without a doubt, the favorite dance of his interlocutors is the cockroach quadrangle. In fact, they tell Rootze that every Saturday the sea and the beach are teeming with dancing fish and crustaceans. Last Saturday, for example, to count the dancers, all positive integers expressed as product of powers of 2 and 3 could be added together, provided that the sum of the exponents is between 0 and 9, extremes included. How many people were in the quadrangle on Saturday? Answer by indicating the last four digits of the result.
+> Sea-bream Saturday fever
+> In the long run Radice grows bored of the game of croquet: the balls/hedgehogs move of their own accord and the flamingos/mallets do not cooperate. She thus takes the chance to chat with the Mock Quadratuga and Grif1. Without doubt, her interlocutors' favourite dance is the lobster quadrille. They tell Radice, in fact, that every Saturday the sea and the beach teem with dancing fish and crustaceans. Last Saturday, for example, to count the dancers one could have added up all the positive integers expressible as products of powers of 2 and 3, provided the sum of the exponents lies between 0 and 9, endpoints included. How many took part in Saturday's quadrille? Answer by indicating the last four digits of the result.
 
-**Answer:** 6526
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2013_finale#q20|src_cesenatico_2013_finale__Q20]]
 
 
 
@@ -742,11 +864,16 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum of (a∗b) ∗(c∗d) with x∗y=x+y-xy*
+*The first four digits after the decimal point of the least value of (a∗b)∗(c∗d)*
 
-> An ambitious operation The False Quadratuga wants to teach Root the four operations of the School of the Sea: Ambition, Distraction, Bruttification, and Mockery. LAmbition, in particular, is denoted by ed is defined as follows: x y = x + y −xy. To verify that Root has understood, the False Quadratum asks you to choose four real numbers a,b,c,d, such that 0 ≤a,b,c,d ≤1 and a + 2b + 3c + 4d = 7, so that the quantity (ab)(cd) is as low as possible. What's the value of this minimum? In the answer, indicate the first four digits after the resulting comma.
+> An ambitious operation
+> The Mock Quadratuga wants to teach Radice the four operations of the School of the Sea: Ambition, Distraction, Uglification, and Derision. Ambition, in particular, is denoted by ∗ and is defined as follows: x ∗ y = x + y − xy. To check that Radice has understood, the Mock Quadratuga asks her to choose four real numbers a, b, c, d, such that 0 ≤ a, b, c, d ≤ 1 and a + 2b + 3c + 4d = 7, so that the quantity (a∗b)∗(c∗d) is as small as possible. What is the value of this minimum? In the answer, indicate the first four digits after the decimal point of the result.
 
-**Answer:** 9868
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2013_finale#q21|src_cesenatico_2013_finale__Q21]]
 
 
 
@@ -778,11 +905,16 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Separate prime numbers dividing m (winning mixtures)*
+*How many distinct primes divide m, the number of shuffles that make the Knave sure to win as dealer among 9 players*
 
-> The Faint on trial An unexpected news reaches Roots. Crown Prince F of hearts is called to court, accused of cheating in the card game Don't lose your mind. This is how the game works: one of the players acts as a dealer and mixes a deck of 52 cards numbered from 1 to 52. Afterwards, starting from the dealer's right in the counterclockwise direction, each player in turn takes a card, keeping it covered, and the dealer then takes the last card. The cards are all shown together and the lowest card gets out. By decapitation. Fished cards are then discarded and the game continues as before, with the remaining players, using the advanced cards in the deck. Win, or rather survive, the last player in the race. F of Hearts won a game with 9 players (including himself) as a dealer, having mixed the cards for about three hours. If m is the number of different ways you could mix the deck to be sure you won, by how many distinct prime numbers is m divisible? Remember, 1 is not a prime.
+> The Knave on trial
+> Unexpected news reaches Radice. The crown prince, the Knave of Hearts, is called to court, accused of having cheated at the card game Don't lose your head. The game works like this: one of the players acts as dealer and shuffles a deck of 52 cards numbered from 1 to 52. Then, starting from the dealer's right and going anticlockwise, each player in turn draws a card, keeping it face down, and the dealer then draws the last card. The cards are shown all together and whoever has the lowest card leaves the game. By beheading. The cards drawn are then discarded and the game continues as before, with the remaining players, using the cards left in the deck. The last player in the game wins, or rather survives. The Knave of Hearts won a game with 9 players (himself included) as dealer, having shuffled the cards for about three hours. If m is the number of different ways in which he could have shuffled the deck so as to be sure of winning, by how many distinct primes is m divisible? Recall that 1 is not prime.
 
-**Answer:** 0015
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2013_finale#q22|src_cesenatico_2013_finale__Q22]]
 
 
 
@@ -811,11 +943,16 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*M+m true witnesses at the round table (implication)*
+*M + m, the greatest possible number of truthful witnesses plus the least*
 
-> In the trial against the F of hearts, 7777 inhabitants of the Mateviglie camp are called to testify, who are made to sit around an immense round table. By law, a witness can always tell the truth or always lie. All 7777 speak at the same time and, surprisingly, they all utter the same sentence: "If the person on my right is telling the truth, then the person on my left is thinking". If, under these conditions, M is the maximum possible number of true witnesses and m is the minimum, how much is M + m worth?
+> So many stubborn, pig-headed witnesses
+> In the trial of the Knave of Hearts, 7777 inhabitants of the Field of Mathewonders are called to testify, and they are seated around an immense round table. By law, a witness may always tell the truth or always lie. All 7777 begin to speak at once and, surprisingly, utter in unison the same sentence: "If the person on my right tells the truth, then the person on my left is lying." If, under these conditions, M is the greatest possible number of truthful witnesses and m is the least, what is M + m worth?
 
-**Answer:** 9073
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2013_finale#q23|src_cesenatico_2013_finale__Q23]]
 
 
 
@@ -852,10 +989,13 @@ Probability of Stregauss sending from the Leper (5 dice, p+q)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Growth modes in 6 steps (multiple chain, 12!)*
+*The last four digits of the number of ways Radice can have grown in six steps, from the King's height to 12! times that height*
 
-> A sudden awakening During the process, Root realizes that it is starting to grow again. However, this is not a gradual growth, but six steps in succession. The Q of hearts is frightened and orders them to cut off their heads, throwing them at all their soldiers, the now tiny cards from the deck. In this turbine of sounds and colors, Root wakes up next to his cat Diny and realizes he's dreamed everything. Just remember that before the first step she was exactly as high as the K of hearts, which at the end of the sixth was 12! (factoral 12) times K and that after each step its height becomes an integer multiple of the previous one. It is also possible that during some steps this multiple was 1, that is, it did not grow at all. If we analyze the six heights at the end of each step, how many different ways can the Root be grown? In the answer, indicate the last four digits of the result obtained.
-> 
-> XIV GARA NATIONAL A FINAL NATIONAL SQUADER  Solution  10 May 2013 Nr. The problem
+> A rude awakening
+> During the trial, Radice realises that she is beginning to grow again. It is not, however, a gradual growth, but takes place in six successive steps. The Queen of Hearts takes fright and orders her head to be cut off, throwing all her soldiers at her, the by now tiny cards of the deck. In this whirl of sounds and colours, Radice wakes up beside her cat Diny and realises that she has dreamt it all. She remembers only that before the first step she was exactly as tall as the King of Hearts, that at the end of the sixth she was 12! (twelve factorial) times the King, and that after each step her height became an integer multiple of the previous one. It is also possible that during some step this multiple was 1, that is, that she did not grow at all. If we look at the six heights at the end of each step, in how many different ways can Radice have grown? In the answer, indicate the last four digits of the result obtained.
 
-**Answer:** 7536
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2013_finale#q24|src_cesenatico_2013_finale__Q24]]

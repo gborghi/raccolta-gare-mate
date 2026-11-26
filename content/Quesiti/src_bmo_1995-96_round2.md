@@ -30,9 +30,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni integrali non negative a 2^x + 3^y = z^2*
+*Trovare tutte le soluzioni in numeri interi non negativi dell'equazione 2^x + 3^y = z^2*
 
-> Determinare tutti gli insiemi di integri non negativi $x$, $y$ e $z$ che soddisfano l'equazione $$2^x + 3^y = z^2.$$
+> Determinare tutti gli insiemi di interi non negativi $x$, $y$ e $z$ che soddisfano l'equazione
+> $$2^x + 3^y = z^2.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_1995-96_round2#q01|src_bmo_1995-96_round2__Q01]]
 
 
 
@@ -59,9 +67,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli ABC e UVW con lati correlati da equazioni; dimostrare l'ABC acuta, trovare angoli UVW*
+*Triangoli ABC e UVW con i lati legati da equazioni; dimostrare che ABC è acutangolo, trovare gli angoli di UVW*
 
-> I lati $a, b, c$ e $u, v, w$ di due triangoli $ABC$ e $UVW$ sono correlati dalle equazioni $$u(v+w-u) = a^2,$$ $$v(w+u-v) = b^2,$$ $$w(u+v-w) = c^2.$$ Prove che il triangolo $ABC$ sia angolato acuto ed esprime gli angoli $U$, $V$, $W$ in termini di $A$, $B$, $C$.
+> I lati $a, b, c$ e $u, v, w$ di due triangoli $ABC$ e $UVW$ sono legati dalle equazioni
+> $$u(v+w-u) = a^2,$$
+> $$v(w+u-v) = b^2,$$
+> $$w(u+v-w) = c^2.$$
+> Dimostrare che il triangolo $ABC$ è acutangolo ed esprimi gli angoli $U$, $V$, $W$ in funzione di $A$, $B$, $C$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_1995-96_round2#q02|src_bmo_1995-96_round2__Q02]]
 
 
 
@@ -83,9 +102,15 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi che si toccano esternamente a A e internamente un terzo cerchio; dimostrare che B1B2 è tangente comune*
+*Due cerchi tangenti esternamente in A e tangenti internamente a un terzo cerchio; dimostrare che B1B2 è la tangente comune.*
 
-> Due cerchi $S_1$ e $S_2$ si toccano all'esterno a $A$; toccano anche un cerchio $S$ all'interno rispettivamente a $B_1$ e $B_2$. $P$ è il punto in cui la tangente interna comune di $S_1$ e $S_2$ incontra l'arco $B_1B_2$ di $S$ che non contiene il punto diametralmente opposto a $A$ di $S$. La linea $PA$ incontra di nuovo $S_1$ a $Q_1$ e incontra di nuovo $S_2$ a $Q_2$. Provare che $B_1B_2$ è una tangente comune di $S_1$ e $S_2$.
+> Due cerchi $S_1$ e $S_2$ sono tangenti esternamente tra loro in $A$; sono inoltre tangenti internamente a un cerchio $S$ rispettivamente in $B_1$ e $B_2$. Sia $P$ il punto in cui la tangente interna comune a $S_1$ e $S_2$ incontra l'arco $B_1B_2$ di $S$ che non contiene il punto diametralmente opposto a $A$ su $S$. La retta $PA$ incontra nuovamente $S_1$ in $Q_1$ e incontra nuovamente $S_2$ in $Q_2$. Dimostrare che $B_1B_2$ è una tangente comune a $S_1$ e $S_2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_1995-96_round2#q03|src_bmo_1995-96_round2__Q03]]
 
 
 
@@ -112,6 +137,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i reali positivi a,b,c,d che soddisfano due equazioni simmetriche*
+*Trovare tutti i numeri reali positivi a, b, c, d che soddisfano due equazioni simmetriche*
 
-> Che $a, b, c, d$ siano numeri reali positivi in modo tale che $$a + b + c + d = ab + bc + cd + da$$ e $$abcd = 27.$$ Trovino tutti i possibili valori di $a$, $b$, $c$, $d$.
+> Siano $a, b, c, d$ numeri reali positivi tali che
+> $$a + b + c + d = ab + bc + cd + da$$
+> e
+> $$abcd = 27.$$
+> Trovare tutti i valori possibili di $a$, $b$, $c$, $d$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_1995-96_round2#q04|src_bmo_1995-96_round2__Q04]]

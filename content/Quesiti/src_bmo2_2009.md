@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca soluzioni integrali non negative per un'equazione di somma radicale*
+*Tutte le soluzioni in interi non negativi di $\sqrt{a} + \sqrt{b} = \sqrt{2009}$*
 
-> Trova tutte le soluzioni in numeri interi non negativi $a$, $b$ a $\sqrt{a} + \sqrt{b} = \sqrt{2009}$.
+> Trovare tutte le soluzioni in interi non negativi $a$, $b$ di $\sqrt{a} + \sqrt{b} = \sqrt{2009}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2009#q01|src_bmo2_2009__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Prove proprietà dell'ortocentro sul circoncircolo di un triangolo acuto
+*Il centro della circoscritta a $BOH$ sta su $\omega$*
 
-> Il $ABC$ deve essere un triangolo a angolo acuto con circoncircolo $\omega$. Il centro di $\omega$ è $O$ e l'ortocentro è $H$. Prova che il centro del circoncircolo del triangolo $BOH$ (dove $B$ è un vertice) si trova sul cerchio $\omega$.
+> Sia $ABC$ un triangolo acutangolo con circonferenza circoscritta $\omega$. Sia $O$ il centro di $\omega$ e sia $H$ l'ortocentro. Dimostrare che il centro della circonferenza circoscritta al triangolo $BOH$ (dove $B$ è un vertice) sta sulla circonferenza $\omega$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2009#q02|src_bmo2_2009__Q02]]
 
 
 
@@ -81,9 +95,18 @@ Prove proprietà dell'ortocentro sul circoncircolo di un triangolo acuto
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni reali che soddisfano una determinata equazione funzionale*
+*Tutte le funzioni reali che soddisfano quell'identità*
 
-> Trova tutte le funzioni $f$ dai numeri reali ai numeri reali che soddisfano $$f(x^2) + f(y^2) = (x + y)(f(x) + f(y))$$ per tutti i numeri reali $x$ e $y$.
+> Trovare tutte le funzioni $f$ dai numeri reali ai numeri reali che soddisfano
+> $$f(x^2) + f(y^2) = (x + y)(f(x) + f(y))$$
+> per tutti i numeri reali $x$ e $y$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2009#q03|src_bmo2_2009__Q03]]
 
 
 
@@ -108,8 +131,15 @@ Prove proprietà dell'ortocentro sul circoncircolo di un triangolo acuto
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra s(n) ≤ 2b per n ≤ 2500 e trova casi di uguaglianza*
+*Se $n \le 2500$, allora $s(n) \le 2b$, e i casi di uguaglianza*
 
-> Data una cifra integrale positiva $n$, $s(n)$ indica il numero di numeri integrali positivi che appaiono come blocchi di cifre consecutive nella rappresentazione binaria di $n$. Ad esempio, $s(13) = 6$ perché $13 = 1101_2$, che contiene come blocchi consecutivi le rappresentazioni binarie di $13 = 1101_2$, $6 = 110_2$, $5 = 101_2$, $3 = 11_2$, $2 = 10_2$ e $1 = 1_2$.
-> 
-> Mostrare che se $n \le 2500$, allora $s(n) \le 2b$, dove $b$ è il numero di bit nella rappresentazione binaria di $n$, e trovare i valori di $n$ per i quali l'uguaglianza è valida.
+> Dato un intero positivo $n$, sia $s(n)$ il numero di interi positivi che compaiono come blocchi di cifre consecutive nella rappresentazione binaria di $n$. Per esempio, $s(13) = 6$ perché $13 = 1101_2$, che contiene come blocchi consecutivi le rappresentazioni binarie di $13 = 1101_2$, $6 = 110_2$, $5 = 101_2$, $3 = 11_2$, $2 = 10_2$ e $1 = 1_2$.
+>
+> Dimostrare che se $n \le 2500$, allora $s(n) \le 2b$, dove $b$ è il numero di bit nella rappresentazione binaria di $n$, e trovare i valori di $n$ per cui vale l'uguaglianza.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2009#q04|src_bmo2_2009__Q04]]

@@ -35,16 +35,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distinct outcomes when throwing 6 red and 5 green into a box*
+*Distinct outcomes by launching 6 red ones and 5 green ones into the box*
 
-> Do you have good aim?
-> You have 11 balls: 6 colored red, indistinguishable from one another, and 5 colored green, indistinguishable from
-> one another. You try to throw them into an open box: some (possibly none) will go into the
-> box, others (possibly none) will end up outside. How many different possible outcomes are there? (For
-> example: one outcome is “3 green balls and 2 red balls in the box, the others outside”, a different outcome is “3
-> red balls and 2 green balls in the box, the others outside”.)
+> Do you have good aim? You have 11 balls: 6 are red and indistinguishable from one another, and 5 are green and indistinguishable from one another. You try to throw them into an open box: some (possibly none) will go into the box, and others (possibly none) will end up outside. How many different possible outcomes are there? (For example: one outcome is "3 green balls and 2 red balls in the box, the rest outside"; a different outcome is "3 red balls and 2 green balls in the box, the rest outside".)
 
-**Answer:** 42
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q01|src_kangourou_2009_squadre_semifinale__Q01]]
 
 
 
@@ -72,10 +72,13 @@ level: squadre
 *Percentage of perfect squares from 1 to 10000*
 
 > Perfect squares
-> Consider all the integers from 1 to 10,000, including 1 and 10,000: what percentage of them is
-> made up of numbers that are perfect squares (that is, that are the square of some integer)?
+> Consider all the integers from 1 to 10,000, inclusive: what percentage of them are perfect squares (that is, squares of some integer)?
 
-**Answer:** 1
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q02|src_kangourou_2009_squadre_semifinale__Q02]]
 
 
 
@@ -103,15 +106,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Radius of the disc in the flag with a cross*
+*Radius of the disc in the cross flag*
 
 ![[src_kangourou_2009_squadre_semifinale__prob3.png]]
 
-> from any remaining free square one can reach every other free square, only by moving 
-> vertically or horizontally onto other free squares, without jumping over pieces. 
-> What is the maximum number of pieces that you can place on the board?
+> From any empty square, every other empty square can be reached only by moving vertically or horizontally through other empty squares, without jumping over pieces. What is the maximum number of pieces you can place on the chessboard?
 
-**Answer:** 27
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q03|src_kangourou_2009_squadre_semifinale__Q03]]
 
 
 
@@ -140,9 +146,13 @@ level: squadre
 
 ![[src_kangourou_2009_squadre_semifinale__prob4.png]]
 
-> 4. The flag without the circle In the figure (which is not to scale) you see a coloured rectangular flag of white and gray whose horizontal sides are 240 cm long and whose vertical sides are 150 cm long. A white cross with parallel side arms appears on the flag, the measurements of which are determined as shown in the figure (exactly as in the previous question, but the circle is no longer there). What is the value in square centimetres of the area of the
+> 4. The flag without the circle In the figure (which is not to scale), you can see a rectangular flag colored white and grey, whose horizontal sides are 240 cm long and whose vertical sides are 150 cm long. On the flag appears a white cross with arms whose sides are parallel; the dimensions of the cross are determined as indicated in the figure (exactly as in the previous question, but now the circle is no longer present). What is the area of the, in square centimetres?
 
-**Answer:** 21570
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q04|src_kangourou_2009_squadre_semifinale__Q04]]
 
 
 
@@ -166,11 +176,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum pieces on an 8x8 board with constraints*
+*Maximum number of pieces on an 8x8 chessboard with constraints*
 
-> 5. The chessboard You have available an 8 × 8 board (like the one used for checkers or chess) and 50 pieces. You want to arrange the pieces on the board so that:
+> 5. The Chessboard You have an 8 × 8 chessboard (like the one used in draughts or chess) and 50 pieces at your disposal. You want to place the pieces on the board so that:
 
-**Answer:** 21
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q05|src_kangourou_2009_squadre_semifinale__Q05]]
 
 
 
@@ -196,11 +211,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Nights lived by her mother before Martina.
+*Nights experienced by Mom before Martina*
 
-> Before Martina Martina was born on 9 May last year at noon. Her mother was born on May 9, 1983, always at noon. How many nights did Martina's mother live before Martina was born?
+> Before Martina
+> Martina was born at noon on May 9 of last year. Her mother was born at noon on May 9, 1983, also at noon. How many nights did Martina's mother live before Martina was born?
 
-**Answer:** 9132
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q06|src_kangourou_2009_squadre_semifinale__Q06]]
 
 
 
@@ -228,11 +248,17 @@ Nights lived by her mother before Martina.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Vertices encountered by the diagonal of the 350x210 rectangle*
+*Vertices met by the diagonal of the 350x210 rectangle*
 
-> Millimeter paper On a sheet of millimeter paper, where a square grid of one millimeter of side is present, a rectangle of 350 × 210 millimetres with sides parallel to the lines already on the sheet and vertices coinciding with vertices of the squares is shown. How many vertices of squares does each of the diagonals of this rectangle meet?
+> The graph paper
+> On a millimeter paper sheet—that is, a sheet featuring a grid of squares one millimeter on each side—a rectangle measuring 350 × 210 millimeters is highlighted, with its sides parallel to the lines already present on the sheet and its vertices coinciding with the vertices of the squares. How many square vertices do the diagonals of this rectangle each meet?
 
-**Answer:** 71
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q07|src_kangourou_2009_squadre_semifinale__Q07]]
 
 
 
@@ -259,11 +285,16 @@ Nights lived by her mother before Martina.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Short segment on the side divided by triangle 40-50-60*
+*Short segment on the side of a divided triangle 40-50-60*
 
-> The sides of a triangle are 40, 50, and 60 centimeters long. By drawing a segment with one end at the vertex relative to the smaller angle and the other end on the opposite side, the triangle is divided into two triangles having the same perimeter. How many centimeters is the shorter of the two segments into which that side is divided?
+> The divided triangle
+> The sides of a triangle are 40, 50, and 60 centimeters long. If a line segment is drawn with one endpoint at the vertex opposite the smallest angle and the other endpoint on the opposite side, the triangle is divided into two triangles with the same perimeter. How many centimeters long is the shorter of the two segments into which that side is divided?
 
-**Answer:** 15
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q08|src_kangourou_2009_squadre_semifinale__Q08]]
 
 
 
@@ -289,11 +320,16 @@ Nights lived by her mother before Martina.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum male to female ratio of 0.24*
+*Minimum number of people, male/female ratio 0.24*
 
-> Male and female In a room there are some people: if the number of males is divided by the number of females, you get exactly 0.24. It is known that the number of people present is the smallest that can determine that ratio. How many people are in that room?
+> Males and females
+> In a room, there are some people: if the number of males is divided by the number of females, the result is exactly 0.24. It is known that the total number of people present is the smallest number that can yield that ratio. How many people are in that room?
 
-**Answer:** 31
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q09|src_kangourou_2009_squadre_semifinale__Q09]]
 
 
 
@@ -320,11 +356,16 @@ Nights lived by her mother before Martina.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equal and odd probability with two dice tricked*
+*Even and odd probabilities with two loaded dice*
 
-> Two identical dice (each with faces numbered 1 to 6, as usual) are loaded: by throwing any one of them, the face with the number 1 can never come out and the probability that one of the remaining faces will come out is proportional to the number shown on the face. When throwing them, how many chances out of 100 are there that one of the faces will show an even number and the other one will show an odd number?
+> The rigged dice
+> Two identical dice (each with faces numbered from 1 to 6, as is usual) are rigged: when either one is rolled, the face showing the number 1 can never come up, and the probability that one of the remaining faces comes up is proportional to the number on that face. When they are rolled, what is the probability, out of 100, that one face shows an even number and the other shows an odd number?
 
-**Answer:** 48
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q10|src_kangourou_2009_squadre_semifinale__Q10]]
 
 
 
@@ -354,15 +395,21 @@ Nights lived by her mother before Martina.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Milestone markers with two and no more than two different digits*
+*Sticks with two and no more than two distinct digits*
 
-> Two cities A and B are connected by a 999-kilometre-long railway. Along the railway, one kilometre apart, there are milestone markers indicating the distance from A and B in the order, of the type
->  
-> [0, 999] (in A),   [1, 998],   [2, 997],   … ,  [998, 1],   [999, 0] (in B).
->  
-> How many of these milestone markers have two and no more than two different digits?
+> The kilometre stones
+> Two cities, A and B, are connected by a railway 999 kilometres long. Along the railway, at one-kilometre intervals, there are markers indicating the distances from A and from B, in that order, of the type
+>
+> [0, 999] (in A), [1, 998], [2, 997], …, [998, 1], [999, 0] (in B).
+>
+> How many of these markers bear two, and no more than two, distinct digits?
 
-**Answer:** 40
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q11|src_kangourou_2009_squadre_semifinale__Q11]]
 
 
 
@@ -390,15 +437,17 @@ Nights lived by her mother before Martina.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Denominator of the telescoping product (1-2/n)*
+*Denominator of the telescopic product (1-2/n)*
 
-> A product of 98 factors 
-> Express the value of the following product 
-> (1 –  2/3) × (1 – 2/4) × (1 – 2/5) ×…× (1 – 2/99) × (1 – 2/100) 
-> as a fraction whose numerator and denominator are positive integers and which is reduced to 
-> lowest terms. Write the denominator of the fraction.
+> A product of 98 factors
+> Express the value of the following product (1 – 2/3) × (1 – 2/4) × (1 – 2/5) × … × (1 – 2/99) × (1 – 2/100) as a fraction with positive integer numerator and denominator that is in lowest terms. Write the denominator of the fraction.
 
-**Answer:** 4950
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q12|src_kangourou_2009_squadre_semifinale__Q12]]
 
 
 
@@ -442,13 +491,19 @@ Nights lived by her mother before Martina.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Number in the cell ? of the arrow grid*
+*Number in cell ? of the grid with arrows*
 
 ![[src_kangourou_2009_squadre_semifinale__prob13.png]]
 
-> The grid shown in the figure is an irregular grid in some of whose cells numbers already appear. You must fill the remaining cells using only integers from 1 to 9 included (one per cell) and complying with all the following rules: - the grey cells must contain only odd numbers, the white cells must contain only even numbers; - no number may appear more than once in the same row; - no number may appear more than once in the same column; - in each row and in each column in which the arrow appears, the sum of the numbers starting from the arrow cell in the direction indicated by the arrow must be equal to the number indicated in the cell before the arrow. What number must you enter in the cell indicated by the question mark?
+> The grid
+> The grid shown in the figure is irregular, and some of its cells already contain numbers. You must fill the remaining cells using only integers from 1 to 9 inclusive (one number per cell) and observing all of the following rules: the gray cells must contain only odd numbers, and the white cells must contain only even numbers; no number may appear more than once in the same row; no number may appear more than once in the same column; in every row and every column in which an arrow appears, the sum of the numbers starting from the cell containing the arrow and proceeding in the direction indicated by the arrow must equal the number shown in the cell preceding the arrow. Which number must you enter in the cell indicated by the question mark?
 
-**Answer:** 9
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q13|src_kangourou_2009_squadre_semifinale__Q13]]
 
 
 
@@ -480,20 +535,16 @@ Number in the cell ? of the arrow grid*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Faces and edges of an antiprism with square bases*
+*Faces and edges of a square-based antiprism*
 
-> The antiprism 
-> We call antiprism a solid with the following properties: 
-> • it has two square bases that lie on parallel planes;  
-> • the center of each base lies on the perpendicular drawn from the center of the other and each side of 
-> each base is parallel to a diagonal of the other;  
-> • the lateral faces are triangles obtained by joining each vertex of each base with the 
-> two vertices of the other closest to it.  
-> How many faces (including the bases) and how many edges does an antiprism have? Write in order first the 
-> number of faces, then that of the edges (for example, if the faces were 6 and the edges 11, 
-> write 0611).
+> The antiprism
+> We call an antiprism a solid with the following properties: • it has two square bases lying in parallel planes; • the center of each base lies on the perpendicular drawn from the center of the other base, and each side of each base is parallel to a diagonal of the other base; • the lateral faces are triangles formed by joining each vertex of each base to the two vertices of the other base closest to it. How many faces (including the bases) and how many edges does an antiprism have? Write first the number of faces and then the number of edges, in that order (for example, if there were 6 faces and 11 edges, write 0611).
 
-**Answer:** 1016
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q14|src_kangourou_2009_squadre_semifinale__Q14]]
 
 
 
@@ -523,14 +574,17 @@ Number in the cell ? of the arrow grid*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last digit of 2^2009+3^2009+5^2009+7^2009*
+*The last digit of 2^2009 + 3^2009 + 5^2009 + 7^2009*
 
 > The last digit
-> With which digit does the number 22009  + 32009 + 52009  + 72009 end?
-> 
->  
-> Kangourou of Mathematics 2009
-> Kangourou Team Cup - semifinal
-> Mirabilandia,  9 May 2009
+> What is the final digit of the number 22009 + 32009 + 52009 + 72009?
+>
+>
+> Kangaroo Mathematics Competition 2009 Kangaroo Team Cup - Semi-final, Mirabilandia, 9 May 2009
 
-**Answer:** 7
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_squadre_semifinale#q15|src_kangourou_2009_squadre_semifinale__Q15]]

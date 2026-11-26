@@ -25,20 +25,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0007
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For 2024 (Giuseppe Rosolini)*
+*For 2024, Giuseppe Rosolini*
 
 ![[src_squadre_2024_femminile_qualif__prob1.png]]
 
-> For 2024 Giuseppe Rosolini
-> What is the smallest positive integer n such that the n-th root ⁿ√2024 of 2024 is less than 3?
+> For 2024, Giuseppe Rosolini: What is the smallest positive integer n such that the nth root ⁿ√2024 of 2024 is less than 3?
 
-**Answer:** 0007
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q01|src_squadre_2024_femminile_qualif__Q01]]
 
 
 
@@ -60,20 +62,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0033
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Up to 2024 (Sandro Campigotto)*
+*Until 2024 Sandro Campigotto*
 
 ![[src_squadre_2024_femminile_qualif__prob2.png]]
 
-> Up to 2024 Sandro Campigotto
-> Writing in increasing order all and only the non-negative integers whose representations use only the digits “0”, “2” and “4”, in which position is 2024?
+> Until 2024, when all and only the non-negative integers whose representations use only the digits “0”, “2”, and “4” are written in ascending order, what position does 2024 occupy?
 
-**Answer:** 0033
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q02|src_squadre_2024_femminile_qualif__Q02]]
 
 
 
@@ -124,36 +128,22 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_algebra|Algebra]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 1349
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Guards (Andrea Giusto)*
+*Guardiani Andrea Giusto*
 
 ![[src_squadre_2024_femminile_qualif__prob3.png]]
 
-> Guards Andrea Giusto
-> At the gates of the city of Tarskent, where every inhabitant either always tells the truth or always lies, there are 2024 guards, numbered from 1 to 2024. To enter the city one must answer the question the guards ask after having spoken:
-> Guard 1: If there exist polynomials p such that the polynomial p^2 has a root different from the roots of p, then all the other guards tell the truth.
-> Guard 2: That is false.
-> Guard 1: The number of guards who tell the truth is the smallest number such that the guards who lie are not more than twice the guards who tell the truth.
-> Guard 2: The number of guards who always tell the truth is the sum of the largest prime number less than half of 2023 and of the largest prime number less than one third of 2023.
-> Guard 3: I tell the truth.
-> Guard 4: That is false.
-> Guard 5: That is false.
-> Guard 6: That is false.
-> Guard 7: I tell the truth.
-> Guard 8: That is false.
-> Guard 9: That is false.
-> Guard 10: I tell the truth.
-> Guard 11: I tell the truth.
-> ...
-> Guard 2024: I tell the truth.
-> All the guards in chorus: How many of us always lie?
+> Guardians Andrea Giusto At the gates of the city of Tarskent, where every inhabitant always tells the truth or always lies, there are 2024 guardians, numbered from 1 to 2024. To enter the city, one must answer the question the guardians ask after speaking: Guardian 1: If there exist polynomials p such that the polynomial p^2 has a root different from the roots of p, then all the other guardians tell the truth. Guardian 2: That is false. Guardian 1: The number of guardians who tell the truth is the smallest number such that the number of guardians who lie is no more than twice the number of guardians who tell the truth. Guardian 2: The number of guardians who always tell the truth is the sum of the largest prime number less than half of 2023 and the largest prime number less than one third of 2023. Guardian 3: I tell the truth. Guardian 4: That is false. Guardian 5: That is false. Guardian 6: That is false. Guardian 7: I tell the truth. Guardian 8: That is false. Guardian 9: That is false. Guardian 10: I tell the truth. Guardian 11: I tell the truth. ... Guardian 2024: I tell the truth. All the guardians in chorus: How many of us always lie?
 
-**Answer:** 1349
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_algebra|Algebra]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q03|src_squadre_2024_femminile_qualif__Q03]]
 
 
 
@@ -190,26 +180,32 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0601
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distances (Andrea Macco and Giuseppe Rosolini)*
+*Distances Andrea Macco and Giuseppe Rosolini*
 
 ![[src_squadre_2024_femminile_qualif__prob4.png]]
 
-> Distances Andrea Macco and Giuseppe Rosolini
-> With a theodolite fixed on the ground, the distances to the top of the Bell Tower and to the top of Porta Soprana have been measured. The two numbers expressing the two distances are in the same unit of measurement. It is known that
-> a) both distances are greater than 100 and less than 1000;
-> b) as seen from the theodolite, the two distances form an angle of 90°;
-> c) the two distances are two consecutive integers;
-> d) the smaller of the two distances has digit sum 11 and is a multiple of 17;
-> e) the larger of the two distances has all even digits.
-> What is, in the unit of measurement used, the distance between the top of the bell tower and Porta Soprana?
+> Distances Andrea Macco and Giuseppe Rosolini Using a theodolite fixed to the ground, the distances to the top of the Campanile and to the summit of the Porta Soprana were measured. The two numbers representing the two distances are in the same unit of measurement. It is known that
+> a) Both distances are greater than 100
+> and less than 1000;
+> b) relative to the theodolite, the two distances
+> They form a 90° angle;
+> c) The two distances are two integers.
+> consecutive;
+> d) the smaller of the two distances has as
+> The sum of the digits is 11 and it is a multiple of 17;
+> e) the greater of the two distances has all
+> Even numbers. In the unit of measurement used, what is the distance between the top of the bell tower and Porta Soprana?
 
-**Answer:** 0601
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q04|src_squadre_2024_femminile_qualif__Q04]]
 
 
 
@@ -231,20 +227,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 2731
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tiles (Fabrizio Conca)*
+*Fabrizio Conca Tiles*
 
 ![[src_squadre_2024_femminile_qualif__prob5.png]]
 
-> Tiles Fabrizio Conca
-> To tile a rectangular corridor 2 m × 12 m, two types of tiles are used, of size 1 m × 2 m and 2 m × 2 m. In how many different ways can it be done?
+> Fabrizio Conca Tiles To tile a rectangular hallway measuring 2 m × 12 m, two types of tiles are used: 1 m × 2 m and 2 m × 2 m. In how many different ways can this be done?
 
-**Answer:** 2731
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q05|src_squadre_2024_femminile_qualif__Q05]]
 
 
 
@@ -266,20 +264,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0045
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Towards 2030 (Carlo Càssola)*
+*Towards 2030 Carlo Càssola*
 
 ![[src_squadre_2024_femminile_qualif__prob6.png]]
 
-> Towards 2030 Carlo Càssola
-> What is the smallest positive integer whose square is divisible by one of the next six years, including the current one (that is, from now until before 2030)?
+> Towards 2030 Carlo Càssola What is the smallest positive integer whose square is divisible by one of the next six years, including the current one (that is, from now until just before 2030)?
 
-**Answer:** 0045
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q06|src_squadre_2024_femminile_qualif__Q06]]
 
 
 
@@ -300,22 +300,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0486
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Up to 100 (Lorenzo Mazza)*
+*Up to 100 Lorenzo Mazza*
 
 ![[src_squadre_2024_femminile_qualif__prob7.png]]
 
-> Up to 100 Lorenzo Mazza
-> Given an even number a, consider the sequence (a\_n)\_(n=1,…,100) of one hundred positive integers constructed as follows:
-> a\_1 = a, a\_(n+1) = a\_n ⋅ n.
-> What is the smallest number a, an even positive integer, such that a\_(100) is the only number in the sequence divisible by 3^(53)?
+> Up to 100 Lorenzo Mazza A number equal to is fixed; consider the sequence (a_n)_(n=1,…,100) of one hundred positive integers constructed as follows: a_1 = a, a_(n+1) = a_n ⋅ n. What is the smallest positive even integer a such that a_100 is the only number in the sequence divisible by 3^(53)?
 
-**Answer:** 0486
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q07|src_squadre_2024_femminile_qualif__Q07]]
 
 
 
@@ -347,20 +347,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0277
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pass mark (Federico Borasio)*
+*Sufficiency Federico Borasio*
 
 ![[src_squadre_2024_femminile_qualif__prob8.png]]
 
-> Pass mark Federico Borasio
-> The class sat an exam at the end of which each student was given an integer mark between the minimum 1 and the maximum 100. Yu got 31; to pass it was enough to get a mark greater than or equal to 30. Therefore Yu's test is a pass. In the class there were 8 students who got a pass mark higher than Yu's. What is the minimum number of students in the class who got a failing mark that guarantees that Yu's mark is strictly higher than the class average, whatever marks the classmates got?
+> Passing Grade: Federico Borasio The class took an exam, and at the end of it each student was given an integer grade ranging from a minimum of 1 to a maximum of 100. Yu got 31; to pass, a grade of 30 or higher was enough. Therefore, Yu's result is a pass. In the class, 8 students received a passing grade higher than Yu's. What is the minimum number of students in the class who received a failing grade, such that Yu's grade is strictly greater than the class average, regardless of the grades the other classmates received?
 
-**Answer:** 0277
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q08|src_squadre_2024_femminile_qualif__Q08]]
 
 
 
@@ -381,20 +383,19 @@ level: squadre
 > del lampione in cm?
 
 **Risposta:** 0270
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shadows in the night (Sandro Campigotto)*
+*Shadows in the Night Sandro Campigotto*
 
 ![[src_squadre_2024_femminile_qualif__prob9.png]]
 
-> Shadows in the night Sandro Campigotto
-> I am in an avenue at night, under the light of a street lamp. I am 1.80 m tall: I cast a shadow of 1 m. If I move forward one metre, the shadow becomes three times as long. At what height, in cm, is the light of the street lamp?
+> Shadows in the Night Sandro Campigotto I am on an avenue at night, under the light of a streetlamp. I am 1.80 m tall: I cast a shadow 1 m long. If I move forward one meter, the shadow becomes three times as long. At what height, in cm, is the light from the streetlamp?
 
-**Answer:** 0270
+[[Quesiti/src_squadre_2024_femminile_qualif#q09|src_squadre_2024_femminile_qualif__Q09]]
 
 
 
@@ -420,20 +421,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8729
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reciprocating (Giuseppe Rosolini)*
+*Returning the Favor to Giuseppe Rosolini*
 
 ![[src_squadre_2024_femminile_qualif__prob10.png]]
 
-> Reciprocating Giuseppe Rosolini
-> Consider the largest number r with the following property: when you add 3 to r, then take the reciprocal of the result, add 1 to this number, then take the reciprocal of the last result, and add 3 to that, you get r. What number is r? [Give as the answer the first four digits of the decimal part.]
+> Reciprocal of Giuseppe Rosolini: Consider the largest number r that has the following property: when you add 3 to r, then calculate the reciprocal of the result, add 1 to this number, then calculate the reciprocal of the last result, and add 3 to that, you get r. What number is r? [Give as the answer the first four digits of the decimal part.]
 
-**Answer:** 8729
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q10|src_squadre_2024_femminile_qualif__Q10]]
 
 
 
@@ -460,20 +463,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1393
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*On a chessboard (Sandro Campigotto)*
+*On a Chessboard, Sandro Campigotto*
 
 ![[src_squadre_2024_femminile_qualif__prob11.png]]
 
-> On a chessboard Sandro Campigotto
-> A pawn is in the square of the first column and of the middle row of a board with 10 columns and 3 rows. With one move the pawn always advances into the next column, into a square having at least one vertex in common with the square it moves from. How many paths will take the pawn to the central square of the tenth column?
+> On a Chessboard by Sandro Campigotto A pawn is located in the square at the first file and the middle rank of a 10-file, 3-rank chessboard. In one move, the pawn always advances to the next file, to a square that shares at least one vertex with the square from which it is moved. How many paths will take the pawn to the central square of the tenth file?
 
-**Answer:** 1393
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q11|src_squadre_2024_femminile_qualif__Q11]]
 
 
 
@@ -494,22 +499,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0049
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Powers (Sandro Campigotto and Giuseppe Rosolini)*
+*Potenze Sandro Campigotto and Giuseppe Rosolini*
 
 ![[src_squadre_2024_femminile_qualif__prob12.png]]
 
-> Powers Sandro Campigotto and Giuseppe Rosolini
-> It is easy to see that m^n = n^m does not always hold, for example 0^2 ≠ 2^0, even though 2^4 = 4^2; therefore it is necessary to use brackets when iterating powers. Unfortunately the sum
-> 2^4^20 + 0^2^42 + 2^0^24 + 4^2^02
-> was written without brackets, and different results can be obtained depending on different insertions of brackets. Whoever wrote the addition meant to use always the same insertion of brackets, but it remained ambiguous which one among the many possible ones was intended. For example, they certainly did not mean to write the sum ((2^4)^2)^0 + 0^(2^(4^2)) + ((2^0)^2)^4 + 4^(2^(0^2)); on the other hand, they may very well have meant to write the sum ((2^4)^2)^0 + ((0^2)^4)^2 + ((2^0)^2)^4 + ((4^2)^0)^2. What is the sum of all the different possible results as the insertion of brackets varies?
+> Powers Sandro Campigotto and Giuseppe Rosolini It is easy to see that m^n ≠ n^m not always; for example, 0^2 ≠ 2^0, even though 2^4 = 4^2. Therefore, parentheses must be used when exponentiation expressions are iterated. Unfortunately, the sum 2^4^20 + 0^2^42 + 2^0^24 + 4^2^02 was written without parentheses, and different results can be obtained depending on different placements of parentheses. The person who wrote the addition intended to use the same placement of parentheses throughout, but it remained ambiguous which of the many possible placements they intended to use. For example, they certainly did not intend to write the sum ((2^4)^2)^0 + 0^(2^(4^2)) + ((2^0)^2)^4 + 4^(2^(0^2)); on the other hand, they may very well have intended to write the sum ((2^4)^2)^0 + ((0^2)^4)^2 + ((2^0)^2)^4 + ((4^2)^0)^2. What is the sum of all the different possible results as the parentheses are placed in different ways?
 
-**Answer:** 0049
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q12|src_squadre_2024_femminile_qualif__Q12]]
 
 
 
@@ -544,20 +549,22 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0759
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A lunch in Tarskent (Lorenzo Mazza)*
+*A Lunch in Tarskent, Lorenzo Mazza*
 
 ![[src_squadre_2024_femminile_qualif__prob13.png]]
 
-> A lunch in Tarskent Lorenzo Mazza
-> On the island of Tarskent there are 2024 inhabitants, some of whom are knights (who always tell the truth) and the others knaves (who always lie). A lunch is organised with a long table at which all of them sit. The cook, who comes from another island and does not know the tastes of those present, asks them how many like pasta, and 2024 hands go up; then he asks how many like meat, and the hands of half of those present go up; then he asks how many like fish, and again the hands of half of those present go up; finally he asks how many like cheese, and only a quarter of those present raise their hand. Knowing that each inhabitant of the island likes one and only one course among the four proposed by the cook, how many knights are there?
+> A Lunch on Tarskent Island — Lorenzo Mazza On Tarskent Island there are 2024 inhabitants; some of them are knights (who always tell the truth), and others are scoundrels (who always lie). A lunch is organized with a long table at which they all sit. The cook, who comes from another island and does not know the tastes of those present, asks how many like pasta, and 2024 hands go up; then he asks how many like meat, and half of those present raise their hands; then he asks how many like fish, and again half of those present raise their hands; finally, he asks how many like cheese, and only a quarter of those present raise their hands. Knowing that each of the island's inhabitants likes exactly one and only one of the four dishes proposed by the cook, how many knights are there?
 
-**Answer:** 0759
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q13|src_squadre_2024_femminile_qualif__Q13]]
 
 
 
@@ -593,20 +600,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0063
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Patterns (Andrea Macco and Giuseppe Rosolini)*
+*Motives: Andrea Macco and Giuseppe Rosolini*
 
 ![[src_squadre_2024_femminile_qualif__prob14.png]]
 
-> Patterns Andrea Macco and Giuseppe Rosolini
-> The builders of the mathematical school must arrange four square tiles of equal size, but of different colours, so as to form planar ornamental patterns to decorate the walls. Each tile is double-faced, that is, its two faces are identical: same colour, same porosity, (obviously) same dimensions. So a tile can be laid on either of its two faces with identical effect. The masters who placed the order only specified that, to form a pattern, each tile must touch at least one other along a whole side, and at least one tile must touch at least two. But they did not specify in more detail how to arrange them. How many different patterns can the builders obtain, up to symmetries of the pattern?
+> Patterns by Andrea Macco and Giuseppe Rosolini The builders of the mathematical school must arrange four square tiles of equal size but different colors so as to form planar ornamental patterns for decorating walls. Each tile is double-sided, meaning its two faces are identical: the same color, the same porosity, and (obviously) the same dimensions. Thus a tile can be placed on either of its two faces with the same effect. The masters who issued the order merely specified that, to form a pattern, each tile must touch at least one other tile along an entire side, and at least one tile must touch at least two others. However, they did not specify in more detail how to arrange the tiles. How many different patterns can the builders obtain, ignoring symmetries of the pattern?
 
-**Answer:** 0063
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q14|src_squadre_2024_femminile_qualif__Q14]]
 
 
 
@@ -628,20 +637,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1525
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*All different (Carlo Càssola)*
+*All Different, Carlo Càssola*
 
 ![[src_squadre_2024_femminile_qualif__prob15.png]]
 
-> All different Carlo Càssola
-> How many numbers have all different digits, arranged in strictly increasing order or in strictly decreasing order?
+> All Different Digits Carlo Càssola How many numbers have all different digits and have their digits arranged in strictly increasing order or in strictly decreasing order?
 
-**Answer:** 1525
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q15|src_squadre_2024_femminile_qualif__Q15]]
 
 
 
@@ -666,20 +677,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1571
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squares (Sandro Campigotto)*
+*Quadrati Sandro Campigotto*
 
 ![[src_squadre_2024_femminile_qualif__prob16.png]]
 
-> Squares Sandro Campigotto
-> On the line r three points A, B and C are given in this order, such that AB = 20 m and BC = 80 m. On the same side of the plane with respect to r, a square ABDE and a rectangle BCFG with BG = 70 m are constructed. Let H be the intersection point of the segments AF and CE. What is the length of BH in cm?
+> Quadrati Sandro Campigotto On the straight line r, three points A, B, and C are given in that order, such that AB = 20 m and BC = 80 m. On the same side of the plane relative to r, a square ABDE and a rectangle BCFG with BG = 70 m are constructed. Let H be the intersection point of the line segments AF and CE. What is the length of BH in cm?
 
-**Answer:** 1571
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q16|src_squadre_2024_femminile_qualif__Q16]]
 
 
 
@@ -701,20 +714,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 6574
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last ones (Sandro Campigotto)*
+*Latest Sandro Campigotto*
 
 ![[src_squadre_2024_femminile_qualif__prob17.png]]
 
-> Last ones Sandro Campigotto
-> What are the last four digits (thousands, hundreds, tens and units) of the integer part of the square root of 2022 × 2024^2 × 2026 + 5?
+> Latest Sandro Campigotto What are the last four digits (thousands, hundreds, tens, and units) of the integer part of the square root of 2022 × 2024^2 × 2026 + 5?
 
-**Answer:** 6574
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q17|src_squadre_2024_femminile_qualif__Q17]]
 
 
 
@@ -745,20 +760,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0235
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gift (Fabrizio Conca)*
+*Gift from Fabrizio Conca*
 
 ![[src_squadre_2024_femminile_qualif__prob18.png]]
 
-> Gift Fabrizio Conca
-> A group of 6 friends organises a gift exchange. A slip with each name is put in an urn. One after the other, the six friends draw a slip without looking at the name written on it: the name on the slip drawn by each will be the recipient of their gift. The draw is not valid if at least one person has to give the gift to themselves. What is the probability that the draw is not valid? [Give as the answer the sum of numerator and denominator of the fraction in lowest terms.]
+> Gift for Fabrizio Conca A group of 6 friends organizes a gift exchange. A slip with each name on it is put into an urn. One after another, the six friends draw a slip without looking at what name is written on it: the name on the slip drawn by each person will be the recipient of their gift. The draw is invalid if at least one person has to give the gift to themselves. What is the probability that the draw is invalid? [Give as the answer the sum of the numerator and denominator of the fraction reduced to lowest terms.]
 
-**Answer:** 0235
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q18|src_squadre_2024_femminile_qualif__Q18]]
 
 
 
@@ -787,20 +804,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8912
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Aroma (Carlo Càssola)*
+*Aroma Carlo Càssola*
 
 ![[src_squadre_2024_femminile_qualif__prob19.png]]
 
-> Aroma Carlo Càssola
-> A number is aromatic if it is made up only of odd digits, pairwise different, and no permutation of the digits produces a number divisible by 7. Therefore an aromatic number cannot be greater than 99999. Aromatic numbers certainly exist, for example 17 (and 71). Whereas 53 is not aromatic because 35 is divisible by 7. What is the sum of all aromatic numbers? [Give as the answer the first four digits from the right of the result.]
+> Aroma Carlo Càssola A number is aromatic if it consists only of odd digits, each pair of which are different, and no permutation of the digits yields a number divisible by 7. Therefore, an aromatic number cannot be greater than 99999. Aromatic numbers certainly exist—for example, 17 (and 71). However, 53 is not aromatic because 35 is divisible by 7. What is the sum of all aromatic numbers? [Give as the answer the first four digits from the right of the result.]
 
-**Answer:** 8912
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q19|src_squadre_2024_femminile_qualif__Q19]]
 
 
 
@@ -850,20 +869,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0013
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Connection (Giuseppe Rosolini)*
+*Giuseppe Rosolini Connection*
 
 ![[src_squadre_2024_femminile_qualif__prob20.png]]
 
-> Connection Giuseppe Rosolini
-> Twenty-seven detectors are arranged in a 3 × 3 × 3 cubic lattice. On each (square) face of the cube there are 9 detectors: four at the vertices, four at the midpoints of the sides, 1 at the centre of the face. A further detector is at the centre of the cube. Each detector is connected directly to each of those nearest to it (at least 3, at most 6 depending on its position in the cubic lattice) by a cable lying on an edge of the cube or parallel to an edge. There are two special detectors: detector A at the bottom, left, front vertex; detector I at the opposite vertex, top, right, back. The experimenters run a test on the lattice of detectors to determine whether they transmit correctly. At the end of the test, the report lists the same answer for all the detectors: “Exactly 4 detectors directly connected to me do not transmit correctly.” Clearly some detector does not transmit correctly. The experimenters realise that the detectors transmitting correctly are the maximum possible number and prepare a second test so that a signal, fed into the lattice starting from detector A, reaches detector I passing through all the detectors that transmit correctly. What is the smallest possible number of times the signal passes through a detector that does not transmit correctly?
+> Connection Giuseppe Rosolini: Twenty-seven detectors are arranged in a 3 × 3 × 3 cubic lattice. On each (square) face of the cube there are 9 detectors: four at the vertices, four at the midpoints of the edges, and 1 at the center of the face. There is one additional detector at the center of the cube. Each detector is directly connected to each of the detectors closest to it (at least 3, at most 6 depending on its position in the cubic lattice) by a cable that lies on an edge of the cube or is parallel to an edge. There are two special detectors: detector A at the bottom-left-front vertex; detector I at the opposite vertex, top-right-rear. The experimenters conduct a test on the detector lattice to determine whether the detectors transmit correctly. At the end of the test, the report lists the same response for all detectors: "Exactly 4 detectors directly connected to me do not transmit correctly." Clearly, some detectors do not transmit correctly. The experimenters realize that the number of detectors that transmit correctly is the maximum possible and prepare a second test so that a signal, introduced into the lattice from detector A, reaches detector I passing through all the detectors that transmit correctly. What is the smallest possible number of times the signal passes through a detector that does not transmit correctly?
 
-**Answer:** 0013
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q20|src_squadre_2024_femminile_qualif__Q20]]
 
 
 
@@ -890,17 +911,19 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0260
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2024_26%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2024 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dust (Giuseppe Rosolini)*
+*Polvere Giuseppe Rosolini*
 
 ![[src_squadre_2024_femminile_qualif__prob21.png]]
 
-> Dust Giuseppe Rosolini
-> It is possible to use four regular tetrahedra with edge ℓ and a regular octahedron, also with edge ℓ, to obtain a tetrahedron with edge 2ℓ, placing the tetrahedra with edge ℓ against four suitable faces out of the eight of the octahedron with edge ℓ. How many octahedra and tetrahedra with edge ℓ are needed to obtain a tetrahedron with edge 8ℓ, placing the tetrahedra against suitable faces of the octahedra?
+> Polvere Giuseppe Rosolini It is possible to use four regular tetrahedra of edge length ℓ and one regular octahedron, also of edge length ℓ, to obtain a tetrahedron of edge length 2ℓ by placing the tetrahedra of edge length ℓ against four appropriate faces among the eight faces of the octahedron of edge length ℓ. How many octahedra and tetrahedra of edge length ℓ are needed to obtain a tetrahedron of edge length 8ℓ by placing the tetrahedra against appropriate faces of the octahedra?
 
-**Answer:** 0260
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2024_femminile_qualif#q21|src_squadre_2024_femminile_qualif__Q21]]

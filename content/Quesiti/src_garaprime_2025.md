@@ -57,7 +57,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different areas between rising rhomboidal mosaics*
+*Area differences between heated rhomboid mosaics*
 
 ![[src_garaprime_2025__prob1.png]]
 
@@ -75,7 +75,7 @@ level: Classi Prime
 \end{document}
 ```
 
-> Using 1 cm square side-pieces, Raffaella builds the mosaic shown in the figure. Luca decides to make one that has the same shape, but with side braids of 5 cm. Claudia, on the other hand, builds one using still 1 cm side brackets and maintaining the same rhomboidal structure as Raffaella, but with the diagonal 35 squares instead of 7. What's the difference, in cm2, between the areas of Claudia and Luca's figures?
+> Using square tiles with sides 1 cm long, Raffaella constructs the mosaic shown in the figure. Luca decides to make one that has the same shape but uses tiles with sides 5 cm long. Claudia, on the other hand, constructs one using tiles with sides 1 cm long again and keeping the same rhomboid structure as Raffaella's, but with diagonals of 35 small squares instead of 7. What is the difference, in cm², between the areas of Claudia's and Luca's figures?
 >
 > - **(A)** 12
 > - **(B)** 0
@@ -83,7 +83,11 @@ level: Classi Prime
 > - **(D)** 25
 > - **(E)** 13
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2025#q01|src_garaprime_2025__Q01]]
 
 
 
@@ -116,9 +120,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most coins in the fortress stopping at total par*
+*Maximize the coins in the chest, stopping at an even total*
 
-> You have 100 bags: the first one contains a gold coin, the second one contains two, and so on, up to the penny that contains 100. You can fill your pocket by emptying, one by one, a few bags in the pocket, but when the number of coins in your treasure is equal and zero you will have to stop. How many coins, at most, can you put in the fortress?
+> There are 100 bags: the first contains one gold coin, the second contains two, and so on, up to the hundredth, which contains 100 coins. You can fill your chest by emptying some bags into the chest, one after another, but when the number of coins in your treasure is even and non-zero, you must stop. What is the maximum number of coins you can put into the chest?
 >
 > - **(A)** 5050
 > - **(B)** 3080
@@ -126,7 +130,12 @@ level: Classi Prime
 > - **(D)** 2649
 > - **(E)** 2048
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2025#q02|src_garaprime_2025__Q02]]
 
 
 
@@ -156,17 +165,21 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the MNC triangle in the rectangle of area 288*
+*Area of triangle MNC in the rectangle with area 288*
 
-> In an ABCD rectangle with an area of 288 cm2, M and N respectively are the midpoints of the sides AB and AD. Determine the area of the MNC triangle.
+> In rectangle ABCD with an area of 288 cm², let M and N be the midpoints of sides AB and AD, respectively. Determine the area of triangle MNC.
 >
-> - **(A)** 108 cm2
-> - **(B)** 144 cm2
-> - **(C)** 96 cm2
+> - **(A)** 108 cm²
+> - **(B)** 144 cm²
+> - **(C)** 96 cm²
 > - **(D)** 72 cm2
 > - **(E)** 192 cm2
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2025#q03|src_garaprime_2025__Q03]]
 
 
 
@@ -198,9 +211,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x+y given that the sum of the numbers is 396*
+*The value of x+y, given that the sum of the numbers is 396*
 
-> Cecilia, using only the digits 2, 5, x, y, with x  = 0  = y and such that each of the four digits is different from the others, wrote on the board all possible integers of two distinct digits. If you want the sum of all the numbers written to be equal to 396, how much does x + y have to be worth?
+> Cecilia, using only the digits 2, 5, x, y, with x ≠ 0, y ≠ 0, and such that each of the four digits is different from the others, wrote on the board all possible two-digit integers with distinct digits. If we want the total sum of the numbers written to be equal to 396, what must the value of x + y be?
 >
 > - **(A)** 4
 > - **(B)** 5
@@ -208,7 +221,12 @@ level: Classi Prime
 > - **(D)** 9
 > - **(E)** 12
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2025#q04|src_garaprime_2025__Q04]]
 
 
 
@@ -239,9 +257,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figures not cut from 20x25 grid diagonal*
+*Small squares not cut by the diagonals of a 20x25 grid*
 
-> In a rectangular grid 20 × 25 the two diagonal lines are drawn. How many squares of the grid are not cut inside by the diagonals?
+> In a 20 × 25 rectangular grid, the two diagonals are drawn. How many of the grid squares are not intersected internally by the diagonals?
 >
 > - **(A)** 320
 > - **(B)** 326
@@ -249,7 +267,12 @@ level: Classi Prime
 > - **(D)** 418
 > - **(E)** 422
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2025#q05|src_garaprime_2025__Q05]]
 
 
 
@@ -282,7 +305,7 @@ level: Classi Prime
 
 *Maximum points in a circle at a distance of at least 1*
 
-> How many points can be drawn, at most, within a circle of area 4π cm2 (the edge can also be used) so that each point is at least 1 cm away from each other?
+> What is the maximum number of points that can be plotted inside a circle with an area of 4π cm² (the boundary may also be used) such that each point is at least 1 cm away from each of the other points?
 >
 > - **(A)** 7
 > - **(B)** 10
@@ -290,7 +313,12 @@ level: Classi Prime
 > - **(D)** 16
 > - **(E)** 19
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2025#q06|src_garaprime_2025__Q06]]
 
 
 
@@ -320,9 +348,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*6 digit numbers with 1 and 2 multiplied by 3*
+*6-digit numbers containing 1 and 2 that are multiples of 3*
 
-> How many six-digit numbers that are multiples of three can I write using just the numbers 1 and 2?
+> How many 6-digit numbers that are multiples of 3 can I write using only the digits 1 and 2?
 >
 > - **(A)** 2
 > - **(B)** 12
@@ -330,7 +358,12 @@ level: Classi Prime
 > - **(D)** 32
 > - **(E)** 64
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2025#q07|src_garaprime_2025__Q07]]
 
 
 
@@ -369,11 +402,12 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BAC angle in a chain of isosceles triangles*
+*Angle BAC in a chain of isosceles triangles*
 
 ![[src_garaprime_2025__prob8.png]]
 
-> In the next image, AB = BC = CD = DE = EF. Knowing that the angle $\widehat{DEF}$ measures 44°, the width of the angle $\widehat{BAC}$ is:
+> In the image beside, AB = BC = CD =
+> DE = EF. Given that angle $\widehat{DEF}$ measures 44°, the measure of angle $\widehat{BAC}$ is: A B C D E F
 >
 > - **(A)** 17°
 > - **(B)** 18°
@@ -381,7 +415,11 @@ level: Classi Prime
 > - **(D)** 22°
 > - **(E)** 21°
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2025#q08|src_garaprime_2025__Q08]]
 
 
 
@@ -411,9 +449,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers with the digit 3 but not the digit 4*
+*Three-digit numbers containing the digit 3 but not the digit 4*
 
-> How many three-digit integers (between 100 and 999) contain the number 3 but not the number 4?
+> How many three-digit integers (between 100 and 999) contain the digit 3 but not the digit 4?
 >
 > - **(A)** 162
 > - **(B)** 200
@@ -421,7 +459,12 @@ level: Classi Prime
 > - **(D)** 243
 > - **(E)** 450
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2025#q09|src_garaprime_2025__Q09]]
 
 
 
@@ -453,9 +496,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of headings with sum and product constraints*
+*Maximum numbers in tombola with sum and product constraints*
 
-> I take the 90 numbers from the casing and I want to put some of them inside the bag so that if I take out two of any of these, I'm sure their sum will be less than or equal to 25 and their product will be greater than or equal to 50. How many numbers, at most, can I choose?
+> I take the 90 bingo numbers and want to put some of them into the bag so that, if I draw any two of these numbers, I can be sure that their sum will be less than or equal to 25 and their product will be greater than or equal to 50. What is the maximum number of numbers I can choose?
 >
 > - **(A)** 5
 > - **(B)** 7
@@ -463,7 +506,12 @@ level: Classi Prime
 > - **(D)** 11
 > - **(E)** 6
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2025#q10|src_garaprime_2025__Q10]]
 
 
 
@@ -493,17 +541,22 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integrations satisfying the chain of inequalities*
+*Interiors that satisfy the chain of inequalities*
 
-> How many positive integers n satisfy the inequalities (15n) 20 > n40 > 280 ?
+> How many positive integers n satisfy the inequalities (15n)²⁰ > n⁴⁰ > 280?
 >
 > - **(A)** 0
 > - **(B)** 10
 > - **(C)** 50
 > - **(D)** 100
-> - **(E)** infinitesimal
+> - **(E)** infinitely many
 
-**Answer:** B
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2025#q11|src_garaprime_2025__Q11]]
 
 
 
@@ -532,9 +585,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Given product xy (x+y) ^2=100x+y=2025*
+*Given product xy, (x+y)^2=100, x+y=2025*
 
-> The two positive real numbers x and y are such that (x + y) 2 = 100x + y = 2025. How much is product xy worth?
+> The two positive real numbers x and y satisfy (x + y)² = 100 and x + y = 2025. What is the value of the product xy?
 >
 > - **(A)** 250
 > - **(B)** 400
@@ -542,7 +595,11 @@ level: Classi Prime
 > - **(D)** 480
 > - **(E)** 500
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2025#q12|src_garaprime_2025__Q12]]
 
 
 
@@ -574,9 +631,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the parallelogram given the bearings and area APO*
+*Area of the given parallelogram given the centroid and area APO*
 
-> Given the parallelogram ABCD, either M is the middle point of BC, O is the meeting point of the diagonals and P is the intersection point between AM and BD. Knowing that the area of APO is 24 cm2, how much is the area of the ABCD parallelogram?
+> Given parallelogram ABCD, let M be the midpoint of BC, O be the intersection point of the diagonals, and P be the intersection point of AM and BD. Knowing that the area of APO is 24 cm², what is the area of parallelogram ABCD?
 >
 > - **(A)** 288 cm2
 > - **(B)** 240 cm2
@@ -584,7 +641,11 @@ level: Classi Prime
 > - **(D)** 192 cm2
 > - **(E)** 216 cm2
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2025#q13|src_garaprime_2025__Q13]]
 
 
 
@@ -615,9 +676,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Students who love mathematics (totals)*
+*Students who love mathematics (sets)*
 
-> All 180 students in the first grade of high school love math and/or physics. The number of students who love only mathematics is twice as many as those who love only physics; 20% of the total love both subjects. How many students love math?
+> All 180 first-year students at a high school like mathematics and/or physics. The number of students who like only mathematics is twice the number who like only physics; 20% of the total like both subjects. How many students like mathematics?
 >
 > - **(A)** 108
 > - **(B)** 144
@@ -625,7 +686,11 @@ level: Classi Prime
 > - **(D)** 132
 > - **(E)** 96
 
-**Answer:** D
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2025#q14|src_garaprime_2025__Q14]]
 
 
 
@@ -656,9 +721,10 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of 3a+1/a given 9a^2+1/a^2=19*
+*Value of 3a + 1/a given 9a^2 + 1/a^2 = 19*
 
-> If we know that 9a2 plus 1a2 is 19, with a positive real number, how much is 3a plus 1a?
+> Knowing that 9a2 + 1
+> a² = 19, where a is a positive real number—what is the value of 3a + 1a?
 >
 > - **(A)** 5
 > - **(B)** √ 13
@@ -666,7 +732,11 @@ level: Classi Prime
 > - **(D)** √ 19
 > - **(E)** 9
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2025#q15|src_garaprime_2025__Q15]]
 
 
 
@@ -696,9 +766,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum MC of positive integers with sum of 10*
+*Maximum product of positive integers summing to 10*
 
-> The sum of some positive integers is 10. What's the maximum of their minimum common multiple?
+> The sum of some positive integers is 10. What is the maximum possible value of their least common multiple?
 >
 > - **(A)** less than 16
 > - **(B)** between 16 and 28
@@ -706,7 +776,12 @@ level: Classi Prime
 > - **(D)** between 40 and 49
 > - **(E)** more than 49
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2025#q16|src_garaprime_2025__Q16]]
 
 
 
@@ -736,9 +811,9 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum B basis with unchanged sum for 1257*
+*Base B minima with unchanged digit sum for 1257*
 
-> In base 10, the number 1257 is considered. This number, based on B, is represented by the writing xyz, i.e. 1257 = xB2 + yB + z. Which is the smallest base B so x + y + z = 1 + 2 + 5 + 7?
+> In the usual base 10, consider the number 1257. In base B, this number is represented by the notation xyz, that is, 1257 = xB² + yB + z. What is the smallest base B for which x + y + z = 1 + 2 + 5 + 7?
 >
 > - **(A)** 11
 > - **(B)** 12
@@ -746,7 +821,11 @@ level: Classi Prime
 > - **(D)** 24
 > - **(E)** 28
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2025#q17|src_garaprime_2025__Q17]]
 
 
 
@@ -777,14 +856,19 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum factor to make 18×k power six*
+*Minimum factor to make 18*k the sixth power*
 
-> Lisa wants to multiply 18 by a number, so the result is both a perfect square and a perfect cube. What's the smallest number Lisa can use?
+> Lisa wants to multiply 18 by a number so that the result is both a perfect square and a perfect cube. What is the smallest number Lisa can use?
 >
 > - **(A)** 12
 > - **(B)** 72
 > - **(C)** 1728
 > - **(D)** 2592
-> - **(E)** 46656 Test n. 1 Italian Mathematical Union Mathematical Olympiad Project X National Competition for the First Classes Wednesday 5 February 2025 Name: Cognome: Gender: M F Date of birth: City: School: The competition lasts 2 hours and 30 minutes and consists of 18 problems. Only one of the answers is correct. The letter corresponding to the correct answer shall be shown, for each question, on this page in the window at the bottom. Every right answer is worth 5 points, every wrong answer is worth 0 points, and every problem left unanswered is worth 1 point. Cancellations on the grid are not allowed. The use of electronic devices, compass and goniometer shall not be permitted. The problems are not in order of difficulty, but alternate randomly. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 Test number 2
+> - **(E)** 46656 Test No. 1 Italian Mathematical Union Mathematics Olympiads Project X National Competition for First-Year Classes Wednesday, 5 February 2025 First name: Surname: Gender: M F Date of birth: City: School: The competition lasts 2 hours and 30 minutes and consists of 18 problems. Only one of the answers is correct. For each question, the letter corresponding to the correct answer must be entered on this page in the box at the bottom. Each correct answer is worth 5 points, each incorrect answer is worth 0 points, and each problem left unanswered is worth 1 point. Erasures on the answer grid are not permitted. The use of electronic devices, compasses, and protractors is not permitted. The problems are not arranged in order of difficulty; they have been shuffled randomly. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 Test No. 2
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2025#q18|src_garaprime_2025__Q18]]

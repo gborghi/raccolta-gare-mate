@@ -29,9 +29,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum-digit-sum di una potenza di 2 con almeno due cifre*
+*Somma delle cifre minima di una potenza di 2 con almeno due cifre*
 
-> Determinare il valore minimo possibile per la somma delle cifre di una potenza di $2$ che ha almeno due cifre e giustificare perché non è possibile trovare una potenza di $2$ con una somma di cifre più piccola. Trova una potenza di $2$ la cui somma digitali è uguale alla risposta trovata.
+> Determinare il valore minimo possibile della somma delle cifre di una potenza di $2$ che abbia almeno due cifre, e giustifica perché non è possibile trovare una potenza di $2$ con una somma delle cifre minore. Trovare una potenza di $2$ la cui somma delle cifre sia uguale alla risposta ottenuta.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2025_n2_fx#q01|src_obm_2025_n2_fx__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Strategia vincente in gioco da tavolo 5x5 per il quale gli integri positivi m*
+*Strategia vincente nel gioco da tavolo 5x5 per cui gli interi positivi m*
 
-> $m$ sia un numero intero positivo. Ana e Banana giocano il seguente gioco su una tavola $5 \times 5$, inizialmente riempita di $0$ in ogni cella. In alternativa, essi scelgono una cella della scheda e aggiungono al numero scritto in quella cella un numero intero dell'insieme $\{1, 2, 3, 4, 5\}$, in modo tale che il numero scritto in quella cella non superi mai $m$. Il giocatore che completa tutte le cinque celle di una riga, una colonna o una delle due diagonali principali con il numero $m$ vince. Per quali integri positivi $m$ Ana, la prima a giocare, ha una strategia vincente?
+> Sia $m$ un numero intero positivo. Ana e Banana giocano il seguente gioco su una scacchiera $5 \times 5$, inizialmente riempita con $0$ in ogni cella. A turno, scelgono una cella della scacchiera e vi aggiungono, al numero scritto in quella cella, un intero appartenente all'insieme $\{1, 2, 3, 4, 5\}$, in modo che il numero scritto in quella cella non superi mai $m$. Vince il giocatore che completa tutte e cinque le celle di una riga, di una colonna o di una delle due diagonali principali con il numero $m$. Per quali numeri interi positivi $m$ Ana, che gioca per prima, ha una strategia vincente?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2025_n2_fx#q02|src_obm_2025_n2_fx__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che il KDMR quadrilaterale è ciclico in triangolo acuto con centro orto*
+*Dimostrare che il quadrilatero KDMR è ciclico in un triangolo acuto con ortocentro*
 
-> $ABC$ sia un triangolo acuto con $AB < AC$. I metri $D$, $E$ e $F$ siano i piedi delle altitudini rispettivamente da $A$, $B$ e $C$, e $M$ sia il punto medio di $BC$. Che $H$ sia l'ortocentro di $ABC$. $P$ sia l'intersezione delle linee $EF$ e $BC$. La linea $PH$ incontra nuovamente il cerchio di diametro $AH$ al punto $J$. Il $R$ deve essere il riflesso di $A$ su $BC$. Le linee $JD$ e $PR$ si incontrano a $K$. Provare che il quadrilaterale $KDMR$ è ciclico.
+> Sia $ABC$ un triangolo acutangolo con $AB < AC$. Siano $D$, $E$, $F$ i piedi delle altezze condotte rispettivamente da $A$, $B$, $C$, e sia $M$ il punto medio di $BC$. Sia $H$ l'ortocentro di $ABC$. Sia $P$ l'intersezione delle rette $EF$ e $BC$. La retta $PH$ incontra nuovamente la circonferenza di diametro $AH$ nel punto $J$. Sia $R$ il riflesso di $A$ rispetto a $BC$. Le rette $JD$ e $PR$ si incontrano in $K$. Dimostrare che il quadrilatero $KDMR$ è ciclico.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2025_n2_fx#q03|src_obm_2025_n2_fx__Q03]]
 
 
 
@@ -114,15 +135,25 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Collinearity DEF e segmento di uguaglianza ID=IF utilizzando incenter e A-excenter*
+*Collinearità di DEF e uguaglianza dei segmenti ID=IF mediante incentro ed excentro relativo ad A*
 
-> Il punto di eccentricità $ABC$ deve essere un triangolo con incentro $I$ e excentro $A$ (l'accentro opposto al vertice $A$) pari a $K$. Che $D$ sia il piede del bisettore interno dal vertice $A$, che $E$ sia il circoncentro del triangolo $BDK$, e che $F$ sia la seconda intersezione di $AC$ con il circolo circumscritto del triangolo $BEC$.
-> 
-> a) dimostrare che i punti $D$, $E$, $F$ sono collineari.
-> 
-> b) Prove che $ID = IF$.
-> 
-> \textit{Remember:} \begin{itemize} \item L'incentro di $ABC$ è l'intersezione dei bisettori interni di $\angle A$, $\angle B$ e $\angle C$. \item Il $A$-excentro di $ABC$ è l'intersezione del bisector interno di $\angle A$ con i bisector esterni di $\angle B$ e $\angle C$. # Finire #
+> Sia $ABC$ un triangolo con incentro $I$ e excentro relativo a $A$ (l'excentro opposto al vertice $A$) uguale a $K$. Sia $D$ il piede della bisettrice interna condotta dal vertice $A$, sia $E$ il circocentro del triangolo $BDK$, e sia $F$ il secondo punto d'intersezione di $AC$ con la circonferenza circoscritta al triangolo $BEC$.
+>
+> (a) Dimostrare che i punti $D$, $E$, $F$ sono allineati.
+>
+> (b) Dimostrare che $ID = IF$.
+>
+> \textit{Ricorda:}
+> \begin{itemize}
+> \item Il centroide di $ABC$ è l'intersezione delle bisettrici interne di $\angle A$, $\angle B$ e $\angle C$. \item L'escentro $A$ di $ABC$ è l'intersezione della bisettrice interna di $\angle A$ con le bisettrici esterne di $\angle B$ e $\angle C$.
+> \end{itemize}
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2025_n2_fx#q04|src_obm_2025_n2_fx__Q04]]
 
 
 
@@ -149,13 +180,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*quadratico a coefficiente intero con radice reale positiva inferiore a 1/2*
+*Equazione quadratica a coefficienti interi con radice reale positiva minore di 1/2*
 
-> L'equazione $ax^2 + bx + c = 0$, con $a$, $b$, $c$ enti non zero, ha una soluzione reale positiva inferiore a $\dfrac{1}{2}$.
-> 
-> (a) Fornire un esempio di equazione che soddisfi la dichiarazione in cui due dei numeri $a$, $b$, $c$ sono uguali a $2025$ e l'altro ha un valore assoluto inferiore o uguale a $2025$. (Ricordiamo che $a \neq 0$, $b \neq 0$, $c \neq 0$.)
-> 
-> b) dimostrare che almeno uno dei numeri $a$, $b$ o $c$ ha un valore assoluto superiore o uguale a $2025$.
+> L'equazione $ax^2 + bx + c = 0$, con $a$, $b$, $c$ interi non nulli, ammette una soluzione reale positiva minore di $\dfrac{1}{2}$.
+>
+> (a) Dai un esempo di un'equazione che soddisfa l'affermazione in cui due dei numeri $a$, $b$, $c$ sono uguali a $2025$ e l'altro ha valore assoluto minore o uguale a $2025$. (Ricorda che $a \neq 0$, $b \neq 0$, $c \neq 0$.)
+>
+> (b) Dimostrare che almeno uno dei numeri $a$, $b$ o $c$ ha valore assoluto maggiore o uguale a $2025$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2025_n2_fx#q05|src_obm_2025_n2_fx__Q05]]
 
 
 
@@ -180,8 +218,15 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di dimensione di una diagonale ostruzionale impostata in triangolazioni di n-gon convex*
+*Dimensione minima di un insieme diagonale ostruente nelle triangolazioni di un n-gono convesso*
 
-> $\mathcal{P}$ sia un poligono converso con vertici $n$, $n \ge 4$. Possiamo dividere $\mathcal{P}$ in triangoli disegnando diagonali che non si incrociano all'interno di $\mathcal{P}$. Una partizione di questo tipo si chiama triangolazione. Un insieme $X$ di diagonali di $\mathcal{P}$ è chiamato \emph{obstructive} se ha la seguente proprietà: ogni triangolazione di $\mathcal{P}$ utilizza almeno una diagonale appartenente a $X$.
-> 
-> Determinare, come funzione di $n$, il numero minimo possibile di elementi di un insieme ostruzionale.
+> Sia $\mathcal{P}$ un poligono convesso con $n$ vertici, $n \ge 4$. Possiamo suddividere $\mathcal{P}$ in triangoli tracciando diagonali che non si intersecano all'interno di $\mathcal{P}$. Una suddivisione di questo tipo è detta \emph{triangolazione}. Un insieme $X$ di diagonali di $\mathcal{P}$ è detto \emph{ostruttivo} se possiede la seguente proprietà: ogni triangolazione di $\mathcal{P}$ utilizza almeno una diagonale appartenente a $X$.
+>
+> Determinare, in funzione di $n$, il numero minimo possibile di elementi di un insieme ostruttivo.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_grafi|Grafi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2025_n2_fx#q06|src_obm_2025_n2_fx__Q06]]

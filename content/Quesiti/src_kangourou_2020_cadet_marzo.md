@@ -38,19 +38,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many of the numbers 2,20,202,2020 are prime*
+*How many of the numbers 2, 20, 202, 2020 are prime?*
 
-> Of the four numbers 2, 20, 202, 2020, how many are prime? A) 0
-> 	
-> B) 1
-> 	
-> C) 2
-> 	
-> D) 3
-> 	
+> Of the four numbers 2, 20, 202, 2020, how many are prime?
+> A) 0	
+>
+> B) 1	
+>
+> C) 2	
+>
+> D) 3	
+>
 > E) 4
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q01|src_kangourou_2020_cadet_marzo__Q01]]
 
 
 
@@ -82,19 +87,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which fraction has the highest value*
+*Which fraction has the greater value?*
 
-> Which of the following fractions has the greatest value? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> Which of the following fractions has the greatest value?
+> A)	
+>
+> B)	
+>
+> C)	
+>
+> D)	
+>
 > E)
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q02|src_kangourou_2020_cadet_marzo__Q02]]
 
 
 
@@ -126,15 +136,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the large, shaded fraction of the square*
+*What fraction of the large shaded square?*
 
 ![[src_kangourou_2020_cadet_marzo__prob3.png]]
 
-> In the figure you see a large square divided into six smaller squares and two triangles. What fraction of the large square is shaded? A) 4/5 B) 3/8
-> 	
-> C) 4/9 D) 1/3 E) 1/2
+> In the figure, you see a large square divided into 6 smaller squares and two triangles. What fraction of the large square is shaded?
+> A) 4/5	 	
+> B) 3/8	
+>
+> C) 4/9	 	
+> D) 1/3	 	
+> E) 1/2
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q03|src_kangourou_2020_cadet_marzo__Q03]]
 
 
 
@@ -182,7 +200,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the AEF triangle in the grid*
+*Area of triangle AEF in the grid*
 
 ![[src_kangourou_2020_cadet_marzo__prob4.png]]
 
@@ -201,13 +219,21 @@ level: kangourou
 \end{document}
 ```
 
-> Look at the figure: each of the squares whose union gives the large square has side 1. What is the area of the AEF triangle? A) 6
-> 	
-> B) 9
-> 	
-> C) 2,5 D) 4,5 E) 3
+> Observe the figure: each of the small squares whose combination forms the large square has a side length of 1. What is the area of triangle AEF?
+> A) 6	
+>
+> B) 9	
+>
+> C) 2,5	 	
+> D) 4,5	 	
+> E) 3
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q04|src_kangourou_2020_cadet_marzo__Q04]]
 
 
 
@@ -244,19 +270,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which score cannot be scored in the tournament*
+*Which score cannot be achieved in the tournament?*
 
-> There are four teams in a football tournament. Every team meets every other team exactly once. In each match the winning team gets 3 points, the losing team 0 points; in the event of a tie, both teams get 1 point. Once all the matches of the tournament have been played, which of the following scores cannot be scored by any of the four teams? A) 4
-> 	
-> B) 5
-> 	
-> C) 6
-> 	
-> D) 7
-> 	
+> Four teams take part in a futsal tournament. Each team plays every other team exactly once. In each match, the winning team gets 3 points and the losing team gets 0 points; if the match is a draw, both teams get 1 point. Once all the matches in the tournament have been played, which of the following point totals could not have been achieved by any of the four teams?
+> A) 4	
+>
+> B) 5	
+>
+> C) 6	
+>
+> D) 7	
+>
 > E) 8
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q05|src_kangourou_2020_cadet_marzo__Q05]]
 
 
 
@@ -293,21 +325,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum triangles to be added to form a hexagon*
+*Minimum number of triangles to add to form a hexagon*
 
 ![[src_kangourou_2020_cadet_marzo__prob6.png]]
 
-> The figure shows a shape composed of 36 small identical equilateral triangles. What is the smallest number of such triangles that, when added to the shape, make it possible to turn it into a hexagon? A) 10
-> 	
-> B) 12
-> 	
-> C) 15
-> 	
-> D) 18
-> 	
+> The figure shows a shape composed of 36 identical small equilateral triangles. What is the smallest number of such triangles that, when added to the shape, will make it possible to transform it into a hexagon?
+> A) 10	
+>
+> B) 12	
+>
+> C) 15	
+>
+> D) 18	
+>
 > E) 24
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q06|src_kangourou_2020_cadet_marzo__Q06]]
 
 
 
@@ -359,12 +397,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum product of three numbers selected from the list*
+*The minimum product of three numbers chosen from the list*
 
-> The magician Kanga will multiply between them three different numbers chosen from the following list: - 5, - 3, - 1, 2, 4, 6. What's the least of the products you could get? A) - 200 B) - 120 C) - 90 D) - 48 E) - 15 8+5 -------- 3 8 -------- 3+5 3+5 -------- 8 8+3 -------- 5 3 -------- 8+5 A B D F E C
+> The magician Kanga will multiply three different numbers chosen from the following list:
+> - 5, -3, -1, 2, 4, 6. What is the smallest of the products he could obtain?
+> A) - 200	
+> B) - 120	
+> C) - 90	 	
+> D) - 48	 	
+> E) - 15
+> 8+5 -------- 3 8 -------- 3+5 3+5 -------- 8 8+3 -------- 5 3 -------- 8+5 A B D F E C
 >
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q07|src_kangourou_2020_cadet_marzo__Q07]]
 
 
 
@@ -392,13 +442,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What statement do the liar and the truthful one make*
+*What claim do the liar and the sincere person make?*
 
-> Two friends are meeting. One of the two always lies, while the other always tells the truth. Each makes one of the following statements: Which? A) Only one of us is telling the truth.
-> 	
-> B) We're both telling the truth. C) I always lie. D) I'm telling the truth. E) You're telling the truth.
+> Two friends meet. One of them always lies, while the other always tells the truth. Both make one of the following statements: which one?
+> A) One and only one of us is telling the truth.
+>
+> B) We're both telling the truth.
+> C) I always lie. D) I am telling the truth. E) You are telling the truth.
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q08|src_kangourou_2020_cadet_marzo__Q08]]
 
 
 
@@ -434,20 +490,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Walk time data for mixed journeys*
+*Hours of walking in mixed trips*
 
-> When John goes to school by public transport and returns home on foot, his round trip takes 3 hours; when he goes back and forth by public transport, the trip takes 1 hour (the transport takes the same time in both directions). How many hours would that journey take if John walked (and always at the same pace) on both occasions? A) Three and a half
-> 	
-> B) 4
-> 	
-> C) 4 and a half
-> 	
-> D) 5
-> 	
-> 	
-> E) 5 and a half
+> When Giovanni goes to school by public transport and walks home, his round trip takes 3 hours; when, on the other hand, he goes and returns by public transport, the trip takes 1 hour (the public transport takes the same amount of time in both directions). How long would such a trip take if Giovanni walked both ways (and always at the same pace)?
+> A) 3 and a half
+>
+> B) 4	
+>
+> C) 4:30
+>
+> D) 5	
+>
+>
+> E) Five and a half
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q09|src_kangourou_2020_cadet_marzo__Q09]]
 
 
 
@@ -486,21 +547,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers in the last column of table 3x3*
+*Sum of the numbers in the last column of the 3x3 table*
 
 ![[src_kangourou_2020_cadet_marzo__prob10.png]]
 
-> Each box in Table 3×3 you see in the figure had a number. Now all the numbers are covered by an ink stain: the sum of the numbers of each of the three rows and each of the first two columns (indicated by the arrows) is known. What is the sum of the numbers in the last column? A) 41
-> 	
-> B) 43
-> 	
-> C) 44
-> 	
-> D) 45
-> 	
-> E) 47 Questions from N. 11 to N. 20 are worth 4 points each.
+> In each cell of the 3×3 table shown in the figure, a number was written. Now all the numbers are covered by an ink stain; however, the sums of the numbers in each of the three rows and in each of the first two columns (indicated by arrows) are known. What is the sum of the numbers in the last column?
+> A) 41	
+>
+> B) 43	
+>
+> C) 44	
+>
+> D) 45	
+>
+> E) 47
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q10|src_kangourou_2020_cadet_marzo__Q10]]
 
 
 
@@ -533,13 +600,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Distance written on the broken sign (Atown-Betown-Cetown)
+*Distance written on the broken sign (Atown-Betown-Cetown)*
 
 ![[src_kangourou_2020_cadet_marzo__prob11.png]]
 
-> The shortest route from Atown to Cetown is through Betown. Along the route are the two road signs shown in the figure. What distance was written on the broken sign? A) 1 km B) 3 km C) 4 km D) 5 km E) 9 km
+> The shortest route from Atown to Cetown passes through the town of Betown. Along the route, the two road signs shown in the figure can be found. What distance was written on the broken sign?
+> A) 1 km
+> B) 3 km
+> C) 4 km
+> D) 5 km
+> E) 9 km
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q11|src_kangourou_2020_cadet_marzo__Q11]]
 
 
 
@@ -572,15 +648,22 @@ Distance written on the broken sign (Atown-Betown-Cetown)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Km per day for the target average of March*
+*Km per day for the March target average*
 
-> Anna had proposed walking an average of five kilometers a day for the whole month of March. On the evening of March 16, she realized that she had traveled 95 km up to that point. How many kilometers a day does she have to walk on average in the next few days of the month to reach her goal? A) 5,4 B) 5
-> 	
-> C) 4
-> 	
-> D) 3,6 E) 3,1
+> Anna had set herself the goal of walking an average of 5 km a day throughout March. On the evening of March 16, she realized that, up to that point, she had walked 95 km. On average, how many kilometres per day will she need to walk over the remaining days of the month to reach her goal?
+> A) 5,4	 	
+> B) 5	
+>
+> C) 4	
+>
+> D) 3,6	 	
+> E) 3,1
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q12|src_kangourou_2020_cadet_marzo__Q12]]
 
 
 
@@ -625,33 +708,27 @@ Distance written on the broken sign (Atown-Betown-Cetown)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which diagram shows the truss seen from above*
+*Which diagram shows the truss viewed from above?*
 
 ![[src_kangourou_2020_cadet_marzo__prob13.png]]
 
-> Which of the following diagrams shows what you would see
-> looking from above at the truss in the figure?
+> Which of the following diagrams shows what you would see if you looked down on the lattice structure in the figure?
 > A) 	
-	
-   B) 	
-	
-     C)
+>
+>    B) 	
+>
+>      C)
 > D) 	
-	
-   E)
-> 27 20
-> ?
-> 24
-> 26
-> 40
-> Atown  2 km
-> 4 km
-> Atown  7 km
-> Betown
-> Betown
+>
+>    E)
+> 27 20 ? 24 26 40 Atown 2 km 4 km Atown 7 km Betown Betown
 >
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q13|src_kangourou_2020_cadet_marzo__Q13]]
 
 
 
@@ -686,19 +763,25 @@ Distance written on the broken sign (Atown-Betown-Cetown)
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many pupils (3/5 swimming, 3/5 dancing, 5 both)
+*How many students (3/5 swimming, 3/5 dance, 5 both)*
 
-> In a classroom, each student practices swimming or dancing or both: 3/5 of the students practice swimming, 3/5 dance and 5 both. How many students are in that class? A) 15
-> 	
-> B) 20
-> 	
-> C) 25
-> 	
-> D) 30
-> 	
+> In a class, each student practices swimming or dancing or both: 3/5 of the students practice swimming, 3/5 practice dancing, and 5 of them practice both. How many students are there in that class?
+> A) 15	
+>
+> B) 20	
+>
+> C) 25	
+>
+> D) 30	
+>
 > E) 35
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q14|src_kangourou_2020_cadet_marzo__Q14]]
 
 
 
@@ -728,11 +811,20 @@ How many pupils (3/5 swimming, 3/5 dancing, 5 both)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What percentage of increase in Bruno's salary*
+*By what percentage should Bruno's salary be increased?*
 
-> Bruno's salary is 20% of that of the branch manager where he works. By what percentage should Bruno's salary increase to become equal to that of the director? A) 80% B) 120% C) 180% D) 400% E) 520%
+> Bruno's salary is 20% of the salary of the director of the branch where he works. By what percentage should Bruno's salary be increased to equal the director's salary?
+> A) 80%	 	
+> B) 120%	
+> C) 180%	
+> D) 400%	
+> E) 520%
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q15|src_kangourou_2020_cadet_marzo__Q15]]
 
 
 
@@ -766,19 +858,25 @@ How many pupils (3/5 swimming, 3/5 dancing, 5 both)
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum red faces of the 3x3 cube (cubes with two red faces)
+*Maximum number of red faces on the 3x3 cube (cubes with two red faces)*
 
-> Andrea buys 27 identical cubes, each with exactly two adjacent faces painted red. He uses them all to build a bigger cube. What is the maximum number of completely red faces that such a large cube can have? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> Andrea buys 27 identical cubes, each with exactly two adjacent faces painted red. She uses all of them to build a larger cube. What is the maximum number of faces that can be completely red on such a larger cube?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q16|src_kangourou_2020_cadet_marzo__Q16]]
 
 
 
@@ -815,21 +913,26 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little square area (4 rectangles, 6 diagonal)*
+*Area of the small square (4 rectangles, diagonal 6)*
 
 ![[src_kangourou_2020_cadet_marzo__prob17.png]]
 
-> Look at the figure: a square is made up of four identical rectangles and a smaller square. The area of the large square is 64 cm2 and the length of the diagonal of each rectangle is 6 cm. How many square centimetres is the area of the smallest square? A) 1
-> 	
-> B) 4
-> 	
-> C) 8
-> 	
-> D) 16
-> 	
+> Observe the figure: a square is made up of four identical rectangles and one smaller square. The area of the large square is 64 cm², and the length of the diagonal of each rectangle is 6 cm. What is the area of the smaller square in square centimeters?
+> A) 1	
+>
+> B) 4	
+>
+> C) 8	
+>
+> D) 16	
+>
 > E) 28
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q17|src_kangourou_2020_cadet_marzo__Q17]]
 
 
 
@@ -877,7 +980,7 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of garden with right angles*
+*Garden perimeter with right angles*
 
 ![[src_kangourou_2020_cadet_marzo__prob18.png]]
 
@@ -893,17 +996,22 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 \end{document}
 ```
 
-> Silvia's garden has the shape shown in the figure, where all convex corners are right angles. The drawing also shows some of the measurements, in meters, of the sides of Silvia's garden. How many meters does the perimeter of the garden measure? A) 22
-> 	
-> B) 23
-> 	
-> C) 24
-> 	
-> D) 25
-> 	
+> Silvia's garden has the shape shown in the figure, in which all convex angles are right angles. The drawing also shows some of the measurements, in metres, of the sides of Silvia's garden. How many metres is the perimeter of the garden?
+> A) 22	
+>
+> B) 23	
+>
+> C) 24	
+>
+> D) 25	
+>
 > E) 26
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q18|src_kangourou_2020_cadet_marzo__Q18]]
 
 
 
@@ -940,19 +1048,26 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of cubes in the neighbourhood (upper and side views)*
+*Maximum number of cubes in the district (viewed from above and from the side)*
 
 ![[src_kangourou_2020_cadet_marzo__prob19.png]]
 
-> Irene built a neighborhood using many identical wooden cubes. One of the images shows the view of the neighbourhood from above, the other the view from one side, but it is not known from which! What's the maximum number of cubes that Irene could have used? A) 21
-> 	
-> B) 24
-> 	
-> C) 23 D) 22
-> 	
-> E) None of the above
+> Irene has built a "neighborhood" using many identical wooden cubes. One of the images shows a top-down view of the "neighborhood", and the other shows a view from one of the sides—though it's not known which side! What is the maximum number of cubes Irene could have used?
+> A) 21	
+>
+> B) 24	
+>
+> C) 23
+> D) 22	
+>
+> E) none of the above
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q19|src_kangourou_2020_cadet_marzo__Q19]]
 
 
 
@@ -998,23 +1113,30 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which band folding configuration is not achievable*
+*Which fold configuration of the strip cannot be achieved?*
 
 ![[src_kangourou_2020_cadet_marzo__prob20.png]]
 
-> You have a strip of paper divided into five equal boxes, each of which has a number from 1 to 5, as you can see in the figure. Fold it so that the boxes overlap, forming five floors. Which of the following configurations, listed from the top floor, can you not get? A) 3, 5, 4, 2, 1
-> 	
-> B) 3, 4, 5, 1, 2
-> 	
-> C) 3, 2, 1, 4, 5
-> 	
-> D) 3, 1, 2, 4, 5
-> 	
-> E) 3, 4, 2, 1, 5 3 4 5 1 2 3 4 5
-> 
-> The questions from N. 21 to N. 30 are worth 5 points each.
+> There is a strip of paper divided into five equal boxes, and each box contains a number from 1 to 5, as you can see in the figure. You fold the strip so that the boxes overlap, forming 5 layers. Which of the following configurations, listed starting from the top layer, cannot be obtained?
+> A) 3, 5, 4, 2, 1	
+>
+> B) 3, 4, 5, 1, 2	
+>
+> C) 3, 2, 1, 4, 5	
+>
+> D) 3, 1, 2, 4, 5 	
+>
+> E) 3, 4, 2, 1, 5
+> 3 4 5 1 2 3 4 5
+>
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q20|src_kangourou_2020_cadet_marzo__Q20]]
 
 
 
@@ -1047,11 +1169,21 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Color of the cube in sixth place (color links)*
+*Cube color in sixth position (color constraints)*
 
-> Twelve colored cubes are aligned. There are 3 blue cubes, 2 yellow cubes, 3 red cubes and 4 green cubes, but not in this order. There is a yellow cube at one end of the line and a red cube at the other end. The red cubes are all contiguous; even the green cubes are all contiguous. The tenth cube on the left is blue. What's the color of the cube that's in sixth place on the left? A) Of course it is blue. B) Certainly yellow. C) Certainly red. D) It is certainly green. E) Blue or red.
+> Twelve colored cubes are arranged in a line. There are 3 blue cubes, 2 yellow cubes, 3 red cubes, and 4 green cubes, but not in this order. There is a yellow cube at one end of the row and a red cube at the other end. The red cubes are all adjacent to one another; the green cubes are also all adjacent to one another. The tenth cube from the left is blue. What color is the cube in the sixth position from the left?
+> A) Definitely blue.
+> B) Definitely yellow.
+> C) Certainly red.
+> D) Certainly green.
+> E) Blue or red.
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q21|src_kangourou_2020_cadet_marzo__Q21]]
 
 
 
@@ -1083,13 +1215,22 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the major angles of the folded quadrilateral*
+*Measurement of the larger angles of the folded quadrilateral*
 
 ![[src_kangourou_2020_cadet_marzo__prob22.png]]
 
-> Alice took a square sheet of paper and folded it so as to bring two of its sides to lie on a diagonal, as shown in the figure. What is the size of each of the two major angles of the quadrilateral thus obtained? A) 112°30’ B) 120° C) 127°30’ D) 135° E) 150°
+> Alice took a square sheet of paper and folded it so that two of its sides lay along a diagonal, as shown in the figure. What is the measure of each of the two larger angles of the quadrilateral thus obtained?
+> A) 112°30’ 	
+> B) 120° 		
+> C) 127°30’	
+> D) 135°		
+> E) 150°
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q22|src_kangourou_2020_cadet_marzo__Q22]]
 
 
 
@@ -1124,19 +1265,25 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit numbers A with half/third/fifth divisible by 2/3/5*
+*How many 4-digit numbers ending in 2, 3, or 5 are divisible by 2, 3, or 5?*
 
-> How many positive integers A of four significant digits are such that half of the number A is divisible by 2, one third of the number A is divisible by 3 and one fifth of the number A is divisible by 5? A) 1
-> 	
-> B) 7
-> 	
-> C) 9
-> 	
-> D) 10
-> 	
+> How many positive integers A with four significant digits are there such that half of A is divisible by 2, one third of A is divisible by 3, and one fifth of A is divisible by 5?
+> A) 1	
+>
+> B) 7	
+>
+> C) 9	
+>
+> D) 10	
+>
 > E) 11
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q23|src_kangourou_2020_cadet_marzo__Q23]]
 
 
 
@@ -1175,21 +1322,27 @@ Maximum red faces of the 3x3 cube (cubes with two red faces)
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many points did Judge III give to Adam?
+*How many points did Judge III give to Adamo?*
 
 ![[src_kangourou_2020_cadet_marzo__prob24.png]]
 
-> At the end of a dance competition, each of the three judges gives each of the five contestants a score chosen between 0, 1, 2, 3, 4. No single judge has given the same score to two different competitors. The total scores obtained by the various competitors and some individual scores are known, as shown in the table. How many points did Judge III give to Adam? A) 0
-> 	
-> B) 1
-> 	
-> C) 2
-> 	
-> D) 3
-> 	
+> In the final of a dance competition, each of the three judges gives each of the five contestants a score chosen from 0, 1, 2, 3, 4. No single judge gave the same score to two different contestants. The total scores achieved by the various contestants and some individual scores are known, as shown in the table. How many points did Judge III give to Adamo?
+> A) 0	
+>
+> B) 1	
+>
+> C) 2	
+>
+> D) 3	
+>
 > E) 4
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q24|src_kangourou_2020_cadet_marzo__Q24]]
 
 
 
@@ -1225,19 +1378,25 @@ How many points did Judge III give to Adam?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers on the sides (products at sum of sums 15)*
+*Sum of the numbers on the sides (products at the vertices sum to 15)*
 
-> Samuel writes a positive integer on each side of a square and then on each vertex he writes the product of the numbers he wrote on the two sides that meet at that vertex. The sum of the numbers in the vertices is 15. What is the sum of the numbers written on the four sides of the square? A) 6
-> 	
-> B) 7
-> 	
-> C) 8
-> 	
-> D) 10
-> 	
+> Samuele writes a positive integer on each side of a square and then writes, at each vertex, the product of the numbers he has written on the two sides that meet at that vertex. The sum of the numbers at the vertices is 15. What is the sum of the numbers written on the four sides of the square?
+> A) 6	
+>
+> B) 7	
+>
+> C) 8	
+>
+> D) 10	
+>
 > E) 15
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q25|src_kangourou_2020_cadet_marzo__Q25]]
 
 
 
@@ -1290,36 +1449,25 @@ How many points did Judge III give to Adam?
 
 *How many squares of different sizes with 52 triangles*
 
-> Sofia has 52 identical isosceles right triangles. She wants to use some of them, or possibly all of them, to build a square, placing them next to each other without overlapping. How many squares of different sizes can she build?
+> Sofia has 52 identical isosceles right-angled triangles. She wants to use some of them, or possibly all of them, to construct a square by placing them side by side without overlapping them. How many squares of different sizes can she construct?
 > A) 5	
-	
+>
 > B) 6	
-	
+>
 > C) 7	
-	
+>
 > D) 8	
-	
+>
 > E) 9	
-> Adamo Berta
-> Emilio
-> I
-> 2
-> 0
-> II
-> 2
-> 0
-> III
-> 7
-> 5
-> 3
-> 4
-> 11
-> Davide
-> Sum
-> Clara
+> Adamo Berta Emilio I 2 0 II 2 0 III 7 5 3 4 11 Davide Somma Clara
 >
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q26|src_kangourou_2020_cadet_marzo__Q26]]
 
 
 
@@ -1358,21 +1506,27 @@ How many points did Judge III give to Adam?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many glue drops in the pyramid of 4x4 spheres*
+*How many drops of glue in the 4x4 pyramid of small spheres?*
 
 ![[src_kangourou_2020_cadet_marzo__prob27.png]]
 
-> Claudio builds a pyramid using the same metal spheres. The base square is formed by 4×4 spheres, as shown in the figure; the following planes are formed by 3×3 spheres, 2×2 spheres and finally by a sphere. The four squares (projected on the base plane) are concentric, and their sides are parallel. Claudio puts a drop of glue in each point of contact between two spheres. How many drops of glue does he use in total to build the pyramid? A) 72
-> 	
-> B) 85
-> 	
-> C) 88
-> 	
-> D) 92
-> 	
+> Claudio builds a pyramid using identical small metal spheres. The base square is made up of 4×4 small spheres, as shown in the figure; the subsequent layers consist of 3×3 small spheres, 2×2 small spheres, and finally a single small sphere. The four squares (projected onto the base plane) are concentric, and their sides are parallel. Claudio puts a drop of glue at each point where two small spheres touch. How many drops of glue in total does he use to build the pyramid?
+> A) 72	
+>
+> B) 85	
+>
+> C) 88	
+>
+> D) 92	
+>
 > E) 96
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q27|src_kangourou_2020_cadet_marzo__Q27]]
 
 
 
@@ -1409,19 +1563,25 @@ How many points did Judge III give to Adam?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum metres of the trainer (three children run 50m)*
+*Coach's minimum meters (three children cover 50 m)*
 
-> Four children are standing on the four corners of a 10 m × 25 m pool. Their coach's on one side of the pool. When he calls them, three of them come out and run toward him along the shortest possible path along the sides of the pool: they run 50 meters in all. How many metres at least must the trainer walk to reach the fourth child (always moving along the sides of the pool)? A) 10
-> 	
-> B) 12
-> 	
-> C) 15
-> 	
-> D) 20
-> 	
+> Four children are at the four corners of a pool measuring 10 m × 25 m. Their coach is on one side of the pool. When the coach calls them, three of the children get out and run toward the coach, following the shortest possible path along the sides of the pool; in total, they cover 50 m. What is the minimum number of meters the coach must travel to reach the fourth child (always moving along the sides of the pool)?
+> A) 10	
+>
+> B) 12	
+>
+> C) 15	
+>
+> D) 20	
+>
 > E) 25
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q28|src_kangourou_2020_cadet_marzo__Q28]]
 
 
 
@@ -1452,11 +1612,20 @@ How many points did Judge III give to Adam?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance of the race (distance between Alberto Bianca Carlo)*
+*Race distance (gaps between Alberto, Bianca, Carlo)*
 
-> Alberto, Bianca and Carlo are on a run. They start together and run at different but constant speeds. When Bianca finishes the race, Alberto must run another 15 m and Carlo another 35 m; when Alberto finishes the race, Carlo must still run 22 m. What distance are they running? A) 135 m B) 140 m C) 150 m D) 165 m E) 175 m
+> Alberto, Bianca, and Carlo are taking part in a race. They start together and run at speeds that are different from one another but constant. When Bianca finishes the race, Alberto still has 15 m to run and Carlo still has 35 m to run; when Alberto finishes the race, Carlo still has 22 m to run. What distance are they running?
+> A) 135 m	
+> B) 140 m	
+> C) 150 m	
+> D) 165 m	
+> E) 175 m
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q29|src_kangourou_2020_cadet_marzo__Q29]]
 
 
 
@@ -1497,18 +1666,24 @@ How many points did Judge III give to Adam?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of the 4-digit number (mastermind type indices)*
+*Digit of the units place in the 4-digit number (Mastermind-style clues)*
 
-> The following statements fully identify a four digit number: 4 1 3 2: only two digits are correct but both in the wrong place, 9 8 2 6: only one digit is correct and in the right place, 5 0 7 9: only two digits are correct, only one is in the right place, the other is in the wrong place, 7 6 4 2: none of the digits is correct. What is the units digit of the four-digit number in question? A) 0
-> 	
-> B) 1
-> 	
-> C) 3
-> 	
-> D) 5
-> 	
+> The following statements uniquely identify a four-digit number: 4 1 3 2: only two digits are correct, but both are in the wrong positions; 9 8 2 6: only one digit is correct and in the correct position; 5 0 7 9: only two digits are correct—only one is in the correct position, and the other is in the wrong position; 7 6 4 2: none of the digits are correct. What is the units digit of the four-digit number in question?
+> A) 0	
+>
+> B) 1	
+>
+> C) 3	
+>
+> D) 5	
+>
 > E) 9
-> 
-> Answer
+>
+> Responses
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_cadet_marzo#q30|src_kangourou_2020_cadet_marzo__Q30]]

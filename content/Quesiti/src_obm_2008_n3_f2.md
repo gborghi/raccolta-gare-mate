@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Isosceles trapezoide, diagonale di 100 m, angolo 30°, trovare S/sqrt(3)*
+*Trapezio isoscele, diagonale 100 m, angolo 30°, trovare S/√3*
 
-> Un trapezoide $ABCD$ di uguali braccia, con lati paralleli $AB$ e $CD$, è tale che la diagonale $BD$ misura $100\,\text{m}$ e l'angolo $\angle BDC$ misura $30^\circ$. $S$ sia la superficie del trapezoide in $\text{m}^2$. Determinare $S/\sqrt{3}$.
+> Un trapezio isoscele $ABCD$, con lati paralleli $AB$ e $CD$, è tale che la diagonale $BD$ misura $100\,\text{m}$ e l'angolo $\angle BDC$ misura $30^\circ$. Sia $S$ l'area del trapezio in $\text{m}^2$. Determinare $S/\sqrt{3}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n3_f2#q01|src_obm_2008_n3_f2__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa calcolata del pavimento(sqrt(k)) per k=1 fino al 2008*
+*Calcola la somma di floor(sqrt(k)) per k da 1 a 2008*
 
-> Se $x$ è un numero reale, indichiamo con $\lfloor x \rfloor$ il numero intero più grande inferiore o uguale a $x$. Per esempio, $\lfloor 2 \rfloor = 2$, $\lfloor \pi \rfloor = 3$ e $\lfloor -2.1 \rfloor = -3$. Calcolare il valore della somma $$\left\lfloor \sqrt{1} \right\rfloor + \left\lfloor \sqrt{2} \right\rfloor + \left\lfloor \sqrt{3} \right\rfloor + \cdots + \left\lfloor \sqrt{2008} \right\rfloor.$$
+> Se $x$ è un numero reale, con $\lfloor x \rfloor$ indichiamo il più grande intero minore o uguale a $x$. Ad esempio, $\lfloor 2 \rfloor = 2$, $\lfloor \pi \rfloor = 3$ e $\lfloor -2.1 \rfloor = -3$. Calcola il valore della somma
+> $$\left\lfloor \sqrt{1} \right\rfloor + \left\lfloor \sqrt{2} \right\rfloor + \left\lfloor \sqrt{3} \right\rfloor + \cdots + \left\lfloor \sqrt{2008} \right\rfloor.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n3_f2#q02|src_obm_2008_n3_f2__Q02]]
 
 
 
@@ -80,9 +95,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di tutti i numeri autoreplici a 4 cifre (ultimi cifre di n2 uguali a n)*
+*Somma di tutti i numeri autoreplicanti di 4 cifre (le ultime cifre di n² sono uguali a n)*
 
-> Un intero positivo $n$ è chiamato *auto-replicante * se le ultime cifre di $n^2$ formano il numero $n$ stesso. Ad esempio, $25$ si riproduce automaticamente da $25^2 = 625$. Determinare la somma di tutti i numeri di replicazione automatica $n$ con numeri $4$ esatti (cioè tutti i numeri di replicazione automatica $n$ che soddisfano $1000 \le n \le 9999$).
+> Un numero intero positivo $n$ è detto *autoriproduttivo* se le cifre finali di $n^2$ formano il numero $n$ stesso. Ad esempio, $25$ è autoriproduttivo poiché $25^2 = 625$. Determinare la somma di tutti i numeri autoriproduttivi $n$ con esattamente $4$ cifre (ossia tutti i numeri autoriproduttivi $n$ che soddisfano $1000 \le n \le 9999$).
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n3_f2#q03|src_obm_2008_n3_f2__Q03]]
 
 
 
@@ -105,9 +127,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi permutazioni di 1,9, in cui tutti gli elementi tra i e i+1 sono inferiori a i*
+*Conta le permutazioni di 1..9 in cui tutti gli elementi compresi tra i e i+1 sono minori di i*
 
-> Quante permutazioni di $1, 2, 3, \ldots, 9$ hanno la proprietà che, per ogni $1 \le i < 9$, tutti i numeri apparsi tra $i$ e $i+1$ nella permutazione (dove $i$ può apparire prima o dopo $i+1$) sono tutti inferiori a $i$? Ad esempio, $976412358$ è una permutazione con questa proprietà.
+> Quante permutazioni di $1, 2, 3, \ldots, 9$ hanno la proprietà che, per ogni $1 \le i < 9$, tutti i numeri che compaiono tra $i$ e $i+1$ nella permutazione (dove $i$ può comparire sia prima sia dopo $i+1$) siano tutti minori di $i$? Ad esempio, $976412358$ è una permutazione con questa proprietà.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n3_f2#q04|src_obm_2008_n3_f2__Q04]]
 
 
 
@@ -135,11 +164,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prodotto di coefficienti non zero del polinomio minimo di un'espressione di radice cubica incastonata*
+*Prodotto dei coefficienti non nulli del polinomio minimo di un'espressione con radice cubica annidata*
 
-> Supponiamo che $\alpha \in \mathbb{R}$ sia una radice di qualche polinomio non zero con coefficienti razionali. Il *minimo polinomio* di $\alpha$ è il polinomio monico $m(x)$ di minore grado in modo che: - $m(\alpha) = 0$, - $m(x)$ sia monico (coefficiente di punta uguale a $1$) e tutti i suoi coefficienti siano razionali.
-> 
-> Ad esempio, il polinomio minimo di $\sqrt{2}$ è $x^2 - 2$. Determinare il prodotto dei coefficienti non zero del polinomio minimo di $$\sqrt[3]{-27 + 5\sqrt{33}} - \sqrt[3]{27 + 5\sqrt{33}}.$$
+> Supponiamo che $\alpha \in \mathbb{R}$ sia una radice di un polinomio non nullo a coefficienti razionali. Il *polinomio minimo* di $\alpha$ è il polinomio monico $m(x)$ di grado minimo tale che:
+> - $m(\alpha) = 0$,
+> - $m(x)$ è monico (il coefficiente principale è uguale a $1$) e tutti i suoi coefficienti sono razionali.
+>
+> Ad esempio, il polinomio minimo di $\sqrt{2}$ è $x^2 - 2$. Determinare il prodotto dei coefficienti non nulli del polinomio minimo di
+> $$\sqrt[3]{-27 + 5\sqrt{33}} - \sqrt[3]{27 + 5\sqrt{33}}.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_n3_f2#q05|src_obm_2008_n3_f2__Q05]]
 
 
 
@@ -163,9 +202,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi m, n con m2+161=3^n*
+*Trovare tutti i numeri interi positivi m, n tali che m²+161=3^n*
 
-> Determinare tutti gli integri positivi $m$ e $n$ in modo tale che $$m^2 + 161 = 3^n.$$
+> Determinare tutti gli interi positivi $m$ e $n$ tali che
+> $$m^2 + 161 = 3^n.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n3_f2#q06|src_obm_2008_n3_f2__Q06]]
 
 
 
@@ -190,7 +237,14 @@ level: OBM Nível 3
 
 *Conta le funzioni idempotenti f:{1,2,3,4,5}→{1,2,3,4,5}*
 
-> Determinare il numero di funzioni $f : \{1,2,3,4,5\} \to \{1,2,3,4,5\}$ in modo tale che $f(f(x)) = f(x)$ per tutte le $x \in \{1,2,3,4,5\}$.
+> Determinare il numero di funzioni $f : \{1,2,3,4,5\} \to \{1,2,3,4,5\}$ tali che $f(f(x)) = f(x)$ per ogni $x \in \{1,2,3,4,5\}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_n3_f2#q07|src_obm_2008_n3_f2__Q07]]
 
 
 
@@ -214,9 +268,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trapezoide inciso in un cerchio di raggio 25, diametro CD, altezza 24, calcolo AF·BG/FG*
+*Trapezio inscritto in una circonferenza di raggio 25, CD diametro, altezza 24, calcolare AF·BG/FG*
 
-> Un trapezoide $ABCD$, con lati paralleli $AB \parallel CD$, è inserito in un cerchio di raggio $25$. È noto che $CD$ è diametro e che l'altezza del trapezoide è $24$. Il $E$ deve essere il punto sull'arco $AB$ (sulla minor arc determinata da $A$ e $B$) con la più piccola distanza da $AB$ determinata da $A$ e $B$. $F$ e $G$ siano rispettivamente i punti di intersezione delle linee $ED$ e $EC$ con $AB$. Calcolo $$\frac{AF \cdot BG}{FG}.$$
+> Un trapezio $ABCD$, con lati paralleli $AB \parallel CD$, è inscritto in una circonferenza di raggio $25$. Si sa che $CD$ è un diametro e che l'altezza del trapezio è $24$. Sia $E$ il punto sull'arco $AB$ (sull'arco minore determinato da $A$ e $B$) che ha la distanza minima da $AB$, come determinato da $A$ e $B$. Siano $F$ e $G$ i punti di intersezione rispettivamente delle rette $ED$ e $EC$ con $AB$. Calcola
+> $$\frac{AF \cdot BG}{FG}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n3_f2#q08|src_obm_2008_n3_f2__Q08]]
 
 
 
@@ -239,6 +301,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare il prodotto delle voci 2008 del 2008× 2008 matrice (i+j), una per riga e colonna*
+*Minimizza il prodotto di 2008 termini di una matrice 2008×2008 con elemento (i+j), uno per riga e per colonna*
 
-> In una matrice $2008 \times 2008$, l'elemento nella riga $i$ e nella colonna $j$ è il numero $i + j$ (le righe e le colonne sono numerate da $1$ a $2008$). Scegliamo gli elementi $2008$ di questa matrice in modo che non ci siano due elementi scelti nella stessa riga o nella stessa colonna. Gli elementi scelti vengono poi moltiplicati insieme. Qual è il prodotto più piccolo possibile che si possa ottenere in questo modo?
+> In una matrice $2008 \times 2008$, l'elemento nella riga $i$ e nella colonna $j$ è il numero $i + j$ (le righe e le colonne sono numerate da $1$ a $2008$). Scegliamo $2008$ elementi da questa matrice in modo che nessun due elementi scelti si trovino nella stessa riga o nella stessa colonna. Gli elementi scelti vengono poi moltiplicati tra loro. Qual è il prodotto minimo possibile che si può ottenere in questo modo?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_n3_f2#q09|src_obm_2008_n3_f2__Q09]]

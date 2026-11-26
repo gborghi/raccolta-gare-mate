@@ -31,9 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La k più piccola per l' m, n) + h(m, n) = p^k su p prime > 3*
+*Il minimo valore possibile di $k$, al variare del primo $p > 3$*
 
-> Per due numeri interi positivi $m$ e $n$, definiamo $l(m,n)$ come il loro più piccolo comune multiplo e $h(m,n)$ come il loro più alto fattore comune. Dato un primo $p > 3$, $k$ indichi il numero di coppie ordinate di integri positivi $(m,n)$ che soddisfano l'equazione $$l(m,n) + h(m,n) = p^k.$$ Determinare il minimo valore possibile di $k$ su tutte le scelte del primo $p > 3$.
+> Per due interi positivi qualunque $m$ e $n$, definiamo $l(m,n)$ come il loro minimo comune multiplo e $h(m,n)$ come il loro massimo comun divisore. Dato un primo $p > 3$, sia $k$ il numero di coppie ordinate di interi positivi $(m,n)$ che soddisfano l'equazione
+> $$l(m,n) + h(m,n) = p^k.$$
+> Determinare il minimo valore possibile di $k$ al variare del primo $p > 3$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2026#q01|src_bmo2_2026__Q01]]
 
 
 
@@ -58,11 +67,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale convex: AC=BD se XY divide angolo DXC*
+*$AC = BD$ se e solo se $XY$ biseca $\angle DXC$*
 
-> Il quadrilaterale converso $ABCD$ ha lati $AD$ e $BC$ non paralleli. Le diagonali $AC$ e $BD$ si intersecano a $X$. I bisettori perpendicolari dei lati $AD$ e $BC$ si incontrano a $Y$. Supponiamo che $Y$ sia rigorosamente all'interno del triangolo $XCD$.
-> 
-> Provare che $AC = BD$ se e solo se $XY$ divide $\angle DXC$.
+> Il quadrilatero convesso $ABCD$ ha i lati $AD$ e $BC$ non paralleli. Le diagonali $AC$ e $BD$ si intersecano in $X$. Gli assi dei lati $AD$ e $BC$ si incontrano in $Y$. Si supponga che $Y$ stia strettamente all'interno del triangolo $XCD$.
+>
+> Dimostrare che $AC = BD$ se e solo se $XY$ biseca $\angle DXC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2026#q02|src_bmo2_2026__Q02]]
 
 
 
@@ -87,11 +103,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*30x30 griglia con voci -1,0,1 che appaiono ciascuno 300 volte; somma di righe/colonne diversa?*
+*Le $60$ somme di riga e di colonna possono essere tutte diverse?*
 
-> Ogni cella di una griglia $30 \times 30$ contiene uno dei numeri $-1$, $0$ o $1$ con ciascuno di questi tre numeri che appare esattamente $300$ volte.
-> 
-> È possibile che le somme delle righe e delle colonne $60$ siano tutte diverse?
+> Ogni cella di una griglia $30 \times 30$ contiene uno dei numeri $-1$, $0$ o $1$, e ciascuno di questi tre numeri compare esattamente $300$ volte.
+>
+> È possibile che le $60$ somme di riga e di colonna siano tutte diverse?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2026#q03|src_bmo2_2026__Q03]]
 
 
 
@@ -118,8 +141,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Sequenza infinita dall'inizio finito: finitamente molti termini positivi o finitamente molti termini negativi
+*Nella successione infinita ci sono o finiti termini strettamente positivi o finiti termini strettamente negativi*
 
-> Che $N$ sia un intero positivo e che $(s_k)_{k \ge 1}$ sia una sequenza di interi positivi con tutti i termini al massimo $N$. Annabel inizia scegliendo i numeri interi $x_1, x_2, \ldots, x_N$. Poi lo estende a una sequenza infinita $(x_n)_{n \ge 1}$ di numeri interi definendo $$x_n = \sum_{i=1}^{n-1} s_i x_i$$ per ogni $n > N$.
-> 
-> Mostrare che ci sono finitamente molti termini strettamente positivi o finitamente molti termini strettamente negativi nella sequenza infinita $(x_n)$.
+> Sia $N$ un intero positivo e sia $(s_k)_{k \ge 1}$ una successione di interi positivi con tutti i termini al più $N$. Annabel comincia scegliendo gli interi $x_1, x_2, \ldots, x_N$. Estende poi questa a una successione infinita $(x_n)_{n \ge 1}$ di interi definendo
+> $$x_n = \sum_{i=1}^{n-1} s_i x_i$$
+> per ogni $n > N$.
+>
+> Dimostrare che nella successione infinita $(x_n)$ ci sono o un numero finito di termini strettamente positivi o un numero finito di termini strettamente negativi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2026#q04|src_bmo2_2026__Q04]]

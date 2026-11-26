@@ -35,17 +35,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits has the number 2^3·5^4·10^5*
+*Number of digits of 2^3·5^4·10^5*
 
-> How many digits does the number 23 54 105 have?
+> How many digits does the number 23 · 54 · 105 have?
 >
-> - **(A)** You know,
+> - **(A)** six,
 > - **(B)** seven,
 > - **(C)** eight,
 > - **(D)** nine,
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2005_biennio#q01|src_archimede_2005_biennio__Q01]]
 
 
 
@@ -75,17 +78,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Simplify the root of 12 high 12*
+*Simplification of the root of 12 raised to the 12th*
 
-> √ 1212 is equal to:
+> √
+> 1212 is equal to:
 >
 > - **(A)** 66,
 > - **(B)** 122 √ 3,
 > - **(C)** 212 36,
 > - **(D)** 612,
-> - **(E)** None of the previous numbers.
+> - **(E)** none of the previous numbers.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2005_biennio#q02|src_archimede_2005_biennio__Q02]]
 
 
 
@@ -117,9 +124,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum value of a(b+c) -b(a+c) with integers of 1.10*
+*Maximum value of a(b+c)-b(a+c) with integers 1..10*
 
-> What is the maximum value that the number a(b + c) −b(a + c) can assume when a, b and c are distinct integers greater than or equal to 1 and less than or equal to 10?
+> What is the maximum value that the number a(b + c) −b(a + c) can take when a,
+> b and c are distinct integers, greater than or equal to 1 and less than or equal to
+> 10?
 >
 > - **(A)** 80,
 > - **(B)** 81,
@@ -127,7 +136,10 @@ level: biennio
 > - **(D)** 90,
 > - **(E)** 100.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_estremalita|Extremal principle]]
+[[Quesiti/src_archimede_2005_biennio#q03|src_archimede_2005_biennio__Q03]]
 
 
 
@@ -160,9 +172,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Distribution of 120 cherries in proportion to age
+*Distribution of 120 cherries proportional to age*
 
-> Grandma Lucia brought a basket of 120 cherries to her three grandchildren, 4-year-old Jacopo, 7-year-old Martino and 9-year-old Duccio. The grandmother distributes all the cherries to the grandchildren according to this criterion: she gives each grandchild a number of cherries obtained by multiplying the age of the grandchild by a certain factor, and this factor is the same for all three grandchildren. How many cherries are given to Jacopo?
+> Grandmother Lucia brought a basket with 120 cherries to her three grandchildren, Jacopo aged 4, Martino aged 7 and Duccio aged 9. The grandmother distributes all the cherries to the grandchildren according to this criterion: she gives each grandchild a number of cherries obtained by multiplying the grandchild's age by a certain factor, and this factor is the same for all three grandchildren. How many cherries are given to Jacopo?
 >
 > - **(A)** 20,
 > - **(B)** 21,
@@ -170,7 +182,10 @@ Distribution of 120 cherries in proportion to age
 > - **(D)** 23,
 > - **(E)** 24.
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2005_biennio#q04|src_archimede_2005_biennio__Q04]]
 
 
 
@@ -204,9 +219,9 @@ Distribution of 120 cherries in proportion to age
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum distance between cabins in a circular crown*
+*Maximum distance between huts in a circular annulus*
 
-> An atoll is shaped like a circular crown bounded by two concentric circles of 1 km and 6 km radius respectively. John and Mark are the only inhabitants of the atoll; after a storm destroyed their huts, they decide to rebuild them as far as possible from each other, but so that there is a straight path that connects them and that lies entirely on the atoll. How far apart will the huts of John and Mark be? (Suppose the two circumferences which delimit the atoll are part of it.)
+> An atoll has the shape of a circular annulus bounded by two concentric circles of radii 1 km and 6 km respectively. Giovanni and Marco are the only inhabitants of the atoll; after a storm that destroyed their huts, they decide to rebuild them as far apart as possible, in such a way that there exists a straight-line path joining them that lies entirely on the atoll. How far apart will Giovanni's and Marco's huts be? (Assume that the two circles bounding the atoll are part of it).
 >
 > - **(A)** √ 35 2 km,
 > - **(B)** √ 37 2 km,
@@ -214,7 +229,11 @@ Distribution of 120 cherries in proportion to age
 > - **(D)** 2 √ 35 km,
 > - **(E)** 2 √ 37 km.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2005_biennio#q05|src_archimede_2005_biennio__Q05]]
 
 
 
@@ -248,17 +267,21 @@ Distribution of 120 cherries in proportion to age
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Statements on doors on the walls of a room*
+*Statements about doors in the walls of a room*
 
-> A rectangular room has the walls facing in the directions of the four cardinal points and there are four entrances. Three people are in the room and make the following statements. First person: There are no doors on the south wall. Second person: There are only doors on the north wall. Third person: On each wall there is at most one door. What can be said with certainty about the statements made?
+> A rectangular room has walls facing the four cardinal directions, and there are four entrance doors. Three people are in the room and make the following statements. First person: "There are no doors on the South wall." Second person: "There are doors only on the North wall." Third person: "There is at most one door on each wall." What can be said for certain about the statements made?
 >
-> - **(A)** The first person's statement is true.
+> - **(A)** the statement made by the first person is true,
 > - **(B)** the statement made by the second person is true,
-> - **(C)** the third person's statement is true,
-> - **(D)** At least one statement is false,
-> - **(E)** There is nothing to be said for certain about the claims made.
+> - **(C)** the statement made by the third person is true,
+> - **(D)** at least one statement is false,
+> - **(E)** nothing certain can be said about the statements made.
 
-**Answer:** D
+
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_lettura_attenta|Careful reading]], [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2005_biennio#q06|src_archimede_2005_biennio__Q06]]
 
 
 
@@ -294,17 +317,21 @@ Distribution of 120 cherries in proportion to age
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ternes (v,n,p) with v=n+p in a sample*
+*Number of triples (v, n, p) with v = n + p in a championship*
 
-> At the end of a 20-team football championship (in which each team plays every other team exactly two games) the Mathematicians won 19 games, drew 12 and lost 7. The coach notes that you have 19=12+7. For a general championship team we indicate with (v, n, p) the number of wins, draws and losses, respectively, obtained in the championship. How many distinct times can it happen that v = n + p? (Note: the terns are ordered, so, for example, (19, 12, 7) and (19, 7, 12) are to be considered distinct).
+> At the end of a football championship with 20 teams (in which each team plays every other team exactly two matches), the Mathematicians have won 19 matches, drawn 12 and lost 7. The coach observes that 19=12+7. For an arbitrary team in the championship, let (v, n, p) denote the triple formed by the number of wins, draws and losses, respectively, obtained in the championship. For how many distinct triples can it happen that v = n + p? (Note: the triples are ordered, so, for example, (19, 12, 7) and (19, 7, 12) are to be regarded as distinct).
 >
 > - **(A)** 19,
 > - **(B)** 20,
 > - **(C)** 38,
 > - **(D)** 40,
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2005_biennio#q07|src_archimede_2005_biennio__Q07]]
 
 
 
@@ -357,38 +384,23 @@ Distribution of 120 cherries in proportion to age
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of a similar triangle within a rectangle*
+*Area of a triangle cut by a line parallel to the hypotenuse*
 
 ![[src_archimede_2005_biennio__prob8.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (4,0);
-  \coordinate (C) at (0,5);
-  \coordinate (Bp) at (2.4,0);
-  \coordinate (Cp) at (0,3);
-  \draw (A) -- (B) -- (C) -- cycle;
-  \draw (Bp) -- (Cp);
-  \node[below left] at (A) {$A$};
-  \node[below] at (B) {$B$};
-  \node[left] at (C) {$C$};
-  \node[below] at (Bp) {$B'$};
-  \node[left] at (Cp) {$C'$};
-\end{tikzpicture}
-\end{document}
-```
-
-> The triangle ABC is rectangular and the cathetes AB and AC measure 3 m and 4 m respectively. They are B′ and C′ points belonging to the sides AB and AC respectively, such that the straight containing the segment B′C′ is parallel to that containing the segment BC and 1 m away from it (see figure). Calculate the area of the triangle AB′C′.
+> Triangle ABC is right-angled, and the legs AB and AC measure 3 m and 4 m respectively. Let B′ and C′ be points on the sides AB and AC respectively such that the line containing the segment B′C′ is parallel to the line containing the segment BC and 1 m away from it (see the figure). Find the area of triangle AB′C′.
 >
 > - **(A)** 49 24 m2,
 > - **(B)** 2 m2,
 > - **(C)** 65 24 m2,
 > - **(D)** 7 2 m2,
-> - **(E)** None of the previous ones. A B’ B C’ C
+> - **(E)** none of the above. A B’ B C’ C
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2005_biennio#q08|src_archimede_2005_biennio__Q08]]
 
 
 
@@ -418,9 +430,10 @@ Distribution of 120 cherries in proportion to age
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total number of units in the unit of measurement.
+*Divisibility of (n+2)(n+3)(2n+5)*
 
-> However, if we take a natural number n, the number (n + 2)(n + 3)(2n + 5) is divisible by:
+> Whatever natural number n is taken, the number (n + 2)(n + 3)(2n + 5) is
+> divisible by:
 >
 > - **(A)** 4,
 > - **(B)** 6,
@@ -428,7 +441,10 @@ This is the total number of units in the unit of measurement.
 > - **(D)** 10,
 > - **(E)** 15.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2005_biennio#q09|src_archimede_2005_biennio__Q09]]
 
 
 
@@ -459,17 +475,20 @@ This is the total number of units in the unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of integers with a product equal to the sum*
+*Pairs of integers whose product equals their sum*
 
-> For how many pairs (a, b) of integers does their product happen to be equal to their sum?
+> For how many ordered pairs (a, b) of integers is their product equal to their sum?
 >
-> - **(A)** None of them.
-> - **(B)** One of them.
+> - **(A)** none,
+> - **(B)** one,
 > - **(C)** two,
 > - **(D)** four,
-> - **(E)** More than four.
+> - **(E)** more than four.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2005_biennio#q10|src_archimede_2005_biennio__Q10]]
 
 
 
@@ -503,9 +522,9 @@ This is the total number of units in the unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Term of digits with a sum of 10 for a lock*
+*Triples of digits with sum 10 for a combination lock*
 
-> Fabio finds an old combination lock; to open the lock you must align in the right order three digits, each of which can range from 0 to 9. Fabio doesn't remember the right combination, but he's sure the sum of the three digits is 10. How many attempts will you have to make, at most, to find the right combination?
+> Fabio finds an old combination lock; to open the lock he must align in the correct order three digits, each of which can vary from 0 to 9. Fabio does not remember the correct combination, but he is sure that the sum of the three digits is 10. At most how many attempts will he have to make to find the correct combination?
 >
 > - **(A)** 61,
 > - **(B)** 63,
@@ -513,7 +532,11 @@ This is the total number of units in the unit of measurement.
 > - **(D)** 67,
 > - **(E)** 69.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2005_biennio#q11|src_archimede_2005_biennio__Q11]]
 
 
 
@@ -544,17 +567,20 @@ This is the total number of units in the unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle with competing axes and axes*
+*Triangle with perpendicular bisectors and an angle bisector concurrent*
 
-> In a triangle, for each pair of consecutive sides, the two axes of the sides and the hinge of the angle formed by the two sides meet at the same point. We can say that:
+> In a triangle, for every pair of consecutive sides, the two perpendicular bisectors of the sides and the bisector of the angle formed by the two sides meet at the same point. We can state that:
 >
-> - **(A)** There is no triangle with this property.
-> - **(B)** The triangle is equilateral.
-> - **(C)** the triangle has an angle of 30°,
-> - **(D)** The triangle is rectangle.
-> - **(E)** the triangle has an angle of 45°.
+> - **(A)** a triangle with this property does not exist,
+> - **(B)** the triangle is equilateral,
+> - **(C)** the triangle has a 30° angle,
+> - **(D)** the triangle is right-angled,
+> - **(E)** the triangle has a 45° angle.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2005_biennio#q12|src_archimede_2005_biennio__Q12]]
 
 
 
@@ -587,7 +613,7 @@ This is the total number of units in the unit of measurement.
 
 *Numbers equal to the square of the number of divisors*
 
-> How many integers are greater than or equal to 1 and less than or equal to 100 that are equal to the square of the number of their positive divisors? (Note: among the divisors of a number there are also 1 and the number itself).
+> How many integers greater than or equal to 1 and less than or equal to 100 are equal to the square of the number of their positive divisors? (Note: among the divisors of a number there are also 1 and the number itself.)
 >
 > - **(A)** 0,
 > - **(B)** 1,
@@ -595,7 +621,9 @@ This is the total number of units in the unit of measurement.
 > - **(D)** 3,
 > - **(E)** 4.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+[[Quesiti/src_archimede_2005_biennio#q13|src_archimede_2005_biennio__Q13]]
 
 
 
@@ -627,7 +655,7 @@ This is the total number of units in the unit of measurement.
 
 *Numbers n with product plus sum of digits equal to n*
 
-> For every integer n between 10 and 99, including extremes, the product of its digits and the sum of its digits are added, thus obtaining a new number S(n). For how many n happens that S(n) = n?
+> For every integer n between 10 and 99, inclusive, the product of its digits and the sum of its digits are added, obtaining a new number S(n). For how many n does S(n) = n?
 >
 > - **(A)** 8,
 > - **(B)** 9,
@@ -635,7 +663,9 @@ This is the total number of units in the unit of measurement.
 > - **(D)** 11,
 > - **(E)** 12.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_archimede_2005_biennio#q14|src_archimede_2005_biennio__Q14]]
 
 
 
@@ -667,9 +697,9 @@ This is the total number of units in the unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance between centers of two tangent circles*
+*Minimum distance between the centres of two tangent circles*
 
-> Two circles have a radius of 1 m and 3 m respectively. Knowing that there are two orthogonal lines between them, each tangent to both circles, what is the minimum possible value of the distance between the two centers?
+> Two circles have radii of 1 m and 3 m respectively. Knowing that there exist two perpendicular lines, each tangent to both circles, what is the minimum possible value of the distance between the two centres?
 >
 > - **(A)** √ 2 m,
 > - **(B)** 2 √ 2 m,
@@ -677,7 +707,11 @@ This is the total number of units in the unit of measurement.
 > - **(D)** 2 √ 5 m,
 > - **(E)** 4 √ 2 m.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2005_biennio#q15|src_archimede_2005_biennio__Q15]]
 
 
 
@@ -710,9 +744,9 @@ This is the total number of units in the unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits to write numbers from 1 to 2005*
+*How many digits are needed to write the numbers from 1 to 2005*
 
-> Andrea did not do the homework and as punishment the teacher assigned him the task of writing all the numbers between 1 and 2005, including extreme numbers (each number must be written only once). How many digits will Andrea have to write in the whole thing?
+> Andrea did not do his homework and, as punishment, the teacher assigns him the task of writing in his notebook all the numbers from 1 to 2005, inclusive (each number must be written only once). How many digits will Andrea have to write in total?
 >
 > - **(A)** 6900,
 > - **(B)** 6903,
@@ -720,7 +754,11 @@ This is the total number of units in the unit of measurement.
 > - **(D)** 6913,
 > - **(E)** 6923.
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2005_biennio#q16|src_archimede_2005_biennio__Q16]]
 
 
 
@@ -758,17 +796,19 @@ This is the total number of units in the unit of measurement.
 
 *Distance between points with arcs in a square*
 
-![[src_archimede_2005_biennio__prob17.png]]
-
-> In the square shown below, the four arcs of circumference were drawn, each centered on one of the vertices of the square and having a radius equal to the side of the square, measuring 10 m. What is the distance between points A and B?
+> In the square in the figure, four circular arcs have been drawn, each centered at one of the vertices of the square and with radius equal to the side of the square, which measures 10 m. What is the distance between the points A and B?
 >
 > - **(A)** 3( √ 6 −1) m,
 > - **(B)** 5 m,
 > - **(C)** 5( √ 6 − √ 2) m,
 > - **(D)** 8( √ 3 −1) m,
-> - **(E)** None of the previous ones. B A
+> - **(E)** none of the above. B A
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2005_biennio#q17|src_archimede_2005_biennio__Q17]]
 
 
 
@@ -800,9 +840,9 @@ This is the total number of units in the unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-English and German bilingual employees
+*Bilingual English and German employees*
 
-> In a large office there are 84 employees, each of whom speaks at least one language between English and German; in addition, 20% of those who speak English also speak German, and 80% of those who speak German also speak English. How many employees in that office know both languages?
+> In a large office there are 84 employees, each of whom knows at least one of English and German; moreover, 20% of those who speak English also speak German, and 80% of those who speak German also speak English. How many employees in that office know both languages?
 >
 > - **(A)** 12,
 > - **(B)** 14,
@@ -810,7 +850,10 @@ English and German bilingual employees
 > - **(D)** 16,
 > - **(E)** 18.
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
+[[Quesiti/src_archimede_2005_biennio#q18|src_archimede_2005_biennio__Q18]]
 
 
 
@@ -842,19 +885,20 @@ English and German bilingual employees
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the alpha angle in Figure*
+*Measure of the angle alpha in the figure*
 
-![[src_archimede_2005_biennio__prob19.png]]
-
-> In the figure next to this, how big is the angle α?
+> In the figure, what is the measure of the angle α?
 >
 > - **(A)** 70°,
 > - **(B)** 75°,
 > - **(C)** 80°,
 > - **(D)** 90°,
-> - **(E)** It cannot be determined by the data provided alone. 20° 60° 50° 10° α
+> - **(E)** it cannot be determined from the given data alone. 20° 60° 50° 10° α
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2005_biennio#q19|src_archimede_2005_biennio__Q19]]
 
 
 
@@ -882,7 +926,7 @@ English and German bilingual employees
 <div class="qlang-split" data-lang="en"></div>
 
 
-*chain of inequalities between powers 2 and 3*
+*Chain of inequalities between powers of 2 and 3*
 
 > In each of the following chains of inequalities the same five numbers appear; which of them is completely true?
 >
@@ -892,4 +936,6 @@ English and German bilingual employees
 > - **(D)** 322 < 232 < 323 < 233 < 332,
 > - **(E)** 322 < 232 < 323 < 332 < 233.
 
-**Answer:** E
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+[[Quesiti/src_archimede_2005_biennio#q20|src_archimede_2005_biennio__Q20]]

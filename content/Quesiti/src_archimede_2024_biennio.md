@@ -36,9 +36,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers from 1 to 1000 multiplied by 5, 6 and 9*
+*Numbers from 1 to 1000 that are multiples of 5, 6 and 9*
 
-> How many of the integers from 1 to 1000 are the ones that are multiples of both 5, 6 and 9 at the same time?
+> How many of the integers from 1 to 1000 are, at the same time, multiples of both 5, of 6 and of 9?
 >
 > - **(A)** 10
 > - **(B)** 9
@@ -46,7 +46,10 @@ level: biennio
 > - **(D)** 11
 > - **(E)** 16
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_biennio#q01|src_archimede_2024_biennio__Q01]]
 
 
 
@@ -77,9 +80,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers needed to write 100^200+738*
+*Digits needed to write 100^200+738*
 
-> Carlo, with great patience, is writing the number 100200 + 738 out. How many digits will he have to write in all?
+> Carlo, with great patience, is writing out in full the number
+> 100200 + 738.
+> How many digits will he have to write in total?
 >
 > - **(A)** 2000
 > - **(B)** 438
@@ -87,7 +92,10 @@ level: biennio
 > - **(D)** 238
 > - **(E)** 2038
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2024_biennio#q02|src_archimede_2024_biennio__Q02]]
 
 
 
@@ -120,9 +128,12 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum boxes for 3 three-coloured tickets*
+*Minimum envelopes to have 3 tickets of 3 colours*
 
-> Clear has many colored tickets, each contained in a pocket: 30 are red, 25 are green, 33 are yellow, 21 are blue. He picks up some pockets at random, without opening them (the colours of the tickets are not visible from the outside). How many do you have to take at least to make sure you find at least three tickets with three different colors?
+> Chiara has many coloured tickets, each contained inside an envelope: it is known that
+> 30 are red, 25 green, 33 yellow, 21 blue. She takes some envelopes at random, without
+> opening them (the colours of the tickets cannot be seen from the outside). How many must she take,
+> at minimum, to be certain of finding at least 3 tickets having 3 different colours?
 >
 > - **(A)** 56
 > - **(B)** 88
@@ -130,7 +141,11 @@ level: biennio
 > - **(D)** 47
 > - **(E)** 64
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2024_biennio#q03|src_archimede_2024_biennio__Q03]]
 
 
 
@@ -160,9 +175,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Container capacity by difference of 75% to 20%*
+*Capacity of the container from the difference between 75% and 20%*
 
-> When a liquid container is 75% full, it contains 44 litres more than when it is 20% full. How many litres is the total capacity of the container?
+> When a liquid container is 75% full, it contains 44 litres more than when it is 20% full. What is the total capacity of the container, in litres?
 >
 > - **(A)** 80
 > - **(B)** 75
@@ -170,7 +185,10 @@ level: biennio
 > - **(D)** 72
 > - **(E)** 90
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2024_biennio#q04|src_archimede_2024_biennio__Q04]]
 
 
 
@@ -202,9 +220,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*One-thousandth decimal place of 3/7*
+*The digit in the thousandth decimal place of 3/7*
 
-> Michela would like to write the fraction 37 in decimal form . What number will take the thousandth place after the comma?
+> Michela would like to write the fraction 3/7 as a decimal number.
+> Which digit will occupy the thousandth place after the decimal point?
 >
 > - **(A)** 4
 > - **(B)** 5
@@ -212,7 +231,11 @@ level: biennio
 > - **(D)** 7
 > - **(E)** 8
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2024_biennio#q05|src_archimede_2024_biennio__Q05]]
 
 
 
@@ -244,9 +267,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to choose two books of different genres*
+*Ways of choosing two books of different genres*
 
-> For Richard's birthday, his friends decided to give him two books of different genres. They're unsure about three books of poetry, five fantasy and six horror. How many ways can they choose their birthday present?
+> For Riccardo's birthday, his friends have decided to give him two books of different genres. They are undecided between 3 poetry books, 5 fantasy and 6 horror. In how many ways can they choose their birthday gift?
 >
 > - **(A)** 33
 > - **(B)** 45
@@ -254,7 +277,11 @@ level: biennio
 > - **(D)** 63
 > - **(E)** 48
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_biennio#q06|src_archimede_2024_biennio__Q06]]
 
 
 
@@ -286,7 +313,7 @@ level: biennio
 
 *30*
 
-> What convex angle do the two hands of a clock form at 12:30 (assuming they both move at a constant speed)?
+> What convex angle do the two hands of a clock form at 12:30 (assuming both move at constant speed)?
 >
 > - **(A)** 165°
 > - **(B)** 180°
@@ -294,7 +321,10 @@ level: biennio
 > - **(D)** 172°
 > - **(E)** 150°
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2024_biennio#q07|src_archimede_2024_biennio__Q07]]
 
 
 
@@ -332,11 +362,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max-min difference at the sum pyramid sum sum*
+*Difference between the largest and smallest numbers at the apex of a pyramid of sums*
 
-![[src_archimede_2024_biennio__prob8.png]]
-
-> Matthew drew a pyramid like the one right next to it. In the boxes below you will write four numbers chosen from 1, 2, 3, 4, 5 (four different numbers, in any order). Then fill in the other boxes by writing in each of them the sum of the two numbers below. What is the difference between the largest number and the smallest number that Matthew could write in the box at the top of the pyramid?
+> Matteo has drawn a pyramid like the one shown here.
+> In the bottom boxes he will write four numbers chosen from 1, 2, 3, 4, 5 (four different numbers, in any order). Then he will fill in the other boxes by writing in each of them the sum of the two numbers below it. What is the difference between the largest and the smallest number that Matteo could write in the box at the top of the pyramid?
 >
 > - **(A)** 13
 > - **(B)** 12
@@ -344,7 +373,11 @@ level: biennio
 > - **(D)** 20
 > - **(E)** 14
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2024_biennio#q08|src_archimede_2024_biennio__Q08]]
 
 
 
@@ -376,9 +409,12 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ROT angle with height and width in isosceles triangle*
+*Angle ROT with altitude and bisector in an isosceles triangle*
 
-> In the isosceles triangle RST, where RS = ST, the angle bS is 24°. The output height from R and the output beam from T intersect at point O. What is the width of the convex angle [ ROT ] ?
+> In the isosceles triangle RST, where RS = ST, the angle bS is 24°.
+> The altitude from R and the bisector from T intersect at point O.
+> What is the measure of the convex angle [
+> ROT ?
 >
 > - **(A)** 129°
 > - **(B)** 126°
@@ -386,7 +422,10 @@ level: biennio
 > - **(D)** 128°
 > - **(E)** 127°
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_biennio#q09|src_archimede_2024_biennio__Q09]]
 
 
 
@@ -418,9 +457,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five-digit pins with four identical and one different*
+*A 5-digit PIN with 4 identical digits and one different*
 
-> Silvia must reset her credit card pin, which consists of 5 digits (each of which can be any number from 0 to 9). To remember it easily, it will make sure that there are 4 digits that are equal to each other and a number that is different from the other 4. How many pins do you think meet these requirements?
+> Silvia must reset the PIN of her credit card, consisting of 5 digits (each of which can be any digit from 0 to 9). To remember it easily,
+> she will make sure that there are 4 digits equal to one another and one digit different from the other 4.
+> How many possible PINs satisfy these conditions?
 >
 > - **(A)** 90
 > - **(B)** 500
@@ -428,7 +469,11 @@ level: biennio
 > - **(D)** 45
 > - **(E)** 400
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_biennio#q10|src_archimede_2024_biennio__Q10]]
 
 
 
@@ -469,11 +514,18 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle perimeter of two heights and one side*
+*Triangle perimeter from two altitudes and one side*
 
-![[src_archimede_2024_biennio__prob11.png]]
-
-> In the acute triangle ABC, the heights AA′ and BB′ measure, in the order, 20 and 24 meters. The BC side is 30 meters. How many meters does the perimeter of the ABC triangle measure? B C A A′ B′
+> In the acute triangle ABC,
+> the altitudes AA′ and BB′
+> measure, in order, 20 and 24 metres.
+> The side BC is 30
+> metres. How many metres is the perimeter of triangle ABC?
+> B
+> C
+> A
+> A′
+> B′
 >
 > - **(A)** 85
 > - **(B)** 75
@@ -481,7 +533,11 @@ level: biennio
 > - **(D)** 80
 > - **(E)** 84
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_biennio#q11|src_archimede_2024_biennio__Q11]]
 
 
 
@@ -512,9 +568,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of 5 dice with first product*
+*Maximum sum of 5 dice with prime product*
 
-> Lucia throws five 12-sided dice, each numbered from 1 to 12, then multiplies the five numbers. Note that the product obtained is a prime number. What could be the sum of the five numbers that came out?
+> Lucia rolls 5 12-sided dice, each numbered from 1 to 12, then multiplies
+> the 5 numbers that came up. She notices that the product obtained is a prime number.
+> What could be, at most, the sum of the 5 numbers that came up?
 >
 > - **(A)** 13
 > - **(B)** 5
@@ -522,7 +580,10 @@ level: biennio
 > - **(D)** 12
 > - **(E)** 15
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2024_biennio#q12|src_archimede_2024_biennio__Q12]]
 
 
 
@@ -556,9 +617,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible opponent score in the double play*
+*Possible score of the opponent in the doubling game*
 
-> Alberto and Barbara make an iron-armed race this way: at the beginning they both have 1 point; at each challenge, the winner earns as many points as the opponent has at the time, while the loser maintains the score they had. After a number of challenges, Alberto has 66 points. Which of the following could be Barbara's score?
+> Alberto and Barbara play a tug-of-war contest in this way: at the start they both have 1 point; at each challenge, the winner gains as many points as the opponent has at that moment, while the loser keeps the score they had.
+> After a certain number of challenges, Alberto has 66 points.
+> Which, among the following, could be Barbara's score?
 >
 > - **(A)** 75
 > - **(B)** 55
@@ -566,7 +629,11 @@ level: biennio
 > - **(D)** 44
 > - **(E)** 52
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2024_biennio#q13|src_archimede_2024_biennio__Q13]]
 
 
 
@@ -600,7 +667,7 @@ level: biennio
 
 *Islands with a single bridge (divisibility between 2 and 51)*
 
-> There are 50 islands in a large lake, numbered from 2 to 51. Two different islands are connected by a bridge if and only if one of the respective numbers divides the other. How many islands have one bridge?
+> In a large lake there are 50 islands, numbered from 2 to 51. Two different islands are connected by a bridge if and only if one of their respective numbers divides the other. How many islands have only one bridge?
 >
 > - **(A)** 4
 > - **(B)** 3
@@ -608,7 +675,11 @@ level: biennio
 > - **(D)** 2
 > - **(E)** 6
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2024_biennio#q14|src_archimede_2024_biennio__Q14]]
 
 
 
@@ -660,11 +731,29 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*TEF triangle area from rectangular triangle areas*
+*Area of triangle TEF from areas of triangles in a rectangle*
 
-![[src_archimede_2024_biennio__prob15.png]]
-
-> In the rectangle ABCD, the points E, F, G, H, I, L divide the sides into 2 or 3 equal parts, as shown in the figure. The areas of TAG, THI, TCL triangles (expressed in mm2) are those shown in the figure. How many mm2 is the area of the TEF triangle ? T A B C D E F G H I L 20 15 13 ?
+> In rectangle ABCD, the points E, F, G, H, I, L
+> divide the sides into 2 or 3 equal parts, as
+> shown in the figure.
+> The areas of triangles TAG, THI, TCL
+> (expressed in mm2) are those indicated in the figure.
+> What is the area of triangle TEF, in mm2?
+> T
+> A
+> B
+> C
+> D
+> E
+> F
+> G
+> H
+> I
+> L
+> 20
+> 15
+> 13
+> ?
 >
 > - **(A)** 7
 > - **(B)** 6
@@ -672,7 +761,11 @@ level: biennio
 > - **(D)** 8
 > - **(E)** 9
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_biennio#q15|src_archimede_2024_biennio__Q15]]
 
 
 
@@ -707,9 +800,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of returning to the summit after 3 km on the triangle*
+*Probability of returning to the vertex after 3 km on the triangle*
 
-> Luigi wants to take a walk along the edge of a triangular park, whose sides are all 1 km. Starting from a vertex V, with a coin toss you randomly choose which direction to go in and travel an entire side of the triangle. Every time he reaches a peak, he makes a new coin toss to choose the direction. If the walk is 3km, what is the probability that it will end at the very summit V from which it started?
+> Luigi wants to take a walk along the edge of a triangular park, whose sides are all 1 km. Starting from a vertex V, he randomly chooses which direction to go by flipping a coin and walks along a whole side of the triangle. Each time he reaches a vertex, he flips a new coin to choose the direction. If the walk is 3 km long, what is the probability that it ends exactly at the vertex V from which he started?
 >
 > - **(A)** 1/6
 > - **(B)** 1/8
@@ -717,4 +810,8 @@ level: biennio
 > - **(D)** 1/3
 > - **(E)** 1/4 211
 
-**Answer:** E
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_biennio#q16|src_archimede_2024_biennio__Q16]]

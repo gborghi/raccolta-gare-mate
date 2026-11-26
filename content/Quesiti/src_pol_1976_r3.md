@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Decidere se un prodotto di cinque seni dei moltipli di pi/18 è razionale.*
+*Decidi se un prodotto di cinque seni di multipli di pi/18 è razionale.*
 
 > Il numero $\sin\frac{\pi}{18}\sin\frac{3\pi}{18}\sin\frac{5\pi}{18}\sin\frac{7\pi}{18}\sin\frac{9\pi}{18}$ è razionale?
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1976_r3#q01|src_pol_1976_r3__Q01]]
 
 
 
@@ -57,9 +64,19 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro sequenze soddisfano ricorrenze accoppiate; data la periodicità per alcuni k, dimostrano che i secondi termini scompaiono.*
+*Quattro successioni soddisfano ricorrenze accoppiate; data la periodicità per un certo k, dimostrare che i secondi termini si annullano.*
 
-> Quattro sequenze di numeri reali $(a_n)$, $(b_n)$, $(c_n)$, $(d_n)$ soddisfano per tutti $n$, $$a_{n+1}=a_n+b_n,\quad b_{n+1}=b_n+c_n,$$ $$c_{n+1}=c_n+d_n,\quad d_{n+1}=d_n+a_n.$$ Prove che se $a_{k+m}=a_m$, $b_{k+m}=b_m$, $c_{k+m}=c_m$, $d_{k+m}=d_m$ per alcuni $k\ge 1$, $n\ge 1$, allora $a_2=b_2=c_2=d_2=0$.
+> Quattro successioni di numeri reali $(a_n)$, $(b_n)$, $(c_n)$, $(d_n)$ soddisfano, per ogni $n$,
+> $$a_{n+1}=a_n+b_n,\quad b_{n+1}=b_n+c_n,$$
+> $$c_{n+1}=c_n+d_n,\quad d_{n+1}=d_n+a_n.$$
+> Dimostrare che, se $a_{k+m}=a_m$, $b_{k+m}=b_m$, $c_{k+m}=c_m$, $d_{k+m}=d_m$ per alcuni $k\ge 1$, $n\ge 1$, allora $a_2=b_2=c_2=d_2=0$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1976_r3#q02|src_pol_1976_r3__Q02]]
 
 
 
@@ -82,9 +99,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per qualsiasi tetraedro, i tre prodotti di coppie di bordi opposti sono lati di un triangolo.*
+*Per qualsiasi tetraedro, i tre prodotti delle coppie di spigoli opposti sono i lati di un triangolo.*
 
-> Prova che per ogni tetraedro, i tre prodotti di coppie di bordi opposti sono lati di un triangolo.
+> Dimostrare che, per ogni tetraedro, i tre prodotti delle coppie di spigoli opposti sono i lati di un triangolo.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1976_r3#q03|src_pol_1976_r3__Q03]]
 
 
 
@@ -107,9 +131,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se le diagonali di un quadrilaterale con un dato lato sono perpendicolari, dimostrare che sono perpendicolari per qualsiasi altro quadrilaterale con gli stessi lati.*
+*Se le diagonali di un quadrilatero con lati dati sono perpendicolari, dimostrare che lo sono anche per qualsiasi altro quadrilatero con gli stessi lati.*
 
-> I diagonali di alcuni quadrilaterali con lati $a,b,c,d$ sono perpendicolari. Prova che anche le diagonali di qualsiasi altro quadrilaterale con lati $a,b,c,d$ sono perpendicolari.
+> Le diagonali di un certo quadrilatero con lati $a,b,c,d$ sono perpendicolari. Dimostrare che anche le diagonali di qualsiasi altro quadrilatero con lati $a,b,c,d$ sono perpendicolari.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1976_r3#q04|src_pol_1976_r3__Q04]]
 
 
 
@@ -132,9 +163,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Optimizzare il numero di lanci di rete che un pescatore di pesce fa illegalmente, data la probabilità per lancio di essere catturato e di perdere tutti i guadagni, per massimizzare il profitto atteso.*
+*Ottimizza il numero di lanci della rete effettuati da un peschereccio che pesca illegalmente, data la probabilità, per ogni lancio, di essere catturato e di perdere tutti i guadagni, al fine di massimizzare il profitto atteso.*
 
-> Un pescatore sta per pescare nelle acque territoriali di un paese vicino, per ciò che non ha una patente. Ogni volta che lancia la rete, la guardia costiera può fermarlo con la probabilità $1/k$, dove $k$ è un intero positivo fisso. Ogni lancio gli porta un pesce che sbarca con un peso fisso. Tuttavia, se la guardia costiera lo ferma, confisceranno tutto il suo sbarco di pesce e gli chiederanno di lasciare il paese. Il peschereccio di peschereccio prevede di lanciare la rete $n$ volte prima di tornare nelle acque territoriali del suo paese. Trova $n$ per il quale il profitto previsto è massimo.
+> Un peschereccio a strascico sta per pescare nelle acque territoriali di un paese vicino, senza averne la licenza. Ogni volta che getta la rete, la guardia costiera può fermarlo con probabilità $1/k$, dove $k$ è un intero positivo fisso. Ogni lancio gli frutta una cattura di pesce di peso fisso. Tuttavia, se la guardia costiera lo ferma, confischerà l'intera sua cattura e gli chiederà di lasciare il paese. Il peschereccio a strascico intende gettare la rete $n$ volte prima di tornare nelle acque territoriali del proprio paese. Determinare $n$ per cui il suo profitto atteso è massimo.
+
+**Topic:** [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1976_r3#q05|src_pol_1976_r3__Q05]]
 
 
 
@@ -159,6 +197,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una funzione in aumento da N a R che è additiva sui prodotti naturali deve essere un logaritmo.*
+*Una funzione crescente da N a R che è additiva sui prodotti di numeri naturali deve essere un logaritmo.*
 
-> Una funzione in aumento $f:\mathbb{N}\to\mathbb{R}$ soddisfa $$f(kl)=f(k)+f(l)\quad\text{for all }k,l\in\mathbb{N}.$$ Mostra che esiste un numero reale $p>1$ tale che $f(n)=\log_p n$ per tutti $n$.
+> Una funzione crescente $f:\mathbb{N}\to\mathbb{R}$ soddisfa
+> $$f(kl)=f(k)+f(l)\quad\text{for all }k,l\in\mathbb{N}.$$
+> Mostra che esiste un numero reale $p>1$ tale che $f(n)=\log_p n$ per ogni $n$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1976_r3#q06|src_pol_1976_r3__Q06]]

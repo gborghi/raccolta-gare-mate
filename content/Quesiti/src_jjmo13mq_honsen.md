@@ -29,9 +29,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale ciclico, linea perpendicolare che attraversa il circondocentro*
+*Quadrilatero ciclico, la retta perpendicolare passa per il circocentro*
 
-> Il $ABCD$ deve essere un quadrilaterale inciso in un cerchio. Il punto $P$ deve essere diverso da $A$ e $B$, in modo tale che $\angle PAC = \angle PBD = 90^\circ$. Prove che la linea perpendicolare a$CD$passa attraverso il centro circostante del triangolo $PAB$.
+> Sia $ABCD$ un quadrilatero inscritto in una circonferenza. Sia $P$ un punto, diverso da $A$ e da $B$, tale che $\angle PAC = \angle PBD = 90^\circ$. Dimostrare che la retta passante per $P$ e perpendicolare a $CD$ passa per il circocentro del triangolo $PAB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo13mq_honsen#q01|src_jjmo13mq_honsen__Q01]]
 
 
 
@@ -54,9 +61,17 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximo espressione razionale a due variabili*
+*Il massimo di (xy+x+y−1)² / ((x²+1)(y²+1)) sui reali*
 
-> Come $x,y$ intervallo su tutti i numeri reali, trovare il valore massimo di $$\frac{(xy+x+y-1)^2}{(x^2+1)(y^2+1)}.$$
+> Al variare di $x,y$ su tutti i numeri reali, trovare il valore massimo di
+> $$\frac{(xy+x+y-1)^2}{(x^2+1)(y^2+1)}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_jjmo13mq_honsen#q02|src_jjmo13mq_honsen__Q02]]
 
 
 
@@ -79,9 +94,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ante su n x n tabella che visitano ogni cella, cellule nere minime*
+*Formiche su una scacchiera n x n che visitano ogni casella, numero minimo di caselle nere*
 
-> $n,k$ siano integri positivi con $n \ge k$. C'è una griglia di cellule $n \times n$, e ogni cellula è colorata in bianco o nero. Ci sono formiche $k$. Ogni formica si trasferisce ripetutamente in una cella adiacente. Su una cellula bianca una formica può solo muoversi dritta in avanti, mentre su una cellula nera una formica può scegliere liberamente quale cellula adiacente spostarsi dopo. Supponiamo che colorando alcune cellule $m$ in nero e il resto in bianco, e scegliendo correttamente il posizionamento iniziale delle formiche e le loro direzioni iniziali di movimento, si possa organizzare che ogni cellula della griglia venga visitata da almeno una formica. Trovare il minimo valore possibile di $m$ per il quale tale disposizione è possibile.
+> Siano $n,k$ numeri interi positivi con $n \ge k$. Esiste una griglia di $n \times n$ celle, e ogni cella è colorata di bianco o di nero. Ci sono $k$ formiche. In modo ripetuto, ciascuna formica si sposta in una cella adiacente. Su una cella bianca, una formica può muoversi solo in linea retta in avanti, mentre su una cella nera una formica può scegliere liberamente in quale cella adiacente spostarsi successivamente. Supponiamo che, colorando di nero alcune $m$ celle e il resto di bianco, e scegliendo opportunamente la collocazione iniziale delle formiche e le loro direzioni iniziali di movimento, si possa organizzare la situazione in modo che ogni cella della griglia venga visitata da almeno una formica. Determinare il valore minimo possibile di $m$ per cui tale disposizione è possibile.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo13mq_honsen#q03|src_jjmo13mq_honsen__Q03]]
 
 
 
@@ -104,9 +126,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il cerchio di BPQ si trova su una linea fissa indipendente da l*
+*Il circocentro di BPQ giace su una retta fissa indipendente da l*
 
-> Nel piano ci sono un cerchio $C$ e due punti $A,B$, dove $A$ si trova all'interno del cerchio $C$ (non sulla circonferenza). Prendi una linea $l$ che passa attraverso $A$ ma non attraverso $B$, e lasci che $P,Q$ siano i due punti di intersezione di $l$ con il cerchio $C$. Lasciate che $O$ sia il centro circundante del triangolo $BPQ$. Dimostrare che esiste una riga $m$ tale che, indipendentemente dal modo in cui $l$ è scelto, $O$ si trova su $m$.
+> Nel piano vi sono una circonferenza $C$ e due punti $A,B$, dove $A$ giace all'interno della circonferenza $C$ (non sulla circonferenza). Si prenda una retta $l$ che passa per $A$ ma non per $B$, e si ponga $P,Q$ come i due punti di intersezione di $l$ con la circonferenza $C$. Si ponga $O$ come il circocentro del triangolo $BPQ$. Dimostrare che esiste una retta $m$ tale che, indipendentemente da come si scelga $l$, $O$ giace su $m$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo13mq_honsen#q04|src_jjmo13mq_honsen__Q04]]
 
 
 
@@ -129,6 +158,13 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2015 punti, bordi con angoli in coppia superiori a 90 gradi, bordi massimi*
+*2015 punti, spigoli con angoli a due a due superiori a 90 gradi, spigoli massimi*
 
-> Nel piano, prendere $2015$ punti distinti, e unire alcune coppie di loro per bordi. Supponiamo che due bordi distinte che condividono un punto di fine comune formino un angolo maggiore di $90^\circ$. Trova il massimo valore possibile del numero di bordi.
+> Nel piano, si prendano $2015$ punti distinti e si uniscano alcune coppie di essi con spigoli. Si supponga che due spigoli distinti qualsiasi aventi un estremo comune formino un angolo maggiore di $90^\circ$. Determinare il valore massimo possibile del numero di spigoli.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_jjmo13mq_honsen#q05|src_jjmo13mq_honsen__Q05]]

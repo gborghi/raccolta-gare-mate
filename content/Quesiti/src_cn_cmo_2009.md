@@ -33,11 +33,18 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto con punti medi, perpendicolari, conciclicità e uguale rapporto*
+*Triangolo acuto con punti medi, perpendicolari, conciclicità e uguaglianza dei rapporti*
 
-> In caso di triangolo acuto $PBC$, $PB \neq PC$. I punti $A$ e $D$ devono essere rispettivamente sui lati $PB$ e $PC$. $M$, $N$ siano rispettivamente i punti intermedi dei segmenti $BC$ e $AD$. Le linee $AC$ e $BD$ si incrociano al punto $O$. Disegnare $OE \perp AB$ al punto $E$ e $OF \perp CD$ al punto $F$. (1) Dimostra che se $A$, $B$, $C$, $D$ sono conciclici, allora $EM \times FN = EN \times FM$. (2) I quattro punti $A$, $B$, $C$, $D$ sono sempre conciclici se $EM \times FN = EN \times FM$? Prova la tua risposta.
+> Sia dato un triangolo acuto $PBC$, $PB \neq PC$. Siano i punti $A$, $D$ posti sui lati $PB$ e $PC$, rispettivamente. Siano $M$, $N$ i punti medi dei segmenti $BC$ e $AD$, rispettivamente. Le rette $AC$ e $BD$ si intersecano nel punto $O$. Si tracci $OE \perp AB$ nel punto $E$ e $OF \perp CD$ nel punto $F$. (1) Dimostrare che, se $A$, $B$, $C$, $D$ sono concyclici, allora $EM \times FN = EN \times FM$. (2) I quattro punti $A$, $B$, $C$, $D$ sono sempre concyclici se $EM \times FN = EN \times FM$? Dimostrare la risposta.
 
 ![[src_cn_cmo_2009__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2009#q01|src_cn_cmo_2009__Q01]]
 
 
 
@@ -60,9 +67,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie prime (p,q) con pq che divide 5^p + 5^q*
+*Trovare tutte le coppie di numeri primi (p,q) tali che pq divida 5^p + 5^q*
 
-> Trova tutte le coppie $(p, q)$ di numeri primi come $pq \mid 5^p + 5^q$. (Posato da Fu Yunhao)
+> Trovare tutte le coppie $(p, q)$ di numeri primi tali che $pq \mid 5^p + 5^q$. (Proposto da Fu Yunhao)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2009#q02|src_cn_cmo_2009__Q02]]
 
 
 
@@ -85,9 +99,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare m-gon convex con esattamente due angoli acuti in (2s+1)-gon regolare*
+*Conta i m-goni convessi con esattamente due angoli acuti in un (2s+1)-gono regolare*
 
-> Che $m$, $s$ siano integri con $4 < m < s$, e $A_0$, $A_1$, $A_2$, $\ldots$, $A_{2s}$ siano i vertici di un normale $(2s+1)$-gon. Inoltre, $P = \{A_1, A_2, \ldots, A_{2s}\}$. Trova il numero di convex $m$ con esattamente due angoli interni acuti le cui vertici sono tutte in $P$. (Posato da Leng Gangsong)
+> Siano $m$, $s$ numeri interi con $4 < m < s$, e siano $A_0$, $A_1$, $A_2$, $\ldots$, $A_{2s}$ i vertici di un $(2s+1)$-gono regolare. Inoltre, sia $P = \{A_1, A_2, \ldots, A_{2s}\}$. Determinare il numero di $m$-goni convessi con esattamente due angoli interni acuti, i cui vertici sono tutti in $P$. (Proposto da Leng Gangsong)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2009#q03|src_cn_cmo_2009__Q03]]
 
 
 
@@ -110,9 +131,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare la somma dei cubi di numeri reali con distanza in coppia almeno 1*
+*Minimizza la somma dei cubi di numeri reali con distanza a coppie almeno pari a 1*
 
-> $n \geq 3$ sia un dato numero intero e $a_1, a_2, \ldots, a_n$ sia un numero reale soddisfacente $\min_{1 \leq i < k \leq n} |a_i - a_k| \geq 1$. Trova il valore minimo di $\displaystyle\sum_{i=1}^{n} |a_i|^3$. (Posato da Zhu Huawei)
+> Sia $n \geq 3$ un intero dato, e siano $a_1, a_2, \ldots, a_n$ numeri reali che soddisfano $\min_{1 \leq i < k \leq n} |a_i - a_k| \geq 1$. Determinare il valore minimo di $\displaystyle\sum_{i=1}^{n} |a_i|^3$. (Proposto da Zhu Huawei)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2009#q04|src_cn_cmo_2009__Q04]]
 
 
 
@@ -139,11 +167,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le n per le quali i bordi e le diagonali di n-gon convex possono essere colorati con n colori in modo che ogni 3 colori formino un triangolo*
+*Trovare tutti gli n per cui i lati e le diagonali di un n-gono convesso possono essere colorati con n colori in modo che ogni insieme di 3 colori formi un triangolo*
 
-> Trovare tutti gli enti $n$ in modo tale da poter colorare tutti i bordi e le diagonali di un poligono convexo $n$ con $n$ dati colori che soddisfano le seguenti condizioni: (1) Ciascuno dei bordi o dei diagonali è colorato solo da un colore; (2) Per qualsiasi tre colori distinti, esiste un triangolo le cui vertici sono vertici del poligono $n$ e tre bordi sono colorati da questi tre colori. (Possibile da Su Chan)
+> Trovare tutti gli interi $n$ tali che si possano colorare tutti i lati e le diagonali di un $n$-gono convesso con $n$ colori dati, soddisfacendo le seguenti condizioni: (1) Ciascun lato o ciascuna diagonale è colorato con un solo colore; (2) Per qualsiasi terna di colori distinti, esiste un triangolo i cui vertici sono vertici dell'$n$-gono e i cui tre lati sono colorati con questi tre colori. (Proposto da Su Chan)
 
-**Risposta:** Ogni numero dispari $n \geq 1$
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmo_2009#q05|src_cn_cmo_2009__Q05]]
 
 
 
@@ -166,6 +199,13 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove l'esistenza di un insieme di n elementi in cui tutte le medie del sottogruppo sono composti coprimi in coppia*
+*Dimostra l'esistenza di un insieme con n elementi in cui le medie di tutti i sottoinsiemi sono numeri composti coprimi a due a due*
 
-> Date un numero intero $n \geq 3$, dimostrare che esiste un insieme $S$ di $n$ diversi interi positivi in modo tale che per due sudinsiemi non vuoti $A$ e $B$ di $S$, i numeri $\dfrac{\displaystyle\sum_{x \in A} x}{|A|}$ e $\dfrac{\displaystyle\sum_{x \in B} x}{|B|}$ sono due interi composti copriemi, dove $\displaystyle\sum_{x \in X} x$ indica la somma di tutti gli elementi di un insieme finito $X$, e $|X|$ indica la cardinalità di $X$.
+> Dato un intero $n \geq 3$, dimostrare che esiste un insieme $S$ di $n$ interi positivi distinti tale che, per qualsiasi coppia di sottoinsiemi distinti non vuoti $A$ e $B$ di $S$, i numeri $\dfrac{\displaystyle\sum_{x \in A} x}{|A|}$ e $\dfrac{\displaystyle\sum_{x \in B} x}{|B|}$ siano due interi composti coprimi, dove $\displaystyle\sum_{x \in X} x$ denota la somma di tutti gli elementi di un insieme finito $X$, e $|X|$ denota la cardinalità di $X$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmo_2009#q06|src_cn_cmo_2009__Q06]]

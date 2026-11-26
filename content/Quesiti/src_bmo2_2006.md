@@ -31,9 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valore minimo di x2+y2 con restrizione xy(x2−y2) = x2+y2*
+*Il minimo di $x^2 + y^2$ sotto il vincolo dato, con $x \neq 0$*
 
-> Trova il valore minimo possibile di $x^2 + y^2$ dato che $x$ e $y$ sono numeri reali che soddisfano $$xy(x^2 - y^2) = x^2 + y^2$$ e $x \neq 0$.
+> Trovare il minimo valore possibile di $x^2 + y^2$ sapendo che $x$ e $y$ sono numeri reali che soddisfano
+> $$xy(x^2 - y^2) = x^2 + y^2$$
+> e $x \neq 0$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2006#q01|src_bmo2_2006__Q01]]
 
 
 
@@ -58,9 +67,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca interi positivi con fattori primi ≤5 che soddisfano x2−y2=2^k*
+*Tutti gli interi positivi $x$, $y$ senza fattori primi maggiori di 5 tali che $x^2 - y^2 = 2^k$*
 
-> $x$ e $y$ siano integri positivi senza fattori primi superiori a $5$. Trova tutti i $x$ e $y$ che soddisfano $$x^2 - y^2 = 2^k$$ per un intero non negativo $k$.
+> Siano $x$ e $y$ interi positivi senza fattori primi maggiori di $5$. Trovare tutti tali $x$ e $y$ che soddisfano
+> $$x^2 - y^2 = 2^k$$
+> per qualche intero non negativo $k$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2006#q02|src_bmo2_2006__Q02]]
 
 
 
@@ -84,9 +102,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra che l'angolo BPC è uguale all'angolo BAC utilizzando punti sui lati estesi*
+*Dimostrare che $\angle BPC = \angle BAC$*
 
-> $ABC$ sia un triangolo con $AC > AB$. Il punto $X$ si trova sul lato $BC$ esteso attraverso $A$, e $Y$ si trova sul lato $CA$ esteso attraverso $B$, in modo tale che $BX = CA$ e $CY = BA$. La linea $XY$ incontra il bisettore perpendicolare di $BC$ a $P$. Indicare che $$\angle BPC = \angle BAC.$$
+> Sia $ABC$ un triangolo con $AC > AB$. Il punto $X$ sta sul lato $BC$ prolungato oltre $A$, e $Y$ sta sul lato $CA$ prolungato oltre $B$, in modo che $BX = CA$ e $CY = BA$. La retta $XY$ incontra l'asse di $BC$ in $P$. Dimostrare che
+> $$\angle BPC = \angle BAC.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2006#q03|src_bmo2_2006__Q03]]
 
 
 
@@ -109,6 +135,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esame con bambini 2006, qualsiasi tre domande ≥5 domande; trovare risposte minime corrette*
+*Il minimo numero totale di risposte esatte di $2006$ bambini*
 
-> Un esame composto da sei domande è presentato da bambini $2006$. Ogni domanda è contrassegnata come giusta o sbagliata. Qualsiasi tre bambini abbiano risposte giuste a almeno cinque delle sei domande che si presentano tra loro. Il numero di risposte corrette ottenute da tutti i bambini (cioè il numero totale di domande risolute dal bambino $1$ $+$ il totale risolto dal bambino $2$ $+ \cdots +$ il totale risolto dal bambino $2006$). Trova il minimo valore possibile di $N$.
+> Un esame di sei domande è sostenuto da $2006$ bambini. Ogni domanda è valutata giusta o sbagliata. Qualunque terna di bambini ha, fra tutti e tre, risposte giuste ad almeno cinque delle sei domande. Sia $N$ il numero totale di risposte giuste ottenute da tutti i bambini (cioè il totale delle domande risolte dal bambino $1$ $+$ il totale risolte dal bambino $2$ $+ \cdots +$ il totale risolte dal bambino $2006$). Trovare il minimo valore possibile di $N$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2006#q04|src_bmo2_2006__Q04]]

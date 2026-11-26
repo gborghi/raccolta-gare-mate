@@ -49,23 +49,20 @@ level: kangourou
 
 ![[src_kangourou_2024_junior_semifinale__prob1.png]]
 
-> (Points 2) The two images show the same park divided into 5 zones; the letters
-> present in three of the zones indicate their area. Two kangaroos live in the park: one usually
-> grazes in the lighter part of the first image, the other in the
-> lighter part of the second. The two parts partially overlap. In this
-> way, both kangaroos have available exactly half of the area of the
-> park. Which of the following equalities is certainly true?
-> A) A = C
-> B) B = A + C
+> (Point 2) The two images show the same park divided into 5 zones; the letters in three of the zones indicate their area. Two kangaroos live in the park: one usually grazes in the lighter part of the first image, and the other in the lighter part of the second image. The two parts partially overlap. In this way, both kangaroos have exactly half of the park's area available to them. Which of the following equalities is certainly true?
+> A) A = C 
+> B) B = A + C 
 >
-> C) B = (A + C)/2
-> D) B = 2(A + C)/3
-> E) B = 3(A + C)/5
-> Answer B). Sol. Let D and E be the areas of the zones for which no letters are indicated, it must be
-> B + D = A + E + C = B + E (each kangaroo has available half of the park). From the second equality it follows
-> that B) is true in any case. It is trivial to find examples in which A) is false.
+> C) B = (A + C)/2 
+> D) B = 2(A + C)/3 
+> E) B = 3(A + C)/5  
+> Answer B). Sol. Let D and E be the areas of the zones for which no letters are indicated; then B + D = A + E + C = B + E (each kangaroo has half of the park available). From the second equality it follows that B) is true in any case. It is trivial to find examples in which A) is false.
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q01|src_kangourou_2024_junior_semifinale__Q01]]
 
 
 
@@ -119,7 +116,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the regular octagon with square inscribed area 2*
+*Area of a regular octagon with an inscribed square of area 2*
 
 ![[src_kangourou_2024_junior_semifinale__prob2.png]]
 
@@ -144,9 +141,15 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 3) The figure shows a regular octagon and a square inscribed in it, whose vertices are four of the vertices of the octagon. The area of the square is 2. How much is the area of the octagon? (A) 1 + √2 B) 5/2 C) 2√2 D) 3 E) 3√2  1 Answer C). The solution. The side of the square measures √2 and its diagonal measures 2. The octagon can be expressed as the union of the eight isosceles triangles that are obtained by joining the vertices with the center, whose congruent sides are half the square's diagonal and so measure 1 and whose height relative to those sides is half the square's side and so is √2/2. The area of each triangle is then √2/4.
+> (Point 3) The figure shows a regular octagon and a square inscribed in it, whose vertices are four of the octagon's vertices. The area of the square is 2. What is the area of the octagon?
+> A) 1 + √2              B) 5/2             C) 2√2             D) 3            E) 3√2 – 1  
+> Answer C). Solution. The side of the square measures √2, and its diagonal measures 2. The octagon can be expressed as the union of the eight isosceles triangles obtained by joining the vertices to the center; the congruent sides of these triangles are half the diagonal of the square and therefore measure 1, and their height relative to these sides is half the side of the square and therefore equals √2/2. The area of each triangle is then √2/4.
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q02|src_kangourou_2024_junior_semifinale__Q02]]
 
 
 
@@ -176,9 +179,15 @@ level: kangourou
 
 *Minimum number of digits of N (20230...0)*
 
-> (Points 3) The decimal representation of the integer N has the form 20230...0, where the unindicated digits are all 0. It is known that 0,0002024% of N is greater than 2025. How many digits must N have at least? A) 6 B) 7 C) 8 D) 10 E) 12 Answer: D). Solution. The positive integer k must be such that 2023 × 10k × 2024 / 107+2 > 2025: one must therefore have k ≥ 6.
+> (Point 3) The decimal representation of the integer N is of the form 20230…0, where all the digits not shown are 0. It is known that 0.0002024% of N is greater than 2025. What is the minimum number of digits N must have?
+> A) 6             B) 7             C) 8            D) 10           E) 12 
+> Answer: D). Solution. The positive integer k must satisfy 2023 × 10^k × 2024 / 107+2 > 2025; therefore, k ≥ 6 must hold.
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q03|src_kangourou_2024_junior_semifinale__Q03]]
 
 
 
@@ -211,11 +220,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of Spaniards with 143 handshakes
+*Maximum number of Spaniards with 143 handshakes*
 
-> (Point 4) At a party at the Italian Embassy a number of Spaniards and some Frenchmen were invited, more than one for each nationality and more than one Italian was also present. Every Italian welcomes every foreign guest once and only once with a handshake and there are no other handshakes: in the end, the handshakes total 143. How many Spaniards could there be at most? A) 7 B) 8 C) 9 D) 10 E) 11 Answer: E). Solution. The number of handshakes is the product of the number of Italians with the sum of the number of Spaniards and the number of Frenchmen. If we want to express 143 as the product of integers, there are only two possibilities: 1 × 143 and 11 × 13. The first is to be ruled out by hypothesis. So the foreigners could be a maximum of 13 and then the Spaniards a maximum of 13 - 2 = 11.
+> (Point 4) At a party at the Italian embassy, some Spaniards and some French people were invited—more than one from each nationality—and the Italians present are also more than one. Each Italian welcomes each foreign guest once and only once with a handshake, and there are no other handshakes: in the end, the total number of handshakes is 143. What is the maximum possible number of Spaniards invited?
+> A) 7             B) 8             C) 9             D) 10            E) 11 
+> Answer: E). Solution. The number of handshakes is the product of the number of Italians and the sum of the number of Spaniards and the number of French people. If we want to express 143 as a product of integers, there are only two possibilities: 1 × 143 and 11 × 13. The first must be ruled out by hypothesis. Then the foreigners could be at most 13, and therefore the Spaniards could be at most 13 – 2 = 11.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q04|src_kangourou_2024_junior_semifinale__Q04]]
 
 
 
@@ -245,11 +261,17 @@ Maximum number of Spaniards with 143 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*€ remaining to the eldest child (proportions)*
+*Euros remaining for the eldest child (proportions)*
 
-> A father divides between his three children, aged 8, 12 and 18, the sum of $380 into parts that are inversely proportional to their age. The three children agree to give a gift to the mother and divide the cost of the €304 into parts directly proportional to the figures received from the father. How much is left for the eldest son? (A) 16 (B) 15 (C) 12 (D) 18 (E) 20 Answer A) The solution. If 1 is made, the amount for a 12-year-old child, for an 8-year-old child, it is 3/2, and for an 18-year-old, it is 2/3, so in increasing age order, it is 180, 120 and 80 euros. The breakdown of EUR 304, now in parts directly proportional to these amounts, is therefore in the same order as EUR 144, 96 and 64.
+> (Point 4) A father divides the sum of 380 euros among his three children, who are 8, 12, and 18 years old, in parts inversely proportional to their ages. By mutual agreement, the three children decide to give their mother a gift and to divide the cost of 304 euros among themselves in parts directly proportional to the amounts they received from their father. How many euros are left for the oldest child?
+> A) 16            B) 15             C) 12              D) 18            E) 20 
+> Answer A). Solution. Once the sum due to the 12-year-old child has been set at 1, the 8-year-old gets 3/2 and the 18-year-old gets 2/3; thus, in ascending order of age, the amounts are 180, 120, and 80 euros. The allocation of 304 euros, now in parts directly proportional to these amounts, is therefore, in the same order, 144, 96, and 64 euros.
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q05|src_kangourou_2024_junior_semifinale__Q05]]
 
 
 
@@ -286,11 +308,17 @@ Maximum number of Spaniards with 143 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability that the diamond is in box 9
+*Probability that the diamond is in box 9*
 
-> (Points 4) 10 numbered boxes are lined up in front of me, one and only one of which contains a diamond. From the information I received, box no. 10 has a 2/5 chance of containing the diamond, the remaining boxes all have the same chance. I just opened the first three boxes and I couldn't find the diamond. At this point, what is the probability that the diamond is in box no. 9? (a) 1/15 (b) 3/5 (c) 1/10 (d) 1/5 (e) None of the above. Answer: C) or E). The solution. The announcement, with the choice to open three boxes which are part of the block of the first nine equally likely, allows the tenth box to be excluded from the effect of the information obtained. The 3/5 probability that the diamond is not in box n. 10 is therefore now concentrated in the 6 boxes from the fourth to the ninth inclusive, and equally distributed among them. However, it is also legitimate to ignore the above consideration and consider the alternative model which provides for a mass of 15/15 to be spread on the boxes as follows: 1/15 in each of the boxes from the first to the ninth and 6/15 in the tenth. Thus the opening of the first three boxes reduces to 6/15 the mass present in the fourth to the ninth boxes. Events The diamond is in some box from the fourth to the ninth and The diamond is in the tenth box are therefore equally likely, disjoint and exhaustive: the answer is then (1/6) × (1/2) = 1/12.
+> (Point 4) In front of me, 10 numbered boxes are arranged in a row, and exactly one of them contains a diamond. According to information I have received, box no. 10 has a probability of 2/5 of containing the diamond, and all the remaining boxes have the same probability. I have just opened the first three boxes and have not found the diamond. At this point, what is the probability that the diamond is in box no. 9?
+> A) 1/15 B) 3/5 C) 1/10 D) 1/5 E) None of the above.
+> Answer: C) or E). Solution. The statement, with the choice of opening three boxes that are part of the block of the first nine equally probable boxes, makes it possible to exclude the tenth box from the effect of the information obtained. The probability 3/5 that the diamond is not in box no. 10 is therefore now concentrated in the six boxes from the fourth to the ninth inclusive, and is equally distributed among them. However, it is also permissible to ignore the preceding consideration and to consider the alternative model in which a mass of 15/15 is spread over the boxes as follows: 1/15 in each of the boxes from the first to the ninth, and 6/15 in the tenth. In this way, opening the first three boxes reduces to 6/15 the mass present in the set of boxes from the fourth to the ninth. The events "The diamond is in some box from the fourth to the ninth" and "The diamond is in the tenth box" are therefore equally probable, mutually exclusive, and exhaustive: the answer is then (1/6) × (1/2) = 1/12.
 
-**Answer:** C
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q06|src_kangourou_2024_junior_semifinale__Q06]]
 
 
 
@@ -319,13 +347,18 @@ The probability that the diamond is in box 9
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Units digit of 2023^2024 - 2023^2023*
+*Unit figure for 2023^2024 - 2023^2023*
 
-> (5 points) What is the units digit of the number 20232024 – 20232023?
-> A) 0          B) 2           C) 4            D) 6            E) 8
-> Answer: C). Solution. The number in question equals 2022 × 20232023. The units digits of positive integer powers of 3, starting from the first, repeat every four terms in the cycle 3, 9, 7, 1. The same pattern clearly holds for positive integer powers of any number whose units digit is 3. We have 2023 = 505 × 4 + 3; thus, the units digit of 20232023 is 7.
+> (Point 5) What is the units digit of the number 20232024 – 20232023?
+> A) 0          B) 2           C) 4            D) 6            E) 8 
+> Answer: C). Solution. The number in question is equal to 2022 × 20232023. The units digits of the positive integer powers of 3, starting from the first, follow the cycle 3, 9, 7, 1 of length four: evidently the same holds for the positive integer powers of any number whose units digit is 3. We have 2023 = 505 × 4 + 3: therefore the units digit of 20232023 is 7.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q07|src_kangourou_2024_junior_semifinale__Q07]]
 
 
 
@@ -356,11 +389,20 @@ The probability that the diamond is in box 9
 <div class="qlang-split" data-lang="en"></div>
 
 
-Why a square with integer coordinates cannot have area 27
+*Why can't a square with integer coordinates have an area of 27?*
 
-> In the Cartesian plane, consider a square Q whose vertices each have both coordinates integers. For which of the following reasons cannot the area of Q be 27? A) Because 27 is an odd integer. B) Because 27 is not the sum of two perfect squares. C) Because 27 is a perfect cube. D) Because 27 is not a perfect square. E) None of the above is a valid reason. Answer: B). Solution. For Pythagoras' theorem, the square of the measure of the side of Q must be the sum of two perfect squares. The other four statements are easily refutable (to refute C it is enough, for example, to assume that two adjacent vertices of Q are the points (0, 2) and (2, 0)).
+> (Point 5) In the Cartesian plane, consider a square Q whose vertices each have both coordinates as integers. For which of the following reasons can it not happen that the area of Q is 27?
+> A) Because 27 is an odd integer. B) Because 27 is not the sum of two perfect squares.
+> C) Because 27 is a perfect cube. D) Because 27 is not a perfect square.
+> E) None of the foregoing are valid reasons.
+> Answer: B). Solution. By the Pythagorean theorem, the square of the length of a side of Q must be the sum of two perfect squares. The other four statements are easily refuted (to refute C, for example, it suffices to assume that two adjacent vertices of Q are the points (0, 2) and (2, 0)).
 
-**Answer:** B
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q08|src_kangourou_2024_junior_semifinale__Q08]]
 
 
 
@@ -384,11 +426,15 @@ Why a square with integer coordinates cannot have area 27
 <div class="qlang-split" data-lang="en"></div>
 
 
-What day does Charles' birthday fall on? (alternating truths)
+*On what day does Carlo's birthday fall (alternative truths)?*
 
-> On alternate days, Charles tells the truth or lies for the whole day. On the day of his fifteenth birthday, Charles made the following three statements:
+> (Point 6) On alternate days, Carlo either tells the truth or lies all day long. On the day of his fifteenth birthday, Carlo made the three statements set out below:
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q09|src_kangourou_2024_junior_semifinale__Q09]]
 
 
 
@@ -412,11 +458,16 @@ What day does Charles' birthday fall on? (alternating truths)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to divide 1..18 into square-sum pairs*
+*In how many ways can 1..18 be partitioned into pairs whose sum is a perfect square?*
 
-> 10. (Points 4) The set of integers between 1 and 18 included must be divided into nine pairs, so that the sum of the two numbers that make up each pair is a perfect square. How many different ways can you do that? The answer is: 0001. The solution. The perfect squares obtained by adding the two numbers of the various pairs can only be 4, 9, 16 or 25. It is immediately apparent that some couplings are required: (18, 7), (17, 8), (16, 9); furthermore, since 9 - 2 = 7, coupling (2, 14) is also required. However, it follows from the latter that all the others are also required: one must have (11, 5), hence in the order (4, 12), (13, 3), (6, 10), (1, 15).
+> 10. (4 points) The set of integers from 1 to 18 inclusive is to be divided into nine pairs such that the sum of the two numbers in each pair is a perfect square. In how many different ways can this be done? Answer: 0001. Solution. The perfect squares obtainable by adding the two numbers in the various pairs can only be 4, 9, 16, or 25. It is immediately apparent that some pairings are forced: (18, 7), (17, 8), (16, 9); moreover, since 9 – 2 = 7, the pairing (2, 14) is also forced. However, from this last one it follows that all the others are also forced: we must have (11, 5), and hence, in order, (4, 12), (13, 3), (6, 10), (1, 15).
 
-**Answer:** 0001
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q10|src_kangourou_2024_junior_semifinale__Q10]]
 
 
 
@@ -441,13 +492,17 @@ What day does Charles' birthday fall on? (alternating truths)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Centrally symmetrical surface of the L-solid*
+*Surface of the centrally symmetric L-shaped solid*
 
 ![[src_kangourou_2024_junior_semifinale__prob11.png]]
 
-> In the figure you can see an isolated L-shaped brick obtained from a 1 cm side cube by removing a parallelepiped, in centimetres, $\frac{1}{2}$, $\frac{1}{2}$ and $1$. By joining 4 of these bricks with 10 cubes of side 1, you get the centrally symmetrical solid you see in the figure. What is its surface area in square centimeters? (see figure)
+> In the figure, you see an isolated L-shaped brick obtained from a cube with an edge length of 1 cm by removing a parallelepiped with dimensions, in centimeters, $\frac{1}{2}$, $\frac{1}{2}$, and $1$. By gluing 4 of these bricks together with 10 cubes of edge length 1, the centrally symmetric solid shown in the figure was obtained. What is its surface area, in square centimeters? (see figure)
 
-**Answer:** 0042
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q11|src_kangourou_2024_junior_semifinale__Q11]]
 
 
 
@@ -471,11 +526,16 @@ What day does Charles' birthday fall on? (alternating truths)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum c with 1<=a<=b<=c and ab+ac+bc=abc*
+*Maximum c such that 1 <= a <= b <= c and ab + ac + bc = abc*
 
-> 12. (Points 5) Three integers a, b, c are such that 1 ≤ a ≤ b ≤ c and ab + ac + bc = abc. How much can c be worth at most? Answer: 0006. Solution. Since the three numbers are different from 0, dividing the two members by abc the second condition can be written in the form (1/c) + (1/b) + (1/a) = 1. So it's clear that for c to be as big as possible, a and b have to be as small as possible. Neither can be 1 and a = b = 2 is not acceptable, but they are a = 2 and b = 3 or vice versa: in both cases c must be 6.
+> 12. (5 points) Three integers a, b, c satisfy 1 ≤ a ≤ b ≤ c and ab + ac + bc = abc. What is the maximum possible value of c? Answer: 0006. Solution. Since the three numbers are all non-zero, dividing both sides by abc allows the second condition to be written in the form (1/c) + (1/b) + (1/a) = 1. It is then clear that, for c to be as large as possible, a and b must be as small as possible. Neither of them can be 1, and a = b = 2 is not acceptable, but a = 2 and b = 3, or vice versa, are acceptable: in both cases, c must be 6.
 
-**Answer:** 0006
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q12|src_kangourou_2024_junior_semifinale__Q12]]
 
 
 
@@ -498,11 +558,15 @@ What day does Charles' birthday fall on? (alternating truths)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many integers between 0 and 10 can be expressed with four 4s*
+*How many integers between 0 and 10 can be expressed using four 4s?*
 
-> 13. (Points 6) I want to express as many integers as possible using only the number 4 and exactly four times. I can place the digit 4 several times, use the four arithmetic operations, and arrange brackets in the ways that I think are appropriate. For example, I can write 0 = 4 – 4 + 4 – 4, or 15 = 44/4 + 4, or 160 = (44 – 4) × 4. How many of the integers between 0 and 10 can I express with this procedure? The answer is 0011. The solution. 0 = 4 – 4 + 4 – 4; 1 = 44/44; 2 = 4/4 + 4/4; 3 = (4 + 4 + 4)/4; 4 = 4 – (4 – 4)/4; 5 = (4 × 4 + 4)/4; 6 = (4 + 4)/4 + 4; 7 = 44/4 – 4; 8 = 4 + 4 + 4 – 4; 9 = 4 + 4 + 4/4; 10 = (44 – 4)/4.
+> 13. (6 points) I want to express as many integers as possible using only the digit 4 and exactly four times. I may concatenate the digit 4 multiple times, use the four arithmetic operations, and place parentheses in whatever ways I see fit. For example, I can write 0 = 4 – 4 + 4 – 4, or 15 = 44/4 + 4, or 160 = (44 – 4) × 4. How many of the integers from 0 to 10 inclusive can I express using this procedure? Answer: 0011. Solution. 0 = 4 – 4 + 4 – 4; 1 = 44/44; 2 = 4/4 + 4/4; 3 = (4 + 4 + 4)/4; 4 = 4 – (4 – 4)/4; 5 = (4 × 4 + 4)/4; 6 = (4 + 4)/4 + 4; 7 = 44/4 – 4; 8 = 4 + 4 + 4 – 4; 9 = 4 + 4 + 4/4; 10 = (44 – 4)/4.
 
-**Answer:** 0011
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q13|src_kangourou_2024_junior_semifinale__Q13]]
 
 
 
@@ -525,11 +589,15 @@ What day does Charles' birthday fall on? (alternating truths)
 <div class="qlang-split" data-lang="en"></div>
 
 
-For how many seconds Aldo is waiting for Bernardo
+*For how many seconds does Aldo wait for Bernardo?*
 
-> 14. The wheels of Aldo's bicycle have a radius of 30 cm, those of Bernardo's bicycle have a radius of 24 cm. Aldo and Bernardo start to pedal at the same time in the same direction and, at the same time, the number of turns made by their wheels is the same and remains constant during the pedal. After 15 minutes, Aldo stops to wait for Bernardo. For how many seconds will he have to wait for him? The answer is 0225. The solution. The ratio of the lengths of the radii (A/B) is 5/4, the length of the circumference is proportional to the radius, so the inverse ratio is between the time required to travel the same distance. So to get to where Aldo got to, Bernardo needs 5/4 of Aldo's time, so 1/4 more than he has so far.
+> 14. (Points 6) The wheels of Aldo's bicycle have a radius of 30 cm, and those of Bernardo's bicycle have a radius of 24 cm. Aldo and Bernardo start pedaling at the same instant in the same direction, and, for the same amount of time, the number of revolutions made by their wheels is the same and remains constant during pedaling. After 15 minutes, Aldo stops to wait for Bernardo. For how many seconds will he have to wait for him? Answer: 0225. Solution. The ratio of the radii (A/B) is 5/4; the circumference is proportional to the radius, so an inverse proportion holds for the times required to cover the same distance. Therefore, to reach where Aldo has arrived, Bernardo needs 5/4 of the time Aldo took, which means 1/4 more than the time Aldo has taken so far.
 
-**Answer:** 0225
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q14|src_kangourou_2024_junior_semifinale__Q14]]
 
 
 
@@ -553,11 +621,16 @@ For how many seconds Aldo is waiting for Bernardo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Of how many integers is 17 the greatest proper divisor*
+*How many integers is 17 the greatest proper divisor of?*
 
-> 15. (Points 6) Of how many positive integers is the number 17 the greatest proper divisor? Answer: 0007. The solution. 17 is the divisor of any integer of type 17 × k with positive integer k. For it to be the largest divisor, it is clear that k ≤ 17 must be. It is also clear that all prime numbers not greater than 17 are acceptable. No other k can be: every non-prime divisor greater than 1 would give a divisor of 17 × k greater than 17.
+> 15. (Points 6) How many positive integers have 17 as their greatest proper divisor? Answer: 0007. Solution. 17 is a divisor of every integer of the form 17 × k, where k is a positive integer. For it to be the greatest divisor, it is clear that k must be ≤ 17. It is also clear that all prime numbers not greater than 17 are acceptable. No other k can work: any non-prime divisor greater than 1 would yield a divisor of 17 × k that is greater than 17.
 
-**Answer:** 0007
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q15|src_kangourou_2024_junior_semifinale__Q15]]
 
 
 
@@ -581,11 +654,16 @@ For how many seconds Aldo is waiting for Bernardo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest n with S_n+S_{n-1}>2024 (polygon diagonals)*
+*Smaller n with S_n+S_{n-1}>2024 (polygon diagonals)*
 
-> 16. (7 points) Given a convex polygon with n sides (n > 3), let Sn denote the number of its diagonals. What is the smallest value of n such that Sn + Sn – 1 > 2024? Answer: 0048. Solution. For every n > 3 we have Sn = n(n – 3)/2, whence Sn + Sn – 1 = $n^{2}$– 4n + 2. For $n^{2}$– 4n – 2022 > 0 to hold, we must have n > 2 + √2026. The first perfect square greater than 2026 is 2116 = $46^{2}$.
+> 16. (7 points) Given a convex polygon with n sides (n > 3), let Sn denote the number of its diagonals. What is the smallest value of n such that Sn + Sn – 1 > 2024? Answer: 0048. Solution. For every n > 3, we have Sn = n(n – 3)/2, whence Sn + Sn – 1 = $n^{2}$– 4n + 2. For $n^{2}$– 4n – 2022 > 0 to hold, we must have n > 2 + √2026. The first perfect square greater than 2026 is 2116 = $46^{2}$.
 
-**Answer:** 0048
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q16|src_kangourou_2024_junior_semifinale__Q16]]
 
 
 
@@ -609,11 +687,16 @@ For how many seconds Aldo is waiting for Bernardo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First and last whole product with consecutive cubes = 2024*
+*Product of the first and last integers with consecutive cubes = 2024*
 
-> 17. (Points 7) Adding the cubes of some consecutive positive integers gives us a result of 2024. How much is the product of the first with the last of these integers? Answer: 0018. Solution. A well-known theorem states that, for every positive integer n, the sum of the cubes of the first n positive integers coincides with the square of the sum of these first n integers. The sum of the first n positive integers is n(n + 1)/2: quickly finds then that $45^{2}$ = 2025 is the sum of the cubes of the integers from 1 to 9. So 2024 is the sum of the cubes of integers 2 through 9.
+> 17. (7 points) Adding the cubes of some consecutive positive integers yields 2024. What is the product of the first and the last of these integers? Answer: 0018. Solution. A well-known theorem states that, for any positive integer n, the sum of the cubes of the first n positive integers equals the square of the sum of these first n integers. The sum of the first n positive integers is n(n + 1)/2; thus, one quickly finds that $45^{2}$ = 2025 is the sum of the cubes of the integers from 1 to 9. Therefore, 2024 is the sum of the cubes of the integers from 2 to 9.
 
-**Answer:** 0018
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q17|src_kangourou_2024_junior_semifinale__Q17]]
 
 
 
@@ -636,8 +719,12 @@ For how many seconds Aldo is waiting for Bernardo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of marbles with probability same color 13/24*
+*Minimum number of marbles with equal probability of the same color: 13/24*
 
-> In a bag there are some green marbles and some red marbles. Drawing two at random, the probability that they are both of the same color is $\dfrac{13}{24}$. What can be, at minimum, the marbles in the bag?
+> In a bag, there are some green marbles and some red marbles. If two are drawn at random, the probability that both are the same color is $\dfrac{13}{24}$. What is the minimum number of marbles that could be in the bag?
 
-**Answer:** 0016
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_semifinale#q18|src_kangourou_2024_junior_semifinale__Q18]]

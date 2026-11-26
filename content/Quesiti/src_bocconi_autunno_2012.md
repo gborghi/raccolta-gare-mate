@@ -30,11 +30,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lesser positive integer of 4 equal and different digits*
+*The smallest positive integer with 4 even, distinct digits*
 
-> What is the smallest (positive integer) of four digits, all equal and all different from each other? Note: 0 is considered an even number and no number starts with 0.
+> What is the smallest (positive integer) four-digit number in which all digits are even and all digits are different? Note: 0 is considered an even digit, and no number begins with 0.
 
-**Answer:** 2046
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2012#q01|src_bocconi_autunno_2012__Q01]]
 
 
 
@@ -63,11 +68,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who among the four athletes didn't tell the truth?
+*Which of the four athletes did not tell the truth?*
 
-> Here are the statements made by our four athletes, right after the end of the race (only they participated): Jacopo: I cut the finish line first  Luke: I am neither the first nor the last  Michele: I am not the last  Nando: I came fourth  Only one of them did not tell the truth. Who's that?
+> Here are the statements made by our four athletes immediately after the race ended (a race in which only they took part): Jacopo: "I crossed the finish line first." Luca: "I'm neither first nor last." Michele: "I'm not last." Nando: "I came in fourth." Only one of them didn't tell the truth. Who?
 
-**Answer:** Jacopo did not tell the truth
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2012#q02|src_bocconi_autunno_2012__Q02]]
 
 
 
@@ -91,11 +101,16 @@ Who among the four athletes didn't tell the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First date after 20-12-2012 with the same figures*
+*Next date after 20-12-2012 with the same figures*
 
-> January 13, 2012 is written as January 13, 2012. Ilaria finds it more interesting on 20 December 2012 that it is written as 20.12.2012, with the four digits repeating in the same order. What will be the first date after 20 December 2012 to be written with the four digits repeating the same order?
+> On 13 January 2012, it is written as 13.01.2012. Ilaria finds 20 December 2012, written as 20.12.2012, more interesting, with the four digits repeating in the same order. What will be the first date after 20 December 2012 that can be written with the four digits repeating in the same order?
 
-**Answer:** 21-01-2101
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2012#q03|src_bocconi_autunno_2012__Q03]]
 
 
 
@@ -121,13 +136,18 @@ Who among the four athletes didn't tell the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of moves to exchange tokens with adjacent game*
+*Minimum number of moves to exchange tokens with an adjacent game*
 
-> Angelo enjoys this game where the only movement authorized is to move a token at a time from the box where it is located to an adjacent empty box (which has one side in common). How many moves, at least, will Angelo be able to swap the white chips with the black ones?
+> Angelo is amused by this game, in which the only allowed move is to move one token at a time from the square it occupies to an adjacent empty square (one that shares a side with it). In at least how many moves will Angelo be able to swap the white tokens with the black ones?
 
 ![[src_bocconi_autunno_2012__q04.png]]
 
-**Answer:** 36
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2012#q04|src_bocconi_autunno_2012__Q04]]
 
 
 
@@ -153,13 +173,18 @@ Who among the four athletes didn't tell the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number at the bottom left-hand corner of the magic triangle*
+*Number at the top, bottom left of the magic triangle*
 
-> The triangle boxes in the figure contain all integers from 1 to 9. As you can see, two numbers have already been written. You also know that the sum of the numbers written on the same side of the triangle is always equal to 20. So what number do you have to write in the bottom left corner?
+> The cells of the triangle in the figure contain all the integers from 1 to 9. As you can see, two numbers have already been written. It is also known that the sum of the numbers written on the same side of the triangle is always equal to 20. Then which number must be written in the bottom-left vertex?
 
 ![[src_bocconi_autunno_2012__q05.png]]
 
-**Answer:** 9
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2012#q05|src_bocconi_autunno_2012__Q05]]
 
 
 
@@ -182,11 +207,15 @@ Who among the four athletes didn't tell the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time required to cut 10 six cypress bushes in six hours*
+*Time required to saw six cypress trees for 10 lumberjacks in six hours*
 
-> If six loggers harvest six cypresses in six hours, how long will it take ten loggers to harvest ten cypresses?
+> If six lumberjacks saw six cypresses in six hours, how long will it take ten lumberjacks to saw ten cypresses?
 
-**Answer:** 6 hours
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2012#q06|src_bocconi_autunno_2012__Q06]]
 
 
 
@@ -210,11 +239,16 @@ Who among the four athletes didn't tell the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Start number in play Magic with two digits*
+*Starting number in play: Two-digit Magic*
 
-> Carla takes a two-digit number (a positive integer), multiplies it by 4 and then subtracts 3 from the result thus obtained. It's magic! The number Carla finally finds is written with the same numbers as the starting number, but in reverse order. What was the departure number?
+> Carla takes a two-digit positive integer, multiplies it by 4, and then subtracts 3 from the result obtained. Magic! The number Carla ends up with is written using the same digits as the starting number, but in reverse order. What was the starting number?
 
-**Answer:** 16
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_autunno_2012#q07|src_bocconi_autunno_2012__Q07]]
 
 
 
@@ -240,13 +274,18 @@ Who among the four athletes didn't tell the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times TESTS are composed following a path in the grid*
+*How many times is TESTS composed following the path in the grid?*
 
-> How many times, including in the example above, can you read the word TESTS by following a path that leads you from one box to another on their common side, but never going through the same box twice?
+> How many times, including the example already sketched in the figure, can you read the word "TESTS" by following a path that takes you from one cell to another along their common side, without ever passing through the same cell twice?
 
 ![[src_bocconi_autunno_2012__q08.png]]
 
-**Answer:** 23
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2012#q08|src_bocconi_autunno_2012__Q08]]
 
 
 
@@ -271,11 +310,18 @@ Who among the four athletes didn't tell the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum value of the first by adding different symbols for equal numbers*
+*Maximum value of the first addend, with different symbols for equal digits*
 
-> Milena always replaces each symbol with the same number, making sure that different symbols correspond to different numbers. As you can see, you get as a result of the addition of a three-digit number where the digits of the hundreds and the units are equal to each other. What is the greatest possible value of the first by adding $\square\!\heartsuit\!\Upsilon\!\Upsilon$?
+> Milena always substitutes the same digit for each symbol, while making sure that different symbols correspond to different digits. As you can see, she gets a three-digit sum in which the hundreds digit and the units digit are equal. What is the greatest possible value of the first addend $\square\!\heartsuit\!\Upsilon\!\Upsilon$?
 
 ![[src_bocconi_autunno_2012__q09.png]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_autunno_2012#q09|src_bocconi_autunno_2012__Q09]]
 
 
 
@@ -301,13 +347,18 @@ Who among the four athletes didn't tell the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many squares are visible in the grid 64 boxes*
+*How many squares are visible in a 64-cell grid?*
 
-> How many squares can you see in this grid of 64 boxes?
+> How many squares can you see in this 64-square grid?
 
 ![[src_bocconi_autunno_2012__q10.png]]
 
-**Answer:** 204
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2012#q10|src_bocconi_autunno_2012__Q10]]
 
 
 
@@ -332,11 +383,18 @@ Who among the four athletes didn't tell the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure of patchwork square overlaid in five parts*
+*Patchwork figure of superimposed gridding in five parts*
 
-> Divide the area in the figure, following the lines of the square, into five overlapping parts (possibly by some rotation).
+> Divide the surface in the figure, following the lines of the grid, into five superposable parts (possibly by means of some rotation).
 
 ![[src_bocconi_autunno_2012__q11.png]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2012#q11|src_bocconi_autunno_2012__Q11]]
 
 
 
@@ -360,11 +418,16 @@ Who among the four athletes didn't tell the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cut cubic solids for each vertex*
+*Faces of a solid derived from a cube cut at each vertex*
 
-> You remove a small part of a wooden cube from the area around each vertex and you get a solid with 14 faces. How many faces will you get if you take out a small part of the 14-faced solid in the area around each vertex?
+> A small piece is removed from a wooden cube in the region around each of its vertices, yielding a solid with 14 faces. How many faces will the solid have if, in the same way, a small piece is then removed from the solid with 14 faces in the region around each of its vertices?
 
-**Answer:** 38
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2012#q12|src_bocconi_autunno_2012__Q12]]
 
 
 
@@ -389,11 +452,17 @@ Who among the four athletes didn't tell the truth?
 <div class="qlang-split" data-lang="en"></div>
 
 
-The value of DEUX in cryptographic arithmetic UN x UN + UN = DEUX*
+*Value of DEUX in crypto-arithmetic: ONE x ONE + ONE = DEUX*
 
-> As always, you have to replace a letter with the same number and, two different letters, two different digits; no number starts with 0. To say how much DEUX is worth for equality to be true: $$\text{UN} \times \text{UN} + \text{UN} = \text{DEUX}$$
+> As always, each letter must always be replaced by the same digit, and two different letters must be replaced by two different digits; no number starts with 0. State what value "DEUX" must have for the equality to hold:
+> $$\text{UN} \times \text{UN} + \text{UN} = \text{DEUX}$$
 
-**Answer:** 7482
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_autunno_2012#q13|src_bocconi_autunno_2012__Q13]]
 
 
 
@@ -419,13 +488,18 @@ The value of DEUX in cryptographic arithmetic UN x UN + UN = DEUX*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of side less than the four rectangular triangles around the square*
+*Length of the shorter side of the four right-angled triangles around the square*
 
-> The large square was obtained from the smaller one (dark) by extending its sides of a segment, as you can see in the figure, and then by connecting the points found. What is the length of the minor side in the four rectangular triangles, knowing that the area of the small (dark) square is $1\,\text{m}^2$ and that the area of each rectangular triangle is $0{,}5\,\text{m}^2$? Give the answer in $\text{cm}$ if possible by replacing $\sqrt{2}$ with $1{,}414$; $\sqrt{3}$ with $1{,}732$; $\sqrt{5}$ with $2{,}236$ and then rounding the result to the nearest.
+> The large square was obtained from the smaller (dark) one by extending its sides by a line segment, as you can see in the figure, and then joining the points thus found. What is the length of the shorter leg in the four right-angled triangles, given that the area of the small (dark) square is $1\,\text{m}^2$ and that the area of each right-angled triangle is $0{,}5\,\text{m}^2$? Give the answer in $\text{cm}$, possibly replacing $\sqrt{2}$ with $1{,}414$; $\sqrt{3}$ with $1{,}732$; $\sqrt{5}$ with $2{,}236$, and then rounding the result to the nearest value.
 
 ![[src_bocconi_autunno_2012__q14.png]]
 
-**Answer:** 62 cm o $100\sqrt{5}-\frac{1}{2}$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2012#q14|src_bocconi_autunno_2012__Q14]]
 
 
 
@@ -449,8 +523,13 @@ The value of DEUX in cryptographic arithmetic UN x UN + UN = DEUX*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many sweets are served overall in a restaurant with restrictions*
+*Total number of desserts served in restaurants with restrictions*
 
-> As soon as Renato retired, he gave in to his passion and opened a restaurant. Last night, 32 customers took (at least) the starter and the first; the $\frac{8}{6}$ of all customers chose (at least) the first and the sweet; half took everything: starter, first and sweet. The first one was taken by everyone and nobody the gourmets:) he was confined to one scope. How many sweets were served in total?
+> Shortly after retiring, Renato gave free rein to his passion and opened a restaurant. Last night, 32 customers had (at least) a starter and a first course; the $\frac{8}{6}$ of all the customers chose (at least) a first course and a dessert; half of them had everything: starter, first course, and dessert. Everyone had a first course, and none of the foodies :) settled for just one course. How many desserts were served in total?
 
-**Answer:** 40
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2012#q15|src_bocconi_autunno_2012__Q15]]

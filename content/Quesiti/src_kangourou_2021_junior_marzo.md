@@ -36,17 +36,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Kangaroo Day Date Error (third Thursday in March)*
+*Which date is wrong?*
 
-> Every year, Kangaroo Day is the third Thursday of March. Below are listed what should be the dates for Kangaroo Day in the next 5 years. Four of them are correct, but one is wrong. Which one?
+> In every year Kangaroo Day is the third Thursday of March. Listed below are what are supposed to be the dates of Kangaroo Day for the next 5 years. Four are correct, but one is wrong. Which one?
 >
-> A) March 17, 2022
-> B) March 16, 2023
-> C) March 14, 2024
-> D) March 20, 2025
-> E) March 19, 2026
+> A) 17 March 2022
+> B) 16 March 2023
+> C) 14 March 2024
+> D) 20 March 2025
+> E) 19 March 2026
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_junior_marzo#q01|src_kangourou_2021_junior_marzo__Q01]]
 
 
 
@@ -88,26 +92,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Faithful chart of the temperature trend*
+*Which graph shows the maximum temperatures faithfully?*
 
 ![[src_kangourou_2021_junior_marzo__prob2.png]]
 
-> These are the weather forecasts in Kangcity for the next five days: the temperatures indicated are the maximum forecasted. Which of the following five graphs accurately represents the trend of maximum temperatures? A)
-> 	
-> 	
+> These are the weather forecasts for Kangcity for the next five days: the temperatures shown are the forecast maxima. Which of the following five graphs faithfully shows how the maximum temperatures change?
+>
+> A)
 > B)
-> 	
-> 	
 > C)
-> 	
-> 	
-> 	
 > D)
-> 	
-> 	
 > E)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_junior_marzo#q02|src_kangourou_2021_junior_marzo__Q02]]
 
 
 
@@ -144,19 +145,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Correct inequality between paths P,Q,R*
+*Which inequality is correct?*
 
 ![[src_kangourou_2021_junior_marzo__prob3.png]]
 
-> The figure shows three equal equilateral triangles and three possible paths starting from the upper vertex and ending at the lower right vertex of each triangle, with lengths P, Q and R. Which of the following inequalities is correct? A) P < Q < R
-> 	
+> The picture shows three equal equilateral triangles and three possible paths, starting at the top vertex and ending at the bottom-right vertex of each triangle, of lengths P, Q and R. Which of the following inequalities is correct?
+>
+> A) P < Q < R
 > B) P < R < Q
-> 	
-> C) P < Q = R D) P = R < Q
-> 	
+> C) P < Q = R
+> D) P = R < Q
 > E) P = Q = R
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_junior_marzo#q03|src_kangourou_2021_junior_marzo__Q03]]
 
 
 
@@ -210,31 +215,32 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of the bottom-right rectangle from the areas*
+*What is the height in centimetres of the bottom-right rectangle?*
 
 ![[src_kangourou_2021_junior_marzo__prob4.png]]
 
-> Six rectangles are joined as shown in the figure. For each rectangle, the number inside indicates its area in square centimeters; the top-left rectangle has height 6 cm. What is the height, in centimeters, of the bottom-right rectangle?
+> Six rectangles are placed together as in the picture. For each rectangle, the number inside gives its area in square centimetres; the top-left rectangle is 6 cm high. What is the height in centimetres of the bottom-right rectangle?
+>
 > A) 4
-> 	
-> B) 5	
-> 	
-> C) 6	
-> 	
-> D) 7.5
+> B) 5
+> C) 6
+> D) 7,5
 > E) 10
 >
-> Ven   Sab   Dom
-> Lun   Mar
-> −1 °C −2 °C 0 °C
-> 6 °C
-> 2 °C
-> P   Q   R
-> 12  16  18
-> 32  30  48
-> 6   ?
+> 12
+> 16
+> 18
+> 32
+> 30
+> 48
+> 6
+> ?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_junior_marzo#q04|src_kangourou_2021_junior_marzo__Q04]]
 
 
 
@@ -266,11 +272,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final score of the handball match*
+*What was the final score of the match?*
 
-> At the end of the first half of a handball match the score was 9 – 14, so the away team was ahead by 5 goals. Respecting the instructions received from the coach during the interval, the home team in the second half dominated, scoring twice as many goals as the opponents and thus winning the game by one goal. What was the final score of the game? A) 20 – 19 B) 21 – 20 C) 22 – 21 D) 23 – 22 E) 24 – 23
+> At the end of the first half of a handball match the score was 9 – 14, so the away team was 5 goals ahead. Following the instructions received from the coach at half-time, the home team dominated in the second half, scoring twice as many goals as their opponents, and thus ended by winning the match by one goal. What was the final score of the match?
+>
+> A) 20 – 19
+> B) 21 – 20
+> C) 22 – 21
+> D) 23 – 22
+> E) 24 – 23
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_junior_marzo#q05|src_kangourou_2021_junior_marzo__Q05]]
 
 
 
@@ -330,40 +346,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the hexagon consisting of six 5 cm2 rhombi*
+*How many square centimetres is the area of the hexagon?*
 
 ![[src_kangourou_2021_junior_marzo__prob6.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.5]
-  \coordinate (A0) at (1, 0);
-  \coordinate (A1) at (0.5, 0.8660);
-  \coordinate (A2) at (-0.5, 0.8660);
-  \coordinate (A3) at (-1, 0);
-  \coordinate (A4) at (-0.5, -0.8660);
-  \coordinate (A5) at (0.5, -0.8660);
-  \coordinate (M01) at (0.75, 0.4330);
-  \coordinate (M12) at (0, 0.8660);
-  \coordinate (M23) at (-0.75, 0.4330);
-  \coordinate (M34) at (-0.75, -0.4330);
-  \coordinate (M45) at (0, -0.8660);
-  \coordinate (M50) at (0.75, -0.4330);
-  \coordinate (O) at (0,0);
-  \draw[thick] (A0) -- (A1) -- (A2) -- (A3) -- (A4) -- (A5) -- cycle;
-  \draw (A0) -- (M01) -- (O) -- (M50) -- cycle;
-  \draw (A1) -- (M12) -- (O) -- (M01) -- cycle;
-  \draw (A2) -- (M23) -- (O) -- (M12) -- cycle;
-  \draw (A3) -- (M34) -- (O) -- (M23) -- cycle;
-  \draw (A4) -- (M45) -- (O) -- (M34) -- cycle;
-  \draw (A5) -- (M50) -- (O) -- (M45) -- cycle;
-\end{tikzpicture}
-\end{document}
-```
+> Look at the picture. Six congruent rhombi, each of area 5 cm2, are placed together so as to form a star whose points are the vertices of a regular hexagon. How many square centimetres is the area of the hexagon?
+>
+> A) 36
+> B) 40
+> C) 45
+> D) 48
+> E) 60
 
-> Look at the figure. Six congruent rhombi, each 5 cm2 in area, are joined together to form a star whose tips are the vertices of a regular hexagon. How many square centimetres is the area of the hexagon? A) 36 B) 40 C) 45 D) 48 E) 60
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_junior_marzo#q06|src_kangourou_2021_junior_marzo__Q06]]
 
 
 
@@ -397,19 +396,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eta of Eliana given the mean age*
+*How old is Eliana?*
 
-> A jazz band consists of six members. Joseph plays the saxophone, Sergio plays the trumpet, Eliana sings and they're all the same age. The other three members of the jazz band are 17, 19, and 24. The average age of the six members is 21. How old is Eliana? A) 20
-> 	
+> A jazz band has six members. Giuseppe plays the saxophone, Sergio plays the trumpet, Eliana sings, and they are all the same age. The other three members of the jazz band are 17, 19 and 24. The average age of the six members is 21. How old is Eliana?
+>
+> A) 20
 > B) 21
-> 	
 > C) 22
-> 	
 > D) 23
-> 	
 > E) 24
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_junior_marzo#q07|src_kangourou_2021_junior_marzo__Q07]]
 
 
 
@@ -458,31 +459,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the rectangle ABCD with square 9 cm2*
+*How many centimetres is the perimeter of the rectangle ABCD?*
 
 ![[src_kangourou_2021_junior_marzo__prob8.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.0]
-  \draw[thick] (0,0) rectangle (4, 3.5);
-  \draw (0, 2.0) -- (4, 2.0);
-  \draw (1.5, 0) -- (1.5, 3.5);
-  \fill[gray!30] (0, 2.0) rectangle (1.5, 3.5);
-  \node at (0.75, 2.75) {$9\,\mathrm{cm}^2$};
-  \node[below left] at (1.5, 0) {$A$};
-  \node[below right] at (4, 0) {$B$};
-  \node[above right] at (4, 2.0) {$C$};
-  \node[above left] at (1.5, 2.0) {$D$};
-\end{tikzpicture}
-\end{document}
-```
+> Look at the picture. A rectangle of perimeter 30 cm is divided into four rectangles, one of which is a square of area 9 cm2. How many centimetres is the perimeter of the rectangle ABCD?
+>
+> A) 14
+> B) 16
+> C) 18
+> D) 21
+> E) 24
 
-> Look at the figure. A rectangle of 30 cm perimeter is divided into four rectangles, one of which is a square with area 9 cm2. How many centimeters does the perimeter of the ABCD rectangle measure ? A) 14 B) 16
-> 	
-> C) 18 D) 21 E) 24
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_junior_marzo#q08|src_kangourou_2021_junior_marzo__Q08]]
 
 
 
@@ -519,21 +512,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Third triangle with constraints on area/isosceles/right*
+*Which could be the third?*
 
 ![[src_kangourou_2021_junior_marzo__prob9.png]]
 
-> Alberto drew three triangles on a grid. Of these, just two have the same area, exactly two are isosceles and exactly two are right triangles. In the figure to the right, two of the three triangles are shown. What could be the third? A)
-> 	
+> Alberto drew three triangles on a grid. Of them, exactly two have the same area, exactly two are isosceles, and exactly two are right-angled triangles. The picture on the right shows two of the three triangles. Which could be the third?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_junior_marzo#q09|src_kangourou_2021_junior_marzo__Q09]]
 
 
 
@@ -564,13 +559,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time until the last of the 10 candles goes out*
+*How long after he lit the first does the last go out?*
 
-> Tom has 10 candles all the same. Each is consumed in 20 minutes, uniformly along its height. He lights one; when there is only one tenth left, he lights another; when there is only one tenth left of the second, he lights a third, and so on until he lights them all. How long after the first one is lit, will the last one go off? A) 3h and 10 min B) 3h and 2 min C) 3h D) 2h and 40 min E) 2h and 58 min
->  
-> The questions from N. 11 to N. 20 are worth 4 points each.
+> Tom has 10 candles, all alike. Each burns down in 20 minutes, evenly along its height. He lights one; when only a tenth of it is left he lights another; when only a tenth of the second is left he lights a third, and so on until he has lit them all. How long after the moment he lit the first does the last go out?
+>
+> A) 3 h and 10 min
+> B) 3 h and 2 min
+> C) 3 h
+> D) 2 h and 40 min
+> E) 2 h and 58 min
+>
+> Questions 11 to 20 are worth 4 points each.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_junior_marzo#q10|src_kangourou_2021_junior_marzo__Q10]]
 
 
 
@@ -605,13 +610,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relation between A and B with A-A/10 = B/10*
+*Which statement follows?*
 
-> Anna picked a number A and subtracted 1/10, Beatrice picked a number B and multiplied it by 1/10. Anna and Beatrice got the same result. So
-> 
-> (A) certainly A < B. B) certainly A > B. C) certainly A × B > 0. D) A is certainly different from B, but it could either be A < B, or be A > B. E) None of the above claims are correct.
+> Anna chose a number A and subtracted 1/10 from it. Beatrice chose a number B and multiplied it by 1/10. Anna and Beatrice obtained the same result. Then
+>
+> A) certainly A < B.
+> B) certainly A > B.
+> C) certainly A × B > 0.
+> D) certainly A is different from B, but it could be that A < B, and it could be that A > B.
+> E) none of the above
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_junior_marzo#q11|src_kangourou_2021_junior_marzo__Q11]]
 
 
 
@@ -646,19 +659,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to climb 8 steps by skipping 6
+*In how many different ways can Amedeo reach the top step?*
 
-> Amedeus walks an eight-stage wooden ladder climbing one or two steps at a time. The 6° step is rotten, so to avoid danger he must skip it. How many different ways can Amedeo reach the highest step? A) 6
-> 	
+> Amedeo goes up a wooden staircase of 8 steps, taking 1 or 2 steps at a time. The 6th step is rotten, so to stay safe he must skip it. In how many different ways can Amedeo reach the top step?
+>
+> A) 6
 > B) 7
-> 	
 > C) 8
-> 	
 > D) 9
-> 	
 > E) 10
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_junior_marzo#q12|src_kangourou_2021_junior_marzo__Q12]]
 
 
 
@@ -698,21 +714,23 @@ How to climb 8 steps by skipping 6
 <div class="qlang-split" data-lang="en"></div>
 
 
-Number in place of ? with equal sums on the circles*
+*Which number must be entered in place of the question mark?*
 
 ![[src_kangourou_2021_junior_marzo__prob13.png]]
 
-> Note the figure: each point where two circles intersect is covered by a circular label. Each label must contain one of the integers 1 to 6 and each of them must be used. Adding the numbers that appear along the individual circles must always yield the same result. Number 6 has already been entered. What number should be inserted in place of the question mark? A) 1
-> 	
+> Look at the picture: every point where two circles meet is covered by a circular label. Each label must hold one of the integers from 1 to 6, and each of them must be used. Adding the numbers that appear along each circle must always give the same result. The number 6 has already been entered. Which number must be entered in place of the question mark?
+>
+> A) 1
 > B) 2
-> 	
 > C) 3
-> 	
 > D) 4
-> 	
 > E) 5
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_junior_marzo#q13|src_kangourou_2021_junior_marzo__Q13]]
 
 
 
@@ -747,19 +765,22 @@ Number in place of ? with equal sums on the circles*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer amounts <2021 with remainder 5 divided by 6,7,8,9*
+*For how many positive integers less than 2021 does the same thing happen?*
 
-> If you divide 2021 by 6, 7, 8 or 9, you always get 5 as the remainder. For how many positive integers less than 2021, does the same thing happen, i.e. the remainder of the four divisions is always 5? A) 4
-> 	
+> If 2021 is divided by 6, 7, 8 or 9, the remainder is always 5. For how many positive integers less than 2021 does the same thing happen, that is, the remainder of the four divisions is always 5?
+>
+> A) 4
 > B) 3
-> 	
 > C) 2
-> 	
 > D) 1
-> 	
 > E) none
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_junior_marzo#q14|src_kangourou_2021_junior_marzo__Q14]]
 
 
 
@@ -792,15 +813,23 @@ Number in place of ? with equal sums on the circles*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the alpha angle in the semicircle*
+*What is the size, in degrees, of the angle α?*
 
 ![[src_kangourou_2021_junior_marzo__prob15.png]]
 
-> The figure shows a semicircle centered in O. The measurements of two of the angles that make up the angle are given. What is the degree of the angle α? A) 18 B) 11 C) 17,5 D) 9
->  	
+> The picture shows a semicircle with centre O. The sizes of two of the angles that appear in it are marked. What is the size, in degrees, of the angle α?
+>
+> A) 18
+> B) 11
+> C) 17,5
+> D) 9
 > E) 16
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_junior_marzo#q15|src_kangourou_2021_junior_marzo__Q15]]
 
 
 
@@ -837,19 +866,22 @@ Number in place of ? with equal sums on the circles*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Members of the first-placed team (boys/girls)*
+*How many members are in the team that set off first?*
 
-> In a team competition, there are five teams waiting to leave. Each team is made up of either boys or girls. The teams are composed of 9, 15, 17, 19 and 21 elements. After the first team leaves, the number of girls who haven't left is three times the number of boys who haven't left. How many members are on the team that left first? A) 9
-> 	
+> In a team race, five teams are waiting to set off. Each team is made up only of boys or only of girls. The teams have 9, 15, 17, 19 and 21 members. After the first team has set off, the number of girls who have not yet set off is three times the number of boys who have not yet set off. How many members are in the team that set off first?
+>
+> A) 9
 > B) 15
-> 	
 > C) 17
-> 	
 > D) 19
-> 	
 > E) 21
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_junior_marzo#q16|src_kangourou_2021_junior_marzo__Q16]]
 
 
 
@@ -903,32 +935,18 @@ Number in place of ? with equal sums on the circles*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of points for overtakes in the race*
+*What is that number?*
 
-> Five cars participated in a race, starting in the order shown below.
-> Each time a car overtook another, it was awarded a point.
-> The cars reached the finish line in the following order:
-> It turns out that the number of points awarded overall was the minimum compatible
-> with this information. What is this number?
-> A) 10	
-	
-> 	
-> B) 9	
-	
-> 	
-> C) 8	
-	
-> 	
-> D) 7	
-	
-> 	
+> Five cars took part in a race, starting in the order shown below. Each time a car overtook another, it was awarded a point. The cars reached the finish in the following order. It turns out that the number of points awarded in all was the least compatible with this information. What is that number?
+>
+> A) 10
+> B) 9
+> C) 8
+> D) 7
 > E) 6
+>
 > 6
 > ?
-> O
-> 67°
-> α
-> 32°
 > IV
 > V
 > I
@@ -939,9 +957,13 @@ Number in place of ? with equal sums on the circles*
 > III
 > V
 > I
->
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_junior_marzo#q17|src_kangourou_2021_junior_marzo__Q17]]
 
 
 
@@ -983,21 +1005,24 @@ Number in place of ? with equal sums on the circles*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Number at the ? in the 3x3 grid after 2x2 moves*
+*What number must stand in place of the question mark?*
 
 ![[src_kangourou_2021_junior_marzo__prob18.png]]
 
-> In each cell of a square grid 3 × 3 the number 0 appears initially. One move is to increase by 1 all the numbers appearing in the four cells of one of the four squares 2 × 2 contained in the grid (e.g. the one shaded in the image on the left). After several moves, the situation is as shown in the image on the right, in which some cells have been covered. What number should be in the place of the question mark? A) 14
-> 	
+> In every cell of a square 3 × 3 grid the number 0 appears at the start. A move consists in increasing by 1 all the numbers in the four cells of one of the four 2 × 2 squares contained in the grid (for example the one shaded in the picture on the left). After several moves, the situation is the one shown in the picture on the right, in which however some cells have been covered. What number must stand in place of the question mark?
+>
+> A) 14
 > B) 15
-> 	
 > C) 16
-> 	
 > D) 17
-> 	
 > E) 19
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_junior_marzo#q18|src_kangourou_2021_junior_marzo__Q18]]
 
 
 
@@ -1028,13 +1053,23 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the six angles shown in image*
+*What is the sum of the sizes in degrees of the six angles?*
 
 ![[src_kangourou_2021_junior_marzo__prob19.png]]
 
-> What is the sum of the six angles measured in degrees shown in the picture? A) 360 B) 900 C) 1080 D) 1120 E) 1440
+> What is the sum of the sizes in degrees of the six angles marked in the picture?
+>
+> A) 360
+> B) 900
+> C) 1080
+> D) 1120
+> E) 1440
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_junior_marzo#q19|src_kangourou_2021_junior_marzo__Q19]]
 
 
 
@@ -1071,13 +1106,25 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of a in the sequence with alternate sums*
+*What is the value of a?*
 
 ![[src_kangourou_2021_junior_marzo__prob20.png]]
 
-> The figure shows a sequence of eight boxes, in the first and last of which the number 2021 appears. Each empty box can be filled with a number so that, for an appropriate number a, the sum of the two numbers in two adjacent boxes is alternately a and a + 1, as shown in the figure. What 's the value of a ? A) 4041 B) 4042 C) 4043 D) 4044 E) 4045 Questions from N. 21 to N. 30 are worth 5 points each.
+> The picture shows a sequence of eight cells, in the first and the last of which the number 2021 appears. It is possible to fill every empty cell with a number so that, for a suitable number a, the sum of the two numbers in two adjacent cells is alternately a and a + 1, as the picture indicates. What is the value of a?
+>
+> A) 4041
+> B) 4042
+> C) 4043
+> D) 4044
+> E) 4045
+>
+> Questions 21 to 30 are worth 5 points each.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_junior_marzo#q20|src_kangourou_2021_junior_marzo__Q20]]
 
 
 
@@ -1111,15 +1158,23 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio between ascending and descending route (scale)*
+*What is the ratio of the length of the way up to the length of the way down?*
 
 ![[src_kangourou_2021_junior_marzo__prob21.png]]
 
-> An ant rises from C to A along the CA side of the triangle and descends from A to B along the stairs, as shown in the figure. What is the ratio between the length of the climb and the length of the descent? A) 1
-> 	
-> B) 1 / 2 C) 1 / 3 D) √2 / 2 E) √3 / 3
+> An ant goes up from C to A along the side CA of the triangle, and comes down from A to B along the steps, as shown in the picture. What is the ratio of the length of the way up to the length of the way down?
+>
+> A) 1
+> B) 1 / 2
+> C) 1 / 3
+> D) √2 / 2
+> E) √3 / 3
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_junior_marzo#q21|src_kangourou_2021_junior_marzo__Q21]]
 
 
 
@@ -1150,13 +1205,22 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of (a+b)(b+c)(c+a) with a+b+c=0 and abc=78*
+*What is the value of (a + b) times (b + c) times (c + a)?*
 
-> The numbers a, b and c are such that a + b + c = 0 and a × b × c = 78. What is the value of (a + b) × (b + c) × (c + a)? A) –156 B) –39 C) 78
-> 	
-> D) 156 E) None of the above.
+> The numbers a, b and c are such that a + b + c = 0 and a × b × c = 78. What is the value of (a + b) × (b + c) × (c + a)?
+>
+> A) –156
+> B) –39
+> C) 78
+> D) 156
+> E) none of the above
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_junior_marzo#q22|src_kangourou_2021_junior_marzo__Q22]]
 
 
 
@@ -1187,15 +1251,21 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of digits of N+2021 with N minimum digit sum of 2021*
+*What is the sum of the digits of N + 2021?*
 
-> Let N be the smallest positive integer whose digit sum (in decimal notation) is 2021. What is the sum of the digits of N + 2021? A) 10
-> 	
-> B) 2024 C) 2026 D) 28
-> 	
+> Let N be the smallest positive integer the sum of whose digits (in decimal notation) is 2021. What is the sum of the digits of N + 2021?
+>
+> A) 10
+> B) 2024
+> C) 2026
+> D) 28
 > E) 2021
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_junior_marzo#q23|src_kangourou_2021_junior_marzo__Q23]]
 
 
 
@@ -1232,24 +1302,16 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which piece of information determines the colour of ball 2021*
+*What follows from the colouring of the 2021 balls?*
 
-> 2021 balls arranged in a row are numbered from 1 to 2021. Each ball is coloured in 
-> one of these four colours: green, red, yellow, blue. In every five consecutive balls there­
-> 18
-> 47
-> 13
-> ?
-> B
-> C
-> A
-> 60°
-> 75°
-> 
-> are exactly one red ball, one yellow ball and one blue ball. After every ball 
-> red, the next one is yellow. Consider the following additional information:
+> 2021 balls in a row are numbered from 1 to 2021. Each ball is coloured in one of these four colours: green, red, yellow, blue. In every run of five consecutive balls there is exactly one red ball, one yellow ball and one blue ball. After every red ball, the next one is yellow. Consider the following further information:
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_junior_marzo#q24|src_kangourou_2021_junior_marzo__Q24]]
 
 
 
@@ -1273,11 +1335,22 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five-digit numbers with digit product 1000*
+*How many of them have digit product equal to 1,000?*
 
-> 25. Consider the positive integers that have five digits in decimal writing. How many of them are such that the product of their digits is equal to 1,000? A) 10 B) 20 C) 30 D) 40 E) 60
+> Consider the positive integers that have five digits in decimal notation. How many of them are such that the product of their digits equals 1,000?
+>
+> A) 10
+> B) 20
+> C) 30
+> D) 40
+> E) 60
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_junior_marzo#q25|src_kangourou_2021_junior_marzo__Q25]]
 
 
 
@@ -1301,11 +1374,22 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Points by Enrico in the play of the written word*
+*How many points did Enrico score?*
 
-> 26. Three boys wrote 10 words each. Each boy, for every word he wrote, gained three points if none of the other boys wrote the same word, gained one point if exactly one of the other boys wrote the same JUNIOR word, no point if the word was also written by the other two. When they compared the three scores they got, they found that they were all different. Paolo had the lowest score, 19 points, while Enrico's score was the highest. How many points did Enrico get? A) 20 B) 21 C) 23 D) 24 E) 25
+> Three boys each wrote 10 words. Each boy, for every word he wrote, scored three points if neither of the other boys wrote the same word, scored one point if exactly one of the other boys wrote the same word, and scored nothing if the word was also written by the other two. When they compared the three scores they had obtained, they found that they were all different from one another. Paolo had obtained the lowest score, 19 points, while Enrico's score was the highest. How many points did Enrico obtain?
+>
+> A) 20
+> B) 21
+> C) 23
+> D) 24
+> E) 25
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_junior_marzo#q26|src_kangourou_2021_junior_marzo__Q26]]
 
 
 
@@ -1330,13 +1414,23 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the large square given the grey triangle*
+*What is the area of the largest square?*
 
 ![[src_kangourou_2021_junior_marzo__prob27.png]]
 
-> 27. The smallest square in the figure has area 16 and the grey triangle has area 1. How much is the area of the largest square? A) 17 B) 18 C) 19 D) 20 E) 21
+> The smallest square in the picture has area 16, and the grey triangle has area 1. What is the area of the largest square?
+>
+> A) 17
+> B) 18
+> C) 19
+> D) 20
+> E) 21
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_junior_marzo#q27|src_kangourou_2021_junior_marzo__Q27]]
 
 
 
@@ -1360,11 +1454,22 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible value of b with a,b squared and a-b prime*
+*Which of the following numbers could be b?*
 
-> 28. Each of the two numbers a and b, a > b, is the square of an integer. The difference a - b is a prime number. Which of the following numbers could be b ? A) 100 B) 144 C) 256 D) 900 E) 10.000 2
+> Each of the two numbers a and b, with a > b, is the square of an integer. The difference a – b is a prime number. Which of the following numbers could be b?
+>
+> A) 100
+> B) 144
+> C) 256
+> D) 900
+> E) 10.000
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_junior_marzo#q28|src_kangourou_2021_junior_marzo__Q28]]
 
 
 
@@ -1390,13 +1495,24 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ways to colour the 4x4 table in black with constraints*
+*In how many different ways can the black cells be placed?*
 
 ![[src_kangourou_2021_junior_marzo__prob29.png]]
 
-> 29. In Table 4 × 4 some cells must be painted black. The numbers to the right of each row and below each column specify how many black cells should be in the respective row or column. In how many different ways can the black cells be placed in compliance with the prescriptions? A) 2 B) 3 C) 4 D) 5 E) In more than five ways.
+> In a 4 × 4 table some cells are to be painted black. The numbers to the right of each row and below each column state how many black cells there must be in that row or column. In how many different ways can the black cells be placed while keeping to the instructions?
+>
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) In more than 5 ways.
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_junior_marzo#q29|src_kangourou_2021_junior_marzo__Q29]]
 
 
 
@@ -1420,8 +1536,19 @@ Number at the ? in the 3x3 grid after 2x2 moves*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum possible weight for the heaviest coin*
+*What is the smallest possible weight of the heaviest coin?*
 
-> 30. Cristina has eight coins whose weights in grams are given by positive integers all different from each other. When Cristina puts any two coins on one of the two pans of a balance and any two coins on the other, the pan containing the heaviest coin of the four coins is always the heavier pan. What is the smallest possible weight for the heaviest coin? A) 8 B) 12 C) 34 D) 128 E) 256 2 0 2 1 2021 Answers JUNIOR C C C C D B E C A A D E E C C E E E A C D E B D D C
+> Cristina has eight coins whose weights in grams are given by positive integers, all different from one another. When Cristina puts any two coins on one pan of a balance and any two coins on the other, the pan that contains the heaviest of the four coins is always the heavier pan. What is the smallest possible weight of the heaviest coin?
+>
+> A) 8
+> B) 12
+> C) 34
+> D) 128
+> E) 256
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_junior_marzo#q30|src_kangourou_2021_junior_marzo__Q30]]

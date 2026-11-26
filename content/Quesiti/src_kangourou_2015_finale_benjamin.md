@@ -34,13 +34,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unadjusted data with opposite sum conditions*
+*Irregular die with opposite faces summing to the same value*
 
-> In a regular die, the sum of the points on two opposite sides is always $7$. Amedeo says that he has constructed an irregular die for which all three of the following facts occur: - there are faces with an odd number of points; - the sum of the points on two opposite faces is $7$ if an odd number of points appears on one of the two faces; - the sum of the points on two opposite faces is $8$ if an even number of points appears on one of the two faces.
-> 
-> Anno doesn't believe him. If you think Amedeo is right, point to one of the dice he may have built; if you think it's good for Anno not to believe him, explain why.
+> On a fair die, the sum of the dots on two opposite faces is always $7$. Amedeo says he has constructed an unfair die for which all of the following three facts hold:
+> - there are faces with an odd number of dots;
+> - the sum of the dots on two opposite faces is $7$ if one of the two faces has an odd number of dots;
+> - the sum of the dots on two opposite faces is $8$ if one of the two faces has an even number of dots.
+>
+> Anno does not believe him. If you think Amedeo is right, indicate one of the dice he could have constructed; if you think Anno is right not to believe him, explain why.
 
-**Answer:** Anna is right
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_finale_benjamin#qb1|src_kangourou_2015_finale_benjamin__QB1]]
 
 
 
@@ -63,11 +70,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*first or second?*
+*First or second?*
 
-> Sandro and Paolo play the following game: there are $8$ tokens on the table; you play in turns and, when it's your turn, you can take $1$, $2$ or $3$ tokens; the last one who manages to take some tokens wins. Sandro wants to win at any cost. Should he play first or let Paolo start?
+> Sandro and Paolo play the following game: there are $8$ tokens on the table; they take turns, and when it is one's turn, one can remove $1$, $2$, or $3$ tokens; the last person to manage to take some tokens wins. Sandro wants to win at all costs: should he play first, or should he let Paolo start?
 
-**Answer:** second (Paolo starts)
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_finale_benjamin#qb2|src_kangourou_2015_finale_benjamin__QB2]]
 
 
 
@@ -92,13 +103,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*train crossing conditions*
+*Conditions for train crossings*
 
 ![[src_kangourou_2015_finale_benjamin__probb3.png]]
 
-> Kang is a station on a single track line. In the figure you can see the pattern of Kang's tracks, each of which is indicated in length: the running track is the upper one, while the lower track starts and ends with two dead-end sidings. All trains running on the line are made up of a locomotive, which is at the head, and some carriages: the length of each locomotive and carriage is $19$ meters. What are the least restrictive conditions to be imposed on the composition of two trains in order to cross at Kang? Please note that all types of maneuvering (especially trains can turn backwards) and signalling compatible with the station layout are permitted, including the breaking of trains into carriage groups. (see figure)
+> Kang is a station on a single-track line. In the figure, you can see the track layout at Kang, with the length of each track indicated: the running track is the upper one, while the lower track begins and ends with two "dead" sections. All trains operating on the line consist of a locomotive at the front and several carriages; the length of each locomotive and each carriage is $19$ metres. What are the least restrictive conditions to impose on the composition of two trains so that they can pass each other at Kang? Bear in mind that any type of shunting maneuver (in particular, trains may reverse) and any signaling arrangement compatible with the station layout are permitted, including splitting the trains into groups of carriages. (see figure)
 
-**Answer:** max 13 carriages
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_finale_benjamin#qb3|src_kangourou_2015_finale_benjamin__QB3]]
 
 
 
@@ -123,13 +138,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*measure of angle ABC*
+*Measure angle ABC*
 
 ![[src_kangourou_2015_finale_benjamin__probb4.png]]
 
-> The figure shows two equal squares that have exactly one vertex in common. Is it possible to determine the measure of angle $ABC$? (see figure)
+> The figure shows two equal squares that share exactly one vertex. Is it possible to specify the measure of angle $ABC$? (see figure)
 
-**Answer:** 45 degrees
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_finale_benjamin#qb4|src_kangourou_2015_finale_benjamin__QB4]]
 
 
 
@@ -153,11 +172,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many times the last one in an hour*
+*How many times is the last one in an hour?*
 
-> $51$ crows are lined up on a suspended electric wire. When (and only when) one of them caws, its right-hand neighbor and its left-hand neighbor (or only one of the two, in the case where the crow is at one of the two ends) take flight and after exactly one minute return to the place where they were and caw in turn. The first crow in the row starts cawing. After exactly one hour from this first caw, how many times will the last crow have cawed?
+> $51$ Crows are lined up on a suspended power line. When (and only when) one of them caws, its right-hand neighbor and its left-hand neighbor (or only one of the two, if the crow is at one of the two ends) take flight and, exactly one minute later, return to the spot where they were and caw in turn. The first crow in the row starts to caw. Exactly one hour after this first caw, how many times will the last crow have cawed?
 
-**Answer:** 6
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_finale_benjamin#qb5|src_kangourou_2015_finale_benjamin__QB5]]
 
 
 
@@ -183,10 +207,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of making N+1 kang >Mode for N kang*
+*Ways to implement N+1 kang > ways for N kang*
 
-> In Kangland, the currency in use is the kang and there are only $1$, $2$ or $3$ kang coins. Obviously, with coins like these, you can make any amount of an integer kang. First, it shows that for each positive integer $N$, the different possible ways of achieving the amount of $N+1$ kang are in no less number than the different possible ways of achieving the amount of $N$ kang. It therefore shows that, in fact, the former always outnumber the latter.
-> 
-> (Note: to obtain, for example, $4$ kang, the $1+1+2$ mode must be considered the same as the $1+2+1$ mode, but not the $2+2$ mode.)
+> In Kanglandia, the currency in use is the kang, and there are only coins worth $1$, $2$, or $3$ kang. Obviously, with coins like these, any amount that is a whole number of kangs can be made up. First, prove that, for every positive integer $N$, the number of different ways of making up the amount of $N+1$ kang is not less than the number of different ways of making up the amount of $N$ kang. Then prove that, in fact, the former is always strictly greater than the latter in number.
+>
+> (Note: to obtain, for example, $4$ kang, the way $1+1+2$ must be regarded as equal to the way $1+2+1$, but not as equal to the way $2+2$.)
 
-**Answer:** proof
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_finale_benjamin#qb6|src_kangourou_2015_finale_benjamin__QB6]]

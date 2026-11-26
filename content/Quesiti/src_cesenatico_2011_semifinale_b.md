@@ -35,11 +35,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*height*
+*Height, in millimetres, of the irregular tetrahedron ABCD relative to ABC, after a cut parallel to ABD leaving a piece of height 5.33 m*
 
-> During an adventure in Egypt, Borelix unwittingly breaks the nose of the famous Sphinx. The nose, now on the ground, is an irregular ABCD tetrahedron resting on the face of the ABC. Borelix, throwing a Roman, breaks the nose further along a plane parallel to ABD by dividing it into two pieces of which the one containing the C vertex has a volume that, once decreased by 27.2%, becomes equal to that of the other piece. Knowing that the height (relative to the ground) of the piece containing top C is 5.33m, how many millimetres did you measure the height of ABCD relative to ABC?
+> Going for the nose
+> During an adventure in Egypt, Borelix unintentionally breaks the nose of the famous Sphinx. The nose, now on the ground, is an irregular tetrahedron ABCD resting on the face ABC. Borelix, by throwing a Roman, breaks the nose further along a plane parallel to ABD, dividing it into two pieces, of which the one containing the vertex C has a volume which, once decreased by 27.2%, becomes equal to that of the other piece.
+> Knowing that the height (above the ground) of the piece containing the vertex C measures 5.33 m, how many millimetres was the height of ABCD relative to ABC?
 
-**Answer:** 6396
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_b#q01|src_cesenatico_2011_semifinale_b__Q01]]
 
 
 
@@ -67,11 +72,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-A, b, c, d with abcd = 40! e ab=n!*
+*N/1024, where N is the number of ordered quadruples with a/b and c/d in lowest terms, abcd = 40! and ab = n! for 15 < n < 25*
 
-> The Roman scientist Novotonus, who traveled with Julius Caesar's troops, wants to steal some cards with revolutionary mathematical ideas from his rival, Leibnix, who has put them in a safe deposit box. This is opened by inserting four positive integers a, b, c, d, such that a/b and c/d are two irreducible fractions with abcd = 40! e ab = n! where 15 < n < 25. Whether N is the number of four orders that satisfy the conditions, how much does N/1024 do?
+> An academic dispute
+> The Roman scientist Novotonus, who travels with Julius Caesar's troops, wants to steal from his Gaulish rival Leibnix some papers containing revolutionary mathematical ideas, which the latter has locked in a safe. The safe opens on entering four positive integers a, b, c, d such that a/b and c/d are two fractions in lowest terms, with abcd = 40! and ab = n! where 15 < n < 25. Let N be the number of ordered quadruples that satisfy the conditions. What is N/1024?
 
-**Answer:** 7424
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_b#q02|src_cesenatico_2011_semifinale_b__Q02]]
 
 
 
@@ -99,11 +109,16 @@ A, b, c, d with abcd = 40! e ab=n!*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gems at the 127-acre rope junction points*
+*How many gems are needed at the interior crossings of the gold threads joining vertices 61 apart on a regular 127-gon*
 
-> Trivial jewellery Julius Caesar wishes to give a precious jewel to the furious Cleopatra to obtain her forgiveness. The monolith is made by taking the vertices of a regular 127-agon on a circumference and connecting with gold wires the vertices that are 61 vertices apart from each other (two adjacent vertices distant 1). Knowing that at every point within the circumference where these threads meet Julius Caesar wants to lay a precious stone, how many gems will he need?
+> Banal costume jewellery
+> Julius Caesar wishes to give a precious jewel to the furious Cleopatra, to obtain her pardon. The ornament is made by taking the vertices of a regular 127-gon on a circle and joining with gold threads the vertices that are 61 vertices apart (two adjacent vertices are distance 1 apart). Knowing that at every point inside the circle where these threads meet, Julius Caesar wants to set a precious stone, how many gems will he need?
 
-**Answer:** 7620
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_b#q03|src_cesenatico_2011_semifinale_b__Q03]]
 
 
 
@@ -137,11 +152,22 @@ A, b, c, d with abcd = 40! e ab=n!*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Druids and impellers (multiple of 3 impellers)*
+*For each of the first four suspects, 1 if a druid, 2 if an impostor, 0 if not uniquely determined; A speaks of the number of impostors*
 
-> A rigorous interrogation Gathered together a group of 5 self-styled druids, Arcidruid listens to them one by one to determine if there are impostors infiltrated by the Romans. All the suspects know who the druids are and who the impostors are. Druids always tell the truth, impostors always lie. The five suspects make the following statements: A: The number of impostors present is a multiple of 3. B: There's only one impostor among us. C: A and B are both druids. D: Me and A are not impostors. E: D is lying. In the answer, use the numbers from left to right to indicate what you can say about each of the first 4 individuals: 1 if it's a druid, 2 if it's an impostor, 0 if it can't be determined uniquely.
+> A searching interrogation
+> Having gathered a group of 5 self-styled druids, the Archdruid listens to them one after another, to see whether there are impostors infiltrated by the Romans. All the suspects know who the druids are and who the impostors are. The druids always tell the truth; the impostors always lie. The 5 suspects make the following statements:
+> A: The number of impostors present is a multiple of 3.
+> B: There is only one impostor among us.
+> C: A and B are both druids.
+> D: A and I are not impostors.
+> E: D is lying.
+> In the answer, use the digits from left to right to indicate what can be said of each of the first 4 individuals: 1 if he is a druid, 2 if he is an impostor, 0 if it cannot be uniquely determined.
 
-**Answer:** 0220
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_b#q04|src_cesenatico_2011_semifinale_b__Q04]]
 
 
 
@@ -169,11 +195,16 @@ A, b, c, d with abcd = 40! e ab=n!*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AEFG quadrilateral area with mean points*
+*Area of quadrilateral AEFG after the right-angled site ABC, with AB = 144 and AC = 221, is extended to BCD with CD = 256*
 
-> Great works The site for the construction of the monument to Cleopatra was until yesterday an ABC triangle in A with AB = 144 and AC = 221. Today the work area has been extended to a BCD triangle, with D on the AB extension such that CD = 256. Within the enlarged site, the monument will stand on the surface of the AEFG quadrilateral, with E, F, G mean points of DB, BC, CD. What is the area of this quadrilateral?
+> Great works
+> Until yesterday the building site for the monument to Cleopatra was a triangle ABC, right-angled at A, with AB = 144 and AC = 221. Today the area of the works has been extended to a triangle BCD, with D on the extension of AB such that CD = 256. Inside the enlarged site, the monument will stand on the surface of the quadrilateral AEFG, with E, F and G the midpoints of DB, BC and CD. What is the area of this quadrilateral?
 
-**Answer:** 7956
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_b#q05|src_cesenatico_2011_semifinale_b__Q05]]
 
 
 
@@ -208,13 +239,18 @@ A, b, c, d with abcd = 40! e ab=n!*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Line up 9 soldiers with close sums multiple of 3
+*Ways to line up 9 soldiers so that the sum of the experiences of any two neighbours is a multiple of 3*
 
-> You're not going through! Defense is one of the strengths of the Roman army. To organize a line of defense the commander of the legion aligns the soldiers based on their experience in the field. Each soldier's experience is quantified by an integer between 1 and 40. Julius Caesar is an expert in organizing the lines of defence and uses a secret technique that guarantees him a certain success: an effective line of defence is composed of soldiers aligned so that the sum of the experiences of two soldiers between each other is always multiple by 3. In attacking Gaul, Julius Caesar has soldiers with the following experiences: 4, 10, 11, 14, 16, 23, 25, 32, 34. How many ways can Julius Caesar organize an effective line of defense that uses all nine soldiers available? Team competition 2011  Semifinal B  Problem tests  1/1
-> 
-> 2/1 Team competition 2011  Semifinal B  Problem tests
+> You shall not pass!
+> Defence is one of the strong points of the Roman army. To organise a line of defence, the legion's commander lines the soldiers up according to their experience in the field. Each soldier's experience is quantified by an integer between 1 and 40.
+> Julius Caesar is an expert at organising lines of defence, and he uses a secret technique that guarantees him success: an effective line of defence consists of soldiers lined up so that the sum of the experiences of two soldiers who are neighbours is always a multiple of 3.
+> In attacking Gaul, Julius Caesar has soldiers with the following experiences: 4, 10, 11, 14, 16, 23, 25, 32, 34. In how many ways can Julius Caesar organise an effective line of defence that uses all 9 soldiers at his disposal?
 
-**Answer:** 2880
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_b#q06|src_cesenatico_2011_semifinale_b__Q06]]
 
 
 
@@ -242,11 +278,16 @@ Line up 9 soldiers with close sums multiple of 3
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following information is provided by the manufacturer:
+*First 4 decimal digits of q/r, where q and r are the probabilities that 7 divides 10n +1 and 10n −1, for n chosen from 0 to 2011*
 
-> A safe haven At the suggestion of his druid-spy, Dimostropercertus orders the Romans to close all the gates. Abelix and his companions decide to go at random to find an uncontrolled harbor where to dock. They randomly choose a natural n between 0 and 2011, and call q the probability that 7 will be 10n +1 and the probability that 7 will be 10n −1. Indicate the first four decimal places of the q/r quotient as a result.
+> A safe refuge
+> On the advice of his spy-druid, Dimostropercertus orders every port in Roman hands to be closed. Abelix and his companions decide to go at random, to find an uncontrolled port at which to dock. They choose at random a natural number n between 0 and 2011, and call q the probability that 7|10n +1 and r the probability that 7|10n −1. Give as the result the first 4 decimal digits of the quotient q/r.
 
-**Answer:** 9970
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_b#q07|src_cesenatico_2011_semifinale_b__Q07]]
 
 
 
@@ -275,11 +316,16 @@ The following information is provided by the manufacturer:
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who's telling the truth
+*How many diners at a circular table of 4605 seats actually told the truth*
 
-> The Emperor's Table is a huge round table, the largest in the world, with a beauty of 4605 seats. Only once did he happen to see him completely occupied: it is said that that day each of the diners made a comment on the two he had in front of him (the two sitting next to the point of the table diametrically opposite his). In particular, each said that of the two in front only one always told the truth, and the other always lied. Considering that at least one of them was sincere, how many of them were actually telling the truth?
+> Appetite comes with eating
+> The emperor's table is an enormous circular table, the largest in the world, with fully 4605 seats. Only once was it seen completely full: it is said that on that day each diner made a remark about the two opposite him (the two seated next to the point of the table diametrically opposite his own). In particular, each said that of the two in front, only one always told the truth, and the other always lied. Taking into account that at least one of them was sincere, how many of them did in fact tell the truth?
 
-**Answer:** 3070
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_b#q08|src_cesenatico_2011_semifinale_b__Q08]]
 
 
 
@@ -309,11 +355,16 @@ Who's telling the truth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*decode numbers*
+*How many soldiers Caesar asked for in all, in a message enciphered by a fixed shift of the alphabet*
 
-> An order that cannot be disobeyed. Abelix and Borelix intercepted a message from Julius Caesar himself and intended for one of his lieutenants. The message reads: You must send DYYJY platoons of soldiers, each platoon must be formed by MYJW soldiers to be arranged in a square texture with WJJJ soldiers on the side. Furthermore, I need other NDEYMWJJ soldiers to make me a personal guard. Abelix scrutinizes the message and observes doubtful: The Romans usually use other funny letters instead of numbers, type XVIII, XLIV and stuff like that. That they changed letters? but then immediately exclaims:But of course! Julius Caesar used his usual method and changed the letters simply by moving a fixed number in alphabetical order! How many soldiers did Julius Caesar ask for?
+> An order one cannot disobey
+> Abelix and Borelix have intercepted a message from Julius Caesar himself, addressed to one of his lieutenants.
+> The message reads: "You must send DYYJY platoons of soldiers; each platoon must consist of MYJW soldiers, to be arranged in a square testudo with WJJJ soldiers to a side; moreover I need another NDEYMWJJ soldiers to serve as my personal guard." Abelix scans the message and remarks, doubtfully: "The Romans usually use other odd letters in place of numbers, things like XVIII, XLIV and so on. Have they changed the letters?" but then he immediately exclaims: "Of course! Julius Caesar has used his usual method, and has changed the letters simply by shifting a fixed number of places in alphabetical order!" How many soldiers did Julius Caesar ask for in all?
 
-**Answer:** 9703
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the wording]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_b#q09|src_cesenatico_2011_semifinale_b__Q09]]
 
 
 
@@ -341,11 +392,16 @@ Who's telling the truth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum stamps of 255 and 210 for 7050*
+*Least number of 255 and 210 Bronze Gallini stamps to make 7050; the answer packs the two counts into four digits*
 
-> Romantic expedition Borelix wants to send a menhir d'amour to his beloved Alfablà, and must free him with 7050 Chickens of Bronze, the currency of their village. Unfortunately, he only has stamps from 255 and 210 Bronzo Chickens. How many stamps will you have to use Borelix? In the answer, use the two left digits for the number of stamps 255 and the two right digits for the number of stamps 210 corresponding to the minimum sum solution.
+> A romantic dispatch
+> Borelix wants to send a love menhir to his beloved Alfablà, and he must frank it with 7050 Bronze Gallini, the coin of their village. Unfortunately he has only stamps of 255 and of 210 Bronze Gallini. What is the least number of stamps Borelix will have to use? In the answer, use the two digits on the left for the number of 255 stamps and the two digits on the right for the number of 210 stamps, corresponding to the solution of minimum sum.
 
-**Answer:** 2602
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_b#q10|src_cesenatico_2011_semifinale_b__Q10]]
 
 
 
@@ -372,11 +428,16 @@ Who's telling the truth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integres with different squares = square of first*
+*Grams of druid's beard equal to the sum of the integers n from 2011 to 3011 for which the difference of the squares of n and of its successor is the square of a prime*
 
-> To prepare a new potion, the druid Parabolix must mix with the other ingredients a number of grams of druid beard equal to the sum of all n integers between 2011 and 3011 so that the difference between the square of the next n and the square of n is a perfect square of a prime number. How many grams of beard does he have to add?
+> Hairs in the soup
+> To prepare a new potion, the druid Parabolix must mix in with the other ingredients a number of grams of druid's beard equal to the sum of all the integers n between 2011 and 3011 inclusive for which the difference between the square of the successor of n and the square of n is a perfect square of a prime number. How many grams of beard must he add?
 
-**Answer:** 7428
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_b#q11|src_cesenatico_2011_semifinale_b__Q11]]
 
 
 
@@ -402,11 +463,15 @@ Who's telling the truth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Convert 111111111 from base 9 to base 10*
+*Last 4 digits of the number Parabolix wrote when he translated 111111111, nine digits, from base 9*
 
-> A complex translation The Parabolix druid is one of the few able to read the language of the ancient Gauls. One day, while translating one of their scrolls, he noticed in the original text the number 111111111 (which consisted of nine digits); however, he knew that their numbering system was based on 9. When he completed the translation, what number did he write? (Include the last 4 digits)
+> A complex translation
+> The druid Parabolix is one of the few able to read the language of the ancient Gauls. One day, translating one of their parchments, he noticed in the original text the number 111111111 (made up of nine digits); he knew, however, that their system of numeration was in base 9. When he finished the translation, what number did he write? (Give the last 4 digits.)
 
-**Answer:** 7561
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_b#q12|src_cesenatico_2011_semifinale_b__Q12]]
 
 
 
@@ -436,11 +501,16 @@ Who's telling the truth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*fourth number (decreasing)*
+*The lock combination is the fourth number of this type, written from greatest to least*
 
-> A rapture with multiple consequences Shortly before being kidnapped by the goats, Parabolix had stored potions received from the other druids in a locked box, the combination of which is a number between 0000 and 9999. Euleric, the most cunning of the Raptor Goths, discovered that this number can be obtained as follows: They are written on a line 4 integers greater than 1, different from each other. In the next row, the 3 products of the previous number pairs are written (the first with the second, the second with the third and the third with the fourth). In the next line, repeat the procedure, writing two products. Multiplying these two, you get the result. If you write in order from major to minor all the numbers of this kind, the fourth is the right combination.
+> A kidnapping with many consequences
+> Shortly before being kidnapped by the Goths, Parabolix had put away the potions received from the other druids in a chest closed with a padlock, whose combination is a number between 0000 and 9999. The shrewdest of the kidnapping Goths, Euleric, has discovered that this number can be obtained in the following way: one writes in a row 4 integers greater than 1, distinct from one another. In the next row one writes the 3 products of the pairs of the preceding numbers (the first with the second, the second with the third, and the third with the fourth). In the next row one repeats the procedure, writing two products. Multiplying these two, one obtains the result. Writing in order, from greatest to least, all numbers of this type, the fourth is the right combination.
 
-**Answer:** 9072
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_b#q13|src_cesenatico_2011_semifinale_b__Q13]]
 
 
 
@@ -466,12 +536,16 @@ Who's telling the truth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of integer solutions to |x| + 2|y| = 4900*
+*Number of integer solutions of |x|+2|y| = 4900*
 
-> Starry Banquet
-> Another adventure has ended, and inevitably the village gathers for the traditional banquet. The number of boars gobbled up by our ravenous Gallic friends equals the number of integer solutions to |x| + 2|y| = 4900. How many pigs were required?
+> A banquet under the stars
+> Another adventure is over, and as always the village gathers for the traditional banquet. The number of wild boar gobbled up by our voracious Gaulish friends is equal to the number of integer solutions of |x|+2|y| = 4900. How many swine were needed?
 
-**Answer:** 9800
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_b#q14|src_cesenatico_2011_semifinale_b__Q14]]
 
 
 
@@ -500,11 +574,17 @@ Who's telling the truth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the village search square*
+*Area, in square miles, of the square whose vertices are the vertices of the region where the village can lie; the search square has side 35 miles and the Gauls stay within 35 miles*
 
-> A vain search by Julius Caesar searches the village of the Gauls and has narrowed his search area to a square of 35 miles on the side. His soldiers have been attacked every time in the midpoints of the sides of the square. Thanks to informant Ficcanasus, Julius Caesar was able to discover that the Gauls never moved more than 35 miles from the village when attacking. Then draw the area where the village can be found on the map and order his soldiers to look in the square that has as its vertices the vertices of the drawn area. How much is the area of the square in square miles?
+> A vain search
+> Julius Caesar is looking for the Gauls' village, and he has narrowed his search area to a square of side 35 miles. His soldiers have been attacked each time at the midpoints of the sides of the square. Thanks to the informer Ficcanasus, Julius Caesar has managed to discover that the Gauls never go more than 35 miles from the village when they attack. He then draws on the map the area in which the village can lie, and orders his soldiers to search in the square that has as its vertices the vertices of the zone he has drawn.
+> What is the area of that square, in square miles?
 
-**Answer:** 0829
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_b#q15|src_cesenatico_2011_semifinale_b__Q15]]
 
 
 
@@ -538,10 +618,13 @@ Who's telling the truth
 <div class="qlang-split" data-lang="en"></div>
 
 
-Other, of a kind used in the manufacture of bicycles and bicycles
+*How many triangular tiles, longer leg 2 cleopassi, are needed to cover the four lateral faces of a square pyramid of volume 6912 cubic cleopassi*
 
-> In future memory Egyptian architect Numerotris built a square-base pyramid with a volume of 6912 cubic cleopasses. The height of the pyramid is half the height of the triangles that make up the side faces of the pyramid. The side walls of the pyramid must be covered with triangular bricks, which have a major diameter of 2 cleopasses and which are similar to one or the other of the two rectangular triangles in which each face of the pyramid is divided by its apotheosis. How many bricks does Borelix have to carry so Numerotris can cover the four side faces of the pyramid?
-> 
-> This year's event is the 12th National Team A Semifinal B. The problem
+> For the record
+> The Egyptian architect Numerotris has built a pyramid with square base, of volume 6912 cubic cleopassi. The height of the pyramid is equal to half the height of the triangles that form the lateral faces of the pyramid. The lateral walls of the pyramid must be covered with triangular tiles, whose longer leg is 2 cleopassi long, and which are similar to one or the other of the two right triangles into which each face of the pyramid is divided by its apothem.
+> How many tiles will Borelix have to bring, so that Numerotris can cover the 4 lateral faces of the pyramid?
 
-**Answer:** 1152
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2011_semifinale_b#q16|src_cesenatico_2011_semifinale_b__Q16]]

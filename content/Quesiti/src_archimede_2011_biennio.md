@@ -37,17 +37,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Six-digit numbers with 1-6 divisible by 1-6*
+*Six-digit numbers from the digits 1–6 divisible by 1 through 6*
 
-> How many are the six-digit numbers, made up of the digits 1, 2, 3, 4, 5, 6, divisible by 1, 2, 3, 4, 5, 6?
+> How many 6-digit numbers, formed from the digits 1, 2, 3, 4, 5, 6, are divisible by 1, 2, 3, 4, 5, 6?
 >
-> - **(A)** No one.
+> - **(A)** none,
 > - **(B)** 1,
 > - **(C)** 18,
 > - **(D)** 120,
 > - **(E)** 360.
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2011_biennio#q01|src_archimede_2011_biennio__Q01]]
 
 
 
@@ -78,17 +81,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rewards for a Baiocco from exchange chains*
+*What three rectangles on an acute triangle certainly share*
 
-> Let ABC be a triangle with an acute angle. We build a rectangle that has a side that matches AB and contains the point C on the side opposite AB. We do the same construction starting from the BC side and the CA side, so we get three rectangles. So surely the three rectangles have:
+> Let ABC be an acute triangle. We construct a rectangle that has one side coinciding with AB and contains the point C on the side opposite AB. We make the same construction starting from side BC and from side CA, thus obtaining three rectangles. Then the three rectangles certainly have:
 >
 > - **(A)** equal perimeters,
 > - **(B)** equal areas,
-> - **(C)** the sum of the lengths of the same diagonals,
-> - **(D)** equal ratio between the major and minor sides,
-> - **(E)** None of the above statements are certainly true.
+> - **(C)** equal sums of the lengths of the diagonals,
+> - **(D)** the same ratio of the longer side to the shorter side,
+> - **(E)** none of the previous statements is certainly true.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2011_biennio#q02|src_archimede_2011_biennio__Q02]]
 
 
 
@@ -126,9 +132,7 @@ level: biennio
 
 *Common property of the three rectangles on a triangle*
 
-![[src_archimede_2011_biennio__prob3.png]]
-
-> On each vertex of an octagonal base pyramid is written a number, which can be 1, 2 or 3, so that for each face (including the base) the sum of the numbers written on its vertices is divisible by three. Knowing that not all numbers are equal to 3, what is the sum of all numbers written on the vertices worth?
+> On each vertex of an octagonal pyramid a number is written, which can be 1, 2 or 3, in such a way that for every face (including the base) the sum of the numbers written on its vertices is divisible by three. Knowing that the numbers are not all equal to 3, what is the sum of all the numbers written on the vertices?
 >
 > - **(A)** 12,
 > - **(B)** 14,
@@ -136,7 +140,11 @@ level: biennio
 > - **(D)** 18,
 > - **(E)** 21.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2011_biennio#q03|src_archimede_2011_biennio__Q03]]
 
 
 
@@ -166,9 +174,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Whole ordered pairs with product 15*
+*Integer ordered pairs with product 15*
 
-> m and n are two positive integers, such that m −n = 7. How many values between 0 and 2011 (extremes included) can be assumed from m + 5n?
+> m and n are two positive integers such that m − n = 7. How many values between 0 and 2011 (inclusive) can be taken by m + 5n?
 >
 > - **(A)** 6,
 > - **(B)** 334,
@@ -176,7 +184,10 @@ level: biennio
 > - **(D)** 1005,
 > - **(E)** 2012.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2011_biennio#q04|src_archimede_2011_biennio__Q04]]
 
 
 
@@ -211,9 +222,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of vertex numbers of square pyramid with div faces for 3*
+*Sum of the numbers at the vertices of a square pyramid with faces divisible by 3*
 
-> At the Grand Dinner of the Olympics, held each year during the Cesenatic event, there are various first and various second plates. Last year there were 60 ways to choose a meal (i.e. a first and a second). This year, the first ones will be added, and there will be 68 ways to choose a meal. How many firsts were there last year at least? [In choosing a meal you can match any prime to any second.]
+> At the Great Dinner of the Olympics, which is held every year during the Cesenatico event, there are various first courses and various second courses. Last year there were 60 ways to choose a meal (that is, a first and a second). This year some first courses will be added, and there will be 68 ways to choose a meal. How many first courses were there, at minimum, last year? [When choosing a meal, any first course may be paired with any second course.]
 >
 > - **(A)** 4,
 > - **(B)** 8,
@@ -221,7 +232,11 @@ level: biennio
 > - **(D)** 12,
 > - **(E)** 15.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2011_biennio#q05|src_archimede_2011_biennio__Q05]]
 
 
 
@@ -253,9 +268,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lesser parallelogram diagonal with sides and angles given*
+*Shorter diagonal of a parallelogram with given sides and angle*
 
-> In the ABCD parallelogram shown, the BD segment is perpendicular to AB and E and F are the mean points of AB and CD respectively. Calculate the area of the GEHF quadrilateral, knowing that AB = 5 cm and BD = 2 cm.
+> In the parallelogram ABCD in the figure, segment BD is perpendicular to AB and E and F are the midpoints of AB and CD respectively. Calculate the area of quadrilateral GEHF, knowing that AB = 5 cm and BD = 2 cm.
 >
 > - **(A)** 15 8 cm2,
 > - **(B)** 2 cm2,
@@ -263,7 +278,11 @@ level: biennio
 > - **(D)** 5 2 cm2,
 > - **(E)** 3 cm2.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2011_biennio#q06|src_archimede_2011_biennio__Q06]]
 
 
 
@@ -297,9 +316,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum prime number with 60 and 68 meal combinations*
+*Minimum number of primes with 60 and 68 meal pairings*
 
-> A number is called a palindrome if the sequence of its digits does not change whether it is read from left to right or from right to left; for example 36563 is a palindrome. How many five-digit palindrome numbers are such that the sum of their digits is equal?
+> A number is called a palindrome if its sequence of digits does not change whether read from left to right or from right to left; for example, 36563 is a palindrome.
+> How many 5-digit palindromic numbers are there such that the sum of their digits is even?
 >
 > - **(A)** 450,
 > - **(B)** 550,
@@ -307,7 +327,11 @@ level: biennio
 > - **(D)** 900,
 > - **(E)** 1000.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2011_biennio#q07|src_archimede_2011_biennio__Q07]]
 
 
 
@@ -340,9 +364,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First position four digits in the sequence*
+*Position of the first four-digit number in the sequence*
 
-> Gabriella writes a sequence of 10 numbers (possibly negative), so that each number in the sequence, from the third to the next, is the sum of the two preceding it. The first number in the sequence is 34 while the last is 0. What is the sum of all the succession numbers?
+> Gabriella writes a sequence of 10 numbers (possibly negative), so that each number in the sequence, from the third onward, is the sum of the two that precede it. The first number of the sequence is 34 while the last is 0. What is the sum of all the numbers in the sequence?
 >
 > - **(A)** −34,
 > - **(B)** 0,
@@ -350,7 +374,11 @@ level: biennio
 > - **(D)** 68,
 > - **(E)** 88.
 
-**Answer:** C
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2011_biennio#q08|src_archimede_2011_biennio__Q08]]
 
 
 
@@ -383,11 +411,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real area of GEHF in parallelogram*
+*Area of quadrilateral GEHF in a parallelogram*
 
-![[src_archimede_2011_biennio__prob9.png]]
-
-> The mean widths of the interior angles of a polygon is 175°. How many sides does the polygon have?
+> The mean of the measures of the interior angles of a polygon is 175°. How many sides does the polygon have?
 >
 > - **(A)** 18,
 > - **(B)** 25,
@@ -395,7 +421,10 @@ level: biennio
 > - **(D)** 72,
 > - **(E)** 80.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2011_biennio#q09|src_archimede_2011_biennio__Q09]]
 
 
 
@@ -426,17 +455,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five-digit palindrome numbers with a sum of equal numbers*
+*How many x can satisfy ax+b = bx+c = cx+a*
 
-> A, b, and c are three real numbers, all different from each other. For how many real numbers x, at most, can the equations be: ax + b = bx + c = cx + a?
+> a, b and c are three real numbers, all different from one another. For how many real numbers x, at most, can the equalities ax + b = bx + c = cx + a hold?
 >
-> - **(A)** No one.
+> - **(A)** none,
 > - **(B)** 1,
 > - **(C)** 3,
 > - **(D)** 4,
-> - **(E)** At least five.
+> - **(E)** at least 5.
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2011_biennio#q10|src_archimede_2011_biennio__Q10]]
 
 
 
@@ -474,11 +506,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fibonacci sequence sum with first 34 last 0*
+*Sum of a Fibonacci-type sequence with first term 34 and last term 0*
 
-> A kangaroo and a frog initially find themselves on the same top of a regular 41-sided polygon, and they begin to jump. The frog always jumps from one vertex to the adjacent one, in an anti-clockwise direction, while the kangaroo jumps from the vertex where it is to the one where the frog is. The jump sequence is this: the frog makes a jump.
->
-> The frog makes two jumps, the kangaroo makes one jump, the frog makes three jumps, the kangaroo makes one jump, and so on. After the kangaroo has made 40 jumps, how many times has it returned to the summit?
+> A kangaroo and a frog initially find themselves on the same vertex of a regular polygon with 41 sides, and they begin making jumps. The frog always jumps from one vertex to the adjacent one, in the counterclockwise direction, while the kangaroo jumps from the vertex it is on to the one where the frog is. The sequence of jumps is this: the frog makes one jump, the kangaroo makes one jump; the frog makes two jumps, the kangaroo makes one jump; the frog makes three jumps, the kangaroo makes one jump, and so on. After the kangaroo has made 40 jumps, how many times has it returned to the starting vertex?
 >
 > - **(A)** 0,
 > - **(B)** 1,
@@ -486,7 +516,11 @@ level: biennio
 > - **(D)** 3,
 > - **(E)** 4.
 
-**Answer:** C
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2011_biennio#q11|src_archimede_2011_biennio__Q11]]
 
 
 
@@ -520,19 +554,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-sided area comprising five coins*
+*How many nice pairs of natural numbers there are*
 
-![[src_archimede_2011_biennio__prob12.png]]
-
-> Let's say a pair of natural numbers (a, b) is nice if you choose a pair of natural numbers (c, d) that ab = cd, so a + b = c + d. How many beautiful couples are there?
+> We say that a pair of natural numbers (a, b) is nice if, however one chooses a pair of natural numbers (c, d) such that ab = cd, one has a + b = c + d. How many nice pairs are there?
 >
-> - **(A)** None of them.
-> - **(B)** One of them.
+> - **(A)** none,
+> - **(B)** one,
 > - **(C)** five,
 > - **(D)** seven,
-> - **(E)** More than eight.
+> - **(E)** more than eight.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2011_biennio#q12|src_archimede_2011_biennio__Q12]]
 
 
 
@@ -565,17 +601,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True statement on captain with only one truth*
+*Possible final digits after squaring and adding 5*
 
-> Marta wrote an even integer on the board. For 12 times Marta replaces the number written on the board with her square increased by 5. With what digits can the number found written on the board at the end of Martha's calculations end?
+> Marta wrote an even integer on the blackboard. 12 times, Marta replaces the number on the blackboard with its square increased by 5. With which digits can the number on the blackboard end after Marta's calculations?
 >
 > - **(A)** 0 or 4,
 > - **(B)** 0, 4 or 6,
 > - **(C)** 0 or 6,
 > - **(D)** 4 or 6,
-> - **(E)** It can end in any number.
+> - **(E)** it can end with any even digit.
 
-**Answer:** A
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2011_biennio#q13|src_archimede_2011_biennio__Q13]]
 
 
 
@@ -609,17 +649,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values of the cubic identity a/b ratio*
+*What can be said about integers written on a chessboard*
 
-> Each box on a chessboard of 8 rows for 8 columns has an integer number written. The rows and columns of the chessboard are numbered from 1 to 8, and the box in row 1 and column 1 is black. The sum of the numbers written in the white box is 28, while the sum of the numbers written in the odd columns is 47. If we change the sign to all the numbers in the white boxes, what becomes the sum of the numbers in the odd lines?
+> In each square of a chessboard with 8 rows and 8 columns an integer is written. The rows and columns of the board are numbered from 1 to 8, and the square in row 1 and column 1 is black. The sum of the numbers written in the white squares is 28, while the sum of the numbers written in the odd columns is 47. If we change the sign of every number in a white square, what does the sum of the numbers in the odd rows become?
 >
 > - **(A)** −14,
 > - **(B)** 19,
 > - **(C)** 33,
 > - **(D)** 75,
-> - **(E)** the data are not sufficient to determine this.
+> - **(E)** the data are not sufficient to determine it.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2011_biennio#q14|src_archimede_2011_biennio__Q14]]
 
 
 
@@ -654,17 +698,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Final figures after 12 square iterations plus 5
+*Final digits after 12 iterations of squaring and adding 5*
 
-> Each of our four friends, Anna, Erica, Lorenzo, and Joseph, always lies or always tells the truth. Anna says: Erica always lies; Erica says: Joseph always speaks the truth; Joseph says: Anna always thinks; finally Lorenzo says: Anna, Erica and Joseph always lie. How many, at most, lie all the time?
+> Each of the four friends Anna, Erica, Lorenzo and Giuseppe either always lies or always tells the truth. Anna says: “Erica always lies”; Erica says: “Giuseppe always tells the truth”; Giuseppe says: “Anna always lies”; finally Lorenzo says: “Anna, Erica and Giuseppe always lie”. What is the maximum number of them who always lie?
 >
 > - **(A)** 1,
 > - **(B)** 2,
 > - **(C)** 3,
 > - **(D)** 4,
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2011_biennio#q15|src_archimede_2011_biennio__Q15]]
 
 
 
@@ -696,9 +744,11 @@ Final figures after 12 square iterations plus 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of odd lines after white box mark change*
+*Sum of odd rows after sign change of white cells*
 
-> ABC is an isosceles triangle, with AB = AC = 10 cm. D and E are two points on AB and AC respectively, both 6 cm from A, and H is the foot of the height of ABC relative to BC. Calculate the ratio between the ABC and DHE areas.
+> ABC is an isosceles triangle, with AB = AC = 10 cm. D and E are two points on
+> AB and AC respectively, both 6 cm from A, and H is the foot of the altitude
+> of ABC relative to BC. Calculate the ratio between the areas of ABC and of DHE.
 >
 > - **(A)** 25 9 ,
 > - **(B)** 25 12,
@@ -706,7 +756,10 @@ Final figures after 12 square iterations plus 5
 > - **(D)** 25 6 ,
 > - **(E)** 9 4.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2011_biennio#q16|src_archimede_2011_biennio__Q16]]
 
 
 
@@ -737,17 +790,21 @@ Final figures after 12 square iterations plus 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum radius of circle with three vertices of the same colour*
+*What follows from a quadratic with two roots in (0, 1)*
 
-> Knowing that the equation ax2 −bx + c = 0, with a > 1, has two positive solutions narrowly less than 1, we can safely say that:
+> Given that the equation ax2 −bx + c = 0, with a > 1, has two positive solutions strictly less than 1, we can certainly state that:
 >
 > - **(A)** c + b < 3a,
 > - **(B)** c ≤b < a,
 > - **(C)** b ≤c,
 > - **(D)** c ≤b < 2,
-> - **(E)** b < 2 e c < a.
+> - **(E)** b < 2 and c < a.
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2011_biennio#q17|src_archimede_2011_biennio__Q17]]
 
 
 
@@ -781,9 +838,9 @@ Final figures after 12 square iterations plus 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hypotenous triangle rectangle from cateto and inscribed radius*
+*Hypotenuse of a right triangle from a leg and the inradius*
 
-> Gabriella has a large six-sided dice completely white, except for the numbers written on the faces, and she wants to color all the faces and all the vertices of the dice, using red, blue, green, and yellow, so that there are no two adjacent faces (i.e. with one side in common) with the same color and each vertex has a different color from all the faces to which it belongs. How many different ways can you do that?
+> Gabriella has a large six-faced die that is completely white except for the numbers written on the faces, and she wants to colour all the faces and all the vertices of the die, using red, blue, green and yellow, so that no two adjacent faces (that is, sharing an edge) have the same colour and every vertex has a colour different from all the faces to which it belongs. In how many different ways can she do this?
 >
 > - **(A)** 24
 > - **(B)** 48,
@@ -791,7 +848,11 @@ Final figures after 12 square iterations plus 5
 > - **(D)** 264,
 > - **(E)** 46.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2011_biennio#q18|src_archimede_2011_biennio__Q18]]
 
 
 
@@ -822,9 +883,10 @@ Final figures after 12 square iterations plus 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last term succession of periodic differences*
+*Last term of a periodic difference sequence*
 
-> How many ordered ternes (p, q, r), made up of prime numbers less than 100, do p2 + q2 = r? [1 is not a prime number.]
+> How many ordered triples (p, q, r), formed by prime numbers less than 100, satisfy
+> p2 + q2 = r? [1 is not a prime number.]
 >
 > - **(A)** 2,
 > - **(B)** 4,
@@ -832,7 +894,11 @@ Final figures after 12 square iterations plus 5
 > - **(D)** 8,
 > - **(E)** 16.
 
-**Answer:** D
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2011_biennio#q19|src_archimede_2011_biennio__Q19]]
 
 
 
@@ -863,14 +929,17 @@ Final figures after 12 square iterations plus 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Chases reachable by the king in five moves without repetition*
+*Inradius of a kite with perpendicular diagonals*
 
-> In the quadrilateral ABCD the diagonals are orthogonal to each other and the angles in B and D are straight. In addition, AB = AD = 20 cm, BC = CD = 30 cm. Calculate the radius of circumference recorded in the ABCD.
+> In quadrilateral ABCD the diagonals are perpendicular to each other, and the angles at B and at D are right angles. Also, AB = AD = 20 cm and BC = CD = 30 cm. Find the radius of the circle inscribed in ABCD.
 >
-> - **(A)** 15 cm,
-> - **(B)** 5 √ 13 cm,
-> - **(C)** 10 cm,
-> - **(D)** 6 √ 5 cm,
-> - **(E)** 12 cm. 21) A tournament has 20 participants. In each round, two of the participants still in the competition are drawn, and they play one match. Each contestant who has been defeated twice is eliminated and the last remaining contestant wins. Knowing the winner never lost, how many games were played in all? (A) 19, (B) 38, (C) 40, (D) 380, (E) there are not enough data. 22) The square ABCD is drawn on a sheet. The sheet is folded (along a straight line) so that B coincides with the mean point of DC. The side BC is divided by the bend into two segments of lengths a and b, with a ≤b. How much is a b/a? (A) 2, (B) 1, (C) 5/3, (D) 25/9, (E) √ 5/2. 23) The police are investigating a robbery. The five suspects, including the culprit and perhaps some accomplices, said: A: B is guilty. D is one of the accomplices. B:E is innocent. A is one of the accomplices. C: E is the culprit. D is innocent.  D:  The culprit is actually E. A was his accomplice.  E: A was one of the accomplices. C is the culprit. Knowing that the culprit lies about everything, the possible accomplices, out of fear, make a statement that is true and false and the innocent people, finally, always tell the truth, how many accomplices? (A) 0, (B) 1, (C) 2, (D) 3, (E) is impossible to determine. 24) We have a sequence of 2011 numbers, of which we indicate with an the term n-eighth. Knowing that a1 = 1, and that for every n ≥2, an = an−1(3n + 1), find the last four digits of the term a2011. (A) 0000, (B) 3400, (C) 6000, (D) 6031, (E) 6034. 25) King Tal of Tali is located in the center of a chessboard with three rows and three columns. How many distinct paths of 3 moves can King Tal of the Tals make inside the chessboard ? [When he makes a move, the king moves into any of the boxes that have at least one vertex in common with the box in which he is.] (A) 36, (B) 54, (C) 84, (D) 121, (E) 168.
+> - **(A)** 15 cm
+> - **(B)** 5 √ 13 cm
+> - **(C)** 10 cm
+> - **(D)** 6 √ 5 cm
+> - **(E)** 12 cm. 21) A tournament has 20 participants. At each turn two of the participants still in the contest are drawn, and they play a match. Any participant who has been defeated twice is eliminated, and the last remaining contestant wins. Given that the winner has never lost, how many matches were played in all? (A) 19, (B) 38, (C) 40, (D) 380, (E) the data are not sufficient. 22) The square ABCD is drawn on a sheet. The sheet is folded (along a straight line) so that B coincides with the midpoint of DC. Side BC is divided by the fold into two segments of lengths a and b, with a ≤b. What is the value of b/a? (A) 2, (B) 1, (C) 5/3, (D) 25/9, (E) √ 5/2. 23) The police are investigating a robbery. The five suspects, among whom the culprit is certainly present and perhaps also some of his accomplices, state when questioned: A: "B is guilty. D is one of the accomplices." B: "E is innocent. A is one of the accomplices." C: "E is the culprit. D is innocent." D: "The culprit is indeed E. A was his accomplice." E: "A was one of the accomplices. C is the culprit." Given that the culprit lies about everything, any accomplices, out of fear, make one true statement and one false statement, and the innocent people always tell the truth, how many accomplices are there? (A) 0, (B) 1, (C) 2, (D) 3, (E) it cannot be determined. 24) We have a sequence of 2011 numbers, and we denote the n-th term by an. Given that a1 = 1, and that for every n ≥2, an = an−1(3n + 1), find the last four digits of the term a2011. (A) 0000, (B) 3400, (C) 6000, (D) 6031, (E) 6034. 25) King So-and-so is at the centre of a chessboard with three rows and three columns. How many distinct paths of 3 moves can King So-and-so make inside the chessboard? [When he makes a move, the king moves to any square that shares at least one vertex with the square he is on.] (A) 36, (B) 54, (C) 84, (D) 121, (E) 168.
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2011_biennio#q20|src_archimede_2011_biennio__Q20]]

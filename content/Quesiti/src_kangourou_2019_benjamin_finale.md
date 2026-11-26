@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many jam cookies did Ada have before the exchange?
+*How many jam biscuits did Ada have before the swap?*
 
-> Ada had 40 biscuits: some chocolate, others jam. She agreed with Cecilia this way: for 3 chocolate cookies given to Cecilia, she received 5 jam cookies from Cecilia. Now Ada has 52 cookies, all marmalade. How many jam cookies did she have before the exchange?
+> Ada had 40 biscuits: some chocolate, the others jam. She agreed with Cecilia as follows: for every 3 chocolate biscuits she gave to Cecilia, she received 5 jam biscuits from Cecilia. Now Ada has 52 biscuits, all of them jam biscuits. How many jam biscuits did Ada have before the exchange?
 
-**Answer:** 22
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_finale#q01|src_kangourou_2019_benjamin_finale__Q01]]
 
 
 
@@ -56,11 +60,15 @@ How many jam cookies did Ada have before the exchange?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Receive 2021 from the calculator with only operations with 2019*
+*Obtain 2021 from the calculator using only operations involving 2019*
 
-> Last New Year I got a strange calculator as a gift: it can only add or subtract 2019 from the number written on the screen or it can multiply or divide it by 2019. Right now, the screen shows the number 0. By doing some of these operations in sequence, one at a time, can I get the 2021 number as a result? Justify your answer if it is negative; if yes, indicate the shortest sequence of operations that allows you to get the result.
+> Last New Year's Day, I received a strange calculator as a gift: it can only add or subtract 2019 from the number displayed on the screen, or it can multiply the number on the screen by 2019 or divide it by 2019. At the moment, the screen shows the number 0. By performing some of these operations in sequence, one at a time, can I end up with the number 2021 as the result? If your answer is no, justify it; if it is yes, indicate the shortest sequence of operations that will let you achieve the result.
 
-**Answer:** yes (+,+,:,+)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_finale#q02|src_kangourou_2019_benjamin_finale__Q02]]
 
 
 
@@ -85,13 +93,17 @@ How many jam cookies did Ada have before the exchange?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the ITE angle in the equilateral pentagon and triangle*
+*Measurement of the ITE angle in the pentagon and the equilateral triangle*
 
 ![[src_kangourou_2019_benjamin_finale__prob3.png]]
 
-> Look at the figure. $IBLEC$ is a regular pentagon and the triangle $CER$ is equilateral. $T$ is the intersection point between $CE$ and $IR$ segments. How many degrees does the angle $ITE$ measure? (see figure)
+> Observe the figure. $IBLEC$ is a regular pentagon, and triangle $CER$ is equilateral. $T$ is the point of intersection of line segments $CE$ and $IR$. How many degrees is angle $ITE$? (see figure)
 
-**Answer:** 114
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_benjamin_finale#q03|src_kangourou_2019_benjamin_finale__Q03]]
 
 
 
@@ -114,11 +126,15 @@ How many jam cookies did Ada have before the exchange?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number written by Carla given difference 14789*
+*Number written by Carla, date difference 14789*
 
-> Carla wrote an integer greater than zero. Aldo rewrote Carla's number, making it preceded and followed by the digit 1 (for example, if Carla had written 27, Aldo would have written 1271). The difference between Aldo's number and Carla's is 14789. What number did Carla write?
+> Carla wrote a positive integer. Aldo rewrote Carla's number, placing the digit 1 before it and after it (for example, if Carla had written 27, Aldo would have written 1271). The difference between Aldo's number and Carla's number is 14789. What number did Carla write?
 
-**Answer:** 532
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_finale#q04|src_kangourou_2019_benjamin_finale__Q04]]
 
 
 
@@ -142,11 +158,16 @@ How many jam cookies did Ada have before the exchange?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Why Elvira wants to start in the game of the 66 tokens*
+*Why does Elvira want to start in the 66-token game?*
 
-> Gianni and Elvira play in this way. There are 66 tokens on the table: at each turn each of them can take 1 or 2 or 3 or 4 or 5 tokens. Whoever is forced to take the last token loses. Elvira, who wants to win, insists on being the one to start. Why?
+> Gianni and Elvira play like this. There are 66 tokens on the table: on each turn, each of them can take 1 or 2 or 3 or 4 or 5 tokens. Whoever is forced to take the last token loses. Elvira, who wants to win, wants at all costs to be the one to start. Why?
 
-**Answer:** winning strategy
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_finale#q05|src_kangourou_2019_benjamin_finale__Q05]]
 
 
 
@@ -170,8 +191,13 @@ How many jam cookies did Ada have before the exchange?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many years will the full moon return at Ferragosto*
+*In how many years will the full moon return on Ferragosto?*
 
-> Last August 15, the day of Ferragosto, there was a full moon. Assuming that the lunar cycle is exactly 28 days, in how many years will there be a full moon at Ferragosto again for the first time? (If, for example, it happened next year, you should answer: in 1 year.)
+> Last August 15, Ferragosto Day, there was a full moon. Assuming the lunar cycle is exactly 28 days, in how many years will there first be another full moon on Ferragosto? (If, for example, it happened next year, you should answer: in 1 year.)
 
-**Answer:** 22
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_finale#q06|src_kangourou_2019_benjamin_finale__Q06]]

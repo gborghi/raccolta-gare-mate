@@ -33,7 +33,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Calculate (2008-200-8)+2008*
+*Calculation (2008-200-8)+2008*
 
 > (2008 – 200 – 8) + 2008 = ? 
 > A) 3008 
@@ -41,7 +41,11 @@ level: kangourou
 > C) 3800 
 > D) 3808         E) 2808
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q01|src_kangourou_2008_benjamin_marzo__Q01]]
 
 
 
@@ -74,13 +78,13 @@ level: kangourou
 
 ![[src_kangourou_2008_benjamin_marzo__prob2.png]]
 
-> Carolina has 2 identical cardboard pieces shaped like equilateral triangles, like the ones
-> shown in the figure. She places them side by side or partially overlaps them on a
-> sheet, then traces on the sheet the outline of the resulting figure. Only one of the
-> shapes you see below cannot be obtained with this procedure.
-> Which one?
+> Carolina has 2 identical equilateral-triangle-shaped cardboard pieces like those shown in the figure. She places them side by side or partially overlaps them on a sheet of paper, then traces on the paper the outline of the shape obtained. Only one of the shapes you see below cannot be obtained by this method. Which one?
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q02|src_kangourou_2008_benjamin_marzo__Q02]]
 
 
 
@@ -114,9 +118,19 @@ level: kangourou
 
 *Order of three transformations of a number*
 
-> Iole, Lidia, Nadia and Pina are playing numbers. Lidia said 3 and the others each intervened once and only once and the last one said 14. You know Iole multiplied by 3, Nadia subtracted 1 and Pina added 2. In what order did the three girls after Lidia intervene? (a) IPN (b) PIN (c) INP (d) NIP (e) PNI
+> Iole, Lidia, Nadia, and Pina are playing a game of transforming numbers. Lidia said 3, and the others spoke each exactly once; the last one said 14. You know that Iole multiplied by 3, Nadia subtracted 1, and Pina added 2. In what order did the three girls speak after Lidia?
+> A) IPN
+> B) PIN
+> C) INP
+> D) NIP
+> E) PNI
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q03|src_kangourou_2008_benjamin_marzo__Q03]]
 
 
 
@@ -160,16 +174,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many flags have a black part equal to 3/5*
+*How many flags have a black portion equal to 3/5?*
 
 ![[src_kangourou_2008_benjamin_marzo__prob4.png]]
 
-> At the pirates' school every student must sew a white and
-> black flag, respecting the following condition: the black part must cover exactly three fifths of the flag. How many of the following flags respect
-> this condition?
+> At the pirates' school, each student must sew a black-and-white flag while observing the following condition: the black part must cover exactly three-fifths of the flag. How many of the following flags meet this condition?
 > A) None
 > B) One
-> C) Two
+> C) Due
 > D) Three
 > E) Four
 > A)
@@ -177,15 +189,15 @@ level: kangourou
 > C)
 > D)
 > E)
-> Testi_08.qxp  9-03-2008  14:56  Page 10
-> 
-> Pag. 
-> Pag. 11
-> 11
-> Kang 2008
-> Kang 2008
+> Testi_08.qxp 9-03-2008 14:56 Page 10
+>
+> Pag. Pag. 11 11 Kang 2008 Kang 2008
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q04|src_kangourou_2008_benjamin_marzo__Q04]]
 
 
 
@@ -222,9 +234,18 @@ level: kangourou
 
 ![[src_kangourou_2008_benjamin_marzo__prob5.png]]
 
-> Anna wants to place 12 coins on the figure so that there are exactly 3 coins on each circumference and exactly 3 coins on each of the four diameters. She has already placed 11 coins. Where must she place the remaining one? A) B B) J C) L D) D E) F
+> Anna wants to place 12 coins on the figure so that there are exactly 3 coins on each circumference and exactly 3 coins on each of the four diameters. She has already placed 11 coins. At which point will she have to place the remaining one?
+> A) B 
+> B) J 
+> C) L
+> D) D
+> E) F
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q05|src_kangourou_2008_benjamin_marzo__Q05]]
 
 
 
@@ -261,9 +282,19 @@ level: kangourou
 
 ![[src_kangourou_2008_benjamin_marzo__prob6.png]]
 
-> What you see in the first figure is a multiplication table. The second figure is also a multiplication table where, unfortunately, some numbers have been deleted. What is the number to be found in the box with a question mark ? A) 54 B) 56 C) 65 D) 36 E) 42
+> What you see in the first figure is a board.
+> Of multiplication. The one in the second figure is also a multiplication table in which, unfortunately, some numbers have been erased. What number should be found in the cell marked with a question mark?
+> A) 54 
+> B) 56 
+> C) 65  
+> D) 36
+> E) 42
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q06|src_kangourou_2008_benjamin_marzo__Q06]]
 
 
 
@@ -292,11 +323,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers with a sum of 3 digits*
+*How many three-digit numbers have a digit sum of 3?*
 
-> 'The sum of the digits of an integer represented in decimal form is 3': how many three-digit numbers satisfy this condition? A) 3 B) 4 C) 5 D) 6 E) 8
+> "The sum of the digits of an integer expressed in decimal form is 3": how many three-digit numbers satisfy this condition?
+> A) 3
+> B) 4
+> C) 5
+> D) 6
+> E) 8
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q07|src_kangourou_2008_benjamin_marzo__Q07]]
 
 
 
@@ -326,13 +367,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the triangle pentagon + square isoperimetric*
+*Perimeter of the isoperimetric pentagon, triangle + square*
 
 ![[src_kangourou_2008_benjamin_marzo__prob8.png]]
 
-> The triangle and the square in the figure have the same perimeter. What is the perimeter of the whole figure (i.e. the pentagon)? A) 12 cm B) 24 cm C) 28 cm D) 32 cm E) Depends on the angles of the triangle.
+> The triangle and the square in the figure have the same perimeter. What is the perimeter of the entire figure (that is, of the pentagon)?
+> A) 12 cm
+> B) 24 cm
+> C) 28 cm
+> D) 32 cm
+> E) It depends on the angles of the triangle.
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q08|src_kangourou_2008_benjamin_marzo__Q08]]
 
 
 
@@ -364,13 +414,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of grey of a periodic frieze*
+*Grey percentage of a periodic frieze*
 
 ![[src_kangourou_2008_benjamin_marzo__prob9.png]]
 
-> What you see in the figure is a frieze, made up of white or grey square bricks, all of which are the same size. What percentage of the frieze is grey? A) 50% B) 60% C) 62,5% D) 66,6 % E) 75%
+> What you see in the figure is a frieze made up of square white or grey tiles, all of the same size. What percentage of the frieze is grey?
+> A) 50% 
+> B) 60% 
+> C) 62,5% 
+> D) 66,6 % 
+> E) 75%
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q09|src_kangourou_2008_benjamin_marzo__Q09]]
 
 
 
@@ -453,69 +512,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Isosceles triangle with non-acute angle*
+*Isosceles triangle with a non-acute angle*
 
 ![[src_kangourou_2008_benjamin_marzo__prob10.png]]
 
-> Pierino believes that if a triangle is isosceles (i.e., has 2 equal angles), then all its angles are acute (i.e., less than 90°). Which of the following figures can convince him otherwise?
+> Pierino believes that if a triangle is isosceles (that is, has two equal angles), then all of its angles are acute (that is, less than 90°). Which of the following figures could convince him otherwise? A B C D E F H N T O I J P M L K S R Q X 4 3 5 20 15 7 28 21 X 35 63 30 ? 4 cm
 >
-> A
-> B
-> C
-> D
-> E
-> F
-> H
-> N
-> T
-> O
-> I
-> J
-> P
-> M
-> L
-> K
-> S
-> R
-> Q
-> X
-> 4
-> 3
-> 5 20 15
-> 7 28 21
-> X
-> 35 63
-> 30
-> ?
-> 4 cm
->  
-> 60°
-> 80°
-> 40°
-> 50°
-> 80°
-> 50°
-> 150°
-> 20°
-> 10°
-> 30°
-> 120°
-> 30°
-> 60°
-> 60°
-> 60°
+> 60° 80° 40° 50° 80° 50° 150° 20° 10° 30° 120° 30° 60° 60° 60°
 > A)
 > B)
 > C)
 > D)
 > E)
-> 
-> Page
-> Page 12
-> Kang 2008
-> Questions 11 to 20 are worth 4 points each
+> Testi_08.qxp 9-03-2008 14:56 Page 11
+>
+> Page Page 12 12 Kang 2008 Kang 2008 Questions 11 to 20 are each worth 4 points.
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q10|src_kangourou_2008_benjamin_marzo__Q10]]
 
 
 
@@ -544,11 +561,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-With so many matches, it's impossible to make a triangle.
+*With how many matches, it's impossible to make a triangle*
 
-> I have matches that are all the same between them that I have to build a triangle with: I can align them, but I can't overlay or break them and I have to use them all. With what number of matches, of the following, is this impossible? A) 7 B) 6 C) 5 D) 4 E) 3
+> I have matches that are all identical, and I need to use them to form a triangle: I can line them up, but I can't stack them or break them, and I have to use all of them. With which of the following numbers of matches is this impossible?
+> A) 7
+> B) 6
+> C) 5
+> D) 4
+> E) 3
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q11|src_kangourou_2008_benjamin_marzo__Q11]]
 
 
 
@@ -580,13 +606,22 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of water reaching B after forking*
+*Fraction of water that reaches B after bifurcations*
 
 ![[src_kangourou_2008_benjamin_marzo__prob12.png]]
 
-> Look at the figure below: a channel has its origin in A and shortly afterwards forks; the right branch receives 1/3 of the water, the left one the rest. Later the second branch divides into two sub-branches, of which the one on the right receives 3/4 of the water flowing into the branch and the one on the left the rest. What fraction of the water that starts from A gets to point B? (A) B) C) D) E) The data are insufficient.
+> Look at the figure below: a channel originates at A and soon branches; the right branch receives 1/3 of the water, and the left branch receives the rest. Further on, the second branch splits into two sub-branches, of which the right one receives 3/4 of the water flowing through the branch, and the left one receives the rest. What fraction of the water that started at A reaches point B?
+> A) 
+> B) 
+> C) 
+> D) 
+> E) The data are insufficient.
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q12|src_kangourou_2008_benjamin_marzo__Q12]]
 
 
 
@@ -620,21 +655,21 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*value of the letter pound*
+*Value of the pound sign*
 
-> The five different symbols used below each represent a
-> different digit and the operations indicated are all correct.
-> @ + @ + @ = ∗
-> # + # + # = &
-> ∗+ & = £
-> What is the value of "£"?
+> The five different symbols used below each represent a different digit, and all of the indicated operations are correct. @ + @ + @ = ∗ # + # + # = & ∗+ & = £ What is the value of “£”?
 > A) 0
 > B) 2
 > C) 6
 > D) 8
 > E) 9
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q13|src_kangourou_2008_benjamin_marzo__Q13]]
 
 
 
@@ -665,11 +700,21 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n persons in 60 seats with no isolated free seat*
+*Minimum n people for 60 seats with no free isolated seat*
 
-> 60 chairs are arranged around a round table. A certain number, let's call it n, of people are sitting at this table so that anyone who wants to join them should necessarily sit in a chair next to someone already occupied. The smallest value of n that makes the situation possible is A) 15 B) 20 C) 30 D) 40 E) 58
+> Sixty chairs are arranged around a round table. A certain number—let's call it n—of people are seated at this table in such a way that anyone who wanted to join them would have to sit on a chair next to an already occupied one. The smallest value of n that makes this situation possible is
+> A) 15 
+> B) 20 
+> C) 30 
+> D) 40 
+> E) 58
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q14|src_kangourou_2008_benjamin_marzo__Q14]]
 
 
 
@@ -701,11 +746,21 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum N people in 60 seats each next to another*
+*Minimum N people, each with 60 chairs, next to one another*
 
-> As in the previous question, 60 chairs are arranged around a round table. A certain number, let's call it N, of people are sitting at this table so that each person is sitting next to another. The smallest value of N that makes the situation possible is A) 40 B) 30 C) 20 D) 10 E) None of the above.
+> As in the previous question, 60 chairs are arranged around a round table. A certain number, let's call it N, of people are seated at this table such that each person is seated next to another. The smallest value of N that makes this situation possible is
+> A) 40
+> B) 30 
+> C) 20 
+> D) 10 
+> E) None of the above.
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q15|src_kangourou_2008_benjamin_marzo__Q15]]
 
 
 
@@ -756,38 +811,24 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2-digit numbers with units greater than tens*
+*Two-digit numbers with a units digit greater than the tens digit*
 
-> How many 2-digit numbers are such that the units digit is greater
-> than the tens digit?
+> How many two-digit numbers are there such that the units digit is greater than the tens digit?
 > A) 26 
 > B) 18 
 > C)9 
 > D) 30 
 > E) 36
-> 1
-> 6
-> 11
-> 12
-> 2
-> 3
-> 1
-> 4
-> A
-> B
-> 1
-> 3
-> 3
-> 4
-> Testi_08.qxp  9-03-2008  14:56  Page 12
-> 
-> Pag. 
-> Pag. 13
-> 13
-> Kang 2008
-> Kang 2008
+> 1 6 11 12 2 3 1 4 A B 1 3 3 4 Testi_08.qxp 9-03-2008 14:56 Page 12
+>
+> Pag. Pag. 13 13 Kang 2008 Kang 2008
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q16|src_kangourou_2008_benjamin_marzo__Q16]]
 
 
 
@@ -820,13 +861,23 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many different scores with two arrows*
+*How many different scores with two arrows?*
 
 ![[src_kangourou_2008_benjamin_marzo__prob17.png]]
 
-> Giovanna throws two arrows at the target. The resulting score is the sum of the scores achieved with the individual arrows (0 if the arrow does not hit the target): for example, in the figure we see a situation in which the resulting score is 5. How many different scores can Giovanna get? A) 4 B) 6 C) 8 D) 9 E) 10
+> Giovanna shoots two arrows at the target. The score obtained is the sum of the scores achieved with each individual arrow (0 if the arrow does not hit the target): for example, in the figure we see a situation in which the score obtained is 5. How many different scores can Giovanna achieve?
+> A) 4 
+> B) 6 
+> C) 8
+> D) 9 
+> E) 10
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q17|src_kangourou_2008_benjamin_marzo__Q17]]
 
 
 
@@ -856,11 +907,20 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ages of Ada and Ivo from linear conditions*
+*And Di Ada and Ivo have linear conditions*
 
-> Ada and Ivo have their birthdays today. In two years Ivo will be twice as old as he was two years ago, while in three years Ada will be three times as old as she was three years ago. Which of the following is correct? A) Ivo is one year older than Ada B) Ada is one year older than Ivo C) Ada and Ivo are the same age D) Ivo is two years older than Ada E) Ada is two years older than Ivo
+> Ada and Ivo are having their birthdays today. In two years, Ivo will be twice as old as he was two years ago, while in three years, Ada will be three times as old as she was three years ago. Which of the following statements is correct?
+> A) Ivo is a year older than Ada.
+> B) Ada is a year older than Ivo.
+> C) Ada and Ivo are the same age.
+> D) Ivo is two years older than Ada.
+> E) Ada is two years older than Ivo.
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q18|src_kangourou_2008_benjamin_marzo__Q18]]
 
 
 
@@ -886,13 +946,18 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which construction of cubes is not feasible*
+*Which cube construction cannot be realized?*
 
 ![[src_kangourou_2008_benjamin_marzo__prob19.png]]
 
-> The construction you see on the right is done using 5 equal cubes. You can move only one, put it in the position you want. Which of the underlying constructions (which are seen from different angles) can you not make ?
+> The structure you see on the right is made using
+> 5 cubes that are all the same. You can move only one of them, placing it in whatever position you want. Which of the constructions below (shown from different angles) can't you build?
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q19|src_kangourou_2008_benjamin_marzo__Q19]]
 
 
 
@@ -922,11 +987,22 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many squares of 4 boxes in a chessboard 8x8*
+*How many 4-square squares are there on an 8x8 chessboard?*
 
-> How many squares of 4 boxes are there in an 8 x 8 box chessboard? A) 64 B) 49 C) 48 D) 36 E) 16 Questions from N. 21 al N. 30 is worth 5 points each.
+> How many 4-square squares are there on an 8 x 8 chessboard?
+> A) 64
+> B) 49
+> C) 48
+> D) 36
+> E) 16
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q20|src_kangourou_2008_benjamin_marzo__Q20]]
 
 
 
@@ -956,11 +1032,20 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*3 su 16:9*
+*3 of 16:9*
 
-> The old TV display had sides that were in the 4:3 aspect ratio, while the new displays have sides that are in the 16:9 aspect ratio. We want to see a DVD that fills exactly the entire screen of the old TV on a new 16:9 screen. If the height of the footage exactly matches the height of the screen, then the percentage of unused area of the new screen is A) 15 % B) 20 % C) 25 % D) 30 % E) depending on the screen dimensions.
+> The old television screen had sides in a 4:3 aspect ratio, whereas new screens have sides in a 16:9 aspect ratio. We want to view a DVD that fills the entire screen of the old television exactly on a new 16:9 screen. If the height of the video matches the height of the screen exactly, then the percentage of unused area on the new screen is
+> A) 15 %
+> B) 20 %
+> C) 25 %
+> D) 30 %   
+> E) depends on the screen dimensions.
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q21|src_kangourou_2008_benjamin_marzo__Q21]]
 
 
 
@@ -1015,30 +1100,32 @@ With so many matches, it's impossible to make a triangle.
 
 *Guess the professions of the three friends*
 
-> A doctor, an engineer, and a musician are friends. Their names, not necessarily in that order, are: Giorgio, Marco, and Nicola. The doctor has no sisters or brothers and is the youngest of the three. Nicola is older than the engineer and is married to the sister of Giorgio. What are their names, in order: doctor, engineer, musician?
+> A doctor, an engineer, and a musician are friends. Their names, not necessarily in that order, are Giorgio, Marco, and Nicola. The doctor has neither sisters nor brothers and is the youngest of the three. Nicola is older than the engineer and is married to Giorgio's sister. What are the names, in order, of the doctor, the engineer, and the musician? 6 3 2
+> A)
+> B)
+> C)
+> D)
+> E)
+> Testi_08.qxp 9-03-2008 14:56 Page 13
 >
-> (A) Giorgio, Marco, Nicola
-> (B) Giorgio, Nicola, Marco
-> (C) Marco, Giorgio, Nicola
-> (D) Marco, Nicola, Giorgio
-> (E) Nicola, Giorgio, Marco
-> 
-> Page 14
-> Kangaroo 2008
+> Pag. Pag. 14 14 Kang 2008 Kang 2008
 > A) Giorgio, Marco, Nicola
 > B) Nicola, Giorgio, Marco
 > C) Marco, Giorgio, Nicola
 > D) Marco, Nicola, Giorgio
 > E) Giorgio, Nicola, Marco
->
-> 23. The adjacent figure shows a chessboard: you must visit each square exactly once, without revisiting any previously visited square, and you may only move horizontally or vertically, not diagonally. From where can you start?
-> A) Only from the central square.
-> B) Only from a corner square.
-> C) From a white square.
-> D) From any gray square.
-> E) From any square.
+> 23. Beside this is a chessboard: you must visit every square on it without ever going back to a square you've already visited, but you can move only horizontally or vertically—not diagonally. Where can you start?
+> A) Only from the central box.
+> B) Only from one box to the vertices.
+> C) From a white box.
+> D) From any gray box.
+> E) From any box.
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q22|src_kangourou_2008_benjamin_marzo__Q22]]
 
 
 
@@ -1064,13 +1151,18 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Where to start to visit each box*
+*Where to start to visit every cell*
 
 ![[src_kangourou_2008_benjamin_marzo__prob23.png]]
 
-> 23. Answer D) We see that, as you can only move horizontally or vertically, when you move from one box to the next, the color of the box changes. So I can't cover the whole path if I start from a white box, because the white boxes are less than grey. Starting instead from a grey box you can complete the path as required: if it is in a corner I can complete horizontally the row to which it belongs, move vertically to the adjacent row, complete this horizontally, go vertically to the last row and complete this; from the central grey box you can cover all the boxes only once if you move into a box
+> 23. Answer D) Note that, since movement is possible only horizontally or vertically, when moving from one cell to the next, the color of the cell changes: therefore, if I start from a white cell, I won't be able to cover the entire path, because there are fewer white cells than gray ones. Starting instead from a gray cell, however, the path can be completed as required: if it is a corner cell, I can complete horizontally the row to which it belongs, move vertically to the adjacent row, complete that row horizontally, move vertically to the last row, and complete that row; from the central gray cell, on the other hand, all the cells can be covered exactly once if one moves to a cell
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q23|src_kangourou_2008_benjamin_marzo__Q23]]
 
 
 
@@ -1131,7 +1223,7 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of fourth bus route*
+*Fourth bus route length*
 
 ![[src_kangourou_2008_benjamin_marzo__prob24.png]]
 
@@ -1161,9 +1253,22 @@ With so many matches, it's impossible to make a triangle.
 \end{document}
 ```
 
-> The drawing shows the transportation map of a city. There are 4 buses that follow a circular route: - the route of the first, C-D-E-F-G-H-C, is 17 km long; - the route of the second, A-B-C-F-G-H-A, is 12 km long; - the route of the third, A-B-C-D-E-F-G-H-A, is 20 km long. How many kilometers is the C-F-G-H-C path of the fourth? A) 5 B) 8 C) 9 D) 12 E) 15
+> The drawing shows a city's transport map. There are 4 buses following a circular route:
+> - The route of the first one, C-D-E-F-G-H-C, is 17 km long;
+> - The second route, A-B-C-F-G-H-A, is 12 km long;
+> - The third route, A-B-C-D-E-F-G-H-A, is 20 km long.
+> How many kilometers long is the C-F-G-H-C route of the fourth?
+> A) 5
+> B) 8          
+> C) 9
+> D) 12
+> E) 15
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q24|src_kangourou_2008_benjamin_marzo__Q24]]
 
 
 
@@ -1197,11 +1302,21 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of cards from the first sage (parity)*
+*Sum of the cards in the first game (tied)*
 
-> A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first sage, after looking only at the numbers written on the cards he has caught, says to the second: "I am sure that the sum of the numbers shown on your cards is even". How much is the sum of the numbers shown on the cards the first sage read? A) 10 B) 12 C) 6 D) 9 E) 15
+> A box contains seven cards numbered from 1 to 7. Two sages draw cards at random from the box: the first draws three, and the second draws two from the remaining ones; the last two stay in the box. After looking only at the numbers written on the cards he drew, the first sage says to the second: "I am certain that the sum of the numbers on your cards is even." What is the value of the sum of the numbers on the cards drawn by the first sage?
+> A) 10
+> B) 12
+> C) 6
+> D) 9
+> E) 15
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q25|src_kangourou_2008_benjamin_marzo__Q25]]
 
 
 
@@ -1231,11 +1346,20 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between the two most distant points on a straight line*
+*Distance between the two farthest points on a line*
 
-> A, B, C and D shall be drawn on a straight line in an unspecified order. You know AB is long 13, BC is long 11, CD is long 14 and DA is long 12. What's the distance between the two most distant points? A) 14 B) 38 C) 50 D) 25 E) None of the above.
+> On a straight line, points A, B, C, and D are marked in an unspecified order. It is known that AB is 13 units long, BC is 11 units long, CD is 14 units long, and DA is 12 units long. What is the distance between the two farthest points?
+> A) 14           B) 38
+> C) 50 
+> D) 25       
+> E) None of the above.
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q26|src_kangourou_2008_benjamin_marzo__Q26]]
 
 
 
@@ -1286,39 +1410,25 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Order of the shots while going around the flowerbed*
+*Order of the shots while circling the flower bed*
 
 ![[src_kangourou_2008_benjamin_marzo__prob27.png]]
 
-> Benedetta goes around the flowerbed taking photographs: she starts walking at the point indicated by the arrow and
-> follows its direction. After a complete lap she has taken
-> these 4 photos. In what order were the shots taken?
+> Benedetta walks around the flowerbed taking photos: she starts walking at the point indicated by the arrow and follows its direction. After completing one full circuit, she has taken these 4 photos. In what order were the photos taken?
 > A) 2431
 > B) 4213
 > C) 2143
 > D) 2134
 > E) 3214
-> A
-> H
-> G
-> F
-> E
-> D
-> C
-> B
-> 4
-> 3
-> 2
-> 1
-> Testi_08.qxp  9-03-2008  14:56  Page 14
-> 
-> Pag. 
-> Pag. 15
-> 15
-> Kang 2008
-> Kang 2008
+> A H G F E D C B 4 3 2 1 Testi_08.qxp 9-03-2008 14:56 Page 14
+>
+> Pag. Pag. 15 15 Kang 2008 Kang 2008
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q27|src_kangourou_2008_benjamin_marzo__Q27]]
 
 
 
@@ -1349,18 +1459,21 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cryptarithm KAN+GA=ROO, value RN-KG*
+*Cryptoarithmetic KAN+GA=ROO, value RN-KG*
 
-> In the equality KAN + GA = ROO each letter represents one of the ten
-> digits and different letters represent different digits. Then the difference
-> RN – KG equals
+> In the equation KAN + GA = ROO, each letter represents one of ten digits, and different letters represent different digits. Then the value of RN – KG is
 > A) 10
 > B) 11
 > C) 12
 > D) 21
 > E) 22
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q28|src_kangourou_2008_benjamin_marzo__Q28]]
 
 
 
@@ -1446,9 +1559,19 @@ With so many matches, it's impossible to make a triangle.
 \end{document}
 ```
 
-> The area of the largest equilateral triangle in the drawing is 16. So the sum of the areas of the 27 equilateral triangles that you can find in the diagram is A) 56 B) 61 C) 83 D) 87 E) 88
+> The area of the largest equilateral triangle in the drawing is 16. Then the sum of the areas of the 27 equilateral triangles that you can identify in the drawing is
+> A) 56 
+> B) 61 
+> C) 83 
+> D) 87 
+> E) 88
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q29|src_kangourou_2008_benjamin_marzo__Q29]]
 
 
 
@@ -1486,12 +1609,23 @@ With so many matches, it's impossible to make a triangle.
 <div class="qlang-split" data-lang="en"></div>
 
 
-The number of boys sharing apples
+*Number of boys sharing the apples*
 
-> Some boys shared a certain amount of apples so that everyone had the same number. If the boys were two fewer, they'd each get an extra apple. If they were three fewer, they would each receive two more apples. How many kids are there? A) 6 B) 8 C) 9 D) 10 E) 12 Texts_08.qxp 9-03-2008 14:56 Page 15
-> 
-> Category Benjamin For first and second year students of lower secondary school
->  
-> Questions from N.1 to N. 10 is worth 3 points each.
+> Some boys divided a certain number of apples so that each of them got the same number. If there had been two fewer boys, each of them would have received one extra apple. And if there had been three fewer boys, each of them would have received two extra apples. How many boys are there?
+> A) 6 
+> B) 8 
+> C) 9
+> D) 10 
+> E) 12
+> Testi_08.qxp 9-03-2008 14:56 Page 15
+>
+> Benjamin category for first- and second-year lower secondary school students
+>
+> Questions 1 to 10 are each worth 3 points.
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_benjamin_marzo#q30|src_kangourou_2008_benjamin_marzo__Q30]]

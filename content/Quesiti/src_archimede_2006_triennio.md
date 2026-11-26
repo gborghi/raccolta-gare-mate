@@ -36,9 +36,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*United number of the next page divisible by 3,4,5*
+*The units digit of the next page is divisible by 3, 4 and 5.*
 
-> Laura is reading a book and she notices that the page number she reached is divisible by 3, 4, and 5. What is the unit number for the next page number?
+> Laura is reading a book and notices that the number of the page she has reached is divisible by 3, 4 and 5. What is the units digit of the number of the next page?
 >
 > - **(A)** 1,
 > - **(B)** 3,
@@ -46,7 +46,10 @@ level: triennio
 > - **(D)** 6,
 > - **(E)** 9.
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2006_triennio#q01|src_archimede_2006_triennio__Q01]]
 
 
 
@@ -77,17 +80,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values of a with x^2+2ax+1=0 at coinciding roots*
+*Values of a for which the equation has a repeated root*
 
-> The real number a is such that the equation x2 + 2ax + 1 = 0 has two coinciding real solutions. What are the possible values of a?
+> The real number a is such that the equation x2 + 2ax + 1 = 0 has two coincident real solutions. How many possible values of a are there?
 >
-> - **(A)** No one.
-> - **(B)** One of them.
-> - **(C)** two,
-> - **(D)** three,
-> - **(E)** Four of them.
+> - **(A)** none
+> - **(B)** one
+> - **(C)** two
+> - **(D)** three
+> - **(E)** four.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2006_triennio#q03|src_archimede_2006_triennio__Q03]]
 
 
 
@@ -117,9 +123,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area triangle rectangle by projections of the catheters*
+*Area of a right triangle from the projections of the legs*
 
-> In a rectangular triangle the projections of the cathetes on the hypotenuse measure 3 m and 12 m respectively. What is the area of the triangle?
+> In a right triangle, the projections of the legs onto the hypotenuse measure 3 m and 12 m respectively. What is the area of the triangle?
 >
 > - **(A)** 45 m2,
 > - **(B)** 60 m2,
@@ -127,7 +133,10 @@ level: triennio
 > - **(D)** 84 m2,
 > - **(E)** 90 m2.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2006_triennio#q05|src_archimede_2006_triennio__Q05]]
 
 
 
@@ -158,17 +167,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*TV price with two successive discounts*
+*Television price with two successive discounts*
 
-> Francesco is interested in a TV model that is sold in the Landscape supermarket for 800 Euro. It is also noted that in Ipersfera stores they sell the same model at 15% less and practice a 10% discount to all customers named Francesco. How much do you spend buying a TV at the hypersphere stores?
+> Francesco is interested in a model of television sold in the Landscape supermarkets at 800 Euro. He then notices that the Ipersfera shops sell the same model at 15% less and give a 10% discount to all customers named Francesco. How much does he spend by buying the television in the Ipersfera shops?
 >
-> - **(A)** EUR 600,
-> - **(B)** EUR 612
-> - **(C)** EUR 680
-> - **(D)** EUR 720,
-> - **(E)** 790 Euros.
+> - **(A)** 600 Euro,
+> - **(B)** 612 Euro,
+> - **(C)** 680 Euro,
+> - **(D)** 720 Euro,
+> - **(E)** 790 Euro.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2006_triennio#q06|src_archimede_2006_triennio__Q06]]
 
 
 
@@ -198,9 +210,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of positive divisors of 6 factors*
+*Number of positive divisors of 6 factorial*
 
-> How many positive divisors does he have? = 1·2·3·4·5·6 ? (The divisors of a number must also include 1 and the number itself.)
+> How many positive divisors does 6! = 1·2·3·4·5·6 have? (Divisors of a number must include 1 and the number itself.)
 >
 > - **(A)** 5,
 > - **(B)** 6,
@@ -208,7 +220,10 @@ level: triennio
 > - **(D)** 24,
 > - **(E)** 30.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2006_triennio#q08|src_archimede_2006_triennio__Q08]]
 
 
 
@@ -239,9 +254,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rope perimeter by diagonal to 3/4*
+*Perimeter of a rhombus from diagonals in the ratio 3/4*
 
-> The dimensions of the diagonals of a wheel are one 3 4 of the other and their sum is 56 m. Calculate the perimeter of the rim.
+> The measures of the diagonals of a rhombus are in the ratio 3/4 and their sum is 56 m. Calculate the perimeter of the rhombus.
 >
 > - **(A)** 60 m,
 > - **(B)** 80 m,
@@ -249,7 +264,10 @@ level: triennio
 > - **(D)** 100 m,
 > - **(E)** 108 m.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2006_triennio#q09|src_archimede_2006_triennio__Q09]]
 
 
 
@@ -277,11 +295,19 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordinate roots 2 ×2^1/6), roots 5, 11^1/3)*
+*Ordering the roots 2*2^(1/6), root 5, 11^(1/3)*
 
-> Put the three numbers in increasing order 2 6√ 2, √ 5, 3√
+> Arrange in increasing order the three numbers 2
+> 6√
+> 2,
+> √
+> 5,
+> 3√
 
-**Answer:** A
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+[[Quesiti/src_archimede_2006_triennio#q10|src_archimede_2006_triennio__Q10]]
 
 
 
@@ -314,9 +340,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Center beam between six hexagonal beams*
+*Radius of the central token among six hexagonal tokens*
 
-> Gigi has on a table six red, round, equal to each other tokens with a radius of 10 cm, so that they touch by two to two without overlapping and that their centers are arranged on the vertices of a regular hexagon. Then you notice that there's still room in the middle to hold a blue, round token, so that you touch all six red tokens without overlapping. What is the radius of the blue token?
+> Gigi places six red, round, equal tokens on a table, each with radius 10 cm, so that they touch each other pairwise without overlapping and so that their centres are arranged at the vertices of a regular hexagon. Then he notices that there is still space in the middle to place a blue, round token so that it touches all six red tokens without overlapping them. What is the radius of the blue token?
 >
 > - **(A)** 5 √ 3 cm,
 > - **(B)** 10 cm,
@@ -324,7 +350,10 @@ level: triennio
 > - **(D)** 15 √ 3 cm,
 > - **(E)** 20 cm.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2006_triennio#q14|src_archimede_2006_triennio__Q14]]
 
 
 
@@ -357,19 +386,24 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real solutions to an equation with absolute values*
+*Number of real solutions of an equation with absolute values*
 
-> How many real solutions has the equation
+> How many real solutions does the equation
 >
-> |a| + 3 −2 = 1 ?
+> |a| + 3
+>  −2
+>  = 1 ?
 >
-> - **(A)** None of them.
-> - **(B)** One of them.
-> - **(C)** two,
-> - **(D)** three,
-> - **(E)** I got eight.
+> - **(A)** none
+> - **(B)** one
+> - **(C)** two
+> - **(D)** three
+> - **(E)** eight.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2006_triennio#q15|src_archimede_2006_triennio__Q15]]
 
 
 
@@ -401,9 +435,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Candy price class companies*
+*Classmates from candy prices*
 
-> Andrea enters a store with the exact amount of money to buy a candy for each of her classmates, at the price of thirteen cents a month. But the candy price dropped to ten cents a month, and Andrea bought six more candies than expected, running out of money. How many of Andrew's classmates are there?
+> Andrea enters a shop with exactly enough money to buy one candy for each of his classmates, at a price of thirteen cents each.
+> The price of the candies then drops to ten cents each and Andrea buys six candies more than planned, using up all the money he had. How many classmates does Andrea have?
 >
 > - **(A)** 18,
 > - **(B)** 20,
@@ -411,7 +446,10 @@ level: triennio
 > - **(D)** 23,
 > - **(E)** 24.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2006_triennio#q16|src_archimede_2006_triennio__Q16]]
 
 
 
@@ -454,21 +492,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of enclosed and inscribed square areas*
+*Ratio of the areas of the circumscribed and inscribed squares*
 
-![[src_archimede_2006_triennio__prob17.png]]
-
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw (-2,-2) rectangle (2,2);
-  \draw (0,0) circle (2);
-  \draw (-1.414,-1.414) rectangle (1.414,1.414);
-\end{tikzpicture}
-\end{document}
-```
-
-> In the next figure, we call Q the square surrounded by the circumference and Q′ the square inscribed in the circumference. What is the ratio of the area of Q to that of Q′?
+> In the figure alongside, let us call Q the square circumscribed about the circle and Q′ the square inscribed in the circle. What is the ratio between the area of Q and that of Q′?
 >
 > - **(A)** √ 2 2 ,
 > - **(B)** √ 2,
@@ -476,7 +502,10 @@ level: triennio
 > - **(D)** 2 √ 2,
 > - **(E)** 4.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2006_triennio#q17|src_archimede_2006_triennio__Q17]]
 
 
 
@@ -508,7 +537,7 @@ level: triennio
 
 *Ordering ISOLA without two consecutive consonants*
 
-> How many distinct ways can the letters I, S, O, L, A be arranged so that there are no two consecutive consonants?
+> In how many distinct ways can the letters I, S, O, L, A be ordered so that there are no two consecutive consonants?
 >
 > - **(A)** 60,
 > - **(B)** 72,
@@ -516,7 +545,10 @@ level: triennio
 > - **(D)** 96,
 > - **(E)** 120.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2006_triennio#q18|src_archimede_2006_triennio__Q18]]
 
 
 
@@ -549,17 +581,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-The truth and lies between Andrew, Barbara and Cyrus
+*Truth-tellers and liars among Andrea, Barbara and Ciro*
 
-> The inhabitants of an island fall into two categories: those who are always honest and those who always lie. Among three inhabitants of the island, Andrew, Barbara and Cyrus, this conversation takes place: Andrew says: Barbara is sincere, Barbara says: Andrea and Cyrus are sincere, Cyrus says: Andrea is a liar. We can conclude that
+> The inhabitants of an island fall into two categories: those who are always truthful and those who always lie. Among three inhabitants of the island, Andrea, Barbara and Ciro, the following conversation takes place: Andrea says: “Barbara is truthful”, Barbara says: “Andrea and Ciro are truthful”, Ciro says: “Andrea is a liar”. We can conclude that
 >
-> - **(A)** All three of them are sincere.
-> - **(B)** All three of them are liars.
-> - **(C)** Andrea and Barbara are honest and Cyrus is a liar.
-> - **(D)** Andrea and Barbara are liars and Cyrus is sincere.
-> - **(E)** Andrea is sincere and Cyrus and Barbara are liars.
+> - **(A)** all three are truthful
+> - **(B)** all three are liars
+> - **(C)** Andrea and Barbara are truthful and Ciro is a liar
+> - **(D)** Andrea and Barbara are liars and Ciro is truthful
+> - **(E)** Andrea is truthful and Ciro and Barbara are liars.
 
-**Answer:** D
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2006_triennio#q19|src_archimede_2006_triennio__Q19]]
 
 
 
@@ -588,9 +623,9 @@ The truth and lies between Andrew, Barbara and Cyrus
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of 17 high 17*
+*Units digit of 17 raised to 17*
 
-> What's the unit count for 1717?
+> What is the units digit of $17^{17}$?
 >
 > - **(A)** 1,
 > - **(B)** 3,
@@ -598,7 +633,10 @@ The truth and lies between Andrew, Barbara and Cyrus
 > - **(D)** 7,
 > - **(E)** 9.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2006_triennio#q21|src_archimede_2006_triennio__Q21]]
 
 
 
@@ -630,17 +668,20 @@ The truth and lies between Andrew, Barbara and Cyrus
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of motorcycles from vehicles and covers*
+*Number of motorcycles from the vehicles and the tyres*
 
-> A vandal cuts all the covers of cars and motorcycles parked along a road. The police arrest him and find 44 vehicles damaged. The person responsible is ordered to pay the costs of replacing the 144 blankets he has cut. How many motorcycles were parked on that road?
+> A vandal cuts all the tyres of the cars and motorcycles parked along a road. The police arrest him and find that 44 vehicles have been damaged. The person responsible is ordered to pay the cost of replacing the 144 tyres he cut. How many motorcycles were parked on that road?
 >
-> - **(A)** Less than nine.
-> - **(B)** more than 10 and less than 14,
-> - **(C)** more than 15 and less than 19,
-> - **(D)** more than 20 and less than 24,
+> - **(A)** fewer than 9
+> - **(B)** more than 10 and fewer than 14
+> - **(C)** more than 15 and fewer than 19
+> - **(D)** more than 20 and fewer than 24
 > - **(E)** more than 25.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2006_triennio#q22|src_archimede_2006_triennio__Q22]]
 
 
 
@@ -698,35 +739,11 @@ The truth and lies between Andrew, Barbara and Cyrus
 <div class="qlang-split" data-lang="en"></div>
 
 
-*HCD triangle area from segments in a square*
+*Area of triangle HCD in a square with AB trisected*
 
 ![[src_archimede_2006_triennio__prob23.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (6,0);
-  \coordinate (C) at (6,6);
-  \coordinate (D) at (0,6);
-  \coordinate (E) at (2,0);
-  \coordinate (F) at (4,0);
-  \coordinate (H) at (3,1.5);
-  \draw (A) -- (B) -- (C) -- (D) -- cycle;
-  \draw (E) -- (C);
-  \draw (F) -- (D);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above right] at (C) {$C$};
-  \node[above left] at (D) {$D$};
-  \node[below] at (E) {$E$};
-  \node[below] at (F) {$F$};
-  \node[above right] at (H) {$H$};
-\end{tikzpicture}
-\end{document}
-```
-
-> In the ABCD square, having a side length of 12 m, the AB side is divided into three segments AE, EF and FB of equal length. The EC and FD segments intersecting at point H shall be mapped. What is the area of the HCD triangle?
+> In the square ABCD, of side 12 m, the side AB is divided into three segments AE, EF and FB of equal length. The segments EC and FD are drawn, and they meet at the point H. What is the area of triangle HCD?
 >
 > - **(A)** 36 m2,
 > - **(B)** 48 m2,
@@ -734,7 +751,12 @@ The truth and lies between Andrew, Barbara and Cyrus
 > - **(D)** 60 m2,
 > - **(E)** 72 m2.
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2006_triennio#q23|src_archimede_2006_triennio__Q23]]
 
 
 
@@ -763,14 +785,17 @@ The truth and lies between Andrew, Barbara and Cyrus
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nature of number 100020001*
+*Nature of the number 100020001*
 
 > The number 100020001 is:
 >
-> - **(A)** a prime number,
-> - **(B)** a perfect square,
-> - **(C)** a multiple of three,
-> - **(D)** A perfect cube,
-> - **(E)** a multiple of 11.
+> - **(A)** a prime number
+> - **(B)** a perfect square
+> - **(C)** a multiple of three
+> - **(D)** a perfect cube
+> - **(E)** a multiple of eleven.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2006_triennio#q24|src_archimede_2006_triennio__Q24]]

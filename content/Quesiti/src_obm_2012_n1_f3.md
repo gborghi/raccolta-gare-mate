@@ -35,13 +35,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Formare due numeri a 4 cifre utilizzando cifre da 1 a 8 una volta ciascuna; massimizzare la differenza (trovare la loro somma) e ridurre al minimo la somma (trovare la differenza più piccola possibile).
+*Forma due numeri di quattro cifre usando le cifre da 1 a 8, ciascuna una sola volta; massimizza la differenza (trova la loro somma) e minimizza la somma (trova la differenza più piccola possibile).*
 
-> Elaine utilizza ciascuna delle cifre da $1$ a $8$ per scrivere due numeri a quattro cifre, utilizzando ogni cifra una volta.
-> 
+> Elaine utilizza ciascuna delle cifre da $1$ a $8$ per scrivere due numeri di quattro cifre, impiegando ogni cifra una sola volta.
+>
 > a) Se la differenza tra i due numeri è la più grande possibile, qual è la somma di questi numeri?
-> 
-> b) Se la somma di questi numeri è la più piccola possibile, qual è la più piccola differenza possibile tra loro?
+>
+> b) Se la somma di questi numeri è la più piccola possibile, qual è la differenza più piccola possibile tra di essi?
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n1_f3#q01|src_obm_2012_n1_f3__Q01]]
 
 
 
@@ -70,13 +79,22 @@ Formare due numeri a 4 cifre utilizzando cifre da 1 a 8 una volta ciascuna; mass
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due esagoni diversi con tutti gli angoli interni di 120 gradi; trovare il perimetro di ABCDEF e il valore di ST+PU da lunghezze laterali date.*
+*Due esagoni diversi, ciascuno con tutti gli angoli interni di 120 gradi; determina il perimetro di ABCDEF e il valore di ST+PU a partire dalle lunghezze dei lati date.*
 
-> Ana disegnò due esagoni diversi con angoli interni di $120^\circ$ ciascuno. Uno di essi è l'esagono $ABCDEF$ e l'altro è l'esagono $PQRSTU$.
-> 
+> Ana ha disegnato due esagoni diversi, ciascuno con angoli interni di $120^\circ$. Uno di essi è l'esagono $ABCDEF$ e l'altro è l'esagono $PQRSTU$.
+>
 > a) Se $AB = CD = 5$, $BC = 8$ e $EF = 3$, qual è il perimetro dell'esagono $ABCDEF$?
-> 
+>
 > b) Se $PQ = 3$, $QR = 4$, $RS = 5$ e $TU = 1$, qual è il valore di $ST + PU$?
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n1_f3#q02|src_obm_2012_n1_f3__Q02]]
 
 
 
@@ -105,13 +123,22 @@ Formare due numeri a 4 cifre utilizzando cifre da 1 a 8 una volta ciascuna; mass
 <div class="qlang-split" data-lang="it"></div>
 
 
-D'un mucchio di 25 carte Doroti ne prende alcune e restituisce il resto a Cristina; utilizzando i fatti di divisibilità/coprimalità/parità sui due conti, trova i numeri.*
+*Da un mucchio di 25 carte, Doroti ne prende alcune e restituisce le restanti a Cristina; usando proprietà di divisibilità, coprimalità e parità relative ai due conteggi, determina i numeri.*
 
-> Cristina mostra a Doroti un mucchio di carte $25$ e chiede alla sua amica Doroti di scegliere alcune di esse e restituire il resto a Cristina. Cristina nota poi il numero di carte che Doroti ha e il numero di carte che ha lei stessa. Ecco le situazioni.
-> 
-> a) Nella prima occasione, la differenza tra i numeri delle carte di Doroti e di Cristina era un multiple di $4$, e questi due numeri erano anche copriemi. Quali erano questi due numeri?
-> 
-> b) Nella seconda occasione, Doroti ha scelto le sue carte in modo tale che, tra i due numeri (le carte di Doroti e quelle di Cristina), uno dei numeri sia divisibile dall'altro, anche se nessuno di essi è pari. Quali sono i due numeri? E qual è il più grande di questi numeri?
+> Cristina mostra a Doroti un mucchio di $25$ carte e chiede alla sua amica Doroti di sceglierne alcune e di restituire il resto a Cristina. Cristina annota poi i numeri delle carte che ha Doroti e i numeri delle carte che ha lei stessa. Di seguito sono riportate le situazioni.
+>
+> a) Alla prima occasione, la differenza tra il numero di carte appartenenti a Doroti e il numero di carte appartenenti a Cristina era un multiplo di $4$, e questi due numeri erano anche coprimi. Quali erano questi due numeri?
+>
+> b) Alla seconda occasione, Doroti ha scelto le proprie carte in modo tale che, tra i due numeri (le carte di Doroti e le carte di Cristina), uno dei due sia divisibile per l'altro, pur non essendo nessuno dei due pari. Quali sono i due numeri? E qual è il più grande tra questi numeri?
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n1_f3#q03|src_obm_2012_n1_f3__Q03]]
 
 
 
@@ -142,15 +169,24 @@ D'un mucchio di 25 carte Doroti ne prende alcune e restituisce il resto a Cristi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un cubo di legno di borda di 7 cm viene tagliato in quattro blocchi rettangolari mediante tagli paralleli alle sue facce; data la superficie totale di 136, 46, 94 di tre blocchi, si trova la superficie del cubo e la superficie del quarto blocco.*
+*Un cubo di legno con spigolo di 7 cm viene segato in quattro blocchi rettangolari mediante tagli paralleli alle sue facce; dati gli areali totali di 136, 46 e 94 di tre blocchi, si determinino l'areale totale del cubo e l'areale totale del quarto blocco.*
 
-> Beto tagliava un cubo di legno di margine $7$ cm in quattro blocchi rettangolari mediante tagli paralleli alle sue facce. I numeri della figura indicano, in cm$^2$, la superficie totale di tre dei blocchi ($136$, $46$ e $94$).
-> 
-> a) Qual era la superficie totale del cubo prima di essere taglio?
-> 
-> b) Qual è la superficie totale del quarto blocco rettangolare?
+> Beto ha segato un cubo di legno con spigolo di $7$ cm in quattro blocchi rettangolari mediante tagli paralleli alle sue facce. I numeri nella figura indicano, in cm$^2$, l'area totale della superficie di tre dei blocchi ($136$, $46$ e $94$).
+>
+> a) Qual era l'area superficiale totale del cubo prima che venisse segato?
+>
+> b) Qual è l'area superficiale totale del quarto blocco rettangolare?
 
 ![[src_obm_2012_n1_f3__q04.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f3#q04|src_obm_2012_n1_f3__Q04]]
 
 
 
@@ -179,10 +215,19 @@ D'un mucchio di 25 carte Doroti ne prende alcune e restituisce il resto a Cristi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fuse di amoebas in coppie (rosso+rosso->1 azzurro, rosso+blu->2 rosso, blu+blu->2 rosso); da 19 azzurri e 95 rossi, trovare la dimensione massima della prossima generazione e il numero di amoebas azzurri quando il totale è di 100.*
+*Le amebe si fondono a coppie (rosso+rosso→1 blu, rosso+blu→2 rosse, blu+blu→2 rosse); partendo da 19 blu e 95 rosse, determina la dimensione massima della generazione successiva e il numero di amebe blu quando il totale è 100.*
 
-> Quando due amebe rosse si uniscono, si trasformano in una sola ameba blu; quando una ameba rossa si unisce ad una ameba blu, le due si trasformano in due amebe rosse; e quando due amebe blu si uniscono, si trasformano in due amebe rosse. Fernando osserva un tubo di prova che contiene inizialmente $19$ amoebas blu e $95$ amoebas rosse.
-> 
-> a) osserva che tutti gli amoeba si uniscono in coppie, dando origine agli amoeba della generazione successiva. Quanti amoeba possono avere questa generazione?
-> 
-> b) A partire dalla situazione iniziale, se in un istante ci sono $100$ amoebas, quante saranno blu?
+> Quando due amebe rosse si uniscono, si trasformano in un'unica ameba blu; quando un'ameba rossa si unisce a un'ameba blu, le due si trasformano in due amebe rosse; e quando due amebe blu si uniscono, si trasformano in due amebe rosse. Fernando osserva una provetta che inizialmente contiene $19$ amebe blu e $95$ amebe rosse.
+>
+> a) Osserva che tutte le amebe si uniscono a coppie, dando origine alle amebe della generazione successiva. Al massimo, quante amebe può avere questa generazione?
+>
+> b) Partendo dalla situazione iniziale, se in un certo istante ci sono $100$ amebe, quante saranno blu?
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f3#q05|src_obm_2012_n1_f3__Q05]]

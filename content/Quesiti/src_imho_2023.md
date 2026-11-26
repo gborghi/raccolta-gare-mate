@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Interi composti n>1 con condizione di divisibilità sui divisori*
+*Numeri interi composti n>1 con condizione di divisibilità sui divisori*
 
-> Determinare tutti gli interi positivi composti $n > 1$ che soddisfano la seguente proprietà: se $d_1, d_2, \ldots, d_k$ sono tutti i divisori positivi di $n$ minori di $1 = d_1 < d_2 < \cdots < d_k = n$, allora $d_i$ divide $d_{i+1} + d_{i+2}$ per ogni $1 \le i \le k - 2$.
+> Determinare tutti gli interi composti $n > 1$ che soddisfano la seguente proprietà: se $d_1, d_2, \ldots, d_k$ sono tutti i divisori positivi di $n$ con $1 = d_1 < d_2 < \cdots < d_k = n$, allora $d_i$ divide $d_{i+1} + d_{i+2}$ per ogni $1 \le i \le k - 2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2023#q01|src_imho_2023__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La tangente alla circonferenza circoscritta incontra la bisettrice interna nell'angolo*
+*La retta tangente alla circonferenza circoscritta incontra la bisettrice dell'angolo sulla bisettrice interna*
 
-> Sia $ABC$ un triangolo acutangolo con $AB < AC$. Sia $\Omega$ la circonferenza circoscritta a $ABC$. Sia $S$ il punto medio dell'arco $CB$ della circonferenza $\Omega$ che contiene $A$. La perpendicolare da $A$ alla retta $BC$ incontra $BS$ in $D$ e $\Omega$ in $E \ne A$. La retta passante per $D$ parallela a $BC$ incontra la retta $BE$ in $L$. Si indichi con $\omega$ la circonferenza circoscritta al triangolo $BDL$. Sia $\omega$ l'altro punto di intersezione tra $\Omega$ e $P \ne B$. Si dimostri che la tangente a $\omega$ nel punto $P$ incontra la retta $BS$ sulla bisettrice interno dell'angolo $\angle BAC$.
+> Sia $ABC$ un triangolo acutangolo con $AB < AC$. Sia $\Omega$ la circonferenza circoscritta a $ABC$. Sia $S$ il punto medio dell'arco $CB$ di $\Omega$ che contiene $A$. La perpendicolare condotta da $A$ a $BC$ incontra $BS$ in $D$ e incontra $\Omega$ in $E \ne A$. La retta passante per $D$ e parallela a $BC$ incontra la retta $BE$ in $L$. Si denoti con $\omega$ la circonferenza circoscritta al triangolo $BDL$. Sia $\omega$ che incontra nuovamente $\Omega$ in $P \ne B$. Dimostrare che la retta tangente a $\omega$ in $P$ incontra la retta $BS$ sull'asse bisettrice interno di $\angle BAC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2023#q02|src_imho_2023__Q02]]
 
 
 
@@ -81,11 +95,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successioni infinite di interi positivi che ammettono una ricorrenza polinomiale*
+*Successioni infinite di interi positivi che ammettono una relazione di ricorrenza polinomiale*
 
-> Per ogni intero positivo $k \ge 2$, determinare tutte le successioni infinite di interi positivi $a_1, a_2, \ldots$ per cui esiste un polinomio $P$ della forma $P(x) = x^k + c_{k-1}x^{k-1} + \cdots + c_1 x + c_0$, dove gli $c_0, c_1, \ldots, c_{k-1}$ sono interi non negativi, tale che
+> Per ogni intero $k \ge 2$, determina tutte le successioni infinite di interi positivi $a_1, a_2, \ldots$ per le quali esiste un polinomio $P$ della forma $P(x) = x^k + c_{k-1}x^{k-1} + \cdots + c_1 x + c_0$, dove $c_0, c_1, \ldots, c_{k-1}$ sono interi non negativi, tale che
 > $$P(a_n) = a_{n+1} a_{n+2} \cdots a_{n+k}$$
 > per ogni intero $n \ge 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2023#q03|src_imho_2023__Q03]]
 
 
 
@@ -110,11 +131,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Somma di reciproci è sempre un intero*
+*Una somma che coinvolge i reciproci è sempre un numero intero*
 
-> Siano $x_1, x_2, \ldots, x_{2023}$ numeri reali positivi a due a due distinti tali che
+> Sia $x_1, x_2, \ldots, x_{2023}$ un insieme di numeri reali positivi due a due distinti tali che
 > $$a_n = \sqrt{(x_1 + x_2 + \cdots + x_n)\left(\frac{1}{x_1} + \frac{1}{x_2} + \cdots + \frac{1}{x_n}\right)}$$
-> sia un numero intero per ogni $n = 1, 2, \ldots, 2023$. Si dimostri che $a_{2023} \ge 3034$.
+> sia un numero intero per ogni $n = 1, 2, \ldots, 2023$. Dimostrare che $a_{2023} \ge 3034$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2023#q04|src_imho_2023__Q04]]
 
 
 
@@ -141,13 +169,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Percorso del ninja con k cerchi rossi nel triangolo giapponese*
+*Percorso ninja con k cerchi rossi in un triangolo giapponese*
 
-> Sia $n$ un intero positivo. Un triangolo norvegese è un triangolo formato da $1 + 2 + \cdots + n$ cerchi disposti in una configurazione equilatera tale che, per ogni $i = 1, 2, \ldots, n$, la riga $i^{\text{th}}$ contiene esattamente $i$ cerchi, di cui esattamente uno è colorato di rosso. Un percorso ninja in un triangolo norvegese è una sequenza di $n$ cerchi ottenuta partendo dalla riga in alto, poi passando ripetutamente da un cerchio a uno dei due cerchi immediatamente sottostanti, e terminando nella riga in basso. Di seguito è riportato un esempio di triangolo norvegese con $n = 6$, insieme a un percorso ninja in tale triangolo che contiene due cerchi rossi.
-> 
-> In termini di $n$, si determini il massimo valore di $k$ tale che in ogni triangolo norvegese esista un percorso del ninja contenente almeno $k$ circoli rossi.
+> Sia $n$ un numero intero positivo. Un triangolo norvegese è un triangolo formato da $1 + 2 + \cdots + n$ cerchi disposti a forma di triangolo equilatero, in modo che, per ogni $i = 1, 2, \ldots, n$, la $i^{\text{th}}$-esima riga contenga esattamente $i$ cerchi, uno solo dei quali è colorato di rosso. Un percorso ninja in un triangolo norvegese è una sequenza di $n$ cerchi ottenuta partendo dalla riga in cima, poi spostandosi ripetutamente da un cerchio a uno dei due cerchi immediatamente sottostanti, e terminando nella riga in fondo. Ecco un esempio di triangolo norvegese con $n = 6$, insieme a un percorso ninja in quel triangolo che contiene due cerchi rossi.
+>
+> In termini di $n$, determina il più grande $k$ tale che, in ogni triangolo norvegese, esista un percorso ninja che contenga almeno $k$ cerchi rossi.
 
 ![[src_imho_2023__q05.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2023#q05|src_imho_2023__Q05]]
 
 
 
@@ -176,8 +211,15 @@ level: IMO
 
 *Punti interni di un triangolo equilatero con condizione sulla somma degli angoli*
 
-> Sia $ABC$ un triangolo equilatero. Siano $A_1, B_1, C_1$ punti interni a $ABC$ tali che $BA_1 = A_1C$, $CB_1 = B_1A$, $AC_1 = C_1B$ e
+> Sia $ABC$ un triangolo equilatero. Siano $A_1, B_1, C_1$ punti interni di $ABC$ tali che $BA_1 = A_1C$, $CB_1 = B_1A$, $AC_1 = C_1B$, e
 > $$\angle BA_1C + \angle CB_1A + \angle AC_1B = 480^\circ.$$
-> Le rette $BC_1$ e $CB_1$ si incontrano in $A_2$, le rette $CA_1$ e $AC_1$ si incontrano in $B_2$ e le rette $AB_1$ e $BA_1$ si incontrano in $C_2$. Si dimostri che se il triangolo $A_1B_1C_1$ è scaleno, allora le tre rette $A_1A_2$, $B_1B_2$, $C_1C_2$ passano tutte per due punti comuni.
-> 
-> (Nota: un triangolo scaleno è un triangolo in cui nessun due lati ha lunghezza uguale.)
+> Siano $BC_1$ e $CB_1$ incidenti in $A_2$; siano $CA_1$ e $AC_1$ incidenti in $B_2$; e siano $AB_1$ e $BA_1$ incidenti in $C_2$. Dimostrare che, se il triangolo $A_1B_1C_1$ è scaleno, allora le tre rette $A_1A_2$, $B_1B_2$, $C_1C_2$ passano tutte per due punti comuni.
+>
+> (Nota: un triangolo scaleno è un triangolo in cui nessuna coppia di lati ha la stessa lunghezza.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2023#q06|src_imho_2023__Q06]]

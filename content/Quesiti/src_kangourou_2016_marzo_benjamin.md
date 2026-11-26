@@ -38,17 +38,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*part of each slice*
+*Part of each slice*
 
-> Michael cuts a pizza into four equal slices. Then he cuts each of these four slices into three equal slices. What part of the total is each resulting slice? A) One third
-> 	
+> Michele cuts a pizza into 4 equal slices. Then he cuts each of these four slices into three equal smaller slices. What fraction of the whole pizza is each resulting small slice?
+> A) A third
+>
 > B) A quarter
-> 	
-> C) One seventh D) One eighth
-> 	
+>
+> C) A seventh
+> D) An eighth
+>
 > E) One twelfth
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q01|src_kangourou_2016_marzo_benjamin__Q01]]
 
 
 
@@ -81,13 +87,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*lengths of the three pieces*
+*Lengths of the three pieces*
 
 ![[src_kangourou_2016_marzo_benjamin__prob2.png]]
 
-> A 10 cm long thread is folded into equal parts as shown in the figure. If the thread is cut where indicated by the dashed lines, how many centimeters are the resulting three pieces of wire? A) 2, 3, 5 B) 2, 2, 6 C) 1, 4, 5 D) 1, 3, 6 E) 3, 3, 4
+> A piece of wire 10 cm long is folded into equal parts as shown in the figure. If the wire is cut where the dashed lines indicate, how many centimeters long are the three resulting pieces of wire?
+> A) 2, 3, 5	
+> B) 2, 2, 6	
+> C) 1, 4, 5	
+> D) 1, 3, 6	
+> E) 3, 3, 4
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q02|src_kangourou_2016_marzo_benjamin__Q02]]
 
 
 
@@ -124,21 +139,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*max removable without dropping cards*
+*Maximum removable without dropping postcards*
 
 ![[src_kangourou_2016_marzo_benjamin__prob3.png]]
 
-> Lisa fixed some postcards on her refrigerator door using 8 robust magnets (the black circles in the picture). How many magnets can she remove without any of the cards falling to the ground? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> Lisa has attached some postcards to the door of her refrigerator using 8 sturdy magnets (the small black circles in the figure). What is the maximum number of magnets she can remove without any of the postcards falling to the floor?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q03|src_kangourou_2016_marzo_benjamin__Q03]]
 
 
 
@@ -168,13 +188,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Traffic signal with more axes of symmetry*
+*Road sign with multiple axes of symmetry*
 
 ![[src_kangourou_2016_marzo_benjamin__prob4.png]]
 
-> Which of the following road signs has the most axes of symmetry? A) B) C)	              D) E)
+> Which of the following road signs has the greatest number of axes of symmetry?
+>      A)	
+>              B)  	
+>       C)	              D)	
+>        E)
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q04|src_kangourou_2016_marzo_benjamin__Q04]]
 
 
 
@@ -221,7 +250,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*smallest square area*
+*Area of the smaller square*
 
 ![[src_kangourou_2016_marzo_benjamin__prob5.png]]
 
@@ -235,17 +264,22 @@ level: kangourou
 \end{document}
 ```
 
-> Claudio draws a square with side 10 centimetres. Then he joins the midpoints of the sides forming a smaller square, as shown in the figure. How many square centimetres is the area of the smallest square? A) 10
-> 	
-> B) 20
-> 	
-> C) 25
-> 	
-> D) 40
-> 	
+> Claudio draws a square with sides 10 cm long. Then he joins the midpoints of the sides, thus forming a smaller square, as shown in the figure. What is the area of the smaller square in square centimeters?
+> A) 10	
+>
+> B) 20	
+>
+> C) 25	
+>
+> D) 40	
+>
 > E) 50
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q05|src_kangourou_2016_marzo_benjamin__Q05]]
 
 
 
@@ -279,20 +313,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The manufacturer shall provide the manufacturer with the following information:
+*Missing calipers*
 
-> A centipede has 25 pairs of socks. He needs a sock for every one of his hundred feet. How many socks is he missing? A) 15
-> 	
-> B) 20
-> 	
-> C) 35
-> 	
-> D) 50
-> 	
+> A centipede has 25 pairs of socks. It needs one sock for each of its hundred feet. How many socks is it short?
+> A) 15	
+>
+> B) 20	
+>
+> C) 35	
+>
+> D) 50	
+>
 > E) 75
 >
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q06|src_kangourou_2016_marzo_benjamin__Q06]]
 
 
 
@@ -329,21 +368,26 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*exchanges of cutlery required*
+*Necessary exchanges of cutlery*
 
 ![[src_kangourou_2016_marzo_benjamin__prob7.png]]
 
-> Alice knows that every seat at the table must have the knife to the right and the fork to the left of the plate. If the table is fitted as shown in the drawing, how many exchanges of cutlery is enough to make the correct arrangement of the cutlery? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 5
-> 	
+> Alice knows that at every place setting, the knife must be to the right of the plate and the fork to the left. If the table is set as shown in the drawing, how many swaps of cutlery will be enough for her to achieve the correct arrangement of the cutlery?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q07|src_kangourou_2016_marzo_benjamin__Q07]]
 
 
 
@@ -379,21 +423,26 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many levels*
+*How many levels?*
 
 ![[src_kangourou_2016_marzo_benjamin__prob8.png]]
 
-> Thomas and John want to build two parallelepipeds by placing side by side the same number of identical cubes. In the first figure you see the construction carried out by Thomas while in the second you see the lower level of the construction of John. How many levels will John's building have? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> Tommaso and Giovanni want to build two cuboids by joining the same number of identical cubes together. In the first figure, you can see the structure built by Tommaso, while in the second figure, you can see the lower layer of Giovanni's structure. How many layers will Giovanni's structure have?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q08|src_kangourou_2016_marzo_benjamin__Q08]]
 
 
 
@@ -430,21 +479,26 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many with the right ear on the pillow*
+*How many with the right ear on the pillow*
 
 ![[src_kangourou_2016_marzo_benjamin__prob9.png]]
 
-> In the figure you see a bedroom with four beds and the respective pillows. Bea and Pia are sleeping on the right side of the room and looking each other in the face, while Diana and Maria give each other their backs. How many girls sleep with their right ear resting on the pillow? A) 0
-> 	
-> B) 1
-> 	
-> C) 2
-> 	
-> D) 3
-> 	
+> In the picture, you can see a bedroom with four beds and their respective pillows. Bea and Pia are sleeping on the right side of the room and are facing each other, while Diana and Maria are back to back. How many girls are sleeping with their right ear resting on the pillow?
+> A) 0	
+>
+> B) 1	
+>
+> C) 2	
+>
+> D) 3	
+>
 > E) 4
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q09|src_kangourou_2016_marzo_benjamin__Q09]]
 
 
 
@@ -479,22 +533,26 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many in March 2020*
+*quantities as of March 2020*
 
-> In the country of the Kangaroos the kangaroo population doubles every June; every December one kangaroo, in agreement with the others, emigrates. Today there are 3 kangaroos in the country 
-> of the kangaroos. How many kangaroos will there be in March 2020?
+> In the Land of Kangaroos, the kangaroo population doubles every June; every December, one kangaroo, by agreement with the others, emigrates. Today, there are 3 kangaroos in the Land of Kangaroos. How many kangaroos will there be in March 2020?
 > A) 23	
-	
+>
 > B) 24	
-	
+>
 > C) 27	
-	
+>
 > D) 30	
-	
+>
 > E) 33
-> Questions from No. 11 to No. 20 are worth 4 points each
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q10|src_kangourou_2016_marzo_benjamin__Q10]]
 
 
 
@@ -526,13 +584,22 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure is not obtained by overlaying two squares*
+*Which figure is not obtained by superimposing two squares?*
 
 ![[src_kangourou_2016_marzo_benjamin__prob11.png]]
 
-> Which of the figures you see in the answers cannot be obtained by partially overlapping these two identical squares of paper? A) B) C) D) E)
+> Which of the figures you see in the answers cannot be obtained by partially overlapping these two identical paper squares?
+>           A)		
+>            B)	
+>           C) 	
+>            D) 	
+>         E)
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q11|src_kangourou_2016_marzo_benjamin__Q11]]
 
 
 
@@ -568,20 +635,26 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*days of Nora*
+*Nora's Days*
 
-> Maria, Anna and Nora work in a nursery. Every day from Monday to Friday, exactly two of them go to work. Maria works three days a week, Anna four days a week. How many days a week does Nora work? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> Maria, Anna, and Nora work at a nursery school. Every day from Monday to Friday, exactly two of them go to work. Maria works 3 days a week, and Anna works 4 days a week. How many days a week does Nora work?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
 >
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q12|src_kangourou_2016_marzo_benjamin__Q12]]
 
 
 
@@ -619,21 +692,26 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*who takes two*
+*Whoever takes two*
 
 ![[src_kangourou_2016_marzo_benjamin__prob13.png]]
 
-> Five squirrels A, B, C, D, and E stand on a straight branch on which there are 6 acorns (denoted in the figure with an asterisk). At the same moment the squirrels begin to run at the same speed toward the nearest acorn. As soon as a squirrel grabs its acorn, it begins to run toward the nearest new acorn. What squirrel can grab two acorns? A) A
-> 	
-> B) B
-> 	
-> C) C
-> 	
-> D) D
-> 	
+> Five squirrels, A, B, C, D, and E, are on a straight branch that has 6 acorns on it (marked with an asterisk in the figure). At the same instant, the squirrels start running at the same speed toward the nearest acorn. As soon as a squirrel has grabbed its acorn, it starts running toward the new nearest acorn. Which squirrel manages to snatch two acorns?
+> A) A	
+>
+> B) B	
+>
+> C) C	
+>
+> D) D	
+>
 > E) E
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q13|src_kangourou_2016_marzo_benjamin__Q13]]
 
 
 
@@ -666,19 +744,24 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many boys*
+*How many boys*
 
-> There are 30 students in a class. They were lined up in pairs so that exactly every boy has a girl next to him and exactly half of the girls have a boy next to them. How many boys are in the class? A) 25
-> 	
-> B) 20
-> 	
-> C) 15
-> 	
-> D) 10
-> 	
+> There are 30 pupils in a class. They have been lined up in pairs so that exactly every boy has a girl beside him and exactly half of the girls have a boy beside them. How many boys are there in the class?
+> A) 25	
+>
+> B) 20	
+>
+> C) 15	
+>
+> D) 10	
+>
 > E) 5
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q14|src_kangourou_2016_marzo_benjamin__Q14]]
 
 
 
@@ -711,9 +794,19 @@ The manufacturer shall provide the manufacturer with the following information:
 
 *minimum sum*
 
-> A strip of paper has the number 2581953764. Gianni cuts the strip at two points, getting three numbers, then adds those three numbers. What is the smallest sum he can get? A) 2675 B) 2975 C) 2978 D) 4217 E) 4298
+> On a strip of paper, the number 2581953764 is written. Gianni cuts the strip at two points, obtaining three numbers, and then adds these three numbers together. What is the smallest sum he can obtain?
+> A) 2675		
+> B) 2975		
+> C) 2978		
+> D) 4217		
+> E) 4298
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q15|src_kangourou_2016_marzo_benjamin__Q15]]
 
 
 
@@ -744,13 +837,22 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*what position*
+*Which position*
 
 ![[src_kangourou_2016_marzo_benjamin__prob16.png]]
 
-> Fulvio's from the hairdresser. Looking in the mirror he sees the clock with the hands in this position. What position would you have been if you'd looked in the mirror 10 minutes ago? A) B) C) D) E)
+> Fulvio is at the hairdresser's. Looking in the mirror, he sees the clock with the hands in this position. What would the position have been if he had looked in the mirror 10 minutes ago?
+>            A)	
+>            B)	
+>          C) 	
+>         D)	 	
+>         E)
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q16|src_kangourou_2016_marzo_benjamin__Q16]]
 
 
 
@@ -785,19 +887,24 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many days*
+*How many days?*
 
-> Ophelia bought cat food to feed her four cats for 12 days. On her way home, she found two stray cats and brought them home. If she gives each cat the same food ration every day as when she made the purchase, how many days will the stock last? A) 8
-> 	
-> B) 7
-> 	
-> C) 6
-> 	
-> D) 5
-> 	
+> Ofelia has bought cat food to feed her four cats for 12 days. On her way home, she found two stray cats and took them home. If she gives each cat the same amount of food each day as was decided when she made the purchase, how many days will the supply last?
+> A) 8	
+>
+> B) 7	
+>
+> C) 6	
+>
+> D) 5	
+>
 > E) 4
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q17|src_kangourou_2016_marzo_benjamin__Q17]]
 
 
 
@@ -833,27 +940,26 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*digit N*
+*figure N*
 
-> I wrote an odd number divisible by 3 using only the digits 1, 2, 3, 4, 5, 6, 7
-> and then I replaced each of its digits with a letter so that equal letters represent equal digits and different letters represent different digits. The word
-> BENJAMIN came out. Which digit corresponds to N?
+> I wrote an odd number divisible by 3 using only the digits 1, 2, 3, 4, 5, 6, 7, and then I replaced each of its digits with a letter so that identical letters represent identical digits and different letters represent different digits. The word BENJAMIN came out. Which digit corresponds to N?
 > A) 1	
-	
-> 	
+>
 > B) 2	
-	
-> 	
+>
 > C) 3	
-	
-> 	
+>
 > D) 5	
-	
-> 	
+>
 > E) 7 
 >
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q18|src_kangourou_2016_marzo_benjamin__Q18]]
 
 
 
@@ -888,19 +994,24 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*wins*
+*victories*
 
-> In a football championship a team gets 3 points if they win, 1 point if they draw, 0 points if they lose. A team played 18 games and drew as many times as they lost. The team has a total of 34 points: how many games have they won? A) 8
-> 	
-> B) 9
-> 	
-> C) 10
-> 	
-> D) 11
-> 	
+> In a football league, a team earns 3 points for a win, 1 point for a draw, and 0 points for a loss. A team has played 18 matches and has drawn as many times as it has lost. The team has accumulated 34 points: how many matches has it won?
+> A) 8	
+>
+> B) 9 	
+>
+> C) 10	
+>
+> D) 11	
+>
 > E) 12
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q19|src_kangourou_2016_marzo_benjamin__Q19]]
 
 
 
@@ -939,21 +1050,27 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*thick outline*
+*Often outlined*
 
 ![[src_kangourou_2016_marzo_benjamin__prob20.png]]
 
-> The rectangle ABCD has a perimeter of 30 cm. Three other rectangles have their centre at the vertices A, B and D and sides parallel to those of ABCD (see figure). The sum of the perimeters of the latter is 20 cm. How many centimeters is the outline drawn with a thick line? A) 35
-> 	
-> B) 40
-> 	
-> C) 45
-> 	
-> D) 50
-> 	
-> E) It is impossible to establish. The questions from N. 21 to N. 30 are worth 5 points each.
+> Rectangle ABCD has a perimeter of 30 cm. Three other rectangles have their centers at vertices A, B, and D and have sides parallel to those of ABCD (see figure). The sum of the perimeters of these three rectangles is 20 cm. How many centimetres long is the perimeter drawn with a thick line?
+> A) 35	
+>
+> B) 40	
+>
+> C) 45	
+>
+> D) 50	
+>
+> E) It is impossible to determine it.
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q20|src_kangourou_2016_marzo_benjamin__Q20]]
 
 
 
@@ -989,20 +1106,22 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*unfolded shape*
+*expanded form*
 
 ![[src_kangourou_2016_marzo_benjamin__prob21.png]]
 
-> Anna folds a round sheet of paper in half, then folds it in half again and then one last time, as the figure shows.
-> Finally she cuts the resulting "wedge" along the dashed line and throws away the paper scraps that come off her work.
-> What shape will the remaining part take once unfolded?
+> Anna folds a round sheet of paper in half, then folds it in half again and then one last time, as shown in the figure. Finally, she cuts the resulting "wedge" along the dashed line and throws away the scraps of paper that come off her work. What shape will the remaining part take once it is unfolded?
 >         A)	                 B)	
 >            C) 	
 >     D)	
-> 	
+>
 > E)
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q21|src_kangourou_2016_marzo_benjamin__Q21]]
 
 
 
@@ -1039,17 +1158,23 @@ The manufacturer shall provide the manufacturer with the following information:
 
 *how many*
 
-> Richard writes all the numbers that have the following properties: the first digit is 1, each of the digits that follow is not less than the one that precedes it and the sum of its digits is 5. How many numbers does Richard write? A) 4
-> 	
-> B) 5
-> 	
-> C) 6
-> 	
-> D) 7
-> 	
+> Riccardo writes all the numbers that have the following properties: the first digit is 1, each of the following digits is not less than the one preceding it, and the sum of its digits is 5. How many numbers does Riccardo write?
+> A) 4	
+>
+> B) 5	
+>
+> C) 6	
+>
+> D) 7	
+>
 > E) 8
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q22|src_kangourou_2016_marzo_benjamin__Q22]]
 
 
 
@@ -1099,7 +1224,7 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max tiles cut from a 5x5 square*
+*Max cuttable tabs from 5x5 squares*
 
 ![[src_kangourou_2016_marzo_benjamin__prob23.png]]
 
@@ -1115,18 +1240,24 @@ The manufacturer shall provide the manufacturer with the following information:
 \end{document}
 ```
 
-> What is the maximum number of tiles such as the one in the figure (possibly overturned) that can be cut from a square 5×5? A) 2
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
+> What is the maximum number of puzzle pieces like the one in the figure (possibly flipped) that can be cut from a 5×5 square?
+> A) 2	
+>
+> B) 4	
+>
+> C) 5	
+>
+> D) 6	
+>
 > E) 7
 >
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q23|src_kangourou_2016_marzo_benjamin__Q23]]
 
 
 
@@ -1161,19 +1292,24 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many tables*
+*How many tables?*
 
-> Luigi started a small restaurant. His friend James gave him some square tables and chairs. If Luigi wanted to use each of these tables in isolation and put four chairs per table, he would need six more chairs. If he wanted to bring the tables together in pairs and put six chairs per double table, he would have four chairs left over. How many tables did James give to Luigi ? A) 8
-> 	
-> B) 10
-> 	
-> C) 12
-> 	
-> D) 14
-> 	
+> Luigi has opened a small restaurant. His friend Giacomo gave him some square tables and some chairs. If Luigi wanted to use each of these tables separately and put 4 chairs at each table, he would need 6 more chairs. If he wanted to put the tables together in pairs and put 6 chairs at each double table, he would have 4 chairs left over. How many tables did Giacomo give Luigi?
+> A) 8	
+>
+> B) 10	
+>
+> C) 12	
+>
+> D) 14	
+>
 > E) 16
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q24|src_kangourou_2016_marzo_benjamin__Q24]]
 
 
 
@@ -1211,21 +1347,27 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min to be added*
+*Need to add*
 
 ![[src_kangourou_2016_marzo_benjamin__prob25.png]]
 
-> Using so many identical equilateral triangle-shaped tiles, Clara wants to build a larger equilateral triangle. In the figure, you can see how she arranged the first tiles. What is the minimum number of tiles to be added to complete the work? A) 5
-> 	
-> B) 9
-> 	
-> C) 12
-> 	
-> D) 15
-> 	
+> Using many identical equilateral-triangle-shaped tiles, Clara wants to construct a larger equilateral triangle. In the figure, you can see how she has arranged the first tiles. What is the minimum number of tiles to add to complete the work?
+> A) 5	
+>
+> B) 9	
+>
+> C) 12	
+>
+> D) 15	
+>
 > E) 18
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q25|src_kangourou_2016_marzo_benjamin__Q25]]
 
 
 
@@ -1263,13 +1405,20 @@ The manufacturer shall provide the manufacturer with the following information:
 
 ![[src_kangourou_2016_marzo_benjamin__prob26.png]]
 
-> A cube was composed by adjoining 8 small cubes of equal sides, some white and some black. Five of the faces of the cube are shown in the figure. Which of the following is the sixth?
->  
-> A) B)
-> 	
-> C) D) E)
+> A cube was assembled by joining 8 small cubes of equal edge length, some white and some black. Five of the faces of the cube are shown in the figure. Which of the following is the sixth?
+>
+>         A)	 	
+>     B)	
+>
+> C) 	
+>          D)		
+>      E)
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q26|src_kangourou_2016_marzo_benjamin__Q26]]
 
 
 
@@ -1312,17 +1461,22 @@ The manufacturer shall provide the manufacturer with the following information:
 
 ![[src_kangourou_2016_marzo_benjamin__prob27.png]]
 
-> Cristina has already written a number in five of the 10 circles you see in the figure. Now she wants to write a number in each remaining circle so that the sum of the 3 numbers in the circles that are on the same side of the pentagon doesn't change no matter which side she chooses. What number should she write in the circle marked with X ? A) 7
-> 	
-> B) 8
-> 	
-> C) 11
-> 	
-> D) 13
-> 	
+> Cristina has already written a number in 5 of the 10 circles you see in the figure. Now she wants to write a number in each of the remaining circles so that the sum of the 3 numbers in the circles on the same side of the pentagon does not change, no matter which side she chooses. What number must she write in the circle labeled X?
+> A) 7	
+>
+> B) 8	
+>
+> C) 11	
+>
+> D) 13	
+>
 > E) 15
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q27|src_kangourou_2016_marzo_benjamin__Q27]]
 
 
 
@@ -1357,22 +1511,26 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*digit A*
+*Figure A*
 
-> The letters A, B, C represent three different digits. Adding the digits of the 
-> three-digit number ABA gives the two-digit number BC. Adding the digits of this latter number gives the (one-digit) number B. Which digit does the letter A represent?
+> The letters A, B, and C represent three different digits. Adding the digits of the three-digit number ABA gives the two-digit number BC. Adding the digits of this latter number gives the (one-digit) number B. Which digit does the letter A represent?
 > A) 4	
-> 	
+>
 > B) 5	
-> 	
+>
 > C) 6	
-> 	
+>
 > D) 8	
-> 	
+>
 > E) 9
 >
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q28|src_kangourou_2016_marzo_benjamin__Q28]]
 
 
 
@@ -1407,19 +1565,25 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*outcome not possible*
+*Impossible result*
 
-> Samuel's playing with the calculator. Start with number 12 and multiply or divide (if possible) by 2 or by 3, 60 times in a row. Which of the following results cannot be achieved? A) 12
-> 	
-> B) 18
-> 	
-> C) 36
-> 	
-> D) 72
-> 	
+> Samuele is playing with the calculator. He starts with the number 12 and multiplies or divides (if possible) by 2 or by 3, 60 times in a row. Which of the following results cannot be obtained?
+> A) 12	
+>
+> B) 18	
+>
+> C) 36	
+>
+> D) 72	
+>
 > E) 108
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q29|src_kangourou_2016_marzo_benjamin__Q29]]
 
 
 
@@ -1460,25 +1624,20 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min sum*
+*my sum*
 
-> Two three-digit numbers have all six digits different. The first digit of the second
-> number is twice the last digit of the first. What is the smallest number that can be
-> obtained by adding two numbers of this type?
+> Two three-digit numbers have all six digits different. The first digit of the second number is twice the last digit of the first number. What is the smallest number that can be obtained by adding two numbers of this kind?
 > A) 552	 	
 > B) 546	 	
 > C) 301	 	
 > D) 535	 	
 > E) 537
-> 
-> category
-> A
-> X
-> X
-> X
-> B
-> C
-> D
-> E
+>
+> Category A X X X B C D E
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_marzo_benjamin#q30|src_kangourou_2016_marzo_benjamin__Q30]]

@@ -39,17 +39,22 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of non-promoted in relation to class*
+*Fraction of the class that was not promoted*
 
-> The 45 pupils in a class were promoted without training debts. Knowing that pupils promoted with educational debt are 16 of those promoted without debt, the fraction of those not promoted (compared to the whole class)
+> 4
+> 5 of the pupils in a class were promoted with no subject debts. Given that the pupils promoted with a subject debt are 1
+> 6 of those promoted with no debts, the fraction of those not promoted (relative to the whole class)
 >
-> - **(A)** è 1 8
-> - **(B)** è 1 10
-> - **(C)** è 1 12
-> - **(D)** è 1 15
-> - **(E)** It's not determinable.
+> - **(A)** is 1 8
+> - **(B)** is 1 10
+> - **(C)** is 1 12
+> - **(D)** is 1 15
+> - **(E)** is not determinable.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1999_biennio#q01|src_archimede_1999_biennio__Q01]]
 
 
 
@@ -81,7 +86,7 @@ level: biennio
 
 *Value of a product in scientific notation*
 
-> How much is it worth (12, 5 · 10−3) · (8 · 10111) ?
+> What is the value of (12.5 · 10−3) · (8 · 10111) ?
 >
 > - **(A)** 10110
 > - **(B)** 1110
@@ -89,7 +94,10 @@ level: biennio
 > - **(D)** 100 · 10−333
 > - **(E)** 1000108.
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1999_biennio#q02|src_archimede_1999_biennio__Q02]]
 
 
 
@@ -124,19 +132,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of a rectangular fruit tree with 35 trees*
+*Perimeter of a rectangular orchard with 35 trees*
 
-![[src_archimede_1999_biennio__prob3.png]]
-
-> In a rectangular orchard there is a tree every 4 meters (as shown in the figure). Knowing that there are 35 trees, what is the perimeter of the rectangle that has the points where the trees A, B, C, D are perpendicular to the vertices?
+> In a rectangular orchard there is a tree every 4 metres (as in the figure). Given that there are 35 trees, what is the perimeter of the rectangle whose vertices are the points where the trees A, B, C and D stand?
 >
 > - **(A)** 70
 > - **(B)** 80
 > - **(C)** 96
 > - **(D)** 140
-> - **(E)** It cannot be determined uniquely.
+> - **(E)** it cannot be determined uniquely.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1999_biennio#q03|src_archimede_1999_biennio__Q03]]
 
 
 
@@ -166,9 +176,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number whose tenth part is ten times its square*
+*Number whose tenth part equals ten times its square*
 
-> What number other than 0 is such that its tenth part is ten times the square of the same number?
+> Which number different from 0 is such that its tenth part equals ten times the square of the number itself?
 >
 > - **(A)** 1 100
 > - **(B)** 1 10
@@ -176,7 +186,10 @@ level: biennio
 > - **(D)** 1
 > - **(E)** 10.
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1999_biennio#q04|src_archimede_1999_biennio__Q04]]
 
 
 
@@ -207,17 +220,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Late of Ida given the perpendicular tips*
+*Ida's lateness given the perpendicular clock hands*
 
-> Carlo and Ida have an appointment at 7pm under the clock tower. Charles arrives on time, and when Ida arrives it's the third time Charles sees the clock tower tips perpendicular to each other. What delay did Ida make?
+> Carlo and Ida have an appointment at 7 in the evening under the clock tower. Carlo arrives on time, and when Ida arrives it is the third time that Carlo sees the hands of the clock tower perpendicular to each other. How late is Ida?
 >
-> - **(A)** Less than 1 hour and 10 minutes
-> - **(B)** Between 1h and 10 and 1h and 15
-> - **(C)** Between 1 hour and 15 and 1 hour and 20
-> - **(D)** Between 1 hour and 20 and 1 hour and 25
-> - **(E)** More than an hour and a half.
+> - **(A)** less than 1 hour and 10 minutes
+> - **(B)** between 1 hour and 10 and 1 hour and 15
+> - **(C)** between 1 hour and 15 and 1 hour and 20
+> - **(D)** between 1 hour and 20 and 1 hour and 25
+> - **(E)** more than 1 hour and 25.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1999_biennio#q05|src_archimede_1999_biennio__Q05]]
 
 
 
@@ -250,7 +266,8 @@ level: biennio
 
 *Perimeter of a pentagon with three right angles*
 
-> Whether MNOPQ is a pentagon in which QM = NO = 8 cm, PQ = 5 cm, OP = 12 cm and the angles in M, N and P are straight. How much is the perimeter of the Pentagon worth?
+> Let MNOPQ be a pentagon in which QM = NO = 8 cm, PQ = 5 cm, OP = 12 cm
+> and the angles at M, N and P are right angles. What is the perimeter of the pentagon?
 >
 > - **(A)** 33 cm
 > - **(B)** 40 cm
@@ -258,7 +275,10 @@ level: biennio
 > - **(D)** 47 cm
 > - **(E)** 50 cm.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1999_biennio#q06|src_archimede_1999_biennio__Q06]]
 
 
 
@@ -289,17 +309,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units from 1999 to 1999*
+*Units digit of 1999 to the power 1999*
 
-> What is the unit figure for 199999?
+> What is the units digit of 19991999?
 >
 > - **(A)** 1
 > - **(B)** 3
 > - **(C)** 7
 > - **(D)** 9
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_1999_biennio#q07|src_archimede_1999_biennio__Q07]]
 
 
 
@@ -329,17 +353,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Denial of a statement with nested quantifiers*
+*Negation of a statement with nested quantifiers*
 
-> In each school there is at least one class in which all are promoted. If you want to deny this statement, which of the following statements would you choose?
+> "In every school there is at least one class in which everyone is promoted". If you wished to negate this statement, which of the following sentences would you choose?
 >
-> - **(A)** In every school there's at least one class where they're all failing
-> - **(B)** In every school there is at least one failure in every class
-> - **(C)** There's at least one school that has at least one flop in every classroom.
-> - **(D)** There's at least one school that has promos in every class.
-> - **(E)** There is at least one school where there is a class that has at least one failure.
+> - **(A)** "in every school there is at least one class in which everyone has failed"
+> - **(B)** "in every school there is at least one failed pupil in all the classes"
+> - **(C)** "there is at least one school that has at least one failed pupil in every class"
+> - **(D)** "there is at least one school that has some promoted pupils in every class"
+> - **(E)** "there is at least one school in which there is a class that has at least one failed pupil".
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_1999_biennio#q08|src_archimede_1999_biennio__Q08]]
 
 
 
@@ -370,17 +397,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of the second extract being 28 given 27*
+*Probability that 28 is drawn second, given 27*
 
-> There are 90 numbers in each wheel of the lottery. Five of these are extracted, one at a time, without returning the extracted numbers to the urn. In a certain wheel, the number 27 is first extracted. The probability that the second extract is 28
+> On every lottery wheel there are 90 numbers. Five of them are drawn, one at a time, without putting the drawn numbers back into the urn. On a certain wheel the number 27 is drawn first. The probability that the second number drawn is 28
 >
-> - **(A)** è 1 90
-> - **(B)** è 1 89
-> - **(C)** è 1 18
-> - **(D)** It's less than 1,100 because it's unlikely that two consecutive numbers will be extracted.
-> - **(E)** You can't determine why you need to calculate the probability of the fifth.
+> - **(A)** is 1 90
+> - **(B)** is 1 89
+> - **(C)** is 1 18
+> - **(D)** is less than 1 100 because it is unlikely that two consecutive numbers are drawn
+> - **(E)** it cannot be determined because one must compute the probability of the five-number draw.
 
-**Answer:** B
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_1999_biennio#q09|src_archimede_1999_biennio__Q09]]
 
 
 
@@ -411,17 +441,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Extension of a garden around a square villa*
+*Area of the garden around a square villa*
 
-> Around a 30-square-meter-square-story mansion in the center of a vast enclosure is a garden that consists of all points less than 100 metres from the mansion. The garden area is
+> Around a villa with a square plan, 30 metres on a side, placed at the centre of a wide clearing, a garden extends, consisting of all points less than 100 metres from the villa. The area of the garden is
 >
 > - **(A)** less than 2 hectares
 > - **(B)** between 2 and 3 hectares
 > - **(C)** between 3 and 4 hectares
 > - **(D)** between 4 and 5 hectares
-> - **(E)** more than 5 hectares. (remember that 1 hectare is equivalent to 10 000 m2)
+> - **(E)** greater than 5 hectares. (recall that 1 hectare equals 10 000 m²)
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_1999_biennio#q10|src_archimede_1999_biennio__Q10]]
 
 
 
@@ -454,9 +487,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For how many minutes hours and minutes are perfect squares*
+*For how many minutes are both the hour and the minute numbers perfect squares*
 
-> A 4-digit digital clock indicates the time from 00:00 to 23:59. For how many minutes during the day are the number indicating the hours and the number indicating the minutes both perfect squares (remember that 0 is a perfect square)?
+> A 4-digit digital clock shows the time from 00:00 to 23:59. For how many minutes during the day are both the number indicating the hours and the number indicating the minutes perfect squares (remember that 0 is a perfect square)?
 >
 > - **(A)** 25
 > - **(B)** 28
@@ -464,7 +497,11 @@ level: biennio
 > - **(D)** 35
 > - **(E)** 40.
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1999_biennio#q11|src_archimede_1999_biennio__Q11]]
 
 
 
@@ -494,9 +531,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio between 2a and 3c data at triple and double c of b*
+*Ratio of 2a to 3c given a triple and c double of b*
 
-> Whether b is an integer other than 0. If a is triple b and c is double b, what's the ratio between 2a and 3c?
+> Let b be an integer different from 0. If a is the triple of b and c is the double of b, what is the ratio between 2a and 3c?
 >
 > - **(A)** 1
 > - **(B)** 2 3
@@ -504,7 +541,10 @@ level: biennio
 > - **(D)** 1 9
 > - **(E)** 4 9.
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1999_biennio#q12|src_archimede_1999_biennio__Q12]]
 
 
 
@@ -537,17 +577,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square meters per child dividing by a square field*
+*Square metres each son gets from a square field*
 
-> John has a square field whose side measures an integer number of meters and whose area (expressed in m2) is a number between 1900 and 2000. John decides to divide the camp equally between his two sons. Each child will receive a number of square meters including:
+> Giovanni owns a square field whose side measures an integer number of metres and whose area (in m²) is a number between 1900 and 2000. Giovanni decides to divide the field into equal parts between his two sons. Each son will receive a number of square metres between
 >
-> - **(A)** 950 e 960
-> - **(B)** 960 e 970
-> - **(C)** 970 e 980
-> - **(D)** 980 e 990
-> - **(E)** 990 e 1000.
+> - **(A)** 950 and 960
+> - **(B)** 960 and 970
+> - **(C)** 970 and 980
+> - **(D)** 980 and 990
+> - **(E)** 990 and 1000.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_1999_biennio#q13|src_archimede_1999_biennio__Q13]]
 
 
 
@@ -577,9 +620,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of first and last names in alphabetical order*
+*Sum of the first and last name in alphabetical order*
 
-> Suppose we write the names of integers between 1 and 100 (including extremes) in alphabetical order. What is the sum of the first and the last?
+> Suppose we write in alphabetical order (in Italian) the names of the integers from 1 to 100 (inclusive). What is the sum of the first and the last?
 >
 > - **(A)** 6
 > - **(B)** 70
@@ -587,7 +630,10 @@ level: biennio
 > - **(D)** 101
 > - **(E)** 121.
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_1999_biennio#q14|src_archimede_1999_biennio__Q14]]
 
 
 
@@ -621,11 +667,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value a+b+c in a magic square*
+*Value of a+b+c in a magic square*
 
-![[src_archimede_1999_biennio__prob15.png]]
-
-> In a magic square, the sum of the numbers of each row, each column, and the two diagonals is constant. In the magic square next to it, how much is a + b + c?
+> In a magic square, the sum of the numbers in each row, each column and the two diagonals is constant. In the magic square alongside, what is the value of a + b + c?
 >
 > - **(A)** 20
 > - **(B)** 22
@@ -633,7 +677,10 @@ level: biennio
 > - **(D)** 44
 > - **(E)** 48. 16 2 a c 10 d b e 4
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1999_biennio#q15|src_archimede_1999_biennio__Q15]]
 
 
 
@@ -665,17 +712,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability that the product of two numbers is multiple of 5*
+*Probability that the product of two numbers is a multiple of 5*
 
-> What is the probability that two random integers (also equal) between 1 and 12 (extremes included) are multiplied by 5?
+> What is the probability that, when two integers are drawn at random (possibly equal) from 1 to 12 (inclusive), their product is a multiple of 5?
 >
 > - **(A)** 1 5
 > - **(B)** 11 36
 > - **(C)** 5 24
 > - **(D)** 1 4
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** B
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1999_biennio#q16|src_archimede_1999_biennio__Q16]]
 
 
 
@@ -705,7 +756,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of planes perpendicular to the faces of a cube*
+*Perpendicular pairs of planes among the faces of a cube*
 
 > Considering the six planes of the faces of a cube, how many pairs of planes perpendicular to each other can be found?
 >
@@ -715,7 +766,11 @@ level: biennio
 > - **(D)** 12
 > - **(E)** 24.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1999_biennio#q17|src_archimede_1999_biennio__Q17]]
 
 
 
@@ -749,9 +804,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of lamps for three parallel roads*
+*Minimum number of lampposts for three parallel roads*
 
-> A municipality wants to light three parallel streets of 150 m, 210 m and 300 m respectively with lights placed at regular intervals on the two sides of each street. In addition, the municipality wants the distance between two consecutive lamps to be the same on all three roads, and that both at the beginning and at the end of each road there are two lamps (one on each side). The minimum number of lamps required is
+> A town wants to illuminate three parallel roads of lengths 150 m, 210 m and 300 m with lampposts placed at regular intervals on the two sides of each road. In addition, the town wants the distance between two consecutive lampposts to be the same in all three roads, and there to be two lampposts at the beginning and at the end of each road (one per side). The minimum number of lampposts required is
 >
 > - **(A)** 25
 > - **(B)** 44
@@ -759,7 +814,11 @@ level: biennio
 > - **(D)** 80
 > - **(E)** 94.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1999_biennio#q18|src_archimede_1999_biennio__Q18]]
 
 
 
@@ -793,11 +852,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the smallest part by cutting a cube*
+*Volume of the smaller part when cutting a cube*
 
-![[src_archimede_1999_biennio__prob19.png]]
-
-> Given the cube in the figure, with the first-sided beads, it is cut along the ABC plane. What is the volume of the smallest part thus obtained?
+> Given the cube in the figure, with edges of side 1, it is cut along the plane ABC. What is the volume of the smaller part thus obtained?
 >
 > - **(A)** 1 3
 > - **(B)** 1 4
@@ -805,7 +862,10 @@ level: biennio
 > - **(D)** 1 8
 > - **(E)** 1 12. b B bA b C
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1999_biennio#q19|src_archimede_1999_biennio__Q19]]
 
 
 
@@ -837,14 +897,18 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits minimum n for 20 with sum of digits for 1999*
+*Digits of the least multiple of 20 whose digit sum is a multiple of 1999*
 
-> It is both n the smallest positive integer divisible by 20 and such that the sum of its digits is divisible by 1999. How many digits does it have?
+> Let n be the smallest positive integer divisible by 20 and such that the sum of its digits is divisible by 1999. How many digits does n have?
 >
-> - **(A)** Less than 222
+> - **(A)** less than 222
 > - **(B)** 222
 > - **(C)** 223
 > - **(D)** 224
 > - **(E)** more than 224.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_1999_biennio#q20|src_archimede_1999_biennio__Q20]]

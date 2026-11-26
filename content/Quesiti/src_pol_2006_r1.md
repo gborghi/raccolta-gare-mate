@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i numeri interi non negativi n con 2^n+105 un quadrato perfetto.*
+*Interi non negativi n per cui 2^n + 105 è un quadrato perfetto*
 
-> Determinare tutti gli integri non negativi $n$ per i quali $2^n + 105$ è un quadrato perfetto.
+> Determinare tutti gli interi non negativi $n$ per cui $2^n + 105$ è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2006_r1#q01|src_pol_2006_r1__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi sqrt[5]{x} = soffitto(sqrt[5]{3x}) nei reali non negativi.*
+*Risolvere nei reali non negativi l'equazione fra la radice quinta di x e la parte intera superiore della radice quinta di 3x*
 
-> Risolvere l'equazione $\sqrt[5]{x} = \left\lceil \sqrt[5]{3x} \right\rceil$ in numeri reali non negativi.
+> Risolvere l'equazione $\sqrt[5]{x} = \left\lceil \sqrt[5]{3x} \right\rceil$ nei numeri reali non negativi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2006_r1#q02|src_pol_2006_r1__Q02]]
 
 
 
@@ -79,9 +91,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto inserito nel centro del cerchio O; D proiezione di C su AB, E, F proiezioni di D su AC,BC; prova area EOFC pari a metà area ABC.*
+*Triangolo acutangolo inscritto, proiezioni da C e poi da D: il quadrilatero EOFC ha area metà del triangolo*
 
-> Un triangolo a angolo acuto $ABC$ è inserito in un cerchio con il centro $O$. Il punto $D$ è la proiezione di $C$ su $AB$, e i punti $E$ e $F$ sono le proiezioni del punto $D$ su $AC$ e $BC$, rispettivamente. Prove che l'area del quadrilaterale $EOFC$ è pari alla metà dell'area del triangolo $ABC$.
+> Un triangolo acutangolo $ABC$ è inscritto in una circonferenza di centro $O$. Il punto $D$ è la proiezione di $C$ su $AB$, e i punti $E$ e $F$ sono le proiezioni del punto $D$ su $AC$ e $BC$ rispettivamente. Dimostrare che l'area del quadrilatero $EOFC$ è metà dell'area del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2006_r1#q03|src_pol_2006_r1__Q03]]
 
 
 
@@ -104,9 +122,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sei problemi hanno ottenuto ciascuno 6,5,2 o 0; per ogni due partecipanti ci sono due problemi su ciascuno dei quali hanno ottenuto punteggi diversi; trovare il massimo dei partecipanti.*
+*Sei problemi con punteggi 6, 5, 2 o 0: ogni coppia di concorrenti differisce su almeno due problemi. Massimo numero di concorrenti*
 
-> I partecipanti a un concorso di matematica stavano risolvendo sei problemi. Ogni problema era segnato con 6, 5, 2 o 0 punti. Si è scoperto che per ogni due partecipanti $A$ e $B$ ci sono due problemi, in modo tale che su ciascuno di essi $A$ e $B$ si sono ottenuti punteggi diversi. Trovare il maggior numero possibile di partecipanti per i quali questo sia possibile.
+> I partecipanti a una gara di matematica hanno affrontato sei problemi. Ogni problema è stato valutato con 6, 5, 2 o 0 punti. Per ogni coppia di partecipanti $A$ e $B$ esistono due problemi su ciascuno dei quali $A$ e $B$ hanno ottenuto punteggi diversi. Trovare il massimo numero possibile di partecipanti per cui ciò può accadere.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_pol_2006_r1#q04|src_pol_2006_r1__Q04]]
 
 
 
@@ -129,9 +153,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*f(x) =ax+b) =x dizer, g(x-ax-b dizerx dizer; se f(f(x)) =x per tutte le x allora dimostrare g(g(x)) =x per tutte le x.*
+*Se ax + b|x| è un'involuzione, lo è anche ax − b|x|*
 
-> Lasciate che $a, b$ siano numeri reali. Considerate le funzioni $f(x) = ax + b|x|$ e $g(x) = ax - b|x|$. Prova che se $f(f(x)) = x$ per ogni $x \in \mathbb{R}$, allora $g(g(x)) = x$ per ogni $x \in \mathbb{R}$.
+> Siano $a, b$ numeri reali. Si considerino le funzioni $f(x) = ax + b|x|$ e $g(x) = ax - b|x|$. Dimostrare che, se $f(f(x)) = x$ per ogni $x \in \mathbb{R}$, allora $g(g(x)) = x$ per ogni $x \in \mathbb{R}$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali e successioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_pol_2006_r1#q05|src_pol_2006_r1__Q05]]
 
 
 
@@ -154,9 +184,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Linea attraversando l'ortocentro H incontra AC a D, BC a E; linea attraversando H perpendicolare a DE incontra AB a F; dimostra DH/HE = AF/FB.*
+*Retta per l'ortocentro che taglia AC e BC, e perpendicolare da H che taglia AB: i due rapporti sono uguali*
 
-> Una linea attraversa l'ortocentro $H$ di un triangolo angolato acuto $ABC$ e incontra i lati $AC$ e $BC$ rispettivamente a $D$ e $E$. La linea attraverso $H$ perpendicolare a $DE$ incrocia la linea $AB$ al punto $F$. Prova che $\frac{DH}{HE} = \frac{AF}{FB}$.
+> Una retta passa per l'ortocentro $H$ di un triangolo acutangolo $ABC$ e incontra i lati $AC$ e $BC$ in $D$ e $E$ rispettivamente. La retta per $H$ perpendicolare a $DE$ interseca la retta $AB$ nel punto $F$. Dimostrare che $\frac{DH}{HE} = \frac{AF}{FB}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2006_r1#q06|src_pol_2006_r1__Q06]]
 
 
 
@@ -179,9 +215,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Primo p>3 e interi positivi a,b,c con a+b+c=p+1 e p ̊ a^3+b^3+c^3-1; mostrare uno di a,b,c è uguale a 1.*
+*Primo p > 3 e interi positivi di somma p+1, con la somma dei cubi meno 1 divisibile per p: uno di essi vale 1*
 
-> Un numero primo $p > 3$ e un numero intero positivo $a, b, c$ soddisfano $a + b + c = p + 1$ e il numero $a^3 + b^3 + c^3 - 1$ è divisibile da $p$. Indicare che almeno uno dei numeri $a, b, c$ è uguale a $1$.
+> Un numero primo $p > 3$ e interi positivi $a, b, c$ soddisfano $a + b + c = p + 1$, e il numero $a^3 + b^3 + c^3 - 1$ è divisibile per $p$. Dimostrare che almeno uno dei numeri $a, b, c$ è uguale a $1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2006_r1#q07|src_pol_2006_r1__Q07]]
 
 
 
@@ -204,9 +246,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tetraedro ABCD circoscritto intorno al centro della sfera unità S con SA>=SB>=SC; mostrare SA>sqrt(5).*
+*Tetraedro circoscritto a una sfera di raggio 1, con SA ≥ SB ≥ SC: SA supera radice di 5*
 
-> Un tetraedro $ABCD$ è circoscritto a una sfera con centro $S$ e raggio $1$ tale che $SA \ge SB \ge SC$. Mostrare che $SA > \sqrt{5}$.
+> Un tetraedro $ABCD$ è circoscritto a una sfera di centro $S$ e raggio $1$, in modo che $SA \ge SB \ge SC$. Dimostrare che $SA > \sqrt{5}$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2006_r1#q08|src_pol_2006_r1__Q08]]
 
 
 
@@ -229,9 +277,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*k_1<...<k_m numeri interi non negativi, n=2^{k_1}+...+2^{k_m}; trovare numero di coefficienti odd di (x+1)^n.*
+*n somma di potenze distinte di 2: quanti coefficienti dispari ha (x+1)^n*
 
-> Lasciate che $k_1 < k_2 < \cdots < k_m$ siano numeri interi non negativi. Definire $n = 2^{k_1} + 2^{k_2} + \cdots + 2^{k_m}$. Trova il numero dei coefficienti odd del polinomio $P(x) = (x+1)^n$.
+> Siano $k_1 < k_2 < \cdots < k_m$ interi non negativi. Si ponga $n = 2^{k_1} + 2^{k_2} + \cdots + 2^{k_m}$. Trovare il numero dei coefficienti dispari del polinomio $P(x) = (x+1)^n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2006_r1#q09|src_pol_2006_r1__Q09]]
 
 
 
@@ -254,9 +308,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Positivo a,b,c con ab+bc+ca=abc; prova a^3+b^3+c^3>=6abc.*
+*Numeri positivi con ab + bc + ca = abc: la somma dei cubi è almeno 6abc*
 
-> I numeri positivi $a, b, c$ soddisfano l'uguaglianza $ab + bc + ca = abc$. Prove che $a^3 + b^3 + c^3 \ge 6abc$.
+> Numeri positivi $a, b, c$ soddisfano l'uguaglianza $ab + bc + ca = abc$. Dimostrare che $a^3 + b^3 + c^3 \ge 6abc$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2006_r1#q10|src_pol_2006_r1__Q10]]
 
 
 
@@ -279,9 +339,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale concavo con angolo interno superiore a A 180 e AB ×CD=AD×BC; P simmetrico a A wrt BD; prova angolo PCB=angolo ACD.*
+*Quadrilatero concavo con angolo in A maggiore di 180 gradi e AB·CD = AD·BC: il simmetrico di A rispetto a BD dà due angoli uguali*
 
-> In un quadrilaterale concavo $ABCD$ l'angolo interno a $A$ è maggiore di $180^\circ$ e $AB \cdot CD = AD \cdot BC$. Il punto $P$ è simmetrico a $A$ rispetto a $BD$. Dimostra che $\angle PCB = \angle ACD$.
+> In un quadrilatero concavo $ABCD$ l'angolo interno in $A$ è maggiore di $180^\circ$, e $AB \cdot CD = AD \cdot BC$. Il punto $P$ è il simmetrico di $A$ rispetto a $BD$. Dimostrare che $\angle PCB = \angle ACD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2006_r1#q11|src_pol_2006_r1__Q11]]
 
 
 
@@ -306,6 +372,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza a_{i+1}=a_i/2 se anche altrimenti 3a_i-1; se a_n=a_0 provare 2^n>a_0.*
+*Successione che dimezza i pari e manda i dispari in 3a−1: se torna al valore iniziale dopo n passi, 2^n supera quel valore*
 
-> Per un dato numero intero positivo $a_0$ definire la sequenza $(a_n)$ da $$a_{i+1} = \begin{cases} a_i/2 & \text{if } a_i \text{ is even,} \\ 3a_i - 1 & \text{if } a_i \text{ is odd,} \end{cases} \quad i = 0, 1, 2, \ldots$$ Prove che se $n$ è un numero naturale tale da $a_n = a_0$, allora $2^n > a_0$.
+> Per un intero positivo dato $a_0$ si definisca la successione $(a_n)$ mediante
+>
+> $$a_{i+1} = \begin{cases} a_i/2 & \text{if } a_i \text{ is even,} \\ 3a_i - 1 & \text{if } a_i \text{ is odd,} \end{cases} \quad i = 0, 1, 2, \ldots$$
+>
+> Dimostrare che, se $n$ è un numero naturale tale che $a_n = a_0$, allora $2^n > a_0$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2006_r1#q12|src_pol_2006_r1__Q12]]

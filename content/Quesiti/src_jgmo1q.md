@@ -29,9 +29,16 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta le celle nere di confine in griglia 100x100 con 2500 celle dipinte non adiacenti*
+*Conteggia le celle nere ai bordi in una griglia 100x100 con 2500 celle dipinte non adiacenti*
 
-> In una griglia $100 \times 100$ di quadrati unitari, 2500 celle sono dipinte in nero. Nessuna delle due cellule nere condivide un bordo o un angolo (cioè ogni due cellule nere distinte non sono adiacenti, anche diagonalmente). Tra tutte le cellule nere, contate quelle che si trovano nella prima riga, nella 100a riga, nella 1a colonna o nella 100a colonna. Trova tutti i valori possibili di questo conteggio.
+> In una griglia $100 \times 100$ di quadrati unitari, 2500 celle sono dipinte di nero. Nessuna coppia di celle nere condivide un lato o un vertice (cioè ogni due celle nere distinte non sono adiacenti, nemmeno in diagonale). Tra tutte le celle nere, conta quelle che si trovano nella prima riga, nella 100ª riga, nella prima colonna o nella 100ª colonna. Determinare tutti i valori possibili di questo conteggio.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jgmo1q#q01|src_jgmo1q__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze di integri positivi le cui medie cumulative permutevano tutti gli integri positivi*
+*Successioni di numeri interi positivi le cui medie cumulative permutano tutti i numeri interi positivi*
 
-> Che $a_1, a_2, \ldots$ sia una sequenza di integri positivi. Per ogni intero positivo $n$, definire $$b_n = \frac{a_1 + a_2 + \cdots + a_n}{n}.$$ Supponiamo che $b_1, b_2, \ldots$ siano tutti interi positivi, e che $b_1, b_2, \ldots$ sia una permutazione degli interi positivi (cioè, ogni intero positivo appare esattamente una volta). Trova tutte le sequenze $a_1, a_2, \ldots$ che hanno questa proprietà.
+> Sia $a_1, a_2, \ldots$ una successione di interi positivi. Per ogni intero positivo $n$, definisci
+> $$b_n = \frac{a_1 + a_2 + \cdots + a_n}{n}.$$
+> Supponiamo che $b_1, b_2, \ldots$ siano tutti interi positivi e che $b_1, b_2, \ldots$ sia una permutazione degli interi positivi (ossia che ogni intero positivo compaia esattamente una volta). Trovare tutte le successioni $a_1, a_2, \ldots$ che possiedono questa proprietà.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jgmo1q#q02|src_jgmo1q__Q02]]
 
 
 
@@ -82,9 +98,17 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di integri positivi (m,n) con 2^m = 8n^4 + n^2 - 1*
+*Coppie di interi positivi con 2^m = 8n^4 + n^2 − 1*
 
-> Trova tutte le coppie $(m, n)$ di numeri interi positivi che soddisfano $$2^m = 8n^4 + n^2 - 1.$$
+> Trovare tutte le coppie $(m, n)$ di interi positivi che soddisfano
+> $$2^m = 8n^4 + n^2 - 1.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_jgmo1q#q03|src_jgmo1q__Q03]]
 
 
 
@@ -107,9 +131,16 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massimo n garantendo 0/1 assegnamento soddisfacente per tutti gli scritti di parità/ineguaglianza su 100 variabili*
+*n massimo che garantisce un'assegnazione soddisfacente 0/1 per tutte le scritture di uguaglianze/disuguaglianze sulla lavagna relative a 100 variabili*
 
-> Per ogni coppia di integri $(i, j)$ con $1 \le i < j \le 100$, è scritta su una lavagna esattamente una delle due affermazioni "$x_i = x_j$" o "$x_i \neq x_j$". Si desidera assegnare a ciascuno di $x_1, x_2, \ldots, x_{100}$ un valore di $0$ o $1$ in modo che tutte le indicazioni sulla lavagna siano soddisfatte contemporaneamente. Trovare il numero intero massimo non negativo $n$ in modo tale che, indipendentemente dalle dichiarazioni scritte (una per ogni coppia), si possa sempre trovare una assegnazione di $0$s e $1$s a $x_1, \ldots, x_{100}$ che soddisfi tutte di esse.
+> Per ogni coppia di interi $(i, j)$ e $1 \le i < j \le 100$, sulla lavagna viene scritta esattamente una delle due affermazioni "$x_i = x_j$" o "$x_i \neq x_j$". Si vuole assegnare a ciascuno di $x_1, x_2, \ldots, x_{100}$ un valore pari a $0$ o $1$ in modo che tutte le affermazioni scritte sulla lavagna siano soddisfatte simultaneamente. Trovare il massimo intero non negativo $n$ tale che, indipendentemente da quali affermazioni vengano scritte (una per ogni coppia), si possa sempre trovare un'assegnazione di $0$ e $1$ a $x_1, \ldots, x_{100}$ che le soddisfi tutte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jgmo1q#q04|src_jgmo1q__Q04]]
 
 
 
@@ -138,12 +169,19 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circumcenti di ABC e PQR coincidono; condizione di tangenza incircolare in triangolo acuto*
+*I circocentri di ABC e PQR coincidono; condizione di tangenza dell'incircolo nel triangolo acutangolo*
 
-> $ABC$ sia un triangolo acuto con $AB < AC$. $O$ deve essere il centro circundante di $\triangle ABC$, e $XY$ deve indicare la lunghezza del segmento $XY$. Il $J$ deve essere la seconda intersezione della linea $AO$ (estesa oltre $O$) con il circoncircolo di $\triangle BCJ$; più precisamente, $P$ deve essere un punto sul segmento $BC$ tale che $A$, $O$, $P$ siano collineari (cioè, $P$ è il piede dell'altitudine $A$ da $O$ a $BC$, o l'intersezione della linea $AO$ con $BC$). Nel segmento $BP$, scegli un punto $Q$ in modo da $AQ = AB$; nel segmento $CP$, scegli un punto $R$ in modo da $AR = AC$.
-> 
-> Prove che il circoncentro di $\triangle ABC$ coincide con il circoncentro di $\triangle PQR$.
-> 
-> Inoltre, $\omega$ sia un cerchio tangente ai segmenti $BC$, $AB$ (esteso) e $AC$ (esteso) , cioè un escircolo o l'incircolo di $\triangle ABC$. Il centro di $\omega$ che non è l'incentro è il centro del circoncircolo di $\triangle PQR$ come mostrato sopra.
-> 
-> **Nota:**Sulla base della fonte giapponese scansionata, la dichiarazione completa è: $ABC$ sia un triangolo acuto con $AB < AC$. Lasciate che $O$ sia il circondario. Il segmento $XY$ deve comprendere la lunghezza di $XY$. Il punto $J$ deve essere il punto sulla linea $AO$ del triangolo esterno $ABC$ (sul lato lontano da $A$). Il punto $P$ deve essere il punto del segmento $BC$ in cui la riga $AO$ incontra $BC$. Nel segmento $BP$, $Q$ sia il punto con $AQ = AB$; nel segmento $CP$, $R$ sia il punto con $AR = AC$. Prove che il centro circundante di $\triangle ABC$ e il centro circundante di $\triangle PQR$ sono lo stesso punto. Inoltre, l'incircolo di $\triangle ABC$ è tangente a $BC$, a mezza linea $AB$ e a mezza linea $AC$; tra i cerchi tangenti a queste tre linee, quelli che non sono l'incircolo hanno i loro centri dimostrati di coincidere con il circumcenter di $\triangle PQR$.
+> Sia $ABC$ un triangolo acutangolo con $AB < AC$. Sia $O$ il circocentro di $\triangle ABC$, e sia $XY$ la lunghezza del segmento $XY$. Sia $J$ il secondo punto d'intersezione della retta $AO$ (prolungata oltre $O$) con la circonferenza circoscritta a $\triangle BCJ$; più precisamente, sia $P$ un punto sul segmento $BC$ tale che $A$, $O$, $P$ siano allineati (cioè $P$ è il piede dell'altezza relativa a $A$ condotta da $O$ a $BC$, oppure è l'intersezione della retta $AO$ con $BC$). Sul segmento $BP$, si scelga un punto $Q$ tale che $AQ = AB$; sul segmento $CP$, si scelga un punto $R$ tale che $AR = AC$.
+>
+> Dimostrare che il circocentro di $\triangle ABC$ coincide con il circocentro di $\triangle PQR$.
+>
+> Inoltre, sia $\omega$ una circonferenza tangente ai segmenti $BC$, $AB$ (prolungati) e $AC$ (prolungato) — cioè un'escirconferenza o la circonferenza inscritta di $\triangle ABC$. Il centro di $\omega$ che non è il centroide è il centro della circonferenza circoscritta a $\triangle PQR$, come mostrato sopra.
+>
+> **Nota:** Sulla base della fonte giapponese scansionata, l'enunciato completo è: Sia $ABC$ un triangolo acutangolo con $AB < AC$. Sia $O$ il circocentro. Sia $XY$ la lunghezza del segmento $XY$. Sia $J$ il punto sulla retta $AO$ situato all'esterno del triangolo $ABC$ (dal lato opposto rispetto a $A$). Sia $P$ il punto sul segmento $BC$ in cui la retta $AO$ incontra $BC$. Sul segmento $BP$, sia $Q$ il punto tale che $AQ = AB$; sul segmento $CP$, sia $R$ il punto tale che $AR = AC$. Dimostrare che il circocentro di $\triangle ABC$ e il circocentro di $\triangle PQR$ sono lo stesso punto. Inoltre, la circonferenza inscritta di $\triangle ABC$ è tangente a $BC$, al semiretto $AB$ e al semiretto $AC$; tra le circonferenze tangenti a queste tre rette, si dimostrare che i centri di quelle che non sono la circonferenza inscritta coincidono con il circocentro di $\triangle PQR$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jgmo1q#q05|src_jgmo1q__Q05]]

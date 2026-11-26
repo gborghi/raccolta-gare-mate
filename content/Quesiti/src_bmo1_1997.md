@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Interi di quattro cifre N dove la rovescia di cifre dà 4N+3*
+*Interi di quattro cifre $N$ tali che $R(N) = 4N + 3$*
 
-> $N$ è un numero intero a quattro cifre, che non termina in zero, e $R(N)$ è il numero intero a quattro cifre ottenuto invertendo i numeri di $N$; ad esempio, $R(3275) = 5723$. Determinare tutti gli integri $N$ in modo tale che $R(N) = 4N + 3$.
+> $N$ è un intero di quattro cifre, che non termina per zero, e $R(N)$ è l'intero di quattro cifre ottenuto rovesciando le cifre di $N$; per esempio, $R(3275) = 5723$. Determinare tutti gli interi $N$ tali che $R(N) = 4N + 3$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_1997#q01|src_bmo1_1997__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine il valore di a1997 in una sequenza definita ricorrentemente*
+*Valore di $a_{1997}$*
 
-> Per i numeri interi positivi $n$, la sequenza $a_1, a_2, a_3, \ldots$ è definita da $$a_1 = 1, \quad a_n = \left(\frac{n+1}{n-1}\right)(a_1 + a_2 + \cdots + a_{n-1}), \quad n > 1.$$ Determina il valore di $a_{1997}$.
+> Per gli interi positivi $n$, la successione $a_1, a_2, a_3, \ldots$ è definita da
+> $$a_1 = 1, \quad a_n = \left(\frac{n+1}{n-1}\right)(a_1 + a_2 + \cdots + a_{n-1}), \quad n > 1.$$
+> Determinare il valore di $a_{1997}$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_telescoping|Metodo telescopico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_1997#q02|src_bmo1_1997__Q02]]
 
 
 
@@ -81,9 +97,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta le modalità di pagamento in moneta esatta 1997 Pippins in valuta decimale*
+*Modi di pagare 1997 Pippin con monete da 1, 10, 100 e 1000*
 
-> I Nani della Terra sotto la Montagna hanno appena adottato un sistema di valuta completamente decimale basato sul Pippin, con monete d'oro del valore di 1 Pippin, 10 Pippins, 100 Pippins e 1000 Pippins. In quanti modi è possibile per un Nano pagare, in moneta esatta, una bolletta di Pippin del 1997?
+> I nani della Terra-sotto-la-Montagna hanno appena adottato un sistema monetario interamente decimale basato sul Pippin, con monete d'oro del valore di 1 Pippin, 10 Pippin, 100 Pippin e 1000 Pippin. In quanti modi un nano può pagare, con l'importo esatto, un conto di 1997 Pippin?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_1997#q03|src_bmo1_1997__Q03]]
 
 
 
@@ -106,9 +129,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area di ABCD è uguale a 2 data la quadrilaterale PQRS di punto medio ha l'area 1*
+*Se il quadrilatero dei punti medi ha area 1, $ABCD$ ha area 2*
 
-> Che $ABCD$ sia un quadrilaterale convex. I punti intermedi di $AB$, $BC$, $CD$ e $DA$ sono rispettivamente $P$, $Q$, $R$ e $S$. Dato che il quadrilaterale $PQRS$ ha area 1, dimostrare che l'area del quadrilaterale $ABCD$ è 2.
+> Sia $ABCD$ un quadrilatero convesso. I punti medi di $AB$, $BC$, $CD$ e $DA$ sono rispettivamente $P$, $Q$, $R$ e $S$. Sapendo che il quadrilatero $PQRS$ ha area 1, dimostrare che l'area del quadrilatero $ABCD$ è 2.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_1997#q04|src_bmo1_1997__Q04]]
 
 
 
@@ -137,12 +167,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre disuguaglianze sì/no per x, y positivi con condizioni di somma*
+*Tre domande su $1/x + 1/y$ quando $x + y \ge 3$*
 
-> $x$, $y$ siano numeri positivi.
-> 
+> Siano $x$, $y$ numeri positivi.
+>
 > (i) Se $x + y \ge 3$, è necessariamente vero che $\dfrac{1}{x} + \dfrac{1}{y} \le \dfrac{3}{7}$?
-> 
+>
 > (ii) Se $x + y \ge 3$, è necessariamente vero che $\dfrac{1}{x} + \dfrac{1}{y} \le 3$?
-> 
+>
 > (iii) Se $x + y \ge 3$, è necessariamente vero che $\dfrac{1}{x} + \dfrac{1}{y} \le 3$?
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_1997#q05|src_bmo1_1997__Q05]]

@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Aree tangenti comuni e uguali di triangoli da due cerchi intersezionati*
+*I triangoli $MNP$ e $MNQ$ hanno aree uguali*
 
-> Due cerchi incrociati $C_1$ e $C_2$ hanno una tangente comune che tocca $C_1$ a $P$ e $C_2$ a $Q$. I due cerchi si incrociano a $M$ e $N$, dove $N$ è più vicino a $PQ$ rispetto a $M$. Provare che i triangoli $MNP$ e $MNQ$ hanno aree uguali.
+> Due circonferenze secanti $C_1$ e $C_2$ hanno una tangente comune che tocca $C_1$ in $P$ e $C_2$ in $Q$. Le due circonferenze si secano in $M$ e in $N$, dove $N$ è più vicino a $PQ$ di quanto lo sia $M$. Dimostrare che i triangoli $MNP$ e $MNQ$ hanno aree uguali.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2000#q01|src_bmo2_2000__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta minima dell'espressione data a valori reali positivi con xy=32*
+*Il minimo di $x^2 + 4xy + 4y^2$ se $xy = 32$*
 
-> Dato che $x, y$ sono numeri reali positivi che soddisfano $xy = 32$, trovare il valore minimo di $x^2 + 4xy + 4y^2$.
+> Sapendo che $x, y$ sono numeri reali positivi che soddisfano $xy = 32$, trovare il valore minimo di $x^2 + 4xy + 4y^2$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2000#q02|src_bmo2_2000__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i numeri interi positivi n e k che soddisfano un'equazione radicale*
+*Interi positivi $n$ e $k$ per cui vale quell'uguaglianza*
 
-> Trova i numeri interi positivi $n$ e $k$ tali da $\left(\sqrt{6} + \sqrt{5} - 1\right)^{49} + \left(\sqrt{6} + \sqrt{5} + 1\right)^{49} = 49 + 2\sqrt{6k}$.
+> Trovare interi positivi $n$ e $k$ tali che $\left(\sqrt{6} + \sqrt{5} - 1\right)^{49} + \left(\sqrt{6} + \sqrt{5} + 1\right)^{49} = 49 + 2\sqrt{6k}$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2000#q03|src_bmo2_2000__Q03]]
 
 
 
@@ -104,6 +125,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme di dieci elementi distinti la cui somma è divisibile per 6; sostituire dieci con sette*
+*Un insieme di dieci elementi con sei la cui somma è divisibile per 6; e con sette?*
 
-> (a) Trovare un insieme $A$ di dieci elementi distinti in modo tale che sei elementi distinti di $A$ abbiano una somma divisibile per 6. (b) È possibile trovare un tale insieme quando "dieci" viene sostituito da "sette"?
+> (a) Trovare un insieme $A$ di dieci elementi distinti tale che sei elementi distinti di $A$ abbiano una somma divisibile per 6. (b) È possibile trovare un tale insieme quando «dieci» è sostituito da «sette»?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_cassetti|Principio dei cassetti]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2000#q04|src_bmo2_2000__Q04]]

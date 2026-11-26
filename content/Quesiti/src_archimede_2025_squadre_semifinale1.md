@@ -35,11 +35,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tri-digit integer with exchange of 18 digits difference*
+*Count three-digit integers with a digit swap difference of 18*
 
-> Secret agent James Bound has just brilliantly completed his last assignment. In it he had to count the number of positive integers of exactly three digits such that, exchanging between them the second and third digits counted from the left, the difference (in absolute value) between the starting number and the number obtained by the exchange is equal to 18. How many did you count? For example, 331 and 313 are good because ∙331−313 is equal to 18 and should be counted as distinct.
+> Mission that counts
+> The secret agent James Bound has just brilliantly completed the last mission assigned to him. In it he had to
+> count how many positive integers of exactly three digits there are such that, swapping the second and third digits counted from the left, the difference (in absolute value) between the starting number and the number obtained by the swap is equal to 18. How many did he count? For example, 331 and 313 are fine because |331−313| = 18 and they are counted as distinct.
 
-**Answer:** 0144
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2025_squadre_semifinale1#q01|src_archimede_2025_squadre_semifinale1__Q01]]
 
 
 
@@ -66,11 +72,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of squares equal to less four times sum of squares*
+*Sum of squares of even numbers minus four times the sum of squares*
 
-> License of... Bound has the identification number 007, where double zero means license to solve. He obtained this identifier by adding the squares of the first 30 positive integers equal and subtracting from them four times the sum of the squares of the first 29 positive integers. How much did you get?
+> Licenza di...
+> Bound has identification number 007, where the double zero means “license to solve”. He obtained this identification number
+> by adding the squares of the first 30 positive even integers and subtracting from these four times the sum of
+> the squares of the first 29 positive integers. How much did he get?
 
-**Answer:** 3600
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2025_squadre_semifinale1#q02|src_archimede_2025_squadre_semifinale1__Q02]]
 
 
 
@@ -99,11 +112,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Regions in a square with perpendiculars of 40 points*
+*Regions in a square with perpendiculars from 40 points*
 
-> Dividing The Director of MI6), better known as N, waits for Agent Bound to come back and report. While drawing a square, he chooses a point inside and traces the perpendiculars to the sides of the square passing through that point. It then chooses a second point, which is not on the perpendiculars already drawn, and draws the perpendiculars to the passing sides for the second point. Repeat this operation, always choosing points not on already mapped segments, until you have mapped the perpendiculars from the 40th point. How many regions have formed in the square?
+> Dividing
+> The director of MI(6), better known as N, waits for agent Bound to return and report. Meanwhile
+> he draws a square, chooses a point inside it and draws the perpendiculars to the sides of the square passing through that
+> point. He then chooses a second point, not on the perpendiculars already drawn, and draws the perpendiculars to the sides
+> passing through the second point. He repeats this operation, always choosing points not on segments already drawn, until he has drawn the perpendiculars from the 40th point. How many regions have formed in the square?
 
-**Answer:** 1681
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_induzione|Induction]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2025_squadre_semifinale1#q03|src_archimede_2025_squadre_semifinale1__Q03]]
 
 
 
@@ -131,11 +152,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pentagon with square and triangle isosceles, find AE*
+*Pentagon with a square and an isosceles triangle, find AE*
 
-> The last enemy of James Bound, and of humanity, is an organization known as SPECTRAL THEOREM. Its logo is a convex pentagon ABCDE, such that ABCD is a square of side 10 and ADE is an isosceles triangle (based on AD). Knowing that the area of the triangle BDE is equal to 17 32 of the area of ABCDE, how much is AE?
+> Evil logo
+> James Bound's fiercest enemy, and humanity's, is an organisation known as SPECTRAL THEOREM. Its
+> logo is a convex pentagon ABCDE, such that ABCD is a square of side 10 and ADE is an isosceles triangle
+> (with base AD). Knowing that the area of triangle BDE is equal to 17/32 of the area of ABCDE, what is AE?
 
-**Answer:** 0013
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2025_squadre_semifinale1#q04|src_archimede_2025_squadre_semifinale1__Q04]]
 
 
 
@@ -162,11 +190,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs with distinct remains divided by 2,100*
+*Pairs with distinct remainders when divided by 2..100*
 
-> James Bound sometimes makes use of the collaboration of French secret agent René Mathieu. The first time was when together they solved the following question: How many ways can two numbers between 1 and 100 be chosen that, divided by each number between 2 and 100, always give distinct remains?
+> The beginning of the collaboration
+> Sometimes James Bound uses the help of the French secret agent René Mathieu. The first time was
+> when together they solved the following question: in how many ways can two numbers be chosen from 1 to 100 such that,
+> divided by every number from 2 to 100, they always give distinct remainders?
 
-**Answer:** 0099
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2025_squadre_semifinale1#q05|src_archimede_2025_squadre_semifinale1__Q05]]
 
 
 
@@ -193,11 +228,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2025th integer with digits divisible by 10*
+*2025th integer with digit sum divisible by 10*
 
-> Secret agent Bound, you know, has a crush on the Aston Martin Gardners. Now he drives the latest model, whose power is exaggerated! Writing in increasing order all positive integers whose sum of digits is divisible by 10, the number of horses in the car would be equal to the 2025th written number. How many horses does the car have?
+> Auto scattanti
+> L’agente segreto Bound, si sa, ha una predilezione per le Aston Martin Gardner. Ora guida l’ultimo modello, la cui
+> potenza è esagerata! Scrivendo in ordine crescente tutti gli interi positivi la cui somma delle cifre sia divisibile per
+> 10, il numero di cavalli dell’auto sarebbe uguale al 2025-esimo numero scritto. Quanti cavalli ha l’auto?
 
-**Answer:** 0251
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2025_squadre_semifinale1#q06|src_archimede_2025_squadre_semifinale1__Q06]]
 
 
 
@@ -224,11 +266,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum turn per bench with k^2+kn equal to 6384*
+*Minimum number of turns for the bank with k^2+kn equal to 6384*
 
-> For business reasons, James Bound often goes to the math casino. The game you're watching right now starts with k2 dollars on the bench, with k positive. At each turn, k dollars are added to the bank (for example, after the first round there are k2 + k dollars). What's the minimum number of shifts after which there's exactly $6,384 on the bench?
+> Gambling game
+> For work reasons, James Bound often goes to the mathematical casino. The game he is watching at this moment starts with k2 dollars on the bank, with k a positive integer. At each turn k dollars are added to the bank (for example after the first turn there are k2 +k dollars). What is the minimum number of turns after which there are exactly 6384 dollars on the bank?
 
-**Answer:** 0008
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2025_squadre_semifinale1#q07|src_archimede_2025_squadre_semifinale1__Q07]]
 
 
 
@@ -259,11 +305,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area ABC triangle with circumference and data ratios*
+*Area of triangle ABC with a circle and given ratios*
 
-> Access to the mathematical casino is exclusive and reserved for mathematical secret agents. At the entrance a circumference of 15 radii, its diameter BC and an outer point A to the circumference are drawn. The circumference intersects segments AB and AC in D and E respectively. BD = 1 3AB and CE = 1 4AC are known. To enter the casino, you have to say how much the ABC area is worth. What's the answer? Team competition 2025  Semifinal 1  Problem tests  1/2
+> Entrance area
+> Access to the mathematical casino is exclusive and reserved for mathematical secret agents. At the entrance are drawn
+> a circle of radius 15, a diameter BC of it, and a point A outside the circle. The circle
+> intersects the segments AB and AC respectively at D and E. It is known that BD = 1/3 AB and CE = 1/4 AC. To enter the
+> casino, one must say how much the area of ABC is worth. What is the answer?
+> Gara a Squadre 2025 – Semifinale 1 – Testi dei problemi – 1/2
 
-**Answer:** 0540
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2025_squadre_semifinale1#q08|src_archimede_2025_squadre_semifinale1__Q08]]
 
 
 
@@ -295,11 +350,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lonely probability of figures locked on a 2x3 grid*
+*Probability of a solitary figurine getting stuck on a 2x3 grid*
 
-> The leader of the SPECTRAL THEOREM plays a loner with his white cat on his legs. He must insert in each box of a grid 2×3, initially empty, a figure representing him at the head of the world (the figures are all the same). The first figure is placed randomly; from the second the leader randomly chooses a box that has at least one vertex in common with the box in which he placed the previous figure. After inserting a few figures, but not all, the leader realizes that there are no boxes adjacent to that choice right away. He's upset, the cat's leaving. What was the probability that the cat would leave? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+> A solitary game gone wrong
+> The leader of SPECTRAL THEOREM (for everyone: the villain) plays a solitary game with his big white cat on his lap. He must place in each cell of an initially empty 2×3 grid a figurine depicting him at the head of the world (the figurines are all identical). The first figurine is placed at random; from the second onward the leader randomly chooses a cell that has at least one vertex in common with the cell in which he placed the previous figurine.
+> After placing some figurines, but not all, the leader realises that there are no more cells adjacent to the one chosen immediately before. Annoyed, the cat leaves. What was the probability that the cat left?
+> Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.
 
-**Answer:** 0064
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]], [[method_grafi|Graph theory]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2025_squadre_semifinale1#q09|src_archimede_2025_squadre_semifinale1__Q09]]
 
 
 
@@ -325,11 +387,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular triangles with an area equal to 5 times the perimeter*
+*Right triangles with area equal to 5 times the perimeter*
 
-> Spies in love. Even James Bound has been in love! As a young man, he met Vesper Lynear, a mathematician who conquered him by solving almost instantly the following question: how many non-conforming rectangular triangles are there, with lengths of positive whole catheters and having areas numerically equal to 5 times their perimeter?
+> In love
+> James Bound was in love too! In his youth he met the mathematician Vesper Lynear, who won him over by solving almost instantly the following question: how many non-congruent right triangles are there, with positive integer leg lengths, that have areas numerically equal to 5 times their perimeters?
 
-**Answer:** 0006
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2025_squadre_semifinale1#q10|src_archimede_2025_squadre_semifinale1__Q10]]
 
 
 
@@ -358,11 +424,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples (n,d) with condition on prime divisors*
+*Pairs (n,d) with a condition on prime divisors*
 
-> Whistleblowers and trackers James needs to distinguish between the clues of the real whistleblowers and those of the trackers. The clues given to him are all different and are all possible pairs of natural numbers (n,d) where n is a two-digit number and d =1 is its divisor. James was able to understand that the true indices can be obtained by calculating the product of n and d divided by the product of the prime divisors of n and the product of the prime divisors of d: (n,d) is a true indication only if this operation gives the result n. How much is the sum of all the n+d of the true indices?
+> Informants and decoys
+> James must sort out the clues of the true informants from those of the decoys. The clues provided to him are all
+> different and are all the possible pairs of natural numbers (n,d) where n is a two-digit number and d ≠ 1 is a divisor
+> of it. James has managed to understand that the true clues can be found by calculating the product of n and d divided
+> by the product of the prime divisors of n and the product of the prime divisors of d: (n,d) is a true clue only if this
+> operation gives as result n. What is the sum of all the n+d of the true clues?
 
-**Answer:** 0578
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2025_squadre_semifinale1#q11|src_archimede_2025_squadre_semifinale1__Q11]]
 
 
 
@@ -390,11 +465,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Probability of exactly two agents telling the truth with dice
+*Probability that exactly two agents tell the truth with a die*
 
-> In the world of secret agents, you can never trust anyone. In a room there are 6 secret agents and a six-sided dice, numbered with integers from 0 to 5 (included). Each agent, in order, throws the dice and exclaims: Before me, exactly k agents told the truth!, where k is the result of throwing the dice. What is the probability that exactly two of them are telling the truth? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+> Poker-face spies
+> In the world of secret agents, you can never trust anyone. In a room there are 6 secret agents and a fair 6-sided die, numbered with the integers from 0 to 5 (inclusive). Each agent, in order, rolls the die and exclaims:
+> "Before me, exactly k agents told the truth!", where k is the result of the die roll. What is the probability that exactly two of them tell the truth? Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.
 
-**Answer:** 8677
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2025_squadre_semifinale1#q12|src_archimede_2025_squadre_semifinale1__Q12]]
 
 
 
@@ -429,9 +509,16 @@ Probability of exactly two agents telling the truth with dice
 
 *Two intersecting circles, product AX·YD*
 
-> Bound and Mathieu want to devise a trap to capture a spectral theorist. To mimic the situation, two circumferences are drawn on the floor: Γ of centre O and radius 4m, and ∆ of centre O′ and radius R > 4m. The two circumferences intersect in A and B, the segment OO′ intersects Γ in C, while the straight OB intersects ∆in B and D. Bound notices that the segments CO′ and AD intersect, and puts himself right at their intersection point X, while Mathieu puts himself at a Y point on the segment DX. If the intersection of Y C with Γ is distinct from C, then \ Y FO = \ DOX and XO′ = 3m. For the trap to be infallible, Bound and Mathieu must determine the value (in square metres) of the product AX ·Y D. How much is that product worth?
+> Trap circles
+> Bound and Mathieu want to devise a trap to capture an adept of the SPECTRAL THEOREM. To mimic the situation, they draw on the floor two circles: Γ with centre O and radius 4m, and ∆ with centre O′ and radius R > 4m. The two circles intersect at A and B, the segment OO′ intersects Γ at C, while the line OB intersects ∆ at B and D. Bound notices that the segments CO′ and AD intersect, and puts himself right at their intersection point X, while Mathieu puts himself at a point Y on the segment DX. Let F be the intersection of YC with Γ distinct from C, and it turns out that \
+> Y FO = \
+> DOX and XO′ = 3m. For the trap to be foolproof, Bound and Mathieu must determine the value (in square metres) of the product AX ·Y D. How much is this product?
 
-**Answer:** 0012
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2025_squadre_semifinale1#q13|src_archimede_2025_squadre_semifinale1__Q13]]
 
 
 
@@ -463,11 +550,23 @@ Probability of exactly two agents telling the truth with dice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Operation to be iterated on rational numbers from 2 to 99*
+*Iterated star operation on rationals from 2 to 99*
 
-> The spy who loved me Unexpectedly, Vesper Lynear broke James Bound's heart. He had defined the operation ⋆his rational numbers this way: for every positive rational x,y, x⋆y = x+y 1+xy). He had then set the result of (...(((2 ⋆3) ⋆4)...) ⋆99 as the code of his safe, but once he opened it he discovered that Vesper had stolen the contents and had gone. What result did Vesper put in? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+> The spy who loved me
+> Unexpectedly, Vesper Lynear broke James Bound’s heart. He had defined the operation ⋆ on numbers
+> rational in this way: for every x,y rational positive,
+> x⋆y =
+> x+y
+> 1+(xy).
+> He had then set as the code of his safe the result of (...((2 ⋆3) ⋆4)...) ⋆99, but once
+> opened he discovered that Vesper had stolen the contents and had left. What result did Vesper enter?
+> Answer with the sum of numerator and denominator of the fraction reduced to lowest terms.
 
-**Answer:** 9900
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2025_squadre_semifinale1#q14|src_archimede_2025_squadre_semifinale1__Q14]]
 
 
 
@@ -493,11 +592,16 @@ Probability of exactly two agents telling the truth with dice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Primes p,q with pq=83333, calculate p+2q*
+*First primes p,q with pq=83333, calculate p+2q*
 
-> Access to the headquarters The headquarters of the MI6), like all intelligence services, has an entrance whose door is opened by entering a code. It is equal to the result of p+2q, where p and q are prime numbers, with p < q such that pq = 83333. What code do you need to enter to open the door?
+> Access to the headquarters
+> The headquarters of the MI(6), like all secret services, has an entrance whose door opens by entering a code.
+> It is equal to the result of p+2q, where p and q are prime numbers, with p < q such that pq = 83333. What code should be entered to open the door?
 
-**Answer:** 1165
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2025_squadre_semifinale1#q15|src_archimede_2025_squadre_semifinale1__Q15]]
 
 
 
@@ -538,10 +642,22 @@ Probability of exactly two agents telling the truth with dice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of a square antibody side 10 height 30*
+*Volume of a square antiprism with side 10 and height 30*
 
-> Death can wait for the evil wizard to rule the world after locking James Bound in a cell shaped like a square prism. Without teams or a compass, he can't measure the sides. Unexpectedly, the villain's white cat turns out to be an MI6 secret agent and informs Bound that the cell has a base side 10m long and 30m high, allowing him to free himself. The bad guy comments laconically: Who would have thought a pet was a secret agent!?. What is the volume (in m3) of the cell? A square prism is a polyhedron that resembles a square prism, but in which one of the bases is rotated 45 degrees around the prism's axis. Consequently, the lateral surface is not composed of four rectangles, but of eight isosceles, the sides of which are formed by connecting each vertex of the bases to the two nearest vertices of the other base. Team competition 2025  Semi-final 1  Problem tests  2/2
+> Death can wait
+> The villain savours the domination of the world after locking James Bound in a cell shaped like a square antiprism. Without teams or compass, he cannot measure the sides. Unexpectedly, the villain’s white cat turns out to be a secret agent of MI(6) and tells Bound that the cell has a base side length of 10 m and height 30 m, allowing him to escape. The villain comments laconically: “Who would have thought that a pet was a secret agent!?” What is the volume (in m3) of the cell?
+> Recall that a square antiprism is a polyhedron that resembles a square prism, but in which one of the bases is rotated by 45 degrees about the prism axis. Consequently, the lateral surface is not composed of four rectangles, but rather of eight isosceles triangles, whose sides are formed by connecting each vertex of the bases to the two nearest vertices of the other base.
+> Gara a Squadre 2025 – Semifinale 1 – Problem texts – 2/2
 > 
-> XXVI National Semifinal Team Competition 1  Friday 9 May 2025 Ministry of Education and Merit Solutions Nr. The problem
+> XXVI National Team Competition
+> Team Competition
+> Semifinale 1 – Friday 9 May 2025
+> Ministry of Education
+> and Merit
+> Solutions
+> Nr. Problem
 
-**Answer:** 3414
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2025_squadre_semifinale1#q16|src_archimede_2025_squadre_semifinale1__Q16]]

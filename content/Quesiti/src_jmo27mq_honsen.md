@@ -29,9 +29,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*lcm(a,b) non è mai uguale a lcm(a+c,b+c)*
+*Due minimi comuni multipli sono diversi*
 
-> Lasciate che $a, b, c$ siano numeri interi positivi. Indicare che il più piccolo comune di $a$ e $b$ non è uguale al più piccolo comune di $a+c$ e $b+c$.
+> Siano $a, b, c$ interi positivi. Dimostrare che il minimo comune multiplo di $a$ e $b$ non è uguale al minimo comune multiplo di $a+c$ e $b+c$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo27mq_honsen#q01|src_jmo27mq_honsen__Q01]]
 
 
 
@@ -58,13 +63,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-La sequenza di raddoppiamento avida è infine costante.
+*Una successione definita dal resto minimo diventa costante*
 
-> $N$ sia un numero intero positivo. Sono dati numeri interi positivi $a_1, a_2, \ldots, a_N$, nessuno dei quali è un multiple di $2^{N+1}$. Per ogni numero intero $n \ge N+1$, definire $a_n$ come segue:
-> 
-> Tra $k = 1, 2, \ldots, n-1$, scegli $k$ per il quale il rimanente di $a_k$ dopo la divisione da $2^n$ è più piccolo e imposta $a_n = 2a_k$. Se ci sono diverse $k$, scegliere la più grande.
-> 
-> Indicare che esiste un intero positivo $M$ tale che $a_n = a_M$ sia valido per tutti $n \ge M$.
+> Sia $N$ un intero positivo. Sono dati interi positivi $a_1, a_2, \ldots, a_N$, nessuno dei quali è multiplo di $2^{N+1}$. Per ogni intero $n \ge N+1$, si definisca $a_n$ come segue.
+>
+> Tra $k = 1, 2, \ldots, n-1$, si scelga $k$ per cui il resto di $a_k$ nella divisione per $2^n$ è minimo, e si ponga $a_n = 2a_k$. Se ce ne sono diversi tali $k$, si scelga il più grande.
+>
+> Dimostrare che esiste un intero positivo $M$ tale che $a_n = a_M$ valga per tutti i $n \ge M$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalità]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_casework_accurato|Analisi per casi accurata]]
+[[Quesiti/src_jmo27mq_honsen#q02|src_jmo27mq_honsen__Q02]]
 
 
 
@@ -87,9 +97,14 @@ La sequenza di raddoppiamento avida è infine costante.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A, punto medio di XY, punto medio di BC sono collineari*
+*Tre punti sono allineati*
 
-> $ABC$ sia un triangolo acuto con il centro circundante $O$. Il $D$, $E$, $F$ sono i piedi delle perpendicolari abbassate rispettivamente da $A$, $B$, $C$ ai lati opposti e il $M$ è il punto medio del lato $BC$. Il $X$ deve essere l'intersezione della linea $AD$ e della linea $EF$, e il $Y$ deve essere l'intersezione della linea $AO$ e della linea $BC$. Il segmento $Z$ deve essere il punto medio di $XY$. Indicare che i tre punti $A$, $Z$ e $M$ sono collineari.
+> Sia $ABC$ un triangolo acutangolo di circocentro $O$. Siano $D$, $E$, $F$ i piedi delle perpendicolari abbassate da $A$, $B$, $C$ rispettivamente sui lati opposti, e sia $M$ il punto medio del lato $BC$. Sia $X$ l'intersezione della retta $AD$ e della retta $EF$, e sia $Y$ l'intersezione della retta $AO$ e della retta $BC$. Sia $Z$ il punto medio del segmento $XY$. Dimostrare che i tre punti $A$, $Z$, $M$ sono allineati.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo27mq_honsen#q03|src_jmo27mq_honsen__Q03]]
 
 
 
@@ -112,9 +127,14 @@ La sequenza di raddoppiamento avida è infine costante.
 <div class="qlang-split" data-lang="it"></div>
 
 
-Incontri giornalieri, ogni coppia scuote una volta, dimensioni uguali
+*A ogni riunione ha partecipato lo stesso numero di persone*
 
-> $n$ sia un numero intero con $n \ge 3$. Ci sono persone $n$ e ogni giorno si tiene un incontro a cui partecipano almeno $3$ di esse. A ogni riunione, tutti e due i partecipanti stringono la mano esattamente una volta. Dopo la fine della riunione del giorno 4, si scopre che ogni due persone hanno dato la mano esattamente una volta. Mostrate che a ogni riunione era presente lo stesso numero di persone.
+> Sia $n$ un intero con $n \ge 3$. Ci sono $n$ persone, e ogni giorno si tiene una riunione a cui ne partecipano almeno $3$. A ogni riunione, due partecipanti qualunque si stringono la mano esattamente una volta ciascuno. Dopo la fine della riunione del $n$-esimo giorno, risulta che due qualunque delle $n$ persone si erano stretti la mano esattamente una volta ciascuno, in tutto. Dimostrare che a ogni riunione ha partecipato lo stesso numero di persone.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo27mq_honsen#q04|src_jmo27mq_honsen__Q04]]
 
 
 
@@ -137,6 +157,11 @@ Incontri giornalieri, ogni coppia scuote una volta, dimensioni uguali
 <div class="qlang-split" data-lang="it"></div>
 
 
-*somme di potenza divisibile per 2017 forza ogni termine divisibile*
+*Se certe somme sono multiple di un intero, allora tutti i termini lo sono*
 
-> Lasciate che $x_1, x_2, \ldots, x_{1000}$ siano integri in modo tale che per ogni intero positivo $k$ con $k \le 672$, la somma $\displaystyle\sum_{i=1}^{1000} x_i^k$ sia un multiple di $2017$. Mostrare che $x_1, x_2, \ldots, x_{1000}$ sono tutti multipli di $2017$. (Nota: $2017$ è primo.)
+> Siano $x_1, x_2, \ldots, x_{1000}$ interi tali che per ogni intero positivo $k$ con $k \le 672$ la somma $\displaystyle\sum_{i=1}^{1000} x_i^k$ è un multiplo di $2017$. Dimostrare che $x_1, x_2, \ldots, x_{1000}$ sono tutti multipli di $2017$. (Nota: $2017$ è primo.)
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo27mq_honsen#q05|src_jmo27mq_honsen__Q05]]

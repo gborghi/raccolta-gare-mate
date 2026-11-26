@@ -32,9 +32,14 @@ level: kangourou
 
 *Final digit of the product of the odd numbers between 1 and 2012*
 
-> If all odd integers between $1$ and $2012$ are multiplied by each other, what number does the product end with?
+> If all the odd integers between $1$ and $2012$ are multiplied together, what digit does the product end in?
 
-**Answer:** 5
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_junior_finale#qj1|src_kangourou_2012_junior_finale__QJ1]]
 
 
 
@@ -57,11 +62,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many spheres for three non-collinear points and minimum radius*
+*Spheres through three non-collinear points and the smaller radius*
 
-> Assigned three non-collinear points in space, how many spheres pass through these three points? If more than one can pass, how can the radius of the smallest be determined?
+> Given three non-collinear points in space, how many spheres pass through these three points? If more than one can pass through them, how can one determine the radius of the one that has the smaller radius?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** infinitely many
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1oKHOSWPLPAyvSCzjXHxhRGKMVyrbdN1S/view)
+[[Quesiti/src_kangourou_2012_junior_finale#qj2|src_kangourou_2012_junior_finale__QJ2]]
 
 
 
@@ -87,13 +97,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*You can get sum 2012 on the exposed faces of the dice*
+*A total of 2012 can be obtained on the exposed faces of the dice*
 
 ![[src_kangourou_2012_junior_finale__probj3.png]]
 
-> Peter wants to line up a number of traditional dice (the sum of the dots on opposite faces is always $7$), as shown in the figure. He glues two faces together only if the number of points on both faces is equal, and he wants to get a row so that the sum of points on all the faces exposed is $2012$. Can he do it, and if so, how many dice does he have to use? (see figure)
+> Pietro wants to line up a certain number of traditional dice (the sum of the dots on opposite faces is always $7$), as shown in the figure. He glues two faces together only if the number of dots on the two faces is equal, and he wants to end up with a row such that the sum of the dots on all the visible faces is $2012$. Can he succeed? If so, how many dice must he use? (see figure)
 
-**Answer:** no
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_junior_finale#qj3|src_kangourou_2012_junior_finale__QJ3]]
 
 
 
@@ -117,11 +132,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to color 20 sheets with the sum rule*
+*In how many ways can 20 tiles be colored according to the sum rule?*
 
-> Twenty tiles are numbered with integers from $1$ to $20$. We want to colour each tile of a single color, white or black, so that the following rule is observed: if two (different) cards of numbers $m$ and $n$ have the same color and $m + n < 21$, then the tile numbered $m + n$ must also have that color. How many different ways can we assign colors?
+> Twenty tiles are numbered with the integers from $1$ to $20$. We want to color each tile with a single color, either white or black, so that the following rule is obeyed: if two (distinct) tiles with numbers $m$ and $n$ have the same color and $m + n < 21$, then the tile with number $m + n$ must also have that color. In how many different ways can we assign the colors?
 
-**Answer:** 6
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_junior_finale#qj4|src_kangourou_2012_junior_finale__QJ4]]
 
 
 
@@ -147,13 +167,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Each polyhedron has two faces with the same number of edges*
+*Every polyhedron has two faces with the same number of edges*
 
 ![[src_kangourou_2012_junior_finale__probj5.png]]
 
-> Prove that each polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces having the same number of edges. Are there any polyhedra that don't have three faces with the same number of edges?
+> Prove that every polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces with the same number of edges. Are there polyhedra that do not have three faces with the same number of edges?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** yes
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1oKHOSWPLPAyvSCzjXHxhRGKMVyrbdN1S/view)
+[[Quesiti/src_kangourou_2012_junior_finale#qj5|src_kangourou_2012_junior_finale__QJ5]]
 
 
 
@@ -177,8 +203,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Subset with sum a multiple of n among n integers*
+*Subset whose sum is a multiple of n among n integers*
 
-> Prove that, however $n$ ($n \geq 1$) positive integers are assigned, it is always possible to choose some of them so that their sum is a multiple of $n$.
+> Prove that, regardless of how $n$ ($n \geq 1$) positive integers are assigned, it is always possible to choose some of them so that their sum is a multiple of $n$.
 
-**Answer:** proof
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_junior_finale#qj6|src_kangourou_2012_junior_finale__QJ6]]

@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time from A to B swimming with the same energy as the counter current*
+*How long would he take to reach bridge B starting from bridge A?*
 
-> A river is crossed by a bridge A and a bridge B and the river flows from A to B. Stefano enters the river in correspondence with bridge A and is passively carried by the current to bridge B, which he reaches in 6 minutes; then from bridge B, swimming against the current, he reaches bridge A, again in 6 minutes. If Stefano swam from bridge A to bridge B consuming the same energy used in his countercurrent route, how long would it take to reach bridge B from bridge A?
+> A river is crossed by a bridge A and a bridge B, and the river flows from A towards B. Stefano enters the river at bridge A and lets himself be carried passively by the current to bridge B, which he reaches in 6 minutes; then from bridge B, swimming against the current, he reaches bridge A, again in 6 minutes. If Stefano swam from bridge A to bridge B using the same energy as on his trip against the current, how long would he take to reach bridge B starting from bridge A?
 
-**Answer:** 2 minutes
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Answer:** 2 minuti
+[[Quesiti/src_kangourou_2022_benjamin_finale#qb1|src_kangourou_2022_benjamin_finale__QB1]]
 
 
 
@@ -58,13 +62,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure of the highlighted angle with three adjacent squares*
+*How many degrees does the marked angle measure?*
 
 ![[src_kangourou_2022_benjamin_finale__probb2.png]]
 
-> In the figure, three squares appear to be next to each other. How many degrees does the highlighted angle measure? (see figure)
+> The picture shows three squares placed side by side. How many degrees does the marked angle measure? (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 90
+[[Quesiti/src_kangourou_2022_benjamin_finale#qb2|src_kangourou_2022_benjamin_finale__QB2]]
 
 
 
@@ -87,11 +95,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The position of the Blue team with all the wrong forecasts
+*In what place did the Azzurra team finish?*
 
-> Claudio tried to guess the complete final standings of an eight-team tournament. Once the tournament was over, he discovered that he had got the prediction wrong for each of the 8 positions in the rankings: except for the Azzurra team, which he had predicted would come last, to each of the others he assigned a better position than the team later obtained. What position did the Blue team finish in?
+> Claudio tried to guess the complete final ranking of a tournament of 8 teams. Once the tournament was over, he found that he had got the prediction wrong for each of the 8 places in the ranking: except for the Azzurra team, which he had predicted would finish last, he had given each of the others a better place than the one the team then obtained. In what place did the Azzurra team finish?
 
-**Answer:** first
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Answer:** primo
+[[Quesiti/src_kangourou_2022_benjamin_finale#qb3|src_kangourou_2022_benjamin_finale__QB3]]
 
 
 
@@ -115,11 +127,16 @@ The position of the Blue team with all the wrong forecasts
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many cyclists have at least lied if sum and 36
+*At least how many of them lied?*
 
-> $10$ cyclists finish a race with different arrival times. After a while, a reporter asks each of them to tell him their order of arrival in that race, of course with a number between $1$ and $10$. The journalist sums up the answers they provide and gets $36$. He concludes that some certainly lied - how many, at least?
+> $10$ cyclists finish a race with finishing times all different from one another. Some time later, a journalist asks each of them to tell him his own finishing place in that race, of course with a number between $1$ and $10$. The journalist adds up the answers he is given and obtains $36$. He deduces that some of them certainly lied: how many, at least?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 3
+[[Quesiti/src_kangourou_2022_benjamin_finale#qb4|src_kangourou_2022_benjamin_finale__QB4]]
 
 
 
@@ -143,11 +160,16 @@ How many cyclists have at least lied if sum and 36
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of equilateral triangles joining vertices of a cube*
+*How many of them are equilateral?*
 
-> Of the triangles obtained by joining three vertices of the same cube, how many are equilateral?
+> Of the triangles obtained by joining three vertices of one and the same cube, how many are equilateral?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 8
+[[Quesiti/src_kangourou_2022_benjamin_finale#qb5|src_kangourou_2022_benjamin_finale__QB5]]
 
 
 
@@ -171,8 +193,13 @@ How many cyclists have at least lied if sum and 36
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum matches so that everyone is a partner of everyone*
+*What is the least number of matches?*
 
-> To train, the $12$ players of a basketball team each day are divided into two teams, each of $6$ players, who play a match against each other. What is the minimum number of matches that allows each player to play at least one match in the same team with each other?
+> To train, the $12$ players of a basketball team split each day into two teams, each of $6$ players, who play a match against each other. What is the least number of matches that lets each player play at least one match on the same team as every other player?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 3
+[[Quesiti/src_kangourou_2022_benjamin_finale#qb6|src_kangourou_2022_benjamin_finale__QB6]]

@@ -32,13 +32,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary distances from the internal point of the regular pentagon*
+*Sum of distances from an interior point of a regular pentagon*
 
-> The pentagon of the figure, of an area equal to $S$, has its five sides equal to each other and equal to 1 cm. Calculate (as a function of $S$) the value of the expression $MA+MB+MC+MD+ME$ which is the sum of the distances of the point $M$ from the five sides of the pentagon (or their extensions).
+> The pentagon in the figure, whose area is equal to $S$, has its five sides equal to each other and equal to 1 cm. Calculate (in terms of $S$) the value of the expression $MA+MB+MC+MD+ME$, which represents the sum of the distances from the point $M$ to the five sides of the pentagon (or to their extensions).
 
 ![[src_bocconi_squadre_2011__q01.png]]
 
-**Answer:** $2S$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2011#q01|src_bocconi_squadre_2011__Q01]]
 
 
 
@@ -64,13 +69,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 1-8 in the grid with no adjacent consecutive numbers*
+*Numbers 1–8 in a grid with no adjacent consecutive numbers*
 
-> Place the natural numbers from 1 to 8 in the boxes in the figure so that two consecutive numbers are never placed in boxes that have a side or a vertex in common. How many possible solutions are there?
+> Place the natural numbers from 1 to 8 in the boxes of the figure so that two consecutive numbers are never placed in boxes that share a side or a vertex. How many possible solutions are there?
 
 ![[src_bocconi_squadre_2011__q02.png]]
 
-**Answer:** 4
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2011#q02|src_bocconi_squadre_2011__Q02]]
 
 
 
@@ -94,11 +104,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Game with tokens: minimum number to be withdrawn to win*
+*Token game: minimum number to remove to win*
 
-> Carla and Milena are having fun with twenty-five tokens on the table. The game consists of removing, with each move, 1 or 4 or 7 or 8 tokens (while it is forbidden to remove any other number of tokens from the table). The winner is the one who removes the last or last token on the table. It's Carla, now. How many tokens does she have to take away on her first move to be sure of winning, whatever strategy Milena then adopts? (Answer 0 if you think that, for any initial move by Carla, Milena has a chance to win the game.)
+> Carla and Milena are having fun with twenty-five tokens arranged on the table. The game consists of removing, on each move, 1 or 4 or 7 or 8 tokens (while it is forbidden to remove any other number of tokens from the table). The player who removes the last token or the last tokens on the table wins. Carla goes first. How many tokens must she remove on her first move to be certain of winning, regardless of the strategy Milena then adopts? (Answer 0 if you think that, for any initial move Carla makes, Milena has a chance to win the game.)
 
-**Answer:** 0
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_backward|Working backwards]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2011#q03|src_bocconi_squadre_2011__Q03]]
 
 
 
@@ -127,11 +142,21 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arithmetic characters: different numbers for each letter*
+*Crittarithmetic: Different Digits for Letters*
 
-> On the mirror: $$\text{ABC} + \text{CBA} +$$ $$\text{DE} + \text{ED} +$$ $$\text{FG} = \text{GF}$$ $$\text{HII} = \text{JJJ}$$ Replace the digits 0 to 9 with letters (different letters must be replaced with different numbers and letters equal the same number) so that both sums are verified. The one on the right gets the numbers from right to left from the first reading. Some numbers can start with 0 but $A$ is different from 0. Finally, for two-digit numbers, $DE$ is greater than $ED$ which is greater than $GF$ which is in turn greater than $FG$.
+> At the mirror:
+> $$\text{ABC} + \text{CBA} +$$
+> $$\text{DE} + \text{ED} +$$
+> $$\text{FG} = \text{GF}$$
+> $$\text{HII} = \text{JJJ}$$
+> Replace the letters with digits from 0 to 9 (different letters must be replaced with different digits, and the same digit must be used for the same letter) so that both sums are correct. The sum on the right is obtained from the first one by reading its numbers from right to left. Some numbers may start with 0, but $A$ is not 0. Finally, for the two-digit numbers, $DE$ is greater than $ED$, which is greater than $GF$, which in turn is greater than $FG$.
 
-**Answer:** A=4, B=8, C=0, D=9, E=7, F=3, G=5, H=6, I=1, J=2
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2011#q04|src_bocconi_squadre_2011__Q04]]
 
 
 
@@ -155,11 +180,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum secret code from complement to 30*
+*Maximum secret code from the 30-complement*
 
-> The secret agent Nando, in order to contact his operational base, must first provide a secret code that he obtains with the square of a natural number $N$ (selected between 1 and 30) multiplied by the complement cube of $N$ to 30. (For example, for $N=5$, Nando will provide the number $5^2 \times 35^3 = 300\,625$). What's the biggest secret code Nando can provide?
+> The secret agent Nando, in order to make contact with his operational base, must first provide a secret code obtained by multiplying the square of a natural number $N$ (chosen between 1 and 30) by the cube of the complement of $N$ to 30. (For example, for $N=5$, Nando will provide the number $5^2 \times 35^3 = 300\,625$.) What is the maximum secret code that Nando can provide?
 
-**Answer:** 839808
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2011#q05|src_bocconi_squadre_2011__Q05]]
 
 
 
@@ -185,13 +215,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Litres of water poured from the fountain at six levels*
+*Liters of water poured from the six-tiered fountain*
 
-> The fountain in the figure is built on six levels. At each level, each basin pours half its water into each of the two basins below it. How many liters of water were initially poured into the one tank on the first level (the upper one) knowing that the white tank (the second one on the left of the lower level) collected one litre of water?
+> The figure fountain is built on six levels. At each level, each basin pours half of its water into each of the two basins located below it. How many liters of water were initially poured into the single basin on the first level (the top level), given that the white basin (the second from the left on the lower level) collected one liter of water?
 
 ![[src_bocconi_squadre_2011__q06.png]]
 
-**Answer:** 6,4
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_probabilita|Probability]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2011#q06|src_bocconi_squadre_2011__Q06]]
 
 
 
@@ -215,11 +250,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of potatoes initially carried by the traveller*
+*Number of potatoes initially carried by the traveler*
 
-> Three travelers, fed, finally arrive at a restaurant and ask for a plate of potatoes. But when the host brings them, he finds them asleep. Then leave the plate on the table. One in three travelers wakes up and eats a third of the potatoes; then he falls asleep again. At this point a second traveler wakes up, eats a third of the potatoes left in the plate, and then he falls asleep again. Shortly thereafter, the third traveler wakes up, unaware that his adventure companions have already served themselves, and eats a third of the potatoes left in the dish. When the host comes to pick up the plate, he finds there's eight more potatoes left. How many potatoes did he bring in first?
+> Three travelers, having had their fill, finally arrive at an inn and ask for a dish of potatoes. When the innkeeper brings them the potatoes, however, he finds the travelers asleep. He then leaves the dish on the table. One of the three travelers wakes up and eats a third of the potatoes; then he falls asleep again. At this point, a second traveler wakes up, eats a third of the potatoes left in the dish, and then he too falls asleep again. Shortly afterward, the third traveler wakes up and, unaware that his fellow travelers have already helped themselves, eats a third of the potatoes left in the dish. When the innkeeper comes to collect the dish, he finds that there are still 8 potatoes in it. How many potatoes did he bring initially?
 
-**Answer:** 27
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2011#q07|src_bocconi_squadre_2011__Q07]]
 
 
 
@@ -245,13 +285,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum area rectangular triangles with square lengthing catheters*
+*Minimum area of right triangles whose legs extend a square*
 
-> Consider all rectangular triangles whose cathetes extend the sides of the $ASOT$ square and in which the hypotenuse passes through $O$. Knowing that $c = 1$ cm, what is the minimum value of the area of these triangles?
+> Consider all right-angled triangles whose legs extend the sides of the square $ASOT$ and whose hypotenuse passes through $O$. Given that $c = 1$ cm, what is the minimum value of the area of these triangles?
 
 ![[src_bocconi_squadre_2011__q08.png]]
 
-**Answer:** 2
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2011#q08|src_bocconi_squadre_2011__Q08]]
 
 
 
@@ -275,11 +320,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Late of the equivolumetric cube at the reduced parallelpiped*
+*Edge of the equivolumetric cube to the reduced parallelepiped*
 
-> Increasing the smallest size of a rectangular parallelepiped by 3 cm and decreasing the largest by 5 cm gives a cube with the same volume as the initial parallelepiped. What's the size of the side of the cube?
+> If the smallest dimension of a rectangular parallelepiped is increased by 3 cm and the largest dimension is decreased by 5 cm, a cube with the same volume as the initial parallelepiped is obtained. What is the length of the side of the cube?
 
-**Answer:** 7,5
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2011#q09|src_bocconi_squadre_2011__Q09]]
 
 
 
@@ -303,11 +353,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the right angle beam in triangle 3-4-5*
+*Length of the bisector of the right angle in a 3-4-5 triangle*
 
-> What is the length of the segment of the rectangular vertex (top to hypotenuse) of a right triangle whose sides measure 3 cm, 4 cm, 5 cm?
+> What is the length of the segment of the bisector of the right angle (from the vertex to the hypotenuse) in a right-angled triangle whose sides measure 3 cm, 4 cm, and 5 cm?
 
-**Answer:** $\frac{12}{7}\sqrt{2}$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2011#q10|src_bocconi_squadre_2011__Q10]]
 
 
 
@@ -331,11 +386,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of two-digit numbers with digits from 1 to 9*
+*Maximum sum of two-digit numbers using digits from 1 to 9*
 
-> But look at that combination! Between three digits, choosing between those ranging from 1 to 9 (included), you can write six two-digit numbers. Adding these six numbers together, you get a number made up of the same three numbers. What is the maximum value of this sum?
+> Just look at that coincidence! From three digits chosen from those ranging from 1 to 9 inclusive, six two-digit numbers can be formed. If you add these six numbers together, you get a number made up of the same three initial digits. What is the maximum value of this sum?
 
-**Answer:** 396
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2011#q11|src_bocconi_squadre_2011__Q11]]
 
 
 
@@ -361,13 +421,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AC diagonal length in the shape of four equilateral triangles*
+*Diagonal length AC in the figure of four equilateral triangles*
 
-> Look at the figure, it's made up of four equilateral triangles that have sides of 1 m. Calculate the length of the diagonal $AC$.
+> Look at the figure, which consists of four equilateral triangles with sides measuring 1 m. Calculate the length of the diagonal $AC$.
 
 ![[src_bocconi_squadre_2011__q12.png]]
 
-**Answer:** $\sqrt{3}$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2011#q12|src_bocconi_squadre_2011__Q12]]
 
 
 
@@ -393,9 +458,14 @@ level: Gara a Squadre
 
 *Postal code of the city of Desiderio*
 
-> Asked about his postal code, Desiderio is very reluctant to communicate it and merely provides some information. It says it's made up of five digits, that the sum of the first and the second is equal to 17, that the sum of the second and the third is equal to 15, that the sum of the third and the fourth is still equal to 15, and that the sum of the last two digits is equal to 9. Finally, however, it states that the sum of the first and last digits is equal to 8 and that the last digit is 9. What is the postal code of the city where Desiderio lives?
+> When asked for his postal code, Desiderio is very reluctant to give it and merely provides some information. He says that it consists of 5 digits, that the sum of the first and second digits is 17, that the sum of the second and third digits is 15, that the sum of the third and fourth digits is still 15, and that the sum of the last two digits is 9. Finally, however, he specifies that the sum of the first and last digits is 8 and that the last digit is 9. What is the postal code of the town where Desiderio lives?
 
-**Answer:** 89690
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2011#q13|src_bocconi_squadre_2011__Q13]]
 
 
 
@@ -418,11 +488,15 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-The time of Deborah's arrival at Calde
+*Debora's time of arrival in Caldè*
 
-> Debora leaves from Milan Central Station at 9.00. Its train travels 27 km, to Gallarate, at an average speed of 96 km/h. Then it stops for three minutes. Then, again, from Gallarate to Caldè (on Lake Maggiore), its train keeps the average of 96 km/h for the remaining 29 km. What time will Deborah arrive at Calde's station?
+> Debora departs from Milan Central Station at 9:00 a.m. Her train travels 27 km to Gallarate at an average speed of 96 km/h. Then it stops for 3 minutes. Then, again, from Gallarate to Caldè (on Lake Maggiore), her train maintains an average speed of 96 km/h for the remaining 29 km. What time will Debora arrive at Caldè Station?
 
-**Answer:** 9.38
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2011#q14|src_bocconi_squadre_2011__Q14]]
 
 
 
@@ -448,9 +522,14 @@ The time of Deborah's arrival at Calde
 
 *Number of divisors of the product of all divisors of n*
 
-> You have a natural number greater than 1. The product of all its divisors (including 1 and the number itself) is equal to the fifth power of this number. How many divisors does this number have?
+> You have a natural number greater than 1. The product of all its divisors (including 1 and the number itself) equals the fifth power of this number. How many divisors does this number have?
 
-**Answer:** 10
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2011#q15|src_bocconi_squadre_2011__Q15]]
 
 
 
@@ -474,11 +553,16 @@ The time of Deborah's arrival at Calde
 <div class="qlang-split" data-lang="en"></div>
 
 
-*People sitting at the round table in mixed pairs*
+*People seated at a round table with mixed couples*
 
-> In a banquet, all the seats on the round table are occupied: 7 ladies have another lady on their right; 12 ladies instead have a man on their right; in turn, exactly 75% of the men present have a lady on their right. How many people are sitting around the table overall?
+> At a banquet, all the seats around the round table are occupied: 7 ladies have another lady on their right; 12 ladies, on the other hand, have a man on their right; in turn, exactly 75% of the men present have a lady on their right. How many people in total are seated around the table?
 
-**Answer:** 35
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_doppio_conteggio|Double counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2011#q16|src_bocconi_squadre_2011__Q16]]
 
 
 
@@ -502,11 +586,16 @@ The time of Deborah's arrival at Calde
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of quadrilateral areas of the beams and rectangle 10×15*
+*Ratio of the areas of the quadrilateral of the angle bisectors and the 10×15 rectangle*
 
-> Consider a rectangle whose sides measure 10 cm and 15 cm. Its four corners, intersecting, form a quadrilateral. Calculate the ratio of the area of the quadrilateral to that of the initial rectangle.
+> Consider a rectangle whose sides measure 10 cm and 15 cm. The angle bisectors of its four angles intersect to form a quadrilateral. Calculate the ratio of the area of the quadrilateral to the area of the initial rectangle.
 
-**Answer:** $\frac{1}{12}$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2011#q17|src_bocconi_squadre_2011__Q17]]
 
 
 
@@ -532,13 +621,18 @@ The time of Deborah's arrival at Calde
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum square area divided into eight similar rectangular triangles*
+*A minimum square area divided into eight similar right-angled triangles*
 
-> Divide a square into eight rectangular triangles, different but similar to each other and where the length of the major square is twice that of the minor square. In the figure (which does not respect the proportions) you can see the result. Remember that all the surfaces of triangles (expressed in $\text{cm}^2$) are integers. How much is the minimum area of the square worth?
+> Divide a square into eight right-angled triangles—different from one another but similar to each other—in which the length of the longer leg is equal to twice the length of the shorter leg. In the figure (which does not, however, respect the proportions), you can see the result obtained. Remember that all the areas of the triangles (expressed in $\text{cm}^2$) are whole numbers. What is the minimum possible value of the area of the square?
 
 ![[src_bocconi_squadre_2011__q18.png]]
 
-**Answer:** 500
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2011#q18|src_bocconi_squadre_2011__Q18]]
 
 
 
@@ -562,11 +656,16 @@ The time of Deborah's arrival at Calde
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of insects isolated on the evening of 31 December*
+*Number of insects isolated on the evening of December 31*
 
-> The insect population we're studying had an impressive growth rate in 2010. As of January 1, it had 2010 units. By 2 January the number had risen to 4021 (double +1). On 3 January it was 12064 (three times the previous number +1). In January, the insect population grew according to the law: the number of individuals the day before, multiplied by the number of days, and increased by 1. The same law was also maintained in February (with an increase of 2). The population on 1 February was increased by 2 on 31 January; the population on 2 February was double the previous one (the one on 1 February) increased by 2, and so on. The law describing insect population growth remains the same even in the following months, with the difference that in March, every day, it is increased by 3 and not one as in January and not even by 2 as in February; in April it is increased by 4; in May it is increased by 5 and so on until December when it is increased by 12. Our insect population, in addition to growing so swiftly, has another feature. Insects are in the habit of flying in formations of 13 units; when their number is not a multiple of 13, they are arranged in such a way that the number of isolated insects (which are not in a 13-unit formation) is as small as possible. How many insects will be isolated on the evening of December 31?
+> The insect population we are studying had an impressive growth rate in 2010. On January 1, it numbered 2010 individuals. By January 2, the number had risen to 4021 (double plus 1). By January 3, it was 12064 (three times the previous number plus 1). During January, the insect population grew according to the rule: the number of individuals on the previous day, multiplied by the number of the day, plus 1. February also saw the same rule remain in force (though with an increase of 2). The population on February 1 was that on January 31 increased by 2; the population on February 2 was double the previous one (that on February 1) increased by 2, and so on. The rule describing the growth of the insect population remained exactly the same in the following months, except that in March the population was increased by 3 each day—not by 1 as in January, nor by 2 as in February; in April it was increased by 4; in May by 5, and so on up to December, when it was increased by 12. Besides growing so rapidly, our insect population has another characteristic. The insects have the habit of flying in formations of 13 individuals; when their number is not a multiple of 13, they arrange themselves in such a way that the number of isolated insects (those not in a formation of 13 individuals) is as small as possible. How many insects will then be isolated on the evening of December 31?
 
-**Answer:** 12
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_congruenze|Modular arithmetic / congruences]], [[method_induzione|Induction]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2011#q19|src_bocconi_squadre_2011__Q19]]
 
 
 
@@ -590,8 +689,13 @@ The time of Deborah's arrival at Calde
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction for which Luke multiplied instead of dividing*
+*The fraction by which Luca multiplied instead of dividing*
 
-> Luke has a really weird way of calculating fractions. He is used to replacing the fractional line with a comma and, when it comes to multiplying, instead divides. So for example, to multiply 12 by 6/25, divide 12 by 6.25. But Luke is also a lucky calculator: today, by proceeding normally in multiplying a number (different from 0) by an irreducible fraction, he has incredibly achieved the exact result. What is the fraction by which Luke multiplied the number?
+> Luca has a really strange way of doing calculations with fractions. He is used to replacing the fraction bar with a comma and, when it comes to multiplication, he divides instead. So, for example, to multiply 12 by 6/25, he divides 12 by 6.25. But Luca is also a lucky calculator: today, proceeding in the usual way when multiplying a number (different from 0) by an irreducible fraction, he incredibly obtained the exact result. What is the fraction by which Luca multiplied the number?
 
-**Answer:** $\frac{2}{5}$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2011#q20|src_bocconi_squadre_2011__Q20]]

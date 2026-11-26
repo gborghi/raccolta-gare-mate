@@ -36,9 +36,18 @@ level: kangourou
 
 *00*
 
-> What time is it 17 hours after 17:00? A) 8:00 B) 10:00 C) 11:00 D) 12:00 E) 13:00
+> What time is it 17 hours after 5:00 p.m.?
+> A) 8:00	 	
+> B) 10:00	
+> C) 11:00 	
+> D) 12:00	
+> E) 13:00
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q01|src_kangourou_2017_cadet_marzo__Q01]]
 
 
 
@@ -75,11 +84,19 @@ level: kangourou
 
 ![[src_kangourou_2017_cadet_marzo__prob2.png]]
 
-> In the drawing you see an isosceles triangle decorated with stripes, all of the same height. What fraction of the surface of this triangle is white? A) 1/2 B) 1/3
-> 	
-> C) 2/3 D) 3/4 E) 2/5
+> In the drawing, you see an isosceles triangle decorated with stripes, all of the same height. What fraction of the area of this triangle is white?
+> A) 1/2	 	
+> B) 1/3	
+>
+> C) 2/3	 	
+> D) 3/4	 	
+> E) 2/5
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q02|src_kangourou_2017_cadet_marzo__Q02]]
 
 
 
@@ -109,15 +126,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number to be subtracted from -17 to get -33*
+*The number to be subtracted from -17 to get -33*
 
-> What number do I subtract from 17 to get 33? A) –5 B) –16 C) 16
-> 	
-> D) 40
-> 	
+> What number must I subtract from –17 to get –33?
+> A) –5 	 	
+> B) –16	 	
+> C) 16	
+>
+> D) 40	
+>
 > E) 50
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q03|src_kangourou_2017_cadet_marzo__Q03]]
 
 
 
@@ -168,7 +192,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference of the perimeters of two concentric rectangles*
+*Difference between the perimeters of two concentric rectangles*
 
 ![[src_kangourou_2017_cadet_marzo__prob4.png]]
 
@@ -185,17 +209,22 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure you can see two rectangles: the opposite sides of the inner rectangle are parallel to those of the outer rectangle and the distances between the sides are those indicated. How many meters do you measure the difference between the lengths of the two perimeters? A) 12
-> 	
-> B) 16
-> 	
-> C) 20
-> 	
-> D) 21
-> 	
+> In the figure, you see two rectangles: the opposite sides of the inner rectangle are parallel to the corresponding sides of the outer rectangle, and the distances between the sides are as indicated. How many metres is the difference between the lengths of the two perimeters?
+> A) 12	
+>
+> B) 16	
+>
+> C) 20	
+>
+> D) 21	
+>
 > E) 24
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q04|src_kangourou_2017_cadet_marzo__Q04]]
 
 
 
@@ -228,19 +257,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lia fourth on the left seventh on the right*
+*Third from the left, seventh from the right*
 
-> A group of girls are sitting in a circle. Lia is the fourth on Anna's left and the seventh on her right. How many girls are in the group? A) 9
-> 	
-> B) 10
-> 	
-> C) 11
-> 	
-> D) 12
-> 	
+> A group of girls is sitting in a circle. Lia is fourth to Anna's left and seventh to her right. How many girls are in the group?
+> A) 9	
+>
+> B) 10	
+>
+> C) 11	
+>
+> D) 12	
+>
 > E) 13
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q05|src_kangourou_2017_cadet_marzo__Q05]]
 
 
 
@@ -277,21 +311,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of black line, seven equilateral triangles*
+*Length of the black line, seven equilateral triangles*
 
 ![[src_kangourou_2017_cadet_marzo__prob6.png]]
 
-> In the figure, the dotted segment with the black line forms seven equilateral triangles. The length of the dotted segment is 20. What's the length of the black line? A) 25
-> 	
-> B) 30
-> 	
-> C) 35
-> 	
-> D) 40
-> 	
+> In the figure, the dashed segment forms seven equilateral triangles with the black line. The length of the dashed segment is 20. What is the length of the black line?
+> A) 25	
+>
+> B) 30	
+>
+> C) 35	
+>
+> D) 40	
+>
 > E) 45
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q06|src_kangourou_2017_cadet_marzo__Q06]]
 
 
 
@@ -327,10 +366,21 @@ level: kangourou
 
 *Sum of two positive integers with product 2017*
 
-> The product of two positive integers is 2017. What's their sum? A) 680 B) 1008 C) 1009 D) 2018 E) Depends on the integers chosen. 3m 3m 2m 4m
+> The product of two positive integers is 2017. What is their sum?
+> A) 680 	  	
+> B) 1008		
+> C) 1009		
+> D) 2018		
+> E) It depends on the chosen integers.
+> 3m 3m 2m 4m
 >
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q07|src_kangourou_2017_cadet_marzo__Q07]]
 
 
 
@@ -368,22 +418,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How Mark folded the sheet given the hole*
+*How Marco folded the sheet given the hole*
 
 ![[src_kangourou_2017_cadet_marzo__prob8.png]]
 
-> Mark folded a sheet of paper in half twice and then drilled a hole in the folded sheet. When he opens the sheet, the result is what you see in the figure. In which of the following ways did Mark fold the sheet? A)
->  	
-> B)
-> 	
-> C)
->  	
->  
-> D)
-> 	
+> Marco folded a sheet of paper in half twice and then made a hole in the folded sheet. When the sheet is unfolded, the result is what you see in the figure. In which of the following ways did Marco fold the sheet?
+> A)	
+>
+> B) 	
+>
+> C) 	
+>
+>
+> D)	
+>
 > E)
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q08|src_kangourou_2017_cadet_marzo__Q08]]
 
 
 
@@ -423,17 +478,22 @@ level: kangourou
 
 ![[src_kangourou_2017_cadet_marzo__prob9.png]]
 
-> The drawing shows four overlapping hearts. The areas of the hearts are 1 cm2, 4 cm2, 9 cm2 and 16 cm2. How many square centimeters is the visible shaded region? A) 9
-> 	
-> B) 10
-> 	
-> C) 11
-> 	
-> D) 12
-> 	
+> The drawing shows four overlapping hearts. The areas of the hearts are 1 cm², 4 cm², 9 cm², and 16 cm². What are the dimensions, in square centimeters, of the visible shaded region?
+> A) 9	
+>
+> B) 10	
+>
+> C) 11	
+>
+> D) 12	
+>
 > E) 13
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q09|src_kangourou_2017_cadet_marzo__Q09]]
 
 
 
@@ -467,13 +527,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of the rod between ant and cook*
+*Segment of the stick between the ladybug and the ladybird*
 
 ![[src_kangourou_2017_cadet_marzo__prob10.png]]
 
-> Federica the ant started from the left end of the stick depicted in the figure and walked 2/3 of its length. Ornella the little one started from the right end of the same stick and walked about 3/4 of its length. What fraction of the length of the stick now separates Federica from Ornella? A) 3/8 B) 1/12 C) 5/7 D) 1/2 E) 5/12 Questions from N. 11 al N. 20 is worth 4 points each.
+> Federica the ant started from the left end of the stick shown in the figure and walked 2/3 of its length. Ornella the ladybug started from the right end of the same stick and walked 3/4 of its length. What fraction of the stick's length now separates Federica from Ornella?
+> A) 3/8	 	
+> B) 1/12	 	
+> C) 5/7	 	
+> D) 1/2	 	
+> E) 5/12
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q10|src_kangourou_2017_cadet_marzo__Q10]]
 
 
 
@@ -507,19 +577,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Outcome of odd alternate sum from 99 to 11*
+*Result of alternating odd sum from 99 to 11*
 
-> 99 – 97 + 95 – 93 + ... + 15 – 13 + 11: what is the result of this expression where I wrote, alternating the signs, all odd numbers from 99 to 11? A) 59
-> 	
-> B) 55
-> 	
-> C) 51
-> 	
-> D) 47
-> 	
+> 99 – 97 + 95 – 93 + … + 15 – 13 + 11: what is the result of this expression in which I have written, alternating the signs, all the odd numbers from 99 to 11?
+> A) 59	
+>
+> B) 55	
+>
+> C) 51	
+>
+> D) 47	
+>
 > E) 45
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q11|src_kangourou_2017_cadet_marzo__Q11]]
 
 
 
@@ -550,14 +626,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of girls in the show*
+*Proportion of girls among those present at the show*
 
-> One-sixth of those at a puppet show were adults. Two-fifths of the non-adults were boys. What proportion of those present were girls? A) 1/2 B) 1/3
-> 	
-> C) 1/4 D) 1/5 E) 2/5
+> One sixth of those present at a puppet show were adults. Two fifths of those who were not adults were boys. What fraction of those present were girls?
+> A) 1/2	 	
+> B) 1/3	
+>
+> C) 1/4	 	
+> D) 1/5	 	
+> E) 2/5
 >
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q12|src_kangourou_2017_cadet_marzo__Q12]]
 
 
 
@@ -608,7 +692,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded area in square 8 cm with segments*
+*Shaded area within an 8 cm square with line segments*
 
 ![[src_kangourou_2017_cadet_marzo__prob13.png]]
 
@@ -625,15 +709,22 @@ level: kangourou
 \end{document}
 ```
 
-> On the opposite sides of an 8 cm side square, two segments, each 1 cm long, were highlighted. Then two segments were drawn, connecting the ends of the 1 cm long segments, as shown in the figure. How many cm2 is the shaded area? A) 2
-> 	
-> B) 4
-> 	
-> C) 6,4 D) 8
-> 	
+> On opposite sides of a square with a side length of 8 cm, two line segments, each 1 cm long, have been marked. Then two line segments have been drawn connecting the endpoints of the 1-cm segments, as shown in the figure. What is the area of the shaded region in cm²?
+> A) 2	
+>
+> B) 4	
+>
+> C) 6,4	 	
+> D) 8	
+>
 > E) 10
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q13|src_kangourou_2017_cadet_marzo__Q13]]
 
 
 
@@ -663,18 +754,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*35% women, men 252 more*
+*35% women, 252 more men*
 
-> This year exactly 35% of the participants in the Kangourou marathon were 
-> women and the men were 252 more than the women. Between men and women, how many 
-> marathon runners were there in all? 
+> This year, exactly 35% of the participants in the Kangourou Marathon were women, and there were 252 more men than women. Altogether, how many marathon runners were there, counting both men and women?
 > A) 802	 	
 > B) 810	 	
 > C) 822	 	
 > D) 824	 	
 > E) 840
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q14|src_kangourou_2017_cadet_marzo__Q14]]
 
 
 
@@ -710,17 +803,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Emma's age with divisibility conditions for 5*
+*And di Emma with divisibility conditions by 5*
 
-> Four cousins are 3, 8, 12, and 14 years old. Their names, in alphabetical order, are Ada, Emma, Iva, and Olga. The sum of the ages of Olga and Ada is divisible by 5. The sum of Olga and Iva's ages is also divisible by 5. How old is Emma? A) 14
-> 	
-> B) 12
-> 	
-> C) 8
-> 	
-> D) 3 E) There is not enough data to establish this.
+> Four cousins are 3, 8, 12, and 14 years old. In alphabetical order, their names are Ada, Emma, Iva, and Olga. The sum of Olga's and Ada's ages is divisible by 5. The sum of Olga's and Iva's ages is also divisible by 5. How old is Emma?
+> A) 14	
+>
+> B) 12	
+>
+> C) 8	
+>
+> D) 3	
+> E) There is insufficient data to determine this.
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q15|src_kangourou_2017_cadet_marzo__Q15]]
 
 
 
@@ -774,7 +874,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product numbers in grey cells, partial sums given*
+*Numbers entered in the gray cells; partial sums given*
 
 ![[src_kangourou_2017_cadet_marzo__prob16.png]]
 
@@ -794,15 +894,21 @@ level: kangourou
 \end{document}
 ```
 
-> Mara wants to write a number in each box of the grid here on the side, so that the sum of all the numbers is 35, that the sum of the numbers in the first three boxes (left) is 22, and that the sum of the numbers in the last three boxes is 25. She has already written two of the numbers. What is the product of the numbers she will write on the grey boxes? A) 63
-> 	
-> B) 108 C) 0
-> 	
-> D) 48
-> 	
+> Mara wants to write a number in each cell of the grid beside here, so that the sum of all the numbers is 35, the sum of the numbers in the first three cells (from the left) is 22, and the sum of the numbers in the last three cells is 25. She has already written two of the numbers. What is the product of the numbers she will write in the gray cells?
+> A) 63	
+>
+> B) 108	 	
+> C) 0	
+>
+> D) 48	
+>
 > E) 39
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q16|src_kangourou_2017_cadet_marzo__Q16]]
 
 
 
@@ -838,19 +944,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum networks of Michele, the other three make 20
+*Michele's maximum goals; the other three total 20*
 
-> In a handball match, four players scored nets, each with a different number. Michele scored the fewest networks. The other three scored a total of 20 goals. What's the maximum number of nets Michele could have scored? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> In a handball match, four players scored goals: each scored a different number of goals. Michele scored the fewest goals. The other three scored a total of 20 goals. What is the maximum number of goals Michele could have scored?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q17|src_kangourou_2017_cadet_marzo__Q17]]
 
 
 
@@ -892,10 +1004,20 @@ Maximum networks of Michele, the other three make 20
 
 ![[src_kangourou_2017_cadet_marzo__prob18.png]]
 
-> The figure shows the plan of a square table. It has a regular decoration. What percentage of the plane is black? A) 16% B) 24% C) 25% D) 32% E) 36% 1 cm 1 cm 8 cm 3 4
+> The figure shows the top of a square table. It has a regular pattern. What percentage of the top is black?
+> A) 16%	 	
+> B) 24%	 	
+> C) 25%	 	
+> D) 32%	 	
+> E) 36%
+> 1 cm 1 cm 8 cm 3 4
 >
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q18|src_kangourou_2017_cadet_marzo__Q18]]
 
 
 
@@ -930,19 +1052,25 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ways of running on two non-consecutive days per week*
+*Ways to run on two non-consecutive days per week*
 
-> George wants to go running exactly twice a week and always on the same days of the week, but he doesn't want to go running two days in a row. How many different ways can he accomplish his plan? A) 16
-> 	
-> B) 14
-> 	
-> C) 12
-> 	
-> D) 10
-> 	
+> Giorgio wants to go running exactly twice a week, always on the same days of the week, but he doesn't want to go running two days in a row. In how many different ways can he carry out his plan?
+> A) 16	
+>
+> B) 14	
+>
+> C) 12	
+>
+> D) 10	
+>
 > E) 8
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q19|src_kangourou_2017_cadet_marzo__Q19]]
 
 
 
@@ -992,7 +1120,7 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of all numbers in the grid 3x3 (equal sums)*
+*Sum of all numbers in the 3x3 grid (equal sums)*
 
 ![[src_kangourou_2017_cadet_marzo__prob20.png]]
 
@@ -1006,17 +1134,24 @@ Maximum networks of Michele, the other three make 20
 \end{document}
 ```
 
-> Emilia wants to write a number in each cell of a grid 3 × 3 so that the sums of the numbers written in two cells that have one side in common are all the same. As the figure shows, she's already written two numbers. What is the sum of all the numbers in the grid? A) 18
-> 	
-> B) 20
-> 	
-> C) 21
-> 	
-> D) 22
-> 	
-> E) 23 Questions from N. 21 to N. 30 are worth 5 points each.
+> Emilia wants to write a number in each cell of a 3 × 3 grid so that the sums of the numbers written in two cells that share a side are all equal. As shown in the figure, she has already written two numbers. What is the sum of all the numbers in the grid?
+> A) 18	
+>
+> B) 20	
+>
+> C) 21	
+>
+> D) 22	
+>
+> E) 23
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q20|src_kangourou_2017_cadet_marzo__Q20]]
 
 
 
@@ -1045,11 +1180,21 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True statement on the intersection of two triangles*
+*A true statement about the intersection of two triangles*
 
-> Which of the following statements is true? A) Intersecting two triangles does not give a triangle. B) Intersecting two triangles does not give a quadrilateral. C) Intersecting two triangles does not give a pentagon. D) Intersecting two triangles does not give a hexagon. E) None of the above statements are true.
+> Which of the following statements is true?
+> A) By intersecting two triangles, one cannot obtain a triangle.
+> B) By intersecting two triangles, a quadrilateral cannot be obtained.
+> C) By intersecting two triangles, a pentagon cannot be obtained.
+> D) By intersecting two triangles, a hexagon cannot be obtained.
+> E) None of the preceding statements is true.
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q21|src_kangourou_2017_cadet_marzo__Q21]]
 
 
 
@@ -1087,21 +1232,27 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exchange moves of ten kangaroos watching each other*
+*Movements of an exchange of ten kangaroos looking at each other*
 
 ![[src_kangourou_2017_cadet_marzo__prob22.png]]
 
-> A video game starts with ten kangaroos lined up as shown in the figure: At each move, Angelo can switch places between two neighboring kangaroos, but only if these two kangaroos look each other in the face. The game goes on until Angelo can make no more swaps. How many moves will Angelo make? A) 15
-> 	
-> B) 16
-> 	
-> C) 18
-> 	
-> D) 20
-> 	
+> A video game begins with ten kangaroos arranged in a row as shown in the figure: On each move, Angelo can swap two adjacent kangaroos, but only if these two kangaroos are facing each other. The game continues until Angelo can no longer make any swaps. How many moves will Angelo make?
+> A) 15	
+>
+> B) 16	
+>
+> C) 18	
+>
+> D) 20	
+>
 > E) 21
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q22|src_kangourou_2017_cadet_marzo__Q22]]
 
 
 
@@ -1134,15 +1285,23 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum x+y with distinct angles of the triangle*
+*Minimum of x+y with distinct integer angles of the triangle*
 
-> In a triangle the three angles are pairwise different and have an integer number of degrees as a measure. Denote with x the degree measure of the smallest and with y the degree measure of the largest between the three angles. What 's the least possible value of x + y ? A) 61 B) 90
-> 	
-> C) 91
-> 	
-> D) 120 E) 121
+> In a triangle, the three angles are pairwise different and each has an integer number of degrees as its measure. Let x denote the measure in degrees of the smallest of the three angles, and let y denote the measure in degrees of the largest of the three angles. What is the minimum possible value of x + y?
+> A) 61 	 	
+> B) 90	
+>
+> C) 91	
+>
+> D) 120	 	
+> E) 121
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q23|src_kangourou_2017_cadet_marzo__Q23]]
 
 
 
@@ -1178,20 +1337,26 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum different results by adding 2 or 5 to 1..9.*
+*Minimally different results by adding 2 or 5 to 1..9*
 
-> On the board are written the nine numbers: 1, 2, 3, 4, 5, 6, 7, 8 and 9. To some of them Diana adds 2, to all the others she adds 5. What is the smallest number of different results that Diana can achieve? A) 5
-> 	
-> B) 6
-> 	
-> C) 7
-> 	
-> D) 8
-> 	
+> The nine numbers 1, 2, 3, 4, 5, 6, 7, 8, and 9 are written on the blackboard. To some of them, Diana adds 2; to all the others, she adds 5. What is the smallest number of distinct results Diana can obtain?
+> A) 5	
+>
+> B) 6	
+>
+> C) 7	
+>
+> D) 8	
+>
 > E) 9
 >
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q24|src_kangourou_2017_cadet_marzo__Q24]]
 
 
 
@@ -1228,19 +1393,24 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many buses does the car overtake on the route*
+*How many buses does the car overtake on the journey?*
 
-> Every 3 minutes a bus departs from the airport directly to the city centre. A car leaves the airport at the same instant as a bus leaves and travels to the city centre following the same route as the buses. It takes 60 minutes for each bus to get from the airport to the centre and 35 minutes for the car. On her journey to the city centre, how many buses does the car overtake, excluding the bus with which it left? A) 8
-> 	
-> B) 9
-> 	
-> C) 10
-> 	
-> D) 11
-> 	
+> Every 3 minutes, a bus departs from the airport bound for the city center. A car departs from the airport at the same moment a bus departs and heads to the city center following the same route as the buses. To get from the airport to the city center, each bus takes 60 minutes, while the car takes 35 minutes. On its journey to the city center, how many buses does the car overtake, excluding the bus it departed with?
+> A) 8	
+>
+> B) 9	
+>
+> C) 10	
+>
+> D) 11	
+>
 > E) 13
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q25|src_kangourou_2017_cadet_marzo__Q25]]
 
 
 
@@ -1278,21 +1448,27 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unused cube in the 9-tunnel cube*
+*Unused cubes in the cube with 9 tunnels*
 
 ![[src_kangourou_2017_cadet_marzo__prob26.png]]
 
-> Michele had 110 cubes. He glued some of them together to form a large cube with 9 tunnels running through the entire cube as shown in the figure. How many cubes did he not use? A) 37
-> 	
-> B) 30
-> 	
-> C) 27
-> 	
-> D) 24
-> 	
+> Michele had 110 cubes. He glued some of them together to form a large cube with 9 tunnels running through the entire cube, as shown in the figure. How many cubes did he not use?
+> A) 37	
+>
+> B) 30	
+>
+> C) 27	
+>
+> D) 24	
+>
 > E) 21
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q26|src_kangourou_2017_cadet_marzo__Q26]]
 
 
 
@@ -1328,19 +1504,25 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2017-th digit of the sequence 2,3,6,8,8,...*
+*The 2017th term of the sequence 2, 3, 6, 8, 8, ...*
 
-> Each digit in the sequence beginning with 2, 3, 6, 8, 8 is obtained as follows: the first two digits are 2 and 3 and then each digit is the units digit of the product of the two digits preceding it in the sequence. What's the 2017th digit in this sequence? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 6
-> 	
+> Each digit of the sequence that begins with 2, 3, 6, 8, 8 is obtained as follows: the first two digits are 2 and 3, and thereafter each digit is the units digit of the product of the two digits that precede it in the sequence. What is the 2017th digit in this sequence?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 6	
+>
 > E) 8
 
-**Answer:** D
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q27|src_kangourou_2017_cadet_marzo__Q27]]
 
 
 
@@ -1392,7 +1574,7 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most odd numbers in the sum pyramid*
+*Maximum number of odd numbers in the sum pyramid*
 
 ![[src_kangourou_2017_cadet_marzo__prob28.png]]
 
@@ -1408,17 +1590,23 @@ Maximum networks of Michele, the other three make 20
 \end{document}
 ```
 
-> Sara wants to write a positive integer in each box of the drawing so that each number above the bottom line is the sum of the two numbers in the boxes immediately below it. How many odd numbers can Sara write at most? A) 5
-> 	
-> B) 7
-> 	
-> C) 8
-> 	
-> D) 10
-> 	
+> Sara wants to write a positive integer in each box in the diagram so that every number above the bottom row is the sum of the two numbers in the boxes immediately below it. What is the maximum number of odd numbers Sara can write?
+> A) 5	
+>
+> B) 7	
+>
+> C) 8	
+>
+> D) 10	
+>
 > E) 11
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q28|src_kangourou_2017_cadet_marzo__Q28]]
 
 
 
@@ -1449,11 +1637,20 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Meter of the second between two encounters on the circular track*
+*Meters per second between two meetings on the circular track*
 
-> Two friends are training on a 720-meter-long circular track. They run in opposite directions, both at constant speed. The first takes four minutes to complete a lap, the second takes five. How many meters does the second run between two consecutive meetings with his friend? A) 355 B) 350 C) 340 D) 330 E) 320
+> Two friends are training on a circular track 720 meters long. They run in opposite directions, both at a constant speed. The first takes four minutes to complete one lap of the track, while the second takes five minutes. How many meters does the second runner cover between two consecutive encounters with the friend?
+> A) 355	 	
+> B) 350	 	
+> C) 340	 	
+> D) 330	 	
+> E) 320
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q29|src_kangourou_2017_cadet_marzo__Q29]]
 
 
 
@@ -1532,7 +1729,7 @@ Maximum networks of Michele, the other three make 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of area EOFM to ABCD in the parallelogram*
+*Ratio of EOFM area to ABCD in the parallelogram*
 
 ![[src_kangourou_2017_cadet_marzo__prob30.png]]
 
@@ -1568,7 +1765,18 @@ Maximum networks of Michele, the other three make 20
 \end{document}
 ```
 
-> The figure (indicative only) shows an ABCD parallelogram of area S. We have indicated with O the intersection point of the diagonals, with M a point of the DC segment, with E the intersection point between AM and BD and with F the intersection point between BM and AC. The sum of the areas of the AED and BFC triangles is S/3. What is the ratio between the area of the EOFM quadrilateral and that of ABCD? A) 1 / 6 B) 1 / 8 C) 1 / 10 D) 1 / 12 E) 1 / 14 A B C D M O E F
+> The figure (for illustrative purposes only) shows a parallelogram ABCD with area S. We have denoted by O the intersection point of the diagonals, by M a point on segment DC, by E the intersection point of AM and BD, and by F the intersection point of BM and AC. The sum of the areas of triangles AED and BFC is S/3. What is the ratio of the area of quadrilateral EOFM to the area of ABCD?
+> A) 1 / 6	 	
+> B) 1 / 8 		
+> C) 1 / 10	
+> D) 1 / 12	
+> E) 1 / 14
+> A B C D M O E F
 >
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_cadet_marzo#q30|src_kangourou_2017_cadet_marzo__Q30]]

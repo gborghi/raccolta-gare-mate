@@ -31,11 +31,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Parità della somma delle pagine del libro: mostra il totale delle pagine non può essere uguale a 1998*
+*Parità della somma delle pagine del libro: il totale delle pagine mostrato non può essere uguale a 1998*
 
-> João comprò un libro e notò che aveva 200 pagine. Suo fratello minore strappò poi fuori circa 25 foglie, sommando i numeri delle pagine di quelle 25 pagine ai numeri delle 50 pagine. Spiegate perché la somma dei numeri delle pagine di tali 25 foglie non può essere uguale al 1998.
-> 
-> Nota: ogni foglia ha due pagine. Il primo foglio ha pagine 1 e 2, il secondo ha pagine 3 e 4, e così via.
+> João ha comprato un libro e ha notato che aveva 200 pagine. Poi suo fratello minore ha strappato circa 25 fogli, sommando i numeri di pagina di quei 25 fogli ai numeri di pagina delle 50 pagine. Spiega perché la somma dei numeri di pagina di quei 25 fogli non può essere uguale a 1998.
+>
+> Nota: ogni foglio ha due pagine. Il primo foglio comprende le pagine 1 e 2, il secondo foglio le pagine 3 e 4, e così via.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n1_f2#q01|src_obm_1998_n1_f2__Q01]]
 
 
 
@@ -61,11 +68,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimuovere frazioni dalla somma in modo che la somma rimanente sia uguale a 1*
+*Rimuovi le frazioni dalla somma in modo che la somma rimanente sia uguale a 1*
 
-> Quali frazioni devono essere rimosse dalla somma $$\frac{1}{2}+\frac{1}{4}+\frac{1}{6}+\frac{1}{8}+\frac{1}{10}+\frac{1}{12}$$ in modo che la somma delle frazioni rimanenti sia uguale a $1$?
+> Quali frazioni devono essere tolte dalla somma?
+> $$\frac{1}{2}+\frac{1}{4}+\frac{1}{6}+\frac{1}{8}+\frac{1}{10}+\frac{1}{12}$$
+> cosicché la somma delle frazioni rimanenti sia uguale a $1$?
 
-**Risposta:** $\frac{1}{8}$ e $\frac{1}{10}$
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n1_f2#q02|src_obm_1998_n1_f2__Q02]]
 
 
 
@@ -89,11 +103,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova due numeri a 3 cifre con cifre 16 riducendo al minimo la loro differenza*
+*Trovare due numeri di tre cifre composti da cifre comprese tra 1 e 6, minimizzando la loro differenza*
 
-> Trova due numeri a tre cifre, ognuno utilizzando ciascuno dei numeri $1, 2, 3, 4, 5, 6$ esattamente una volta (una cifra per numero per posizione, sei cifre totali su entrambi i numeri), in modo che la loro differenza sia il più piccola possibile (il più grande meno il più piccolo). Qual è la differenza minima?
+> Trovare due numeri di tre cifre, ciascuno dei quali utilizzi ciascuna delle cifre $1, 2, 3, 4, 5, 6$ esattamente una volta (una cifra per numero e per posizione, sei cifre in totale tra i due numeri), in modo che la loro differenza (il maggiore meno il minore) sia il più piccola possibile. Qual è tale differenza minima?
 
-**Risposta:** 47
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n1_f2#q03|src_obm_1998_n1_f2__Q03]]
 
 
 
@@ -117,11 +136,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Casa attorno a un quadrato: trovare le posizioni di João e Pedro*
+*Case attorno a una piazza: trova le posizioni di João e Pedro*
 
-> Ci sono case attorno alla piazza della città. João e Pedro camminano un giro intorno alla piazza, camminando nella stessa direzione e contando le case. Cominciano a contare dalla loro casa. La 5a casa di João è la 30a casa di Pedro, e la 5a casa di Pedro è la 30a casa di João. Quante case ci sono in totale intorno alla piazza?
+> Intorno a una piazza del paese ci sono delle case. João e Pedro percorrono ciascuno un giro completo della piazza, camminando nella stessa direzione e contando le case. Iniziano a contare dalla propria casa. La quinta casa di João è la trentesima casa di Pedro, e la quinta casa di Pedro è la trentesima casa di João. Quante case ci sono in totale intorno alla piazza?
 
-**Risposta:** 35
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n1_f2#q04|src_obm_1998_n1_f2__Q04]]
 
 
 
@@ -145,11 +169,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco con 20 palle sul tavolo: quale giocatore vince?
+*Partita con 20 palle sul tavolo: quale giocatore vince?*
 
-> Ci sono 20 palle su un tavolo e due bambini si alternano a mangiarle, un bambino alla volta. In ogni turno, un bambino deve mangiare almeno una palla ma è vietato mangiare più della metà delle palle attualmente sul tavolo. In questo gioco, il bambino che è costretto a mangiare l'ultima palla perde. Determinare quale bambino vinca il primo o il secondo e descrivere una strategia vincente.
+> Sul tavolo ci sono 20 palline e due bambini se le mangiano a turno, uno alla volta. A ogni turno, un bambino deve mangiare almeno una pallina, ma non può mangiarne più della metà di quelle che si trovano attualmente sul tavolo. In questo gioco, perde il bambino che è costretto a mangiare l'ultima pallina. Determinare quale bambino vince: il primo o il secondo, e descrivi una strategia vincente.
 
-**Risposta:** Vince il primo giocatore.
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n1_f2#q05|src_obm_1998_n1_f2__Q05]]
 
 
 
@@ -177,8 +206,17 @@ Gioco con 20 palle sul tavolo: quale giocatore vince?
 <div class="qlang-split" data-lang="it"></div>
 
 
-Cubo di legno di 10 cm dipinto, tagliato in cubetti di 1 cm3: contato per le facce dipinte
+*Cubo di legno di 10 cm, verniciato, tagliato in cubetti da 1 cm³: conta in base alle facce verniciate*
 
-> Le facce di un cubo di legno che misura 10 centimetri sono dipinte in nero. Il cubo viene poi diviso in 1000 piccoli cubetti, ognuno con bordi di 1 centimetro. Determinare: a) il numero di piccoli cubetti che non hanno faccia dipinta; b) il numero di piccoli cubetti che hanno esattamente una faccia dipinta; c) il numero di piccoli cubetti che hanno esattamente due facce dipinte; d) il numero di piccoli cubetti che hanno esattamente tre facce dipinte.
+> Le facce di un cubo di legno, le cui spigoli misurano 10 centimetri, sono dipinte di nero. Il cubo viene poi suddiviso in 1000 piccoli cubi, ciascuno con spigoli lunghi 1 centimetro. Determinare:
+> a) il numero di cubetti che non hanno alcuna faccia dipinta;
+> b) il numero di cubetti che hanno esattamente una faccia dipinta;
+> c) il numero di cubetti che hanno esattamente due facce dipinte;
+> d) il numero di cubetti che hanno esattamente tre facce dipinte.
 
-**Risposta:** a) $512$; b) $384$; c) $96$; d) $8$
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n1_f2#q06|src_obm_1998_n1_f2__Q06]]

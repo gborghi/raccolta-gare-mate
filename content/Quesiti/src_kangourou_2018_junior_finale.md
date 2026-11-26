@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fair split of 8 euros in a heads-or-tails game interrupted at 5 to 3*
+*Fair split of 8 euros per person, or interrupted heads or tails at 5 to 3*
 
-> Antonia and Luca are playing heads or tails for the sum of $8$ euros, tossing a fair coin. They decide that the sum will be pocketed by the first of them to have had $6$ tosses in their favor. When they are at the score of $5$ for Antonia and $3$ for Luca, however, they are forced to interrupt the game and discuss how to split the $8$ euros (which neither has won so far). What is the fair way to split them (that is, the way that takes into account the probability of victory that each of the two has at the moment of the interruption)?
+> Antonia and Luca are tossing a fair coin to decide by heads or tails who will win the sum of $8$ euros. They agree that the money will go to the first of them to have had $6$ tosses come out in their favor. However, when the score stands at $5$ for Antonia and $3$ for Luca, they are forced to interrupt the game and discuss how to split the $8$ euros (which no one has won so far). What is a fair way to split them (that is, a way that takes into account the probability of winning each of them has at the time of the interruption)?
 
-**Answer:** 7 euros to Antonia and 1 to Luca
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_finale#q01|src_kangourou_2018_junior_finale__Q01]]
 
 
 
@@ -60,9 +65,14 @@ level: kangourou
 
 *Maximum area of a quadrilateral with sides 1, 4, 7, 8*
 
-> The sides of a quadrilateral measure $1$, $4$, $7$, $8$. What can its area be, at most?
+> The sides of a quadrilateral measure $1$, $4$, $7$, $8$. What is the maximum possible area of the quadrilateral?
 
-**Answer:** 18
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_junior_finale#q02|src_kangourou_2018_junior_finale__Q02]]
 
 
 
@@ -86,11 +96,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Discarded cards if P(four aces) = 1/1001*
+*Cards discarded if P(four aces) = 1/1001*
 
-> From a standard deck of $52$ cards, Chiara discarded some cards, making sure that all four aces remained in the remaining deck. Now she draws four cards at random from this reduced deck. If the probability of drawing exactly the four aces is $1/1001$, how many cards did she throw away?
+> From a standard deck of $52$ cards, Chiara discarded some cards, making sure that all four aces remained in the remaining deck. She now draws four cards at random from this reduced deck. If the probability of drawing exactly the four aces is $1/1001$, how many cards did she throw away?
 
-**Answer:** 38
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_finale#q03|src_kangourou_2018_junior_finale__Q03]]
 
 
 
@@ -119,9 +134,13 @@ level: kangourou
 
 ![[src_kangourou_2018_junior_finale__prob4.png]]
 
-> In the figure you see a regular pentagon in which four diagonals have been drawn that identify two shaded regions $A$ and $B$. Express the area of $B$ as a function of the area of $A$.
+> In the figure, you see a regular pentagon from which four diagonals have been drawn, dividing the pentagon into two shaded regions, $A$ and $B$. Express the area of $B$ in terms of the area of $A$.
 
-**Answer:** the area of B is twice that of A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_junior_finale#q04|src_kangourou_2018_junior_finale__Q04]]
 
 
 
@@ -145,11 +164,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Show that the solution of x^5+x=10 is irrational
+*Prove that the solution to x^5 + x = 10 is irrational*
 
-> Consider as already proven that the $x^5 + x = 10$ equation admits only one solution (real positive). Show that such a solution is not a rational number (i.e. it cannot be expressed as a quotient of two integers).
+> Consider the fact that the equation $x^5 + x = 10$ has a unique positive real solution to be already proved. Prove that this solution is not a rational number (that is, it cannot be expressed as the quotient of two integers).
 
-**Answer:** irrational (proof)
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_junior_finale#q05|src_kangourou_2018_junior_finale__Q05]]
 
 
 
@@ -172,6 +196,13 @@ Show that the solution of x^5+x=10 is irrational
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Prove that there exists a circle with exactly n lattice nodes*
+*Prove that there exists a circle with exactly n lattice points*
 
-> Imagine the plane as a sheet of graph paper (all squares of the same side) unlimited in every direction and call *node* every vertex of every square. Prove that for every $n$ there exists a circle containing inside it exactly $n$ nodes.
+> Imagine the plane as an unbounded grid of squares (all of the same side length) extending in every direction, and call each vertex of each square a *node*. Prove that for every $n$ there exists a circle containing exactly $n$ nodes inside it.
+
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_junior_finale#q06|src_kangourou_2018_junior_finale__Q06]]

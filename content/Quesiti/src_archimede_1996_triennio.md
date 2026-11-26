@@ -37,17 +37,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of product units of 5 consecutive integers*
+*Units digit of the product of 5 consecutive integers*
 
-> Given five consecutive integers, what can be said about the number of units of their product?
+> Given five consecutive integers, what can be said about the units digit of their product?
 >
-> - **(A)** It can be any number.
-> - **(B)** It can be any number equal to
-> - **(C)** It can be 0 or 5
-> - **(D)** It 's always 0 .
-> - **(E)** None of the previous ones.
+> - **(A)** it can be any digit
+> - **(B)** it can be any even digit
+> - **(C)** it can be 0 or 5
+> - **(D)** it is always 0
+> - **(E)** none of the above.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_1996_triennio#q01|src_archimede_1996_triennio__Q01]]
 
 
 
@@ -80,17 +84,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Where the dog reaches the hare given the hawks*
+*Where the dog catches the hare, given the strides*
 
-> A dog standing at point A is chasing a hare that is, at the beginning, 30 m ahead of A. The dog gallops with a 2-meter hawk, while the hare runs away completing 1-meter hawk. For every two hacks of a dog, the hare makes three. Where will the dog reach the hare?
+> A dog at a point A is chasing a hare that starts 30 m ahead of A. The dog gallops in strides of 2 m, while the hare runs in strides of 1 m. For every 2 strides of the dog, the hare takes 3. Where does the dog catch the hare?
 >
-> - **(A)** 30 m from point A
-> - **(B)** 60 m from point A
-> - **(C)** 120 m from point A
-> - **(D)** at 600 m from point A
-> - **(E)** The dog will never reach the hare.
+> - **(A)** 30 m from A
+> - **(B)** 60 m from A
+> - **(C)** 120 m from A
+> - **(D)** 600 m from A
+> - **(E)** the dog never catches the hare.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1996_triennio#q02|src_archimede_1996_triennio__Q02]]
 
 
 
@@ -124,19 +131,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Common area of two squares with vertex in the centre*
+*Area common to two squares, one with a vertex at the other's centre*
 
-![[src_archimede_1996_triennio__prob3.png]]
-
-> Two squares of 10 cm side are given, one of which has a vertex in the centre of the other. The area of the two-square-measured common part
+> Two squares of side 10 cm are given, one of which has a vertex at the centre of the other. The area of the part common to the two squares is
 >
-> - **(A)** 20 cm2
-> - **(B)** 25 cm2
-> - **(C)** 40 cm2
-> - **(D)** 50 cm2
-> - **(E)** Depends on the location.
+> - **(A)** 20 cm²
+> - **(B)** 25 cm²
+> - **(C)** 40 cm²
+> - **(D)** 50 cm²
+> - **(E)** it depends on the position.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1996_triennio#q03|src_archimede_1996_triennio__Q03]]
 
 
 
@@ -167,17 +176,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage change in share price*
+*Percentage change in a share price*
 
-> On Monday I bought shares that on Tuesday lost 10% of their value and on Wednesday they gained 10% compared to Tuesday. I immediately sold my shares. Compared to the initial price, the final price is
+> On Monday I bought some shares. On Tuesday they lost 10% of their value, and on Wednesday they gained 10% relative to Tuesday. I sold my shares at once. Compared with the initial price, the final price is
 >
-> - **(A)** The same thing.
+> - **(A)** the same
 > - **(B)** decreased by 1%
-> - **(C)** increased by1%
+> - **(C)** increased by 1%
 > - **(D)** decreased by 10%
-> - **(E)** This is a decrease of 10%.
+> - **(E)** increased by 10%.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1996_triennio#q04|src_archimede_1996_triennio__Q04]]
 
 
 
@@ -210,11 +222,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total length of bars of an obelisk*
+*Total length of the bars of a porthole*
 
-![[src_archimede_1996_triennio__prob5.png]]
-
-> A circular oblong 20 cm in radius is grilled with bars so that the four squares in the center are 10 cm lateral. The overall length of the bars is
+> A circular porthole of radius 20 cm is grilled with bars so that the four central squares have side 10 cm. The total length of the bars is
 >
 > - **(A)** 80 √ 3 cm
 > - **(B)** 80( √ 2 + 1) cm
@@ -222,7 +232,10 @@ level: triennio
 > - **(D)** 80( √ 3 + 1) cm
 > - **(E)** 210 cm. b
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1996_triennio#q05|src_archimede_1996_triennio__Q05]]
 
 
 
@@ -253,7 +266,7 @@ level: triennio
 
 *Square of the square of the square of 8*
 
-> How much is the square of the square of the square of 8?
+> What is the square of the square of the square of 8?
 >
 > - **(A)** 28
 > - **(B)** 84
@@ -261,7 +274,10 @@ level: triennio
 > - **(D)** 88
 > - **(E)** 264.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1996_triennio#q06|src_archimede_1996_triennio__Q06]]
 
 
 
@@ -290,9 +306,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the reciprocities of the roots of a square*
+*Sum of the reciprocals of the roots of a quadratic*
 
-> The sum of the reciprocities of the roots of ax2 + bx + c = 0 (where a, b, c = 0) is
+> The sum of the reciprocals of the roots of ax2 + bx + c = 0 (where a, b, c ̸= 0) is
 >
 > - **(A)** 1 a + 1 b
 > - **(B)** b c
@@ -300,7 +316,10 @@ level: triennio
 > - **(D)** −a b
 > - **(E)** −b c.
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1996_triennio#q07|src_archimede_1996_triennio__Q07]]
 
 
 
@@ -332,17 +351,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which volume cannot be obtained with containers of 15 and 21*
+*Which volume cannot be obtained with vessels of 15 and 21 litres*
 
-> Next to a spring there is a tank with a capacity of more than 30 hectolitres, initially empty. Only two calibrated containers are available, one 15 litre and one 21 litre, with which water can be added and removed from the tank. Which of the following volumes of water can I not put exactly in the tank?
+> Next to a spring there is a cistern of capacity greater than 30 hectolitres, initially empty. Only two calibrated vessels are available, one of 15 litres and one of 21 litres, with which water can be added to or removed from the cistern. Which of the following volumes of water can I not put into the cistern exactly?
 >
 > - **(A)** 3 litres
 > - **(B)** 5 litres
 > - **(C)** 6 litres
 > - **(D)** 645 litres
-> - **(E)** I can get all the precedents.
+> - **(E)** I can obtain all of the previous ones
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1996_triennio#q08|src_archimede_1996_triennio__Q08]]
 
 
 
@@ -373,17 +396,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Birthday in a year with 53 Saturdays and Sundays*
+*Weekday of birth in a year with 53 Saturdays and Sundays*
 
-> Antonio was born in March of a year that had 53 Saturdays and 53 Sundays. What day of the week was he born?
+> Antonio was born on 1 March of a year that had 53 Saturdays and 53 Sundays. On which day of the week was he born?
 >
 > - **(A)** Monday
 > - **(B)** Wednesday
 > - **(C)** Friday
-> - **(D)** On a different day from the previous ones
-> - **(E)** It is not possible to determine with certainty.
+> - **(D)** on a day other than the previous ones
+> - **(E)** it cannot be determined with certainty.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_1996_triennio#q09|src_archimede_1996_triennio__Q09]]
 
 
 
@@ -415,9 +442,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of one extract being smaller than the other*
+*Probability that one drawn number is smaller than the other*
 
-> What is the probability that the first number extracted from the Florence wheel is less than the first number extracted from the Naples wheel? (Remember that the lot draws the numbers from 1 to 90).
+> What is the probability that the first number drawn on the Florence wheel is
+> smaller than the first number drawn on the Naples wheel? (Recall that in the lottery
+> the numbers are drawn from 1 to 90).
 >
 > - **(A)** 44 90
 > - **(B)** 88 179
@@ -425,7 +454,11 @@ level: triennio
 > - **(D)** 89 180
 > - **(E)** 1 2.
 
-**Answer:** D
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1996_triennio#q10|src_archimede_1996_triennio__Q10]]
 
 
 
@@ -455,9 +488,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of a sum of squares*
+*Units digit of a sum of squares*
 
-> What 's the unit number of 12 + 22 + 32 + . . . + 19962?
+> What is the units digit of 12 + 22 + 32 + . . . + 19962?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -465,7 +498,11 @@ level: triennio
 > - **(D)** 6
 > - **(E)** 8.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_1996_triennio#q11|src_archimede_1996_triennio__Q11]]
 
 
 
@@ -496,9 +533,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of a domain defined by circle dissections*
+*Area of a region defined by circle inequalities*
 
-> Either D the Cartesian plane dominance determined by the system of side-squares. What's the area of D?
+> Let D be the region of the Cartesian plane determined by the system of inequalities alongside. What is the area of D?
 >
 > - **(A)** √ 2π
 > - **(B)** π 2
@@ -506,7 +543,11 @@ level: triennio
 > - **(D)** √ 2
 > - **(E)** 4 −π.      x2 + y2 ≤1 (x −1)2 + (y −1)2 ≥1 (x + 1)2 + (y + 1)2 ≥1
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_analitica|Analytic geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1996_triennio#q12|src_archimede_1996_triennio__Q12]]
 
 
 
@@ -540,17 +581,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Owner of a closed set of integers*
+*A property of a set of integers with a closure rule*
 
-> Let X be a set of positive integers. It is known that X contains at least one element greater than 1 and that, whenever it contains a certain number n, it also contains all the numbers greater than n except, possibly, the multiples of n. Which of the following claims is certainly correct?
+> Let X be a set of positive integers. It is known that X contains at least one element greater than 1 and that, whenever it contains a number n, it also contains every number greater than n, except possibly the multiples of n. Which of the following statements is certainly correct?
 >
-> - **(A)** X is a finite set.
-> - **(B)** The set X and the set of positive integers that do not belong to X are both infinite
-> - **(C)** X contains all prime numbers.
-> - **(D)** There is a number m such that X contains all integers greater than m.
-> - **(E)** X is equal to the sum of all positive integers.
+> - **(A)** X is a finite set
+> - **(B)** the set X and the set of positive integers that do not belong to X are both infinite
+> - **(C)** X contains every prime
+> - **(D)** there exists a number m such that X contains every integer greater than m
+> - **(E)** X is equal to the set of all positive integers.
 
-**Answer:** D
+
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_induzione|Induction]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_1996_triennio#q13|src_archimede_1996_triennio__Q13]]
 
 
 
@@ -582,17 +627,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of a cylinder from the lateral development*
+*Volume of a cylinder from its lateral net*
 
-> If the lateral surface of a straight cylinder is developed, a rectangle is obtained whose diagonals are l long and form an angle of 30° with the base of the rectangle. The cylinder volume is
+> If the lateral surface of a right cylinder is unrolled, one obtains a rectangle whose diagonals have length l and form an angle of 30° with the base of the rectangle. The volume of the cylinder is
 >
 > - **(A)** 1 16 l3 π
 > - **(B)** 3 8l3
 > - **(C)** 3 4l3
 > - **(D)** 3 32 l3 π
-> - **(E)** The previous answers are all wrong.
+> - **(E)** all of the previous answers are wrong.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_trigonometria|Trigonometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1996_triennio#q15|src_archimede_1996_triennio__Q15]]
 
 
 
@@ -625,9 +674,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of guessing a number with false digits*
+*Probability of guessing a number with misplaced digits*
 
-> A friend of mine wrote a secret four-digit number using the numbers 1, 2, 3 and 4 only once. Knowing that no number occupies the place that corresponds to its value (i.e. the first number is not 1, the second number is not 2, and so on), what are the odds of guessing the number on the first attempt?
+> A friend of mine wrote a secret four-digit number using each of the digits 1, 2, 3 and 4 exactly once. Knowing that no digit occupies the position corresponding to its own value (that is, the first digit is not 1, the second is not 2, and so on), what is the probability that I guess the number on the first try?
 >
 > - **(A)** 1 24
 > - **(B)** 1 9
@@ -635,7 +684,11 @@ level: triennio
 > - **(D)** 1 81
 > - **(E)** 1 6.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1996_triennio#q16|src_archimede_1996_triennio__Q16]]
 
 
 
@@ -666,9 +719,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers in a table n for n*
+*Sum of the numbers in an n by n table*
 
-> What is the sum of the numbers in the table next to it?
+> What is the sum of the numbers contained
+> in the table alongside?
 >
 > - **(A)** n(n + 1) 2 2
 > - **(B)** n + n(n + 1)2 2
@@ -676,7 +730,11 @@ level: triennio
 > - **(D)** n(2n−1)(n+1)
 > - **(E)** n3. 1 2 3 · · n 2 3 4 · · n + 1 3 4 5 · · n + 2 · · · · · · · · n n + 1 n + 2 · · 2n −1
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1996_triennio#q18|src_archimede_1996_triennio__Q18]]
 
 
 
@@ -705,9 +763,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits has the number (123456789) at six*
+*How many digits does the number (123456789) to the sixth power have?*
 
-> How many digits does the number (123456789)6 have ?
+> How many digits does the number (123456789)6 have?
 >
 > - **(A)** 16
 > - **(B)** 48
@@ -715,7 +773,10 @@ level: triennio
 > - **(D)** 50
 > - **(E)** 54.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_1996_triennio#q20|src_archimede_1996_triennio__Q20]]
 
 
 
@@ -747,9 +808,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of rounds for a knockout golf tournament*
+*How many rounds for a knockout golf tournament*
 
-> A golf tournament involves 256 players. The tournament provides for 4 competitors in each round: the winner moves on to the next round while the other 3 competitors are eliminated. How many rounds are needed to determine the overall winner of the tournament?
+> 256 competitors take part in a golf tournament. The tournament provides that in each round 4 competitors take part: the winner advances to the next round while the other 3 competitors are eliminated. How many rounds are needed to determine the absolute winner of the tournament?
 >
 > - **(A)** 16
 > - **(B)** 64
@@ -757,7 +818,10 @@ level: triennio
 > - **(D)** 85
 > - **(E)** 128.
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1996_triennio#q22|src_archimede_1996_triennio__Q22]]
 
 
 
@@ -788,17 +852,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is the sum of fractions and finite*
+*Which set of fractions is finite*
 
-> Consider fractions with positive numerator and denominator. Which of the following sets is finished?
+> Consider fractions with positive numerator and denominator. Which of the following sets is finite?
 >
-> - **(A)** the sum of fractions less than 100 with numerator less than 100
-> - **(B)** the sum of fractions greater than 100 with denominator greater than 100
-> - **(C)** the sum of fractions less than 100 with denominator less than 100
-> - **(D)** the sum of fractions less than 100 with a numerator greater than 100
-> - **(E)** the sum of fractions greater than 100 with denominator less than 100.
+> - **(A)** the set of fractions less than 100 with numerator less than 100
+> - **(B)** the set of fractions greater than 100 with denominator greater than 100
+> - **(C)** the set of fractions less than 100 with denominator less than 100
+> - **(D)** the set of fractions less than 100 with numerator greater than 100
+> - **(E)** the set of fractions greater than 100 with denominator less than 100.
 
-**Answer:** C
+
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_1996_triennio#q23|src_archimede_1996_triennio__Q23]]
 
 
 
@@ -829,9 +896,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers with five digits 1 and one digit 2*
+*How many numbers with five digits 1 and one digit 2*
 
-> I have five digits equal to 1 and one digit equal to 2. Using all or some of these numbers, how many different numbers can I construct?
+> I have five digits equal to 1 and one digit equal to 2 available. Using all or some of these digits, how many different numbers can I construct?
 >
 > - **(A)** 15
 > - **(B)** 21
@@ -839,7 +906,11 @@ level: triennio
 > - **(D)** 26
 > - **(E)** 27.
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1996_triennio#q24|src_archimede_1996_triennio__Q24]]
 
 
 
@@ -888,21 +959,9 @@ level: triennio
 
 *Percentage of cardboard wasted by cutting circles*
 
-![[src_archimede_1996_triennio__prob25.png]]
-
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.4]
-  \draw (-10,0) -- (10,0);
-  \draw (10,0) arc (0:180:10);
-  \draw (0,5) circle (5);
-  \draw (7.071,2.5) circle (2.5);
-  \draw (-7.071,2.5) circle (2.5);
-\end{tikzpicture}
-\end{document}
-```
-
-> From a half-circle of cardboard of a radius of 10 cm a circle of maximum diameter shall be cut. Two circles of maximum diameter shall be cut from the two remaining trunks. What's the percentage of cardboard wasted?
+> From a cardboard semicircle of radius 10 cm, a circle of maximum diameter is cut out.
+> From the two remaining pieces, two circles of maximum diameter are cut out.
+> What is the percentage of cardboard wasted?
 >
 > - **(A)** 10%
 > - **(B)** 20%
@@ -910,4 +969,7 @@ level: triennio
 > - **(D)** 30%
 > - **(E)** 50%.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1996_triennio#q25|src_archimede_1996_triennio__Q25]]

@@ -28,9 +28,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo bisettore tangente a circolo, prova angolo A=90*
+*Tangente alla circonferenza circoscritta che è bisettrice dell'angolo: dimostrare che l'angolo A è uguale a 90°*
 
-> Che $ABC$ sia un triangolo e $D$ il punto medio di $BC$. Supponiamo che il bisettore angolare di $\angle ADC$ sia tangente al circoncircolo del triangolo $ABD$ a $D$. Prove che $\angle A = 90^\circ$.
+> Sia $ABC$ un triangolo e $D$ il punto medio di $BC$. Si supponga che la bisettrice dell'angolo di $\angle ADC$ sia tangente alla circonferenza circoscritta al triangolo $ABD$ in $D$. Dimostrare che $\angle A = 90^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2016_r3#q01|src_rmo_2016_r3__Q01]]
 
 
 
@@ -54,9 +60,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimostra la disuguaglianza con tre differenti valori positivi abc*
+*Dimostra la disuguaglianza con tre numeri reali positivi distinti a, b, c*
 
-> $a, b, c$ siano tre numeri reali positivi distinti, come $abc = 1$. Provare che $$\frac{a^3}{(a-b)(a-c)} + \frac{b^3}{(b-c)(b-a)} + \frac{c^3}{(c-a)(c-b)} \ge 3.$$
+> Siano $a, b, c$ tre numeri reali positivi distinti tali che $abc = 1$. Dimostrare che
+> $$\frac{a^3}{(a-b)(a-c)} + \frac{b^3}{(b-c)(b-a)} + \frac{c^3}{(c-a)(c-b)} \ge 3.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2016_r3#q02|src_rmo_2016_r3__Q02]]
 
 
 
@@ -81,9 +95,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I numeri interi positivi soddisfano le condizioni del rapporto, dimostrano d >= b + f*
+*I numeri interi positivi soddisfano le condizioni di rapporto; dimostrare che d >= b + f*
 
-> $a, b, c, d, e, f$ siano integri positivi in modo tale che $$\frac{a}{b} < \frac{c}{d} < \frac{e}{f}.$$ Supponiamo $af - be = -1$. Mostra che $d \ge b + f$.
+> Siano $a, b, c, d, e, f$ numeri interi positivi tali che
+> $$\frac{a}{b} < \frac{c}{d} < \frac{e}{f}.$$
+> Supponiamo $af - be = -1$. Dimostrare che $d \ge b + f$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2016_r3#q03|src_rmo_2016_r3__Q03]]
 
 
 
@@ -106,9 +129,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*100 paesi, lingue minime in modo che ogni 20 condividano una*
+*100 paesi, un minimo di lingue così ogni 20 ne condividono una*
 
-> Ci sono 100 paesi che partecipano ad una Olimpiada. Supponiamo che $n$ sia un numero intero positivo tale che ciascuno dei 100 paesi sia disposto a comunicare in esattamente $n$ lingue. Se un insieme di 20 paesi può comunicare in almeno una lingua comune e nessuna lingua è comune a tutti i 100 paesi, qual è il valore minimo possibile di $n$?
+> All'olimpiade partecipano 100 paesi. Sia $n$ un numero intero positivo tale che ciascuno dei 100 paesi sia disposto a comunicare in esattamente $n$ lingue. Se qualsiasi insieme di 20 paesi può comunicare in almeno una lingua comune, e nessuna lingua è comune a tutti i 100 paesi, qual è il valore minimo possibile di $n$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2016_r3#q04|src_rmo_2016_r3__Q04]]
 
 
 
@@ -131,9 +161,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo rettangolare, struttura incentrata, prova BA=BC*
+*Triangolo rettangolo, costruzione del centroide, dimostrare che BA=BC*
 
-> $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. Il $I$ deve essere il centro di $ABC$. Estendere $AI$ e $CI$; lasciare che si incrociano rispettivamente $BC$ in $D$ e $AB$ in $E$. Tracciare una linea perpendicolare a $AI$ a $I$ per raggiungere $AC$ in $J$; tracciare una linea perpendicolare a $CI$ a $I$ per raggiungere $AC$ in $K$. Supponiamo $DJ = EK$. Provare che $BA = BC$.
+> Sia $ABC$ un triangolo rettangolo con $\angle B = 90^\circ$. Sia $I$ l'incentro di $ABC$. Si prolunghino $AI$ e $CI$; siano essi incidenti a $BC$ in $D$ e a $AB$ in $E$ rispettivamente. Si tracci una retta perpendicolare a $AI$ in $I$, che incontri $AC$ in $J$; si tracci una retta perpendicolare a $CI$ in $I$, che incontri $AC$ in $K$. Si supponga $DJ = EK$. Si dimostri che $BA = BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2016_r3#q05|src_rmo_2016_r3__Q05]]
 
 
 
@@ -157,6 +194,14 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'esistenza e la non esistenza di progressione armonica in aumento stretto*
+*Esistenza e non esistenza di una progressione armonica strettamente crescente*
 
-> (a) Dato qualsiasi numero naturale $N$, dimostrare che esiste una sequenza rigorosamente crescente di integri positivi $N$ in progressione armonica. b) dimostrare che non può esistere una sequenza infinita di numeri interi positivi in progressione armonica.
+> (a) Dato un qualsiasi numero naturale $N$, dimostrare che esiste una successione strettamente crescente di $N$ numeri interi positivi in progressione armonica.
+> (b) Dimostrare che non può esistere una successione infinita, strettamente crescente, di numeri interi positivi che sia in progressione armonica.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2016_r3#q06|src_rmo_2016_r3__Q06]]

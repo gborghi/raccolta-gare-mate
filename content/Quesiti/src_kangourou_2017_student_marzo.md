@@ -35,13 +35,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the fraction 20x17 over the sum of its digits*
+*Value of the fraction 20x17 over the sum of the digits*
 
-> = A) 3,4 B) 17
-> 	
-> C)  34 D) 201,7 E) 340
+> =
+> A) 3,4	 	
+> B) 17	
+>
+> C)  34	 	
+> D) 201,7	
+> E) 340
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q01|src_kangourou_2017_student_marzo__Q01]]
 
 
 
@@ -73,9 +81,18 @@ level: kangourou
 
 *87*
 
-> Luke likes to play with miniature trains, and he uses those on the H0 scale, that is, with a ratio of 1:87. Respecting the same scale, he built a model, two centimeters tall, representing his brother. What is his brother's real height? A) 1,74 m B) 1,62 m C) 1,86 m D) 1,94 m E) 1,70 m
+> Luca likes playing with miniature trains and uses H0-scale trains, meaning a 1:87 scale. Keeping the same scale, he built a 2-cm-tall model representing his brother. What is his brother's actual height?
+> A) 1,74 m	
+> B) 1,62 m	
+> C) 1,86 m	
+> D) 1,94 m	
+> E) 1,70 m
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q02|src_kangourou_2017_student_marzo__Q02]]
 
 
 
@@ -113,21 +130,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum bridges to be removed to separate A and B*
+*Minimum number of bridges to remove to separate A and B*
 
 ![[src_kangourou_2017_student_marzo__prob3.png]]
 
-> The figure shows 10 islands connected by 15 bridges. If we want to make it impossible to walk from A to B, what is the minimum number of bridges that we can eliminate? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> In the figure, 10 islands are connected by 15 bridges. If we want to make it impossible to walk from A to B, what is the minimum number of bridges that need to be removed?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q03|src_kangourou_2017_student_marzo__Q03]]
 
 
 
@@ -156,11 +179,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relation between a and b given percentages*
+*Relationship between a and b given the percentages*
 
-> The two positive numbers a and b are such that 75% of a is equal to 40% of b. This is equivalent to saying that A) 15a = 8b B) 7a = 8b C) 3a = 2b D) 5a = 12b E) 8a = 15b
+> The two positive numbers a and b are such that 75% of a equals 40% of b. This is equivalent to saying that
+> A) 15a = 8b	
+> B) 7a = 8b	
+> C) 3a = 2b	
+> D) 5a = 12b	
+> E) 8a = 15b
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q04|src_kangourou_2017_student_marzo__Q04]]
 
 
 
@@ -195,21 +227,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fragment of graph outside the parabola*
+*Fragment of a graph unrelated to the parabola*
 
 ![[src_kangourou_2017_student_marzo__prob5.png]]
 
-> Of the following five graph fragments, four come from the graph of the same parabola. Which one does not belong to that graph? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> Of the following five graph fragments, four come from the graph of the same parabola. Which one does not belong to that graph?
+> A)	
+>
+> B) 	
+>
+> C) 	
+>
+> D) 	
+>
 > E)
 
-**Answer:** C
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q05|src_kangourou_2017_student_marzo__Q05]]
 
 
 
@@ -264,16 +301,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded area fraction with OB=BC*
+*Fraction: shaded region with OB=BC*
 
 ![[src_kangourou_2017_student_marzo__prob6.png]]
 
-> In the circle with center O that you see in the figure, the two diameters AB and CX are arranged so that OB = BC. What fraction of the area of the circle corresponds to the shaded part? A) 2/5 B) 1/3
-> 	
-> C) 2/7 D) 3/8 E) 4/11 20 × 17 --------------------- 2 + 0 + 1 + 7 A B -4 -3 x y -2 -1 -1 -2 y x 1 2 3 4 x
+> In the circle centered at O that you see in the figure, the two diameters AB and CX are arranged so that OB = BC. What fraction of the area of the circle does the shaded part correspond to?
+> A) 2/5	 	
+> B) 1/3	
+>
+> C) 2/7	 	
+> D) 3/8	 	
+> E) 4/11
+> 20 × 17 --------------------- 2 + 0 + 1 + 7 A B -4 -3 x y -2 -1 -1 -2 y x 1 2 3 4 x
 >
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q06|src_kangourou_2017_student_marzo__Q06]]
 
 
 
@@ -307,21 +353,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solid that can be built with 4 black-and-white sticks*
+*Solid constructible with 4 black-and-white rods*
 
 ![[src_kangourou_2017_student_marzo__prob7.png]]
 
-> Each stick is made of 2 white small cubes and 2 black ones, glued
-> together so as to obtain a parallelepiped of dimensions
-> 4 × 1 × 1 with two white small cubes at one end and two black at the other, as in the figure. Which of the following solids can be built with 4 sticks?
+> Each bar consists of 2 white cubes and 2 black cubes glued together to form a parallelepiped measuring 4 × 1 × 1, with two white cubes at one end and two black cubes at the other, as shown in the figure. Which of the following solids can be constructed using 4 bars?
 > A)                 	
 >        B) 	   	
 >              C) 	
-> 	
+>
 >     D) 	
 > E)
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q07|src_kangourou_2017_student_marzo__Q07]]
 
 
 
@@ -350,11 +398,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quadrant without points of the graph of f*
+*Quadrant devoid of points of the graph of b*
 
-> Is there a quadrant that doesn't contain points on the graph of the function f defined by f (x) = -3,5 x + 7 ? A) Yes, the first. B) Yes, the second. C) Yes, the third. D) Yes, the fourth. E) No.
+> Is there a quadrant that contains no points of the graph of the function f defined by f(x) = -3.5x + 7?
+> A) Yes, the I.
+> B) Yes, the II.
+> C) Yes, the III.
+> D) Yes, the IV.
+> E) No.
 
-**Answer:** C
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q08|src_kangourou_2017_student_marzo__Q08]]
 
 
 
@@ -387,13 +444,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Box with maximum probability of blue ball
+*Box with the highest probability of a blue ball*
 
 ![[src_kangourou_2017_student_marzo__prob9.png]]
 
-> Each of the boxes in the figure contains red balls and blue balls, in the number indicated on the side. Carlo must take a ball from one of the boxes without looking. From which box should he draw the ball to have the greatest probability of getting a blue ball? A) B) C) D) E)
+> Each of the boxes in the figure contains red balls and blue balls in the number specified on the side. Carlo must take a ball from one of the boxes without looking. From which box must he draw the ball to have the highest probability of getting a blue ball?
+> A) 	
+>              B) 	
+>             C) 	
+>            D) 	
+>           E)
 
-**Answer:** B
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q09|src_kangourou_2017_student_marzo__Q09]]
 
 
 
@@ -426,17 +492,24 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Function with more common points to f(x)=x*
+*Function with more points in common with f(x)=x*
 
-> Which of the following functions has the graph with the greatest number of points in common with the graph of the function f (x) = x? A) g1(x) = x2
-> 	
-> B) g2 (x) = x3
-> 	
-> C) g3 (x) = x4 D) g4 (x) = - x4
-> 	
-> E) g5 (x) = - x The questions from N. 11 to N. 20 are worth 4 points each.
+> Which of the following functions has the graph with the greatest number of points in common with the graph of the function f(x) = x?
+> A) g1(x) = x2	
+>
+> B) g2 (x) = x3 	
+>
+> C) g3 (x) = x4	
+> D) g4 (x) = - x4	
+>
+> E) g5 (x) = - x
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** B
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q10|src_kangourou_2017_student_marzo__Q10]]
 
 
 
@@ -508,13 +581,20 @@ Box with maximum probability of blue ball
 \end{document}
 ```
 
-> Three circles of centers A, B, C and radii 3, 2 and 1, respectively, are pairwise tangent. What is the area of the triangle ABC ? A) 6
-> 	
-> B) 4√3 C) 3√2 D) 9
-> 	
+> Three circles with centers A, B, and C and radii 3, 2, and 1 respectively are pairwise tangent. What is the area of triangle ABC?
+> A) 6	
+>
+> B) 4√3	 	
+> C) 3√2	
+> D) 9	
+>
 > E) 2√6
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q11|src_kangourou_2017_student_marzo__Q11]]
 
 
 
@@ -554,27 +634,24 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The largest among p, q and given expressions*
+*The maximum among p, q, and the given expressions*
 
-> It is known that the number p is positive and less than 1 and that the number q is greater than 1. 
-> Which is the largest among the following numbers?
+> It is known that the number p is positive and less than 1, and that the number q is greater than 1. Which of the following numbers is the largest?
 > A) p ∙ q	 	
 > B) p + q		
 > C) p / q	 	
 > D) p	
-> 	
+>
 > E) q
-> 10 blue, 8 red
-> 6 blue, 4 red
-> 8 blue, 6 red
-> 7 blue, 7 red
-> 12 blue, 9 red
-> A
-> B
-> C
+> 10 blue, 8 red 6 blue, 4 red 8 blue, 6 red 7 blue, 7 red 12 blue, 9 red A B C
 >
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q12|src_kangourou_2017_student_marzo__Q12]]
 
 
 
@@ -604,11 +681,20 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage height between cylinders of the same volume*
+*Height percentage between cylinders of the same volume*
 
-> The two cylinders A and B with a circular base have the same volume. If the radius of the base of B is greater than 10% of that of the base of A, by what percentage is the height of A greater than that of B? A) 5% B) 10% C) 11% D) 20% E) 21%
+> The two right circular cylinders A and B have the same volume. If the radius of the base of B is 10% greater than the radius of the base of A, by what percentage is the height of A greater than the height of B?
+> A) 5%	 	
+> B) 10%	 	
+> C) 11%	 	
+> D) 20%	 	
+> E) 21%
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q13|src_kangourou_2017_student_marzo__Q13]]
 
 
 
@@ -650,17 +736,22 @@ Box with maximum probability of blue ball
 
 ![[src_kangourou_2017_student_marzo__prob14.png]]
 
-> The faces of the polyhedron shown in the figure are all either square or triangular, arranged so that there are no edges common to two squares or to two triangles. If exactly six faces are squares, how many triangles are there? A) 5
-> 	
-> B) 6
-> 	
-> C) 7
-> 	
-> D) 8
-> 	
+> The faces of the polyhedron shown in the figure are all either squares or triangles, arranged so that there are no edges shared by two squares and no edges shared by two triangles. If exactly six of the faces are squares, how many triangles are there?
+> A) 5	
+>
+> B) 6	
+>
+> C) 7	
+>
+> D) 8	
+>
 > E) 9
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q14|src_kangourou_2017_student_marzo__Q14]]
 
 
 
@@ -692,11 +783,21 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of composing 2017 with four tetrahedra*
+*Probability of forming 2017 with four tetrahedra*
 
-> We have four equal dice in the shape of a regular tetrahedron, perfectly balanced, that is, equal, having the numbers 0, 1, 2, 7 on their four faces. If we throw all four dice on a flat surface, what is the probability that we can compose the 2017 number using exactly one of the three faces visible for each die? A) 1/256 B) 63/64 C) 81/256 D) 3/32 E) 29/32
+> We have four identical regular tetrahedral dice, perfectly balanced—that is, fair—with the numbers 0, 1, 2, and 7 on their four faces. If we roll all four dice onto a flat surface, what is the probability that we can form the number 2017 using exactly one of the three visible faces on each die?
+> A) 1/256	
+> B) 63/64	
+> C) 81/256	
+> D) 3/32	 	
+> E) 29/32
 
-**Answer:** B
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q15|src_kangourou_2017_student_marzo__Q15]]
 
 
 
@@ -730,19 +831,25 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number that cannot be the root of the polynomial*
+*A number that cannot be a root of the polynomial*
 
-> In the polynomial 5x3 + ax2 + bx + 24 the coefficients a and b are integers. Which of the following numbers cannot be a root of the polynomial? A) 1
-> 	
-> B) -1
-> 	
-> C) 3
-> 	
-> D) 5
-> 	
+> In the polynomial 5x³ + ax² + bx + 24, the coefficients a and b are integers. Which of the following numbers cannot be a root of the polynomial?
+> A) 1	
+>
+> B) -1	
+>
+> C) 3	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q16|src_kangourou_2017_student_marzo__Q16]]
 
 
 
@@ -780,15 +887,24 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Advanced discs in the chessboard square*
+*Advanced discs in the checkerboard square*
 
 ![[src_kangourou_2017_student_marzo__prob17.png]]
 
-> Giulia has 2017 discs all the same size, 1009 black and the remaining white. She arranges them according to the square pattern shown in the figure, starting with a black disc in the upper left corner and alternating colors in each row and column. How many disks of each colour are left over when Giulia has completed the largest square she can compose? A) 0
-> 	
-> B) 40 whites and 40 blacks C) 41 whites and 40 blacks D) 41 whites and 41 blacks E) 40 whites and 41 blacks
+> Giulia has 2017 discs, all of the same size: 1009 are black and the rest are white. She arranges them according to the square pattern shown in the figure, starting with a black disc in the top-left corner and alternating the colors in each row and each column. How many discs of each color are left over when Giulia has completed the largest square she can form?
+> A) 0	
+>
+> B) 40 white ones and 40 black ones
+> C) 41 white and 40 black
+> D) 41 white and 41 black
+> E) 40 white and 41 black
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q17|src_kangourou_2017_student_marzo__Q17]]
 
 
 
@@ -824,20 +940,26 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum digits with two consecutive numbers whose digit sum is a multiple of 7*
+*Smallest number with two consecutive digits whose sum is a multiple of 7*
 
-> Two consecutive positive integers are such that the sum of the digits of each of them is a multiple of 7. What is the minimum number of digits that the smaller of the two can have? A) 3
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
+> Two consecutive positive integers are such that the sum of the digits of each of the two is a multiple of 7. What is the minimum number of digits that the smaller of the two can have?
+> A) 3	
+>
+> B) 4	
+>
+> C) 5	
+>
+> D) 6	
+>
 > E) 7
 >
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q18|src_kangourou_2017_student_marzo__Q18]]
 
 
 
@@ -862,13 +984,17 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area covered by the flower in the regular hexagon*
+*Area covered by the regular hexagonal flower*
 
 ![[src_kangourou_2017_student_marzo__prob19.png]]
 
-> The hexagon in the figure is regular and has side length
+> The hexagon in the figure is regular and has a side of length
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q19|src_kangourou_2017_student_marzo__Q19]]
 
 
 
@@ -894,9 +1020,14 @@ Box with maximum probability of blue ball
 
 *Sum of the digits of the number Titti thought of*
 
-> 20. Titti would like to be a good little kangaroo, but telling lies is too much fun for him: so he makes sure that, in every triple of his consecutive statements, two are true and one is false. His friend Pietro wants to guess the 2-digit number Titti thought of. Titti made, in order, the following statements: "One of the digits is a 2." "It is greater than 50." "It is even." "It is less than 30." "It is divisible by 3." "One of the digits is 7." STUDENT What is the sum of the digits of the number Titti thought of? A) 9 B) 12 C) 13 D) 15 E) 17 Questions from No. 21 to No. 30 are worth 5 points each
+> 20. Titti would like to be a good little kangaroo, but lying is too much fun for him: so he makes sure that, in every set of three of his consecutive statements, two are true and one is false. His friend Pietro wants to guess the two-digit number Titti has in mind. In order, Titti has made the following statements: "One of the digits is a 2." "It is greater than 50." "It is even." "It is less than 30." "It is divisible by 3." "One of the digits is 7." STUDENT What is the sum of the digits of the number Titti has in mind? A) 9 B) 12 C) 13 D) 15 E) 17 Questions 21 to 30 are each worth 5 points.
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q20|src_kangourou_2017_student_marzo__Q20]]
 
 
 
@@ -920,11 +1051,16 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers such that removing the last digit gives 1/14*
+*Integers such that, when the last digit is removed, the result is 1/14*
 
-> 21. How many positive integers are such that the number obtained by eliminating the last digit is 1/14 of the original number? A) 0 B) 1 C) 2 D) 3 E) 4
+> 21. How many positive integers are there such that the number obtained by removing the last digit is 1/14 of the original number? A) 0 B) 1 C) 2 D) 3 E) 4
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q21|src_kangourou_2017_student_marzo__Q21]]
 
 
 
@@ -949,13 +1085,17 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length AD in quadrilateral with perpendicular diagonals*
+*AD length in a quadrilateral with perpendicular diagonals*
 
 ![[src_kangourou_2017_student_marzo__prob22.png]]
 
-> 22. In the convex quadrilateral ABCD in the figure (not in the scale), the diagonals are perpendicular. The lengths of three sides are known: AB = 2017, BC = 2018 and CD = 2019. C What is the length of AD? A) 2016 B) 2018 C) √$2020^{2}$ - 4 D) √$2018^{2}$+ 2 E) 2020 2018 B A 2017
+> 22. In the convex quadrilateral ABCD in the figure (not to scale), the diagonals are perpendicular. The lengths of three sides are known: |AB| = 2017, |BC| = 2018, and |CD| = 2019. What is the length of AD? A) 2016 B) 2018 C) √$2020^{2}$ - 4 D) √$2018^{2}$+ 2 E) 2020 2018 B A 2017
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q22|src_kangourou_2017_student_marzo__Q22]]
 
 
 
@@ -979,11 +1119,16 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of a_2017 in a recursive sequence*
+*Value of a_2017 in recursive succession*
 
-> 23. Consider the sequence an defined by setting a1 = 2017 and, for every n, a(n + 1) = (an - 1) / an . Then a2017 = A) - 2017 B) -1 / 2016 C) 2016 / 2017 D) 1 E) 2017
+> 23. Consider the sequence (an) defined by setting a1 = 2017 and, for each n, a(n + 1) = (an - 1) / an. Then a2017 = A) -2017 B) -1/2016 C) 2016/2017 D) 1 E) 2017
 
-**Answer:** E
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q23|src_kangourou_2017_student_marzo__Q23]]
 
 
 
@@ -1008,13 +1153,17 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume ratio of a sectioned tetrahedron*
+*Ratio of volumes: truncated tetrahedron*
 
 ![[src_kangourou_2017_student_marzo__prob24.png]]
 
-> 24. From a regular tetrahedron a new solid is obtained by sectioning it with four planes, each passing through the midpoints of the three edges coming out of the same vertex, as in the figure. What is the ratio between the volume of the solid thus obtained and that of the initial tetrahedron? A) 4/5 B) 3/4 C) 2/3 D) 1/2 E) 1/3
+> 24. A new solid is obtained from a regular tetrahedron by cutting it with four planes, each passing through the midpoints of the three edges emanating from the same vertex, as shown in the figure. What is the ratio of the volume of the solid thus obtained to the volume of the original tetrahedron? A) 4/5 B) 3/4 C) 2/3 D) 1/2 E) 1/3
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q24|src_kangourou_2017_student_marzo__Q24]]
 
 
 
@@ -1038,11 +1187,16 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of right triangle with perimeter 18*
+*Area of a right-angled triangle with a perimeter of 18*
 
-> 25. The sum of the lengths of the three sides of a right triangle is 18 and the sum of the squares of these lengths is 128. What is the area of the triangle? A) 18 B) 16 C) 12 D) 10 E) 9
+> 25. The sum of the lengths of the three sides of a right-angled triangle is 18, and the sum of the squares of those lengths is 128. What is the area of the triangle? A) 18 B) 16 C) 12 D) 10 E) 9
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q25|src_kangourou_2017_student_marzo__Q25]]
 
 
 
@@ -1066,11 +1220,16 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distributing balls for maximum probability of winning*
+*Ball distribution for the highest probability of winning*
 
-> 26. You must arrange five black balls and five white balls in five boxes with the only constraint that each box contains at least one ball. Your opponent must, without looking, STUDENT draw a ball from a box of his choice: if the ball is white he wins, if it is black you win. How do you distribute the balls in the boxes to get the best chance of winning? A) Put a white and a black ball in each box. B) Put all the black balls in three boxes and all the white balls in the other two. C) Put all the black balls in four boxes and all the white balls in the remaining box. D) Put a black ball in each box and add all the white balls in one of the boxes. E) Put a white ball in each box and add all the black balls in one of the boxes.
+> 26. You must place 5 black balls and 5 white balls into 5 boxes, with the only constraint that each box contains at least one ball. Your opponent must, without looking, STUDENT draw one ball from a box of their choice: if the ball is white, they win; if it is black, you win. How must you distribute the balls among the boxes to have the highest probability of winning? A) Put one white ball and one black ball in each box. B) Put all the black balls in three boxes and all the white balls in the other two. C) Put all the black balls in four boxes and all the white balls in the remaining box. D) Put one black ball in each box and add all the white balls to one of the boxes. E) Put one white ball in each box and add all the black balls to one of the boxes.
 
-**Answer:** D
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q26|src_kangourou_2017_student_marzo__Q26]]
 
 
 
@@ -1105,7 +1264,7 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Central 3x3 grid number with sum of 500*
+*Central number in a 3x3 grid with a sum of 500*
 
 ![[src_kangourou_2017_student_marzo__prob27.png]]
 
@@ -1118,9 +1277,14 @@ Box with maximum probability of blue ball
 \end{document}
 ```
 
-> 27. In each cell of a grid 3 × 3 an integer is written such that the sum of the nine numbers is 500 and that numbers located in adjacent cells (i.e. cells with a common side) differ by 1. What is the number in the middle cell? A) 50 B) 54 C) 55 D) 56 E) 57
+> 27. In each cell of a 3 × 3 grid, an integer is written such that the sum of the nine numbers is 500 and the numbers in adjacent cells (that is, cells sharing a side) differ by 1. What is the number in the central cell? A) 50 B) 54 C) 55 D) 56 E) 57
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q27|src_kangourou_2017_student_marzo__Q27]]
 
 
 
@@ -1144,13 +1308,16 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x + y given system with absolute values*
+*Value of x+y for the given absolute-value system*
 
-> 28. If |x| + x + y = 5 and x + |y| - y = 10, what is the value of x + y?
-> (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
-> Kangourou 2017 page 30
+> 28. If |x| + x + y = 5 and x + |y| - y = 10, what is the value of x + y? A) 1 B) 2 C) 3 D) 4 E) 5 Kangourou 2017 page 30
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q28|src_kangourou_2017_student_marzo__Q28]]
 
 
 
@@ -1174,11 +1341,16 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum truths around the round table*
+*Massimo Veritieri around the round table*
 
-> 29. The inhabitants of one island are exactly 2017 and each of them is either a liar (always lies) or a truthful (always telling the truth). On the island, a large lunch is organized for more than a thousand inhabitants, all seated around a single round table. Each of them says, "I am sitting between a liar and a truthful person". What is the maximum number of truthful people that can live on the island? A) 1683 B) 668 C) 670 D) 1344 E) 1343
+> 29. The inhabitants of an island number exactly 2017, and each of them is either a liar (always lies) or a truth-teller (always tells the truth). A large lunch is organized on the island, attended by more than a thousand of the inhabitants, who all sit around a single round table. Each of them says, "I am sitting between a liar and a truth-teller." What is the maximum number of truth-tellers that can live on the island? A) 1683 B) 668 C) 670 D) 1344 E) 1343
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q29|src_kangourou_2017_student_marzo__Q29]]
 
 
 
@@ -1202,9 +1374,13 @@ Box with maximum probability of blue ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Positive integers ABC such that (A+B)^C is a three-digit power of 2*
+*Interior ABC with (A+B)^C, power of 2, three digits*
 
-> 30. How many three-digit positive integers ABC are there such that (A + B)^C is simultaneously a three-digit number and an integer power of 2?
-> (A) 15 (B) 16 (C) 18 (D) 20 (E) 21
+> 30. How many three-digit positive integers ABC are there such that (A + B)C is simultaneously a three-digit number and an integer power of 2? A) 15 B) 16 C) 18 D) 20 E) 21 123456789101112131415161718192021222324252627282930CACACBACBBABEDBDECEDCDEDEDDAAE
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_student_marzo#q30|src_kangourou_2017_student_marzo__Q30]]

@@ -32,13 +32,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC con disuguaglianza vettoriale implica angolo retto*
+*Il triangolo ABC con disuguaglianza vettoriale implica un angolo retto*
 
-> Lasciate che $\triangle ABC$ sia un triangolo dato. Se $|\overrightarrow{BA} - t\overrightarrow{BC}| \ge |\overrightarrow{AC}|$ per qualsiasi $t \in \mathbf{R}$, allora $\triangle ABC$ è (\ \ ).
-> 
-> (A) un triangolo acuto\quad (B) un triangolo obtuso\quad (C) un triangolo rettangolo\quad (D) sconosciuto
+> Sia $\triangle ABC$ un triangolo dato. Se $|\overrightarrow{BA} - t\overrightarrow{BC}| \ge |\overrightarrow{AC}|$ per ogni $t \in \mathbf{R}$, allora $\triangle ABC$ è (\ \ ).
+>
+> (A) un triangolo acuto\quad (B) un triangolo ottuso\quad (C) un triangolo rettangolo\quad (D) non noto
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2006#q01|src_cn_cmc_2006__Q01]]
 
 
 
@@ -64,13 +69,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rango di x soddisfacente la disuguaglianza logaritmica*
+*Insieme dei valori di x che soddisfano la disuguaglianza logaritmica*
 
-> Supponiamo $\log_x(2x^2 + x - 1) > \log_x 2 - 1$. Quindi l'intervallo di $x$ è (\ \).
-> 
+> Sia $\log_x(2x^2 + x - 1) > \log_x 2 - 1$. Allora l'insieme dei valori di $x$ è (\ \ ).
+>
 > (A) $\frac{1}{2} < x < 1$\quad (B) $x > \frac{1}{2}$ e $x \ne 1$\quad (C) $x > 1$\quad (D) $0 < x < 1$
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2006#q02|src_cn_cmc_2006__Q02]]
 
 
 
@@ -96,13 +106,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conte di coppie (a,b) per l'intersezione di gruppi di numeri naturali*
+*Conta le coppie (a,b) per l'intersezione di insiemi di numeri naturali*
 
-> Supponiamo $A = \{x \mid 5x - a \le 0\}$, $B = \{x \mid 6x - b > 0\}$, $a, b \in \mathbf{N}$ e $A \cap B \cap \mathbf{N} = \{2, 3, 4\}$. Il numero di tali coppie $(a, b)$ è (\ \).
-> 
+> Siano $A = \{x \mid 5x - a \le 0\}$, $B = \{x \mid 6x - b > 0\}$, $a, b \in \mathbf{N}$ e $A \cap B \cap \mathbf{N} = \{2, 3, 4\}$. Il numero di tali coppie $(a, b)$ è (\ \ ).
+>
 > (A) 20\quad (B) 25\quad (C) 30\quad (D) 42
 
-**Risposta:** C
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2006#q03|src_cn_cmc_2006__Q03]]
 
 
 
@@ -128,13 +143,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rango di lunghezza DF in prisma triangolare rettangolare con GD perp EF*
+*Intervallo di variazione della lunghezza di DF nel prisma triangolare rettangolo con GD perpendicolare a EF*
 
-> Dato un prisma triangolare rettangolare $A_1B_1C_1 - ABC$ con $\angle BAC = \frac{\pi}{2}$ e $AB = AC = AA_1 = 1$, $G$, $E$ siano rispettivamente i punti medi di $A_1B_1$, $CC_1$ e $D$, $F$ siano i punti variabili che si trovano sui segmenti $AC$ e $AB$ (esclusi i punti finali) rispettivamente. Se $GD \perp EF$, l'intervallo di lunghezza di $DF$ è (\ \ ).
-> 
+> Dato un prisma triangolare retto $A_1B_1C_1 - ABC$ con $\angle BAC = \frac{\pi}{2}$ e $AB = AC = AA_1 = 1$, siano $G$, $E$ i punti medi di $A_1B_1$, $CC_1$ rispettivamente, e siano $D$, $F$ punti variabili giacenti sui segmenti $AC$, $AB$ rispettivamente (escludendo gli estremi). Se $GD \perp EF$, l'intervallo di variazione della lunghezza di $DF$ è (\ \ ).
+>
 > (A) $\left[\frac{1}{2}, 1\right)$\quad (B) $\left[\frac{1}{2}, 2\right)$\quad (C) $\left(1, \sqrt{2}\right)$\quad (D) $\left[\frac{\sqrt{2}}{2}, \sqrt{2}\right)$
 
-**Risposta:** A
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2006#q04|src_cn_cmc_2006__Q04]]
 
 
 
@@ -159,13 +179,17 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizione su a+b>=0 per f(a)+f(b)>=0 con funzione odd*
+*Condizione su a+b>=0 affinché f(a)+f(b)>=0, con funzione dispari*
 
-> Supponiamo $f(x) = x + \log_x\!\left(\sqrt{x^2 + 1}\right)$. Per qualsiasi $a, b \in \mathbf{R}$, per soddisfare $f(a) + f(b) \ge 0$, la condizione $a + b \ge 0$ è (\ \ ).
-> 
-> (A) necessaria e sufficiente (B) non necessaria ma sufficiente (C) necessaria ma insufficiente (D) né necessaria né sufficiente
+> Si supponga $f(x) = x + \log_x\!\left(\sqrt{x^2 + 1}\right)$. Per ogni $a, b \in \mathbf{R}$, per soddisfare $f(a) + f(b) \ge 0$, la condizione $a + b \ge 0$ è (\ \ ).
+>
+> (A) necessaria e sufficiente\quad (B) non necessaria ma sufficiente\quad (C) necessaria ma non sufficiente\quad (D) né necessaria né sufficiente
 
-**Risposta:** A
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2006#q05|src_cn_cmc_2006__Q05]]
 
 
 
@@ -194,16 +218,21 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi decimali a 2007 cifre senza cifra uguale a 9*
+*Conta gli interi decimali di 2007 cifre che non hanno alcuna cifra uguale a 9*
 
-> $S$ sia l'insieme di tutti gli enti decimali del 2007 $\overline{a_1 a_2 a_3 \cdots a_{2006}}$ che non contengono alcuna cifra del valore '9' in ogni sequenza $a_1, a_2, a_3, \cdots, a_{2006}$. Il numero cardinale di $S$ è
+> Sia $S$ l'insieme di tutti quegli interi decimali a 2007 cifre $\overline{a_1 a_2 a_3 \cdots a_{2006}}$ che non contengono alcuna cifra di valore '9' in ciascuna sequenza $a_1, a_2, a_3, \cdots, a_{2006}$. Il numero cardinale di $S$ è
 >
 > - **(A)** $\dfrac{1}{2}(10^{2006} + 8^{2006})$
 > - **(B)** $\dfrac{1}{2}(10^{2006} - 8^{2006})$
 > - **(C)** $10^{2006} + 8^{2006}$
 > - **(D)** $10^{2006} - 8^{2006}$
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc_2006#q06|src_cn_cmc_2006__Q06]]
 
 
 
@@ -226,11 +255,15 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova l'intervallo di f(x) = sin^4 x - sin x cos x + cos^4 x*
+*Trovare l'insieme dei valori di f(x)=sin^4 x - sin x cos x + cos^4 x*
 
-> Let $f(x) = \sin^4 x - \sin x \cos x + \cos^4 x$. L'intervallo di $f(x)$ è ________.
+> Sia $f(x) = \sin^4 x - \sin x \cos x + \cos^4 x$. L'intervallo di $f(x)$ è ________.
 
-**Risposta:** $\left[0,\, \dfrac{9}{8}\right]$
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2006#q07|src_cn_cmc_2006__Q07]]
 
 
 
@@ -254,11 +287,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova intervallo di reale a so=ız da <=2 per theta, dove z(a+cos theta) +(2a-sin theta) i*
+*Trovare l'intervallo di valori reali di a tali che |z|<=2 per ogni theta, dove z=(a+cos theta)+(2a-sin theta)i*
 
-> Il numero complesso $z = (a + \cos\theta) + (2a - \sin\theta)\mathrm{i}$. Se $|z| \le 2$ per qualsiasi $\theta \in \mathbf{R}$, allora l'intervallo del numero reale $a$ è ________.
+> Sia $z = (a + \cos\theta) + (2a - \sin\theta)\mathrm{i}$ un numero complesso. Se $|z| \le 2$ per ogni $\theta \in \mathbf{R}$, allora l'intervallo del numero reale $a$ è ________.
 
-**Risposta:** $\left[-\dfrac{\sqrt{5}}{5},\, \dfrac{\sqrt{5}}{5}\right]$
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2006#q08|src_cn_cmc_2006__Q08]]
 
 
 
@@ -282,11 +320,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Find ratio ↓PF1 quando l'angolo di declinazione/di declinazionePF2 è F1PF2 è massimo per il punto P sulla linea*
+*Trovare il rapporto |PF1|/|PF2| quando l'angolo F1PF2 è massimizzato per il punto P sulla retta*
 
-> Supponiamo che i punti $F_1$, $F_2$ siano rispettivamente i foci sinistri e destri dell'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ (dove $a > b > 0$, $b = 2$) e $P$ sia un punto sulla linea $l_1$. Quando $\angle F_1 P F_2$ raggiunge il massimo, il valore del rapporto $\left|\dfrac{PF_1}{PF_2}\right|$ è ________.
+> Si supponga che i punti $F_1$, $F_2$ siano rispettivamente il fuoco sinistro e il fuoco destro dell'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ (dove $a > b > 0$, $b = 2$), e che $P$ sia un punto sulla retta $l_1$. Quando $\angle F_1 P F_2$ raggiunge il valore massimo, il valore del rapporto $\left|\dfrac{PF_1}{PF_2}\right|$ è ________.
 
-**Risposta:** $\sqrt{5} - 1$
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2006#q09|src_cn_cmc_2006__Q09]]
 
 
 
@@ -310,11 +353,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il rapporto comune q di progressione geometrica data condizione interiore*
+*Trovare il rapporto comune q di una progressione geometrica data la condizione sugli interi*
 
-> Che $\{a_n\}$ sia una progressione aritmetica con differenza comune $d$ ($d \neq 0$) e $\{b_n\}$ sia una progressione geometrica con rapporto comune $q$, dove $q$ è un numero razionale positivo inferiore a $1$. Se $a_1 = d$, $b_1 = d^2$ e $\frac{a_1^2 + a_2^2 + a_3^2}{b_1 + b_2 + b_3}$ sono un intero positivo, allora $q$ è uguale a $\underline{\hspace{2cm}}$.
+> Sia $\{a_n\}$ una progressione aritmetica con ragione $d$ ($d \neq 0$) e sia $\{b_n\}$ una progressione geometrica con rapporto $q$, dove $q$ è un numero razionale positivo minore di $1$. Se $a_1 = d$, $b_1 = d^2$ e $\frac{a_1^2 + a_2^2 + a_3^2}{b_1 + b_2 + b_3}$ sono un numero intero positivo, allora $q$ è uguale a $\underline{\hspace{2cm}}$.
 
-**Risposta:** $\frac{1}{2}$
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc_2006#q10|src_cn_cmc_2006__Q10]]
 
 
 
@@ -338,11 +386,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta minima della funzione trigradikale a intervallo*
+*Valore minimo della funzione radicale trigonometrica sull'intervallo*
 
 > Dato $f(x) = \frac{\sin(\pi x) - \cos(\pi x) + 2}{\sqrt{x}}$ per $\frac{1}{4} \le x \le \frac{5}{4}$, il minimo di $f(x)$ è $\underline{\hspace{2cm}}$.
 
-**Risposta:** $\frac{4\sqrt{5}}{5}$
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2006#q11|src_cn_cmc_2006__Q11]]
 
 
 
@@ -368,13 +421,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per riempire la matrice 4x4 con due a e due b*
+*Conta i modi per riempire una matrice 4x4 con due a e due b*
 
-> Quattro lettere, due $a$ e due $b$, sono riempite nelle celle $16$ di una matrice come mostrato nella figura. Occorre che ogni riga contenga al massimo una lettera e ogni riga o colonna non può contenere le stesse lettere. Poi ci sono $\underline{\hspace{2cm}}$ diversi modi in cui la matrice può essere riempita. (Si richiede una risposta numerica.)
+> Quattro lettere, due $a$ e due $b$, vengono inserite nelle celle $16$ di una matrice come mostrato nella figura. Si richiede che ogni riga contenga al più una lettera e che né ogni riga né ogni colonna possano contenere le stesse lettere. Allora ci sono $\underline{\hspace{2cm}}$ modi diversi di riempire la matrice. (È richiesta una risposta numerica.)
 
 ![[src_cn_b07_w46__q12.png]]
 
-**Risposta:** 3960
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casi_conteggio|Casi e conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2006#q12|src_cn_cmc_2006__Q12]]
 
 
 
@@ -397,9 +455,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la sequenza di numeri interi k_m definita dall'intersezione di y^2=kx-1 e y=x soddisfa la ricorrenza*
+*Dimostrare che la successione di interi k_m, definita dall'intersezione di y^2=kx-1 e y=x, soddisfa una relazione di ricorrenza*
 
-> Date un numero intero $n \ge 2$, definire $M_k(x_k, y_k)$ come punto di intersezione della parabola $y^2 = kx - 1$ e della linea $y = x$. Prova che per qualsiasi numero intero positivo $m$, $k_m = x_m + \dfrac{1}{x_m}$ è un numero intero positivo, dove $k_0 = n$ e $k_{m+1} = k_m^2 - k_{m-1}$ (con $k_1 = n^2 - 2$).
+> Dato un intero $n \ge 2$, si definisca $M_k(x_k, y_k)$ come un punto d'intersezione della parabola $y^2 = kx - 1$ e della retta $y = x$. Si dimostri che, per ogni intero positivo $m$, $k_m = x_m + \dfrac{1}{x_m}$ è un intero positivo, dove $k_0 = n$ e $k_{m+1} = k_m^2 - k_{m-1}$ (con $k_1 = n^2 - 2$).
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2006#q13|src_cn_cmc_2006__Q13]]
 
 
 
@@ -424,9 +489,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare e minimizzare la somma dei prodotti in coppia di cinque numeri interi positivi che sommano al 2006*
+*Massimizza e minimizza la somma dei prodotti a coppie di cinque interi positivi la cui somma è 2006*
 
-> Esprimere il 2006 come la somma di cinque integri positivi $x_1, x_2, x_3, x_4, x_5$ e $S = \displaystyle\sum_{1 \le i < j \le 5} x_i x_j$. Domanda: (1) Quale valore di $x_1, x_2, x_3, x_4, x_5$ renderà $S$ il massimo? (2) Inoltre, se $|x_i - x_j| < 3$ per qualsiasi $1 \le i, j \le 5$, quale valore di $x_1, x_2, x_3, x_4, x_5$ renderà $S$ il minimo? Per favore, rispondi.
+> Sia 2006 espresso come somma di cinque interi positivi $x_1, x_2, x_3, x_4, x_5$ e $S = \displaystyle\sum_{1 \le i < j \le 5} x_i x_j$. Si chiede: (1) Quale valore di $x_1, x_2, x_3, x_4, x_5$ renderà $S$ massimo? (2) Inoltre, se $|x_i - x_j| < 3$ per qualsiasi $1 \le i, j \le 5$, quale valore di $x_1, x_2, x_3, x_4, x_5$ renderà $S$ minimo? Si fornisca la risposta.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2006#q14|src_cn_cmc_2006__Q14]]
 
 
 
@@ -449,6 +521,13 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Decomponere la funzione 2pi-periodico in quattro parti pari pi-periodico*
+*Scomporre una funzione 2π-periodica in quattro parti pari π-periodiche*
 
-> Supponiamo $f(x + 2\pi) = f(x)$ per qualsiasi $x \in \mathbb{R}$. Prova: ci sono $f_i(x)$ ($i = 1, 2, 3, 4$) tali che\n(1) $f_i(x)$ ($i = 1, 2, 3, 4$) è una funzione pari, e $f_i(x + \pi) = f_i(x)$ per qualsiasi $x \in \mathbb{R}$;\n(2) $f(x) = f_1(x) + f_2(x)\cos x + f_3(x)\sin x + f_4(x)\sin 2x$ per qualsiasi $x \in \mathbb{R}$.
+> Sia $f(x + 2\pi) = f(x)$ per ogni $x \in \mathbb{R}$. Dimostrare: esistono $f_i(x)$ ($i = 1, 2, 3, 4$) tali che\n(1) $f_i(x)$ ($i = 1, 2, 3, 4$) è una funzione pari, e $f_i(x + \pi) = f_i(x)$ per ogni $x \in \mathbb{R}$;\n(2) $f(x) = f_1(x) + f_2(x)\cos x + f_3(x)\sin x + f_4(x)\sin 2x$ per ogni $x \in \mathbb{R}$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2006#q15|src_cn_cmc_2006__Q15]]

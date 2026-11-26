@@ -28,20 +28,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6428
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tuono's first doubt*
+*Thunder's First Doubt*
 
 ![[src_gs_2016__prob1.png]]
 
-> Tuono's first doubt
-> Which are the two positive integers that, multiplied together, give 2016 and such that subtracting the smaller from the larger gives 20? [Give as the answer the first four digits after the decimal point of the ratio between the smaller and the larger.]
+> Thunder's First Doubt
+> What are the two positive integers whose product is 2016 and whose difference (greater minus lesser) is 20? [Give as the answer the first four digits after the decimal point of the ratio of the lesser to the greater.]
 
-**Answer:** 6428
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2016#q01|src_gs_2016__Q01]]
 
 
 
@@ -61,20 +64,20 @@ level: squadre
 > un gioiello verde e liscio?
 
 **Risposta:** 9501
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The jewels in the casket*
+*The jewels in the chest*
 
 ![[src_gs_2016__prob2.png]]
 
-> The jewels in the casket
-> In a casket there are 10000 jewels; 5500 of them are green, while 4500 are red; half are smooth and half are rough. How many jewels must be taken out of the casket to be certain of having taken out at least one green smooth jewel?
+> The Jewels in the Casket
+> In one chest, there are 10,000 jewels: 5,500 of these are green, while 4,500 are red; half are smooth and half are rough. How many jewels must be drawn from the chest to be certain of having drawn at least one green, smooth jewel?
 
-**Answer:** 9501
+[[Quesiti/src_gs_2016#q02|src_gs_2016__Q02]]
 
 
 
@@ -96,7 +99,7 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0015
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -107,10 +110,12 @@ level: squadre
 ![[src_gs_2016__prob3.png]]
 
 > Dental hygiene
-> [Comic-strip text: «This toothpaste tube has the shape of a truncated cone with bases of diameter 4 cm and 2 cm, and it is 12 cm high.» «It says on the package that the toothpaste contained is 75 ml.»]
-> By how many cm^3 must the volume be decreased to be sure of squeezing out 2 ml of paste for the toothbrush? [Give as the answer the integer closest to the result.]
+> [Comic text: "This tube of toothpaste is shaped like a truncated cone with bases measuring 4 cm and 2 cm in diameter, and it is 12 cm tall." "The packaging states that the toothpaste inside is 75 ml."] By how many cubic centimeters must the volume be reduced to be certain of dispensing 2 ml of fluid for the toothbrush? [Give as the answer the integer closest to the result.]
 
-**Answer:** 0015
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2016#q03|src_gs_2016__Q03]]
 
 
 
@@ -127,20 +132,20 @@ level: squadre
 > [Testo del fumetto: «Hai visto che bell’anno che è il 2016?» «È divisibile per 1, 2, 3, 4, 6, 7, 8, 9.» «Però non è divisibile per 5 e per 10.» «Tra quanti anni ci sarà un anno divisibile per 10 numeri consecutivi?»]
 
 **Risposta:** 0504
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tuono's second doubt*
+*Thunder's Second Doubt*
 
 ![[src_gs_2016__prob4.png]]
 
-> Tuono's second doubt
-> [Comic-strip text: «Have you seen what a nice year 2016 is?» «It is divisible by 1, 2, 3, 4, 6, 7, 8, 9.» «But it is not divisible by 5 and by 10.» «In how many years will there be a year divisible by 10 consecutive numbers?»]
+> Thunder's Second Doubt
+> [Comic text: "Have you seen what a great year 2016 is?" "It's divisible by 1, 2, 3, 4, 6, 7, 8, and 9." "But it's not divisible by 5 or 10." "In how many years will there be a year divisible by 10 consecutive numbers?"]
 
-**Answer:** 0504
+[[Quesiti/src_gs_2016#q04|src_gs_2016__Q04]]
 
 
 
@@ -162,7 +167,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1407
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -173,10 +178,12 @@ level: squadre
 ![[src_gs_2016__prob5.png]]
 
 > The alarm clock
-> [Comic-strip text: «Goodness! All ten digits are on the alarm clock!» The clock shows 17:56:43 and 28/09.]
-> Starting from the beginning of the year, what is the first display P\_1P\_2 : K\_1K\_2 : V\_1V\_2 of T\_1T\_2/M\_1M\_2 in which the ten digits appear? [Give as the answer P\_1P\_2 + V\_1V\_2 · T\_1T\_2 − K\_1K\_2 · M\_1M\_2.]
+> [Comic text: "Blimey! The alarm clock has all ten digits on it!" The alarm clock shows 17:56:43 and 28/09.] Starting from the beginning of the year, what is the first P_1P_2 : K_1K_2 : V_1V_2 writing of T_1T_2/M_1M_2 in which all ten digits appear? [Give as the answer P_1P_2 + V_1V_2 · T_1T_2 − K_1K_2 · M_1M_2.]
 
-**Answer:** 1407
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2016#q05|src_gs_2016__Q05]]
 
 
 
@@ -196,21 +203,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1366
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Zoe's first problem*
+*Zoe's First Problem*
 
 ![[src_gs_2016__prob6.png]]
 
-> Zoe's first problem
-> [Comic-strip text: «I've written all the numbers from 100 to 200.» «Now I'll add them up.» «It's easy: it makes 15150.» «Instead, under each number you have written, I write the integer part of the division of 2016 by that number.»]
-> What is the sum of the numbers written on the lower row?
+> Zoe's First Problem
+> [Comic text: "I've written all the numbers from 100 to 200." "Now I'll add them up." "It's easy: the total is 15150." "Instead, below each number you've written, I'll write the integer part of 2016 divided by that number."] What is the sum of the numbers written on the bottom row?
 
-**Answer:** 1366
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2016#q06|src_gs_2016__Q06]]
 
 
 
@@ -239,23 +248,26 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0050
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The first busy robot*
+*The First Busy Robot*
 
 ![[src_gs_2016__prob7.png]]
 
-> The first busy robot
-> On a 20 × 16 chessboard, a small robot is placed on the bottom-left square and faces the top-left square, the sixteenth. The robot can move on the chessboard using the following moves:
+> The First Busy Robot
+> On a 20 × 16 chessboard, a small robot is positioned on the first square at the bottom left and is facing the top-left square, the sixteenth one. The robot can move across the chessboard using the following moves
 > (a) move forward one square in the direction it is facing;
-> (b) turn 90° to its right and move forward one square in the direction it is facing after the rotation.
-> The robot can make as many moves as it likes, but it cannot leave the chessboard, cannot return to a square already visited and must keep making the same move until it can no longer make it while respecting the other rules. On how many squares can it happen to pass, always starting from the bottom-left square and facing the top-left square?
+> (b) rotate 90° to its right and move forward one square in the direction it is facing
+> Facing the direction after the rotation. The robot can make as many moves as it likes, but it cannot leave the chessboard, cannot return to a square it has already visited, and must keep making the same move until it can no longer make it in order to comply with the other rules. How many are the squares it might happen to pass over, always starting from the first square at the bottom left and facing the square at the top left?
 
-**Answer:** 0050
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2016#q07|src_gs_2016__Q07]]
 
 
 
@@ -288,27 +300,31 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0054
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time-wasting bureaucracy*
+*The time-wasting bureaucracy*
 
 ![[src_gs_2016__prob8.png]]
 
-> Time-wasting bureaucracy
-> River has analysed the rules that the 10000 counters, numbered from 1 to 10000, in the Palace of Bureaucracy apply to validate a form. He has discovered that each clerk, when a person comes to his counter with a form to be signed, looks in order at a list of numbered rules and carries out the first one that can actually be carried out (n is the number of the counter):
-> 1. if n ≥ 300, he signs the form;
-> 2. if n is divisible by 5, he does not sign the form and sends the person to counter n^2;
-> 3. if n is divisible by 3, he does not sign the form and sends the person to counter n + 100;
-> 4. if n is divisible by 2, he does not sign the form and sends the person to counter n − 1;
-> 5. if n is divisible by 11, he does not sign the form and sends the person to the counter equal to the sum of the digits of n;
-> 6. he signs the form.
-> In particular, if the counter to which the person should be sent does not exist, he signs the form. River determines from which counter the round starts that passes through the largest possible number of counters before obtaining the signature on the form. What is the number of the counter determined by River?
+> Bureaucracy, the Time-Waster
+> River has analyzed the rules that the 10,000 counters, numbered from 1 to 10,000, in the Palace of Bureaucracy apply to endorse a form. He has found that, when a person appears at an employee's counter with a form to be signed, each employee looks in order at a list of numbered rules and carries out the first one that can actually be applied:
+> 1. If n ≥ 300, sign the form;
+> 2. If it is not divisible by 5, they do not sign the form and send the person to counter no. 2;
+> 3. If it is not divisible by 3, they do not sign the form and send the person to counter n + 100;
+> 4. If it is divisible by 2, they do not sign the form and send the person to counter n − 1;
+> 5. If it is not divisible by 11, they do not sign the form and send the person to the counter corresponding to the
+> sum of the digits of n;
+> 6. Sign the form.
+> In particular, if the desk to which the person must be sent does not exist, sign the form. River determines which desk the round starts from—the round that passes through as many desks as possible before obtaining the signature on the form. What is the number of the desk determined by River?
 
-**Answer:** 0054
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2016#q08|src_gs_2016__Q08]]
 
 
 
@@ -328,21 +344,20 @@ level: squadre
 > che Kaylee deve fare?
 
 **Risposta:** 0061
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Kaylee's panel*
+*Kaylee's Dial*
 
 ![[src_gs_2016__prob9.png]]
 
-> Kaylee's panel
-> [Comic-strip text: «An electronic system shows a panel with 100 light bulbs numbered from 1 to 100, each with a switch immediately next to it.» «Activating the switch next to bulb k simultaneously changes the state (on/off) of all the bulbs numbered with a multiple of k (k included).»]
-> Kaylee stands in front of the panel: the bulbs are all on, and she must leave on only the first and the last bulb. What is the minimum number of switch activations Kaylee must make?
+> Kaylee's Dial
+> [Comic text: "An electronic system displays a panel with 100 light bulbs numbered from 1 to 100, each having a switch immediately adjacent to it." "Activating the switch adjacent to bulb k simultaneously changes the state (on/off) of all bulbs numbered with a multiple of k (including k)."] Kaylee is standing in front of the panel: all the light bulbs are on, and she must leave only the first and the last light bulbs on. What is the minimum number of times Kaylee must activate switches?
 
-**Answer:** 0061
+[[Quesiti/src_gs_2016#q09|src_gs_2016__Q09]]
 
 
 
@@ -362,20 +377,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0007
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Zoe's second problem*
+*Zoe's Second Problem*
 
 ![[src_gs_2016__prob10.png]]
 
-> Zoe's second problem
-> How many positive integers less than 100 have the property that the number of their positive integer divisors is equal to the product of their digits?
+> Zoe's Second Problem
+> How many positive integers less than 100 have the property that the number of their positive integer divisors equals the product of their digits?
 
-**Answer:** 0007
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2016#q10|src_gs_2016__Q10]]
 
 
 
@@ -400,20 +418,23 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1163
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The party in Lilac*
+*The Party at Lilac*
 
 ![[src_gs_2016__prob11.png]]
 
-> The party in Lilac
-> A worker has to place 2016 posts for the party in the large square of Lilac according to a very precise scheme. He begins by fixing post 1; he moves 1 m away from post 1 and fixes post 2. At this point, with his back against post 2, he turns 120° anticlockwise with respect to the direction he had walked from post 1 to post 2, and fixes post 3 after walking 2 m. As before, with his back to post 3, he turns 120° anticlockwise with respect to the direction from post 2 to post 3, walks 3 m and fixes post 4. He goes on like this until he has planted 2016 posts in the ground. How far is post 1 from post 2016?
+> The Party at Lilac
+> A worker must place 2016 posts for the festival in Lilac's large square according to a very precise pattern. He starts by fixing post 1; he moves 1 m away from post 1 and fixes post 2. At this point, with his back against post 2, he rotates 120° counterclockwise relative to the direction he followed from post 1 to post 2, and after walking 2 m he fixes post 3. As before, with his back to post 3, he rotates 120° counterclockwise relative to the direction from post 2 to post 3, walks 3 m, and fixes post 4. He continues like this until he has driven 2016 posts into the ground. How far apart are post 1 and post 2016?
 
-**Answer:** 1163
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2016#q11|src_gs_2016__Q11]]
 
 
 
@@ -436,20 +457,20 @@ level: squadre
 > massimo, tale somma?
 
 **Risposta:** 3700
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The bean plants*
+*Bean plants*
 
 ![[src_gs_2016__prob12.png]]
 
-> The bean plants
-> A farmer has bought a box of yellow beans from a member of the Alliance. Every night a yellow bean plant grows by (1/n) m, where n is the number of days since the soil was last fertilised. On the first morning the farmer sows a bean and fertilises all his land; true to its nature, during the night the bean grows by 1 m. On each of the following ten mornings the farmer will do exactly one of the following two actions: he will sow a new bean or he will fertilise all his land. At dawn on the twelfth day, he measures the height of each of his plants and computes their sum in cm. What is the maximum value of this sum?
+> Bean plants
+> A farmer has bought a box of yellow beans from a member of the Alliance. Each night, the yellow bean plant grows by (1/n) m, where n is the number of days that have passed since the soil was fertilized last. On the first morning, the farmer sows one bean and fertilizes all of his land; in keeping with his nature, during the night the bean grows by 1 m. On each of the next ten mornings, the farmer will perform exactly one of the following two actions: he will sow a new bean or he will fertilize all of his land. At dawn on the twelfth day, he measures the height of each of his young plants and calculates the sum of those heights in cm. What is the maximum possible value of this sum?
 
-**Answer:** 3700
+[[Quesiti/src_gs_2016#q12|src_gs_2016__Q12]]
 
 
 
@@ -472,20 +493,23 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2027
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tuono's third doubt*
+*Thunder's Third Doubt*
 
 ![[src_gs_2016__prob13.png]]
 
-> Tuono's third doubt
-> Considering the polynomial P(x) obtained as the product of the 2016 polynomials x + 1, x^2 + 2, …, x^2015 + 2015 and x^2016 + 2016, what is the smallest positive integer n such that the sum of the coefficients of the polynomial P(x) is not divisible by n?
+> Thunder's Third Doubt
+> Given the polynomial P(x) obtained by multiplying the 2016 polynomials x + 1, x^2 + 2, ..., x^(2015) + 2015, and x^(2016) + 2016, what is the smallest positive integer n such that the sum of the coefficients of the polynomial P(x) is not divisible by n?
 
-**Answer:** 2027
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2016#q13|src_gs_2016__Q13]]
 
 
 
@@ -516,7 +540,7 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0006
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -527,13 +551,12 @@ level: squadre
 ![[src_gs_2016__prob14.png]]
 
 > Kaylee's circuit
-> An electronic circuit consists of 2016 devices placed in a row. Each of them, except the first and the last, is connected to the previous and to the next one; the first is connected only to the next one, the last only to the previous one. There is a button that, when pressed, supplies energy to the first device of the row. The devices behave according to the following rules:
-> • If a device is in the ON state and receives energy, it changes its state to OFF and passes energy to the next one.
-> • If a device is in the OFF state and receives energy, it changes its state to ON and does not pass current to the next one.
-> • If it does not receive energy, a device remains in the state it is in.
-> Kaylee is in front of the electronic circuit and all 2016 devices are in the OFF state. Kaylee has time to kill and, to pass it, presses the button 2016 times. At that point how many devices are in the ON state?
+> An electronic circuit consists of 2016 devices arranged in a line. Each of these, except the first and the last, is connected to the one before it and to the one after it; the first is connected only to the next one, and the last is connected only to the previous one. There is a button that, when pressed, supplies power to the first device in the line. The devices behave according to the following rules: • If a device is in the ON state and receives power, it changes its state to OFF and passes power to the next device. • If a device is in the OFF state and receives power, it changes its state to ON and does not transmit current to the next device. • If it does not receive power, a device remains in the state it is in. Kaylee is in front of the electronic circuit, and all 2016 devices are in the OFF state. Kaylee has some time to kill, and to pass the time, she presses the button 2016 times. At that point, how many devices are in the ON state?
 
-**Answer:** 0006
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2016#q14|src_gs_2016__Q14]]
 
 
 
@@ -557,7 +580,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1246
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -568,9 +591,12 @@ level: squadre
 ![[src_gs_2016__prob15.png]]
 
 > River's codes
-> Investigating to discover the access code to Miranda's control room, River first discovered that this code is linked to two positive integers a and b and to lists of positive numbers obtained according to the following rules: A\_0 = a, A\_1 = b, A\_(n+2) = A\_n − A\_(n+1); that is, if A\_k is not positive, the list ends and A\_k is not written. River also discovered that a is 2016 and that b maximises the number of terms of the list. What is b?
+> Inquiring to find the access code for Miranda's command room, River first discovered that this code is linked to two positive integers a and b and to lists of positive numbers obtained according to the following rules: A_0 = a, A_1 = b, A_{n+2} = A_n − A_{n+1}; that is, if A_k is not positive, the list ends and A_k is not written. River also discovered that a is 2016 and that b maximizes the number of terms in the list. What is the value of b?
 
-**Answer:** 1246
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2016#q15|src_gs_2016__Q15]]
 
 
 
@@ -598,24 +624,23 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1500
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Zoe's third problem*
+*Zoe's Third Problem*
 
 ![[src_gs_2016__prob16.png]]
 
-> Zoe's third problem
-> CONSIDER THE DATA I HAVE WRITTEN ON THE BLACKBOARD. CALL F THE POINT OF INTERSECTION OF THE LINES KN AND HM.
-> Data on the blackboard: angle BAC = 30°; angle ACB = 16°; BC = 150 cm; A, B, M and K are collinear; A, C, N and H are collinear; line BH is perpendicular to line AC; line CK is perpendicular to line AB; AM = MB; AN = NC.
-> THE DRAWING IS WRONG! ANGLE ACB IS NOT 16°.
-> IT DOESN'T MATTER! DRAWINGS ARE NOT NEEDED IN GEOMETRY. WHAT IS THE RATIO OF THE MEASURE OF ANGLE MFN TO THAT OF ANGLE MHB?
-> [Give as the answer the ratio obtained multiplied by 1000.]
+> Zoe's Third Problem
+> Consider the data I wrote on the board. Let F be the intersection point of lines KN and HM. Data on the board: angle BAC = 30°; angle ACB = 16°; BC = 150 cm; A, B, M, and K are collinear; A, C, N, and H are collinear; line BH is perpendicular to line AC; line CK is perpendicular to line AB; AM = MB; AN = NC. The diagram is wrong! Angle ACB is not 16°. Never mind! Diagrams aren't needed in geometry. What is the ratio of the measure of angle MFN to the measure of angle MHB? [Give as the answer the ratio obtained, multiplied by 1000.]
 
-**Answer:** 1500
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2016#q16|src_gs_2016__Q16]]
 
 
 
@@ -649,29 +674,23 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1128
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*River's loaded die*
+*River's rigged die*
 
 ![[src_gs_2016__prob17.png]]
 
-> River's loaded die
-> River and Simon are sitting at a table; River holds a 6-sided die, with faces numbered from 1 to 6.
-> River: Simon! Look what Mum has given me!
-> Simon: What's that supposed to be? It's a perfectly ordinary 6-sided die.
-> River: NO! It's not ordinary at all.
-> Simon: What's so amazing about it?
-> River: It's a loaded die! I read on the box it came in that the probability of an odd number coming up is three times that of an even number coming up; the odd numbers come up with equal probability among themselves, and so do the even numbers.
-> Simon: If that's how you have fun... Let me use it. (He takes the die, rolls it three times and notes the three numbers that came up: 4, 5, 1.)
-> Simon: An even number came up straight away and the sum of the three numbers is 10, an even number... In my opinion it was a big rip-off.
-> River: You're wrong, you have witnessed something extraordinary. (He writes on a sheet the first four digits after the decimal point of the probability that, after three rolls, the sum of the digits is exactly 10.)
-> [Give as the answer what River wrote on the sheet.]
+> River's rigged die
+> River and Simon are sitting at a table; River is holding a six-sided die numbered from 1 to 6. River: Simon! Look at what Mom gave as a present! Simon: What is it? It's a perfectly ordinary six-sided die. River: No! It's not at all ordinary. Simon: What's so amazing about it? River: It's a rigged die! I read on the box it came in that the probability of an odd number coming up is three times that of an even number coming up; the odd numbers come up with equal probability relative to one another, and so do the even numbers. Simon: If that's how you have fun... Let me use it. (He takes the die, rolls it three times, and records the three numbers that come up: 4, 5, 1.) Simon: An even number came up right away, and the sum of the three numbers is 10, an even number... In my opinion, it was a real rip-off. River: You're wrong—you witnessed something extraordinary. (He writes on a sheet of paper the first four digits after the decimal point of the probability that, after three rolls, the sum of the digits will be exactly 10.) [Give as the answer what River wrote on the sheet.]
 
-**Answer:** 1128
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2016#q17|src_gs_2016__Q17]]
 
 
 
@@ -693,20 +712,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4255
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tuono's fourth doubt*
+*Thunder's Fourth Doubt*
 
 ![[src_gs_2016__prob18.png]]
 
-> Tuono's fourth doubt
-> Having determined the number n of functions f : R → R such that f(x + y) + x · y = f(x) · f(y) for all x, y in R, let F(x) = f\_1(x) · … · f\_n(x) be the product of the values of all these n functions computed at the argument x. What are the four digits before the decimal point of |F(2016)|?
+> Thunder's Fourth Doubt
+> Let n be the number of functions f : R → R such that f(x + y) + x · y = f(x) · f(y) for all x, y in R; let F(x) = f_1(x) · ... · f_n(x) be the product of the values of all such n functions evaluated at x. What are the four digits before the decimal point in |F(2016)|?
 
-**Answer:** 4255
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2016#q18|src_gs_2016__Q18]]
 
 
 
@@ -739,24 +761,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8900
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mal's safe (with a special guest appearance by Tuono as Book)*
+*Mal's safe*
 
 ![[src_gs_2016__prob19.png]]
 
-> Mal's safe (with a special guest appearance by Tuono as Book)
-> A safe is protected by a 4-digit code whose digits are not all equal. So that this combination is not lost, Mal gives three people information that is essential to recover it. To Jayne he gives the sum of the third and the fourth digit. To Book he gives the product of the second and the fourth digit and the sum of the first and the third digit. To Zoe he gives the sum of the first and the second digit. After some time, without ever exchanging information, the three meet and say:
-> I, JAYNE, KNOW THE THIRD AND THE FOURTH DIGIT OF THE COMBINATION.
-> I, BOOK, NOW KNOW THREE DIGITS AND THEIR EXACT POSITION, BUT I DO NOT KNOW THE WHOLE COMBINATION.
-> I, ZOE, NOW KNOW THE COMPLETE COMBINATION.
-> What is the code?
+> Mal's safe
+> (With the special participation of Tuono as Book) A safe is protected by a 4-digit code in which not all digits are the same. So that this combination is not lost, Mal gives three people information essential for recovering it. To Jayne, Mal gives the sum of the third and fourth digits. To Book, Mal gives the product of the second and fourth digits and the sum of the first and third digits. To Zoe, Mal gives the sum of the first and second digits. After some time has passed with no exchange of information, the three meet and say: "I, Jayne, know the third and fourth digits of the combination. I, Book, now know three digits and their exact positions, but I don't know the full combination. I, Zoe, now know the complete combination." What is the code?
 
-**Answer:** 8900
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2016#q19|src_gs_2016__Q19]]
 
 
 
@@ -778,7 +799,7 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0754
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -789,9 +810,12 @@ level: squadre
 ![[src_gs_2016__prob20.png]]
 
 > Energy for Serenity
-> A cube is made up of 343 smaller cubes, arranged in 7 layers of 49 small cubes each. To be able to extract a small cube there must be a free path from its position to the outside. To supply energy to the spaceship Serenity, Mal must extract exactly 116 small cubes, exposing the maximum obtainable surface. How many cm^2 is this maximum surface, knowing that the side of each small cube is 1 cm?
+> A cube is made up of 343 smaller cubes arranged in 7 layers of 49 cubes each. In order to extract a small cube, there must be an unobstructed path from its position to the outside. To supply power to the spaceship Serenity, Mal must extract exactly 116 cubes, exposing the maximum achievable surface area. Given that each small cube has a side length of 1 cm, what is the value of this maximum surface area in cm²?
 
-**Answer:** 0754
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2016#q20|src_gs_2016__Q20]]
 
 
 
@@ -819,23 +843,26 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1440
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The second busy robot*
+*The Second Busy Robot*
 
 ![[src_gs_2016__prob21.png]]
 
-> The second busy robot
-> On a 10 × 8 chessboard, a small robot is placed on the bottom-left square and faces the top-left square, the eighth. The robot can move on the chessboard using the following moves:
+> The Second Busy Robot
+> On a 10 × 8 chessboard, a small robot is positioned on the first square at the bottom left and is facing the top-left square, the eighth one. The robot can move across the chessboard using the following moves.
 > (a) move forward one square in the direction it is facing;
-> (b) turn 90° to its right and move forward one square in the direction it is facing.
-> The robot can choose which move to make, but it cannot leave the chessboard and cannot return to a square already visited. It stops only when it can no longer make a move respecting all the rules. How many paths can it make? [If the number is greater than 9999, give as the answer its last four digits.]
+> (b) turn 90° to its right and move forward one square in the direction it is facing
+> Directed. The robot can choose which move to make, but it cannot leave the chessboard and cannot return to a square it has already visited. It stops only when it can no longer make a move while obeying all the rules. How many paths can it take? [If the number is greater than 9999, give the last four digits of the number as the answer.]
 
-**Answer:** 1440
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2016#q21|src_gs_2016__Q21]]
 
 
 
@@ -861,20 +888,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 7959
-**Fonte:** [apri PDF p.8](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=8) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.8 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Wash's circle*
+*Wash's circumference*
 
 ![[src_gs_2016__prob22.png]]
 
-> Wash's circle
-> To pass the time while travelling in deep space, Wash draws a circle with a radius of 12 cm and marks 4 points A, B, C, D on the circle as follows. Having fixed A, he marks B so that AB is 9 cm long; then he marks D on the opposite side of B with respect to A so that AD is as long as the radius of the circle. At this point he draws the altitude of triangle ABD from vertex A and calls C the point of intersection of the altitude with the circle other than A. What is the ratio between the shorter and the longer diagonal of the quadrilateral ABCD? [Give as the answer the first four digits after the decimal point.]
+> Wash's circumference
+> Wash, to pass the time traveling through deep space, draws a circle with a radius of 12 cm and marks 4 points A, B, C, D on the circle as follows. With A fixed, mark B so that AB is 9 cm long; then mark D on the side opposite B with respect to A so that AD is as long as the radius of the circle. At this point, draw the altitude of triangle ABD from vertex A and denote by C the point where the altitude intersects the circle, other than A. What is the ratio of the shorter diagonal to the longer diagonal of quadrilateral ABCD? [Give as the answer the first four digits after the decimal point.]
 
-**Answer:** 7959
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2016#q22|src_gs_2016__Q22]]
 
 
 
@@ -902,7 +932,7 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7600
-**Fonte:** [apri PDF p.8](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=8) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.8 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -913,9 +943,12 @@ level: squadre
 ![[src_gs_2016__prob23.png]]
 
 > Playing Tri
-> Mal and Inara play Tri with a deck of thirteen cards, ten of which are numbered from 1 to 10 while the other three are face cards. In Tri the numbered cards have their numerical value, while the face cards are worth 10. The game goes as follows: Inara draws a card at random from the deck, then Mal in turn draws a card at random from the remaining twelve. If the value of Mal's card is divisible by the value of Inara's card, Mal wins; otherwise Mal draws a new card from the remaining ones in the deck. If the product of Mal's two cards is divisible by the value of Inara's card, Mal wins; and so on until Mal draws the fifth card; if he has not won even with the fifth card, Mal loses. What is the probability that Mal wins? [Give as the answer the first four digits after the decimal point of the result.]
+> Mal and Inara play Tri with a deck of thirteen cards, ten of which are numbered from 1 to 10 and the other three are face cards. In Tri, the numbered cards have their numerical value, while the face cards are worth 10. The game proceeds as follows: Inara draws a card at random from the deck, then Mal in turn draws a card at random from the remaining twelve. If Mal's card value is divisible by Inara's card value, Mal wins; otherwise, Mal draws a new card from the remaining cards in the deck. If the product of Mal's two cards is divisible by Inara's card value, Mal wins; this continues until Mal draws the fifth card; if Mal has not won with the fifth card either, Mal loses. What is the probability that Mal wins? [Give as the answer the first four digits after the decimal point of the result.]
 
-**Answer:** 7600
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2016#q23|src_gs_2016__Q23]]
 
 
 
@@ -951,17 +984,20 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3100
-**Fonte:** [apri PDF p.8](https://www.phiquadro.it/archivio/2016_4%20marzo%20-%20Gara%20.pdf#page=8) · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
+**Fonte:** apri PDF p.8 · phiquadro.it, Archivio gare ufficiali 2016 (= fairmath.it, Coppa Gauss 2016)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The island of Hol (with a special guest appearance by Tuono as Book)*
+*Hol Island*
 
 ![[src_gs_2016__prob24.png]]
 
-> The island of Hol (with a special guest appearance by Tuono as Book)
-> The 20 inhabitants of the small island of Hol on the planet Haven are divided into three types. There is the type of the sincere islanders, who always tell the truth; the type of the liar islanders, who always say what is false; and the type of the uncertain islanders, who conform to the ways of whoever is on their right, that is an uncertain islander says what is false if the islander on his right has said what is false, says what is true if the islander on his right has said what is true, and does not speak if there is no islander on his right. Having arrived on the planet, Book visits the island of Hol, lines up the islanders and sticks a number on the chest of each islander, in order from 1 to 20. Starting from the one closest to Book, one at a time and following the order of the line, the inhabitants answer and curiously all say the same sentence: «Exactly one.» On the basis of these answers Book is not able to tell which type each inhabitant of the island belongs to, but he immediately determines all the possible configurations in which sincere, liar and uncertain islanders can be lined up. How many such configurations are there? [A configuration differs from another if in the first there is at least one islander whose type is different from the type that the same islander has in the other.]
+> Hol Island
+> (with Tuono in a special guest role as Book) The 20 inhabitants of the small island of Hol on the planet Haven fall into three types. There are the sincere islanders, who always tell the truth; the lying islanders, who always tell falsehoods; and the uncertain islanders, who adapt to the ways of the person to their right—that is, an uncertain islander tells a falsehood if the islander to their right has told a falsehood; an uncertain islander tells the truth if the islander to their right has told the truth; an uncertain islander says nothing if there is no islander to their right. Upon arriving on the planet, Book visits the island of Hol, lines up the islanders, and sticks a number on each islander's chest, in order from 1 to 20. Starting with the one closest to Book, one at a time and following the order of the line, the inhabitants respond and, curiously, all say the same phrase: "Exactly one." Based on these responses, Book is unable to determine which type each of the island's inhabitants belongs to, but immediately determines all possible configurations in which sincere islanders, lying islanders, and uncertain islanders can be arranged in a line. How many such configurations are there? [A configuration differs from another if, in the first, there is at least one islander whose type is different from the type that same islander has in the other.]
 
-**Answer:** 3100
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2016#q24|src_gs_2016__Q24]]

@@ -32,13 +32,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Remplire 7 esagoni di mellifera con 1-7 (ogni una volta), somme adiacenti al massimo 10*
+*Modi di scrivere interi in un alveare di esagoni con somme adiacenti limitate*
 
-> Come mostrato nella figura, le cellule $7$ a esagono regolare sono disposte in un modello di pelliccia (una cellula centrale circondata da cellule $6$). Scrivi un intero da $1$ a $7$ in ogni cella, utilizzando ogni intero esattamente una volta, in modo che per ogni due celle che condividono un bordo la somma dei due numeri interi scritti in loro sia al massimo $10$. Quanti modi ci sono per farlo? Qui, due vie che coincidono sotto una rotazione o riflessione sono anche contate come distinte.
+> Come in figura, $7$ celle esagonali regolari sono disposte a nido d'ape (una cella centrale circondata da $6$ celle). Si scriva un intero da $1$ a $7$ in ogni cella, usando ogni intero esattamente una volta, in modo che per due celle qualunque che condividono un lato la somma dei due interi scritti sia al più $10$. In quanti modi si può fare? Qui due modi che coincidono per una rotazione o una riflessione si contano anche come distinti.
 
 ![[src_jmo35yqa_yosen__q01.png]]
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
 **Risposta:** 72
+[[Quesiti/src_jmo35yqa_yosen#q01|src_jmo35yqa_yosen__Q01]]
 
 
 
@@ -62,11 +66,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta quadrupli (a,b,c,d) di numeri interi positivi, abcd=2025, ab,bc,cd,da tutti i quadrati*
+*Quadruple di interi positivi per cui quattro espressioni sono quadrati perfetti*
 
-> Quante quadruple $(a,b,c,d)$ di numeri interi positivi soddisfano $abcd = 2025$ in modo tale che $ab$, $bc$, $cd$, $da$ siano tutti quadrati perfetti?
+> Quante quadruple $(a,b,c,d)$ di interi positivi soddisfano $abcd = 2025$ in modo che $ab$, $bc$, $cd$, $da$ siano tutti quadrati perfetti?
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Risposta:** 44
+[[Quesiti/src_jmo35yqa_yosen#q02|src_jmo35yqa_yosen__Q02]]
 
 
 
@@ -92,13 +100,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizionare sei pezzi a forma di supporto P1, P2, P4, P5, P7, P8 su una griglia da 10x10 senza sovrapposizione*
+*Modi di piazzare sei pezzi a staffa su una griglia, senza sovrapposizioni*
 
-> Per un numero intero positivo $n$, chiamare $P_n$ il pezzo costituito da cellule unità $3n+2$ con forma simile alla figura: una forma di supporto ($\sqcap$) costituita da una riga superiore di cellule $n+2$ insieme a due gambe verticali di cellule $n$ ognuna appesa dalle due estremità della riga superiore. Abbiamo uno per ogni sei pezzi $P_1, P_2, P_4, P_5, P_7, P_8$. In quanti modi questi pezzi $6$ possono essere posizionati su una griglia di celle $10 \times 10$, ciascun pezzo allineato alle celle e senza due pezzi che si sovrappongono? Qui, i pezzi possono essere rotati e due posizioni che coincidono sotto una rotazione o riflessione della griglia sono contate come distinte.
+> Per un intero positivo $n$, si chiami $P_n$ il pezzo formato da $3n+2$ caselle unitarie a forma della figura: una staffa ($\sqcap$) fatta di una riga superiore di $n+2$ caselle e di due gambe verticali di $n$ caselle ciascuna, che scendono dai due estremi della riga superiore. Si ha uno ciascuno dei sei pezzi $P_1, P_2, P_4, P_5, P_7, P_8$. In quanti modi si possono piazzare questi $6$ pezzi su una griglia $10 \times 10$ di caselle, ogni pezzo allineato alle caselle e senza che due pezzi si sovrappongano? Qui i pezzi si possono ruotare, e due piazzamenti che coincidono per una rotazione o una riflessione della griglia si contano come distinti.
 
 ![[src_jmo35yqa_yosen__q03.png]]
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Analisi per casi accurata]]
 **Risposta:** 512
+[[Quesiti/src_jmo35yqa_yosen#q03|src_jmo35yqa_yosen__Q03]]
 
 
 
@@ -122,11 +134,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi 1..1000 i cui restanti mod 2,3,4,5,6 sono separati in coppia*
+*Interi i cui resti in cinque divisioni sono a due a due distinti*
 
-> Quanti integri $n$ con $1 \le n \le 1000$ hanno la proprietà che i rimanenti ottenuti quando $n$ è diviso da $2$, $3$, $4$, $5$, $6$ rispettivamente sono pareggiamente distinti (nessuno di due è uguale)?
+> Quanti interi $n$ con $1 \le n \le 1000$ hanno la proprietà che i resti ottenuti dividendo $n$ rispettivamente per $2$, $3$, $4$, $5$, $6$ sono a due a due distinti (non ce ne sono due uguali)?
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 49
+[[Quesiti/src_jmo35yqa_yosen#q04|src_jmo35yqa_yosen__Q04]]
 
 
 
@@ -152,13 +168,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterali bicentrici, raggio incircolo 6; triangoli PBC, QCD inradii 5,3; trovare BC/CD*
+*Una lunghezza in un quadrilatero inscritto e circoscritto*
 
-> Un quadrilaterale $ABCD$ è inserito in un cerchio ed è circoscritto anche su un cerchio di raggio $6$. Il raggio $AB$ e il raggio $DC$ si incontrano a un punto $P$, e il raggio $AD$ e il raggio $BC$ si incontrano a un punto $Q$. Le inradii dei triangoli $PBC$ e $QCD$ sono rispettivamente $5$ e $3$. Trova $\dfrac{BC}{CD}$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Un quadrilatero $ABCD$ è inscritto in una circonferenza ed è anche circoscritto a una circonferenza di raggio $6$. Il raggio $AB$ e il raggio $DC$ si incontrano in un punto $P$, e il raggio $AD$ e il raggio $BC$ si incontrano in un punto $Q$. Gli inraggi dei triangoli $PBC$ e $QCD$ sono rispettivamente $5$ e $3$. Trovare $\dfrac{BC}{CD}$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 ![[src_jmo35yqa_yosen__q05.png]]
 
-**Risposta:** \frac{15}{11}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $\frac{15}{11}$
+[[Quesiti/src_jmo35yqa_yosen#q05|src_jmo35yqa_yosen__Q05]]
 
 
 
@@ -184,11 +204,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due sequenze di numeri interi positivi con ricorrenza a metà accoppiata; contare le coppie iniziali (a1,b1) entrambe al massimo 40*
+*Coppie iniziali di interi positivi per cui due successioni restano di interi positivi*
 
-> Ci sono due sequenze di interi positivi $a_1, a_2, \ldots$ e $b_1, b_2, \ldots$ in modo che per ogni intero positivo $n$, una delle seguenti sostengono: $$(a_{n+1}, b_{n+1}) = \left(\frac{a_n}{2},\, b_n + \frac{a_n}{2}\right) \quad \text{or} \quad (a_{n+1}, b_{n+1}) = \left(a_n + \frac{b_n}{2},\, \frac{b_n}{2}\right).$$ A questo punto, quante coppie $(a_1, b_1)$ di interi positivi, ciascuna al massimo $40$, possono verificarsi come coppia di partenza (cioè: in modo che entrambe le sequenze siano interamente composte da numeri interi positivi)?
+> Ci sono due successioni di interi positivi $a_1, a_2, \ldots$ e $b_1, b_2, \ldots$ tali che per ogni intero positivo $n$ vale una delle condizioni seguenti:
+>
+> $$(a_{n+1}, b_{n+1}) = \left(\frac{a_n}{2},\, b_n + \frac{a_n}{2}\right) \quad \text{or} \quad (a_{n+1}, b_{n+1}) = \left(a_n + \frac{b_n}{2},\, \frac{b_n}{2}\right).$$
+>
+> A questo punto, quante coppie $(a_1, b_1)$ di interi positivi, ciascuno al più $40$, possono comparire come coppia iniziale (cioè in modo che entrambe le successioni siano formate interamente da interi positivi)?
 
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Risposta:** 1064
+[[Quesiti/src_jmo35yqa_yosen#q06|src_jmo35yqa_yosen__Q06]]
 
 
 
@@ -214,11 +242,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Su una griglia di 20x25, riempire le curve scritte n lungo le catene adiacenti a destra/ascesa, riducendo al minimo le curve; contare i riempimenti finali*
+*Modi distinti di scrivere i numeri su una griglia quando Taro minimizza il numero di turni*
 
-> C'è una griglia di celle con righe $20$ e colonne $25$, tutte inizialmente vuote. Taro gioca una partita con questa griglia. Il gioco è diviso in diverse giri; alla volta $n$-th esegue la seguente operazione: sceglie un intero positivo $k$ e $k$ celle vuote $A_1, A_2, \ldots, A_k$ in modo tale che per ogni numero intero $i$ con $1 \le i \le k-1$, la cella $A_{i+1}$ sia adiacente a $A_i$ a destra o sopra di esso; quindi scrive $n$ in tutte le $k$ di queste celle. Il gioco finisce quando ogni cellula ha un numero scritto. Quando Taro agisce in modo da rendere il numero di giri fino a quando il gioco finisce il più piccolo possibile, quanti modi distinti possono essere scritti i numeri sulla griglia alla fine della partita? Qui, due scritti che coincidono sotto una rotazione o riflessione sono anche considerati come distinti.
+> C'è una griglia di caselle con $20$ righe e $25$ colonne, tutte inizialmente vuote. Taro gioca una partita con questa griglia. La partita è divisa in più turni; al $n$-esimo turno esegue l'operazione seguente.
+> Sceglie un intero positivo $k$ e $k$ caselle vuote $A_1, A_2, \ldots, A_k$ tali che per ogni intero $i$ con $1 \le i \le k-1$ la casella $A_{i+1}$ è adiacente a $A_i$ alla sua destra o sopra di essa; poi scrive $n$ in tutte queste $k$ caselle.
+> La partita finisce quando ogni casella ha un numero scritto. Quando Taro agisce in modo da rendere minimo il numero di turni fino alla fine della partita, in quanti modi distinti i numeri possono essere scritti sulla griglia alla fine della partita? Qui due scritture che coincidono per una rotazione o una riflessione si contano anche come distinte.
 
-**Risposta:** 20!^3
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Risposta:** $20!^3$
+[[Quesiti/src_jmo35yqa_yosen#q07|src_jmo35yqa_yosen__Q07]]
 
 
 
@@ -246,11 +280,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Belle sequenze di numeri interi contenenti 2025 con condizione di convexità; tra la lunghezza massima N trovare min a_N*
+*Minimo valore possibile in una successione bella di lunghezza massima*
 
-> Per un numero intero $n \ge 3$, una sequenza di numeri interi $a_1, a_2, \ldots, a_n$ è chiamata bella se tutte le seguenti condizioni sono valide: - $0 = a_1 < a_2 < \cdots < a_n$; - esiste un numero intero $i$ con $1 \le i \le n$ in modo tale che $a_i = 2025$; - per tutti i numeri interi $i, j, k$ con $i < j < k$, la disuguaglianza $\dfrac{a_i + a_k}{2} \le a_j$ è valida. Lasciate che $N$ sia la lunghezza più grande possibile di una sequenza bella. Tra le belle sequenze $a_1, a_2, \ldots, a_N$ di lunghezza $N$, trova il minimo valore possibile di $a_N$. Qui, la lunghezza di una sequenza $x_1, x_2, \ldots, x_l$ è $l$.
+> Per un intero $n \ge 3$, una successione di interi $a_1, a_2, \ldots, a_n$ si dice bella se valgono tutte le condizioni seguenti:
+> - $0 = a_1 < a_2 < \cdots < a_n$;
+> - esiste un intero $i$ con $1 \le i \le n$ tale che $a_i = 2025$;
+> - per tutti gli interi $i, j, k$ con $i < j < k$ vale la disuguaglianza $\dfrac{a_i + a_k}{2} \le a_j$.
+> Sia $N$ la massima lunghezza possibile di una successione bella. Tra le successioni belle $a_1, a_2, \ldots, a_N$ di lunghezza $N$, trovare il minimo valore possibile di $a_N$. Qui la lunghezza di una successione $x_1, x_2, \ldots, x_l$ è $l$.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 2057
+[[Quesiti/src_jmo35yqa_yosen#q08|src_jmo35yqa_yosen__Q08]]
 
 
 
@@ -274,11 +316,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto, circoncentro O, piede D da A; angolo AOD=90, OD=4sqrt7, AP=11; trovare EF*
+*Lunghezza di un segmento in un triangolo acutangolo, dato il circocentro*
 
-> C'è un triangolo acuto $ABC$ con il circoncentro $O$. Il $D$ deve essere il piede della perpendicolare da $A$ a lato $BC$. Si ritiene che $\angle AOD = 90^\circ$ e $OD = 4\sqrt{7}$. I piedi $E$ e $F$ devono essere i piedi delle perpendicolari da $D$ ai lati $AB$ e $AC$ rispettivamente. Il segmento $AO$ e il segmento $EF$ si incontrano in un punto $P$ e $AP = 11$. Trova la lunghezza $EF$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> C'è un triangolo acutangolo $ABC$ di circocentro $O$. Sia $D$ il piede della perpendicolare da $A$ al lato $BC$. Valgono $\angle AOD = 90^\circ$ e $OD = 4\sqrt{7}$. Siano $E$ e $F$ i piedi delle perpendicolari da $D$ rispettivamente ai lati $AB$ e $AC$. Il segmento $AO$ e il segmento $EF$ si incontrano in un punto $P$, e $AP = 11$. Trovare la lunghezza $EF$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-**Risposta:** 2\sqrt{61}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $2\sqrt{61}$
+[[Quesiti/src_jmo35yqa_yosen#q09|src_jmo35yqa_yosen__Q09]]
 
 
 
@@ -302,11 +348,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggiare funzioni f:S->S su {0..8} con f(x) f(y)-f(z)) divisibile per 9 ogni volta che 9  x+y-z*
+*Funzioni che conservano la divisibilità per un intero*
 
-> Let $S = \{0, 1, 2, \ldots, 8\}$. Considera le funzioni $f$ definite su $S$ e prendendo valori in $S$ in modo tale che, per tutti gli elementi $x, y, z$ di $S$, se $x + y - z$ è un multiple di $9$, allora $f(x)\,f(y) - f(f(z))$ è anche un multiple di $9$. Quante funzioni $f$ esistono?
+> Sia $S = \{0, 1, 2, \ldots, 8\}$. Si considerino le funzioni $f$ definite su $S$ e a valori in $S$ tali che, per tutti gli elementi $x, y, z$ di $S$, se $x + y - z$ è un multiplo di $9$ allora anche $f(x)\,f(y) - f(f(z))$ è un multiplo di $9$. Quante sono tali funzioni $f$?
 
+**Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Risposta:** 858
+[[Quesiti/src_jmo35yqa_yosen#q10|src_jmo35yqa_yosen__Q10]]
 
 
 
@@ -336,13 +386,21 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Operazione di diffusione dell'importanza del grafico diretto "cluster stellare"; somma delle importazioni di stelle costruite nel 100° passo*
+*Somma delle importanze delle stelle costruite a una data operazione*
 
-> Un ammasso stellare chiamato JMO è inizialmente composto da stelle $5$ $O, A, B, C, D$, a ciascuna stella viene assegnato un valore chiamato sua importanza. L'importanza di $O$ è $0$ e le importazioni di $A, B, C, D$ sono ciascuna $1$. Inoltre, i voli diretti unidirezionali sono aperti come segue, e nessun altro: da $O$ a $A$ e a $C$; da $A$ a $B$ e a $D$; da $B$ a $O$; da $C$ a $B$ e a $D$; da $D$ a $O$. Per impedire che le stelle del gruppo JMO invecchiino, viene eseguita periodicamente la seguente sequenza di azioni (una operazione): (1) Abolire tutti i voli diretti correnti e distruggere tutte le stelle. (2) Per ogni volo diretto $f$ abolito in (1), costruire una stella corrispondente $S_f$. Poi, come importanza di $S_f$, assegnare la somma delle importanze della stella da cui $f$ parte e della stella a cui $f$ arriva. (3) Per ogni coppia di voli diretti $(f, f')$ aboliti in (1) in modo tale che la stella a cui $f$ arriva coincida con la stella da cui $f'$ parte, aprire un volo diretto unidirezionale da $S_f$ a $S_{f'}$. Trova la somma delle importanze di tutte le stelle costruite nell'operazione $100$-th.
+> Un ammasso di stelle detto JMO è formato inizialmente da $5$ stelle $O, A, B, C, D$, e a ogni stella è assegnato un valore detto importanza. L'importanza di $O$ è $0$, e le importanze di $A, B, C, D$ sono ciascuna $1$. Inoltre sono aperti voli diretti a senso unico come segue, e non altri: da $O$ a $A$ e a $C$; da $A$ a $B$ e a $D$; da $B$ a $O$; da $C$ a $B$ e a $D$; da $D$ a $O$. Per impedire che le stelle dell'ammasso JMO invecchino, si esegue periodicamente la sequenza di azioni seguente (una operazione):
+> (1) si aboliscono tutti i voli diretti attuali e si distruggono tutte le stelle;
+> (2) per ogni volo diretto $f$ abolito in (1), si costruisce una stella corrispondente $S_f$. Poi, come importanza di $S_f$, si assegna la somma delle importanze della stella da cui parte $f$ e della stella a cui arriva $f$;
+> (3) per ogni coppia $(f, f')$ di voli diretti aboliti in (1) tali che la stella a cui arriva $f$ coincide con la stella da cui parte $f'$, si apre un volo diretto a senso unico da $S_f$ a $S_{f'}$.
+> Trovare la somma delle importanze di tutte le stelle costruite nella $100$-esima operazione.
 
 ![[src_jmo35yqa_yosen__q11.png]]
 
-**Risposta:** \frac{2^{68}(2^{102}-1)}{3}
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Risposta:** $\frac{2^{68}(2^{102}-1)}{3}$
+[[Quesiti/src_jmo35yqa_yosen#q11|src_jmo35yqa_yosen__Q11]]
 
 
 
@@ -366,8 +424,12 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono ciclico ABCDE, AC=AD, BC < in P; riflettere sulle 5 linee laterali; trovare P1P3/P1P5*
+*Un valore in un pentagono inscritto, dati i simmetrici di un punto*
 
-> Un pentagono $ABCDE$ è inserito in un cerchio $\Omega$ e soddisfa $AC = AD$ e $BC \parallel DE$. Prendi un punto $P$ sull'arco $CD$ di $\Omega$ che non contiene $A$ e lascia $P_1, P_2, P_3, P_4, P_5$ essere il riflesso di $P$ attraverso le linee $AB$, $BC$, $CD$, $DE$ e $EA$ rispettivamente. Si ritiene che $PC : PD = P_1 P_2 : P_4 P_5 = 2 : 3$ e $CD : P_2 P_4 = 4\sqrt{2} : 11$. Trova il valore di $\dfrac{P_1 P_3}{P_1 P_5}$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Un pentagono $ABCDE$ è inscritto in una circonferenza $\Omega$ e soddisfa $AC = AD$ e $BC \parallel DE$. Si prenda un punto $P$ sull'arco $CD$ di $\Omega$ che non contiene $A$, e siano $P_1, P_2, P_3, P_4, P_5$ i simmetrici di $P$ rispettivamente rispetto alle rette $AB$, $BC$, $CD$, $DE$, $EA$. Valgono $PC : PD = P_1 P_2 : P_4 P_5 = 2 : 3$ e $CD : P_2 P_4 = 4\sqrt{2} : 11$. Trovare il valore di $\dfrac{P_1 P_3}{P_1 P_5}$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-**Risposta:** \frac{\sqrt{37}}{10}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $\frac{\sqrt{37}}{10}$
+[[Quesiti/src_jmo35yqa_yosen#q12|src_jmo35yqa_yosen__Q12]]

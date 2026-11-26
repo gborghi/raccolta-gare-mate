@@ -35,17 +35,20 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many seats on the stages of a theatre from 960*
+*Seats in the boxes of a 960-seat theatre*
 
-> A theatre has 960 seats, divided into three sections: auditorium, stage, gallery. There are 370 seats in the audience, while the number of seats in the gallery is 290 less than on the stages. How many seats are on the stages?
+> A theatre has 960 seats, divided into three sections: the stalls, the boxes and the gallery. The stalls have 370 seats, while the gallery has 290 fewer seats than the boxes. How many seats are there in the boxes?
 >
 > - **(A)** 150
 > - **(B)** 390
 > - **(C)** 315
 > - **(D)** 140
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1999_2livello#q01|src_archimede_1999_2livello__Q01]]
 
 
 
@@ -74,17 +77,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many real solutions does the system have x2y=150, x3y2=4500
+*Number of real solutions of the system*
 
-> How many real solutions does the $$\begin{cases} x^2 y = 150 \\ x y^2 = 1500 \end{cases}$$ system have
+> How many real solutions does the system
+> $$\begin{cases} x^2 y = 150 \\ x y^2 = 1500 \end{cases}$$
+> have?
 >
-> - **(A)** None of them .
-> - **(B)** One .
-> - **(C)** more than one, but less than five
-> - **(D)** a finite number, but at least five
-> - **(E)** I'm not going to end it.
+> - **(A)** none
+> - **(B)** one
+> - **(C)** more than one, but fewer than five
+> - **(D)** finitely many, but at least five
+> - **(E)** infinitely many.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_1999_2livello#q02|src_archimede_1999_2livello__Q02]]
 
 
 
@@ -115,17 +122,22 @@ How many real solutions does the system have x2y=150, x3y2=4500
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the region defined by circle and strip*
+*Area of the region defined by a disk and a strip*
 
-> Determine the area of the plan part defined by $$\begin{cases} x^2 + y^2 - 4y \leq 0 \\ x^2 - 4x + 3 \geq 0 \end{cases}$$
+> Find the area of the region of the plane defined by
+> $$\begin{cases} x^2 + y^2 - 4y \leq 0 \\ x^2 - 4x + 3 \geq 0 \end{cases}$$
 >
 > - **(A)** $\dfrac{2\pi}{3} - 2$
 > - **(B)** $\pi - \sqrt{3}$
 > - **(C)** $\dfrac{\pi}{2} - \dfrac{\sqrt{3}}{2}$
 > - **(D)** $\dfrac{4\pi}{3} - \sqrt{3}$
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_analitica|Analytic geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1999_2livello#q03|src_archimede_1999_2livello__Q03]]
 
 
 
@@ -154,17 +166,20 @@ How many real solutions does the system have x2y=150, x3y2=4500
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of cylinder and cone side surfaces equal*
+*Ratio of the lateral areas of a matching cylinder and cone*
 
-> A straight cylinder $X$ and a straight cone $Y$ have the same base radius and the same height. Then the ratio between the lateral surfaces of $X$ and $Y$:
+> A right cylinder $X$ and a right cone $Y$ have the same base radius and the same height. Then the ratio of the lateral surface areas of $X$ and $Y$:
 >
-> - **(A)** It's always equal to the ratio of their volumes.
-> - **(B)** can be equal to the ratio of their volumes (depending on altitude)
-> - **(C)** is always $\frac{2}{3}$ of their volume ratio
-> - **(D)** It's always greater than the ratio of their volumes.
-> - **(E)** It's always less than the ratio of their volumes.
+> - **(A)** is always equal to the ratio of their volumes
+> - **(B)** may equal the ratio of their volumes (it depends on the heights)
+> - **(C)** is always $\frac{2}{3}$ of the ratio of their volumes
+> - **(D)** is always greater than the ratio of their volumes
+> - **(E)** is always less than the ratio of their volumes.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1999_2livello#q04|src_archimede_1999_2livello__Q04]]
 
 
 
@@ -193,17 +208,20 @@ How many real solutions does the system have x2y=150, x3y2=4500
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Identify the relative in the family relationship of Alberto*
+*Which relative fits Alberto's kinship chain*
 
-> One of the following persons is "the brother-in-law of Alberto's father's daughter-in-law's brother". This is:
+> One of the following people is "the uncle of the brother of the daughter of the daughter-in-law of Alberto's father". It is:
 >
-> - **(A)** Albert himself
-> - **(B)** his father.
+> - **(A)** Alberto himself
+> - **(B)** his father
 > - **(C)** his grandfather
-> - **(D)** his son.
-> - **(E)** His father-in-law.
+> - **(D)** his son
+> - **(E)** his father-in-law.
 
-**Answer:** A
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_1999_2livello#q05|src_archimede_1999_2livello__Q05]]
 
 
 
@@ -234,11 +252,9 @@ How many real solutions does the system have x2y=150, x3y2=4500
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded area with known radius circumference*
+*Shaded area with circles of known radius*
 
-![[src_archimede_1999_2livello__prob6.png]]
-
-> Determine the area of the shaded part, knowing that the largest circumference is radius 1. (see figure)
+> Determine the area of the shaded part, knowing that the largest circle has radius 1. (see figure)
 >
 > - **(A)** $(2 + \pi)(1 + \sqrt{2})$
 > - **(B)** $(2 + \pi)(2 - \sqrt{2})$
@@ -246,7 +262,10 @@ How many real solutions does the system have x2y=150, x3y2=4500
 > - **(D)** $(1 - \pi)(3 - 2\sqrt{2})$
 > - **(E)** $(\sqrt{2} + \pi)(1 + 2\sqrt{2})$.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1999_2livello#q06|src_archimede_1999_2livello__Q06]]
 
 
 
@@ -275,17 +294,20 @@ How many real solutions does the system have x2y=150, x3y2=4500
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True statement with quantifiers in the rationales*
+*Which quantified statement is true over the rationals*
 
 > Which of the following statements is true in the set of rational numbers?
 >
-> - **(A)** For each $x$ there is a $y$ such that for each $z$ there is $x + y + z = x$
-> - **(B)** For each $x$ there is a $y$ such that for each $z$ there is $x + y + z = z$
-> - **(C)** For each $x$ there is a $y$ such that for each $z$ there is $xyz = x$
-> - **(D)** For each $x$ there is a $y$ such that for each $z$ there is $xyz = z$
-> - **(E)** None of the above statements are correct.
+> - **(A)** for every $x$ there is a $y$ such that for every $z$ one has $x + y + z = x$
+> - **(B)** for every $x$ there is a $y$ such that for every $z$ one has $x + y + z = z$
+> - **(C)** for every $x$ there is a $y$ such that for every $z$ one has $xyz = x$
+> - **(D)** for every $x$ there is a $y$ such that for every $z$ one has $xyz = z$
+> - **(E)** none of the previous statements is correct.
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_1999_2livello#q07|src_archimede_1999_2livello__Q07]]
 
 
 
@@ -314,9 +336,9 @@ How many real solutions does the system have x2y=150, x3y2=4500
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the number that is divided by the mcm of the integers 1.100*
+*Which number divides the least common multiple of the integers 1..100*
 
-> Be $M$ the common minimum multiple of all integers between 1 and 100. Which of the following numbers is a divisor of $M$?
+> Let $M$ be the least common multiple of all the integers between 1 and 100. Which of the following numbers is a divisor of $M$?
 >
 > - **(A)** 1990
 > - **(B)** 2000
@@ -324,7 +346,10 @@ How many real solutions does the system have x2y=150, x3y2=4500
 > - **(D)** 2001
 > - **(E)** 2020.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_1999_2livello#q08|src_archimede_1999_2livello__Q08]]
 
 
 
@@ -353,17 +378,20 @@ How many real solutions does the system have x2y=150, x3y2=4500
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Positive integer solutions of x^x - 2^x - x2 = 10*
+*Number of positive integer solutions of the equation*
 
-> How many positive integer solutions of the $x^x - 2x - x^2 = 0$ equation are there?
+> How many positive integer solutions does the equation $x^x - 2x - x^2 = 0$ have?
 >
-> - **(A)** None of them .
-> - **(B)** One .
+> - **(A)** none
+> - **(B)** one
 > - **(C)** two
-> - **(D)** more than two, but a finite number
-> - **(E)** I'm not going to end it.
+> - **(D)** more than two, but finitely many
+> - **(E)** infinitely many.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_1999_2livello#q09|src_archimede_1999_2livello__Q09]]
 
 
 
@@ -393,17 +421,21 @@ How many real solutions does the system have x2y=150, x3y2=4500
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Isosceles trapezoidal area with diagonal and angle data*
+*Area of an isosceles trapezoid given a diagonal and an angle*
 
-> In an isosceles trapezoid, a diagonal is 22 cm long; it is also known that such a diagonal forms an angle of $45°$ with the major base. How much is the area of the trapezoid?
+> In an isosceles trapezoid, one diagonal is 22 cm long; moreover, that diagonal makes an angle of $45°$ with the longer base. What is the area of the trapezoid?
 >
 > - **(A)** $121\text{ cm}^2$
 > - **(B)** $242\text{ cm}^2$
 > - **(C)** $484\text{ cm}^2$
-> - **(D)** The data are insufficient.
-> - **(E)** None of the previous ones.
+> - **(D)** the data are insufficient
+> - **(E)** none of the above.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1999_2livello#q10|src_archimede_1999_2livello__Q10]]
 
 
 
@@ -431,17 +463,19 @@ How many real solutions does the system have x2y=150, x3y2=4500
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time setting with maximum likelihood of avoiding the last hour*
+*Daily split most likely to avoid the last hour*
 
-> Professor Scappavia teaches mathematics at a school where classes are given six hours a day, Monday through Friday. Her weekly teaching schedule is 18 hours and she would like to never teach in the last hour of class for personal reasons. However, the timetable committee only allows the professor to choose the daily breakdown of her working hours, after which her time will be randomly drawn. Which of the following arrangements should the professor choose so that she is most likely to never have the last hour of class?
+> Professor Scappavia teaches mathematics at a school where there are 6 hours of lessons a day, from Monday to Friday. Her weekly timetable comprises 18 teaching hours, and for personal reasons she would prefer never to teach in the last hour of lessons. The committee that draws up the timetable, however, allows her only to choose how her working hours are split among the days; after that, her timetable will be drawn at random. Which of the following arrangements should she choose in order to have the greatest probability of never having the last hour of lessons?
 >
 > - **(A)** $5\text{-}5\text{-}4\text{-}2\text{-}2$
 > - **(B)** $5\text{-}4\text{-}4\text{-}3\text{-}2$
 > - **(C)** $4\text{-}4\text{-}4\text{-}4\text{-}2$
 > - **(D)** $4\text{-}4\text{-}4\text{-}3\text{-}3$
-> - **(E)** They're all equivalent.
+> - **(E)** they are all equivalent.
 
-**Answer:** D
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+[[Quesiti/src_archimede_1999_2livello#q11|src_archimede_1999_2livello__Q11]]
 
 
 
@@ -470,9 +504,9 @@ How many real solutions does the system have x2y=150, x3y2=4500
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of power tower sum units of 2*
+*Units digit of the sum of towers of powers of 2*
 
-> What is the unit number of the number $2^{2^1} + 2^{2^2} + 2^{2^3} + 2^{2^4} + \ldots + 2^{2^{100}}$?
+> What is the units digit of the number $2^{2^1} + 2^{2^2} + 2^{2^3} + 2^{2^4} + \ldots + 2^{2^{100}}$?
 >
 > - **(A)** 0
 > - **(B)** 2
@@ -480,7 +514,10 @@ How many real solutions does the system have x2y=150, x3y2=4500
 > - **(D)** 6
 > - **(E)** 8.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_1999_2livello#q12|src_archimede_1999_2livello__Q12]]
 
 
 
@@ -504,11 +541,15 @@ How many real solutions does the system have x2y=150, x3y2=4500
 <div class="qlang-split" data-lang="en"></div>
 
 
-Places in the sprint that make Cipollini win
+*Sprint placements that make Cipollini win*
 
-> Nine competitors take part in a points race on the track. For each intermediate goal, 9 points are awarded to the first, 8 to the second, 7 to the third and so on until 1 point is awarded to the last. Prior to the last sprint (in which the awarded score is double) the ranking saw Abdujaparov in command with 7 points lead over Boardman and 9 over Cipollini. The other competitors have such a set of points that they can no longer win the competition. How many different possible placements of the three runners in the last sprint allow Cipollini to win the race?
+> In a points race on a track, nine competitors take part. At each intermediate finish line, 9 points are awarded to first, 8 to second, 7 to third and so on, down to 1 point for last. Before the final sprint (in which the awarded score is doubled) the standings have Abdujaparov leading with a 7-point advantage over Boardman and 9 over Cipollini. The other competitors are so far behind in points that they can no longer win the race. How many different placements of the three runners in the final sprint allow Cipollini to win the race?
 
-**Answer:** 30
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1999_2livello#q13|src_archimede_1999_2livello__Q13]]
 
 
 
@@ -531,11 +572,14 @@ Places in the sprint that make Cipollini win
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural with 3 digits on base 10 and 7 on base 2*
+*Natural numbers with 3 digits in base 10 and 7 in base 2*
 
-> How many natural numbers are on base 10 written with three digits and on base 2 written with seven digits?
+> How many natural numbers are written with 3 digits in base 10 and with 7 digits in base 2?
 
-**Answer:** 28
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_1999_2livello#q14|src_archimede_1999_2livello__Q14]]
 
 
 
@@ -560,13 +604,14 @@ Places in the sprint that make Cipollini win
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Turn the wheel to restore the system to initial operation*
+*Wheel rotations needed for the system to return to its initial position*
 
-![[src_archimede_1999_2livello__prob15.png]]
+> Four wheels $a$, $b$, $c$, $d$ connected by a belt and having radii 14, 15, 16 and 18 respectively are arranged as in the figure so that the system is free to rotate without the belt slipping. After how many rotations of wheel $a$ does the system return for the first time to its initial position? (see figure)
 
-> Four wheels $a$, $b$, $c$, $d$ connected by a belt and having beams 14, 15, 16 and 18 respectively shall be arranged as shown in the figure so that the system is free to rotate without the belt slipping. After how many turns of the $a$ wheel does the system return to its initial position for the first time? (see figure)
 
-**Answer:** 360
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_1999_2livello#q15|src_archimede_1999_2livello__Q15]]
 
 
 
@@ -591,13 +636,16 @@ Places in the sprint that make Cipollini win
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many fish has Andrea caught (reduction of 38%)*
+*How many fish did Andrea catch (reductions of 38%)*
 
-> **PROOF EXERCISE**
-> 
-> Andrea comes back from fishing with a bag full of fish. When he gets home, he gives the biggest of his two cats the three biggest fishes, thus reducing the weight of the bag by 38 percent. At this point he gives the other cat the three smaller fishes: thus the weight of the bag is reduced again by 38% (compared to the weight after the first cat's nutrition). How many fish did Andrea catch? (The weight of the bag is neglected compared to that of the fish).
+> **DEMONSTRATION EXERCISE**
+>
+> Andrea returns from fishing with a bag full of fish. Upon arriving home, he gives the larger of his two cats the three biggest fish: in doing so, the weight of the bag is reduced by 38%. At this point he gives the other cat the three smallest fish: in doing so, the weight of the bag is reduced again by 38% (relative, however, to the weight after feeding the first cat). How many fish did Andrea catch? (The weight of the bag is to be neglected compared with that of the fish).
 
-**Answer:** 10
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1999_2livello#q16|src_archimede_1999_2livello__Q16]]
 
 
 
@@ -622,8 +670,14 @@ Places in the sprint that make Cipollini win
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pentagon inscribed with diagonal parallel sides is regular*
+*A cyclic pentagon whose diagonals are parallel to sides is regular*
 
 > **PROOF EXERCISE**
-> 
-> To demonstrate that a pentagon is inscribed in a circumference such that each of its diagonal is parallel to one side, is necessarily regular.
+>
+> Prove that a pentagon inscribed in a circle and such that each of its diagonals is parallel to a side is necessarily regular.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1999_2livello#q17|src_archimede_1999_2livello__Q17]]

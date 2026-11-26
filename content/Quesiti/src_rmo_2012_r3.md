@@ -30,11 +30,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo inciso che tocca due quadranti e un lato di quadrato unitario*
+*Cerchio inscritto tangente a due archi di quadrante e a un lato di un quadrato unitario*
 
-> Lasciate che $ABCD$ sia un quadrato unitario. Disegnare un quadrante di un cerchio con $A$ come centro e $B$, $D$ come punti finali dell'arco. Allo stesso modo, disegnare un quadrante di un cerchio con $B$ come centro e $A$, $C$ come punti finali dell'arco. Inserire un cerchio $\Gamma$ che tocchi gli archi $AC$ e $BD$ sia esternamente che sul lato $CD$. Trova il raggio del cerchio $\Gamma$.
+> Sia $ABCD$ un quadrato unitario. Traccia un quadrante di cerchio con centro in $A$ e con $B$, $D$ come estremi dell'arco. Analogamente, traccia un quadrante di cerchio con centro in $B$ e con $A$, $C$ come estremi dell'arco. Inscrivi un cerchio $\Gamma$ che tocchi esternamente entrambi gli archi $AC$ e $BD$ e che tocchi anche il lato $CD$. Determinare il raggio del cerchio $\Gamma$.
 
 ![[src_rmo_2012_r3__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2012_r3#q01|src_rmo_2012_r3__Q01]]
 
 
 
@@ -57,9 +63,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Divisibilità: abc divide (a+b+c)^31 data divisibilità incatenata*
+*Divisibilità: abc divide (a+b+c)^31 data la divisibilità a catena*
 
-> Lasciate che $a, b, c$ siano integri positivi in modo tale che $a$ divida $b^2$, $b$ divida $c^2$ e $c$ divida $a^2$. Provare che $abc$ divide $(a + b + c)^{31}$.
+> Siano $a, b, c$ numeri interi positivi tali che $a$ divida $b^2$, $b$ divida $c^2$ e $c$ divida $a^2$. Dimostrare che $abc$ divide $(a + b + c)^{31}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2012_r3#q02|src_rmo_2012_r3__Q02]]
 
 
 
@@ -82,9 +95,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove a^a b^b + b^a a^b ≤ 1 per i risultati positivi a+b=1*
+*Dimostrare che a^a b^b + b^a a^b ≤ 1 per numeri reali positivi a, b tali che a+b=1*
 
-> $a$ e $b$ siano numeri reali positivi come $a + b = 1$. Prove che $a^a b^b + b^a a^b \le 1$.
+> Siano $a$ e $b$ numeri reali positivi tali che $a + b = 1$. Dimostrare che $a^a b^b + b^a a^b \le 1$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2012_r3#q03|src_rmo_2012_r3__Q03]]
 
 
 
@@ -107,9 +127,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conte di coppie {A,B} di sottoinsiemi di {1,...,10} con intersezione fissa {5,7,8}*
+*Conta le coppie {A,B} di sottoinsiemi di {1,...,10} aventi intersezione fissa {5,7,8}*
 
-> Let $X = \{1, 2, 3, \ldots, 10\}$. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{5, 7, 8\}$.
+> Sia $X = \{1, 2, 3, \ldots, 10\}$. Determinare il numero di coppie $\{A, B\}$ tali che $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{5, 7, 8\}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2012_r3#q04|src_rmo_2012_r3__Q04]]
 
 
 
@@ -134,11 +161,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio di superficie del triangolo APQ a quadrilaterale PDEQ in triangolo con base trisectata*
+*Rapporto tra l'area del triangolo APQ e l'area del quadrilatero PDEQ in un triangolo con la base trisecata*
 
-> Lasciate che $ABC$ sia un triangolo. Se il segmento $D$, $E$ sono punti del segmento $BC$ in modo tale che $BD = DE = EC$. $F$ sia il punto medio di $AC$. In $P$ $BF$ $AD$ e in $Q$ $AE$ si intersecano rispettivamente. Determinare il rapporto tra la superficie del triangolo $APQ$ e quella del quadrilaterale $PDEQ$.
+> Sia $ABC$ un triangolo. Siano $D$, $E$ dei punti sul segmento $BC$ tali che $BD = DE = EC$. Sia $F$ il punto medio di $AC$. Siano $BF$ e $AE$ incidenti rispettivamente a $AD$ in $P$ e a $Q$. Determinare il rapporto tra l'area del triangolo $APQ$ e l'area del quadrilatero $PDEQ$.
 
 ![[src_rmo_2012_r3__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2012_r3#q05|src_rmo_2012_r3__Q05]]
 
 
 
@@ -161,6 +195,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi n in modo che 3^{2n}+3n^2+7 sia un quadrato perfetto*
+*Trovare tutti gli interi positivi n tali che 3^{2n}+3n^2+7 sia un quadrato perfetto*
 
-> Trovare tutti gli integri positivi $n$ in modo che $3^{2n} + 3n^2 + 7$ sia un quadrato perfetto.
+> Trovare tutti gli interi positivi $n$ tali che $3^{2n} + 3n^2 + 7$ sia un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2012_r3#q06|src_rmo_2012_r3__Q06]]

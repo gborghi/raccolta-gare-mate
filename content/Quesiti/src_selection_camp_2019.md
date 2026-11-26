@@ -29,9 +29,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I coppie (n,k) in cui alcuni s danno sn, sk uguale numero di divisori*
+*Coppie (n,k) in cui qualche s fa sì che sn e sk abbiano lo stesso numero di divisori*
 
-> Trovare tutte le coppie $(n, k)$ di integri positivi con $n \neq k$ che soddisfano la seguente condizione: esiste un intero positivo $s$ tale che il numero di divisori positivi di $sn$ sia uguale al numero di divisori positivi di $sk$.
+> Trovare tutte le coppie $(n, k)$ di interi positivi con $n \neq k$ che soddisfano la seguente condizione: esiste un intero positivo $s$ tale che il numero di divisori positivi di $sn$ è uguale al numero di divisori positivi di $sk$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2019#q01|src_selection_camp_2019__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max di a_2018 - a_2017 per una ricorrenza media*
+*Massimo di a_2018 - a_2017 per una ricorrenza di media*
 
-> Che $a_0, a_1, a_2, \ldots$ sia una sequenza reale che soddisfi $a_0 = 0$ e $a_1 = 1$. Supponiamo che per ogni intero $n$ con $n \ge 2$ esista un intero $k$ con $1 \le k \le n$ tale che $$a_n = \frac{a_{n-1} + a_{n-2} + \cdots + a_{n-k}}{k}.$$ Trova il valore massimo possibile di $a_{2018} - a_{2017}$.
+> Sia $a_0, a_1, a_2, \ldots$ una successione reale che soddisfa $a_0 = 0$ e $a_1 = 1$. Si supponga che, per ogni intero $n$ tale che $n \ge 2$, esista un intero $k$ tale che $1 \le k \le n$, in modo che
+> $$a_n = \frac{a_{n-1} + a_{n-2} + \cdots + a_{n-k}}{k}.$$
+> Trovare il valore massimo possibile di $a_{2018} - a_{2017}$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2019#q02|src_selection_camp_2019__Q02]]
 
 
 
@@ -81,9 +97,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo da perpendicolari ai circoncenti di AOP, BOP, COP tangente a OP*
+*Triangolo formato dalle perpendicolari nei circocentri di AOP, BOP, COP, tangenti a OP*
 
-> Il $ABC$ deve essere un triangolo acuto con il centro circostante $O$ e il circoncircolo $\Omega$. Il $P$ deve essere un punto su $\Omega$ diverso da $A$, $B$, $C$ e diverso dai riflessi di $A$, $B$, $C$ in $O$. I circoncenti dei triangoli $AOP$, $BOP$ e $COP$ siano rispettivamente $O_A$, $O_B$ e $O_C$. Le linee $l_A$, $l_B$, $l_C$ siano le linee che attraversano $O_A$, $O_B$, $O_C$ e perpendicolari rispettivamente a $BC$, $CA$ e $AB$. Prova che il circoncircolo del triangolo formato dalle linee $l_A$, $l_B$, $l_C$ è tangente alla linea $OP$.
+> Sia $ABC$ un triangolo acutangolo con centro della circonferenza circoscritta $O$ e circonferenza circoscritta $\Omega$. Sia $P$ un punto appartenente a $\Omega$ diverso da $A$, $B$, $C$ e diverso dai riflessi di $A$, $B$, $C$ rispetto a $O$. Siano $O_A$, $O_B$, $O_C$ i centri delle circonferenze circoscritte ai triangoli $AOP$, $BOP$, $COP$, rispettivamente. Siano $l_A$, $l_B$, $l_C$ le rette passanti per $O_A$, $O_B$, $O_C$ e perpendicolari a $BC$, $CA$, $AB$, rispettivamente. Dimostrare che la circonferenza circoscritta al triangolo formato dalle rette $l_A$, $l_B$, $l_C$ è tangente alla retta $OP$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2019#q03|src_selection_camp_2019__Q03]]
 
 
 
@@ -107,9 +130,17 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tutti f su razionali positivi con f(x^2 f(y) ^2) = f(x) ^2 f(y)*
+*Tutte le funzioni f sui razionali positivi tali che f(x^2 f(y)^2)=f(x)^2 f(y)*
 
-> Trova tutte le funzioni $f$ definite sui razionali positivi e prendi valori razionali positivi in modo tale che, per tutti i razionali positivi $x$ e $y$, $$f\big(x^2 f(y)^2\big) = f(x)^2 f(y).$$
+> Trovare tutte le funzioni $f$ definite sui razionali positivi e a valori in razionali positivi tali che, per tutti i razionali positivi $x$ e $y$,
+> $$f\big(x^2 f(y)^2\big) = f(x)^2 f(y).$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2019#q04|src_selection_camp_2019__Q04]]
 
 
 
@@ -136,13 +167,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Buoni numeri 2^n+2^{piano(n/2)}: somme e non somme di numeri buoni distinti*
+*Numeri buoni 2^n+2^{floor(n/2)}: somme e non-somme di numeri buoni distinti*
 
-> Chiamare un intero un \textit{buono numero} se può essere scritto, utilizzando un intero non negativo $n$, nella forma $2^n + 2^{\lfloor n/2 \rfloor}$. (Qui $\lfloor r \rfloor$ indica il più grande numero intero non superiore al numero reale $r$.)
-> 
-> (1) Prove che ci sono infiniti numeri buoni che possono essere espressi come la somma di due o più numeri buoni distinti.
-> 
-> (2) Prove che esistono infiniti numeri buoni che non possono essere espressi come una somma di due o più numeri buoni distinti.
+> Si definisce \textit{numero buono} un intero che può essere scritto, utilizzando un intero non negativo $n$, nella forma $2^n + 2^{\lfloor n/2 \rfloor}$. (Qui $\lfloor r \rfloor$ denota il più grande intero non superiore al numero reale $r$.)
+>
+> (1) Dimostrare che esistono infiniti numeri buoni esprimibili come somma di due o più numeri buoni distinti.
+>
+> (2) Dimostrare che esistono infiniti numeri buoni che non possono essere espressi come somma di due o più numeri buoni distinti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2019#q05|src_selection_camp_2019__Q05]]
 
 
 
@@ -165,9 +203,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Voucher per il pasto min in una rotonda di 2k giocatori per una partita giornaliera*
+*Buoni pasto minimi in un girone all'italiana con una partita al giorno, con 2.000 giocatori*
 
-> $k$ sia un numero intero positivo. L'OIM organizza un torneo di scacchi con giocatori $2k$. Si gioca una partita al giorno, e durante tutto il torneo ogni coppia di giocatori gioca esattamente una partita. Ogni giocatore si trova presso la sede dell'IMO dal giorno della sua prima partita fino al giorno della sua ultima. Ogni giorno, la sede dell'IMO emette un numero di voucher per il pasto pari al numero di giocatori che soggiornano nella sede quel giorno. Trovare il valore minimo possibile del numero totale di buoni di pasto emessi dall'IMO.
+> Sia $k$ un numero intero positivo. Presso la sede dell'IMO si tiene un torneo di scacchi con $2k$ giocatori. Ogni giorno si disputa una partita e, nell'arco dell'intero torneo, ogni coppia di giocatori disputa esattamente una partita. Ogni giocatore rimane presso la sede dell'IMO dal giorno della sua prima partita fino al giorno della sua ultima partita. Ogni giorno, la sede dell'IMO emette un numero di buoni pasto pari al numero di giocatori che soggiornano presso la sede quel giorno. Determinare il valore minimo possibile del numero totale di buoni pasto emessi dalla sede dell'IMO.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2019#q06|src_selection_camp_2019__Q06]]
 
 
 
@@ -194,7 +239,16 @@ level: CAMP Selection Camp
 
 *Min si muove per raccogliere n pietre sulla cella n tramite spostamenti a destra fino a k*
 
-> $n$ sia un numero intero positivo. C'è una tabella di celle $n+1$ disposte in una singola riga, numerata $0, 1, \ldots, n$ da sinistra a destra. Inizialmente le pietre $n$ vengono posizionate sulla cella $0$, e le altre celle non hanno pietre. Considerate di ripetere la seguente operazione. Selezionare una cella contenente almeno una pietra e una pietra su di essa; lasciando $k$ il numero di pietre su quella cella, spostare quella pietra a destra almeno $1$ e al massimo $k$ cellule. Prova che, per raggiungere la posizione in cui le pietre $n$ sono collocate sulla cella $n$, l'operazione deve essere eseguita almeno $$\left\lceil \frac{n}{1} \right\rceil + \left\lceil \frac{n}{2} \right\rceil + \cdots + \left\lceil \frac{n}{n} \right\rceil$$ volte. (Qui $\lceil r \rceil$ indica il numero intero più piccolo non inferiore al numero reale $r$.)
+> Sia $n$ un numero intero positivo. C'è una scacchiera composta da $n+1$ caselle disposte in un'unica riga, numerate da $0, 1, \ldots, n$ da sinistra a destra. Inizialmente, su la casella $0$ sono posti $n$ sassi, mentre le altre caselle non hanno sassi. Si consideri la ripetizione della seguente operazione: si sceglie una casella che contiene almeno un sasso e su di essa c'è un sasso; indicando con $k$ il numero di sassi presenti in quella casella, si sposta quel sasso verso destra di almeno $1$ e al massimo $k$ caselle. Si dimostri che, per raggiungere la configurazione in cui $n$ sassi sono posti sulla casella $n$, l'operazione deve essere eseguita almeno
+> $$\left\lceil \frac{n}{1} \right\rceil + \left\lceil \frac{n}{2} \right\rceil + \cdots + \left\lceil \frac{n}{n} \right\rceil$$
+> volte. (Qui $\lceil r \rceil$ denota il più piccolo intero non minore del numero reale $r$.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2019#q07|src_selection_camp_2019__Q07]]
 
 
 
@@ -217,9 +271,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*F,M,L,O conciclico con bisettieri perpendicolari di BD,CE*
+*F,M,L,O sono conciclici con le mediatrici di BD e CE*
 
-> Che $O$ sia il centro circundante di un triangolo acuto $ABC$. Sul lato $AB$ e $AC$ (ponti finali esclusi) prendere i punti $D$ e $E$ rispettivamente, in modo che le linee $BC$ e $DE$ non siano parallele, e che $F$ sia l'intersezione delle linee $BC$ e $DE$. Il $K$ è l'intersezione del bisettore perpendicolare di $BD$ e del bisettore perpendicolare di $CE$, e il $L$ è l'intersezione della linea $KO$ con $BC$. $M$ sia l'intersezione delle linee $AO$ e $DE$. Prove che i quattro punti $F$, $M$, $L$, $O$ si trovano su un cerchio comune.
+> Sia $O$ il circocentro di un triangolo acutangolo $ABC$. Sui lati $AB$ e $AC$ (escludendo gli estremi) si prendano rispettivamente i punti $D$ e $E$, in modo che le rette $BC$ e $DE$ non siano parallele, e sia $F$ l'intersezione delle rette $BC$ e $DE$. Sia $K$ l'intersezione della mediatrice di $BD$ con la mediatrice di $CE$, e sia $L$ l'intersezione della retta $KO$ con $BC$. Sia $M$ l'intersezione delle rette $AO$ e $DE$. Dimostrare che i quattro punti $F$, $M$, $L$, $O$ giacciono su una stessa circonferenza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2019#q08|src_selection_camp_2019__Q08]]
 
 
 
@@ -242,9 +303,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se P(P(x)) e P(P(P(x))) sono coef interi, allora P è troppo*
+*Se P(P(x)) e P(P(P(x))) hanno coefficienti interi, allora anche P li ha interi*
 
-> Diciamo che $P(x)$ sia un polinomio con coefficienti razionali, e supponiamo che $P(P(x))$ e $P(P(P(x)))$ siano polinomi con coefficienti interi. Provare che $P(x)$ ha anche dei coefficienti interi.
+> Sia $P(x)$ un polinomio a coefficienti razionali, e supponiamo che $P(P(x))$ e $P(P(P(x)))$ siano polinomi a coefficienti interi. Dimostrare che anche $P(x)$ ha coefficienti interi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2019#q09|src_selection_camp_2019__Q09]]
 
 
 
@@ -267,9 +335,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Isoceles ABC, PA parallelo BC; condizione angolare dà A,P,X,Y conciclica*
+*Triangolo isoscele ABC, PA parallela a BC; la condizione angolare implica che A, P, X, Y siano concyclici*
 
-> $ABC$ sia un triangolo con $AB = AC$, e $M$ sia il punto medio di $BC$. Prendiamo un punto $P$ tale che $PA$ sia parallelo a $BC$ e $PB < PC$. sulle linee $PB$ e $PC$ prendere i punti $X$ e $Y$ rispettivamente, in modo che $P$, $B$, $X$ si trovino in questo ordine e $P$, $C$, $Y$ si trovino in questo ordine. Supponiamo che $\angle PXM = \angle PYM$ sia valido. Provare che i quattro punti $A$, $P$, $X$, $Y$ si trovano su un cerchio comune.
+> Sia $ABC$ un triangolo con $AB = AC$, e sia $M$ il punto medio di $BC$. Si prenda un punto $P$ tale che $PA$ sia parallelo a $BC$ e a $PB < PC$. Sulle rette $PB$ e $PC$ si prendano rispettivamente i punti $X$ e $Y$, in modo che $P$, $B$, $X$ siano allineati in quest'ordine e che $P$, $C$, $Y$ siano allineati in quest'ordine. Si supponga che valga $\angle PXM = \angle PYM$. Dimostrare che i quattro punti $A$, $P$, $X$, $Y$ giacciono su una circonferenza comune.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2019#q10|src_selection_camp_2019__Q10]]
 
 
 
@@ -299,15 +374,23 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L/R gioco di rietichettatura e spostamento su celle n+2; trovare le vittorie del secondo giocatore*
+*Gioco L/R di rinomina-e-spostamento su n+2 celle; individuare le partite vinte dal secondo giocatore*
 
-> $n$ sia un numero intero positivo. Ci sono celle $n+2$ disposte in una singola riga. Su ciascuna delle celle $n$ diverse dalle due estremità, è scritta esattamente una delle lettere L o R, e un singolo pezzo è posto su una delle celle diverse dalle due estremità. L'operazione seguente è eseguita fino a quando il pezzo non è collocato su una delle due celle finali:
-> 
-> - Quando la lettera scritta sulla cella che tiene il pezzo è L, riscrivi quella lettera a R, poi scegli una cella a sinistra di quella cella e sposta il pezzo lì. - Quando la lettera scritta sulla cella che contiene il pezzo è R, riscrivi quella lettera a L, poi scegli una cella a destra di quella cella e sposta il pezzo lì.
-> 
-> (1) Prove che, a partire da qualsiasi stato di partenza (le lettere scritte e la posizione del pezzo), possono essere eseguite solo finite numerose operazioni.
-> 
-> (2) Considerate la partita in cui due giocatori eseguono operazioni alternativamente e il giocatore che esegue l'ultima operazione perde. Trova tutti gli stati di partenza da cui il secondo giocatore può vincere indipendentemente dal modo in cui il primo giocatore gioca.
+> Sia $n$ un numero intero positivo. Ci sono $n+2$ celle disposte in una singola riga. Su ciascuna delle $n$ celle diverse dalle due estremità, è scritta esattamente una delle lettere L o R, e un singolo pezzo è collocato su una delle celle diverse dalle due estremità. Si esegue l'operazione seguente finché il pezzo non viene collocato su una delle due celle estremali:
+>
+> - Quando la lettera scritta sulla cella che contiene il pezzo è L, riscrivi quella lettera come R, poi scegli una cella a sinistra di quella cella e sposta il pezzo lì.
+> - Quando la lettera scritta sulla cella che contiene il pezzo è R, riscrivi quella lettera come L, poi scegli una cella a destra di quella cella e sposta il pezzo lì.
+>
+> (1) Dimostrare che, a partire da uno stato iniziale qualsiasi (le lettere scritte e la posizione del pezzo), si possono eseguire solo un numero finito di operazioni.
+>
+> (2) Si consideri il gioco in cui due giocatori eseguono operazioni a turno e il giocatore che esegue l'ultima operazione perde. Si determinino tutti gli stati iniziali da cui il secondo giocatore può vincere indipendentemente da come gioca il primo giocatore.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2019#q11|src_selection_camp_2019__Q11]]
 
 
 
@@ -332,6 +415,15 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*x^3+y, x^2+y^2, x+y^3 numeri interi implica x,y numeri interi*
+*Se x^3+y, x^2+y^2, x+y^3 sono interi, allora x e y sono interi*
 
-> Lasciate che $x$ e $y$ siano numeri reali. Prova che se $$x^3 + y, \qquad x^2 + y^2, \qquad x + y^3$$ sono tutti numeri interi, allora $x$ e $y$ sono anche numeri interi.
+> Siano $x$ e $y$ numeri reali. Dimostrare che se
+> $$x^3 + y, \qquad x^2 + y^2, \qquad x + y^3$$
+> sono tutti interi, allora $x$ e $y$ sono anch'essi interi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2019#q12|src_selection_camp_2019__Q12]]

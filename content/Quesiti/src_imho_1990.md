@@ -33,13 +33,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare il rapporto EG/EF noto che AM/AB = t*
+*Trovare il rapporto EG/EF sapendo che AM/AB = t*
 
-> Le corde $AB$ e $CD$ di una circonferenza si intersecano in un punto $E$ interno alla circonferenza. Sia $M$ un punto interno al segmento $EB$. La tangente alla circonferenza passante per i punti $D$, $E$ e $M$ nel punto $E$ interseca le rette $BC$ e $AC$ rispettivamente nei punti $F$ e $G$. Se
+> Le corde $AB$ e $CD$ di una circonferenza si intersecano in un punto $E$ interno alla circonferenza. Sia $M$ un punto interno al segmento $EB$. La retta tangente in $E$ alla circonferenza passante per $D$, $E$ e $M$ interseca le rette $BC$ e $AC$ rispettivamente nei punti $F$ e $G$. Se
 > $$\frac{AM}{AB} = t,$$
-> determinare
+> trovare
 > $$\frac{EG}{EF}$$
 > in funzione di $t$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1990#q01|src_imho_1990__Q01]]
 
 
 
@@ -62,9 +69,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimo k punti neri che garantiscono un coloramento buono*
+*Numero minimo k di punti neri che garantiscono una buona colorazione*
 
-> Sia $n \ge 3$ e si consideri un insieme $E$ di $2n - 1$ punti distinti su una circonferenza. Si supponga che esattamente $k$ di questi punti debbano essere colorati di nero. Un tale coloramento si dice «buono» se esiste almeno una coppia di punti neri tale che l'interno di uno degli archi tra essi contenga esattamente $n$ punti dell'insieme $E$. Determinare il più piccolo valore di $k$ tale che ogni coloramento di $k$ punti dell'insieme $E$ sia buono.
+> Sia $n \ge 3$ e si consideri un insieme $E$ di $2n - 1$ punti distinti su una circonferenza. Si supponga che esattamente $k$ di questi punti debbano essere colorati di nero. Una tale colorazione è "buona" se esiste almeno una coppia di punti neri tale che l'interno di uno degli archi compresi tra essi contenga esattamente $n$ punti appartenenti a $E$. Determinare il valore minimo di $k$ affinché ogni tale colorazione di $k$ punti di $E$ sia buona.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1990#q02|src_imho_1990__Q02]]
 
 
 
@@ -89,11 +103,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutti gli interi n > 1 tali che (2^n+1)/n^2 sia un numero intero*
+*Interi n > 1 per cui (2^n+1)/n² è intero*
 
 > Determinare tutti gli interi $n > 1$ tali che
 > $$\frac{2^n + 1}{n^2}$$
-> sia un numero intero.
+> sia un intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_imho_1990#q03|src_imho_1990__Q03]]
 
 
 
@@ -118,11 +139,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Costruire f: Q+ → Q+ tale che f(xf(y)) = f(x)/y*
+*Costruisci f: Q+ → Q+ tale che f(xf(y)) = f(x)/y*
 
 > Sia $\mathbb{Q}^+$ l'insieme dei numeri razionali positivi. Si costruisca una funzione $f : \mathbb{Q}^+ \to \mathbb{Q}^+$ tale che
 > $$f(x f(y)) = \frac{f(x)}{y}$$
-> per ogni $x$, $y$ in $\mathbb{Q}^+$.
+> per tutti gli $x$, $y$ in $\mathbb{Q}^+$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_backward|Backward]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1990#q04|src_imho_1990__Q04]]
 
 
 
@@ -154,19 +182,23 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco a due giocatori su una successione di interi; determinare le strategie vincenti*
+*Gioco a due giocatori con sequenze di interi; determina le strategie vincenti*
 
-> Dato un intero iniziale $n_0 > 1$, due giocatori $\mathcal{A}$ e $\mathcal{B}$ scelgono alternativamente interi $n_1$, $n_2$, $n_3$, $\ldots$ secondo le seguenti regole:
-> Conoscendo $n_{2k}$, il giocatore $\mathcal{A}$ sceglie un qualsiasi intero $n_{2k+1}$ tale che
+> Dato un intero iniziale $n_0 > 1$, due giocatori, $\mathcal{A}$ e $\mathcal{B}$, scelgono a turno gli interi $n_1$, $n_2$, $n_3$, $\ldots$ secondo le seguenti regole: conoscendo $n_{2k}$, $\mathcal{A}$ sceglie qualsiasi intero $n_{2k+1}$ tale che
 > $$n_{2k} \le n_{2k+1} \le n_{2k}^2.$$
-> Conoscendo $n_{2k+1}$, il giocatore $\mathcal{B}$ sceglie un qualsiasi intero $n_{2k+2}$ tale che
+> Sapendo $n_{2k+1}$, $\mathcal{B}$ sceglie un qualsiasi intero $n_{2k+2}$ tale che
 > $$\frac{n_{2k+1}}{n_{2k+2}}$$
-> sia una potenza di un numero primo con esponente positivo.
-> Il giocatore $\mathcal{A}$ vince il gioco scegliendo il numero 1990; il giocatore $\mathcal{B}$ vince scegliendo il numero 1.
-> Per quali valori di $n_0$ vale che:
-> (a) il giocatore $\mathcal{A}$ ha una strategia vincente?
-> (b) il giocatore $\mathcal{B}$ ha una strategia vincente?
-> (c) nessun giocatore ha una strategia vincente?
+> è un numero primo elevato a una potenza intera positiva. Il giocatore $\mathcal{A}$ vince la partita scegliendo il numero 1990; il giocatore $\mathcal{B}$ vince scegliendo il numero 1. Per quale $n_0$ vale:
+> (a) $\mathcal{A}$ hanno una strategia vincente?
+> (b) $\mathcal{B}$ hanno una strategia vincente?
+> (c) Nessuno dei due giocatori ha una strategia vincente?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_backward|Backward]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1990#q05|src_imho_1990__Q05]]
 
 
 
@@ -191,8 +223,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Poligono convesso con 1990 lati, tutti gli angoli uguali e i lati di lunghezza 1^2, 2^2, ..., 1990^2*
+*1990-gono convesso con tutti gli angoli uguali e i lati 1^2, 2^2, ..., 1990^2*
 
-> Si dimostri che esiste un 1990-agono convesso con le seguenti due proprietà:
+> Dimostrare che esiste un 1990-gono convesso con le seguenti due proprietà:
 > (a) Tutti gli angoli sono uguali.
 > (b) Le lunghezze dei 1990 lati sono i numeri $1^2$, $2^2$, $3^2$, $\ldots$, $1990^2$ in qualche ordine.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|method_casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1990#q06|src_imho_1990__Q06]]

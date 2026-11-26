@@ -35,15 +35,22 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i k con infiniti k-numeri*
+*Trovare tutti i k per cui esistono infiniti numeri k*
 
-> Per un dato numero intero positivo $k$, chiamiamo un numero intero $n$ un numero $k$ se sono soddisfatte entrambe le seguenti condizioni:
-> 
-> (i) Il numero intero $n$ è il prodotto di due numeri interi positivi che differiscono di $k$.
-> 
-> (ii) Il numero intero $n$ è inferiore a un numero quadrato.
-> 
-> Trova tutti $k$ in modo che ci siano infinitamente molti $k$-numeri.
+> Per un dato intero positivo $k$, chiamiamo un intero $n$ un numero $k$ se sono soddisfatte entrambe le seguenti condizioni:
+>
+> (i) L'intero $n$ è il prodotto di due interi positivi che differiscono di $k$.
+>
+> (ii) L'intero $n$ è minore di un quadrato perfetto.
+>
+> Trova tutti gli $k$ tali che esistano infiniti numeri $k$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2021-22_round2#q01|src_bmo_2021-22_round2__Q01]]
 
 
 
@@ -67,9 +74,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le funzioni che soddisfano 2yf(f(y) +x) =f(x+1) f(2y)*
+*Trovare tutte le funzioni che soddisfano 2yf(f(y)+x)=f(x+1)f(2y)*
 
-> Trova tutte le funzioni $f$ dai numeri interi positivi ai numeri interi positivi in modo che per tutti $x, y$ abbiamo: $$2y\, f(f(y) + x) = f(x+1)\, f(2y).$$
+> Trovare tutte le funzioni $f$ da gli interi positivi agli interi positivi tali che, per ogni $x, y$, si abbia:
+> $$2y\, f(f(y) + x) = f(x+1)\, f(2y).$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2021-22_round2#q02|src_bmo_2021-22_round2__Q02]]
 
 
 
@@ -92,9 +107,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le caselle di visualizzazione possono essere suddivise in due pile regolari non vuote*
+*I mucchi visibili possono essere divisi in due mucchi ordinari non vuoti*
 
-> Le carte provenienti da mazzi di carte identiche $s$ vengono messe in scatole. Ogni mazzo contiene 50 schede, etichettate da $1$ a $50$. Ogni scatola può contenere al massimo carte $2022$. Una pila di scatole è chiamata *regular* se quella pila contiene uguali numeri di carte con ogni etichetta. Mostrare che esiste un certo $N$ in modo che se $n \ge N$, le scatole possano essere suddivise in due pile regolari non vuote.
+> Le carte provenienti da mazzi di carte identici, in numero di $s$, vengono messe nelle scatole. Ogni mazzo contiene 50 carte, etichettate da $1$ a $50$. Ogni scatola può contenere al massimo $2022$ carte. Un mucchio di scatole si dice *regolare* se in quel mucchio c'è lo stesso numero di carte per ogni etichetta. Dimostrare che esiste un certo $N$ tale che, se $n \ge N$, allora le scatole possono essere divise in due mucchi regolari non vuoti.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2021-22_round2#q03|src_bmo_2021-22_round2__Q03]]
 
 
 
@@ -121,10 +143,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove Q su BC e la linea AT passa attraverso Q*
+*Prova Q su BC e la retta AT passa per Q*
 
-> Il $ABC$ deve essere un triangolo angolato acuto con circoncircolo $\Gamma$. Le linee $l_B$ e $l_C$ siano perpendicolari a $BC$ che attraversano rispettivamente $B$ e $C$. Un punto $T$ si trova sull'arco minore $BC$. La tangente di $\Gamma$ a $T$ incontra rispettivamente $l_B$ a $P_B$ e $l_C$ a $P_C$. La linea attraverso $P_B$ perpendicolare a $AC$ e la linea attraverso $P_C$ perpendicolare a $AB$ si incontrano in un punto $Q$.
-> 
-> (Un *arco minore * di un cerchio è il più breve dei due archi con dati punti di fine.)
-> 
-> Prova che $Q$ si trova su $BC$ e prova che la riga $AT$ passa attraverso $Q$.
+> Sia $ABC$ un triangolo acutangolo con circonferenza circoscritta $\Gamma$. Siano $l_B$ e $l_C$ le rette perpendicolari a $BC$ che passano rispettivamente per $B$ e $C$. Un punto $T$ giace sull'arco minore $BC$. La tangente a $\Gamma$ in $T$ incontra $l_B$ in $P_B$ e $l_C$ in $P_C$, rispettivamente. La retta passante per $P_B$ e perpendicolare a $AC$ e la retta passante per $P_C$ e perpendicolare a $AB$ si incontrano in un punto $Q$.
+>
+> (Un *arco minore* di una circonferenza è il più breve dei due archi aventi dati gli estremi.)
+>
+> Dimostrare che $Q$ giace su $BC$, e dimostrare che la retta $AT$ passa per $Q$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2021-22_round2#q04|src_bmo_2021-22_round2__Q04]]

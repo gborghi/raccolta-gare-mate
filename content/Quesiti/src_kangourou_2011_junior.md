@@ -36,11 +36,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of consecutive integers with given sum*
+*Minimum number of consecutive integers with a given sum*
 
-> What is the smallest number of consecutive integers whose sum is 201120112011? A) 2 B) 3 C) 4 D) 6 E) It is impossible to obtain that number by adding consecutive integers
+> What is the smallest number of consecutive integers whose sum is 201120112011?
+> A) 2
+> B) 3
+> C) 4
+> D) 6               
+> E) It is impossible to obtain that number by adding consecutive integers.
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_junior#q01|src_kangourou_2011_junior__Q01]]
 
 
 
@@ -91,7 +101,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the trapezoid given the shaded rectangle 13*
+*Area of the given trapezoid, shaded rectangle, 13*
 
 ![[src_kangourou_2011_junior__prob2.png]]
 
@@ -115,9 +125,19 @@ level: kangourou
 \end{document}
 ```
 
-> You see a trapezoid in the figure. A and B are the midpoints of the legs and the area of the shaded rectangle is 13 cm2. How many square centimetres is the area of the trapezoid? A) 24 B) 25 C) 26 D) 27 E) 28
+> In the figure, you see a trapezoid. A and B are the
+> The midpoints of the non-parallel sides, and the area of the shaded rectangle is 13 cm². How many square centimetres is the area of the trapezoid?
+> A) 24
+> B) 25
+> C) 26
+> D) 27
+> E) 28
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_junior#q02|src_kangourou_2011_junior__Q02]]
 
 
 
@@ -146,11 +166,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the rectangle by sums of three sides 20 or 22*
+*Perimeter of the rectangle given as the sum of three sides: 20 or 22*
 
-> If we add up the lengths of three sides of an assigned rectangle, I can get 20 or 22. How much is the perimeter of the rectangle? A) 38 B) 28 C) 30 D) 48 E) 56
+> If I add up the lengths of three of the sides of a given rectangle, I can get 20 or 22 as the result. What is the perimeter of the rectangle?
+> A) 38
+> B) 28
+> C) 30
+> D) 48
+> E) 56
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_junior#q03|src_kangourou_2011_junior__Q03]]
 
 
 
@@ -179,11 +208,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True relationship between X, Y and Z*
+*True relationship among X Y Z*
 
-> Let's put X is 122 x 123 + 123 x 124 + 124 x 125, Y is 1222 + 1232 + 1242, Z is 121 x 122 + 122 x 123 + 123 x 124. Which of the following reports is true? A) Y < X < Z B) X < Y = Z C) X < Y < Z D) Z < Y < X E) X = Y < Z
+> Let X = 122 × 123 + 123 × 124 + 124 × 125, Y = 122² + 123² + 124², Z = 121 × 122 + 122 × 123 + 123 × 124. Which of the following relationships is true?
+> A) Y < X < Z
+> B) X < Y = Z
+> C) X < Y < Z
+> D) Z < Y < X 
+> E) X = Y < Z
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_junior#q04|src_kangourou_2011_junior__Q04]]
 
 
 
@@ -213,11 +251,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spectators certainly Italian male and vegetarian*
+*Spectators who are certainly Italian, male, and vegetarian*
 
-> In a theater there are 100 spectators: 50 of them are Italians, 60 are men, 90 are vegetarians. How many spectators in that theater can you be sure of being Italian, male and vegetarian at the same time? A) 0 B) 1 C) 10 D) 40 E) 50
+> In a theater, there are 100 spectators: 50 of them are Italian, 60 are male, and 90 are vegetarians. How many of the spectators present in that theater can we be certain are at the same time Italian, male, and vegetarian?
+> A) 0
+> B) 1
+> C) 10
+> D) 40
+> E) 50
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_junior#q05|src_kangourou_2011_junior__Q05]]
 
 
 
@@ -246,11 +294,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of each tile in the mosaic 360*
+*Area of each tile in Mosaic 360*
 
-> A rectangular mosaic of 360 cm2 area is obtained by attaching square tiles, all of the same size. One side of the mosaic measures 24 cm, the other 5 times the side of the tiles. How much is the area of each tile in square centimetres? A) 1 B) 4 C) 9 D) 16 E) 25
+> A rectangular mosaic with an area of 360 cm² is formed by joining square tiles, all of the same size. One side of the mosaic measures 24 cm, and the other side measures 5 times the side length of the tiles. What is the area of each tile, in square centimetres?
+> A) 1
+> B) 4
+> C) 9
+> D) 16
+> E) 25
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_junior#q06|src_kangourou_2011_junior__Q06]]
 
 
 
@@ -288,25 +345,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of 2011 in the decreasing list of digit sum 4*
+*2011 position in the descending list of digit sums equal to 4*
 
-> Suppose we write in decreasing order all positive integers
-> with 4 significant digits (that is, such that the thousands digit is not 0), the sum
-> of whose digits is 4. What position does the number 2011 occupy in this list?  
+> Suppose we list in descending order all positive integers with 4 significant digits (that is, integers for which the thousands digit is not 0) whose digit sum is 4. What position does the number 2011 occupy in this list?
 > A) The sixth
 > B) The seventh
-> C) The eighth      D) The ninth     E) The tenth
-> A
-> B
-> Testi_11Mat.qxp  19-05-2011  21:25  Page 22
-> 
-> Pag. 
-> Pag. 23
-> 23
-> Kang 201
-> Kang 2011
+> C) The eighth D) The ninth E) The tenth
+> A B Testi_11Mat.qxp 19-05-2011 21:25 Page 22
+>
+> Pag. Pag. 23 23 Kang 201 Kang 2011
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_junior#q07|src_kangourou_2011_junior__Q07]]
 
 
 
@@ -337,13 +391,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which points are centers of rotation of the segments*
+*Which points are the centers of rotation of the line segments?*
 
 ![[src_kangourou_2011_junior__prob8.png]]
 
-> Observe the figure: each of the two highlighted segments is obtained from the other by rotation. Which of the highlighted points are centers of these rotations? A) Only A B) A and C C) A and D D) Only D E) A, B, C and D
+> Observe the figure: each of the two highlighted line segments can be obtained from the other by rotation. Which of the highlighted points are the centers of such rotations?
+> A) A only
+> B) A e C
+> C) A e D
+> D) Only D
+> E) A, B, C e D
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_junior#q08|src_kangourou_2011_junior__Q08]]
 
 
 
@@ -376,13 +439,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of region with triangle and square hexagon*
+*Perimeter of the region with hexagons, triangles, and squares*
 
 ![[src_kangourou_2011_junior__prob9.png]]
 
-> The region in the figure can be broken down, as indicated, into a regular hexagon of side 1, six triangles and six squares. What's its perimeter? A) 6(1 + ) B) 6(1 + /2) C) 6 + 3 D) 9 E) 12
+> The region in the figure can be decomposed, as indicated, into
+> A regular hexagon with side length 1, six triangles, and six squares. What is its perimeter?
+> A) 6(1 + 
+> )
+> B) 6(1 + 
+> /2)
+> C) 6 + 3
+> D) 9
+> E) 12
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_junior#q09|src_kangourou_2011_junior__Q09]]
 
 
 
@@ -419,13 +494,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Points on the X face of stacked dice*
+*Points on face X of stacked nuts*
 
 ![[src_kangourou_2011_junior__prob10.png]]
 
-> Three regular dice (i.e. such that the sum of points on opposite faces is always 7) are stacked as shown in the figure. On the lowest die, the face with 1 point is indicated. You also know that every time two different dice faces match, the sum of the points on both faces is 5. How many dots are there on the face marked with X? A) 2 B) 3 C) 4 D) 5 E) 6 Questions from N. 11 to N. 20 are worth 4 points each.
+> Three standard dice (that is, dice in which the sum of the dots on opposite faces is always 7) are stacked as shown in the figure. For the bottom die, the face with 1 dot is indicated. Furthermore, you know that whenever two faces of different dice come into contact, the sum of the dots on the two faces is 5. How many dots are on the face marked X?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_junior#q10|src_kangourou_2011_junior__Q10]]
 
 
 
@@ -454,11 +540,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What happens next month with three days to 5 occurrences*
+*What happens in the following month with three days at 5 occurrences?*
 
-> In a certain month of a certain year there are five Mondays, five Tuesdays and five Wednesdays. Last month, there were only four Sundays. So A) next month there are exactly four Fridays. B) There are exactly four Saturdays in the following month. C) There are 5 Sundays in the following month. D) There are 5 Saturdays in the following month. (e) the situation described cannot occur.
+> In a certain month of a certain year, there are 5 Mondays, 5 Tuesdays, and 5 Wednesdays. In the preceding month, there are only 4 Sundays. Then
+> A) in the following month, there are exactly 4 Fridays.
+> B) in the following month, there are exactly 4 Saturdays.
+> C) in the following month, there are 5 Sundays.
+> D) in the following month, there are 5 Saturdays.
+> E) the described situation cannot occur.
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_junior#q11|src_kangourou_2011_junior__Q11]]
 
 
 
@@ -491,11 +587,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Order of arrival of the three pilots after the exchanges*
+*Order of arrival of the three drivers after the exchanges*
 
-> Three drivers, Michael, Fernando and Sebastian, are taking part in a Formula One race. At the start, Michael leads, Fernando is second and Sebastian is third. During the race, Michael and Fernando swap positions 9 times, Fernando and Sebastian 10 times and Michael and Sebastian 11 times. In what order do they finish the race? A) Michael, Fernando, Sebastian B) Fernando, Sebastian, Michael C) Sebastian, Michael, Fernando D) Sebastian, Fernando, Michael E) Fernando, Michael, Sebastian
+> Three drivers—Michael, Fernando, and Sebastian—are taking part in a Formula 1 race. Right after the start, Michael is in the lead, Fernando is second, and Sebastian is third. During the race, Michael and Fernando swap positions 9 times, Fernando and Sebastian 10 times, and Michael and Sebastian 11 times. In what order do they finish the race?
+> A) Michael, Fernando, Sebastian
+> B) Fernando, Sebastian, Michael
+> C) Sebastian, Michael, Fernando
+> D) Sebastian, Fernando, Michael
+> E) Fernando, Michael, Sebastian
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_junior#q12|src_kangourou_2011_junior__Q12]]
 
 
 
@@ -538,31 +644,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of n if 9^n added three times gives 3^2011*
+*Value of n if 9^n is added three times from 3^2011*
 
-> If  9n + 9n + 9n = 32011, what is n?
+> If 9n + 9n + 9n = 32011, what is the value of n?
 > A) 1005
 > B) 1006
 > C) 2010
 > D) 2011          
 > E) None of the preceding numbers
-> √2
-> √3
-> √2
-> A
-> B
-> C
-> D
-> X
-> Testi_11Mat.qxp  19-05-2011  21:25  Page 23
-> 
-> Pag. 
-> Pag. 24
-> 24
-> Kang 201
-> Kang 2011
+> √2 √3 √2 A B C D X Testi_11Mat.qxp 19-05-2011 21:25 Page 23
+>
+> Pag. Pag. 24 24 Kang 201 Kang 2011
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_junior#q13|src_kangourou_2011_junior__Q13]]
 
 
 
@@ -595,13 +693,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers entered in the subgrid 10*
+*Sum of the numbers entered in the grid: subgrids 10*
 
 ![[src_kangourou_2011_junior__prob14.png]]
 
-> In the 3x3 grid in the figure, 5 numbers are visible. Nicola inserted one in each cell that appears free so that the sum of the numbers in each 2x2 subgrid is 10 (subgrids can only be made by cutting out consecutive rows and columns). How much is the sum of the numbers Nicola entered? A) 9 B) 10 C) 11 D) 12 E) 13
+> In the 3x3 grid in the figure, 5 numbers are visible. Nicola has placed one number in each cell that appears empty so that the sum of the numbers in each 2x2 subgrid is 10 (the subgrids can be formed only by truncating consecutive rows and columns). What is the sum of the numbers entered by Nicola?
+> A) 9
+> B) 10
+> C) 11
+> D) 12
+> E) 13
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_junior#q14|src_kangourou_2011_junior__Q14]]
 
 
 
@@ -630,11 +737,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many of the four girls lie?
+*How many of the four girls are lying?*
 
-> Ada says Bice is lying. Bice says Carla is lying. Carla says Bice is lying. Daniela says Ada is lying. How many of these four girls are lying? A) 0 B) 1 C) 2 D) 3 E) 4
+> Ada claims that Bice is lying. Bice claims that Carla is lying. Carla claims that Bice is lying. Daniela claims that Ada is lying. How many of these four girls are lying?
+> A) 0
+> B) 1
+> C) 2
+> D) 3
+> E) 4
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_junior#q15|src_kangourou_2011_junior__Q15]]
 
 
 
@@ -666,13 +783,20 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to blacken cells with row and column constraints*
+*In how many ways can cells with row and column constraints be shaded black?*
 
 ![[src_kangourou_2011_junior__prob16.png]]
 
-> In the figure you see a 4x4 grid. You have to blacken some of the grid cells so that for each row, the number of blackened cells in the row coincides with the number shown to the right of the row itself and for each column, the number of blackened cells in the column coincides with the number shown to the bottom of the column itself. How many different ways can you do that? A) 0 (impossible) B) 1 C) 3 D) 5 E) 9
+> In the figure, you see a 4x4 grid. You need to blacken some of them.
+> Fill in the cells of the grid so that, for each row, the number of blacked-out cells in the row equals the number indicated to the right of the row, and, for each column, the number of blacked-out cells in the column equals the number indicated at the bottom of the column. In how many different ways can you do this?
+> A) 0 (impossible) B) 1 C) 3 D) 5 E) 9
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_junior#q16|src_kangourou_2011_junior__Q16]]
 
 
 
@@ -702,11 +826,21 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max consecutive three digit integers with at least one odd digit*
+*Maximum number of consecutive three-digit numbers with at least one odd digit*
 
-> What is the greatest number of consecutive three-digit integers that have at least one odd digit? A) 121 B) 111 C) 110 D) 100 E) 99
+> What is the greatest number of consecutive three-digit integers that have at least one odd digit?
+> A) 121
+> B) 111
+> C) 110
+> D) 100
+> E) 99
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_junior#q17|src_kangourou_2011_junior__Q17]]
 
 
 
@@ -736,11 +870,21 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Capacity of small cubic container*
+*Capacity of the small cubic container*
 
-> I have two cube-shaped containers; the side of the larger cube is a tenth of a meter longer than the side of the other. The big one is full of water, the other one is empty. If I turn the water from the big container to the small one until it's filled, the big container has 217 liters of water left. What is the capacity of the small container in litres? A) 343 B) 125 C) 1331 D) 729 E) A value different from the previous ones
+> I have two cubic containers; the edge of the larger one is one decimeter longer than the edge of the other. The larger one is full of water, and the other is empty. If I pour the water from the large container into the small one until the small one is full, 217 liters of water remain in the large container. What is the capacity of the small container, in liters?
+> A) 343
+> B) 125
+> C) 1331
+> D) 729           
+> E) A value different from the preceding ones
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_junior#q18|src_kangourou_2011_junior__Q18]]
 
 
 
@@ -799,47 +943,26 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which friend lives on Curvy Street (not straight)*
+*Which female friend lives on Curva Street (not straight)?*
 
 ![[src_kangourou_2011_junior__prob19.png]]
 
-> During a car trip on a
-> bumpy road, Michela drew the sketch
-> you see in the figure: it indicates the houses of
-> her four friends, the streets where they live and the
-> intersections between these streets. In reality, however, Arrow Street,
-> Ruler Street and Nail Street are all
-> straight streets. The fourth street is Curvy Street. Which
-> of the four friends lives on Curvy Street?
+> During a car trip on a road
+> After an accident, Michela drew the sketch you see in the figure: it shows the houses of her four friends, the streets where they live, and the intersections of those streets. In reality, however, Via Freccia, Via Righello, and Via Chiodo are all straight streets. The fourth street is Via Curva. Which of the four friends lives on Via Curva?
 > A) Angela
 > B) Bianca
 > C) Chiara
-> D) Donata             
-> E) It cannot be deduced from the sketch available
-> 1
-> 0
-> 2
-> 4
-> 3
-> 2
-> 0
-> 1
-> 1
-> 2 0 1
-> 1
-> Donata
-> Chiara
-> Bianca
-> Angela
-> Testi_11Mat.qxp  19-05-2011  21:25  Page 24
-> 
-> Pag. 
-> Pag. 25
-> 25
-> Kang 201
-> Kang 2011
+> D) Donata
+> E) It cannot be deduced from the sketch available.
+> 1 0 2 4 3 2 0 1 1 2 0 1 1 Donata Chiara Bianca Angela Testi_11Mat.qxp 19-05-2011 21:25 Page 24
+>
+> Pag. Pag. 25 25 Kang 201 Kang 2011
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_junior#q19|src_kangourou_2011_junior__Q19]]
 
 
 
@@ -870,11 +993,22 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which fraction has the highest value with x,y greater than 1*
+*Which fraction has the highest value when x and y are greater than 1?*
 
-> The numbers x and y are both greater than 1. Which of the following fractions has the highest value? A) B) C) D) E) Questions from N. 21 to N. 30 are worth 5 points each.
+> The numbers x and y are both greater than 1. Among the following fractions, which one has the highest value?
+> A) 
+> B) 
+> C) 
+> D) 
+> E) 
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_junior#q20|src_kangourou_2011_junior__Q20]]
 
 
 
@@ -908,13 +1042,23 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gold area on the surface of the decorated cube*
+*Golden area on the surface of the decorated cube*
 
 ![[src_kangourou_2011_junior__prob21.png]]
 
-> Simone has a glass cube one decimetre on the side. Using gold, square-shaped adhesives, all of which are equal, he decorated the surface of the cube as shown in the figure, so that the faces of the cube all have the same decoration. What is the area in square centimetres of the portion of the surface of the cube that appears golden? A) 37,5 B) 150 C) 375 D) 300 E) 225
+> Simone has a glass cube with sides one decimeter long. Using
+> Square golden stickers, all identical to one another, decorated the surface of the cube as shown in the figure, so that all faces of the cube have the same decoration. What is the area, in square centimeters, of the portion of the cube's surface that appears golden?
+> A) 37,5
+> B) 150
+> C) 375
+> D) 300             
+> E) 225
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_junior#q21|src_kangourou_2011_junior__Q21]]
 
 
 
@@ -944,11 +1088,21 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many interesting numbers of 5 distinct digits*
+*How many interesting 5-digit numbers with distinct digits?*
 
-> Let's say that a positive integer of five significant digits all different from each other is interesting if its first digit is the sum of the remaining four. How many interesting numbers are there? A) 72 B) 144 C) 168 D) 216 E) 288
+> Let's say that a positive integer with 5 significant digits, all of which are different, is "interesting" if its first digit is the sum of the remaining four. How many interesting numbers are there?
+> A) 72
+> B) 144
+> C) 168
+> D) 216
+> E) 288
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_junior#q22|src_kangourou_2011_junior__Q22]]
 
 
 
@@ -983,13 +1137,24 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of pairwise distinct angles*
+*Minimum number of angles that are pairwise distinct*
 
 ![[src_kangourou_2011_junior__prob23.png]]
 
-> In an ABC triangle, on the side BC a point D is chosen and on the segment AD a point E is chosen. So we're going to get 9 angles marked with the numbers 1 through 9, as shown in the figure. Whatever the ABC triangle is, some of these angles are necessarily pairwise different from each other. In configurations where there are the fewest possible, how many are there? A) 2 B) 3 C) 4 D) 5 E) 6
+> In triangle ABC, on side BC, a is chosen
+> Point D and, on segment AD, a point E are chosen. This gives rise to 9 angles denoted by the numbers 1 to 9, as shown in the figure. Whatever triangle ABC may be, some of these angles must necessarily be pairwise different. In the configurations in which there are as few such angles as possible, how many are there?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_junior#q23|src_kangourou_2011_junior__Q23]]
 
 
 
@@ -1022,9 +1187,19 @@ How many of the four girls lie?
 
 *Maximum value of the sum of the averages of adjacent integers*
 
-> Mark writes the integers from 1 to 9 in a random order. For each pair of integers that, in that order, are adjacent, Mark then calculates the arithmetic mean of the two integers. Finally, add up all the arithmetic averages calculated. What's the greatest value you can get? A) 40 B) 43 C) 42,5 D) 43,5 E) 44
+> Marco writes the integers from 1 to 9 in a random order. For each pair of integers that are adjacent in that order, Marco then calculates the arithmetic mean of the two integers. Finally, he adds up all the arithmetic means that have been calculated. What is the greatest value he can obtain?
+> A) 40
+> B) 43
+> C) 42,5
+> D) 43,5
+> E) 44
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_junior#q24|src_kangourou_2011_junior__Q24]]
 
 
 
@@ -1130,50 +1305,20 @@ How many of the four girls lie?
 \end{document}
 ```
 
-> The figure shows two circles with
-> different radii. Points A and B lie on both. Segment AB is a diameter of the one with the smaller radius, which passes through the center S of the one with the larger radius. The latter has radius 1. What
-> is the area of the shaded region?
+> The figure shows two circles with radii
+> Different. Points A and B lie on both of them. Segment AB is a diameter of the circle with the smaller radius; that circle passes through the center S of the circle with the larger radius. The latter has a radius of 1. What is the area of the shaded region?
 > A) π / 6     B) π
-> /12     C) 1/2      D) 
-> /4
-> E) A number different from the previous ones
-> √3
-> √3
-> 3x
-> 3y + 1
-> 2x
-> 2y — 1
-> 2x
-> 2y + 1
-> x
-> y — 1
-> x
-> y + 1
-> B
-> C
-> A
-> D
-> E
-> 1
-> 9
-> 2
-> 3 4
-> 5
-> 6
-> 7
-> 8
-> A
-> B
-> S
-> Testi_11Mat.qxp  19-05-2011  21:25  Pagina 25
-> 
-> Pag. 
-> Pag. 26
-> 26
-> Kang 201
-> Kang 2011
+> /12 C) 1/2 D) /4
+> E) A number different from the preceding ones
+> √3 √3 3x 3y + 1 2x 2y — 1 2x 2y + 1 x y — 1 x y + 1 B C A D E 1 9 2 3 4 5 6 7 8 A B S Testi_11Mat.qxp 19-05-2011 21:25 Page 25
+>
+> Pag. Pag. 26 26 Kang 201 Kang 2011
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_junior#q25|src_kangourou_2011_junior__Q25]]
 
 
 
@@ -1204,18 +1349,21 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many quadruples of edges of the cube without common vertices*
+*How many sets of four edges of the cube have no common vertices?*
 
-> How many quadruples of edges of a cube are such that, however two
-> edges are chosen in the quadruple, these have no vertices in common? (If two quadruples do not coincide, but are obtainable one from the other by rotation of the cube,
-> they must be considered different.)
+> How many sets of four edges of a cube are such that, whatever two edges are chosen from the set, those two edges have no common vertices? (If two sets of four edges do not coincide but can be obtained from each other by rotating the cube, they should be regarded as distinct.)
 > A) 9
 > B) 7
 > C) 6
 > D) 12
 > E) 8
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_junior#q26|src_kangourou_2011_junior__Q26]]
 
 
 
@@ -1246,18 +1394,21 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For how many k does the equation with the previous prime hold*
+*For how many k does the equation hold with the first preceding one?*
 
-> For every integer n > 2, let «n» denote the largest prime number that
-> does not exceed n. For how many positive integers k is the equation  
-> «k + 1» + «k + 2» = «2k + 3» satisfied?
+> For each integer n > 2, let "n" denote the largest prime number that does not exceed n. For how many positive integers k is the equation "k + 1" + "k + 2" = "2k + 3" satisfied?
 > A) 0
 > B) 1
 > C) 2
 > D) 3
 > E) More than 3.
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_junior#q27|src_kangourou_2011_junior__Q27]]
 
 
 
@@ -1288,11 +1439,21 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For which n blacken cells with n per subgrid 3x3*
+*For which n to darken cells with n for a 3x3 subgrid*
 
-> You have a 5x5 grid and you want to blacken some of the cells in it so that in every 3x3 subgrid there are exactly n blackened cells. For which integers, from 1 to 8 inclusive, can you achieve the goal? (Sub-grids can be made by cutting only consecutive rows and columns.) A) Only 1 B) Only 1 and 2 C) Only 1, 2 and 3 D) Only 1, 2, 7 and 8 E) For every value of n (between 1 and 8 inclusive)
+> There is a 5x5 grid, and you want to blacken some of its cells so that in each 3x3 subgrid there are exactly n blackened cells. For which integers n, from 1 to 8 inclusive, can you achieve the goal? (The subgrids can be formed by truncating only consecutive rows and columns.)
+> A) Only 1
+> B) Only 1 and 2
+> C) Only 1, 2, and 3
+> D) Only 1, 2, 7, and 8
+> E) For each value of n (between 1 and 8 inclusive)
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_junior#q28|src_kangourou_2011_junior__Q28]]
 
 
 
@@ -1321,11 +1482,21 @@ How many of the four girls lie?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Where the straight DE intersects the plane of the tetrahedron*
+*Where the line DE intersects the plane of the tetrahedron*
 
-> Assigned a regular tetrahedron ABCD, both Σ the plane containing the face ABC and s the straight line in Σ containing the edge BC. Therefore, let BCDE be the regular tetrahedron that has in common with ABCD only the face BCD. Where does the straight line passing through D and E intersect plane Σ ? A) At a point in the triangle ABC B) In the semiplane of Σ determined by s containing A, but outside the triangle ABC C) In the semiplane of Σ determined by s not containing A D) At no point: the straight line is parallel to the plane Σ E) The answer depends on the length of the edge of the tetrahedron
+> Given a regular tetrahedron ABCD, let Σ be the plane containing face ABC and let s be the line in Σ that contains edge BC. Let BCDE then be the regular tetrahedron that shares only face BCD with ABCD. Where does the line passing through D and E intersect plane Σ?
+> A) At a point on triangle ABC
+> B) In the half-plane of Σ determined by s that contains A, but outside triangle ABC
+> C) In the half-plane of Σ determined by s that does not contain A
+> D) At no point: the line is parallel to plane Σ
+> E) The answer depends on the edge length of the tetrahedron
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_junior#q29|src_kangourou_2011_junior__Q29]]
 
 
 
@@ -1384,12 +1555,23 @@ How many of the four girls lie?
 
 ![[src_kangourou_2011_junior__prob30.png]]
 
-> A right circular cylinder with the base of radius 2, painted white, is placed on a rectangular strip of red cloth of width h, tilted 45 degrees from the strip as shown in the figure. The strip is wrapped around the cylinder, keeping it in tension. Looking at the cylinder now, you see a red spiral given by the strip and a white spiral given by the part of the cylinder not covered by the strip. How much should the width h of the red strip be worth if we want the two spirals to have the same width? A) √2 B) π C) 4 D) 2 π E) A value different from the previous √2 h 45° Texts_11Mat.qxp 19-05-2011 21:25 Page 26
-> 
->  
->  
+> A circular cylinder
+> A right circular cylinder with a base radius of 2, painted white, is placed on a rectangular strip of red fabric of width h and is inclined at 45 degrees relative to the strip, as shown in the figure. The strip is wound around the cylinder while kept taut. Looking at the cylinder now, one sees a red spiral formed by the strip and a white spiral formed by the part of the cylinder not covered by the strip. What must the width h of the red strip be if we want the two spirals to have the same width?
+> A) 
+> B) π
+> C) 4
+> D) 2π
+> E) A value different from the preceding ones
+> √2 h 45° Testi_11Mat.qxp 19-05-2011 21:25 Page 26
+>
+>
+>
 > 1
->  
-> 2011 Junior category
+>
+> 2011 Junior Category
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_junior#q30|src_kangourou_2011_junior__Q30]]

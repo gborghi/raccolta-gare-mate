@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi n che rendono n^n+1 e (2n)^{2n}+1 entrambi primi.*
+*Interi positivi n per cui n^n + 1 e (2n)^{2n} + 1 sono entrambi primi*
 
-> Trova tutti gli integri positivi $n$ per i quali $n^n + 1$ e $(2n)^{2n} + 1$ sono numeri primi.
+> Trovare tutti gli interi positivi $n$ per cui $n^n + 1$ e $(2n)^{2n} + 1$ sono numeri primi.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2005_r2#q01|src_pol_2005_r2__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In ABCD convex quadrilaterale, M è il punto medio di AC diagonale; dimostrare che se angolo BAD = angolo BMC = angolo CMD allora un cerchio può essere inscritto in ABCD.*
+*Quadrilatero convesso, M punto medio di AC, con tre angoli uguali: si può inscrivere una circonferenza*
 
-> In un quadrilaterale converso $ABCD$, il punto $M$ è il punto medio della diagonale $AC$. Prova che se $\angle BAD = \angle BMC = \angle CMD$, allora un cerchio può essere inserito in quadrilaterale $ABCD$.
+> In un quadrilatero convesso $ABCD$ il punto $M$ è il punto medio della diagonale $AC$. Dimostrare che, se $\angle BAD = \angle BMC = \angle CMD$, allora nel quadrilatero $ABCD$ si può inscrivere una circonferenza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2005_r2#q02|src_pol_2005_r2__Q02]]
 
 
 
@@ -79,9 +91,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Con n>=2 punti senza quattro coplanari, segmenti K (K>1) disegnati e triangoli T formati, dimostrare 9T^2 < 2K^3.*
+*Punti nello spazio, nessuno quattro complanari, con segmenti e triangoli: 9T^2 è minore di 2K^3*
 
-> In spazio sono dati $n \ge 2$ punti, di cui non quattro sono coplanari. Alcuni di questi punti sono collegati da segmenti. $K$ è il numero di segmenti ($K > 1$) e $T$ è il numero di triangoli formati. Prove che $9T^2 < 2K^3$.
+> Nello spazio sono dati $n \ge 2$ punti, quattro dei quali non sono mai complanari. Alcuni di questi punti sono congiunti da segmenti. Sia $K$ il numero dei segmenti ($K > 1$) e $T$ il numero dei triangoli formati. Dimostrare che $9T^2 < 2K^3$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2005_r2#q03|src_pol_2005_r2__Q03]]
 
 
 
@@ -104,9 +122,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per W(x)=x^2+ax+b con coefficienti interi, per ogni primo p c'è k con entrambi W(k) e W(k+1) divisibile da p; mostrare c'è m con W(m)=W(m+1)=0.*
+*Polinomio di secondo grado a coefficienti interi: se per ogni primo due valori consecutivi sono divisibili per quel primo, il polinomio ha due radici intere consecutive*
 
-> Il polinomio $W(x) = x^2 + ax + b$ con coefficienti interi ha la seguente proprietà: per ogni numero primo $p$ c'è un intero $k$ tale che sia $W(k)$ che $W(k+1)$ siano divisibili da $p$. Indicare che esiste un numero intero $m$ tale che $W(m) = W(m+1) = 0$.
+> Il polinomio $W(x) = x^2 + ax + b$ a coefficienti interi ha la proprietà seguente: per ogni numero primo $p$ esiste un intero $k$ tale che sia $W(k)$ sia $W(k+1)$ sono divisibili per $p$. Dimostrare che esiste un intero $m$ tale che $W(m) = W(m+1) = 0$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2005_r2#q04|src_pol_2005_r2__Q04]]
 
 
 
@@ -129,9 +153,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel rombo ABCD con angolo BAD=60 gradi, E su AB e F su AD soddisfano angolo ECF = angolo ABD; le linee CE e CF incontrano la linea BD a P e Q; dimostrano PQ/EF = AB/BD.*
+*Rombo con un angolo di 60 gradi, punti E e F con un angolo uguale: il rapporto PQ/EF uguaglia AB/BD*
 
-> Si indica un rombo $ABCD$ con $\angle BAD = 60^\circ$. I punti $E$ sul lato $AB$ e $F$ sul lato $AD$ sono tali da $\angle ECF = \angle ABD$. Le linee $CE$ e $CF$ riscontrano rispettivamente le linee $BD$ a $P$ e $Q$. Prove che $\frac{PQ}{EF} = \frac{AB}{BD}$.
+> È dato un rombo $ABCD$ con $\angle BAD = 60^\circ$. I punti $E$ sul lato $AB$ e $F$ sul lato $AD$ sono tali che $\angle ECF = \angle ABD$. Le rette $CE$ e $CF$ incontrano rispettivamente la retta $BD$ in $P$ e $Q$. Dimostrare che $\frac{PQ}{EF} = \frac{AB}{BD}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2005_r2#q05|src_pol_2005_r2__Q05]]
 
 
 
@@ -155,6 +185,14 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per la vera a,b,c in [0,1], provare a/(bc+1)+b/(ca+1)+c/(ab+1) <= 2.*
+*Tre numeri reali in [0, 1]: la somma a/(bc+1) e cicliche non supera 2*
 
-> Prova che se i numeri reali $a, b, c$ si trovano nell'intervallo $[0,1]$, allora $$\frac{a}{bc+1} + \frac{b}{ca+1} + \frac{c}{ab+1} \le 2.$$
+> Dimostrare che, se i numeri reali $a, b, c$ appartengono all'intervallo $[0,1]$, allora
+>
+> $$\frac{a}{bc+1} + \frac{b}{ca+1} + \frac{c}{ab+1} \le 2.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2005_r2#q06|src_pol_2005_r2__Q06]]

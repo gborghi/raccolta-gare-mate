@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Altezza dal vertice del triangolo che bisecta angolo laterale opposto*
+*La lunghezza di $EF$ non dipende dal vertice scelto*
 
-> L'altitudine da uno dei vertici di un triangolo acuto $ABC$ incontra il lato opposto a $D$. Da $D$ le perpendicolari $DE$ e $DF$ sono tracciate verso gli altri due lati. Prove che la lunghezza di $EF$ è la stessa a seconda del vertice scelto.
+> L'altezza da uno dei vertici di un triangolo acutangolo $ABC$ incontra il lato opposto in $D$. Da $D$ si tracciano le perpendicolari $DE$ e $DF$ agli altri due lati. Dimostrare che la lunghezza di $EF$ è la stessa qualunque sia il vertice scelto.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2002#q01|src_bmo2_2002__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I delegati dei posti di lavoro della conferenza trovano un insieme di valori di n*
+*Per quali $n$ i delegati possono sedersi senza occupare due volte lo stesso posto*
 
-> Una sala conferenze dispone di un tavolo rotondo con sedie $n$. Ci sono delegati $n$ alla conferenza. Il primo delegato siede ovunque. Successivamente il delegato $(k+1)$ siede $k$ a destra del delegato $k$, per $1 \le k \le n-1$. (In particolare, il secondo delegato siede accanto al primo) Non possono occuparsi due delegati nello stesso posto. Trova l'insieme di valori di $n$ per il quale questo è possibile.
+> Una sala conferenze ha un tavolo rotondo con $n$ sedie. Ci sono $n$ delegati. Il primo delegato si siede dove vuole. Poi il $(k+1)$-esimo delegato si siede $k$ posti a destra del $k$-esimo, per $1 \le k \le n-1$. (In particolare il secondo delegato si siede accanto al primo.) Due delegati non possono occupare la stessa sedia. Trovare l'insieme dei valori di $n$ per cui ciò è possibile.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2002#q02|src_bmo2_2002__Q02]]
 
 
 
@@ -81,9 +95,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La sequenza definita da recidiva è composta solo da integri*
+*La successione definita da $b_{n+1} = b_n^2 - b_{n-1}$ è fatta solo di interi*
 
-> Prove che la sequenza definita da $$b_0 = 1, \quad b_1 = 1, \quad b_{n+1} = b_n^2 - b_{n-1} \quad (n \ge 1)$$ è composta solo da numeri interi.
+> Dimostrare che la successione definita da
+> $$b_0 = 1, \quad b_1 = 1, \quad b_{n+1} = b_n^2 - b_{n-1} \quad (n \ge 1)$$
+> è composta solo di interi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2002#q03|src_bmo2_2002__Q03]]
 
 
 
@@ -106,6 +129,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N sfere unità disposte in modo che ciascuna tocchi esattamente altre due; lunghezza tangente legata*
+*Il prodotto delle lunghezze delle tangenti non supera il quadrato di $PC$*
 
-> Supponiamo che $B_1, \ldots, B_N$ siano sfere $N$ di raggio unitario disposte nello spazio in modo che ciascuna sfera tocchi esattamente due altre esternamente. Che $P$ sia un punto al di fuori di tutte queste sfere, e che i punti di contatto $N$ siano $C_1, \ldots, C_N$. La lunghezza della tangente da $P$ alla sfera $B_i$ $(1 \le i \le N)$ è indicata da $t_i$. Prove che il prodotto delle quantità $t_i$ non è superiore al quadrato della distanza $PC$.
+> Si supponga che $B_1, \ldots, B_N$ siano $N$ sfere di raggio unitario disposte nello spazio in modo che ciascuna sfera sia tangente esternamente ad esattamente altre due. Sia $P$ un punto fuori da tutte queste sfere, e siano $C_1, \ldots, C_N$ gli $N$ punti di contatto. La lunghezza della tangente da $P$ alla sfera $B_i$ $(1 \le i \le N)$ si indica con $t_i$. Dimostrare che il prodotto delle quantità $t_i$ non supera il quadrato della distanza $PC$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2002#q04|src_bmo2_2002__Q04]]

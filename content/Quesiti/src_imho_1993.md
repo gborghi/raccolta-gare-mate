@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Si dimostri che f(x) non è prodotto di due polinomi interi non costanti*
+*Dimostrare che f(x) non è il prodotto di due polinomi interi non costanti*
 
-> Sia $f(x) = x^n + 5x^{n-1} + 3$, dove $n > 1$ è un intero. Si dimostri che $f(x)$ non può essere espresso come prodotto di due polinomi non costanti a coefficienti interi.
+> Sia $f(x) = x^n + 5x^{n-1} + 3$, dove $n > 1$ è un numero intero. Dimostrare che $f(x)$ non può essere espresso come prodotto di due polinomi non costanti a coefficienti interi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1993#q01|src_imho_1993__Q01]]
 
 
 
@@ -58,13 +65,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rapporti e circonferenze circoscritte perpendicolari in un triangolo acutangolo ABC*
+*Rapporti e circonferenze circoscritte perpendicolari nel triangolo acuto ABC*
 
 > Sia $D$ un punto interno al triangolo acutangolo $ABC$ tale che $\angle ADB = \angle ACB + 90^\circ$ e $AC \cdot BD = AD \cdot BC$.
-> 
-> (a) Si calcoli il rapporto $(AB \cdot CD)/(AC \cdot BD)$.
-> 
-> (b) Si dimostri che le tangenti nei punti $C$ alle circonferenze circoscritte ai triangoli $\triangle ACD$ e $\triangle BCD$ sono perpendicolari.
+>
+> (a) Calcola il rapporto $(AB \cdot CD)/(AC \cdot BD)$.
+>
+> (b) Dimostrare che le tangenti in $C$ alle circonferenze circoscritte a $\triangle ACD$ e $\triangle BCD$ sono perpendicolari.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1993#q02|src_imho_1993__Q02]]
 
 
 
@@ -89,11 +103,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco sulla scacchiera: determinare n perché rimanga un solo pezzo*
+*Gioco della scacchiera: trova n per un pezzo rimasto*
 
-> Su una scacchiera infinita si gioca un gioco secondo le seguenti regole. All'inizio, $n^2$ pezzi sono disposti su un blocco di $n \times n$ quadrati adiacenti, uno per ogni quadrato. Un movimento nel gioco consiste in un salto orizzontale o verticale sopra un quadrato adiacente occupato, verso un quadrato non occupato immediatamente oltre. Il pezzo che è stato superato viene rimosso.
-> 
-> Determinare i valori di $n$ per cui il gioco può terminare con un solo pezzo rimasto sul tabellone.
+> Su una scacchiera infinita, si gioca nel modo seguente. All'inizio, $n^2$ pezzi vengono disposti su un blocco $n \times n$ di caselle adiacenti, con un pezzo per casella. Una mossa nel gioco consiste in un salto in direzione orizzontale o verticale, oltre una casella adiacente occupata, verso una casella vuota subito oltre. Il pezzo che è stato scavalcato viene rimosso.
+>
+> Trova quei valori di $n$ per cui il gioco può concludersi con un solo pezzo rimasto sulla scacchiera.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1993#q03|src_imho_1993__Q03]]
 
 
 
@@ -121,10 +142,17 @@ level: IMO
 
 *Disuguaglianza triangolare con le altezze del triangolo PQR*
 
-> Dati tre punti $P$, $Q$, $R$ nel piano, definiamo $m(PQR)$ come la lunghezza minima delle tre altezze del triangolo $\triangle PQR$. (Se i punti sono allineati, poniamo $m(PQR) = 0$.)
-> 
-> Si dimostri che per punti $A$, $B$, $C$, $X$ nel piano,
+> Per tre punti $P$, $Q$, $R$ nel piano, definiamo $m(PQR)$ come la lunghezza minima delle tre altezze di $\triangle PQR$. (Se i punti sono allineati, poniamo $m(PQR) = 0$.)
+>
+> Dimostrare che, per i punti $A$, $B$, $C$, $X$ nel piano,
 > $$m(ABC) \le m(ABX) + m(AXC) + m(XBC).$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1993#q04|src_imho_1993__Q04]]
 
 
 
@@ -147,9 +175,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le funzioni f: N→N con due condizioni date*
+*Trovare tutte le funzioni f: N→N che soddisfano due condizioni date*
 
-> Esiste una funzione $f : \mathbf{N} \to \mathbf{N}$ tale che $f(1) = 2$, $f(f(n)) = f(n) + n$ per ogni $n \in \mathbf{N}$, e $f(n) < f(n+1)$ per ogni $n \in \mathbf{N}$?
+> Esiste una funzione $f : \mathbf{N} \to \mathbf{N}$ tale che $f(1) = 2$, $f(f(n)) = f(n) + n$ per tutti gli $n \in \mathbf{N}$, e $f(n) < f(n+1)$ per tutti gli $n \in \mathbf{N}$?
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1993#q05|src_imho_1993__Q05]]
 
 
 
@@ -178,12 +213,19 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lampade in cerchio: mostrare che tutte tornano accese dopo M(n) passi*
+*Cerchio di lampade: mostra tutto il rendimento dopo M(n) passi*
 
-> Ci sono $n$ lampade $L_0, \ldots, L_{n-1}$ disposte in cerchio ($n > 1$), dove indichiamo $L_{n+k} = L_k$. (Ogni lampada in ogni istante è accesa o spenta.) Si eseguono i passi $s_0, s_1, \ldots$ nel modo seguente: al passo $s_i$, se $L_{i-1}$ è accesa, si cambia lo stato di $L_i$ da accesa a spenta o viceversa, altrimenti non si fa nulla. Inizialmente tutte le lampade sono accese. Si dimostri che:
-> 
-> (a) Esiste un intero positivo $M(n)$ tale che dopo $M(n)$ passi tutte le lampade sono nuovamente accese;
-> 
+> Ci sono $n$ lampade $L_0, \ldots, L_{n-1}$ disposte in cerchio ($n > 1$), dove denotiamo $L_{n+k} = L_k$. (In ogni istante, una lampada è o accesa o spenta.) Eseguire i passi $s_0, s_1, \ldots$ nel modo seguente: al passo $s_i$, se $L_{i-1}$ è accesa, commutare $L_i$ da accesa a spenta o viceversa; altrimenti, non fare nulla. Inizialmente, tutte le lampade sono accese. Dimostrare che:
+>
+> (a) Esiste un intero positivo $M(n)$ tale che, dopo $M(n)$ passi, tutte le lampade siano di nuovo accese;
+>
 > (b) Se $n = 2^k$, possiamo prendere $M(n) = n^2 - 1$;
-> 
+>
 > (c) Se $n = 2^k + 1$, possiamo prendere $M(n) = n^2 - n + 1$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1993#q06|src_imho_1993__Q06]]

@@ -29,9 +29,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione diofantina in tre numeri interi positivi*
+*Terne di interi positivi che soddisfano un'equazione*
 
-> Trova tutti i triples $(a,b,c)$ di numeri interi positivi che soddisfano $a^2+b+3=(b^2-c^2)^2$.
+> Determinare tutte le terne $(a,b,c)$ di interi positivi che soddisfano $a^2+b+3=(b^2-c^2)^2$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi per casi accurata]]
+[[Quesiti/src_jmo29mq_honsen#q01|src_jmo29mq_honsen__Q01]]
 
 
 
@@ -59,9 +64,19 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di scrittura a griglia che massimizza il punteggio multiplo di n di riga/colonna*
+*Massimo punteggio ottenibile in un gioco su una griglia*
 
-> $n$ sia un numero intero parente con $n\ge 3$. Si gioca una partita su una griglia di celle $n\times n$. Il gioco è composto da giri $n^2$, e a ogni turno vengono eseguite le seguenti operazioni in ordine: \begin{itemize} \item Scegli una cella in cui non è stato ancora scritto un intero, e scrivete in essa un intero tra $1$ e $n^2$ inclusivo. Durante tutto il gioco, ogni numero intero può essere scritto una volta al massimo. \item Per ciascuna riga e colonna che contengono quella cella, se la somma dei numeri interi scritti in essa è un multiple di $n$, allora $1$ punto viene guadagnato (se entrambi sono multipli di $n$, allora $2$ punti vengono guadagnati). \end{itemize} Trova il massimo valore possibile del numero totale di punti che possono essere guadagnati al termine della partita.
+> Sia $n$ un intero dispari con $n\ge 3$. Si gioca su una griglia $n\times n$ di caselle. La partita consiste di $n^2$ turni, e a ogni turno si eseguono nell'ordine le operazioni seguenti:
+> \begin{itemize}
+> \item si sceglie una casella in cui non è ancora stato scritto alcun intero, e vi si scrive un intero compreso tra $1$ e $n^2$ inclusi. Nel corso della partita ogni intero si può scrivere al più una volta;
+> \item per la riga e per la colonna che contengono quella casella, se la somma degli interi scritti è un multiplo di $n$, si guadagna $1$ punto (se entrambe sono multiple di $n$, si guadagnano $2$ punti).
+> \end{itemize}
+> Trovare il massimo valore possibile del numero totale di punti che si possono guadagnare entro la fine della partita.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_jmo29mq_honsen#q02|src_jmo29mq_honsen__Q02]]
 
 
 
@@ -85,9 +100,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale su valori reali positivi*
+*Funzioni positive sui reali positivi che soddisfano un'equazione funzionale*
 
-> Trova tutte le funzioni $f$ definite sui numeri reali positivi e prendi valori reali positivi in modo tale che, per tutti i numeri reali positivi $x,y$, $$f\left(\frac{f(y)}{f(x)}+1\right)=f\left(x+\frac{y}{x}+1\right)-f(x).$$
+> Determinare tutte le funzioni $f$ definite sui numeri reali positivi e a valori reali positivi tali che, per tutti i numeri reali positivi $x,y$,
+>
+> $$f\left(\frac{f(y)}{f(x)}+1\right)=f\left(x+\frac{y}{x}+1\right)-f(x).$$
+
+**Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo29mq_honsen#q03|src_jmo29mq_honsen__Q03]]
 
 
 
@@ -109,9 +131,13 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo su diametro AK tangente a incircolo*
+*Una circonferenza di diametro dato è tangente alla circonferenza inscritta*
 
-> Che $I$ sia l'incentro del triangolo $ABC$ e che $\omega$ sia il suo incircolo. Il punto medio del lato $BC$ è $M$. Il punto di intersezione di $K$ deve essere il punto di intersezione della linea attraverso $A$ perpendicolare alla linea $BC$ e la linea attraverso $M$ perpendicolare alla linea $AI$. Provare che il cerchio con diametro $AK$ è tangente a $\omega$.
+> Sia $I$ l'incentro del triangolo $ABC$ e sia $\omega$ la sua circonferenza inscritta. Sia $M$ il punto medio del lato $BC$. Sia $K$ il punto di intersezione della retta per $A$ perpendicolare alla retta $BC$ e della retta per $M$ perpendicolare alla retta $AI$. Dimostrare che la circonferenza di diametro $AK$ è tangente a $\omega$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_jmo29mq_honsen#q04|src_jmo29mq_honsen__Q04]]
 
 
 
@@ -136,8 +162,13 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Belle serie e una linea uniforme su non multipli*
+*Il minimo intero per cui ogni insieme bello ha pochi elementi non multipli di un intero*
 
-> Per un insieme $S$ composto da integri positivi, $S$ è chiamato un insieme \emph{beautiful} se, per qualsiasi elemento distinto $x,y,z$ di $S$, almeno uno di essi è un divisore di $x+y+z$. Prova che esiste un intero $N$ che soddisfa la seguente condizione e trova il più piccolo di tali $N$:
-> 
-> Per ogni insieme bello $S$, esiste un intero $n_S$ con $n_S\ge 2$ tale che il numero di elementi di $S$ che non sono moltipli di $n_S$ sia al massimo $N$.
+> Per un insieme $S$ di interi positivi, $S$ si dice un \emph{insieme bello} se, per elementi distinti qualunque $x,y,z$ di $S$, almeno uno di essi è un divisore di $x+y+z$. Dimostrare che esiste un intero $N$ che soddisfa la condizione seguente, e trovare il minimo tale $N$.
+>
+> Per ogni insieme bello $S$, esiste un intero $n_S$ con $n_S\ge 2$ tale che il numero di elementi di $S$ che non sono multipli di $n_S$ è al più $N$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Analisi per casi accurata]]
+[[Quesiti/src_jmo29mq_honsen#q05|src_jmo29mq_honsen__Q05]]

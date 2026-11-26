@@ -31,11 +31,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Construire triangoli con un'anca uguale a 120 gradi, mostrando il PQR equilaterale*
+*Tre triangoli isosceli con angoli di 120° su un segmento: il triangolo dei vertici è equilatero*
 
-> Il $AC$ deve essere un segmento di linea nel piano e $B$ un punto tra $A$ e $C$. Costruire triangoli $PAB$ e $QBC$ su un lato del segmento $AC$ in modo tale che $\angle APB = \angle BQC = 120^\circ$, e un triangole $RAC$ su un altro lato di $AC$ in modo tale che $\angle ARC = 120^\circ$. Mostra che $PQR$ è un triangolo equilaterale.
+> Sia $AC$ un segmento del piano e $B$ un punto fra $A$ e $C$. Si costruiscano i triangoli isosceli $PAB$ e $QBC$ da una parte del segmento $AC$ in modo che $\angle APB = \angle BQC = 120^\circ$, e un triangolo isoscele $RAC$ dall'altra parte di $AC$ in modo che $\angle ARC = 120^\circ$. Dimostrare che $PQR$ è un triangolo equilatero.
 
 ![[src_rmo_2000__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_2000#q01|src_rmo_2000__Q01]]
 
 
 
@@ -58,9 +64,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Risolvi y^3 = x^3 + 8x^2 - 6x + 8 in numeri interi positivi*
+*Soluzioni intere positive di y³ = x³ + 8x² − 6x + 8*
 
-> Risolvere l'equazione $y^3 = x^3 + 8x^2 - 6x + 8$, per gli integri positivi $x$ e $y$.
+> Risolvere l'equazione $y^3 = x^3 + 8x^2 - 6x + 8$ negli interi positivi $x$ e $y$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_2000#q02|src_rmo_2000__Q02]]
 
 
 
@@ -86,9 +98,21 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza diminuente con somme parziali limitate; prova somma di termini 1/k < 3*
+*Successione decrescente di reali positivi, con una somma parziale sui quadrati minore di 1: la somma armonica pesata è minore di 3*
 
-> Supponiamo che $(x_1, x_2, \ldots, x_n, \ldots)$ sia una sequenza di numeri reali positivi come $x_1 \ge x_2 \ge x_3 \ge \cdots \ge x_n \cdots$, e per tutti $n$ $$\frac{x_1}{1} + \frac{x_4}{2} + \frac{x_9}{3} + \cdots + \frac{x_{n^2}}{n} < 1.$$ Mostri che per tutti $k$ è soddisfatta la seguente disuguaglianza: $$\frac{x_1}{1} + \frac{x_2}{2} + \frac{x_3}{3} + \cdots + \frac{x_k}{k} < 3.$$
+> Si supponga che $(x_1, x_2, \ldots, x_n, \ldots)$ sia una successione di numeri reali positivi tale che $x_1 \ge x_2 \ge x_3 \ge \cdots \ge x_n \cdots$, e che per ogni $n$
+>
+> $$\frac{x_1}{1} + \frac{x_4}{2} + \frac{x_9}{3} + \cdots + \frac{x_{n^2}}{n} < 1.$$
+>
+> Dimostrare che per ogni $k$ vale la disuguaglianza
+>
+> $$\frac{x_1}{1} + \frac{x_2}{2} + \frac{x_3}{3} + \cdots + \frac{x_k}{k} < 3.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_rmo_2000#q03|src_rmo_2000__Q03]]
 
 
 
@@ -111,9 +135,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*numeri a 7 cifre con cifre da 1-7 ogni volta, non divisibili per 5, trovare 2000° nell'ordine*
+*Permutazioni di 1–7 non divisibili per 5, in ordine crescente: il 2000° numero*
 
-> Tutti i numeri a 7 cifre contenenti ciascuna delle cifre $1, 2, 3, 4, 5, 6, 7$ esattamente una volta, e non divisibili da $5$, sono disposti nell'ordine crescente. Trova il numero 2000 in questa lista.
+> Tutti i numeri di 7 cifre che contengono ciascuna delle cifre $1, 2, 3, 4, 5, 6, 7$ esattamente una volta, e che non sono divisibili per $5$, sono disposti in ordine crescente. Trovare il 2000° numero di questo elenco.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_2000#q04|src_rmo_2000__Q04]]
 
 
 
@@ -138,11 +168,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il bisettore angolare incontra il circoncircolo a D; mostra BE perpendicolare ad AD e AO parallelo a BD*
+*Bisettrice interna che incontra la circonferenza circoscritta: una perpendicolare e una parallela*
 
-> Il bisettore interno dell'angolo $A$ in un triangolo $ABC$ con $AC > AB$ incontra il circoncircolo $\Gamma$ del triangolo in $D$. Unire $D$ al centro $O$ del cerchio $\Gamma$ e supporre che $DO$ incontra $AC$ in $E$, eventualmente se esteso. Indicare che $BE$ è perpendicolare a $AD$, indicare che $AO$ è parallelo a $BD$.
+> La bisettrice interna dell'angolo $A$ in un triangolo $ABC$ con $AC > AB$ incontra la circonferenza circoscritta $\Gamma$ del triangolo in $D$. Si congiunga $D$ con il centro $O$ della circonferenza $\Gamma$ e si supponga che $DO$ incontri $AC$ in $E$, eventualmente prolungata. Dimostrare che $BE$ è perpendicolare a $AD$, e dimostrare che $AO$ è parallela a $BD$.
 
 ![[src_rmo_2000__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_2000#q05|src_rmo_2000__Q05]]
 
 
 
@@ -167,11 +203,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il valore minimo di ab in modo tale che a^n b^(n+1) sia divisibile per 2000 per tutte le n*
+*Minimo prodotto ab di due interi positivi tali che a^n b^{n+1} è divisibile per 2000, per ogni n oppure per qualche n*
 
-> (i) Considerare due integri positivi $a$ e $b$ in modo tale che $a^n b^{n+1}$ sia divisibile da $2000$ per ogni intero positivo $n$. Qual è il valore minimo possibile del prodotto $ab$?
-> 
-> (ii) Considerare due integri positivi $a$ e $b$ che sono tali che $a^n b^{n+1}$ sia divisibile da $2000$ per qualche integro positivo $n$. Qual è il valore minimo possibile del prodotto $ab$?
+> (i) Si considerino due interi positivi $a$ e $b$ tali che $a^n b^{n+1}$ sia divisibile per $2000$ per ogni intero positivo $n$. Qual è il minimo valore possibile del prodotto $ab$?
+>
+> (ii) Si considerino due interi positivi $a$ e $b$ tali che $a^n b^{n+1}$ sia divisibile per $2000$ per qualche intero positivo $n$. Qual è il minimo valore possibile del prodotto $ab$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_rmo_2000#q06|src_rmo_2000__Q06]]
 
 
 
@@ -194,6 +236,12 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le a reali per le quali x^4 - 2ax^2 + x + a^2 - a = 0 ha tutte le radici reali*
+*Valori reali di a per cui x⁴ − 2ax² + x + a² − a = 0 ha tutte le radici reali*
 
-> Trova tutti i valori reali di $a$ per i quali l'equazione $x^4 - 2ax^2 + x + a^2 - a = 0$ ha tutte le sue radici reali.
+> Trovare tutti i valori reali di $a$ per cui l'equazione $x^4 - 2ax^2 + x + a^2 - a = 0$ ha tutte le radici reali.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_2000#q07|src_rmo_2000__Q07]]

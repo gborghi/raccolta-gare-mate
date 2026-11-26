@@ -31,13 +31,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*5^6 as a sum of N addends equal to 5*
+*5^6 as the sum of N addends each equal to 5*
 
-> Addends 
-> The number 56 can be obtained both as a product of 6 factors each equal to 5 and as a sum 
-> of N addends each equal to 5. What is the value of N?
+> Addends: The number 56 can be obtained both as the product of 6 factors each equal to 5 and as the sum of N addends each equal to 5. What is the value of N?
 
-**Answer:** 3125
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_squadre_a#q01|src_kangourou_2017_squadre_a__Q01]]
 
 
 
@@ -65,11 +67,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many coins did Luisa leave home with (three expenses)*
+*How many coins did Luisa leave the house with (three expenses)?*
 
-> When she left the house, Luisa had only one-euro coins in her purse. She went into three stores and spent half of what she had in her purse when she went in plus 50 cents. She has always paid the exact amount requested without receiving change and, after the three purchases, she has 23 euros left. How many coins did Luisa leave home with?
+> Shopping When Luisa left home, she had only one-euro coins in her handbag. She went into three shops, and in each shop she spent half of what she had in her handbag at the moment she entered, plus 50 cents. She always paid the exact amount required without receiving any change, and after the three purchases, she had 23 euros left. How many coins did Luisa leave home with?
 
-**Answer:** 191
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_a#q02|src_kangourou_2017_squadre_a__Q02]]
 
 
 
@@ -96,11 +103,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Blue cubes in contact with red ones in the box 5x6x7*
+*Blue cubes in contact with red ones in the 5x6x7 box*
 
-> A box without a lid has a base of 5 and 6 and a height of 7. There were 210 cubes of side 1 in the box. Those who touch the box are red, the others are blue. How many blue cubes share at least one face with a red one?
+> Blue cubes A box without a lid has a base measuring 5 by 6 and a height of 7. 210 cubes with an edge length of 1 have been placed inside the box. Those that touch the box are red; the others are blue. How many blue cubes share at least one face with a red cube?
 
-**Answer:** 62
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_squadre_a#q03|src_kangourou_2017_squadre_a__Q03]]
 
 
 
@@ -128,11 +140,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*9 with a 90-digit number*
+*9 of a 90-digit number*
 
-> Adding the numbers A positive integer n has 90 digits all of which are different from zero; each digit from 1 to 9 is present in n the same number of times. Starting with n we build two more numbers: a obtained by pressing 1 to the sequence of digits that gives n and b obtained by writing 1 after the sequence of digits that gives n. The difference b − a is divisible by 9: what is the sum of the digits of the quotient (b − a): 9?
+> Adding the digits A positive integer n has 90 digits, all of which are non-zero; each digit from 1 to 9 appears the same number of times in n. Starting from n, we construct two other numbers: a, obtained by prepending 1 to the sequence of digits that form n, and b, obtained by writing 1 after the sequence of digits that form n. The difference b − a is divisible by 9: what is the sum of the digits of the quotient (b − a) : 9?
 
-**Answer:** 360
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_squadre_a#q04|src_kangourou_2017_squadre_a__Q04]]
 
 
 
@@ -158,11 +175,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Right triangle perimeter with an integer leg 11*
+*Perimeter of a right-angled triangle with one leg of 11 whole units*
 
-> You only know one leg In a right triangle the dimensions of the sides, expressed in centimeters, are all integers. One of the legs measures 11 centimeters. How many centimeters does the perimeter measure?
+> You know only one leg. In a right-angled triangle, the side lengths, expressed in centimetres, are all whole numbers. One of the legs measures 11 cm. How many centimetres is the perimeter?
 
-**Answer:** 132
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_squadre_a#q05|src_kangourou_2017_squadre_a__Q05]]
 
 
 
@@ -194,9 +216,14 @@ level: squadre
 
 *Sum of RETI values in AMO+AMO+AMO=RETI (max and min)*
 
-> Peter replaces each letter of the expression AMO + AMO + AMO = RETI with a digit, replacing different letters with different digits, so as to obtain a correct equality. Andrew does the same thing, but Peter gets the greatest possible value for RETI and Andrew the smallest compatible with the fact that the number has four significant digits. What is the sum of the values obtained for RETI by Andrew and Peter?
+> Pietro replaces each letter in the expression AMO + AMO + AMO = RETI with a digit, using different digits for different letters, so as to obtain a correct equality. Andrea does the same, but Pietro obtains the greatest possible value for RETI, while Andrea obtains the smallest value compatible with the fact that the number has four significant digits. What is the sum of the values obtained for RETI by Andrea and Pietro?
 
-**Answer:** 3816
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_a#q06|src_kangourou_2017_squadre_a__Q06]]
 
 
 
@@ -221,11 +248,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the six Fibonacci-like numbers (first 4, last 47)*
+*Sum of the six Fibonacci-type numbers (first 4, last 47)*
 
-> The sum In a sequence of six numbers, the first one is 4 and the last one is 47. Each number from the third is the sum of the previous two. What's the sum of all six numbers?
+> Sum In a sequence of six numbers, the first is 4 and the last is 47. Each number from the third onward is the sum of the two preceding numbers. What is the sum of all six numbers?
 
-**Answer:** 116
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_squadre_a#q07|src_kangourou_2017_squadre_a__Q07]]
 
 
 
@@ -250,11 +281,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Percentage of pensioners in the city
+*Percentage of pensioners in the city*
 
-> The bicycle Among retired people in a city 35% have a bicycle. Retired people without bicycles make up 13% of the total population of the city. What's the percentage of retirees in that city?
+> Bicycles: Among the pensioners in a city, 35% have a bicycle. Pensioners who do not have a bicycle make up 13% of the city's total population. What is the percentage of pensioners in that city?
 
-**Answer:** 20
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_squadre_a#q08|src_kangourou_2017_squadre_a__Q08]]
 
 
 
@@ -281,11 +316,16 @@ Percentage of pensioners in the city
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit increasing numbers*
+*How many increasing three-digit numbers?*
 
-> Let's say a three-digit number is "increasing" if the digits are all different and that of the hundreds is less than that of the tens which is less than that of the units. How many increasing numbers are there?
+> Increasing numbers Let's say that a three-significant-digit number is "increasing" if all its digits are different and the hundreds digit is less than the tens digit, which is less than the units digit. How many increasing numbers are there?
 
-**Answer:** 84
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_a#q09|src_kangourou_2017_squadre_a__Q09]]
 
 
 
@@ -311,11 +351,16 @@ Percentage of pensioners in the city
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs with even sums between 1 and 103*
+*Pairs with an even sum between 1 and 103*
 
-> How many pairs? For how many pairs (unordered) of integers, different from each other, between 1 and 103, both included, does it happen that the sum of the two numbers that make up the pair is an even number?
+> How many pairs? For how many unordered pairs of distinct integers between 1 and 103, inclusive, is the sum of the two numbers in the pair an even number?
 
-**Answer:** 2601
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_a#q10|src_kangourou_2017_squadre_a__Q10]]
 
 
 
@@ -345,11 +390,16 @@ Percentage of pensioners in the city
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Books received from B and D between four schools*
+*Books received from B and D among four schools*
 
-> Books Four schools have received a total of 144 books as gifts. In absolute terms, the difference between  the number of books received from school A and those received from school B is 4  the number of books received from school B and those received from school C is 3  the number of books received from school C and those received from school D is 2 How many books did school B and school D receive? (Read the number of books received by B further to the left).
+> Books: Four schools received a total of 144 books as a gift. In absolute terms, the differences are:  the difference between the number of books received by School A and those received by School B is 4  the difference between the number of books received by School B and those received by School C is 3  the difference between the number of books received by School C and those received by School D is 2 School A received the greatest number of books, but fewer than 40. How many books did School B and School D receive, respectively? (Write the number of books received by B further to the left.)
 
-**Answer:** 3435
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_a#q11|src_kangourou_2017_squadre_a__Q11]]
 
 
 
@@ -414,7 +464,7 @@ Percentage of pensioners in the city
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A-F distance between two squares with areas 23 and 777*
+*Distance A-F between two squares with areas 23 and 777*
 
 ![[src_kangourou_2017_squadre_a__prob12.png]]
 
@@ -453,9 +503,14 @@ Percentage of pensioners in the city
 \end{document}
 ```
 
-> The two squares Observe the figure. The area of the ABCD square is 23 cm2 while the area of the EFGH square is 777 cm2. How many centimeters is point A from point F?
+> The Two Squares Observe the figure. The area of square ABCD is 23 cm², while the area of square EFGH is 777 cm². How many centimeters is point A from point F?
 
-**Answer:** 20
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_squadre_a#q12|src_kangourou_2017_squadre_a__Q12]]
 
 
 
@@ -484,16 +539,16 @@ Percentage of pensioners in the city
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many N prime factor in the encrypted product*
+*How many N as the first factor in the encrypted product*
 
-> The product 
-> In the product  
-> _ _ _   9 _ = _ 3 _ _ 
-> the first factor N is a 3-digit number, while the second factor is a two-digit number with 9 
-> as the tens digit. The result is a 4-digit number that has 3 as the hundreds digit. 
-> How many numbers N can be the first factor?
+> In the product _ _ _  9 _ = _ 3 _ _, the first factor N is a three-digit number, while the second factor is a two-digit number with 9 as the tens digit. The result is a four-digit number with 3 as the hundreds digit. How many numbers N can be the first factor?
 
-**Answer:** 5
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_a#q13|src_kangourou_2017_squadre_a__Q13]]
 
 
 
@@ -524,11 +579,16 @@ Percentage of pensioners in the city
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible first-second pairs in the menu*
+*Possible first-and-second-course pairings on the menu*
 
-> The menu The restaurant of a hotel, open only in the evening, offers a choice of some first and some second dishes, the latter in greater quantity than the former. Last April, a couple of tourists ate dinner at the hotel every night and always wanted to order a different pair of first and second dishes. In this way all possible pairs were ordered, some even more than once but, during the first week, neither of them ordered the same dish twice. How many possible pairs of first and second dishes can be obtained from the dishes in the menu?
+> The menu: The restaurant of a hotel, open only in the evenings, offers a selection of some first courses and some second courses, with the latter being more numerous than the former. Last April, a couple of tourists had dinner at the hotel every evening and always wanted to order a different first-course/second-course combination. In this way, all possible combinations were ordered—some more than once—but during the first week, neither of them ordered the same dish twice. How many possible combinations of first courses and second courses can be formed using the dishes on the menu?
 
-**Answer:** 56
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_a#q14|src_kangourou_2017_squadre_a__Q14]]
 
 
 
@@ -570,12 +630,17 @@ Percentage of pensioners in the city
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couple (x,y) with x^2+y^2-16y=2017*
+*Pair (x,y) such that x^2+y^2-16y=2017*
 
-> The solution pair Determine the ordered pair (x,y) of positive integers with x < y that satisfies the equation x^2 + y^2 - 16y = 2017. In the answer, the values of x and y are given in the order. A B C D E F G H
-> 
-> Kangourou of Mathematics 2017 Kangourou Cup to teams Semifinal round A Cervia, 6 May 2017
->  
-> Questions and developments
+> Solution pair: Determine the ordered pair (x,y) of positive integers with x < y that satisfies the equation x² + y² − 16y = 2017. In your answer, state the value of x and then the value of y, in that order. A B C D E F G H
+>
+> Kangaroo Mathematics Competition 2017 Kangaroo Team Cup Semi-final Round A Cervia, 6 May 2017
+>
+> Questions and Solutions
 
-**Answer:** 2049
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_squadre_a#q15|src_kangourou_2017_squadre_a__Q15]]

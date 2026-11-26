@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di numeri scritti ai punti di centro e agli estremi di un arco di un cerchio*
+*Somma dei numeri scritti nei punti medi e negli estremi degli archi di una circonferenza*
 
-> Al diametro di un cerchio, scrivere il numero $1$ (primo passo). Successivamente, ogni semicircolo viene suddiviso e a ciascuno dei suoi due punti di mezzo si scrive la somma dei numeri alle due estremità del semicircolo (seconda tappa). Successivamente, ogni quartiere circolare viene suddiviso e a ciascuno dei suoi due punti di mezzo si scrive la somma dei numeri alle due estremità del quartiere circolo (terzo passo). Questo processo continua: ad ogni passo, ogni arco è diviso e al suo punto medio viene scritta la somma dei numeri ai suoi due punti finali. Determinare la somma di tutti i numeri scritti dopo i passi $1999$.
+> Alle due estremità di un diametro di un cerchio, si scrive il numero $1$ (primo passo). Successivamente, ogni semicerchio viene bisecato e, in ciascuno dei suoi due punti medi, si scrive la somma dei numeri alle due estremità del semicerchio (secondo passo). Poi, ogni quarto di cerchio viene bisecato e, in ciascuno dei suoi due punti medi, si scrive la somma dei numeri alle due estremità del quarto di cerchio (terzo passo). Questo processo continua: a ogni passo, ogni arco viene bisecato e nel suo punto medio si scrive la somma dei numeri ai suoi due estremi. Determinare la somma di tutti i numeri scritti dopo $1999$ passi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n3_f2#q01|src_obm_1999_n3_f2__Q01]]
 
 
 
@@ -56,11 +63,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrato con quattro cerchi circoscritti: condizioni di angolo e lunghezza*
+*Quadrato ABCD con quattro cerchi circoscritti: condizioni sugli angoli e sulle lunghezze*
 
-> Lasciate che $ABCD$ sia quadrato. Selezionare i punti $M$, $N$, $P$, $Q$ su $AB$, $BC$, $CD$ e $DA$, rispettivamente, in modo che i cerchi circondati dei triangoli $MBN$ e $PDQ$ siano tangenti l'uno all'altro esternamente. Prova che $MN + PQ \ge AC$.
+> Sia $ABCD$ un quadrato. Scegli i punti $M$, $N$, $P$, $Q$ rispettivamente su $AB$, $BC$, $CD$ e $DA$, in modo che le circonferenze circoscritte ai triangoli $MBN$ e $PDQ$ siano tangenti tra loro all'esterno. Dimostrare che $MN + PQ \ge AC$.
 
 ![[src_obm_1999_n3_f2__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1999_n3_f2#q02|src_obm_1999_n3_f2__Q02]]
 
 
 
@@ -85,9 +99,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N più piccolo per la riorganizzazione di (3,6,9,12) che rende un'espressione un numero intero*
+*Valore massimo di n per la permutazione di (3,6,9,12) tale che l'espressione risulti un numero intero*
 
-> Determinare il numero intero più grande $n$ per il quale esiste una riorganizzazione $(a, b, c, d)$ di $(3, 6, 9, 12)$ tale che $$\sqrt[4]{a\sqrt[3]{b\sqrt{c^{\,d}}}}$$ sia un numero intero. Giustifica la tua risposta.
+> Determinare il più grande intero $n$ per il quale esiste una permutazione $(a, b, c, d)$ di $(3, 6, 9, 12)$ tale che
+> $$\sqrt[4]{a\sqrt[3]{b\sqrt{c^{\,d}}}}$$
+> è un numero intero. Giustifica la tua risposta.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1999_n3_f2#q03|src_obm_1999_n3_f2__Q03]]
 
 
 
@@ -110,9 +133,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Neri interi positivi per i quali un rettangolo 9×10 può essere cartigliato da 1×n pezzi*
+*Numeri interi positivi n per cui un rettangolo 9×10 può essere ricoperto con tasselli 1×n*
 
-> Determinare tutti i numeri interi positivi $n$ per i quali è possibile tessere un rettangolo $9 \times 10$ usando pezzi $1 \times n$.
+> Determinare tutti gli interi positivi $n$ per cui è possibile ricoprire un rettangolo $9 \times 10$ utilizzando $1 \times n$ tasselli.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n3_f2#q04|src_obm_1999_n3_f2__Q04]]
 
 
 
@@ -135,9 +165,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Probabilità di usare occhiali magenta il 31 agosto data una scelta casuale giornaliera*
+*Probabilità di usare gli occhiali magenta il 31 agosto, data una scelta casuale quotidiana*
 
-> José ha tre coppie di occhiali: uno magenta, uno giallo e uno cian. Ogni mattina ne sceglie uno a caso, facendo attenzione a non usarne mai lo stesso del giorno precedente. Il 1° agosto indossava la magenta. Qual e' la probabilita' che il 31 agosto usi di nuovo la coppia di magenta?
+> José ha tre paia di occhiali: uno magenta, uno giallo e uno ciano. Ogni mattina ne sceglie uno a caso, facendo attenzione a non usare mai lo stesso paio del giorno precedente. Il 1° agosto ha indossato il paio magenta. Qual è la probabilità che il 31 agosto usi di nuovo il paio magenta?
+
+**Topic:** [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n3_f2#q05|src_obm_1999_n3_f2__Q05]]
 
 
 
@@ -160,6 +197,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni integrali di x^3 - y^3 = 999*
+*Trovare tutte le soluzioni intere di x^3 - y^3 = 999*
 
-> Trovare tutte le soluzioni integrali di $x^3 - y^3 = 999$.
+> Trovare tutte le soluzioni intere di $x^3 - y^3 = 999$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1999_n3_f2#q06|src_obm_1999_n3_f2__Q06]]

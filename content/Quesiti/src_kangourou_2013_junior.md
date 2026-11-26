@@ -38,17 +38,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number is not a factor of 200013-2013*
+*Not divisible by*
 
-> Number 200013 – 2013 is not divisible by A) 2
-> 	
+> The number 200013 – 2013 is not divisible by
+> A) 2
+>
 > B) 3.
-> 	
+>
 > C) 5.
-> 	
+>
 > D) 7.
-> 	
+>
 > E) 11.
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q01|src_kangourou_2013_junior__Q01]]
 
 
 
@@ -77,9 +85,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many figures have the same perimeter as the square sheet*
+*Chocolates for four friends*
 
-> A chocolate bar costs 40 cents, but for every five chocolates purchased, another one is given as a gift. Marta gave four chocolates to each of her four friends. How much did she spend? A) 5.60 B) 2.40 C) 1.60 D) 6.40 E) A figure different from each of the preceding figures.
+> A chocolate costs 40 cents, but for every five chocolates bought, another one is given free. Marta gave four chocolates to each of her four friends: how many euros did she spend?
+> A) 5,60
+> B) 2,40
+> C) 1,60
+> D) 6,40
+> E) A digit different from each of the previous ones.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q02|src_kangourou_2013_junior__Q02]]
 
 
 
@@ -109,13 +128,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How much does he pay with the corn cob offer*
+*Three numbers with product 1000*
 
-> Only three numbers chosen appropriately between 2, 4, 16, 25 and 125 have the product of 1000. What's their sum? A) 70
-> 	
+> Only three numbers suitably chosen from 2, 4, 16, 25 and 125 have a product of 1000. What is their sum?
+> A) 70
+>
 > B) 77
-> 	
-> C) 145 D) 143 E) 131
+>
+> C) 145
+> D) 143
+> E) 131
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q03|src_kangourou_2013_junior__Q03]]
 
 
 
@@ -151,17 +179,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of three numbers whose product is 1000*
+*Placing a three-cell ship*
 
-> Rita and a friend play naval battle on a 5×5 grid. Rita has already arranged two ships, one one cell and one two cell, as shown in the figure. She needs to place another ship that covers exactly three cells in a row, aligned horizontally or vertically. If two ships can't have anything in common, how many ways can she place the three-cell ship? A) 4
-> 	
+> Rita and a friend are playing battleships on a 5×5 grid. Rita has already placed two ships, one of one cell and one of two cells, as shown in the figure. She still has to place a ship that covers exactly three consecutive cells, aligned horizontally or vertically. If two ships cannot have any point in common, in how many ways can she place the three-cell ship?
+> A) 4
+>
 > B) 5
-> 	
+>
 > C) 6
-> 	
+>
 > D) 7
-> 	
+>
 > E) 8
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q04|src_kangourou_2013_junior__Q04]]
 
 
 
@@ -193,11 +229,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum area of the 6-point triangle on the grid*
+*Minimum area of the triangle from six points on a grid*
 
 ![[src_kangourou_2013_junior__prob5.png]]
 
-> In the square grid shown in Figure 1, six points are marked. You want to pick three so that the area of the triangle that has them as vertices is as small as possible. How much is this area worth? A) B) C) 1 D)                E) 2
+> In the square grid of step 1 in the figure, six points are marked. You want to choose three of them so that the area of the triangle that has them as vertices is as small as possible. What is the value of this area?
+> A)
+> B)
+> C) 1
+> D)
+> E) 2
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q05|src_kangourou_2013_junior__Q05]]
 
 
 
@@ -235,24 +283,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Power of two obtained from 4^15+8^10*
+*Value of the sum 415 + 810*
 
 > What is the value of the sum  415 + 810 ?
-> A) 210	
-> 	
-> B) 215	
-> 	
-> C) 220	
-> 	
-> D) 230	
->         E) 231 
->  1{{{ 
->  4
->  1{{{ 
->  2
->  1{{{ 
->  3
+> A) 210
 >
+> B) 215
+>
+> C) 220
+>
+> D) 230
+> E) 231
+> 1{{{ 4 1{{{ 2 1{{{ 3
+>
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q06|src_kangourou_2013_junior__Q06]]
 
 
 
@@ -288,21 +338,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flat development of the painted cube*
+*Net of the painted cube*
 
 ![[src_kangourou_2013_junior__prob7.png]]
 
-> Look at the figure: the side surface of a cube was painted white and gray, and now the cube looks as if it were obtained by placing white cubes and grey cubes side by side, all of the same size. Which of the following can be a net of the painted cube? A)
-> 	
+> Look at the figure: the lateral surface of a cube has been painted white and grey, and the cube now appears as if it were obtained by placing small white cubes and small grey cubes next to one another, all of the same size. Which of the following can be a net of the painted cube?
+> A)
+>
 > B)
-> 	
+>
 > C)
-> 	
+>
 > D)
-> 	
+>
 > E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q07|src_kangourou_2013_junior__Q07]]
 
 
 
@@ -332,11 +388,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value 4n-4m with three-digit constraints*
+*Value of 4n – 4m with three-digit constraints*
 
-> The number n is the largest positive integer such that 4n is a three-digit number, the number m is the smallest positive integer such that 4m is a three-digit number. How much is 4n  4m ? A) 892 B) 224 C) 225 D) 896 E) 199
+> The number n is the largest positive integer such that 4n is a three-digit number, whereas the number m is the smallest positive integer such that 4m is a three-digit number. What is the value of 4n – 4m?
+> A) 892
+> B) 224
+> C) 225
+> D) 896
+> E) 199
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q08|src_kangourou_2013_junior__Q08]]
 
 
 
@@ -370,13 +436,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of arc rotation and reflection*
+*Result of rotation and reflection of the arc*
 
 ![[src_kangourou_2013_junior__prob9.png]]
 
-> The arc in the figure consists of three quarters of a circumference centred on the M origin of an orthogonal Cartesian axis system and is equipped with an orientation arrow. The arc is first rotated 90 degrees in an anti-clockwise direction, then reflected along the x-axis of the axes. Which of the following figures shows the result of these operations? A) B) C) D) E)
+> The arc in the figure consists of three quarters of a circumference centred at the origin M of an orthogonal system of Cartesian axes and has an orientation arrow. The arc is first rotated by 90 degrees anticlockwise, then reflected in the x-axis of the abscissae. Which of the following figures shows the result of these operations?
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q09|src_kangourou_2013_junior__Q09]]
 
 
 
@@ -406,16 +482,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which expression is the largest*
+*Which number is the greatest*
 
-> Which is the largest among the following numbers?
-> A) 20 • 	 	
-> B)        • 13	
-> C)         •		
-> D)	
-> • 3	
-> E)  
-> Questions from No. 11 to No. 20 are worth 4 points each
+> Which is the greatest of the following numbers?
+> A) 20 •
+> B) • 13
+> C) •
+> D)
+> • 3
+> E)
+> The questions from question 11 to question 20 are worth 4 points each.
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q10|src_kangourou_2013_junior__Q10]]
 
 
 
@@ -484,14 +567,30 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alpha angle after rotation of the equilateral triangle*
+*Acute angles and a radius-length segment*
 
 ![[src_kangourou_2013_junior__prob11.png]]
 
-> Look at the figure. O is the center of the circle and the segment BC is as long as the radius; x and y are the measures in degrees of the indicated acute angles. Which of the following relations is necessarily true? A) 2x = 3y
-> 	
-> B) x + y = 90° C) x = 2y D) x + 2y = 180° E) x = y y x M y x M y x M y x M y x M y x M 13 √ 20 √ 20 √ 13 √ 201 √ 2013 √ A B O C x y
+> Look at the figure. O is the centre of the circle and the segment BC is as long as the radius; x and y are the measures in degrees of the acute angles indicated. Which of the following relations is necessarily true?
+> A) 2x = 3y
 >
+> B) x + y = 90°
+> C) x = 2y
+> D) x + 2y = 180°
+> E) x = y
+> y x M y x M y x M y x M y x M y x M 13 √ 20 √ 20 √ 13 √ 201 √ 2013 √
+> A
+> B
+> O
+> C
+> x y
+>
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q11|src_kangourou_2013_junior__Q11]]
 
 
 
@@ -537,7 +636,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of decoration with 2013 tiles*
+*Perimeter of a decoration with 2013 tiles*
 
 ![[src_kangourou_2013_junior__prob12.png]]
 
@@ -554,9 +653,20 @@ level: kangourou
 \end{document}
 ```
 
-> The figure shows the first six square tiles, each one one centimeter wide, that I used to make a horizontal decoration on the walls of my bathroom. If the decoration continues to follow the same pattern and I've laid 2013 tiles, how many centimeters is the perimeter of the decoration? A) 4024 B)4028 C) 4030 D) 4026 E) 4027
+> The figure shows the first six square tiles, each of side 1 centimetre, which I used to make a horizontal decoration on the walls of my bathroom. If the decoration continues following the same pattern and I have laid 2013 tiles, how many centimetres is the perimeter of the decoration?
+> A) 4024
+> B) 4028
+> C) 4030
+> D) 4026
+> E) 4027
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q12|src_kangourou_2013_junior__Q12]]
 
 
 
@@ -588,13 +698,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PQ product for RS in the regular hexagon*
+*Product of PQ and RS in a regular hexagon*
 
 ![[src_kangourou_2013_junior__prob13.png]]
 
-> Look at the figure. The points P and Q are opposite vertices of a regular hexagon, while the points R and S are the midpoints of the two opposite sides parallel to the PQ segment. The area of the hexagon is 60 square metres. What is the product of the length (in meters) of PQ for the length (in meters) of RS? A) 40 B) 50 C) 60 D) 100 E) None of the above.
+> Look at the figure. Points P and Q are opposite vertices of a regular hexagon, and points R and S are the midpoints of the two opposite sides parallel to the segment PQ. The area of the hexagon is 60 square metres. What is the product of the length (in metres) of PQ and the length (in metres) of RS?
+> A) 40
+> B) 50
+> C) 60
+> D) 100
+> E) None of the above.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q13|src_kangourou_2013_junior__Q13]]
 
 
 
@@ -625,11 +745,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of girls with average increments*
+*Percentage of girls from a rise in the mean*
 
-> In a classroom, where there are both boys and girls, a test was carried out. If each of the boys had scored three more points in their test, the average class score would have increased by 1.2 points. What percentage of the students in that class are girls? A) 75% B) 60% C) 50% D) 40% E) 25%
+> In a class where there are both boys and girls, a test was carried out. If each of the boys had scored 3 more points in his own test, the average score of the class would have increased by 1.2 points. What percentage of the students in that class consists of girls?
+> A) 75%
+> B) 60%
+> C) 50%
+> D) 40%
+> E) 25%
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q14|src_kangourou_2013_junior__Q14]]
 
 
 
@@ -701,17 +831,24 @@ level: kangourou
 \end{document}
 ```
 
-> The figure shows an ABCD rectangle which • has sides parallel to the coordinate axes, • lies under the x-axis and to the left of the y-axis. For each of the vertices, we calculate the ratio between its y-coordinate and its x-coordinate. For which of the four points is this ratio the minimum? A) A
-> 	
+> The figure shows a rectangle ABCD which •   has sides parallel to the coordinate axes, •   lies “below” the x-axis and “to the left” of the y-axis. For each of the vertices we calculate the ratio of its y-coordinate to its x-coordinate. For which of the four points is this ratio a minimum?
+> A) A
+>
 > B) B
-> 	
+>
 > C) C
->             
-> D)D
-> 	
-> E) Depends on the rectangle.
+>
+> D) D
+>
+> E) It depends on the rectangle.
 
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q15|src_kangourou_2013_junior__Q15]]
 
 
 
@@ -741,11 +878,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Year of birth of mother Enrica with product age 2013*
+*Mum Enrica's year of birth*
 
-> It's Mother Enrica's birthday today. Multiplying her age by that of her only son gets 2013. What year was Mother Enrica born? A) 1981 B) 1982 C) 1953 D) 1952 E) None of the above.
+> Today is Mum Enrica's birthday. Multiplying her age by that of her only son gives 2013. In which year was Mum Enrica born?
+> A) 1981
+> B) 1982
+> C) 1953
+> D) 1952
+> E) In none of the above.
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q16|src_kangourou_2013_junior__Q16]]
 
 
 
@@ -802,7 +950,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Longest segment between triangles with data angles*
+*Longest segment among triangles with given angles*
 
 ![[src_kangourou_2013_junior__prob17.png]]
 
@@ -829,11 +977,20 @@ level: kangourou
 \end{document}
 ```
 
-> Look at the figure. In the PQS triangle, the SPQ angle measures 59° and the PSQ angle measures 60°; in the QRS triangle, the SQR angle measures 61° and the QRS angle measures 60°. Which of the following segments is the longest? A) PS
-> 	
-> B) RS C) QS D) QR E) PQ
+> Look at the figure. In triangle PQS, the angle SPQ measures 59° and the angle PSQ measures 60°; in triangle QRS, the angle SQR measures 61° and the angle QRS measures 60°. Which of the following segments  is the longest?
+> A) PS
+>
+> B) RS
+> C) QS
+> D) QR
+> E) PQ
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q17|src_kangourou_2013_junior__Q17]]
 
 
 
@@ -877,20 +1034,28 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equal sets of five consecutive integers*
+*How many fair sets of five consecutive positive integers*
 
-> Let's say a set of five consecutive positive integers is fair if there are three of those numbers whose sum is equal to the sum of the other two. How many different fair sets exist? A) 0
-> 	
+> We say that a set made up of five consecutive positive integers is fair if there exist three of those numbers whose sum is equal to the sum of the other two. How many different fair sets exist?
+> A) 0
+>
 > B) 1
-> 	
+>
 > C) 2
-> 	
+>
 > D) 3
-> 	
+>
 > E) 4
+> P Q R S 60° 61° 60° 59°
 >
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q18|src_kangourou_2013_junior__Q18]]
 
 
 
@@ -926,9 +1091,20 @@ level: kangourou
 
 ![[src_kangourou_2013_junior__prob19.png]]
 
-> Look at the figure. How many different paths allow you to go from A to B by moving along the arrows and respecting their direction? A) 6 B) 8 C) 9 D) 10 E) 12
+> Look at the figure. How many different paths allow you to go from A to B by moving along the arrows and respecting their direction?
+> A) 6
+> B) 8
+> C) 9
+> D) 10
+> E) 12
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q19|src_kangourou_2013_junior__Q19]]
 
 
 
@@ -964,21 +1140,28 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Correct statement on number with equal sum and odd product*
+*Correct statement about a number with even sum and odd product*
 
-> You're looking for a six-digit number with this property: the sum of its digits is even and the product of its digits is odd. Which of the following is correct?
-> 	
+> You are looking for a six-digit number with this property: the sum of its digits is even and the product of its digits is odd. Which of the following statements is correct?
+>
 > A) The even digits must be two or four.
-> 	
-> B) There is no such number.
-> 	
+>
+> B) No such number exists.
+>
 > C) The odd digits are odd in number.
-> 	
+>
 > D) The six digits must all be different from each other.
-> 	
-> E) None of the above claims are correct.
+>
+> E) None of the above statements is correct.
+> Questions from N. 21 to N. 30 are worth 5 points each
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q20|src_kangourou_2013_junior__Q20]]
 
 
 
@@ -1013,22 +1196,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remainder of the division by 5 of (sum of factorials)^2*
+*Remainder on dividing (sum of factorials)2 by 5*
 
-> For every integer n from 1 onward let us denote by n ! the product 
-> 1 × 2 × 3 × ... × (n – 1) × n (it is called the factorial of n). 
-> We divide the number (1! + 2! + 3! + ... + 100!)2 by 5: what is the remainder?
-> A) 0	
-> 	
-> B) 1	
-> 	
-> C) 2	
-> 	
-> D) 3	
-> 	
+> For every integer n from 1 onwards we denote by n ! the product 1 × 2 × 3 × ... × (n – 1) × n (it is called the factorial of n). We divide the number (1! + 2! + 3! + ... + 100!)2 by 5: what is the remainder?
+> A) 0
+>
+> B) 1
+>
+> C) 2
+>
+> D) 3
+>
 > E) 4
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q21|src_kangourou_2013_junior__Q21]]
 
 
 
@@ -1061,13 +1248,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure that cannot be obtained with carpet*
+*Figure that cannot be obtained with the carpet*
 
 ![[src_kangourou_2013_junior__prob22.png]]
 
-> A floor covered with square tiles is partially covered by a round carpet. In the following figures, the shaded tiles represent all and only the tiles that have more than one point covered by the carpet. What figure cannot be obtained? A) B) C) D) E)
+> A floor covered with square tiles is partially covered by a round carpet. In the following figures the shaded tiles represent all and only the tiles that have more than one point covered by the carpet. Which figure cannot be obtained?
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q22|src_kangourou_2013_junior__Q22]]
 
 
 
@@ -1109,22 +1306,29 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum m with angles m, 2m, 3m... around O*
+*Minimum m with angles m, 2m, 3m, … around O*
 
 ![[src_kangourou_2013_junior__prob23.png]]
 
-> Look at the figure. Some triangles (five in our case) have the O vertex in common and for each of them there are two adjacent triangles with which it has a side in common. When triangles vary, the smallest of the angles in O measures m degrees, where m is a positive integer; the other angles measure 2m, 3m, 4m degrees and so on. What's the smallest value of m that makes it possible to arrange triangles with all these properties? A) 1
-> 	
+> Look at the figure. Some triangles (five in our case) have the vertex O in common, and for each of them there are two adjacent triangles with which it has a side in common. As the triangles vary, the smallest of the angles at O measures m degrees, where m is a positive integer; the other angles measure 2m, 3m, 4m degrees, and so on. What is the smallest value of m that allows an arrangement of triangles with all these properties to be realised?
+> A) 1
+>
 > B) 2
-> 	
+>
 > C) 3
-> 	
+>
 > D) 6
-> 	
+>
 > E) 8
 >
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q23|src_kangourou_2013_junior__Q23]]
 
 
 
@@ -1154,13 +1358,22 @@ Minimum m with angles m, 2m, 3m... around O*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number to the right of the comma of 1/1024000*
+*Digits to the right of the decimal point of 1/1024000*
 
-> If the number 1/1024000 is written in decimal notation with the smallest possible number of digits, how many digits are there to the right of the decimal point? A) 10
-> 	
-> B) 1024000 C)13 D) 14 E) 1024
+> If the number                   is written in decimal notation with the smallest possible number of digits, how many digits are there to the right of the decimal point?
+> A) 10
+>
+> B) 1024000
+> C) 13
+> D) 14
+> E) 1024
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q24|src_kangourou_2013_junior__Q24]]
 
 
 
@@ -1199,19 +1412,26 @@ Minimum m with angles m, 2m, 3m... around O*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Car speed at the head of the caravan after 100 hours*
+*Speed of the car at the head of the convoy after 100 hours*
 
-> In a strange driving resistance competition, all cars are expected to run on the same road starting at point A. The first car starts from A and maintains a constant speed of 50 km/h. From that moment on, every hour a car starts and each car maintains a constant speed of 1 km/h higher than that of the previous car. The last car leaves 50 hours after the first (and therefore travels at 100 km/h). What is the speed of the car that is in front of the caravan 100 hours after the first car leaves? A) 50 km/h
-> 	
+> In a strange endurance driving tournament, it is arranged that all the cars travel along the same road, starting from a point A. The first car starts from A and keeps a constant speed of 50 Km/h. From that moment, every hour a car starts from A, and each car keeps a constant speed of 1 Km/h greater than that of the previous car. The last car starts 50 hours after the first (and therefore travels at 100 Km/h). What is the speed of the car at the head of the convoy 100 hours after the departure of the first car?
+> A) 50 km/h
+>
 > B) 66 km/h
-> 	
-> C)75 km/h
->         
+>
+> C) 75 km/h
+>
 > D) 84 km/h
-> 	
+>
 > E) 100 km/h
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q25|src_kangourou_2013_junior__Q25]]
 
 
 
@@ -1246,19 +1466,26 @@ Minimum m with angles m, 2m, 3m... around O*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum whole fractions with integers from 1 to 22*
+*Maximum integer-valued fractions from 1 to 22*
 
-> Using each of the integers from 1 to 22 exactly once, placing one as numerator and another as denominator, one can form 11 fractions. At most how many of these fractions can have an integer value? A) 7
-> 	
+> Using all the integers from 1 to 22 inclusive once and only once, placing one as the numerator and another as the denominator, 11 fractions can be formed. At most, how many of these fractions can have an integer value?
+> A) 7
+>
 > B) 8
-> 	
+>
 > C) 9
-> 	
+>
 > D) 10
-> 	
+>
 > E) 11
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q26|src_kangourou_2013_junior__Q26]]
 
 
 
@@ -1294,19 +1521,26 @@ Minimum m with angles m, 2m, 3m... around O*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum of sums of neighbours on circumference*
+*Maximum of the minimum of neighbour sums on a circle*
 
-> Each of the integers from 1 to 10 is written on a circle, in a completely random order (therefore not necessarily following a direction of rotation). Then, to each of the numbers written, the two numbers adjacent to it are added, thus obtaining ten new numbers. What is the greatest possible value for the smallest of these numbers? A) 14
-> 	
+> Each of the integers from 1 to 10 is written on a circle, in a completely random order (so not necessarily following a direction of rotation). Then, to each of the written numbers, the two numbers adjacent to it are added: ten new numbers are thus obtained. What is the largest possible value for the smallest of these numbers?
+> A) 14
+>
 > B) 15
-> 	
+>
 > C) 16
-> 	
+>
 > D) 17
-> 	
+>
 > E) 18
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q27|src_kangourou_2013_junior__Q27]]
 
 
 
@@ -1338,15 +1572,24 @@ Minimum m with angles m, 2m, 3m... around O*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many sets of S with a given union equal to {1.9.}*
+*Distinct sets with a given union*
 
-> For how many different sets of S is it true that S ∪ {1, 2, 3, 4, 5} = {1, 2, 3, ..., 9} ? A) 512 B) 32
-> 	
-> C) 256 D) 16
-> 	
+> For how many distinct sets S is it true that S ∪ {1, 2, 3, 4, 5} = {1, 2, 3, ..., 9}?
+> A) 512
+> B) 32
+>
+> C) 256
+> D) 16
+>
 > E) 1
 
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q28|src_kangourou_2013_junior__Q28]]
 
 
 
@@ -1389,10 +1632,21 @@ Minimum m with angles m, 2m, 3m... around O*
 
 ![[src_kangourou_2013_junior__prob29.png]]
 
-> The full cube in the figure is cut along the plane passing through the three vertices B, D and E adjacent to A. Similarly, the cube is also cut along the seven planes that pass through the three vertices adjacent to each of the other seven vertices. Once the sectional parts of the cube are separated, which of the following figures represents the cube part containing the center of the cube itself? A) B) C) D) E) None of the above. 1 {{{{{{{{{{{ 1024000
+> The solid cube in the figure is cut along the plane that passes through the three vertices B, D and E adjacent to A. In the same way, the cube is also cut along the seven planes that pass through the three vertices adjacent to each of the other seven vertices. Once the sectioned parts of the cube have been separated, which of the following figures represents the part of the cube containing the centre of the cube itself?
+> A)
+> B)
+> C)
+> D)
+> E) None of the above.
+> 1 {{{{{{{{{{{ 1024000
 >
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q29|src_kangourou_2013_junior__Q29]]
 
 
 
@@ -1428,16 +1682,24 @@ Minimum m with angles m, 2m, 3m... around O*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles containing the centre in the 13-sided polygon*
+*Triangles containing the centre of a 13-sided polygon*
 
-> Choosing three of the vertices of a regular polygon identifies a triangle. If the polygon has 13 sides, how many of the triangles that can be formed in this way have the center of the polygon (i.e. the center of the inscribed circumference) inside them? A) 65
-> 	
+> Choosing three of the vertices of a regular polygon identifies a triangle. If the polygon has 13 sides, how many of the triangles that can be formed in this way have the centre of the polygon inside them (that is, the centre of the inscribed circle)?
+> A) 65
+>
 > B) 85
-> 	
+>
 > C) 91
-> 	
-> D) 104 E) A number different from the previous ones.
-> 
-> I'm going to take a look.
+>
+> D) 104
+> E) A different number from the ones above.
+>
+> STRING JUNIOR 2013
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.6](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+[[Quesiti/src_kangourou_2013_junior#q30|src_kangourou_2013_junior__Q30]]

@@ -32,13 +32,18 @@ level: Giochi di Rosi
 <div class="qlang-split" data-lang="en"></div>
 
 
-It's Milena's birthday with delays.
+*Milena's birthday day with delays*
 
-> Carla celebrated her birthday on Sunday, March 28, two days late from the exact date. Milena was born (in another year) ten days later.
-> 
-> What is Milena's birthday?
+> Carla celebrated her birthday on Sunday, March 28, two days after the exact date. Milena was born (in another year) ten days later.
+>
+> **What is Milena's birthday?**
 
-**Answer:** On 5 April
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2010#q01|src_bocconi_rosi_2010__Q01]]
 
 
 
@@ -65,11 +70,15 @@ It's Milena's birthday with delays.
 
 *Three drummers play together at different intervals*
 
-> The three drummers of the musical group are, at this moment, simultaneously playing their instruments.
-> 
-> **After how many seconds will we hear them simultaneously for the first time**, given that the first musician strikes his drum every $2$ seconds, the second every $3$ seconds, and the third every $4$ seconds?
+> The three drummers in the musical ensemble are, at this moment, playing their instruments simultaneously.
+>
+> **In how many seconds will we hear them together again for the first time**, given that the first musician plays his drum kit every $2$ seconds, the second every $3$ seconds, and the third every $4$ seconds?
 
-**Answer:** In 12 seconds
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2010#q02|src_bocconi_rosi_2010__Q02]]
 
 
 
@@ -92,11 +101,15 @@ It's Milena's birthday with delays.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three friends with a total age of 28 years, between the ages of 37 years*
+*Three friends with a total age of 28—in how many years will their total age be 37?*
 
-> Jacob, Luca and Francesco are together $28$ years. How many years from now will they have$37$together?
+> Jacob, Luca, and Francesco together are $28$ years old. In how many years will they together be $37$ years old?
 
-**Answer:** In 3 years
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_rosi_2010#q03|src_bocconi_rosi_2010__Q03]]
 
 
 
@@ -123,11 +136,19 @@ It's Milena's birthday with delays.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Setting the figures 1,2,5 for each exact addition to the schema*
+*Arrange the digits 1, 2, 5 to achieve exact addition in a diagram*
 
-> Set the digits $1$ (twice), $2$, $5$ in the figure so that the addition is accurate: $$3\square +$$ $$\square\ 9 =$$ $$\overline{\square\quad\square}$$
+> Arrange the digits $1$ (twice), $2$, $5$ in the figure so that the addition is exact:
+> $$3\square +$$
+> $$\square\ 9 =$$
+> $$\overline{\square\quad\square}$$
 
-**Answer:** $32 + 19 = 51$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2010#q04|src_bocconi_rosi_2010__Q04]]
 
 
 
@@ -152,13 +173,17 @@ It's Milena's birthday with delays.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seconds to play at 9 o'clock at the bell tower*
+*Seconds until 9 o'clock strikes at the bell tower*
 
-> At 3, the bell clock takes $2$ seconds to play the three strokes.
-> 
-> How many seconds will it take to play 9?
+> At 3 o'clock, the bell tower clock takes $2$ seconds to sound the three strokes.
+>
+> **How many seconds will it take to sound the nine strokes?**
 
-**Answer:** 8 seconds
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2010#q05|src_bocconi_rosi_2010__Q05]]
 
 
 
@@ -184,13 +209,18 @@ It's Milena's birthday with delays.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Express 30 with three times the same number other than 5*
+*Express 30 using three instances of the same digit other than 5*
 
-> The number $30$ can be calculated using the figure $5$ three times. For example, you can write $30 = 5 \times 5 + 5$.
-> 
-> Can you do that with another number, always used three times and using addition, subtraction, multiplication, division and power? (There are several solutions; just point out one)
+> The number $30$ can be calculated using the digit $5$ three times. For example, it can be written as $30 = 5 \times 5 + 5$.
+>
+> **Can you do it with another digit**, always used three times and using the operations of addition, subtraction, multiplication, division, and exponentiation? (There are several solutions; just give one)
 
-**Answer:** For example: $30 = 6 \times 6 - 6 = 33 - 3 = 3^3 + 3$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2010#q06|src_bocconi_rosi_2010__Q06]]
 
 
 
@@ -214,11 +244,16 @@ It's Milena's birthday with delays.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First number that becomes divisible by 5 by reversing the digits*
+*A prime number that becomes divisible by 5 when its digits are reversed*
 
-> **Find a prime number that becomes divisible by $5$ when its two digits are reversed.** (One solution is enough)
+> Find a prime number that becomes divisible by $5$ when its two digits are reversed. (One solution is sufficient)
 
-**Answer:** 53 or 59
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2010#q07|src_bocconi_rosi_2010__Q07]]
 
 
 
@@ -244,13 +279,18 @@ It's Milena's birthday with delays.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Count triangles in the figure*
+*Count the triangles in the figure*
 
-> **How many triangles do you see in the figure? **
+> How many triangles can be seen in the figure?
 
 ![[src_bocconi_rosi_2010__q08.png]]
 
-**Answer:** 8 triangles
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_rosi_2010#q08|src_bocconi_rosi_2010__Q08]]
 
 
 
@@ -275,13 +315,17 @@ It's Milena's birthday with delays.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Middle-aged party with girls double boys
+*Average age: party with girls is twice that of boys*
 
-> There's a lot of guys at a party, but there's twice as many girls. Their average age is $15$ years, while that of boys is $18$ years.
-> 
-> **What is the average age of all party participants?**
+> At a party, there are many boys, but the number of girls present is twice as many. Their average age is $15$ years, whereas the boys' average age is $18$ years.
+>
+> **What is the average age of all the people attending the party?**
 
-**Answer:** 16 years
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_rosi_2010#q09|src_bocconi_rosi_2010__Q09]]
 
 
 
@@ -305,11 +349,16 @@ Middle-aged party with girls double boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles with a perimeter of 12 cm and full sides*
+*Triangles with a perimeter of 12 cm and integer sides*
 
-> **What are the possible triangles whose perimeter is $12$ cm and whose sides are expressed as an integer of cm?**
+> How many possible triangles are there whose perimeter is $12$ cm and whose side lengths are expressed as whole numbers of centimeters?
 
-**Answer:** 3 (sides $4,4,4$ cm; $5,5,2$ cm; $5,4,3$ cm)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2010#q10|src_bocconi_rosi_2010__Q10]]
 
 
 
@@ -335,13 +384,18 @@ Middle-aged party with girls double boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Children of the Plan-Sphere table pair*
+*Children born to the Piano-Sfera couple at the table*
 
-> Mr. Piano and Mrs. Sfera had children from previous marriages. Then they married and had other children together. Today they've gathered the whole family together, them, their children, the children from their previous marriages, to celebrate a birthday.
-> 
-> How many children did Mr. Piano and Mrs. Sfera have from their marriage knowing that at the table, for their birthday, they were in$10$and that Mr. Piano was the father of the children present and Mrs. Sfera their mother?
+> Mr Piano and Mrs Sfera had already had children from previous marriages. They then married (each other) and together had more children. Today they have brought the whole family together—themselves, their children, and the children from their previous marriages—to celebrate a birthday.
+>
+> **How many children did Mr Piano and Mrs Sfera have from their marriage**, given that at the table for the birthday there were $10$ people, and that Mr Piano was the father of $6$ of the children present and Mrs Sfera was the mother of $7$ of them?
 
-**Answer:** 5 children
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2010#q11|src_bocconi_rosi_2010__Q11]]
 
 
 
@@ -366,13 +420,17 @@ Middle-aged party with girls double boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Luke's age knowing the relationship to his own past age*
+*Luca's age, knowing the relationship with his own past age*
 
-> I've got$4$ times the age that Luke was when I was the age of Luke now.
-> 
-> What is Luke's age now, if I'm$40$?
+> I am $4$ times as old as Luca was when I was the age Luca is now.
+>
+> **So what is Luca's age now**, if I am $40$ years old?
 
-**Answer:** Luca is 25 years old
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2010#q12|src_bocconi_rosi_2010__Q12]]
 
 
 
@@ -397,13 +455,17 @@ Middle-aged party with girls double boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pocket amount with loan and double Euro*
+*Sum in pocket with loan and double Euro*
 
-> Luca always asks me for a loan of $72$ Euro. Unfortunately, I don't have them. If I had double the Euro I have in my pocket, I would have more (than what Luca asks me) than the amount I need to lend him $72$ Euro.
-> 
-> How much do I have in my pocket?
+> Luca always asks me to lend him $72$ euros. Unfortunately, I don't have them. If I had twice as many euros as I have in my pocket, I would have, in addition to what Luca is asking me for, the amount I'm short by in order to lend him $72$ euros.
+>
+> **How much do I have in my pocket?**
 
-**Answer:** 48 Euro
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2010#q13|src_bocconi_rosi_2010__Q13]]
 
 
 
@@ -428,13 +490,17 @@ Middle-aged party with girls double boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time to empty damigiana by drinking together*
+*Time to empty the demijohn by drinking together*
 
-> On his own, Donato would take us now to learn the contents of a bottle of wine; Marco,$3$hours; Michele,$6$hours.
-> 
-> If you put them together to drink, how long does it take you to finish the dinner?
+> On his own, Donato would take $1$ hours to drink the contents of a large wine jug; Marco, $3$ hours; Michele, $6$ hours.
+>
+> **If they all start drinking together, how long will it take them to finish the jug?**
 
-**Answer:** 40 minutes
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_rosi_2010#q14|src_bocconi_rosi_2010__Q14]]
 
 
 
@@ -459,13 +525,17 @@ Middle-aged party with girls double boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Current time with condition on fifths of the time elapsed*
+*Current time with a condition on fifths of elapsed time*
 
-> To know what time it is this morning, one must add to the time left at noon two-fifths of the time since midnight.
-> 
-> What time is it?
+> To find out what time it is this morning, just add two-fifths of the time that has elapsed since midnight to the time remaining until noon.
+>
+> **What time is it?**
 
-**Answer:** It is half past 7
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2010#q15|src_bocconi_rosi_2010__Q15]]
 
 
 
@@ -490,13 +560,17 @@ Middle-aged party with girls double boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Formula 1: after how many minutes the fast overtakes the slow*
+*Formula 1: after how many minutes does the fast one overtake the slow one?*
 
-> On the road to a motorway, two cars start at the same time. To complete a full lap, the faster one takes $28$ minutes; the slower one, $32$ minutes.
-> 
-> After how many minutes will the fastest car reach the other for the first time?
+> On a motor racing circuit, two cars appear and start together. To complete one lap, the faster car takes $28$ minutes; the slower car takes $32$ minutes.
+>
+> **After how many minutes will the faster car overtake the other car again for the first time?**
 
-**Answer:** 224 minutes (3 hours and 44 minutes)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_rosi_2010#q16|src_bocconi_rosi_2010__Q16]]
 
 
 
@@ -522,13 +596,18 @@ Middle-aged party with girls double boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Handshakes at parties by couples without partners*
+*Handshakes at a party for couples without partners*
 
-> It's time to say hi. At the end of the party (which was attended by only couples) everyone greets everyone except, of course, their partner. They counted$112$ handshakes.
-> 
-> **How many participants were there? **
+> It's time to say goodbye. At the end of the party (which only couples attended), everyone says goodbye to everyone else—except, of course, their own partner. Thus, $112$ handshakes were counted.
+>
+> **How many people took part?**
 
-**Answer:** There were 16 participants
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_rosi_2010#q17|src_bocconi_rosi_2010__Q17]]
 
 
 
@@ -554,13 +633,18 @@ Middle-aged party with girls double boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Next year with 53 full weekends after 2000*
+*Next year, with 53 full weekends after 2000*
 
-> In $2000$ there were $53$ full weekends (Saturday and Sunday).
-> 
-> **What year will it be with full weekends? **
+> In $2000$, there were $53$ full weekends (Saturday and Sunday).
+>
+> **Which will be the next year with $53$ full weekends?**
 
-**Answer:** In 2028
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_rosi_2010#q18|src_bocconi_rosi_2010__Q18]]
 
 
 
@@ -590,13 +674,18 @@ Middle-aged party with girls double boys
 
 *Counting rectangles in a 2x3 grid*
 
-> **How many rectangles do you see in the figure?**
-> 
-> (Warning: a square is a particular rectangle!)
+> How many rectangles do you see in the figure?
+>
+> (Note: a square is a special type of rectangle!)
 
 ![[src_bocconi_rosi_2010__q19.png]]
 
-**Answer:** 18 rectangles
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_rosi_2010#q19|src_bocconi_rosi_2010__Q19]]
 
 
 
@@ -624,12 +713,17 @@ Middle-aged party with girls double boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ACD angle by folding a diagonal rectangle*
+*ACD angle, folding a rectangle along the diagonal*
 
-> Fold the $ABCD$ rectangle along its $AC$ diagonal, thus obtaining the $ACF$ triangle. The area of the $BEC$ triangle is $\frac{1}{6}$ of that of the rectangle.
-> 
-> **What is the angle measurement $ACD$ in degrees?**
+> Fold the rectangle $ABCD$ along its diagonal $AC$, thereby obtaining the triangle $ACF$. The area of the triangle $BEC$ is $\frac{1}{6}$ of the area of the rectangle.
+>
+> **What is the measure of angle $ACD$ in degrees?**
 
 ![[src_bocconi_rosi_2010__q20.png]]
 
-**Answer:** The angle $ACD$ measures $30^\circ$
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_rosi_2010#q20|src_bocconi_rosi_2010__Q20]]

@@ -41,11 +41,26 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expression calculation with powers of 2 and 16*
+*Calculation of an expression with powers of 2 and 16*
 
-> Calculation: 2 · 22 · 23 · 24 · 259 (16 · 162 · 163 · 164 · 165) 2 A 215 B 1 C 2 D 1 215 E 224 F 1 224
+> Calculate:
+> 2 · 22 · 23 · 24 · 25 9
+> (16 · 162 · 163 · 164 · 165)2
+> A 215
+> B 1
+> C 2
+> D
+> 1
+> 215
+> E 224
+> F
+> 1
+> 224
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2014_classiprime#q01|src_archimede_2014_classiprime__Q01]]
 
 
 
@@ -77,13 +92,21 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the inner angles of a concave quadrilateral*
+*Sum of the interior angles of a concave quadrilateral*
 
-![[src_archimede_2014_classiprime__prob2.png]]
+> What is the sum of the interior angles of a concave quadrilateral?
+> A 360°
+> B 300°
+> C 390°
+> D 420°
+> E 480°
+> F it is not a fixed value
+> but varies as the quadrilateral varies
 
-> What is the sum of the interior angles of a convex quadrilateral? A 360° B 300° C 390° D 420° E 480° F is not a fixed value but varies as the quadrilateral changes
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2014_classiprime#q02|src_archimede_2014_classiprime__Q02]]
 
 
 
@@ -118,11 +141,22 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum attempts for cash registers with a changed number*
+*Minimum attempts for a safe with one digit changed*
 
-> A thief must break into a safe and find, a week before the theft, that the combination is 06108. Unfortunately, the day before the theft he learns that one of the numbers in the combination (we don't know which) has been changed. What's the minimum number of attempts you have to make to make sure you open the safe? A 45 B 5 C 10 D 9 E 25 F 55
+> A thief must break into a safe and discovers, a week before the theft, that the combination is 06108. Unfortunately, the day before the theft he finds out that one of the digits of the combination (it is not known which one) has been changed.
+> What is the minimum number of attempts he must make to be sure of opening the safe?
+> A 45
+> B 5
+> C 10
+> D 9
+> E 25
+> F 55
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2014_classiprime#q03|src_archimede_2014_classiprime__Q03]]
 
 
 
@@ -159,11 +193,22 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum bananas for pirates divided between pirates and mermaids (mcm)*
+*Minimum bananas per pirate divisible among pirates and mermaids (lcm)*
 
-> The Island of the Sirens has defeated the Island of the Pirates and, as war booty, is entitled to a certain number of bananas. The Law of Piracy stipulates that bananas are distributed among mermaids so that each one receives the same number of bananas. It also stipulates that pirates put the loot together by each delivering the same amount of bananas. Knowing that the pirates are 432 and the mermaids are 600, what is the minimum number of bananas that every pirate must deliver so that the mermaids can distribute them in equal parts. A 25 B 50 C 10 D 600 E 75 F None of the other answers are correct
+> The Island of the Mermaids defeated the Island of the Pirates and, as war booty, is entitled to a certain number of bananas. The Law of Piracy establishes that the bananas be divided among the mermaids so that each receives the same number. It also establishes that the pirates put together the booty by each delivering the same quantity of bananas. Knowing that there are 432 pirates and 600 mermaids, state what is the minimum number of bananas that each pirate must deliver, so that the mermaids are able to divide it into equal parts.
+> A 25
+> B 50
+> C 10
+> D 600
+> E 75
+> F none of the other answers is
+> correct
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2014_classiprime#q04|src_archimede_2014_classiprime__Q04]]
 
 
 
@@ -201,11 +246,23 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum value for calculator with 4 keys*
+*Largest value achievable on a calculator with 4 keys*
 
-> On the display of a calculator, the zero value is initially written. The calculator has four special keys: Red, Green, White and Blue. If I push the Red button, the value on the display doubles, if I push the Green is squared, if I push the White is added to 1, if I push the Blue is removed 10. What's the biggest value I can get on the display by pushing each of the four keys once and only once, in the order I prefer? A 401 B 261 C 324 D 441 E 162 F None of the other answers are correct
+> On a calculator display the value zero is initially written. The calculator has 4 special keys: Red, Green, White and Blue.
+> If I press the Red key the value on the display doubles, if I press the Green key it is raised to the square, if I press the White key 1 is added to it, if I press the Blue key 10 is taken away from it.
+> What is the largest value I can obtain on the display by pressing each of the four keys exactly once, in the order I prefer?
+> A 401
+> B 261
+> C 324
+> D 441
+> E 162
+> F none of the other answers is correct
 
-**Answer:** A
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2014_classiprime#q05|src_archimede_2014_classiprime__Q05]]
 
 
 
@@ -270,46 +327,24 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*APE angle in a regular octagon with diagonal*
+*Angle APE where two diagonals of a regular octagon meet*
 
 ![[src_archimede_2014_classiprime__prob6.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.2]
-  \coordinate (A) at (3,0);
-  \coordinate (B) at (2.121,2.121);
-  \coordinate (C) at (0,3);
-  \coordinate (D) at (-2.121,2.121);
-  \coordinate (E) at (-3,0);
-  \coordinate (F) at (-2.121,-2.121);
-  \coordinate (G) at (0,-3);
-  \coordinate (H) at (2.121,-2.121);
-  \coordinate (O) at (0,0);
-  \coordinate (P) at (1.243,1.757);
-  \draw (A)--(B)--(C)--(D)--(E)--(F)--(G)--(H)--cycle;
-  \draw (A)--(C);
-  \draw (B)--(E);
-  \draw (C)--(O)--(A);
-  \draw (O)--(B);
-  \foreach \pt in {A,B,C,D,E,F,G,H,O,P} \fill (\pt) circle (1.6pt);
-  \node[right] at (A) {$A$};
-  \node[above right] at (B) {$B$};
-  \node[above] at (C) {$C$};
-  \node[above left] at (D) {$D$};
-  \node[left] at (E) {$E$};
-  \node[below left] at (F) {$F$};
-  \node[below] at (G) {$G$};
-  \node[below right] at (H) {$H$};
-  \node[below] at (O) {$O$};
-  \node[above left] at (P) {$P$};
-\end{tikzpicture}
-\end{document}
-```
+> In the regular octagon ABCDEFGH the diagonals AC and BE meet at the point P. What is the size of the angle d
+> APE?
+> A 112, 5°
+> B 120°
+> C 117, 5°
+> D 144°
+> E 108°
+> F 115, 5°
 
-> In the regular ABCDEFGH octagon the AC and BE diagonals intersect at the point P. How much is the APE angle? A 112, 5° B 120° C 117, 5° D 144° E 108° F 115, 5°
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
-**Answer:** A
+[[Quesiti/src_archimede_2014_classiprime#q06|src_archimede_2014_classiprime__Q06]]
 
 
 
@@ -344,11 +379,26 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of convex numbers with multiple sums of 10*
+*Smallest handful of bingo numbers with sum a multiple of 10*
 
-> In a bag there are the 90 numbers of the tomb: 90 wooden scissors numbered from 1 to 90. I need two of these so that their sum is a multiple of 10. So I take a handful of them blindly, and I hope to find two of them that will suit me. What is the minimum amount of numbers my hand must contain to make sure this happens? A 39 B 11 C 46 D 10 E 54 F 19
+> In a bag there are the 90 bingo numbers: 90 wooden discs
+> numbered from 1 to 90. I need 2 such that their sum is a multiple of
+> 10. So I take a handful blindly and hope, among them, to find two
+> that suit me.
+> What is the minimum quantity of numbers that my handful must contain, to
+> be sure that this happens?
+> A 39
+> B 11
+> C 46
+> D 10
+> E 54
+> F 19
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2014_classiprime#q07|src_archimede_2014_classiprime__Q07]]
 
 
 
@@ -381,11 +431,24 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-Final product zeros n * m data MCD and mcm *
+*Final zeros of the product n·m given GCD and LCM*
 
-> Of two integers n and m we know that the maximum common divisor is 2 · 34 · 5 while the minimum common multiple is 23 · 37 · 52 · 7. How many zeros does the product end with? A 3 B 4 C 1 D 2 E more than 4 F not uniquely determinable from the data provided
+> Of two integers n and m we know that the Greatest Common Divisor
+> is 2 · 34 · 5 while the Least Common Multiple is 23 · 37 · 52 · 7. With how many zeros
+> does the product n · m end?
+> A 3
+> B 4
+> C 1
+> D 2
+> E more than 4
+> F not uniquely determinable
+> from the data alone
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2014_classiprime#q08|src_archimede_2014_classiprime__Q08]]
 
 
 
@@ -419,13 +482,20 @@ Final product zeros n * m data MCD and mcm *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*APQ triangle area given area of ABC and segments*
+*Area of triangle APQ given the area of ABC and segments*
 
-![[src_archimede_2014_classiprime__prob9.png]]
+> In triangle ABC, AB = 60 cm and AC = 50 cm. Take P on side AB and Q on side AC so that AP = AQ = 10 cm. If the area of ABC is 720 cm², what is the area of triangle APQ, in cm²?
+> A 24
+> B 32
+> C 20
+> D 18
+> E 36
+> F not determinable from the given data alone
 
-> In the ABC triangle you have AB = 60cm and AC = 50cm. Let's take P on the AB side and Q on the AC side so that AP = AQ = 10cm. If the area of ABC is 720cm2, what is the area of the APQ triangle in cm2? A 24 B 32 C 20 D 18 E 36 F cannot be determined by the data provided alone
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2014_classiprime#q09|src_archimede_2014_classiprime__Q09]]
 
 
 
@@ -470,11 +540,36 @@ Final product zeros n * m data MCD and mcm *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of the monomy x^7y^10 in an ordered list*
+*Position of the monomial x^7y^10 in an ordered list*
 
-> We arrange all possible monoms (with coefficient 1) in the variables x and y and degree not greater than 20, as follows: x20, x19y, x19, x18y2, x18y, x18, x17y3, x17y2, . . . where, in order to establish the order of the mononyms in the list, the following rules have been used: (a) the one with the highest exponent of x has precedence; (b) at par of exponents of x, the one with the highest exponent of y has precedence. What is the position of x7y10 in the list? A 95a B 214a C 89a D 147a E 144a F 72a
+> We line up all possible monomials (with coefficient 1) in the variables x and y
+> of degree not greater than 20, in the following way:
+> x20,
+> x19y,
+> x19,
+> x18y2,
+> x18y,
+> x18,
+> x17y3,
+> x17y2,
+> . . .
+> where, to establish the order of the monomials in the list, the following rules were used:
+> (a) whoever has the higher exponent of x takes precedence;
+> (b) with equal exponents of x, whoever has the higher exponent of y
+> takes precedence.
+> What position does the monomial x7y10 occupy in the list?
+> A 95th
+> B 214th
+> C 89th
+> D 147th
+> E 144th
+> F 72nd
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2014_classiprime#q10|src_archimede_2014_classiprime__Q10]]
 
 
 
@@ -537,37 +632,28 @@ Final product zeros n * m data MCD and mcm *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of areas dividing trapezoid by the midpoints of the sides*
+*Ratio of the two areas when the midpoints of the legs of a trapezium are joined*
 
 ![[src_archimede_2014_classiprime__prob11.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.1]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (6,0);
-  \coordinate (C) at (4.5,2);
-  \coordinate (D) at (1.5,2);
-  \coordinate (P) at (0.75,1);
-  \coordinate (Q) at (5.25,1);
-  \fill[black!22] (A)--(B)--(Q)--(P)--cycle;
-  \fill[black!8] (P)--(Q)--(C)--(D)--cycle;
-  \draw (A)--(B)--(C)--(D)--cycle;
-  \draw (P)--(Q);
-  \foreach \pt in {A,B,C,D,P,Q} \fill (\pt) circle (1.8pt);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above right] at (C) {$C$};
-  \node[above left] at (D) {$D$};
-  \node[left] at (P) {$P$};
-  \node[right] at (Q) {$Q$};
-\end{tikzpicture}
-\end{document}
-```
+> In the trapezium ABCD the longer base AB is twice the shorter base CD. Joining the midpoints of the non-parallel sides divides the trapezium into two parts of areas α and β (α the smaller, β the larger). What is the ratio of α to β?
+> A 5
+> 7
+> B 1
+> 2
+> C 2
+> 3
+> D 3
+> 4
+> E 7
+> 9
+> F it cannot be determined from the data given alone
 
-> In the trapezoid ABCD the major base AB is twice the minor base CD. By joining the midpoints of the oblique sides, the trapezoid remains divided into two parts of area α and β (α is the smallest and β the largest). What's the relationship between α and β? A 5 7 B 1 2 C 2 3 D 3 4 E 7 9 F cannot be determined by the data provided alone
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
-**Answer:** A
+[[Quesiti/src_archimede_2014_classiprime#q11|src_archimede_2014_classiprime__Q11]]
 
 
 
@@ -602,11 +688,25 @@ Final product zeros n * m data MCD and mcm *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which polynomials are not decomposable on integer coefficients*
+*Which polynomials are NOT factorisable over the integers*
 
-> Consider the following polynomials: p(x) = x2 + x + 1, q(x) = x4 + x2 + 1, h(x) = x4 + 64 Which of them are NOT further decomposable as the product of two polynomials with strictly lower degree integer coefficients? A only p(x) B no C all D only p(x) and q(x) And only h(x) F only p(x) and h(x)
+> Consider the polynomials:
+> p(x) = x2 + x + 1,
+> q(x) = x4 + x2 + 1,
+> h(x) = x4 + 64
+> Which of them are NOT further factorisable as a product of two polynomials with integer coefficients of strictly lower degree?
+> A only p(x)
+> B none
+> C all
+> D only p(x) and q(x)
+> E only h(x)
+> F only p(x) and h(x)
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2014_classiprime#q12|src_archimede_2014_classiprime__Q12]]
 
 
 
@@ -638,9 +738,19 @@ Final product zeros n * m data MCD and mcm *
 
 *Number of positive divisors of n=1122^2-121*
 
-> To say how many positive divisors of n = 11222 −121 (also counting 1 and n). A 12 B 121 C 30 D 9 E 36 F 6
+> How many positive divisors does n = 11222 −121 have (counting 1 and n as well)?
+> A 12
+> B 121
+> C 30
+> D 9
+> E 36
+> F 6
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2014_classiprime#q13|src_archimede_2014_classiprime__Q13]]
 
 
 
@@ -671,11 +781,21 @@ Final product zeros n * m data MCD and mcm *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For which number is not divisible by x^5-5x^3+4x in 2014*
+*For which number is x^5-5x^3+4x not divisible by 2014?*
 
-> Substituting 2014 for x in the polynomial x5 −5x3 +4x gives an integer value n. Which of the following numbers is NOT divisible by n? A 25 B 65 C 30 D 35 E 45 F 55
+> Substituting 2014 for x in the polynomial x^5 −5x^3 +4x gives an integer value n. For which of the following numbers is n NOT divisible?
+> A 25
+> B 65
+> C 30
+> D 35
+> E 45
+> F 55
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2014_classiprime#q14|src_archimede_2014_classiprime__Q14]]
 
 
 
@@ -708,11 +828,21 @@ Final product zeros n * m data MCD and mcm *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colors of 10 squares with different common sides bound*
+*Coloring 10 squares with a common-side constraint*
 
-> A rectangular land with sides of 20 and 50 meters is divided into 10 equal squares, each of which is sown with a crop of choice between carrots, potatoes and rapeseed, but making sure that two squares with a common side are always cultivated differently. How many different ways can you do this? A 486 B 512 C 1024 D 472 E 720 F 392
+> A rectangular plot with sides of 20 and 50 meters is divided into 10 equal squares, each of which is sown with a crop chosen from carrots, potatoes and turnips, but in such a way that two squares sharing a side are always cultivated differently. In how many different ways can this be done?
+> A 486
+> B 512
+> C 1024
+> D 472
+> E 720
+> F 392
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2014_classiprime#q15|src_archimede_2014_classiprime__Q15]]
 
 
 
@@ -743,11 +873,22 @@ Final product zeros n * m data MCD and mcm *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many of the numbers given are perfect squares*
+*How many of the given numbers are perfect squares*
 
-> Consider the numbers a = 190125, b = 119025, c = 129015, d = 110925 and e = 112095. How many of these are perfect squares? A 1 B 0 C 2 D 3 E 4 F 5
+> Consider the numbers a = 190125, b = 119025, c = 129015, d = 110925 and
+> e = 112095. How many of them are perfect squares?
+> A 1
+> B 0
+> C 2
+> D 3
+> E 4
+> F 5
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2014_classiprime#q16|src_archimede_2014_classiprime__Q16]]
 
 
 
@@ -785,13 +926,25 @@ Final product zeros n * m data MCD and mcm *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major side n with square sub-tables 2 white 2 black at the vertices*
+*Largest side n with square subtables having two white and two black corner cells*
 
-![[src_archimede_2014_classiprime__prob17.png]]
+> Every cell of a square table of side n is coloured white or black so that the following property holds:
+> whatever square subtable is taken, its four corner cells are two white and two black.
+> What is the maximum value that the side n of the chessboard can have?
+> A 4
+> B 3
+> C 5
+> D 6
+> E the maximum is an integer greater than
+> 6
+> F there is no maximum because, however large the chessboard is, it is always
+> possible to find a colouring that satisfies the required property
 
-> Each box in a square table on the n-side is colored white or black so that it has the following property: however you take a square sub-table, this one has the four top boxes which are 2 white and 2 black. What is the maximum value that the n-side of the chessboard can have? A 4 B 3 C 5 D 6 And the maximum is an integer greater than 6 F. There is no maximum because, no matter how big the chessboard is, it is always possible to find a colour that satisfies the required properties.
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2014_classiprime#q17|src_archimede_2014_classiprime__Q17]]
 
 
 
@@ -827,10 +980,21 @@ Final product zeros n * m data MCD and mcm *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remains of p(x) divided by x^2-1 given residues for x-1 and x+1*
+*Remainder of p(x) divided by x^2-1 given the remainders for x-1 and x+1*
 
-> From the polynomial p(x) we know that dividing it by (x −1) gets us as the remainder 3, while dividing it by (x + 1) gets us as the remainder −7. If you divide it by (x2 −1) what's the remainder you get? At 5x −2 B 3x −7 C 4x −3 D −4 E −21 F it is not possible to determine it from the data provided only 1
+> We know that dividing the polynomial p(x) by (x −1) gives a remainder of 3, while dividing it by (x + 1) gives a remainder of −7. If it is divided by (x2 −1), what remainder is obtained?
+> A 5x −2
+> B 3x −7
+> C 4x −3
+> D −4
+> E −21
+> F it is not possible to determine it from the data provided alone
+> 1
 > 
 > Solutions
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2014_classiprime#q18|src_archimede_2014_classiprime__Q18]]

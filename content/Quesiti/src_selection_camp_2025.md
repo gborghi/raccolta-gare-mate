@@ -31,9 +31,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova c così ogni insieme finito ha a,b,e con e dividendo a+b+2c*
+*Trovare c in modo che ogni insieme finito abbia a, b, e tali che e divida a+b+2c*
 
-> Trovare tutti gli integri positivi $c$ con la seguente proprietà: per ogni insieme finito non vuoto $\mathcal{S}$ di integri positivi, esistono (non necessariamente distinti) elementi $a, b$ di $\mathcal{S}$ e un elemento $e$ di $\mathcal{S}$ tale che $a + b + 2c$ sia divisibile da $e$.
+> Trovare tutti gli interi positivi $c$ con la seguente proprietà: per ogni insieme finito non vuoto $\mathcal{S}$ di interi positivi, esistono elementi $a, b$ di $\mathcal{S}$ (non necessariamente distinti) e un elemento $e$ di $\mathcal{S}$ tali che $a + b + 2c$ è divisibile per $e$.
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2025#q01|src_selection_camp_2025__Q01]]
 
 
 
@@ -58,9 +67,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo, costruzione di tangenza incircolare; dimostrare due linee parallele*
+*Triangolo, costruzione del punto di tangenza dell'incircoscritto; dimostrare che due rette sono parallele*
 
-> $ABC$ sia un triangolo con incircolo $\omega$. I punti $D$ e $E$ si trovano rispettivamente sui lati $AB$ e $AC$ (non nei punti finali), e $\omega$ è anche tangente alla linea $DE$, toccandola in un punto $P$. Il $M$ deve essere il punto medio dell'arco $BC$ del circoncircolo e il $Q$ deve essere il secondo incrocio della linea $MP$ con $\omega$. Se $B'$ è la seconda intersezione della linea $DM$ con $\omega$ e $C'$ è la seconda intersezione della linea $EM$ con $\omega$, con $B' \ne C'$, e supponiamo che $A$ e $Q$ si trovino sullo stesso lato della linea $BC$. Let $O$ essere il centro del triangolo $DEM$, e let $Q'$ essere il punto su $\omega$ con $B'Q' : C'Q' = BQ : CQ$. Prova che la riga $MO$ è parallela alla riga $QQ'$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Sia $ABC$ un triangolo con cerchio inscritto $\omega$. I punti $D$ e $E$ giacciono rispettivamente sui lati $AB$ e $AC$ (non negli estremi), e $\omega$ è anch'esso tangente alla retta $DE$, toccandola in un punto $P$. Sia $M$ il punto medio dell'arco $BC$ della circonferenza circoscritta, e sia $Q$ il secondo punto d'intersezione della retta $MP$ con $\omega$. Sia $B'$ il secondo punto d'intersezione della retta $DM$ con $\omega$, e sia $C'$ il secondo punto d'intersezione della retta $EM$ con $\omega$, con $B' \ne C'$, e si supponga che $A$ e $Q$ giacciano sullo stesso lato rispetto alla retta $BC$. Sia $O$ l'incentro del triangolo $DEM$, e sia $Q'$ il punto su $\omega$ con $B'Q' : C'Q' = BQ : CQ$. Dimostrare che la retta $MO$ è parallela alla retta $QQ'$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2025#q02|src_selection_camp_2025__Q02]]
 
 
 
@@ -85,9 +103,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n x n grid, operazione 2x2 da una sola cella nera; trovare tutte le n completamente colorabili*
+*Griglia n x n, operazione 2x2 a partire da una cella nera; trova tutte le n completamente colorabili*
 
-> Lasciamo $n$ essere un intero con $n \ge 2$, e consideriamo una griglia di celle $n \times n$. Inizialmente esattamente una cellula nella riga superiore è di colore nero, e tutte le altre cellule sono bianche. Si può ripetere la seguente operazione: scegliere un blocco di celle $2 \times 2$ in cui esattamente una cellula è attualmente colorata in nero e colorare le cellule $3$ rimanenti di quel blocco in nero. Determinare tutte le $n$ per le quali è possibile, ripetendo questa operazione, raggiungere uno stato in cui ogni cella della griglia è nera.
+> Sia $n$ un numero intero con $n \ge 2$, e si consideri una griglia di celle di dimensione $n \times n$. Inizialmente, esattamente una cella nella riga in alto è colorata di nero e tutte le altre celle sono bianche. Si può ripetere l'operazione seguente: scegliere un blocco di celle di dimensione $2 \times 2$ in cui esattamente una cella è attualmente colorata di nero, e colorare di nero le restanti $3$ celle di quel blocco. Determinare tutti gli $n$ per cui è possibile, ripetendo questa operazione, raggiungere uno stato in cui ogni cella della griglia è nera.
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2025#q03|src_selection_camp_2025__Q03]]
 
 
 
@@ -112,9 +139,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n studenti, n gare, distintivo (a,b) per esattamente un top-b; massimizzazione del punteggio totale*
+*n studenti, n gare, distintivo (a,b) per esattamente a piazzamenti tra i primi b; massimizza il punteggio totale*
 
-> $n$ sia un numero intero positivo. Ciascuno degli studenti $n$ corre in gare $n$. In ciascuna gara a tutti gli studenti $n$ vengono assegnati ranghi distinti (non due studenti condividono un rank). Per una coppia di integri positivi $(a, b)$, si dice che uno studente abbia il titolo $(a, b)$ se lo studente finisce tra i migliori $b$ in esattamente $a$ delle gare $n$. Il punteggio di uno studente è definito come il valore massimo di $a - b$ su tutti i titoli $(a, b)$ che lo studente detiene. Determinare il valore massimo possibile della somma dei punteggi di tutti gli studenti $n$.
+> Sia $n$ un intero positivo. Ciascuno dei $n$ studenti corre in $n$ gare. In ciascuna gara, a tutti i $n$ studenti vengono assegnati ranghi distinti (nessun studente condivide un rango con un altro). Per una coppia di interi positivi $(a, b)$, si dice che uno studente detiene il titolo $(a, b)$ se lo studente si classifica tra i primi $b$ in esattamente $a$ delle $n$ gare. Il punteggio di uno studente è definito come il valore massimo di $a - b$ su tutti i titoli $(a, b)$ che lo studente detiene. Determinare il valore massimo possibile della somma dei punteggi di tutti gli $n$ studenti.
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2025#q04|src_selection_camp_2025__Q04]]
 
 
 
@@ -139,9 +175,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca sottoinsiemi S di potenze di 2 realizzabili come immagine di f(a+b)-f(a)-f(b)*
+*Trovare sottoinsiemi S di potenze di 2 realizzabili come immagine di f(a+b)-f(a)-f(b)*
 
-> Determinare tutti i sottogruppi $\mathcal{S}$ di $\{2^0, 2^1, 2^2, \ldots\}$ con la seguente proprietà: esiste una funzione $f$ dai numeri interi positivi ai numeri interi positivi in modo tale che l'insieme di numeri interi della forma $f(a+b) - f(a) - f(b)$, come $a$ e $b$ si estende su tutti gli enti interi positivi, è uguale a $\mathcal{S}$.
+> Determinare tutti i sottoinsiemi $\mathcal{S}$ di $\{2^0, 2^1, 2^2, \ldots\}$ che godono della seguente proprietà: esiste una funzione $f$ dagli interi positivi agli interi positivi tale che l'insieme degli interi della forma $f(a+b) - f(a) - f(b)$, quando $a$ e $b$ variano su tutti gli interi positivi, sia uguale a $\mathcal{S}$.
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2025#q05|src_selection_camp_2025__Q05]]
 
 
 
@@ -168,11 +213,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con incentro, centri-arco e cerchi ausiliari; prova di tangenza*
+*Triangolo con incentro, punti medi degli archi e cerchi ausiliari; dimostrare la tangenza*
 
-> Il $ABC$ deve essere un triangolo con $AB < AC < BC$ e incentro $I$. Le linee $AI$, $BI$, $CI$ incontrano nuovamente il circoncircolo di $ABC$ (al punto diverso da $A$, $B$, $C$) rispettivamente a $M_A$, $M_B$ e $M_C$. Utilizzando questi punti, un punto ausiliario $X$ e ulteriori punti $P$, $Q$ sono costruiti attraverso linee e cerchi aggiuntivi attraverso $M_A$, $M_B$, $M_C$ (vedere figura). Provare la tangenza / collinearità risultante indicata nella figura. (Qui $UV$ indica la lunghezza del segmento $UV$.)
+> Sia $ABC$ un triangolo con $AB < AC < BC$ e incentro $I$. Le rette $AI$, $BI$, $CI$ incontrano nuovamente la circonferenza circoscritta a $ABC$ (nel punto diverso da $A$, $B$, $C$) rispettivamente nei punti $M_A$, $M_B$, $M_C$. Utilizzando questi punti, si costruiscono un punto ausiliario $X$ e ulteriori punti $P$, $Q$ mediante rette e circonferenze aggiuntive passanti per $M_A$, $M_B$, $M_C$ (vedi figura). Dimostrare la tangenza / collinearità risultante indicata nella figura. (Qui $UV$ denota la lunghezza del segmento $UV$.)
 
 ![[src_selection_camp_2025__q06.png]]
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2025#q06|src_selection_camp_2025__Q06]]
 
 
 
@@ -197,9 +251,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza: ogni nuovo termine è la media di termini superiori alla media; dimostrare la costanza finale*
+*Successione: ogni nuovo termine è la media dei termini superiori alla media; dimostrare una eventuale costanza*
 
-> Una sequenza di integri positivi $a_1, a_2, \ldots$ soddisfa la seguente condizione per ogni numero intero $n$ con $n \ge 2024$: $a_{n+1}$ è uguale alla media di quegli termini tra $a_1, a_2, \ldots, a_n$ che sono superiori o uguali alla media $\dfrac{a_1 + a_2 + \cdots + a_n}{n}$. Prova che per ogni intero $n$ con $n > 2024$, abbiamo $a_n = a_{2025}$.
+> Una successione di interi positivi $a_1, a_2, \ldots$ soddisfa la seguente condizione per ogni intero $n$ con $n \ge 2024$: $a_{n+1}$ è uguale alla media di quei termini di $a_1, a_2, \ldots, a_n$ che sono maggiori o uguali alla media $\dfrac{a_1 + a_2 + \cdots + a_n}{n}$. Dimostrare che, per ogni intero $n$ con $n > 2024$, si ha $a_n = a_{2025}$.
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2025#q07|src_selection_camp_2025__Q07]]
 
 
 
@@ -224,9 +287,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*1000 punti, set di punti triangolari con punti interni, pesi lineari; set magnifici mass*
+*1000 punti, insiemi triangolo-con-punto-interno, pesi lineari; insiemi belli massimi*
 
-> Nel piano ci sono punti $1000$, non tre collineari, chiamati punti buoni. Un insieme si chiama bello se è costituito da un triangolo le cui tre vertici sono punti buoni insieme con esattamente un punto buono che si trova rigorosamente all'interno di quel triangolo. Supponiamo che si possa assegnare un numero reale a ciascun punto buono in modo che si applichino entrambe le seguenti due condizioni: (1) esistono due punti buoni i cui numeri assegnati differiscono (cioè l'assegnazione non è costante); (2) per ogni insieme bello, il numero assegnato al suo punto buono interno è uguale alla media dei numeri assegnati ai tre vertici del triangolo. Determina il massimo numero possibile di set belli.
+> Nel piano ci sono $1000$ punti, nessun tre collineari, chiamati punti buoni. Un insieme si dice bello se è costituito da un triangolo i cui tre vertici sono punti buoni, insieme a esattamente un punto buono che giace strettamente all'interno di tale triangolo. Si supponga di poter assegnare un numero reale a ciascun punto buono in modo che valgano entrambe le seguenti condizioni: (1) esistono due punti buoni i cui numeri assegnati differiscono (cioè l'assegnazione non è costante); (2) per ogni insieme bello, il numero assegnato al punto buono interno è uguale alla media dei numeri assegnati ai tre vertici del triangolo. Determinare il numero massimo possibile di insiemi belli.
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_selection_camp_2025#q08|src_selection_camp_2025__Q08]]
 
 
 
@@ -251,9 +323,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*f sui numeri interi positivi: coprimità equivalente a un'identità moltiplicativa; trovare f(n)*
+*f sugli interi positivi: la coprimalità è equivalente a un'identità moltiplicativa; trovare f(n)*
 
-> Considerare le funzioni $f$ dai numeri interi positivi ai numeri interi positivi in modo tale che per tutti i numeri interi positivi $m, n$, le seguenti due affermazioni siano equivalenti: $m$ e $n$ sono coprime, e $f(mn)^2 = f(m^2)\, f(n)\, f(n)$ (cioè, $f(mn)^2 = f(m^2)\, f(n)^2$). Per ogni intero positivo $n$, determinare tutti i valori possibili di $f(n)$.
+> Si considerino le funzioni $f$ dagli interi positivi agli interi positivi tali che, per ogni intero positivo $m, n$, le seguenti due affermazioni siano equivalenti: $m$ e $n$ sono coprimi, e $f(mn)^2 = f(m^2)\, f(n)\, f(n)$ (ossia $f(mn)^2 = f(m^2)\, f(n)^2$). Per ogni intero positivo $n$, si determinino tutti i valori possibili di $f(n)$.
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2025#q09|src_selection_camp_2025__Q09]]
 
 
 
@@ -278,9 +359,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono ciclico, punti di intersezione diagonali; prova di conciclicità*
+*Pentagono ciclico, punti di intersezione delle diagonali; dimostrare la conciclicità*
 
-> Un pentagono $A_1A_2A_3A_4A_5$ è inserito in un cerchio. Per ogni numero intero $i$ con $1 \le i \le 5$, $B_i$ deve essere il punto di intersezione della riga $A_{i+1}A_{i-1}$ e della riga $A_{i-1}A_{i-2}$, dove gli indici sono presi modulo $5$ in modo che $A_n = A_{n+5}$. Dal pentagono $B_1B_2B_3B_4B_5$ si ottengono altri cinque punti di intersezione $I_1, I_2, I_3, I_4, I_5$ dei suoi lati/diagonali. Provare che $I_1, I_2, I_3, I_4, I_5$ si trova su un cerchio comune. (L'indice soddisfa $A_n = A_{n+5}$.)
+> Un pentagono $A_1A_2A_3A_4A_5$ è inscritto in una circonferenza. Per ogni intero $i$ tale che $1 \le i \le 5$, si ponga $B_i$ come punto di intersezione della retta $A_{i+1}A_{i-1}$ e della retta $A_{i-1}A_{i-2}$, dove gli indici sono presi modulo $5$ in modo che $A_n = A_{n+5}$. Dal pentagono $B_1B_2B_3B_4B_5$ si ottengono cinque ulteriori punti di intersezione $I_1, I_2, I_3, I_4, I_5$ dei suoi lati/diagonali. Dimostrare che $I_1, I_2, I_3, I_4, I_5$ giacciono su una circonferenza comune. (Gli indici soddisfano $A_n = A_{n+5}$.)
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2025#q10|src_selection_camp_2025__Q10]]
 
 
 
@@ -305,9 +395,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare n così ogni P cubo ha Q quadratico con Q(k)(P(k) + Q(k)) mai divisibile da n*
+*Trovare n tale che ogni polinomio cubico P abbia un polinomio quadratico Q per cui Q(k)(P(k)+Q(k)) non sia mai divisibile per n*
 
-> Determinare tutti i numeri interi positivi $n$ con la seguente proprietà: per ogni polinomio di grado-$3$ $P$ con coeficienti interi, esiste un polinomio di grado-$2$ $Q$ con coeficienti interi in modo che per ogni intero $k$, il valore $Q(k)\bigl(P(k) + Q(k)\bigr)$ non sia divisibile da $n$.
+> Determinare tutti gli interi positivi $n$ con la seguente proprietà: per ogni polinomio $P$ di grado $3$ a coefficienti interi, esiste un polinomio $Q$ di grado $2$ a coefficienti interi tale che, per ogni intero $k$, il valore $Q(k)\bigl(P(k) + Q(k)\bigr)$ non sia divisibile per $n$.
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2025#q11|src_selection_camp_2025__Q11]]
 
 
 
@@ -332,6 +431,15 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con uno spread massimo di 1 su qualsiasi p+1 e qualsiasi termine consecutivo q+1*
+*Successione con ampiezza max-min pari a 1 su qualsiasi p+1 e qualsiasi q+1 termini consecutivi*
 
-> $p$ e $q$ siano numeri interi positivi reciprocamente coprimi. Determinare tutte le sequenze di interi positivi $a_1, a_2, \ldots$ che soddisfano entrambe le seguenti condizioni: (i) per ogni intero positivo $n$, la differenza tra il più grande e il più piccolo di $a_n, a_{n+1}, \ldots, a_{n+p}$ è uguale a $1$; (ii) per ogni intero positivo $n$, la differenza tra il più grande e il più piccolo di $a_n, a_{n+1}, \ldots, a_{n+q}$ è uguale a $1$.
+> Siano $p$ e $q$ interi positivi distinti e coprimi tra loro. Determinare tutte le successioni di interi positivi $a_1, a_2, \ldots$ che soddisfano entrambe le seguenti condizioni: (i) per ogni intero positivo $n$, la differenza tra il massimo e il minimo di $a_n, a_{n+1}, \ldots, a_{n+p}$ è uguale a $1$; (ii) per ogni intero positivo $n$, la differenza tra il massimo e il minimo di $a_n, a_{n+1}, \ldots, a_{n+q}$ è uguale a $1$.
+
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2025#q12|src_selection_camp_2025__Q12]]

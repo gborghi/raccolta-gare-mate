@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizioni sulla somma delle diagonali e dei lati in un quadrilatero convesso*
+*Condizioni sulla somma delle diagonali e dei lati di un quadrilatero convesso*
 
 > In un quadrilatero convesso piano di area 32, la somma delle lunghezze di due lati opposti e di una diagonale è 16. Determinare tutte le possibili lunghezze dell'altra diagonale.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1976#q01|src_imho_1976__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Radici di polinomi iterati tutte reali e distinte*
+*Le radici del polinomio iterato sono tutte reali e distinte*
 
-> Siano $P_1(x) = x^2 - 2$ e $P_j(x) = P_1(P_{j-1}(x))$ per $j = 2, 3, \ldots$. Si dimostri che, per ogni intero positivo $n$, le radici dell'equazione $P_n(x) = x$ sono reali e distinte.
+> Siano $P_1(x) = x^2 - 2$ e $P_j(x) = P_1(P_{j-1}(x))$ per $j = 2, 3, \ldots$. Dimostrare che, per ogni intero positivo $n$, le radici dell'equazione $P_n(x) = x$ sono reali e distinte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1976#q02|src_imho_1976__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scatola rettangolare riempita con cubetti unitari, il 40% degli spigoli parallelo*
+*Scatola rettangolare riempita di cubi unitari, il 40% dei spigoli paralleli*
 
-> Una scatola a forma di parallelepipedo rettangolo può essere riempita completamente con cubi unitari. Se vi si collocano quanti più cubi possibile di volume 2 ciascuno, con gli spigoli paralleli agli spigoli della scatola, si riesce a riempire esattamente il 40% della scatola. Determinare le possibili dimensioni di tutte le scatole con questa proprietà.
+> Un parallelepipedo rettangolo può essere riempito completamente con cubi unitari. Se si collocano nel parallelepipedo il maggior numero possibile di cubi, ciascuno di volume 2, in modo che i loro spigoli siano paralleli agli spigoli del parallelepipedo, si può riempire esattamente il 40% del parallelepipedo. Determinare le possibili dimensioni di tutti i parallelepipedi di questo tipo.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1976#q03|src_imho_1976__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prodotto massimo di interi positivi la cui somma è 1976*
+*Il più grande prodotto di interi positivi la cui somma è 1976*
 
-> Determinare, con dimostrazione, il più grande numero che è prodotto di interi positivi la cui somma è 1976.
+> Determinare, con dimostrazione, il più grande numero che sia il prodotto di interi positivi la cui somma è 1976.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_imho_1976#q04|src_imho_1976__Q04]]
 
 
 
@@ -137,20 +165,24 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sistema lineare con coefficienti in {-1,0,1} ha soluzione intera*
+*Un sistema lineare con coefficienti in {-1,0,1} ammette una soluzione intera*
 
 > Si consideri il sistema di $p$ equazioni in $q = 2p$ incognite $x_1, x_2, \ldots, x_q$:
 > $$a_{11}x_1 + a_{12}x_2 + \cdots + a_{1q}x_q = 0$$
 > $$a_{21}x_1 + a_{22}x_2 + \cdots + a_{2q}x_q = 0$$
 > $$\vdots$$
 > $$a_{p1}x_1 + a_{p2}x_2 + \cdots + a_{pq}x_q = 0$$
-> con ogni coefficiente $a_{ij}$ appartenente all'insieme $\{-1, 0, 1\}$. Si dimostri che il sistema ammette una soluzione $(x_1, x_2, \ldots, x_q)$ tale che
->
-> (a) tutti gli $x_j$ ($j = 1, 2, \ldots, q$) siano interi,
->
-> (b) esista almeno un valore di $j$ per cui $x_j \neq 0$,
->
+> con ogni coefficiente $a_{ij}$ appartenente all'insieme $\{-1, 0, 1\}$. Dimostrare che il sistema ammette una soluzione $(x_1, x_2, \ldots, x_q)$ tale che
+> (a) tutti gli $x_j$ ($j = 1, 2, \ldots, q$) sono interi,
+> (b) esiste almeno un valore di $j$ per cui $x_j \neq 0$,
 > (c) $|x_j| \le q$ ($j = 1, 2, \ldots, q$).
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1976#q05|src_imho_1976__Q05]]
 
 
 
@@ -177,10 +209,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successione u_n definita per ricorrenza; si dimostri che il suo valore intero è 2^{...}*
+*Successione u_n definita per ricorrenza; dimostrare che il floor è uguale a 2^{...}*
 
 > La successione $\{u_n\}$ è definita da
 > $$u_0 = 2,\quad u_1 = \tfrac{5}{2},\quad u_{n+1} = u_n(u_{n-1}^2 - 2) - u_1 \quad \text{for } n = 1, 2, \ldots$$
-> Si dimostri che per ogni intero positivo $n$,
+> Dimostrare che, per gli interi positivi $n$,
 > $$[u_n] = 2^{[2^n - (-1)^n]/3}$$
-> dove $[x]$ indica il massimo intero $\le x$.
+> dove $[x]$ denota il più grande intero $\le x$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1976#q06|src_imho_1976__Q06]]

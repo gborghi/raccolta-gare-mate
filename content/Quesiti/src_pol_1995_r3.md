@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio di sottoinsiemi di {1..2n} senza soluzione a x+y=2z+1*
+*Conta i sottoinsiemi di {1..2n} per cui non esiste alcuna soluzione dell'equazione x+y=2z+1*
 
-> Trova il numero di sottoinsiemi di $\{1, 2, \ldots, 2n\}$ in cui l'equazione $x + y = 2z + 1$ non ha soluzioni.
+> Trovare il numero di sottoinsiemi di $\{1, 2, \ldots, 2n\}$ in cui l'equazione $x + y = 2z + 1$ non ammette soluzioni.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1995_r3#q01|src_pol_1995_r3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Poligono converso tagliato in pentagoni e triangoli, superficie più grande*
+*Poligono convesso suddiviso in un pentagono e dei triangoli, area massima*
 
-> Un poligono convexo è tagliato dalle sue diagonali in un pentagono e dieci triangoli. Qual è il maggior numero di triangoli ottenuti che possono avere la stessa area?
+> Un poligono convesso viene suddiviso dalle sue diagonali in un pentagono e in dieci triangoli. Qual è il numero massimo di triangoli ottenuti che possono avere la stessa area?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1995_r3#q02|src_pol_1995_r3__Q02]]
 
 
 
@@ -81,9 +95,18 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza mod p definita con ricursione; trovare il resto di a_n diviso per p*
+*Successione mod p definita per ricorrenza; trovare il resto della divisione di a_n per p*
 
-> Lasciate che $p > 3$ sia un primo e lasciate $q = p^2$. La sequenza $(a_n)$ è definita da $$a_n = \begin{cases} n & \text{for } n = 0, 1, 2, \ldots, p-1; \\ a_{n-1} + a_{n-p} & \text{for } n \ge p. \end{cases}$$ Determina il rimanente quando $a_q$ è diviso da $p$.
+> Sia $p > 3$ un numero primo e sia $q = p^2$. La successione $(a_n)$ è definita da
+> $$a_n = \begin{cases} n & \text{for } n = 0, 1, 2, \ldots, p-1; \\ a_{n-1} + a_{n-p} & \text{for } n \ge p. \end{cases}$$
+> Determinare il resto della divisione di $a_q$ per $p$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1995_r3#q03|src_pol_1995_r3__Q03]]
 
 
 
@@ -107,9 +130,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali positivi con media armonica 1; minimizzare la somma delle espressioni reciproche*
+*Numeri reali positivi con media armonica uguale a 1; minimizzare l'espressione della somma dei reciproci*
 
-> $x_1, x_2, \ldots, x_n$ siano numeri positivi con media armonica pari a $1$. Trova il minimo valore possibile di $$x_1 + \frac{x_2^2}{2} + \frac{x_3^3}{3} + \cdots + \frac{x_n^n}{n}.$$
+> Siano $x_1, x_2, \ldots, x_n$ numeri positivi con media armonica uguale a $1$. Determinare il valore minimo possibile di
+> $$x_1 + \frac{x_2^2}{2} + \frac{x_3^3}{3} + \cdots + \frac{x_n^n}{n}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1995_r3#q04|src_pol_1995_r3__Q04]]
 
 
 
@@ -132,9 +163,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Urn con n fogli etichettati 1..n; numero previsto di disegni divisibili per 4*
+*Urna con n fogli etichettati da 1 a n; numero atteso di estrazioni divisibile per 4*
 
-> Una urna contiene fogli di carta $n$ etichettati $1, 2, \ldots, n$. Tracciamo le foglie una per una senza rimetterle nell'urna fino a ottenere un foglio con un numero divisibile per $4$. Per un $n$ fisso, determinare tutti i valori di $k$ per i quali il valore atteso del numero di disegni è uguale a $k$.
+> Un'urna contiene $n$ fogli di carta etichettati con $1, 2, \ldots, n$. Estraiamo i fogli uno alla volta senza reinserirli nell'urna finché non otteniamo un foglio con un numero divisibile per $4$. Per un $n$ fisso, determina tutti i valori di $k$ per cui il valore atteso del numero di estrazioni è uguale a $k$.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1995_r3#q05|src_pol_1995_r3__Q05]]
 
 
 
@@ -158,6 +196,14 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Raggi da un punto termico comune; dimostrare esattamente una coppia di punti B,C sui raggi con PA+AB=PC+CB e PB+BC=PA+AC*
+*Raggi aventi un estremo comune; dimostrare che esiste esattamente una coppia di punti B, C sui raggi tale che PA+AB=PC+CB e PB+BC=PA+AC*
 
-> Sono indicati tre raggi $l$, $m$, $n$ nello spazio con un punto di fine comune $P$ e un punto $A$ su $l$. Prova che esiste esattamente un paio di punti $B \in m$ e $C \in n$ in modo tale che $$PA + AB = PC + CB \quad \text{and} \quad PB + BC = PA + AC.$$
+> Sono dati tre raggi $l$, $m$, $n$ nello spazio, aventi un estremo comune $P$, e un punto $A$ appartenente a $l$. Dimostrare che esiste esattamente una coppia di punti $B \in m$ e $C \in n$ tale che
+> $$PA + AB = PC + CB \quad \text{and} \quad PB + BC = PA + AC.$$
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1995_r3#q06|src_pol_1995_r3__Q06]]

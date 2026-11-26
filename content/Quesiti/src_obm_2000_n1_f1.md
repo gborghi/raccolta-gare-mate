@@ -36,13 +36,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Estendere il modello di moltiplicazione per trovare il moltiplicatore mancante*
+*Estendi il pattern di moltiplicazione per trovare il moltiplicatore mancante*
 
-> Osservare le seguenti moltiplicazioni: $$12\,345\,679 \times 18 = 222\,222\,222$$ $$12\,345\,679 \times 27 = 333\,333\,333$$ $$12\,345\,679 \times 36 = 444\,444\,444$$ Per ottenere $999\,999\,999$ dobbiamo moltiplicare $12\,345\,679$ per:
-> 
+> Osserva le seguenti moltiplicazioni:
+> $$12\,345\,679 \times 18 = 222\,222\,222$$
+> $$12\,345\,679 \times 27 = 333\,333\,333$$
+> $$12\,345\,679 \times 36 = 444\,444\,444$$
+> Per ottenere $999\,999\,999$, dobbiamo moltiplicare $12\,345\,679$ per:
+>
 > (A) $29$ \quad (B) $99$ \quad (C) $72$ \quad (D) $41$ \quad (E) $81$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n1_f1#q01|src_obm_2000_n1_f1__Q01]]
 
 
 
@@ -68,13 +77,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Spagno con orario straordinario: trovare il salario base*
+*Stipendio con gli straordinari: determina la retribuzione di base*
 
-> Dino ha guadagnato $250$ reais, compreso il pagamento per le ore extra. Il salario (quando le ore di lavoro esteso sono standard) supera i REAL $200$ nell'importo da pagare per le ore di lavoro esteso. Quanto paga?
-> 
-> (A) $200$ reais \quad (B) $150$ reais \quad (C) $225$ reais \quad (D) $175$ reais \quad (E) $180$ reais
+> Dino ha guadagnato $250$ reais, compreso il compenso per le ore di straordinario. Lo stipendio (quando le ore di straordinario sono standard) supera di $200$ reais l'importo che deve essere pagato per le ore di straordinario. Qual è il suo stipendio?
+>
+> (A) $200$ reali \quad (B) $150$ reali \quad (C) $225$ reali \quad (D) $175$ reali \quad (E) $180$ reali
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n1_f1#q02|src_obm_2000_n1_f1__Q02]]
 
 
 
@@ -100,13 +114,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'orologio digitale è di cifre uguali tra le 0:00 e le 23:59*
+*Orologio digitale con cifre uguali tra 0:00 e 23:59*
 
-> Su un orologio digitale che mostra i tempi da $0{:}00$ a $23{:}59$, quante volte al giorno il display mostra tutte le cifre uguali?
-> 
+> Su un orologio digitale che mostra orari da $0{:}00$ a $23{:}59$, quante volte al giorno lo schermo mostra tutti i numeri uguali?
+>
 > (A) $10$ \quad (B) $3$ \quad (C) $6$ \quad (D) $7$ \quad (E) $9$
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n1_f1#q03|src_obm_2000_n1_f1__Q03]]
 
 
 
@@ -132,13 +151,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cambia le bottiglie vuote con quelle piene: bottiglie massime*
+*Scambia le bottiglie vuote con quelle piene: numero massimo di bottiglie*
 
-> Il municipio di una certa città ha condotto una campagna che ha permesso lo scambio di $4$ bottiglie vuote di latte $1$ per $1$ litro pieno di latte. Quanti litri pieni si possono ottenere da $43$ bottiglie complete, se si inizia con $43$ bottiglie complete?
-> 
+> Il municipio di una certa città ha condotto una campagna che consentiva di scambiare $4$ bottiglie vuote da $1$ litri di latte con $1$ litri di latte pieni. Quanti litri pieni si possono ottenere da $43$ bottiglie piene, supponendo di partire con $43$ bottiglie piene?
+>
 > (A) $11$ \quad (B) $12$ \quad (C) $13$ \quad (D) $14$ \quad (E) $15$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n1_f1#q04|src_obm_2000_n1_f1__Q04]]
 
 
 
@@ -164,13 +188,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Palle in scatola: riduzione del colore per eliminazione*
+*Palle in una scatola: deduzione dei colori per eliminazione*
 
-> Una scatola contiene diverse palle: blu, giallo, rosso, bianco e nero. Renato tira le palle $3$ dalla scatola. Sapendo che nessuna delle tre palle è nera, non gialla e non rossa, Renato vuole fare la seguente affermazione riguardo a queste palle $3$:
-> 
-> A) Sono tutti dello stesso colore. Quad (B) Sono rossi. \quad (C) Uno è rosso e gli altri due sono bianchi. \quad (D) Uno è bianco e gli altri due sono rossi. Quad (E) almeno uno è rosso.
+> In una scatola ci sono diverse palline: $5$ blu, $4$ gialle, $3$ rosse, $2$ bianche e $1$ nere. Renato estrae $3$ palline dalla scatola. Sapendo che nessuna delle tre palline è nera, né gialla, né rossa, Renato vuole formulare la seguente affermazione riguardo a queste $3$ palline:
+>
+> (A) Hanno tutti lo stesso colore. \quad (B) Sono rossi. \quad (C) Uno è rosso e gli altri due sono bianchi. \quad (D) Uno è bianco e gli altri due sono rossi. \quad (E) Almeno uno è rosso.
 
-**Risposta:** A
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n1_f1#q05|src_obm_2000_n1_f1__Q05]]
 
 
 
@@ -198,15 +227,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area oscurata in figura con rettangolo di superficie 12*
+*Area ombreggiata nella figura con un rettangolo di area 12*
 
-> Se l'area del rettangolo è $12$, qual è l'area della figura ombrata?
-> 
+> Se l'area del rettangolo è $12$, qual è l'area della figura ombreggiata?
+>
 > (A) $3$ \quad (B) $4$ \quad (C) $5$ \quad (D) $6$ \quad (E) $8$
 
 ![[src_obm_2000_n1_f1__q06.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2000_n1_f1#q06|src_obm_2000_n1_f1__Q06]]
 
 
 
@@ -232,13 +266,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Espresso 25 come somma di due prime in quanti modi*
+*In quanti modi si può esprimere 25 come somma di due numeri primi?*
 
 > Il numero $10$ può essere scritto come somma di due numeri primi in due modi: $10 = 5 + 5$ e $10 = 7 + 3$. In quanti modi possiamo esprimere il numero $25$ come somma di due numeri primi?
-> 
-> (A) $4$ \quad (B) $1$ \quad (C) $2$ \quad (D) $3$ \quad (E) none
+>
+> (A) $4$ \quad (B) $1$ \quad (C) $2$ \quad (D) $3$ \quad (E) nessuna
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n1_f1#q07|src_obm_2000_n1_f1__Q07]]
 
 
 
@@ -263,13 +302,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Costo di alcol per guidare 600 km a 25 km per 3 litri*
+*Costo dell'alcol per percorrere 600 km a 25 km ogni 3 litri*
 
-> Un litro di alcol costa 0,75$. Henrique's car travels $25$ km on $3$ litres of alcohol. How many reais will Henrique spend on alcohol to travel $600$ km?
-> 
+> Un litro di alcol costa $R\$0.75$. Henrique's car travels $25$ km on $3$ litres of alcohol. How many reais will Henrique spend on alcohol to travel $600$ km?
+>
 > (A) $54$ \quad (B) $72$ \quad (C) $50$ \quad (D) $52$ \quad (E) $45$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n1_f1#q08|src_obm_2000_n1_f1__Q08]]
 
 
 
@@ -295,13 +338,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un numero a due cifre invertito dà odd; la differenza è uguale a cubo*
+*Il numero a due cifre capovolto dà un numero dispari; la differenza è uguale a un cubo*
 
-> Un certo numero a due cifre $N$ è il quadrato di un numero naturale. Invertendo le cifre di quel numero, si ottiene un numero impar. La differenza tra i due numeri è il cubo di un numero naturale. Possiamo affermare che la somma delle cifre di $N$ è:
-> 
+> Un certo numero di due cifre $N$ è il quadrato di un numero naturale. Invertendo le cifre di tale numero, si ottiene un numero dispari. La differenza tra i due numeri è il cubo di un numero naturale. Possiamo affermare che la somma delle cifre di $N$ è:
+>
 > (A) $7$ \quad (B) $10$ \quad (C) $13$ \quad (D) $9$ \quad (E) $11$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n1_f1#q09|src_obm_2000_n1_f1__Q09]]
 
 
 
@@ -331,17 +379,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizione dell'engineria e della bandiera dopo rotazione parziale*
+*Posizione dell'ingranaggio e della bandiera dopo una rotazione parziale*
 
-> Juliano colora una piccola bandiera in grigio in ciascuna attrezzatura, come mostrato nella figura seguente.
-> 
-> Le marce sono identiche e quando la marcia sinistra gira un po', la sua piccola bandiera si muove; in questa condizione, possiamo affermare che la posizione della piccola bandiera sulla marcia destra è:
-> 
+> Juliano colora di grigio una piccola bandiera in ciascun ingranaggio, come mostrato nella figura sottostante.
+>
+> Gli ingranaggi sono identici e, quando l'ingranaggio di sinistra ruota leggermente, la sua piccola bandierina si muove; in questa condizione, possiamo affermare che la posizione della piccola bandierina sull'ingranaggio di destra è:
+>
 > (A) [immagine A] \quad (B) [immagine B] \quad (C) [immagine C] \quad (D) [immagine D] \quad (E) [immagine E]
 
 ![[src_obm_2000_n1_f1__q10.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n1_f1#q10|src_obm_2000_n1_f1__Q10]]
 
 
 
@@ -367,13 +420,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Scatole di palme di cuore impilate in scatole: numero totale
+*Scatole di cuori di palma impilate in casse: numero totale*
 
-> Una fabbrica imballa $8$ palme di cuore in scatole cubiche con un lato di $20$ cm. Per il miglior trasporto di queste scatole, esse sono collocate in scatole di $80$ cm di larghezza per $120$ cm di lunghezza per $60$ cm di altezza. Il numero di litri di cuori di palma in ciascuna scatola è:
-> 
+> Una fabbrica confeziona $8$ cuori di palma in scatole cubiche con spigolo di $20$ cm. Per il miglior trasporto di queste scatole, esse vengono collocate in casse di $80$ cm di larghezza, $120$ cm di lunghezza e $60$ cm di altezza. Il numero di litri di cuori di palma in ogni cassa è:
+>
 > (A) $576$ \quad (B) $4\,608$ \quad (C) $2\,304$ \quad (D) $720$ \quad (E) $144$
 
-**Risposta:** E
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n1_f1#q11|src_obm_2000_n1_f1__Q11]]
 
 
 
@@ -399,13 +457,18 @@ Scatole di palme di cuore impilate in scatole: numero totale
 <div class="qlang-split" data-lang="it"></div>
 
 
-*età di padre e di figlio, date le condizioni passate e future*
+*Età del padre e del figlio date in condizioni passate e future*
 
-> Hélio ha ora $18$ anni. Tre volte l'età di Hélio era esattamente l'età del padre di Hélio. Ora il padre ha il doppio dell'età di suo figlio. Quanti anni hanno Hélio e suo figlio?
-> 
-> (A) anni $72$ e anni $36$ e anni $18$. Quad (B) $36$ anni e $18$ anni e $18$ anni. Quad (C) $40$ anni e $20$ anni. Quad (D) $50$ anni e $25$ anni. \quad (E) $38$ anni e $19$ anni.
+> Hélio ha ora $18$ anni. Tre volte l'età di Hélio corrispondeva esattamente all'età del padre di Hélio. Ora il padre ha il doppio dell'età di suo figlio. Quanti anni hanno Hélio e suo figlio?
+>
+> (A) $72$ anni e $36$ anni e $18$ anni. \quad (B) $36$ anni e $18$ anni e $18$ anni. \quad (C) $40$ anni e $20$ anni. \quad (D) $50$ anni e $25$ anni. \quad (E) $38$ anni e $19$ anni.
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n1_f1#q12|src_obm_2000_n1_f1__Q12]]
 
 
 
@@ -442,17 +505,29 @@ Scatole di palme di cuore impilate in scatole: numero totale
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza in colonne: sotto la quale appare la lettera 2000*
+*Sequenza in colonne: sotto quale lettera compare 2000?*
 
 > I numeri interi positivi sono disposti in colonne come mostrato di seguito, a partire dalla lettera $A$:
-> 
-> $$\begin{array}{ccccccccc} A & B & C & D & E & F & G & H & I \\ 1 & & 2 & & 3 & & & & 5 \\ & 9 & & & & 7 & & 6 & \\ & & 11 & 12 & & & 13 & & 14 \\ 19 & & & 17 & & 16 & & 15 & \\ & 18 & & & & & & & \\ \end{array}$$
-> 
-> Sotto quale lettera appare il numero $2000$?
-> 
+>
+> $$\begin{array}{ccccccccc}
+> A & B & C & D & E & F & G & H & I \\
+> 1 & & 2 & & 3 & & & & 5 \\
+> & 9 & & & & 7 & & 6 & \\
+> & & 11 & 12 & & & 13 & & 14 \\
+> 19 & & & 17 & & 16 & & 15 & \\
+> & 18 & & & & & & & \\
+> \end{array}$$
+>
+> Sotto quale lettera compare il numero $2000$?
+>
 > (A) $F$ \quad (B) $B$ \quad (C) $C$ \quad (D) $I$ \quad (E) $A$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n1_f1#q13|src_obm_2000_n1_f1__Q13]]
 
 
 
@@ -478,13 +553,18 @@ Scatole di palme di cuore impilate in scatole: numero totale
 <div class="qlang-split" data-lang="it"></div>
 
 
-I figli di Emir Abdel Azir: problema di logica multipla
+*Figli di Emir Abdel Azir: problema logico multiplo*
 
-> Emir Abdel Aziz era famoso per avere molti figli. Ha avuto più di $39$ figli, tra cui gemelli. Infatti, lo storico Ahmed Aab afferma in due dei suoi libri che tutti i suoi figli gemelli erano doppi, tranne $39$; erano tripli, tranne $39$; erano tutti quadrupli, tranne $39$. Il numero dei figli dell' Emiro è:
-> 
+> Emir Abdel Aziz era famoso per avere molti figli maschi. Aveva più di $39$ figli maschi, compresi i gemelli. Infatti, lo storico Ahmed Aab afferma in due dei suoi libri che tutti i suoi figli maschi che erano gemelli erano di due, tranne $39$; erano di tre, tranne $39$; tutti erano di quattro, tranne $39$. Il numero dei figli maschi dell'Emiro è:
+>
 > (A) $111$ \quad (B) $48$ \quad (C) $51$ \quad (D) $78$ \quad (E) $75$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n1_f1#q14|src_obm_2000_n1_f1__Q14]]
 
 
 
@@ -515,17 +595,23 @@ I figli di Emir Abdel Azir: problema di logica multipla
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il puzzle logico: chi ha pagato l'ingresso al museo
+*Puzzle logico: chi ha pagato l'ingresso al museo?*
 
-> Quattro amici vogliono visitare un museo e uno di loro decide di pagare l'entrata per tutti. Un funzionario delle tasse che vuole sapere chi ha pagato l'ingresso li interroga:
-> 
-> - "Non sono stato io", dice Benjamim.  "È stato Carlos", dice Mário. - "E' stato Pedro", dice Carlos. "Mário ha torto, è stato Pedro", dice Pedro.
-> 
-> Solo uno di loro sta mentendo. Chi NON ha pagato l'ingresso al museo?
-> 
+> Quattro amici vogliono visitare un museo e uno di loro decide di pagare il biglietto d'ingresso per tutti. Un funzionario delle imposte, che vuole sapere chi ha pagato l'ingresso, li interroga:
+>
+> - "Non sono stato io", dice Benjamim. — "È stato Carlos", dice Mário.
+> - "Era Pedro", dice Carlos. — "Mário sbaglia, era Pedro", dice Pedro.
+>
+> Solo uno di loro sta mentendo. Chi NON ha pagato il biglietto d'ingresso al museo?
+>
 > (A) Mário \quad (B) Pedro \quad (C) Benjamim \quad (D) Carlos \quad (E) dati insufficienti
 
-**Risposta:** A
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n1_f1#q15|src_obm_2000_n1_f1__Q15]]
 
 
 
@@ -551,13 +637,18 @@ Il puzzle logico: chi ha pagato l'ingresso al museo
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco di bastoni: vincere la prima mossa da 1000
+*Gioco dei bastoncini: vincere la prima mossa da 1000*
 
-> In una partita per due giocatori, i giocatori si alternano per rimuovere i bastoni $1$, $2$, $3$, $4$ o $5$ da una pila che inizia a contenere bastoni $1000$. Il giocatore che prende l'ultimo bastone vince. Quanti bastoni deve togliere il giocatore che va per primo dalla pila iniziale per garantire una vittoria?
-> 
+> In un gioco per due giocatori, i giocatori a turno rimuovono $1$, $2$, $3$, $4$ o $5$ bastoncini da un mucchio che inizialmente contiene $1000$ bastoncini. Vince il giocatore che prende l'ultimo bastoncino. Quanti bastoncini deve rimuovere dal mucchio iniziale il giocatore che muove per primo per garantirsi la vittoria?
+>
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n1_f1#q16|src_obm_2000_n1_f1__Q16]]
 
 
 
@@ -583,13 +674,18 @@ Gioco di bastoni: vincere la prima mossa da 1000
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare numeri interi positivi inferiori a 1 000 000 i cui cubetti terminano in 1*
+*Conta gli interi positivi inferiori a 1.000.000 i cui cubi terminano con 1*
 
-> Quanti integri positivi e quanti integri negativi inferiori a $1\,000\,000$ hanno i loro cubi che terminano in $1$?
-> 
+> Quanti numeri interi positivi e quanti numeri interi negativi minori di $1\,000\,000$ hanno il cubo che termina con $1$?
+>
 > (A) $1\,000$ \quad (B) $10\,000$ \quad (C) $50\,000$ \quad (D) $100\,000$ \quad (E) $500\,000$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n1_f1#q17|src_obm_2000_n1_f1__Q17]]
 
 
 
@@ -615,13 +711,18 @@ Gioco di bastoni: vincere la prima mossa da 1000
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Comparare le medie dopo il trasferimento degli studenti in ultima posizione*
+*Confronto delle medie dopo aver spostato lo studente all'ultimo posto*
 
-> Gli studenti $61$ approvati in un concorso, i cui punteggi erano tutti diversi, sono stati suddivisi in due gruppi: gli studenti $31$ con il miglior punteggio nel gruppo $A$ e i $30$ successivi nel gruppo $B$. Sono state calcolate le medie di entrambi i gruppi. In seguito è stato deciso di spostare l'allievo ultimo nel gruppo $A$ al gruppo $B$. Con questo:
-> 
+> Gli studenti $61$ ammessi tramite una competizione, i cui voti erano tutti diversi, furono suddivisi in due gruppi: gli studenti $31$ con il punteggio più alto nel gruppo $A$ e gli studenti $30$ successivi nel gruppo $B$. Furono calcolate le medie di entrambi i gruppi. Poi si decise di spostare lo studente con il piazzamento più basso nel gruppo $A$ nel gruppo $B$. Con questo:
+>
 > (A) La media del gruppo $A$ è migliorata, ma quella del gruppo $B$ è peggiorata. \quad (B) La media del gruppo $A$ è peggiorata, ma quella del gruppo $B$ è migliorata. \quad (C) Le medie di entrambi i gruppi sono migliorate. \quad (D) Le medie di entrambi i gruppi sono peggiorate. \quad (E) Le medie di entrambi i gruppi possono migliorare o peggiorare, a seconda dei voti dei candidati.
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n1_f1#q18|src_obm_2000_n1_f1__Q18]]
 
 
 
@@ -647,13 +748,18 @@ Gioco di bastoni: vincere la prima mossa da 1000
 <div class="qlang-split" data-lang="it"></div>
 
 
-*100° termine di sequenza: moltipli di 7 o 8 nell'ordine*
+*100° termine della successione: multipli di 7 o di 8 in ordine*
 
-> I numeri interi positivi che sono multipli di $7$ o $8$ (o entrambi) sono scritti in ordine crescente: $7, 8, 14, 16, \ldots$ Il numero $100^\text{th}$ scritto è:
-> 
+> I numeri interi positivi che sono multipli di $7$ o di $8$ (o di entrambi) sono scritti in ordine crescente: $7, 8, 14, 16, \ldots$ Il numero $100^\text{th}$ scritto è:
+>
 > (A) $406$ \quad (B) $376$ \quad (C) $392$ \quad (D) $384$ \quad (E) $400$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n1_f1#q19|src_obm_2000_n1_f1__Q19]]
 
 
 
@@ -683,14 +789,19 @@ Gioco di bastoni: vincere la prima mossa da 1000
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Net di un cubo: identificare il cubo assemblato corretto*
+*Net di un cubo: identifica il cubo assemblato correttamente*
 
 > La figura qui sotto è disegnata su cartone e piegata per formare un cubo.
-> 
+>
 > Quale delle alternative mostra il cubo assemblato correttamente?
-> 
+>
 > (A) [immagine A] \quad (B) [immagine B] \quad (C) [immagine C] \quad (D) [immagine D] \quad (E) [immagine E]
 
 ![[src_obm_2000_n1_f1__q20.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2000_n1_f1#q20|src_obm_2000_n1_f1__Q20]]

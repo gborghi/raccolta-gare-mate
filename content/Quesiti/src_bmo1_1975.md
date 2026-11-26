@@ -31,9 +31,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma delle funzioni del pavimento delle radici quadrate è uguale a 400*
+*Somma di parti intere di radici pari a 400*
 
-> Dato che $x$ è un intero positivo risolvere $$\left[\sqrt{x}\right] + \left[\sqrt[3]{x}\right] + \cdots + \left[\sqrt[k]{x}\right] = 400$$ (dove $[z]$ significa la parte integrale di $z$) e dimostrare la soluzione è completa.
+> Sia $x$ un intero positivo. Si dimostri che
+> $$\left[\sqrt{x}\right] + \left[\sqrt[3]{x}\right] + \cdots + \left[\sqrt[k]{x}\right] = 400$$
+> (dove $[z]$ indica la parte intera di $z$) e si dimostri che la soluzione è completa.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_bmo1_1975#q01|src_bmo1_1975__Q01]]
 
 
 
@@ -60,13 +68,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Primi divisi in due set, divisibilità dei prodotti*
+*Numeri primi divisi in due insiemi, divisibilità dei prodotti*
 
-> I primi numeri primi $n$ $2, 3, 5, \ldots, p_n$ sono suddivisi in due gruppi disconnessi $A$ e $B$. I primi di $A$ sono $a_1, a_2, \ldots, a_m$ e i primi di $B$ sono $b_1, b_2, \ldots, b_k$ dove $m + k = n$.
-> 
-> I due prodotti $\prod_{1}^{m} a_i^{\,\alpha_i}$ e $\prod_{1}^{k} b_j^{\,\beta_j}$ si formano quando $\alpha_i$ e $\beta_j$ sono numeri interi positivi.
-> 
-> Se $d$ divide la differenza tra questi due prodotti si dimostra che $d = 1$ o $d > p_n$.
+> I primi $n$ numeri primi $2, 3, 5, \ldots, p_n$ sono suddivisi in due insiemi disgiunti $A$ e $B$. I primi in $A$ sono $a_1, a_2, \ldots, a_m$ e i primi in $B$ sono $b_1, b_2, \ldots, b_k$, dove $m + k = n$.
+>
+> Si formano i due prodotti $\prod_{1}^{m} a_i^{\,\alpha_i}$ e $\prod_{1}^{k} b_j^{\,\beta_j}$, dove gli $\alpha_i$ e i $\beta_j$ sono interi positivi arbitrari.
+>
+> Dimostrare che se $d$ divide la differenza tra questi due prodotti, allora o $d = 1$ o $d > p_n$.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_bmo1_1975#q02|src_bmo1_1975__Q02]]
 
 
 
@@ -93,13 +107,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pigeonhole: disco con 7 punti, due a distanza 1*
+*Principio dei cassetti: disco con 7 punti, due a distanza ≤ 1*
 
-> Utilizzare il principio del buco di piccione (cioè: se più di $n$ oggetti sono inseriti in $n$ fori di piccione, allora almeno un foro di piccione deve contenere più di un oggetto) per rispondere alla seguente domanda.
-> 
-> Un disco $S$ è definito come l'insieme di tutti i punti $P$ in un piano tale che $|OP| < 1$, dove $|OP|$ è la distanza di $P$ da $O$, un dato punto del piano, chiamato centro del disco.
-> 
-> Prove che se il disco $S$ contiene 7 punti in modo tale che la distanza da uno dei 7 punti a qualsiasi altro sia maggiore o uguale a 1, allora uno dei 7 punti è $O$.
+> Usare il principio dei cassetti (cioè se più di $n$ oggetti vengono messi in $n$ cassetti, allora almeno un cassetto deve contenere più di un oggetto) per rispondere alla seguente domanda.
+>
+> Un disco $S$ è definito come l'insieme di tutti i punti $P$ in un piano tale che $|OP| < 1$, dove $|OP|$ è la distanza di $P$ da $O$, un punto dato nel piano, chiamato il centro del disco.
+>
+> Dimostrare che se il disco $S$ contiene 7 punti tali che la distanza da uno qualsiasi dei 7 punti a qualsiasi altro sia maggiore o uguale a 1, allora uno dei 7 punti è $O$.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1975#q03|src_bmo1_1975__Q03]]
 
 
 
@@ -124,11 +144,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Line parallele attraverso le vertici del triangolo, trovare il rapporto k*
+*Retta parallele per i vertici di un triangolo, trovare il rapporto k*
 
-> Tre linee parallele $AD$, $BE$ e $CF$ sono tracciate attraverso le vertici del triangolo $ABC$ che si incontrano sui lati opposti rispettivamente in $D$, $E$ e $F$.
-> 
-> I punti $P$, $Q$, $R$ dividono $AD$, $BE$, $CF$ rispettivamente nello stesso rapporto $k:1$ e $P$, $Q$, $R$ sono collineari. Trova il valore di $k$.
+> Tre rette parallele $AD$, $BE$, $CF$ sono tracciate per i vertici del triangolo $ABC$ e incontrano i lati opposti rispettivamente in $D$, $E$, $F$.
+>
+> I punti $P$, $Q$, $R$ dividono $AD$, $BE$, $CF$ rispettivamente nello stesso rapporto $k:1$ e $P$, $Q$, $R$ sono collineari. Trovare il valore di $k$.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_bmo1_1975#q04|src_bmo1_1975__Q04]]
 
 
 
@@ -156,9 +182,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Somma trigonometrica, funzione g, condizione limite su a*
+*Somma trigonometrica, funzione g, condizione limite su a*
 
-> Per ogni intero positivo $n$ viene data quella $$1 + \binom{2n}{1}\cos\theta + \binom{2n}{2}\cos 2\theta + \cdots + \cos 2n\theta = (2\cos\theta)^{2n}\cos n\theta$$ dove ci sono termini $2n+1$ sul lato sinistro. Tutte queste espressioni sono definite come $f(\theta)$. La funzione $g(\theta)$ è definita da $$g(\theta) = 1 + \binom{2n}{1}\cos 2\theta + \binom{2n}{2}\cos 4\theta + \cdots + \cos 2n\theta.$$ Dato che non esiste un $k$ razionale per il quale $g = k f$, trova i valori di $a$ per il quale $$\lim_{n \to \infty} \frac{g(a)}{f(a)} = \frac{1}{2}.$$
+> Per ogni intero positivo $n$ è dato che
+> $$1 + \binom{2n}{1}\cos\theta + \binom{2n}{2}\cos 2\theta + \cdots + \cos 2n\theta = (2\cos\theta)^{2n}\cos n\theta$$
+> dove ci sono $2n+1$ termini a sinistra. Tutte queste espressioni sono definite come $f(\theta)$. La funzione $g(\theta)$ è definita da
+> $$g(\theta) = 1 + \binom{2n}{1}\cos 2\theta + \binom{2n}{2}\cos 4\theta + \cdots + \cos 2n\theta.$$
+> Sapendo che non esiste alcun $k$ razionale per cui $g = k f$, trovare i valori di $a$ per cui
+> $$\lim_{n \to \infty} \frac{g(a)}{f(a)} = \frac{1}{2}.$$
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1975#q05|src_bmo1_1975__Q05]]
 
 
 
@@ -182,9 +219,16 @@ Somma trigonometrica, funzione g, condizione limite su a*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inequità per un intero positivo n>1, x>y>1*
+*Ineguaglianza per intero positivo n>1, x>y>1*
 
-> Prova che se $n$ è un intero positivo superiore a 1 e $x > y > 1$, allora $$\frac{x^{n+1}-1}{x(x^n-1)} > \frac{y^{n+1}-1}{y(y^n-1)}.$$
+> Dimostrare che se $n$ è un intero positivo maggiore di 1 e $x > y > 1$, allora
+> $$\frac{x^{n+1}-1}{x(x^n-1)} > \frac{y^{n+1}-1}{y(y^n-1)}.$$
+
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_bmo1_1975#q06|src_bmo1_1975__Q06]]
 
 
 
@@ -208,9 +252,16 @@ Somma trigonometrica, funzione g, condizione limite su a*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza reale unica che soddisfa la somma delle equazioni quadrate*
+*Sequenza reale unica che soddisfa l'equazione della somma dei quadrati*
 
-> Prove che esiste solo un insieme di numeri reali $x_1, x_2, \ldots, x_n$ tale che $$(1-x_1)^2 + (x_1-x_2)^2 + \cdots + (x_{n-1}-x_n)^2 + x_n^2 = \frac{1}{n+1}.$$
+> Dimostrare che esiste un'unica insieme di numeri reali $x_1, x_2, \ldots, x_n$ tale che
+> $$(1-x_1)^2 + (x_1-x_2)^2 + \cdots + (x_{n-1}-x_n)^2 + x_n^2 = \frac{1}{n+1}.$$
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_bmo1_1975#q07|src_bmo1_1975__Q07]]
 
 
 
@@ -233,6 +284,12 @@ Somma trigonometrica, funzione g, condizione limite su a*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cono di vetro di vino: frazione del volume quando il livello dell'acqua divide il generatore*
+*Bicchiere a cono: frazione di volume quando il livello dell'acqua dimezza il generatrice*
 
-> L'interno di un bicchiere di vino è un cono a destra circolare. Il bicchiere è a metà riempito di acqua e poi lentamente inclinato in modo che l'acqua inizi e continui a scorrere da un punto $P$ sul bordo. Quale frazione dell'intero interno conico è occupata dall'acqua quando il piano orizzontale del livello dell'acqua divide il generatore del cono più lontano da $P$?
+> L'interno di un bicchiere da vino è un cono circolare retto. Il bicchiere è riempito a metà con acqua e poi lentamente inclinato in modo che l'acqua inizi e continui a fuoriuscire da un punto $P$ del bordo. Che frazione dell'intero interno conico è occupata dall'acqua quando il piano orizzontale del livello dell'acqua dimezza il generatrice del cono più lontano da $P$?
+
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1975#q08|src_bmo1_1975__Q08]]

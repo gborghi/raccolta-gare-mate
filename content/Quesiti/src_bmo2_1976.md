@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Attraverso un punto P all'interno del triangolo ABC, le linee parallele ai mediani incontrano i lati; dimostrare che la somma di tre rapporti è costante.
+*La somma dei tre rapporti è costante, indipendente da $P$*
 
-> Attraverso un punto $P$ all'interno di un triangolo fisso $ABC$ le linee $PL$, $PM$, $PN$ sono disegnate parallele alle medie rispettivamente attraverso $A$, $B$, $C$ per raggiungere $BC$, $CA$, $AB$ rispettivamente a $L$, $M$ e $N$. La prova $$\frac{BL}{BC} + \frac{CM}{CA} + \frac{AN}{AB}$$ è costante (indipendente da $P$).
+> Per un punto $P$ interno a un triangolo fissato $ABC$ si tracciano le rette $PL$, $PM$, $PN$ parallele rispettivamente alle mediane per $A$, $B$, $C$, che incontrano $BC$, $CA$, $AB$ rispettivamente in $L$, $M$, $N$. Dimostrare che $$\frac{BL}{BC} + \frac{CM}{CA} + \frac{AN}{AB}$$ è costante (indipendente da $P$).
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1976#q01|src_bmo2_1976__Q01]]
 
 
 
@@ -54,9 +61,16 @@ Attraverso un punto P all'interno del triangolo ABC, le linee parallele ai media
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una radice reale t di un polinomio monico i cui coefficienti sono delimitati in valore assoluto da 1 soddisfa un intervallo di limite indicato.*
+*Una radice reale $t$ sta fra i due valori aurei*
 
-> Il numero reale $t$ è una radice dell'equazione $$x^n + a_2 x^{n-2} + a_3 x^{n-3} + \ldots + a_n = 0, \quad (n \ge 2),$$ dove i coefficienti sono reali e soddisfano $-1 \le a_r \le 1$, $(2 \le r \le n)$. Provare che $$-\tfrac{1}{2}(1 + \sqrt{5}) \le t \le \tfrac{1}{2}(1 + \sqrt{5}).$$
+> Il numero reale $t$ è una radice dell'equazione $$x^n + a_2 x^{n-2} + a_3 x^{n-3} + \ldots + a_n = 0, \quad (n \ge 2),$$ dove i coefficienti sono reali e soddisfano $-1 \le a_r \le 1$, $(2 \le r \le n)$. Dimostrare che $$-\tfrac{1}{2}(1 + \sqrt{5}) \le t \le \tfrac{1}{2}(1 + \sqrt{5}).$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1976#q02|src_bmo2_1976__Q02]]
 
 
 
@@ -79,9 +93,16 @@ Attraverso un punto P all'interno del triangolo ABC, le linee parallele ai media
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra che un'equazione cubica ha solo la soluzione di un numero intero triviale, mentre una versione modificata dal segno ha infinite soluzioni di un numero intero positivo, due delle quali condividono lo stesso rapporto x:y:z.*
+*Una cubica senza soluzioni intere, e un'altra con infinite soluzioni*
 
-> Prova che l'equazione $x^3 - 3y^2 + 5z^2 - 7 = 0$ non ha soluzioni in numeri interi $x, y, z$. Prova che $x^3 - 3y^2 - 5z^2 + 7 = 0$ ha infinite soluzioni in numeri interi positivi $x, y, z$, in due dei quali il rapporto $x : y : z$ è lo stesso.
+> Dimostrare che l'equazione $x^3 - 3y^2 + 5z^2 - 7 = 0$ non ha soluzioni in interi $x, y, z$. Dimostrare che $x^3 - 3y^2 - 5z^2 + 7 = 0$ ha infinite soluzioni in interi positivi $x, y, z$, in due delle quali il rapporto $x : y : z$ è lo stesso.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1976#q03|src_bmo2_1976__Q03]]
 
 
 
@@ -104,9 +125,16 @@ Attraverso un punto P all'interno del triangolo ABC, le linee parallele ai media
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Non si dimostrano numeri interi positivi p, q soddisfano il limite di approssimazione razionale dato per la radice quadrata di 2.*
+*Nessuna frazione $p/q$ approssima $\sqrt{2}$ meglio di $2/(11q^2)$*
 
-> Prove che non è possibile trovare integri positivi $p$ e $q$ con la proprietà che $$\left| \sqrt{2} - \frac{p}{q} \right| < \frac{2}{11 q^2}.$$
+> Dimostrare che non è possibile trovare interi positivi $p$ e $q$ con la proprietà che $$\left| \sqrt{2} - \frac{p}{q} \right| < \frac{2}{11 q^2}.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1976#q04|src_bmo2_1976__Q04]]
 
 
 
@@ -135,12 +163,19 @@ Attraverso un punto P all'interno del triangolo ABC, le linee parallele ai media
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una curva a figura di otto S fatta di due cerchi uguali che si toccano; mostra che esiste una coppia di esagoni congruenti distinti con tre proprietà di vertice e simmetria dichiarate.*
+*Due esagoni congruenti distinti con vertici su un otto di due circonferenze*
 
-> Una curva di "figure di otto", $S$, è costituita da due cerchi che si toccano di uguali radii. Mostrare che esiste una coppia di due esagoni congruenti distinti (non necessariamente convexi) con le seguenti proprietà:
-> 
-> (a) Tutti i vertici degli esagoni si trovano su $S$.
-> 
-> b) Nessun sesagono ha tutte le sue vertici su un unico cerchio.
-> 
-> (c) Nessun esagono può essere ottenuto dall'altro con una singola traduzione, una singola rotazione o un singolo riflesso.
+> Una curva a «otto», $S$, è formata da due circonferenze tangenti di raggi uguali. Dimostrare che esiste una coppia di due esagoni congruenti distinti (non necessariamente convessi) con le proprietà seguenti:
+>
+> (a) Tutti i vertici degli esagoni stanno su $S$.
+>
+> (b) Nessuno dei due esagoni ha tutti i vertici su una sola circonferenza.
+>
+> (c) Nessuno dei due esagoni si ottiene dall'altro con una sola traslazione, una sola rotazione o una sola riflessione.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometria]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1976#q05|src_bmo2_1976__Q05]]

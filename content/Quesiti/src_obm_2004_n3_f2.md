@@ -31,9 +31,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i valori interi di un'espressione di somma data le restrizioni di radice*
+*Conta i valori interi di un'espressione di somma dati i vincoli sulla radice*
 
-> Ogni numero $x_1, x_2, \ldots, x_{2004}$ può essere uguale a $\sqrt{2}-1$ o $\sqrt{2}+1$. Quanti valori interi distinti può assumere la somma $$S = \sum_{k=1}^{2003} x_{2k-1}\,x_{2k} = x_1 x_2 + x_3 x_4 + x_5 x_6 + \cdots + x_{2003}\, x_{2004}$$?
+> Ciascuno dei numeri $x_1, x_2, \ldots, x_{2004}$ può essere uguale a $\sqrt{2}-1$ o a $\sqrt{2}+1$. Quanti valori interi distinti può assumere la somma
+> $$S = \sum_{k=1}^{2003} x_{2k-1}\,x_{2k} = x_1 x_2 + x_3 x_4 + x_5 x_6 + \cdots + x_{2003}\, x_{2004}$$
+> assumere?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n3_f2#q01|src_obm_2004_n3_f2__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare il rapporto massimo CD/AD nel trapezoide destro con diagonale perpendicolare*
+*Trovare il rapporto massimo CD/AD in un trapezio rettangolo con diagonale perpendicolare*
 
-> Il $ABCD$ deve essere un trapezoide retto con basi $AB$ e $CD$, con angoli retto a $A$ e $D$. Poiché la diagonale più breve $BD$ è perpendicolare al lato $BC$, trovare il valore massimo possibile del rapporto $\dfrac{CD}{AD}$.
+> Sia $ABCD$ un trapezio rettangolo con basi $AB$ e $CD$, con angoli retti in $A$ e $D$. Sapendo che la diagonale più corta $BD$ è perpendicolare al lato $BC$, determina il valore massimo possibile del rapporto $\dfrac{CD}{AD}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n3_f2#q02|src_obm_2004_n3_f2__Q02]]
 
 
 
@@ -81,9 +97,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta le diverse squadre di calcio formate durante l'anno scolastico*
+*Conta le squadre di calcio distinte formate nell'arco di un anno scolastico*
 
-> I dodici studenti di una classe iniziarono a giocare a calcio ogni giorno dopo la scuola, formando due squadre di 6 giocatori ciascuno e giocando tra loro. Ogni giorno formavano squadre diverse da quelle dei due giorni precedenti. Alla fine dell'anno, hanno verificato che ogni 5 studenti avevano giocato insieme nella stessa squadra almeno una volta. Quante diverse squadre sono state formate nel corso dell'anno?
+> I dodici studenti di una classe iniziarono a giocare a calcio ogni giorno dopo la scuola, formando due squadre di 6 giocatori ciascuna e giocando tra loro. Ogni giorno formavano squadre diverse da quelle dei due giorni precedenti. Alla fine dell'anno, verificarono che ogni gruppo di 5 studenti aveva giocato insieme nella stessa squadra almeno una volta. Quante squadre diverse si formarono nel corso dell'anno?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n3_f2#q03|src_obm_2004_n3_f2__Q03]]
 
 
 
@@ -108,9 +131,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni dei numeri naturali per un'equazione diofantina esponenziale*
+*Trovare tutte le soluzioni in numeri naturali di un'equazione diofantina esponenziale*
 
-> Determinare tutte le soluzioni dell'equazione $$n \cdot 2^{n+1} + 1 = m^2$$ con $n$ e $m$ numeri naturali.
+> Determinare tutte le soluzioni dell'equazione
+> $$n \cdot 2^{n+1} + 1 = m^2$$
+> con $n$ e $m$ numeri naturali.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n3_f2#q04|src_obm_2004_n3_f2__Q04]]
 
 
 
@@ -133,9 +165,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti i numeri sinistri a 4 cifre (la somma delle prime è uguale alla somma degli esponenti)*
+*Trovare tutti i numeri sinistri a 4 cifre (la somma dei numeri primi è uguale alla somma degli esponenti)*
 
-> Diciamo che un intero positivo è *sinister* se la somma dei suoi fattori primi è uguale alla somma degli esponenti nella sua fattorizzazione primaria. Trova tutti i numeri sinistri a quattro cifre.
+> Diciamo che un numero intero positivo è *sinistro* se la somma dei suoi fattori primi è uguale alla somma degli esponenti nella sua scomposizione in fattori primi. Determinare tutti i numeri sinistri di quattro cifre.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n3_f2#q05|src_obm_2004_n3_f2__Q05]]
 
 
 
@@ -158,6 +197,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine gli angoli del triangolo dato la condizione di collinearietà dell'ortocentro, dell'incentro, del circumcentro*
+*Determinare gli angoli di un triangolo data la condizione di collinearità dell'ortocentro, dell'incentro e del circocentro*
 
-> Che $H$, $I$ e $O$ siano rispettivamente l'ortocentro, l'incentro e il circoncentro del triangolo $ABC$. La linea $CI$ taglia il circoncircolo di $ABC$ al punto $L$, distinto da $C$. È dato che $AB = IL$ e $AH = OH$. Determinare gli angoli del triangolo $ABC$.
+> Siano $H$, $I$ e $O$ rispettivamente l'ortocentro, l'incentro e il circocentro del triangolo $ABC$. La retta $CI$ interseca la circonferenza circoscritta a $ABC$ nel punto $L$, distinto da $C$. È dato che $AB = IL$ e $AH = OH$. Determinare gli angoli del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n3_f2#q06|src_obm_2004_n3_f2__Q06]]

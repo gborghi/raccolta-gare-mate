@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Twin primes attorno a n divisibilità della forza per 720*
+*Le coppie di numeri primi gemelli intorno a n impongono la divisibilità per 720*
 
-> Se $n$ è un numero intero maggiore di $6$. Prova che se $n-1$ e $n+1$ sono entrambi primi, allora $n^2(n^2+16)$ è divisibile da $720$. È vero il contrario?
+> Sia $n$ un numero intero maggiore di $6$. Dimostrare che, se $n-1$ e $n+1$ sono entrambi numeri primi, allora $n^2(n^2+16)$ è divisibile per $720$. La proposizione inversa è vera?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2005-06_round1#q01|src_bmo_2005-06_round1__Q01]]
 
 
 
@@ -58,13 +65,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Spartire sei coppie di gemelli in squadre senza coppia insieme*
+*Dividi sei coppie di gemelli in squadre in modo che nessuna coppia sia insieme*
 
-> Adrian insegna una classe di sei coppie di gemelli. Vuole organizzare squadre per un quiz, ma vuole evitare di mettere due gemelli nella stessa squadra. Subordinazione a questa condizione:
-> 
-> i) In quanti modi può dividerli in due squadre di sei persone?
-> 
-> ii) In quanti modi può dividerli in tre squadre di quattro?
+> Adrian insegna a una classe composta da sei coppie di gemelli. Vuole formare delle squadre per un quiz, ma desidera evitare di mettere nella stessa squadra una qualsiasi coppia di gemelli. Fermo restando questo vincolo:
+>
+> i) In quanti modi può dividerli in due squadre da sei?
+>
+> ii) In quanti modi può dividerli in tre squadre da quattro?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2005-06_round1#q02|src_bmo_2005-06_round1__Q02]]
 
 
 
@@ -87,9 +101,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo di bisezione di diagonale quadrilaterale ciclico, CE=CA se DE=AB*
+*La diagonale di un quadrilatero ciclico biseca l'angolo; CE=CA se e solo se DE=AB*
 
-> Nel quadrilaterale ciclico $ABCD$, la diagonale $AC$ divide l'angolo $DAB$. Il lato $AD$ è esteso oltre $D$ fino a un punto $E$. Indicare che $CE = CA$ se e solo se $DE = AB$.
+> Nel quadrilatero ciclico $ABCD$, la diagonale $AC$ biseca l'angolo $DAB$. Il lato $AD$ viene prolungato oltre $D$ fino a un punto $E$. Dimostrare che $CE = CA$ se e solo se $DE = AB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2005-06_round1#q03|src_bmo_2005-06_round1__Q03]]
 
 
 
@@ -114,11 +135,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La più lunga rotta cellulare non ripetuta nel triangolo equilaterale triangolato*
+*Percorso cellulare non ripetitivo più lungo in un triangolo equilatero triangolato*
 
-> Il triangolo equilaterale $ABC$ ha lati di lunghezza interi $N$. Il triangolo è completamente diviso (disegnando linee parallele ai lati del triangolo) in celle triangolari equilaterali di lunghezza laterale $1$.
-> 
-> Si sceglie un percorso continuo, che inizia all'interno della cella con vertice $A$ e attraversa sempre da una cella all'altra attraverso un bordo condiviso dalle due celle. Nessuna cellula viene visitata più di una volta. Trova, con la prova, il maggior numero di celle che possono essere visitate.
+> Il triangolo equilatero $ABC$ ha lati di lunghezza intera $N$. Il triangolo è completamente suddiviso (tracciando linee parallele ai lati del triangolo) in celle triangolari equilatere di lato $1$.
+>
+> Si sceglie un percorso continuo che parte all'interno della cella con vertice $A$ e passa sempre da una cella all'altra attraverso un lato comune alle due celle. Nessuna cella viene visitata più di una volta. Determinare, con dimostrazione, il numero massimo di celle che si possono visitare.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_bmo_2005-06_round1#q04|src_bmo_2005-06_round1__Q04]]
 
 
 
@@ -141,9 +169,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esiste un punto di bisezione di superficie uguale se il quadrilaterale è parallelo*
+*Il punto di bisezione ad area uguale esiste se e solo se il quadrilatero è un parallelogrammo*
 
-> Che $G$ sia un quadrilaterale convex. Indicare che vi è un punto $X$ nel piano di $G$ con la proprietà che ogni linea retta attraverso $X$ divide $G$ in due regioni di superficie uguale se e solo se $G$ è un parallelo.
+> Sia $G$ un quadrilatero convesso. Dimostrare che esiste un punto $X$ nel piano di $G$ tale che ogni retta passante per $X$ divide $G$ in due regioni di area uguale se e solo se $G$ è un parallelogramma.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2005-06_round1#q05|src_bmo_2005-06_round1__Q05]]
 
 
 
@@ -166,6 +201,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ogni punto si trova all'interno di un numero pari di triangoli*
+*Ogni punto giace all'interno di un numero pari di triangoli*
 
-> $T$ sia un insieme di punti coplanari $2005$ senza tre punti collineari. Mostrare che, per uno qualsiasi dei punti $2005$, il numero dei triangoli che si trova strettamente all'interno, le cui vertici sono punti in $T$, è pari.
+> Sia $T$ un insieme di $2005$ punti complanari, senza tre punti allineati. Dimostrare che, per ciascuno dei $2005$ punti, il numero di triangoli all'interno dei quali esso giace strettamente e i cui vertici sono punti in $T$ è pari.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_bmo_2005-06_round1#q06|src_bmo_2005-06_round1__Q06]]

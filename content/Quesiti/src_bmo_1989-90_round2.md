@@ -31,9 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il polinomio a coefficiente intero che prende il valore 1990 a quattro numeri interi distinti non può prendere il valore 1991*
+*Se $p$ vale 1990 per quattro interi distinti, non vale 1991 per nessun intero*
 
-> Prove che se $$p(x) = a_0 x^n + a_1 x^{n-1} + \cdots + a_n$$ i cui coefficienti sono interi, prende il valore 1990 per quattro valori interi distinti di $x$, allora non prende il valore 1991 per alcun valore interi di $x$.
+> Dimostrare che se
+> $$p(x) = a_0 x^n + a_1 x^{n-1} + \cdots + a_n$$
+> i cui coefficienti sono interi, assume il valore 1990 per quattro valori interi distinti di $x$, allora non assume il valore 1991 per nessun valore intero di $x$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1989-90_round2#q01|src_bmo_1989-90_round2__Q01]]
 
 
 
@@ -61,13 +70,21 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca un numero positivo s tale che la somma frazionaria sia uguale al 1990; esistono soluzioni razionali?*
+*Un numero positivo $s$ per cui quella somma di parti frazionarie vale 1990*
 
-> Un numero positivo $\lfloor k \rfloor$ è il numero intero più grande non superiore a $k$. La frazione $\{x\}$ è definita da $\{x\} = x - \lfloor x \rfloor$.
-> 
-> Trova un numero positivo $s$ tale che $$\sum_{n=1}^{\infty} \left\{ \frac{s}{n} \right\} = 1990.$$
-> 
-> Ci sono soluzioni razionali?
+> Un numero positivo $\lfloor k \rfloor$ è il massimo intero che non è maggiore di $k$. La parte frazionaria $\{x\}$ è definita da $\{x\} = x - \lfloor x \rfloor$.
+>
+> Trovare un numero positivo $s$ tale che
+> $$\sum_{n=1}^{\infty} \left\{ \frac{s}{n} \right\} = 1990.$$
+>
+> Esistono soluzioni razionali?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1989-90_round2#q02|src_bmo_1989-90_round2__Q02]]
 
 
 
@@ -93,11 +110,19 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserire la regola cosina; provare sqrt(a) +sqrt(b)>sqrt(c) per i lati del triangolo a,b,c*
+*Enunciare il teorema del coseno, e dimostrare $\sqrt{a} + \sqrt{b} > \sqrt{c}$*
 
-> Indicare la regola cosina per un triangolo.
-> 
-> Prova che per i numeri reali positivi $a$, $b$, $c$ che sono i lati di un triangolo, $$\sqrt{a} + \sqrt{b} > \sqrt{c}.$$
+> Enunciare il teorema del coseno per un triangolo.
+>
+> Dimostrare che per numeri reali positivi $a$, $b$, $c$ che sono i lati di un triangolo,
+> $$\sqrt{a} + \sqrt{b} > \sqrt{c}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1989-90_round2#q03|src_bmo_1989-90_round2__Q03]]
 
 
 
@@ -125,10 +150,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area massima dei triangoli inseriti in T; prova AI^2 = AB·AC per incentro I*
+*Il massimo di $\text{Area}(\Delta)$, e $AI^2 = AB \cdot AC$*
 
-> Un insieme di triangoli deve essere inserito in un triangolo $T$ (cioè i vertici si trovano sul confine di $T$). Trova il valore massimo di $\text{Area}(\Delta)$ su tutti i triangoli inseriti.
-> 
-> Il $I$ deve essere il centro del cerchio inscritto nel triangolo $ABC$, con $AB$ e $AC$ prodotti al di là di $B$ e $C$ rispettivamente.
-> 
-> Provare che $$AI^2 = AB \cdot AC.$$
+> Sia un insieme di triangoli inscritti in un triangolo $T$ (cioè i vertici stanno sul bordo di $T$). Trovare il massimo valore di $\text{Area}(\Delta)$ fra tutti tali triangoli inscritti.
+>
+> Sia $I$ il centro della circonferenza inscritta nel triangolo $ABC$, con $AB$ e $AC$ prolungati oltre $B$ e $C$ rispettivamente.
+>
+> Dimostrare che
+> $$AI^2 = AB \cdot AC.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1989-90_round2#q04|src_bmo_1989-90_round2__Q04]]

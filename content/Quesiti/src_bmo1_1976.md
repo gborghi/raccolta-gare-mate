@@ -31,11 +31,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area di divisione della linea più corta di un triangolo*
+*Linea più corta che dimezza l'area di un triangolo*
 
-> Trova, con prova, la lunghezza $d$ della linea retta più corta che divide l'area di un triangolo arbitrariamente dato. Esprimere $d$ in termini di superficie $A$ del triangolo e di uno dei suoi angoli.
+> Dimostrare che, per un triangolo arbitrariamente dato, la lunghezza $d$ della retta più corta che dimezza l'area del triangolo si esprime in funzione dell'area $A$ del triangolo e di uno dei suoi angoli.
 > 
-> Mostra che esiste una linea più breve (non retta) che divide l'area del triangolo dato.
+> Dimostrare che esiste una linea più corta (non retta) che dimezza l'area del triangolo dato.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_bmo1_1976#q01|src_bmo1_1976__Q01]]
 
 
 
@@ -59,9 +65,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inuguaglianza per i valori reali positivi x, y, z*
+*Ineguaglianza per numeri reali positivi x, y, z*
 
-> Dimostra che se $x, y, z$ sono numeri reali positivi allora $$\frac{x}{y+z} + \frac{y}{z+x} + \frac{z}{x+y} \ge \frac{3}{2}.$$
+> Dimostrare che se $x, y, z$ sono numeri reali positivi allora
+> $$\frac{x}{y+z} + \frac{y}{z+x} + \frac{z}{x+y} \ge \frac{3}{2}.$$
+
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_bmo1_1976#q02|src_bmo1_1976__Q02]]
 
 
 
@@ -86,11 +99,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova un piccolo sottoinsieme che riunisce tutti i 50 grandi sottoinsiemi*
+*Trovare un piccolo sottoinsieme che intersechi tutti i 50 sottoinsiemi grandi*
 
 > $S_1, S_2, \ldots, S_{50}$ sono sottoinsiemi di un insieme finito $E$. Ogni sottoinsieme contiene più della metà degli elementi di $E$.
-> 
-> Mostra che è possibile trovare un sottoinsieme $F$ di $E$, contenente non più di $5$ elementi, in modo tale che ogni $S_i$ ($1 \le i \le 50$) abbia un elemento in comune con $F$.
+>
+> Dimostrare che è possibile trovare un sottoinsieme $F$ di $E$, con non più di $5$ elementi, tale che ogni $S_i$ ($1 \le i \le 50$) abbia un elemento in comune con $F$.
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_cassetti|Principio dei cassetti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1976#q03|src_bmo1_1976__Q03]]
 
 
 
@@ -115,7 +134,13 @@ level: BMO Round 1
 
 *19·8^n + 17 non è mai primo*
 
-> Prova che se $n$ è un intero non negativo, allora $19 \cdot 8^n + 17$ non è un numero primo.
+> Dimostrare che, se $n$ è un intero non negativo, allora $19 \cdot 8^n + 17$ non è un numero primo.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+[[Quesiti/src_bmo1_1976#q04|src_bmo1_1976__Q04]]
 
 
 
@@ -142,11 +167,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identità della somma dei coefficienti binomiali con parametri reali*
+*Identità di somma di coefficienti binomiali con parametri reali*
 
-> Prova che $$\sum_{t=0}^{r-1} \binom{n-1}{t} \binom{m}{t+1} \left[\binom{n+m-2t}{r-2t}\right] = \sum_{t=0}^{r-1} \binom{n-1}{t} \binom{m}{t+1} \left[\binom{n+m-2t}{r-2t-2}\right],$$ dove $a$ e $b$ sono numeri reali, $r$ e $n$ sono interi positivi con $r$ pari e $r \le n$.
+> Dimostrare che
+> $$\sum_{t=0}^{r-1} \binom{n-1}{t} \binom{m}{t+1} \left[\binom{n+m-2t}{r-2t}\right] = \sum_{t=0}^{r-1} \binom{n-1}{t} \binom{m}{t+1} \left[\binom{n+m-2t}{r-2t-2}\right],$$
+> dove $a$ e $b$ sono numeri reali, $r$ e $n$ sono interi positivi con $r$ dispari e $r \le n$.
 > 
-> $\left[\binom{s}{k}\right]$ indica il coefficiente $x^k$ nell'espansione $(1+x)^s$.
+> $\left[\binom{s}{k}\right]$ denota il coefficiente di $x^k$ nello sviluppo di $(1+x)^s$.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1976#q05|src_bmo1_1976__Q05]]
 
 
 
@@ -177,12 +210,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il percorso più corto sul cono e sulla sfera incontra il cerchio a 45 gradi*
+*Percorso più breve su cono e sfera che incontra il cerchio a 45 gradi*
 
-> Una sfera con centro $O$ e raggio $r$ è tagliata in un cerchio $K$ da un piano orizzontale distante $\frac{r}{2}$ sopra $O$. La parte della sfera sopra il piano viene rimossa e sostituita da un cono circolare destro con la base $K$ e il vertice $V$ a una distanza $2r$ verticalmente sopra $O$.
-> 
-> $Q$ è un punto sulla sfera sullo stesso livello orizzontale di $O$. Il piano $OVQ$ taglia il cerchio $K$ in due punti $X$ e $Y$, di cui $Y$ è il più lontano da $Q$. $P$ è un punto del cono che si trova su $VY$, la cui posizione può essere determinata dal fatto che il percorso più breve da $P$ a $Q$ sulle superfici del cono e della sfera taglia il cerchio $K$ ad un angolo di $45^\circ$.
-> 
-> Provare $VP = \frac{r\sqrt{2}(1 + 1/\sqrt{5})}{1}$.
-> 
-> [In un triangolo sferico $ABC$ i lati sono archi di grandi cerchi (centro $O$) e i lati sono misurati dagli angoli che essi sottendono a $O$. Potresti trovare utili queste formule triangolari sferiche: $$\frac{\sin a}{\sin A} = \frac{\sin b}{\sin B} = \frac{\sin c}{\sin C},$$ $$\cos a = \cos b \cos c + \sin b \sin c \cos A$$.]
+> Una sfera di centro $O$ e raggio $r$ è tagliata in un cerchio $K$ da un piano orizzontale distante $\frac{r}{2}$ sopra $O$. La parte della sfera sopra il piano viene rimossa e sostituita da un cono circolare retto avente $K$ come base e il suo vertice $V$ a distanza $2r$ verticalmente sopra $O$.
+>
+> $Q$ è un punto della sfera allo stesso livello orizzontale di $O$. Il piano $OVQ$ taglia il cerchio $K$ in due punti $X$ e $Y$, di cui $Y$ è più lontano da $Q$. $P$ è un punto del cono che giace su $VY$, la cui posizione può essere determinata dal fatto che il percorso più breve da $P$ a $Q$ lungo le superfici di cono e sfera incontra il cerchio $K$ con un angolo di $45^\circ$.
+>
+> Dimostrare che $VP = \frac{r\sqrt{2}(1 + 1/\sqrt{5})}{1}$.
+>
+> [In un triangolo sferico $ABC$ i lati sono archi di grandi circonferenze (centro $O$) e i lati sono misurati dagli angoli che sottendono in $O$. Potrebbe essere utile usare queste formule per i triangoli sferici:
+> $$\frac{\sin a}{\sin A} = \frac{\sin b}{\sin B} = \frac{\sin c}{\sin C},$$
+> $$\cos a = \cos b \cos c + \sin b \sin c \cos A$$.]
+
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_estremalita|Principio di estremalita]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1976#q06|src_bmo1_1976__Q06]]

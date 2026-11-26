@@ -30,9 +30,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di integri positivi che rendono una somma reciproca ponderata uguale a 1*
+*Esistenza di numeri interi positivi tali che la somma dei reciproci pesati sia uguale a 1*
 
-> Prove che esistono integri positivi $a_1, a_2, \ldots, a_{2020}$ tali che $$\frac{1}{a_1} + \frac{1}{2a_2} + \frac{1}{3a_3} + \cdots + \frac{1}{2020\,a_{2020}} = 1.$$
+> Dimostrare che esistono interi positivi $a_1, a_2, \ldots, a_{2020}$ tali che
+> $$\frac{1}{a_1} + \frac{1}{2a_2} + \frac{1}{3a_3} + \cdots + \frac{1}{2020\,a_{2020}} = 1.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2020_n3_fx#q01|src_obm_2020_n3_fx__Q01]]
 
 
 
@@ -57,9 +65,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di numeri interi simili a Fibonacci: infinitamente molti numeri interi non sono Fibonacciano*
+*Successione intera di tipo Fibonacci: infiniti interi sono non-fibonacciani*
 
-> Per un intero positivo $n$, definire $F^{(0)}_n = n$, $F^{(1)}_n = n$ e, per $p > 2$: $$F^{(p)}_n = F^{(p-1)}_n + F^{(p-1)}_{n+1}.$$ Un intero positivo $a$ si chiama *fibonacciano* se $F^{(p)}_a = a$ per un intero positivo $p$ e per un certo $n > 3$. Prove che esistono infiniti interi positivi che non sono fibonacciani.
+> Per un intero positivo $n$, si definiscano $F^{(0)}_n = n$, $F^{(1)}_n = n$ e, per $p > 2$:
+> $$F^{(p)}_n = F^{(p-1)}_n + F^{(p-1)}_{n+1}.$$
+> Un numero intero positivo $a$ è detto *fibonacciano* se $F^{(p)}_a = a$ per qualche numero intero positivo $p$ e qualche $n > 3$. Dimostrare che esistono infiniti numeri interi positivi che non sono fibonacciani.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2020_n3_fx#q02|src_obm_2020_n3_fx__Q02]]
 
 
 
@@ -82,9 +99,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circoli mista lineari in un triangolo: tangenti comuni coniugati simultanei e isogonali*
+*Cerchi mistilinei in un triangolo: tangenti comuni concorrenti e coniugati isogonali*
 
-> Che $r_A$, $r_B$, $r_C$ siano le radici mistilineari del triangolo $XYZ$ centrato a $P$ all'interno del triangolo. Il cerchio $\omega_A$ (centro $X$) è interno tangente a $r_B r_C$; il cerchio $\omega_B$ (centro $Y$) è interno tangente a $r_C r_A$; e il cerchio $\omega_C$ (centro $Z$) è interno tangente a $r_A r_B$. Il punto $P$ si trova all'interno del triangolo $XYZ$ in modo tale che le linee $r_A$, $r_B$, $r_C$ siano le tangenti interne comuni delle coppie di cerchi corrispondenti. La linea $s_A$ deve essere la linea interna tangente a $\omega_B$ e $\omega_C$ che non contiene $r_A$; la linea $s_B$ deve essere la linea interna tangente a $\omega_A$ e $\omega_C$ che non contiene $r_B$; la linea $s_C$ deve essere la linea interna tangente a $\omega_A$ e $\omega_B$ che non contiene $r_C$. Prove che $s_A$, $s_B$ e $s_C$ si incontrano in un punto comune $Q$, e che $P$ e $Q$ sono coniugati isogonali in triangolo $XYZ$ , cioè che le linee $XP$ e $XQ$ sono simmetriche rispetto al bisettore angolare di $\angle YXZ$, e allo stesso modo per i vertici $Y$ e $Z$.
+> Siano $r_A$, $r_B$, $r_C$ i raggi inradiati mistilineari del triangolo $XYZ$, centrati in $P$ all'interno del triangolo. Il cerchio $\omega_A$ (centro $X$) è tangente internamente a $r_B r_C$; il cerchio $\omega_B$ (centro $Y$) è tangente internamente a $r_C r_A$; e il cerchio $\omega_C$ (centro $Z$) è tangente internamente a $r_A r_B$. Il punto $P$ giace all'interno del triangolo $XYZ$ in modo tale che le rette $r_A$, $r_B$, $r_C$ siano le tangenti interne comuni alle coppie corrispondenti di cerchi. Sia $s_A$ la retta tangente internamente a $\omega_B$ e $\omega_C$ che non contiene $r_A$; sia $s_B$ la retta tangente internamente a $\omega_A$ e $\omega_C$ che non contiene $r_B$; sia $s_C$ la retta tangente internamente a $\omega_A$ e $\omega_B$ che non contiene $r_C$. Dimostrare che $s_A$, $s_B$ e $s_C$ si incontrano in un punto comune $Q$, e che $P$ e $Q$ sono coniugati isogonali nel triangolo $XYZ$ — vale a dire che le rette $XP$ e $XQ$ sono simmetriche rispetto alla bisettrice dell'angolo $\angle YXZ$, e analogamente per i vertici $Y$ e $Z$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2020_n3_fx#q03|src_obm_2020_n3_fx__Q03]]
 
 
 
@@ -107,9 +131,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Excircles touch points: le perpendicolari ai lati sono simultanee*
+*Punti di tangenza degli eccerchi: le perpendicolari ai lati sono concorrenti*
 
-> Lasciate che $ABC$ sia un triangolo. Gli escircoli (ciascuno tangente ad un lato e le estensioni degli altri due lati) toccano i lati $BC$, $CA$ e $AB$ rispettivamente ai punti $U$, $V$ e $W$. Il $r_u$ deve essere la linea attraverso $U$ perpendicolare a $BC$, $r_v$ la linea attraverso $V$ perpendicolare a $CA$ e $r_w$ la linea attraverso $W$ perpendicolare a $AB$. Provare che le linee $r_u$, $r_v$ e $r_w$ passano attraverso un punto comune.
+> Sia $ABC$ un triangolo. Gli escircoli (ciascuno dei quali è tangente a un lato e alle prolungazioni degli altri due lati) toccano i lati $BC$, $CA$ e $AB$ nei punti $U$, $V$ e $W$, rispettivamente. Sia $r_u$ la retta passante per $U$ e perpendicolare a $BC$, sia $r_v$ la retta passante per $V$ e perpendicolare a $CA$, e sia $r_w$ la retta passante per $W$ e perpendicolare a $AB$. Dimostrare che le rette $r_u$, $r_v$ e $r_w$ passano per un punto comune.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2020_n3_fx#q04|src_obm_2020_n3_fx__Q04]]
 
 
 
@@ -136,13 +167,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Questioni di parità per identificare chi dice la verità in un gruppo di persone n*
+*Domande di parità per identificare i veritieri in un gruppo di n persone*
 
-> Lasciate che $n$ e $k$ siano integri positivi con $k \le n$. In un gruppo di persone $n$, ogni persona dice sempre la verità o mente sempre. Arnaldo può porre domande a una di queste persone del tipo seguente: dato un sottoinsieme $A$ di dimensioni $k$ del gruppo, "qual è la parità del numero di vertitori di verità in $A$?" La risposta può essere solo "par" (par) o "odd" (ímpar).
-> 
+> Siano $n$ e $k$ numeri interi positivi tali che $k \le n$. In un gruppo di $n$ persone, ciascuna persona o dice sempre la verità o mente sempre. Arnaldo può porre a chiunque di queste persone domande del seguente tipo: data un sottoinsieme $A$ del gruppo di cardinalità $k$, "qual è la parità del numero di bugiardi in $A$?" La risposta può essere solo "pari" (par) o "dispari" (ímpar).
+>
 > (a) (4 punti) Per quali valori di $n$ e $k$ è possibile determinare, per ciascuna persona, se dice sempre la verità o mente sempre?
-> 
-> (b) (6 punti) Qual è il numero minimo di domande necessario per fare questa determinazione, quando è possibile?
+>
+> (b) (6 punti) Qual è il numero minimo di domande necessarie per giungere a tale conclusione, quando ciò è possibile?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2020_n3_fx#q05|src_obm_2020_n3_fx__Q05]]
 
 
 
@@ -169,10 +207,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Iterati di f(x)=2x^2+x-1: punti fissi reali e zeri reali*
+*Iterazioni di f(x)=2x^2+x-1: punti fissi reali e zeri reali*
 
-> Let $f(x) = 2x^2 + x - 1$. Definire $f^{n+1}(x) = f(f^n(x))$ per tutti i $x$ reali e $n \ge 0$ (cioè $f^n$ è la $n$-th iterazione di $f$).
-> 
-> (a) (2 punti) Determinare il numero di soluzioni reali distinte dell'equazione $f^1(x) = x$.
-> 
-> b) (8 punti) Determinare, per ogni intero non negativo $n$, il numero di soluzioni reali distinte dell'equazione $f^n(x) = 0$.
+> Sia $f(x) = 2x^2 + x - 1$. Definisci $f^{n+1}(x) = f(f^n(x))$ per tutti i $x$ reali e per tutti i $n \ge 0$ (cioè, $f^n$ è la iterata di ordine $n$ di $f$).
+>
+> (a) (2 punti) Determina il numero di soluzioni reali distinte dell'equazione $f^1(x) = x$.
+>
+> (b) (8 punti) Determina, per ogni intero non negativo $n$, il numero di soluzioni reali distinte dell'equazione $f^n(x) = 0$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2020_n3_fx#q06|src_obm_2020_n3_fx__Q06]]

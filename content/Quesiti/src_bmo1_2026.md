@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Espresso p^n come somma di una rampa*
+*Per quali primi $p$ e interi $n$ la potenza $p^n$ è somma di una rampa*
 
-> Un *ramp* è una sequenza di tre diversi integri positivi $a, b, c$ in modo tale che $a$ è un fattore di $b$ e $b$ è un fattore di $c$. Per ogni numero primo $p$ e per ogni numero intero positivo $n$, determinare con prova se $p^n$ può essere espresso come la somma di una rampa.
+> Una *rampa* è una successione di tre interi positivi diversi $a, b, c$ tali che $a$ è un divisore di $b$ e $b$ è un divisore di $c$. Per ogni numero primo $p$ e ogni intero positivo $n$, determinare con dimostrazione se $p^n$ si può esprimere come somma di una rampa.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2026#q01|src_bmo1_2026__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli reali che soddisfano tre equazioni simmetriche*
+*Terzine reali $(x, y, z)$ che soddisfano le tre equazioni*
 
-> Trova tutti i triples $(x, y, z)$ dei numeri reali che soddisfano le equazioni $$x^2 + 2yz = 4, \quad y^2 + 2zx = 4, \quad z^2 + 2xy = 1.$$
+> Trovare tutte le terzine $(x, y, z)$ di numeri reali che soddisfano le equazioni
+> $$x^2 + 2yz = 4, \quad y^2 + 2zx = 4, \quad z^2 + 2xy = 1.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2026#q02|src_bmo1_2026__Q02]]
 
 
 
@@ -84,13 +99,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per riassemblare la griglia 11x11 da pezzi a forma di L*
+*Modi di ricomporre la griglia $11 \times 11$ con il quadratino in terza riga e terza colonna*
 
-> Una griglia quadrata $11 \times 11$ è dissecata in 11 pezzi come segue. A ogni passo, rimuovere la riga superiore e la colonna più sinistra della griglia rimanente come singolo pezzo. Pertanto, i pezzi ottenuti sono a forma di L con dimensioni $21, 19, \ldots, 3$, insieme ad un singolo quadrato.
-> 
-> I pezzi sono riordinati per riassemblare una griglia $11 \times 11$, con rotazioni consentite (ma i pezzi non possono essere girati) in modo che il singolo quadrato occupa la cella nella terza riga e nella terza colonna (contando dall'alto a sinistra).
-> 
-> Quanti modi si possono fare?
+> Una griglia quadrata $11 \times 11$ viene scomposta in 11 pezzi come segue. A ogni passo si toglie, come un unico pezzo, la riga superiore e la colonna più a sinistra della griglia rimasta. I pezzi ottenuti sono quindi a forma di L, di dimensioni $21, 19, \ldots, 3$, insieme a un singolo quadrato.
+>
+> I pezzi vengono ridisposti per ricomporre una griglia $11 \times 11$, con rotazioni ammesse (ma i pezzi non si possono capovolgere), in modo che il singolo quadrato occupi la cella della terza riga e della terza colonna (contando dall'alto a sinistra).
+>
+> In quanti modi si può fare?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2026#q03|src_bmo1_2026__Q03]]
 
 
 
@@ -115,11 +137,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo di tangente attraverso il punto medio di BC incontra nuovamente il circolo; prova rapporto prodotto*
+*Dimostrare che $MA \times MD = MB \times MC$*
 
-> Il $ABC$ deve essere un triangolo acuto con $AB > AC$. $M$ sia il punto medio di $BC$. Il cerchio che attraversa $M$ che è tangente a $AB$ a $B$ e il cerchio che attraversa $M$ che è tangente a $AC$ a $C$ si incrociano di nuovo a $D$.
-> 
-> Prove che $MA \times MD = MB \times MC$.
+> Sia $ABC$ un triangolo acutangolo con $AB > AC$. Sia $M$ il punto medio di $BC$. La circonferenza per $M$ tangente ad $AB$ in $B$ e la circonferenza per $M$ tangente ad $AC$ in $C$ si intersecano di nuovo in $D$.
+>
+> Dimostrare che $MA \times MD = MB \times MC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2026#q04|src_bmo1_2026__Q04]]
 
 
 
@@ -150,11 +179,24 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con regole di dimezzamento/arrotondamento; colpisce ogni numero intero positivo?*
+*La successione di George contiene ogni intero positivo?*
 
-> George definisce una sequenza di integri positivi $t_1, t_2, t_3, \ldots$ come segue.
-> 
-> In primo luogo impone $t_1 = 1$. Quindi, per $n \ge 1$: \begin{itemize} \item Se $t_n$ è pari, allora $t_{n+1} = t_n / 2$. \item Se $t_n$ è pari e superiore a 1, allora $t_{n+1} = t_n / 3$ arrotondato al numero intero più vicino. \item Se $t_n = 1$, allora $t_{n+1} = 2025k$ dove $k$ è il numero di termini uguali a $1$ tra $t_1, t_2, \ldots, t_n$. Questa sequenza contiene ogni intero positivo?
+> George definisce una successione di interi positivi $t_1, t_2, t_3, \ldots$ come segue.
+>
+> Pone dapprima $t_1 = 1$. Poi, per $n \ge 1$:
+>
+> - Se $t_n$ è pari, allora $t_{n+1} = t_n / 2$.
+> - Se $t_n$ è dispari e maggiore di 1, allora $t_{n+1} = t_n / 3$ arrotondato all'intero più vicino.
+> - Se $t_n = 1$, allora $t_{n+1} = 2025k$, dove $k$ è il numero di termini uguali a $1$ fra $t_1, t_2, \ldots, t_n$.
+>
+> Questa successione contiene ogni intero positivo?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2026#q05|src_bmo1_2026__Q05]]
 
 
 
@@ -185,14 +227,21 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rana su 1000 pad di lili; trovare n per esattamente una rana rimanente*
+*Per quali $n$ si può restare con una sola rana sulle ninfee*
 
-> Ci sono 1000 lampadine di lirio su un stagno disposte in cerchio e etichettate in ordine $1, 2, \ldots, 1000$. (I primi quattro blocchi di lilia possono essere descritti anche utilizzando rispettivamente le etichette 1001, 1002, 1003 e 1004) I primi blocchi di lilia $n$ sono occupati da una rana e i restanti blocchi di lilia non sono occupati.
-> 
-> Ogni minuto, esattamente una delle rane fa una mossa. Supponiamo che la rana sia su un lampadino. La rana può:
-> 
-> (i) Nuotare su un lampadino $k + 4$ o $k - 4$, purché non sia occupato; o
-> 
-> (ii) Salta al lampadino $k + 3$ o $k - 3$ purché questo lampadino non sia occupato e le due lampadine saltate siano entrambe occupate. Quando questo accade, le due rane che sono state saltate si immergono nel lago e non partecipano a ulteriori mosse.
-> 
-> Per quali valori di $n$ è possibile, mediante una sequenza di mosse, concludere con esattamente una rana rimasta sui pad del lilio?
+> Su uno stagno ci sono 1000 ninfee disposte in cerchio ed etichettate $1, 2, \ldots, 1000$ in ordine. (Le prime quattro ninfee si possono anche descrivere con le etichette 1001, 1002, 1003 e 1004, rispettivamente.) Le prime $n$ ninfee sono occupate ciascuna da una rana, e le altre sono libere.
+>
+> Ogni minuto esattamente una delle rane fa una mossa. Si supponga che la rana sia sulla ninfea $k$. Quella rana può:
+>
+> (i) nuotare alla ninfea $k + 4$ o $k - 4$, purché non sia occupata; oppure
+>
+> (ii) saltare alla ninfea $k + 3$ o $k - 3$, purché questa ninfea non sia occupata e le due ninfee scavalcate siano entrambe occupate. In questo caso le due rane scavalcate si tuffano nello stagno e non partecipano ad altre mosse.
+>
+> Per quali valori di $n$ è possibile, con una successione di mosse, finire con esattamente una rana rimasta sulle ninfee?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2026#q06|src_bmo1_2026__Q06]]

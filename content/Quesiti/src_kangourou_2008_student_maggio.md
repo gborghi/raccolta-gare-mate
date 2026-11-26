@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of subsets with odd number of elements*
+*Number of subsets with an odd number of elements*
 
-> *(5 points) * A set of $n$ objects ($n \geq 1$) is given. How many of its subsets are made up of an odd number of elements?
+> *(5 points)* A set of $n$ objects ($n \geq 1$) is given. How many of its subsets have an odd number of elements?
 
-**Answer:** 2^(n-1)
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_student_maggio#qs1|src_kangourou_2008_student_maggio__QS1]]
 
 
 
@@ -61,15 +66,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*IMPERFECT sets exist*
+*There exist imperfect sets*
 
-> *(7 points)* Call IMPERFECT a set $A$ of positive integers such that:
+> *(7 points)* Call an IMPERFECT set $A$ of positive integers one that satisfies:
 > - it consists of infinitely many numbers;
-> - however you choose a finite subset $B$ of that set, the sum of the numbers of $B$ is never the square of an integer.
-> 
-> Do IMPERFECT sets exist? Justify the answer.
+> - whatever finite subset $B$ you choose of this set, the sum of the numbers in $B$ is never the square of an integer.
+>
+> Do IMPERFECT sets exist? Justify your answer.
 
-**Answer:** yes
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_insiemi_funzioni|Sets and functions]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_student_maggio#qs2|src_kangourou_2008_student_maggio__QS2]]
 
 
 
@@ -92,11 +101,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n whole with sum = product for each n>1*
+*n in the interior with sum = product for every n>1*
 
-> *(11 points) * Can we find, for each $n > 1$, $n$ non-zero natural integers for which the sum is equal to the product?
+> *(11 points)* Can we find, for each $n > 1$, $n$, non-zero natural numbers such that their sum equals their product?
 
-**Answer:** yes
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_student_maggio#qs3|src_kangourou_2008_student_maggio__QS3]]
 
 
 
@@ -119,11 +132,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three points with an empty circle inside*
+*Three dots with an empty circle inside*
 
-> *(14 points) * In a plane some non-collinear points (i.e. not all lying on the same line) are assigned in finite numbers greater than or equal to three. Is it true that there are necessarily three such points among them that the circle bounded by the circumference passing through these three does not contain any of the remaining points?
+> *(14 points)* In a plane, some non-collinear points (that is, points not all lying on the same line) are given, in finite number and in number greater than or equal to three. Is it true that among them there must necessarily be three points such that the circle bounded by the circumference passing through these three points contains none of the remaining points in its interior?
 
-**Answer:** yes
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_student_maggio#qs4|src_kangourou_2008_student_maggio__QS4]]
 
 
 
@@ -150,15 +167,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-There is a line that intersects all polygons
+*There exists a straight line that intersects all polygons*
 
 ![[src_kangourou_2008_student_maggio__probs5.png]]
 
-> *(18 points) * In the plane are assigned some polygons, not necessarily convex, in finite number. They are arranged in such a way that any two of them have at least one point in common. Demonstrate that there is a line that crosses them all.
-> 
-> Does the statement remain true if instead of polygons, they are considered generic sets of points?
+> *(18 points)* In the plane, some polygons—not necessarily convex—are given, in finite number. They are arranged in such a way that any two of them have at least one point in common. Prove that there exists a line that intersects all of them.
+>
+> Does the statement remain true if, instead of polygons, one considers arbitrary sets of points?
 
-**Answer:** proof
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_student_maggio#qs5|src_kangourou_2008_student_maggio__QS5]]
 
 
 
@@ -184,10 +205,15 @@ There is a line that intersects all polygons
 <div class="qlang-split" data-lang="en"></div>
 
 
-*There is a person with at least 85% of the wealth*
+*There exists a person with at least 85% of the wealth*
 
-> In a certain country wealth is distributed very unevenly: in fact, taken from any group of at least 10 people, at least 90% of their total wealth is concentrated in no more than 10% of the people.
-> 
-> Prove that there must be a person in that country who holds at least 85% of the total wealth of the country.
+> *(22 points)* In a certain country, wealth is distributed very unevenly: indeed, for any group consisting of at least 10 people, at least 90% of their total wealth is concentrated in no more than 10% of the people in the group.
+>
+> Prove that in such a country there must exist a person who holds at least 85% of the country's total wealth.
 
-**Answer:** proof
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_student_maggio#qs6|src_kangourou_2008_student_maggio__QS6]]

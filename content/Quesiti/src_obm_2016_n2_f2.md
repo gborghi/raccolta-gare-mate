@@ -30,11 +30,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo AEG in pentagono regolare con triangolo equilaterale adiacente*
+*Angolo AEG nel pentagono regolare con triangolo equilatero adiacente*
 
-> Nella figura seguente, $ABCDE$ è un pentagono regolare e $EFG$ è un triangolo equilaterale. Determinare la misura, in gradi, dell'angolo $A\widehat{E}G$.
+> Nella figura sottostante, $ABCDE$ è un pentagono regolare e $EFG$ è un triangolo equilatero. Determinare la misura, in gradi, dell'angolo $A\widehat{E}G$.
 
 ![[src_obm_2016_n2_f2__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2016_n2_f2#q01|src_obm_2016_n2_f2__Q01]]
 
 
 
@@ -57,9 +63,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max studenti che hanno votato sul rinvio degli esami di matematica*
+*Numero massimo di studenti che hanno votato per il rinvio dell'esame di matematica*
 
-> In una classe, l'insegnante ha tenuto un voto per decidere se l'esame di matematica sarebbe stato rinviato o meno. Tutti gli studenti hanno votato e, di conseguenza, un terzo degli studenti ha votato a favore del rinvio e il resto ha votato contro. Diversi studenti hanno discusso e poi hanno votato di nuovo; 8 studenti hanno cambiato idea, così che $\frac{5}{9}$ degli studenti hanno finito per essere contro il rinvio. Quanti studenti hanno partecipato al voto?
+> In un'aula, l'insegnante indisse una votazione per decidere se l'esame di matematica sarebbe stato rinviato o no. Tutti gli studenti votarono e, di conseguenza, un terzo degli studenti votò a favore del rinvio, mentre gli altri votarono contro. Diversi studenti discussero e poi si tenne una nuova votazione; 8 studenti cambiarono idea, cosicché $\frac{5}{9}$ degli studenti finirono per essere contrari al rinvio. Al massimo, quanti studenti parteciparono alla votazione?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n2_f2#q02|src_obm_2016_n2_f2__Q02]]
 
 
 
@@ -82,9 +95,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maxime somme in coppia di 5 numeri interi distinti divisibili per 3*
+*Somme a coppie massime di 5 interi distinti divisibili per 3*
 
-> Si calcola la somma degli elementi di ciascun sottoinsieme $2$ di elementi di un insieme $S$ di $5$ di integri distinti. Qual è il numero massimo di queste somme che possono essere divisibili per $3$?
+> Si calcola la somma degli elementi di ciascun sottoinsieme di $2$ elementi di un insieme $S$ di $5$ interi distinti. Qual è il numero massimo di queste somme che possono essere divisibili per $3$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n2_f2#q03|src_obm_2016_n2_f2__Q03]]
 
 
 
@@ -108,9 +128,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Soluzioni a numeri interi positivi a x^2 - y^4 = 36*
+*Soluzioni in numeri interi positivi dell'equazione x^2 - y^4 = 36*
 
-> Determinare il numero di soluzioni con $x$ e $y$ integri positivi dell'equazione $$x^2 - y^4 = 36.$$
+> Determinare il numero di soluzioni, con $x$ e $y$ interi positivi, dell'equazione
+> $$x^2 - y^4 = 36.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n2_f2#q04|src_obm_2016_n2_f2__Q04]]
 
 
 
@@ -133,9 +161,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Come guadagnare esattamente 15 punti in 7 partite di calcio
+*Modi per guadagnare esattamente 15 punti in 7 partite di calcio*
 
-> Nel Super Bola, una nuova partita di calcio, il giocatore compete in stagioni. Ogni stagione è composta da sette partite, e in ogni partita un giocatore può guadagnare $3$ punti per una vittoria, $1$ punti per un pareggio, o $0$ punti per una perdita. In quanti modi diversi un giocatore può guadagnare esattamente $15$ punti in una stagione?
+> In Super Bola, un nuovo gioco di calcio, il giocatore compete nelle stagioni. Ogni stagione è composta da sette partite e in ciascuna partita un giocatore può guadagnare $3$ punti per una vittoria, $1$ punti per un pareggio o $0$ punti per una sconfitta. In quanti modi diversi un giocatore può totalizzare esattamente $15$ punti in una stagione?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n2_f2#q05|src_obm_2016_n2_f2__Q05]]
 
 
 
@@ -158,9 +193,16 @@ Come guadagnare esattamente 15 punti in 7 partite di calcio
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Min punti interiori di 4x4 quadrati colpiti da ogni disco unitario inserito*
+*Punti interni minimi di un quadrato 4x4 colpiti da ogni disco unitario inscritto*
 
-> $ABCD$ sia un quadrato di lato $4$. L'insieme $S$ di punti all'interno di $ABCD$ ha la seguente proprietà: ogni cerchio di raggio $1$ interamente contenuto in $ABCD$ (anche sul suo confine) contiene almeno un punto $S$. Qual è il numero minimo di punti di $S$?
+> Sia $ABCD$ un quadrato di lato $4$. L'insieme $S$ dei punti interni a $ABCD$ ha la seguente proprietà: ogni cerchio di raggio $1$ che è interamente contenuto in $ABCD$ (compreso il bordo) contiene almeno un punto di $S$. Qual è il numero minimo di punti di $S$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n2_f2#q06|src_obm_2016_n2_f2__Q06]]
 
 
 
@@ -193,13 +235,26 @@ Come guadagnare esattamente 15 punti in 7 partite di calcio
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Viaggio di cioccolato di Cantor: conteggio e identità del prodotto*
+*Il viaggio on the road con il cioccolato di Cantor: conteggi e identità del prodotto*
 
-> Cantor fa un eterno viaggio in macchina lungo una strada infinita, partendo dal chilometro zero. Ogni volta che Cantor completa un numero intero di chilometri si ferma. È noto che: - ogni volta che la sospensione si verifica in un chilometro della forma $6k+2$, dove $k$ è un numero intero, si mangia esattamente una cioccolata di tipo 1; - ogni volta che la sospensione si verifica in un chilometro della forma $4k+1$, dove $k$ è un numero intero, si mangia esattamente una cioccolata di tipo 2; - a ogni $a$ chilometro si mangia esattamente una cioccolata di tipo 3 una volta; - a ogni $b$ chilometro si mangia esattamente una cioccolata di tipo 4 una volta; - a ogni $c$ chilometro si mangia esattamente una cioccolata di tipo 5. Ci sono esattamente 5 tipi di cioccolati e, a ogni sosta, mangia esattamente uno dei cinque tipi.
-> 
-> a) Nel momento in cui Cantor si ferma al chilometro $2016$, quanti cioccolati di tipo 1 avrà mangiato? Quanti di tipo 2?
-> 
-> b) Sapendo che il prodotto dei numeri $a$, $b$, $c$ è $144$, determinare il valore di $ab + bc + ac$.
+> Cantor intraprende un viaggio in auto eterno lungo una strada infinita, partendo dal chilometro zero. Ogni volta che Cantor percorre un numero intero di chilometri, si ferma. Si sa che:
+> - ogni volta che l'arresto avviene a un chilometro della forma $6k+2$, dove $k$ è un intero, egli mangia una tavoletta di cioccolato di tipo 1 esattamente una volta;
+> - ogni volta che la fermata avviene a un chilometro del tipo $4k+1$, dove $k$ è un numero intero, egli mangia un cioccolatino di tipo 2 esattamente una volta;
+> - ogni $a$ chilometri, mangia esattamente una volta un cioccolatino di tipo 3;
+> - ogni $b$ chilometri, mangia esattamente una volta un cioccolatino di tipo 4;
+> - ogni $c$ chilometri, mangia esattamente una volta un cioccolatino di tipo 5.
+> Ci sono esattamente 5 tipi di cioccolato e, a ogni tappa, mangia esattamente uno dei cinque tipi.
+>
+> a) Nel momento in cui Cantor si ferma al chilometro $2016$, quante cioccolate di tipo 1 avrà mangiato? Quante di tipo 2?
+>
+> b) Sapendo che il prodotto dei numeri $a$, $b$, $c$ è $144$, determina il valore di $ab + bc + ac$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n2_f2#q07|src_obm_2016_n2_f2__Q07]]
 
 
 
@@ -224,11 +279,18 @@ Come guadagnare esattamente 15 punti in 7 partite di calcio
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio EG/GD in triangolo equilaterale con punti di trisezione laterale*
+*Rapporto EG/GD nel triangolo equilatero con i punti di trisezione dei lati*
 
-> Nella figura seguente, il triangolo $ABC$ è equilaterale e $BD = CE = AF = \frac{AB}{3}$. Determinare il rapporto $\dfrac{EG}{GD}$.
+> Nella figura sottostante, il triangolo $ABC$ è equilatero e $BD = CE = AF = \frac{AB}{3}$. Determinare il rapporto $\dfrac{EG}{GD}$.
 
 ![[src_obm_2016_n2_f2__q08.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2016_n2_f2#q08|src_obm_2016_n2_f2__Q08]]
 
 
 
@@ -257,10 +319,19 @@ Come guadagnare esattamente 15 punti in 7 partite di calcio
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Soluzioni reali di p(p(x))=x^2 e p(p(x))=p(x)*
+*Soluzioni reali delle equazioni quadratiche iterate p(p(x))=x^2 e p(p(x))=p(x)*
 
-> Considerate il trinomio di grado due $p(x) = x^2 - x + 1$.
-> 
-> a) Determinare il numero di soluzioni reali distinte dell'equazione $p(p(x)) = x^2$, cioè $$(x^2 - x + 1)^2 - (x^2 - x + 1) + 1 = x^2.$$
-> 
-> b) Determinare il numero di soluzioni reali distinte dell'equazione $$p(p(x)) = p(x).$$
+> Si consideri il trinomio di secondo grado $p(x) = x^2 - x + 1$.
+>
+> a) Determina il numero di soluzioni reali distinte dell'equazione $p(p(x)) = x^2$, cioè
+> $$(x^2 - x + 1)^2 - (x^2 - x + 1) + 1 = x^2.$$
+>
+> b) Determina il numero di soluzioni reali distinte dell'equazione
+> $$p(p(x)) = p(x).$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2016_n2_f2#q09|src_obm_2016_n2_f2__Q09]]

@@ -39,13 +39,24 @@ level: China Mathematical Competition (Complementary Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*quadrilaterale convex, riducendo al minimo f(P)=PA×BC+PD×CA+PC×AB; conciclicità al minimo e numero minimo.*
+*Quadrilatero convesso, che minimizza f(P)=PA*BC+PD*CA+PC*AB; conciclicità nel punto di minimo e minimo numerico.*
 
-> (50 marchi) Come mostrato alla figura. 1, $ABCD$ è un quadrilaterale convex con $\angle B + \angle D < 180^\circ$, e $P$ è un punto in movimento sul piano. Indicare che $$f(P) = PA \times BC + PD \times CA + PC \times AB.$$ (1) Provare che $P$, $A$, $B$, $C$ sono conciclici quando $f(P)$ raggiunge il minimo. (2) Supponiamo che il punto $E$ si trovi sull'arco $\overset{\frown}{AB}$ del cerchio circoscritto $O$ di $\triangle ABC$, soddisfacendo $$\frac{AE}{AB} = \frac{\sqrt{3}}{2}, \quad \frac{BC}{EC} = \sqrt{3} - 1, \quad \angle ECB = \frac{1}{2}\angle ECA;$$, inoltre $DA$, $DC$ sono tangenti a $\odot O$, $AC = \sqrt{2}$. Trova il minimo di $f(P)$.
+> (50 punti) Come mostrato nella Fig. 1, $ABCD$ è un quadrilatero convesso con $\angle B + \angle D < 180^\circ$, e $P$ è un punto mobile nel piano. Sia
+> $$f(P) = PA \times BC + PD \times CA + PC \times AB.$$
+> (1) Dimostrare che $P$, $A$, $B$, $C$ sono conciclici quando $f(P)$ raggiunge il minimo. (2) Supponi che il punto $E$ si trovi sull'arco $\overset{\frown}{AB}$ della circonferenza circoscritta $O$ di $\triangle ABC$, soddisfacendo
+> $$\frac{AE}{AB} = \frac{\sqrt{3}}{2}, \quad \frac{BC}{EC} = \sqrt{3} - 1, \quad \angle ECB = \frac{1}{2}\angle ECA;$$
+> Inoltre, $DA$ e $DC$ sono tangenti a $\odot O$ e $AC = \sqrt{2}$. Trovare il minimo di $f(P)$.
 
 ![[src_cn_cmc-complementary-test_2008__q01.png]]
 
-**Risposta:** $f(P)_{\min} = \sqrt{10}$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-complementary-test_2008#q01|src_cn_cmc-complementary-test_2008__Q01]]
 
 
 
@@ -72,9 +83,18 @@ level: China Mathematical Competition (Complementary Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione periodica con periodi T e 1, 0<T<1; mostra un sottoperiodo 1/p quando T è razionale e una sequenza diminuente di periodi irrazionali quando T è irrazionale.*
+*Funzione periodica con periodi T e 1, 0<T<1; mostrare un sottoperiodo 1/p quando T è razionale, e una successione decrescente di periodi irrazionali quando T è irrazionale.*
 
-> (50 punti) $f(x)$ deve essere una funzione periodica con periodi $T$ e $1$, soddisfacente $0 < T < 1$. Prova che: (1) Se $T$ è un numero razionale, esiste un primo $p$ tale che $\frac{1}{p}$ è anche un periodo di $f(x)$. (2) Se $T$ è irrazionale, esiste una sequenza di numeri irrazionali $\{a_n\}$ che soddisfa $1 > a_n > a_{n+1} > 0$ $(n = 1, 2, \ldots)$ e ogni $a_n$ è un periodo di $f(x)$.
+> (50 punti) Sia $f(x)$ una funzione periodica con periodi $T$ e $1$, che soddisfa $0 < T < 1$. Dimostrare che: (1) Se $T$ è un numero razionale, esiste un numero primo $p$ tale che $\frac{1}{p}$ è anch'esso un periodo di $f(x)$. (2) Se $T$ è irrazionale, esiste una successione di numeri irrazionali $\{a_n\}$ che soddisfa $1 > a_n > a_{n+1} > 0$ $(n = 1, 2, \ldots)$ e ciascun $a_n$ è un periodo di $f(x)$.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc-complementary-test_2008#q02|src_cn_cmc-complementary-test_2008__Q02]]
 
 
 
@@ -102,6 +122,15 @@ level: China Mathematical Competition (Complementary Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato a_k>=0 (k=1..2008), dimostrare l'esistenza di una sequenza x_n con una relazione di serie prescritta se la somma dell'a_k supera 1.*
+*Dati a_k >= 0 (k=1..2008), dimostrare che esiste una successione x_n con una relazione di serie prescritta se e solo se la somma degli a_k è maggiore di 1.*
 
-> (50 punti) Supponiamo che $a_k \ge 0$, $k = 1, 2, \ldots, 2008$. Prove che se e solo se $\sum_{k=1}^{2008} a_k > 1$ esiste una sequenza $\{x_n\}$ soddisfacente (1) $0 = x_0 < x_1 < x_2 < \cdots < x_n < \cdots$, $n = 1, 2, 3, \ldots$; (2) $\lim_{n \to \infty} x_n$; (3) $x_n - x_{n-1} = \sum_{k=1}^{2008} a_k(x_{n+k} - x_{n+k-1})$, $n = 1, 2, 3, \ldots$
+> (50 punti) Si supponga che $a_k \ge 0$, $k = 1, 2, \ldots, 2008$. Si dimostri che, se e solo se $\sum_{k=1}^{2008} a_k > 1$, esiste una successione $\{x_n\}$ che soddisfa (1) $0 = x_0 < x_1 < x_2 < \cdots < x_n < \cdots$, $n = 1, 2, 3, \ldots$; (2) $\lim_{n \to \infty} x_n$ esiste; (3) $x_n - x_{n-1} = \sum_{k=1}^{2008} a_k(x_{n+k} - x_{n+k-1})$, $n = 1, 2, 3, \ldots$
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-complementary-test_2008#q03|src_cn_cmc-complementary-test_2008__Q03]]

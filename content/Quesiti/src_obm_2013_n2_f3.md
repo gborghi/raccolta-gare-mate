@@ -35,15 +35,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono e grafico stellare; contare associazioni curiose di sottoinsieme di 2 elementi*
+*Grafico a pentagono e stella; conta le curiose associazioni di sottoinsiemi a 2 elementi*
 
-> Arnaldo disegna un pentagono regolare $ABCDE$ e poi disegna una stella a 5 punte $MNOPQ$. Poi disegna i segmenti $AM$, $BF$, $CN$, $DQ$ e $EO$. Nella figura formata, diciamo che due vertici sono *vicinanti* se esiste un segmento che li unisce. Bernaldo osserva che è possibile posizionare tutti i $10$ sottoinsiemi di due elementi di $\{1,2,3,4,5\}$ sui vertici $10$ della figura in modo tale che i sottoinsiemi posizionati su ogni due vertici vicini siano sempre disconnessi. Tale associazione è chiamata *curious*, e un esempio è riportato di seguito.
-> 
-> a) Cita un altro esempio di associazione curiosa.
-> 
+> Arnaldo traccia un pentagono regolare $ABCDE$ e poi traccia una stella a cinque punte $MNOPQ$. Successivamente traccia i segmenti $AM$, $BF$, $CN$, $DQ$ e $EO$. Nella figura così ottenuta, diciamo che due vertici sono *vicini* se esiste un segmento che li unisce. Bernaldo osserva che è possibile collocare tutti gli $10$ sottoinsiemi di due elementi di $\{1,2,3,4,5\}$ sui $10$ vertici della figura in modo tale che i sottoinsiemi collocati su ogni coppia di vertici vicini siano sempre disgiunti. Una tale associazione è detta *curiosa*, e di seguito viene fornito un esempio.
+>
+> a) Fornisci un altro esempio di associazione curiosa.
+>
 > b) Determina il numero di associazioni curiose che esistono.
 
 ![[src_obm_2013_n2_f3__q01.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n2_f3#q01|src_obm_2013_n2_f3__Q01]]
 
 
 
@@ -70,13 +77,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i numeri interi positivi n con floor(sqrt(n))=2013; prova la condizione quadrata perfetta*
+*Trovare numeri interi positivi n tali che floor(sqrt(n))=2013; dimostra la condizione per essere un quadrato perfetto*
 
-> a) Trovare tutti gli integri positivi $n$ tali da $\lfloor \sqrt{n} \rfloor = 2013$.
-> 
-> b) Che i $a$ e $b$ siano integri positivi tali che $\lfloor \sqrt{ab} \rfloor = \lfloor \sqrt{a} \rfloor \cdot \lfloor \sqrt{b} \rfloor$. Prova che almeno uno dei due numeri interi deve essere un quadrato perfetto.
-> 
-> (Per qualsiasi numero reale $x$, il numero $\lfloor x \rfloor$ è definito come il numero intero più grande inferiore o uguale a $x$.)
+> a) Trova tutti gli interi positivi $n$ tali che $\lfloor \sqrt{n} \rfloor = 2013$.
+>
+> b) Siano $a$ e $b$ numeri interi positivi tali che $\lfloor \sqrt{ab} \rfloor = \lfloor \sqrt{a} \rfloor \cdot \lfloor \sqrt{b} \rfloor$. Dimostrare che almeno uno dei due numeri interi deve essere un quadrato perfetto.
+>
+> (Per ogni numero reale $x$, il numero $\lfloor x \rfloor$ è definito come il più grande intero minore o uguale a $x$.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n2_f3#q02|src_obm_2013_n2_f3__Q02]]
 
 
 
@@ -101,11 +115,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con cerchio circoscritto; perpendicolari da D ai lati; punti medi perpendicolari*
+*Triangolo con circonferenza circoscritta; perpendicolari condotte da D ai lati; perpendicolari nei punti medi*
 
-> Lasciate che $ABC$ sia un triangolo. Che $D$ sia un punto sul cerchio circoscritto del triangolo, e che $E$ e $F$ siano i piedi delle perpendicolari da $D$ a $AB$ e $DC$, rispettivamente. Il punto medio del lato $BC$ deve essere $M$. Supponiamo che $N$ sia il punto medio di $EF$. Prova che le linee $NA$ e $NM$ sono perpendicolari.
-> 
-> (Nota: supponiamo che il punto $N$ sia distinto dal punto $M$.)
+> Sia $ABC$ un triangolo. Sia $D$ un punto sulla circonferenza circoscritta al triangolo, e siano $E$ e $F$ i piedi delle perpendicolari condotte da $D$ rispettivamente a $AB$ e a $DC$. Sia $M$ il punto medio del lato $BC$. Si supponga che $N$ sia il punto medio di $EF$. Dimostrare che le rette $NA$ e $NM$ sono perpendicolari.
+>
+> (Nota: Si assuma che il punto $N$ sia distinto dal punto $M$.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n2_f3#q03|src_obm_2013_n2_f3__Q03]]
 
 
 
@@ -128,9 +149,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova i numeri a due cifre i cui quadrodi li dividono*
+*Trovare numeri a due cifre tali che il loro quadroide li divida*
 
-> Dato un numero a due cifre, lo chiamiamo *quadroid* il numero formato dalla concatenatura dei quadrati delle sue cifre nello stesso ordine. Ad esempio, i quadriidi di $19$, $72$, $65$ e $23$ sono $181$, $494$, $3625$ e $49$, rispettivamente. Trova tutti i numeri a due cifre i cui quadroid li divide.
+> Dato un numero di due cifre, chiamiamo il suo *quadroide* il numero ottenuto concatenando, nello stesso ordine, i quadrati delle sue cifre. Ad esempio, i quadroidi di $19$, $72$, $65$ e $23$ sono rispettivamente $181$, $494$, $3625$ e $49$. Trovare tutti i numeri di due cifre il cui quadroide li divide.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n2_f3#q04|src_obm_2013_n2_f3__Q04]]
 
 
 
@@ -153,9 +181,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo di scalene, media AM, cerchio di diametro AM incontra AB e AC; angolo di ricerca BAC*
+*Triangolo scaleno, mediana AM, la circonferenza di diametro AM interseca AB e AC; determinare l'angolo BAC*
 
-> Si deve $ABC$ essere un triangolo di scalene e $AM$ la media relativa al lato $BC$. Il cerchio di diametro $AM$ incrocia di nuovo i lati $AB$ e $AC$ rispettivamente nei punti $P$ e $Q$, entrambi diversi da $A$. Supponiamo che $PQ$ sia parallelo a $BC$. Determinare la misura dell'angolo $\angle BAC$.
+> Sia $ABC$ un triangolo scaleno e $AM$ la mediana relativa al lato $BC$. La circonferenza avente come diametro $AM$ interseca i lati $AB$ e $AC$ nuovamente nei punti $P$ e $Q$, rispettivamente, entrambi diversi da $A$. Si supponga che $PQ$ sia parallelo a $BC$. Determinare la misura dell'angolo $\angle BAC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n2_f3#q05|src_obm_2013_n2_f3__Q05]]
 
 
 
@@ -178,6 +213,13 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n semiraie da ciascuna di A e B; cerchi distinti minimi attraverso i punti di intersezione*
+*n semiraggi da ciascuno di A e B; numero minimo di cerchi distinti passanti per i punti di intersezione*
 
-> Considera un intero positivo $n$ e due punti $A$ e $B$ in un piano. A partire dal punto $A$ vengono disegnati semiray $n$ e a partire dal punto $B$ vengono disegnati semiray $n$, in modo tale che tutti si trovino nel semiplano definito dalla linea $AB$ e che tutti gli angoli formati dai semiray $2n$ con segmento $AB$ siano acuti. Definire i cerchi che attraversano $A$, $B$ e attraverso ogni punto di intersezione tra un semiray da $A$ e un semiray da $B$. Qual è il numero minimo di **cerchi ** distinti che possono essere definiti con questa costruzione?
+> Si consideri un numero intero positivo $n$ e due punti $A$ e $B$ in un piano. A partire dal punto $A$ si tracciano $n$ semirette, e a partire dal punto $B$ si tracciano $n$ semirette, in modo tale che tutte giacciano nel semipiano delimitato dalla retta $AB$ e che tutti gli angoli formati dalle $2n$ semirette con il segmento $AB$ siano acuti. Si definiscano le circonferenze passanti per $A$, $B$ e per ciascun punto di intersezione tra una semiretta proveniente da $A$ e una semiretta proveniente da $B$. Qual è il numero minimo di circonferenze **distinte** che possono essere definite con questa costruzione?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n2_f3#q06|src_obm_2013_n2_f3__Q06]]

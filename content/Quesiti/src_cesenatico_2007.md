@@ -61,7 +61,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*points with sum of minimum vertical/straight distances*
+*Points with minimum sum of distances to lines/vertices*
 
 ![[src_cesenatico_2007__prob1a.png]]
 ![[src_cesenatico_2007__prob1b.png]]
@@ -90,9 +90,16 @@ level: nazionale
 \end{document}
 ```
 
-> A regular hexagon is given in the plan. For each point P of the plane, we call P the sum of the six distances between P and the lines on which the sides of the hexagon lie, and v(P) the sum of the six distances of P from the vertices of the hexagon. (a) For which P points of the plan is the minimum P? (b) For which points P of the plan v(P) is the minimum?
+> Let a regular hexagon be given in the plane. For each point P in the plane, let l(P) be the sum of the six distances from P to the lines on which the sides of the hexagon lie, and let v(P) be the sum of the six distances from P to the vertices of the hexagon.
+> (a) For which points P in the plane is l(P) minimal?
+> (b) For which points P in the plane is v(P) minimal?
 
-**Answer:** (a) interior/boundary of the hexagon; (b) the center
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2007#q01|src_cesenatico_2007__Q01]]
 
 
 
@@ -119,11 +126,18 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*p(2007)-q(2007) multiplied by 2 and k*
+*p(2007)-q(2007) is a multiple of 2 and of k*
 
-> Let's say that two polynomials with integer coefficients p and q are similar if they have the same degree and the same coefficients less the order. (a) Demonstrate that if p and q are similar, then p(2007) −q(2007) is a multiple of 2. (b) Are there such integers k > 2 that, however given two similar polynomials p and q, p(2007)−q(2007) is a multiple of k?
+> Let us say that two polynomials p and q with integer coefficients are similar if they have the same degree and the same coefficients up to order.
+> (a) Prove that if p and q are similar, then p(2007) − q(2007) is a multiple of 2.
+> (b) There exist integers k > 2 such that, no matter how two similar polynomials p and q are given, p(2007)−q(2007)
+> Is it a multiple of k?
 
-**Answer:** (a) proved; (b) yes, k=2006
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2007#q02|src_cesenatico_2007__Q02]]
 
 
 
@@ -150,13 +164,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*cyclic quadrilateral and BA=BE*
+*A quadrilateral is cyclic if and only if BA = BE*
 
 ![[src_cesenatico_2007__prob3.png]]
 
-> Let ABC be a triangle with a baricenter G. Both D = A point on the AG line such that AG = GD, and E = B point on the GB line such that GB = GE. Let M be the mean of AB. Demonstrate that the quadrilateral BMCD is inscribed in a circumference if and only if BA = BE.
+> Let ABC be a triangle with centroid G. Let D ≠ A be a point on the line AG such that AG = GD, and let E ≠ B be a point on the line GB such that GB = GE. Finally, let M be the midpoint of AB. Prove that the quadrilateral BMCD is cyclic if and only if BA = BE.
 
-**Answer:** proved
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2007#q03|src_cesenatico_2007__Q03]]
 
 
 
@@ -184,11 +202,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*maximum guaranteed euro*
+*Maximum guaranteed euros*
 
-> Alberto, to celebrate Barbara's birthday, proposes to play the following game: given the sum of the numbers 0, 1, . . . , 1024, Barbara removes 29 numbers from this total. In the next step, Alberto removes the remaining 28 numbers. You play Barbara again, who removes 27 and so on, until there are only 2 numbers a and b. Alberto at this point has to pay Barbara a-a-b thousand euros. Determine the maximum amount of euro Barbara is sure to be able to collect, regardless of the strategy adopted by Alberto.
+> To celebrate Barbara's birthday, Alberto proposes playing the following game: given the set of numbers 0, 1, ..., 1024, Barbara removes 29 numbers from this set. In the next step, Alberto removes some from the remaining 28 numbers. It is Barbara's turn again; she removes 27 of the remaining ones, and so on, until only two numbers, a and b, are left. At this point, Alberto must pay Barbara |a−b| euros. Determine the maximum amount of euros that Barbara can be certain of receiving, regardless of the strategy Alberto adopts.
 
-**Answer:** 32 euro
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2007#q04|src_cesenatico_2007__Q04]]
 
 
 
@@ -217,11 +239,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n and x_n covers for each n*
+*n e x_n coprime for every n*
 
-> Whether given the sequence (x1 = 2; xn+1 = 2x2 n −1 for n ≥1. Demonstrate that n and xn are relatively prime for each n ≥1.
+> Let the sequence be given
+> (x1 = 2; xn+1 = 2x2 n −1 for n ≥ 1. Prove that n and xn are relatively prime for every n ≥ 1.
 
-**Answer:** proved
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_induzione|Induction]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2007#q05|src_cesenatico_2007__Q05]]
 
 
 
@@ -267,8 +294,21 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum constant c_n and d_n in inequality with product 1
+*Constant maxima c_n and d_n in inequalities with product 1*
 
-> For each integer n ≥2, determine: (a) the largest real number cn such that 1 1 + a1 + 1 1 + a2 + . . . + 1 1 + an ≥cn for each choice of positive real numbers a1, a2, . . . , such as a1 · a2 · . . . · an = 1; (b) the largest real number such that 1 1 + 2a1 + 1 1 + 2a2 + . . . + 1 1 + 2an ≥dn for each choice of positive real numbers a1, a2, . . . , such as a1 · a2 · . . . · an = 1.
+> For each integer n ≥ 2, determine:
+> (a) the greatest real number cn such that
+> 1 1 + a1 + 1 1 + a2
+> + . . . +
+> 1 1 + an ≥ cn for every choice of positive real numbers a1, a2, . . . , an such that a1 · a2 · . . . · an = 1;
+> (b) the greatest real number dn such that
+> 1 1 + 2a1 + 1 1 + 2a2
+> + . . . +
+> 1 1 + 2an ≥ dn for every choice of positive real numbers a1, a2, . . . , an such that a1 · a2 · . . . · an = 1.
 
-**Answer:** (a) c_n=1; (b) d_2=2/3, d_n=1 for n>=3
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_cesenatico_2007#q06|src_cesenatico_2007__Q06]]

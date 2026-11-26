@@ -36,13 +36,18 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of possible arrival orders for four pupils on the run*
+*Number of possible arrival orders for four runners*
 
-> Four students in the same class decide to take a walk during the telethon. They each wear a breastplate: Pierre wears the breastplate n<°1, Marie the n°2, Élodie the n°3 and Eric the n°4.
-> 
-> How many different arrival orders are possible?
+> Four pupils from the same class decide to go for a run on the occasion of the telethon. Each of them wears a race bib: Pierre wears bib no. 1, Marie wears no. 2, Élodie wears no. 3, and Eric wears no. 4.
+>
+> **How many different finishing orders are possible?**
 
-**Answer:** 24
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q01|src_bocconi_finaleint_2007_g2__Q01]]
 
 
 
@@ -68,13 +73,18 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tri-digit number with sum of 18 and relations between the digits*
+*A three-digit number with a digit sum of 18 and relationships between the digits*
 
-> A number is made up of three digits. Its added three digits give $18$. The sum of the first two digits is twice the sum of the third, and half of the second is equal to one third of the first.
-> 
-> What is this number?
+> A number consists of three digits. The sum of its three digits is $18$. The sum of the first two digits equals twice the third digit, and half of the second digit equals one third of the first digit.
+>
+> **What is this number?**
 
-**Answer:** 369
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q02|src_bocconi_finaleint_2007_g2__Q02]]
 
 
 
@@ -99,11 +109,18 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many buttons are missing from the command*
+*How many buttons are missing from the order?*
 
-> Mathine's mother is a merchant. Mathine likes to look at button boxes of all colors. In a button box there are $12$, and in a cardboard box, there are $12$ button boxes. Mathine's mom is coming to get her order for$24$button cards. Mathine counted the $2007$ buttons.
-> 
-> How many buttons are missing on the command?
+> Mathine's mother is a merchant. Mathine loves looking at boxes of buttons in all colors. In one box of buttons, there are $12$ buttons, and in one carton, there are $12$ boxes of buttons. Mathine's mother comes to collect her order of $24$ cartons of buttons. Mathine has counted $2007$ buttons.
+>
+> **How many buttons are missing from the order?**
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q03|src_bocconi_finaleint_2007_g2__Q03]]
 
 
 
@@ -130,13 +147,19 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many data values are available with four stamps*
+*How many of the given values can be obtained with four stamps?*
 
-> Timothée holds a number of stamps of value $0{,}10\,€$, $0{,}30\,€$, $0{,}50\,€$ and $0{,}70\,€$ respectively.
-> 
-> Using one or more of these four stamps, ** for how many of the following values can Timothée obtain exactly that value? ** $$0{,}40\,€\;;\;0{,}50\,€\;;\;0{,}80\,€\;;\;0{,}90\,€\;;\;1{,}00\,€\;;\;1{,}10\,€\;;\;1{,}20\,€\;;\;1{,}30\,€\;;\;1{,}40\,€\;;\;1{,}50\,€\;;\;1{,}60\,€$$
+> Timothée owns some stamps with values $0{,}10\,€$, $0{,}30\,€$, $0{,}50\,€$, and $0{,}70\,€$, respectively.
+>
+> Using one or more of these four stamps, **for how many of the following values is Timothée able to obtain exactly that value?**
+> $$0{,}40\,€\;;\;0{,}50\,€\;;\;0{,}80\,€\;;\;0{,}90\,€\;;\;1{,}00\,€\;;\;1{,}10\,€\;;\;1{,}20\,€\;;\;1{,}30\,€\;;\;1{,}40\,€\;;\;1{,}50\,€\;;\;1{,}60\,€$$
 
-**Answer:** 2
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q04|src_bocconi_finaleint_2007_g2__Q04]]
 
 
 
@@ -164,15 +187,20 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Kg of paint to paint the second solid of cubes*
+*Kg of paint for painting the second solid made of cubes*
 
-> The two solids shown below are all identical cubes. It took $5{,}4$ pounds of paint to paint the entire left cube.
-> 
-> How many pounds of paint do you need to paint the second solid?
+> The two solids shown below are made up of identical cubes. It took $5{,}4$ kilograms of paint to paint the left cube entirely.
+>
+> **How many kilograms of paint are needed to paint the second solid entirely?**
 
 ![[src_bocconi_finaleint_2007_g2__q05.png]]
 
-**Answer:** 4 kg
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q05|src_bocconi_finaleint_2007_g2__Q05]]
 
 
 
@@ -198,13 +226,18 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-Aline's age derived from a mathematical magic game
+*Aline's age deduced from a mathematical magic trick*
 
-> Marie asks Aline to choose a number between $1$ and $9$, multiply it by $9$ and subtract this number. Aline receives $207$. That's enough for Marie to guess Aline's age.
-> 
-> What is the age of Aline?**
+> Marie asks Aline to choose a number between $1$ and $9$, multiply it by $9$, and subtract this number. Aline gets $207$. This information is enough for Marie to guess Aline's age.
+>
+> **What is Aline's age?**
 
-**Answer:** 27 years
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q06|src_bocconi_finaleint_2007_g2__Q06]]
 
 
 
@@ -234,15 +267,22 @@ Aline's age derived from a mathematical magic game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Place the numbers 1 to 10 in a figure with sums equal to 18*
+*Place the numbers from 1 to 10 in a figure such that the sums equal 18*
 
-> The figure below contains boxes to be numbered from $1$ to $10$ in such a way that: - each alignment of three numbers connected by a segment always gives a total equal to $18$; - the circle of four numbers always gives a total equal to $18$.
-> 
-> The numbers $1$, $2$ and $10$ are already placed. **It's up to you to place the others.**
+> The figure next to it contains boxes to be numbered from $1$ to $10$ in such a way that:
+> - every arrangement of three numbers connected by a line segment always adds up to $18$;
+> - the circle of four numbers always adds up to $18$.
+>
+> The numbers $1$, $2$, and $10$ are already placed. **It's up to you to place the others.**
 
 ![[src_bocconi_finaleint_2007_g2__q07.png]]
 
-**Answer:** (arrangement shown in the figure of the solution)
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q07|src_bocconi_finaleint_2007_g2__Q07]]
 
 
 
@@ -271,13 +311,21 @@ Aline's age derived from a mathematical magic game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of words in the magic formula of Ali Baba*
+*Minimum number of words in Ali Baba's magic formula*
 
-> Ali Baba must pronounce a magic formula, consisting of a series of words from $1$ to $8$ letters, to access the thieves' treasure. It must start with $B$ and end with $BRABB$. Each new word shall be obtained from the previous one by replacing one or more consecutive letters, and using one of the following rules: - $AB$ may be replaced by $BA$; - $B$ may be replaced by $BAA$; - $AA$ may be replaced by $BB$.
-> 
-> **How many words does Ali Baba have to say, at least, including the beginning and the end? **
+> Ali Baba must pronounce a magic formula, made up of a series of words each containing from $1$ to $8$ letters, in order to access the thieves' treasure. It must begin with $B$ and end with $BRABB$. Each new word must be obtained from the previous one by replacing one letter or more consecutive letters, using one of the following rules:
+> - $AB$ can be replaced by $BA$;
+> - $B$ can be replaced by $BAA$;
+> - $AA$ can be replaced by $BB$.
+>
+> **At minimum, how many words must Ali Baba pronounce, including the ones at the beginning and the end?**
 
-**Answer:** 7
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_backward|Working backwards]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q08|src_bocconi_finaleint_2007_g2__Q08]]
 
 
 
@@ -305,15 +353,20 @@ Aline's age derived from a mathematical magic game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many number bars up to 2007 have 20 switched on bars*
+*As of 2007, how many nombrabars have 20 bars lit?*
 
-> Numberbars are numbers that do not start with zero, the figures of which are displayed with the help of switched-on bars (in bold in the figure).
-> 
-> Up to $2007$ included, **how many number bars exist whose total number of bars is equal to $20$?**
+> Nombrabars are numbers that do not start with zero and whose digits are displayed using lit bars (bold in the figure).
+>
+> Up to and including $2007$, **how many nombrabars are there whose total number of bars is equal to $20$?**
 
 ![[src_bocconi_finaleint_2007_g2__q09.png]]
 
-**Answer:** 93
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q09|src_bocconi_finaleint_2007_g2__Q09]]
 
 
 
@@ -339,13 +392,18 @@ Aline's age derived from a mathematical magic game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cheque amount in euro and cents paid by the cashier*
+*Amount of the cheque with euros and cents reversed by the cashier*
 
-> With no money left, Picson deposits a cheque in euro and cents (the number of cents is well below $100$). The cashier mistakenly reverses the number of euros and the number of cents he pays in exchange for the check. Picson doesn't know it. A little later, he buys a newspaper with this coin at the cost of $95$ cents. He then retains a coin equal to twice the amount of the initial check.
-> 
-> **What was this amount, expressed in euro and cents? **
+> Having no coins left, Picson deposits a cheque denominated in euros and cents at the bank (the number of cents is well below $100$). By mistake, the cashier swaps the number of euros and the number of cents that she gives him in exchange for the cheque. Picson does not notice. A little later, he uses this money to buy a newspaper costing $95$ cents. He then has a coin equal to twice the amount of the original cheque.
+>
+> **What was this amount, expressed in euros and cents?**
 
-**Answer:** 1,03 €
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q10|src_bocconi_finaleint_2007_g2__Q10]]
 
 
 
@@ -371,13 +429,18 @@ Aline's age derived from a mathematical magic game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The larger of the two three-digit numbers one double the other*
+*The larger of the two three-digit numbers, one being twice the other*
 
-> Numérix loves the numbers. With the digits $2 - 3 - 4 - 5 - 6 - 7$ it forms two digits of $3$ digits, each digit having been used exactly once. One is twice the other.
-> 
-> **What is the larger of these two numbers? **
+> Numérix adores digits. Using the digits $2 - 3 - 4 - 5 - 6 - 7$, he formed two numbers with $3$ digits each, with each digit used exactly once. One is twice the other.
+>
+> **Which of these two numbers is the larger one?**
 
-**Answer:** 534 ; 546 ; 654
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q11|src_bocconi_finaleint_2007_g2__Q11]]
 
 
 
@@ -403,13 +466,18 @@ Aline's age derived from a mathematical magic game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum of beads to be extracted to have 3 beads of the same colour*
+*Minimum number of marbles to draw to get 3 marbles of the same color*
 
-> Adélise says to Bill, "This bag contains different colored bags. If you randomly extract $100$ seeds from this bag, you can be sure you have $4$ seeds of the same color, but it's not sure if you only extracted $99$.
-> 
-> How many balls does Bill have to extract at least randomly to make sure he has balls of at least different colors?
+> Adélise says to Bill: "This bag contains $123$ marbles of different colors. If you randomly draw $100$ marbles from this bag, you can be certain of having $4$ marbles of the same color, but it is not certain if you draw only $99$."
+>
+> **How many marbles must Bill randomly draw, at minimum, to be certain of having marbles of at least $3$ different colors?**
 
-**Answer:** 67
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q12|src_bocconi_finaleint_2007_g2__Q12]]
 
 
 
@@ -439,15 +507,22 @@ Aline's age derived from a mathematical magic game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete the south cube pattern 2×2×2 with four colors*
+*Complete the pattern of the 2×2×2 Sudo-Cube with four colors*
 
-> Each face of the cube is a square of $2 \times 2$ boxes. Each of the twenty-four boxes is colored with the help of a color chosen from four colors. Two boxes containing the same color cannot touch each other, not even diagonally. Each colour shall be: - present once on each of the $6$ sides of the cube; - met twice when a rotation of the cube is made following each of the six trajectories perpendicular to one side of the box.
-> 
-> **Complete the cube pattern.** Note: In the drawing, the colors are represented by the digits from $1$ to $4$. Two different patrons of the same cube will be considered as one and the same solution.
+> Each face of the cube is a square of $2 \times 2$ squares. Each of the twenty-four squares is colored using a color chosen from four colors. Two squares that contain the same color cannot touch, not even diagonally. Each color must:
+> - appear once on each of the $6$ faces of the cube;
+> - be encountered twice when the cube is rotated along each of the six paths perpendicular to one side of a square.
+>
+> **Complete the cube pattern.** Note: in the drawing, the colors are represented by the digits from $1$ to $4$. Two different patterns of the same cube will be regarded as a single, identical solution.
 
 ![[src_bocconi_finaleint_2007_g2__q13.png]]
 
-**Answer:** 2 solutions
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q13|src_bocconi_finaleint_2007_g2__Q13]]
 
 
 
@@ -475,11 +550,16 @@ Aline's age derived from a mathematical magic game
 
 *Area of the large grey square in the right circle*
 
-> The two circles have the same radius. In the circle on the left, each box measures... That's the area of the great gray square in the circle to the right?
+> The two circles have the same radius. In the left circle, each cell measures ... What is the area of the large gray square in the right circle?
 
 ![[src_bocconi_finaleint_2007_g2__q14.png]]
 
-**Answer:** 75 cm²
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q14|src_bocconi_finaleint_2007_g2__Q14]]
 
 
 
@@ -507,15 +587,20 @@ Aline's age derived from a mathematical magic game
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the hypotenuses of the two rectangular triangles of the ground*
+*Sum of the hypotenuses of the two right-angled triangles of the plot*
 
-> Father Itoine's land has the shape of a pentagon depicted next to it (the proportions are not respected). This land consists of eight parcels, all of which have dimensions equal to whole numbers of meters: three squares, two rectangular triangles and three non-square rectangles. The sum of the parcel areas in gray is $1620$ m2.
-> 
-> **What is the sum of the hypotenuses of the two rectangular triangles, expressed in meters? **
+> Dad Itoine's plot of land is shaped like the pentagon shown here beside it (the proportions are not accurate). This plot consists of eight parcels, all of whose dimensions are whole numbers of meters: three squares, two right-angled triangles, and three non-square rectangles. The sum of the areas of the parcels shown in grey is equal to $1620$ m².
+>
+> **What is the sum of the hypotenuses of the two right-angled triangles, expressed in meters?**
 
 ![[src_bocconi_finaleint_2007_g2__q15.png]]
 
-**Answer:** 350 m
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q15|src_bocconi_finaleint_2007_g2__Q15]]
 
 
 
@@ -541,13 +626,18 @@ Aline's age derived from a mathematical magic game
 <div class="qlang-split" data-lang="en"></div>
 
 
-The size of the chocolate table to ensure Alice's victory
+*Dimensions of the chocolate bar to ensure victory for Alice*
 
-> Alice proposes to Bruno to play the following game: he hands him a chocolate table, then Bruno breaks this chocolate table along one of the grooves. Whenever he gets an isolated square (or two pieces each consisting of a single square), he eats it, and puts the larger pieces back on the table. Later, it's up to Alice to pick one of the pieces and break it, eating the isolated squares, and so on. The player who eats the most of the table wins (in the event of a tie, the game is declared zero).
-> 
-> What size of board should Alice choose if she wants to be sure of winning, playing her best, knowing that a board has at least two squares and that each of its two sizes is up to ten squares?
+> Alice proposes to Bruno that they play the following game: she offers him a chocolate bar; then Bruno breaks this chocolate bar along one of the grooves. Each time he gets an isolated square (or two pieces each consisting of a single square), he eats it and puts the larger piece or pieces back on the table. Afterwards, it is Alice's turn to choose one of the pieces and break it, eating the isolated square or squares, and so on. The player who eats the largest portion of the bar wins (if there is a tie, the game is declared a draw).
+>
+> What size of chocolate bar should Alice choose if she wants to be sure of winning, playing optimally, knowing that a bar has at least two squares and that each of its two dimensions is at most ten squares?
 
-**Answer:** 1:2 ; 1:5 ; 1:7 ; 1:9 ; 3:3 ; 3:5 ; 3:7 ; 5:5 ; 5:7 ; 7:7 (10 solutions)
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_backward|Working backwards]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q16|src_bocconi_finaleint_2007_g2__Q16]]
 
 
 
@@ -571,11 +661,16 @@ The size of the chocolate table to ensure Alice's victory
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum distance travelled by a beetle on the icosahedron's patron*
+*Maximum distance traveled by a beetle on the patron of the icosahedron*
 
-> It is recalled that a regular icosahedron is a polyhedron whose $20$ faces are identical equilateral triangles (with $12$ vertices and $30$ edges). Here, it's a lamp whose beams each measure $80$ cm in length. A beetle starts from the midpoint of a spike to follow a trajectory corresponding to a straight line on a flat, single-piece pattern of polyhedron. When touching a beam of a face already visited, ** what distance, expressed in mm, will it have traveled, at most?** A face is considered to be visited if the distance traveled on this face is nothing. You can take $1{,}414$ for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$; $2{,}645$ for $\sqrt{7}$; $3{,}606$ for $\sqrt{13}$; $4{,}123$ for $\sqrt{17}$ and $4{,}359$ for $\sqrt{19}$, and round the distance to the nearest millimeter.
+> It is recalled that a regular icosahedron is a polyhedron whose $20$ faces are identical equilateral triangles (with $12$ vertices and $30$ edges). Here, it is a street lamp post whose edges are each $80$ cm long. A beetle starts from the midpoint of an edge and follows a path corresponding to a straight line on a single-piece, planar pattern of the polyhedron. When it touches an edge of a face that has already been visited, **what will be the maximum distance, expressed in mm, it will have traveled?** A face will be considered visited if the distance traveled on that face is non-zero. One may take $1{,}414$ for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$; $2{,}645$ for $\sqrt{7}$; $3{,}606$ for $\sqrt{13}$; $4{,}123$ for $\sqrt{17}$ and $4{,}359$ for $\sqrt{19}$, and the distance shall be rounded to the nearest millimetre.
 
-**Answer:** 528,5 cm
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q17|src_bocconi_finaleint_2007_g2__Q17]]
 
 
 
@@ -601,10 +696,15 @@ The size of the chocolate table to ensure Alice's victory
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of seeds on a tree of the rectangular triangle*
+*Maximum number of locusts on a tree of the right triangle*
 
-> A cloud of a thousand sparrows fell on the fruit of Pythagoras. All the trunks were divided into three regularly spaced trees, located on the vertices and sides of a large rectangular triangle. You take the trees and the stumps as dots. Each side of a great right triangle has the same number of squares. In each tree, there's at least one bark.
-> 
-> In a tree, how many stems are there, at most?
+> A cloud of a thousand locusts descended on Pythagoras's orchard. All the locusts were distributed among three trees spaced at regular intervals, located at the vertices and on the sides of a large right-angled triangle. The trees and the locusts are treated as points. Each side of the large right-angled triangle has the same number of locusts at all times. In each tree, there is at least one locust.
+>
+> **In one tree, what is the maximum number of locusts there can be?**
 
-**Answer:** 188
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g2#q18|src_bocconi_finaleint_2007_g2__Q18]]

@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of apples/pears with boxes and 6 fruits less*
+*Number of apple/pear crates, with 6 fewer fruits*
 
-> Some identical apples have been placed in 5 identical (initially empty) boxes; each box contains the same number of apples as the others. Some pears, in the same number as the total number of apples, have been placed in 7 boxes (initially empty) identical to each other: each box contains the same number of pears as the others. Each box of pears contains six fewer fruits than each box of apples. How many apples (or pears)?
+> Some apples that are identical to one another were placed in 5 crates (initially empty) that are identical to one another; each crate contains the same number of apples as the others. Some pears, in a number equal to the total number of apples, were placed in 7 crates (initially empty) that are identical to one another: each crate contains the same number of pears as the others. Each crate of pears contains 6 fewer fruits than each crate of apples. How many are the apples (or the pears)?
 
-**Answer:** 105
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2025_ecolier_finale#qe1|src_kangourou_2025_ecolier_finale__QE1]]
 
 
 
@@ -57,11 +61,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Assignment of colours with 4 red numbers sum green+blue*
+*Color assignment with 4 red numbers, green+blue sum*
 
-> To each integer between 1 and 9 included, Marta assigned one and only one of the colors red, blue, green so that each red number is the sum of a green number and a blue number. The numbers Marta assigned the red to are 4. Write down one of the assignments that Marta may have made.
+> For each integer from 1 to 9 inclusive, Marta assigned one and only one of the colors red, blue, and green, in such a way that each red number is the sum of a green number and a blue number. The numbers to which Marta assigned red are 4. Write one of the assignments Marta could have made.
 
-**Answer:** example assignment
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2025_ecolier_finale#qe2|src_kangourou_2025_ecolier_finale__QE2]]
 
 
 
@@ -86,9 +95,13 @@ level: kangourou
 
 *Smallest integer with digit sum 30*
 
-> Write the smallest positive integer greater than 0 whose digits sum to 30. Explain how you determined it.
+> Write the smallest positive integer whose digit sum is 30. Explain how you determined it.
 
-**Answer:** 3999
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2025_ecolier_finale#qe3|src_kangourou_2025_ecolier_finale__QE3]]
 
 
 
@@ -112,11 +125,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*On which finger does the count 2025 land*
+*On which finger does the 2025 count fall?*
 
-> On the fingers of one hand, Silvia counted in the following way: 1 thumb, 2 index, 3 middle, 4 ring, 5 little; then she went back: 6 ring, 7 middle, 8 index, 9 thumb. Then she started again: 10 index, 11 middle and so on, until she reached 2,025. On which finger?
+> On the fingers of one hand, Silvia counted as follows: 1 thumb, 2 index finger, 3 middle finger, 4 ring finger, 5 little finger; then she went back: 6 ring finger, 7 middle finger, 8 index finger, 9 thumb. Then she started again: 10 index finger, 11 middle finger, and so on, until she reached 2,025. Which finger?
 
-**Answer:** thumb
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2025_ecolier_finale#qe4|src_kangourou_2025_ecolier_finale__QE4]]
 
 
 
@@ -154,17 +172,22 @@ level: kangourou
 
 ![[src_kangourou_2025_ecolier_finale__probe5.png]]
 
-> Seven coins are placed in a row on a table as shown in the figure: 50 cents, 10 cents, 5 cents, 2 euros, 5 cents, 10 cents, 50 cents (from left to right).
-> 
-> Alice and Bob take turns taking one of the coins at the far left or far right of the line. If, for example, Alice starts by taking the 50 cents coin to the far right, then Bob can choose between the 50 cents on the far left and the 10 cents left on the far right. Alice chooses first and then alternates in the choice, respecting the rule in each row that is subsequently determined: this way Alice will eventually have taken four coins and Bob only three.
-> 
-> (a) If they both act to get the MOST money possible, how many cents will Bob end up with?
-> 
-> (b) If, on the other hand, they both act to get the MINIMUM amount of money possible, how many cents will Bob end up with?
-> 
+> On a table, seven coins are arranged in a row as shown in the figure: 50 cents, 10 cents, 5 cents, 2 euros, 5 cents, 10 cents, 50 cents (from left to right).
+>
+> Alice and Bob take turns picking one of the coins at the far left or the far right of the row. If, for example, Alice starts by taking the 50-cent coin at the far right, then Bob can choose between the 50-cent coin at the far left and the remaining 10-cent coin at the far right. Alice chooses first, and then they alternate in choosing, observing the rule in each row that is determined subsequently: in this way, Alice will end up having taken four coins and Bob only three.
+>
+> a) If both act in such a way as to obtain the maximum possible amount of money, how many cents of a euro will Bob end up with?
+>
+> b) But if both act in such a way as to obtain the smallest possible amount of money, how many cents of a euro will Bob end up with?
+>
 > (see figure)
 
-**Answer:** a)260 b)60
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2025_ecolier_finale#qe5|src_kangourou_2025_ecolier_finale__QE5]]
 
 
 
@@ -187,8 +210,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total number of lamps on circular track*
+*Total number of streetlights on the circular path*
 
-> A circular park is surrounded by a path lit by lamps. Simona and Tania counted the lamps, but separately, starting from different points and moving both in the same direction. What was the 20th lamp for Simona was the 7th for Tania, what was the 7th for Simona was the 94th for Tania. How many lamps are there in total?
+> A circular park is surrounded by a path lit by streetlights. Simona and Tania counted the streetlights, but separately, starting from different points and both moving in the same direction. The streetlight that was the 20th for Simona was the 7th for Tania; the streetlight that was the 7th for Simona was the 94th for Tania. How many streetlights are there in total?
 
-**Answer:** 100
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2025_ecolier_finale#qe6|src_kangourou_2025_ecolier_finale__QE6]]

@@ -31,11 +31,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I lati del triangolo rosso; 3 linee blu tagliate in 4 triangoli congruenti e 3 pentagoni; trovare la frazione di superficie*
+*Triangolo con lati rossi; 3 rette blu dividono in 4 triangoli congruenti e 3 pentagoni; trovare la frazione di area*
 
-> Un determinato triangolo ha i suoi tre lati di colore rosso. Tre linee rette blu tagliano il triangolo in sette pezzi, quattro dei quali sono triangoli e tre sono pentagoni. Due lati di ogni triangolo sono blu e uno di loro ha anche il suo terzo lato blu.
-> 
-> Dato che tutti e quattro i triangoli sono congruenti, esprimere l'area di ciascuno come una frazione dell'area del triangolo dato.
+> Un dato triangolo ha i suoi tre lati colorati di rosso. Tre rette blu tagliano il triangolo in sette pezzi, quattro dei quali sono triangoli e tre sono pentagoni. Due dei lati di ciascun triangolo sono blu e uno di essi ha anche il suo terzo lato blu.
+>
+> Sapendo che i quattro triangoli sono tutti congruenti, esprimere l'area di ciascuno come frazione dell'area del triangolo dato.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo_1980-81_round2#q01|src_bmo_1980-81_round2__Q01]]
 
 
 
@@ -63,15 +69,21 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare e classificare i 13 assi di un cubo; indicare gli angoli minimi di rotazione*
+*Conteggio e classificazione dei 13 assi di un cubo; angolo minimo di rotazione per ciascun tipo.*
 
-> L'asse di un solido è, ai fini della presente domanda, definito come una linea retta che unisce due punti sulla superficie del solido e tale che il solido, quando ruotato intorno a questa linea attraverso un angolo maggiore di $0^\circ$ e inferiore a $360^\circ$, coincida con se stesso.
-> 
-> Quanti assi ha un cubo? Disegnare tre schemi per mostrare i tre diversi tipi di asse e indicare l'angolo minimo di rotazione per ciascun tipo.
-> 
-> (Non sono richieste prove formali. Ogni diagramma deve mostrare chiaramente l'asse, i vertici del cubo numerati da $1$ a $8$ e un simbolo come $\begin{pmatrix}1&2&3&4&5&6&7&8\\2&5&3&1&4&8&6&7\end{pmatrix}$ che indica che i punti $1,2,3,\ldots,8$ si spostano rispettivamente ai punti $2,5,3,\ldots,7$.)
+> Un asse di un solido, ai fini di questa domanda, è definito come una retta che unisce due punti sulla superficie del solido e tale che il solido, ruotato attorno a questa retta di un angolo maggiore di $0^\circ$ e minore di $360^\circ$, coincide con se stesso.
+>
+> Quanti assi ha un cubo? Disegna tre diagrammi per mostrare i tre tipi diversi di asse e indica l'angolo minimo di rotazione per ciascun tipo.
+>
+> (Non sono richieste dimostrazioni formali. Ogni diagramma deve mostrare chiaramente l'asse, i vertici del cubo numerati da $1$ a $8$ e un simbolo come $\begin{pmatrix}1&2&3&4&5&6&7&8\\2&5&3&1&4&8&6&7\end{pmatrix}$ che indica che i punti $1,2,3,\ldots,8$ passano rispettivamente ai punti $2,5,3,\ldots,7$.)
 
 **Risposta:** 13
+
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo_1980-81_round2#q02|src_bmo_1980-81_round2__Q02]]
 
 
 
@@ -96,9 +108,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Risolvere equazioni simmetriche simultanee x^2y^2+x^2z^2=axyz ecc.
+*Risolvere le equazioni simultanee simmetriche $x^2y^2+x^2z^2=axyz$, ecc.*
 
-> Risolvi per $x$, $y$, $z$ le equazioni simultanee $$x^2y^2 + x^2z^2 = axyz, \quad y^2z^2 + y^2x^2 = bxyz, \quad z^2x^2 + z^2y^2 = cxyz,$$ dove sono dati numeri $a$, $b$, $c$.
+> Risolvere per $x$, $y$, $z$ le equazioni simultanee
+> $$x^2y^2 + x^2z^2 = axyz, \quad y^2z^2 + y^2x^2 = bxyz, \quad z^2x^2 + z^2y^2 = cxyz,$$
+> dove $a$, $b$, $c$ sono numeri dati.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_bmo_1980-81_round2#q03|src_bmo_1980-81_round2__Q03]]
 
 
 
@@ -124,11 +144,19 @@ Risolvere equazioni simmetriche simultanee x^2y^2+x^2z^2=axyz ecc.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Restante quando x^81+x^49+x^25+x^9+x è diviso da x^3-x*
+*Resto della divisione di x^81+x^49+x^25+x^9+x per x^3-x*
 
-> Trova il rimanente quando il polinomio $$x^{81} + x^{49} + x^{25} + x^9 + x$$ è diviso dal polinomio $x^3 - x$.
+> Trovare il resto della divisione del polinomio
+> $$x^{81} + x^{49} + x^{25} + x^9 + x$$
+> per il polinomio $x^3 - x$.
 
 **Risposta:** $5x$
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+[[Quesiti/src_bmo_1980-81_round2#q04|src_bmo_1980-81_round2__Q04]]
 
 
 
@@ -155,9 +183,19 @@ Risolvere equazioni simmetriche simultanee x^2y^2+x^2z^2=axyz ecc.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza u_0=2, u_1=5 con u_{n+1}u_{n-1}-u_n^2=6^{n-1}; provare u_n intero*
+*La sequenza $\{u_n\}$ di numeri reali è definita per $n \geq 0$ da $u_0 = 2$, $u_1 = 5$ e $u_{n+1}\,u_{n-1} - u_n^2 = 6^{n-1}$ per $n \geq 1$; dimostrare che ogni $u_n$ è un intero.*
 
-> La sequenza $\{u_n\}$ dei numeri reali è definita per $n \geq 0$ da $$u_0 = 2, \quad u_1 = 5$$ e $$u_{n+1}\,u_{n-1} - u_n^2 = 6^{n-1} \quad \text{when } n \geq 1.$$ Prova che ogni $u_n$ è un intero.
+> La sequenza $\{u_n\}$ di numeri reali è definita per $n \geq 0$ da
+> $$u_0 = 2, \quad u_1 = 5$$
+> e
+> $$u_{n+1}\,u_{n-1} - u_n^2 = 6^{n-1} \quad \text{when } n \geq 1.$$
+> Dimostrare che ogni $u_n$ è un intero.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo_1980-81_round2#q05|src_bmo_1980-81_round2__Q05]]
 
 
 
@@ -182,9 +220,17 @@ Risolvere equazioni simmetriche simultanee x^2y^2+x^2z^2=axyz ecc.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se c è razionale prova x^3-3cx^2-3x+c=0 ha al massimo una radice razionale*
+*Se c è razionale, dimostrare che x^3-3cx^2-3x+c=0 ha al più una radice razionale*
 
-> Prova che se $c$ è un numero razionale, l'equazione $$x^3 - 3cx^2 - 3x + c = 0$$ ha almeno una radice razionale.
+> Dimostrare che, se $c$ è un numero razionale, l'equazione
+> $$x^3 - 3cx^2 - 3x + c = 0$$
+> ha al più una radice razionale.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_bmo_1980-81_round2#q06|src_bmo_1980-81_round2__Q06]]
 
 
 
@@ -208,6 +254,13 @@ Risolvere equazioni simmetriche simultanee x^2y^2+x^2z^2=axyz ecc.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*8x>=7y per i numeri interi non negativi se la decomposizione x=a+2b+3c+7d, y=b+2c+5d esiste*
+*Se $x$ e $y$ sono interi non negativi, allora $8x \geq 7y$ se e solo se esistono interi non negativi $a$, $b$, $c$, $d$ tali che ...*
 
-> Prova che se $x$, $y$ sono interi non negativi, allora $8x \geq 7y$ se e solo se esistono interi non negativi $a$, $b$, $c$, $d$ in modo tale che $$x = a + 2b + 3c + 7d, \qquad y = b + 2c + 5d.$$
+> Dimostrare che se $x$, $y$ sono interi non negativi, allora $8x \geq 7y$ se e solo se esistono interi non negativi $a$, $b$, $c$, $d$ tali che
+> $$x = a + 2b + 3c + 7d, \qquad y = b + 2c + 5d.$$
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+[[Quesiti/src_bmo_1980-81_round2#q07|src_bmo_1980-81_round2__Q07]]

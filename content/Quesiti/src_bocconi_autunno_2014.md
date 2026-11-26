@@ -30,11 +30,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of figures dated 31/12/2014, first dated with sum of 20*
+*Sum of figures as of 31/12/2014, first date with sum 20*
 
-> Consider the date of 31.12.2014: the sum of its figures is $14$ ($3+1+1+2+2+0+1+4=14$). What is the first subsequent date for which the sum of the digits is $20$?
+> Consider the date 31.12.2014: the sum of its digits is equal to $14$ ($3+1+1+2+2+0+1+4=14$). What is the first subsequent date for which the sum of the digits is equal to $20$?
 
-**Answer:** 29/1/2015
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2014#q01|src_bocconi_autunno_2014__Q01]]
 
 
 
@@ -58,11 +63,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to pay exactly €2.70 in coins*
+*Ways to pay exactly 2.70 euros using coins*
 
-> Clear has bought a notebook that costs $2{,}70$ Euros. In his purse, he has $6$ pieces of $0{,}50$ Euro and $12$ pieces of $20$ cents. You have to be careful how you pay because the wallet has no money left to give you. How many different ways can you pay the exact amount of $2{,}70$ Euro?
+> Chiara has bought a notebook that costs $2{,}70$ euros. In her purse, she has $6$ coins worth $0{,}50$ euros each and $12$ coins worth $20$ cents each. She has to be careful about how she pays, because the stationer doesn't have any change to give her. In how many different ways can she pay the exact amount of $2{,}70$ euros?
 
-**Answer:** 3
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2014#q02|src_bocconi_autunno_2014__Q02]]
 
 
 
@@ -88,13 +98,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Puzzle: reconfigure the chessboard into four pieces*
+*Puzzle: reassemble the chessboard using four pieces*
 
-> Place in the still white part of the chessboard the four pieces currently on its right, so that it completely covers the chessboard.
+> Place the four pieces currently to its right on the still-white part of the chessboard, so as to completely cover the chessboard.
 
 ![[src_bocconi_autunno_2014__q03.png]]
 
-**Answer:** (see the figure in the solution)
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2014#q03|src_bocconi_autunno_2014__Q03]]
 
 
 
@@ -120,13 +135,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fill 4x4 grid with sum of 27 on rows and columns*
+*Fill a 4x4 grid so that the sum in each row and each column is 27*
 
-> Place all the numbers $2, 6, 7, 8, 9, 10, 12$ and $14$ in the still empty boxes of the "$5$" of the figure, so that the numbers written in each of the three (horizontal) rows of four boxes and in each of the two (vertical) columns of three boxes always have the sum $27$.
+> Place all the numbers $2, 6, 7, 8, 9, 10, 12$ and $14$ in the still-empty cells of the "$5$" in the figure, so that the sum of the numbers written in each of the three horizontal rows of four cells and in each of the two vertical columns of three cells is always $27$.
 
 ![[src_bocconi_autunno_2014__q04.png]]
 
-**Answer:** (see the figure in the solution)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2014#q04|src_bocconi_autunno_2014__Q04]]
 
 
 
@@ -152,13 +172,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete triangle boxes with arithmetic meanings*
+*Complete the triangular cells with arithmetic means*
 
-> Complete the still empty boxes of the triangle in the figure, knowing that the number of each box (from the upper plane) must be the arithmetic mean of the numbers of the two boxes below on which it rests.
+> Complete the still-empty cells of the triangle in the figure, knowing that the number in each cell (starting from the top level) must be the arithmetic mean of the numbers in the two cells below it on which it rests.
 
 ![[src_bocconi_autunno_2014__q05.png]]
 
-**Answer:** (see figure: 18 at the top, 20 and 16 on the second level, 23, 17, 15 at the base)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2014#q05|src_bocconi_autunno_2014__Q05]]
 
 
 
@@ -182,11 +207,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Orange in the window: how many Renato sells for less than 100*
+*Oranges in the window display: how many does Renato sell for less than 100?*
 
-> To arrange for oranges to be displayed and sold, the fruit vendor Renato has available trays containing $12$ oranges or other larger trays containing $21$. Whether you always use the small containers, or you always use the big ones, filling them completely, you end up with an orange. The oranges Renato wants to sell are less than$100$, but how many are they exactly?
+> To arrange the oranges to be put on display and sold, the greengrocer Renato has at his disposal trays that hold $12$ oranges, or other larger trays that hold $21$ oranges. Whether he always uses the small containers or always uses the large ones, filling them completely, in the end $1$ orange is left out. The oranges Renato wants to sell are fewer than $100$, but how many exactly?
 
-**Answer:** 85
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2014#q06|src_bocconi_autunno_2014__Q06]]
 
 
 
@@ -212,13 +242,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of visible faces of a table solid*
+*Minimum number of visible faces of a solid on a table*
 
-> In the figure, you see a solid that, when resting on a table, has all its faces (flat) horizontal or vertical. How many faces does this solid have, at least?
+> In the figure, you see a solid that, when placed on a table, has all its (flat) faces either horizontal or vertical. What is the minimum number of faces this solid can have?
 
 ![[src_bocconi_autunno_2014__q07.png]]
 
-**Answer:** 10
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2014#q07|src_bocconi_autunno_2014__Q07]]
 
 
 
@@ -243,13 +278,17 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-Area of Jacob's puzzle with radius of 8 cm
+*Area of Jacob's puzzle with a radius of 8 cm*
 
-> On the ground, in his room, Jacob found the piece of a puzzle you see in the figure. What's its area, knowing that all the arc radii are semicirculars that have the same radius?
+> On the floor in his room, Jacob found the piece of a puzzle shown in the figure. What is its area, given that all the circular arcs are semicircles with the same radius?
 
 ![[src_bocconi_autunno_2014__q08.png]]
 
-**Answer:** $32 \text{ cm}^2$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2014#q08|src_bocconi_autunno_2014__Q08]]
 
 
 
@@ -278,13 +317,21 @@ Area of Jacob's puzzle with radius of 8 cm
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which statement about the artist is true*
+*Which statement about the artist is true?*
 
-> Liliana drew an exotic fish by drawing, within a square, a quarter of a circumference whose radius is $10$ cm and two semicirculars which both have a radius of $5$ cm. Which of the following statements is true? 1) The area of Part A is larger than the area of Part B. 2) The area of Part A is less than the area of Part B. 3) Areas A and B are equal. 4) The information given does not allow us to give an answer (comparison between areas A and B).
+> Liliana has drawn an exotic fish by tracing, inside a square, a quarter of a circle with a radius of $10$ cm and two semicircles, each with a radius of $5$ cm. Which of the following statements is true?
+> 1) The area of part A is greater than the area of part B.
+> 2) The area of part A is less than the area of part B.
+> 3) The areas of A and B are equal.
+> 4) The information given does not allow us to give an answer (to the comparison between the areas of A and B).
 
 ![[src_bocconi_autunno_2014__q09.png]]
 
-**Answer:** The true statement is number 3
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2014#q09|src_bocconi_autunno_2014__Q09]]
 
 
 
@@ -311,11 +358,19 @@ Area of Jacob's puzzle with radius of 8 cm
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Crypted letters: FIVE corresponds to the largest value*
+*Coded letters: CINQUE corresponds to the highest value*
 
-> Replace the letters of the digits so that the operation: $$\frac{\text{CINQUE} +}{\text{UE} =}$$ $$2015$$ is correct and the word CINQUE corresponds to the largest possible numerical value. (No number can begin with $0$ and, instead of different letters, different digits must be inserted.)
+> Replace the letters with digits so that the operation:
+> $$\frac{\text{CINQUE} +}{\text{UE} =}$$
+> $$2015$$
+> is correct and the word CINQUE corresponds to the largest possible numerical value. (No number may begin with $0$, and different letters must be replaced with different digits.)
 
-**Answer:** CINQUE $= 198530$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2014#q10|src_bocconi_autunno_2014__Q10]]
 
 
 
@@ -341,13 +396,18 @@ Area of Jacob's puzzle with radius of 8 cm
 <div class="qlang-split" data-lang="en"></div>
 
 
-Next year's multiplier: sequence of five tokens
+*Next year's multiple: sequence of five tokens*
 
-> Put $5$ five tokens in such an order that a five-digit number is multiplied by $2015$.
+> Place $5$ five tokens in such an order that a five-digit number that is a multiple of $2015$ appears.
 
 ![[src_bocconi_autunno_2014__q11.png]]
 
-**Answer:** 44330
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2014#q11|src_bocconi_autunno_2014__Q11]]
 
 
 
@@ -373,13 +433,18 @@ Next year's multiplier: sequence of five tokens
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many floors does the 385-ball tennis pyramid have?
+*How many levels does the tennis pyramid of 385 balls have?*
 
-> To decorate the window of his sportswear store, Nando built the pyramid you see, which is made of tennis balls. Each level of the building is a square. The highest level consists of $1$ single ball. The one below from $4$ balls, the one still below from $9$ etc. How many floors does the pyramid have?
+> To decorate the window display of his sports goods store, Nando built the pyramid you see, which is made up of $385$ tennis balls. Each level of the structure is a square. The top level consists of just $1$ ball. The level below that consists of $4$ balls, the one below that of $9$, and so on. How many levels does the pyramid have?
 
 ![[src_bocconi_autunno_2014__q12.png]]
 
-**Answer:** 10
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2014#q12|src_bocconi_autunno_2014__Q12]]
 
 
 
@@ -404,13 +469,17 @@ How many floors does the 385-ball tennis pyramid have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the star inscribed in the square of 3045 cm2*
+*Area of the star inscribed in a square of 3045 cm²*
 
-> The large square has an area of $3045 \text{ cm}^2$. Look inside the star (darker): it was built by combining the vertices of the large square with the centers of the smaller squares. What's the area of the star?
+> The large square has an area of $3045 \text{ cm}^2$. Look inside it at the star (darker): it was constructed by joining the vertices of the large square to the centers of the smaller squares. What is the area of the star?
 
 ![[src_bocconi_autunno_2014__q13.png]]
 
-**Answer:** $2030 \text{ cm}^2$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2014#q13|src_bocconi_autunno_2014__Q13]]
 
 
 
@@ -434,11 +503,16 @@ How many floors does the 385-ball tennis pyramid have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integral numbers from 1 to 100000 without digit 5 or digit 7*
+*How many integers from 1 to 100000 contain neither the digit 5 nor the digit 7?*
 
-> How many integers, including $1$ and $100.000$ (included), are written without using either the $5$ digit or the $7$ digit?
+> How many integers between $1$ and $100.000$ (inclusive) can be written without using either the digit $5$ or the digit $7$?
 
-**Answer:** 32768
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2014#q14|src_bocconi_autunno_2014__Q14]]
 
 
 
@@ -462,11 +536,16 @@ How many floors does the 385-ball tennis pyramid have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quarter of the geometric progression of Jacopo*
+*Fourth term of Jacopo's geometric progression*
 
-> The first three terms of the geometric progression written by Jacopo are: $a$, $a+6$, $a+30$. What will be the fourth term of Jacob's progression? (Remember that the terms $a_1, a_2, \ldots, a_n$ constitute a geometric progression when the ratio between each term and the previous one is always equal (constant).
+> The first three terms of the geometric progression written by Jacopo are: $a$, $a+6$, $a+30$. What will the fourth term of Jacopo's progression be? (Let us recall that the terms $a_1, a_2, \ldots, a_n$ form a geometric progression when the ratio between each term and the preceding term is always the same (constant).)
 
-**Answer:** $a_4 = 128$, with $a = 126$
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2014#q15|src_bocconi_autunno_2014__Q15]]
 
 
 
@@ -492,9 +571,14 @@ How many floors does the 385-ball tennis pyramid have?
 
 *Pairs of non-negative integer solutions of the equation with roots*
 
-> In the $\sqrt{a} + \sqrt{b} = \sqrt{2} + \sqrt{2}$ equation, the unknowns $a$ and $b$ are nonnegative integers. How many pairs of solutions does the equation have?
+> In the equation $\sqrt{a} + \sqrt{b} = \sqrt{2} + \sqrt{2}$, the unknowns $a$ and $b$ are non-negative integers. How many pairs of solutions does the equation have?
 
-**Answer:** 9 pairs
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2014#q16|src_bocconi_autunno_2014__Q16]]
 
 
 
@@ -518,11 +602,16 @@ How many floors does the 385-ball tennis pyramid have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lesser non-zero multiple of 2015 with decreasing figures*
+*The smallest non-zero multiple of 2015 with decreasing digits*
 
-> What is the smallest non-zero multiple of $2015$, whose digits are written in descending order (not necessarily in the strict sense) from left to right?
+> What is the smallest non-zero multiple of $2015$ whose digits are written in non-increasing order (not necessarily strictly) from left to right?
 
-**Answer:** 44330
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2014#q17|src_bocconi_autunno_2014__Q17]]
 
 
 
@@ -546,8 +635,13 @@ How many floors does the 385-ball tennis pyramid have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many fingers does Carla have to show to win for sure?
+*How many fingers must Carla show to win for sure?*
 
-> In turn, Carla and Milena show some fingers of one hand (one or two or three or four or five fingers). The number of fingers indicated shall be added to the previous total but the new sum thus obtained shall be a prime number. For example, if Carla has pointed two fingers, Milena can answer with one finger or three fingers or even five fingers because $2+1=3$, $2+3=5$ and $2+5=7$ are prime numbers. The first (between Carla and Milena) who, with the number of her fingers added to the previous total, fails to get a first number loses. It is Milena who starts the game (at this time the total is $0$). How many fingers does she have to show to be sure of winning, if she plays her best, whatever Carla's next answers are?
+> In turn, Carla and Milena show some fingers of one hand (one or two or three or four or five fingers). The number of fingers shown is added to the previous total, but the new sum thus obtained must be a prime number. For example, if Carla has shown two fingers, Milena can respond with one finger or three fingers or even five fingers because $2+1=3$, $2+3=5$, and $2+5=7$ are prime numbers. The first one (between Carla and Milena) who, with the number of their own fingers added to the previous total, cannot obtain a prime number loses. It is Milena who starts the game (at this moment the total is $0$). How many fingers must she show to be certain of winning, if she plays optimally, regardless of Carla's subsequent responses?
 
-**Answer:** 5
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2014#q18|src_bocconi_autunno_2014__Q18]]

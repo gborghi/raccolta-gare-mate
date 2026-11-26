@@ -31,7 +31,14 @@ level: JJMO Honsen
 
 *Esagono ciclico con tre coppie di lati paralleli; dimostrare che anche la quarta coppia è parallela*
 
-> Un esagono $ABCDEF$ è inserito in un cerchio. Supponiamo che $AB \parallel DE$, $BC \parallel EF$ e $CD \parallel FA$. Prove che $AB \parallel CD$.
+> Un esagono $ABCDEF$ è inscritto in una circonferenza. Supponiamo che $AB \parallel DE$, $BC \parallel EF$ e $CD \parallel FA$. Dimostrare che $AB \parallel CD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo9mq_honsen#q01|src_jjmo9mq_honsen__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n un quadrato perfetto; trovare n numeri interi più piccoli espressi come prodotto di due fattori ciascuno al massimo n*
+*n è un quadrato perfetto; trova i n interi più piccoli esprimibili come prodotto di due fattori, ciascuno dei quali è al più n*
 
-> Lascia che $n$ sia un quadrato perfetto. Si consideri tutti gli enti che possono essere espressi come un prodotto $a \times b$ dove $a$ e $b$ sono enteri positivi ciascuno al massimo $n$ (non necessariamente distinti). Tra questi enti, elencare i più piccoli $n$ (in ordine crescente), esprimendoli in termini di $n$.
+> Sia $n$ un quadrato perfetto. Si considerino tutti gli interi che possono essere espressi come prodotto $a \times b$, dove $a$ e $b$ sono interi positivi, ciascuno al più uguale a $n$ (non necessariamente distinti). Tra questi interi, si elenchino i $n$ più piccoli (in ordine crescente), esprimendoli in termini di $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo9mq_honsen#q02|src_jjmo9mq_honsen__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto, centro ortografico, due circoncircoli che incontrano le linee di altitudine all'esterno; dimostrare AE = AF*
+*Triangolo acuto, ortocentro, due circonferenze circoscritte incontrano le altezze all'esterno; dimostrare che AE = AF*
 
-> Che $H$ sia l'ortocentro di un triangolo acuto $ABC$, e che $D$ sia l'intersezione delle linee $AH$ e $BC$. $E$ deve essere il punto (diversi da $A$ e $B$) in cui il circoncircolo del triangolo $ABD$ incontra la linea $CH$, dove $E$ si trova fuori dal triangolo $ABC$. Il punto $F$ deve essere il punto (diversi da $A$ e $C$) in cui il circoncircolo del triangolo $ACD$ incontra la linea $BH$, dove $F$ si trova fuori dal triangolo $ABC$. Provare che $AE = AF$.
+> Sia $H$ l'ortocentro di un triangolo acuto $ABC$, e sia $D$ l'intersezione delle rette $AH$ e $BC$. Sia $E$ il punto (diverso da $A$ e $B$) in cui la circonferenza circoscritta al triangolo $ABD$ incontra la retta $CH$, dove $E$ giace all'esterno del triangolo $ABC$. Sia $F$ il punto (diverso da $A$ e $C$) in cui la circonferenza circoscritta al triangolo $ACD$ incontra la retta $BH$, dove $F$ giace all'esterno del triangolo $ABC$. Dimostrare che $AE = AF$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo9mq_honsen#q03|src_jjmo9mq_honsen__Q03]]
 
 
 
@@ -108,13 +129,20 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di integri positivi p,q che consentono un'operazione di scheda nera indefinita evitando i multipli*
+*Trovare tutte le coppie di interi positivi p,q che consentono un'operazione indefinita sulla lavagna con evitamento dei multipli*
 
-> Lasciate che $p$ e $q$ siano integri positivi. In primo luogo, scrivere il numero intero $1$ su una lavagna e poi ripetere la seguente operazione:
-> 
-> \textbf{Operazione:} Scegli uno di $p$ o $q$ e scrivi sulla lavagna il numero ottenuto aggiungendo il valore scelto al numero attualmente sulla lavagna.
-> 
-> Trova tutte le coppie $(p, q)$ di numeri interi positivi per le quali è possibile ripetere l'operazione a tempo indeterminato (per qualsiasi numero di passaggi, in qualsiasi ordine di scelte) senza mai scrivere un multiple di $p$ o un multiple di $q$ sulla scheda nera.
+> Siano $p$ e $q$ numeri interi positivi. Per prima cosa, scrivi sull'ardesia l'intero $1$, poi ripeti l'operazione seguente:
+>
+> \textbf{Operazione:} Scegli uno tra $p$ e $q$, e scrivi sull'ardesia il numero ottenuto sommando il valore scelto al numero attualmente presente sull'ardesia.
+>
+> Trova tutte le coppie $(p, q)$ di numeri interi positivi per cui è possibile ripetere l'operazione indefinitamente (per qualsiasi numero di passi, in qualsiasi ordine di scelte) senza mai scrivere sull'ardesia un multiplo di $p$ o un multiplo di $q$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo9mq_honsen#q04|src_jjmo9mq_honsen__Q04]]
 
 
 
@@ -139,8 +167,15 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Arrangement 1..n ogni n volte; determinare per quale n esiste un'arrangimento che evita una condizione residuale*
+*Disponi 1..n, ciascuno n volte; determina per quali n esiste una disposizione che evita una condizione sul resto*
 
-> $n \geq 2$ sia un numero intero. Considerate le disposizioni dei numeri interi $1, 2, \ldots, n$, ognuno apparendo esattamente $n$ volte, in una fila di termini $n^2$. Determinare per quali valori di $n$ esiste un sistema che soddisfa la seguente condizione:
-> 
-> \textbf{Condition:} Per ogni intero $k$ con $1 \leq k \leq n^2 - 1$, il rimanente quando la somma dei primi termini $k$ è divisa da $n$ è \emph{differente} dal rimanente quando $k$ è divisa da $n$.
+> Sia $n \geq 2$ un numero intero. Si considerino le disposizioni degli interi $1, 2, \ldots, n$, ciascuno dei quali compare esattamente $n$ volte, in una riga di $n^2$ termini. Si determini per quali valori di $n$ esiste una disposizione che soddisfa la seguente condizione:
+>
+> \textbf{Condizione:} Per ogni numero intero $k$ tale che $1 \leq k \leq n^2 - 1$, il resto della divisione per $n$ della somma dei primi $k$ termini è \emph{diverso} dal resto della divisione di $k$ per $n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo9mq_honsen#q05|src_jjmo9mq_honsen__Q05]]

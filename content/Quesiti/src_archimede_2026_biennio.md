@@ -36,17 +36,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fractional value with powers of 10*
+*Value of a fraction with powers of 10*
 
-> What is the value of 102025 + 102026 + 102027 102025 + 102025 + 102025 ?
+> What is the value of $102025 + 102026 + 102027$
+> $102025 + 102025 + 102025$ ?
 >
-> - **(A)** 100/3
-> - **(B)** 100
-> - **(C)** 111
-> - **(D)** 101
-> - **(E)** 37
+> - **(A)** $100/3$
+> - **(B)** $100$
+> - **(C)** $111$
+> - **(D)** $101$
+> - **(E)** $37$
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2026_biennio#q01|src_archimede_2026_biennio__Q01]]
 
 
 
@@ -75,9 +79,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of 1-6x from linear equation*
+*Value of 1-6x from a linear equation*
 
-> Now, knowing that 2x plus 1 is equal to 5x plus 6, what's the value of 1 minus 6x?
+> Knowing that 2x + 1 = 5x + 6, what is the value of 1 −6x ?
 >
 > - **(A)** 8
 > - **(B)** 11
@@ -85,7 +89,10 @@ level: biennio
 > - **(D)** 10
 > - **(E)** 7
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2026_biennio#q02|src_archimede_2026_biennio__Q02]]
 
 
 
@@ -116,9 +123,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum yellow bags to exceed 20%*
+*Minimum yellow marbles needed to exceed 20%*
 
-> One box contains 30 red balls. Laura adds more eggs to the box, yellow. How many yellow balls does he have to add, at least, because yellow balls are more than 20% of the total?
+> A box contains 30 red marbles. Laura adds more marbles to the box, of
+> yellow colour. How many yellow marbles must she add, at minimum, so that the yellow
+> marbles are more than 20% of the total?
 >
 > - **(A)** 10
 > - **(B)** 9
@@ -126,7 +135,10 @@ level: biennio
 > - **(D)** 8
 > - **(E)** 6
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2026_biennio#q03|src_archimede_2026_biennio__Q03]]
 
 
 
@@ -156,9 +168,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of figures of 10^2025+10^803+3^4+2^5*
+*Sum of digits of 10^2025+10^803+3^4+2^5*
 
-> Roberta writes for extended the number n = 102025 + 10803 + 34 + 25. What is the sum of all the digits of n?
+> Roberta writes out in full the number n = 10^2025 + 10^803 + 3^4 + 2^5.
+> What is the sum of all the digits of n?
 >
 > - **(A)** 7
 > - **(B)** 2837
@@ -166,7 +179,10 @@ level: biennio
 > - **(D)** 9
 > - **(E)** 115
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2026_biennio#q04|src_archimede_2026_biennio__Q04]]
 
 
 
@@ -197,9 +213,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Late BC in an isosceles triangle with a quadruple C angle*
+*Side BC in an isosceles triangle with angle C four times as large*
 
-> In the triangle ABC, the angles bA and bB are equal, whereas bC is quadrupled by bA. Knowing that the height coming out of C is 24 cm, how many cm does the BC side measure?
+> In triangle ABC, angles ∠A and ∠B are equal, while ∠C is four times ∠A.
+> Given that the altitude from C is 24 cm, how many cm is side BC?
 >
 > - **(A)** 36
 > - **(B)** 40
@@ -207,7 +224,11 @@ level: biennio
 > - **(D)** 45
 > - **(E)** 60
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_biennio#q05|src_archimede_2026_biennio__Q05]]
 
 
 
@@ -238,17 +259,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many powers in 2025 are perfect squares*
+*Number of powers of the form 2025n that are squares of integers*
 
-> Let's look at the numbers 2025, 20252, 20253. . . , 20252025, i.e. all the powers of type 2025n with 1 ⩽n ⩽2025. How many of these are squares of integers?
+> Consider the numbers 2025, 20252, 20253, . . . , 20252025, that is, all powers of the form 2025n with 1 ⩽n ⩽2025. How many of them are squares of integers?
 >
 > - **(A)** 2025
 > - **(B)** 45
-> - **(C)** No one
+> - **(C)** none
 > - **(D)** 1012
 > - **(E)** 145
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2026_biennio#q06|src_archimede_2026_biennio__Q06]]
 
 
 
@@ -282,9 +307,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of dividing 16 candies with equal friends*
+*Ways of dividing 16 mint candies with an equal-friends constraint*
 
-> Marco has a bag of 16 mint candies, which he wants to share with three friends and his cousin. Each of them, including Mark himself, will have to receive at least one candy; moreover, in order not to create a scandal, Mark's three friends will have to receive the same number of candy. How many ways will Marco be able to make the split?
+> Marco has a bag with 16 mint candies, which he wants to share with three
+> friends and his cousin. Each of them, including Marco himself, must receive
+> at least one candy; moreover, to avoid ill feeling, Marco's three friends must receive the same number of candies. In how many ways can Marco make the division?
 >
 > - **(A)** 27
 > - **(B)** 32
@@ -292,7 +319,11 @@ level: biennio
 > - **(D)** 30
 > - **(E)** 28
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2026_biennio#q07|src_archimede_2026_biennio__Q07]]
 
 
 
@@ -324,9 +355,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unusual numbers < 1000 with only digits 1,3,4,5,7*
+*Odd numbers < 1000 using only the digits 1, 3, 4, 5, 7*
 
-> Sofia is making a list of all natural numbers less than 1000 that can be written with the numbers 1, 3, 4, 5, 7 (also repeated). How many of these will be odd numbers?
+> Sofia is making a list of all natural numbers less than 1000 that can be written using only the digits 1, 3, 4, 5, 7 (also repeated). How many of these will be odd numbers?
 >
 > - **(A)** 108
 > - **(B)** 104
@@ -334,7 +365,11 @@ level: biennio
 > - **(D)** 96
 > - **(E)** 124
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2026_biennio#q08|src_archimede_2026_biennio__Q08]]
 
 
 
@@ -365,9 +400,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of the two children's product (age problem)*
+*Product of the ages of the two children (ages problem)*
 
-> A man and his two sons are 96 years old in all. Four years ago, the eldest son was half his father's age and twice his brother's. What number is obtained by multiplying the current ages of the two children?
+> A man and his two children are 96 years old in total. Four years ago, the older child
+> was half the age of the father and twice the age of his brother. What number is obtained
+> if the current ages of the two children are multiplied?
 >
 > - **(A)** 384
 > - **(B)** 288
@@ -375,7 +412,10 @@ level: biennio
 > - **(D)** 432
 > - **(E)** 448
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2026_biennio#q09|src_archimede_2026_biennio__Q09]]
 
 
 
@@ -441,32 +481,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*CDEF quadrilateral area with perpendicular sides*
+*Area of quadrilateral CDEF with a right angle and given sides*
 
 ![[src_archimede_2026_biennio__prob10.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.25]
-  \coordinate (D) at (0,0);
-  \coordinate (C) at (0,15);
-  \coordinate (E) at (20,0);
-  \coordinate (F) at (24.93,13.10);
-  \draw (D)--(C)--(F)--(E)--cycle;
-  \draw (1.2,0)--(1.2,1.2)--(0,1.2);
-  \node[left] at (C) {$C$};
-  \node[below left] at (D) {$D$};
-  \node[below] at (E) {$E$};
-  \node[right] at (F) {$F$};
-  \node[left] at (0,7.5) {$15$};
-  \node[below] at (10,0) {$20$};
-  \node[above] at (12,14.5) {$25$};
-  \node[right] at (22.5,6.5) {$14$};
-\end{tikzpicture}
-\end{document}
-```
-
-> In the CDEF quadrilateral, the sides CD and DE are perpendicular to each other. The lengths (in mm) of the sides are as follows: CD = 15, DE = 20, EF = 14, FC = 25. How many mm2 is the area of the CDEF quadrilateral ? D E F C 15 20 14 25
+> In the quadrilateral CDEF, the sides CD and DE are perpendicular to each other. The lengths (in mm) of the sides are as follows: CD = 15, DE = 20, EF = 14, FC = 25. How many mm2 is the area of the quadrilateral CDEF?
 >
 > - **(A)** 324
 > - **(B)** 318
@@ -474,7 +493,11 @@ level: biennio
 > - **(D)** 308
 > - **(E)** 304
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2026_biennio#q10|src_archimede_2026_biennio__Q10]]
 
 
 
@@ -505,9 +528,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of segment between vertices of the cube passing through the centre*
+*Probability that the segment between two vertices of a cube passes through the centre*
 
-> If you randomly pick two different vertices of a cube, what is the probability that the segment joining them will pass through the center of the cube?
+> Choosing two different vertices of a cube at random, what is the probability that the segment joining them passes through the centre of the cube?
 >
 > - **(A)** 1/8
 > - **(B)** 1/4
@@ -515,7 +538,11 @@ level: biennio
 > - **(D)** 1/56
 > - **(E)** 1/64
 
-**Answer:** C
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_biennio#q11|src_archimede_2026_biennio__Q11]]
 
 
 
@@ -550,17 +577,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many knights in the class (knights and swordsmen)*
+*Number of knights in Luigi's class of knights and knaves*
 
-> On the island of knights and crooks, every inhabitant is either a knight (who always tells the truth) or a crook (who always lies). Luigi's class is made up of 21 students in total. His fellow banker Mario declares: "In our class there are precisely 12 knights". Another 9 companions then say: Luigi is a knight, the other 10 say instead: Luigi is a cunning. Luigi prefers not to lose his balance and remains silent. How many knights are in the class?
+> On the island of knights and knaves, each inhabitant is either a knight (who always tells the truth) or a knave (who always lies). Luigi's class consists of 21 students in all. His deskmate Mario declares: "in our class there are exactly 12 knights". Another 9 classmates then claim: "Luigi is a knight", while the other 10 say: "Luigi is a knave". Luigi prefers not to commit himself and stays silent. How many knights are there in the class?
 >
-> - **(A)** It is not possible to establish
+> - **(A)** it cannot be determined
 > - **(B)** 9
 > - **(C)** 12
 > - **(D)** 10
 > - **(E)** 11
 
-**Answer:** D
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2026_biennio#q12|src_archimede_2026_biennio__Q12]]
 
 
 
@@ -590,9 +621,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Ordination of k, k^2, k^3 by -1
+*Ordering of k, k^2, k^3 for -1<k<0*
 
-> The real number k satisfies the ratio −1 < k < 0. You can conclude that . . .
+> The real number k satisfies the relation −1 < k < 0. It can be concluded that . . .
 >
 > - **(A)** k < k3 < k2
 > - **(B)** k < k2 < k3
@@ -600,7 +631,11 @@ Ordination of k, k^2, k^3 by -1
 > - **(D)** k3 < k2 < k
 > - **(E)** k3 < k < k2
 
-**Answer:** A
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2026_biennio#q13|src_archimede_2026_biennio__Q13]]
 
 
 
@@ -631,17 +666,21 @@ Ordination of k, k^2, k^3 by -1
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PLACE position between anagrams in alphabetical order*
+*Position of PUNTO among its anagrams in alphabetical order*
 
-> James is writing, in alphabetical order, all the possible anagrams of the word PUNTO. What position does the word PUNTO occupy on this list?
+> Giacomo is writing, in alphabetical order, all possible anagrams of the word PUNTO. What position does the word PUNTO occupy in this list?
 >
-> - **(A)** la 57a
-> - **(B)** la 56a
-> - **(C)** la 65a
-> - **(D)** la 66a
-> - **(E)** la 68a
+> - **(A)** the 57th
+> - **(B)** the 56th
+> - **(C)** the 65th
+> - **(D)** the 66th
+> - **(E)** the 68th
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2026_biennio#q14|src_archimede_2026_biennio__Q14]]
 
 
 
@@ -676,17 +715,25 @@ Ordination of k, k^2, k^3 by -1
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distinct cube colours with 2+4 faces (10 colours)*
+*Distinct colourings of a cube with 2+4 faces (10 colours)*
 
-> Elena is busy coloring the faces of a large number of cubes. It's available in 10 different colors. In each cube, you want to color two faces of one color and the other four of another color. How many cubes, at most, can you color in different ways? (the colours of two cubes shall be considered the same if, moving them in any way, they do not appear distinguishable from the colours of the faces) 
->
+> Elena is busy colouring the faces of a large number of cubes. She has
+> 10 different colours available. In each cube, she wants to colour 2 faces one colour and the other 4
+> a different colour. What is the maximum number of cubes she can colour in ways that are all different from one another?
+> (colourings of two cubes are considered equal if, by moving them in any
+> way, they are indistinguishable by the colours of the faces)
+> 
 > - **(A)** 90
 > - **(B)** 180
 > - **(C)** 200
 > - **(D)** 360
 > - **(E)** 100
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2026_biennio#q15|src_archimede_2026_biennio__Q15]]
 
 
 
@@ -733,11 +780,23 @@ Ordination of k, k^2, k^3 by -1
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of parallel polygon shaded*
+*Shaded polygon area in a parallelogram*
 
-![[src_archimede_2026_biennio__prob16.png]]
-
-> In parallelogram ABCD, whose area is 72 cm2, consider the point N of the CD side where DN = 2 NC. Then either I the point of the BN segment for which you have BI = 2 IN and T the point of the AN segment for which you have NT = 2 TA. How many cm2 does the area of the ABCINTD polygon (the shaded surface in the figure) measure? A B C D N I T
+> In parallelogram ABCD, whose area is equal to
+> 72 cm2, consider the point N on side CD for which
+> DN = 2 NC.
+> Let I be the point on segment
+> BN for which BI = 2 IN, and let T be the point on
+> segment AN for which NT = 2 TA.
+> How many cm2
+> is the area of polygon ABCINTD (the shaded surface in the figure)?
+> A
+> B
+> C
+> D
+> N
+> I
+> T
 >
 > - **(A)** 48
 > - **(B)** 45
@@ -745,4 +804,8 @@ Ordination of k, k^2, k^3 by -1
 > - **(D)** 54
 > - **(E)** 42 211
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_biennio#q16|src_archimede_2026_biennio__Q16]]

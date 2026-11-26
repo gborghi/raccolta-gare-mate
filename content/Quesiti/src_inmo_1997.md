@@ -30,9 +30,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La linea attraverso il vertice C del parallelo raggiunge le estensioni dei lati*
+*La retta passante per il vertice C del parallelogramma incontra i prolungamenti dei lati*
 
-> Una linea attraverso la vertica $C$ di un parallelo $ABCD$ risponde alle estensioni dei lati $AB$ e $AD$ rispettivamente a $E$ e $F$. Provare che $$AC^2 + CE \cdot CF = AB \cdot AE + AD \cdot AF.$$
+> Una retta che passa per il vertice $C$ di un parallelogramma $ABCD$ incontra le prolungazioni dei lati $AB$ e $AD$ rispettivamente nei punti $E$ e $F$. Dimostrare che
+> $$AC^2 + CE \cdot CF = AB \cdot AE + AD \cdot AF.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1997#q01|src_inmo_1997__Q01]]
 
 
 
@@ -56,9 +64,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nessun intero positivo m,n soddisfa l'equazione data*
+*Non esistono interi positivi m, n con m/n + (n+1)/m = 4*
 
-> Mostrare che non esistono numeri interi positivi $m$ e $n$ in modo tale che $$\frac{m}{n} + \frac{n+1}{m} = 4.$$
+> Dimostrare che non esistono interi positivi $m$ e $n$ tali che
+> $$\frac{m}{n} + \frac{n+1}{m} = 4.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_inmo_1997#q02|src_inmo_1997__Q02]]
 
 
 
@@ -81,9 +97,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Distinti reali a,b,c con condizione di somma ciclica implicano abc+t=0*
+*Numeri reali distinti a, b, c con la condizione della somma ciclica implicano abc+t=0*
 
-> Supponiamo che $a, b, c$ siano numeri reali distinti e $t$ un numero reale tale che $a + \frac{1}{b} = b + \frac{1}{c} = c + \frac{1}{a} = t$. Mostra che $abc + t = 0$.
+> Supponiamo che $a, b, c$ siano numeri reali distinti e che $t$ sia un numero reale tale che $a + \frac{1}{b} = b + \frac{1}{c} = c + \frac{1}{a} = t$. Dimostrare che $abc + t = 0$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1997#q03|src_inmo_1997__Q03]]
 
 
 
@@ -106,9 +129,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*100 raggi dal centro quadrato dividono il quadrato in 100 parti uguali; p*
+*100 raggi dal centro del quadrato dividono il quadrato in 100 parti uguali; confine p*
 
-> Un centinaio di raggi che emanano dal centro di un quadrato dividono il quadrato in parti $100$, tutte uguali di perimetro $p$. Mostra che $1.4 < p < 1.5$.
+> Cento raggi che emanano dal centro di un quadrato dividono il quadrato in $100$ parti, tutte aventi perimetro uguale a $p$. Dimostrare che $1.4 < p < 1.5$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1997#q04|src_inmo_1997__Q04]]
 
 
 
@@ -131,9 +161,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le matrici 4x4 da {0,1,2,3} con le somme di righe e colonne divisibili per 4*
+*Conta le matrici 4x4 con elementi in {0,1,2,3} tali che le somme delle righe e delle colonne siano divisibili per 4*
 
-> Trovare il numero di matrici $4 \times 4$ le cui voci provengono dal set $\{0, 1, 2, 3\}$ in modo tale che la somma dei numeri in ciascuna delle quattro righe e in ciascuna delle quattro colonne sia divisibile da $4$.
+> Trovare il numero di array $4 \times 4$ i cui elementi provengono dall'insieme $\{0, 1, 2, 3\}$, tali che la somma dei numeri in ciascuna delle quattro righe e in ciascuna delle quattro colonne sia divisibile per $4$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_1997#q05|src_inmo_1997__Q05]]
 
 
 
@@ -157,6 +194,14 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cubico con tre radici reali; valore minimo assoluto rapporto di limite radicale b/a*
+*Cubica con tre radici reali; rapporto b/a dei limiti delle radici di valore assoluto minimo*
 
-> $a$ e $b$ siano numeri positivi per i quali l'equazione cubica $x^3 - ax + b = 0$ ha tre radici reali (non necessariamente distinte). Se $\alpha$ è quello con valore assoluto minimo, dimostrare che $$\frac{b}{a} < \alpha < \frac{3b}{2a}.$$
+> Siano $a$ e $b$ numeri positivi tali che l'equazione cubica $x^3 - ax + b = 0$ abbia tre radici reali (non necessariamente distinte). Se $\alpha$ è quella di valore assoluto minimo, dimostrare che
+> $$\frac{b}{a} < \alpha < \frac{3b}{2a}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1997#q06|src_inmo_1997__Q06]]

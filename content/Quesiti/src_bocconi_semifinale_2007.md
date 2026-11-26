@@ -34,15 +34,20 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-Number of four digits as reflected on the astronaut suit
+*A 4-digit number seen reflected on the astronaut suit*
 
-> This night, Luca dreamed of being an astronaut. On his space suit was a four-digit number. Standing in front of the spacecraft's metal laptop, Luke saw the number printed on his suit reflected.
-> 
-> What number is this?
+> Last night, Luca dreamed that he was an astronaut. His spacesuit bore a four-digit number. Standing in front of the spacecraft's metal laptop, Luca could see the number printed on his suit reflected in it.
+>
+> What number is it?
 
 ![[src_bocconi_semifinale_2007__q01.png]]
 
-**Answer:** 2965
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q01|src_bocconi_semifinale_2007__Q01]]
 
 
 
@@ -66,11 +71,16 @@ Number of four digits as reflected on the astronaut suit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the figures of $10^7 - 2007$*
+*Sum of the digits of $10^7 - 2007$*
 
-> Add the digits of the number $N = 10^7 - 2007$ (after performing the operations indicated). What number do you get?
+> Add the digits of the number $N = 10^7 - 2007$ (after performing the indicated operations). What number do you get?
 
-**Answer:** 55
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q02|src_bocconi_semifinale_2007__Q02]]
 
 
 
@@ -98,15 +108,20 @@ Number of four digits as reflected on the astronaut suit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hidden under ink stains in the equation*
+*A digit hidden beneath ink stains in an equation*
 
-> Sara stained a square with the ink. But watch out!  The stains always cover the same figure. That he did it on purpose?
-> 
+> Sara has stained it with an inked square. But—what a coincidence!—the stains always cover the same digit. Did she do it on purpose?
+>
 > $$(\blacksquare \times \blacksquare) + \blacksquare = \blacksquare 0$$
-> 
-> What's this figure?
+>
+> What is this digit?
 
-**Answer:** 9
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q03|src_bocconi_semifinale_2007__Q03]]
 
 
 
@@ -134,15 +149,20 @@ Number of four digits as reflected on the astronaut suit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum distance travelled by an ant on cube shafts*
+*Maximum distance traveled by an ant along the edges of a cube*
 
-> An ant moves on the tips of a wire cube from the point indicated by "start" to the point indicated by "arrival" without ever passing twice from the same point.
-> 
-> How far did the ant travel, at most?
+> An ant moves along the edges of a wire cube from the point marked "start" to the point marked "finish", never passing through the same point twice.
+>
+> What is the maximum distance the ant can have traveled?
 
 ![[src_bocconi_semifinale_2007__q04.png]]
 
-**Answer:** 7 dm
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q04|src_bocconi_semifinale_2007__Q04]]
 
 
 
@@ -168,13 +188,18 @@ Number of four digits as reflected on the astronaut suit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete arrow diagram with paired products*
+*Complete the arrow diagram with products of pairs*
 
-> In the side diagram, each number written in a square is obtained by multiplying the two numbers directly connected to it. Complete the drawing.
+> In the diagram beside it, each number written in a small square is obtained by multiplying the two numbers directly connected to it. Complete the drawing.
 
 ![[src_bocconi_semifinale_2007__q05.png]]
 
-**Answer:** The missing values are obtained from the scheme with the numbers 24, 30, 20, 5, 6
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q05|src_bocconi_semifinale_2007__Q05]]
 
 
 
@@ -200,13 +225,18 @@ Number of four digits as reflected on the astronaut suit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Periods of 2+ consecutive days with 15 Sudoku solved total*
+*Periods of 2 or more consecutive days with a total of 15 sudokus solved*
 
-> On the first day of vacation, Jacob solves a sudoku pattern. Then, every day afterwards  until the end of the holidays  solves one more than the day before: solves two on the second day, three on the third day, etc. Each day, Jacob  who is a precise type  marks on his calendar the number of resolved patterns and, on returning from the holidays, determines that there has been a period of at least two consecutive days during which he has resolved exactly 15 patterns in total.
-> 
-> What time is this? Give all the solutions, indicating the number of the first and last days of the period (consisting of consecutive days).
+> On the first day of the holiday, Jacob solves one Sudoku puzzle. Then, on each subsequent day—until the end of the holiday—he solves one more than he did the day before: he solves two on the second day, three on the third day, and so on. Each day, Jacob—who is a precise sort of person—notes in his planner the number of puzzles he has solved, and upon returning from the holiday, he determines that there was a period of at least two consecutive days during which he solved exactly 15 puzzles in total.
+>
+> What is this period? Give all solutions, indicating the numbers of the first and last day of the period (which consists of consecutive days).
 
-**Answer:** Three solutions: $(1;5)$, $(4;6)$ and $(7;8)$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q06|src_bocconi_semifinale_2007__Q06]]
 
 
 
@@ -235,13 +265,21 @@ Number of four digits as reflected on the astronaut suit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of live animals as of 24 March 2007*
+*Pairs of living animals as of 24 March 2007*
 
-> In a strange part of the world there are strange animals, with strange characteristics: - every couple only gives birth to pairs; - all the pairs we are talking about only live 13 months and give birth to a pair after 5 months and another after 8 months; - births and deaths occur exactly on the first day of each month.
-> 
-> In this strange part of the world, on September 1, 2005, there was only one pair of these animals, just born. How many living couples are there today, March 24, 2007?
+> In a strange part of the world, there are strange animals with strange characteristics:
+> - each pair produces only pairs;
+> - all the pairs we are talking about live for only 13 months and produce one pair after 5 months and another after 8 months;
+> - births and deaths occur exactly on the first day of each month.
+>
+> In this strange part of the world, on September 1, 2005, there was only one pair of these animals—a pair that had just been born. How many living pairs are there today, March 24, 2007?
 
-**Answer:** 9
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q07|src_bocconi_semifinale_2007__Q07]]
 
 
 
@@ -271,15 +309,22 @@ Number of four digits as reflected on the astronaut suit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete the grid with integers 2-10, sums per row given*
+*Complete the grid with integers from 2 to 10; row sums are given*
 
-> Complete the empty boxes with the whole numbers from 2 to 10 (each used only once) knowing that the number written to the right is the sum of the numbers in the corresponding row:
-> 
-> $$1 \;\square\; \square\; \square\; \square \longrightarrow 27$$ $$10\; \square\; \square\; \square\; \square \longrightarrow 28$$ $$11\quad 11 \quad 11 \quad 11 \quad 11$$
+> Fill in the empty boxes with the integers from 2 to 10 (each used only once), knowing that the number written on the right is the sum of the numbers in the corresponding row:
+>
+> $$1 \;\square\; \square\; \square\; \square \longrightarrow 27$$
+> $$10\; \square\; \square\; \square\; \square \longrightarrow 28$$
+> $$11\quad 11 \quad 11 \quad 11 \quad 11$$
 
 ![[src_bocconi_semifinale_2007__q08.png]]
 
-**Answer:** (solution uniquely determined by the conditions)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q08|src_bocconi_semifinale_2007__Q08]]
 
 
 
@@ -307,15 +352,20 @@ Number of four digits as reflected on the astronaut suit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side size square boards in box 45x34 cm*
+*Side dimension of square tablets in a 45x34 cm box*
 
-> To cut its turret boards, a factory has a stamping press that cuts a single type of square. The side of this square contains an integer number of centimeters, ranging from 2 cm to 34 cm.
-> 
-> They can be placed (without overlapping) on the plane of a rectangular box of 45 cm by 34 cm, parallel to its edges.
-> 
-> What size should square boards have in order to have the smallest torque weight possible (and no other boards of the same size can be added)?
+> To cut its torrone slabs, a factory has a cutter that cuts out only one type of square. The side length of this square is a whole number of centimetres, between 2 cm and 34 cm.
+>
+> The slabs can be arranged (without overlapping) on the flat surface of a rectangular box measuring 45 cm by 34 cm, parallel to the box's edges.
+>
+> What dimensions must the square slabs have so that the weight of the torrone contained in the box is as small as possible (and so that no further slabs of the same size can be added)?
 
-**Answer:** 23 cm
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q09|src_bocconi_semifinale_2007__Q09]]
 
 
 
@@ -341,13 +391,18 @@ Number of four digits as reflected on the astronaut suit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining coloured carpets in the Nando box*
+*Colored pencils left in Nando's box*
 
-> Nando had a box of 100 colored pencils. After using them for his magnificent drawings, he threw into the trash those that seemed too short. All 'pencil' of less than 4 cm in length, from 4 cm to the specified length, end up in the basket. Your neighbor picks them up and joins the pieces of the same length. The four bars you get are the same length.
-> 
+> Nando had a box containing 100 colored pencils. After using them for his magnificent drawings, he threw into the bin those that seemed too short to him. All pencil "stubs" less than 4 cm long, from 4 cm up to the one of the specified length, end up in the bin. His neighbor retrieves them and joins together the pieces of the same length. The four "bars" he obtains are all the same length.
+>
 > How many pencils are left in Nando's box?
 
-**Answer:** 43 pencils
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q10|src_bocconi_semifinale_2007__Q10]]
 
 
 
@@ -375,15 +430,20 @@ Number of four digits as reflected on the astronaut suit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum value of the maximum sum of three consecutive circles with 1-16*
+*Minimum value of the maximum sum of three consecutive numbers on a circle with 1–16*
 
-> We call with $M$ the sum of the three numbers written below on the circumference of a circle. All integers from 1 to 16 are inserted on the circumference (the 10 and 16 are already written). The value of $M$ shall be as small as possible.
-> 
+> Let $M$ denote the largest sum of three numbers written consecutively on the circumference of a circle. All the integers from 1 to 16 are placed on the circumference (10 and 16 are already written). The aim is for the value of $M$ to be as small as possible.
+>
 > What is the value of $M$?
 
 ![[src_bocconi_semifinale_2007__q11.png]]
 
-**Answer:** 18
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q11|src_bocconi_semifinale_2007__Q11]]
 
 
 
@@ -409,13 +469,18 @@ Number of four digits as reflected on the astronaut suit
 <div class="qlang-split" data-lang="en"></div>
 
 
-Meeting point between Carla and Milena with different speeds up and down
+*Meeting point between Carla and Milena, with different speeds uphill and downhill*
 
-> Carla and Milena live in two separate houses on a steep road. When they decide to see each other, they leave home at the same time. Carla moves from her home to Milena's at a constant speed of 35 km/h (in descent ...). Milena makes the reverse route at a constant speed of 35 km/h (in descent ...).
-> 
+> Carla and Milena live in two houses that are far apart from each other on an uphill road. When they decide to meet, they leave their homes at the same time. Carla travels from her house to Milena's house at a constant speed of 35 km/h (downhill ...). Milena travels the reverse route at a constant speed of 35 km/h (downhill ...).
+>
 > How far from Carla's house will they meet?
 
-**Answer:** 24 km from Carla's house
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q12|src_bocconi_semifinale_2007__Q12]]
 
 
 
@@ -441,13 +506,18 @@ Meeting point between Carla and Milena with different speeds up and down
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance from the upper right to the opposite side in triangular pool*
+*Distance from the right-angled vertex to the opposite side in a triangular pool*
 
-> Our pool is shaped like a rectangular triangle. If we swim from the top of the right angle to the opposite side, along the shortest path, we arrive at a point located $15$ m from one top and $3{,}75$ m from the other.
-> 
+> Our swimming pool is shaped like a right-angled triangle. If we swim from the right-angled vertex to the opposite side along the shortest path, we reach a point that is $15$ m from one vertex and $3{,}75$ m from the other.
+>
 > How far did we swim?
 
-**Answer:** $7{,}5$ m
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q13|src_bocconi_semifinale_2007__Q13]]
 
 
 
@@ -477,17 +547,22 @@ Meeting point between Carla and Milena with different speeds up and down
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial number of biscuits with four sailors and one dog*
+*Initial number of biscuits with four sailors and a dog*
 
-> After the shipwreck and their rescue, four superstitious sailors land on a desert island with a dog and a box of biscuits.
-> 
-> During the night, the first sailor wakes up hungry, gives a cookie to the dog and eats half the rest of the contents of the box, then falls asleep again. A little later, a second sailor does the same thing: He gives a cookie to the dog and eats half the contents of the box. Later, a third sailor does the same: He gives the dog a cookie and eats half. The fourth sailor behaves the same way.
-> 
-> When the sun is already high in the sky, the four sailors wake up together and want to eat a cookie each in the morning.
-> 
-> How many cookies were in the box when the sailors landed on the island?
+> After the shipwreck and their rescue, four superstitious sailors land on a deserted island with a dog and a box of biscuits.
+>
+> During the night, the first sailor wakes up hungry, gives a biscuit to the dog, eats half of what remains in the box, and then falls back asleep. A little later, a second sailor does the same: he gives a biscuit to the dog and eats half of what is in the box. Even later, a third sailor does the same: he gives a biscuit to the dog and eats half. The fourth sailor acts in the same way.
+>
+> When the sun is already high in the sky, the four sailors wake up together and want to eat one biscuit each in the morning: by this point, the box is empty.
+>
+> How many biscuits were there in the box when the sailors landed on the island?
 
-**Answer:** 95 biscuits
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q14|src_bocconi_semifinale_2007__Q14]]
 
 
 
@@ -513,13 +588,18 @@ Meeting point between Carla and Milena with different speeds up and down
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Irreducible fraction corresponding to number 121212121212*
+*Irreducible fraction corresponding to the number 121212121212*
 
-> The number $121212121212$ (with alternating digits 1 and 2, for a total of 12 digits) is equal to an irreducible fraction of the form $\frac{4}{\square}$.
-> 
-> What is this fraction? (To reply irreducibly)
+> The number $121212121212$ (with the digits 1 and 2 alternating, for a total of 12 digits) is equal to an irreducible fraction of the form $\frac{4}{\square}$.
+>
+> What is this fraction? (Give the answer in irreducible form)
 
-**Answer:** $\dfrac{4}{33}$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q15|src_bocconi_semifinale_2007__Q15]]
 
 
 
@@ -543,11 +623,16 @@ Meeting point between Carla and Milena with different speeds up and down
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting numbers of 10 distinct digits divisible by 11*
+*Count numbers with 10 distinct digits that are divisible by 11*
 
-> How many numbers are written with the 10 digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 (each used once), which are divisible by 11?
+> How many numbers can be written using the 10 digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 (each used exactly once) that are divisible by 11?
 
-**Answer:** 285.120
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_congruenze|Modular arithmetic / congruences]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q16|src_bocconi_semifinale_2007__Q16]]
 
 
 
@@ -575,15 +660,20 @@ Meeting point between Carla and Milena with different speeds up and down
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AX/XY ratio in a triangle with a point on the cevial*
+*AX/XY ratio in a triangle with a point on a cevian*
 
-> At the recent Festival of Mathematics in Rome, the famous painter Mathart exhibited his work in triangular form (see the figure, which however does not respect the proportions). The young man $X$ visited her and asked him, curious, why the relationship between the dimensions of the sides $AX$ and $XY$. Mathart merely replied that the point $X$ was on the figure so that the ratio $\frac{AX}{XY}$ was equal to 12 to 49.
-> 
-> How much is the$\frac{AX}{XY}$?
+> At the recent Festival of Mathematics in Rome, the famous painter Mathart exhibited one of his works, which was triangular in shape (see the figure, although it is not drawn to scale). The young $X$ was visiting the work and, out of curiosity, asked him why the ratio between the lengths of sides $AX$ and $XY$ was as it was. Mathart merely replied that the point $X$ was located on the figure in such a way that the ratio $\frac{AX}{XY}$ was equal to 12 to 49.
+>
+> What is the value of the ratio $\frac{AX}{XY}$?
 
 ![[src_bocconi_semifinale_2007__q17.png]]
 
-**Answer:** $\dfrac{AX}{XY} = \dfrac{12}{49}$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q17|src_bocconi_semifinale_2007__Q17]]
 
 
 
@@ -609,10 +699,15 @@ Meeting point between Carla and Milena with different speeds up and down
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of sons of Luca Maria*
+*Number of Luca Maria's sons*
 
-> Luke Maria decides to leave in inheritance to his children (male and female) a series of equilateral triangles, one for each child. For each, he takes the sticks so that he does not bite himself: he disposes the sticks so that he never puts two neighbors together. Suppose each child receives the same number of stitches.
-> 
+> Luca Maria decides to bequeath to his children (both sons and daughters) a series of equilateral triangles, one for each child. For each one, he picks up the pegs so as not to prick himself: he arranges the pegs so that no two are ever placed next to each other. Suppose each child receives the same number of fences.
+>
 > If Luca Maria has 10 daughters, how many sons does he have?
 
-**Answer:** 9
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2007#q18|src_bocconi_semifinale_2007__Q18]]

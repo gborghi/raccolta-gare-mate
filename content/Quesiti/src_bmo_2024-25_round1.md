@@ -35,11 +35,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova quale n in 3.12 ammette una disposizione di cerchio felice*
+*Trovare quali n tra 3 e 12 ammettono una disposizione circolare felice*
 
-> Diciamo che un numero $n \ge 3$ è $happy$ se è possibile organizzare i numeri $1$ a $n$ in un cerchio in modo tale che si applichino le seguenti due condizioni: (a) Se $x$ e $y$ sono vicini nel cerchio, allora $x$ divide $y$ o $y$ divide $x$; (b) Se diversi interi $u$ e $v$ sono nel cerchio ma non sono vicini, allora nessuno divide l'altro.
-> 
-> Trova tutte le $n$ nella gamma $3 \le n \le 12$ che sono soddisfatte.
+> Si dice che un numero $n \ge 3$ è $happy$ se è possibile disporre i numeri da $1$ a $n$ in un cerchio in modo che valgano le due condizioni seguenti:
+> (a) Se $x$ e $y$ sono vicini nel cerchio, allora $x$ divide $y$ oppure $y$ divide $x$;
+> (b) Se interi diversi $u$ e $v$ sono nel cerchio ma non sono vicini, allora nessuno dei due divide l'altro.
+>
+> Trovare tutti gli $n$ nell'intervallo $3 \le n \le 12$ che sono $happy$.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo_2024-25_round1#q01|src_bmo_2024-25_round1__Q01]]
 
 
 
@@ -64,9 +72,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Carte in cerchio, somme vicine divisibili per 3*
+*Carte in cerchio, somme di vicini divisibili per 3*
 
-> I numeri $1, 2, \dots, n$ sono scritti su carte $n$, un numero su ciascuna carta. Le carte sono posizionate in un cerchio. (i) Se le carte sono disposte in un ordine particolare, la somma dei numeri su ciascuna coppia di carte vicine è divisibile per $3$. ii) Determinare tutti i valori di $n$ per i quali le carte possono essere posizionate in un cerchio in modo che la somma dei numeri su ciascuna coppia di carte vicine sia divisibile da $3$.
+> I numeri $1, 2, \dots, n$ sono scritti su $n$ carte, un numero su ciascuna carta. Le carte sono disposte in un cerchio. (i) Se le carte sono disposte in un certo ordine, la somma dei numeri su ogni coppia di carte vicine è divisibile per $3$. (ii) Determinare tutti i valori di $n$ per i quali le carte possono essere disposte in un cerchio in modo che la somma dei numeri su ogni coppia di carte vicine sia divisibile per $3$.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+[[Quesiti/src_bmo_2024-25_round1#q02|src_bmo_2024-25_round1__Q02]]
 
 
 
@@ -95,9 +109,15 @@ level: BMO Round 1
 
 *Gioco che sostituisce n con |a-b| partendo da 10^6*
 
-> Rhian e Jack stanno giocando a un gioco in cui all'inizio sul quaderno nero è scritto il numero $10^6$. Se il numero $n$ presente sul quaderno può essere espresso come $a + b$ per due diversi interi positivi $a$ e $b$, un giocatore può effettuare una mossa scegliendo tali $a$ e $b$ e sostituire $n$ con $|a - b|$. Rhian inizia, e i giocatori effettuano le mosse alternativamente. Perde chi non riesce a muovere.
-> 
-> Determinare, con dimostrazione, chi vince la partita.
+> Rhian e Jack giocano a un gioco in cui inizialmente è scritto sulla lavagna il numero $10^6$. Se il numero $n$ sulla lavagna può essere scritto come $a + b$ per due interi positivi diversi $a$ e $b$, un movimento consiste nel scegliere tali $a$ e $b$ e sostituire $n$ con $|a - b|$. Rhian inizia, poi i giocatori effettuano i movimenti a turno. Un giocatore che non può muovere perde.
+>
+> Determinare, con dimostrazione, chi vince il gioco.
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_bmo_2024-25_round1#q03|src_bmo_2024-25_round1__Q03]]
 
 
 
@@ -124,11 +144,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto, P sulla media AM con AB=CP, prova angolo CPB=90*
+*Triangolo acutangolo, P sulla mediana AM con AB=CP, dimostrare che l'angolo CPB=90°*
 
-> Nel triangolo a angolo acuto $ABC$ abbiamo $AB < AC < BC$. Il punto medio di $BC$ è $M$. C'è un punto $P$ sul segmento di linea $AM$ tale che $AB = CP$ e $\angle PAB = \angle BCP$.
-> 
-> Prove che $\angle CPB = 90^\circ$.
+> In un triangolo acutangolo $ABC$ si ha $AB < AC < BC$. Il punto medio di $BC$ è $M$. Esiste un punto $P$ sul segmento di retta $AM$ tale che $AB = CP$ e $\angle PAB = \angle BCP$.
+>
+> Dimostrare che $\angle CPB = 90^\circ$.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_bmo_2024-25_round1#q04|src_bmo_2024-25_round1__Q04]]
 
 
 
@@ -153,9 +179,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Meno n non divisibile p; prova divisibilità per p*
+*Il più piccolo n non divisore di p; dimostrare la divisibilità per p*
 
-> Che $p$ sia un numero primo, e che $n$ sia il numero intero positivo più piccolo, strettamente maggiore di $1$, che non è un divisore di $p - 1$. Prova che $(n+1)^k - 1$ e $(n+1)^k - n$ sono divisibili da $p$ per un intero positivo $k$.
+> Sia $p$ un numero primo, e sia $n$ il più piccolo intero positivo, strettamente maggiore di $1$, che non sia un divisore di $p - 1$. Dimostrare che $(n+1)^k - 1$ e $(n+1)^k - n$ sono divisibili per $p$ per qualche intero positivo $k$.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo_2024-25_round1#q05|src_bmo_2024-25_round1__Q05]]
 
 
 
@@ -180,6 +212,12 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*4x4x4 cubo di zuccheri a 3 sapori; trovare 12 sapori identici in 9 coppie di distanza uguale*
+*Cubo 4×4×4 di cubetti di zucchero a 3 gusti; 12 dello stesso gusto in 9 coppie disgiunte*
 
-> Bjork ha cubetti di zucchero $64$, ciascuno di dimensioni $1 \times 1 \times 1$. Ogni cubo di zucchero ha un sapore bianco, demeraro o muscovado. Ha accumulato i cubetti di zucchero in un cubo $4 \times 4 \times 4$. Dovere che tra i cubetti i cui centri si trovano su una sottolattice allineata all'asse $1 \times 1 \times 1$ devono esistere cubetti di zucchero $12$ dello stesso sapore, che possono essere suddivisi in coppie disgiunte $9$ in modo che i cubetti di ciascuna coppia siano dello stesso colore.
+> Bjork ha $64$ cubetti di zucchero, ciascuno di dimensione $1 \times 1 \times 1$. Ogni cubetto di zucchero è bianco o demerara o muscovado. Li impila in un cubo $4 \times 4 \times 4$. Dimostrare che devono esistere $12$ cubetti di zucchero dello stesso gusto tra quelli i cui centri giacciono su un sottoreticolo $1 \times 1 \times 1$ allineato agli assi, che può essere suddiviso in $9$ coppie disgiunte in modo che i cubetti di ciascuna coppia siano dello stesso colore.
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+[[Quesiti/src_bmo_2024-25_round1#q06|src_bmo_2024-25_round1__Q06]]

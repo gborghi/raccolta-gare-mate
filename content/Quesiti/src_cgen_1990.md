@@ -12,167 +12,294 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_induzione,method_ricorsione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Integer sequence with recurrence; find zeros and a general term*
+*Suite d'entiers définie par u_0=0, u_{2n}=u_n et u_{2n+1}=1-u_n*
 
-> Let $(u_n)_{n \in \mathbb{N}}$ be the sequence of integers defined by:
-> $$\begin{cases} u_0 = 0 \text{ for every natural integer } n,\\ u_{2n} = u_n,\\ u_{2n+1} = 1 - u_n.\end{cases}$$
-> 
-> 1. Compute $u_{100}$.
-> 2. Determine the number of indices $n$, less than or equal to $1990$, such that $u_n = 0$.
-> 3. Let $p$ be an odd natural integer and $N = (2p-1)^2$. Compute $u_N$.
+> **Exercice I**
+>
+> Soit $(u_n)_{n \in \mathbb{N}}$ la suite de nombres entiers définie par $u_0 = 0$ et, pour tout entier naturel $n$,
+>
+> $$u_{2n} = u_n \quad \text{et} \quad u_{2n+1} = 1 - u_n.$$
+>
+> 1. Calculer $u_{1990}$.
+> 2. Déterminer le nombre d'indices $n$, inférieurs ou égaux à $1990$, tels que $u_n = 0$.
+> 3. Soit $p$ un entier naturel et $N = (2p - 1)^2$. Calculer $u_N$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]], [[topic_insiemi_funzioni|Ensembles et fonctions]]
+**Metodo:** [[method_induzione|Récurrence]], [[method_ricorsione|Récursion]], [[method_casework|Disjonction de cas]]
+**Abilita:** [[skill_riconoscimento_pattern|Reconnaissance de motifs]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_lettura_attenta|Lecture attentive]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza integrale con ricorrenza; trovare zero e termine generale*
+*Successione di interi definita da u_0=0, u_{2n}=u_n e u_{2n+1}=1-u_n*
 
-> $(u_n)_{n \in \mathbb{N}}$ sia la sequenza di integri definita da: $$\begin{cases} u_0 = 0 \text{ for every natural integer } n,\\ u_{2n} = u_n,\\ u_{2n+1} = 1 - u_n.\end{cases}$$
-> 
-> 1. Calcolare $u_{100}$. 2. Determinare il numero di indici $n$, inferiori o uguali a $1990$, in modo tale che $u_n = 0$. 3. $p$ sia un intero naturale parziale e $N = (2p-1)^2$. Calcolare $u_N$.
+> **Esercizio I**
+>
+> Sia $(u_n)_{n \in \mathbb{N}}$ la successione di interi definita da $u_0 = 0$ e, per ogni intero non negativo $n$,
+>
+> $$u_{2n} = u_n \quad \text{e} \quad u_{2n+1} = 1 - u_n.$$
+>
+> 1. Calcolare $u_{1990}$.
+> 2. Determinare il numero di indici $n$, minori o uguali a $1990$, tali che $u_n = 0$.
+> 3. Sia $p$ un intero non negativo e $N = (2p - 1)^2$. Calcolare $u_N$.
+
+[[Quesiti/src_cgen_1990#q01|src_cgen_1990__Q01]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Integer sequence defined by u_0=0, u_{2n}=u_n and u_{2n+1}=1-u_n*
+
+> **Exercise I**
+>
+> Let $(u_n)_{n \in \mathbb{N}}$ be the sequence of integers defined by $u_0 = 0$ and, for every nonnegative integer $n$,
+>
+> $$u_{2n} = u_n \quad \text{and} \quad u_{2n+1} = 1 - u_n.$$
+>
+> 1. Compute $u_{1990}$.
+> 2. Determine the number of indices $n$, less than or equal to $1990$, such that $u_n = 0$.
+> 3. Let $p$ be a nonnegative integer and $N = (2p - 1)^2$. Compute $u_N$.
+
+[[Quesiti/src_cgen_1990#q01|src_cgen_1990__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Max pieces of painted regular tetrahedra with no two identical*
+*Nombre maximal de tétraèdres réguliers peints avec n couleurs, à faces non nécessairement distinctes*
 
-> A game consists of pieces in the form of regular tetrahedra with edges of length $1$.
-> 
-> All pieces are painted with the help of a palette of $n$ colours: each face of a tetrahedron is painted in a single colour, and the four faces of a tetrahedron are not necessarily all of different colours.
-> 
-> Determine the maximum number of pieces in the game, knowing that the game contains no two identical pieces.
+> **Exercice II**
+>
+> Un jeu est constitué de pièces en forme de tétraèdres réguliers d'arêtes de longueur $1$.
+>
+> Toutes ces pièces ont été peintes à l'aide d'une palette de $n$ couleurs : chaque face d'un tétraèdre est peinte d'une seule couleur, et les quatre faces d'un tétraèdre ne sont pas nécessairement de couleurs distinctes.
+>
+> Déterminer le nombre maximum de pièces de ce jeu sachant que le jeu ne contient pas deux pièces identiques.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoire]]
+**Metodo:** [[method_casework|Disjonction de cas]], [[method_conteggio|Dénombrement]]
+**Abilita:** [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_astrazione|Abstraction]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximi pezzi di tetraedri regolari dipinti senza due identici*
+*Numero massimo di tetraedri regolari dipinti con n colori, facce non necessariamente distinte*
 
-> Un gioco è costituito da pezzi in forma di tetraedri regolari con bordi di lunghezza $1$.
-> 
-> Tutti i pezzi sono dipinti con l'aiuto di una palette di colori $n$: ogni faccia di un tetraedro è dipinta in un unico colore e le quattro facce di un tetraedro non sono necessariamente tutte di colori diversi.
-> 
-> Determinare il numero massimo di pezzi nel gioco, sapendo che non ci sono due pezzi identici.
+> **Esercizio II**
+>
+> Un gioco è fatto di pezzi a forma di tetraedri regolari di spigolo $1$.
+>
+> Tutti questi pezzi sono stati dipinti con una tavolozza di $n$ colori: ogni faccia di un tetraedro è dipinta di un solo colore, e le quattro facce di un tetraedro non sono necessariamente di colori distinti.
+>
+> Determinare il numero massimo di pezzi di questo gioco, sapendo che il gioco non contiene due pezzi identici.
+
+[[Quesiti/src_cgen_1990#q02|src_cgen_1990__Q02]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum number of regular tetrahedra painted with n colours, faces not necessarily distinct*
+
+> **Exercise II**
+>
+> A game consists of pieces in the shape of regular tetrahedra with edges of length $1$.
+>
+> All these pieces have been painted with a palette of $n$ colours: each face of a tetrahedron is painted a single colour, and the four faces of a tetrahedron are not necessarily of distinct colours.
+>
+> Determine the maximum number of pieces in this game, given that the game does not contain two identical pieces.
+
+[[Quesiti/src_cgen_1990#q02|src_cgen_1990__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Find distinct naturals satisfying two reciprocal-sum identities*
+*Écritures de 1/4 et de 1 comme sommes de trois ou n inverses de carrés*
 
-> 1. Find three distinct natural numbers $a, b, c$ (not necessarily distinct in value, but three specific numbers), such that:
+> **Exercice III**
+>
+> 1. Trouver trois entiers naturels $a$, $b$, $c$, distincts ou non, tels que
+>
 > $$\frac{1}{4} = \frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2}.$$
-> 
-> 2. Determine all $n$ natural numbers $x_1, x_2, \ldots, x_n$, distinct or not, verifying:
+>
+> 2. Déterminer tous les entiers naturels $n$ tels qu'il existe $n$ entiers naturels $x_1, x_2, \ldots, x_n$, distincts ou non, vérifiant
+>
 > $$1 = \frac{1}{x_1^2} + \frac{1}{x_2^2} + \cdots + \frac{1}{x_n^2}.$$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]], [[topic_algebra|Algèbre]]
+**Metodo:** [[method_casework|Disjonction de cas]], [[method_fattorizzazione|Factorisation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_lettura_attenta|Lecture attentive]], [[skill_conteggio_sistematico|Dénombrement systématique]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricercare naturali distinti che soddisfino due identità di somma reciproca*
+*Scrivere 1/4 e 1 come somme di tre o n reciproci di quadrati*
 
-> 1. Trovare tre numeri naturali distinti $a, b, c$ (non necessariamente distinti in valore, ma tre numeri specifici), in modo tale che: $$\frac{1}{4} = \frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2}.$$
-> 
-> 2. Determinare tutti i numeri naturali $n$ $x_1, x_2, \ldots, x_n$, distinti o meno, verificando: $$1 = \frac{1}{x_1^2} + \frac{1}{x_2^2} + \cdots + \frac{1}{x_n^2}.$$
+> **Esercizio III**
+>
+> 1. Trovare tre interi non negativi $a$, $b$, $c$, distinti o no, tali che
+>
+> $$\frac{1}{4} = \frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2}.$$
+>
+> 2. Determinare tutti gli interi non negativi $n$ tali che esistano $n$ interi non negativi $x_1, x_2, \ldots, x_n$, distinti o no, che verificano
+>
+> $$1 = \frac{1}{x_1^2} + \frac{1}{x_2^2} + \cdots + \frac{1}{x_n^2}.$$
+
+[[Quesiti/src_cgen_1990#q03|src_cgen_1990__Q03]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Writing 1/4 and 1 as sums of three or n reciprocals of squares*
+
+> **Exercise III**
+>
+> 1. Find three nonnegative integers $a$, $b$, $c$, distinct or not, such that
+>
+> $$\frac{1}{4} = \frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2}.$$
+>
+> 2. Determine all nonnegative integers $n$ such that there exist $n$ nonnegative integers $x_1, x_2, \ldots, x_n$, distinct or not, satisfying
+>
+> $$1 = \frac{1}{x_1^2} + \frac{1}{x_2^2} + \cdots + \frac{1}{x_n^2}.$$
+
+[[Quesiti/src_cgen_1990#q03|src_cgen_1990__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_geometria_piana,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Max area of triangle inscribed in square; max volume of tetrahedron in cube*
+*Aire maximale d'un triangle inscrit dans un carré, volume maximal d'un tétraèdre inscrit dans un cube*
 
-> 1. What is the maximum area of a triangle whose vertices all lie in a given square?
-> 
-> 2. What is the maximum volume of a tetrahedron whose vertices all lie in a given cube?
+> **Exercice IV**
+>
+> 1. Quelle est l'aire maximale d'un triangle dont les sommets sont dans un carré donné ?
+> 2. Quel est le volume maximal d'un tétraèdre dont les sommets sont dans un cube donné ?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Géométrie dans l'espace]], [[topic_geometria_piana|Géométrie plane]]
+**Metodo:** [[method_estremalita|Extrémalité]], [[method_simmetria|Symétrie]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_modellizzazione|Modélisation]], [[skill_stima|Estimation]]
+**Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area massima del triangolo inserito in quadrato; il volume massimo del tetraedro in cubo*
+*Area massima di un triangolo con vertici in un quadrato, volume massimo di un tetraedro con vertici in un cubo*
 
-> 1. Qual è la superficie massima di un triangolo le cui vertici si trovano tutti in un determinato quadrato?
-> 
-> 2. Qual è il volume massimo di un tetraedro il cui vertice si trovano tutti in un determinato cubo?
+> **Esercizio IV**
+>
+> 1. Qual è l'area massima di un triangolo i cui vertici stanno in un quadrato dato?
+> 2. Qual è il volume massimo di un tetraedro i cui vertici stanno in un cubo dato?
+
+[[Quesiti/src_cgen_1990#q04|src_cgen_1990__Q04]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum area of a triangle with vertices in a square, maximum volume of a tetrahedron with vertices in a cube*
+
+> **Exercise IV**
+>
+> 1. What is the maximum area of a triangle whose vertices lie in a given square?
+> 2. What is the maximum volume of a tetrahedron whose vertices lie in a given cube?
+
+[[Quesiti/src_cgen_1990#q04|src_cgen_1990__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,topic_insiemi_funzioni,method_estremalita,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Triangle with incircle: area, perimeter, angle; existence and approximation*
+*Aire maximale délimitée par un cercle exinscrit, à périmètre fixé*
 
-> For every triangle $ABC$, denote by:
-> - $\Gamma$ the circle inscribed in the angle at vertex $A$;
-> - $A'$, $B'$, $C'$ the points of tangency of $\Gamma$ with the lines $(BC)$, $(CA)$, and $(AB)$ respectively;
-> - $FS(ABC)$ the area of the portion of the plane delimited by the segments $[AB]$, $[AC]$, and the arc $\widehat{C'A'B'}$ of $\Gamma$.
-> 
-> (See the figure on the following page.)
-> 
-> Show that there exist triangles $ABC$ of given perimeter $2p$ for which the area $S(ABC)$ is maximal.
-> 
-> For such a triangle, give an approximate value, to the nearest degree, of the measure of angle $A$ of triangle $ABC$.
+> **Exercice V**
+>
+> Pour tout triangle $ABC$, on note :
+>
+> - $\Gamma$ son cercle exinscrit dans l'angle de sommet $A$ ;
+> - $A'$, $B'$, $C'$ les points de contact respectifs de $\Gamma$ avec les droites $(BC)$, $(CA)$ et $(AB)$ ;
+> - $S(ABC)$ l'aire de la portion du plan délimitée par les segments $[AB']$, $[AC']$ et l'arc $\overset{\frown}{C'A'B'}$ de $\Gamma$.
+>
+> Montrer qu'il existe des triangles $ABC$, de périmètre $2p$ donné, pour lesquels l'aire $S(ABC)$ est maximale.
+>
+> Pour un tel triangle, donner une valeur approchée, à un degré près, de la mesure de l'angle en $A$.
 
 ![[src_cgen_1990__q05.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_trigonometria|Trigonométrie]], [[topic_insiemi_funzioni|Ensembles et fonctions]]
+**Metodo:** [[method_estremalita|Extrémalité]], [[method_trigonometria|Trigonométrie]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_modellizzazione|Modélisation]], [[skill_stima|Estimation]], [[skill_manipolazione_algebrica|Manipulation algébrique]]
+**Area:** [[Geometria|Géométrie]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con incircolo: superficie, perimetro, angolo; esistenza e approssimazione*
+*Area massima delimitata da un cerchio exinscritto, a perimetro fissato*
 
-> Per ogni triangolo $ABC$, indicare: - $\Gamma$ il cerchio inserito nell'angolo al vertice $A$; - $A'$, $B'$, $C'$ i punti di tangenza di $\Gamma$ con rispettivamente le linee $(BC)$, $(CA)$ e $(AB)$; - $FS(ABC)$ l'area della parte del piano delimitata dai segmenti $[AB]$, $[AC]$ e l'arco $\widehat{C'A'B'}$ di $\Gamma$.
-> 
-> (Vedi la figura della pagina seguente.)
-> 
-> Indicare che esistono triangoli $ABC$ di un determinato perimetro $2p$ per i quali l'area $S(ABC)$ è massima.
-> 
-> Per tale triangolo, indicare un valore approssimativo, al grado più vicino, della misura dell'angolo $A$ del triangolo $ABC$.
+> **Esercizio V**
+>
+> Per ogni triangolo $ABC$ si indichi:
+>
+> - con $\Gamma$ il cerchio exinscritto nell'angolo di vertice $A$;
+> - con $A'$, $B'$, $C'$ i punti di contatto rispettivi di $\Gamma$ con le rette $(BC)$, $(CA)$ e $(AB)$;
+> - con $S(ABC)$ l'area della porzione di piano delimitata dai segmenti $[AB']$, $[AC']$ e dall'arco $\overset{\frown}{C'A'B'}$ di $\Gamma$.
+>
+> Dimostrare che esistono triangoli $ABC$, di perimetro dato $2p$, per i quali l'area $S(ABC)$ è massima.
+>
+> Per un tale triangolo, dare un valore approssimato, a meno di un grado, della misura dell'angolo in $A$.
 
 ![[src_cgen_1990__q05.png]]
+
+[[Quesiti/src_cgen_1990#q05|src_cgen_1990__Q05]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Maximum area cut off by an excircle, for a given perimeter*
+
+> **Exercise V**
+>
+> For every triangle $ABC$, denote:
+>
+> - by $\Gamma$ its excircle in the angle at the vertex $A$;
+> - by $A'$, $B'$, $C'$ the respective points of tangency of $\Gamma$ with the lines $(BC)$, $(CA)$ and $(AB)$;
+> - by $S(ABC)$ the area of the region bounded by the segments $[AB']$, $[AC']$ and the arc $\overset{\frown}{C'A'B'}$ of $\Gamma$.
+>
+> Prove that there exist triangles $ABC$ of given perimeter $2p$ for which the area $S(ABC)$ is maximal.
+>
+> For such a triangle, give an approximate value, to the nearest degree, of the measure of the angle at $A$.
+
+![[src_cgen_1990__q05.png]]
+
+[[Quesiti/src_cgen_1990#q05|src_cgen_1990__Q05]]

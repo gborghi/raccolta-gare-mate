@@ -29,9 +29,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di N con p(n)>2 per tutte le n>N, funzione di potenza*
+*Esistenza di N tale che p(n)>2 per ogni n>N, funzione di potenza*
 
-> $p$ è la funzione *potenza* di interi positivi, definita da $p(1)=1$ e $p(n+1)=p(n)$ se $n+1$ è una potenza perfetta, e $p(n+1)=(n+1)\cdot p(n)$ altrimenti. Un intero positivo $n$ è un *potenza perfetta* se esistono integri $a,b\ge 2$ tali da $n=a^b$. Esiste un intero positivo $N$ tale da $p(n)>2^n$ per tutti $n>N$? Prova la tua risposta.
+> Sia $p$ la *funzione di potenza* degli interi positivi, definita da $p(1)=1$ e $p(n+1)=p(n)$ se $n+1$ è una potenza perfetta, e da $p(n+1)=(n+1)\cdot p(n)$ altrimenti. Un intero positivo $n$ è una *potenza perfetta* se esistono interi $a,b\ge 2$ tali che $n=a^b$. Esiste un intero positivo $N$ tale che $p(n)>2^n$ per tutti gli $n>N$? Dimostra la tua risposta.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2023_nu_fx#q01|src_obm_2023_nu_fx__Q01]]
 
 
 
@@ -58,13 +65,20 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Serie di potenza che soddisfano un'equazione differenziale; valutare una serie*
+*Serie di potenze che soddisfano un'equazione differenziale; valutare una serie*
 
-> Let $a_n = \dfrac{1}{\binom{2n}{n}}$ per tutti $n \ge 1$.
-> 
-> a) Prove che $\displaystyle\sum_{n=0}^{\infty} a_n x^n$ converge per tutti $x \in (-4,4)$ e che la funzione $f(x)=\displaystyle\sum_{n=0}^{\infty} a_n x^n$ soddisfa l'equazione differenziale $x(x-4)f''(x)+(x+2)f(x)=-x$.
-> 
-> b) Prove che $\displaystyle\sum_{n=1}^{\infty} \frac{1}{n\binom{2n}{n}} = \frac{1}{3} + \frac{2\pi\sqrt{3}}{27}$.
+> Sia $a_n = \dfrac{1}{\binom{2n}{n}}$ per tutti gli $n \ge 1$.
+>
+> (a) Dimostrare che $\displaystyle\sum_{n=0}^{\infty} a_n x^n$ converge per ogni $x \in (-4,4)$ e che la funzione $f(x)=\displaystyle\sum_{n=0}^{\infty} a_n x^n$ soddisfa l'equazione differenziale $x(x-4)f''(x)+(x+2)f(x)=-x$.
+>
+> (b) Dimostrare che $\displaystyle\sum_{n=1}^{\infty} \frac{1}{n\binom{2n}{n}} = \frac{1}{3} + \frac{2\pi\sqrt{3}}{27}$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2023_nu_fx#q02|src_obm_2023_nu_fx__Q02]]
 
 
 
@@ -88,9 +102,17 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Constante C>0 che limita una somma di radici k-th su log x*
+*Costante C>0 che delimita una somma di radici k-esime rispetto a log x*
 
-> Prove che esiste una costante $C>0$ tale che, per qualsiasi numero intero $m,n$ con $n\ge 2m>1$ e qualsiasi numero reale $x>1$, $$\sum_{k=m}^{n} \sqrt[k]{x} \le C\left(\frac{m^2 - \sqrt[m]{x}}{\log x} + n\right).$$
+> Dimostrare che esiste una costante $C>0$ tale che, per qualsiasi intero $m,n$ con $n\ge 2m>1$ e per qualsiasi numero reale $x>1$,
+> $$\sum_{k=m}^{n} \sqrt[k]{x} \le C\left(\frac{m^2 - \sqrt[m]{x}}{\log x} + n\right).$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2023_nu_fx#q03|src_obm_2023_nu_fx__Q03]]
 
 
 
@@ -116,9 +138,19 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Matrice invertibile C in M_2(Z) con le formule CAC^{-1} indicate*
+*Matrice invertibile C in M_2(Z) con forme CAC^{-1} date*
 
-> $M_2(\mathbb{Z})$ sia l'insieme di matrici $2\times 2$ con voci interi. Il $A\in M_2(\mathbb{Z})$ deve essere tale che $$A^2+5I=0,$$, dove $I\in M_2(\mathbb{Z})$ e $0\in M_2(\mathbb{Z})$ indichino rispettivamente le matrici di identità e zero. Prova che esiste una matrice invertibile $C\in M_2(\mathbb{Z})$ con $C^{-1}\in M_2(\mathbb{Z})$ tale che $$CAC^{-1}=\begin{pmatrix}1&2\\-3&-1\end{pmatrix}\quad\text{or}\quad CAC^{-1}=\begin{pmatrix}0&1\\-5&0\end{pmatrix}.$$
+> Sia $M_2(\mathbb{Z})$ l'insieme delle matrici $2\times 2$ a coefficienti interi. Sia $A\in M_2(\mathbb{Z})$ tale che
+> $$A^2+5I=0,$$
+> dove $I\in M_2(\mathbb{Z})$ e $0\in M_2(\mathbb{Z})$ denotano rispettivamente la matrice identità e la matrice nulla. Dimostrare che esiste una matrice invertibile $C\in M_2(\mathbb{Z})$ tale che $C^{-1}\in M_2(\mathbb{Z})$, con
+> $$CAC^{-1}=\begin{pmatrix}1&2\\-3&-1\end{pmatrix}\quad\text{or}\quad CAC^{-1}=\begin{pmatrix}0&1\\-5&0\end{pmatrix}.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2023_nu_fx#q04|src_obm_2023_nu_fx__Q04]]
 
 
 
@@ -143,9 +175,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cavaliere ubriaco su una tavola infinita; la probabilità di raggiungere una cellula specifica dopo il 2023 si muove*
+*Cavaliere ubriaco su una scacchiera infinita; probabilità di raggiungere una casella specifica dopo 2023 mosse*
 
-> Un cavaliere ubriaco si muove su una tavola infinita i cui quadrati sono etichettati con coppie $(a,b)\in\mathbb{Z}^2$. A ciascuna mossa, le 8 possibilità $$(a,b)\to(a\pm 1,\, b\pm 2),\qquad (a,b)\to(a\pm 2,\, b\pm 1)$$ sono ugualmente probabili. Sapendo che il cavaliere inizia a $(0,0)$, calcola la probabilità che dopo $2023$ si muova sia a un quadrato $(a,b)$ con $a\equiv 4\pmod{8}$ e $b\equiv 5\pmod{8}$.
+> Un cavaliere ubriaco si muove su una scacchiera infinita le cui caselle sono etichettate da coppie $(a,b)\in\mathbb{Z}^2$. A ogni mossa, le 8 possibilità
+> $$(a,b)\to(a\pm 1,\, b\pm 2),\qquad (a,b)\to(a\pm 2,\, b\pm 1)$$
+> Sono ugualmente probabili. Sapendo che il cavallo parte da $(0,0)$, calcola la probabilità che, dopo $2023$ mosse, si trovi su una casella $(a,b)$ con $a\equiv 4\pmod{8}$ e $b\equiv 5\pmod{8}$.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2023_nu_fx#q05|src_obm_2023_nu_fx__Q05]]
 
 
 
@@ -169,6 +210,14 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le coppie (c,d) in R^2 in modo tale che esista una sequenza con una data ricorrenza di reali positivi*
+*Trovare tutte le coppie (c,d) in R^2 tali che esista una successione di numeri reali positivi con la data relazione di ricorrenza*
 
-> Determinare tutte le coppie $(c,d)\in\mathbb{R}^2$ di costanti reali in modo tale che esista una sequenza $(a_n)_{n\ge 1}$ di numeri reali positivi che soddisfi, per tutte $n\ge 1$, $$a_n \ge c\cdot a_{n+1} + d\cdot\sum_{1\le j < n} a_j.$$
+> Determinare tutte le coppie $(c,d)\in\mathbb{R}^2$ di costanti reali tali che esista una successione $(a_n)_{n\ge 1}$ di numeri reali positivi che soddisfi, per ogni $n\ge 1$,
+> $$a_n \ge c\cdot a_{n+1} + d\cdot\sum_{1\le j < n} a_j.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2023_nu_fx#q06|src_obm_2023_nu_fx__Q06]]

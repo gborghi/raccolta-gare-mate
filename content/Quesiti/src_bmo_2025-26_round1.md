@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Sequenza di rampa: prove p^n espressibile come somma di una rampa
+*Sequenza a rampa: dimostrare che p^n è esprimibile come somma di una rampa*
 
-> Una rampa è una sequenza di tre diversi integri positivi $a, b, c$ in modo tale che $a$ è un fattore di $b$ e $b$ è un fattore di $c$. Per ogni numero primo $p$ e per ogni numero intero positivo $n$, determinare con prova se $p^n$ può essere espresso come la somma di una rampa.
+> Una rampa è una sequenza di tre numeri interi positivi distinti $a, b, c$ tali che $a$ è un divisore di $b$ e $b$ è un divisore di $c$. Per ogni numero primo $p$ e per ogni numero intero positivo $n$, determina, fornendo una dimostrazione, se $p^n$ può essere espresso come somma di una rampa.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2025-26_round1#q01|src_bmo_2025-26_round1__Q01]]
 
 
 
@@ -55,9 +62,17 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli reali che soddisfano due equazioni simmetriche*
+*Trovare tutte le terne reali che soddisfano due equazioni simmetriche*
 
-> Trova tutti i triples $(x, y, z)$ dei numeri reali che soddisfano le equazioni $$x^2 + 2yz = 4, \quad y^2 + 2zx = 4, \quad z^2 + 2xy = 4.$$
+> Trovare tutte le terne $(x, y, z)$ di numeri reali che soddisfano le equazioni
+> $$x^2 + 2yz = 4, \quad y^2 + 2zx = 4, \quad z^2 + 2xy = 4.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2025-26_round1#q02|src_bmo_2025-26_round1__Q02]]
 
 
 
@@ -84,13 +99,20 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimassaggio 11×11 grid tagliato in pezzi a forma di L, quadrato unico nella riga 3 col 3*
+*Rimonta una griglia 11×11 tagliata in pezzi a forma di L; un singolo quadrato nella riga 3, colonna 3*
 
-> Una griglia $11 \times 11$ è dissecata in 11 pezzi come segue. A ogni passo, rimuovere la riga superiore e la colonna più sinistra della griglia rimanente come singolo pezzo. Pertanto, i pezzi ottenuti sono a forma di L con dimensioni $19, 17, \ldots, 3$, insieme ad un singolo quadrato.
-> 
-> I pezzi sono riordinati per riassemblare una griglia $11 \times 11$, con rotazioni consentite (ma i pezzi non possono essere girati) in modo che il singolo quadrato occupi la cella nella terza riga e nella terza colonna (contando dall'alto a sinistra).
-> 
-> Quanti modi si possono fare?
+> Una griglia $11 \times 11$ viene suddivisa in 11 pezzi nel modo seguente. A ogni passo, si rimuovono come un unico pezzo la riga superiore e la colonna più a sinistra della griglia rimanente. Pertanto, i pezzi ottenuti sono a forma di L e hanno dimensioni $19, 17, \ldots, 3$, insieme a un unico quadrato.
+>
+> I pezzi vengono riorganizzati per ricomporre una griglia $11 \times 11$, con permesso di ruotarli (ma i pezzi non possono essere capovolti), in modo che l'unico quadrato occupi la cella nella terza riga e nella terza colonna (contando a partire dall'angolo in alto a sinistra).
+>
+> In quanti modi si può procedere in questo modo?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2025-26_round1#q03|src_bmo_2025-26_round1__Q03]]
 
 
 
@@ -115,11 +137,18 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto con tangenze di cerchio di punto medio: dimostrare MA·MD = MB·MC*
+*Triangolo acuto con tangenze della circonferenza dei punti medi: dimostrare che MA·MD = MB·MC*
 
-> Il $ABC$ deve essere un triangolo acuto con $AB > AC$. $M$ sia il punto medio di $BC$. Il cerchio che attraversa $M$ che è tangente a $AB$ a $B$ e il cerchio che attraversa $M$ che è tangente a $AC$ a $C$ si intersecano di nuovo a $D$.
-> 
-> Prove che $MA \times MD = MB \times MC$.
+> Sia $ABC$ un triangolo acutangolo con $AB > AC$. Sia $M$ il punto medio di $BC$. La circonferenza passante per $M$ e tangente a $AB$ in $B$, e la circonferenza passante per $M$ e tangente a $AC$ in $C$, si intersecano nuovamente in $D$.
+>
+> Dimostrare che $MA \times MD = MB \times MC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2025-26_round1#q04|src_bmo_2025-26_round1__Q04]]
 
 
 
@@ -151,13 +180,23 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di numeri interi con regole di parità: contiene tutti i numeri interi positivi?*
+*Successione di interi con regole di parità: contiene ogni intero positivo?*
 
-> George definisce una sequenza di enti $t_1, t_2, t_3, \ldots$ come segue.
-> 
-> In primo luogo impone $t_1 = 1$. Quindi, per $n \ge 1$: \begin{itemize} \item Se $t_n$ è pari, allora $t_{n+1} = t_n / 2$. \item Se $t_n$ è pari e superiore a 1, allora $t_{n+1} = t_n / 3$ arrotondato al numero intero più vicino. \item Se $t_n = 1$, allora $t_{n+1} = 2025k$ dove $k$ è il numero di termini uguali a 1 tra $t_1, t_2, \ldots, t_n$. # Finire #
-> 
-> Questa sequenza contiene tutti i numeri interi positivi?
+> George definisce una successione di interi $t_1, t_2, t_3, \ldots$ nel modo seguente.
+>
+> In primo luogo, imposta $t_1 = 1$. Poi, per $n \ge 1$:
+> \begin{itemize}
+> \item Se $t_n$ è pari, allora $t_{n+1} = t_n / 2$. \item Se $t_n$ è dispari e maggiore di 1, allora $t_{n+1} = t_n / 3$ arrotondato all'intero più vicino. \item Se $t_n = 1$, allora $t_{n+1} = 2025k$, dove $k$ è il numero di termini uguali a 1 tra $t_1, t_2, \ldots, t_n$.
+> \end{itemize}
+>
+> Questa successione contiene ogni numero intero positivo?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2025-26_round1#q05|src_bmo_2025-26_round1__Q05]]
 
 
 
@@ -188,14 +227,21 @@ Sequenza di rampa: prove p^n espressibile come somma di una rampa
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rana su 1000 lampadine in cerchio: trovare n per cui rimane una rana*
+*Rane su 1000 ninfee disposte in cerchio: trova n per cui rimane una rana*
 
-> Ci sono 1000 lampadine di lirio su un stagno disposte in cerchio e etichettate in ordine $1, 2, \ldots, 1000$. (I primi quattro blocchi di lilia possono essere descritti anche utilizzando rispettivamente le etichette 1001, 1002, 1003 e 1004).
-> 
-> Ogni minuto, esattamente una delle rane fa una mossa. Supponiamo che la rana sia su un lampadino. La rana può:
-> 
-> (i) Nuotare su un lampadino $k + 4$ o $k - 4$, purché non sia occupato; o
-> 
-> (ii) Salta al lily pad $k + 3$ o $k - 3$ purché questo lily pad non sia occupato e i due lily pad saltati siano entrambi occupati. Quando questo accade, le due rane che sono state saltate si immergono nel lago e non partecipano a ulteriori mosse.
-> 
-> Per quali valori di $n$ è possibile, mediante una sequenza di mosse, concludere con esattamente una rana rimasta sui pad del lilio?
+> In uno stagno ci sono 1000 ninfee disposte in cerchio e numerate in ordine da $1, 2, \ldots, 1000$. (Le prime quattro ninfee possono anche essere indicate rispettivamente con i numeri 1001, 1002, 1003 e 1004.) Sulle prime $n$ ninfee c'è una rana ciascuna, mentre le restanti ninfee sono libere.
+>
+> Ogni minuto, esattamente una delle rane compie una mossa. Supponiamo che la rana si trovi sulla ninfea $k$. Tale rana può:
+>
+> (i) nuotare verso la ninfea $k + 4$ o $k - 4$, a condizione che non sia occupata; oppure
+>
+> (ii) saltare sulla ninfea $k + 3$ o $k - 3$, a condizione che questa ninfea non sia occupata e che le due ninfee scavalcate siano entrambe occupate. Quando ciò accade, le due rane che si trovavano sulle ninfee scavalcate si tuffano nello stagno e non partecipano ad alcuna ulteriore mossa.
+>
+> Per quali valori di $n$ è possibile, mediante una sequenza di mosse, arrivare a avere esattamente una rana rimasta sulle ninfee?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2025-26_round1#q06|src_bmo_2025-26_round1__Q06]]

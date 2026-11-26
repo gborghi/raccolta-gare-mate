@@ -31,11 +31,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di e^{x/e}-x; confronta e^pi e pi^e*
+*Valore minimo di e^{x/e}-x; confronta e^pi e pi^e*
 
-> (a) Trovare il valore minimo della funzione $f:\mathbb{R}\to\mathbb{R}$ data da $f(x)=e^{(x/e)}-x$ (qui $e=2{,}71828\ldots$ è la base del logaritmo naturale).
-> 
-> b) Quale di questi numeri è più grande: $e^\pi$ o $\pi^e$?
+> (a) Trova il valore minimo della funzione $f:\mathbb{R}\to\mathbb{R}$ data da $f(x)=e^{(x/e)}-x$ (qui $e=2{,}71828\ldots$ è la base del logaritmo naturale).
+>
+> (b) Quale di questi numeri è maggiore: $e^\pi$ o $\pi^e$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n1_f1#q01|src_obm_2009_n1_f1__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio monico di grado 2 le cui radici sono periodi di Gauss di una radice primitiva di unità VII; calcolare p(3)*
+*Polinomio monico di secondo grado i cui zeri sono i periodi di Gauss di una radice primitiva settima dell'unità; calcola p(3)*
 
-> Si deve $\zeta\in\mathbb{C}$ essere una radice di $x^7-1$ con $\zeta\neq 1$. Esiste un polinomio monico $p$ di grado $2$ con coefficienti interi le cui radici sono i numeri $z_1=\zeta+\zeta^2+\zeta^4$ e $z_2=\zeta^3+\zeta^5+\zeta^6$. Calcolare $p(3)$.
+> Sia $\zeta\in\mathbb{C}$ una radice di $x^7-1$ con $\zeta\neq 1$. Esiste un polinomio monico $p$ di grado $2$ a coefficienti interi i cui zeri sono i numeri $z_1=\zeta+\zeta^2+\zeta^4$ e $z_2=\zeta^3+\zeta^5+\zeta^6$. Calcola $p(3)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n1_f1#q02|src_obm_2009_n1_f1__Q02]]
 
 
 
@@ -87,13 +101,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Frog cammino casuale su triangolo equilaterale: limite di probabilità di ritorno e esistenza di p con P_n=1/pi*
+*Cammino aleatorio della rana sul triangolo equilatero: limite della probabilità di ritorno ed esistenza di p tale che P_n=1/pi*
 
-> La rana Dõ riposa al vertice $A$ di un triangolo equilaterale $ABC$. A ogni minuto la rana salta dal vertice dove si trova ad un vertice adiacente, con probabilità $p$ che il salto sia in senso orario e $1-p$ che sia in senso contrario, dove $p\in(0,1)$ è una costante. Che $P_n$ sia la probabilità che, dopo $n$ salti, Dõ sia di nuovo al vertice $A$.
-> 
-> (a) Dimostra che, qualunque sia il $p\in(0,1)$, $\lim_{n\to\infty}P_n=1/3$.
-> 
-> b) dimostrare l'esistenza di $p\in(0,1/100)$ tale che, per alcuni $n\in\mathbb{N}$, $P_n=1/\pi$.
+> La rana Dõ riposa nel vertice $A$ di un triangolo equilatero $ABC$. Ogni minuto, la rana salta dal vertice in cui si trova a un vertice adiacente, con probabilità $p$ che il salto avvenga in senso orario e probabilità $1-p$ che avvenga in senso antiorario, dove $p\in(0,1)$ è una costante. Sia $P_n$ la probabilità che, dopo $n$ salti, Dõ si trovi di nuovo nel vertice $A$.
+>
+> (a) Dimostrare che, qualunque sia $p\in(0,1)$, $\lim_{n\to\infty}P_n=1/3$.
+>
+> (b) Dimostrare che esiste $p\in(0,1/100)$ tale che, per qualche $n\in\mathbb{N}$, $P_n=1/\pi$.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n1_f1#q03|src_obm_2009_n1_f1__Q03]]
 
 
 
@@ -116,9 +137,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contate i numeri interi positivi n <= 31! con 3^n + n divisibile per 31*
+*Conta gli interi positivi n ≤ 31! tali che 3^n + n sia divisibile per 31*
 
-> Determinare il numero di integri positivi $n$ inferiori o uguali a $31!$ in modo tale che $3^n+n$ sia divisibile da $31$.
+> Determinare il numero di interi positivi $n$ minori o uguali a $31!$ tali che $3^n+n$ sia divisibile per $31$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n1_f1#q04|src_obm_2009_n1_f1__Q04]]
 
 
 
@@ -145,9 +173,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinante 4x4 di circolante = f(1) f(i) f(-1) f(-i)*
+*Il determinante di una matrice circolante 4x4 è uguale a f(1)f(i)f(-1)f(-i)*
 
-> Dati i numeri reali $a,b,c,d$, considera la matrice $$A=\begin{pmatrix}a&b&c&d\\d&a&b&c\\c&d&a&b\\b&c&d&a\end{pmatrix}.$$ Se $f(x)=a+bx+cx^2+dx^3$, prova che $$\det A=f(1)\,f(i)\,f(-1)\,f(-i).$$ (Qui $i$ indica l'unità immaginaria.)
+> Dati i numeri reali $a,b,c,d$, si consideri la matrice
+> $$A=\begin{pmatrix}a&b&c&d\\d&a&b&c\\c&d&a&b\\b&c&d&a\end{pmatrix}.$$
+> Se $f(x)=a+bx+cx^2+dx^3$, dimostrare che
+> $$\det A=f(1)\,f(i)\,f(-1)\,f(-i).$$
+> (Qui $i$ denota l'unità immaginaria.)
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n1_f1#q05|src_obm_2009_n1_f1__Q05]]
 
 
 
@@ -173,6 +212,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricorrenza di convoluzione con a_0=0, a_1=pi/3; calcolare la somma di a_k/2^k*
+*Ricorrenza di convoluzione con a_0=0, a_1=pi/3; calcola la somma di a_k/2^k*
 
-> Considera la sequenza $a_0,a_1,a_2,\ldots$ definita da $a_0=0$, $a_1=\pi/3$ e, per $n\geq 1$, $$a_{n+1}=\frac{\pi\,(a_0 a_n+a_1 a_{n-1}+a_2 a_{n-2}+\cdots+a_n a_0)}{3(n+1)}.$$ Calcolo $$\sum_{k=0}^{\infty}\frac{a_k}{2^k}=a_0+\frac{a_1}{2}+\frac{a_2}{4}+\frac{a_3}{8}+\cdots.$$
+> Si consideri la successione $a_0,a_1,a_2,\ldots$ definita da $a_0=0$, $a_1=\pi/3$ e, per $n\geq 1$,
+> $$a_{n+1}=\frac{\pi\,(a_0 a_n+a_1 a_{n-1}+a_2 a_{n-2}+\cdots+a_n a_0)}{3(n+1)}.$$
+> Calcola
+> $$\sum_{k=0}^{\infty}\frac{a_k}{2^k}=a_0+\frac{a_1}{2}+\frac{a_2}{4}+\frac{a_3}{8}+\cdots.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n1_f1#q06|src_obm_2009_n1_f1__Q06]]

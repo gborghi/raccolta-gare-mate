@@ -35,17 +35,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of the rhombus given an envelope with sides 12 and 16*
+*Rhombus side, envelope data with sides 12 and 16*
 
 ![[src_kangourou_2015_squadre_a__prob1.png]]
 
-> The envelope   
->         The figure shows how, by suitably folding 
-> a sheet of paper in the shape of a rhombus, one can obtain an envelope. If the 
-> sides of the envelope thus obtained are 12 and 16 cm long, how many 
-> centimetres long is the side of the rhombus?
+> Envelope The figure shows how a envelope can be made by appropriately folding a diamond-shaped sheet of paper. If the sides of the envelope thus obtained are 12 cm and 16 cm long, how many centimeters long is the side of the diamond?
 
-**Answer:** 20
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_squadre_a#q01|src_kangourou_2015_squadre_a__Q01]]
 
 
 
@@ -71,11 +71,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiple of 9 with four distinct odd digits*
+*Multiples of 9 with four distinct odd digits*
 
-> Four odd digits How many multiples (positive integers) of 9 are there whose writing consists of four odd digits all different from each other?
+> Four Odd Digits How many (positive integer) multiples of 9 are there whose representation consists of four odd digits, all of which are different from one another?
 
-**Answer:** 24
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_squadre_a#q02|src_kangourou_2015_squadre_a__Q02]]
 
 
 
@@ -102,11 +107,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum and maximum number of sides of a polygon with angles 168/169*
+*Minimum and maximum number of sides of a polygon, angles 168/169*
 
-> The angles of the polygon For a polygon consider the following property (P): each of its internal angles measures 168 or 169 degrees. Write in the order the minimum and maximum number of sides for a polygon having the property (P). Write 0000 if there are no polygons with the property (P).
+> Angles of the polygon For a polygon, consider the following property (P): each of its interior angles measures 168 or 169 degrees. In order, write the minimum and maximum possible numbers of sides for a polygon having property (P). Write 0000 if no polygons have property (P).
 
-**Answer:** 3032
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_squadre_a#q03|src_kangourou_2015_squadre_a__Q03]]
 
 
 
@@ -138,13 +148,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measuring angle ABC with bisector and angle condition*
+*Measure angle ABC with an angle bisector and angle condition*
 
 ![[src_kangourou_2015_squadre_a__prob4.png]]
 
-> The triangle Observe the figure (which does not necessarily respect the data, it is only indicative). The triangles ABC and AXY are right-angled at C and Y respectively, the segments AX and BX have the same length, the segment AX bisects the BAC angle and the measure of the angle AXY is 7 times that of the angle XBC. What is the measure in degrees of the angle ABC?
+> The Triangle Observe the figure (it does not necessarily reflect the given data; it is merely illustrative). Triangles ABC and AXY are right-angled at C and Y, respectively; segments AX and BX have the same length; segment AX bisects angle BAC; and the measure of angle AXY is 7 times the measure of angle XBC. What is the measure, in degrees, of angle ABC?
 
-**Answer:** 36
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_squadre_a#q04|src_kangourou_2015_squadre_a__Q04]]
 
 
 
@@ -172,11 +187,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ways of composing two teams from 6 pairs of twins*
+*Ways of forming two teams of 6 pairs of twins each*
 
-> Twins in a race A weird class is made up of six pairs of twins. The 12 students are to be split into two teams of six elements each, who will compete in a competition, so that no team has among its members both a student and his twin. How many different ways can the two teams be composed?
+> Twins in a Competition A peculiar class consists of 6 pairs of twins. The 12 students must be divided into two teams of 6 members each, and the teams will compete in a contest in such a way that neither team includes both a student and that student's twin. In how many different ways can the two teams be formed?
 
-**Answer:** 32
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_squadre_a#q05|src_kangourou_2015_squadre_a__Q05]]
 
 
 
@@ -203,11 +223,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max side of square tablet in ring of radius 8*
+*Largest square tablet in a ring of radius 8*
 
-> Using his jigsaw, Joseph can manufacture square wooden tablets of any size (reasonable), provided the side measures an integer number of centimeters. One of these tablets must be inserted inside a circular metal ring with a radius of 8 cm. How many centimeters is the side of the largest tablet Joseph can make for the purpose?
+> Giuseppe's Squares Using his punching game, Giuseppe can manufacture square wooden boards of any (reasonable) size, provided that the side measures an integer number of centimeters. One of these boards must be placed inside a circular metal ring with a radius of 8 cm. How many centimeters long is the side of the largest board Giuseppe can manufacture for this purpose?
 
-**Answer:** 11
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_squadre_a#q06|src_kangourou_2015_squadre_a__Q06]]
 
 
 
@@ -242,18 +266,14 @@ level: squadre
 
 *Sum M+m of the impartial numbers (CDU+UDC odd)*
 
-> )impartial numbers 
->        Let CDU denote the three-digit number in which C is the hundreds digit, D the 
-> tens digit and U the units digit. We say that CDU is "impartial" if it happens that C > D > U > 0 and all 
-> the digits of the sum CDU + UDC are odd. Let M and m be respectively the largest and the 
-> smallest of the impartial numbers. What is M + m? 
-> A
-> B
-> C
-> X
-> Y
+> Impartial numbers Let CDU denote a three-digit number in which C is the hundreds digit, D the tens digit, and U the units digit. We say that CDU is "impartial" if C > D > U > 0 and all the digits of the sum CDU + UDC are odd. Let M and m be, respectively, the largest and the smallest of the impartial numbers. What is the value of M + m? A B C X Y
 
-**Answer:** 1785
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_squadre_a#q07|src_kangourou_2015_squadre_a__Q07]]
 
 
 
@@ -282,11 +302,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major angle between tangents to two circles*
+*Larger angle between tangents to two circles*
 
-> Two circles The centers of two circles of radius 1 meter are 3 meters apart. Consider any of the points at which the circles meet and, for each of them, trace the line to it tangent at that point. How many degrees does the largest of the four angles formed by these two lines measure?
+> Two Circles The centers of two circles with a radius of 1 meter are 3 meters apart. Consider any one of the points where the circles intersect, and for each circle, draw the line tangent to it at that point. How many degrees does the larger of the four angles formed by these two lines measure?
 
-**Answer:** 120
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_squadre_a#q08|src_kangourou_2015_squadre_a__Q08]]
 
 
 
@@ -311,13 +336,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Small bricks left after forming a cube*
+*Small bricks left over after forming a cube*
 
-> The small bricks 
->        Cecilia has 100 identical small bricks: each has the shape of a rectangular parallelepiped 3 cm long, 2 
-> cm wide and 1 cm high. After, by placing some of them side by side, she formed a cube, how many has she got left?
+> Building blocks: Cecilia has 100 identical building blocks; each one is a parallelepiped 3 cm long, 2 cm wide, and 1 cm high. After she has put some of them together to form a cube, how many are left?
 
-**Answer:** 64
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_squadre_a#q09|src_kangourou_2015_squadre_a__Q09]]
 
 
 
@@ -346,11 +373,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum net meters for dividing a lawn into three*
+*Minimum network metrics for dividing the lawn into three*
 
-> Dogs, cats and chickens A square lawn of area 900 m2 is fenced. The owner wants to let some dogs run, some cats, and some chickens, but he wants to keep animals of different species from coming into contact with each other. He then decides to divide it into three rectangular parcels all of the same area, each separated from the others by a net. He wants to minimize the length of the net to be used (which can be cut in the most appropriate way). How many metres of net will he need to buy?
+> Dogs, cats, and chickens A square meadow with an area of 900 m² is fenced in. The owner wants to let some dogs, some cats, and some chickens roam freely in it, but wants to prevent animals of different species from coming into contact with one another. He therefore decides to divide the meadow into three rectangular plots, all of the same area, with each plot separated from the others by a fence. He wants to minimize the length of fence to be used (which can be cut in the most appropriate way). How many metres of fence will he need to buy?
 
-**Answer:** 50
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_squadre_a#q10|src_kangourou_2015_squadre_a__Q10]]
 
 
 
@@ -379,11 +411,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Meter of routes from Ernesto back and forth*
+*Meters traveled by Ernesto back and forth*
 
-> Forward and backward To train, one day Ernesto decides to do an experiment: starting from a certain point on a straight road, he starts to take a step forward, then he takes two steps forward and one step backward, then three steps forward and two steps backward, then four steps forward and three steps backward and so on. An Ernesto's step is always exactly one meter long. When he reaches a distance of 80 meters from the point where he had started, he decides to stop. How many meters did Ernesto walk before he stopped?
+> Forward and Backward To train, one day Ernesto decides to conduct an experiment: starting from a certain point on a straight road, he begins by taking one step forward, then two steps forward and one step back, then three steps forward and two steps back, then four steps forward and three steps back, and so on. Each of Ernesto's steps is always exactly one meter long. When he has reached a distance of 80 meters from the point where he started, he decides to stop. How many meters has Ernesto traveled before stopping?
 
-**Answer:** 1640
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_squadre_a#q11|src_kangourou_2015_squadre_a__Q11]]
 
 
 
@@ -410,11 +447,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume max parallelepiped with two faces 24 and 30*
+*Maximum volume of a parallelepiped with two faces measuring 24 and 30*
 
-> The lengths of the sides of a rectangular parallelepiped are expressed by integer numbers of centimeters. The areas of two faces are 24 and 30 square centimeters. How many cubic centimeters can the volume of the parallelepiped be worth at most?
+> The Parallelepiped The side lengths of a right-angled parallelepiped are given by whole numbers of centimeters. The areas of two of its faces are 24 and 30 square centimeters. What is the maximum possible volume of the parallelepiped in cubic centimeters?
 
-**Answer:** 720
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_squadre_a#q12|src_kangourou_2015_squadre_a__Q12]]
 
 
 
@@ -440,13 +482,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of digits of the square of 99...9 (99 nines)*
+*Sum of the digits of the square of 99...9 (99 nines)*
 
-> A number and its square   
->         Consider the number 999...999 in whose writing only the digit 9 appears, repeated 99 times. 
-> What is the sum of the digits of the square of this number?
+> A number and its square Consider the number 999...999, in whose representation only the digit 9 appears, repeated 99 times. What is the sum of the digits of the square of this number?
 
-**Answer:** 891
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_squadre_a#q13|src_kangourou_2015_squadre_a__Q13]]
 
 
 
@@ -477,18 +522,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of a nonagon in an equilateral triangle with side 15*
+*Perimeter of a nonagon inscribed in an equilateral triangle with side length 15*
 
 ![[src_kangourou_2015_squadre_a__prob14.png]]
 
-> The nonagon
->         In the figure, a nonagon entirely contained in
-> an equilateral triangle with side 15 is shaded. Each side of the nonagon is parallel to
-> some side of the triangle. As indicated, three of its sides have lengths
-> 1, 2 and 3 (the figure is not to scale). What is the perimeter
-> of the nonagon?
+> The Enneagon In the figure, an enneagon entirely contained within an equilateral triangle with side length 15 is shaded. Each side of the enneagon is parallel to some side of the triangle. As indicated, three of its sides have lengths 1, 2, and 3 (the figure is not to scale). What is the perimeter of the enneagon?
 
-**Answer:** 39
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_squadre_a#q14|src_kangourou_2015_squadre_a__Q14]]
 
 
 
@@ -522,14 +567,14 @@ level: squadre
 
 *Remainder of the division of N^11 by 2015, N=2 mod 2015*
 
-> The division by 2015 
->        A number  divided by 2015 gives remainder 2. What is the remainder of the division of 11 by 2015? 
-> Kangourou of Mathematics 2015 
-> Kangourou team Cup   
-> Semifinal round A 
-> Cervia, 9 May 2015 
->  
->  
->                                               Questions and solutions
+> Division by 2015
+> A number N, when divided by 2015, leaves a remainder of 2. What is the remainder when $N^{11}$ is divided by 2015? Kangaroo Mathematics 2015 Team Cup Kangaroo Semifinal Round A Cervia, 9 May 2015
+>
+> Questions and Solutions
 
-**Answer:** 33
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_squadre_a#q15|src_kangourou_2015_squadre_a__Q15]]

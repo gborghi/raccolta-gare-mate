@@ -31,11 +31,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many n such that n-2012 and n+2012 both in 4 digits*
+*How many n with both n – 2012 and n + 2012 four-digit*
 
-> How many positive integers n are such that both n - 2012 and n + 2012 are four-digit numbers?
+> umeri of this year How many positive integers n are such that both the numbers n – 2012 and n + 2012 are four-digit numbers?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 4976
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q01|src_kangourou_2012_squadre_semifinale__Q01]]
 
 
 
@@ -61,11 +66,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square of the leg AC in the right triangle*
+*Square of leg AC in a right-angled triangle*
 
-> The right triangle the ABC triangle is a right triangle in A. The circumference with center in A and passing through B intersects the hypotenuse BC at point D: the BD segment is 20 cm long and the DC segment is 16 cm long. How much is the square of the length of the leg AC?
+> The right-angled triangle The triangle ABC is right-angled at A. The circle with centre A passing through B intersects the hypotenuse BC at the point D: the segment BD is 20 centimetres long and the segment DC is 16 centimetres long. What is the value of the square of the length of the leg AC?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 936
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q02|src_kangourou_2012_squadre_semifinale__Q02]]
 
 
 
@@ -112,7 +122,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*White percentage of the coloured trapezoid*
+*White percentage of the coloured trapezium*
 
 ![[src_kangourou_2012_squadre_semifinale__prob3.png]]
 
@@ -135,9 +145,14 @@ level: squadre
 \end{document}
 ```
 
-> The colored trapezoid In the figure you see a trapezoid, part of which has been colored gray. The main base of the trapezoid is 7 metres long, the minor base is 3 metres long. What percentage of the trapezoid's surface is left white?
+> The coloured trapezium. In the figure you see a trapezium, part of which has been coloured grey. The longer base of the trapezium is 7 metres long, the shorter base is 3 metres long. What percentage of the area of the trapezium has remained white?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 42
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q03|src_kangourou_2012_squadre_semifinale__Q03]]
 
 
 
@@ -164,11 +179,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number written the first time given difference 14789*
+*Number written the first time, given difference 14789*
 
-> By adding two "1"s, Stephen wrote a number and then added a 1 before his digits and another 1 after his digits (for example, if he had written 17 the first time, he would have written 1171). If you make the difference between the number written the second time and the number written the first time, you get 14789. What number did he write the first time?
+> By adding two “1”s, Stefano wrote a number and then added a 1 before its digits and another 1 after its digits (for example, if the first time he had written 17, he would then have written 1171). Taking the difference between the number written the second time and the one written the first time, he obtains 14789. What number did he write the first time?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 532
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q04|src_kangourou_2012_squadre_semifinale__Q04]]
 
 
 
@@ -196,9 +216,15 @@ level: squadre
 
 *First four digits of the sum of numbers with digits 1-4*
 
-> A very long sum Sum all the four-digit numbers that can be formed using only the digits 1, 2, 3 and 4, even repeated. What are the first four digits of the result you get?
+> A very long sum. Add together all the four-digit numbers that can be formed using only the digits 1, 2, 3 and 4, including repetitions. What are the first four digits of the result that you obtain?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 7110
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q05|src_kangourou_2012_squadre_semifinale__Q05]]
 
 
 
@@ -227,9 +253,14 @@ level: squadre
 
 *Dimensions of a rectangle cut into 15 equal squares*
 
-> Rectangles and squares A rectangle of 112 cm perimeter is cut into three parallel strips and each of these strips is cut into five parts: thus, without any excesses, fifteen squares are all equal between them. What are the dimensions (in centimeters) of the rectangle? (Write down below the larger followed by the smaller.)
+> Rectangles and squares. A rectangle with a perimeter of 112 cm is cut into three parallel strips and each of these strips is cut into five parts: in this way, with nothing left over, fifteen squares all equal to one another are obtained. What are the dimensions (in centimetres) of the rectangle? (Write, in order, the greater followed by the smaller.)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Answer:** 3521
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q06|src_kangourou_2012_squadre_semifinale__Q06]]
 
 
 
@@ -256,15 +287,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*00*
+*The clock*
 
-> The clock
-> A traditional electric clock has a 12-hour dial and the hands, one for the hours and the other for the
-> minutes, both move in jumps of one degree (degree 0 corresponds to the radius connecting the
-> pivot of the hands to the point marked 12). At this instant the hands have just jumped to
-> 8:00. In how many seconds will the two hands be overlapping for the first time?
+> The clock. A traditional electric clock has a 12-hour face and the hands, one for the hours and the other for the minutes, both move in jumps of one degree (degree 0 corresponds to the radius that connects the pivot of the hands to the point marked with 12). At this moment the hands have jumped to 8:00. In how many seconds will the two hands be overlapping for the first time?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 2610
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q07|src_kangourou_2012_squadre_semifinale__Q07]]
 
 
 
@@ -292,11 +324,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Speed needed by Giulia in the remaining km*
+*Speed needed over the remaining kilometres*
 
-> Giulia wants to ride her bicycle to a friend's house who is 18 km away from her. They agreed on the time of the visit by telephone, assuming that Julia would take an hour to make the trip. The first 5 km of the road, however, are in a slight climb and, after having traveled them, Giulia realizes that she has pedalled at an average speed of only 10 km/h. If she does not want to be late and if she wants to keep a constant speed for the remaining kilometres, how many kilometres per hour must this speed be?
+> Giulia cycles. Giulia wants to go by bicycle to a friend who is 18 km from her. By telephone they agreed the time of the visit, assuming that Giulia takes an hour to make the journey. The first 5 km of the road, however, are slightly uphill and, after covering them, Giulia realises that she has cycled at an average speed of only 10 km per hour. If she does not want to arrive late and if she wants to keep a constant speed over the remaining kilometres, how many kilometres per hour must this speed be?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 26
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q08|src_kangourou_2012_squadre_semifinale__Q08]]
 
 
 
@@ -322,11 +359,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Right triangles with vertices of the cube*
+*Right-angled triangles with vertices of the cube*
 
-> Cube and triangles Assigned a cube, how many different right triangles can be identified that have as vertices three of the vertices of the cube?
+> Cube and triangles. Given a cube, how many different right-angled triangles can be identified that have as their vertices three of the vertices of the cube?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 48
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q09|src_kangourou_2012_squadre_semifinale__Q09]]
 
 
 
@@ -352,11 +395,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 200 to 999 with units digit×tens digit=hundreds*
+*Integers from 200 to 999: units times tens equals hundreds*
 
-> How many integers between 200 and 999 are such that, multiplying the number of units by the number of tens, we get the number of hundreds?
+> umeri speciali How many integers from 200 to 999 inclusive are such that, multiplying the units digit by the tens digit, one obtains the hundreds digit?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 22
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q10|src_kangourou_2012_squadre_semifinale__Q10]]
 
 
 
@@ -382,11 +431,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-How much did Charles spend (average friends 82)
+*How many euros did Carlo spend (friends' average 82)*
 
-> Shopping Carlo and eight of his friends bought some items. Charles' friends spent an average of 82 euros each; Charles spent 64 euros more than the average of what Charles and his eight friends spent. How much did Charles spend?
+> Shopping. Carlo and eight of his friends bought some items. Carlo's friends spent an average of 82 euros each; Carlo spent 64 euros more than the average of what Carlo and his eight friends spent. How many euros did Carlo spend?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 154
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q11|src_kangourou_2012_squadre_semifinale__Q11]]
 
 
 
@@ -413,11 +467,16 @@ How much did Charles spend (average friends 82)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Visitors after Paul by number of digits*
+*Visitors after Paolo for a number with distinct digits*
 
-> A very visited park At the entrance to a park there is a turnstile that counts the entrances, since its foundation. After Paul's entrance, the turnstile reads 31879564, which is a number made up of digits all different from each other: the next time the number of entrances will still be made up of digits all different from each other, how many visitors will have entered after Paul?
+> A much-visited park. At the entrance to a park there is a turnstile that counts the entries, ever since its foundation. After Paolo's entry the turnstile shows 31879564, which is a number made up of digits all different from one another: the next time the number of entries is again made up of digits all different from one another, how many visitors will have entered after Paolo?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 38
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q12|src_kangourou_2012_squadre_semifinale__Q12]]
 
 
 
@@ -444,11 +503,17 @@ How much did Charles spend (average friends 82)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Revenue given product 71685 with digits exchanged*
+*Revenue given product 71685 with swapped digits*
 
-> Revenue The profit and income (in euro) from a sale are two numbers of three digits each. For these two numbers the tens digit is the same, while those of units and hundreds are exchanged between them. Multiplying the two numbers gives us 71685. How much revenue?
+> The revenue The profit and the revenue (in euros) of a sale are two three-digit numbers each. For these two numbers the tens digit is the same, while the units and hundreds digits are swapped with each other. Multiplying the two numbers gives 71685. What is the revenue?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 531
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q13|src_kangourou_2012_squadre_semifinale__Q13]]
 
 
 
@@ -474,11 +539,17 @@ How much did Charles spend (average friends 82)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer n with the same remainder dividing 1059,1417,2312*
+*Integer n with the same remainder on dividing 1059, 1417, 2312*
 
-> If you divide 1059, 1417 and 2312 by a certain integer n greater than 1, you always get the same remainder. What's the number n?
+> The remainder does not change. If you divide 1059, 1417 and 2312 by a certain integer n greater than 1, you always get the same remainder. What is the number n?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 179
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q14|src_kangourou_2012_squadre_semifinale__Q14]]
 
 
 
@@ -513,14 +584,20 @@ How much did Charles spend (average friends 82)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n with the last three digits of 3999n equal to 888*
+*Smallest n with last three digits of 3999n equal to 888*
 
-> The last three digits What is the smallest positive integer n such that the last three digits of product 3999 × n are 888?
->  
-> 
->  
-> Kangourou of Mathematics 2012 Kangourou Team Cup Semifinal round at Cervia, 5 May 2012
->                                                 
-> Questions and Answers
+> The last three digits What is the smallest positive integer n such that the last three digits of the product 3999 × n are 888?
+>
+>
+>
+> Kangourou  of  Mathematics  2012 Cup  for  teams  Kangourou Semi-final  round  A Cervia,  5 May 2012
+>
+> Questions and answers
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 112
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+[[Quesiti/src_kangourou_2012_squadre_semifinale#q15|src_kangourou_2012_squadre_semifinale__Q15]]

@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le n a tre cifre dove esattamente i numeri 1/k iniziano con la cifra 2*
+*Trovare tutti gli n a tre cifre tali che esattamente 1/k dei numeri inizia con la cifra 2*
 
-> Una strada ha case numerate da $1$ a $n$, dove $n$ è un numero a tre cifre. Esattamente $\frac{1}{k}$ dei numeri inizia con la cifra $2$, dove $k$ è un intero positivo. Trova i valori possibili di $n$.
+> Su una strada ci sono case numerate da $1$ a $n$, dove $n$ è un numero di tre cifre. Esattamente $\frac{1}{k}$ dei numeri iniziano con la cifra $2$, dove $k$ è un numero intero positivo. Determinare i valori possibili di $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2022-23_round1#q01|src_bmo_2022-23_round1__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare il numero di numeri quadrati in una sequenza di ricorrenze*
+*Massimizza il numero di quadrati perfetti in una successione ricorrente*
 
-> Una sequenza di integri positivi $a_n$ inizia con $a_1 = a$ e $a_2 = b$ per gli integri positivi $a$ e $b$. I termini successivi della sequenza soddisfano le seguenti due regole per tutti i numeri interi positivi $n$: $$a_{2n+1} = a_{2n}a_{2n-1}, \quad a_{2n+2} = a_{2n+1} + 4.$$ Esattamente $m$ dei numeri $a_1, a_2, a_3, \ldots, a_{2022}$ sono numeri quadrati. Qual è il valore massimo possibile di $m$? Si noti che $m$ dipende da $a$ e $b$, quindi il massimo è superiore a tutte le possibili scelte di $a$ e $b$.
+> Una successione di interi positivi $a_n$ inizia con $a_1 = a$ e $a_2 = b$ per interi positivi $a$ e $b$. I termini successivi della successione soddisfano le seguenti due regole per tutti gli interi positivi $n$:
+> $$a_{2n+1} = a_{2n}a_{2n-1}, \quad a_{2n+2} = a_{2n+1} + 4.$$
+> Esattamente $m$ dei numeri $a_1, a_2, a_3, \ldots, a_{2022}$ sono quadrati perfetti. Qual è il valore massimo possibile di $m$? Si noti che $m$ dipende da $a$ e $b$, quindi il massimo si ottiene considerando tutte le possibili scelte di $a$ e $b$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2022-23_round1#q02|src_bmo_2022-23_round1__Q02]]
 
 
 
@@ -81,9 +97,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove B1, C1, F, G collineari in triangolo con condizioni di angolo rettangolo*
+*Dimostrare che B1, C1, F, G sono allineati in un triangolo con condizioni di angolo retto*
 
-> In un triangolo non isosceles $ABC$, $B_1$ e $C_1$ sono rispettivamente i punti medi di $AC$ e $AB$. Un punto $D$ si trova su $BC$ con $C$ tra $B$ e $D$. Il punto $F$ è tale che $\angle AFC$ sia un angolo retto e $\angle DCF = \angle FCA$. Il punto $G$ è tale che $\angle AGB$ sia un angolo retto e $\angle CBG = \angle GBA$. Prove che $B_1$, $C_1$, $F$ e $G$ sono collineari.
+> In un triangolo non isoscele $ABC$, $B_1$ e $C_1$ sono rispettivamente i punti medi di $AC$ e $AB$. Un punto $D$ giace su $BC$, con $C$ compreso tra $B$ e $D$. Il punto $F$ è tale che $\angle AFC$ è un angolo retto e $\angle DCF = \angle FCA$. Il punto $G$ è tale che $\angle AGB$ è un angolo retto e $\angle CBG = \angle GBA$. Dimostrare che $B_1$, $C_1$, $F$ e $G$ sono allineati.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2022-23_round1#q03|src_bmo_2022-23_round1__Q03]]
 
 
 
@@ -106,9 +129,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Trova il punteggio di Katy più alto garantito in 8x8 "A" / "K" gioco
+*Trovare il punteggio di Katy più alto garantito nella partita 8x8 'A'/'K'*
 
-> Alex e Katy giocano su una griglia quadrata di 64 cellule. Si girano a turno per giocare, con Alex prima. A sua volta, Alex scrive "A" in una cella vuota. A sua volta, Katy scrive "K" in due celle vuote che condividono un lato. La partita finisce quando un giocatore non può muoversi. Il punteggio di Katy è il numero di K sulla griglia alla fine della partita. Qual e' il punteggio piu' alto che Katy puo' ottenere se suona bene, non importa cosa faccia Alex?
+> Alex e Katy giocano a un gioco su una griglia quadrata $8 \times 8$ composta da 64 celle unitarie. Giocano a turno, con Alex che inizia. Al proprio turno, Alex scrive 'A' in una cella vuota. Al proprio turno, Katy scrive 'K' in due celle vuote che condividono un lato. Il gioco termina quando uno dei due giocatori non può muoversi. Il punteggio di Katy è il numero di K presenti sulla griglia alla fine del gioco. Qual è il punteggio più alto che Katy può essere certa di ottenere se gioca bene, indipendentemente da ciò che fa Alex?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2022-23_round1#q04|src_bmo_2022-23_round1__Q04]]
 
 
 
@@ -133,11 +163,18 @@ Trova il punteggio di Katy più alto garantito in 8x8 "A" / "K" gioco
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che per ogni N≥1 c'è n≥1 con N che non divide f(n)*
+*Dimostrare che per ogni N≥1 esiste n≥1 tale che N non divide f(n)*
 
-> Per ogni intero $n \geq 1$, $f(n)$ è il numero di elenchi di diversi interi positivi che iniziano con $n$ e terminano con $n$, in cui ogni termine tranne l'ultimo divide il suo successore. Prova che per ogni numero intero $N \geq 1$ esiste un numero intero $n \geq 1$ tale che $N$ non divida $f(n)$.
-> 
+> Per ogni intero $n \geq 1$, si ponga $f(n)$ uguale al numero di liste di interi positivi distinti che iniziano con $n$ e terminano con $n$, e in cui ogni termine tranne l'ultimo divide il termine successivo. Dimostrare che, per ogni intero $N \geq 1$, esiste un intero $n \geq 1$ tale che $N$ non divide $f(n)$.
+>
 > $(So\ f(1) = 1,\ f(2) = 1\ and\ f(6) = 3.)$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2022-23_round1#q05|src_bmo_2022-23_round1__Q05]]
 
 
 
@@ -160,6 +197,13 @@ Trova il punteggio di Katy più alto garantito in 8x8 "A" / "K" gioco
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova la rana sul cerchio Γ ritorna al punto precedentemente visitato*
+*Dimostrare che la rana sul cerchio Γ ritorna al punto visitato in precedenza*
 
-> Un cerchio $\Gamma$ ha un raggio 1. Una linea $l$ è tale che la distanza perpendicolare da $l$ al centro di $\Gamma$ sia strettamente compresa tra 0 e 2. Una rana sceglie un punto su $\Gamma$ la cui distanza perpendicolare da $l$ è inferiore a 1 e si trova su quel punto. Poi esegue una sequenza di salti. Ogni salto ha una lunghezza di 1 e se un salto inizia su $\Gamma$ deve finire su $l$ e viceversa. Prova che dopo un numero finito di salti la rana ritorna a un punto su cui è stata prima.
+> Un cerchio $\Gamma$ ha raggio 1. Una retta $l$ è tale che la distanza perpendicolare da $l$ al centro di $\Gamma$ è strettamente compresa tra 0 e 2. Una rana sceglie un punto su $\Gamma$ la cui distanza perpendicolare da $l$ è minore di 1 e si posa su quel punto. Successivamente esegue una sequenza di salti. Ogni salto ha lunghezza 1 e, se un salto inizia su $\Gamma$, deve terminare su $l$, e viceversa. Dimostrare che, dopo un numero finito di salti, la rana torna in un punto in cui è già stata.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2022-23_round1#q06|src_bmo_2022-23_round1__Q06]]

@@ -34,15 +34,20 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular part perimeter of isosceles triangular field*
+*Perimeter of the rectangular part of an isosceles triangular field*
 
-> Professor Pitagoris wants to leave his four children a field shaped like an isosceles triangle whose sides measure 240 m, 150 m, 150 m. Each of the children will receive an area equal to that of his brothers. The older one still wants a rectangular part, while the younger one prefers an isosceles.
-> 
+> Professor Pitagoris wants to leave to his four children a field shaped like an isosceles triangle, with sides measuring 240 m, 150 m, and 150 m. Each child will receive an area equal to that of their siblings. The eldest child still wants a rectangular portion, while the youngest prefers an isosceles triangle.
+>
 > What is the perimeter of this part of the field (yellow or otherwise darker in the figure)?
 
 ![[src_bocconi_squadre_2010__q01.png]]
 
-**Answer:** 240 m
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2010#q01|src_bocconi_squadre_2010__Q01]]
 
 
 
@@ -72,15 +77,22 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Replacement of letters with digits 19 in hexagonal pattern*
+*Replacing letters with digits 1–9 in a hexagonal pattern*
 
-> Replace the natural numbers 1 to 9 (written once and only) with the letters (from $a$ to $i$) so that:
-> 
-> - the sum of the numbers relating to the vertices of square A is equal to the sum of the numbers relating to the vertices of square B multiplied by the sum of the numbers of square C; - the results $a < c$; $d < e \le f \le g$; $h \le i$; - ... a small aid: $h$ is an odd number.
+> Replace the letters (from $a$ to $i$) with the natural numbers from 1 to 9 (each written exactly once) so that:
+>
+> - the sum of the numbers corresponding to the vertices of square A equals the sum of the numbers corresponding to the vertices of square B plus the sum of those of square C;
+> - $a < c$; $d < e \le f \le g$; $h \le i$;
+> - … a little hint: $h$ is an odd number.
 
 ![[src_bocconi_squadre_2010__q02.png]]
 
-**Answer:** $a=6,\ b=1,\ c=8,\ d=2,\ e=3,\ f=4,\ g=5,\ h=7,\ i=9$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2010#q02|src_bocconi_squadre_2010__Q02]]
 
 
 
@@ -106,13 +118,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many PRISTEM members practice all three sports?
+*How many PRISTEM members participate in all three sports?*
 
-> The PRISTEM sports section has 50 members. Of these, 17 play volleyball, 23 play soccer, and 29 play tennis. However, eight of the members play tennis and volleyball at the same time, seven volleyball and soccer, six soccer and tennis.
-> 
-> How many members of the PRISTEM sports section do all three sports?
+> The sports section of PRISTEM has 50 members. Of these, 17 play volleyball, 23 play football, and 29 play tennis. However, 8 of the members play both tennis and volleyball, 7 play both volleyball and football, and 6 play both football and tennis.
+>
+> How many members of the PRISTEM sports section play all three sports?
 
-**Answer:** 2
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2010#q03|src_bocconi_squadre_2010__Q03]]
 
 
 
@@ -138,13 +155,18 @@ How many PRISTEM members practice all three sports?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fif possible with non-consecutive numbered nets*
+*Fifths possible with non-consecutive-numbered jerseys*
 
-> The PRISTEM Basket Club team has 12 players, but five enter the field.
-> 
-> How many quintets are possible, knowing that each player has a numbered shirt (from 1 to 12) and that by law in the same formation can never be two players wearing two consecutive numbers on the shirt?
+> The PRISTEM Basket Club team has 12 players, but 5 take the court.
+>
+> How many possible starting fives are there, given that each player has a numbered jersey (from 1 to 12) and that, according to the rules, a single lineup can never include two players whose jersey numbers are consecutive?
 
-**Answer:** 56
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2010#q04|src_bocconi_squadre_2010__Q04]]
 
 
 
@@ -172,15 +194,20 @@ How many PRISTEM members practice all three sports?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular quarter perimeter divided into four blocks*
+*Perimeter of a rectangular neighborhood divided into four blocks*
 
-> The neighbourhood where I live is rectangular in shape and is divided by two streets perpendicular to each other into four blocks of houses, also rectangular. When I go around each of the 4 rectangles that are obtained by bringing together two blocks of contiguous houses (which have a common street), I go 600, 700, 800, 900 m respectively.
-> 
-> What's the perimeter of my neighborhood?
-> 
-> Note: the width of the roads is not taken into account.
+> The neighborhood where I live is rectangular in shape and is divided by two streets perpendicular to each other into four blocks of houses, which are also rectangular. When I walk around each of the 4 rectangles formed by joining two adjacent blocks of houses (which share a stretch of road), I cover 600, 700, 800, and 900 m, respectively.
+>
+> What is the perimeter of my neighborhood?
+>
+> Note: The width of the streets is not taken into account.
 
-**Answer:** 1000 m
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2010#q05|src_bocconi_squadre_2010__Q05]]
 
 
 
@@ -206,13 +233,18 @@ How many PRISTEM members practice all three sports?
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to align 5 boys with Alessandra and Ingrid not close
+*Ways to arrange 5 boys so that Alessandra and Ingrid are not next to each other*
 
-> The group is made up of 5 boys: Alessandra, Donato, Giovanni, Ingrid and Michele.
-> 
-> How many ways can the five boys line up, sitting on a bench (right) so that Alessandra and Ingrid never get close?
+> The group consists of 5 young people: Alessandra, Donato, Giovanni, Ingrid, and Michele.
+>
+> In how many ways can the 5 young people line up by sitting on a (straight) bench in such a way that Alessandra and Ingrid are never next to each other?
 
-**Answer:** 72
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2010#q06|src_bocconi_squadre_2010__Q06]]
 
 
 
@@ -240,15 +272,20 @@ How to align 5 boys with Alessandra and Ingrid not close
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many apples did Anna buy initially?
+*How many apples did Anna initially buy?*
 
-> Anna eats a quarter of the apples she had bought and equally distributes the others to her three sisters, who had none: Carla, Debora and Liliana. Carla also eats a quarter of her apples and distributes the remaining (split into equal parts) to her three sisters. Deborah eats only one and equally distributes the remaining apples to her sisters. As for little Liliana, she eats four apples and then repeats the operation of distributing the remaining apples in equal parts to the three sisters.
-> 
-> At this point, Carla says to Deborah, "I've got double your apples".
-> 
+> Anna eats a quarter of the apples she had bought and distributes the rest equally among her three sisters—Carla, Debora, and Liliana—who did not have 2 [apples] each. Carla also eats a quarter of her apples and distributes the remaining ones (divided into equal parts) among the three sisters. Debora eats only one and distributes the remaining apples equally among her sisters. As for little Liliana, she eats 4 apples and then repeats the process of distributing the remaining apples equally among the three sisters.
+>
+> At this point, Carla says to Debora, "I have twice as many apples as you do."
+>
 > How many apples did Anna initially buy?
 
-**Answer:** 32
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2010#q07|src_bocconi_squadre_2010__Q07]]
 
 
 
@@ -274,13 +311,18 @@ How many apples did Anna buy initially?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of bars to produce 4 litres of wine*
+*Minimum number of transfers to obtain 4 liters of wine*
 
-> Matteo has a small bottle of wine, full, eight liters and two empty bottles of five and three liters, respectively. Amerigo is not insensitive to the pleasure of drinking and asks his friend for four liters of wine.
-> 
-> What is the minimum number of trays needed to produce this amount of wine?
+> Matteo has a small, full 8-liter wine barrel and two empty large bottles holding 5 and 3 liters respectively. Amerigo is not immune to the pleasure of drinking, so he asks his friend for 4 liters of wine.
+>
+> What is the minimum number of transfers required to obtain this quantity of wine?
 
-**Answer:** 6
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2010#q08|src_bocconi_squadre_2010__Q08]]
 
 
 
@@ -306,13 +348,18 @@ How many apples did Anna buy initially?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many numbered pages does the encyclopedia have with 2010 digits 1*
+*How many numbered pages does the encyclopedia have that contain 2010 instances of the digit "1"?*
 
-> To number the pages of an encyclopedia, the figure  1  was printed 2010 times.
-> 
+> To number the pages of an encyclopedia, the digit "1" was printed 2010 times.
+>
 > How many numbered pages does the encyclopedia have?
 
-**Answer:** 3171
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2010#q09|src_bocconi_squadre_2010__Q09]]
 
 
 
@@ -338,13 +385,18 @@ How many apples did Anna buy initially?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nando's age if you reverse the numbers becomes three times the grandson*
+*Nando's age: if the digits are reversed, it becomes three times his grandson's age*
 
-> Nando is 4 times his grandson's age but, if you reverse the two digits of each age, the new grandson's age becomes 3 times that of Nando.
-> 
-> How old is Nando?
+> Nando is four times as old as his grandson, but if the two digits of each age are reversed, the grandson's new age becomes three times Nando's (new) age.
+>
+> How old is Nando (really)?
 
-**Answer:** 72
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2010#q10|src_bocconi_squadre_2010__Q10]]
 
 
 
@@ -372,15 +424,20 @@ How many apples did Anna buy initially?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dual-reading card to be printed for numbers 100999*
+*Double-reading card to print for numbers 100–999*
 
-> Fabrizio has to print the cards with the whole numbers from 100 to 999. However, there are certain cards that allow two different numbers to be read simultaneously  as in the case of the figure, with 109 and 601  depending on how they are oriented (the numbers a double reading are 0, 1, 6, 8, 9). In this case, instead of two cards, one is printed.
-> 
-> According to this criterion, how many cards must be printed in total?
+> Fabrizio must print cards bearing the integers from 100 to 999 printed on them. However, some cards make it possible to read two different numbers at the same time—as in the figure, with 109 and 601—depending on how the cards are oriented (the digits that can be read in two ways are 0, 1, 6, 8, and 9). In this case, instead of two cards, only one is printed.
+>
+> Following this criterion, how many cards must be printed in total?
 
 ![[src_bocconi_squadre_2010__q11.png]]
 
-**Answer:** 866
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2010#q11|src_bocconi_squadre_2010__Q11]]
 
 
 
@@ -407,13 +464,19 @@ How many apples did Anna buy initially?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Find a 5-digit combination from the 10-digit list*
+*Find a combination of 5 digits from a list of 10 numbers*
 
-> Only the company's CEO, Renato, knows the five-digit combination that allows the safe to be opened. All 10 employees know about a fake number. In each of these, however, one, and only one, figure is placed in the right place. The 10 numbers are: $$07344 - 14098 - 27356 - 36429 - 45374 - 52207 - 63822 - 70558 - 85237 - 97665$$
-> 
-> What's the right combination?
+> Only the company director, Renato, knows the 5-digit combination that allows the safe to be opened. The 10 employees are aware of a false number. However, in each of these numbers, one and only one digit is in the correct position. The 10 numbers are:
+> $$07344 - 14098 - 27356 - 36429 - 45374 - 52207 - 63822 - 70558 - 85237 - 97665$$
+>
+> What is the correct combination?
 
-**Answer:** 47228
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2010#q12|src_bocconi_squadre_2010__Q12]]
 
 
 
@@ -439,13 +502,18 @@ How many apples did Anna buy initially?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of three digits forming perfect square and cube with neighbors*
+*A three-digit number that, together with its neighbors, forms a perfect square and a perfect cube*
 
-> It's a three-digit integer. Add me to the whole before me and the whole that follows me, and you get a perfect square. Add me to the two integers that precede me and the two that follow me, you get a perfect cube.
-> 
-> Who are they?
+> I am a three-digit integer. If I am added to the integer that precedes me and to the one that follows me, the result is a perfect square. If I am added to the two integers that precede me and to the two that follow me, the result is a perfect cube.
+>
+> Who am I?
 
-**Answer:** 675
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2010#q13|src_bocconi_squadre_2010__Q13]]
 
 
 
@@ -471,13 +539,18 @@ How many apples did Anna buy initially?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of 4 digits whose contrary is four times greater*
+*A four-digit number whose "opposite" is four times larger*
 
-> An integer N is the contrary of P when it is composed of the same digits, but written in reverse order.
-> 
-> Find a four-digit number whose contrary is four times larger.
+> An integer N is the "opposite" of P when it is made up of the same digits written in reverse order.
+>
+> Find a four-digit number whose "opposite" is four times larger.
 
-**Answer:** 2178
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2010#q14|src_bocconi_squadre_2010__Q14]]
 
 
 
@@ -503,13 +576,18 @@ How many apples did Anna buy initially?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate between DMS and ABC triangle areas in the forest*
+*Ratio of the areas of triangles DMS and ABC in the forest*
 
-> Desiderio, Milena, and Sergio got lost in a triangle-shaped forest (tops A, B, and C). In panic, they decided to split up to find a way out, but after an hour they were still inside the woods. More precisely, Desiderio is in the middle point D of the segment that connects the vertex A with the position M where Milena is located; M is the middle point of the segment that connects B with the position S where Sergio is located; S is the middle point of the segment CD.
-> 
-> What is the relationship between the areas of the DMS and ABC triangles?
+> Desiderio, Milena, and Sergio got lost in a triangular forest (with vertices A, B, and C). Overcome with panic, they decided to split up to find a way out, but after an hour they are still inside the forest. More precisely, Desiderio is at point D, the midpoint of the segment joining vertex A to the position M where Milena is; M is the midpoint of the segment joining B to the position S where Sergio is; S is the midpoint of segment CD.
+>
+> What is the ratio of the areas of triangles DMS and ABC?
 
-**Answer:** $\frac{1}{7}$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2010#q15|src_bocconi_squadre_2010__Q15]]
 
 
 
@@ -537,15 +615,20 @@ How many apples did Anna buy initially?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many rectangles are shown in the figure?*
+*How many rectangles can be seen drawn in the figure?*
 
-> How many rectangles do you see charted in the figure?
-> 
-> (Warning: a square is a particular rectangle!)
+> How many rectangles do you see drawn in the figure?
+>
+> (Note: a square is a special type of rectangle!)
 
 ![[src_bocconi_squadre_2010__q16.png]]
 
-**Answer:** 18
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2010#q16|src_bocconi_squadre_2010__Q16]]
 
 
 
@@ -571,13 +654,18 @@ How many apples did Anna buy initially?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest number extracted from each of the five friends*
+*The smallest number drawn by each of the five friends*
 
-> Alessandra, Donato, Giovanni, Ingrid and Michele, after sitting on the bench of No. 6, take part in a prize draw: a prize is associated with each whole number, including 1 to 12 (included). Each of the five boys extracts two numbers, but to move the game, he only communicates to his friends the sum of the extracted numbers: Alexander 11, Donato 4, John 16, Ingrid 7, Michael 19.
-> 
-> What's the smallest number extracted from each of the five friends?
+> Alessandra, Donato, Giovanni, Ingrid, and Michele, after sitting back down on bench No. 6, take part in a prize draw: each integer between 1 and 12 inclusive is associated with a prize. Each of the five young people draws two numbers, but to liven up the game, they tell their friends only the sum of the numbers drawn: Alessandra 11, Donato 4, Giovanni 16, Ingrid 7, Michele 19.
+>
+> What is the smallest number drawn by each of the five friends?
 
-**Answer:** $A=4;\ D=1;\ G=6;\ I=2;\ M=8$
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2010#q17|src_bocconi_squadre_2010__Q17]]
 
 
 
@@ -601,11 +689,16 @@ How many apples did Anna buy initially?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many zeros in the product of all integers between 50 and 100*
+*How many zeros in the product of all integers between 50 and 100?*
 
-> With how many zeros does the result of multiplying all integers between 50 and 100 (included) end?
+> How many zeros does the result of multiplying all the integers between 50 and 100 inclusive end with?
 
-**Answer:** 14
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2010#q18|src_bocconi_squadre_2010__Q18]]
 
 
 
@@ -631,13 +724,18 @@ How many apples did Anna buy initially?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Age of the eldest nephew under 10 in the mysterious family
+*Age of the eldest grandchild under 10 years old in the mysterious family*
 
-> We have already seen that prof. Pythagoras has four children. She also has four grandchildren who are such that the sum of the ages of the youngest and oldest is equal to the sum of the ages of the two middle children. However, the product of the latter is twice the product of the ages of the youngest and the oldest.
-> 
-> What is the age of the eldest, who is still under 10?
+> We have already seen that Prof. Pitagoris has four children. He also has four grandchildren such that the sum of the ages of the youngest and the oldest equals the sum of the ages of the two middle grandchildren. However, the product of the ages of the two middle grandchildren is twice the product of the ages of the youngest and the oldest.
+>
+> What is the age of the oldest grandchild, who is nevertheless under 10 years old?
 
-**Answer:** 6
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2010#q19|src_bocconi_squadre_2010__Q19]]
 
 
 
@@ -663,10 +761,15 @@ Age of the eldest nephew under 10 in the mysterious family
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum area of the largest square exceeding 2001 cm2*
+*Minimum side length of the larger square exceeding 2001 cm²*
 
-> A small square is very envious of another square, its friend, which is very large and whose area exceeds its 2001 area.
-> 
-> What's the minimum value of the side of the main square?
+> A small square is very envious of another square, its friend, which has grown a lot and whose area exceeds its own by 2001 $\text{cm}^2$.
+>
+> What is the minimum possible length of a side of the larger square?
 
-**Answer:** 49 m
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2010#q20|src_bocconi_squadre_2010__Q20]]

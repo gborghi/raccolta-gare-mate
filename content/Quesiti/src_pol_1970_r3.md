@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scelta il punto di semicircolo per massimizzare la somma delle aree triangolari*
+*Scegli un punto sul semicerchio per massimizzare la somma delle aree dei triangoli*
 
-> Il diametro $AB$ divide un cerchio in due semicerchi. I punti $P_1, P_2, \ldots, P_n$ sono indicati su uno dei semicircoli di questo ordine. Come si deve scegliere un punto $C$ sull'altro semicircolo per massimizzare la somma delle superfici dei triangoli $CP_1P_2, CP_2P_3, \ldots, CP_{n-1}P_n$?
+> Il diametro $AB$ divide un cerchio in due semicerchi. Sui punti $P_1, P_2, \ldots, P_n$ sono dati su uno dei semicerchi, in questo ordine. Come si dovrebbe scegliere un punto $C$ sull'altro semicerchio per massimizzare la somma delle aree dei triangoli $CP_1P_2, CP_2P_3, \ldots, CP_{n-1}P_n$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1970_r3#q01|src_pol_1970_r3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre sequenze con termini separati in coppia hanno una coppia monotona comune*
+*Tre successioni con termini tutti distinti a due a due hanno una coppia monotona in comune*
 
-> Considerate tre sequenze $(a_1, a_2, \ldots)$, $(b_1, b_2, \ldots)$, $(c_1, c_2, \ldots)$, ognuna delle quali ha termini separati in coppia. Dimostrare che esistono due indici $k$ e $l$ quali $k < l$, $a_k < a_l$, $b_k < b_l$ e $c_k < c_l$.
+> Si considerino tre successioni $(a_1, a_2, \ldots)$, $(b_1, b_2, \ldots)$, $(c_1, c_2, \ldots)$, ciascuna delle quali ha termini tutti distinti a due a due. Si dimostri che esistono due indici $k$ e $l$ tali che $k < l$, $a_k < a_l$, $b_k < b_l$ e $c_k < c_l$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1970_r3#q02|src_pol_1970_r3__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n>1 è primo se n divide tutti i coefficienti binomiali intermedi*
+*n>1 è primo se e solo se n divide tutti i coefficienti binomiali intermedi*
 
-> Prova che un intero $n > 1$ è un numero primo se e solo se, per ogni intero $k$ con $1 \le k \le n-1$, il coefficiente binomio $\binom{n}{k}$ è divisibile da $n$.
+> Dimostrare che un numero intero $n > 1$ è un numero primo se e solo se, per ogni numero intero $k$ tale che $1 \le k \le n-1$, il coefficiente binomiale $\binom{n}{k}$ è divisibile per $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1970_r3#q03|src_pol_1970_r3__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I rettangoli allineati all'asse che si intersecano in coppia condividono tutti un punto comune*
+*I rettangoli allineati agli assi che si intersecano a coppie condividono tutti un punto comune*
 
-> Nel piano sono indicate due linee reciprocamente perpendicolari e $n$ rettangoli con lati paralleli alle due linee. Mostrare che se ogni due rettangoli hanno un punto comune, allora tutti i rettangoli hanno un punto comune.
+> Nel piano sono dati due rette mutuamente perpendicolari e $n$ rettangoli i cui lati sono paralleli alle due rette. Dimostrare che, se ogni coppia di rettangoli ha un punto in comune, allora tutti i rettangoli hanno un punto in comune.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1970_r3#q04|src_pol_1970_r3__Q04]]
 
 
 
@@ -129,9 +157,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio partizioni di un insieme di 12 elementi in sottoinsiemi di due elementi*
+*Conta le partizioni di un insieme di 12 elementi in sottoinsiemi di due elementi*
 
-> In quanti modi un insieme di elementi $12$ può essere suddiviso in sottoinsiemi di due elementi?
+> In quanti modi si può partizionare un insieme di $12$ elementi in sottoinsiemi di due elementi?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1970_r3#q05|src_pol_1970_r3__Q05]]
 
 
 
@@ -154,6 +189,13 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova la più piccola derivata di confine A a 0 per quadratici di confine su [0,1]*
+*Trovare il più piccolo A tale che la derivata sia limitata in 0 per i polinomi quadratici limitati su [0,1]*
 
-> Trova il numero reale più piccolo $A$ in modo tale che, per ogni polinomio quadratico $f(x)$ che soddisfa $|f(x)| \le 1$ per $0 \le x \le 1$, tenga $f'(0) \le A$.
+> Trovare il numero reale più piccolo $A$ tale che, per ogni polinomio quadratico $f(x)$ che soddisfa $|f(x)| \le 1$ per $0 \le x \le 1$, valga $f'(0) \le A$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1970_r3#q06|src_pol_1970_r3__Q06]]

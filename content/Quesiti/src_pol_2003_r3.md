@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Linea di altitudine e di punto medio in triangolo acuto; dimostrare SD = SM dove S è il centro circundante di CKL.*
+*Triangolo acutangolo, altezza CD, retta per il punto medio di AB che stacca segmenti uguali sulle semirette: SD = SM*
 
-> In un triangolo a angolo acuto $ABC$, $CD$ è l'altitudine. Una linea attraverso il punto medio $M$ del lato $AB$ incontra i raggi $CA$ e $CB$ rispettivamente a $K$ e $L$ in modo tale che $CK = CL$. Il punto $S$ è il centro circundante del triangolo $CKL$. Prova che $SD = SM$.
+> In un triangolo acutangolo $ABC$, $CD$ è l'altezza. Una retta per il punto medio $M$ del lato $AB$ incontra le semirette $CA$ e $CB$ in $K$ e $L$ rispettivamente, in modo che $CK = CL$. Il punto $S$ è il circocentro del triangolo $CKL$. Dimostrare che $SD = SM$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2003_r3#q01|src_pol_2003_r3__Q01]]
 
 
 
@@ -55,9 +61,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimostra una disuguaglianza che limita una somma quadrata di potenze di a per tutte le sequenze di numeri interi non negativi in aumento rigoroso.*
+*Per 0 < a < 1 e successioni strettamente crescenti di interi non negativi, il quadrato della somma delle potenze è minore di una costante per la somma dei quadrati*
 
-> $0 < a < 1$ sia un numero reale. Prove che per tutte le sequenze finite, in aumento rigoroso $k_1, k_2, \ldots, k_n$ di enti interi non negativi si verifica la seguente disuguaglianza: $$\left(\sum_{i=1}^{n} a^{k_i}\right)^2 < \frac{1+a}{1-a}\sum_{i=1}^{n} a^{2k_i}.$$
+> Sia $0 < a < 1$ un numero reale. Dimostrare che, per ogni successione finita strettamente crescente $k_1, k_2, \ldots, k_n$ di interi non negativi, vale la disuguaglianza
+>
+> $$\left(\sum_{i=1}^{n} a^{k_i}\right)^2 < \frac{1+a}{1-a}\sum_{i=1}^{n} a^{2k_i}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2003_r3#q02|src_pol_2003_r3__Q02]]
 
 
 
@@ -80,9 +94,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i polinomi a coefficiente intero W in modo tale che W(n) divida 2^n - 1 per ogni n naturale.*
+*Polinomi a coefficienti interi tali che, per ogni naturale n, 2^n − 1 è divisibile per W(n)*
 
-> Trova tutti i polinomi $W$ con i coefficienti interi che soddisfano la seguente condizione: per ogni numero naturale $n$, $2^n - 1$ è divisibile da $W(n)$.
+> Trovare tutti i polinomi $W$ a coefficienti interi con la proprietà seguente: per ogni numero naturale $n$, $2^n - 1$ è divisibile per $W(n)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2003_r3#q03|src_pol_2003_r3__Q03]]
 
 
 
@@ -105,9 +125,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato che x^3,y^3,z^3 condivide un primo mod rimanente p, mostra x^2+y^2+z^2 è divisibile da x+y+z.*
+*Tre cubi con lo stesso resto modulo un primo: la somma dei quadrati è divisibile per la somma*
 
-> Sono indicati un numero primo $p$ e un numero intero $x, y, z$ con $0 < x < y < z < p$. Indicare che se i numeri $x^3, y^3, z^3$ danno lo stesso residuo diviso per $p$, allora $x^2 + y^2 + z^2$ è divisibile per $x + y + z$.
+> Sono dati un numero primo $p$ e interi $x, y, z$ con $0 < x < y < z < p$. Dimostrare che, se i numeri $x^3, y^3, z^3$ danno lo stesso resto nella divisione per $p$, allora $x^2 + y^2 + z^2$ è divisibile per $x + y + z$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2003_r3#q04|src_pol_2003_r3__Q04]]
 
 
 
@@ -130,9 +156,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'insfera del tetraedro ABCD tocca la faccia ABC a H; un'exsfera lo tocca a O; se O è il circoncentro allora H è l'ortocentro di ABC.*
+*Sfera inscritta e sfera tangente alla stessa faccia e ai piani delle altre: se il punto di contatto della seconda è il circocentro, quello della prima è l'ortocentro*
 
-> La sfera scritta in un tetraedro $ABCD$ tocca la faccia $ABC$ al punto $H$. Un'altra sfera tocca la faccia $ABC$ a $O$ e i piani che contengono le altre tre facce si trovano nei punti esterni alle facce. Dimostra che se $O$ è il circoncentro del triangolo $ABC$, allora $H$ è l'ortocentro di quel triangolo.
+> La sfera inscritta in un tetraedro $ABCD$ tocca la faccia $ABC$ nel punto $H$. Un'altra sfera tocca la faccia $ABC$ in $O$ e i piani delle altre tre facce in punti esterni alle facce. Dimostrare che, se $O$ è il circocentro del triangolo $ABC$, allora $H$ è l'ortocentro di quel triangolo.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_pol_2003_r3#q05|src_pol_2003_r3__Q05]]
 
 
 
@@ -157,6 +189,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per n pari, mostrare che esiste una permutazione di {1,...,n} dove ogni x_{i+1} è una delle quattro espressioni in x_i.*
+*Per n pari esiste una permutazione di 1, ..., n in cui ogni termine successivo è uno fra quattro valori legati al precedente*
 
-> Lasciate che $n$ sia un numero intero positivo pari. Indicare che esiste una permutazione $(x_1, x_2, \ldots, x_n)$ del set $\{1, 2, \ldots, n\}$, tale che per ogni $i \in \{1, 2, \ldots, n\}$, $$x_{i+1} \text{ is one of the numbers } 2x_i,\ 2x_i - 1,\ 2x_i - n,\ 2x_i - n - 1,$$ dove $x_{n+1} = x_1$.
+> Sia $n$ un intero positivo pari. Dimostrare che esiste una permutazione $(x_1, x_2, \ldots, x_n)$ dell'insieme $\{1, 2, \ldots, n\}$ tale che, per ogni $i \in \{1, 2, \ldots, n\}$,
+>
+> $$x_{i+1} \text{ is one of the numbers } 2x_i,\ 2x_i - 1,\ 2x_i - n,\ 2x_i - n - 1,$$
+>
+> dove $x_{n+1} = x_1$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_pol_2003_r3#q06|src_pol_2003_r3__Q06]]

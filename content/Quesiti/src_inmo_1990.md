@@ -35,15 +35,22 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quartico con quattro radici positive implica disuguaglianze dei coefficienti*
+*Un polinomio di quarto grado con quattro radici positive implica disuguaglianze sui coefficienti*
 
-> Se l'equazione $x^4 + px^3 + qx^2 + rx + s = 0$ ha quattro radici reali positive, dimostri che
-> 
+> Se l'equazione $x^4 + px^3 + qx^2 + rx + s = 0$ ha quattro radici reali positive, dimostrare che
+>
 > (a) $pr - 16s \ge 0$
-> 
+>
 > (b) $q^2 - 36s \ge 0$
-> 
-> con uguaglianza in ogni caso se e solo se le quattro radici sono uguali.
+>
+> con uguaglianza in ciascun caso se e solo se le quattro radici sono uguali.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1990#q01|src_inmo_1990__Q01]]
 
 
 
@@ -66,9 +73,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi non negativi che soddisfano $(xy-7)^2 = x^2 + y^2$*
+*Coppie di interi non negativi con (xy − 7)^2 = x^2 + y^2*
 
-> Trova tutte le coppie di integri non negativi $(x, y)$ soddisfacenti $(xy - 7)^2 = x^2 + y^2$.
+> Trovare tutte le coppie di interi non negativi $(x, y)$ che soddisfano $(xy - 7)^2 = x^2 + y^2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_inmo_1990#q02|src_inmo_1990__Q02]]
 
 
 
@@ -97,15 +111,22 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i valori di f(1990) per una funzione con determinate proprietà funzionali*
+*Trovare tutti i valori di f(1990) per una funzione con le proprietà funzionali date*
 
-> $f : \mathbb{N}_0 \to \mathbb{N}_0$ sia una funzione che soddisfi:
-> 
-> (i) $x - f(x) = 19\left\lfloor \frac{x}{19} \right\rfloor - 90\left\lfloor \frac{x}{90} \right\rfloor$ per tutti gli integri non negativi $x$;
-> 
+> Sia $f : \mathbb{N}_0 \to \mathbb{N}_0$ una funzione che soddisfa:
+>
+> (i) $x - f(x) = 19\left\lfloor \frac{x}{19} \right\rfloor - 90\left\lfloor \frac{x}{90} \right\rfloor$ per tutti gli interi non negativi $x$;
+>
 > (ii) $1900 < f(1990) < 2000$.
-> 
+>
 > Trova tutti i valori possibili che $f(1990)$ può assumere.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_1990#q03|src_inmo_1990__Q03]]
 
 
 
@@ -128,9 +149,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i sottogruppi di tre elementi di {1,...,300} con somma divisibile per 3*
+*Conta i sottoinsiemi di tre elementi di {1,...,300} la cui somma è divisibile per 3*
 
-> Determinare il numero di sottoinsiemi di tre elementi di $\{1, 2, 3, \ldots, 300\}$ per i quali la somma degli elementi è un multiple di 3.
+> Determinare il numero di sottoinsiemi a tre elementi di $\{1, 2, 3, \ldots, 300\}$ per i quali la somma degli elementi è un multiplo di 3.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_1990#q04|src_inmo_1990__Q04]]
 
 
 
@@ -155,9 +183,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra che la quantità laterale del triangolo si trova strettamente tra 1/2 e 2*
+*Mostra che la quantità dei lati del triangolo è strettamente compresa tra 1/2 e 2*
 
-> Lasciate che $a, b, c$ siano i lati di un triangolo. Indicare che la quantità $$\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b}$$ deve essere tra $\frac{1}{2}$ e $2$. L'uguaglianza può mantenere entrambi i limiti?
+> Siano $a, b, c$ i lati di un triangolo. Dimostrare che la quantità
+> $$\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b}$$
+> deve trovarsi tra $\frac{1}{2}$ e $2$. È possibile che si verifichi l'uguaglianza in uno dei due estremi?
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_inmo_1990#q05|src_inmo_1990__Q05]]
 
 
 
@@ -180,9 +217,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel triangolo scaleno con A obtuso, trovare locus di D sulla linea BC con AD=sqrt(BD·CD)*
+*In un triangolo scaleno con l'angolo A ottuso, determina il luogo geometrico dei punti D sulla retta BC tali che AD = √(BD·CD)*
 
-> In un triangolo scaleno $ABC$ l'angolo a $A$ è obtuso. Determinare l'insieme dei punti $D$ situati sulla linea estesa $BC$ per i quali $AD = \sqrt{BD \cdot CD}$.
+> In un triangolo scaleno $ABC$, l'angolo in $A$ è ottuso. Determinare l'insieme dei punti $D$ che giacciono sulla retta estesa $BC$ per cui $AD = \sqrt{BD \cdot CD}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1990#q06|src_inmo_1990__Q06]]
 
 
 
@@ -205,6 +249,13 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Locus di P tale che il triangolo DEF (piedi dei criminali) sia isosceles; quando equilaterale?*
+*Luogo geometrico dei punti P tali che il triangolo DEF (piedi delle perpendicolari) sia isoscele; quando è equilatero?*
 
-> Per qualsiasi punto $P$ situato all'interno di un determinato triangolo acuto $ABC$, $D, E, F$ indichi i piedi delle perpendicolari da $P$ a $AB$, $BC$ e $CA$ rispettivamente. Trova l'insieme di tutte le posizioni di $P$ per le quali il triangolo $DEF$ è uguale. Per quale posizione di $P$ è equilaterale il triangolo $DEF$?
+> Per ogni punto $P$ che giace all'interno di un dato triangolo acutangolo $ABC$, si indichi con $D, E, F$ i piedi delle perpendicolari condotte da $P$ sulle rette $AB$, $BC$, $CA$ rispettivamente. Determinare l'insieme di tutte le posizioni di $P$ per cui il triangolo $DEF$ è isoscele. Per quale posizione di $P$ il triangolo $DEF$ è equilatero?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1990#q07|src_inmo_1990__Q07]]

@@ -31,11 +31,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mediano incircolo; prova lati in rapporto 5:10:13*
+*La mediana incontra l'incircoscritto; dimostrare che i lati sono in rapporto 5:10:13*
 
-> $M$ sia il punto medio del lato $BC$ di un triangolo $ABC$. La media $AM$ interseca l'incircolo di $ABC$ a $K$ e $L$, $K$ più vicina a $A$ che a $L$. Se $AK = KL = LM$, dimostrare che i lati del triangolo $ABC$ sono nel rapporto $5 : 10 : 13$ in un certo ordine.
+> Sia $M$ il punto medio del lato $BC$ di un triangolo $ABC$. Sia $AM$ la mediana che interseca l'incirconferenza di $ABC$ nei punti $K$ e $L$, con $K$ più vicino a $A$ di $L$. Se $AK = KL = LM$, dimostrare che i lati del triangolo $ABC$ sono in rapporto $5 : 10 : 13$ in qualche ordine.
 
 ![[src_inmo_2005__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2005#q01|src_inmo_2005__Q01]]
 
 
 
@@ -61,11 +68,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il beta minimo per la frazione strettamente tra due razionali*
+*Trovare il beta minimo per una frazione strettamente compresa tra due numeri razionali*
 
-> $\alpha$ e $\beta$ siano integri positivi in modo tale che $$\frac{43}{197} < \frac{\beta}{\alpha} < \frac{17}{77}.$$ Trova il valore minimo possibile di $\beta$.
+> Siano $\alpha$ e $\beta$ numeri interi positivi tali che
+> $$\frac{43}{197} < \frac{\beta}{\alpha} < \frac{17}{77}.$$
+> Trova il valore minimo possibile di $\beta$.
 
-**Risposta:** 32
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2005#q02|src_inmo_2005__Q02]]
 
 
 
@@ -92,9 +106,20 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre equazioni condividono la radice; dimostrare che la radice è negativa e la terza ha radici non reali*
+*Tre equazioni hanno una radice in comune; dimostrare che la radice è negativa e che la terza equazione ha radici non reali*
 
-> Lasciate che $p, q, r$ siano numeri reali, non tutti uguali, in modo che alcune due delle equazioni $$px^2 + 2qx + r = 0, \quad qx^2 + 2rx + p = 0, \quad rx^2 + 2px + q = 0$$ abbiano una radice comune, diciamo $\alpha$. Provare che a) $\alpha$ è reale e negativo; e b) la terza equazione ha radici non reali.
+> Siano $p, q, r$ numeri reali, non tutti uguali, tali che due delle equazioni
+> $$px^2 + 2qx + r = 0, \quad qx^2 + 2rx + p = 0, \quad rx^2 + 2px + q = 0$$
+> abbiano una radice comune, diciamo $\alpha$. Dimostrare che
+> (a) $\alpha$ è reale e negativo; e
+> (b) la terza equazione ha radici non reali.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2005#q03|src_inmo_2005__Q03]]
 
 
 
@@ -118,11 +143,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il numero a 6 cifre del 2005 con numeri in ordine non crescente*
+*Trovare il 2005° numero di 6 cifre le cui cifre sono in ordine non crescente*
 
-> Tutti i numeri $6$ possibili, in ognuno dei quali i numeri si presentano in ordine non in aumento (da sinistra a destra, ad esempio $877550$), sono scritti come una sequenza in ordine in aumento. Trovare il numero $2005$-th in questa sequenza.
+> Tutti i numeri possibili di $6$ cifre, ciascuno dei quali ha cifre in ordine non crescente (da sinistra a destra, ad es. $877550$), sono scritti in sequenza in ordine crescente. Determinare il $2005$-esimo numero di questa sequenza.
 
-**Risposta:** 864110
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2005#q04|src_inmo_2005__Q04]]
 
 
 
@@ -147,9 +177,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza costruita aggiungendo cifre non zero; dimostrare infiniti termini pari*
+*Successione costruita aggiungendo una cifra non nulla; dimostrare che esistono infiniti termini pari*
 
-> $x_1$ sia un dato numero intero positivo. Una sequenza $(x_n)_{n=1}^{\infty} = (x_1, x_2, x_3, \ldots)$ di numeri interi positivi è tale che $x_n$, per $n \ge 2$, si ottiene da $x_{n-1}$ aggiungendo qualche cifra non zero di $x_{n-1}$. Prova che (a) la sequenza ha un numero pari; (b) la sequenza ha infinitamente molti numeri pari.
+> Sia $x_1$ un intero positivo dato. Una successione $(x_n)_{n=1}^{\infty} = (x_1, x_2, x_3, \ldots)$ di interi positivi è tale che $x_n$, per $n \ge 2$, si ottiene da $x_{n-1}$ aggiungendo una cifra non nulla di $x_{n-1}$. Dimostrare che
+> (a) la successione contiene un numero pari;
+> (b) la successione contiene infiniti numeri pari.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2005#q05|src_inmo_2005__Q05]]
 
 
 
@@ -174,6 +213,15 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le f: R a R soddisfacenti f(x^2 + yf(z)) = xf(x) + zf(y)*
+*Trovare tutte le funzioni f: R → R tali che f(x^2 + yf(z)) = xf(x) + zf(y)*
 
-> Trova tutte le funzioni $f : \mathbf{R} \to \mathbf{R}$ in modo tale che $$f(x^2 + yf(z)) = xf(x) + zf(y) \tag{1}$$ per tutte $x, y, z \in \mathbf{R}$. (Qui $\mathbf{R}$ indica l'insieme di tutti i numeri reali.)
+> Trovare tutte le funzioni $f : \mathbf{R} \to \mathbf{R}$ tali che
+> $$f(x^2 + yf(z)) = xf(x) + zf(y) \tag{1}$$
+> per tutti gli $x, y, z \in \mathbf{R}$. (Qui $\mathbf{R}$ denota l'insieme di tutti i numeri reali.)
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2005#q06|src_inmo_2005__Q06]]

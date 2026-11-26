@@ -36,15 +36,22 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles with two vertices of the same colour on the circumference*
+*Triangles with two vertices of the same colour on a circle*
 
-> Three red dots, two green dots, two yellow dots, and one blue dots are marked along a circumference. How many triangles can be obtained by choosing two vertices of the same color and a third of a different color?
+> On a circle there are three red points, two green points, two yellow points and one blue point. How many triangles
+> can be obtained by choosing two vertices of the same colour and the third of another colour?
 >
 > - **(A)** 27
 > - **(B)** 36
 > - **(C)** 25
 > - **(D)** 30
 > - **(E)** 31
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q01|src_archimede_2021_biennio_tradizionale__Q01]]
 
 
 
@@ -72,15 +79,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum value of 3-2x given (5-4x) ((5x-4)=0*
+*Maximum value of 3-2x given (5-4x)(5x-4)=0*
 
-> Knowing that (5 −4x) ((5x −4) = 0, what can be the maximum value of 3 −2x?
+> Knowing that (5 −4x)(5x −4) = 0, what can be, at most, the value of 3 −2x?
 >
 > - **(A)** 7/5
 > - **(B)** 1/2
 > - **(C)** 5/7
 > - **(D)** 3/4
 > - **(E)** 4/7
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q02|src_archimede_2021_biennio_tradizionale__Q02]]
 
 
 
@@ -110,15 +122,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many second numbers between 40 and 70*
+*How many second numbers are between 40 and 70*
 
-> Since 2021 = 43 · 47, product of two different prime numbers, we can say that 2021 is a second number. How many secondary numbers are between 40 and 70 ?
+> Since 2021 = 43 · 47, the product of two different prime numbers, we can say that 2021 is a second number. How many second numbers are between 40 and 70?
 >
 > - **(A)** 7
 > - **(B)** 6
 > - **(C)** 11
 > - **(D)** 8
 > - **(E)** 10
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q03|src_archimede_2021_biennio_tradizionale__Q03]]
 
 
 
@@ -147,15 +165,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Enlargement of the Y angle with X=48 and Z triple Y*
+*Angle Y measure with X=48 and Z triple of Y*
 
-> In the triangle XY Z the angle b X measures 48° and bZ is triple bY . What is the width of by ?
+> In triangle XYZ the angle at X measures 48° and the angle at Z is three times the angle at Y. What is the measure of the angle at Y?
 >
 > - **(A)** 24°
 > - **(B)** 44°
 > - **(C)** 33°
 > - **(D)** 16°
 > - **(E)** 22°
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q04|src_archimede_2021_biennio_tradizionale__Q04]]
 
 
 
@@ -184,7 +207,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which product of powers and squares of an integer*
+*Which product of powers and square of an integer*
 
 > Which of the following is the square of an integer?
 >
@@ -193,6 +216,12 @@ level: biennio
 > - **(C)** 7717 · 149 · 2211
 > - **(D)** 779 · 1416 · 2213
 > - **(E)** 779 · 1412 · 2216
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q05|src_archimede_2021_biennio_tradizionale__Q05]]
 
 
 
@@ -224,15 +253,24 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Knights and thieves in the post office files*
+*Knights and liars in the post office queues*
 
-> On an island where only knights (who always tell the truth) and crooks (who always tell the lies) live, the post office is quite crowded. There are four lines at the gates: one with 12 people, one with 11, one with 15 and one with 14 people. Each of the present (except the first two in each row) says this sentence: Among the people in front of me in my row there are at least two thieves. How many knights are there at the post office?
+> In the island where only knights (who always tell the truth) and liars (who always tell lies) live, the post office
+> is quite crowded. There are four queues at the counters: one with 12 people, one with 11, one with 15 and one with 14
+> people. Each of those present (except the first two in each queue) says this sentence: “among the people in front of me
+> in my queue there are at least two liars”. How many knights are there in total at the post office?
 >
 > - **(A)** 36
 > - **(B)** 26
 > - **(C)** 44
-> - **(D)** It is not possible to establish
+> - **(D)** it cannot be determined
 > - **(E)** 40
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q06|src_archimede_2021_biennio_tradizionale__Q06]]
 
 
 
@@ -261,15 +299,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle perimeter given the three heights and side AB*
+*Triangle perimeter given the three altitudes and side AB*
 
-> The heights from the vertices A, B and C of the triangle ABC shall be 6 m, 8 m and 4 m respectively. Indicated by the length of the AB side, what is the perimeter of the triangle?
+> The altitudes from the vertices A, B and C of triangle ABC measure, respectively, 6 m, 8 m and 4 m. Let ℓ be the length of side AB. What is the perimeter of the triangle?
 >
 > - **(A)** 17 8 ℓ
 > - **(B)** 13 6 ℓ
 > - **(C)** 25 12ℓ
 > - **(D)** 15 7 ℓ
 > - **(E)** 32 15ℓ
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q07|src_archimede_2021_biennio_tradizionale__Q07]]
 
 
 
@@ -299,15 +342,22 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pear juice left after mixing and extraction*
+*Pear juice left after mixtures and removals*
 
-> Paola prepared a drink by mixing 800 ml of pear juice with 200 ml of banana juice, drinking 300 ml and leaving the remainder in a jar. Francesco mixed the drink in the jar with 200 ml of strawberry juice and drank 180 ml. How much pear juice is in the jar now?
+> Paola prepared a drink by mixing 800 ml of pear juice with 200 ml of banana juice, drank 300 ml of it
+> and left the remaining part in a jug. Francesco mixed the drink in the jug with 200 ml of strawberry juice
+> and drank 180 ml of it. How much pear juice is now in the jug?
 >
 > - **(A)** 432 ml
 > - **(B)** 442 ml
 > - **(C)** 425 ml
 > - **(D)** 415 ml
 > - **(E)** 448 ml
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q08|src_archimede_2021_biennio_tradizionale__Q08]]
 
 
 
@@ -336,15 +386,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of triangle obtained by extending the sides of DEF*
+*Area of the triangle obtained by extending the sides of DEF*
 
-> The area of the DEF triangle is 8 m2. Extend the DE side of a segment EE′ = DE; extend the EF side of a segment FF ′ = EF; extend the FD side of a segment DD′ = 2 FD. What will be the area of D′E′F ′?
+> The area of triangle DEF is 8 m2. The side DE is extended by a segment EE′ = DE; the side EF is extended by a segment FF′ = EF; the side FD is extended by a segment DD′ = 2 FD. What will be the area of D′E′F′?
 >
 > - **(A)** 88 m2
 > - **(B)** 72 m2
 > - **(C)** 64 m2
 > - **(D)** 80 m2
 > - **(E)** 84 m2
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q09|src_archimede_2021_biennio_tradizionale__Q09]]
 
 
 
@@ -376,15 +431,24 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting words with letters A,B,C and bonds*
+*Counting words with letters A, B, C and constraints*
 
-> Emmanuel writes words using only the letters A, B, C. Each word must meet the following conditions: it must contain at least one of the letters A, B, C, but not all three; it must contain no more than one B; it must contain no more than one C; it must not contain a sequence AA (two A's below). How many different words can Emmanuel write?
+> Emanuele writes words using only the letters A, B, C. Each word must satisfy these conditions: it must
+> contain at least one of the letters A, B, C, but not all three; it cannot contain the letter B more than once; it cannot
+> contain the letter C more than once; it cannot contain a sequence AA (two A's in a row). How many different
+> words can Emanuele write?
 >
 > - **(A)** 11
 > - **(B)** 10
 > - **(C)** 8
 > - **(D)** 9
 > - **(E)** 13
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q10|src_archimede_2021_biennio_tradizionale__Q10]]
 
 
 
@@ -414,15 +478,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*CD side of the trapezoid with perpendicular diagonals*
+*Side CD of a trapezium with perpendicular diagonals*
 
-> In the ABCD trapezoid, base AB and base CD, the AC and BD diagonals are perpendicular to each other. The segments AB and BD measure, in order, 20 m and 17 m; the area of the triangle ABD is 102 m2. How many feet does the CD side measure?
+> In the trapezium ABCD, with bases AB and CD, the diagonals AC and BD are perpendicular to each other. The segments AB and BD measure, in that order, 20 m and 17 m; the area of triangle ABD is 102 m2. How many metres does side CD measure?
 >
 > - **(A)** 9/5
 > - **(B)** 4/3
 > - **(C)** 5/4
 > - **(D)** 9/8
 > - **(E)** 8/5
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q11|src_archimede_2021_biennio_tradizionale__Q11]]
 
 
 
@@ -458,14 +528,22 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tracks on a 9x7 board frame in 14 movements*
+*Paths on the border of a 9x7 board in 14 moves*
 
-![[src_archimede_2021_biennio_tradizionale__prob12.png]]
-
-> In a table 9×7, a foot (initially in box A) may be moved across the side common to two adjacent boxes at each move. Federica wants to bring it to box B in 14 moves, without stepping on the central rectangle 5 × 3 (the pedal must always remain on the frame with a thickness of 2 boxes). How many routes are there? A B
+> On a 9×7 board, a counter (initially in square A) can be moved at each move by crossing the side common to two adjacent squares. Federica wants to bring it to square B in 14 moves, without stepping on the central rectangle 5 × 3 (the counter must always remain on the border of thickness 2 squares). How many possible paths are there?
+> A
+> B
 >
 > - **(A)** 98
 > - **(B)** 108
 > - **(C)** 100
 > - **(D)** 112
-> - **(E)** 104 2042 Italian Mathematical Union Mathematics Olympic Project Ministry of Education The Archimedes Games - Competition biennium 2 December 2021  The test consists of 12 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). One of these answers is correct, the other four are wrong.  Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded.  For each of the problems, the corresponding letter to the correct answer must be transcribed in the grid below. Cancellations or corrections on the grid are not permitted. No calculator or communication device shall be used during the test. The time you have is 60 minutes. Good work and good fun! COGNOME Class name date of birth: email address: PROBLEMS: 1 2 3 4 5 6 7 8 9 10 11 12 The Games of Archimedes 2021 GARA BENNIO   CODE PROVA: 2042
+> - **(E)** 104
+
+![[src_archimede_2021_biennio_tradizionale__prob12.png]]
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2021_biennio_tradizionale#q12|src_archimede_2021_biennio_tradizionale__Q12]]

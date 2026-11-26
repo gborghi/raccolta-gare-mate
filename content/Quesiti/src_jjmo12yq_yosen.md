@@ -32,13 +32,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due quadrati che condividono un punto medio; trovare segmento BF*
+*Due quadrati che condividono un punto medio; trova il segmento BF*
 
-> Ci sono due quadrati $ABCD$ e $MCEF$. Il punto $M$ è il punto medio del lato $DA$ e i punti $D$ e $F$ si trovano sullo stesso lato rispetto alla linea $CM$. Quando la lunghezza del segmento $AB$ è $1$, trovare la lunghezza del segmento $BF$.
+> Ci sono due quadrati $ABCD$ e $MCEF$. Il punto $M$ è il punto medio del lato $DA$, e i punti $D$ e $F$ giacciono sullo stesso lato rispetto alla retta $CM$. Quando la lunghezza del segmento $AB$ è $1$, determina la lunghezza del segmento $BF$.
 
 ![[src_jjmo12yq_yosen__q01.png]]
 
-**Risposta:** $\frac{3}{2}\sqrt{2}$
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo12yq_yosen#q01|src_jjmo12yq_yosen__Q01]]
 
 
 
@@ -67,11 +72,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova n dove esattamente 3 delle 4 affermazioni su n sono vere*
+*Trovare n tale che esattamente 3 delle 4 affermazioni riguardanti n siano vere*
 
-> Per un intero positivo $n$ al massimo $500$, quattro persone A, B, C, D dicono quanto segue: A: "$n$ è divisibile da $2$ esattamente $3$ volte (cioè $2^3 \mid n$ ma $2^4 \nmid n$)." B: "$n$ è divisibile da $3$ esattamente $2$ volte." C: "$n$ è divisibile da $7$ esattamente $1$ tempo." D: "La somma delle cifre di $n$ è $15$". Trova $n$.
+> Per un numero intero positivo $n$ non superiore a $500$, quattro persone, A, B, C e D, dicono quanto segue: A: "$n$ è divisibile per $2$ esattamente $3$ volte (cioè $2^3 \mid n$ ma $2^4 \nmid n$)." B: "$n$ è divisibile per $3$ esattamente $2$ volte." C: "$n$ è divisibile per $7$ esattamente $1$ volta." D: "La somma delle cifre di $n$ è $15$." Tra queste, le affermazioni di tre di loro sono corrette e quella della restante è errata. Trovare $n$.
 
-**Risposta:** 168
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo12yq_yosen#q02|src_jjmo12yq_yosen__Q02]]
 
 
 
@@ -97,13 +107,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza di conteggio-10 camminate chiuse che ritornano al centro della griglia a punti 3x3*
+*Conta i cammini chiusi di lunghezza 10 che tornano al centro di una griglia di punti 3x3*
 
-> Partendo dal punto centrale della figura di seguito e spostandosi lungo un bordo verso un punto adiacente, questo viene ripetuto $10$ volte in modo da tornare al punto centrale. In quanti modi si può farlo? Qui, è consentito spostarsi sul punto centrale a metà strada. (La figura è un array $3 \times 3$ di punti collegati da bordi orizzontali e verticali di una griglia.)
+> Partendo dal punto centrale della figura sottostante e muovendosi lungo un lato fino a un punto adiacente, si ripete questa operazione $10$ volte in modo da tornare al punto centrale. In quanti modi si può fare? Qui è consentito raggiungere il punto centrale a metà percorso. (La figura è una disposizione $3 \times 3$ di punti collegati da lati orizzontali e verticali di una griglia.)
 
 ![[src_jjmo12yq_yosen__q03.png]]
 
-**Risposta:** 16384
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo12yq_yosen#q03|src_jjmo12yq_yosen__Q03]]
 
 
 
@@ -127,11 +142,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono ciclico con lati dati; trovare diagonale BE*
+*Pentagono ciclico con lati dati; trovare la diagonale BE*
 
-> C'è un pentagono ciclico $ABCDE$ con $AB=2$, $BC=5$, $CD=2$, $DE=5$, $AD=8$. Trova la lunghezza del segmento $BE$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Esiste un pentagono ciclico $ABCDE$ con $AB=2$, $BC=5$, $CD=2$, $DE=5$, $AD=8$. Determinare la lunghezza del segmento $BE$. Qui, $XY$ indica la lunghezza del segmento $XY$.
 
-**Risposta:** $\frac{19}{2}$
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo12yq_yosen#q04|src_jjmo12yq_yosen__Q04]]
 
 
 
@@ -155,11 +175,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max n so 1..n può essere di 2 colori senza somma quadrata monocromatica*
+*Per Max n e per ogni n, si può applicare una colorazione a 2 colori senza alcuna somma dei quadrati monocolore*
 
-> $n$ sia un numero intero positivo. Su una lavagna, ciascuno dei numeri interi da $1$ a $n$ viene scritto esattamente una volta, ognuno di colore rosso o bianco. La somma di due numeri distinti scritti nello stesso colore non è un quadrato perfetto. Trovare il valore più grande possibile di $n$.
+> Sia $n$ un numero intero positivo. Sulla lavagna, ciascuno degli interi da $1$ a $n$ viene scritto esattamente una volta, e ciascuno è colorato di rosso o di bianco. La somma di due numeri distinti qualsiasi scritti dello stesso colore non è un quadrato perfetto. Determinare il valore massimo possibile di $n$.
 
-**Risposta:** 14
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo12yq_yosen#q05|src_jjmo12yq_yosen__Q05]]
 
 
 
@@ -183,11 +208,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le n positive con n+16 e 16n+1 entrambi i quadrati perfetti*
+*Interi positivi n tali che n+16 e 16n+1 sono quadrati perfetti*
 
-> Trova tutti gli integri positivi $n$ in modo che sia $n+16$ che $16n+1$ siano quadrati perfetti.
+> Trovare tutti gli interi positivi $n$ tali che sia $n+16$ sia $16n+1$ sono quadrati perfetti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata per casi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
 **Risposta:** $33,\ 105,\ 1008$
+
+[[Quesiti/src_jjmo12yq_yosen#q06|src_jjmo12yq_yosen__Q06]]
 
 
 
@@ -211,11 +243,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio di sei tabelle 1x2 con due celle coperte per riga/colonna*
+*Conta le disposizioni di sei tavolette 1x2 con due celle coperte per riga/colonna*
 
-> C'è una griglia $6 \times 6$. Sono disposte sei tavole rettangolari di dimensioni $1 \times 2$, ciascuna coprendo esattamente le celle $2$, in modo che non si sovrappongano, in modo tale che in ogni riga e in ogni colonna le celle $2$ siano coperte esattamente da tavole. In quanti modi si può farlo? Qui, le sei tavole sono indistinguibili e le posizioni che coincidono sotto una rotazione o riflessione della griglia $6 \times 6$ vengono contate come diverse.
+> C'è una griglia $6 \times 6$. Vengono disposte sei tavolette rettangolari di dimensioni $1 \times 2$, ciascuna delle quali copre esattamente $2$ celle, in modo che non si sovrappongano, e in modo che in ogni riga e in ogni colonna esattamente $2$ celle siano coperte dalle tavolette. In quanti modi si può procedere? Qui le sei tavolette sono indistinguibili, e le disposizioni che coincidono mediante una rotazione o una riflessione della griglia $6 \times 6$ sono considerate diverse.
 
-**Risposta:** 540
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo12yq_yosen#q07|src_jjmo12yq_yosen__Q07]]
 
 
 
@@ -239,11 +276,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trapezoide con due angoli retti e dato EF; trova DG*
+*Trapezio con due angoli retti e EF dato; trovare DG*
 
-> C'è un trapezoide $ABCD$ con $BC \parallel AD$, che soddisfa $AB=1$, $BC=1$, $CD=1$, $DA=2$. Il punto medio del lato $BC$ è $M$. Ci sono due punti $E$, $F$ sul lato $AD$ e un punto $G$ sul lato $CD$ che soddisfano $\angle EMG = \angle FGM = 90^\circ$ e $EF = \frac{3}{2}$. Trova la lunghezza del segmento $DG$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Esiste un trapezio $ABCD$ con $BC \parallel AD$, che soddisfa $AB=1$, $BC=1$, $CD=1$, $DA=2$. Sia $M$ il punto medio del lato $BC$. Ci sono due punti $E$, $F$ sul lato $AD$ e un punto $G$ sul lato $CD$, tali che valgono $\angle EMG = \angle FGM = 90^\circ$ e $EF = \frac{3}{2}$. Determinare la lunghezza del segmento $DG$. Qui, $XY$ indica la lunghezza del segmento $XY$.
 
-**Risposta:** $\frac{7-\sqrt{33}}{8}$
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo12yq_yosen#q08|src_jjmo12yq_yosen__Q08]]
 
 
 
@@ -268,11 +310,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mini pezzi in modo che qualsiasi inizio possa essere ridotto a un pezzo al centro*
+*Pezzi minimi, così qualsiasi inizio può essere ridotto a un unico pezzo al centro*
 
-> Su una griglia $55 \times 55$, un pezzo viene posizionato su ciascuna delle celle distinte $n$. Indipendentemente dal posizionamento iniziale dei pezzi, ripetendo l'operazione di seguito è possibile raggiungere uno stato in cui un pezzo viene posizionato sulla cella centrale. Trova il valore più piccolo di $n$ per il quale questo è possibile. Operazione: scegli un pezzo e fissa una direzione di movimento tra su, giù, sinistra, destra. Poi, finché la prossima cella in cui si deve spostare non è né fuori dalla griglia né una cella già occupata da un pezzo, spostare ripetutamente il pezzo scelto una cella alla volta in quella direzione.
+> Su una griglia di $55 \times 55$, un pezzo viene collocato su ciascuna delle $n$ celle distinte. Indipendentemente dalla disposizione iniziale dei pezzi, ripetendo l'operazione seguente è possibile raggiungere uno stato in cui un pezzo è collocato sulla cella centrale. Determinare il valore minimo di $n$ per cui ciò è possibile. Operazione: scegli un pezzo e fissa una direzione di movimento tra su, giù, sinistra e destra. Poi, finché la cella successiva in cui spostare il pezzo non è né esterna alla griglia né una cella già occupata da un pezzo, sposta ripetutamente il pezzo scelto di una cella alla volta in quella direzione.
 
-**Risposta:** 3
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo12yq_yosen#q09|src_jjmo12yq_yosen__Q09]]
 
 
 
@@ -296,11 +343,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-Valori di x^2/y+y^2/z+z^2/x fino a 500 con gcd(x,y,z) = 1*
+*Valori di x^2/y+y^2/z+z^2/x fino a 500 con mcd(x,y,z)=1*
 
-> Che $x$, $y$, $z$ siano integri positivi il cui più grande divisore comune (di tutti e tre) è $1$. Trova tutti i valori, tra i numeri interi al massimo $500$, che possono essere presi da $\dfrac{x^2}{y} + \dfrac{y^2}{z} + \dfrac{z^2}{x}$.
+> Siano $x$, $y$, $z$ numeri interi positivi il cui massimo comune divisore (di tutti e tre) è $1$. Determinare tutti i valori, tra gli interi non superiori a $500$, che $\dfrac{x^2}{y} + \dfrac{y^2}{z} + \dfrac{z^2}{x}$ può assumere.
 
-**Risposta:** $3,\ 65,\ 386$
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo12yq_yosen#q10|src_jjmo12yq_yosen__Q10]]
 
 
 
@@ -325,11 +377,16 @@ Valori di x^2/y+y^2/z+z^2/x fino a 500 con gcd(x,y,z) = 1*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi le assignazioni di frecce su 14 punti di cerchio con condizione di iterazione funzionale*
+*Conta le assegnazioni di frecce su 14 punti del cerchio con una condizione di iterazione funzionale*
 
-> Ci sono punti $14$ su un cerchio. Da ogni punto viene tracciata esattamente una freccia che punta su uno dei punti, soddisfacendo la condizione seguente. In quanti modi si possono tirare le frecce? Qui, un punto può avere la sua freccia che punta su se stesso, e le configurazioni che coincidono sotto una rotazione o un riflesso sono contate come diverse. Condizione: per ogni punto, il punto raggiunto partendo da esso e seguendo le frecce $20$ volte coincide con il punto raggiunto partendo dal punto due posti in senso orario da esso e seguendo le frecce una volta.
+> Sul cerchio ci sono $14$ punti. Da ciascun punto si traccia esattamente una freccia che punta verso uno dei punti, in modo da soddisfare la condizione seguente. In quanti modi si possono tracciare le frecce? Qui un punto può avere la propria freccia che punta verso se stesso, e le configurazioni che coincidono per rotazione o riflessione sono considerate diverse. Condizione: per ogni punto, il punto raggiunto partendo da esso e seguendo le frecce $20$ volte coincide con il punto raggiunto partendo dal punto che si trova due posizioni in senso orario rispetto a esso e seguendo le frecce una volta.
 
-**Risposta:** 974
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo12yq_yosen#q11|src_jjmo12yq_yosen__Q11]]
 
 
 
@@ -353,8 +410,13 @@ Valori di x^2/y+y^2/z+z^2/x fino a 500 con gcd(x,y,z) = 1*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Radio di circolo del triangolo ADY in termini di a,b,c*
+*Raggio circoscritto del triangolo ADY in funzione di a, b, c*
 
-> C'è un triangolo $ABC$ con $AB > AC$. Il $D$ deve essere l'intersezione del bisettore di $\angle BAC$ con il lato $BC$. Inoltre, $E$ e $F$ siano le intersezioni del bisettore perpendicolare del segmento $AD$ con i lati $AB$ e $AC$ rispettivamente, e prendere un punto $X$ sul lato $BC$ tale che $BX : XC = BE : CF$. Inoltre, $Y$ è l'intersezione del circoncircolo del triangolo $ABC$ con la linea $AX$ diversa da $A$, e imposta $BC=a$, $CA=b$, $AB=c$. Esprimere il raggio del circoncircolo del triangolo $ADY$ in termini di $a$, $b$, $c$. Qui $ZW$ indica la lunghezza del segmento $ZW$.
+> C'è un triangolo $ABC$ con $AB > AC$. Sia $D$ l'intersezione della bisettrice di $\angle BAC$ con il lato $BC$. Inoltre, siano $E$ e $F$ le intersezioni della mediatrice del segmento $AD$ con i lati $AB$ e $AC$ rispettivamente, e si prenda un punto $X$ sul lato $BC$ tale che $BX : XC = BE : CF$. Inoltre, sia $Y$ l'intersezione della circonferenza circoscritta al triangolo $ABC$ con la retta $AX$, diversa da $A$, e si pongano $BC=a$, $CA=b$, $AB=c$. Esprimi il raggio della circonferenza circoscritta al triangolo $ADY$ in funzione di $a$, $b$, $c$. Qui, $ZW$ denota la lunghezza del segmento $ZW$.
 
-**Risposta:** $\frac{abc}{c^2-b^2}$
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo12yq_yosen#q12|src_jjmo12yq_yosen__Q12]]

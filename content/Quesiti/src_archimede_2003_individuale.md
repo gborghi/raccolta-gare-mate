@@ -29,9 +29,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*divisibility of the digits*
+*Divisibility of numbers with digits*
 
-> Find all three-digit natural numbers $n$ ($100 \le n \le 999$) that are equal to the number formed by the last three digits of $n^2$.
+> Find all natural numbers $n$ with three digits ($100 \le n \le 999$) that are equal to the number formed by the last three digits of $n^2$.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2003_individuale#q01|src_archimede_2003_individuale__Q01]]
 
 
 
@@ -62,13 +68,17 @@ level: nazionale
 
 *minimum time*
 
-![[src_archimede_2003_individuale__prob2.png]]
+> A museum has a square floor plan and is divided into $n^2$ identical square rooms (with $n > 1$). Every pair of adjacent rooms (i.e. sharing a wall) communicates via a door (as shown in the example alongside for $n = 4$). The night guard wants to organise his inspection round so as to respect the following rules: the guard starts from a certain room, where he stays for one minute, after which he moves to an adjacent room, where he stays for another minute; the path continues by connecting adjacent rooms, in each of which the guard always stays exactly one minute.
+>
+> It is allowed to pass through the same room more than once, but at the end of the path (which need not be in the starting room) the guard must have been in each of the $n^2$ rooms for exactly $k$ minutes.
+>
+> Determine for which positive integers $n$ and $k$ it is possible to organise the path respecting these rules.
 
-> A museum has the square plan and is divided into $n^2$ square rooms all equal (with $n > 1$). Each pair of adjacent rooms (i.e. with a common wall) communicates through a door (as shown in the example next to $n = 4$). The night watchman wants to organize his inspection round so as to respect the following rules: the watchman leaves a certain room, where he stays for a minute, finished which moves to an adjacent room, where he stays for another minute; the path continues by connecting adjacent rooms, in each of which the watchman always stays exactly one minute.
-> 
-> It is permissible to return several times from the same room, but at the end of the journey (which is not necessarily in the starting room) the guardian must have been in each $n^2$ room for exactly $k$ minutes.
-> 
-> Determine for which positive integers $n$ and $k$ the path can be arranged in accordance with these rules.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2003_individuale#q02|src_archimede_2003_individuale__Q02]]
 
 
 
@@ -92,11 +102,14 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*inscribed isosceles triangle, demonstration*
+*isosceles triangle inscribed, proof*
 
-![[src_archimede_2003_individuale__prob3.png]]
+> In the figure, point $C$ is inside the radius $OB$ of a semicircle with centre $O$, and segment $CD$ is perpendicular to diameter $AB$. A circle with centre $P$ is inscribed in the semicircle, tangent to arc $BD$ at $F$, to segment $CD$ at $E$, and to diameter $AB$ at $G$. Prove that triangle $ADG$ is isosceles. (see figure)
 
-> In the figure, the point $C$ is within the radius $OB$ of a centre semiconductor $O$ and the segment $CD$ is perpendicular to the diameter $AB$. A center circumference $P$ is inscribed in the semiconductor, tangent to the arc $BD$ in $F$, to the segment $CD$ in $E$ and to the diameter $AB$ in $G$. Demonstrate that the $ADG$ triangle is isosceles. (see figure)
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2003_individuale#q03|src_archimede_2003_individuale__Q03]]
 
 
 
@@ -121,11 +134,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*who is a knight and who is a con man*
+*Who is a knight and who is a rascal*
 
-> On an island there are two categories of people: knights, who always tell the truth, and crooks, who always lie. One day the great council, consisting of $2003$ members, meets. They sit at a random round table, and during the meeting each declares, "Both my neighbors are thieves!" The next day the council meets again, but one of the members is ill, so only $2002$ members are present. They randomly reposition themselves again around the round table and each of them says, "Both my neighbors belong to the opposite category to mine".
-> 
-> Was the patient a con man or a knight?
+> On an island there are two categories of people: knights, who always tell the truth, and rascals, who always lie. One day the grand council meets, consisting of $2003$ members. They sit down at random around a round table, and during the meeting each of them declares: "Both of my neighbours are rascals!" The next day the council meets again, but one of the members is ill, so only $2002$ members are present. They rearrange themselves at random around the round table and each of them says: "Both of my neighbours belong to the category opposite to mine".
+>
+> Was the sick person a rascal or a knight?
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2003_individuale#q04|src_archimede_2003_individuale__Q04]]
 
 
 
@@ -154,15 +173,19 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*foot in the centre, configuration existence*
+*Tokens at the centre, existence of configurations*
 
-![[src_archimede_2003_individuale__prob5.png]]
+> Given an $m \times n$ grid ($m, n \ge 1$), a token is placed at the centre of each cell and one in every vertex of the grid (in the example shown alongside with $n = 4$ and $m = 3$, $32$ tokens are placed).
+>
+> (a) Find all tables that have exactly $500$ tokens.
+>
+> (b) Prove that there exist infinitely many positive integers $k$ such that no grids exist with exactly $k$ tokens.
 
-> Given a $m \times n$ grid, ($m, n \ge 1$) a footprint is provided at the centre of each box and one at each top of the grid (in the example shown next to $n = 4$ and $m = 3$ $32$ footprints are provided).
-> 
-> (a) Find all tables that have exactly $500$ footings.
-> 
-> (b) Demonstrate that there are infinite positive integers $k$ such that there are no grids with exactly $k$ footings.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2003_individuale#q05|src_archimede_2003_individuale__Q05]]
 
 
 
@@ -189,10 +212,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*round table person, places marked*
+*people at a round table, marked seats*
 
-> People were invited to a lunch, sitting around a round table, whose seats were marked $1$ to $n$ by appropriate signposts, distributed by a master ceremonialist.
-> 
-> The ceremony master decided to serve the ports following an original procedure: he chooses an invitation, serves it, then moves in the anti-hour direction of a number of places equal to the signpost number of the newly served guest, serves the corresponding guest to whom he is now, and so on, always moving in the anti-hour direction according to the signpost number of the last served guest.
-> 
-> Determine for which $n$ the Master Ceremonial Officer may arrange the signs so that the Master Ceremonial Officer may, starting from a suitable guest and following the procedure described, serve all the diners.
+> At a lunch, $n$ people were invited, who sit around a round table, whose seats have been marked from $1$ to $n$ by suitable place cards, distributed by a master ceremony-master.
+>
+> The ceremony-master decided to serve the courses following an original procedure: he chooses a guest, serves him, then moves anticlockwise by a number of seats equal to the number of the place card of the guest just served, serves the guest at the position where he now finds himself, and so on, always moving anticlockwise according to the number of the place card of the last guest served.
+>
+> Determine for which $n$ the master ceremony-master can arrange the place cards so that the ceremony-master can, starting from a suitable guest and following the described procedure, serve all the diners.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2003_individuale#q06|src_archimede_2003_individuale__Q06]]

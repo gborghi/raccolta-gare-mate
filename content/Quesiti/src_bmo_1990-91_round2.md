@@ -31,11 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lineato angolo mediano del triangolo retto: sin theta ≤ 1/√5*
+*Dimostrare che $\sin\theta \le \dfrac{1}{\sqrt{5}}$*
 
-> Nel triangolo $ABC$, $B$ è un angolo rettangolo e $\theta$ è l'angolo tra $AC$ e la media da $C$ a $AB$.
-> 
-> Prove che $\sin\theta \le \dfrac{1}{\sqrt{5}}$.
+> Nel triangolo $ABC$, $B$ è un angolo retto e $\theta$ è l'angolo fra $AC$ e la mediana da $C$ ad $AB$.
+>
+> Dimostrare che $\sin\theta \le \dfrac{1}{\sqrt{5}}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1990-91_round2#q01|src_bmo_1990-91_round2__Q01]]
 
 
 
@@ -64,15 +71,22 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nani con mantelli reversibili: dimostrare che i cambiamenti finiscono per cessare*
+*Prima o poi non ci saranno più cambiamenti di mantello*
 
-> 12 nani vivono in una foresta. Ognuno ha un mantello a due lati che è blu da un lato e rosso dall'altro, e ogni nano indossa costantemente il suo mantello dal lato rosso.
-> 
-> In seguito alla risoluzione di Capodanno: il $n$-esimo giorno dell'anno il $4n$-esimo nano (modulo $12$) visiterà ciascuno dei suoi amici. Se trova la maggior parte di questi amici indossando i loro abiti diversi da lui, rovescerà il suo stesso abito. Altrimenti continuerà come prima.
-> 
-> Prove che prima o poi non ci saranno ulteriori cambiamenti.
-> 
+> Dodici nani vivono in una foresta. Ciascuno ha un mantello a due facce, blu da un lato e rosso dall'altro, e ciascun nano porta sempre il mantello con il lato rosso fuori.
+>
+> Secondo il proposito per l'anno nuovo: l'$n$-esimo giorno dell'anno l'$4n$-esimo nano (modulo $12$) farà visita a ciascuno dei suoi amici. Se trova che la maggioranza di questi amici porta il mantello in modo diverso dal suo, rovescerà il proprio mantello. Altrimenti continuerà come prima.
+>
+> Dimostrare che, prima o poi, non avverranno più cambiamenti.
+>
 > (Le amicizie sono reciproche e non cambiano.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1990-91_round2#q02|src_bmo_1990-91_round2__Q02]]
 
 
 
@@ -96,9 +110,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perimetro del triangolo 2 implica a2+b2+c2+2abc < 2*
+*Se il perimetro è $2$, allora $a^2 + b^2 + c^2 + 2abc < 2$*
 
-> Prova che se il perimetro di un triangolo con lati $a$, $b$, $c$ è $2$, allora $$a^2 + b^2 + c^2 + 2abc < 2.$$
+> Dimostrare che se il perimetro di un triangolo di lati $a$, $b$, $c$ è $2$ allora
+> $$a^2 + b^2 + c^2 + 2abc < 2.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1990-91_round2#q03|src_bmo_1990-91_round2__Q03]]
 
 
 
@@ -127,8 +149,19 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Multiplici di x contengono sempre la cifra 2; trovare il più piccolo N*
+*Almeno uno fra $x, 2x, \ldots, 20x$ contiene la cifra $2$, e stime per $N$*
 
-> $x$ sia un numero reale positivo. Prova che almeno uno dei numeri $$x,\ 2x,\ 3x,\ \ldots,\ 20x$$ contiene la cifra $2$ nella sua espansione decimale.
-> 
-> $N$ sia il numero intero positivo più piccolo in modo tale che, per ogni numero reale positivo $x$, almeno uno dei numeri $$x,\ 2x,\ 3x,\ \ldots,\ Nx$$ contenga la cifra $2$ nella sua espansione decimale. Trova i limiti inferiori e superiori per $N$ e, se possibile, trova esattamente $N$.
+> Sia $x$ un numero reale positivo. Dimostrare che almeno uno dei numeri
+> $$x,\ 2x,\ 3x,\ \ldots,\ 20x$$
+> contiene la cifra $2$ nel suo sviluppo decimale.
+>
+> Sia $N$ il minimo intero positivo tale che, per ogni numero reale positivo $x$, almeno uno dei numeri
+> $$x,\ 2x,\ 3x,\ \ldots,\ Nx$$
+> contenga la cifra $2$ nel suo sviluppo decimale. Trovare limiti inferiori e superiori per $N$ e, se possibile, trovare $N$ esattamente.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1990-91_round2#q04|src_bmo_1990-91_round2__Q04]]

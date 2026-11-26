@@ -31,11 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area del triangolo di intersezione della linea retta più corta; mostra che la linea non retta è più corta*
+*La lunghezza $d$ della retta più corta che biseca l'area, e una linea più corta non retta*
 
-> Trova, con prova, la lunghezza $d$ della linea retta più corta che divide l'area di un triangolo arbitrariamente dato. Esprimere $d$ in termini di superficie $A$ del triangolo e di uno dei suoi angoli.
-> 
-> Mostra che esiste una linea più breve (non retta) che divide l'area del triangolo dato.
+> Trovare, con dimostrazione, la lunghezza $d$ della retta più corta che biseca l'area di un triangolo dato arbitrariamente. Esprimere $d$ in funzione dell'area $A$ del triangolo e di uno dei suoi angoli.
+>
+> Dimostrare che esiste una linea più corta (non retta) che biseca l'area del triangolo dato.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1975-76_round1#q01|src_bmo_1975-76_round1__Q01]]
 
 
 
@@ -59,9 +66,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la somma delle disuguaglianze di x/(y+z) >= 3/2 per i reali positivi*
+*Dimostrare che $\frac{x}{y+z} + \frac{y}{z+x} + \frac{z}{x+y} \ge \frac{3}{2}$*
 
-> Dimostra che se $x, y, z$ sono numeri reali positivi allora $$\frac{x}{y+z} + \frac{y}{z+x} + \frac{z}{x+y} \ge \frac{3}{2}.$$
+> Dimostrare che se $x, y, z$ sono numeri reali positivi allora
+> $$\frac{x}{y+z} + \frac{y}{z+x} + \frac{z}{x+y} \ge \frac{3}{2}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1975-76_round1#q02|src_bmo_1975-76_round1__Q02]]
 
 
 
@@ -86,11 +101,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca un sottoinsieme di 5 elementi che riunisce ciascuno dei 50 grandi sottoinsiemi di un insieme finito*
+*Un sottoinsieme $F$ di al più $5$ elementi che incontra ciascuno degli $S_i$*
 
 > $S_1, S_2, \ldots, S_{50}$ sono sottoinsiemi di un insieme finito $E$. Ogni sottoinsieme contiene più della metà degli elementi di $E$.
-> 
-> Mostrare che è possibile trovare un sottoinsieme $F$ di $E$, contenente non più di $5$ elementi, in modo tale che ogni $S_i$ ($1 \le i \le 50$) abbia un elemento in comune con $F$.
+>
+> Dimostrare che è possibile trovare un sottoinsieme $F$ di $E$, con non più di $5$ elementi, tale che ogni $S_i$ ($1 \le i \le 50$) abbia un elemento in comune con $F$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1975-76_round1#q03|src_bmo_1975-76_round1__Q03]]
 
 
 
@@ -113,9 +135,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova che 19 per 8^n + 17 è composto per tutti gli integri non negativi n*
+*$19 \cdot 8^n + 17$ non è primo se $n$ è un intero non negativo*
 
-> Prova che se $n$ è un intero non negativo, allora $19 \cdot 8^n + 17$ non è un numero primo.
+> Dimostrare che se $n$ è un intero non negativo allora $19 \cdot 8^n + 17$ non è un numero primo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1975-76_round1#q04|src_bmo_1975-76_round1__Q04]]
 
 
 
@@ -140,9 +169,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova l'identità che coinvolge i coefficienti binomiali e le potenze di due reali*
+*Dimostrare quell'uguaglianza fra somme di binomi*
 
-> Prova che se $a$ e $b$ sono numeri reali, $r$ e $n$ sono numeri interi positivi con $r \ge n$, $$\sum_{t=0}^{n} \binom{r-1}{t}\binom{n}{t} a^{r-2t} b^{r-2t} = \sum_{t=0}^{n} \binom{r-1}{t}\binom{n}{t} a^t b^t,$$ dove $\binom{n}{t}$ indica il coefficiente di $x^t$ nell'espansione di $(1+x)^n$.
+> Dimostrare che se $a$ e $b$ sono numeri reali, $r$ e $n$ sono interi positivi con $r \ge n$,
+> $$\sum_{t=0}^{n} \binom{r-1}{t}\binom{n}{t} a^{r-2t} b^{r-2t} = \sum_{t=0}^{n} \binom{r-1}{t}\binom{n}{t} a^t b^t,$$
+> dove $\binom{n}{t}$ indica il coefficiente di $x^t$ nello sviluppo di $(1+x)^n$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1975-76_round1#q05|src_bmo_1975-76_round1__Q05]]
 
 
 
@@ -173,12 +211,21 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Costo percorso sulle superfici di cono e sfere; prova la lunghezza di VP*
+*Dimostrare che $VP = \dfrac{r}{2}\sqrt{1 + \dfrac{1}{\sqrt{2}}}$*
 
-> Una sfera con centro $O$ e raggio $r$ è tagliata in un cerchio $K$ da un piano orizzontale distante $\frac{1}{2}r$ sopra $O$. La parte della sfera sopra il piano viene rimossa e sostituita da un cono circolare destro con la base $K$ e il vertice $V$ a una distanza $2r$ verticalmente sopra $O$.
-> 
-> $Q$ è un punto sulla sfera sullo stesso livello orizzontale di $O$. Il piano $OVQ$ taglia il cerchio $K$ in due punti $X$ e $Y$, di cui $Y$ è il più lontano da $Q$. $P$ è un punto del cono che si trova su $VY$, la cui posizione può essere determinata dal fatto che il percorso più breve da $P$ a $Q$ sulle superfici del cono e della sfera taglia il cerchio $K$ ad un angolo di $45^\circ$.
-> 
-> Provare $VP = \dfrac{r}{2}\sqrt{1 + \dfrac{1}{\sqrt{2}}}$.
-> 
-> [In un triangolo sferico $ABC$ i lati sono archi di grandi cerchi (centro $O$) e i lati sono misurati dagli angoli che essi sottendono a $O$. Potresti trovare utili queste formule triangolari sferiche: $$\sin A / \sin a = \sin b / \sin B = \sin c / \sin C,$$ $$\cos a = \cos b \cos c + \sin b \sin c \cos A.]$$
+> Una sfera di centro $O$ e raggio $r$ è tagliata in una circonferenza $K$ da un piano orizzontale distante $\frac{1}{2}r$ sopra $O$. La parte di sfera sopra il piano è tolta e sostituita da un cono circolare retto che ha $K$ come base e il vertice $V$ a distanza $2r$ verticalmente sopra $O$.
+>
+> $Q$ è un punto della sfera allo stesso livello orizzontale di $O$. Il piano $OVQ$ seca la circonferenza $K$ in due punti $X$ e $Y$, di cui $Y$ è il più lontano da $Q$. $P$ è un punto del cono che sta su $VY$, la cui posizione si può determinare dal fatto che il cammino più corto da $P$ a $Q$ sulle superfici del cono e della sfera seca la circonferenza $K$ con un angolo di $45^\circ$.
+>
+> Dimostrare $VP = \dfrac{r}{2}\sqrt{1 + \dfrac{1}{\sqrt{2}}}$.
+>
+> [In un triangolo sferico $ABC$ i lati sono archi di cerchi massimi (centro $O$) e i lati si misurano con gli angoli che sottendono in $O$. Queste formule dei triangoli sferici possono essere utili:
+> $$\sin A / \sin a = \sin b / \sin B = \sin c / \sin C,$$
+> $$\cos a = \cos b \cos c + \sin b \sin c \cos A.]$$
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1975-76_round1#q06|src_bmo_1975-76_round1__Q06]]

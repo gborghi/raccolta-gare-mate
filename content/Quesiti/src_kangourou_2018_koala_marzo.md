@@ -31,13 +31,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Design with the colours exchanged (yellow/black)*
+*Drawing with swapped colors (yellow/black)*
 
 ![[src_kangourou_2018_koala_marzo__prob1.png]]
 
-> Luke drew a drawing (see figure). What drawing would you see if Luke had changed colors, that is, if he had painted yellow what is black in the first drawing and vice versa?
+> Luca has drawn a picture (see figure). What picture would you see if Luca had swapped the colors—that is, if he had colored yellow what is black in the first drawing and vice versa?
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q01|src_kangourou_2018_koala_marzo__Q01]]
 
 
 
@@ -62,13 +66,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Line connecting the ladybirds in the order of dots*
+*A line connecting the ladybugs in order of dots*
 
 ![[src_kangourou_2018_koala_marzo__prob2.png]]
 
-> The cake you see in the picture was cut into equal slices. Then some of them were eaten. How many?
+> The cake shown in the figure had been cut into equal slices. Then some of the slices were eaten. How many?
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q02|src_kangourou_2018_koala_marzo__Q02]]
 
 
 
@@ -97,9 +105,13 @@ level: kangourou
 
 ![[src_kangourou_2018_koala_marzo__prob3.png]]
 
-> Alice drew a line connecting the ladybugs in the figure according to the number of dots: she started from the ladybug with a single dot, reached the one with two, and then continued in increasing order. Which of the following lines did she draw? (see figure)
+> Alice drew a line connecting the ladybugs in the drawing according to the number of dots: she started with the ladybug that had only one dot, reached the one with two dots, and then continued in ascending order. Which of the following lines did she draw? (see figure)
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q03|src_kangourou_2018_koala_marzo__Q03]]
 
 
 
@@ -124,13 +136,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many slices of cake were eaten*
+*How many slices of cake were eaten?*
 
 ![[src_kangourou_2018_koala_marzo__prob4.png]]
 
-> Maria glued some four-pointed stars, all identical to each other, obtaining the result you see in the figure. What is the minimum number of stars she used? (see figure)
+> Maria stuck some four-pointed stars, all of which were identical to one another, and obtained the result you see in the figure. What is the minimum number of stars she used? (see figure)
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q04|src_kangourou_2018_koala_marzo__Q04]]
 
 
 
@@ -155,13 +171,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many kangaroos to move to match the two parks*
+*How many kangaroos to move to make the two parks equal?*
 
 ![[src_kangourou_2018_koala_marzo__prob5.png]]
 
-> How many kangaroos do you have to move from the left park to the right one in order to have the same number of kangaroos in both parks? (see figure)
+> How many kangaroos must be moved from the left park to the right park so that both parks have the same number of kangaroos? (see figure)
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q05|src_kangourou_2018_koala_marzo__Q05]]
 
 
 
@@ -192,19 +212,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which ladybug flew away (20 spots remaining)*
+*Which ladybug has flown away? (20 remaining dots)*
 
 ![[src_kangourou_2018_koala_marzo__prob6.png]]
 
-> One of these ladybugs flies away: the ladybugs that remain have 20 spots in total. Which ladybug flew away? (see figure)
+> One of these ladybugs flies away: the ladybugs that remain have a total of 20 spots. Which ladybug flew away? (see figure)
 >
-> - **(A)** The leftmost one.
+> - **(A)** The one furthest to the left.
 > - **(B)** The second from the right.
-> - **(C)** The rightmost one.
+> - **(C)** The one farthest to the right.
 > - **(D)** The second from the left.
 > - **(E)** The one in the middle.
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q06|src_kangourou_2018_koala_marzo__Q06]]
 
 
 
@@ -229,13 +253,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What will be the 16th group of beads (pattern)*
+*What will the sixteenth bead group (pattern) be?*
 
 ![[src_kangourou_2018_koala_marzo__prob7.png]]
 
-> Emilia has many beads of different shapes and colors. Prepare groups of 4 beads and align them according to a pattern (see figure). What will be the 16th group? (see figure)
+> Emilia has many beads of different shapes and colors. She makes groups of 4 beads and arranges them in a line according to a pattern (see figure). What will the sixteenth group be? (see figure)
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q07|src_kangourou_2018_koala_marzo__Q07]]
 
 
 
@@ -260,13 +288,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many discs does Marco see from above?
+*How many discs does Marco see when looking from above?*
 
 ![[src_kangourou_2018_koala_marzo__prob8.png]]
 
-> Mark has inserted several wooden discs onto a peg: the drawing shows what Mark sees as he looks at the building from the front. How many discs does Marco see looking at it from above? (see figure)
+> Marco has inserted several wooden discs onto a peg: the drawing shows what Marco sees when he looks at the assembly from the front. How many discs does Marco see when he looks at it from above? (see figure)
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q08|src_kangourou_2018_koala_marzo__Q08]]
 
 
 
@@ -291,13 +323,17 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which broom must be removed last*
+*Which broom should be removed last?*
 
 ![[src_kangourou_2018_koala_marzo__prob9.png]]
 
-> A clumsy little witch has dropped her 5 flying brooms. She removes them one after another without moving those still on the ground. Which broom is left for her to remove last? (see figure)
+> A clumsy little witch has dropped her 5 flying brooms. She removes them one by one without moving the ones still on the ground. Which broom will she have left to remove last? (see figure)
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q09|src_kangourou_2018_koala_marzo__Q09]]
 
 
 
@@ -322,13 +358,17 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Drawing seen overlapping the two transparent squares*
+*Drawing seen by superimposing the two transparent squares*
 
 ![[src_kangourou_2018_koala_marzo__prob10.png]]
 
-> On two equal squares of clear plastic, Alberto marked points and drew lines as you can see below. What drawing do you see overlapping the two squares? (see figure)
+> On two identical transparent plastic squares, Alberto has marked points and drawn lines as you can see below. What drawing do you see when you overlay the two squares? (see figure)
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q10|src_kangourou_2018_koala_marzo__Q10]]
 
 
 
@@ -353,13 +393,17 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which point the third Greek passes through*
+*Through which point does the third Greek line pass?*
 
 ![[src_kangourou_2018_koala_marzo__prob11.png]]
 
-> Paul reproduced on a square sheet, twice, the same Greek key pattern (see figure). Now it will repeat it a third time: which of the points indicated will the Greek key pattern pass? (The second Greek starts and ends where the blue dots are placed.) (see figure)
+> On a grid paper sheet, Paolo has reproduced the same "Greek cross" twice (see figure). Now he will reproduce it a third time: through which of the indicated points will the "Greek cross" pass? (The second "Greek cross" starts and ends where the blue dots are located.) (See figure)
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q11|src_kangourou_2018_koala_marzo__Q11]]
 
 
 
@@ -390,19 +434,23 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which piece of the puzzle is discarded*
+*Which piece of the puzzle is discarded?*
 
 ![[src_kangourou_2018_koala_marzo__prob12.png]]
 
-> Lisa has four pieces, each of which could fit into her puzzle frame, but she needs three to fill the frame. Which one will she discard? (see figure)
+> Lisa has four pieces, each of which could fit into her small puzzle frame, but she only needs three to fill the frame. Which one will she discard? (see figure)
 >
 > - **(A)** A
 > - **(B)** B
 > - **(C)** C
 > - **(D)** D
-> - **(E)** C or D
+> - **(E)** C o D
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q12|src_kangourou_2018_koala_marzo__Q12]]
 
 
 
@@ -427,13 +475,17 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arrow points on the third target*
+*Points scored with arrows on the third target*
 
 ![[src_kangourou_2018_koala_marzo__prob13.png]]
 
-> Diana scored 6 points with the three arrows on the first target (the one on the left) and 8 points with the arrows on the second one (the one in the center). How many points did she make with the arrows on the third? (see figure)
+> Diana scored 6 points with the three arrows on the first target (the one furthest to the left) and 8 points with the arrows on the second target (the one in the middle). How many points did she score with the arrows on the third target? (see figure)
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q13|src_kangourou_2018_koala_marzo__Q13]]
 
 
 
@@ -458,13 +510,17 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Path of the dog with 3 right and 2 left turns*
+*The dog's path with 3 right turns and 2 left turns*
 
 ![[src_kangourou_2018_koala_marzo__prob14.png]]
 
-> To reach his bone at the crossroads, the dog made a total of three right turns and two left turns. Which of the following is the path taken by the dog? (see figure)
+> To reach its bone, at the intersections, the dog made a total of three right turns and two left turns. Which of the following is the route the dog took? (see figure)
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q14|src_kangourou_2018_koala_marzo__Q14]]
 
 
 
@@ -489,13 +545,17 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times does the right hand appear in the figure*
+*How many times does the right hand appear in the figure?*
 
 ![[src_kangourou_2018_koala_marzo__prob15.png]]
 
-> If the images you see in the picture represent your hands, how many times does your right hand appear in the picture? (see figure)
+> If the images you see in the figure represent your hands, how many times does your right hand appear in the figure? (see figure)
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q15|src_kangourou_2018_koala_marzo__Q15]]
 
 
 
@@ -520,13 +580,17 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What figure shows the three knotted pieces of rope*
+*Which figure shows the three pieces of rope knotted?*
 
 ![[src_kangourou_2018_koala_marzo__prob16.png]]
 
-> Carlo cut a rope into three equal pieces and then made each of the knots, all the same. Which of the following illustrates the three pieces of rope correctly once knotted? (see figure)
+> Carlo cut a piece of rope into three equal pieces and then tied a knot on each of them—all the knots were the same. Which of the following figures correctly illustrates the three pieces of rope after the knots have been tied? (see figure)
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q16|src_kangourou_2018_koala_marzo__Q16]]
 
 
 
@@ -551,13 +615,17 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many gnomes get wet (fungi capacity)*
+*How many gnomes bathe (capacity of the mushrooms)*
 
 ![[src_kangourou_2018_koala_marzo__prob17.png]]
 
-> A storm breaks out and 33 gnomes seek shelter under the four mushrooms you see in the figure. Under each mushroom can be as many gnomes as there are the large white dots on the mushroom's hat. You can only see the front of each fungus in the drawing, but on the opposite side there are the same number of dots. How many gnomes get wet? (see figure)
+> A storm breaks out, and 33 gnomes seek shelter under the four mushrooms you see in the figure. Under each mushroom, as many gnomes can fit as there are large white dots on the mushroom's cap. Of each mushroom in the drawing, only the front is visible, but on the opposite side there are the same number of dots. How many gnomes get wet? (see figure)
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q17|src_kangourou_2018_koala_marzo__Q17]]
 
 
 
@@ -582,13 +650,17 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of ice creams with 36 euros and offer 6=5*
+*Maximum number of ice creams with 36 euros and a 6-for-5 offer*
 
 ![[src_kangourou_2018_koala_marzo__prob18.png]]
 
-> At the supermarket, an ice cream costs one euro, but if you buy six, you only pay five euros. What's the largest number of ice creams you can buy for 36 euros?
+> At the supermarket, an ice cream costs 1 euro, but if you buy six, you only pay 5 euros. What is the greatest number of ice creams you can buy with 36 euros?
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q18|src_kangourou_2018_koala_marzo__Q18]]
 
 
 
@@ -612,11 +684,16 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 2 digits between 10 and 25 with digits 2,0,1,8*
+*How many two-digit numbers between 10 and 25 can be formed using the digits 2, 0, 1, 8?*
 
-> Using two of the digits 2, 0, 1, and 8, how many two-digit numbers can you write if you want them to be larger than 10 and smaller than 25?
+> Using two of the digits 2, 0, 1, and 8, how many two-digit numbers can you write if you want them to be greater than 10 and less than 25?
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q19|src_kangourou_2018_koala_marzo__Q19]]
 
 
 
@@ -641,13 +718,17 @@ How many discs does Marco see from above?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Within days the two chests will have the same coins
+*In how many days will the two chests contain the same number of coins?*
 
 ![[src_kangourou_2018_koala_marzo__prob20.png]]
 
-> A pirate has two chests: the one on the left has 10 coins, the other one is empty. Starting tomorrow, the pirate will put one coin every day in the left and two in the right. In how many days will the two chests have the same number of coins?
+> A pirate has two chests: the left one contains 10 coins, and the other is empty. Starting tomorrow, the pirate will put one coin in the left chest and two in the right chest each day. In how many days will the two chests contain the same number of coins?
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q20|src_kangourou_2018_koala_marzo__Q20]]
 
 
 
@@ -672,13 +753,17 @@ Within days the two chests will have the same coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pieces of paper after the two cuts in half*
+*How many pieces of paper after the two halvings?*
 
 ![[src_kangourou_2018_koala_marzo__prob21.png]]
 
-> Alice has three pieces of white paper, two black and two gray. First, cut every piece of non-black paper in half; then cut every piece of non-white paper in half. How many pieces of paper does she have at the end?
+> Alice has three white pieces of paper, two black ones, and two grey ones. First, she cuts each piece of paper that isn't black in half; then she cuts each piece of paper that isn't white in half. How many pieces of paper does she have in the end?
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q21|src_kangourou_2018_koala_marzo__Q21]]
 
 
 
@@ -707,9 +792,13 @@ Within days the two chests will have the same coins
 
 ![[src_kangourou_2018_koala_marzo__prob22.png]]
 
-> A boy has some stickers 5 centimetres wide and 1 centimetre high: with these he draws a fence like the one in the figure. How many centimetres long is the fence? (see figure)
+> A boy has some stickers that are 5 centimeters wide and 1 centimeter high; using these, he draws a fence like the one in the figure. How many centimeters long is the fence? (see figure)
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q22|src_kangourou_2018_koala_marzo__Q22]]
 
 
 
@@ -734,13 +823,17 @@ Within days the two chests will have the same coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the alley from Anna to Gianni*
+*Length of the path from Anna to Gianni*
 
 ![[src_kangourou_2018_koala_marzo__prob23.png]]
 
-> The alleyway from Anna's house to Maria's is 16 meters long. Instead, from Maria's house to Gianni's house, it's 20 meters and from Maria's house to the crossroads, it's 9 meters. How many meters is the alleyway from Anna's house to Gianni's? (see figure)
+> The path from Anna's house to Maria's house is 16 meters long. However, from Maria's house to Gianni's house there are 20 meters, and from Maria's house to the junction of the paths there are 9 meters. How long is the path from Anna's house to Gianni's house? (see figure)
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q23|src_kangourou_2018_koala_marzo__Q23]]
 
 
 
@@ -765,10 +858,14 @@ Within days the two chests will have the same coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-Cheaper and more expensive toy by price
+*The cheapest and the most expensive toy by price*
 
 ![[src_kangourou_2018_koala_marzo__prob24.png]]
 
-> Ornella bought some toys. Their price satisfies all these equalities (see figure). Which are, in order, the cheapest and most expensive toys? (see figure)
+> Ornella has bought some toys. Their prices satisfy all these equalities (see figure). In order, what are the cheapest and the most expensive toys? (see figure)
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_koala_marzo#q24|src_kangourou_2018_koala_marzo__Q24]]

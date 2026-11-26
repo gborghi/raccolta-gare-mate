@@ -42,21 +42,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Missing part of a collection of segments*
+*Which of the following could be the missing part?*
 
 ![[src_kangourou_2023_cadet__prob1.png]]
 
-> The drawing shows a collection of horizontal and vertical segments from which part has been removed. Which of the following could be missing? A)
-> 	
+> The drawing shows a collection of horizontal and vertical segments from which a part has been removed. Which of the following could be the missing part?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_cadet#q01|src_kangourou_2023_cadet__Q01]]
 
 
 
@@ -91,21 +93,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which shape does not break down into two trapezoids with a segment*
+*Which of the following geometric shapes cannot be split into two trapeziums by drawing a single straight segment?*
 
 ![[src_kangourou_2023_cadet__prob2.png]]
 
-> Which of the following geometric shapes cannot be broken down into two trapezoids by tracing a single straight segment? A)
-> 	
+> Which of the following geometric shapes cannot be split into two trapeziums by drawing a single straight segment?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_cadet#q02|src_kangourou_2023_cadet__Q02]]
 
 
 
@@ -134,11 +138,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum max 3 digits mult 4 and min 4 digits mult 3*
+*What is the sum of the largest three-digit integer that is a multiple of 4 and the smallest positive four-digit integer that is a multiple of 3?*
 
-> What is the sum of the largest three-digit integer that is multiple of 4 and the smallest positive four-digit integer that is multiple of 3? A) 1996 B) 1997 C) 1998 D) 1999 E) 2000
+> What is the sum of the largest three-digit integer that is a multiple of 4 and the smallest positive four-digit integer that is a multiple of 3?
+>
+> A) 1996
+> B) 1997
+> C) 1998
+> D) 1999
+> E) 2000
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_cadet#q03|src_kangourou_2023_cadet__Q03]]
 
 
 
@@ -176,21 +190,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which cut-out does not work*
+*Which of the following cut-outs cannot be used?*
 
 ![[src_kangourou_2023_cadet__prob4.png]]
 
-> The figure shows a rectangular carton of 4 dm × 6 dm. You want to cover it with identical paper cut-outs in shape and size. It's not allowed to overlay or leave holes. Which of the following cut-outs cannot be used? A)
-> 	
+> The picture shows a rectangular board of dimensions 4 dm × 6 dm. One wants to cover it using paper cut-outs identical in shape and size. Overlapping them or leaving gaps is not allowed. Which of the following cut-outs cannot be used?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_cadet#q04|src_kangourou_2023_cadet__Q04]]
 
 
 
@@ -223,17 +240,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which expression is also odd*
+*Which of the following integers is also odd?*
 
-> Positive integers m and n are both odd. Which of the following integers is also odd? A) m × (n + 1)
-> 	
+> The positive integers m and n are both odd. Which of the following integers is also odd?
+>
+> A) m × (n + 1)
 > B) (m + 1) × (n + 1)
-> 	
-> C) m + n + 2 D) m × n + 2
->  	
+> C) m + n + 2
+> D) m × n + 2
 > E) m + n
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_cadet#q05|src_kangourou_2023_cadet__Q05]]
 
 
 
@@ -293,37 +315,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number instead of ?*
+*Which number should be written in place of the question mark?*
 
 ![[src_kangourou_2023_cadet__prob6.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.5]
-  \coordinate (T) at (0,1.2);
-  \coordinate (R) at (1.2,0);
-  \coordinate (Bo) at (0,-1.2);
-  \coordinate (L) at (-1.2,0);
-  \draw[thick] (T) -- (R) -- (Bo) -- (L) -- cycle;
-  \foreach \v in {T,R,Bo,L} {
-    \draw[thick,fill=white] (\v) circle (0.18);
-  }
-  \node at (-0.9, 0.7) {8};
-  \node at (0.9, 0.7) {9};
-  \node at (0.9, -0.7) {13};
-  \node at (-0.9, -0.7) {?};
-\end{tikzpicture}
-\end{document}
-```
-
-> In each of the vertices of the rhombus in the figure a number is written, covered with a circle: for each side of the rhombus, the sum of the two numbers written in the vertices coincides with the number visible next to the side. What number should be written in the place of the question mark? A) 11
-> 	
-> B) 12
-> 	
-> C) 13 D) 14 E) 15 13 9 8 ?
+> At each of the vertices of the rhombus in the picture a number is written, covered by a little circle: for each of the sides of the rhombus, the sum of the two numbers written at the vertices coincides with the number visible beside the side. Which number should be written in place of the question mark?
 >
+> A) 11
+> B) 12
+> C) 13
+> D) 14
+> E) 15
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_cadet#q06|src_kangourou_2023_cadet__Q06]]
 
 
 
@@ -354,13 +362,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how much to spin to match*
+*How many coins must he turn over so that the number of coins showing heads equals that of the coins showing tails?*
 
-> John throws 150 coins on the table. Only 40% of the coins show the side Heads: how many coins must be rotated so that the number of coins showing Heads is equal to that of the coins showing Tails? A) 10 B) 15
-> 	
-> C) 20 D) 25 E) 30
+> Giovanni throws 150 identical coins onto the table. Only 40% of the coins show the heads side: how many coins must he turn over so that the number of coins showing heads equals that of the coins showing tails?
+>
+> A) 10
+> B) 15
+> C) 20
+> D) 25
+> E) 30
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_cadet#q07|src_kangourou_2023_cadet__Q07]]
 
 
 
@@ -395,13 +411,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which are in conflict*
+*Which cars will collide?*
 
 ![[src_kangourou_2023_cadet__prob8.png]]
 
-> At the edges of a track there are four A, B, C, D bumper cars traveling on straight paths. The drawing shows for each of them the starting position, the direction of march and how much distance it covers in 5 seconds. Which cars will collide? A) A and B B) A and C C) A and D D) B and C E) C and D
+> At the edges of a track there are four bumper cars A, B, C, D travelling on straight paths. The drawing shows for each the starting position, the direction of travel and how far it travels in 5 seconds. Which cars will collide?
+>
+> A) A and B
+> B) A and C
+> C) A and D
+> D) B and C
+> E) C and D
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_cadet#q08|src_kangourou_2023_cadet__Q08]]
 
 
 
@@ -436,19 +463,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*in how many ways*
+*In how many ways can she do it?*
 
-> Anna has five discs of different sizes. She wants to build a tower by stacking three discs so that each disc (except the first from below) is smaller than the disc on which it rests. In how many ways can she do that? A) 5
-> 	
+> Anna has five discs of different sizes. She wants to build a tower by stacking three discs so that each disc (except the bottom one) is smaller than the disc it rests on. In how many ways can she do it?
+>
+> A) 5
 > B) 6
-> 	
 > C) 8
-> 	
 > D) 10
-> 	
 > E) 15
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_cadet#q09|src_kangourou_2023_cadet__Q09]]
 
 
 
@@ -487,21 +517,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number in the box for equal sums*
+*Which number must she write in the shaded cell?*
 
 ![[src_kangourou_2023_cadet__prob10.png]]
 
-> In each of the grid boxes here next to Eva wants to write a different integer chosen from 1 to 8. She has already entered three: what number must she write in the shaded box if he wants the two sums of the numbers in the two rows to be equal and the four sums of the numbers in the four columns to be equal? A) 1
-> 	
+> In each of the cells of the grid beside, Eva wants to write a different integer chosen from those from 1 to 8. She has already entered three: which number must she write in the shaded cell if she wants the two sums of the numbers in the two rows to be equal, and the four sums of the numbers in the four columns to be equal as well?
+>
+> A) 1
 > B) 2
-> 	
 > C) 5
-> 	
 > D) 6
-> 	
-> E) 7 Questions from N. 11 to N. 20 are worth 4 points each.
+> E) 7
+>
+> Questions 11 to 20 are worth 4 points each.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_cadet#q10|src_kangourou_2023_cadet__Q10]]
 
 
 
@@ -531,18 +565,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*next number*
+*Which of the following is the next number?*
 
-> Francesca wrote three consecutive three-digit integers in their natural order,
-> but instead of digits she used symbols: àìì, §òò, §òà. Which of the
-> following is the next number?
-> A) §§ì	
-> B) à§à	
-> C) §òì	
-> D) §ìà  	
+> Francesca wrote three consecutive three-digit integers in their natural order, but instead of the digits she used symbols: àìì, §òò, §òà. Which of the following is the next number?
+>
+> A) §§ì
+> B) à§à
+> C) §òì
+> D) §ìà
 > E) §ò§
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_cadet#q11|src_kangourou_2023_cadet__Q11]]
 
 
 
@@ -578,19 +615,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*radius length*
+*How long is the radius of each semicircle?*
 
 ![[src_kangourou_2023_cadet__prob12.png]]
 
-> The figure shows five semicircles all of the same radius and with diameters contained in the same line. The numbers on this line indicate the distances between the marked points. How long is the radius of each semicircle? A) 12 B) 16
-> 	
+> The picture shows five semicircles, all of the same radius and with their diameters lying on one and the same straight line. The numbers on this line indicate the distances between the points marked. How long is the radius of each semicircle?
+>
+> A) 12
+> B) 16
 > C) 18
-> 	
 > D) 22
-> 	
 > E) 36
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_cadet#q12|src_kangourou_2023_cadet__Q12]]
 
 
 
@@ -638,35 +679,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Red edges of the cube so that every face has one*
+*What is the least number of edges that it is enough to colour red?*
 
-> We want to color some edges of a cube red, so that every face of the
-> cube has at least one red edge. What is the minimum number of edges that suffice
-> to color red?
-> A) 2 	
-> 	
-> B) 3 	
-> 	
-> C) 4 	
-> 	
-> D) 5 	
-> 	
-> E) 6
-> A
-> B
-> C
-> D
-> 4
-> 3
-> 8
-> 12
-> 12
-> 22
-> 16
-> 22
+> One wants to colour some edges of a cube red, so that every face of the cube has at least one red edge. What is the least number of edges that it is enough to colour red?
 >
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_cadet#q13|src_kangourou_2023_cadet__Q13]]
 
 
 
@@ -703,21 +731,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many positive integers can be written with 6 matches*
+*How many positive integers are there, each of which can be written using exactly six matches?*
 
 ![[src_kangourou_2023_cadet__prob14.png]]
 
-> The figure shows how to construct each digit by placing matches side by side. How many positive integers can each be written using exactly six matches (as indicated)? A) 2
-> 	
+> The picture shows how to build each digit by placing matches side by side. How many positive integers are there, each of which can be written using exactly six matches (in the way indicated)?
+>
+> A) 2
 > B) 4
-> 	
 > C) 6
-> 	
 > D) 8
-> 	
 > E) 9
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_cadet#q14|src_kangourou_2023_cadet__Q14]]
 
 
 
@@ -750,19 +781,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Points at a distance of 1 from two vertices of a unit square*
+*How many points of the plane in which the square is drawn are at a distance of exactly 1 cm from two of the vertices of the square?*
 
-> A square has a side one centimeter long. How many points on the plane on which the square is drawn are exactly 1 cm away from two of the vertices of the square? A) 4
-> 	
+> A square has sides of length 1 cm. How many points of the plane in which the square is drawn are at a distance of exactly 1 cm from two of the vertices of the square?
+>
+> A) 4
 > B) 6
-> 	
 > C) 8
-> 	
 > D) 10
-> 	
 > E) 12
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_cadet#q15|src_kangourou_2023_cadet__Q15]]
 
 
 
@@ -794,13 +827,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*CFE angle measurement*
+*How many degrees does the angle CFE measure?*
 
 ![[src_kangourou_2023_cadet__prob16.png]]
 
-> The ABC triangle shown in the figure is isosceles and its vertex angle ABC measures 40°. The EAB and DCA angles have the same size. How many degrees does the CFE angle measure ? A) 55 B) 60 C) 65 D) 70 E) 75
+> The triangle ABC shown in the picture is isosceles and its angle at the vertex ABC measures 40°. The angles EAB and DCA have the same measure. How many degrees does the angle CFE measure?
+>
+> A) 55
+> B) 60
+> C) 65
+> D) 70
+> E) 75
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_cadet#q16|src_kangourou_2023_cadet__Q16]]
 
 
 
@@ -835,15 +878,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*points of Lidia*
+*How many points did Lidia score?*
 
 ![[src_kangourou_2023_cadet__prob17.png]]
 
-> Tom, Giulio and Lidia each fired six shots at a different target. The arrows dropped within the same region (circle or circular crown) total the same number of points. Tom scored 46 points and Giulio 34. How many did Lydia make? A) 37 B) 38
-> 	
-> C) 39 D) 40 E) 41
+> Tom, Giulio and Lidia each threw six darts at a different target. The darts that landed inside the same region (circle or circular ring) score the same number of points. Tom scored 46 points and Giulio 34. How many did Lidia score?
+>
+> A) 37
+> B) 38
+> C) 39
+> D) 40
+> E) 41
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_cadet#q17|src_kangourou_2023_cadet__Q17]]
 
 
 
@@ -878,13 +929,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*large area*
+*How many square centimetres is the area of the large rectangle?*
 
 ![[src_kangourou_2023_cadet__prob18.png]]
 
-> The figure shows a rectangle consisting of three gray squares, each 25 cm2 in area; its vertices are on the sides of a larger rectangle: in particular the vertices on the two smaller sides are the midpoints of those sides. How many square centimetres is the area of the large rectangle? A) 125 B) 136 C) 149 D) 150 E) 172
+> The picture shows a rectangle made up of three grey squares, each of area 25 cm2; its vertices lie on the sides of a larger rectangle: in particular the vertices on the two shorter sides are the midpoints of those sides. How many square centimetres is the area of the large rectangle?
+>
+> A) 125
+> B) 136
+> C) 149
+> D) 150
+> E) 172
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_cadet#q18|src_kangourou_2023_cadet__Q18]]
 
 
 
@@ -922,19 +984,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min to be added*
+*What is the least number of rays that it is enough for him to add?*
 
-> Angelo drew two perpendicular semirettes with the same origin O. He now wants to draw other half-lines with origin O so that for each choice of values 10, 20, 30, 40, 50, 60, 70, 80 there are two of the half-lines in the drawing that contain an angle measuring as many degrees as the value indicates. What's the minimum number of semirettes he can add? A) 2
-> 	
+> Angelo drew two perpendicular rays with the same origin O. He now wants to draw other rays with origin O so that, for every choice of the values 10, 20, 30, 40, 50, 60, 70, 80, there are two of the rays in the drawing that enclose an angle measuring as many degrees as the value indicates. What is the least number of rays that it is enough for him to add?
+>
+> A) 2
 > B) 3
-> 	
 > C) 4
-> 	
 > D) 5
-> 	
 > E) 6
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_cadet#q19|src_kangourou_2023_cadet__Q19]]
 
 
 
@@ -981,35 +1046,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of digits greater*
+*What is the sum of the digits of the greatest of these numbers?*
 
-> The sum of 2023 consecutive integers is 2023. What is the sum of the digits of the largest among these numbers?
+> The sum of 2023 consecutive integers is 2023. What is the sum of the digits of the greatest of these numbers?
 >
 > A) 4
-> 	
-> B) 5 	
-> 	
-> C) 6 	
-> 	
-> D) 7 	
-> 	
+> B) 5
+> C) 6
+> D) 7
 > E) 8
-> A
-> B
-> C
-> D
-> E
-> F
-> 40°
-> ?
-> Giulio
-> Tom
-> Lidia
-> O
-> 
+>
 > Questions 21 to 30 are worth 5 points each.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+[[Quesiti/src_kangourou_2023_cadet#q20|src_kangourou_2023_cadet__Q20]]
 
 
 
@@ -1044,19 +1097,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*maximum number of kangaroos*
+*How many kangaroos are there, at most?*
 
-> Some koalas and some kangaroos are arranged in a circle. There are three koalas in total, and none of them have another koala by their side. There are exactly three kangaroos with another kangaroo next to them. What is the maximum number of kangaroos? A) 4
-> 	
+> Some koalas and some kangaroos are arranged in a circle. There are three koalas in all and none of them has another koala beside it. There are exactly three kangaroos that have another kangaroo beside them. How many kangaroos are there, at most?
+>
+> A) 4
 > B) 5
-> 	
 > C) 6
-> 	
 > D) 7
-> 	
 > E) 8
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_cadet#q21|src_kangourou_2023_cadet__Q21]]
 
 
 
@@ -1091,13 +1147,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*average speed*
+*What is the average speed of the ant over the whole path, in cm/min?*
 
 ![[src_kangourou_2023_cadet__prob22.png]]
 
-> An ant travels along the three sides of an equilateral triangle at different but constant speeds on each side: at 5 cm/min on one side, at 15 cm/min on the next, at 20 cm/min on the rest, as shown in the figure. Then it stops. What is the average speed of the ant along the entire route in cm/min? A) 10 B) 80/11 C)180/19 D) 15 E) 40/3
+> An ant travels the three sides of an equilateral triangle at different speeds, but constant on each side: at 5 cm/min on one side, at 15 cm/min on the next, at 20 cm/min on the remaining one, as the picture shows. Then it stops. What is the average speed of the ant over the whole path, in cm/min?
+>
+> A) 10
+> B) 80/11
+> C) 180/19
+> D) 15
+> E) 40/3
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_cadet#q22|src_kangourou_2023_cadet__Q22]]
 
 
 
@@ -1133,19 +1199,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*lots of cotton*
+*How many games did Dopey play on Monday?*
 
-> Snow White organized a chess tournament for the seven dwarfs, where each dwarf had to play a game with each other dwarf. On Monday, Brontolo played 1 game, Eolo played 2, Pisolo 3, Mammolo 4, Gongolo 5 and Dotto 6. How many games did Cucciolo play on Monday? A) 1
-> 	
+> Snow White organised a chess tournament for the seven dwarfs, in which each dwarf had to play a game with every other dwarf. On Monday Grumpy played 1 game, Sneezy played 2, Sleepy 3, Bashful 4, Happy 5 and Doc 6. How many games did Dopey play on Monday?
+>
+> A) 1
 > B) 2
-> 	
 > C) 3
-> 	
 > D) 4
-> 	
 > E) 5
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_cadet#q23|src_kangourou_2023_cadet__Q23]]
 
 
 
@@ -1183,15 +1252,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many ways*
+*In how many ways can she do it?*
 
 ![[src_kangourou_2023_cadet__prob24.png]]
 
-> The figure shows a geometric shape broken down into nine regions. Elizabeth wants to write a different integer number between 1 and 9 in each of them, so that for each pair of adjacent regions (i.e. they share a side) the product of the numbers contained in them is not more than 15. How many ways can you do that? Two ways that can be obtained from each other by rotation of the figure are considered different. A) 12 B) 8
-> 	
-> C) 32 D) 24 E) 16
+> The picture shows a geometric shape divided into nine regions. Elisabetta wants to write in each of them a different integer between 1 and 9, so that, for every pair of adjacent regions (that is, regions that share a side), the product of the numbers in them is not greater than 15. In how many ways can she do it? Two ways that can be obtained from each other by rotating the figure are to be regarded as different.
+>
+> A) 12
+> B) 8
+> C) 32
+> D) 24
+> E) 16
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_cadet#q24|src_kangourou_2023_cadet__Q24]]
 
 
 
@@ -1224,20 +1302,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*position*
+*In which place in the queue is Martina?*
 
-> Martina is waiting in line and has as many people in front of her as she has behind her. 
-> There are also two of her friends, both behind her: one in 19th and the other in 
-> 28th place. The number of people in the line is a multiple of 3. In which position 
-> of the line is Martina?
-> A) 14 	 	
-> B) 15 	
-> 	
-> C) 16 	 	
-> D) 17 	 	
+> Martina is waiting in a queue and has as many people in front of her as behind her. There are also two of her friends, both behind her: one in 19th place and the other in 28th place. The number of people in the queue is a multiple of 3. In which place in the queue is Martina?
+>
+> A) 14
+> B) 15
+> C) 16
+> D) 17
 > E) 18
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_cadet#q25|src_kangourou_2023_cadet__Q25]]
 
 
 
@@ -1288,18 +1368,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many use the road indicated*
+*How many mice used the road marked by the arrow?*
 
 ![[src_kangourou_2023_cadet__prob26.png]]
 
-> Some mice live in three adjacent houses connected pairwise by a road. Last night, each mouse left its home and went to one of the other two, always taking the shortest route. The figures in the design show how many mice there were yesterday and how many there are today in each house. How many mice have taken the path indicated by the arrow? A) 11
-> 	
-> B) 12
-> 	
-> C) 13 D) 14 E) 15 15 cm/min 5 cm/min 20 cm/min 8 7 5 6 10 4 yesterday today
+> Some mice live in three neighbouring houses joined in pairs by a road. Last night, every mouse left its house and went to one of the other two, always taking the shortest way. The numbers in the drawing show how many mice there were yesterday and how many there are today in each house. How many mice used the road marked by the arrow?
 >
+> A) 11
+> B) 12
+> C) 13
+> D) 14
+> E) 15
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2023_cadet#q26|src_kangourou_2023_cadet__Q26]]
 
 
 
@@ -1336,19 +1422,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*when 77*
+*How many times must the number 77 be used?*
 
-> In the figure you see a way you can write the number 1015 as a sum of numbers where only the digit 7 appears: in total the digit has been used 10 times. If we want to write the number 2023 as the sum of positive numbers containing only the digit 7, using that digit 19 times, how many times do we have to use the number 77? A) 2
-> 	
+> In the picture you see a way of writing the number 1015 as a sum of numbers in which only the digit 7 appears: in all the digit was used 10 times. If we want to write the number 2023 as a sum of positive numbers containing only the digit 7, using that digit 19 times, how many times must the number 77 be used?
+>
+> A) 2
 > B) 3
-> 	
 > C) 4
-> 	
 > D) 5
-> 	
 > E) 6
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_cadet#q27|src_kangourou_2023_cadet__Q27]]
 
 
 
@@ -1384,15 +1473,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ratio of small/large hexagon areas*
+*What is the ratio of the area of the small hexagon to that of the large hexagon?*
 
 ![[src_kangourou_2023_cadet__prob28.png]]
 
-> The figure shows a regular hexagon broken down into four quadrilaterals and a smaller regular hexagon. The ratio of the area of the grey region to that of the small hexagon is 4/3. What is the ratio between the area of the small and the area of the large? A) 3/11 B) 1/3
-> 	
-> C) 2/3 D) 3/4 E) 3/5
+> The picture shows a regular hexagon divided into four quadrilaterals and a smaller regular hexagon. The ratio of the area of the grey region to that of the small hexagon is 4/3. What is the ratio of the area of the small hexagon to that of the large hexagon?
+>
+> A) 3/11
+> B) 1/3
+> C) 2/3
+> D) 3/4
+> E) 3/5
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2023_cadet#q28|src_kangourou_2023_cadet__Q28]]
 
 
 
@@ -1429,15 +1527,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Six consecutive integers on three coins, 6,7,8/23/17*
+*What is the sum of the numbers that did not appear the first time?*
 
 ![[src_kangourou_2023_cadet__prob29.png]]
 
-> James wrote on a sheet six consecutive integers; he then cut out from the sheet six stamps, each containing one of the numbers and glued them onto the faces of three coins, one for each face. Then he threw these coins three times. On the first throw he saw numbers 6, 7, 8; on the second throw the sum of the numbers he saw was 23 and the third was 17. What's the sum of the numbers that didn't show up the first time? A) 18 B) 19
-> 	
-> C) 23 D) 24 E) 30
+> Giacomo wrote on a sheet six consecutive integers; then he cut six stamps out of the sheet, each containing one of the numbers, and stuck them on the faces of three coins, one on each face. He then tossed these coins three times. On the first toss he saw the numbers 6, 7, 8; on the second toss the sum of the numbers he saw was 23 and the third time it was 17. What is the sum of the numbers that did not appear the first time?
+>
+> A) 18
+> B) 19
+> C) 23
+> D) 24
+> E) 30
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2023_cadet#q29|src_kangourou_2023_cadet__Q29]]
 
 
 
@@ -1482,11 +1588,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min points tenth game*
+*What is the least number of points the team can have scored in the tenth match?*
 
-> A rugby team scored 24 points in the seventh game of the 2022 season, 17 points in the eighth and 25 points in the ninth. The average score per game after nine games was higher than the average after the first six games; the average after ten games was higher than 22. What is the minimum number of points that the team can have scored in the tenth game? A) 22 B) 23
-> 	
-> C) 24 D) 25 E) 26 777 77 77 77 7 1015 + 6 7 8
+> A rugby team scored 24 points in the seventh match of the 2022 season, 17 points in the eighth and 25 points in the ninth. The average score per match after nine matches was higher than the average after the first six matches; the average after ten matches was greater than 22. What is the least number of points the team can have scored in the tenth match?
 >
+> A) 22
+> B) 23
+> C) 24
+> D) 25
+> E) 26
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_cadet#q30|src_kangourou_2023_cadet__Q30]]

@@ -30,11 +30,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta di n^2+4n più vicina a 10000*
+*Il numero di una data forma più vicino a un valore fissato*
 
-> Tra i numeri espressi come $n^2+4n$ per un intero positivo $n$, trova quello la cui differenza assoluta da $10000$ è più piccola.
+> Tra i numeri esprimibili come $n^2+4n$ per un intero positivo $n$, trovare quello la cui differenza assoluta da $10000$ è minima.
 
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Risposta:** 9996
+[[Quesiti/src_jmo19yq_yosen#q01|src_jmo19yq_yosen__Q01]]
 
 
 
@@ -60,13 +64,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circoli tangenti esternamente, corda collineare attraverso la tangenza*
+*Circonferenze tangenti esternamente e corda per il punto di tangenza*
 
-> Un cerchio $O_1$ di raggio $2$ e un cerchio $O_2$ di raggio $4$ sono tangenti esternamente al punto $P$. I punti $A,B$ diversi da $P$ vengono presi rispettivamente sulle circonferenze di $O_1$ e $O_2$, e accade che $A,P,B$ si trova su una singola linea retta. Se la lunghezza del segmento $AB$ è $4$, trovare la lunghezza del segmento $PB$.
+> Una circonferenza $O_1$ di raggio $2$ e una circonferenza $O_2$ di raggio $4$ sono tangenti esternamente nel punto $P$. Si prendono punti $A,B$, diversi da $P$, rispettivamente sulle circonferenze di $O_1$ e di $O_2$, e accade che $A,P,B$ stiano su una stessa retta. Se il segmento $AB$ è lungo $4$, trovare la lunghezza del segmento $PB$.
 
 ![[src_jmo19yq_yosen__q02.png]]
 
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 8/3
+[[Quesiti/src_jmo19yq_yosen#q02|src_jmo19yq_yosen__Q02]]
 
 
 
@@ -89,9 +97,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triplici interi positivi risolvendo due equazioni*
+*Terne di interi positivi che soddisfano un'equazione, distinte se cambia l'ordine*
 
-> Trova tutti i triples $(a,b,c)$ di numeri interi positivi che soddisfano $$\begin{cases} ab+c=13 \\ a+bc=23 \end{cases}$$ Qui i triples che differiscono solo nell'ordine dei tre numeri sono considerati distinti.
+> Determinare tutte le terne $(a,b,c)$ di interi positivi che soddisfano
+> $$\begin{cases} ab+c=13 \\ a+bc=23 \end{cases}$$
+> . Terne che differiscono solo per l'ordine dei tre numeri si considerano distinte.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_casework_accurato|Analisi per casi accurata]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo19yq_yosen#q03|src_jmo19yq_yosen__Q03]]
 
 
 
@@ -114,9 +129,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*BAC angolo minimo dato AB=4 e AM mediana=1*
+*Minimo angolo possibile in un triangolo, dato il punto medio di un lato*
 
-> Nel triangolo $ABC$, $M$ sia il punto medio del lato $BC$, con $AB=4$ e $AM=1$. Trova il minimo valore possibile dell'angolo $\angle BAC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Nel triangolo $ABC$, sia $M$ il punto medio del lato $BC$, con $AB=4$ e $AM=1$. Trovare il minimo valore possibile dell'angolo $\angle BAC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_jmo19yq_yosen#q04|src_jmo19yq_yosen__Q04]]
 
 
 
@@ -139,9 +159,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Arrangere le palle di colore in modo che le adiacenti differiscano*
+*Disposizioni di palline rosse, blu e gialle con colori adiacenti diversi*
 
-> Sei palle rosse, tre palle blu e tre palle gialle sono disposte in fila. In quanti modi possono essere disposte in modo che due palle adiacenti abbiano colori diversi? Qui non si distinguono le palle dello stesso colore.
+> Sei palline rosse, tre blu e tre gialle sono disposte in fila. In quanti modi si possono disporre in modo che due palline adiacenti abbiano colori diversi? Palline dello stesso colore non si distinguono.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+[[Quesiti/src_jmo19yq_yosen#q05|src_jmo19yq_yosen__Q05]]
 
 
 
@@ -164,9 +189,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Volume di tetraedro dai bordi e dagli angoli a O*
+*Volume di un tetraedro con spigoli assegnati*
 
-> Il tetraedro $OABC$ soddisfa $OA=3$, $OB=4$, $OC=5$ e $\angle AOB=\angle AOC=45^\circ$, $\angle BOC=60^\circ$. Trova il volume del tetraedro $OABC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Il tetraedro $OABC$ soddisfa $OA=3$, $OB=4$, $OC=5$ e $\angle AOB=\angle AOC=45^\circ$, $\angle BOC=60^\circ$. Trovare il volume del tetraedro $OABC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Argomento:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo19yq_yosen#q06|src_jmo19yq_yosen__Q06]]
 
 
 
@@ -189,9 +219,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca x1 dal sistema simmetrico di somme di prodotti in coppia*
+*Valori possibili di un'incognita in un sistema di cinque equazioni*
 
-> I numeri reali $x_1,x_2,x_3,x_4,x_5$ soddisfano le seguenti cinque equazioni: $$\begin{cases} x_1x_2+x_1x_3+x_1x_4+x_1x_5=-1 \\ x_2x_1+x_2x_3+x_2x_4+x_2x_5=-1 \\ x_3x_1+x_3x_2+x_3x_4+x_3x_5=-1 \\ x_4x_1+x_4x_2+x_4x_3+x_4x_5=-1 \\ x_5x_1+x_5x_2+x_5x_3+x_5x_4=-1 \end{cases}$$ Trova tutti i valori possibili di $x_1$.
+> I numeri reali $x_1,x_2,x_3,x_4,x_5$ soddisfano le cinque equazioni seguenti:
+> $$\begin{cases} x_1x_2+x_1x_3+x_1x_4+x_1x_5=-1 \\ x_2x_1+x_2x_3+x_2x_4+x_2x_5=-1 \\ x_3x_1+x_3x_2+x_3x_4+x_3x_5=-1 \\ x_4x_1+x_4x_2+x_4x_3+x_4x_5=-1 \\ x_5x_1+x_5x_2+x_5x_3+x_5x_4=-1 \end{cases}$$
+> . Trovare tutti i valori possibili di $x_1$.
+
+**Argomento:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo19yq_yosen#q07|src_jmo19yq_yosen__Q07]]
 
 
 
@@ -214,9 +251,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio di grado minimo nell'identità f(x^3)+g(x)=f(x)+x^5 g(x)*
+*Polinomio di grado minimo che compare in un'identità*
 
-> Che $f(x)$ e $g(x)$ siano entrambi polinomi non zero con coefficienti reali soddisfacenti $$f(x^3)+g(x)=f(x)+x^5 g(x).$$ Tra i polinomi $f(x)$ che possono verificarsi in questo modo, trova uno del grado più piccolo.
+> Siano $f(x)$ e $g(x)$ polinomi non nulli a coefficienti reali che soddisfano
+> $$f(x^3)+g(x)=f(x)+x^5 g(x).$$
+> . Tra i polinomi $f(x)$ che possono comparire in questo modo, trovarne uno di grado minimo.
+
+**Argomento:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo19yq_yosen#q08|src_jmo19yq_yosen__Q08]]
 
 
 
@@ -239,9 +283,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Interpretatori in coppia in stanze che condividono una lingua comune*
+*Modi di alloggiare interpreti a due a stanza con una lingua in comune*
 
-> Dieci interpreti sono invitati a una conferenza internazionale di matematica. Ogni interprete può parlare esattamente due delle cinque seguenti lingue: greco, sloveno, vietnamita, spagnolo e tedesco. Inoltre, non ci sono due interpreti che abbiano la stessa combinazione di lingue. Tali interpreti devono essere alloggiati due a stanza in cinque stanze, in modo che i due interpreti in ciascuna stanza possano parlare una lingua comune. In quanti modi si può farlo? Qui, due assegnazioni di stanza che danno esattamente gli stessi gruppi di persone sono contate come le stesse (solo scambiando quale stanza una coppia occupa non crea un'assegnazione diversa).
+> A un convegno internazionale di matematica sono invitati dieci interpreti. Ciascuno parla esattamente due delle cinque lingue seguenti: greco, sloveno, vietnamita, spagnolo, tedesco. Inoltre non ci sono due interpreti con la stessa coppia di lingue. Vanno alloggiati a due per stanza in cinque stanze, in modo che i due interpreti di ogni stanza abbiano una lingua in comune. In quanti modi si può fare? Due assegnazioni che danno esattamente gli stessi raggruppamenti di persone si contano come una sola (scambiare la stanza occupata da una coppia non crea un'assegnazione diversa).
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_jmo19yq_yosen#q09|src_jmo19yq_yosen__Q09]]
 
 
 
@@ -264,9 +313,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio di due somme di radici quadrate incastonate*
+*Valore di un quoziente di due somme*
 
-> Calcolare $$\frac{\sqrt{10+\sqrt{1}}+\sqrt{10+\sqrt{2}}+\cdots+\sqrt{10+\sqrt{99}}}{\sqrt{10-\sqrt{1}}+\sqrt{10-\sqrt{2}}+\cdots+\sqrt{10-\sqrt{99}}}.$$ Qui il denominatore è la somma di $\sqrt{10-\sqrt{n}}$ come $n$ si estende sui numeri interi da $1$ a $99$, e il numeratore è la somma di $\sqrt{10+\sqrt{n}}$ come $n$ si estende sui numeri interi da $1$ a $99$.
+> Calcolare
+> $$\frac{\sqrt{10+\sqrt{1}}+\sqrt{10+\sqrt{2}}+\cdots+\sqrt{10+\sqrt{99}}}{\sqrt{10-\sqrt{1}}+\sqrt{10-\sqrt{2}}+\cdots+\sqrt{10-\sqrt{99}}}.$$
+> . Qui il denominatore è la somma di $\sqrt{10-\sqrt{n}}$ al variare di $n$ sugli interi da $1$ a $99$, e il numeratore è la somma di $\sqrt{10+\sqrt{n}}$ al variare di $n$ sugli interi da $1$ a $99$.
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo19yq_yosen#q10|src_jmo19yq_yosen__Q10]]
 
 
 
@@ -289,9 +345,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di soluzioni di un'equazione funzionale a pavimento*
+*Somma di tutte le soluzioni reali di un'equazione con parte intera*
 
-> Trova la somma di tutte le soluzioni della seguente equazione nella variabile reale $x$: $$[x]+[2x]+[3x]+[4x]+[5x]+[6x]+[7x]+[8x]+[9x]=44x.$$ Qui $[r]$ indica il numero intero più grande non superiore al numero reale $r$.
+> Trovare la somma di tutte le soluzioni dell'equazione seguente nell'incognita reale $x$:
+> $$[x]+[2x]+[3x]+[4x]+[5x]+[6x]+[7x]+[8x]+[9x]=44x.$$
+> . Qui $[r]$ indica il massimo intero che non supera il numero reale $r$.
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_casework_accurato|Analisi per casi accurata]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo19yq_yosen#q11|src_jmo19yq_yosen__Q11]]
 
 
 
@@ -314,6 +377,11 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsiemi di 10 punti tagliati da mezzo spazio*
+*Sottoinsiemi di punti che sono intersezione con un semispazio*
 
-> Un piano nello spazio divide lo spazio in due parti; una di queste parti (senza includere il piano stesso) è chiamata mezzo spazio. Che $S$ sia un insieme di punti $10$ nello spazio in modo tale che nessuno di loro sia coplanare. Trovare il numero di sottoinsiemi di $S$ che si formano come intersezione di $S$ con qualche mezzo spazio.
+> Un piano nello spazio divide lo spazio in due parti; una di queste parti (il piano stesso escluso) si chiama semispazio. Sia $S$ un insieme di $10$ punti dello spazio tali che non ce ne siano quattro complanari. Trovare il numero di sottoinsiemi di $S$ che si ottengono come intersezione di $S$ con qualche semispazio.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo19yq_yosen#q12|src_jmo19yq_yosen__Q12]]

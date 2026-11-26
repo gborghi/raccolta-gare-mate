@@ -29,9 +29,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti gli enti n in modo tale che n2+19n+92 sia un quadrato perfetto.*
+*Interi n per cui n² + 19n + 92 è il quadrato di un intero*
 
-> Determinare l'insieme di enti $n$ per il quale $n^2 + 19n + 92$ è un quadrato di un intero.
+> Determinare l'insieme degli interi $n$ per cui $n^2 + 19n + 92$ è il quadrato di un intero.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_rmo_1992#q01|src_rmo_1992__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Anteri positivi a,b,c senza fattore comune; (a+b) è un quadrato perfetto.*
+*Se 1/a + 1/b = 1/c con a, b, c interi positivi senza un fattore comune maggiore di 1, allora a + b è un quadrato*
 
-> Se $\frac{1}{a} + \frac{1}{b} = \frac{1}{c}$, dove $a$, $b$, $c$ sono numeri interi positivi senza fattore comune, dimostrare che $(a + b)$ è il quadrato di un intero.
+> Se $\frac{1}{a} + \frac{1}{b} = \frac{1}{c}$, dove $a$, $b$ e $c$ sono interi positivi senza un fattore comune maggiore di 1, dimostrare che $(a + b)$ è il quadrato di un intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_1992#q02|src_rmo_1992__Q02]]
 
 
 
@@ -79,9 +91,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il più grande fattore primo a 3 cifre di C(2000,1000).*
+*Il massimo fattore primo di tre cifre di C(2000, 1000)*
 
-> Determinare il più grande fattore primo a 3 cifre del numero intero $\binom{2000}{1000}$.
+> Determinare il massimo fattore primo di tre cifre dell'intero $\binom{2000}{1000}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_rmo_1992#q03|src_rmo_1992__Q03]]
 
 
 
@@ -106,9 +124,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale ciclico con diagonale AC che si riunisce BD a E; prova EA2+EB2+EC2+ED2=4R2.*
+*Quadrilatero ciclico con diagonali perpendicolari: somma dei quadrati delle distanze dal loro punto di incontro uguale a 4R²*
 
-> $ABCD$ è un quadrilaterale ciclico con $AC \perp BD$, $AC$ incontra $BD$ a $E$. Prove che $$EA^2 + EB^2 + EC^2 + ED^2 = 4R^2,$$ dove $R$ è il raggio del cerchio circumscribente.
+> $ABCD$ è un quadrilatero ciclico con $AC \perp BD$. $AC$ incontra $BD$ in $E$. Dimostrare che
+>
+> $$EA^2 + EB^2 + EC^2 + ED^2 = 4R^2,$$
+>
+> dove $R$ è il raggio della circonferenza circoscritta.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1992#q04|src_rmo_1992__Q04]]
 
 
 
@@ -132,9 +160,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale ciclico; le distanze x,y,z da A alle linee BD,BC,CD soddisfano BD/x=BC/y+CD/z.*
+*Quadrilatero ciclico: le distanze di un vertice da tre rette verificano BD/x = BC/y + CD/z*
 
-> $ABCD$ è un quadrilaterale ciclico; $x$, $y$, $z$ sono le distanze di $A$ dalle linee $BD$, $BC$ e $CD$ rispettivamente. Provare che $$\frac{BD}{x} = \frac{BC}{y} + \frac{CD}{z}.$$
+> $ABCD$ è un quadrilatero ciclico; $x$, $y$, $z$ sono le distanze di $A$ dalle rette $BD$, $BC$, $CD$ rispettivamente. Dimostrare che
+>
+> $$\frac{BD}{x} = \frac{BC}{y} + \frac{CD}{z}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1992#q05|src_rmo_1992__Q05]]
 
 
 
@@ -158,9 +194,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale con punti di mezzo P,Q di CD,AB; linee che si incontrano; prove area ADX+area BCY=area PXQY.*
+*Quadrilatero, punti medi di due lati opposti e due intersezioni: somma di due aree uguale all'area del quadrilatero centrale*
 
-> $ABCD$ è un quadrilaterale e $P$, $Q$ sono i punti medi rispettivamente di $CD$ e $AB$. Lasciate che $AP$, $DQ$ si incontrino a $X$, e $BP$, $CQ$ si incontrino a $Y$. Provare che $$\text{area of } ADX + \text{area of } BCY = \text{area of quadrilateral } PXQY.$$
+> $ABCD$ è un quadrilatero e $P$, $Q$ sono i punti medi di $CD$ e $AB$ rispettivamente. Le rette $AP$ e $DQ$ si incontrano in $X$, e le rette $BP$ e $CQ$ si incontrano in $Y$. Dimostrare che
+>
+> $$\text{area of } ADX + \text{area of } BCY = \text{area of quadrilateral } PXQY.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_rmo_1992#q06|src_rmo_1992__Q06]]
 
 
 
@@ -184,9 +228,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza 1 < somma di 1/(1001) a 1/(3001) < 4/3.*
+*1 < somma da 1001 a 3001 di 1/k < 4/3*
 
-> Provare che $$1 < \frac{1}{1001} + \frac{1}{1002} + \frac{1}{1003} + \cdots + \frac{1}{3001} < \frac{4}{3}.$$
+> Dimostrare che
+>
+> $$1 < \frac{1}{1001} + \frac{1}{1002} + \frac{1}{1003} + \cdots + \frac{1}{3001} < \frac{4}{3}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1992#q07|src_rmo_1992__Q07]]
 
 
 
@@ -211,9 +263,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi il sistema simmetrico (x+y) ((x+y+z) = 18, (y+z) ((x+y+z) = 30, (z+x) ((x+y+z) = 24) in termini di A.*
+*Un sistema di tre equazioni in x, y, z, da risolvere in funzione del parametro A*
 
-> Risolvere il sistema $$\begin{cases} (x + y)(x + y + z) = 18 \\ (y + z)(x + y + z) = 30 \\ (z + x)(x + y + z) = 24 \end{cases}$$ in termini di parametro $A$.
+> Risolvere il sistema
+>
+> $$\begin{cases} (x + y)(x + y + z) = 18 \\ (y + z)(x + y + z) = 30 \\ (z + x)(x + y + z) = 24 \end{cases}$$
+>
+> in funzione del parametro $A$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_1992#q08|src_rmo_1992__Q08]]
 
 
 
@@ -236,6 +298,12 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Octogono ciclico ABCDEFGH con lati alternati a,a,a,a,b,b,b,b; trovare il circondario in termini di a e b.*
+*Ottagono ciclico di lati a, a, a, a, b, b, b, b: raggio della circonferenza circoscritta in funzione di a e b*
 
-> L'ottagono ciclico $ABCDEFGH$ ha rispettivamente lati $a, a, a, a, b, b, b, b$. Trova il raggio del cerchio che circumscrive $ABCDEFGH$ in termini di $a$ e $b$.
+> L'ottagono ciclico $ABCDEFGH$ ha lati $a, a, a, a, b, b, b, b$ rispettivamente. Trovare il raggio della circonferenza circoscritta a $ABCDEFGH$ in funzione di $a$ e $b$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_rmo_1992#q09|src_rmo_1992__Q09]]

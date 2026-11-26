@@ -31,13 +31,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Increased surface area of the solid excavated*
+*By how many square decimetres the external surface is greater*
 
 ![[src_kangourou_2004_cadet_finale__probc1.png]]
 
-> In a wooden cube of 4 decimetres by side, a cube of 2 decimetres by side is cut to make the solid depicted on the right in the figure. Compared to the total surface area of the initial cube, how many square decimeters is the total outer surface area of the solid? (see figure)
+> In a wooden cube of side 4 decimetres a cube of side two decimetres is cut out, to make the solid shown on the right in the figure. By how many square decimetres is the total external surface of the solid greater than the total surface of the initial cube? (see the figure)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** 16
+[[Quesiti/src_kangourou_2004_cadet_finale#qc1|src_kangourou_2004_cadet_finale__QC1]]
 
 
 
@@ -60,11 +63,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min a with sum of a+...+9a having equal digits*
+*The least value of a*
 
-> The number $a$ is a positive integer such that the sum $a + 2a + 3a + 4a + \ldots + 9a$ is a number in which all the digits are equal. What is the minimum value of $a$?
+> The number $a$ is a positive integer such that the sum $a + 2a + 3a + 4a + \ldots + 9a$ is a number in which all the digits are equal. What is the least value of $a$?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** 12345679
+[[Quesiti/src_kangourou_2004_cadet_finale#qc2|src_kangourou_2004_cadet_finale__QC2]]
 
 
 
@@ -88,11 +94,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-There's always a dominant team in the ring.
+*Whether such a team always exists*
 
-> At the end of a volleyball tournament with a single round-robin (where each team meets only once all the others), is there always at least one team $A$ that in the matches with each other $B$ or has won or defeated a team that has defeated $B$? Justify your answer. (N.B. In volleyball, no match ends in a draw.
+> At the end of a volleyball tournament with a single round-robin (in which every team meets every other team once only), is there always at least one team $A$ which, in the matches with every other team $B$, either won or beat a team that beat $B$? Justify the answer. (N.B. in volleyball no match ends in a draw.)
 
-**Answer:** yes (maximum score)
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Answer:** si (punteggio max)
+[[Quesiti/src_kangourou_2004_cadet_finale#qc3|src_kangourou_2004_cadet_finale__QC3]]
 
 
 
@@ -116,11 +126,15 @@ There's always a dominant team in the ring.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five numbers from pairwise sums*
+*Which numbers were written on the slips*
 
-> I wrote as many positive integers on five sheets. Adding them two by two in every possible way, I get the following ten results: $17, 20, 28, 14, 36, 28, 25, 31, 39$ and $42$. What numbers did I write?
+> I wrote on 5 slips as many positive integers. Adding them two at a time in every possible way, I obtain the following ten results: $17, 20, 28, 14, 36, 28, 25, 31, 39$ and $42$. Which numbers did I write?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** 3,11,14,17,25
+[[Quesiti/src_kangourou_2004_cadet_finale#qc4|src_kangourou_2004_cadet_finale__QC4]]
 
 
 
@@ -167,7 +181,7 @@ There's always a dominant team in the ring.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*NBM angle degrees (rotation)*
+*How many degrees the angle NBM measures*
 
 ![[src_kangourou_2004_cadet_finale__probc5.png]]
 
@@ -193,9 +207,12 @@ There's always a dominant team in the ring.
 \end{document}
 ```
 
-> The side of the square $ABCD$ in the figure measures $6$ cm and the segments $AN$ and $CM$ measure $2$ cm and $3$ cm respectively. How many degrees does the angle $NBM$ measure? (see figure)
+> The side of the square $ABCD$ in the figure measures $6$ cm, and the segments $AN$ and $CM$ measure $2$ cm and $3$ cm respectively. How many degrees does the angle $NBM$ measure? (see the figure)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** 45
+[[Quesiti/src_kangourou_2004_cadet_finale#qc5|src_kangourou_2004_cadet_finale__QC5]]
 
 
 
@@ -225,12 +242,18 @@ There's always a dominant team in the ring.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max cross tiles on the 8x8 chessboard*
+*The greatest number of cross tiles the chessboard can hold*
 
 ![[src_kangourou_2004_cadet_finale__probc6.png]]
 
-> We place in a square chessboard $8 \times 8$ symmetrical cross-shaped tiles such as the one in the figure, formed by placing together 5 squares of the same size to the chessboard cells, so that: - each of them covers exactly (overlapping) 5 of the 64 chessboard boxes; - the tiles do not overlap, but can touch and touch the edge of the chessboard.
-> 
-> How many tiles can the chessboard hold at most? (see figure)
+> We place on a square chessboard $8 \times 8$ tiles in the shape of a symmetrical cross like the one in the figure, formed by placing side by side 5 squares of the same size as the cells of the chessboard, so that:
+> - each of them covers exactly (by lying on top of them) 5 of the 64 squares of the chessboard;
+> - the tiles do not overlap, but may touch one another and touch the edge of the chessboard.
+>
+> What is the greatest number of tiles the chessboard can hold? (see the figure)
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** 8
+[[Quesiti/src_kangourou_2004_cadet_finale#qc6|src_kangourou_2004_cadet_finale__QC6]]

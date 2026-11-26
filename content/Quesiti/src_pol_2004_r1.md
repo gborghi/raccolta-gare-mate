@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Un raggio di luce che si riflette all'interno di un poligono rettilineo, partendo lungo un bisettore angolare, raggiunge infine un vertice.
+*Poligono con lati razionali e angoli di 90 o 270 gradi: un raggio lungo la bisettrice, che si riflette, finisce in un vertice*
 
-> Si deve dare un poligono con lunghezze laterali razionali e tutti gli angoli uguali a $90^\circ$ o $270^\circ$. Un raggio di luce inizia ad uno dei vertici del poligono e va nella direzione del bisettore dell'angolo interno di quel vertice. Il raggio riflette secondo la legge del riflesso. Prove che il raggio finirà per entrare in qualche vertice del poligono.
+> Sia dato un poligono con lati di lunghezza razionale e con tutti gli angoli uguali a $90^\circ$ o a $270^\circ$. Un raggio di luce parte da un vertice del poligono e procede nella direzione della bisettrice dell'angolo interno in quel vertice. Il raggio si riflette secondo la legge della riflessione. Dimostrare che il raggio finisce per entrare in qualche vertice del poligono.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2004_r1#q01|src_pol_2004_r1__Q01]]
 
 
 
@@ -54,9 +60,15 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di un numero intero primo $p$ e non negativo $x,y,z$ con $(12x+5)(12y+7)=p^z$.*
+*Esistono un primo p e interi non negativi x, y, z tali che (12x+5)(12y+7) = p^z?*
 
-> Decidere se esiste un primo $p$ e un intero non negativo $x,y,z$ tale che $(12x+5)(12y+7)=p^z$.
+> Stabilire se esistono un primo $p$ e interi non negativi $x,y,z$ tali che $(12x+5)(12y+7)=p^z$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2004_r1#q02|src_pol_2004_r1__Q02]]
 
 
 
@@ -79,9 +91,16 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le funzioni $f:\mathbb{Q}\to\mathbb{Q}$ con $f(x^2+y)=xf(x)+f(y)$ per tutti i razionali.*
+*Funzioni dai razionali ai razionali con f(x^2+y) = x f(x) + f(y)*
 
-> Trova tutte le funzioni $f \colon \mathbb{Q} \to \mathbb{Q}$ in modo tale che per tutte le funzioni razionali $x,y$ $$f(x^2+y)=xf(x)+f(y).$$
+> Trovare tutte le funzioni $f \colon \mathbb{Q} \to \mathbb{Q}$ tali che, per tutti i razionali $x,y$,
+>
+> $$f(x^2+y)=xf(x)+f(y).$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali e successioni]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2004_r1#q03|src_pol_2004_r1__Q03]]
 
 
 
@@ -104,9 +123,15 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per tutti i triangoli equilaterali circondati da un triangolo acuto, i loro centri si trovano su un cerchio.*
+*Triangolo acutangolo: i centri dei triangoli equilateri che hanno i vertici del triangolo sui lati giacciono su una circonferenza*
 
-> Si dà un triangolo a angolo acuto $ABC$. Considerare tutti i triangoli equilaterali $XYZ$ in questo piano in modo che i punti $A,B,C$ si trovino sui segmenti $YZ,ZX,XY$, rispettivamente. Prova che i centri dei triangoli $XYZ$ si trovano su un singolo cerchio.
+> È dato un triangolo acutangolo $ABC$. Si considerino tutti i triangoli equilateri $XYZ$ di questo piano tali che i punti $A,B,C$ giacciano rispettivamente sui segmenti $YZ,ZX,XY$. Dimostrare che i centri dei triangoli $XYZ$ giacciono su una stessa circonferenza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2004_r1#q04|src_pol_2004_r1__Q04]]
 
 
 
@@ -129,9 +154,15 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra $N(m,n+1)=N(n,m+1)$, dove $N(m,n)$ conti le sequenze di lunghezza non in diminuzione-$m$ da $\{1,\dots,n\}$.*
+*Successioni non decrescenti di m termini in 1, ..., n: il numero non cambia scambiando m con n e aumentando l'altro di 1*
 
-> Per i numeri interi positivi $m$ e $n$, $N(m,n)$ indica il numero di sequenze non in diminuzione dei termini $m$ provenienti da $\{1,2,\dots,n\}$. Mostra che $N(m,n+1)=N(n,m+1)$.
+> Per interi positivi $m$ e $n$, sia $N(m,n)$ il numero delle successioni non decrescenti di $m$ termini presi da $\{1,2,\dots,n\}$. Dimostrare che $N(m,n+1)=N(n,m+1)$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2004_r1#q05|src_pol_2004_r1__Q05]]
 
 
 
@@ -155,9 +186,17 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per $c$ reale che dà $P$ cinque radici reali, trovare la somma dei valori assoluti dei coefficienti di $Q$.*
+*Polinomio di quinto grado con cinque zeri reali: somma dei valori assoluti dei coefficienti del polinomio sulle loro radici quadrate, in funzione di c*
 
-> Supponiamo che $c$ sia un numero reale tale che il polinomio $P(x)=x^5-5x^3+4x-c$ abbia cinque zeri reali $x_1,x_2,x_3,x_4,x_5$. Calcolare in $c$ la somma dei valori assoluti dei coefficienti del polinomio $$Q(x)=(x-x_1^2)(x-x_2^2)(x-x_3^2)(x-x_4^2)(x-x_5^2).$$
+> Si supponga che $c$ sia un numero reale tale che il polinomio $P(x)=x^5-5x^3+4x-c$ abbia cinque zeri reali $x_1,x_2,x_3,x_4,x_5$. Calcolare, in funzione di $c$, la somma dei valori assoluti dei coefficienti del polinomio
+>
+> $$Q(x)=(x-x_1^2)(x-x_2^2)(x-x_3^2)(x-x_4^2)(x-x_5^2).$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2004_r1#q06|src_pol_2004_r1__Q06]]
 
 
 
@@ -180,9 +219,15 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni integrali positive di $a^2+b^2=c^2$ con $a,c$ primo e $b$ un prodotto di almeno tre primi.*
+*Terne pitagoriche in interi positivi con a e c primi e b prodotto di al più tre primi*
 
-> Trova tutte le soluzioni di numeri interi positivi dell'equazione $a^2+b^2=c^2$ in modo tale che $a$ e $c$ siano prime e $b$ sia un prodotto di un massimo di tre numeri primi.
+> Trovare tutte le soluzioni in interi positivi dell'equazione $a^2+b^2=c^2$ tali che $a$ e $c$ siano primi e $b$ sia prodotto di al più tre numeri primi.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_pol_2004_r1#q07|src_pol_2004_r1__Q07]]
 
 
 
@@ -206,9 +251,17 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per un punto $P$ all'interno del tetraedro $ABCD$, provare $\angle APB+\angle BPC+\angle CPD+\angle DPA>360^\circ$.*
+*Punto interno di un tetraedro: la somma di quattro angoli supera 360 gradi*
 
-> Il punto $P$ si trova all'interno di un tetraedro $ABCD$. Provare che $$\angle APB+\angle BPC+\angle CPD+\angle DPA>360^\circ.$$
+> Il punto $P$ giace all'interno di un tetraedro $ABCD$. Dimostrare che
+>
+> $$\angle APB+\angle BPC+\angle CPD+\angle DPA>360^\circ.$$
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2004_r1#q08|src_pol_2004_r1__Q08]]
 
 
 
@@ -231,9 +284,15 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per i polinomi di numeri interi non costanti $W_1,\dots,W_n$, un certo numero $a$ rende tutti $W_k(a)$ composti.*
+*Polinomi non costanti a coefficienti interi: esiste un intero in cui assumono tutti valori composti*
 
-> Si devono dare polinomi non costanti $W_1(x),W_2(x),\dots,W_n(x)$ con coefficienti interi. Prova che esiste un numero intero $a$ tale che i numeri $W_1(a),W_2(a),\dots,W_n(a)$ siano tutti composti.
+> Siano dati polinomi non costanti $W_1(x),W_2(x),\dots,W_n(x)$ a coefficienti interi. Dimostrare che esiste un intero $a$ tale che i numeri $W_1(a),W_2(a),\dots,W_n(a)$ siano tutti composti.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2004_r1#q09|src_pol_2004_r1__Q09]]
 
 
 
@@ -256,9 +315,15 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un poligono convex con un numero pari di lati, lunghezze laterali 2 o 3 (ogni numero pari), ha due vertici che suddividono il suo perimetro.*
+*Poligono convesso con un numero pari di lati, di lunghezza 2 o 3, in numero pari per ciascuna: due vertici bisecano il perimetro*
 
-> Un poligono converso ha un numero pari di lati. La lunghezza di ciascun lato è $2$ o $3$ e il numero di lati di ciascuna lunghezza è pari. Mostrare che esistono due vertici del poligono che dividono il suo perimetro.
+> Un poligono convesso ha un numero pari di lati. Ogni lato ha lunghezza $2$ oppure $3$, e il numero di lati di ciascuna lunghezza è pari. Dimostrare che esistono due vertici del poligono che bisecano il suo perimetro.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_pol_2004_r1#q10|src_pol_2004_r1__Q10]]
 
 
 
@@ -281,9 +346,15 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un trapezoide a isosceles con un rombo inscritto $KLMN$, il circondario $O$ si trova sulla linea $KM$.*
+*Trapezio isoscele, rombo con un vertice su ciascun lato: il circocentro sta sulla diagonale del rombo*
 
-> Il $O$ deve essere il centro circundante di un trapezoide $ABCD$ con le basi $AB$ e $CD$. I punti $K,L,M,N$ si trovano rispettivamente sui lati $AB,BC,CD,DA$ in modo che $KLMN$ sia un rombo. Prova che $O$ si trova sulla linea $KM$.
+> Sia $O$ il circocentro di un trapezio isoscele $ABCD$ di basi $AB$ e $CD$. I punti $K,L,M,N$ giacciono rispettivamente sui lati $AB,BC,CD,DA$ in modo che $KLMN$ sia un rombo. Dimostrare che $O$ giace sulla retta $KM$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2004_r1#q11|src_pol_2004_r1__Q11]]
 
 
 
@@ -308,6 +379,16 @@ Un raggio di luce che si riflette all'interno di un poligono rettilineo, partend
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca nel $x_1,\dots,x_n$ il numero di soluzioni reali di un sistema di quarticche cubiche cicliche per $n\ge 5$.*
+*Per n almeno 5, quante soluzioni reali ha il sistema ciclico che lega tre cubi a una quarta potenza, un cubo e un quadrato*
 
-> $n\ge 5$ sia un numero intero. Trova il numero di soluzioni in numeri reali $x_1,\dots,x_n$ del sistema $$x_{i-2}^3+x_{i-1}^3+x_i^3=x_i^4+x_{i+1}^3+x_{i+2}^2\quad\text{for }i=1,2,\dots,n,$$ dove $x_{-1}=x_{n-1}$, $x_0=x_n$, $x_1=x_{n+1}$, $x_2=x_{n+2}$.
+> Sia $n\ge 5$ un intero. Trovare il numero di soluzioni in numeri reali $x_1,\dots,x_n$ del sistema
+>
+> $$x_{i-2}^3+x_{i-1}^3+x_i^3=x_i^4+x_{i+1}^3+x_{i+2}^2\quad\text{for }i=1,2,\dots,n,$$
+>
+> dove $x_{-1}=x_{n-1}$, $x_0=x_n$, $x_1=x_{n+1}$, $x_2=x_{n+2}$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2004_r1#q12|src_pol_2004_r1__Q12]]

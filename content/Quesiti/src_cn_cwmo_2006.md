@@ -32,11 +32,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare la somma ciclica delle sesta radici sulle sequenze in (0,1)*
+*Massimizzare la somma ciclica delle seste radici in sequenze in (0,1)*
 
-> $n$ ($\ge 2$) sia un numero intero positivo e $a_1$, $a_2$, $\cdots$, $a_n \in (0, 1)$. Trova il valore massimo della somma $$\sum_{i=1}^{n} \sqrt[6]{a_i(1 - a_{i+1})}$$ dove $a_{n+1} = a_1$.
+> Sia $n$ ($\ge 2$) un numero intero positivo e $a_1$, $a_2$, $\cdots$, $a_n \in (0, 1)$. Trovare il valore massimo della somma
+> $$\sum_{i=1}^{n} \sqrt[6]{a_i(1 - a_{i+1})}$$
+> dove $a_{n+1} = a_1$.
 
-**Risposta:** $\dfrac{n}{\sqrt[3]{2}}$
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2006#q01|src_cn_cwmo_2006__Q01]]
 
 
 
@@ -62,11 +69,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La k più piccola in modo che il prodotto di due quadratici abbia una radice reale*
+*Il più piccolo k tale che il prodotto di due polinomi di secondo grado abbia una radice reale*
 
-> Trovare il numero positivo $k$ più piccolo in modo che per tutti i quattro dati numeri reali $a$, $b$, $c$ e $d$, ciascuno più grande o uguale a $k$, esiste una permutazione $p$, $q$, $r$ e $s$ di $a$, $b$, $c$, $d$ in modo che l'equazione $$(x^2 + px + q)(x^2 + rx + s) = 0$$ abbia almeno una radice reale.
+> Trovare il più piccolo numero positivo $k$ tale che, per qualsiasi insieme di quattro numeri reali distinti dati $a$, $b$, $c$ e $d$, ciascuno dei quali è maggiore o uguale a $k$, esista una permutazione $p$, $q$, $r$ e $s$ di $a$, $b$, $c$, $d$ tale che l'equazione
+> $$(x^2 + px + q)(x^2 + rx + s) = 0$$
+> abbia almeno una radice reale.
 
-**Risposta:** 4
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2006#q02|src_cn_cwmo_2006__Q02]]
 
 
 
@@ -94,13 +108,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Geometria: angolo bisector e valore di bronzaggio nella configurazione di circolo*
+*Geometria: bisettrice di un angolo e valore della tangente in configurazione della circonferenza circoscritta*
 
-> In $\triangle ABC$, $\angle ABC = 60^\circ$. La tangenza al punto $P$ al circoncircolo di $\triangle ABC$ incontra la linea $CB$ estesa a $A$. Let $\angle PCB = \alpha$. I punti $D$ e $E$ si trovano rispettivamente sul segmento di linea $PA$ e sul circoncircolo, in modo tale che $\angle DBE = 90^\circ$ e $PD = PE$. Il $F$ deve essere l'incrocio di $BE$ e $PC$. È dato che le linee $AF$, $BP$ e $CD$ sono simultanee. (1) Provare che $BF$ è il bisettore di $\angle PBC$. (2) Trova il valore di $\tan\alpha$.
+> In $\triangle ABC$, $\angle ABC = 60^\circ$. La tangente, nel punto $P$, alla circonferenza circoscritta di $\triangle ABC$, incontra la retta $CB$ prolungata nel punto $A$. Sia $\angle PCB = \alpha$. I punti $D$ e $E$ giacciono rispettivamente sul segmento di retta $PA$ e sulla circonferenza circoscritta, in modo che $\angle DBE = 90^\circ$ e $PD = PE$. Sia $F$ l'intersezione di $BE$ e $PC$. È dato che le rette $AF$, $BP$ e $CD$ sono concorrenti. (1) Dimostrare che $BF$ è la bisettrice di $\angle PBC$. (2) Trovare il valore di $\tan\alpha$.
 
 ![[src_cn_b07_w150__q03.png]]
 
-**Risposta:** $\tan\alpha = \dfrac{6+\sqrt{3}}{11}$
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2006#q03|src_cn_cwmo_2006__Q03]]
 
 
 
@@ -125,9 +144,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che le parti frazionarie di sqrt(a) sommate sono irrazionali*
+*Dimostrare che le parti frazionarie della somma di sqrt(a) sono irrazionali*
 
-> Supponiamo che $a$ sia un intero positivo e non un quadrato perfetto. Prove che per qualsiasi numero intero positivo $n$, la somma $$S_n = \{\sqrt{a}\} + \{\sqrt{a}\}^2 + \cdots + \{\sqrt{a}\}^n$$ è irrazionale, dove $\{x\} = x - [x]$ e $[x]$ denotano il numero intero più grande inferiore o uguale a $x$.
+> Si supponga che $a$ sia un numero intero positivo e non un quadrato perfetto. Si dimostri che, per ogni numero intero positivo $n$, la somma
+> $$S_n = \{\sqrt{a}\} + \{\sqrt{a}\}^2 + \cdots + \{\sqrt{a}\}^n$$
+> è irrazionale, dove $\{x\} = x - [x]$ e $[x]$ denotano il più grande intero minore o uguale a $x$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2006#q04|src_cn_cwmo_2006__Q04]]
 
 
 
@@ -150,9 +178,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-Se n è la somma dei quadrati di due positivi in triplice consecutive, così è n^2*
+*Se n è la somma dei quadrati di due numeri positivi appartenenti a una terna pitagorica consecutiva, allora anche n^2 lo è*
 
-> Let $S = \{n \mid n-1,\, n,\, n+1 \text{ all can be expressed as the sum of the squares of two positive integers}\}$. Prova che, se $n \in S$, allora $n^2 \in S$.
+> Sia $S = \{n \mid n-1,\, n,\, n+1 \text{ all can be expressed as the sum of the squares of two positive integers}\}$. Dimostrare che, se $n \in S$, allora $n^2 \in S$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2006#q05|src_cn_cwmo_2006__Q05]]
 
 
 
@@ -176,11 +211,17 @@ Se n è la somma dei quadrati di due positivi in triplice consecutive, così è 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conciclicità in cerchio con circoncircolo di triangolo BOD*
+*Conciclicità nella circonferenza con la circonferenza circoscritta al triangolo BOD*
 
-> $AB$ è un diametro di cerchio $O$, il punto $C$ si trova sulla linea $AB$ prodotta. Una linea che attraversa $C$ incrocia il cerchio $O$ nei punti $D$ e $E$. $OF$ è un diametro di circoncircolo $O_1$ di $\triangle BOD$. Unire $CF$ e la sua estensione, incrociare il cerchio $O$ a $G$. Provare che i punti $O$, $A$, $E$, $G$ sono conciclici.
+> $AB$ è un diametro del cerchio $O$; il punto $C$ giace sulla retta $AB$ prolungata. Una retta passante per $C$ interseca il cerchio $O$ nei punti $D$ e $E$. $OF$ è un diametro del cerchio circoscritto $O_1$ di $\triangle BOD$. Unisci $CF$ e il suo prolungamento, intersecando il cerchio $O$ in $G$. Dimostrare che i punti $O$, $A$, $E$, $G$ sono conciclici.
 
 ![[src_cn_b07_w150__q06.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2006#q06|src_cn_cwmo_2006__Q06]]
 
 
 
@@ -203,9 +244,16 @@ Se n è la somma dei quadrati di due positivi in triplice consecutive, così è 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I cosini razionali si propagano: se cos(((b-1)θ) e cos(bθ) sono razionali, si trovano più grandi n*
+*I coseni razionali si propagano: se cos((b-1)θ) e cos(bθ) sono razionali, trova un n più grande*
 
-> Che $b$ sia un numero intero positivo non inferiore a 3 e $\theta$ sia un numero reale. Dimostra che se entrambi $\cos((b-1)\theta)$ e $\cos(b\theta)$ sono numeri razionali, allora esiste un intero positivo $n > b$, in modo tale che entrambi $\cos((n-1)\theta)$ e $\cos(n\theta)$ sono numeri razionali.
+> Sia $b$ un numero intero positivo non minore di 3 e $\theta$ un numero reale. Dimostrare che, se sia $\cos((b-1)\theta)$ sia $\cos(b\theta)$ sono numeri razionali, allora esiste un numero intero positivo $n > b$ tale che sia $\cos((n-1)\theta)$ sia $\cos(n\theta)$ siano numeri razionali.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2006#q07|src_cn_cwmo_2006__Q07]]
 
 
 
@@ -230,6 +278,15 @@ Se n è la somma dei quadrati di due positivi in triplice consecutive, così è 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Min dimensione di X in modo che un sottoinsieme Y di dimensione n colpisca ogni set di 2 elementi non più di una volta*
+*Dimensione minima di X tale che un sottoinsieme Y di dimensione n intersechi ciascun insieme di 2 elementi al più una volta*
 
-> Date un intero positivo $n \geq 2$, $B_1, B_2, \cdots, B_n$ indichi $n$ sottoinsiemi arbitrari del set $X$, ognuno dei quali contiene esattamente due elementi. Trova il valore minimo di $|X|$ in modo tale che esista un sottoinsieme $Y$ di $X$ che soddisfa: (a) $|Y| = n$; (b) $|Y \cap B_i| \leq 1$ per $i = 1, 2, \cdots, n$.
+> Dato un intero positivo $n \geq 2$, si indichi con $B_1, B_2, \cdots, B_n$ $n$ sottoinsiemi arbitrari dell'insieme $X$, ciascuno dei quali contiene esattamente due elementi. Si determini il valore minimo di $|X|$ tale che esista un sottoinsieme $Y$ di $X$ che soddisfi:
+> (a) $|Y| = n$;
+> (b) $|Y \cap B_i| \leq 1$ per $i = 1, 2, \cdots, n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cwmo_2006#q08|src_cn_cwmo_2006__Q08]]

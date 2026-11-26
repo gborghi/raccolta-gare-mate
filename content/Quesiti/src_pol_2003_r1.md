@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi positivi (x,y) con (x+y) ^2-2(xy) ^2=1.*
+*Coppie di interi positivi x, y tali che (x+y)^2 − 2(xy)^2 = 1*
 
-> Trovare tutte le coppie di integri positivi $x$, $y$ tali da $(x+y)^2-2(xy)^2=1$.
+> Trovare tutte le coppie di interi positivi $x$, $y$ tali che $(x+y)^2-2(xy)^2=1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2003_r1#q01|src_pol_2003_r1__Q01]]
 
 
 
@@ -55,9 +61,17 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato a_1>1 e a_{n+1}=a_n^2-a_n+1, dimostrare che la somma delle reciprocità è inferiore a 1/(a_1-1).*
+*Successione a_{n+1} = a_n^2 − a_n + 1, con a_1 > 1: la somma dei reciproci è minore di 1/(a_1−1)*
 
-> Date un numero reale $a_1>1$, definire la sequenza $(a_n)$ da $a_{n+1}=a_n^2-a_n+1$ per $n\ge 1$. Prova che per ogni intero positivo $n$, $$\frac{1}{a_1}+\frac{1}{a_2}+\cdots+\frac{1}{a_n}<\frac{1}{a_1-1}.$$
+> Dato un numero reale $a_1>1$, si definisca la successione $(a_n)$ mediante $a_{n+1}=a_n^2-a_n+1$ per $n\ge 1$. Dimostrare che, per ogni intero positivo $n$,
+>
+> $$\frac{1}{a_1}+\frac{1}{a_2}+\cdots+\frac{1}{a_n}<\frac{1}{a_1-1}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2003_r1#q02|src_pol_2003_r1__Q02]]
 
 
 
@@ -79,9 +93,14 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le tangenti di A, B si incontrano a P; la tangente di C si incontrano a AB a Q. Prova PQ^2=PB^2+QC^2.*
+*Tre punti su una circonferenza, tangenti in A e B che si incontrano in P, tangente in C che incontra AB in Q: PQ^2 = PB^2 + QC^2*
 
-> Su un cerchio $o$ sono indicati tre punti diversi $A$, $B$ e $C$. Le linee tangenti a $o$ a $A$ e a $B$ si incontrano a $P$, e la linea tangente a $o$ a $C$ interseca la linea $AB$ a $Q$. Prove che $PQ^2=PB^2+QC^2$.
+> Su una circonferenza $o$ sono dati tre punti distinti $A$, $B$, $C$. Le rette tangenti a $o$ in $A$ e in $B$ si incontrano in $P$, e la retta tangente a $o$ in $C$ interseca la retta $AB$ in $Q$. Dimostrare che $PQ^2=PB^2+QC^2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2003_r1#q03|src_pol_2003_r1__Q03]]
 
 
 
@@ -104,9 +123,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Su tutte le sequenze di lunghezza k con termini in {1,...,m}, segna ogni termine più piccolo; prova che la somma dei numeri segnalati è uguale a 1^k+2^k+...+m^k.*
+*Successioni di lunghezza k a valori in 1, ..., m: la somma dei minimi uguaglia la somma delle potenze k-esime*
 
-> Considera l'insieme di tutte le sequenze di lunghezza $k$ con termini nell'insieme $\{1,2,\ldots,m\}$. Per ciascuna di queste sequenze è marcato il valore del termine più piccolo. Prova che la somma di tutti i numeri segnalati è uguale a $1^k+2^k+\cdots+m^k$.
+> Si consideri l'insieme di tutte le successioni di lunghezza $k$ con termini nell'insieme $\{1,2,\ldots,m\}$. Per ciascuna si segna il valore del termine più piccolo. Dimostrare che la somma di tutti i numeri segnati è uguale a $1^k+2^k+\cdots+m^k$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2003_r1#q04|src_pol_2003_r1__Q04]]
 
 
 
@@ -129,9 +154,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n_1 ha 333 cifre non zero; n_{i+1} sposta l'ultima cifra di n_i all'inizio. Provare che 333 divide quattro, o tutti, di n_1,...,n_333.*
+*Numero di 333 cifre non nulle, e i numeri ottenuti spostando l'ultima cifra in testa: 333 ne divide quattro, oppure tutti*
 
-> Un intero positivo $n_1$ contiene cifre decimali $333$ e tutte quelle cifre non sono zero. Per $i=1,2,\ldots,332$, impostare $n_{i+1}$ come il numero ottenuto da $n_i$ spostando l'ultima cifra di $n_i$ all'inizio. Provare che $333$ divide quattro o tutti i numeri $n_1,n_2,\ldots,n_{333}$.
+> Un intero positivo $n_1$ ha $333$ cifre decimali, tutte diverse da zero. Per $i=1,2,\ldots,332$, sia $n_{i+1}$ il numero ottenuto da $n_i$ spostando l'ultima cifra di $n_i$ all'inizio. Dimostrare che $333$ divide quattro dei numeri $n_1,n_2,\ldots,n_{333}$, oppure tutti.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2003_r1#q05|src_pol_2003_r1__Q05]]
 
 
 
@@ -154,9 +185,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A,B,C,D su cerchio o in ordine; M punto medio di arco AB non contenente C,D; N punto medio di arco CD non contenente A,B. Prova (AN^2-BN^2)/AB=(DM^2-CM^2)/CD.*
+*Quattro punti su una circonferenza, punti medi degli archi AB e CD: uguaglianza di due rapporti di differenze di quadrati*
 
-> I punti $A$, $B$, $C$, $D$ si trovano in questo ordine su un cerchio $o$. Il $M$ deve essere il punto medio dell'arco $AB$ di $o$ non contenente $C$, $D$ e $N$ il punto medio dell'arco $CD$ di $o$ non contenente $A$, $B$. Provare che $$\frac{AN^2-BN^2}{AB}=\frac{DM^2-CM^2}{CD}.$$
+> I punti $A$, $B$, $C$, $D$ giacciono in quest'ordine su una circonferenza $o$. Sia $M$ il punto medio dell'arco $AB$ di $o$ che non contiene $C$ né $D$, e sia $N$ il punto medio dell'arco $CD$ di $o$ che non contiene $A$ né $B$. Dimostrare che
+>
+> $$\frac{AN^2-BN^2}{AB}=\frac{DM^2-CM^2}{CD}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2003_r1#q06|src_pol_2003_r1__Q06]]
 
 
 
@@ -179,9 +217,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte più regali di quelli ricevuti, mentre Renia ha ricevuto sei volte di più di quello che ha dato. Trova il minor numero di regali che Renia avrebbe potuto ottenere.
+*Regali a una riunione: tutti ne fanno il triplo di quanti ne ricevono, tranne la zia, che ne riceve il sestuplo. Minimo dei regali ricevuti dalla zia*
 
-> In una riunione presso la zia Renia ha incontrato persone (tra cui la zia). Ognuno di loro ha dato almeno un regalo ad almeno un altro. Ogni persona tranne zia Renia ha dato tre volte più regali di quelli che ha ricevuto, ma zia Renia ha ricevuto sei volte più regali di quelli che ha dato. Trova il minor numero di regali che la zia Renia avrebbe potuto ottenere.
+> A una riunione da zia Renia si sono incontrate $n$ persone, zia compresa. Ogni persona ha fatto almeno un regalo ad almeno un'altra. Ogni persona, tranne zia Renia, ha fatto il triplo dei regali che ha ricevuto; zia Renia ne ha ricevuti sei volte tanti quanti ne ha fatti. Trovare il minimo numero di regali che zia Renia può aver ricevuto.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_pol_2003_r1#q07|src_pol_2003_r1__Q07]]
 
 
 
@@ -204,9 +248,15 @@ Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte p
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tetraedro ABCD; M,N punti di mezzo di AB,CD. Un punto P su MN soddisfa MP=CN e NP=AC; O è il circosentro. Mostra che O!=P implica OP perpendicolare a MN.*
+*Tetraedro, punti medi di due spigoli opposti, punto P sul segmento con due uguaglianze: se il circocentro è distinto da P, OP è perpendicolare a MN*
 
-> In un tetraedro $ABCD$, $M$ e $N$ sono rispettivamente i punti medi dei bordi $AB$ e $CD$. Supponiamo che un punto $P$ sul segmento $MN$ soddisfi $MP=CN$ e $NP=AC$. Che il $O$ sia il circondario del tetraedro. Indicare che se $O\ne P$, allora $OP\perp MN$.
+> In un tetraedro $ABCD$, $M$ e $N$ sono i punti medi degli spigoli $AB$ e $CD$ rispettivamente. Un punto $P$ del segmento $MN$ soddisfa $MP=CN$ e $NP=AC$. Sia $O$ il circocentro del tetraedro. Dimostrare che, se $O\ne P$, allora $OP\perp MN$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2003_r1#q08|src_pol_2003_r1__Q08]]
 
 
 
@@ -228,9 +278,14 @@ Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte p
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti i polinomi W con coefficienti reali in modo che se x+y è razionale allora W(x)+W(y) è razionale.*
+*Polinomi a coefficienti reali tali che, se x+y è razionale, anche W(x)+W(y) lo è*
 
-> Trova tutti i polinomi $W$ con coefficienti reali che hanno la seguente proprietà: se $x+y$ è un numero razionale, allora è $W(x)+W(y)$.
+> Trovare tutti i polinomi $W$ a coefficienti reali con la proprietà seguente: se $x+y$ è razionale, allora lo è anche $W(x)+W(y)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali e successioni]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2003_r1#q09|src_pol_2003_r1__Q09]]
 
 
 
@@ -253,9 +308,15 @@ Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte p
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Carte 1..52; un shuffle è una permutazione pi con pi(i)<pi(i+1) tranne in un indice m. Provare o respingere qualsiasi ordine raggiungibile da qualunque altro in un massimo di 5 mescolanze.*
+*52 carte: un mescolamento è una permutazione crescente salvo al più un indice. Bastano 5 mescolamenti per ogni riordino?*
 
-> Nella tabella ci sono carte $52$ numerate con i numeri $1,2,\ldots,52$. Una permutazione $\pi$ dell'insieme $\{1,2,\ldots,52\}$ si chiama shuffle se c'è un numero $1\le m\le 51$ tale che $\pi(i)<\pi(i+1)$ per $i=1,2,\ldots,m-1,m+1,\ldots,51$. Prove o smentire che, a partire dalle carte in ordine arbitrario, possiamo organizzarle in qualsiasi altro ordine in un massimo di $5$ mescoli.
+> Sul tavolo ci sono $52$ carte numerate con i numeri $1,2,\ldots,52$. Una permutazione $\pi$ dell'insieme $\{1,2,\ldots,52\}$ si dice un mescolamento se esiste un numero $1\le m\le 51$ tale che $\pi(i)<\pi(i+1)$ per $i=1,2,\ldots,m-1,m+1,\ldots,51$. Dimostrare o confutare che, partendo da un ordine qualunque delle carte, se ne può ottenere qualunque altro con al più $5$ mescolamenti.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi e strategie]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2003_r1#q10|src_pol_2003_r1__Q10]]
 
 
 
@@ -277,9 +338,14 @@ Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte p
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD convexa; P su BC, Q su CD con angolo BAP = angolo DAQ. I triangoli ABP e ADQ hanno superficie uguale se i loro ortocentri si trovano su una linea perpendicolare all'AC.*
+*Punti P e Q sui lati di un quadrilatero convesso, con angoli uguali: i triangoli hanno la stessa area se e solo se gli ortocentri stanno su una retta perpendicolare ad AC*
 
-> Si dà un quadrilaterale convex $ABCD$. I punti $P$ e $Q$ diversi dai suoi vertici si trovano rispettivamente sui segmenti $BC$ e $CD$ e soddisfano la condizione $\angle BAP=\angle DAQ$. Indicare che i triangoli $ABP$ e $ADQ$ hanno la stessa superficie se e solo se i loro ortocentri si trovano su una linea perpendicolare a $AC$.
+> È dato un quadrilatero convesso $ABCD$. I punti $P$ e $Q$, distinti dai vertici, giacciono sui segmenti $BC$ e $CD$ rispettivamente e soddisfano $\angle BAP=\angle DAQ$. Dimostrare che i triangoli $ABP$ e $ADQ$ hanno la stessa area se e solo se i loro ortocentri giacciono su una retta perpendicolare a $AC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2003_r1#q11|src_pol_2003_r1__Q11]]
 
 
 
@@ -303,6 +369,14 @@ Alla riunione di zia Renia di n persone, ognuno tranne Renia ha dato tre volte p
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per i reali positivi a,b,c,d con A=a^3+b^3+c^3+d^3 e B=bcd+cda+dab+abc, provare (a+b+c+d)^3 <= 4A+24B.*
+*Per quattro reali positivi, il cubo della somma non supera 4 volte la somma dei cubi più 24 volte la somma dei prodotti di tre*
 
-> Per i numeri reali positivi $a$, $b$, $c$, $d$, indicare $A=a^3+b^3+c^3+d^3$ e $B=bcd+cda+dab+abc$. Provare che $$(a+b+c+d)^3\le 4A+24B.$$
+> Per numeri reali positivi $a$, $b$, $c$, $d$, si ponga $A=a^3+b^3+c^3+d^3$ e $B=bcd+cda+dab+abc$. Dimostrare che
+>
+> $$(a+b+c+d)^3\le 4A+24B.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2003_r1#q12|src_pol_2003_r1__Q12]]

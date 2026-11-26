@@ -57,36 +57,23 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of a rectangular fruit tree with 35 trees*
+*Perimeter of a rectangular orchard with 35 trees*
 
 ![[src_archimede_1999_triennio__prob1.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \foreach \y in {0,1,2,3,4} {
-    \fill (0,\y) circle (2.2pt);
-    \fill (1,\y) circle (2.2pt);
-    \fill (4,\y) circle (2.2pt);
-  }
-  \foreach \y in {0,4} { \node at (2.5,\y) {$\cdots$}; }
-  \node[above left] at (0,4) {$D$};
-  \node[above right] at (4,4) {$C$};
-  \node[below left] at (0,0) {$A$};
-  \node[below right] at (4,0) {$B$};
-\end{tikzpicture}
-\end{document}
-```
-
-> In a rectangular orchard there is a tree every 4 meters (as shown in the figure). Knowing that there are 35 trees, what is the perimeter of the rectangle that has the points of vertices where there are trees A, B, C, D?
+> In a rectangular orchard there is a tree every 4 metres (as in the figure). Given that there are 35 trees, what is the perimeter of the rectangle whose vertices are the points where the trees A, B, C and D stand?
 >
 > - **(A)** 70
 > - **(B)** 80
 > - **(C)** 96
 > - **(D)** 140
-> - **(E)** It cannot be determined uniquely.
+> - **(E)** it cannot be determined uniquely.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_1999_triennio#q01|src_archimede_1999_triennio__Q01]]
 
 
 
@@ -117,9 +104,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which inequality is always found if x>y*
+*Which inequality is always true if x>y*
 
-> Let x and y be two real numbers such that x > y. Which of the following inequalities has always occurred?
+> Let x and y be two real numbers such that x > y. Which of the following inequalities
+> is always true?
 >
 > - **(A)** x2 > xy
 > - **(B)** x2 > y2
@@ -127,7 +115,11 @@ level: triennio
 > - **(D)** x3 > y3
 > - **(E)** x4 > y4.
 
-**Answer:** D
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1999_triennio#q09|src_archimede_1999_triennio__Q09]]
 
 
 
@@ -159,9 +151,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*After several laps the fastest rider reaches the other*
+*After how many laps does the faster cyclist catch up with the other?*
 
-> Two cyclists start simultaneously from two diametrically opposite points on a 400 m circular track. They rotate in the same direction at a constant speed of 35 km/h and 40 km/h respectively. After how many laps will the fastest rider reach the other?
+> Two cyclists start at the same time from two diametrically opposite points on a circular track 400 m long. They ride in the same direction at constant speeds of 35 km/h and 40 km/h respectively. After how many laps will the faster cyclist catch up with the other?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -169,7 +161,10 @@ level: triennio
 > - **(D)** 6
 > - **(E)** 8.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1999_triennio#q10|src_archimede_1999_triennio__Q10]]
 
 
 
@@ -200,17 +195,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in position 1999 between non-multiples of 2 and 3*
+*The 1999th positive integer not a multiple of 2 or 3*
 
-> Let's write in increasing order all positive integers that are not n times 2 and multiples of 3. What number is in 1999?
+> We write, in increasing order, all positive integers that are neither multiples of 2 nor multiples of 3. Which number is in the 1999th position?
 >
 > - **(A)** 1999
 > - **(B)** 3997
 > - **(C)** 5995
 > - **(D)** 11989
-> - **(E)** None of the above.
+> - **(E)** none of the above.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_1999_triennio#q11|src_archimede_1999_triennio__Q11]]
 
 
 
@@ -245,17 +244,25 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio between interior triangle areas and ABC*
+*Ratio of the area of an interior triangle to the area of ABC*
 
-> On the three sides AB, BC, CA of an ABC triangle, three points L, M, N such that AL = 1 2BL, BM = 1 2MC, CN = 1 2NA are considered respectively. What is the relationship between the area of the LMN triangle and that of the ABC triangle?
+> On the three sides AB, BC and CA of a triangle ABC, take points L, M and N respectively such that AL = 1
+> 2BL, BM = 1
+> 2MC, CN = 1
+> 2NA. What is the ratio of the area of triangle LMN to the area of triangle ABC?
 >
 > - **(A)** 1 4
 > - **(B)** 1 3
 > - **(C)** 5 12
 > - **(D)** 1 2
-> - **(E)** depends on the particular triangle in question.
+> - **(E)** it depends on the particular triangle chosen.
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_1999_triennio#q12|src_archimede_1999_triennio__Q12]]
 
 
 
@@ -287,9 +294,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Estimate of x = 99 minus 70 roots of 2*
+*Estimate of 99 minus 70 times the square root of 2*
 
-> Whether x = 99 −70 √ 2. So, what?
+> Let x = 99 −70
+> √
+> 2. Then
 >
 > - **(A)** x ≤−1 100
 > - **(B)** −1 100 < x < 0
@@ -297,7 +306,11 @@ level: triennio
 > - **(D)** 0 < x < 1 100
 > - **(E)** x ≥ 1 100.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1999_triennio#q13|src_archimede_1999_triennio__Q13]]
 
 
 
@@ -327,17 +340,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What time is the bid on the 23rd minute*
+*Time of day when the hour hand is at minute 23*
 
-> An analog clock has lost its minute's edge, but it's still working properly. The hour's clock is on the 23rd minute. Knowing it's afternoon, what time is it?
+> An analogue clock has lost its minute hand, but it still works correctly. The hour hand is at the 23-minute mark. Given that it is afternoon, what time is it?
 >
-> - **(A)** Le 15:23
-> - **(B)** le 16:23
-> - **(C)** le 16:30
-> - **(D)** le 16:36
-> - **(E)** le 16:40.
+> - **(A)** 15:23
+> - **(B)** 16:23
+> - **(C)** 16:30
+> - **(D)** 16:36
+> - **(E)** 16:40.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1999_triennio#q14|src_archimede_1999_triennio__Q14]]
 
 
 
@@ -368,17 +384,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of the sum of the first 25 prime*
+*Units digit of the sum of the 25 smallest primes*
 
-> Let N be the sum of the 25 smallest prime numbers. The number of units of N is equal to
+> Let N be the sum of the 25 smallest prime numbers. The units digit of N is equal to
 >
 > - **(A)** 1
 > - **(B)** 3
 > - **(C)** 7
 > - **(D)** 9
-> - **(E)** 0. I'm going to take note. Remember that number 1 is not considered prime and so the smallest prime number is 2.
+> - **(E)** 0. NOTE. Recall that the number 1 is not considered prime, and therefore the smallest prime number is 2.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_1999_triennio#q15|src_archimede_1999_triennio__Q15]]
 
 
 
@@ -407,17 +427,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many real roots of an exponential equation*
+*Number of real roots of an exponential equation*
 
 > How many real roots does the equation 9 −2x = 23−x have?
 >
-> - **(A)** Two
-> - **(B)** more than two, but a finite number
-> - **(C)** None of them.
-> - **(D)** Endless
-> - **(E)** One of them.
+> - **(A)** two
+> - **(B)** more than two, but finitely many
+> - **(C)** none
+> - **(D)** infinitely many
+> - **(E)** one.
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1999_triennio#q16|src_archimede_1999_triennio__Q16]]
 
 
 
@@ -448,17 +471,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most likely event by fishing 8 socks*
+*Most likely outcome when drawing 8 socks*
 
-> In my drawer, there are eight blue socks and eight black socks. I fish in the dark eight socks at a time. Which of the following is the most likely eventuality?
+> In my drawer there are 8 blue socks and 8 black socks, all jumbled together. In the dark I draw 8 socks at random. Which of the following is the most likely outcome?
 >
-> - **(A)** Fishing 4 socks of one color and 4 of another
-> - **(B)** 5 socks of one colour and 3 of another
-> - **(C)** 6 socks of one colour and 2 of another
-> - **(D)** 7 socks of one colour and 1 colour of another
-> - **(E)** Fishing 8 socks of one color and 0 of another.
+> - **(A)** drawing 4 socks of one colour and 4 of another
+> - **(B)** drawing 5 socks of one colour and 3 of another
+> - **(C)** drawing 6 socks of one colour and 2 of another
+> - **(D)** drawing 7 socks of one colour and 1 of another
+> - **(E)** drawing 8 socks of one colour and 0 of another.
 
-**Answer:** B
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1999_triennio#q17|src_archimede_1999_triennio__Q17]]
 
 
 
@@ -487,17 +514,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which statement on polygons is correct*
+*Which statement about polygons is correct*
 
-> Which of the following is correct?
+> Which of the following statements is correct?
 >
-> - **(A)** If a quadrilateral has all the same sides, then it also has all the same angles.
-> - **(B)** If a quadrilateral has all the same angles, then it also has all the same sides.
-> - **(C)** If a quadrilateral has two equal angles, then it also has two equal sides.
-> - **(D)** There's a triangle with all the same angles, but not all the sides are the same.
-> - **(E)** There's a pentagon with all the same angles, but not all the sides are the same.
+> - **(A)** if a quadrilateral has all sides equal, then it also has all angles equal
+> - **(B)** if a quadrilateral has all angles equal, then it also has all sides equal
+> - **(C)** if a quadrilateral has two equal angles, then it also has two equal sides
+> - **(D)** there exists a triangle with all angles equal, but in which the sides are not all equal
+> - **(E)** there exists a pentagon with all angles equal, but in which the sides are not all equal.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1999_triennio#q18|src_archimede_1999_triennio__Q18]]
 
 
 
@@ -528,9 +558,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many ways to have 3 boys and 3 girls
+*In how many ways can 3 boys and 3 girls be arranged*
 
-> How many ways can you arrange three boys and three girls for a group photo, placing the three boys squatting and the three girls standing behind them?
+> In how many ways can 3 boys and 3 girls be arranged for a group photo,
+> with the 3 boys crouching and the 3 girls standing behind them?
 >
 > - **(A)** 9
 > - **(B)** 24
@@ -538,7 +569,11 @@ How many ways to have 3 boys and 3 girls
 > - **(D)** 54
 > - **(E)** 81.
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1999_triennio#q19|src_archimede_1999_triennio__Q19]]
 
 
 
@@ -570,9 +605,9 @@ How many ways to have 3 boys and 3 girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ray of a tangent circle on two sides passing through A*
+*Radius of a circle tangent to two sides and passing through A*
 
-> A square ABCD is inscribed in a unit radius circumference. What is the length of the radius of the circumference passing through A and tangent to the sides BC and CD?
+> A square ABCD is inscribed in a circle of unit radius. What is the length of the radius of the circle that passes through A and is tangent to the sides BC and CD?
 >
 > - **(A)** 1 2
 > - **(B)** 2( √ 2 −1)
@@ -580,7 +615,11 @@ How many ways to have 3 boys and 3 girls
 > - **(D)** √ 2
 > - **(E)** √ 2 2 .
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1999_triennio#q21|src_archimede_1999_triennio__Q21]]
 
 
 
@@ -613,9 +652,11 @@ How many ways to have 3 boys and 3 girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number cannot be expressed as a/b + b/a*
+*Which number cannot be written as a/b + b/a*
 
-> Which of the following numbers cannot be written in the form a b + b a with a and b positive integers?
+> Which of the following numbers cannot be written in the form a
+> b + b
+> a with a and b positive integers?
 >
 > - **(A)** 25 12
 > - **(B)** 10 3
@@ -623,7 +664,12 @@ How many ways to have 3 boys and 3 girls
 > - **(D)** 17 4
 > - **(E)** 29 10.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_archimede_1999_triennio#q22|src_archimede_1999_triennio__Q22]]
 
 
 
@@ -656,17 +702,21 @@ How many ways to have 3 boys and 3 girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-What to deduce from Andrea's claims about thieves
+*What follows from Andrea's statement about the knaves*
 
-> On the island of knights and crooks the knights always tell the truth and the crooks always lie. Suppose you meet Andrea who says Bruno says Carlo is a cunning man, but Carlo says Diego is a cunning man and Diego says Bruno is a cunning man. What can you tell me?
+> On the island of knights and knaves, knights always tell the truth and knaves always lie. Suppose you meet Andrea there, who says “Bruno claims that Carlo is a knave, but Carlo claims that Diego is a knave and Diego claims that Bruno is a knave”. What can you deduce from this?
 >
-> - **(A)** Bruno, Carlo and Diego are all cunning.
-> - **(B)** Bruno, Carlo and Diego are all knights.
-> - **(C)** Between Bruno, Carlo and Diego, there are two crooks and a knight.
-> - **(D)** Between Bruno, Carlo and Diego, there are two knights and a con man.
-> - **(E)** Andrea is a con man.
+> - **(A)** Bruno, Carlo and Diego are all knaves
+> - **(B)** Bruno, Carlo and Diego are all knights
+> - **(C)** among Bruno, Carlo and Diego there are two knaves and one knight
+> - **(D)** among Bruno, Carlo and Diego there are two knights and one knave
+> - **(E)** Andrea is a knave.
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_1999_triennio#q23|src_archimede_1999_triennio__Q23]]
 
 
 
@@ -698,17 +748,21 @@ What to deduce from Andrea's claims about thieves
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of digits of n with 3 and 5 divisible by 11*
+*Fewest digits of an odd-length multiple of 11 written with 3s and 5s*
 
-> The whole n > 0 in base ten is written only with the digits 3 and 5 and has an odd number of digits. Plus it's divisible by 11. What's the minimum number of digits you can have n?
+> The integer n > 0, in base ten, is written using only the digits 3 and 5 and has an odd number of digits. It is also divisible by 11. What is the smallest number of digits n can have?
 >
 > - **(A)** 5
 > - **(B)** 7
 > - **(C)** 11
 > - **(D)** 15
-> - **(E)** There is no such number.
+> - **(E)** no such n exists.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_1999_triennio#q24|src_archimede_1999_triennio__Q24]]
 
 
 
@@ -758,25 +812,11 @@ What to deduce from Andrea's claims about thieves
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance from O by two strings of the other*
+*Distance from O so that one chord is twice the other*
 
 ![[src_archimede_1999_triennio__prob25.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.3]
-  \draw (0,0) circle (2);
-  \draw (1,0) circle (1);
-  \draw (1,-1.732) -- (1,1.732);
-  \draw (-2,0) -- (2,0);
-  \fill (1,0) circle (1.3pt);
-  \node[below left] at (0,0) {$O$};
-  \node[below right] at (1,0) {$P$};
-\end{tikzpicture}
-\end{document}
-```
-
-> The circles drawn next to each other have radii 2 and 1 and are tangent internally at point A. How far from O must the point P be so that the strings intercepted by the perpendicular in P at OA are twice the length of the other?
+> The circles shown alongside have radii 2 and 1, and they touch internally at the point A. How far from O must the point P be so that the chords cut by the line through P perpendicular to OA have lengths one twice the other?
 >
 > - **(A)** 1 6
 > - **(B)** 1 3
@@ -784,4 +824,9 @@ What to deduce from Andrea's claims about thieves
 > - **(D)** 2 3
 > - **(E)** 3 4. O b P A
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_1999_triennio#q25|src_archimede_1999_triennio__Q25]]

@@ -31,9 +31,18 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values a0 with roots/+3 periodic succession*
+*Starting values for which the sequence a_n returns to the same value infinitely often*
 
-> For each integer $a_0 > 1$, the succession $a_0, a_1, a_2, \ldots$ is defined as follows: $$a_{n+1} = \begin{cases} \sqrt{a_n} & \text{se } \sqrt{a_n} \text{ è un intero,} \\ a_n + 3 & \text{altrimenti,} \end{cases}$$ for each $n \geq 0$. Determine all $a_0$ values for which there exists a $A$ number such that $a_n = A$ for infinite $n$ values.
+> For every integer $a_0 > 1$, the sequence $a_0, a_1, a_2, \ldots$ is defined as follows:
+> $$a_{n+1} = \begin{cases} \sqrt{a_n} & \text{if } \sqrt{a_n} \text{ is an integer,} \\ a_n + 3 & \text{otherwise,} \end{cases}$$
+> for every $n \geq 0$. Determine all values of $a_0$ for which there exists a number $A$ such that $a_n = A$ for infinitely many values of $n$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_2017#q01|src_imo_2017__Q01]]
 
 
 
@@ -57,9 +66,17 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Functional equation f(f(x) f(y))+f(x+y)=f(xy)*
+*Functions satisfying f(f(x)f(y)) + f(x+y) = f(xy)*
 
-> Whether $\mathbb{R}$ is the set of real numbers. Determine all functions $f : \mathbb{R} \to \mathbb{R}$ such that, for all real numbers $x$ and $y$, $$f(f(x)f(y)) + f(x + y) = f(xy).$$
+> Let $\mathbb{R}$ be the set of real numbers. Determine all functions $f : \mathbb{R} \to \mathbb{R}$ such that, for all real numbers $x$ and $y$,
+> $$f(f(x)f(y)) + f(x + y) = f(xy).$$
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_2017#q02|src_imo_2017__Q02]]
 
 
 
@@ -90,17 +107,24 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hunter and rabbit invisible in the plane*
+*Can the hunter stay within 100 of an invisible rabbit after 10^9 turns?*
 
-> A hunter and an invisible rabbit play a game in the Euclidean plane. The starting point of the rabbit, $A_0$, and the starting point of the hunter, $B_0$, coincide. After $n-1$ play turns, the rabbit is in $A_{n-1}$ and the hunter is in $B_{n-1}$. In the $n$-eighth turn of the game, the following three things happen in the order:
-> 
-> (i) The rabbit moves invisibly at a point $A_n$ such that the distance between $A_{n-1}$ and $A_n$ is exactly $1$.
-> 
-> (ii) A tracking device shall communicate to the hunter a point $P_n$. The only guarantee provided by the device is that the distance between $P_n$ and $A_n$ is at most $1$.
-> 
-> (iii) The hunter moves visibly at a point $B_n$ such that the distance between $B_{n-1}$ and $B_n$ is exactly $1$.
-> 
-> Is it always possible, regardless of how the rabbit moves and from which points the device communicates, for the hunter to choose his movements so that after $10^9$ turns he can ensure that the distance between him and the rabbit is at most $100$?
+> A hunter and an invisible rabbit play a game in the Euclidean plane. The rabbit's starting point, $A_0$, and the hunter's starting point, $B_0$, coincide. After $n-1$ turns of the game, the rabbit is at the point $A_{n-1}$ and the hunter at the point $B_{n-1}$. On the $n$th turn of the game, the following three things happen, in order:
+>
+> (i) The rabbit moves invisibly to a point $A_n$ such that the distance between $A_{n-1}$ and $A_n$ is exactly $1$.
+>
+> (ii) A tracking device reports a point $P_n$ to the hunter. The only guarantee provided by the device is that the distance between $P_n$ and $A_n$ is at most $1$.
+>
+> (iii) The hunter moves visibly to a point $B_n$ such that the distance between $B_{n-1}$ and $B_n$ is exactly $1$.
+>
+> Is it always possible, no matter how the rabbit moves and which points the device reports, for the hunter to choose his moves so that after $10^9$ turns he can guarantee that the distance between him and the rabbit is at most $100$?
+
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_estremalita|Extremal principle]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_2017#q03|src_imo_2017__Q03]]
 
 
 
@@ -123,9 +147,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*KT tangent to the Gamma (points on a circle)*
+*The line KT is tangent to the circle through J, S and T*
 
-> If $R$ and $S$ are two distinct points on a circumference $\Omega$ such that $RS$ is not a diameter. If $\ell$ is the tangent line to $\Omega$ in $R$. The $T$ point is such that $S$ is the middle point of the $RT$ segment. The $J$ point is selected on the $RS$ minor arc of $\Omega$ so that the circumference circumscribed $\Gamma$ to the $JST$ triangle intersects $\ell$ at two distinct points. Either $A$ the common point of $\Gamma$ and $\ell$ nearest to $R$. The $AJ$ line is again $\Omega$ in $K$. Demonstrate that the straight $KT$ is tangent to $\Gamma$.
+> Let $R$ and $S$ be two distinct points on a circle $\Omega$ such that $RS$ is not a diameter. Let $\ell$ be the tangent line to $\Omega$ at $R$. The point $T$ is such that $S$ is the midpoint of the segment $RT$. The point $J$ is chosen on the minor arc $RS$ of $\Omega$ so that the circumcircle $\Gamma$ of triangle $JST$ meets $\ell$ in two distinct points. Let $A$ be the common point of $\Gamma$ and $\ell$ closer to $R$. The line $AJ$ meets $\Omega$ again at the point $K$. Prove that the line $KT$ is tangent to $\Gamma$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_2017#q04|src_imo_2017__Q04]]
 
 
 
@@ -158,19 +189,26 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remove players by leaving 2N with height conditions*
+*A row of footballers can be thinned so that the remaining 2N satisfy N separation conditions*
 
-> A whole $N \geq 2$ is given. A collection of $N(N+1)$ footballers, of which there are no two of the same height, is arranged in a row. Sir Alex wants to remove $N(N-1)$ players from this row, leaving a new row of $2N$ players where the following $N$ conditions apply:
-> 
-> (1) no one is between the two highest players,
-> 
-> (2) No player is between the third and fourth highest,
-> 
+> An integer $N \geq 2$ is given. A collection of $N(N+1)$ footballers, no two of the same height, is arranged in a row. Sir Alex wants to remove $N(N-1)$ players from this row, leaving a new row of $2N$ players in which the following $N$ conditions hold:
+>
+> (1) nobody stands between the two tallest players,
+>
+> (2) nobody stands between the third and the fourth tallest players,
+>
 > $\vdots$
-> 
-> (N) No one is between the two lowest players.
-> 
+>
+> (N) nobody stands between the two shortest players.
+>
 > Prove that this is always possible.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_2017#q05|src_imo_2017__Q05]]
 
 
 
@@ -194,6 +232,14 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Homogeneous polynomial =1 on primitive points*
+*A polynomial taking the value 1 at every primitive point of a finite set*
 
-> An ordered pair $(x, y)$ of integers is a * prime point* if the maximum common divisor of $x$ and $y$ is $1$. Given a finite set $S$ of primitive points, prove that there exists a positive integer $n$ and an integer $a_0, a_1, \ldots, a_n$ such that for each $(x, y) \in S$: $$a_0 x^n + a_1 x^{n-1} y + a_2 x^{n-2} y^2 + \cdots + a_{n-1} x y^{n-1} + a_n y^n = 1.$$
+> An ordered pair $(x, y)$ of integers is a *primitive point* if the greatest common divisor of $x$ and $y$ is $1$. Given a finite set $S$ of primitive points, prove that there exist a positive integer $n$ and integers $a_0, a_1, \ldots, a_n$ such that, for every $(x, y) \in S$,
+> $$a_0 x^n + a_1 x^{n-1} y + a_2 x^{n-2} y^2 + \cdots + a_{n-1} x y^{n-1} + a_n y^n = 1.$$
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_2017#q06|src_imo_2017__Q06]]

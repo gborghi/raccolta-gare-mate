@@ -29,9 +29,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area rettangolare più piccola con due quadrati che sommano il 2017*
+*Area del rettangolo più piccolo in grado di contenere due quadrati la cui somma è 2017*
 
-> Determinare il più piccolo intero positivo $A$ in modo tale che, dati due quadrati le cui aree sommano a $2017$, sia sempre possibile inserire questi due quadrati, senza sovrapposizione, all'interno di un rettangolo di superficie $A$, con i lati dei quadrati paralleli ai lati del rettangolo.
+> Determinare il più piccolo intero positivo $A$ tale che, dati due quadrati la cui area totale è $2017$, sia sempre possibile disporre questi due quadrati, senza sovrapposizioni, all'interno di un rettangolo di area $A$, con i lati dei quadrati paralleli ai lati del rettangolo.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2017_n1_f1#q01|src_obm_2017_n1_f1__Q01]]
 
 
 
@@ -58,13 +65,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Limiti di una sequenza definita da somme parziali*
+*Limiti di una successione definita tramite somme parziali*
 
-> Considera la sequenza $a_n = \sum_{k=1}^{n} \frac{k}{n^2}$ per $n \geq 1$.
-> 
-> a) Determinare $\lim_{n \to \infty} a_n$.
-> 
-> b) Determinare $\lim_{n \to \infty} \left(\frac{2^n(2 - a_n)}{n+1}\right)^{n+1}$.
+> Si consideri la successione $a_n = \sum_{k=1}^{n} \frac{k}{n^2}$ per $n \geq 1$.
+>
+> a) Determina $\lim_{n \to \infty} a_n$.
+>
+> b) Determina $\lim_{n \to \infty} \left(\frac{2^n(2 - a_n)}{n+1}\right)^{n+1}$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2017_n1_f1#q02|src_obm_2017_n1_f1__Q02]]
 
 
 
@@ -93,15 +107,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Semi-diametri dell'ellisse ad angolo retto: invariante e involucro*
+*Semidiametri dell'ellisse a angolo retto: invariante ed inviluppo*
 
-> Considera l'ellisse con l'equazione $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$. Un semidiametro dell'ellisse è un segmento $OM$, dove $O = (0,0)$ è il centro dell'ellisse. Un angolo retto formato da due semidiametri $OM$ e $ON$ dell'ellisse ruota intorno al punto $O$.
-> 
-> a) Indicare che $\dfrac{1}{|\overrightarrow{OM}|^2} + \dfrac{1}{|\overrightarrow{ON}|^2}$ è costante.
-> 
-> b) Trova l'envelope della famiglia di accordi $MN$.
-> 
-> **Obs.:** L'envelope di una famiglia di curve è una curva chiusa che è tangente a ogni curva della famiglia.
+> Si consideri l'ellisse di equazione $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$. Un semidiametro dell'ellisse è un segmento $OM$, dove $O = (0,0)$ è il centro dell'ellisse. Un angolo retto formato da due semidiametri $OM$ e $ON$ dell'ellisse ruota attorno al punto $O$.
+>
+> a) Dimostrare che $\dfrac{1}{|\overrightarrow{OM}|^2} + \dfrac{1}{|\overrightarrow{ON}|^2}$ è costante.
+>
+> b) Determina l'involucro della famiglia di corde $MN$.
+>
+> **Oss.:** L'involucro di una famiglia di curve è una curva chiusa tangente a ogni curva della famiglia.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2017_n1_f1#q03|src_obm_2017_n1_f1__Q03]]
 
 
 
@@ -128,9 +149,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Espansione asimptotica di una serie che coinvolge quadrati inversi*
+*Sviluppo asintotico di una serie che coinvolge i quadrati inversi*
 
-> Definire $f : (0, \infty) \to \mathbb{R}$ con $$f(x) = \sum_{k \geq 0} \frac{1}{(x+k)^2} = \frac{1}{x^2} + \frac{1}{(x+1)^2} + \frac{1}{(x+2)^2} + \cdots$$ Trovare costanti $a \neq 0$, $b$, $c$ tali da $$f(x) = x^{-2}\bigl(a + b x^{-1} + r(x)\bigr),$$ con $\lim_{x \to \infty} x \cdot r(x) = 0$.
+> Definisci $f : (0, \infty) \to \mathbb{R}$ mediante
+> $$f(x) = \sum_{k \geq 0} \frac{1}{(x+k)^2} = \frac{1}{x^2} + \frac{1}{(x+1)^2} + \frac{1}{(x+2)^2} + \cdots$$
+> Trovare le costanti $a \neq 0$, $b$, $c$ tali che
+> $$f(x) = x^{-2}\bigl(a + b x^{-1} + r(x)\bigr),$$
+> con $\lim_{x \to \infty} x \cdot r(x) = 0$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2017_n1_f1#q04|src_obm_2017_n1_f1__Q04]]
 
 
 
@@ -153,9 +185,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum n che garantisce tre enti da [-2017,2017] somma a zero*
+*Minimo n tale che la somma di tre interi appartenenti all'intervallo [-2017,2017] sia zero*
 
-> Determinare il numero intero più piccolo $n$ in modo tale che per qualsiasi scelta di numeri interi $m$ da $[-2017, 2017]$, tre di essi siano sempre sommati a zero.
+> Determinare il più piccolo intero $n$ tale che, per qualsiasi scelta di $m$ interi tratti da $[-2017, 2017]$, tre di essi sommino sempre a zero.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2017_n1_f1#q05|src_obm_2017_n1_f1__Q05]]
 
 
 
@@ -180,6 +219,15 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinatore della matrice di monomi di tipo Wronskian*
+*Determinante della matrice di tipo Wronskian dei monomi*
 
-> Lasciate che $k_1, k_2, \ldots, k_n$ siano integri non negativi. Provare che esistono costanti $C$ e $r$ tali da $\det(M) = C t^r$. Trovare formule semplici per $C$ e $r$.
+> Siano $k_1, k_2, \ldots, k_n$ interi non negativi. Sia $M$ la matrice $n \times n$ con entrate
+> $$M_{i1} = t^{k_i}, \qquad M_{i,j+1} = \frac{d}{dt} M_{ij}.$$
+> Dimostrare che esistono costanti $C$ e $r$ tali che $\det(M) = C t^r$. Trovare formule semplici per $C$ e $r$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2017_n1_f1#q06|src_obm_2017_n1_f1__Q06]]

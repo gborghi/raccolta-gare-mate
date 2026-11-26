@@ -33,13 +33,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trapeziosi formati da punti medi e vertici di un triangolo; rapporti di superficie*
+*Trapezi formati dai punti medi e dai vertici di un triangolo; rapporti delle aree*
 
-> I punti $X$, $Y$, $Z$ sono rispettivamente i punti medi dei lati $AB$, $BC$ e $AC$ del triangolo $ABC$. I punti $A'$, $B'$, $C'$ sono sui lati $XZ$, $XY$ e $YZ$ del triangolo $XYZ$, rispettivamente, in modo tale che $\frac{AB}{A'B'} = \frac{AC}{A'C'} = \frac{BC}{B'C'} = 2$. I quadrilaterali $ABB'A'$, $BCC'B'$ e $ACC'A'$ sono trapezzi nei quali i lati del triangolo $ABC$ sono le basi.
-> 
-> a) Determinare il rapporto tra l'area del trapezzo $ABB'A'$ e l'area del triangolo $A'B'X$.
-> 
-> b) Determinare il rapporto tra la superficie del triangolo $XYZ$ e la superficie del triangolo $ABC$.
+> I punti $X$, $Y$, $Z$ sono rispettivamente i punti medi dei lati $AB$, $BC$ e $AC$ del triangolo $ABC$. I punti $A'$, $B'$, $C'$ giacciono rispettivamente sui lati $XZ$, $XY$ e $YZ$ del triangolo $XYZ$, in modo tale che $\frac{AB}{A'B'} = \frac{AC}{A'C'} = \frac{BC}{B'C'} = 2$. I quadrilateri $ABB'A'$, $BCC'B'$ e $ACC'A'$ sono trapezi in cui i lati del triangolo $ABC$ costituiscono le basi.
+>
+> a) Determina il rapporto tra l'area del trapezio $ABB'A'$ e l'area del triangolo $A'B'X$.
+>
+> b) Determina il rapporto tra l'area del triangolo $XYZ$ e l'area del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2017_n2_f3#q01|src_obm_2017_n2_f3__Q01]]
 
 
 
@@ -67,13 +74,21 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione reale in x,y,z; prova C=-1 e trova la soluzione*
+*Equazione reale in x,y,z; dimostrare che C=-1 e trovare la soluzione*
 
-> Sappiamo che $C$ è un numero reale e $x$, $y$, $z$ sono diversi numeri reali non zero che soddisfano: $$x + \frac{y}{z} = y + \frac{z}{x} = z + \frac{x}{y} = C.$$
-> 
-> a) Indicare che $C = -1$.
-> 
+> Sappiamo che $C$ è un numero reale e che $x$, $y$, $z$ sono numeri reali distinti e non nulli che soddisfano:
+> $$x + \frac{y}{z} = y + \frac{z}{x} = z + \frac{x}{y} = C.$$
+>
+> a) Dimostrare che $C = -1$.
+>
 > b) Trova almeno una soluzione $(x, y, z)$ per l'equazione data.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2017_n2_f3#q02|src_obm_2017_n2_f3__Q02]]
 
 
 
@@ -96,9 +111,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n×n tabella con celle bianche e nere; ogni riga e colonna contengono un numero diverso*
+*Tabella n×n con celle nere/bianche; ciascuna riga e ciascuna colonna contengono numeri diversi*
 
-> $n > 1$ sia un numero intero positivo. Si consideri una tabella $n \times n$ in cui alcune delle celle $n^2$ sono dipinte in nero e le altre in bianco. Prove che è possibile scegliere le celle $(n-1)^2$ dalla tabella in modo tale che, dopo aver rimosso la riga e la colonna contenenti ciascuna cellula scelta, il numero di celle nere e celle bianche rimanenti sia diverso.
+> Sia $n > 1$ un numero intero positivo. Si consideri una tabella $n \times n$ in cui alcune delle $n^2$ celle sono dipinte di nero e le restanti sono dipinte di bianco. Dimostrare che è possibile scegliere $(n-1)^2$ celle dalla tabella in modo che, dopo aver rimosso la riga e la colonna che contengono ciascuna cella scelta, il numero di celle nere e il numero di celle bianche rimanenti siano diversi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2017_n2_f3#q03|src_obm_2017_n2_f3__Q03]]
 
 
 
@@ -128,15 +150,23 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sistema di numeri Imps (solo cifre rare); conteggio e moltiplicazione in lingua Imp*
+*Sistema numerico degli Imp (solo cifre dispari); conteggio e moltiplicazione nella lingua degli Imp*
 
-> Nel Paese degli Impi, solo cifre rare vengono usate per scrivere numeri. Quindi, invece dei numeri $0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$, gli Imps usano i numeri corrispondenti $1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 31, 33, 35, \ldots$ (nota che i numeri Imp usano solo i numeri odd $1, 3, 5, 7, 9$). Ad esempio, se un bambino ha $11$ anni, gli Imps direbbero che ha $31$ anni.
-> 
-> a) Come scrivono gli Imps il numero $207$?
-> 
-> b) In una scuola, un insegnante scrisse sulla lavagna la tabella di moltiplicazione qui sotto. Se tu fossi uno studente di Imp, cosa scriveresti come risultato? $$13 \times 5$$
-> 
-> c) Scrivere, nella lingua Imp, il numero la cui rappresentazione decimale standard è $2017$.
+> Nella Terra degli Imp, per scrivere i numeri si usano solo le cifre dispari. Quindi, invece delle cifre $0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, \ldots$, gli Imp usano i numeri corrispondenti $1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 31, 33, 35, \ldots$ (si noti che i numeri degli Imp utilizzano solo le cifre dispari $1, 3, 5, 7, 9$). Per esempio, se un bambino ha $11$ anni, gli Imp direbbero che ha $31$ anni.
+>
+> a) Come scrivono i Diavoletti il numero $207$?
+>
+> b) In una scuola, un insegnante ha scritto sulla lavagna la tabellina qui sotto. Se fossi uno studente Imp, cosa scriveresti come risultato?
+> $$13 \times 5$$
+>
+> c) Scrivi, nella lingua Imp, il numero la cui rappresentazione decimale standard è $2017$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2017_n2_f3#q04|src_obm_2017_n2_f3__Q04]]
 
 
 
@@ -165,15 +195,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*intersezioni di centro e di circoncircolo; collinearità e conciclicità*
+*Intersezioni tra incentro e circonferenza circoscritta; collinearità e conciclicità*
 
-> Nel triangolo $ABC$ con $AB \neq AC$, il suo incentro deve essere $I$. I punti $P$ e $Q$ sono definiti come i punti in cui il circoncircolo del triangolo $BCI$ incrocia di nuovo rispettivamente le linee $AB$ e $AC$. Il $D$ deve essere l'intersezione delle linee $AI$ e $BC$.
-> 
-> a) dimostrare che $P$, $Q$ e $D$ sono collineari.
-> 
-> b) Che $T$ sia il punto di intersezione dei circoncircoli dei triangoli $PDB$ e $QDC$; dimostri che $T$ si trova sul circoncircolo del triangolo $ABC$.
-> 
-> *Osservazione: L'incentro di un triangolo è l'intersezione dei suoi bisettici di angolo interno, e il circoncircolo è il cerchio che attraversa tutti e tre i vertici.*
+> Nel triangolo $ABC$ con $AB \neq AC$, sia $I$ il suo incentro. I punti $P$ e $Q$ sono definiti come i punti in cui la circonferenza circoscritta al triangolo $BCI$ interseca nuovamente le rette $AB$ e $AC$, rispettivamente. Sia $D$ l'intersezione delle rette $AI$ e $BC$.
+>
+> a) Dimostrare che $P$, $Q$ e $D$ sono allineati.
+>
+> b) Sia $T$ il punto di intersezione delle circonferenze circoscritte ai triangoli $PDB$ e $QDC$; dimostrare che $T$ giace sulla circonferenza circoscritta al triangolo $ABC$.
+>
+> *Osservazione: Il centroide di un triangolo è l'intersezione delle sue bisettrici interne, e la circonferenza circoscritta è la circonferenza che passa per tutti e tre i vertici.*
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2017_n2_f3#q05|src_obm_2017_n2_f3__Q05]]
 
 
 
@@ -196,6 +233,13 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Per tutti gli integri positivi n, a^n + 2017b^n ha fattori primi più distinti di n*
+*Per tutti gli interi positivi n, a^n + 2017b^n ha più fattori primi distinti di n*
 
-> Prova che per ogni intero positivo $n$ esistono interi positivi $a$ e $b$, con $\gcd(a, b) = 1$, in modo tale che $a^n + 2017b^n$ abbia più di $n$ fattori primi distinti.
+> Dimostrare che per ogni numero intero positivo $n$ esistono numeri interi positivi $a$ e $b$, con $\gcd(a, b) = 1$, tali che $a^n + 2017b^n$ abbia più di $n$ fattori primi distinti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2017_n2_f3#q06|src_obm_2017_n2_f3__Q06]]

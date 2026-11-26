@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi, tangente comune; dimostrare che MQ bisecta angolo PMR*
+*Due cerchi, tangente comune; dimostrare che MQ biseca l'angolo PMR*
 
-> Due cerchi incrociati $C_1$ e $C_2$ hanno una tangente comune che tocca $C_1$ a $P$ e $C_2$ a $Q$. I due cerchi si incrociano a $M$ e $N$, dove $N$ è più vicino a $PQ$ rispetto a $M$. La linea $PN$ incontra nuovamente il cerchio $C_2$ a $R$. Provare che $MQ$ divide l'angolo $PMR$.
+> Due circonferenze incidenti $C_1$ e $C_2$ hanno una tangente comune che tocca $C_1$ in $P$ e $C_2$ in $Q$. Le due circonferenze si intersecano in $M$ e $N$, dove $N$ è più vicina a $PQ$ di quanto lo sia $M$. La retta $PN$ incontra nuovamente la circonferenza $C_2$ in $R$. Dimostrare che $MQ$ biseca l'angolo $PMR$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_1999-00_round1#q01|src_bmo_1999-00_round1__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che una certa espressione in n è divisibile per 2000*
+*Dimostrare che una certa espressione in n è divisibile per 2000*
 
-> Mostra che per ogni intero positivo $n$, $$121^n - 25^n + 1900^n - (-4)^n$$ è divisibile per 2000.
+> Dimostrare che, per ogni numero intero positivo $n$,
+> $$121^n - 25^n + 1900^n - (-4)^n$$
+> è divisibile per 2000.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_1999-00_round1#q02|src_bmo_1999-00_round1__Q02]]
 
 
 
@@ -83,9 +99,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto di ritrovamento sul perimetro del triangolo riducendo al minimo la somma delle distanze verso i vertici*
+*Trovare un punto sul perimetro del triangolo che minimizzi la somma delle distanze dai vertici*
 
-> Il triangolo $ABC$ ha angoli $60^\circ$, $75^\circ$, $45^\circ$ rispettivamente a $A$, $B$ e $C$. Un punto $P$ sul perimetro del triangolo è tale da ridurre al minimo $$AP + BP + CP$$. Trova la posizione di $P$.
+> Il triangolo $ABC$ ha angoli $60^\circ$, $75^\circ$, $45^\circ$ in $A$, $B$, $C$ rispettivamente. Un punto $P$ sul perimetro del triangolo è tale che
+> $$AP + BP + CP$$
+> viene minimizzato. Determinare la posizione di $P$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_1999-00_round1#q03|src_bmo_1999-00_round1__Q03]]
 
 
 
@@ -110,9 +135,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza simile a Collatz; trovare tutti i k per i quali appare 2000*
+*Sequenza simile a quella di Collatz; trova tutti i k per cui compare 2000*
 
-> Per ogni numero intero positivo $n$ definire $a_n$ come segue: $a_1 = k$, e per $n \geq 1$ $$a_{n+1} = \begin{cases} \dfrac{a_n}{2} & \text{if } a_n \text{ is even,} \\ 3a_n + 1 & \text{if } a_n \text{ is odd.} \end{cases}$$ determinare tutti i valori di $k$ per i quali 2000 è un termine della sequenza $(a_n)_{n \geq 1}$.
+> Per ogni numero intero positivo $n$, si definisca $a_n$ nel modo seguente: $a_1 = k$, e per $n \geq 1$,
+> $$a_{n+1} = \begin{cases} \dfrac{a_n}{2} & \text{if } a_n \text{ is even,} \\ 3a_n + 1 & \text{if } a_n \text{ is odd.} \end{cases}$$
+> Determinare tutti i valori di $k$ per i quali 2000 è un termine della successione $(a_n)_{n \geq 1}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_1999-00_round1#q04|src_bmo_1999-00_round1__Q04]]
 
 
 
@@ -137,8 +171,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi di squadre per otto persone in quattro squadre ineguaglie*
+*Conta le formazioni delle squadre per otto persone suddivise in quattro squadre disuguali*
 
-> Le sette nane decidono di formare quattro squadre per competere nel Millennium Quiz. Naturalmente, le dimensioni delle squadre non saranno uguali. Ad esempio, una squadra di Dopey da sola, una di Sleepy, Happy e Grumpy, e una di Bashful e Sneezy, e una di Doc (l'ordine delle squadre non importa, ma ogni nano deve essere esattamente in una squadra).
-> 
-> Supponiamo che anche Biancaneve abbia accettato di partecipare. In quanti modi potevano allora essere formate le quattro squadre?
+> I sette nani decidono di formare quattro squadre per gareggiare nel Quiz del Millennio. Naturalmente, le dimensioni delle squadre saranno disuguali. Per esempio, una squadra composta da Dotto da solo, una composta da Sonnacchioso, Allegro e Scontroso, una composta da Timido e Starnutone, e una composta da Dottore (l'ordine delle squadre non conta, ma ogni nano deve far parte di esattamente una squadra).
+>
+> Supponiamo che anche Biancaneve abbia accettato di partecipare. In quanti modi si potrebbero allora formare le quattro squadre?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_1999-00_round1#q05|src_bmo_1999-00_round1__Q05]]

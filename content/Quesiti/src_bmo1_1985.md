@@ -33,13 +33,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi che toccano una linea in un punto, rapporto di angolo bisector*
+*Due cerchi che toccano una retta nello stesso punto, rapporto di bisettrice di angolo*
 
-> Due cerchi $S_1$ e $S_2$ toccano ognuno una linea retta $p$ nello stesso punto $P$. Tutti i punti di $S_2$, tranne $P$, sono all'interno di $S_1$. Una linea retta $q$ (i) è perpendicolare a $p$; (ii) tocca $S_2$ a $R$; (iii) taglia $p$ a $L$; e (iv) taglia $S_1$ a $N$ e $M$, dove $N$ è tra $L$ e $M$.
+> Due cerchi $S_1$ e $S_2$ toccano ciascuno una retta $p$ nello stesso punto $P$. Tutti i punti di $S_2$, tranne $P$, sono nell'interno di $S_1$. Una retta $q$ (i) è perpendicolare a $p$; (ii) tocca $S_2$ in $R$; (iii) incontra $p$ in $L$; e (iv) incontra $S_1$ in $N$ e $M$, dove $N$ è tra $L$ e $M$.
 > 
-> a) Provare che $q$ divide l'angolo $RPM$.
+> (a) Dimostrare che $q$ biseca l'angolo $RPM$.
 > 
-> b) Se $MP$ divide l'angolo $RPL$, trovare, con la prova, il rapporto tra le superfici di $S_1$ e $S_2$.
+> (b) Se $MP$ biseca l'angolo $RPL$, trovare, con dimostrazione, il rapporto delle aree di $S_1$ e $S_2$.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1985#q01|src_bmo1_1985__Q01]]
 
 
 
@@ -62,9 +68,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che non tutte le a(1-b), b(1-c), c(1-a) superano il 1/4*
+*Dimostrare che non tutte le quantità $a(1-b)$, $b(1-c)$, $c(1-a)$ possono superare $\frac{1}{4}$.*
 
-> $a, b, c$ sono ciascun numero tra 0 e 1. Provare che non tutti $a(1-b)$, $b(1-c)$, $c(1-a)$ possono essere superiori a $\frac{1}{4}$.
+> $a, b, c$ sono ciascuno numeri compresi tra 0 e 1. Dimostrare che non tutte le quantità $a(1-b)$, $b(1-c)$, $c(1-a)$ possono essere maggiori di $\frac{1}{4}$.
+
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1985#q02|src_bmo1_1985__Q02]]
 
 
 
@@ -89,9 +101,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove l'identità che coinvolge il prodotto dei coefficienti binomiali*
+*Dimostrare un'identità che coinvolge un prodotto di coefficienti binomiali*
 
-> $n$ e $m$ sono integri non negativi. Prove che $$2 \binom{n+1}{1} + 3 \binom{n+2}{2} + \cdots + (r+1)\binom{n+r}{r} + \cdots + (m+1)\binom{n+m}{m} = \binom{n+m+2}{m},$$ dove $\binom{p}{r}$ è il coefficiente binomio $p(p-1)(p-2)\cdots(p-r+1)/r!$.
+> $n$ e $m$ sono interi non negativi. Dimostrare che
+> $$2 \binom{n+1}{1} + 3 \binom{n+2}{2} + \cdots + (r+1)\binom{n+r}{r} + \cdots + (m+1)\binom{n+m}{m} = \binom{n+m+2}{m},$$
+> dove $\binom{p}{r}$ è il coefficiente binomiale $p(p-1)(p-2)\cdots(p-r+1)/r!$.
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_bmo1_1985#q03|src_bmo1_1985__Q03]]
 
 
 
@@ -116,9 +136,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza definita da recidiva; prova la periodicità eventuale*
+*Sequenza definita da ricorrenza; dimostrare la periodicità ultima*
 
-> La sequenza $f_n$ è definita da $f_0 = 1$, $f_1 = a$, dove $a$ è un numero intero positivo, e per tutti $n > 1$, $$f_n = 2f_{n-1} - f_{n-2} + 2.$$ dimostra che per ogni $k \geq 0$ esiste $h$ tale che $f_h f_{h+1} = f_k$.
+> La successione $f_n$ è definita da $f_0 = 1$, $f_1 = a$, dove $a$ è un intero positivo, e per ogni $n > 1$,
+> $$f_n = 2f_{n-1} - f_{n-2} + 2.$$
+> Dimostrare che per ogni $k \geq 0$ esiste $h$ tale che $f_h f_{h+1} = f_k$.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_bmo1_1985#q04|src_bmo1_1985__Q04]]
 
 
 
@@ -141,9 +169,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contenitore cilindrico su cerchio circolare; locus dei centri del bordo circolare*
+*Contenitore cilindrico su un cerchio fisso; luogo dei centri dei bordi circolari*
 
-> Un contenitore cilindrico ha un'altezza di 6 cm e un raggio di 4 cm e il cerchio è fissato in un piano orizzontale. Il contenitore si posa con il suo asse orizzontale e con ciascuna delle sue periferie circolari che toccano il cerchio in due punti. Il cilindro è ora spostato in modo che ciascuna delle sue periferie circolari tocchi ancora il cerchio a due punti. Trovare, con prova, il luogo del centro di una delle estremità circolari del cilindro.
+> Un contenitore cilindrico ha altezza 6 cm e raggio 4 cm, e l'anello è fissato in un piano orizzontale. Il contenitore poggia con l'asse orizzontale e con ciascuno dei suoi bordi circolari che tocca l'anello in due punti. Il cilindro viene ora spostato in modo che ciascuno dei suoi bordi circolari tocchi ancora l'anello in due punti. Trovare, con dimostrazione, il luogo del centro di una delle estremità circolari del cilindro.
+
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_bmo1_1985#q05|src_bmo1_1985__Q05]]
 
 
 
@@ -166,6 +200,12 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-L'equazione x^2 + y^2 = z^2 + 2 ha infinite soluzioni
+*Equazione x^2 + y^2 = z^2 + 2 con infinite soluzioni*
 
-> Mostrare che l'equazione $x^2 + y^2 = z^2 + 2$ ha infinite soluzioni in numeri interi positivi $x, y, z$ in cui nessuno dei due $x, y, z$ ha un fattore comune maggiore di 1.
+> Dimostrare che l'equazione $x^2 + y^2 = z^2 + 2$ ammette infinite soluzioni in interi positivi $x, y, z$ tali che nessun due tra $x, y, z$ abbia un fattore comune maggiore di 1.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_bmo1_1985#q06|src_bmo1_1985__Q06]]

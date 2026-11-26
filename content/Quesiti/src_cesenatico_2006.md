@@ -29,11 +29,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rose paper value*
+*Value of Rosa's card*
 
-> Rosa and Savino play the following game with the Neapolitan cards (40 cards numbered 1 to 10 of 4 different seeds): initially they divide the 40 cards (20 for each), then in turn they place a card on the table. When some of the cards on the table have values whose sum is exactly 15, these cards are deleted from the game (if there are more than one way to get a sum of 15, the player who supported the last card decides which cards have a sum of values equal to 15 to eliminate). At the end of the game, two cards remained in Savino's hand (one 5 and one 3), one card on the table (one 9) and one card in Rosa's hand. What's the value of the Rose card?
+> Rosa and Savino play the following game with Neapolitan cards (40 cards numbered from 1 to 10 in 4 different suits): initially, the 40 cards are divided (20 each), and then, in turn, they place one card on the table. When some of the cards on the table have values whose sum is exactly 15, these cards are removed from the game (if there are multiple ways to get a sum of 15, the player who placed the last card decides which cards with a total value of 15 are to be removed). At the end of the game, Savino has 2 cards in hand (a 5 and a 3), there is one card on the table (a 9), and Rosa has one card in hand. What is the value of Rosa's card?
 
-**Answer:** 34
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006#q01|src_cesenatico_2006__Q01]]
 
 
 
@@ -55,11 +59,14 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Determine values of (a,b,c) with c=ab and ab=a^2 and relationships*
+*Determine values of (a,b,c) with c=ab and ab=a^2 and relations*
 
-> Determine all values of $m$, $n$ such as $p^n + 144 = m^2$, where $m$ and $n$ are positive integers and $p$ is a prime number.
+> Determine all values of $m$, $n$ such that $p^n + 144 = m^2$, where $m$ and $n$ are positive integers and $p$ is a prime number.
 
-**Answer:** (20,2,40),(4,3,12),(12,1,12)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006#q02|src_cesenatico_2006__Q02]]
 
 
 
@@ -84,13 +91,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Circle and two points A,B; locus of points C*
+*Circle and two points A, B; locus of points C*
 
 ![[src_cesenatico_2006__prob3.png]]
 
-> either $\Gamma$ a circumference and $A$ and $B$ two distinct points of $\Gamma$ not diametrically opposite. Either $P$ is a variable point in $\Gamma$ other than $A$ and $B$ and $H$ is the orthocenter of the $ABP$ triangle. Determine the location described by $H$ to the variable of $P$.
+> Let $\Gamma$ be a circle, and let $A$ and $B$ be two distinct points on $\Gamma$ that are not diametrically opposite. Let $P$ be a variable point in $\Gamma$, different from $A$ and $B$, and let $H$ be the orthocenter of the triangle $ABP$. Determine the locus described by $H$ as $P$ varies.
 
-**Answer:** proved (property of the centroid)
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2006#q03|src_cesenatico_2006__Q03]]
 
 
 
@@ -119,17 +130,21 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Infinite chessboard and positive integers written in spirals*
+*Infinite chessboard and positive integers written in a spiral*
 
-> On an infinite chessboard the positive integers are written in a spiral order: one starts from 1 and proceeds by widening by rotating in an anti-clockwise direction, as in the figure.
-> 
-> We call the "right half" of the chessboard the set of boxes made up of a $C$ box and all the boxes that are in the line of $C$ and to the right of $C$. (see figure)
-> 
-> (a) Demonstrate that there is a right half whose boxes do not contain multiples of 3.
-> 
-> (b) Determine whether there are 2 to 2 disjoint semicircles whose boxes do not contain multiples of 3.
+> On an infinite chessboard, the positive integers are written in order along a spiral: one starts at 1 and proceeds outward in a counterclockwise direction, as shown in the figure.
+>
+> Let the "right ray" of the chessboard be the set of squares consisting of one square $C$ and all squares that lie in the row of $C$ and to the right of $C$. (see figure)
+>
+> (a) Prove that there exists a right ray whose squares do not contain multiples of 3.
+>
+> (b) Determine whether there exist pairwise disjoint right rays whose squares do not contain multiples of 3.
 
-**Answer:** proved
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006#q04|src_cesenatico_2006__Q04]]
 
 
 
@@ -159,13 +174,18 @@ level: nazionale
 
 *for which n true*
 
-> Consider the inequality $$\left(x_1 + x_2 + \cdots + x_n\right)^2 \geq 4(x_1 x_2 + x_2 x_3 + \cdots + x_n x_1).$$
-> 
-> (a) Determine for which $n \geq 3$ is true for each possible choice of positive real numbers $x_1, x_2, \ldots, x_n$.
-> 
-> (b) Determine for which $n \geq 3$ is true for each possible choice of real numbers $x_1, x_2, \ldots, x_n$.
+> Consider the inequality
+> $$\left(x_1 + x_2 + \cdots + x_n\right)^2 \geq 4(x_1 x_2 + x_2 x_3 + \cdots + x_n x_1).$$
+>
+> (a) Determine for which $n \geq 3$ it holds for every possible choice of positive real numbers $x_1, x_2, \ldots, x_n$.
+>
+> (b) Determine for which $n \geq 3$ it holds for every possible choice of real numbers $x_1, x_2, \ldots, x_n$.
 
-**Answer:** (a) true for n>=4; (b) false for small n
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_cesenatico_2006#q05|src_cesenatico_2006__Q05]]
 
 
 
@@ -195,14 +215,19 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-Game by Alberto and Barbara with tokens and winning strategy
+*A game by Alberto and Barbara using tokens and a winning strategy*
 
-> Consider the following game: initially on a table there are some stacks of chips (the number of chips can vary from stack to stack). In turn, starting from Alberto, one of the two players makes one and only one of the following moves:
-> 
-> - or divide a stack into two smaller stacks, each of at least one token (without adding or removing tokens from the table).
-> 
-> Whoever takes the last token off the table wins. Determine, depending on the number of stacks on the table at the beginning and how many chips they contain, which of the two players has a winning strategy.
-> 
-> It is $C_0, C_1, C_2, \ldots$ the battery combinations present at the beginning of the game, after the first move, after the second move, and so on. For each $C_i$ combination, $s_i$ shall be the number of batteries with a token number $a_1, a_2, \ldots, a_k$ greater than 1 and $e_i$ the number of batteries with a single token. It is either $m_i = (a_1 - 1) + \cdots + (a_k - 1)$. Demonstrate that Barbara has a winning strategy if $m_0$ and $s_0$ are both equal and that Alberto has a winning strategy in all other cases. The winning strategy is to leave the opponent with a combination $C_i$ at each move such that $m_i$ and $s_i$ are both equal.
+> Consider the following game: initially, there are several piles of tokens on a table (the number of tokens can vary from pile to pile). Taking turns, starting with Alberto, one of the two players makes exactly one of the following moves:
+>
+> - or removes one token from a pile of their choice and removes that token from the game;
+> - or splits one pile into two smaller piles, each containing at least one token (without adding or removing tokens from the table).
+>
+> The player who removes the last token from the table wins. Determine, depending on the number of piles on the table at the start and on how many tokens each pile contains, which of the two players has a winning strategy.
+>
+> Let $C_0, C_1, C_2, \ldots$ be the configurations of piles present at the start of the game, after the first move, after the second move, and so on. For each configuration $C_i$, let $s_i$ be the number of piles that have a number of tokens $a_1, a_2, \ldots, a_k$ greater than 1, and let $e_i$ be the number of piles with exactly one token. Let then $m_i = (a_1 - 1) + \cdots + (a_k - 1)$. Prove that Barbara has a winning strategy if $m_0$ and $s_0$ are both even, and that Alberto has a winning strategy in all other cases. The winning strategy is to leave the opponent, on each move, with a configuration $C_i$ such that $m_i$ and $s_i$ are both even.
 
-**Answer:** winning strategy proved
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006#q06|src_cesenatico_2006__Q06]]

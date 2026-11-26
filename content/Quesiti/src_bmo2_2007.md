@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo a lato intero con AC=2007 e condizione di angoli uguali*
+*Lati interi, $AC = 2007$ e $\angle BAC = \angle ACD$: determinare $AB$ e $BC$*
 
-> Il triangolo $ABC$ ha lati a lunghezza interi e $AC = 2007$. Dato che $\angle BAC = \angle ACD$, determinare $AB$ e $BC$.
+> Il triangolo $ABC$ ha lati di lunghezza intera, e $AC = 2007$. Sapendo che $\angle BAC = \angle ACD$, determinare $AB$ e $BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2007#q01|src_bmo2_2007__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Infinitamente molte coppie di numeri interi positivi che rendono una somma di frazioni un numero intero*
+*Infinite coppie di interi positivi $(m, n)$ per cui quella somma è un intero*
 
-> Mostrare che ci sono infinite coppie di integri positivi $(m, n)$ in modo tale che $$\frac{m+1}{n} + \frac{n+1}{m}$$ è un intero positivo.
+> Dimostrare che esistono infinite coppie di interi positivi $(m, n)$ tali che
+> $$\frac{m+1}{n} + \frac{n+1}{m}$$
+> sia un intero positivo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2007#q02|src_bmo2_2007__Q02]]
 
 
 
@@ -83,11 +99,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove l'ortocentro equidistante dal circoncentro e dal piede d'altitudine in triangolo a pari scala*
+*Dimostrare che $PO = PH$*
 
-> Il $ABC$ deve essere un triangolo acuto con $AB = AC$ e $\angle BAC = \alpha$. Denotare il circoncircolo di $\triangle ABC$ con $D$. $O$ sia il circoncentro e $H$ sia il piede dell'altitudine da $A$ a $BC$. Il $P$ deve essere l'ortocentro di $\triangle ABC$ (cioè l'intersezione delle perpendicolari dai vertici $A$, $B$, $C$ ai lati opposti). Prove che $PO = PH$.
-> 
-> (Nota: il circoncircolo di $\triangle ABC$ è il circolo che attraversa i vertici $A$, $B$ e $C$. L'ortocentro è il punto di intersezione delle perpendicolari dai vertici ai lati opposti.)
+> Sia $ABC$ un triangolo acutangolo con $AB = AC$ e $\angle BAC = \alpha$. Si indichi con $D$ la circonferenza circoscritta a $\triangle ABC$. Sia $O$ il circocentro e sia $H$ il piede dell'altezza da $A$ su $BC$. Sia $P$ l'ortocentro di $\triangle ABC$ (cioè l'intersezione delle perpendicolari dai vertici $A$, $B$, $C$ ai lati opposti). Dimostrare che $PO = PH$.
+>
+> (Nota: la circonferenza circoscritta a $\triangle ABC$ è la circonferenza che passa per i vertici $A$, $B$ e $C$. L'ortocentro è il punto di intersezione delle perpendicolari dai vertici ai lati opposti.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2007#q03|src_bmo2_2007__Q03]]
 
 
 
@@ -110,6 +133,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per chiudere le linee in un grafico ferroviario completo di 6 città mantenendolo connesso*
+*In quanti modi si possono chiudere alcune linee restando collegati*
 
-> Nel paese dell'Esagonia, le sei città sono collegate da una rete ferroviaria tale che esiste una linea ferroviaria diretta che collega ciascuna coppia di città. Domenica, alcune linee possono essere chiuse per la riparazione. La carta ferroviaria dei passeggeri stabilisce che ogni città deve essere accessibile in treno da qualsiasi altra città (non necessariamente direttamente) in ogni momento. In quanti modi diversi possono essere chiuse alcune linee a condizione di questa condizione?
+> Nella terra di Hexagonia le sei città sono collegate da una rete ferroviaria in modo che ci sia una linea diretta fra ogni coppia di città. La domenica alcune linee possono essere chiuse per lavori. Lo statuto dei passeggeri stabilisce che ogni città debba restare raggiungibile in treno da qualunque altra (non necessariamente in modo diretto) in ogni momento. In quanti modi diversi si possono chiudere alcune delle linee rispettando questa condizione?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2007#q04|src_bmo2_2007__Q04]]

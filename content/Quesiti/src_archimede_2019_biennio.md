@@ -36,17 +36,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many real x satisfy 0<=x<=1, 1/x<=1*
+*Number of reals satisfying the chain 0 ≤x ≤1, x ≤1*
 
-> For how many real numbers x is the chain of inequalities 0 ≤x ≤1 x ≤1?
+> For how many real numbers x does the chain of inequalities 0 ≤x ≤1
+> x ≤1 hold?
 >
-> - **(A)** infinitesimal
+> - **(A)** infinitely many
 > - **(B)** 3
-> - **(C)** No one
+> - **(C)** none
 > - **(D)** only 1
 > - **(E)** 2
 
-**Answer:** D
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2019_biennio#q01|src_archimede_2019_biennio__Q01]]
 
 
 
@@ -75,9 +79,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordering the sides from the heights of a triangle*
+*Ordering the sides from the altitudes of a triangle*
 
-> In the DEF triangle, the heights (known, respectively, from the vertices D, E and F) measure, in the order, 81, 82 and 79 meters. Indicating with d, and f, the lengths of the sides EF, FD, DE, respectively, which of these inequalities is correct?
+> In triangle DEF, the altitudes (from the vertices D, E and F respectively) measure, in order, 81, 82 and 79 metres. Denoting by d, e, f the lengths, respectively, of the sides EF, FD, DE, which of these inequalities is correct?
 >
 > - **(A)** e < d < f
 > - **(B)** d < e < f
@@ -85,7 +89,9 @@ level: biennio
 > - **(D)** e < f < d
 > - **(E)** f < e < d
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_archimede_2019_biennio#q02|src_archimede_2019_biennio__Q02]]
 
 
 
@@ -120,9 +126,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-The day Barbara has to start to win the challenge
+*Day on which Barbara must start to be sure of winning*
 
-> The Mathematics Olympics Instagram page publishes a problem every day. Alberto and Barbara challenge themselves to solve the most problems in 10 weeks, starting on a Monday. Barbara knows that Alberto tries to solve all the problems from Monday to Thursday each week (but she doesn't know if he can or not). Barbara, on the other hand, is confident of solving all problems except Sunday's. Assuming that Barbara is right and considering that she intends to start working as late as possible, what day of the week is the day she must start to be sure of her victory?
+> The Instagram page of the Mathematics Olympiad posts one problem a day. Alberto and Barbara challenge each other to solve the greatest number of problems over a period of 10 weeks, starting on a Monday. Barbara knows that Alberto tries to solve all and only the problems from Monday to Thursday of each week (but she does not know whether he succeeds). Barbara, on the other hand, is sure she can solve every problem except those on Sunday. Assuming that Barbara is right, and given that she intends to start working as late as possible, on which day of the week must she begin in order to be sure of winning?
 >
 > - **(A)** Monday
 > - **(B)** Tuesday
@@ -130,7 +136,10 @@ The day Barbara has to start to win the challenge
 > - **(D)** Thursday
 > - **(E)** Friday
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2019_biennio#q03|src_archimede_2019_biennio__Q03]]
 
 
 
@@ -162,9 +171,9 @@ The day Barbara has to start to win the challenge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of books of two different genres between 9.7.4*
+*Pairs of books of two different genres among 9, 7, 4*
 
-> Clara wants to lend two of her books to cousin Luca. He owns nine yellow books, seven travel books, four books of poetry. In how many ways can the book pair to be borrowed be chosen, considering that it must be of two different genres?
+> Clara wants to lend two of her books to her cousin Luca. She has 9 yellow books, 7 travel books, and 4 poetry books. In how many ways can the pair of books to lend be chosen, given that they must be of two different genres?
 >
 > - **(A)** 40
 > - **(B)** 121
@@ -172,7 +181,11 @@ The day Barbara has to start to win the challenge
 > - **(D)** 120
 > - **(E)** 127
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2019_biennio#q04|src_archimede_2019_biennio__Q04]]
 
 
 
@@ -205,9 +218,13 @@ The day Barbara has to start to win the challenge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*MON angle width perpendicular to the beam*
+*Measure of angle MON with a line perpendicular to the bisector*
 
-> In an LMN triangle the angles of vertices L and N have angles 42° and 80° respectively. Either r is the straight line passing through M that is perpendicular to the vertices of the angle \ LMN and either O is the point of intersection between r and the straight LN. What is the width of the angle \ MON?
+> In triangle LMN the angles at vertices L and N have measures, respectively,
+> 42° and 80°. Let r be the line through M that is perpendicular to the bisector of angle
+> LMN and let O be the intersection point of r and line LN.
+> What is the measure of angle
+> MON?
 >
 > - **(A)** 17°
 > - **(B)** 15°
@@ -215,7 +232,10 @@ The day Barbara has to start to win the challenge
 > - **(D)** 21°
 > - **(E)** 19°
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2019_biennio#q05|src_archimede_2019_biennio__Q05]]
 
 
 
@@ -248,9 +268,12 @@ The day Barbara has to start to win the challenge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two men's currency with two terms of exchange*
+*Coins of two men under two exchange conditions*
 
-> Two men have coins. If the first one takes 2 out of the second, then he'll have as many as the second one. But if the second takes 1 from the first, then it's going to have three times as much as the first. How many coins do the two men have in total?
+> Two men have coins.
+> If the first took 2 from the second,
+> then he would have as many as would remain to the second. If, instead, the second took 1 from the first, then he would have three times as many as would remain to the first.
+> How many coins do the two men have in total?
 >
 > - **(A)** 14
 > - **(B)** 16
@@ -258,7 +281,10 @@ The day Barbara has to start to win the challenge
 > - **(D)** 18
 > - **(E)** 13
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2019_biennio#q06|src_archimede_2019_biennio__Q06]]
 
 
 
@@ -290,9 +316,9 @@ The day Barbara has to start to win the challenge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sitting modes for 5 people with two couples adjacent*
+*Ways of seating 5 people with two adjacent pairs*
 
-> Romeo, Juliet, Elena, Paris, Ulysses are sitting on a bench. Juliet wants to be next to Romeo, Elena next to Paris. How many ways can the five be arranged from left to right, to satisfy them?
+> Romeo, Giulietta, Elena, Paride, Ulisse sit on a bench. Giulietta wants to sit next to Romeo, Elena next to Paride. In how many ways can the five be arranged from left to right so as to satisfy them?
 >
 > - **(A)** 24
 > - **(B)** 20
@@ -300,7 +326,11 @@ The day Barbara has to start to win the challenge
 > - **(D)** 16
 > - **(E)** 30
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2019_biennio#q07|src_archimede_2019_biennio__Q07]]
 
 
 
@@ -333,9 +363,10 @@ The day Barbara has to start to win the challenge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Price of sweater if VAT goes from 22% to 24%*
+*Selling price of the sweater if VAT rises from 22% to 24%*
 
-> The sale price of an asset is obtained by increasing the actual amount of a certain percentage, called VAT (a tax, which is then paid to the tax). In a shop, the selling price of a sweater is 61,00 and, including VAT, at 22%. If VAT went up to 24%, what would be the selling price of the sweater?
+> The selling price of a good is obtained by increasing the actual amount by a certain percentage, called VAT (a tax, which is then paid to the tax authorities).
+> In a shop, the selling price of a sweater is 61, 00 e, including VAT at 22%. If VAT were to rise to 24%, what would the selling price of the sweater become?
 >
 > - **(A)** 62, 25 e
 > - **(B)** 62, 22 e
@@ -343,7 +374,10 @@ The day Barbara has to start to win the challenge
 > - **(D)** 62, 00 e
 > - **(E)** 61, 50 e
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2019_biennio#q08|src_archimede_2019_biennio__Q08]]
 
 
 
@@ -377,9 +411,12 @@ The day Barbara has to start to win the challenge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*DAE angle width in rectangle with height at diagonal*
+*Angle DAE in a rectangle with altitude to the diagonal*
 
-> Taking an ABCD rectangle, both E and the point on the BD diagonal such that the AE line is perpendicular to BD. Knowing that the angle \ BAC is 28°, what will be the width of the angle \ DAE?
+> Given a rectangle ABCD, let E be the point on the diagonal BD such that the line AE is perpendicular to BD.
+> Knowing that the angle \
+> BAC is 28°, what will be the measure of the angle \
+> DAE?
 >
 > - **(A)** 24°
 > - **(B)** 36°
@@ -387,7 +424,10 @@ The day Barbara has to start to win the challenge
 > - **(D)** 28°
 > - **(E)** 30°
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2019_biennio#q09|src_archimede_2019_biennio__Q09]]
 
 
 
@@ -417,9 +457,10 @@ The day Barbara has to start to win the challenge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of right angles in a convex octahedron*
+*Maximum number of right angles in a convex octagon*
 
-> A convex octagon has eight interior angles. How many of them, at most, can be right?
+> A convex octagon has 8 interior angles.
+> At most how many of them can be right angles?
 >
 > - **(A)** 4
 > - **(B)** 2
@@ -427,7 +468,10 @@ The day Barbara has to start to win the challenge
 > - **(D)** 5
 > - **(E)** 1
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2019_biennio#q10|src_archimede_2019_biennio__Q10]]
 
 
 
@@ -461,9 +505,9 @@ The day Barbara has to start to win the challenge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of tiles compatible with jumps of 2,3,4,5*
+*Number of tiles compatible with jumps of 2, 3, 4, 5*
 
-> Catherine is jumping along a row of bricks. Starting from the first, with jumps of 2 bricks at a time (i.e., jumps on the 3rd, 5th, 7th, and so on), it reaches the last; it turns back and, with jumps of 3 bricks at a time, returns to the first; it turns again and, with jumps of 4 bricks, reaches the last brick again; it turns again and, with jumps of 5 bricks returns again to the first. Which of the following could be the number of bricks in the row?
+> Caterina is jumping along a row of tiles. Starting from the first, with jumps of 2 tiles at a time (that is, she jumps to the 3rd, the 5th, the 7th, and so on), she arrives at the last; she turns back and, with jumps of 3 tiles at a time, returns to the first; she turns again and, with jumps of 4 tiles, arrives again at the last tile; she turns again and, with jumps of 5 tiles, returns again to the first. Which of the following could be the number of tiles in the row?
 >
 > - **(A)** 121
 > - **(B)** 91
@@ -471,7 +515,10 @@ The day Barbara has to start to win the challenge
 > - **(D)** 60
 > - **(E)** 31
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2019_biennio#q11|src_archimede_2019_biennio__Q11]]
 
 
 
@@ -502,9 +549,11 @@ The day Barbara has to start to win the challenge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x+y by sum of two squares zero*
+*Value of x+y from the sum of two squares being zero*
 
-> The real numbers x and y verify the equality (2x −3y) 2 + (3x −1) 2 = 0. What's the value of x plus y?
+> The real numbers x and y satisfy the equality
+> (2x −3y)2 + (3x −1)2 = 0.
+> What is the value of x + y?
 >
 > - **(A)** 1/3
 > - **(B)** 5/9
@@ -512,7 +561,10 @@ The day Barbara has to start to win the challenge
 > - **(D)** 1/2
 > - **(E)** 3/4
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2019_biennio#q12|src_archimede_2019_biennio__Q12]]
 
 
 
@@ -545,9 +597,10 @@ The day Barbara has to start to win the challenge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability sum 8 with normal and special dice*
+*Probability of a sum of 8 with a normal die and a special die*
 
-> Laura has two dice. One of the two is a normal dice game, with faces numbered from 1 to 6. The other is a special dice instead, which has two faces with the number 3, one face with the number 4 and three faces with the number 6. So if you put the two dice together, what is the probability that the sum of the two numbers that come out is equal to 8?
+> Laura has two dice.
+> One of the two is a normal game die, with faces numbered from 1 to 6. The other is instead a special die, which has two faces with the number 3, one face with 4 and three faces with 6. Throwing the two dice together, what is the probability that the sum of the two numbers that come up is equal to 8?
 >
 > - **(A)** 2/9
 > - **(B)** 1/6
@@ -555,7 +608,10 @@ The day Barbara has to start to win the challenge
 > - **(D)** 1/12
 > - **(E)** 1/8
 
-**Answer:** B
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2019_biennio#q13|src_archimede_2019_biennio__Q13]]
 
 
 
@@ -584,9 +640,9 @@ The day Barbara has to start to win the challenge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Full squares of 7 between 1 and 5000*
+*Perfect squares that are multiples of 7 between 1 and 5000*
 
-> How many multiples of 7, including between 1 and 5,000, are squares of integers?
+> How many multiples of 7, between 1 and 5000, are squares of integers?
 >
 > - **(A)** 10
 > - **(B)** 26
@@ -594,7 +650,10 @@ The day Barbara has to start to win the challenge
 > - **(D)** 102
 > - **(E)** 70
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2019_biennio#q14|src_archimede_2019_biennio__Q14]]
 
 
 
@@ -634,17 +693,22 @@ The day Barbara has to start to win the challenge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of knights around table 8 with alternate phrases*
+*Number of knights among 8 people with alternating statements*
 
-> Around a table there are eight people, each of whom can be either a knight or a con man. Whenever a knight speaks, the sentence he pronounces is true; whenever a cunning man speaks, the sentence he pronounces is false. One of them pronounces the following sentence: "A knight is seated at my right and a thief at my left". His right-hand neighbour declares: "To my left is a knight seated, and to my right is a robber seated". The neighbor on the right of the latter says: "To my right is a knight seated, and to my left is a thief seated". And so on and so forth, the phrases alternate, until the eighth person, who says: "On my left sits a knight, and on my right sits a thief". It can be concluded that, among the eight people present, the total number of knights...
+> Around a table there are 8 people, each of whom is either a knight or a knave. Whenever a knight speaks, the sentence is true; whenever a knave speaks, the sentence is false. One of them says: "On my right sits a knight and on my left sits a knave". The person on their right declares: "On my left sits a knight and on my right sits a knave". The person on the right of that one states: "On my right sits a knight and on my left sits a knave". And so on, the statements alternate, until the eighth person, who states: "On my left sits a knight and on my right sits a knave".
+> It can be concluded that, among the 8 people present, the total number of knights...
 >
-> - **(A)** It could be 2 or 4, but not 0, 6 or 8.
-> - **(B)** It could be 2, 4 or 6, but not 0 or 8.
-> - **(C)** It could be 0, 2 or 4, but not 6 or 8.
-> - **(D)** It could be 0, 2, 4 or even 6, but not 8.
-> - **(E)** It could be 0 or 4, but not 2, 6 or 8.
+> - **(A)** it is possible that it is 2 or 4, but not 0, 6 or 8
+> - **(B)** it is possible that it is 2, 4 or 6, but not 0 or 8
+> - **(C)** it is possible that it is 0, 2 or 4, but not 6 or 8
+> - **(D)** it is possible that it is 0, 2, 4 or even 6, but not 8
+> - **(E)** it is possible that it is 0 or 4, but not 2, 6 or 8
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2019_biennio#q15|src_archimede_2019_biennio__Q15]]
 
 
 
@@ -681,14 +745,25 @@ The day Barbara has to start to win the challenge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of KQ in a rectangular trapezoid with equal angles*
+*Length of KQ in a right trapezoid with equal angles*
 
-> A PQRS rectangular trapezoid is assigned, with right angles in P and S, where PQ > RS and PS = RS = 31. Whether K is the point on the PS side such that PK = 14. Knowing that \ SKR = \ PQR, what will be the size of KQ?
+> A right trapezoid PQRS is given, with right angles at P and at S, where
+> PQ > RS
+> and
+> PS = RS = 31.
+> Let K be the point on side PS such that PK = 14.
+> Given that \
+> SKR = \
+> PQR, what is the length of KQ?
 >
 > - **(A)** 45
 > - **(B)** 48
 > - **(C)** 52
 > - **(D)** 49
-> - **(E)** 50 Italian Mathematical Union Olympic Mathematics Project Ministry of Education, University and Research The Archimedes Games - Race Biennio 21 November 2019 • The test consists of 16 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). Only one of these answers is correct. • Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded. • For each of the problems, type the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections are not allowed. • Completely list your month of birth, gender, class. Write the other information required in the STANDARD next to the arrows, with the utmost care and precision. The use of calculators or communication tools shall not be permitted. You have 110 minutes. - Good work. Good work. Name → COGNOM → Year of birth → Month of birth GEN FEB MAR APR MAG GIU LUG AGO SEVEN OTT NEW DAY of birth → Gender F M Class 1 2 Section → GROUP of the respondents T2 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+> - **(E)** 50
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2019_biennio#q16|src_archimede_2019_biennio__Q16]]

@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Non mostrare aumento di g,h dare f=g-h per una funzione con f(1/n)=(-1)^n.*
+*f(1/n) = (−1)^n: non esistono funzioni crescenti g, h tali che f = g − h*
 
-> Che $f : (0,1) \to \mathbb{R}$ sia una funzione tale che $f(1/n) = (-1)^n$ per tutti $n \in \mathbb{N}$. Provare che non esistono funzioni in aumento $g, h : (0,1) \to \mathbb{R}$ tali da $f = g - h$.
+> Sia $f : (0,1) \to \mathbb{R}$ una funzione tale che $f(1/n) = (-1)^n$ per ogni $n \in \mathbb{N}$. Dimostrare che non esistono funzioni crescenti $g, h : (0,1) \to \mathbb{R}$ tali che $f = g - h$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali e successioni]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1999_r2#q01|src_pol_1999_r2__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un pezzo è un cubo di 2 cubi con un cubo di unità angolare rimosso; mostrare un cubo di 2^n meno un cubo di unità può essere tagliato in pezzi.*
+*Un cubo di spigolo 2 senza un cubetto d'angolo è un pezzo: un cubo di spigolo 2^n senza un cubetto unitario si taglia in pezzi*
 
-> Un cubo di bordo $2$ con uno dei cubetti unitari di angolo rimosso si chiama pezzo. Prova che se un cubo $T$ di bordo $2^n$ è diviso in cubi unitari $2^{3n}$ e uno dei cubi unitari viene rimosso, il resto può essere tagliato in pezzi.
+> Si chiama pezzo un cubo di spigolo $2$ a cui è stato tolto uno dei cubetti unitari d'angolo. Dimostrare che, se un cubo $T$ di spigolo $2^n$ è diviso in $2^{3n}$ cubetti unitari e se ne toglie uno, il resto si può tagliare in pezzi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_pol_1999_r2#q02|src_pol_1999_r2__Q02]]
 
 
 
@@ -79,9 +91,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero ciclico con E,F su AB,CD e P su EF; il rapporto tra le aree di APD e BPC è indipendente da E,F.*
+*Quadrilatero ciclico, punti sui lati opposti con lo stesso rapporto, punto su EF: il rapporto delle aree non dipende da quei punti*
 
-> Il $ABCD$ deve essere un quadrilaterale ciclico e $E$ e $F$ devono essere i punti sui lati $AB$ e $CD$ rispettivamente tali da $AE : EB = CF : FD$. Il punto $P$ del segmento $EF$ soddisfa $EP : PF = AB : CD$. Prove che il rapporto tra le superfici di $\triangle APD$ e $\triangle BPC$ non dipende dalla scelta di $E$ e $F$.
+> Sia $ABCD$ un quadrilatero ciclico e siano $E$ e $F$ punti sui lati $AB$ e $CD$ rispettivamente tali che $AE : EB = CF : FD$. Il punto $P$ sul segmento $EF$ soddisfa $EP : PF = AB : CD$. Dimostrare che il rapporto delle aree di $\triangle APD$ e di $\triangle BPC$ non dipende dalla scelta di $E$ e di $F$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1999_r2#q03|src_pol_1999_r2__Q03]]
 
 
 
@@ -104,9 +122,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto interno P con condizioni angolari; se O (circumcentro) differisce da P, dimostrare che l'angolo APO è corretto.*
+*Punto interno con due coppie di angoli uguali: se il circocentro è distinto da P, l'angolo APO è retto*
 
-> $P$ deve essere un punto all'interno di un triangolo $ABC$ tale che $\angle PAB = \angle PCA$ e $\angle PAC = \angle PBA$. Se $O \neq P$ è il centro circundante di $\triangle ABC$, dimostrare che $\angle APO$ è corretto.
+> Sia $P$ un punto interno di un triangolo $ABC$ tale che $\angle PAB = \angle PCA$ e $\angle PAC = \angle PBA$. Se $O \neq P$ è il circocentro di $\triangle ABC$, dimostrare che $\angle APO$ è retto.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1999_r2#q04|src_pol_1999_r2__Q04]]
 
 
 
@@ -129,9 +153,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi funzioni f:S->S su S={1,2,3,4,5} con f^{50}(x)=x per tutte le x.*
+*Funzioni da un insieme di cinque elementi in sé tali che la cinquantesima iterata sia l'identità*
 
-> Let $S = \{1, 2, 3, 4, 5\}$. Trova il numero di funzioni $f : S \to S$ tale da $f^{50}(x) = x$ per tutte le $x \in S$.
+> Sia $S = \{1, 2, 3, 4, 5\}$. Trovare il numero di funzioni $f : S \to S$ tali che $f^{50}(x) = x$ per ogni $x \in S$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_1999_r2#q05|src_pol_1999_r2__Q05]]
 
 
 
@@ -156,6 +186,16 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integri con somma di potenza ponderata scomparsa per i=1..k-1; dimostrare che la somma ponderata k è divisibile da k!.*
+*Se certe combinazioni lineari di potenze si annullano fino all'esponente k−1, quella di esponente k è divisibile per k!*
 
-> Supponiamo che $a_1, a_2, \ldots, a_n$ siano numeri interi tali che $$a_1 + 2^i a_2 + 3^i a_3 + \cdots + n^i a_n = 0 \quad \text{for } i = 1, 2, \ldots, k-1,$$ dove $k \geq 2$ è un dato intero. Prova che $a_1 + 2^k a_2 + 3^k a_3 + \cdots + n^k a_n$ è divisibile per $k!$.
+> Si supponga che $a_1, a_2, \ldots, a_n$ siano interi tali che
+>
+> $$a_1 + 2^i a_2 + 3^i a_3 + \cdots + n^i a_n = 0 \quad \text{for } i = 1, 2, \ldots, k-1,$$
+>
+> dove $k \geq 2$ è un intero dato. Dimostrare che $a_1 + 2^k a_2 + 3^k a_3 + \cdots + n^k a_n$ è divisibile per $k!$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_1999_r2#q06|src_pol_1999_r2__Q06]]

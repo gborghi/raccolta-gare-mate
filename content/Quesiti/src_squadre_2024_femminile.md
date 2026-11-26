@@ -32,9 +32,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of three rectangles, AB=20 BC=40*
+*Area of the union of three rectangles, AB=20 BC=40*
 
-> Party at SherLog Hodge Castle, the famous detective, covertly watches the 33 party participants. He knows that some are on his side, while others are loyal to his bitter enemy, Mongearty. Some participants shake hands, but only if they didn't know each other before. Knowing that members of the same faction already knew each other, how many handshakes did SherLog observe?
+> Party at the Castle SherLog Hodge, the famous detective, secretly observes the 33 attendees at a party. He knows that some are on his side, while the others are loyal to his arch-enemy Mongearty. Some attendees shake hands, but only if they did not know each other beforehand. Knowing that members of the same faction already knew each other, at most how many handshakes could SherLog have observed?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2024_femminile#q01|src_squadre_2024_femminile__Q01]]
 
 
 
@@ -61,9 +67,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*p(12) with p(2R)=2p(R) +2R^2-1 and sum of coefficients 2*
+*p(12) with p(2R)=2p(R)+2R^2-1 and sum of coefficients 2*
 
-> Attempting to capture SherLog Hodge and trusted Wolfram build a trap to trap Mongearty. It is an ABCD rectangle with AB length 48dm and BC length 20dm. On the AC diagonal a rectangle is constructed such that AC is one side and the side opposite it passes through B. In the same way on BD you build a rectangle passing through A. If Mongearty enters the area formed by the union of the three rectangles, the trap will break out. Wolfram wonders if the area is enough. How much is the area in dm2?
+> Attempt to Capture: SherLog Hodge and the loyal Wolfram set a trap to frame Mongearty. It is a rectangle ABCD with AB measuring 48 dm and BC measuring 20 dm. On the diagonal AC, a rectangle is constructed such that AC is one side and the side opposite it passes through B. Similarly, on BD, a rectangle passing through A is constructed. If Mongearty enters the region formed by the union of the three rectangles, the trap will spring. Wolfram wonders whether the area is sufficient. What is the area, in dm²?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2024_femminile#q02|src_squadre_2024_femminile__Q02]]
 
 
 
@@ -88,9 +100,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total of 20ab integers divisible by ab-1*
+*Sum of all integers 20ab divisible by ab-1*
 
-> Noted yellow book writer Jessica Fourier likes to put some math questions in her novels. In its last effort, it asks the reader how many pairs (x,y) of integers with \\\displaystyle \\\mathbb {≤4000} are so there exists a positive integer k that satisfies the relation x2 +y2 +22k−1 +2kx−2ky = 0. What's the answer?
+> Problem in the novel: The well-known crime novelist Jessica Fourier likes to slip a few math problems into her novels. In her latest work, she asks the reader how many pairs (x, y) of integers with |y| ≤ 4000 there are such that there exists a positive integer k satisfying the relation x² + y² + 22k−1 + 2kx − 2ky = 0. What is the answer?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2024_femminile#q03|src_squadre_2024_femminile__Q03]]
 
 
 
@@ -117,9 +135,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum integer dividing p(2024) by p(1) = 7 p(2) = 15*
+*The greatest integer that divides p(2024), where p(1)=7 and p(2)=15*
 
-> The road to Inspector Gauget's shelter lies at the base of a 600 m long conical mountain with a base radius of 150 m. He must capture a fugitive, hidden in the shelter that is on the side of the mountain exactly 150 meters from him towards the top of the mountain. To reach the shelter, the inspector takes the shortest route, which also makes a complete tour around the mountain; note that, curiously, the route is firstly up and then down. How many meters is the climb?
+> The Road to the Shelter Inspector Gauget is at the base of a conical mountain with an apothem of 600 m and a base radius of 150 m. He must capture a fugitive hiding in the shelter located on the mountainside, exactly 150 m from him in the direction of the mountain's summit. To reach the shelter, the inspector follows the shortest path that also makes a complete circuit around the mountain; he notes that, curiously, the path he takes goes uphill for an initial stretch and then downhill. How many metres long is the uphill stretch?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2024_femminile#q04|src_squadre_2024_femminile__Q04]]
 
 
 
@@ -144,9 +168,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Scripts of 7 characters with exactly 210 anagrams*
+*7-character writings with exactly 210 anagrams*
 
-> Pizzini for MontyHallbano The boss of the Sin(agra) gives code orders using sequences of exactly three letters, all distinct, taken from an alphabet that has all n letters. Commissioner MontyHallbano cannot translate the orders written on the plates, but he knows that the total number of possible sequences is multiple of 11 and 19. How much is n worth, at least?
+> Pizzini for MontyHallbano The boss of the Sin(agra) gives orders in code using sequences of exactly three distinct letters drawn from an alphabet with a total of n letters. Commissioner MontyHallbano cannot translate the orders written on the pizzini, but he knows that the total number of possible sequences is a multiple of 11 and of 19. What is the minimum possible value of n?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2024_femminile#q05|src_squadre_2024_femminile__Q05]]
 
 
 
@@ -171,9 +201,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum n×a_n^2024 with a_n opposite sum of proper divisors*
+*Sum n*a_n^2024, where a_n is the opposite of the sum of proper divisors*
 
-> The generosity of Zenonigata Zenonigata is so obsessed with Lupin/3 that he has promised that when he captures him, he will give to his colleagues as many MathYen as the sum of the digits of the sum of the digits of the sum of the digits of 20232024. How many MathYen are there?
+> Zenonigata's generosity: Zenonigata is so obsessed with Lupin/3 that he has promised that, when he catches him, he will give his colleagues as many MathYen as the sum of the digits of the sum of the digits of the sum of the digits of 20232024 is worth. How many MathYen is that?
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2024_femminile#q06|src_squadre_2024_femminile__Q06]]
 
 
 
@@ -200,9 +236,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of avoiding boxes (k,k+2) on the 2024 grid*
+*Probability of avoiding cells (k,k+2) on a 2024 grid*
 
-> Jessica Fourier's challenge Jessica Fourier has the classic math writer's block. To distract himself, he challenges Dr. Seven: both have a sheet with an identical circumference drawn and have to cut a quadrilateral. Both quadrilaterals must have the same area. Il Dr. Seven cuts the square inscribed in the circumference. Jessica instead draws an AB rope 400 mm from center C and the tangents at points A and B to the circumference that intersect in P. So cut the CAPB quadrilateral. What is the radius of the two identical circumferences in mm?
+> Jessica Fourier's Challenge Jessica Fourier has the classic block of the mathematical writer. To distract herself, she challenges Dr. Sette: both have a sheet of paper with an identical circle drawn on it, and they must cut out a quadrilateral. Both quadrilaterals must have the same area. Dr. Sette cuts out the square inscribed in the circle. Jessica, on the other hand, draws a chord AB at a distance of 400 mm from the center C, and draws the tangents to the circle at points A and B; these tangents intersect at P. She then cuts out the quadrilateral CAPB. What is the radius of the two identical circles, in mm?
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2024_femminile#q07|src_squadre_2024_femminile__Q07]]
 
 
 
@@ -233,11 +275,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cyclic quadrilateral DA length with AEB=60*
+*Length DA of a cyclic quadrilateral with AEB = 60°*
 
-> Around a round table there are 10,000 people, but unfortunately each of them could be a member of the notorious Black Organization. Of these people, 4248 say the following sentence: Between me and the two 2024 Team Games  Semifinal 1  Problem Tests  1/2
-> 
-> People at my side hide at least two members of the Organization; all the others, on the other hand, declare: Detective Kolmogoro, behind coNaN's suggestion, concludes: Assuming that the members of the Organization always lie and that everyone else always tells the truth, it is possible that the number of members of the Organization is... With how many different numbers could Kolmogoro finish the sentence?
+> Table Neighbors Around a round table, 10,000 people are seated, but unfortunately each of them could be a member of the notorious Black Organization. Of these people, 4,248 utter the following sentence: “Between me and the two Team Competition 2024 – Semifinal 1 – Problem Statements – 1/2
+>
+> "At least two members of the Organization are hiding beside me"; all the others, however, declare: "At most one member of the Organization is hiding between me and the two people beside me." Detective Kolmogoro, following coNaN's "suggestion", concludes: "Assuming that the members of the Organization always lie and that all the others always tell the truth, it is possible that the number of members of the Organization is...". With how many different numbers could Kolmogoro have ended the sentence?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2024_femminile#q08|src_squadre_2024_femminile__Q08]]
 
 
 
@@ -265,9 +313,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The last four digits of c_2024 with three consecutive concatenations*
+*Last 4 digits of c_2024 with three concatenated sequences*
 
-> The design by Fuzzy [⋆] Inspector Giuseppe Fuzzy, MontyHallbano's collaborator, draws an isosceles ABC triangle in A. It then takes the D and E points respectively on the AC and AB sides such that DE is parallel to BC. The intersection between the BD and EC segments shows that \ BPC = 60°. It is also known that the circumferences in the quadrilateral ADPE and the triangle BPC have congruent radii and that the height of the triangle ABC relative to the vertex A is 1200. He then asks Commissioner MontyHallbano: How big is the AC side?
+> Fuzzy's Diagram [⋆] Inspector Giuseppe Fuzzy, a collaborator of MontyHallbano, draws an isosceles triangle ABC with the equal sides meeting at A. He then takes points D and E on sides AC and AB, respectively, such that DE is parallel to BC. Let P be the intersection of segments BD and CE; he observes that ∠BPC = 60°. He also knows that the incircles of quadrilateral ADPE and triangle BPC have equal radii, and that the altitude of triangle ABC from vertex A measures 1200. He therefore asks Commissioner MontyHallbano: how long is side AC?
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2024_femminile#q09|src_squadre_2024_femminile__Q09]]
 
 
 
@@ -293,9 +347,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of beam triangles between 10 points per circle*
+*Number of triangles formed from sets of three beams among 10 points on a circle*
 
-> Lieutenant Coulomb has already figured out who the culprit is, so he's playing psychology to get him to confess. The question that Coulomb asks, and which brings down the suspect, is this: how many of the nonempty subsets of {1,2,...,12} does the product of the elements have zero as the number of units?
+> The Lieutenant's Question Lieutenant Coulomb has already figured out who the culprit is, so he is using psychological tactics to get the culprit to confess. The question Coulomb poses—the one that breaks down the suspect—is as follows: In how many of the non-empty subsets of {1,2,...,12} is the units digit of the product of the elements zero?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2024_femminile#q10|src_squadre_2024_femminile__Q10]]
 
 
 
@@ -323,9 +384,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible products of n integers with the left-hand number added*
+*Possible products of n integers with a digit added to the left*
 
-> Perverse game [⋆] Mongearty captured poor Wolfram and placed him in the center of a regular polygon of 2024 peaks. To mock SherLog Hodge, Mongearty plays a perverse game: he randomly chooses a subset C of 100 vertices such that there are no two opposites to the center of the polygon. Then he builds all the possible triangles with vertices in C: if Wolfram is outside all these triangles he'll save his life. SherLog has already calculated the fraction f, reduced to the minimum, corresponding to the probability that Wolfram will survive. How much is the f-number?
+> Perverse Game [⋆] Mongearty has captured poor Wolfram and placed him at the center of a regular polygon with 2024 vertices. To mock SherLog Hodge, Mongearty plays a perverse game: he randomly chooses a subset C of 100 vertices such that no two of them are opposite with respect to the center of the polygon. Then he constructs all possible triangles whose vertices lie in C: if Wolfram lies outside all these triangles, his life will be spared. SherLog has already calculated the fraction f, in lowest terms, corresponding to the probability that Wolfram will survive. What is the numerator of f?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2024_femminile#q11|src_squadre_2024_femminile__Q11]]
 
 
 
@@ -389,8 +457,22 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of convex edges with sides of equilateral triangles side 1*
+*Number of convex deltahedra with equilateral triangular faces of side length 1*
 
-> On the scene of the crime, Hermite Poinsot finds a leaflet with a sequence of numbers: the first term is 1 while the ln-eighth term is the sum of the k-eighth term (where k is the entire part of the root of n) and the absolute value of the difference between n and the perfect square closest to it. Hercules notes that the difference between the last two numbers is 10: how long is the minimum sequence? Provide the exponent of 2 in prime factorization. 13. Scanning numbers A number n has a consecutive spelling if there is a sequence of at least two consecutive positive integers such that their sum is n. Among the various gadgets of Inspector Gauget is the consecutive meter: given a number n, the consecutive meter returns the number of consecutive scripts of n. To solve the last case, the inspector uses the consecutivometer on all numbers from 1 to 101 and sums all the values obtained. How much is this? 14. Call the firefighters! MontyHallbano had a blast: a terrorist cell hid a bomb in a circular round. The Commissioner has already managed to locate the round, because he knows that on the edges there are 3 angels: A and B at the ends of a diameter and the other angel X forms an angle \ XAB = 30°. In addition, with the clues collected, Fuzzy is drawing the map: he traces another diameter XY = 18m and calls C,D respectively the intersections between the AX and AY lines with the tangent to the round led by B. M and N are the midpoints of BX and BY . The bomb was placed at the intersection of the CM and DN lines. The gunmen need to know the precise distance of A from the bomb. How much is this distance in centimetres? 15. The suspect Hermite Poinsot is watching staged a magic game to confuse the detective. Initially he has 2 red balls in his hand; at each step he makes one of the following moves: adds a blue ball and a red ball; adds a blue ball and removes a red ball; adds two green balls. He declares that when he has 11 blue, 9 red and 4 green balls in his hand he will disappear, and he also wants to reach the goal using the minimum number of moves possible. How many ways can you do that? 16. Even this time, Inspector Zenonigata put Lupin/3 in the corner proposing the succession an, which follows the following law: for each n > 1 we have that an = an−1 +2an−2 +3an−3 +...+(n−1)a1 and also a1 = k for some whole k. Zenonigata asks whether Lupin/3 knows how to calculate the sum of all the values of k for which n such as an = 2024 exists. The thief, equally mocked, responds correctly and escapes, leaving Zenonigata to eat his hands for the wasted opportunity. What did Lupin/3 say? Team competition 2024  Semifinal 1  Problem tests  2/2
-> 
-> XXV National Semifinal Team Competition 1  Friday 3 May 2024 Ministry of Education and Merit Solutions Nr. The problem
+> Note with a clue At the crime scene, Hermite Poinsot finds a note bearing a sequence of numbers: the first term is 1, while the n-th term is the sum of the k-th term (where k is the integer part of the square root of n) and the absolute value of the difference between n and the nearest perfect square to n. Hercule notes that the difference between the last two numbers is 10: what is the minimum length of the sequence? Provide the exponent of 2 in the prime factorization.
+> 13. Scanning numbers
+> A number n has a consecutive representation if there exists a sequence of at least two consecutive positive integers whose sum is n. Among Inspector Gauget's various gadgets is the Consecutivometer: given a number n, the Consecutivometer returns the number of consecutive representations of n. To solve the last case, the inspector uses the Consecutivometer on all numbers from 1 to 101 and adds up all the values obtained. What is the value of this sum?
+> 14. Call the bomb disposal experts!
+> MontyHallbano has received a tip: a terrorist cell has hidden a bomb in a circular roundabout. The Commissioner has already managed to locate the roundabout, because he knows that there are 3 angels on its edge: A and B at the ends of a diameter, and the other angel, X, forms an angle XAB = 30°. Moreover, using the clues gathered, Fuzzy is drawing the map: he draws another diameter XY = 18 m and calls C and D, respectively, the intersections of the lines AX and AY with the tangent to the roundabout drawn from B. M and N are the midpoints of BX and BY. The bomb has been placed at the intersection of the lines CM and DN. The bomb disposal experts need to know the exact distance from A to the bomb. What is this distance in cm?
+> 15. Magic Balls
+> The suspect whom Hermite Poinsot is watching has staged a magic trick to confuse the detective. Initially, they have 2 red balls in their hands; with each move, they perform one of the following actions: add one blue ball and one red ball; add one blue ball and remove one red ball; add two green balls. They state that when they have 11 blue balls, 9 red balls, and 4 green balls in their hands, they will disappear; moreover, they want to achieve the goal using the fewest possible moves. In how many ways can they do this?
+> 16. Not this time either
+> Inspector Zenonigata cornered Lupin/3 by proposing the sequence an to him, which obeys the following rule: for every n > 1, an = an−1 + 2an−2 + 3an−3 + ... + (n−1)a1, and moreover a1 = k for some integer k. Zenonigata asked mockingly whether Lupin/3 could calculate the sum of all values of k for which there exists an n such that an = 2024. The thief, equally mockingly, answered correctly and fled, leaving Zenonigata to gnaw his fingers in regret over the wasted opportunity. What did Lupin/3 answer? Team Competition 2024 – Semifinal 1 – Problem Statements – 2/2
+>
+> XXV National Team Competition Semifinal 1 – Friday, 3 May 2024 Ministry of Education and Merit Solutions No. Problem
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2024_femminile#q12|src_squadre_2024_femminile__Q12]]

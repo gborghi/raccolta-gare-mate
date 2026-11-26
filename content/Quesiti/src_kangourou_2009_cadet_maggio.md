@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sufficient area of a triangle per area of the parallelogram*
+*The area of a triangle is equal to the area of the parallelogram*
 
-> A parallelogram is divided by its diagonals into 4 triangles, one of which you know the area. Is this enough data to determine the area of the parallelogram? Justify your answer.
+> A parallelogram is divided by its diagonals into 4 triangles, and you know the area of one of them. Is this piece of information enough for you to determine the area of the parallelogram? Justify your answer.
 
-**Answer:** yes
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_maggio#qc1|src_kangourou_2009_cadet_maggio__QC1]]
 
 
 
@@ -56,11 +60,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-From which pizza to choose the largest slice
+*From which pizza should you choose the largest slice?*
 
-> At a little party there are four circular-shaped pizzas: one has a radius $8$ cm and is cut into $3$ equal slices, a second has a radius $10$ cm and is cut into $4$ equal slices, a third has a radius $12$ cm and is cut into $6$ equal slices, the fourth has a radius $14$ cm and is cut into $8$ equal slices. You only have one slice and you want to eat as much pizza as possible. Which slice is best for you?
+> At a little party, there are four circular pizzas: one has a radius of $8$ cm and is cut into $3$ equal slices; a second has a radius of $10$ cm and is cut into $4$ equal slices; a third has a radius of $12$ cm and is cut into $6$ equal slices; the fourth has a radius of $14$ cm and is cut into $8$ equal slices. You are entitled to only one slice, and you want to eat as much pizza as possible: from which of the pizzas would it be best for you to choose your slice?
 
-**Answer:** radius 10
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_maggio#qc2|src_kangourou_2009_cadet_maggio__QC2]]
 
 
 
@@ -86,9 +94,14 @@ From which pizza to choose the largest slice
 
 *The number 29^28+4 is prime*
 
-> Is the number $2^{928} + 4$ prime? Justify the answer.
+> Is the number $2^{928} + 4$ prime? Justify your answer.
 
-**Answer:** no
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_cadet_maggio#qc3|src_kangourou_2009_cadet_maggio__QC3]]
 
 
 
@@ -112,11 +125,16 @@ From which pizza to choose the largest slice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which sheets remain in the same position*
+*Which sheets remain in the same position?*
 
-> Consider an ordered stack of $5998$ sheets numbered from $1$ (i.e. the first sheet at the top bears the number $1$). Now build a new stack this way: take the first sheet, put the second over the first and the third under the first; then repeat the process: the fourth sheet will go over the second and the fifth under the third and so on. Once the operation is complete, will there be sheets that, in the new stack, will be in the same position as they were in the old one? If yes, which ones?
+> Consider an ordered stack of $5998$ sheets numbered starting from $1$ (that is, the first sheet at the top bears the number $1$). Now construct a new stack as follows: take the first sheet, place the second sheet on top of the first and the third sheet below the first; then continue by iterating the procedure: the fourth sheet will go on top of the second, and the fifth sheet will go below the third, and so on. Once the operation is complete, will there be any sheets that, in the new stack, are in the same position they were in in the old stack? If so, which ones?
 
-**Answer:** 2000
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_cadet_maggio#qc4|src_kangourou_2009_cadet_maggio__QC4]]
 
 
 
@@ -143,15 +161,19 @@ From which pizza to choose the largest slice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum path of the ant and farthest point*
+*Ant's shortest path and the farthest point*
 
 ![[src_kangourou_2009_cadet_maggio__probc5.png]]
 
-> An ant is free to move on the surface of a rectangular parallelepiped measuring $1 \times 1 \times 2$ meters, but not to enter it. Starting from a vertex, it wants to reach the antipodal vertex (i.e. the one farthest from it) by moving along the shortest path possible: how much distance must it travel?
-> 
-> Is the opposite vertex the point of the parallelepiped farthest from the starting vertex (as long as it is bound to move on the surface)?
+> An ant is free to move on the surface of a rectangular parallelepiped measuring $1 \times 1 \times 2$ metres, but cannot enter its interior. Starting from one vertex, it wants to reach the antipodal vertex (that is, the one farthest from it) by following the shortest possible path: how far must it travel?
+>
+> Is the opposite vertex the point on the parallelepiped farthest from the starting vertex (provided one is restricted to moving on the surface)?
 
-**Answer:** sqrt8
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_maggio#qc5|src_kangourou_2009_cadet_maggio__QC5]]
 
 
 
@@ -175,8 +197,13 @@ From which pizza to choose the largest slice
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum red vertices with all different distances (21-gon)*
+*Red apexes with all different distances (21-gon)*
 
-> Consider a regular polygon of $21$ sides. You want to color some vertices red so that, however you choose two pairs of vertices both red, the distance between the vertices of one pair is different from that between the vertices of the other. How many vertices can you color at most?
+> Consider a regular polygon with $21$ sides. You want to color some of its vertices red in such a way that, no matter which two pairs of vertices are both colored red, the distance between the vertices of one pair is different from the distance between the vertices of the other pair. What is the maximum number of vertices you can color?
 
-**Answer:** 5
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_cadet_maggio#qc6|src_kangourou_2009_cadet_maggio__QC6]]

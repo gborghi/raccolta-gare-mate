@@ -35,15 +35,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza costituita da ripetute operazioni di fattorizzazione dei primi; tre sottoparti*
+*Sequenza formata da un'operazione di scomposizione in fattori primi ripetuta; tre sottoparti*
 
-> Considera una sequenza il cui primo termine è un dato intero positivo $N > 1$. Dato un termine $N$ della sequenza, se $N$ è una potenza di un singolo primo, la sequenza termina a $N$. In caso contrario, il termine successivo viene ottenuto prendendo il più grande fattore primo $p$ di $N$ e sostituendo $p$ con $p+1$ nella fattorizzazione primaria; se il numero risultante non è una potenza di un primo, il processo viene ripetuto sul nuovo numero, dando origine al termine successivo; e così via. Ad esempio, se il primo termine della sequenza è $N = 300 = 2^2 \cdot 3 \cdot 5^2$, poiché il suo fattore primo più grande è $p = 5$, il secondo termine è $2^2 \cdot 3 \cdot (5+1)^2 = 2^4 \cdot 3^3$. Dal momento che $p = 3$ e quindi il terzo termine è $2^4 \cdot (3+1)^3 = 2^{10}$. Abbiamo ottenuto una potenza di $2$, quindi la sequenza termina. Ad esempio, la sequenza $2^2 \cdot 3 \cdot 5^2, \; 2^4 \cdot 3^3, \; 2^{10}$ ha termini $3$.
-> 
-> (a) Quanti termini ha la sequenza il cui primo termine è $N = 2 \cdot 3 \cdot 5 \cdot 7 \cdot 11 \cdot 13 \cdot 17 \cdot 19 \cdot 23$?
-> 
-> b) Mostra che se un primo $p$ lascia il rimanente $1$ sulla divisione di $3$, allora $\frac{p+1}{2}$ è anche un intero che lascia il rimanente $1$ sulla divisione di $3$.
-> 
-> (c) Trovare un valore iniziale $N$ inferiore a $1{,}000{,}000$ (un milione) tale che la sequenza a partire da $N$ abbia esattamente $11$ termini.
+> Si consideri una successione il cui primo termine è un dato intero positivo $N > 1$. Dato un termine $N$ della successione, se $N$ è una potenza di un unico numero primo, la successione termina in $N$. Altrimenti, il termine successivo si ottiene prendendo il più grande fattore primo $p$ di $N$ e sostituendo $p$ con $p+1$ nella fattorizzazione in fattori primi; se il numero risultante non è una potenza di un numero primo, il processo viene ripetuto sul nuovo numero, dando origine al termine successivo; e così via. Ad esempio, se il primo termine della successione è $N = 300 = 2^2 \cdot 3 \cdot 5^2$, poiché il suo più grande fattore primo è $p = 5$, il secondo termine è $2^2 \cdot 3 \cdot (5+1)^2 = 2^4 \cdot 3^3$. Poiché $p = 3$, il terzo termine è quindi $2^4 \cdot (3+1)^3 = 2^{10}$. Abbiamo ottenuto una potenza di $2$, quindi la successione termina. Ad esempio, la successione $2^2 \cdot 3 \cdot 5^2, \; 2^4 \cdot 3^3, \; 2^{10}$ ha $3$ termini.
+>
+> (a) Quanti termini ha la successione il cui primo termine è $N = 2 \cdot 3 \cdot 5 \cdot 7 \cdot 11 \cdot 13 \cdot 17 \cdot 19 \cdot 23$?
+>
+> (b) Dimostrare che, se un numero primo $p$ lascia resto $1$ alla divisione per $3$, allora anche $\frac{p+1}{2}$ è un numero intero che lascia resto $1$ alla divisione per $3$.
+>
+> (c) Trova un valore iniziale $N$ minore di $1{,}000{,}000$ (un milione) tale che la successione a partire da $N$ abbia esattamente $11$ termini.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2024_n2_fx#q01|src_obm_2024_n2_fx__Q01]]
 
 
 
@@ -66,9 +73,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La conciclicità ciclica si traduce in un triangolo con cerchi e punti di mezzo circoscritti*
+*Risultato di conciclicità ciclica in un triangolo con cerchi circoscritti e punti medi*
 
-> Il $ABC$ sia un triangolo e il $E$ e il $F$ siano rispettivamente i punti medi dei lati $AC$ e $AB$. Il segmento $BC$ deve essere $D$. I cerchi circoscritti dei triangoli $BDF$ e $CDE$ si incrociano a un punto $X \neq D$. Il punto $Y$ si trova sulla linea $DX$ in modo tale che $AY$ sia parallelo a $BC$. Prova che i punti $K$, $L$, $X$ e $Y$ si trovano tutti sullo stesso cerchio, dove $K$ e $L$ sono i secondi punti di intersezione (diversi da $X$) dei circoncircoli di $BDF$ e $CDE$ con la linea $EF$.
+> Sia $ABC$ un triangolo e siano $E$ e $F$ i punti medi dei lati $AC$ e $AB$, rispettivamente. Sia $D$ un punto qualsiasi sul segmento $BC$. Le circonferenze circoscritte ai triangoli $BDF$ e $CDE$ si intersecano in un punto $X \neq D$. Il punto $Y$ giace sulla retta $DX$ in modo che $AY$ sia parallelo a $BC$. Dimostrare che i punti $K$, $L$, $X$ e $Y$ giacciono tutti sulla stessa circonferenza, dove $K$ e $L$ sono i secondi punti di intersezione (diversi da $X$) delle circonferenze circoscritte a $BDF$ e $CDE$ con la retta $EF$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2024_n2_fx#q02|src_obm_2024_n2_fx__Q02]]
 
 
 
@@ -96,13 +110,21 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il percorso di crescita più lungo garantito nella griglia 10 ×10 con 1100*
+*Percorso crescente garantito più lungo in una griglia 10×10 con valori da 1 a 100*
 
-> I numeri $1$ a $100$ vengono inseriti senza ripetizione, uno in ogni cella di una griglia $10 \times 10$. Un percorso *aumentante di lunghezza $k$* in questa griglia è una sequenza di celle $c_1, c_2, \ldots, c_k$ tale che, per ciascuna $i = 2, 3, \ldots, k$, possano le seguenti proprietà:
-> 
-> - le celle $c_i$ e $c_{i-1}$ condividono un lato o un vertice; - il numero di $c_i$ è maggiore del numero di $c_{i-1}$.
-> 
-> Qual è il più grande intero positivo $k$ in modo che possiamo sempre trovare un percorso crescente di lunghezza $k$, indipendentemente dal modo in cui i numeri $1$ a $100$ sono disposti nella griglia?
+> I numeri da $1$ a $100$ sono disposti senza ripetizioni, uno in ciascuna cella di una griglia $10 \times 10$. Un *cammino crescente di lunghezza $k$* in questa griglia è una sequenza di celle $c_1, c_2, \ldots, c_k$ tale che, per ogni $i = 2, 3, \ldots, k$, valgono le seguenti proprietà:
+>
+> - le celle $c_i$ e $c_{i-1}$ condividono un lato o un vertice;
+> - il numero in $c_i$ è maggiore del numero in $c_{i-1}$.
+>
+> Qual è il più grande intero positivo $k$ tale che, indipendentemente da come i numeri da $1$ a $100$ siano disposti nella griglia, possiamo sempre trovare un cammino crescente di lunghezza $k$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2024_n2_fx#q03|src_obm_2024_n2_fx__Q03]]
 
 
 
@@ -125,9 +147,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri a 10 cifre con cifre di {1,2,3} divisibili per 99*
+*Conta i numeri di 10 cifre con cifre appartenenti a {1,2,3} divisibili per 99*
 
-> Un numero è chiamato *trilegal* se tutti i suoi numeri appartengono all'insieme $\{1, 2, 3\}$ ed è divisibile da $99$. Quanti numeri trilegali hanno esattamente $10$ cifre?
+> Un numero è detto *trilegal* se tutte le sue cifre appartengono all'insieme $\{1, 2, 3\}$ e è divisibile per $99$. Quanti numeri trilegal hanno esattamente $10$ cifre?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2024_n2_fx#q04|src_obm_2024_n2_fx__Q04]]
 
 
 
@@ -154,13 +183,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazioni quadratiche iterate di Esmeralda con radici di numeri interi positivi distinti*
+*Le equazioni quadratiche iterate di Esmeralda con radici intere positive distinte*
 
-> Esmeralda sceglie due numeri interi positivi distinti $a$ e $b$, con $a > b$, e scrive l'equazione $x^2 - ax + b = 0$ sulla lavagna. Se l'equazione ha radici di numeri interi positivi distinte $c$ e $d$, con $c > d$, scrive poi l'equazione $x^2 - cx + d = 0$ sulla lavagna. Essa ripete questa procedura finché continua a ottenere radici di numeri interi positivi distinte. Se scrive un'equazione per la quale questo non accade, si ferma.
-> 
-> (a) Mostrare che Esmeralda può scegliere $a$ e $b$ in modo tale da scrivere esattamente $2024$ equazioni sulla lavagna.
-> 
-> b) Qual è il maggior numero di equazioni che può scrivere sapendo che uno dei numeri che ha inizialmente scelto è $2024$?
+> Esmeralda sceglie due interi positivi distinti $a$ e $b$, con $a > b$, e scrive sull'argine l'equazione $x^2 - ax + b = 0$. Se l'equazione ha radici intere positive distinte $c$ e $d$, con $c > d$, allora scrive sull'argine l'equazione $x^2 - cx + d = 0$. Ripete questa procedura finché continua a ottenere radici intere positive distinte. Se scrive un'equazione per cui ciò non accade, si ferma.
+>
+> (a) Dimostrare che Esmeralda può scegliere $a$ e $b$ in modo che scriva esattamente $2024$ equazioni alla lavagna.
+>
+> (b) Qual è il numero massimo di equazioni che può scrivere sapendo che uno dei numeri che ha scelto inizialmente è $2024$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_ricorsione|Ricorsione]], [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2024_n2_fx#q05|src_obm_2024_n2_fx__Q05]]
 
 
 
@@ -183,6 +219,13 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perpendicolarità che si traduce in triangolo di isosceles con configurazione ceviana speciale*
+*La perpendicolarità dà luogo a un triangolo isoscele con una configurazione ceviana speciale*
 
-> Che $ABC$ sia un triangolo di uguali dimensioni con $AB = BC$. Il $D$ deve essere un punto del segmento $AB$, $E$ un punto del segmento $BC$ e $P$ un punto del segmento $DE$ in modo tale che $AD = DP$ e $CE = PE$. $M$ deve essere il punto medio di $DE$. La linea parallela a $AB$ attraverso $M$ si interseca a $AC$ a $X$, e la linea parallela a $BC$ attraverso $M$ si interseca a $Y$. Le linee $DX$ e $EY$ si incrociano a $F$. Prove che $FP$ è perpendicolare a $DE$.
+> Sia $ABC$ un triangolo isoscele con $AB = BC$. Sia $D$ un punto sul segmento $AB$, $E$ un punto sul segmento $BC$ e $P$ un punto sul segmento $DE$ tali che $AD = DP$ e $CE = PE$. Sia $M$ il punto medio di $DE$. La retta parallela a $AB$ passante per $M$ interseca $AC$ in $X$, e la retta parallela a $BC$ passante per $M$ interseca $AC$ in $Y$. Le rette $DX$ e $EY$ si intersecano in $F$. Dimostrare che $FP$ è perpendicolare a $DE$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2024_n2_fx#q06|src_obm_2024_n2_fx__Q06]]

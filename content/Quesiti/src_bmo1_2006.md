@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra n^2(n^2+16) divisibile per 720 quando n-1 e n+1 sono entrambi primi*
+*Se $n - 1$ e $n + 1$ sono primi, $720$ divide $n^2(n^2 + 16)$. Vale il viceversa?*
 
-> $n$ sia un numero intero tale che $n - 1$ e $n + 1$ siano entrambi numeri primi. Indicare che $n^2(n^2 + 16)$ è divisibile per 720. È vero il contrario?
+> Sia $n$ un intero tale che $n - 1$ e $n + 1$ siano entrambi primi. Dimostrare che $n^2(n^2 + 16)$ è divisibile per 720. È vero il viceversa?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2006#q01|src_bmo1_2006__Q01]]
 
 
 
@@ -58,13 +65,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per dividere sei coppie di gemelli in due squadre uguali senza gemelli insieme*
+*Modi di dividere sei coppie di gemelli in due squadre*
 
-> Afrifan insegna una classe di sei coppie di gemelli. Vuole organizzare squadre per un quiz, dividendo i 12 studenti in due squadre di sei. A condizione che nessuna coppia di gemelli sia nella stessa squadra:
-> 
-> (i) In quanti modi può dividerli in due squadre di sei persone?
-> 
-> (ii) In quanti modi può dividerli in due squadre di quattro persone?
+> Afrifan insegna a una classe di sei coppie di gemelli. Vuole formare le squadre per un quiz, dividendo i 12 studenti in due squadre di sei. Sotto la condizione che nessuna coppia di gemelli stia nella stessa squadra:
+>
+> (i) In quanti modi può dividerli in due squadre di sei?
+>
+> (ii) In quanti modi può dividerli in due squadre di quattro?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2006#q02|src_bmo1_2006__Q02]]
 
 
 
@@ -87,9 +101,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale ciclico: AC bisecta angolo DAB; mostra CE=CA se DE parallelo AB*
+*$CE = CA$ se e solo se $DE \parallel AB$*
 
-> Nel quadrilaterale ciclico $ABCD$, la diagonale $AC$ divide l'angolo $DAB$. Il lato $AD$ è esteso oltre $D$ fino a un punto $E$. Indicare che $CE = CA$ se e solo se $DE \parallel AB$.
+> Nel quadrilatero ciclico $ABCD$, la diagonale $AC$ biseca l'angolo $DAB$. Il lato $AD$ è prolungato oltre $D$ fino a un punto $E$. Dimostrare che $CE = CA$ se e solo se $DE \parallel AB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2006#q03|src_bmo1_2006__Q03]]
 
 
 
@@ -112,9 +133,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Correre il percorso sulla griglia triangolare equilaterale del lato N; trovare le cellule mass visitate*
+*Massimo numero di celle visitate in un triangolo equilatero di lato $N$*
 
-> Il triangolo equilaterale $ABC$ ha lunghezza laterale integrale $N$. Il triangolo è completamente diviso (disegnando linee parallele ai lati del triangolo) in celle triangolari equilaterali di lunghezza laterale 1. Si sceglie un percorso continuo, che inizia all'interno della cella con vertice $A$, e che passa sempre da una cella all'altra su un bordo condiviso dalle due celle. Nessuna cellula viene visitata più di una volta. Trova, con la prova, il maggior numero di celle che possono essere visitate.
+> Il triangolo equilatero $ABC$ ha lato intero $N$. Il triangolo è diviso completamente (tracciando rette parallele ai lati) in celle triangolari equilatere di lato 1. Si sceglie un percorso continuo, che parte dentro la cella con vertice $A$ e passa sempre da una cella a un'altra attraverso un lato comune. Nessuna cella è visitata più di una volta. Trovare, con dimostrazione, il massimo numero di celle che si possono visitare.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2006#q04|src_bmo1_2006__Q04]]
 
 
 
@@ -137,9 +165,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ogni linea attraverso X è quadrilaterale convexa se è un parallelo*
+*Un punto che biseca ogni retta esiste se e solo se $G$ è un parallelogramma*
 
-> Che $G$ sia un quadrilaterale convex. Indicare che vi è un punto $X$ nel piano di $G$ con la proprietà che ogni linea retta attraverso $X$ divide $G$ in due regioni di superficie uguale se e solo se $G$ è un parallelo.
+> Sia $G$ un quadrilatero convesso. Dimostrare che esiste un punto $X$ nel piano di $G$ tale che ogni retta per $X$ divide $G$ in due regioni di area uguale se e solo se $G$ è un parallelogramma.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2006#q05|src_bmo1_2006__Q05]]
 
 
 
@@ -162,6 +197,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2005 punti non tre collineari; i triangoli che contengono rigorosamente un dato punto sono pari*
+*Il numero di triangoli che contengono strettamente un punto dato è pari*
 
-> Il $T$ deve essere un insieme di punti coplanari del 2005 senza tre punti collineari. Mostrare che, per uno qualsiasi dei punti del 2005, il numero di triangoli formati dai restanti punti del 2004 all'interno dei quali si trova strettamente quel punto è pari.
+> Sia $T$ un insieme di 2005 punti complanari, di cui mai tre allineati. Dimostrare che, per ciascuno dei 2005 punti, il numero di triangoli formati dai restanti 2004 punti nel cui interno quel punto sta strettamente è pari.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2006#q06|src_bmo1_2006__Q06]]

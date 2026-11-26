@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca un numero intero a sei cifre con proprietà sui numeri e sui quadrati*
+*Intero di sei cifre $n$ quadrato, con le ultime tre cifre di uno maggiori delle prime tre*
 
-> Trova, mostrando il tuo metodo, un numero intero a sei cifre $n$ con le seguenti proprietà: (i) $n$ è un quadrato perfetto; (ii) il numero formato dalle ultime tre cifre di $n$ è esattamente uno maggiore del numero formato dalle prime tre cifre di $n$. (In questo modo $n$ potrebbe sembrare $121122$, anche se questo non è un quadrato.)
+> Trovare, mostrando il procedimento, un intero di sei cifre $n$ con le proprietà seguenti: (i) $n$ è un quadrato perfetto; (ii) il numero formato dalle ultime tre cifre di $n$ è esattamente di uno maggiore del numero formato dalle prime tre cifre di $n$. (Così $n$ potrebbe avere l'aspetto di $121122$, benché questo non sia un quadrato.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_1993#q01|src_bmo1_1993__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Papero quadrato tagliato in due coppie di triangoli congruenti, trovare il triangolo di divisione segmento più breve*
+*Segmento più corto che divide il triangolo $ABC$ in due parti congruenti*
 
-> Un pezzo quadrato di carta $ABCD$ di lunghezza laterale 2 e centro $O$ viene tagliato a metà per formare due pezzi uguali $ABC$ e $CDA$. Se il triangolo $ABC$ dovesse essere tagliato in due parti che sarebbero anche congruenti tra loro, si taglierebbe naturalmente lungo la linea di simmetria $BO$. Tuttavia, ci sono altri modi di farlo. Trova, con giustificazione, la lunghezza e la posizione del segmento più corto su cui divide il triangolo $ABC$ in due parti congruenti.
+> Un foglio quadrato di carta $ABCD$, di lato 2 e centro $O$, viene tagliato a metà in due pezzi uguali $ABC$ e $CDA$. Se il triangolo $ABC$ va tagliato in due parti congruenti tra loro, si taglierebbe naturalmente lungo l'asse di simmetria $BO$. Ci sono però altri modi di farlo. Trovare, con giustificazione, la lunghezza e la posizione del segmento più corto che divide il triangolo $ABC$ in due parti congruenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_1993#q02|src_bmo1_1993__Q02]]
 
 
 
@@ -83,11 +97,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza definita da recidiva; trovare quali valori c rendono tutti i termini interi*
+*Valori di $c$ per cui la successione $u_n$ è intera per ogni $n$*
 
-> Per ogni numero intero positivo $c$, la sequenza $u_n$ di numeri interi è definita da $$u_1 = 1,\quad u_2 = c,\quad u_n = (2n-3)u_{n-1} - (n-3)u_{n-2} \quad (n \ge 3).$$ Per quali valori di $c$ è vero che $u_n$ è un numero intero per tutti $n \in \mathbb{Z}^+$?
-> 
-> (Nota: se $x$ e $y$ sono numeri interi, allora $x$ divide $y$ se e solo se esiste un numero intero $z$ tale da $y = xz$. Per esempio, $4$ divide $-12$, poiché possiamo prendere $z = -3$.)
+> Per ogni intero positivo $c$, la successione di interi $u_n$ è definita da
+> $$u_1 = 1,\quad u_2 = c,\quad u_n = (2n-3)u_{n-1} - (n-3)u_{n-2} \quad (n \ge 3).$$
+> Per quali valori di $c$ accade che $u_n$ sia un intero per ogni $n \in \mathbb{Z}^+$?
+>
+> (Nota: se $x$ e $y$ sono interi, allora $x$ divide $y$ se e solo se esiste un intero $z$ tale che $y = xz$. Per esempio, $4$ divide $-12$, poiché si può prendere $z = -3$.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_1993#q03|src_bmo1_1993__Q03]]
 
 
 
@@ -110,9 +133,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi si toccano internamente; una linea retta tocca il cerchio interno e taglia il cerchio esterno*
+*Dimostrare che $\angle QMP = \angle RMP$ per due circonferenze tangenti internamente*
 
-> Due cerchi si toccano internamente a $M$. Una linea retta tocca il cerchio interno a $P$ e taglia il cerchio esterno a $Q$ e $R$. Prove che $\angle QMP = \angle RMP$.
+> Due circonferenze sono tangenti internamente in $M$. Una retta è tangente alla circonferenza interna in $P$ e seca la circonferenza esterna in $Q$ e in $R$. Dimostrare che $\angle QMP = \angle RMP$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_1993#q04|src_bmo1_1993__Q04]]
 
 
 
@@ -137,6 +167,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'intervallo di c per i reali positivi che soddisfano una disuguaglianza ciclica*
+*Insieme dei valori di due rapporti sotto un vincolo su $x/(x+y+z)$*
 
-> Che $x$, $y$, $z$ siano numeri reali positivi che soddisfino $$\frac{1}{3} \le \frac{x}{x+y+z} \le \frac{1}{2}.$$ Determinare l'intervallo dei valori per (i) $\frac{y}{x+y+z}$ e (ii) $\frac{x+y}{x+y+z}$.
+> Siano $x$, $y$, $z$ numeri reali positivi tali che
+> $$\frac{1}{3} \le \frac{x}{x+y+z} \le \frac{1}{2}.$$
+> Determinare l'insieme dei valori di (i) $\frac{y}{x+y+z}$ e di (ii) $\frac{x+y}{x+y+z}$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_1993#q05|src_bmo1_1993__Q05]]

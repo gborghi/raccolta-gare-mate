@@ -31,9 +31,18 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fine molti tripli numeri interi positivi che soddisfano abc=2009(a+b+c).*
+*Un numero finito di terne di interi positivi tali che abc=2009(a+b+c).*
 
-> Mostrare che ci sono solo infinitamente molti triples $(a, b, c)$ di numeri interi positivi che soddisfano l'equazione $abc = 2009(a + b + c)$. (Posato da Ieng Tak Leong)
+> Dimostrare che esistono solo un numero finito di triple $(a, b, c)$ di interi positivi che soddisfano l'equazione $abc = 2009(a + b + c)$. (Proposto da Ieng Tak Leong)
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cgmo_2009#q01|src_cn_cgmo_2009__Q01]]
 
 
 
@@ -60,11 +69,20 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo retto inciso in cerchio, punto E in arco, punto F nel raggio EC, BF incontra il cerchio a D, circondamento O del centro di DEF; dimostrare A,C,O collineare.*
+*Triangolo rettangolo inscritto in una circonferenza, punto E sull'arco, punto F sul raggio EC, BF incontra la circonferenza in D, centro circoscritto O del triangolo DEF; dimostrare che A, C, O sono allineati.*
 
-> Un triangolo rettangolo $ABC$, con $\angle BAC = 90^\circ$, è inserito nel cerchio $\Gamma$. Il punto $E$ si trova all'interno dell'arco $\overarc{BC}$ (non contenente $A$), con $EA > EC$. Il punto $F$ si trova sul raggio $EC$ con $\angle EAC = \angle CAF$. Il segmento $BF$ incontra di nuovo $\Gamma$ a $D$ (diverso da $B$). $O$ indichi il centro circondario del triangolo $DEF$. Provare che i punti $A$, $C$, $O$ sono collineari. (Possibile da Bian Hongping)
+> Un triangolo rettangolo $ABC$, con $\angle BAC = 90^\circ$, è inscritto nella circonferenza $\Gamma$. Il punto $E$ giace nell'interno dell'arco $\overarc{BC}$ (che non contiene $A$), con $EA > EC$. Il punto $F$ giace sul semiretta $EC$, con $\angle EAC = \angle CAF$. Il segmento $BF$ incontra nuovamente $\Gamma$ in $D$ (diverso da $B$). Sia $O$ il circocentro del triangolo $DEF$. Dimostrare che i punti $A$, $C$, $O$ sono allineati. (Proposto da Bian Hongping)
 
 ![[src_cn_cgmo_2009__q02.png]]
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cgmo_2009#q02|src_cn_cgmo_2009__Q02]]
 
 
 
@@ -93,9 +111,22 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dati n punti sugli assi di coordinate con coordinate interi dilimitate da n, ridurre al minimo la somma ciclica delle distanze quadrate tra punti consecutivi.*
+*Dati n punti sugli assi coordinati con coordinate intere limitate da n, minimizzare la somma ciclica dei quadrati delle distanze tra punti consecutivi.*
 
-> $n$ sia un dato intero positivo. Nel piano delle coordinate, considera l'insieme dei punti $$\{P_0, P_1, \ldots, P_n\} = \{(x, y) \mid x \text{ and } y \text{ are integers with } xy = 0, |x| \le n, |y| \le n\}.$$ Determina il valore minimo di $$(P_0 P_1)^2 + (P_1 P_2)^2 + \cdots + (P_{n-1} P_n)^2 + (P_n P_0)^2.$$ (Posizionato da Wang Xinmiao)
+> Sia $n$ un intero positivo dato. Nel piano cartesiano, si consideri l'insieme dei punti
+> $$\{P_0, P_1, \ldots, P_n\} = \{(x, y) \mid x \text{ and } y \text{ are integers with } xy = 0, |x| \le n, |y| \le n\}.$$
+> Determinare il valore minimo di
+> $$(P_0 P_1)^2 + (P_1 P_2)^2 + \cdots + (P_{n-1} P_n)^2 + (P_n P_0)^2.$$
+> (Proposto da Wang Xinmiao)
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_cn_cgmo_2009#q03|src_cn_cgmo_2009__Q03]]
 
 
 
@@ -121,11 +152,18 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piani d' scacchi su n punti collegati da segmenti; si muove verso vicini senza scambi; trova il numero minimo di segmenti in un insieme armonico.*
+*Pezzi degli scacchi su n punti collegati da segmenti; mosse verso i vicini senza scambi; trovare il numero minimo di segmenti in un insieme armonico.*
 
-> $n$ sia un numero intero superiore a 3. I punti $V_1, V_2, \ldots, V_n$, senza tre collineari, si trovano sul piano. Alcuni segmenti $V_i V_j$ con $1 \le i < j \le n$ sono costruiti. I punti $V_i$ e $V_j$ sono vicini se $V_i V_j$ è costruito. Inizialmente, i pezzi d' scacchi $C_1, C_2, \ldots, C_n$ sono posizionati nei punti $V_1, V_2, \ldots, V_n$ (non necessariamente in tale ordine), con esattamente un pezzo ad ogni punto. In una mossa, si possono scegliere alcuni dei pezzi di scacchi e trasferire simultaneamente ciascuno di essi in una delle sue posizioni vicine in modo tale che dopo la mossa, esattamente un pezzo di scacchi è in ogni punto e nessuna due pezzi di scacchi hanno scambiato le loro posizioni. Un insieme di segmenti costruiti è chiamato armonico se per qualsiasi posizione iniziale dei pezzi d' scacchi ogni pezzo d' scacchi $C_i$ $(1 \le i \le n)$ si trova al punto $V_i$ dopo un numero finito di mosse. Determinare il numero minimo di segmenti in un insieme armonico. (Posato da Fu Yunhao)
+> Sia $n$ un numero intero maggiore di 3. I punti $V_1, V_2, \ldots, V_n$, nessun tre dei quali sono allineati, giacciono sul piano. Alcuni dei segmenti $V_i V_j$, con $1 \le i < j \le n$, vengono costruiti. I punti $V_i$ e $V_j$ sono vicini se $V_i V_j$ è costruito. Inizialmente, i pezzi degli scacchi $C_1, C_2, \ldots, C_n$ vengono collocati nei punti $V_1, V_2, \ldots, V_n$ (non necessariamente in quell'ordine), con esattamente un pezzo in ciascun punto. In una mossa, si possono scegliere alcuni dei pezzi degli scacchi e spostare simultaneamente ciascuno di essi in una delle sue posizioni vicine, in modo che, dopo la mossa, in ciascun punto ci sia esattamente un pezzo degli scacchi e nessun paio di pezzi degli scacchi abbia scambiato le proprie posizioni. Un insieme di segmenti costruiti si dice armonico se, per qualsiasi disposizione iniziale dei pezzi degli scacchi, ciascun pezzo degli scacchi $C_i$ $(1 \le i \le n)$ si trova nel punto $V_i$ dopo un numero finito di mosse. Determinare il numero minimo di segmenti in un insieme armonico. (Proposto da Fu Yunhao)
 
-**Risposta:** La risposta è $n - 1$.
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cgmo_2009#q04|src_cn_cgmo_2009__Q04]]
 
 
 
@@ -152,9 +190,20 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove una disuguaglianza del prodotto triplo per i numeri reali x,y,z >= 1.*
+*Dimostrare una disuguaglianza sul prodotto triplo per i numeri reali x,y,z >= 1.*
 
-> I numeri $x$, $y$, $z$ siano numeri reali superiori o uguali a $1$. Prove che $$(x^2 - 2x + 2)(y^2 - 2y + 2)(z^2 - 2z + 2) \le (xyz)^2 - 2xyz + 2.$$ (Posato da Xiong Bin)
+> Siano $x$, $y$, $z$ numeri reali maggiori o uguali a $1$. Dimostrare che
+> $$(x^2 - 2x + 2)(y^2 - 2y + 2)(z^2 - 2z + 2) \le (xyz)^2 - 2xyz + 2.$$
+> (Proposto da Xiong Bin)
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cgmo_2009#q05|src_cn_cgmo_2009__Q05]]
 
 
 
@@ -181,11 +230,20 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo interamente tangente ad un altro, tangente di corda a C, punto medio M di arco, piede N di perpendicolare; prova AC×CB = 2r×MN.*
+*Cerchio internamente tangente a un altro cerchio, corda tangente in C, punto medio M dell'arco, piede N della perpendicolare; dimostrare che AC·CB = 2r·MN.*
 
-> Il cerchio $\Gamma_1$, con raggio $r_1$, è tangente internamente al cerchio $\Gamma_2$ a $S$. L'accordo $AB$ di $\Gamma_2$ è tangente a $\Gamma_1$ a $C$. Il $M$ deve essere il punto medio dell'arco $\overarc{AB}$ (non contenente $S$), e il $N$ deve essere il piede della perpendicolare da $M$ alla linea $AB$. Prove che $AC \cdot CB = 2 r_1 \cdot MN$. (Posato da Ye Zhonghao)
+> Il cerchio $\Gamma_1$, di raggio $r_1$, è tangente internamente al cerchio $\Gamma_2$ nel punto $S$. La corda $AB$ del cerchio $\Gamma_2$ è tangente al cerchio $\Gamma_1$ nel punto $C$. Sia $M$ il punto medio dell'arco $\overarc{AB}$ (che non contiene $S$), e sia $N$ il piede della perpendicolare condotta da $M$ alla retta $AB$. Dimostrare che $AC \cdot CB = 2 r_1 \cdot MN$. (Proposto da Ye Zhonghao)
 
 ![[src_cn_cgmo_2009__q06.png]]
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cgmo_2009#q06|src_cn_cgmo_2009__Q06]]
 
 
 
@@ -213,13 +271,20 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Regione di 4n quadrati su una tavola da 10x10 a piastrellare da n pezzi da 1x4 e da n pezzi da 2x2; minimizzare n per la piastrellare da una data combinazione.*
+*Regione di 4n quadrati su una scacchiera 10x10, ricopribile con n tessere 1x4 e n tessere 2x2; minimizzare n per il ricoprimento con la combinazione data.*
 
-> Su una scacchiera $10 \times 10$, alcuni campi quadrati unitari $4n$ vengono scelti per formare una regione $R$. Questa regione $R$ può essere contrassegnata da $n$ $1 \times 4$ pezzi e anche da $n$ $2 \times 2$ pezzi. Se $R$ può essere incollato anche con una combinazione di pezzi $n$ dei seguenti tipi di forme (con rotazioni consentite), determinare il valore minimo di $n$. (Posato da Zhu Huawei)
+> Su una scacchiera $10 \times 10$, alcuni campi quadrati unitari $4n$ vengono scelti per formare una regione $R$. Questa regione $R$ può essere ricoperta con pezzi $n$ $1 \times 4$ e anche con pezzi $n$ $2 \times 2$. Se $R$ può essere ricoperta anche mediante una combinazione di pezzi $n$ di i seguenti tipi di forma (sono ammesse le rotazioni), determinare il valore minimo di $n$. (Proposto da Zhu Huawei)
 
 ![[src_cn_cgmo_2009__q07.png]]
 
-**Risposta:** La risposta è $n = 4$.
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cgmo_2009#q07|src_cn_cgmo_2009__Q07]]
 
 
 
@@ -245,8 +310,15 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza a_n = n×sqrt5 - piano(n×sqrt5); calcolo max e min su a_1..a_2009.*
+*Sia la successione a_n = n*sqrt5 - floor(n*sqrt5); calcola il massimo e il minimo per a_1..a_2009.*
 
-> Per un intero positivo $n$, $a_n = n\sqrt{5} - \lfloor n\sqrt{5} \rfloor$. Calcolare il valore massimo e il valore minimo di $a_1, a_2, \ldots, a_{2009}$. (Per il numero reale $x$, $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$.) (Posizionato da Wang Zhixiong)
+> Per gli interi positivi $n$, $a_n = n\sqrt{5} - \lfloor n\sqrt{5} \rfloor$. Calcolare il valore massimo e il valore minimo di $a_1, a_2, \ldots, a_{2009}$. (Per il numero reale $x$, $\lfloor x \rfloor$ denota il maggiore intero minore o uguale a $x$.) (Proposto da Wang Zhixiong)
 
-**Risposta:** $a_{1292}$ è il massimo e $a_{1597}$ il minimo.
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cgmo_2009#q08|src_cn_cgmo_2009__Q08]]

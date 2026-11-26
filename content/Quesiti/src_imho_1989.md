@@ -33,13 +33,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Suddividere {1,...,1989} in 117 sottoinsiemi disgiunti da 17 elementi ciascuno con la stessa somma*
+*Partiziona l'insieme {1,...,1989} in 117 sottoinsiemi di 17 elementi, ciascuno con la stessa somma*
 
-> Si dimostri che l'insieme $\{1, 2, \ldots, 1989\}$ può essere espresso come unione disgiunta di sottoinsiemi $A_i$ ($i = 1, 2, \ldots, 117$) tali che:
-> 
+> Dimostrare che l'insieme $\{1, 2, \ldots, 1989\}$ può essere espresso come unione disgiunta di sottoinsiemi $A_i$ ($i = 1, 2, \ldots, 117$) tali che:
+>
 > (i) Ogni $A_i$ contiene 17 elementi;
-> 
-> (ii) La somma di tutti gli elementi in ciascun $A_i$ è la stessa.
+>
+> (ii) La somma di tutti gli elementi in ogni $A_i$ è la stessa.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|method_casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1989#q01|src_imho_1989__Q01]]
 
 
 
@@ -66,13 +73,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bisettrici del triangolo, punti sulla circonferenza circoscritta, relazioni tra aree*
+*Bisettrici dei triangoli, punti della circonferenza circoscritta, relazioni tra le aree*
 
-> In un triangolo acutangolo $ABC$ la bisettrice interna dell'angolo $A$ incontra nuovamente la circonferenza circoscritta del triangolo nel punto $A_1$. I punti $B_1$ e $C_1$ sono definiti analogamente. Sia $A_0$ il punto di intersezione della retta $AA_1$ con le bisettrici esterne degli angoli $B$ e $C$. I punti $B_0$ e $C_0$ sono definiti analogamente. Si dimostri che:
-> 
+> In un triangolo acutangolo $ABC$, la bisettrice interna dell'angolo $A$ incontra nuovamente la circonferenza circoscritta al triangolo nel punto $A_1$. I punti $B_1$ e $C_1$ sono definiti in modo analogo. Sia $A_0$ il punto di intersezione della retta $AA_1$ con le bisettrici esterne degli angoli $B$ e $C$. I punti $B_0$ e $C_0$ sono definiti in modo analogo. Dimostrare che:
+>
 > (i) L'area del triangolo $A_0B_0C_0$ è il doppio dell'area dell'esagono $AC_1BA_1CB_1$.
-> 
+>
 > (ii) L'area del triangolo $A_0B_0C_0$ è almeno quattro volte l'area del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1989#q02|src_imho_1989__Q02]]
 
 
 
@@ -102,16 +116,23 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Insieme di punti con condizione di equidistanza implica k < 1/2 + sqrt(2n)*
+*Il insieme di punti con condizione di equidistanza implica k < 1/2 + sqrt(2n)*
 
-> Siano $n$ e $k$ numeri interi positivi e sia $S$ un insieme di $n$ punti nel piano tali che
-> 
-> (i) Nessuni tre punti di $S$ sono allineati, e
-> 
-> (ii) Per ogni punto $P$ di $S$ esistono almeno $k$ punti di $S$ equidistanti da $P$.
-> 
-> Si dimostri che:
+> Siano $n$ e $k$ numeri interi positivi, e sia $S$ un insieme di $n$ punti nel piano tale che
+>
+> (i) Nessun terno di punti di $S$ è allineato, e
+>
+> (ii) Per ogni punto $P$ di $S$, esistono almeno $k$ punti di $S$ equidistanti da $P$.
+>
+> Dimostrare che:
 > $$k < \frac{1}{2} + \sqrt{2n}.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imho_1989#q03|src_imho_1989__Q03]]
 
 
 
@@ -135,10 +156,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero convesso con punto particolare implica la disuguaglianza 1/sqrt(h) >= 1/sqrt(AD)+1/sqrt(BC)*
+*Un quadrilatero convesso con un punto speciale porta all'ineguaglianza 1/sqrt(h) >= 1/sqrt(AD)+1/sqrt(BC)*
 
-> Sia $ABCD$ un quadrilatero convesso tale che i lati $AB$, $AD$, $BC$ soddisfino $AB = AD + BC$. Esiste un punto $P$ interno al quadrilatero, distante $h$ dalla retta $CD$, tale che $AP = h + AD$ e $BP = h + BC$. Si dimostri che:
+> Sia $ABCD$ un quadrilatero convesso tale che i lati $AB$, $AD$, $BC$ soddisfano $AB = AD + BC$. Esiste un punto $P$ all'interno del quadrilatero, a distanza $h$ dalla retta $CD$, tale che $AP = h + AD$ e $BP = h + BC$. Dimostrare che:
 > $$\frac{1}{\sqrt{h}} \ge \frac{1}{\sqrt{AD}} + \frac{1}{\sqrt{BC}}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1989#q04|src_imho_1989__Q04]]
 
 
 
@@ -161,9 +189,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per ogni n, determinare n interi consecutivi nessuno dei quali sia una potenza di un numero primo*
+*Per ogni n, trova n interi consecutivi, nessuno dei quali sia una potenza di un numero primo*
 
-> Si dimostri che per ogni intero positivo $n$ esistono $n$ numeri interi positivi consecutivi, dei quali nessuno è una potenza intera di un numero primo.
+> Dimostrare che, per ogni numero intero positivo $n$, esistono $n$ numeri interi positivi consecutivi, nessuno dei quali è una potenza intera di un numero primo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|method_casework]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1989#q05|src_imho_1989__Q05]]
 
 
 
@@ -186,6 +221,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le permutazioni di {1,...,2n} con proprietà P superano quelle senza*
+*Le permutazioni di {1,...,2n} che godono della proprietà P sono più numerose di quelle che non la possiedono*
 
-> Una permutazione $(x_1, x_2, \ldots, x_{2n})$ dell'insieme $\{1, 2, \ldots, 2n\}$, dove $n$ è un intero positivo, si dice avere la proprietà $P$ se $|x_i - x_{i+1}| = n$ per almeno un $i$ in $\{1, 2, \ldots, 2n-1\}$. Si dimostri che, per ogni $n$, esistono più permutazioni con la proprietà $P$ che senza.
+> Una permutazione $(x_1, x_2, \ldots, x_{2n})$ dell'insieme $\{1, 2, \ldots, 2n\}$, dove $n$ è un intero positivo, si dice avere la proprietà $P$ se $|x_i - x_{i+1}| = n$ per almeno un $i$ in $\{1, 2, \ldots, 2n-1\}$. Dimostrare che, per ogni $n$, ci sono più permutazioni con la proprietà $P$ che senza.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_bigezione|Biiezione]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1989#q06|src_imho_1989__Q06]]

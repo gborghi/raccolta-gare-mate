@@ -29,9 +29,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca un triangolo con altitudine che incontra BC ad angolo retto*
+*Trovare il triangolo con altezza che incontra BC ad angolo retto*
 
-> Trovare tutti i triangoli $ABC$ per i quali $AB + AC = 2$ cm, $AD + BC = \sqrt{5}$ cm, dove $AD$ è l'altitudine attraverso $A$, incontrando $BC$ ad angolazioni rette in $D$.
+> Dimostrare che trovare tutti i triangoli $ABC$ per i quali $AB + AC = 2$ cm, $AD + BC = \sqrt{5}$ cm, dove $AD$ è l'altezza condotta da $A$, che incontra $BC$ ad angolo retto in $D$.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1979#q01|src_bmo1_1979__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca punti unici sui raggi in modo che tre triangoli condividano perimetro 2s*
+*Trovare punti unici sui raggi affinché tre triangoli abbiano lo stesso perimetro 2s*
 
-> Da un punto $O$ nello spazio 3D emergono tre raggi $OA$, $OB$, $OC$, gli angoli $BOC$, $COA$, $AOB$ sono $\alpha$, $\beta$ e $\gamma$ rispettivamente. $0 < \alpha, \beta, \gamma < \pi$. Prove che, data la $2s > 0$, ci sono punti unici $X$, $Y$, $Z$ su $OA$, $OB$, $OC$ rispettivamente in modo tale che i triangoli $YOZ$, $ZOX$ e $XOY$ abbiano tutti lo stesso perimetro $2s$, ed esprimere $OX$ in termini di $s$ e $\sin\alpha$, $\sin\beta$, $\sin\gamma$.
+> Da un punto $O$ dello spazio tridimensionale emergono tre raggi $OA$, $OB$, $OC$, gli angoli $BOC$, $COA$, $AOB$ essendo rispettivamente $\alpha$, $\beta$, $\gamma$. $0 < \alpha, \beta, \gamma < \pi$. Dimostrare che, dato $2s > 0$, esistono punti unici $X$, $Y$, $Z$ rispettivamente su $OA$, $OB$, $OC$ tali che i triangoli $YOZ$, $ZOX$ e $XOY$ abbiano tutti lo stesso perimetro $2s$, ed esprimere $OX$ in funzione di $s$ e di $\sin\alpha$, $\sin\beta$, $\sin\gamma$.
+
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1979#q02|src_bmo1_1979__Q02]]
 
 
 
@@ -79,9 +91,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa disuguaglianza per insieme di diversi numeri interi unici positivi con differenze distinte*
+*Disuguaglianza di somma per un insieme di interi dispari positivi distinti con differenze distinte*
 
-> $S$ è un insieme di integri unici positivi distinti $\{a_i\}$, $i = 1$ a $n$. Nessuna differenza $|a_i - a_j|$ è uguale, $1 \le i < j \le n$. Provare che $$\sum_{i=1}^{n} a_i \ge \frac{1}{3}n(n^2+2).$$
+> $S$ è un insieme di interi dispari positivi distinti $\{a_i\}$, $i = 1$ a $n$. Nessuna due differenze $|a_i - a_j|$ sono uguali, $1 \le i < j \le n$. Dimostrare che
+> $$\sum_{i=1}^{n} a_i \ge \frac{1}{3}n(n^2+2).$$
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_bmo1_1979#q03|src_bmo1_1979__Q03]]
 
 
 
@@ -104,9 +123,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale razionale implica che f è costante*
+*Equazione funzionale razionale che implica che f è costante*
 
-> La funzione $f$ è definita sui numeri razionali e assume solo valori razionali. Per tutte le $x$ e $y$ razionali, $$f(x + f(y)) = f(x) \cdot f(y).$$ dimostri che $f$ è coerente.
+> La funzione $f$ è definita sui numeri razionali e assume solo valori razionali. Per tutti i razionali $x$ e $y$,
+> $$f(x + f(y)) = f(x) \cdot f(y).$$
+> Dimostrare che $f$ è costante.
+
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1979#q04|src_bmo1_1979__Q04]]
 
 
 
@@ -129,9 +156,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La funzione di partizione soddisfa l'ineguaglianza di convexità p(n+1)-2p(n)+p(n-1)>=0*
+*La funzione di partizione soddisfa l'ineguaglianza di convessità p(n+1)-2p(n)+p(n-1)>=0*
 
-> Per $m$ un intero positivo indica con $p(m)$ il numero di modi di esprimere $m$ come la somma di uno o più interi positivi. Quindi $p(4) = 5$, perché ci sono 5 modi diversi, cioè $1+1+1+1$, $1+1+2$, $1+3$, $2+2$, $4$. Prova che per $n > 1$, $$p(n+1) - 2p(n) + p(n-1) \ge 0.$$
+> Per $m$ intero positivo, sia $p(m)$ il numero di modi di esprimere $m$ come somma di uno o più interi positivi. Così $p(4) = 5$, perché ci sono 5 modi diversi, vale a dire $1+1+1+1$, $1+1+2$, $1+3$, $2+2$, $4$. Dimostrare che per $n > 1$,
+> $$p(n+1) - 2p(n) + p(n-1) \ge 0.$$
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_bmo1_1979#q05|src_bmo1_1979__Q05]]
 
 
 
@@ -154,6 +188,12 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Non esiste un primo in sequenza formato con l'aggiunta ripetuta di 0001*
+*Nessun numero primo nella sequenza formata dall'aggiunta ripetuta di 0001*
 
-> Prova che nella sequenza infinita di enti $10001$, $100010001$, $1000100010001$, $\ldots$ non vi è un numero primo. Si noti che ogni numero intero dopo il primo (dieci mila e uno) viene ottenuto adiacendo $0001$ ai numeri del numero intero precedente.
+> Dimostrare che nella sequenza infinita di interi $10001$, $100010001$, $1000100010001$, $\ldots$ non vi è alcun numero primo. Si noti che ogni intero dopo il primo (diecimila e uno) si ottiene accostando $0001$ alle cifre dell'intero precedente.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1979#q06|src_bmo1_1979__Q06]]

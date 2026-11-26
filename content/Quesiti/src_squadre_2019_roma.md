@@ -24,19 +24,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0036
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Anagrams of MATEMATICO starting with MATTO, ending in two vowels*
+*How many anagrams of MATEMATICO start with MATTO and have last d…*
 
 ![[src_squadre_2019_roma__prob1.png]]
 
-> How many anagrams of MATEMATICO begin with MATTO and have vowels as their last two letters?
+> How many anagrams of MATEMATICO start with MATTO and have vowels as their last two letters?
 
-**Answer:** 0036
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2019_roma#q01|src_squadre_2019_roma__Q01]]
 
 
 
@@ -54,19 +57,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3333
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the anagrams of 1126*
+*Adding up all the numbers obtained by anagramming the digits of 1126 (including 1126) s…*
 
 ![[src_squadre_2019_roma__prob2.png]]
 
-> Adding up all the numbers obtained by rearranging the digits of 1126 (including 1126) one obtains the value S. What is S/10?
+> Adding all the numbers obtained by anagramming the digits of 1126 (including 1126) gives the value S. What is the value of S/10?
 
-**Answer:** 3333
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2019_roma#q02|src_squadre_2019_roma__Q02]]
 
 
 
@@ -85,19 +91,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0484
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trapezoid split by its diagonals: largest part*
+*By drawing one of the two diagonals of a trapezoid, the trapezoid remains divided into two p…*
 
 ![[src_squadre_2019_roma__prob3.png]]
 
-> Drawing one of the two diagonals of a trapezoid, it is divided into two parts of area 946 and 903. Drawing the other diagonal too, the parts become 4. What is the area of the largest of the four parts?
+> When one of the two diagonals of a trapezoid is drawn, the trapezoid is divided into two parts with areas 946 and 903. When the other diagonal is also drawn, the trapezoid is divided into 4 parts. What is the area of the largest of the four parts?
 
-**Answer:** 0484
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2019_roma#q03|src_squadre_2019_roma__Q03]]
 
 
 
@@ -115,19 +124,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1024
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximal (unitary) divisors of 30!*
+*Among all the divisors of a natural number N, we call maximal divisors those…*
 
 ![[src_squadre_2019_roma__prob4.png]]
 
-> Among all the divisors of a natural number N, we call maximal divisors those divisors d for which d and N/d have greatest common divisor 1. In particular, 1 and N are also maximal divisors of N. Say how many maximal divisors 30! has, that is, 30 · 29 · 28 · . . . · 3 · 2 · 1.
+> Among all divisors of a natural number N, we call maximal divisors those divisors d for which d and N/d have a greatest common divisor of 1. In particular, 1 and N are also maximal divisors of N. State how many maximal divisors 30! has—that is, 30 · 29 · 28 · ... · 3 · 2 · 1.
 
-**Answer:** 1024
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2019_roma#q04|src_squadre_2019_roma__Q04]]
 
 
 
@@ -145,19 +157,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0144
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of distances from P to the faces of a square pyramid*
+*Consider the pyramid ABCDV with base ABCD, a square of side AB = 90 cm, and vertex…*
 
 ![[src_squadre_2019_roma__prob5.png]]
 
-> Consider the pyramid ABCDV with base ABCD, a square of side AB = 90 cm, and apex V, with VA = VB = VC = VD = √7650 cm. Let P be the point on face ABCD that is 20 cm from side AB and 40 cm from side BC. What is the sum of the distances (in cm) of the point P from the planes containing the faces of the pyramid?
+> Consider the pyramid ABCDV with base ABCD, a square of side AB = 90 cm, and vertex V, where VA = VB = VC = VD = √7650 cm. Let P be the point on face ABCD that is 20 cm from side AB and 40 cm from side BC. What is the sum (in cm) of the distances from point P to the planes containing the faces of the pyramid?
 
-**Answer:** 0144
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2019_roma#q05|src_squadre_2019_roma__Q05]]
 
 
 
@@ -178,19 +193,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1352
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Right triangle with perpendicular medians: areas on the circumcircle*
+*Let ABC be a right-angled triangle at A, with one leg measuring 6 and with the medians rel…*
 
 ![[src_squadre_2019_roma__prob6.png]]
 
-> Let ABC be a triangle right-angled at A, with one leg of length 6 and with the medians relative to the other two sides perpendicular to each other. The medians from A, B and C respectively, when extended, meet the circle circumscribed about ABC at L, M and N. Compute the square of the sum of the areas of triangles ABN, BCL and CAM.
+> Let ABC be a right-angled triangle at A, with one leg of length 6 and with the medians corresponding to the other two sides being perpendicular to each other. The medians emanating from A, B, and C respectively, when extended, intersect the circumcircle of ABC at L, M, and N. Calculate the square of the sum of the areas of triangles ABN, BCL, and CAM.
 
-**Answer:** 1352
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2019_roma#q06|src_squadre_2019_roma__Q06]]
 
 
 
@@ -209,19 +227,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0003
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the real roots of a sextic*
+*Find the sum of the real solutions of the equation: x^6 + 661x^4 − 2019x^3 −…*
 
 ![[src_squadre_2019_roma__prob7.png]]
 
 > Find the sum of the real solutions of the equation: x^6 + 661x^4 − 2019x^3 − 661x^2 − 1 = 0
 
-**Answer:** 0003
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2019_roma#q07|src_squadre_2019_roma__Q07]]
 
 
 
@@ -240,19 +261,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0144
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest n with d(n^2) = 3 d(n)*
+*Find, if it exists, the smallest positive integer n such that the number of its…*
 
 ![[src_squadre_2019_roma__prob8.png]]
 
-> Find, if it exists, the smallest positive integer n such that its number of divisors is one third of the number of divisors of n^2. If it did not exist, give 0 as the answer. (Remember that 1 and the number itself are also counted among the divisors of a number)
+> If it exists, find the smallest positive integer n such that the number of its divisors is one third of the number of divisors of n^2. If none exists, output 0. (Remember that 1 and the number itself should also be counted among the divisors of a number.)
 
-**Answer:** 0144
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2019_roma#q08|src_squadre_2019_roma__Q08]]
 
 
 
@@ -270,19 +294,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0038
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Orthic triangle: angle QPR when ∠BAC = 71°*
+*In the acute-angled triangle ABC, the altitudes AP, BQ, and CR are drawn. If ∠BAC = 71°, what is the measure of ∠QPR in degrees?…*
 
 ![[src_squadre_2019_roma__prob9.png]]
 
-> In the acute-angled triangle ABC the altitudes AP, BQ and CR are drawn. If ∠BAC = 71°, what is, in degrees, ∠QPR? (If you think the data are insufficient, give 0 as the answer)
+> In the acute-angled triangle ABC, the altitudes AP, BQ, and CR are drawn. If ∠BAC = 71°, what is the measure of ∠QPR in degrees? (If you believe the given data are insufficient, give 0 as the answer.)
 
-**Answer:** 0038
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2019_roma#q09|src_squadre_2019_roma__Q09]]
 
 
 
@@ -301,19 +328,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3059
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Average minimum of the subsets of {1,…,10}*
+*The mean of the minimum values of the non-empty subsets of the set {1, 2, 3, 4,…*
 
 ![[src_squadre_2019_roma__prob10.png]]
 
-> The average of the minimum values of the non-empty subsets of the set {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} is a rational number. What is the sum of the numerator and denominator of this fraction in lowest terms?
+> The mean of the minimum values of the non-empty subsets of the set {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} is a rational number. What is the sum of the numerator and the denominator of this fraction reduced to lowest terms?
 
-**Answer:** 3059
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2019_roma#q10|src_squadre_2019_roma__Q10]]
 
 
 
@@ -331,19 +361,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 9708
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Iterating f(x) = (252 + |x − 97| − |x − 349|)/2*
+*Data f(x) = (252 + |x − 97| − |x − 349|)/2, state how many positive integer solutions the equation f(f(f(f(x)))) = 0 has…*
 
 ![[src_squadre_2019_roma__prob11.png]]
 
-> Given f(x) = (252 + |x − 97| − |x − 349|)/2, say how many positive integer solutions of the equation f(f(f(f(x)))) = 0 have fewer than 5 digits and do not satisfy the equation f(f(f(x))) = 0.
+> Data f(x) = (252 + |x − 97| − |x − 349|)/2: state how many positive integer solutions of the equation f(f(f(f(x)))) = 0 have fewer than 5 digits and do not satisfy the equation f(f(f(x))) = 0.
 
-**Answer:** 9708
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2019_roma#q11|src_squadre_2019_roma__Q11]]
 
 
 
@@ -362,20 +395,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1728
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tiling a 23-cell grid with monominoes and dominoes*
+*The grid in the figure consists of 23 1 × 1 cells and is completely covered…*
 
 ![[src_squadre_2019_roma__prob12.png]]
 
-> The grid in the figure consists of 23 cells 1 × 1 and is completely covered, without overlaps, using tiles 1 × 1, 2 × 1 and 1 × 2. In how many different ways can this be done? (give as the answer the last 4 digits of the result)
-> figure 1
+> The grid in the figure consists of 23 1 × 1 cells and is completely covered, without overlaps, using 1 × 1, 2 × 1, and 1 × 2 tiles. In how many different ways can this be done? (State the last 4 digits of the result as the answer) Figure 1
 
-**Answer:** 1728
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2019_roma#q12|src_squadre_2019_roma__Q12]]
 
 
 
@@ -393,19 +428,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2919
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of squared reciprocals of the divisors of 72*
+*Calculate the sum of the squares of the reciprocals of all divisors of 72, incl…*
 
 ![[src_squadre_2019_roma__prob13.png]]
 
-> Compute the sum of the squares of the reciprocals of all the divisors of 72, including 1 and 72 among the divisors. (once the result is expressed as a fraction a/b in lowest terms, give as the answer the last four digits of a + b)
+> Calculate the sum of the squares of the reciprocals of all divisors of 72, including 1 and 72 among the divisors. (Once the result has been expressed as a fraction a/b in lowest terms, give as the answer the last four digits of a + b.)
 
-**Answer:** 2919
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2019_roma#q13|src_squadre_2019_roma__Q13]]
 
 
 
@@ -423,19 +461,22 @@ level: squadre
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 3602
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A recursive sequence: a2017/a2019 + a2017/a2018*
+*Calculate a₂₀₁₇/a₂₀₁₉ + a₂₀₁₇/a₂₀₁₈, given that a₀ = a₁ = a₂ = a₃ = 1 and that for n ≥ 4, aₙ = aₙ₋₁·aₙ₋₃/(aₙ₋₃ + aₙ₋₄).…*
 
 ![[src_squadre_2019_roma__prob14.png]]
 
-> Compute a\_(2017)/a\_(2019) + a\_(2017)/a\_(2018), knowing that a\_0 = a\_1 = a\_2 = a\_3 = 1 and moreover that for n ≥ 4 we have a\_n = (a\_(n−1) · a\_(n−3))/(a\_(n−3) + a\_(n−4)). (the result is an integer, of which you are asked to give the last 4 digits as the answer)
+> Calculate a_(2017)/a_(2019) + a_(2017)/a_(2018), given that a_0 = a_1 = a_2 = a_3 = 1 and that for n ≥ 4, a_n = (a_(n−1) · a_(n−3))/(a_(n−3) + a_(n−4)). (The result is an integer; as the answer, indicate its last 4 digits.)
 
-**Answer:** 3602
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2019_roma#q14|src_squadre_2019_roma__Q14]]
 
 
 
@@ -454,19 +495,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 8657
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remainder of 1 + 4x + … + 400x^19 modulo x^6 + … + 1, evaluated at 2*
+*Let R(x) be the remainder when the polynomial P(x) = 1 + 4x + 9x^2 + 16x^3 + … is divided*
 
 ![[src_squadre_2019_roma__prob15.png]]
 
-> Let R(x) be the remainder of the division of the polynomial P(x) = 1 + 4x + 9x^2 + 16x^3 + . . . + 400x^(19) by the polynomial Q(x) = x^6 + x^5 + x^4 + x^3 + x^2 + x + 1. What are the last four digits of the number R(2)?
+> Let R(x) be the remainder when the polynomial P(x) = 1 + 4x + 9x^2 + 16x^3 + ... + 400x^(19) is divided by the polynomial Q(x) = x^6 + x^5 + x^4 + x^3 + x^2 + x + 1. What are the last four digits of the number R(2)?
 
-**Answer:** 8657
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2019_roma#q15|src_squadre_2019_roma__Q15]]
 
 
 
@@ -486,19 +530,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3378
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of cells at distance 18 in a 20 × 20 table*
+*In a 20 × 20 table, the cells are numbered from 1 to 400. Let us define the distanc…*
 
 ![[src_squadre_2019_roma__prob16.png]]
 
-> In a 20 × 20 table the cells are numbered from 1 to 400. We define the distance between two cells as the minimum number of jumps between neighbouring cells (that is, with a side in common) needed to go from one to the other. In how many different ways can I choose two numbers from 1 to 400 so that the distance between the corresponding cells is 18?
+> In a 20 × 20 grid, the cells are numbered from 1 to 400. We define the distance between two cells as the minimum number of jumps between adjacent cells (that is, cells sharing a side) needed to get from one cell to the other. In how many different ways can I choose two numbers from 1 to 400 such that the distance between the corresponding cells is 18?
 
-**Answer:** 3378
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2019_roma#q16|src_squadre_2019_roma__Q16]]
 
 
 
@@ -517,19 +564,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4980
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colouring the faces of a hexagonal prism with 5 colours*
+*A hexagonal-based prism has faces numbered from 1 to 8. In how many ways can I c…*
 
 ![[src_squadre_2019_roma__prob17.png]]
 
-> A prism with a hexagonal base has its faces numbered from 1 to 8. In how many ways can I colour the faces of this prism using at most the colours red, yellow, green, blue and white so that faces with an edge in common have different colours?
+> A hexagonal-based prism has faces numbered from 1 to 8. In how many ways can I color the faces of this prism using at most the colors red, yellow, green, blue, and white, so that faces sharing an edge have different colors?
 
-**Answer:** 4980
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2019_roma#q17|src_squadre_2019_roma__Q17]]
 
 
 
@@ -548,19 +598,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5248
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three non-adjacent cells in a 6 × 6 table*
+*The cells of a 6 × 6 table are numbered from 1 to 36. In how many ways can I cho…*
 
 ![[src_squadre_2019_roma__prob18.png]]
 
-> The cells of a 6 × 6 table are numbered from 1 to 36. In how many ways can I choose 3 distinct numbers from 1 to 36 so that the three corresponding cells of the table have no sides in common?
+> The cells of a 6 × 6 grid are numbered from 1 to 36. In how many ways can I choose 3 distinct numbers from 1 to 36 such that the three corresponding cells in the grid do not share any sides?
 
-**Answer:** 5248
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2019_roma#q18|src_squadre_2019_roma__Q18]]
 
 
 
@@ -580,19 +633,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0326
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Convex quadrilateral with AC bisecting angle DAB: length AP*
+*Let ABCD be a convex quadrilateral. Lines AB and CD intersect at P, while the…*
 
 ![[src_squadre_2019_roma__prob19.png]]
 
-> Let ABCD be a convex quadrilateral. The lines AB and CD meet at P, while the lines BC and DA meet at Q. If |AB| = 7, |AD| = 15, |AQ| = 9 and the diagonal AC bisects the angle DAB, then |AP| is a rational number. What is the sum of the numerator and denominator of this fraction in lowest terms?
+> Let ABCD be a convex quadrilateral. Lines AB and CD intersect at P, while lines BC and DA intersect at Q. If |AB| = 7, |AD| = 15, |AQ| = 9, and diagonal AC bisects angle DAB, then |AP| is a rational number. What is the sum of the numerator and the denominator of this fraction reduced to lowest terms?
 
-**Answer:** 0326
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2019_roma#q19|src_squadre_2019_roma__Q19]]
 
 
 
@@ -610,16 +666,19 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2119
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Permutations of 1–7 avoiding rises of exactly 1*
+*In how many ways can we rearrange the sequence 1, 2, 3, 4, 5, 6, 7 into a_1, a_2, …?*
 
 ![[src_squadre_2019_roma__prob20.png]]
 
-> In how many ways can we rearrange the sequence 1, 2, 3, 4, 5, 6, 7 as a\_1, a\_2, a\_3, a\_4, a\_5, a\_6, a\_7 so that a\_(k+1) − a\_k ≠ 1 for k = 1, 2, 3, 4, 5, 6?
+> In how many ways can we rearrange the sequence 1, 2, 3, 4, 5, 6, 7 into a_1, a_2, a_3, a_4, a_5, a_6, a_7 such that a_(k+1) − a_k ≠ 1 for k = 1, 2, 3, 4, 5, 6?
 
-**Answer:** 2119
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2019_roma#q20|src_squadre_2019_roma__Q20]]

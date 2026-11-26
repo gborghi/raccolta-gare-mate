@@ -31,11 +31,18 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Essagono ciclico ABCDEF: circoncenti di due triangoli e linee simultanee*
+*Esagono ciclico ABCDEF: centri circunscritti di due triangoli e rette concorrenti*
 
-> Come illustrato in Fig. 1.1, $ABCDEF$ è un esagono ciclico. Le estensioni di $AB$ e $DC$ si incontrano a $G$; le estensioni di $AF$ e $BE$ si incontrano a $H$. $M$ e $N$ siano rispettivamente i circoncentri di $\triangle BCG$ e $\triangle EFH$. Prove che le linee $BE$, $CF$ e $MN$ sono simultanee.
+> Come illustrato nella Fig. 1.1, $ABCDEF$ è un esagono ciclico. Le prolungazioni di $AB$ e $DC$ si incontrano in $G$; le prolungazioni di $AF$ e $BE$ si incontrano in $H$. Siano $M$ e $N$ i circocentri di $\triangle BCG$ e $\triangle EFH$, rispettivamente. Dimostrare che le rette $BE$, $CF$ e $MN$ sono concorrenti.
 
 ![[src_cn_ctst_2022__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_ctst_2022#q01|src_cn_ctst_2022__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Primo p, setto di interi infiniti A: trovare sottosetto B evitando il medio dell'elemento p*
+*Primo p, insieme infinito di interi A: trovare un sottoinsieme B che eviti le medie a p elementi*
 
-> Date un numero primo $p$ e un insieme infinito $A \subset \mathbb{Z}$. Mostrare che si può sempre trovare un sottoinsieme $B$ di $A$ in modo tale che $B$ contenga elementi $2p - 2$, e per tutti gli elementi $p$ separati in coppia di $B$, la loro media aritmetica non appartiene a $A$.
+> Dati un numero primo $p$ e un insieme infinito $A \subset \mathbb{Z}$. Dimostrare che si può sempre trovare un sottoinsieme $B$ di $A$ tale che $B$ contenga $2p - 2$ elementi e che, per qualsiasi insieme $p$ di elementi a due a due distinti di $B$, la loro media aritmetica non appartenga a $A$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_ctst_2022#q02|src_cn_ctst_2022__Q02]]
 
 
 
@@ -84,11 +98,16 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco multidimensionale con pezzi: trovare il numero minimo di partenze*
+*Gioco multidimensionale con pedine: trova il numero iniziale minimo*
 
-> Date le cifre integri positive $n$, $p_1, p_2, \ldots, p_n$ (ciascuno $p_i \ge 2$) e $b_1, b_2, \ldots, b_n$. Lasciate che il $Q = \{(x_1, x_2, \ldots, x_n) \in \mathbb{Z}_{\ge 0}^n \mid 0 \le x_i \le p_i^{b_i} - 1 \text{ for each } i\}$ sia la tabella di gioco. Inizialmente posizionare $M$ pezzi di gioco su $Q$ (senza restrizioni sul numero di pezzi per posizione). Esistono tipi di movimenti legali $n$: il tipo $i$-th rimuove i pezzi $p_i$ dalla posizione $(x_1, \ldots, x_n) \in Q$ (con $x_i \ge 1$) e colloca un pezzo a $(x_1, \ldots, x_i - 1, \ldots, x_n)$. Trovare il valore minimo di $M$ in modo tale che, indipendentemente dal modo in cui i pezzi di gioco $M$ sono inizialmente posizionati, si possa sempre eseguire una sequenza di mosse per ottenere almeno un pezzo all'origine $(0, 0, \ldots, 0)$.
+> Siano dati gli interi positivi $n$, $p_1, p_2, \ldots, p_n$ (ciascuno $p_i \ge 2$) e $b_1, b_2, \ldots, b_n$. Sia $Q = \{(x_1, x_2, \ldots, x_n) \in \mathbb{Z}_{\ge 0}^n \mid 0 \le x_i \le p_i^{b_i} - 1 \text{ for each } i\}$ la scacchiera del gioco. Inizialmente, colloca $M$ pedine sulle $Q$ (senza restrizioni sul numero di pedine per posizione). Ci sono $n$ tipi di mosse legali: il $i$-esimo tipo rimuove $p_i$ pedine dalla posizione $(x_1, \ldots, x_n) \in Q$ (con $x_i \ge 1$) e colloca una pedina in $(x_1, \ldots, x_i - 1, \ldots, x_n)$. Trovare il valore minimo di $M$ tale che, indipendentemente da come vengono inizialmente collocate le $M$ pedine, si possa sempre eseguire una sequenza di mosse per ottenere almeno una pedina nell'origine $(0, 0, \ldots, 0)$.
 
-**Risposta:** $p_1^{b_1} p_2^{b_2} \cdots p_n^{b_n}$
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_ctst_2022#q03|src_cn_ctst_2022__Q03]]
 
 
 
@@ -113,11 +132,18 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto ABC con incentro I: prova FK = AF = AD*
+*Triangolo acuto ABC con incentro I: dimostrare che FK = AF = AD*
 
-> Come mostrato nella figura. 4.1, nel $\triangle ABC$ acuto con $\angle A \ge 2\angle B$, $I$ sia il centro di $\triangle ABC$, e $K$ sia il punto simmetrico di $I$ circa $BC$. Le estensioni di $BA$ e $CK$ si incontrano a $D$. La linea che attraversa $B$ parallela a $CI$ incontra $AC$ a $E$ e incontra nuovamente il circoncircolo di $\triangle ABC$ a $F$. Prova che $FK = AF = AD$.
+> Come mostrato nella Fig. 4.1, in un $\triangle ABC$ acuto con $\angle A \ge 2\angle B$, sia $I$ l'incentro di $\triangle ABC$, e sia $K$ il punto simmetrico di $I$ rispetto a $BC$. Le estensioni di $BA$ e $CK$ si incontrano in $D$. La retta passante per $B$ e parallela a $CI$ incontra $AC$ in $E$, e incontra nuovamente la circonferenza circoscritta a $\triangle ABC$ in $F$. Dimostrare che $FK = AF = AD$.
 
 ![[src_cn_ctst_2022__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_ctst_2022#q04|src_cn_ctst_2022__Q04]]
 
 
 
@@ -144,11 +170,16 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*240 numeri complessi sul cerchio unitario che soddisfano le limitazioni di arco: trovare il modulo massimo della somma*
+*240 numeri complessi sulla circonferenza unitaria che soddisfano vincoli sugli archi: trovare il modulo massimo della somma*
 
-> Il $C = \{z \in \mathbb{C} \mid |z| = 1\}$ deve essere il cerchio unitario del piano complesso. 240 numeri complessi $z_1, z_2, \ldots, z_{240} \in C$ (repetite consentite) soddisfano le seguenti condizioni: (1) per qualsiasi arco aperto $\widehat{\Gamma}$ di lunghezza $\dfrac{\pi}{5}$ su $C$, ci sono al massimo $200$ indici $j$ ($1 \le j \le 240$) come $z_j \in \widehat{\Gamma}$; (2) per qualsiasi arco aperto $\widehat{\gamma}$ di lunghezza $\dfrac{\pi}{240}$ su $C$, ci sono al massimo $120$ indici $j$ ($1 \le j \le 240$) come $z_j \in \widehat{\gamma}$. Trova il massimo di $|z_1 + z_2 + \cdots + z_{240}|$.
+> Sia $C = \{z \in \mathbb{C} \mid |z| = 1\}$ il cerchio unitario nel piano complesso. 240 numeri complessi $z_1, z_2, \ldots, z_{240} \in C$ (ripetizioni ammesse) soddisfano le seguenti condizioni: (1) per ogni arco aperto $\widehat{\Gamma}$ di lunghezza $\dfrac{\pi}{5}$ su $C$, vi sono al più $200$ indici $j$ ($1 \le j \le 240$) tali che $z_j \in \widehat{\Gamma}$; (2) per ogni arco aperto $\widehat{\gamma}$ di lunghezza $\dfrac{\pi}{240}$ su $C$, vi sono al più $120$ indici $j$ ($1 \le j \le 240$) tali che $z_j \in \widehat{\gamma}$. Determinare il massimo di $|z_1 + z_2 + \cdots + z_{240}|$.
 
-**Risposta:** $80 + 40\sqrt{3}$
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_cn_ctst_2022#q05|src_cn_ctst_2022__Q05]]
 
 
 
@@ -173,9 +204,18 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsiemi di A con condizione di dimensione dell'unione: dimostrare 2-coloring con entrambi i colori in ciascun sottoinsieme*
+*Sottoinsiemi di A con condizione sulla dimensione dell'unione: dimostrare una 2-colorazione con entrambi i colori in ciascun sottoinsieme*
 
-> Il numero $m$ è un numero intero positivo fisso. $A_1, A_2, \ldots, A_m$ siano sottoinsiemi di un insieme finito $A$ (non necessariamente distinti). È noto che per ogni insieme non vuoto $I \subseteq \{1, 2, \ldots, m\}$: $$\left|\bigcup_{i \in I} A_i\right| \ge |I| + 1.$$ Prova: gli elementi di $A$ possono essere colorati in bianco o nero in modo tale che ogni $A_i$ ($i = 1, 2, \ldots, m$) contiene elementi sia bianchi che neri.
+> Sia $m$ un intero positivo fisso. Siano $A_1, A_2, \ldots, A_m$ sottoinsiemi di un insieme finito $A$ (non necessariamente distinti). È noto che, per ogni insieme non vuoto $I \subseteq \{1, 2, \ldots, m\}$:
+> $$\left|\bigcup_{i \in I} A_i\right| \ge |I| + 1.$$
+> Dimostrare: gli elementi di $A$ possono essere colorati di nero o di bianco in modo tale che ogni $A_i$ ($i = 1, 2, \ldots, m$) contenga elementi sia neri sia bianchi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_ctst_2022#q06|src_cn_ctst_2022__Q06]]
 
 
 
@@ -199,11 +239,16 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*m×n griglia con diagonali opzionali che formano un ciclo euleriano: trovare tutte le valenti (m,n)*
+*Griglia m×n con diagonali opzionali che formano un ciclo euleriano: trovare tutte le coppie (m,n) valide*
 
-> In una griglia $m \times n$ (con linee orizzontali $m + 1$ e linee verticali $n + 1$), si può aggiungere al massimo una diagonale per ogni quadrato unitario. Il grafico risultante (vertici in tutti i punti della griglia, bordi sono i segmenti della griglia e le diagonali aggiunte) dovrebbe essere un ciclo euleriano, vale a dire, esiste un percorso chiuso che visita ogni borda esattamente una volta. Trova tutte le coppie $(m, n)$ di integri positivi per le quali questo è possibile.
+> In una griglia $m \times n$ (con $m + 1$ linee orizzontali e $n + 1$ linee verticali), si può aggiungere al massimo una diagonale a ciascun quadrato unitario. Il grafo risultante (vertici in tutti i punti della griglia, archi costituiti dai segmenti della griglia e dalle diagonali aggiunte) dovrebbe essere un ciclo euleriano, cioè deve esistere un percorso chiuso che attraversi ciascun arco esattamente una volta. Trovare tutte le coppie $(m, n)$ di interi positivi per cui ciò è possibile.
 
-**Risposta:** Tutte le coppie $(m, n)$ con $m = n$.
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_ctst_2022#q07|src_cn_ctst_2022__Q07]]
 
 
 
@@ -226,9 +271,16 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due coniugati isogonali sul circolo circostante: le linee di pedali si incontrano sul circolo a nove punti*
+*Due coniugati isogonali sul cerchio circoscritto: le rette pedali si incontrano sul cerchio dei nove punti*
 
-> In oblique $\triangle ABC$ ($BC > AC > AB$). Per $i = 1, 2$, le linee $AP_i$, $BP_i$ e $CP_i$ incrociano di nuovo il circoncircolo di $\triangle ABC$ rispettivamente a $D_i$, $E_i$ e $F_i$, con $D_i$ su un arco $BC$ non contenente $A$. È noto che la linea $P_1P_2$ interseca il circoncircolo di $\triangle ABC$ a due punti $Q_1$ e $Q_2$. Per $i = 1, 2$, $X_i$ e $Y_i$ siano rispettivamente le proiezioni di $Q_i$ sui lati $AB$ e $AC$. Le linee $X_1Y_1$ e $X_2Y_2$ si incontrano a $W$. Provare che $W$ si trova sul cerchio a nove punti di $\triangle ABC$.
+> Nella obliqua $\triangle ABC$ ($BC > AC > AB$). Siano $P_1$, $P_2$ due punti nel piano tali che: per $i = 1, 2$, le rette $AP_i$, $BP_i$ e $CP_i$ intersecano nuovamente la circonferenza circoscritta a $\triangle ABC$ rispettivamente nei punti $D_i$, $E_i$ e $F_i$, con $D_i$ sull'arco $BC$ che non contiene $A$. È noto che la retta $P_1P_2$ interseca la circonferenza circoscritta a $\triangle ABC$ nei due punti $Q_1$ e $Q_2$. Per $i = 1, 2$, siano $X_i$ e $Y_i$ le proiezioni di $Q_i$ sui lati $AB$ e $AC$, rispettivamente. Le rette $X_1Y_1$ e $X_2Y_2$ si incontrano in $W$. Dimostrare che $W$ giace sulla circonferenza dei nove punti di $\triangle ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_ctst_2022#q08|src_cn_ctst_2022__Q08]]
 
 
 
@@ -253,9 +305,18 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme positive non divisibili in coppia: prova che la somma è almeno 1,4n2−2n*
+*Interi positivi a coppie non divisibili: dimostrare che la somma è almeno 1,4n²−2n*
 
-> Che $a_1, a_2, \ldots, a_n$ siano integri positivi in modo tale che nessuno divida l'altro, vale a dire $a_i \nmid a_j$ per tutti $i \ne j$. Prova che $$a_1 + a_2 + \cdots + a_n \ge 1.4n^2 - 2n.$$ (Nota: può essere dato un credito parziale per dimostrare la disuguaglianza per tutti i $n$ sufficientemente grandi.)
+> Siano $a_1, a_2, \ldots, a_n$ numeri interi positivi tali che nessuno divida un altro, cioè $a_i \nmid a_j$ per ogni $i \ne j$. Dimostrare che
+> $$a_1 + a_2 + \cdots + a_n \ge 1.4n^2 - 2n.$$
+> (Nota: si potrà concedere un punteggio parziale per aver dimostrato la disuguaglianza per tutti gli $n$ sufficientemente grandi.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_ctst_2022#q09|src_cn_ctst_2022__Q09]]
 
 
 
@@ -280,11 +341,17 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare la somma delle deviazioni dei coefficienti multinomiali raggruppati per grado*
+*Minimizza la somma delle deviazioni dei coefficienti multinomiali raggruppati per grado*
 
-> Dato un intero positivo $n$, trovare tutti i punti $(x_1, x_2, \ldots, x_n) \in \mathbb{R}^n$ che minimizzano la funzione $f : \mathbb{R}^n \to \mathbb{R}$ definita da $$f(x_1, x_2, \ldots, x_n) = \sum_{k=0}^{2n} \left| \sum_{\substack{(a_1, \ldots, a_n) \in \{0,1,2\}^n \\ a_1 + a_2 + \cdots + a_n = k}} x_1^{a_1} x_2^{a_2} \cdots x_n^{a_n} - 1 \right|.$$
+> Dato un intero positivo $n$, trovare tutti i punti $(x_1, x_2, \ldots, x_n) \in \mathbb{R}^n$ che minimizzano la funzione $f : \mathbb{R}^n \to \mathbb{R}$ definita da
+> $$f(x_1, x_2, \ldots, x_n) = \sum_{k=0}^{2n} \left| \sum_{\substack{(a_1, \ldots, a_n) \in \{0,1,2\}^n \\ a_1 + a_2 + \cdots + a_n = k}} x_1^{a_1} x_2^{a_2} \cdots x_n^{a_n} - 1 \right|.$$
 
-**Risposta:** $x_1 = x_2 = \cdots = x_n = \dfrac{1}{n+1}$
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_ctst_2022#q10|src_cn_ctst_2022__Q10]]
 
 
 
@@ -313,7 +380,18 @@ level: China National Team Selection Test
 
 *Equivalenza di due condizioni di divisibilità sulle funzioni moltiplicative sui divisori*
 
-> Per un intero positivo fisso $n$, $D$ è l'insieme di tutti i divisori positivi di $n$. Prova che per un mappaggio $f : D \to \mathbb{Z}$, le seguenti due affermazioni sono equivalenti: (A) Per qualsiasi divisore positivo $m$ di $n$, $$n \mid \sum_{d \mid m} f(d)\, \binom{m/d}{n/d};$$ (B) Per qualsiasi divisore positivo $k$ di $n$, $$k \mid \sum_{d \mid k} f(d).$$
+> Sia $n$ un intero positivo fisso; sia $D$ l'insieme di tutti i divisori positivi di $n$. Dimostrare che, per una applicazione $f : D \to \mathbb{Z}$, le seguenti due affermazioni sono equivalenti:
+> (A) Per ogni divisore positivo $m$ di $n$,
+> $$n \mid \sum_{d \mid m} f(d)\, \binom{m/d}{n/d};$$
+> (B) Per ogni divisore positivo $k$ di $n$,
+> $$k \mid \sum_{d \mid k} f(d).$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_doppio_conteggio|Doppio conteggio]], [[method_bigezione|Biiezione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_ctst_2022#q11|src_cn_ctst_2022__Q11]]
 
 
 
@@ -336,9 +414,16 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successioni reali a_i, b_j: limita il numero di coppie con |a_i+b_j−ij|≤m*
+*Successioni reali a_i, b_j: numero limitato di coppie tali che |a_i+b_j−ij|≤m*
 
-> Lasciate che $m$ e $n$ siano integri positivi con $m \ge n \ge 2022$. Prova che per i numeri reali $a_1, a_2, \ldots, a_n$, $b_1, b_2, \ldots, b_n$, il numero delle coppie ordinate $(i, j)$ con $1 \le i, j \le n$ soddisfacente $|a_i + b_j - ij| \le m$ non supera $3n\sqrt{m \ln n}$.
+> Siano $m$ e $n$ numeri interi positivi tali che $m \ge n \ge 2022$. Dimostrare che, per qualsiasi numero reale $a_1, a_2, \ldots, a_n$, $b_1, b_2, \ldots, b_n$, il numero di coppie ordinate $(i, j)$ tali che $1 \le i, j \le n$ e vale $|a_i + b_j - ij| \le m$ non supera $3n\sqrt{m \ln n}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_ctst_2022#q12|src_cn_ctst_2022__Q12]]
 
 
 
@@ -363,11 +448,18 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo all'interno del cerchio: prova dell'esistenza del punto P facendo angolo d'arco interno ≥ angolo d'arco esterno*
+*Cerchio all'interno di un cerchio: dimostra l'esistenza di un punto P tale che l'angolo dell'arco interno sia ≥ l'angolo dell'arco esterno*
 
-> Dato che il cerchio $\Gamma_2$ è all'interno del cerchio $\Gamma_1$ sul piano. Prova che sul piano esiste un punto $P$ con la seguente proprietà: se $\ell$ è una linea che non attraversa $P$ e che incrocia sia $\Gamma_1$ che $\Gamma_2$ in punti distinti, con $\Gamma_1$ tagliato a $A$ e $B$ e $\Gamma_2$ tagliato a $C$ e $D$ (in modo che $A$, $C$, $D$, $B$ siano in questo ordine su $\ell$), allora $\angle CPD \ge \angle APB$.
+> Dato che il cerchio $\Gamma_2$ è contenuto nel cerchio $\Gamma_1$ nel piano, dimostrare che esiste un punto $P$ nel piano con la seguente proprietà: se $\ell$ è una qualsiasi retta che non passa per $P$ e interseca sia $\Gamma_1$ sia $\Gamma_2$ in punti distinti, con $\Gamma_1$ tagliato in $A$ e $B$ e $\Gamma_2$ tagliati in $C$ e $D$ (cosicché $A$, $C$, $D$, $B$ siano in quest'ordine su $\ell$), allora $\angle CPD \ge \angle APB$.
 
 ![[src_cn_ctst_2022__q13.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_ctst_2022#q13|src_cn_ctst_2022__Q13]]
 
 
 
@@ -390,9 +482,16 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione del pavimento e approssimazione razionale: esistenza di integri con valori del pavimento limitati*
+*Funzione parte intera e approssimazione razionale: esistenza di interi con valori della parte intera limitati*
 
-> $\lfloor x \rfloor$ indica il più grande numero intero non superiore a $x$. Che $a$ e $b$ siano integri positivi con $\gcd(a, b) = 1$. Dimostrare che esistono integri positivi $k_1$ e $k_2$ in modo tale che $\left\lfloor \dfrac{k_1}{b} \right\rfloor + \left\lfloor \dfrac{k_2}{a} \right\rfloor = \left\lfloor \dfrac{k_1 + k_2}{ab} \right\rfloor + ab - 1$, o equivalentemente, la sequenza $\left\{ \dfrac{k}{ab} \right\}_{k=1}^{\infty}$ sia densa in $[0, 1)$.
+> Sia $\lfloor x \rfloor$ il più grande intero non superiore a $x$. Siano $a$ e $b$ interi positivi tali che $\gcd(a, b) = 1$. Dimostrare che esistono interi positivi $k_1$ e $k_2$ tali che $\left\lfloor \dfrac{k_1}{b} \right\rfloor + \left\lfloor \dfrac{k_2}{a} \right\rfloor = \left\lfloor \dfrac{k_1 + k_2}{ab} \right\rfloor + ab - 1$, oppure, equivalentemente, che la successione $\left\{ \dfrac{k}{ab} \right\}_{k=1}^{\infty}$ è densa in $[0, 1)$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_ctst_2022#q14|src_cn_ctst_2022__Q14]]
 
 
 
@@ -417,9 +516,16 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Odd integri a_1≤...≤a_n: trovare tutti i tuppi per i quali esiste un codice di imballaggio di dimensione M*
+*Interi dispari a_1≤…≤a_n: trovare tutte le n-uple per cui esiste un codice di impacchettamento di dimensione M*
 
-> Date un numero intero positivo $n \ge 2$. Trova tutte le $(a_1, a_2, \ldots, a_n) \in \mathbb{Z}^n$ che soddisfano le seguenti condizioni: (1) Ogni $a_i$ è pari e $1 < a_1 \le a_2 \le \cdots \le a_n$, e $M = \dfrac{1}{2^n}\prod_{i=1}^{n}(a_i - 1)$ è un intero positivo; (2) Esistono $M$ tuples $(c_{1,1}, \ldots, c_{1,n}), (c_{2,1}, \ldots, c_{2,n}), \ldots, (c_{M,1}, \ldots, c_{M,n}) \in \mathbb{Z}^n$ in modo che per qualsiasi $1 \le i < j \le M$, esiste un indice $k \in \{1, 2, \ldots, n\}$ con $c_{i,k} - c_{j,k} \not\equiv 0, \pm 1 \pmod{a_k}$.
+> Sia dato un intero positivo $n \ge 2$. Trovare tutti gli $(a_1, a_2, \ldots, a_n) \in \mathbb{Z}^n$ che soddisfano le seguenti condizioni: (1) Ogni $a_i$ è dispari e $1 < a_1 \le a_2 \le \cdots \le a_n$, e $M = \dfrac{1}{2^n}\prod_{i=1}^{n}(a_i - 1)$ è un intero positivo; (2) Esistono $M$ n-uple $(c_{1,1}, \ldots, c_{1,n}), (c_{2,1}, \ldots, c_{2,n}), \ldots, (c_{M,1}, \ldots, c_{M,n}) \in \mathbb{Z}^n$ tali che, per ogni $1 \le i < j \le M$, esiste un certo indice $k \in \{1, 2, \ldots, n\}$ con $c_{i,k} - c_{j,k} \not\equiv 0, \pm 1 \pmod{a_k}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_ctst_2022#q15|src_cn_ctst_2022__Q15]]
 
 
 
@@ -442,9 +548,16 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolazione di quadrato lato intero con triangoli centroide intero: trovare tutte le lunghezze laterali valide*
+*Triangolazione di un quadrato a lati interi con triangoli aventi il baricentro intero: trovare tutte le lunghezze dei lati valide*
 
-> Nel sistema di coordinate rettangolare, esistono finitamente molti triangoli tali che: i loro centriodi sono tutti punti interi (punti reticolari); l'intersezione di due triangoli è vuota, un vertice comune o un bordo comune; e l'unione di tutti i triangoli è un quadrato con lunghezza laterale integrale $k$ (le vertici del quadrato non devono essere punti reticolari, e i lati non devono essere paralleli agli assi). Trovare tutti gli integri positivi $k$ per i quali esiste una tale configurazione.
+> Nel sistema di coordinate cartesiane, esistono un numero finito di triangoli tali che: i loro baricentri sono tutti punti interi (punti della reticolazione); l'intersezione di due qualsiasi triangoli è vuota, oppure è un vertice comune, oppure è un lato comune; e l'unione di tutti i triangoli è un quadrato di lato di lunghezza intera $k$ (i vertici del quadrato non devono necessariamente essere punti della reticolazione, e i lati non devono necessariamente essere paralleli agli assi). Determinare tutti gli interi positivi $k$ per i quali esiste una tale configurazione.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_cn_ctst_2022#q16|src_cn_ctst_2022__Q16]]
 
 
 
@@ -467,9 +580,16 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsieme di {1,...,n} senza due elementi che differiscono di un quadrato perfetto: dimostrazione di dimensioni ≥ Cn^α, α>1/2*
+*Sottoinsieme di {1,…,n} in cui non vi sono due elementi la cui differenza sia un quadrato perfetto: dimostrare che la sua cardinalità è ≥ Cn^α, con α>1/2*
 
-> Prove che esistono costanti $C > 0$ e $\alpha > \dfrac{1}{2}$ tali che per qualsiasi intero positivo $n$, esiste un sottoinsieme $A \subseteq \{1, 2, \ldots, n\}$ con $|A| \ge C n^{\alpha}$, in modo tale che la differenza di due elementi distinti di $A$ non sia un quadrato perfetto.
+> Dimostrare che esistono costanti $C > 0$ e $\alpha > \dfrac{1}{2}$ tali che, per ogni numero intero positivo $n$, esiste un sottoinsieme $A \subseteq \{1, 2, \ldots, n\}$ con $|A| \ge C n^{\alpha}$, tale che la differenza di due elementi distinti qualsiasi di $A$ non sia un quadrato perfetto.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_ctst_2022#q17|src_cn_ctst_2022__Q17]]
 
 
 
@@ -496,11 +616,20 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*(1) Lo scafo convexo di zeri di z^19+63z+22 ha superficie > π; (2) limite di grandezza radicale polinomial*
+*(1) L'involucro convesso degli zeri di z^19+63z+22 ha area > π; (2) limite per il modulo delle radici del polinomio*
 
-> (1) Provare che, sul piano complesso, lo scafo convexo dell'insieme di zeri di $z^{19} + 63z + 22 = 0$ ha una superficie superiore a $\pi$.
-> 
-> (2) Che $n$ sia un intero positivo e che $1 \le k_1 < k_2 < \cdots < k_n$ sia $n$ pari interi positivi. Prova che per qualsiasi numero complesso $n$ $a_1, a_2, \ldots, a_n$ con $\sum_{i=1}^{n} a_i = 1$ e per qualsiasi numero complesso $w$ con $|w| \ge 1$, l'equazione $$a_1 z^{k_1} + a_2 z^{k_2} + \cdots + a_n z^{k_n} = w$$ ha almeno una radice $z$ con $|z| \le 3mn$, dove $m = \max_{1 \le i \le n} |a_i|^{-1}$.
+> (1) Dimostrare che, nel piano complesso, l'involucro convesso dell'insieme degli zeri di $z^{19} + 63z + 22 = 0$ ha area maggiore di $\pi$.
+>
+> (2) Sia $n$ un numero intero positivo, e siano $1 \le k_1 < k_2 < \cdots < k_n$ $n$ numeri interi positivi dispari. Dimostrare che, per qualsiasi insieme di $n$ numeri complessi $a_1, a_2, \ldots, a_n$ con $\sum_{i=1}^{n} a_i = 1$, e per qualsiasi numero complesso $w$ con $|w| \ge 1$, l'equazione
+> $$a_1 z^{k_1} + a_2 z^{k_2} + \cdots + a_n z^{k_n} = w$$
+> ammette almeno una radice $z$ con $|z| \le 3mn$, dove $m = \max_{1 \le i \le n} |a_i|^{-1}$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_cn_ctst_2022#q18|src_cn_ctst_2022__Q18]]
 
 
 
@@ -528,9 +657,16 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n×n colore a griglia rosso/giallo/blu con regola di aggiornamento ciclico: non monocromatico se mai monocromatico*
+*Griglia n×n colorata di rosso/giallo/blu con regola di aggiornamento ciclica: non monocromatica se e solo se mai monocromatica*
 
-> Inizialmente, ogni quadrato unitario di una griglia $n \times n$ ($n \ge 2$) è di colore rosso, giallo o blu. Ogni secondo i colori dei quadrati unitari cambiano contemporaneamente secondo le seguenti regole: (1) se $A$ è rosso e $A$ condivide un lato comune con un quadrato giallo, allora $A$ diventa giallo; (2) se $B$ è giallo e $B$ condivide un lato comune con un quadrato blu, allora $B$ diventa blu; (3) se $C$ è blu e $C$ condivide un lato comune con un quadrato rosso, allora $C$ diventa rosso; (4) in tutti gli altri casi, il colore non cambia. Prova: se la griglia non diventa monocromatica dopo $2n - 2$ secondi, non diventerà mai monocromatica in tempo finito.
+> Inizialmente, ciascun quadrato unitario di una griglia $n \times n$ ($n \ge 2$) è colorato di rosso, di giallo o di blu. Ogni secondo, i colori dei quadrati unitari cambiano simultaneamente secondo le seguenti regole: (1) se $A$ è rosso e $A$ condivide un lato con un quadrato giallo, allora $A$ diventa giallo; (2) se $B$ è giallo e $B$ condivide un lato con un quadrato blu, allora $B$ diventa blu; (3) se $C$ è blu e $C$ condivide un lato con un quadrato rosso, allora $C$ diventa rosso; (4) in tutti gli altri casi, il colore non cambia. Dimostrare: se la griglia non diventa monocolore dopo $2n - 2$ secondi, allora non diventerà mai monocolore in un tempo finito.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_ctst_2022#q19|src_cn_ctst_2022__Q19]]
 
 
 
@@ -555,11 +691,18 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale convex con due incentri: prova PE=PF per intersezione e costruzione perpendicolare*
+*Quadrilatero convesso con due incentri: dimostrare che PE=PF per l'intersezione e la costruzione perpendicolare*
 
-> Come mostrato nella figura. 2.1, nel quadrilaterale converso $ABCD$, $I$ e $J$ siano rispettivamente gli incentri di $\triangle ABC$ e $\triangle ACD$. È noto che $IJ$, $AC$ e $BD$ sono simultanei in un punto $P$. La linea che attraversa $P$ perpendicolare a $BD$ incontra i bisettori di angolo esterno di $\angle BAD$ e $\angle BCD$ rispettivamente a $E$ e $F$. Prove che $PE = PF$.
+> Come mostrato nella Fig. 2.1, nel quadrilatero convesso $ABCD$, siano $I$ e $J$ gli incentri di $\triangle ABC$ e $\triangle ACD$, rispettivamente. È noto che $IJ$, $AC$ e $BD$ sono concorrenti in un punto $P$. La retta passante per $P$ e perpendicolare a $BD$ incontra le bisettrici degli angoli esterni di $\angle BAD$ e $\angle BCD$ rispettivamente nei punti $E$ e $F$. Dimostrare che $PE = PF$.
 
 ![[src_cn_ctst_2022__q20.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_ctst_2022#q20|src_cn_ctst_2022__Q20]]
 
 
 
@@ -585,11 +728,18 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale: multiinsiemi {f(xf(y) +1), f(yf(x) -1)} uguale a {xf(f(y))-1,yf(f(x)) +1}*
+*Equazione funzionale: i multiset {f(xf(y)+1), f(yf(x)-1)} sono uguali a {xf(f(y))-1, yf(f(x))+1}*
 
-> Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ in modo tale che per qualsiasi numero reale $x$ e $y$, i seguenti multiset siano identici: $$\{f(xf(y) + 1),\, f(yf(x) - 1)\} = \{xf(f(y)) - 1,\, yf(f(x)) + 1\}.$$ (Nota: due multiset $\{a, b\}$ e $\{c, d\}$ sono identici se e solo se $a = c,\, b = d$, o $a = d,\, b = c$.)
+> Trovare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ tali che, per qualsiasi numero reale $x$ e $y$, i seguenti multinsiemi siano identici:
+> $$\{f(xf(y) + 1),\, f(yf(x) - 1)\} = \{xf(f(y)) - 1,\, yf(f(x)) + 1\}.$$
+> (Nota: due multinsiemi $\{a, b\}$ e $\{c, d\}$ sono identici se e solo se $a = c,\, b = d$, oppure $a = d,\, b = c$.)
 
-**Risposta:** $f(x) = x$ oppure $f(x) = -x$
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_ctst_2022#q21|src_cn_ctst_2022__Q21]]
 
 
 
@@ -614,11 +764,17 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi a,b,c e p primo con 2^a·p^b = (p+2)^c + 1*
+*Trovare tutti gli interi positivi a, b, c e il numero primo p tali che 2^a·p^b = (p+2)^c + 1*
 
-> Trova tutti gli integri positivi $a$, $b$, $c$ e prime $p$ soddisfacendo $$2^a p^b = (p + 2)^c + 1.$$
+> Trovare tutti gli interi positivi $a$, $b$, $c$ e il numero primo $p$ che soddisfano
+> $$2^a p^b = (p + 2)^c + 1.$$
 
-**Risposta:** $(p, a, b, c) = (3, 1, 1, 1)$
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_ctst_2022#q22|src_cn_ctst_2022__Q22]]
 
 
 
@@ -647,11 +803,22 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali non negativi sommati a 4 su un ciclo: trovare una finestra con entrambe le somme parziali ≤ 1*
+*Numeri reali non negativi la cui somma è 4 su un ciclo: trovare una finestra in cui entrambe le somme parziali siano ≤ 1*
 
-> Il valore $n$ è un intero positivo fisso. Che $x_1, x_2, \ldots, x_{2n}$ siano numeri reali non negativi che soddisfino $$x_1 + x_2 + \cdots + x_{2n} = 4.$$ Prove che esistono integri non negativi $p$ e $q$ con $q \le n - 1$ in modo tale che $$x_{2p+1} + x_{2p+3} + \cdots + x_{2p+2q-1} \le 1 \quad \text{and} \quad x_{2p+2} + x_{2p+4} + \cdots + x_{2p+2q} \le 1,$$ dove i sottoscrizioni sono prese modulo $2n$ (cioè, $x_{2n+k} = x_k$ per tutti $k$).
-> 
-> (Nota 1: i sottoscrizioni sono modulo $2n$, quindi $x_k = x_1$ quando $k \equiv 1 \pmod{2n}$. Nota 2: se $q = 0$, la prima somma è $0$; se $q = n - 1$, la seconda somma è $0$.)
+> Sia $n$ un intero positivo fisso. Siano $x_1, x_2, \ldots, x_{2n}$ numeri reali non negativi tali che
+> $$x_1 + x_2 + \cdots + x_{2n} = 4.$$
+> Dimostrare che esistono interi non negativi $p$ e $q$ tali che $q \le n - 1$ e
+> $$x_{2p+1} + x_{2p+3} + \cdots + x_{2p+2q-1} \le 1 \quad \text{and} \quad x_{2p+2} + x_{2p+4} + \cdots + x_{2p+2q} \le 1,$$
+> dove gli indici sono presi modulo $2n$ (cioè $x_{2n+k} = x_k$ per ogni $k$).
+>
+> (Nota 1: gli indici sono modulo $2n$, quindi $x_k = x_1$ quando $k \equiv 1 \pmod{2n}$. Nota 2: se $q = 0$, la prima somma è $0$; se $q = n - 1$, la seconda somma è $0$.)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_ctst_2022#q23|src_cn_ctst_2022__Q23]]
 
 
 
@@ -675,6 +842,14 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pare di catene in posizione di divisore: prove sqrt(<A to be) +sqrt(to be)≤sqrt(to be)*
+*Coppia di anticatene nel poset dei divisori: dimostrare che sqrt(|A|)+sqrt(|B|)≤sqrt(|D|)*
 
-> Il numero $n$ è un numero intero positivo fisso. Denotare con $D$ l'insieme di tutti i divisori positivi di $n$. Che $A$ e $B$ siano sottoinsiemi di $D$ che soddisfino: per qualsiasi $a \in A$ e $b \in B$, né $a$ divide $b$ né $b$ divide $a$. Provare che $$\sqrt{|A|} + \sqrt{|B|} \le \sqrt{|D|}.$$
+> Sia $n$ un intero positivo fisso. Si indichi con $D$ l'insieme di tutti i divisori positivi di $n$. Siano $A$ e $B$ sottoinsiemi di $D$ tali che: per ogni $a \in A$ e $b \in B$, né $a$ divide $b$ né $b$ divide $a$. Dimostrare che
+> $$\sqrt{|A|} + \sqrt{|B|} \le \sqrt{|D|}.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_doppio_conteggio|Doppio conteggio]], [[method_bigezione|Biiezione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_ctst_2022#q24|src_cn_ctst_2022__Q24]]

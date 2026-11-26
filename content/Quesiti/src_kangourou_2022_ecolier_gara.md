@@ -37,13 +37,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers to be entered to correct 2020+_=2022+_*
+*Which numbers, among those listed in the answers, can you write in the left box and the right box respectively?*
 
-> What numbers, among those listed in the answers, can you write in the box on the left and the box on the right respectively to correct the equality 2020 + _ = 2022 + _ ? A) 3 and 5 B) 4 and 1 C) 2 and 4
->  
-> D) 7 and 2 E) 9 and 7
+> Which numbers, among those listed in the answers, can you write in the left box and the right box respectively to make the equality 2020 +     = 2022 +     ? correct?
+>
+> A) 3 and 5
+> B) 4 and 1
+> C) 2 and 4
+> D) 7 and 2
+> E) 9 and 7
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_ecolier_gara#q01|src_kangourou_2022_ecolier_gara__Q01]]
 
 
 
@@ -79,19 +87,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum boxes to remove to open the black*
+*What is the least number of boxes it is enough for him to remove?*
 
 ![[src_kangourou_2022_ecolier_gara__prob2.png]]
 
-> Giulio wants to open the black box containing the train. To do that, he takes one box at a time. What's the minimum number of boxes he can take off? A) 3
->   
+> Giulio wants to open the black box containing the train. To do so he removes one box at a time. What is the least number of boxes it is enough for him to remove?
+>
+> A) 3
 > B) 4
->   
-> C) 5 D) 6
->   
+> C) 5
+> D) 6
 > E) 7
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_ecolier_gara#q02|src_kangourou_2022_ecolier_gara__Q02]]
 
 
 
@@ -125,13 +137,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A set of arrows to bring the bee to the flower*
+*Which set of arrows lets the bee reach the flower?*
 
 ![[src_kangourou_2022_ecolier_gara__prob3.png]]
 
-> Look at the picture: the bee wants to reach the flower. In the answers, each arrow represents the passage from one square to another, in the direction and sense indicated by the arrow. What set of arrows allows the bee to reach the flower? A) → → ↓ ↓ ↓       B) ↓ ↓ → ↓ ↓ C) → ↓ → ↓ → D) → ↓ → ↓ ↓ → E) ↓ → → ↓ ↓ ↓
+> Look at the picture: the bee wants to reach the flower. In the answers each arrow stands for the move from one little square to a neighbouring one, in the direction and sense shown by the arrow. Which set of arrows lets the bee reach the flower?
+>
+> A) → → ↓ ↓ ↓
+> B) ↓ ↓ → ↓ ↓
+> C) → ↓ → ↓ →
+> D) → ↓ → ↓ ↓ →
+> E) ↓ → → ↓ ↓ ↓
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_ecolier_gara#q03|src_kangourou_2022_ecolier_gara__Q03]]
 
 
 
@@ -177,33 +199,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which piece to move for 2 pieces per row and column*
+*Which piece must she move onto an empty cell?*
 
 ![[src_kangourou_2022_ecolier_gara__prob4.png]]
 
-> Next to it you see a board on which 
-> there are some grey pieces. Rossella wants 
-> there to be 2 and no more than 2 pieces in every row and in every column of this 
-> board. 
-> Which piece must she move onto an empty cell?  
-> A) A  
->   
-> B) B  
->   
-> C) C  
->   
-> D) D  
->   
-> E) E 
->  
-> A 
-> B 
-> C 
-> D 
-> E 
+> Beside you see a chessboard on which there are some grey pieces. Rossella wants every row and every column of this chessboard to have 2 pieces and no more than 2. Which piece must she move onto an empty cell?
 >
+> A) A
+> B) B
+> C) C
+> D) D
+> E) E
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_ecolier_gara#q04|src_kangourou_2022_ecolier_gara__Q04]]
 
 
 
@@ -240,21 +252,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many jumps to go from 0 to 16 in a pattern*
+*How many jumps does he make in all?*
 
 ![[src_kangourou_2022_ecolier_gara__prob5.png]]
 
-> Mathematical kangaroo enjoys jumping along the number line. He makes a long jump followed by two short jumps, as shown in the figure, and repeats this pattern several times. He starts at 0 and gets to 16. How many jumps does he make in all? A) 4
->   
+> The Mathematical kangaroo enjoys jumping along the number line. He makes one long jump followed by two short jumps, as the picture shows, and he repeats this pattern several times. He starts from 0 and arrives at 16. How many jumps does he make in all?
+>
+> A) 4
 > B) 7
->   
 > C) 8
->   
 > D) 9
->   
 > E) 12
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_ecolier_gara#q05|src_kangourou_2022_ecolier_gara__Q05]]
 
 
 
@@ -295,24 +309,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-From which point does the laser beam come out between the mirrors
+*From which point will the laser ray come out?*
 
 ![[src_kangourou_2022_ecolier_gara__prob6.png]]
 
-> Each oblique segment in the figures represents a mirror supported perpendicular to the plane of the sheet. A laser beam is reflected in the mirrors according to the law described in the figure to the right. If the mirrors are arranged as in the figure on the left and the beam hits the reflecting face, from which point will the laser beam come out?
->  
+> Each slanting segment in the pictures stands for a mirror resting perpendicular to the plane of the sheet. A laser ray is reflected in the mirrors according to the law described in the picture on the right. If the mirrors are arranged as in the picture on the left and the ray hits the reflecting face, from which point will the laser ray come out?
+>
 > A) A
->   
 > B) B
->   
 > C) C
->   
->  
 > D) D
->   
 > E) E
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_ecolier_gara#q06|src_kangourou_2022_ecolier_gara__Q06]]
 
 
 
@@ -367,43 +380,19 @@ From which point does the laser beam come out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which one is Michele's postcard*
+*Which is Michele's postcard?*
 
 ![[src_kangourou_2022_ecolier_gara__prob7.png]]
 
-> There are no ducks in Michele's postcard. The sun is visible on Chiara's 
-> postcard. There are exactly two animals on Paola's postcard. The animals 
-> that appear in Luca's and Nicola's postcards do not fly. Which is Michele's 
-> postcard? 
+> There are no ducks on Michele's postcard. On Chiara's postcard the sun is visible. There are exactly two animals on Paola's postcard. The animals that appear on Luca's and Nicola's postcards do not fly. Which is Michele's postcard?
+>
 > A)
->    
-> What image does he see when he looks at the tower from above? 
-> A)  
->  
-> Questions from No. 9 to No. 16 are worth 4 points each 
-> 9. Ivan has entered some numbers into a 3×3 grid with the intention 
-> that the six sums obtained by adding the numbers in each row and 
-> in each column should be equal. However, Ivan has made a mistake:  
-> which number must be corrected? 
-> A) 1  
->   
-> B) 3  
->   
-> C) One of the two 4s.  
->   
-> D) 5  
->   
-> E) One of the two 7s.  
->   
-> B)   
->   
-> C)   
->   
-> D)  
->   
-> E)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_ecolier_gara#q07|src_kangourou_2022_ecolier_gara__Q07]]
 
 
 
@@ -437,22 +426,22 @@ From which point does the laser beam come out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Image of the tower from above*
+*Giovanni built this tower.*
 
 ![[src_kangourou_2022_ecolier_gara__prob8.png]]
 
-> John built this tower:
->   
-> B)
->   
-> C)
->   
-> D)
->   
-> E)
+> Giovanni built this tower:
 >
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_ecolier_gara#q08|src_kangourou_2022_ecolier_gara__Q08]]
 
 
 
@@ -477,13 +466,22 @@ From which point does the laser beam come out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What number to correct in the 3x3 grid*
+*Which number must be corrected?*
 
 ![[src_kangourou_2022_ecolier_gara__prob9.png]]
 
-> 9. Ivan entered numbers into a grid of 3×3 with the intention that the six sums obtained by adding the numbers of each row and each column would be equal. But Ivan made a mistake: What number should be corrected? A) 1 B) 3 C) One of the two 4. D) 5
+> 9. Ivan put numbers in a 3×3 grid, intending that the six sums obtained by adding the numbers of each row and of each column should be equal. Ivan made a mistake, though: which number must be corrected?
+>
+> A) 1
+> B) 3
+> C) One of the two 4s.
+> D) 5
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_ecolier_gara#q09|src_kangourou_2022_ecolier_gara__Q09]]
 
 
 
@@ -513,13 +511,20 @@ From which point does the laser beam come out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Piece to be inserted in accordance with the neighbours rule*
+*Which of the following pieces, once inserted in the grid, lets the rule still be kept?*
 
 ![[src_kangourou_2022_ecolier_gara__prob10.png]]
 
-> Every cell in the grid here on the side contains one of the numbers 1, 2, 3, 4, 5. The numbers entered so far comply with the following rule: if two cells have a side in common, they do not contain the same number. Which of the following pieces, inserted into the grid, allows you to continue to comply with the rule? A)
+> Each cell of the grid beside contains one of the numbers 1, 2, 3, 4, 5. The numbers entered so far keep to the following rule: if two cells have a side in common they do not contain the same number. Which of the following pieces, once inserted in the grid, lets the rule still be kept?
+>
+> A)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_ecolier_gara#q10|src_kangourou_2022_ecolier_gara__Q10]]
 
 
 
@@ -551,13 +556,23 @@ From which point does the laser beam come out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of the two male children (total of 22 females)*
+*How old are the two sons?*
 
 ![[src_kangourou_2022_ecolier_gara__prob11.png]]
 
-> Kangaroo mother's children are 2, 4, 5, 6, 8, 10 years old. Four of them are girls and their combined ages are 22. How old are the two boys? A) 2 and 8 B) 4 and 5 C) 5 and 8 D) 6 and 8 E) 6 and 10
+> Mother kangaroo's children are 2, 4, 5, 6, 8 and 10 years old. Four of them are girls and the sum of their ages is 22 years. How old are the two sons?
+>
+> A) 2 and 8
+> B) 4 and 5
+> C) 5 and 8
+> D) 6 and 8
+> E) 6 and 10
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_ecolier_gara#q11|src_kangourou_2022_ecolier_gara__Q11]]
 
 
 
@@ -591,15 +606,21 @@ From which point does the laser beam come out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many seats in the yard*
+*How many chairs were put in the courtyard?*
 
-> In the school yard, a few rows of chairs were lined up. Each row contains the same number of chairs. There are two rows of chairs in front of the row where Roberto is sitting and a row behind him. There are 3 chairs on his left and 5 on his right in his row. How many chairs have been put in the yard? A) 24
->   
+> In the school courtyard some rows of chairs have been lined up. Each row contains the same number of chairs. There are two rows of chairs in front of the row in which Roberto is sitting and one row behind him. In his row there are 3 chairs to his left and 5 to his right. How many chairs were put in the courtyard?
+>
+> A) 24
 > B) 27
->   
-> C) 32 D) 35 E) 36
+> C) 32
+> D) 35
+> E) 36
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_ecolier_gara#q12|src_kangourou_2022_ecolier_gara__Q12]]
 
 
 
@@ -635,15 +656,23 @@ From which point does the laser beam come out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many dots on the Aladdin carpet*
+*How many dots are there in all on Aladdin's carpet?*
 
 ![[src_kangourou_2022_ecolier_gara__prob13.png]]
 
-> Aladdin has a square rug. The carpet has an edge of dots distributed over two lines as the figure suggests, which however shows the carpet folded in part. Along each side of the carpet is the same number of dots: the one you see in the figure on the right side. How many dots are there in all on Aladdin's carpet? A) 20 B) 24
->   
-> C) 28 D) 32 E) 36
+> Aladdin has a square carpet. The carpet has a border of dots arranged on two lines, as the picture suggests, which however shows the carpet partly folded. Along each side of the carpet there is the same number of dots: the number you see in the picture on the right-hand side. How many dots are there in all on Aladdin's carpet?
+>
+> A) 20
+> B) 24
+> C) 28
+> D) 32
+> E) 36
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_ecolier_gara#q13|src_kangourou_2022_ecolier_gara__Q13]]
 
 
 
@@ -772,25 +801,24 @@ From which point does the laser beam come out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What numbers are pierced by folding the sheet*
+*Which numbers of the grid get a hole?*
 
 ![[src_kangourou_2022_ecolier_gara__prob14.png]]
 
-> A square grid containing all numbers from 1 to 36 is shown on a sheet. Enza folds the sheet twice, as suggested by the figure. Then she drills the folded sheet in line with the black circle indicated by the arrow. What numbers on the grid are being drilled? 3 2 5 4 2 1 1 4 3 1 3 4 2 5 5 2 1 4 1
->  
-> 3 3 2 4 2 5 2 4 1 3 1 3 4 4
->   
-> B) 1
->   
-> C) 2
->   
-> D) 2
->   
-> E) 3 1 2 3 3 4 2 4 1 3 3 1 4 2 1 4 1 7 13 19 25 31 2 8 14 20 26 32 3 9 15 21 27 33 4 10 16 22 28 34 5 11 17 23 29 35 6 12 18 24 30 36
-> 
-> A) 8, 11, 26, 29 B) 14, 17, 20, 23 C) 15, 16, 21, 22 D) 14, 16, 21, 23 E) 15, 17, 20, 22
+> On a sheet there is a square grid containing all the numbers from 1 to 36. Enza folds the sheet twice, as the picture suggests. She then punches a hole in the folded sheet at the black circle indicated by the arrow. Which numbers of the grid get a hole?
+>
+> A) 8, 11, 26, 29
+> B) 14, 17, 20, 23
+> C) 15, 16, 21, 22
+> D) 14, 16, 21, 23
+> E) 15, 17, 20, 22
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_ecolier_gara#q14|src_kangourou_2022_ecolier_gara__Q14]]
 
 
 
@@ -824,19 +852,23 @@ From which point does the laser beam come out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the four digits hidden in the addition*
+*What is their sum?*
 
 ![[src_kangourou_2022_ecolier_gara__prob15.png]]
 
-> In the addition you see on the right, four digits are not visible. How much is their sum? A) 8
->   
+> In the addition you see on the right, 4 digits are not visible. What is their sum?
+>
+> A) 8
 > B) 9
->   
 > C) 11
->   
-> D) 13 E) 14
+> D) 13
+> E) 14
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_ecolier_gara#q15|src_kangourou_2022_ecolier_gara__Q15]]
 
 
 
@@ -876,21 +908,26 @@ From which point does the laser beam come out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of figures selected by Viola*
+*What is the smallest number of shapes Viola can have chosen?*
 
 ![[src_kangourou_2022_ecolier_gara__prob16.png]]
 
-> Viola picks some of the shapes you see in the figure and describes them like this: Of the shapes I've chosen, two are gray, two are big and two are round. What's the smallest number of figures that Viola could have chosen? A) 2
->   
+> Viola chooses some of the shapes you see in the picture and describes them like this: "Among the shapes I have chosen, two are grey, two are large and two are round." What is the smallest number of shapes Viola can have chosen?
+>
+> A) 2
 > B) 3
->   
 > C) 4
->   
 > D) 5
->   
-> E) 6 Questions from N. 17 to N. 24 are worth five points each.
+> E) 6
+>
+> Questions 17 to 24 are worth 5 points each.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_ecolier_gara#q16|src_kangourou_2022_ecolier_gara__Q16]]
 
 
 
@@ -926,19 +963,24 @@ From which point does the laser beam come out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many white tiles are used in the cube*
+*How many white tiles were used?*
 
 ![[src_kangourou_2022_ecolier_gara__prob17.png]]
 
-> The cube in the picture is full and it was built using wooden tiles of the three types you see next to it. How many white tiles were used? A) 8
->   
+> The cube in the picture is solid and was built using wooden tiles of the three kinds you see beside. How many white tiles were used?
+>
+> A) 8
 > B) 11
->   
-> C) 13 D) 16
->   
+> C) 13
+> D) 16
 > E) 19
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_ecolier_gara#q17|src_kangourou_2022_ecolier_gara__Q17]]
 
 
 
@@ -975,19 +1017,22 @@ From which point does the laser beam come out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Impossible score in the three-team tournament*
+*With which number of points can no team have finished the tournament?*
 
-> Three football teams participate in a tournament. Each team meets the other two exactly once. If the match ends in a draw, 1 point is awarded to each of the two teams; otherwise, 3 points are awarded to the winning team, 0 points to the losing team. How many points can no team finish the tournament? A) 1
->   
+> Three football teams take part in a tournament. Each team meets each of the other two exactly once. If the match ends in a draw, each of the two teams is awarded 1 point; otherwise 3 points are awarded to the team that wins and 0 points to the one that loses. With which number of points can no team have finished the tournament?
+>
+> A) 1
 > B) 2
->   
 > C) 4
->   
 > D) 5
->   
 > E) 6
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_ecolier_gara#q18|src_kangourou_2022_ecolier_gara__Q18]]
 
 
 
@@ -1025,18 +1070,23 @@ From which point does the laser beam come out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the path of the ant on the pyramid*
+*How many centimetres long is the path the ant travelled to go up and down the pyramid?*
 
 ![[src_kangourou_2022_ecolier_gara__prob19.png]]
 
-> I've got a lot of cubes with side 10 centimeters, which I built a pyramid with. An ant has climbed up and down the pyramid following the thick line in the figure (on the left the path is symmetrical to the one clearly visible on the right). How long is the path taken by the ant to climb and descend from the pyramid? A) 30
->   
-> B) 60 C) 70 D) 80
->   
-> E) 90
+> I have many cubes of side 10 cm, with which I built a pyramid. An ant climbed up and down the pyramid following the thick line in the picture (on the left the path is the mirror image of the one clearly visible on the right). How many centimetres long is the path the ant travelled to go up and down the pyramid?
 >
+> A) 30
+> B) 60
+> C) 70
+> D) 80
+> E) 90
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_ecolier_gara#q19|src_kangourou_2022_ecolier_gara__Q19]]
 
 
 
@@ -1078,30 +1128,23 @@ From which point does the laser beam come out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which tiles can Alba use for the connections*
+*Which tiles can Alba use?*
 
 ![[src_kangourou_2022_ecolier_gara__prob20.png]]
 
-> From each of the houses of the 
-> puzzle a road comes out. Alba 
-> wants to insert in the center one 
-> of the tiles shown on the right, 
-> D in order to guarantee that there 
-> is a road from A to B and 
-> one from A to E, but to exclude that 
-> one can go from A to  
-> D. Alba can rotate the five tiles. Which tiles can she use?  
-> A) Both 1 and 2.    
->   
-> B) Both 2 and 3.  
->   
-> C) Both 1 and 4.  
->   
-> D) Both 4 and 5.  
->   
+> A road comes out of each of the houses in the puzzle. Alba wants to put in the centre one of the tiles shown on the right, so as to ensure that there is a road from A to B and one from A to E, but to rule out going from A to D. Alba may rotate the five tiles. Which tiles can she use?
+>
+> A) Both 1 and 2.
+> B) Both 2 and 3.
+> C) Both 1 and 4.
+> D) Both 4 and 5.
 > E) Both 1 and 5.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_ecolier_gara#q20|src_kangourou_2022_ecolier_gara__Q20]]
 
 
 
@@ -1144,21 +1187,23 @@ From which point does the laser beam come out between the mirrors
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum laps for George to meet Thea again in A.
+*What is the least number of laps around the square flower bed, once completed, after which Giorgio meets Thea again at point A?*
 
 ![[src_kangourou_2022_ecolier_gara__prob21.png]]
 
-> George and Thea start walking from the same point A, with the same speed, which they always maintain, but in the opposite direction. George walks on the edge of the square flowerbed, Thea on the edge of the rectangular flowerbed: find the dimensions of the two flowerbeds in the figure. What is the minimum number of turns around the square flowerbed completed by which George meets Thea again at point A? A) 1
->   
+> Giorgio and Thea start walking from the same point A, at the same speed, which they always keep, but in opposite directions. Giorgio walks on the edge of the square flower bed, Thea on the edge of the rectangular one: you will find the measurements of the two flower beds in the picture. What is the least number of laps around the square flower bed, once completed, after which Giorgio meets Thea again at point A?
+>
+> A) 1
 > B) 2
->   
 > C) 3
->   
 > D) 4
->   
 > E) 5
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_ecolier_gara#q21|src_kangourou_2022_ecolier_gara__Q21]]
 
 
 
@@ -1199,12 +1244,21 @@ Minimum laps for George to meet Thea again in A.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which girls eat the same number of cookies*
+*Which girls eat the same number of biscuits?*
 
-> Five girls are eating cookies. Laura eats two more cookies than Sofia; Betti eats three fewer cookies than Laura. Clara eats one cookie more than Betti and three fewer than Alice. Which girls eat the same number of cookies? A) Clara and Laura. B) Clara and Sofia. C) Laura and Alice. D) Sofia and Alice. E) Alice and Betti. A B C E F 1 2 3 4 5
+> Five girls eat biscuits. Laura eats two biscuits more than Sofia; Betti eats three biscuits fewer than Laura. Chiara eats one biscuit more than Betti and three fewer than Alice. Which girls eat the same number of biscuits?
 >
+> A) Chiara and Laura.
+> B) Chiara and Sofia.
+> C) Laura and Alice.
+> D) Sofia and Alice.
+> E) Alice and Betti.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_ecolier_gara#q22|src_kangourou_2022_ecolier_gara__Q22]]
 
 
 
@@ -1234,18 +1288,20 @@ Minimum laps for George to meet Thea again in A.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shape taken by the curled-up caterpillar*
+*Which of the following shapes may it have taken?*
 
 ![[src_kangourou_2022_ecolier_gara__prob23.png]]
 
-> The caterpillar shown in the figure has 
-> curled up to sleep. Which of the 
-> following shapes could it have taken? 
-> A)      
->  
+> The caterpillar shown in the picture has curled up to sleep. Which of the following shapes may it have taken?
+>
+> A)
 > C)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_ecolier_gara#q23|src_kangourou_2022_ecolier_gara__Q23]]
 
 
 
@@ -1319,22 +1375,20 @@ Minimum laps for George to meet Thea again in A.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the black cell of the coloured grid*
+*What number is in the black cell?*
 
 ![[src_kangourou_2022_ecolier_gara__prob24.png]]
 
-> The cells of the square grid on the right are of three different colors. Each cell contains an invisible number, equal numbers in cells of the same color. To the right of each row is the sum of the numbers contained in the cells of that row. What number is in the black cell? A) 6
->   
+> The cells of the square grid on the right are of three different colours. Each cell contains an invisible number, equal numbers in cells of equal colour. To the right of each row is written the sum of the numbers in the cells of that row. What number is in the black cell?
+>
+> A) 6
 > B) 8
->   
 > C) 10
->  
-> D) 12 E) 14
->   
-> 0 1 1 1 2 1 3 1 4 1 5 1 6 1 7 1 8 1 9 2 0 2 1 2 2 2 3 2 4
->  
-> B) D)
->   
-> E)
+> D) 12
+> E) 14
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_ecolier_gara#q24|src_kangourou_2022_ecolier_gara__Q24]]

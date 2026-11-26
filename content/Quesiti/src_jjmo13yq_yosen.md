@@ -32,13 +32,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area di una regione ombrata di sei unità quadrate incise in un cerchio*
+*Area della regione ombreggiata di una figura quadrata di sei unità inscritta in un cerchio*
 
-> Una figura fatta di quadrati $6$, ciascuno di lunghezza laterale $1$, è inserita in un cerchio come mostrato. Trovare l'area della regione indicata dall'incubamento (la regione ombrosa). Prendete qui il rapporto tra la circonferenza di un cerchio e il suo diametro a $\pi$.
+> Una figura composta da $6$ quadrati, ciascuno di lato $1$, è inscritta in una circonferenza come mostrato. Determinare l'area della regione indicata con l'ombreggiatura (la regione ombreggiata). Qui, si assuma che il rapporto tra la circonferenza di un cerchio e il suo diametro sia $\pi$.
 
 ![[src_jjmo13yq_yosen__q01.png]]
 
-**Risposta:** \frac{5\pi}{2}-2
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo13yq_yosen#q01|src_jjmo13yq_yosen__Q01]]
 
 
 
@@ -69,13 +74,22 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Etichette di conteggio 1,2,3,4 di dieci cerchi tangenti con etichette adiacenti distinte*
+*Contare le etichettature 1,2,3,4 di dieci cerchi tangenti con etichette adiacenti distinte*
 
-> Ci sono $10$ cerchi di uguale dimensione, disposti come indicato (un pila triangolare con $4$ cerchi nella riga inferiore, quindi $3$, quindi $2$, quindi $1$ in alto; ogni cerchio è tangente ai cerchi che tocca). Scriviamo un intero positivo in ogni cerchio in modo che si applichino entrambe le seguenti condizioni: \begin{itemize} \item Il numero intero $1$ è scritto esattamente in cerchio $1$, $2$ in cerchi esattamente $2$, $3$ in cerchi esattamente $3$, e $4$ in cerchi esattamente $4$. \item Ogni due cerchi reciprocamente tangenti contengono diversi interi. Quanti sono questi modi? Gli accordi ottenuti l'uno dall'altro mediante rotazione o riflessione sono considerati uguali.
+> Ci sono $10$ cerchi di uguali dimensioni, disposti come mostrato (una pila triangolare con $4$ cerchi nella riga inferiore, poi $3$, poi $2$, poi $1$ in cima; ogni cerchio è tangente ai cerchi con cui è a contatto). Scriviamo un numero intero positivo in ciascun cerchio in modo che valgano entrambe le seguenti condizioni:
+> \begin{itemize}
+> \item L'intero $1$ è scritto in esattamente $1$ cerchi, $2$ in esattamente $2$ cerchi, $3$ in esattamente $3$ cerchi e $4$ in esattamente $4$ cerchi. \item Qualsiasi due cerchi mutuamente tangenti contengono interi diversi.
+> \end{itemize}
+> Quante disposizioni di questo tipo esistono? Le disposizioni ottenute l'una dall'altra mediante rotazione o riflessione sono considerate identiche.
 
 ![[src_jjmo13yq_yosen__q02.png]]
 
-**Risposta:** 6
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo13yq_yosen#q02|src_jjmo13yq_yosen__Q02]]
 
 
 
@@ -103,13 +117,20 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ritmo di criptografia di moltiplicazione lunga mescolato; trovare il prodotto finale*
+*Crittoaritmetica a moltiplicazione lunga con numeri sbavati; trova il prodotto finale*
 
-> Taro fece un problema di moltiplicazione lunga, ma perché alcuni dei numeri scritti divennero macchiati e illeggibili, sostituì ogni cifra illeggibile con uno dei simboli di seguito. Un dato simbolo può rappresentare una delle due cifre, secondo la leggenda: $$\bigcirc \Rightarrow 0 \text{ or } 6,\qquad \ulcorner \Rightarrow 1 \text{ or } 7,\qquad \varphi \Rightarrow 4 \text{ or } 9.$$ La moltiplicazione è scritta nel layout di moltiplicazione a lungo standard (un numero a due cifre volte un numero a due cifre, con due prodotti parziali che vengono quindi aggiunti). Esistono esattamente $2$ modi per ricostruire la moltiplicazione originale; trovare le moltiplicazioni originali e, per ciascuna, il numero scritto nella riga inferiore (il prodotto finale). Nota: un posto vuoto può contenere qualsiasi cifra da $0$ a $9$, e la cifra principale (in posizione più alta) di ciascuna riga non deve essere $0$.
+> Taro ha preparato un problema di moltiplicazione in colonna, ma poiché alcune cifre scritte sono state sbavate e sono diventate illeggibili, ha sostituito ciascuna cifra illeggibile con uno dei simboli sottostanti. Un dato simbolo può rappresentare una delle due cifre, secondo la legenda:
+> $$\bigcirc \Rightarrow 0 \text{ or } 6,\qquad \ulcorner \Rightarrow 1 \text{ or } 7,\qquad \varphi \Rightarrow 4 \text{ or } 9.$$
+> La moltiplicazione è scritta nel formato standard della moltiplicazione in colonna (un numero di due cifre per un numero di due cifre, con due prodotti parziali che vengono poi sommati). Ci sono esattamente $2$ modi per ricostruire la moltiplicazione originale; determina le moltiplicazioni originali e, per ciascuna, il numero scritto nella riga inferiore (il prodotto finale). Nota: una casella vuota può contenere qualsiasi cifra da $0$ a $9$, e la cifra iniziale (della posizione più significativa) di ciascuna riga non deve essere $0$.
 
 ![[src_jjmo13yq_yosen__q03.png]]
 
-**Risposta:** 588
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo13yq_yosen#q03|src_jjmo13yq_yosen__Q03]]
 
 
 
@@ -133,11 +154,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Carte 1..12 suddivise tra A, B, C per la somma dei quadrati; trovare le carte di A e B*
+*Le carte da 1 a 12 vengono distribuite tra A, B e C in base alla somma dei quadrati; determinare le carte di A e di B*
 
-> Ci sono carte etichettate $1, 2, \ldots, 12$, una di ciascuna, $12$ carte in totale. Sono distribuite a tre persone A, B e C, ognuna con carte $4$. Per ciascuna persona viene calcolata la somma dei quadrati dei numeri sulle loro carte: la somma di A è $204$, la somma di B è $211$ e la somma di C è $235$. Determinare i numeri delle carte distribuite a A e a B.
+> Ci sono carte contrassegnate da $1, 2, \ldots, 12$, una per tipo, per un totale di $12$ carte. Vengono distribuite a tre persone, A, B e C, con $4$ carte ciascuna. Per ciascuna persona si calcola la somma dei quadrati dei numeri sulle proprie carte: la somma di A è $204$, quella di B è $211$ e quella di C è $235$. Determinare i numeri sulle carte distribuite ad A e a B.
 
-**Risposta:** A: \{2,6,8,10\},\ B: \{4,5,7,11\}
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo13yq_yosen#q04|src_jjmo13yq_yosen__Q04]]
 
 
 
@@ -163,13 +189,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-Accordi comuni di grande cerchio tangenti a due cerchi interni; trovare p^2-q^2*
+*Corde comuni del grande cerchio tangente a due cerchi interni; trovare p^2-q^2*
 
-> In un piano ci sono tre cerchi $A$, $B$, $O$ (chiamati dai loro centri). Il raggio di $A$ è $12$ e il raggio di $B$ è $8$. Inoltre $A$ e $B$ sono reciprocamente esteri (ciascuno è all'esterno dell'altro), e entrambi sono all'interno di $O$. Il centro di $O$ è il punto medio del segmento che unisce il centro di $A$ e il centro di $B$. (Ciascuno di $A$ e $B$ è tangente internamente a $O$.) Considera gli accordi di $O$ che sono tangenti a $A$ e $B$; le loro lunghezze assumono valori $2$. Indicando $p$ e $q$ con $p > q$, si trova $p^2 - q^2$.
+> In un piano ci sono tre cerchi $A$, $B$, $O$ (denominati in base ai loro centri). Il raggio di $A$ è $12$ e il raggio di $B$ è $8$. Inoltre, $A$ e $B$ sono esterni l'uno all'altro (ciascuno giace all'esterno dell'altro) e entrambi giacciono all'interno di $O$. Il centro di $O$ è il punto medio del segmento che unisce il centro di $A$ e il centro di $B$. (Ciascuno di $A$ e $B$ è tangente internamente a $O$.) Si considerino le corde di $O$ che sono tangenti sia a $A$ sia a $B$; le loro lunghezze assumono $2$ valori. Chiamando queste $p$ e $q$ con $p > q$, si determini $p^2 - q^2$.
 
 ![[src_jjmo13yq_yosen__q05.png]]
 
-**Risposta:** 384
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo13yq_yosen#q05|src_jjmo13yq_yosen__Q05]]
 
 
 
@@ -193,11 +224,16 @@ Accordi comuni di grande cerchio tangenti a due cerchi interni; trovare p^2-q^2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colour 2015 boxes red/blue/white; odd boxes non white, adiacenti boxes differiscono*
+*Colora le caselle del 2015 di rosso/blu/bianco; le caselle dispari non siano bianche, le caselle adiacenti siano di colore diverso*
 
-> Le caselle $2015$ sono disposte in fila. In ciascuna scatola mettiamo esattamente una palla, che è rossa, blu o bianca. Inoltre, nelle scatole in posizioni dispari che contano da sinistra non si colloca una palla bianca, e nelle scatole adiacenti non devono contenere palle dello stesso colore. Quanti modi ci sono per mettere le palle?
+> Ci sono $2015$ scatole disposte in fila. In ciascuna scatola mettiamo esattamente una palla, che è rossa, blu o bianca. Inoltre, nelle scatole in posizioni dispari partendo da sinistra non mettiamo una palla bianca, e scatole adiacenti non devono contenere palle dello stesso colore. Quante sono le modalità di collocazione delle palle?
 
-**Risposta:** 2\cdot 3^{1007}
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo13yq_yosen#q06|src_jjmo13yq_yosen__Q06]]
 
 
 
@@ -222,11 +258,17 @@ Accordi comuni di grande cerchio tangenti a due cerchi interni; trovare p^2-q^2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi l'equazione radicale incastonata con quattro termini per x positivo*
+*Risolvi un'equazione con radicale annidato a quattro termini per x positivo*
 
-> Trova il numero reale positivo $x$ che soddisfa la seguente equazione: $$x + \sqrt{x(x+1)} + \sqrt{x(x+2)} + \sqrt{(x+1)(x+2)} = 2.$$
+> Trovare il numero reale positivo $x$ che soddisfa la seguente equazione:
+> $$x + \sqrt{x(x+1)} + \sqrt{x(x+2)} + \sqrt{(x+1)(x+2)} = 2.$$
 
-**Risposta:** \frac{1}{24}
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo13yq_yosen#q07|src_jjmo13yq_yosen__Q07]]
 
 
 
@@ -252,13 +294,18 @@ Accordi comuni di grande cerchio tangenti a due cerchi interni; trovare p^2-q^2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di ciascun colore
+*Distribuisci le sfere a 5 colori tra A, B e C in modo che ciascuno abbia 0 o almeno 2 sfere di ogni colore*
 
-> Un sacchetto contiene sfere di $5$ colori: blu, giallo, nero, verde, rosso, con sfere $4$ di ogni colore, sfere $20$ in totale. Queste palle sono distribuite a tre persone A, B, C, dando a ciascuna palle $6$ e le palle $2$ rimangono nel sacchetto. Quanti modi ci sono per distribuire le palle in modo che tutte e tre le persone soddisfino la seguente condizione?
-> 
-> Condizione: per ogni colore di palla, ciascuna persona detiene palle $0$ di quel colore o almeno palle $2$ di quel colore.
+> Un sacchetto contiene palline di $5$ colori: blu, giallo, nero, verde, rosso; ci sono $4$ palline di ogni colore e $20$ palline in totale. Queste palline vengono distribuite a tre persone, A, B e C: a ciascuna vengono date $6$ palline, e nel sacchetto restano $2$ palline. In quanti modi si possono distribuire le palline in modo che tutte e tre le persone soddisfino la seguente condizione?
+>
+> Condizione: per ogni colore di pallina, ciascuna persona ha oppure $0$ palline di quel colore oppure almeno $2$ palline di quel colore.
 
-**Risposta:** 1530
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo13yq_yosen#q08|src_jjmo13yq_yosen__Q08]]
 
 
 
@@ -282,11 +329,16 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Indicare l'angolo PAC in triangolo a stelle uguali con punto interno P*
+*Trovare l'angolo PAC in un triangolo isoscele con un punto interno P*
 
-> Lasciate che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$, e lasciate che $P$ sia un punto all'interno di esso. Poiché $\angle BAC = 70^\circ$, $\angle PBC = 30^\circ$ e $\angle APC = 150^\circ$, si trova la misura di $\angle PAC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Sia $ABC$ un triangolo isoscele con $AB = AC$, e sia $P$ un punto all'interno di esso. Dato che $\angle BAC = 70^\circ$, $\angle PBC = 30^\circ$ e $\angle APC = 150^\circ$, determina la misura di $\angle PAC$. Qui $XY$ denota la lunghezza del segmento $XY$.
 
-**Risposta:** \frac{35}{2}^\circ
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo13yq_yosen#q09|src_jjmo13yq_yosen__Q09]]
 
 
 
@@ -314,15 +366,20 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le configurazioni accessibili sulla griglia 3x100 tramite set-row-heads / set-column-tails*
+*Conta le configurazioni raggiungibili su una griglia 3x100 tramite set-row-heads / set-column-tails*
 
-> C'è una griglia di cellule $3 \times 100$. Su ciascuna cella si colloca una moneta che si distingue per le sue due facce (capelli e code), tutte inizialmente a testa in su. Le seguenti operazioni 1 e 2 sono ripetute in qualsiasi ordine e numero di volte. Quante singole configurazioni di monete si possono ottenere?
-> 
-> Operazione 1: Scegli un numero intero $i$ con $1 \le i \le 3$ e gira ogni moneta nelle celle della riga $i$ in testa.
-> 
-> Operazione 2: Scegli un numero intero $j$ con $1 \le j \le 100$ e gira ogni moneta nelle celle della colonna $j$ in coda in alto.
+> C'è una griglia di $3 \times 100$ celle. Su ciascuna cella è posta una moneta riconoscibile dalle sue due facce (testa e croce); all'inizio, tutte le monete mostrano la testa. Le seguenti operazioni 1 e 2 vengono ripetute in qualsiasi ordine e qualsiasi numero di volte. Quante configurazioni distinte delle monete si possono ottenere?
+>
+> Operazione 1: Scegliere un intero $i$ tale che $1 \le i \le 3$ e far sì che ogni moneta nelle celle della riga $i$ mostri la testa.
+>
+> Operazione 2: Scegliere un intero $j$ tale che $1 \le j \le 100$ e far sì che ogni moneta nelle celle della colonna $j$ mostri la croce.
 
-**Risposta:** 6\cdot 4^{100}-6\cdot 3^{100}+2^{100}
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo13yq_yosen#q10|src_jjmo13yq_yosen__Q10]]
 
 
 
@@ -346,11 +403,16 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque punti, quattro collineari, con distanze indicate e angoli uguali; trovare BC/AD*
+*Cinque punti, quattro collineari, con distanze date e angoli uguali; trovare BC/AD*
 
-> In un piano ci sono $5$ punti $A, B, C, D, O$. Tra questi, $A, B, C, D$ si trova in questo ordine sulla stessa linea retta, mentre $O$ non è in quella linea. Si ritiene che $OA = 16$, $OB = 10$, $OC = 9$, $OD = 12$ e $\angle AOB = \angle COD$. Trova il valore di $\dfrac{BC}{AD}$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> In un piano ci sono $5$ punti $A, B, C, D, O$. Tra questi, $A, B, C, D$ giacciono, in questo ordine, sulla stessa retta, mentre $O$ non giace su quella retta. Valgono $OA = 16$, $OB = 10$, $OC = 9$, $OD = 12$ e $\angle AOB = \angle COD$. Determinare il valore di $\dfrac{BC}{AD}$. Qui $XY$ denota la lunghezza del segmento $XY$.
 
-**Risposta:** \frac{38}{105}
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo13yq_yosen#q11|src_jjmo13yq_yosen__Q11]]
 
 
 
@@ -376,10 +438,15 @@ Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Puzzle a pezzi scorrevoli su tavola 2x7; movimenti minimi per spostare una moneta*
+*Puzzle a pezzi scorrevoli su una scacchiera 2x7; numero minimo di mosse per spostare una moneta*
 
-> C'è una griglia di cellule $2 \times 7$. Nella cella inferiore a sinistra si colloca un pezzo e su ciascuna delle altre celle si colloca una moneta che si distingue per le sue due facce. La seguente operazione viene eseguita $K$ volte, dopo la quale la moneta originariamente nella cella inferiore a destra ha cambiato posizione, mentre ogni altra moneta è nella stessa posizione che all'inizio. Trova il minimo valore possibile di $K$.
-> 
-> Operazione: Scegli una delle celle adiacenti (in alto, in basso, a sinistra o a destra) alla cella che contiene il pezzo e scambia il pezzo con la moneta in quella cella (scambia le loro posizioni).
+> C'è una griglia di $2 \times 7$ celle. Nella cella in basso a sinistra viene collocato un pezzo, e in ciascuna delle altre celle viene collocata una moneta distinguibile per le sue due facce. L'operazione seguente viene eseguita $K$ volte; dopo di ciò, la moneta che inizialmente si trovava nella cella in basso a destra ha cambiato posizione, mentre tutte le altre monete sono nella stessa posizione di partenza. Trovare il valore minimo possibile di $K$.
+>
+> Operazione: scegli una delle celle adiacenti (in su, in giù, a sinistra o a destra) alla cella che contiene il pezzo, e scambia il pezzo con la moneta che si trova in quella cella (scambiane le posizioni).
 
-**Risposta:** 47
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo13yq_yosen#q12|src_jjmo13yq_yosen__Q12]]

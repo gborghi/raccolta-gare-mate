@@ -33,11 +33,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum common points at 2024 circles*
+*Maximum common points of 2024 circumferences*
 
-> (Point 2) In the plane are drawn 2024 circles all distinct from each other. How many common points could all the circles have at most? A) 0 B) 1 C) 2 D) 3 E) 1012 Answer: C). The solution. For two points infinite planar circles pass (each point on the axis of the segment that has them as endpoints is the center of one of them), for three points only one passes.
+> (Point 2) In the plane, 2024 circles are drawn, all distinct from one another. What is the maximum possible number of points common to all the circles?
+> A) 0             B) 1             C) 2             D) 3            E) 1012 
+> Answer: C). Solution. An infinite number of coplanar circles pass through two points (each point on the perpendicular bisector of the segment having those two points as endpoints is the center of one of them); exactly one circle passes through three points.
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q01|src_kangourou_2024_cadet_semifinale__Q01]]
 
 
 
@@ -116,15 +122,15 @@ level: kangourou
 \end{document}
 ```
 
-> (3 points) The triangle ABC in the figure is equilateral, with side 12 
-> cm long. The segment MN is parallel to side AB, while the segment AM is 
-> 10 cm long. How many square centimeters is the area of triangle ANC? 
+> (Point 3) The triangle ABC in the figure is equilateral, with a side length of 12 cm. The segment MN is parallel to side AB, while the segment AM is 10 cm long. By how many square centimetres is the area of triangle ANC?
 > A) 36        B) 30 √3         C) 10 √3          D) 6√3          E) 10  
-> Answer: D). Sol. The height of triangle ABC is 12 × √3
-> 2  cm and coincides with 
-> that of triangle ANC with respect to base CN, which is 2 cm long.
+> Answer: D). Sol. The height of triangle ABC is 12 × √3/2 cm, and it is equal to the height of triangle ANC relative to base CN, which is 2 cm long.
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q02|src_kangourou_2024_cadet_semifinale__Q02]]
 
 
 
@@ -168,24 +174,20 @@ level: kangourou
 
 ![[src_kangourou_2024_cadet_semifinale__prob3.png]]
 
-> (Points 3) The two images show the same park divided into 5 zones; the 
-> letters present in three of the zones indicate their area. Two 
-> kangaroos live in the park: one usually grazes in the lighter part of the first image, 
-> the other in the lighter part of the second. The two parts partially 
-> overlap. In this way, both kangaroos have available 
-> exactly half of the area of the park. Which of the following equalities is 
-> certainly true?  
+> (Point 3) The two images show the same park divided into 5 zones; the letters in three of the zones indicate the area of those zones. Two kangaroos live in the park: one usually grazes in the lighter part of the first image, and the other in the lighter part of the second image. The two parts overlap partially. In this way, both kangaroos have exactly half of the park's area available to them. Which of the following equalities is certainly true?
 > A) A = C 
 > B) B = A + C 
->  
+>
 > C) B = (A + C)/2 
 > D) B = 2(A + C)/3 
 > E) B = 3(A + C)/5  
-> Answer B). Sol. Let D and E be the areas of the zones for which no letters are indicated, it must be  
-> B + D = A + E + C = B + E (each kangaroo has available half of the park). From the second equality it follows 
-> that B) is true in any case. It is trivial to find examples in which A) is false.
+> Answer B). Sol. Let D and E be the areas of the zones for which no letters are indicated; then B + D = A + E + C = B + E (each kangaroo has half of the park available). From the second equality, it follows that B) is true in any case. It is trivial to find examples in which A) is false.
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q03|src_kangourou_2024_cadet_semifinale__Q03]]
 
 
 
@@ -214,17 +216,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of Sofia's two numbers from 5x+y=106*
+*Sum of Sofia's two numbers, given 5x+y=106*
 
-> (4 points) Sofia has in mind two positive integers less than 20 that differ by more than 2. 
-> She multiplies one by 5, adds the other to the product she obtained and doubles the result: she thus gets 
-> 212. What is the sum of the two numbers she had in mind?  
+> (Question 4) Sofia has in mind two positive integers less than 20 that differ by more than 2. She multiplies one of them by 5, adds the other to the product she obtained, and doubles the result: she thus gets 212. What is the sum of the two numbers she had in mind?
 > A) 26             B) 27              C) 28            D) 29              E) 30 
-> Answer: E). Sol. If x and y are the two numbers, it must be 5x + y = 106. Let us observe that x and y cannot 
-> exceed 19. If x = 19 we get y = 11 which is acceptable; on the other hand x = 18 would entail y = 16, not acceptable. 
-> Obviously if x  17 the value of y becomes no less than 21 and all the more so the result is unacceptable.
+> Answer: E). Sol. If x and y are the two numbers, then 5x + y = 106 must hold. Note that x and y cannot exceed 19. If x = 19, then y = 11, which is acceptable; however, x = 18 would give y = 16, which is not acceptable. Obviously, if x ≤ 17, the value of y becomes not less than 21, and all the more so the result is unacceptable.
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q04|src_kangourou_2024_cadet_semifinale__Q04]]
 
 
 
@@ -264,11 +266,18 @@ level: kangourou
 
 *Which word is divisible by 11 (KANGAROO)*
 
-> In the word KANGAROO, each letter represents a number: equal letters, equal numbers, different letters, different numbers. The eight-digit number represented is divisible by 11. Preserving the same law of representation, which of the following words certainly represents a number also divisible by 11? A) RANG B) NGAR C) KANGO D) RKGN E) RKNG
-> 
-> Answer D. The solution. The criterion of divisibility by 11 requires that the difference between the sum of the even and odd place numbers is divisible by 11. So we have K + N + A + O - (A + G + R + O) is divisible by 11, so also K + N - (G + R) is divisible by 11. So it's RKGN, whereas the numbers represented by the other words might not be.
+> (Point 4) In the word KANGAROO, each letter represents a digit: identical letters represent identical digits, and different letters represent different digits. The 8-digit number represented is divisible by 11. Keeping the same representation rule, which of the following words certainly represents a number that is also divisible by 11?
+> A) RANG B) NGAR C) KANGO D) RKGN E) RKNG
+> C M N B A
+>
+> Answer D). Solution. The divisibility rule for 11 requires that the difference between the sum of the digits in even positions and the sum of the digits in odd positions be divisible by 11. Thus, K + N + A + O – (A + G + R + O) is divisible by 11, so K + N – (G + R) is also divisible by 11. Therefore, RKGN is divisible by 11, whereas the numbers represented by the other words may not be.
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q05|src_kangourou_2024_cadet_semifinale__Q05]]
 
 
 
@@ -298,9 +307,15 @@ level: kangourou
 
 *Minimum number of digits of N (20230...0)*
 
-> (Points 4) The decimal representation of the integer N has the form 20230...0, where the unindicated digits are all 0. It is known that 0,0002024% of N is greater than 2025. How many digits must N have at least? A) 6 B) 7 C) 8 D) 10 E) 12 Answer: D). Solution. The positive integer k must be such that 2023 × 10k × 2024 / 107+2 > 2025: one must therefore have k ≥ 6.
+> (Point 4) The decimal representation of the integer N is of the form 20230…0, where all the digits not shown are 0. It is known that 0.0002024% of N is greater than 2025. What is the minimum number of digits that N must have?
+> A) 6             B) 7             C) 8            D) 10           E) 12 
+> Answer: D). Solution. The positive integer k must satisfy 2023 × 10^k × 2024 / 107+2 > 2025; therefore, k ≥ 6 must hold.
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q06|src_kangourou_2024_cadet_semifinale__Q06]]
 
 
 
@@ -337,16 +352,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many blocks of 2024...2024 divisible by 4*
+*How many blocks of 2024...2024 divisible by 4?*
 
-> (5 points) Consider the alignment of digits
-> 202420242024…20242024
-> in which the ordered quadruple 2024 appears 1,012 times. Any block formed by any number of consecutive digits in this alignment that does not start with 0 defines an integer (for example, the block 4202420, starting from the fourth digit and ending at the tenth, or from the eighth to the fourteenth, defines the number 4.202.420). How many distinct integers determined by valid blocks are divisible by 4?
->
-> A) 2021             B) 2024             C) 2025             D) 6067            E) 6070
-> Answer: E). Solution. Only those numbers we are interested in cannot end with 2 (indeed, no number of at least three digits ending in 02 or 42 is divisible by 4), but they may end with 0 (i.e., for us, ending in 20) or with 4. Every valid block ending in 0 must start with 20, or with 2420, or with 420, and may be followed by a number of consecutive 2420 blocks ranging from 0 to 1,011 for 20, and from 0 to 1,010 for 2420 and 420, giving a total of 3,034 possibilities. Every valid block ending in 4 must start with 2024, or with 24, or with 4, and there are 1,012 possibilities in each case, for a total of 3,036.
+> (Point 5) Consider the sequence of digits 202420242024…20242024 in which the ordered quartet 2024 appears 1,012 times. Each block consisting of any number of consecutive digits in this sequence and not beginning with 0 identifies an integer (for example, the block 4202420—which starts at the fourth digit and ends at the tenth, or starts at the eighth digit and ends at the fourteenth, and so on—identifies the number 4,202,420). How many integers, all distinct from one another, determined by admissible blocks, are divisible by 4?
+> A) 2021             B) 2024             C) 2025             D) 6067            E) 6070 
+> Answer: E). Solution. All and only the numbers that concern us cannot end in 2 (indeed, no number with at least three digits that ends in 02 or 42 is divisible by 4), but they can end in 0 (that is, for us, in 20) or in 4. Every acceptable block that ends in 0 must begin with 20 or with 2420 or with 420 and may be followed by a number of consecutive 2420s ranging from 0 to 1,011 for 20 and from 0 to 1,010 for 2420 and 420, for a total of 3,034 possibilities. Every acceptable block that ends in 4 must begin with 2024 or with 24 or with 4, and there are 1,012 possibilities in each case, for a total of 3,036.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q07|src_kangourou_2024_cadet_semifinale__Q07]]
 
 
 
@@ -379,11 +396,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of Spaniards with 143 handshakes
+*Maximum number of Spaniards with 143 handshakes*
 
-> (Point 5) At a party at the Italian Embassy a number of Spaniards and some Frenchmen were invited, more than one for each nationality and even more than one Italian was present. Every Italian welcomes every foreign guest once and only once with a handshake and there are no other handshakes: in the end, the handshakes total 143. How many Spaniards could there be at most? A) 7 B) 8 C) 9 D) 10 E) 11 Answer: E). Solution. The number of handshakes is the product of the number of Italians with the sum of the number of Spaniards and the number of Frenchmen. If we want to express 143 as the product of integers, there are only two possibilities: 1 × 143 and 11 × 13. The first is to be ruled out by hypothesis. So the foreigners could be a maximum of 13 and then the Spanish a maximum of 13 – 2 = 11.
+> (Point 5) At a party at the Italian embassy, some Spaniards and some French people were invited—more than one from each nationality—and the Italians present are also more than one. Each Italian welcomes each foreign guest once and only once with a handshake, and there are no other handshakes: in the end, the total number of handshakes is 143. What is the maximum possible number of Spaniards invited?
+> A) 7             B) 8             C) 9             D) 10            E) 11 
+> Answer: E). Solution. The number of handshakes is the product of the number of Italians and the sum of the number of Spaniards and the number of French people. If we want to express 143 as a product of integers, there are only two possibilities: 1 × 143 and 11 × 13. The first must be ruled out by hypothesis. Then the foreigners could be at most 13, and therefore the Spaniards could be at most 13 – 2 = 11.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q08|src_kangourou_2024_cadet_semifinale__Q08]]
 
 
 
@@ -418,15 +442,24 @@ Maximum number of Spaniards with 143 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Because the square with integer coordinates cannot have area 27*
+*Why can't a square with integer coordinates have an area of 27?*
 
-> (Points 6) In the Cartesian plane, consider a square Q whose vertices each have both coordinates integers. For which of the following reasons cannot the area of Q be 27? A) Because 27 is an odd integer. B) Because 27 is not the sum of two perfect squares. C) Because 27 is a perfect cube. D) Because 27 is not a perfect square. E) None of the above is a valid reason. Answer: B). Solution. By the Pythagorean theorem, the square of the measure of the side of Q must be the sum of two perfect squares. The other four statements are easily rebuttable (to refute C, for example, it is sufficient to assume that two adjacent vertices of Q are the points (0, 2) and (2, 0)).
->  
-> 
->  
+> (Point 6) In the Cartesian plane, consider a square Q whose vertices each have both coordinates as integers. For which of the following reasons can it not happen that the area of Q is 27?
+> A) Because 27 is an odd integer. B) Because 27 is not the sum of two perfect squares.
+> C) Because 27 is a perfect cube. D) Because 27 is not a perfect square.
+> E) None of the foregoing are valid reasons.
+> Answer: B). Solution. By the Pythagorean theorem, the square of the length of a side of Q must be the sum of two perfect squares. The other four statements are easily refuted (to refute C, for example, it suffices to assume that two adjacent vertices of Q are the points (0, 2) and (2, 0)).
+>
+>
+>
 > Open-ended questions
 
-**Answer:** B
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q09|src_kangourou_2024_cadet_semifinale__Q09]]
 
 
 
@@ -461,9 +494,13 @@ Maximum number of Spaniards with 143 handshakes
 
 ![[src_kangourou_2024_cadet_semifinale__prob10.png]]
 
-> (Points 4) An n-antiprism is a solid like the one suggested in the figure. It has a lower base and an upper base which are congruent regular polygons with n sides and a lateral surface consisting of triangles obtained by joining each pair of adjacent vertices of each base with one of the vertices of the other, as also suggested by the figure. How many faces, including the bases, does a 2024-antiprism have? The answer is 4050. The solution. Each side of each base generates one and only one face of the side surface.
+> (Point 4) An n-antiprism is a solid like the one suggested by the figure. It has a lower base and an upper base that are congruent regular n-gons, and a lateral surface consisting of triangles formed by joining each pair of adjacent vertices of each base to one of the vertices of the other base, again as suggested by the figure. How many faces, including the bases, does a 2024-antiprism have? Answer: 4050. Solution. Each side of each base generates exactly one face of the lateral surface.
 
-**Answer:** 4050
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q10|src_kangourou_2024_cadet_semifinale__Q10]]
 
 
 
@@ -514,7 +551,7 @@ Maximum number of Spaniards with 143 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of six numbers written on the faces of a cube*
+*Minimum sum of six coprime numbers on the faces of a cube*
 
 ![[src_kangourou_2024_cadet_semifinale__prob11.png]]
 
@@ -537,9 +574,14 @@ Maximum number of Spaniards with 143 handshakes
 \end{document}
 ```
 
-> (Points 5) On each face of a cube is written a positive integer, and all six numbers are different from each other. You know, however you consider two adjacent faces, the only common divisor of the two numbers that you see is 1. What is the minimum value of the sum of the six numbers? Remember, they say two faces are adjacent if they have an edge in common. Answer: 0022. Solution. It is clear that the number 6 cannot be used because it would necessarily be found on a face adjacent to the one with 2 or the one with 3 or the one with 4.
+> (Point 5) On each face of a cube, a positive integer is written, and the six numbers are all different from one another. You know that, no matter which two adjacent faces you consider, the only common divisor of the two numbers appearing on them is 1. What must the sum of the six numbers be, at minimum? Recall that two faces are said to be adjacent if they share an edge. Answer: 0022. Solution. It is clear that the number 6 cannot be used, since it would necessarily end up on a face adjacent to the face bearing 2, or to the face bearing 3, or to the face bearing 4.
 
-**Answer:** 0022
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q11|src_kangourou_2024_cadet_semifinale__Q11]]
 
 
 
@@ -568,11 +610,16 @@ Maximum number of Spaniards with 143 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of numbers to say to delete 2.60*
+*Minimum number of numbers to say to cancel 2..60*
 
-> (Points 5) I wrote all the integers from 2 to 60 on a sheet. I then gave the sheet to a friend with the following instruction: every time I say a number, you have to delete that number and all its multiples from the sheet. I want all the numbers written on the paper to be deleted. How many numbers, at least, do I say? Answer: 0017. Solution. I have to ask him to delete all prime numbers less than 60, that is, those that have no divisors other than 1 and themselves.
+> (Points 5) I wrote down on a sheet all the integers from 2 to 60 inclusive. I then gave the sheet to a friend along with the following instruction: each time I say a number, you must cross out on the sheet that number and all of its multiples. I want all the numbers written on the sheet to be crossed out in the end. What is the minimum number of numbers I must say? Answer: 0017. Solution. I must ask him to cross out all the prime numbers less than 60—that is, those that have no divisors other than 1 and themselves.
 
-**Answer:** 0017
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q12|src_kangourou_2024_cadet_semifinale__Q12]]
 
 
 
@@ -602,11 +649,16 @@ Maximum number of Spaniards with 143 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to divide 1..18 into square-sum pairs*
+*In how many ways can 1..18 be divided into pairs whose sum is a perfect square?*
 
-> (Points 6) The set of integers between 1 and 18 included must be divided into nine pairs, so that the sum of the two numbers that make up each pair is a perfect square. How many different ways can you do that? The answer is: 0001. The solution. The perfect squares obtained by adding the two numbers of the various pairs can only be 4, 9, 16 or 25. It is immediately apparent that some couplings are mandatory: (18, 7), (17, 8), (16, 9); furthermore, since 9 - 2 = 7, coupling (2, 14) is also mandatory. However, it follows from the latter that all the others are also required: one must have (11, 5), hence in the order (4, 12), (13, 3), (6, 10), (1, 15).
+> (Points 6) The set of integers from 1 to 18 inclusive must be divided into nine pairs such that the sum of the two numbers in each pair is a perfect square. In how many different ways is this possible? Answer: 0001. Solution. The perfect squares obtainable by adding the two numbers in the various pairs can only be 4, 9, 16, or 25. It is immediately apparent that some pairings are forced: (18, 7), (17, 8), (16, 9); moreover, since 9 – 2 = 7, the pairing (2, 14) is also forced. However, from this last one it follows that all the others are also forced: we must have (11, 5), and therefore, in order, (4, 12), (13, 3), (6, 10), (1, 15).
 
-**Answer:** 0001
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q13|src_kangourou_2024_cadet_semifinale__Q13]]
 
 
 
@@ -632,13 +684,17 @@ Maximum number of Spaniards with 143 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Centrally symmetrical surface of the L-solid*
+*Surface of the centrally symmetric L-shaped solid*
 
 ![[src_kangourou_2024_cadet_semifinale__prob14.png]]
 
-> (Points 6) In the figure you can see an isolated L-shaped brick made from a 1 cm side cube by removing a parallelepiped in centimetres, 1⁄2, 1⁄2 and
+> (Point 6) In the figure, you can see an isolated L-shaped block obtained from a cube with an edge length of 1 cm by removing a parallelepiped with dimensions, in centimeters, ½, ½, and
 
-**Answer:** 0042
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q14|src_kangourou_2024_cadet_semifinale__Q14]]
 
 
 
@@ -662,11 +718,16 @@ Maximum number of Spaniards with 143 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of (cd-ab)(c+d) with sum and inverse sum both zero*
+*Value of (cd-ab)(c+d) with sum and sum inverse both zero*
 
-> 15. (6 points) Four real numbers a, b, c, d all different from 0 are such that their sum is 0, as is the sum of their inverses with the inverse of their product. What is the value of (cd – ab)(c + d)? Answer: 0001. Solution. From the second condition one obtains cd(a + b) + ab(c + d) = – 1. From the first, since a + b = – (c + d), one then obtains that the number sought is 1.
+> 15. (Points 6) Four real numbers a, b, c, d, all nonzero, satisfy the condition that their sum is 0, as is the sum of their reciprocals together with the reciprocal of their product. What is the value of (cd – ab)(c + d)? Answer: 0001. Solution. From the second condition, we obtain cd(a + b) + ab(c + d) = –1. From the first condition, since a + b = –(c + d), it follows that the desired number is 1.
 
-**Answer:** 0001
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q15|src_kangourou_2024_cadet_semifinale__Q15]]
 
 
 
@@ -689,11 +750,15 @@ Maximum number of Spaniards with 143 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-For how many seconds Aldo is waiting for Bernardo
+*For how many seconds does Aldo wait for Bernardo?*
 
-> 16. The wheels of Aldo's bicycle have a radius of 30 cm, those of Bernardo's bicycle a radius of 24 cm. Aldo and Bernardo start to pedal at the same time in the same direction and, at the same time, the number of turns made by their wheels is the same and remains constant during the pedal. After 15 minutes, Aldo stops to wait for Bernardo. For how many seconds will he have to wait for him? The answer is 0225. The solution. The ratio of the lengths of the radii (A/B) is 5/4, the length of the circumference is proportional to the radius, so the inverse ratio is between the time required to travel the same distance. So to get to where Aldo got to, Bernardo needs 5/4 of Aldo's time, so 1/4 more than he has so far.
+> 16. (Points 7) The wheels of Aldo's bicycle have a radius of 30 cm, and those of Bernardo's bicycle have a radius of 24 cm. Aldo and Bernardo start pedaling at the same instant in the same direction, and, over the same period of time, their wheels make the same number of revolutions, and this number remains constant during pedaling. After 15 minutes, Aldo stops to wait for Bernardo. For how many seconds will he have to wait? Answer: 0225. Solution. The ratio of the radii (A/B) is 5/4; the circumference is proportional to the radius, so the inverse proportion holds for the times required to cover the same distance. Therefore, to reach where Aldo has arrived, Bernardo needs 5/4 of the time Aldo has taken, which means 1/4 more than the time Aldo has taken so far.
 
-**Answer:** 0225
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q16|src_kangourou_2024_cadet_semifinale__Q16]]
 
 
 
@@ -716,11 +781,15 @@ For how many seconds Aldo is waiting for Bernardo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many integers between 0 and 10 expressed with four 4s*
+*How many integers between 0 and 10 can be expressed using four 4s?*
 
-> 17. (Points 7) I want to express as many integers as possible using just the number 4 and exactly four times. I can place the digit 4 several times, use the four arithmetic operations and arrange brackets in the ways I think are appropriate. For example, I can write 0 = 4 – 4 + 4 – 4, or 15 = 44/4 + 4, or 160 = (44 – 4) × 4. How many of the integers between 0 and 10 can I express with this procedure? The answer is 0011. The solution. 0 = 4 – 4 + 4 – 4; 1 = 44/44; 2 = 4/4 + 4/4; 3 = (4 + 4 + 4)/4; 4 = 4 – (4 – 4)/4; 5 = (4 × 4 + 4)/4; 6 = (4 + 4)/4 + 4; 7 = 44/4 – 4; 8 = 4 + 4 + 4 – 4; 9 = 4 + 4 + 4/4; 10 = (44 – 4)/4.
+> 17. (Points 7) I want to express as many integers as possible using only the digit 4 and exactly four times. I may juxtapose the digit 4 multiple times, use the four arithmetic operations, and place parentheses in whatever ways I see fit. For example, I can write 0 = 4 – 4 + 4 – 4, or 15 = 44/4 + 4, or 160 = (44 – 4) × 4. How many of the integers from 0 to 10 inclusive can I express using this procedure? Answer: 0011. Solution. 0 = 4 – 4 + 4 – 4; 1 = 44/44; 2 = 4/4 + 4/4; 3 = (4 + 4 + 4)/4; 4 = 4 – (4 – 4)/4; 5 = (4 × 4 + 4)/4; 6 = (4 + 4)/4 + 4; 7 = 44/4 – 4; 8 = 4 + 4 + 4 – 4; 9 = 4 + 4 + 4/4; 10 = (44 – 4)/4.
 
-**Answer:** 0011
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q17|src_kangourou_2024_cadet_semifinale__Q17]]
 
 
 
@@ -744,8 +813,13 @@ For how many seconds Aldo is waiting for Bernardo
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of consecutive integers with sum of cubes = 2024
+*Maximum number of consecutive integers whose cubes sum to 2024*
 
-> 18. (Points 8) Adding the cubes of some consecutive integers gives us a result of 2024. How many of these integers can be at most? It may be useful to remember that for every positive integer n, the sum of the cubes of the first n positive integers coincides with the square of the sum of these first n integers. The answer is 0011. The solution. The sum of the first n positive integers is n(n + 1)/2: quickly finds that $45^{2}$ = 2025 is the sum of the cubes of the integers from 1 to 9. So 2024 is the sum of the cubes of integers from 2 to 9, but also the cubes of integers from -1 to 9. It is easy to see that this sequence of consecutive integers cannot be extended.
+> 18. (8 points) Adding the cubes of some consecutive integers yields 2024. What is the maximum possible number of such integers? It may be helpful to recall that, for any positive integer n, the sum of the cubes of the first n positive integers equals the square of the sum of those first n integers. Answer: 0011. Solution. The sum of the first n positive integers is n(n + 1)/2; it is then quickly found that $45^{2}$ = 2025 is the sum of the cubes of the integers from 1 to 9. Thus 2024 is the sum of the cubes of the integers from 2 to 9, but also of the cubes of the integers from -1 to 9. It is easy to verify that this sequence of consecutive integers cannot be extended.
 
-**Answer:** 0011
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_cadet_semifinale#q18|src_kangourou_2024_cadet_semifinale__Q18]]

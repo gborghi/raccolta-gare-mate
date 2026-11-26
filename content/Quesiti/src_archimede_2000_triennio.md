@@ -35,9 +35,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of the given powers is greater than the unit*
+*Which of the given powers is greater than one*
 
-> Which of the following is greater than the unit?
+> Which of the following numbers is greater than one?
 >
 > - **(A)** 3 4  3 4
 > - **(B)** (1, 1)−1,1
@@ -45,7 +45,10 @@ level: triennio
 > - **(D)** ( √ 2 −1) √ 2−1
 > - **(E)** (2 − √ 3)2− √
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2000_triennio#q02|src_archimede_2000_triennio__Q02]]
 
 
 
@@ -75,17 +78,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Between the ages of the father and the sum of the children
+*Years until the father's age equals the sum of the children's ages*
 
-> A father is 46 years old and the sum of the ages of his three children is 22. By how many years will the father's age be equal to the sum of the children's ages?
+> A father is 46 years old, and the ages of his three children add up to 22. In how many years will the father's age equal the sum of the children's ages?
 >
 > - **(A)** 6
 > - **(B)** 8
 > - **(C)** 10
 > - **(D)** 12
-> - **(E)** I never did.
+> - **(E)** never.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2000_triennio#q04|src_archimede_2000_triennio__Q04]]
 
 
 
@@ -115,9 +121,9 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle in B given the angle between blades in P*
+*Angle at B given angle between bisectors at P*
 
-> In the triangle ABC the semicircles AN and CM are the bisettes of $\widehat{BAC}$ and $\widehat{BCA}$ and intersect in P. Knowing that $\widehat{APC}$ = 140°, what is the angle in B?
+> In triangle ABC, the rays AN and CM are the bisectors of $\widehat{BAC}$ and $\widehat{BCA}$ and intersect at P. Given that $\widehat{APC}$ = 140°, what is the measure of the angle at B?
 >
 > - **(A)** 90°
 > - **(B)** 100°
@@ -125,7 +131,10 @@ Between the ages of the father and the sum of the children
 > - **(D)** 120°
 > - **(E)** 130°.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2000_triennio#q05|src_archimede_2000_triennio__Q05]]
 
 
 
@@ -157,17 +166,21 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many numbers with consecutive digits are prime*
+*Primes among three-digit numbers with consecutive digits*
 
-> Consider the three-digit natural numbers n which have the following property: the digits of n are three consecutive numbers in any order (example 645). How many of these numbers are prime?
+> Consider the three-digit natural numbers n with the following property: the digits of n are three consecutive numbers in any order (for example 645). How many of these numbers are prime?
 >
-> - **(A)** No one .
+> - **(A)** none
 > - **(B)** 1
 > - **(C)** 2
-> - **(D)** more than 2 but less than 10
+> - **(D)** more than 2, but less than 10
 > - **(E)** more than 10.
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2000_triennio#q06|src_archimede_2000_triennio__Q06]]
 
 
 
@@ -198,17 +211,21 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x per triangle with a maximum side area of 4,5,x*
+*Value of x for the triangle of maximum area with sides 4, 5, x*
 
-> Of all triangles whose sides measure 4, 5, x, that of maximum area will have x equal to
+> Among all triangles whose sides measure 4, 5, x, the one with maximum area will have x equal to
 >
 > - **(A)** 4
 > - **(B)** 5
-> - **(C)** 4,5
+> - **(C)** 4.5
 > - **(D)** √ 20
 > - **(E)** √ 41.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2000_triennio#q07|src_archimede_2000_triennio__Q07]]
 
 
 
@@ -241,9 +258,9 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Woven and woven fabrics length in 1999*
+*Length of cloth woven and unwoven in 1999*
 
-> A new Penelope weaves a canvas for the whole of 1999, from the first to the last day. Every morning she weaves 20 cm of cloth and every afternoon she weaves a little, 20 cm on even days of the month and 19 cm on odd days. How long was the canvas at the end?
+> A new Penelope wove a cloth throughout 1999, from the first to the last day. Every morning she wove 20 cm of cloth and every afternoon she unwove a little, precisely 20 cm on even days of the month and 19 cm on odd days. How long was the cloth at the end?
 >
 > - **(A)** 140 cm
 > - **(B)** 172 cm
@@ -251,7 +268,11 @@ Between the ages of the father and the sum of the children
 > - **(D)** 200 cm
 > - **(E)** 210 cm.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2000_triennio#q08|src_archimede_2000_triennio__Q08]]
 
 
 
@@ -285,9 +306,13 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Products of the continuous fraction chain abcd*
+*Product abcd from a chain of continued fractions*
 
-> Knowing that 1 a = a + 1 b = b + 1 c = c + 1 d = 2 how much is the abcd product worth?
+> Knowing that 1
+> a = a + 1
+> b = b + 1
+> c = c + 1
+> d = 2, what is the product abcd?
 >
 > - **(A)** 5 16
 > - **(B)** 1 5
@@ -295,7 +320,11 @@ Between the ages of the father and the sum of the children
 > - **(D)** 9 16
 > - **(E)** 5 4.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2000_triennio#q10|src_archimede_2000_triennio__Q10]]
 
 
 
@@ -330,17 +359,21 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Team points after four days with constraints*
+*Points of each team after four rounds, given the constraints*
 
-> Mark says, "My team was ahead of you in the standings for the first three days, and only now at the fourth you've reached us". Roberto replies: 'But don't forget that on the third day we evened right at your house and that, unlike you, we are still in a draw. How many points does each of the two teams have at the end of day four? (Three points are awarded to the winning team, 0 points to the losing team, 1 point to each team in the event of a draw).
+> Marco says: "My team was ahead of yours in the standings for all of the first three rounds, and only now, in the fourth, have you caught up with us." Roberto replies: "Don't forget, though, that in the third round we drew at your own ground, and that, unlike you, we are still undefeated." How many points does each of the two teams have at the end of the fourth round? (3 points are awarded to the team that wins, 0 points to the team that loses, and 1 point to each team in the event of a draw.)
 >
 > - **(A)** 7
 > - **(B)** 6
 > - **(C)** 5
 > - **(D)** 4
-> - **(E)** The data is insufficient.
+> - **(E)** the data are insufficient.
 
-**Answer:** D
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2000_triennio#q11|src_archimede_2000_triennio__Q11]]
 
 
 
@@ -374,19 +407,20 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Incidence of raw materials on the price of the mascot*
+*Raw-materials share of the mascot's price this year*
 
-> The price of the mascot of the mathematics Olympics is given by the sum of the price of raw materials and the price of processing. Last year, the mascot cost 10 euros. This year the cost of raw materials has doubled.
+> The price of the mathematics olympiad mascot is the sum of the price of the raw materials and the price of the processing. Last year the mascot cost 10 euros. This year the cost of the raw materials has doubled, while the cost of the processing has risen by 10%; as a result, this year the mascot costs 12 euros. How much do the raw materials account for, this year, in the final price of the product?
 >
-> The cost of processing has risen by 10% and the mascot costs €12 this year. How much does the price of raw materials affect the final price of the product this year?
->
-> - **(A)** Less than EUR 1
-> - **(B)** Between 1 and 2 Euro
-> - **(C)** between EUR 2 and EUR 3
-> - **(D)** between EUR 3 and EUR 4
-> - **(E)** more than EUR 4.
+> - **(A)** less than 1 euro
+> - **(B)** between 1 and 2 euros
+> - **(C)** between 2 and 3 euros
+> - **(D)** between 3 and 4 euros
+> - **(E)** more than 4 euros.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2000_triennio#q12|src_archimede_2000_triennio__Q12]]
 
 
 
@@ -420,11 +454,9 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of exagonal and interstellar polygon areas*
+*Ratio of the areas of the hexagon and the inner star polygon*
 
-![[src_archimede_2000_triennio__prob13.png]]
-
-> The ratio of the area of the regular hexagon to that of the starry polygon shown in the figure, which has all the sides lying on 6 of the hexagons, is
+> The ratio between the area of the regular hexagon and that of the star polygon shown in the figure, which has all its sides lying on 6 of the diagonals of the hexagon, is
 >
 > - **(A)** 4 3
 > - **(B)** 3 2
@@ -432,7 +464,11 @@ Between the ages of the father and the sum of the children
 > - **(D)** 6 5
 > - **(E)** 5 4.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2000_triennio#q13|src_archimede_2000_triennio__Q13]]
 
 
 
@@ -465,9 +501,9 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Wake-up time with time zone difference*
+*Wake-up time with time-zone difference*
 
-> Emanuele has come a long way and can't sleep. After returning to Italy at 11:11 a.m. he says: "I haven't slept in 53 hours and 53 minutes". What time did you wake up last, knowing that you were in Korea at the time and are now in Italy (remember that the time zone difference between Italy and Korea is 7 hours ahead)?
+> Emanuele has had a long journey and cannot sleep. After returning to Italy, at exactly 11:11 Italian time he says: “I have not slept for 53 hours and 53 minutes”. At what time did he last wake up, knowing that at that moment he was in Korea and is now in Italy (remember that the time-zone difference between Italy and Korea is 7 hours ahead)?
 >
 > - **(A)** 12:04
 > - **(B)** 12:18
@@ -475,7 +511,10 @@ Between the ages of the father and the sum of the children
 > - **(D)** 13:04
 > - **(E)** 13:18.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2000_triennio#q14|src_archimede_2000_triennio__Q14]]
 
 
 
@@ -505,9 +544,9 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of f(x+1)-f(x) by exponential function 4^x*
+*Value of f(x+1)-f(x) for the exponential function 4^x*
 
-> You have, for every x, f (x) = 4x. So f(x + 1) −f(x) is:
+> For every x, f(x) = 4^x. Then f(x + 1) − f(x) equals:
 >
 > - **(A)** f(x)
 > - **(B)** 2f(x)
@@ -515,7 +554,11 @@ Between the ages of the father and the sum of the children
 > - **(D)** 4
 > - **(E)** 1.
 
-**Answer:** C
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2000_triennio#q15|src_archimede_2000_triennio__Q15]]
 
 
 
@@ -558,11 +601,11 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cylinder diameter measured with short-muzzle caliber*
+*Cylinder diameter measured with a short-jawed caliper*
 
-![[src_archimede_2000_triennio__prob16.png]]
-
-> A student wants to measure the diameter of a cylinder using a caliber. Unfortunately, the tool available has too short beaks, and it's not possible to make them touch two diametrically opposite points of the side surface at the same time. The student then decides to use the method shown in the figure next to it, in which the edge of the rule is tangent to the cylinder's side surface. Given the measurement read on the rule of caliber and the distance between the end of a beak and the rule, the diameter shall be
+> A student wants to measure the diameter of a cylinder using a caliper. Unfortunately the available instrument has jaws that are too short, and it is not possible to make them touch two diametrically opposite points of the lateral surface at the same time. The student therefore decides to use the method shown in the figure, in which the edge of the beam is tangent to the lateral surface of the cylinder. Letting a be the reading on the caliper beam and d the distance between the tip of a jaw and the beam, the diameter equals
+> a
+> d
 >
 > - **(A)** √ a2 + d2
 > - **(B)** a+ d2 4a
@@ -570,7 +613,11 @@ Between the ages of the father and the sum of the children
 > - **(D)** d+ a2 4d
 > - **(E)** d+ 1 2 q d2 + a2 4 .
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2000_triennio#q16|src_archimede_2000_triennio__Q16]]
 
 
 
@@ -601,17 +648,21 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multi-purpose 2^48-1 dividers of a width of 60 to 70*
+*Divisors of 2^48-1 between 60 and 70*
 
-> We know that the number 248 −1 has exactly two divisors between 60 and 70. What are they?
+> It is known that the number 248 −1 has exactly two divisors between 60 and 70. What are they?
 >
-> - **(A)** 61 e 63
-> - **(B)** 61 e 65
-> - **(C)** 63 e 65
-> - **(D)** 61 e 67
-> - **(E)** 63 e 69.
+> - **(A)** 61 and 63
+> - **(B)** 61 and 65
+> - **(C)** 63 and 65
+> - **(D)** 61 and 67
+> - **(E)** 63 and 69.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2000_triennio#q17|src_archimede_2000_triennio__Q17]]
 
 
 
@@ -642,17 +693,21 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Calculate c(a+b) cubic root dates and product ab*
+*Value of c(a+b) given the cubic's roots and the product ab*
 
-> The solutions of the equation x3 −3x2 −18x + 40 = 0 are a, b, c. Knowing that ab = 10, calculate c(a + b).
+> Let a, b, c be the solutions of the equation x3 −3x2 −18x + 40 = 0. Given that ab = 10, calculate c(a + b).
 >
 > - **(A)** −28
 > - **(B)** −18
 > - **(C)** 21
 > - **(D)** 22
-> - **(E)** It's impossible to determine.
+> - **(E)** it cannot be determined.
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2000_triennio#q18|src_archimede_2000_triennio__Q18]]
 
 
 
@@ -682,9 +737,9 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of straight pyramid on a square base units*
+*Volume of a right square pyramid with unit edges*
 
-> A straight pyramid with a square base has all the nodes of a unit length. Its volume is
+> A right pyramid with a square base has all edges of unit length. Its volume is
 >
 > - **(A)** 1 3
 > - **(B)** √ 2 6
@@ -692,7 +747,10 @@ Between the ages of the father and the sum of the children
 > - **(D)** √ 2 2
 > - **(E)** √ 3 3 .
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2000_triennio#q19|src_archimede_2000_triennio__Q19]]
 
 
 
@@ -723,9 +781,10 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total ordered pairs with mcm equal to 2000*
+*Ordered pairs of integers with lcm equal to 2000*
 
-> How many pairs of integers (a, b) with 1 < a < 2000, 1 < b < 2000 are such that the minimum common multiple between a and b is 2000?
+> How many ordered pairs of integers (a, b), with 1 < a < 2000, 1 < b < 2000,
+> are there such that the least common multiple of a and b is equal to 2000?
 >
 > - **(A)** 14
 > - **(B)** 20
@@ -733,7 +792,11 @@ Between the ages of the father and the sum of the children
 > - **(D)** 40
 > - **(E)** 48.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2000_triennio#q20|src_archimede_2000_triennio__Q20]]
 
 
 
@@ -765,9 +828,9 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Domain area defined by inequality with whole part*
+*Area of the domain defined by an inequality involving the integer part*
 
-> Either D is the domain of the Cartesian plane consisting of the points (x, y) such that x −[x] ≤ y −[y], 0 ≤x ≤2, 0 ≤y ≤3 (remember that [a] indicates the whole part of a i.e. the largest integer less than or equal to a). The area of D is
+> Let D be the domain in the Cartesian plane consisting of the points (x, y) such that x − [x] ≤ y − [y], 0 ≤ x ≤ 2, 0 ≤ y ≤ 3 (recall that [a] denotes the integer part of a, i.e. the greatest integer less than or equal to a). The area of D is
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -775,7 +838,11 @@ Between the ages of the father and the sum of the children
 > - **(D)** 4
 > - **(E)** 6.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_analitica|Analytic geometry]]
+**Method:** [[method_casi_conteggio|Counting by cases]], [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2000_triennio#q21|src_archimede_2000_triennio__Q21]]
 
 
 
@@ -807,9 +874,9 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of three triangular rectangular dice throws*
+*Probability that three dice rolls form a right triangle*
 
-> A common dice with faces numbered 1 to 6 is thrown three times and each time a stick of length equal to the result of the throw is taken. What is the probability that the three rods form the sides of a right triangle?
+> A common die with faces numbered 1 to 6 is thrown three times and each time a stick of length equal to the result of the throw is taken. What is the probability that the three sticks form the sides of a right triangle?
 >
 > - **(A)** 1 6
 > - **(B)** 1 36
@@ -817,7 +884,11 @@ Between the ages of the father and the sum of the children
 > - **(D)** 5 18
 > - **(E)** 1 72.
 
-**Answer:** B
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2000_triennio#q22|src_archimede_2000_triennio__Q22]]
 
 
 
@@ -851,14 +922,18 @@ Between the ages of the father and the sum of the children
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum combination locking four digits with two equal*
+*Maximum lock combinations with two equal consecutive digits*
 
-> A thief saw Mark tie up his bicycle using a 4-digit combination lock (each digit goes from 0 to 9). He couldn't see the combination, but he found that at least two consecutive digits are the same. What is the maximum number of combinations the thief will have to try to steal Marco's bike?
+> A thief saw Marco lock his bicycle with a padlock whose combination has 4 digits (each digit runs from 0 to 9). He did not manage to see the combination, but he discovered that at least two consecutive digits are equal. What is the maximum number of combinations the thief will have to try in order to steal Marco's bicycle?
 >
 > - **(A)** 2160
 > - **(B)** 2530
 > - **(C)** 2710
 > - **(D)** 3000
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2000_triennio#q24|src_archimede_2000_triennio__Q24]]

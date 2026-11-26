@@ -29,9 +29,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il raggio di un triangolo rettangolare con lati interi è un intero*
+*Il raggio inscritto di un triangolo rettangolo a lati interi è un intero*
 
-> Prove che l'inradio di un triangolo rettangolo con lati interi è un intero.
+> Dimostrare che il raggio della circonferenza inscritta in un triangolo rettangolo a lati interi è un intero.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1999#q01|src_rmo_1999__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare interi positivi che dividono $10^{999}$ ma non $10^{998}$*
+*Quanti interi positivi dividono 10^999 ma non 10^998*
 
-> Trova il numero di interi positivi che dividono $10^{999}$ ma non $10^{998}$.
+> Trovare il numero degli interi positivi che dividono $10^{999}$ ma non $10^{998}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1999#q02|src_rmo_1999__Q02]]
 
 
 
@@ -79,9 +91,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadro $ABCD$, punto medio $R$ di $MN$, mostra $RP=RQ$*
+*Quadrato, angolo di 45° e punto medio: due segmenti uguali sulla diagonale*
 
-> Il $ABCD$ deve essere quadrato e $M, N$ punti sui lati $AB, BC$, rispettivamente, in modo tale che $\angle MDN = 45^\circ$. Se $R$ è il punto medio di $MN$, indicare che $RP = RQ$ dove $P, Q$ sono i punti di intersezione di $AC$ con le linee $MD, ND$.
+> Sia $ABCD$ un quadrato e $M, N$ punti sui lati $AB, BC$ rispettivamente, tali che $\angle MDN = 45^\circ$. Se $R$ è il punto medio di $MN$, dimostrare che $RP = RQ$, dove $P, Q$ sono i punti di intersezione di $AC$ con le rette $MD, ND$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1999#q03|src_rmo_1999__Q03]]
 
 
 
@@ -104,9 +122,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rede di cubo con forma speciale implicano $p=q=r$*
+*Se p, q, r sono le radici di x³ − 3px² + 3q²x − r³ = 0, allora p = q = r*
 
-> Se $p, q, r$ sono le radici dell'equazione cubica $x^3 - 3px^2 + 3q^2x - r^3 = 0$, indicare che $p = q = r$.
+> Se $p, q, r$ sono le radici dell'equazione di terzo grado $x^3 - 3px^2 + 3q^2x - r^3 = 0$, dimostrare che $p = q = r$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_rmo_1999#q04|src_rmo_1999__Q04]]
 
 
 
@@ -130,9 +154,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Side di triangolo disuguaglianza con frazioni cicliche $\ge 3$*
+*Lati di un triangolo: a/(c+a−b) + b/(a+b−c) + c/(b+c−a) ≥ 3*
 
-> Se $a, b, c$ sono i lati di un triangolo dimostrano la seguente disuguaglianza: $$\frac{a}{c+a-b} + \frac{b}{a+b-c} + \frac{c}{b+c-a} \ge 3.$$
+> Se $a, b, c$ sono i lati di un triangolo, dimostrare la disuguaglianza seguente:
+>
+> $$\frac{a}{c+a-b} + \frac{b}{a+b-c} + \frac{c}{b+c-a} \ge 3.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_rmo_1999#q05|src_rmo_1999__Q05]]
 
 
 
@@ -156,9 +188,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni integrali di $(m-n)^2 = \frac{4mn}{m+n-1}$*
+*Soluzioni intere di (m − n)² = 4mn/(m + n − 1)*
 
-> Trova tutte le soluzioni in numeri interi $m, n$ dell'equazione $$(m-n)^2 = \frac{4mn}{m+n-1}.$$
+> Trovare tutte le soluzioni intere $m, n$ dell'equazione
+>
+> $$(m-n)^2 = \frac{4mn}{m+n-1}.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_rmo_1999#q06|src_rmo_1999__Q06]]
 
 
 
@@ -184,6 +224,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare polinomi quadrati $ax^2+bx+c$ divisibili per $x+1$*
+*Polinomi di secondo grado a coefficienti distinti fra 1 e 1999, divisibili per x + 1*
 
-> Trova il numero di polinomi quadratici, $ax^2 + bx + c$, che soddisfano le seguenti condizioni: (a) $a, b, c$ sono distinti; (b) $a, b, c \in \{1, 2, 3, \ldots 1999\}$ e (c) $x + 1$ dividono $ax^2 + bx + c$.
+> Trovare il numero dei polinomi di secondo grado $ax^2 + bx + c$ che soddisfano le condizioni seguenti:
+>
+> (a) $a, b, c$ sono distinti;
+>
+> (b) $a, b, c \in \{1, 2, 3, \ldots 1999\}$ e (c) $x + 1$ divide $ax^2 + bx + c$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_1999#q07|src_rmo_1999__Q07]]

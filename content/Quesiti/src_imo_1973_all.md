@@ -30,9 +30,17 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum length >=1*
+*The sum of an odd number of unit vectors on one side of a line has length at least 1*
 
-> The $O$ point lies on the straight $g$; $\overrightarrow{OP_1}, \overrightarrow{OP_2}, \ldots, \overrightarrow{OP_n}$ are unit vectors such that the $P_1, P_2, \ldots, P_n$ points lie all in a plane containing $g$ and on one side of $g$. Show that if $n$ is odd, then $$\left|\overrightarrow{OP_1} + \overrightarrow{OP_2} + \cdots + \overrightarrow{OP_n}\right| \geq 1.$$ Here $\left|\overrightarrow{OM}\right|$ denotes the length of the $\overrightarrow{OM}$ vector.
+> The point $O$ lies on the line $g$; $\overrightarrow{OP_1}, \overrightarrow{OP_2}, \ldots, \overrightarrow{OP_n}$ are unit vectors such that the points $P_1, P_2, \ldots, P_n$ all lie in a plane containing $g$ and on one side of $g$. Prove that if $n$ is odd, then
+> $$\left|\overrightarrow{OP_1} + \overrightarrow{OP_2} + \cdots + \overrightarrow{OP_n}\right| \geq 1.$$
+> Here $\left|\overrightarrow{OM}\right|$ denotes the length of the vector $\overrightarrow{OM}$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1973_all#q01|src_imo_1973_all__Q01]]
 
 
 
@@ -53,9 +61,14 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Finite non-coplanar set with parallel-pairs property exists?*
+*A finite non-coplanar set in which every pair has a parallel pair*
 
-> Determine whether or not there is a finite set $M$ of points in space, not lying on the same plane, such that for any pair of points $A$ and $B$ of $M$ two other points $C$ and $D$ of $M$ may be chosen so that the lines $AB$ and $CD$ are parallel and not coincident.
+> Determine whether or not there exists a finite set $M$ of points in space, not all lying in the same plane, such that for any pair of points $A$ and $B$ of $M$ one can choose two other points $C$ and $D$ of $M$ so that the lines $AB$ and $CD$ are parallel and not coincident.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1973_all#q02|src_imo_1973_all__Q02]]
 
 
 
@@ -79,9 +92,17 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimize a^2+b^2 for quartic with a real root
+*Minimum of a² + b² when a reciprocal quartic has a real root*
 
-> They are $a$ and $b$ real numbers for which the equation $$x^4 + ax^3 + bx^2 + ax + 1 = 0$$ has at least one real solution. For all pairs $(a, b)$ with this property, find the minimum value of $a^2 + b^2$.
+> Let $a$ and $b$ be real numbers for which the equation
+> $$x^4 + ax^3 + bx^2 + ax + 1 = 0$$
+> has at least one real solution. For all pairs $(a, b)$ with this property, find the minimum value of $a^2 + b^2$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_1973_all#q03|src_imo_1973_all__Q03]]
 
 
 
@@ -104,9 +125,16 @@ Minimize a^2+b^2 for quartic with a real root
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shortest mine-sweeping path in an equilateral triangle*
+*Shortest path of a soldier sweeping an equilateral triangle for mines*
 
-> A soldier must check for mines in an equilateral triangle region. The radius of action of its detector is half the height of the triangle. The soldier starts at the top of the triangle. What path must he follow to cover the shortest possible distance and still complete his mission?
+> A soldier must check for mines in a region in the shape of an equilateral triangle. The range of his detector equals half the altitude of the triangle. The soldier starts from a vertex of the triangle. Which path should he follow in order to travel the least possible distance and still complete his mission?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1973_all#q04|src_imo_1973_all__Q04]]
 
 
 
@@ -139,17 +167,26 @@ Minimize a^2+b^2 for quartic with a real root
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Group of affine maps has common fixed point*
+*A group of affine functions closed under composition and inversion has a common fixed point*
 
-> $G$ is a set of non-constant functions of the real variable $x$ of the form $$f(x) = ax + b, \quad a, b \in \mathbb{R},$$ and $G$ has the following properties:
-> 
+> $G$ is a set of non-constant functions of the real variable $x$ of the form
+> $$f(x) = ax + b, \quad a, b \in \mathbb{R},$$
+> and $G$ has the following properties:
+>
 > (a) If $f$ and $g$ belong to $G$, then $g \circ f$ belongs to $G$; here $(g \circ f)(x) = g[f(x)]$.
-> 
+>
 > (b) If $f$ belongs to $G$, then its inverse $f^{-1}$ belongs to $G$; here the inverse of $f(x) = ax + b$ is $f^{-1}(x) = \dfrac{x - b}{a}$.
-> 
-> (c) For each $f \in G$ there is a real number $x_f$ such as $f(x_f) = x_f$.
-> 
-> Demonstrate that there is a real number $k$ such that $f(k) = k$ for each $f \in G$.
+>
+> (c) For every $f \in G$ there exists a real number $x_f$ such that $f(x_f) = x_f$.
+>
+> Prove that there exists a real number $k$ such that $f(k) = k$ for every $f \in G$.
+
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_1973_all#q05|src_imo_1973_all__Q05]]
 
 
 
@@ -177,12 +214,18 @@ Minimize a^2+b^2 for quartic with a real root
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Construct b_k bounding a_k with ratio and sum conditions*
+*Positive numbers dominated by a sequence with bounded consecutive ratios*
 
-> If $a_1, a_2, \ldots, a_n$ $n$ are positive numbers and $q$ is a real number with $0 < q < 1$. Find $n$ numbers $b_1, b_2, \ldots, b_n$ such that:
-> 
+> Let $a_1, a_2, \ldots, a_n$ be $n$ positive numbers, and let $q$ be a given real number with $0 < q < 1$. Find $n$ numbers $b_1, b_2, \ldots, b_n$ such that:
+>
 > (a) $a_k < b_k$ for $k = 1, 2, \ldots, n$,
-> 
+>
 > (b) $q < \dfrac{b_{k+1}}{b_k} < \dfrac{1}{q}$ for $k = 1, 2, \ldots, n-1$,
-> 
+>
 > (c) $b_1 + b_2 + \cdots + b_n < \dfrac{1+q}{1-q}(a_1 + a_2 + \cdots + a_n)$.
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_1973_all#q06|src_imo_1973_all__Q06]]

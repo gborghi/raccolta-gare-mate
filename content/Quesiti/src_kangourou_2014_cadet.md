@@ -40,19 +40,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last date of March for the third Thursday*
+*Latest date in March for the third Thursday*
 
-> The Kangourou Mathematics Competition takes place every year on the third Thursday of March. Over the years, what is the last date in March when a mathematics competition can fall? A) 14
-> 	
+> The Kangourou Mathematics competition takes place every year on the third Thursday of March. Over the years, what is the latest date in March on which a Kangourou Mathematics competition can fall?
+> A) 14
+>
 > B) 15
-> 	
+>
 > C) 20
-> 	
+>
 > D) 21
-> 	
+>
 > E) 22
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q01|src_kangourou_2014_cadet__Q01]]
 
 
 
@@ -85,21 +91,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Word that certainly does not appear by adding two letters to VOLANO*
+*Word that certainly does not appear when two letters are added to VOLANO*
 
-> Giorgia lined up six tiles on the table, on each of which a letter is engraved,
-> so as to form the word VOLANO. Mattia added to Giorgia's tiles
-> two tiles (also with one letter each) we do not know where (they may also
-> be one or both at the beginning or at the end of the word), but he did not change the order
-> of the tiles lined up by Giorgia. Which of the following words certainly does not appear
-> now on the table?
-> A) SVOLTANO	 	
-> B) VIOLANDO	 	
-> C) VOGLIANO        
-> D) VOLTARON	 	
+> Giorgia has lined up six tiles on the table, on each of which a letter is engraved, so as to form the word VOLANO. Mattia has added two tiles to Giorgia's (each also with one letter), we do not know where (one or both of them may even be at the beginning or at the end of the word), but he has not changed the order of the tiles lined up by Giorgia. Which of the following words certainly does not now appear on the table?
+> A) SVOLTANO
+> B) VIOLANDO
+> C) VOGLIANO
+> D) VOLTARON
 > E) EVOLVANO
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q02|src_kangourou_2014_cadet__Q02]]
 
 
 
@@ -129,18 +135,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2014-2014*
+*The result of the expression*
 
-> What is the result of  2014 × 2014 : 2014 – 2014 ?
-> A) 0	
-	
-> B) 1	
-	
-> C) 2013		
-> D) 2014		
+> What is the result of  2014 × 2014 ÷ 2014 – 2014 ?
+> A) 0
+>
+> B) 1
+>
+> C) 2013
+> D) 2014
 > E) 4028
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q03|src_kangourou_2014_cadet__Q03]]
 
 
 
@@ -170,11 +181,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Meters of wire between tiles in room 10x6*
+*Metres of thread between tiles in a 10x6 room*
 
-> A room 10 meters long and 6 meters wide is paved with square tiles of 1 meter on the side. You want to insert a finishing plastic wire between the individual tiles and between the tiles and the walls or doors, leaving no hole. How many meters of wire do you need? A) 100 B) 115 C) 125 D) 136 E) 172
+> A room 10 metres long and 6 wide is tiled with square tiles of side 1 metre. We want to insert a plastic finishing thread between the individual tiles and between the tiles and the walls or the doors, without leaving any gap. How many metres of thread are needed?
+> A) 100
+> B) 115
+> C) 125
+> D) 136
+> E) 172
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q04|src_kangourou_2014_cadet__Q04]]
 
 
 
@@ -209,17 +230,23 @@ level: kangourou
 
 *Difference of two integers with product 36 and sum 37*
 
-> The product of two integers is 36 whereas their sum is 37. What's the difference? A) 1
-> 	
+> The product of two integers is 36 while their sum is 37. What is their difference?
+> A) 1
+>
 > B) 4
-> 	
+>
 > C) 10
-> 	
+>
 > D) 26
-> 	
+>
 > E) 35
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q05|src_kangourou_2014_cadet__Q05]]
 
 
 
@@ -259,20 +286,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the eagle stylized by the cuts*
+*Area of the stylised eagle from the cut-outs*
 
 ![[src_kangourou_2014_cadet__prob6.png]]
 
-> Elisa has some square sheets of paper with an area of 4 dm2. She cuts them into squares and right triangles as shown in the figure to the left. She then arranges some of these cut pieces to form a stylized eagle, as shown in the figure to the right. What is the area of the eagle in dm2? A) 6
-> 	
+> Elisa has some square sheets of paper of area 4 dm2. She cuts them so as to form squares and right-angled triangles, as shown in the figure on the left. She then arranges some of these cut-out pieces so as to form a stylised eagle, as in the figure on the right. What is the area of the eagle, in dm2?
+> A) 6
+>
 > B) 5
-> 	
-> C) 9/2 D) 4
-> 	
+>
+> C) 9/2
+> D) 4
+>
 > E) 3
 >
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q06|src_kangourou_2014_cadet__Q06]]
 
 
 
@@ -304,17 +338,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bucket capacity (half and then three quarters)*
+*Bucket capacity (half then three quarters)*
 
-> A bucket was half full. I added two litres of water and it's now three-quarters full. What is the capacity (in litres) of the bucket? A) 10 B) 8
-> 	
+> A bucket was half full. I added two litres of water and now it is three quarters full. What is the capacity (in litres) of the bucket?
+> A) 10
+> B) 8
+>
 > C) 6
-> 	
+>
 > D) 4
-> 	
+>
 > E) 2
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q07|src_kangourou_2014_cadet__Q07]]
 
 
 
@@ -351,25 +392,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Small cubes to add to make a cube with edge 3*
+*Small cubes to add for a cube of edge 3*
 
 ![[src_kangourou_2014_cadet__prob8.png]]
 
-> Giorgio built the solid shown in the figure 
-> beside by gluing 7 small cubes each with an edge of 1 cm. 
-> How many cubes identical to these must he add to form 
-> a cube whose edge is 3 cm long?
-> A) 12	
-> 	
-> B) 14	
-> 	
-> C) 16	
->        
-> D) 18	
-> 	
+> Giorgio has built the solid shown in the figure alongside by gluing together 7 small cubes, each with an edge of 1 cm. How many small cubes identical to these must he add to form a cube whose edge is 3 cm long?
+> A) 12
+>
+> B) 14
+>
+> C) 16
+>
+> D) 18
+>
 > E) 20
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q08|src_kangourou_2014_cadet__Q08]]
 
 
 
@@ -401,19 +444,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which product gives the highest result*
+*Which product gives the greatest result*
 
-> Which of the following products produces the greatest result? A) 44 × 777
-> 	
+> Which of the following products gives the greatest result?
+> A) 44 × 777
+>
 > B) 55 × 666
-> 	
+>
 > C) 77 × 444
->      
+>
 > D) 88 × 333
-> 	
+>
 > E) 99 × 222
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q09|src_kangourou_2014_cadet__Q09]]
 
 
 
@@ -452,21 +501,29 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum white grains removed before the fifth gray*
+*Maximum white beads before the fifth grey*
 
 ![[src_kangourou_2014_cadet__prob10.png]]
 
-> The bracelet in the figure has gray and white grains. Arianna removes the grains one by one, each time choosing the end of the bracelet from which to remove them. What is the maximum number of white grains that Arianna can remove if she stops as soon as she takes out the fifth gray grain? A) 4
-> 	
+> The bracelet in the figure has grey beads and white beads. Arianna removes the beads one by one, each time choosing which end of the bracelet to remove them from. What is the maximum number of white beads that Arianna can remove if she stops as soon as she takes off the fifth grey bead?
+> A) 4
+>
 > B) 5
-> 	
+>
 > C) 6
-> 	
+>
 > D) 7
-> 	
-> (e) 8 Questions from n. 11 al n. 20 is worth 4 points each.
+>
+> E) 8
+> Questions 11 to 20 are worth 4 points each.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q10|src_kangourou_2014_cadet__Q10]]
 
 
 
@@ -501,19 +558,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weeks of the period with 15 lessons difference*
+*Weeks of the period with a 15-lesson difference*
 
-> For a period of time, James took piano lessons twice a week and Anna once every two weeks. By the end of the period, James had taken 15 lessons more than Anna. How many weeks did the period consist of? A) 30
-> 	
+> For a certain period of time, Giacomo took piano lessons twice a week and Anna once every two weeks. At the end of the period, it turns out that Giacomo took 15 more lessons than Anna. How many weeks was the period under consideration made up of?
+> A) 30
+>
 > B) 25
-> 	
+>
 > C) 20
-> 	
+>
 > D) 15
-> 	
+>
 > E) 10
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q11|src_kangourou_2014_cadet__Q11]]
 
 
 
@@ -584,30 +647,26 @@ level: kangourou
 \end{document}
 ```
 
-> The area of each of the circles in the figure is
-> 1 cm2; the area common to two overlapping circles is
->     cm2. What is, in square centimetres, the area
-> of the region covered by the 5 circles?
-> A) 	
-> 	
-> B) 4 	
-> 	
-> C)  35
-> ------ 
->   8  	
-> D)  39
-> ------ 
->   8   	
-> E)  19
-> ------ 
->   4   
->  9---- 
->  2
->  1---- 
->  8
+> The area of each of the circles in the figure is 1 cm2; the area common to two overlapping circles is     cm2. What is the area, in square centimetres, of the region covered by the 5 circles?
+> A)
+>
+> B) 4
+>
+> C) 35
+> ------ 8
+> D) 39
+> ------ 8
+> E) 19
+> ------ 4 9---- 2 1---- 8
 >
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q12|src_kangourou_2014_cadet__Q12]]
 
 
 
@@ -641,19 +700,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of granddaughter (powers of 2 plus 100)*
+*The granddaughter's age*
 
-> This year a friend of mine, her daughter and her granddaughter all have ages that, in years, are powers of two and the sum of their ages is 100 years. How old is the granddaughter? A) 1
-> 	
+> This year a friend of mine, her daughter and the daughter of her daughter all have ages that, in years, are powers of 2, and the sum of their ages is 100 years. How old is the granddaughter?
+> A) 1
+>
 > B) 2
-> 	
+>
 > C) 4
-> 	
+>
 > D) 8
-> 	
+>
 > E) 16
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q13|src_kangourou_2014_cadet__Q13]]
 
 
 
@@ -724,15 +790,22 @@ level: kangourou
 \end{document}
 ```
 
-> Five equal rectangles are placed within a 24 cm side square, as shown in the figure. What is the area in cm2 of each rectangle? A) 12 B) 16
-> 	
+> Five identical rectangles are placed inside a square of side 24 cm, as shown in the figure. What is the area in cm2 of each rectangle?
+> A) 12
+> B) 16
+>
 > C) 18
-> 	
+>
 > D) 24
-> 	
+>
 > E) 32
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q14|src_kangourou_2014_cadet__Q14]]
 
 
 
@@ -772,19 +845,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-When heart and arrow match for the first time
+*When the heart and the arrow first coincide*
 
 ![[src_kangourou_2014_cadet__prob15.png]]
 
-> Two heart-shaped and arrow-shaped bases are placed in the triangles shown in the figure. They begin to move at the same moment: the arrow moves 3 places in the direction of the hour, the heart 4 places in the opposite direction of the hour and then they stop. The procedure is repeated several times. After how many operations of the procedure are the heart and arrow found for the first time in the same triangular region? A) 7
-> 	
+> Two counters, one in the shape of a heart and one in the shape of an arrow, are placed in the triangles shown in the figure. They start moving at the same moment: the arrow moves 3 places clockwise, the heart moves 4 places anticlockwise, and then they stop. The procedure is repeated several times. After how many times the procedure is carried out are the heart and the arrow in the same triangular region for the first time?
+> A) 7
+>
 > B) 8
-> 	
-> (C) 9 D) A number different from the previous three.
-> 	
+>
+> C) 9
+> D) A different number from the three above.
+>
 > E) Never.
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q15|src_kangourou_2014_cadet__Q15]]
 
 
 
@@ -845,7 +926,7 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BAC angle given the angle between altitude and bisector*
+*Angle BAC given the obtuse angle between altitude and bisector*
 
 ![[src_kangourou_2014_cadet__prob16.png]]
 
@@ -873,15 +954,22 @@ When heart and arrow match for the first time
 \end{document}
 ```
 
-> In the ABC triangle shown in Figure 1, BH is the altitude relative to the AC side while AD is the angle bisector in A. The measure of the obtuse angle formed by BH and AD is four times the measure α of the angle BAD. How many degrees does the angle BAC measure ? A) 30 B) 45
-> 	
+> In triangle ABC shown in the figure, BH is the altitude to side AC, while AD is the bisector of the angle at A. The measure of the obtuse angle formed by BH and AD is four times the measure α of angle BAD. How many degrees does angle BAC measure?
+> A) 30
+> B) 45
+>
 > C) 60
-> 	
+>
 > D) 75
-> 	
+>
 > E) 90
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q16|src_kangourou_2014_cadet__Q16]]
 
 
 
@@ -914,11 +1002,22 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum time to finish the two bathrooms with given times*
+*Earliest time to finish using both bathrooms*
 
-> Six children share an apartment with two bathrooms, which they use every morning from 7:00 a.m. onwards. They use the bathrooms one at a time, each the first bathroom they find free, but they each stay there regularly for a different time: 8, 10, 12, 17, 21 and 22 minutes. If they organize themselves properly, at what time, at the earliest, will they be able to finish using the bathrooms? A) 7:45 B) 7:46 C) 7:47 D) 7:48 E) 7:50
+> Six boys share a flat with two bathrooms, which they use every morning starting at 7:00 sharp. They use the bathrooms one at a time, each taking the first bathroom that is free, but each of them regularly stays there for a different time: 8, 10, 12, 17, 21 and 22 minutes. If they organise themselves appropriately, at what time, at the earliest, will they have finished using the bathrooms?
+> A) 7:45
+> B) 7:46
+> C) 7:47
+> D) 7:48
+> E) 7:50
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q17|src_kangourou_2014_cadet__Q17]]
 
 
 
@@ -952,22 +1051,25 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lengths of the three parts from the angle bisectors in the rectangle*
+*Lengths of the three parts from the bisectors in the rectangle*
 
-> A rectangle has sides of length 6 cm and 11 cm. We draw the bisectors of the 
-> angles whose vertex is at the two endpoints of one of the two longer sides: they divide 
-> the opposite side into three parts. What are the lengths in centimeters of these three parts?
-> A) 1, 9, 1	
-> 	
-> B) 2, 7, 2	
-> 	
-> C) 3, 5, 3	
-> D) 4, 3, 4	
-> 	
+> A rectangle has sides of lengths 6 cm and 11 cm. We draw the bisectors of the angles whose vertices are the two endpoints of one of the two longer sides: they divide the opposite side into three parts. What are the lengths in centimetres of these three parts?
+> A) 1, 9, 1
+>
+> B) 2, 7, 2
+>
+> C) 3, 5, 3
+> D) 4, 3, 4
+>
 > E) 5, 1, 5
 >
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q18|src_kangourou_2014_cadet__Q18]]
 
 
 
@@ -1000,21 +1102,22 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many coins were there in the chest*
+*How many coins were in the chest*
 
-> A crew of pirates has fished out a chest with several gold coins. They
-> divide the loot so that each has the same number of coins. If there
-> were four fewer pirates each would receive 10 more coins; instead if there
-> were 50 fewer coins, each would receive 5 fewer coins. How many coins
-> were there in the chest?
-> A) 80	
-	
-> B) 100	 	
-> C) 120	 	
-> D) 150	 	
+> A crew of pirates has fished up a chest with several gold coins. They share out the loot so that each has the same number of coins. If there were four fewer pirates, each would receive 10 more coins; if instead there were 50 fewer coins, each would receive 5 fewer coins. How many coins were there in the chest?
+> A) 80
+>
+> B) 100
+> C) 120
+> D) 150
 > E) 250
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q19|src_kangourou_2014_cadet__Q19]]
 
 
 
@@ -1048,17 +1151,25 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mean of the four numbers from the sums given*
+*Mean of the four numbers from the given sums*
 
-> I had four numbers. I added each of them to the average (arithmetic) of the other three and got the four sums 54, 60, 62, and 76. What was the average of the four numbers I had? A) 31,5 B) 65
-> 	
+> I had four numbers. I added each of them to the (arithmetic) mean of the other three, obtaining the four sums 54, 60, 62 and 76. What is the mean of the four numbers that I had?
+> A) 31,5
+> B) 65
+>
 > C) 63
-> 	
+>
 > D) 44
-> 	
-> E) 32.5 Questions from n. 21 to n. 30 are worth 5 points each.
+>
+> E) 32,5
+> The questions from n. 21 to n. 30 are worth 5 points each
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q20|src_kangourou_2014_cadet__Q20]]
 
 
 
@@ -1111,7 +1222,7 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers adjacent to 8 in table 3x3*
+*Sum of the numbers neighbouring 8 in the 3x3 table*
 
 ![[src_kangourou_2014_cadet__prob21.png]]
 
@@ -1127,17 +1238,24 @@ When heart and arrow match for the first time
 \end{document}
 ```
 
-> William writes all the integers from 1 to 9 included in the cells of a 3x3 table, so that each cell contains one and only one number: in the figure you can see where he placed the first 4 numbers. He calls adjacent two numbers if the cells that contain them share a side: after writing all the numbers, he notes that the sum of all the numbers adjacent to 9 is 15. What is the sum of the numbers adjacent to 8? A) 12
-> 	
+> Guglielmo writes all the integers from 1 to 9 inclusive in the cells of a 3x3 table, so that each cell contains one and only one number: in the figure you can see where he has placed the first 4 numbers. He calls two numbers neighbouring if the cells that contain them share a side: after writing all the numbers, he notes that the sum of all the numbers neighbouring 9 is 15. What is the sum of the numbers neighbouring 8?
+> A) 12
+>
 > B) 18
-> 	
+>
 > C) 20
-> 	
+>
 > D) 26
-> 	
+>
 > E) 27
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q21|src_kangourou_2014_cadet__Q21]]
 
 
 
@@ -1177,27 +1295,26 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Heaviest object from the weighings (faulty scale)*
+*Heaviest object from the weighings (faulty balance)*
 
-> An old scale works badly: if an object weighs less than 1000 g, the
-> scale shows the correct weight, but if the object weighs 1000 g or more, the scale shows
-> any number, but in any case greater than 1000 g. We have 5 objects A, B,
-> C, D and E, each of unknown weight less than 1000 g. We denote their weights in grams
-> respectively with their names (e.g. A weighs A grams). If we weigh the objects in
-> pairs, the scale shows the following weights:
-> B + D = 1200,    C + E = 2100,    B + E = 800,    B + C = 900,    A + E = 700.
-> Which is the heaviest object?
-> A) A	
-	
-> B) B	
-	
-> C) C	
-	
-> D) D	
-	
+> A rather old balance works badly: if an object weighs less than 1000 g, the balance shows the correct weight, but if the object weighs 1000 g or more, the balance shows some number or other, but in every case a number greater than 1000 g. We have 5 objects A, B, C, D and E, each of unknown weight less than 1000 g. We denote their weights in grams respectively by their names (e.g. A weighs A grams). If we weigh the objects in pairs, the balance shows the following weights: B + D = 1200,    C + E = 2100,    B + E = 800,    B + C = 900,    A + E = 700. Which is the heaviest object?
+> A) A
+>
+> B) B
+>
+> C) C
+>
+> D) D
+>
 > E) E
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q22|src_kangourou_2014_cadet__Q22]]
 
 
 
@@ -1263,7 +1380,7 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the trapezoid from the triangles of the diagonals*
+*Area of the trapezium from the triangles of the diagonals*
 
 ![[src_kangourou_2014_cadet__prob23.png]]
 
@@ -1287,18 +1404,29 @@ When heart and arrow match for the first time
 \end{document}
 ```
 
-> In the figure you see a right trapezoid ABCD. The numbers inserted into two of the triangles determined by the diagonals of the trapezoid denote the area in square metres of the respective triangles. What is the area of the ABCD trapezoid in square metres? A) 60
-> 	
+> In the figure you see a right-angled trapezium ABCD. The numbers written in two of the triangles determined by the diagonals of the trapezium denote the area in square metres of the respective triangles. What is the area, in square metres, of trapezium ABCD?
+> A) 60
+>
 > B) 45
-> 	
+>
 > C) 40
-> 	
+>
 > D) 35
-> 	
-> E) 30 A B C D 5 10
+>
+> E) 30
+> A
+> B
+> C
+> D
+> 5 10
 >
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q23|src_kangourou_2014_cadet__Q23]]
 
 
 
@@ -1333,19 +1461,26 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum numbers from 1 to 20 with no greater being double the smaller*
+*Maximum numbers from 1 to 20 without a double*
 
-> Among all integers 1 to 20 included, Riccardo wants to select a few so that, however he chooses two of the selected numbers, the greater is not twice the smaller. How many can he pick at most? A) 14
-> 	
+> Among all the integers from 1 to 20 inclusive, Riccardo wants to choose some of them so that, no matter which two he picks from those chosen, the larger is not double the smaller. How many can he choose at most?
+> A) 14
+>
 > B) 13
-> 	
+>
 > C) 12
-> 	
+>
 > D) 11
-> 	
+>
 > E) 10
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q24|src_kangourou_2014_cadet__Q24]]
 
 
 
@@ -1378,11 +1513,21 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio between the speeds of the two parts of the journey*
+*Ratio of the speeds of the two parts of the journey*
 
-> Vincenzo used to go from the center of the village to his garden by bicycle. Today he had planned to arrive at 3 p.m. but, after covering 3/4 of the distance travelling at constant speed, he realized that he had taken 2/3 of the time planned for the full journey. From that point on, he rode more smoothly, always at a steady speed, and arrived at the time he had planned. What is the ratio between the speed of the first part and that of the second part of the journey? A) 5 : 4 B) 4 : 3 C) 3 : 2 D) 2 : 1 E) 3 : 1
+> Vincenzo usually cycles from the centre of the village to his vegetable garden. Today he had planned to arrive at 15:00 but, after covering 3/4 of the distance travelling at constant speed, he realised he had taken 2/3 of the time planned for the whole journey. From that point onwards he pedalled more slowly, at constant speed, and arrived at the planned time. What is the ratio of the speed of the first part of the journey to that of the second part?
+> A) 5 : 4
+> B) 4 : 3
+> C) 3 : 2
+> D) 2 : 1
+> E) 3 : 1
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q25|src_kangourou_2014_cadet__Q25]]
 
 
 
@@ -1421,21 +1566,27 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Design on the opposite side of the cuboid*
+*Drawing on the opposite face of the parallelepiped of cubes*
 
 ![[src_kangourou_2014_cadet__prob26.png]]
 
-> The figure on the right shows 4 cubes indistinguishable by the dimensions and decorations that appear on each face. We place them together to form a cuboid, on one of whose faces appears the large black circle shown in the figure to the left. Which of the following drawings appears on the opposite face? A)
-> 	
+> The figure on the right shows 4 cubes indistinguishable in size and in the decorations that appear on each face. We place them together so that they form a parallelepiped, on one of whose faces appears the large black circle shown in the figure on the left. Which of the following drawings appears on the opposite face?
+> A)
+>
 > B)
-> 	
+>
 > C)
-> 	
+>
 > D)
-> 	
+>
 > E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q26|src_kangourou_2014_cadet__Q26]]
 
 
 
@@ -1481,19 +1632,26 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many are from the Greens (Green/Red/Yellow)*
+*How many belong to the Greens*
 
-> In one room there are 25 people, each of whom belongs to one of the following fraternities: the Greens, who always tell the truth, the Reds, who always lie, and the Yellows, who, if they answer one question truthfully, lie to the next and vice versa. Each of these people was asked in the order: • "Are you Green?" and 17 answered yes, • "Are you Yellow?" and 12 answered yes, • "Are you Red?" and 8 answered yes. How many are the Greens? A) 4
-> 	
+> In a room there are 25 people, each of whom belongs to one and only one of the following brotherhoods: the Greens, who always tell the truth, the Reds, who always lie, and the Yellows, who, if they answer a question truthfully, lie on the next one and vice versa. Each of these people was asked in the following order: • “Are you one of the Greens? “ and 17 answered yes, • “Are you one of the Yellows?” and 12 answered yes, • “Are you one of the Reds?” and 8 answered yes. How many belong to the Greens?
+> A) 4
+>
 > B) 5
-> 	
+>
 > C) 9
-> 	
+>
 > D) 13
-> 	
+>
 > E) 17
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q27|src_kangourou_2014_cadet__Q27]]
 
 
 
@@ -1526,12 +1684,23 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum value of M with divisible by 2 and 13*
+*Minimum value of M with divisibility by 2 and 13*
 
-> On the board were written some positive integers all different from each other. Exactly two of them are divisible by 2 and exactly 13 of them are divisible by 13. If M is the largest of these numbers, what is the smallest value that M can take? A) 143 B) 260 C) 273 D) 299 E) 325
+> On the blackboard some positive integers, all different from each other, have been written. Exactly two of them are divisible by 2 and exactly 13 of them are divisible by 13. Let M be the largest of these numbers: what is the smallest value that M can take?
+> A) 143
+> B) 260
+> C) 273
+> D) 299
+> E) 325
 >
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q28|src_kangourou_2014_cadet__Q28]]
 
 
 
@@ -1573,21 +1742,28 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most frog-friendly leaves (non-adjacent leaps)*
+*Maximum leaves the frog can visit (non-adjacent jumps)*
 
 ![[src_kangourou_2014_cadet__prob29.png]]
 
-> In a pond there are 16 water lily leaves, arranged in a pattern of 4×4 as shown in the figure. A frog sits on a leaf in one of the corners. It can jump from leaf to leaf horizontally or vertically; moreover in its jumps it can never land on an adjacent leaf and cannot visit the same leaf twice. What is the largest number of leaves (including the starting one) that the frog can visit? A) 16
-> 	
+> In a pond there are 16 water-lily leaves, arranged in a 4×4 pattern like the one shown in the figure. A frog sits on a leaf in one of the corners. It can jump from one leaf to another in a horizontal or vertical direction; moreover, in its jumps it can never land on an adjacent leaf and it cannot visit the same leaf twice. What is the greatest number of leaves (including the starting one) that the frog can visit?
+> A) 16
+>
 > B) 15
-> 	
+>
 > C) 14
-> 	
+>
 > D) 13
-> 	
+>
 > E) 12
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_grafi|Graph theory]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+**Source:** [open PDF p.6](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q29|src_kangourou_2014_cadet__Q29]]
 
 
 
@@ -1642,7 +1818,7 @@ When heart and arrow match for the first time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum gray edges on the border of the tiled square*
+*Minimum grey edges on the border of the tiled square*
 
 ![[src_kangourou_2014_cadet__prob30.png]]
 
@@ -1656,18 +1832,23 @@ When heart and arrow match for the first time
 \end{document}
 ```
 
-> A square of side length 5 must be tiled with square tiles of side length 1, all bearing the same pattern shown in the figure. It is required that two adjacent tiles always have contacting edges of the same color, black or gray. On the border of the square, some tiles will abut with their black edge and others with one of their gray edges. What is the smallest number of gray edges that must necessarily appear on the border of the square?
->
+> A square of side 5 must be tiled with square tiles of side 1, all with the same design: the one shown in the figure. We want two adjacent tiles always to have the contacting edge of the same colour, whether black or grey. On the border of the square, some tiles will face it with their black edge and some with one of their grey edges: what is the smallest number of grey edges that must necessarily appear on the border of the square?
 > A) 4
-> 	
-> B) 5	
-> 	
-> C) 6	
-> 	
-> D) 7	
-> 	
+>
+> B) 5
+>
+> C) 6
+>
+> D) 7
+>
 > E) 8
-> 
-> CADET STRING 2014
+>
+> String Cadet 2014
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+**Source:** [open PDF p.6](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+[[Quesiti/src_kangourou_2014_cadet#q30|src_kangourou_2014_cadet__Q30]]

@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti gli integri n dove n^2+20n+11 è un quadrato perfetto*
+*Interi $n$ per cui $n^2 + 20n + 11$ è un quadrato perfetto*
 
-> Trova tutti gli integri $n$ (positivi o negativi) per i quali $n^2 + 20n + 11$ è un quadrato perfetto. Ricorda che devi giustificare di averli trovati tutti.
+> Trovare tutti gli interi $n$ (positivi o negativi) per cui $n^2 + 20n + 11$ è un quadrato perfetto. Si ricordi che bisogna giustificare di averli trovati tutti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2012#q01|src_bmo1_2012__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*T più grande in modo che 1..n sia disposta in riga con tutti i termini consecutivi che differiscono almeno di t*
+*Il massimo $t$ tale che $1, 2, \ldots, n$ si dispongano con differenze almeno $t$*
 
-> Considerate i numeri $1, 2, \ldots, n$. Trova, in termini di $n$, il più grande intero $t$ in modo tale che questi numeri possano essere disposti in una riga in modo che tutti i termini consecutivi differiscano almeno $t$.
+> Si considerino i numeri $1, 2, \ldots, n$. Trovare, in funzione di $n$, il massimo intero $t$ tale che questi numeri si possano disporre in fila in modo che termini consecutivi differiscano di almeno $t$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2012#q02|src_bmo1_2012__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi attraverso P tangenti a S a X, Y: differenza di raggio indipendente dalle posizioni di P, X, Y*
+*La differenza dei raggi di $S_1$ e $S_2$ non dipende da $P$, $X$ e $Y$*
 
-> Considera un cerchio $S$. Il punto $P$ si trova al di fuori di $S$ e una linea è tracciata attraverso $P$, tagliando $S$ in punti distinti $X$ e $Y$. I cerchi $S_1$ e $S_2$ sono tracciati attraverso $P$ che sono tangenti a $S$ rispettivamente a $X$ e $Y$. Dimostrare che la differenza tra i raggi di $S_1$ e $S_2$ è indipendente dalle posizioni di $P$, $X$ e $Y$.
+> Si consideri una circonferenza $S$. Il punto $P$ sta fuori da $S$ e per $P$ si traccia una retta che seca $S$ in punti distinti $X$ e $Y$. Si tracciano le circonferenze $S_1$ e $S_2$ per $P$, tangenti a $S$ rispettivamente in $X$ e in $Y$. Dimostrare che la differenza dei raggi di $S_1$ e $S_2$ non dipende dalle posizioni di $P$, $X$ e $Y$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2012#q03|src_bmo1_2012__Q03]]
 
 
 
@@ -113,15 +134,25 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Palle in due sacchetti: rimuovere quantità uguali o raddoppiare/triplicare; determinare se entrambe le sacche possono sempre essere svuotate*
+*Si possono svuotare due sacchetti con $m$ e $n$ palline, $m, n > 0$?*
 
-> Inizialmente ci sono palle $m$ in una borsa e $n$ nell'altra, dove $m, n > 0$. Sono ammesse due diverse operazioni: a) rimuovere un numero uguale di palle da ciascuna borsa; b) raddoppiare il numero di palle in una borsa.
-> 
-> È sempre possibile svuotare entrambe le borse dopo una sequenza finita di operazioni?
-> 
-> L'operazione b) è ora sostituita da b') Triplico il numero di palle in un sacchetto.
-> 
-> È ora sempre possibile svuotare entrambe le sacche dopo una sequenza finita di operazioni?
+> All'inizio ci sono $m$ palline in un sacchetto e $n$ nell'altro, con $m, n > 0$. Sono ammesse due operazioni diverse:
+> a) togliere lo stesso numero di palline da ciascun sacchetto;
+> b) raddoppiare il numero di palline in un sacchetto.
+>
+> È sempre possibile svuotare entrambi i sacchetti con una successione finita di operazioni?
+>
+> L'operazione b) è ora sostituita da
+> b') triplicare il numero di palline in un sacchetto.
+>
+> È ora sempre possibile svuotare entrambi i sacchetti con una successione finita di operazioni?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2012#q04|src_bmo1_2012__Q04]]
 
 
 
@@ -144,9 +175,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il prodotto di quattro integri positivi consecutivi non può essere uguale al prodotto di due integri positivi consecutivi*
+*Il prodotto di quattro interi positivi consecutivi non è il prodotto di due consecutivi*
 
-> Prove che il prodotto di quattro numeri interi positivi consecutivi non può essere uguale al prodotto di due numeri interi positivi consecutivi.
+> Dimostrare che il prodotto di quattro interi positivi consecutivi non può essere uguale al prodotto di due interi positivi consecutivi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2012#q05|src_bmo1_2012__Q05]]
 
 
 
@@ -171,8 +209,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto ABC con triangolo ortico: dimostrare DE+DF <= BC con caratterizzazione di uguaglianza*
+*Dimostrare che $DE + DF \le BC$ e dire quando vale l'uguaglianza*
 
-> Che il $ABC$ sia un triangolo acuto. I piedi delle altitudini da $A$, $B$ e $C$ sono rispettivamente $D$, $E$ e $F$. Prova che $DE + DF \le BC$ e determina i triangoli per i quali vale l'uguaglianza.
-> 
-> L'altitudine da $A$ è la linea attraverso $A$ che è perpendicolare a $BC$. Il piede di questa altitudine è il punto $D$ dove incontra $BC$. Le altre altitudini sono definite in modo simile.
+> Sia $ABC$ un triangolo acutangolo. I piedi delle altezze da $A$, $B$ e $C$ sono rispettivamente $D$, $E$ e $F$. Dimostrare che $DE + DF \le BC$ e determinare i triangoli per cui vale l'uguaglianza.
+>
+> L'altezza da $A$ è la retta per $A$ perpendicolare a $BC$. Il piede di questa altezza è il punto $D$ in cui essa incontra $BC$. Le altre altezze si definiscono allo stesso modo.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2012#q06|src_bmo1_2012__Q06]]

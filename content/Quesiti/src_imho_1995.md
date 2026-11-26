@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro punti allineati, intersezioni di circonferenze, dimostrazione di concorrenza*
+*Quattro punti allineati, intersezioni con la circonferenza, dimostrazione della concorrenza*
 
-> Siano $A$, $B$, $C$, $D$ quattro punti distinti su una retta, in quest'ordine. Le circonferenze di diametri $AC$ e $BD$ si intersecano nei punti $X$ e $Y$. Sia $P$ un punto sulla retta $XY$ diverso da $Z$. La retta $CP$ interseca la circonferenza di diametro $AC$ nei punti $C$ e $M$, mentre la retta $BP$ interseca la circonferenza di diametro $BD$ nei punti $B$ e $N$. Si dimostri che $AM$, $DN$, $XY$ sono concorrenti.
+> Siano $A$, $B$, $C$, $D$ quattro punti distinti allineati, in tale ordine. Le circonferenze aventi per diametri $AC$ e $BD$ si intersecano nei punti $X$ e $Y$. Sia $P$ un punto della retta $XY$ diverso da $Z$. La retta $CP$ interseca la circonferenza avente per diametro $AC$ nei punti $C$ e $M$, e la retta $BP$ interseca la circonferenza avente per diametro $BD$ nei punti $B$ e $N$. Dimostrare che $AM$, $DN$, $XY$ sono concorrenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1995#q01|src_imho_1995__Q01]]
 
 
 
@@ -55,10 +62,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disuguaglianza per reali positivi con abc=1*
+*Disuguaglianza per numeri reali positivi con abc=1*
 
-> Siano $a$, $b$, $c$ numeri reali positivi tali che $abc = 1$. Si dimostri che
+> Siano $a$, $b$, $c$ numeri reali positivi tali che $abc = 1$. Dimostrare che
 > $$\frac{1}{a^3(b+c)} + \frac{1}{b^3(c+a)} + \frac{1}{c^3(a+b)} \ge \frac{3}{2}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1995#q02|src_imho_1995__Q02]]
 
 
 
@@ -81,9 +95,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutti gli n>3 per cui n punti ammettono perimetri dei triangoli uguali*
+*Determinare tutti gli n>3 per cui n punti consentono perimetri triangolari uguali*
 
-> Determinare tutti gli interi $n > 3$ per cui esistono $n$ punti $A_1, \ldots, A_n$ nel piano, nessuna terna dei quali allineata, e numeri reali $r_1, \ldots, r_n$ tali che, per ogni $1 \le i < j < k \le n$, l'area del triangolo $\triangle A_i A_j A_k$ sia uguale a $r_i + r_j + r_k$.
+> Determinare tutti gli interi $n > 3$ per i quali esistono $n$ punti $A_1, \ldots, A_n$ nel piano, nessun tre collineari, e numeri reali $r_1, \ldots, r_n$ tali che, per $1 \le i < j < k \le n$, l'area di $\triangle A_i A_j A_k$ è $r_i + r_j + r_k$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1995#q03|src_imho_1995__Q03]]
 
 
 
@@ -107,10 +128,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valore massimo di x_0 in una successione che soddisfa un'equazione di ricorrenza*
+*Valore massimo di x_0 in una successione che soddisfa una relazione di ricorrenza*
 
-> Determinare il valore massimo di $x_0$ per cui esiste una successione $x_0, x_1, \ldots, x_{1995}$ di numeri reali positivi con $x_0 = x_{1995}$, tale che per ogni $i = 1, \ldots, 1995$ vale che
+> Trovare il valore massimo di $x_0$ per cui esiste una successione $x_0, x_1, \ldots, x_{1995}$ di numeri reali positivi tale che $x_0 = x_{1995}$, con $i = 1, \ldots, 1995$,
 > $$x_{i-1} + \frac{2}{x_{i-1}} = 2x_i + \frac{1}{x_i}.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1995#q04|src_imho_1995__Q04]]
 
 
 
@@ -133,9 +161,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esagono convesso ABCDEF con lati uguali, condizione sugli angoli e sull'area*
+*Esagono convesso ABCDEF con lati uguali, condizione sull'angolo e sull'area*
 
-> Sia $ABCDEF$ un esagono convesso con $AB = BC = CD$ e $DE = EF = FA$, tale che $\angle BCD = \angle EFA = \pi/3$. Siano $G$ e $H$ punti nel suo interno tali che $\angle AGB = \angle DHE = 2\pi/3$. Si dimostri che $AG + GB + GH + DH + HE \ge CF$.
+> Sia $ABCDEF$ un esagono convesso con $AB = BC = CD$ e $DE = EF = FA$, tale che $\angle BCD = \angle EFA = \pi/3$. Si supponga che $G$ e $H$ siano punti interni all'esagono tali che $\angle AGB = \angle DHE = 2\pi/3$. Dimostrare che $AG + GB + GH + DH + HE \ge CF$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1995#q05|src_imho_1995__Q05]]
 
 
 
@@ -158,6 +193,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*sottoinsiemi di cardinalità p dell'insieme {1,...,2p} la cui somma è divisibile per p*
+*Sottoinsiemi di p elementi di {1,...,2p} la cui somma è divisibile per p*
 
-> Sia $p$ un numero primo dispari. Quanti sottoinsiemi di $p$ elementi $A$ dell'insieme $\{1, 2, \ldots, 2p\}$ esistono tali che la somma dei loro elementi sia divisibile per $p$?
+> Sia $p$ un numero primo dispari. Quante sottinsiemi $A$ di $\{1, 2, \ldots, 2p\}$ aventi $p$ elementi esistono, i cui elementi hanno una somma divisibile per $p$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1995#q06|src_imho_1995__Q06]]

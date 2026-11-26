@@ -37,17 +37,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time to earn 1000 Euro with annual salary*
+*Time to earn 1000 euros on an annual salary*
 
-> A football player receives an annual salary of 6,000,000 euros for 2007. The length of time he earns EUR 1000 is:
+> A footballer receives an annual salary of 6,000,000 euros for 2007. The length of time in which he earns 1000 euros is:
 >
-> - **(A)** less than half an hour,
-> - **(B)** between half an hour and one hour,
-> - **(C)** between one and two hours,
-> - **(D)** between two and four hours,
-> - **(E)** greater than four hours.
+> - **(A)** less than half an hour
+> - **(B)** between half an hour and one hour
+> - **(C)** between one hour and two hours
+> - **(D)** between two hours and four hours
+> - **(E)** more than four hours.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2007_biennio#q01|src_archimede_2007_biennio__Q01]]
 
 
 
@@ -77,9 +80,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio between sides of a square and an isoperimetric triangle*
+*Ratio of the sides of a square and an isoperimetric triangle*
 
-> An equilateral triangle and a square have the same perimeter. What is the ratio of the length of one side of the square to that of one side of the triangle?
+> An equilateral triangle and a square have the same perimeter. What is the ratio of the length of a side of the square to that of a side of the triangle?
 >
 > - **(A)** 1 2,
 > - **(B)** 2 3,
@@ -87,7 +90,9 @@ level: biennio
 > - **(D)** 1,
 > - **(E)** 8
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_archimede_2007_biennio#q02|src_archimede_2007_biennio__Q02]]
 
 
 
@@ -120,17 +125,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many supplements were sold by total collection*
+*Number of supplements sold, from the total takings*
 
-> 3) A newspaper costs EUR 0.90; the buyer is offered an optional supplement of EUR 1.50 At the end of the day, 333 copies of the paper were sold and the total revenue from the sale of the paper and its supplements was EUR 539.70. How many supplements have been purchased?
+> A newspaper costs 0.90 euros; anyone who buys it is offered an optional supplement costing 1.50 euros. By the end of the day, 333 copies of the newspaper have been sold, and the total takings from the sale of the newspaper and the corresponding supplements were 539.70 euros. How many supplements were bought?
 >
-> - **(A)** Less than 66,
-> - **(B)** more than 67 and less than 132,
-> - **(C)** more than 133 and less than 200,
-> - **(D)** more than 201 and less than 266,
+> - **(A)** fewer than 66
+> - **(B)** more than 67 and fewer than 132
+> - **(C)** more than 133 and fewer than 200
+> - **(D)** more than 201 and fewer than 266
 > - **(E)** more than 266.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2007_biennio#q03|src_archimede_2007_biennio__Q03]]
 
 
 
@@ -161,9 +169,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sections between two rows of 14 points on parallel lines*
+*Segments between two rows of 14 points on parallel lines*
 
-> In the plane there are two rows of 14 points each, arranged on two parallel and distinct lines. If you plot a segment from every point in the first row to every point in the second row, how many segments did you plot?
+> In the plane there are two rows of 14 points each, arranged on two distinct parallel lines. If you draw a segment from every point of the first row to every point of the second row, how many segments have you drawn?
 >
 > - **(A)** 140,
 > - **(B)** 196,
@@ -171,7 +179,10 @@ level: biennio
 > - **(D)** 280,
 > - **(E)** 392.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2007_biennio#q04|src_archimede_2007_biennio__Q04]]
 
 
 
@@ -200,17 +211,19 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Signs of a,b with a+b<0 and ab>0*
+*Signs of a and b when the sum is negative and the product is positive*
 
-> If a and b are two numbers such that a + b < 0 and a · b > 0, which of the following is true?
+> If a and b are two numbers such that a + b < 0 and a · b > 0, which of the following statements is true?
 >
-> - **(A)** a > 0 e b > 0,
-> - **(B)** a < 0 e b < 0,
-> - **(C)** a > 0 e b < 0,
-> - **(D)** a > −b,
+> - **(A)** a > 0 and b > 0
+> - **(B)** a < 0 and b < 0
+> - **(C)** a > 0 and b < 0
+> - **(D)** a > −b
 > - **(E)** b > −a.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2007_biennio#q05|src_archimede_2007_biennio__Q05]]
 
 
 
@@ -249,7 +262,10 @@ level: biennio
 > - **(D)** 10120,
 > - **(E)** 110110.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2007_biennio#q06|src_archimede_2007_biennio__Q06]]
 
 
 
@@ -278,18 +294,19 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area increase by increasing base by 20% and height by 50%*
+*Increase in area when the base grows by 20% and the height by 50%*
 
-> By increasing the base of a rectangle by 20% and its height by 50%, by how much
-> does its area increase?
+> If the base of a rectangle is increased by 20% and its height by 50%, by how much does its area increase?
 >
-> - **(A)** 70%,
-> - **(B)** 72%,
-> - **(C)** 75%,
-> - **(D)** 78%,
-> - **(E)** 80%.
+> - **(A)** by 70%
+> - **(B)** by 72%
+> - **(C)** by 75%
+> - **(D)** by 78%
+> - **(E)** by 80%.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_archimede_2007_biennio#q07|src_archimede_2007_biennio__Q07]]
 
 
 
@@ -323,17 +340,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Input cancellation of the 2007th person*
+*Gate through which the 2007th person enters*
 
-> At the stadium the spectators enter through five gates, one next to the other, according to this rule: one person from the first gate, then two people from the second gate, then three people from the third, then four people from the fourth and finally five people from the fifth. Then you start again the same way and you go on until everyone's in. Knowing that Raffaele will be the 2007th person to enter, which gate will he enter?
+> At the stadium, spectators enter through five gates placed side by side, according to this rule: one person is let in through the first gate, then two people through the second gate, then three people through the third, then four people through the fourth, and finally five people through the fifth. Then one starts over, proceeding in the same way, and continues until everyone has entered. Given that Raffaele will be the 2007th person to enter, through which gate will he enter?
 >
-> - **(A)** From the first,
-> - **(B)** from the second,
-> - **(C)** from the third,
-> - **(D)** from the fourth,
-> - **(E)** From the fifth.
+> - **(A)** through the first
+> - **(B)** through the second
+> - **(C)** through the third
+> - **(D)** through the fourth
+> - **(E)** through the fifth.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2007_biennio#q08|src_archimede_2007_biennio__Q08]]
 
 
 
@@ -365,9 +385,12 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of (a+b)/(b+c) with b/a=2 and c/b=3*
+*Value of (a+b)/(b+c) given b/a = 2 and c/b = 3*
 
-> If a, b and c are numbers such that b a = 2 and c b = 3, what is a + b b b + c ?
+> If a, b and c are numbers such that b
+> a = 2 and c
+> b = 3, what is the value of a + b
+> b + c ?
 >
 > - **(A)** 3 8,
 > - **(B)** 3 5,
@@ -375,7 +398,11 @@ level: biennio
 > - **(D)** 1 3,
 > - **(E)** 2 3.
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_archimede_2007_biennio#q09|src_archimede_2007_biennio__Q09]]
 
 
 
@@ -409,9 +436,15 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Simplify roots 10 by roots 15 more roots 54*
+*Simplify the square root of 10 times the square root of 15 plus the square root of 54*
 
-> The number √ 10 · √ 15 + √ 54 is equal to:
+> The number
+> √
+> 10
+> √
+> 15 +
+> √
+> 54 is equal to:
 >
 > - **(A)** 5 √ 6,
 > - **(B)** 6 √ 8,
@@ -419,7 +452,9 @@ level: biennio
 > - **(D)** 6 √ 10,
 > - **(E)** 8 √ 10.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2007_biennio#q10|src_archimede_2007_biennio__Q10]]
 
 
 
@@ -452,11 +487,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the ABFCDE hexagon in a square*
+*Area of hexagon ABFCDE in a square*
 
-![[src_archimede_2007_biennio__prob11.png]]
-
-> The square ABCD drawn next to it has a side length of 3 m. The EF segment is 1 m long and parallel to AB. What is the value of the ABFCDE area?
+> The square ABCD drawn alongside has side length 3 m. The segment EF is 1 m long and is parallel to AB. What is the area of the hexagon ABFCDE?
 >
 > - **(A)** 5 m2,
 > - **(B)** 5, 5 m2,
@@ -464,7 +497,10 @@ level: biennio
 > - **(D)** 7 m2,
 > - **(E)** 7, 5 m2.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2007_biennio#q11|src_archimede_2007_biennio__Q11]]
 
 
 
@@ -496,17 +532,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side and diagonal paths of a square*
+*Paths along the sides and diagonals of a square*
 
-> How many distinct paths, starting from a fixed vertex of a square and moving only along its sides and diagonals, pass through each vertex once and only once?
+> How many distinct paths are there that start from a fixed vertex of a square and, moving only along its sides and its diagonals, pass through each vertex exactly once?
 >
-> - **(A)** Two, two.
-> - **(B)** three,
-> - **(C)** four,
-> - **(D)** six,
-> - **(E)** I got eight.
+> - **(A)** two
+> - **(B)** three
+> - **(C)** four
+> - **(D)** six
+> - **(E)** eight.
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2007_biennio#q12|src_archimede_2007_biennio__Q12]]
 
 
 
@@ -538,9 +578,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Days at the next Earth Day on Uru
+*Days until the next Planet Festival on Uru*
 
-> On the planet Uru, the weeks last 8 days, the months (all of them indefinitely) last 34 days, and there are 14 months in a year. When the first day of the year falls on Sunday (the last day of the week), the Planetary Festival is celebrated. Knowing that today on Uru is the Planetary Festival, how many days will it be the next?
+> On the planet Uru, weeks last 8 days, months (all alike) last 34 days, and there are 14 months in a year. When the first day of the year falls on Sunday (the last day of the week), the Planet Festival is celebrated. Knowing that today on Uru is the Planet Festival, in how many days will the next one be?
 >
 > - **(A)** 238,
 > - **(B)** 476,
@@ -548,7 +588,10 @@ Days at the next Earth Day on Uru
 > - **(D)** 1428,
 > - **(E)** 1904.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2007_biennio#q13|src_archimede_2007_biennio__Q13]]
 
 
 
@@ -581,9 +624,9 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BCED quadrilateral area with D,E on one third of the sides*
+*Area of quadrilateral BCED with D,E at one third of the sides*
 
-> In an ABC triangle, we choose a point D over AB and a point E over AC so that the length of AD is one-third of AB and the length of AE is one-third of AC. Knowing that the area of the ADE triangle is 5 m2, determine the BCED quadrilateral area.
+> In a triangle ABC we choose a point D on AB and a point E on AC so that the length of AD is one third of that of AB and the length of AE is one third of that of AC. Knowing that the area of triangle ADE is 5 m2, determine the area of quadrilateral BCED.
 >
 > - **(A)** 10 m2,
 > - **(B)** 20 m2,
@@ -591,7 +634,10 @@ Days at the next Earth Day on Uru
 > - **(D)** 30 m2,
 > - **(E)** 40 m2.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2007_biennio#q14|src_archimede_2007_biennio__Q14]]
 
 
 
@@ -625,11 +671,12 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AECB quadrilateral area with square and equilateral triangle*
+*Area of quadrilateral AECB with a square and an equilateral triangle*
 
-![[src_archimede_2007_biennio__prob15.png]]
-
-> In the figure next to ABCD is a square with a diagonal length of 2 cm and AEC is equilateral. How much is the area of the AECB quadrilateral?
+> In the figure beside, ABCD is a square
+> with diagonal length 2 cm and AEC is equilateral.
+> What is the area of quadrilateral
+> AECB?
 >
 > - **(A)** ( √ 2 √ 3 −2)cm2,
 > - **(B)** ( √ 3 −1)cm2,
@@ -637,7 +684,10 @@ Days at the next Earth Day on Uru
 > - **(D)** ( √ 2 + √ 3)cm2,
 > - **(E)** (2 + √ 3)cm2.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2007_biennio#q15|src_archimede_2007_biennio__Q15]]
 
 
 
@@ -670,9 +720,9 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Content of toothpaste before reduction*
+*Contents of the tube of toothpaste before the reduction*
 
-> A toothpaste manufacturer reduces the contents of each toothpaste tube by 20 grams and leaves the price unchanged. He estimates that this will increase the price of one pound of toothpaste by 25%. How much toothpaste did each tube contain before the reduction?
+> A toothpaste manufacturer reduces the contents of each tube of toothpaste by 20 grams and leaves its price unchanged. He calculates that in this way the price of a kilogram of toothpaste will increase by 25%. How much toothpaste did each tube contain before the reduction?
 >
 > - **(A)** 100 g,
 > - **(B)** 120 g,
@@ -680,7 +730,10 @@ Days at the next Earth Day on Uru
 > - **(D)** 150 g,
 > - **(E)** 160 g.
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2007_biennio#q16|src_archimede_2007_biennio__Q16]]
 
 
 
@@ -711,9 +764,10 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remains of the division of a polynomial in 2007 by 669*
+*Remainder of the division of a polynomial in 2007 by 669*
 
-> How much is the remainder of the division of 10 (((2007) 4 −8 ((2007) 3 + 12 ((2007) 2 + 721 = 669?
+> What is the remainder of the division of 10(2007)4 −8(2007)3 + 12(2007)2 + 721 by
+> 669?
 >
 > - **(A)** 0,
 > - **(B)** 52,
@@ -721,7 +775,10 @@ Days at the next Earth Day on Uru
 > - **(D)** 223,
 > - **(E)** 446.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2007_biennio#q17|src_archimede_2007_biennio__Q17]]
 
 
 
@@ -759,11 +816,11 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A square area ABCD from square and white rhombus*
+*Area of square ABCD from white square and rhombus*
 
-![[src_archimede_2007_biennio__prob18.png]]
-
-> With four rectangular triangles identical to the figure on the left the area of the white square is 17 m2. Instead, by arranging them as in the figure to the right, the area of the white rhombus is 8 m2. How much is the area of the square ABCD?
+> Arranging four identical right triangles as in the left figure, the area of the white square is 17 m2.
+> Arranging them instead as in the right figure, the area of the white rhombus is 8 m2.
+> What is the area of square ABCD?
 >
 > - **(A)** 19 m2,
 > - **(B)** 24 m2,
@@ -771,7 +828,10 @@ Days at the next Earth Day on Uru
 > - **(D)** 32 m2,
 > - **(E)** 36 m2.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2007_biennio#q18|src_archimede_2007_biennio__Q18]]
 
 
 
@@ -806,17 +866,20 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Knights between four robbers and knights*
+*Number of knights among four inhabitants, brigands and knights*
 
-> In a country there are only robbers, who always lie, and knights, who always tell the truth. A journalist interviewed four inhabitants: Arthur, Bernard, Charles, and Darius, who make the following statements. Arthur: Bernard is a brigand; Bernardo: I am the only knight among us four; Charles: At least one between Arthur and Darius is a brigand; Darius: We are 4 knights. How many of the four are knights?
+> In a village live only brigands, who always lie, and knights, who always tell the truth. A journalist interviews four inhabitants: Arturo, Bernardo, Carlo and Dario, who make the following statements. Arturo: "Bernardo is a brigand"; Bernardo: "I am the only knight among the four of us"; Carlo: "At least one of Arturo and Dario is a brigand"; Dario: "We are 4 knights". How many of the four are knights?
 >
-> - **(A)** No one.
-> - **(B)** One of them.
-> - **(C)** two,
-> - **(D)** three,
-> - **(E)** Four of them.
+> - **(A)** none
+> - **(B)** one
+> - **(C)** two
+> - **(D)** three
+> - **(E)** four.
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2007_biennio#q19|src_archimede_2007_biennio__Q19]]
 
 
 
@@ -855,11 +918,9 @@ Days at the next Earth Day on Uru
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of volume of cube cut from a plane APD*
+*Ratio of the volumes of the cube cut by a plane APD*
 
-![[src_archimede_2007_biennio__prob20.png]]
-
-> A, B, C and D are four of the vertices of a cube, as shown in the figure, and the point P is the center of the face that has as vertices A, B and C. The plane passing through A, P and D divides the cube into two parts. What is the ratio of the volume of the part containing B to that of the part containing C?
+> A, B, C and D are four vertices of a cube, as in the figure, and the point P is the centre of the face that has A, B and C as vertices. The plane passing through A, P and D divides the cube into two parts. What is the ratio between the volume of the part containing B and that of the part containing C?
 >
 > - **(A)** 1/2,
 > - **(B)** 1,
@@ -867,4 +928,8 @@ Days at the next Earth Day on Uru
 > - **(D)** 2,
 > - **(E)** 3.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2007_biennio#q20|src_archimede_2007_biennio__Q20]]

@@ -30,10 +30,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*IMO 1997, Problema 1*
+*IMO 1997, problema 1*
 
-> Sia d un intero positivo diverso da 2, 5 e 13. Si dimostri che si possono trovare
-> a, b distinti nell'insieme {2, 5, 13, d} tali che ab −1 non sia un quadrato perfetto.
+> Sia d un qualsiasi intero positivo diverso da 2, 5 e 13. Dimostrare che si possono trovare a e b distinti nell'insieme {2, 5, 13, d} tali che ab − 1 non sia un quadrato perfetto.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imo_compilation#q01|src_imo_compilation__Q01]]
 
 
 
@@ -60,13 +66,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*IMO 1997, Problema 2*
+*IMO 1997, problema 2*
 
-> Nel piano sono dati un triangolo A1A2A3 e un punto P0. Poniamo As = As−3
-> per ogni s ≥4. Costruiamo una successione di punti P1, P2, P3, . . . , tale che Pk+1 sia
-> l'immagine di Pk nella rotazione di centro Ak+1 e angolo di 120° in senso orario
-> (per k = 0, 1, 2, . . . ). Si dimostri che se P1986 = P0, allora il triangolo A1A2A3 è
-> equilatero.
+> Nel piano sono dati un triangolo A1A2A3 e un punto P0. Definiamo As = As−3 per ogni s ≥ 4. Costruiamo un insieme di punti P1, P2, P3, ... tale che Pk+1 sia l'immagine di Pk mediante una rotazione di 120° in senso orario, avente centro Ak+1 (per k = 0, 1, 2, ...). Dimostrare che, se P1986 = P0, allora il triangolo A1A2A3 è equilatero.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_compilation#q02|src_imo_compilation__Q02]]
 
 
 
@@ -102,18 +111,16 @@ level: IMO
 
 *IMO 1997, problema 3*
 
-> A ogni vertice di un pentagono regolare è assegnato un intero in modo che
-> la somma dei cinque numeri sia positiva. Se a tre vertici consecutivi sono assegnati
-> i numeri x, y, z rispettivamente e y < 0, è consentita la seguente operazione:
-> i numeri x, y, z vengono sostituiti da x+y, −y, z +y rispettivamente. Tale
-> operazione viene ripetuta finché almeno uno dei cinque numeri
-> è negativo. Stabilire se questo procedimento termina necessariamente
-> dopo un numero finito di passi.
-> 
-> XXVII Olimpiade Internazionale di Matematica
-> Varsavia, Polonia
-> Giorno II
-> 10 luglio 1986
+> A ciascun vertice di un pentagono regolare viene assegnato un numero intero in modo tale che la somma di tutti e cinque i numeri sia positiva. Se a tre vertici consecutivi vengono assegnati rispettivamente i numeri x, y, z e y < 0, allora è consentita la seguente operazione: i numeri x, y, z vengono sostituiti rispettivamente con x+y, −y, z+y. Tale operazione viene eseguita ripetutamente finché almeno uno dei cinque numeri è negativo. Determinare se questa procedura giunga necessariamente a termine dopo un numero finito di passi.
+>
+> 27ª Olimpiade Internazionale di Matematica Varsavia, Polonia Seconda giornata 10 luglio 1986
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_compilation#q03|src_imo_compilation__Q03]]
 
 
 
@@ -142,7 +149,14 @@ level: IMO
 
 *IMO 1997, problema 4*
 
-> Siano A, B vertici consecutivi di un n-agono regolare (n ≥ 5) nel piano, con centro in O. Un triangolo XYZ, congruente a OAB e inizialmente sovrapposto ad esso, si muove nel piano in modo tale che Y e Z descrivano l’intera frontiera del poligono, mentre X rimane all’interno del poligono. Si determini il luogo descritto da X.
+> Siano A e B vertici adiacenti di un poligono regolare a n lati (n ≥ 5) nel piano, avente centro in O. Un triangolo XYZ, congruente con OAB e inizialmente coincidente con esso, si muove nel piano in modo che ciascuno dei punti Y e Z descriva l'intero contorno del poligono, mentre X rimane all'interno del poligono. Determinare il luogo geometrico di X.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imo_compilation#q04|src_imo_compilation__Q04]]
 
 
 
@@ -172,13 +186,13 @@ level: IMO
 
 *IMO 1997, problema 5*
 
-> Determinare tutte le funzioni f, definite sui numeri reali non negativi e a valori reali non negativi, tali che:
-> (i)
-> f(xf(y))f(y) = f(x + y) per ogni x, y ≥0,
-> (ii)
-> f(2) = 0,
-> (iii)
-> f(x) ̸= 0 per 0 ≤x < 2.
+> Trovare tutte le funzioni f, definite sui numeri reali non negativi e a valori reali non negativi, tali che: (i) f(xf(y))f(y) = f(x + y) per tutti gli x, y ≥ 0, (ii) f(2) = 0, (iii) f(x) ≠ 0 per 0 ≤ x < 2.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_compilation#q05|src_imo_compilation__Q05]]
 
 
 
@@ -211,12 +225,16 @@ level: IMO
 
 *IMO 1997, problema 6*
 
-> Si consideri un insieme finito di punti nel piano, ciascuno dei quali ha coordinate intere. Si dimostri che è sempre possibile colorare alcuni punti dell'insieme di rosso e gli altri di bianco in modo tale che, per ogni retta L parallela a uno degli assi coordinati, la differenza (in valore assoluto) tra il numero di punti bianchi e quello di punti rossi appartenenti a L sia al più 1.
-> 
-> XXVIII Olimpiade Internazionale di Matematica
-> Havana, Cuba
-> Giorno 1
-> 10 luglio 1987
+> Si ha a disposizione un insieme finito di punti nel piano, ciascuno con coordinate intere. È sempre possibile colorare di rosso alcuni dei punti dell'insieme e di bianco i restanti in modo che, per ogni retta L parallela a uno dei due assi coordinati, la differenza (in valore assoluto) tra il numero di punti bianchi e il numero di punti rossi su L non sia superiore a 1?
+>
+> 28ª Olimpiade Internazionale di Matematica, L'Avana, Cuba, Giornata I, 10 luglio 1987
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_compilation#q06|src_imo_compilation__Q06]]
 
 
 
@@ -244,8 +262,14 @@ level: IMO
 
 *IMO 1962, problema 7*
 
-> Il tetraedro $SABC$ ha la seguente proprietà: esistono cinque sfere, ciascuna delle quali è tangente ai lati $SA$, $SB$, $SC$, $BC$, $CA$, $AB$, oppure alle loro prolungazioni.
-> 
-> (a) Si dimostri che il tetraedro $SABC$ è regolare.
-> 
-> (b) Si dimostri viceversa che per ogni tetraedro regolare esistono cinque tali sfere.
+> Il tetraedro $SABC$ ha la seguente proprietà: esistono cinque sfere, ciascuna delle quali è tangente ai spigoli $SA$, $SB$, $SC$, $BC$, $CA$, $AB$, oppure alle loro prolungazioni.
+>
+> (a) Dimostrare che il tetraedro $SABC$ è regolare.
+>
+> (b) Dimostrare, viceversa, che per ogni tetraedro regolare esistono cinque sfere di tale tipo.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_compilation#q07|src_imo_compilation__Q07]]

@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio come somma di cubetti di polinomi a coefficiente intero*
+*Si può scrivere ogni polinomio a coefficienti interi come somma di cubi di polinomi a coefficienti interi?*
 
-> Ogni polinomio con coefficienti interi può essere espresso come una somma di cubetti di polinomi con coefficienti interi?
+> Si può scrivere ogni polinomio a coefficienti interi come somma di cubi di polinomi a coefficienti interi?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1996_r2#q01|src_pol_1996_r2__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo tangente ai lati quadrilaterali; collinearità delle intersezioni KL e MN*
+*Circonferenza tangente ai lati di un quadrilatero convesso: le rette dei punti di tangenza si incontrano in S, dimostrare che BD è perpendicolare a OS*
 
-> Un cerchio con il centro $O$ è tangente ai lati $AB$, $BC$, $CD$, $DA$ di un quadrilaterale converso $ABCD$ a $K$, $L$, $M$, $N$. Le linee $KL$ e $MN$ si incrociano al punto $S$. Prove che $BD \perp OS$.
+> Una circonferenza di centro $O$ è tangente ai lati $AB$, $BC$, $CD$, $DA$ di un quadrilatero convesso $ABCD$ nei punti $K$, $L$, $M$, $N$. Le rette $KL$ e $MN$ si incontrano nel punto $S$. Dimostrare che $BD \perp OS$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1996_r2#q02|src_pol_1996_r2__Q02]]
 
 
 
@@ -80,9 +92,17 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza con a+b+c=1 e a,b,c > -1/2*
+*Se a, b, c sono maggiori di −1/2 e hanno somma 1, dimostrare che la somma delle frazioni a/(a^2+1) non supera 9/10*
 
-> Prove che se $a, b, c > -\frac{1}{2}$ e $a + b + c = 1$, allora $$\frac{a}{a^2+1} + \frac{b}{b^2+1} + \frac{c}{c^2+1} \le \frac{9}{10}.$$
+> Dimostrare che, se $a, b, c > -\frac{1}{2}$ e $a + b + c = 1$, allora
+>
+> $$\frac{a}{a^2+1} + \frac{b}{b^2+1} + \frac{c}{c^2+1} \le \frac{9}{10}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1996_r2#q03|src_pol_1996_r2__Q03]]
 
 
 
@@ -105,9 +125,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di numeri: coppia successiva ripetuta tra i primi 99 termini*
+*Successione di cifre con vincoli sul termine successivo: dimostrare che due indici distinti tra 1 e 99 hanno la stessa cifra e la stessa cifra seguente*
 
-> Se $a_1, a_2, \ldots$ è una sequenza di cifre dell'insieme $\{0, 1, \ldots, 9\}$ in modo tale che se $a_i = n$, $n \in \mathbb{N}$, $n \ge 10$, allora $a_{i+1} \ge 2$, e se $a_i = 3$, allora $a_{i+1} \ne 4$. Prove che esistono indici $i, j \in \{1, \ldots, 99\}$, $i \ne j$, quali $a_i = a_j$ e $a_{i+1} = a_{j+1}$.
+> Sia $a_1, a_2, \ldots$ una successione di cifre dell'insieme $\{0, 1, \ldots, 9\}$ tale che, se $a_i = n$, $n \in \mathbb{N}$ e $n \ge 10$, allora $a_{i+1} \ge 2$, e se $a_i = 3$ allora $a_{i+1} \ne 4$. Dimostrare che esistono indici $i, j \in \{1, \ldots, 99\}$, $i \ne j$ tali che $a_i = a_j$ e $a_{i+1} = a_{j+1}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1996_r2#q04|src_pol_1996_r2__Q04]]
 
 
 
@@ -130,9 +156,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli enti x,y con x^2(y-1) + y^2(x-1)=1*
+*Trovare tutti gli interi x, y che soddisfano x^2(y−1) + y^2(x−1) = 1*
 
-> Trova tutti gli integri $x$, $y$ tali da $x^2(y - 1) + y^2(x - 1) = 1$.
+> Trovare tutti gli interi $x$, $y$ tali che $x^2(y - 1) + y^2(x - 1) = 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1996_r2#q05|src_pol_1996_r2__Q05]]
 
 
 
@@ -155,6 +187,12 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto interno di parallelepiped al massimo (1/2)sqrt(a^2+b^2+c^2) da un vertice*
+*In un parallelepipedo di spigoli a, b, c ogni punto interno dista al più la metà della diagonale spaziale da qualche vertice*
 
-> Prova che ogni punto interno di un parallelepiped con bordi $a$, $b$, $c$ è a distanza massima $\frac{1}{2}\sqrt{a^2 + b^2 + c^2}$ da qualche vertice del parallelepiped.
+> Dimostrare che ogni punto interno di un parallelepipedo di spigoli $a$, $b$, $c$ dista al più $\frac{1}{2}\sqrt{a^2 + b^2 + c^2}$ da qualche vertice del parallelepipedo.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_1996_r2#q06|src_pol_1996_r2__Q06]]

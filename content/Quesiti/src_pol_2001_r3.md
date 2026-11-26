@@ -30,9 +30,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove una disuguaglianza che coinvolge somme di i×x_i e x_i per n reali non negativi.*
+*Per numeri reali non negativi, la somma i x_i non supera il binomiale più la somma delle potenze x_i^i*
 
-> Prove che per tutti i numeri reali non negativi $x_1, x_2, \ldots, x_n$ ($n \ge 2$) è valida la seguente disuguaglianza: $$\sum_{i=1}^{n} i x_i \le \binom{n}{2} + \sum_{i=1}^{n} x_i^i.$$
+> Dimostrare che, per tutti i numeri reali non negativi $x_1, x_2, \ldots, x_n$ ($n \ge 2$), vale la disuguaglianza seguente:
+>
+> $$\sum_{i=1}^{n} i x_i \le \binom{n}{2} + \sum_{i=1}^{n} x_i^i.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2001_r3#q01|src_pol_2001_r3__Q01]]
 
 
 
@@ -55,9 +63,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra la somma delle distanze da un punto interno di un tetraedro regolare con bordo 1 alle sue vertici è massima di 3.*
+*In un tetraedro regolare di spigolo 1, la somma delle distanze da un punto interno ai vertici non supera 3*
 
-> Prova che, per qualsiasi punto interno $P$ di un tetraedro regolare con bordo $1$, la somma delle distanze da $P$ ai vertici del tetraedro non è superiore a $3$.
+> Dimostrare che, per ogni punto interno $P$ di un tetraedro regolare di spigolo $1$, la somma delle distanze da $P$ ai vertici del tetraedro non supera $3$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2001_r3#q02|src_pol_2001_r3__Q02]]
 
 
 
@@ -82,9 +96,19 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per la ricorrenza x_{n+2}=x_{n+1}+x_n, mostrare alcuni a,b danno più di 2000 valori multipli ma nessuno dà infinitamente molti.*
+*Successione alla Fibonacci con primi termini reali: esistono inizi per cui i valori ripetuti sono più di 2000, ma non possono essere infiniti*
 
-> Considera la sequenza $(x_n)$ definita da $$x_1 = a, \quad x_2 = b, \quad x_{n+2} = x_{n+1} + x_n \quad \text{for } n = 1, 2, 3, \ldots,$$ dove $a$ e $b$ sono numeri reali. Chiamiamo un numero $c$ un valore multiplo della sequenza $(x_n)$ se esistono interi positivi $k \ne l$ tali che $x_k = x_l = c$. Prove che esistono $a$ e $b$ per i quali $(x_n)$ possiede più di $2000$ diversi valori multipli. Inoltre, dimostri che $(x_n)$ non può avere infinitamente molti valori multipli diversi.
+> Si consideri la successione $(x_n)$ definita da
+>
+> $$x_1 = a, \quad x_2 = b, \quad x_{n+2} = x_{n+1} + x_n \quad \text{for } n = 1, 2, 3, \ldots,$$
+>
+> dove $a$ e $b$ sono numeri reali. Un numero $c$ si dice valore multiplo della successione $(x_n)$ se esistono interi positivi $k \ne l$ tali che $x_k = x_l = c$. Dimostrare che esistono $a$ e $b$ per cui $(x_n)$ ha più di $2000$ valori multipli distinti. Inoltre, dimostrare che $(x_n)$ non può avere infiniti valori multipli distinti.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2001_r3#q03|src_pol_2001_r3__Q03]]
 
 
 
@@ -107,9 +131,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se 2^n×a+b è un quadrato perfetto per tutte le n naturali, mostrare a=0.*
+*Se 2^n a + b è un quadrato perfetto per ogni naturale n, allora a è nullo*
 
-> Supponiamo che $a$ e $b$ siano integri in modo tale che $2^n a + b$ sia un quadrato perfetto per tutti $n \in \mathbb{N}$. Mostrare che $a = 0$.
+> Si supponga che $a$ e $b$ siano interi tali che $2^n a + b$ sia un quadrato perfetto per ogni $n \in \mathbb{N}$. Dimostrare che $a = 0$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2001_r3#q04|src_pol_2001_r3__Q04]]
 
 
 
@@ -132,9 +162,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel parallelogramma ABCD, K su BC e L su CD con BK×AD=DL×AB; DK e BL si incontrano in P. Dimostra che angle DAP = angle BAC.*
+*Parallelogramma, punti K e L sui lati con BK·AD = DL·AB: gli angoli DAP e BAC sono uguali*
 
-> I punti $K$ e $L$ sono presi sui lati $BC$ e $CD$ di un parallelo $ABCD$, rispettivamente, in modo tale che $BK \cdot AD = DL \cdot AB$. I segmenti $DK$ e $BL$ si incontrano al punto $P$. Prove che $\angle DAP = \angle BAC$.
+> Si prendono i punti $K$ e $L$ sui lati $BC$ e $CD$ di un parallelogramma $ABCD$ rispettivamente, in modo che $BK \cdot AD = DL \cdot AB$. I segmenti $DK$ e $BL$ si incontrano nel punto $P$. Dimostrare che $\angle DAP = \angle BAC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2001_r3#q05|src_pol_2001_r3__Q05]]
 
 
 
@@ -160,6 +196,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato il 2000 di incremento degli integri positivi al di sotto di 10^100, trovare due sottoinsiemi non vuoti con dimensioni uguali, somme di elementi uguali e somme di quadrati uguali.*
+*Duemila interi positivi minori di 10^100: due sottoinsiemi non vuoti e disgiunti con la stessa cardinalità, la stessa somma e la stessa somma dei quadrati*
 
-> Si devono dare $n_1 < n_2 < \cdots < n_{2000} < 10^{100}$ numeri interi positivi. Indicare che esistono due sottinsiemi non vuoti e disconnessi $A$ e $B$ di $\{n_1, n_2, \ldots, n_{2000}\}$ in modo tale che: (i) $A$ e $B$ abbiano lo stesso numero di elementi; (ii) $A$ e $B$ abbiano le stesse somme di elementi; (iii) $A$ e $B$ abbiano le stesse somme dei quadrati di elementi.
+> Siano dati interi positivi $n_1 < n_2 < \cdots < n_{2000} < 10^{100}$. Dimostrare che esistono due sottoinsiemi non vuoti e disgiunti $A$ e $B$ di $\{n_1, n_2, \ldots, n_{2000}\}$ tali che:
+> (i) $A$ e $B$ hanno lo stesso numero di elementi;
+> (ii) $A$ e $B$ hanno la stessa somma degli elementi;
+> (iii) $A$ e $B$ hanno la stessa somma dei quadrati degli elementi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_pol_2001_r3#q06|src_pol_2001_r3__Q06]]

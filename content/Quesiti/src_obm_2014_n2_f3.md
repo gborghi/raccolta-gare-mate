@@ -37,17 +37,24 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Superdado costruito da otto dadi unitari; facce opposte di ciascuna somma di 7. Trova la somma di sei facce di un dato superdado e costruisci una la cui somma di sei facce è 106.*
+*Superdado costruito con otto dadi unitari; le facce opposte di ciascun dado sommano a 7. Determinare la somma delle facce di un superdado dato e costruiscine uno la cui somma delle facce sia 106.*
 
-> Un dado di gioco ordinario è un cubo la cui faccia porta i numeri da $1$ a $6$, in cui i numeri sulle facce opposte sommano a $7$. Collegando otto dadi insieme, si assembla un *superdado* (super-die), che è un cubo in cui ogni faccia è composta da quattro facce dei dadi più piccoli. Si sa anche che due facce dei dadi più piccoli che sono stati incollati insieme per formare il superdado necessariamente portano lo stesso numero. Si noti che le facce incollate non possono più essere viste e che i numeri uguali su ciascuna faccia possono essere voltati a testa in giù o posizionati lateralmente.
-> 
-> a) Qual è la somma dei numeri sulle sei facce del superdado mostrato di seguito?
-> 
-> b) Costruire un superdado per il quale la somma dei numeri sulle sei facce è uguale a $106$.
-> 
-> *Nota: esistono due modi di assemblare il superdado, cambiando solo le facce che portano un $2$ e un $5$, come nella figura seguente; si può usare ciascuno di questi due modi quante volte è necessario.*
+> Un dado da gioco comune è un cubo le cui facce portano i numeri da $1$ a $6$, e in cui i numeri sulle facce opposte sommano a $7$. Incollando insieme otto dadi, si assembla un *superdado* (super-dado), che è un cubo in cui ciascuna faccia è composta da quattro facce dei dadi più piccoli. Si sa inoltre che le due facce dei dadi più piccoli che sono state incollate insieme per formare il superdado devono necessariamente portare lo stesso numero. Si noti che le facce incollate non sono più visibili e che i numeri uguali su ciascuna faccia possono essere capovolti o messi di lato.
+>
+> a) Qual è la somma dei numeri presenti sulle sei facce del superdado mostrato di seguito?
+>
+> b) Costruisci un superdado per il quale la somma dei numeri sulle sei facce è uguale a $106$.
+>
+> *Osservazione: esistono due modi per assemblare il superdado, cambiando solo le facce che portano un $2$ e un $5$, come nella figura sottostante; è possibile utilizzare ciascuno di questi due modi quante volte sia necessario.*
 
 ![[src_obm_2014_n2_f3__q01.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n2_f3#q01|src_obm_2014_n2_f3__Q01]]
 
 
 
@@ -72,11 +79,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Diametro AB del cerchio, accordi CD perpendicolari a esso che si incontrano AB a E; per qualsiasi P su CD, le linee AP e BP incontrano il cerchio di nuovo a F e G; O è il circumentro di EFG. L' area di mostra dell' OCD è costante.*
+*AB è il diametro di una circonferenza; CD è una corda perpendicolare ad AB, che interseca AB in E; per ogni P su CD, le rette AP e BP incontrano nuovamente la circonferenza rispettivamente in F e G; O è il circocentro di EFG. Dimostrare che l'area di OCD è costante.*
 
-> Si deve $AB$ essere un diametro di un cerchio $\Gamma$ e si deve $CD$ essere un accordo perpendicolare a tale diametro. Il $E$ deve essere il punto di intersezione di $CD$ e $AB$, e il $P$ deve essere qualsiasi punto dell'accordo $CD$ diverso da $E$. Le linee $AP$ e $BP$ rientrano in $\Gamma$ rispettivamente a $F$ e $G$. Se $O$ è il centro circundante del triangolo $EFG$, indicare che l'area del triangolo $OCD$ è sempre la stessa, indipendentemente dal punto scelto $P$.
+> Sia $AB$ un diametro di una circonferenza $\Gamma$ e sia $CD$ una corda perpendicolare a tale diametro. Sia $E$ il punto di intersezione di $CD$ e $AB$, e sia $P$ un punto qualsiasi sulla corda $CD$ diverso da $E$. Le rette $AP$ e $BP$ incontrano nuovamente $\Gamma$ rispettivamente in $F$ e in $G$. Se $O$ è il circocentro del triangolo $EFG$, dimostrare che l'area del triangolo $OCD$ è sempre la stessa, qualunque sia il punto $P$ scelto.
 
 ![[src_obm_2014_n2_f3__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n2_f3#q02|src_obm_2014_n2_f3__Q02]]
 
 
 
@@ -99,9 +113,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti gli enti n>1 in modo tale che per ogni k con 0<=k<n ci sia un multiple di n la cui somma digitali lascia il rimanente k dopo la divisione da n.*
+*Trovare tutti gli interi n>1 tali che, per ogni k con 0<=k<n, esista un multiplo di n la cui somma delle cifre lasci resto k alla divisione per n.*
 
-> Trova tutti gli enti $n$, $n > 1$, con la seguente proprietà: per ogni $k$ con $0 \le k < n$, esiste un multiple di $n$ la cui somma di cifre, nella base dieci, lascia il rimanente $k$ dopo la divisione da $n$.
+> Trovare tutti gli interi $n$, $n > 1$, con la seguente proprietà: per ogni $k$ tale che $0 \le k < n$, esiste un multiplo di $n$ la cui somma delle cifre, in base dieci, lascia resto $k$ alla divisione per $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n2_f3#q03|src_obm_2014_n2_f3__Q03]]
 
 
 
@@ -125,9 +146,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadratto, segmenti uguali a lato, superficie identica del prodotto*
+*Quadrato, segmenti laterali uguali, identità del prodotto dell'area*
 
-> $ABCD$ sia un quadrato con il centro $O$. I punti $E$, $F$, $G$, $H$ siano punti interni sui lati $AB$, $BC$, $CD$, $DA$, rispettivamente, in modo tale che $AE = BF = CG = DH$. Supponiamo che la riga $OA$ incontra $HE$ al punto $X$, la riga $OB$ incontra $EF$ al punto $Y$, la riga $OC$ incontra $FG$ al punto $Z$ e la riga $OD$ incontra $GH$ al punto $W$. Dato che $\text{Area}(EFGH) = 1$, trovare $$\left(\text{Area}\,ABCD\right) \times \left(\text{Area}\,XYZW\right).$$
+> Sia $ABCD$ un quadrato con centro $O$. Siano $E$, $F$, $G$, $H$ punti interni rispettivamente sui lati $AB$, $BC$, $CD$, $DA$, tali che $AE = BF = CG = DH$. Si supponga che la retta $OA$ incontri $HE$ nel punto $X$, che la retta $OB$ incontri $EF$ nel punto $Y$, che la retta $OC$ incontri $FG$ nel punto $Z$, e che la retta $OD$ incontri $GH$ nel punto $W$. Dato che $\text{Area}(EFGH) = 1$, trova
+> $$\left(\text{Area}\,ABCD\right) \times \left(\text{Area}\,XYZW\right).$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n2_f3#q04|src_obm_2014_n2_f3__Q04]]
 
 
 
@@ -150,9 +179,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coefficienti interi: positivo per tutti gli interi non implica radici reali*
+*Coefficienti interi: il fatto che siano tutti positivi per tutti gli interi implica l'assenza di radici reali*
 
-> Lasciate che $p$ e $q$ siano numeri interi. Sapendo che $x^2 + px + q$ è positivo per ogni numero intero $x$, dimostrare che l'equazione $x^2 + px + q = 0$ non ha soluzione reale.
+> Siano $p$ e $q$ numeri interi. Sapendo che $x^2 + px + q$ è positivo per ogni numero intero $x$, dimostrare che l'equazione $x^2 + px + q = 0$ non ammette soluzioni reali.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2014_n2_f3#q05|src_obm_2014_n2_f3__Q05]]
 
 
 
@@ -177,8 +213,15 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un tabellone 2m x 2n con un numero intero in ogni cella; la mossa seleziona tre celle che formano un L-tromino e aggiunge 1 a ciascuna. Trovare la condizione necessaria e sufficiente, in termini di m, n e numeri iniziali, per rendere tutti i numeri uguali.*
+*Una scacchiera 2m × 2n con un numero intero in ogni casella; la mossa consiste nel scegliere tre caselle che formano un tromino a L e nell'aggiungere 1 a ciascuna di esse. Determinare la condizione necessaria e sufficiente, in termini di m, n e dei numeri iniziali, affinché tutti i numeri siano uguali.*
 
-> In ogni cella di una tabella $2m \times 2n$ viene scritto un numero intero. L'operazione consentita è quella di scegliere tre celle che formano una figura congruente a un L-tromino, come indicato nella figura seguente, e di aggiungere $1$ a ciascuna di queste tre celle. Determinare la condizione necessaria e sufficiente, in termini di $m$, $n$ e dei numeri iniziali, per rendere possibile la parità di tutti i numeri.
+> In ogni cella di una scacchiera $2m \times 2n$ è scritto un numero intero. L'operazione consentita consiste nel scegliere tre celle che formano una figura congruente a un tromino a L, come indicato nella figura sottostante, e nell'aggiungere $1$ a ciascuna di queste tre celle. Determinare la condizione necessaria e sufficiente, in termini di $m$, $n$ e dei numeri iniziali, affinché sia possibile rendere tutti i numeri uguali.
 
 ![[src_obm_2014_n2_f3__q06.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n2_f3#q06|src_obm_2014_n2_f3__Q06]]

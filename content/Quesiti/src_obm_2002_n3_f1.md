@@ -40,19 +40,26 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Leggizione di un grafico a barre della fatturazione mensile delle società A e B nella seconda metà del 2001*
+*Lettura di un grafico a barre relativo alla fatturazione mensile delle aziende A e B nella seconda metà del 2001*
 
-> Il grafico seguente mostra la fatturazione mensile (in milioni di reais) delle società A e B durante la seconda metà del 2001. Sulla base di questo grafico, possiamo affermare che:
+> Il grafico sottostante mostra la fatturazione mensile (in milioni di reais) delle aziende A e B durante la seconda metà del 2001. Sulla base di questo grafico, possiamo affermare che:
 >
-> - **(A)** In nessun mese la fatturazione della compagnia A era doppia della fatturazione della compagnia B.
-> - **(B)** Nel mese di luglio la differenza tra le fatturazioni era maggiore rispetto agli altri mesi.
-> - **(C)** La Società B ha subito il calo più elevato di fatturazione tra due mesi consecutivi (100 milioni tra i mesi di agosto e settembre).
-> - **(D)** In nessun semestre (periodo di sei mesi) la fatturazione totale della società B è stata superiore a quella della società A.
-> - **(E)** La differenza tra le fatturazioni totali del semestre ha superato i 20 milioni di reais.
+> - **(A)** In nessun mese il fatturato dell'azienda A è stato il doppio di quello dell'azienda B.
+> - **(B)** Nel mese di luglio, la differenza tra gli importi fatturati è stata maggiore rispetto agli altri mesi.
+> - **(C)** La Società B è stata quella che ha registrato il calo maggiore del fatturato tra due mesi consecutivi (100 milioni tra agosto e settembre).
+> - **(D)** In nessun semestre (periodo di sei mesi) il fatturato complessivo della società B è stato superiore a quello della società A.
+> - **(E)** La differenza tra i fatturati totali del semestre ha superato i 20 milioni di reais.
 
 ![[src_obm_2002_n3_f1__q01.png]]
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2002_n3_f1#q01|src_obm_2002_n3_f1__Q01]]
 
 
 
@@ -79,11 +86,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca p+q per la frazione irriducibile uguale a un rapporto decimale ripetitivo più 2*
+*Trovare p+q per la frazione irriducibile uguale a un rapporto espresso da un numero decimale periodico più 2*
 
-> Se $\dfrac{p}{q}$ è la frazione irriducibile equivalente a $\dfrac{6{,}888\ldots}{2{,}444\ldots}+2$, il valore di $p+q$ è uguale a: (A) 38 (B) 39 (C) 40 (D) 41 (E) 42
+> Se $\dfrac{p}{q}$ è la frazione irriducibile equivalente a $\dfrac{6{,}888\ldots}{2{,}444\ldots}+2$, il valore di $p+q$ è uguale a:
+> (A) 38 (B) 39 (C) 40 (D) 41 (E) 42
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n3_f1#q02|src_obm_2002_n3_f1__Q02]]
 
 
 
@@ -114,9 +129,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un commerciante vende due articoli e calcola il guadagno totale dato il profitto e la perdita percentuali*
+*Un commerciante vende due articoli e calcola il guadagno totale partendo dalle percentuali di utile e di perdita*
 
-> Un commerciante acquista due articoli per un totale di R\$ 27.000,00. He sold the first one at a profit of $10\%$ and the second one at a loss of $5\%$. The total gain was R\$ 750,00. I due prezzi di acquisto erano rispettivamente:
+> Un commerciante acquista due articoli per un totale di R\$ 27.000,00. He sold the first one at a profit of $10\%$ and the second one at a loss of $5\%$. The total gain was R\$ 750,00. I due prezzi d'acquisto erano rispettivamente:
 >
 > - **(A)** R\$ 10.000,00 and R\$ 17.000,00
 > - **(B)** R\$ 13.000,00 and R\$ 14.000,00
@@ -124,7 +139,13 @@ level: OBM Nível 3
 > - **(D)** R\$ 15.000,00 and R\$ 12.000,00
 > - **(E)** R\$ 18.000,00 and R\$ 9.000,00
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n3_f1#q03|src_obm_2002_n3_f1__Q03]]
 
 
 
@@ -152,13 +173,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Concorre tra il livello dell'acqua e i grafici temporali dei vasi di diverse forme che vengono riempiti a velocità costante*
+*Abbina i grafici del livello dell'acqua in funzione del tempo ai recipienti di forme diverse che vengono riempiti a velocità costante*
 
-> Successivamente vediamo quattro vasi in cui Angela verserà acqua, da un rubinetto il cui flusso è costante. I grafici A e B di seguito rappresentano il livello dell'acqua (asse verticale) in due dei vasi, secondo il tempo (asse orizzontale). Quale delle navi corrisponde rispettivamente al grafico A e quale al grafico B? A) 3 e 4 B) 2 e 4 C) 1 e 3 D) 2 e 3 E) 1 e 4
+> Successivamente vediamo quattro recipienti in cui Angela verserà dell'acqua, prelevandola da un rubinetto a portata costante. I grafici A e B qui sotto rappresentano il livello dell'acqua (asse verticale) in due dei recipienti, in funzione del tempo (asse orizzontale). Quale dei recipienti corrisponde al grafico A e quale al grafico B, rispettivamente?
+> (A) 3 e 4 (B) 2 e 4 (C) 1 e 3 (D) 2 e 3 (E) 1 e 4
 
 ![[src_obm_2002_n3_f1__q04.png]]
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2002_n3_f1#q04|src_obm_2002_n3_f1__Q04]]
 
 
 
@@ -185,11 +213,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggiati contro autobus noleggiati, trovare un minimo di N bambini
+*Scegliere il mezzo di trasporto più economico per una gita scolastica: furgoni a noleggio vs autobus noleggiati, trovare il numero minimo N di bambini*
 
-> Una scuola organizzerà una gita allo zoo. Ci sono due opzioni di trasporto. La prima opzione è quella di noleggiare "van": ogni van può trasportare fino a 6 bambini e il noleggio di ogni van costa R\$ 60,00. The second option is to hire a company that provides buses with a capacity of 48 children and charges R\$ 237,00 per autobus più R\$ 120,00 per il viaggio; questa opzione è utilizzata indipendentemente dal numero di bambini. Per quale numero minimo di bambini N è più vantaggioso utilizzare gli autobus per la gita? Il valore di N è: (A) 28 (B) 31 (C) 32 (D) 33 (E) 36
+> Una scuola organizzerà una gita allo zoo. Ci sono due opzioni di trasporto. La prima opzione consiste nel noleggiare dei "furgoni": ogni furgone può trasportare fino a 6 bambini e il noleggio di ciascun furgone costa R\$ 60,00. The second option is to hire a company that provides buses with a capacity of 48 children and charges R\$ 237,00 per autobus più R\$ 120,00 per il viaggio; questa opzione viene utilizzata indipendentemente dal numero di bambini. Per quale numero minimo N di bambini è più vantaggioso utilizzare gli autobus per la gita? Il valore di N è:
+> (A) 28 (B) 31 (C) 32 (D) 33 (E) 36
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2002_n3_f1#q05|src_obm_2002_n3_f1__Q05]]
 
 
 
@@ -220,17 +256,23 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Alice subisce quattro successive variazioni percentuali di altezza; trova effetto netto*
+*Alice subisce quattro variazioni successive dell'altezza espresse in percentuale; determina l'effetto netto*
 
-> Durante il suo viaggio nella terra delle meraviglie, Alice subì quattro successivi cambiamenti di altezza, nel seguente modo: prima prese un sorso da una bottiglia sulla quale c'era un adesivo con il messaggio "bevi me, sono 50% in basso", poi prese un sorso da un'altra bottiglia la cui etichetta era stampata con il messaggio "bevi me un sorso 50% più alto". Infine, ha mangiato un pezzo di una tart sulla quale c'era scritto "mangimi, pezzo di tart 20% più alto", e un altro pezzo di tart la cui etichetta diceva "saggiami, pezzo di tart 20% in basso". Dopo il viaggio di Alice, possiamo affermare che lei:
+> Durante il suo viaggio nella Terra delle Meraviglie, Alice subì quattro cambiamenti successivi di altezza, nel modo seguente: prima bevve un sorso da una bottiglia su cui c'era un adesivo con il messaggio "bevimi, sono il 50% più bassa", poi bevve un sorso da un'altra bottiglia la cui etichetta recava il messaggio "bevimi un sorso, sono il 50% più alta". Infine, mangiò un pezzo di una tortina su cui era scritto "mangiami, pezzo di tortina il 20% più alto", e un pezzo di un'altra tortina ancora la cui etichetta diceva "assaggiami, pezzo di tortina il 20% più basso". Dopo il viaggio di Alice, possiamo affermare che lei:
 >
-> - **(A)** E' diminuito dell'1%
-> - **(B)** E' diventato più alto dell'1%
-> - **(C)** E' diminuito del 5%.
-> - **(D)** E' diventato più alto del 5%.
-> - **(E)** Finì per un 10% in meno
+> - **(A)** è finito al 1% in meno
+> - **(B)** è risultato essere più alto dell'1%
+> - **(C)** è finita al 5% in meno
+> - **(D)** è risultato essere più alto del 5%
+> - **(E)** è risultato inferiore del 10%
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n3_f1#q06|src_obm_2002_n3_f1__Q06]]
 
 
 
@@ -256,11 +298,18 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Marcelo va a scuola a piedi; frazione del percorso percorso quando si riversa, data la tempistica*
+*Il percorso di Marcelo verso la scuola; frazione del percorso percorsa quando torna indietro, dato il tempo*
 
-> Marcelo ci vuole esattamente 20 minuti per andare da casa a scuola. Un giorno, mentre camminava, si rese conto di aver dimenticato un fumetto da mostrare a un compagno di classe; tornò a casa e uscì di nuovo, arrivando a scuola 8 minuti dopo l'orario in cui sarebbe normalmente arrivato, cioè 10 minuti in ritardo. Quale frazione del sentiero aveva già camminato quando si è voltato? (A) $\dfrac{2}{5}$ (B) $\dfrac{9}{20}$ (C) $\dfrac{1}{2}$ (D) $\dfrac{2}{3}$ (E) $\dfrac{9}{10}$
+> Marcelo impiega esattamente 20 minuti per andare da casa a scuola. Un giorno, mentre camminava, si rese conto di aver dimenticato un fumetto da mostrare a un compagno di classe; tornò a casa e uscì di nuovo, arrivando a scuola 8 minuti dopo l'orario in cui sarebbe arrivato normalmente, cioè con 10 minuti di ritardo. Che frazione del percorso aveva già percorso quando tornò indietro?
+> (A) $\dfrac{2}{5}$ (B) $\dfrac{9}{20}$ (C) $\dfrac{1}{2}$ (D) $\dfrac{2}{3}$ (E) $\dfrac{9}{10}$
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2002_n3_f1#q07|src_obm_2002_n3_f1__Q07]]
 
 
 
@@ -289,13 +338,21 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza totale di una linea poligonale in zigzag simile a sé AB mantenendo lo stesso schema*
+*Lunghezza totale di una linea poligonale a zigzag autosimile AB che conserva lo stesso motivo*
 
-> La linea poligonale $AB$ viene disegnata mantenendo sempre lo stesso modello mostrato nella figura. La sua lunghezza totale è pari a: (A) 31 (B) 88 (C) 90 (D) 97 (E) 105
+> La linea poligonale $AB$ viene tracciata mantenendo sempre lo stesso schema mostrato nella figura. La sua lunghezza totale è pari a:
+> (A) 31 (B) 88 (C) 90 (D) 97 (E) 105
 
 ![[src_obm_2002_n3_f1__q08.png]]
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n3_f1#q08|src_obm_2002_n3_f1__Q08]]
 
 
 
@@ -322,13 +379,19 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un quadrato è tagliato in due quadrati, quattro trapezoi e due triangoli; un ottagono è riassemblato, trovare una frazione di superficie eliminata*
+*Un quadrato viene tagliato in due quadrati, quattro trapezi e due triangoli; un ottagono viene ricomposto: determina la frazione dell'area eliminata*
 
-> Tracciando segmenti di linea, possiamo dividere un quadrato in due quadrati congruenti, quattro trapeziosi congruenti e due triangoli congruenti, come indicato nel disegno di seguito, a sinistra. Eliminando alcune di queste parti, possiamo assemblare l'ottagono rappresentato a destra. Quale frazione della superficie della piazza è stata eliminata?
+> Tracciando segmenti di retta, possiamo dividere un quadrato in due quadrati congruenti, quattro trapezi congruenti e due triangoli congruenti, come indicato nel disegno qui sotto, a sinistra. Eliminando alcune di queste parti, possiamo comporre l'ottagono rappresentato a destra. Che frazione dell'area del quadrato è stata eliminata?
 
 ![[src_obm_2002_n3_f1__q09.png]]
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2002_n3_f1#q09|src_obm_2002_n3_f1__Q09]]
 
 
 
@@ -354,11 +417,18 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato che xy=2 e x^2+y^2=5, valutare x^2/y^2 + y^2/x^2 + 2*
+*Dati xy=2 e x^2+y^2=5, calcola x^2/y^2 + y^2/x^2 + 2*
 
-> Se $xy=2$ e $x^2+y^2=5$, allora $\dfrac{x^2}{y^2}+\dfrac{y^2}{x^2}+2$ è uguale a: (A) $\dfrac{5}{2}$ (B) $\dfrac{25}{4}$ (C) $\dfrac{5}{4}$ (D) $\dfrac{1}{2}$ (E) 1
+> Se $xy=2$ e $x^2+y^2=5$, allora $\dfrac{x^2}{y^2}+\dfrac{y^2}{x^2}+2$ è uguale a:
+> (A) $\dfrac{5}{2}$ (B) $\dfrac{25}{4}$ (C) $\dfrac{5}{4}$ (D) $\dfrac{1}{2}$ (E) 1
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2002_n3_f1#q10|src_obm_2002_n3_f1__Q10]]
 
 
 
@@ -389,17 +459,23 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gruppo di medici e avvocati: dedurre la relazione da un determinato mezzo aritmetico di età*
+*Gruppo di medici e avvocati: dedurre la relazione dalle medie aritmetiche delle età fornite*
 
-> La media aritmetica dell'età di un gruppo di medici e avvocati è di 40 anni. La media aritmetica dell'età dei medici è di 35 anni e quella degli avvocati di 50 anni. Possiamo quindi affermare:
+> La media aritmetica delle età di un gruppo di medici e avvocati è di 40 anni. La media aritmetica delle età dei medici è di 35 anni, mentre quella degli avvocati è di 50 anni. Possiamo quindi affermare:
 >
-> - **(A)** Il numero di avvocati è il doppio del numero di medici del gruppo.
-> - **(B)** Il numero dei medici è il doppio del numero degli avvocati del gruppo.
-> - **(C)** Ci sono due più medici che avvocati nel gruppo.
-> - **(D)** Ci sono due avvocati in più dei medici nel gruppo.
-> - **(E)** Nel gruppo ci sono medesimi medici e avvocati.
+> - **(A)** Il numero degli avvocati è il doppio di quello dei medici nel gruppo.
+> - **(B)** Il numero dei medici è il doppio di quello degli avvocati nel gruppo.
+> - **(C)** Nel gruppo ci sono 2 medici in più rispetto agli avvocati.
+> - **(D)** Nel gruppo ci sono 2 avvocati in più rispetto ai medici.
+> - **(E)** Nel gruppo ci sono quantità uguali di medici e avvocati.
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2002_n3_f1#q11|src_obm_2002_n3_f1__Q11]]
 
 
 
@@ -425,11 +501,18 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sistema di tre equazioni di somma reciproca; trovare il valore di x+3y+2z*
+*Sistema di tre equazioni in cui compaiono le somme dei reciproci; determina il valore di x+3y+2z*
 
-> I valori di $x$, $y$ e $z$ che soddisfano le equazioni $x+\dfrac{1}{y}=5$, $y+\dfrac{1}{z}=1$ e $z+\dfrac{1}{x}=2$ sono tali che $x+3y+2z$ è uguale a: (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
+> I valori di $x$, $y$ e $z$ che soddisfano le equazioni $x+\dfrac{1}{y}=5$, $y+\dfrac{1}{z}=1$ e $z+\dfrac{1}{x}=2$ sono tali che $x+3y+2z$ è uguale a:
+> (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2002_n3_f1#q12|src_obm_2002_n3_f1__Q12]]
 
 
 
@@ -461,11 +544,24 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riconoscere il difetto in una prova erronea che 4 > 4 partendo da un > 4*
+*Individuare il difetto in una dimostrazione fallace secondo cui 4 > 4, partendo da a > 4*
 
-> Dovremo dimostrare che 4 è più grande di 4. $a$ e $b$ siano due numeri come $a>4$ e $a=b$. 1) Sottrazioniamo 4 dai due termini di questa equazione: $a=b$, quindi $a-4=b-4$. 2) Abbiamo messo $-1$ in prova nel secondo membro dell'equazione: $a-4=-1(-b+4)$, quindi $a-4=-1(4-b)$. 3) Si sollevano entrambi i termini dell'equazione al quadrato: $(a-4)^2=[-1\cdot(4-b)]^2$, quindi $(a-4)^2=(-1)^2(4-b)^2$, quindi $(a-4)^2=1\cdot(4-b)^2$, cioè $(a-4)^2=(4-b)^2$. 4) Essi estrae la radice quadrata dei due membri dell'equazione: $\sqrt{(a-4)^2}=\sqrt{(4-b)^2}$, quindi $a-4=4-b$. 5) Dato che $a=b$, sostituiremo $b$ con $a$: $a-4=4-a$. 6) Risolviamo l'equazione: $a-4=4-a$, quindi $2a=8$, quindi $a=4$. Dopo aver scelto $a$ in modo tale che $a>4$, arriviamo alla conclusione incredibile che $4>4$. Dov'è l'errore nel ragionamento di cui sopra? (A) Al secondo passo. (B) Al passo 3. (C) Nel passaggio 4. (D) Al passo 5. (E) Al passo 6.
+> Dimostreremo che 4 è maggiore di 4. Siano $a$ e $b$ due numeri tali che $a>4$ e $a=b$.
+> 1) Sottraiamo 4 dai due termini di questa equazione: $a=b$, quindi $a-4=b-4$.
+> 2) Mettiamo in evidenza $-1$ nel secondo membro dell'equazione: $a-4=-1(-b+4)$, quindi $a-4=-1(4-b)$.
+> 3) Eleviamo al quadrato entrambi i membri dell'equazione: $(a-4)^2=[-1\cdot(4-b)]^2$, quindi $(a-4)^2=(-1)^2(4-b)^2$, da cui $(a-4)^2=1\cdot(4-b)^2$, cioè $(a-4)^2=(4-b)^2$.
+> 4) Estraiamo la radice quadrata dei due membri dell'equazione: $\sqrt{(a-4)^2}=\sqrt{(4-b)^2}$, quindi $a-4=4-b$.
+> 5) Da quando $a=b$, sostituiamo $a$ con $b$: $a-4=4-a$.
+> 6) Risolviamo l'equazione: $a-4=4-a$, quindi $2a=8$, pertanto $a=4$. Avendo scelto $a$ in modo che $a>4$, giungiamo alla conclusione incredibile che $4>4$. Dov'è l'errore nel ragionamento sopra?
+> (A) Nella fase 2. (B) Nella fase 3. (C) Nella fase 4. (D) Nella fase 5. (E) Nella fase 6.
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2002_n3_f1#q13|src_obm_2002_n3_f1__Q13]]
 
 
 
@@ -492,11 +588,19 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare il numero totale di lettere delle risposte errate su tutte le domande di questa prova*
+*Conta il numero totale di lettere delle risposte errate in tutte le domande di questo test*
 
-> Qual è il numero totale di lettere delle risposte (alternative) che sono risposte errate di questo test? (A) Quarantotto. (B) Quaranta-neuve. (C) Cinquanta. (D) Cinquanta uno. E) Cinquanta due.
+> Qual è la quantità totale di lettere delle risposte (alternative) che costituiscono risposte errate di questo stesso test?
+> (A) Quarantotto. (B) Quarantanove. (C) Cinquanta. (D) Cinquantuno. (E) Cinquantadue.
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n3_f1#q14|src_obm_2002_n3_f1__Q14]]
 
 
 
@@ -532,17 +636,24 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Divisibilità delle affermazioni su x^3+y^3+z^3 dato che x+y+z=0*
+*Affermazioni di divisibilità riguardo a x^3+y^3+z^3, dato che x+y+z=0*
 
-> Se il numero $x$, $y$, $z$ è un numero intero tale che $x+y+z=0$. A proposito di $x^3+y^3+z^3$ si fanno le seguenti affermazioni: i) È necessariamente un multiple di 2. ii) È necessariamente un multiple di 3. iii) È necessariamente un multiple di 5. Possiamo affermare che:
+> Siano $x$, $y$, $z$ numeri interi tali che $x+y+z=0$. Riguardo a $x^3+y^3+z^3$, vengono fatte le seguenti affermazioni: i) È necessariamente un multiplo di 2. ii) È necessariamente un multiplo di 3. iii) È necessariamente un multiplo di 5. Possiamo affermare che:
 >
-> - **(A)** Solo i) è corretto.
-> - **(B)** solo ii) è corretta.
-> - **(C)** Solo i) e ii) sono corretti.
-> - **(D)** Solo i) e iii) sono corretti.
-> - **(E)** i), ii) e iii) sono corrette.
+> - **(A)** solo i) è corretta.
+> - **(B)** solo ii) è corretto.
+> - **(C)** solo i) e ii) sono corretti.
+> - **(D)** solo i) e iii) sono corretti.
+> - **(E)** i), ii) e iii) sono corretti.
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2002_n3_f1#q15|src_obm_2002_n3_f1__Q15]]
 
 
 
@@ -568,11 +679,18 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale f(x) +2 f(2002/x)=3x per x>0; trovare f(2)*
+*Equazione funzionale f(x)+2 f(2002/x)=3x per x>0; trovare f(2)*
 
-> Let $f$ essere una funzione reale di una variabile reale che soddisfa la condizione $f(x)+2f\!\left(\dfrac{2002}{x}\right)=3x$ per $x>0$. Il valore di $f(2)$ è uguale a: (A) 1000 (B) 2000 (C) 3000 (D) 4000 (E) 6000
+> Sia $f$ una funzione reale di variabile reale che soddisfa la condizione $f(x)+2f\!\left(\dfrac{2002}{x}\right)=3x$ per $x>0$. Il valore di $f(2)$ è uguale a:
+> (A) 1000 (B) 2000 (C) 3000 (D) 4000 (E) 6000
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2002_n3_f1#q16|src_obm_2002_n3_f1__Q16]]
 
 
 
@@ -599,11 +717,19 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Restante quando 9 divide sqrt(1111111111 - 22222)*
+*Resto della divisione di sqrt(1111111111 - 22222) per 9*
 
-> Il resto della divisione di 9 per $\sqrt{1111111111-22222}$ è: (A) 0 (B) 1 (C) 3 (D) 6 (E) 8
+> Il resto della divisione di 9 per $\sqrt{1111111111-22222}$ è:
+> (A) 0 (B) 1 (C) 3 (D) 6 (E) 8
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n3_f1#q17|src_obm_2002_n3_f1__Q17]]
 
 
 
@@ -632,13 +758,21 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo con AB=6, BC=2, AC di diametro, angoli ABD e CBD uguali; trovare BD*
+*Cerchio in cui AB=6, BC=2, AC è un diametro, gli angoli ABD e CBD sono uguali; trovare BD*
 
-> Nel cerchio di sotto, abbiamo che $AB=6$, $BC=2$, $AC$ è un diametro e gli angoli $A\hat{B}D$ e $C\hat{B}D$ sono uguali. Qual è il valore di $BD$? (A) $2\sqrt3+1$ (B) $\dfrac{9}{\sqrt5}$ (C) $3\sqrt2$ (D) $2+\sqrt5$ (E) 4
+> Nel cerchio sottostante, si ha che $AB=6$, $BC=2$, $AC$ è un diametro e gli angoli $A\hat{B}D$ e $C\hat{B}D$ sono uguali. Qual è il valore di $BD$?
+> (A) $2\sqrt3+1$ (B) $\dfrac{9}{\sqrt5}$ (C) $3\sqrt2$ (D) $2+\sqrt5$ (E) 4
 
 ![[src_obm_2002_n3_f1__q18.png]]
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2002_n3_f1#q18|src_obm_2002_n3_f1__Q18]]
 
 
 
@@ -664,11 +798,18 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*alfa è la radice più grande di x^2+x-1=0; trovare alpha^3*
+*alfa è la radice maggiore dell'equazione x^2+x-1=0; calcola alfa^3*
 
-> $\alpha$ sia la radice più grande di $x^2+x-1=0$. Il valore di $\alpha^3$ è: (A) $-1$ (B) $-2$ (C) $-3$ (D) 1 (E) 2
+> Sia $\alpha$ la radice più grande di $x^2+x-1=0$. Il valore di $\alpha^3$ è:
+> (A) $-1$ (B) $-2$ (C) $-3$ (D) 1 (E) 2
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2002_n3_f1#q19|src_obm_2002_n3_f1__Q19]]
 
 
 
@@ -695,11 +836,19 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unita' di una torre elettrica di 7 con sette del 2002*
+*Cifra delle unità di una torre di potenze di 7 con 2002 sette*
 
-> Qual è la cifra di unità di $7^{7^{7^{\cdot^{\cdot^{\cdot^{7}}}}}}$, dove appaiono sette del 2002? (A) 7 (B) 9 (C) 3 (D) 1 (E) 5
+> Qual è la cifra delle unità di $7^{7^{7^{\cdot^{\cdot^{\cdot^{7}}}}}}$, in cui compaiono 2002 sette?
+> (A) 7 (B) 9 (C) 3 (D) 1 (E) 5
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n3_f1#q20|src_obm_2002_n3_f1__Q20]]
 
 
 
@@ -728,13 +877,22 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD trapezoide della zona 1, BC=metà di AD, K punto medio di AC, DK incontra AB a L; area di BCKL quadrilaterale*
+*In un trapezio di area 1, con una base metà dell'altra, si chiede l'area di un quadrilatero*
 
-> In un trapezoide $ABCD$ della zona 1, la base $BC$ misura la metà della base $AD$. Il punto medio della diagonale $AC$ è $K$. La linea $DK$ taglia il lato $AB$ al punto $L$. La superficie del quadrilaterale $BCKL$ è uguale a: (A) $\dfrac{3}{4}$ (B) $\dfrac{2}{3}$ (C) $\dfrac{1}{3}$ (D) $\dfrac{2}{9}$ (E) $\dfrac{1}{9}$
+> In un trapezio $ABCD$ di area 1, la base $BC$ è metà della base $AD$. Sia $K$ il punto medio della diagonale $AC$. La retta $DK$ taglia il lato $AB$ nel punto $L$. L'area del quadrilatero $BCKL$ è uguale a:
+> (A) $\dfrac{3}{4}$ (B) $\dfrac{2}{3}$ (C) $\dfrac{1}{3}$ (D) $\dfrac{2}{9}$ (E) $\dfrac{1}{9}$
 
 ![[src_obm_2002_n3_f1__q21.png]]
 
 **Risposta:** D
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_coordinate|Coordinate]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_obm_2002_n3_f1#q21|src_obm_2002_n3_f1__Q21]]
 
 
 
@@ -761,11 +919,20 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N è un numero intero positivo con tutti i numeri distinti, primo è 0, ultimo sconosciuto, multiplo di 198; trova la cifra unità di N/198*
+*Si chiede la cifra delle unità di N/198, sapendo che N è multiplo di 198 e ha cifre tutte distinte*
 
-> $N=05399840$ è un intero positivo con tutte le cifre distinte, la prima essendo 0 e l'ultima sconosciuta. Sapendo che $N$ è un multiple di 198, trovare la cifra unità di $N/198$. (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
+> $N=05399840$ è un intero positivo con cifre tutte distinte: la prima è 0 e l'ultima è ignota. Sapendo che $N$ è multiplo di 198, determinare la cifra delle unità di $N/198$.
+> (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
 
 **Risposta:** C
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_obm_2002_n3_f1#q22|src_obm_2002_n3_f1__Q22]]
 
 
 
@@ -792,11 +959,20 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Domino marziano: i pezzi hanno 3 numeri ciascuno da 0,6, un pezzo per triplo non ordinato; trovare la somma totale di tutti i numeri*
+*Nel domino marziano ogni tessera porta tre numeri da 0 a 6: si chiede la somma di tutti i numeri*
 
-> Nel domino marziano, i pezzi hanno 3 numeri ciascuno (diferente dal domino terrestre, dove ogni pezzo ha solo 2 numeri). I numeri nel domino marziano variano anche da 0 a 6, e ogni pezzo ha una scelta di 3 numeri (non necessariamente distinti), esiste un e solo un pezzo che contiene quei 3 numeri. Qual è la somma dei numeri di tutti i pezzi del domino marziano? (A) 756 (B) 1512 (C) 84 (D) 315 (E) 900
+> Nel domino marziano ogni tessera porta 3 numeri, a differenza del domino terrestre, in cui ogni tessera ne porta solo 2. Anche qui i numeri vanno da 0 a 6, e ogni tessera è una scelta di 3 numeri, non necessariamente distinti: per ogni scelta esiste una e una sola tessera che contiene quei 3 numeri. Qual è la somma di tutti i numeri che compaiono sulle tessere del domino marziano?
+> (A) 756 (B) 1512 (C) 84 (D) 315 (E) 900
 
 **Risposta:** A
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casi_conteggio|Conteggio per casi]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_obm_2002_n3_f1#q23|src_obm_2002_n3_f1__Q23]]
 
 
 
@@ -825,13 +1001,22 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC, angolo A=60, angolo B=50, M punto medio di AB, P su BC con AC+CP=BP; trovare angolo MPC*
+*In un triangolo con angoli in A e in B assegnati, si chiede la misura di un angolo*
 
-> Nel triangolo $ABC$, l'angolo $\hat{A}$ misura $60^\circ$ e l'angolo $\hat{B}$ misura $50^\circ$. Il punto $M$ deve essere il punto medio del lato $AB$ e $P$ il punto sul lato $BC$ in modo tale che $AC+CP=BP$. Qual è la misura dell'angolo $M\hat{P}C$? (A) $120^\circ$ (B) $125^\circ$ (C) $130^\circ$ (D) $135^\circ$ (E) $145^\circ$
+> Nel triangolo $ABC$ l'angolo $\hat{A}$ misura $60^\circ$ e l'angolo $\hat{B}$ misura $50^\circ$. Sia $M$ il punto medio del lato $AB$ e sia $P$ il punto del lato $BC$ tale che $AC+CP=BP$. Quanto misura l'angolo $M\hat{P}C$?
+> (A) $120^\circ$ (B) $125^\circ$ (C) $130^\circ$ (D) $135^\circ$ (E) $145^\circ$
 
 ![[src_obm_2002_n3_f1__q24.png]]
 
 **Risposta:** E
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_simmetria|Simmetria]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_obm_2002_n3_f1#q24|src_obm_2002_n3_f1__Q24]]
 
 
 
@@ -858,8 +1043,17 @@ Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due persone ciascuno ruota un dado; uno vince su prodotto pari, l'altro su pari; probabilità che il scelta pari vinca*
+*Due persone scelgono pari o dispari e lanciano un dado ciascuna: probabilità che vinca chi ha scelto pari*
 
-> Due persone disputano un gioco lanciando una scommessa pari (par) o impar (impar). A loro non piace lo zero e quindi ognuno ruota un dado, e la persona che ha scelto il risultato pari (par) vince. La probabilità che la persona che ha scelto anche (par) vinca è: (A) $1/2$ (B) $2/5$ (C) $3/5$ (D) $12/25$ (E) $13/25$
+> Due persone si sfidano in un gioco puntando sul pari o sul dispari con il lancio di un dado. Lo zero non fa per loro, e così ciascuna lancia un dado: vince chi ha scelto il risultato pari. La probabilità che vinca chi ha scelto pari è:
+> (A) $1/2$ (B) $2/5$ (C) $3/5$ (D) $12/25$ (E) $13/25$
 
 **Risposta:** E
+
+**Argomento:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_conteggio|Conteggio]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_obm_2002_n3_f1#q25|src_obm_2002_n3_f1__Q25]]

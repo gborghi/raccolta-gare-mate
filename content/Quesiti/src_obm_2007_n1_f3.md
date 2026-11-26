@@ -37,17 +37,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i quadrati verniciati nel modello della griglia; trova la griglia con 199 quadrati verniciati*
+*Conta i quadrati dipinti disposti a griglia; trova la griglia con 199 quadrati dipinti*
 
-> Alcuni quadrati di una griglia con lo stesso numero di righe (linee orizzontali) e colonne (linee verticali) sono dipinti in nero, seguendo il modello mostrato nella figura di pagina 1. Il modello è illustrato per una griglia con 14 colonne e 14 righe.
-> 
-> a) Quanti quadrati sono dipinti in una griglia $14 \times 14$ (con 14 righe e 14 colonne)?
-> 
-> b) Quante righe ha una griglia se contiene 199 quadrati dipinti?
-> 
-> (Il modello è costituito da un confine a forma di scala lungo il lato superiore e destro della griglia, come mostrato nella figura che lo accompagna.)
+> Alcuni riquadri di una griglia con lo stesso numero di righe (linee orizzontali) e di colonne (linee verticali) sono dipinti di nero, seguendo il motivo mostrato nella figura a pagina 1. Il motivo è illustrato per una griglia con 14 colonne e 14 righe.
+>
+> a) Quanti quadrati sono colorati in una griglia $14 \times 14$ (con 14 righe e 14 colonne)?
+>
+> b) Quante righe ha una griglia se contiene 199 caselle dipinte?
+>
+> (Il motivo è costituito da un bordo a forma di scala lungo il lato superiore e il lato destro della griglia, come mostrato nella figura allegata.)
 
 ![[src_obm_2007_n1_f3__q01.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n1_f3#q01|src_obm_2007_n1_f3__Q01]]
 
 
 
@@ -74,13 +81,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due tappeti coprono 81 m2 di pavimento; tappeto B area duplice tappeto A; trovare la superficie del pavimento non coperta*
+*Due tappeti coprono 81 m² di pavimento; l'area del tappeto B è il doppio di quella del tappeto A; determina l'area del pavimento non coperta*
 
-> Una stanza quadrata con $81 \text{ m}^2$ di superficie del pavimento ha il pavimento completamente coperto da due tappeti rettangolari A e B, che si sovrappongono come mostrato alla figura (1). In un certo momento, il tappeto B viene scivolato e ruotato $90^\circ$, posizionandolo sopra il tappeto A come indicato nella figura (2).
-> 
-> Sapendo che l'area del tappeto B è doppia dell'area del tappeto A, calcolare l'area (in $\text{m}^2$) della parte del pavimento che è diventata scoperta dopo che il tappeto B è stato spostato.
+> Una stanza quadrata con una superficie pavimentale di $81 \text{ m}^2$ ha il pavimento interamente coperto da due tappeti rettangolari A e B, che si sovrappongono come mostrato nella figura (1). In un certo istante, il tappeto B viene scivolato e ruotato di $90^\circ$, venendo collocato sopra il tappeto A come indicato nella figura (2).
+>
+> Sapendo che l'area del tappeto B è il doppio dell'area del tappeto A, calcola l'area (in $\text{m}^2$) della parte del pavimento che è rimasta scoperta dopo che il tappeto B è stato spostato.
 
 ![[src_obm_2007_n1_f3__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n1_f3#q02|src_obm_2007_n1_f3__Q02]]
 
 
 
@@ -117,23 +131,30 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre carte a faccia in giù con diversi numeri interi positivi che sommano a 13 aumentando da sinistra a destra; dedurre la carta centrale*
+*Tre carte coperte con interi positivi distinti la cui somma è 13, in ordine crescente da sinistra a destra; deduci la carta centrale*
 
-> Su una faccia di ciascuna delle tre carte è scritto un intero positivo. Le carte venivano poi poste faccia a faccia su un tavolo, fianco a fianco.
-> 
+> Su una faccia di ciascuna delle tre carte è scritto un numero intero positivo. Le carte sono state poi posate, con la faccia rivolta verso il basso, sul tavolo, una accanto all'altra.
+>
 > Arnaldo, Bernaldo e Cernaldo sanno che:
-> 
-> I. I numeri delle tre carte sono tutti diversi.
-> 
+>
+> I. I numeri sulle tre carte sono tutti diversi.
+>
 > II. La somma dei tre numeri è 13.
-> 
+>
 > III. I numeri aumentano da sinistra a destra.
-> 
-> a) Considerando le condizioni I, II e III, elencare tutte le possibili numerazioni delle carte.
-> 
-> b) Ora desiderano scoprire i numeri scritti sulle carte. In primo luogo, Arnaldo solleva la carta più sinistra e dice di non poter determinare i numeri delle altre due carte dalle informazioni disponibili. E Bernaldo solleva la carta più a destra e dice che non riesce a scoprire i numeri delle altre due carte. Lo stesso accade con Cernaldo, che solleva la carta centrale e dice di non poter trovare i numeri delle altre due carte.
-> 
-> Sapendo che tutti e tre sentono quello che gli altri dicono, ma non vedono la carta che l'altra persona sta guardando, quale numero è scritto sulla carta centrale?
+>
+> a) Tenendo conto delle condizioni I, II e III, elenca tutte le possibili numerazioni delle carte.
+>
+> b) Ora vogliono scoprire i numeri scritti sulle carte. Prima, Arnaldo solleva la carta più a sinistra e dice di non poter determinare i numeri sulle altre due carte sulla base delle informazioni disponibili. Poi Bernaldo solleva la carta più a destra e dice anch'egli di non poter scoprire i numeri sulle altre due carte. Lo stesso accade con Cernaldo, il quale solleva la carta centrale e dice che anche lui non può scoprire i numeri sulle altre due carte.
+>
+> Sapendo che tutti e tre sentono ciò che dicono gli altri, ma non possono vedere la carta a cui sta guardando l'altra persona, quale numero è scritto sulla carta centrale?
+
+**Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n1_f3#q03|src_obm_2007_n1_f3__Q03]]
 
 
 
@@ -172,25 +193,32 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Construire tabelle di numeri naturali le cui somme di righe e colonne sono esattamente da 1 a n; determinare la fattibilità*
+*Costruisci tabelle di numeri naturali in cui le somme delle righe e delle colonne siano esattamente da 1 a n; determina la fattibilità*
 
-> Considerate la seguente tabella con quattro righe (linee orizzontali) e quattro colonne (linee verticali), riempite di numeri naturali, in cui le ripetizioni sono ammesse:
-> 
+> Si consideri la seguente tabella con quattro righe (linee orizzontali) e quattro colonne (linee verticali), riempita con numeri naturali, dove le ripetizioni sono ammesse:
+>
 > $$\begin{array}{|c|c|c|c|}\hline 1 & 0 & 0 & 3 \\ \hline 5 & 1 & 2 & 4 \\ \hline 1 & 1 & 2 & 3 \\ \hline 6 & 1 & 4 & 0 \\ \hline \end{array}$$
-> 
-> Quando sommiamo ciascuna delle sue righe (L1, L2, L3, L4) e colonne (C1, C2, C3, C4), otteniamo 8 numeri distinti: $3, 4, 7, 8, 10, 11, 12, 13$. Come mostrato nella tabella seguente:
-> 
+>
+> Quando sommiamo ciascuna delle sue righe (L1, L2, L3, L4) e ciascuna delle sue colonne (C1, C2, C3, C4), otteniamo 8 numeri distinti: $3, 4, 7, 8, 10, 11, 12, 13$. Come mostrato nella tabella sottostante:
+>
 > $$\begin{array}{|c|c|c|c|c|}\hline & C1 & C2 & C3 & C4 & \text{Row sum} \\ \hline L1 & 1 & 0 & 0 & 3 & 4 \\ \hline L2 & 5 & 1 & 2 & 4 & 12 \\ \hline L3 & 1 & 1 & 2 & 3 & 7 \\ \hline L4 & 6 & 1 & 4 & 0 & 11 \\ \hline \text{Col sum} & 13 & 3 & 8 & 10 & \\ \hline \end{array}$$
-> 
+>
 > Determinare, se possibile:
-> 
-> a) Una tabella con 4 righe e 4 colonne, costituita da numeri naturali (si consentono ripetizioni di numeri), in cui la somma della riga e della colonna è esattamente il numero da 1 a 8.
-> 
-> b) Una tabella con 8 righe e 8 colonne, costituita da numeri naturali (si consentono ripetizioni), in cui la somma delle righe e delle colonne è esattamente il numero da 1 a 16.
-> 
-> c) Una tabella con 9 righe e 9 colonne, costituita da numeri naturali (si consentono ripetizioni), in cui la somma delle righe e delle colonne è esattamente il numero da 1 a 18.
-> 
-> **Nota: ** Se non è possibile costruire una tabella, è necessario spiegare il motivo.
+>
+> a) Una tabella con 4 righe e 4 colonne, composta da numeri naturali (sono ammesse ripetizioni dei numeri), in cui le somme delle righe e delle colonne sono esattamente i numeri da 1 a 8.
+>
+> b) Una tabella con 8 righe e 8 colonne, composta da numeri naturali (ripetizioni ammesse), in cui le somme delle righe e delle colonne sono esattamente i numeri da 1 a 16.
+>
+> c) Una tabella con 9 righe e 9 colonne, composta da numeri naturali (ripetizioni ammesse), in cui le somme delle righe e delle colonne sono esattamente i numeri da 1 a 18.
+>
+> **Note:** Se è impossibile costruire una certa tabella, si deve spiegare il motivo.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n1_f3#q04|src_obm_2007_n1_f3__Q04]]
 
 
 
@@ -213,6 +241,13 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa digitali di 9 volte il prodotto di cinque e due numeri di repunito del 2007*
+*Somma delle cifre di 9 volte il prodotto di un repunit formato da 2007 cifre, composto da cinque e da due*
 
-> Let $A = \underbrace{555\!\cdots\!5}_{2007 \text{ fives}} \times \underbrace{222\!\cdots\!2}_{2007 \text{ twos}}$. Calcolare la somma delle cifre di $9 \times A$. Non dimenticate di giustificare la vostra risposta.
+> Sia $A = \underbrace{555\!\cdots\!5}_{2007 \text{ fives}} \times \underbrace{222\!\cdots\!2}_{2007 \text{ twos}}$. Calcola la somma delle cifre di $9 \times A$. Non dimenticare di giustificare la tua risposta.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n1_f3#q05|src_obm_2007_n1_f3__Q05]]

@@ -32,13 +32,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*area del parallelo di tangramma data in unità quadrata*
+*Area del parallelogramma del tangram dato il quadrato unitario*
 
-> I pezzi di un gioco chiamato Tangram sono realizzati tagliando un quadrato in sette parti, come mostrato nella figura: due grandi triangoli rettangolari, un triangolo rettangolo medio, due piccoli triangoli rettangolari, un quadrato e un parallelo. Se l'area del grande quadrato è $1$, qual è l'area del parallelo?
+> I pezzi di un gioco chiamato Tangram si ottengono tagliando un quadrato in sette parti, come mostrato nella figura: due grandi triangoli rettangoli, un triangolo rettangolo di dimensioni medie, due piccoli triangoli rettangoli, un quadrato e un parallelogramma. Se l'area del grande quadrato è $1$, qual è l'area del parallelogramma?
 
 ![[src_obm_2001_n2_f2__q01.png]]
 
-**Risposta:** 1/8
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n2_f2#q01|src_obm_2001_n2_f2__Q01]]
 
 
 
@@ -63,11 +68,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numerare il percorso della griglia; trovare le coordinate del punto 2001*
+*Numerazione dei percorsi a griglia; trovare le coordinate del punto 2001*
 
-> I punti della griglia di seguito sono numerati a partire dal vertice inferiore sinistro, seguendo il percorso poligonale suggerito nella figura. Considerare il punto corrispondente al numero $2001$. Quali sono i due numeri dei punti situati immediatamente sotto e immediatamente a sinistra di esso?
+> I punti della griglia sottostante sono numerati a partire dal vertice in basso a sinistra, seguendo il percorso poligonale indicato nella figura. Si consideri il punto corrispondente al numero $2001$. Quali sono i due numeri dei punti situati immediatamente sotto e immediatamente a sinistra di esso?
 
 ![[src_obm_2001_n2_f2__q02.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n2_f2#q02|src_obm_2001_n2_f2__Q02]]
 
 
 
@@ -90,9 +102,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli anni super-olimpici per la condizione di divisibilità dell'OBM*
+*Trovare tutti gli anni super-olimpici per la condizione di divisibilità OBM*
 
-> Se l'OBM $n$-th si svolge in un anno divisibile da $n$, diciamo che quell'anno è un anno **super-Olimpico**. Ad esempio, l'anno $2001$, in cui viene tenuta l'OBM $23^{\text{rd}}$, è super-olimpico perché $2001 = 87 \times 23$ è divisibile da $23$. Trova tutti gli anni super-Olimpici, dato che l'OBM si è tenuto ogni anno dalla sua prima edizione in $1979$, e dovrebbe continuare a essere tenuto ogni anno.
+> Se il $n$-esimo OBM si tiene in un anno divisibile per $n$, diciamo che quell'anno è un anno **super-olimpico**. Ad esempio, l'anno $2001$, in cui si tiene il $23^{\text{rd}}$ OBM, è super-olimpico perché $2001 = 87 \times 23$ è divisibile per $23$. Trovare tutti gli anni super-olimpici, sapendo che l'OBM si è tenuto ogni anno fin dalla sua prima edizione nell'anno $1979$ e che si prevede che continui a tenersi ogni anno.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n2_f2#q03|src_obm_2001_n2_f2__Q03]]
 
 
 
@@ -115,9 +134,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC con bisettieri esterni che si incontrano; trovare angoli*
+*Triangolo ABC con le bisettrici esterne concorrenti; determina gli angoli*
 
-> Le misure degli angoli del triangolo $ABC$ sono tali che $\hat{A} < \hat{B} < 90^\circ < \hat{C}$. I bisettori esterni degli angoli $\hat{A}$ e $\hat{C}$ soddisfano rispettivamente le estensioni dei lati $BC$ e $AB$ nei punti $P$ e $Q$. Dato che $\overline{AP} = \overline{CQ} = \overline{AC}$, determinare gli angoli del triangolo $ABC$.
+> Le misure degli angoli del triangolo $ABC$ sono tali che $\hat{A} < \hat{B} < 90^\circ < \hat{C}$. Le bisettrici esterne degli angoli $\hat{A}$ e $\hat{C}$ intersecano le semirette di prolungamento dei lati $BC$ e $AB$ nei punti $P$ e $Q$, rispettivamente. Data l'uguaglianza $\overline{AP} = \overline{CQ} = \overline{AC}$, determina gli angoli del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n2_f2#q04|src_obm_2001_n2_f2__Q04]]
 
 
 
@@ -140,9 +166,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme intercambiabili di 4 diversi numeri non zeri; trovare tutti*
+*Insiemi permutabili di 4 cifre distinte non nulle; trova tutti*
 
-> Diciamo che un insieme $A$ formato da $4$ cifre distinte e non zeri è ** intercambiabile** se possiamo formare coppie di numeri dalle cifre di $A$, ciascuna coppia utilizzando cifre $2$ di $A$, in modo tale che in ciascuna coppia il prodotto dei due numeri formati è sempre lo stesso. Ad esempio, l'insieme $\{1,2,3,6\}$ è intercambiabile perché $21 \cdot 36 = 12 \cdot 63$. Trova tutte le serie intercambiabili.
+> Diciamo che un insieme $A$ formato da $4$ cifre distinte e non nulle è **intercambiabile** se possiamo formare coppie di numeri a partire dalle cifre di $A$, utilizzando in ciascuna coppia $2$ cifre di $A$, in modo tale che, in ogni coppia, il prodotto dei due numeri ottenuti sia sempre lo stesso. Ad esempio, l'insieme $\{1,2,3,6\}$ è intercambiabile perché $21 \cdot 36 = 12 \cdot 63$. Trovare tutti gli insiemi intercambiabili.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n2_f2#q05|src_obm_2001_n2_f2__Q05]]
 
 
 
@@ -168,10 +201,15 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi di incatenare una scarpa con 5 paia di fori, modello simmetrico*
+*Conta i modi di allacciare una scarpa con 5 coppie di fori, secondo uno schema simmetrico*
 
-> Il matematico eccentrico Jones, uno specialista in Teoria dei nodi, ha un bagagliaio con $5$ coppie di buchi attraverso i quali il dentello deve passare, obbedendo alle seguenti regole:\n- il dentello deve essere simmetrico rispetto all'asse verticale;\n- il dentello deve passare attraverso ogni buco esattamente una volta per ogni buco, indifferente se lo fa da sopra o da sotto;\n- il dentello deve iniziare e finire ai due buchi superiori e deve collegare direttamente (cioè, senza passare attraverso altri buchi) i due buchi inferiori.\nSono mostrati alcuni possibili schemi di dentello. Qual è il numero totale di possibilità per il matematico di incastrare il suo scarpo, seguendo le regole?\n\n*Osservazione:* I lacingi mostrati sono considerati uguali se e solo se l'ordine in cui il cordone passa attraverso i buchi è lo stesso.
+> Il matematico eccentrico Jones, specialista di teoria dei nodi, ha uno stivale con $5$ coppie di fori attraverso i quali i lacci devono passare, nel rispetto delle seguenti regole:\n- i lacci devono essere simmetrici rispetto all'asse verticale;\n- per ciascun foro, il laccio deve passarvi esattamente una volta, indipendentemente dal fatto che vi passi dall'alto o dal basso;\n- il laccio deve iniziare e terminare nei due fori superiori e deve collegare direttamente (ossia senza passare attraverso altri fori) i due fori inferiori.\nVengono mostri alcuni possibili schemi di allacciatura. Qual è il numero totale delle possibilità che il matematico ha di allacciare il proprio stivale rispettando le regole?\n\n*Osservazione:* Le allacciature mostrate si considerano uguali se e solo se l'ordine in cui il laccio passa attraverso i fori è lo stesso.
 
 ![[src_obm_2001_n2_f2__q06.png]]
 
-**Risposta:** 96
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n2_f2#q06|src_obm_2001_n2_f2__Q06]]

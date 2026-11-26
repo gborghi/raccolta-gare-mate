@@ -33,11 +33,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of total discount on the starting price*
+*Total discount percentage on the initial price*
 
-> To celebrate the anniversary of its opening, a bakery today offers a 30% discount on all items sold. Moreover, on the most representative cake of its production, the bakery offers an additional 20% discount on the discounted price. For this cake, what's the discount rate on the starting price?
+> The discount. To celebrate the anniversary of its opening, a pastry shop today offers a discount of 30% on all items sold. What's more, on the cake most representative of its production, the pastry shop offers a further discount of 20% on the already discounted price. For this cake, what is the percentage discount on the initial price?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 44
+**Source:** [open PDF p.1](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+[[Quesiti/src_kangourou_2014_squadre_a#q01|src_kangourou_2014_squadre_a__Q01]]
 
 
 
@@ -69,13 +74,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the fourth grid cell 100x100 steps*
+*Number in the fourth corner cell*
 
 ![[src_kangourou_2014_squadre_a__prob2.png]]
 
-> Average grid In each of the boxes of a grid 100 × 100 a positive integer has been entered. Each number entered is the arithmetic mean of both the two numbers adjacent to it vertically, and the two numbers adjacent to it horizontally, and the two numbers adjacent to it diagonally (when the two numbers exist). The figure shows you which numbers were entered into three of the corner cells. What number was entered in the fourth?
+> The grid of averages. In each of the cells of a 100 × 100 grid a positive integer has been entered. Each number entered is the arithmetic mean both of the two numbers adjacent to it vertically, and of the two numbers adjacent to it horizontally, and of the two numbers adjacent to it diagonally (when the two numbers exist). The figure shows you which numbers have been entered in three of the corner cells. What number has been entered in the fourth?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 892
+**Source:** [open PDF p.1](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+[[Quesiti/src_kangourou_2014_squadre_a#q02|src_kangourou_2014_squadre_a__Q02]]
 
 
 
@@ -103,15 +113,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of rectangles n closest to 1000 with lines*
+*Rectangles closest to 1000 with straight lines*
 
-> Parallel lines and perpendicular lines          
-> In the plane, 5 parallel lines and some lines perpendicular to them are drawn (hence also 
-> parallel to each other). Overall, n rectangles can be identified, each having its sides on 
-> four of the drawn lines. It is known that n is the number as close as possible to 1000 under these 
-> assumptions. What is the value of n?
+> Parallel straight lines and perpendicular straight lines. In the plane, 5 parallel straight lines are drawn and some straight lines perpendicular to them (hence also parallel to one another). Altogether, n rectangles can be identified, each having its sides on four of the drawn straight lines. It is known that n is the number as close as possible to 1000 under these conditions. What is the value of n?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 1050
+**Source:** [open PDF p.1](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+[[Quesiti/src_kangourou_2014_squadre_a#q03|src_kangourou_2014_squadre_a__Q03]]
 
 
 
@@ -137,11 +149,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Circular swimming pool diameter from East and North*
+*Diameter of a circular swimming pool, east and north*
 
-> Luisa's swimming pool In a park there's a perfectly circular pool. Luisa dives from a point on the edge, swims eastward, and after 24 meters touches the edge again. From this new point on the edge, she swims north and after seven metres touches the edge again. How many meters does the swimming pool diameter measure?
+> Luisa's swim. In a park there is a perfectly circular swimming pool. Luisa dives in from a point on the edge, swims east and after 24 metres touches the edge again. From this new point on the edge she swims north and after 7 metres touches the edge again. How many metres is the diameter of the swimming pool?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 25
+**Source:** [open PDF p.1](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+[[Quesiti/src_kangourou_2014_squadre_a#q04|src_kangourou_2014_squadre_a__Q04]]
 
 
 
@@ -166,11 +183,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of pairs (x,y) of positive integers with x+3y=2014*
+*Positive integer pairs with x + 3y = 2014*
 
-> Equation in integers For how many ordered pairs (x,y) of positive integers do you have that x + 3y = 2014?
+> Equation in integers. For how many ordered pairs (x, y) of positive integers is x + 3y = 2014?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 671
+**Source:** [open PDF p.1](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+[[Quesiti/src_kangourou_2014_squadre_a#q05|src_kangourou_2014_squadre_a__Q05]]
 
 
 
@@ -221,7 +244,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*DEF triangle area in parallelogram for similarities*
+*Area of triangle DEF*
 
 ![[src_kangourou_2014_squadre_a__prob6.png]]
 
@@ -248,9 +271,14 @@ level: squadre
 \end{document}
 ```
 
-> The parallelogram Note the figure: ABCD is a parallelogram, the area of the AED triangle is 360 m2, while the area of the ABE triangle is 540 m2. What is the area of the DEF triangle in m2?
+> The parallelogram. Look at the figure: ABCD is a parallelogram, the area of triangle AED is 360 m2, while the area of triangle ABE is 540 m2. What, in m2, is the area of triangle DEF?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 240
+**Source:** [open PDF p.1](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+[[Quesiti/src_kangourou_2014_squadre_a#q06|src_kangourou_2014_squadre_a__Q06]]
 
 
 
@@ -276,11 +304,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (a,b) with 1/a+1/b=1/5*
+*Pairs (a,b) with 1/a + 1/b = 1/5*
 
-> The sum is 1/5 How many pairs (a,b) of positive integers are such that 1/a + 1/b = 1/5? (If a ≠ b, the pair (a,b) shall be considered different from the pair (b,a).)
+> The sum is 1/5. How many pairs (a,b) of positive integers are such that 1/a + 1/b = 1/5? (If a ≠ b, the pair (a,b) is to be considered different from the pair (b,a).)
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 3
+**Source:** [open PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+[[Quesiti/src_kangourou_2014_squadre_a#q07|src_kangourou_2014_squadre_a__Q07]]
 
 
 
@@ -307,11 +341,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits 0 in the quotient R(25)/R(5)*
+*How many 0 digits in the quotient R(25)/R(5)*
 
-> How many digits 0? Let's denote with R(k) the positive integer whose writing consists of exactly k digits all equal to 1 (e.g., R(3) = 111). The quotient R(25)/R(5) is an integer: how many of its digits are equal to 0?
+> How many 0 digits? We denote by R(k) the positive integer whose written form consists of exactly k digits all equal to 1 (for example, R(3) = 111). The quotient R(25)/R(5) is an integer: how many of its digits are equal to 0?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 16
+**Source:** [open PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+[[Quesiti/src_kangourou_2014_squadre_a#q08|src_kangourou_2014_squadre_a__Q08]]
 
 
 
@@ -339,11 +379,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exchange tyres for equal consumption after several kilometres*
+*After how many km to swap tyres for equal wear*
 
-> The rotation of the tyres A car is fitted with special tyres all the same, rather delicate: if fitted in the front position they must be replaced after 3,000 km, if fitted in the rear position they must be replaced after 4,500 km. Now all the tires are new. In order to ensure that the moment when they need to be replaced is the same for all four tyres, after how many kilometres will the four tyres have to be swapped from front to rear and vice versa?
+> Tyre rotation. A car is fitted with special tyres, all identical to one another and rather delicate: if fitted in the front position they must be replaced after 3,000 km, if fitted in the rear position they must be replaced after 4,500 km. All the tyres are now new. So that the moment at which they need to be replaced is the same for all four, after how many kilometres should the positions of the four tyres be swapped, from front to rear and vice versa?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 1800
+**Source:** [open PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+[[Quesiti/src_kangourou_2014_squadre_a#q09|src_kangourou_2014_squadre_a__Q09]]
 
 
 
@@ -368,11 +413,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of digits of the difference of two large squares*
+*Sum of the digits of an integer difference*
 
-> What is the sum of the digits of the whole number 777.777.777.7772 - 222.222.222.2232 ?
+> The difference What is the sum of the digits of the integer 777.777.777.777.7772 - 222.222.222.222.2232 ?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 74
+**Source:** [open PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+[[Quesiti/src_kangourou_2014_squadre_a#q10|src_kangourou_2014_squadre_a__Q10]]
 
 
 
@@ -399,11 +450,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coordinate sum of the possible parallelogram vertices*
+*Sum of the coordinates of the possible fourth vertices*
 
-> The fourth vertex In the plane referred to the usual system of orthogonal Cartesian axes the points (1,-1), (-1,0) and (0,1) are three of the vertices of a parallelogram. Consider all the points that can make up the fourth vertex and add up all their coordinates. What is the result?
+> The fourth vertex. In the plane with the usual system of orthogonal Cartesian axes, the points (1,-1), (-1,0) and (0,1) are three of the vertices of a parallelogram. Consider all the points that can form the fourth vertex and add up all their coordinates. What result do you obtain?
 
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0
+**Source:** [open PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+[[Quesiti/src_kangourou_2014_squadre_a#q11|src_kangourou_2014_squadre_a__Q11]]
 
 
 
@@ -435,13 +492,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Full square tiles in the rectangular floor*
+*Whole square tiles in the rectangular floor*
 
 ![[src_kangourou_2014_squadre_a__prob12.png]]
 
-> The figure sketches a portion of a rectangular floor. To tile it, square tiles all of the same size were used, broken in half to make triangular tiles that were only used along the edges. Along each of the short edges are 20 triangular tiles, along each of the long ones are 86 tiles. How many square tiles of those used are left whole?
+> The floor The figure schematically represents a portion of a rectangular floor. To tile it, square tiles all of the same size were used, broken in half to obtain triangular tiles that were used only along the edges. Along each of the short edges 20 triangular tiles are arranged, and along each of the long ones 86 are arranged. How many of the square tiles that were used remained whole?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 3334
+**Source:** [open PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+[[Quesiti/src_kangourou_2014_squadre_a#q12|src_kangourou_2014_squadre_a__Q12]]
 
 
 
@@ -470,11 +533,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number on the third kilometre signal (digits exchanged)*
+*Number on the third kilometre marker (digits swapped)*
 
-> Kilometre signals Giulio is driving at a steady speed on a freeway. At some point, he notices that the two digits of the number on the kilometre signal he is passing are those of the signal he had passed exactly half an hour earlier, but swapped between them. After another precise half hour of driving he notices that the number present on the signal he is passing is made up of the two digits of the signal seen the first time, in the same order, with the zero digit interspersed between the two. What is the number on the third kilometre signal?
+> Kilometre markers. Giulio is driving at a constant speed on a motorway. At a certain moment he notices that the two digits of the number on the kilometre marker he is passing are those of the marker he had passed exactly half an hour earlier, but swapped with each other. After another exact half-hour of driving he notices that the number on the marker he is passing is formed from the two digits of the marker he saw the first time, in the same order, with the digit zero inserted between the two. What is the number on the third kilometre marker?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 106
+**Source:** [open PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+[[Quesiti/src_kangourou_2014_squadre_a#q13|src_kangourou_2014_squadre_a__Q13]]
 
 
 
@@ -499,11 +567,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of 3a+4b+5c from two linear relationships*
+*Value of 3a+4b+5c from two linear relations*
 
-> You know that a, b, and c are three numbers such that a + b + c = 300 and 3a + 2b + c = 600. How much is 3a + 4b + 5c ?
+> Three sums. You know that a, b and c are three numbers such that a + b + c = 300 and 3a + 2b + c = 600. What is the value of 3a + 4b + 5c?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 1200
+**Source:** [open PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+[[Quesiti/src_kangourou_2014_squadre_a#q14|src_kangourou_2014_squadre_a__Q14]]
 
 
 
@@ -537,15 +610,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of four consecutive integers with product 358800*
+*Sum of four consecutive integers with product 358,800*
 
-> Product and sum The product of four consecutive integers is 358,800. What's their sum?
-> 
->  
->  
-> Kangourou of Mathematics 2014 Kangourou Team Cup Semifinal round at Cervia, 10 May 2014
->  
->  
+> Product and sum. The product of four consecutive integers is 358,800. What is their sum?
+>
+>
+>
+> Kangourou of Mathematics 2014 Kangourou Team Cup Semi-final round A Cervia, 10 May 2014
+>
+>
 > Questions and solutions
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 98
+**Source:** [open PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+[[Quesiti/src_kangourou_2014_squadre_a#q15|src_kangourou_2014_squadre_a__Q15]]

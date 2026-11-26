@@ -35,15 +35,22 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Spostamenti su una griglia rettangolare da A al vertice B*
+*La griglia rettangolare si sposta dal vertice A al vertice B*
 
-> Sia dato un intero positivo $r$ e una scacchiera rettangolare $ABCD$ di dimensioni $|AB| = 20$ per $|BC| = 12$. Il rettangolo è suddiviso in una griglia di $20 \times 12$ quadratini unitari. Sono consentiti i seguenti movimenti sulla scacchiera: si può passare da un quadratino a un altro solo se la distanza tra i centri dei due quadratini è $\sqrt{r}$. Si richiede di trovare una sequenza di mosse che porti dal quadratino avente $A$ come vertice a quello avente $B$ come vertice.
-> 
-> (a) Si dimostri che l'operazione non può essere eseguita se $r$ è divisibile per 2 o per 3.
-> 
-> (b) Si dimostri che il compito è possibile quando $r = 73$.
-> 
-> (c) Il compito può essere eseguito quando $r = 97$?
+> Ci vengono dati un numero intero positivo $r$ e una scacchiera rettangolare $ABCD$ con dimensioni $|AB| = 20$, $|BC| = 12$. Il rettangolo è suddiviso in una griglia di $20 \times 12$ quadrati unitari. Sulla scacchiera sono consentite le seguenti mosse: si può passare da un quadrato a un altro solo se la distanza tra i centri dei due quadrati è $\sqrt{r}$. L'obiettivo è trovare una sequenza di mosse che porti dal quadrato avente come vertice $A$ al quadrato avente come vertice $B$.
+>
+> (a) Dimostrare che l'obiettivo non può essere raggiunto se $r$ è divisibile per 2 o per 3.
+>
+> (b) Dimostrare che l'obiettivo è raggiungibile quando $r = 73$.
+>
+> (c) L'obiettivo può essere raggiunto quando $r = 97$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1996#q01|src_imho_1996__Q01]]
 
 
 
@@ -68,12 +75,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Concorrenza degli incentri in un triangolo con punto interno*
+*Concorrenza degli incentri in un triangolo con un punto interno*
 
-> Sia $P$ un punto interno al triangolo $ABC$ tale che
-> $$\angle APB - \angle ACB = \angle APC - \angle ABC.$$.
-> Siano $D$ e $E$ gli incentri dei triangoli $APB$ e $APC$, rispettivamente.
-> Si dimostri che le rette $AP$, $BD$ e $CE$ si incontrano in un punto.
+> Sia $P$ un punto all'interno del triangolo $ABC$ tale che
+> $$\angle APB - \angle ACB = \angle APC - \angle ABC.$$
+> Siano $D$, $E$ gli incentri dei triangoli $APB$, $APC$, rispettivamente. Dimostrare che $AP$, $BD$, $CE$ concorrono in un punto.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1996#q02|src_imho_1996__Q02]]
 
 
 
@@ -102,6 +115,13 @@ level: IMO
 > Sia $S$ l'insieme degli interi non negativi. Determinare tutte le funzioni $f$ da $S$ a sé stessa tali che
 > $$f(m + f(n)) = f(f(m)) + f(n) \quad \forall m, n \in S.$$
 
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1996#q03|src_imho_1996__Q03]]
+
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
@@ -123,9 +143,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimo valore del minore dei due quadrati da combinazioni lineari*
+*Valore minimo del più piccolo dei due quadrati derivanti da combinazioni lineari*
 
-> I numeri interi positivi $a$ e $b$ sono tali che i numeri $15a + 16b$ e $16a - 15b$ sono entrambi quadrati di interi positivi. Qual è il minimo valore possibile che può assumere il più piccolo di questi due quadrati?
+> I numeri interi positivi $a$ e $b$ sono tali che i numeri $15a + 16b$ e $16a - 15b$ sono entrambi quadrati di numeri interi positivi. Qual è il valore minimo possibile che può assumere il più piccolo di questi due quadrati?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1996#q04|src_imho_1996__Q04]]
 
 
 
@@ -149,10 +176,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disuguaglianza sulla somma dei circoraggi per un esagono con lati paralleli*
+*Disuguaglianza della somma dei raggi circonradiali per l'esagono con lati paralleli*
 
-> Sia $ABCDEF$ un esagono convesso tale che $AB$ sia parallelo a $DE$, $BC$ sia parallelo a $EF$ e $CD$ sia parallelo a $FA$. Siano $R_A, R_C, R_E$ i circoraggi dei triangoli $FAB$, $BCD$, $DEF$ rispettivamente, e sia $P$ il perimetro dell'esagono. Si dimostri che
+> Sia $ABCDEF$ un esagono convesso tale che $AB$ sia parallelo a $DE$, $BC$ sia parallelo a $EF$ e $CD$ sia parallelo a $FA$. Sia $R_A, R_C, R_E$ il raggio circoscritto dei triangoli $FAB$, $BCD$, $DEF$, rispettivamente, e sia $P$ il perimetro dell'esagono. Dimostrare che
 > $$R_A + R_C + R_E \ge \frac{P}{2}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1996#q05|src_imho_1996__Q05]]
 
 
 
@@ -181,12 +215,19 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valori uguali in una successione di interi con incrementi biannuali*
+*Valori uguali in una successione di interi con incrementi a due passi*
 
-> Siano $p$, $q$, $n$ tre interi positivi con $p + q < n$. Sia $(x_0, x_1, \ldots, x_n)$ una tupla di interi di lunghezza $(n+1)$ che soddisfa le seguenti condizioni:
-> 
+> Siano $p$, $q$, $n$ tre interi positivi tali che $p + q < n$. Sia $(x_0, x_1, \ldots, x_n)$ una n-upla di interi, con n pari a $(n+1)$, che soddisfa le seguenti condizioni:
+>
 > (a) $x_0 = x_n = 0$.
-> 
-> (b) Per ogni $i$ con $1 \le i \le n$, vale $x_i - x_{i-1} = p$ oppure $x_i - x_{i-1} = -q$.
-> 
-> Si dimostri che esistono degli indici $i < j$ con $(i, j) \ne (0, n)$, tali che $x_i = x_j$.
+>
+> (b) Per ciascun $i$ con $1 \le i \le n$, oppure $x_i - x_{i-1} = p$ oppure $x_i - x_{i-1} = -q$.
+>
+> Mostra che esistono indici $i < j$ tali che $(i, j) \ne (0, n)$, con $x_i = x_j$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1996#q06|src_imho_1996__Q06]]

@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I punti medi dei segmenti nel quadrato formano i vertici di un dodecagono*
+*Punti medi dei segmenti nei vertici di un dodecagono di forma quadrata*
 
-> Siano costruiti all'interno del quadrato $ABCD$ quattro triangoli equilateri $ABK$, $BCL$, $CDM$, $DAN$. Si dimostri che i punti medi dei quattro segmenti $KL$, $LM$, $MN$, $NK$ e i punti medi degli otto segmenti $AB$, $BK$, $BL$, $BC$, $CM$, $DM$, $DN$, $AN$ sono i dodici vertici di un dodecagono regolare.
+> I triangoli equilateri $ABK$, $BCL$, $CDM$, $DAN$ sono costruiti all'interno del quadrato $ABCD$. Dimostrare che i punti medi dei quattro segmenti $KL$, $LM$, $MN$, $NK$ e i punti medi degli otto segmenti $AB$, $BK$, $BL$, $BC$, $CM$, $DM$, $DN$, $AN$ sono i dodici vertici di un dodecagono regolare.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1977#q01|src_imho_1977__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza finita: massimo numero di termini negativi con sette somme successive negative*
+*Successione finita: tutti i termini negativi, con la somma di sette termini consecutivi negativa*
 
-> In una successione finita di numeri reali, la somma di qualsiasi sette termini consecutivi è negativa, e la somma di qualsiasi undici termini consecutivi è positiva. Determinare il numero massimo di termini nella successione.
+> In una successione finita di numeri reali, la somma di qualsiasi gruppo di sette termini consecutivi è negativa, e la somma di qualsiasi gruppo di undici termini consecutivi è positiva. Determinare il numero massimo di termini della successione.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1977#q02|src_imho_1977__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri indecomponibili nell'insieme $V_k$; si dimostri che $p = m$*
+*Numeri indecomponibili nell'insieme $V_k$; dimostrazioni $p = m$*
 
-> Sia $n$ un intero dato $> 2$, e sia $V_k$ l'insieme degli interi $1 + kn$, dove $k = 1, 2, \ldots$ Un numero $m \in V_k$ si dice $\textit{indecomposable}$ in $V_k$ se non esistono numeri $p, q \in V_k$ tali che $pq = m$. Si dimostri che esiste un numero $r \in V_k$ che si può esprimere in più di un modo come prodotto di elementi indecomponibili in $V_k$. (Prodotti che differiscono solo per l'ordine dei fattori sono considerati uguali.)
+> Sia $n$ un intero dato $> 2$, e sia $V_k$ l'insieme degli interi $1 + kn$, dove $k = 1, 2, \ldots$ Un numero $m \in V_k$ è detto $\textit{indecomposable}$ in $V_k$ se non esistono numeri $p, q \in V_k$ tali che $pq = m$. Dimostrare che esiste un numero $r \in V_k$ che può essere espresso come prodotto di elementi indecomponibili in $V_k$ in più di un modo. (I prodotti che differiscono solo per l'ordine dei fattori saranno considerati identici.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1977#q03|src_imho_1977__Q03]]
 
 
 
@@ -106,11 +127,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro costanti reali; si dimostri che $f(\theta)\ge 0$ implica $A^2+B^2\le 1$*
+*Quattro costanti reali; dimostrare che $f(\theta)\ge 0$ implica $A^2+B^2\le 1$*
 
-> Siano dati quattro costanti reali $a$, $b$, $A$, $B$, e sia
-> $$f(\theta) = 1 - a\cos\theta - b\sin\theta - A\cos 2\theta - B\sin 2\theta.$$.
-> Si dimostri che se $f(\theta) \ge 0$ per ogni numero reale $\theta$, allora $a^2 + b^2 \le 2$ e $A^2 + B^2 \le 1$.
+> Sono dati quattro numeri reali costanti $a$, $b$, $A$, $B$, e
+> $$f(\theta) = 1 - a\cos\theta - b\sin\theta - A\cos 2\theta - B\sin 2\theta.$$
+> Dimostrare che, se $f(\theta) \ge 0$ per ogni numero reale $\theta$, allora $a^2 + b^2 \le 2$ e $A^2 + B^2 \le 1$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_imho_1977#q04|src_imho_1977__Q04]]
 
 
 
@@ -133,9 +161,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coppie $(a,b)$ con $a^2+b^2$ divisibili per $a+b$; resto $r=1977$*
+*Accoppia $(a,b)$ con $a^2+b^2$ divisibile per $a+b$; resto $r=1977$*
 
-> Siano $a$ e $b$ due interi positivi. Quando $a^2 + b^2$ viene diviso per $a + b$, il quoziente è $q$ e il resto è $r$. Si dimostri che esistono infiniti coppie $(a, b)$ tali che $q^2 + r = 1977$.
+> Siano $a$ e $b$ numeri interi positivi. Quando $a^2 + b^2$ viene diviso per $a + b$, il quoziente è $q$ e il resto è $r$. Dimostrare che esistono infiniti coppie $(a, b)$ tali che $q^2 + r = 1977$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1977#q05|src_imho_1977__Q05]]
 
 
 
@@ -162,10 +197,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione sugli interi positivi con $f(n+1)>f(f(n))$; si dimostri che $f(n)=n$*
+*Funzione sugli interi positivi con $f(n+1)>f(f(n))$; dimostra $f(n)=n$*
 
-> Sia $f(n)$ una funzione definita sull'insieme di tutti gli interi positivi e a valori nello stesso insieme. Si dimostri che se
+> Sia $f(n)$ una funzione definita sull'insieme di tutti gli interi positivi e a valori in lo stesso insieme. Dimostrare che, se
 > $$f(n+1) > f(f(n))$$
 > per ogni intero positivo $n$, allora
 > $$f(n) = n$$
 > per ogni intero positivo $n$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1977#q06|src_imho_1977__Q06]]

@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total number of lamps on circular track*
+*Total number of streetlights on the circular path*
 
-> A circular park is surrounded by a path lit by lamps. Simona and Tania counted the lamps, but separately, starting from different points and moving both in the same direction. What was the 20th lamp for Simona was the 7th for Tania, what was the 7th for Simona was the 94th for Tania. How many lamps are there in total?
+> A circular park is surrounded by a path lit by street lamps. Simona and Tania counted the street lamps, but separately, starting from different points and both moving in the same direction. The lamp that was the 20th for Simona was the 7th for Tania; the lamp that was the 7th for Simona was the 94th for Tania. How many street lamps are there in total?
 
-**Answer:** 100
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2025_junior_finale#qj1|src_kangourou_2025_junior_finale__QJ1]]
 
 
 
@@ -56,11 +60,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of square plots with grid 1172m*
+*Number of square parcels with grid 1172m*
 
-> A rectangular botanical garden measuring $52 \times 24$ metres is divided into square plots all of the same size and all with sides parallel to those of the garden. Within the garden the plots are separated by fences; the overall length of the fences is $1172$ meters. How many square plots are there?
+> A rectangular botanical garden measuring $52 \times 24$ meters is divided into square plots, all of the same size and all with sides parallel to those of the garden. Within the garden, the plots are separated by grids; the total length of the grids is $1172$ meters. How many square plots are there?
 
-**Answer:** 312
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2025_junior_finale#qj2|src_kangourou_2025_junior_finale__QJ2]]
 
 
 
@@ -84,11 +92,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many ways 270 as consecutive integers*
+*In how many ways can 270 be expressed as the sum of consecutive integers?*
 
-> How many different ways can $270$ be obtained by adding consecutive positive integers?
+> In how many different ways can $270$ be obtained by adding consecutive positive integers?
 
-**Answer:** 7
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2025_junior_finale#qj3|src_kangourou_2025_junior_finale__QJ3]]
 
 
 
@@ -113,13 +126,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*longer than the diameter?*
+*Longer than the diameter?*
 
 ![[src_kangourou_2025_junior_finale__probj4.png]]
 
-> Two points on the circumference of a circle $\Gamma$ are extremes of an arc $\delta$ of another circle. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$? (see figure)
+> Two points on the circumference of a circle $\Gamma$ are the endpoints of an arc $\delta$ of another circle. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$? (see figure)
 
-**Answer:** Yes
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2025_junior_finale#qj4|src_kangourou_2025_junior_finale__QJ4]]
 
 
 
@@ -146,15 +163,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Strategy selected red/green decks of cards*
+*Selected strategy: red/green card decks*
 
-> My friend and I play the following game. On a table there are four decks of seven cards each, of which four are red and three are green, randomly mixed. Each player plays with a deck, different from the other's deck, and draws a random card from it. The four decks assign different scores to the player depending on whether he draws a red card or a green card: specifically, the first deck assigns 6 points and 2 points respectively to drawing a red card and a green card, the second deck 5 points and 5 points, the third deck 4 points and 7 points, the fourth deck 3 points and 3 points. Of course, the one with the highest score wins.
-> 
-> (a) If I can choose a deck first and my friend has to draw one of the remaining three decks at random (and we both still have to play), which deck should I choose?
-> 
-> (b) If we can both choose the deck to play with (and the choice must be made before playing), should I be the first or the second to choose?
+> A friend of mine and I play the following game. On a table, there are four packets of 7 cards each; 4 of the cards in each packet are red and 3 are green, and the cards are shuffled randomly. Each player plays with a deck different from the other player's deck and draws one card at random from it. The four decks assign different scores to the player depending on whether they draw a red card or a green card: specifically, the first deck awards 6 points and 2 points respectively for drawing a red card and a green card; the second deck awards 5 points and 5 points; the third deck awards 4 points and 7 points; the fourth deck awards 3 points and 3 points. Naturally, the player who achieves the highest score wins.
+>
+> a) If I can choose a deck first and my friend instead has to randomly draw one of the remaining three decks (and we both still have to play), which deck should I choose?
+>
+> b) If we can both choose the deck we'll play with (and the choice must be made before playing), is it better for me to be the first or the second to choose?
 
-**Answer:** a) third b) second
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2025_junior_finale#qj5|src_kangourou_2025_junior_finale__QJ5]]
 
 
 
@@ -178,8 +199,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n distinct integers each divided by the sum of other n-1*
+*In distinct interiors, each divides the sum of the other n-1*
 
-> Proves or refutes the following statement: For each whole $n \geq 3$ there exist $n$ whole numbers all different from each other such that each of them divides the sum of the remaining $n - 1$.
+> Prove or refute the following statement: "For every integer $n \geq 3$, there exist $n$ integers, all distinct from one another, such that each of them divides the sum of the remaining $n - 1$."
 
-**Answer:** true
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2025_junior_finale#qj6|src_kangourou_2025_junior_finale__QJ6]]

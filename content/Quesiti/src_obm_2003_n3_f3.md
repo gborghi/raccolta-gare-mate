@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La più piccola divisione primaria x^2+5x+23 per un certo numero intero x*
+*Il più piccolo numero primo che divide x^2+5x+23 per qualche intero x*
 
-> Trova il primo positivo più piccolo che divide $x^2 + 5x + 23$ per un intero $x$.
+> Trovare il più piccolo numero primo positivo che divide $x^2 + 5x + 23$ per qualche numero intero $x$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2003_n3_f3#q01|src_obm_2003_n3_f3__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le sottogruppe minori di k so k coprono S tramite sindacati firmati*
+*Minimo k tale che k sottoinsiemi coprano S tramite unioni con segno*
 
-> Il $S$ deve essere un insieme di elementi $n$. Trova il numero intero positivo $k$ con la seguente proprietà: data qualsiasi $k$ sottogruppo distinto $A_1, A_2, \ldots, A_k$ di $S$, esiste una scelta appropriata dei segni $+$ e $-$ in modo tale che $$S = A_1^{\pm} \cup A_2^{\pm} \cup \cdots \cup A_k^{\pm},$$, dove $A_i^{+} = A_i$ e $A_i^{-} = S \setminus A_i$ sono il complemento di $A_i$ rispetto a $S$.
+> Sia $S$ un insieme con $n$ elementi. Determinare il più piccolo intero positivo $k$ con la seguente proprietà: dati qualsiasi $k$ sottoinsiemi distinti $A_1, A_2, \ldots, A_k$ di $S$, esiste una scelta appropriata dei segni $+$ e $-$ tale che
+> $$S = A_1^{\pm} \cup A_2^{\pm} \cup \cdots \cup A_k^{\pm},$$
+> dove $A_i^{+} = A_i$ e $A_i^{-} = S \setminus A_i$ sono il complementare di $A_i$ rispetto a $S$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2003_n3_f3#q02|src_obm_2003_n3_f3__Q02]]
 
 
 
@@ -81,9 +97,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Line EH e FG parallele nel rombo con linee tangenti*
+*Le rette EH e FG sono parallele in un rombo con rette tangenti*
 
-> Lascia che il $ABCD$ sia un rombo. Le parti $E$, $F$, $G$ e $H$ siano punti sui lati $AB$, $BC$, $CD$ e $DA$, rispettivamente, in modo tale che le linee $EF$ e $GH$ siano tangenti al cerchio inscritto del rombo. Provare che le linee $EH$ e $FG$ sono parallele.
+> Sia $ABCD$ un rombo. Siano $E$, $F$, $G$ e $H$ dei punti appartenenti rispettivamente ai lati $AB$, $BC$, $CD$ e $DA$, in modo tale che le rette $EF$ e $GH$ siano tangenti alla circonferenza inscritta nel rombo. Dimostrare che le rette $EH$ e $FG$ sono parallele.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2003_n3_f3#q03|src_obm_2003_n3_f3__Q03]]
 
 
 
@@ -106,9 +129,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti sul cerchio che massimizzano l'area ABCD quadrilaterale*
+*Punti sulla circonferenza che massimizzano l'area del quadrilatero ABCD*
 
-> Un'interferenza $K$ e un punto $A$ interno, fisso e distinto dal centro, sono indicati. Trova i punti $B$, $C$ e $D$ sulla circonferenza in modo tale che l'area del quadrilaterale $ABCD$ sia il più grande possibile.
+> Sono dati una circonferenza $K$ e un punto $A$ interno ad essa, fisso e distinto dal centro. Determinare i punti $B$, $C$ e $D$ sulla circonferenza in modo che l'area del quadrilatero $ABCD$ sia il più grande possibile.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2003_n3_f3#q04|src_obm_2003_n3_f3__Q04]]
 
 
 
@@ -136,9 +166,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza funzionale che implica f(x_0)<0 per alcuni x_0*
+*Disuguaglianza funzionale che implica f(x_0)<0 per qualche x_0*
 
-> Supponiamo che $f:(0,+\infty) \to \mathbb{R}$ soddisfi: \begin{enumerate} \item[(i) $x < y \Rightarrow f(x) < f(y)$, \item[(ii) $f\!\left(\dfrac{2xy}{x+y}\right) \ge \dfrac{f(x)+f(y)}{2}$, per tutti $x, y \in (0,+\infty)$. \end{enumerate} Prove che esiste $x_0 \in (0,+\infty)$ tale che $f(x_0) < 0$.
+> Supponiamo che $f:(0,+\infty) \to \mathbb{R}$ soddisfi:
+> \begin{enumerate}
+> \item[(i)] $x < y \Rightarrow f(x) < f(y)$, \item[(ii)] $f\!\left(\dfrac{2xy}{x+y}\right) \ge \dfrac{f(x)+f(y)}{2}$, per tutti gli $x, y \in (0,+\infty)$.
+> \end{enumerate}
+> Dimostrare che esiste $x_0 \in (0,+\infty)$ tale che $f(x_0) < 0$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_backward|Backward]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2003_n3_f3#q05|src_obm_2003_n3_f3__Q05]]
 
 
 
@@ -165,10 +206,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum n_0 quindi n>=n_0 implica che non esiste un grafico bacana*
+*Minimo n_0 tale che n>=n_0 implica che non esiste alcun grafo bacana*
 
-> Un grafico con un insieme di vertici $V$ che contiene elementi $n$ si chiama *bacana* se esiste un insieme $D \subset N$ e una funzione iniettabile $f: V \to \lfloor 1, n^2/4 \rfloor \cap N$ tale che due vertici $p$ e $q$ siano collegati da un bordo se e solo se $f(p) - f(q) \in D$.
-> 
-> Mostrare che esiste $n_0 \in N$ in modo che per ogni $n \ge n_0$ esistano grafici con vertici $n$ che non sono bacana.
-> 
-> **Osservazione: ** Un grafico con insieme verticale $V$ è una coppia $(V, E)$ dove $E$ è un insieme di sottoinsiemi di $V$, ognuno con esattamente due elementi. Un sottoinsieme $\{p, q\}$ è chiamato *edge*; diciamo che questo bordo collega i vertici $p$ e $q$.
+> Un grafo con insieme dei vertici $V$ costituito da $n$ elementi è detto *bacana* se esistono un insieme $D \subset N$ e una funzione iniettiva $f: V \to \lfloor 1, n^2/4 \rfloor \cap N$ tali che due vertici $p$ e $q$ siano collegati da un arco se e solo se $f(p) - f(q) \in D$.
+>
+> Dimostrare che esiste $n_0 \in N$ tale che, per ogni $n \ge n_0$, esistono grafi con $n$ vertici che non sono bacana.
+>
+> **Osservazione:** Un grafo con insieme dei vertici $V$ è una coppia $(V, E)$ in cui $E$ è un insieme di sottoinsiemi di $V$, ciascuno dei quali ha esattamente due elementi. Un sottoinsieme $\{p, q\}$ è chiamato *arco*; si dice che questo arco collega i vertici $p$ e $q$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2003_n3_f3#q06|src_obm_2003_n3_f3__Q06]]

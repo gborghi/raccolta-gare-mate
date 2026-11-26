@@ -31,13 +31,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piccolo camion: 50 sacchetti o 400 mattoni; quanti mattoni quando sono carichi 32 sacchetti?*
+*Camion piccolo: 50 sacchi o 400 mattoni; quanti mattoni quando si caricano 32 sacchi?*
 
-> Un piccolo camion può trasportare 50 sacchi di sabbia o 400 mattoni. Se sul camion erano caricati 32 sacchi di sabbia, quante mattoni può ancora trasportare?
-> 
-> (A) 132 \quad B) 144 \quad C) 146 \quad D) 148 \quad E) 152
+> Un piccolo camion può trasportare 50 sacchi di sabbia o 400 mattoni. Se sul camion fossero caricati 32 sacchi di sabbia, quanti mattoni potrebbe ancora trasportare?
+>
+> (A) 132 \quad (B) 144 \quad (C) 146 \quad (D) 148 \quad (E) 152
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1999_n1_f1#q01|src_obm_1999_n1_f1__Q01]]
 
 
 
@@ -63,13 +67,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tasti di calcolatore D (numero di unità duplicate) e T (numero di unità di cancellazione); trovare il risultato per 1999.*
+*Tasti della calcolatrice D (duplica la cifra delle unità) e T (cancella la cifra delle unità); trova il risultato per 1999.*
 
-> La calcolatrice di Juliana è piuttosto insolita. Ha una chiave $\mathbf{T}$ che cancella la cifra di unità del numero sul display, e una chiave $\mathbf{D}$ che duplica la cifra di unità del numero sul display. Per esempio, se 123 è sul display e premere $\mathbf{D}$ otteniamo 1233; premere $\mathbf{T}$ dà 123; premere $\mathbf{D}$ di nuovo dà 1233; premere $\mathbf{D}$ di nuovo dà 12333. Supponiamo che il 1999 sia in mostra. Se premete in ordine $\mathbf{D}$, $\mathbf{D}$, $\mathbf{T}$, $\mathbf{D}$, il numero mostrato sarà:
-> 
-> (A) 96 Quad (B) 98 Quad (C) 123 Quad (D) 79 Quad (E) 99
+> La calcolatrice di Juliana è piuttosto insolita. Ha un tasto $\mathbf{T}$ che cancella la cifra delle unità del numero visualizzato, e un tasto $\mathbf{D}$ che duplica la cifra delle unità del numero visualizzato. Per esempio, se sul display c'è 123 e premiamo $\mathbf{D}$, otteniamo 1233; premendo $\mathbf{T}$ si ottiene 123; premendo di nuovo $\mathbf{D}$ si ottiene 1233; premendo ancora una volta $\mathbf{D}$ si ottiene 12333. Supponiamo che sul display ci sia 1999. Se premiamo in sequenza $\mathbf{D}$, $\mathbf{D}$, $\mathbf{T}$, $\mathbf{D}$, il numero visualizzato sarà:
+>
+> (A) 96 \quad (B) 98 \quad (C) 123 \quad (D) 79 \quad (E) 99
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n1_f1#q02|src_obm_1999_n1_f1__Q02]]
 
 
 
@@ -98,17 +107,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Grafico del tasso del dollaro reale su 6 mesi; trovare la rata di maggio data il valore di dicembre.*
+*Grafico del tasso dollaro-reale su 6 mesi; determina la rata di maggio dato il valore di dicembre.*
 
-> Il grafico seguente mostra il valore approssimativo del dollaro in reais il 15 di ciascuno degli ultimi 6 mesi.
-> 
-> Marcelo ha acquistato un'auto usando un sistema di finanziamento chiamato \emph{leasing} indicizzato al tasso di cambio del dollaro, e le sue rate mensili sono dovute esattamente il 15 di ogni mese. A dicembre, Marcelo ha pagato 600 dollari come rata. Sulla base del grafico, possiamo dire che a maggio la rata era:
-> 
+> Il grafico sottostante mostra il valore approssimativo del dollaro in reais il 15 di ciascuno degli ultimi 6 mesi.
+>
+> Marcelo ha acquistato un'auto ricorrendo a un sistema di finanziamento chiamato \emph{leasing}, indicizzato al tasso di cambio del dollaro, e le sue rate mensili scadono esattamente il 15 di ogni mese. A dicembre, Marcelo ha pagato R\$\,600{,}00 come rata. Sulla base del grafico, possiamo affermare che a maggio la rata era:
+>
 > (A) R\$\,700{,}00 \quad (B) R\$\,850{,}00 \quad (C) R\$\,650{,}00 \quad (D) R\$\,900{,}00 \quad (E) R\$\,800{,}00
 
 ![[src_obm_1999_n1_f1__q03.png]]
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1999_n1_f1#q03|src_obm_1999_n1_f1__Q03]]
 
 
 
@@ -133,13 +146,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Linea della metropolitana con 12 stazioni con spazi uguali; trovare la lunghezza totale.*
+*Linea della metropolitana con 12 stazioni equidistanti; determina la lunghezza totale.*
 
-> In una certa città, la metropolitana ha tutte le sue 12 stazioni in linea retta. La distanza tra due stazioni vicine è sempre la stessa. È noto che la distanza tra la 3° e la 6° stazione è pari a 3.300 metri. Qual è la lunghezza totale di questa linea?
-> 
-> (A) 8,4 km quadrati (B) 12,1 km quadrati (C) 9,9 km quadrati (D) 13,2 km quadrati (E) 9,075 km
+> In una certa città, la metropolitana ha tutte e 12 le sue stazioni allineate su una linea retta. La distanza tra due stazioni vicine qualsiasi è sempre la stessa. Si sa che la distanza tra la 3ª e la 6ª stazione è pari a 3.300 metri. Qual è la lunghezza totale di questa linea?
+>
+> (A) 8,4 km \quad (B) 12,1 km \quad (C) 9,9 km \quad (D) 13,2 km \quad (E) 9,075 km
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1999_n1_f1#q04|src_obm_1999_n1_f1__Q04]]
 
 
 
@@ -165,13 +182,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Semplificare la metà di $2^{10} + 4^5$.*
+*Semplifica metà di $2^{10} + 4^5$.*
 
 > Il valore di $\dfrac{2^{10} + 4^5}{2}$ è uguale a:
-> 
+>
 > (A) $2^9 + 4^4$ \quad (B) $2^9 + 2^5$ \quad (C) $1^{10} + 2^5$ \quad (D) $2^{10} + 4^4$ \quad (E) $2^9 + 4^5$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1999_n1_f1#q05|src_obm_1999_n1_f1__Q05]]
 
 
 
@@ -199,11 +221,16 @@ level: OBM Nível 1
 
 *Conta i numeri primi a due cifre il cui predecessore è un quadrato perfetto.*
 
-> Quanti numeri a due cifre sono primi e il loro predecessore (il numero immediatamente prima di loro) è un quadrato perfetto?
-> 
-> (A) 2 \quad (B) none \quad (C) 1 \quad (D) 3 \quad (E) 6
+> Quanti numeri di due cifre sono primi e hanno come predecessore (il numero che li precede immediatamente) un quadrato perfetto?
+>
+> (A) 2 \quad (B) nessuno \quad (C) 1 \quad (D) 3 \quad (E) 6
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n1_f1#q06|src_obm_1999_n1_f1__Q06]]
 
 
 
@@ -229,13 +256,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Quante volte al giorno le mani dell'orologio formano un angolo retto?
+*Quante volte al giorno le lancette dell'orologio formano un angolo retto?*
 
-> Quante volte al giorno (24 ore) le mani di un orologio formano un angolo retto?
-> 
+> Quante volte in un giorno (24 ore) le lancette di un orologio formano un angolo retto?
+>
 > (A) 48 \quad (B) 44 \quad (C) 24 \quad (D) 22 \quad (E) 23
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_obm_1999_n1_f1#q07|src_obm_1999_n1_f1__Q07]]
 
 
 
@@ -261,13 +293,18 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Marmi ridistribuiti a ragazzi e ragazze; trovare la percentuale di ragazzi.*
+*Le biglie sono state ridistribuite tra ragazzi e ragazze; determina la percentuale di ragazzi.*
 
-> Dona Zizi ha comprato 2 marmi per ogni studente della quinta elementare. Poiché i ragazzi erano rumorosi, lei decise di ridistribuirli: dare 3 marmi a ogni ragazza e solo 1 marmi a ogni ragazzo. Possiamo concludere che nella quinta elementare:
-> 
-> (A) 20\% sono ragazzi \quad (B) 30\% sono ragazzi \quad (C) 50\% sono ragazzi \quad (D) 50\% sono ragazze \quad (E) 66,6\ldots\% sono ragazzi
+> La signora Zizi ha comprato 2 biglie per ogni alunno di una classe della quinta elementare. Poiché i ragazzi erano turbolenti, ha deciso di ridistribuirle: dando 3 biglie a ogni ragazza e solo 1 biglia a ogni ragazzo. Possiamo concludere che nella quinta elementare:
+>
+> (A) Il 20\% sono maschi \quad (B) Il 30\% sono maschi \quad (C) Il 50\% sono maschi \quad (D) Il 50\% sono femmine \quad (E) Il 66,6\ldots\% sono maschi
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1999_n1_f1#q08|src_obm_1999_n1_f1__Q08]]
 
 
 
@@ -295,15 +332,20 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Stack di cubetti di plastica blu esposti all'aria; contare i cubetti con esattamente 3 facce blu e 3 facce grigie.*
+*Pila di cubi di plastica blu esposta all'aria; conta i cubi che hanno esattamente 3 facce blu e 3 facce grigie.*
 
-> Diverse scatole cubiche di plastica blu sono state impilate all'aria aperta nella posizione mostrata nella figura. Con il tempo, la plastica esposta all'aria perse il suo colore, diventando grigio. Quando abbiamo smantellato la pila, abbiamo verificato che il numero di scatole con esattamente tre facce blu e tre facce grigie è:
-> 
+> Diverse scatole cubiche di plastica blu erano impilate all'aperto nella posizione mostrata nella figura. Col tempo, la plastica esposta all'aria ha perso il proprio colore, diventando grigia. Durante lo smontaggio della pila, abbiamo verificato che il numero di scatole con esattamente tre facce blu e tre facce grigie è:
+>
 > (A) 4 \quad (B) 5 \quad (C) 3 \quad (D) 2 \quad (E) 1
 
 ![[src_obm_1999_n1_f1__q09.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n1_f1#q09|src_obm_1999_n1_f1__Q09]]
 
 
 
@@ -328,13 +370,17 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*100 monete (50c e R\$1) complessivamente 76 reais; trovare differenza di conteggio tra i due tipi.*
+*100 monete (50c e R\$1), per un totale di 76 reais; determina la differenza nel numero tra i due tipi.*
 
-> Ronaldo, ogni volta che puo', risparmia monete di 50 centos o 1 vero. Attualmente ha 100 monete per un totale di 76 reais. Quante monete di una denominazione ha in più dell'altra?
-> 
+> Ogni volta che può, Ronaldo mette da parte monete da 50 centavos o da 1 real. Attualmente ha 100 monete per un totale di 76 reais. Quante monete in più ha di una delle due denominazioni rispetto all'altra?
+>
 > (A) 48 \quad (B) 4 \quad (C) 8 \quad (D) 52 \quad (E) 96
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1999_n1_f1#q10|src_obm_1999_n1_f1__Q10]]
 
 
 
@@ -362,15 +408,20 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta le figure distinte formate dalla connessione di tre rombole congruenti fianco a fianco.*
+*Conta le figure distinte ottenute unendo tre rombi congruenti lato a lato.*
 
-> Unendo tre quadrati congruenti che fanno coincidere i loro lati, possiamo formare due figure diverse, come mostra l'esempio accanto. Ora prenderemo tre rombole congruenti (parallellogrammi con tutti i lati uguali) e li uniremo facendo coincidere i loro lati. Quante cifre differenti possiamo formare con i tre rombosi? (Due cifre sono considerate uguali se una può essere ottenuta dall'altra mediante rotazione, traduzione o riflessione.)
-> 
+> Unendo tre quadrati congruenti in modo che i loro lati coincidano, possiamo formare due figure diverse, come mostra l'esempio accanto. Ora prenderemo tre rombi congruenti (parallelogrammi con tutti i lati uguali) e li uniremo facendo coincidere i loro lati. Quante figure diverse possiamo formare con i tre rombi? (Due figure si considerano uguali se una può essere ottenuta dall'altra mediante rotazione, traslazione o riflessione.)
+>
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 5 \quad (E) 9
 
 ![[src_obm_1999_n1_f1__q11.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n1_f1#q11|src_obm_1999_n1_f1__Q11]]
 
 
 
@@ -396,13 +447,18 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Printa sostituisce gli zeri con i vuoti; trovare il numero minimo di pagine da ri stampare.*
+*La stampante sostituisce gli zeri con spazi vuoti; determina il numero minimo di pagine da ristampare.*
 
-> Renata digitò un documento di 100 pagine numerato da 1 a 100 e lo stampò. Mentre la passava, notò che la sua stampante era difettosa, poiché sostituisce ogni zero con un vuoto quando si stampano numeri di pagina. Dopo aver riparato la stampante, quante pagine deve ri stampare almeno?
-> 
+> Renata ha digitato un documento di 100 pagine, numerate da 1 a 100, e lo ha stampato. Mentre lo sfogliava, ha notato che la sua stampante era difettosa, poiché, durante la stampa dei numeri di pagina, sostituiva ogni zero con uno spazio vuoto. Dopo aver riparato la stampante, quante pagine deve ristampare al minimo?
+>
 > (A) 18 \quad (B) 20 \quad (C) 22 \quad (D) 30 \quad (E) 28
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n1_f1#q12|src_obm_1999_n1_f1__Q12]]
 
 
 
@@ -427,13 +483,17 @@ Quante volte al giorno le mani dell'orologio formano un angolo retto?
 <div class="qlang-split" data-lang="it"></div>
 
 
-Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo di CD.
+*Letícia vende tutti i CD allo stesso prezzo a tre amici; determina il numero minimo di CD.*
 
-> Leticia ha venduto tutti i suoi CD di videogiochi a tre amici, addebitando rispettivamente R$180 e R$320. Tutti i CD avevano lo stesso prezzo. Qual è il numero minimo di CD che Let'icia aveva?
-> 
+> Letícia ha venduto tutti i suoi CD di videogiochi a tre amici, chiedendo rispettivamente R$$\,240{,}00, R\$,180,00 e R$320,00. Tutti i CD avevano lo stesso prezzo. Qual è il numero minimo di CD che Letícia aveva?
+>
 > (A) 20 \quad (B) 37 \quad (C) 21 \quad (D) 41 \quad (E) 25
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1999_n1_f1#q13|src_obm_1999_n1_f1__Q13]]
 
 
 
@@ -460,13 +520,19 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Carte su una tabella; media di tutte è 5, media dei vicini di Y è 3; trovare X.*
+*Carte su un tavolo; la media di tutte è 5, la media dei vicini di Y è 3; trova X.*
 
-> Sette carte con numeri su una faccia sono posizionate a faccia in giù su una tavola, disposta in una griglia $2 \times 3$. Le schede $X$ e $Y$ sono posizionate con la faccia numerata verso l'alto. La disposizione è: $$\begin{array}{|c|c|c|}\hline 8 & 2 & 4 \\ \hline X & 6 & Y \\ \hline \end{array}$$ La media aritmetica dei numeri su tutte le carte è 5. La media aritmetica dei numeri della carta $Y$ e dei suoi tre vicini è di 3. Qual è il numero scritto sulla scheda $X$?
-> 
+> Sei carte con dei numeri su una faccia vengono posizionate a faccia in giù sul tavolo, disposte in una griglia di $2 \times 3$. Le carte $X$ e $Y$ vengono posizionate con la faccia recante il numero rivolta verso l'alto. La disposizione è:
+> $$\begin{array}{|c|c|c|}\hline 8 & 2 & 4 \\ \hline X & 6 & Y \\ \hline \end{array}$$
+> La media aritmetica dei numeri su tutte le carte è 5. La media aritmetica dei numeri sulla carta $Y$ e sui suoi tre vicini è 3. Qual è il numero scritto sulla carta $X$?
+>
 > (A) $-4$ \quad (B) 12 \quad (C) 0 \quad (D) 15 \quad (E) 10
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1999_n1_f1#q14|src_obm_1999_n1_f1__Q14]]
 
 
 
@@ -491,13 +557,17 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre età correlate per frazioni; trovare la loro somma.*
+*Tre età legate da frazioni; trova la loro somma.*
 
-> Rafael è $\dfrac{2}{3}$ dell'età di Roberto ed è 2 anni più giovane di Reinaldo. L'età di Roberto è $\dfrac{4}{3}$ dell'età di Reinaldo. In anni, la somma delle tre epoche è:
-> 
+> Rafael ha $\dfrac{2}{3}$ anni, la stessa età di Roberto, e ha 2 anni in meno di Reinaldo. L'età di Roberto è $\dfrac{4}{3}$ dell'età di Reinaldo. In anni, la somma delle tre età è:
+>
 > (A) 48 \quad (B) 72 \quad (C) 58 \quad (D) 60 \quad (E) 34
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1999_n1_f1#q15|src_obm_1999_n1_f1__Q15]]
 
 
 
@@ -524,15 +594,19 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scala di equilibrio con tre mele e un blocco di 200 g; trovare il peso totale delle mele.*
+*Bilancia a due piatti con tre mele e un blocco da 200 g; determina il peso totale delle mele.*
 
-> Marcos ha messo tre mele su una bilancia di due pannelli. Ha un blocco di 200 grammi. Osservando l'equilibrio, osserva: (i) la mela più grande pesa quanto le altre due mele insieme; (ii) il blocco e la mela più piccola insieme pesano quanto le altre due mele insieme; (iii) la mela più piccola insieme alla mela media pesa quanto il blocco. Qual è il peso totale delle tre mele?
-> 
-> (A) 250\,g \quad (B) 300\,g \quad (C) 350\,g \quad (D) 400\,g \quad (E) 450\,g
+> Marcos ha posizionato tre mele su una bilancia a due piatti. Ha un unico blocco da 200 grammi. Osservando la bilancia, nota che: (i) la mela più grande pesa quanto le altre due mele messe insieme; (ii) il blocco e la mela più piccola insieme pesano quanto le altre due mele messe insieme; (iii) la mela più piccola insieme alla mela di dimensioni medie pesa quanto il blocco. Qual è il peso totale delle tre mele?
+>
+> (A) 250 g \quad (B) 300 g \quad (C) 350 g \quad (D) 400 g \quad (E) 450 g
 
 ![[src_obm_1999_n1_f1__q16.png]]
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1999_n1_f1#q16|src_obm_1999_n1_f1__Q16]]
 
 
 
@@ -559,15 +633,19 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due triangoli rettangolari e un rettangolo assemblati in un quadrato; trovare lunghezza laterale.*
+*Due triangoli rettangoli e un rettangolo vengono assemblati a formare un quadrato; determina la lunghezza del lato.*
 
-> Nel disegno di fianco, due triangoli rettangolari e un rettangolo sono rappresentati con le loro misure. Unendo tutte queste figure insieme, possiamo costruire un quadrato. Qual è la lunghezza laterale di questo quadrato?
-> 
+> Nel disegno accanto sono rappresentati due triangoli rettangoli e un rettangolo, con le loro misure. Unendo tra loro tutte queste figure, possiamo costruire un quadrato. Qual è la lunghezza del lato di questo quadrato?
+>
 > (A) 88\,cm \quad (B) 100\,cm \quad (C) 60\,cm \quad (D) 96\,cm \quad (E) 80\,cm
 
 ![[src_obm_1999_n1_f1__q17.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1999_n1_f1#q17|src_obm_1999_n1_f1__Q17]]
 
 
 
@@ -592,13 +670,17 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il sistema di rotazione delle piastrine vieta ogni auto due volte alla settimana MonSat; trova giorni medi vietati.*
+*Il sistema di rotazione delle targhe vieta ogni auto due volte a settimana dal lunedì al sabato; determina la media dei giorni di divieto.*
 
-> In una determinata città è stato adottato il seguente sistema di rotazione della targa dei veicoli: due volte alla settimana, dal lunedì al sabato, ogni auto è vietata la circolazione secondo l'ultima cifra del suo numero di targa. Ogni giorno, una cifra è vietata dalla circolazione. Qual è il numero medio di giorni alla settimana in cui una determinata auto è vietata di circolare?
-> 
-> (A) 4 \quad (B) 1 \quad (C) 3 \quad (D) 2 \quad (E) indefinito
+> In una certa città è stato adottato il seguente sistema di rotazione delle targhe dei veicoli: due volte a settimana, dal lunedì al sabato, a ciascuna auto è vietato circolare in base all'ultima cifra del numero di targa. Ogni giorno, una cifra non può circolare. Qual è il numero medio di giorni alla settimana in cui a una data auto è vietato circolare?
+>
+> (A) 4 \quad (B) 1 \quad (C) 3 \quad (D) 2 \quad (E) indefinita
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n1_f1#q18|src_obm_1999_n1_f1__Q18]]
 
 
 
@@ -623,13 +705,17 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*VCR registra film di 150 minuti su nastro singolo passando da EP (6h) a SP (2h); trova i minuti trascorsi al interruttore.*
+*Il VCR registra un film di 150 minuti su una singola cassetta, passando da EP (6 h) a SP (2 h); determina i minuti trascorsi al momento del passaggio.*
 
-> Alexandre, consultando il programma del film, ha deciso di registrare il "Contato", la cui durata è di 150 minuti. Per registrare l'intero film su un singolo nastro, ha iniziato a registrare a una velocità più lenta (modo EP, che consente 6 ore di registrazione) e a un certo punto è passato a una velocità più veloce (modo SP, che consente 2 ore di registrazione). Il nastro finì esattamente alla fine del film. Quanti minuti sono trascorsi dall'inizio del film fino al momento in cui è stato cambiato il modo di registrazione?
-> 
+> Alexandre, consultando il programma dei film, decise di registrare \emph{Contato}, della durata di 150 minuti. Per registrare l'intero film su una sola cassetta, iniziò la registrazione a una velocità più lenta (modalità EP, che consente 6 ore di registrazione) e a un certo punto passò a una velocità più elevata (modalità SP, che consente 2 ore di registrazione). La cassetta finì esattamente alla fine del film. Quanti minuti trascorsero dall'inizio del film al momento in cui fu cambiata la modalità di registrazione?
+>
 > (A) 60 \quad (B) 30 \quad (C) 15 \quad (D) 45 \quad (E) 105
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1999_n1_f1#q19|src_obm_1999_n1_f1__Q19]]
 
 
 
@@ -655,10 +741,15 @@ Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri interi positivi la cui ultima cifra è uguale al numero di cifre del numero.*
+*Conta gli interi positivi il cui ultimo digit è uguale al numero di cifre del numero.*
 
-> Sai che ci sono 9 numeri a un solo cifra, 90 numeri a due cifre, 900 numeri a tre cifre, e così via. Considerate ogni numero intero positivo la cui ultima cifra è uguale al numero di numeri di quel numero intero. Ad esempio, 9\,074 è uno di loro, dal momento che la sua ultima cifra è 4 e ha 4 cifre. Quanti tali numeri esistono?
-> 
+> Sai che esistono 9 numeri a una cifra, 90 numeri a due cifre, 900 numeri a tre cifre, e così via. Considera ogni numero intero positivo il cui ultima cifra è uguale al numero di cifre di quel numero. Ad esempio, 9.074 è uno di essi, poiché la sua ultima cifra è 4 e il numero ha 4 cifre. Quanti numeri di questo tipo esistono?
+>
 > (A) 99\,999\,999 \quad (B) 99\,999\,992 \quad (C) 100\,000\,000 \quad (D) 10\,000\,000 \quad (E) 1\,000\,000\,000
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n1_f1#q20|src_obm_1999_n1_f1__Q20]]

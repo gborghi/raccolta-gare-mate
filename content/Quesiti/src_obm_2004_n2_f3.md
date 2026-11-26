@@ -37,17 +37,24 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli a pari lato; trovare angolo, lunghezza, segmento*
+*Triangoli isosceli con i lati uguali; trovare l'angolo, la lunghezza, il segmento*
 
-> Nella figura, $ABC$ e $DAE$ sono triangoli a uguale taglia con $AB = AC = AD = DE$ e gli angoli $\angle BAC$ e $\angle ADE$ sono entrambi uguali $36^\circ$.
-> 
-> a) Usando le proprietà geometriche, si trova la misura dell'angolo $\angle EDC$.
-> 
-> b) Sapendo che $BC = 2$, calcolare la lunghezza del segmento $DC$.
-> 
-> c) Calcolare la lunghezza del segmento $AC$.
+> Nella figura, $ABC$ e $DAE$ sono triangoli isosceli con $AB = AC = AD = DE$ e gli angoli $\angle BAC$ e $\angle ADE$ sono entrambi uguali a $36^\circ$.
+>
+> a) Utilizzando le proprietà geometriche, determina la misura dell'angolo $\angle EDC$.
+>
+> b) Sapendo che $BC = 2$, calcola la lunghezza del segmento $DC$.
+>
+> c) Calcola la lunghezza del segmento $AC$.
 
 ![[src_obm_2004_n2_f3__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n2_f3#q01|src_obm_2004_n2_f3__Q01]]
 
 
 
@@ -76,13 +83,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza definita dall'ultima cifra della somma dei quattro termini precedenti*
+*Successione definita dall'ultima cifra della somma dei quattro termini precedenti*
 
-> La sequenza di cifre $$1,\, 2,\, 3,\, 4,\, 0,\, 9,\, 6,\, 9,\, 4,\, 8,\, 7,\, \ldots$$ è costruita come segue: ogni elemento, a partire dalla quinta, è uguale all'ultima cifra della somma dei quattro elementi precedenti.
-> 
-> a) Le cifre $2, 0, 0, 4$ appaiono consecutivamente (in questo ordine) in qualche parte della sequenza?
-> 
-> b) Le cifre $1, 2, 3, 4$ riappare successivamente nella sequenza?
+> La sequenza di cifre
+> $$1,\, 2,\, 3,\, 4,\, 0,\, 9,\, 6,\, 9,\, 4,\, 8,\, 7,\, \ldots$$
+> È costruito nel modo seguente: ogni elemento, a partire dal quinto, è uguale all'ultima cifra della somma dei quattro elementi precedenti.
+>
+> a) Le cifre $2, 0, 0, 4$ compaiono in successione (in questo ordine) da qualche parte nella sequenza?
+>
+> b) Le cifre $1, 2, 3, 4$ compaiono di nuovo in successione nella sequenza?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n2_f3#q02|src_obm_2004_n2_f3__Q02]]
 
 
 
@@ -107,11 +123,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massetta di 100 pietre; somma di prodotti scritti in quadrati*
+*Suddivisione di un mucchio di 100 pietre; somma dei prodotti scritta nei quadrati*
 
-> Esmeralda ha un mucchio di pietre. Divide questa pila in due pile più piccole e poi moltiplica il numero di pietre in queste due nuove pile, scrivendo il prodotto in un quadrato. Sceglie poi la pila con la maggior parte delle pietre e ripete la procedura: le quantità di pietre nelle due nuove pile vengono moltiplicate e il prodotto viene scritto nel quadrato successivo. Questa operazione è ripetuta fino a quando non rimangono solo pile di pietra $1$ ciascuna.
-> 
+> Esmeralda ha un mucchio di $100$ pietre. Divide questo mucchio in due mucchi più piccoli e poi moltiplica il numero di pietre presenti in questi due nuovi mucchi, scrivendo il prodotto in un quadrato. Poi sceglie il mucchio con più pietre e ripete la procedura: si moltiplicano le quantità di pietre nei due nuovi mucchi e il prodotto viene scritto nel quadrato successivo. Questa operazione viene ripetuta finché non restano che mucchi composti ciascuno da $1$ pietre.
+>
 > Quali sono i valori possibili della somma di tutti i prodotti scritti nei quadrati?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n2_f3#q03|src_obm_2004_n2_f3__Q03]]
 
 
 
@@ -136,11 +159,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco a due giocatori: scegliere alternativamente un numero intero superiore al doppio del precedente; chi raggiunge il 2004?
+*Gioco a due giocatori: a turno si sceglie un numero intero maggiore del doppio di quello precedente; chi raggiunge 2004?*
 
-> In una partita per due giocatori, Arnaldo e Bernaldo scelgono alternativamente un intero positivo. A ogni turno, il numero scelto deve essere superiore al doppio dell'ultimo numero scelto. Il vincitore è il primo giocatore a scegliere il numero $2004$.
-> 
-> In questo gioco, Arnaldo va per primo e inizia con il numero $2$. Quale dei due giocatori ha una strategia vincente  cioè può garantire la scelta del numero $2004$ indipendentemente dalle mosse dell'avversario?
+> In un gioco per due giocatori, Arnaldo e Bernaldo scelgono a turno un numero intero positivo. Ad ogni turno, il numero scelto deve essere maggiore del doppio dell'ultimo numero scelto. Vince il primo giocatore che sceglie il numero $2004$.
+>
+> In questa partita, Arnaldo muove per primo e inizia con il numero $2$. Quale dei due giocatori possiede una strategia vincente, cioè può garantire di scegliere il numero $2004$ indipendentemente dalle mosse dell'avversario?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n2_f3#q04|src_obm_2004_n2_f3__Q04]]
 
 
 
@@ -167,13 +197,20 @@ Gioco a due giocatori: scegliere alternativamente un numero intero superiore al 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Midpoint of hypotenuse; circumcenters of sub-triangles; tangency*
+*Punto medio dell'ipotenusa; centri circoscritti dei sottotriangoli; tangenza*
 
-> $D$ sia il punto medio dell'ipotenusa $AB$ di un triangolo rettangolo $ABC$ (con angolo retto a $C$). $O_1$ e $O_2$ siano rispettivamente i circoncenti dei triangoli $ADC$ e $DBC$.
-> 
-> a) Indicare che $\angle O_1 D O_2 = 90^\circ$.
-> 
-> b) Indicare che $AB$ è tangente al cerchio di diametro $O_1 O_2$.
+> Sia $D$ il punto medio dell'ipotenusa $AB$ di un triangolo rettangolo $ABC$ (con l'angolo retto in $C$). Siano $O_1$ e $O_2$ i circocentri dei triangoli $ADC$ e $DBC$, rispettivamente.
+>
+> a) Dimostrare che $\angle O_1 D O_2 = 90^\circ$.
+>
+> b) Dimostrare che $AB$ è tangente alla circonferenza avente per diametro $O_1 O_2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n2_f3#q05|src_obm_2004_n2_f3__Q05]]
 
 
 
@@ -198,8 +235,15 @@ Gioco a due giocatori: scegliere alternativamente un numero intero superiore al 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*10×10 tabella con numeri 09 ogni 10 volte; più grandi numeri distinti garantiti in una riga*
+*Tabella 10×10 con le cifre da 0 a 9, ciascuna 10 volte; il maggior numero garantito di cifre distinte in una riga*
 
-> Considerate tutti i modi di riempire le celle di una tabella $10 \times 10$ con esattamente dieci dei cifre $0, 1, 2, \ldots, 9$ (per cui ogni cifra appare esattamente $10$ volte in tutta la tabella).
-> 
-> Trova il più grande intero $n$ con la proprietà che, in ogni tabella di questo tipo, esiste una riga o una colonna che contiene almeno $n$ cifre distinte.
+> Considera tutti i modi di riempire le celle di una tabella $10 \times 10$ con esattamente dieci occorrenze di ciascuno dei numeri $0, 1, 2, \ldots, 9$ (cosicché ciascun numero compaia esattamente $10$ volte nell'intera tabella).
+>
+> Trovare il più grande intero $n$ con la proprietà che, in ogni tabella di questo tipo, esista almeno una riga o almeno una colonna che contenga almeno $n$ cifre distinte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n2_f3#q06|src_obm_2004_n2_f3__Q06]]

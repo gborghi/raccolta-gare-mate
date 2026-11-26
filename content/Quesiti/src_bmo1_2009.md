@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i percorsi in zigzag su una scacchiera standard 8x8*
+*Quanti percorsi a zig-zag di otto caselle bianche su una scacchiera*
 
-> Si consideri una scacchiera standard $8 \times 8$ costituita da 64 piccoli quadrati colorati nel solito modello, quindi 32 in nero e 32 in bianco. Un percorso in zigzag attraverso il bordo è una raccolta di otto quadrati bianchi, uno in ogni riga, che si incontrano negli angoli. Quanti percorsi zigzag ci sono?
+> Si consideri una scacchiera ordinaria $8 \times 8$, di 64 caselle colorate nel modo usuale, così 32 nere e 32 bianche. Un percorso a zig-zag attraverso la scacchiera è un insieme di otto caselle bianche, una per riga, che si toccano per gli angoli. Quanti percorsi a zig-zag ci sono?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2009#q01|src_bmo1_2009__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i valori reali di x, y, z che soddisfano un sistema*
+*Tutti i valori di $x$, $y$ e $z$ che soddisfano le tre equazioni*
 
-> Trova tutti i valori di $x$, $y$ e $z$ in modo tale che $$(x+1)z = 12, \quad (y+1)z = 4 \quad \text{and} \quad (z+1)x = 4.$$
+> Trovare tutti i valori di $x$, $y$ e $z$ tali che
+> $$(x+1)z = 12, \quad (y+1)z = 4 \quad \text{and} \quad (z+1)x = 4.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2009#q02|src_bmo1_2009__Q02]]
 
 
 
@@ -80,9 +95,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Parallelogramma, circolo incontra CP a Q; prova PQ=ACff angolo=60*
+*$PQ = AC$ se e solo se $\angle BAC = 60^\circ$*
 
-> Il $ABPC$ deve essere un parallelo tale che $\angle ABC$ sia un angolo acuto. Il circoncircolo del triangolo $ABC$ incontra di nuovo la linea $CP$ a $Q$. Prova che $PQ = AC$ se e solo se $\angle BAC = 60^\circ$.
+> Sia $ABPC$ un parallelogramma tale che $\angle ABC$ sia un angolo acuto. La circonferenza circoscritta al triangolo $ABC$ seca di nuovo la retta $CP$ in $Q$. Dimostrare che $PQ = AC$ se e solo se $\angle BAC = 60^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2009#q03|src_bmo1_2009__Q03]]
 
 
 
@@ -105,9 +127,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i numeri interi positivi n dove 2008 divide n^2+2008 e 2009 divide n^2+2009*
+*Interi positivi $n$ tali che $2008$ divide $n^2 + 2008$ e $2009$ divide $n^2 + 2009$*
 
-> Trova tutti gli integri positivi $n$ in modo tale che $2008$ divida $n^2 + 2008$ e $2009$ divida $n^2 + 2009$.
+> Trovare tutti gli interi positivi $n$ tali che $2008$ divida $n^2 + 2008$ e $2009$ divida $n^2 + 2009$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2009#q04|src_bmo1_2009__Q04]]
 
 
 
@@ -133,9 +162,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le sequenze che soddisfano una ricorrenza con un termine razionale periodico*
+*Successioni razionali con $a_{n+1} = 2a_n^2 - 1$ e $a_i = a_j$*
 
-> Determinare le sequenze $a_1, a_2, a_3, \ldots$ che soddisfano tutte le seguenti condizioni: a) $a_{n+1} = 2a_n^2 - 1$ per ogni numero intero $n \geq 0$; b) $a_0$ è un numero razionale; c) $a_i = a_j$ per alcuni $i \neq j$.
+> Determinare le successioni $a_1, a_2, a_3, \ldots$ che soddisfano tutte le condizioni seguenti:
+> a) $a_{n+1} = 2a_n^2 - 1$ per ogni intero $n \geq 0$;
+> b) $a_0$ è un numero razionale;
+> c) $a_i = a_j$ per qualche $i \neq j$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2009#q05|src_bmo1_2009__Q05]]
 
 
 
@@ -159,6 +198,14 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che la somma cosina ponderata dei lati a cubo è inferiore a abc in triangolo obtuso*
+*Dimostrare che $a^3 \cos A + b^3 \cos B + c^3 \cos C < abc$*
 
-> Il triangolo angolato ottuso $ABC$ ha lati di lunghezza $a$, $b$ e $c$ opposti rispettivamente agli angoli $\angle A$, $\angle B$ e $\angle C$. Provare che $$a^3 \cos A + b^3 \cos B + c^3 \cos C < abc.$$
+> Il triangolo ottusangolo $ABC$ ha lati di lunghezza $a$, $b$ e $c$ opposti rispettivamente agli angoli $\angle A$, $\angle B$ e $\angle C$. Dimostrare che
+> $$a^3 \cos A + b^3 \cos B + c^3 \cos C < abc.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2009#q06|src_bmo1_2009__Q06]]

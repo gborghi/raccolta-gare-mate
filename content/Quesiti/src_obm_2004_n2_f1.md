@@ -31,13 +31,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Valore di 2^6+2^6+2^6+2^6-4^4
+*Valore di 2^6+2^6+2^6+2^6-4^4*
 
-> Che cos' è $2^6 + 2^6 + 2^6 + 2^6 - 4^4$?
-> 
+> Che cos'è $2^6 + 2^6 + 2^6 + 2^6 - 4^4$?
+>
 > **A)** $0$ $\quad$ **B)** $2$ $\quad$ **C)** $4$ $\quad$ **D)** $4^2$ $\quad$ **E)** $4^4$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n2_f1#q01|src_obm_2004_n2_f1__Q01]]
 
 
 
@@ -64,15 +68,19 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valore del rapporto di due espressioni consecutive di somma integrale*
+*Valore del rapporto tra due espressioni della somma di interi consecutivi*
 
-> Se $m$ e $n$ sono integri non negativi con $m < n$, definiamo $m \nabla n$ come la somma degli integri tra $m$ e $n$, compresi $m$ e $n$. Per esempio, $5 \nabla 8 = 5 + 6 + 7 + 8 = 26$.
-> 
+> Se $m$ e $n$ sono interi non negativi con $m < n$, definiamo $m \nabla n$ come la somma degli interi compresi tra $m$ e $n$, inclusi $m$ e $n$. Ad esempio, $5 \nabla 8 = 5 + 6 + 7 + 8 = 26$.
+>
 > Il valore numerico di $\dfrac{22 \nabla 26}{4 \nabla 6}$ è:
-> 
+>
 > **A)** $4$ $\quad$ **B)** $6$ $\quad$ **C)** $8$ $\quad$ **D)** $10$ $\quad$ **E)** $12$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n2_f1#q02|src_obm_2004_n2_f1__Q02]]
 
 
 
@@ -99,13 +107,19 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Alto di pile di banconote per salario mensile convertito in cruzados*
+*Altezza della pila di banconote per lo stipendio mensile convertito in cruzados*
 
-> Tra il 1986 e il 1989, un'epoca in cui la maggior parte di voi non era ancora nata, la moneta brasiliana era il cruzado (Cz\$). Con una piccola inflazione mensile, i prezzi aumentavano un po' ogni mese: i prezzi venivano dati in cruzados, poi in cruzeiros, poi in cruzeiros reais e infine in reais. La conversione tra cruzado e real è: $$1 \text{ real} = 2{.}750{.}000{.}000 \text{ cruzados}$$ Immaginate che il valore della moneta reale non fosse mai cambiato e che Jo~ao, che oggi guadagna 640 reais al mese, avesse ricevuto lo stesso stipendio in banconote di 1 cruzado. Se 100 nuove banconote hanno un grosso di 1,5 cm, quanto sarebbe l'altezza dell'accumulo di stipendio di Joao in banconote di 1 cruzado?
-> 
+> Tra il 1986 e il 1989, un'epoca in cui la maggior parte di voi non era ancora nata, la valuta del Brasile era il cruzado (Cz\$). Con una lieve inflazione mensile, i prezzi aumentavano un po' ogni mese: i prezzi venivano espressi in cruzados, poi in cruzeiros, poi in cruzeiros reais e infine in reais. La conversione tra cruzado e real è:
+> $$1 \text{ real} = 2{.}750{.}000{.}000 \text{ cruzados}$$
+> Immagina che il valore della moneta reale non fosse mai cambiato e che João, il quale oggi guadagna 640 reais al mese, avesse ricevuto lo stesso stipendio in banconote da 1 cruzado. Se 100 nuove banconote hanno uno spessore di 1,5 cm, quale sarebbe l'altezza della pila dello stipendio di João in banconote da 1 cruzado?
+>
 > **A)** $26.4$ km $\quad$ **B)** $264$ km $\quad$ **C)** $26400$ km $\quad$ **D)** $264000$ km $\quad$ **E)** $2640000$ km
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n2_f1#q03|src_obm_2004_n2_f1__Q03]]
 
 
 
@@ -133,15 +147,20 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rolle minime per costruire una striscia di 32 esagoni*
+*Bastoncini minimi per costruire una striscia di 32 esagoni*
 
-> La disposizione di sotto, composta da 32 esagoni, era assemblata con bastone, tutte di lunghezza uguale al lato dell'esagono. Quante bastone, almeno, sono necessarie per assemblare l'organizzazione?
-> 
+> La struttura qui sotto, composta da 32 esagoni, è stata assemblata con delle aste, tutte della stessa lunghezza del lato dell'esagono. Quante aste, almeno, sono necessarie per assemblare la struttura?
+>
 > **A)** $113$ $\quad$ **B)** $123$ $\quad$ **C)** $122$ $\quad$ **D)** $132$ $\quad$ **E)** $152$
 
 ![[src_obm_2004_n2_f1__q04.png]]
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n2_f1#q04|src_obm_2004_n2_f1__Q04]]
 
 
 
@@ -167,13 +186,18 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unità di numero di prodotto dei numeri odd da 1 a 99*
+*Cifra delle unità del prodotto dei numeri dispari da 1 a 99*
 
-> La cifra di unità del numero $1 \times 3 \times 5 \times \cdots \times 97 \times 99$ è:
-> 
+> La cifra delle unità del numero $1 \times 3 \times 5 \times \cdots \times 97 \times 99$ è:
+>
 > **A)** $1$ $\quad$ **B)** $3$ $\quad$ **C)** $5$ $\quad$ **D)** $7$ $\quad$ **E)** $9$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n2_f1#q05|src_obm_2004_n2_f1__Q05]]
 
 
 
@@ -200,13 +224,20 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Figura ottenuta girando un pentagono regolare di 252 gradi nel senso orario*
+*Figura ottenuta ruotando un pentagono regolare di 252 gradi in senso orario*
 
-> Se ruotiamo il pentagono regolare, accanto, da un angolo di $252^\circ$, intorno al suo centro, nella direzione in senso orario, quale cifra si otterrà?
-> 
-> **A) ** $\quad$ **B) ** $\quad$ **C) ** $\quad$ **D) ** $\quad$ **E) ** (le opzioni mostrano pentagoni regolari ombrati in orientamenti diversi)
+> Se ruotiamo il pentagono regolare accanto di un angolo di $252^\circ$ attorno al suo centro, in senso orario, quale figura si otterrà?
+>
+> **A)** $\quad$ **B)** $\quad$ **C)** $\quad$ **D)** $\quad$ **E)** (le opzioni mostrano pentagoni regolari ombreggiati in orientamenti diversi)
 
 ![[src_obm_2004_n2_f1__q06.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n2_f1#q06|src_obm_2004_n2_f1__Q06]]
 
 
 
@@ -231,13 +262,17 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Differenza p-q tra probabilità di caramelle di sapore uguale e di sapore diverso*
+*Differenza p-q tra le probabilità di caramelle dello stesso sapore e di caramelle di sapore diverso*
 
-> Ci sono 1002 caramelle di banana e 1002 caramelle di mele in una scatola. Lara prende, senza vedere, due caramelle dalla scatola. La probabilità che le due caramelle abbiano lo stesso sapore è $p$ e la probabilità che le caramelle abbiano sapori diversi è $q$ Qual è la differenza tra $p$ e $q$?
-> 
+> In una scatola ci sono 1002 caramelle alla banana e 1002 caramelle alla mela. Lara prende due caramelle dalla scatola senza guardare. Sia $p$ la probabilità che le due caramelle siano dello stesso gusto e $q$ la probabilità che le caramelle siano di gusti diversi. Qual è la differenza tra $p$ e $q$?
+>
 > **A)** $0$ $\quad$ **B)** $\dfrac{1}{2004}$ $\quad$ **C)** $\dfrac{1}{2003}$ $\quad$ **D)** $\dfrac{2}{2003}$ $\quad$ **E)** $\dfrac{1}{1001}$
 
-**Risposta:** C
+**Topic:** [[topic_probabilita|Probabilità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n2_f1#q07|src_obm_2004_n2_f1__Q07]]
 
 
 
@@ -265,11 +300,16 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 
 *Area di un rettangolo con perimetro 100 e diagonale x*
 
-> Il perimetro di un rettangolo è di 100 e le sue misure diagonali sono $x$. Qual è l'area del rettangolo?
-> 
+> Il perimetro di un rettangolo è 100 e la sua diagonale misura $x$. Qual è l'area del rettangolo?
+>
 > **A)** $625 - x^2$ $\quad$ **B)** $625 - \dfrac{x^2}{2}$ $\quad$ **C)** $1250 - \dfrac{x^2}{2}$ $\quad$ **D)** $250 - \dfrac{x^2}{2}$ $\quad$ **E)** $2500 - \dfrac{x^2}{2}$
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n2_f1#q08|src_obm_2004_n2_f1__Q08]]
 
 
 
@@ -295,13 +335,18 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unita' mancante di una somma a 4 cifre di cinque numeri consecutivi*
+*Cifra delle unità mancante della somma di cinque numeri consecutivi, che è un numero di quattro cifre*
 
-> Aggiungendo cinque numeri consecutivi sulla sua calcolatrice, Esmeralda trovò un numero a 4 cifre: $2\,0\,0\,*$. L'ultima cifra non è chiara, ma lei sa che non è zero. Questa cifra può essere solo:
-> 
+> Aggiungendo cinque numeri consecutivi sulla sua calcolatrice, Esmeralda ha ottenuto un numero di quattro cifre: $2\,0\,0\,*$. L'ultima cifra non è chiara, ma lei sa che non è zero. Questa cifra può essere soltanto:
+>
 > **A)** $5$ $\quad$ **B)** $4$ $\quad$ **C)** $3$ $\quad$ **D)** $2$ $\quad$ **E)** $9$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n2_f1#q09|src_obm_2004_n2_f1__Q09]]
 
 
 
@@ -327,13 +372,18 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri interi positivi m che rendono 2004/(m^2-2) un intero positivo*
+*Conta gli interi positivi m tali che 2004/(m^2-2) sia un intero positivo*
 
-> Per quanti integri positivi $m$ il numero $\dfrac{2004}{m^2 - 2}$ è un intero positivo?
-> 
-> **A) ** uno $\quad$ **B) ** due $\quad$ **C) ** tre $\quad$ **D) ** quattro $\quad$ **E) ** più di quattro
+> Per quanti interi positivi $m$ il numero $\dfrac{2004}{m^2 - 2}$ è un intero positivo?
+>
+> **A)** uno $\quad$ **B)** due $\quad$ **C)** tre $\quad$ **D)** quattro $\quad$ **E)** più di quattro
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n2_f1#q10|src_obm_2004_n2_f1__Q10]]
 
 
 
@@ -359,13 +409,18 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta di x^2+6xy+y^2 data x+y=8 e xy=15*
+*Valore di x^2+6xy+y^2 sapendo che x+y=8 e xy=15*
 
 > Se $x + y = 8$ e $xy = 15$, qual è il valore di $x^2 + 6xy + y^2$?
-> 
+>
 > **A)** $64$ $\quad$ **B)** $109$ $\quad$ **C)** $120$ $\quad$ **D)** $124$ $\quad$ **E)** $154$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n2_f1#q11|src_obm_2004_n2_f1__Q11]]
 
 
 
@@ -392,13 +447,20 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Distanza totale percorsa da un raggio di luce che riflette tra due specchi a 30 gradi*
+*Distanza totale percorsa da un raggio di luce che si riflette tra due specchi con un angolo di 30 gradi*
 
-> Due specchi formano un angolo di $30^\circ$ al punto $V$. Un raggio di luce, partendo da un punto $S$, parallelo a uno degli specchi, colpisce l'altro specchio al punto $A$, come mostra la figura. Dopo un certo numero di riflessi, il raggio torna a $S$. Se $SA = AV = 1$ m, quale distanza, in metri, è percorsa dal raggio di luce?
-> 
+> Due specchi formano un angolo di $30^\circ$ nel punto $V$. Un raggio di luce, partendo da un punto $S$ e parallelo a uno dei specchi, incide sull'altro specchio nel punto $A$, come mostra la figura. Dopo un certo numero di riflessioni, il raggio ritorna in $S$. Se $SA = AV = 1$ m, qual è la distanza, in metri, percorsa dal raggio di luce?
+>
 > **A)** $2$ $\quad$ **B)** $2 + \sqrt{3}$ $\quad$ **C)** $1 + \sqrt{2} + \sqrt{3}$ $\quad$ **D)** $\sqrt{2}\,(1 + \sqrt{3})$ $\quad$ **E)** $5\sqrt{3}$
 
 ![[src_obm_2004_n2_f1__q12.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n2_f1#q12|src_obm_2004_n2_f1__Q12]]
 
 
 
@@ -425,13 +487,20 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca angolo x in una figura a zigzag/stella con angoli segnati*
+*Trovare l'angolo x in una figura a zigzag/stellare con angoli indicati*
 
-> Nella figura, quanto è $x$?
-> 
+> Nella figura, quanto vale $x$?
+>
 > **A)** $6^\circ$ $\quad$ **B)** $12^\circ$ $\quad$ **C)** $18^\circ$ $\quad$ **D)** $20^\circ$ $\quad$ **E)** $24^\circ$
 
 ![[src_obm_2004_n2_f1__q13.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n2_f1#q13|src_obm_2004_n2_f1__Q13]]
 
 
 
@@ -457,13 +526,18 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Soluzione 2(2^{2x})=4^x+64 per x*
+*Risolvi 2(2^{2x})=4^x+64 rispetto a x*
 
 > Se $2(2^{2x}) = 4^x + 64$, allora $x$ è uguale a:
-> 
+>
 > **A)** $-2$ $\quad$ **B)** $-1$ $\quad$ **C)** $1$ $\quad$ **D)** $2$ $\quad$ **E)** $3$
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n2_f1#q14|src_obm_2004_n2_f1__Q14]]
 
 
 
@@ -489,13 +563,18 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa massima della somma dei numeri a tre cifre*
+*Somma massima delle cifre della somma delle cifre di un numero di tre cifre*
 
-> Qual è il valore più grande della somma delle cifre della somma delle cifre di un numero a tre cifre?
-> 
+> Qual è il valore massimo della somma delle cifre della somma delle cifre di un numero di tre cifre?
+>
 > **A)** $7$ $\quad$ **B)** $8$ $\quad$ **C)** $9$ $\quad$ **D)** $10$ $\quad$ **E)** $11$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n2_f1#q15|src_obm_2004_n2_f1__Q15]]
 
 
 
@@ -522,13 +601,20 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quale dei cinque piani di giardino ha la lunghezza totale della recinzione più grande*
+*Quale dei cinque progetti di giardino ha la lunghezza totale del recinto maggiore?*
 
-> Un architetto presenta al suo cliente cinque piani diversi per il progetto di arredamento di un terreno rettangolare, dove le linee solide rappresentano la recinzione che deve essere costruita per proteggere i fiori. Le regioni ombrate sono le piante di fiori rettangolari e il tipo di recinzione è lo stesso in tutti i casi. In quale di questi progetti sarà più costoso costruire la recinzione?
-> 
-> **A) ** $\quad$ **B) ** $\quad$ **C) ** $\quad$ **D) ** $\quad$ **E) ** (le opzioni mostrano una trama rettangolare con varie regioni rettangolari ombreggiate e linee di recinzione)
+> Un architetto presenta al proprio cliente cinque progetti diversi per la sistemazione a verde di un lotto rettangolare, in cui le linee continue rappresentano la recinzione che deve essere costruita per proteggere i fiori. Le aree ombreggiate sono le aiuole rettangolari, e il tipo di recinzione è lo stesso in tutti i casi. In quale di questi progetti sarà massimo il costo di costruzione della recinzione?
+>
+> **A)** $\quad$ **B)** $\quad$ **C)** $\quad$ **D)** $\quad$ **E)** (le opzioni mostrano un grafico rettangolare con varie regioni rettangolari ombreggiate e linee di recinzione)
 
 ![[src_obm_2004_n2_f1__q16.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n2_f1#q16|src_obm_2004_n2_f1__Q16]]
 
 
 
@@ -554,13 +640,18 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti di confine massimi di un quadrato di 10 cm a distanza 6 da un punto interno*
+*Punti di bordo massimi di un quadrato di 10 cm di lato, a distanza 6 da un punto interno*
 
-> Un punto $P$ appartiene all'interno di un quadrato con lato di 10 cm. Quanti punti al confine del quadrato possono essere a una distanza di 6 cm dal punto $P$?
-> 
+> Un punto $P$ appartiene all'interno di un quadrato con lato di 10 cm. Al massimo, quanti punti sul bordo del quadrato possono trovarsi a una distanza di 6 cm dal punto $P$?
+>
 > **A)** $1$ $\quad$ **B)** $2$ $\quad$ **C)** $4$ $\quad$ **D)** $6$ $\quad$ **E)** $8$
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n2_f1#q17|src_obm_2004_n2_f1__Q17]]
 
 
 
@@ -587,13 +678,20 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Che due pezzi di carta si pieghano in un cubo*
+*Quali due pezzi di carta, una volta piegati, formano un cubo?*
 
-> Si può costruire un cubo, a partire da due pezzi di carta presentati in una delle alternative di seguito, solo piegandosi lungo le linee scartate e unendosi lungo le linee solide. Questi due pezzi sono:
-> 
-> **A) ** $\quad$ **B) ** $\quad$ **C) ** $\quad$ **D) ** $\quad$ **E) ** (le opzioni mostrano coppie di pezzi di carta piatta)
+> A partire da due dei pezzi di carta presentati in una delle alternative qui sotto, si può costruire un cubo solo piegando lungo le linee tratteggiate e unendo lungo le linee continue. Questi due pezzi sono:
+>
+> **A)** $\quad$ **B)** $\quad$ **C)** $\quad$ **D)** $\quad$ **E)** (le opzioni mostrano coppie di pezzi di carta piatti)
 
 ![[src_obm_2004_n2_f1__q18.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n2_f1#q18|src_obm_2004_n2_f1__Q18]]
 
 
 
@@ -618,13 +716,17 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca PQ nel triangolo rettangolo dove l'altitudine PF dà QF=9, RF=5, PR=13*
+*Trovare PQ nel triangolo rettangolo in cui l'altezza PF determina QF=9, RF=5, PR=13*
 
-> Nel triangolo $PQR$, l'altitudine $PF$ divide il lato $QR$ in due segmenti di misura $QF = 9$ e $RF = 5$. Se $PR = 13$, qual è la misura di $PQ$?
-> 
+> Nel triangolo $PQR$, l'altezza $PF$ divide il lato $QR$ in due segmenti di misura $QF = 9$ e $RF = 5$. Se $PR = 13$, qual è la misura di $PQ$?
+>
 > **A)** $5$ $\quad$ **B)** $10$ $\quad$ **C)** $15$ $\quad$ **D)** $20$ $\quad$ **E)** $25$
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n2_f1#q19|src_obm_2004_n2_f1__Q19]]
 
 
 
@@ -656,15 +758,24 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Deduzione logica: quale scatola contiene la moneta da indizi di ordine*
+*Deduzione logica: quale scatola contiene la moneta ricavata dagli indizi dell'ordinamento?*
 
-> Su un tavolo ci sono tre scatole e tre oggetti, ciascuno in una scatola diversa: una moneta, un grappolo e un cancellatore. È noto che: - La scatola verde è a sinistra della scatola blu; - La moneta è a sinistra del cancelliere; - La scatola rossa è a destra del staple; - La cancelliera è a destra della scatola rossa.
-> 
-> In quale scatola c'è la moneta?
-> 
-> **A) ** Nella scatola rossa. $\quad$ **B) ** Nella scatola verde. $\quad$ **C) ** Nella casella blu. $\quad$ **D) ** Le informazioni fornite non sono sufficienti per dare una risposta. $\quad$ **E) ** Le informazioni fornite sono contraddittorie.
+> Su un tavolo ci sono tre scatole e tre oggetti, ciascuno in una scatola diversa: una moneta, una graffetta e una gomma. Si sa che:
+> - Il riquadro verde è a sinistra del riquadro blu;
+> - La moneta è a sinistra della gomma;
+> - Il riquadro rosso è a destra della graffetta;
+> - La gomma è a destra della scatola rossa.
+>
+> In quale scatola si trova la moneta?
+>
+> **A)** Nella casella rossa. $\quad$ **B)** Nella casella verde. $\quad$ **C)** Nella casella blu. $\quad$ **D)** Le informazioni fornite sono insufficienti per fornire una risposta. $\quad$ **E)** Le informazioni fornite sono contraddittorie.
 
-**Risposta:** B
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n2_f1#q20|src_obm_2004_n2_f1__Q20]]
 
 
 
@@ -692,15 +803,20 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area della regione evidenziata in quadrato ABCD con due triangoli equilaterali*
+*Area della regione evidenziata nel quadrato ABCD con due triangoli equilateri*
 
-> Nel disegno laterale, il quadrilaterale $ABCD$ è un quadrato di lato di 3 cm e i triangoli $ABF$ e $AED$ sono entrambi equilaterali. Qual è l'area della regione sottolineata?
-> 
+> Nel disegno accanto, il quadrilatero $ABCD$ è un quadrato di lato 3 cm e i triangoli $ABF$ e $AED$ sono entrambi equilateri. Qual è l'area della regione evidenziata?
+>
 > **A)** $2 \text{ cm}^2$ $\quad$ **B)** $1.5 \text{ cm}^2$ $\quad$ **C)** $3 \text{ cm}^2$ $\quad$ **D)** $4.5 \text{ cm}^2$ $\quad$ **E)** $2.5 \text{ cm}^2$
 
 ![[src_obm_2004_n2_f1__q21.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n2_f1#q21|src_obm_2004_n2_f1__Q21]]
 
 
 
@@ -726,13 +842,18 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'insieme del foglio quadrato tagliato in 41 unità quadrate più un quadrato più grande*
+*Lato di un foglio quadrato tagliato in 41 quadrati unitari più un quadrato più grande*
 
-> Un foglio di carta quadrato è stato tagliato in 42 quadrati più piccoli, di cui uno ha una superficie superiore a $1 \text{ cm}^2$ e gli altri hanno una superficie uguale a $1 \text{ cm}^2$. Qual è la misura del lato del foglio?
-> 
+> Un foglio di carta quadrato è stato tagliato in 42 quadrati più piccoli, uno dei quali ha un'area maggiore di $1 \text{ cm}^2$, mentre gli altri hanno un'area pari a $1 \text{ cm}^2$. Qual è la misura del lato del foglio?
+>
 > **A)** $6$ cm $\quad$ **B)** $12$ cm $\quad$ **C)** $21$ cm $\quad$ **D)** $19$ cm $\quad$ **E)** $20$ cm
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n2_f1#q22|src_obm_2004_n2_f1__Q22]]
 
 
 
@@ -757,13 +878,17 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riduzione percentuale di superficie di una corrispondenza quadrata con 10% in meno di recinzione*
+*Riduzione percentuale dell'area di un recinto quadrato con il 10% di recinto in meno*
 
-> Avevo intenzione di costruire un cortile quadrato, con una certa area, usando una certa quantità di recinzione a filo spinato. Ho scoperto, tuttavia, che ho il 10% in meno di quanto mi aspettassi. Per questo motivo, l'area chiusa sarà:
-> 
-> **A) ** $5\%$ meno $\quad$ ** B) ** $10\%$ meno $\quad$ **C) ** $19\%$ meno $\quad$ **D) ** $20\%$ meno $\quad$ **E) ** $25\%$ meno
+> Avevo previsto di costruire un recinto quadrato, con una certa superficie, utilizzando una certa quantità di rete metallica spinata. Ho scoperto, però, di avere il 10% in meno di rete rispetto a quanto mi aspettavo. Per questo motivo, l'area delimitata sarà:
+>
+> **A)** $5\%$ meno $\quad$ **B)** $10\%$ meno $\quad$ **C)** $19\%$ meno $\quad$ **D)** $20\%$ meno $\quad$ **E)** $25\%$ meno
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n2_f1#q23|src_obm_2004_n2_f1__Q23]]
 
 
 
@@ -789,13 +914,18 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tempo in cui l'assistente si ferma in modo da corrispondere all'uscita del braccialetto dell'artigiano*
+*Il momento in cui l'assistente si ferma per allinearsi all'output del braccialetto dell'artigiano*
 
-> Un artigiano inizia a lavorare alle 8 e produce 6 braccialetti ogni venti minuti; il suo assistente inizia a lavorare un'ora più tardi e produce 8 braccialetti dello stesso tipo ogni mezz'ora. L'artigiano smette di lavorare alle 12h ma avverte il suo assistente che deve continuare a lavorare fino a quando non produce la stessa quantità dell'artigiano. A che ora si fermerà l'assistente?
-> 
-> **A) ** 12h $\quad$ **B) ** 12h30min $\quad$ **C) ** 13h $\quad$ **D) ** 13h30min $\quad$ **E) ** 14h30min
+> Un artigiano inizia a lavorare alle 8 e produce 6 braccialetti ogni venti minuti; il suo assistente inizia a lavorare un'ora dopo e produce 8 braccialetti dello stesso tipo ogni mezz'ora. L'artigiano smette di lavorare alle 12, ma avverte l'assistente che deve continuare a lavorare finché non avrà prodotto la stessa quantità dell'artigiano. A che ora smetterà l'assistente?
+>
+> **A)** 12h $\quad$ **B)** 12h30min $\quad$ **C)** 13h $\quad$ **D)** 13h30min $\quad$ **E)** 14h30min
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n2_f1#q24|src_obm_2004_n2_f1__Q24]]
 
 
 
@@ -821,10 +951,15 @@ Valore di 2^6+2^6+2^6+2^6-4^4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri a sei cifre con due 1' che vengono visualizzati come 2004 quando la chiave 1 è rotta*
+*Conta i numeri di sei cifre con due 1 che, quando il tasto 1 è rotto, vengono visualizzati come 2004*
 
-> Esmeralda, il tipografo, cercò di digitare un numero di sei cifre, ma i due cifre 1 non apparvero (la chiave era difettosa). Quello che è apparso è stato nel 2004. Quanti numeri a sei cifre avrebbe potuto cercare di digitare?
-> 
+> Esmeralda, la dattilografa, provò a digitare un numero di sei cifre, ma le due cifre 1 non comparvero (il tasto era difettoso). Quello che comparve fu 2004. Quanti numeri di sei cifre potrebbe aver provato a digitare?
+>
 > **A)** $4$ $\quad$ **B)** $8$ $\quad$ **C)** $10$ $\quad$ **D)** $15$ $\quad$ **E)** $20$
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n2_f1#q25|src_obm_2004_n2_f1__Q25]]

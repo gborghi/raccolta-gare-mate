@@ -29,9 +29,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC con angolo ACB=120°, bisettore incontra lati, prova KLN equilaterale*
+*Triangolo ABC con angolo ACB=120°, la bisettrice incontra i lati, dimostrare che KLN è equilatero*
 
-> Date un triangolo $ABC$ con $\angle ACB = 120^\circ$. Il punto $L$ è segnato sul lato $\overline{AB}$ in modo che $CL$ sia il bisector di $\angle ACB$. I punti $N$ e $K$ sono segnati rispettivamente sui lati $AC$ e $BC$, in modo che $CN + CK = CL$. Prove che il triangolo $KLN$ è equilaterale.
+> Dato un triangolo $ABC$ con $\angle ACB = 120^\circ$. Il punto $L$ è segnato sul lato $\overline{AB}$ in modo che $CL$ sia la bisettrice di $\angle ACB$. I punti $N$ e $K$ sono segnati sui lati $AC$ e $BC$, rispettivamente, in modo che $CN + CK = CL$. Dimostrare che il triangolo $KLN$ è equilatero.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2023_kvjnv#q01|src_rmo_2023_kvjnv__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Primo p con 2p uguale alla somma dei quadrati di quattro positivi consecutivi, dimostra p-7 divisorio per 36*
+*Primi p tali che 2p sia uguale alla somma dei quadrati di quattro numeri positivi consecutivi; dimostrare che p-7 è divisibile per 36*
 
-> Dato un numero primo $p$ tale che il numero $2p$ sia uguale alla somma dei quadrati di circa quattro numeri interi positivi consecutivi. Prova che $p - 7$ è divisibile per $36$.
+> Dato un numero primo $p$ tale che il numero $2p$ è uguale alla somma dei quadrati di quattro interi positivi consecutivi, dimostrare che $p - 7$ è divisibile per $36$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2023_kvjnv#q02|src_rmo_2023_kvjnv__Q02]]
 
 
 
@@ -81,9 +95,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio con coefficienti reali di grado 2, a,b,c separati in coppia con f(a) = bc; trovare f(a+b+c)*
+*Polinomio di secondo grado a coefficienti reali, numeri reali a, b, c tutti distinti a due a due, con f(a)=bc; trovare f(a+b+c)*
 
-> $f(x)$ sia un polinomio con coefficienti reali di grado 2. Supponiamo che per alcuni numeri reali separati in coppia $a, b, c$ abbiamo $$f(a) = bc; \quad f(b) = ca; \quad f(c) = ab.$$ Determina $f(a + b + c)$ in termini di $a, b, c$.
+> Sia $f(x)$ un polinomio a coefficienti reali di grado 2. Supponiamo che, per alcuni numeri reali $a, b, c$ a due a due distinti, si abbia
+> $$f(a) = bc; \quad f(b) = ca; \quad f(c) = ab.$$
+> Determinare $f(a + b + c)$ in funzione di $a, b, c$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2023_kvjnv#q03|src_rmo_2023_kvjnv__Q03]]
 
 
 
@@ -110,13 +133,20 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Set X di N numeri a quattro cifre dai numeri 1-8, qualsiasi due cifre condividano un numero in X, trovare il numero più piccolo N*
+*Insieme X di N numeri di quattro cifre formati dalle cifre da 1 a 8, in X ogni coppia di cifre condivide un numero; trova il minimo N*
 
-> L'insieme $X$ di numeri a quattro cifre $N$ costituiti dai numeri $1, 2, 3, 4, 5, 6, 7, 8$ soddisfa la seguente condizione:
-> 
-> \textit{per due cifre diverse da $1, 2, 3, 4, 5, 6, 7, 8$ esiste un numero in $X$ che li contiene entrambi.}
-> 
-> Determinare il minimo valore possibile di $N$.
+> L'insieme $X$ di $N$ numeri di quattro cifre formati dalle cifre $1, 2, 3, 4, 5, 6, 7, 8$ soddisfa la seguente condizione:
+>
+> \textit{Per ogni coppia di cifre distinte appartenenti a $1, 2, 3, 4, 5, 6, 7, 8$, esiste un numero in $X$ che contiene entrambe le cifre.}
+>
+> Determinare il valore più piccolo possibile di $N$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2023_kvjnv#q04|src_rmo_2023_kvjnv__Q04]]
 
 
 
@@ -141,9 +171,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I lati di un triangolo a,b,c con espressione T_n, con una condizione di rapporto data trovano tutti i perimetri*
+*Lati del triangolo a, b, c con espressione T_n; data la condizione sul rapporto, trovare tutti i perimetri*
 
-> Le lunghezze laterali $a$, $b$, $c$ di un triangolo $ABC$ sono interi positivi. $$T_n = (a + b + c)^{2n} - (a - b + c)^{2n} - (a + b - c)^{2n} + (a - b - c)^{2n}$$ per qualsiasi numero intero positivo $n$. Se $\dfrac{T_2}{2T_1} = 2023$ e $a > b > c$, determinare tutti i possibili perimetri del triangolo $ABC$.
+> Le lunghezze dei lati $a$, $b$, $c$ di un triangolo $ABC$ sono numeri interi positivi. Sia
+> $$T_n = (a + b + c)^{2n} - (a - b + c)^{2n} - (a + b - c)^{2n} + (a - b - c)^{2n}$$
+> per ogni numero intero positivo $n$. Se $\dfrac{T_2}{2T_1} = 2023$ e $a > b > c$, determina tutti i possibili perimetri del triangolo $ABC$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_telescoping|Telescoping]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2023_kvjnv#q05|src_rmo_2023_kvjnv__Q05]]
 
 
 
@@ -166,6 +205,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale ciclico, diagonali che si incontrano a P, Q su BC con PQ perp AC, dimostrare la linea di collegamento dei circoncentri di APD e BQD parallele ad AD*
+*Quadrilatero ciclico ABCD, le diagonali si incontrano in P, Q su BC con PQ perpendicolare ad AC; dimostrare che la retta che congiunge i centri delle circonferenze circoscritte ad APD e a BQD è parallela ad AD*
 
-> Le diagonali $AC$ e $BD$ di un quadrilaterale ciclico $ABCD$ si incontrano a $P$. Il punto $Q$ è scelto sul segmento $BC$ in modo che $PQ$ sia perpendicolare a $AC$. Prova che la linea che unisce i centri dei circoncircoli dei triangoli $APD$ e $BQD$ è parallela a $AD$.
+> Le diagonali $AC$ e $BD$ di un quadrilatero ciclico $ABCD$ si incontrano in $P$. Il punto $Q$ viene scelto sul segmento $BC$ in modo che $PQ$ sia perpendicolare a $AC$. Dimostrare che la retta che unisce i centri delle circonferenze circoscritte ai triangoli $APD$ e $BQD$ è parallela a $AD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2023_kvjnv#q06|src_rmo_2023_kvjnv__Q06]]

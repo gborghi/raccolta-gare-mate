@@ -33,9 +33,16 @@ level: IMO
 
 *Vettori unitari da O: condizione sulla somma delle lunghezze con parità*
 
-> Il punto $O$ appartiene alla retta $g$. I vettori $\overrightarrow{OP_1}$, $\overrightarrow{OP_2}$, $\ldots$, $\overrightarrow{OP_n}$ sono versori unitari tali che i punti $P_1, P_2, \ldots, P_n$ appartengono tutti a un piano contenente $g$. Si dimostri che se $n$ è dispari, allora
+> Il punto $O$ giace sulla retta $g$. $\overrightarrow{OP_1}$, $\overrightarrow{OP_2}$, $\ldots$, $\overrightarrow{OP_n}$ sono vettori unitari tali che tutti i punti $P_1, P_2, \ldots, P_n$ giacciono in un piano che contiene $g$. Dimostrare che, se $n$ è dispari,
 > $$|\overrightarrow{OP_1} + \overrightarrow{OP_2} + \cdots + \overrightarrow{OP_n}| \geq 1.$$
-> dove $|\overrightarrow{OM}|$ indica la lunghezza del vettore $\overrightarrow{OM}$.
+> Qui $|\overrightarrow{OM}|$ denota la lunghezza del vettore $\overrightarrow{OM}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1973#q01|src_imho_1973__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Insieme finito M con la proprietà delle rette dei punti medi parallele*
+*Insieme finito M con la proprietà delle rette mediane parallele*
 
-> Si dimostri che esiste o non esiste un insieme finito $M$ di punti nello spazio, non tutti complanari, tale che, per ogni coppia di punti $A$ e $B$ appartenenti a $M$, si possano scegliere due altri punti $C$ e $D$ appartenenti a $M$ in modo che le rette $AB$ e $CD$ siano parallele e non coincidenti.
+> Determinare se esista o meno un insieme finito $M$ di punti nello spazio non complanari tale che, per qualsiasi coppia di punti $A$ e $B$ di $M$, si possano scegliere due altri punti $C$ e $D$ di $M$ in modo che le rette $AB$ e $CD$ siano parallele e non coincidenti.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1973#q02|src_imho_1973__Q02]]
 
 
 
@@ -85,11 +99,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Siano a,b numeri reali: se l'equazione di quarto grado ha almeno una radice reale, determinare il valore minimo*
+*Reali a,b: l'equazione di quarto grado ha almeno una radice reale; trova il valore minimo*
 
-> Siano $a$ e $b$ numeri reali per i quali l'equazione
+> Siano $a$ e $b$ numeri reali tali che l'equazione
 > $$x^4 + ax^3 + bx^2 + ax + 1 = 0$$
-> ha almeno una soluzione reale. Per tutte tali coppie $(a, b)$, determinare il valore minimo di $b$.
+> abbia almeno una soluzione reale. Per tutte le coppie $(a, b)$ di questo tipo, determina il valore minimo di $b$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1973#q03|src_imho_1973__Q03]]
 
 
 
@@ -112,9 +133,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un soldato trova il cammino di minima lunghezza attraverso un triangolo equilatero*
+*Un soldato trova il percorso di minima distanza all'interno di un triangolo equilatero*
 
-> Un soldato deve controllare la presenza di mine in una regione di forma triangolare equilatera. Il raggio d'azione del suo rilevatore è pari alla metà dell'altezza del triangolo. Il soldato parte da un vertice del triangolo. Quale percorso deve seguire affinché il cammino compiuto sia il più breve possibile e comunque riesca nel suo compito?
+> Un soldato deve verificare la presenza di mine in una regione a forma di triangolo equilatero. Il raggio d'azione del suo rilevatore è pari alla metà dell'altezza del triangolo. Il soldato parte da un vertice del triangolo. Quale percorso deve seguire per percorrere la distanza minima possibile e comunque portare a termine la sua missione?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1973#q04|src_imho_1973__Q04]]
 
 
 
@@ -147,19 +175,26 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le funzioni del tipo f(x) = ax + b sono chiuse rispetto alla composizione e all'inversa*
+*Le funzioni della forma f(x)=ax+b sono chiuse rispetto alla composizione e all'inversa*
 
-> $G$ è un insieme di funzioni non costanti della variabile reale $x$ del tipo
+> $G$ è un insieme di funzioni non costanti della variabile reale $x$ della forma
 > $$f(x) = ax + b,\quad a \text{ and } b \text{ are real numbers,}$$
 > e $G$ ha le seguenti proprietà:
-> 
+>
 > (a) Se $f$ e $g$ appartengono a $G$, allora $g \circ f$ appartiene a $G$; qui $(g \circ f)(x) = g[f(x)]$.
-> 
+>
 > (b) Se $f$ appartiene a $G$, allora il suo inverso $f^{-1}$ appartiene a $G$; qui l'inverso di $f(x) = ax + b$ è $f^{-1}(x) = (x - b)/a$.
-> 
+>
 > (c) Per ogni $f$ in $G$, esiste un numero reale $x_f$ tale che $f(x_f) = x_f$.
-> 
-> Si dimostri che esiste un numero reale $k$ tale che $f(k) = k$ per ogni $f$ appartenente a $G$.
+>
+> Dimostrare che esiste un numero reale $k$ tale che $f(k) = k$ per tutti gli $f$ in $G$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1973#q05|src_imho_1973__Q05]]
 
 
 
@@ -188,12 +223,19 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Costruire n numeri b_k soddisfacenti limiti relativi a dati a_k e q*
+*Costruire n numeri b_k che soddisfino i vincoli relativi ai dati a_k e q*
 
-> Siano $a_1, a_2, \ldots, a_n$ $n$ numeri positivi e sia $q$ un numero reale dato tale che $0 < q < 1$. Determinare $n$ numeri $b_1, b_2, \ldots, b_n$ per cui
-> 
+> Siano $a_1, a_2, \ldots, a_n$ $n$ numeri positivi, e sia $q$ un dato numero reale tale che $0 < q < 1$. Determinare $n$ numeri $b_1, b_2, \ldots, b_n$ per i quali
+>
 > (a) $a_k < b_k$ per $k = 1, 2, \cdots, n$,
-> 
+>
 > (b) $q < \dfrac{b_{k+1}}{b_k} < \dfrac{1}{q}$ per $k = 1, 2, \ldots, n-1$,
-> 
+>
 > (c) $b_1 + b_2 + \cdots + b_n < \dfrac{1+q}{1-q}(a_1 + a_2 + \cdots + a_n)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|method_casework]], [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1973#q06|src_imho_1973__Q06]]

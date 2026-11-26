@@ -29,9 +29,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti gli enti n che rendono un polinomio di grado-4 un quadrato perfetto*
+*Trovare tutti gli interi n per cui un polinomio di grado 4 è un quadrato perfetto*
 
-> Trova tutti gli enti $n$ in modo tale che $n^4 - 6n^3 + 11n^2 + 3n + 31$ sia un quadrato perfetto.
+> Trovare tutti gli interi $n$ tali che $n^4 - 6n^3 + 11n^2 + 3n + 31$ sia un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2004#q01|src_cn_cwmo_2004__Q01]]
 
 
 
@@ -55,11 +62,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le k in modo che una squadrata disuguaglianza quadrata a 4 variabili si mantenga su [-1+∞)*
+*Trovare tutti i k tali che una disequazione quadratica in 4 variabili valga su [-1,+∞)*
 
-> Trovare tutti i numeri reali $k$ in modo tale che l'ineguaglianza $a^2 + b^2 + c^2 + d^2 + 1 \ge k(a + b + c + d)$ sia valida per qualsiasi $a, b, c, d \in [-1, +\infty)$.
+> Trovare tutti i numeri reali $k$ tali che la disuguaglianza $a^2 + b^2 + c^2 + d^2 + 1 \ge k(a + b + c + d)$ valga per ogni $a, b, c, d \in [-1, +\infty)$.
 
-**Risposta:** $k \le \dfrac{3}{4}$
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2004#q03|src_cn_cwmo_2004__Q03]]
 
 
 
@@ -82,9 +94,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i c non negativi con d(n) + p(n) = n+c per qualche intero positivo n*
+*Trovare tutti i c non negativi tali che d(n)+p(n)=n+c per qualche intero positivo n*
 
-> Che $n \in \mathbb{N}$ (l'insieme di interi positivi) e $d(n)$ siano il numero dei divisori positivi di $n$. Successivamente, $p(n)$ indica il numero di interi nell'intervallo chiuso $[1, n]$ che sono co-prime con $n$. Trova tutti gli integri non negativi $c$ in modo tale che esista $n \in \mathbb{N}$ soddisfacente $d(n) + p(n) = n + c$.
+> Sia $n \in \mathbb{N}$ (l'insieme degli interi positivi), e sia $d(n)$ il numero di divisori positivi di $n$. Inoltre, $p(n)$ denota il numero di interi nell'intervallo chiuso $[1, n]$ che sono coprimi con $n$. Trovare tutti gli interi non negativi $c$ tali che esista $n \in \mathbb{N}$ che soddisfi $d(n) + p(n) = n + c$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2004#q04|src_cn_cwmo_2004__Q04]]
 
 
 
@@ -107,9 +126,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova a_{2004} per la ricorrenza a_{n+2}=(a_n+1)/a_{n+1} con a_1=a_2=1*
+*Trovare a_{2004} per la relazione di ricorrenza a_{n+2}=(a_n+1)/a_{n+1} con a_1=a_2=1*
 
-> La sequenza $\{a_n\}$ soddisfa $a_1 = a_2 = 1$ e $a_{n+2} = \dfrac{a_n + 1}{a_{n+1}}$, $n = 1, 2, \ldots$. Trova $a_{2004}$.
+> La sequenza $\{a_n\}$ soddisfa $a_1 = a_2 = 1$ e $a_{n+2} = \dfrac{a_n + 1}{a_{n+1}}$, $n = 1, 2, \ldots$. Trovare $a_{2004}$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2004#q05|src_cn_cwmo_2004__Q05]]
 
 
 
@@ -132,9 +158,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine la parità di buone coppie S in una scacchiera a 2 colori ×n*
+*Determinare la parità dei buoni coppie S in una scacchiera m×n a due colori*
 
-> Tutte le griglie di una scacchiera $m \times n$ ($m \ge 3$, $n \ge 3$) sono di colore rosso o blu. Due griglie adiacenti (con un lato comune) sono chiamate buone coppie se sono di colori diversi. Supponiamo che ci siano $S$ buone coppie, spiegate come determinare se $S$ è pari o pari. Il $S$ dipende da determinate reti di colore specifiche?
+> Tutte le caselle di una scacchiera $m \times n$ ($m \ge 3$, $n \ge 3$) sono colorate di rosso o di blu. Due caselle adiacenti (che condividono un lato) formano una coppia buona se hanno colori diversi. Supponiamo che ci siano $S$ coppie buone; spiega come determinare se $S$ è dispari o pari. $S$ dipende da alcune caselle di colore specifico?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cwmo_2004#q06|src_cn_cwmo_2004__Q06]]
 
 
 
@@ -159,8 +192,15 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova 2 ((AF+BD+CE) = l se P si trova sulla linea incenter-circumcenter in triangolo acuto*
+*2(AF+BD+CE)=l se e solo se P giace sulla retta che congiunge incentro e circocentro in un triangolo acutangolo*
 
-> $l$ è il perimetro di un triangolo acuto $\triangle ABC$ non equilaterale. $P$ è un punto variabile all'interno di $\triangle ABC$, e $D$, $E$ e $F$ sono le proiezioni di $P$ su $BC$, $CA$ e $AB$ rispettivamente. Prove che $2(AF + BD + CE) = l$ se e solo se $P$ è collineare con l'incentro e il circoncentro di $\triangle ABC$.
+> Sia $l$ il perimetro di un triangolo acuto $\triangle ABC$ che non è equilatero. $P$ è un punto variabile all'interno di $\triangle ABC$, e $D$, $E$ e $F$ sono le proiezioni di $P$ su $BC$, $CA$ e $AB$ rispettivamente. Dimostrare che $2(AF + BD + CE) = l$ se e solo se $P$ è allineato con l'incentro e il circocentro di $\triangle ABC$.
 
 ![[src_cn_cwmo_2004__q07.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2004#q07|src_cn_cwmo_2004__Q07]]

@@ -38,9 +38,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum grey mice with group constraint*
+*The greatest number of grey baby mice Giuseppe can have*
 
-> Joseph has 100 mice each of which is either white or gray. However you choose a group of seven mice, at least four are white. What is the maximum number of gray mice Joseph can have?
+> Giuseppe has 100 baby mice, each of which is either white or grey. However one chooses a group of seven baby mice, at least four are white. What is the greatest number of grey baby mice Giuseppe can have?
 >
 > - **(A)** 1
 > - **(B)** 3
@@ -48,7 +48,11 @@ level: kangourou
 > - **(D)** 93
 > - **(E)** 99.
 
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_student#q01|src_kangourou_2001_student__Q01]]
 
 
 
@@ -78,17 +82,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of balls in a cubic box
+*The greatest number of wooden balls of radius 1 cm that fit in a cube of volume 64 cm³*
 
-> What is the maximum number of wooden balls of 1 cm radius that can be placed in a cubic-shaped box of 64 cm3 volume?
+> What is the greatest number of wooden balls of radius 1 cm that it is possible to put into a box in the shape of a cube of volume 64 cm³?
 >
 > - **(A)** 8
 > - **(B)** 16
 > - **(C)** 32
 > - **(D)** 64
-> - **(E)** 128. Kangourou 15 March 2001. Class of students. This item is not intended to be used. 2 = −1 999999999 9999 ... 9999 numbers 18 4 48 4 47 6
+> - **(E)** 128. Kangourou 15 March 2001. Student category. Page no. 2 = −1 999999999 9999 ... 9999 digits 18 4 48 4 47 6
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_student#q02|src_kangourou_2001_student__Q02]]
 
 
 
@@ -111,11 +118,14 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of log10 2 given log2 10*
+*The value of log base 10 of 2, given log base 2 of 10*
 
-> If   log 2 10 = a  then log 10 2 equals
+> If log 2 10 = a then log 10 2 equals
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_student#q03|src_kangourou_2001_student__Q03]]
 
 
 
@@ -143,15 +153,20 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-prime integers <1000 with digit sum 2*
+*Positive integers less than 1000 that are not prime and whose digits sum to 2*
 
-> How many positive non-prime integers less than 1000 have the sum of whose
-> digits (in decimal representation) equal to 2?
+> How many positive integers less than 1000 that are not prime have digits (in decimal representation) summing to 2?
 > (A) 2
->  (B) 4      (C) 6
->    (D) 7             (E) a number different from the previous ones.
+> (B) 4
+> (C) 6
+> (D) 7
+> (E) a number different from the previous ones.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_student#q04|src_kangourou_2001_student__Q04]]
 
 
 
@@ -176,12 +191,15 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of an even number greater than 399*
+*The probability that a random three-digit number is even and greater than 399*
 
-> What is the probability that, by randomly choosing a 3-digit number (significant digits),
-> it is even and greater than 399?
+> What is the probability that, choosing a three-digit number (with significant digits) at random, it is even and greater than 399?
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_student#q05|src_kangourou_2001_student__Q05]]
 
 
 
@@ -208,7 +226,7 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the expression with 9 and 10*
+*Options only: the question text is missing from the source*
 
 > - **(A)** 9 9
 > - **(B)** 9 9 - 1
@@ -216,7 +234,10 @@ Maximum number of balls in a cubic box
 > - **(D)** 10 9
 > - **(E)** 10 10.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_student#q06|src_kangourou_2001_student__Q06]]
 
 
 
@@ -249,19 +270,22 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relation between x and y areas with parallels*
+*The relation between the areas x and y*
 
 ![[src_kangourou_2001_student__prob7.png]]
 
-> In the figure beside, BC is parallel to AE and BD is parallel to CE. If x is the area of the ABCD quadrilateral and y is the area of the ACE triangle, then
+> In the figure beside it, BC is parallel to AE and BD is parallel to CE. If x is the area of the quadrilateral ABCD and y the area of the triangle ACE, then
 >
 > - **(A)** x = y
 > - **(B)** x = 2 y
 > - **(C)** 2 x = y
-> - **(D)** there is a different relationship between x and y
-> - **(E)** it is impossible to determine with these data alone, what is the relationship between x and y.
+> - **(D)** a different relation between x and y holds
+> - **(E)** with these data alone it is impossible to determine which relation holds between x and y.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_student#q07|src_kangourou_2001_student__Q07]]
 
 
 
@@ -292,9 +316,9 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quaternary x< y< z< t with xyzt-1=2001*
+*How many quadruples of positive integers satisfy xyzt − 1 = 2001*
 
-> The number of different quadruples of positive integers (x, y, z, t) such that x < y < z < t and xyzt - 1 = 2001, is equal to
+> The number of different quadruples of positive integers (x, y, z, t) such that x < y < z < t and xyzt − 1 = 2001 is equal to
 >
 > - **(A)** 10
 > - **(B)** 7
@@ -302,7 +326,11 @@ Maximum number of balls in a cubic box
 > - **(D)** 4
 > - **(E)** 1.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_student#q08|src_kangourou_2001_student__Q08]]
 
 
 
@@ -333,19 +361,20 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ora in cui i ciclisti distano 130 km*
+*When two cyclists will be 130 km apart*
 
-> Two cyclists start from the same point at 14:10. The first goes north at a
-> speed of 32 km / h, while the second goes east at a speed of 24 km / h.
-> The distance between them will be 130 km at
+> Two cyclists leave the same point at 14.10. The first goes north at a speed of 32 km/h, while the second goes east at a speed of 24 km/h. The distance between them will be 130 km at
 >
 > - **(A)** 16.10
 > - **(B)** 16.20
 > - **(C)** 17.10
 > - **(D)** 17.25
-> - **(E)** 17.35. . a 1 (E) 5 a (D) 5a (C) 2 a (B) 2a ) A ( . 9 1 (E) 3 2 (D) 6 1 (C) 3 1 (B) 2 1 ) A ( Kangourou 15 March 2001. Student Category. Page No. 3
+> - **(E)** 17.35. . a 1 (E) 5 a (D) 5a (C) 2 a (B) 2a ) A ( . 9 1 (E) 3 2 (D) 6 1 (C) 3 1 (B) 2 1 ) A ( Kangourou 15 March 2001. Student category. Page no. 3
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_student#q09|src_kangourou_2001_student__Q09]]
 
 
 
@@ -375,11 +404,22 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True claim with GCD(m,35)>10*
+*Which statement about m is certainly true*
 
-> m is a positive integer such that GCD (m, 35) > 10. Which of the following is certainly true? (A) the decimal representation of m has at least 3 digits (B) m is multiple of 35 (C) m is divisible by 15 (D) m is divisible by 25 (E) m is divisible by either 5 or 7 but not both. Note: GCD (a, b) indicates the greatest common divisor between a and b. The questions from N. 11 to N. 20 are worth 4 points each.
+> m is a positive integer such that HCF(m, 35) > 10. Which of the following statements is certainly true?
+> (A) the decimal representation of m has at least 3 digits
+> (B) m is a multiple of 35
+> (C) m is divisible by 15
+> (D) m is divisible by 25
+> (E) m is divisible either by 5 or by 7, but not by both.
+> Note: HCF(a, b) denotes the highest common factor of a and b.
+> Questions 11 to 20 are worth 4 points each
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_student#q10|src_kangourou_2001_student__Q10]]
 
 
 
@@ -413,19 +453,23 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Circles tangent to C1, C2 and r*
+*How many circles are tangent to two given circles and to a line*
 
 ![[src_kangourou_2001_student__prob11.png]]
 
-> Two circles C1 and C2 of different radii are tangent externally and both tangent to the same straight line r (see figure). Which of the following statements is true?
+> Two circles C1 and C2 of different radii are externally tangent and both tangent to the same line r (see the figure). Which of the following statements is true?
 >
-> - **(A)** There is no circle tangent to C1, C2 and r
-> - **(B)** There is exactly one circle tangent to C1, C2 and r
-> - **(C)** There are exactly two circles tangent to C1, C2 and r
-> - **(D)** There are exactly four circles tangent to C1, C2 and r
-> - **(E)** None of the statements (A), (B), (C), (D) are true.
+> - **(A)** There is no circle tangent to C1, C2 and to r
+> - **(B)** There is one and only one circle tangent to C1, C2 and to r
+> - **(C)** There are exactly two circles tangent to C1, C2 and to r
+> - **(D)** There are exactly four circles tangent to C1, C2 and to r
+> - **(E)** None of the statements (A), (B), (C), (D) is true.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Analytic geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_student#q11|src_kangourou_2001_student__Q11]]
 
 
 
@@ -464,7 +508,7 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of solid with squares and triangles*
+*The volume of a solid whose net has three squares and two equilateral triangles*
 
 ![[src_kangourou_2001_student__prob12.png]]
 
@@ -480,9 +524,12 @@ Maximum number of balls in a cubic box
 \end{document}
 ```
 
-> The figure below shows the net of a solid bounded by three 4 cm side squares and two equilateral triangles. What is the volume of the solid?
+> The figure beside it shows the net of a solid bounded by three squares of side 4 cm and two equilateral triangles. What is the volume of the solid?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_student#q12|src_kangourou_2001_student__Q12]]
 
 
 
@@ -515,20 +562,21 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cents per pack of gum*
+*How many cents a packet of chewing gum costs*
 
-> In New York 16 packets of chewing gum cost
-> as many dollars as the number of packets one can
-> buy with one dollar. How many cents does one
-> packet cost? (1 dollar = 100 cents).
+> In New York, 16 packets of chewing gum cost as many dollars as the number of packets one can buy with one dollar. How many cents does one packet cost? (1 dollar = 100 cents.)
 >
 > - **(A)** 4
 > - **(B)** 8
 > - **(C)** 12
 > - **(D)** 16
-> - **(E)** 25. . cm 64 (E) cm 3 32 (D) cm 3 64 (C) cm 32 (B) cm 3 16 ) A ( 3 3 3 3 3 Kangourou 15 March 2001. Student Category. Page No. 4
+> - **(E)** 25. . cm 64 (E) cm 3 32 (D) cm 3 64 (C) cm 32 (B) cm 3 16 ) A ( 3 3 3 3 3 Kangourou 15 March 2001. Student category. Page no. 4
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_student#q13|src_kangourou_2001_student__Q13]]
 
 
 
@@ -558,16 +606,20 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Term after 10^8 in squares*
+*The next term after 10 8 in the sequence of squares*
 
-> Let's say 1, 4, 9, 16, the sequence of squares of natural numbers. The number 10 8 is a term of this sequence. Which of the following numbers is the next term of the sequence?
+> Let 1, 4, 9, 16, … be the sequence of the squares of the natural numbers. The number 10 8 is a term of this sequence. Which of the following numbers is the next term of the sequence?
 >
 > - **(A)** (10 4 + 1)²
 > - **(B)** (10 8 + 1)²
 > - **(C)** (10 5 )²
-> - **(D)** (10 8 )² (E) (10 4 )² + 1.
+> - **(D)** (10 8 )²
+> - **(E)** (10 4 )² + 1.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_student#q14|src_kangourou_2001_student__Q14]]
 
 
 
@@ -613,7 +665,7 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coincident vector in the regular hexagon*
+*Which vector the given vector coincides with*
 
 ![[src_kangourou_2001_student__prob15.png]]
 
@@ -639,7 +691,10 @@ Maximum number of balls in a cubic box
 
 > ABCDEF is a regular hexagon. Then the vector coincides with the vector
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_student#q15|src_kangourou_2001_student__Q15]]
 
 
 
@@ -673,17 +728,21 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of A-D meeting in the tournament*
+*How the match between teams A and D ended*
 
-> In a tournament between 4 football teams (each team has played every other team once and only once), the final ranking is as follows: team A 7 points, team B 4 points, team C 3 points, team D 3 points. (In football matches a team gets 3 points when it wins, 1 point when it draws, 0 points if it loses). How did the meeting between Team A and Team D end?
+> In a tournament among 4 football teams (each team played every other team once and only once), the final table is as follows: team A 7 points, team B 4 points, team C 3 points, team D 3 points. (In football matches a team gets 3 points when it wins, 1 point when it draws, 0 points in the case of a defeat.) How did the match between team A and team D end?
 >
-> - **(A)** A has necessarily won
-> - **(B)** They drew.
-> - **(C)** D has necessarily won
-> - **(D)** depends on the outcome of the challenge between A and B
-> - **(E)** Depends on the outcome of the challenge between A and C.
+> - **(A)** A must have won
+> - **(B)** they drew
+> - **(C)** D must have won
+> - **(D)** it depends on the result of the match between A and B
+> - **(E)** it depends on the result of the match between A and C.
 
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_student#q16|src_kangourou_2001_student__Q16]]
 
 
 
@@ -715,11 +774,11 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure area with two triangles and a circle*
+*The area of the grey figure made of two triangles and a circle*
 
 ![[src_kangourou_2001_student__prob17.png]]
 
-> How much is the area of the grey figure, made up of two triangles and a circle?
+> What is the area of the figure in grey, made of two triangles and a circle?
 >
 > - **(A)** 1
 > - **(B)** π + 1
@@ -727,7 +786,10 @@ Maximum number of balls in a cubic box
 > - **(D)** π (3 - 2√2) + 1
 > - **(E)** π √2 / 2 + 1.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_student#q17|src_kangourou_2001_student__Q17]]
 
 
 
@@ -758,9 +820,9 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Littleest number among the expressions*
+*The smallest of five quantities for a right-angled triangle*
 
-> The hypotenuse of a right triangle is 0.9 cm long while the lengths of the legs are a cm and b cm. Which is the smallest of the following numbers?
+> The hypotenuse of a right-angled triangle is 0.9 cm long, while the lengths of the legs are a cm and b cm. Which is the smallest of the following numbers?
 >
 > - **(A)** a² + b²
 > - **(B)** (a + b)²
@@ -768,7 +830,11 @@ Maximum number of balls in a cubic box
 > - **(D)** a + b
 > - **(E)** ab.
 
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_student#q18|src_kangourou_2001_student__Q18]]
 
 
 
@@ -803,22 +869,23 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum and maximum small cubes from views*
+*The least and greatest number of little cubes compatible with the views*
 
 ![[src_kangourou_2001_student__prob19.png]]
 
-> Next to it you have the left and front views of a construction
-> obtained by placing small cubes side by side. How many small cubes were
-> used? The minimum and the maximum number
-> of small cubes compatible with the depictions shown are required.
+> Beside it you have the view from the left and the front view of a construction obtained by placing small cubes side by side. How many little cubes were used? What is asked is the least number and the greatest number of little cubes compatible with the pictures shown.
 >
 > - **(A)** 7 and 13
 > - **(B)** 8 and 13
 > - **(C)** 7 and 15
 > - **(D)** 7 and 16
-> - **(E)** 8 and 16. AF AD BC ⋅ + − 2 . CE (E) FB (D) FD (C) CA (B) AA ) (A Kangourou 15 March 2001. Category Student. Page No. 5
+> - **(E)** 8 and 16. AF AD BC ⋅ + − 2 . CE (E) FB (D) FD (C) CA (B) AA ) (A Kangourou 15 March 2001. Student category. Page no. 5
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_student#q19|src_kangourou_2001_student__Q19]]
 
 
 
@@ -848,17 +915,20 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AEC angle with triangle to square*
+*The measure of angle AEC*
 
-> A CDE equilateral triangle is constructed externally to an ABCD square on the CD side. How many degrees does the AEC angle measure?
+> An equilateral triangle CDE is built outwardly on a square ABCD, on the side CD. How many degrees does angle AEC measure?
 >
 > - **(A)** 30°
 > - **(B)** 36°
 > - **(C)** 45°
 > - **(D)** 54°
-> - **(E)** 60°. The questions from N. 21 to N. 30 is worth 5 points each.
+> - **(E)** 60°. Questions 21 to 30 are worth 5 points each
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_student#q20|src_kangourou_2001_student__Q20]]
 
 
 
@@ -885,13 +955,16 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major side of the rectangle with circles*
+*The length of the longer side of the rectangle*
 
 ![[src_kangourou_2001_student__prob21.png]]
 
-> Find the length of the larger side of the rectangle shown in the figure (the smaller side measures 1), knowing that the round figures are all circles.
+> Find the length of the longer side of the rectangle shown in the figure (the shorter side measures 1), given that the round figures are all circles.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_student#q21|src_kangourou_2001_student__Q21]]
 
 
 
@@ -926,19 +999,23 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most commonly used color in grid 43x43*
+*Which colour is used more often than each of the other three*
 
 ![[src_kangourou_2001_student__prob22.png]]
 
-> The cells of a grid of 43 rows × 43 columns are coloured with 4 colours 1, 2, 3, 4 as shown in the figure. Which color is used more often than each of the other three?
+> The cells of a grid of 43 rows × 43 columns are coloured with 4 colours 1, 2, 3, 4 as shown in the figure. Which colour is used more often than each of the other three?
 >
-> - **(A)** Colour 1
-> - **(B)** Colour 2
-> - **(C)** Colour 3
-> - **(D)** Colour 4
+> - **(A)** colour 1
+> - **(B)** colour 2
+> - **(C)** colour 3
+> - **(D)** colour 4
 > - **(E)** none.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_student#q22|src_kangourou_2001_student__Q22]]
 
 
 
@@ -971,9 +1048,9 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value w(2001^2001) sum of the numbers iterated*
+*The digital root of 2001 2001*
 
-> For each positive integer n we calculate the sum of its digits (in decimal representation), then the sum of the digits of the number obtained and so on, until we get a single-digit number that is denoted by w(n). The number w(2001^2001) is equal to
+> For every positive integer n we compute the sum of its digits (in decimal representation), then the sum of the digits of the number obtained, and so on, until we obtain a one-digit number, which is denoted by w(n). The number w(2001 2001) is equal to
 >
 > - **(A)** 1
 > - **(B)** 3
@@ -981,7 +1058,11 @@ Maximum number of balls in a cubic box
 > - **(D)** 7
 > - **(E)** 9.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_student#q23|src_kangourou_2001_student__Q23]]
 
 
 
@@ -1012,17 +1093,21 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final pairs of perfect squares*
+*How many of the pairs 00, 11, …, 99 can end a perfect square*
 
-> How many of the pairs of numbers 00, 11, 22, 33, 44, 55, 66, 77, 88, 99 can be the pair of the last two digits of the perfect square of an integer?
+> How many of the pairs of digits 00, 11, 22, 33, 44, 55, 66, 77, 88, 99 can be the pair of the last two digits of the perfect square of an integer?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
-> - **(E)** more than four.
+> - **(E)** more than 4.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_student#q24|src_kangourou_2001_student__Q24]]
 
 
 
@@ -1052,9 +1137,9 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product number m×n logarithmic data*
+*How many digits the product m·n has*
 
-> Let m and n be two positive integers such that log 10 m = 12.3... and log 10 n = 15.4... How many digits does the product m⋅n have?
+> Let m and n be two positive integers such that log 10 m = 12.3… and log 10 =15.4… . How many digits does the product m⋅n have?
 >
 > - **(A)** 15
 > - **(B)** 16
@@ -1062,7 +1147,10 @@ Maximum number of balls in a cubic box
 > - **(D)** 28
 > - **(E)** 189.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_stima|Estimation and approximation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_student#q25|src_kangourou_2001_student__Q25]]
 
 
 
@@ -1095,17 +1183,21 @@ Maximum number of balls in a cubic box
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum crossings for two men and boys
+*The fewest crossings to get two men and two boys across the river*
 
-> Two men and two boys want to cross a river using a small canoe that can carry up to two boys or only one adult. What is the minimum number of crossings needed to transport all the people across the river?
+> Two men and two boys want to cross a river using a small canoe that can carry at most either two boys or only one adult. What is the smallest number of crossings needed to carry all the people to the other side of the river?
 >
 > - **(A)** 3
 > - **(B)** 5
 > - **(C)** 9
 > - **(D)** 11
-> - **(E)** 13. Kangourou 15 March 2001. Category Student. Page No. 6
+> - **(E)** 13. .5 2 (E) 5 (D) 2.5 (C) 2 5 2 (B) 5 2 ) A ( + − + − Kangourou 15 March 2001. Student category. Page no. 6
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_student#q26|src_kangourou_2001_student__Q26]]
 
 
 
@@ -1132,13 +1224,16 @@ Minimum crossings for two men and boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*EF chord length in the rectangle*
+*The length of the chord EF*
 
 ![[src_kangourou_2001_student__prob27.png]]
 
-> If ABCD is a rectangle and k is a circle centered at A and passing through C, what is the length of the chord EF? (see figure).
+> If ABCD is a rectangle and k is a circle with centre at A passing through C, what is the length of the chord EF? (see the figure).
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_student#q27|src_kangourou_2001_student__Q27]]
 
 
 
@@ -1170,10 +1265,9 @@ Minimum crossings for two men and boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of numerator and denominator of the telescoping product*
+*The sum of numerator and denominator of a reduced fraction*
 
-> Adding the numerator and the denominator, when they are reduced to their lowest terms, of the result of the following expression
-> one obtains
+> Adding numerator and denominator, when they have been reduced to lowest terms, of the result of the following expression, one obtains
 >
 > - **(A)** 2001
 > - **(B)** 3002
@@ -1181,7 +1275,11 @@ Minimum crossings for two men and boys
 > - **(D)** 5002
 > - **(E)** 6001.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_student#q28|src_kangourou_2001_student__Q28]]
 
 
 
@@ -1215,9 +1313,9 @@ Minimum crossings for two men and boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of fish caught by Uncle Marco*
+*How many fish Uncle Marco caught*
 
-> Uncle Marco caught some fish. He gives his dog the three largest, reducing the total weight of his fishing by 35 percent. He then gives the three smallest fish to his cat, reducing the remaining total weight by 5/13. The family eats the remaining fish for dinner. How many fish did Uncle Marco catch?
+> Uncle Marco has caught some fish. He gives the three largest to his dog, reducing the total weight of his catch by 35%. He then gives the three smallest fish to his cat, reducing the remaining total weight by 5/13. The family eats the remaining fish for dinner. How many fish did Uncle Marco catch?
 >
 > - **(A)** 8
 > - **(B)** 9
@@ -1225,7 +1323,10 @@ Minimum crossings for two men and boys
 > - **(D)** 11
 > - **(E)** 12.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_student#q29|src_kangourou_2001_student__Q29]]
 
 
 
@@ -1336,13 +1437,11 @@ Minimum crossings for two men and boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of triangle FAT in the convex hexagon*
+*The area of triangle FAT*
 
 ![[src_kangourou_2001_student__prob30.png]]
 
-> The diagonals AD, BE, CF of a convex hexagon ABCDEF all pass through
-> the same point T. What is the area of triangle FAT, if the areas of the others
-> are those indicated in the figure?
+> The diagonals AD, BE, CF of a convex hexagon ABCDEF all pass through one and the same point T. What is the area of triangle FAT, if the areas of the others are those shown in the figure?
 > 
 > 
 > 
@@ -1363,9 +1462,9 @@ Minimum crossings for two men and boys
 > 2001
 > 1
 > 1
->  
+>
 > ....
->  
+>
 > 4
 > 1
 > 1
@@ -1375,56 +1474,60 @@ Minimum crossings for two men and boys
 > 2
 > 1
 > 1
->   
+>
 > 25.
->  
+>
 > (E)
->      
+>
 > 44
->  
+>
 > (D)
->      
+>
 > 13
 > 37
-> 2 
+> 2
 > (C)
->       
+>
 > 25
 > 20
-> 2 
+> 2
 > (B)
->     
+>
 > 50
->  )
+> )
 > A
 > (
 > ⋅
 > ⋅
->  
+>
 > other.
->  
+>
 > (E)
->      
+>
 > 5
 > 24
->  
+>
 > (D)
->      
+>
 > 3
 > 10
->  
+>
 > (C)
->      
-> 3 
+>
+> 3
 > (B)
->      
+>
 > 5
 > 6 )
 > A
 > (
-> 
+>
 > 1
-> Answers Category Student
-> Competition of 15 March 2001
+> Answers, Student category
+> Contest of 15 March 2001
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_student#q30|src_kangourou_2001_student__Q30]]

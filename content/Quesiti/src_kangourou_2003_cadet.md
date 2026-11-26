@@ -37,13 +37,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Recognize folded/cut sheet*
+*Which sheet matches the folded one*
 
 ![[src_kangourou_2003_cadet__prob1.png]]
 
-> Which of the following corresponds to the one in the figure? A) B) C) D) E)
+> Which of the following sheets matches the one folded in the figure?
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_cadet#q01|src_kangourou_2003_cadet__Q01]]
 
 
 
@@ -73,11 +81,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max 4x4 boxes intersected by a straight line*
+*The greatest number of squares a line can cut*
 
-> A straight line cuts a 4x4 chessboard without passing through the vertex of any box. What is the largest number of boxes (squares 1x1) that a straight line can intersect? A) 3 B) 4 C) 6 D) 7 E) 8
+> A line cuts a 4x4 chessboard without passing through the vertex of any square. What is the greatest number of squares (1x1 squares) that the line can meet?
+> A) 3
+> B) 4
+> C) 6
+> D) 7
+> E) 8
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_cadet#q02|src_kangourou_2003_cadet__Q02]]
 
 
 
@@ -108,11 +125,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Price of the average escaped parrot*
+*The price of the budgerigar that flew away*
 
-> There were five parrots in a cage. Their average price was 60 euros. One day, while cleaning the cage, the most handsome one flew away. The average price of the remainder is 50 euros. What was the price of the fugitive? (a) 10 euro B) 20 euro C) 55 euro D) 60 euro E) 100 euro
+> In a cage there were 5 budgerigars. Their average price was 60 euros. One day, during the cleaning of the cage, the finest one flew away. The average price of those remaining is 50 euros. What was the price of the fugitive?
+> A) 10 euros
+> B) 20 euros
+> C) 55 euros
+> D) 60 euros
+> E) 100 euros
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_cadet#q03|src_kangourou_2003_cadet__Q03]]
 
 
 
@@ -142,11 +167,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max interior right angles in a hexagon*
+*The greatest number of interior right angles in a hexagon*
 
-> In a hexagon (not necessarily convex) how many right interior angles can be found at most? A) 2 B) 3 C) 4 D) 5 E) 6
+> In a hexagon (not necessarily convex), what is the greatest number of interior right angles one can find?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_cadet#q04|src_kangourou_2003_cadet__Q04]]
 
 
 
@@ -183,25 +217,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equivalences between containers (mug/glasses)*
+*How many glasses a tankard holds*
 
-> In the Kangoo pub all containers of the same type are identical. A bottle
-> and a glass together hold as much as a jug. A bottle holds
-> as much as a glass and a mug. Three mugs hold as much as two jugs.
-> Then a mug holds as much as
+> In the Kangoo pub all containers of the same type are equal. A bottle and a glass together hold as much as a jug. A bottle holds as much as a glass and a tankard. Three tankards hold as much as two jugs. Then a tankard holds as much as
 > A) 3 glasses
-> B) 4 glasses 
-> C) 5 glasses   
+> B) 4 glasses
+> C) 5 glasses
 > D) 6 glasses
 > E) 7 glasses
-> 
-> Pag. 
-> Pag. 17
+>
+> Page
+> Page 17
 > 17
 > Kang 2003
 > Kang 2003
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_cadet#q05|src_kangourou_2003_cadet__Q05]]
 
 
 
@@ -251,7 +285,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Face opposite in the folded cube*
+*The face opposite the one marked x*
 
 ![[src_kangourou_2003_cadet__prob6.png]]
 
@@ -274,9 +308,17 @@ level: kangourou
 \end{document}
 ```
 
-> We cut the square figure drawn on the side and fold it to form a cube. So what's the opposite face to the one marked with x? A) a B) b C) c D) d E) e
+> We cut out the squared figure drawn alongside and fold it so as to form a cube. What then is the face opposite the one marked x?
+> A) a
+> B) b
+> C) c
+> D) d
+> E) e
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_cadet#q06|src_kangourou_2003_cadet__Q06]]
 
 
 
@@ -306,11 +348,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max n with digit eliminated reducing n times*
+*The greatest possible value of n*
 
-> A natural number n of at least 2 digits is such that, by eliminating the last digit, a number n times smaller is obtained. What's the maximum possible value for n? A) 9 B) 10 C) 11 D) 19 E) 20
+> A natural number n, formed from at least 2 digits, is such that, on deleting the last digit, one obtains a number n times smaller. What is the greatest possible value of n?
+> A) 9
+> B) 10
+> C) 11
+> D) 19
+> E) 20
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_cadet#q07|src_kangourou_2003_cadet__Q07]]
 
 
 
@@ -340,11 +391,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Impossible number of intersections of 4 segments*
+*How many intersection points four segments cannot have*
 
-> Four segments cannot have exactly A) 2 B) 3 C) 5 D) 6 E) 7 intersection points (i.e. points where at least two of them intersect).
+> Four segments cannot have exactly
+> A) 2
+> B) 3
+> C) 5
+> D) 6
+> E) 7
+> points of intersection (that is, points at which at least two of them meet).
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_cadet#q08|src_kangourou_2003_cadet__Q08]]
 
 
 
@@ -374,11 +435,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What factor gives more zeros multiplied by 768*
+*Which number, multiplied by 768, gives the result with the most zeros*
 
-> Which of the following numbers, multiplied by 768, gives the result with the highest number of zeros? A) 7500 B) 5000 C) 3125 D) 2500 E) 10000
+> Which of the following numbers, multiplied by 768, gives the result with the greatest number of zeros?
+> A) 7500
+> B) 5000
+> C) 3125
+> D) 2500
+> E) 10000
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_cadet#q09|src_kangourou_2003_cadet__Q09]]
 
 
 
@@ -412,21 +482,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trees without ribbon after counting going/returning*
+*How many trees do not have the red ribbon*
 
-> Along the road from Luigi's house to the swimming pool there are 100 trees.
-> Going from home to the pool and returning, Luigi marked some trees with a red ribbon as follows. On the way there he marked the first tree and
-> subsequently the second of every pair of trees he encountered; on the way back
-> instead he marked the first tree and subsequently the third of every group of three
-> trees he encountered. After that, how many trees do not have the red ribbon?
+> Along the road from Luigi's house to the swimming pool there are 100 trees. Going from home to the pool and back, Luigi marked some trees with a red ribbon as follows. On the way there he marked the first tree and then the second of every pair of trees he met; on the way back he marked the first tree and then the third of every group of three trees he met. After that, how many trees do not have the red ribbon?
 > A) 40
 > B) 33
 > C) 50
 > D) 25
 > E) 19
-> Questions from No. 11 to No. 20 are worth 4 points each
+> Questions 11 to 20 are worth 4 points each
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_cadet#q10|src_kangourou_2003_cadet__Q10]]
 
 
 
@@ -473,16 +543,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Transformations of the letter Y (rotations/flips)*
+*Which figure one sees after the rotations and the flip*
 
-> On the table there is a sheet of transparent squared paper. On it
-> the letter Y is drawn. We rotate the sheet by 900 clockwise, then we flip it along the left side of the sheet, finally we rotate it counterclockwise by
-> 1800. What figure do we see?
-> A)  
-> B)  
-> C)  
-> D)  
-> E)  
+> On the table there is a sheet of transparent squared paper. On it the letter Y is drawn. We rotate the sheet by 900 clockwise, then we flip it along the left-hand side of the sheet, and finally we rotate it anticlockwise by 1800. Which figure do we see?
+> A)
+> B)
+> C)
+> D)
+> E)
 > a
 > b
 > x
@@ -494,14 +562,17 @@ level: kangourou
 > Y
 > y
 > Y
-> 
-> Pag. 
-> Pag. 18
+>
+> Page
+> Page 18
 > 18
 > Kang 2003
 > Kang 2003
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_cadet#q11|src_kangourou_2003_cadet__Q11]]
 
 
 
@@ -531,17 +602,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of a parallelepiped made of 42 cubes, base perimeter 18*
+*The height of the parallelepiped*
 
-> Andrea has 42 identical cubes, each with an edge 1 cm long. Using them all
-> he built a right rectangular parallelepiped, whose base has a perimeter
-> 18 cm long. What is the height of the parallelepiped?
+> Andrea has 42 identical cubes, each with an edge 1 cm long. Using all of them he has built a right rectangular parallelepiped, whose base has a perimeter of 18 cm. What is the height of the parallelepiped?
 > A) 1 cm
 > B) 2 cm
-> C) 3 cm       D) 4 cm
+> C) 3 cm
+> D) 4 cm
 > E) 5 cm
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_cadet#q12|src_kangourou_2003_cadet__Q12]]
 
 
 
@@ -572,13 +646,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Score on the third target*
+*How many points Eros scores on the third target*
 
 ![[src_kangourou_2003_cadet__prob13.png]]
 
-> Eros fires three arrows at each of the three targets. He scores 29 on the first and 43 on the second. How many points does he total on the third? A) 31 B) 33 C) 36 D) 38 E) 39
+> Eros shoots three arrows at each of the three targets. He scores 29 points on the first and 43 on the second. How many points does he score on the third?
+> A) 31
+> B) 33
+> C) 36
+> D) 38
+> E) 39
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_cadet#q13|src_kangourou_2003_cadet__Q13]]
 
 
 
@@ -608,11 +690,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of truck load after unloading*
+*What percentage of the total weight the load is*
 
-> The weight of a dump truck is 2000 kg. Today the load is 80% of the total weight. At the first stop, a quarter of the cargo is unloaded. After that, what percentage of the total weight is the load? A) 20% B) 25% C) 55% D) 60% E) 75%
+> The weight of an empty lorry is 2000 kg. Today the load is 80% of the total weight. At the first stop a quarter of the load is unloaded. After that, what percentage of the total weight is the load?
+> A) 20%
+> B) 25%
+> C) 55%
+> D) 60%
+> E) 75%
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_cadet#q14|src_kangourou_2003_cadet__Q14]]
 
 
 
@@ -643,13 +733,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*circle less square inscribed*
+*The area of the shaded figure*
 
 ![[src_kangourou_2003_cadet__prob15.png]]
 
-> In the figure, two squares of equal sides cover a circle with a radius of 3 cm. The area of the shaded figure is A) 8? - 1) cm2 B) 6(2 ? - 1) cm2 C) 9? - 25 cm2 D) 9(? - 2) cm2 E) 6? ?? ?cm2
+> In the figure two squares with equal sides cover a circle whose radius measures 3 cm. The area of the shaded figure is
+> A) 8(? - 1) cm2
+> B) 6(2 ? - 1) cm2
+> C) 9? - 25 cm2
+> D) 9(? - 2) cm2
+> E) 6? ?? ?cm2
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_cadet#q15|src_kangourou_2003_cadet__Q15]]
 
 
 
@@ -680,11 +778,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of triples of sticks that form a triangle*
+*How many choices of three sticks form a triangle*
 
-> You have six sticks, each 1 cm, 2 cm, 3 cm, 2001 cm, 2002 cm and 2003 cm long: you have to choose three to build a triangle (which is not reduced to a segment). How many different choices of three sticks can you make? A) 1 B) 3 C) 5           D) 6 E) 20
+> You have six sticks of length 1 cm, 2 cm, 3 cm, 2001 cm, 2002 cm and 2003 cm: you must choose three of them to build a triangle (which does not collapse to a segment). How many different choices of three sticks can you make?
+> A) 1
+> B) 3
+> C) 5
+> D) 6
+> E) 20
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_cadet#q16|src_kangourou_2003_cadet__Q16]]
 
 
 
@@ -713,11 +820,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many n with max divisor =15 times the min*
+*How many positive integers n have the stated property*
 
-> How many positive integers n have the following property: among the (positive) divisors of n other than 1 and n, the largest is 15 times the smallest? A) 0 B) 1 C) 2 D) infinite E) none of the above answers is correct
+> How many positive integers n have the following property: among the positive divisors of n other than 1 and n, the greatest is 15 times the smallest?
+> A) 0
+> B) 1
+> C) 2
+> D) infinitely many
+> E) none of the above
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_cadet#q17|src_kangourou_2003_cadet__Q17]]
 
 
 
@@ -750,20 +866,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relationship between segments on a line*
+*Which equality must hold*
 
-> On a line, from left to right, the six points A, B, C, D, E, F are marked
-> in the order in which we have listed them. If AD = CF and BD = DF, it must
-> necessarily happen that
-> A) AB = BC         B) BC = DE      C) BD = EF      D) AB = CD           E) CD = EF 
-> 
-> Pag. 
-> Pag. 19
+> On a line the six points A, B, C, D, E, F are marked from left to right, in the order in which we have listed them. If AD = CF and BD = DF, it must necessarily happen that
+> A) AB = BC
+> B) BC = DE
+> C) BD = EF
+> D) AB = CD
+> E) CD = EF
+>
+> Page
+> Page 19
 > 19
 > Kang 2003
 > Kang 2003
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_cadet#q18|src_kangourou_2003_cadet__Q18]]
 
 
 
@@ -795,11 +917,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number on 6 cards with sums given*
+*The smallest of the numbers written on the cards*
 
-> Mary has six cards of different colors, each marked with a natural number. Choose three random cards and calculate the sum of the corresponding numbers. After doing this operation in all 20 possible ways, she finds that in 10 cases she got 16, and in the others he got 18. So the smallest of the numbers marked on the cards is A) 2 B) 3 C) 4 D) 5 E) 6
+> Maria has 6 cards of different colours, on each of which a natural number is written. She chooses three cards at random and works out the sum of the corresponding numbers. After doing this in all 20 possible ways, she finds that in 10 cases she obtained 16, and in the others she obtained 18. Then the smallest of the numbers written on the cards is
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_cadet#q19|src_kangourou_2003_cadet__Q19]]
 
 
 
@@ -833,21 +964,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Circular arrangement with named neighbours*
+*What one can say about the seating*
 
-> Bruno, Claudio, Luca, Marco and Paolo sit in a circle and, for each of
-> them, the distance from the neighbour on the left is different from that from the neighbour on the right.
-> The teacher asks each of them to say the name of the boy sitting closest
-> to him. Bruno and Claudio are named twice each, Luca only once.
-> Then
-> A) certainly Bruno and Claudio are not neighbours     
-> B) certainly Marco and Paolo are not neighbours             
-> C) Marco and Paolo are neighbours   
-> D) the situation described is impossible        
-> E) none of the answers A) - D) is correct
-> Questions from No. 21 to No. 30 are worth 5 points each
+> Bruno, Claudio, Luca, Marco and Paolo sit in a circle and, for each of them, the distance from the neighbour on the left is different from that from the neighbour on the right. The teacher asks each of them to say the name of the boy sitting closest to him. Bruno and Claudio are each named twice, Luca once only. Then
+> A) Bruno and Claudio are certainly not neighbours
+> B) Marco and Paolo are certainly not neighbours
+> C) Marco and Paolo are neighbours
+> D) the situation described is impossible
+> E) none of the answers A) to D) is correct
+> Questions 21 to 30 are worth 5 points each
 
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_cadet#q20|src_kangourou_2003_cadet__Q20]]
 
 
 
@@ -880,13 +1011,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Identify the black module of the parallelepiped*
+*Which module is the one painted black*
 
 ![[src_kangourou_2003_cadet__prob21.png]]
 
-> The figure represents a rectangular parallelepiped constructed by attaching 3 modules each of which is 4 cubes. Of the modules, the cross-hatched one is fully visible, the others only partially. Which of the following modules is the black-painted module? A) B) C) D) E)
+> The figure shows a rectangular parallelepiped built by placing side by side 3 modules, each formed from 4 little cubes. Of the modules, the cross-hatched one is seen completely, the others only in part. Which of the modules below is the module painted black?
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_cadet#q21|src_kangourou_2003_cadet__Q21]]
 
 
 
@@ -958,7 +1097,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PQT triangle area by fraction of the rectangle*
+*The area of triangle PQT as a fraction of the rectangle*
 
 ![[src_kangourou_2003_cadet__prob22.png]]
 
@@ -994,11 +1133,25 @@ level: kangourou
 \end{document}
 ```
 
-> We denote with P, Q, R and S the midpoints of the sides AB, BC, CD and AD respectively of the ABCD rectangle in the figure and with T the midpoint of the RS segment. So the area of the PQT triangle is A) 5/16 B) 1/4 C) 1/5 D) 1/6 E) 3/8 of the area of the ABCD rectangle.
-> 
-> Pag. 20 Kang 2003
+> Denote by P, Q, R and S the midpoints of the sides AB, BC, CD and AD respectively of the rectangle ABCD in the figure, and by T the midpoint of the segment RS. Then the area of triangle PQT is
+> A) 5/16
+> B) 1/4
+> C) 1/5
+> D) 1/6
+> E) 3/8
+> of the area of the rectangle ABCD.
+>
+> Page
+> Page 20
+> 20
+> Kang 2003
+> Kang 2003
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_cadet#q22|src_kangourou_2003_cadet__Q22]]
 
 
 
@@ -1031,13 +1184,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min figures of 3 squares to be broken down*
+*The smallest number of 3-square pieces Carlo can obtain*
 
 ![[src_kangourou_2003_cadet__prob23.png]]
 
-> Carlo attempts to break down the figure on the left in the drawing into smaller figures (without overlapping), having the shape of those shown on the right of the drawing, composed of one of 3 and the other of 4 squares. What's the smallest number of three-square figures you can get? A) 1 B) 2 C) 3 D) 4 E) Carlo cannot do this
+> Carlo tries to break the figure on the left of the drawing into smaller figures (without overlapping), having the shape of those shown on the right of the drawing, one made of 3 squares and the other of 4. What is the smallest number of figures of 3 squares that he can obtain?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) Carlo cannot manage it
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_cadet#q23|src_kangourou_2003_cadet__Q23]]
 
 
 
@@ -1069,13 +1231,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between grey and black areas (4 squares)*
+*The difference between the grey region and the black region*
 
 ![[src_kangourou_2003_cadet__prob24.png]]
 
-> The figure shows four partially overlapping squares with sides of 11 cm, 9 cm, 7 cm and 5 cm. What is the difference between the grey area and the black area? A) 25 cm2 B) 36 cm2 C) 49 cm2 D) 64 cm2 E) 0 cm2
+> In the figure 4 partly overlapping squares are shown, with sides of 11 cm, 9 cm, 7 cm and 5 cm. What is the difference between the area of the grey region and the area of the black region?
+> A) 25 cm2
+> B) 36 cm2
+> C) 49 cm2
+> D) 64 cm2
+> E) 0 cm2
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_cadet#q24|src_kangourou_2003_cadet__Q24]]
 
 
 
@@ -1107,11 +1277,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What conclusions about books can be false*
+*Which conclusion can be false*
 
-> All 50 books on a bookshelf in a library are mathematics or physics. We know that there are no two physics books next to each other, and that every math book has another math book next to it. Which of these conclusions can be false? A) There are three consecutive mathematics books, that is, not interspersed with physics books. B) The number of mathematics books is at least 32. C) The number of physics books is at most 17. D) If the number of physics books is 17, then one of them is in the first or last place on the shelf. E) Given 9 books placed consecutively, at least 6 of them are mathematics books.
+> All 50 books on a shelf in a bookshop are either mathematics or physics. We know that there are no two physics books next to each other and that every mathematics book has another mathematics book next to it. Which of these conclusions can be false?
+> A) There are three consecutive mathematics books, that is, not separated by physics books.
+> B) The number of mathematics books is at least 32.
+> C) The number of physics books is at most 17.
+> D) If the number of physics books is 17, then one of them is in the first or the last place on the shelf.
+> E) Of any 9 books placed consecutively, at least 6 of them are mathematics.
 
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_cadet#q25|src_kangourou_2003_cadet__Q25]]
 
 
 
@@ -1161,13 +1340,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of five angles in a 5x5 grid*
+*The measure of the sum of the angles*
 
 ![[src_kangourou_2003_cadet__prob26.png]]
 
-> A square is divided into 25 small squares of equal
-> side (see figure). The measure of the angle sum of the
-> angles MAN, MBN, MCN, MDN, MEN is
+> A square is divided into 25 little squares of equal side (see the figure). The measure of the sum of the angles MAN, MBN, MCN, MDN, MEN is
 > A) 30°
 > B) 45°
 > C) 60°
@@ -1184,14 +1361,18 @@ level: kangourou
 > 9
 > 7
 > 5
-> 
-> Pag. 
-> Pag. 21
+>
+> Page
+> Page 21
 > 21
 > Kang 2003
 > Kang 2003
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_cadet#q26|src_kangourou_2003_cadet__Q26]]
 
 
 
@@ -1226,23 +1407,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spiral of isosceles triangles, first to cover no. 0*
+*The number of the first triangle that covers triangle 0 exactly*
 
 ![[src_kangourou_2003_cadet__prob27.png]]
 
-> We intend to form a spiral using isosceles triangles
-> equal to each other, whose vertex angle measures 100°.
-> As the figure suggests, we start with the gray triangle
-> to which we will give the number 0. Each of the successive triangles
-> (numbered 1, 2, 3, ...) joins the previous one with exactly one of the equal sides. As you can see, triangle no. 3 partially covers triangle no. 0. What
-> will be the number of the first triangle that exactly covers triangle no. 0?
+> We mean to form a spiral using isosceles triangles equal to one another, whose vertex angle measures 100°. As the figure suggests, we start with the grey triangle, which we give the number 0. Each of the following triangles (numbered 1, 2, 3, ...) is joined to the previous one along exactly one of the equal sides. As you can see, triangle no. 3 partly covers triangle no. 0. What will be the number of the first triangle that covers triangle no. 0 exactly?
 > A) 20
 > B) 14
-> C) 16     
-> D)12
+> C) 16
+> D) 12
 > E) 18
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_cadet#q27|src_kangourou_2003_cadet__Q27]]
 
 
 
@@ -1272,17 +1451,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many n with 2003 divided by n remainder 23*
+*How many positive integers n leave remainder 23 on dividing 2003*
 
-> How many positive integers n are such that 2003 divided by n gives remainder
-> 23?
+> How many positive integers n are such that 2003 divided by n leaves remainder 23?
 > A) 22
 > B) 19
 > C) 13
 > D) 12
 > E) 87
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_cadet#q28|src_kangourou_2003_cadet__Q28]]
 
 
 
@@ -1314,11 +1496,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max segments crossed by a straight line (10 points)*
+*The greatest number of segments the line can cross*
 
-> 10 distinct points are drawn on a sheet, so that no line of the plane contains more than two of them. Each pair of points is connected by a segment. Let's draw a straight line that doesn't pass through any of these points: what is the maximum number of segments that the straight line can cross? A) 20 B) 25 C) 30 D) 35 E) 45
+> On a sheet 10 distinct points are drawn, so that no line of the plane contains more than two of them. Every pair of points is joined by a segment. We draw a line that passes through none of these points: what is the greatest number of segments that the line can cross?
+> A) 20
+> B) 25
+> C) 30
+> D) 35
+> E) 45
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_cadet#q29|src_kangourou_2003_cadet__Q29]]
 
 
 
@@ -1383,7 +1574,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure the angle of CDE in the isosceles triangle*
+*The size of the angle CDE*
 
 ![[src_kangourou_2003_cadet__prob30.png]]
 
@@ -1408,8 +1599,25 @@ level: kangourou
 \end{document}
 ```
 
-> In the ABC triangle shown in the figure, the segments AB and AC have the same length as the segments AE and AD; the BAD angle measures 30°. What is the measurement of the angle CDE? A) 10 B) 15 C) 20 D) 25 E) 30 A E B D C 1 2 3
-> 
-> Comments on Cadet level III medium and higher
+> In triangle ABC shown in the figure, the segments AB and AC have the same length, as do the segments AE and AD; the angle BAD measures 30°. What is the size of the angle CDE?
+> A) 10
+> B) 15
+> C) 20
+> D) 25
+> E) 30
+> A
+> E
+> B
+> D
+> C
+> 1
+> 2
+> 3
+>
+> Commented answers, Cadet level
+> Third year of middle school and first year of upper school
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_cadet#q30|src_kangourou_2003_cadet__Q30]]

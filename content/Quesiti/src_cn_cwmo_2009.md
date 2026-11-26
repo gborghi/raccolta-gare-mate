@@ -28,9 +28,15 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsieme di reali chiusi sotto radici e coefficienti polinomici*
+*Sottoinsieme dei numeri reali chiuso rispetto alle radici polinomiali e ai coefficienti*
 
-> $M$ sia un sottoinsieme di $\mathbb{R}$ ottenuto eliminando finitamente molti numeri reali da $\mathbb{R}$. Prova che per un dato numero positivo $n$ esiste un polinomio $f(x)$ di grado $n$ tale che tutti i suoi coefficienti e le sue radici reali $n$ siano in $M$.
+> Sia $M$ un sottoinsieme di $\mathbb{R}$ ottenuto cancellando un numero finito di numeri reali da $\mathbb{R}$. Dimostrare che, per ogni numero positivo dato $n$, esiste un polinomio $f(x)$ di grado $n$ tale che tutti i suoi coefficienti e le sue $n$ radici reali appartengono a $M$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2009#q01|src_cn_cwmo_2009__Q01]]
 
 
 
@@ -54,11 +60,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Settito più piccolo A contenente tutte le somme cicliche consecutive di n reali*
+*Insieme A più piccolo che contiene tutte le somme cicliche consecutive di n numeri reali*
 
-> $n \geq 3$ sia un dato numero intero. Determinare il numero intero positivo $k$ più piccolo per il quale esiste un insieme $A$ di numeri reali $k$ e $n$ di numeri reali $x_1, x_2, \ldots, x_n$ che sono distinti l'uno dall'altro in modo tale che $x_1 + x_2,\ x_2 + x_3,\ \ldots,\ x_{n-1} + x_n,\ x_n + x_1$ siano tutti nel insieme $A$.
+> Sia $n \geq 3$ un intero qualsiasi. Determinare il più piccolo intero positivo $k$ per cui esistano un insieme $A$ di $k$ numeri reali e $n$ numeri reali $x_1, x_2, \ldots, x_n$ tutti distinti tra loro, tali che $x_1 + x_2,\ x_2 + x_3,\ \ldots,\ x_{n-1} + x_n,\ x_n + x_1$ siano tutti contenuti nell'insieme $A$.
 
-**Risposta:** 3
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2009#q02|src_cn_cwmo_2009__Q02]]
 
 
 
@@ -83,11 +94,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Linea orthocentrica con AE=AF dà punti conciclici P,A,E,F*
+*La retta dell'ortocentro, con AE=AF, determina i punti P, A, E, F conici*
 
-> Che $H$ sia l'ortocentro di un triangolo acuto $ABC$, e $D$ sia il punto medio del lato $BC$. Una linea che attraversa il punto $H$ incontra i lati $AB$, $AC$ rispettivamente nei punti $F$ e $E$, in modo tale che $AE = AF$. La linea $EF$ incontra il circoncircolo di $\triangle ABC$ al punto $P$. Provare che $P$, $A$, $E$, $F$ sono conciclici.
+> Sia $H$ l'ortocentro di un triangolo acuto $ABC$, e sia $D$ il punto medio del lato $BC$. Una retta passante per il punto $H$ interseca i lati $AB$, $AC$ nei punti $F$, $E$ rispettivamente, in modo che $AE = AF$. La retta $EF$ interseca la circonferenza circoscritta di $\triangle ABC$ nel punto $P$. Dimostrare che $P$, $A$, $E$, $F$ sono concyclici.
 
 ![[src_cn_cwmo_2009__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2009#q03|src_cn_cwmo_2009__Q03]]
 
 
 
@@ -110,9 +128,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Infinitamente molti n che rendono 2^n+3^n-1 fino a 2^n+3^n-k tutti composti*
+*Infiniti n tali che 2^n+3^n-1 attraverso 2^n+3^n-k siano tutti composti*
 
-> Prova che per un dato intero positivo $k$, esistono infinitamente molti interi positivi $n$ in modo che i numeri $$2^n + 3^n - 1,\ 2^n + 3^n - 2,\ \ldots,\ 2^n + 3^n - k$$ siano tutti composti.
+> Dimostrare che, per ogni intero positivo $k$ dato, esistono infiniti interi positivi $n$ tali che i numeri $$2^n + 3^n - 1,\ 2^n + 3^n - 2,\ \ldots,\ 2^n + 3^n - k$$ siano tutti composti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2009#q04|src_cn_cwmo_2009__Q04]]
 
 
 
@@ -136,11 +161,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le ultime due cifre di x_2009 in sequenza con x_0 in {5,7}*
+*Ultime due cifre di x_2009 in sequenza con x_0 in {5,7}*
 
-> Se $x_n$ è una sequenza tale da $x_0 \in \{5, 7\}$ e $x_{n+1} \in \left\{\frac{1}{2}x_n,\ 7x_n\right\}$ per $n = 1, 2, \ldots$. Determinare tutti i possibili casi delle ultime due cifre di $x_{2009}$.
+> Sia $x_n$ una successione tale che $x_0 \in \{5, 7\}$, e $x_{n+1} \in \left\{\frac{1}{2}x_n,\ 7x_n\right\}$ per $n = 1, 2, \ldots$. Determinare tutti i casi possibili delle ultime due cifre di $x_{2009}$.
 
-**Risposta:** 07, 25, 43
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2009#q05|src_cn_cwmo_2009__Q05]]
 
 
 
@@ -165,11 +195,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*AMN~ABC se l'AD passa attraverso il circondario, attraverso le perpendicolari da A*
+*AMN~ABC se e solo se AD passa per il circocentro, tramite le perpendicolari condotte da A*
 
-> Il $D$ deve essere un punto sul lato $BC$ di un triangolo acuto $ABC$. Il cerchio di diametro $BD$ incontra rispettivamente le linee $AB$ e $AD$ nei punti $Y$ e $Q$, differenti dai punti $B$ e $D$. Il cerchio di diametro $CD$ incontra rispettivamente le linee $AC$ e $AD$ nei punti $P$ e $X$, differenti dai punti $C$ e $D$. Attraverso il punto $A$ disegnare due linee perpendicolari a $PX$ e $QY$ con i piedi perpendicolari $M$ e $N$ rispettivamente. Prove che $\triangle AMN \odot \triangle ABC$ se e solo se $AD$ passa attraverso il circondario di $\triangle ABC$.
+> Sia $D$ un punto sul lato $BC$ di un triangolo acutangolo $ABC$. La circonferenza avente come diametro $BD$ interseca le rette $AB$ e $AD$ rispettivamente nei punti $Y$ e $Q$, i quali sono diversi dai punti $B$ e $D$. La circonferenza avente come diametro $CD$ interseca le rette $AC$ e $AD$ rispettivamente nei punti $P$ e $X$, i quali sono diversi dai punti $C$ e $D$. Passando per il punto $A$, si traccino due rette perpendicolari rispettivamente a $PX$ e a $QY$, con i piedi delle perpendicolari $M$ e $N$ rispettivamente. Dimostrare che $\triangle AMN \odot \triangle ABC$ se e solo se $AD$ passa per il circocentro di $\triangle ABC$.
 
 ![[src_cn_cwmo_2009__q06.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2009#q06|src_cn_cwmo_2009__Q06]]
 
 
 
@@ -193,11 +230,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il minor numero di studenti s>12 assicurando che 3 condividano 4 risposte corrette identiche*
+*Numero minimo di studenti s>12 tale che 3 di essi abbiano 4 risposte corrette identiche*
 
-> Ci sono studenti $s$ ($s > 12$) che partecipano a un concorso di matematica. Il documento di esame è composto da 15 domande complete. Per ogni domanda, il punteggio di una risposta corretta è di 1 punto e nessun punto verrà assegnato se la risposta è errata o lasciata in bianco. Dopo aver analizzato tutti i possibili casi di distribuzione dei punteggi di questi studenti $s$, si scopre che se la somma dei punteggi totali di qualsiasi 12 studenti non è inferiore a 16 punti, allora ci sono almeno 3 studenti tra questi studenti $s$ che rispondono correttamente ad almeno 4 domande identiche. Determinare il minimo valore possibile di $s$.
+> Ci sono $s$ ($s > 12$) studenti che partecipano a una gara di matematica. La prova d'esame è composta da 15 domande a risposta aperta da completare. Per ciascuna domanda, una risposta corretta vale 1 punto; non si assegna alcun punto se la risposta è errata o non viene fornita. Dopo aver analizzato tutti i possibili casi di distribuzione dei punteggi di questi $s$ studenti, si scopre che, se la somma dei punteggi totali di qualsiasi gruppo di 12 studenti non è inferiore a 16 punti, allora tra questi $s$ studenti ci sono almeno 3 studenti che rispondono correttamente a almeno 4 domande identiche. Determinare il valore minimo possibile di $s$.
 
-**Risposta:** 911
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cwmo_2009#q07|src_cn_cwmo_2009__Q07]]
 
 
 
@@ -221,8 +263,13 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il più piccolo lambda(n) che limita |a_k| in termini di max(|a_1|,|a_n|)*
+*Trovare la più piccola lambda(n) che delimita |a_k| in funzione di max(|a_1|,|a_n|)*
 
-> $a_1, a_2, \ldots, a_n$ ($n \geq 3$) siano numeri reali che soddisfino $a_1 + a_2 + \cdots + a_n = 0$ e $2a_k \leq a_{k-1} + a_{k+1}$ per $k = 2, 3, \ldots, n-1$. Determinare il più piccolo $\lambda(n)$, in modo che per qualsiasi $k \in \{1, 2, \ldots, n\}$ si abbia $$|a_k| \leq \lambda(n) \cdot \max\{|a_1|,\ |a_n|\}.$$
+> Sia $a_1, a_2, \ldots, a_n$ ($n \geq 3$) un numero reale che soddisfa $a_1 + a_2 + \cdots + a_n = 0$ e $2a_k \leq a_{k-1} + a_{k+1}$ per $k = 2, 3, \ldots, n-1$. Determinare il più piccolo $\lambda(n)$ tale che, per ogni $k \in \{1, 2, \ldots, n\}$, si abbia $$|a_k| \leq \lambda(n) \cdot \max\{|a_1|,\ |a_n|\}.$$
 
-**Risposta:** \frac{n+1}{n-1}
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_telescoping|Telescoping]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2009#q08|src_cn_cwmo_2009__Q08]]

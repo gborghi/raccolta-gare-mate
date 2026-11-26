@@ -45,7 +45,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantity of squares with vertices on data points*
+*How many squares have vertices at given points?*
 
 ![[src_kangourou_2008_cadet_marzo__prob1.png]]
 
@@ -59,9 +59,17 @@ level: kangourou
 \end{document}
 ```
 
-> How many squares can be plotted that have as their vertices four of the points in the figure? A) 2                 B) 3              C) 4 D) 5                 E) 6
+> How many squares can be drawn that have
+> How many vertices are there among the four points in the figure?
+> A) 2                 B) 3              C) 4                
+> D) 5                 E) 6
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q01|src_kangourou_2008_cadet_marzo__Q01]]
 
 
 
@@ -91,11 +99,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of girls with influenza*
+*The minimum number of girls with the flu*
 
-> One class is made up of nine boys and 13 girls. Half of them have the flu. What's the minimum number of girls who definitely have the flu? A) 7 B) 5 C) 2 D) 6 E) 4
+> A class consists of 9 boys and 13 girls. Half of them have the flu. What is the minimum number of girls who definitely have the flu?
+> A) 7
+> B) 5
+> C) 2
+> D) 6
+> E) 4
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q02|src_kangourou_2008_cadet_marzo__Q02]]
 
 
 
@@ -127,11 +145,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of evaluating officers*
+*Number of assessment commissioners*
 
-> Twelve questions are assigned in a competition: the papers are distributed among the members of the judging panel so that all papers relating to a question are evaluated by two officers and that each commissioner evaluates the papers of three questions. How many members of the committee are there? A) 6 B) 8 C) 12 D) 18 E) 24
+> In an exam, 12 questions are set: the scripts were distributed among the members of the marking panel so that all scripts relating to a given question are assessed by two assessors and each assessor assesses the scripts for three questions. How many members are there on the panel?
+> A) 6 
+> B) 8 
+> C) 12 
+> D) 18 
+> E) 24
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q03|src_kangourou_2008_cadet_marzo__Q03]]
 
 
 
@@ -172,7 +200,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unknown number in grid 2x2*
+*Unknown number in the 2x2 grid*
 
 ![[src_kangourou_2008_cadet_marzo__prob4.png]]
 
@@ -186,9 +214,18 @@ level: kangourou
 \end{document}
 ```
 
-> The numbers 2, 3, 4, along with another unknown number, are written in the 2x2 grid on the side, one for each box. You know the sum of the numbers in the first line is 9 and the sum of the numbers in the second line is 6. The unknown number is A) 5 B) 6 C) 7 D) 8 E) 4
+> The numbers 2, 3, and 4, together with another unknown number, are written in the 2x2 grid alongside, one in each cell. It is known that the sum of the numbers in the first row is 9 and that the sum of the numbers in the second row is 6. The unknown number is
+> A) 5
+> B) 6
+> C) 7
+> D) 8
+> E) 4
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q04|src_kangourou_2008_cadet_marzo__Q04]]
 
 
 
@@ -240,40 +277,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Isosceles triangle with non-acute angle*
+*Isosceles triangle with a non-acute angle*
 
 ![[src_kangourou_2008_cadet_marzo__prob5.png]]
 
-> Pierino believes that if a triangle is isosceles, then all its angles are acute. Which of the following figures could convince him otherwise?
+> Pierino believes that if a triangle is isosceles, then all of its angles are acute. Which of the following figures can convince him otherwise? 60° 80° 40° 50° 80° 50° 150° 20° 10° 30° 120° 30° 60° 60° 60°
+> A)
+> B)
+> C)
+> D)
+> E)
+> Testi_08.qxp 9-03-2008 14:56 Page 16
 >
-> 60°
-> 80°
-> 40°
-> 50°
-> 80°
-> 50°
-> 150°
-> 20°
-> 10°
-> 30°
-> 120°
-> 30°
-> 60°
-> 60°
-> 60°
->
-> (A)
-> (B)
-> (C)
-> (D)
-> (E)
-> 
-> Page
-> Page 17
-> Kang 2008
-> Kang 2008
+> Pag. Pag. 17 17 Kang 2008 Kang 2008
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q05|src_kangourou_2008_cadet_marzo__Q05]]
 
 
 
@@ -304,9 +326,18 @@ level: kangourou
 
 *Maximum number of identical decks (MCD)*
 
-> A florist has 24 white roses, 42 red roses, and 36 yellow roses. She wants to make many identical bouquets, using all the flowers. How many bouquets can she make at most? A) 4 B) 6 C) 8 D) 10 E) 12
+> A florist has 24 white roses, 42 red roses, and 36 yellow roses available. She wants to make as many identical bouquets as possible, using all the flowers. What is the maximum number of bouquets she can make?
+> A) 4
+> B) 6
+> C) 8
+> D) 10
+> E) 12
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q06|src_kangourou_2008_cadet_marzo__Q06]]
 
 
 
@@ -339,20 +370,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Edges of the cube with cut-off vertices*
+*Edges of the cube with truncated vertices*
 
 ![[src_kangourou_2008_cadet_marzo__prob7.png]]
 
-> All the vertices of a cube have been sawn off, as
-> shown in the figure. How many edges does the new
-> solid obtained in this way have?
+> All the vertices of a cube have been sawn off, like
+> It is illustrated in the figure. How many edges does the new solid thus obtained have?
 > A) 26
 > B) 30
 > C) 36
 > D) 40
 > E) 48
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q07|src_kangourou_2008_cadet_marzo__Q07]]
 
 
 
@@ -387,9 +422,19 @@ level: kangourou
 
 ![[src_kangourou_2008_cadet_marzo__prob8.png]]
 
-> In the figure three straight lines a, b, c are represented which intersect at a point, forming angles the width of which (in degrees) is indicated in the figure. How many degrees does the angle painted in gray measure? A) 52 B) 53 C) 54 D) 55 E) 56
+> In the figure, three lines a, b, and c are shown.
+> which intersect at a single point, forming angles, the measures (in degrees) of two of which are indicated in the figure. How many degrees is the angle shaded gray?
+> A) 52
+> B) 53
+> C) 54
+> D) 55
+> E) 56
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q08|src_kangourou_2008_cadet_marzo__Q08]]
 
 
 
@@ -419,11 +464,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum coins to be exchanged for equal value*
+*Minimum number of coins to exchange for equal value*
 
-> Daniel has 9 coins, each of 2 cents; his sister Anna has 8 coins, each of 5 cents. What is the minimum number of coins that must be changed for each owner to have the same amount of money? A) 4 B) 5 C) 8 D) 12 E) The situation is not feasible.
+> Daniele has 9 coins, each worth 2 cents; his sister Anna has 8 coins, each worth 5 cents. What is the minimum number of coins that must change hands so that each person has the same amount of money?
+> A) 4
+> B) 5
+> C) 8
+> D) 12
+> E) The situation is not feasible.
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q09|src_kangourou_2008_cadet_marzo__Q09]]
 
 
 
@@ -450,11 +504,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Number of friends by 15 handshakes
+*Number of friends from 15 handshakes*
 
-> Some friends greet each other, each shaking hands with the others. If the handshakes were 15, how many friends are there? A) 15 B) 6 C) 5 D) 7 E) 14 Questions from N. 11 to N. 20 are worth 4 points each.
+> Some friends are greeting each other: each one shakes hands with all the others. If there have been 15 handshakes, how many friends are there?
+> A) 15               B) 6                 C) 5                  D) 7              E) 14
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q10|src_kangourou_2008_cadet_marzo__Q10]]
 
 
 
@@ -494,11 +555,23 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many buses to add to reduce waiting by 60%*
+*How many buses to add to reduce waiting time by 60%?*
 
-> The two buses serving on the circular line around Kangcity pass through a certain stop at regular intervals of 25 minutes. How many buses must be added to the line to shorten the waiting interval by 60%? A) 1 B) 2 C) 3 D) 5 E) 6 108° 124° Texts_08.qxp 9-03-2008 14:56 Page 17
+> The two buses serving the circular route around Kangcity pass a given stop at regular 25-minute intervals. How many more buses must be added to the route to reduce the waiting interval by 60%?
+> A) 1
+> B) 2
+> C) 3
+> D) 5
+> E) 6
+> 108° 124° Testi_08.qxp 9-03-2008 14:56 Page 17
+>
+> Pag. Pag. 18 18 Kang 2008 Kang 2008
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q11|src_kangourou_2008_cadet_marzo__Q11]]
 
 
 
@@ -526,11 +599,20 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Year of birth of de Morgan*
+*Year of de Morgan's birth*
 
-> The French mathematician August de Morgan, who died in 1899, used to say that he was x years old in the year x2. When was de Morgan born? A) 1806 B) 1848 C) 1849 D) 1899 E) In another year.
+> The French mathematician August de Morgan, who died in 1899, used to say that he had been x years old in the year x². When was de Morgan born?
+> A) 1806
+> B) 1848
+> C) 1849
+> D) 1899
+> E) In another year.
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q12|src_kangourou_2008_cadet_marzo__Q12]]
 
 
 
@@ -561,11 +643,21 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum runs to visit four islands*
+*Minimum number of trips to visit four islands*
 
-> We want to visit four islands A, B, C, D starting from the mainland, using the ferries that connect them. C is connected in both directions to the mainland; A and C are connected in both directions as well as A and D. A and B can only be reached from the mainland as A from B. What is the minimum number of trips sufficient to visit all the islands (with departure and arrival on the mainland)? A) 6 B) 5 C) 8 D) 4 E) 7
+> We want to visit four islands, A, B, C, and D, starting from the mainland and using the ferries that connect them. C is connected to the mainland in both directions; A and C are connected to each other in both directions, as are A and D. A and B can only be reached from the mainland, just as A can only be reached from B. What is the minimum number of ferry trips required to visit all the islands (with departure from and arrival on the mainland)?
+> A) 6
+> B) 5
+> C) 8
+> D) 4
+> E) 7
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q13|src_kangourou_2008_cadet_marzo__Q13]]
 
 
 
@@ -595,11 +687,19 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial rectangular perimeter (sizes Tom/Jerry)*
+*Perimeter of the initial rectangle (Tom/Jerry cuts)*
 
-> Tom and Jerry each have a rectangle. The two rectangles are the same. Everyone cuts their own. Tom gets two rectangles each of which has a perimeter of 40 cm, while Jerry gets two rectangles each of which has a perimeter of 50 cm. What was the perimeter of each of the initial rectangles? A) 40 cm B) 50 cm C) 60 cm D) 80 cm       E) 90 cm
+> Tom and Jerry each have a rectangle. The two rectangles are identical. Each of them cuts their own rectangle. Tom ends up with two rectangles, each with a perimeter of 40 cm, while Jerry ends up with two rectangles, each with a perimeter of 50 cm. What was the perimeter of each of the initial rectangles?
+> A) 40 cm
+> B) 50 cm
+> C) 60 cm
+> D) 80 cm E) 90 cm
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q14|src_kangourou_2008_cadet_marzo__Q14]]
 
 
 
@@ -628,13 +728,21 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which are not planar developments of the cut cube*
+*Which are not planar developments of the cut cube?*
 
 ![[src_kangourou_2008_cadet_marzo__prob15.png]]
 
-> A face of a cube is cut along its two diagonals. Which of the following are not nets of such a cube? A) 1 and 3 B) 1 and 5 C) 3 and 4 D) 3 and 5         E) 2 and 4
+> One face of a cube is cut along its two diagonals. Which of the following are not net diagrams of such a cube?
+> A) 1 and 3
+> B) 1 and 5
+> C) 3 and 4
+> D) 3 and 5         E) 2 and 4
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q15|src_kangourou_2008_cadet_marzo__Q15]]
 
 
 
@@ -691,7 +799,7 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Broken lines that divide the square into two equal areas*
+*Cuts that divide the square into two equal areas*
 
 ![[src_kangourou_2008_cadet_marzo__prob16.png]]
 
@@ -708,27 +816,22 @@ Number of friends by 15 handshakes
 ```
 
 > On this grid, 5 points are highlighted. Among
-> all the broken lines joining the 5 points made up of 4
-> consecutive segments, how many are those that divide the square into two regions of equal area?  
+> Of all the broken lines connecting the 5 points and consisting of 4 consecutive line segments, how many of them divide the square into two regions of equal area?
 > A) 0 
 > B) 1 
 > C) 2 
 > D) 3 
 > E) 4
-> 1
-> 2
-> 3
-> 4
-> 5
-> Testi_08.qxp  9-03-2008  14:56  Pagina 18
-> 
-> Pag. 
-> Pag. 19
-> 19
-> Kang 2008
-> Kang 2008
+> 1 2 3 4 5 Testi_08.qxp 9-03-2008 14:56 Page 18
+>
+> Pag. Pag. 19 19 Kang 2008 Kang 2008
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q16|src_kangourou_2008_cadet_marzo__Q16]]
 
 
 
@@ -778,7 +881,7 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the PQR triangle between four tangent circles*
+*Area of triangle PQR between four tangent circles*
 
 ![[src_kangourou_2008_cadet_marzo__prob17.png]]
 
@@ -798,9 +901,19 @@ Number of friends by 15 handshakes
 \end{document}
 ```
 
-> Four congruent circles of radius 6 centimeters are tangent to each other and to the sides of the rectangle as shown in the figure. If P is a vertex of the rectangle and Q and R are tangent points, how many square centimeters does the area of the PQR triangle measure? A) 27 B) 45 C) 54 D) 108 E) 180
+> Four congruent circles with a radius of 6 centimeters are tangent to one another and to the sides of the rectangle, as shown in the figure. If P is a vertex of the rectangle and Q and R are points of tangency, what is the area, in square centimeters, of triangle PQR?
+> A) 27  
+> B) 45  
+> C) 54  
+> D) 108     
+> E) 180
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q17|src_kangourou_2008_cadet_marzo__Q17]]
 
 
 
@@ -834,11 +947,21 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of cards from the first essay (parity)*
+*Sum of the cards in the first game (drawn)*
 
-> A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards from the box: the first takes three, the second two from the remaining ones; the last two remain locked in the box. The first wise man, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is even". How much is the sum of the numbers shown on the cards the first wise man drew? A) 10 B) 12 C) 6 D) 9 E) 15
+> A box contains seven cards numbered from 1 to 7. Two sages draw cards at random from the box: the first draws three, and the second draws two from the remaining ones; the last two stay in the box. After looking only at the numbers written on the cards he has drawn, the first sage says to the second: "I am certain that the sum of the numbers on your cards is even." What is the value of the sum of the numbers on the cards drawn by the first sage?
+> A) 10
+> B) 12
+> C) 6
+> D) 9
+> E) 15
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q18|src_kangourou_2008_cadet_marzo__Q18]]
 
 
 
@@ -871,11 +994,20 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time of arrival of the excursion (proportions)*
+*Excursion arrival time (proportions)*
 
-> Lucy and Charles go on a mountain trip. When they leave, they read on a sign that their destination is 2 hours and 55 minutes away. They leave the village at 12 o'clock, and at exactly 1 p.m., they make their first stop and read on another sign that their destination is only 1 hour and 15 minutes away. After a quarter of an hour's pause, they continue the journey at the same speed and without stopping. What time do they arrive at their destination? (a) at 14:30 b) at 14:00 c) at 14:55 d) at 15:10 e) at 15:20
+> Lucia and Carlo set off on a mountain hike. At the start, they read on a trail marker that their destination was 2 hours and 55 minutes' walk away. They leave the village at exactly 12:00, and at exactly 13:00 they take their first break and read on another trail marker that their destination was only 1 hour and 15 minutes away. After a quarter-hour break, they continue the hike at the same pace as before and without any more breaks. What time do they arrive at their destination?
+> A) at 14:30
+> B) at 14:00
+> C) at 14:55
+> D) at 15:10
+> E) at 15:20
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q19|src_kangourou_2008_cadet_marzo__Q19]]
 
 
 
@@ -907,11 +1039,22 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum points on a straight line to achieve 9 distances*
+*Minimum number of points on a line to create 9 distances*
 
-> There are points on a straight line. Some of the distances between them are: 1 cm, 2 cm, 3 cm, 4 cm, 5 cm, 6 cm, 7 cm, 8 cm, 9 cm. What is the minimum number of points that allows this condition to be achieved? A) 4 B) 5 C) 6 D) 7 E) 8 Questions from N. 21 to N. 30 are worth 5 points each.
+> Points are marked on a straight line. Some of the distances between them are: 1 cm, 2 cm, 3 cm, 4 cm, 5 cm, 6 cm, 7 cm, 8 cm, 9 cm. What is the minimum number of points needed to satisfy this condition?
+> A) 4
+> B) 5
+> C) 6
+> D)7
+> E) 8
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q20|src_kangourou_2008_cadet_marzo__Q20]]
 
 
 
@@ -953,23 +1096,24 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cryptarithm KAN - GAR = OO, maximum KAN*
+*Cryptoarithmetic KAN-GAR=OO, maximum KAN*
 
-> In the equation KAN – GAR = OO, each letter represents a digit (in decimal notation): different letters represent different digits, and identical letters represent the same digit. What is the maximum possible value that the number KAN can take?
+> In the equality KAN – GAR = OO, each letter represents a digit (in decimal notation): different letters represent different digits, and identical letters represent identical digits. What is the maximum value that the number KAN can take?
+> A) 987
+> B) 876
+> C) 865
+> D) 864
+> E) 785
+> R Q P Testi_08.qxp 9-03-2008 14:56 Page 19
 >
-> (A) 987
-> (B) 876
-> (C) 865
-> (D) 864
-> (E) 785
-> 
-> Page
-> Page 20
-> 20
-> Kang 2008
-> Kang 2008
+> Pag. Pag. 20 20 Kang 2008 Kang 2008
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q21|src_kangourou_2008_cadet_marzo__Q21]]
 
 
 
@@ -1001,9 +1145,18 @@ Number of friends by 15 handshakes
 
 *Minimum number of girls (45%<p/q<50%)*
 
-> In a company, girls make up more than 45% but less than 50%. What's the minimum number of girls you have to think are part of that company? A) 3 B) 4 C) 5 D) 6 E) 7
+> In a group, girls make up more than 45% but less than 50% of the members. What is the minimum number of girls you must assume are part of this group?
+> A) 3
+> B) 4
+> C) 5
+> D) 6
+> E) 7
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q22|src_kangourou_2008_cadet_marzo__Q22]]
 
 
 
@@ -1036,11 +1189,21 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the answer on the seventh day*
+*What does the seventh day reply?*
 
-> A guy always tells the truth on Thursday and Friday, always lies on Tuesday, while on the other days of the week he lies or tells the truth without a rule. He was asked his name for seven days in a row and in the first six he provided the following answers in order: Luca, Mario, Luca, Mario, Piero, Mario. What did he answer on the seventh day? A) Luca B) Mario C) Piero D) Rita E) There is not enough data to decide.
+> A boy always tells the truth on Thursdays and Fridays, always lies on Tuesdays, while on the other days of the week he either lies or tells the truth without any pattern. He was asked for his name for seven days in a row, and on the first six days he gave the following answers in order: Luca, Mario, Luca, Mario, Piero, Mario. What did he answer on the seventh day?
+> A) Luca
+> B) Mario
+> C) Piero
+> D) Rita
+> E) There is insufficient data to decide.
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q23|src_kangourou_2008_cadet_marzo__Q23]]
 
 
 
@@ -1071,18 +1234,21 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Kangaroos of a single colour (inclusion-exclusion)*
+*Single-color kangaroos (inclusion-exclusion)*
 
-> Matilde drew 36 kangaroos using three distinct colours. White was used for 25 kangaroos, red for 28 and black for 20. Only
-> for 5 kangaroos were all three colours used. How many of the
-> drawn kangaroos are of a single colour?
-> A) None. 
+> Matilde has drawn 36 kangaroos using three distinct colors. White was used for 25 kangaroos, red for 28, and black for 20. All three colors were used for only 5 kangaroos. How many of the kangaroos drawn are in a single color?
+> A) None.
 > B) 4    
 > C) 12  
 > D) 31 
-> E) It is impossible to determine it with certainty.
+> E) It is impossible to determine this with certainty.
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q24|src_kangourou_2008_cadet_marzo__Q24]]
 
 
 
@@ -1112,17 +1278,21 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many special triples of primes*
+*How many special triples of primes?*
 
-> We call a triple of positive prime numbers "special" if their
-> product is equal to five times their sum. How many special triples exist?
+> We call a triple of positive prime numbers "special" if their product equals five times their sum. How many special triples exist?
 > A) 0
 > B) 1
 > C) 2
 > D) 4
 > E) 6
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q25|src_kangourou_2008_cadet_marzo__Q25]]
 
 
 
@@ -1162,27 +1332,24 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Comparison of sets A,B (product of digits)*
+*Comparison of sets A, B (product of digits)*
 
-> Let A be the set of 5-digit numbers such that the product of
-> their digits is 25 and B the set of 5-digit numbers such that the product
-> of their digits is 15. Which of the two sets contains more elements? What
-> is the ratio between the number of elements of the larger set and the
-> number of elements of the other?
-> A) the set A; ratio 5/3. 
+> Let A be the set of 5-digit numbers whose digit product is 25, and let B be the set of 5-digit numbers whose digit product is 15. Which of the two sets contains more elements? What is the ratio of the number of elements in the larger set to the number of elements in the other set?
+> A) set A; ratio 5/3.
 > B) the set A; ratio 2.
-> C) the set B; ratio 5/3.
-> D) the set B; ratio 2.
+> C) set B; ratio 5/3.
+> D) set B; ratio 2.
 > E) A and B have the same number of elements; ratio 1.
-> Testi_08.qxp  9-03-2008  14:56  Page 20
-> 
-> Pag. 
-> Pag. 21
-> 21
-> Kang 2008
-> Kang 2008
+> Testi_08.qxp 9-03-2008 14:56 Page 20
+>
+> Pag. Pag. 21 21 Kang 2008 Kang 2008
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q26|src_kangourou_2008_cadet_marzo__Q26]]
 
 
 
@@ -1215,13 +1382,23 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of points on the inner faces of four dice*
+*Sum the points on the inner faces of four dice*
 
 ![[src_kangourou_2008_cadet_marzo__prob27.png]]
 
-> Four identical dice are placed side by side as shown in the figure. The faces of each die are numbered from 1 to 6, but the dice are not standard, i.e. the sum of the points of two opposite faces may not be worth 7. What is the sum total of the dots that appear on the six faces, each of which comes into contact with some other face? A) 19 B) 20 C) 21 D) 22 E) 23
+> Four identical dice are placed side by side.
+> As shown in the figure. The faces of each die are numbered from 1 to 6, but the dice are not standard—that is, the sum of the dots on two opposite faces may not be 7. What is the total sum of the dots that appear on the 6 faces, each of which comes into contact with some other face?
+> A) 19
+> B) 20
+> C) 21
+> D) 22
+> E) 23
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q27|src_kangourou_2008_cadet_marzo__Q27]]
 
 
 
@@ -1251,11 +1428,21 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of difference in digits of 2-digit numbers*
+*Sum the digits of two-digit numbers*
 
-> For every two-digit number, we subtract the units digit from the tens digit. How much is the sum of all these differences? A) 90 B) 100 C) 55 D) 45 E) 30
+> For each two-digit number, we subtract the units digit from the tens digit. What is the sum of all these differences?
+> A) 90
+> B) 100
+> C) 55
+> D) 45
+> E) 30
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q28|src_kangourou_2008_cadet_marzo__Q28]]
 
 
 
@@ -1287,11 +1474,21 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many rational numbers are perfect squares (GCD,lcm)*
+*How many rational numbers are perfect squares (GCD, LCM)*
 
-> The greatest common divisor of two positive integers m and n is 12 and their least common multiple is a perfect square. So how many of the five rational numbers are perfect squares? A) 1 B) 2 C) 3 D) 4 E) No decision can be made without further information.
+> The greatest common divisor of two positive integers m and n is 12, and their least common multiple is a perfect square. Then how many of the 5 rational numbers are perfect squares?
+> A) 1 
+> B) 2 
+> C) 3 
+> D) 4 
+> E) A decision cannot be made without further information.
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q29|src_kangourou_2008_cadet_marzo__Q29]]
 
 
 
@@ -1342,16 +1539,27 @@ Number of friends by 15 handshakes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*False claim on M (area 1)*
+*False statement about M (area 1)*
 
-> We denote with M the product of the perimeter of a triangle for the sum of the three heights of the same triangle. Which of the following is false if the area of the triangle is 1? A) M can be greater than 1000. B) M is always greater than 6. C) M can be equal to 18. D) If the triangle is right-angled, then M>16. E) M may be less than 12. m . n m 4 n 4 m 3 n 3
-> 
->  
->  
+> Let M denote the product of the perimeter of a triangle and the sum of the triangle's three altitudes. Which of the following statements is false if the area of the triangle is 1?
+> A) M can be greater than 1000.
+> B) M is always greater than 6.
+> C) M can be equal to 18.
+> D) If the triangle is right-angled, then M > 16.
+> E) M can be less than 12.
+> m . n m 4 n 4 m 3 n 3 Testi_08.qxp 9-03-2008 14:56 Page 21
+>
+>
+>
 > 1
->  
-> Cadet category For third year students of primary secondary school or first year of secondary school
->  
+>
+> Cadet Category: for students in the third year of lower secondary school or the first year of upper secondary school
+>
 > Solutions
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_cadet_marzo#q30|src_kangourou_2008_cadet_marzo__Q30]]

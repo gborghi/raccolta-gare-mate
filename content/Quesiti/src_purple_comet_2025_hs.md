@@ -20,18 +20,20 @@ level: Purple Comet High School
 > Ralph è entrato in un negozio e ha comprato un articolo da 10 dollari con uno sconto del 10 per cento, un articolo da 15 dollari con uno sconto del 15 per cento e un articolo da 25 dollari con uno sconto del 25 per cento. Determinare lo sconto percentuale complessivo ottenuto da Ralph in quella spesa.
 
 **Risposta:** 0019
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.1](https://purplecomet.org/files/2025HSSolutions.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2025HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.1
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Overall discount*
+*A 10-dollar item at 10 per cent off, a 15-dollar item at 15 per cent off and a 25-dollar item at 25 per cent off: the overall percentage discount*
 
-> Ralph went into a store and bought a 10 dollar item at a 10 percent discount, a 15 dollar item at a 15 percent discount, and a 25 dollar item at a 25 percent discount. Find the percent discount Ralph received on his trip to the store.
+> Ralph went into a shop and bought a 10-dollar item at a 10 per cent discount, a 15-dollar item at a 15 per cent discount and a 25-dollar item at a 25 per cent discount. Determine the overall percentage discount Ralph received on that purchase.
 
 **Answer:** 0019
+
+[[Quesiti/src_purple_comet_2025_hs#q01|src_purple_comet_2025_hs__Q01]]
 
 
 
@@ -47,18 +49,22 @@ level: Purple Comet High School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0180
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.1](https://purplecomet.org/files/2025HSSolutions.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2025HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.1
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers like 2025*
+*Four-digit positive integers with two equal non-zero even digits, one digit 0 and one odd digit*
 
-> The number 2025 has two identical nonzero even digits, one 0 digit, and one odd digit. Find the number of four-digit positive integers that have two identical nonzero even digits, one 0 digit, and one odd digit.
+> The number 2025 has two equal non-zero even digits, one digit 0 and one odd digit. Determine how many four-digit positive integers have two equal non-zero even digits, one digit 0 and one odd digit.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0180
+
+[[Quesiti/src_purple_comet_2025_hs#q02|src_purple_comet_2025_hs__Q02]]
 
 
 
@@ -75,19 +81,24 @@ level: Purple Comet High School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0084
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.1](https://purplecomet.org/files/2025HSSolutions.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2025HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.1
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers in the domain*
+*How many integers lie in the domain of a given real function*
 
-> Find the number of integers in the domain of the real-valued function
+> Determine how many integers belong to the domain of the real function
+>
 > $$\frac{\sqrt{40-x}}{27-\sqrt{2025-x^2}}.$$
 
+**Topic:** [[topic_algebra|Algebra]]
+
 **Answer:** 0084
+
+[[Quesiti/src_purple_comet_2025_hs#q03|src_purple_comet_2025_hs__Q03]]
 
 
 
@@ -105,20 +116,24 @@ level: Purple Comet High School
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0096
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.2](https://purplecomet.org/files/2025HSSolutions.pdf#page=2)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2025HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.2
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle at the orthocenter*
+*Altitudes meeting at H, exterior angles 111° and 153°: the measure of angle BHC*
+
+> The altitudes of $\triangle ABC$ meet at $H$. The exterior angles at $B$ and at $C$ measure $111^\circ$ and $153^\circ$ respectively, as in the figure. Determine the measure in degrees of $\angle BHC$.
 
 ![[src_purple_comet_2025_hs__prob4.png]]
 
-> The altitudes of $\triangle ABC$ intersect at $H$. The external angles at $B$ and $C$ are $111^\circ$ and $153^\circ$, respectively, as shown. Find the degree measure of $\angle BHC$.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
 
 **Answer:** 0096
+
+[[Quesiti/src_purple_comet_2025_hs#q04|src_purple_comet_2025_hs__Q04]]
 
 
 
@@ -134,18 +149,22 @@ level: Purple Comet High School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 8192
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.2](https://purplecomet.org/files/2025HSSolutions.pdf#page=2)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2025HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.2
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Powers of complex numbers*
+*The value of (1+i)^29 / (1−i)^3*
 
-> Evaluate $\dfrac{(1+i)^{29}}{(1-i)^3}$, where $i^2 = -1$.
+> Compute $\dfrac{(1+i)^{29}}{(1-i)^3}$, where $i^2=-1$.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** 8192
+
+[[Quesiti/src_purple_comet_2025_hs#q05|src_purple_comet_2025_hs__Q05]]
 
 
 
@@ -161,18 +180,22 @@ level: Purple Comet High School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1012
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.2](https://purplecomet.org/files/2025HSSolutions.pdf#page=2)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2025HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.2
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perfect square*
+*Largest integer n for which n² + 2025 is a perfect square*
 
-> Find the greatest integer $n$ for which $n^2 + 2025$ is a perfect square.
+> Determine the largest integer $n$ for which $n^2+2025$ is a perfect square.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 1012
+
+[[Quesiti/src_purple_comet_2025_hs#q06|src_purple_comet_2025_hs__Q06]]
 
 
 
@@ -190,20 +213,24 @@ level: Purple Comet High School
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0125
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.3](https://purplecomet.org/files/2025HSSolutions.pdf#page=3)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2025HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.3
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Octagon from two rectangles*
+*Two 3 by 4 rectangles sharing a diagonal: m + n for the area of the shaded octagon*
+
+> Two rectangles, each of width 3 and length 4, are arranged so that they share a diagonal, as in the figure. The area of the shaded octagon in the figure is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
 
 ![[src_purple_comet_2025_hs__prob7.png]]
 
-> Two rectangles each with width 3 and length 4 are placed so that they share a diagonal, as shown. The area of the octagon shaded in the diagram is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0125
+
+[[Quesiti/src_purple_comet_2025_hs#q07|src_purple_comet_2025_hs__Q07]]
 
 
 
@@ -221,20 +248,26 @@ level: Purple Comet High School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0009
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.4](https://purplecomet.org/files/2025HSSolutions.pdf#page=4)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2025HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.4
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exponential equation with logarithms*
+*Positive reals a > b satisfying a logarithmic equation: the value of a/b*
 
-> Let $a$ and $b$ be real numbers with $a > b > 0$ satisfying
+> Let $a$ and $b$ be real numbers with $a>b>0$ such that
+>
 > $$2^{3+\log_4 a+\log_4 b}=3^{1+\log_3(a-b)}.$$
-> Find $\dfrac{a}{b}$.
+>
+> Determine $\dfrac{a}{b}$.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** 0009
+
+[[Quesiti/src_purple_comet_2025_hs#q08|src_purple_comet_2025_hs__Q08]]
 
 
 
@@ -250,18 +283,22 @@ level: Purple Comet High School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0008
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.5](https://purplecomet.org/files/2025HSSolutions.pdf#page=5)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2025HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.5
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Candies in three piles*
+*Nine red sweets and nine green sweets in three piles of six: arrangements up to order of the piles*
 
-> Nine red candies and nine green candies are placed into three piles with six candies in each pile. Two collections of piles are considered to be the same if they differ only in the ordering of the piles. For example, three piles with 2, 3, and 4 red candies is the same as piles with 4, 2, and 3 red candies, but not the same as piles with 1, 4, and 4 red candies. Find the number of different results that are possible.
+> Nine red sweets and nine green sweets are divided into three piles of six sweets each. Two arrangements into piles are regarded as the same if they differ only in the order of the piles. For example, three piles with 2, 3 and 4 red sweets are the same arrangement as piles with 4, 2 and 3 red sweets, but not the same as piles with 1, 4 and 4 red sweets. Determine how many different outcomes are possible.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** 0008
+
+[[Quesiti/src_purple_comet_2025_hs#q09|src_purple_comet_2025_hs__Q09]]
 
 
 
@@ -279,20 +316,26 @@ level: Purple Comet High School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0051
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.5](https://purplecomet.org/files/2025HSSolutions.pdf#page=5)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2025HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.5
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of power sums*
+*The quotient of the sum of fourth powers by the sum of squares is a quadratic in n: p + 10q for the constant term*
 
-> There are rational numbers $a$, $b$, and $c$ such that, for every positive integer $n$,
+> There exist rational numbers $a$, $b$ and $c$ such that, for every positive integer $n$,
+>
 > $$\frac{1^4+2^4+\cdots+n^4}{1^2+2^2+\cdots+n^2}=an^2+bn+c.$$
-> There are relatively prime positive integers $p$ and $q$ such that $c = -\frac{p}{q}$. Find $p + 10q$.
+>
+> There exist coprime positive integers $p$ and $q$ such that $c=-\frac{p}{q}$. Determine $p+10q$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0051
+
+[[Quesiti/src_purple_comet_2025_hs#q10|src_purple_comet_2025_hs__Q10]]
 
 
 
@@ -310,20 +353,26 @@ level: Purple Comet High School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0084
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.5](https://purplecomet.org/files/2025HSSolutions.pdf#page=5)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2025HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.5
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum and sum of reciprocals*
+*Positive integers summing to 104 whose reciprocals sum to 1/4: the greatest possible maximum*
 
-> Positive integers $m$, $n$, and $p$ satisfy
-> $$m+n+p=104\quad\text{and}\quad \frac1m+\frac1n+\frac1p=\frac14.$$
-> Find the greatest possible value of $\max(m, n, p)$.
+> The positive integers $m$, $n$ and $p$ satisfy
+>
+> $$m+n+p=104\quad\text{e}\quad \frac1m+\frac1n+\frac1p=\frac14.$$
+>
+> Determine the greatest possible value of $\max(m,n,p)$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0084
+
+[[Quesiti/src_purple_comet_2025_hs#q11|src_purple_comet_2025_hs__Q11]]
 
 
 
@@ -341,20 +390,24 @@ level: Purple Comet High School
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0056
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.6](https://purplecomet.org/files/2025HSSolutions.pdf#page=6)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2025HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.6
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Marked squares in a 4×4 grid*
+*Marking squares of a 4×4 grid so that every 2×2 subgrid has the same number of marked squares*
+
+> Determine in how many ways one can mark a subset of the sixteen $1\times1$ squares of a $4\times4$ grid so that every $2\times2$ subgrid of the $4\times4$ grid contains the same number of marked squares, as in the example in the figure, in which every $2\times2$ subgrid contains one marked square.
 
 ![[src_purple_comet_2025_hs__prob12.png]]
 
-> Find the number of ways to mark a subset of the sixteen $1 \times 1$ squares in a $4 \times 4$ grid of squares in such a way that each $2 \times 2$ grid within the $4 \times 4$ grid contains the same number of marked squares, as in the example below, where each $2 \times 2$ grid contains one marked square.
+**Topic:** [[topic_combinatoria|Combinatorics]]
 
 **Answer:** 0056
+
+[[Quesiti/src_purple_comet_2025_hs#q12|src_purple_comet_2025_hs__Q12]]
 
 
 
@@ -370,18 +423,22 @@ level: Purple Comet High School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0284
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.7](https://purplecomet.org/files/2025HSSolutions.pdf#page=7)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2025HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.7
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Roots in arithmetic progression*
+*The value of k for which the roots of x³ − 30x² + kx − 840 form an arithmetic progression*
 
-> Find $k$ so that the roots of the polynomial $x^3 - 30x^2 + kx - 840$ form an arithmetic progression.
+> Determine $k$ so that the roots of the polynomial $x^3-30x^2+kx-840$ form an arithmetic progression.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** 0284
+
+[[Quesiti/src_purple_comet_2025_hs#q13|src_purple_comet_2025_hs__Q13]]
 
 
 
@@ -399,20 +456,26 @@ level: Purple Comet High School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0000
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.8](https://purplecomet.org/files/2025HSSolutions.pdf#page=8)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2025HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.8
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A symmetric system*
+*Three real numbers linked by quadratic equations: the value of x + y + z*
 
-> Let $x$, $y$, and $z$ be real numbers satisfying
+> Let $x$, $y$ and $z$ be real numbers such that
+>
 > $$x^2+\frac2x=yz,\qquad y^2-\frac3y=zx,\qquad z^2+\frac1z=xy.$$
-> Find $x + y + z$.
+>
+> Determine $x+y+z$.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** 0000
+
+[[Quesiti/src_purple_comet_2025_hs#q14|src_purple_comet_2025_hs__Q14]]
 
 
 
@@ -430,20 +493,24 @@ level: Purple Comet High School
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0828
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.9](https://purplecomet.org/files/2025HSSolutions.pdf#page=9)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2025HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.9
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Between two circles*
+*A circle of radius 20 through the vertices of a square, and the circle on one side as diameter: the integer below the shaded area*
+
+> The circle $\omega_1$ of radius 20 passes through the vertices of a square. The circle $\omega_2$ has a side of the square as diameter. The region inside $\omega_1$ but outside $\omega_2$, shaded in the figure, has an area lying between the integer $N$ and the integer $N+1$. Determine $N$.
 
 ![[src_purple_comet_2025_hs__prob15.png]]
 
-> Circle $\omega_1$ with radius 20 passes through the vertices of a square. Circle $\omega_2$ has a diameter that is one side of the square. The region inside $\omega_1$ but outside of $\omega_2$, as shaded in the diagram, has an area that is between the integer $N$ and the integer $N + 1$. Find $N$.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
 
 **Answer:** 0828
+
+[[Quesiti/src_purple_comet_2025_hs#q15|src_purple_comet_2025_hs__Q15]]
 
 
 
@@ -459,18 +526,22 @@ level: Purple Comet High School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0101
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.9](https://purplecomet.org/files/2025HSSolutions.pdf#page=9)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2025HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.9
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Secant and tangent*
+*A real a in (0, π/2) with sec⁴ a + tan⁴ a = 5101: the value of sec² a + tan² a*
 
-> There is a real number $a$ in the interval $\left(0, \frac{\pi}{2}\right)$ such that $\sec^4 a + \tan^4 a = 5101$. Find the value of $\sec^2 a + \tan^2 a$.
+> There exists a real number $a$ in the interval $\left(0,\frac{\pi}{2}\right)$ such that $\sec^4 a+\tan^4 a=5101$. Determine the value of $\sec^2 a+\tan^2 a$.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** 0101
+
+[[Quesiti/src_purple_comet_2025_hs#q16|src_purple_comet_2025_hs__Q16]]
 
 
 
@@ -488,20 +559,26 @@ level: Purple Comet High School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0108
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.10](https://purplecomet.org/files/2025HSSolutions.pdf#page=10)
-**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2025HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.10
+**Fonte:** apri PDF p.4 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nested radicals and cubes*
+*A real greater than 1 given by nested radicals: 10m + n for a³ − 1/a³ = m + n√2*
 
-> Let $a$ be a real number greater than 1 satisfying
-> $$a+\frac1a=\sqrt{\frac{7+\sqrt{41}}{2}}+\sqrt{\frac{7-\sqrt{41}}{2}}\quad\text{and}\quad a^3-\frac1{a^3}=m+n\sqrt2,$$
-> where $m$ and $n$ are positive integers. Find $10m + n$.
+> Let $a$ be a real number greater than 1 such that
+>
+> $$a+\frac1a=\sqrt{\frac{7+\sqrt{41}}{2}}+\sqrt{\frac{7-\sqrt{41}}{2}}\quad\text{e}\quad a^3-\frac1{a^3}=m+n\sqrt2,$$
+>
+> where $m$ and $n$ are positive integers. Determine $10m+n$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0108
+
+[[Quesiti/src_purple_comet_2025_hs#q17|src_purple_comet_2025_hs__Q17]]
 
 
 
@@ -517,18 +594,22 @@ level: Purple Comet High School
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0107
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.10](https://purplecomet.org/files/2025HSSolutions.pdf#page=10)
-**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2025HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.10
+**Fonte:** apri PDF p.4 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coins on the diagonals*
+*Coins in a 4×4 grid, two per row and per column: the probability that at least one diagonal is full, as m + n*
 
-> In a $4 \times 4$ grid of cells, coins are placed at random into 8 of the 16 cells so that there are 2 coins in each row and 2 coins in each column of the grid. The probability that all 4 cells of at least one of the two diagonals of the grid contain coins can be written as $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+> In a $4\times4$ grid, coins are placed at random in 8 of the 16 cells, so that there are 2 coins in each row and 2 coins in each column of the grid. The probability that all 4 cells of at least one of the two diagonals of the grid contain a coin can be written as $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
 
 **Answer:** 0107
+
+[[Quesiti/src_purple_comet_2025_hs#q18|src_purple_comet_2025_hs__Q18]]
 
 
 
@@ -546,20 +627,26 @@ level: Purple Comet High School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0068
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.11](https://purplecomet.org/files/2025HSSolutions.pdf#page=11)
-**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2025HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.11
+**Fonte:** apri PDF p.4 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of four linear factors*
+*A solution of (3x+1)(4x+1)(6x+1)(12x+1) = 5 of the form (−p + i√q)/r: p + q + r*
 
 > The equation
+>
 > $$(3x+1)(4x+1)(6x+1)(12x+1)=5$$
-> has a solution of the form $\frac{-p+i\sqrt{q}}{r}$, where $p$ is a prime number, $q$ and $r$ are positive integers, and $i = \sqrt{-1}$. Find $p + q + r$.
+>
+> has a solution of the form $\frac{-p+i\sqrt q}{r}$, where $p$ is a prime, $q$ and $r$ are positive integers, and $i=\sqrt{-1}$. Determine $p+q+r$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0068
+
+[[Quesiti/src_purple_comet_2025_hs#q19|src_purple_comet_2025_hs__Q19]]
 
 
 
@@ -575,18 +662,22 @@ level: Purple Comet High School
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0053
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.12](https://purplecomet.org/files/2025HSSolutions.pdf#page=12)
-**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2025HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.12
+**Fonte:** apri PDF p.4 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference of two dice*
+*Two fair dice: the expected non-negative difference, as m + n*
 
-> Two fair, standard six-sided dice are rolled. The expected value of the nonnegative difference in the two numbers obtained can be written as $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+> Two fair standard six-sided dice are rolled. The expected value of the non-negative difference between the two numbers obtained can be written as $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0053
+
+[[Quesiti/src_purple_comet_2025_hs#q20|src_purple_comet_2025_hs__Q20]]
 
 
 
@@ -604,20 +695,26 @@ level: Purple Comet High School
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0125
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.12](https://purplecomet.org/files/2025HSSolutions.pdf#page=12)
-**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2025HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.12
+**Fonte:** apri PDF p.4 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inradius in the complex plane*
+*Inradius of a triangle in the complex plane: m + n + p + q*
 
-> Let $T$ be the triangle in the complex plane with vertices at $-8 + i$, $1 + 2i$, and $4 + 6i$. The inradius of $T$ is equal to
+> Let $T$ be the triangle in the complex plane with vertices at $-8+i$, $1+2i$ and $4+6i$. The radius of the circle inscribed in $T$ is equal to
+>
 > $$\frac{m(n-\sqrt p)}{q},$$
-> where $m$, $n$, $p$, and $q$ are positive integers and $m$ and $q$ are relatively prime. Find $m + n + p + q$.
+>
+> where $m$, $n$, $p$ and $q$ are positive integers, and $m$ and $q$ are coprime. Determine $m+n+p+q$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0125
+
+[[Quesiti/src_purple_comet_2025_hs#q21|src_purple_comet_2025_hs__Q21]]
 
 
 
@@ -634,19 +731,24 @@ level: Purple Comet High School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0166
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.13](https://purplecomet.org/files/2025HSSolutions.pdf#page=13)
-**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2025HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.13
+**Fonte:** apri PDF p.4 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Primes dividing a sum of squares*
+*Sum of the primes that divide a signed sum of squares up to 199²*
 
-> Find the sum of the prime numbers that divide the sum
+> Determine the sum of the primes that divide the sum
+>
 > $$1^2+2^2-3^2+4^2+5^2-6^2+\cdots+196^2+197^2-198^2+199^2.$$
 
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
+
 **Answer:** 0166
+
+[[Quesiti/src_purple_comet_2025_hs#q22|src_purple_comet_2025_hs__Q22]]
 
 
 
@@ -662,18 +764,22 @@ level: Purple Comet High School
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1952
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.14](https://purplecomet.org/files/2025HSSolutions.pdf#page=14)
-**Fonte:** [apri PDF p.5](https://purplecomet.org/files/2025HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.14
+**Fonte:** apri PDF p.5 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Books, bookends and vases*
+*Four books, four bookends and three vases in a random line: the probability that the line is stable, as m + n*
 
-> Four books (B), four bookends (E), and three vases (V) are aligned on a bookshelf in random order. The alignment is *stable* if every adjacent set of one or more books has a bookend at each end, as in VVEBBEBBEVE or EBBBEVVEBEV. If the books, bookends, and vases are aligned on the bookshelf in random order, the probability that the resulting alignment is stable is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+> Four books (B), four bookends (E) and three vases (V) are lined up in random order on a shelf. The lineup is called *stable* if every group of one or more adjacent books has a bookend at each end, as in VVEBBEBBEVE or EBBBEVVEBEV. If the books, bookends and vases are lined up on the shelf in random order, the probability that the lineup obtained is stable is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 1952
+
+[[Quesiti/src_purple_comet_2025_hs#q23|src_purple_comet_2025_hs__Q23]]
 
 
 
@@ -691,20 +797,26 @@ level: Purple Comet High School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0059
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.15](https://purplecomet.org/files/2025HSSolutions.pdf#page=15)
-**Fonte:** [apri PDF p.5](https://purplecomet.org/files/2025HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.15
+**Fonte:** apri PDF p.5 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*An equation with secants*
+*Three distinct solutions in [0, π] of sec(2x) − sec x = 2: 10m + n for π over their sum*
 
-> Three distinct real numbers $x_1$, $x_2$, and $x_3$ in the interval $[0, \pi]$ satisfy the equation $\sec(2x) - \sec x = 2$. There are relatively prime positive integers $m$ and $n$ such that
+> Three distinct real numbers $x_1$, $x_2$ and $x_3$ in the interval $[0,\pi]$ satisfy the equation $\sec(2x)-\sec x=2$. There exist coprime positive integers $m$ and $n$ such that
+>
 > $$\frac{\pi}{x_1+x_2+x_3}=\frac{m}{n}.$$
-> Find $10m + n$.
+>
+> Determine $10m+n$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]], [[topic_algebra|Algebra]]
 
 **Answer:** 0059
+
+[[Quesiti/src_purple_comet_2025_hs#q24|src_purple_comet_2025_hs__Q24]]
 
 
 
@@ -720,18 +832,22 @@ level: Purple Comet High School
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0037
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.15](https://purplecomet.org/files/2025HSSolutions.pdf#page=15)
-**Fonte:** [apri PDF p.5](https://purplecomet.org/files/2025HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.15
+**Fonte:** apri PDF p.5 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dumbbells in three piles*
+*Nine dumbbells, three of each of 1, 2 and 3 pounds, split into three piles of three: the probability that at least two piles weigh the same, as m + n*
 
-> There are three 1-pound dumbbells, three 2-pound dumbbells, and three 3-pound dumbbells. These nine dumbbells are randomly placed into three piles with three dumbbells in each pile. The probability that at least two of the piles have the same total weight is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+> There are three 1-pound dumbbells, three 2-pound dumbbells and three 3-pound dumbbells. These nine dumbbells are divided at random into three piles of three dumbbells each. The probability that at least two of the piles have the same total weight is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
 
 **Answer:** 0037
+
+[[Quesiti/src_purple_comet_2025_hs#q25|src_purple_comet_2025_hs__Q25]]
 
 
 
@@ -747,18 +863,22 @@ level: Purple Comet High School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0027
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.16](https://purplecomet.org/files/2025HSSolutions.pdf#page=16)
-**Fonte:** [apri PDF p.5](https://purplecomet.org/files/2025HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.16
+**Fonte:** apri PDF p.5 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A cubic in two variables*
+*Distinct reals a and b satisfying a cubic relation: the value of (6a + 6b − 1)⁶*
 
-> Let $a$ and $b$ be distinct real numbers such that $2a^3 + (1 + \sqrt{3})ab + 2b^3 = \frac{5+3\sqrt3}{54}$. Find $(6a + 6b - 1)^6$.
+> Let $a$ and $b$ be distinct real numbers such that $2a^3+(1+\sqrt3)ab+2b^3=\frac{5+3\sqrt3}{54}$. Determine $(6a+6b-1)^6$.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** 0027
+
+[[Quesiti/src_purple_comet_2025_hs#q26|src_purple_comet_2025_hs__Q26]]
 
 
 
@@ -774,18 +894,22 @@ level: Purple Comet High School
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0010
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.16](https://purplecomet.org/files/2025HSSolutions.pdf#page=16)
-**Fonte:** [apri PDF p.5](https://purplecomet.org/files/2025HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.16
+**Fonte:** apri PDF p.5 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cyclic quadrilateral and diagonals*
+*A random point in a cyclic kite, closer to one diagonal than the other: the probability it lies in one of the triangles, as m + n*
 
-> Cyclic quadrilateral $ABCD$ has side lengths $AB = BC = 3$ and $CD = DA = 4$. A point is selected randomly from inside the quadrilateral. Given that the point is closer to diagonal $\overline{AC}$ than to diagonal $\overline{BD}$, the probability that the point lies inside $\triangle ABC$ is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+> The cyclic quadrilateral $ABCD$ has sides $AB=BC=3$ and $CD=DA=4$. A point is chosen at random inside the quadrilateral. Given that the point is closer to the diagonal $\overline{AC}$ than to the diagonal $\overline{BD}$, the probability that the point lies inside $\triangle ABC$ is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
 
 **Answer:** 0010
+
+[[Quesiti/src_purple_comet_2025_hs#q27|src_purple_comet_2025_hs__Q27]]
 
 
 
@@ -801,18 +925,22 @@ level: Purple Comet High School
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0017
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.18](https://purplecomet.org/files/2025HSSolutions.pdf#page=18)
-**Fonte:** [apri PDF p.5](https://purplecomet.org/files/2025HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.18
+**Fonte:** apri PDF p.5 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fair and unfair coins*
+*Five coins, each fair or two-headed, four heads observed: the expected number of fair coins, as m + n*
 
-> You have five coins. Each coin is either a fair coin or an unfair coin that always come up heads when it is flipped. For $k = 1, 2, 3, 4, 5$, the probability that you have $k$ unfair coins is $\frac{k}{15}$. Suppose that you flip each coin once, and four of them come up heads. The expected number of fair coins among the five is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+> You have five coins. Each is either a fair coin or a biased coin that always lands heads when tossed. For $k=1,2,3,4,5$, the probability of having $k$ biased coins is $\frac{k}{15}$. Suppose you toss each coin once and four of them land heads. The expected number of fair coins among the five is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0017
+
+[[Quesiti/src_purple_comet_2025_hs#q28|src_purple_comet_2025_hs__Q28]]
 
 
 
@@ -828,18 +956,22 @@ level: Purple Comet High School
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0128
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.18](https://purplecomet.org/files/2025HSSolutions.pdf#page=18)
-**Fonte:** [apri PDF p.6](https://purplecomet.org/files/2025HS_English.pdf#page=6) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.18
+**Fonte:** apri PDF p.6 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cones in the sphere*
+*Three balls of radius 3 inside a sphere of radius 7, and the right circular cone of greatest volume inscribed so that its base touches all three: the coefficient of π*
 
-> A large sphere with radius 7 contains three smaller balls each with radius 3. The three balls are each externally tangent to the other two balls and internally tangent to the large sphere. There are four right circular cones that can be inscribed in the large sphere in such a way that the bases of the cones are tangent to all three balls. Of these four cones, the one with the greatest volume has volume $n\pi$. Find $n$.
+> A large sphere of radius 7 contains three smaller balls, each of radius 3. Each of the three balls is externally tangent to the other two and internally tangent to the large sphere. There are four right circular cones that can be inscribed in the large sphere so that their bases are tangent to all three balls. Among these four cones, the one of greatest volume has volume $n\pi$. Determine $n$.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
 
 **Answer:** 0128
+
+[[Quesiti/src_purple_comet_2025_hs#q29|src_purple_comet_2025_hs__Q29]]
 
 
 
@@ -855,15 +987,19 @@ level: Purple Comet High School
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0067
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · [soluzione ufficiale PDF p.19](https://purplecomet.org/files/2025HSSolutions.pdf#page=19)
-**Fonte:** [apri PDF p.6](https://purplecomet.org/files/2025HS_English.pdf#page=6) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/2>) · soluzione ufficiale PDF p.19
+**Fonte:** apri PDF p.6 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Chairs in a circle*
+*Five people reseating at random among seven chairs in a circle: the probability that no morning neighbours sit together in the afternoon, as m + n*
 
-> A meeting is held in a room with 7 chairs equally spaced in a circle. Five participants will randomly choose to sit in 5 of the 7 chairs for the morning session of the meeting. After lunch the same 5 participants will again randomly choose to sit in 5 of the 7 chairs for the afternoon session. The probability that no two people who sit in adjacent chairs during the morning session will sit in adjacent chairs in the afternoon session is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+> A meeting is held in a room with 7 equally spaced chairs arranged in a circle. Five participants choose 5 of the 7 chairs at random for the morning session. After lunch the same 5 participants again choose 5 of the 7 chairs at random for the afternoon session. The probability that no pair of people who sat in adjacent chairs during the morning session sit in adjacent chairs in the afternoon session is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
 
 **Answer:** 0067
+
+[[Quesiti/src_purple_comet_2025_hs#q30|src_purple_comet_2025_hs__Q30]]

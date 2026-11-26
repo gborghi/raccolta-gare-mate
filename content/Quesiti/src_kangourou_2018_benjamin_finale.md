@@ -31,11 +31,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fast way to calculate S divided by 2018*
+*Quick way to calculate S divided by 2018*
 
-> Call $S$ the result of the addition $$2015 + 2016 + 2017 + 2018 + 2019 + 2020 + 2021.$$ What do you think is the fastest way to calculate the $S : 2018$ quotient and what is the result?
+> Call $S$ the result of the addition
+> $$2015 + 2016 + 2017 + 2018 + 2019 + 2020 + 2021.$$
+> In your opinion, what is the fastest way to calculate the quotient $S : 2018$, and what is the result?
 
-**Answer:** 7
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_benjamin_finale#qb1|src_kangourou_2018_benjamin_finale__QB1]]
 
 
 
@@ -58,11 +64,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum crates that Eugenio keeps with 4 vans*
+*The largest cassette that Eugenio keeps with 4 vans*
 
-> Eugenio works as a warehouse keeper. He knows that tomorrow some growers will each bring him the same number of crates of apples and that he will have to distribute the crates among 4 vans, so that all the vans travel with the same number of crates. The number of growers equals the number of crates that each grower will bring him. Eugenio knows that if, after he has distributed as many crates as possible among the 4 vans, some crates remain, he can keep them for himself. How many crates could he at most happen to keep for himself?
+> Eugenio works as a warehouseman. He knows that tomorrow some growers will each bring him the same number of crates of apples, and that he will have to distribute the crates across 4 vans so that all the vans carry the same number of crates. The number of growers is the same as the number of crates each grower will bring him. Eugenio knows that if, after distributing as many crates as possible across the 4 vans, some crates are left over, he can keep one for himself. At most, how many crates might he end up keeping for himself?
 
-**Answer:** 1
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_benjamin_finale#qb2|src_kangourou_2018_benjamin_finale__QB2]]
 
 
 
@@ -87,13 +97,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Turns of B so that the three marks are back in line*
+*Turn B so that the three notches are back in alignment*
 
 ![[src_kangourou_2018_benjamin_finale__probb3.png]]
 
-> A gear consists of three toothed wheels $A$, $B$ and $C$. $A$ has 16 teeth, $B$ has 20 and $C$ has 30. As the figure suggests, $B$ is in contact with both $A$ and $C$ (i.e. the $B$ teeth engage both those of $A$ and those of $C$), but $A$ is not in contact with $C$. Every wheel has a mark. At this moment the gear is set in motion: how many turns does the $B$ wheel have to make before all three marks return to their current position simultaneously for the first time? (see figure)
+> A gear assembly consists of three gears $A$, $B$, and $C$. $A$ has 16 teeth, $B$ has 20 teeth, and $C$ has 30 teeth. As the figure suggests, $B$ is in contact with both $A$ and $C$ (that is, the teeth of $B$ mesh with both the teeth of $A$ and those of $C$), but $A$ is not in contact with $C$. Each gear has a notch. At this moment, the gear assembly starts moving: how many revolutions must gear $B$ make before all three notches return simultaneously to their current position for the first time? (see figure)
 
-**Answer:** 12
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_benjamin_finale#qb3|src_kangourou_2018_benjamin_finale__QB3]]
 
 
 
@@ -117,11 +131,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lines through two vertices of the cube without edges*
+*Edges for two vertices of the edge-less cube*
 
-> How many lines pass through two of the vertices of a cube, but do not contain any edge of the cube?
+> How many lines pass through two of the vertices of a cube but contain none of the cube's edges?
 
-**Answer:** 16
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_benjamin_finale#qb4|src_kangourou_2018_benjamin_finale__QB4]]
 
 
 
@@ -145,11 +164,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Auto in the six smallest groups by sum of digits*
+*Cars in six groups with the fewest members, by digit sum*
 
-> There's exactly a million cars in Kanglandia. Their plates, all different from each other, have six digits: the numbers are therefore between $000000$ and $999999$. For each car the plate numbers are added and the cars are divided into groups so that all the cars in the same group provide the same sum and different groups are related to different sums. How many cars do the six smallest groups have in total?
+> In Kanglandia, exactly one million cars are in circulation. Their license plates, all different from one another, have six digits: the numbers therefore lie between $000000$ and $999999$. For each car, the digits on its license plate are added together, and the cars are divided into groups so that all the cars in the same group yield the same sum and different groups correspond to different sums. In total, how many cars are there in the six least numerous groups?
 
-**Answer:** 56
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_finale#qb5|src_kangourou_2018_benjamin_finale__QB5]]
 
 
 
@@ -172,8 +196,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fair division of the 8 euros with the problem of points*
+*Fair division of the 8 euros with the points problem*
 
-> Antonia and Luca play heads or tails for the sum of 8 euros, tossing a fair coin. They decide that the sum will be pocketed by the first of them who has had 6 tosses in their favor. When they are at the score of 5 for Antonia and 3 for Luca, they are however forced to interrupt the game and discuss how to divide the 8 euros (which neither has so far won). What is the fair way to divide them (that is, the way that takes into account the probability of victory that each of the two has at the moment of the interruption)?
+> Antonia and Luca are flipping a fair coin to decide who will get 8 euros. They agree that the money will go to the first of them to have 6 flips in their favor. However, when the score is 5 for Antonia and 3 for Luca, they are forced to stop playing and discuss how to split the 8 euros (which neither has won so far). What is a fair way to split them (that is, a way that takes into account the probability of winning each of them has at the time the game is interrupted)?
 
-**Answer:** 7 e 1
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_benjamin_finale#qb6|src_kangourou_2018_benjamin_finale__QB6]]

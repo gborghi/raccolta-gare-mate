@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BD, FX, ME competitors (AMXE parallelogram)*
+*The lines BD, FX and ME are concurrent*
 
-> The $BCF$ triangle has a right angle in $B$. Whether $A$ the point on the $CF$ line such that $FA = FB$ and $F$ lie between $A$ and $C$. The point $D$ is chosen so that $DA = DC$ and $AC$ are the angles of the angle $\angle DAB$. The point $E$ is chosen so that $EA = ED$ and $AD$ are the angles of the angle $\angle EAC$. The mean point of $M$ shall be $CF$. If $X$ is the point such that $AMXE$ is a parallelogram (with $AM \parallel EX$ and $AE \parallel MX$). Demonstrate that $BD$, $FX$ and $ME$ are competitors.
+> Triangle $BCF$ has a right angle at $B$. Let $A$ be the point on the line $CF$ such that $FA = FB$ and $F$ lies between $A$ and $C$. The point $D$ is chosen so that $DA = DC$ and $AC$ is the bisector of the angle $\angle DAB$. The point $E$ is chosen so that $EA = ED$ and $AD$ is the bisector of the angle $\angle EAC$. Let $M$ be the midpoint of $CF$. Let $X$ be the point such that $AMXE$ is a parallelogram (with $AM \parallel EX$ and $AE \parallel MX$). Prove that the lines $BD$, $FX$ and $ME$ are concurrent.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_2016#q01|src_imo_2016__Q01]]
 
 
 
@@ -59,13 +66,22 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-Table n×n filled with I,M,O balanced*
+*Filling an n×n table with I, M and O, balanced on rows, columns and certain diagonals*
 
-> Find all positive integers $n$ for which each cell in a table $n \times n$ can be filled with one of the letters I, M and O in such a way that:
-> 
-> - in each row and column, one third of the entries are I, one third is M and one third is O; - in any diagonal, if the number of entries on the diagonal is a multiple of three, then one third of the entries are I, one third is M and one third is O.
-> 
-> **Note:** The rows and columns of a table $n \times n$ are each labelled from $1$ to $n$ in natural order. Each cell corresponds to a pair of positive integers $(i, j)$ with $1 \leq i, j \leq n$. For $n > 1$, the table has $4n - 2$ diagonal of two types. A diagonal of the first type consists of all cells $(i, j)$ for which $i + j$ is constant, and a diagonal of the second type consists of all cells $(i, j)$ for which $i - j$ is constant.
+> Find all positive integers $n$ for which every cell of an $n \times n$ table can be filled with one of the letters I, M and O in such a way that:
+>
+> - in every row and every column, one third of the entries are I, one third are M and one third are O;
+>
+> - on any diagonal, if the number of entries on the diagonal is a multiple of three, then one third of the entries are I, one third are M and one third are O.
+>
+> **Note:** The rows and columns of an $n \times n$ table are each labelled from $1$ to $n$ in the natural order. Each cell corresponds to a pair of positive integers $(i, j)$ with $1 \leq i, j \leq n$. For $n > 1$, the table has $4n - 2$ diagonals of two types. A diagonal of the first type consists of all cells $(i, j)$ for which $i + j$ is constant, and a diagonal of the second type consists of all cells $(i, j)$ for which $i - j$ is constant.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_2016#q02|src_imo_2016__Q02]]
 
 
 
@@ -88,9 +104,16 @@ Table n×n filled with I,M,O balanced*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2S divisible by n in whole cyclic polygon*
+*Twice the area of a lattice polygon on a circle is divisible by an odd integer dividing the squared side lengths*
 
-> Whether $P = A_1 A_2 \ldots A_k$ is a polygon convex in the plane. The vertices $A_1, A_2, \ldots, A_k$ have full coordinates and lie on a circle. Whether $S$ the area of $P$. A odd positive integer $n$ is given such that the squares of the side lengths of $P$ are integers divisible by $n$. Show that $2S$ is an integer divisible by $n$.
+> Let $P = A_1 A_2 \ldots A_k$ be a convex polygon in the plane. The vertices $A_1, A_2, \ldots, A_k$ have integer coordinates and lie on a circle. Let $S$ be the area of $P$. An odd positive integer $n$ is given such that the squares of the side lengths of $P$ are integers divisible by $n$. Prove that $2S$ is an integer divisible by $n$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_2016#q03|src_imo_2016__Q03]]
 
 
 
@@ -115,9 +138,18 @@ Table n×n filled with I,M,O balanced*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum b with fragrant set of P(n) = n^2+n+1*
+*Least b such that some b consecutive values of n²+n+1 form a fragrant set*
 
-> A set of positive integers is called **fragrance** if it contains at least two elements and each of its elements has a prime factor in common with at least one of the other elements. It is either $P(n) = n^2 + n + 1$. What is the minimum possible value of the positive integer $b$ such that there is a non-negative integer $a$ for which the whole $$\{P(a+1),\, P(a+2),\, \ldots,\, P(a+b)\}$$ is fragrant?
+> A set of positive integers is called **fragrant** if it contains at least two elements and each of its elements has a prime factor in common with at least one of the other elements. Let $P(n) = n^2 + n + 1$. What is the least possible value of the positive integer $b$ such that there exists a non-negative integer $a$ for which the set
+> $$\{P(a+1),\, P(a+2),\, \ldots,\, P(a+b)\}$$
+> is fragrant?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_2016#q04|src_imo_2016__Q04]]
 
 
 
@@ -142,9 +174,18 @@ Table n×n filled with I,M,O balanced*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum k factors to be deleted without actual solutions*
+*Least number of linear factors to delete so that the remaining equation has no real solution*
 
-> The equation $$(x-1)(x-2)\cdots(x-2016) = (x-1)(x-2)\cdots(x-2016)$$ is written on the board, with $2016$ linear factors on each side. What is the minimum possible value of $k$ for which exactly $k$ of these $4032$ linear factors can be deleted so that at least one factor per side remains and the resulting equation has no real solutions?
+> The equation
+> $$(x-1)(x-2)\cdots(x-2016) = (x-1)(x-2)\cdots(x-2016)$$
+> is written on the board, with $2016$ linear factors on each side. What is the least possible value of $k$ for which it is possible to erase exactly $k$ of these $4032$ linear factors so that at least one factor remains on each side and the resulting equation has no real solutions?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_2016#q05|src_imo_2016__Q05]]
 
 
 
@@ -171,10 +212,17 @@ Table n×n filled with I,M,O balanced*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fredges on non-collision segments if n occurs*
+*Placing frogs on pairwise crossing segments so that they never meet*
 
-> There are $n \geq 2$ segments in the plane such that every two segments intersect and no three segments meet at one point. Geoff must choose one end of each segment and place a frog on it, facing the other end. Then he'll hit his hands $n-1$ times. Every time it claps its hands, each frog will immediately jump forward to the next intersection point on its segment. Frogs never change the direction of their jumps. Geoff wants to place the frogs so that no pair of frogs ever occupies the same intersection at the same time.
-> 
-> (a) Demonstrate that Geoff can always grant his wish if he is odd.
-> 
-> (b) Demonstrate that Geoff can never fulfill his wish if $n$ is equal.
+> There are $n \geq 2$ segments in the plane such that every two segments cross and no three segments meet at a point. Geoff must choose an endpoint of each segment and place a frog on it, facing the other endpoint. Then he will clap $n-1$ times. Each time he claps, each frog will immediately jump forward to the next intersection point on its segment. The frogs never change the direction of their jumps. Geoff wishes to place the frogs so that no pair of frogs ever occupies the same intersection point at the same moment.
+>
+> (a) Prove that Geoff can always fulfil his wish if $n$ is odd.
+>
+> (b) Prove that Geoff can never fulfil his wish if $n$ is even.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_2016#q06|src_imo_2016__Q06]]

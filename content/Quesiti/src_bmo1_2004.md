@@ -31,9 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi equazioni simultanee in quattro variabili reali*
+*Soluzioni reali del sistema $ab + c + d = 3$ e delle altre tre equazioni*
 
-> Risolvere le equazioni simultanee $$ab + c + d = 3, \quad bc + d + a = 5, \quad cd + a + b = 2, \quad da + b + c = 6,$$ dove $a, b, c, d$ sono numeri reali.
+> Risolvere il sistema
+> $$ab + c + d = 3, \quad bc + d + a = 5, \quad cd + a + b = 2, \quad da + b + c = 6,$$
+> dove $a, b, c, d$ sono numeri reali.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2004#q01|src_bmo1_2004__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rectangle midpoint and perpendicular; prove triangolare isosceles*
+*Dimostrare che il triangolo $BQC$ è isoscele*
 
-> $ABCD$ è un rettangolo. $P$ è il punto medio di $AB$ e $Q$ è il punto su $PD$ in modo tale che $CQ$ sia perpendicolare a $PD$. Prova che il triangolo $BQC$ è uguale.
+> $ABCD$ è un rettangolo. $P$ è il punto medio di $AB$, e $Q$ è il punto di $PD$ tale che $CQ$ è perpendicolare a $PD$. Dimostrare che il triangolo $BQC$ è isoscele.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2004#q02|src_bmo1_2004__Q02]]
 
 
 
@@ -81,9 +97,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Giocare a carte; dimostrare che il punteggio di Alice è almeno grande quanto quello di Barbara.
+*Alice può sempre ottenere un punteggio almeno pari a quello di Barbara*
 
-> Alice e Barbara giocano a un gioco con un pacchetto di carte $2n$, su ciascuna delle quali è scritto un intero positivo. Il pacchetto viene mescolato e le carte disposte in fila, con le ragazze che si alternano per rimuovere una carta da entrambe le estremità della fila, con Alice che raccoglie l'ultima carta. Il punteggio di ogni ragazza è la somma dei numeri sulle carte che ha in mano alla fine della partita. Dimostra che Alice può sempre ottenere un punteggio almeno grande come Barbara.
+> Alice e Barbara giocano con un mazzo di $2n$ carte, su ciascuna delle quali è scritto un intero positivo. Il mazzo viene mescolato e le carte disposte in fila; le due, a turno, tolgono una carta da uno dei due estremi della fila, e Alice prende l'ultima carta. Il punteggio di ciascuna è la somma dei numeri sulle carte che ha alla fine. Dimostrare che Alice può sempre ottenere un punteggio almeno pari a quello di Barbara.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2004#q03|src_bmo1_2004__Q03]]
 
 
 
@@ -106,9 +129,16 @@ Giocare a carte; dimostrare che il punteggio di Alice è almeno grande quanto qu
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i sottogruppi malvagi di {1,...,10} che non contengono tre numeri interi consecutivi*
+*Numero dei sottoinsiemi malvagi di $\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10\}$*
 
-> Un insieme di numeri interi positivi è definito come cattivo se non contiene tre numeri interi consecutivi. Contiamo l'insieme vuoto, che non contiene elementi affatto, come un insieme malvagio. Trovare il numero di sottosette malvagi di $\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10\}$.
+> Un insieme di interi positivi si dice malvagio se non contiene tre interi consecutivi. L'insieme vuoto, che non contiene alcun elemento, si conta come insieme malvagio. Trovare il numero di sottoinsiemi malvagi di $\{1, 2, 3, 4, 5, 6, 7, 8, 9, 10\}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2004#q04|src_bmo1_2004__Q04]]
 
 
 
@@ -131,6 +161,13 @@ Giocare a carte; dimostrare che il punteggio di Alice è almeno grande quanto qu
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie prime p,q con p difsq+1 e q difsp+1*
+*Valori possibili di $pq$ se $p$ divide $q + 1$ e $q$ divide $p + 1$*
 
-> $p$ e $q$ siano numeri primi. È dato che $p$ divide $q + 1$ e $q$ divide $p + 1$. Determinare tutti i possibili valori di $pq$.
+> Siano $p$ e $q$ numeri primi. È dato che $p$ divide $q + 1$ e $q$ divide $p + 1$. Determinare tutti i valori possibili di $pq$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2004#q05|src_bmo1_2004__Q05]]

@@ -38,9 +38,12 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number differs less than ((n+3)/2)^2*
+*Which number differs least from the given expression in n*
 
-> Given a positive integer n, which of the following numbers differs less from n + 3 2 2?
+> Given a positive integer n, which of the following numbers differs least from
+> n + 3
+> 2
+> 2 ?
 >
 > - **(A)** (n + 2)2
 > - **(B)** (n + 1)2
@@ -48,7 +51,10 @@ level: triennio
 > - **(D)** n2 + 2
 > - **(E)** n2 + 9 4
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2022_triennio#q01|src_archimede_2022_triennio__Q01]]
 
 
 
@@ -79,9 +85,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle to the top with four points on the sides of the triangle*
+*Vertex angle with four points on the sides of the triangle*
 
-> ABC is an isosceles triangle with AC = BC. Two points A′, A′′ on the AC side and one point B′ on the BC side are chosen so that AB = BA′ = A′B′ = B′A′′ = A′′C. What is the width of the angle $\widehat{ACB}$?
+> ABC is an isosceles triangle with AC = BC. Two points A′, A′′ are chosen on side AC and a point B′ on side BC so that AB = BA′ = A′B′ = B′A′′ = A′′C. What is the measure of the angle $\widehat{ACB}$?
 >
 > - **(A)** 18°
 > - **(B)** 15°
@@ -89,7 +95,10 @@ level: triennio
 > - **(D)** 20°
 > - **(E)** 30°
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2022_triennio#q02|src_archimede_2022_triennio__Q02]]
 
 
 
@@ -121,9 +130,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit numbers with three equal digits and a different one*
+*Four-digit numbers with three equal digits and one different*
 
-> Gabriele notes that the number 2022 is written with 3 equal digits and a fourth digit different from the other 3. How many of all the four-digit natural numbers are written with three equal digits and a fourth digit different from the other three?
+> Gabriele notices that the number 2022 is written with three equal digits and a fourth digit different from the other three. How many natural four-digit numbers are there in total that are written with three equal digits and a fourth digit different from the other three?
 >
 > - **(A)** 324
 > - **(B)** 315
@@ -131,7 +140,11 @@ level: triennio
 > - **(D)** 216
 > - **(E)** 288
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2022_triennio#q03|src_archimede_2022_triennio__Q03]]
 
 
 
@@ -163,9 +176,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grade fraction with grade below 6 average values*
+*Fraction of the class with a grade below 6 given the averages*
 
-> The professor just returned the correct assignments to a classroom. The average score of all the votes received is equal to 6; the average score of the tasks that have taken at least 6 is equal to 7, while the average score of the others is equal to 4. What portion of the class took less than six?
+> The professor has just returned the corrected assignments in a class. The average of all the grades received is equal to 6; the average grade of the assignments that received at least 6 is equal to 7, while the average grade of the others is equal to 4. What portion of the class received less than 6?
 >
 > - **(A)** 1/4
 > - **(B)** 1/3
@@ -173,7 +186,10 @@ level: triennio
 > - **(D)** 3/8
 > - **(E)** 2/7
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2022_triennio#q04|src_archimede_2022_triennio__Q04]]
 
 
 
@@ -205,9 +221,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of a cube with two painted faces*
+*Probability of a cube with two faces painted*
 
-> Laura paints the entire surface of a wooden cube in blue, then cuts it into 63 = 216 equal cubes. By mixing the cubes and pulling one out at random, what are the odds that Laura will find one that has exactly two blue faces?
+> Laura paints the entire surface of a wooden cube blue, then cuts it by dividing it into 63 = 216 equal small cubes. Mixing the small cubes and drawing one at random, what is the probability that Laura finds one that has exactly two faces painted blue?
 >
 > - **(A)** 8/27
 > - **(B)** 1/6
@@ -215,7 +231,11 @@ level: triennio
 > - **(D)** 4/9
 > - **(E)** 2/9
 
-**Answer:** E
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2022_triennio#q05|src_archimede_2022_triennio__Q05]]
 
 
 
@@ -295,42 +315,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of a sub-parallelogram from data perimeter*
+*Perimeter of the fourth inner parallelogram A′BB′P*
 
 ![[src_archimede_2022_triennio__prob6.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (4,0.6);
-  \coordinate (C) at (5.2,3.4);
-  \coordinate (D) at (1.2,2.8);
-  \coordinate (P) at (2.6,1.6);
-  \draw (A)--(B)--(C)--(D)--cycle;
-  \coordinate (Aq) at (1.95,0.29);
-  \coordinate (Cq) at (3.25,3.11);
-  \coordinate (Dq) at (0.65,1.51);
-  \coordinate (Bq) at (4.45,1.69);
-  \draw (Aq)--(Cq);
-  \draw (Dq)--(Bq);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above right] at (C) {$C$};
-  \node[above left] at (D) {$D$};
-  \node[above right] at (P) {$P$};
-  \node[below] at (Aq) {$A'$};
-  \node[right] at (Bq) {$B'$};
-  \node[above] at (Cq) {$C'$};
-  \node[left] at (Dq) {$D'$};
-  \node at (1.55,1.05) {$31$};
-  \node at (1.9,2.1) {$49$};
-  \node at (3.6,2.2) {$42$};
-\end{tikzpicture}
-\end{document}
-```
-
-> Considered an ABCD parallelogram, the lines parallel to the sides passing through an inner point P intersect the sides in A′, B′, C′ and D′, as shown in Figure 1. The perimeters (in meters) of parallelograms D′AA′P, C′DD′P and B′CC′P are as shown in Figure 1. How many metres does the perimeter of the parallelogram A′BB′P measure? A B C D P A′ B′ C′ D′ 31 49 42
+> Consider a parallelogram ABCD. The lines through an interior point P, parallel to the sides, meet the sides at A′, B′, C′ and D′, as in the figure. The perimeters (in metres) of the parallelograms D′AA′P, C′DD′P and B′CC′P are those shown in the figure: 31, 49 and 42. How many metres is the perimeter of the parallelogram A′BB′P?
 >
 > - **(A)** 24
 > - **(B)** 22
@@ -338,7 +327,12 @@ level: triennio
 > - **(D)** 28
 > - **(E)** 27
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2022_triennio#q06|src_archimede_2022_triennio__Q06]]
 
 
 
@@ -369,9 +363,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (a,b) with a divisor of b and a+2b=1010*
+*Pairs (a,b) with a dividing b and a+2b=1010*
 
-> How many pairs of positive integers (a, b) are such that a is a divisor of b and additionally a + 2b = 1010 ?
+> How many pairs of positive integers (a, b) are there such that a is a divisor of b and also
+> a + 2b = 1010 ?
 >
 > - **(A)** 503
 > - **(B)** 1
@@ -379,7 +374,11 @@ level: triennio
 > - **(D)** 3
 > - **(E)** 504
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2022_triennio#q07|src_archimede_2022_triennio__Q07]]
 
 
 
@@ -409,17 +408,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BAD angle with rim constructed on an isosceles triangle*
+*Measure of angle BAD for a rhombus built on an isosceles triangle*
 
-> Externally to an ABC isosceles triangle (with AC = BC), a BCDE rhomboid is constructed, where $\widehat{CDE}$ = 96°. What is the width of the angle $\widehat{BAD}$?
+> Externally to an isosceles triangle ABC (with AC = BC), a rhombus BCDE is constructed, where $\widehat{CDE}$ = 96°. What is the measure of the angle $\widehat{BAD}$?
 >
 > - **(A)** 54°
 > - **(B)** 36°
 > - **(C)** 42°
 > - **(D)** 48°
-> - **(E)** the data provided are insufficient
+> - **(E)** the data given are not sufficient
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2022_triennio#q08|src_archimede_2022_triennio__Q08]]
 
 
 
@@ -454,7 +456,7 @@ level: triennio
 
 *Number of steps to reach a distance of 30 metres*
 
-> While thinking about a mathematical problem, Francesco walks as usual back and forth, taking 1 step forward, 2 back, 3 forward, 4 back and so on (all with steps of 60 cm). As soon as he reaches 30 meters away from the starting point, he finally solves the problem. How many steps has he taken in all?
+> While thinking about a math problem, Francesco walks as usual back and forth, taking 1 step forward, 2 back, 3 forward, 4 back and so on (with all steps of 60 cm). As soon as he reaches a distance of 30 metres from the starting point, he finally solves the problem. How many steps will he have taken in total?
 >
 > - **(A)** 50
 > - **(B)** 5150
@@ -462,7 +464,11 @@ level: triennio
 > - **(D)** 5050
 > - **(E)** 4950
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2022_triennio#q09|src_archimede_2022_triennio__Q09]]
 
 
 
@@ -505,9 +511,19 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last number of the 120th row by leaping multiples of 5*
+*Last number of the 120th row skipping multiples of 5*
 
-> The table right next to it, with 7 columns and infinite rows that go on and on, is filled in by entering the boxes the natural numbers, in increasing order, by skipping all the multiples of 5. What number does the 120th line end with? 1 2 3 4 6 7 8 9 11 12 13 14 16 17
+> The table alongside, with 7 columns and infinite rows
+> continuing downward, is filled by inserting the natural numbers, in increasing order, skipping all multiples of 5. With which number does the 120th row end?
+> 1
+> 2
+> 3
+> 4
+> 6
+> 7
+> 8
+> 9
+> 11 12 13 14 16 17
 >
 > - **(A)** 1049
 > - **(B)** 1051
@@ -515,7 +531,11 @@ level: triennio
 > - **(D)** 839
 > - **(E)** 841
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2022_triennio#q10|src_archimede_2022_triennio__Q10]]
 
 
 
@@ -549,9 +569,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lake portion assisted by the largest port*
+*Portion of lake served by the largest port*
 
-> There are three ports along the shore of a circular lake. On a map, the ports are placed in three positions A, B, C and, by measuring the angles, it is found that $\widehat{CAB}$ = 57°, $\widehat{ABC}$ = 48°, $\widehat{BCA}$ = 75°. In case of emergency, rescue within the lake is provided by the nearest port. What portion of the lake is assisted by the harbour that needs to save the widest surface area?
+> Along the coast of a circular lake there are three ports. On a map, the ports are located at three positions A, B, C and, measuring the angles, it is found that $\widehat{CAB}$ = 57°, $\widehat{ABC}$ = 48°, $\widehat{BCA}$ = 75°. In an emergency, aid inside the lake is provided by the nearest port. Which portion of the lake is served by the port that must rescue the largest surface?
 >
 > - **(A)** 5/12
 > - **(B)** 11/30
@@ -559,7 +579,11 @@ level: triennio
 > - **(D)** 7/18
 > - **(E)** 9/25
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2022_triennio#q11|src_archimede_2022_triennio__Q11]]
 
 
 
@@ -590,9 +614,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordered pairs (m,n) with m<=n and mcm equal to 1515*
+*Ordered pairs (m,n) with m<=n and lcm equal to 1515*
 
-> How many pairs of ordered natural numbers (m, n), with m ⩽n, whose least common multiple is equal to 1515?
+> How many ordered pairs of natural numbers (m, n), with m ⩽ n, have least common multiple equal to 1515?
 >
 > - **(A)** 12
 > - **(B)** 13
@@ -600,7 +624,11 @@ level: triennio
 > - **(D)** 11
 > - **(E)** 10
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2022_triennio#q12|src_archimede_2022_triennio__Q12]]
 
 
 
@@ -635,17 +663,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final state of the game of candy with invariant*
+*Final contents of the two candy bags when neither can eat any more*
 
-> Alberto and Barbara have two bags, containing 2022 and 999 candy respectively. At any time, one of the two may eat a candy from his own bag (without having to take turns or alternate criteria), provided that, in this case, he gives another candy to the other person, who puts it in his own bag. After a while, neither of them can eat candy anymore. It can be said that, at this point, . .
+> Alberto and Barbara have two bags, containing 2022 and 999 candies respectively. At any moment, either of them may eat one candy from their own bag (without having to take turns or follow any rule of alternation), provided that, in that case, they give another candy to the other person, who puts it in their own bag. After a while, neither of them can eat any more candies. It can be stated that, at this point, ...
 >
-> - **(A)** They both ran out of candy.
-> - **(B)** Alberto has a candy bar, Barbara has none.
-> - **(C)** Barbara has a candy bar, Alberto has none.
-> - **(D)** They both have candy.
-> - **(E)** One of the two (you can't predict who) has a candy, the other one has none.
+> - **(A)** both are left with no candies
+> - **(B)** Alberto has one candy, Barbara none
+> - **(C)** Barbara has one candy, Alberto none
+> - **(D)** both have one candy
+> - **(E)** one of the two (it cannot be predicted which) has one candy, the other none
 
-**Answer:** D
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2022_triennio#q13|src_archimede_2022_triennio__Q13]]
 
 
 
@@ -676,9 +708,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of k with positive integer root polynomial*
+*Number of k with a polynomial having a positive integer root*
 
-> Indicate how many values k ∈R are for which the polynomial p(x) = x2 −kx + 36 has at least one positive integer root less than 1000.
+> Indicate how many values of k ∈ R are such that the polynomial p(x) = x^2 − kx + 36
+> has at least one positive integer root that is less than 1000.
 >
 > - **(A)** 3
 > - **(B)** 1
@@ -686,7 +719,11 @@ level: triennio
 > - **(D)** 999
 > - **(E)** 995
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2022_triennio#q14|src_archimede_2022_triennio__Q14]]
 
 
 
@@ -718,9 +755,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of the tomb ending at 89th number*
+*Probability that the bingo game ends on the 89th drawn number*
 
-> Luca and Carlo play against each other in a tombola (without other opponents). Each has a folder with 15 numbers; the two folders have no numbers in common. What is the probability that the match will end at the 89th extract?
+> Luca and Carlo play against each other at bingo (with no other opponents). Each has a card with 15 numbers; the two cards have no numbers in common. What is the probability that the game ends exactly on the 89th number drawn?
 >
 > - **(A)** 9/178
 > - **(B)** 5/178
@@ -728,7 +765,11 @@ level: triennio
 > - **(D)** 1/18
 > - **(E)** 1/36
 
-**Answer:** C
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2022_triennio#q15|src_archimede_2022_triennio__Q15]]
 
 
 
@@ -792,32 +833,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inner triangle area with parallel sides at a distance of 2*
+*Area of an inner triangle whose sides lie 2 m inside ABC*
 
 ![[src_archimede_2022_triennio__prob16.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (A) at (0,0);
-  \coordinate (C) at (7,0);
-  \coordinate (B) at (2.2,3.6);
-  \coordinate (Ap) at (1.0,0.7);
-  \coordinate (Bp) at (2.45,2.85);
-  \coordinate (Cp) at (4.55,0.95);
-  \draw (A)--(B)--(C)--cycle;
-  \draw (Ap)--(Bp)--(Cp)--cycle;
-  \node[below left] at (A) {$A$};
-  \node[above] at (B) {$B$};
-  \node[below right] at (C) {$C$};
-  \node[below left] at (Ap) {$A'$};
-  \node[above] at (Bp) {$B'$};
-  \node[below right] at (Cp) {$C'$};
-\end{tikzpicture}
-\end{document}
-```
-
-> In the triangle ABC, the sides AB and BC measure 17 m and 25 m, the height BH 15 m. Consider the triangle A′B′C′, contained in ABC, whose sides are parallel to those of ABC and are 2 m away from them. How many m2 does the area of A′B′C′ measure? A B C A′ B′ C′
+> In the acute-angled triangle ABC, the sides AB and BC measure 17 m and 25 m, and the altitude BH measures 15 m. Consider the triangle A′B′C′, contained in ABC, whose sides are parallel to those of ABC and lie 2 m away from them. How many m2 is the area of A′B′C′?
 >
 > - **(A)** 315/2
 > - **(B)** 280/3
@@ -825,4 +845,9 @@ level: triennio
 > - **(D)** 105
 > - **(E)** 126 311
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2022_triennio#q16|src_archimede_2022_triennio__Q16]]

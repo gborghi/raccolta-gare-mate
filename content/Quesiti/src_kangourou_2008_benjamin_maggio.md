@@ -43,7 +43,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of inscribed equilateral triangle vs half circle*
+*Area of an inscribed equilateral triangle vs. half a circle*
 
 ![[src_kangourou_2008_benjamin_maggio__probb1.png]]
 
@@ -59,9 +59,13 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure, you see a circle with an equilateral triangle inscribed. Is the area of the triangle larger, smaller or equal to half that of the circle? Reason your claims. (see figure)
+> In the figure, you see a circle in which an equilateral triangle is inscribed. Is the area of the triangle greater than, less than, or equal to half the area of the circle? Justify your statements. (see figure)
 
-**Answer:** smaller
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_benjamin_maggio#qb1|src_kangourou_2008_benjamin_maggio__QB1]]
 
 
 
@@ -92,11 +96,15 @@ level: kangourou
 
 ![[src_kangourou_2008_benjamin_maggio__probb2.png]]
 
-> In the underlying grid the symbol $\times$ cannot be deleted, but two boxes can be deleted, so that the resulting equality is verified. Write that equation.
-> 
+> In the grid below, the symbol "$\times$" cannot be removed, but two cells can be removed so that the resulting equality holds. Write such an equality.
+>
 > $$1 \mid 2 \mid 9 \mid \times \mid 5 \mid - \mid 4 \mid \times \mid 3 \mid - \mid 6 \mid 8 \mid 0 \mid 8$$
 
-**Answer:** 129x5+3=648
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_benjamin_maggio#qb2|src_kangourou_2008_benjamin_maggio__QB2]]
 
 
 
@@ -120,11 +128,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two out of 10 integers with sum or difference divisible by 10*
+*Two out of 10 whole numbers whose sum or difference is divisible by 10*
 
-> Suppose you have randomly extracted ten integers greater than $0$. Can you always choose two so that their sum or their difference is a number divisible by $10$? If so, how? If not, why?
+> Suppose you have randomly drawn ten integers greater than $0$. Can you always choose two such that their sum or their difference is a number divisible by $10$? If so, how? If not, why?
 
-**Answer:** yes
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_benjamin_maggio#qb3|src_kangourou_2008_benjamin_maggio__QB3]]
 
 
 
@@ -148,11 +161,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest palindrome divisible by 27*
+*Smallest palindromic number divisible by 27*
 
-> An Isabella number is a (positive integer) palindrome number that is divisible by $27$. What is the smallest Isabella number? (Recall that a palindrome number is a number that can be read indifferently from right to left or from left to right, such as the numbers $6226$ or $97579$.)
+> An Isabella number is a palindromic (positive integer) number that is divisible by $27$. What is the smallest Isabella number? (Recall that a palindromic number is a number that can be read equally well from right to left or from left to right—for example, the numbers $6226$ or $97579$.)
 
-**Answer:** 999
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_benjamin_maggio#qb4|src_kangourou_2008_benjamin_maggio__QB4]]
 
 
 
@@ -180,15 +198,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum flavors for 12 different packages (10 flavors)*
+*Max flavors per 12 different packs (10 flavors)*
 
-> The candy shop has $10$ different flavors of candies; I want to pack $12$ candy packages such that:
-> - the number of flavors present is the same in each package;
-> - different packages differ by at least one flavor.
-> 
-> What is the maximum number of flavors that can be present in the packages?
+> The candy shop has candies in $10$ different flavors; I want to pack $12$ candy packs so that:
+> - the number of flavors present is the same in each pack;
+> - different packs differ in at least one flavor.
+>
+> What is the maximum number of flavors that can be present in the packs?
 
-**Answer:** 8 flavors
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_benjamin_maggio#qb5|src_kangourou_2008_benjamin_maggio__QB5]]
 
 
 
@@ -212,8 +235,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*LIETI numbers <1000 (square divisible by 7,8,9,10)*
+*FAVORITE NUMBERS <1000 (a square divisible by 7, 8, 9, 10)*
 
-> Let's say an integer greater than zero is LIETO if its square (i.e. the product of the number itself) is divisible by each of the following numbers: $7$, $8$, $9$, $10$. Find all LIETI numbers less than $1000$.
+> Let's say that a positive integer is HAPPY if its square (that is, the product of the number with itself) is divisible by each of the following numbers: $7$, $8$, $9$, $10$. Find all HAPPY numbers less than $1000$.
 
-**Answer:** 420 and 840
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_benjamin_maggio#qb6|src_kangourou_2008_benjamin_maggio__QB6]]

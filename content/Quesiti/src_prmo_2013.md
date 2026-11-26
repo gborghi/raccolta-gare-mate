@@ -30,11 +30,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La k più piccola in modo che k(3^3+4^3+5^3)=a^n, n>1*
+*Minimo intero positivo k tale che k(27+64+125) sia una potenza con esponente maggiore di 1*
 
-> Qual è il più piccolo intero positivo $k$ tale che $k(3^3 + 4^3 + 5^3) = a^n$ per alcuni interi positivi $a$ e $n$, con $n > 1$?
+> Qual è il minimo intero positivo $k$ tale che $k(3^3 + 4^3 + 5^3) = a^n$ per qualche coppia di interi positivi $a$ e $n$, con $n > 1$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
 **Risposta:** 1
+
+[[Quesiti/src_prmo_2013#q01|src_prmo_2013__Q01]]
 
 
 
@@ -57,9 +63,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valore della somma di 1/(S_n+S_{n-1}) per n=1 a 99*
+*Somme di reciproci di somme di radici: valore di una somma da 1 a 99*
 
-> Let $S_n = \sum_{k=0}^{n} \frac{1}{\sqrt{k+1} + \sqrt{k}}$. Qual è il valore di $\sum_{n=1}^{99} \frac{1}{S_n + S_{n-1}}$?
+> Sia $S_n = \sum_{k=0}^{n} \frac{1}{\sqrt{k+1} + \sqrt{k}}$. Qual è il valore di $\sum_{n=1}^{99} \frac{1}{S_n + S_{n-1}}$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_prmo_2013#q02|src_prmo_2013__Q02]]
 
 
 
@@ -83,11 +95,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma di tutti i valori interi di un rendendo x^2+ax+20=0 hanno radici interi*
+*L'equazione x^2 + ax + 20 = 0 ha radici intere: somma dei valori possibili di a*
 
-> È dato che l'equazione $x^2 + ax + 20 = 0$ ha radici interi. Qual è la somma di tutti i valori possibili di $a$?
+> È dato che l'equazione $x^2 + ax + 20 = 0$ ha radici intere. Qual è la somma di tutti i valori possibili di $a$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 0
+
+[[Quesiti/src_prmo_2013#q03|src_prmo_2013__Q03]]
 
 
 
@@ -111,11 +129,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prodotto di tutti i valori possibili di YZ dati con XY=10, XZ=3 collineare*
+*Tre punti su una retta con XY = 10 e XZ = 3: prodotto dei valori possibili di YZ*
 
-> Tre punti $X$, $Y$, $Z$ sono su una linea retta tale che $XY = 10$ e $XZ = 3$. Qual è il prodotto di tutti i possibili valori di $YZ$?
+> Tre punti $X$, $Y$, $Z$ stanno su una retta, in modo che $XY = 10$ e $XZ = 3$. Qual è il prodotto di tutti i valori possibili di $YZ$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
 
 **Risposta:** 91
+
+[[Quesiti/src_prmo_2013#q04|src_prmo_2013__Q04]]
 
 
 
@@ -139,11 +163,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova n dati 299 modi per scegliere due palle di colore diverso dal sacchetto*
+*Palline rosse, verdi e blu in numero n−1, n, n+1: 299 modi di prenderne due di colore diverso. Quanto vale n*
 
-> Ci sono sfere rosse $n - 1$, sfere verdi $n$ e sfere blu $n + 1$ in una borsa. Il numero di modi per scegliere due palle dalla borsa che hanno colori diversi è di 299. Qual è il valore di $n$?
+> In un sacchetto ci sono $n - 1$ palline rosse, $n$ palline verdi e $n + 1$ palline blu. Il numero di modi di scegliere due palline di colori diversi è 299. Qual è il valore di $n$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 10
+
+[[Quesiti/src_prmo_2013#q05|src_prmo_2013__Q05]]
 
 
 
@@ -166,9 +196,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca S(5N+2013) dove N è il numero intero positivo più piccolo con somma digitale 2013*
+*Minimo intero con somma delle cifre 2013: somma delle cifre di 5N + 2013*
 
-> $S(M)$ indichi la somma delle cifre di un intero positivo $M$ scritto nella base 10. $N$ sia il numero intero positivo più piccolo tale che $S(N) = 2013$. Qual è il valore di $S(5N + 2013)$?
+> Sia $S(M)$ la somma delle cifre di un intero positivo $M$ scritto in base 10. Sia $N$ il minimo intero positivo tale che $S(N) = 2013$. Qual è il valore di $S(5N + 2013)$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_prmo_2013#q06|src_prmo_2013__Q06]]
 
 
 
@@ -192,11 +228,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum totale di marmi n per le dichiarazioni di Akbar-Birbal da tenere*
+*Akbar e Birbal hanno n biglie: dopo un passaggio in un senso o nell'altro, i rapporti sono 2 e 3. Minimo n*
 
-> Accettiamo insieme Akbar e Birbal di $n$ marmi, dove $n > 0$. Akbar dice a Birbal: "Se ti do un po' di marmi, allora avrai il doppio dei miei". Birbal dice a Akbar: "Se ti do un po' di marmi, allora avrai tre volte più di me". Qual è il valore minimo possibile di $n$ per il quale le affermazioni sopra indicate sono entrambe vere?
+> Akbar e Birbal hanno insieme $n$ biglie, con $n > 0$. Akbar dice a Birbal: «Se ti do alcune biglie, tu ne avrai il doppio di quante ne avrò io». Birbal dice ad Akbar: «Se ti do alcune biglie, tu ne avrai il triplo di quante ne avrò io». Qual è il minimo valore possibile di $n$ per cui entrambe le affermazioni sono vere?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 9
+
+[[Quesiti/src_prmo_2013#q07|src_prmo_2013__Q07]]
 
 
 
@@ -219,11 +261,16 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza del PQ, punti di mezzo di diagonali del trapezio con lati paralleli 16 e 20*
+*Trapezio con i punti medi delle diagonali: lunghezza del segmento che li congiunge, dati due lati*
 
-> I lati $AB$ e $BC$ siano paralleli di un trapezio $ABCD$. I punti medi $P$ e $Q$ siano i punti medi dei diagonali $AC$ e $BD$. Se $AD = 16$ e $BC = 20$, qual è la lunghezza di $PQ$?
+> Siano $AB$ e $BC$ i lati paralleli di un trapezio $ABCD$. Siano $P$ e $Q$ i punti medi delle diagonali $AC$ e $BD$. Se $AD = 16$ e $BC = 20$, qual è la lunghezza di $PQ$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 2
+
+[[Quesiti/src_prmo_2013#q08|src_prmo_2013__Q08]]
 
 
 
@@ -245,9 +292,14 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo BOC quando B,H,I,C sono conciclici nel triangolo ABC*
+*Ortocentro, incentro e circocentro: se B, H, I, C sono conciclici, misura dell'angolo BOC*
 
-> In un triangolo $ABC$, $H$, $I$ e $O$ siano rispettivamente l'ortocentro, l'incentro e il circoncentro. Se i punti $B$, $H$, $I$, $C$ si trovano su un cerchio, qual è la magnitudine di $\angle BOC$ in gradi?
+> In un triangolo $ABC$, siano $H$, $I$ e $O$ rispettivamente l'ortocentro, l'incentro e il circocentro. Se i punti $B$, $H$, $I$, $C$ giacciono su una circonferenza, qual è la misura di $\angle BOC$ in gradi?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_prmo_2013#q09|src_prmo_2013__Q09]]
 
 
 
@@ -270,9 +322,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di tre numeri nel problema di aggiunta/moltiplicazione di Carol*
+*Sommare il massimo al prodotto degli altri due, o moltiplicare il massimo per la loro somma, dà lo stesso: somma dei tre numeri*
 
-> Carol ricevette tre numeri e gli fu chiesto di aggiungere il più grande dei tre al prodotto degli altri due. Invece, moltiplicò la più grande con la somma delle altre due, ma ottenne comunque la risposta giusta. Qual è la somma dei tre numeri?
+> A Carol furono dati tre numeri e le fu chiesto di sommare il più grande al prodotto degli altri due. Invece lei moltiplicò il più grande per la somma degli altri due, e ottenne comunque la risposta giusta. Qual è la somma dei tre numeri?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2013#q10|src_prmo_2013__Q10]]
 
 
 
@@ -295,9 +353,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
+*Tre equazioni quadratiche: valore di x^2 + y^2 + z^2*
 
 > Tre numeri reali $x$, $y$, $z$ sono tali che $x^2 + 6y = -17$, $y^2 + 4z = 1$ e $z^2 + 2x = 2$. Qual è il valore di $x^2 + y^2 + z^2$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_prmo_2013#q11|src_prmo_2013__Q11]]
 
 
 
@@ -319,9 +383,14 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza del PC in triangolo equilaterale con PQRS rettangolo inciso*
+*Triangolo equilatero e rettangolo inscritto con un rapporto fra i lati: lunghezza di PC*
 
-> Lasciate che $ABC$ sia un triangolo equilaterale. Che $P$ e $S$ siano punti su $AB$ e $AC$, rispettivamente, e che $Q$ e $R$ siano punti su $BC$ in modo tale che $PQRS$ sia un rettangolo. Se $PQ = \sqrt{3}\,PS$ e la superficie di $PQRS$ sono $28\sqrt{3}$, quale è la lunghezza di $PC$?
+> Sia $ABC$ un triangolo equilatero. Siano $P$ e $S$ punti su $AB$ e $AC$ rispettivamente, e siano $Q$ e $R$ punti su $BC$ tali che $PQRS$ sia un rettangolo. Se $PQ = \sqrt{3}\,PS$ e l'area di $PQRS$ è $28\sqrt{3}$, qual è la lunghezza di $PC$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2013#q12|src_prmo_2013__Q12]]
 
 
 
@@ -345,11 +414,17 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coloure distinte massime in colorazione di {1,...,1000} con restrizione di divisibilità*
+*Colorazione di 1, ..., 1000: se 15 divide a+b, a e b hanno lo stesso colore. Massimo numero di colori*
 
-> Ogni elemento del set $S = \{1, 2, \ldots, 1000\}$ è assegnato un colore. Supponiamo che per qualsiasi due elementi $a$, $b$ di $S$, se $15$ divide $a + b$ allora entrambi ricevono lo stesso colore. Qual è il numero massimo di colori distinti utilizzati?
+> A ogni elemento dell'insieme $S = \{1, 2, \ldots, 1000\}$ si assegna un colore. Si supponga che, per ogni coppia di elementi $a$, $b$ di $S$, se $15$ divide $a + b$ allora a entrambi è assegnato lo stesso colore. Qual è il massimo numero di colori distinti usati?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
 **Risposta:** 3
+
+[[Quesiti/src_prmo_2013#q13|src_prmo_2013__Q13]]
 
 
 
@@ -372,9 +447,15 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova m+n dove m,n sono i numeri interi più piccoli pari/pari che rendono il numero triangolare un quadrato perfetto*
+*Minimo dispari e minimo pari la cui somma dei primi interi è un quadrato: somma dei due minimi*
 
-> Che $m$ sia il più piccolo numero intero parziale per il quale $1 + 2 + \cdots + m$ è il quadrato di un intero e che $n$ sia il più piccolo numero intero pari per il quale $1 + 2 + \cdots + n$ è il quadrato di un intero. Qual è il valore di $m + n$?
+> Sia $m$ il minimo intero positivo dispari per cui $1 + 2 + \cdots + m$ è il quadrato di un intero, e sia $n$ il minimo intero positivo pari per cui $1 + 2 + \cdots + n$ è il quadrato di un intero. Qual è il valore di $m + n$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_prmo_2013#q14|src_prmo_2013__Q14]]
 
 
 
@@ -397,9 +478,15 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area di ABCD data A2B2C2D2 (punti di centro dei punti di centro) è un rettangolo 4x6*
+*Punti medi dei lati, due volte: se il secondo quadrilatero è un rettangolo 4 per 6, area del quadrilatero di partenza*
 
-> I punti $A_1$, $B_1$, $C_1$, $D_1$ siano i punti medi dei lati di un quadrilaterale converso $ABCD$ e $A_2$, $B_2$, $C_2$, $D_2$ siano i punti medi dei lati del quadrilaterale $A_1 B_1 C_1 D_1$. Se $A_2 B_2 C_2 D_2$ è un rettangolo con lati 4 e 6, qual è la superficie di $ABCD$?
+> Siano $A_1$, $B_1$, $C_1$, $D_1$ i punti medi dei lati di un quadrilatero convesso $ABCD$ e siano $A_2$, $B_2$, $C_2$, $D_2$ i punti medi dei lati del quadrilatero $A_1 B_1 C_1 D_1$. Se $A_2 B_2 C_2 D_2$ è un rettangolo di lati 4 e 6, qual è l'area di $ABCD$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2013#q15|src_prmo_2013__Q15]]
 
 
 
@@ -422,9 +509,15 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di tutti i b per i quali due quadratici condividono una radice comune*
+*Due equazioni di secondo grado con parametro b: somma dei valori di b per cui hanno una radice in comune*
 
-> $f(x) = x^2 - 3x + b$ e $g(x) = x^2 + bx - 3$, dove $b$ è un numero reale. Qual è la somma di tutti i valori possibili di $b$ per i quali le equazioni $f(x) = 0$ e $g(x) = 0$ hanno una radice comune?
+> Siano $f(x) = x^2 - 3x + b$ e $g(x) = x^2 + bx - 3$, dove $b$ è un numero reale. Qual è la somma di tutti i valori possibili di $b$ per cui le equazioni $f(x) = 0$ e $g(x) = 0$ hanno una radice in comune?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_prmo_2013#q16|src_prmo_2013__Q16]]
 
 
 
@@ -446,9 +539,14 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Radius del cerchio S1 data configurazione del cerchio con angolo YXO=30 e raggio S2=100*
+*Circonferenza di raggio 100, corda e due circonferenze tangenti: raggio della più piccola*
 
-> Il $S$ deve essere un cerchio con il centro $O$. Un accordo $AB$, non di diametro, divide $S$ in due regioni $R_1$ e $R_2$ in modo tale che $O$ appartiene a $R_2$. Il $S_1$ deve essere un cerchio con centro in $R_1$, toccando $AB$ a $X$ e $S$ internamente. Il $S_2$ deve essere un cerchio con centro in $R_2$, che tocchi $AB$ a $Y$, il cerchio $S$ internamente e attraversa il centro di $S$. Il punto $X$ si trova sul diametro che attraversa il centro di $S_2$ e $Y$. Se $\angle YXO = 30^\circ$ e il raggio di $S_2$ è di 100, qual è il raggio di $S_1$?
+> Sia $S$ una circonferenza di centro $O$. Una corda $AB$, che non è un diametro, divide $S$ in due regioni $R_1$ e $R_2$ tali che $O$ appartiene a $R_2$. Sia $S_1$ una circonferenza con centro in $R_1$, tangente a $AB$ in $X$ e a $S$ internamente. Sia $S_2$ una circonferenza con centro in $R_2$, tangente a $AB$ in $Y$, alla circonferenza $S$ internamente e passante per il centro di $S$. Il punto $X$ giace sul diametro passante per il centro di $S_2$ e per $Y$. Se $\angle YXO = 30^\circ$ e il raggio di $S_2$ è 100, qual è il raggio di $S_1$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2013#q17|src_prmo_2013__Q17]]
 
 
 
@@ -472,11 +570,17 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximo k tale che il 2013 sia pari alla somma di k numeri interi positivi consecutivi*
+*Massimo numero di interi positivi consecutivi la cui somma è 2013*
 
-> Qual è il valore massimo possibile di $k$ tale che il 2013 possa essere scritto come somma di $k$ numeri interi positivi consecutivi?
+> Qual è il massimo valore possibile di $k$ tale che 2013 si possa scrivere come somma di $k$ interi positivi consecutivi?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 61
+
+[[Quesiti/src_prmo_2013#q18|src_prmo_2013__Q18]]
 
 
 
@@ -499,9 +603,15 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza di AC nel triangolo rettangolo dato il rapporto perpendicolare di superficie bisettore 13:18*
+*Triangolo rettangolo, asse di AB: rapporto di aree 13 a 18 e BC = 12, lunghezza di AC*
 
-> In un triangolo $ABC$ con $\angle BCA = 90^\circ$, il bisettore perpendicolare di $AB$ interseca i segmenti $AB$ e $AC$ rispettivamente a $X$ e $Y$. Se il rapporto tra la superficie quadrilaterale $BXYC$ e la superficie del triangolo $ABC$ è $13 : 18$ e $BC = 12$, qual è la lunghezza di $AC$?
+> In un triangolo $ABC$ con $\angle BCA = 90^\circ$, l'asse di $AB$ interseca i segmenti $AB$ e $AC$ in $X$ e $Y$ rispettivamente. Se il rapporto fra l'area del quadrilatero $BXYC$ e l'area del triangolo $ABC$ è $13 : 18$ e $BC = 12$, qual è la lunghezza di $AC$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2013#q19|src_prmo_2013__Q19]]
 
 
 
@@ -524,6 +634,12 @@ Valore di x^2+y^2+z^2 dato tre equazioni quadratiche in x,y,z*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di numeri naturali inferiori a 64 con esattamente tre 1s nella base 2*
+*Somma, in base 10, dei naturali minori di 64 che in base 2 hanno esattamente tre cifre 1*
 
-> Qual è la somma (in base 10) di tutti i numeri naturali inferiori a 64 che hanno esattamente tre numeri nella loro rappresentazione base 2?
+> Qual è la somma, in base 10, di tutti i numeri naturali minori di 64 che hanno esattamente tre cifre 1 nella rappresentazione in base 2?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2013#q20|src_prmo_2013__Q20]]

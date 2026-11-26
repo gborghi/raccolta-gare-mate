@@ -30,11 +30,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum visits to empty 15 plates*
+*Minimum visits to empty the 15 small plates*
 
-> In a cabin in the woods, there are 15 plates in a row: the first one has 1 nut, the second one has 2 nuts, the third one has 3 nuts, and so on until the 15th plate has 15 nuts. Every now and then a squirrel comes into the cabin, chooses a few plates and eats nuts, taking the same number from each of the plates chosen. What's the smallest number of visits to the cottage that allows him to eat all the nuts?
+> In a little house in the woods there are 15 small plates in a row: on the first there is 1 walnut, on the second there are 2 walnuts, on the third 3, and so on up to the fifteenth small plate, on which there are 15 walnuts. From time to time a squirrel enters the little house, chooses some small plates and eats some walnuts, taking the same number from each of the small plates chosen. What is the smallest number of visits to the little house that allows him to eat all the walnuts?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 4
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1gsyU7EVfAmWfdKlyvCj0UIdYJSndEpVE/view)
+[[Quesiti/src_kangourou_2014_junior_finale#q01|src_kangourou_2014_junior_finale__Q01]]
 
 
 
@@ -94,7 +100,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*NMB angle with three-string midpoints*
+*NMB angle with mean points of three strings*
 
 ![[src_kangourou_2014_junior_finale__prob2.png]]
 
@@ -133,9 +139,13 @@ level: kangourou
 \end{document}
 ```
 
-> The figure shows a circumference of which the segments $AB$, $BC$ and $CD$ are three chords. The $M$, $N$ and $K$ points are their respective midpoints. The angle $CKN$ is 75 degrees. How many degrees does the angle $NMB$ measure? (see figure)
+> In the figure, a circle is shown, in which the line segments $AB$, $BC$, and $CD$ are three chords. The points $M$, $N$, and $K$ are their respective midpoints. The angle $CKN$ measures 75 degrees. How many degrees does the angle $NMB$ measure? (see figure)
 
-**Answer:** 75
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2014_junior_finale#q02|src_kangourou_2014_junior_finale__Q02]]
 
 
 
@@ -158,9 +168,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Location of points within distance 3 (modified metric)*
+*Set of points within distance 3 (modified metric)*
 
-> In a plane with a $Oxy$ system of orthogonal Cartesian axes the distance of two points is usually defined using the coordinates of the points in accordance with Pythagorean theorem. We change the distance, assuming we can only move vertically or horizontally, but only horizontally if we're on the x-axis. In formulas, the distance from the point $(x_1, y_1)$ to the point $(x_2, y_2)$ shall be $|y_1 - y_2|$ if $x_1 = x_2$ and $|y_1| + |x_1 - x_2| + |y_2|$ if $x_1 \neq x_2$. Compared to this new distance, what is the location of the points not more than 3 from the $(2, 1)$ point?
+> In the plane equipped with a $Oxy$ system of orthogonal Cartesian axes, the distance between two points is usually defined using the coordinates of the points, in accordance with the Pythagorean theorem. Let us change the distance, assuming that we can move only vertically or horizontally, but horizontally only if we are on the x-axis. In formulas, the distance from point $(x_1, y_1)$ to point $(x_2, y_2)$ is $|y_1 - y_2|$ if $x_1 = x_2$; it is instead $|y_1| + |x_1 - x_2| + |y_2|$ if $x_1 \neq x_2$. With respect to this new distance, what is the locus of points that are no more than 3 units away from point $(2, 1)$?
+
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2014_junior_finale#q03|src_kangourou_2014_junior_finale__Q03]]
 
 
 
@@ -183,9 +200,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Winning strategies in the game of two piles*
+*Winning strategies in the two-pile game*
 
-> Consider the following game for two players playing in turns, drawing the first player. One starts with two piles of coins. The player who is called to play discards one and breaks the remainder into two new piles (of at least one coin each). The one who can't play anymore loses. Discuss the existence of winning strategies.
+> Consider the following game for two players who play in turn, drawing lots to decide who must play first. The game starts with two piles of coins. The player whose turn it is discards one of them and splits the remaining one into two new piles (of at least one coin each). The player who can no longer play loses. Discuss the existence of winning strategies.
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1gsyU7EVfAmWfdKlyvCj0UIdYJSndEpVE/view)
+[[Quesiti/src_kangourou_2014_junior_finale#q04|src_kangourou_2014_junior_finale__Q04]]
 
 
 
@@ -209,11 +233,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For how many n is the product (p+1) divisible by n*
+*For how many n is (p+1) divisible by n?*
 
-> A natural number $n$ is broken down into prime factors in 2014 (not necessarily all of them distinct from each other). Each prime factor is added to 1 and the new 2014 numbers obtained are multiplied by each other, resulting in a number $m$. For how many integers $n$ does it happen that, with these premises, $m$ is divisible by $n$?
+> A natural number $n$ is factored into 2014 prime factors (not necessarily all distinct from one another). 1 is added to each prime factor, and the 2014 new numbers obtained are multiplied together, yielding a number $m$. For how many integers $n$ does it happen that, under these premises, $m$ is divisible by $n$?
 
-**Answer:** 336
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2014_junior_finale#q05|src_kangourou_2014_junior_finale__Q05]]
 
 
 
@@ -239,10 +268,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n of 8x8 black squares for adjacent coverage*
+*Minimum number of 8x8 gray squares per adjacent coverage*
 
 ![[src_kangourou_2014_junior_finale__prob6.png]]
 
-> $n$ squares of one grid $8 \times 8$ are painted black, the others are white. Each square of the grid, whether white or black, is adjacent to (i.e. has a side in common with) a black square (different from it in the case of black). What is the minimum possible value for $n$?
+> $n$ squares of a grid $8 \times 8$ are painted black; the others are white. Every square of the grid, whether white or black, is adjacent to (that is, shares a side with) a black square (a different one if it is black itself). What is the minimum possible value of $n$?
 
-**Answer:** 20
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2014_junior_finale#q06|src_kangourou_2014_junior_finale__Q06]]

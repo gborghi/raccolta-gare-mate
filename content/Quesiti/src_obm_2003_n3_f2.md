@@ -30,11 +30,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di triangolo in triangolo con angolo bisector e media*
+*Area del sottotriangolo in un triangolo con bisettrice e mediana*
 
-> Nel triangolo $ABC$, $M$ è il punto medio del lato $AC$, $D$ è un punto sul lato $BC$ in modo tale che $AD$ divisa l'angolo $\widehat{BAC}$, e $P$ è l'intersezione di $AD$ e $BM$. Poiché la superficie di $ABC$ è $100$, $AB = 10$ e $AC = 30$, si trova la superficie del triangolo $APB$.
+> Nel triangolo $ABC$, $M$ è il punto medio del lato $AC$, $D$ è un punto sul lato $BC$ tale che $AD$ biseca l'angolo $\widehat{BAC}$, e $P$ è l'intersezione di $AD$ e $BM$. Sapendo che l'area di $ABC$ è $100$, $AB = 10$ e $AC = 30$, determina l'area del triangolo $APB$.
 
-**Risposta:** 20
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2003_n3_f2#q01|src_obm_2003_n3_f2__Q01]]
 
 
 
@@ -57,9 +62,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri quadrati a 4 cifre*
+*Conta i numeri biquadrati di quattro cifre*
 
-> Diciamo che un numero a 4 cifre $N$ è un **biquadrato** se equivale alla somma dei quadrati di due numeri: uno formato dalle prime due cifre di $N$ e l'altro formato dalle ultime due cifre di $N$, nell'ordine in cui appaiono in $N$. Ad esempio, $1233$ è un biquadrato perché $1233 = 12^2 + 33^2$. **Nota:** Un numero a 4 cifre non può iniziare con lo zero. Trova tutti i numeri quadrati.
+> Diciamo che un numero di 4 cifre $N$ è un **bicquadrato** se è uguale alla somma dei quadrati di due numeri: uno formato dalle prime due cifre di $N$ e l'altro formato dalle ultime due cifre di $N$, nell'ordine in cui compaiono in $N$. Ad esempio, $1233$ è un bicquadrato perché $1233 = 12^2 + 33^2$. **Nota:** Un numero di 4 cifre non può iniziare con zero. Trovare tutti i numeri bicquadrati.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2003_n3_f2#q02|src_obm_2003_n3_f2__Q02]]
 
 
 
@@ -82,9 +94,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta massima del più grande tra i 15 reali senza triangolo triplo*
+*Valore massimo del più grande tra 15 numeri reali senza triple triangolari*
 
-> Tra $15$ diversi numeri reali tutti più grandi di $1$, non possono essere tre le lunghezze laterali di un triangolo. Quali sono i valori possibili per il più grande dei numeri $15$?
+> Tra $15$ numeri reali distinti, tutti maggiori di $1$, nessun insieme di tre di essi può costituire le lunghezze dei lati di un triangolo. Quali sono i valori possibili per il più grande dei $15$ numeri?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2003_n3_f2#q03|src_obm_2003_n3_f2__Q03]]
 
 
 
@@ -107,9 +126,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto sul perimetro del triangolo rettangolo minimizzando la somma delle distanze*
+*Punto sul perimetro di un triangolo rettangolo che minimizza la somma delle distanze*
 
-> Il triangolo $ABC$ è angolato a destra a $A$. Tra tutti i punti $P$ sul perimetro del triangolo, trova quello che riduce al minimo $AP + BP + CP$.
+> Il triangolo $ABC$ è rettangolo in $A$. Tra tutti i punti $P$ sul perimetro del triangolo, determina quello che minimizza $AP + BP + CP$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2003_n3_f2#q04|src_obm_2003_n3_f2__Q04]]
 
 
 
@@ -133,11 +159,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Probabilità che un colorante 3x3 contenga un quadrato monocromatico 2x2*
+*Probabilità che una colorazione 3x3 contenga un quadrato 2x2 monocolore*
 
-> Un quadrato di lato $3$ è diviso in quadrati di unità $9$ che formano una griglia $3 \times 3$. Ogni quadrato unitario è dipinto blu o rosso, ogni colore scelto con probabilità $\frac{1}{2}$, indipendentemente dagli altri. Qual è la probabilità che, dopo aver colorato tutti i quadrati unitari, almeno un quadrato $2 \times 2$ (allineato con la griglia) sia interamente di un colore?
+> Un quadrato di lato $3$ viene suddiviso in $9$ quadrati unitari che formano una griglia $3 \times 3$. Ogni quadrato unitario viene colorato di blu o di rosso, con ciascun colore scelto con probabilità $\frac{1}{2}$, indipendentemente dagli altri. Qual è la probabilità che, dopo aver colorato tutti i quadrati unitari, almeno un quadrato $2 \times 2$ (allineato con la griglia) sia interamente di un unico colore?
 
-**Risposta:** \dfrac{95}{256}
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2003_n3_f2#q05|src_obm_2003_n3_f2__Q05]]
 
 
 
@@ -162,8 +193,14 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Formulara chiusa per una somma telescopica con potenze di 3*
+*Forma chiusa per una somma telescopica che coinvolge potenze di 3*
 
-> Calcolare la somma $$\sum_{i=0}^{n} \frac{2^{i+1}}{3^{2^i}+1} = \frac{2}{3^1+1} + \frac{2^2}{3^2+1} + \frac{2^3}{3^{2^2}+1} + \cdots + \frac{2^{n+1}}{3^{2^n}+1}.$$
+> Calcola la somma
+> $$\sum_{i=0}^{n} \frac{2^{i+1}}{3^{2^i}+1} = \frac{2}{3^1+1} + \frac{2^2}{3^2+1} + \frac{2^3}{3^{2^2}+1} + \cdots + \frac{2^{n+1}}{3^{2^n}+1}.$$
 
-**Risposta:** 1 - \dfrac{2^{n+1}}{3^{2^{n+1}}-1}
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2003_n3_f2#q06|src_obm_2003_n3_f2__Q06]]

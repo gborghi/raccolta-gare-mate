@@ -36,7 +36,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolo 123^2 - 23^2*
+*Calcola 123^2 - 23^2*
 
 > Qual è il valore di $123^2 - 23^2$?
 >
@@ -46,7 +46,12 @@ level: Senior Mathematical Challenge
 > - **(D)** 14600
 > - **(E)** 15658
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2019#q01|src_smc_2019__Q01]]
 
 
 
@@ -75,7 +80,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare l'espressione di sottrazione nidificata che coinvolge il 2019 e il 2000*
+*Valuta un'espressione di sottrazione annidata che coinvolge 2019 e 2000*
 
 > Qual è il valore di $(2019 - (2000 - (10 - 9))) - (2000 - (10 - (9 - 2019)))$?
 >
@@ -85,7 +90,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $-4002$
 > - **(E)** $-4020$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2019#q02|src_smc_2019__Q02]]
 
 
 
@@ -116,11 +125,11 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
+*Converti un mil (un millesimo di pollice, 2,5 cm per pollice) in mm*
 
-> Utilizzato per misurare la larghezza di un filo, un millimetro equivale a un millesimo di pollice. Un pollice è circa $2.5\,\text{cm}$.
-> 
-> Quale di queste è uguale a circa un miliardo?
+> Utilizzato per misurare la larghezza di un filo, un mil equivale a un millesimo di pollice. Un pollice è circa $2.5\,\text{cm}$.
+>
+> Quale di questi è approssimativamente uguale a un mil?
 >
 > - **(A)** $\frac{1}{40}\,\text{mm}$
 > - **(B)** $\frac{1}{25}\,\text{mm}$
@@ -128,7 +137,11 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** $25\,\text{mm}$
 > - **(E)** $40\,\text{mm}$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2019#q03|src_smc_2019__Q03]]
 
 
 
@@ -158,7 +171,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i valori interi positivi di n per i quali n^2 + 2n è primo*
+*Conta i valori interi positivi di n per cui n^2 + 2n è un numero primo*
 
 > Per quanti valori interi positivi di $n$ $n^2 + 2n$ è primo?
 >
@@ -168,7 +181,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** 3
 > - **(E)** più di 3
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2019#q04|src_smc_2019__Q04]]
 
 
 
@@ -202,10 +220,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di colori per il diagramma di colori di cerchi in modo che ogni cerchio abbia esattamente un vicino dello stesso colore*
+*Numero minimo di colori necessari per colorare il diagramma dei cerchi in modo che ciascun cerchio abbia esattamente un vicino dello stesso colore*
 
-> Olive Green desidera colorare tutti i cerchi del diagramma in modo che, per ogni cerchio, ci sia esattamente un cerchio dello stesso colore.
-> 
+> Olive Green vuole colorare tutti i cerchi nel diagramma in modo che, per ciascun cerchio, vi sia esattamente un cerchio dello stesso colore collegato ad esso.
+>
 > Qual è il numero minimo di colori di cui Olive ha bisogno per completare questo compito?
 >
 > - **(A)** 1
@@ -216,7 +234,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 
 ![[src_smc_2019__q05.png]]
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2019#q05|src_smc_2019__Q05]]
 
 
 
@@ -250,10 +273,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova x in modo che i fattori di 100 riempiano una griglia 3×3 con uguali prodotti di riga, colonna e diagonale*
+*Trovare x in modo che i fattori di 100 riempiano una griglia 3×3 con prodotti uguali nelle righe, nelle colonne e sulle diagonali*
 
-> Ciascuno dei fattori di 100 deve essere inserito in una griglia $3 \times 3$, una per ogni cella, in modo tale che i prodotti dei tre numeri di ogni riga, colonna e diagonale siano tutti uguali. Le posizioni dei numeri $1$, $2$, $50$ e $x$ sono indicate nel diagramma.
-> 
+> Ciascun fattore di 100 deve essere collocato in una griglia $3 \times 3$, uno per cella, in modo che i prodotti dei tre numeri in ogni riga, colonna e diagonale siano tutti uguali. Le posizioni dei numeri $1$, $2$, $50$ e $x$ sono indicate nel diagramma.
+>
 > Qual è il valore di $x$?
 >
 > - **(A)** 4
@@ -264,7 +287,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 
 ![[src_smc_2019__q06.png]]
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2019#q06|src_smc_2019__Q06]]
 
 
 
@@ -296,11 +324,11 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare p/q + r/s dove {p,q,r,s} = {1,2,3,4}*
+*Minimizza p/q + r/s con {p,q,r,s} = {1,2,3,4}*
 
-> A Lucy viene chiesto di scegliere $p$, $q$, $r$ e $s$ per essere i numeri $1$, $2$, $3$ e $4$, in un certo ordine, in modo da rendere il valore di $\frac{p}{q} + \frac{r}{s}$ il più piccolo possibile.
-> 
-> Qual è il minimo valore che Lucy possa ottenere in questo modo?
+> A Lucy viene chiesto di scegliere $p$, $q$, $r$ e $s$ in modo che siano i numeri $1$, $2$, $3$ e $4$, in un certo ordine, così da rendere il valore di $\frac{p}{q} + \frac{r}{s}$ il più piccolo possibile.
+>
+> Qual è il valore più piccolo che Lucy può ottenere in questo modo?
 >
 > - **(A)** $\frac{7}{12}$
 > - **(B)** $\frac{2}{3}$
@@ -308,7 +336,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** $\frac{5}{6}$
 > - **(E)** $\frac{11}{12}$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2019#q07|src_smc_2019__Q07]]
 
 
 
@@ -340,11 +373,11 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine quale intervallo contiene la soluzione x di 3^(3^x) = 333*
+*Determinare quale intervallo contiene la soluzione x di 3^(3^x) = 333*
 
 > Il numero $x$ è la soluzione dell'equazione $3^{(3^x)} = 333$.
-> 
-> Quale di queste parole è vero?
+>
+> Quale delle seguenti affermazioni è vera?
 >
 > - **(A)** $0 < x < 1$
 > - **(B)** $1 < x < 2$
@@ -352,7 +385,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** $3 < x < 4$
 > - **(E)** $4 < x < 5$
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2019#q08|src_smc_2019__Q08]]
 
 
 
@@ -386,11 +424,11 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Papero quadrato piegato in quattro volte e poi rimosso da angolo  quale forma di ripiegamento è possibile?*
+*Un foglio quadrato piegato a metà quattro volte e poi con un angolo rimosso: quale forma, una volta svolto, è possibile?*
 
-> Un quadrato di carta viene piegato in quattro volte per ottenere un quadrato più piccolo. Poi viene rimosso un angolo come mostrato.
-> 
-> Quale dei seguenti potrebbe essere la carta dopo che si è svolta?
+> Un quadrato di carta viene piegato a metà quattro volte per ottenere un quadrato più piccolo. Poi si rimuove un angolo come mostrato.
+>
+> Quale dei seguenti potrebbe essere la carta dopo che è stata svolta?
 >
 > - **(A)** A
 > - **(B)** B
@@ -400,7 +438,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 
 ![[src_smc_2019__q09.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2019#q09|src_smc_2019__Q09]]
 
 
 
@@ -432,11 +475,11 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca n in {10,19,20,21,30} in modo che né 6n-1 né 6n+1 siano prime*
+*Trovare n in {10,19,20,21,30} tale che né 6n-1 né 6n+1 siano numeri primi*
 
-> Quali dei cinque seguenti valori di $n$ sono un contrasemplare dell'affermazione riportata nella casella seguente?
-> 
-> \emph{Per un intero positivo $n$, almeno uno di $6n - 1$ e $6n + 1$ è primo.}
+> Quale dei seguenti cinque valori di $n$ è un controesempio all'affermazione riportata nella casella qui sotto?
+>
+> \emph{Per un numero intero positivo $n$, almeno uno tra $6n - 1$ e $6n + 1$ è primo.}
 >
 > - **(A)** 10
 > - **(B)** 19
@@ -444,7 +487,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** 21
 > - **(E)** 30
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2019#q10|src_smc_2019__Q10]]
 
 
 
@@ -474,9 +522,9 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i valori dei numeri interi di k per i quali sqrt(200 - sqrt(k)) è un numero intero*
+*Conta i valori interi di k per cui sqrt(200 - sqrt(k)) è un numero intero*
 
-> Per quanti valori interi di $k$ $\sqrt{200 - \sqrt{k}}$ è anche un numero intero?
+> Per quanti valori interi di $k$ anche $\sqrt{200 - \sqrt{k}}$ è un numero intero?
 >
 > - **(A)** 11
 > - **(B)** 13
@@ -484,7 +532,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** 17
 > - **(E)** 20
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2019#q11|src_smc_2019__Q11]]
 
 
 
@@ -518,10 +571,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di un rombo in cui un cerchio unitario tocca tutti e quattro i lati e gli angoli più piccoli sono 60°*
+*Area di un rombo in cui un cerchio unitario è tangente a tutti e quattro i lati e gli angoli minori misurano 60°*
 
-> Un cerchio con raggio $1$ tocca i lati di un rombo, come mostrato. Ogni angolo più piccolo tra i lati del rombo è $60^\circ$.
-> 
+> Un cerchio di raggio $1$ è tangente ai lati di un rombo, come mostrato. Ciascuno degli angoli minori tra i lati del rombo misura $60^\circ$.
+>
 > Qual è l'area del rombo?
 >
 > - **(A)** $6$
@@ -532,7 +585,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 
 ![[src_smc_2019__q12.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2019#q12|src_smc_2019__Q12]]
 
 
 
@@ -564,10 +622,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il numero totale di piastrelle quando si formano n^2+64 = (n+1)^2 - 25*
+*Trovare il numero totale di tessere quando si forma n^2+64 = (n+1)^2 - 25*
 
-> Anish ha una serie di piccole piastrelle quadrate congruenti da usare in un mosaico. Quando forma le piastrelle in un quadrato di lato $n$, gli restano delle piastrelle $64$. Quando cerca di formare le piastrelle in un quadrato di lato $n + 1$, ha $25$ troppo pochi.
-> 
+> Anish ha diversi piccoli tasselli quadrati congruenti da utilizzare in un mosaico. Quando dispone i tasselli a formare un quadrato di lato $n$, gli avanzano $64$ tasselli. Quando prova a disporli a formare un quadrato di lato $n + 1$, gliene mancano $25$.
+>
 > Quante piastrelle ha Anish?
 >
 > - **(A)** 89
@@ -576,7 +634,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** 2000
 > - **(E)** 2019
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2019#q13|src_smc_2019__Q13]]
 
 
 
@@ -608,10 +671,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il più grande quadrato perfetto che è un fattore di 10!*
+*Trovare il più grande quadrato perfetto che sia un fattore di 10!*
 
-> Uno dei seguenti è il più grande quadrato che è un fattore di $10!$. - Quale?
-> 
+> Uno dei seguenti è il quadrato più grande che è un fattore di $10!$. Quale?
+>
 > Si noti che $n! = 1 \times 2 \times 3 \times \cdots \times (n-1) \times n$.
 >
 > - **(A)** $(4!)^2$
@@ -620,7 +683,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** $(7!)^2$
 > - **(E)** $(8!)^2$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2019#q14|src_smc_2019__Q14]]
 
 
 
@@ -652,11 +720,11 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum Q+R+S dove in coppia HCF di Q, R, S sono tre prime diverse*
+*Minimo di Q+R+S, dove i massimi comun divisori a coppie di Q, R, S sono tre numeri primi distinti*
 
-> I fattori comuni più alti di tutte le coppie scelte dai numeri interi positivi $Q$, $R$ e $S$ sono tre numeri primi diversi.
-> 
-> Qual è il minimo valore possibile di $Q + R + S$?
+> I massimi comuni divisori di tutte le coppie scelte tra gli interi positivi $Q$, $R$ e $S$ sono tre numeri primi distinti.
+>
+> Qual è il valore più piccolo possibile di $Q + R + S$?
 >
 > - **(A)** 41
 > - **(B)** 31
@@ -664,7 +732,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** 21
 > - **(E)** 10
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2019#q15|src_smc_2019__Q15]]
 
 
 
@@ -695,10 +768,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la media di x, y, z che soddisfa 9x+3y-5z=-4 e 5x+2y-2z=13*
+*Trovare la media di x, y, z tali che 9x+3y-5z=-4 e 5x+2y-2z=13*
 
 > I numeri $x$, $y$ e $z$ soddisfano le equazioni $9x + 3y - 5z = -4$ e $5x + 2y - 2z = 13$.
-> 
+>
 > Qual è la media di $x$, $y$ e $z$?
 >
 > - **(A)** 10
@@ -707,7 +780,11 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** 13
 > - **(E)** 14
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2019#q16|src_smc_2019__Q16]]
 
 
 
@@ -739,11 +816,11 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Produzione di tutti gli integri in un elenco di numeri interi consecutivi del 2019 che sommano al 2019*
+*Prodotto di tutti gli interi in una lista di 2019 interi consecutivi la cui somma è 2019*
 
-> Jeroen scrive un elenco di $2019$ numeri interi positivi consecutivi. La somma dei suoi enti è $2019$.
-> 
-> Qual è il prodotto di tutti i numeri interi nella lista di Jeroen?
+> Jeroen scrive un elenco di $2019$ interi positivi consecutivi. La somma dei suoi interi è $2019$.
+>
+> Qual è il prodotto di tutti gli interi nell'elenco di Jeroen?
 >
 > - **(A)** $2019^0$
 > - **(B)** $\frac{2019 \times 2020}{2}$
@@ -751,7 +828,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** $2019$
 > - **(E)** $0$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2019#q17|src_smc_2019__Q17]]
 
 
 
@@ -785,10 +867,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Find angolo a quando una carta quadrata è piegata in modo che un angolo atterri sulla linea di piega centrale*
+*Trovare l'angolo a quando un foglio di carta quadrato viene piegato in modo che un vertice vada a cadere sulla linea di piega centrale*
 
-> Alison piega in due un pezzo quadrato di carta lungo la linea tracciata mostrata nel diagramma. Dopo aver aperto di nuovo il giornale, poi piega uno degli angoli sulla linea disegnata.
-> 
+> Alison piega a metà un foglio di carta quadrato lungo la linea tratteggiata mostrata nel diagramma. Dopo aver riaperto il foglio, piega poi uno degli angoli in modo che vada a cadere sulla linea tratteggiata.
+>
 > Qual è il valore di $a$?
 >
 > - **(A)** 45
@@ -799,7 +881,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 
 ![[src_smc_2019__q18.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2019#q18|src_smc_2019__Q18]]
 
 
 
@@ -831,7 +918,7 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare quale grafico potrebbe essere y^2 = sin(x^2)*
+*Individua quale grafico potrebbe rappresentare y^2 = sin(x^2)*
 
 > Quale dei seguenti potrebbe essere il grafico di $y^2 = \sin(x^2)$?
 >
@@ -843,7 +930,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 
 ![[src_smc_2019__q19.png]]
 
-**Risposta:** A
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_smc_2019#q19|src_smc_2019__Q19]]
 
 
 
@@ -877,11 +969,11 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cerca angolo ZXY in un cuore formato da triangolo equilaterale ABC e da due semicircoli, con linee attraverso il centro O che incontrano AC*
+*Trovare l'angolo ZXY in un cuore formato dal triangolo equilatero ABC e da due semicerchi, con rette passanti per il centro O che intersecano AC*
 
-> Il "cuore" mostrato nel diagramma è formato da un triangolo equilaterale $ABC$ e da due semicerchi congruenti su $AB$. Il punto $O$ è il centro di uno dei semicircoli e si trova su un punto $X$. Le linee $XO$ e $XP$ sono estese per soddisfare $AC$ rispettivamente a $Y$ e $Z$. Le linee $XY$ e $XZ$ sono di uguale lunghezza.
-> 
-> Che cos' è $\angle ZXY$?
+> Il "cuore" mostrato nel diagramma è formato da un triangolo equilatero $ABC$ e da due semicerchi congruenti su $AB$. Il punto $O$ è il centro di uno dei semicerchi ed è situato su un punto $X$. Le rette $XO$ e $XP$ vengono prolungate fino a incontrare $AC$ rispettivamente nei punti $Y$ e $Z$. Le rette $XY$ e $XZ$ hanno la stessa lunghezza.
+>
+> Che cos'è $\angle ZXY$?
 >
 > - **(A)** $20^\circ$
 > - **(B)** $25^\circ$
@@ -891,7 +983,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 
 ![[src_smc_2019__q20.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2019#q20|src_smc_2019__Q20]]
 
 
 
@@ -925,11 +1022,11 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di distanza in metri tra la galleggia (30 cm/min lungo la QR) e l'araigno (40 cm/min lungo la RT) in giardino quadrato di 10 m*
+*Distanza minima in metri tra la coccinella (30 cm/min lungo QR) e il ragno (40 cm/min lungo RT) in un giardino quadrato di 10 m di lato*
 
-> In un giardino quadrato $PQRT$ di lato $10\,\text{m}$, una galleggia parte da $Q$ e si muove lungo il bordo $QR$ a $30\,\text{cm}$ al minuto. Allo stesso tempo, un ragno parte da $R$ e si muove lungo il bordo $RT$ a $40\,\text{cm}$ al minuto.
-> 
-> Qual è la distanza più corta tra di loro, in metri?
+> In un giardino quadrato $PQRT$ di lato $10\,\text{m}$, una coccinella parte da $Q$ e si muove lungo il lato $QR$ a $30\,\text{cm}$ al minuto. Nello stesso momento, un ragno parte da $R$ e si muove lungo il lato $RT$ a $40\,\text{cm}$ al minuto.
+>
+> Qual è la distanza più breve tra di loro, in metri?
 >
 > - **(A)** 5
 > - **(B)** 6
@@ -939,7 +1036,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 
 ![[src_smc_2019__q21.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2019#q21|src_smc_2019__Q21]]
 
 
 
@@ -971,10 +1073,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca f(2019) data l'equazione funzionale (n-2019) f(n) - f(2019-n) = 2019*
+*Trovare f(2019) data l'equazione funzionale (n-2019)f(n) - f(2019-n) = 2019*
 
-> Una funzione $f$ soddisfa l'equazione $(n - 2019)f(n) - f(2019 - n) = 2019$ per ogni intero $n$.
-> 
+> Una funzione $f$ soddisfa l'equazione $(n - 2019)f(n) - f(2019 - n) = 2019$ per ogni numero intero $n$.
+>
 > Qual è il valore di $f(2019)$?
 >
 > - **(A)** $0$
@@ -983,7 +1085,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** $2019^2$
 > - **(E)** $2019 \times 2020$
 
-**Risposta:** C
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2019#q22|src_smc_2019__Q22]]
 
 
 
@@ -1017,10 +1124,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di seccatura esagonale di un cubo di borda sqrt(2) tagliata attraverso i punti medi T, U, V, W dei bordi*
+*Area della sezione trasversale esagonale di un cubo di spigolo sqrt(2) tagliato passando per i punti medi T, U, V, W degli spigoli*
 
-> La lunghezza del bordo del cubo solido mostrato è $\sqrt{2}$. Un singolo taglio piano passa attraverso i punti $T$, $U$, $V$ e $W$ che sono i punti medi dei bordi del cubo, come mostrato.
-> 
+> La lunghezza del lato del cubo solido mostrato è $\sqrt{2}$. Un unico piano di taglio passa per i punti $T$, $U$, $V$ e $W$, che sono i punti medi dei spigoli del cubo, come mostrato.
+>
 > Qual è l'area della sezione trasversale?
 >
 > - **(A)** $\sqrt{3}$
@@ -1031,7 +1138,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 
 ![[src_smc_2019__q23.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2019#q23|src_smc_2019__Q23]]
 
 
 
@@ -1063,10 +1175,10 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova xyz dove x, y, z sono dati da espressioni che coinvolgono radici quadrate nidificate di 7 e 3*
+*Trovare xyz, dove x, y, z sono dati da espressioni che coinvolgono radici quadrate annidate di 7 e 3*
 
-> I numeri $x$, $y$ e $z$ sono indicati da $x = \sqrt{12 - 3\sqrt{7}} - \sqrt{12 + 3\sqrt{7}}$, $y = \sqrt{7 + 4\sqrt{3}} - \sqrt{7 - 4\sqrt{3}}$ e $z = \sqrt{7} + \sqrt{3}$.
-> 
+> I numeri $x$, $y$ e $z$ sono dati da $x = \sqrt{12 - 3\sqrt{7}} - \sqrt{12 + 3\sqrt{7}}$, $y = \sqrt{7 + 4\sqrt{3}} - \sqrt{7 - 4\sqrt{3}}$ e $z = \sqrt{7} + \sqrt{3}$.
+>
 > Qual è il valore di $xyz$?
 >
 > - **(A)** 1
@@ -1075,7 +1187,12 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 > - **(D)** 8
 > - **(E)** 12
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2019#q24|src_smc_2019__Q24]]
 
 
 
@@ -1109,11 +1226,11 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di quadrato inserita tra due cerchi unitari che attraversano ciascuno il centro dell'altro*
+*Area del quadrato inscritto tra due cerchi unitari, ciascuno dei quali passa per il centro dell'altro*
 
-> Due cerchi di raggio $1$ sono tali che il centro di ciascun cerchio sia situato sull'altro cerchio. Un quadrato è inscritto nello spazio tra i cerchi, come mostrato.
-> 
-> Qual è l'area della piazza?
+> Due cerchi di raggio $1$ sono tali che il centro di ciascun cerchio giace sull'altro cerchio. Un quadrato è inscritto nello spazio compreso tra i cerchi, come mostrato.
+>
+> Qual è l'area del quadrato?
 >
 > - **(A)** $2 - \frac{\sqrt{7}}{2}$
 > - **(B)** $2 + \frac{\sqrt{5}}{2}$
@@ -1123,4 +1240,9 @@ Convertire un mil (un millesimo di pollice, 2,5 cm per pollice) in mm
 
 ![[src_smc_2019__q25.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2019#q25|src_smc_2019__Q25]]

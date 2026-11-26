@@ -35,9 +35,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers on the hexagonal vertices with equal sums per side*
+*Numbers at the vertices of a hexagon, with equal sums on each side*
 
-> In a theater there are 100 spectators: 50 of them are Italians, 60 are men, 90 are vegetarians. How many spectators in that theater can you be sure of being Italian, male and vegetarian at the same time? A) 0 B) 1 C) 10 D) 40 E) 50
+> In a theater, there are 100 spectators: 50 of them are Italian, 60 are male, and 90 are vegetarian. How many of the spectators present in that theater can we be certain are at the same time Italian, male, and vegetarian?
+> A) 0
+> B) 1
+> C) 10
+> D) 40
+> E) 50
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_student#q01|src_kangourou_2011_student__Q01]]
 
 
 
@@ -67,9 +79,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arrival order of three pilots given the overtakes*
+*Finishing order of three drivers given the overtakes*
 
-> Let's say we write in decreasing order all positive integers of 4 significant digits whose sum of digits is 4. What position does the number 2011 occupy on this list? A) The sixth B) The seventh C) The eighth D) The ninth E) The tenth
+> Suppose we write in descending order all positive integers with 4 significant digits whose digit sum is 4. What position does the number 2011 occupy in this list?
+> A) The sixth
+> B) The seventh
+> C) The eighth
+> D) The Ninth
+> E) The tenth
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_student#q02|src_kangourou_2011_student__Q02]]
 
 
 
@@ -93,9 +117,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Calculation of xy with 2^x=15 and 15^y=32
+*Calculation of xy given 2^x=15 and 15^y=32*
 
-> If 2x = 15 and 15y = 32, xy is equal to A) 5 B) log2 15 + log15 32 C) log2 47 D) 7 E)
+> If 2x = 15 and 15y = 32, then xy equals
+> A) 5
+> B) log2 15 + log15 32          C) log2 47        D) 7     E)
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_student#q03|src_kangourou_2011_student__Q03]]
 
 
 
@@ -135,12 +167,19 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 ![[src_kangourou_2011_student__prob4.png]]
 
-> During a car trip on a bumpy road, Michela drew the sketch you see in the figure: it shows the houses of her four friends, the streets where they live and the intersections between these streets. In reality, however, via Freccia, via Righello and via Chiodo are all straight streets. The fourth street is via Curva. Which of the four friends lives on via Curva?
+> During a car trip on a road
+> After an accident, Michela drew the sketch you see in the figure: it shows the houses of her four friends, the streets where they live, and the intersections between these streets. In reality, however, Via Freccia, Via Righello, and Via Chiodo are all straight streets. The fourth street is Via Curva. Which of the four friends lives on Via Curva?
 > A) Angela
 > B) Bianca
 > C) Chiara
-> D) Donata             
-> E) It cannot be deduced from the sketch available
+> D) Donata
+> E) It cannot be deduced from the sketch available.
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_student#q04|src_kangourou_2011_student__Q04]]
 
 
 
@@ -182,28 +221,22 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of 2011 among 4-digit numbers with digit sum 4*
+*2011th position among 4-digit numbers with a digit sum of 4*
 
-> Three drivers, Michael, Fernando and Sebastian, take part in a
-> Formula 1 race. Right after the start Michael is in the lead, Fernando is second and Sebastian
-> third. During the race Michael and Fernando swap positions 9 times,
-> Fernando and Sebastian 10 times and Michael and Sebastian 11 times. In what order
-> do they finish the race?
-> A) Michael, Fernando, Sebastian     B)  Fernando, Sebastian, Michael
-> C) Sebastian, Michael, Fernando      D) Sebastian, Fernando, Michael
+> Three drivers—Michael, Fernando, and Sebastian—are taking part in a Formula 1 race. Right after the start, Michael is in the lead, Fernando is second, and Sebastian is third. During the race, Michael and Fernando swap positions 9 times, Fernando and Sebastian 10 times, and Michael and Sebastian 11 times. In what order do they finish the race?
+> A) Michael, Fernando, Sebastian B) Fernando, Sebastian, Michael
+> C) Sebastian, Michael, Fernando D) Sebastian, Fernando, Michael
 > E) Fernando, Michael, Sebastian
-> √47
-> Donata
-> Chiara
-> Bianca
-> Angela
-> Testi_11Mat.qxp  19-05-2011  21:27  Pagina 27
-> 
-> Pag.
-> Pag. 28
-> 28
-> Kang 201
-> Kang 2011
+> √47 Donata Chiara Bianca Angela Testi_11Mat.qxp 19-05-2011 21:27 Page 27
+>
+> Pag. Pag. 28 28 Kang 201 Kang 2011
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_student#q05|src_kangourou_2011_student__Q05]]
 
 
 
@@ -235,11 +268,25 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of a tessellation with hexagon, squares, triangles*
+*Perimeter of a tessellation with hexagons, squares, and triangles*
 
 ![[src_kangourou_2011_student__prob6.png]]
 
-> The region in the figure can be broken down, as indicated, into a regular hexagon of side 1, six triangles and six squares. What's its perimeter? A) 6(1 + ) B) 6(1 + /2) C) 6 + 3 D) 9 E) 12
+> The region in the figure can be decomposed, as indicated, into
+> A regular hexagon with side length 1, six triangles, and six squares. What is its perimeter?
+> A) 6(1 + 
+> )
+> B) 6(1 + 
+> /2)
+> C) 6 + 3
+> D) 9
+> E) 12
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_student#q06|src_kangourou_2011_student__Q06]]
 
 
 
@@ -267,11 +314,18 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Form of the oblique cut of a unrolled cylinder*
+*Shape of the oblique cut of an unrolled cylinder*
 
 ![[src_kangourou_2011_student__prob7.png]]
 
-> A rectangular sheet of paper is wrapped around a cylinder so as to cover it without overlap with itself; if the cylinder is cut with a plane passing through points A and B in the figure, and the bottom of the sheet is then stretched on a plane, which of the following figures can be the image?
+> A rectangular sheet of paper is wrapped around a
+> A cylinder in such a way as to cover it without overlapping itself; if the cylinder is cut by a plane passing through points A and B in the figure, and the lower part of the sheet is then laid out on a plane, which of the following figures could be its image?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_student#q07|src_kangourou_2011_student__Q07]]
 
 
 
@@ -302,11 +356,23 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PQRS quadrilateral area with right angles*
+*Area of quadrilateral PQRS with right angles*
 
 ![[src_kangourou_2011_student__prob8.png]]
 
-> What is the area of the ABCD quadrilateral in the figure, if AB is as long as BC, BE is as long as 5 and the angles ABC, ADC and BED are right angles? A) 20 B) 22,5 C) 25 D) 27,5 E) 30
+> What is the area of quadrilateral ABCD in the figure, if AB is
+> Is BE 5 long and are the angles ABC, ADC, and BED right angles, just as BC is?
+> A) 20
+> B) 22,5
+> C) 25
+> D) 27,5
+> E) 30
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_student#q08|src_kangourou_2011_student__Q08]]
 
 
 
@@ -336,16 +402,21 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Odd numbers from 1 to 2011 without the multiples of 3*
+*Odd numbers from 1 to 2011, excluding multiples of 3*
 
-> Andrea wrote on a blackboard all the odd numbers from 1 to 2011 and then
-> Roberto erased all and only the multiples of 3. How many numbers remained
-> written on the blackboard?
+> Andrea wrote all the odd numbers from 1 to 2011 on a blackboard, and then Roberto erased all and only the multiples of 3. How many numbers remained written on the blackboard?
 > A) 335
 > B) 336
 > C) 671
 > D) 1005 
 > E) 1006
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_student#q09|src_kangourou_2011_student__Q09]]
 
 
 
@@ -372,9 +443,19 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of dice per team probability between two events*
+*Number of dice for equiprobability between two events*
 
-> A rectangle is divided into 3 rectangles, one of which has sides of length 7 and 11 and another has sides of length 4 and 8. The third rectangle has, among the eligible ones, the maximum area: what are the dimensions of its sides? (a) 1 and 11 (b) 3 and 4 (c) 3 and 8 (d) 7 and 8 (e) 8 and 11 11 al N. 20 is worth 4 points each.
+> A rectangle is divided into 3 rectangles, one of which has sides of length 7 and 11, and another has sides of length 4 and 8. Among the admissible possibilities, the third rectangle has the maximum area: what are the lengths of its sides?
+> A) 1 e 11
+> B) 3 e 4             C) 3 e 8              D) 7 e 8            E) 8 e 11
+> Questions 11 to 20 are each worth 4 points.
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_student#q10|src_kangourou_2011_student__Q10]]
 
 
 
@@ -428,41 +509,29 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dividing a rectangle into three similar rectangles*
+*Divide a rectangle into three similar rectangles*
 
-> To decide who will dive first into a frozen lake, Massimo and Ugo
-> want to throw some dice and base the outcome on the results of the throws according to the following
-> rule: if no 6 comes up, Massimo will dive; if there is only one 6, Ugo will dive,
-> while if more 6s come up they will both give up taking a swim. How many dice
-> must they throw if they want the risk of diving first to be equally shared between the two of them?
+> To decide who will dive into an icy lake first, Massimo and Ugo want to roll some dice and base their decision on the results of the rolls according to the following rule: if a 6 does not come up, Massimo will dive; if there is exactly one 6, Ugo will dive; and if more than one 6 comes up, both will forgo swimming. How many dice must they roll if they want the risk of diving in first to be shared equally between the two of them?
 > A) 3 
 > B) 5
 > C)  6
 > D)  9          
-> E) It is not possible for the risk to be the same   
-> √2
-> √3
-> √2
-> B
-> A
+> E) It is impossible for the risk to be the same
+> √2 √3 √2 B A
 > A)
 > B)
 > C)
 > D)
 > E)
-> C
-> D
-> B
-> A
-> 5
-> E
-> Testi_11Mat.qxp  19-05-2011  21:27  Page 28
-> 
-> Pag. 
-> Pag. 29
-> 29
-> Kang 201
-> Kang 2011
+> C D B A 5 E Testi_11Mat.qxp 19-05-2011 21:27 Page 28
+>
+> Pag. Pag. 29 29 Kang 201 Kang 2011
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_student#q11|src_kangourou_2011_student__Q11]]
 
 
 
@@ -493,9 +562,21 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of squares 2x2 equal to 10 in the grid 3x3*
+*Sum of squares of 2x2s equal to 10 in a 3x3 grid*
 
-> Andrea and Bruno answer the truth to anyone who asks how many members their Chess Club has. Andrea says all the members of the Club except 5, are male. Bruno says: In each group of 6 members of the Club there are at least 4 women. How many members of the Club? A) 6 B) 7 C) 8 D) 12 E) 18
+> Andrea and Bruno tell the truth when asked how many members their Chess Club has. Andrea says, "All the members of the Club except 5 are male." Bruno says, "In every group of 6 members of the Club, there are at least 4 females." How many members are there in the Club?
+> A) 6
+> B) 7
+> C) 8
+> D) 12
+> E) 18
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_student#q12|src_kangourou_2011_student__Q12]]
 
 
 
@@ -527,9 +608,21 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of families on a trip given composition of siblings*
+*Number of families on an outing, given the composition of siblings*
 
-> Forty-eight boys are taking part in a ski trip. Some of them are together with brothers (or sisters): precisely 6 participate with exactly 1 brother, 9 with exactly 2 and 4 with exactly 3 brothers. All the others have no brothers (or sisters) taking part in the trip. How many families have children taking part in the trip? A) 19 B) 25 C) 31 D) 36 E) 48
+> 48 boys are taking part in a ski trip. Some of them are with brothers (or sisters): specifically, 6 are taking part with exactly 1 brother, 9 with exactly 2 brothers, and 4 with exactly 3 brothers. All the others have no brothers (or sisters) taking part in the trip. How many families have children taking part in the trip?
+> A) 19
+> B) 25
+> C) 31
+> D) 36
+> E) 48
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_student#q13|src_kangourou_2011_student__Q13]]
 
 
 
@@ -568,25 +661,24 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of graphs of functions with equal roots*
+*Number of graphs of functions with identical roots*
 
 ![[src_kangourou_2011_student__prob14.png]]
 
-> How many of the following functions y = x2 ; y = −x2 ; y = 
-> ; 
-> y = −
-> ; y = 
-> ; y = −
-> ; 
-> y = 
-> ; y = −
-> have their
-> graph included in the figure?
+> How many of the following functions: y = x²; y = −x²; y =
+> ; y = − ; y = ; y = − ; y = ; y = −—do their graphs appear in the figure?
 > A) 0
 > B) 2
 > C) 4
 > D) 6
 > E) 8
+
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_student#q14|src_kangourou_2011_student__Q14]]
 
 
 
@@ -650,16 +742,12 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle between windshield wiper and edge, clean area*
+*Angle between wiper blade and edge, clean area*
 
 ![[src_kangourou_2011_student__prob15.png]]
 
 > The rear windshield wiper of a car is
-> constructed so that the wiper blade w and
-> the connecting arm r have equal length and are rigidly connected forming
-> an angle measuring α radians . The windshield wiper rotates on the end C of the arm and cleans the
-> surface as illustrated in the figure. What
-> is the measure in radians of the angle β formed by the right edge of the cleaned surface and by the tangent to its upper curved side at the point of contact between the curved side and the right edge?
+> It is constructed so that the windshield wiper blade w and the connecting arm r have equal length and are rigidly connected, forming an angle of α radians. The wiper rotates about end C of the arm and cleans the surface as illustrated in the figure. What is the measure, in radians, of the angle β formed by the right edge of the cleaned surface and the tangent to its upper curved side at the point of contact between the curved side and the right edge?
 > A) 
 > B) π −
 > C) 
@@ -667,33 +755,19 @@ Calculation of xy with 2^x=15 and 15^y=32
 > D) 
 > + α
 > E) π + α
-> 2
-> π
-> 2
-> 3π
-> 2
-> α
-> 2
-> 3π-α
-> 2
+> 2 π 2 3π 2 α 2 3π-α 2
 > √|x|
 > √|x|
-> √-x
-> √-x
-> √x
-> √x
-> α
-> β
-> C
-> w
-> r
-> Testi_11Mat.qxp  19-05-2011  21:27  Pagina 29
-> 
-> Pag. 
-> Pag. 30
-> 30
-> Kang 201
-> Kang 2011
+> √-x √-x √x √x α β C w r Testi_11Mat.qxp 19-05-2011 21:27 Page 29
+>
+> Page Page 30 30 Kang 201 Kang 2011
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_student#q15|src_kangourou_2011_student__Q15]]
 
 
 
@@ -730,13 +804,23 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of areas to calculate area of parallelogram X*
+*Minimum number of regions to calculate the area of parallelogram X*
 
 ![[src_kangourou_2011_student__prob16.png]]
 
-> In the figure there are 3 horizontal lines and 3 lines tilted parallel to each other; both circles are tangent to 4 of the lines. A, B and C are the areas of the shaded figures, as indicated, and D is the area of the PQRS parallelogram. To calculate the area of the parallelogram indicated by X, what is the minimum number of areas that is sufficient to know between A, B, C and D? A) 1 B) 2 C) 3 D) 4 E) It is not enough to know A, B, C and D
+> In the figure, there are 3 horizontal lines and 3 inclined lines parallel to one another; both circles are tangent to 4 of the lines. A, B, and C are the areas of the shaded figures, as indicated, and D is the area of parallelogram PQRS. To calculate the area of the parallelogram labeled X, what is the minimum number of the areas among A, B, C, and D that it is sufficient to know?
+> A) 1
+> B) 2
+> C) 3
+> D) 4            
+> E) Knowing A, B, C, and D is not enough
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_student#q16|src_kangourou_2011_student__Q16]]
 
 
 
@@ -769,13 +853,22 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Any statement on the parabola may be false*
+*Which statement about the parabola can be false?*
 
 ![[src_kangourou_2011_student__prob17.png]]
 
-> In the plane with the usual orthogonal cartesian reference system Oxy, the point A(1, -10) was marked on the equation parabola y = ax2 + bx + c; the axes and much of the graph of the parabola were then deleted, and what remains is seen in the figure. Which of the following claims may be false? A) a > 0 B) b < 0 C) a+b+c < 0 D) b2 > 4ac E) c < 0
+> In the plane with the usual orthogonal Cartesian reference system Oxy, the point A ≡ (1, -10) was marked on the parabola given by the equation y = ax² + bx + c; the axes and most of the graph of the parabola were then erased, leaving what is shown in the figure. Which of the following statements can be false?
+> A) a > 0
+> B) b < 0
+> C) a+b+c < 0
+> D) b2 > 4ac
+> E) c < 0
 
-**Answer:** E
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_student#q17|src_kangourou_2011_student__Q17]]
 
 
 
@@ -806,18 +899,22 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum integer value of the cryptarithmetic expression*
+*Minimum integer value of the crypto-arithmetic expression*
 
 > In the expression
-> each letter represents a digit other than zero; equal letters represent equal digits and
-> different letters represent different digits. What is the smallest integer value that this expression can take? ("•" indicates the product.)
+> Each letter represents a non-zero digit; identical letters represent identical digits, and different letters represent different digits. What is the smallest integer value that this expression can take? ("•" denotes multiplication.)
 > A) 1
 > B) 2
 > C)3
 > D) 5
 > E) 7
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_student#q18|src_kangourou_2011_student__Q18]]
 
 
 
@@ -847,11 +944,22 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of balls with divisibility by 6, 7, 42*
+*Minimum number of balls divisible by 6, 7, 42*
 
-> Each ball in a lottery urn has a positive integer. On exactly 30 balls, there's a number divisible by 6, on exactly 20 a number divisible by 7 and on exactly 10 a number divisible by 42. How many balls should there be in the urn at least? A) 30 B) 40 C) 53 D) 54 E) 60
+> On each ball contained in a lottery urn, a positive integer is written. On exactly 30 balls, there is a number divisible by 6; on exactly 20 balls, there is a number divisible by 7; and on exactly 10 balls, there is a number divisible by
+> 42. What is the minimum number of balls that must be in the urn?
+> A) 30
+> B) 40
+> C) 53
+> D) 54
+> E) 60
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_student#q19|src_kangourou_2011_student__Q19]]
 
 
 
@@ -934,9 +1042,22 @@ Calculation of xy with 2^x=15 and 15^y=32
 \end{document}
 ```
 
-> In the 3x3 grid in the figure, 4 numbers are visible. Nicola inserted a positive integer into each cell that appears free so that the sum of the numbers in each 2x2 subgrid is 10 (the subgrids can only be made by truncing consecutive rows and columns). How much can the sum of the numbers entered by Nicholas be worth? A) 9 B) 10 C) 12 D) 13 E) None of the previous values K•A • N• G• O • U• R • O • U G • I • O • C• O C A B S X Q P R 2 1 3 4 A(1, -10) Texts_11Mat.qxp 19-05-2011 21:27 Page 30
-> 
-> Kang 201 Kang 2011 Questions from N. 21 al N. 30 is worth 5 points each.
+> In the 3x3 grid shown in the figure, 4 numbers are visible. Nicola has placed a positive integer in each cell that appears empty so that the sum of the numbers in each 2x2 subgrid equals 10 (the subgrids can be formed only by truncating consecutive rows and columns). What value can the sum of the numbers entered by Nicola have?
+> A) 9
+> B) 10
+> C) 12
+> D) 13            
+> E) None of the preceding values
+> K•A • N•G•O •U•R •O •U G •I •O •C•O C A B S X Q P R 2 1 3 4 A≡(1, -10) Testi_11Mat.qxp 19-05-2011 21:27 Page 30
+>
+> Page 31, 201, 2011: Questions 21 to 30 are each worth 5 points.
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_student#q20|src_kangourou_2011_student__Q20]]
 
 
 
@@ -966,11 +1087,21 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of n<100 with n2-81 multiple of 100*
+*Sum of n < 100 such that n² - 81 is a multiple of 100*
 
-> What is the sum of all positive integers n less than 100 such that n^2 - 81 is a multiple of 100? (0 must be considered as a multiple of 100) A) 200 B) 100 C) 90 D) 81 E) 50
+> What is the sum of all positive integers n less than 100 such that n² - 81 is a multiple of 100? (0 is to be considered among the multiples of 100.)
+> A) 200
+> B) 100
+> C) 90
+> D) 81
+> E) 50
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_student#q21|src_kangourou_2011_student__Q21]]
 
 
 
@@ -1001,11 +1132,21 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many arithmetic progressions contain both*
+*How many arithmetic progressions contain both?*
 
-> Consider the two arithmetic progressions 5, 20, 35, ... and 35, 61, 87, ... How many different arithmetic progressions of positive integers do both contain? A) 0 B) 3 C) 5 D) 26 E) Infinite
+> Consider the two arithmetic progressions 5, 20, 35, … and 35, 61, 87, … . How many distinct arithmetic progressions of positive integers contain both of them?
+> A) 0
+> B) 3
+> C) 5
+> D) 26
+> E) Infinite
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_student#q22|src_kangourou_2011_student__Q22]]
 
 
 
@@ -1040,9 +1181,19 @@ Calculation of xy with 2^x=15 and 15^y=32
 
 *Value of f2011(2011) in the sequence of functions*
 
-> The sequence of numerical functions f1(x), f2(x), ... satisfies the following two conditions: (1) f1(x) = x (2) fn +1(x) = (1 −fn (x))-1 for each positive integer n. What is the value of f2011(2011) ? A) 2011 B) − C) D) 1 E) −2011
+> The sequence of numerical functions f1(x), f2(x), ... satisfies the following two conditions: (1) f1(x) = x; (2) fn+1(x) = (1 − fn(x))⁻¹ for every positive integer n. What is the value of f2011(2011)?
+> A) 2011
+> B) −
+> C) 
+> D) 1
+> E) −2011
 
-**Answer:** A
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_student#q23|src_kangourou_2011_student__Q23]]
 
 
 
@@ -1071,11 +1222,19 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What can be the total number of balls*
+*What could be the total number of balls?*
 
-> In a box, some red balls and some green balls were placed. If we randomly extract 2 balls from the box, the probability that they're the same color is 1/2. Which of the following can be the total number of balls in the box? A) 81 B) 101 C) 1000 D) 2011           E) 10001
+> Some red balls and some green balls were placed in a box. If we randomly draw 2 balls from the box, the probability that they are the same color is 1/2. Which of the following could be the total number of balls placed in the box?
+> A) 81
+> B) 101
+> C) 1000
+> D) 2011           E) 10001
 
-**Answer:** A
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_student#q24|src_kangourou_2011_student__Q24]]
 
 
 
@@ -1118,22 +1277,23 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum luggage weight without extra charge*
+*Maximum baggage weight with no extra charge*
 
-> In the price of an airline ticket, baggage transport up to a certain weight limit is included, while an additional payment is charged for every kilogram or fraction thereof exceeding the limit. Mr. Viaggio and his wife together had 60 kg of baggage and paid 3 euros, while Mr. Girovago, with the same total weight of baggage, paid 10.50 euros. What is, in kilograms, the maximum weight of baggage each passenger may carry without extra charge?
+> An airline ticket price includes baggage transport up to a certain weight limit, while an additional fee is charged for each kilogram or fraction of a kilogram of baggage exceeding the limit. Mr. Viaggio and his wife together had 60 kg of baggage and paid 3 euros, whereas Mr. Girovago, for baggage of the same weight, paid 10.50 euros. What is, in kilograms, the maximum baggage weight that each passenger can carry without an extra charge?
+> A) 10
+> B) 18
+> C) 20
+> D) 25
+> E) 39
+> 2010 2011 1 2010 Testi_11Mat.qxp 19-05-2011 21:27 Page 31
 >
-> (A) 10
-> (B) 18
-> (C) 20
-> (D) 25
-> (E) 39
-> 
-> Page
-> Page 32
-> 32
-> Kang 2011
+> Pag. Pag. 32 32 Kang 201 Kang 2011
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_student#q25|src_kangourou_2011_student__Q25]]
 
 
 
@@ -1163,11 +1323,21 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the FA side of the tangent hexagon*
+*Length of side FA of the tangent hexagon*
 
-> The sides AB, BC, CD, DE, EF, FA of a hexagon are all tangent to the same circle. The lengths of the sides AB, BC, CD, DE and EF are 4, 5, 6, 7 and 8 respectively. What's the length of the FA side? A) 9 B) 8 C) 7 D) 6 E) The information is not sufficient to answer
+> The sides AB, BC, CD, DE, EF, and FA of a hexagon are all tangent to the same circle. The lengths of sides AB, BC, CD, DE, and EF are 4, 5, 6, 7, and 8, respectively. What is the length of side FA?
+> A)  9
+> B) 8
+> C) 7
+> D) 6      
+> E) The information is insufficient to respond
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_student#q26|src_kangourou_2011_student__Q26]]
 
 
 
@@ -1217,7 +1387,7 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many distinct overall scores with 3 arrows*
+*How many distinct total scores with 3 arrows?*
 
 ![[src_kangourou_2011_student__prob27.png]]
 
@@ -1236,9 +1406,19 @@ Calculation of xy with 2^x=15 and 15^y=32
 \end{document}
 ```
 
-> Robin Hood threw three arrows at a target and, of course, always centered it, earning points each time according to the pattern illustrated in the figure. How many different overall scores could he have scored? A) 13 B) 17 C) 19 D) 20 E) 21
+> Robin Hood has shot 3 arrows at a target and, naturally, has always hit it, scoring points each time according to the scheme shown in the figure. How many different total scores could he have achieved?
+> A) 13
+> B) 17
+> C) 19         
+> D) 20
+> E) 21
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_student#q27|src_kangourou_2011_student__Q27]]
 
 
 
@@ -1268,17 +1448,21 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of divisors of a times b times c*
+*Minimum number of divisors of a by b by c*
 
-> The positive integers a, b and c are such that a2 = 2b3 = 3c5 . What is the minimum possible number of divisors of the number a . b . c , counting also 1 and a . b . c
-> itself?
+> The positive integers a, b, and c satisfy a² = 2b³ = 3c⁵. What is the smallest possible number of divisors of a · b · c, counting 1 and a · b · c itself as well?
 > A) 30
 > B) 49
 > C) 60
 > D) 77
 > E) 1596
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_student#q28|src_kangourou_2011_student__Q28]]
 
 
 
@@ -1303,11 +1487,16 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum allowable value for n in the 4x5 grid*
+*Minimum admissible value for n in the 4x5 grid*
 
-> In each cell of a 4x5 grid a positive integer has been inserted. The numbers entered are two to two different from each other. Each pair of adjacent numbers (i.e. in cells having a common side) has a common divisor greater than n
+> In each cell of a 4x5 grid, a positive integer has been placed. The numbers placed are pairwise distinct. Every pair of adjacent numbers (that is, numbers in cells that share a side) has a common divisor greater than
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_student#q29|src_kangourou_2011_student__Q29]]
 
 
 
@@ -1331,10 +1520,13 @@ Calculation of xy with 2^x=15 and 15^y=32
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many unit cubes are intersected by the plane through the center of the cube?*
+*How many small cubes are intersected by the plane through the center of the cube?*
 
-> 30. A 3×3×3 cube is formed by joining 27 identical small cubes together. Consider a plane perpendicular to one of the cube's space diagonals and passing through the center of the cube. How many of the small cubes are intersected by this plane?
-> (A) 17 (B) 18 (C) 19 (D) 20 (E) 21
-> Kang 2011 Page 32
+> 30. A 3×3×3 cube is formed by joining 27 identical small cubes together. Consider a plane perpendicular to one of the cube's diagonals and passing through the center of the cube. How many of the small cubes are intersected by the plane? A) 17 B) 18 C) 19 D) 20 E) 21 Kang 2011 P. 32 32 Kang 201
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_student#q30|src_kangourou_2011_student__Q30]]

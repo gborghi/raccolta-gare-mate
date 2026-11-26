@@ -29,9 +29,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i rapporti BP/PE e AP/PD nel triangolo con punto medio*
+*Trovare i rapporti BP/PE e AP/PD in un triangolo con un punto medio*
 
-> Che $ABC$ sia un triangolo e $D$ un punto sul segmento $BC$ tale da $DC = 2BD$. $E$ sia il punto medio di $AC$. Lasciate che $AD$ e $BE$ si incrociano in $P$. Determinare i rapporti $BP/PE$ e $AP/PD$.
+> Sia $ABC$ un triangolo e $D$ un punto sul segmento $BC$ tale che $DC = 2BD$. Sia $E$ il punto medio di $AC$. Siano $AD$ e $BE$ incidenti in $P$. Determinare i rapporti $BP/PE$ e $AP/PD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2012_r1#q01|src_rmo_2012_r1__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Catenata di divisione implica divisioni di abc (a+b+c)^13*
+*La catena di divisibilità implica che abc divida (a+b+c)^13*
 
-> $a, b, c$ siano integri positivi in modo tale che $a$ divida $b^3$, $b$ divida $c^3$ e $c$ divida $a^3$. Indicare che $abc$ divide $(a + b + c)^{13}$.
+> Siano $a, b, c$ numeri interi positivi tali che $a$ divida $b^3$, $b$ divida $c^3$ e $c$ divida $a^3$. Dimostrare che $abc$ divide $(a + b + c)^{13}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2012_r1#q02|src_rmo_2012_r1__Q02]]
 
 
 
@@ -81,11 +95,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-Prove a^a b^b + a^b b^a <= 1 per i risultati positivi a+b=1*
+*Dimostrare che a^a b^b + a^b b^a <= 1 per numeri reali positivi a+b=1*
 
-> $a$ e $b$ siano numeri reali positivi come $a + b = 1$. Prove che $a^a b^b + a^b b^a \le 1$.
+> Siano $a$ e $b$ numeri reali positivi tali che $a + b = 1$. Dimostrare che $a^a b^b + a^b b^a \le 1$.
 
-*Apparizioni nelle regioni: Regione 1, Regione 2, Regione 4.*
+*Compare nelle regioni: Regione 1, Regione 2, Regione 4.*
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2012_r1#q03|src_rmo_2012_r1__Q03]]
 
 
 
@@ -108,9 +129,16 @@ Prove a^a b^b + a^b b^a <= 1 per i risultati positivi a+b=1*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie non ordinate {A,B} sottoinsieme di {1,...,10} con A∩B={2,3,5,7}*
+*Conta le coppie non ordinate {A,B} di sottoinsiemi di {1,...,10} tali che A∩B={2,3,5,7}*
 
-> Let $X = \{1, 2, 3, \ldots, 10\}$. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{2, 3, 5, 7\}$.
+> Sia $X = \{1, 2, 3, \ldots, 10\}$. Determinare il numero di coppie $\{A, B\}$ tali che $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{2, 3, 5, 7\}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2012_r1#q04|src_rmo_2012_r1__Q04]]
 
 
 
@@ -133,9 +161,16 @@ Prove a^a b^b + a^b b^a <= 1 per i risultati positivi a+b=1*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piedi bisettori angolari; prova XY=(b+c-a)/2*
+*Piedi delle bisettrici angolari; dimostrare che XY=(b+c-a)/2*
 
-> Lasciate che $ABC$ sia un triangolo. Il $BE$ e il $CF$ siano rispettivamente bisettori di angolo interno di $\angle B$ e $\angle C$ con $E$ su $AC$ e $F$ su $AB$. Supponiamo che $X$ sia un punto del segmento $CF$ tale che $AX \perp CF$, e $Y$ sia un punto del segmento $BE$ tale che $AY \perp BE$. Prove che $XY = \frac{b + c - a}{2}$ dove $BC = a$, $CA = b$ e $AB = c$.
+> Sia $ABC$ un triangolo. Siano $BE$ e $CF$ le bisettrici interne degli angoli $\angle B$ e $\angle C$ rispettivamente, con $E$ su $AC$ e $F$ su $AB$. Si supponga che $X$ sia un punto sul segmento $CF$ tale che $AX \perp CF$, e che $Y$ sia un punto sul segmento $BE$ tale che $AY \perp BE$. Dimostrare che $XY = \frac{b + c - a}{2}$, dove $BC = a$, $CA = b$ e $AB = c$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2012_r1#q05|src_rmo_2012_r1__Q05]]
 
 
 
@@ -158,6 +193,13 @@ Prove a^a b^b + a^b b^a <= 1 per i risultati positivi a+b=1*
 <div class="qlang-split" data-lang="it"></div>
 
 
-Prove che non tutte le radici di ax^4+bx^3+x^2+x+1=0 sono reali
+*Dimostrare che non tutte le radici di ax^4+bx^3+x^2+x+1=0 sono reali*
 
-> $b$ e $a$ siano numeri reali come $a \neq 0$. Prova che non tutte le radici di $ax^4 + bx^3 + x^2 + x + 1 = 0$ possono essere reali.
+> Siano $b$ e $a$ numeri reali tali che $a \neq 0$. Dimostrare che non tutte le radici di $ax^4 + bx^3 + x^2 + x + 1 = 0$ possono essere reali.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2012_r1#q06|src_rmo_2012_r1__Q06]]

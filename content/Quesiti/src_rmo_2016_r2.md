@@ -28,9 +28,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Linea perpendicolare al centro incontra la corrente corrente a E; prova IE=IF*
+*La retta perpendicolare all'incentro incontra AC in E; dimostrare che IE=IF*
 
-> $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. Il $I$ deve essere il centro di $ABC$. Lasciate che $AI$ si intersechi con $BC$ all'interno di $F$. Disegnare una linea perpendicolare a $AI$ a $I$. Lasciate che $AC$ si intersechi a $E$. Prova che $IE = IF$.
+> Sia $ABC$ un triangolo rettangolo con $\angle B = 90^\circ$. Sia $I$ l'incentro di $ABC$. Sia $AI$ prolungato in modo da intersecare $BC$ in $F$. Traccia una retta perpendicolare a $AI$ in $I$. Sia essa ad intersecare $AC$ in $E$. Dimostrare che $IE = IF$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2016_r2#q01|src_rmo_2016_r2__Q01]]
 
 
 
@@ -55,9 +61,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove abc ≤ 1/8 data somma ciclica uguale a 1 con risultati positivi*
+*Dimostrare che abc ≤ 1/8, dato che la somma ciclica è uguale a 1 con numeri reali positivi*
 
-> $a, b, c$ siano numeri reali positivi in modo tale che $$\frac{a}{1+b} + \frac{b}{1+c} + \frac{c}{1+a} = 1.$$ dimostri che $abc \le \frac{1}{8}$.
+> Siano $a, b, c$ numeri reali positivi tali che
+> $$\frac{a}{1+b} + \frac{b}{1+c} + \frac{c}{1+a} = 1.$$
+> Dimostrare che $abc \le \frac{1}{8}$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2016_r2#q02|src_rmo_2016_r2__Q02]]
 
 
 
@@ -80,9 +95,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le n con n^3 = 8S(n) ^3 + 4S(n) + 1*
+*Trovare tutti gli n tali che n^3 = 8S(n)^3 + 4S(n) + 1*
 
-> Per qualsiasi numero naturale $n$, espresso nella base 10, $S(n)$ indichi la somma di tutti i numeri di $n$. Trova tutti i numeri naturali $n$ in modo tale che $n^3 = 8S(n)^3 + 4S(n) + 1$.
+> Per ogni numero naturale $n$, espresso in base 10, si indichi con $S(n)$ la somma di tutte le cifre di $n$. Determinare tutti i numeri naturali $n$ tali che $n^3 = 8S(n)^3 + 4S(n) + 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2016_r2#q03|src_rmo_2016_r2__Q03]]
 
 
 
@@ -105,9 +127,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri a 6 cifre con cifre 1,2,3 dove 3 appare esattamente due volte e divisibile per 9*
+*Conta i numeri di 6 cifre formati dalle cifre 1, 2, 3, in cui il 3 compare esattamente due volte e il numero è divisibile per 9*
 
-> Quanti numeri naturali a 6 cifre contenenti solo le cifre $1, 2, 3$ in cui $3$ si verifica esattamente due volte e il numero è divisibile da $9$?
+> Quanti numeri naturali di 6 cifre, composti esclusivamente dalle cifre $1, 2, 3$, esistono, in cui $3$ compare esattamente due volte e il numero è divisibile per $9$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2016_r2#q04|src_rmo_2016_r2__Q04]]
 
 
 
@@ -129,9 +158,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circoli di ACD e ABD si intersecano lateralmente; riflessione K; prova FK=BC*
+*Le circonferenze circoscritte a ACD e ABD intersecano i lati; riflessione K; dimostrare che FK=BC*
 
-> $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. Il $AD$ deve essere il bisettore di $\angle A$ con $D$ su $BC$. Lasciate che il circoncircolo del triangolo $ACD$ si intersechi di nuovo $AB$ in $E$, e che il circoncircolo del triangolo $ABD$ si intersechi di nuovo $AC$ in $F$. Il $K$ deve essere il riflesso di $E$ nella riga $BC$. Prove che $FK = BC$.
+> Sia $ABC$ un triangolo rettangolo con $\angle B = 90^\circ$. Sia $AD$ la bisettrice di $\angle A$, con $D$ su $BC$. Sia $E$ il secondo punto d'intersezione della circonferenza circoscritta al triangolo $ACD$ con $AB$, e sia $F$ il secondo punto d'intersezione della circonferenza circoscritta al triangolo $ABD$ con $AC$. Sia $K$ la riflessione di $E$ rispetto alla retta $BC$. Dimostrare che $FK = BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2016_r2#q05|src_rmo_2016_r2__Q05]]
 
 
 
@@ -155,6 +190,14 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*AP {1,4,7,...} ha infinite subsequenze HP a 3 termini con condizione di rapporto*
+*AP {1,4,7,...} ha infiniti sottosequenze aritmetiche di 3 termini con condizione sul rapporto*
 
-> Mostrare che la progressione aritmetica infinita $\{1, 4, 7, 10, \ldots\}$ ha infinite successioni a 3 termini nella progressione armonica in modo tale che per due triples $(a_1, a_2, a_3)$ e $(b_1, b_2, b_3)$ in progressione armonica, uno ha $$\frac{a_1}{b_1} = \frac{a_2}{b_2}.$$
+> Dimostrare che la progressione aritmetica infinita $\{1, 4, 7, 10, \ldots\}$ possiede infiniti sottosequenze di tre termini in progressione armonica tali che, per qualsiasi coppia di tali triple $(a_1, a_2, a_3)$ e $(b_1, b_2, b_3)$ in progressione armonica, si ha
+> $$\frac{a_1}{b_1} = \frac{a_2}{b_2}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2016_r2#q06|src_rmo_2016_r2__Q06]]

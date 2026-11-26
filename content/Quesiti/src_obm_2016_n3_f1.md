@@ -32,13 +32,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quale delle lettere O, B, M può occupare una data cella (grige) di una griglia 3x3*
+*Quale delle lettere O, B, M può occupare una determinata cella (grigia) di una griglia 3x3?*
 
-> In una griglia $3\times 3$ si riempiono le celle con le lettere O, B, M (soggetto alle regole del problema). Gli esempi di seguito mostrano che una delle lettere può apparire nella cella evidenziata (grigio). Quali lettere possono occupare quella cella? [Ricostruito a partire dalla chiave di risposta; l'elenco originale delle opzioni non è riprodotto nella fonte. Le chiavi di risposta indicano: O, B e M.]
+> In una griglia $3\times 3$ si riempiono le celle con le lettere O, B, M (secondo le regole del problema). Gli esempi sottostanti mostrano che ciascuna delle lettere può comparire nella cella evidenziata (grigia). Quali lettere possono occupare quella cella? [Ricostruito dalla soluzione; l'elenco originale delle opzioni non è riprodotto nella fonte. La soluzione indica: O, B e M.]
 
 ![[src_obm_2016_n3_f1__q01.png]]
 
-**Risposta:** E
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n3_f1#q01|src_obm_2016_n3_f1__Q01]]
 
 
 
@@ -61,11 +66,15 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizione di Josias in una linea, con il numero davanti un quarto del numero dietro*
+*La posizione di Josias in una fila, con il numero che lo precede pari a un quarto del numero che lo segue*
 
-> Josias sta in fila. Lasciate che la sua posizione sia $x$, così $x-1$ persone sono arrivate prima di lui e le persone che sono arrivate dopo di lui numero $2016-x$. Esse soddisfano $x-1=\frac{2016-x}{4}$, equivalentemente $4(x-1)=2016-x$. Qual è la posizione di Josias $x$ nella riga? [Valore della chiave di risposta: $x=404$.]
+> Josias è in piedi in una fila. Sia $x$ la sua posizione, così $x-1$ persone sono arrivate prima di lui e le persone arrivate dopo di lui sono $2016-x$. Esse soddisfano $x-1=\frac{2016-x}{4}$, equivalentemente $4(x-1)=2016-x$. Qual è la posizione di Josias $x$ nella fila? [Valore della chiave di risposta: $x=404$.]
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n3_f1#q02|src_obm_2016_n3_f1__Q02]]
 
 
 
@@ -89,11 +98,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Side di un quadrato uguale in superficie a un rettangolo di dimensioni interi con perimetro 58 e prodotto quadrato*
+*Lato di un quadrato avente area uguale a quella di un rettangolo con dimensioni intere, perimetro 58 e prodotto dei lati quadrato*
 
-> $x$ e $y$ siano le dimensioni interi di un rettangolo il cui perimetro è $58$, quindi $x+y=29$. Le possibili coppie sono $(1,28),(2,27),(3,26),\dots,(14,15)$. Esattamente una di queste coppie ha il prodotto $x\cdot y$ pari a un quadrato perfetto, vale a dire $4\cdot 25=100$. Trova il lato $n$ di un quadrato con la stessa area di quel rettangolo, ovvero $n=\sqrt{4\cdot 25}=\sqrt{100}=10$. [Valore della chiave di risposta: $n=10$.]
+> Siano $x$ e $y$ le dimensioni intere di un rettangolo il cui perimetro è $58$, quindi $x+y=29$. Le coppie possibili sono $(1,28),(2,27),(3,26),\dots,(14,15)$. Esattamente una di tali coppie ha prodotto $x\cdot y$ uguale a un quadrato perfetto, precisamente $4\cdot 25=100$. Trovare il lato $n$ di un quadrato avente la stessa area di quel rettangolo, cioè $n=\sqrt{4\cdot 25}=\sqrt{100}=10$. [Valore chiave della risposta: $n=10$.]
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2016_n3_f1#q03|src_obm_2016_n3_f1__Q03]]
 
 
 
@@ -117,11 +131,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Se una piramide sopra un normale 2016-gon può avere 1008 facce laterali congruenti; conclusione non può*
+*Se una piramide avente come base un poligono regolare di 2016 lati possa avere 1008 facce laterali congruenti; conclusione: non può*
 
-> Lasciate che $A_1A_2\dots A_{2016}$ sia un poligono regolare che forma la base di una piramide, e lasciate che l'apice sia sulla linea perpendicolare alla base attraverso la diagonale $A_1A_{1009}$, così posizionata che la proiezione ortogonale dell'apice sul piano base sia distinta dal centro del poligono. La piramide ha facce laterali congruenti o non triangolari $2016$; si chiede se sia possibile scegliere facce laterali $1008$ congruenti in coppia e non condividendo un bordo comune in coppia. La soluzione dimostra che ci sono al massimo $1008$ classi di facce congruenti, e secondo il principio del buco di piccione la configurazione che costringe la proiezione dell'apice ad essere il circoncentro è assurda, poiché la piramide non è regolare. È possibile una tale scelta di facce laterali congruenti $1008$? [La chiave di risposta indica la conclusione (opzione B).]
+> Sia $A_1A_2\dots A_{2016}$ un poligono regolare che costituisce la base di una piramide, e sia l'apice situato sulla retta perpendicolare alla base passante per la diagonale $A_1A_{1009}$, collocato in modo che la proiezione ortogonale dell'apice sul piano di base sia diversa dal centro del poligono. La piramide ha $2016$ facce laterali triangolari, congruenti o meno; si chiede se sia possibile scegliere $1008$ facce laterali a due a due congruenti e tali che, presi a coppie, non condividano un spigolo comune. La soluzione mostra che vi sono al più $1008$ classi di facce congruenti e che, per il principio dei cassetti, la configurazione che costringe la proiezione dell'apice a essere il centro circoscritto è assurda, poiché la piramide non è regolare. È possibile una tale scelta di $1008$ facce laterali congruenti? [La chiave delle risposte indica la conclusione (opzione B).]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n3_f1#q04|src_obm_2016_n3_f1__Q04]]
 
 
 
@@ -145,11 +164,16 @@ Se una piramide sopra un normale 2016-gon può avere 1008 facce laterali congrue
 <div class="qlang-split" data-lang="it"></div>
 
 
-Le persone in fila che si alternano per dire la verità e mentire; contando i bugiardi tra il 2016
+*Persone in fila che dicono alternativamente la verità e mentono; contare i bugiardi tra 2016*
 
-> Ci sono gente che sta in fila, ognuna di loro fa una dichiarazione. La prima persona dice la verità; la seconda mente; l'analisi mostra che le affermazioni si alternano vero/falso lungo la linea, con $2016$ persone in totale. I veritieri e i bugiardi si alternano. Quante persone mentono? La soluzione conclude che ci sono mentitori $2016/2=1008$. [Valore della chiave di risposta: $1008$.]
+> Ci sono delle persone in fila, ciascuna delle quali fa un'affermazione (riguardo a quelle che ha dietro). La prima persona dice la verità; la seconda mente; l'analisi mostra che le affermazioni alternano verità e falsità lungo la fila, con un totale di $2016$ persone. I veritieri e i bugiardi si alternano. Quante di queste persone stanno mentendo? La soluzione conclude che ci sono $2016/2=1008$ bugiardi. [Valore della chiave di risposta: $1008$.]
 
-**Risposta:** C
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n3_f1#q05|src_obm_2016_n3_f1__Q05]]
 
 
 
@@ -173,11 +197,16 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare x+9 dove x,y contano numeri odd/even in un elenco di 10 numeri che soddisfano un'equazione di coppia di parità*
+*Massimizzare x+9, dove x e y contano i numeri dispari/pari in una lista di 10 numeri che soddisfa un'equazione a coppie di parità*
 
-> Janaina ha un elenco di numeri $10$; lasciamo $x$ e $y$ essere, rispettivamente, quanti sono pari e quanti sono pari, quindi $x+y=10$. Il numero di coppie non ordinate con parità uguale è $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}$ e il numero di coppie la cui somma è pari è impostato uguale a $4xy$, dando $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}=4xy\;(\ast)$ (il lato sinistro conta coppie di parità uguale e il lato destro conta coppie dando una somma pari, entrambe aventi la stessa parità). Substituendo $y=10-x$ si ottiene nell'analisi l'equazione $x^2-x+9=0$, le cui soluzioni pertinenti sono $x=1$ o $x=9$; poiché $(x,y)=(9,1)$ soddisfa la condizione $(\ast)$, si cerca il valore massimo di $x+9$. [Il valore della chiave di risposta corrisponde all'opzione E.]
+> Janaina ha una lista di $10$ numeri; siano $x$ e $y$, rispettivamente, il numero di numeri dispari e il numero di numeri pari, quindi $x+y=10$. Il numero di coppie non ordinate con parità uguale è $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}$ e il numero di coppie la cui somma è pari è posto uguale a $4xy$, il che dà $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}=4xy\;(\ast)$ (il membro di sinistra conta le coppie di uguale parità e il membro di destra conta le coppie che danno una somma pari; entrambi hanno la stessa parità). Sostituendo $y=10-x$ si ottiene l'equazione $x^2-x+9=0$ nell'analisi, le cui soluzioni rilevanti sono $x=1$ oppure $x=9$; poiché $(x,y)=(9,1)$ soddisfa la condizione $(\ast)$, si cerca il valore massimo di $x+9$. [Il valore della chiave di risposta corrisponde all'opzione E.]
 
-**Risposta:** E
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2016_n3_f1#q06|src_obm_2016_n3_f1__Q06]]
 
 
 
@@ -200,11 +229,15 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero originale di persone che condividono un costo di 6000 quando 3 si ritirano e ogni rimanente paga 100 in più*
+*Numero originale di persone che condividevano una spesa totale di 6000, quando 3 si sono ritirati e ciascuno dei restanti ha pagato 100 in più*
 
-> Un costo totale di $6000$ reais deve essere ripartito in modo uguale tra i partecipanti, ognuno pagando $\frac{6000}{x}$ reais. Poi le persone $3$ abbandonano e il resto di ciascuna retribuzione $100$ è maggiore, cioè $\frac{6000}{x-3}$ reais. Quindi $\frac{6000}{x}+100=\frac{6000}{x-3}$, che si semplifica a $60x(x-3)=60\cdot 6000$ dando $x^2-3x-180=0$. Trova il numero originale $x$ di persone. [Il valore della chiave di risposta corrisponde all'opzione B.]
+> Un costo totale di $6000$ reais sarà ripartito equamente tra i partecipanti, ciascuno pagherà $\frac{6000}{x}$ reais. Poi $3$ persone si ritirano e ciascuna delle restanti paga $100$ reais in più, ossia $\frac{6000}{x-3}$ reais. Pertanto $\frac{6000}{x}+100=\frac{6000}{x-3}$, che si semplifica in $60x(x-3)=60\cdot 6000$, dà $x^2-3x-180=0$. Determinare il numero originale $x$ di persone. [Il valore della chiave di risposta corrisponde all'opzione B.]
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n3_f1#q07|src_obm_2016_n3_f1__Q07]]
 
 
 
@@ -228,11 +261,16 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca dell'angolo x dalla configurazione con poligoni regolari (quadrato, pentagono, ottagono) e triangoli a pieghe uguali*
+*Trovare l'angolo x a partire da una configurazione con poligoni regolari (quadrato, pentagono, ottagono) e triangoli isosceli*
 
-> L'angolo interno di un poligono regolare con lati $n$ è $\frac{180^\circ(n-2)}{n}$. Nella configurazione uno ha $\angle ABL=90^\circ$, $\angle ABI=108^\circ$ e $\angle ABC=135^\circ$ (angoli di un quadrato, un pentagono regolare e un ottagono regolare), quindi $\angle CBI=27^\circ$ e $\angle LBC=360^\circ-90^\circ-135^\circ=135^\circ$. Poiché $LB=BC=BI$, i triangoli $LBC$ e $CBI$ sono uguali a base $LC$ e $CI$, dando $x=\angle LCB+\angle BCI=\frac{180^\circ-135^\circ}{2}+\frac{180^\circ-27^\circ}{2}=99^\circ$. Trova $x$. [Valore della chiave di risposta: $x=99^\circ$.]
+> L'angolo interno di un poligono regolare con $n$ lati è $\frac{180^\circ(n-2)}{n}$. Nella configurazione si hanno $\angle ABL=90^\circ$, $\angle ABI=108^\circ$ e $\angle ABC=135^\circ$ (angoli di un quadrato, di un pentagono regolare e di un ottagono regolare), quindi $\angle CBI=27^\circ$ e $\angle LBC=360^\circ-90^\circ-135^\circ=135^\circ$. Poiché $LB=BC=BI$, i triangoli $LBC$ e $CBI$ sono isosceli con basi $LC$ e $CI$, il che dà $x=\angle LCB+\angle BCI=\frac{180^\circ-135^\circ}{2}+\frac{180^\circ-27^\circ}{2}=99^\circ$. Trovare $x$. [Valore della chiave di risposta: $x=99^\circ$.]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2016_n3_f1#q08|src_obm_2016_n3_f1__Q08]]
 
 
 
@@ -256,11 +294,16 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze di conteggio di 9 perle (due colori) per avere sequenze equivalenti*
+*Conteggio delle sequenze di 9 perle (due colori) considerando le sequenze equivalenti*
 
-> Considerate le stringhe di perle di due colori B e P, con una relazione di equivalenza tra le stringhe. La stringa $BBBPBPPP$ ha otto perle e nessuna sequenza equivalente. Il problema analizza le stringhe di perle $9$: per casi (esistono o meno tre perle consecutive dello stesso colore), viene dimostrato che qualsiasi sequenza di perle $9$ ha esattamente due sequenze equivalenti, l'unica sequenza che ammette un'estensione mantenendo un singolo equivalente è $BBBPBPPP$. Determinare il numero pertinente per le sequenze di perle $9$. [Il valore della chiave di risposta corrisponde all'opzione D.]
+> Si considerino catene di perle in due colori B e P, con una relazione di equivalenza tra le catene. La catena $BBBPBPPP$ ha otto perle e non ha alcuna sequenza equivalente. Il problema analizza le catene di $9$ perle: per casi (a seconda che esistano o meno tre perle consecutive dello stesso colore), si dimostrare che ogni sequenza di $9$ perle ha esattamente due sequenze equivalenti; l'unica sequenza che ammette un'estensione mantenendo una sola sequenza equivalente è $BBBPBPPP$. Determinare il conteggio rilevante per le sequenze di $9$ perle. [Il valore della chiave di risposta corrisponde all'opzione D.]
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n3_f1#q09|src_obm_2016_n3_f1__Q09]]
 
 
 
@@ -286,13 +329,18 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza SR in una configurazione circolare di accordi con archi uguali e triangoli simili*
+*Lunghezza SR in una configurazione circolare di corde con archi uguali e triangoli simili*
 
-> I punti si trovano su un cerchio con il centro $O$. Il $I$ è l'intersezione di $AD$ e $BF$. Dal momento che $FA=AB$ e $AY=AX$, gli archi $FX$ e $BX$ sono uguali, quindi $FB\parallel XY$. Quindi i triangoli $RSA$ e $XYA$ sono simili, e $\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\operatorname{sen}\angle ABI)}{1}=\frac12$, poiché $\angle ABI=30^\circ$ e $AB=AO=OB$. Di conseguenza $SR=1$. Trova $SR$. [Valore della chiave di risposta: $SR=1$.]
+> I punti giacciono su una circonferenza di centro $O$. Sia $I$ l'intersezione di $AD$ e $BF$. Poiché $FA=AB$ e $AY=AX$, gli archi $FX$ e $BX$ sono uguali, quindi $FB\parallel XY$. Allora i triangoli $RSA$ e $XYA$ sono simili, e $\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\operatorname{sen}\angle ABI)}{1}=\frac12$, poiché $\angle ABI=30^\circ$ e $AB=AO=OB$. Pertanto $SR=1$. Trovare $SR$. [Valore della chiave di risposta: $SR=1$.]
 
 ![[src_obm_2016_n3_f1__q10.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2016_n3_f1#q10|src_obm_2016_n3_f1__Q10]]
 
 
 
@@ -318,13 +366,18 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Computing TU in una configurazione con un quadrato, un lato esagonale regolare e un angolo di 15 gradi*
+*Calcolo del TU in una configurazione con un quadrato, il lato di un esagono regolare e un angolo di 15 gradi*
 
-> Nella figura $XAYD$ è un quadrato, quindi $m(\widehat{TAU})=90^\circ$. Anche $m(\widehat{TUA})=\frac{m(\widehat{DY})-m(\widehat{AB})}{2}=15^\circ$ e $m(\widehat{UA})=m(\widehat{AYD})=90^\circ$, quindi $ABDY$ è ciclico. $AB$ è il lato di un esagono regolare inserito nel cerchio del raggio $1$, quindi $AB=1$. Nel triangolo rettangolo $UBA$, $AT=\frac{1}{\operatorname{sen}15^\circ}$, e nel triangolo rettangolo $TAU$, $\frac{AU}{TU}=\cos15^\circ$, quindi $TU=\frac{1}{\operatorname{sen}15^\circ\cos15^\circ}=\frac{2}{\operatorname{sen}30^\circ}=4$, utilizzando $\operatorname{sen}2x=2\operatorname{sen}x\cos x$. Trova $TU$. [Valore della chiave di risposta: $TU=4$.]
+> Nella figura, $XAYD$ è un quadrato, quindi $m(\widehat{TAU})=90^\circ$. Inoltre, $m(\widehat{TUA})=\frac{m(\widehat{DY})-m(\widehat{AB})}{2}=15^\circ$ e $m(\widehat{UA})=m(\widehat{AYD})=90^\circ$, quindi $ABDY$ è ciclico. $AB$ è il lato di un esagono regolare inscritto nella circonferenza di raggio $1$, pertanto $AB=1$. Nel triangolo rettangolo $UBA$, $AT=\frac{1}{\operatorname{sen}15^\circ}$, e nel triangolo rettangolo $TAU$, $\frac{AU}{TU}=\cos15^\circ$, quindi $TU=\frac{1}{\operatorname{sen}15^\circ\cos15^\circ}=\frac{2}{\operatorname{sen}30^\circ}=4$, utilizzando $\operatorname{sen}2x=2\operatorname{sen}x\cos x$. Determinare $TU$. [Valore della chiave di risposta: $TU=4$.]
 
 ![[src_obm_2016_n3_f1__q11.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|skill_ragionamento_geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2016_n3_f1#q11|src_obm_2016_n3_f1__Q11]]
 
 
 
@@ -348,11 +401,16 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Soluzioni di conteggio di un'equazione che coinvolge il pavimento di x su [38,2053]*
+*Conteggio delle soluzioni di un'equazione che coinvolge la parte intera di x sull'intervallo [38,2053]*
 
-> Riscrivere l'equazione data come $\lfloor x\rfloor=\frac{\lfloor x\rfloor-38}{2016}$ (la fonte scrive $\{x\}=\frac{\lfloor x\rfloor-38}{2016}$). Dato che $0\le\{x\}<1$, abbiamo bisogno di $0\le\frac{\lfloor x\rfloor-38}{2016}<1$, cioè $38\le\lfloor x\rfloor\le 2054$, so $1<\lfloor x\rfloor\le\dots\le 2054$. Poiché $\lfloor x\rfloor$ è un numero intero che va oltre $38,\dots,2053$, un totale di valori $2016$, e per ogni valore c'è esattamente un $x$; quindi ci sono $2016$ soluzioni. Quante soluzioni ha l'equazione? [Valore della chiave di risposta: $2016$.]
+> Riscrivi l'equazione data come $\lfloor x\rfloor=\frac{\lfloor x\rfloor-38}{2016}$ (la fonte scrive $\{x\}=\frac{\lfloor x\rfloor-38}{2016}$). Poiché $0\le\{x\}<1$, abbiamo bisogno di $0\le\frac{\lfloor x\rfloor-38}{2016}<1$, cioè $38\le\lfloor x\rfloor\le 2054$, quindi $1<\lfloor x\rfloor\le\dots\le 2054$. Poiché $\lfloor x\rfloor$ è un numero intero, esso varia in $38,\dots,2053$, per un totale di $2016$ valori, e per ogni valore c'è esattamente un $x$; pertanto ci sono $2016$ soluzioni. Quante soluzioni ha l'equazione? [Valore della chiave di risposta: $2016$.]
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n3_f1#q12|src_obm_2016_n3_f1__Q12]]
 
 
 
@@ -376,11 +434,16 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per formare comitati su n persone con restrizioni quotidiane*
+*Contare i modi di formare comitati tra n persone con vincoli giorno per giorno*
 
-> Si sceglie, il primo giorno, due delle persone $n$ in $\binom{n}{2}$ modi; nei giorni successivi le persone $n-2$ rimanenti possono essere scelte in $(n-2)$ modi ciascuno (soggetto alle restrizioni imposte), e il numero finale di modi per formare i comitati è $(n-2)(n-3)$ (come indicato nella soluzione). Determinare il numero di modi di scegliere i comitati. [Il valore della chiave di risposta corrisponde all'opzione A.]
+> Il primo giorno si scelgono due delle $n$ persone in $\binom{n}{2}$ modi; nei giorni successivi, le restanti $n-2$ persone possono essere scelte in $(n-2)$ modi ciascuna (fatti salvi i vincoli imposti), e il numero finale di modi per formare i comitati è $(n-2)(n-3)$ (come indicato nella soluzione). Determinare il numero di modi per scegliere i comitati. [Il valore chiave della risposta corrisponde all'opzione A.]
 
-**Risposta:** A
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n3_f1#q13|src_obm_2016_n3_f1__Q13]]
 
 
 
@@ -404,11 +467,16 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di prodotti distinti P=S×E×I×Z in un criptaritmo di tipo SEIPZ con cifre non zero*
+*Numero di prodotti distinti P=S*E*I*Z in un crittoaritmeto di tipo SEIPZ con cifre non nulle*
 
-> Tutte le lettere digitali non sono nulo. L'annullamento di termini ripetuti dà $Z=S^3\times I^2$. Poiché $Z$ è una cifra singola, $I^2=4$ o $I^2=9$; il secondo caso è impossibile (forzerebbe $5\cdot I=1$), quindi le uniche possibilità sono $(S,I)=(1,2),(1,3)$ o $(2,1)$. Se $E$ è diverso da $I$ e $S$, ci sono opzioni $7$ per $E$ in ogni caso. Costruendo una tabella di possibili prodotti $P=S\times E\times I\times Z$ e escludendo le combinazioni che danno $Z$ uguale a una lettera già scelta, i valori possibili distinti di $P$ sono $6,10,12,14,15,16,18,20,21,24,28$ e $36$, cioè $12$ valori distinti. Quanti valori distinti può contenere $P$? [Valore della chiave di risposta: $12$.]
+> Tutte le lettere-cifra sono non nulle. Cancellando i termini ripetuti si ottiene $Z=S^3\times I^2$. Poiché $Z$ è una singola cifra, si ha $I^2=4$ oppure $I^2=9$; il secondo caso è impossibile (obbligherebbe a $5\cdot I=1$), quindi le uniche possibilità sono $(S,I)=(1,2),(1,3)$ oppure $(2,1)$. Con $E$ diverso da $I$ e $S$, in ciascun caso ci sono $7$ opzioni per $E$. Costruendo una tabella dei possibili prodotti $P=S\times E\times I\times Z$ ed escludendo le combinazioni che danno $Z$ uguale a una lettera già scelta, i valori possibili distinti di $P$ sono $6,10,12,14,15,16,18,20,21,24,28$ e $36$, cioè $12$ valori distinti. Quanti valori distinti può assumere $P$? [Valore chiave della risposta: $12$.]
 
-**Risposta:** A
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n3_f1#q14|src_obm_2016_n3_f1__Q14]]
 
 
 
@@ -432,11 +500,16 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Possibilità di ordinare p1, p2, p3 di ottenere grandi somme con 1, 2 e 3 dadi*
+*Probabilità p1, p2, p3, in ordine, di ottenere somme elevate con 1, 2 e 3 dadi*
 
-> $p_1=\frac{2}{6}=\frac13$ sia la probabilità di ottenere un risultato uguale a $5$ o $6$ con un dado. Per due dadi (risultati $6^2=36$), i risultati favorevoli sono somme uguali a $10,11,12$: $2+1+2+1=6$ favorevoli, quindi $p_2=\frac{6}{36}=\frac16$. Per tre dadi (risultati $6^3=216$), il conteggio delle somme $15,16,17,18$ dà $20$ risultati favorevoli, quindi $p_3=\frac{20}{216}=\frac{5}{54}$. Di conseguenza $p_3<p_2<p_1$. Ordini $p_1$, $p_2$, $p_3$. [Valore della chiave di risposta: $p_3<p_2<p_1$.]
+> Sia $p_1=\frac{2}{6}=\frac13$ la probabilità di ottenere un risultato uguale a $5$ o $6$ con un dado. Con due dadi ($6^2=36$ esiti), gli esiti favorevoli sono le somme uguali a $10,11,12$: $2+1+2+1=6$ favorevoli, quindi $p_2=\frac{6}{36}=\frac16$. Con tre dadi ($6^3=216$ esiti), contando le somme $15,16,17,18$ si ottengono $20$ esiti favorevoli, quindi $p_3=\frac{20}{216}=\frac{5}{54}$. Pertanto $p_3<p_2<p_1$. Ordina $p_1$, $p_2$, $p_3$. [Valore della chiave di risposta: $p_3<p_2<p_1$.]
 
-**Risposta:** E
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n3_f1#q15|src_obm_2016_n3_f1__Q15]]
 
 
 
@@ -462,13 +535,18 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La più grande distanza possibile di "video-gioco" tra i punti posizionati in quattro sub rettangoli uguali di uno schermo*
+*La distanza 'da videogioco' massima possibile tra punti collocati in quattro sottorettangoli uguali di uno schermo*
 
-> Lo schermo del videogioco è diviso dai bisettori perpendicolari dei suoi lati in quattro rettangoli uguali $A,B,C,D$. Considerate il rettangolo $R$ formato dai centri di questi quattro rettangoli. La "distanza videogioco" tra due punti è sempre inferiore o uguale alla distanza euclidiana abituale sullo schermo; qualunque sia la posizione all'interno dei rettangoli scelti, la distanza massima videogioco è uguale alla diagonale di $R$, che misura $\frac{\sqrt{2^2+s^2}}{2}=2.5$. Concludere che nessuna distanza di gioco video tra due punti è superiore a $2.5$ e la distanza di gioco video più grande possibile è $2.5$. Qual è la più grande distanza possibile per i videogiochi? [Valore della chiave di risposta: $2.5$.]
+> Lo schermo del videogioco è diviso, mediante le mediatrici dei suoi lati, in quattro rettangoli uguali $A,B,C,D$. Si consideri il rettangolo $R$ formato dai centri di questi quattro rettangoli. La "distanza da videogioco" tra due punti è sempre minore o uguale della consueta distanza euclidea sullo schermo; qualunque siano le posizioni scelte all'interno dei rettangoli, la distanza da videogioco massima è uguale alla diagonale di $R$, che misura $\frac{\sqrt{2^2+s^2}}{2}=2.5$. Si concluda che nessuna distanza da videogioco tra due punti è maggiore di $2.5$, e che la distanza da videogioco massima possibile è $2.5$. Qual è la distanza da videogioco massima possibile? [Valore chiave della risposta: $2.5$.]
 
 ![[src_obm_2016_n3_f1__q16.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2016_n3_f1#q16|src_obm_2016_n3_f1__Q16]]
 
 
 
@@ -492,11 +570,16 @@ Le persone in fila che si alternano per dire la verità e mentire; contando i bu
 <div class="qlang-split" data-lang="it"></div>
 
 
-Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
+*Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non nulli*
 
-> Il sistema può essere riscritto come $abc=b^2+c^2=c^2+a^2=a^2+b^2$, con $a,b,c$ non-zero. Questo forza $a^2=b^2=c^2$. Supponendo $a=b=c$ si ottiene $a=b=c=2$, la soluzione $(2,2,2)$. Se $a=b=-c$, allora $a=b=-c=2$, dando $(2,2,-2)$; permutando questo triplo, si ottiene anche $(-2,2,-2)$ e $(2,-2,-2)$, per un totale di soluzioni $4$. Quante soluzioni ha il sistema? [Valore della chiave di risposta: $4$.]
+> Il sistema può essere riscritto come $abc=b^2+c^2=c^2+a^2=a^2+b^2$, con $a,b,c$ non nullo. Ciò impone $a^2=b^2=c^2$. Supponendo che $a=b=c$ dia $a=b=c=2$, la soluzione è $(2,2,2)$. Se $a=b=-c$, allora $a=b=-c=2$, il che porta a $(2,2,-2)$; permutando questo tripletto si ottengono anche $(-2,2,-2)$ e $(2,-2,-2)$, per un totale di $4$ soluzioni. Quante soluzioni ha il sistema? [Valore della chiave di risposta: $4$.]
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n3_f1#q17|src_obm_2016_n3_f1__Q17]]
 
 
 
@@ -520,11 +603,16 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Primo anno successivo al 2016 in cui una data data è nuovamente sabato*
+*Primo anno successivo al 2016 in cui una data specifica ricade di nuovo di sabato*
 
-> Si noti che ogni mese ha $4$ o $5$ sabati e che $365=7\cdot 52+1$. In un anno bisesuale sono $52$ settimane complete e $1$ giorno extra, mentre in un anno bisesuale sono $52$ settimane e $2$ giorni extra. Se si considera che $x$ sia il numero di anni biscotti, l'analisi utilizza $5x+4(12-x)=52\Rightarrow x=8$ e $5x+4(12-x)=53\Rightarrow x=5$. Il 1° gennaio è stato un sabato in $2016$ (aspettate: la tabella inizia con la setta per il 2016); la tabella della giornata di lavoro del 1° gennaio dice: 2016 setta, 2017 domingo, 2018 segunda, 2019 terca, 2020 quarta, 2021 setta, 2022 sabato. L'anno successivo in cui la data è nuovamente sabato è $2022$. In quale anno il prossimo è di nuovo sabato? [Valore della chiave di risposta: $2022$.]
+> Si noti che ogni mese ha $4$ o $5$ sabati e che $365=7\cdot 52+1$. Un anno non bisestile ha $52$ settimane complete e $1$ giorni in più, mentre un anno bisestile ha $52$ settimane e $2$ giorni in più. Ponendo $x$ come numero di anni bisestili, l'analisi utilizza $5x+4(12-x)=52\Rightarrow x=8$ e $5x+4(12-x)=53\Rightarrow x=5$. Il 1° gennaio era un sabato in $2016$ (aspetta: la tabella inizia con sexta per il 2016); la tabella del giorno della settimana del 1° gennaio recita: 2016 sexta, 2017 domingo, 2018 segunda, 2019 terca, 2020 quarta, 2021 sexta, 2022 sabado. Pertanto, il prossimo anno in cui la data sarà di nuovo un sabato (sabado) è $2022$. In quale prossimo anno la data sarà di nuovo un sabato? [Valore della chiave di risposta: $2022$.]
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n3_f1#q18|src_obm_2016_n3_f1__Q18]]
 
 
 
@@ -548,11 +636,16 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La dimensione massima di un insieme in {1,...2016} i cui elementi soddisfano a_i ∙ a_j+1 / coprimitalità proprietà*
+*Dimensione massima di un insieme in {1,...,2016} i cui elementi soddisfano la proprietà a_i | a_j+1 / di coprimalità*
 
-> L'insieme $\{1,2,3,5,29,869\}$ ha la proprietà descritta nella dichiarazione (ha elementi $6$). Una prova che $X$ contiene al massimo $7$ elementi. Supponiamo con contraddizione $X=\{a_1,a_2,a_3,a_4,a_5,a_6,a_7\}$ con $a_1<a_2<\dots$. Uno mostra $\gcd(a_i,a_j)=1$ per $i\neq j$: se un primo $p\mid a_i$ e $p\mid a_j$ con $i<j$ allora $a_i\mid a_j+1$ forza $p\nmid a_j$, una contraddizione. Quindi $a_2$ è un multiple del prodotto $a_3a_4a_5a_6a_7\geq 1\cdot 2\cdot 3\cdot 5\cdot 7\cdot 11=2310$, quindi $a_2\geq 2309$, assurdo dal momento che $a_2\leq 2016$. Trova il numero massimo di elementi di tale insieme. [Il valore della chiave di risposta corrisponde all'opzione D.]
+> L'insieme $\{1,2,3,5,29,869\}$ ha la proprietà descritta nell'enunciato (ha $6$ elementi). Si dimostrare che $X$ ha al più $7$ elementi. Si supponga, per assurdo, che $X=\{a_1,a_2,a_3,a_4,a_5,a_6,a_7\}$ con $a_1<a_2<\dots$. Si mostra che $\gcd(a_i,a_j)=1$ per $i\neq j$: se un numero primo $p\mid a_i$ e $p\mid a_j$ con $i<j$, allora $a_i\mid a_j+1$ implica $p\nmid a_j$, il che è una contraddizione. Allora $a_2$ è un multiplo del prodotto $a_3a_4a_5a_6a_7\geq 1\cdot 2\cdot 3\cdot 5\cdot 7\cdot 11=2310$, quindi $a_2\geq 2309$, assurdo poiché $a_2\leq 2016$. Si determini il numero massimo di elementi di un tale insieme. [Il valore della risposta chiave corrisponde all'opzione D.]
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2016_n3_f1#q19|src_obm_2016_n3_f1__Q19]]
 
 
 
@@ -576,11 +669,16 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri "sagaz" abcd, dove il numero meno la somma dei suoi numeri è massima di 999*
+*Conteggio dei numeri 'sagaz' abcd tali che il numero meno la somma delle sue cifre sia al più 999*
 
-> Considerare un numero fino a quattro cifre $\overline{abcd}$ e nota $\overline{abcd}-(a+b+c+d)=999a+99b+9c$. Se $a\geq 1$ il risultato è almeno $1000$, e qualsiasi numero con $5$ o più cifre dà una differenza almeno $1000$. Quindi un numero di "sagaz" deve soddisfare $a=0$, dando $10$ opzioni per $b$ ecc.; l'analisi mostra che il termine più piccolo è $b=c=0$ con il prodotto inferiore a $1000$, e contando attentamente ci sono $99+1=100$ numeri di sagaz inferiori a $1000$. Quanti numeri di sagaz ci sono? [Valore della chiave di risposta: $100$.]
+> Si consideri un numero di al massimo quattro cifre $\overline{abcd}$ e si noti $\overline{abcd}-(a+b+c+d)=999a+99b+9c$. Se $a\geq 1$, il risultato è almeno $1000$, e qualsiasi numero con $5$ o più cifre dà una differenza di almeno $1000$. Dunque un numero 'sagaz' deve soddisfare $a=0$, il che fornisce $10$ opzioni per $b$, ecc.; l'analisi mostra che il termine minore è $b=c=0$, con il prodotto inferiore a $1000$, e, contando con attenzione, ci sono $99+1=100$ numeri sagaz minori di $1000$. Quanti numeri sagaz ci sono? [Valore della chiave di risposta: $100$.]
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n3_f1#q20|src_obm_2016_n3_f1__Q20]]
 
 
 
@@ -604,11 +702,16 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero minimo di operazioni di fusione per dividere le pile 1,2,...,9,11 in pile uguali*
+*Numero minimo di operazioni di unione necessarie per suddividere i mucchi 1,2,...,9,11 in mucchi uguali*
 
-> Esistono pile di pietre contenenti $1,2,3,\dots,9$ e $11$ pietre (nessuna pila di $10$), con totale $1+2+3+\dots+9+11=56$. Per che tutte le pile abbiano la stessa quantità $k$, $k$ deve essere un divisore di $56$. Analizzando i divisori, le possibilità sono $14,28$ o $56$ pietre per pile. Ogni fusione di pile è un'operazione; per creare pile di $28$ occorrono più operazioni, e per ottenere pile $4$ di $14$ occorrono operazioni $6$, realizzate esplicitamente come $(11+3),(9+5),(8+6),(7+4+2+1)$. Qual è il numero minimo di operazioni? [Il valore della chiave di risposta corrisponde all'opzione D.]
+> Ci sono cumuli di pietre che contengono $1,2,3,\dots,9$ e $11$ pietre (nessun cumulo di $10$), con un totale di $1+2+3+\dots+9+11=56$. Affinché tutti i cumuli abbiano la stessa quantità $k$, $k$ deve essere un divisore di $56$. Analizzando i divisori, le possibilità sono $14,28$ o $56$ pietre per cumulo. Ogni fusione di cumuli costituisce un'operazione; per creare cumuli di $28$ occorrono più operazioni, e per ottenere $4$ cumuli di $14$ occorrono $6$ operazioni, realizzate esplicitamente come $(11+3),(9+5),(8+6),(7+4+2+1)$. Qual è il numero minimo di operazioni? [Il valore della chiave di risposta corrisponde all'opzione D.]
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n3_f1#q21|src_obm_2016_n3_f1__Q21]]
 
 
 
@@ -634,13 +737,18 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio di aree [CHAM]/[AEFG] in un quadrato di lato 6 con triangoli simili*
+*Rapporto tra le aree [CHAM]/[AEFG] in un quadrato di lato 6 con triangoli simili*
 
-> In un quadrato di lato $6$ si ha $DM=MC=CE=3$. I triangoli $CEH$ e $DEA$ sono simili, quindi $\frac{CH}{DA}=\frac{CE}{DE}=\frac{3}{9}=\frac13$. Di conseguenza $CH=6/3=2$ e $HB=CB-CH=4$. L'area del quadrilaterale $CHAM$ è $[CHAM]=[ACM]+[ACH]=\frac{9}{2}+\frac{6}{2}=\frac{15}{2}$. Per il teorema di Pitagore nel triangolo $ADE$, $[AEFG]=AE^2=AD^2+DE^2=117$. Pertanto $\frac{[CHAM]}{[AEFG]}=\frac{15/2}{117}=\frac{5}{39}$. Trova il rapporto $\frac{[CHAM]}{[AEFG]}$. [Valore della chiave di risposta: $\frac{5}{39}$.]
+> In un quadrato di lato $6$ si ha $DM=MC=CE=3$. I triangoli $CEH$ e $DEA$ sono simili, quindi $\frac{CH}{DA}=\frac{CE}{DE}=\frac{3}{9}=\frac13$. Pertanto $CH=6/3=2$ e $HB=CB-CH=4$. L'area del quadrilatero $CHAM$ è $[CHAM]=[ACM]+[ACH]=\frac{9}{2}+\frac{6}{2}=\frac{15}{2}$. Per il teorema di Pitagora nel triangolo $ADE$, $[AEFG]=AE^2=AD^2+DE^2=117$. Dunque $\frac{[CHAM]}{[AEFG]}=\frac{15/2}{117}=\frac{5}{39}$. Trovare il rapporto $\frac{[CHAM]}{[AEFG]}$. [Valore della chiave di risposta: $\frac{5}{39}$.]
 
 ![[src_obm_2016_n3_f1__q22.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2016_n3_f1#q22|src_obm_2016_n3_f1__Q22]]
 
 
 
@@ -664,11 +772,16 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione f sommazione degli esponenti primi; confronto dei valori e valutazione di f(2016)*
+*Funzione f che somma gli esponenti primi; confronto dei valori e valutazione di f(2016)*
 
-> Considera la funzione $f$ in modo tale che se $n=p_1^{a_1}\cdots p_k^{a_k}$ è la fattorizzazione primaria di $n$, allora $f(n)=a_1+\dots+a_k$, con la convenzione utilizzata nella prova. La funzione soddisfa: per $m>n$ con $m$ un multiple di $n$, $f(m)>f(n)$. Per induzione, se $\frac{n}{p}$ ha $t$ fattori primari $f(\frac{n}{p})\geq t$ e $f(n)>f(\frac{n}{p})\geq t$, quindi $f(n)\geq t+1$. Con questo calcolo $f(2016)=f(2^5\cdot 3^2\cdot 7)=5+2+1+1=9$. Determinare il valore richiesto (es. $f(2016)$ o il limite correlato). [Valore della chiave di risposta: $9$.]
+> Si consideri la funzione $f$ tale che, se $n=p_1^{a_1}\cdots p_k^{a_k}$ è la scomposizione in fattori primi di $n$, allora $f(n)=a_1+\dots+a_k$, con la convenzione utilizzata nella dimostrazione. La funzione soddisfa: per $m>n$ con $m$ multiplo di $n$, $f(m)>f(n)$. Per induzione, se $\frac{n}{p}$ ha $t$ fattori primi, allora $f(\frac{n}{p})\geq t$ e $f(n)>f(\frac{n}{p})\geq t$, quindi $f(n)\geq t+1$. Usando ciò, si calcoli $f(2016)=f(2^5\cdot 3^2\cdot 7)=5+2+1+1=9$. Si determini il valore richiesto (ossia $f(2016)$ o il limite correlato). [Valore della chiave di risposta: $9$.]
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2016_n3_f1#q23|src_obm_2016_n3_f1__Q23]]
 
 
 
@@ -692,11 +805,16 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostrare una sequenza di numeri interi positivi del 2016 con una proprietà somma/prodotto ha almeno quelli del 2006*
+*Mostrare una sequenza di 2016 interi positivi con una proprietà della somma/del prodotto implica che vi siano almeno 2006 uni*
 
-> Considerare $2016$ integri positivi con $n=p_1^{a_1}\cdots p_k^{a_k}$ (il quadro di fattorizzazione). Una costruzione con i numeri $2006$ uguali a $1$ e dieci numeri uguali a $2$ dà la somma $2006+10\cdot 2=2026$ e il prodotto $2^{10}=1024$, quindi la somma supera il prodotto. Si prova che ci devono essere almeno $2006$ numeri uguali a $1$: ordinando $x_1\le x_2\le\dots\le x_{2016}$, se meno di $2006$ erano uguali a $1$ si ottiene $k+(2016-k)x_{2016}\ge 2^{2016-k}x_{2016}$, portando a $2^{2015-k}+k-2016>0$ e poi $2^{2016-k}+k\le 4032$; per $k\le 2004$, $2^{2016-k}\ge 2^{12}=4096$ è assurdo, e per $k=2005$, $2^{11}=2048$ dà anche una contraddizione ($4043\le 4032$ falso). Quindi ci sono almeno $2006$ numeri uguali a $1$. Determina la risposta. [Il valore della chiave di risposta corrisponde all'opzione C.]
+> Si considerino $2016$ numeri interi positivi con $n=p_1^{a_1}\cdots p_k^{a_k}$ (il quadro della fattorizzazione). Una costruzione con $2006$ numeri uguali a $1$ e dieci numeri uguali a $2$ dà somma $2006+10\cdot 2=2026$ e prodotto $2^{10}=1024$, quindi la somma supera il prodotto. Si dimostrare che devono esserci almeno $2006$ numeri uguali a $1$: ordinando $x_1\le x_2\le\dots\le x_{2016}$, se meno di $2006$ fossero uguali a $1$ si ottiene $k+(2016-k)x_{2016}\ge 2^{2016-k}x_{2016}$, il che porta a $2^{2015-k}+k-2016>0$ e poi a $2^{2016-k}+k\le 4032$; per $k\le 2004$, $2^{2016-k}\ge 2^{12}=4096$ è assurdo, e per $k=2005$, anche $2^{11}=2048$ porta a una contraddizione ($4043\le 4032$ falso). Pertanto ci sono almeno $2006$ numeri uguali a $1$. Determinare la risposta. [Il valore della chiave di risposta corrisponde all'opzione C.]
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2016_n3_f1#q24|src_obm_2016_n3_f1__Q24]]
 
 
 
@@ -722,10 +840,15 @@ Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio CO/CD dove O è il centro del triangolo ABD, con angolo retto a B e angolo di 60 gradi a C*
+*Rapporto CO/CD, dove O è il circocentro del triangolo ABD, con angolo retto in B e angolo di 60° in C*
 
-> $O$ è il centro circundante del triangolo $ABD$, con un angolo retto segnato a $B$ e un angolo $60^\circ$ a $C$ (figura). Dal momento che $O$ è il circoncentro del triangolo $ABD$, $m(\widehat{BOD})=120^\circ$, quindi il quadrilaterale $BCDO$ è ciclico. Poi $m(\widehat{COD})=m(\widehat{CBD})=90^\circ$ e $m(\widehat{OCD})=m(\widehat{OBD})=30^\circ$. Nel triangolo rettangolo $DOC$, il rapporto richiesto è $\frac{CO}{CD}=\cos 30^\circ=\frac{\sqrt3}{2}$. Trova $\frac{CO}{CD}$. [Valore della chiave di risposta: $\frac{\sqrt3}{2}$.]
+> $O$ è il circocentro del triangolo $ABD$, con un angolo retto segnato in $B$ e un angolo $60^\circ$ in $C$ (figura). Poiché $O$ è il circocentro del triangolo $ABD$, $m(\widehat{BOD})=120^\circ$, quindi il quadrilatero $BCDO$ è ciclico. Poi $m(\widehat{COD})=m(\widehat{CBD})=90^\circ$ e $m(\widehat{OCD})=m(\widehat{OBD})=30^\circ$. Nel triangolo rettangolo $DOC$, il rapporto richiesto è $\frac{CO}{CD}=\cos 30^\circ=\frac{\sqrt3}{2}$. Trovare $\frac{CO}{CD}$. [Valore della chiave di risposta: $\frac{\sqrt3}{2}$.]
 
 ![[src_obm_2016_n3_f1__q25.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2016_n3_f1#q25|src_obm_2016_n3_f1__Q25]]

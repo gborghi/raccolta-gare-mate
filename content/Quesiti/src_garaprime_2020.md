@@ -37,11 +37,16 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*mcm of three digits 6^x·10^y·15^z*
+*Like three numbers 6^x*10^y*15^z*
 
-> What is the minimum common multiple of three numbers a = 69 · 103 · 153, b = 63 · 109 · 153, and c = 63 · 103 · 159? A 66 · 106 · 156 B 69 · 109 · 159 C 68 · 108 · 158 D 67 · 107 · 157 E 65 · 105 · 155 F 64 · 104 · 154
+> What is the least common multiple of the three numbers a = 69 · 103 · 153, b = 63 · 109 · 153, and c = 63 · 103 · 159? A 66 · 106 · 156 B 69 · 109 · 159 C 68 · 108 · 158 D 67 · 107 · 157 E 65 · 105 · 155 F 64 · 104 · 154
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2020#q01|src_garaprime_2020__Q01]]
 
 
 
@@ -76,11 +81,16 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum movements for rolling 11 coins in groups of 3
+*Minimum moves to turn 11 coins in groups of 3*
 
-> There are 11 identical coins (with Head on one face and Cross on the other) scattered on a table with the side Head facing up. We establish that making a move means choosing 3 distinct coins and flipping them, that is, turning them so that they lean on the table with the face that was facing up. How many moves do you need at the very least for all the coins to have the cross facing up? A 5 B 4 C 6 D 7 E 11 F is impossible
+> There are 11 identical coins (with Heads on one side and Cross on the other) scattered on a table, with the Heads side facing up. Let us define a move as choosing 3 distinct coins and flipping them—that is, rotating them so that they rest on the table with the side that was previously facing up now down. What is the minimum number of moves needed for all the coins to have the Cross side facing up? A 5 B 4 C 6 D 7 E 11 F It is impossible
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2020#q02|src_garaprime_2020__Q02]]
 
 
 
@@ -111,11 +121,16 @@ Minimum movements for rolling 11 coins in groups of 3
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interest minus the square divisible by 504*
+*The smallest integer whose square is divisible by 504*
 
-> What's the smallest positive integer whose square is divisible by 504? A 84 B 504 C 42 D 126 E 252 F None of the other answers is correct
+> What is the smallest positive integer whose square is divisible by 504? A 84 B 504 C 42 D 126 E 252 F none of the other answers is correct
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2020#q03|src_garaprime_2020__Q03]]
 
 
 
@@ -147,9 +162,13 @@ Minimum movements for rolling 11 coins in groups of 3
 
 *Number of vertices of a regular dodecahedron*
 
-> A regular dodecahedron is a solid with 12 faces, all equal to each other, shaped like a regular pentagon. How many peaks do you have? A 20 B 60 C 30 D 12 E 36 F 48
+> A regular dodecahedron is a solid with 12 faces, all of which are identical and have the shape of regular pentagons. How many vertices does it have? A 20 B 60 C 30 D 12 E 36 F 48
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2020#q04|src_garaprime_2020__Q04]]
 
 
 
@@ -180,11 +199,15 @@ Minimum movements for rolling 11 coins in groups of 3
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times do seconds and minutes match*
+*How many times do the second and minute hands coincide?*
 
-> In the 12-hour time interval from 10:00:05 to 22:00:05 how many times does a clock's second and minute hands point in the same direction? A 708 B 720 C 719 D 660 E 600 F 590
+> Over the 12-hour period from 10:00:05 to 22:00:05, how many times does the second hand and the minute hand of a clock point in the same direction? A 708 B 720 C 719 D 660 E 600 F 590
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2020#q05|src_garaprime_2020__Q05]]
 
 
 
@@ -235,9 +258,14 @@ Minimum movements for rolling 11 coins in groups of 3
 
 *Value of a complex fraction with powers of 5*
 
-> The expression 1 52 + 1 5 + 1 + 5 + 52 1 53 + 1 52 + 2 5 + 2 + 2 · 5 + 52 + 53 is A 5 26 B 5 24 C 25 126 D 25 124 E 25 121 F 25 129
+> The expression
+> 1 52 + 1 5 + 1 + 5 + 52 1 53 + 1 52 + 2 5 + 2 + 2 · 5 + 52 + 53 equals: A 5 26 B 5 24 C 25 126 D 25 124 E 25 121 F 25 129
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2020#q06|src_garaprime_2020__Q06]]
 
 
 
@@ -275,11 +303,16 @@ Minimum movements for rolling 11 coins in groups of 3
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total amount of assigned revenue in accordance with Article 21 (3) of the Financial Regulation.
+*2020 terms of periodic recursive succession*
 
-> From the list of 2020 numbers a1, a2, a3, . . . , by 2020, we know that the first two are a1 = 5 and a2 = 7. We also know that, from the third onwards, each term is obtained by making the ratio between the one preceding it by a position and the one preceding it by two positions, i.e.: a3 = a2/a1, a4 = a3/a2, a5 = a4/a3, etc. How much is 2020 worth? A 1 5 B 1 7 C 7 5 D 5 7 E 5 F 7
+> Of the list of 2020 terms a1, a2, a3, ..., a2020, we know that the first two are a1 = 5 and a2 = 7. We also know that, starting from the third term onward, each term is obtained by taking the quotient of the term that precedes it by one position and the term that precedes it by two positions, that is: a3 = a2/a1, a4 = a3/a2, a5 = a4/a3, etc. What is the value of a2020? A 1 5 B 1 7 C 7 5 D 5 7 E 5 F 7
 
-**Answer:** A
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2020#q07|src_garaprime_2020__Q07]]
 
 
 
@@ -312,11 +345,16 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of socks for 4 equal pairs*
+*Minimum number of socks for 4 identical pairs*
 
-> There are 40 socks in a basket: 10 yellow, 10 red, 10 green and 10 blue. I take a number of them without looking, and I hope with them I can put together at least four pairs in which both socks are the same color. What's the minimum number of socks to take to make sure you can do it? A 11 B 8 C 12 D 15 E 10 F None of the other answers are correct
+> In a basket there are 40 socks: 10 yellow, 10 red, 10 green, and 10 blue. I take a certain number of them without looking, and I hope that with them I can put together at least 4 pairs in which both socks are the same color. What is the minimum number of socks to take to be sure that I can do this? A 11 B 8 C 12 D 15 E 10 F none of the other answers is correct
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2020#q08|src_garaprime_2020__Q08]]
 
 
 
@@ -348,11 +386,15 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eighth divisor in descending order of 646400*
+*Eighth divisor of 646400 in descending order*
 
-> If we write in descending order the list of all the positive divisors of 646400 we get: 646400, 323200, 161600, . . . , 5, 4, 2, 1 What is the eighth number on that list? A 32320 B 40400 C 2525 D 16160 E 25856 F 5050
+> If we write the list of all positive divisors of 646400 in descending order, we get: 646400, 323200, 161600, ..., 5, 4, 2, 1. What is the eighth number in this list? A 32320 B 40400 C 2525 D 16160 E 25856 F 5050
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2020#q09|src_garaprime_2020__Q09]]
 
 
 
@@ -389,11 +431,15 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of seats in the Pagnotta Party*
+*Percentage of seats held by the Party of the Loaf*
 
-> In Kenoncè, it was decided to halve the number of Members of Parliament. The new elections, however, lead to a parliament which, while half of the previous one, is not composed of new people but is a subset of the previous parliament. However, the proportions between the island's only two political parties change: only 18 of the Lasagna Party's MPs are confirmed in office, while the Pagnotta Party sees as many as 3 4 of its MPs confirmed. What is the percentage of seats in the new parliament for the Pagnotta Party? A 90% B 75% C 60% D 50% E 72% F cannot be determined by the data provided alone
+> On the island of Kenoncè, it was decided to halve the number of parliamentarians. However, the new elections result in a parliament that, although it is half the size of the previous one, is not made up of new people but is a subset of the previous parliament. Nevertheless, the proportions between the island's two only political parties change: only 1/8 of the parliamentarians from the Lasagna Party are reconfirmed in their posts, whereas 3/4 of the parliamentarians from the Pagnotta Party are reconfirmed. In the new parliament, what percentage of seats does the Pagnotta Party hold? A 90% B 75% C 60% D 50% E 72% F cannot be determined from the data provided alone
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2020#q10|src_garaprime_2020__Q10]]
 
 
 
@@ -454,9 +500,13 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 \end{document}
 ```
 
-> A rectangular sheet of cardboard is cut to produce exactly nine pieces, all square: one 64 cm2, two 16 cm2, and six 4 cm2. What was the perimeter of the rectangle? A 44 cm B 46 cm C 52 cm D 62 cm E 68 cm F not determined by the data provided alone
+> A rectangular piece of cardboard is cut so as to produce exactly nine pieces, all of which are squares: one square with an area of 64 cm², two squares with an area of 16 cm² each, and six squares with an area of 4 cm² each. What was the perimeter of the rectangle? A 44 cm B 46 cm C 52 cm D 62 cm E 68 cm F cannot be determined from the given data alone
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2020#q11|src_garaprime_2020__Q11]]
 
 
 
@@ -518,7 +568,7 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the ABCD trapezoid in a regular octagon*
+*Area of trapezoid ABCD in a regular octagon*
 
 ![[src_garaprime_2020__prob12.png]]
 
@@ -550,9 +600,14 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 \end{document}
 ```
 
-> The ABCDEFGH area is 1440. What is the area of the trapezoid ABCD? A 360 B 480 C 288 D 432 E 400 F 384
+> The regular octagon ABCDEFGH has an area of 1440. What is the area of trapezoid ABCD? A 360 B 480 C 288 D 432 E 400 F 384
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2020#q12|src_garaprime_2020__Q12]]
 
 
 
@@ -590,11 +645,16 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Winning move in the game Divide and Replace*
+*Winning move in the Divide and Replace game*
 
-> Claudia and Luca play Dividi and Replace. At the beginning of the board is written a positive integer n. In turn, the two players divide the number written on the board by a power of a prime number so as to get a new positive integer m, smaller than n, which is written on the board instead of n. The first one to get 1 wins. At some point on the board, it says 320000 and it's Claudia's turn. What move does Claudia have to make to make sure she can force the win, anyway, you play Luca? A divided by 32 B divided by 625 C divided by 2 D divided by 25 E there's more than one move that allows Claudia to win F. Whatever Claudia moves, Luke wins.
+> Claudia and Luca are playing Divide and Replace. At the start, a positive integer n is written on the board. In turn, the two players divide the number written on the board by a power of a prime number so as to obtain a new positive integer m, smaller than n, which is written on the board in place of n. The first to obtain 1 wins. At a certain point, 320000 is written on the board, and it is Claudia's turn. What move must Claudia make to be sure she can force a win, no matter how Luca plays? A divide by 32 B divide by 625 C divide by 2 D divide by 25 E there is more than one move that allows Claudia to win F whatever move Claudia makes, Luca manages to win
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2020#q13|src_garaprime_2020__Q13]]
 
 
 
@@ -626,11 +686,16 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of decimal places of n^3 with n ending in 5*
+*The tens digit of n^3, where n ends in 5*
 
-> Of a positive integer n we know that it ends with 5 and that the number of tens of n3 is odd. What's the number of tens of n3? A 7 B 1 C 3 D 5 E 9 F not uniquely determined by the data provided
+> Of a positive integer n, we know that it ends in 5 and that the tens digit of n³ is odd. What is the tens digit of n³? A 7 B 1 C 3 D 5 E 9 F not uniquely determined by the given data
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2020#q14|src_garaprime_2020__Q14]]
 
 
 
@@ -663,13 +728,17 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the lunula of the square and circle*
+*Area of the lunula of the square and the circumscribed circle*
 
 ![[src_garaprime_2020__prob15.png]]
 
-> An ABCD square has a side of 120 centimetres and γ is its circumscribed circle. Find the area (expressed in cm2) of the lunula which is obtained by taking at γ its intersection with the center circle A and radius AB. A 7200 B 2000π C 2400π D 8000 E 4800 F 1440π
+> A square ABCD has a side length of 120 centimetres, and γ is its circumcircle. Find the area (expressed in cm²) of the lunula obtained by removing from γ the part of γ that lies inside the circle centred at A with radius AB. A 7200 B 2000π C 2400π D 8000 E 4800 F 1440π
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2020#q15|src_garaprime_2020__Q15]]
 
 
 
@@ -703,11 +772,16 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product dividers and data dividers and MCD*
+*Divisors of the product mn given the divisors and the GCD*
 
-> We know that m and n are two positive integers with 11 and 12 positive divisors respectively. Knowing also that the MCD(m, n) has 4 positive divisors, say how many positive divisors of the product mn. (Remember that 1 and the number itself must also be counted among the divisors of a number) A 42 B 33 C 36 D 52 E 143 F the data are insufficient to answer
+> We know that m and n are two positive integers having 11 and 12 positive divisors, respectively. Given further that GCD(m, n) has 4 positive divisors, state how many positive divisors the product mn has. (Remember that 1 and the number itself must also be counted among the divisors of a number.) A 42 B 33 C 36 D 52 E 143 F The given information is insufficient to answer
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2020#q16|src_garaprime_2020__Q16]]
 
 
 
@@ -740,13 +814,17 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Differential area max-min squared in an octagon*
+*Difference between max and min squared areas in an octagon*
 
 ![[src_garaprime_2020__prob17.png]]
 
-> Given the regular octagon P of area 1440, consider the largest square containing P and the smallest square containing P. What's the difference between the areas of the two squares? A 720 B 840 C 576 D 480 E 600 F 640
+> Given a regular octagon P with area 1440, consider the largest square contained in P and the smallest square containing P. What is the difference between the areas of the two squares? A 720 B 840 C 576 D 480 E 600 F 640
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2020#q17|src_garaprime_2020__Q17]]
 
 
 
@@ -789,10 +867,15 @@ This is the total amount of assigned revenue in accordance with Article 21 (3) o
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the reciprocities of the 6300 dividers*
+*Sum of the reciprocals of the divisors of 6300*
 
-> What is the sum of the reciprocals of all the positive divisors of 6300? (Remember that dividers 1 and 6300 must also be considered) A 806 225 B 784 225 C 902 225 D 1024 225 E 976 225 F 1102 225 1
-> 
-> Solutions Below you will find the solutions in written form. Some of the solutions in the form of videos will later be published on the YouTube channel: problemisolti.it
+> What is the sum of the reciprocals of all positive divisors of 6300? (Remember that 1 and 6300 should also be considered among the divisors.) A 806 225 B 784 225 C 902 225 D 1024 225 E 976 225 F 1102 225 1
+>
+> Solutions Below you will find the solutions in written form. Some solutions in video format will be published later on the YouTube channel: problemisvolti.it
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2020#q18|src_garaprime_2020__Q18]]

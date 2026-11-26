@@ -33,13 +33,20 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con angolo obtuso a C; media, centroide, cerchio, parallelo*
+*Triangolo con angolo ottuso in C; mediane, baricentro, circonferenza, parallelogramma*
 
-> In un triangolo $ABC$ con angolo obtuso a $C$, $AD$ e $CF$ sono le medie e $G$ il centroide.
-> 
-> a) Se i punti $B, D, G, F$ si trovano su un cerchio, indicare che $\frac{BG}{GD} \ge \sqrt{2}$.
-> 
-> b) Inoltre, se $P$ è il quarto vertice del parallelo $AGCP$, dimostrare che il triangolo $GAP$ è simile a $\triangle ABC$.
+> In un triangolo $ABC$ con un angolo ottuso in $C$, $AD$ e $CF$ sono le mediane e $G$ è il baricentro.
+>
+> (a) Se i punti $B, D, G, F$ giacciono su una circonferenza, dimostrare che $\frac{BG}{GD} \ge \sqrt{2}$.
+>
+> (b) Inoltre, se $P$ è il quarto vertice del parallelogramma $AGCP$, dimostrare che il triangolo $GAP$ è simile a $\triangle ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1994#q01|src_inmo_1994__Q01]]
 
 
 
@@ -62,9 +69,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La radice reale del polinomio di grado-5 implica disuguaglianza*
+*Se x è radice reale di x^5 − x^3 + x = a, allora x^6 ≥ 2a − 1*
 
-> Prova che se $x$ è una radice reale di $x^5 - x^3 + x = a$, allora $x^6 \ge 2a - 1$.
+> Dimostrare che se $x$ è una radice reale di $x^5 - x^3 + x = a$, allora $x^6 \ge 2a - 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_inmo_1994#q02|src_inmo_1994__Q02]]
 
 
 
@@ -87,9 +101,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
+*Tra 181 quadrati perfetti ce ne sono 19 la cui somma è divisibile per 19*
 
-> Prove che tra i 181 quadrati perfetti ci sono 19 la cui somma è divisibile per 19.
+> Dimostrare che tra 181 quadrati perfetti qualsiasi ne esistono 19 la cui somma è divisibile per 19.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_inmo_1994#q03|src_inmo_1994__Q03]]
 
 
 
@@ -112,9 +133,16 @@ Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triangoli non degenerati con vertici nell'insieme di coordinate interi*
+*Conta i triangoli non degeneri i cui vertici appartengono all'insieme dei punti a coordinate intere*
 
-> Trova il numero di triangoli (non generati) le cui vertici si trovano nell'insieme dei punti $(s, t)$ nel piano con $s, t \in \{0, 1, 2, 3, 4\}$.
+> Trovare il numero di triangoli (non degeneri) i cui vertici appartengono all'insieme dei punti $(s, t)$ nel piano con $s, t \in \{0, 1, 2, 3, 4\}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_1994#q04|src_inmo_1994__Q04]]
 
 
 
@@ -137,9 +165,16 @@ Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo attraverso il vertice di rettangolo tangente a due lati; distanza a diagonale*
+*Cerchio passante per il vertice di un rettangolo tangente a due lati; distanza dalla diagonale*
 
-> Un cerchio attraverso il vertice $C$ di un rettangolo $ABCD$ è tangente ai lati $AB$ e $AD$ a $M$ e $N$. Dato che la distanza da $C$ alla linea $MN$ è pari a 5, calcolare l'area del rettangolo $ABCD$.
+> Una circonferenza passante per il vertice $C$ di un rettangolo $ABCD$ è tangente ai lati $AB$ e $AD$ nei punti $M$ e $N$. Sapendo che la distanza da $C$ alla retta $MN$ è uguale a 5, calcola l'area del rettangolo $ABCD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1994#q05|src_inmo_1994__Q05]]
 
 
 
@@ -164,6 +199,15 @@ Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni che soddisfano due equazioni funzionali*
+*Trovare tutte le funzioni che soddisfano due equazioni funzionali*
 
-> Trova tutte le funzioni $f: \mathbb{R} \to \mathbb{R}$ che soddisfano $$f(-x) = f(x) \quad \text{and} \quad f(x+1) = f(x) + 1 \quad \text{for all } x,$$ e $$f\!\left(\frac{1}{x}\right) = \frac{f(x)}{x^2} \quad \text{for all } x \ne 0.$$
+> Trovare tutte le funzioni $f: \mathbb{R} \to \mathbb{R}$ che soddisfano
+> $$f(-x) = f(x) \quad \text{and} \quad f(x+1) = f(x) + 1 \quad \text{for all } x,$$
+> e
+> $$f\!\left(\frac{1}{x}\right) = \frac{f(x)}{x^2} \quad \text{for all } x \ne 0.$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1994#q06|src_inmo_1994__Q06]]

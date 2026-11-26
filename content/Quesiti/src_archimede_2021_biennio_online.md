@@ -36,9 +36,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Enlarge the angle Y with X=36 and Z triple Y*
+*Angle Y with X=36 and Z triple of Y*
 
-> In the triangle XY Z the angle b X measures 36° and bZ is triple bY . What is the width of by ?
+> In triangle XYZ, angle X measures 36° and angle Z is three times angle Y. What is the measure of angle Y?
 >
 > - **(A)** 12°
 > - **(B)** 48°
@@ -46,7 +46,10 @@ level: biennio
 > - **(D)** 32°
 > - **(E)** 36°
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_biennio_online#q01|src_archimede_2021_biennio_online__Q01]]
 
 
 
@@ -77,9 +80,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles with two vertices of the same colour on the circumference*
+*Triangles with two vertices of the same colour on a circle*
 
-> Three red dots, two green dots, two yellow dots, and two blue dots are marked along one circumference. How many triangles can be obtained by choosing two vertices of the same color and a third of a different color?
+> On a circle there are three red points, two green points, two yellow points, and two blue points. How many triangles can be obtained by choosing two vertices of the same colour and the third of another colour?
 >
 > - **(A)** 44
 > - **(B)** 27
@@ -87,7 +90,11 @@ level: biennio
 > - **(D)** 39
 > - **(E)** 41
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2021_biennio_online#q02|src_archimede_2021_biennio_online__Q02]]
 
 
 
@@ -116,9 +123,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum value of 7-4x given (2x-3)(5-3x) = 0*
+*Maximum value of 7-4x given (2x-3)(5-3x)=0*
 
-> Knowing that (2x −3) ((5 −3x) = 0, what can be the maximum value of 7 −4x?
+> Knowing that (2x −3)(5 −3x) = 0, what can be, at most, the value of 7 −4x?
 >
 > - **(A)** 1
 > - **(B)** 7/5
@@ -126,7 +133,10 @@ level: biennio
 > - **(D)** 1/3
 > - **(E)** 3/5
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2021_biennio_online#q03|src_archimede_2021_biennio_online__Q03]]
 
 
 
@@ -157,9 +167,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many second numbers between 20 and 60*
+*How many "second" numbers are between 20 and 60*
 
-> Since 2021 = 43 · 47, product of two different prime numbers, we can say that 2021 is a second number. How many secondary numbers are between 20 and 60 ?
+> Since 2021 = 43 · 47, the product of two different prime numbers, we can say that 2021 is a "second" number. How many "second" numbers are between 20 and 60?
 >
 > - **(A)** 14
 > - **(B)** 11
@@ -167,7 +177,11 @@ level: biennio
 > - **(D)** 10
 > - **(E)** 13
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2021_biennio_online#q04|src_archimede_2021_biennio_online__Q04]]
 
 
 
@@ -197,9 +211,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle perimeter given the three heights and side AB*
+*Triangle perimeter given the three altitudes and side AB*
 
-> The heights coming out of the vertices A, B and C of the triangle ABC measure, respectively, 6 m, 8 m and 10 m. Indicated by the length of the AB side, what is the circumference of the triangle?
+> The altitudes from the vertices A, B and C of triangle ABC measure, respectively, 6 m, 8 m and 10 m. Indicating with ℓ the length of side AB, what is the perimeter of the triangle?
 >
 > - **(A)** 25 12ℓ
 > - **(B)** 37 12ℓ
@@ -207,7 +221,10 @@ level: biennio
 > - **(D)** 32 15ℓ
 > - **(E)** 13 6 ℓ
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_biennio_online#q05|src_archimede_2021_biennio_online__Q05]]
 
 
 
@@ -237,7 +254,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which product of powers and squares of an integer*
+*Which product of powers and square of an integer*
 
 > Which of the following is the square of an integer?
 >
@@ -247,7 +264,11 @@ level: biennio
 > - **(D)** 3316 · 779 · 218
 > - **(E)** 3311 · 7716 · 219
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2021_biennio_online#q06|src_archimede_2021_biennio_online__Q06]]
 
 
 
@@ -280,17 +301,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Knights and thieves in the post office files*
+*Knights and knaves in the post-office queues*
 
-> On an island where only knights (who always tell the truth) and crooks (who always tell the lies) live, the post office is quite crowded. There are four rows at the gates: one with eight people, one with seven, one with 11 and one with 10 people. Each of the present (except the first two in each row) says this sentence: Among the people in front of me in my row there are at least two thieves. How many knights are there at the post office?
+> On the island where only knights (who always tell the truth) and knaves (who always lie) live, the post office is rather crowded. There are four queues at the counters: one with 8 people, one with 7, one with 11 and one with 10 people. Each of those present (except the first two in each queue) says: “among the people in front of me in my queue there are at least two knaves”. How many knights are there in all at the post office?
 >
-> - **(A)** It is not possible to establish
+> - **(A)** it cannot be determined
 > - **(B)** 18
 > - **(C)** 28
 > - **(D)** 36
 > - **(E)** 32
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2021_biennio_online#q07|src_archimede_2021_biennio_online__Q07]]
 
 
 
@@ -321,9 +346,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pear juice left after mixing and extraction*
+*Pear juice remaining after mixtures and removals*
 
-> Paola prepared a drink by mixing 600 ml of pear juice with 400 ml of banana juice, drank 300 ml and left the remainder in a jar. Francesco mixed the drink in the bowl with 200 ml of strawberry juice and drank 90 ml. How much pear juice is in the jar now?
+> Paola prepared a drink by mixing 600 ml of pear juice with 400 ml of banana juice, drank 300 ml
+> and left the remaining part in a jug. Francesco mixed the drink in the jug with 200 ml of strawberry juice
+> and drank 90 ml. How much pear juice is now in the jug?
 >
 > - **(A)** 405 ml
 > - **(B)** 392 ml
@@ -331,7 +358,10 @@ level: biennio
 > - **(D)** 448 ml
 > - **(E)** 442 ml
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2021_biennio_online#q08|src_archimede_2021_biennio_online__Q08]]
 
 
 
@@ -363,9 +393,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting words with letters A,B and bindings on A and BB*
+*Counting words with letters A and B and constraints on A and BB*
 
-> Emanuele writes words using only the letters A and B (at least one of the two, not necessarily both), in order to meet these conditions: each word cannot contain more than twice the letter A; each word cannot contain any sequence BB (two Bs below). How many different words can Emmanuel write?
+> Emanuele writes words using only the letters A and B (at least one of the two, not necessarily both),
+> in such a way as to satisfy these conditions: each word cannot contain the letter A more than twice; each
+> word cannot contain any sequence BB (two B's in a row). How many different words can Emanuele write?
 >
 > - **(A)** 8
 > - **(B)** 12
@@ -373,7 +405,11 @@ level: biennio
 > - **(D)** 9
 > - **(E)** 11
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2021_biennio_online#q09|src_archimede_2021_biennio_online__Q09]]
 
 
 
@@ -404,9 +440,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*CD side of the trapezoid with perpendicular diagonals*
+*Side CD of a trapezium with perpendicular diagonals*
 
-> In the ABCD trapezoid, base AB and base CD, the AC and BD diagonals are perpendicular to each other. The segments AB and BD measure, in order, 15 m and 18 m; the area of the triangle ABD is 81 m2. How many feet does the CD side measure?
+> In trapezium ABCD, with bases AB and CD, the diagonals AC and BD are perpendicular to each other. The segments AB and BD measure, in order, 15 m and 18 m; the area of triangle ABD is 81 m2. How many metres does side CD measure?
 >
 > - **(A)** 35/6
 > - **(B)** 5/4
@@ -414,7 +450,11 @@ level: biennio
 > - **(D)** 28/3
 > - **(E)** 25/3
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_biennio_online#q10|src_archimede_2021_biennio_online__Q10]]
 
 
 
@@ -461,22 +501,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Routes on a 10x8 board frame in 16 movements*
+*Paths on a 10x8 board frame in 16 moves*
 
-![[src_archimede_2021_biennio_online__prob11.png]]
-
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.5]
-  \fill[gray!60] (2,2) rectangle (8,6);
-  \draw[step=1] (0,0) grid (10,8);
-  \node at (0.5,0.5) {$A$};
-  \node at (9.5,7.5) {$B$};
-\end{tikzpicture}
-\end{document}
-```
-
-> In a table 10×8, a pedal (initially in box A) may be moved through the side common to two adjacent boxes at each move. Federica wants to take it to box B in 16 moves, without stepping on the central rectangle 6 × 4 (the pedal must always remain on the frame with a thickness of 2 boxes). How many routes are there? A B
+> On a 10×8 board, a piece (initially in square $A$) can be moved at each step by crossing the side common to two adjacent squares. Federica wants to bring it to square $B$ in 16 moves, without stepping on the central 6 × 4 rectangle (the piece must always remain on the frame of thickness 2 squares). How many possible paths are there?
+> A
+> B
 >
 > - **(A)** 98
 > - **(B)** 128
@@ -484,7 +513,11 @@ level: biennio
 > - **(D)** 96
 > - **(E)** 114
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2021_biennio_online#q11|src_archimede_2021_biennio_online__Q11]]
 
 
 
@@ -514,14 +547,17 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of triangle obtained by extending the sides of DEF*
+*Area of the triangle obtained by extending the sides of DEF*
 
-> The area of the DEF triangle is 6 m2. Extend the DE side of a segment EE′ = DE; extend the EF side of a segment FF ′ = 2 EF; extend the FD side of a segment DD′ = 2 FD. What will be the area of D′E′F ′?
+> The area of triangle DEF is 6 m². Side DE is extended by a segment EE′ = DE; side EF is extended by a segment FF ′ = 2 EF; side FD is extended by a segment DD′ = 2 FD. What will the area of D′E′F ′ be?
 >
-> - **(A)** 74 m2
-> - **(B)** 78 m2
-> - **(C)** 88 m2
-> - **(D)** 84 m2
-> - **(E)** 80 m2 Games of Archimedes 2021 - GARA BENNIO CODE PROVA 2035 - Exact answers
+> - **(A)** 74 m²
+> - **(B)** 78 m²
+> - **(C)** 88 m²
+> - **(D)** 84 m²
+> - **(E)** 80 m²
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_biennio_online#q12|src_archimede_2021_biennio_online__Q12]]

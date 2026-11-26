@@ -32,9 +32,21 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli reali risolvendo un sistema quadratico simmetrico.*
+*Terne reali che soddisfano tre equazioni quadratiche cicliche*
 
-> Trova tutti i triples $(x,y,z)$ dei numeri reali che soddisfano le equazioni $$x^2+2yz+5x=2,$$ $$y^2+2zx+5y=2,$$ $$z^2+2xy+5z=2.$$
+> Trovare tutte le terne $(x,y,z)$ di numeri reali che soddisfano le equazioni
+>
+> $$x^2+2yz+5x=2,$$
+>
+> $$y^2+2zx+5y=2,$$
+>
+> $$z^2+2xy+5z=2.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_pol_2007_r1#q01|src_pol_2007_r1__Q01]]
 
 
 
@@ -57,9 +69,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca coppie di numeri interi positivi che rendano k^2+4m e m^2+5k quadrati perfetti.*
+*Coppie di interi positivi (k, m) per cui k^2+4m e m^2+5k sono entrambi quadrati perfetti*
 
-> Trova tutte le coppie $(k,m)$ di enti interi positivi per le quali $k^2+4m$ e $m^2+5k$ sono entrambi quadrati perfetti.
+> Trovare tutte le coppie $(k,m)$ di interi positivi per cui $k^2+4m$ e $m^2+5k$ sono entrambi quadrati perfetti.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_stima|Stima]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_pol_2007_r1#q02|src_pol_2007_r1__Q02]]
 
 
 
@@ -82,9 +100,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un quadrilaterale convex con AB=CD che non è un parallelo, le proiezioni di AB e CD sulla linea MN (M,N punti di mezzo di diagonali) sono entrambe uguali a MN.*
+*Quadrilatero convesso con AB = CD, non parallelogramma: le proiezioni di AB e CD sulla retta dei punti medi delle diagonali hanno lunghezza MN*
 
-> $ABCD$ sia un quadrilaterale convex con $AB=CD$ che non è un parallelo. I punti $M$ e $N$ sono i punti medi delle diagonali $AC$ e $BD$ rispettivamente. Prova che le proiezioni ortogonali dei segmenti $AB$ e $CD$ sulla linea $MN$ hanno entrambe lunghezza pari a $MN$.
+> Sia $ABCD$ un quadrilatero convesso con $AB=CD$, che non è un parallelogramma. I punti $M$ e $N$ sono i punti medi delle diagonali $AC$ e $BD$ rispettivamente. Dimostrare che le proiezioni ortogonali dei segmenti $AB$ e $CD$ sulla retta $MN$ hanno entrambe lunghezza uguale a $MN$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2007_r1#q03|src_pol_2007_r1__Q03]]
 
 
 
@@ -107,9 +131,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determina il numero di sequenze di lunghezza n con termini in {0,...,9} in modo tale che tra tutti i tre termini consecutivi almeno due siano uguali.*
+*Successioni di n cifre da 0 a 9 in cui ogni terna consecutiva ha almeno due termini uguali: quante sono*
 
-> Per ogni numero intero $n\ge 3$ determinare il numero di sequenze $(c_1,c_2,\ldots,c_n)$ con termini in $S=\{0,1,2,\ldots,9\}$ che soddisfano la seguente condizione: per ogni tre termini consecutivi, almeno due di essi sono uguali.
+> Per ogni intero $n\ge 3$, determinare il numero di successioni $(c_1,c_2,\ldots,c_n)$ con termini in $S=\{0,1,2,\ldots,9\}$ che soddisfano la condizione seguente: fra tre termini consecutivi, almeno due sono uguali.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2007_r1#q04|src_pol_2007_r1__Q04]]
 
 
 
@@ -132,9 +162,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un triangolo acuto con angolo C = 45 gradi, il circondario O e l'ortocentro H, la linea attraverso O perpendicolare a CO incontra AC e BC a K e L; dimostrare OK+KH=OL+LH.*
+*Triangolo acuto con angolo in C di 45 gradi: la perpendicolare a CO per O taglia i lati, e due somme di segmenti sono uguali*
 
-> In un triangolo acuto $ABC$ l'angolo a $C$ è uguale a $45^\circ$, $O$ è il circondario e $H$ l'ortocentro. La linea attraverso $O$ perpendicolare a $CO$ incontra rispettivamente le linee $AC$ e $BC$ a $K$ e $L$. Prova che $OK+KH=OL+LH$.
+> In un triangolo acuto $ABC$ l'angolo in $C$ è uguale a $45^\circ$, $O$ è il circocentro e $H$ l'ortocentro. La retta per $O$ perpendicolare a $CO$ incontra le rette $AC$ e $BC$ in $K$ e $L$ rispettivamente. Dimostrare che $OK+KH=OL+LH$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2007_r1#q05|src_pol_2007_r1__Q05]]
 
 
 
@@ -158,9 +194,17 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostrare un'ineguaglianza reciproca a tre termini, dilimitata sopra da un'espressione simmetrica di tipo AM.*
+*Per tre numeri positivi, una somma di tre frazioni non supera il prodotto di 1/(3 volte la radice cubica) per la somma dei reciproci*
 
-> Lasciate che $a,b,c$ siano numeri positivi. Provare la disuguaglianza $$\frac{1}{a+ab+abc}+\frac{1}{b+bc+bca}+\frac{1}{c+ca+cab}\le \frac{1}{3\sqrt[3]{abc}}\left(\frac{1}{a}+\frac{1}{b}+\frac{1}{c}\right).$$
+> Siano $a,b,c$ numeri positivi. Dimostrare la disuguaglianza
+>
+> $$\frac{1}{a+ab+abc}+\frac{1}{b+bc+bca}+\frac{1}{c+ca+cab}\le \frac{1}{3\sqrt[3]{abc}}\left(\frac{1}{a}+\frac{1}{b}+\frac{1}{c}\right).$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2007_r1#q06|src_pol_2007_r1__Q06]]
 
 
 
@@ -183,9 +227,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un tetraedro ABCD, Q è l'intersezione del bisettore dell'angolo ABC con AC e P è simmetrica a D circa Q; dimostra che esiste un triangolo con lati RR'=BC/2 condizione. (Vedi avvertenze: parti di questo problema sono illeggibili.)*
+*Tetraedro, bisettrice e simmetrico di D: esiste un triangolo con lati BP, CD e 2QR*
 
-> In un tetraedro $ABCD$, $Q$ è il punto di intersezione del bisettore di $\angle ABC$ con $AC$, e $P$ è il punto simmetrico a $D$ rispetto a $Q$. Il punto $R$ sul segmento $AB$ è tale che $RR'=\tfrac{1}{2}BC$. Prova che esiste un triangolo con lunghezze laterali uguali a $BP$, $CD$ e $2QR$.
+> In un tetraedro $ABCD$, $Q$ è il punto di intersezione della bisettrice di $\angle ABC$ con $AC$, e $P$ è il punto simmetrico di $D$ rispetto a $Q$. Il punto $R$ sul segmento $AB$ è tale che $RR'=\tfrac{1}{2}BC$. Dimostrare che esiste un triangolo con lati di lunghezze uguali a $BP$, $CD$ e $2QR$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2007_r1#q07|src_pol_2007_r1__Q07]]
 
 
 
@@ -210,9 +260,19 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per un primo p, mostrare che c'è una permutazione di 1..p-1 i cui prodotti parziali sono tutti modulo p distinto.*
+*Per un primo p esiste una permutazione di 1, ..., p−1 i cui prodotti parziali sono distinti modulo p*
 
-> $p$ sia un numero primo. Indicare che esiste una permutazione $(x_1,x_2,\ldots,x_{p-1})$ dei numeri $1,2,\ldots,p-1$ tale che i numeri $$x_1,\, x_1x_2,\, x_1x_2x_3,\ldots,\, x_1x_2\cdots x_{p-1}$$ siano modulo $p$ distinto.
+> Sia $p$ un numero primo. Dimostrare che esiste una permutazione $(x_1,x_2,\ldots,x_{p-1})$ dei numeri $1,2,\ldots,p-1$ tale che i numeri
+>
+> $$x_1,\, x_1x_2,\, x_1x_2x_3,\ldots,\, x_1x_2\cdots x_{p-1}$$
+>
+> siano distinti modulo $p$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_bigezione|Biiezione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2007_r1#q08|src_pol_2007_r1__Q08]]
 
 
 
@@ -235,9 +295,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Con F(k) il prodotto di tutti i divisori di k, dimostrare o respingere che due naturali distinti hanno F uguale.*
+*Il prodotto di tutti i divisori di un naturale assume lo stesso valore su due naturali distinti? Dimostrare o confutare*
 
-> Per un numero naturale $k$, indicare con $F(k)$ il prodotto di tutti i divisori di $k$. Prova o nega che esistono due numeri diversi $m,n\in\mathbb{N}$ con $F(m)=F(n)$.
+> Per un numero naturale $k$, si indichi con $F(k)$ il prodotto di tutti i divisori di $k$. Dimostrare o confutare che esistono due numeri distinti $m,n\in\mathbb{N}$ con $F(m)=F(n)$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2007_r1#q09|src_pol_2007_r1__Q09]]
 
 
 
@@ -262,9 +328,19 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un triangolo acuto, due catene di piedi perpendicolari sui lati danno i triangoli PQR e STU; dimostrano che sono congruenti.*
+*Triangolo acuto, due terne di punti sui lati con sei perpendicolarità: i triangoli PQR e STU sono congruenti*
 
-> Lasciate che $ABC$ sia un triangolo acuto. I punti $P$ e $U$ sono sul segmento $BC$, $Q$ e $S$ sul segmento $CA$, e $R$ e $T$ sul segmento $AB$, in modo tale che $$PR\perp BC,\quad QP\perp CA,\quad RQ\perp AB,\quad US\perp BC,\quad ST\perp CA,\quad TU\perp AB.$$ dimostri che i triangoli $PQR$ e $STU$ sono congruenti.
+> Sia $ABC$ un triangolo acuto. I punti $P$ e $U$ stanno sul segmento $BC$, $Q$ e $S$ sul segmento $CA$, e $R$ e $T$ sul segmento $AB$, in modo che
+>
+> $$PR\perp BC,\quad QP\perp CA,\quad RQ\perp AB,\quad US\perp BC,\quad ST\perp CA,\quad TU\perp AB.$$
+>
+> Dimostrare che i triangoli $PQR$ e $STU$ sono congruenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2007_r1#q10|src_pol_2007_r1__Q10]]
 
 
 
@@ -291,13 +367,17 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi permutazioni di {1,...,6n-1} che soddisfano due condizioni di monotonicità a differenza di indice.*
+*Permutazioni di 1, ..., 6n−1 con due vincoli di ordine sulle coppie a distanza 2n+1 e 4n*
 
-> Per ogni numero naturale $n$ si trova il numero di permutazioni $(x_1,x_2,\ldots,x_{6n-1})$ dell'insieme $\{1,2,\ldots,6n-1\}$ con le seguenti proprietà:
-> 
-> (i) Se $i-j=2n+1$, allora $x_i>x_j$;
-> 
-> (ii) Se $i-j=4n$, allora $x_i<x_j$.
+> Per ogni numero naturale $n$, trovare il numero di permutazioni $(x_1,x_2,\ldots,x_{6n-1})$ dell'insieme $\{1,2,\ldots,6n-1\}$ con le proprietà seguenti:
+> (i) se $i-j=2n+1$, allora $x_i>x_j$;
+> (ii) se $i-j=4n$, allora $x_i<x_j$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2007_r1#q11|src_pol_2007_r1__Q11]]
 
 
 
@@ -321,6 +401,14 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esprimere un polinomio positivo su [a,b] come P^2 più (x-a)(b-x) volte la somma dei quadrati.*
+*Polinomio positivo su un segmento: si scrive come un quadrato più (x−a)(b−x) per una somma di quadrati*
 
-> Un polinomio $W$ con coefficienti reali assume solo valori positivi sul segmento $[a,b]$ ($a<b$). Mostrare che esistono polinomi $P$ e $Q_1,Q_2,\ldots,Q_m$ in modo tale che $$W(x)=P(x)^2+(x-a)(b-x)\sum_{i=1}^{m}Q_i(x)^2 \quad\text{for all real }x.$$
+> Un polinomio $W$ a coefficienti reali assume solo valori positivi sul segmento $[a,b]$ ($a<b$). Dimostrare che esistono polinomi $P$ e $Q_1,Q_2,\ldots,Q_m$ tali che
+>
+> $$W(x)=P(x)^2+(x-a)(b-x)\sum_{i=1}^{m}Q_i(x)^2 \quad\text{for all real }x.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_pol_2007_r1#q12|src_pol_2007_r1__Q12]]

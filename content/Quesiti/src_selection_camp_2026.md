@@ -30,25 +30,28 @@ level: CAMP Selection Camp
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** [apri PDF p.1](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=1) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** apri PDF p.1 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due lavagne: somme a+b, alla fine progressioni aritmetiche*
+*Due lavagne: somme a+b, eventualmente progressioni aritmetiche*
 
-> Sia $n\geqslant2$ un intero. Ci sono due lavagne A e B; su A sono scritti $n$ interi a due a due distinti e su B sono scritti $n$ interi a due a due distinti (lo stesso intero può essere scritto sia su A sia su B).
+> Sia $n\geqslant2$ un numero intero. Ci sono due lavagne, A e B; su A sono scritti $n$ numeri interi tutti distinti tra loro, e su B sono scritti $n$ numeri interi tutti distinti tra loro (lo stesso numero intero può essere scritto sia su A sia su B).
 >
-> Si consideri la ripetizione dell'operazione seguente:
+> Valuta la possibilità di ripetere l'operazione seguente:
 >
-> > Sia $X=\{a+b\mid a \text{ è scritto sulla lavagna A e } b \text{ è scritto sulla lavagna B}\}$. Si sostituiscono gli $n$ numeri scritti su A con gli $n$ elementi più piccoli di $X$, e gli $n$ numeri scritti su B con gli $n$ elementi più grandi di $X$.
+> > Sia $X=\{a+b\mid a \text{ is written on board A and } b \text{ is written on board B}\}$. Sostituisci i numeri $n$ scritti su A con i $n$ elementi più piccoli di $X$, e i numeri $n$ scritti su B con i $n$ elementi più grandi di $X$.
 >
-> Dimostrare che esiste un intero positivo $N$ tale che, per ogni intero $k\geqslant N$, valga la condizione seguente:
+> Dimostrare che esiste un numero intero positivo $N$ tale che, per ogni numero intero $k\geqslant N$, vale la seguente condizione:
 >
-> > al termine della $k$-esima operazione, la successione ottenuta ordinando in modo crescente gli $n$ numeri su A è una progressione aritmetica, e anche la successione ottenuta ordinando in modo decrescente gli $n$ numeri su B è una progressione aritmetica.
+> Quando l'$k$-esima operazione è terminata, la successione ottenuta ordinando in ordine crescente i $n$ numeri su A è una progressione aritmetica, e anche la successione ottenuta ordinando in ordine decrescente i $n$ numeri su B è una progressione aritmetica.
 
-**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2026#q01|src_selection_camp_2026__Q01]]
 
 
 
@@ -66,19 +69,22 @@ level: CAMP Selection Camp
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** [apri PDF p.1](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=1) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** apri PDF p.1 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inversioni a distanza dispari: il massimo t con B ≥ tA*
+*Inversioni a distanza dispari: massimo t tale che B ≥ tA*
 
-> Determinare il massimo valore possibile di un numero reale non negativo $t$ per cui vale quanto segue:
+> Trovare il valore massimo possibile di un numero reale non negativo $t$ per cui vale quanto segue:
 >
-> > Sia $n$ un intero positivo qualsiasi e $a_1,a_2,\dots,a_n$ una qualsiasi successione di interi a due a due distinti. Sia $A$ il numero delle coppie di interi $(i,j)$ con $1\leqq i<j\leqq n$ e $a_i>a_j$, e sia $B$ il numero di quelle coppie per cui, in più, $j-i$ è dispari. Allora $B\geqq tA$.
+> > Sia $n$ un qualsiasi intero positivo e $a_1,a_2,\dots,a_n$ una qualsiasi successione di interi tutti distinti tra loro. Sia $A$ il numero di coppie di interi $(i,j)$ tali che $1\leqq i<j\leqq n$ e $a_i>a_j$, e sia $B$ il numero di tali coppie per cui, inoltre, $j-i$ è dispari. Allora $B\geqq tA$.
 
-**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2026#q02|src_selection_camp_2026__Q02]]
 
 
 
@@ -96,7 +102,7 @@ level: CAMP Selection Camp
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** [apri PDF p.1](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=1) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** apri PDF p.1 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -104,11 +110,14 @@ level: CAMP Selection Camp
 
 *Parallelogramma, bisettrici e un punto fisso Z*
 
-> Sia $ABCD$ un parallelogramma con $AB<AD$, e si prenda un punto $E$ sul segmento $BD$ in modo che $BE>DE$. Un punto $F$ del segmento $AE$ (estremi esclusi) soddisfa $AF=BD$. I punti $X$ e $Y$, situati rispettivamente sulla bisettrice di $\angle AEB$ e sulla bisettrice di $\angle AED$, sono tali che la retta $XY$ è perpendicolare alla retta $CF$ e, detto $M$ il punto medio del segmento $XY$, $BM=DM$. Sia $N$ il punto medio del segmento $EM$. La circonferenza circoscritta al triangolo $ABD$ e quella circoscritta al triangolo $BEF$ si intersecano in un punto $P\ne B$, e la circonferenza circoscritta al triangolo $ABD$ e quella circoscritta al triangolo $DEF$ si intersecano in un punto $Q\ne D$. Inoltre, sia $K$ l'intersezione delle rette $BP$ e $AD$, e $L$ l'intersezione delle rette $DQ$ e $AB$. Dimostrare che esiste un punto $Z$, dipendente solo dal parallelogramma $ABCD$, tale che, comunque si scelga $E$, $Z$ appartiene alla retta passante per $N$ e perpendicolare alla retta $KL$.
+> Sia $ABCD$ un parallelogramma con $AB<AD$, e si prenda un punto $E$ sul segmento $BD$ tale che $BE>DE$. Un punto $F$ sul segmento $AE$ (escludendo gli estremi) soddisfa $AF=BD$. I punti $X$ e $Y$, giacenti rispettivamente sulla bisettrice di $\angle AEB$ e sulla bisettrice di $\angle AED$, sono tali che la retta $XY$ è perpendicolare alla retta $CF$ e, se $M$ è il punto medio del segmento $XY$, $BM=DM$. Sia $N$ il punto medio del segmento $EM$. La circonferenza circoscritta al triangolo $ABD$ e la circonferenza circoscritta al triangolo $BEF$ si intersecano in un punto $P\ne B$, e la circonferenza circoscritta al triangolo $ABD$ e la circonferenza circoscritta al triangolo $DEF$ si intersecano in un punto $Q\ne D$. Inoltre, sia $K$ l'intersezione delle rette $BP$ e $AD$, e $L$ l'intersezione delle rette $DQ$ e $AB$. Dimostrare che esiste un punto $Z$, dipendente solo dal parallelogramma $ABCD$, tale che, qualunque sia la scelta di $E$, $Z$ giace sulla retta passante per $N$ e perpendicolare alla retta $KL$.
 >
-> Qui $UV$ indica la lunghezza del segmento $UV$.
+> Qui $UV$ denota la lunghezza del segmento $UV$.
 
-**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2026#q03|src_selection_camp_2026__Q03]]
 
 
 
@@ -130,23 +139,26 @@ level: CAMP Selection Camp
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** [apri PDF p.2](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=2) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** apri PDF p.2 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimozioni eque di blocchi bilanciati di palline bianche e nere*
+*Rimozioni eque di blocchi bilanciati di sfere bianche e nere*
 
-> Per un numero uguale di palline bianche e nere disposte in fila, la seguente sequenza di azioni si chiama **operazione equa**:
+> Per un numero uguale di palline bianche e nere disposte in fila, la seguente sequenza di azioni è detta **operazione equa**:
 >
-> > Si scelgono una o più palline consecutive tra le quali il numero di palline bianche è uguale al numero di palline nere. Poi si tolgono tutte le palline scelte e si spostano verso sinistra tutte le palline alla loro destra, mantenendone l'ordine, in modo da chiudere il vuoto.
+> Scegli una o più palle consecutive in cui il numero di palle bianche sia uguale al numero di palle nere. Poi rimuovi tutte le palle scelte e sposta a sinistra tutte le palle che si trovano alla loro destra, mantenendo il loro ordine, in modo da colmare lo spazio vuoto.
 >
-> Determinare il più piccolo intero positivo $N$ tale che per ogni intero $k$ con $0\leqslant k\leqslant2025$ valga quanto segue:
+> Trovare il più piccolo intero positivo $N$ tale che valga la seguente condizione per ogni intero $k$ con $0\leqslant k\leqslant2025$:
 >
-> > comunque si dispongano in fila 2025 palline bianche e 2025 palline nere, è possibile, eseguendo al più $N$ operazioni eque una dopo l'altra, far restare esattamente $2k$ palline.
+> > Tuttavia, le 2025 sfere bianche e le 2025 sfere nere sono disposte in fila; è possibile, eseguendo al massimo $N$ operazioni corrette in successione, far sì che rimangano esattamente $2k$ sfere.
 
-**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2026#q04|src_selection_camp_2026__Q04]]
 
 
 
@@ -166,7 +178,7 @@ level: CAMP Selection Camp
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** [apri PDF p.2](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=2) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** apri PDF p.2 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -174,13 +186,16 @@ level: CAMP Selection Camp
 
 *Equazione funzionale f^(n+2)(1) = f(n) + 2*
 
-> Determinare tutte le funzioni $f$ definite sugli interi positivi e a valori interi positivi tali che, per ogni intero positivo $n$,
+> Trovare tutte le funzioni $f$ definite sugli interi positivi e a valori in interi positivi tali che, per ogni intero positivo $n$,
 >
 > $$f^{n+2}(1)=f(n)+2.$$
 >
-> Qui $f^k(n)$ indica $\underbrace{f(f(\cdots f}_{k}(n)\cdots))$.
+> Qui $f^k(n)$ denota $\underbrace{f(f(\cdots f}_{k}(n)\cdots))$.
 
-**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2026#q05|src_selection_camp_2026__Q05]]
 
 
 
@@ -200,21 +215,24 @@ level: CAMP Selection Camp
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** [apri PDF p.2](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=2) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** apri PDF p.2 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La φ di Eulero su n traslazioni consecutive determina l'inizio*
+*La φ di Eulero su n spostamenti consecutivi determina l'inizio*
 
-> Sia $c$ un numero reale positivo. Dimostrare che esiste un intero positivo $N$ tale che, per ogni intero $n\geqslant N$ e per tutti gli interi $a,b$ con $1\leqslant a,b\leqslant n^c$, valga l'affermazione seguente:
+> Sia $c$ un numero reale positivo. Dimostrare che esiste un numero intero positivo $N$ tale che, per ogni numero intero $n\geqslant N$ e per tutti gli interi $a,b$ con $1\leqslant a,b\leqslant n^c$, vale la seguente affermazione:
 >
-> > se $\phi(a+k)=\phi(b+k)$ per ogni intero $k$ con $1\leqslant k\leqslant n$, allora $a=b$.
+> > Se $\phi(a+k)=\phi(b+k)$ per ogni intero $k$ con $1\leqslant k\leqslant n$, allora $a=b$.
 >
-> Qui $\phi(n)$ indica il numero degli interi compresi tra 1 e $n$ (inclusi) che sono primi con $n$.
+> Qui $\phi(n)$ denota il numero di interi compresi tra 1 e $n$, estremi inclusi, che sono coprimi con $n$.
 
-**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2026#q06|src_selection_camp_2026__Q06]]
 
 
 
@@ -232,7 +250,7 @@ level: CAMP Selection Camp
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** [apri PDF p.3](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=3) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** apri PDF p.3 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -240,11 +258,14 @@ level: CAMP Selection Camp
 
 *Esagono ciclico con AC = AE, DB = DF: ∠KXY = 90°*
 
-> Un esagono $ABCDEF$ è inscritto in una circonferenza $\Gamma$ e soddisfa $AC=AE$ e $DB=DF$. Sia $K$ il punto di intersezione dei segmenti $BE$ e $CF$, e siano $I_1$, $I_2$ gli incentri rispettivamente dei triangoli $KBC$ e $KEF$. La retta $AK$ interseca $\Gamma$ in un punto $P$ diverso da $A$ e $D$, e la retta $DK$ interseca $\Gamma$ in un punto $Q$ diverso da $A$ e $D$. Sia $X$ il punto di intersezione, diverso da $P$, della circonferenza circoscritta al triangolo $PI_1I_2$ con la circonferenza circoscritta al triangolo $KPQ$, e sia $Y$ il punto di intersezione, diverso da $P$, della circonferenza circoscritta al triangolo $PI_1I_2$ con la retta $PA$. Dimostrare che $\angle KXY=90^\circ$.
+> Un esagono $ABCDEF$ è inscritto in una circonferenza $\Gamma$ e soddisfa $AC=AE$ e $DB=DF$. Sia $K$ l'intersezione dei segmenti $BE$ e $CF$, e siano $I_1$, $I_2$ gli incentri dei triangoli $KBC$ e $KEF$ rispettivamente. La retta $AK$ incontra $\Gamma$ in un punto $P$ diverso da $A$ e $D$, e la retta $DK$ incontra $\Gamma$ in un punto $Q$ diverso da $A$ e $D$. Sia $X$ il punto di intersezione, diverso da $P$, della circonferenza circoscritta al triangolo $PI_1I_2$ e della circonferenza circoscritta al triangolo $KPQ$, e sia $Y$ il punto di intersezione, diverso da $P$, della circonferenza circoscritta al triangolo $PI_1I_2$ e della retta $PA$. Dimostrare che $\angle KXY=90^\circ$.
 >
 > Qui $UV$ indica la lunghezza del segmento $UV$.
 
-**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2026#q07|src_selection_camp_2026__Q07]]
 
 
 
@@ -260,7 +281,7 @@ level: CAMP Selection Camp
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** [apri PDF p.3](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=3) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** apri PDF p.3 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -268,9 +289,12 @@ level: CAMP Selection Camp
 
 *Divisibilità ciclica a_i | a_{i−1} + a_{i+1} − 1 con termini enormi*
 
-> Dimostrare che non esiste alcuna $2025$-upla $(a_1,a_2,\dots,a_{2025})$ di interi maggiori di $2^{2025}$ tale che, per ogni intero $i$ con $1\leqslant i\leqslant2025$, $a_i$ divida $a_{i-1}+a_{i+1}-1$. Qui $a_0=a_{2025}$ e $a_{2026}=a_1$.
+> Dimostrare che non esiste una tupla $(a_1,a_2,\dots,a_{2025})$ di interi maggiori di $2^{2025}$ tale che, per ogni intero $i$ con $1\leqslant i\leqslant2025$, $a_i$ divida $a_{i-1}+a_{i+1}-1$. Qui $a_0=a_{2025}$ e $a_{2026}=a_1$.
 
-**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2026#q08|src_selection_camp_2026__Q08]]
 
 
 
@@ -292,23 +316,26 @@ level: CAMP Selection Camp
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** [apri PDF p.3](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=3) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** apri PDF p.3 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il cammino hamiltoniano di un coniglio su una griglia 45×45 e una numerazione*
+*Il percorso hamiltoniano di un coniglio su una griglia 45×45 e una numerazione*
 
-> C'è una griglia di $45\times45$ caselle e in una delle caselle c'è un coniglio. Il coniglio si sposta 2024 volte in una casella che ha un lato in comune con quella in cui si trova, e visita tutte le caselle esattamente una volta. Dimostrare che è possibile scrivere nelle caselle interi a due a due distinti compresi tra 1 e 2025, uno per casella, in modo che valgano entrambe le condizioni seguenti:
+> C'è una griglia di $45\times45$ celle, e un coniglio si trova in una delle celle. Il coniglio si sposta, 2024 volte, in una cella adiacente per lato a quella in cui si trova attualmente, visitando ogni cella esattamente una volta. Dimostrare che è possibile scrivere nelle celle interi distinti a due a due compresi tra 1 e 2025, inclusi, uno per cella, in modo che siano soddisfatte entrambe le seguenti condizioni:
 >
-> - per ogni coppia di caselle adiacenti nella stessa riga, nella casella visitata prima dal coniglio è scritto l'intero maggiore;
+> - per ogni coppia di celle adiacenti nella stessa riga, la cella visitata per prima dal coniglio contiene l'intero maggiore;
 >
-> - per ogni coppia di caselle adiacenti nella stessa colonna, nella casella visitata prima dal coniglio è scritto l'intero minore.
+> - per ogni coppia di celle adiacenti nella stessa colonna, la cella visitata per prima dal coniglio contiene l'intero minore.
 >
-> La casella in cui il coniglio si trova all'inizio si considera la prima casella visitata dal coniglio.
+> La cella in cui il coniglio parte è considerata la prima cella visitata dal coniglio.
 
-**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2026#q09|src_selection_camp_2026__Q09]]
 
 
 
@@ -326,7 +353,7 @@ level: CAMP Selection Camp
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** [apri PDF p.4](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=4) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** apri PDF p.4 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -334,11 +361,14 @@ level: CAMP Selection Camp
 
 *f sui divisori: n | d + f(e) per qualche divisore e*
 
-> Determinare tutte le funzioni $f$ definite sugli interi positivi e a valori interi tali che, per ogni intero positivo $n$ e per ogni divisore positivo $d$ di $n$, valga la condizione seguente:
+> Trovare tutte le funzioni $f$ definite sugli interi positivi e a valori interi tali che, per ogni intero positivo $n$ e per ogni divisore positivo $d$ di $n$, valga la seguente condizione:
 >
-> > esiste un divisore positivo $e$ di $n$ tale che $d+f(e)$ sia divisibile per $n$.
+> > Esiste un divisore positivo $e$ di $n$ tale che $d+f(e)$ è divisibile per $n$.
 
-**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2026#q10|src_selection_camp_2026__Q10]]
 
 
 
@@ -356,19 +386,22 @@ level: CAMP Selection Camp
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** [apri PDF p.4](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=4) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** apri PDF p.4 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acutangolo, AB = AQ e la perpendicolare CX ⟂ AB*
+*Triangolo acuto, AB = AQ e la perpendicolare CX ⟂ AB*
 
-> Sia $ABC$ un triangolo acutangolo con $AB<AC$ e sia $\Gamma$ la sua circonferenza circoscritta. Sia $D$ il punto di intersezione, diverso da $B$, di $\Gamma$ con la retta passante per $B$ e perpendicolare alla retta $AC$, e si prenda su $\Gamma$ un punto $Q\ne B$ tale che $AB=AQ$. Sia $R$ l'intersezione delle rette $BQ$ e $AC$, e sia $S$ il punto di intersezione, diverso da $D$, della retta $DR$ con $\Gamma$. Sia $T$ l'intersezione della circonferenza circoscritta al triangolo $QRS$ con il lato $BC$, e sia $X$ l'intersezione delle rette $TQ$ e $RS$. Dimostrare che le rette $CX$ e $AB$ sono perpendicolari.
+> Sia $ABC$ un triangolo acutangolo con $AB<AC$, e sia $\Gamma$ la sua circonferenza circoscritta. Sia $D$ il punto di intersezione, diverso da $B$, tra $\Gamma$ e la retta passante per $B$ e perpendicolare alla retta $AC$; inoltre, si prenda un punto $Q\ne B$ su $\Gamma$ tale che $AB=AQ$. Sia $R$ l'intersezione delle rette $BQ$ e $AC$, e sia $S$ il punto di intersezione, diverso da $D$, tra la retta $DR$ e $\Gamma$. Sia $T$ l'intersezione tra la circonferenza circoscritta al triangolo $QRS$ e il lato $BC$, e sia $X$ l'intersezione delle rette $TQ$ e $RS$. Dimostrare che le rette $CX$ e $AB$ sono perpendicolari.
 >
-> Qui $UV$ indica la lunghezza del segmento $UV$.
+> Qui $UV$ denota la lunghezza del segmento $UV$.
 
-**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2026#q11|src_selection_camp_2026__Q11]]
 
 
 
@@ -390,20 +423,23 @@ level: CAMP Selection Camp
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** [apri PDF p.4](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=4) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** apri PDF p.4 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di carte: radici di polinomi che non finiscono mai*
+*Gioco di carte: radici polinomiali che non finiscono mai*
 
-> A e B fanno il gioco seguente. Prima A prepara una o più carte e su ciascuna scrive un numero reale non nullo (non necessariamente distinti). Poi i due giocatori ripetono la seguente sequenza di azioni:
+> A e B giocano al seguente gioco. Innanzitutto, A prepara una o più carte e su ciascuna di esse scrive un numero reale non nullo (non necessariamente distinti). Poi i due giocatori ripetono la seguente sequenza di azioni:
 >
-> - B dispone in fila, nell'ordine che preferisce, tutte le carte su cui è scritto un numero reale.
+> - B dispone in una riga tutte le carte che portano numeri reali, in qualsiasi ordine desideri.
 >
-> - Se i numeri reali scritti sulle carte così disposte sono, da sinistra a destra, $a_k,a_{k-1},\dots,a_0$, A sceglie un numero reale $x$ che soddisfa $a_kx^k+a_{k-1}x^{k-1}+\cdots+a_0=0$ e ne scrive il valore su una nuova carta. Se un tale numero reale $x$ non esiste, il gioco termina.
+> - Se i numeri reali scritti sulle carte disposte sono, da sinistra a destra, $a_k,a_{k-1},\dots,a_0$, A sceglie un numero reale $x$ che soddisfa $a_kx^k+a_{k-1}x^{k-1}+\cdots+a_0=0$ e scrive il suo valore su una nuova carta. Se non esiste alcun numero reale $x$ del genere, il gioco termina.
 >
-> È possibile per A, qualunque cosa faccia B, scrivere i numeri reali iniziali sulle carte e continuare a giocare in modo che il gioco non termini mai?
+> È possibile che A, qualunque cosa faccia B, scriva i numeri reali iniziali sulle carte e continui a giocare in modo che il gioco non finisca mai?
 
-**Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2026#q12|src_selection_camp_2026__Q12]]

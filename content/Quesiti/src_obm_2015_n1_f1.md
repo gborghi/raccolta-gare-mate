@@ -38,9 +38,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ordine di macchine da giocattoli che arrivano da restrizioni di indizio*
+*Ordine dei modellini di auto in arrivo in base ai vincoli degli indizi*
 
-> Juquinha e i suoi amici organizzarono una gara con le loro macchine giocattoli. La macchina bianca (B) è arrivata prima della macchina rossa (V) e prima della macchina marrone (M); la macchina blu (A) è arrivata dopo la macchina marrone e prima della macchina rossa. In che ordine sono arrivate le auto?
+> Juquinha e i suoi amici hanno organizzato una gara con le loro automobiline giocattolo. L'automobilina bianca (B) è arrivata prima di quella rossa (V) e prima di quella marrone (M); l'automobilina blu (A) è arrivata dopo quella marrone e prima di quella rossa. Qual era l'ordine di arrivo delle automobiline?
 >
 > - **(A)** B-A-V-M
 > - **(B)** B-V-A-M
@@ -48,7 +48,14 @@ level: OBM Nível 1
 > - **(D)** B-M-V-A
 > - **(E)** B-A-M-V
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n1_f1#q01|src_obm_2015_n1_f1__Q01]]
 
 
 
@@ -79,17 +86,23 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tempo per tagliare un tronco in 9 pezzi dato il costo di 5 tagli*
+*È ora di tagliare un tronco in 9 pezzi, dato il costo di 5 tagli*
 
-> Per tagliare un tronco di eucalipto dritto in 6 parti, il boschiere Josué fa 5 tagli. Ci vuole mezz'ora per fare questi tagli, che sono sempre fatti allo stesso modo. Quanto ci vorrà Josué per tagliare un altro identico tronco in nove pezzi?
+> Per tagliare un tronco d'eucalipto diritto in 6 parti, il taglialegna Josué effettua 5 tagli. Impiega mezz'ora per fare questi tagli, che vengono sempre eseguiti nello stesso modo. Quanto tempo impiegherà Josué a tagliare un altro tronco identico in 9 pezzi?
 >
-> - **(A)** 40 minuti
-> - **(B)** 44 minuti
-> - **(C)** 45 minuti
-> - **(D)** 48 minuti
-> - **(E)** 54 minuti
+> - **(A)** 40 min
+> - **(B)** 44 min
+> - **(C)** 45 min
+> - **(D)** 48 min
+> - **(E)** 54 min
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n1_f1#q02|src_obm_2015_n1_f1__Q02]]
 
 
 
@@ -121,7 +134,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valutazione di un'espressione con poteri del 2015 e del 2014*
+*Valore di un'espressione con potenze di 2015 e 2014*
 
 > Qual è il valore dell'espressione $2015^2 - 2015 \times 2014 - 2014^2 + 2014 \times 2015$?
 >
@@ -131,7 +144,14 @@ level: OBM Nível 1
 > - **(D)** 2029
 > - **(E)** 4029
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n1_f1#q03|src_obm_2015_n1_f1__Q03]]
 
 
 
@@ -163,9 +183,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il valore di un acquisto data un errore di modifica*
+*Trovare il valore di un acquisto dato un errore di resto*
 
-> Joana andò in un negozio, scelse un prodotto e diede alla cassa una singola banconota, dicendo alla cassa che non era dovuto alcun cambio. Poi si rese conto che la nota era una nota reale di 50 o una nota reale di 20. La cassiera ha restituito 27 reais. Joana ha affermato giustamente di aver ricevuto 9 reales in meno di cambio di quanto avrebbe dovuto. Qual era il valore dell'acquisto?
+> Joana è andata in un negozio, ha scelto un prodotto e ha consegnato al cassiere una singola banconota, dicendogli che non gli spettava resto. Poi si è resa conto che la banconota era o da 50 reais o da 20 reais. Il cassiere ha restituito 27 reais. Joana ha sostenuto correttamente di aver ricevuto 9 reais in meno di resto rispetto a quanto le spettava. Qual era il valore dell'acquisto?
 >
 > - **(A)** 52
 > - **(B)** 53
@@ -173,7 +193,14 @@ level: OBM Nível 1
 > - **(D)** 63
 > - **(E)** 64
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n1_f1#q04|src_obm_2015_n1_f1__Q04]]
 
 
 
@@ -206,9 +233,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma più piccola in quadrati bianchi di una lavagna numerata (anche somma vicina)*
+*Somma massima nei riquadri bianchi di una griglia numerata (somme dei vicini pari)*
 
-> Violeta vuole numerare da 1 a 9 i quadrati della tavola mostrata, in modo tale che la somma di due numeri nei quadrati vicini (quelli che condividono un lato) sia sempre pari. Tra le piazze alcune sono colorate e altre bianche. Qual è la somma dei numeri scritti nei quadrati bianchi?
+> Violeta vuole numerare da 1 a 9 le caselle della scacchiera mostrata, in modo che la somma di due numeri scritti in caselle vicine (quelle che condividono un lato) sia sempre pari. Tra le caselle, alcune sono colorate e altre sono bianche. Qual è la somma dei numeri scritti nelle caselle bianche?
 >
 > - **(A)** 15
 > - **(B)** 16
@@ -217,6 +244,15 @@ level: OBM Nível 1
 > - **(E)** 30
 
 ![[src_obm_2015_n1_f1__q05.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n1_f1#q05|src_obm_2015_n1_f1__Q05]]
 
 
 
@@ -249,9 +285,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area di un foglio quadrato tagliato in due quadrati e due rettangoli*
+*Area di un foglio quadrato tagliato in due quadrati e due rettangoli*
 
-> Con due tagli perpendicolari, Pablo divise un foglio quadrato di legno in due quadrati di aree $400\,\text{cm}^2$ e $900\,\text{cm}^2$ e due rettangoli uguali in più, come nel disegno. Qual è l'area del foglio di legno?
+> Con due tagli perpendicolari tra loro, Pablo ha diviso un foglio di legno quadrato in due quadrati di area $400\,\text{cm}^2$ e $900\,\text{cm}^2$ e in altri due rettangoli uguali, come nella figura. Qual è l'area del foglio di legno?
 >
 > - **(A)** $2500\,\text{cm}^2$
 > - **(B)** $2400\,\text{cm}^2$
@@ -261,7 +297,13 @@ level: OBM Nível 1
 
 ![[src_obm_2015_n1_f1__q06.png]]
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n1_f1#q06|src_obm_2015_n1_f1__Q06]]
 
 
 
@@ -292,9 +334,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di cifre di 10^15 - 15*
+*Somma delle cifre di 10^15 - 15*
 
-> Con l'esecuzione delle operazioni indicate nell'espressione $10^{15} - 15$, si ottiene un numero molto grande. Qual è la somma di tutti i numeri di questo numero?
+> Eseguendo le operazioni indicate nell'espressione $10^{15} - 15$, otteniamo un numero molto grande. Qual è la somma di tutte le cifre di questo numero?
 >
 > - **(A)** 85
 > - **(B)** 105
@@ -302,7 +344,13 @@ level: OBM Nível 1
 > - **(D)** 132
 > - **(E)** 202
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n1_f1#q07|src_obm_2015_n1_f1__Q07]]
 
 
 
@@ -333,15 +381,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quanti anni dopo il 2015 questo secolo hanno la media digitali 2*
+*Quanti anni dopo il 2015, in questo secolo, digit ha valore 2?*
 
-> La media aritmetica dei numeri dell'anno 2015 è pari a 2, dal momento che $\frac{2+0+1+5}{4} = \frac{8}{4} = 2$. Quante volte nel nostro secolo succederà, dopo il 2015, che la media aritmetica dei numeri di un anno sia uguale a 2?
+> La media aritmetica delle cifre dell'anno 2015 è uguale a 2, poiché $\frac{2+0+1+5}{4} = \frac{8}{4} = 2$. Quante volte, nel nostro secolo, dopo il 2015, accadrà che la media aritmetica delle cifre di un anno sia uguale a 2?
 >
 > - **(A)** 3
 > - **(B)** 5
 > - **(C)** 6
 > - **(D)** 7
 > - **(E)** 9
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n1_f1#q08|src_obm_2015_n1_f1__Q08]]
 
 
 
@@ -374,9 +431,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colori minimi per dipingere le facce di un prisma pentagonale*
+*Numero minimo di colori per dipingere le facce di un prisma pentagonale*
 
-> Un blocco di legno ha facce pentagonali e rettangolari. Due facce sono vicine quando hanno un confine comune, cioè un lato, come con le due facce evidenziate nella figura. Wagner sta per dipingere le facce di questo blocco, in modo che due facce vicine abbiano colori diversi, usando un colore per ciascuna. Qual è il numero minimo possibile di colori?
+> Un blocco di legno ha facce pentagonali e rettangolari. Due facce sono adiacenti quando hanno un bordo in comune, cioè un lato, come nel caso delle due facce evidenziate nella figura. Wagner sta per dipingere le facce di questo blocco in modo che due facce adiacenti qualsiasi abbiano colori diversi, usando un colore per ciascuna faccia. Qual è il numero minimo possibile di colori?
 >
 > - **(A)** 3
 > - **(B)** 4
@@ -385,6 +442,15 @@ level: OBM Nível 1
 > - **(E)** 7
 
 ![[src_obm_2015_n1_f1__q09.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n1_f1#q09|src_obm_2015_n1_f1__Q09]]
 
 
 
@@ -414,15 +480,23 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il prezzo del biglietto cinematografico tenuto conto delle spese totali uguali*
+*Trovare il prezzo del biglietto del cinema sapendo che le spese totali sono uguali*
 
-> Carlos e i suoi amici, Danilo ed Edson, andarono al cinema. Carlos ha pagato i biglietti d'ingresso per tutti, Danilo ha pagato i popcorn ed Edson ha pagato il parcheggio. Per regolare i conti, Danilo pagò a Carlos R\$8.00 and Edson paid Carlos R\$>14.00, così che la spesa totale di ciascuno di essi arrivò a R\\$32.00. Quanto costava un biglietto al cinema?
+> Carlos e i suoi amici, Danilo ed Edson, sono andati al cinema. Carlos ha pagato i biglietti d'ingresso per tutti, Danilo ha pagato il popcorn ed Edson ha pagato il parcheggio. Per saldare i conti, Danilo ha pagato a Carlos R$8.00 and Edson paid Carlos R\$14,00, così che la spesa totale di ciascuno sia risultata pari a R$32,00. Qual era il prezzo di un biglietto del cinema?
 >
 > - **(A)** R\$10.00
 > - **(B)** R\$12.00
 > - **(C)** R\$15.00
 > - **(D)** R\$18.00
 > - **(E)** R\$20.00
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2015_n1_f1#q10|src_obm_2015_n1_f1__Q10]]
 
 
 
@@ -454,9 +528,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di pezzo di metallo ottenuta mediante taglio e saldatura di triangoli*
+*Area della parte metallica ottenuta tagliando e saldando triangoli*
 
-> Geraldo, il serratore, prese una piastra di metallo quadrata, poi la tagliò e saldeva triangoli rettangolari con gambe di 5 cm, costruendo il pezzo rappresentato accanto. Qual è l'area di questo pezzo?
+> Geraldo, il fabbro, prese una piastra metallica quadrata, poi la tagliò e saldò dei triangoli rettangoli con i cateti lunghi 5 cm, realizzando il pezzo rappresentato accanto. Qual è l'area di questo pezzo?
 >
 > - **(A)** $100\,\text{cm}^2$
 > - **(B)** $125\,\text{cm}^2$
@@ -465,6 +539,14 @@ level: OBM Nível 1
 > - **(E)** $250\,\text{cm}^2$
 
 ![[src_obm_2015_n1_f1__q11.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n1_f1#q11|src_obm_2015_n1_f1__Q11]]
 
 
 
@@ -497,9 +579,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quanti di 1-9 possono occupare il quadrato centrale di un X*
+*Quanti numeri da 1 a 9 possono occupare la casella centrale di una X?*
 
-> Julieta fece un X con nove piccoli quadrati che formavano la figura mostrata. Lei vuole scrivere i numeri da 1 a 9 in questi quadrati, senza ripeterli, in modo che i numeri in ciascuno dei quattro 'bracci' della X abbiano la stessa somma. Quanti dei numeri da 1 a 9 possono occupare il quadrato centrale della X?
+> Julieta ha tracciato una X con nove piccoli quadrati che formano la figura mostrata. Vuole scrivere i numeri da 1 a 9 in questi quadrati, senza ripeterli, in modo che i numeri presenti in ciascuno dei quattro "bracci" della X abbiano la stessa somma. Quanti dei numeri da 1 a 9 possono occupare il quadrato centrale della X?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -508,6 +590,15 @@ level: OBM Nível 1
 > - **(E)** 5
 
 ![[src_obm_2015_n1_f1__q12.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n1_f1#q12|src_obm_2015_n1_f1__Q12]]
 
 
 
@@ -540,9 +631,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tagliere rettangolari non quadrate massime che coprono una parete da 7x7*
+*Piastrelle rettangolari intere non quadrate, in numero massimo, che coprono una parete 7x7*
 
-> L'artista Juliana vuole coprire un murale quadrato di 7 metri su ciascun lato con piastre rettangolari, senza sovrapposizione delle piastre. Non vuole usare nessuna piastra quadrata. Inoltre, le misure delle lastre sono numeri interi di metri (in figura, un modello di ciò che potrebbe essere fatto). Vuole fare la copertura con il maggior numero possibile di piatti. Quanti piatti userà?
+> L'artista Juliana vuole coprire un murale quadrato di 7 metri di lato con piastre rettangolari, senza che le piastre si sovrappongano. Non vuole usare alcuna piastra quadrata. Inoltre, le dimensioni delle piastre sono espresse da numeri interi di metri (nella figura è riportato un modello di ciò che si potrebbe fare). Vuole realizzare la copertura con il maggior numero possibile di piastre. Quante piastre userà?
 >
 > - **(A)** 10
 > - **(B)** 14
@@ -551,6 +642,15 @@ level: OBM Nível 1
 > - **(E)** 24
 
 ![[src_obm_2015_n1_f1__q13.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2015_n1_f1#q13|src_obm_2015_n1_f1__Q13]]
 
 
 
@@ -582,9 +682,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massimi cubetti impilati in modo che i vicini differiscano di colore*
+*Numero massimo di cubi impilati in modo che i vicini siano di colore diverso*
 
-> Fabiana ha 55 cubetti della stessa dimensione, cioè 10 rossi, 15 blu e 30 verdi. Lei vuole costruire una torre impilando questi cubetti in modo tale che due cubetti vicini abbiano colori diversi. Quanti cubetti può mettere a piombo?
+> Fabiana ha 55 cubi tutti della stessa dimensione, precisamente 10 rossi, 15 blu e 30 verdi. Vuole costruire una torre impilando questi cubi in modo che due cubi adiacenti abbiano colori diversi. Al massimo, quanti cubi può impilare?
 >
 > - **(A)** 39
 > - **(B)** 51
@@ -592,7 +692,14 @@ level: OBM Nível 1
 > - **(D)** 54
 > - **(E)** 55
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n1_f1#q14|src_obm_2015_n1_f1__Q14]]
 
 
 
@@ -638,21 +745,38 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Deduzione elettorale in due round da percentuali parziali*
+*Detrazione elettorale su due turni, calcolata a partire da percentuali parziali*
 
-> Nella tabella seguente si vedono alcuni dei risultati delle elezioni in un determinato paese, in cui le percentuali si riferiscono al numero totale di elettori.
+> Nella tabella sottostante vediamo parte dei risultati delle elezioni in un certo paese, in cui le percentuali si riferiscono al numero totale degli elettori.
 >
-> \[ \begin{ay} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i}} {i} {i} {i} {i}} {i} {i} {i} {i}} {i} {i} {i}} {i} {i}} {i} {i}} {i} {i}} {i} {i}} {i}} {i}} {i} {i} & ? & 0 & ? - La linea è finita.
+> \[
+> \begin{array}{|l|c|c|c|c|}
+> \hline
+> \text{Giri / Parti} & \text{AA} & \text{BB} & \text{CC} & \text{Altre parti \& nullo} \\
+> \hline
+> 1° turno & 39% & 31% & 20% & 10% \\
+> \hline
+> 2° turno & ? & ? & 0 & ? \\
+> \hline
+> \end{array}
+> \]
 >
-> Nel secondo turno, tutti gli elettori che hanno votato per il partito AA hanno mantenuto i loro voti, e lo stesso è successo con gli elettori del partito BB. Di coloro che hanno votato per il partito CC nel primo turno, $40\%$ ha votato per il partito AA e il resto per il partito BB. Di coloro che avevano votato per altri partiti o hanno dato voti nulli, $60\%$ ha continuato senza votare per AA o BB e il resto ha votato in parte per AA e in parte per BB. Da questo punto di vista, è corretto affermare che:
+> Nel secondo turno, tutti gli elettori che avevano votato per il partito AA hanno mantenuto i propri voti, e lo stesso è accaduto per gli elettori del partito BB. Tra coloro che nel primo turno avevano votato per il partito CC, $40\%$ ha votato per il partito AA e gli altri per il partito BB. Tra coloro che avevano votato per altri partiti o avevano espresso voti nulli, $60\%$ è rimasto senza votare per AA o BB, mentre gli altri hanno votato in parte per AA e in parte per BB. Da ciò, è corretto affermare che:
 >
 > - **(A)** AA ha vinto con più di $47\%$ dei voti.
 > - **(B)** BB ha vinto con $47\%$ dei voti.
 > - **(C)** AA ha vinto con $51\%$ dei voti.
 > - **(D)** BB ha vinto con più di $43\%$ dei voti.
-> - **(E)** Le affermazioni precedenti non derivano dalle informazioni fornite.
+> - **(E)** Le affermazioni precedenti non discendono dalle informazioni fornite.
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n1_f1#q15|src_obm_2015_n1_f1__Q15]]
 
 
 
@@ -683,15 +807,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio delle sommazioni che figurano per iscritto nel 2015 come somma di tre numeri*
+*Conta i addendi che compaiono nella scrittura di 2015 come somma di tre numeri*
 
-> Esmeralda gioca a scrivere il numero 2015 come la somma di tre numeri, in ordine non decrescente, utilizzando tre sommand. Per esempio, $670 + 671 + 674 = 2015$ e $175 + 920 + 920 = 2015$. Si noti che nel secondo esempio il numero 920 appare due volte come una somma. Se scrivesse tutte le somme possibili, quanti numeri apparirebbero come una somma?
+> Esmeralda si diverte a scrivere il numero 2015 come somma di tre numeri, in ordine non decrescente, utilizzando tre addendi. Ad esempio, $670 + 671 + 674 = 2015$ e $175 + 920 + 920 = 2015$. Si noti che nel secondo esempio il numero 920 compare due volte come addendo. Se scrive tutte le somme possibili, quanti numeri comparirebbero come addendi?
 >
 > - **(A)** 100
 > - **(B)** 449
 > - **(C)** 450
 > - **(D)** 570
 > - **(E)** 999
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n1_f1#q16|src_obm_2015_n1_f1__Q16]]
 
 
 
@@ -725,9 +858,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Volume di una scatola dalle aree delle sue tre coppie di facce*
+*Volume di un parallelepipedo rettangolo a partire dalle aree delle sue tre coppie di facce*
 
-> Juliana realizzò la pianificazione (net) di una scatola di cartone con due facce bianche, due facce nere e due facce grigie. Le facce bianche hanno ciascuna superficie $35\,\text{cm}^2$, le facce nere hanno ciascuna superficie $21\,\text{cm}^2$ e le facce grigie $15\,\text{cm}^2$ ciascuna. Qual è il volume della scatola?
+> Juliana ha effettuato la pianificazione (netta) di una scatola di cartone con due facce bianche, due facce nere e due facce grigie. Le facce bianche hanno ciascuna area $35\,\text{cm}^2$, le facce nere hanno ciascuna area $21\,\text{cm}^2$, e quelle grigie hanno ciascuna area $15\,\text{cm}^2$. Qual è il volume della scatola?
 >
 > - **(A)** $25\,\text{cm}^3$
 > - **(B)** $60\,\text{cm}^3$
@@ -737,7 +870,14 @@ level: OBM Nível 1
 
 ![[src_obm_2015_n1_f1__q17.png]]
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n1_f1#q17|src_obm_2015_n1_f1__Q17]]
 
 
 
@@ -769,7 +909,7 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La n più piccola con 2n un quadrato perfetto e 3n un cubo perfetto*
+*Il più piccolo n tale che 2n sia un quadrato perfetto e 3n sia un cubo perfetto*
 
 > Il numero $5^2 = 25$ è un quadrato perfetto e il numero $4^3 = 64$ è un cubo perfetto. Qual è il più piccolo intero positivo $n$ il cui doppio è un quadrato perfetto e il cui triplo è un cubo perfetto?
 >
@@ -779,7 +919,14 @@ level: OBM Nível 1
 > - **(D)** 216
 > - **(E)** 256
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n1_f1#q18|src_obm_2015_n1_f1__Q18]]
 
 
 
@@ -812,9 +959,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di quadrilaterali ombrati in un triangolo equilaterale*
+*Area del quadrilatero ombreggiato in un triangolo equilatero*
 
-> Nel triangolo equilaterale $ABC$ della figura, il segmento $DA$ è il doppio del segmento $DB$ e il segmento $EC$ è il doppio di $EA$. Sapendo che l'area del triangolo $ABC$ è uguale a $162\,\text{cm}^2$, qual è l'area, in $\text{cm}^2$, del quadrilaterale ombrato?
+> Nel triangolo equilatero $ABC$ della figura, il segmento $DA$ è il doppio del segmento $DB$ e il segmento $EC$ è il doppio di $EA$. Sapendo che l'area del triangolo $ABC$ è uguale a $162\,\text{cm}^2$, qual è l'area, in $\text{cm}^2$, del quadrilatero ombreggiato?
 >
 > - **(A)** 126
 > - **(B)** 132
@@ -824,7 +971,13 @@ level: OBM Nível 1
 
 ![[src_obm_2015_n1_f1__q19.png]]
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n1_f1#q19|src_obm_2015_n1_f1__Q19]]
 
 
 
@@ -861,18 +1014,27 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massime palle spostate in urna verde secondo la regola del divisore*
+*Numero massimo di sfere spostate nell'urna verde secondo la regola del divisore*
 
-> Una urna rossa contiene 20 palle, numerate da 1 a 20, e una urna verde è vuota.
+> Un'urna rossa contiene 20 palline numerate da 1 a 20, e un'urna verde è vuota.
 >
-> i) Maria prende una palla, ne mostra il numero a João e la mette nell'urna verde.
+> i) Maria prende una palla, mostra il suo numero a João e la mette nell'urna verde.
 >
-> ii) João prende dall'urna rossa tutte le palle i cui numeri sono divisori del numero indicato da Maria e le colloca nell'urna verde.
+> ii) João prende dall'urna rossa tutte le palline i cui numeri sono divisori del numero indicato da Maria e le mette nell'urna verde.
 >
-> Le fasi i) e ii) sono ripetute successivamente fino al momento in cui la fase ii) non può più essere eseguita. Quante palle possono essere messe nella urna verde?
+> I passaggi i) e ii) vengono ripetuti in sequenza finché il passaggio ii) non può più essere eseguito. Al massimo, quante palline si possono mettere nell'urna verde?
 >
 > - **(A)** 12
 > - **(B)** 14
 > - **(C)** 15
 > - **(D)** 16
 > - **(E)** 17
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n1_f1#q20|src_obm_2015_n1_f1__Q20]]

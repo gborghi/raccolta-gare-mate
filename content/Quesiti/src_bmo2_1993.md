@@ -33,13 +33,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma dell'angolo più piccolo per un triangolo inciso con angoli unitari distinti*
-
-> Di solito misuriamo gli angoli in gradi, ma possiamo usare qualsiasi altra unità che scegliamo. Ad esempio, se diciamo $30^\circ$ è una nuova unità, allora gli angoli di un triangolo $30^\circ$, $60^\circ$, $90^\circ$ sarebbero uguali a $1$, $2$, $3$ nuove unità rispettivamente. Il diagramma mostra un triangolo $ABC$ con un secondo triangolo $DEF$ inserito in esso. Tutti gli angoli del diagramma sono multipli di qualche nuova (non nota) unità; le loro dimensioni $a, b, c, d, e, f, g, h, k$ rispetto a questa nuova unità angolare sono tutte distinte.
-> 
-> Trova il minimo valore possibile di $a + b + c$ per il quale si può scegliere un'unità di angolo e segna i valori corrispondenti degli angoli $a, \ldots, k$ nel diagramma.
+*Il minimo di $a + b + c$ per un'unità d'angolo con tutti gli angoli distinti*
 
 ![[src_bmo2_1993__q01.png]]
+
+> Di solito gli angoli si misurano in gradi, ma si può usare qualunque altra unità. Per esempio, se si dice che $30^\circ$ è una nuova unità, allora gli angoli di un triangolo $30^\circ$, $60^\circ$, $90^\circ$ sarebbero uguali rispettivamente a $1$, $2$, $3$ nuove unità. La figura mostra un triangolo $ABC$ con un secondo triangolo $DEF$ inscritto. Tutti gli angoli della figura sono multipli di una nuova unità (sconosciuta); le loro misure $a, b, c, d, e, f, g, h, k$ rispetto a questa nuova unità d'angolo sono tutte distinte.
+>
+> Trovare il minimo valore possibile di $a + b + c$ per cui si possa scegliere una tale unità d'angolo, e segnare i valori corrispondenti degli angoli $a, \ldots, k$ nella figura.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1993#q01|src_bmo2_1993__Q01]]
 
 
 
@@ -62,9 +69,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova $2^{m-1} \equiv 1 \pmod{m}$ per il tipo Mersenne $m$*
+*Se $m = 2^p - 1$ con $p$ primo maggiore di 3, allora $2^{m-1}$ ha resto 1 modulo $m$*
 
-> Let $m = 2^p - 1$, dove $p$ è un numero primo superiore a $3$. Prove che $2^{m-1}$ ha un residuo $1$ diviso per $m$.
+> Sia $m = 2^p - 1$, dove $p$ è un numero primo maggiore di $3$. Dimostrare che $2^{m-1}$ ha resto $1$ nella divisione per $m$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1993#q02|src_bmo2_1993__Q02]]
 
 
 
@@ -90,9 +104,19 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova $PA\sin\alpha = PB\sin\beta = PC\sin\gamma$ per il punto interno*
+*Dimostrare che $PA \cdot \sin \alpha = PB \cdot \sin \beta = PC \cdot \sin \gamma$*
 
-> Che $P$ sia un punto interno del triangolo $ABC$ e che $\alpha$, $\beta$, $\gamma$ siano definiti da $$\alpha = \angle BPC - \angle BAC, \quad \beta = \angle CPA - \angle CBA, \quad \gamma = \angle APB - \angle ACB.$$ Provi che $$PA \cdot \sin \alpha = PB \cdot \sin \beta = PC \cdot \sin \gamma.$$
+> Sia $P$ un punto interno del triangolo $ABC$ e siano $\alpha$, $\beta$, $\gamma$ definiti da
+> $$\alpha = \angle BPC - \angle BAC, \quad \beta = \angle CPA - \angle CBA, \quad \gamma = \angle APB - \angle ACB.$$
+> Dimostrare che
+> $$PA \cdot \sin \alpha = PB \cdot \sin \beta = PC \cdot \sin \gamma.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1993#q03|src_bmo2_1993__Q03]]
 
 
 
@@ -115,6 +139,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medio delle somme di differenze digitali su tutti i numeri $m$ a cifre fisse*
+*Il valore medio di $d(N)$ su $Z(m, n)$*
 
-> Indichiamo $Z(m, n)$ l'insieme di tutti gli integri positivi a $m$-cifre (in base $10$) che hanno precisamente $a$, $b$ due, $c$ tre, $\ldots$, $n$ nove (in modo che $a + b + \cdots + n \le m$, con le cifre rimanenti siano zeri). Per ogni $N \in Z(m, n)$, definire $d(N)$ come la somma dei valori assoluti di tutte le differenze in coppia dei numeri consecutivi di $N$. Trova il valore medio di $d(N)$ in quanto $N$ si estende su tutti i possibili elementi di $Z(m, n)$.
+> Sia $Z(m, n)$ l'insieme di tutti gli interi positivi di $m$ cifre (in base $10$) che hanno esattamente $a$ uni, $b$ due, $c$ tre, $\ldots$, $n$ nove (così $a + b + \cdots + n \le m$, e le cifre rimanenti sono zeri). Per ogni $N \in Z(m, n)$, si definisca $d(N)$ come la somma dei valori assoluti di tutte le differenze a due a due delle cifre consecutive di $N$. Trovare il valore medio di $d(N)$ al variare di $N$ su tutti gli elementi possibili di $Z(m, n)$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1993#q04|src_bmo2_1993__Q04]]

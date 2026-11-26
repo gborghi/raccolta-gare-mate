@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max contatori su scacchi evitando cinque in ogni riga*
+*Massimizza i pedoni sulla scacchiera evitando cinque in qualsiasi linea*
 
-> Isaac colloca alcuni contatori sui quadrati di un $8$ da una scacchiera $8$ in modo che ci sia al massimo un contatore in ciascuno dei quadrati $64$. Determinare, con giustificazione, il numero massimo che può inserire senza avere cinque o più contatori nella stessa riga, nella stessa colonna o su una delle due lunghe diagonali.
+> Isaac posiziona alcuni segnalini sulle caselle di una scacchiera di dimensioni $8$ per $8$ in modo che in ciascuna delle $64$ caselle vi sia al più un segnalino. Determina, fornendo una giustificazione, il numero massimo di segnalini che può posizionare senza avere cinque o più segnalini nella stessa riga, o nella stessa colonna, o su una qualsiasi delle due diagonali lunghe.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2012-13_round1#q01|src_bmo_2012-13_round1__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi in contatto, tangente comune, diametro; dimostrare collinearità*
+*Due cerchi tangenti, tangente comune, diametro; dimostrare la collinearità*
 
-> Due cerchi $S$ e $T$ si toccano a $X$. Hanno una tangente comune che incontra $S$ a $A$ e $T$ a $B$. I punti $A$ e $B$ sono diversi. Il diametro di $AP$ deve essere di $S$. Provare che $B$, $X$ e $P$ si trovano su una linea retta.
+> Due cerchi $S$ e $T$ sono tangenti in $X$. Hanno una tangente comune che incontra $S$ in $A$ e $T$ in $B$. I punti $A$ e $B$ sono distinti. Sia $AP$ un diametro di $S$. Dimostrare che $B$, $X$ e $P$ giacciono su una stessa retta.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2012-13_round1#q02|src_bmo_2012-13_round1__Q02]]
 
 
 
@@ -80,11 +94,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova reali che soddisfano tre equazioni quadratiche simultanee*
+*Trovare i numeri reali che soddisfano tre equazioni quadratiche simultanee*
 
-> Trova tutti i numeri reali $x$, $y$ e $z$ che soddisfano le equazioni simultanee $x^2 - 4y + 7 = 0$, $y^2 - 6z + 14 = 0$ e $z^2 - 2x - 7 = 0$.
+> Trovare tutti i numeri reali $x$, $y$ e $z$ che soddisfano le equazioni simultanee $x^2 - 4y + 7 = 0$, $y^2 - 6z + 14 = 0$ e $z^2 - 2x - 7 = 0$.
 
-**Risposta:** x=1,\ y=2,\ z=3
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2012-13_round1#q03|src_bmo_2012-13_round1__Q03]]
 
 
 
@@ -107,9 +126,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova i numeri interi positivi n con quadrati perfetti 12n-119 e 75n-539*
+*Trovare numeri interi positivi n tali che 12n-119 e 75n-539 siano quadrati perfetti*
 
-> Trova tutti gli integri positivi $n$ in modo che $12n - 119$ e $75n - 539$ siano entrambi quadrati perfetti.
+> Trovare tutti gli interi positivi $n$ tali che $12n - 119$ e $75n - 539$ siano entrambi quadrati perfetti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2012-13_round1#q04|src_bmo_2012-13_round1__Q04]]
 
 
 
@@ -133,11 +159,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con lati non più di 2, 3, 4; superficie massima*
+*Triangolo con lati al più 2, 3, 4; area massima*
 
-> Un triangolo ha lati di lunghezza massima $2$, $3$ e $4$ rispettivamente. Determinare, con prova, l'area massima possibile del triangolo.
+> Un triangolo ha lati di lunghezza al più $2$, $3$ e $4$, rispettivamente. Determinare, con dimostrazione, l'area massima possibile del triangolo.
 
-**Risposta:** 3
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2012-13_round1#q05|src_bmo_2012-13_round1__Q05]]
 
 
 
@@ -159,6 +190,12 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi tangenti in triangolo; D è il punto medio di AE*
+*Due cerchi tangenti nel triangolo; D è il punto medio di AE*
 
-> Lasciate che $ABC$ sia un triangolo. Il circolo attraverso $S$ sia tangente a $B$ a $CA$ a $A$ e il circolo attraverso $C$ sia tangente a $AB$ a $A$. I cerchi $S$ e $T$ si intersecano a $A$ e $D$. $E$ è il punto in cui la linea $AD$ incontra il cerchio $ABC$. Provare che $D$ è il punto medio di $AE$.
+> Sia $ABC$ un triangolo. Sia $S$ la circonferenza passante per $B$ e tangente a $CA$ in $A$, e sia $T$ la circonferenza passante per $C$ e tangente a $AB$ in $A$. Le circonferenze $S$ e $T$ si intersecano nei punti $A$ e $D$. Sia $E$ il punto in cui la retta $AD$ incontra la circonferenza $ABC$. Dimostrare che $D$ è il punto medio di $AE$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2012-13_round1#q06|src_bmo_2012-13_round1__Q06]]

@@ -32,9 +32,19 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum numero di valori distinti tra 14 somme del sottosetto*
+*Numero minimo di valori distinti tra 14 somme di sottoinsiemi*
 
-> Lasciate che $a, b, c, d$ siano numeri reali positivi separati in coppia. Tra i seguenti numeri reali $$a,\quad b,\quad c,\quad d,\quad a+b,\quad a+c,\quad a+d,\quad b+c,\quad b+d,\quad c+d,$$ $$a+b+c,\quad a+b+d,\quad a+c+d,\quad b+c+d,\quad a+b+c+d$$ il numero di valori distinti che appaiono è stato esattamente $k$. Trova il valore minimo possibile di $k$.
+> Sia $a, b, c, d$ un insieme di numeri reali positivi tutti distinti a due a due. Tra i seguenti numeri reali
+> $$a,\quad b,\quad c,\quad d,\quad a+b,\quad a+c,\quad a+d,\quad b+c,\quad b+d,\quad c+d,$$
+> $$a+b+c,\quad a+b+d,\quad a+c+d,\quad b+c+d,\quad a+b+c+d$$
+> il numero di valori distinti che compaiono è stato esattamente $k$. Determinare il valore minimo possibile di $k$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jegmo14q#q01|src_jegmo14q__Q01]]
 
 
 
@@ -57,9 +67,16 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro punti conciclici dal bisettore e dal circoncircolo dell'angolo orthocentrico*
+*Quattro punti conciclici derivanti dall'asse bisettrice dell'angolo relativo all'ortocentro e dalla circonferenza circoscritta*
 
-> Lasciate che $ABC$ sia un triangolo acuto che soddisfi $AB < AC$ e $\angle BAC = 60^\circ$, e lasciate che $H$ sia il suo centro orto. Il $P$ deve essere l'intersezione del bisettore di $\angle BHC$ con il lato $BC$. Tra i punti di intersezione del bisettore perpendicolare del lato $BC$ con il circoncircolo del triangolo $ABC$, $M$ sia quello che si trova sullo stesso lato della linea $BC$ come $A$, e $N$ sia quello che si trova sul lato opposto. Indicare che i quattro punti $H$, $M$, $N$, $P$ si trovano su un singolo cerchio. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Sia $ABC$ un triangolo acuto che soddisfa $AB < AC$ e $\angle BAC = 60^\circ$, e sia $H$ il suo ortocentro. Sia $P$ l'intersezione della bisettrice di $\angle BHC$ con il lato $BC$. Tra i punti di intersezione dell'asse della perpendicolare al lato $BC$ con la circonferenza circoscritta al triangolo $ABC$, sia $M$ quello che giace sullo stesso lato della retta $BC$ rispetto a $A$, e sia $N$ quello che giace sul lato opposto. Dimostrare che i quattro punti $H$, $M$, $N$, $P$ giacciono su un'unica circonferenza. Qui, $XY$ denota la lunghezza del segmento $XY$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jegmo14q#q02|src_jegmo14q__Q02]]
 
 
 
@@ -84,9 +101,18 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi n con n = phi(n) + 2 phi(phi(n))*
+*Trovare tutti gli interi positivi n tali che n = phi(n) + 2 phi(phi(n))*
 
-> Trova tutti gli integri positivi $n$ che soddisfano $$n = \phi(n) + 2\phi\big(\phi(n)\big).$$ Qui, $\phi(n)$ indica il numero di integri da $1$ a $n$ che sono coprime a $n$.
+> Trovare tutti gli interi positivi $n$ che soddisfano
+> $$n = \phi(n) + 2\phi\big(\phi(n)\big).$$
+> Qui, $\phi(n)$ denota il numero di interi compresi tra $1$ e $n$ che sono coprimi con $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jegmo14q#q03|src_jegmo14q__Q03]]
 
 
 
@@ -113,13 +139,20 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di pietre lasciate nella casella 1 dopo le operazioni di spostamento delle pietre*
+*Numero minimo di pietre rimaste nella scatola 1 dopo le operazioni di spostamento delle pietre*
 
-> Ci sono caselle $2025$ numerate $1, 2, \ldots, 2025$ e per ogni numero intero $i$ con $1 \le i \le 2025$, la casella $i$ contiene inizialmente le pietre $2^{i-1}$. Si ripete la seguente operazione.
-> 
-> Selezionare un intero $n \ge 2$ e un intero $a_1, a_2, \ldots, a_n$ che soddisfi $1 \le a_1 < a_2 < \cdots < a_n \le 2025$ in modo tale che per ogni intero $i$ con $2 \le i \le n$, la casella $a_i$ contenga almeno una pietra. Mettere la pietra $1$ nella casella $a_1$ e togliere una pietra dalla casella $a_i$ per ogni numero intero $i$ con $2 \le i \le n$.
-> 
-> Quando si raggiunge lo stato in cui nessuna casella diversa dalla casella $1$ contiene pietre, l'operazione viene interrotta. Trova il valore minimo possibile del numero di pietre nella casella $1$ quando l'operazione è terminata.
+> Ci sono $2025$ scatole numerate $1, 2, \ldots, 2025$, e per ogni intero $i$ tale che $1 \le i \le 2025$, la scatola $i$ contiene inizialmente $2^{i-1}$ pietre. Si ripete l'operazione seguente.
+>
+> Si sceglie un intero $n \ge 2$ e degli interi $a_1, a_2, \ldots, a_n$ che soddisfano $1 \le a_1 < a_2 < \cdots < a_n \le 2025$ in modo che, per ogni intero $i$ tale che $2 \le i \le n$, la scatola $a_i$ contenga almeno una pietra. Si mette $1$ pietre nella scatola $a_1$ e, per ogni intero $i$ tale che $2 \le i \le n$, si toglie una pietra dalla scatola $a_i$.
+>
+> Quando si raggiunge lo stato in cui nessuna scatola diversa dalla scatola $1$ contiene pietre, l'operazione termina. Si determini il valore minimo possibile del numero di pietre nella scatola $1$ quando l'operazione è terminata.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jegmo14q#q04|src_jegmo14q__Q04]]
 
 
 
@@ -144,6 +177,15 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale che coinvolge la funzione del pavimento*
+*Equazione funzionale che coinvolge la funzione parte intera*
 
-> Trovare tutte le funzioni $f$ definite sui numeri reali e prendere valori reali in modo tale che per tutti i numeri reali $x, y$, $$f(x)\,f\big(f(x) + y\big) = f(x)^2 + [x][y]$$ sia valido. Qui, per un numero reale $r$, $[r]$ indica il numero intero più grande inferiore o uguale a $r$; ad esempio $[3.14] = 3$, $[5] = 5$, $[-2.71] = -3$.
+> Trovare tutte le funzioni $f$ definite sui numeri reali e a valori reali tali che, per tutti i numeri reali $x, y$,
+> $$f(x)\,f\big(f(x) + y\big) = f(x)^2 + [x][y]$$
+> vale. Qui, per un numero reale $r$, $[r]$ denota il più grande intero minore o uguale a $r$; per esempio, $[3.14] = 3$, $[5] = 5$, $[-2.71] = -3$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jegmo14q#q05|src_jegmo14q__Q05]]

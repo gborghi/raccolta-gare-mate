@@ -32,13 +32,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Min somma di 4 numeri su una faccia cubica*
+*Somma minima di 4 numeri su una faccia di un cubo*
 
-> Mettere i numeri $1, 2, 3, 4, 5, 6, 7$ e $8$ alle vertici di un cubo, in modo che la somma di tutti e tre i numeri su qualsiasi faccia non sia inferiore a $10$. Trova la somma minima dei quattro numeri su una faccia.
+> Colloca i numeri $1, 2, 3, 4, 5, 6, 7$ e $8$ sui vertici di un cubo, in modo che la somma di tre numeri qualsiasi su una faccia qualsiasi non sia inferiore a $10$. Determinare la somma minima dei quattro numeri su una faccia.
 
 ![[src_cn_cwmo_2003__q01.png]]
 
-**Risposta:** 16
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2003#q01|src_cn_cwmo_2003__Q01]]
 
 
 
@@ -61,9 +66,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta massima della differenza di due semisumi data la somma delle differenze al quadrato*
+*Valore massimo della differenza di due semisomme data la somma dei quadrati delle differenze*
 
-> $a_1, a_2, \ldots, a_{2n}$ siano numeri reali con $\sum_{k=1}^{2n-1}(a_{k+1} - a_k)^2 = 1$. Trova il valore massimo di $(a_{n+1} + a_{n+2} + \cdots + a_{2n}) - (a_1 + a_2 + \cdots + a_n)$.
+> Sia $a_1, a_2, \ldots, a_{2n}$ un insieme di numeri reali con $\sum_{k=1}^{2n-1}(a_{k+1} - a_k)^2 = 1$. Determinare il valore massimo di $(a_{n+1} + a_{n+2} + \cdots + a_{2n}) - (a_1 + a_2 + \cdots + a_n)$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2003#q02|src_cn_cwmo_2003__Q02]]
 
 
 
@@ -86,9 +98,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum integro positivo d diviso sufficienti numeri dispari consecutivi*
+*Minimo intero positivo d che divide abbastanza numeri dispari consecutivi*
 
-> $n$ sia un dato numero intero positivo. Trova il numero intero meno positivo $d$ in modo tale che in ogni numero pari positivo successivo $n$ il numero di numeri interi non divisibili da $d$ non sia inferiore al numero di numeri interi divisibili da $d$ in $1, 3, 5, \ldots, 2n-1$.
+> Sia $n$ un intero positivo dato. Determinare il minimo intero positivo $d$ tale che, in ogni insieme di $n$ numeri dispari positivi consecutivi, il numero di interi non divisibili per $d$ non sia inferiore al numero di interi divisibili per $d$ in $1, 3, 5, \ldots, 2n-1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cwmo_2003#q03|src_cn_cwmo_2003__Q03]]
 
 
 
@@ -113,11 +132,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove ABCD è parallelo se la somma delle distanze da qualsiasi punto interno è costante*
+*Dimostrare che ABCD è un parallelogrammo se la somma delle distanze da un qualsiasi punto interno è costante*
 
-> Supponiamo che la somma delle distanze da qualsiasi punto $P$ su un quadrilaterale converso $ABCD$ alle linee $AB$, $BC$, $CD$ e $DA$ sia costante. Provare che $ABCD$ è un parallelo.
+> Supponiamo che la somma delle distanze da un qualunque punto $P$ appartenente a un quadrilatero convesso $ABCD$ alle rette $AB$, $BC$, $CD$ e $DA$ sia costante. Dimostrare che $ABCD$ è un parallelogramma.
 
 ![[src_cn_cwmo_2003__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2003#q04|src_cn_cwmo_2003__Q04]]
 
 
 
@@ -140,9 +166,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con a_0=0 e ricorrenza radicale; prove che i termini sono interi*
+*Successione con a_0=0 e ricorrenza radicale; dimostrare che i termini sono interi*
 
-> Se $\{a_n\}$ è una sequenza di numeri con $a_0 = 0$ e $a_{n+1} = \delta a_n - \sqrt{(\delta^2 - 1) \cdot 3 a_n^2 + 1}$, $n = 0, 1, 2, \ldots$ dimostri che la sequenza $\{a_n\}$ è composta da integri e che $a_{n+1} \ge 2a_n - 1$ per tutti $n \ge 0$.
+> Sia $\{a_n\}$ una successione numerica con $a_0 = 0$ e $a_{n+1} = \delta a_n - \sqrt{(\delta^2 - 1) \cdot 3 a_n^2 + 1}$, $n = 0, 1, 2, \ldots$. Dimostrare che la successione $\{a_n\}$ è composta da interi e che $a_{n+1} \ge 2a_n - 1$ per tutti gli $n \ge 0$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2003#q05|src_cn_cwmo_2003__Q05]]
 
 
 
@@ -167,11 +200,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo EFGH se ABCD ciclico, cerchio inciso in quadrilaterale*
+*Il rettangolo EFGH se e solo se ABCD è ciclico, cerchio inscritto nel quadrilatero*
 
-> Supponiamo che il quadrilaterale convex $ABCD$ abbia un cerchio inciso. Il cerchio tocca rispettivamente $AB$, $BC$, $CD$, $DA$ a $A_1$, $B_1$, $C_1$ e $D_1$. Il $H$ deve essere il punto medio di $D_1 A_1$ e le linee $A_1 B_1$ e $D_1 C_1$ devono incontrarsi al $E$. Le linee $F$ e $G$ devono essere i punti di mezzo dei lati $B_1 C_1$ e $D_1 A_1$ rispettivamente, e le linee $A_1 D_1$ e $B_1 C_1$ devono incontrarsi al punto $I$. Prova che $E$, $F$, $G$, $H$ si trovano su un cerchio se e solo se $ABCD$ è un quadrilaterale ciclico.
+> Supponiamo che il quadrilatero convesso $ABCD$ abbia una circonferenza inscritta. La circonferenza è tangente a $AB$, $BC$, $CD$, $DA$ rispettivamente nei punti $A_1$, $B_1$, $C_1$, $D_1$. Sia $H$ il punto medio di $D_1 A_1$, e le rette $A_1 B_1$ e $D_1 C_1$ si incontrino in $E$. Siano $F$ e $G$ i punti medi dei lati $B_1 C_1$ e $D_1 A_1$ rispettivamente, e le rette $A_1 D_1$ e $B_1 C_1$ si incontrino nel punto $I$. Dimostrare che $E$, $F$, $G$, $H$ giacciono su una circonferenza se e solo se $ABCD$ è un quadrilatero ciclico.
 
 ![[src_cn_cwmo_2003__q06.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2003#q06|src_cn_cwmo_2003__Q06]]
 
 
 
@@ -194,9 +234,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza per i valori reali non negativi sommati a 1 attraverso frazioni ponderate*
+*Disuguaglianza per numeri reali non negativi la cui somma è 1 tramite frazioni ponderate*
 
-> $r_1, r_2, \ldots, r_n$ siano numeri reali non negativi con $\sum_{i=1}^{n} \frac{r_i}{i + r_i} = 1$. Prove che $\sum_{i=1}^{n} \frac{r_i}{4i - 1} \le 1$.
+> Siano $r_1, r_2, \ldots, r_n$ numeri reali non negativi tali che $\sum_{i=1}^{n} \frac{r_i}{i + r_i} = 1$. Dimostrare che $\sum_{i=1}^{n} \frac{r_i}{4i - 1} \le 1$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2003#q07|src_cn_cwmo_2003__Q07]]
 
 
 
@@ -219,6 +266,13 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimedio sul numero di ragazzi in seduta*
+*Vincolato al numero di studenti maschi nella disposizione dei posti*
 
-> Organizzare gli studenti $1650$ nelle righe $22$ per colonne $75$. È noto che per due colonne il numero di volte in cui due studenti della stessa riga sono dello stesso sesso non supera $11$. Dimostrare che il numero di ragazzi non supera $928$.
+> Disponi gli studenti $1650$ in $22$ righe e $75$ colonne. È noto che, per qualsiasi coppia di colonne, il numero di occasioni in cui due studenti della stessa riga sono dello stesso sesso non supera $11$. Dimostrare che il numero di studenti maschi non supera $928$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cwmo_2003#q08|src_cn_cwmo_2003__Q08]]

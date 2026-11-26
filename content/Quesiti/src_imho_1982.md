@@ -33,13 +33,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale per interi non negativi, determinare f(1982)*
+*Equazione funzionale per gli interi non negativi: trovare f(1982)*
 
-> La funzione $f(n)$ è definita per tutti gli interi non negativi $n$ e assume valori in interi non negativi. Inoltre, per tutti gli $m, n$:
+> La funzione $f(n)$ è definita per tutti gli interi non negativi $n$ e assume valori interi non negativi. Inoltre, per tutti gli $m, n$:
 > $$f(m+n) - f(m) - f(n) = 0 \text{ or } 1$$
 > $f(2) = 0,\; f(3) > 0,\; f(9999) = 3333$.
-> 
+>
 > Determinare $f(1982)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1982#q01|src_imho_1982__Q01]]
 
 
 
@@ -62,9 +69,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riflessioni nel triangolo e rette concorrenti tramite bisettrice angolare*
+*Riflessioni triangolari e rette concorrenti tramite la bisettrice dell'angolo*
 
-> Sia dato un triangolo acutangolo $A_1 A_2 A_3$ non isoscele, con lati $a_1, a_2, a_3$ ($a_i$ è il lato opposto a $A_i$). Per ogni $i = 1, 2, 3$, sia $M_i$ il punto medio del lato $a_i$ e $T_i$ il punto in cui la circonferenza inscritta tocca il lato $a_i$. Sia $S_i$ la riflessione di $T_i$ rispetto alla bisettrice interna dell'angolo $A_i$. Si dimostri che le rette $M_1 S_1$, $M_2 S_2$, $M_3 S_3$ sono concorrenti.
+> È dato un triangolo non isoscele $A_1 A_2 A_3$ con lati $a_1, a_2, a_3$ ($a_i$ è il lato opposto a $A_i$). Per ogni $i = 1, 2, 3$, $M_i$ è il punto medio del lato $a_i$, e $T_i$ è il punto in cui l'incirconferenza tocca il lato $a_i$. Si indichi con $S_i$ il riflesso di $T_i$ rispetto alla bisettrice interna dell'angolo $A_i$. Dimostrare che le rette $M_1 S_1$, $M_2 S_2$, $M_3 S_3$ sono concorrenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1982#q02|src_imho_1982__Q02]]
 
 
 
@@ -94,18 +108,23 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successione infinita di numeri reali positivi: dimostrare un limite inferiore e determinare una successione con limite superiore*
+*Successione infinita di numeri reali positivi: dimostrare una minorante e trovare una successione con maggiorante*
 
 > Si considerino le successioni infinite $\{x_i\}$ di numeri reali positivi con le seguenti proprietà:
 > $$x_0 = 1, \text{ and for all } i \ge 0,\; x_{i+1} \le x_i.
 > $$
->
-> (a) Si dimostri che per ogni tale successione esiste un $n \ge 1$ tale che
+> (a) Dimostrare che per ogni tale successione esiste un $n \ge 1$ tale che
 > $$\frac{x_0^2}{x_1} + \frac{x_1^2}{x_2} + \cdots + \frac{x_{n-1}^2}{x_n} \ge 3.999.$$
->
-> (b) Si determini una tale successione per cui
+> (b) Trovare una tale successione per cui
 > $$\frac{x_0^2}{x_1} + \frac{x_1^2}{x_2} + \cdots + \frac{x_{n-1}^2}{x_n} < 4$$
 > per ogni $n \ge 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1982#q03|src_imho_1982__Q03]]
 
 
 
@@ -130,11 +149,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostrare che x^2 - 3xy + y^2 = n non ha soluzioni intere quando n = 2^(2891)*
+*Dimostrare che l'equazione x^2 - 3xy + y^2 = n non ammette soluzioni intere quando n = 2^(2891)*
 
-> Si dimostri che se $n$ è un intero positivo tale che l'equazione
+> Dimostrare che, se $n$ è un numero intero positivo tale che l'equazione
 > $$x^2 - 3xy + y^2 = n$$
-> ha una soluzione in numeri interi $(x, y)$, allora ne ha almeno tre. Si mostri che l'equazione non ha soluzioni in numeri interi quando $n = 2^{2891}$.
+> ammette una soluzione in numeri interi $(x, y)$, allora ammette almeno tre soluzioni di questo tipo. Mostra che l'equazione non ammette soluzioni in numeri interi quando $n = 2^{2891}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1982#q04|src_imho_1982__Q04]]
 
 
 
@@ -159,11 +185,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rapporto tra diagonali di esagono regolare e allineamento di B, M, N*
+*Rapporto delle diagonali dell'esagono regolare e collinearità di B, M, N*
 
-> Le diagonali $AC$ e $CE$ del esagono regolare $ABCDEF$ sono divise dai punti interni $M$ e $N$ rispettivamente in modo che
+> Le diagonali $AC$ e $CE$ dell'esagono regolare $ABCDEF$ sono divise rispettivamente dai punti interni $M$ e $N$, in modo che
 > $$\frac{AM}{AC} = \frac{CN}{CE} = r.$$
-> Determinare $r$ sapendo che $B$, $M$ e $N$ sono allineati.
+> Determinare $r$ se $B$, $M$, $N$ sono allineati.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1982#q05|src_imho_1982__Q05]]
 
 
 
@@ -186,6 +219,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Percorso nel quadrato che copre il bordo entro distanza 1/2, dimostrare che la lunghezza è ≥ 198*
+*Percorso in quadrato che copre il bordo entro distanza 1/2; dimostrare che la lunghezza è ≥ 198*
 
-> Sia $S$ un quadrato di lato 100, e sia $L$ un cammino contenuto in $S$ che non si interseca e formato da segmenti rettilinei $A_0A_1, A_1A_2, \cdots, A_{n-1}A_n$ di lunghezza $A_0 \neq A_n$. Si supponga che per ogni punto $P$ del bordo di $S$ esista un punto di $L$ ad una distanza da $P$ non maggiore di $1/2$. Si dimostri che esistono due punti $X$ e $Y$ in $L$ tali che la distanza tra $X$ e $Y$ non supera $1$, e la lunghezza della parte di $L$ compresa tra $X$ e $Y$ è almeno $198$.
+> Sia $S$ un quadrato con lati di lunghezza 100, e sia $L$ un percorso all'interno di $S$ che non si interseca con sé stesso e che è composto da segmenti di retta $A_0A_1, A_1A_2, \cdots, A_{n-1}A_n$ con $A_0 \neq A_n$. Si supponga che, per ogni punto $P$ del bordo di $S$, esista un punto di $L$ la cui distanza da $P$ non sia maggiore di $1/2$. Dimostrare che esistono due punti $X$ e $Y$ in $L$ tali che la distanza tra $X$ e $Y$ non sia maggiore di $1$, e che la lunghezza di quella parte di $L$ che giace tra $X$ e $Y$ non sia minore di $198$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imho_1982#q06|src_imho_1982__Q06]]

@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum pieces of the axle to be stored in the 1x1 square*
+*Minimum number of rod pieces to be placed in the 1x1 square*
 
-> *(5 points) * A 10 metre pole shall be broken so that it is possible to store (possibly overlapping) all the pieces obtained in a square cardboard of 1 metre side. What's the minimum number of pieces to reach the goal?
+> *(5 points)* A 10-metre spear is to be broken so that all the resulting pieces can be stored (possibly stacked) inside a square piece of cardboard with sides 1 metre long. What is the minimum number of pieces that makes it possible to achieve the goal?
 
-**Answer:** 8
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_junior_maggio#qj1|src_kangourou_2009_junior_maggio__QJ1]]
 
 
 
@@ -59,9 +63,14 @@ level: kangourou
 
 *The number 29^28+4 is prime*
 
-> *(7 points)* Is the number $29^n + 4$ prime? Justify the answer.
+> *(7 points)* Is the number $29^n + 4$ prime? Justify your answer.
 
-**Answer:** no
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_junior_maggio#qj2|src_kangourou_2009_junior_maggio__QJ2]]
 
 
 
@@ -85,11 +94,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which sheets remain in the same position*
+*Which sheets remain in the same position?*
 
-> *(11 points) * Consider an ordered stack of 5998 sheets numbered from 1 (i.e. the first sheet at the top has the number 1). Now build a new stack like this: take the first sheet, put the second over the first and the third under the first; then repeat the process: the fourth sheet will go over the second and the fifth under the third, and so on. Once the operation is complete, will there be sheets that, in the new stack, will be in the same position as they were in the old one? If yes, which ones?
+> *(11 points)* Consider an ordered stack of 5998 sheets numbered starting from 1 (that is, the first sheet at the top bears the number 1). Now construct a new stack as follows: take the first sheet, place the second sheet on top of the first and the third sheet below the first; then continue by repeating the procedure: the fourth sheet will go on top of the second and the fifth sheet below the third, and so on. Once the operation is complete, will there be any sheets that, in the new stack, are in the same positions they occupied in the old stack? If so, which ones?
 
-**Answer:** 2000
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_junior_maggio#qj3|src_kangourou_2009_junior_maggio__QJ3]]
 
 
 
@@ -115,13 +129,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum path of the ant and farthest point*
+*Ant's shortest path and the farthest point*
 
 ![[src_kangourou_2009_junior_maggio__probj4.png]]
 
-> *(14 points) * An ant is free to move on the surface of a rectangular parallel-piped measuring $1 \times 1 \times 2$ meters, but not to enter it. Starting from a vertex, it wants to reach the antipodal vertex (i.e. the one farthest from it) by moving along the shortest path possible: how much distance must it cover? Is the opposite vertex the point of the parallelepiped farthest from the starting vertex (as long as it is bound to move on the surface)?
+> *(14 points)* An ant is free to move on the surface of a rectangular parallelepiped measuring $1 \times 1 \times 2$ metres, but cannot enter its interior. Starting from one vertex, it wants to reach the antipodal vertex (that is, the one farthest from it) by following the shortest possible path: how far must it travel? Is the opposite vertex the point on the parallelepiped farthest from the starting vertex (provided one is constrained to move on the surface)?
 
-**Answer:** sqrt8
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_junior_maggio#qj4|src_kangourou_2009_junior_maggio__QJ4]]
 
 
 
@@ -145,11 +164,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum red vertices with different distances (21-agon)*
+*Red apexes with different distances (21-gon)*
 
-> *(18 points) * Consider a regular polygon of 21 sides. You want to color some vertices red so that, however you choose two pairs of vertices both colored red, the distance between the vertices of one pair is different from that between the vertices of the other. How many vertices can you color?
+> *(18 points)* Consider a regular polygon with 21 sides. You want to color some vertices red so that, no matter which two pairs of vertices are both colored red are chosen, the distance between the vertices of one pair is different from the distance between the vertices of the other pair. What is the maximum number of vertices you can color?
 
-**Answer:** 5
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_junior_maggio#qj5|src_kangourou_2009_junior_maggio__QJ5]]
 
 
 
@@ -177,12 +201,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Moving coins on a 1000-gon (8x125 and 125x8)*
+*Coin transfer to 1000-gon (8x125 and 125x8)*
 
-> *(22 points)* At some vertices of a regular polygon with 1000 sides there are some coins (each vertex can host none, one or more than one). A move consists of the following operations: choose two coins and move one to the adjacent vertex in the clockwise direction and the other to the adjacent vertex in the counterclockwise direction. Starting from the situation in which there is exactly one coin at every vertex, is it possible to arrive with a finite number of moves at having:
-> a) 8 little piles of 125 coins each?
-> b) 125 little piles of 8 coins each?
-> 
+> *(22 points)* At some vertices of a regular polygon with 1000 sides, there are some coins (each vertex can have none, one, or more than one coin). A move consists of the following operations: choose two coins and move one to the adjacent vertex in a clockwise direction and the other to the adjacent vertex in a counterclockwise direction. Starting from the situation in which each vertex has exactly one coin, is it possible, in a finite number of moves, to end up with:
+> a) 8 piles each containing 125 coins?
+> b) 125 piles each containing 8 coins?
+>
 > Justify both answers.
 
-**Answer:** yes,no
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_junior_maggio#qj6|src_kangourou_2009_junior_maggio__QJ6]]

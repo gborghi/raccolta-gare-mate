@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare il d_n - c_n per n ragazze e n ragazzi attorno a una tavola rotonda*
+*Massimizza d_n - c_n per n ragazze e n ragazzi seduti attorno a un tavolo rotondo*
 
-> Trovare un modo per organizzare le ragazze e i ragazzi su una tavola rotonda per la quale il massimo è $d_n - c_n$, dove $d_n$ è il numero di ragazze sedute tra due ragazzi e $c_n$ il numero di ragazzi seduti tra due ragazze.
+> Trovare un modo per disporre $n$ ragazze e $n$ ragazzi attorno a un tavolo rotondo in modo che $d_n - c_n$ sia massimo, dove $d_n$ è il numero di ragazze sedute tra due ragazzi e $c_n$ è il numero di ragazzi seduti tra due ragazze.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1982_r3#q01|src_pol_1982_r3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale ciclico: linea attraverso il punto medio di AB e intersezione diagonale perpendicolare al CD*
+*Quadrilatero ciclico: la retta passante per il punto medio di AB e per l'intersezione delle diagonali è perpendicolare a CD*
 
-> In un quadrilaterale ciclico $ABCD$ la linea che attraversa il punto medio di $AB$ e il punto di intersezione dei diagonali è perpendicolare a $CD$. Prova che i lati $AB$ e $CD$ sono paralleli o che i diagonali sono perpendicolari.
+> In un quadrilatero ciclico $ABCD$, la retta che passa per il punto medio di $AB$ e per il punto di intersezione delle diagonali è perpendicolare a $CD$. Dimostrare che oppure i lati $AB$ e $CD$ sono paralleli oppure le diagonali sono perpendicolari.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1982_r3#q02|src_pol_1982_r3__Q02]]
 
 
 
@@ -82,9 +96,19 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie positive (x,y) che soddisfano x^2+y^2=a^2+b^2 e x^3+y^3=a^3+b^3*
+*Trovare tutte le coppie positive (x,y) che soddisfano x^2+y^2=a^2+b^2 e x^3+y^3=a^3+b^3*
 
-> Trova tutte le coppie di numeri positivi $(x, y)$ che soddisfano il sistema di equazioni $$x^2 + y^2 = a^2 + b^2,$$ $$x^3 + y^3 = a^3 + b^3,$$ dove $a$ e $b$ sono dati numeri positivi.
+> Trovare tutte le coppie di numeri positivi $(x, y)$ che soddisfano il sistema di equazioni
+> $$x^2 + y^2 = a^2 + b^2,$$
+> $$x^3 + y^3 = a^3 + b^3,$$
+> dove $a$ e $b$ sono numeri positivi dati.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1982_r3#q03|src_pol_1982_r3__Q03]]
 
 
 
@@ -109,9 +133,18 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coperire un punto di piano finito impostato da quadrati aperti con rapporto punti-per-area limitato*
+*Coprire un insieme finito di punti su un piano con quadrati aperti aventi un rapporto punti/area limitato*
 
-> In un piano viene dato un insieme finito di punti. Prova che i punti possono essere coperti da quadrati aperti $Q_1, Q_2, \ldots, Q_n$ in modo tale che $$1 \le \frac{N_j}{S_j} \le 4 \quad \text{for } j = 1, \ldots, n,$$, dove $N_j$ è il numero di punti del set all'interno del quadrato $Q_j$ e $S_j$ è l'area di $Q_j$.
+> Su un piano è dato un insieme finito di punti. Dimostrare che i punti possono essere coperti da quadrati aperti $Q_1, Q_2, \ldots, Q_n$ tali che
+> $$1 \le \frac{N_j}{S_j} \le 4 \quad \text{for } j = 1, \ldots, n,$$
+> dove $N_j$ è il numero di punti appartenenti all'insieme all'interno del quadrato $Q_j$ e $S_j$ è l'area di $Q_j$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_pol_1982_r3#q04|src_pol_1982_r3__Q04]]
 
 
 
@@ -136,9 +169,18 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di numeri interi ciclica con condizione di segno: dimostrare che una differenza di somme è divisibile per 4*
+*Successione ciclica di interi con condizione sul segno: dimostrare che una differenza di somme è divisibile per 4*
 
-> Gli integri $x_0, x_1, \ldots, x_{n-1}, x_n = x_0, x_{n+1} = x_1$ soddisfano la disuguaglianza $(-1)^k x_{k-1} x_{k+1} > 0$ per $k = 1, 2, \ldots, n$. Prova che la differenza $$\sum_{k=0}^{n-1} x_k - \sum_{k=0}^{n-1} |x_k|$$ è divisibile per $4$.
+> Gli interi $x_0, x_1, \ldots, x_{n-1}, x_n = x_0, x_{n+1} = x_1$ soddisfano la disuguaglianza $(-1)^k x_{k-1} x_{k+1} > 0$ per $k = 1, 2, \ldots, n$. Dimostrare che la differenza
+> $$\sum_{k=0}^{n-1} x_k - \sum_{k=0}^{n-1} |x_k|$$
+> è divisibile per $4$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1982_r3#q05|src_pol_1982_r3__Q05]]
 
 
 
@@ -161,6 +203,13 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma degli angoli diedrali in un tetraedro arbitrario è superiore a 2pi*
+*La somma degli angoli diedri in un tetraedro arbitrario supera 2π*
 
-> Prova che la somma degli angoli diedrali in un tetraedro arbitrario è maggiore di $2\pi$.
+> Dimostrare che la somma degli angoli diedri in un tetraedro arbitrario è maggiore di $2\pi$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1982_r3#q06|src_pol_1982_r3__Q06]]

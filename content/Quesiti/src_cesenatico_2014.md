@@ -33,11 +33,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers with n0 (without zero) proper divisor of n*
+*How many three-digit n have n0, obtained by deleting the zero digits, as a divisor different from n*
 
-> For every natural number n of 3 decimal digits (so with the first digit other than zero), we consider the number n0 obtained from n by removing its possible digits equal to zero. For example, if n is 205 then n0 is 25. Determine the number of three-digit integers n for which n0 is a divisor of n other than n.
+> For every natural number n with 3 decimal digits (so with the first digit different from zero), consider the number n0 obtained from n by deleting any digits of n that are equal to zero. For example, if n = 205 then n0 = 25.
+> Determine the number of three-digit integers n for which n0 is a divisor of n different from n.
 
-**Answer:** 93
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2014#q01|src_cesenatico_2014__Q01]]
 
 
 
@@ -67,9 +72,21 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*show angAPM=angPBA*
+*Prove that two angles are equal; the angle marks are a broken extraction*
 
-> Whether ABC is such a triangle that, said H the height foot driven by C, we have AH = 3 · HB. In addition,  M is the mean point of AB;  N is the mean point of AC;  P is the point on the opposite side of B to the straight AC such that NP = NC and PC = CB. Prove that APM is PBA.
+> Let ABC be a triangle such that, if H is the foot of the altitude from C, one has AH = 3 · HB. Let moreover:
+> – M be the midpoint of AB;
+> – N be the midpoint of AC;
+> – P be the point on the opposite side of B with respect to the line AC such that NP = NC and PC = CB.
+> Prove that\
+> APM = \
+> PBA.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2014#q02|src_cesenatico_2014__Q02]]
 
 
 
@@ -95,9 +112,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*MCD of a^n+(a+1)^n+(a+2)^n is power of 3*
+*Dn, the highest common factor of an + (a+1)n + (a+2)n, is a power of 3, and every power of 3 arises*
 
-> For every positive integer n, be Dn the greatest common divisor of all numbers of the form an + (a + 1)n + (a + 2)n as a varies between all positive integers. (a) Demonstrate that for every n, Dn is 3k for some whole k ≥0. (b) Demonstrate that for every k ≥0, there exists an integer n such that Dn = 3k.
+> For every positive integer n, let Dn be the highest common factor of all the numbers of the form an + (a + 1)n + (a + 2)n as a ranges over all positive integers.
+> (a) Prove that, for every n, Dn is of the form 3k for some integer k ≥ 0.
+> (b) Prove that, for every k ≥ 0, there exists an integer n such that Dn = 3k.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_induzione|Induction]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2014#q03|src_cesenatico_2014__Q03]]
 
 
 
@@ -123,9 +148,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*to show AX=2R*
+*The segment AX is 2R long*
 
-> On a center circumference A and radius R, four distinct points B, C, G, H are taken in such an order that G lies on the median of the triangle ABC extended by B, and H lies on the height extended by ABC extended by B. If X is the intersection between the AC and GH lines, it is shown that the AX segment is 2R long.
+> On a circle with centre A and radius R, four distinct points B, C, G and H are taken in that order, in such a way that G lies on the extension of the median of triangle ABC drawn from B, and H lies on the extension of the altitude of ABC drawn from B. Letting X be the intersection of the lines AC and GH, prove that the segment AX is 2R long.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2014#q04|src_cesenatico_2014__Q04]]
 
 
 
@@ -149,9 +180,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Intero as a sum of 2015 2014 two-way powers*
+*A positive integer that is a sum of 2015 distinct 2014th powers in at least two ways*
 
-> Demonstrate that there exists a positive integer that can be written as the sum of 2015 distinct positive integers x1 < x2 < · · < x2015 in at least two ways.
+> Prove that there exists a positive integer that can be written as a sum of 2015 distinct 2014th powers of positive integers x1 < x2 < · · < x2015 in at least two ways.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_induzione|Induction]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2014#q05|src_cesenatico_2014__Q05]]
 
 
 
@@ -180,8 +217,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum number of special boxes*
+*Special cells on a (2n+1) by (2n+1) board: at least 2n+1, an example with at most 4n, and the minimum*
 
-> A square chessboard (2n + 1) × (2n + 1), with n > 0, is coloured so that each box is white or black. A box is said to be special if there are at least one other box of the same colour in its row and at least one other box of the same colour in its column. (a) Demonstrate that there are at least 2n + 1 special boxes. (b) Provide an example where there are at most 4 special boxes. (c) Determine, in accordance with n, the minimum number of special boxes possible.
+> A square board (2n + 1) × (2n + 1), with n > 0, is coloured so that every cell is white or black. A cell is called special if there are at least n other cells of the same colour in its row, and at least n other cells of the same colour in its column.
+> (a) Prove that there exist at least 2n + 1 special cells.
+> (b) Give an example in which there are at most 4n special cells.
+> (c) Determine, as a function of n, the least possible number of special cells.
 
-**Answer:** 4n
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2014#q06|src_cesenatico_2014__Q06]]

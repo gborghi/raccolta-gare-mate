@@ -34,15 +34,20 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cyclic multiplication of ILANOM × 4 = MILAN*
+*Cyclic multiplication ILANOM × 4 = MILANO*
 
-> Consider the following multiplication, knowing that equal letters have equal digits and different letters have different digits:
-> 
+> Consider the following multiplication, knowing that identical letters correspond to identical digits and different letters correspond to different digits:
+>
 > $$\text{ILANOM} \times 4 = \text{MILANO}$$
-> 
-> Write down all the possible numerical solutions for the word MILANO.
+>
+> Write all possible numerical solutions for the word MILANO.
 
-**Answer:** 410256, 615384, 923076
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2014#q01|src_bocconi_squadre_2014__Q01]]
 
 
 
@@ -66,11 +71,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two-digit number product for 99 with third digit 5*
+*Product of a two-digit number multiplied by 99, with the third digit being 5*
 
-> A number of two digits equal to each other is multiplied by $99$. What will be the result of multiplication, knowing that it is a four-digit number and that its third digit (from left) is $5$?
+> A two-digit number with identical digits is multiplied by $99$. What will the result of the multiplication be, given that it is a four-digit number and that its third digit (counting from the left) is $5$?
 
-**Answer:** 4356
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2014#q02|src_bocconi_squadre_2014__Q02]]
 
 
 
@@ -94,11 +104,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flames for flooring 1 m × 1 m with 5 cm squares*
+*Matches to cover a 1 m × 1 m floor with 5 cm squares*
 
-> How many matches, $5$ cm long, is the minimum required to cover a square floor ($1\text{ m} \times 1\text{ m}$) with a square lattice of $5$ cm on the side?
+> What is the minimum number of matches, each $5$ cm long, needed to cover a square floor ($1\text{ m} \times 1\text{ m}$) with a grid of small squares with sides of $5$ cm?
 
-**Answer:** 840
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2014#q03|src_bocconi_squadre_2014__Q03]]
 
 
 
@@ -124,11 +139,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-The square root of the number 444...44111...11 - 555...55*
+*Square root of the number 444...44111...11 - 555...55*
 
-> Calculate the square root of the number: $$\underbrace{444\,\ldots\,44}_{\text{2006 volte la cifra }4}\underbrace{111\,\ldots\,11}_{\text{2006 volte la cifra }1} - \underbrace{555\,\ldots\,55}_{\text{2006 volte la cifra }5}$$ (the first addition is $4$ repeated $2006$ times followed by the number $1$ repeated also $2006$ times; the second addition is $5$ repeated $2006$ times).
+> Calculate the square root of the number:
+> $$\underbrace{444\,\ldots\,44}_{\text{2006 times the digit }4}\underbrace{111\,\ldots\,11}_{\text{2006 times the digit }1} - \underbrace{555\,\ldots\,55}_{\text{2006 times the digit }5}$$
+> (The first addend consists of the digit $4$ repeated $2006$ times, followed by the digit $1$ also repeated $2006$ times; the second addend consists of the digit $5$ repeated $2006$ times.)
 
-**Answer:** $\underbrace{666\,\ldots\,6}_{\text{digit }6\text{ repeated }2006\text{ times}}$ (the digit 6 repeated 2006 times)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2014#q04|src_bocconi_squadre_2014__Q04]]
 
 
 
@@ -154,13 +176,18 @@ The square root of the number 444...44111...11 - 555...55*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the segment connecting consecutive mediums in a rectangle inscribed in a circle with a diameter of 2 cm*
+*Length of the segment joining consecutive midpoints in a rectangle inscribed in a circle of diameter 2 cm*
 
-> Write any rectangle into a circle with a diameter of $2$ cm and consider the midpoints of its sides. What is the length of the segment connecting two of these consecutive mean points?
+> Inscribe any rectangle in a circle with a diameter of $2$ cm, and consider the midpoints of its sides. What is the length of the line segment joining two of these consecutive midpoints?
 
 ![[src_bocconi_squadre_2014__q05.png]]
 
-**Answer:** $1$ cm
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2014#q05|src_bocconi_squadre_2014__Q05]]
 
 
 
@@ -186,13 +213,18 @@ The square root of the number 444...44111...11 - 555...55*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio between area of new triangle and area of initial triangle with squares built on the sides*
+*Ratio of the area of the new triangle to the area of the initial triangle, with squares constructed on the sides*
 
-> Consider any triangle and, externally to it, the three squares constructed from its three sides. Combine the vertices liberi of these squares, and you get three new triangles. Write the number that gives the ratio of the area of one of the new triangles (the one on the right, for example) to the area of the original triangle.
+> Consider any triangle and, outside it, the three squares constructed on its three sides. Join the "free" vertices of these squares (in the figure, these are the dashed line segments); you will obtain three new triangles. Write the number that gives the ratio of the area of one of the new triangles (the one on the right, for example) to the area of the original triangle.
 
 ![[src_bocconi_squadre_2014__q06.png]]
 
-**Answer:** 1
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2014#q06|src_bocconi_squadre_2014__Q06]]
 
 
 
@@ -216,11 +248,16 @@ The square root of the number 444...44111...11 - 555...55*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integressive pairs (x,y) with (x-y) squared + 2y squared <= 27*
+*All pairs (x,y) such that (x-y)^2 + 2y^2 <= 27*
 
-> Write all the $(x, y)$ pairs of integers that satisfy the $(x - y)^2 + 2y^2 \le 27$ equality.
+> Write all pairs $(x, y)$ of integers that satisfy the equality $(x - y)^2 + 2y^2 \le 27$.
 
-**Answer:** $(-6,-1)$, $(+6,+1)$, $(-4,+1)$, $(+4,-1)$, $(0,-3)$, $(0,+3)$, $(-6,-3)$, $(+6,+3)$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_casework|Case analysis]], [[method_disuguaglianze|Inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2014#q07|src_bocconi_squadre_2014__Q07]]
 
 
 
@@ -244,11 +281,16 @@ The square root of the number 444...44111...11 - 555...55*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square tiles of 1 dm side to cover room 23 dm × 23 dm*
+*Square tiles, 1 dm on each side, for covering a room measuring 23 dm × 23 dm*
 
-> A floor of a square room of $23$ dm on the side is entirely covered by square tiles which may be $1$ dm on the side, or $2$ dm on the side, or $3$ dm on the side. How many $1$ dm tiles on the side will be needed to cover the entire floor?
+> The floor of a square room with sides of $23$ dm is entirely covered with square tiles that can have sides of $1$ dm, or $2$ dm, or again $3$ dm. What is the minimum number of tiles with sides of $1$ dm needed to cover the entire floor?
 
-**Answer:** 1 tile
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2014#q08|src_bocconi_squadre_2014__Q08]]
 
 
 
@@ -273,11 +315,17 @@ The square root of the number 444...44111...11 - 555...55*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real system solutions (x+y)^3=z, (y+z)^3=x, (z+x)^3=y*
+*Real solutions of the system (x+y)^3=z, (y+z)^3=x, (z+x)^3=y*
 
-> Find all the real solutions to the system consisting of the following three equations: $$(x + y)^3 = z, \quad (y + z)^3 = x, \quad (z + x)^3 = y$$
+> Find all real solutions of the system consisting of the following three equations:
+> $$(x + y)^3 = z, \quad (y + z)^3 = x, \quad (z + x)^3 = y$$
 
-**Answer:** $x = y = z = 0$ or $x = y = z = \pm\dfrac{\sqrt{2}}{4}$
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2014#q09|src_bocconi_squadre_2014__Q09]]
 
 
 
@@ -301,11 +349,16 @@ The square root of the number 444...44111...11 - 555...55*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of integers between 1 and 99 with no subset of sum of 100*
+*Maximum number of integers between 1 and 99 with no subset summing to 100*
 
-> Form a set by taking some of all the integers between $1$ and $99$. Each of these numbers must be considered only once, and the set you have formed must be such that it is impossible to consider any subset whose sum of elements is $100$. How many cards can your set contain?
+> Form a set by taking some of all the integers between $1$ and $99$. Each of these numbers must be considered only once, and the set you have formed must be such that it is impossible to consider any subset of it whose elements sum to $100$. What is the maximum number of cards your set can contain?
 
-**Answer:** 50
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2014#q10|src_bocconi_squadre_2014__Q10]]
 
 
 
@@ -329,11 +382,16 @@ The square root of the number 444...44111...11 - 555...55*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of each of the five chocolate eggs given weighting system*
+*Weight of each of the five chocolate eggs, given the weighing system*
 
-> In Nando's shop, after the Easter holidays, five chocolate eggs have come in. They are of two different types: some are empty and therefore lighter; others, when filled, are heavier. Nando referred to them as $A$, $B$, $C$, $D$, $E$. The eggs $A$ and $E$ together weigh $252$ g; the eggs $A$, $B$ and $C$ together weigh $420$ g; the eggs $B$, $C$, $D$ and $E$ together weigh $567$ g. What is the weight of each of the five eggs?
+> At Nando's shop, after the Easter holidays, five chocolate eggs were left over. They come in two different types: some are hollow and therefore lighter; others, which are filled, are heavier. Nando labeled them with the letters $A$, $B$, $C$, $D$, $E$. Eggs $A$ and $E$ together weigh $252$ g; eggs $A$, $B$, and $C$ together weigh $420$ g; eggs $B$, $C$, $D$, and $E$ together weigh $567$ g. What is the weight of each of the five eggs?
 
-**Answer:** $A = 126$ g; $B = 147$ g; $C = 147$ g; $D = 147$ g; $E = 126$ g
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2014#q11|src_bocconi_squadre_2014__Q11]]
 
 
 
@@ -360,9 +418,15 @@ The square root of the number 444...44111...11 - 555...55*
 
 *Maximum value of z in the system x+y+z=10, xy+yz+zx=12*
 
-> Find the greatest (real) value that can be assigned to $z$ so that the following system, consisting of two equations, admits real solutions: $$x + y + z = 10, \quad xy + yz + zx = 12$$
+> Find the greatest (real) value that can be assigned to $z$ such that the following system, consisting of two equations, has real solutions:
+> $$x + y + z = 10, \quad xy + yz + zx = 12$$
 
-**Answer:** $\dfrac{26}{3}$
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Inequalities]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2014#q12|src_bocconi_squadre_2014__Q12]]
 
 
 
@@ -388,13 +452,18 @@ The square root of the number 444...44111...11 - 555...55*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Common area ratio of triangle to square inside the large triangle*
+*Ratio of the area of the common part between the triangle and the square inside the large triangle*
 
-> Take as a unit of measurement the side of the inner square to the large square and write the area of the common part (in gray in the figure) to the triangle and the inner square to the large triangle.
+> Take the side length of the grid within the large square as the unit of measurement, and write down the area of the region common to the triangle and the square inside the large triangle (shaded in gray in the figure).
 
 ![[src_bocconi_squadre_2014__q13.png]]
 
-**Answer:** $\dfrac{11}{12}$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2014#q13|src_bocconi_squadre_2014__Q13]]
 
 
 
@@ -420,13 +489,18 @@ The square root of the number 444...44111...11 - 555...55*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the darkest part of two rectangles overlapping 8 cm × 2 cm with a common vertex*
+*Area of the darkest part of two overlapping rectangles, 8 cm × 2 cm, sharing a vertex*
 
-> In the figure, you see two rectangles, partially overlapping, that have the same size and a common vertex. Taking into account the information in the figure ($8$ cm, $2$ cm, and two segments indicated as equal), calculate the area of the darker part.
+> In the figure, you can see two rectangles that are partially overlapping, have the same dimensions, and share a vertex. Taking into account the information given in the figure ($8$ cm, $2$ cm, and two line segments indicated as equal), calculate the area of the darker part.
 
 ![[src_bocconi_squadre_2014__q14.png]]
 
-**Answer:** $70$ (in square units according to the scale of the figure)
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2014#q14|src_bocconi_squadre_2014__Q14]]
 
 
 
@@ -450,11 +524,16 @@ The square root of the number 444...44111...11 - 555...55*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial number of chocolates in each tray after exchanges between Chiara, Carla and Jacopo*
+*Initial number of chocolates in each tray after exchanges among Chiara, Carla, and Jacopo*
 
-> In Clara's room, there are three trays containing the same number of chocolates. Carla takes one out of one of the three trays and puts it back in one of the other two. Milena, in turn, takes two chocolates from one of the three trays and (resisting the temptation to eat them) puts them back in one of the other two. It's Jacopo's turn. He takes four chocolates from one of the three trays and puts them back in one of the other two. At this point, one of the three trays contains twice the number of chocolates in a second tray and three times the number of chocolates in a third tray. How many chocolates did each tray initially contain?
+> In Chiara's room, there are three trays, each containing the same number of chocolates. Carla takes one tray from one of the three trays and puts it back onto one of the other two trays. Milena, in turn, takes two chocolates from one of the three trays and (resisting the temptation to eat them) puts them back onto one of the other two trays. It is Jacopo's turn: he takes four chocolates from one of the three trays and puts them back onto one of the other two trays. At this point, one of the three trays contains twice as many chocolates as a second tray and three times as many chocolates as the third tray. How many chocolates did each tray contain initially?
 
-**Answer:** 11
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2014#q15|src_bocconi_squadre_2014__Q15]]
 
 
 
@@ -478,11 +557,16 @@ The square root of the number 444...44111...11 - 555...55*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum volume of parallel piped box with 1 cm cubes, full at maximum 40%*
+*Minimum volume of a parallelepipedal box containing 1-cm cubes, filled to at most 40%*
 
-> A parallel-piped box may be filled completely with cubes of $1$ cm on the side. If the largest number of cubes of $4$ cm $^3$ volume (the sides of the cubes parallel to the sides of the box) are placed in the box, the maximum $40\%$ of the box is filled. Find the minimum volume of the box that meets all of the above conditions.
+> A box shaped like a parallelepiped can be completely filled with cubes having an edge length of $1$ cm. If, instead, the greatest possible number of cubes with a volume of $4$ cm$^3$ is placed in the box (with the edges of the small cubes parallel to the edges of the box), at most $40\%$ of the box will be filled. Find the minimum volume of the box that satisfies all the preceding conditions.
 
-**Answer:** 30
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2014#q16|src_bocconi_squadre_2014__Q16]]
 
 
 
@@ -508,13 +592,18 @@ The square root of the number 444...44111...11 - 555...55*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A figure numbering seven regions of the figure with 1-7 without adjacent consecutive digits*
+*A digit in A, numbering seven regions of the figure from 1 to 7 such that no two adjacent regions have consecutive numbers*
 
-> Count the seven regions in the figure with the integers from $1$ to $7$ (the $3$, in fact, has already been entered) so that two regions that  touch each other do not have two consecutive digits. What number is in $A$?
+> Number the seven regions in the figure with the integers from $1$ to $7$ (the $3$, in fact, has already been entered) in such a way that two regions that "touch" do not have two consecutive digits. Which digit goes in $A$?
 
 ![[src_bocconi_squadre_2014__q17.png]]
 
-**Answer:** 1
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2014#q17|src_bocconi_squadre_2014__Q17]]
 
 
 
@@ -538,11 +627,16 @@ The square root of the number 444...44111...11 - 555...55*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Magic square 4×4 with constant symmetrical sum and 15.14 at the center of the fourth line*
+*4×4 magic square with constant symmetric sum and 15.14 at the center of the fourth row*
 
-> Dürer's magic square, contained in his famous Melancholia, has a peculiarity: the sum of two symmetrical numbers relative to the center of the square is always equal to half the magic sum (i.e. $17$). Find another magic square, with the numbers$15$and$14$written in this order in the middle of the fourth line, which has the same property.
+> Dürer's magic square, which appears in his famous "Melencolia", has a peculiarity: the sum of two numbers that are symmetric with respect to the center of the square is always equal to half of the magic sum (namely $17$). Find another magic square $4\times4$, with the numbers $15$ and $14$ written in this order at the center of the fourth row, that has the same property.
 
-**Answer:** Magic square: first row $[13,3,2,16]$, second row $[8,10,11,5]$, third row $[12,6,7,9]$, fourth row $[1,15,14,4]$ (and variants by symmetry)
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2014#q18|src_bocconi_squadre_2014__Q18]]
 
 
 
@@ -566,11 +660,16 @@ The square root of the number 444...44111...11 - 555...55*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of two-plate balanced comparisons to find the two heaviest of 128 objects*
+*Minimum number of comparisons using a two-pan balance to find the two heaviest among 128 objects*
 
-> What is the smallest number of comparisons, two to two, with a two-plate balance, needed to find the two heaviest objects among the $128$ assigned, all of different weight?
+> What is the minimum number of pairwise comparisons using a two-pan balance needed to find the two heaviest objects among $128$ assigned objects, all of which have different weights?
 
-**Answer:** 133
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_induzione|Induction]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2014#q19|src_bocconi_squadre_2014__Q19]]
 
 
 
@@ -594,8 +693,13 @@ The square root of the number 444...44111...11 - 555...55*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of regions in which 10 lines divide the plan
+*Maximum number of regions into which 10 lines divide the plane*
 
-> A straight divides the plan into two regions. How many regions, at most, do$10$ lines divide a plan?
+> A single straight line divides the plane into two regions. At most, into how many regions do $10$ straight lines divide a plane?
 
-**Answer:** 56
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_induzione|Induction]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2014#q20|src_bocconi_squadre_2014__Q20]]

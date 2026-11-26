@@ -34,11 +34,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expression value 4x4+4+4+4+4+4x4*
+*Evaluate the expression 4x4+4+4+4+4+4x4*
 
-> 4 x 4 + 4 + 4 + 4 + 4 + 4 x 4=? A) 96 B) 48 C) 100 D) 32 E) 384
+> 4 x 4 + 4 + 4 + 4 + 4 + 4 x 4=?
+> A) 96 
+> B) 48 
+> C) 100 
+> D) 32
+> E) 384
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q01|src_kangourou_2007_cadet_marzo__Q01]]
 
 
 
@@ -67,11 +76,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-In how many years will Billy be 10 years old
+*In how many years will Billy be 10 years old?*
 
-> Two years ago, Anna was eight times her brother Billy's age. Anna is 10 years old today. How many years from now will Billy be 10? A) 4 B) 5 C) 6 D) 7 E) 8
+> Two years ago, Anna was 8 times as old as her brother Billy. Today, Anna is 10 years old. In how many years will Billy be 10 years old?
+> A) 4 
+> B) 5 
+> C) 6 
+> D) 7 
+> E) 8
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q02|src_kangourou_2007_cadet_marzo__Q02]]
 
 
 
@@ -101,13 +119,22 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which hole the ball falls into (45 degrees)*
+*Into which hole does the ball fall (45 degrees)?*
 
 ![[src_kangourou_2007_cadet_marzo__prob3.png]]
 
-> A billiard ball hits the edge of the table at an angle of 45°, as shown in the figure. Which hole will he fall into? (a) A (b) B (c) C (d) D (e) in any
+> A billiard ball strikes the rail at a 45° angle, as shown in the figure. Into which pocket will it fall?
+> A) A
+> B) B
+> C) C
+> D) D
+> E) into none
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q03|src_kangourou_2007_cadet_marzo__Q03]]
 
 
 
@@ -138,13 +165,23 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of non-visible face points of the two dice*
+*Sum of the points on the unseen faces of the two dice*
 
 ![[src_kangourou_2007_cadet_marzo__prob4.png]]
 
-> What is the sum of the dots on the faces of the two dice that are not visible in the figure? A) 15 B) 12 C) 7 D) 27 E) a number different from the previous one
+> What is the sum of the numbers on the faces of the two dice that
+> Aren't they visible in the figure?
+> A) 15
+> B) 12
+> C) 7
+> D) 27
+> E) a number different from the preceding ones
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q04|src_kangourou_2007_cadet_marzo__Q04]]
 
 
 
@@ -173,17 +210,20 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*After how many days with 4 water lilies (doubling)*
+*After how many days with 4 water lilies (doubling)?*
 
-> A water lily crop is to be grown in a pond. Each day the crop doubles its extent and if only one water lily is planted, after 12 days the pond is full. After how many days will the pond be full if 4 water lilies are
-> planted?
+> You want to cultivate water lilies in a pond. Each day, the area covered by the water lilies doubles, and if a single water lily is planted, the pond will be full after 12 days. After how many days will the pond be full if 4 water lilies are planted?
 > A) 3  
 > B) 4
 > C) 8
 > D) 10
 > E) 6
 
-**Answer:** D
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q05|src_kangourou_2007_cadet_marzo__Q05]]
 
 
 
@@ -221,26 +261,26 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In which circle is there more black than white*
+*In which circle, blacker than white*
 
 ![[src_kangourou_2007_cadet_marzo__prob6.png]]
 
 > In which circle is the black part more
-> extensive than the white one? 
+> Wider than that white one?
 > A) A 
 > B) B 
 > C) C 
 > D) D 
 > E) none of the four
-> Testi_07.qxp  16-04-2007  12:05  Pagina 16
-> 
-> Pag. 
-> Pag. 17
-> 17
-> Kang 2007
-> Kang 2007
+> Testi_07.qxp 16-04-2007 12:05 Page 16
+>
+> Pag. Pag. 17 17 Kang 2007 Kang 2007
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q06|src_kangourou_2007_cadet_marzo__Q06]]
 
 
 
@@ -272,13 +312,22 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Broken line ABC...P*
+*Broken length ABC...P*
 
 ![[src_kangourou_2007_cadet_marzo__prob7.png]]
 
-> The squares in the figure were formed by intersecting the 24-centimeter-long AP segment with the broken line ABC...OP. How long is the broken line ABC...OP? A) 48 B) 56 C) 96 D) 106 E) a value different from the previous one
+> The squares in the figure were formed by intersecting the 24-centimeter line segment AP with the polygonal chain ABC…OP. How many centimeters long is the polygonal chain ABC…OP?
+> A) 48
+> B) 56 
+> C) 96 
+> D) 106 
+> E) a value different from the preceding ones
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q07|src_kangourou_2007_cadet_marzo__Q07]]
 
 
 
@@ -308,11 +357,20 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between palindromes (6 and 5 digits)*
+*Difference between palindromes (6-digit and 5-digit)*
 
-> A number is called a palindrome if its decimal representation can be read indifferently from right to left or from left to right, as happens for example with 13931. What's the difference between the largest palindrome number of six significant digits and the smallest of five significant digits? A) 989989 B) 989998 C) 998998 D) 999898 E) 999988
+> A number is called a palindrome if its decimal representation can be read equally well from right to left or from left to right—as is the case, for example, with 13931. What is the difference between the largest 6-significant-digit palindrome number and the smallest 5-significant-digit palindrome number?
+> A) 989989
+> B) 989998
+> C) 998998
+> D) 999898
+> E) 999988
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q08|src_kangourou_2007_cadet_marzo__Q08]]
 
 
 
@@ -346,13 +404,23 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Large rectangular perimeter (6 circumferences)*
+*Perimeter of the large rectangle (6 circumferences)*
 
 ![[src_kangourou_2007_cadet_marzo__prob9.png]]
 
-> Consider six circumferences of the same radius arranged within a large rectangle, tangent to each other and tangent to the sides of the rectangle, as shown in the figure. The vertices of the small rectangle are each located in the center of a circumference. The perimeter of the small rectangle measures 60 centimeters. How many centimeters is the perimeter of the big one? A) 160 B) 140 C) 120 D) 100 E) 80
+> Consider six circles of the same radius arranged
+> Inside a large rectangle, they are tangent to each other and tangent to the sides of the rectangle, as shown in the figure. The vertices of the small rectangle are each located at the center of a circle. The perimeter of the small rectangle is 60 centimetres. How many centimetres is the perimeter of the large rectangle?
+> A) 160 
+> B) 140
+> C) 120
+> D) 100
+> E) 80
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q09|src_kangourou_2007_cadet_marzo__Q09]]
 
 
 
@@ -385,13 +453,24 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum squares per axis of symmetry*
+*Minimum small squares for the axis of symmetry*
 
 ![[src_kangourou_2007_cadet_marzo__prob10.png]]
 
-> We want to make sure that the figure next to it has an axis of symmetry. What's the smallest number of squares that you can blacken to get the goal? A) 4 B) 6 C) 5 D) 2 E) 3 Questions from N. 11 to N. 20 are worth 4 points each.
+> We want to make sure that the figure beside it has an axis of symmetry. What is the smallest number of small squares that need to be blackened to achieve this?
+> A) 4
+> B) 6 
+> C) 5
+> D) 2
+> E) 3
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q10|src_kangourou_2007_cadet_marzo__Q10]]
 
 
 
@@ -420,11 +499,21 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little number first divided by 3^11 + 5^13*
+*Smallest prime divisor of 3^11 + 5^13*
 
-> What is the smallest prime number that divides the sum of 311 plus 513 ? A) 2 B) 3 C) 5 D) 311 + 513 E) none of the above
+> What is the smallest prime number that divides the sum 311 + 513?
+> A) 2
+> B) 3
+> C) 5
+> D) 311 + 513
+> E) none of the above
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q11|src_kangourou_2007_cadet_marzo__Q11]]
 
 
 
@@ -477,40 +566,24 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*People in the class (boy/girl friendships)*
+*People in the class (friendships between boys/girls)*
 
-> In a mixed class the number of girls is three less than that of the
-> boys. Each boy is friends with exactly four girls, while each
-> girl is friends with exactly five boys (naturally friendship is
-> mutual). How many people are there in that class?
+> In a mixed class, the number of girls is three less than the number of boys. Each boy is friends with exactly four girls, while each girl is friends with exactly five boys (naturally, friendship is mutual). How many people are there in that class?
 > A) 21
 > B) 23
 > C) 27
 > D) 30
 > E) 33
-> A
-> D
-> E
-> B
-> C
-> F
-> G
-> H
-> I
-> L
-> M
-> N
-> O
-> P
-> Testi_07.qxp  16-04-2007  12:05  Page 17
-> 
-> Pag. 
-> Pag. 18
-> 18
-> Kang 2007
-> Kang 2007
+> A D E B C F G H I L M N O P Testi_07.qxp 16-04-2007 12:05 Page 17
+>
+> Pag. Pag. 18 18 Kang 2007 Kang 2007
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q12|src_kangourou_2007_cadet_marzo__Q12]]
 
 
 
@@ -546,9 +619,19 @@ In how many years will Billy be 10 years old
 
 ![[src_kangourou_2007_cadet_marzo__prob13.png]]
 
-> Six different points are located on two parallel lines: four on one and two on the other. How many triangles have the points in question for vertices? A) 18 B) 16 C) 12 D) 8 E) 6
+> Six distinct points are marked on two parallel lines: four on one line and two on the other. How many triangles have the points in question as vertices?
+> A) 18
+> B) 16
+> C) 12
+> D) 8
+> E) 6
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q13|src_kangourou_2007_cadet_marzo__Q13]]
 
 
 
@@ -586,11 +669,26 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of consumers buying brand A now*
+*Proportion of consumers of brand A now*
 
-> One survey revealed that two thirds of chocolate consumers in the country of Dolcezza buy brand A and one third buy brand B. A new survey, carried out after an advertising campaign for the B brand, found that 1/4 of consumers who previously preferred A now switched to B. The proportion of consumers now buying A is A) 5/12 B) 1/4 C) 7/12 D) 1/3 E) none of the above. 15.The ABC and CDE triangles in the figure are congruent and equilateral. If the ACE angle is 80 degrees, how many degrees does the ABE angle measure? A) 25 B) 30 C) 35 D) 40 E) 45
+> A survey revealed that, among chocolate consumers in the country of Dolcezza, 2/3 buy brand A and 1/3 buy brand B. A new survey, conducted after an advertising campaign in favor of brand B, showed that 1/4 of the consumers who previously preferred A have now switched to B. The fraction of consumers who now buy A is
+> A) 5/12 
+> B) 1/4
+> C) 7/12
+> D) 1/3
+> E) None of the above.
+> 15. In the figure, triangles ABC and CDE are congruent and equilateral. If angle ACE measures 80 degrees, how many degrees does angle ABE measure?
+> A) 25
+> B) 30
+> C) 35
+> D) 40
+> E) 45
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q14|src_kangourou_2007_cadet_marzo__Q14]]
 
 
 
@@ -615,13 +713,17 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle ABE (congruent equilateral triangles)*
+*ABE angle (congruent equilateral triangles)*
 
 ![[src_kangourou_2007_cadet_marzo__prob15.png]]
 
-> 15. Answer D) The angle BCE measures 140 degrees and, since BC=CE, the angle EBC measures 20 degrees: by subtraction we get that ABE measures 40 degrees.
+> 15. Answer D) Angle BCE measures 140 degrees, and since BC = CE, angle EBC measures 20 degrees; by difference, angle ABE measures 40 degrees.
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q15|src_kangourou_2007_cadet_marzo__Q15]]
 
 
 
@@ -652,9 +754,18 @@ In how many years will Billy be 10 years old
 
 *Percentage of perfect squares from 1 to 10000*
 
-> Consider all integers from 1 to 10,000. What percentage of them is a perfect square? A) 1% B) 1,5% C) 2% D) 2,5% E) 5%
+> Consider all the integers from 1 to 10000. What percentage of them are perfect squares?
+> A) 1%
+> B) 1,5%
+> C) 2%
+> D) 2,5%
+> E) 5%
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q16|src_kangourou_2007_cadet_marzo__Q16]]
 
 
 
@@ -684,11 +795,21 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max cells with 15 lines*
+*Max cell with 15 straight lines*
 
-> 9 lines, of which 5 are drawn horizontally and 4 vertically, identify 12 rectangular cells; 6 horizontal lines and 3 verticals identify only 10 cells. How many cells can you get to the maximum by tracing 15 lines? A) 22 B) 30 C) 36 D) 40 E) 42
+> 9 lines—5 drawn horizontally and 4 vertically—define 12 rectangular cells; by contrast, 6 horizontal lines and 3 vertical lines define only 10 cells. What is the maximum number of cells you can obtain by drawing 15 lines?
+> A) 22
+> B) 30
+> C) 36
+> D) 40
+> E) 42
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q17|src_kangourou_2007_cadet_marzo__Q17]]
 
 
 
@@ -734,30 +855,21 @@ In how many years will Billy be 10 years old
 
 *Comparison of the volumes of the two cylinders*
 
-> You have a rectangular sheet of paper with one side twice the other. There are
-> two cylinders that can be "wrapped" exactly by the sheet, joining opposite sides of the sheet without overlaps. Call C1 the cylinder wrapped
-> by the sheet when you bring the short sides together and C2 the one wrapped by the sheet when
-> you bring the long sides together and denote their volumes by V1 and V2 respectively. Which
-> of the following statements is correct?
+> There is a rectangular sheet of paper whose one side is twice the other. There are two cylinders that can be exactly "wrapped" by the sheet by joining the opposite sides of the sheet without overlap. Call C1 the cylinder wrapped by the sheet when the short sides are joined, and C2 the cylinder wrapped by the sheet when the long sides are joined; denote their volumes by V1 and V2, respectively. Which of the following statements is correct?
 > A) V1 = 2 V2
 > B) V2 = 2 V1
 > C) V1 = 23 V2
 > D) V1 = V2
 > E) V2 = 23 V1
-> C
-> A
-> B
-> E
-> D
-> Testi_07.qxp  16-04-2007  12:05  Page 18
-> 
-> Pag. 
-> Pag. 19
-> 19
-> Kang 2007
-> Kang 2007
+> C A B E D Testi_07.qxp 16-04-2007 12:05 Page 18
+>
+> Pag. Pag. 19 19 Kang 2007 Kang 2007
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q18|src_kangourou_2007_cadet_marzo__Q18]]
 
 
 
@@ -791,13 +903,24 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Greatest sum by subtracting 3 numbers (grid)*
+*Larger sum by removing 3 numbers (grid)*
 
 ![[src_kangourou_2007_cadet_marzo__prob19.png]]
 
-> So we take three numbers off the grid right here on the side, so that after we take them off, no row and no column remains complete; then we add the numbers that are taken off. What's the biggest amount you can get? A) 12 B) 15 C) 18 D) 21 E) 24
+> Let's remove three numbers from the grid here to the side, so that
+> After removing them, no row and no column should remain complete; so we add up the numbers that were removed. What is the largest sum that can be obtained?
+> A) 12
+> B) 15 
+> C) 18 
+> D) 21
+> E) 24
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q19|src_kangourou_2007_cadet_marzo__Q19]]
 
 
 
@@ -834,13 +957,25 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded region area (square and perpendicular)*
+*Shaded region (square and perpendiculars)*
 
 ![[src_kangourou_2007_cadet_marzo__prob20.png]]
 
-> In the figure next to O is the centre of the KLMN square and the points on each side of the KLMN are chosen with the only constraint that the OA segment is perpendicular to the OD segment and the OB segment is perpendicular to the OC segment. If the side of the square is 2, what is the area of the shaded region? A) 1 B) 2 C) 2,5 D) 2,25 E) It is not possible to answer because it depends on the choice of points A and B. The questions from N. 21 to N. 30 are worth 5 points each.
+> In the figure beside it, O is the center of the square.
+> In KLMN, the points on each side of KLMN are chosen with the sole constraint that segment OA is perpendicular to segment OD and segment OB is perpendicular to segment OC. If the side of the square measures 2, what is the area of the shaded region?
+> A) 1
+> B) 2 
+> C) 2,5 
+> D) 2,25
+> E) It is not possible to answer, since it depends on the choice of points A and B.
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q20|src_kangourou_2007_cadet_marzo__Q20]]
 
 
 
@@ -874,9 +1009,19 @@ In how many years will Billy be 10 years old
 
 *How many numbers to list (calculator without 1)*
 
-> A malfunctioning calculator never shows the digit 1. For example, if you type 3131, only the number 33 appears, no spaces. Marco typed a 6-digit number, but only the number 2007 appeared: how many numbers do I have to list to be sure of saying the number that Marco typed? A) 12 B) 13 C) 14 D) 15 E) 16
+> A malfunctioning calculator never displays the digit 1. For example, if you type 3131, only the number 33 appears, with no spaces. Marco typed a six-digit number, but only the number 2007 appeared: how many numbers must I list to be sure that I have stated the number Marco typed?
+> A) 12
+> B) 13 
+> C) 14 
+> D) 15
+> E) 16
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q21|src_kangourou_2007_cadet_marzo__Q21]]
 
 
 
@@ -905,11 +1050,20 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Kilometres walked by Alfredo (up and down)*
+*Kilometers walked by Alfredo (ascent/descent)*
 
-> Alfredo goes for a walk: the first stretch of road is flat, the second up. He returns along the same road and takes two hours overall. His speed is 4 km/h on flat land, 3 km/h up and 6 km/h down. How many kilometres has Alfredo walked? A) You cannot answer, because it depends on the length of the flat stretch of road. B) 6 C) 7.5 D) 8 E) 10
+> Alfredo goes out for a walk: the first stretch of the road is level, and the second is uphill. He returns by the same route and in total takes two hours. His speed is 4 km/h on level ground, 3 km/h uphill, and 6 km/h downhill. How many kilometers did Alfredo walk?
+> A) It is not possible to answer, because it depends on the length of the level road.
+> B) 6 
+> C) 7.5 
+> D) 8
+> E) 10
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q22|src_kangourou_2007_cadet_marzo__Q22]]
 
 
 
@@ -958,23 +1112,22 @@ In how many years will Billy be 10 years old
 
 *Which statement is certainly true (weights)*
 
-> Anna and Bice together weigh less than Carla and Dina together;
-> Carla and Emma together weigh less than Franca and Bice together.
+> Anna and Bice together weigh less than Carla and Dina together; Carla and Emma together weigh less than Franca and Bice together. Which of the following statements is certainly true?
+> A) Anna and Emma together weigh less than Franca and Dina.
+> B) Dina and Emma together weigh more than Carla and Franca.
+> C) Dina and Franca together weigh more than Anna and Carla.
+> D) Anna and Bice together weigh less than Carla and Franca.
+> E) Anna, Bice, and Carla together weigh as much as Dina, Emma, and Franca.
+> D N K C M B L A O Testi_07.qxp 16-04-2007 12:05 Page 19
 >
-> Which of the following statements is certainly true?
-> (A) Anna and Emma together weigh less than Franca and Dina.
-> (B) Dina and Emma together weigh more than Carla and Franca.
-> (C) Dina and Franca together weigh more than Anna and Carla.
-> (D) Anna and Bice together weigh less than Carla and Franca.
-> (E) Anna, Bice, and Carla together weigh the same as Dina, Emma, and Franca.
-> 
-> Page
-> Page 20
-> 20
-> Kang 2007
-> Kang 2007
+> Page Page 20 20 Kang 2007 Kang 2007
 
-**Answer:** A
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q23|src_kangourou_2007_cadet_marzo__Q23]]
 
 
 
@@ -1005,11 +1158,21 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many 4-digit self-descriptive numbers*
+*How many 4-digit self-descriptive numbers?*
 
-> The first digit of a four-digit number is equal to the number of digits 0 of that number, the second digit is equal to the number of digits 1, the third digit is equal to the number of digits 2, and the fourth digit is equal to the number of digits 3. How many numbers have this property? A) 0 B) 2 C) 3 D) 4 E) 5
+> In a four-digit number, the first digit equals the number of 0s in that number, the second digit equals the number of 1s, the third digit equals the number of 2s, and the fourth digit equals the number of 3s. How many numbers have this property?
+> A) 0
+> B) 2 
+> C) 3 
+> D) 4
+> E) 5
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q24|src_kangourou_2007_cadet_marzo__Q24]]
 
 
 
@@ -1039,11 +1202,21 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Divisors of n+2 (n prime, n+1 with 3 divisors)*
+*Divisors of n+2 (n prime, n+1 having 3 divisors)*
 
-> Including between the divisors of a number the number itself and the unit, a positive integer n has two divisors while n + 1 has three. How many divisors of n + 2 are there? (a) 2 (b) 3 (c) 4 (d) 5 (e) depends on n
+> If we include both the number itself and 1 among the divisors of a number, then a positive integer n has two divisors, whereas n + 1 has three. How many divisors does n + 2 have?
+> A) 2
+> B) 3 
+> C) 4 
+> D) 5
+> E) depends on n
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q25|src_kangourou_2007_cadet_marzo__Q25]]
 
 
 
@@ -1076,13 +1249,23 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number on the remaining paper (sum 3x)*
+*Number on the card remaining (sum 3x)*
 
 ![[src_kangourou_2007_cadet_marzo__prob26.png]]
 
-> On a table there are 9 cards, each of which has a number, as shown in the figure. Gigi and Piero each remove four cards: the sum of numbers written on the cards removed by Gigi is three times that of numbers written on the cards removed by Piero. What number is written on the card that remains on the table? A) 4 B) 7 C) 14 D) 23 E) 24
+> On a table, 9 cards are arranged on each of the
+> where a number appears, as in the figure. Gigi and Piero each remove four cards: the sum of the numbers written on the cards removed by Gigi is three times the sum of the numbers written on the cards removed by Piero. What number is written on the card that remains on the table?
+> A) 4
+> B) 7 
+> C) 14 
+> D) 23
+> E) 24
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q26|src_kangourou_2007_cadet_marzo__Q26]]
 
 
 
@@ -1114,13 +1297,24 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many numbers are divisible by 3 on circumference*
+*How many numbers divisible by 3 on a circle*
 
 ![[src_kangourou_2007_cadet_marzo__prob27.png]]
 
-> Five integers are written on a circumference so that no pair and no triple of adjacent numbers gives a sum divisible by 3. How many of these numbers are divisible by 3? A) 0 B) 1 C) 2 D) 3 E) The data are insufficient to answer.
+> Five integers are written on a circle so that no pair and no triple of adjacent numbers yields a sum divisible by
+> 3. Among these numbers, how many are divisible by 3?
+> A) 0
+> B) 1 
+> C) 2 
+> D) 3
+> E) The data are insufficient to provide an answer.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q27|src_kangourou_2007_cadet_marzo__Q27]]
 
 
 
@@ -1168,35 +1362,27 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max length connected curve (tile arcs)*
+*Max length of connected curve (arch tiles)*
 
 ![[src_kangourou_2007_cadet_marzo__prob28.png]]
 
-> The figure shows a square tile with side 20
-> cm, with two decorative motifs in the shape of a quarter circle of radius 10 cm, centered at opposite vertices of the square. We tile with tiles like this a square surface with side 80 cm so that the arcs connect two by two. What is the length in centimeters of the
-> longest connected curve that can be formed in this way?
+> The figure shows a square tile with a side length of 20.
+> cm, with two decorative motifs in the shape of quarter-circles of radius 10 cm, centered at opposite vertices of the square. We pave a square surface with sides 80 cm using tiles like this one, so that the arcs connect in pairs. What is the length, in centimetres, of the longest connected curve that can be formed in this way?
 > A) 75 π
 > B) 100 π
 > C) 105 π
 > D) 110 π
 > E) 140 π
-> 4
-> 12
-> 8
-> 13 24 14
-> 7
-> 5 23
-> 10 cm
-> 10 cm
-> Testi_07.qxp  16-04-2007  12:05  Page 20
-> 
-> Pag. 
-> Pag. 21
-> 21
-> Kang 2007
-> Kang 2007
+> 4 12 8 13 24 14 7 5 23 10 cm 10 cm Testi_07.qxp 16-04-2007 12:05 Page 20
+>
+> Pag. Pag. 21 21 Kang 2007 Kang 2007
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q28|src_kangourou_2007_cadet_marzo__Q28]]
 
 
 
@@ -1227,11 +1413,21 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of three digits with property on sum of digits*
+*How many 3-digit numbers have a property regarding the sum of their digits?*
 
-> A three-digit integer is divided by 9: the sum of the digits of the quotient is 9 less than the sum of the digits of the starting number. How many three-digit numbers have this property? A) 1 B) 2 C) 4 D) 5 E) 11
+> A three-digit integer was divided by 9: the sum of the digits of the quotient is 9 less than the sum of the digits of the original number. How many three-digit numbers have this property?
+> A) 1
+> B) 2 
+> C) 4 
+> D) 5
+> E) 11
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q29|src_kangourou_2007_cadet_marzo__Q29]]
 
 
 
@@ -1270,11 +1466,22 @@ In how many years will Billy be 10 years old
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number can be obtained with 5 operations from 15*
+*What number can be obtained from 15 using 5 operations?*
 
-> A strange calculator can only do the following: multiply by 2 or by 3, or raise to power 2 or power 3. Starting from number 15, which of the following numbers can be obtained by 5 successive operations of this calculator? A) 28 35 56 B) 26 36 54 C) 23 33 53 D) 28 34 52 E) 2 . 32 56 Texts_07.qxp 16-04-2007 12:05 Page 21
-> 
->  
-> 1 Cadet category For third-year students of primary secondary school or first-year students of secondary school
+> A strange calculator can perform only the following operations: multiply by 2 or by 3, or raise to the power of 2 or to the power of 3. Starting from the number 15, which of the following numbers can be obtained using 5 successive operations of this calculator?
+> A) 28 35 56
+> B) 26 36 54
+> C) 23 33 53
+> D) 28 34 52
+> E) 2 . 32 56
+> Testi_07.qxp 16-04-2007 12:05 Page 21
+>
+>
+> 1 Cadet Category For students in the third year of lower secondary school or the first year of upper secondary school
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_cadet_marzo#q30|src_kangourou_2007_cadet_marzo__Q30]]

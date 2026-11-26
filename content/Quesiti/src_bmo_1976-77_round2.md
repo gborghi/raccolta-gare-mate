@@ -37,9 +37,24 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadratico di confine su intervalli dati a n punti*
+*$|f(x)| \leq \tfrac{3}{2}$ sull'intervallo, e $\dfrac{3}{2}$ non si può sostituire con un numero più piccolo*
 
-> $x_1, x_2, \ldots, x_n$ vengono dati punti dell'intervallo $\left[-\tfrac{1}{2}, 1\right]$ in modo tale che $$0 < x_1 < x_2 < \cdots < x_{k-1} \leq \tfrac{1}{2} \leq x_k \quad (1 < k < n).$$ La funzione quadrata $f$, della forma $$f(x) = x^2 + bx + c$$ in cui $a$, $b$, $c$ sono costanti reali, soddisfi la condizione $$|f(x_i)| \leq 1 \quad (0 \leq i \leq k).$$ Prove che $$|f(x)| \leq \tfrac{3}{2}$$ per tutti $x$ in $\left[-\tfrac{1}{2}, 1\right]$. Mostra con un esempio che questa proposizione diventa falsa se $\dfrac{3}{2}$ viene sostituita da un numero più piccolo.
+> $x_1, x_2, \ldots, x_n$ sono punti dati dell'intervallo $\left[-\tfrac{1}{2}, 1\right]$ tali che
+> $$0 < x_1 < x_2 < \cdots < x_{k-1} \leq \tfrac{1}{2} \leq x_k \quad (1 < k < n).$$
+> La funzione quadratica $f$, della forma
+> $$f(x) = x^2 + bx + c$$
+> dove $a$, $b$, $c$ sono costanti reali, soddisfa la condizione
+> $$|f(x_i)| \leq 1 \quad (0 \leq i \leq k).$$
+> Dimostrare che
+> $$|f(x)| \leq \tfrac{3}{2}$$
+> per ogni $x$ in $\left[-\tfrac{1}{2}, 1\right]$. Mostrare con un esempio che questa proposizione diventa falsa se $\dfrac{3}{2}$ è sostituito da un numero più piccolo qualunque.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1976-77_round2#q01|src_bmo_1976-77_round2__Q01]]
 
 
 
@@ -62,9 +77,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piramida con cerchi incisi di facce adiacenti che si toccano; prova i punti di contatto sul cerchio*
+*I punti di contatto degli incerchi con la base stanno su una circonferenza*
 
-> Una piramide si forma unendo le vertici di un quadrilaterale piano $ABCD$, la "base", al punto $T$ al di fuori del suo piano. Si scopre che i cerchi incisi di ciascun paio di facce triangolari adiacenti si toccano. Prove che i punti di contatto dei cerchi incisi con la base della piramide si trovano su un cerchio.
+> Una piramide è formata congiungendo i vertici di un quadrilatero piano $ABCD$, la «base», al punto $T$ fuori dal suo piano. Si trova che gli incerchi di ogni coppia di facce triangolari adiacenti si toccano. Dimostrare che i punti di contatto degli incerchi con la base della piramide stanno su una circonferenza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1976-77_round2#q02|src_bmo_1976-77_round2__Q02]]
 
 
 
@@ -93,11 +115,22 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-O risolvi l'equazione diofantina lineare o prova che AP ha un sottoinsieme infinito con gli stessi divisori primari
+*O l'equazione ha sempre una soluzione intera, o infiniti termini con gli stessi divisori primi*
 
-> EITHER (a) Prova che se $n$ è un dato numero intero, allora l'equazione $$10x + 13y - 27z = n$$ ha una soluzione in numeri interi $x$, $y$, $z$.
-> 
-> O (b) Prova che nella progressione aritmetica $$a, \; a+d, \; a+2d, \; \ldots, \; a+nd, \; \ldots$$ dove $a$, $d$ sono interi positivi, esiste un insieme infinito di termini con gli stessi divisori primi.
+> OPPURE (a) Dimostrare che se $n$ è un intero dato qualunque allora l'equazione
+> $$10x + 13y - 27z = n$$
+> ha una soluzione in interi $x$, $y$, $z$.
+>
+> OPPURE (b) Dimostrare che nella progressione aritmetica
+> $$a, \; a+d, \; a+2d, \; \ldots, \; a+nd, \; \ldots$$
+> dove $a$, $d$ sono interi positivi, esiste un insieme infinito di termini che hanno gli stessi divisori primi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1976-77_round2#q03|src_bmo_1976-77_round2__Q03]]
 
 
 
@@ -120,6 +153,13 @@ O risolvi l'equazione diofantina lineare o prova che AP ha un sottoinsieme infin
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Construire un colletto di 2 perle in 2 colori che coprono tutte le coppie di colori*
+*Una collana con $2n$ perle di $2n$ colori, e si può fare con $2n^2 - 1$ perle?*
 
-> Prove che per ogni numero intero $n \geq 1$ è possibile costruire un collare con perle $2n$ in tutto, essendo di $2n$ diversi colori, in modo tale che per ogni coppia di colori diversi vi sia almeno un paio di perle adiacenti di questi due colori. È possibile fare lo stesso utilizzando perle $2n^2 - 1$ in tutto? Datemi una ragione per la vostra risposta. (Un "colletto" è un'impostazione circolare di perle, senza alcun attaccamento; si presume che sia disponibile un ampio approvvigionamento di perle di tutti i colori.)
+> Dimostrare che per ogni intero $n \geq 1$ è possibile costruire una collana con in tutto $2n$ perle, di $2n$ colori diversi, in modo che per ogni coppia di colori diversi ci sia almeno una coppia di perle adiacenti di questi due colori. È possibile fare lo stesso usando in tutto $2n^2 - 1$ perle? Dare una ragione della risposta. (Una «collana» è una disposizione circolare di perle, senza un fermaglio in mezzo; si assume disponibile una scorta abbondante di perle di tutti i colori.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1976-77_round2#q04|src_bmo_1976-77_round2__Q04]]

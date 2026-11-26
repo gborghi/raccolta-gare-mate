@@ -40,9 +40,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Isosceles triangle, bisector and center circle*
+*Isosceles triangle, angle bisector and circle through midpoint*
 
-> Luigi drew on his notebook an isosceles triangle ABC in which the sides emanating from A are equal and, after drawing the inner bisector at the angle \ ABC that intersects the AC side in P, he noticed that the circumference for B, P, C also passed through the middle point of AB. The question then arose as to what the value of the angle \ BAC was. What's the correct answer?
+> Luigi drew an isosceles triangle ABC on his notebook in which the sides from A are equal, and after drawing the internal bisector of angle ABC that intersects side AC at P, he noticed that the circle through B, P, C also passed through the midpoint of AB. He then asked himself what the value of angle BAC was. What is the correct answer?
 >
 > - **(A)** 30°
 > - **(B)** 45°
@@ -50,7 +50,10 @@ level: 2 livello
 > - **(D)** 90°
 > - **(E)** 105°
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2019_2livello#q01|src_archimede_2019_2livello__Q01]]
 
 
 
@@ -82,9 +85,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers with 4 divisors and sum of divisors 42*
+*Numbers with 4 divisors and divisor sum 42*
 
-> Alessandra writes on the notebook (of Louis) all natural numbers n that have both the following properties: n has exactly 4 positive divisors (including 1 and n itself), and the sum of the positive divisors of n is 42. What is the sum of all the numbers written by Alexander?
+> Alessandra writes in Luigi's notebook all the natural numbers n that have both of the following properties: n has exactly 4 positive divisors (including 1 and n itself), and the sum of the positive divisors of n is 42. What is the sum of all the numbers written by Alessandra?
 >
 > - **(A)** 0
 > - **(B)** 12
@@ -92,7 +95,11 @@ level: 2 livello
 > - **(D)** 26
 > - **(E)** 42
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2019_2livello#q02|src_archimede_2019_2livello__Q02]]
 
 
 
@@ -126,9 +133,10 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shoes in packages, minimum packages for three pairs*
+*Socks in bags, minimum bags for three pairs*
 
-> In Alice's drawer there are 30 socks of five colors: 6 white, 6 yellow, 6 red, 6 green and 6 blue. The little brother takes 10 black envelopes and inserts in each envelope three socks (taken from the drawer) of three different colors. Now Alice must go to Cesenatico and must have in her suitcase at least three pairs of socks of three different colors (the two socks of each pair must be of the same color). How many envelopes does Alice have to take, at least, to make sure she has all the socks she needs?
+> In Alice's drawer there are 30 socks of 5 colours: 6 white, 6 yellow, 6 red, 6 green and 6 light blue.
+> Her mischievous little brother takes 10 black bags and puts three socks (taken from the drawer) of three different colours into each bag. Now Alice has to go to Cesenatico and must have in her suitcase at least three pairs of socks of three different colours (the two socks of each pair must be the same colour). How many bags must Alice take, at minimum, to be sure of having all the socks she needs?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -136,7 +144,11 @@ level: 2 livello
 > - **(D)** 5
 > - **(E)** 6
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2019_2livello#q03|src_archimede_2019_2livello__Q03]]
 
 
 
@@ -170,17 +182,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequence sum of 4 consecutive constant, sum total*
+*Sum of a sequence whose every four consecutive terms have a constant sum*
 
-> A sequence of 2019 numbers a1, a2, a3 is given. . . , a2019. You know, if you choose any four consecutive terms in the sequence, their sum is constant. Similarly, taking two consecutive numbers, their difference in absolute value is constant (i.e. a1 −a2 = a2 −a3 = a3 −a4 = . . .). We also know that a1 < a2 < a3 and that a2 = 6. How much is the sum of all the numbers in the sequence?
+> A sequence of 2019 numbers a1, a2, a3, . . . , a2019 is given. It is known that any 4 consecutive terms of the sequence have a constant sum. Likewise, any two consecutive numbers have a constant absolute difference (that is, |a1 −a2| = |a2 −a3| = |a3 −a4| = . . .). It is also known that a1 < a2 < a3 and that a2 = 6. What is the sum of all the numbers in the sequence?
 >
 > - **(A)** 2019
 > - **(B)** 2020
 > - **(C)** 4038
 > - **(D)** 12114
-> - **(E)** The data are not sufficient to determine this.
+> - **(E)** the data are not sufficient to determine it
 
-**Answer:** D
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2019_2livello#q04|src_archimede_2019_2livello__Q04]]
 
 
 
@@ -216,9 +232,15 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-Round table students, four types, sum of*
+*Students at a round table, four types, sum*
 
-> In the Normal School, this year's students in the Science class are of four types: Mathematicians, Physicists, Chemists and Biologists. At the dining room they are all sitting together around a round table; each of them has exactly one person sitting in front of him, and furthermore for each student the whole made up of himself, his right neighbour, his left neighbour and the student sitting in front includes all four types of students. How many students can be enrolled in the sciences class, appropriately divided between the four types, knowing that they are between 30 and 50 (extreme included)? The result is the sum of all possible answers.
+> At Scuola Normale, this year's freshmen in the Science class are of four types:
+> Mathematicians, Physicists, Chemists and Biologists. At the cafeteria they all sit together around a
+> round table; each of them has exactly one person seated opposite them, and moreover for
+> each student the set consisting of himself, his right neighbour, his left neighbour and the
+> student seated opposite comprises all four types of students. How many can be the
+> freshmen in the Science class, suitably divided among the four types, knowing that they are
+> between 30 and 50 (endpoints included)? Give as result the sum of all possible answers.
 >
 > - **(A)** 40
 > - **(B)** 80
@@ -226,7 +248,11 @@ Round table students, four types, sum of*
 > - **(D)** 200
 > - **(E)** 440
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2019_2livello#q05|src_archimede_2019_2livello__Q05]]
 
 
 
@@ -260,9 +286,9 @@ Round table students, four types, sum of*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Calculator +1 and x3, numbers that can be obtained without exploding*
+*Calculator +1 and ×3, numbers obtainable without exploding*
 
-> Pierino's calculator has a display, which initially shows the number 0, and two keys: the +1 key, which adds 1 to the number written on the display, and the ×3 key, which multiplies the number written on the display by 3. If you press the +1 button twice in a row, the calculator explodes. If the display of the calculator holds at most 5 digits, how many numbers can Pierino obtain with an appropriate key sequence (without blowing up the calculator)?
+> Pierino's calculator has a display, which initially shows the number 0, and two keys: the +1 key, which adds 1 to the number shown on the display, and the ×3 key, which multiplies the number shown on the display by 3. If the +1 key is pressed twice in a row, the calculator explodes. If the calculator display holds at most 5 digits, how many numbers can Pierino obtain with a suitable sequence of keys (without exploding the calculator)?
 >
 > - **(A)** 2048
 > - **(B)** 2187
@@ -270,7 +296,11 @@ Round table students, four types, sum of*
 > - **(D)** 6561
 > - **(E)** 66666
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2019_2livello#q06|src_archimede_2019_2livello__Q06]]
 
 
 
@@ -302,17 +332,21 @@ Round table students, four types, sum of*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inscribed trapezoid, perpendicular diagonals, area ratio*
+*Ratio of the area of a circle to two triangles in an inscribed trapezoid*
 
-> Either ABCD a trapezoid of bases AB and CD inscribed in a circumference Γ such that the diagonal AC and BD are perpendicular. Given that P is the meeting point of the AC and BD diagonals, what is the ratio of the area of Γ to the sum of the areas of the APB and CPD triangles?
+> Let ABCD be a trapezoid with bases AB and CD, inscribed in a circle Γ, such that the diagonals AC and BD are perpendicular. Let P be the intersection of the diagonals AC and BD. What is the ratio of the area of Γ to the sum of the areas of triangles APB and CPD?
 >
 > - **(A)** 1
 > - **(B)** π/2
 > - **(C)** π
 > - **(D)** 2π
-> - **(E)** The data are not sufficient to determine this
+> - **(E)** the data are not sufficient to determine it
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2019_2livello#q07|src_archimede_2019_2livello__Q07]]
 
 
 
@@ -345,17 +379,21 @@ Round table students, four types, sum of*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-point play, who's second in the round*
+*Who finished second in the second round of a three-player scoring game*
 
-> Alberto, Barbara and Carlo are playing a game. This game consists of k rounds, at the end of which the first ranked player receives a1 points, the second a2 and the third a3, with a1 > a2 > a3 > 0 all integers. The final scores of Alberto, Barbara and Carlo are 22, 9, 9 respectively. Knowing Barbara won the first round, who came in second in the second round?
+> Alberto, Barbara and Carlo play a game. The game consists of k rounds. At the end of each round, the first-place finisher receives a1 points, the second a2 and the third a3, with a1 > a2 > a3 > 0, all integers. The final scores of Alberto, Barbara and Carlo are 22, 9 and 9 respectively. Given that Barbara won the first round, who finished second in the second round?
 >
-> - **(A)** Not necessarily Alberto
-> - **(B)** Barbara Necessarily
-> - **(C)** Necessarily Charles
-> - **(D)** Both Alberto and Barbara may have come second.
-> - **(E)** Both Charles and Barbara may have come in second.
+> - **(A)** necessarily Alberto
+> - **(B)** necessarily Barbara
+> - **(C)** necessarily Carlo
+> - **(D)** Alberto or Barbara could have finished second
+> - **(E)** Carlo or Barbara could have finished second
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2019_2livello#q08|src_archimede_2019_2livello__Q08]]
 
 
 
@@ -388,17 +426,23 @@ Round table students, four types, sum of*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equation between polynomials, certain property*
+*A property that must hold for two polynomials satisfying a given relation*
 
-> Marcella, playing, finds by chance two polynomials p(x) and q(x), non-constant and integer coefficients, verifying the relationship: p(q(x + 1)) = p(x3)q(x + 1)5. What can we say with certainty about the two polynomials found by Marcella?
+> Playing around, Marcella happens to find two non-constant polynomials p(x) and q(x) with integer coefficients, satisfying the relation
+> p(q(x + 1)) = p(x3)q(x + 1)5 .
+> What can we say for certain about the two polynomials Marcella found?
 >
-> - **(A)** The direct coefficient of p(x) q(x) is positive
-> - **(B)** The polynomial q(x) does not have whole roots
-> - **(C)** The degree of q(x) does not exceed that of p(x)
-> - **(D)** The sum of the coefficients of p(x) is odd
-> - **(E)** The degree of p (x) q (x) is multiple of 8.
+> - **(A)** the leading coefficient of p(x)q(x) is positive
+> - **(B)** the polynomial q(x) has no integer roots
+> - **(C)** the degree of q(x) does not exceed that of p(x)
+> - **(D)** the sum of the coefficients of p(x) is odd
+> - **(E)** the degree of p(x)q(x) is a multiple of 8
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2019_2livello#q09|src_archimede_2019_2livello__Q09]]
 
 
 
@@ -431,9 +475,9 @@ Round table students, four types, sum of*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Full colour with 6 colours, conditions*
+*Colouring integers with 6 colours, conditions*
 
-> Jacopo has 6 colors (including white) available to color all integers. It does, however, want to respect these conditions: n and n + 5 must have the same color for every n integer and also if ab is white, then at least one between a and b must be white. How many ways can Jacopo color the interiors?
+> Jacopo has 6 colours (including white) available to colour all integers. However, he wants to respect these conditions: n and n + 5 must have the same colour for every integer n, and moreover if ab is white, then at least one of a and b must be white. In how many ways can Jacopo colour the integers?
 >
 > - **(A)** 156
 > - **(B)** 656
@@ -441,7 +485,11 @@ Full colour with 6 colours, conditions*
 > - **(D)** 3906
 > - **(E)** 3936
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2019_2livello#q10|src_archimede_2019_2livello__Q10]]
 
 
 
@@ -475,9 +523,9 @@ Full colour with 6 colours, conditions*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Circles centered in perfect squares, castle perimeter*
+*Circles centred on perfect squares, castle perimeter*
 
-> The plan of a castle is realized in this way: a long circumference of 2019 meters is considered with a regular polygon of 2019 vertices inscribed. Once the vertices of the polygon from 1 to 2019 have been numbered in a clockwise direction, the circumferences of length 2019m centred on each numbered point with a perfect square are traced. The plan of the castle consists of the union of all the circles drawn. How many meters does the perimeter of the castle measure?
+> The plan of a castle is made in this way: consider a circle of length 2019 metres with an inscribed regular polygon of 2019 vertices. Once the vertices of the polygon are numbered from 1 to 2019 clockwise, circles of length 2019m are drawn centred at every numbered point with a perfect square. The plan of the castle consists of the union of all the circles drawn. How many metres is the perimeter of the castle?
 >
 > - **(A)** 2692
 > - **(B)** 4038
@@ -485,7 +533,11 @@ Full colour with 6 colours, conditions*
 > - **(D)** 29370 2π
 > - **(E)** 2019π
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2019_2livello#q11|src_archimede_2019_2livello__Q11]]
 
 
 
@@ -520,17 +572,21 @@ Full colour with 6 colours, conditions*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Chess tournament, matches, final zeros of n*
+*Trailing zeros of the number of allowed pairings in a chess match*
 
-> Two schools compete in a chess tournament with 75 pupils each: 75 matches are organised in which all pupils play one-on-one (one member of the first school versus one of the second) under the control of an external referee. Each school counts its students from 1 to 75, and the referee sets the rule that two boys cannot clash if the difference between their numbers is a multiple of 3. If n is the number of possible couplings that satisfy this rule, how many zeros does n end with?
+> Two schools meet in a chess tournament, each entering 75 students. 75 games are arranged so that every student plays one against one (a member of the first school against one of the second), under the supervision of an outside referee. Each school numbers its own students from 1 to 75, and the referee imposes the rule that two students may not play each other if the difference of their numbers is a multiple of 3. If n is the number of possible pairings that satisfy this rule, how many zeros does n end with?
 >
 > - **(A)** 6
 > - **(B)** 12
 > - **(C)** 15
 > - **(D)** 18
-> - **(E)** 21 Problems with a numerical answer  5 points
+> - **(E)** 21
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2019_2livello#q12|src_archimede_2019_2livello__Q12]]
 
 
 
@@ -557,11 +613,15 @@ Full colour with 6 colours, conditions*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Knights and thieves at the table, 3 are wrong
+*Knights and knaves at the table, 3 are wrong*
 
-> On the Island of Knights and Snatchers, the Knights tell the truth except when they're wrong and the Snatchers always lie. During a meeting, 40 islanders sit around a large round table and each one says, "I'm next to a Knight and a Pigeon". Knowing that three knights present are wrong, how many knights are in the meeting?
+> On the Island of Knights and Knaves, Knights tell the truth except when they are wrong, and Knaves always lie. During a meeting, 40 islanders sit around a large round table and each says: “I am next to a Knight and a Knave”. Knowing that 3 Knights present are wrong, how many Knights are at the meeting?
 
-**Answer:** 27
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2019_2livello#q13|src_archimede_2019_2livello__Q13]]
 
 
 
@@ -586,11 +646,15 @@ Knights and thieves at the table, 3 are wrong
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples (x,y) with x+y and xy+1 powers of 2*
+*Pairs (x,y) with x+y and xy+1 powers of 2*
 
-> How many ordered pairs (x,y) of positive integers less than or equal to 2019 are such that x + y and xy + 1 are powers of 2?
+> How many ordered pairs (x,y) of positive integers less than or equal to 2019 are there such that x + y and xy + 1 are powers of 2?
 
-**Answer:** 37
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2019_2livello#q14|src_archimede_2019_2livello__Q14]]
 
 
 
@@ -618,9 +682,16 @@ Knights and thieves at the table, 3 are wrong
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lamp lamps in a row, moved with first ratio*
+*Lampadine in fila, mosse con rapporto primo*
 
-> There are 4037 lamps arranged in rows and numbered from 1 to 4037. Initially, each light bulb can be switched on or off. One move consists of choosing two bulbs numbered a, b such that a/b or b/a is a prime number and changing the status of both. Demonstrate that in a finite number of moves you can make the bulbs from 1 to 2019 all on whatever the initial configuration is.
+> PROOF EXERCISE
+> There are 4037 lamps arranged in a row and numbered from 1 to 4037. Initially each lamp can be on or off. A move consists of choosing two lamps numbered a, b such that a/b or b/a is a prime number and toggling the state of both. Prove that in a finite number of moves the lamps from 1 to 2019 can be made all on, whatever the initial configuration.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_grafi|Graph theory]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2019_2livello#q15|src_archimede_2019_2livello__Q15]]
 
 
 
@@ -647,9 +718,15 @@ Knights and thieves at the table, 3 are wrong
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Isosceles triangle, circus, conic points*
+*Isosceles triangle, circumcenter, concyclic points*
 
-> Demonstrative Exercise Whether ABC is an isosceles triangle on the basis of BC and whether D and E are points on the sides AB, BC respectively, such that the lines DE and AC are parallel. Also consider the point F on the straight DE which is on the opposite side of D to E and is such that FE is congruent to AD. So O is the circus of the BDE triangle, show that the points O, F, A, D lie on a circumference.
+> PROOF EXERCISE
+> Let ABC be an isosceles triangle with base BC, and let D, E be points on the sides AB, BC respectively, such that the lines DE and AC are parallel. Consider also the point F on the line DE that lies on the opposite side of D from E and is such that FE is congruent to AD. Let O be the circumcenter of triangle BDE; prove that the points O, F, A, D lie on a circle.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2019_2livello#q16|src_archimede_2019_2livello__Q16]]
 
 
 
@@ -681,8 +758,16 @@ Knights and thieves at the table, 3 are wrong
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Self-descriptive 'correct' numbers, maximum number counting*
+*Self-describing “correct” numbers, counting maximum digits*
 
-> Demonstrative Exercise Let's say a positive integer with an even number of digits is correct if, by reading the individual digits aloud, we get a correct description of the number itself. Or rather, if each odd-positional digit indicates how many times the next digit appears in the whole number. For example, 1210 is correct, because it has un 2, a 0, as well as 2121, because it has dues 1, two 1, whereas 1031 is not, because it says it has un 0, three 1, when it actually has two 1. (a) Demonstrate that there are more than 2019 correct numbers. (b) Demonstrate that the correct integers are finite. (c) Find the number of digits of the largest correct number.
+> PROOF EXERCISE
+> We say that a positive integer with an even number of digits is “correct” if, reading aloud the individual digits, we obtain a correct description of the number itself. In other words, if each digit in an odd position indicates how many times the following digit appears in the whole number. For example, 1210 is correct, because it has “one 2, one 0”, as does 2121, because it has “two 1s, two 1s”, while 1031 is not, because it declares to have “one 0, three 1s”, when in fact it has two 1s.
+> (a) Prove that there are more than 2019 correct numbers.
+> (b) Prove that the correct integers are finite in number.
+> (c) Find the number of digits of the largest correct number.
 
-**Answer:** 162
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]], [[method_induzione|Induction]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2019_2livello#q17|src_archimede_2019_2livello__Q17]]

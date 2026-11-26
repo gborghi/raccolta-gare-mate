@@ -29,11 +29,16 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il numero originale dopo la sequenza di sottrazione sbagliata*
+*Rama sottrae 9 e divide per 3 invece di sottrarre 3 e dividere per 9, e ottiene 43: quale sarebbe stata la risposta corretta*
 
-> Rama fu chiesto dal suo insegnante di sottrarre 3 da un certo numero e poi dividere il risultato per 9. Invece, ha sottratto 9 e poi diviso il risultato per 3. Ha ricevuto 43 come risposta. Che risposta avrebbe dato se avesse risolto correttamente il problema?
+> L'insegnante chiese a Rama di sottrarre 3 da un certo numero e poi di dividere il risultato per 9. Invece lei sottrasse 9 e poi divise il risultato per 3. Ottenne 43. Quale risposta avrebbe ottenuto se avesse risolto il problema correttamente?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 3
+
+[[Quesiti/src_prmo_2012#q01|src_prmo_2012__Q01]]
 
 
 
@@ -57,11 +62,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area massima di un triangolo con lati interi e perimetro 7*
+*Triangolo di perimetro 7 con lati interi: massima area possibile*
 
-> Un triangolo con perimetro 7 ha lunghezze laterali interi. Qual è l'area massima possibile di un triangolo simile?
+> Un triangolo di perimetro 7 ha lati di lunghezza intera. Qual è la massima area possibile di un tale triangolo?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
 **Risposta:** \frac{3\sqrt{7}}{4}
+
+[[Quesiti/src_prmo_2012#q02|src_prmo_2012__Q02]]
 
 
 
@@ -85,11 +96,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare coppie di integri positivi che soddisfano x + 3y = 1007*
+*Quante coppie di interi positivi (x, y) soddisfano x + 3y = 1007*
 
-> Per quante coppie di integri positivi $(x, y)$ è $x + 3y = 1007$?
+> Per quante coppie di interi positivi $(x, y)$ vale $x + 3y = 1007$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 335
+
+[[Quesiti/src_prmo_2012#q03|src_prmo_2012__Q03]]
 
 
 
@@ -112,9 +129,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca R + M + O dati prodotti e condizioni di somma*
+*Le lettere R, M, O sono interi con tre condizioni: quanto vale R + M + O*
 
 > Le lettere $R$, $M$ e $O$ rappresentano numeri interi. Se $R \times M \times O = 240$, $R \times Q \times M = 46$ e $R + M \times Q = 64$, qual è il valore di $R + M + O$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_prmo_2012#q04|src_prmo_2012__Q04]]
 
 
 
@@ -138,11 +161,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le n per le quali S_n è un quadrato perfetto*
+*Somma di tutti gli n positivi per cui n^2 + 20n + 12 è un quadrato perfetto*
 
-> Che $S_n = n^2 + 20n + 12$, $n$ sia un intero positivo. Qual è la somma di tutti i valori possibili di $n$ per i quali $S_n$ è un quadrato perfetto?
+> Sia $S_n = n^2 + 20n + 12$, con $n$ intero positivo. Qual è la somma di tutti i valori possibili di $n$ per cui $S_n$ è un quadrato perfetto?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
 **Risposta:** 16
+
+[[Quesiti/src_prmo_2012#q05|src_prmo_2012__Q05]]
 
 
 
@@ -166,11 +195,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i modi in cui il postino consegna esattamente due lettere correttamente*
+*Cinque lettere in cinque case, esattamente due all'indirizzo giusto: in quanti modi*
 
-> Un postino deve consegnare cinque lettere a cinque case diverse. In modo ingannevole, posta una lettera attraverso ogni porta senza cercare di vedere se è l'indirizzo corretto. In quanti modi diversi avrebbe potuto farlo in modo che esattamente due delle cinque case ricevessero le lettere corrette?
+> Un postino deve consegnare cinque lettere a cinque case diverse. Per dispetto, infila una lettera in ogni porta senza controllare se l'indirizzo è quello giusto. In quanti modi diversi può farlo così che esattamente due delle cinque case ricevano la lettera corretta?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 
 **Risposta:** 20
+
+[[Quesiti/src_prmo_2012#q06|src_prmo_2012__Q06]]
 
 
 
@@ -194,11 +229,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza della BD in triangolo con determinate condizioni laterali e ceviane*
+*Triangolo isoscele di lati 7, 7 e 2, punto D sulla retta AB oltre B con CD = 8: lunghezza di BD*
 
-> In $\triangle ABC$, abbiamo $AC = BC = 7$ e $AB = 2$. Supponiamo che $D$ sia un punto sulla linea $AB$ tale che $B$ sia tra $A$ e $D$ e $CD = 8$. Qual è la lunghezza del segmento $BD$?
+> In $\triangle ABC$ si ha $AC = BC = 7$ e $AB = 2$. Si supponga che $D$ sia un punto della retta $AB$ tale che $B$ stia fra $A$ e $D$, e $CD = 8$. Qual è la lunghezza del segmento $BD$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 3
+
+[[Quesiti/src_prmo_2012#q07|src_prmo_2012__Q07]]
 
 
 
@@ -222,11 +263,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di triangolo AEB rettangolare con segmenti incrociati*
+*Rettangolo 5 per 3, due punti su CD, intersezione delle rette: area del triangolo AEB*
 
-> In rettangolo $ABCD$, $AB = 5$ e $BC = 3$. I punti $F$ e $G$ sono sul segmento di linea $CD$ in modo che $DF = 1$ e $GC = 2$. Le linee $AF$ e $BG$ si incrociano a $E$. Qual è la superficie di $\triangle AEB$?
+> Nel rettangolo $ABCD$, $AB = 5$ e $BC = 3$. I punti $F$ e $G$ stanno sul segmento $CD$ in modo che $DF = 1$ e $GC = 2$. Le rette $AF$ e $BG$ si intersecano in $E$. Qual è l'area di $\triangle AEB$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** \frac{25}{2}
+
+[[Quesiti/src_prmo_2012#q08|src_prmo_2012__Q08]]
 
 
 
@@ -250,11 +297,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il valore di X_144 in una sequenza geometrica*
+*Catena di potenze da 4 a 128: valore del prodotto degli esponenti*
 
-> Supponiamo che $4^{x_1} = 5$, $5^{x_2} = 6$, $6^{x_3} = 7$, $\ldots$, $126^{x_{123}} = 127$, $127^{x_{124}} = 128$. Qual è il valore di $x_1 x_2 x_3 \cdots x_{124}$?
+> Si supponga che $4^{x_1} = 5$, $5^{x_2} = 6$, $6^{x_3} = 7$, $\ldots$, $126^{x_{123}} = 127$, $127^{x_{124}} = 128$. Qual è il valore di $x_1 x_2 x_3 \cdots x_{124}$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** \frac{7}{2}
+
+[[Quesiti/src_prmo_2012#q09|src_prmo_2012__Q09]]
 
 
 
@@ -277,11 +330,16 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza di AY in quadrato con triangoli equilaterali all'interno*
+*Quadrato di lato 1, due triangoli equilateri interni sui lati opposti: lunghezza del segmento che ne congiunge i terzi vertici*
 
-> $ABCD$ è quadrato e $AB = 1$. I triangoli equilaterali $AYB$ e $CXD$ sono disegnati in modo tale che $X$ e $Y$ siano all'interno del quadrato. Qual è la lunghezza di $XY$?
+> $ABCD$ è un quadrato e $AB = 1$. Si disegnano i triangoli equilateri $AYB$ e $CXD$ in modo che $X$ e $Y$ siano interni al quadrato. Qual è la lunghezza di $XY$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** \sqrt{3}-1
+
+[[Quesiti/src_prmo_2012#q10|src_prmo_2012__Q10]]
 
 
 
@@ -305,11 +363,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo numero intero diviso P(n) per tutti i numeri positivi pari n*
+*Massimo intero che divide P(n) per ogni intero positivo pari n*
 
-> Let $P(n) = (n+1)(n+3)(n+5)(n+7)(n+9)$. Qual è il numero intero più grande che è un divisore di $P(n)$ per tutti i numeri interi pari positivi $n$?
+> Sia $P(n) = (n+1)(n+3)(n+5)(n+7)(n+9)$. Qual è il massimo intero che divide $P(n)$ per ogni intero positivo pari $n$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 15
+
+[[Quesiti/src_prmo_2012#q11|src_prmo_2012__Q11]]
 
 
 
@@ -332,11 +396,16 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca m+n dato radicale nidificato = sqrt(m) - sqrt(n)*
+*Un reciproco di una radice annidata è differenza di due radici: somma degli interi sotto radice*
 
-> Se $\dfrac{1}{\sqrt{2011 + \sqrt{2011^2 - 1}}} = \sqrt{m} - \sqrt{n}$, dove $m$ e $n$ sono integri positivi, qual è il valore di $m + n$?
+> Se $\dfrac{1}{\sqrt{2011 + \sqrt{2011^2 - 1}}} = \sqrt{m} - \sqrt{n}$, dove $m$ e $n$ sono interi positivi, qual è il valore di $m + n$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 2011
+
+[[Quesiti/src_prmo_2012#q12|src_prmo_2012__Q12]]
 
 
 
@@ -359,9 +428,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valore della somma ciclica a/b + b/c + c/d + d/a con determinate condizioni*
+*Quattro relazioni fra a, b, c, d, tutti non nulli: valore della somma dei rapporti ciclici*
 
 > Se $a = b - c$, $b = c - d$, $c = d - a$ e $abcd \neq 0$, qual è il valore di $\dfrac{a}{b} + \dfrac{b}{c} + \dfrac{c}{d} + \dfrac{d}{a}$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_prmo_2012#q13|src_prmo_2012__Q13]]
 
 
 
@@ -384,11 +459,16 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo BAC in triangolo dato posizioni di circoncentro e incentro*
+*Circocentro interno e incentro sulla circonferenza per B, O e C: misura dell'angolo in A*
 
-> $O$ e $I$ sono rispettivamente il circoncentro e l'incentro di $\triangle ABC$. Supponiamo che $O$ si trovi all'interno di $\triangle ABC$ e $I$ si trova sul cerchio che attraversa $B$, $O$ e $C$. Qual è la magnitudine di $\angle BAC$ in gradi?
+> $O$ e $I$ sono rispettivamente il circocentro e l'incentro di $\triangle ABC$. Si supponga che $O$ sia interno a $\triangle ABC$ e che $I$ giaccia sulla circonferenza passante per $B$, $O$ e $C$. Qual è la misura di $\angle BAC$ in gradi?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 60
+
+[[Quesiti/src_prmo_2012#q14|src_prmo_2012__Q14]]
 
 
 
@@ -412,11 +492,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i valori interi negativi che soddisfano l'equazione del pavimento*
+*Quanti interi negativi hanno la stessa parte intera di x/3 e di x/5*
 
-> Quanti valori interi negativi di $x$ soddisfano l'equazione $\left[\dfrac{x}{3}\right] = \left[\dfrac{x}{5}\right]$? (Qui $[z]$ indica il più grande numero intero inferiore o uguale a $z$. Ad esempio $[3.4] = 3$ e $[-2.3] = -3$.)
+> Quanti valori interi negativi di $x$ soddisfano l'equazione $\left[\dfrac{x}{3}\right] = \left[\dfrac{x}{5}\right]$? Qui $[z]$ indica il massimo intero minore o uguale a $z$. Per esempio $[3.4] = 3$ e $[-2.3] = -3$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 8
+
+[[Quesiti/src_prmo_2012#q15|src_prmo_2012__Q15]]
 
 
 
@@ -444,11 +530,21 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di f(k) per k=1 a 20 data funzione di tipo moltiplicativo*
+*Funzione moltiplicativa strettamente crescente sui naturali, con f(2) = 2: somma dei primi venti valori*
 
-> $N$ sia l'insieme dei numeri naturali. Supponiamo che $f : N \to N$ sia una funzione che soddisfa le seguenti condizioni: a) $f(mn) = f(m)f(n)$; b) $f(m) < f(n)$ se $m < n$; c) $f(2) = 2$. Qual è il valore di $\displaystyle\sum_{k=1}^{20} f(k)$?
+> Sia $N$ l'insieme dei numeri naturali. Si supponga che $f : N \to N$ sia una funzione che soddisfa le condizioni seguenti:
+> (a) $f(mn) = f(m)f(n)$;
+> (b) $f(m) < f(n)$ se $m < n$;
+> (c) $f(2) = 2$.
+> Qual è il valore di $\displaystyle\sum_{k=1}^{20} f(k)$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 210
+
+[[Quesiti/src_prmo_2012#q16|src_prmo_2012__Q16]]
 
 
 
@@ -471,11 +567,16 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta dell'espressione del prodotto data alle radici di cubo*
+*Radici di x^3 + 3x + 5 = 0: valore del prodotto (x_i + 1/x_i)*
 
-> $x_1, x_2, x_3$ siano le radici dell'equazione $x^3 + 3x + 5 = 0$. Qual è il valore dell'espressione $\left(x_1 + \dfrac{1}{x_1}\right)\left(x_2 + \dfrac{1}{x_2}\right)\left(x_3 + \dfrac{1}{x_3}\right)$?
+> Siano $x_1, x_2, x_3$ le radici dell'equazione $x^3 + 3x + 5 = 0$. Qual è il valore dell'espressione $\left(x_1 + \dfrac{1}{x_1}\right)\left(x_2 + \dfrac{1}{x_2}\right)\left(x_3 + \dfrac{1}{x_3}\right)$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 
 **Risposta:** -\frac{18}{5}
+
+[[Quesiti/src_prmo_2012#q17|src_prmo_2012__Q17]]
 
 
 
@@ -498,9 +599,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei quadrati delle radici quadratiche che coinvolgono la funzione del pavimento*
+*Somma dei quadrati delle radici di un'equazione con la parte intera*
 
-> Qual è la somma dei quadrati delle radici dell'equazione $x^2 - 7[x] + 5 = 0$? (Qui $[x]$ indica il numero intero più grande inferiore o uguale a $x$. Per esempio $[3.4] = 3$ e $[-2.3] = -3$.)
+> Qual è la somma dei quadrati delle radici dell'equazione $x^2 - 7[x] + 5 = 0$? Qui $[x]$ indica il massimo intero minore o uguale a $x$. Per esempio $[3.4] = 3$ e $[-2.3] = -3$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2012#q18|src_prmo_2012__Q18]]
 
 
 
@@ -524,11 +631,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie di numeri interi (x,y) che soddisfano i quartici diofantini*
+*Quante coppie di interi soddisfano x^2 + 4y^2 − 2xy − 2x − 4y − 8 = 0*
 
-> Quante coppie di numeri interi $(x, y)$ soddisfano $x^2 + 4y^2 - 2xy - 2x - 4y - 8 = 0$?
+> Quante coppie di interi $(x, y)$ soddisfano $x^2 + 4y^2 - 2xy - 2x - 4y - 8 = 0$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 6
+
+[[Quesiti/src_prmo_2012#q19|src_prmo_2012__Q19]]
 
 
 
@@ -551,8 +664,13 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di regione delimitata da due semicircoli*
+*Due semicerchi, uno di diametro 4 e uno tangente: area della regione compresa fra gli archi*
 
-> $PS$ è un segmento di linea di lunghezza 4 e $O$ è il punto medio di $PS$. Un arco semicircolare è disegnato con $PS$ diametro. Che $X$ sia il punto medio di questo arco. $Q$ e $R$ sono punti sull'arco $PXS$ in modo tale che $QR$ sia parallelo a $PS$ e l'arco semicircolare disegnato con $QR$ come diametro sia tangente a $PS$. Qual è l'area della regione $QXROQ$ delimitata dai due archi semicircolari?
+> $PS$ è un segmento di lunghezza 4 e $O$ è il punto medio di $PS$. Si disegna un semicerchio di diametro $PS$. Sia $X$ il punto medio di questo arco. $Q$ e $R$ sono punti dell'arco $PXS$ tali che $QR$ è parallelo a $PS$ e il semicerchio di diametro $QR$ è tangente a $PS$. Qual è l'area della regione $QXROQ$ delimitata dai due archi di semicerchio?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 
 **Risposta:** \pi - 2
+
+[[Quesiti/src_prmo_2012#q20|src_prmo_2012__Q20]]

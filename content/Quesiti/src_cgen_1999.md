@@ -12,32 +12,56 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_solida,topic_insiemi_funzioni,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Maximize volume of cylinder and sphere inside a cone*
+*Cylindre et boule de volume maximal intérieurs à un cône, de même axe*
 
-> A cylinder has the same axis of revolution as a given cone and lies inside it.
-> 
-> 1. What is the maximum volume of such a cylinder?
-> 2. What is the maximum volume of a sphere centred on this axis and lying inside the cone?
-> 3. Compare the two maxima found.
+> **Exercice 1**
+>
+> Quel est le volume maximum d'un cylindre ayant même axe de révolution qu'un cône donné et intérieur à ce cône ?
+>
+> Quel est le volume maximum d'une boule, centrée sur cet axe et intérieure au cône ?
+>
+> Comparer les deux maximums trouvés.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Topic:** [[topic_geometria_solida|Géométrie dans l'espace]], [[topic_insiemi_funzioni|Ensembles et fonctions]]
+**Metodo:** [[method_estremalita|Extrémalité]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_modellizzazione|Modélisation]]
+**Area:** [[Geometria|Géométrie]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare il volume del cilindro e della sfera all'interno di un cono*
+*Cilindro e sfera di volume massimo interni a un cono, con lo stesso asse*
 
-> Un cilindro ha lo stesso asse di rivoluzione di un determinato cono e si trova all'interno di esso.
-> 
-> 1. Qual è il volume massimo di tale cilindro? 2. Qual è il volume massimo di una sfera centrata su questo asse e all'interno del cono? 3. Confronta i due massimi trovati.
+> **Esercizio 1**
+>
+> Qual è il volume massimo di un cilindro che ha lo stesso asse di rivoluzione di un cono dato ed è interno a questo cono?
+>
+> Qual è il volume massimo di una sfera, centrata su questo asse e interna al cono?
+>
+> Confrontare i due massimi trovati.
+
+[[Quesiti/src_cgen_1999#q01|src_cgen_1999__Q01]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Cylinder and ball of maximal volume inside a cone, with the same axis*
+
+> **Exercise 1**
+>
+> What is the maximum volume of a cylinder having the same axis of revolution as a given cone and contained in that cone?
+>
+> What is the maximum volume of a ball, centred on this axis and contained in the cone?
+>
+> Compare the two maxima found.
+
+[[Quesiti/src_cgen_1999#q01|src_cgen_1999__Q01]]
 
 
 
@@ -65,88 +89,166 @@ level: Concours Général
 
 > Risolvere in $\mathbb{N}$ l'equazione in $n$: $$( n+3)^{n} = \sum_{k=1}^{n+2} k^{n}$$
 
+[[Quesiti/src_cgen_1999#q02|src_cgen_1999__Q02]]
+
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_trigonometria,method_estremalita,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Acute triangle maximizing ratio of shortest side to inradius*
+*Triangles acutangles maximisant le plus petit côté divisé par le rayon du cercle inscrit*
 
-> For which acute-angled triangles is the ratio of the shortest side to the radius of the inscribed circle the largest?
+> **Exercice 3**
+>
+> Pour quels triangles aux angles tous aigus le quotient du plus petit côté par le rayon du cercle inscrit est-il maximum ?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_trigonometria|Trigonométrie]]
+**Metodo:** [[method_estremalita|Extrémalité]], [[method_trigonometria|Trigonométrie]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_modellizzazione|Modélisation]]
+**Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto massimizzando il rapporto lato più breve a raggio*
+*Triangoli acutangoli che massimizzano il lato più piccolo diviso per l'inraggio*
 
-> Per quali triangoli a angolo acuto il rapporto tra lato più corto e raggio del cerchio inciso è maggiore?
+> **Esercizio 3**
+>
+> Per quali triangoli con tutti gli angoli acuti il quoziente del lato più piccolo per il raggio del cerchio inscritto è massimo?
+
+[[Quesiti/src_cgen_1999#q03|src_cgen_1999__Q03]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Acute triangles maximising the smallest side divided by the inradius*
+
+> **Exercise 3**
+>
+> For which triangles with all angles acute is the quotient of the smallest side by the inradius maximal?
+
+[[Quesiti/src_cgen_1999#q03|src_cgen_1999__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_combinatoria,method_invarianti,method_induzione,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Candy-eating algorithm: prove last candy eaten is red*
+*1999 bonbons rouges et 6661 jaunes : le dernier mangé est rouge avec quelle probabilité ?*
 
-> On a table there are 1999 red sweets and 6661 yellow sweets, indistinguishable by touch. A greedy person applies the following algorithm until the stock is exhausted:
-> 
-> a) If sweets remain, he picks one at random, notes its colour, and goes to step b).
-> b) If sweets remain, he picks one at random and notes its colour:
->    - if its colour is the same as the last sweet swallowed, he eats it and goes back to a);
->    - otherwise, he puts it back and goes back to a).
-> 
-> Show that all the sweets will be eaten and determine the probability that the last sweet eaten is red.
+> **Exercice 4**
+>
+> Sur une table trônent $1999$ bonbons rouges et $6661$ bonbons jaunes, rendus indiscernables par des emballages uniformes.
+>
+> Un gourmand applique jusqu'à épuisement du stock l'algorithme ci-dessous :
+>
+> a) S'il reste des bonbons, il en tire un au hasard, note sa couleur, le mange et va en b) ;
+>
+> b) S'il reste des bonbons, il en tire un au hasard et note sa couleur :
+>
+> - si elle est la même que celle du dernier bonbon avalé, il le mange et retourne en b) ;
+> - sinon, il le remballote, le pose et retourne en a).
+>
+> Montrer que tous les bonbons seront mangés, et donner la probabilité pour que le dernier bonbon mangé soit rouge.
 
-**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilités]], [[topic_combinatoria|Combinatoire]]
+**Metodo:** [[method_invarianti|Invariants]], [[method_induzione|Récurrence]], [[method_casework|Disjonction de cas]]
+**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_lettura_attenta|Lecture attentive]], [[skill_conteggio_sistematico|Dénombrement systématique]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Algorithm di consumo di caramelle: dimostrare che l'ultima caramella consumata è rossa*
+*1999 caramelle rosse e 6661 gialle: probabilità che l'ultima mangiata sia rossa*
 
-> Su un tavolo ci sono dolci rossi 1999 e dolci gialli 6661, indistinguibili dal tatto. Una persona avida applica l'algoritmo seguente fino a quando il magazzino non è esaurito:
-> 
-> a) Se rimangono dolci, ne sceglie uno a caso, ne prende nota il colore e passa al passaggio b). b) Se rimangono dolci, ne sceglie uno a caso e ne prende nota del colore: - se il colore è lo stesso dell'ultimo dolce ingerito, lo mangia e torna a a); - altrimenti, lo rimette e torna a a).
-> 
-> Mostrare che tutti i dolci saranno mangiati e determinare la probabilità che l'ultimo dolce mangiato sia rosso.
+> **Esercizio 4**
+>
+> Su un tavolo ci sono $1999$ caramelle rosse e $6661$ caramelle gialle, rese indistinguibili da involucri uniformi.
+>
+> Un goloso applica fino a esaurimento delle scorte l'algoritmo seguente:
+>
+> a) Se restano caramelle, ne pesca una a caso, ne annota il colore, la mangia e va in b);
+>
+> b) Se restano caramelle, ne pesca una a caso e ne annota il colore:
+>
+> - se è lo stesso dell'ultima caramella mangiata, la mangia e torna in b);
+> - altrimenti, la reimpacchetta, la posa e torna in a).
+>
+> Dimostrare che tutte le caramelle saranno mangiate, e dare la probabilità che l'ultima caramella mangiata sia rossa.
+
+[[Quesiti/src_cgen_1999#q04|src_cgen_1999__Q04]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*1999 red sweets and 6661 yellow ones: probability that the last one eaten is red*
+
+> **Exercise 4**
+>
+> On a table there are $1999$ red sweets and $6661$ yellow sweets, made indistinguishable by uniform wrappers.
+>
+> A greedy person applies the following algorithm until the stock is exhausted:
+>
+> a) If any sweets remain, he draws one at random, notes its colour, eats it and goes to b);
+>
+> b) If any sweets remain, he draws one at random and notes its colour:
+>
+> - if it is the same as that of the last sweet eaten, he eats it and returns to b);
+> - otherwise, he rewraps it, puts it back and returns to a).
+>
+> Prove that all the sweets will be eaten, and give the probability that the last sweet eaten is red.
+
+[[Quesiti/src_cgen_1999#q04|src_cgen_1999__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Symmetrics of a triangle vertex wrt opposite side are collinear iff orthocentre equals circumdiameter*
+*Symétriques des sommets alignés si et seulement si OH égale le diamètre*
 
-> Show that the symmetrics of each vertex of a triangle with respect to the opposite side are collinear if, and only if, the distance from the orthocentre to the centre of the circumscribed circle equals the diameter of that circle.
+> **Exercice 5**
+>
+> Montrer que les symétriques de chaque sommet d'un triangle par rapport au côté opposé sont alignés si, et seulement si, la distance de l'orthocentre au centre du cercle circonscrit est égale au diamètre de ce cercle.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_geometria_analitica|Géométrie analytique]]
+**Metodo:** [[method_coordinate|Coordonnées]], [[method_simmetria|Symétrie]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_astrazione|Abstraction]]
+**Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le simmetrie di un triangolo vertice sul lato opposto sono collineari se l'ortocentro è uguale al diametro circostante*
+*I simmetrici dei vertici sono allineati se e solo se OH è uguale al diametro*
 
-> Mostrare che le simmetrie di ciascun vertice di un triangolo rispetto al lato opposto sono collineari se, e solo se, la distanza dall'ortocentro al centro del cerchio circoscritto è uguale al diametro di quel cerchio.
+> **Esercizio 5**
+>
+> Dimostrare che i simmetrici di ciascun vertice di un triangolo rispetto al lato opposto sono allineati se e solo se la distanza dall'ortocentro al centro del cerchio circoscritto è uguale al diametro di questo cerchio.
+
+[[Quesiti/src_cgen_1999#q05|src_cgen_1999__Q05]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Reflections of the vertices are collinear if and only if OH equals the diameter*
+
+> **Exercise 5**
+>
+> Prove that the reflections of each vertex of a triangle across the opposite side are collinear if and only if the distance from the orthocentre to the circumcentre is equal to the diameter of that circle.
+
+[[Quesiti/src_cgen_1999#q05|src_cgen_1999__Q05]]

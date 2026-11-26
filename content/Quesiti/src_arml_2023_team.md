@@ -22,18 +22,20 @@ level: ARML Team Round
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 14400
-**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.4](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=4)
-**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.4
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*“Sort-of-decreasing” numbers*
+*Quasi decrescenti numbers*
 
-> A six-digit natural number is “*sort-of-decreasing*” if its first three digits are in strictly decreasing order and its last three digits are in strictly decreasing order. For example, 821950 and 631631 are sort-of-decreasing but 853791 and 911411 are not. Compute the number of sort-of-decreasing six-digit natural numbers.
+> A six-digit natural number is called *quasi decrescent* if its first three digits are in strictly decreasing order and also its last three digits are in strictly decreasing order. For example, 821950 and 631631 are quasi decrescent, while 853791 and 911411 are not. Calculate how many six-digit natural numbers are quasi decrescent.
 
-**Answer:** 14400
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+[[Quesiti/src_arml_2023_team#q01|src_arml_2023_team__Q01]]
 
 
 
@@ -49,8 +51,8 @@ level: ARML Team Round
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0034
-**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.4](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=4)
-**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.4
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -58,9 +60,11 @@ level: ARML Team Round
 
 *Product of the digits*
 
-> For each positive integer $N$, let $P(N)$ denote the product of the digits of $N$. For example, $P(8) = 8$, $P(451) = 20$, and $P(2023) = 0$. Compute the least positive integer $n$ such that $P(n + 23) = P(n) + 23$.
+> For every positive integer $N$, let $P(N)$ be the product of the digits of $N$. For example, $P(8)=8$, $P(451)=20$ and $P(2023)=0$. Find the smallest positive integer $n$ such that $P(n+23)=P(n)+23$.
 
-**Answer:** 0034
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_arml_2023_team#q02|src_arml_2023_team__Q02]]
 
 
 
@@ -78,20 +82,22 @@ level: ARML Team Round
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $-7$
-**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.4](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=4)
-**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.4
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Least integer value of a rational function*
+*Minimum integer value of a rational function*
 
-> Compute the least integer value of the function
-> $$f(x)=\frac{x^4-6x^3+2x^2-6x+2}{x^2+1}$$
+> Calculate the minimum integer value taken by the function
+> $$f(x)=\frac{x^4-6x^3+2x^2-6x+2}{x^2+1},$$
 > whose domain is the set of all real numbers.
 
-**Answer:** $-7$
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_arml_2023_team#q03|src_arml_2023_team__Q03]]
 
 
 
@@ -107,18 +113,20 @@ level: ARML Team Round
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** $25\sqrt{3}$
-**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.5](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=5)
-**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.5
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two noncongruent triangles*
+*Two non-congruent triangles*
 
-> Suppose that noncongruent triangles $ABC$ and $XYZ$ are given such that $AB = XY = 10$, $BC = YZ = 9$, and $m\angle CAB = m\angle ZXY = 30^\circ$. Compute $[ABC] + [XYZ]$.
+> Suppose that the non-congruent triangles $ABC$ and $XYZ$ are such that $AB=XY=10$, $BC=YZ=9$ and $m\angle CAB=m\angle ZXY=30^\circ$. Calculate $[ABC]+[XYZ]$.
 
-**Answer:** $25\sqrt{3}$
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_arml_2023_team#q04|src_arml_2023_team__Q04]]
 
 
 
@@ -134,8 +142,8 @@ level: ARML Team Round
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0012
-**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.5](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=5)
-**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.5
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -143,9 +151,11 @@ level: ARML Team Round
 
 *Consecutive mean, median and mode*
 
-> The mean, median, and unique mode of a list of positive integers are three consecutive integers in some order. Compute the least possible sum of the integers in the original list.
+> The mean, the median and the only mode of a list of positive integers are, in some order, three consecutive integers. Calculate the minimum possible sum of the integers in the original list.
 
-**Answer:** 0012
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+[[Quesiti/src_arml_2023_team#q05|src_arml_2023_team__Q05]]
 
 
 
@@ -161,18 +171,20 @@ level: ARML Team Round
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 7711
-**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.6](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=6)
-**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.6
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*David's round table*
+*The round table of David*
 
-> David builds a circular table; he then carves one or more positive integers into the table at points equally spaced around its circumference. He considers two tables to be the same if one can be rotated so that it has the same numbers in the same positions as the other. For example, a table with the numbers 8, 4, 5 (in clockwise order) is considered the same as a table with the numbers 4, 5, 8 (in clockwise order), but both tables are different from a table with the numbers 8, 5, 4 (in clockwise order). Given that the numbers he carves sum to 17, compute the number of different tables he can make.
+> David builds a round table; then he carves one or more positive integers into the table, at points equally spaced along its circumference. He considers two tables equal if one can be rotated so that it has the same numbers in the same positions as the other. For example, a table with the numbers 8, 4, 5 (clockwise) is considered equal to a table with the numbers 4, 5, 8 (clockwise), but both are different from a table with the numbers 8, 5, 4 (clockwise). Knowing that the carved numbers have sum 17, calculate how many different tables he can make.
 
-**Answer:** 7711
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_arml_2023_team#q06|src_arml_2023_team__Q06]]
 
 
 
@@ -188,18 +200,20 @@ level: ARML Team Round
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** $\sqrt{130}$
-**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.6](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=6)
-**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.6
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diameter of a circumcircle*
+*Diameter of a circumscribed circle*
 
-> In quadrilateral $ABCD$, $m\angle B + m\angle D = 270^\circ$. The circumcircle of $\triangle ABD$ intersects $\overline{CD}$ at point $E$, distinct from $D$. Given that $BC = 4$, $CE = 5$, and $DE = 7$, compute the diameter of the circumcircle of $\triangle ABD$.
+> In quadrilateral $ABCD$, $m\angle B+m\angle D=270^\circ$. The circle circumscribed about $\triangle ABD$ intersects $\overline{CD}$ at the point $E$, distinct from $D$. Given that $BC=4$, $CE=5$ and $DE=7$, calculate the diameter of the circle circumscribed about $\triangle ABD$.
 
-**Answer:** $\sqrt{130}$
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_arml_2023_team#q07|src_arml_2023_team__Q07]]
 
 
 
@@ -217,8 +231,8 @@ level: ARML Team Round
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0016
-**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.7](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=7)
-**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.7
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -226,11 +240,13 @@ level: ARML Team Round
 
 *Xena's paths*
 
-![[src_arml_2023_team__prob8.png]]
+> ![[src_arml_2023_team__prob8.png]]
+>
+> Xena traces a path along the segments of the figure, starting and ending at point $A$. The path passes exactly once through each of the eleven vertices different from $A$ and touches $A$ only at the beginning and at the end. Calculate how many different paths Xena can trace.
 
-> Suppose that Xena traces a path along the segments in the figure shown, starting and ending at point $A$. The path passes through each of the eleven vertices besides $A$ exactly once, and only visits $A$ at the beginning and end of the path. Compute the number of possible paths Xena could trace.
 
-**Answer:** 0016
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_arml_2023_team#q08|src_arml_2023_team__Q08]]
 
 
 
@@ -244,18 +260,18 @@ level: ARML Team Round
 > Sia $i=\sqrt{-1}$. Il numero complesso $z=-142+333\sqrt5\,i$ si può scrivere in più modi come prodotto di due numeri complessi; due di questi sono $(57-8\sqrt5\,i)(-6+5\sqrt5\,i)$ e $(24+\sqrt5\,i)(-3+14\sqrt5\,i)$. Sapendo che $z=-142+333\sqrt5\,i$ si può scrivere come $(a+b\sqrt5\,i)(c+d\sqrt5\,i)$, dove $a$, $b$, $c$ e $d$ sono interi *positivi*, calcolare il minore tra $a+b$ e $c+d$.
 
 **Risposta:** 0017
-**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.8](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=8)
-**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.8
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Factorizations of a complex number*
+*Factorisations of a complex number*
 
-> Let $i = \sqrt{-1}$. The complex number $z = -142 + 333\sqrt{5}i$ can be expressed as a product of two complex numbers in multiple different ways, two of which are $(57 - 8\sqrt{5}i)(-6 + 5\sqrt{5}i)$ and $(24 + \sqrt{5}i)(-3 + 14\sqrt{5}i)$. Given that $z = -142 + 333\sqrt{5}i$ can be written as $(a + b\sqrt{5}i)(c + d\sqrt{5}i)$, where $a$, $b$, $c$, and $d$ are *positive* integers, compute the lesser of $a + b$ and $c + d$.
+> Let $i=\sqrt{-1}$. The complex number $z=-142+333\sqrt5\,i$ can be written in more than one way as a product of two complex numbers; two of these are $(57-8\sqrt5\,i)(-6+5\sqrt5\,i)$ and $(24+\sqrt5\,i)(-3+14\sqrt5\,i)$. Knowing that $z=-142+333\sqrt5\,i$ can be written as $(a+b\sqrt5\,i)(c+d\sqrt5\,i)$, where $a$, $b$, $c$ and $d$ are *positive* integers, find the smaller of $a+b$ and $c+d$.
 
-**Answer:** 0017
+[[Quesiti/src_arml_2023_team#q09|src_arml_2023_team__Q09]]
 
 
 
@@ -271,8 +287,8 @@ level: ARML Team Round
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** $\sqrt{2}-1$
-**Fonte risposta:** [elenco risposte ufficiale](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=3) · [soluzione ufficiale PDF p.8](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=8)
-**Fonte:** [apri PDF p.2](https://www.arml.com/ARML/arml_2019/public_contest_files/2023_contest_file/ARML_2023Contest.pdf#page=2) · arml.com (ARML Competition 2023, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.8
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2023, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -280,6 +296,8 @@ level: ARML Team Round
 
 *Rotated parallelogram*
 
-> Parallelogram $ABCD$ is rotated about $A$ in the plane, resulting in $AB'C'D'$, with $D$ on $\overline{AB'}$. Suppose that $[B'CD] = [ABD'] = [BCC']$. Compute $\tan\angle ABD$.
+> The parallelogram $ABCD$ is rotated about $A$ in the plane, obtaining $AB'C'D'$, with $D$ on the segment $\overline{AB'}$. Suppose that $[B'CD]=[ABD']=[BCC']$. Calculate $\tan\angle ABD$.
 
-**Answer:** $\sqrt{2}-1$
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_arml_2023_team#q10|src_arml_2023_team__Q10]]

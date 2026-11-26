@@ -29,9 +29,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Salto dei numeri 1 e 3: ultimo numero di pagina scritto*
+*Saltando i numeri 1 e 3: ultimo numero di pagina scritto*
 
-> Natasha è superstiziosa e, quando numerò le 200 pagine del suo diario a partire da 1, ha saltato tutti i numeri di pagina contenenti i numeri 1 o 3 (in qualsiasi ordine). Per esempio, i numeri 31 e 137 non appaiono, ma 103 appaiono. Qual è il numero che Natasha ha scritto sull'ultima pagina del suo diario?
+> Natasha è superstiziosa e, quando ha numerato le 200 pagine del suo diario partendo da 1, ha saltato tutti i numeri di pagina che contenevano le cifre 1 o 3 (in qualsiasi ordine). Per esempio, i numeri 31 e 137 non compaiono, ma 103 compare. Qual è il numero che Natasha ha scritto sull'ultima pagina del suo diario?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n2_f2#q01|src_obm_2005_n2_f2__Q01]]
 
 
 
@@ -56,11 +63,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro pezzi triangolari uguali formano due quadrati; trovare lato del terzo quadrato*
+*Quattro pezzi triangolari uguali formano due quadrati; trova il lato del terzo quadrato*
 
-> Quattro pezzi uguali, ognuno a forma di triangolo, erano disposti in due modi diversi, come mostrato nelle figure di seguito. I quadrati $ABCD$ e $EFGH$ hanno lati uguali rispettivamente a $3\,\text{cm}$ e $9\,\text{cm}$. Determinare la lunghezza laterale del quadrato $IJKL$.
+> Quattro pezzi uguali, ciascuno a forma di triangolo, sono stati disposti in due modi diversi, come mostrato nelle figure sottostanti. I quadrati $ABCD$ e $EFGH$ hanno lati rispettivamente uguali a $3\,\text{cm}$ e $9\,\text{cm}$. Determinare la lunghezza del lato del quadrato $IJKL$.
 
 ![[src_obm_2005_n2_f2__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n2_f2#q02|src_obm_2005_n2_f2__Q02]]
 
 
 
@@ -87,13 +101,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Griglia delle scale di quadrati numerati; nastri di nastro di conteggio utilizzati*
+*Griglia a scale di quadrati numerati; conta le strisce del nastro metrico utilizzate*
 
-> Juliana stava scrivendo numeri interi positivi in quadrati di carta incollati fianco a fianco in un modello di scala, dove ogni colonna (da sinistra a destra) ha un quadrato in più rispetto alla colonna precedente. Una striscia di nastro viene posizionata lungo ogni bordo interno condiviso da due quadrati adiacenti. Ha scritto al numero $105$ e si è fermata. Quante strisce di nastro ha usato?
-> 
-> (La figura mostra la disposizione delle scale: la colonna $1$ ha $1$ quadrato, la colonna $2$ ha $2$ quadrati, la colonna $3$ ha $3$ quadrati e così via, con i quadrati numerati $1, 2, 3, \ldots$ dall'alto in basso all'interno di ciascuna colonna e colonne ordinate da sinistra a destra.)
+> Juliana scriveva numeri interi positivi in quadrati di carta incollati l'uno accanto all'altro a formare una scala, in cui ogni colonna (da sinistra a destra) aveva un quadrato in più rispetto alla colonna precedente. Lungo ciascun bordo interno condiviso da due quadrati adiacenti veniva applicata una striscia di nastro adesivo. Scrisse fino al numero $105$ e si fermò. Quante strisce di nastro adesivo utilizzò?
+>
+> (La figura mostra la disposizione delle scale: la colonna $1$ ha $1$ quadrati, la colonna $2$ ha $2$ quadrati, la colonna $3$ ha $3$ quadrati, e così via; all'interno di ciascuna colonna i quadrati sono numerati $1, 2, 3, \ldots$ dall'alto verso il basso, e le colonne sono ordinate da sinistra a destra.)
 
 ![[src_obm_2005_n2_f2__q03.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n2_f2#q03|src_obm_2005_n2_f2__Q03]]
 
 
 
@@ -118,11 +139,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Terra quadrilaterale suddivisa in quattro lotti; trovare superficie del quarto lotto*
+*Terreno quadrilatero suddiviso in quattro lotti; calcolare l'area del quarto lotto*
 
-> Un terreno quadrilaterale era diviso in quattro lotti più piccoli da due linee rette che collegavano i punti di mezzo di lati opposti. Le aree di tre dei quattro lotti sono indicate nella mappa di seguito (in metri quadrati): $200$, $210$ e $250$. Qual è l'area del quarto lotto (representato dalla regione oscura sulla mappa)?
+> Un terreno di forma quadrilatera è stato suddiviso in quattro lotti più piccoli da due rette che congiungono i punti medi dei lati opposti. Le aree di tre dei quattro lotti sono indicate nella mappa sottostante (in metri quadrati): $200$, $210$ e $250$. Qual è l'area del quarto lotto (rappresentato dalla regione scura nella mappa)?
 
 ![[src_obm_2005_n2_f2__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n2_f2#q04|src_obm_2005_n2_f2__Q04]]
 
 
 
@@ -145,9 +173,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero intero positivo più piccolo che soddisfa quattro condizioni di divisibilità*
+*Il più piccolo numero intero positivo che soddisfa quattro condizioni di divisibilità*
 
-> Che $a$ sia un intero positivo tale che $a + 1$ sia un multiple di $5$, $a + 2$ sia un multiple di $7$, $a + 3$ sia un multiple di $9$, e $a + 3$ sia un multiple di $11$. Determinare il valore più piccolo che $a$ può assumere.
+> Sia $a$ un numero intero positivo tale che $a + 1$ sia un multiplo di $5$, $a + 2$ sia un multiplo di $7$, $a + 3$ sia un multiplo di $9$ e $a + 3$ sia un multiplo di $11$. Determinare il valore minimo che $a$ può assumere.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n2_f2#q05|src_obm_2005_n2_f2__Q05]]
 
 
 
@@ -172,11 +207,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la percentuale totale di risposte corrette in un esame di tre soggetti*
+*Trovare la percentuale totale di risposte corrette in un esame su tre materie*
 
-> Gabriel risolve un esame di matematica contenente domande sull'algebra, la geometria e la logica. Dopo aver verificato il suo risultato, Gabriel osservò che aveva risposto correttamente $50\%$ delle domande di algebra, $70\%$ delle domande di geometria e $80\%$ delle domande di logica. Gabriel notò anche che rispose correttamente esattamente $62\%$ delle domande di algebra e logica combinate, e $74\%$ delle domande di geometria e logica combinate. Quale percentuale di tutte le domande dell'esame di Gabriel ha risposto correttamente?
-> 
-> (Nota: questo è Parte B, Problema 1, vale 10 punti ciascuno.)
+> Gabriel ha svolto un esame di matematica che comprendeva domande di algebra, geometria e logica. Dopo aver controllato il proprio risultato, Gabriel ha osservato di aver risposto correttamente a $50\%$ domande di algebra, a $70\%$ domande di geometria e a $80\%$ domande di logica. Gabriel ha inoltre notato di aver risposto correttamente esattamente a $62\%$ domande tra quelle di algebra e logica messe insieme, e a $74\%$ domande tra quelle di geometria e logica messe insieme. Quale percentuale di tutte le domande presenti nell'esame di Gabriel ha risposto correttamente?
+>
+> (Nota: questa è la Parte B, Problema 1, da 10 punti ciascuno.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n2_f2#q06|src_obm_2005_n2_f2__Q06]]
 
 
 
@@ -201,11 +243,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo tagliato da cartone quadrato; trovare la somma di due angoli segnati*
+*Triangolo ricavato da un quadrato di cartone; trova la somma dei due angoli segnati*
 
-> Un triangolo rettangolo viene tagliato da un pezzo quadrato di cartone. La somma delle lunghezze delle due gambe del triangolo tagliato è uguale alla lunghezza laterale del quadrato. Trova il valore della somma degli angoli $\alpha + \beta$ indicati nella figura, dove il triangolo ha un angolo $27^\circ$ e $\alpha$, $\beta$ sono angoli formati tra i lati del triangolo e i lati del resto della cartone.
+> Da un pezzo di cartone quadrato si taglia un triangolo rettangolo. La somma delle lunghezze dei due cateti del triangolo tagliato è uguale alla lunghezza del lato del quadrato. Determinare il valore della somma degli angoli $\alpha + \beta$ indicati nella figura, dove il triangolo ha un angolo $27^\circ$ e $\alpha$, $\beta$ sono gli angoli formati tra i lati del triangolo e i lati del cartone rimanente.
 
 ![[src_obm_2005_n2_f2__q07.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n2_f2#q07|src_obm_2005_n2_f2__Q07]]
 
 
 
@@ -230,11 +279,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fattore polinomio; trovare tutte le coppie di numeri interi che soddisfano l'equazione quadrata*
+*Fattorizza il polinomio; trova tutte le coppie di numeri interi che soddisfano l'equazione quadratica*
 
-> (a) Factor l'espressione $x^2 - 9xy + 8y^2$.
-> 
-> b) Determinare tutte le coppie di integri $(x, y)$ tali da $9xy - x^2 - 8y^2 = 2005$.
+> (a) Scomponi in fattori l'espressione $x^2 - 9xy + 8y^2$.
+>
+> (b) Determina tutte le coppie di interi $(x, y)$ tali che $9xy - x^2 - 8y^2 = 2005$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n2_f2#q08|src_obm_2005_n2_f2__Q08]]
 
 
 
@@ -263,12 +319,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Sequenze di domino con case 1-3: ordini di conteggio, spiegazione dell'impossibilità di 1-4
+*Sequenze di domino con case 1-3: conta le disposizioni, spiega l'impossibilità per 1-4*
 
-> Ogni gioco di domino ha due case numerate. Considerare i pezzi $6$ formati utilizzando solo i numeri $1$, $2$ e $3$:
-> 
-> (a) In quanti modi è possibile organizzare tutti questi pezzi in una sequenza in modo che la casa destra di ciascun pezzo sia uguale alla casa sinistra del pezzo successivo? Qui di seguito sono riportati due esempi.
-> 
-> b) Spiega perché non sia possibile fare lo stesso con tutti i pezzi $10$ formati utilizzando solo i numeri $1$, $2$, $3$ e $4$.
+> Ogni tessera del gioco del domino ha due semi numerati. Si considerino le $6$ tessere formate utilizzando solo i numeri $1$, $2$ e $3$:
+>
+> (a) In quanti modi è possibile disporre in una sequenza tutti i $6$ pezzi di questo tipo in modo che la casa destra di ciascun pezzo coincida con la casa sinistra del pezzo successivo? Di seguito sono mostrati due esempi.
+>
+> (b) Spiega perché non è possibile fare lo stesso con tutti i pezzi $10$ formati utilizzando soltanto i numeri $1$, $2$, $3$ e $4$.
 
 ![[src_obm_2005_n2_f2__q09.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n2_f2#q09|src_obm_2005_n2_f2__Q09]]

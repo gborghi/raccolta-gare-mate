@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Configurazione del cerchio dell'ortocentro in un triangolo acutangolo*
+*Configurazione del cerchio dell'ortocentro nel triangolo acutangolo*
 
-> Sia $ABC$ un triangolo acutangolo con ortocentro $H$. La circonferenza passante per $H$ e avente centro nel punto medio di $BC$ interseca la retta $BC$ nei punti $A_1$ e $A_2$. Analogamente, la circonferenza passante per $H$ e avente centro nel punto medio di $CA$ interseca la retta $CA$ nei punti $B_1$ e $B_2$, e la circonferenza passante per $H$ e avente centro nel punto medio di $AB$ interseca la retta $AB$ nei punti $C_1$ e $C_2$. Si dimostri che i punti $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $C_2$ appartengono a una stessa circonferenza.
+> Un triangolo acutangolo $ABC$ ha ortocentro $H$. La circonferenza che passa per $H$ e ha per centro il punto medio di $BC$ interseca la retta $BC$ nei punti $A_1$ e $A_2$. Analogamente, la circonferenza che passa per $H$ e ha per centro il punto medio di $CA$ interseca la retta $CA$ nei punti $B_1$ e $B_2$, e la circonferenza che passa per $H$ e ha per centro il punto medio di $AB$ interseca la retta $AB$ nei punti $C_1$ e $C_2$. Dimostrare che $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $C_2$ giacciono su una circonferenza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2008#q01|src_imho_2008__Q01]]
 
 
 
@@ -58,13 +65,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disuguaglianza per numeri reali con xyz=1, dimostrare che la somma è almeno 1*
+*Disuguaglianza per i numeri reali con xyz=1, poi dimostrare che la somma ≥1*
 
-> (a) Si dimostri che
+> (a) Dimostrare che
 > $$\frac{x^2}{(x-1)^2} + \frac{y^2}{(y-1)^2} + \frac{z^2}{(z-1)^2} \ge 1$$
-> per tutti i numeri reali $x$, $y$, $z$, ciascuno diverso da $1$, e tali che $xyz = 1$.
-> 
-> (b) Si dimostri che l'uguaglianza vale sopra per infiniti triple di numeri razionali $x$, $y$, $z$, ciascuno diverso da $1$, e che soddisfano $xyz = 1$.
+> per tutti i numeri reali $x$, $y$, $z$, ciascuno diverso da $1$ e tale che $xyz = 1$.
+>
+> (b) Dimostrare che, sopra, l'uguaglianza vale per infiniti terne di numeri razionali $x$, $y$, $z$, ciascuno diverso da $1$ e tale che $xyz = 1$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2008#q02|src_imho_2008__Q02]]
 
 
 
@@ -89,7 +103,14 @@ level: IMO
 
 *Infiniti n tali che n²+1 abbia un divisore primo > 2n+√(2n)*
 
-> Si dimostri che esistono infiniti interi positivi $n$ tali che $n^2 + 1$ ha un divisore primo maggiore di $2n + \sqrt{2n}$.
+> Dimostrare che esistono infiniti interi positivi $n$ tali che $n^2 + 1$ abbia un divisore primo maggiore di $2n + \sqrt{2n}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2008#q03|src_imho_2008__Q03]]
 
 
 
@@ -114,11 +135,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale sui reali positivi con condizione wx=yz*
+*Equazione funzionale sui numeri reali positivi con la condizione wx=yz*
 
-> Determinare tutte le funzioni $f : (0, \infty) \to (0, \infty)$ (in modo che $f$ sia una funzione dai numeri reali positivi ai numeri reali positivi) tali che
+> Trovare tutte le funzioni $f : (0, \infty) \to (0, \infty)$ (cosicché $f$ sia una funzione dai numeri reali positivi ai numeri reali positivi) tali che
 > $$\frac{\left(f(w)\right)^2 + \left(f(x)\right)^2}{f(y^2) + f(z^2)} = \frac{w^2 + x^2}{y^2 + z^2}$$
 > per tutti i numeri reali positivi $w$, $x$, $y$, $z$, che soddisfano $wx = yz$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2008#q04|src_imho_2008__Q04]]
 
 
 
@@ -147,15 +175,22 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rapporto di conteggio N/M per le sequenze di commutazione delle lampade*
+*Calcola il rapporto N/M per le sequenze di commutazione delle lampade*
 
-> Siano $n$ e $k$ interi positivi con $k \ge n$ e $k - n$ un numero pari. Siano dati $2n$ lampade etichettate con $1, 2, \ldots, 2n$, ciascuna delle quali può essere accesa o spenta. Inizialmente tutte le lampade sono spente. Si considerino sequenze di passi: in ogni passo si commuta una delle lampade (da accesa a spenta o da spenta ad accesa).
-> 
-> Sia $N$ il numero di tali successioni costituite da $k$ passi e che portano allo stato in cui le lampade da $1$ a $n$ sono tutte accese, e le lampade da $n+1$ a $2n$ sono tutte spente.
-> 
-> Sia $M$ il numero di tali successioni costituite da $k$ passi, che portano allo stato in cui le lampade $1$ fino a $n$ sono tutte accese, e le lampade $n+1$ fino a $2n$ sono tutte spente, ma tali che nessuna delle lampade $n+1$ fino a $2n$ viene mai accesa.
-> 
+> Siano $n$ e $k$ numeri interi positivi, con $k \ge n$ e $k - n$ un numero pari. Siano date $2n$ lampade etichettate con $1, 2, \ldots, 2n$, ciascuna delle quali può essere accesa o spenta. Inizialmente tutte le lampade sono spente. Si considerano sequenze di mosse: ad ogni mossa si commuta una delle lampade (da accesa a spenta o da spenta ad accesa).
+>
+> Sia $N$ il numero di tali sequenze costituite da $k$ mosse e che portano allo stato in cui le lampade $1$ fino a $n$ sono tutte accese e le lampade $n+1$ fino a $2n$ sono tutte spente.
+>
+> Sia $M$ il numero di tali sequenze costituite da $k$ mosse, che portano allo stato in cui le lampade $1$ fino a $n$ sono tutte accese e le lampade $n+1$ fino a $2n$ sono tutte spente, ma in cui nessuna delle lampade $n+1$ fino a $2n$ viene mai accesa.
+>
 > Determinare il rapporto $N/M$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2008#q05|src_imho_2008__Q05]]
 
 
 
@@ -178,6 +213,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circonferenza tangente ai lati del quadrilatero convesso ABCD*
+*Cerchio tangente ai lati del quadrilatero convesso ABCD*
 
-> Sia $ABCD$ un quadrilatero convesso con $|BA| \ne |BC|$. Siano $\omega_1$ e $\omega_2$ rispettivamente le circonferenze inscritte nei triangoli $ABC$ e $ADC$. Si supponga che esista una circonferenza $\omega$ tangente al raggio $BA$ oltre $A$ e al raggio $BC$ oltre $C$, e tangente anche alle rette $AD$ e $CD$. Si dimostri che le tangenti esterne comuni alle circonferenze $\omega_1$ e $\omega_2$ si intersecano su $\omega$.
+> Sia $ABCD$ un quadrilatero convesso con $|BA| \ne |BC|$. Indichiamo con $\omega_1$ e $\omega_2$ rispettivamente le circonferenze inscritte nei triangoli $ABC$ e $ADC$. Supponiamo che esista una circonferenza $\omega$ tangente al semiretto $BA$ oltre $A$ e al semiretto $BC$ oltre $C$, e che sia inoltre tangente alle rette $AD$ e $CD$. Dimostrare che le tangenti esterne comuni di $\omega_1$ e $\omega_2$ si intersecano su $\omega$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2008#q06|src_imho_2008__Q06]]

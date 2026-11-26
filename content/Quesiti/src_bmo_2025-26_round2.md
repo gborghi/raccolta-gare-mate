@@ -31,9 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la più piccola k per lcm+hcf=p^k in numeri interi positivi*
+*Trovare il più piccolo k per l'equazione lcm+hcf=p^k negli interi positivi*
 
-> Per due numeri interi positivi $m$ e $n$, definiamo $l(m,n)$ come il loro più piccolo comune multiplo e $h(m,n)$ come il loro più alto fattore comune. Data una prima $p > 3$, $k$ indichi il numero di coppie ordinate di integri positivi $(m, n)$ che soddisfano l'equazione $$l(m, n) + h(m, n) = p^k.$$ Determinare il valore più piccolo di $k$ su tutte le scelte della prima $p > 3$.
+> Per ogni coppia di interi positivi $m$ e $n$, definiamo $l(m,n)$ come il loro minimo comune multiplo e $h(m,n)$ come il loro massimo comune divisore. Dato un numero primo $p > 3$, sia $k$ il numero di coppie ordinate di interi positivi $(m, n)$ che soddisfano l'equazione
+> $$l(m, n) + h(m, n) = p^k.$$
+> Determinare il valore minimo di $k$ tra tutte le scelte del numero primo $p > 3$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2025-26_round2#q01|src_bmo_2025-26_round2__Q01]]
 
 
 
@@ -58,11 +67,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale convex: prova AC=BD se XY divide angolo DXC*
+*Quadrilatero convesso ABCD: dimostrare che AC=BD se e solo se XY biseca l'angolo DXC*
 
-> Il quadrilaterale converso $ABCD$ ha lati $AD$ e $BC$ non paralleli. Le diagonali $AC$ e $BD$ si intersecano a $X$. I bisettori perpendicolari dei lati $AD$ e $BC$ si incontrano a $Y$. Supponiamo che $Y$ sia rigorosamente all'interno del triangolo $XCD$.
-> 
-> Provare che $AC = BD$ se e solo se $XY$ divide $\angle DXC$.
+> Il quadrilatero convesso $ABCD$ ha i lati $AD$ e $BC$ non paralleli. Le diagonali $AC$ e $BD$ si intersecano in $X$. Le mediatrici dei lati $AD$ e $BC$ si incontrano in $Y$. Si supponga che $Y$ giaccia strettamente all'interno del triangolo $XCD$.
+>
+> Dimostrare che $AC = BD$ se e solo se $XY$ biseca $\angle DXC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2025-26_round2#q02|src_bmo_2025-26_round2__Q02]]
 
 
 
@@ -87,11 +103,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*30x30 griglia con le voci -1,0,1; 300 di ciascuna; somma di righe e colonne diverse?*
+*Griglia 30x30 con valori -1,0,1; 300 di ciascuno; le somme delle righe e delle colonne sono tutte diverse?*
 
-> Ogni cella di una griglia $30 \times 30$ contiene uno dei numeri $-1$, $0$ o $1$ con ciascuno di questi tre numeri che appare esattamente $300$ volte.
-> 
+> Ogni cella di una griglia $30 \times 30$ contiene uno dei numeri $-1$, $0$ o $1$, e ciascuno di questi tre numeri compare esattamente $300$ volte.
+>
 > È possibile che le somme delle righe e delle colonne $60$ siano tutte diverse?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2025-26_round2#q03|src_bmo_2025-26_round2__Q03]]
 
 
 
@@ -118,8 +141,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Sequenza infinita da somme parziali: finitamente molti termini positivi o finitamente molti termini negativi?
+*Successione infinita ricavata dalle somme parziali: un numero finito di termini positivi o un numero finito di termini negativi?*
 
-> Che $N$ sia un intero positivo e che $(k_n)_{n \geq 1}$ sia una sequenza di interi positivi con tutti i termini al massimo $N$. Annabel inizia scegliendo i numeri interi $x_1, x_2, \ldots, x_N$. Poi lo estende a una sequenza infinita $(x_n)_{n \geq 1}$ di numeri interi definendo $$x_n = \sum_{i=n-k_{n-1}}^{n-1} x_i$$ per ogni $n > N$.
-> 
-> Mostrare che ci sono finitamente molti termini strettamente positivi o finitamente molti termini strettamente negativi nella sequenza infinita $(x_n)$.
+> Sia $N$ un numero intero positivo e sia $(k_n)_{n \geq 1}$ una successione di numeri interi positivi i cui termini sono tutti al più $N$. Annabel inizia scegliendo numeri interi $x_1, x_2, \ldots, x_N$. Successivamente estende ciò a una successione infinita $(x_n)_{n \geq 1}$ di numeri interi definendo
+> $$x_n = \sum_{i=n-k_{n-1}}^{n-1} x_i$$
+> per ogni $n > N$.
+>
+> Dimostrare che nella successione infinita $(x_n)$ ci sono o un numero finito di termini strettamente positivi oppure un numero finito di termini strettamente negativi.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2025-26_round2#q04|src_bmo_2025-26_round2__Q04]]

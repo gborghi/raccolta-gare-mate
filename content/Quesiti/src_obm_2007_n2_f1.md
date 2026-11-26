@@ -37,13 +37,23 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di numeri di 101 volte un ripunito con quelli del 2007*
+*Somma delle cifre di 101 volte un repunit con 2007 uni*
 
-> Osservare le seguenti moltiplicazioni: $$101 \times 11 = 1111$$ $$101 \times 111 = 11211$$ $$101 \times 1111 = 112211$$ $$101 \times 11111 = 1122211$$ Qual è la somma delle cifre del numero ottenuto quando si moltiplica $101$ per il numero $\underbrace{11111\ldots11}_{2007 \text{ ones}}$?
-> 
+> Osserva le seguenti moltiplicazioni:
+> $$101 \times 11 = 1111$$
+> $$101 \times 111 = 11211$$
+> $$101 \times 1111 = 112211$$
+> $$101 \times 11111 = 1122211$$
+> Qual è la somma delle cifre del numero ottenuto moltiplicando $101$ per il numero $\underbrace{11111\ldots11}_{2007 \text{ ones}}$?
+>
 > (A) 1001 $\quad$ (B) 2007 $\quad$ (C) 2009 $\quad$ (D) 4008 $\quad$ (E) 4014
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n2_f1#q01|src_obm_2007_n2_f1__Q01]]
 
 
 
@@ -70,15 +80,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Frazione a/b mostrata su una riga di numeri compresa tra 0 e 1, possibile a+b*
+*Frazione a/b rappresentata su una retta numerica tra 0 e 1, a+b possibile*
 
-> La frazione $\dfrac{a}{b}$, in cui $a$ e $b$ sono interi positivi, rappresenta un numero tra $0$ e $1$, nella posizione indicata nel disegno accanto. Qual è il valore possibile della somma $a + b$?
-> 
+> La frazione $\dfrac{a}{b}$, dove $a$ e $b$ sono numeri interi positivi, rappresenta un numero compreso tra $0$ e $1$, nella posizione indicata nel disegno accanto. Qual è un valore possibile per la somma $a + b$?
+>
 > (A) 1 $\quad$ (B) 2 $\quad$ (C) 3 $\quad$ (D) 4 $\quad$ (E) 5
 
 ![[src_obm_2007_n2_f1__q02.png]]
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n2_f1#q02|src_obm_2007_n2_f1__Q02]]
 
 
 
@@ -105,15 +119,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo e quadrato equilaterali con lati paralleli, trovare angolo x*
+*Triangolo equilatero e quadrato con lati paralleli: trovare l'angolo x*
 
-> Nella figura, il lato $\overline{AB}$ del triangolo equilaterale $ABC$ è parallelo al lato $\overline{DG}$ del quadrato $DEFG$. Qual è il valore dell'angolo $x$?
-> 
+> Nella figura, il lato $\overline{AB}$ del triangolo equilatero $ABC$ è parallelo al lato $\overline{DG}$ del quadrato $DEFG$. Qual è il valore dell'angolo $x$?
+>
 > (A) $80^\circ$ $\quad$ (B) $90^\circ$ $\quad$ (C) $100^\circ$ $\quad$ (D) $110^\circ$ $\quad$ (E) $120^\circ$
 
 ![[src_obm_2007_n2_f1__q03.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n2_f1#q03|src_obm_2007_n2_f1__Q03]]
 
 
 
@@ -138,13 +156,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratione di adulti a bambini somministrata a uomini: donne e donne: bambini*
+*Rapporto tra adulti e bambini dati uomini:donne e donne:bambini*
 
-> In una determinata città, il rapporto tra uomini e donne è $2:3$ e fra donne e bambini è $8:1$. Il rapporto tra il numero di adulti e bambini è:
-> 
+> In una certa città, il rapporto tra il numero di uomini e il numero di donne è $2:3$, e il rapporto tra il numero di donne e il numero di bambini è $8:1$. Il rapporto tra il numero di adulti e il numero di bambini è:
+>
 > (A) $5:1$ $\quad$ (B) $16:1$ $\quad$ (C) $12:1$ $\quad$ (D) $40:3$ $\quad$ (E) $13:1$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n2_f1#q04|src_obm_2007_n2_f1__Q04]]
 
 
 
@@ -169,13 +191,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Total studenti dati percentuali e 156 che hanno risolto tutto*
+*Studenti totali a cui sono state assegnate le percentuali e 156 che hanno risolto tutto*
 
-> In un esame olimpico, $15\%$ degli studenti non ha risolto alcun problema, $25\%$ ha risolto almeno un problema ma ha commesso qualche errore, e gli altri $156$ studenti hanno risolto tutto correttamente. Il numero di studenti che hanno partecipato alle Olimpiadi è stato:
-> 
+> In un esame olimpico, $15\%$ degli studenti non hanno risolto alcun problema, $25\%$ hanno risolto almeno un problema ma hanno commesso qualche errore, e i restanti $156$ studenti hanno risolto tutto correttamente. Il numero di studenti che hanno partecipato all'olimpiade era:
+>
 > (A) 200 $\quad$ (B) 260 $\quad$ (C) 93 $\quad$ (D) 223 $\quad$ (E) 300
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n2_f1#q05|src_obm_2007_n2_f1__Q05]]
 
 
 
@@ -201,13 +227,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N12 minore dove N è una quarta potenza divisibile per 12*
+*Il più piccolo N/12, dove N è una quarta potenza divisibile per 12*
 
-> Se $N$ è il quadrato del quadrato di un numero intero (una quarta potenza) e ha $12$ come fattore, il valore più piccolo per $\dfrac{N}{12}$ è:
-> 
+> Se $N$ è il quadrato del quadrato di un numero intero (una quarta potenza) e ha $12$ come fattore, il valore minimo di $\dfrac{N}{12}$ è:
+>
 > (A) 3 $\quad$ (B) 12 $\quad$ (C) 36 $\quad$ (D) 54 $\quad$ (E) 108
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n2_f1#q06|src_obm_2007_n2_f1__Q06]]
 
 
 
@@ -234,15 +265,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Giardino quadrato costituito da cinque quadrati di superficie uguale, trovare superficie totale*
+*Giardino quadrato composto da cinque quadrati di uguale area: determina l'area totale*
 
-> Il giardino della casa di Maria è formato da cinque giardini quadrati di superficie uguale e ha la forma di un quadrato, come nella figura qui sotto. Se $AB = 10$ m, la superficie del giardino in metri quadrati è:
-> 
+> Il giardino della casa di Maria è costituito da cinque giardini quadrati di uguale area e ha la forma di un quadrato, come nella figura sottostante. Se $AB = 10$ m, allora l'area del giardino, espressa in metri quadrati, è:
+>
 > (A) 200 $\quad$ (B) $10\sqrt{5}$ $\quad$ (C) 100 $\quad$ (D) $\dfrac{500}{3}$ $\quad$ (E) $\dfrac{100}{3}$
 
 ![[src_obm_2007_n2_f1__q07.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n2_f1#q07|src_obm_2007_n2_f1__Q07]]
 
 
 
@@ -268,13 +303,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di possibili valori di k nel sistema ciclico di uguali rapporti*
+*Numero di valori possibili di k nel sistema ciclico a rapporto costante*
 
-> Lasciate che $a, b, c$ e $k$ siano numeri reali diversi da zero soddisfacendo le relazioni $k = \dfrac{a}{b+c} = \dfrac{b}{c+a} = \dfrac{c}{a+b}$. Quanti valori possibili può assumere $k$?
-> 
+> Siano $a, b, c$ e $k$ numeri reali diversi da zero che soddisfano le relazioni $k = \dfrac{a}{b+c} = \dfrac{b}{c+a} = \dfrac{c}{a+b}$. Quanti valori possibili può assumere $k$?
+>
 > (A) 0 $\quad$ (B) 1 $\quad$ (C) 2 $\quad$ (D) 3 $\quad$ (E) 4
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n2_f1#q08|src_obm_2007_n2_f1__Q08]]
 
 
 
@@ -300,13 +340,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di poligoni convexi da 12 punti su un cerchio*
+*Numero di poligoni convessi formati da 12 punti su una circonferenza*
 
-> Dodici punti sono segnati su un cerchio. Quanti poligoni convexi possiamo formare con vertici a questi punti $12$?
-> 
+> Sul cerchio sono segnati dodici punti. Quanti poligoni convessi possiamo formare avendo come vertici questi $12$ punti?
+>
 > (A) 4017 $\quad$ (B) 220 $\quad$ (C) 4095 $\quad$ (D) 66 $\quad$ (E) 3572
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n2_f1#q09|src_obm_2007_n2_f1__Q09]]
 
 
 
@@ -332,13 +377,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di modi per scrivere il 2007 come somma di numeri interi positivi consecutivi*
+*Numero di modi per scrivere 2007 come somma di interi positivi consecutivi*
 
-> In quanti modi possiamo scrivere il numero $2007$ come somma di due o più numeri interi positivi consecutivi?
-> 
+> In quanti modi possiamo scrivere il numero $2007$ come somma di due o più interi positivi consecutivi?
+>
 > (A) 1 $\quad$ (B) 2 $\quad$ (C) 3 $\quad$ (D) 4 $\quad$ (E) 5
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n2_f1#q10|src_obm_2007_n2_f1__Q10]]
 
 
 
@@ -364,13 +414,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due quadratici con radice comune, prodotto delle due radici non comuni*
+*Due equazioni quadratiche con una radice comune, prodotto delle due radici non comuni*
 
-> Le equazioni di secondo grado $2$ $2007x^2 + 2008x + 1 = 0$ e $x^2 + 2008x + 2007 = 0$ hanno una radice comune. Qual è il valore del prodotto delle due radici non comuni?
-> 
+> Le equazioni di secondo grado $2007x^2 + 2008x + 1 = 0$ e $x^2 + 2008x + 2007 = 0$, di grado $2$, hanno una radice comune. Qual è il valore del prodotto delle due radici non comuni?
+>
 > (A) 0 $\quad$ (B) 1 $\quad$ (C) 2007 $\quad$ (D) 2008 $\quad$ (E) 2007
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n2_f1#q11|src_obm_2007_n2_f1__Q11]]
 
 
 
@@ -396,13 +451,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valore massimo di a(b+c) -b(a+c) per gli integri a numeri limitati*
+*Valore massimo di a(b+c)-b(a+c) per interi con cifre limitate*
 
-> Qual è il valore massimo che il numero $a(b+c) - b(a+c)$ può assumere se $a, b$ e $c$ sono numeri interi che soddisfano $1 \le a \le 10$, $1 \le b \le 10$ e $1 \le c \le 10$?
-> 
+> Qual è il valore massimo che il numero $a(b+c) - b(a+c)$ può assumere se $a, b$ e $c$ sono interi che soddisfano $1 \le a \le 10$, $1 \le b \le 10$ e $1 \le c \le 10$?
+>
 > (A) 80 $\quad$ (B) 81 $\quad$ (C) 84 $\quad$ (D) 90 $\quad$ (E) 100
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n2_f1#q12|src_obm_2007_n2_f1__Q12]]
 
 
 
@@ -428,13 +488,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio di x a 3 cifre con 6x e 7x con lo stesso conteggio di cifre*
+*Conteggio di x a 3 cifre, con 6x e 7x che hanno lo stesso numero di cifre*
 
-> La quantità di numeri interi a tre cifre $x$ tale che $6x$ e $7x$ abbiano la stessa quantità di cifre è:
-> 
+> La quantità di interi a tre cifre $x$ tali che $6x$ e $7x$ hanno lo stesso numero di cifre è:
+>
 > (A) 767 $\quad$ (B) 875 $\quad$ (C) 876 $\quad$ (D) 974 $\quad$ (E) 975
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n2_f1#q13|src_obm_2007_n2_f1__Q13]]
 
 
 
@@ -461,15 +526,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di rettangolo che circonda tre quadrati unitari*
+*Area del rettangolo che circonda tre quadrati unitari*
 
-> La figura di seguito è costituita da tre quadrati di lato $1$ e da un rettangolo che li circonda. L'area del rettangolo è:
-> 
+> La figura sottostante è formata da tre quadrati di lato $1$ e da un rettangolo che li circonda. L'area del rettangolo è:
+>
 > (A) $3\sqrt{2}$ $\quad$ (B) $4\sqrt{2}$ $\quad$ (C) 6 $\quad$ (D) $6\sqrt{2}$ $\quad$ (E) 8
 
 ![[src_obm_2007_n2_f1__q14.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n2_f1#q14|src_obm_2007_n2_f1__Q14]]
 
 
 
@@ -495,13 +564,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato 1+(x^2+x)(x^2+5x+6)=181^2, trovare x(x+3)*
+*Dato che 1+(x^2+x)(x^2+5x+6)=181^2, determina x(x+3)*
 
-> Se $x$ è un numero reale positivo e $1 + (x^2 + x)(x^2 + 5x + 6) = 181^2$, il valore di $x(x + 3)$ è:
-> 
+> Se $x$ è un numero reale positivo e $1 + (x^2 + x)(x^2 + 5x + 6) = 181^2$, allora il valore di $x(x + 3)$ è:
+>
 > (A) 180 $\quad$ (B) 150 $\quad$ (C) 120 $\quad$ (D) 182 $\quad$ (E) 75
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n2_f1#q15|src_obm_2007_n2_f1__Q15]]
 
 
 
@@ -529,15 +603,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Figura di rettangolo, pentagono, triangolo, cerchio: nero meno area grigia*
+*Figura di rettangolo, pentagono, triangolo, cerchio: area nera meno area grigia*
 
-> La figura di seguito è stata realizzata con un rettangolo, un pentagono, un triangolo e un cerchio, con aree rispettivamente $121$, $81$, $49$ e $25$ centimetri quadrati. La differenza tra l'area nera e l'area grigia, in centimetri quadrati, è:
-> 
+> La figura sottostante è stata realizzata con un rettangolo, un pentagono, un triangolo e un cerchio, con aree rispettivamente pari a $121$, $81$, $49$ e $25$ centimetri quadrati. La differenza tra l'area nera e l'area grigia, in centimetri quadrati, è:
+>
 > (A) 25 $\quad$ (B) 36 $\quad$ (C) 49 $\quad$ (D) 64 $\quad$ (E) 81
 
 ![[src_obm_2007_n2_f1__q16.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n2_f1#q16|src_obm_2007_n2_f1__Q16]]
 
 
 
@@ -565,13 +644,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Anni senza incidente necessari per rendere utile l'assicuratore A*
+*Anni senza incidenti necessari affinché l'assicuratore A risulti conveniente*
 
-> Le compagnie di assicurazione automobilistica A e B addebitano un valore annuale (premia) più un valore che l'utente deve pagare in caso di incidente (deduttibile, franquia). Jean vuole assicurare la sua auto e ha ricevuto dalle assicuratrici le seguenti proposte: Assicuratore A: Premia annuale di R\$ 1500.00 and deductible of R\$ 1400.00 Assicuratore B: Premia annuale di R\$ 1700.00 and deductible of R\$ 700.00 Per far valere la pena che Jean assumi Assicuratore A, non deve avere un incidente con la macchina per almeno $N$ anni. Il valore di $N$ è:
-> 
+> Le compagnie assicurative auto A e B applicano un importo annuo (premio) più un importo che l'utente deve pagare in caso di incidente (franchigia). Jean vuole assicurare la propria auto e ha ricevuto le seguenti proposte dalle compagnie assicurative: Compagnia assicurativa A: premio annuo di R\$ 1500.00 and deductible of R\$ 1400,00. Compagnia assicurativa B: premio annuo di R\$ 1700.00 and deductible of R\$ 700,00. Affinché per Jean convenga scegliere la Compagnia assicurativa A, egli non deve avere un incidente con l'auto per almeno $N$ anni. Il valore di $N$ è:
+>
 > (A) 2 $\quad$ (B) 3 $\quad$ (C) 4 $\quad$ (D) 5 $\quad$ (E) 6
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n2_f1#q17|src_obm_2007_n2_f1__Q17]]
 
 
 
@@ -599,13 +682,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mare con facce opposte che sommano a 7, direzione della faccia 1 dopo i movimenti*
+*Muori con le facce opposte che sommano a 7, direzione della faccia 1 dopo i movimenti*
 
-> Il disegno seguente mostra un dado comune la cui somma dei punti su facce opposte è sempre uguale a $7$. Si colloca su un tavolo orizzontale con la faccia ``1' rivolta verso est. Il dado viene poi spostato quattro volte. Un movimento consiste in una rotazione di $90^\circ$ rispetto a un bordo. Dopo il primo movimento il volto in contatto con il tavolo diventa ``1', poi ``2', poi ``3' e, infine, il volto ``5'. In quale direzione è girato il volto ``1' dopo questa sequenza di movimenti?
-> 
-> A) Occidente $\quad$ B) Est $\quad$ C) Nord $\quad$ D) Sud $\quad$ E) Su
+> Il disegno sottostante mostra un dado comune il cui insieme dei punti sulle facce opposte è sempre uguale a $7$. Il dado viene collocato su un tavolo orizzontale con la faccia "1" rivolta a est. Successivamente il dado viene spostato quattro volte. Uno spostamento consiste in una rotazione di $90^\circ$ rispetto a un spigolo. Dopo il primo spostamento, la faccia a contatto con il tavolo diventa "1", poi "2", poi "3" e, infine, la faccia "5". In quale direzione è rivolta la faccia "1" dopo questa sequenza di spostamenti?
+>
+> (A) Ovest $\quad$ (B) Est $\quad$ (C) Nord $\quad$ (D) Sud $\quad$ (E) Su
 
 ![[src_obm_2007_n2_f1__q18.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n2_f1#q18|src_obm_2007_n2_f1__Q18]]
 
 
 
@@ -635,17 +725,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Edifici 1-100, piani = somma di cifre; quale dichiarazione è vera*
+*Edifici 1-100, piani = somma delle cifre; quale affermazione è vera*
 
-> Una via ha $100$ edifici numerati da $1$ a $100$, dove gli edifici con numero pari sono sul lato destro della strada e gli edifici con numero odd sono sul lato sinistro. La quantità di piani (andare) di ciascun edificio è pari alla somma dei numeri corrispondenti all'edificio. Pertanto, possiamo affermare che:
+> Una via ha $100$ edifici numerati da $1$ a $100$, dove gli edifici con numero pari si trovano sul lato destro della strada e quelli con numero dispari si trovano sul lato sinistro. Il numero di piani di ciascun edificio è uguale alla somma delle cifre del numero corrispondente all'edificio. Pertanto, possiamo affermare che:
 >
-> - **(A)** Il numero di edifici con più di $10$ piani è maggiore sul lato destro della strada.
-> - **(B)** Il numero di edifici con meno di $5$ piani è maggiore sul lato destro della strada.
+> - **(A)** Sul lato destro della strada, il numero di edifici con più di $10$ piani è maggiore.
+> - **(B)** Sul lato destro della strada, il numero di edifici con meno di $5$ piani è maggiore.
 > - **(C)** Almeno la metà degli edifici ha $10$ o più piani.
-> - **(D)** A entrambi i lati della strada ci sono la stessa quantità di edifici con esattamente $8$ piani.
+> - **(D)** Su entrambi i lati della strada ci sono lo stesso numero di edifici con esattamente $8$ piani.
 > - **(E)** Almeno $25\%$ degli edifici hanno meno di $5$ piani.
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n2_f1#q19|src_obm_2007_n2_f1__Q19]]
 
 
 
@@ -671,13 +766,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo perimetro interiore di un triangolo con un lato 5√3/2*
+*Perimetro intero minimo di un triangolo con un lato pari a 5√3/2*
 
-> Qual è il più piccolo perimetro integrale possibile di un triangolo che ha uno dei suoi lati con misura uguale a $\dfrac{5\sqrt{3}}{2}$?
-> 
+> Qual è il perimetro intero più piccolo possibile di un triangolo che ha uno dei suoi lati di misura pari a $\dfrac{5\sqrt{3}}{2}$?
+>
 > (A) 8 $\quad$ (B) 9 $\quad$ (C) 10 $\quad$ (D) 11 $\quad$ (E) 12
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n2_f1#q20|src_obm_2007_n2_f1__Q20]]
 
 
 
@@ -703,13 +803,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Qual è l'orologio che dà l'angolo più piccolo tra le mani*
+*Quale ora segnata dall'orologio dà l'angolo più piccolo tra le lancette?*
 
-> Determinare a quale dei tempi al di sotto dell'angolo determinato dalle mani di un orologio è il più piccolo.
-> 
+> Determinare in quale dei seguenti istanti l'angolo formato dalle lancette di un orologio è il più piccolo.
+>
 > (A) 02h30 $\quad$ (B) 06h20 $\quad$ (C) 05h40 $\quad$ (D) 08h50 $\quad$ (E) 09h55
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n2_f1#q21|src_obm_2007_n2_f1__Q21]]
 
 
 
@@ -735,13 +840,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*GCD dei numeri palindromici 1221, 2332, 3443, ..., 8998*
+*MCD dei numeri palindromi 1221, 2332, 3443, ..., 8998*
 
-> Il più grande divisore comune dei numeri $1221, 2332, 3443, 4554, \ldots, 8998$ è:
-> 
+> Il massimo comune divisore dei numeri $1221, 2332, 3443, 4554, \ldots, 8998$ è:
+>
 > (A) 3 $\quad$ (B) 33 $\quad$ (C) 37 $\quad$ (D) 11 $\quad$ (E) 101
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n2_f1#q22|src_obm_2007_n2_f1__Q22]]
 
 
 
@@ -768,13 +878,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Palla da biliardo su tavolo 3x6, distanza da P dove raggiunge PQ*
+*Biglia da biliardo su un tavolo 3x6, distanza da P in corrispondenza del punto in cui la biglia colpisce PQ*
 
-> Un tavolo da biliardo ha dimensioni di $3$ metri per $6$ metri e ha tasche ai suoi quattro angoli $P, Q, R$ e $S$. Quando una palla colpisce il bordo della tavola, la sua traiettoria forma un angolo uguale a quello della traiettoria precedente. Una palla, inizialmente a $1$ metro dalla tasca $P$, viene colpita dal lato $SP$ nella direzione del lato $PQ$, come mostra la figura. A quanti metri da $P$ la palla colpisce il lato $PQ$ se la palla cade nella tasca $S$ dopo due rimbalzi dal bordo del tavolo?
-> 
+> Un tavolo da biliardo ha dimensioni di $3$ metri per $6$ metri e presenta buche nei quattro angoli $P, Q, R$ e $S$. Quando una billa colpisce il bordo del tavolo, la sua traiettoria forma un angolo uguale a quello formato dalla traiettoria precedente. Una billa, inizialmente a $1$ metri dalla buca $P$, viene colpita dal lato $SP$ in direzione del lato $PQ$, come mostra la figura. A quanti metri da $P$ la billa colpisce il lato $PQ$ se finisce nella buca $S$ dopo due rimbalzi sul bordo del tavolo?
+>
 > (A) 1 $\quad$ (B) $\dfrac{6}{7}$ $\quad$ (C) $\dfrac{3}{4}$ $\quad$ (D) $\dfrac{2}{3}$ $\quad$ (E) $\dfrac{3}{5}$
 
 ![[src_obm_2007_n2_f1__q23.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n2_f1#q23|src_obm_2007_n2_f1__Q23]]
 
 
 
@@ -799,11 +916,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*numeri a 3 cifre abc con b=a^2+c^2, a≠0: differenza massima meno min*
+*Numeri di tre cifre abc con b=a^2+c^2, a≠0: differenza tra il massimo e il minimo*
 
-> Considerate tutti i numeri a tre cifre $\overline{abc}$ dove $b = a^2 + c^2$ e $a \ne 0$. La differenza tra il più grande e il più piccolo di questi numeri è un numero:
-> 
-> (A) Moltiplo di 3 $\quad$ (B) Primo $\quad$ (C) Con ultima cifra uguale a 7 $\quad$ (D) La cui somma di cifre è 10 $\quad$ (E) Moltiplo di 7
+> Si considerino tutti i numeri di tre cifre $\overline{abc}$ tali che $b = a^2 + c^2$ e $a \ne 0$. La differenza tra il più grande e il più piccolo di questi numeri è un numero:
+>
+> (A) Multiplo di 3 $\quad$ (B) Numero primo $\quad$ (C) Con ultima cifra uguale a 7 $\quad$ (D) Il cui insieme delle cifre è 10 $\quad$ (E) Multiplo di 7
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n2_f1#q24|src_obm_2007_n2_f1__Q24]]
 
 
 
@@ -828,8 +952,15 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza a_{n+1}=2×(somma a_n) +1, somma dei termini da 31 a 35*
+*Successione a_{n+1}=2*(somma delle cifre di a_n)+1, somma dei termini da 31 a 35*
 
-> $\{a_n\}$ sia una sequenza in cui ogni termine è definito come doppio della somma dei numeri del termine precedente, più una unità. Per esempio, se $a_n = 234$, allora $a_{n+1} = 2(2 + 3 + 4) + 1$. Se $a_1 = 1$, il valore di $a_{31} + a_{32} + a_{33} + a_{34} + a_{35}$ è uguale a:
-> 
+> Sia $\{a_n\}$ una successione in cui ogni termine è definito come il doppio della somma delle cifre del termine precedente, più un'unità. Ad esempio, se $a_n = 234$, allora $a_{n+1} = 2(2 + 3 + 4) + 1$. Se $a_1 = 1$, il valore di $a_{31} + a_{32} + a_{33} + a_{34} + a_{35}$ è uguale a:
+>
 > (A) 44 $\quad$ (B) 54 $\quad$ (C) 64 $\quad$ (D) 77 $\quad$ (E) 84
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n2_f1#q25|src_obm_2007_n2_f1__Q25]]

@@ -30,9 +30,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri reali sommati a un numero intero con somme parziali limitate*
+*Numeri reali la cui somma è un intero, con somme parziali limitate*
 
-> I numeri reali $x_1, x_2, \ldots, x_n$ dell'intervallo $(0,1)$ soddisfano l'uguaglianza $x_1 + x_2 + \cdots + x_n = m + r$, dove $m$ è un intero e $r \in [0,1)$. Provare che $$x_1^2 + x_2^2 + \cdots + x_n^2 \le m + r^2.$$
+> I numeri reali $x_1, x_2, \ldots, x_n$ appartenenti all'intervallo $(0,1)$ soddisfano l'uguaglianza $x_1 + x_2 + \cdots + x_n = m + r$, dove $m$ è un numero intero e $r \in [0,1)$. Dimostrare che
+> $$x_1^2 + x_2^2 + \cdots + x_n^2 \le m + r^2.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1988_r3#q01|src_pol_1988_r3__Q01]]
 
 
 
@@ -55,9 +63,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero atteso di indici di permutazione equiparabili*
+*Numero atteso di indici di permutazione equiprobabili*
 
-> Per una permutazione $\pi = (p_1, p_2, \ldots, p_n)$ di $(1, 2, \ldots, n)$ definiamo $X(\pi)$ come il numero di indici $j$ tale che $p_i < p_j$ per tutti $i < j$. Trova il valore atteso di $X(\pi)$ su tutte le permutazioni $\pi$ di $(1, 2, \ldots, n)$.
+> Per una permutazione $\pi = (p_1, p_2, \ldots, p_n)$ di $(1, 2, \ldots, n)$, definiamo $X(\pi)$ come il numero di indici $j$ tali che $p_i < p_j$ per tutti gli $i < j$. Trovare il valore atteso di $X(\pi)$ su tutte le permutazioni $\pi$ di $(1, 2, \ldots, n)$.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1988_r3#q02|src_pol_1988_r3__Q02]]
 
 
 
@@ -80,9 +95,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il poligono con centro di simmetria contiene punti di mezzo paralleliogrammi sul confine*
+*Un poligono con centro di simmetria presenta sui propri lati i punti medi dei parallelogrammi*
 
-> Un poligono $W$ ha un centro di simmetria $S$. Dimostrare che esiste un parallelo $V$ contenente $W$ in modo tale che il punto medio di ciascun lato di $V$ sia situato sul confine di $W$.
+> Un poligono $W$ ha un centro di simmetria $S$. Dimostrare che esiste un parallelogramma $V$ che contiene $W$ tale che il punto medio di ciascun lato di $V$ giace sul bordo di $W$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1988_r3#q03|src_pol_1988_r3__Q03]]
 
 
 
@@ -105,9 +127,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione continua su reali con periodo d che soddisfa l'equazione funzionale*
+*Funzione continua sul campo dei numeri reali, avente periodo d, che soddisfa l'equazione funzionale*
 
-> Che $d$ sia un intero positivo e che $f : [0, d] \to \mathbb{R}$ sia una funzione continua con $f(0) = f(d)$. Prova che esiste un $c \in [0, d)$ tale che $f(c) = f(c + 1)$.
+> Sia $d$ un numero intero positivo e sia $f : [0, d] \to \mathbb{R}$ una funzione continua con $f(0) = f(d)$. Dimostrare che esiste $c \in [0, d)$ tale che $f(c) = f(c + 1)$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1988_r3#q04|src_pol_1988_r3__Q04]]
 
 
 
@@ -130,9 +159,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza definita da ricorrenza divisibile da r per tutte le n*
+*Successione definita per ricorrenza, divisibile per r per ogni n*
 
-> La sequenza $(a_n)_{n \ge 0}$ è definita da $a_1 = a_2 = 1$ e $a_n = a_{n-1} \cdot a_{n-2} + a_{n-1} + a_{n-2}$ per $n \ge 3$. Prove che per ogni intero positivo $r$ esiste un intero positivo $s$ tale che $a_s$ sia divisibile da $r$.
+> La successione $(a_n)_{n \ge 0}$ è definita da $a_1 = a_2 = 1$ e $a_n = a_{n-1} \cdot a_{n-2} + a_{n-1} + a_{n-2}$ per $n \ge 3$. Dimostrare che, per ogni numero intero positivo $r$, esiste un numero intero positivo $s$ tale che $a_s$ è divisibile per $r$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1988_r3#q05|src_pol_1988_r3__Q05]]
 
 
 
@@ -155,6 +191,13 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tetraedro di maggior volume inserito nell'emisfero del raggio 1*
+*Tetraedro di volume massimo inscritto in un emisfero di raggio 1*
 
-> Determinare il più grande volume possibile di un tetraedro situato all'interno di un emisfero di raggio $1$.
+> Determinare il volume massimo possibile di un tetraedro che giace all'interno di un emisfero di raggio $1$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1988_r3#q06|src_pol_1988_r3__Q06]]

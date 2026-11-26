@@ -38,13 +38,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*As the Maya wrote the number 17 (point/bar)*
+*How the Maya wrote the number 17 (dot/bar)*
 
-> The Maya people did not write the numbers using our ten digits, but just two different symbols, point and bar. A point was 1, a bar was like 5 points, and the numbers were written using as few symbols as possible. How did they write the number 17? A) B) C) D)
->   	
+> The Maya people wrote numbers not using our ten digits but using only two different symbols: a dot and a bar. A dot stood for 1, a bar stood for 5 dots, and numbers were written using the fewest possible symbols. How did they write the number 17?
+> A) 	
+>             B)	
+>         C) 	 	
+>     D) 	
+>
 > E)
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q01|src_kangourou_2019_benjamin_marzo__Q01]]
 
 
 
@@ -73,11 +81,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which image can be a regular die (opposite faces 7)*
+*Which image can be a regular die (opposite faces sum to 7)?*
 
-> The sum of the dots on opposite sides of a regular die is always 7. Which of the following is the image of a regular die? A) B) C) D) E)
+> The sum of the numbers on opposite faces of a standard die is always 7. Which of the following could be an image of a standard die?
+> A) 	
+>          B) 	 	
+>    C) 	
+>            D) 	
+>      E)
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q02|src_kangourou_2019_benjamin_marzo__Q02]]
 
 
 
@@ -113,24 +130,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which regular polygon does not appear in the mosaic*
+*Which regular polygon does not appear in the mosaic?*
 
 ![[src_kangourou_2019_benjamin_marzo__prob3.png]]
 
-> The outlines of the figures that make up the mosaic we
-> show you are made up of straight segments all of the same
-> length. Which of the following regular polygons does not ap­
-> pear in the mosaic?
-> A) Triangle 	
-> 	
-> B) Square	
-> C) Hexagon	
-> 	
-> D) Octagon 	
-> 	
+> The outlines of the figures that make up the mosaic we are showing you consist of straight line segments, all of the same length. Which of the following regular polygons does not appear in the mosaic?
+> A) Triangle
+>
+> B) Square
+> C) Hexagon
+>
+> D) Octagon
+>
 > E) Dodecagon
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q03|src_kangourou_2019_benjamin_marzo__Q03]]
 
 
 
@@ -165,19 +183,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many women were certainly born before 2000*
+*How many women certainly born before 2000*
 
-> There are 14 women and 12 men in one room. Exactly half of these people were born before 2000. How many women can you be sure were born before 2000? A) 5
-> 	
-> B) 4
-> 	
-> C) 3
-> 	
-> D) 2
-> 	
+> In a room, there are 14 women and 12 men. Exactly half of these people were born before 2000. How many women can we be certain were born before 2000?
+> A) 5	
+>
+> B) 4	
+>
+> C) 3	
+>
+> D) 2	
+>
 > E) 1
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q04|src_kangourou_2019_benjamin_marzo__Q04]]
 
 
 
@@ -208,14 +232,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to choose a 2x2 square in the figure*
+*In how many ways can a 2x2 square be chosen in the figure?*
 
 ![[src_kangourou_2019_benjamin_marzo__prob5.png]]
 
-> You want to choose a square 2 x 2 like this from the ones that appear in the figure on the left. How many different ways can you do that? A) 5 B) 6	      C) 7	      D) 8	      E) 9
+> You want to choose a 2 x 2 square like this from among those shown in the figure on the left. In how many different ways can you do this?
+> A) 5	
+>      B) 6	      C) 7	      D) 8	      E) 9
 >
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q05|src_kangourou_2019_benjamin_marzo__Q05]]
 
 
 
@@ -247,13 +278,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-In what order were the four photos taken?
+*In what order were the four photos taken?*
 
 ![[src_kangourou_2019_benjamin_marzo__prob6.png]]
 
-> Tina took in a certain order the four photographs you see: they show the same group of people who are on their way, in the direction from the bottom of the photos to the top. In what order were they taken? A) 2431 B) 4321 C) 1324 D) 4231 E) 2413
+> Tina took the four photos you see in a particular order; they show the same group of people walking from the bottom of the photos toward the top. In what order were they taken?
+> A) 2431		
+> B) 4321		
+> C) 1324		
+> D) 4231		
+> E) 2413
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q06|src_kangourou_2019_benjamin_marzo__Q06]]
 
 
 
@@ -287,19 +327,24 @@ In what order were the four photos taken?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What sum cannot be drawn from three dice with odd numbers 1-11*
+*Which total cannot come up from three dice with an odd 1–11?*
 
-> On the faces of a die, instead of the numbers 1 to 6, the first six odd numbers appear. Anna rolled the die three times and added the three scores. Which of the following is certainly not the result she obtained? A) 31
-> 	
-> B) 5
-> 	
-> C) 35
-> 	
-> D) 19
-> 	
+> On the faces of a die, instead of the numbers 1 to 6, the first six odd integers appear. Anna rolled the die three times and added the three scores she obtained. Which of the following is certainly not the result she obtained?
+> A) 31	
+>
+> B) 5	
+>
+> C) 35	
+>
+> D) 19	
+>
 > E) 29
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q07|src_kangourou_2019_benjamin_marzo__Q07]]
 
 
 
@@ -328,11 +373,20 @@ In what order were the four photos taken?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What day is the game in 2020*
+*Which day does the game fall on in 2020?*
 
-> Kangourou Day is always on the third Thursday of March: this year it corresponds to the 21st. And in 2020, what day will it be? A) The 19th. B) The 20th. C) Still the 21st. D) The 22nd. E) The 23rd.
+> The Kangourou competition day is always the third Thursday of March; this year it falls on the 21st. And in 2020, what date will it fall on?
+> A) At 19.
+> B) At 20.
+> C) Still at 21.
+> D) Al 22.
+> E) At 23.
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q08|src_kangourou_2019_benjamin_marzo__Q08]]
 
 
 
@@ -365,19 +419,24 @@ In what order were the four photos taken?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many kangaroos if the sum of ages increases by 24 in 2 years*
+*How many kangaroos if the sum of the ages increases by 24 over 2 years?*
 
-> The sum of ages in years of a group of kangaroos is 36. In two years, their combined ages will be 60. How many kangaroos are in that group? A) 10
-> 	
-> B) 12
-> 	
-> C) 15
-> 	
-> D) 20
-> 	
+> The sum of the ages in years of a group of kangaroos is 36. In two years, the sum of their ages will be 60. How many kangaroos are there in that group?
+> A) 10	
+>
+> B) 12	
+>
+> C) 15	
+>
+> D) 20	
+>
 > E) 24
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q09|src_kangourou_2019_benjamin_marzo__Q09]]
 
 
 
@@ -412,19 +471,25 @@ In what order were the four photos taken?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many days has the cat been very hungry*
+*For how many days was the cat very hungry?*
 
-> On a normal day, the cat Lilli eats five mice; if it is very hungry, it eats 10. In the last nine days, she has eaten a total of 60 mice. How many days has she been very hungry? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 6
-> 	
-> E) 9 Questions from N. 11 to N. 20 are worth 4 points each.
+> On a normal day, the cat Lilli eats 5 mice; but if she is very hungry, she eats 10. Over the past 9 days, she has eaten a total of 60 mice. On how many days has she been very hungry?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 6	
+>
+> E) 9
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q10|src_kangourou_2019_benjamin_marzo__Q10]]
 
 
 
@@ -456,9 +521,19 @@ In what order were the four photos taken?
 
 *19 with the same digits*
 
-> A digital clock marks 20:19. What is the closest time to 20:19 as opposed to 20:19, which is written using the same digits? A) 19:02 B) 2:19 C) 19:20 D) 9:12 E) None of the above.
+> A digital clock shows 20:19. What is the time closest to 20:19—but different from 20:19—that is written using the same digits?
+> A) 19:02	
+> B) 02:19	
+> C) 19:20	
+> D) 09:12	
+> E) None of the above.
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q11|src_kangourou_2019_benjamin_marzo__Q11]]
 
 
 
@@ -491,14 +566,23 @@ In what order were the four photos taken?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which solid requires more paint (greater surface area)*
+*Which solid requires more paint (has the larger surface area)?*
 
 ![[src_kangourou_2019_benjamin_marzo__prob12.png]]
 
-> Using a few cubes that are all the same, Michele built the five solids you see in the figures and now he wants to paint them. They all have the base of eight cubes. Which one requires the most paint? A) B) C) D) E)
+> Using some cubes that are all identical to one another, Michele built the five solids you see in the figures, and now he wants to paint them. All of them have a base made up of 8 cubes: which one requires the greatest amount of paint?
+> A) 	
+>              B) 	
+>            C) 	
+>          D) 	
+>        E) 
 >
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q12|src_kangourou_2019_benjamin_marzo__Q12]]
 
 
 
@@ -535,21 +619,26 @@ In what order were the four photos taken?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the two non-visible digits given sum 826*
+*The sum of the two non-visible digits is 826*
 
 ![[src_kangourou_2019_benjamin_marzo__prob13.png]]
 
-> In the figure you can see three partially overlapping labels. On each of them is written a three-digit number: the sum of the three numbers written is 826. Two of the nine digits are not visible. What is their sum? A) 7
-> 	
-> B) 8
-> 	
-> C) 9
-> 	
-> D) 10
-> 	
+> In the figure, you see three partially overlapping tags. On each one, a three-digit number is written: the sum of the three numbers written is 826. Two of the nine digits are not visible: what is their sum?
+> A) 7	
+>
+> B) 8	
+>
+> C) 9	
+>
+> D) 10	
+>
 > E) 11
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q13|src_kangourou_2019_benjamin_marzo__Q13]]
 
 
 
@@ -583,17 +672,24 @@ In what order were the four photos taken?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the largest triangle on the side of the smaller 1*
+*Perimeter of the largest triangle, side length 1 of the small ones*
 
 ![[src_kangourou_2019_benjamin_marzo__prob14.png]]
 
-> All the triangles shown in the figure are equilateral; the side of the four smallest is 1 m long. How many meters does the perimeter of the largest triangle measure? A) 15 B) 17
-> 	
-> C) 18
-> 	
-> D) 20 E) 21
+> All the triangles shown in the figure are equilateral; the side of the four smallest triangles is 1 meter long. How many meters is the perimeter of the largest triangle?
+> A) 15	 	
+> B) 17	
+>
+> C) 18	
+>
+> D) 20 	 	
+> E) 21
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q14|src_kangourou_2019_benjamin_marzo__Q14]]
 
 
 
@@ -628,19 +724,25 @@ In what order were the four photos taken?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cats at the start after the witch's transformations*
+*How many cats were there at the beginning after the witch's transformations?*
 
-> In a witch's garden there are 30 animals: dogs, cats and mice. The witch turns six dogs into as many cats, then turns five cats into as many mice. At this point there are 10 dogs, 10 cats and 10 mice. How many cats were there at the beginning? A) 4
-> 	
-> B) 5
-> 	
-> C) 9
-> 	
-> D) 10
-> 	
+> In a witch's garden, there are 30 animals: dogs, cats, and mice. The witch turns 6 dogs into 6 cats, then turns 5 cats into 5 mice. At this point, there are 10 dogs, 10 cats, and 10 mice. How many cats were there at the beginning?
+> A) 4	
+>
+> B) 5	
+>
+> C) 9	
+>
+> D) 10	
+>
 > E) 11
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q15|src_kangourou_2019_benjamin_marzo__Q15]]
 
 
 
@@ -673,21 +775,22 @@ In what order were the four photos taken?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure cannot be formed with the folding double-meter*
+*Which figure cannot be formed with the articulating double meter?*
 
 ![[src_kangourou_2019_benjamin_marzo__prob16.png]]
 
-> In the figure you see a folding double-meter made of 
-> 10 segments of 20 centimetres each. Only one of the five 
-> figures that you see below cannot be formed with this 
-> double-meter: which one?
+> In the figure, you see an articulated double measuring tape made up of 10 segments, each 20 centimeters long. Only one of the five figures you see below cannot be formed with this double measuring tape: which one?
 > A)	
 >              B)	
 >           C)	
 >        D)	 	
 >     E)
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q16|src_kangourou_2019_benjamin_marzo__Q16]]
 
 
 
@@ -724,21 +827,26 @@ In what order were the four photos taken?
 <div class="qlang-split" data-lang="en"></div>
 
 
-In which mosaic is the black area the largest
+*In which mosaic is the black area the largest?*
 
 ![[src_kangourou_2019_benjamin_marzo__prob17.png]]
 
-> The five square mosaics you see below are all the same size. Each one was formed from white or black square tiles that, in individual mosaics, all have the same size. Which mosaic has the largest black surface area? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> The five square mosaics you see below are all the same size. Each one was made from white or black square tiles, and within each individual mosaic, all the tiles are the same size. In which of the mosaics is the area of the black surface the largest?
+> A)	
+>
+> B)	
+>
+> C)	
+>
+> D)	
+>
 > E)
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q17|src_kangourou_2019_benjamin_marzo__Q17]]
 
 
 
@@ -779,28 +887,29 @@ In which mosaic is the black area the largest
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of the tower with 28 small blocks according to the pattern*
+*Height of the tower with 28 bricks according to the scheme*
 
 ![[src_kangourou_2019_benjamin_marzo__prob18.png]]
 
-> Carlo has 28 small blocks, all 2 centimetres long,
-> 1 wide and 1 high. He wants to use them all to build
-> a tower: the figures show you the criterion by which
-> Carlo intends to carry on with his construction.
-> How many centimetres tall will the tower be when Carlo has finished it?
+> Carlo has 28 little blocks, all 2 centimeters long, 1 centimeter wide, and 1 centimeter high. He wants to use all of them to build a tower: the diagrams show the criterion Carlo intends to use in proceeding with his construction. How many centimeters tall will the tower be when Carlo has finished it?
 > A) 9	
-> 	
+>
 > B) 11	
-> 	
+>
 > C) 12	
-> 	
+>
 > D) 14	
-> 	
+>
 > E) 17
 > 1 m
 >
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q18|src_kangourou_2019_benjamin_marzo__Q18]]
 
 
 
@@ -839,21 +948,27 @@ In which mosaic is the black area the largest
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of six numbers with equal opposite products*
+*Minimum sum of the six numbers with equal opposite products*
 
 ![[src_kangourou_2019_benjamin_marzo__prob19.png]]
 
-> The figure shows you three faces of a cube, each of which has an integer greater than zero. You know that the product of numbers appearing on opposite faces is the same for all three pairs of faces. What is the minimum possible value for the sum of the six numbers? A) 41
-> 	
-> B) 37
-> 	
-> C) 44
-> 	
-> D) 60
-> 	
+> The figure shows you three faces of a cube, and on each face an integer greater than zero appears. You know that the product of the numbers appearing on opposite faces is the same for all three pairs of faces. What is the minimum possible value of the sum of the six numbers?
+> A) 41	
+>
+> B) 37	
+>
+> C) 44	
+>
+> D) 60	
+>
 > E) 36
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q19|src_kangourou_2019_benjamin_marzo__Q19]]
 
 
 
@@ -895,29 +1010,27 @@ In which mosaic is the black area the largest
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pieces of paper after the folds and cuts*
+*How many pieces of paper after folding and cutting?*
 
 ![[src_kangourou_2019_benjamin_marzo__prob20.png]]
 
-> The figure shows you how 
-> Emanuele folded a square sheet 
-> of paper onto itself twice, so as 
-> to obtain in the end still a square. 
-> Then he cut the square that 
-> he obtained along two straight lines, each parallel to two sides. How many different pieces of paper 
-> did he obtain?
+> The figure shows you how Emanuele folded a square sheet of paper over on itself twice, so that in the end he still ended up with a square. Then he cut the square he obtained along two straight lines, each parallel to two sides. How many different pieces of paper did he get?
 > A) 9	
-> 	
+>
 > B) 4	
-> 	
+>
 > C) 8	
-> 	
+>
 > D) 12	
-> 	
+>
 > E) 16
-> Questions from No. 21 to No. 30 are worth 5 points each
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q20|src_kangourou_2019_benjamin_marzo__Q20]]
 
 
 
@@ -951,18 +1064,24 @@ In which mosaic is the black area the largest
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who rode a bicycle given the implications
+*Who went cycling, given the implications?*
 
-> Aldo, Bruno and Carla each have bicycles. You know, if Aldo doesn't ride a bike, then Bruno goes; if Bruno doesn't ride a bike, then Carla goes. Bruno didn't ride his bike today. Who rode a bicycle? A) Both Aldo and Carla
-> 	
-> B) Only Carla
-> 	
-> C) Only Aldo D) No one
-> 	
-> 	
-> E) It is not possible to know
+> Aldo, Bruno, and Carla each have a bicycle. It is known that if Aldo doesn't ride a bicycle, then Bruno does; if Bruno doesn't ride a bicycle, then Carla does. Today, Bruno didn't ride a bicycle. Who rode a bicycle?
+> A) Both Aldo and Carla
+>
+> B) Carla only
+>
+> C) Only Aldo
+> D) None
+>
+>
+> E) It's impossible to know.
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q21|src_kangourou_2019_benjamin_marzo__Q21]]
 
 
 
@@ -998,17 +1117,24 @@ Who rode a bicycle given the implications
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many grams weigh the nine balls (balances)*
+*How many grams do the nine marbles (scales) weigh?*
 
 ![[src_kangourou_2019_benjamin_marzo__prob22.png]]
 
-> The two figures show you two balances that are balanced by two weights, one of 6 and the other of 30 grams, added to the plates on the right. The black balls all have the same weight, and so do the three white balls (obviously different from the black balls). How many grams do all nine balls weigh together? A) 100 B) 99
-> 	
-> C) 96 D) 94
-> 	
+> The two figures show you two balances that are in equilibrium thanks to two weights—one weighing 6 grams and the other 30 grams—placed on the right pans. All of the black marbles weigh the same, and so do the three white marbles (obviously, their weight is different from that of the black marbles). How many grams do the nine marbles weigh in total?
+> A) 100 	 	
+> B) 99	
+>
+> C) 96 	 	
+> D) 94	
+>
 > E) 90
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q22|src_kangourou_2019_benjamin_marzo__Q22]]
 
 
 
@@ -1043,12 +1169,23 @@ Who rode a bicycle given the implications
 <div class="qlang-split" data-lang="en"></div>
 
 
-Which of the five statements by Dad is false
+*Which of the pope's five statements is false?*
 
-> Father Roberto made the following five statements. One and only one of them is false. Which one? A) My son Matteo has three sisters. B) My daughter Anna has two brothers. C) My daughter Anna has two sisters. D) My son Matteo has two brothers. E) Between males and females, I have five children in total.    6 g 30 g
+> Dad Roberto made the following five statements. Exactly one of them is false. Which one?
+> A) My son Matteo has three sisters.
+> B) My daughter Anna has two brothers.
+> C) My daughter Anna has two sisters.
+> D) My son Matteo has two brothers.
+> E) Between sons and daughters, I have five children in total.
+>
+> 6 g 30 g
 >
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q23|src_kangourou_2019_benjamin_marzo__Q23]]
 
 
 
@@ -1083,15 +1220,24 @@ Which of the five statements by Dad is false
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many of the six written numbers are divisible by 3*
+*How many of the six numbers written are divisible by 3?*
 
 ![[src_kangourou_2019_benjamin_marzo__prob24.png]]
 
-> Benjamin wrote an integer greater than zero in the first circle to the left of the figure; then, by performing all the operations indicated in the order, he wrote the individual results obtained in the subsequent circles. How many of the six numbers he wrote are divisible by 3? A) Exactly 1 B) 1 or 2 depending on the initial number.
->                 
-> C) Exactly 2. D) 2 or 3 depending on the initial number. E) 3 or 4 depending on the initial number.
+> Beniamino wrote a positive integer in the first circle on the left in the figure; then, carrying out all the indicated operations in order, he wrote each individual result obtained in the subsequent circles. How many of the six numbers he wrote are divisible by 3?
+> A) Exactly 1
+> B) 1 or 2 depending on the initial number.
+>
+> C) Exactly 2.
+> D) 2 or 3 depending on the initial number.
+> E) 3 or 4 depending on the initial number.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q24|src_kangourou_2019_benjamin_marzo__Q24]]
 
 
 
@@ -1127,21 +1273,26 @@ Which of the five statements by Dad is false
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For which net of the cube is the line closed*
+*In which development of the cube does the line become closed?*
 
 ![[src_kangourou_2019_benjamin_marzo__prob25.png]]
 
-> Each of the figures below shows the net of a cube on whose surface a line has been drawn. For only one of the nets does it happen that, once the cube is reconstructed, the traced line appears closed. Which one? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> Each of the figures below shows the net of a cube on whose surface a line has been drawn. In exactly one of the nets, once the cube has been reassembled, the line drawn appears closed. Which one?
+> A) 	
+>
+> B) 	
+>
+> C) 	
+>
+> D) 	
+>
 > E)
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q25|src_kangourou_2019_benjamin_marzo__Q25]]
 
 
 
@@ -1176,19 +1327,25 @@ Which of the five statements by Dad is false
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many photos if each appears in 2-3 of them*
+*How many photos if each person appears in 2–3 of them?*
 
-> Eight friends took photographs: five of them appear in each one, and each of them appears in at least two but no more than three photographs. How many photographs did they take? A) 3
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
+> Eight friends took some photographs: in each photograph, five of them appear, and each of them appears in at least two but no more than three photographs. How many photographs did they take?
+> A) 3	
+>
+> B) 4	
+>
+> C) 5	
+>
+> D) 6	
+>
 > E) 7
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q26|src_kangourou_2019_benjamin_marzo__Q26]]
 
 
 
@@ -1230,19 +1387,25 @@ Which of the five statements by Dad is false
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many points did Alberto score (bottle pyramids)*
+*How many points has Alberto scored (pyramids of cans)?*
 
 ![[src_kangourou_2019_benjamin_marzo__prob27.png]]
 
-> There are two pyramids constructed of cans, each of which has a score. The pyramids are identical, including in scores and arrangement. Gianna removed 6 cans for a total of 25 points, Alberto removed 4 cans: the figures show you what was left of the pyramids after each of the two operations. How many points did Alberto score? A) 22
-> 	
-> B) 23
-> 	
-> C) 25
-> 	
-> D) 26 E) 28
+> There are two pyramids made of cans, and each one has a score marked on it. The pyramids are identical, including as regards the scores and their arrangement. Gianna removed 6 cans for a total of 25 points; Alberto removed 4 cans. The figures show you what remains of the pyramids after each of the two interventions. How many points did Alberto score in total?
+> A) 22	
+>
+> B) 23	
+>
+> C) 25	
+>
+>  D) 26	 	
+> E) 28
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q27|src_kangourou_2019_benjamin_marzo__Q27]]
 
 
 
@@ -1292,14 +1455,26 @@ Which of the five statements by Dad is false
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum white fraction of the surface of the cube 4x4x4*
+*Maximum white fraction of the surface of the 4x4x4 cube*
 
-> Lina obtained a cube by placing 64 small cubes together all of the same size, 32 white and 32 black, and made the white part of the surface of the large cube as large as possible. What fraction of the surface of the large cube appears white? A) 3/4 B) 4/7
-> 	
-> C) 1/2 D) 2/3 E) 5/12 +1 +1 × 3 + 2 × 2 1 9 7 6 8 6 4 5 9 1 9 7 3 6 6 8 2 5 3 4 after the intervention of Gianna after the intervention of Alberto
+> Lina made a cube by joining 64 little cubes, all of the same size—32 white and 32 black—and arranged things so that the white part of the surface of the large cube was as large as possible. What fraction of the surface of the large cube appears white?
+> A) 3/4	 	
+> B) 4/7	
+>
+> C) 1/2	 	
+> D) 2/3	 	
+> E)  5/12
+> +1 +1 × 3
+> + 2
+> × 2 1 9 7 6 8 6 4 5 9 1 9 7 3 6 6 8 2 5 3 4 after Gianna's operation after Alberto's operation
 >
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q28|src_kangourou_2019_benjamin_marzo__Q28]]
 
 
 
@@ -1339,22 +1514,27 @@ Which of the five statements by Dad is false
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What will I see in 3 hours and 45 minutes (off segments)*
+*What will I see in 3 hours and 45 minutes (segments off)*
 
 ![[src_kangourou_2019_benjamin_marzo__prob29.png]]
 
-> To make every digit of my digital watch appear, I need to illuminate seven segments at most. Unfortunately, in each of the four positions (hours and minutes) there are two segments that never light up, the same two for all positions. So this is what I'm seeing on my watch now: what am I going to see in three hours and 45 minutes? A)
-> 	
-> 	
-> B)
->  	
-> C)
-> 	
-> D)
-> 	
-> E)
+> To make each digit on my digital clock appear, at most seven segments need to be lit. Here's what the ten digits should look like: Unfortunately, in each of the four positions (hours and minutes), there are two segments that never light up—the same two in all positions. Here's what I'm seeing on my clock right now: What will I see in 3 hours and 45 minutes?
+> A)	
+>
+>
+> B)	
+>
+>              C)	
+>
+> D)	
+>
+>               E)
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q29|src_kangourou_2019_benjamin_marzo__Q29]]
 
 
 
@@ -1391,22 +1571,22 @@ Which of the five statements by Dad is false
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many red tokens does Filippo have now after 10 plays*
+*How many red tokens does Filippo have now after 10 plays?*
 
-> Filippo plays with two token-changing machines: one gives four red tokens for
-> one white one, the other gives three white tokens for one red one. Inserting one token at a time
-> into one of the two machines and being able to use both, after having played 10 times Fi
-> lippo finds himself with 28 tokens. Knowing that, before playing, he had 4 white tokens,
-> how many red tokens does he have now?
+> Filippo is playing with two token-exchange machines: one gives four red tokens for one white token, and the other gives three white tokens for one red token. By inserting one token at a time into one of the two machines and being able to use both machines, after playing 10 times Filippo ends up with 28 tokens. Knowing that before playing he had 4 white tokens, how many red tokens does he have now?
 > A) 21	
-	
+>
 > B) 17	
-	
+>
 > C) 10	
-	
+>
 > D) 27	
-	
+>
 > E) 11
 >
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_marzo#q30|src_kangourou_2019_benjamin_marzo__Q30]]

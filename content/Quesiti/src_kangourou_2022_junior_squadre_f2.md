@@ -35,11 +35,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability of a match with a die, num+den
+*What is the sum of the numerator and the denominator of this fraction?*
 
-> With the dice Alice and Bice each have a traditional die and play the following game. Everyone throws their own die. If they get the same number, Alice wins; if they get different numbers, Alice throws her die again: if now the two numbers coincide, Bice wins, if instead they are still different, the match ends in a draw. Express the probability that the match will end in a draw in the form of a fraction reduced to the lowest terms. What is the sum of the numerator and denominator of this fraction?
+> With the dice
+>
+> Alice and Bice each have a traditional die and play the following game. Each rolls her own die. If they obtain the same number, Alice wins; if they obtain different numbers, Alice rolls her die again: if the two numbers now coincide, Bice wins; if instead they are still different, the match ends in a draw. Express the probability that the match ends in a draw as a fraction in lowest terms. What is the sum of the numerator and the denominator of this fraction?
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0061
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q01|src_kangourou_2022_junior_squadre_f2__Q01]]
 
 
 
@@ -64,12 +70,18 @@ The probability of a match with a die, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many even divisors does 20^22 have*
+*How many of the positive integer divisors of the number 2022 are even numbers?*
 
-> Even factors  
-> How many of the (positive integer) divisors of the number 2022 are even numbers?
+> Even factors
+>
+> How many of the positive integer divisors of the number 2022 are even numbers?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 1012
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q02|src_kangourou_2022_junior_squadre_f2__Q02]]
 
 
 
@@ -98,16 +110,20 @@ The probability of a match with a die, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the shaded hexagon in a triangle*
+*How many square centimetres is the area of the shaded hexagon?*
 
 ![[src_kangourou_2022_junior_squadre_f2__prob3.png]]
 
-> The hexagon  
-> On the sides of the triangle in the figure, some points are marked (vertices included). 
-> On each individual side, two contiguous points are 5 cm apart. How many square 
-> centimeters is the area of the shaded hexagon?
+> The hexagon
+>
+> On the sides of the triangle in the picture some points are marked (vertices included). On each single side two adjacent points are 5 cm apart. How many square centimetres is the area of the shaded hexagon?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0120
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q03|src_kangourou_2022_junior_squadre_f2__Q03]]
 
 
 
@@ -135,11 +151,18 @@ The probability of a match with a die, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Candy in the sixth bag with constraints*
+*How many sweets did she put in the sixth bag?*
 
-> Sara distributes 150 candies in 10 bags. Each bag (starting with the second) contains more candies than the previous one. Eventually, Sara realizes that the number of candies she put in the tenth bag is not more than double the number of candies she put in the first. How many candies did she put in the sixth bag? If the answer is not unambiguous, write 0000.
+> Sweets
+>
+> Sara distributes 150 sweets in 10 bags. Each bag (starting from the second) contains more sweets than the previous one. At the end Sara notices that the number of sweets she put in the tenth bag is not more than twice the number of sweets she put in the first. How many sweets did she put in the sixth bag? If the answer is not unique, write 0000.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0016
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q04|src_kangourou_2022_junior_squadre_f2__Q04]]
 
 
 
@@ -166,15 +189,21 @@ The probability of a match with a die, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits 1 in the sum of 2023 addends*
+*How many digits 1 appear in the result?*
 
-> 2023 addends 
-> Consider the following sum  
-> 8 + 98 + 998 + 9,998 + … + 9,999. … .998 
-> where the 2023 addends are obtained by prefixing the digit 8 with respectively 0, 1, 2, 3, …, 2022 digits 
-> 9. How many digits 1 appear in the result?
+> 2023 addends
+>
+> Consider the following sum
+>
+> 8 + 98 + 998 + 9.998 + … + 9.999. … .998
+>
+> where the 2023 addends are obtained by putting in front of the digit 8 respectively 0, 1, 2, 3, …, 2022 digits 9. How many digits 1 appear in the result?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 2019
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q05|src_kangourou_2022_junior_squadre_f2__Q05]]
 
 
 
@@ -200,11 +229,18 @@ The probability of a match with a die, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of minimum k with s(s(s(k)))=10*
+*How many digits does the smallest positive integer k such that s(s(s(k))) = 10 have?*
 
-> The sum of the digits Assigned a positive integer n, we denote with s(n) the sum of its digits. How many digits has the smallest positive integer k such that s(s(s(k))) = 10?
+> The sum of the digits
+>
+> Given a positive integer n, denote by s(n) the sum of its digits. How many digits does the smallest positive integer k such that s(s(s(k))) = 10 have?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0023
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q06|src_kangourou_2022_junior_squadre_f2__Q06]]
 
 
 
@@ -234,16 +270,17 @@ The probability of a match with a die, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value X because product starts with 30*
+*What is the value of X?*
 
-> Seven digits For an appropriate positive integer X, the product 2 × 3 × 4 × 5 × 7 × 9 × 11 × X is a 7-digit number, the first two of which (left) are, in order, 3 and 0. How much is X worth?
->  
->  
-> 5 cm
-> 
-> 2
+> Seven digits
+>
+> For a suitable positive integer X, the product 2 × 3 × 4 × 5 × 7 × 9 × 11 × X is a 7-digit number whose first two digits (from the left) are, in order, 3 and 0. What is the value of X?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0037
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q07|src_kangourou_2022_junior_squadre_f2__Q07]]
 
 
 
@@ -275,13 +312,20 @@ The probability of a match with a die, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Moves of the King from b6 to e4 without going back*
+*In how many different ways can he do it?*
 
 ![[src_kangourou_2022_junior_squadre_f2__prob8.png]]
 
-> In the game of chess the king can move on the chessboard only one square at a time, horizontally, vertically or in one of the two diagonal directions. The King wants to go from b6 to e4 without ever going back (so, with reference to the figure, moving horizontally from left to right, vertically from top to bottom, diagonally from left to right from top to bottom). How many different ways can you do that?
+> The king's moves
+>
+> In the game of chess the king can move on the board only one square at a time, horizontally, vertically or in one of the two diagonal directions. The king wants to go from b6 to e4 without ever going back (so, with reference to the picture, moving horizontally from left to right, vertically from top to bottom, and diagonally from left to right and from top to bottom). In how many different ways can he do it?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0025
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q08|src_kangourou_2022_junior_squadre_f2__Q08]]
 
 
 
@@ -309,11 +353,18 @@ The probability of a match with a die, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum embassies, triangle-free graph*
+*How many embassies could there be, at most, on that planet?*
 
-> Embassies On a distant planet there are exactly 30 nations, rather contentious among themselves: in fact, there are no three nations that have diplomatic relations with each other (each with each of the other two). If A is related to B, then B is also related to A and in A there is an embassy of B and in B there is an embassy of A. How many embassies could there be on that planet?
+> The embassies
+>
+> On a distant planet there are exactly 30 nations, rather quarrelsome with one another: indeed there do not exist three nations that maintain mutual diplomatic relations (each with each of the other two). If A is in relation with B, then B is also in relation with A, and in A there is an embassy of B and in B there is an embassy of A. How many embassies could there be, at most, on that planet?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]], [[method_grafi|Graph theory]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0450
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q09|src_kangourou_2022_junior_squadre_f2__Q09]]
 
 
 
@@ -338,11 +389,18 @@ The probability of a match with a die, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The last three digits of 7^9999*
+*What are the last three digits (hundreds, tens, units) of the number 79999?*
 
-> What are the last three digits (hundreds, tens, units) of the number 7^9999?
+> The power
+>
+> What are the last three digits (hundreds, tens, units) of the number 79999?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0143
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q10|src_kangourou_2022_junior_squadre_f2__Q10]]
 
 
 
@@ -368,13 +426,18 @@ The probability of a match with a die, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum parallelepipeds from 4 non-coplanar points*
+*What is this number?*
 
-> The parallelepipeds 
-> Four non-coplanar points in space are assigned in such a way that the number of 
-> parallelepipeds, all different from one another, among whose vertices there are these 4 points, is maximum. What is this number?
+> The parallelepipeds
+>
+> 4 non-coplanar points are given in space so that the number of parallelepipeds, all different from one another, that have these 4 points among their vertices is as large as possible. What is this number?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 0029
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q11|src_kangourou_2022_junior_squadre_f2__Q11]]
 
 
 
@@ -402,11 +465,18 @@ The probability of a match with a die, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum whole 4 digits divided by 7 remaining 1*
+*What is the smallest four-digit positive integer from which you could have started?*
 
-> Divisions by 7 Imagine that, dividing by 7 a positive integer, you get remainder 1. If the quotient of this first division is not divisible by 7, imagine that the remainder of the division by 7 of this quotient is still 1 and so on until, after a finite number of steps, the quotient is divisible by 7. What's the smallest positive four-digit integer you could have started from?
+> Divisions by 7
+>
+> Imagine that, on dividing a positive integer by 7, you obtain remainder 1. If the quotient of this first division is not divisible by 7, imagine that the remainder on dividing this quotient by 7 is again 1, and so on, until, after a finite number of steps, the quotient is divisible by 7. What is the smallest four-digit positive integer from which you could have started?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 1030
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q12|src_kangourou_2022_junior_squadre_f2__Q12]]
 
 
 
@@ -433,11 +503,18 @@ The probability of a match with a die, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of tracing segments, each grade point 2*
+*In how many different ways can segments be drawn, each having two of these points as endpoints, so that each of the 7 points is an endpoint of exactly two segments?*
 
-> Seven points on a circle, seven distinct points are marked and named. How many different ways can segments be plotted, each of which has two of these points as endpoints, so that each of the seven points is an endpoint of exactly two segments?
+> Seven points
+>
+> On a circle 7 distinct points are marked and named. In how many different ways can segments be drawn, each having two of these points as endpoints, so that each of the 7 points is an endpoint of exactly two segments?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0465
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q13|src_kangourou_2022_junior_squadre_f2__Q13]]
 
 
 
@@ -466,13 +543,20 @@ The probability of a match with a die, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square side with grey triangle area given*
+*How many centimetres long is the side of the square?*
 
 ![[src_kangourou_2022_junior_squadre_f2__prob14.png]]
 
-> In the figure you see a square divided into four triangles. The grey one has an area of 432√5 – 720 cm2 and the three white triangles are equivalent to each other. How many centimeters is the side of the square?
+> The square
+>
+> In the picture you see a square divided into four triangles. The grey one has area 432√5 – 720 cm2 and the three white triangles are equal in area to one another. How many centimetres long is the side of the square?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0024
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q14|src_kangourou_2022_junior_squadre_f2__Q14]]
 
 
 
@@ -538,50 +622,15 @@ The probability of a match with a die, num+den
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many n<10000 with M||n divisible by n*
+*How many positive integers n less than 10.000 have this property?*
 
-> Written on the right 
-> How many positive integers n less than 10,000 have this property: whatever 
-> the positive integer M, if the digits of n are written to the right of those of M, the number obtained by placing 
-> the two numbers side by side is divisible by n. (For both M and n the notation used is decimal.)  
-> 8
->  
->  
->  
-> 7
->  
->  
->  
-> 6
->  
->  
->  
-> 5
->  
->  
->  
-> 4
->  
->  
->  
-> 3
->  
->  
->  
-> 2
->  
->  
->  
-> 1
-> a b
-> c
-> d e
-> f
-> g h
-> 
-> 3 
->  
->  
-> Questions and solutions
+> Written on the right
+>
+> How many positive integers n less than 10.000 have this property: whatever the positive integer M, if one writes the digits of n to the right of those of M, the number obtained by placing the two numbers side by side is divisible by n. (For both M and n the notation used is the decimal one.)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0017
+[[Quesiti/src_kangourou_2022_junior_squadre_f2#q15|src_kangourou_2022_junior_squadre_f2__Q15]]

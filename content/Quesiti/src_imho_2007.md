@@ -37,15 +37,20 @@ level: IMO
 
 *Disuguaglianza per successioni reali con differenze definite*
 
-> Siano dati numeri reali $a_1, a_2, \ldots, a_n$. Per ogni $i$ ($1 \le i \le n$) si definisca
+> Sono dati i numeri reali $a_1, a_2, \ldots, a_n$. Per ogni $i$ ($1 \le i \le n$) definire
 > $$d_i = \max\{a_j : 1 \le j \le i\} - \min\{a_j : 1 \le j \le i\}$$
-> e si ponga
+> e porre
 > $$d = \max\{d_i : 1 \le i \le n\}.$$
->
-> (a) Si dimostri che, per ogni numero reale $x_1 \le x_2 \le \cdots \le x_n$,
+> (a) Dimostrare che, per qualsiasi numero reale $x_1 \le x_2 \le \cdots \le x_n$,
 > $$\max\{|x_i - a_i| : 1 \le i \le n\} \ge \frac{d}{2}. \tag{*}$$
->
-> (b) Si mostri che esistono numeri reali $x_1 \le x_2 \le \cdots \le x_n$ tali che valga l'uguaglianza in $(*)$.
+> (b) Mostrare che esistono numeri reali $x_1 \le x_2 \le \cdots \le x_n$ tali che vale l'uguaglianza in $(*)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2007#q01|src_imho_2007__Q01]]
 
 
 
@@ -68,9 +73,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Retta passante per vertice del parallelogramma incontra quadrilatero ciclico*
+*La retta passante per il vertice del parallelogramma incontra il quadrilatero ciclico*
 
-> Siano dati cinque punti $A$, $B$, $C$, $D$ e $E$ tali che $ABCD$ sia un parallelogramma e $BCED$ sia un quadrilatero ciclico. Si supponga che una retta $\ell$ passante per $A$ intersechi l'interno del segmento $DC$ nel punto $F$ e intersechi la retta $BC$ nel punto $G$. Si supponga inoltre che $EF = EG = EC$. Si dimostri che $\ell$ è la bisettrice dell'angolo $DAB$.
+> Si considerino cinque punti $A$, $B$, $C$, $D$ e $E$ tali che $ABCD$ sia un parallelogramma e $BCED$ sia un quadrilatero ciclico. Si supponga che una retta $\ell$ passante per $A$ intersechi l'interno del segmento $DC$ in $F$ e intersechi la retta $BC$ in $G$. Si supponga inoltre che $EF = EG = EC$. Si dimostri che $\ell$ è la bisettrice dell'angolo $DAB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2007#q02|src_imho_2007__Q02]]
 
 
 
@@ -95,11 +107,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimensioni dei clique in una partizione a due stanze del grafo degli amici*
+*Dimensioni dei clique nella partizione a due stanze del grafo dell'amicizia*
 
-> In una gara matematica alcuni partecipanti sono amici. L'amicizia è sempre reciproca. Si chiama gruppo di amicizie un insieme di partecipanti tale che ogni due di essi siano amici. (In particolare, ogni insieme di meno di due partecipanti è un gruppo di amicizie.) Il numero di membri di un gruppo di amicizie si chiama la sua dimensione.
-> 
-> Si dimostri che, dato che in questa gara la massima dimensione di una clique è pari, i concorrenti possono essere disposti in due stanze in modo tale che la massima dimensione di una clique contenuta in una stanza sia uguale alla massima dimensione di una clique contenuta nell'altra stanza.
+> In una competizione matematica, alcuni concorrenti sono amici. L'amicizia è sempre reciproca. Si dice clique un gruppo di concorrenti tale che ogni coppia di essi sia amica. (In particolare, ogni gruppo di meno di due concorrenti è una clique.) Il numero di membri di una clique è detto la sua dimensione.
+>
+> Dato che, in questa competizione, la dimensione massima di una clique è pari, dimostrare che i concorrenti possono essere disposti in due stanze in modo che la dimensione massima di una clique contenuta in una stanza sia uguale alla dimensione massima di una clique contenuta nell'altra stanza.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2007#q03|src_imho_2007__Q03]]
 
 
 
@@ -122,9 +141,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bisettrice angolare, circonferenza circoscritta, assi perpendicolari, aree uguali*
+*Bisettrice dell'angolo, circonferenza circoscritta, bisettrici perpendicolari, aree uguali*
 
-> Nel triangolo $ABC$ la bisettrice dell'angolo $BCA$ interseca nuovamente la circonferenza circoscritta in $R$, l'asse del segmento $BC$ in $P$ e l'asse del segmento $AC$ in $Q$. Il punto medio di $BC$ è $K$ e il punto medio di $AC$ è $L$. Si dimostri che i triangoli $RPK$ e $RQL$ hanno la stessa area.
+> Nel triangolo $ABC$, la bisettrice dell'angolo $BCA$ interseca nuovamente la circonferenza circoscritta in $R$, la mediatrice di $BC$ in $P$ e la mediatrice di $AC$ in $Q$. Il punto medio di $BC$ è $K$ e il punto medio di $AC$ è $L$. Dimostrare che i triangoli $RPK$ e $RQL$ hanno la stessa area.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2007#q04|src_imho_2007__Q04]]
 
 
 
@@ -147,9 +173,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizione di divisibilità implica a uguale a b*
+*Se 4ab − 1 divide (4a² − 1)², allora a = b*
 
-> Siano $a$ e $b$ numeri interi positivi. Si dimostri che se $4ab - 1$ divide $(4a^2 - 1)^2$, allora $a = b$.
+> Siano $a$ e $b$ interi positivi. Dimostrare che se $4ab - 1$ divide $(4a^2 - 1)^2$, allora $a = b$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_estremalita|Principio di estremalità]], [[method_induzione|Induzione]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_imho_2007#q05|src_imho_2007__Q05]]
 
 
 
@@ -174,6 +207,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piani minimi che coprono punti reticolari con somma delle coordinate positiva*
+*Piani minimi che coprono i punti della rete a somma delle coordinate positiva*
 
-> Sia $n$ un intero positivo. Si consideri $$S = \{(x,y,z) \ : \ x, y, z \in \{0, 1, \ldots, n\},\ x + y + z > 0\}$$ come insieme di $(n+1)^3 - 1$ punti nello spazio tridimensionale. Si determini il numero minimo possibile di piani la cui unione contenga $S$ ma non includa $(0, 0, 0)$.
+> Sia $n$ un numero intero positivo. Si consideri
+> $$S = \{(x,y,z) \ : \ x, y, z \in \{0, 1, \ldots, n\},\ x + y + z > 0\}$$
+> come un insieme di $(n+1)^3 - 1$ punti nello spazio tridimensionale. Determinare il numero minimo possibile di piani la cui unione contenga $S$ ma non includa $(0, 0, 0)$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imho_2007#q06|src_imho_2007__Q06]]

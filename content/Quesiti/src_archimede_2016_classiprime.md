@@ -37,11 +37,21 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of divisors of n squared with 6 divisors*
+*Maximum number of divisors of the square of n with 6 divisors*
 
-> We know that a positive integer n has 6 divisors (counting among the divisors also 1 and n). How many divisors can your square have at most? A 15 B 11 C 36 D 7 E 35 F 12
+> We know that a positive integer n has 6 divisors (counting 1 and n among the divisors). What is the maximum number of divisors its square can have?
+> A 15
+> B 11
+> C 36
+> D 7
+> E 35
+> F 12
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2016_classiprime#q01|src_archimede_2016_classiprime__Q01]]
 
 
 
@@ -72,11 +82,21 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of the numbers given are perfect squares*
+*Which of the given numbers are perfect squares*
 
-> The numbers a = 1234321, b = 1002001 and c = 249 −248 are given. Which of these are perfect squares? To all B only a and b C only a and c D only b and c E only b F none
+> The numbers a = 1234321, b = 1002001 and c = 249 −248 are given. Which of them are perfect squares?
+> A all of them
+> B only a and b
+> C only a and c
+> D only b and c
+> E only b
+> F none
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2016_classiprime#q02|src_archimede_2016_classiprime__Q02]]
 
 
 
@@ -108,11 +128,23 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-Product m*n data MCD=6 and mcm=3150*
+*Product m*n given GCD=6 and LCM=3150*
 
-> Given two positive integers m and n, we know that MCD(m, n) = 6 and that mcm(m, n) = 3150. What is the value of the product? A 18900 B 9450 C 6300 D 12600 E the data provided are incompatible because there are no two numbers n and m satisfying the required conditions F the data provided are insufficient to satisfy
+> Given two positive integers m and n, we know that GCD(m, n) = 6 and that
+> LCM(m, n) = 3150. What is the value of the product m · n?
+> A 18900
+> B 9450
+> C 6300
+> D 12600
+> E the data
+> provided are incompatible because there do not exist two numbers n and m satisfying
+> the required conditions
+> F the data provided are insufficient to answer
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2016_classiprime#q03|src_archimede_2016_classiprime__Q03]]
 
 
 
@@ -147,11 +179,21 @@ Product m*n data MCD=6 and mcm=3150*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum quantity with at least one 5 (Frobenius) banknote*
+*Largest amount with at least one 5-sesterzio note (Frobenius)*
 
-> On the island of Kenoncè, ATMs distribute money using 5, 20 and 35 sesterce notes. Claudia wants to withdraw money so she can be sure she's getting at least a five-sester bill. What is the maximum amount of money you can withdraw? There is no maximum at 85 sesterces B 95 sesterces C 195 sesterces D 110 sesterces E 65 sesterces F, because there are multiple quantities of 5 arbitrarily large sesterces, which cannot be expressed using only 20 and 35 sesterce notes
+> On the island of Kenoncè, ATMs distribute money using notes of 5, 20 and 35 sesterzi. Claudia wants to withdraw money so as to be sure of receiving at least one note of 5 sesterzi. What is the largest amount of money she can withdraw?
+> A 85 sesterzi
+> B 95 sesterzi
+> C 195 sesterzi
+> D 110 sesterzi
+> E 65 sesterzi
+> F there is no maximum, because there exist multiples of 5 sesterzi arbitrarily large, not expressible using only notes of 20 and 35 sesterzi
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2016_classiprime#q04|src_archimede_2016_classiprime__Q04]]
 
 
 
@@ -190,11 +232,23 @@ Product m*n data MCD=6 and mcm=3150*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*winning bite by 27cm*
+*winning bite of 27cm*
 
-> Claudia and Luca challenge the game Mordi La Striscia: it starts with a strip of whole-length liquorice (expressed in centimeters) and, in turn, each player detaches a piece of whole-length positive (always expressed in centimeters) from it with a bite, but making sure that, at each turn, the liquorice detached from the bite is never more than what remains. In the end, the winner is the one who, after the bite, leaves a strip of only one centimeter. At some point, the licorice strip is 27 centimeters long and it's up to Claudia to bite. If you want to be sure you're winning, how many inches of licorice do you have to take off with your bite? A 12 B 13 C 11 D 10 and 9 F Luke will win whatever Claudia does
+> Claudia and Luca compete in the game Bite the Strip: they start with a strip of licorice of integer length (expressed in centimetres), and in turn each player bites off a piece of positive integer length (always expressed in centimetres), but in such a way that, at each turn, the licorice bitten off is never more than what remains. In the end, the winner is the player who, after the bite, leaves a strip of a single centimetre.
+> At a certain point the strip of licorice is 27cm long and it is Claudia's turn to bite.
+> If she wants to be sure of winning, how many centimetres of licorice must she bite off with her bite?
+> A 12
+> B 13
+> C 11
+> D 10
+> E 9
+> F Luca will win whatever Claudia does
 
-**Answer:** A
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_backward|Working backwards]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2016_classiprime#q05|src_archimede_2016_classiprime__Q05]]
 
 
 
@@ -230,9 +284,20 @@ Product m*n data MCD=6 and mcm=3150*
 
 *Cases for PIN 16_6_ divisible by 15*
 
-> Luca wrote the PIN of his ATM on a piece of paper, but the third and last digit were deleted. This is how the PIN appears: 16 6. Luke, however, recalls that it was a divisible number by 15 and this allows him to significantly reduce the number of possible cases including testing. How many of these cases are there? A 7 B 6 C 8 D 9 E 10 F 11
+> Luca wrote his ATM PIN on a sheet of paper, but the third and last digits were erased. Here is how the PIN appears: 16 ⊔6⊔.
+> Luca remembers, however, that it was a number divisible by 15, and this allows him to reduce considerably the number of possible cases to try. How many are these cases?
+> A 7
+> B 6
+> C 8
+> D 9
+> E 10
+> F 11
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2016_classiprime#q06|src_archimede_2016_classiprime__Q06]]
 
 
 
@@ -263,11 +328,21 @@ Product m*n data MCD=6 and mcm=3150*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies between 700 and 800 coatings with 707*
+*Integers between 700 and 800 coprime to 707*
 
-> How many integers n, such as 700 ≤n ≤800, do not have factors in common with 707? A 86 B 82 C 93 D 81 E 91 F 77
+> How many integers n, such that 700 ≤ n ≤ 800, have no factors in common with 707?
+> A 86
+> B 82
+> C 93
+> D 81
+> E 91
+> F 77
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2016_classiprime#q07|src_archimede_2016_classiprime__Q07]]
 
 
 
@@ -303,11 +378,23 @@ Product m*n data MCD=6 and mcm=3150*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*maximum product with sum of 10*
+*maximum product with sum 10*
 
-> Teacher Sotuttoio is fixated on group work and posters. The group of Luca, Massimo, Davide and Claudia must prepare a carton with 10 drawings: they can start the work as they wish, provided that one person works on each of the 10 drawings. The final score of the group will be the product of the number of drawings made by each child. For example, if Luke does 7 drawings and each of the other children does only one, the final score will be 7 · 1 · 1 · 1, that is, 7. Children immediately notice that even grades higher than 10 can be scored. What's the highest score you can get? A 36 B 24 C 54 D 27 E 15 F 20
+> Teacher Sotuttoio is obsessed with group work and posters. The group made up of Luca, Massimo, Davide and Claudia must prepare a poster with 10 drawings: they may divide the work as they like, provided that only one person works on each of the 10 drawings. The final grade obtained by the group will be the product of the number of drawings made by each child. For example, if Luca makes 7 drawings and each of the other children makes only one, the final grade will be 7 · 1 · 1 · 1, that is 7.
+> The children notice right away that grades higher than 10 can also be obtained.
+> What is the highest grade that can be obtained?
+> A 36
+> B 24
+> C 54
+> D 27
+> E 15
+> F 20
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2016_classiprime#q08|src_archimede_2016_classiprime__Q08]]
 
 
 
@@ -339,11 +426,21 @@ Product m*n data MCD=6 and mcm=3150*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular triangles with vertices between vertices and centre of octagon*
+*Right triangles with vertices among the vertices and center of an octagon*
 
-> Given a regular octagon, the set U consists of its 8 vertices and its centre. How many rectangular triangles have 3 points of U for vertices? A 32 B 28 C 56 D 16 E 36 F 72
+> Given a regular octagon, consider the set $U$ consisting of its 8 vertices and its center. How many right triangles have as vertices 3 points of $U$?
+> A 32
+> B 28
+> C 56
+> D 16
+> E 36
+> F 72
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2016_classiprime#q09|src_archimede_2016_classiprime__Q09]]
 
 
 
@@ -376,11 +473,21 @@ Product m*n data MCD=6 and mcm=3150*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area triangle APQ data area quadrilateral BCQP*
+*Area of triangle APQ given area of quadrilateral BCQP*
 
-> In the ABC triangle you have AB = 60cm and AC = 50cm. Let's take P on the AB side and Q on the AC side so that AP = AQ = 10cm. If the area of the BCQP quadrilateral is 696cm2, what is the area of the APQ triangle in cm2? A 24 B 32 C 20 D 18 E 36 F cannot be determined by the data provided alone
+> In triangle ABC, AB = 60cm and AC = 50cm. Take P on side AB and Q on side AC so that AP = AQ = 10cm. If the area of quadrilateral BCQP is 696cm2, what is the area of triangle APQ, in cm2?
+> A 24
+> B 32
+> C 20
+> D 18
+> E 36
+> F not determinable from the given data alone
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2016_classiprime#q10|src_archimede_2016_classiprime__Q10]]
 
 
 
@@ -411,11 +518,21 @@ Product m*n data MCD=6 and mcm=3150*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Common n and m dividers (MCD and its dividers)*
+*Common divisors of n and m (GCD and its divisors)*
 
-> They are n = 11.112.222 and m = 11.118.888. How many positive integers exactly divide both m and n? A 16 B 8 C 2 D 4 E 24 F 6
+> Let n = 11.112.222 and m = 11.118.888. How many positive integers divide exactly both m and n?
+> A 16
+> B 8
+> C 2
+> D 4
+> E 24
+> F 6
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2016_classiprime#q11|src_archimede_2016_classiprime__Q11]]
 
 
 
@@ -455,11 +572,24 @@ Product m*n data MCD=6 and mcm=3150*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Logical deductions from ownership of votes (quantifiers)*
+*Logical deductions from properties of grades (quantifiers)*
 
-> Professor Quandomigira still has to bring her last month's results to class. Pressed by a student, she replies, "I don't remember your vote". I can only tell you that the votes satisfy the following property: no matter how you choose a guy, you can always find at least one girl who got a narrowly higher vote than you. The following statements can be drawn from the professor's words: (a) however a girl is chosen, there is at least one boy who scored lower than her; (b) the average score of girls is higher than the average score of boys; (c) the highest score of a girl is higher than the highest score of a boy. A only (c) B only (b) C only (a) D all E no F only (a) and (c)
+> Professor Quandomigira still has to bring the results of last month’s class test. Pressed by a student, she replies: “I don’t remember your grade. I can only tell you that the grades satisfy the following property: however a boy is chosen, it is always possible to find at least one girl who got a strictly higher grade than his.”
+> Say which of the following statements can be deduced from the professor’s words:
+> (a) however a girl is chosen, there is at least one boy who got a grade lower than hers;
+> (b) the average of the girls’ grades is higher than the average of the boys’ grades;
+> (c) the highest grade taken by a girl is higher than the highest grade taken by a boy.
+> A only (c)
+> B only (b)
+> C only (a)
+> D all
+> E none
+> F only (a) and (c)
 
-**Answer:** A
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2016_classiprime#q12|src_archimede_2016_classiprime__Q12]]
 
 
 
@@ -489,11 +619,21 @@ Product m*n data MCD=6 and mcm=3150*
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total number of units of measurement for each unit of measurement.
+*Number of digits of the least common multiple of 2019000 and 2021000*
 
-> What is the minimum common multiple between 2019000 and 2021000? A 10 B 7 C 8 D 9 E 11 F more than 11
+> How many digits does the least common multiple of 2019000 and 2021000 have?
+> A 10
+> B 7
+> C 8
+> D 9
+> E 11
+> F more than 11
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2016_classiprime#q13|src_archimede_2016_classiprime__Q13]]
 
 
 
@@ -526,11 +666,21 @@ This is the total number of units of measurement for each unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fourth successive monomy type Fibonacci of monomers*
+*Fourth term in a Fibonacci-type sequence of monomials*
 
-> On a sheet is written a list of 6 mononyms: the first is xy2 while the last is x8y6. We also know that each monome, from the third to the next, is the product of the two monomes that precede it. What's the fourth monopoly? A x3y2 B x2y3 C x2y4 D x4y2 E x3y F not determined by the data provided alone
+> On a sheet is written a list of 6 monomials: the first is xy2 while the last is x8y6. Furthermore we know that each monomial, from the third onward, is the product of the two monomials that precede it. What is the fourth monomial?
+> A x3y2
+> B x2y3
+> C x2y4
+> D x4y2
+> E x3y
+> F not determinable from the data given alone
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2016_classiprime#q14|src_archimede_2016_classiprime__Q14]]
 
 
 
@@ -564,13 +714,22 @@ This is the total number of units of measurement for each unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the cube with three passing square holes*
+*Volume of the cube with three through square holes*
 
-![[src_archimede_2016_classiprime__prob15.png]]
+> A cube with side length 18 cm has, at the center of the faces, 3 square holes with side length 6 cm that pass through it from side to side, as in the figure:
+> What is, expressed in cm3, the volume of the resulting solid?
+> A 4320
+> B 3888
+> C 1944
+> D 5616
+> E 5184
+> F 3600
 
-> On a cube with a side of 18 cm, 3 square holes with a side of 6 cm were used in the center of the faces, which cross it from side to side, as shown in the figure: What is the volume of the solid obtained, expressed in cm3? A 4320 B 3888 C 1944 D 5616 E 5184 F 3600
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2016_classiprime#q15|src_archimede_2016_classiprime__Q15]]
 
 
 
@@ -620,13 +779,39 @@ This is the total number of units of measurement for each unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of seven convex angles in the figure on a rectangle*
+*Sum of seven convex angles in a figure on a rectangle*
 
-![[src_archimede_2016_classiprime__prob16.png]]
+> The rectangle in the figure is made up of 18 small squares. On its sides (see figure)
+> the points A, B, C, D, E, F and G have been taken:
+> A
+> B
+> C
+> D
+> E
+> F
+> G
+> What is the value of the sum of the convex angles
+> d
+> GAB + d
+> ABC +
+> d
+> BCD + d
+> CDE +
+> d
+> DEF + d
+> EFG + d
+> FGA?
+> A 540°
+> B 630°
+> C 720°
+> D 450°
+> E 360°
+> F 900°
 
-> The rectangle in the figure consists of 18 squares. On its sides (see figure) are taken the points A, B, C, D, E, F and G: A B C D E F G What is the sum of the convex angles d GAB + d ABC + d BCD + d CDE + d DEF + d EFG + d FGA? A 540° B 630° C 720° D 450° E 360° F 900°
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2016_classiprime#q16|src_archimede_2016_classiprime__Q16]]
 
 
 
@@ -659,11 +844,23 @@ This is the total number of units of measurement for each unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value p(0) of a cubic polynomial with roots 7 and 13*
+*Value of p(0) of a cubic polynomial with roots 7 and 13*
 
-> From the third degree polynomial p(x) we know that its coefficients are all integers, that p(7) = p(13) = 0 and that p(0) is a positive 2-digit number. What's the value of p? A 91 B 20 C 21 D 19 E 92 F cannot be determined by the data provided alone
+> We know that the coefficients of the third-degree polynomial p(x) are all
+> integers, that p(7) = p(13) = 0 and that p(0) is a positive two-digit number. What
+> is p(0)?
+> A 91
+> B 20
+> C 21
+> D 19
+> E 92
+> F not determinable from the given data alone
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2016_classiprime#q17|src_archimede_2016_classiprime__Q17]]
 
 
 
@@ -708,27 +905,29 @@ This is the total number of units of measurement for each unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the middle square with aligned vertices*
+*Area of the intermediate square with collinear vertices*
 
-![[src_archimede_2016_classiprime__prob18.png]]
-
-> Three squares, drawn as in the figure, have vertices P, Q, and R aligned.
-> We also know that the side of the smallest square is 1 meter and the side of the largest square is 120 cm.
+> Three squares, drawn as in the figure, have the vertices P, Q and R collinear.
+> We also know that the side of the smallest measures 1 metre and that of the largest measures 120 cm.
 > P
 > Q
 > R
->
-> What is the area of the middle-sized square, expressed in cm²?
+> What is the area, expressed in cm², of the one of intermediate dimensions?
 > A 12000
 > B 14400
 > C 12200
 > D 11000
 > E 12100
 > F 12400
+> 1
 > 
 > Solutions
-> Below you will find the written solutions. The video solutions will be published gradually on my YouTube channel:
+> Here are the written solutions. The video solutions will be published gradually on my YouTube channel:
 > problemisvolti.it.
 > Emanuele Callegari
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2016_classiprime#q18|src_archimede_2016_classiprime__Q18]]

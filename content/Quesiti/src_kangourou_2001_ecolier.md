@@ -39,11 +39,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Next drawing of the reflected series*
+*Which drawing comes next in a series of mirrored numbers*
 
 ![[src_kangourou_2001_ecolier__prob1.png]]
 
-> The following four drawings represent the numbers 1 through 4. In each drawing, the right half is the number represented, while the left half is the image of that number reflected in a mirror. Which drawing will be next in the series?
+> The following four drawings stand for the numbers from 1 to 4. In each drawing, the right-hand half is the number represented, while the left-hand half is the image of that number reflected in a mirror. Which drawing will be the next in the series?
 >
 > - **(A)**
 > - **(B)**
@@ -51,7 +51,10 @@ level: kangourou
 > - **(D)**
 > - **(E)**
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_ecolier#q01|src_kangourou_2001_ecolier__Q01]]
 
 
 
@@ -81,9 +84,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sticks after breaking one*
+*How many sticks Stefano has after breaking one in half*
 
-> Stephen has seven sticks of varying lengths. He breaks one in half. How many sticks does Stephen have now?
+> Stefano has 7 sticks of various lengths. He breaks one in half. How many sticks does Stefano have now?
 >
 > - **(A)** 5
 > - **(B)** 6
@@ -91,7 +94,10 @@ level: kangourou
 > - **(D)** 8
 > - **(E)** 9
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_ecolier#q02|src_kangourou_2001_ecolier__Q02]]
 
 
 
@@ -120,13 +126,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of chocolate heart*
+*The weight of a chocolate heart*
 
 ![[src_kangourou_2001_ecolier__prob3.png]]
 
-> Jimmy buys his mom a nice present: a chocolate heart like the one in the picture. If each square contains 10 grams of chocolate, what is the weight of the whole heart of chocolate? (A) 340 gr. (B) 360 gr. (C) 380 gr. (D) 400 gr. (E) 420 gr.
+> Jimmy buys a fine present for his mother: a chocolate heart like the one in the figure. If each square contains 10 grams of chocolate, what is the weight of the whole chocolate heart?
+> (A) 340 g
+> (B) 360 g
+> (C) 380 g
+> (D) 400 g
+> (E) 420 g
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_ecolier#q03|src_kangourou_2001_ecolier__Q03]]
 
 
 
@@ -173,17 +187,38 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number X in the triangle of Tartaglia*
+*The number that must replace X in the table*
 
-> The number to be placed in the place of "X" in Table 1 1 1 1 2 1 1 3 3 1 1 4 X 4 1 1 5 10 10 5 1 is
+> The number that must be put in place of "X" in the table
+> 2
+> 1
+> 1
+> 3
+> 3
+> 1
+> 1
+> 4
+> X
+> 4
+> 1
+> 1
+> 5
+> 10
+> 10
+> 5
+> 1
+> is
 >
 > - **(A)** 4
 > - **(B)** 5
 > - **(C)** 6
 > - **(D)** 7
-> - **(E)** 8 Kangourou 15 March 2001, category Ecolier. Page N. 3
+> - **(E)** 8 Kangourou 15 March 2001, Ecolier category. Page no. 3
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_ecolier#q04|src_kangourou_2001_ecolier__Q04]]
 
 
 
@@ -217,11 +252,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sitting in the canoe*
+*Ways for the Pagaia family to sit in a three-seat canoe*
 
 ![[src_kangourou_2001_ecolier__prob5.png]]
 
-> The Pagaia family (father, mother and their son Benjamin) rents a three-seater canoe. How many different ways can they sit in a canoe?
+> The Pagaia family (father, mother and their son Beniamino) hires a three-seat canoe. In how many different ways can they sit in the canoe?
 >
 > - **(A)** 9
 > - **(B)** 8
@@ -229,7 +264,11 @@ level: kangourou
 > - **(D)** 4
 > - **(E)** 3
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_ecolier#q05|src_kangourou_2001_ecolier__Q05]]
 
 
 
@@ -258,9 +297,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Correct equality between operations*
+*Which of the equalities is correct*
 
-> Only one of the following equations is correct. Which one?
+> Only one of the following equalities is correct. Which one?
 >
 > - **(A)** 12 : (4 + 8) = 11
 > - **(B)** 8 ⋅ 2 + 3 = 40
@@ -268,7 +307,10 @@ level: kangourou
 > - **(D)** (10 + 8) : 2 = 14
 > - **(E)** 18 – 6 : 3 = 16
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_ecolier#q06|src_kangourou_2001_ecolier__Q06]]
 
 
 
@@ -300,9 +342,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Students to be added for 6 equal groups*
+*The fewest pupils to add so that the class splits into 6 equal groups*
 
-> There are 19 girls and 12 boys in one class. What is the minimum number of pupils to be added to them, so that they can be divided into 6 groups, with exactly the same number of pupils (it doesn't matter if they are boys or girls)?
+> There are 19 girls and 12 boys in a class. What is the smallest number of pupils who must join them, so that they can be split into 6 groups, with exactly the same number of pupils (it does not matter whether boys or girls)?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -310,7 +352,11 @@ level: kangourou
 > - **(D)** 4
 > - **(E)** 5
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_ecolier#q07|src_kangourou_2001_ecolier__Q07]]
 
 
 
@@ -340,13 +386,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance from Peter to school*
+*The shortest distance Pietro must walk to school*
 
 ![[src_kangourou_2001_ecolier__prob8.png]]
 
-> The drawing below represents the map of the neighborhood where Peter lives. Each block is a square whose sides measure 100 meters. What is the minimum distance that Peter must travel to school (if the width of the streets is considered negligible)? (A) 100 m. (B) 200 m. (C) 350 m. (D) 450 m. (E) 500 m. The questions from N. 9 to N. 16 is worth 4 points each.
+> The drawing below shows the map of the neighbourhood where Pietro lives. Each block is a square whose sides measure 100 metres. What is the shortest distance Pietro must travel to go to school (the width of the streets may be neglected)?
+> (A) 100 m.
+> (B) 200 m.
+> (C) 350 m.
+> (D) 450 m.
+> (E) 500 m.
+> Questions 9 to 16 are worth 4 points each
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_ecolier#q08|src_kangourou_2001_ecolier__Q08]]
 
 
 
@@ -376,17 +431,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Roberta's age when Cristina has the double
+*How old Roberta will be when Cristina is twice as old*
 
-> Roberta was born on the exact day of Cristina's third birthday. How old will Roberta be when Cristina is twice her age?
+> Roberta was born on the very day of Cristina's third birthday. How old will Roberta be when Cristina is twice Roberta's age?
 >
 > - **(A)** 1 year
 > - **(B)** 2 years
 > - **(C)** 3 years
 > - **(D)** 4 years
-> - **(E)** 10 years. Kangourou 15 March 2001, category Ecolier. Page N. 4
+> - **(E)** 10 years. Kangourou 15 March 2001, Ecolier category. Page no. 4
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_ecolier#q09|src_kangourou_2001_ecolier__Q09]]
 
 
 
@@ -419,11 +477,11 @@ Roberta's age when Cristina has the double
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Images visible in the mirror*
+*How many of the images Margherita can see in the mirror*
 
 ![[src_kangourou_2001_ecolier__prob10.png]]
 
-> Marguerite put a big ribbon in her hair, just to the right. Now she's in front of a mirror. How many of the images presented below can she see in the mirror?
+> Margherita has put a large ribbon in her hair, on the right. Now she is standing in front of a mirror. How many of the images shown below can she see in the mirror?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -431,7 +489,10 @@ Roberta's age when Cristina has the double
 > - **(D)** 3
 > - **(E)** 4.
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_ecolier#q10|src_kangourou_2001_ecolier__Q10]]
 
 
 
@@ -464,9 +525,9 @@ Roberta's age when Cristina has the double
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum kangaroo with distinct candies*
+*The most kangaroos who can share 20 sweets, all getting different numbers*
 
-> 20 candies are distributed among some kangaroos so that each kangaroo receives at least one candy and never two kangaroos have the same number of candies. At most how many kangaroos are present at the candy distribution?
+> 20 sweets are shared among some kangaroos so that each kangaroo receives at least one sweet and no two kangaroos have the same number of sweets. What is the greatest number of kangaroos present at the sharing of the sweets?
 >
 > - **(A)** 20
 > - **(B)** 10
@@ -474,7 +535,11 @@ Roberta's age when Cristina has the double
 > - **(D)** 6
 > - **(E)** 5.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_ecolier#q11|src_kangourou_2001_ecolier__Q11]]
 
 
 
@@ -507,9 +572,9 @@ Roberta's age when Cristina has the double
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Train carriages where they meet*
+*How many carriages the train has*
 
-> Elizabeth and Catherine are traveling on a train. Elizabeth entered the 17th carriage, starting from the train's head, while Catherine entered the 34th carriage starting from the train's tail. What a surprise! They meet in the same carriage. How many carriages is the train made of?
+> Elisabetta and Caterina are travelling on a train. Elisabetta got into the 17th carriage, counting from the "head" of the train, while Caterina got into the 34th carriage, counting from the "tail" of the train. Surprise! They meet in the same carriage. How many carriages does the train consist of?
 >
 > - **(A)** 48
 > - **(B)** 49
@@ -517,7 +582,10 @@ Roberta's age when Cristina has the double
 > - **(D)** 51
 > - **(E)** 52.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_ecolier#q12|src_kangourou_2001_ecolier__Q12]]
 
 
 
@@ -548,17 +616,19 @@ Roberta's age when Cristina has the double
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solid other than the other four*
+*Which figure shows a solid different from the other four*
 
 ![[src_kangourou_2001_ecolier__prob13.png]]
 
-> Which of the following figures shows a solid different from that shown in the other four figures?
->  
->  
-> 
-> Kangourou 15 March 2001, category Ecolier. This item is not intended to be used. 5
+> Which of the following figures shows a solid different from the one shown in the other four figures?
+>
+> Kangourou 15 March 2001, Ecolier category. Page no.
+> 5
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_ecolier#q13|src_kangourou_2001_ecolier__Q13]]
 
 
 
@@ -590,17 +660,20 @@ Roberta's age when Cristina has the double
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many more stamps does Arthur have?
+*How many more stamps Arturo has after Adamo's gift*
 
-> Adam and Arthur collect stamps. At some point they have the same number of stamps. Then Adam gives Arthur half his collection for his birthday. At this point, Arthur has more stamps than Adam. Exactly, how much more?
+> Adamo and Arturo collect stamps. At a certain moment they have the same number of stamps. Then Adamo gives Arturo, for his birthday, half of his own collection. At this point Arturo has more stamps than Adamo. Precisely, how many more?
 >
-> - **(A)** Twice
-> - **(B)** Three times
-> - **(C)** Four times
-> - **(D)** Five times
-> - **(E)** It depends on the number of stamps each holds.
+> - **(A)** twice as many
+> - **(B)** three times as many
+> - **(C)** four times as many
+> - **(D)** five times as many
+> - **(E)** it depends on the number of stamps each of them has.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_ecolier#q14|src_kangourou_2001_ecolier__Q14]]
 
 
 
@@ -631,9 +704,9 @@ How many more stamps does Arthur have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles with 17 total vertices*
+*How many triangles are on the table*
 
-> On a table there are triangles and rectangles that don't touch each other. In total, there are exactly 17 vertices. How many triangles are on that table?
+> On a table there are triangles and rectangles that do not touch one another. In all, exactly 17 vertices are counted. How many triangles are there on that table?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -641,7 +714,11 @@ How many more stamps does Arthur have?
 > - **(D)** 4
 > - **(E)** 5.
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_ecolier#q15|src_kangourou_2001_ecolier__Q15]]
 
 
 
@@ -674,19 +751,22 @@ How many more stamps does Arthur have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum matches for 11 squares*
+*Fewest matches to add so as to obtain exactly 11 squares*
 
 ![[src_kangourou_2001_ecolier__prob16.png]]
 
-> Find the minimum number of matches you need to add to the figure so you get exactly 11 squares.
+> Find the smallest number of matches that must be added to the figure so as to obtain exactly 11 squares.
 >
 > - **(A)** 2
 > - **(B)** 3
 > - **(C)** 4
 > - **(D)** 5
-> - **(E)** 6. Questions from N. 17 to N. 24 are worth five points each.
+> - **(E)** 6. Questions 17 to 24 are worth 5 points each
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_ecolier#q16|src_kangourou_2001_ecolier__Q16]]
 
 
 
@@ -719,9 +799,9 @@ How many more stamps does Arthur have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Candies in the basket with the largest number*
+*How many sweets remain in the fullest basket when the middle one is empty*
 
-> I have three baskets, each containing 11 candies. I take a candy from each basket in the following order: left basket, center basket, right basket, center basket, left basket, center basket, right basket, center basket, and so on. When the central basket is empty, how many candies are left in the basket that contains the most?
+> I have 3 baskets, each containing 11 sweets. I take one sweet from each basket in the following order: left-hand basket, middle basket, right-hand basket, middle basket, left-hand basket, middle basket, right-hand basket, middle basket, and so on. When the middle basket is empty, how many sweets will still be in the basket that contains the greatest number?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -729,7 +809,10 @@ How many more stamps does Arthur have?
 > - **(D)** 6
 > - **(E)** 11.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_ecolier#q17|src_kangourou_2001_ecolier__Q17]]
 
 
 
@@ -764,15 +847,11 @@ How many more stamps does Arthur have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of shoes left after the centipedes*
+*How many pairs of shoes remain after five millipedes have shopped*
 
 ![[src_kangourou_2001_ecolier__prob18.png]]
 
-> In the animal shoe supermarket there are 12 pairs of
-> shoes on each of the 10 shelves. The first customers of the shop were
-> 5 centipedes. Three of them bought 30 pairs of shoes
-> each; the other two only 5 pairs each. How many pairs of shoes
-> remained on the shelves after the visit of the 5 centipedes?
+> In the supermarket of shoes for animals there are 12 pairs of shoes on each of the 10 shelves. The first customers of the shop were 5 millipedes. Three of them bought 30 pairs of shoes each; the other two only 5 pairs each. How many pairs of shoes were left on the shelves after the visit of the 5 millipedes?
 >
 > - **(A)** 10
 > - **(B)** 15
@@ -780,7 +859,10 @@ How many more stamps does Arthur have?
 > - **(D)** 25
 > - **(E)** 30.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_ecolier#q18|src_kangourou_2001_ecolier__Q18]]
 
 
 
@@ -815,19 +897,23 @@ How many more stamps does Arthur have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Joints used in the construction of 4 cubes*
+*How many joints were used to build four cubes*
 
 ![[src_kangourou_2001_ecolier__prob19.png]]
 
-> A construction consisting of four cubes was made with plastic rods and joints (see figure). How many joints (represented in the figure by the small black balls) were used for the construction?
+> A construction made of four cubes was built with plastic rods and joints (see the figure). How many joints (in the figure they are shown as the small black balls) were used for the construction?
 >
 > - **(A)** 16
 > - **(B)** 18
 > - **(C)** 20
 > - **(D)** 21
-> - **(E)** 22. Kangourou 15 March 2001, category Ecolier. Page N. 6
+> - **(E)** 22. Kangourou 15 March 2001, Ecolier category. Page no. 6
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_ecolier#q19|src_kangourou_2001_ecolier__Q19]]
 
 
 
@@ -857,9 +943,9 @@ How many more stamps does Arthur have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers with a sum of 4*
+*Three-digit numbers with significant digits summing to 4*
 
-> How many three-digit numbers whose digits sum to four?
+> How many three-digit numbers with significant digits are there whose digits sum to 4?
 >
 > - **(A)** 10
 > - **(B)** 9
@@ -867,7 +953,11 @@ How many more stamps does Arthur have?
 > - **(D)** 7
 > - **(E)** 6.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_ecolier#q20|src_kangourou_2001_ecolier__Q20]]
 
 
 
@@ -900,13 +990,21 @@ How many more stamps does Arthur have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of Elsa's beach towel*
+*The perimeter of Elsa's beach towel*
 
 ![[src_kangourou_2001_ecolier__prob21.png]]
 
-> Five friends spread their beach towels out to form a large square (see figure next to it). Anna and Betty have their square-shaped fabrics of equal size, each with a perimeter of 720 cm. Carla, Debora, and Elsa have rectangular-shaped fabrics, which are also the same size. What's the perimeter of Elsa's beach towel? (A) 600 cm (B) 560 cm (C) 440 cm (D) 360 cm (E) 300 cm.
+> Five friends lay out their beach towels so as to form a large square (see the figure beside it). Anna and Betty have square towels of equal size, each with perimeter 720 cm. Carla, Debora and Elsa have rectangular towels, these too of equal size to one another. What is the perimeter of Elsa's towel?
+> (A) 600 cm
+> (B) 560 cm
+> (C) 440 cm
+> (D) 360 cm
+> (E) 300 cm.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_ecolier#q21|src_kangourou_2001_ecolier__Q21]]
 
 
 
@@ -939,17 +1037,20 @@ How many more stamps does Arthur have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*When all the candles are off*
+*How long until all four candles go out, if no further gust blows*
 
-> Zita has four candles. Each candle can stay lit for three hours before it goes out. She lights two of the candles. After 30 minutes, a gust of wind blows out one, and an hour later, another gust of wind blows out the other. Zita then decides to light all four candles. How long after all the candles are off, if no wind blows?
+> Zita has four candles. Each candle can stay alight for three hours before going out. She lights two of the candles. After 30 minutes, a gust of wind blows one out, and an hour later another gust blows out the other one too. Zita then decides to light all four candles. How long afterwards will all the candles be out, if no gust of wind intervenes?
 >
-> - **(A)** An hour and a half.
-> - **(B)** Two hours
+> - **(A)** an hour and a half
+> - **(B)** two hours
 > - **(C)** three hours
-> - **(D)** Seven and a half hours
-> - **(E)** Eight hours.
+> - **(D)** seven and a half hours
+> - **(E)** eight hours.
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_ecolier#q22|src_kangourou_2001_ecolier__Q22]]
 
 
 
@@ -980,11 +1081,9 @@ How many more stamps does Arthur have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Carlo's dollars*
+*How many dollars Carlo has*
 
-> Alessandro has the same amount of money as Billy and Carlo have together. Billy
-> has 10 dollars more than Carlo. In total the three boys have 40 dollars.
-> How many dollars does Carlo have?
+> Alessandro has the same sum of money as Billy and Carlo have together. Billy has 10 dollars more than Carlo. In all, the three boys have 40 dollars. How many dollars does Carlo have?
 >
 > - **(A)** 4
 > - **(B)** 5
@@ -992,7 +1091,10 @@ How many more stamps does Arthur have?
 > - **(D)** 15
 > - **(E)** 20.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_ecolier#q23|src_kangourou_2001_ecolier__Q23]]
 
 
 
@@ -1030,22 +1132,20 @@ How many more stamps does Arthur have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Points on the top face of the die*
+*Pips on the top face of a die rolled along the arrows*
 
 ![[src_kangourou_2001_ecolier__prob24.png]]
 
-> A die is placed on a squared plane as shown in the figure (the squares
-> have the same size as the faces of the die). By rotating the die on an edge,
-> we move it from the square in which it is located to the adjacent square indicated by the
-> arrow, and we continue with this operation always following the path indicated
-> by the arrows. How many pips will we be able to see on the top face of the die, when
-> the die occupies the square indicated by " * " ? (In a die the sum of the pips on
-> opposite faces is always 7).
+> A die is placed on a squared board as shown (the squares are the same size as the faces of the die). Rolling the die over an edge, move it from the square it occupies to the adjacent square indicated by the arrow, and continue in this way, always following the arrows. How many pips shall we see on the top face when the die occupies the square marked " * "? (On a die, the pips on opposite faces always add up to 7).
 >
 > - **(A)** 5
 > - **(B)** 4
 > - **(C)** 3
 > - **(D)** 1
-> - **(E)** none of the previous scores.
+> - **(E)** none of the previous scores. Answers, Ecolier category, 15 March 2001. Page no. 1 Answers, Ecolier category, contest of 15 March 2001
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_ecolier#q24|src_kangourou_2001_ecolier__Q24]]

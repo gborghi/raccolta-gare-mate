@@ -29,9 +29,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolo A^2004 per una determinata matrice complessa*
+*Calcola A^2004 per una data matrice complessa*
 
-> Considera la matrice complessa $A = \begin{pmatrix} 1 & 0 & i \\ 0 & 0 & 0 \\ i & 0 & 1 \end{pmatrix}$. Calcolare $A^{2004}$.
+> Si consideri la matrice complessa $A = \begin{pmatrix} 1 & 0 & i \\ 0 & 0 & 0 \\ i & 0 & 1 \end{pmatrix}$. Si calcoli $A^{2004}$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_nu_f1#q01|src_obm_2004_nu_f1__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare un'integrale impropria con un'integrazione arctana*
+*Valuta un integrale improprio con un integrando di tipo arctan*
 
-> Valutare l'integrale $\displaystyle\int_{1}^{+\infty} \frac{x^{2004}}{1+x^{2004}}\,dx$.
+> Calcola l'integrale $\displaystyle\int_{1}^{+\infty} \frac{x^{2004}}{1+x^{2004}}\,dx$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_nu_f1#q02|src_obm_2004_nu_f1__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare la linea tangente di una curva a due punti distinti*
+*Trovare la retta tangente a una curva in due punti distinti*
 
-> Determinare l'equazione della linea tangente alla curva $y = 3x^2 - 4x^3$ in due punti distinti.
+> Determinare l'equazione della retta tangente alla curva $y = 3x^2 - 4x^3$ in due punti distinti.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_obm_2004_nu_f1#q03|src_obm_2004_nu_f1__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i triples ordinati di sottoinsiemi con determinate condizioni di intersezione*
+*Conta le terne ordinate di sottoinsiemi con condizioni di intersezione date*
 
-> Quanti triplici ordinati $(A,\,B,\,C)$ di sottoinsiemi di $\{1,2,\ldots,n\}$ soddisfano $A \cap B \cap C = \varnothing$, $A \cap B \neq \varnothing$ e $A \cap C \neq \varnothing$?
+> Quante triple ordinate $(A,\,B,\,C)$ di sottoinsiemi di $\{1,2,\ldots,n\}$ soddisfano $A \cap B \cap C = \varnothing$, $A \cap B \neq \varnothing$ e $A \cap C \neq \varnothing$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_nu_f1#q04|src_obm_2004_nu_f1__Q04]]
 
 
 
@@ -133,13 +161,20 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*matrice con a_{ij}=m(i-1) + j; trovare lambda per il limite di phi(n)/n^lambda*
+*Matrice con a_{ij}=m(i-1)+j; trovare lambda per il limite di phi(n)/n^lambda*
 
-> Considera una matrice $n \times n$ $A$ definita da $a_{ij} = m(i-1)+j$ per tutte le $1 \le i,j \le n$. La $\varphi(n)$ è la somma dei determinanti di tutte le $k \times k$ sottomatrici di $A$ (sopra tutte le scelte delle righe $k$ e delle colonne $k$ di $A$).
-> 
-> (a) Determinare un numero reale $\lambda$ tale che $\displaystyle\lim_{n\to\infty}\frac{\varphi(n)}{n^{\lambda}}$ esista e non sia zero.
-> 
-> b) Determinare il valore del limite di cui alla lettera a).
+> Si consideri una matrice $n \times n$ $A$ definita da $a_{ij} = m(i-1)+j$ per ogni $1 \le i,j \le n$. Sia $\varphi(n)$ la somma dei determinanti di tutte le sottomatrici $k \times k$ di $A$ (su tutte le scelte di $k$ righe e $k$ colonne di $A$).
+>
+> (a) Determina un numero reale $\lambda$ tale che $\displaystyle\lim_{n\to\infty}\frac{\varphi(n)}{n^{\lambda}}$ esista e sia diverso da zero.
+>
+> (b) Determina il valore del limite trovato nella parte (a).
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_nu_f1#q05|src_obm_2004_nu_f1__Q05]]
 
 
 
@@ -162,6 +197,13 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolare una somma di telescopio che coinvolge fattori simili a cubi*
+*Calcola una somma telescopica che coinvolge fattori di tipo cubico*
 
-> Calcolare $\displaystyle\sum_{k=1}^{\infty} \frac{1}{(3k+1)(3k+2)(3k+3)}$.
+> Calcola $\displaystyle\sum_{k=1}^{\infty} \frac{1}{(3k+1)(3k+2)(3k+3)}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_nu_f1#q06|src_obm_2004_nu_f1__Q06]]

@@ -39,13 +39,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who caught the fish by following the lines*
+*Who caught the fish by following the threads?*
 
 ![[src_kangourou_2017_preecolier_marzo__prob1.png]]
 
-> Who caught the fish?
+> Who took the fish?
 >
-> Five cats (Aldo, Bruno, Carlo, Davide, Enrico) each hold a fishing rod. The lines get tangled in a knotted way and end with hooks, one of which has caught a fish. By following the line, who caught the fish?
+> Five cats (Aldo, Bruno, Carlo, Davide, Enrico) each hold a fishing rod. The lines become tangled and end in hooks, one of which has caught a fish. Following the line, who caught the fish?
 >
 > - **(A)** Aldo
 > - **(B)** Bruno
@@ -53,7 +53,11 @@ level: kangourou
 > - **(D)** Davide
 > - **(E)** Enrico (see figure)
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q01|src_kangourou_2017_preecolier_marzo__Q01]]
 
 
 
@@ -84,11 +88,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many five-pointed stars in the figure*
+*How many five-pointed stars are there in the figure?*
 
 ![[src_kangourou_2017_preecolier_marzo__prob2.png]]
 
-> In the figure, some stars are five-pointed, others six-pointed, and still others seven-pointed. How many five-pointed stars are there?
+> In the figure, some stars have five points, others have six points, and still others have seven points. How many five-pointed stars are there?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -96,7 +100,11 @@ level: kangourou
 > - **(D)** 5
 > - **(E)** 9 (see figure)
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q02|src_kangourou_2017_preecolier_marzo__Q02]]
 
 
 
@@ -127,11 +135,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of children from three cherry pie*
+*Number of children from the cake with three cherries*
 
 ![[src_kangourou_2017_preecolier_marzo__prob3.png]]
 
-> This is a cherry pie. I've split it up among the kids in attendance, and now every kid has a slice of pie with three cherries on it and there's no leftovers. How many children are there?
+> This is a cherry cake. I divided it among the children present, and now each child has a slice of cake with three cherries on top, and there are no leftovers. How many children are present?
 >
 > - **(A)** 3
 > - **(B)** 4
@@ -139,7 +147,11 @@ level: kangourou
 > - **(D)** 6
 > - **(E)** 8 (see figure)
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q03|src_kangourou_2017_preecolier_marzo__Q03]]
 
 
 
@@ -170,11 +182,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many parts the scissors cut the wire*
+*Into how many parts does the scissors cut the thread?*
 
 ![[src_kangourou_2017_preecolier_marzo__prob4.png]]
 
-> If it follows the dashed line, how many parts will the scissors cut the wire?
+> If you follow the dashed line, into how many parts will the scissors cut the thread?
 >
 > - **(A)** 6
 > - **(B)** 8
@@ -182,7 +194,11 @@ level: kangourou
 > - **(D)** 7
 > - **(E)** 5 (see figure)
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q04|src_kangourou_2017_preecolier_marzo__Q04]]
 
 
 
@@ -211,17 +227,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the design of the butterfly with the stickers*
+*Which butterfly drawing with stickers?*
 
 ![[src_kangourou_2017_preecolier_marzo__prob5.png]]
 
-> Elena wants to decorate this butterfly with these stickers: 2 blue circles (large), 2 black circles (small), 2 pink circles (large). What drawing can she get?
-> 
+> Elena wants to decorate this butterfly with these stickers: 2 large blue circles, 2 small black circles, and 2 large pink circles. What design can she achieve?
+>
 > (A) (B) (C) (D) (E)
-> 
+>
 > (see figure)
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q05|src_kangourou_2017_preecolier_marzo__Q05]]
 
 
 
@@ -250,9 +270,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many bricks to complete the igloo*
+*How many little bricks to complete the igloo?*
 
-> In the figure, you see the image of an igloo. Every complete brick was made with a sticker and these stickers are all the same. How many more do I have to paste to complete the drawing?
+> In the figure, you can see an image of an igloo. Each complete brick has been made using an adhesive sticker, and all of these stickers are identical. How many more do I need to stick on to complete the drawing?
 >
 > - **(A)** 6
 > - **(B)** 7
@@ -260,7 +280,11 @@ level: kangourou
 > - **(D)** 9
 > - **(E)** 10 (see figure)
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q06|src_kangourou_2017_preecolier_marzo__Q06]]
 
 
 
@@ -287,15 +311,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What necklace did Lydia make*
+*What little necklace did Lidia make?*
 
-> With a string and four beads Lydia made this necklace: two large (dark) beads and two small (clear) alternating beads. Of the necklaces pictured below, which is the one made by Lydia?
-> 
+> With one strand and four beads, Lidia made this little necklace: two large (dark) beads and two small (light) beads, alternating. Of the necklaces shown below, which one was made by Lidia?
+>
 > (A) (B) (C) (D) (E)
-> 
+>
 > (see figure)
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q07|src_kangourou_2017_preecolier_marzo__Q07]]
 
 
 
@@ -328,13 +356,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number was not used in the equality*
+*Which number was not used in the equality?*
 
-> I picked four numbers from $1, 3, 4, 5$ and $7$ and I put one in each square so that we have a correct equality:
+> I chose four of the numbers $1, 3, 4, 5$ and $7$ and put one in each square so that I would have a correct equality:
 >
 > $$\square + \square = \square + \square$$
 >
-> What number didn't I use?
+> Which number haven't I used?
 >
 > - **(A)** 1
 > - **(B)** 3
@@ -342,7 +370,11 @@ level: kangourou
 > - **(D)** 5
 > - **(E)** 7
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q08|src_kangourou_2017_preecolier_marzo__Q08]]
 
 
 
@@ -371,9 +403,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many bears for two trains with shrimp*
+*How many little teddy bears for two trains with trades?*
 
-> In Toyland, you can have three dolls for a train, and you can have a doll for two bears. How many bears can you get for two trains?
+> In Toyland, you can get three dolls in exchange for a little train, and you can get one doll in exchange for two teddy bears. How many teddy bears can you get in exchange for two little trains?
 >
 > - **(A)** 6
 > - **(B)** 8
@@ -381,7 +413,11 @@ level: kangourou
 > - **(D)** 12
 > - **(E)** 14
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q09|src_kangourou_2017_preecolier_marzo__Q09]]
 
 
 
@@ -408,15 +444,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Where's Jim after the ride?
+*Where is Jim after the merry-go-round?*
 
-> At one point Jim and Ben were riding on a carousel at the seats shown in the figure. Then the ride went around taking Ben to where Jim used to be: Where is Jim now?
-> 
+> At a certain moment, Jim and Ben were on a merry-go-round in the positions indicated in the figure. Then the merry-go-round turned, bringing Ben to the position where Jim had been earlier: where is Jim now?
+>
 > (A) (B) (C) (D) (E)
-> 
+>
 > (see figure)
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q10|src_kangourou_2017_preecolier_marzo__Q10]]
 
 
 
@@ -446,7 +486,7 @@ Where's Jim after the ride?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triangles in the figure*
+*How many triangles are there in the figure?*
 
 > How many triangles are there in this figure?
 >
@@ -456,7 +496,12 @@ Where's Jim after the ride?
 > - **(D)** 11
 > - **(E)** 12 (see figure)
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q11|src_kangourou_2017_preecolier_marzo__Q11]]
 
 
 
@@ -483,15 +528,19 @@ Where's Jim after the ride?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of the figure at C after six rotations*
+*Position of the C-shaped figure after six rotations*
 
-> Alfredo has cut out of a squared sheet the C-shaped figure you see in the drawing and now rotates it on the table plane: in the drawing you see the position of the figure after each of the first three rotations. In total, the figure makes six rotations, each of a quarter of a turn: in which position is the figure at the end?
-> 
+> Alfredo has cut out of a grid paper the C-shaped figure you see in the drawing, and now he is rotating it on the tabletop: in the drawing, you can see the figure's position after each of the first three rotations. In total, he rotates the figure six times, each time by a quarter turn: what position is the figure in at the end?
+>
 > (A) (B) (C) (D) (E)
-> 
+>
 > (see figure)
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q12|src_kangourou_2017_preecolier_marzo__Q12]]
 
 
 
@@ -518,15 +567,19 @@ Where's Jim after the ride?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In which dish the apple-carrot-pear ratio*
+*In which dish are the apple-carrot-pear ratios?*
 
-> In which dish is the number of apples twice that of carrots and the number of carrots twice that of pears?
-> 
+> In which dish is the number of apples twice the number of carrots, and is the number of carrots twice the number of pears?
+>
 > (A) (B) (C) (D) (E)
-> 
+>
 > (see figure)
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q13|src_kangourou_2017_preecolier_marzo__Q13]]
 
 
 
@@ -555,17 +608,21 @@ Where's Jim after the ride?
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many children behind William in the line?
+*How many children are behind Guglielmo in the line?*
 
-> 25 children are in line and 16 of them are in front of Paolo. If Paolo is right in front of William, how many children are in line behind William?
+> 25 children are in a line, and 16 of them are in front of Paolo. If Paolo is directly in front of Guglielmo, how many children are in the line behind Guglielmo?
 >
 > - **(A)** 6
 > - **(B)** 7
 > - **(C)** 8
 > - **(D)** 9
-> - **(E)** a number different from the previous ones
+> - **(E)** a number different from the preceding ones
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q14|src_kangourou_2017_preecolier_marzo__Q14]]
 
 
 
@@ -592,15 +649,19 @@ How many children behind William in the line?
 <div class="qlang-split" data-lang="en"></div>
 
 
-What time was it two and a half hours ago?
+*What time it was two and a half hours ago*
 
-> The clock shows half past one. What time was it two and a half hours ago?
-> 
+> The clock reads one thirty. What time did it read two and a half hours ago?
+>
 > (A) (B) (C) (D) (E)
-> 
+>
 > (see figure)
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q15|src_kangourou_2017_preecolier_marzo__Q15]]
 
 
 
@@ -629,9 +690,9 @@ What time was it two and a half hours ago?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sheets to make three crowns*
+*Minimum number of sheets to make three crowns*
 
-> Lisa is drawing crowns like the one next to her using stickers with these shapes: a cross ($+$), a circle ($\bullet$), a horizontal strip ($-$). The stickers can be separated from separate sheets which have these two compositions: sheet 1 contains 2 strips and 1 circle and 1 cross; sheet 2 contains 4 circles, 2 strips and 2 crosses. What's the minimum number of sheets Lisa will have to use if she wants to make 3 crowns?
+> Lisa is drawing crowns like the one next to it using stickers with these shapes: a cross ($+$), a circle ($\bullet$), and a horizontal strip ($-$). The stickers can be peeled off separate sheets that have these two arrangements: sheet 1 contains 2 strips, 1 circle, and 1 cross; sheet 2 contains 4 circles, 2 crosses, and 2 crosses. What is the minimum number of sheets Lisa will have to use if she wants to make 3 crowns?
 >
 > - **(A)** 3
 > - **(B)** 4
@@ -639,7 +700,11 @@ What time was it two and a half hours ago?
 > - **(D)** 6
 > - **(E)** 7 (see figure)
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q16|src_kangourou_2017_preecolier_marzo__Q16]]
 
 
 
@@ -679,9 +744,16 @@ What time was it two and a half hours ago?
 
 *Number hidden by the stain in the additions*
 
-> Francesca had to perform four additions and return them to the table below, according to the pattern suggested by the first line. A black stain has fallen on the work done correctly. Which number was in the place indicated by the question mark?
+> Francesca had to perform four additions and transfer the results into the table below, following the pattern suggested by the first row. A black stain had fallen on the correctly completed work. Which number was in the position indicated by the question mark?
 >
-> The table shows: $$\begin{array}{c|c|c} + & 10 & 7 \\ \hline 5 & 15 & 12 \\ \hline \text{?} & 14 & ? \\ \end{array}$$
+> The table shows:
+> $$\begin{array}{c|c|c}
+> + & 10 & 7 \\
+> \hline
+> 5 & 15 & 12 \\
+> \hline
+> \text{?} & 14 & ? \\
+> \end{array}$$
 >
 > - **(A)** 10
 > - **(B)** 11
@@ -689,7 +761,11 @@ What time was it two and a half hours ago?
 > - **(D)** 13
 > - **(E)** 15 (see figure)
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q17|src_kangourou_2017_preecolier_marzo__Q17]]
 
 
 
@@ -718,9 +794,9 @@ What time was it two and a half hours ago?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cows to double the animal ratio*
+*How many cows to double the animal ratio?*
 
-> There's a horse, two cows and three pigs on Gino's old farm. How many more cows does Gino have to buy if he wants the number of all the animals on the farm to be twice the number of cows?
+> On Gino's old farm, there is one horse, two cows, and three piglets. How many more cows must Gino buy if he wants the total number of animals on the farm to be twice the number of cows?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -728,7 +804,11 @@ What time was it two and a half hours ago?
 > - **(D)** 3
 > - **(E)** 4
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q18|src_kangourou_2017_preecolier_marzo__Q18]]
 
 
 
@@ -755,15 +835,19 @@ What time was it two and a half hours ago?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure by placing the two molds side by side*
+*What figure is formed by joining the two small shapes?*
 
-> Gaia has two identical cardboard molds and has decorated one face of each mold in this way: a grid $2 \times 3$ with the top-right cell and the bottom-left cell colored black. Which of the following figures can she obtain by placing the two molds side by side?
-> 
+> Gaia has two identical cardboard shapes and has decorated one face of each shape in this way: a $2 \times 3$ grid with the top-right cell and the bottom-left cell colored black. Which of the following figures can she obtain by placing the two shapes side by side?
+>
 > (A) (B) (C) (D) (E)
-> 
+>
 > (see figure)
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q19|src_kangourou_2017_preecolier_marzo__Q19]]
 
 
 
@@ -792,9 +876,9 @@ What time was it two and a half hours ago?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum minutes to make 30 kangaroo jumps*
+*Minimum minutes to do 30 kangaroo jumps*
 
-> A kangaroo makes 10 jumps in one minute and then rests for three minutes. Then he makes another 10 jumps in one minute and rests for three minutes, and so on. What's the minimum number of minutes it takes to make 30 jumps?
+> A kangaroo makes 10 jumps in 1 minute and then rests for 3 minutes. Then it makes another 10 jumps in 1 minute and rests for 3 minutes, and so on. What is the minimum number of minutes it needs to make 30 jumps?
 >
 > - **(A)** 4
 > - **(B)** 5
@@ -802,7 +886,11 @@ What time was it two and a half hours ago?
 > - **(D)** 8
 > - **(E)** 9
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q20|src_kangourou_2017_preecolier_marzo__Q20]]
 
 
 
@@ -829,15 +917,19 @@ What time was it two and a half hours ago?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which stamp printed the image*
+*Which stamp printed the image?*
 
 > Which of the stamps below was used to print this image?
-> 
+>
 > (A) (B) (C) (D) (E)
-> 
+>
 > (see figure)
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q21|src_kangourou_2017_preecolier_marzo__Q21]]
 
 
 
@@ -866,9 +958,9 @@ What time was it two and a half hours ago?
 <div class="qlang-split" data-lang="en"></div>
 
 
-What's written on the last lock?
+*What's written on the last padlock?*
 
-> Note the figure: each of the four keys opens a single lock, and the numbers on the keys correspond to the letters on the locks. The locks show the letters ADA, DGA, DAG and ?, while the keys show the numbers 141, 471, 417 and 717. What's it say on the last lock?
+> Look at the figure: each of the four keys opens only one padlock, and the numbers on the keys correspond to the letters on the padlocks. The padlocks show the inscriptions ADA, DGA, DAG, and ?, while the keys show the numbers 141, 471, 417, and 717. What is written on the last padlock?
 >
 > - **(A)** GDA
 > - **(B)** ADG
@@ -876,7 +968,11 @@ What's written on the last lock?
 > - **(D)** GAG
 > - **(E)** DAD (see figure)
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q22|src_kangourou_2017_preecolier_marzo__Q22]]
 
 
 
@@ -910,19 +1006,26 @@ What's written on the last lock?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What toy in the gray compartment*
+*Which toy is in the grey compartment?*
 
-> Anna placed six toys on a compartment shelf like this (a grid $2 \times 3$, with the upper right compartment gray). Looking at the shelf, I see that in the central compartment of the shelf where the blue monster and the chicken are standing is the bear. - The chicken is right above the colorful train. The doll is on the left of the colorful train and on the right of the green train.
+> Anna has put six toys back on a compartmentalized shelf like this one (a grid $2 \times 3$, with the top-right compartment colored gray). Looking at the shelf, I see that:
+> - In the middle compartment of the shelf on which the blue monster and the chicken are placed, the little teddy bear is located.
+> - The chicken is right above the colorful little train.
+> - The doll is to the left of the colorful little train and to the right of the green little train.
 >
-> What toy is in the gray compartment?
+> Which toy is in the grey compartment?
 >
-> - **(A)** the green train
+> - **(A)** the little green train
 > - **(B)** the chicken
 > - **(C)** the doll
-> - **(D)** the colorful train
+> - **(D)** the colorful little train
 > - **(E)** the blue monster (see figure)
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q23|src_kangourou_2017_preecolier_marzo__Q23]]
 
 
 
@@ -949,12 +1052,16 @@ What's written on the last lock?
 <div class="qlang-split" data-lang="en"></div>
 
 
-What image is seen without cutting the rope?
+*What image can be seen without cutting the rope?*
 
-> Nicholas has three cards, each with a white face, the other gray and a hole in the center: he has them placed one on top of the other so that, for each, the top face is white and the bottom face is gray. Then he put a rope in the holes and glued the two ends together to form a ring. After correctly adjusting the cards, which of the following images can you see without cutting the rope?
-> 
+> Nicola has three cardboard discs, each with one white side, one grey side, and a hole in the centre: he has stacked them on top of one another so that, for each disc, the top side is white and the bottom side is grey. Then he threaded a string through the holes and glued the two ends together to form a loop. After adjusting the discs appropriately, which of the following images can he see without cutting the string?
+>
 > (A) (B) (C) (D) (E)
-> 
+>
 > (see figure)
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_preecolier_marzo#q24|src_kangourou_2017_preecolier_marzo__Q24]]

@@ -34,13 +34,20 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre quadrilaterali convexi con condizioni di rapporto e parallelismo; trovare il rapporto in termini di lambda*
+*Tre quadrilateri convessi con condizioni di rapporto e parallelismo; determinare il rapporto in funzione di lambda*
 
-> I punti $EFGH$, $ABCD$ e $E_1F_1G_1H_1$ siano tre quadrilaterali convexi che soddisfano: (1) I punti $E$, $F$, $G$ e $H$ si trovano rispettivamente sui lati $AB$, $BC$, $CD$ e $DA$, e $\frac{AE}{EB} \cdot \frac{BF}{FC} \cdot \frac{CG}{GD} \cdot \frac{DH}{HA} = 1$; (2) i punti $A$, $B$, $C$ e $D$ si trovano sui lati $H_1E_1$, $E_1F_1$, $F_1G_1$ e $G_1H_1$, rispettivamente, e $E_1F_1 \parallel EF$, $F_1G_1 \parallel FG$, $G_1H_1 \parallel GH$, $H_1E_1 \parallel HE$. Supponiamo $\frac{E_1A}{AH_1} = \lambda$. Trova l'espressione di $\frac{F_1C}{CG_1}$ in termini di $\lambda$.
+> Siano $EFGH$, $ABCD$ e $E_1F_1G_1H_1$ tre quadrilateri convessi, tali che: (1) i punti $E$, $F$, $G$ e $H$ giacciono rispettivamente sui lati $AB$, $BC$, $CD$ e $DA$, e su $\frac{AE}{EB} \cdot \frac{BF}{FC} \cdot \frac{CG}{GD} \cdot \frac{DH}{HA} = 1$; (2) i punti $A$, $B$, $C$ e $D$ giacciono rispettivamente sui lati $H_1E_1$, $E_1F_1$, $F_1G_1$ e $G_1H_1$, e su $E_1F_1 \parallel EF$, $F_1G_1 \parallel FG$, $G_1H_1 \parallel GH$, $H_1E_1 \parallel HE$. Si supponga $\frac{E_1A}{AH_1} = \lambda$. Determinare l'espressione di $\frac{F_1C}{CG_1}$ in funzione di $\lambda$.
 
 ![[src_cn_cmo_2004__q01.png]]
 
-**Risposta:** \frac{F_1C}{CG_1} = \lambda
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2004#q01|src_cn_cmo_2004__Q01]]
 
 
 
@@ -68,11 +75,20 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con ricorrenza della funzione a pavimento; trovare forma chiusa in termini di n e c*
+*Successione con ricorrenza della funzione a pavimento; trovare la forma chiusa in termini di n e c*
 
-> Che $c$ sia un numero intero positivo e che una sequenza di numeri $x_1, x_2, \ldots$ soddisfi $x_1 = c$ e $$x_n = x_{n-1} + \left\lfloor \frac{2(x_{n-1} - 1)}{n} \right\rfloor + 1, \quad n = 2, 3, \ldots,$$ dove $\lfloor x \rfloor$ indica il numero intero più grande non superiore a $x$. Determinare l'espressione di $x_n$ in termini di $n$ e $c$. (Posizionato da Huang Yumin)
+> Sia $c$ un numero intero positivo, e sia la successione numerica $x_1, x_2, \ldots$ tale che $x_1 = c$ e
+> $$x_n = x_{n-1} + \left\lfloor \frac{2(x_{n-1} - 1)}{n} \right\rfloor + 1, \quad n = 2, 3, \ldots,$$
+> dove $\lfloor x \rfloor$ denota il più grande intero non superiore a $x$. Determinare l'espressione di $x_n$ in funzione di $n$ e $c$. (proposto da Huang Yumin)
 
-**Risposta:** x_n = \frac{c-1}{6}(n+1)(n+2)+1 \text{ for } c\equiv1\pmod3; \ x_n=\frac{c-2}{6}(n+1)(n+2)+n+1 \text{ for } c\equiv2\pmod3; \ x_n=\frac{c-3}{6}(n+1)(n+2)+\left\lfloor\frac{(n+2)^2}{4}\right\rfloor+1 \text{ for } c\equiv0\pmod3
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2004#q02|src_cn_cmo_2004__Q02]]
 
 
 
@@ -98,11 +114,18 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero minimo di punti in modo che l'insieme abbia un heptagono convex e ogni pentagono convex contenga un punto interno*
+*Numero minimo di punti affinché l'insieme abbia un eptagono convesso e ogni pentagono convesso contenga un punto interno*
 
-> Che $M$ sia un insieme costituito da $n$ punti nel piano, e che soddisfi: (1) ci sono 7 punti in $M$ che costituiscono le vertici di un settone convex; (2) se per 5 punti in $M$ che costituiscono le vertici di un settone convex, allora c'è un punto in $M$ che si trova all'interno del settone. Trova il valore minimo di $n$. (Possibile da Leng Gangsong)
+> Sia $M$ un insieme costituito da $n$ punti nel piano, e tale che: (1) esistono 7 punti in $M$ che costituiscono i vertici di un eptagono convesso; (2) se per qualsiasi insieme di 5 punti in $M$ che costituiscono i vertici di un pentagono convesso, allora esiste un punto in $M$ che giace nell'interno del pentagono. Determinare il valore minimo di $n$. (proposto da Leng Gangsong)
 
-**Risposta:** 11
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2004#q03|src_cn_cmo_2004__Q03]]
 
 
 
@@ -132,13 +155,23 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza reale unica che soddisfa il limite e la ricorrenza; dimostrare il legame con i termini*
+*Successione reale unica che soddisfa le condizioni al contorno e la relazione di ricorrenza; dimostrare una maggiorazione per i termini*
 
-> Per un dato numero reale $a$ e un intero positivo $n$, dimostrare che:
-> 
-> (1) esiste esattamente una sequenza di numeri reali $x_0, x_1, \ldots, x_n, x_{n+1}$ tale che $$\begin{cases} x_0 = x_{n+1} = 0, \\ \frac{1}{2}(x_{i+1} + x_{i-1}) = x_i + x_i^3 - a^3, \quad i = 1, 2, \ldots, n; \end{cases}$$
-> 
-> (2) la sequenza $x_0, x_1, \ldots, x_n, x_{n+1}$ di (1) soddisfa $|x_i| \le |a|$, $i = 0, 1, \ldots, n+1$.
+> Dato un numero reale $a$ e un numero intero positivo $n$, dimostrare che:
+>
+> (1) esiste esattamente una successione di numeri reali $x_0, x_1, \ldots, x_n, x_{n+1}$ tale che
+> $$\begin{cases} x_0 = x_{n+1} = 0, \\ \frac{1}{2}(x_{i+1} + x_{i-1}) = x_i + x_i^3 - a^3, \quad i = 1, 2, \ldots, n; \end{cases}$$
+>
+> (2) la successione $x_0, x_1, \ldots, x_n, x_{n+1}$ in (1) soddisfa $|x_i| \le |a|$, $i = 0, 1, \ldots, n+1$.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2004#q04|src_cn_cmo_2004__Q04]]
 
 
 
@@ -165,9 +198,20 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la somma delle reciprocità squadrata di inequità data da numeri interi in aumento rigoroso con somma delle reciprocità al massimo 1*
+*Dimostrazione della disuguaglianza sulla somma dei quadrati dei reciproci, dati numeri interi strettamente crescenti con somma dei reciproci al più uguale a 1*
 
-> Per un dato intero positivo $n \ge 2$, supponiamo che gli interi positivi $a_i$ ($i = 1, 2, \ldots, n$) soddisfino $a_1 < a_2 < \cdots < a_n$ e $\displaystyle\sum_{i=1}^{n} \frac{1}{a_i} \le 1$. Prove che, per qualsiasi numero reale $x$, si verifica la seguente disuguaglianza, $$\left(\sum_{i=1}^{n} \frac{1}{a_i^2 + x^2}\right)^2 \le \frac{1}{2} \cdot \frac{1}{a_1(a_1 - 1) + x^2}.$$ (posato da Li Shenghong)
+> Sia $n \ge 2$ un numero intero positivo dato; si supponga che i numeri interi positivi $a_i$ ($i = 1, 2, \ldots, n$) soddisfino $a_1 < a_2 < \cdots < a_n$ e $\displaystyle\sum_{i=1}^{n} \frac{1}{a_i} \le 1$. Dimostrare che, per ogni numero reale $x$, vale la seguente disuguaglianza:
+> $$\left(\sum_{i=1}^{n} \frac{1}{a_i^2 + x^2}\right)^2 \le \frac{1}{2} \cdot \frac{1}{a_1(a_1 - 1) + x^2}.$$
+> (proposto da Li Shenghong)
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2004#q05|src_cn_cmo_2004__Q05]]
 
 
 
@@ -192,6 +236,15 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove tutti, se non finiti, molti integri positivi sono somme del 2004 di integri rigorosamente in aumento con catena di divisibilità*
+*Dimostrare che tutti gli interi positivi tranne un numero finito sono somme di 2004 interi strettamente crescenti con catena di divisibilità*
 
-> Prova che ogni intero positivo $n$, ad eccezione di un numero finito di essi, può essere rappresentato come una somma di interi positivi 2004: $n = a_1 + a_2 + \cdots + a_{2004}$, dove $1 \le a_1 < a_2 < \cdots < a_{2004}$, e $a_i \mid a_{i+1}$, $i = 1, 2, \ldots, 2003$. (Possibile da Chen Yonggao)
+> Dimostrare che ogni intero positivo $n$, ad eccezione di un numero finito di essi, può essere rappresentato come somma di 2004 interi positivi: $n = a_1 + a_2 + \cdots + a_{2004}$, dove $1 \le a_1 < a_2 < \cdots < a_{2004}$, e $a_i \mid a_{i+1}$, $i = 1, 2, \ldots, 2003$. (proposto da Chen Yonggao)
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmo_2004#q06|src_cn_cmo_2004__Q06]]

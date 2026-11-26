@@ -31,9 +31,19 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dati i numeri interi positivi a,b,c e i numeri reali x,y,z con \x-a-a-a-a-a-a<=1, \y-b<=1 e a^2+b^2=c^2, x^2+y^2=z^2, dimostri che gli insiemi {a,b} e {x,y} coincidono.*
+*Due terne pitagoriche di interi positivi, con cateti che differiscono al più di 1: gli insiemi dei cateti coincidono*
 
-> I numeri interi positivi $a,b,c$ e $x,y,z$ soddisfano $|x-a|\le 1$, $|y-b|\le 1$ e $$a^2+b^2=c^2, \quad x^2+y^2=z^2.$$ Prove che gli insiemi $\{a,b\}$ e $\{x,y\}$ coincidono.
+> Interi positivi $a,b,c$ e $x,y,z$ soddisfano $|x-a|\le 1$, $|y-b|\le 1$ e
+>
+> $$a^2+b^2=c^2, \quad x^2+y^2=z^2.$$
+>
+> Dimostrare che gli insiemi $\{a,b\}$ e $\{x,y\}$ coincidono.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_pol_2006_r2#q01|src_pol_2006_r2__Q01]]
 
 
 
@@ -56,9 +66,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel triangolo ABC con AC+BC=3AB, l'incircolo (centro I) tocca BC a D e AC a E; K, L sono riflessi di D, E a I. Provare che A, B, K, L sono conciclici.*
+*Triangolo con AC + BC = 3 AB, punti di contatto e loro simmetrici rispetto all'incentro: quattro punti sono conciclici*
 
-> In un triangolo $ABC$ con $AC+BC=3AB$, l'incircolo è centrato a $I$ e tocca $BC$ a $D$ e $AC$ a $E$. I punti $K$ e $L$ siano simetrici a $D$ e $E$ rispetto a $I$. Provare che i punti $A,B,K,L$ si trovano su un cerchio.
+> In un triangolo $ABC$ con $AC+BC=3AB$, la circonferenza inscritta ha centro $I$ e tocca $BC$ in $D$ e $AC$ in $E$. Siano $K$ e $L$ i punti simmetrici di $D$ e di $E$ rispetto a $I$. Dimostrare che i punti $A,B,K,L$ giacciono su una circonferenza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2006_r2#q02|src_pol_2006_r2__Q02]]
 
 
 
@@ -82,9 +98,17 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per i numeri positivi a,b,c con ab+bc+ca=abc, dimostrare che la somma ciclica delle frazioni che coinvolgono quattro potenze è almeno 1.*
+*Numeri positivi con ab+bc+ca = abc: una somma ciclica di quarte potenze è almeno 1*
 
-> I numeri positivi $a,b,c$ soddisfano la condizione $ab+bc+ca=abc$. Provare che $$\frac{a^4+b^4}{ab(a^3+b^3)}+\frac{b^4+c^4}{bc(b^3+c^3)}+\frac{c^4+a^4}{ca(c^3+a^3)}\ge 1.$$
+> Numeri positivi $a,b,c$ soddisfano la condizione $ab+bc+ca=abc$. Dimostrare che
+>
+> $$\frac{a^4+b^4}{ab(a^3+b^3)}+\frac{b^4+c^4}{bc(b^3+c^3)}+\frac{c^4+a^4}{ca(c^3+a^3)}\ge 1.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2006_r2#q03|src_pol_2006_r2__Q03]]
 
 
 
@@ -109,9 +133,19 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per un numero naturale c, definire una sequenza da a_1=1 e a_{n+1}=d(a_n) + c, dove d(m) è il numero di divisori positivi di m. Mostrare c'è k tale che a_k, a_{k+1}, ... è periodico.*
+*Successione che somma una costante al numero dei divisori: una coda è periodica*
 
-> Dato un numero naturale $c$, definiamo la sequenza $(a_n)$ da $a_1=1$ e $$a_{n+1}=d(a_n)+c \quad \text{for } n=1,2,\ldots,$$ dove $d(m)$ indica il numero di divisori positivi di $m\in\mathbb{N}$. Indicare che esiste un intero positivo $k$ tale che la sequenza $a_k, a_{k+1}, a_{k+2}, \ldots$ sia periodica.
+> Dato un numero naturale $c$, si definisca la successione $(a_n)$ mediante $a_1=1$ e
+>
+> $$a_{n+1}=d(a_n)+c \quad \text{for } n=1,2,\ldots,$$
+>
+> dove $d(m)$ indica il numero dei divisori positivi di $m\in\mathbb{N}$. Dimostrare che esiste un intero positivo $k$ tale che la successione $a_k, a_{k+1}, a_{k+2}, \ldots$ sia periodica.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2006_r2#q04|src_pol_2006_r2__Q04]]
 
 
 
@@ -134,9 +168,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*C è il punto medio del segmento AB. Il cerchio o_1 tra A e C incontra il cerchio o_2 tra B e C di nuovo a D. P è il punto medio dell'arco AD di o_1 non contenente C, Q il punto medio dell'arco BD di o_2 non contenente C. Prova che la PQ è perpendicolare al CD.*
+*C punto medio di AB, due circonferenze per C che si rincontrano in D: la retta dei punti medi di due archi è perpendicolare a CD*
 
-> Il segmento $C$ deve essere il punto medio di un segmento $AB$. Un cerchio $o_1$ che attraversa $A$ e $C$ e un cerchio $o_2$ che attraversa $B$ e $C$ si incrociano in due punti diversi $C$ e $D$. Il punto $P$ è il punto medio dell'arco $AD$ di $o_1$ che non contiene $C$, e il punto $Q$ è il punto medio dell'arco $BD$ di $o_2$ che non contiene $C$. Provare che $PQ$ è perpendicolare a $CD$.
+> Sia $C$ il punto medio di un segmento $AB$. Una circonferenza $o_1$ passante per $A$ e $C$ e una circonferenza $o_2$ passante per $B$ e $C$ si intersecano in due punti distinti $C$ e $D$. Il punto $P$ è il punto medio dell'arco $AD$ di $o_1$ che non contiene $C$, e il punto $Q$ è il punto medio dell'arco $BD$ di $o_2$ che non contiene $C$. Dimostrare che $PQ$ è perpendicolare a $CD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2006_r2#q05|src_pol_2006_r2__Q05]]
 
 
 
@@ -159,6 +199,12 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per un primo p e un intero n con p>=n>=3, A sia un insieme di sequenze di lunghezza-n su {0,1,...,p-1} in modo tale che due differano in almeno tre posizioni. Trova la più grande cardinalità possibile di A.*
+*Successioni di lunghezza n su un alfabeto di p simboli, a due a due diverse in almeno tre posizioni: massima cardinalità*
 
-> Un numero primo $p$ e un numero intero $n$ con $p\ge n\ge 3$ sono dati. Che $A$ sia un insieme di sequenze di lunghezza $n$ con termini nel insieme $\{0,1,2,\ldots,p-1\}$ ha la seguente proprietà: Eventuali due sequenze $(x_1,\ldots,x_n)$ e $(y_1,\ldots,y_n)$ da $A$ differiscono in almeno tre posizioni. Trova la più grande cardinalità possibile di $A$.
+> Sono dati un numero primo $p$ e un intero $n$ con $p\ge n\ge 3$. Sia $A$ un insieme di successioni di lunghezza $n$ con termini nell'insieme $\{0,1,2,\ldots,p-1\}$, tale che due successioni qualunque $(x_1,\ldots,x_n)$ e $(y_1,\ldots,y_n)$ di $A$ differiscano in almeno tre posizioni. Trovare la massima cardinalità possibile di $A$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2006_r2#q06|src_pol_2006_r2__Q06]]

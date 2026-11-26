@@ -39,19 +39,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the last two digits of the product 1x2x..x1*
+*What is the sum of the last two digits?*
 
-> What is the sum of the last two digits of product 1×2×3×4×5×4×3×2×1? A) 2
-> 	
+> What is the sum of the last two digits of the product 1×2×3×4×5×4×3×2×1?
+>
+> A) 2
 > B) 4
-> 	
 > C) 6
-> 	
 > D) 8
-> 	
 > E) 16
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_student_marzo#q01|src_kangourou_2020_student_marzo__Q01]]
 
 
 
@@ -88,17 +91,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the path of the ant over two obstacles*
+*How many metres long is the path now?*
 
 ![[src_kangourou_2020_student_marzo__prob2.png]]
 
-> An ant moved every day, moving along a straight line, from point A to point B, which is 5 meters from A. One day he found two overlapping obstacles on his way, each 1 m high, as shown in the picture. From that day on, the ant moves from A to B, staying above the straight line it once traveled, but rising above the two obstacles and descending along the vertical. How many meters is its path now? A) 7
-> 	
+> Every day an ant used to go, in a straight line, from point A to point B, which is 5 m from A. One day it found two obstacles on its path, one on top of the other, each 1 m high, as in the picture. From that day the ant goes from A to B staying above the straight line it used to follow, but it climbs over the two obstacles and comes down them vertically. How many metres long is its path now?
+>
+> A) 7
 > B) 9
-> 	
-> (C) 5 + 4√2 D) 9 - 2√2 E) length depends on the angle formed by the obstacles along the initial path.
+> C) 5 + 4√2
+> D) 9 - 2√2
+> E) the length depends on the angle that the obstacles make with the original path
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_student_marzo#q02|src_kangourou_2020_student_marzo__Q02]]
 
 
 
@@ -131,19 +140,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of the ab product on the real line*
+*Which point is the product ab?*
 
-> Renata marked as accurately as possible two points a and b on the real line. One of the points p, q, r, s, t of the line represents the product ab. Which one? A) p
-> 	
+> Renata has marked two points a and b on the real line as carefully as she can. One of the points p, q, r, s, t on the line stands for the product ab. Which one?
+>
+> A) p
 > B) q
-> 	
 > C) r
-> 	
 > D) s
-> 	
 > E) t
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_student_marzo#q03|src_kangourou_2020_student_marzo__Q03]]
 
 
 
@@ -195,14 +206,29 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of students who use mopeds*
+*What percentage of the students use a scooter?*
 
 ![[src_kangourou_2020_student_marzo__prob4.png]]
 
-> The pie chart shows how students at a school reach the school building. Those using bicycles are about twice as many as those using public transportation, while those arriving by car are about as many as those who walk. Everybody else is coming by moped. What's the percentage of students using a moped? A) 6 % B) 11 % C) 12 % D) 24 % E) 47 % x 0 1/4 1/2 3/4 1 5/4 a b p q r s t 11 % 47 % 12 % 24 % 6 %
+> The pie chart shows how the students of a school get to the building. Those who use a bicycle are about twice as many as those who use public transport, while those who arrive by car are approximately as many as those who come on foot. All the others come by scooter. What is the percentage of students who use a scooter?
 >
+> A) 6 %
+> B) 11 %
+> C) 12 %
+> D) 24 %
+> E) 47 %
+>
+> 11 %
+> 47 %
+> 12 %
+> 24 %
+> 6 %
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2020_student_marzo#q04|src_kangourou_2020_student_marzo__Q04]]
 
 
 
@@ -236,21 +262,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of A+B+C+D+E sum of 5 three-digit numbers*
+*What is A + B + C + D + E?*
 
-> The sum of 5 three-digit numbers shown in the figure equals 2664. 
-> What is the value of A + B + C + D + E ?
-> A) 4	
-> 	
-> B) 14	
-> 	
-> C) 24	
-> 	
-> D) 34	
-> 	
+> The sum of the 5 three-digit numbers shown in the picture is 2664. What is the value of A + B + C + D + E?
+>
+> A) 4
+> B) 14
+> C) 24
+> D) 34
 > E) 44
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_student_marzo#q05|src_kangourou_2020_student_marzo__Q05]]
 
 
 
@@ -278,16 +305,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of (1010^2+2020^2+3030^2)/2020*
+*What is the value of the expression?*
 
-> What is the value of                                           ?
-> A) 2020		
-> B) 3030		
-> C) 4040		
-> D) 6060		
+> What is the value of ?
+>
+> A) 2020
+> B) 3030
+> C) 4040
+> D) 6060
 > E) 7070
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2020_student_marzo#q06|src_kangourou_2020_student_marzo__Q06]]
 
 
 
@@ -317,11 +349,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum b with a<=b<=c and abc=10^6*
+*What is the greatest possible value of b?*
 
-> If a, b and c are integers such that 1 ≤ a ≤ b ≤ c and abc = 1,000,000, what is the maximum value that b can assume? A) 100 B) 250 C) 500 D) 1000 E) 2000
+> If a, b and c are integers such that 1 ≤ a ≤ b ≤ c and abc = 1.000.000, what is the greatest value that b can take?
+>
+> A) 100
+> B) 250
+> C) 500
+> D) 1000
+> E) 2000
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_student_marzo#q07|src_kangourou_2020_student_marzo__Q07]]
 
 
 
@@ -353,17 +396,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of an elephant given dogs and elephants*
+*How many kilograms does one elephant weigh?*
 
-> If D dogs weigh K kilos overall and E elephants weigh as much as M dogs, how many kilos does an elephant weigh? (A) DKEM (B)
-> 	
+> If D dogs weigh K kilograms altogether and E elephants weigh as much as M dogs, how many kilograms does one elephant weigh?
+>
+> A) DKEM
+> B)
 > C)
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_student_marzo#q08|src_kangourou_2020_student_marzo__Q08]]
 
 
 
@@ -394,13 +441,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of two faces of the same colour with two dice*
+*What is the probability that the two faces are the same colour?*
 
-> We have two dice, each with two red faces, two blue faces and two white faces. If we throw the two dice, what is the probability that two faces of the same color will come out? A) 1/12 B) 1/9
-> 	
-> C) 1/6 D) 2/9 E) 1/3
+> We have two dice, each of which has two red faces, two blue faces and two white faces. If we throw the two dice, what is the probability that two faces of the same colour come up?
+>
+> A) 1/12
+> B) 1/9
+> C) 1/6
+> D) 2/9
+> E) 1/3
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2020_student_marzo#q09|src_kangourou_2020_student_marzo__Q09]]
 
 
 
@@ -431,13 +487,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is not divisible by 3 for any n*
+*Which of these numbers is not divisible by 3 for any integer n?*
 
-> Which of the following numbers is not divisible by 3 for any integer value of n ? A) 5n + 1 B) n2
-> 	
-> C) n (n + 1) D) 6n  1 E) n3  2 Questions from N. 11 al N. 20 is worth 4 points each.
+> Which of the following numbers is not divisible by 3 for any integer value of n?
+>
+> A) 5n + 1
+> B) n2
+> C) n (n + 1)
+> D) 6n – 1
+> E) n3 – 2
+>
+> Questions 11 to 20 are worth 4 points each.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_student_marzo#q10|src_kangourou_2020_student_marzo__Q10]]
 
 
 
@@ -498,14 +565,42 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*G-N difference in the four cases of overlapping rectangles*
+*Which statement about G − N is true?*
 
 ![[src_kangourou_2020_student_marzo__prob11.png]]
 
-> A grey rectangle and a black one overlap partially. The figure shows four different cases where this happens. Let us denote with G the area of the part of the grey rectangle that is not common to the two rectangles and with N the area of the part of the black rectangle that is not common to the two rectangles: which of the following statements on the difference G  N is true? A) In case 1, the quantity G – N is higher than in other cases. B) In case 2, the quantity G – N is higher than in other cases. C) In case 3, the quantity G – N is higher than in other cases. D) In case 4, the quantity G – N is higher than in other cases. E) The quantity G – N is the same in all cases. A B C C + B C D D D E + D E A + E A B 2 6 6 4 = 10102 + 20202 + 30302 ------------------------------ 2020 DK ------- EM KE ------- DM DM ------- KE KM ------- DE case 1 case 2 case 3 case 4
+> A grey rectangle and a black rectangle overlap in part. The picture shows 4 different cases in which this happens. Denote by G the area of the part of the grey rectangle that the two rectangles do not share, and by N the area of the part of the black rectangle that the two rectangles do not share. Which of the following statements about the difference G – N is true?
 >
+> A) In case 1 the quantity G – N is greater than in the other cases.
+> B) In case 2 the quantity G – N is greater than in the other cases.
+> C) In case 3 the quantity G – N is greater than in the other cases.
+> D) In case 4 the quantity G – N is greater than in the other cases.
+> E) The quantity G – N is the same in every case.
+>
+> A B C +
+> B C D +
+> C D E +
+> D E A +
+> E A B
+> 2 6 6 4
+> =
+> 10102 + 20202 + 30302
+> 2020
+> DK / EM
+> KE / DM
+> DM / KE
+> KM / DE
+> caso 1
+> caso 2
+> caso 3
+> caso 4
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2020_student_marzo#q11|src_kangourou_2020_student_marzo__Q11]]
 
 
 
@@ -539,17 +634,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum moves to spin 5 coins by turning 3 coins at a time*
+*What is the least number of moves?*
 
-> On a table there are five coins, all with the heads side up. You can flip the coins, but you have to turn exactly 3 of them with each move. What's the minimum number of moves that allows you to have all the coins with the cross side up? A) 2
-> 	
+> On a table there are 5 coins, all heads up. You may turn coins over, but at each move you must turn exactly 3 of them. What is the least number of moves that leaves every coin tails up?
+>
+> A) 2
 > B) 3
-> 	
 > C) 4
-> 	
-> D) 5 E) You can't get all the coins with the cross side up.
+> D) 5
+> E) It is not possible to get every coin tails up.
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_student_marzo#q12|src_kangourou_2020_student_marzo__Q12]]
 
 
 
@@ -583,23 +683,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Litres of paint for the structure of parallelepipeds*
+*How many litres of paint are needed?*
 
 ![[src_kangourou_2020_student_marzo__prob13.png]]
 
-> Four identical parallelepipeds are glued together 
-> to obtain the structure you see in the figure. To paint the entire outside of a single parallelepiped, 
-> 1 litre of paint would be 
-> needed. How many litres of paint are 
-> needed to paint the entire outside of the structure?
-> A) 2.5	 	
-> B) 3	
-> 	
-> C) 3.25	 	
-> D) 3.5	 	
+> Four identical rectangular boxes are glued together to make the structure you see in the picture. Painting the whole outside of a single box would take 1 litre of paint. How many litres of paint are needed to paint the whole outside of the structure?
+>
+> A) 2,5
+> B) 3
+> C) 3,25
+> D) 3,5
 > E) 4
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_student_marzo#q13|src_kangourou_2020_student_marzo__Q13]]
 
 
 
@@ -633,19 +733,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which cannot be (a-b)^2+(b-c)^2+(c-a)^2*
+*Which number is certainly not equal to that sum of squares?*
 
-> Let a, b, and c be integers. Which of the following numbers is certainly NOT equal to (a – b)2 + (b – c)2 + (c – a)2 ? A) 0
-> 	
+> Let a, b and c be integers. Which of the following numbers is certainly NOT equal to (a – b)2 + (b – c)2 + (c – a)2?
+>
+> A) 0
 > B) 1
-> 	
 > C) 2
-> 	
 > D) 6
-> 	
 > E) 8
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_student_marzo#q14|src_kangourou_2020_student_marzo__Q14]]
 
 
 
@@ -677,13 +780,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square number of a number of 100 digits*
+*How many digits does its square have?*
 
 ![[src_kangourou_2020_student_marzo__prob15.png]]
 
-> If the first two digits of a 100-digit integer are, in the order, 2 and 9, how many digits does it have squared? A) 101 B) 199 C) 200 D) 201 E) It is not possible to establish it.
+> If the first two digits of a 100-digit integer are, in order, 2 and 9, how many digits does its square have?
+>
+> A) 101
+> B) 199
+> C) 200
+> D) 201
+> E) It cannot be determined.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_student_marzo#q15|src_kangourou_2020_student_marzo__Q15]]
 
 
 
@@ -724,21 +838,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total possible between 75,216,365,2020 on the wheel*
+*How many of those totals could be obtained?*
 
 ![[src_kangourou_2020_student_marzo__prob16.png]]
 
-> There are 15 numbers on a wheel, but only one of them is visible, a 10 in the highest position. It is known that the sum of the numbers in any group of 7 consecutive wheel positions (such as those highlighted in gray in the figure) is always the same. If we add up all 15 numbers, exactly how many of the numbers 75, 216, 365, or 2020 could we get as a total? A) 0
-> 	
+> Fifteen numbers are written on a wheel, but only one of them is visible, a 10 in the top position. It is known that the sum of the numbers in any run of 7 consecutive positions on the wheel (such as those marked in grey in the picture) is always the same. If we add up all 15 numbers, exactly how many of the numbers 75, 216, 365 or 2020 could be obtained as the total?
+>
+> A) 0
 > B) 1
-> 	
 > C) 2
-> 	
 > D) 3
-> 	
 > E) 4
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+[[Quesiti/src_kangourou_2020_student_marzo#q16|src_kangourou_2020_student_marzo__Q16]]
 
 
 
@@ -781,22 +898,29 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A large square area touching two small ones*
+*What is the area of the large square?*
 
 ![[src_kangourou_2020_student_marzo__prob17.png]]
 
-> A large square touches two smaller squares as shown in the figure. The numbers in the small squares indicate the respective areas. How much is the area of the large square worth? A) 49
-> 	
-> B) 80
-> 	
-> C) 81
-> 	
-> D) 82
-> 	
-> E) 100 2 9 5 1 10 9 1
+> A large square touches two smaller squares, as in the picture. The numbers in the small squares give their areas. What is the area of the large square?
 >
+> A) 49
+> B) 80
+> C) 81
+> D) 82
+> E) 100
+>
+> 2 9 5 1
+> 10
+> 9
+> 1
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_student_marzo#q17|src_kangourou_2020_student_marzo__Q17]]
 
 
 
@@ -826,17 +950,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many even numbers among the first 2020 elements of the sequence*
+*How many of the first 2020 terms are even?*
 
-> The sequence fn is defined as follows: f1 = 1, f2 = 3 and fn + 2 = fn + fn + 1 
-> for n ≥ 1. Of the first 2020 elements of the sequence, how many are even?
-> A) 673	 	
-> B) 674	 	
-> C) 1010		
-> D) 1011		
+> The sequence fn is defined as follows: f1 = 1, f2 = 3 and fn + 2 = fn + fn + 1 for n ≥ 1. Of the first 2020 terms of the sequence, how many are even?
+>
+> A) 673
+> B) 674
+> C) 1010
+> D) 1011
 > E) 1347
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+[[Quesiti/src_kangourou_2020_student_marzo#q18|src_kangourou_2020_student_marzo__Q18]]
 
 
 
@@ -884,29 +1013,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the rectangle with tangent circumference*
+*What is the area of the rectangle?*
 
 ![[src_kangourou_2020_student_marzo__prob19.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.5]
-  \draw[thick] (0,0) rectangle (9,8);
-  \draw[thick] (5,5) circle (5);
-  \draw (5,-0.2) -- (5,0.2);
-  \node[below] at (2.5,0) {$5$};
-  \node[below] at (7,0) {$4$};
-\end{tikzpicture}
-\end{document}
-```
-
-> A circle and a rectangle have been drawn so that the circle is tangent to two sides of the rectangle and passes through one of its vertices. The distances of two vertices of the rectangle from the point of tangency on the side joining them are 5 and 4, as shown in the figure. What is the area of the rectangle? A) 27 π B) 25 π C) 72
-> 	
+> A circle and a rectangle have been drawn so that the circle is tangent to two sides of the rectangle and passes through one of its vertices. The distances of two vertices of the rectangle from the point of tangency on the side that joins them are 5 and 4, as shown in the picture. What is the area of the rectangle?
+>
+> A) 27 π
+> B) 25 π
+> C) 72
 > D) 63
-> 	
-> E) None of the values indicated.
+> E) none of the values given
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_student_marzo#q19|src_kangourou_2020_student_marzo__Q19]]
 
 
 
@@ -945,23 +1069,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the face with the question mark of rectangular parallelepipeds*
+*What is the area of the face marked with a question mark?*
 
 ![[src_kangourou_2020_student_marzo__prob20.png]]
 
-> Three rectangular parallelepipeds are arranged so as to form a single (rectangular) parallelepiped as in the figure. It is known that the width of one of the faces is 6 and the areas of some faces are known, which are 14, 21, 16 and 30, arranged as in the figure. What is the area of the face indicated by the question mark?
-> A) 18	
-	
-> B) 24	
-	
-> C) 28	
-	
-> D) 30	
-	
-> E) The data are insufficient to determine it.
-> Questions from No. 21 to No. 30 are worth 5 points each
+> Three rectangular boxes are arranged so as to form a single rectangular box, as in the picture. It is known that the width of one of the faces is 6, and the areas of some faces are known: 14, 21, 16 and 30, arranged as in the picture. What is the area of the face marked with a question mark?
+>
+> A) 18
+> B) 24
+> C) 28
+> D) 30
+> E) The information is not enough to determine it.
+>
+> Questions 21 to 30 are worth 5 points each.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_student_marzo#q20|src_kangourou_2020_student_marzo__Q20]]
 
 
 
@@ -995,19 +1121,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which must be positive given the parabola arc*
+*Which of these numbers must be positive?*
 
 ![[src_kangourou_2020_student_marzo__prob21.png]]
 
-> In the figure you see an arc of the equation parabola y = ax2 + bx + c. Which of the following must be positive? A) c
-> 	
-> B) b + c C) ac
-> 	
+> The picture shows an arc of the parabola with equation y = ax2 + bx + c. Which of the following numbers must be positive?
+>
+> A) c
+> B) b + c
+> C) ac
 > D) bc
-> 	
 > E) ab
 
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_student_marzo#q21|src_kangourou_2020_student_marzo__Q21]]
 
 
 
@@ -1040,13 +1170,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Term of the relations between areas of the three triangles*
+*Which triple can be those ratios?*
 
 ![[src_kangourou_2020_student_marzo__prob22.png]]
 
-> A young kangaroo draws on a square grid a segment that passes through the node P in the lower left corner of the grid, and then colors three triangles as shown in the figure. Which of the following terns can represent the relationships between the areas of the three triangles? (a) 1 : 2: 3 B) 1: 2: 4 C) 1: 3: 9 D) 1: 4: 8 E) None of the following:
+> A young kangaroo draws, on a square grid, a segment that passes through the node P in the bottom-left corner of the grid, and then colours three triangles as shown in the picture. Which of the following triples can be the ratios of the areas of the three triangles?
+>
+> A) 1 : 2 : 3
+> B) 1 : 2 : 4
+> C) 1 : 3 : 9
+> D) 1 : 4 : 8
+> E) none
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2020_student_marzo#q22|src_kangourou_2020_student_marzo__Q22]]
 
 
 
@@ -1083,12 +1224,29 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pair of numbers which do not divide N between 2 and 11*
+*Which pair might be the two that do not divide N?*
 
-> A number N is divisible by all integers from 2 to 11, except two. Which of the following can be the pair of numbers that do not divide N ? A) 2 and 3 B) 4 and 5 C) 6 and 7 D) 7 and 8 E) 10 and 11 5 4 x y 0 P
+> A number N is divisible by every integer from 2 to 11 inclusive, except for two of them. Which of the following could be the pair of numbers that do not divide N?
 >
+> A) 2 and 3
+> B) 4 and 5
+> C) 6 and 7
+> D) 7 and 8
+> E) 10 and 11
+>
+> 5
+> 4
+> x
+> y
+> 0
+> P
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_student_marzo#q23|src_kangourou_2020_student_marzo__Q23]]
 
 
 
@@ -1127,21 +1285,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Surface of the garden before enlargement*
+*How many square metres was the garden before it was enlarged?*
 
 ![[src_kangourou_2020_student_marzo__prob24.png]]
 
-> A rectangular garden has been enlarged by increasing the length of one side by 20% and the length of the other by 50%. The new garden is square. The area of the new garden, which lies between the diagonals of the old and the new garden, shaded in the figure, measures 30 m2. How many square meters did the garden cover before it was enlarged? A) 60
-> 	
+> A rectangular garden was enlarged by increasing the length of one of its sides by 20% and the length of the other by 50%. The new garden is a square. The area of the new garden lying between the diagonals of the old garden and of the new one, shaded in the picture, measures 30 m2. How many square metres was the area of the garden before it was enlarged?
+>
+> A) 60
 > B) 65
-> 	
 > C) 70
-> 	
 > D) 75
-> 	
 > E) 80
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_student_marzo#q24|src_kangourou_2020_student_marzo__Q24]]
 
 
 
@@ -1177,19 +1337,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many flavors are exhausted if the combinations match*
+*How many flavours had run out by the afternoon?*
 
-> One morning, Anna bought a two-flavored ice cream from an ice cream maker who had 16 different flavors of ice cream for sale. Paola went to the same ice cream shop in the afternoon to get a 3-flavored ice cream, but several flavors had run out and she had to choose between the remaining ones. If the number of possible combinations for Anna's choice and Paola's choice were the same, how many flavors were exhausted in the afternoon? A) 2
-> 	
+> One morning Anna bought a 2-flavour ice cream from an ice-cream seller who had 16 different flavours for sale. Paola went to the same seller in the afternoon for a 3-flavour ice cream, but several flavours had run out and she had to choose from those that were left. If the number of possible combinations for Anna's choice and for Paola's choice was the same, how many flavours had run out by the afternoon?
+>
+> A) 2
 > B) 3
-> 	
 > C) 4
-> 	
 > D) 5
-> 	
 > E) 6
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2020_student_marzo#q25|src_kangourou_2020_student_marzo__Q25]]
 
 
 
@@ -1226,24 +1389,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of marbles that remain in the box*
+*What is the least number of marbles that will remain in any case?*
 
-> Antonio has a box with 71 marbles. The rules of the game allow him, at each
-> move, to remove exactly 30 marbles or to put back into the box exactly 18
-> of the marbles removed in previous moves. If Antonio can remove or put back marbles
-> in the box as many times as he wants, what is the minimum number of marbles that will
-> remain in the box anyway?
-> A) 1	
-	
-> B) 3	
-	
-> C) 5	
-	
-> D) 7	
-	
+> Antonio has a box with 71 marbles. The rules of the game allow him, at each move, to remove exactly 30 marbles, or to put back into the box exactly 18 of the marbles removed in earlier moves. If Antonio may remove or put back marbles as many times as he likes, what is the least number of marbles that will remain in the box in any case?
+>
+> A) 1
+> B) 3
+> C) 5
+> D) 7
 > E) 11
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_student_marzo#q26|src_kangourou_2020_student_marzo__Q26]]
 
 
 
@@ -1278,17 +1439,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the quadrilateral obtained by folding the square*
+*What is the area of that quadrilateral?*
 
 ![[src_kangourou_2020_student_marzo__prob27.png]]
 
-> Vera took a square of paper with side 1 and folded two consecutive sides so as to overlap them on a diagonal, as shown in the figure, obtaining a quadrilateral. What is the area of this quadrilateral? A) 2 – √2 B)
-> 	
-> C) √2 – 1 D)
-> 	
+> Vera took a square of paper of side 1 and folded two consecutive sides so as to lay them on a diagonal, as shown in the picture, obtaining a quadrilateral. What is the area of that quadrilateral?
+>
+> A) 2 – √2
+> B)
+> C) √2 – 1
+> D)
 > E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2020_student_marzo#q27|src_kangourou_2020_student_marzo__Q27]]
 
 
 
@@ -1328,27 +1495,29 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cube edge given 90% submerged and visible parts*
+*How many metres long is the edge of the cube?*
 
-> An iceberg has the shape of a cube. The volume of the part that remains hidden below the
-> surface of the water is exactly 90% of the volume of the iceberg. Above the surface
-> of the water only three edges are partially visible, whose visible parts measure 24
-> m, 25 m and 27 m. How many metres is the edge of the cube?
+> An iceberg has the shape of a cube. The volume of the part hidden below the surface of the water is exactly 90% of the volume of the iceberg. Above the surface of the water only three edges are partly visible, and their visible parts measure 24 m, 25 m and 27 m. How many metres long is the edge of the cube?
+>
 > A) 30
 > B) 33
 > C) 34
 > D) 35
 > E) 39
->  7-----
+>
+> 7-----
 > 10
->  3-----
->  5
+> 3-----
+> 5
 > √2
 > -----
->  2
->
+> 2
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2020_student_marzo#q28|src_kangourou_2020_student_marzo__Q28]]
 
 
 
@@ -1393,21 +1562,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many table numbers are divisible by p4*
+*How many numbers in the table are divisible by p4?*
 
 ![[src_kangourou_2020_student_marzo__prob29.png]]
 
-> In the lower row of the table in the figure, from left to right, n prime numbers p1, p2, ..., pn are written, all different from each other. For each pair of numbers in adjacent boxes of the same row, their product is written in the upper row box above the two original boxes. In the box at the vertex of the table, the number K = p1 α1 p2 α2 ... pn αn is written. In a table where α2 = 8, how many of the numbers in the table are divisible by p4? A) 4
-> 	
+> In the bottom row of the table in the picture, n primes p1, p2, …, pn are written from left to right, all different from one another. For every pair of numbers in adjacent cells of the same row, their product is written in the cell of the row above, astride the two original cells. In the cell at the top of the table the number K = p1 α1 p2 α2 … pn αn is written. In a table in which α2 = 8, how many of the numbers in the table are divisible by p4?
+>
+> A) 4
 > B) 16
-> 	
 > C) 24
-> 	
 > D) 28
-> 	
 > E) 36
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_student_marzo#q29|src_kangourou_2020_student_marzo__Q29]]
 
 
 
@@ -1459,35 +1631,28 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Carlo's favourite figure from the logic dialogue*
+*Which figure is Carlo's favourite?*
 
 ![[src_kangourou_2020_student_marzo__prob30.png]]
 
-> Marco and Brigitta must guess which of the following figures is Carlo's favourite.
-> Marco knows that Carlo has revealed to Brigitta what the shape of his favourite figure is, and
-> Brigitta knows that Carlo has communicated its colour to Marco. At this point the following conversation takes place
-> between Marco and Brigitta. Marco: "I don't know which is the figure
-> preferred by Carlo, but I know that Brigitta cannot know it either". Brigitta: "At first
-> I didn't know which was Carlo's favourite figure, but now I know".
-> Marco: "Now I know too". Which is Carlo's favourite figure?
-> A) 	
-> 	
-> B) 	
-> 	
-> C) 	
-> 	
-> D) 	
-> 	
-> E) 
+> Marco and Brigitta have to guess which of the following figures is Carlo's favourite.
+>
+> Marco knows that Carlo has told Brigitta the shape of his favourite figure, and Brigitta knows that Carlo has told Marco its colour. The following conversation then takes place between Marco and Brigitta. Marco: "I do not know which figure is Carlo's favourite, but I know that Brigitta cannot know either." Brigitta: "At the start I did not know which figure was Carlo's favourite, but now I do." Marco: "Now I know too." Which figure is Carlo's favourite?
+>
+> A)
+> B)
+> C)
+> D)
+> E)
+>
 > K
 > p1 p2 p2 p3
-> p1 
->  p2
->  p3
->  pn-1
->  pn
+> p1 p2 p3 pn-1 pn
 > pn-1 pn
->   
-> Answers
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_student_marzo#q30|src_kangourou_2020_student_marzo__Q30]]

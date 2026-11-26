@@ -35,15 +35,27 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le griglie 2x2 con numeri interi 19 sotto restrizioni di ordine*
+*In una tabella 2×2 si scrivono interi da 1 a 9 con quattro confronti: quante tabelle, e quante con B = C*
 
-> In una tabella $2 \times 2$, come mostrato di seguito, scriviamo numeri interi da $1$ a $9$ obbedendo alla seguente regola: $A > B$, $C > D$, $A > C$ e $B > D$.
-> 
-> $$\begin{array}{|c|c|}\hline A & B \\ \hline C & D \\ \hline\end{array}$$
-> 
-> a) Quante tabelle diverse esistono in modo tale che $B = C$?
-> 
-> b) Quante tabelle diverse esistono in totale?
+> In una tabella $2 \times 2$, come qui sotto, si scrivono interi da $1$ a $9$ rispettando la regola: $A > B$, $C > D$, $A > C$ e $B > D$.
+>
+>
+>
+$$\begin{array}{|c|c|}\hline A & B \\ \hline C & D \\ \hline\end{array}$$
+>
+>
+>
+> a) Quante tabelle diverse esistono tali che $B = C$?
+>
+> b) Quante tabelle diverse esistono in tutto?
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n2_f3#q01|src_obm_2003_n2_f3__Q01]]
 
 
 
@@ -66,9 +78,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova la più piccola divisione primaria $x^2+5x+23$ per un numero intero $x$*
+*Si cerca il minimo primo positivo che divide un polinomio per almeno un intero*
 
-> Determinare il primo positivo più piccolo che divide $x^2 + 5x + 23$ per un intero $x$.
+> Determinare il più piccolo primo positivo che divide $x^2 + 5x + 23$ per qualche intero $x$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_obm_2003_n2_f3#q02|src_obm_2003_n2_f3__Q02]]
 
 
 
@@ -93,11 +113,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova BX=CX se PQ è il diametro del cerchio circoscritto*
+*In un triangolo inscritto, un'uguaglianza di segmenti equivale a un diametro*
 
-> Il triangolo $ABC$ è inserito nel cerchio $S$ e $AB < AC$. La linea attraverso $A$ perpendicolare a $BC$ incontra $S$ a $P$ ($P \neq A$). Il punto $X$ si trova sul segmento $AC$ e la linea $BX$ incontra $S$ al $Q$ ($Q \neq B$).
-> 
-> Prove che $BX = CX$ se e solo se $PQ$ ha un diametro di $S$.
+> Il triangolo $ABC$ è inscritto nella circonferenza $S$ e $AB < AC$. La retta per $A$ perpendicolare a $BC$ incontra $S$ in $P$ ($P \neq A$). Il punto $X$ sta sul segmento $AC$ e la retta $BX$ incontra $S$ in $Q$ ($Q \neq B$).
+>
+> Dimostrare che $BX = CX$ se e solo se $PQ$ è un diametro di $S$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n2_f3#q03|src_obm_2003_n2_f3__Q03]]
 
 
 
@@ -120,9 +148,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova $x^2+4y^2-4xy+2x-4y+2>0$ per tutti i reali $x,y$*
+*Dimostrare che un polinomio di secondo grado in due variabili è sempre positivo*
 
-> Prova che $x^2 + 4y^2 - 4xy + 2x - 4y + 2 > 0$ per tutti i numeri reali $x$ e $y$.
+> Dimostrare che $x^2 + 4y^2 - 4xy + 2x - 4y + 2 > 0$ per tutti i numeri reali $x$ e $y$.
+
+**Argomento:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+
+[[Quesiti/src_obm_2003_n2_f3#q04|src_obm_2003_n2_f3__Q04]]
 
 
 
@@ -145,9 +181,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare punti su un cerchio che massimizzi l'area quadrilaterale dato punto interno*
+*Dato un punto interno diverso dal centro, scegliere tre punti sulla circonferenza per massimizzare l'area*
 
-> Data una cerchia $K$ e un punto interno fisso $A$ distinto dal centro, determinare i punti $B$, $C$ e $D$ su $K$ in modo tale che l'area del quadrilaterale $ABCD$ sia il più ampia possibile.
+> Data una circonferenza $K$ e un punto interno fissato $A$, distinto dal centro, determinare i punti $B$, $C$ e $D$ su $K$ tali che l'area del quadrilatero $ABCD$ sia la più grande possibile.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+
+[[Quesiti/src_obm_2003_n2_f3#q05|src_obm_2003_n2_f3__Q05]]
 
 
 
@@ -174,10 +218,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove il ciclo di Hamilton nel grafico Tumbolia con un massimo di un cambiamento di modalità di trasporto*
+*Ogni coppia di città è unita da una strada o da una ferrovia: un ciclo che cambia mezzo al più una volta*
 
-> Ci sono $N$ città in Tumbolia. Ogni coppia di città è collegata da una strada o da una ferrovia, senza che nessuna coppia sia collegata da entrambe.
-> 
-> Un turista desidera viaggiare in tutta la Tumbolia, visitando ogni città esattamente una volta e tornando nella città in cui ha iniziato il suo viaggio.
-> 
-> Provare che è possibile scegliere l'ordine in cui le città vengono visitate in modo che il turista cambie il mezzo di trasporto al massimo una volta.
+> In Tumbolia ci sono $N$ città. Ogni coppia di città è collegata o da una strada o da una ferrovia, e nessuna coppia è collegata da entrambi.
+>
+> Un turista vuole percorrere tutta la Tumbolia, visitando ogni città esattamente una volta e tornando alla città di partenza.
+>
+> Dimostrare che si può scegliere l'ordine delle città in modo che il turista cambi mezzo di trasporto al più una volta.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_obm_2003_n2_f3#q06|src_obm_2003_n2_f3__Q06]]

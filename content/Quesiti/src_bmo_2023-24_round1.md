@@ -31,11 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio delle ortografie di OLYMPIADS da tipografo poco affidabile*
+*Conta le occorrenze di OLYMPIADS scritte da un dattilografo poco affidabile*
 
-> Un tipografo poco affidabile può garantire che quando cerca di digitare una parola con lettere diverse, ogni lettera della parola apparirà esattamente una volta in quello che digitano, e ogni lettera si verificherà al massimo una lettera in ritardo (anche se può verificarsi più di una lettera in anticipo). Pertanto, quando si tenta di digitare MATHS, il typista può digitare MATHS, MTAHS o TMASH, ma non ATMSH.
-> 
-> Determinare, con la prova, il numero di possibili ortografie di OLYMPIADS che potrebbero essere digitate.
+> Un dattilografo poco affidabile può garantire che, quando cerca di digitare una parola composta da lettere diverse, ogni lettera della parola comparirà esattamente una volta in ciò che digita, e ciascuna lettera comparirà con un ritardo massimo di una lettera (anche se potrebbe comparire con un anticipo superiore a una lettera). Pertanto, nel tentativo di digitare MATHS, il dattilografo potrebbe digitare MATHS, MTAHS o TMASH, ma non ATMSH.
+>
+> Determina, con dimostrazione, il numero di possibili grafie di OLYMPIADS che potrebbero essere digitate.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2023-24_round1#q01|src_bmo_2023-24_round1__Q01]]
 
 
 
@@ -62,13 +69,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove a0 e a1 consecutive date a2023 e a2024 consecutive*
+*Dimostrare che a0 e a1 sono consecutivi, dato che a2023 e a2024 sono consecutivi*
 
-> La sequenza $a_0, a_1, \ldots$ ha la proprietà che per ogni $i \ge 2$, $a_i$ è $2a_{i-1} - a_{i-2}$ o $2a_{i-2} - a_{i-1}$.
-> 
+> La sequenza $a_0, a_1, \ldots$ ha la proprietà che, per ogni $i \ge 2$, $a_i$ è oppure $2a_{i-1} - a_{i-2}$ oppure $2a_{i-2} - a_{i-1}$.
+>
 > Dato che $a_{2023}$ e $a_{2024}$ sono numeri interi consecutivi, dimostrare che $a_0$ e $a_1$ sono numeri interi consecutivi.
-> 
-> (Nota che 6 e 7 sono numeri interi consecutivi, così come 7 e 6.)
+>
+> (Si noti che 6 e 7 sono numeri interi consecutivi, così come 7 e 6.)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2023-24_round1#q02|src_bmo_2023-24_round1__Q02]]
 
 
 
@@ -93,11 +107,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove BZ perpendicolare all'AC nel problema di geometria circolare*
+*Dimostrare che BZ è perpendicolare ad AC in un problema di geometria dei cerchi*
 
-> Che $ABC$ sia un triangolo con $\angle ACB < 90^\circ$. Il punto $X$ e il punto $Y$ devono essere ponti rispettivamente su $AC$ e sul cerchio $ABC$ in modo tale che $XY \ne A$ e $BX = BY = BA$. La linea $XY$ incrocia nuovamente il cerchio $ABC$ a $Z$.
-> 
-> Prova che $BZ$ è perpendicolare a $AC$.
+> Sia $ABC$ un triangolo con $\angle ACB < 90^\circ$. Siano $X$ e $Y$ dei punti su $AC$ e sulla circonferenza $ABC$ rispettivamente, tali che $XY \ne A$ e $BX = BY = BA$. La retta $XY$ interseca nuovamente la circonferenza $ABC$ nel punto $Z$.
+>
+> Dimostrare che $BZ$ è perpendicolare a $AC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2023-24_round1#q03|src_bmo_2023-24_round1__Q03]]
 
 
 
@@ -120,9 +141,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi n con n volte 2^n più 1 un quadrato perfetto*
+*Trovare tutti gli interi positivi n tali che n per 2^n più 1 sia un quadrato perfetto*
 
-> Trova tutti gli integri positivi $n$ in modo tale che $n \times 2^n + 1$ sia un quadrato.
+> Trovare tutti gli interi positivi $n$ tali che $n \times 2^n + 1$ sia un quadrato.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2023-24_round1#q04|src_bmo_2023-24_round1__Q04]]
 
 
 
@@ -147,11 +175,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di errori per 1000 punti rosso-blu su un cerchio*
+*Errori minimi per 1000 punti rosso-blu su un cerchio*
 
-> Un artista organizza 1000 punti uniformemente intorno a un cerchio, con ogni punto rosso o blu. Un critico guarda i 1000 punti e conta *errori*: ogni volta che due punti rossi adiacenti sono un errore, e ogni volta che due punti blu sono esattamente due separati (cioè hanno esattamente un punto tra di loro) è un altro.
-> 
-> Qual è il minor numero di difetti che il critico potrebbe trovare?
+> Un artista dispone 1000 punti in modo uniforme lungo una circonferenza, e ciascun punto è rosso o blu. Un critico osserva i 1000 punti e conta i *difetti*: ogni volta che ci sono due punti rossi adiacenti, si conta un difetto; e ogni volta che ci sono due punti blu distanti esattamente due posizioni (cioè con esattamente un punto tra loro), si conta un altro difetto.
+>
+> Qual è il numero minimo di difetti che il critico potrebbe trovare?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2023-24_round1#q05|src_bmo_2023-24_round1__Q05]]
 
 
 
@@ -176,8 +211,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per il quale n deve avere angoli uguali un poligono converso equilaterale con diagonali corti uguali*
+*Per quali n un poligono convesso equilatero con diagonali corte uguali deve avere angoli uguali?*
 
-> Per alcuni numeri interi $n > 4$ un poligono converso ha vertici $v_1, v_2, \ldots, v_n$ in ordine ciclico. Tutti i bordi sono della stessa lunghezza. Ha anche la proprietà che le lunghezze dei diagonali $v_1v_3, v_2v_4, \ldots, v_{n-2}v_n$ e $v_{n-1}v_1$ e $v_nv_2$ sono tutte uguali.
-> 
-> Per quale $n$ è necessariamente il caso che il poligono abbia angoli uguali?
+> Per un certo intero $n > 4$, un poligono convesso ha vertici $v_1, v_2, \ldots, v_n$ in ordine ciclico. Tutti i suoi lati hanno la stessa lunghezza. Il poligono ha inoltre la proprietà che le lunghezze delle diagonali $v_1v_3, v_2v_4, \ldots, v_{n-2}v_n$, $v_{n-1}v_1$ e $v_nv_2$ sono tutte uguali.
+>
+> Per quali $n$ è necessariamente vero che il poligono ha angoli uguali?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2023-24_round1#q06|src_bmo_2023-24_round1__Q06]]

@@ -29,11 +29,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First of four numbers with the sum of 54*
+*First of four numbers in arithmetic progression summing to 54*
 
-> Four numbers are such that the second is equal to the first plus $7$, the third is equal to the second plus $7$ and the fourth is equal to the third plus $7$. Their sum is $54$. What's the first number?
+> Four numbers are such that the second equals the first plus $7$, the third equals the second plus $7$ and the fourth equals the third plus $7$. Their sum is $54$. What is the first number?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** 3
+[[Quesiti/src_kangourou_2003_benjamin_finale#qb1|src_kangourou_2003_benjamin_finale__QB1]]
 
 
 
@@ -71,7 +74,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time to go around the flowerbed*
+*How many minutes a circuit of the flowerbed takes*
 
 ![[src_kangourou_2003_benjamin_finale__probb2.png]]
 
@@ -88,9 +91,12 @@ level: kangourou
 \end{document}
 ```
 
-> In a square square there is a square flowerbed as shown in the figure. The area of the part of the square not occupied by the flowerbed is $8$ times the area of the flowerbed. To make one lap of the square along its outer perimeter I take $15$ minutes. How many minutes will I take, at the same speed, to make one lap along the perimeter of the flowerbed? (see figure)
+> In a square piazza there is a square flowerbed, as sketched in the figure. The area of the part of the square not occupied by the flowerbed is $8$ times the area of the flowerbed. To walk once round the piazza along its outer boundary I take $15$ minutes. How many minutes will I take, at the same speed, to walk once round the boundary of the flowerbed? (see the figure)
 
-**Answer:** 5 minutes
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Answer:** 5 minuti
+[[Quesiti/src_kangourou_2003_benjamin_finale#qb2|src_kangourou_2003_benjamin_finale__QB2]]
 
 
 
@@ -113,11 +119,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the magical rectangle*
+*The length of the magic rectangle after the first wish*
 
-> Mirabilandia's magical leather rectangle shrinks by half in length and by a third in height every time it fulfills its owner's wish. After $5$ wishes its area is $2\,\text{cm}^2$, while after $2$ wishes its height was $4\,\text{cm}$. What was its length after it fulfilled its first wish?
+> A magic leather rectangle from Mirabilandia shrinks by half in length and by a third in height every time it grants a wish of its owner. After granting $5$ wishes its area is $2\,\text{cm}^2$, while after granting $2$ wishes its height was $4\,\text{cm}$. What was its length after it had granted the first wish?
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** 27
+[[Quesiti/src_kangourou_2003_benjamin_finale#qb3|src_kangourou_2003_benjamin_finale__QB3]]
 
 
 
@@ -140,11 +149,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tyres used for the same route*
+*Whether each of the five tyres can be used for the same distance*
 
-> Is it possible for a car to travel $25\,000\,\text{km}$ and each of the five tyres it is fitted with (four plus the spare wheel) to be used for the same number of kilometres? If you answer no explain why; if you answer yes indicate a possible tyre replacement strategy.
+> Is it possible for a car to travel $25\,000\,\text{km}$ and for each of the five tyres it is fitted with (four plus the spare wheel) to be used for the same number of kilometres? If you answer "no", explain why; if you answer "yes", give a possible strategy for changing the tyres.
 
-**Answer:** yes
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Answer:** si
+[[Quesiti/src_kangourou_2003_benjamin_finale#qb4|src_kangourou_2003_benjamin_finale__QB4]]
 
 
 
@@ -167,11 +179,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First and last three digits with sum 2003*
+*The first three digits and the last three digits of the smallest such integer*
 
-> What are the first three digits and the last three digits of the smallest positive integer whose digit sum is $2003$?
+> What are the first three digits and the last three digits of the smallest positive integer the sum of whose digits is $2003$?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** 599 / 999
+[[Quesiti/src_kangourou_2003_benjamin_finale#qb5|src_kangourou_2003_benjamin_finale__QB5]]
 
 
 
@@ -195,8 +210,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A combination of 200 integers without a number and the double*
+*A set in which no number is double another*
 
-> Indicate how a set of $200$ integers between $1$ and $300$ (extremes included) can be identified so that the following clause is respected: if a number is present in the set, then its double is not present.
+> Show how one can pick a set of $200$ integers between $1$ and $300$ (endpoints included) so that the following condition is met: if a number is in the set, then its double is not.
 
-**Answer:** construction
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Answer:** costruzione
+[[Quesiti/src_kangourou_2003_benjamin_finale#qb6|src_kangourou_2003_benjamin_finale__QB6]]

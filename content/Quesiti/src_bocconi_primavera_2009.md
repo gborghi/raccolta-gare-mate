@@ -29,11 +29,15 @@ level: Semifinale di Primavera
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes to cut a log into five parts*
+*Minutes to cut a log into five pieces*
 
-> If it takes one and a half minutes to cut a tree (a trunk of constant diameter) into two parts, how many minutes does it take to cut the same tree into five parts?
+> If it takes a minute and a half to cut a tree (a log of constant diameter) into two pieces, how many minutes are needed to cut the same tree into five pieces?
 
-**Answer:** 6 minutes
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2009#q01|src_bocconi_primavera_2009__Q01]]
 
 
 
@@ -63,15 +67,22 @@ level: Semifinale di Primavera
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Italian triangle: colour the nine triangles with rules*
+*Italian Triangle: Color the Nine Small Triangles According to Rules*
 
-> The nine small triangles, which make up the large triangle, must be coloured in white (B) - red (R) - green (V) in order to meet the following rules: - two triangles with one side in common cannot have the same colour; - at the end there must be 3 white triangles, 3 green triangles, 3 red triangles.
-> 
-> **How to do it?** (A little help you've already received: three small triangles have already been colored ...)
+> The nine small triangles that make up the large triangle must be colored white (B), red (R), or green (V), but in such a way as to satisfy the following rules:
+> - Two triangles sharing a side cannot have the same color;
+> - In the end, there must be 3 white triangles, 3 green triangles, and 3 red triangles.
+>
+> **How to do it?** (You've already been given a little help: three small triangles have already been colored ...)
 
 ![[src_bocconi_primavera_2009__q02.png]]
 
-**Answer:** Even with 'help', the problem admits several solutions; one of these has a 'V' in the intermediate level and (in the lower level, from left to right): B – V – R – V – B.
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2009#q02|src_bocconi_primavera_2009__Q02]]
 
 
 
@@ -97,13 +108,18 @@ level: Semifinale di Primavera
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum minutes in Chiara for pre-dinner chores
+*A few very short minutes for Chiara to take care of chores before dinner*
 
-> Clara's very busy because she has friends for dinner tonight. He still has to work on the computer for 30 minutes (pc, the printer will work alone for another 10), prepare the dishwasher (it will take a quarter of an hour, then the machine will go on its own for an hour) and shower in 15 minutes. But before you shower, you have to wash the floor. You have to set aside another 40 minutes.
-> 
-> **How many minutes do you need at least? **
+> Chiara is very busy because tonight she has to host some friends for dinner. She still has to work on the computer for 30 minutes (on the computer; the printer will run on its own for another 10 minutes), load the dishwasher (that will take her a quarter of an hour; then the machine will run on its own for an hour), and shower in 15 minutes. But before her shower, she has to mop the floor: another 40 minutes need to be factored in.
+>
+> **How many minutes does she need at minimum?**
 
-**Answer:** Chiara needs at least 100 minutes.
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2009#q03|src_bocconi_primavera_2009__Q03]]
 
 
 
@@ -128,13 +144,17 @@ Minimum minutes in Chiara for pre-dinner chores
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubs used to build the largest possible cube*
+*Cubes used to build the largest possible cube*
 
-> In a box, Luke keeps his 220 wooden cubes. The size of each cube is 1 cm. With his cubes, Luke wants to build a big cube, the biggest one possible.
-> 
-> **How many cubes will you use to build it? **
+> In a box, Luca keeps his 220 wooden cubes. Each cube measures 1 cm on each side. With his cubes, Luca wants to build a large cube—the largest possible one.
+>
+> **How many cubes will he use for his construction?**
 
-**Answer:** Luca will use 216 small cubes.
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_primavera_2009#q04|src_bocconi_primavera_2009__Q04]]
 
 
 
@@ -162,15 +182,20 @@ Minimum minutes in Chiara for pre-dinner chores
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Positive number in the lowest level median brick*
+*Positive number in the middle brick of the lowest level*
 
-> In the pyramid of the figure, the number of each brick is the product of the numbers of the two bricks on which it rests.
-> 
-> **What is the positive number to be inserted into the middle brick of the lowest level? **
+> In the pyramid in the figure, the number on each brick is the product of the numbers on the two bricks it rests on.
+>
+> **What positive number should be placed in the middle brick of the lowest level?**
 
 ![[src_bocconi_primavera_2009__q05.png]]
 
-**Answer:** The required number is 2.
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_primavera_2009#q05|src_bocconi_primavera_2009__Q05]]
 
 
 
@@ -193,11 +218,15 @@ Minimum minutes in Chiara for pre-dinner chores
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time taken by the athlete to run 100 metres*
+*Time taken by the athlete to cover 100 metres*
 
-> An athlete runs 70 meters in 8.4 seconds. In what time will it run 100 meters if it keeps the same average speed over this length?
+> An athlete runs 70 meters in 8.4 seconds. **How long will it take them to run 100 meters** if, over this distance, they maintain the same average speed?
 
-**Answer:** The time is 12 seconds.
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2009#q06|src_bocconi_primavera_2009__Q06]]
 
 
 
@@ -223,13 +252,18 @@ Minimum minutes in Chiara for pre-dinner chores
 <div class="qlang-split" data-lang="en"></div>
 
 
-Chocolates purchased yesterday by Desiderio
+*Chocolates bought yesterday by Desiderio*
 
-> Desiderio does not hide his passion for chocolate. Yesterday he bought a number of chocolates, which cost (each) 40 cents. Today he bought a double number of another, better quality, at the price of 61 cents each. Between yesterday and today he spent almost 10 euros keeping only a few pieces of leftover, less than 50 cents.
-> 
-> How many chocolates did you buy yesterday?
+> Desiderio doesn't hide his passion for chocolate. Yesterday he bought a certain number of chocolates, each costing 40 cents. Today he bought twice as many chocolates of another, better variety, at a price of 61 cents each. Between yesterday and today, he spent almost 10 euros, keeping only a few cents in change—less than 50 cents.
+>
+> **How many chocolates had he bought yesterday?**
 
-**Answer:** Desiderio had bought 6 chocolates.
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2009#q07|src_bocconi_primavera_2009__Q07]]
 
 
 
@@ -255,13 +289,18 @@ Chocolates purchased yesterday by Desiderio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Euro advanced to Jacob at the end of the day*
+*Euros advanced to Jacob at the end of the day*
 
-> Jacob still does not know how to manage his monthly salary of 20 euros, and in recent days he had already spent a portion of it. Today, it was a disaster! It went like this: a third of what was left of him spent on figurines; half of what was left (after the figurines) spent on candy; finally, the $\frac{3}{4}$ of the remainder (after the figurines and candy) lost them.
-> 
-> Knowing that Jacob had only 1 euro coins in his pocket since this morning, how many euros did he receive at the end of the day?
+> Jacob still doesn't know how to manage his weekly pocket money of 20 euros well, and over the past few days he had already spent part of it. And today was a disaster! Here's what happened: he spent a third of what he had left on stickers; he spent half of what was left (after the stickers) on sweets; finally, he lost the $\frac{3}{4}$ of what remained (after the stickers and sweets).
+>
+> Knowing that, since this morning, Jacob has had only 1-euro coins in his pocket, **how many euros did he have left at the end of the day?**
 
-**Answer:** At the end of the day, Jacob had only 1 euro left.
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2009#q08|src_bocconi_primavera_2009__Q08]]
 
 
 
@@ -287,13 +326,18 @@ Chocolates purchased yesterday by Desiderio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Games won by Milena in the card tournament
+*Games won by Milena in the card tournament*
 
-> Carla, Liliana and Milena are playing cards. The winner of each game gets 3 points, the second one gets 1 point, the third zero. After four matches, they finish without a draw, Liliana has 4 points and Carla has 3.
-> 
-> How many games has Milena won?
+> Carla, Liliana, and Milena are playing cards. The winner of each game earns 3 points, the second-place finisher earns 1 point, and the third-place finisher gets nothing. After four games, none of which ended in a tie, Liliana has 4 points and Carla has 3.
+>
+> How many games did Milena win?
 
-**Answer:** Milena won 3 games.
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2009#q09|src_bocconi_primavera_2009__Q09]]
 
 
 
@@ -319,13 +363,18 @@ Games won by Milena in the card tournament
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Count the triangles in Figure*
+*Count the triangles in the figure*
 
-> **How many triangles do you see in the figure? **
+> How many triangles do you see in the figure?
 
 ![[src_bocconi_primavera_2009__q10.png]]
 
-**Answer:** There are 40 triangles in the figure.
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_primavera_2009#q10|src_bocconi_primavera_2009__Q10]]
 
 
 
@@ -349,11 +398,16 @@ Games won by Milena in the card tournament
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Write 2000 with the digits 1,2,3,4,5*
+*Write 2000 using the digits 1, 2, 3, 4, 5*
 
-> Using the addition, subtraction, multiplication, division and power operations (all or only some), ** write the number 2000 with the digits 1, 2, 3, 4, 5** (which must appear only once).
+> Using the operations of addition, subtraction, multiplication, division, and exponentiation (all or only some of them), **write the number 2000 using the digits 1, 2, 3, 4, 5** (which must each appear exactly once).
 
-**Answer:** The number 2000 can be written as $1 \times 4^2 \times 5^3$ or also as $1 \times 2^4 \times 5^3$. The order of the factors is obviously unimportant.
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2009#q11|src_bocconi_primavera_2009__Q11]]
 
 
 
@@ -378,13 +432,17 @@ Games won by Milena in the card tournament
 <div class="qlang-split" data-lang="en"></div>
 
 
-What time is it now (clock problem)
+*What time is it now (clock problem)*
 
-> Two hours ago, it was past 1:00 p.m., the same time it was before 1:00 p.m.
-> 
-> What time is it now?
+> Two hours ago, since one in the afternoon, the same amount of time had passed as was still left to reach one o'clock at night.
+>
+> **What time is it now?**
 
-**Answer:** It is now 21:00.
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2009#q12|src_bocconi_primavera_2009__Q12]]
 
 
 
@@ -410,13 +468,18 @@ What time is it now (clock problem)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Separate the numbers 987654321 to get 100*
+*Separate the digits of 987654321 to obtain 100*
 
-> If you properly separate the numbers of number 123456789 with some addition and subtraction marks, you can get the number 100. For example, it's 123-45-67 plus 89 is 100.
-> 
-> Can you do the same with the numbers 987654321?
+> If you appropriately separate the digits of the number 123456789 using some plus and minus signs, you can obtain the number 100 as the result. For example, 123-45-67+89 = 100.
+>
+> **Can you do the same with the digits of the number 987654321?**
 
-**Answer:** The problem admits several answers. For example: $98 - 76 + 54 + 3 + 21$ but also (again for example) $9 + 8 + 76 + 5 - 4 + 3 + 2 + 1$.
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2009#q13|src_bocconi_primavera_2009__Q13]]
 
 
 
@@ -442,13 +505,18 @@ What time is it now (clock problem)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete an addition by entering the numbers given*
+*Complete an addition by inserting the given digits*
 
-> Complete the following addition by entering the numbers 0 - 2- 3 - 4 - 8 - 9 instead of the dots (once and only).
-> 
+> Complete the following addition by inserting, in place of the dots (once and only once), the digits: 0 - 2 - 3 - 4 - 8 - 9.
+>
 > $$\begin{array}{c} 1\ .\ 0\ .\ 7\ 3\ + \\ 1\ 6\ .\ 5\ .\ 4\ = \\ \hline 2\ .\ 3\ .\ 7\ 7 \end{array}$$
 
-**Answer:** The addition is: $120473 + 163504 = 283977$.
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2009#q14|src_bocconi_primavera_2009__Q14]]
 
 
 
@@ -474,13 +542,18 @@ What time is it now (clock problem)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Replace the letters with digits 0-4 in an addendum*
+*Replace the letters with digits 0–4 in an addition problem*
 
-> Instead of the letters substituted for the numbers (selected between 0,1,2,3,4) so that the sum is correct:
-> 
+> Instead of the letters replaced by numbers (chosen from 0, 1, 2, 3, 4) so that the sum is correct:
+>
 > $$\begin{array}{c} a\ b\ d\ e\ + \\ a\ c\ c\ 5\ = \\ \hline b\ 5\ b\ 5 \end{array}$$
 
-**Answer:** The addition is: $2430 + 2115 = 4545$.
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_primavera_2009#q15|src_bocconi_primavera_2009__Q15]]
 
 
 
@@ -508,15 +581,20 @@ What time is it now (clock problem)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which cards to turn to check "1 implies A"*
+*Which cards to flip to verify '1 implies A'?*
 
-> Each of these cards bears a letter written on one side and a number on the other. Sergio tells his sister Sara that if a card has a "1" on one side, it necessarily has an "A" on the other. Sara doesn't believe it and decides to check it out for herself.
-> 
-> What cards does Sara have to turn to be sure Sergio's claim is true?
+> Each of these cards has a letter written on one side and a number on the other. Sergio tells his sister Sara that if a card has "1" on one side, it must necessarily have an "A" on the other. Sara doesn't believe it and decides to check for herself.
+>
+> **Which cards must Sara definitely turn over to be sure that Sergio's statement is true?**
 
 ![[src_bocconi_primavera_2009__q16.png]]
 
-**Answer:** Sara will turn over the cards 1 – Z.
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_primavera_2009#q16|src_bocconi_primavera_2009__Q16]]
 
 
 
@@ -544,15 +622,20 @@ What time is it now (clock problem)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What cards to play to check "1 if and only if A"*
+*Which cards to flip to verify '1 iff A'?*
 
-> Each of these cards bears a letter written on one side and a number on the other. Sergio tells his sister Sara that if a card has a "1" on one side, it necessarily has an "A" on the other and vice versa. Sara doesn't believe it and decides to check it out for herself.
-> 
-> What cards does Sara have to turn to be sure Sergio's claim is true?
+> Each of these cards has a letter written on one side and a digit on the other. Sergio tells his sister Sara that if a card has "1" on one side, it must necessarily have "A" on the other side, and vice versa. Sara doesn't believe it and decides to check personally.
+>
+> **Which cards must Sara definitely turn over to be sure that Sergio's statement is true?**
 
 ![[src_bocconi_primavera_2009__q17.png]]
 
-**Answer:** Sara will have to turn over all the cards.
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_primavera_2009#q17|src_bocconi_primavera_2009__Q17]]
 
 
 
@@ -577,13 +660,17 @@ What time is it now (clock problem)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial side of the square of Peter's land*
+*Initial side length of Pietro's square plot*
 
-> Peter decides to enlarge his square ground so that it remains square but measures an extra meter on each side. In this way, the area of its land is increased by $27 \text{ m}^2$.
-> 
-> What was the initial length of the side of Peter's land?
+> Pietro decides to enlarge his (fenced) square plot of land so that it remains square but is one meter longer on each side. In this way, the area of his plot of land is increased by $27 \text{ m}^2$.
+>
+> **What was the initial length of a side of Pietro's plot of land?**
 
-**Answer:** The initial length of Pietro's plot side was 13 m.
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_primavera_2009#q18|src_bocconi_primavera_2009__Q18]]
 
 
 
@@ -614,15 +701,20 @@ What time is it now (clock problem)
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who wrote on the board (three truths, one lie)
+*Who wrote on the blackboard (three truths, one lie)?*
 
-> Four kids stayed in class during the break, and one of them wrote "Down with the teachers" on the board. When the professor comes in, he wants to know who did it. Here are the answers from the four boys (note that one of them is mentally ill; the other three are telling the truth):
-> 
-> Anna (who doesn't wear glasses): "It wasn't me!" Rosi (who wears glasses): "was someone who doesn't wear glasses". Amerigo (wearing glasses): "It was a girl!" Renato (who doesn't have glasses): "it was someone wearing glasses".
-> 
-> Who wrote on the board "Down with the professors"?
+> Four boys stayed in the classroom during the break, and one of them wrote "Down with the teachers!" on the blackboard. When the teacher comes back in, they want to know who did it. Here are the four boys' answers (keep in mind that one of them is lying; the other three are telling the truth):
+>
+> Anna (who doesn't wear glasses): "It wasn't me!" Rosi (who wears glasses): "It was someone who doesn't wear glasses." Amerigo (who wears glasses): "It was a girl!" Renato (who doesn't wear glasses): "It was someone who wears glasses."
+>
+> Who wrote "Down with the teachers!" on the blackboard?
 
-**Answer:** It was Rosi who had written on the blackboard.
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2009#q19|src_bocconi_primavera_2009__Q19]]
 
 
 
@@ -650,8 +742,13 @@ Who wrote on the board (three truths, one lie)
 
 *Number of experts given a total of 28 handshakes*
 
-> At the last meeting of the group of mathematical games, a number of people (all great experts in mathematical games) took part. We don't know their exact number but they were definitely more than 2 and less than 10. In all, 28 shake hands were exchanged at the end of the meeting (and each expert greeted all the others respectfully).
-> 
+> At the most recent meeting of the mathematical games group, a certain number of people attended (all of them were experts in mathematical games). We don't know their exact number, but they were certainly more than 2 and fewer than 10. In total, however, by the end of the meeting, 28 handshakes had taken place (and each of the experts respectfully greeted all the others).
+>
 > **How many experts were present at the meeting?**
 
-**Answer:** There were 8 mathematical games experts at the meeting.
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2009#q20|src_bocconi_primavera_2009__Q20]]

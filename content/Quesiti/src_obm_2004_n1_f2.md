@@ -31,11 +31,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa digitali di una somma di frazioni con potenze di 2*
+*Somma delle cifre di una somma di frazioni con potenze di 2*
 
-> Qual è la somma dei numeri $$\frac{2^2}{2} + \frac{2^2}{2^2} + \frac{2^3}{2^3} + \cdots + \frac{2^{2003}}{2^{2003}} + \frac{2^{2006}}{2^{2006}}?$$
+> Qual è la somma delle cifre del numero?
+> $$\frac{2^2}{2} + \frac{2^2}{2^2} + \frac{2^3}{2^3} + \cdots + \frac{2^{2003}}{2^{2003}} + \frac{2^{2006}}{2^{2006}}?$$
 
-**Risposta:** 6
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n1_f2#q01|src_obm_2004_n1_f2__Q01]]
 
 
 
@@ -58,11 +64,15 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Peso prima di una dieta: variazioni della massa grassa del 20% e poi del 40%*
+*Peso prima di una dieta: la massa grassa varia del 20%, poi del 40%*
 
-> La massa grassa di una determinata persona corrisponde al 20% della sua massa corporea totale. Questa persona, che pesava 100 kg, ha fatto una dieta e ha perso il 40% del grasso, mantenendo gli altri indicatori uguali. Quanti chili ha pesato alla fine della dieta?
+> La massa grassa di una certa persona corrisponde al 20% della sua massa corporea totale. Questa persona, che pesava 100 kg, ha seguito una dieta e ha perso il 40% del proprio grasso, mantenendo invariati tutti gli altri indicatori. Quanti chilogrammi pesava alla fine della dieta?
 
-**Risposta:** 92
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n1_f2#q02|src_obm_2004_n1_f2__Q02]]
 
 
 
@@ -86,11 +96,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri a due cifre la cui somma di cifre è un quadrato perfetto*
+*Conta i numeri a due cifre la cui somma delle cifre è un quadrato perfetto*
 
-> Quanti numeri a due cifre hanno una somma di una cifra uguale a un quadrato perfetto? Si noti che, ad esempio, 09 è un numero a due cifre e $853$ è un numero a tre cifre.
+> Quanti numeri di due cifre hanno una somma delle cifre uguale a un quadrato perfetto? Si noti che, ad esempio, 09 è un numero di due cifre e $853$ è un numero di tre cifre.
 
-**Risposta:** 14
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n1_f2#q03|src_obm_2004_n1_f2__Q03]]
 
 
 
@@ -113,9 +128,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I numeri 199 scritti fianco a fianco; cancellare 4 volte i numeri di posizione pari*
+*Numeri da 1 a 99 scritti uno accanto all'altro; cancella 4 volte le cifre in posizione pari*
 
-> I numeri interi da 1 a 99 sono scritti fianco a fianco: $123456789101112\ldots9899$. Applicheremo quindi la seguente operazione: cancelleremo le cifre che appaiono in posizioni pari, ottenendo $135790112\ldots89$. Ripetendo questa operazione 4 volte in totale, quante cifre resteranno?
+> Gli interi da 1 a 99 sono scritti uno accanto all'altro: $123456789101112\ldots9899$. Applichiamo poi l'operazione seguente: cancelliamo le cifre che si trovano in posizioni pari, ottenendo $135790112\ldots89$. Ripetendo questa operazione per un totale di 4 volte, quante cifre rimarranno?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n1_f2#q04|src_obm_2004_n1_f2__Q04]]
 
 
 
@@ -140,13 +162,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Volume di un cubo realizzato da una rete di fogli di carta rettangolare*
+*Volume di un cubo ottenuto da un sviluppo piano di un foglio di carta rettangolare*
 
-> Utilizzando la parte evidenziata di un foglio rettangolare di carta come rete, si può assemblare un cubo. Se la superficie del foglio è $300\,\text{cm}^2$, qual è il volume di questo cubo, in $\text{cm}^3$?
+> Utilizzando la parte evidenziata di un foglio di carta rettangolare come sviluppo, si può assemblare un cubo. Se l'area del foglio è $300\,\text{cm}^2$, qual è il volume di questo cubo, in $\text{cm}^3$?
 
 ![[src_obm_2004_n1_f2__q05.png]]
 
-**Risposta:** 125
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n1_f2#q05|src_obm_2004_n1_f2__Q05]]
 
 
 
@@ -171,11 +197,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fill 9×9 grid con 19 per colonna, somma di righe uguale; trovare X+Y*
+*Riempi la griglia 9×9 con numeri da 1 a 9 per colonna, con somme di riga uguali; trova X+Y*
 
-> Nella tabella seguente, scrivete i numeri da 1 a 9 in ogni colonna in modo che la somma dei numeri scritti nelle nove righe sia la stessa, pari a $Y$. $X$ è la somma dei numeri di ciascuna colonna. Trova $X + Y$.
+> Nella tabella sottostante, scrivi i numeri da 1 a 9 in ciascuna colonna in modo che la somma dei numeri scritti nelle 9 righe sia la stessa, pari a $Y$. $X$ è la somma dei numeri in ciascuna colonna. Trovare $X + Y$.
 
 ![[src_obm_2004_n1_f2__q06.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n1_f2#q06|src_obm_2004_n1_f2__Q06]]
 
 
 
@@ -202,13 +235,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di carte: carte utilizzate e sorte minime per garantire due blu*
+*Gioco di carte: conta le carte utilizzate e i pescaggi minimi per garantire due blu*
 
-> Jade scrisse tutti i numeri a 3 cifre sulle carte gialle, uno per carta, e tutti i numeri a 4 cifre sulle carte blu, uno per carta. Tutte le carte sono della stessa taglia.
-> 
-> (a) In totale, quante carte sono state usate? Si noti che, ad esempio, 037 è un numero a 3 cifre.
-> 
-> (b) Tutte le carte sono poste faccia a faccia nella stessa pila e mescolate. Jade disegna le carte una per una, senza guardare quello che sta disegnando. Quante carte deve disegnare Jade per essere sicuro che tra quelle disegnate ci siano almeno due carte blu?
+> Jade ha scritto tutti i numeri di tre cifre su schede gialle, uno per scheda, e tutti i numeri di quattro cifre su schede blu, uno per scheda. Tutte le schede hanno le stesse dimensioni.
+>
+> (a) In totale, quante carte sono state utilizzate? Si noti che, ad esempio, 037 è un numero di tre cifre.
+>
+> (b) Tutte le carte vengono messe coperte nello stesso mazzo e mescolate. Jade pesca le carte una alla volta, senza guardare cosa sta pescando. Quante carte deve pescare Jade per essere certa che tra quelle pescate ci siano almeno due carte blu?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n1_f2#q07|src_obm_2004_n1_f2__Q07]]
 
 
 
@@ -237,15 +277,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area e il perimetro dei quadrati grigi nella griglia; massimizzare l'area con perimetro fisso*
+*Area e perimetro dei quadrati grigi nella griglia; massimizzare l'area con perimetro fisso*
 
-> Nella griglia di seguito, ogni piccolo quadrato ha area $1\,\text{cm}^2$.
-> 
-> (a) Qual è l'area e il perimetro della figura formata dai quadrati grigie?
-> 
-> b) Coloring altri quadrati, possiamo aumentare l'area di questa figura senza cambiare il suo perimetro. Qual è la superficie massima che possiamo raggiungere?
+> Nella griglia sottostante, ciascun piccolo quadrato ha area $1\,\text{cm}^2$.
+>
+> (a) Quali sono l'area e il perimetro della figura formata dai quadrati grigi?
+>
+> (b) Colorando altri quadratini, possiamo aumentare l'area di questa figura senza modificarne il perimetro. Qual è l'area massima che possiamo ottenere?
 
 ![[src_obm_2004_n1_f2__q08.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n1_f2#q08|src_obm_2004_n1_f2__Q08]]
 
 
 
@@ -272,10 +319,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di conteggio di numeri: la descrizione della riga iterata dà la sequenza; trovare i numeri sulla riga 10 e 2006*
+*Giocattolo per il conteggio delle cifre: la descrizione iterata della riga fornisce una sequenza; trova le cifre alla riga 10 e a 2006*
 
-> Esmeralda ha inventato un giocattolo. Ha digitato alcuni numeri nella prima riga di un foglio. Poi, la descrizione dei numeri digitati appare sulla seconda riga: presenta le quantità di ogni numero che appare, in ordine crescente del numero. Ad esempio, dopo aver digitato 21035662112, ha digitato $1\,0\;1\,1\;3\,2\;1\,5\;2\,6$, il che significa: uno 0, uno 1, tre 2s, uno 5, due 6s.
-> 
-> (a) Ha iniziato un nuovo foglio con com 1. Quindi, la sua descrizione e' scritta sulla seconda riga. Poi, ha descritto la seconda riga sulla terza riga, e così via. Qual è la cifra scritta sulla riga $10^{\text{th}}$ del primo foglio?
-> 
-> (b) A Esmeralda è piaciuto e ha deciso di ripetere il processo su diversi fogli, a partire dal 01 nella prima riga del primo foglio. Quali sono le prime due cifre a sinistra che ha digitato sulla linea $2006^{\text{th}}$?
+> Esmeralda ha inventato un giocattolo. Ha digitato alcuni numeri nella prima riga di un foglio. Poi, sulla seconda riga appare la descrizione dei numeri digitati: ha presentato le quantità di ciascun numero apparso, in ordine crescente del numero. Ad esempio, dopo aver digitato 21035662112, ha digitato $1\,0\;1\,1\;3\,2\;1\,5\;2\,6$, il che significa: un 0, un 1, tre 2, un 5, due 6.
+>
+> (a) Ha iniziato un nuovo foglio con com 1. Quindi, la sua descrizione è digitata sulla seconda riga. Poi ha descritto la seconda riga sulla terza riga, e così via. Qual è la cifra digitata sulla riga $10^{\text{th}}$ del primo foglio?
+>
+> (b) A Esmeralda è piaciuto e ha deciso di ripetere il processo su diverse schede, partendo da 01 sulla prima riga della prima scheda. Quali sono le prime due cifre da sinistra che ha digitato sulla riga $2006^{\text{th}}$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n1_f2#q09|src_obm_2004_n1_f2__Q09]]

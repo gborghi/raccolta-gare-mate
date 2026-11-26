@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare gli studenti che hanno risolto solo il problema B*
+*Conta gli studenti che hanno risolto solo il problema B*
 
-> In un concorso matematico sono stati proposti tre problemi, $A$, $B$, $C$. Tra i partecipanti vi erano 25 studenti che avevano risolto almeno un problema ciascuno. Tra tutti i concorrenti che non avevano risolto il problema $A$, il numero di quelli che avevano risolto $B$ era il doppio del numero di quelli che avevano risolto $C$. Il numero degli studenti che avevano risolto soltanto il problema $A$ era di uno in più del numero di quelli che avevano risolto $A$ e almeno un altro problema. Tra tutti gli studenti che avevano risolto esattamente un problema, la metà non aveva risolto il problema $A$. Quanti studenti hanno risolto soltanto il problema $B$?
+> In una gara matematica sono stati proposti tre problemi, $A$, $B$, $C$. Tra i partecipanti c'erano 25 studenti, ciascuno dei quali ha risolto almeno un problema. Tra tutti i concorrenti che non hanno risolto il problema $A$, il numero di coloro che hanno risolto $B$ era il doppio del numero di coloro che hanno risolto $C$. Il numero di studenti che hanno risolto solo il problema $A$ era maggiore di uno rispetto al numero di studenti che hanno risolto $A$ e almeno un altro problema. Tra tutti gli studenti che hanno risolto esattamente un problema, la metà non ha risolto il problema $A$. Quanti studenti hanno risolto solo il problema $B$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1966#q01|src_imho_1966__Q01]]
 
 
 
@@ -56,11 +63,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Si dimostri che il triangolo è isoscele noto un particolare legame trigonometrico tra i lati*
+*Dimostrare che un triangolo è isoscele data una condizione trigonometrica sui lati*
 
-> Siano $a$, $b$, $c$ le lunghezze dei lati di un triangolo, e $\alpha$, $\beta$, $\gamma$ gli angoli rispettivamente opposti a questi lati. Si dimostri che se
-> $$a + b = \tan\frac{\gamma}{2}(a\tan\alpha + b\tan\beta),$$,
-> allora il triangolo è isoscele.
+> Siano $a$, $b$, $c$ le lunghezze dei lati di un triangolo e, rispettivamente, $\alpha$, $\beta$, $\gamma$ gli angoli opposti a tali lati. Dimostrare che, se
+> $$a + b = \tan\frac{\gamma}{2}(a\tan\alpha + b\tan\beta),$$
+> il triangolo è isoscele.
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1966#q02|src_imho_1966__Q02]]
 
 
 
@@ -83,9 +97,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disuguaglianza sulle distanze dai vertici di un tetraedro al centro della sua sfera circoscritta*
+*Disuguaglianza delle distanze dai vertici del tetraedro al centro della sfera circoscritta*
 
-> Si dimostri che la somma delle distanze dei vertici di un tetraedro regolare dal centro della sua sfera circoscritta è minore della somma delle distanze di tali vertici da qualsiasi altro punto nello spazio.
+> Dimostrare che la somma delle distanze dei vertici di un tetraedro regolare dal centro della sua sfera circoscritta è minore della somma delle distanze di tali vertici da qualsiasi altro punto dello spazio.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1966#q03|src_imho_1966__Q03]]
 
 
 
@@ -111,8 +132,15 @@ level: IMO
 
 *Identità della somma telescopica delle cosecanti uguale alla cotangente*
 
-> Si dimostri che per ogni numero naturale $n$, e per ogni numero reale $x \neq \frac{k\pi}{2^t}$ ($t = 0, 1, \ldots, n$; $k$ qualunque intero)
+> Dimostrare che per ogni numero naturale $n$, e per ogni numero reale $x \neq \frac{k\pi}{2^t}$ ($t = 0, 1, \ldots, n$; $k$ qualsiasi intero)
 > $$\frac{1}{\sin 2x} + \frac{1}{\sin 4x} + \cdots + \frac{1}{\sin 2^n x} = \cot x - \cot 2^n x.$$
+
+**Topic:** [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1966#q04|src_imho_1966__Q04]]
 
 
 
@@ -140,14 +168,21 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Risolvere un sistema simmetrico di quattro equazioni lineari*
+*Risolvi un sistema simmetrico di quattro equazioni lineari*
 
-> Si risolva il sistema di equazioni
+> Risolvere il sistema di equazioni
 > $$|a_2 - a_1|\, x_1 + |a_3 - a_1|\, x_2 + |a_4 - a_1|\, x_3 = 1$$
 > $$|a_1 - a_2|\, x_1 + |a_3 - a_2|\, x_2 + |a_4 - a_2|\, x_3 = 1$$
 > $$|a_1 - a_3|\, x_1 + |a_2 - a_3|\, x_2 + |a_4 - a_3|\, x_3 = 1$$
 > $$|a_1 - a_4|\, x_1 + |a_2 - a_4|\, x_2 + |a_3 - a_4|\, x_3 = 1$$
-> dove $a_1, a_2, a_3, a_4$ sono quattro numeri reali diversi.
+> dove $a_1, a_2, a_3, a_4$ sono quattro numeri reali distinti.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1966#q05|src_imho_1966__Q05]]
 
 
 
@@ -170,6 +205,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti interni sui lati del triangolo: un sottotriangolo ha area ≤ 1/4*
+*Punti interni sui lati del triangolo: un sottotriangolo ha area ≤ un quarto*
 
-> Nel piano interno ai lati $BC$, $CA$, $AB$ del triangolo $ABC$, si scelgano rispettivamente punti interni $K$, $L$, $M$. Si dimostri che l'area di almeno uno dei triangoli $AML$, $BKM$, $CLK$ è minore o uguale a un quarto dell'area del triangolo $ABC$.
+> All'interno dei lati $BC$, $CA$, $AB$ del triangolo $ABC$, vengono scelti rispettivamente dei punti qualsiasi $K$, $L$, $M$. Dimostrare che l'area di almeno uno dei triangoli $AML$, $BKM$, $CLK$ è minore o uguale a un quarto dell'area del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1966#q06|src_imho_1966__Q06]]

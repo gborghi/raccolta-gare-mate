@@ -29,9 +29,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angoli interiori consecutivi in pentagone converso sommato su 216°*
+*Gli angoli interni consecutivi di un pentagono convesso hanno una somma superiore a 216°*
 
-> Prove che in qualsiasi pentagono converso esistono due angoli interni consecutivi la cui somma è maggiore o uguale a $216^\circ$.
+> Dimostrare che in ogni pentagono convesso esistono due angoli interni consecutivi la cui somma è maggiore o uguale a $216^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1998_n2_f3#q01|src_obm_1998_n2_f3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Find angolo BAC dato punti di mezzo e condizioni di angolo uguale in triangolo*
+*Trovare l'angolo BAC dati i punti medi e le condizioni di uguaglianza degli angoli nel triangolo*
 
-> Nel triangolo $ABC$, $D$ è il punto medio di $AB$ e $E$ è il punto laterale $BC$ in modo tale che $BE = 2 \cdot EC$. Dato che gli angoli $ADC$ e $BAE$ sono uguali, trovare l'angolo $BAC$.
+> Nel triangolo $ABC$, $D$ è il punto medio di $AB$ e $E$ è il punto sul lato $BC$ tale che $BE = 2 \cdot EC$. Dato che gli angoli $ADC$ e $BAE$ sono uguali, determina l'angolo $BAC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1998_n2_f3#q02|src_obm_1998_n2_f3__Q02]]
 
 
 
@@ -85,13 +99,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massimi pin da posizionare in una fila di 20 buchi secondo le regole dei vicini*
+*Numero massimo di perni collocabili in una riga di 20 fori secondo le regole di vicinato*
 
-> In una partita ci sono 20 buchi vuoti di fila, e un giocatore deve inserire un bastone in ciascun buco secondo le seguenti regole:
-> 
-> a) Se un cerchio viene inserito in un buco e entrambi i buchi vicini sono vuoti, il cerchio rimane. b) Se viene inserito un bastone in un buco e uno dei buchi vicini è occupato, il bastone in quel buco vicino deve essere rimosso. c) Se viene inserita una pinna in un buco e sono occupati entrambi i buchi vicini, allora uno dei due pinni vicini deve essere rimosso.
-> 
-> Determinare il numero massimo di pin che possono essere posizionati.
+> In una partita ci sono 20 buche vuote in fila, e un giocatore deve inserire un perno in ciascuna buca secondo le seguenti regole:
+>
+> a) Se un perno viene inserito in un foro e entrambi i fori adiacenti sono vuoti, il perno rimane.
+> b) Se un perno viene inserito in una buca e una delle buche adiacenti è occupata, il perno presente in quella buca adiacente deve essere rimosso.
+> c) Se un perno viene inserito in un foro e entrambi i fori adiacenti sono occupati, allora uno dei due perni adiacenti deve essere rimosso.
+>
+> Determinare il numero massimo di perni che possono essere collocati.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n2_f3#q03|src_obm_1998_n2_f3__Q03]]
 
 
 
@@ -114,6 +137,13 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tra i 15 naturali > 1 e < 1998 copriamo in copriamo, almeno uno è primo*
+*Tra 15 numeri naturali maggiori di 1 e minori di 1998, coprimi a due a due, almeno uno è primo*
 
-> Si devono dare 15 numeri naturali superiori a $1$ e inferiori a $1998$ in modo tale che due di essi siano copriemi. Prova che almeno uno di questi 15 numeri è primo.
+> Siano dati 15 numeri naturali maggiori di $1$ e minori di $1998$ tali che ogni coppia di essi sia coprima. Dimostrare che almeno uno di questi 15 numeri è primo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n2_f3#q04|src_obm_1998_n2_f3__Q04]]

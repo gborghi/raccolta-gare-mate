@@ -35,15 +35,22 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la più piccola a+b+c per unità angolare con angoli segnalati distinti nei triangoli nidificati*
-
-> Di solito misuriamo gli angoli in gradi, ma possiamo usare qualsiasi altra unità che scegliamo. Ad esempio, se usiamo $30^\circ$ come nuova unità, allora gli angoli di un triangolo $30^\circ$, $60^\circ$, $90^\circ$ sarebbero uguali rispettivamente a $1$, $2$, $3$ nuove unità.
-> 
-> Il diagramma mostra un triangolo $ABC$ con un secondo triangolo $DEF$ inserito in esso. Tutti gli angoli del diagramma sono multipli interi di qualche nuova (unità sconosciuta); le loro dimensioni $a, b, c, d, e, f, g, h, i, j, k, \ell$ rispetto a questa nuova unità angolare sono tutte distinte.
-> 
-> Trova il minimo valore possibile di $a + b + c$ per il quale si può scegliere un'unità di angolo e segna i valori corrispondenti degli angoli $a$ a $\ell$ nel diagramma.
+*Il minimo valore possibile di $a + b + c$, con gli angoli tutti distinti*
 
 ![[src_bmo_1992-93_round2__q01.png]]
+
+> Di solito si misurano gli angoli in gradi, ma si può usare qualunque altra unità. Per esempio, se si usa $30^\circ$ come nuova unità, allora gli angoli di un triangolo di $30^\circ$, $60^\circ$, $90^\circ$ sarebbero uguali rispettivamente a $1$, $2$, $3$ nuove unità.
+>
+> La figura mostra un triangolo $ABC$ con un secondo triangolo $DEF$ inscritto in esso. Tutti gli angoli della figura sono multipli interi di una nuova unità (sconosciuta); le loro misure $a, b, c, d, e, f, g, h, i, j, k, \ell$ rispetto a questa nuova unità angolare sono tutte distinte.
+>
+> Trovare il minimo valore possibile di $a + b + c$ per cui si possa scegliere una tale unità angolare, e segnare nella figura i valori corrispondenti degli angoli da $a$ a $\ell$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1992-93_round2#q01|src_bmo_1992-93_round2__Q01]]
 
 
 
@@ -66,9 +73,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova 2^(m-1)  1 mod m dove m=4^p−1)/3, p primo >3*
+*$2^{m-1}$ ha resto $1$ nella divisione per $m$*
 
-> Let $m = (4^p - 1)/3$, dove $p$ è un numero primo superiore a $3$. Prove che $2^{m-1}$ ha un residuo $1$ diviso per $m$.
+> Sia $m = (4^p - 1)/3$, dove $p$ è un numero primo maggiore di $3$. Dimostrare che $2^{m-1}$ ha resto $1$ quando è diviso per $m$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1992-93_round2#q02|src_bmo_1992-93_round2__Q02]]
 
 
 
@@ -94,9 +108,19 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto interno del triangolo; prova PA sinBAC/sin α = PB sinCBA/sin β = PC sinACB/sin γ*
+*Dimostrare l'uguaglianza di quei tre rapporti*
 
-> Che $P$ sia un punto interno del triangolo $ABC$ e che $\alpha, \beta, \gamma$ sia definito da $$\alpha = \angle BPC - \angle BAC, \quad \beta = \angle CPA - \angle CBA, \quad \gamma = \angle APB - \angle ACB.$$ Provi che $$PA \frac{\sin \angle BAC}{\sin \alpha} = PB \frac{\sin \angle CBA}{\sin \beta} = PC \frac{\sin \angle ACB}{\sin \gamma}.$$
+> Sia $P$ un punto interno del triangolo $ABC$ e siano $\alpha, \beta, \gamma$ definiti da
+> $$\alpha = \angle BPC - \angle BAC, \quad \beta = \angle CPA - \angle CBA, \quad \gamma = \angle APB - \angle ACB.$$
+> Dimostrare che
+> $$PA \frac{\sin \angle BAC}{\sin \alpha} = PB \frac{\sin \angle CBA}{\sin \beta} = PC \frac{\sin \angle ACB}{\sin \gamma}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1992-93_round2#q03|src_bmo_1992-93_round2__Q03]]
 
 
 
@@ -119,6 +143,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medio della somma delle differenze di cifre assolute consecutive su Z(m,n)*
+*Il valore medio di $d(N)$ su $Z(m, n)$*
 
-> L'insieme $Z(m, n)$ è composto da tutti gli enti $N$ con cifre $mn$ che hanno precisamente $n$ uno, $n$ due, $n$ tre, $\ldots$, $n$ $m$s. Per ogni numero intero $N \in Z(m, n)$, definire $d(N)$ come la somma dei valori assoluti delle differenze di tutte le coppie di cifre consecutive. Ad esempio, $122313 \in Z(3, 2)$ con $d(122313) = 1 + 0 + 1 + 2 + 2 = 6$. Trova il valore medio di $d(N)$ in quanto $N$ si estende su tutti i possibili elementi di $Z(m, n)$.
+> L'insieme $Z(m, n)$ è formato da tutti gli interi $N$ di $mn$ cifre che hanno esattamente $n$ uni, $n$ due, $n$ tre, $\ldots$, $n$ $m$. Per ogni intero $N \in Z(m, n)$, si definisce $d(N)$ come la somma dei valori assoluti delle differenze di tutte le coppie di cifre consecutive. Per esempio, $122313 \in Z(3, 2)$ con $d(122313) = 1 + 0 + 1 + 2 + 2 = 6$. Trovare il valore medio di $d(N)$ al variare di $N$ fra tutti gli elementi possibili di $Z(m, n)$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1992-93_round2#q04|src_bmo_1992-93_round2__Q04]]

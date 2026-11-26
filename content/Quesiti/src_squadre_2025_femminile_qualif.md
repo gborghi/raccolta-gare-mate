@@ -33,20 +33,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0199
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tizio, Caio and Sempronio (Edi Rosset)*
+*Tizio, Caio and Sempronio Edi Rosset*
 
 ![[src_squadre_2025_femminile_qualif__prob1.png]]
 
-> Tizio, Caio and Sempronio Edi Rosset
-> Three friends, Tizio, Caio and Sempronio, walk the same path in a whole number of steps, even though the length of their steps is not the same. Caio takes 3 steps for every 4 steps of Tizio. Sempronio's step is 15% shorter than Tizio's. Moreover, the number of steps Caio has to take to complete the path is the smallest possible. How many steps in total do the three friends take to walk the path?
+> Tizio, Caio, and Sempronio Edi Rosset Three friends—Tizio, Caio, and Sempronio—walk along the same path in an integer number of steps, even though the lengths of their steps are not the same. Caio takes 3 steps for every 4 steps Tizio takes. Sempronio's step is 15% shorter than Tizio's. Moreover, the number of steps Caio must take to complete the path is the smallest possible. How many steps in total do the three friends take to walk along the path?
 
-**Answer:** 0199
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q01|src_squadre_2025_femminile_qualif__Q01]]
 
 
 
@@ -75,23 +77,26 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8679
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Regal numbers (Benedetta Demoro)*
+*Gifts Benedetta Demoro*
 
 ![[src_squadre_2025_femminile_qualif__prob2.png]]
 
-> Regal numbers Benedetta Demoro
-> A number is regal when it satisfies the two conditions
-> a) it is a number obtained by taking a four-digit palindromic number and adding 1 both to the units digit and to the tens digit;
-> b) its four digits are four consecutive numbers.
-> For example, 1342 is a regal number, 1452 is not a regal number. What is the largest regal number?
+> Royal Benedetta Demoro A number is royal when it satisfies both conditions
+> a) is a number obtained by taking a
+> a four-digit palindromic number, and adding 1 to both the units digit and the tens digit;
+> b) The four digits are four numbers.
+> consecutive. For example, 1342 is a royal number; 1452 is not a royal number. What is the largest royal number?
 
-**Answer:** 8679
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q02|src_squadre_2025_femminile_qualif__Q02]]
 
 
 
@@ -115,20 +120,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9216
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In the hall (Andrea Macco)*
+*In the hall, Andrea Macco*
 
 ![[src_squadre_2025_femminile_qualif__prob3.png]]
 
-> In the hall Andrea Macco
-> In a reception hall the floor is a simple mosaic, consisting of a 99 × 99 board of square tiles, all of Carrara marble except those on the border and on the two diagonals. How many Carrara marble tiles are there in the mosaic?
+> In the Hall, Andrea Macco In a reception hall, the floor is a simple mosaic consisting of a 99 × 99 grid of square tiles, all of Carrara marble except for those on the edge and on the two diagonals. How many Carrara marble tiles are there in the mosaic?
 
-**Answer:** 9216
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q03|src_squadre_2025_femminile_qualif__Q03]]
 
 
 
@@ -149,20 +156,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0784
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hexagons and octagons (Sandro Campigotto)*
+*Hexagons and Octagons Sandro Campigotto*
 
 ![[src_squadre_2025_femminile_qualif__prob4.png]]
 
-> Hexagons and octagons Sandro Campigotto
-> Two regular hexagons ABCDEF and GFEJIH have the side EF in common. The area of the octagon ABCDJIHG is 1372 cm^2. What is the area of the rectangle ADJG?
+> Hexagons and Octagons Sandro Campigotto Two regular hexagons, ABCDEF and GFEJIH, share the side EF. The area of the octagon ABCDJIHG is 1372 cm². What is the area of rectangle ADJG?
 
-**Answer:** 0784
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q04|src_squadre_2025_femminile_qualif__Q04]]
 
 
 
@@ -187,20 +196,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0025
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The runners (Lorenzo Mazza)*
+*The runners Lorenzo Mazza*
 
 ![[src_squadre_2025_femminile_qualif__prob5.png]]
 
-> The runners Lorenzo Mazza
-> Two runners run on a circular track 550 m long for one hour. Starting from the same point at the same instant, the first moves at a constant speed of 8 km/h, the second at a constant speed of 6 km/h. How many times do they meet (excluding the start) if they run in opposite directions?
+> The runners Lorenzo Mazza Two runners run on a circular course 550 m long for an hour. Starting from the same point at the same instant, the first moves at a constant speed of 8 km/h, and the second at a constant speed of 6 km/h. How many times do they meet (excluding the start), if they run in opposite directions?
 
-**Answer:** 0025
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q05|src_squadre_2025_femminile_qualif__Q05]]
 
 
 
@@ -227,20 +238,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 1125
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In the cone (Edi Rosset)*
+*In the Edi Rosset cone*
 
 ![[src_squadre_2025_femminile_qualif__prob6.png]]
 
-> In the cone Edi Rosset
-> Maria drops a marble of radius 5 mm into a cone-shaped container. The distance from the vertex of the cone of a point where the marble is tangent to the cone is 12 mm. Maria drops into the container a second marble, which comes to rest tangent both to the marble already inside and to the wall of the cone at more than one point. What is the radius of the second marble? [Give as the answer the radius in mm multiplied by 100.]
+> In the cone, Edi Rosset Maria drops a marble with a radius of 5 mm into a conical container. The distance from the vertex of the cone to the point at which the marble is tangent to the cone is 12 mm. Maria drops a second marble into the container; this marble comes to rest, being tangent both to the marble already in the container and to the conical wall at more than one point. What is the radius of the second marble? [Give as the answer the measure of the radius in mm multiplied by 100.]
 
-**Answer:** 1125
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q06|src_squadre_2025_femminile_qualif__Q06]]
 
 
 
@@ -269,20 +282,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4131
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tiles (Andrea Macco)*
+*Andrea Macco Tiles*
 
 ![[src_squadre_2025_femminile_qualif__prob7.png]]
 
-> Tiles Andrea Macco
-> There are eight tiles in a row: two of them have the number 1 drawn on them; two the number 2; two the number 3; the last two the number 4. Two tiles with the same number k are separated by exactly k tiles (the two tiles with the number k excluded). The first tile from the left has a larger number drawn on it than the one drawn on the last from the left. What is the arrangement of the tiles in the row? [Give as the answer the numbers on the first 4 tiles from the left.]
+> Andrea Macco Tiles There are eight tiles in a row: two of them have the number 1 drawn on them; two have the number 2; two have the number 3; the last two have the number 4. Two tiles bearing the same number k are exactly k tiles apart (the two tiles bearing the number k are not included). The first tile from the left has a number greater than the number on the last tile from the left. What is the arrangement of the tiles in the row? [Give as the answer the numbers on the first 4 tiles from the left.]
 
-**Answer:** 4131
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q07|src_squadre_2025_femminile_qualif__Q07]]
 
 
 
@@ -312,20 +327,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 6656
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The shadow of the cube (Benedetta Demoro)*
+*The Shadow of the Cube Benedetta Demoro*
 
 ![[src_squadre_2025_femminile_qualif__prob8.png]]
 
-> The shadow of the cube Benedetta Demoro
-> A cube casts a hexagon-shaped shadow. Chiara notices that the hexagon is obtained by joining along their longer bases two equal isosceles trapezoids whose legs are as long as the edge of the cube. Chiara also notices that the angle between two legs is a right angle. Finally she measures the perimeter of the hexagon: it equals the perimeter of the cube — that is, the sum of all its edges. She then computes the area of the hexagon and the volume of the cube and notices that their values, expressed in m^2 and m^3, are equal. How long is the edge of the cube in mm?
+> The Shadow of the Cube Benedetta Demoro A cube casts a hexagonal shadow. Chiara notes that the hexagon is obtained by joining, along their longer bases, two identical isosceles trapezoids whose non-parallel sides are as long as the edge of the cube. Chiara also notes that the angle between two non-parallel sides is a right angle. Finally, she measures the perimeter of the hexagon: it is equal to the perimeter of the cube—that is, the sum of all its edges. She then calculates the area of the hexagon and the volume of the cube, and notes that their values, expressed in m² and m³, are equal. How long is the edge of the cube in mm?
 
-**Answer:** 6656
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q08|src_squadre_2025_femminile_qualif__Q08]]
 
 
 
@@ -349,20 +366,19 @@ level: squadre
 > acquistate?
 
 **Risposta:** 0053
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*At the finals (Lorenzo Mazza)*
+*All Finals Lorenzo Mazza*
 
 ![[src_squadre_2025_femminile_qualif__prob9.png]]
 
-> At the finals Lorenzo Mazza
-> The organisers of the team finals in Cesenatico buy for the contestants small bottles of water, books and sweets, for a total of 130 items, paying 130 euros. Two sweets cost €0.75, each bottle of water costs €1 and each book costs €10. How many bottles of water were bought?
+> All Finals Lorenzo Mazza The organizers of the team finals in Cesenatico buy water bottles, books, and candies for the competitors—a total of 130 items—for 130 euros. Two candies cost 0.75€, each water bottle costs 1€, and each book costs 10€. How many water bottles were purchased?
 
-**Answer:** 0053
+[[Quesiti/src_squadre_2025_femminile_qualif#q09|src_squadre_2025_femminile_qualif__Q09]]
 
 
 
@@ -385,20 +401,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0035
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diagonals (Andrea Macco)*
+*Diagonals Andrea Macco*
 
 ![[src_squadre_2025_femminile_qualif__prob10.png]]
 
-> Diagonals Andrea Macco
-> If one draws the diagonals of an isosceles trapezoid, one can identify 8 different triangles in all. If instead one uses a regular pentagon, how many different triangles can be identified after drawing all the diagonals?
+> Diagonals Andrea Macco If the diagonals of an isosceles trapezoid are drawn, a total of 8 different triangles can be identified. If, on the other hand, a regular pentagon is used, how many different triangles are identified after all the diagonals have been drawn?
 
-**Answer:** 0035
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q10|src_squadre_2025_femminile_qualif__Q10]]
 
 
 
@@ -419,20 +437,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0022
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Primes and squares (Lorenzo Mazza)*
+*First and Perfect Lorenzo Mazza*
 
 ![[src_squadre_2025_femminile_qualif__prob11.png]]
 
-> Primes and squares Lorenzo Mazza
-> How many prime numbers less than 200 can be written as the sum of two perfect squares?
+> Prime and Perfect: Lorenzo Mazza. How many prime numbers less than 200 can be written as the sum of two perfect squares?
 
-**Answer:** 0022
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q11|src_squadre_2025_femminile_qualif__Q11]]
 
 
 
@@ -460,20 +480,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 2000
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The folded sheet (Lorenzo Mazza)*
+*The Folded Sheet Lorenzo Mazza*
 
 ![[src_squadre_2025_femminile_qualif__prob12.png]]
 
-> The folded sheet Lorenzo Mazza
-> A rectangular sheet ABCD is folded, bringing vertex C onto vertex A, along the segment HK, where H is a point on AB and K is a point on CD. The region of the sheet that is not overlapped (made up of two triangles) has an area equal to 25% of the initial area of the sheet. What is the ratio between the area of the square constructed on the segment AB and the area of the square constructed on the segment BC? [Give as the answer multiplied by 1000.]
+> The Folded Sheet Lorenzo Mazza A rectangular sheet ABCD is folded, bringing vertex C onto vertex A along segment HK, where H is a point on AB and K is a point on CD. The non-overlapping region of the sheet (consisting of two triangles) has an area equal to 25% of the initial area of the sheet. What is the ratio of the area of the square constructed on segment AB to the area of the square constructed on segment BC? [Give your answer multiplied by 1000.]
 
-**Answer:** 2000
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q12|src_squadre_2025_femminile_qualif__Q12]]
 
 
 
@@ -503,20 +525,19 @@ level: squadre
 > avere entrambe le cisterne vuote?
 
 **Risposta:** 2400
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The tanks (Andrea Macco)*
+*The Andrea Macco cistern*
 
 ![[src_squadre_2025_femminile_qualif__prob13.png]]
 
-> The tanks Andrea Macco
-> Two equal tanks are completely full of water. Each of them has two taps: a large one and a small one. Water flows out of each at a constant rate. If only the large tap is opened, the tank empties in 30 minutes; if only the small one is opened, the tank empties in one hour. The large tap of one tank and the small tap of the other tank are opened at the same time. As soon as one of the two tanks is empty, the second tap of the tank that is still partly full is also opened. How many seconds pass from the initial opening until both tanks are empty?
+> Cisterns Andrea Macco Two identical cisterns are completely full of water. Each of them has two taps: one large and one small. From each tap, water flows at a constant rate. If only the large tap is opened, the cistern empties in 30 minutes; if only the small tap is opened, the cistern empties in one hour. The large tap of one cistern and the small tap of the other cistern are opened at the same time. As soon as one of the two cisterns has emptied, the second tap on the cistern that is still partially full is also opened. How many seconds elapse from the initial opening until both cisterns are empty?
 
-**Answer:** 2400
+[[Quesiti/src_squadre_2025_femminile_qualif#q13|src_squadre_2025_femminile_qualif__Q13]]
 
 
 
@@ -538,20 +559,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0119
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The product (Lorenzo Mazza)*
+*The Lorenzo Mazza product*
 
 ![[src_squadre_2025_femminile_qualif__prob14.png]]
 
-> The product Lorenzo Mazza
-> Cecilia computes the product of three distinct positive integers and finds that it equals 11200. Knowing that the largest is 20 times the smallest, what is the sum of the three factors used by Cecilia?
+> The product Lorenzo Mazza Cecilia is the product of three distinct positive integers, and it turns out to be 11200. Given that the largest is 20 times the smallest, what is the sum of the three factors used by Cecilia?
 
-**Answer:** 0119
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q14|src_squadre_2025_femminile_qualif__Q14]]
 
 
 
@@ -581,20 +604,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0036
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*On the blackboard (Andrea Macco)*
+*On the blackboard: Andrea Macco*
 
 ![[src_squadre_2025_femminile_qualif__prob15.png]]
 
-> On the blackboard Andrea Macco
-> Pietro draws a square on the blackboard and a point inside it. «If I join this point to all the vertices, four triangles are formed.» Everybody nods. Pietro, pointing to one of the 4 triangles, says: «The area of this triangle is 500 cm^2 and none of the others has a larger area than this one.» Everybody takes note; Pietro points to another triangle: «The area of this triangle is 148 cm^2 and none of the others has a smaller area than this one.» What is, in centimetres, the side of the square originally drawn on the blackboard?
+> On the blackboard, Andrea Macco Pietro draws a square and a point inside it. "If I join this point to all the vertices, four triangles are formed." Everyone nods. Pietro, pointing to one of the four triangles, says, "The area of this triangle is 500 cm², and none of the other triangles has a larger area than this one." Everyone takes notes; Pietro points to another triangle: "The area of this triangle is 148 cm², and none of the other triangles has a smaller area than this one." What is the length, in centimeters, of the side of the square initially drawn on the blackboard?
 
-**Answer:** 0036
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q15|src_squadre_2025_femminile_qualif__Q15]]
 
 
 
@@ -618,20 +643,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0578
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The draw (Sandro Campigotto)*
+*La Pesca Sandro Campigotto*
 
 ![[src_squadre_2025_femminile_qualif__prob16.png]]
 
-> The draw Sandro Campigotto
-> A bag contains the numbers from 1 to 20. Luca draws a number, then Claudia draws another one. What is the probability that the product of the two numbers drawn is a perfect square? [Give as the answer the probability multiplied by 10000.]
+> Sandro Campigotto's Drawing The numbers from 1 to 20 are in a bag. Luca draws a number, and then Claudia draws another. What is the probability that the product of the two numbers drawn is a perfect square? [Give as the answer the probability multiplied by 10000.]
 
-**Answer:** 0578
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q16|src_squadre_2025_femminile_qualif__Q16]]
 
 
 
@@ -653,20 +680,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0340
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In two thousand twenty-five (Leonardo Cimino)*
+*In 2025, Leonardo Cimino*
 
 ![[src_squadre_2025_femminile_qualif__prob17.png]]
 
-> In two thousand twenty-five Leonardo Cimino
-> How many ordered quadruples (a, b, c, d) of natural numbers are there such that their product is 2025 and the greatest common divisor of the four numbers a, b, c and d is 1?
+> In 2025, Leonardo Cimino: How many ordered quadruples (a, b, c, d) of natural numbers are there such that their product is 2025 and the greatest common divisor of the four numbers a, b, c, and d is 1?
 
-**Answer:** 0340
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q17|src_squadre_2025_femminile_qualif__Q17]]
 
 
 
@@ -689,20 +718,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0450
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The cut cube (Sandro Campigotto)*
+*Sandro Campigotto's Cut Cube*
 
 ![[src_squadre_2025_femminile_qualif__prob18.png]]
 
-> The cut cube Sandro Campigotto
-> Cutting a cube with edge 20 cm by a plane passing through two opposite vertices of a face and through the midpoints of two adjacent edges of the opposite face, one obtains a quadrilateral. What was the area of the quadrilateral?
+> The Cut Cube – Sandro Campigotto By cutting a cube with an edge length of 20 cm with a plane that passes through two opposite vertices of one face and through the midpoints of two adjacent edges of the opposite face, a quadrilateral is obtained. What was the area of the quadrilateral?
 
-**Answer:** 0450
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q18|src_squadre_2025_femminile_qualif__Q18]]
 
 
 
@@ -724,20 +755,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0003
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A long tail (Lorenzo Mazza)*
+*A long tail Lorenzo Mazza*
 
 ![[src_squadre_2025_femminile_qualif__prob19.png]]
 
-> A long tail Lorenzo Mazza
-> A perfect square has tail n if its last n digits are all equal to each other and different from zero. For example, 8^2 = 64 has tail 1. What is the maximum value n can take?
+> A long tail by Lorenzo Mazza A perfect square has a tail of length n if its last n digits are all equal to one another and different from zero. For example, 8^2 = 64 has a tail of length 1. What is the maximum value that n can take?
 
-**Answer:** 0003
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q19|src_squadre_2025_femminile_qualif__Q19]]
 
 
 
@@ -759,20 +792,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0404
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Imperfect (Sandro Campigotto)*
+*Imperfetti Sandro Campigotto*
 
 ![[src_squadre_2025_femminile_qualif__prob20.png]]
 
-> Imperfect Sandro Campigotto
-> A positive integer is called imperfect if neither it nor its double is divisible by any perfect square greater than 1. How many imperfect numbers less than 1000 are there?
+> Imperfect Numbers Sandro Campigotto A positive integer is called imperfect if neither it nor its double is divisible by any perfect square greater than 1. How many imperfect numbers are less than 1000?
 
-**Answer:** 0404
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q20|src_squadre_2025_femminile_qualif__Q20]]
 
 
 
@@ -800,17 +835,19 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1037
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The deck of cards (Edi Rosset)*
+*The Edi Rosset deck of cards*
 
 ![[src_squadre_2025_femminile_qualif__prob21.png]]
 
-> The deck of cards Edi Rosset
-> Consider a deck of 40 playing cards (numbered from 1 to 10 for each of the 4 suits, i.e. clubs, diamonds, hearts and spades). Let p\_1 be the probability that, drawing 10 cards from the deck, all the numbers from 1 to 10 are drawn. Let p\_2 be the probability that, drawing 12 cards from the deck, all the numbers from 1 to 10 are drawn. What is the ratio p\_2/p\_1? [Give as the answer the sum of numerator and denominator of the fraction in lowest terms.]
+> The Edi Rosset deck of cards Consider a deck of 40 playing cards (numbered from 1 to 10 for each of the 4 suits, namely hearts, diamonds, clubs, and spades). Let p_1 be the probability that, when 10 cards are drawn from the deck, all numbers from 1 to 10 are drawn. Let p_2 be the probability that, when 12 cards are drawn from the deck, all numbers from 1 to 10 are drawn. What is the ratio p_2/p_1? [Give as the answer the sum of the numerator and denominator of the fraction reduced to lowest terms.]
 
-**Answer:** 1037
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2025_femminile_qualif#q21|src_squadre_2025_femminile_qualif__Q21]]

@@ -36,11 +36,15 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Binary product figures of the first 10 powers of 8*
+*Binary digits of the product of the first 10 powers of 8*
 
-> Whether n is the product of the first 10 powers of 8, i.e. n = 80 ·81 ·82 ·. . .·89. How many digits does the binary representation of n have? A 136 B 49 C 91 D 120 E 27 F 28
+> Let n be the product of the first 10 powers of 8, that is, n = 8^0 · 8^1 · 8^2 · ... · 8^9. How many digits does the binary representation of n have? A 136 B 49 C 91 D 120 E 27 F 28
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2019#q01|src_garaprime_2019__Q01]]
 
 
 
@@ -118,7 +122,7 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Black and white difference in table 81x81 frames*
+*Black-and-white difference in an 81x81 table with borders*
 
 ![[src_garaprime_2019__prob2.png]]
 
@@ -162,9 +166,14 @@ level: Classi Prime
 \end{document}
 ```
 
-> The boxes in a table 9 × 9 are coloured in black and white (see figure). The central box is white, then the outer frames surrounding it are alternately black and white. Figure 1 Imagine doing the same thing with a table 81 × 81. What is the difference between the number of white boxes and the number of black boxes in this new table? A 161 B 321 C 81 D 167 E 319 F 1
+> The cells of a 9 × 9 grid are colored white and black (see figure). The central cell is white, and the frames that successively surround it are alternately black and white. Figure 1 Imagine doing the same thing with an 81 × 81 grid. In this new grid, what is the difference between the number of white cells and the number of black cells? A 161 B 321 C 81 D 167 E 319 F 1
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2019#q02|src_garaprime_2019__Q02]]
 
 
 
@@ -195,11 +204,16 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which word has the most anagrams*
+*Which word has the most anagrams?*
 
-> Which of the following words has the most anagrams? (Consider all the anagrams, even the nonsensical ones) A CANNE B CANNE C CENE D CANNE and NANNE F NANNA
+> Which of the following words has the greatest number of anagrams? (Consider all anagrams, including those that make no sense.) A CANNE B CANE C CENE D CANNA E NANNE F NANNA
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2019#q03|src_garaprime_2019__Q03]]
 
 
 
@@ -233,11 +247,16 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most distance between anagrams of MAMMMMME*
+*Maximum distance between anagrams of MAMMMMME*
 
-> The distance between two anagrams of the same word is the minimum number of consecutive letter exchanges I have to make to turn one of the two into the other. For example, ACTA has distance 1 from ATCA and distance 2 from ATAC. What is the maximum distance that MAMMMMME can be from one of its anagrams? A 12 B 14 C 11 D 10 E 6 F 9
+> The distance between two anagrams of the same word is the minimum number of swaps between adjacent letters I must perform to turn one of the two into the other. For example, ACTA is at distance 1 from ATCA and at distance 2 from ATAC. What is the maximum distance that can exist between MAMMMMME and one of its anagrams? A 12 B 14 C 11 D 10 E 6 F 9
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2019#q04|src_garaprime_2019__Q04]]
 
 
 
@@ -269,11 +288,16 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to give €10 with 2.1,0.5 coins
+*Ways of giving 10 euros using 2-euro, 1-euro, and 0.5-euro coins*
 
-> Luca has only 2 Euro, 1 Euro and 50 cents coins, but he has a lot of them (more than 20) for each of the 3 types. How many different ways can you give 10 euros to Claudia? A 36 B 27 C 40 D 28 E 25 F 12
+> Luca has only 2-euro, 1-euro, and 50-cent coins, but he has a great many of them (more than 20) of each of the three types. In how many different ways can he give Claudia 10 euros? A 36 B 27 C 40 D 28 E 25 F 12
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2019#q05|src_garaprime_2019__Q05]]
 
 
 
@@ -303,11 +327,16 @@ How to give €10 with 2.1,0.5 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of n2 - (n+4)(n-4) with n large*
+*Value of n^2 - (n+4)(n-4) for large n*
 
-> How much is 8881115550002 −888111555004 · 888111554996? A 16 B 0 C −4 D 12 E 18 F None of the other answers are correct
+> What is the value of 8881115550002 −888111555004 · 888111554996? A 16 B 0 C −4 D 12 E 18 F None of the other answers is correct
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2019#q06|src_garaprime_2019__Q06]]
 
 
 
@@ -356,11 +385,16 @@ How to give €10 with 2.1,0.5 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final time of the parallel sum of 200 sheets*
+*Final time of the parallel summation of 200 slips*
 
-> The 3D computer science teacher, in order to teach her 20 students the tricks of parallel computing, assigns them the task of adding 200 numbers. The boys organize themselves in such a way as to parallel the work. They write the 200 numbers on 200 sheets and put them in a basket, then set an alarm so that, starting at 10:00, you play every five minutes. At the first wake-up call, each of them takes two sheets from the basket, returns to his place, sums them up, writes the result on a new sheet, and runs back to put it back in the basket before it wakes up sounds again. They repeat this operation with each call until there is only one leaflet left in the basket, which then contains the required sum. Obviously, in shifts where the cards in the basket are less than 40, some kids have to stand still. What time is it when, for the first time, the alarm goes off and there's only one ticket in the basket? A 11:10 B 10:55 C 11:00 D 11:05 E 11:15 F 10:50
+> The computer science teacher of Class 3D, to help her 20 students understand the nuances of parallel computing, assigns them the task of adding 200 numbers. The students organize themselves so as to parallelize the work. They write the 200 numbers on 200 slips of paper and put them in a basket, then set an alarm so that, starting at 10:00 a.m., it rings every 5 minutes. At the first ring of the alarm, each of them takes two slips from the basket, returns to their seat, adds the numbers on them, writes the result on a new slip, and runs to put it back in the basket before the alarm rings again. They repeat this operation at each ring until only one slip remains in the basket; that slip therefore contains the required sum. Obviously, during the rounds when there are fewer than 40 slips in the basket, some of the students have to stay put. What time is it when the alarm rings for the first time and there is only one slip in the basket? A 11:10 B 10:55 C 11:00 D 11:05 E 11:15 F 10:50
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2019#q07|src_garaprime_2019__Q07]]
 
 
 
@@ -391,11 +425,16 @@ How to give €10 with 2.1,0.5 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Those between a,b,c are perfect cubes*
+*Which of a, b, c are perfect cubes?*
 
-> The numbers a = 132132, b = 913 −324 and c = 998800 are given. Which of these are perfect cubes? A only b b only a and b c only a and c d only b and c and all f none
+> Let the numbers a = 132132, b = 913 −324, and c = 998800 be given. Which of them are perfect cubes? A only b B only a and b C only a and c D only b and c E all F none
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2019#q08|src_garaprime_2019__Q08]]
 
 
 
@@ -428,11 +467,15 @@ How to give €10 with 2.1,0.5 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*140 Inches in Spanne*
+*140 Inches in Spans*
 
-> For measuring the lengths, Kenoncè Island uses 4 different units of measurement: the Pollice, the Mignolo, the Index and the Spanna. We know that 7 Indices are as long as 5 Spanne, 21 Minnoli as long as 20 Inches and 2 Indices as long as 3 Minnoli. How many Spanne is 140 inches? A 70 B 105 C 630 D 42 E 450 F 12
+> On the island of Kenoncè, 4 different units of measurement are used to measure lengths: the Thumb, the Little Finger, the Index Finger, and the Span. We know that 7 Index Fingers are as long as 5 Spans, 21 Little Fingers are as long as 20 Thumbs, and 2 Index Fingers are as long as 3 Little Fingers. How many Spans are equivalent to 140 Thumbs? A 70 B 105 C 630 D 42 E 450 F 12
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2019#q09|src_garaprime_2019__Q09]]
 
 
 
@@ -462,11 +505,16 @@ How to give €10 with 2.1,0.5 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Disparate dividers of 8100 multiples of 5*
+*Odd divisors of 8100 that are multiples of 5*
 
-> How many odd positive divisors of 8100 are multiples of 5? A 10 B 15 C 9 D 30 E 12 F 18
+> How many positive odd divisors of 8100 are multiples of 5? A 10 B 15 C 9 D 30 E 12 F 18
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2019#q10|src_garaprime_2019__Q10]]
 
 
 
@@ -499,11 +547,16 @@ How to give €10 with 2.1,0.5 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most girls with a grade of 100 given the average*
+*Maximum number of girls with a score of 100 given the averages*
 
-> The entire 5aM class (consisting of 10 males and 8 females) passed the maturity test: each grade was between 60 and 100. The average male vote was 76 and the total was 80. How many girls took 100 at most? A 5 B 1 C 2 D 3 E 4 F 6
+> The entire 5M class (comprising 10 boys and 8 girls) passed the final secondary school examination: each grade was between 60 and 100. The average grade for the boys was 76, while the overall average was 80. What was the maximum number of girls who scored 100? A 5 B 1 C 2 D 3 E 4 F 6
 
-**Answer:** A
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2019#q11|src_garaprime_2019__Q11]]
 
 
 
@@ -535,11 +588,16 @@ How to give €10 with 2.1,0.5 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of binary repunits n1+...+n10*
+*Sum of repunit numbers n1+...+n10*
 
-> For every positive integer k, we use nk to indicate that positive integer whose binary representation has exactly k digits and they're all equal to 1. What 's n1 + n2 + n3 + ? . . + n10? A 2036 B 2048 C 1048 D 1536 E 2064 F 1792
+> For each positive integer k, let nk denote that positive integer whose binary representation has exactly k digits, all of which are equal to 1. What is the value of n1 + n2 + n3 + ... + n10? A 2036 B 2048 C 1048 D 1536 E 2064 F 1792
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2019#q12|src_garaprime_2019__Q12]]
 
 
 
@@ -584,7 +642,7 @@ How to give €10 with 2.1,0.5 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of 4x4 stamps with binding on the segment*
+*Number of 4x4 tilings with a constraint on the segment*
 
 ![[src_garaprime_2019__prob13.png]]
 
@@ -597,9 +655,14 @@ How to give €10 with 2.1,0.5 coins
 \end{document}
 ```
 
-> Find out how many different ways it is possible to completely cover the following grid 4 × 4 with a grid of 1 × 2, with the restriction that the grid cannot be placed on the horizontal segment marked in bold. Figure 2 The bearings may be rotated but not overlapped. A 26 B 12 C 32 D 45 E 30 F 36
+> Find the number of different ways in which the following 4 × 4 grid can be completely covered with 1 × 2 dominoes, subject to the restriction that the dominoes cannot straddle the horizontal segment marked in bold. Figure 2 The dominoes may be rotated but may not overlap. A 26 B 12 C 32 D 45 E 30 F 36
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2019#q13|src_garaprime_2019__Q13]]
 
 
 
@@ -630,11 +693,16 @@ How to give €10 with 2.1,0.5 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (a,b) of 60060 dividers with MCD=6*
+*Pairs (a,b) of divisors of 60060 with GCD=6*
 
-> How many ways can I choose the pair of integers (a, b), with a < b, so that a and b are both divisors of 60060, but what MCD(a, b) = 6? A 121 B 128 C 364 D 60 E 32 F 81
+> In how many ways can I choose the pair of integers (a, b), with a < b, such that both a and b are divisors of 60060 but GCD(a, b) = 6? A 121 B 128 C 364 D 60 E 32 F 81
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2019#q14|src_garaprime_2019__Q14]]
 
 
 
@@ -667,11 +735,16 @@ How to give €10 with 2.1,0.5 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of firsts in the factorization of p(19,18)*
+*Number of primes in the factorization of p(19,18)*
 
-> Given the polynomial p(x, y) = x5 +x4y +x3y2 +x2y3 +xy4 +y5, both n = p(19, 18), i.e. n is the number that is obtained by replacing the values x = 19 and y = 18 in the polynomial. How many different prime numbers do you have in the factorization of n? A 4 B 3 C 5 D 6 E 7 F more than 7
+> Given the polynomial p(x, y) = x5 + x4y + x3y2 + x2y3 + xy4 + y5, let n = p(19, 18), that is, n is the number obtained by substituting x = 19 and y = 18 into the polynomial. How many distinct prime numbers appear in the factorization of n? A 4 B 3 C 5 D 6 E 7 F more than 7
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2019#q15|src_garaprime_2019__Q15]]
 
 
 
@@ -703,11 +776,15 @@ How to give €10 with 2.1,0.5 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of parallel-piped shoulders with 60 cubes*
+*Sum of the edges of the parallelepiped with 60 cubes*
 
-> Little Luca has 60 wooden cubes, all with a 1 cm spike. Using them all, he builds a parallel piped with a total area of 104 cm2. How much is the sum of the lengths of all the tips of the paralelepiped, expressed in centimeters? A 52 B 36 C 56 D 64 E 72 F 80
+> Little Luca has 60 wooden cubes, each with an edge length of 1 cm. Using all of them, he builds a parallelepiped with a total surface area of 104 cm². What is the sum, expressed in centimeters, of the lengths of all the edges of the parallelepiped? A 52 B 36 C 56 D 64 E 72 F 80
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2019#q16|src_garaprime_2019__Q16]]
 
 
 
@@ -738,11 +815,16 @@ How to give €10 with 2.1,0.5 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Divers of n knowing that 30n has 45*
+*Divisors of n, knowing that 30n has 45 divisors*
 
-> Of positive integer n we know that 30n has 45 positive divisors (also counting 1 and 30n). How many positive divisors of n? A 16 B 42 C 36 D 12 E 24 F 32
+> Of the positive integer n, we know that 30n has 45 positive divisors (including 1 and 30n). How many positive divisors does n have? A 16 B 42 C 36 D 12 E 24 F 32
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2019#q17|src_garaprime_2019__Q17]]
 
 
 
@@ -784,10 +866,15 @@ How to give €10 with 2.1,0.5 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum triangle containing 2019 data points for triangles*
+*Minimum triangle containing 2019 data points, the triangles*
 
-> Whether I'm a set of 2019 points in the plane, whose positions we don't know. The only information we have about I is that, however you take the three points A, B and C, the area of the triangle ABC never exceeds 2018 cm2. Consider the statement: There is a triangle containing all I and whose area, expressed in cm2, is λ. Which of the following is the smallest value of λ for which we can be sure that this statement is true? A 8072 B 8073 C 2018 D 2019 E 4035 F 4036 1
-> 
-> Solutions Below you will find the solutions in written form. Some of the solutions in the form of videos will later be published on the YouTube channel: problemisolti.it
+> Let I be a set of 2019 points in the plane, whose positions we do not know. The only information we have about I is that, no matter which three points A, B, and C are chosen from I, the area of triangle ABC never exceeds 2018 cm². Consider the statement: "There exists a triangle that contains all of I and whose area, expressed in cm², is λ." Among the values proposed below, what is the smallest value of λ for which we can be certain that this statement is true? A 8072 B 8073 C 2018 D 2019 E 4035 F 4036 1
+>
+> Solutions Below you will find the solutions in written form. Some solutions in video format will be published later on the YouTube channel: problemisvolti.it
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2019#q18|src_garaprime_2019__Q18]]

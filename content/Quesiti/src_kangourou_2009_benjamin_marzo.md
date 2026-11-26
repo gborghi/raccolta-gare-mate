@@ -34,11 +34,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers between 2,009 and 19,03*
+*How many integers are there between 2.009 and 19.03?*
 
-> How many integers are there between 2,009 and 19,03 ? A) 16 B) 17 C) 14 D) 15 E) More than 17
+> How many integers lie between 2.009 and 19.03?
+> A) 16
+> B) 17
+> C) 14
+> D) 15
+> E) More than 17
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q01|src_kangourou_2009_benjamin_marzo__Q01]]
 
 
 
@@ -85,7 +94,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum squares covered by the ABCD square*
+*Maximum number of small squares covered by square ABCD*
 
 ![[src_kangourou_2009_benjamin_marzo__prob2.png]]
 
@@ -102,9 +111,19 @@ level: kangourou
 \end{document}
 ```
 
-> The largest square in the figure, obtained by placing 9 squares side by side, contains the ABCD square in the given position. This, in turn, covers only one of the nine squares, the central one. What is the maximum number of squares that can be covered by the ABCD square if it is placed appropriately? A) 1 B) 2 C) 3 D) 4 E) 5
+> The largest square in the figure, obtained by placing 9 side by side
+> The small squares contain the square ABCD in the indicated position. This, in turn, covers entirely only one of the 9 small squares—the central one. What is the maximum number of small squares that can be covered by the square ABCD if it is positioned appropriately?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q02|src_kangourou_2009_benjamin_marzo__Q02]]
 
 
 
@@ -135,11 +154,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum number to be deleted for palindrome
+*Minimum number of digits to delete for a palindrome*
 
-> By deleting some digits from the number 12323314, you want to get a number that doesn't change when read from right to left instead of left to right. What is the minimum number of digits you must delete to reach your goal? A) 1 B) 2 C) 3 D) 4 E) 5
+> By deleting some digits from the number 12323314, you want to obtain a number that does not change when read from right to left instead of from left to right. What is the minimum number of digits you need to delete to achieve your goal?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q03|src_kangourou_2009_benjamin_marzo__Q03]]
 
 
 
@@ -172,20 +201,23 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two-digit number with the most toothpicks*
+*A two-digit number with more toothpicks*
 
 ![[src_kangourou_2009_benjamin_marzo__prob4.png]]
 
-> The ten digits in the figure are built by suitably placing toothpicks that are all identical
-> to each other. Among the two-digit numbers, I have built
-> the one that requires the use of the greatest quantity of toothpicks. How many did I use?
+> The ten digits in the figure are formed by arranging identically sized toothpicks appropriately next to one another. Among the two-digit numbers, I have constructed the one that requires the greatest number of toothpicks. How many toothpicks did I use?
 > A) 10
 > B) 11
 > C) 12
 > D) 13
 > E) 14
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q04|src_kangourou_2009_benjamin_marzo__Q04]]
 
 
 
@@ -230,33 +262,26 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter change when placing two E's side by side*
+*Perimeter variation by bringing two Es together*
 
 ![[src_kangourou_2009_benjamin_marzo__prob5.png]]
 
-> The letter "E" that you see in the figure on the left was
-> obtained by placing 11 squares of 1 cm side
-> side by side. By placing two of these identical "E"s as
-> indicated in the figure on the right, you get a new
-> figure. The perimeter of this new figure, compared to that of the letter "E", is
-> A) shorter by 4 cm.
-> B) Shorter by 2 cm.
+> The letter “E” that you see in the figure on the left is
+> It was obtained by placing 11 squares, each 1 cm on a side, side by side. By placing two of these identical "E"s together as shown in the figure on the right, you obtain a new figure. The perimeter of this new figure, compared with that of the letter "E", is
+> A) 4 cm shorter.
+> B) 2 cm shorter.
 > C) equal.
-> D) longer by 2 cm.
-> E) longer by 4 cm.
-> A
-> B
-> C
-> D
-> Testi_09.qxp  15-04-2009  20:25  Page 10
-> 
-> Pag. 
-> Pag. 11
-> 11
-> Kang 2009
-> Kang 2009
+> D) longer than 2 cm.
+> E) longer than 4 cm.
+> A B C D Testi_09.qxp 15-04-2009 20:25 Page 10
+>
+> Pag. Pag. 11 11 Kang 2009 Kang 2009
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q05|src_kangourou_2009_benjamin_marzo__Q05]]
 
 
 
@@ -286,11 +311,21 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First year of success in the 2009 calendar*
+*First year for reusing the 2009 calendar*
 
-> If you keep the 2009 calendar, what's the first year you can reuse it (meaning that each month will start on the same day of the week as 2009)? A) It will no longer be usable B) 2013 C) 2014 D) 2015 E) 2016
+> If you keep the 2009 calendar, what is the first year in which you'll be able to reuse it (meaning that each month will start on the same day of the week on which it started in 2009)?
+> A) It will no longer be usable
+> B) 2013
+> C) 2014
+> D) 2015
+> E) 2016
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q06|src_kangourou_2009_benjamin_marzo__Q06]]
 
 
 
@@ -319,11 +354,20 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of bridge over the banks*
+*Length of the bridge extending beyond the banks*
 
-> A bridge crosses a 120-meter-wide river and overhangs each of the two banks for a quarter of its length. How long is the bridge? A) 150 B) 180 C) 210 D) 240 E) 270
+> A bridge spans a river 120 metres wide and extends beyond each of the two riverbanks by a quarter of its length. How long is the bridge?
+> A) 150
+> B) 180
+> C) 210
+> D) 240
+> E) 270
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q07|src_kangourou_2009_benjamin_marzo__Q07]]
 
 
 
@@ -355,13 +399,22 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of line in bold (squares of 3 measurements)*
+*Bold line length (squares of 3 sizes)*
 
 ![[src_kangourou_2009_benjamin_marzo__prob8.png]]
 
-> The large rectangle in the figure is constructed by placing squares of three different dimensions. The sides of each of the smallest squares measure 20 centimeters. How long is the line highlighted in bold? A) 380 B) 400 C) 420 D) 440 E) 1680
+> The large rectangle in the figure is formed by joining squares of three different sizes. The side of each of the smaller squares measures 20 centimetres. How many centimetres long is the line highlighted in bold?
+> A) 380
+> B) 400
+> C) 420
+> D) 440
+> E) 1680
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q08|src_kangourou_2009_benjamin_marzo__Q08]]
 
 
 
@@ -395,17 +448,19 @@ Minimum number to be deleted for palindrome
 
 *Number of pupils (German/English)*
 
-> In a class, every pupil speaks at least one language among German and English. The
-> pupils who speak German are 15 and so are the pupils who speak
-> English. At least 6 pupils speak both languages. Therefore the number of pupils
-> in that class is
+> In a class, each student speaks at least one of the languages, German or English. There are 15 students who speak German, and the same number speak English. At least 6 students speak both languages. Therefore, the number of students in that class is
 > A) exactly 24.
-> B) at most 24, but it could be less.  
-> C) at least 24, but it could be more.                  
-> D) at most 18, but it could be less.       
-> E) at least 18, but it could be more.
+> B) at most 24, but it could be less.
+> C) at least 24, but it could be higher.
+> D) at most 18, but it could be less.
+> E) at least 18, but it could be higher.
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q09|src_kangourou_2009_benjamin_marzo__Q09]]
 
 
 
@@ -436,11 +491,23 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remainder of the division by 8 of 30!+17*
+*Remainder of 30!+17 divided by 8!*
 
-> Find the remainder of the division by 8 of the number 1 x 2 x 3 x ... x 29 x 30 + 17 A) 1 B) 17 C) 3 D) 7 E) 5 The questions from N. 11 to N. 20 are worth 4 points each.
+> Find the remainder when the number is divided by 8.
+> 1 x 2 x 3 x … x 29 x 30 + 17
+> A) 1
+> B) 17
+> C) 3
+> D) 7
+> E) 5
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q10|src_kangourou_2009_benjamin_marzo__Q10]]
 
 
 
@@ -471,18 +538,22 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which knots cannot be made with a single piece (parity)*
+*What interweavings, not with a single segment (parita)*
 
 ![[src_kangourou_2009_benjamin_marzo__prob11.png]]
 
-> The figure shows five knots of
-> rope. Which of them cannot be
-> made with a single piece of rope?
-> A) All except II      B) Only III, IV and V
-> C) Only I, III and V       D) All
+> The figure shows five interlacings of
+> Rope. Which of them cannot be made with a single length of rope?
+> A) All except II B) Only III, IV, and V
+> C) Only I, III, and V D) All
 > E) None
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q11|src_kangourou_2009_benjamin_marzo__Q11]]
 
 
 
@@ -531,37 +602,26 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the quadrilateral with two right angles*
+*Area of a quadrilateral with two right angles*
 
 ![[src_kangourou_2009_benjamin_marzo__prob12.png]]
 
 > In the quadrilateral ABCD that you see in the figure, the lengths
-> of the sides, in metres, are as follows: l(AB) = 11, l(BC) = 7, 
-> l(CD) = 9, l(DA) = 3. Moreover, the angles at A and at C are right angles.
-> What is, in square metres, the area of the quadrilateral? 
+> The side lengths, in metres, are as follows: l(AB) = 11, l(BC) = 7, l(CD) = 9, l(DA) = 3. Furthermore, the angles at A and C are right angles. What is the area of the quadrilateral, in square metres?
 > A) 30
 > B) 44
 > C) 48
 > D) 52
 > E) 60
-> I
-> II
-> III
-> IV
-> V
-> A
-> D
-> C
-> B
-> Testi_09.qxp  15-04-2009  20:25  Page 11
-> 
-> Pag. 
-> Pag. 12
-> 12
-> Kang 2009
-> Kang 2009
+> I II III IV V A D C B Testi_09.qxp 15-04-2009 20:25 Page 11
+>
+> Pag. Pag. 12 12 Kang 2009 Kang 2009
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q12|src_kangourou_2009_benjamin_marzo__Q12]]
 
 
 
@@ -592,11 +652,20 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of boys and girls at par*
+*How many boys and girls are tied?*
 
-> There are currently 39 boys and 23 girls in a dance school. Starting today, six boys and eight girls will be added each week and in a few weeks the number of girls will be equal to the number of boys. How many boys and girls will be in the group at that time? A) 144 B) 154 C) 164 D) 174 E) 184
+> At a dance school, there are currently 39 boys and 23 girls. Starting today, 6 boys and 8 girls will be added each week, and in a few weeks, the number of girls will equal the number of boys. How many boys and girls will be in the group at that time?
+> A) 144
+> B) 154
+> C) 164
+> D) 174
+> E) 184
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q13|src_kangourou_2009_benjamin_marzo__Q13]]
 
 
 
@@ -629,13 +698,24 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Light grey region area (rectangles overlapping)*
+*Area in light grey (overlapping rectangles)*
 
 ![[src_kangourou_2009_benjamin_marzo__prob14.png]]
 
-> Two rectangles, one 8 x 10 and the other 9 x 12 (measurements are in metres), are partially overlapped as shown in the figure. The area of the dark grey region is 37 m2. What is the area of the region in light grey in square metres? A) 60 B) 62 C) 62,5 D) 64 E) 65 .
+> Two rectangles, one 8 x 10 and the other 9 x 12 (the
+> (Measurements are in metres); they are partially overlapping as indicated in the figure. The area of the dark grey region is 37 m². What is the area of the light grey region, in square metres?
+> A) 60
+> B) 62
+> C) 62,5
+> D) 64
+> E) 65
+> .
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q14|src_kangourou_2009_benjamin_marzo__Q14]]
 
 
 
@@ -669,9 +749,18 @@ Minimum number to be deleted for palindrome
 
 ![[src_kangourou_2009_benjamin_marzo__prob15.png]]
 
-> The figure is formed by joining a square, a rectangle, and an equilateral triangle that all have the same perimeter. The side of the square measures 9 cm. What is the length in centimeters of the shortest side of the rectangle? A) 4 B) 5 C) 6 D) 7 E) 8
+> The figure is formed by joining a square, a rectangle, and an equilateral triangle, all of which have the same perimeter. The side of the square measures 9 cm. What is the length, in centimetres, of the shortest side of the rectangle?
+> A) 4
+> B) 5
+> C) 6
+> D) 7
+> E) 8
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q15|src_kangourou_2009_benjamin_marzo__Q15]]
 
 
 
@@ -704,9 +793,19 @@ Minimum number to be deleted for palindrome
 
 *Minimum number of cubes to fill the box*
 
-> We have a box shaped like a rectangular prism with dimensions, in centimeters, 24 x 24 x 60. We want to fill it completely with indeformable cubes all equal, which we can choose the size of. What's the smallest number of cubes that's enough to accomplish the goal? A) 8 B) 20 C) 60 D) 720 E) 1440
+> We have a rectangular parallelepiped-shaped box measuring 24 x 24 x 60 centimeters. We want to fill it completely with identical, non-deformable cubes, whose size we can choose. What is the smallest number of cubes sufficient to achieve this?
+> A) 8
+> B) 20
+> C) 60
+> D) 720
+> E) 1440
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q16|src_kangourou_2009_benjamin_marzo__Q16]]
 
 
 
@@ -736,11 +835,20 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Days to read the book (4 days, 25 Sundays)*
+*Days to read the book (4/day, 25 Sundays)*
 
-> Carlo needs to read a 290-page book. He has scheduled his assignment as follows: He will read 4 pages every day, except Sunday, when she will always read 25. If he starts reading next Sunday and follows the schedule (so never skipping days), how many days will it take to finish the book? A) 5 B) 46 C) 40 D) 35 E) 41
+> Carlo has to read a 290-page book. He has planned his task as follows: he will read 4 pages each day, except on Sundays, when he will always read 25 pages. If he starts reading next Sunday and sticks to the plan (so never skipping days), how many days will it take him to finish the book?
+> A) 5
+> B) 46
+> C) 40
+> D) 35
+> E) 41
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q17|src_kangourou_2009_benjamin_marzo__Q17]]
 
 
 
@@ -782,29 +890,24 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who won the race (sum of placements)*
+*Who won the competition (sum of placements)*
 
-> Alessia, Bruno, Celestina and Davide classified (not in this order) in the first four places of a race. The sum of the placement numbers
-> obtained by Alessia, Bruno and Davide is 6. Also the sum of the placement numbers obtained by Bruno and Celestina is 6. Who won the race?
-> A) Alessia or Davide, but the information does not allow to establish which of the two.
-> B) Bruno or Celestina, but the information does not allow to establish which of the two.
+> Alessia, Bruno, Celestina, and Davide finished in the top four positions in a race (not in this order). The sum of the finishing positions achieved by Alessia, Bruno, and Davide is 6. The sum of the finishing positions achieved by Bruno and Celestina is also 6. Who won the race?
+> A) Alessia or Davide, but the information does not make it possible to determine which of the two.
+> B) Bruno or Celestina, but the information does not make it possible to determine which of the two.
 > C) Bruno
 > D) Celestina
 > E) Davide
-> 12
-> 9
-> 8
-> 10
-> 9 cm
-> Testi_09.qxp  15-04-2009  20:25  Page 12
-> 
-> Pag. 
-> Pag. 13
-> 13
-> Kang 2009
-> Kang 2009
+> 12 9 8 10 9 cm Testi_09.qxp 15-04-2009 20:25 Page 12
+>
+> Pag. Pag. 13 13 Kang 2009 Kang 2009
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q18|src_kangourou_2009_benjamin_marzo__Q18]]
 
 
 
@@ -836,11 +939,21 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many rectangular surfaces with 2009 tiles*
+*How many rectangular surfaces with 2009 tiles?*
 
-> Henry has 2009 square tiles, all of them equal. Using them all at once, how many different rectangular surfaces can he tile? (Two surfaces shall be considered different only if the length of at least one of the two sides is different.)
+> Enrico has 2009 square tiles, all of which are identical. If he uses all of them each time, how many different rectangular surfaces can he tile? (Two surfaces are to be considered different only if the length of at least one of their two sides is different.)
+> A) 1
+> B) 2
+> C) 3
+> D) 5
+> E) 10
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q19|src_kangourou_2009_benjamin_marzo__Q19]]
 
 
 
@@ -875,11 +988,22 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What number (two out of four true statements)*
+*Which number (two true statements out of four)*
 
-> Consider the following four statements concerning the same positive integer. It's divisible by 5. It's divisible by 11. It's divisible by 55. It's less than 10. You know two of them are true and the other two are false. So that number is A) 1 B) 5 C) 10 D) 11 E) 55 The questions from N. 21 to N. 30 is worth 5 points each.
+> Consider the following four statements about the same positive integer: It is divisible by 5. It is divisible by 11. It is divisible by 55. It is less than 10. You know that two of them are true and the other two are false. Then that number is
+> A) 1
+> B) 5
+> C) 10
+> D) 11
+> E) 55
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q20|src_kangourou_2009_benjamin_marzo__Q20]]
 
 
 
@@ -914,13 +1038,23 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of all numbers on the vertices of the solid*
+*Sum of all the numbers on the vertices of the solid*
 
 ![[src_kangourou_2009_benjamin_marzo__prob21.png]]
 
-> The solid in the figure has six faces, all triangular. Each of its vertices is associated with a number so that the sum of the numbers associated with the three vertices of each face is the same for all faces. The figure shows the numbers associated with two of the vertices. What is the sum of all the numbers used? A) 9 B) 12 C) 17 D) 18 E) 24
+> The solid in the figure has 6 faces, all of which are triangular. A number is assigned to each of its vertices such that, for all the faces, the sum of the numbers assigned to the three vertices of each individual face is the same. The figure shows the numbers assigned to two of the vertices. What is the sum of all the numbers used?
+> A) 9
+> B) 12
+> C) 17
+> D) 18
+> E) 24
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q21|src_kangourou_2009_benjamin_marzo__Q21]]
 
 
 
@@ -951,11 +1085,21 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Certain statement on the cards in the two boxes*
+*Certain assertion regarding the cards in the two boxes*
 
-> Eight cards numbered 1 to 8 are placed in two boxes, X and Y, so that the sum of the numbers shown on the cards is the same in the two boxes. There are three cards in the X box. Then we can say with certainty that A) Three of the cards in box Y have an odd number. B) Four of the cards in box Y have an even number. C) The card with the number 1 is not in the box Y. D) The card with the number 2 is in the box Y. E) The card with the number 5 is in box Y.
+> Eight numbered cards, from 1 to 8, are placed in two boxes, X and Y, such that the sum of the numbers on the cards is the same in both boxes. Box X contains three cards. Then we can state with certainty that
+> A) On three of the cards contained in box Y, an odd number is written.
+> B) On four of the cards contained in box Y, an even number is written.
+> C) The card with number 1 is not in box Y.
+> D) The card with number 2 is in box Y.
+> E) The card with the number 5 is in box Y.
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q22|src_kangourou_2009_benjamin_marzo__Q22]]
 
 
 
@@ -995,16 +1139,18 @@ Minimum number to be deleted for palindrome
 
 *How many times does the digit 2 appear in the room numbers?*
 
-> Hotel rooms are numbered with three-digit numbers: the first digit indicates the floor, and the remaining two digits indicate the room number on that floor. For example, room 124 is room 24 on the first floor. The hotel has 5 floors, numbered from 1 to 5, and each floor has 35 rooms numbered from 01 to 35. How many times is the digit 2 used in numbering all the rooms?
+> The rooms in a hotel are numbered with three-digit numbers: the first digit indicates the floor, and the remaining two digits indicate the room number on that floor. For example, room 124 is room 24 on the first floor. The hotel has 5 floors numbered from 1 to 5, and each floor has 35 rooms numbered from 01 to 35. How many times has the digit 2 been used to number all the rooms?
+> A) 105                B) 100                C) 95               D) 65               E) 60
+> 1 5 Testi_09.qxp 15-04-2009 20:25 Page 13
 >
-> (A) 105                (B) 100                (C) 95               (D) 65               (E) 60
-> 
-> Page
-> Page 14
-> Kang 2009
-> Kang 2009
+> Pag. Pag. 14 14 Kang 2009 Kang 2009
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q23|src_kangourou_2009_benjamin_marzo__Q23]]
 
 
 
@@ -1044,9 +1190,19 @@ Minimum number to be deleted for palindrome
 
 ![[src_kangourou_2009_benjamin_marzo__prob24.png]]
 
-> Look at the figure. ABCD is a square whose side measures 10 cm; the distance between N and M points is 6 cm. Each of the unshaded regions is a right isosceles triangle or a square. The four triangles are equal to each other and so are the four squares. How much is the area of the shaded region in square centimetres? A) 42 B) 46 C) 48 D) 52 E) 58
+> Observe the figure. ABCD is a square whose side
+> The measurement is 10 cm; the distance between points N and M is 6 cm. Each of the unshaded regions is an isosceles right triangle or a square. The four triangles are equal to one another, and so are the four squares. What is the area of the shaded region, in square centimetres?
+> A) 42
+> B) 46
+> C) 48
+> D) 52
+> E) 58
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q24|src_kangourou_2009_benjamin_marzo__Q24]]
 
 
 
@@ -1078,13 +1234,22 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A+B-C value (sum of rows and columns)*
+*Value A+B-C (row and column sums)*
 
 ![[src_kangourou_2009_benjamin_marzo__prob25.png]]
 
-> Look at the figure. The three letters A, B and C represent as many numbers whose sums, for rows and columns, are those indicated (right for rows and bottom for columns). How much is A + B - C ? A) 5 B) 6 C) 7 D) 8 E) 9
+> Observe the figure. The three letters A, B, and C represent three numbers whose row sums and column sums are as indicated (to the right for the rows and at the bottom for the columns). What is the value of A + B - C?
+> A) 5
+> B) 6
+> C) 7
+> D) 8
+> E) 9
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q25|src_kangourou_2009_benjamin_marzo__Q25]]
 
 
 
@@ -1122,13 +1287,27 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial number to reach 2009 (roads)*
+*Starting number to reach 2009 (paths)*
 
 ![[src_kangourou_2009_benjamin_marzo__prob26.png]]
 
-> Think of an integer and put it in box B. Now follow one of the possible paths indicated by the arrows by performing the corresponding operations. If you choose the correct number to start with, will you be able to get to box F with the number 2009? A) Yes, by following any of the three possible paths. B) Yes, following two of the three possible paths and starting with the same number for both. C) Yes, following two of the three possible paths, but starting with two different numbers. D) Yes, but there is only one possible way. E) No.
+> Think of an integer and put it in the
+> Box B. Now follow one of the possible paths indicated by the arrows, performing the corresponding operations. If you choose appropriately the number with which to start, will it be possible for you to reach box F with the number 2009?
+> A) If, following any one of the three paths
+> Possible.
+> B) If, following two of the three possible paths and
+> Starting with the same number for both.
+> C) Yes, by following two of the three possible paths, but starting with two numbers
+> Various.
+> D) Yes, but there is only one possible path.
+> E) No.
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q26|src_kangourou_2009_benjamin_marzo__Q26]]
 
 
 
@@ -1196,13 +1375,26 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total number of balls in a domino set*
+*Total number of dots in a set of dominoes*
 
 ![[src_kangourou_2009_benjamin_marzo__prob27.png]]
 
-> A complete set for the game of dominoes consists of 28 cards all different from each other: each card represents one of the 28 possible combinations of two integers from 0 to 6 (including those in which the number is repeated) and the numbers are indicated by the corresponding amount of balls. What's the total number of balls in a set like this? A) 84 B) 105 C) 126 D) 147 E) 168 A B D N M C A B A 11 B A C 8 B C A 8 10 8 9 B F x 7 x 7 x 7 x 6 x 6 x 7 x 6 x 7 -49 -49
+> A complete set for playing dominoes consists of 28 tiles, all of which are different from one another: each tile represents one of the 28 possible pairings of two whole numbers from 0 to 6 (including those in which the same number appears twice), and the numbers are indicated by the corresponding number of dots. What is the total number of dots in a set of this kind?
+> A) 84
+> B) 105
+> C) 126
+> D) 147
+> E) 168
+> A B D N M C A B A 11 B A C 8 B C A 8 10 8 9 B F x 7 x 7 x 7 x 6 x 6 x 7 x 6 x 7 -49 -49 Testi_09.qxp 15-04-2009 20:25 Page 14
+>
+> Pag. Pag. 15 15 Kang 2009 Kang 2009
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q27|src_kangourou_2009_benjamin_marzo__Q27]]
 
 
 
@@ -1251,13 +1443,29 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary first row numbers (sum/difference table)*
+*Sum of numbers in the first row (sum/difference table)*
 
 ![[src_kangourou_2009_benjamin_marzo__prob28.png]]
 
-> In a 4 x 2 table, two different positive integers are placed in the first row. Each subsequent row contains the sum and difference (larger minus smaller) of the two numbers written in the previous row: respectively, below the smaller the sum is written and below the larger the difference. In an 11 x 2 table constructed in the same way, the numbers in the last row are 64 and 96. What is the sum of the numbers in the first line? A) 4 B) 5 C) 10 D) 40 E) 80 29.In the village of Piedistrani each inhabitant has left foot longer than the right foot: men by two sizes and women by one. The shops, however, are like the rest of the world: they sell paired shoes, a right shoe and a left shoe of the same number. To save money, some of Piedistrani's friends, including an acquaintance of ours, X, whose sex and shoe sizes we know, decide to join together and buy the shoes all together, and then pair them together in the way that suits them. In doing so, each takes two shoes and one of the number 36 and one of the number 45 remain unused. We want to determine the maximum number of friends who might have agreed. This number A) is 8 if X is a male, is 9 if X is a female. B) depends on both sex and number of right shoe of X. C) depends only on the right shoe number of X. D) is 5 anyway. E) is 9 anyway.
+> In a 4 x 2 table, two different positive integers were entered in the first row. Each subsequent row contains the sum and the difference (larger minus smaller) of the two numbers written in the previous row: specifically, the sum is written below the smaller number, and the difference below the larger number. In an 11 x 2 table constructed in the same way, the numbers in the last row are 64 and 96. What is the sum of the numbers in the first row?
+> A) 4
+> B) 5
+> C) 10
+> D) 40
+> E) 80
+> 29. In the country of Piedistrani, every inhabitant has a left foot longer than their right foot: for men, the left foot is two sizes longer, and for women, one size longer. The shops, however, are like those elsewhere in the world: they sell shoes in pairs—one right shoe and one left shoe of the same size. To save money, some friends from Piedistrani, including an acquaintance of ours, X, whose sex and shoe sizes we know, decide to join forces and buy the shoes all together, and then pair them in the way that suits them best. In doing so, each person takes two shoes, and one size-36 shoe and one size-45 shoe are left unused. We want to determine the maximum number of friends who could have agreed on this. This number
+> A) It is 8 if X is male, and 9 if X is female.
+> B) depends on both the sex and the right shoe size of X.
+> C) depends solely on X's right shoe size.
+> D) is 5 in any case.
+> E) It is 9 in any case.
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_backward|Working backwards]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q28|src_kangourou_2009_benjamin_marzo__Q28]]
 
 
 
@@ -1281,11 +1489,16 @@ Minimum number to be deleted for palindrome
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of friends (footwear)
+*Maximum number of friends (Piedistrani shoes)*
 
-> 29. Answer A) If the group is made up of only women, shoes of all numbers from 36 to 45 must have been purchased, and nine pairs were formed with the left shoe of a larger number than the right, so the group is made up of nine people. If there are men in the group, to avoid any further remains, the pairs of shoes of intermediate number between the two different feet of the same male must be excluded. This will allow for a maximum of eight people in the group.
+> 29. Answer A) If the group consists solely of women, shoes in all sizes from 36 to 45 must have been bought, and nine pairs must have been formed in which the left shoe is a larger size than the right shoe; therefore, the group consists of 9 people. If there are men in the group, in order to avoid any further remainders, pairs of shoes whose size is intermediate between the sizes of the two different feet of the same man must be excluded. Thus, at most 8 people can be in the group.
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q29|src_kangourou_2009_benjamin_marzo__Q29]]
 
 
 
@@ -1353,7 +1566,7 @@ Maximum number of friends (footwear)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What colours the shaded cell is in (4 colours)*
+*With which colors is the shaded cell (4 colors)?*
 
 ![[src_kangourou_2009_benjamin_marzo__prob30.png]]
 
@@ -1372,8 +1585,20 @@ Maximum number of friends (footwear)
 \end{document}
 ```
 
-> We want to color the grid cells in the figure using the four different colors X, Y, Z, W, so that two cells that are in contact never receive the same color (two cells are considered to be in contact if they have at least one vertex in common). The figure shows that some colors have already been assigned. What colors can the shaded cell be colored with? A) Only Y. B) Only Z. C) Only W. D) Indifferentemente Z or W. E) It is not possible to achieve colouration. 1 5 6 4 2 10 12 8 X Y Z W Y Y Testi_09.qxp 15-04-2009 20:25 Page 15
-> 
-> 2009 Category Benjamin For first and second year students of lower secondary school
+> We want to color the cells of the grid in the figure.
+> Using four different colors, X, Y, Z, and W, so that two adjacent cells never receive the same color (two cells are considered adjacent if they share at least one vertex). The figure shows that some colors have already been assigned. With which colors can the shaded cell be colored?
+> A) Solo Y.
+> B) Solo Z.
+> C) Solo W.
+> D) Indifferently Z or W.
+> E) It is not possible to carry out the coloring.
+> 1 5 6 4 2 10 12 8 X Y Z W Y Y Testi_09.qxp 15-04-2009 20:25 Page 15
+>
+> 2009 Benjamin Category for first- and second-year lower secondary school students
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_benjamin_marzo#q30|src_kangourou_2009_benjamin_marzo__Q30]]

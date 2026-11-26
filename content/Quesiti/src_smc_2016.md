@@ -35,9 +35,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quante volte appare il numero 9 nel 987654321 × 9?*
+*Quante volte compare la cifra 9 in 987654321 × 9?*
 
-> Quante volte la cifra 9 appare nella risposta a $987\,654\,321 \times 9$?
+> Quante volte compare la cifra 9 nella risposta a $987\,654\,321 \times 9$?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -45,7 +45,11 @@ level: Senior Mathematical Challenge
 > - **(D)** 8
 > - **(E)** 9
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2016#q01|src_smc_2016__Q01]]
 
 
 
@@ -74,9 +78,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il lunedì i prezzi al negozio di Isla sono del 20% superiori al normale, il venerdì del 10% inferiori al normale. James ha comprato un libro lunedì per 5,50 sterline. Qual è il prezzo di venerdì?
+*Lunedì, i prezzi nel negozio di Isla sono il 20% superiori al normale; venerdì, sono il 10% inferiori al normale. Lunedì James ha comprato un libro per 5,50 sterline. Qual è il prezzo venerdì?*
 
-> Un lunedì, tutti i prezzi nel negozio di Isla sono del 20% più alti del normale. Venerdì tutti i prezzi nel negozio di Isla sono del 10% inferiori al normale. James ha comprato un libro lunedì per 5,50 sterline. Quanto costerebbe un'altra copia di questo libro venerdì?
+> Il lunedì, tutti i prezzi nel negozio di Isla sono del 20% più alti del normale. Il venerdì, tutti i prezzi nel negozio di Isla sono del 10% più bassi del normale. Lunedì James ha comprato un libro per 5,50 sterline. Quale sarebbe il prezzo di un'altra copia di questo libro il venerdì?
 >
 > - **(A)** £5.50
 > - **(B)** £5.00
@@ -84,7 +88,11 @@ Il lunedì i prezzi al negozio di Isla sono del 20% superiori al normale, il ven
 > - **(D)** £4.50
 > - **(E)** £4.00
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2016#q02|src_smc_2016__Q02]]
 
 
 
@@ -115,9 +123,9 @@ Il lunedì i prezzi al negozio di Isla sono del 20% superiori al normale, il ven
 <div class="qlang-split" data-lang="it"></div>
 
 
-Un cerchio di raggio 1 ruota senza scivolare intorno all'interno di un quadrato con lati di lunghezza 5. Qual è la distanza del centro?*
+*Un cerchio di raggio 1 rotola senza strisciare lungo l'interno di un quadrato di lato 5. Quale distanza percorre il centro?*
 
-> Il diagramma mostra un cerchio di raggio 1 che ruota senza scivolare intorno all'interno di un quadrato con lati di lunghezza 5. Il cerchio ruota intorno al quadrato, tornando al suo punto di partenza. A che distanza viaggia il centro del cerchio?
+> Il diagramma mostra un cerchio di raggio 1 che rotola senza strisciare lungo l'interno di un quadrato i cui lati misurano 5. Il cerchio rotola attorno al quadrato e torna al punto di partenza. Quale distanza percorre il centro del cerchio?
 >
 > - **(A)** $10 - 2\pi$
 > - **(B)** 12
@@ -127,7 +135,11 @@ Un cerchio di raggio 1 ruota senza scivolare intorno all'interno di un quadrato 
 
 ![[src_smc_2016__q03.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2016#q03|src_smc_2016__Q03]]
 
 
 
@@ -157,9 +169,9 @@ Un cerchio di raggio 1 ruota senza scivolare intorno all'interno di un quadrato 
 <div class="qlang-split" data-lang="it"></div>
 
 
-Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati potrebbe essere un altro angolo di questo triangolo?
+*Alex disegna un triangolo scaleno con un angolo di 80°. Quale degli angoli elencati potrebbe essere un altro angolo di questo triangolo?*
 
-> Alex disegna un triangolo di scalene. Uno degli angoli è $80^\circ$. Quale delle seguenti potrebbe essere uno degli altri angoli del triangolo di Alex?
+> Alex disegna un triangolo scaleno. Uno degli angoli è $80^\circ$. Quale delle seguenti opzioni potrebbe essere uno degli altri angoli del triangolo di Alex?
 >
 > - **(A)** $0^\circ$
 > - **(B)** $60^\circ$
@@ -167,7 +179,12 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 > - **(D)** $100^\circ$
 > - **(E)** $120^\circ$
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2016#q04|src_smc_2016__Q04]]
 
 
 
@@ -199,9 +216,9 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I numeri 2,3,4,5,6 sono posizionati uno per ogni cella in una griglia 3×3 per formare due numeri quadrati a tre cifre. Quale cifra è al centro?*
+*Le cifre 2, 3, 4, 5, 6 vengono collocate, una per cella, in una griglia 3×3 in modo da formare due numeri quadrati di tre cifre. Quale cifra si trova al centro?*
 
-> Tutte le cifre 2, 3, 4, 5 e 6 sono posizionate nella griglia, una in ogni cella, per formare due numeri a tre cifre che sono quadrati. Quale cifra è posta al centro della griglia?
+> Tutte le cifre 2, 3, 4, 5 e 6 vengono inserite nella griglia, una per cella, per formare due numeri di tre cifre che siano quadrati perfetti. Quale cifra viene inserita al centro della griglia?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -211,7 +228,12 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 
 ![[src_smc_2016__q05.png]]
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2016#q05|src_smc_2016__Q05]]
 
 
 
@@ -242,9 +264,9 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrato con BC=3 e triangolo rettangolo ABE con BE=4. Trova l'area della regione ombreggiata ABCF.*
+*Quadrato ABCD con BC=3 e triangolo rettangolo ABE con BE=4. Determinare l'area della regione ombreggiata ABCF.*
 
-> Il diagramma mostra un quadrato $ABCD$ e un triangolo rettangolare $ABE$. La lunghezza di $BC$ è di 3. La lunghezza di $BE$ è di 4. Qual è l'area della regione ombrosa?
+> Il diagramma mostra un quadrato $ABCD$ e un triangolo rettangolo $ABE$. La lunghezza di $BC$ è 3. La lunghezza di $BE$ è 4. Qual è l'area della regione ombreggiata?
 >
 > - **(A)** $5\tfrac{1}{4}$
 > - **(B)** $5\tfrac{2}{3}$
@@ -254,7 +276,11 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 
 ![[src_smc_2016__q06.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2016#q06|src_smc_2016__Q06]]
 
 
 
@@ -283,9 +309,9 @@ Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati 
 <div class="qlang-split" data-lang="it"></div>
 
 
-Quale di 2016^(−1), 2016^(−1/2), 2016^0, 2016^(1/2), 2016^1 ha il valore più piccolo?
+*Quale, tra 2016^(−1), 2016^(−1/2), 2016^0, 2016^(1/2) e 2016^1, ha il valore più piccolo?*
 
-> Quale di queste ha il valore più basso?
+> Quale di questi ha il valore più piccolo?
 >
 > - **(A)** $2016^{-1}$
 > - **(B)** $2016^{-1/2}$
@@ -293,7 +319,11 @@ Quale di 2016^(−1), 2016^(−1/2), 2016^0, 2016^(1/2), 2016^1 ha il valore pi�
 > - **(D)** $2016^{1/2}$
 > - **(E)** $2016^{1}$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2016#q07|src_smc_2016__Q07]]
 
 
 
@@ -325,9 +355,9 @@ Quale di 2016^(−1), 2016^(−1/2), 2016^0, 2016^(1/2), 2016^1 ha il valore pi�
 <div class="qlang-split" data-lang="it"></div>
 
 
-I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare piccoli quadrati e triangoli. Quanti piccoli quadrati quando n=7?*
+*I punti dividono ciascun lato di un quadrato in n parti uguali; uniti tra loro, formano piccoli quadrati e triangoli. Quanti piccoli quadrati ci sono quando n=7?*
 
-> I punti sono disegnati sui lati di un quadrato, dividendo ogni lato in $n$ parti uguali (così, nell'esempio mostrato, $n = 4$). I punti sono uniti nel modo indicato, formando diversi piccoli quadrati (24 nell'esempio mostrato) e alcuni triangoli. Quanti piccoli quadrati si formano quando $n = 7$?
+> Sui lati di un quadrato vengono tracciati dei punti, che dividono ciascun lato in $n$ parti uguali (quindi, nell'esempio mostrato, $n = 4$). I punti vengono uniti nel modo indicato, formando diversi piccoli quadrati (24 nell'esempio mostrato) e alcuni triangoli. Quanti piccoli quadrati si formano quando $n = 7$?
 >
 > - **(A)** 56
 > - **(B)** 84
@@ -337,7 +367,12 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 
 ![[src_smc_2016__q08.png]]
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_smc_2016#q08|src_smc_2016__Q08]]
 
 
 
@@ -369,9 +404,9 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un quadrato ha i vertici in (0,0),(1,0),(1,1),(0,1). Quanti dei cinque grafici elencati passano esattamente per due vertici del quadrato?*
+*Un quadrato ha i vertici in (0,0), (1,0), (1,1), (0,1). Quanti dei cinque grafi elencati passano esattamente per due vertici del quadrato?*
 
-> Un quadrato ha vertici $(0,0)$, $(1,0)$, $(1,1)$ e $(0,1)$. I grafici delle seguenti equazioni sono disegnati sullo stesso insieme di assi come il quadrato: $x^2 + y^2 = 1$, $y = x + 1$, $y = -x^2 + 1$, $y = x$, $y = \dfrac{1}{x}$. Quanti dei grafici passano esattamente attraverso due vertici del quadrato?
+> Un quadrato ha vertici in $(0,0)$, $(1,0)$, $(1,1)$ e $(0,1)$. I grafici delle seguenti equazioni vengono tracciati sullo stesso sistema di assi del quadrato: $x^2 + y^2 = 1$, $y = x + 1$, $y = -x^2 + 1$, $y = x$, $y = \dfrac{1}{x}$. Quanti dei grafici passano esattamente per due vertici del quadrato?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -381,7 +416,12 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 
 ![[src_smc_2016__q09.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2016#q09|src_smc_2016__Q09]]
 
 
 
@@ -413,9 +453,9 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I numeri 19 sono posizionati uno per ogni cella in una griglia 3×3; i prodotti delle righe sono 12, 112, 216. Trova il prodotto delle cifre nelle celle ombrate (seconda colonna, prima e terza fila).*
+*I numeri 1–9 sono collocati, uno per casella, in una griglia 3×3; i prodotti delle righe sono 12, 112, 216. Determinare il prodotto dei numeri presenti nelle caselle ombreggiate (seconda colonna, prime e terza riga).*
 
-> Le cifre da 1 a 9 devono essere scritte una per ogni cella nelle nove celle della griglia $3 \times 3$. Il prodotto delle tre cifre della prima riga è 12. Il prodotto delle tre cifre della seconda riga è 112. Il prodotto delle tre cifre della terza riga è 216. Qual è il prodotto delle cifre nelle celle ombrate?
+> Le cifre da 1 a 9 devono essere scritte una per cella nelle nove celle della griglia $3 \times 3$. Il prodotto delle tre cifre nella prima riga è 12. Il prodotto delle tre cifre nella seconda riga è 112. Il prodotto delle tre cifre nella terza riga è 216. Qual è il prodotto delle cifre nelle celle ombreggiate?
 >
 > - **(A)** 24
 > - **(B)** 30
@@ -425,7 +465,12 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 
 ![[src_smc_2016__q10.png]]
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2016#q10|src_smc_2016__Q10]]
 
 
 
@@ -454,9 +499,9 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In una fila di sei celle, ciascuna cellula interna è uguale alla media dei suoi due vicini. La prima cellula è 10 e l'ultima è 25. Quale numero va nel quadrato segnato X (la terza cella)?*
+*In una riga di sei celle, ciascuna cella interna è uguale alla media delle due celle vicine. La prima cella vale 10 e l'ultima vale 25. Quale numero va inserito nel riquadro contrassegnato con X (la terza cella)?*
 
-> Nella griglia sottostante ciascuno dei quadrati vuoti e il quadrato con la marcatura $X$ devono essere riempiti con la media dei due numeri nei suoi quadrati adiacenti. $\lvert\, 10 \,\rvert\, \ldots \,\rvert\, X \,\rvert\, \ldots \,\rvert\, \ldots \,\rvert\, 25 \,\rvert$ Quale numero deve essere inserito nel quadrato segnato $X$?
+> Nella griglia sottostante, ciascuno dei riquadri vuoti e il riquadro contrassegnato da $X$ devono essere riempiti con la media dei due numeri presenti nei riquadri adiacenti. $\lvert\, 10 \,\rvert\, \ldots \,\rvert\, X \,\rvert\, \ldots \,\rvert\, \ldots \,\rvert\, 25 \,\rvert$ Quale numero dovrebbe essere inserito nel riquadro contrassegnato da $X$?
 >
 > - **(A)** 15
 > - **(B)** 16
@@ -464,7 +509,11 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 > - **(D)** 18
 > - **(E)** 19
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2016#q11|src_smc_2016__Q11]]
 
 
 
@@ -494,9 +543,9 @@ I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare p
 <div class="qlang-split" data-lang="it"></div>
 
 
-Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
+*Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?*
 
-> Qual è il più piccolo quadrato che ha 2016 come fattore?
+> Qual è il più piccolo quadrato che abbia 2016 come fattore?
 >
 > - **(A)** $42^2$
 > - **(B)** $84^2$
@@ -504,7 +553,12 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 > - **(D)** $336^2$
 > - **(E)** $2016^2$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2016#q12|src_smc_2016__Q12]]
 
 
 
@@ -535,9 +589,9 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 <div class="qlang-split" data-lang="it"></div>
 
 
-5 piastrelle quadrate (lenghezza laterale 1) poste fianco a fianco; un quarto di cerchio su ciascuna piastrella forma una curva continua. Qual è la lunghezza totale della curva?*
+*Cinque piastrelle quadrate (lato 1) disposte una accanto all'altra; su ciascuna piastrella un quarto di cerchio forma una curva continua. Qual è la lunghezza totale della curva?*
 
-> Cinque piastrelle quadrate sono messe insieme fianco a fianco. Un quarto di cerchio viene disegnato su ogni piastrella per fare una curva continua, come mostrato. Ognuno dei più piccoli quadrati ha una lunghezza laterale 1. Qual è la lunghezza totale della curva?
+> Cinque tessere quadrate sono disposte una accanto all'altra. Su ciascuna tessera viene disegnato un quarto di cerchio, in modo da formare una curva continua, come mostrato. Ogni uno dei quadrati più piccoli ha il lato lungo 1. Qual è la lunghezza totale della curva?
 >
 > - **(A)** $4\pi$
 > - **(B)** $6.5\pi$
@@ -547,7 +601,11 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 
 ![[src_smc_2016__q13.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2016#q13|src_smc_2016__Q13]]
 
 
 
@@ -577,9 +635,9 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quale numero intero positivo n è un controesempio di: 'se n non è primo allora n − 2 non è primo'?*
+*Quale numero intero positivo n costituisce un controesempio per l'affermazione: "se n non è primo, allora n − 2 non è primo"?*
 
-> Quale dei seguenti valori del numero intero positivo $n$ è un contrasemplare dell'affermazione: "Se $n$ non è primo, allora $n - 2$ non è primo"?
+> Quale dei seguenti valori dell'intero positivo $n$ costituisce un controesempio all'affermazione: "Se $n$ non è primo, allora $n - 2$ non è primo"?
 >
 > - **(A)** 6
 > - **(B)** 11
@@ -587,7 +645,12 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 > - **(D)** 33
 > - **(E)** 51
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2016#q14|src_smc_2016__Q14]]
 
 
 
@@ -618,7 +681,7 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre rettangoli incontrano tre linee rette nei punti P, Q, R con angoli esterni p°, q°, r°. Trova p + q + r.*
+*Tre rettangoli incontrano tre rette nei punti P, Q, R, con angoli esterni p°, q°, r°. Determinare p + q + r.*
 
 > Il diagramma mostra tre rettangoli e tre linee rette. Qual è il valore di $p + q + r$?
 >
@@ -630,7 +693,11 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 
 ![[src_smc_2016__q15.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2016#q15|src_smc_2016__Q15]]
 
 
 
@@ -670,7 +737,12 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 > - **(D)** $\dfrac{3}{2}$
 > - **(E)** $2$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2016#q16|src_smc_2016__Q16]]
 
 
 
@@ -700,9 +772,9 @@ Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
 <div class="qlang-split" data-lang="it"></div>
 
 
-Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine crescente. Quanti codici può scegliere?
+*Aaron sceglie un codice di tre cifre tratte dalle cifre da 1 a 9, tutte diverse e in ordine crescente. Quanti codici può scegliere?*
 
-> Aaron deve scegliere un codice a tre cifre per un blocco. Le cifre possono essere scelte da 1 a 9. Per aiutarlo a ricordarli, Aaron sceglie tre diversi numeri in ordine crescente, ad esempio 278. Quanti codici diversi puo' scegliere Aaron?
+> Aaron deve scegliere un codice di tre cifre per una serratura. Le cifre possono essere scelte tra 1 e 9. Per aiutarsi a ricordarle, Aaron sceglie tre cifre diverse in ordine crescente, ad esempio 278. Quanti codici diversi può scegliere Aaron?
 >
 > - **(A)** 779
 > - **(B)** 504
@@ -710,7 +782,12 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 > - **(D)** 84
 > - **(E)** 9
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2016#q17|src_smc_2016__Q17]]
 
 
 
@@ -741,9 +818,9 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La circonferenza di un cerchio di raggio r è divisa in quattro archi uguali; coppie di archi alternative sono unite per formare una regione ombrata. Qual è l'area della regione ombrata?*
+*La circonferenza di un cerchio di raggio r viene divisa in quattro archi uguali; coppie alternate di archi vengono unite per formare una regione ombreggiata. Qual è l'area della regione ombreggiata?*
 
-> La circonferenza di un cerchio con raggio $r$ è divisa in quattro archi uguali. Due degli archi sono indicati, mostrati in ombra. Qual è l'area della regione ombrosa?
+> La circonferenza di un cerchio di raggio $r$ è divisa in quattro archi uguali. Due degli archi sono indicati e mostrati in grigio. Qual è l'area della regione ombreggiata?
 >
 > - **(A)** 1
 > - **(B)** $\sqrt{2}$
@@ -753,7 +830,11 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 
 ![[src_smc_2016__q18.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2016#q18|src_smc_2016__Q18]]
 
 
 
@@ -783,9 +864,9 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 <div class="qlang-split" data-lang="it"></div>
 
 
-*S è un insieme di cinque diversi integri positivi, il più grande m. Nessun quadrilaterale con superficie non zero ha tutte le lunghezze laterali elementi distinti di S. Trova il minimo possibile m.*
+*S è un insieme di cinque interi positivi distinti, il più grande dei quali è m. Nessun quadrilatero di area non nulla ha tutte le lunghezze dei lati come elementi distinti di S. Determinare il minimo valore possibile di m.*
 
-> $S$ sia un insieme di cinque diversi integri positivi, il più grande dei quali è $m$. È impossibile costruire un quadrilaterale con superficie non zero le cui lunghezze laterali sono tutti elementi distinti di $S$. Qual è il minimo valore possibile di $m$?
+> Sia $S$ un insieme di cinque interi positivi distinti, il cui elemento massimo è $m$. È impossibile costruire un quadrilatero di area non nulla i cui lati siano tutti elementi distinti di $S$. Qual è il valore minimo possibile di $m$?
 >
 > - **(A)** 2
 > - **(B)** 4
@@ -793,7 +874,12 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 > - **(D)** 11
 > - **(E)** 12
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2016#q19|src_smc_2016__Q19]]
 
 
 
@@ -824,9 +910,9 @@ Aaron sceglie un codice a tre cifre dai numeri 19, tutti diversi, in ordine cres
 <div class="qlang-split" data-lang="it"></div>
 
 
-Una piastrella di Marrakech ha una linea di simmetria XY di lunghezza 8 cm; VZ è parallela ai lati della piastrella quadrata. Trova l'area dell'ottagono grigio centrale.*
+*Una piastrella di Marrakech ha una asse di simmetria XY lungo 8 cm; VZ è parallelo ai lati della piastrella quadrata. Determinare l'area dell'ottagono grigio centrale.*
 
-> Michael stava camminando a Marrakech quando vide una piastrella formata da tessellare la piastrella quadrata mostrata. La piastrella ha una linea di simmetria $XY$ e la lunghezza di $XY$ è di 8 cm. Il punto $Z$ è tale che $VZ$ è una linea retta e $VZ$ è parallelo ai lati del quadrato. Qual è l'area dell'ottagono grigio centrale?
+> Michael stava camminando a Marrakech quando vide una piastrellatura ottenuta tessellando la piastrella quadrata mostrata. La piastrella ha un asse di simmetria $XY$ e la lunghezza di $XY$ è di 8 cm. Il punto $Z$ è tale che $VZ$ è una linea retta e $VZ$ è parallelo ai lati del quadrato. Qual è l'area dell'ottagono grigio centrale?
 >
 > - **(A)** $4\text{ cm}^2$
 > - **(B)** $7\text{ cm}^2$
@@ -836,7 +922,11 @@ Una piastrella di Marrakech ha una linea di simmetria XY di lunghezza 8 cm; VZ �
 
 ![[src_smc_2016__q20.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2016#q20|src_smc_2016__Q20]]
 
 
 
@@ -868,9 +958,9 @@ Una piastrella di Marrakech ha una linea di simmetria XY di lunghezza 8 cm; VZ �
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dieci dischi uguali si trovano tra due cerchi concentrici; ogni disco tocca i suoi due vicini e entrambi i cerchi; raggio del cerchio interno 1. Trova il raggio del cerchio esterno.*
+*Dieci dischi uguali giacciono tra due cerchi concentrici; ciascun disco tocca i due dischi vicini e entrambi i cerchi; il raggio del cerchio interno è 1. Determinare il raggio del cerchio esterno.*
 
-> Il diagramma mostra dieci dischi uguali che si trovano tra due cerchi concentrici  un cerchio interno e un cerchio esterno. Ogni disco tocca due dischi vicini e entrambi i cerchi. Il cerchio interno ha raggio 1. Qual è il raggio del cerchio esterno?
+> Il diagramma mostra dieci dischi uguali disposti tra due cerchi concentrici: un cerchio interno e un cerchio esterno. Ogni disco tocca due dischi adiacenti e entrambi i cerchi. Il cerchio interno ha raggio 1. Qual è il raggio del cerchio esterno?
 >
 > - **(A)** $2\tan 36^\circ$
 > - **(B)** $\dfrac{\sin 36^\circ}{1 - \sin 36^\circ}$
@@ -880,7 +970,12 @@ Una piastrella di Marrakech ha una linea di simmetria XY di lunghezza 8 cm; VZ �
 
 ![[src_smc_2016__q21.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2016#q21|src_smc_2016__Q21]]
 
 
 
@@ -910,17 +1005,22 @@ Una piastrella di Marrakech ha una linea di simmetria XY di lunghezza 8 cm; VZ �
 <div class="qlang-split" data-lang="it"></div>
 
 
-Ben, Cam e Dan fanno una dichiarazione su chi dice la verita'. Esattamente uno dei tre mente. Quale dei tre sta mentendo?
+*Ben, Cam e Dan fanno ciascuno un'affermazione su chi sta dicendo la verità. Esattamente uno dei tre mente. Chi dei tre mente?*
 
-> Tre amici fanno le seguenti dichiarazioni. Ben dice: "Esattamente uno di Dan e Cam sta dicendo la verità". Dan dice: "Esattamente uno di Ben e Cam sta dicendo la verità". Cam dice: "Nessuno di Ben né Dan sta dicendo la verità".
+> Tre amici fanno le seguenti affermazioni. Ben dice: "Esattamente uno tra Dan e Cam dice la verità". Dan dice: "Esattamente uno tra Ben e Cam dice la verità". Cam dice: "Né Ben né Dan dicono la verità". Quale dei tre amici sta mentendo?
 >
-> - **(A)** Solo Ben.
-> - **(B)** Solo Cam.
-> - **(C)** Solo Dan.
-> - **(D)** Ognuno di Ben e Cam
-> - **(E)** Ognuno di Ben e Dan
+> - **(A)** Solo Ben
+> - **(B)** Solo Cam
+> - **(C)** Solo Dan
+> - **(D)** Ciascuno di Ben e Cam
+> - **(E)** Ciascuno di Ben e Dan
 
-**Risposta:** B
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2016#q22|src_smc_2016__Q22]]
 
 
 
@@ -949,9 +1049,9 @@ Ben, Cam e Dan fanno una dichiarazione su chi dice la verita'. Esattamente uno d
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il cuboide con lati 22, 2, 10 è contenuto all'interno di una sfera di raggio minimo possibile. Qual è la lunghezza laterale del più piccolo cubo che contiene questa sfera?
+*Un parallelepipedo rettangolo con lati 22, 2, 10 è contenuto in una sfera di raggio minimo possibile. Qual è la lunghezza del lato del cubo più piccolo che contiene questa sfera?*
 
-> Un cuboide ha lati di lunghezza 22, 2 e 10. È contenuta all'interno di una sfera del più piccolo raggio possibile. Qual è la lunghezza laterale del più piccolo cubo che contiene questa sfera?
+> Un parallelepipedo rettangolo ha spigoli di lunghezza 22, 2 e 10. È contenuto in una sfera di raggio minimo possibile. Qual è la lunghezza dello spigolo del cubo più piccolo che contiene questa sfera?
 >
 > - **(A)** 10
 > - **(B)** 11
@@ -959,7 +1059,11 @@ Il cuboide con lati 22, 2, 10 è contenuto all'interno di una sfera di raggio mi
 > - **(D)** 13
 > - **(E)** 14
 
-**Risposta:** E
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2016#q23|src_smc_2016__Q23]]
 
 
 
@@ -990,9 +1094,9 @@ Il cuboide con lati 22, 2, 10 è contenuto all'interno di una sfera di raggio mi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel PQRS quadrato, l'arco QS è un quarto di cerchio con il centro Q. La linea TU è tangente all'arco, con T su QR e U su SR estesa. Trova TR: UR.*
+*Nel quadrilatero PQRS, l'arco QS è un quarto di cerchio avente centro in Q. La retta TU è tangente all'arco, con T su QR e U sulla retta SR prolungata. Determinare TR : UR.*
 
-> Il diagramma mostra un quadrato $PQRS$. L'arco $QS$ è un quarto di cerchio. La linea $TU$ è una tangente all'arco $QS$. Il punto $T$ si trova su $QR$ e il punto $U$ si trova su $SR$ esteso. Qual è la lunghezza di $TR : UR$?
+> Il diagramma mostra un quadrato $PQRS$. L'arco $QS$ è un quarto di cerchio. La retta $TU$ è tangente all'arco $QS$. Il punto $T$ giace su $QR$ e il punto $U$ giace su $SR$ prolungata. Qual è la lunghezza di $TR : UR$?
 >
 > - **(A)** $3:2$
 > - **(B)** $4:3$
@@ -1002,7 +1106,11 @@ Il cuboide con lati 22, 2, 10 è contenuto all'interno di una sfera di raggio mi
 
 ![[src_smc_2016__q24.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2016#q24|src_smc_2016__Q24]]
 
 
 
@@ -1031,9 +1139,9 @@ Il cuboide con lati 22, 2, 10 è contenuto all'interno di una sfera di raggio mi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lasciate che n sia il numero intero più piccolo in modo tale che 7n abbia 2016 cifre. Qual è la cifra di unità di n?*
+*Sia n il più piccolo intero tale che 7n abbia 2016 cifre. Qual è la cifra delle unità di n?*
 
-> $n$ sia il numero intero più piccolo in modo che $7n$ abbia 2016 cifre. Qual è la cifra di unità di $n$?
+> Sia $n$ il più piccolo intero tale che $7n$ abbia 2016 cifre. Qual è la cifra delle unità di $n$?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -1041,4 +1149,8 @@ Il cuboide con lati 22, 2, 10 è contenuto all'interno di una sfera di raggio mi
 > - **(D)** 6
 > - **(E)** 8
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2016#q25|src_smc_2016__Q25]]

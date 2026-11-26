@@ -37,9 +37,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Price of 9 pieces 3_72,98
+*Price for 9 pieces: 3_72.98*
 
-> I bought 9 pieces of the same product, but I don't know what I have to pay because one of the numbers on the payment request sheet is stained and you only see the digits 3 72,98. What's the number under the black spot?
+> (Point 2) I bought 9 items of the same product, but I don't know what I have to pay because one of the figures on the payment request form is smudged, and only the text "3 72,98" is visible. What is the figure under the black smudge?
 >
 > - **(A)** 3
 > - **(B)** 4
@@ -47,7 +47,11 @@ Price of 9 pieces 3_72,98
 > - **(D)** 6
 > - **(E)** 7
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q01|src_kangourou_2017_benjamin_semifinale__Q01]]
 
 
 
@@ -93,7 +97,7 @@ Price of 9 pieces 3_72,98
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of the triangle occupied by the white M*
+*The part of the triangle occupied by the white M*
 
 ![[src_kangourou_2017_benjamin_semifinale__prob2.png]]
 
@@ -109,7 +113,7 @@ Price of 9 pieces 3_72,98
 \end{document}
 ```
 
-> (Points 3) To get the logo in the figure I divided into 4 equal parts one side of an equilateral triangle, then I drew four lines parallel to the other sides passing through the three dividing points, and finally I blacked out the rhombus and the triangles you see in the figure. What fraction of the starting triangle is occupied by the white M?
+> (Point 3) To obtain the logo shown in the figure, I divided one side of an equilateral triangle into 4 equal parts, then drew four lines parallel to the other sides and passing through the three division points, and finally shaded in black the rhombus and the small triangles that you see in the figure. What fraction of the initial triangle is occupied by the white M?
 >
 > - **(A)** 7/11
 > - **(B)** 2/3
@@ -117,7 +121,11 @@ Price of 9 pieces 3_72,98
 > - **(D)** 3/5
 > - **(E)** 5/7
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q02|src_kangourou_2017_benjamin_semifinale__Q02]]
 
 
 
@@ -165,7 +173,7 @@ Price of 9 pieces 3_72,98
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the largest triangle on a 4x4 grid of points*
+*Area of the largest triangle on a 4x4 dot grid*
 
 ![[src_kangourou_2017_benjamin_semifinale__prob3.png]]
 
@@ -182,15 +190,20 @@ Price of 9 pieces 3_72,98
 \end{document}
 ```
 
-> The figure shows a square sheet on which 16 points are drawn, which are vertices of 9 congruent squares with side 1 cm. You can plot various triangles using points as vertices. How many square centimeters is the area of the largest triangle you can trace this way?
+> (Point 3) The figure shows a square sheet on which 16 dots are drawn; these dots are the vertices of 9 congruent small squares, each with a side length of 1 cm. You can draw various triangles using the dots as vertices. How many square centimetres is the area of the largest triangle you can draw in this way?
 >
 > - **(A)** 3
 > - **(B)** 3,5
 > - **(C)** 4
 > - **(D)** 6
-> - **(E)** None of the above measures are correct
+> - **(E)** None of the preceding measures is correct
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q03|src_kangourou_2017_benjamin_semifinale__Q03]]
 
 
 
@@ -223,15 +236,25 @@ Price of 9 pieces 3_72,98
 <div class="qlang-split" data-lang="en"></div>
 
 
-The largest and smallest of A,B,C by implications
+*The largest and the smallest among A, B, C from implications*
 
-> (Points 4) Three numbers A, B and C have the following information:
-> 	
-> - if A is not the largest of the three, then the largest is C;
-> 	
-> - if C is not the smallest of the three, then the largest is B. What are the largest and smallest in order? (A) B and C                    	 (B) A and C (C) C and B (D) B and A (E) A and B
+> (Point 4) For three numbers A, B, and C, the following information is available:
+>
+> - If A is not the largest of the three, then C is the largest;
+>
+> - If C is not the smallest of the three, then B is the largest.
+> In order, which one is the largest and which one is the smallest?
+> (A) B e C                    	 (B) A e C               	
+> (C) C e B               	
+> (D) B e A                 	
+> (E) A e B
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q04|src_kangourou_2017_benjamin_semifinale__Q04]]
 
 
 
@@ -284,40 +307,25 @@ The largest and smallest of A,B,C by implications
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Collections of stickers obtainable in the game JUMP*
+*Collections of stickers obtainable in the JUMP game*
 
-> (Points 4) In the board game JUMP each player starts from the square labeled START and on each move
-> can jump one or two squares, always moving forward, and with the last jump must land exactly
-> on the square END, otherwise they lose. In each square there is a sticker and the player collects all the stickers
-> on which they land.
-> START
-> a
-> n
-> n
-> s
-> s
-> s
-> a
-> s
-> n
-> n
-> a
-> END
-> Among the following collections of stickers, which ones can they obtain?
+> (Point 4) In the board game JUMP, each player starts on the square marked START, and on each move can jump one or two squares, always moving forward; with the final jump, they must land exactly on the FINISH square—otherwise, they lose. Each square has a token on it, and the player collects all the tokens they land on. START a n n s s s a s n n a FINISH Which of the following collections of tokens can they obtain?
 >
-> (1) n n s s s         	 (2) a n n s
-> (3)  n n s
+> (1) n n s s s (2) a n n s (3) n n s
 >
-> (4) a a n s
-> (5) n n s s
-> (Note: the stickers in the collections are not ordered according to the order in which they are collected.)
+> (4) a a n s (5) n n s s (Attention: the stickers in the collections are not arranged in the order in which they are collected.)
 >
 > - **(A)** Only 1 and 3
 > - **(B)** Only 2 and 5
-> - **(C)** Only 1, 4 and 5
+> - **(C)** Only 1, 4, and 5
 > - **(D)** All except 4 (E) All
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q05|src_kangourou_2017_benjamin_semifinale__Q05]]
 
 
 
@@ -350,9 +358,9 @@ The largest and smallest of A,B,C by implications
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ways of inserting 1..5 with chain of inequalities*
+*Ways of inserting 1..5 with a chain of inequalities*
 
-> (Points 4) You want to insert in each of the spaces marked by the dots one of the numbers 1, 2, 3, 4, 5 so that each number is used only once and that the inequalities: ... < ... > ... < ... < .... are all true. How many ways can you do that?
+> (Point 4) You want to put one of the numbers 1, 2, 3, 4, 5 into each of the spaces indicated by dots so that each number is used exactly once and the inequalities: … < … > … < … < … are all true. In how many ways can you do this?
 >
 > - **(A)** 1
 > - **(B)** 3
@@ -360,7 +368,12 @@ The largest and smallest of A,B,C by implications
 > - **(D)** 9
 > - **(E)** 15
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q06|src_kangourou_2017_benjamin_semifinale__Q06]]
 
 
 
@@ -392,9 +405,9 @@ The largest and smallest of A,B,C by implications
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many times does Daria overtake Baldo on the track?
+*How many times does Daria overtake Baldo on the track?*
 
-> Grandfather Baldo and his granddaughter Daria run in the same direction for 10 km on a 400 m long track, starting at the same moment from the same point. Both run at a constant speed; while Daria runs 20 m, Baldo runs 17. How many times during the race does Daria overtake Baldo?
+> (Point 5) Grandfather Baldo and his granddaughter Daria run in the same direction for 10 km on a 400-m track, starting at the same instant from the same point. Throughout the run, both move at a constant speed; while Daria covers 20 m, Baldo covers 17 m. How many times during the run does Daria overtake Baldo?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -402,7 +415,11 @@ How many times does Daria overtake Baldo on the track?
 > - **(D)** 4
 > - **(E)** 5
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q07|src_kangourou_2017_benjamin_semifinale__Q07]]
 
 
 
@@ -440,19 +457,23 @@ How many times does Daria overtake Baldo on the track?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Image of the cube not consistent with the others*
+*The image of the cube is inconsistent with the others*
 
 ![[src_kangourou_2017_benjamin_semifinale__prob8.png]]
 
-> (5 points) Rita covered each of the six faces of a cube with cards of different colors. Which of the images next to it is not in agreement with the other three and therefore certainly does not represent the cube covered by Rita?
+> (Point 5) Rita covered each of the six faces of a cube with cards all of different colors. Which of the images alongside does not match the other three and therefore certainly does not represent the cube covered by Rita?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
-> - **(E)** None of them
+> - **(E)** None
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q08|src_kangourou_2017_benjamin_semifinale__Q08]]
 
 
 
@@ -485,9 +506,9 @@ How many times does Daria overtake Baldo on the track?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum trains for the weekly train service*
+*Minimum trains for the weekly rail service*
 
-> (Points 6) Two cities A and B (which are within the same time zone) are connected by rail. The train journey between the two cities takes five hours. Every day, trains depart from A to B every hour from 6:00 to 18:00 inclusive; depart from B to A every hour from 6:30 to 18:30 inclusive. Suppose trains are always on time and without failures: what is the minimum number of trains that makes it possible to run the weekly service?
+> (Point 6) Two cities, A and B (which are in the same time zone), are connected by a railway line. The train journey between the two cities takes 5 hours. Every day, trains depart from A to B every hour from 6:00 to 18:00 inclusive; trains depart from B to A every hour from 6:30 to 18:30 inclusive. Suppose the trains are always on schedule and never break down: what is the minimum number of trains required to make the weekly service possible?
 >
 > - **(A)** 26
 > - **(B)** 13
@@ -495,7 +516,11 @@ How many times does Daria overtake Baldo on the track?
 > - **(D)** 24
 > - **(E)** 11 Open-ended questions
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q09|src_kangourou_2017_benjamin_semifinale__Q09]]
 
 
 
@@ -521,11 +546,15 @@ How many times does Daria overtake Baldo on the track?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Tickets sold together with number 374 (650 tickets)
+*Ticket sold together with number 374 (650 tickets)*
 
-> Charles decided to sell the lottery tickets in pairs for a charity. It has 650 tickets numbered from 1 to 650 and sells the first ticket (the one with the number 1) together with the last one (the one with the number 650), the second one with the penultimate one and so on. What's the number of the ticket that Charles sells along with the number 374 ticket?
+> (Point 4) Carlo has decided to sell the tickets for a charity lottery in pairs. He has 650 numbered tickets, from 1 to 650, and he sells the first ticket (the one numbered 1) together with the last one (the one numbered 650), the second with the second-to-last, and so on. What is the number of the ticket that Carlo sells together with ticket number 374?
 
-**Answer:** 277
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q10|src_kangourou_2017_benjamin_semifinale__Q10]]
 
 
 
@@ -551,11 +580,16 @@ Tickets sold together with number 374 (650 tickets)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Small spicy two-digit number*
+*The smaller spicy two-digit number*
 
-> (Points 5) We call a two-digit number spicy if it is the sum of the sum of its digits and the product of its digits. For example, 89 is a spicy number because 89 = (8 + 9) + (8×9) = 17 + 72. What's the smallest spicy number?
+> (Points 5) We call a two-digit number "spicy" if it equals the sum of the sum of its digits and the product of its digits. For example, 89 is a spicy number because 89 = (8 + 9) + (8×9) = 17 + 72. What is the smallest spicy number?
 
-**Answer:** 19
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q11|src_kangourou_2017_benjamin_semifinale__Q11]]
 
 
 
@@ -579,11 +613,16 @@ Tickets sold together with number 374 (650 tickets)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural sum with remainder equal to quotient divided by 6*
+*Sums of natural numbers whose remainder equals the quotient divided by 6*
 
-> (Points 5) What is the sum of all the natural numbers that divided by 6 give a remainder equal to the quotient?
+> (Point 5) What is the sum of all natural numbers that, when divided by 6, leave a remainder equal to the quotient?
 
-**Answer:** 105
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q12|src_kangourou_2017_benjamin_semifinale__Q12]]
 
 
 
@@ -608,12 +647,15 @@ Tickets sold together with number 374 (650 tickets)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*return one fifth slower*
+*A return one-fifth slower*
 
-> (6 points) Stefania leaves home on foot to visit a friend in a nearby city, stays with her 
-> for an hour and returns home. Because of tiredness, on the return trip in every hour of walking she covers a distance less by one 
-> fifth than the one covered in an hour of walking on the way there. In this way, returning home she takes overall 
-> one hour more than on the way there. For how many hours was she away from home?
+> (Question 6) Stefania leaves home on foot to visit a friend in a nearby town; she stays with her friend for an hour and then returns home. Because she is tired, on the way back she covers, for each hour of walking, a distance that is one fifth less than the distance she covered in one hour of walking on the way there. In this way, on her way back home she takes a total of one hour longer than she did on the way there. For how many hours was she away from home?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q13|src_kangourou_2017_benjamin_semifinale__Q13]]
 
 
 
@@ -638,9 +680,16 @@ Tickets sold together with number 374 (650 tickets)
 <div class="qlang-split" data-lang="en"></div>
 
 
-4 children, 2 fathers, 2 uncles and nephews
+*4 children, 2 fathers, 2 uncles with a nephew/niece*
 
-> (Points 6) In one room there are exactly four children, each with their father, exactly two fathers and exactly two uncles each with a nephew. What's the smallest number of people in the room that this could happen to?
+> (Point 6) In a room, there are exactly four children, each with their own father, exactly two fathers, and exactly two uncles, each with a nephew. What is the smallest number of people in the room for which this could happen?
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q14|src_kangourou_2017_benjamin_semifinale__Q14]]
 
 
 
@@ -665,11 +714,16 @@ Tickets sold together with number 374 (650 tickets)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest integer that multiplied by 2017,316 gives an integer*
+*The smallest integer which, when multiplied by 2017.316, yields an integer*
 
-> The March competition took place on 16-3-2017. What is the smallest positive integer that multiplied by the (non-integer) number 2017,316 gives an integer?
+> (Point 6) The March competition took place on 16-3-2017. What is the smallest positive integer that, when multiplied by the (non-integer) number 2017.316, yields an integer?
 
-**Answer:** 250
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q15|src_kangourou_2017_benjamin_semifinale__Q15]]
 
 
 
@@ -695,9 +749,15 @@ Tickets sold together with number 374 (650 tickets)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubes of each cube built by Paola and Giovanna*
+*Cubes from each cube built by Paola and Giovanna*
 
-> (Points 7) Pietro, Paola and Giovanna have a total of 2017 cubes, all of the same size. Putting together more than half of them, Pietro constructed a large cube and said to Paola and Giovanna: 'I could have built a larger cube but this way, using all and only the remaining cubes, you can construct a cube each and your two cubes will be of the same size”. How many cubes will each of the two cubes be made of?
+> (Point 7) Pietro, Paola, and Giovanna have a total of 2017 cubes, all of the same size. By joining more than half of them together, Pietro built a large cube and said to Paola and Giovanna, "I could have built a larger cube, but in this way—using all and only the cubes that remain—you can each build a cube, and your two cubes will be the same size." How many cubes will each of the two cubes consist of?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q16|src_kangourou_2017_benjamin_semifinale__Q16]]
 
 
 
@@ -722,9 +782,16 @@ Tickets sold together with number 374 (650 tickets)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First four digits of the multiple sequence of 17 or 23*
+*First four digits of the sequence of multiples of 17 or 23*
 
-> (Points 7) A sequence of 2017 digits is such that any number of two digits that can be obtained by placing two consecutive digits side by side of the sequence (in the order in which they appear) is a multiple of 17 or 23. The last digit of the sequence is 1. What are the first four digits of the sequence?
+> (Question 7) A sequence of 2017 digits is such that every two-digit number obtainable by placing two consecutive digits of the sequence side by side (in the order in which they appear) is a multiple of 17 or of 23. The last digit of the sequence is 1. What are the first four digits of the sequence?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q17|src_kangourou_2017_benjamin_semifinale__Q17]]
 
 
 
@@ -784,45 +851,14 @@ Tickets sold together with number 374 (650 tickets)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of pool inlets given filling times*
+*Number of pool ducts, given filling times*
 
-> (Points 8) A swimming pool is fed by various pipes. If, with the pool empty, all are opened, the pool
-> fills in one hour. If, with the pool empty, all are opened and after 10 minutes 10 of them are closed, to
-> fill the pool takes 10 more minutes. How many pipes is the pool equipped with?
-> 1
-> 2
-> 3
-> 4
-> 
-> Question N.
-> score
-> 2
-> 3
-> 3
-> 4
-> 4
-> 4
-> 5
-> 5
-> 6
-> 4
-> 5
-> 5
-> 6
-> 6
-> 6
-> 7
-> 7
-> 8
-> answer
-> 0277
-> 0019
-> 0105
-> 0010
-> 0005
-> 0250
-> 0343
-> 2346
-> 0060
+> (Point 8) A swimming pool is fed by several pipes. If, when the pool is empty, all the pipes are opened, the pool fills in one hour. If, when the pool is empty, all the pipes are opened and 10 pipes are closed after 10 minutes, it takes 10 more minutes to fill the pool. How many pipes does the pool have? 1 2 3 4
+>
+> Question No. score 2 3 3 4 4 4 5 5 6 4 5 5 6 6 6 7 7 8 answer 0277 0019 0105 0010 0005 0250 0343 2346 0060
 
-**Answer:** 60
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_benjamin_semifinale#q18|src_kangourou_2017_benjamin_semifinale__Q18]]

@@ -24,19 +24,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0097
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum integer part of n^(1/log97 n)*
+*What is the minimum value of the integer part of the expression n^(1/log₉₇ n), as n varies over three-digit positive integers?*
 
 ![[src_squadre_2017_roma__prob1.png]]
 
-> What is the minimum value of the integer part of the expression n^(1/log\_(97) n), as n varies among the 3-digit positive integers?
+> What is the minimum value of the integer part of the expression n^(1/log_(97) n), as n varies over three-digit positive integers?
 
-**Answer:** 0097
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2017_roma#q01|src_squadre_2017_roma__Q01]]
 
 
 
@@ -55,19 +58,19 @@ level: squadre
 > Che base sta usando Luca?
 
 **Risposta:** 0040
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Luca's base where 5 · 19 = 65*
+*In the algebra assignment, at a certain point Luca writes 5 · 19 = 65, which is obviously…*
 
 ![[src_squadre_2017_roma__prob2.png]]
 
-> In his algebra test, at a certain point Luca writes 5 · 19 = 65, which is obviously wrong if the numbers are meant in base 10. However, Luca maintains that everything he wrote is correct, because he is not using base 10 but a different base. Which base is Luca using?
+> In the algebra assignment, at a certain point Luca writes 5 · 19 = 65, which is obviously wrong if the numbers are understood in base 10. However, Luca maintains that everything he has written is correct, because he is not using base 10 as the base—he is using a different base. What base is Luca using?
 
-**Answer:** 0040
+[[Quesiti/src_squadre_2017_roma#q02|src_squadre_2017_roma__Q02]]
 
 
 
@@ -87,19 +90,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0010
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubic with roots α and −α: find B*
+*For the cubic polynomial p(x) = 15x^3 + Bx^2 − 36x − 24, we do not know the co…*
 
 ![[src_squadre_2017_roma__prob3.png]]
 
-> Of the third-degree polynomial p(x) = 15x^3 + Bx^2 − 36x − 24 we do not know the coefficient B, but we know there is a number α > 0 such that both α and −α are solutions of the equation p(x) = 0. What is B?
+> For the cubic polynomial p(x) = 15x^3 + Bx^2 − 36x − 24, we do not know the coefficient B, but we know that there exists a number α > 0 such that both α and −α are solutions of the equation p(x) = 0. What is the value of B?
 
-**Answer:** 0010
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2017_roma#q03|src_squadre_2017_roma__Q03]]
 
 
 
@@ -120,19 +126,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 8744
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Q(x) = p(p(p(x))) = x^8 + 12x^7 + 76x^6 + …*
+*Of the polynomial Q(x), we know that it is of the form Q(x) = x^8 + 12x^7 + 76x^6 + termi…*
 
 ![[src_squadre_2017_roma__prob4.png]]
 
-> Of the polynomial Q(x) we know that it has the form Q(x) = x^8 + 12x^7 + 76x^6 + terms of lower degree and that it was obtained by computing p(p(p(x))) from another polynomial p(x), which is not known. Find the sum of the coefficients of Q(x).
+> Of the polynomial Q(x), we know that it is of the form Q(x) = x^8 + 12x^7 + 76x^6 + terms of lower degree and that it was obtained by computing p(p(p(x))) starting from another polynomial p(x) that is unknown. Find the sum of the coefficients of Q(x).
 
-**Answer:** 8744
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2017_roma#q04|src_squadre_2017_roma__Q04]]
 
 
 
@@ -152,19 +161,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0300
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Convex hexagon with two equal parallelograms*
+*Of the convex hexagon ABCDEF, we know that the diagonal AD divides it into two parts…*
 
 ![[src_squadre_2017_roma__prob5.png]]
 
-> Of the convex hexagon ABCDEF we know that the diagonal AD divides it into two parts of areas 360 and 675, while the diagonal BE meets AD at the point O in such a way that OBCD and AOEF are parallelograms. Knowing that OBCD and AOEF have the same area, say what this area is.
+> Of the convex hexagon ABCDEF, we know that the diagonal AD divides it into two parts with areas 360 and 675, while the diagonal BE intersects AD at point O such that OBCD and AOEF are parallelograms. Given that OBCD and AOEF have the same area, state what that area is.
 
-**Answer:** 0300
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2017_roma#q05|src_squadre_2017_roma__Q05]]
 
 
 
@@ -180,19 +192,19 @@ level: squadre
 > Calcolare la somma di tutti i quadrati perfetti che dividono 9!.
 
 **Risposta:** 7735
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of perfect squares dividing 9!*
+*Calculate the sum of all perfect squares that divide 9!.*
 
 ![[src_squadre_2017_roma__prob6.png]]
 
-> Compute the sum of all perfect squares dividing 9!.
+> Calculate the sum of all perfect squares that divide 9!.
 
-**Answer:** 7735
+[[Quesiti/src_squadre_2017_roma#q06|src_squadre_2017_roma__Q06]]
 
 
 
@@ -210,19 +222,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0896
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2017 ones in binary, modulo 1025*
+*Let n be the number whose binary representation is 111…111 (2017 ones). What remainder is obtained when n is divided by 1025?*
 
 ![[src_squadre_2017_roma__prob7.png]]
 
-> Let n be the number whose binary representation is 111 . . . 111 (2017 ones). What remainder is obtained by dividing n by 1025?
+> Let n be the number whose binary representation is 111...111 (2017 ones). What remainder is obtained when n is divided by 1025?
 
-**Answer:** 0896
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2017_roma#q07|src_squadre_2017_roma__Q07]]
 
 
 
@@ -242,19 +257,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6341
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The hundredth odd permutation of 123456*
+*The 720 numbers obtained by permuting the 6 digits 1, 2, 3, 4, 5, 6 are arrange…*
 
 ![[src_squadre_2017_roma__prob8.png]]
 
-> The 720 numbers obtained by permuting the 6 digits 1, 2, 3, 4, 5, 6 are arranged in increasing order. What is the hundredth odd number in this order? (Give as the answer its four lowest digits, that is, thousands, hundreds, tens and units)
+> The 720 numbers obtained by permuting the six digits 1, 2, 3, 4, 5, 6 are arranged in ascending order. What is the hundredth odd number in this order? (As the answer, give its four lowest digits, namely the thousands, hundreds, tens, and units digits.)
 
-**Answer:** 6341
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2017_roma#q08|src_squadre_2017_roma__Q08]]
 
 
 
@@ -274,19 +292,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0168
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle 9-10-11: ratio AG/GD*
+*Triangle ABC has sides AB = 9, BC = 10, and CA = 11. Let D be the foot of the altitude…*
 
 ![[src_squadre_2017_roma__prob9.png]]
 
-> Triangle ABC has sides AB = 9, BC = 10 and CA = 11. Let D be the foot of the altitude from A to BC and let E and F be the feet of the perpendiculars from D to AB and AC respectively. Finally let G be the intersection of AD and EF. The ratio AG/GD is a fraction in lowest terms a/b. Give as the answer to the problem the product a · b.
+> Triangle ABC has sides AB = 9, BC = 10, and CA = 11. Let D be the foot of the altitude drawn from A to BC, and let E and F be the feet of the perpendiculars drawn from D to AB and AC, respectively. Finally, let G be the intersection of AD and EF. The ratio AG/GD is a fraction reduced to lowest terms, a/b. As the answer to the problem, provide the product a · b.
 
-**Answer:** 0168
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2017_roma#q09|src_squadre_2017_roma__Q09]]
 
 
 
@@ -304,19 +325,19 @@ level: squadre
 > e N sono le età (nella giornata di ieri) rispettivamente di Mario e del nonno, quanto vale M · 100 + N?
 
 **Risposta:** 1985
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grandfather's birthday cheques*
+*Yesterday Mario had his birthday, and at his party he told how his grandfather at…*
 
 ![[src_squadre_2017_roma__prob10.png]]
 
-> Yesterday was Mario's birthday, and at his party he told everyone that on every birthday his grandfather gives him a cheque for an amount in euros equal to the product of their ages. The last five cheques total 7065 euros. If M and N are the ages (yesterday) of Mario and of his grandfather respectively, what is M · 100 + N?
+> Yesterday, Mario had his birthday, and at his party he said that his grandfather gives him a cheque on every birthday, with an amount in euros equal to the product of their ages. The last five cheques add up to a total of 7065 euros. If M and N are Mario's and his grandfather's ages (on yesterday's date), respectively, what is the value of M · 100 + N?
 
-**Answer:** 1985
+[[Quesiti/src_squadre_2017_roma#q10|src_squadre_2017_roma__Q10]]
 
 
 
@@ -334,21 +355,19 @@ level: squadre
 > Qual è il valore minimo che può assumere la somma m + n?
 
 **Risposta:** 8068
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum m + n with 2016/2017 < m/n < 2017/2018*
+*Let m and n be two positive numbers such that 2016/2017 < m/n < 2017/2018. What is the minimum value that the sum m + n can take?*
 
 ![[src_squadre_2017_roma__prob11.png]]
 
-> Let m and n be two positive numbers such that
-> 2016/2017 < m/n < 2017/2018.
-> What is the minimum value the sum m + n can take?
+> Let m and n be two positive numbers such that 2016/2017 < m/n < 2017/2018. What is the minimum value that the sum m + n can take?
 
-**Answer:** 8068
+[[Quesiti/src_squadre_2017_roma#q11|src_squadre_2017_roma__Q11]]
 
 
 
@@ -368,19 +387,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0450
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*gcd + lcm + m + n = 90: maximum product*
+*Two positive integers n and m satisfy the relation GCD(m, n) + LCM(m, n) +…*
 
 ![[src_squadre_2017_roma__prob12.png]]
 
-> Two positive integers n and m satisfy the relation gcd(m, n) + lcm(m, n) + m + n = 90. At most, what is the product m · n?
+> Two positive integers n and m satisfy the relation GCD(m, n) + LCM(m, n) + m + n = 90. What is the maximum possible value of the product m · n?
 
-**Answer:** 0450
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2017_roma#q12|src_squadre_2017_roma__Q12]]
 
 
 
@@ -402,19 +424,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1072
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle circumscribed about an ellipse: perimeter*
+*Triangle ABC is circumscribed about an ellipse γ that is tangent to side AB at P,…*
 
 ![[src_squadre_2017_roma__prob13.png]]
 
-> A triangle ABC is circumscribed about an ellipse γ, which is tangent to side AB at P, to side BC at Q and to side AC at R. We also know that AR = 112, AP = 160, BP = 192, BQ = 144 and CQ = 240. What is the perimeter of ABC? (If you think the data are insufficient to determine the answer uniquely, give 0 as the answer; if instead you think they are mutually incompatible, give 9999 as the answer)
+> Triangle ABC is circumscribed about an ellipse γ that is tangent to side AB at P, to side BC at Q, and to side AC at R. We also know that AR = 112, AP = 160, BP = 192, BQ = 144, and CQ = 240. What is the perimeter of ABC? (If you believe the given data are insufficient to determine the answer uniquely, give 0 as the answer; if, on the other hand, you believe the data are mutually inconsistent, give 9999 as the answer.)
 
-**Answer:** 1072
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2017_roma#q13|src_squadre_2017_roma__Q13]]
 
 
 
@@ -435,19 +460,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0031
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Monic cubic with p(n) = 2017*
+*Let p(x) be a polynomial of the form p(x) = x^3 + ax^2 + bx + c such that the equation p…*
 
 ![[src_squadre_2017_roma__prob14.png]]
 
-> Let p(x) be a polynomial of the form p(x) = x^3 + ax^2 + bx + c such that the equation p(x) = −4 has 3 distinct integer solutions with sum 2. If moreover there is a positive integer n such that p(n) = 2017, say what n is. (If you think such an n cannot exist, give 0 as the answer; if instead the information is not enough to identify n uniquely, give 9999 as the answer)
+> Let p(x) be a polynomial of the form p(x) = x^3 + ax^2 + bx + c such that the equation p(x) = −4 has 3 distinct integer solutions whose sum is 2. Furthermore, suppose there exists a positive integer n such that p(n) = 2017; state the value of n. (If you believe that such an n cannot exist, give 0 as the answer; if, on the other hand, the information is insufficient to uniquely determine n, give 9999 as the answer.)
 
-**Answer:** 0031
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2017_roma#q14|src_squadre_2017_roma__Q14]]
 
 
 
@@ -466,19 +494,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1092
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Locus where three triangle areas sum to at most thrice ABC*
+*Let a triangle ABC be given in the plane, with sides AB = 13, BC = 14, and CA = 15. Let S i…*
 
 ![[src_squadre_2017_roma__prob15.png]]
 
-> In the plane, let ABC be a triangle with sides AB = 13, BC = 14 and CA = 15. Let S be the locus of the points P of the plane such that the sum of the areas of triangles APB, BPC and CPA does not exceed three times the area of ABC. What is the area of S?
+> Let triangle ABC be given in the plane, with sides AB = 13, BC = 14, and CA = 15. Let S be the locus of points P in the plane such that the sum of the areas of triangles APB, BPC, and CPA does not exceed three times the area of ABC. What is the area of S?
 
-**Answer:** 1092
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2017_roma#q15|src_squadre_2017_roma__Q15]]
 
 
 
@@ -501,19 +532,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 2000
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mamma and Bimbo on the tetrahedral asteroid Kenoncè*
+*ASI (Italian Space Agency) is about to land an autonomous probe…*
 
 ![[src_squadre_2017_roma__prob16.png]]
 
-> ASI (the Italian Space Agency) is about to land an automatic probe on the asteroid Kenoncè, a strange asteroid shaped like a regular tetrahedron with edge 1000 km. The probe consists of a fixed part (= Mamma) and a small electric robot vehicle (= Bimbo) that detaches from Mamma to explore the asteroid: Mamma has solar panels and acts as a charging station for Bimbo, which periodically returns to Mamma to recharge. What must be, in kilometres, the minimum range of Bimbo, if we want there to be a point of the surface of the planet such that, placing Mamma there, Bimbo can reach any other point of the surface and then return to Mamma before running out of charge.
+> ASI (Italian Space Agency) is about to land an autonomous probe on the asteroid Kenoncè, a strange asteroid shaped like a regular tetrahedron with an edge length of 1000 km. The probe consists of a fixed part (=Mamma) and a small electric robotic vehicle (=Bimbo), which detaches from Mamma to explore the asteroid: Mamma is equipped with solar panels and serves as a charging station for Bimbo, which periodically returns to Mamma to recharge. Expressed in kilometres, what must be the minimum range of Bimbo if one wants there to be a point on the surface of the asteroid such that, by placing Mamma at that point, Bimbo can reach any other point on the surface and then return to Mamma before running out of power?
 
-**Answer:** 2000
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2017_roma#q16|src_squadre_2017_roma__Q16]]
 
 
 
@@ -535,19 +569,22 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0053
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Claudia's video game win percentage*
+*Claudia is playing a video game. At a certain point in the game, her percen…*
 
 ![[src_squadre_2017_roma__prob17.png]]
 
-> Claudia is playing a video game. At a certain point of the game her win percentage is 89%. At that point she wins 6 games in a row: after the first the win percentage goes to 90%, while after the sixth it jumps to 91%. What is the total number of games she has played at the moment the percentage jumps to 91%? (Note: the video game display always shows the win percentage rounded to the nearest, i.e. 73.4% becomes 73%, 73.5% becomes 74% and 73.6% becomes 74%)
+> Claudia is playing a video game. At a certain point in the game, her win rate is 89%. At that point, she wins 6 games in a row: after the first win, her win rate goes to 90%, while after the sixth win, it jumps to 91%. What is the total number of games she has played at the moment when her win rate jumps to 91%? (Note: the video game's display always shows the win rate rounded to the nearest value—that is, 73.4% becomes 73%, 73.5% becomes 74%, and 73.6% becomes 74%.)
 
-**Answer:** 0053
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2017_roma#q17|src_squadre_2017_roma__Q17]]
 
 
 
@@ -568,19 +605,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7656
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*3033030^4 as a product of three positive integers*
+*In how many ways can I write 3033030^4 as a product of three positive integers…*
 
 ![[src_squadre_2017_roma__prob18.png]]
 
-> In how many ways can I write 3033030^4 as a product of three positive integers? Give as the answer the 4 least significant digits of the result (that is, thousands, hundreds, tens and units). (Note: two products containing the same factors, even in a different order, are to be considered identical and therefore counted only once)
+> In how many ways can I write 3033030^4 as a product of three positive integers? Give as the answer the four least significant digits of the result (that is, thousands, hundreds, tens, and units). (Note: Two products containing the same factors, even if in a different order, are to be regarded as identical and should therefore be counted only once.)
 
-**Answer:** 7656
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2017_roma#q18|src_squadre_2017_roma__Q18]]
 
 
 
@@ -599,19 +639,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3344
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the largest odd divisors D(1) + … + D(100)*
+*For each positive integer n, let D(n) denote the greatest odd divisor of…*
 
 ![[src_squadre_2017_roma__prob19.png]]
 
-> For every positive integer n let D(n) be the largest odd divisor of n. Compute: D(1) + D(2) + D(3) + . . . + D(99) + D(100).
+> For each positive integer n, let D(n) denote the largest odd divisor of n. Compute: D(1) + D(2) + D(3) + ... + D(99) + D(100).
 
-**Answer:** 3344
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2017_roma#q19|src_squadre_2017_roma__Q19]]
 
 
 
@@ -631,16 +674,19 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0192
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_14%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubes with faces split into yellow and red halves*
+*On each face of a cube, the line segment joining the midpoints of… is drawn*
 
 ![[src_squadre_2017_roma__prob20.png]]
 
-> On each face of a cube the segment joining the midpoints of two opposite sides is drawn; one half is painted yellow and the other red. How many different cubes can be obtained by colouring them in this way? (two colourings are to be considered identical, and therefore counted only once, if there is a rotation in space superimposing them)
+> On each face of a cube, the line segment joining the midpoints of two opposite edges is drawn; one half of each face is painted yellow and the other half red. How many distinct cubes can be obtained by coloring them in this way? (Two colorings are to be regarded as identical—and hence counted only once—if there exists a rotation in space that makes them coincide.)
 
-**Answer:** 0192
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2017_roma#q20|src_squadre_2017_roma__Q20]]

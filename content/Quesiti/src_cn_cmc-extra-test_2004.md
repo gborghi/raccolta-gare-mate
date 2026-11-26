@@ -32,13 +32,18 @@ level: China Mathematical Competition (Extra Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca AK in triangolo acuto con determinate altitudini e cerchio*
+*Trovare AK in un triangolo acuto con altezze e circonferenza dati*
 
-> In un triangolo acuto $ABC$, il punto $H$ è il punto di intersezione dell'altitudine $CE$ a $AB$ e dell'altitudine $BD$ a $AC$. Un cerchio con $DE$ come diametro che incrocia $AB$ e $AC$ rispettivamente nei punti $F$ e $G$. $FG$ e $AH$ si incrociano al punto $K$. Se $BC = 25$, $BD = 20$, $BE = 7$, si trova la lunghezza di $AK$.
+> In un triangolo acuto $ABC$, il punto $H$ è il punto di intersezione dell'altezza $CE$ relativa a $AB$ e dell'altezza $BD$ relativa a $AC$. Una circonferenza avente $DE$ come diametro interseca $AB$ e $AC$ nei punti $F$ e $G$, rispettivamente. $FG$ e $AH$ si intersecano nel punto $K$. Se $BC = 25$, $BD = 20$, $BE = 7$, determina la lunghezza di $AK$.
 
 ![[src_cn_cmc-extra-test_2004__q01.png]]
 
-**Risposta:** 8.64
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-extra-test_2004#q01|src_cn_cmc-extra-test_2004__Q01]]
 
 
 
@@ -67,13 +72,22 @@ level: China Mathematical Competition (Extra Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove le disuguaglianze per le intersezioni x e le somme dei rapporti delle sequenze di coordinate*
+*Dimostrare disuguaglianze per gli zeri sull'asse x e per le somme dei rapporti delle successioni di coordinate*
 
-> In un sistema di coordinate rettangolare piano, una sequenza di punti $\{A_n\}$ sulla metà positiva dell'asse $y$ e una sequenza di punti $\{B_n\}$ sulla curva $y = \sqrt{2x}$ ($x \ge 0$) soddisfano la condizione $|OA_n| = |OB_n| = \dfrac{1}{n}$. L'intersezione $x$ del segmento di linea $A_nB_n$ è $a_n$, $n \in \mathbb{N}$. Prove questo .
-> 
+> In un sistema di coordinate rettangolari piane, una successione di punti $\{A_n\}$ sul semiasse positivo dell'asse $y$ e una successione di punti $\{B_n\}$ sulla curva $y = \sqrt{2x}$ ($x \ge 0$) soddisfano la condizione $|OA_n| = |OB_n| = \dfrac{1}{n}$. L'intercetta $x$ del segmento di retta $A_nB_n$ è $a_n$, $n \in \mathbb{N}$. Dimostrare che
+>
 > (1) $a_n > a_{n+1} > 4$, $n \in \mathbb{N}$;
-> 
-> (2) C'è un $n_0 \in \mathbb{N}$ tale che per qualsiasi $n > n_0$, $$\frac{b_2}{b_1} + \frac{b_3}{b_2} + \cdots + \frac{b_{n+1}}{b_n} < n - 2\,004,$$ dove $b_n$ è la coordinata $y$ di $B_n$, cioè $B_n = (b_n,\, \sqrt{2b_n})$ con $b_n > 0$.
+>
+> (2) Esiste $n_0 \in \mathbb{N}$ tale che, per ogni $n > n_0$,
+> $$\frac{b_2}{b_1} + \frac{b_3}{b_2} + \cdots + \frac{b_{n+1}}{b_n} < n - 2\,004,$$
+> dove $b_n$ è la coordinata $y$ di $B_n$, cioè $B_n = (b_n,\, \sqrt{2b_n})$ con $b_n > 0$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-extra-test_2004#q02|src_cn_cmc-extra-test_2004__Q02]]
 
 
 
@@ -96,6 +110,13 @@ level: China Mathematical Competition (Extra Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il minimo f(n) in modo che qualsiasi sottoinsieme di elementi m di n numeri interi consecutivi abbia 3 elementi reciprocamente primi*
+*Trovare il minimo f(n) tale che ogni sottoinsieme di m elementi di n interi consecutivi contenga 3 elementi mutuamente primi*
 
-> Per il numero intero $n \ge 4$, trovare il numero intero minimo $f(n)$, in modo che per qualsiasi sottoinsieme con $f(n)$ elementi del set $\{m, m+1, \ldots, m+n-1\}$ ($m \in \mathbb{N}$), ci siano almeno 3 elementi reciprocamente primi.
+> Per l'intero $n \ge 4$, trova il minimo intero $f(n)$ tale che, per ogni sottoinsieme con $f(n)$ elementi dell'insieme $\{m, m+1, \ldots, m+n-1\}$ ($m \in \mathbb{N}$), vi siano almeno 3 elementi mutuamente primi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc-extra-test_2004#q03|src_cn_cmc-extra-test_2004__Q03]]

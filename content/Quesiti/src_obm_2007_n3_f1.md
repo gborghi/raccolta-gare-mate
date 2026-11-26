@@ -34,15 +34,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due quadrati che si sovrappongono; trovare x + y in gradi*
+*Due quadrati sovrapposti; trova x+y in gradi*
 
 > La figura mostra due quadrati sovrapposti. Qual è il valore di $x+y$, in gradi?
-> 
+>
 > (A) $270$ \quad (B) $300$ \quad (C) $330$ \quad (D) $360$ \quad (E) $390$
 
 ![[src_obm_2007_n3_f1__q01.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n3_f1#q01|src_obm_2007_n3_f1__Q01]]
 
 
 
@@ -68,13 +73,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri "peroba" a 4 cifre: almeno due cifre vicine della stessa parità*
+*Conta i numeri 'peroba' di quattro cifre: almeno due cifre adiacenti della stessa parità*
 
-> Un numero a quattro cifre è chiamato \textit{peroba} se ha almeno due cifre vicine (adiacenti) con la stessa parità. Quanti sono i perobas?
-> 
+> Un numero di quattro cifre è chiamato \textit{peroba} se ha almeno due cifre vicine (consecutive) della stessa parità. Quanti \textit{peroba} ci sono?
+>
 > (A) $8999$ \quad (B) $8874$ \quad (C) $7875$ \quad (D) $8000$ \quad (E) $7750$
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n3_f1#q02|src_obm_2007_n3_f1__Q02]]
 
 
 
@@ -100,13 +110,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se 1+(x^2+x)(x^2+5x+6)=181^2 troverete x(x+3)*
+*Se 1+(x^2+x)(x^2+5x+6)=181^2, trova x(x+3)*
 
-> Se $x$ è un numero reale positivo e $1+(x^2+x)(x^2+5x+6)=181^2$, il valore di $x(x+3)$ è:
-> 
+> Se $x$ è un numero reale positivo e $1+(x^2+x)(x^2+5x+6)=181^2$, allora il valore di $x(x+3)$ è:
+>
 > (A) $180$ \quad (B) $150$ \quad (C) $120$ \quad (D) $182$ \quad (E) $75$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n3_f1#q03|src_obm_2007_n3_f1__Q03]]
 
 
 
@@ -134,15 +149,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mare con facce opposte che sommano 7 laminate quattro volte; trovare la direzione della faccia 1*
+*Muori con facce opposte che sommano 7, lanciate quattro volte; determina la direzione della faccia 1*
 
-> Il disegno di seguito mostra un dado ordinario la cui somma dei punti su facce opposte è sempre uguale a 7. Si colloca su un tavolo orizzontale con la faccia ``1' rivolta verso est (Leste). Il dado viene poi spostato quattro volte. Un movimento consiste in una rotazione $90^\circ$ intorno a un bordo. Dopo il primo movimento il volto in contatto con il tavolo diventa ``1', poi ``2', e infine il volto ``5'. In quale direzione è rivolto il volto ``1' dopo questa sequenza di movimenti? (La figura indica le direzioni Nord e Est.)
-> 
-> (A) Quadrata ovest (B) Quadrata est (C) Quadrata nord (D) Quadrata sud (E) Su
+> Il disegno sottostante mostra un dado comune il cuile dei punti sulle facce opposte sono sempre uguali a 7. Il dado viene posizionato su un tavolo orizzontale con la faccia "1" rivolta a Est. Successivamente il dado viene spostato quattro volte. Una mossa consiste in una rotazione di $90^\circ$ attorno a un spigolo. Dopo la prima mossa, la faccia a contatto con il tavolo diventa "1", poi "2" e infine "5". In quale direzione è rivolta la faccia "1" dopo questa sequenza di mosse? (La figura indica le direzioni Nord ed Est.)
+>
+> (A) Ovest \quad (B) Est \quad (C) Nord \quad (D) Sud \quad (E) Su
 
 ![[src_obm_2007_n3_f1__q04.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n3_f1#q04|src_obm_2007_n3_f1__Q04]]
 
 
 
@@ -168,13 +188,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri raggruppati in coppie con prodotto uguale; che si accoppiano con 10*
+*Numeri raggruppati in coppie con prodotto uguale; quali coppie con 10*
 
-> I numeri $72$, $8$, $24$, $10$, $5$, $45$, $36$, $15$ sono raggruppati in coppie in modo che il prodotto di ciascuna coppia sia lo stesso. Quale numero è abbinato a $10$?
-> 
+> I numeri $72$, $8$, $24$, $10$, $5$, $45$, $36$, $15$ sono raggruppati a coppie in modo che il prodotto di ciascuna coppia sia lo stesso. Quale numero è accoppiato con $10$?
+>
 > (A) $36$ \quad (B) $45$ \quad (C) $24$ \quad (D) $15$ \quad (E) $72$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n3_f1#q05|src_obm_2007_n3_f1__Q05]]
 
 
 
@@ -199,13 +224,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il nuovo rivestimento riflette 1/10 della luce riflessa dalla vernice nera; trova % assorbita*
+*Il nuovo rivestimento riflette 1/10 della luce riflessa dalla vernice nera; determina la % assorbita*
 
-> Le vernici nere opache assorbono $97\%$ di luce, riflettendo il resto. Gli scienziati hanno sviluppato un nuovo rivestimento, ``` dieci volte più nero' rispetto alle vernici nere opache, il che significa che riflette $1/10$ della luce riflessa dalle vernici nere opache. Che percentuale di luce assorbe il nuovo rivestimento?
-> 
+> Le vernici nere opache assorbono $97\%$ della luce, riflettendo il resto. Gli scienziati hanno sviluppato un nuovo rivestimento, "dieci volte più nero" delle vernici nere opache, il che significa che esso riflette $1/10$ della luce riflessa dalle vernici nere opache. Quale percentuale di luce viene assorbita dal nuovo rivestimento?
+>
 > (A) $9.7$ \quad (B) $90.3$ \quad (C) $99.7$ \quad (D) $99.9$ \quad (E) $970$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n3_f1#q06|src_obm_2007_n3_f1__Q06]]
 
 
 
@@ -233,13 +262,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza 27,207,2007,...; il cui numero intero elencato è un multiple di 81*
+*Successione 27,207,2007,...; quale numero intero elencato è un multiplo di 81?*
 
-> Considera la seguente sequenza: $$27=3\times3\times3,\quad 207=3\times3\times23,\quad 2007=3\times3\times223,\quad 20007=3\times3\times2223,\ \ldots$$ Quale dei seguenti numeri interi è un multiple di $81$?
-> 
+> Si consideri la seguente sequenza:
+> $$27=3\times3\times3,\quad 207=3\times3\times23,\quad 2007=3\times3\times223,\quad 20007=3\times3\times2223,\ \ldots$$
+> Quale dei seguenti interi è un multiplo di $81$?
+>
 > (A) $200.007$ \quad (B) $20.000.007$ \quad (C) $2.000.000.007$ \quad (D) $200.000.000.007$ \quad (E) $20.000.000.000.007$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n3_f1#q07|src_obm_2007_n3_f1__Q07]]
 
 
 
@@ -266,13 +302,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Qual è il numero intero positivo n che rende la somma delle frazioni uguale a 309*
+*Quale numero intero positivo n fa sì che la somma delle frazioni sia uguale a 309?*
 
-> Quale dei numeri interi positivi di seguito soddisfa la seguente equazione: $$\frac{4}{n^4}+\frac{5}{n^4}+\frac{6}{n^4}+\cdots+\frac{n^4-6}{n^4}+\frac{n^4-5}{n^4}+\frac{n^4-4}{n^4}=309\,?$$
-> 
+> Quale dei seguenti numeri interi positivi soddisfa la seguente equazione:
+> $$\frac{4}{n^4}+\frac{5}{n^4}+\frac{6}{n^4}+\cdots+\frac{n^4-6}{n^4}+\frac{n^4-5}{n^4}+\frac{n^4-4}{n^4}=309\,?$$
+>
 > (A) $2007$ \quad (B) $309$ \quad (C) $155$ \quad (D) $25$ \quad (E) $5$
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n3_f1#q08|src_obm_2007_n3_f1__Q08]]
 
 
 
@@ -300,15 +342,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo semicircolo e triangolo di isosceles della stessa superficie; trovare tan(x)*
+*Semicerchio e triangolo isoscele di uguale area; trova tan(x)*
 
-> Il disegno di seguito mostra un semicircolo e un triangolo di isosceles della stessa area. Qual è il valore di $\tan x^\circ$?
-> 
+> Il disegno sottostante mostra un semicerchio e un triangolo isoscele aventi la stessa area. Qual è il valore di $\tan x^\circ$?
+>
 > (A) $1$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{\pi}{\sqrt{3}}$ \quad (D) $\dfrac{2}{\pi}$ \quad (E) $\dfrac{\pi}{2}$
 
 ![[src_obm_2007_n3_f1__q09.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n3_f1#q09|src_obm_2007_n3_f1__Q09]]
 
 
 
@@ -338,17 +385,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero intero positivo più piccolo = somma di due quadrati positivi in due modi*
+*Il più piccolo intero positivo = somma di due quadrati positivi in due modi*
 
-> Un noto episodio in matematica è accaduto quando, visitando il grande matematico Ramanujan in ospedale, l'altro grande matematico Hardy ha detto che il numero del taxi che ha preso, $1729$, era un numero senza grazia; Ramanujan ha risposto prontamente: ``Non dire che, Hardy! $1729$ è il numero intero positivo più piccolo che può essere scritto come la somma di due cubi perfetti di numeri interi positivi in due modi diversi!'" Infatti, $1729=10^3+9^3=12^3+1^3$.
-> 
-> Un episodio meno noto è accaduto quando il piccolo matematico Muralijam è stato visitato dal piccolo matematico Sofy, che ha detto che il numero del suo armadietto era un numero senza grazia. Muralijam rispose immediatamente: ``No, Sofy, è il più piccolo intero positivo che può essere scritto come la somma di due quadrati perfetti di interi positivi in due modi diversi!'".
-> 
+> Un episodio ben noto nella storia della matematica si verificò quando, durante una visita al grande matematico Ramanujan in ospedale, l'altro grande matematico Hardy disse che il numero del taxi che aveva preso, $1729$, era un numero privo di grazia; Ramanujan rispose prontamente: «Non dirlo, Hardy! $1729$ è il più piccolo intero positivo che può essere espresso come somma di due cubi di interi positivi in due modi diversi!» In effetti, $1729=10^3+9^3=12^3+1^3$.
+>
+> Si verificò un episodio meno noto quando il piccolo matematico Muralijam ricevette la visita del piccolo matematico Sofy, il quale disse che il numero del suo armadietto era un numero senza grazia. Muralijam rispose subito: «No, Sofy, è il più piccolo numero intero positivo che può essere scritto come somma di due quadrati perfetti di numeri interi positivi in due modi diversi!»
+>
 > A quale numero si riferiscono Muralijam e Sofy?
-> 
+>
 > (A) $18$ \quad (B) $41$ \quad (C) $45$ \quad (D) $50$ \quad (E) $65$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n3_f1#q10|src_obm_2007_n3_f1__Q10]]
 
 
 
@@ -376,15 +428,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare quasi-anagrafi di BACANA che iniziano con A*
+*Conta i quasi-anagrammi di BACANA che iniziano con A*
 
-> Diciamo che una parola $Q$ è un \textit{quasi-anagramma} di un'altra parola $P$ quando $Q$ può essere ottenuto rimuovendo una lettera da $P$ e mescolando l'ordine delle lettere rimanenti, dando luogo a una parola con una lettera inferiore a $P$. Una parola quasi-anagrafica non deve avere un significato in nessun linguaggio. Ad esempio, RARO, RACR e ARCO sono quasi-anagrami di CARRO.
-> 
-> Quanti quasi-anagrami della parola BACANA iniziano con A?
-> 
+> Diciamo che una parola $Q$ è un \textit{quasi-anagramma} di un'altra parola $P$ quando $Q$ si può ottenere rimuovendo una lettera da $P$ e mescolando l'ordine delle lettere rimanenti, ottenendo così una parola con una lettera in meno rispetto a $P$. Una parola quasi-anagramma non deve necessariamente avere un significato in alcuna lingua. Ad esempio, RARO, RACR e ARCO sono quasi-anagrammi di CARRO.
+>
+> Quanti quasi-anagrammi della parola BACANA iniziano con A?
+>
 > (A) $48$ \quad (B) $60$ \quad (C) $72$ \quad (D) $96$ \quad (E) $120$
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n3_f1#q11|src_obm_2007_n3_f1__Q11]]
 
 
 
@@ -412,15 +469,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rete stradale a triangolo retto; deviazione del 24% più lunga; bronzatura con angolo più piccolo*
+*Rete stradale a triangolo rettangolo; deviazione del 24% più lunga; limite della tangente dell'angolo più piccolo*
 
-> Le città di A'opolis, Be'opolis e Ce'opolis sono collegate da strade rette. È noto che la strada che collega A'opolis e Be'opolis è perpendicolare alla strada che collega A'opolis e Ce'opolis. Rubens vive a Be'opolis e ha un impegno a Ce'opolis. Tuttavia, la strada che collega Be'opolis a Ce'opolis è chiusa, quindi deve percorrere la rotta Be'opolis-A'opolis-Ce'opolis. Per raggiungere l'impegno in tempo, Rubens viaggia a una velocità $24\%$ superiore a quella che avrebbe usato sulla strada chiusa.
-> 
+> Le città A'opolis, Be'opolis e Ce'opolis sono collegate da strade rettilinee. Si sa che la strada che collega A'opolis e Be'opolis è perpendicolare alla strada che collega A'opolis e Ce'opolis. Rubens vive a Be'opolis e ha un impegno a Ce'opolis. Tuttavia, la strada che collega Be'opolis a Ce'opolis è chiusa, quindi deve percorrere il tragitto Be'opolis-A'opolis-Ce'opolis. Per arrivare all'appuntamento in tempo, Rubens viaggia a una velocità $24\%$ superiore a quella che userebbe sulla strada chiusa.
+>
 > Se $\alpha$ è l'angolo più piccolo del triangolo determinato dalle tre strade, allora:
-> 
+>
 > (A) $0<\tan\alpha<\dfrac{1}{6}$ \quad (B) $\dfrac{1}{6}<\tan\alpha<\dfrac{1}{5}$ \quad (C) $\dfrac{1}{5}<\tan\alpha<\dfrac{1}{4}$ \quad (D) $\dfrac{1}{4}<\tan\alpha<\dfrac{1}{3}$ \quad (E) $\dfrac{1}{3}<\tan\alpha<1$
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n3_f1#q12|src_obm_2007_n3_f1__Q12]]
 
 
 
@@ -447,15 +509,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sistema con parti integrali e frazionarie; trovare x-y+z*
+*Sistema con parti intera e frazionaria; trovare x-y+z*
 
-> Ogni numero reale $a$ può essere scritto in modo unico come $a=\lfloor a\rfloor+\{a\}$, dove $\lfloor a\rfloor$ è un intero e $0\le\{a\}<1$. Chiamiamo $\lfloor a\rfloor$ la parte integrale di $a$ e $\{a\}$ la parte frazionaria di $a$.
-> 
+> Ogni numero reale $a$ può essere scritto in modo unico come $a=\lfloor a\rfloor+\{a\}$, dove $\lfloor a\rfloor$ è un numero intero e $0\le\{a\}<1$. Chiamiamo $\lfloor a\rfloor$ la \textit{parte intera} di $a$ e $\{a\}$ la \textit{parte frazionaria} di $a$.
+>
 > Se $x+\lfloor y\rfloor+\{z\}=4.2$, $\;y+\lfloor z\rfloor+\{x\}=3.6$ e $\;z+\lfloor x\rfloor+\{y\}=2$, qual è il valore di $x-y+z$?
-> 
+>
 > (A) $-1$ \quad (B) $-0.5$ \quad (C) $0$ \quad (D) $0.5$ \quad (E) $2$
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n3_f1#q13|src_obm_2007_n3_f1__Q13]]
 
 
 
@@ -483,15 +549,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ripuniti; trovare possibili q con pX^2+qX+r un ripunito per ogni ripunito X*
+*Repunit: trova un possibile q tale che pX^2+qX+r sia una repunit per ogni repunit X*
 
-> Diciamo che un numero naturale $X$ è un \textit{repunit} quando tutti i suoi numeri sono uguali a 1, cioè quando $X$ è della forma $11\ldots1$.
-> 
-> $p$, $q$, $r$ siano numeri interi, $p>0$, in modo che $pX^2+qX+r$ sia un repunito ogni volta che $X$ è un repunito. Quale dei valori di seguito è un valore possibile di $q$?
-> 
+> Diciamo che un numero naturale $X$ è una \textit{repunit} quando tutte le sue cifre sono uguali a 1, cioè quando $X$ è della forma $11\ldots1$.
+>
+> Siano $p$, $q$, $r$ interi, $p>0$, tali che $pX^2+qX+r$ sia una repunit ogni volta che $X$ è una repunit. Quale dei valori seguenti è un valore possibile di $q$?
+>
 > (A) $-2$ \quad (B) $-1$ \quad (C) $0$ \quad (D) $1$ \quad (E) $2$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n3_f1#q14|src_obm_2007_n3_f1__Q14]]
 
 
 
@@ -516,13 +587,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme di c per il quale sqrt(x)=sqrt(sqrt(x)+c) ha una soluzione reale*
+*Insieme dei valori di c per cui sqrt(x)=sqrt(sqrt(x)+c) ha una soluzione reale*
 
-> L'insieme di valori di $c$ per il quale l'equazione $\sqrt{x}=\sqrt{\sqrt{x}+c}$ ha una soluzione reale è contenuto in:
-> 
+> L'insieme dei valori di $c$ per cui l'equazione $\sqrt{x}=\sqrt{\sqrt{x}+c}$ ammette una soluzione reale è contenuto in:
+>
 > (A) $[-1,+\infty[$ \quad (B) $]-\infty,1]$ \quad (C) $[-3,2]$ \quad (D) $[-2,3]$ \quad (E) $\mathbb{Z}$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n3_f1#q15|src_obm_2007_n3_f1__Q15]]
 
 
 
@@ -548,13 +623,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC con altitudine AD, AB=DC=1; superficie massima*
+*Triangolo ABC con altezza AD, AB=DC=1; area massima*
 
-> Nel triangolo $ABC$, $AD$ è l'altitudine relativa al lato $BC$. Se $AB=DC=1$, indicare l'alternativa che corrisponde all'area massima del triangolo $ABC$.
-> 
+> Nel triangolo $ABC$, $AD$ è l'altezza relativa al lato $BC$. Se $AB=DC=1$, indica l'opzione che corrisponde all'area massima del triangolo $ABC$.
+>
 > (A) $\dfrac{3\sqrt{3}}{8}$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{\sqrt{2}}{3}$ \quad (D) $\dfrac{\sqrt{2}}{2}$ \quad (E) $\dfrac{1}{2}$
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n3_f1#q16|src_obm_2007_n3_f1__Q16]]
 
 
 
@@ -582,13 +662,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie di numeri interi con x^8+3y^4=4x^2 y^3 e 1<=y<=2007*
+*Conta le coppie di interi (x, y) tali che x^8+3y^4=4x^2 y^3 e 1<=y<=2007*
 
-> Il numero di coppie $(x,y)$ di integri positivi che soddisfano l'equazione $$x^8+3y^4=4x^2y^3,$$ con $1\le y\le 2007$ è uguale a:
-> 
+> Il numero di coppie $(x,y)$ di interi positivi che soddisfano l'equazione
+> $$x^8+3y^4=4x^2y^3,$$
+> con $1\le y\le 2007$, è uguale a:
+>
 > (A) $40$ \quad (B) $41$ \quad (C) $42$ \quad (D) $43$ \quad (E) $44$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n3_f1#q17|src_obm_2007_n3_f1__Q17]]
 
 
 
@@ -616,13 +703,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sistema a^2-ab=1, b^2-bc=1, c^2-ca=1; trovare abc(a+b+c)*
+*Sistema a² - ab = 1, b² - bc = 1, c² - ca = 1; trovare abc(a + b + c)*
 
-> $a$, $b$, $c$ siano numeri tali che $$a^2-ab=1,\quad b^2-bc=1,\quad c^2-ca=1.$$ Il valore di $abc(a+b+c)$ sia uguale a:
-> 
+> Siano $a$, $b$, $c$ dei numeri tali che
+> $$a^2-ab=1,\quad b^2-bc=1,\quad c^2-ca=1.$$
+> Il valore di $abc(a+b+c)$ è uguale a:
+>
 > (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $-1$ \quad (E) $-3$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n3_f1#q18|src_obm_2007_n3_f1__Q18]]
 
 
 
@@ -652,17 +746,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*100 edifici, piani = somma di cifre; quale dichiarazione è vera*
+*100 edifici, piani = somma delle cifre; quale affermazione è vera?*
 
-> Una via ha $100$ edifici numerati da $1$ a $100$, dove gli edifici con numero pari sono sul lato destro della strada e gli edifici con numero imparso sono sul lato sinistro. Il numero di piani di ogni edificio è pari alla somma dei numeri corrispondenti all'edificio. Pertanto, possiamo affermare che:
+> Una via ha $100$ edifici numerati da $1$ a $100$, dove gli edifici con numero pari si trovano sul lato destro della strada e quelli con numero dispari sul lato sinistro. Il numero di piani di ciascun edificio è uguale alla somma delle cifre del numero corrispondente all'edificio. Pertanto, possiamo affermare che:
 >
-> - **(A)** Il numero di edifici con più di $10$ piani è maggiore sul lato destro della strada.
-> - **(B)** Il numero di edifici con meno di $5$ piani è maggiore sul lato destro della strada.
+> - **(A)** Sul lato destro della strada, il numero di edifici con più di $10$ piani è maggiore.
+> - **(B)** Sul lato destro della strada, il numero di edifici con meno di $5$ piani è maggiore.
 > - **(C)** Almeno la metà degli edifici ha $10$ o più piani.
-> - **(D)** A entrambi i lati della strada ci sono la stessa quantità di edifici con esattamente $8$ piani.
+> - **(D)** Su entrambi i lati della strada ci sono lo stesso numero di edifici con esattamente $8$ piani.
 > - **(E)** Almeno $25\%$ degli edifici hanno meno di $5$ piani.
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n3_f1#q19|src_obm_2007_n3_f1__Q19]]
 
 
 
@@ -688,13 +787,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Più piccolo perimetro interiore di un triangolo con un lato 5sqrt3/2*
+*Perimetro intero minimo di un triangolo con un lato pari a 5√3/2*
 
-> Qual è il più piccolo perimetro integrale possibile di un triangolo che ha uno dei suoi lati con misura uguale a $\dfrac{5\sqrt{3}}{2}$?
-> 
+> Qual è il perimetro intero più piccolo possibile di un triangolo che ha uno dei suoi lati di misura pari a $\dfrac{5\sqrt{3}}{2}$?
+>
 > (A) $8$ \quad (B) $9$ \quad (C) $10$ \quad (D) $11$ \quad (E) $12$
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n3_f1#q20|src_obm_2007_n3_f1__Q20]]
 
 
 
@@ -719,13 +823,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Al momento indicato l'angolo tra le mani dell'orologio è il più piccolo*
+*A quale degli orari elencati l'angolo tra le lancette dell'orologio è minimo?*
 
-> Determinare a quale dei tempi al di sotto dell'angolo determinato dalle mani di un orologio è il più piccolo.
-> 
+> Determinare in quale dei seguenti istanti l'angolo formato dalle lancette di un orologio è minimo.
+>
 > (A) $02\mathrm{h}30$ \quad (B) $06\mathrm{h}20$ \quad (C) $05\mathrm{h}40$ \quad (D) $08\mathrm{h}50$ \quad (E) $09\mathrm{h}55$
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n3_f1#q21|src_obm_2007_n3_f1__Q21]]
 
 
 
@@ -751,13 +859,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il più grande divisore comune di 1221,2332,3443,...,8998
+*Massimo comune divisore di 1221,2332,3443,...,8998*
 
-> Il più grande divisore comune dei numeri $1221$, $2332$, $3443$, $4554$, $\ldots$, $8998$ è:
-> 
+> Il massimo comune divisore dei numeri $1221$, $2332$, $3443$, $4554$, $\ldots$, $8998$ è:
+>
 > (A) $3$ \quad (B) $33$ \quad (C) $37$ \quad (D) $11$ \quad (E) $101$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n3_f1#q22|src_obm_2007_n3_f1__Q22]]
 
 
 
@@ -787,17 +900,22 @@ Il più grande divisore comune di 1221,2332,3443,...,8998
 <div class="qlang-split" data-lang="it"></div>
 
 
-La palla sul tavolo 3x6 rimbalza due volte e cade in S; distanza da P sul lato PQ*
+*La palla, su un tavolo 3x6, rimbalza due volte e cade in S; distanza da P sul lato PQ*
 
-> Un tavolo da biliardo ha dimensioni $3$ metri per $6$ metri con tasche alle sue quattro angolazioni $P$, $Q$, $R$ e $S$. Quando una palla colpisce il bordo della tavola, la sua traiettoria forma un angolo con il bordo uguale a quello della traiettoria in arrivo.
-> 
-> Una palla, inizialmente $1$ metro da tasca $P$, viene colpita dal lato $SP$ nella direzione del lato $PQ$, come mostra la figura. A quanti metri da $P$ la palla colpisce il lato $PQ$ se la palla cade nella tasca $S$ dopo due rimbalzi sul bordo del tavolo?
-> 
+> Un tavolo da biliardo ha dimensioni di $3$ metri per $6$ metri, con le buche nei quattro angoli $P$, $Q$, $R$ e $S$. Quando una biglia colpisce il bordo del tavolo, la sua traiettoria forma con il bordo un angolo uguale a quello della traiettoria di arrivo.
+>
+> Una bilia, inizialmente distante $1$ metri dalla buca $P$, viene colpita dal lato $SP$ in direzione del lato $PQ$, come mostra la figura. A quanti metri da $P$ la bilia colpisce il lato $PQ$ se finisce nella buca $S$ dopo due rimbalzi sul bordo del tavolo?
+>
 > (A) $1$ \quad (B) $\dfrac{6}{7}$ \quad (C) $\dfrac{3}{4}$ \quad (D) $\dfrac{2}{3}$ \quad (E) $\dfrac{3}{5}$
 
 ![[src_obm_2007_n3_f1__q23.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n3_f1#q23|src_obm_2007_n3_f1__Q23]]
 
 
 
@@ -823,13 +941,18 @@ La palla sul tavolo 3x6 rimbalza due volte e cade in S; distanza da P sul lato P
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri a tre cifre abc con b=a^2+c^2; differenza tra più grande e più piccola*
+*Numeri di tre cifre abc tali che b=a^2+c^2; differenza tra il massimo e il minimo*
 
-> Considerare tutti i numeri a tre cifre $\overline{abc}$ dove $b=a^2+c^2$ e $a\ne0$. La differenza tra il più grande e il più piccolo di questi numeri è un numero:
-> 
-> (A) Multiplice di $3$ \quad (B) Prime \quad (C) Con ultima cifra uguale a $7$ \quad (D) La cui somma di cifre è $10$ \quad (E) Multiplice di $7$
+> Si considerino tutti i numeri di tre cifre $\overline{abc}$ tali che $b=a^2+c^2$ e $a\ne0$. La differenza tra il più grande e il più piccolo di questi numeri è un numero:
+>
+> (A) Multiplo di $3$ \quad (B) Primo \quad (C) Con ultima cifra uguale a $7$ \quad (D) La cui somma delle cifre è $10$ \quad (E) Multiplo di $7$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n3_f1#q24|src_obm_2007_n3_f1__Q24]]
 
 
 
@@ -857,12 +980,17 @@ La palla sul tavolo 3x6 rimbalza due volte e cade in S; distanza da P sul lato P
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Recurrence a_{n+1}=2×digitsum(a_n)+1, a_1=1; trovare a_31+...+a_35*
+*Ricorrenza a_{n+1}=2*digitsum(a_n)+1, a_1=1; trova a_31+...+a_35*
 
-> $\{a_n\}$ sia una sequenza in cui ogni termine è definito come doppio della somma dei numeri del termine precedente, più una unità. Per esempio, se $a_n=234$, allora $a_{n+1}=2(2+3+4)+1$.
-> 
+> Sia $\{a_n\}$ una successione in cui ogni termine è definito come il doppio della somma delle cifre del termine precedente, più un'unità. Ad esempio, se $a_n=234$, allora $a_{n+1}=2(2+3+4)+1$.
+>
 > Se $a_1=1$, il valore di $a_{31}+a_{32}+a_{33}+a_{34}+a_{35}$ è uguale a:
-> 
+>
 > (A) $44$ \quad (B) $54$ \quad (C) $64$ \quad (D) $75$ \quad (E) $84$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n3_f1#q25|src_obm_2007_n3_f1__Q25]]

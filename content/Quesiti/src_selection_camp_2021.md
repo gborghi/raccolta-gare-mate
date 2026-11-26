@@ -33,9 +33,19 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterali disgiunti con vertici di 3 e 1 colore*
+*Quadrilateri disgiunti con vertici colorati in 3 uguali e 1 diverso*
 
-> Tra i vertici $100$ di un normale $100$-gon, $41$ sono di colore nero e i rimanenti $59$ sono di colore bianco. Provare che si possono scegliere $24$ quadrilaterali convexi $Q_1, Q_2, \ldots, Q_{24}$, ognuno dei quali ha quattro di questi vertici $100$ come vertici, soddisfacendo le seguenti due condizioni: \begin{itemize} \item Non due di $Q_1, \ldots, Q_{24}$ hanno alcun punto in comune (ne' nei loro interni ne' sui loro confini). \item Per ogni numero intero $i$ con $1 \le i \le 24$, tra i quattro vertici di $Q_i$ esattamente tre sono dello stesso colore e il rimanente è dell'altro colore. # Finire #
+> Tra i $100$ vertici di un $100$-gono regolare, $41$ sono colorati di nero e i restanti $59$ sono colorati di bianco. Dimostrare che si possono scegliere $24$ quadrilateri convessi $Q_1, Q_2, \ldots, Q_{24}$, ciascuno dei quali abbia come vertici quattro di questi $100$ vertici, in modo da soddisfare le seguenti due condizioni:
+> \begin{itemize}
+> \item Nessuna coppia di $Q_1, \ldots, Q_{24}$ ha alcun punto in comune (né nei loro interni né sui loro bordi). \item Per ogni intero $i$ tale che $1 \le i \le 24$, tra i quattro vertici di $Q_i$, esattamente tre hanno lo stesso colore e il restante ha l'altro colore.
+> \end{itemize}
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_selection_camp_2021#q01|src_selection_camp_2021__Q01]]
 
 
 
@@ -59,9 +69,17 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare a/b+b/c+c/d+d/a sotto (a+c)(b+d)=ac+bd*
+*Minimizza a/b+b/c+c/d+d/a sotto la condizione (a+c)(b+d)=ac+bd*
 
-> $a, b, c, d$ siano numeri reali che soddisfino $(a+c)(b+d) = ac + bd$. Trova il valore minimo di $$\frac{a}{b} + \frac{b}{c} + \frac{c}{d} + \frac{d}{a}.$$
+> Sia $a, b, c, d$ un insieme di numeri reali che soddisfano $(a+c)(b+d) = ac + bd$. Determinare il valore minimo di
+> $$\frac{a}{b} + \frac{b}{c} + \frac{c}{d} + \frac{d}{a}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2021#q02|src_selection_camp_2021__Q02]]
 
 
 
@@ -84,9 +102,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme senza somma: alcuni a_i non riescono a dividere la somma dei vicini*
+*Insieme privo di somme: alcuni a_i non dividono la somma dei vicini*
 
-> $n$ sia un numero intero con $n \ge 3$. Che $S$ sia un insieme composto da $n$ interamente distinti integri positivi in modo tale che la somma di due elementi distinti di $S$ non sia mai un elemento di $S$. Scrivere $S = \{a_1, a_2, \ldots, a_n\}$ con $a_1 < a_2 < \cdots < a_n$. Prova che esiste un intero $i$ con $2 \le i \le n-1$ tale che $a_{i-1} + a_{i+1}$ non sia divisibile da $a_i$.
+> Sia $n$ un intero con $n \ge 3$. Sia $S$ un insieme costituito da $n$ interi positivi a due a due distinti tali che la somma di due elementi distinti qualsiasi di $S$ non sia mai un elemento di $S$. Scrivi $S = \{a_1, a_2, \ldots, a_n\}$ con $a_1 < a_2 < \cdots < a_n$. Dimostrare che esiste un intero $i$ con $2 \le i \le n-1$ tale che $a_{i-1} + a_{i+1}$ non è divisibile per $a_i$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2021#q03|src_selection_camp_2021__Q03]]
 
 
 
@@ -109,9 +134,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le forze di collinearità hanno un angolo retto in triangolo di uguali ocelli*
+*La collinearità impone un angolo retto nel triangolo isoscele*
 
-> Che $\triangle ABC$ sia un triangolo di uguali dimensioni con $AB = AC$, e che $D$ sia un punto laterale $BC$ con $BD < CD$. Perpendicolari da $D$ alle linee $AB$ e $AC$, e $P$ e $Q$ siano i rispettivi piedi. Supponiamo che il bisettore perpendicolare del segmento $PQ$ incontra il segmento $AB$ ad un punto $E$, e che il circoncircolo di $\triangle APQ$ incontra la linea $AB$ ad un punto $A$ e ad un secondo punto $F$ (a differenza di $A$). Prova che se $Q$, $E$, $F$ sono collineari, allora $\angle BAC = 90^\circ$.
+> Sia $\triangle ABC$ un triangolo isoscele con $AB = AC$, e sia $D$ un punto sul lato $BC$ con $BD < CD$. Si abbassino le perpendicolari da $D$ alle rette $AB$ e $AC$, e si pongano $P$ e $Q$ come rispettivi piedi. Si supponga che la mediatrice del segmento $PQ$ incontri il segmento $AB$ in un punto $E$, e che la circonferenza circoscritta a $\triangle APQ$ incontri la retta $AB$ in $A$ e in un secondo punto $F$ (distinto da $A$). Dimostrare che, se $Q$, $E$, $F$ sono allineati, allora $\angle BAC = 90^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2021#q04|src_selection_camp_2021__Q04]]
 
 
 
@@ -134,9 +166,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lattice convex n-gon diviso dal punto interno in aree pari consecutive*
+*Poligono convesso a n lati reticolare, suddiviso da un punto interno in aree pari consecutive*
 
-> Trova tutti gli enti $n \ge 4$ che soddisfano la seguente condizione. Esiste una convexa $n$-gon la cui verticale sono tutti punti reticolari (punti le cui due coordinate sono entrambe enti) e un punto $P$ nel suo interno in modo tale che, denotando le aree dei triangoli $n$ in cui $P$ divide il poligono (unendo $P$ alle verticali) da $S_1, S_2, \ldots, S_n$ in qualche ordine, e lasciando $S$ essere l'area dell'intero poligono, le quantità $2S_1, 2S_2, \ldots, 2S_n$ sono numeri interi consecutivi e il loro valore più grande è divisibile da $S$.
+> Trovare tutti gli interi $n \ge 4$ che soddisfano la seguente condizione. Esistono un $n$-gono convesso tutti i cui vertici sono punti a coordinate intere (punti le cui due coordinate sono entrambe intere) e un punto $P$ nel suo interno tali che, indicando con $S_1, S_2, \ldots, S_n$, in un certo ordine, le aree dei $n$ triangoli in cui $P$ divide il poligono (unendo $P$ ai vertici), e ponendo $S$ l'area dell'intero poligono, le quantità $2S_1, 2S_2, \ldots, 2S_n$ siano numeri interi consecutivi e il loro valore massimo sia divisibile per $S$.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2021#q05|src_selection_camp_2021__Q05]]
 
 
 
@@ -164,9 +203,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le coppie massime di buoni (linee, colonne) di una griglia di primo grado hanno uguali numeri di righe*
+*Le coppie (riga, colonna) di beni massimali di una griglia prima hanno conteggi di righe uguali*
 
-> $n$ e $m$ siano numeri primi. C'è una griglia con righe $n$ e colonne $m$, e un intero positivo è scritto in ogni cella. Per la cella nella riga $r$ e nella colonna $c$, $a(r,c)$ indica il numero intero scritto lì. Considera una coppia ordinata $(R, C)$ in cui $R$ è un insieme di righe e $C$ è un insieme di colonne. Tale coppia è chiamata \emph{good} se entrambi i seguenti contenuti: \begin{enumerate} \item[(i)] Per ogni riga $r'$ e per ogni $r \in R$, esiste un $c \in C$ tale che $a(r, c) \le a(r', c)$. \item[(ii) Per ogni colonna $c'$ e per ogni $c \in C$, esiste $r \in R$ tale che $a(r, c) \le a(r, c')$. \end{enumerate} Inoltre, per una buona coppia $(R, C)$, supponiamo che $|R| + |C|$ sia maggiore o uguale a $|R'| + |C'|$ per ogni altra buona coppia $(R', C')$. Quando $(R, C)$ e $(R', C')$ sono due coppie buone (massime), dimostrare che il numero di elementi di $R$ è uguale al numero di elementi di $R'$.
+> Siano $n$ e $m$ numeri primi. Esiste una griglia con $n$ righe e $m$ colonne, e in ogni cella è scritto un numero intero positivo. Per la cella nella riga $r$ e nella colonna $c$, si indichi con $a(r,c)$ il numero intero scritto in essa. Si consideri una coppia ordinata $(R, C)$ in cui $R$ è un insieme di righe e $C$ è un insieme di colonne. Una tale coppia si dice \emph{buona} se valgono entrambe le seguenti condizioni:
+> \begin{enumerate}
+> \item[(i)] Per ogni riga $r'$ e per ogni $r \in R$, esiste $c \in C$ tale che $a(r, c) \le a(r', c)$. \item[(ii)] Per ogni colonna $c'$ e per ogni $c \in C$, esiste $r \in R$ tale che $a(r, c) \le a(r, c')$.
+> \end{enumerate}
+> Inoltre, per una buona coppia $(R, C)$, si supponga che $|R| + |C|$ sia maggiore o uguale a $|R'| + |C'|$ per ogni altra buona coppia $(R', C')$. Quando $(R, C)$ e $(R', C')$ sono due tali coppie buone (massimali), si dimostri che il numero di elementi di $R$ è uguale al numero di elementi di $R'$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2021#q06|src_selection_camp_2021__Q06]]
 
 
 
@@ -192,7 +242,15 @@ level: CAMP Selection Camp
 
 *Equazione funzionale sui reali con f annidata*
 
-> Trovare tutte le funzioni $f$ definite sui numeri reali e prendere valori reali in modo che, per tutti i numeri reali $x$ e $y$, $$f\left(x^2 + xy + y^2\right) = 2x^2 f(y) + 2x f\bigl(f(y)\bigr) + f\left(-x^2 - xy^2\right) + f\left(y^2\right).$$
+> Trovare tutte le funzioni $f$ definite sui numeri reali e a valori reali tali che, per tutti i numeri reali $x$ e $y$,
+> $$f\left(x^2 + xy + y^2\right) = 2x^2 f(y) + 2x f\bigl(f(y)\bigr) + f\left(-x^2 - xy^2\right) + f\left(y^2\right).$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2021#q07|src_selection_camp_2021__Q07]]
 
 
 
@@ -215,9 +273,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Persone raggruppate in n cerchi con condizione di cerchio comune; conteggio totale*
+*Le persone sono raggruppate in n cerchi con una condizione di cerchio comune; calcola i totali*
 
-> $n$ sia un numero intero con $n \ge 2$. Ci sono $n$ cerchi (gruppi), e esattamente $n$ persone si riuniscono a ogni cerchio, in modo che in totale $n^2$ persone circondano i cerchi. Le persone appartenenti a un cerchio sono reciprocamente distinte, e due persone che appartengono entrambi a un cerchio comune appartengono esattamente a un cerchio in comune. Determina, in tutte queste configurazioni, quante persone ci possono essere.
+> Sia $n$ un numero intero tale che $n \ge 2$. Ci sono $n$ cerchi (gruppi), e esattamente $n$ persone si riuniscono in ciascun cerchio, cosicché in totale $n^2$ persone circondano i cerchi. Le persone appartenenti a un qualsiasi cerchio sono tutte distinte tra loro, e due persone qualsiasi che appartengano entrambe a qualche cerchio comune appartengono in comune a esattamente un cerchio. Determinare, considerando tutte le configurazioni di questo tipo, quante persone possono esserci.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2021#q08|src_selection_camp_2021__Q08]]
 
 
 
@@ -240,9 +305,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due circoncircoli tangenti in configurazione incentro/A-excentro*
+*Due circonferenze circoscritte tangenti in una configurazione incentro/excentro A*
 
-> $\triangle ABC$ sia un triangolo acuto con $AB < AC$. L'incentro è $I$ e l'excentro è $I_A$ situato all'interno dell'angolo $A$ (l'excentro è $A$). L'incircolo di $\triangle ABC$ tocca il lato $BC$ al punto $D$. La linea $AD$ incontra la linea $BI_A$ a $E$ e la linea $CI_A$ a $F$. Dimostrare che il circoncircolo di $\triangle AID$ e il circoncircolo di $\triangle I_A E F$ sono tangenti tra loro. (Qui $XY$ indica la lunghezza del segmento $XY$; l'incircolo è il cerchio che, tra i cerchi tangenti alla linea $BC$, la linea $AB$ e la linea $AC$, è tangente internamente.)
+> Sia $\triangle ABC$ un triangolo acuto con $AB < AC$. Sia $I$ il suo incentro e sia $I_A$ l'escentro che giace all'interno dell'angolo $A$ (l'escentro relativo a $A$). L'incirconferenza di $\triangle ABC$ tocca il lato $BC$ nel punto $D$. La retta $AD$ incontra la retta $BI_A$ in $E$ e la retta $CI_A$ in $F$. Dimostrare che la circonferenza circoscritta di $\triangle AID$ e la circonferenza circoscritta di $\triangle I_A E F$ sono tangenti tra loro. (Qui $XY$ denota la lunghezza del segmento $XY$; l'incirconferenza è la circonferenza che, tra le circonferenze tangenti alla retta $BC$, alla retta $AB$ e alla retta $AC$, è tangente internamente.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2021#q09|src_selection_camp_2021__Q09]]
 
 
 
@@ -265,9 +337,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Infinitamente molte prime il cui grafico di ponte-isola è disconnesso*
+*Infiniti numeri primi il cui grafo ponte-isola è disconnesso*
 
-> Per ogni numero primo $p$, esiste un regno $P$ costituito da isole $1, 2, \ldots, p$. Per due isole distinte $n$ e $m$ del regno $P$, un ponte li collega se e solo se $(n^2 - m + 1)(m^2 - n + 1)$ è divisibile da $p$. Prove che esistono infinite prime $p$ per le quali esiste una coppia di due isole distinte del regno $P$ che non possono essere raggiunte l'una dall'altra viaggiando attraverso i ponti.
+> Per ogni numero primo $p$, esiste un regno $P$ costituito da isole $1, 2, \ldots, p$. Per due isole distinte $n$ e $m$ del regno $P$, un ponte le collega se e solo se $(n^2 - m + 1)(m^2 - n + 1)$ è divisibile per $p$. Dimostrare che esistono infiniti numeri primi $p$ per i quali esiste una coppia di due isole distinte del regno $P$ che non possono essere raggiunte l'una dall'altra attraversando i ponti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2021#q10|src_selection_camp_2021__Q10]]
 
 
 
@@ -290,9 +369,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi tangenti esternamente producono punti collineari A, X, Y*
+*Due cerchi tangenti esternamente determinano i punti A, X, Y collineari*
 
-> Che $\Gamma$ sia il circoncircolo di un triangolo acuto $ABC$ e che $I$ sia il suo incentro. Lasciate che $\omega_B$ e $\omega_C$ siano due cerchi che siano tangenti l'uno all'altro. Il cerchio $\omega_B$ è tangente a lato $AC$, e il cerchio $\omega_C$ è tangente a lato $AB$. Inoltre $\omega_B$ è tangente alla linea $AB$ in un punto $M$, e $\omega_C$ è tangente alla linea $AC$ in un punto $N$. Le linee $PM$ e $QN$ si incontrano al punto $X$ e $\omega_B$ e $\omega_C$ si incontrano al punto $Y$. Prova che $A$, $X$, $Y$ si trovano su una singola linea.
+> Sia $\Gamma$ la circonferenza circoscritta a un triangolo acuto $ABC$ e sia $I$ il suo incentro. Siano $\omega_B$ e $\omega_C$ due circonferenze tangenti esternamente tra loro. La circonferenza $\omega_B$ è tangente al lato $AC$, e la circonferenza $\omega_C$ è tangente al lato $AB$. Inoltre, $\omega_B$ è tangente alla retta $AB$ nel punto $M$, e $\omega_C$ è tangente alla retta $AC$ nel punto $N$. Le rette $PM$ e $QN$ si incontrano nel punto $X$, e le rette $\omega_B$ e $\omega_C$ si incontrano nel punto $Y$. Dimostrare che $A$, $X$, $Y$ giacciono su una stessa retta.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2021#q11|src_selection_camp_2021__Q11]]
 
 
 
@@ -317,6 +403,15 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale sui numeri interi utilizzando iterazioni di f*
+*Equazione funzionale sugli interi mediante le iterate di f*
 
-> Trova tutte le funzioni $f$ definite sui numeri interi e prendi valori di numeri interi in modo tale che, per tutti i numeri interi $a$ e $b$, $$f^{\,a^2 + b^2}(a + b) = a f(a) + b f(b).$$ Qui $f^0(n) = n$, e per un intero positivo $k$, $f^k(n) = f\bigl(f^{k-1}(n)\bigr)$.
+> Trovare tutte le funzioni $f$ definite sugli interi e a valori interi tali che, per tutti gli interi $a$ e $b$,
+> $$f^{\,a^2 + b^2}(a + b) = a f(a) + b f(b).$$
+> Qui $f^0(n) = n$, e per un intero positivo $k$, $f^k(n) = f\bigl(f^{k-1}(n)\bigr)$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2021#q12|src_selection_camp_2021__Q12]]

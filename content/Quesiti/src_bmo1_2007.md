@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova quattro numeri primi sotto 100 dividendo 3^10 - 2^10*
+*Quattro primi minori di $100$ che dividono $3^{10} - 2^{10}$*
 
-> Trova quattro numeri primi inferiori a $100$ che sono fattori di $3^{10} - 2^{10}$.
+> Trovare quattro numeri primi minori di $100$ che sono fattori di $3^{10} - 2^{10}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2007#q01|src_bmo1_2007__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero converso con punti di trisezione; dimostrare che MNPQ ha 1/3 di superficie*
+*L'area di $MNPQ$ è un terzo dell'area di $ABCD$*
 
-> Nel quadrilaterale converso $ABCD$, i punti $M$, $N$ si trovano sul lato $AB$ in modo tale che $AM = MN = NB$, e i punti $P$, $Q$ si trovano sul lato $CD$ in modo tale che $CP = PQ = QD$. Provare che $$\text{Area of } MNPQ = \frac{1}{3} \text{ Area of } ABCD.$$
+> Nel quadrilatero convesso $ABCD$, i punti $M$, $N$ stanno sul lato $AB$ in modo che $AM = MN = NB$, e i punti $P$, $Q$ stanno sul lato $CD$ in modo che $CP = PQ = QD$. Dimostrare che
+> $$\text{Area of } MNPQ = \frac{1}{3} \text{ Area of } ABCD.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2007#q02|src_bmo1_2007__Q02]]
 
 
 
@@ -80,9 +95,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pandigital a nove cifre; contare quelli con cifre 1-5 in ordine ma non 1-6*
+*Quanti numeri di nove cifre hanno 1–5 in ordine naturale e non 1–6*
 
-> Il numero $910234857$ è un esempio di un numero di nove cifre che contiene ciascuna delle cifre $1$ a $9$ esattamente una volta. Ha anche la proprietà che le cifre $1$ a $5$ si presentino nel loro ordine naturale, mentre le cifre $1$ a $6$ non lo fanno. Quanti numeri di nove cifre ci sono?
+> Il numero $910234857$ è un esempio di numero di nove cifre che contiene ciascuna delle cifre da $1$ a $9$ esattamente una volta. Ha anche la proprietà che le cifre da $1$ a $5$ compaiono nel loro ordine naturale, mentre le cifre da $1$ a $6$ no. Quanti sono tali numeri di nove cifre?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2007#q03|src_bmo1_2007__Q03]]
 
 
 
@@ -105,9 +127,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi in contatto con tangente comune; dimostrare AP = PQ*
+*Dimostrare che $AP = PQ$*
 
-> Due cerchi di tocco $S$ e $T$ condividono una linea tangente comune che incontra $S$ a $A$ e $T$ a $B$. Lasciate che $AP$ abbia un diametro di $S$ e che la tangente da $P$ a $T$ la tocchi a $Q$. Prova che $AP = PQ$.
+> Due circonferenze tangenti $S$ e $T$ hanno una tangente comune, che incontra $S$ in $A$ e $T$ in $B$. Sia $AP$ un diametro di $S$ e sia $Q$ il punto di tangenza della tangente da $P$ a $T$. Dimostrare che $AP = PQ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2007#q04|src_bmo1_2007__Q04]]
 
 
 
@@ -131,9 +160,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali positivi a,b,c; dimostrare la disuguaglianza ciclica*
+*Una disuguaglianza per numeri reali positivi $a$, $b$, $c$*
 
-> Per i numeri reali positivi $a$, $b$, $c$, dimostrare che $$(a^2 + b^2)^2(b + c)(c + a) \ge (a + b)^2(a^2 b + b^2 c + c^2 a - a^2 c).$$
+> Per numeri reali positivi $a$, $b$, $c$, dimostrare che
+> $$(a^2 + b^2)^2(b + c)(c + a) \ge (a + b)^2(a^2 b + b^2 c + c^2 a - a^2 c).$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2007#q05|src_bmo1_2007__Q05]]
 
 
 
@@ -156,6 +193,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integer n; mostrare 2+sqrt(3+sqrt(12n+1)) intero implica n quadrato perfetto*
+*Se $2 + \sqrt{3 + \sqrt{12n + 1}}$ è intero, allora $n$ è un quadrato perfetto*
 
-> $n$ sia un numero intero. Mostra che se $2 + \sqrt{3 + \sqrt{12n + 1}}$ è un intero, allora $n$ è un quadrato perfetto.
+> Sia $n$ un intero. Dimostrare che, se $2 + \sqrt{3 + \sqrt{12n + 1}}$ è un intero, allora $n$ è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2007#q06|src_bmo1_2007__Q06]]

@@ -29,9 +29,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valore massimo di xy con z a due cifre, y a una cifra, tutti cifre distinte*
+*Valore massimo di xy con z a due cifre, y a una cifra, tutte le cifre distinte*
 
-> $z$ sia un intero positivo a 2 cifre, $y$ un intero positivo a 1 cifre e $x$ un intero positivo a 1 cifre. Le decine di $z$, le unità di $z$ e $y$ sono tutte diverse tra loro. Trova il valore massimo di $xy$.
+> Sia $z$ un numero intero positivo di due cifre, $y$ un numero intero positivo di una cifra e $x$ un numero intero positivo di una cifra. La cifra delle decine di $z$, la cifra delle unità di $z$ e $y$ sono tutte diverse tra loro. Determinare il valore massimo di $xy$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo9yq_yosen#q01|src_jjmo9yq_yosen__Q01]]
 
 
 
@@ -56,11 +63,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca BC in quadrilaterale con due angoli di 60 gradi e un angolo retto*
+*Trovare BC in un quadrilatero con due angoli di 60 gradi e un angolo retto*
 
-> In quadrilaterali $ABCD$, $\angle DAB = 90^\circ$, $\angle ABC = \angle BCD = 60^\circ$, $AB = 5$, $CD = 4$. Trova $BC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Nel quadrilatero $ABCD$, $\angle DAB = 90^\circ$, $\angle ABC = \angle BCD = 60^\circ$, $AB = 5$, $CD = 4$. Trovare $BC$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
 ![[src_jjmo9yq_yosen__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo9yq_yosen#q02|src_jjmo9yq_yosen__Q02]]
 
 
 
@@ -83,9 +97,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero intero positivo più piccolo divisibile entro il 2011 con le ultime quattro cifre 9999*
+*Il più piccolo intero positivo che termina con 9999 e è divisibile per 2011*
 
-> Tra i numeri interi positivi le cui ultime quattro cifre sono $9999$, trova il più piccolo che sia divisibile da $2011$.
+> Tra gli interi positivi le cui ultime quattro cifre sono $9999$, trovare il più piccolo che sia divisibile per $2011$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_jjmo9yq_yosen#q03|src_jjmo9yq_yosen__Q03]]
 
 
 
@@ -110,11 +131,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'area del triangolo ADE con le aree dei quadrilaterali DMNE e MBCN*
+*Trovare l'area del triangolo ADE dati le aree dei quadrilateri DMNE e MBCN*
 
-> Nel triangolo $ABC$, $D$ sia un punto sul lato $AB$ e $E$ un punto sul lato $AC$ in modo tale che la linea $DE$ sia parallela a $BC$. Il $M$ deve essere il punto medio di $BD$ e $N$ il punto medio di $CE$. Poiché l'area del quadrilaterale $DMNE$ è $1$ e l'area del quadrilaterale $MBCN$ è $2$, trovare l'area del triangolo $ADE$.
+> Nel triangolo $ABC$, sia $D$ un punto sul lato $AB$ e $E$ un punto sul lato $AC$ tali che la retta $DE$ sia parallela a $BC$. Sia $M$ il punto medio di $BD$ e $N$ il punto medio di $CE$. Sapendo che l'area del quadrilatero $DMNE$ è $1$ e l'area del quadrilatero $MBCN$ è $2$, determina l'area del triangolo $ADE$.
 
 ![[src_jjmo9yq_yosen__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo9yq_yosen#q04|src_jjmo9yq_yosen__Q04]]
 
 
 
@@ -137,9 +165,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di uve dopo le stagioni ripristinare le mele e le uve al 2011 con mandarine superiori al 2011*
+*Dopo gli incantesimi, le uve minime riportano mele e uve al livello del 2011, con i mandarini che superano il 2011*
 
-> Un mago può utilizzare uno dei seguenti tre incantesimi in qualsiasi numero di volte:\n\nL'incantesimo A: Cambia 1 mandarino e 1 uva in 2 mele.\nL'incantesimo B: Cambia 1 uva e 1 mela in 3 mandarini.\nL'incantesimo C: Cambia 1 mela e 1 mandarino in 4 uve.\n\nA partire da uno stato con mele $2011$, mandarini $2011$ e uve $2011$, il mago utilizza gli incantesimi (ogni una almeno una volta) e termina con mele $2011$, esattamente $2011$ uve, e almeno $2011$ mandarini. Qual è il numero minimo di mandarini alla fine?
+> Un mago può usare qualsiasi delle seguenti tre formule magiche un numero qualsiasi di volte:  Formula magica A: trasforma 1 mandarino e 1 uva in 2 mele. Formula magica B: trasforma 1 uva e 1 mela in 3 mandarini. Formula magica C: trasforma 1 mela e 1 mandarino in 4 uve.  Partendo da uno stato in cui ci sono $2011$ mele, $2011$ mandarini e $2011$ uve, il mago usa le formule magiche (ciascuna almeno una volta) e alla fine si ritrova con esattamente $2011$ mele, esattamente $2011$ uve e almeno $2011$ mandarini. Qual è il numero minimo di mandarini alla fine?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo9yq_yosen#q05|src_jjmo9yq_yosen__Q05]]
 
 
 
@@ -162,9 +197,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli insiemi di carte a 4 con numeri interi a 1 cifra distinti che danno 4 somme distinte e 3 prodotti distinti*
+*Trovare tutti i gruppi di 4 carte con interi a una cifra tutti distinti, che diano 4 somme distinte e 3 prodotti distinti*
 
-> Ci sono 4 carte, ognuna con un numero intero positivo singolo-cifrato scritto su di essa. Quando si scelgono due delle quattro carte e si aggiungono i loro numeri, possono essere ottenute somme distinte esattamente $4$ in totale. Quando si scelgono due delle quattro carte e si moltiplicano i loro numeri, si possono ottenere esattamente $3$ prodotti distinti in totale. Trova tutte le possibili serie di 4 enti che potrebbero essere scritte sulle carte.
+> Ci sono 4 carte, ciascuna con scritto un numero intero positivo a una cifra, distinto dagli altri. Quando si scelgono 2 qualsiasi delle 4 carte e si sommano i loro numeri, in totale si possono ottenere esattamente $4$ somme distinte. Quando si scelgono 2 qualsiasi delle 4 carte e si moltiplicano i loro numeri, in totale si possono ottenere esattamente $3$ prodotti distinti. Trovare tutti gli insiemi possibili di 4 numeri interi che potrebbero essere scritti sulle carte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo9yq_yosen#q06|src_jjmo9yq_yosen__Q06]]
 
 
 
@@ -187,9 +229,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero intero più piccolo n ≥ 11 con esattamente 23 quadrati perfetti in [n, n+2011]*
+*Il più piccolo intero n ≥ 11 tale che l'intervallo [n, n+2011] contenga esattamente 23 quadrati perfetti*
 
-> Trova il più piccolo intero positivo $n \ge 11$ in modo che tra gli interi $n, n+1, n+2, \ldots, n+2011$, ci siano esattamente $23$ quadrati perfetti.
+> Trovare il più piccolo intero positivo $n \ge 11$ tale che, tra gli interi $n, n+1, n+2, \ldots, n+2011$, vi siano esattamente $23$ quadrati perfetti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo9yq_yosen#q07|src_jjmo9yq_yosen__Q07]]
 
 
 
@@ -214,11 +263,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area del triangolo ABQ: due triangoli a destra con triangoli di vertici collineari*
+*Area del triangolo ABQ: due triangoli rettangoli isosceli con triple di vertici allineati*
 
-> Il triangolo $ABC$ e il triangolo $PQR$ sono entrambi triangoli a destra con $\angle ACB = \angle PQR = 90^\circ$, $AB = 5$, $PR = 3$. I tre punti $B$, $Q$, $R$ sono collineari e i tre punti $A$, $P$, $C$ sono collineari. Trova l'area del triangolo $ABQ$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Il triangolo $ABC$ e il triangolo $PQR$ sono entrambi triangoli rettangoli isosceli con $\angle ACB = \angle PQR = 90^\circ$, $AB = 5$, $PR = 3$. I tre punti $B$, $Q$, $R$ sono allineati, e i tre punti $A$, $P$, $C$ sono allineati. Determinare l'area del triangolo $ABQ$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
 ![[src_jjmo9yq_yosen__q08.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo9yq_yosen#q08|src_jjmo9yq_yosen__Q08]]
 
 
 
@@ -241,9 +297,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N più piccolo con S(n2) = S(n) − 7, dove S è la funzione somma dei divisori*
+*Il più piccolo n tale che S(n²) = S(n) − 7, dove S è la funzione somma dei divisori*
 
-> Per un intero positivo $k$, $S(k)$ indica la somma di tutti i divisori positivi di $k$. Trova il numero intero positivo più piccolo $n$ tale da $S(n^2) = S(n) - 7$.
+> Per un numero intero positivo $k$, si indichi con $S(k)$ la somma di tutti i divisori positivi di $k$. Determinare il più piccolo numero intero positivo $n$ tale che $S(n^2) = S(n) - 7$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo9yq_yosen#q09|src_jjmo9yq_yosen__Q09]]
 
 
 
@@ -266,9 +329,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri interi fino a 1000 la cui somma di cifre è invariata quando moltiplicata per 5*
+*Conta gli interi fino a 1000 la cui somma delle cifre rimane invariata quando vengono moltiplicati per 5*
 
-> Quanti integri positivi non superiori $1000$ hanno la proprietà che la somma delle loro cifre non cambia quando il numero è moltiplicato per $5$?
+> Quanti numeri interi positivi non superiori a $1000$ hanno la proprietà che la somma delle loro cifre non cambia quando il numero viene moltiplicato per $5$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo9yq_yosen#q10|src_jjmo9yq_yosen__Q10]]
 
 
 
@@ -291,9 +361,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggiamento di colori di 8 ×8 in griglia simmetrica su entrambe le diagonali con al massimo una per riga e colonna*
+*Conta le colorazioni della griglia 8×8 simmetriche rispetto a entrambe le diagonali, con al massimo un colore per riga e per colonna*
 
-> I quadrati di unità di lunghezza laterale $1$ sono disposti in righe $8$ e colonne $8$ per formare un quadrato $8 \times 8$ $ABCD$. Alcuni di questi quadrati unitari devono essere colorati (pintati) soggetti alle seguenti tre condizioni:\n\n$\bullet$ L'arrangiamento dei quadrati colorati è simmetrico rispetto a entrambe le diagonali $AC$ e $BD$ del quadrato.\n$\bullet$ In ogni riga, al massimo un quadrato unitario è colorato.\n$\bullet$ In ogni colonna, al massimo un quadrato unitario è colorato.\n\nQuante colorazioni sono possibili (compresa la colorazione in cui nessun quadrato è colorato)?
+> Quadrati unitari di lato $1$ sono disposti in $8$ righe e $8$ colonne per formare un quadrato $8 \times 8$ $ABCD$. Alcuni di questi quadrati unitari devono essere colorati (dipinti) secondo le seguenti tre condizioni:\n\n$\bullet$ La disposizione dei quadrati colorati è simmetrica rispetto a entrambe le diagonali $AC$ e $BD$ del quadrato.\n$\bullet$ In ogni riga, al massimo un quadrato unitario è colorato.\n$\bullet$ In ogni colonna, al massimo un quadrato unitario è colorato.\n\nQuante di tali colorazioni sono possibili (inclusa la colorazione in cui nessun quadrato è colorato)?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo9yq_yosen#q11|src_jjmo9yq_yosen__Q11]]
 
 
 
@@ -316,6 +393,13 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area del triangolo ABC dato incentro I, circoncentro O, AB=2, AC=3, angolo AIO=90°*
+*Area del triangolo ABC dati l'incentro I, il circocentro O, AB=2, AC=3, angolo AIO=90°*
 
-> $I$ sia l'incentro e $O$ il circoncentro del triangolo $ABC$. Date $AB = 2$, $AC = 3$ e $\angle AIO = 90^\circ$, si trova l'area del triangolo $ABC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Sia $I$ l'incentro e $O$ il circocentro del triangolo $ABC$. Dati $AB = 2$, $AC = 3$ e $\angle AIO = 90^\circ$, determina l'area del triangolo $ABC$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo9yq_yosen#q12|src_jjmo9yq_yosen__Q12]]

@@ -31,11 +31,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Semplificare una radice quadrata fattoriale incastonata come frazione ridotta*
+*Scrivere un valore razionale come frazione ridotta*
 
-> Il seguente valore è razionale. Esprimere come frazione ridotta: $$\sqrt{\dfrac{123! - 122!}{122! - 121!}}$$
+> Il valore seguente è razionale. Esprimerlo come frazione ridotta:
+>
+> $$\sqrt{\dfrac{123! - 122!}{122! - 121!}}$$
 
-**Risposta:** \frac{122}{11}
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Risposta:** $\frac{122}{11}$
+[[Quesiti/src_jmo34yqa_yosen#q01|src_jmo34yqa_yosen__Q01]]
 
 
 
@@ -59,11 +65,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i n a 3 cifre dove n+2024 e n-34 sono entrambi numeri a prime cifre*
+*Interi di tre cifre per cui due espressioni sono numeri a cifre prime*
 
-> Chiamate un intero positivo **numero a prime cifre** (nellezza numero) se ogni cifra che appare in esso è una cifra primaria. Trova tutti i numeri interi positivi a 3 cifre $n$ in modo che sia $n + 2024$ che $n - 34$ siano numeri a prime cifre. (Ci sono esattamente due di questi $n$; trovateli tutti.)
+> Si chiami **numero a cifre prime** (素敵な数) un intero positivo se ogni cifra che vi compare è una cifra prima. Determinare tutti gli interi positivi di 3 cifre $n$ tali che sia $n + 2024$ sia $n - 34$ sono numeri a cifre prime. (Ce ne sono esattamente due tali $n$; trovarli tutti.)
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Analisi per casi accurata]]
 **Risposta:** 309, 311
+[[Quesiti/src_jmo34yqa_yosen#q02|src_jmo34yqa_yosen__Q02]]
 
 
 
@@ -89,13 +99,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova BX in triangolo equilaterale con tangente di cerchio a X e lati di incrocio*
+*Lunghezza di un segmento, data una circonferenza tangente a un lato di un triangolo equilatero*
 
-> Il $ABC$ deve essere un triangolo equilaterale con lunghezza laterale $10$. Un cerchio che attraversa $A$ è tangente ai lati $BC$ (esclusi i punti finali) al punto $X$ e incontra i lati $AB$ e $AC$ di nuovo rispettivamente ai punti $D$ e $E$ (diversi da $A$). Dato che $BX > CX$ e $AD + AE = 13$, trovare la lunghezza $BX$. (Qui $PQ$ indica la lunghezza del segmento $PQ$.)
+> Sia $ABC$ un triangolo equilatero di lato $10$. Una circonferenza passante per $A$ è tangente al lato $BC$ (estremi esclusi) nel punto $X$, e incontra di nuovo i lati $AB$ e $AC$ rispettivamente nei punti $D$ e $E$ (diversi da $A$). Sapendo che $BX > CX$ e $AD + AE = 13$, trovare la lunghezza $BX$. (Qui $PQ$ indica la lunghezza del segmento $PQ$.)
 
 ![[src_jmo34yqa_yosen__q03.png]]
 
-**Risposta:** 5 + \sqrt{10}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $5 + \sqrt{10}$
+[[Quesiti/src_jmo34yqa_yosen#q03|src_jmo34yqa_yosen__Q03]]
 
 
 
@@ -123,15 +137,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum n in modo che la sostituzione di pietra a 5 giri finisca sempre su una pietra nera*
+*Minimo numero di pietre bianche perché, dopo cinque operazioni, resti sempre una pietra nera*
 
-> $n$ sia un numero intero con $0 \le n \le 5^5$. Mettete le pietre nere $n$ e le bianche $5^5 - n$ in fila e ripetete quindi la seguente operazione 5 volte:
-> 
-> Dividere la fila di pietre in gruppi di 5 da sinistra a destra. Per ciascun gruppo, sostituire tutte le 5 pietre di quel gruppo con 5 copie del colore che appare più spesso tra quelle 5 pietre.
-> 
-> Trova il valore minimo di $n$ in modo tale che, indipendentemente dalla disposizione iniziale, la sola pietra rimanente sia sempre nera.
+> Sia $n$ un intero con $0 \le n \le 5^5$. Si dispongano $n$ pietre nere e $5^5 - n$ pietre bianche in fila, poi si ripeta 5 volte l'operazione seguente.
+>
+> Si divida la fila di pietre in gruppi di 5, da sinistra a destra. Per ogni gruppo, si sostituiscano tutte e 5 le pietre di quel gruppo con 5 copie del colore che compare più spesso fra quelle 5 pietre.
+>
+> Trovare il minimo valore di $n$ tale che, qualunque sia la disposizione iniziale, l'unica pietra rimasta sia sempre nera.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalità]], [[method_induzione|Induzione]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Risposta:** 2883
+[[Quesiti/src_jmo34yqa_yosen#q04|src_jmo34yqa_yosen__Q04]]
 
 
 
@@ -157,11 +175,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo numero intero n >= 10 con prodotto del piano n/k) uguale a C(n,10)*
+*Minimo intero che soddisfa una disuguaglianza con la parte intera*
 
-> Trova il numero intero più piccolo $n \ge 10$ soddisfacente $$\left\lfloor \frac{n}{1} \right\rfloor \left\lfloor \frac{n}{2} \right\rfloor \cdots \left\lfloor \frac{n}{10} \right\rfloor = \binom{n}{10}.$$ Qui $[r]$ indica il numero intero più grande non superiore al numero reale $r$ (cioè $[3.14] = 3$, $[5] = 5$).
+> Trovare il minimo intero $n \ge 10$ che soddisfa
+>
+> $$\left\lfloor \frac{n}{1} \right\rfloor \left\lfloor \frac{n}{2} \right\rfloor \cdots \left\lfloor \frac{n}{10} \right\rfloor = \binom{n}{10}.$$
+>
+> Qui $[r]$ indica il massimo intero che non supera il numero reale $r$ (cioè $[3.14] = 3$, $[5] = 5$).
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 2519
+[[Quesiti/src_jmo34yqa_yosen#q05|src_jmo34yqa_yosen__Q05]]
 
 
 
@@ -185,11 +211,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ritrovare BC in triangolo di pari dimensioni con condizioni tangenti di cerchio e CF=10*
+*Lunghezza di un segmento in un triangolo isoscele, data una circonferenza tangente*
 
-> Nel triangolo di uguali dimensioni $ABC$ con $AB = AC = 5$, $D$ deve essere il punto laterale $AB$ con $AD = 3$, e $E$ deve essere un punto laterale $BC$ (esclusi i punti finali). Che $\omega$ sia il cerchio che attraversa $E$ e che sia tangente alla linea $AB$ al punto $B$; supponiamo che $\omega$ sia anche tangente al circoncircolo del triangolo $ADE$. Il $F$ deve essere l'intersezione di $\omega$ e della riga $AE$ diversa da $E$. Se $CF = 10$, trova la lunghezza $BC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Nel triangolo isoscele $ABC$ con $AB = AC = 5$, sia $D$ il punto sul lato $AB$ con $AD = 3$, e sia $E$ un punto sul lato $BC$ (estremi esclusi). Sia $\omega$ la circonferenza passante per $E$ e tangente alla retta $AB$ nel punto $B$; si supponga che $\omega$ sia anche tangente alla circonferenza circoscritta al triangolo $ADE$. Sia $F$ l'intersezione di $\omega$ e della retta $AE$, diversa da $E$. Se $CF = 10$, trovare la lunghezza $BC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-**Risposta:** \frac{14\sqrt{65}}{13}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $\frac{14\sqrt{65}}{13}$
+[[Quesiti/src_jmo34yqa_yosen#q06|src_jmo34yqa_yosen__Q06]]
 
 
 
@@ -213,11 +243,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conte le coppie (p,a) con p primo >= 3 e ap^4+2p^3+2p^2+1 un quadrato perfetto*
+*Coppie in cui un primo e un intero rendono un'espressione un quadrato perfetto*
 
-> Trova il numero di coppie $(p, a)$ dove $p$ è un primo con $p \ge 3$ e $a$ è un intero con $1 \le a \le 2024$, soddisfa $a < p^4$ e $ap^4 + 2p^3 + 2p^2 + 1$ è un quadrato perfetto.
+> Trovare il numero di coppie $(p, a)$ in cui $p$ è un primo con $p \ge 3$ e $a$ è un intero con $1 \le a \le 2024$, che soddisfano $a < p^4$ e $ap^4 + 2p^3 + 2p^2 + 1$ è un quadrato perfetto.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Risposta:** 16
+[[Quesiti/src_jmo34yqa_yosen#q07|src_jmo34yqa_yosen__Q07]]
 
 
 
@@ -243,11 +277,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i tuppi (f(0),...,f(2024)) per l'equazione funzionale su integri non negativi*
+*Quante tuple sono possibili per una funzione sugli interi non negativi*
 
-> Una funzione $f$ definita sui numeri interi non negativi prende valori di numeri interi non negativi e soddisfa, per tutti i numeri interi non negativi $m, n$: $$f(m+n)^2 = f(m \cdot f(n)) + f(n^2).$$ Quanti tupli $(f(0), f(1), \ldots, f(2024))$ sono possibili?
+> Una funzione $f$ definita sugli interi non negativi assume valori interi non negativi e soddisfa, per tutti gli interi non negativi $m, n$,
+>
+> $$f(m+n)^2 = f(m \cdot f(n)) + f(n^2).$$
+>
+> Quante tuple $(f(0), f(1), \ldots, f(2024))$ sono possibili?
 
-**Risposta:** 2^{990} + 1
+**Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Risposta:** $2^{990} + 1$
+[[Quesiti/src_jmo34yqa_yosen#q08|src_jmo34yqa_yosen__Q08]]
 
 
 
@@ -271,11 +313,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca DF in quadrilaterali ciclici con bisettore angolare e condizioni di angolo uguale*
+*Lunghezza di un segmento in un quadrilatero ciclico*
 
-> Il quadrilaterale ciclico $ABCD$ soddisfa $AB = 7$ e $BC = 18$. Il bisettore angolare di $\angle CDA$ incontra il lato $BC$ al punto $E$, e un punto $F$ sul segmento $DE$ soddisfa $\angle AED = \angle FCD$. Con $BE = 5$ e $EF = 3$, si trova la lunghezza $DF$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Il quadrilatero ciclico $ABCD$ soddisfa $AB = 7$ e $BC = 18$. La bisettrice dell'angolo $\angle CDA$ incontra il lato $BC$ nel punto $E$, e un punto $F$ sul segmento $DE$ soddisfa $\angle AED = \angle FCD$. Dati $BE = 5$ e $EF = 3$, trovare la lunghezza $DF$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-**Risposta:** \frac{17}{3}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $\frac{17}{3}$
+[[Quesiti/src_jmo34yqa_yosen#q09|src_jmo34yqa_yosen__Q09]]
 
 
 
@@ -308,15 +354,24 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le griglie da 100x100 con le lettere J,M,O dove ogni blocco da 2x2 è buono e esattamente 10000 coppie adiacenti diverse*
+*Riempimenti di una griglia con J, M, O in cui ogni blocco è buono e le coppie diverse sono un numero fissato*
 
-> Considera di riempire ogni cella di una griglia $100 \times 100$ con una delle lettere J, M, O. Chiamare un $2 \times 2$ sottogrid **buono blocco ** se soddisfa una delle seguenti condizioni: - Tutte le 4 celle contengono esattamente 1 lettera distinta. - Le 4 celle contengono esattamente 2 lettere distinte, ognuna appare esattamente due volte. - Le 4 celle contengono esattamente 3 lettere distinte, e le celle di basso a sinistra e di alto a destra contengono la stessa lettera.
-> 
-> Trovare il numero di riempimenti che soddisfano entrambe le seguenti condizioni: - Ogni sottogrido $2 \times 2$ è un buon blocco. - Il numero di coppie di celle adiacenti (con un bordo condiviso) che contengono lettere diverse è esattamente $10000$. (Le coppie non sono ordinate.)
-> 
-> I riempimenti che coincidono dopo la rotazione o la riflessione sono contati come distinti.
+> Si consideri il riempimento di ogni casella di una griglia $100 \times 100$ con una delle lettere J, M, O. Si chiami **blocco buono** una sottogriglia $2 \times 2$ se soddisfa una delle condizioni seguenti:
+> - tutte e 4 le caselle contengono esattamente 1 lettera distinta;
+> - le 4 caselle contengono esattamente 2 lettere distinte, ciascuna che compare esattamente due volte;
+> - le 4 caselle contengono esattamente 3 lettere distinte, e le caselle in basso a sinistra e in alto a destra contengono la stessa lettera.
+>
+> Trovare il numero di riempimenti che soddisfano entrambe le condizioni seguenti:
+> - ogni sottogriglia $2 \times 2$ è un blocco buono;
+> - il numero di coppie di caselle adiacenti (che condividono un lato) che contengono lettere diverse è esattamente $10000$. (Le coppie non sono ordinate.)
+>
+> Riempimenti che coincidono dopo una rotazione o una riflessione si contano come distinti.
 
-**Risposta:** \binom{198}{100} \cdot 3 \cdot 2^{100}
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Risposta:** $\binom{198}{100} \cdot 3 \cdot 2^{100}$
+[[Quesiti/src_jmo34yqa_yosen#q10|src_jmo34yqa_yosen__Q10]]
 
 
 
@@ -340,11 +395,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa minima f(100)+...+f(199) per la funzione che soddisfa le condizioni laterali del triangolo*
+*Minimo valore di una funzione per cui tre valori sono sempre lati di un triangolo*
 
-> Una funzione $f$ definita sui numeri interi positivi assume valori interi positivi, soddisfa $f(34) = 2024$, e ha la proprietà che per tutti i numeri interi positivi $a, b, c$, esiste un triangolo con lunghezze laterali $a + f(b)$, $b + f(c)$, $c + f(a)$ (dove tre punti collineari non formano un triangolo). Trova il valore minimo possibile di $f(100) + f(101) + \cdots + f(199)$.
+> Una funzione $f$ definita sugli interi positivi assume valori interi positivi, soddisfa $f(34) = 2024$, e ha la proprietà che per qualunque interi positivi $a, b, c$ esiste un triangolo di lati $a + f(b)$, $b + f(c)$, $c + f(a)$ (tre punti allineati non formano un triangolo). Trovare il minimo valore possibile di $f(100) + f(101) + \cdots + f(199)$.
 
+**Argomento:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Risposta:** 102050
+[[Quesiti/src_jmo34yqa_yosen#q11|src_jmo34yqa_yosen__Q11]]
 
 
 
@@ -370,8 +429,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i dupli (a_1,...,a_2100) mod 2100 che soddisfano una condizione di convoluzione di tipo Mobius*
+*Numero di tuple per cui esiste un'altra tupla con una somma su coppie coprime*
 
-> Trovare il numero di tuppi $(a_1, a_2, \ldots, a_{2100})$ di enti interi con $0 \le a_i \le 2099$ per tutti $i$, in modo che esista un tuple di enti $(b_1, b_2, \ldots, b_{2100})$ per il quale, per ogni intero $i$ con $1 \le i \le 2100$, $$a_i \equiv \sum_{\substack{\gcd(j-i,\,2100)=1 \\ 1 \le j \le 2100}} b_j \pmod{2100}.$$ Qui il lato destro è la somma di $b_j$ su tutti gli enti $j$ con $1 \le j \le 2100$ in modo che nessun intero $\ge 2$ divide sia $j - i$ che $2100$.
+> Trovare il numero di tuple $(a_1, a_2, \ldots, a_{2100})$ di interi con $0 \le a_i \le 2099$ per tutti i $i$, tali che esista una tupla di interi $(b_1, b_2, \ldots, b_{2100})$ per la quale, per ogni intero $i$ con $1 \le i \le 2100$,
+>
+> $$a_i \equiv \sum_{\substack{\gcd(j-i,\,2100)=1 \\ 1 \le j \le 2100}} b_j \pmod{2100}.$$
+>
+> Qui il secondo membro è la somma di $b_j$ su tutti gli interi $j$ con $1 \le j \le 2100$ tali che nessun intero $\ge 2$ divide sia $j - i$ sia $2100$.
 
-**Risposta:** \frac{2100^{210}}{2^{164} \cdot 3^{30}}
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_doppio_conteggio|Doppio conteggio]], [[method_bigezione|Bigezione / corrispondenza]]
+**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Risposta:** $\frac{2100^{210}}{2^{164} \cdot 3^{30}}$
+[[Quesiti/src_jmo34yqa_yosen#q12|src_jmo34yqa_yosen__Q12]]

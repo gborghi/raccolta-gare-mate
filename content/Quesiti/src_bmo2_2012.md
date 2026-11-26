@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero ciclico con diagonali che si incontrano a E; punti di mezzo dei quattro lati; dimostrare che i cerchi EPS e EQR hanno uguale raggio.*
+*Le circonferenze $EPS$ e $EQR$ hanno lo stesso raggio*
 
-> Le diagonali $AC$ e $BD$ di un quadrilaterale ciclico si incontrano a $E$. I punti intermedi dei lati $AB$, $BC$, $CD$ e $DA$ sono rispettivamente $P$, $Q$, $R$ e $S$. Prova che i cerchi $EPS$ e $EQR$ hanno lo stesso raggio.
+> Le diagonali $AC$ e $BD$ di un quadrilatero ciclico si incontrano in $E$. I punti medi dei lati $AB$, $BC$, $CD$ e $DA$ sono rispettivamente $P$, $Q$, $R$ e $S$. Dimostrare che le circonferenze $EPS$ e $EQR$ hanno lo stesso raggio.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2012#q01|src_bmo2_2012__Q01]]
 
 
 
@@ -58,11 +65,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione definita ricorrentemente su integri positivi utilizzando piani di (2n-1)/3 e 2n/3; decidere se f(n)-f(n-1) <= n per tutti i n>1.*
+*È vero che $f(n) - f(n-1) \le n$ per ogni $n > 1$?*
 
-> Una funzione $f$ è definita sui numeri interi positivi da $f(1) = 1$ e, per $n > 1$, da $$f(n) = f\!\left(\left\lfloor \frac{2n-1}{3} \right\rfloor\right) + f\!\left(\left\lfloor \frac{2n}{3} \right\rfloor\right)$$ dove $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$. È vero che $f(n) - f(n-1) \le n$ per tutti $n > 1$?
-> 
-> [Questi sono alcuni esempi di utilizzo di $\lfloor x \rfloor$: $\lfloor \pi \rfloor = 3$, $\lfloor 1729 \rfloor = 1729$ e $\left\lfloor \frac{2012}{1000} \right\rfloor = 2$.]
+> Una funzione $f$ è definita sugli interi positivi da $f(1) = 1$ e, per $n > 1$,
+> $$f(n) = f\!\left(\left\lfloor \frac{2n-1}{3} \right\rfloor\right) + f\!\left(\left\lfloor \frac{2n}{3} \right\rfloor\right)$$
+> dove $\lfloor x \rfloor$ indica il massimo intero minore o uguale a $x$. È vero che $f(n) - f(n-1) \le n$ per ogni $n > 1$?
+>
+> [Ecco alcuni esempi d'uso di $\lfloor x \rfloor$: $\lfloor \pi \rfloor = 3$, $\lfloor 1729 \rfloor = 1729$ e $\left\lfloor \frac{2012}{1000} \right\rfloor = 2$.]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2012#q02|src_bmo2_2012__Q02]]
 
 
 
@@ -85,9 +101,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I reali sono divisi in due sottosette disjointe; dimostrare che per ogni coppia (m,n) di integri positivi esiste x<y<z nello stesso sottosetto con m(z-y) =n(y-x).*
+*In uno stesso sottoinsieme ci sono $x < y < z$ con $m(z-y) = n(y-x)$*
 
-> L'insieme dei numeri reali è diviso in due sottinsiemi che non si intersecano. Prove che per ogni coppia $(m, n)$ di integri positivi, ci sono numeri reali $x < y < z$ tutti nello stesso sottoinsieme in modo tale che $m(z-y) = n(y-x)$.
+> L'insieme dei numeri reali è spezzato in due sottoinsiemi che non si intersecano. Dimostrare che per ogni coppia $(m, n)$ di interi positivi esistono numeri reali $x < y < z$, tutti nello stesso sottoinsieme, tali che $m(z-y) = n(y-x)$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2012#q03|src_bmo2_2012__Q03]]
 
 
 
@@ -112,6 +135,15 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra che c'è un intero positivo k tale che se m divide a^n+b^n+c^n-d^n-e^n-f^n per tutti n in [1,k], allora m lo divide per tutti gli interi positivi n.*
+*Un intero positivo $k$ che basta a garantire la divisibilità per ogni $n$*
 
-> Mostrare che esiste un intero positivo $k$ con la seguente proprietà: se $a, b, c, d, e$ e $f$ sono interi e $m$ è un divisore di $$a^n + b^n + c^n - d^n - e^n - f^n$$ per tutti gli interi $n$ nell'intervallo $1 \le n \le k$, allora $m$ è un divisore di $a^n + b^n + c^n - d^n - e^n - f^n$ per tutti gli interi positivi $n$.
+> Dimostrare che esiste un intero positivo $k$ con la proprietà seguente: se $a, b, c, d, e$ e $f$ sono interi e $m$ è un divisore di
+> $$a^n + b^n + c^n - d^n - e^n - f^n$$
+> per tutti gli interi $n$ nell'intervallo $1 \le n \le k$, allora $m$ è un divisore di $a^n + b^n + c^n - d^n - e^n - f^n$ per tutti gli interi positivi $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2012#q04|src_bmo2_2012__Q04]]

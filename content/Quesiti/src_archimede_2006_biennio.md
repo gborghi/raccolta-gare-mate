@@ -37,9 +37,12 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Find by knowing a=c/2, b=-c/3, a+b=0*
+*Finding a given a=c/2, b=-c/3, a+b=0*
 
-> The sum of two numbers a and b is equal to zero. Knowing that there is a number c such that a = c 2 and b = −c 3, say how much is a.
+> The sum of two numbers a and b is equal to zero. Given that there exists a number c
+> such that a = c
+> 2 and b = −c
+> 3, say how much a is worth.
 >
 > - **(A)** −6,
 > - **(B)** −3,
@@ -47,7 +50,9 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(D)** 0,
 > - **(E)** 2.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2006_biennio#q01|src_archimede_2006_biennio__Q01]]
 
 
 
@@ -79,9 +84,9 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of a C obtained from a circular crown*
+*Perimeter of a C obtained from an annulus*
 
-> Claudia drew on the initial notebook of her name, a C. The drawing was made by cutting exactly in half a circular crown with an inner radius of 1 cm and an outer radius of 4 cm. What's the perimeter of C?
+> Claudia drew on her notebook the initial of her name, a C. The drawing was made by cutting exactly in half an annulus with inner radius 1 cm and outer radius 4 cm. What is the perimeter of the C?
 >
 > - **(A)** 5 cm,
 > - **(B)** 5π cm,
@@ -89,7 +94,10 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(D)** (5+6π) cm,
 > - **(E)** (6+10π) cm.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2006_biennio#q02|src_archimede_2006_biennio__Q02]]
 
 
 
@@ -119,9 +127,9 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of positive divisors of 5·4·3·2*
+*Number of positive divisors of 5*4*3*2*
 
-> How many positive divisors does the number 5·4·3·2 have? (The divisors of a number must also include 1 and the number itself.)
+> How many positive divisors does the number 5·4·3·2 have? (The divisors of a number must include 1 and the number itself.)
 >
 > - **(A)** 4,
 > - **(B)** 8,
@@ -129,7 +137,10 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(D)** 12,
 > - **(E)** 16.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2006_biennio#q03|src_archimede_2006_biennio__Q03]]
 
 
 
@@ -161,16 +172,18 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 
 *Original price after a 15% discount*
 
-> Paolo bought an item getting a 15% discount on the original price and
-> paid 106.25 Euros for it. What was the original price?
+> Paolo bought an item at a 15% discount on the original price and paid 106.25 euros for it. What was the original price?
 >
-> - **(A)** Less than 123 Euros,
-> - **(B)** 124 Euros,
-> - **(C)** 125 Euros,
-> - **(D)** 127 Euros,
-> - **(E)** more than 128 Euros.
+> - **(A)** less than 123 euros,
+> - **(B)** 124 euros,
+> - **(C)** 125 euros,
+> - **(D)** 127 euros,
+> - **(E)** more than 128 euros.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2006_biennio#q04|src_archimede_2006_biennio__Q04]]
 
 
 
@@ -203,9 +216,12 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unit number of 3 times higher than square 2006*
+*Units digit of 3 raised to the power of 2006 squared*
 
-> Simone writes on the board the number 3, then deletes it and replaces it with her square, 9, then deletes the 9 and replaces it with her square, 81. Repeat this operation for 2006 times in total: every time you replace the number written with its square. What is the unit number of the last written number?
+> Simone writes the number 3 on the board, then erases it and replaces it with its
+> square, 9, then erases the 9 and replaces it with its square, 81. He repeats this
+> operation for 2006 times in total: each time he replaces the number written with
+> its square. What is the units digit of the last number written?
 >
 > - **(A)** 1,
 > - **(B)** 3,
@@ -213,7 +229,11 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(D)** 7,
 > - **(E)** 9.
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2006_biennio#q05|src_archimede_2006_biennio__Q05]]
 
 
 
@@ -242,9 +262,10 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of a rectangle with base 3/2 of height*
+*Perimeter of a rectangle with base 3/2 of the height*
 
-> In a rectangle of 150 m2 the size of the base is equal to 3.2 of the height. What is the perimeter of the rectangle?
+> In a rectangle of area 150 m2 the measure of the base is equal to the 3
+> 2 of that of the height. How much does the perimeter of the rectangle measure?
 >
 > - **(A)** 50 m,
 > - **(B)** 54 m,
@@ -252,7 +273,9 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(D)** 64 m,
 > - **(E)** 70 m.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_archimede_2006_biennio#q06|src_archimede_2006_biennio__Q06]]
 
 
 
@@ -283,9 +306,9 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multipleths of 3 between 2000 and 4000*
+*How many multiples of 3 between 2000 and 4000*
 
-> How many times 3 is greater than or equal to 2000 and less than or equal to 4000?
+> How many multiples of 3 are greater than or equal to 2000 and less than or equal to 4000?
 >
 > - **(A)** 666,
 > - **(B)** 667,
@@ -293,7 +316,11 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(D)** 669,
 > - **(E)** 670.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2006_biennio#q07|src_archimede_2006_biennio__Q07]]
 
 
 
@@ -328,9 +355,9 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordinare 3, radice 10, radice 2 piu radice 3*
+*Ordering 3, √10, √2 + √3*
 
-> Mettere in ordine crescente i tre numeri 3,
+> Arrange in increasing order the three numbers 3,
 > √
 > 10,
 > √
@@ -344,7 +371,10 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(D)** 3 < √ 2 + √ 3 < √ 10,
 > - **(E)** √ 2 + √ 3 < √ 10 < 3.
 
-**Answer:** D
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+[[Quesiti/src_archimede_2006_biennio#q08|src_archimede_2006_biennio__Q08]]
 
 
 
@@ -399,30 +429,12 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*DC length with DE parallel to AB and area ratio*
+*Length of DC when DE is parallel to AB and the area ratio is given*
 
 ![[src_archimede_2006_biennio__prob9.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.2]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (3,0);
-  \coordinate (C) at (0,4);
-  \coordinate (D) at (0,1.5);
-  \coordinate (E) at (1.875,1.5);
-  \draw (A) -- (B) -- (C) -- cycle;
-  \draw (D) -- (E);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above left] at (C) {$C$};
-  \node[left] at (D) {$D$};
-  \node[right] at (E) {$E$};
-\end{tikzpicture}
-\end{document}
-```
-
-> In the figure below, the DE segment is parallel to AB. Knowing that the area of DEC is equal to 3/4 of that of ABC and that AC measures 1 m, how much does DC measure?
+> In the figure alongside, the segment DE is parallel to AB. Given that the area of DEC is 3
+> 4 of the area of ABC and that AC measures 1 m, what is the length of DC?
 >
 > - **(A)** 2 − √ 3 2 m,
 > - **(B)** (2 − √ 3) m,
@@ -430,7 +442,12 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(D)** 3 4 m,
 > - **(E)** √ 3 2 m.
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2006_biennio#q09|src_archimede_2006_biennio__Q09]]
 
 
 
@@ -462,17 +479,20 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Packs in a bag with only one liar*
+*Marbles in a bag with only one liar*
 
-> There's a bag of eggs in it. Mary says, "There are three cards in the bag and they're black". Luke says, "In the bag there are two black beads and two red beads". George says, "There's only black balls in the bag". Knowing only one of the three lied, how many balls are in the bag?
+> There are some marbles in a bag. Maria says: "There are three marbles in the bag in all, and they are black". Luca says: "There are two black marbles and two red marbles in the bag". Giorgio says: "There are only black marbles in the bag". Given that only one of the three lied, how many marbles are in the bag?
 >
-> - **(A)** One of them.
+> - **(A)** one,
 > - **(B)** two,
 > - **(C)** three,
 > - **(D)** four,
-> - **(E)** It is not possible to estimate the number based on the problem data.
+> - **(E)** it is not possible to determine the number from the data of the problem.
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2006_biennio#q10|src_archimede_2006_biennio__Q10]]
 
 
 
@@ -505,9 +525,9 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report areas of squares nested at midpoints*
+*Ratio of areas of nested squares on midpoints*
 
-> Given an ABCD square, the midpoints of the sides having a common vertex join together to form a new EFGH square. We repeat the same operation for EFGH and we get a new square A′B′C′D′. What is the ratio of the ABCD area to the A′B′C′D′ area?
+> Given a square ABCD, the midpoints of the sides sharing a vertex are joined to form a new square EFGH. The same operation is repeated for EFGH to obtain a new square A′B′C′D′. What is the ratio of the area of ABCD to the area of A′B′C′D′?
 >
 > - **(A)** 2,
 > - **(B)** 2 √ 2,
@@ -515,7 +535,11 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(D)** 4 √ 2,
 > - **(E)** 8.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2006_biennio#q11|src_archimede_2006_biennio__Q11]]
 
 
 
@@ -546,9 +570,9 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordering LAPIS with the first and last vowel letters*
+*Ordering LAPIS with vowels as first and last letters*
 
-> How many distinct ways can the letters L, A, P, I, S be arranged so that the first and last letters are vowels?
+> In how many distinct ways can the letters L, A, P, I, S be ordered so that the first and last letters are vowels?
 >
 > - **(A)** 6,
 > - **(B)** 8,
@@ -556,7 +580,11 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(D)** 12,
 > - **(E)** 24.
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2006_biennio#q12|src_archimede_2006_biennio__Q12]]
 
 
 
@@ -587,9 +615,9 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total number of members by voting percentage*
+*Total number of members from vote percentages*
 
-> In an association, each member has the right to vote for the president. The current President was elected with twice as many votes as his only opponent. Knowing that three members did not vote and that the President-elect got 64% of the votes of the rightful owners, determine how many members there are in total.
+> In an association, each member is entitled to vote for the president. The current president was elected with twice as many votes as his only opponent. Knowing that three members did not vote and that the elected president obtained 64% of the votes of those entitled to vote, determine how many members there are in total.
 >
 > - **(A)** 69,
 > - **(B)** 75,
@@ -597,7 +625,10 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(D)** 87,
 > - **(E)** 99.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2006_biennio#q13|src_archimede_2006_biennio__Q13]]
 
 
 
@@ -630,9 +661,9 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tokens on a chessboard sum row plus column*
+*Tokens on a chessboard: row sum plus column sum*
 
-> In a chessboard 8 × 8 the rows and columns are numbered from 1 to 8. On each box Mauro supports tokens according to this rule: look at the number of rows and columns corresponding to the box, add them up and put on the box as many tokens as the result of the sum. How many tokens does it support in all?
+> On an 8 × 8 chessboard, the rows and columns are numbered from 1 to 8. Mauro places tokens on each square according to this rule: he looks at the row and column numbers corresponding to the square, adds them, and puts on the square as many tokens as the result of the sum. How many tokens does he place in total?
 >
 > - **(A)** 482,
 > - **(B)** 576,
@@ -640,7 +671,10 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(D)** 1024,
 > - **(E)** 1152.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+[[Quesiti/src_archimede_2006_biennio#q14|src_archimede_2006_biennio__Q14]]
 
 
 
@@ -672,17 +706,20 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Heritage after growth of 50% for four hours*
+*Wealth after a 50% increase over four hours*
 
-> Every hour Uncle Paperone's fortune increases by 50%. If at noon on a certain day Paperone owns 64 fantasilliards, what will his fortune be at 4 p.m. on the same day?
+> Every hour the wealth of Uncle Scrooge increases by 50%. If at 12 on a certain day Scrooge has 64 fantastiliardi, what will his wealth be at 16 on the same day?
 >
-> - **(A)** 192 great people.
-> - **(B)** 256, that's great.
-> - **(C)** 324 fantastic people.
-> - **(D)** 486 fantastic people,
-> - **(E)** 1024 wonderful days.
+> - **(A)** 192 fantastiliardi,
+> - **(B)** 256 fantastiliardi,
+> - **(C)** 324 fantastiliardi,
+> - **(D)** 486 fantastiliardi,
+> - **(E)** 1024 fantastiliardi.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2006_biennio#q15|src_archimede_2006_biennio__Q15]]
 
 
 
@@ -715,17 +752,21 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Students in both chemistry and physics competitions*
+*Students in both the chemistry and physics competitions*
 
-> Of the 200 pupils in one school, 150 took part in a chemistry competition and 130 in a physics competition. How many students participated in both competitions?
+> Among the 200 pupils of a school, 150 took part in a chemistry competition and 130 took part in a physics competition. How many students took part in both competitions?
 >
 > - **(A)** 70,
 > - **(B)** 80,
 > - **(C)** 120,
 > - **(D)** 130,
-> - **(E)** It is not possible to estimate the number based on the problem data.
+> - **(E)** it is not possible to determine the number from the data of the problem.
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2006_biennio#q16|src_archimede_2006_biennio__Q16]]
 
 
 
@@ -781,34 +822,11 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of the square inscribed in an equilateral triangle*
+*Side of a square built on an equilateral triangle of side 1 m*
 
 ![[src_archimede_2006_biennio__prob17.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (6,0);
-  \coordinate (C) at (3,5.196);
-  \coordinate (D) at (1.607,0);
-  \coordinate (E) at (4.393,0);
-  \coordinate (F) at (4.393,2.785);
-  \coordinate (G) at (1.607,2.785);
-  \draw (A) -- (B) -- (C) -- cycle;
-  \draw (D) -- (E) -- (F) -- (G) -- cycle;
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above] at (C) {$C$};
-  \node[below] at (D) {$D$};
-  \node[below] at (E) {$E$};
-  \node[above right] at (F) {$F$};
-  \node[above left] at (G) {$G$};
-\end{tikzpicture}
-\end{document}
-```
-
-> In the figure next to the triangle ABC is equilateral and has a side of 1 m and DEFG is a square. What's the size of the DE side?
+> In the figure alongside, triangle ABC is equilateral with side 1 m, and DEFG is a square. What is the length of the side DE?
 >
 > - **(A)** 1 3 m,
 > - **(B)** (2 √ 3 −3) m,
@@ -816,7 +834,11 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(D)** 1 + √ 3 4 m,
 > - **(E)** ( √ 3 −1) m.
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2006_biennio#q17|src_archimede_2006_biennio__Q17]]
 
 
 
@@ -849,7 +871,7 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 
 *Numbers with digits 3,4,6,7 divisible by 44*
 
-> Consider all four-digit numbers consisting of the digits 3, 4, 6, 7, arranged in any order and without any number being repeated. How many of these are divisible by 44?
+> Consider all four-digit numbers formed by the digits 3, 4, 6, 7, arranged in any order and with no digit repeated. How many of these are divisible by 44?
 >
 > - **(A)** 0,
 > - **(B)** 1,
@@ -857,7 +879,10 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(D)** 3,
 > - **(E)** 4.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2006_biennio#q18|src_archimede_2006_biennio__Q18]]
 
 
 
@@ -895,9 +920,19 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solution of a sum of linear fractions in x*
+*Solution of a sum of linear fractional terms in x*
 
-> If x is the solution of the equation x + 1 1 + x + 2 2 + x + 3 3 + . . . + x + 100 100 = 100 then:
+> If x is a solution of the equation
+> x + 1
+> 1
+> + x + 2
+> 2
+> + x + 3
+> 3
+> + . . . + x + 100
+> 100
+> = 100
+> then:
 >
 > - **(A)** x = −2,
 > - **(B)** −1 ≤x ≤1,
@@ -905,7 +940,9 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 > - **(D)** x = 2,
 > - **(E)** x ≥3.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2006_biennio#q19|src_archimede_2006_biennio__Q19]]
 
 
 
@@ -935,14 +972,16 @@ Find by knowing a=c/2, b=-c/3, a+b=0*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of intersection between cube and sphere centered at the vertex*
+*Volume of the intersection of a cube and a sphere centered at a vertex*
 
-> Both Q is a cube and S is a sphere that has a center at one of the vertices of Q and a radius equal to the side of Q. The volume of the intersection between Q and S is:
+> Let Q be a cube and let S be a sphere whose center is at one of the vertices of Q and whose radius equals the side of Q. The volume of the intersection of Q and S is:
 >
-> - **(A)** one-eighth of the volume of the sphere,
-> - **(B)** a quarter of the volume of the sphere,
+> - **(A)** one eighth of the volume of the sphere,
+> - **(B)** one quarter of the volume of the sphere,
 > - **(C)** one sixth of the volume of the cube,
-> - **(D)** a quarter of the volume of the cube,
+> - **(D)** one quarter of the volume of the cube,
 > - **(E)** half the volume of the cube.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+[[Quesiti/src_archimede_2006_biennio#q20|src_archimede_2006_biennio__Q20]]

@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fake lighter coin with 6 weighings*
+*Fake coin lighter with 6 weighings*
 
-> All coins are identical except one counterfeit that is lighter. Using a two-pan balance, at most 6 weighings are allowed. What is the maximum number of coins?
+> All the coins are identical except for one counterfeit coin that is lighter. A two-pan balance, at most 6 comparisons. What is the maximum number of coins?
 
-**Answer:** 729
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2026_student_finale#qs1|src_kangourou_2026_student_finale__QS1]]
 
 
 
@@ -57,11 +61,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit palindrome pairs with palindromic sum*
+*Pairs of 4-digit palindromes with a palindromic sum*
 
-> How many unordered pairs of 4-digit palindromes have a palindrome sum that is a 5-digit palindrome?
+> How many unordered pairs of 4-digit palindromes have a 5-digit palindromic sum?
 
-**Answer:** 36
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2026_student_finale#qs2|src_kangourou_2026_student_finale__QS2]]
 
 
 
@@ -84,11 +93,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coin moving along the boundary of a circumscribed pentagon*
+*A coin tracing the edge of a circumscribed pentagon*
 
-> Convex pentagon circumscribed about a circle of radius $10$ cm, perimeter $75$ cm, angles $>90^\circ$. A coin of radius $1$ cm whose center moves along the boundary. What is the area covered internally?
+> Convex pentagon circumscribed about a circle of radius $10$ cm, perimeter $75$ cm, angles $>90^\circ$. A coin of radius $1$ cm whose center traces the edge. What is the area covered internally?
 
-**Answer:** 71,25
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2026_student_finale#qs3|src_kangourou_2026_student_finale__QS3]]
 
 
 
@@ -111,11 +124,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Factorials to remove so that the product is a perfect square*
+*Factors to remove so that the product is a perfect square*
 
-> Product $1!\times\cdots\times 2026!$. What is the minimum number of factors $n!$ that must be removed so that the remaining product is a perfect square?
+> Product $1!\times\cdots\times 2026!$. What is the minimum number $n!$ of factors to remove so that the remaining product is a perfect square?
 
-**Answer:** 2
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2026_student_finale#qs4|src_kangourou_2026_student_finale__QS4]]
 
 
 
@@ -138,11 +155,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of sides in any triangle, golden section*
+*Side ratios in every triangle, golden section*
 
-> Smallest $K>1$ such that in every non-degenerate triangle the ratio of two sides lies in $[1,K]$.
+> The smallest $K>1$ such that in every non-degenerate triangle two sides have a ratio in $[1,K]$.
 
-**Answer:** $(1+\sqrt{5})/2$
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2026_student_finale#qs5|src_kangourou_2026_student_finale__QS5]]
 
 
 
@@ -167,6 +188,10 @@ level: kangourou
 
 *Limited sums and unlimited cubes*
 
-> To the sequence $\{a_k\}$ associate $S_n=a_1+\cdots+a_n$ and $C_n=a_1^3+\cdots+a_n^3$. Do there exist sequences such that for every $n\ge 1$ we have $1\le S_n\le 2$, but such that $\{C_n\}$ is not bounded?
+> Let $S_n=a_1+\cdots+a_n$ and $C_n=a_1^3+\cdots+a_n^3$ be associated with the sequence $\{a_k\}$. Do there exist sequences such that, for every $n\ge 1$, $1\le S_n\le 2$ holds, but such that $\{C_n\}$ is not bounded?
 
-**Answer:** they exist
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2026_student_finale#qs6|src_kangourou_2026_student_finale__QS6]]

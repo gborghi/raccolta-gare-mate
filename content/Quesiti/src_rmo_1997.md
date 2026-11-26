@@ -29,9 +29,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*area triangolare e area quadrilaterale da ceviani*
+*P interno al triangolo, aree 4, 8 e 13 di tre regioni: area del quadrilatero rimanente*
 
-> Il $P$ deve essere un punto interno di un triangolo $ABC$ e $BP$ e $CP$ devono incontrare $AC$ e $AB$ rispettivamente in $E$ e $F$. Se $[BPF] = 4$, $[BPC] = 8$ e $[CPE] = 13$, trovare $[AFPE]$. (Qui $[\cdot]$ indica l'area di un triangolo o di un quadrilaterale, a seconda del caso).
+> Sia $P$ un punto interno di un triangolo $ABC$ e le rette $BP$ e $CP$ incontrino $AC$ e $AB$ rispettivamente in $E$ e $F$. Se $[BPF] = 4$, $[BPC] = 8$ e $[CPE] = 13$, trovare $[AFPE]$. Qui $[\cdot]$ indica l'area di un triangolo o di un quadrilatero, secondo il caso.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1997#q01|src_rmo_1997__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i valori presi da un termine di sequenza dato la ricorrenza gcd*
+*a_n = 20 + n², d_n = MCD(a_n, a_{n+1}): quali valori assume d_n, e ciascuno è raggiunto*
 
-> Per ogni intero positivo $n$, definire $a_n = 20 + n^2$ e $d_n = \gcd(a_n, a_{n+1})$. Trova l'insieme di tutti i valori presi da $d_n$ e mostra con esempi che ciascuno di questi valori è raggiunto.
+> Per ogni intero positivo $n$, si definisca $a_n = 20 + n^2$, e $d_n = \gcd(a_n, a_{n+1})$. Trovare l'insieme di tutti i valori assunti da $d_n$ e mostrare con esempi che ciascuno di questi valori viene raggiunto.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_rmo_1997#q02|src_rmo_1997__Q02]]
 
 
 
@@ -81,9 +93,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi l'equazione che coinvolge le funzioni del pavimento*
+*Equazione con parte intera e parte frazionaria: risolvere per x reale*
 
-> Risolvere per $x$ reale: $$\frac{1}{[x]} + \frac{1}{[2x]} = \{x\} + \frac{1}{3},$$ dove $[x]$ è il numero intero più grande inferiore o uguale a $x$ e $\{x\} = x - [x]$. [e.g. $[3.4] = 3$ e $\{3.4\} = 0.4$.]
+> Risolvere per $x$ reale:
+>
+> $$\frac{1}{[x]} + \frac{1}{[2x]} = \{x\} + \frac{1}{3},$$
+>
+> dove $[x]$ è il massimo intero minore o uguale a $x$ e $\{x\} = x - [x]$. Per esempio, $[3.4] = 3$ e $\{3.4\} = 0.4$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_1997#q03|src_rmo_1997__Q03]]
 
 
 
@@ -110,13 +132,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove due disuguaglianze nel parallelo ABCD con diagonali perpendicolari*
+*Quadrilatero con un paio di lati paralleli e diagonali perpendicolari: due disuguaglianze sui lati*
 
-> In un quadrilaterale $ABCD$, è dato che $AB$ è parallelo a $CD$ e che le diagonali $AC$ e $BD$ sono perpendicolari l'una all'altra. Mostralo.
-> 
+> In un quadrilatero $ABCD$, $AB$ è parallelo a $CD$ e le diagonali $AC$ e $BD$ sono perpendicolari. Dimostrare che
+>
 > (a) $AD \cdot BC \ge AB \cdot CD$;
-> 
+>
 > (b) $AD + BC \ge AB + CD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1997#q04|src_rmo_1997__Q04]]
 
 
 
@@ -141,9 +169,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine se tre espressioni reali possono essere lunghezze laterali del triangolo*
+*Tre reali positivi distinti: quei tre valori assoluti di differenze di rapporti possono essere lati di un triangolo?*
 
-> Lasciate che $x$, $y$ e $z$ siano tre numeri reali positivi distinti. Determinare con prova se i tre numeri reali $$\left|\frac{x}{y} - \frac{y}{x}\right|, \quad \left|\frac{y}{z} - \frac{z}{y}\right|, \quad \left|\frac{z}{x} - \frac{x}{z}\right|$$ possono essere o meno le lunghezze dei lati di un triangolo.
+> Siano $x$, $y$ e $z$ tre numeri reali positivi distinti. Stabilire, con dimostrazione, se i tre numeri reali
+>
+> $$\left|\frac{x}{y} - \frac{y}{x}\right|, \quad \left|\frac{y}{z} - \frac{z}{y}\right|, \quad \left|\frac{z}{x} - \frac{x}{z}\right|$$
+>
+> possano essere le lunghezze dei lati di un triangolo.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_1997#q05|src_rmo_1997__Q05]]
 
 
 
@@ -172,12 +210,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie non ordinate {A,B} di sottoinsiemi di X con A non sottoinsieme di B e A∩B≠X*
+*Coppie non ordinate di sottoinsiemi distinti di un insieme di n elementi la cui unione è l'insieme intero*
 
-> Trovare il numero di coppie non ordinate $\{A, B\}$ (cioè le coppie $\{A, B\}$ e $\{B, A\}$ sono considerate uguali) di sottoinsiemi di un insieme $n$ di elementi $X$ che soddisfano le condizioni:
-> 
+> Trovare il numero di coppie non ordinate $\{A, B\}$, cioè le coppie $\{A, B\}$ e $\{B, A\}$ si considerano la stessa, di sottoinsiemi di un insieme $X$ di $n$ elementi che soddisfano le condizioni:
+>
 > (a) $A \neq B$;
-> 
+>
 > (b) $A \cup B = X$.
-> 
-> [ad esempio, se $X = \{a, b, c, d\}$, allora $\{\{a,b\}, \{b,c,d\}\}$, $\{\{a\}, \{a,b,c,d\}\}$, $\{\{a,b,c,d\}, \{b,c\}\}$, $\{\phi, \{a,b,c,d\}\}$ sono alcune delle coppie ammissibili.]
+>
+> Per esempio, se $X = \{a, b, c, d\}$, allora $\{\{a,b\}, \{b,c,d\}\}$, $\{\{a\}, \{a,b,c,d\}\}$, $\{\{a,b,c,d\}, \{b,c\}\}$, $\{\phi, \{a,b,c,d\}\}$ sono alcune delle coppie ammissibili.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_rmo_1997#q06|src_rmo_1997__Q06]]

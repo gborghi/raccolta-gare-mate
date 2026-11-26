@@ -12,116 +12,223 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_geometria_solida,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Isobarycenter locus as line varies in plane triangle*
+*Lieu de l'isobarycentre des intersections d'une droite avec les côtés d'un triangle*
 
-> In a plane $P$, we are given a triangle $ABC$. For each line $D$, parallel to none of the sides, one associates the point $G_D$, the isobarycenter of the three feet of the perpendiculars from $A$, $B$, $C$ to $D$ and to the lines $(AB)$, $(BC)$, and $(CA)$. The object of this exercise is to determine the set $\mathcal{F}$ of points $G_D$ as $D$ varies.
-> 
-> 1. Show that when $D$ moves while remaining parallel to a line $\Delta$, the point $G_D$ traces out a line $\Delta_0$.
-> 
-> 2. Suppose, in this sub-question only, that triangle $ABC$ is equilateral. Show that when $D$ varies, the lines $\Delta_0$ are all tangent to a common circle and determine the set $\mathcal{F}$ in this case.
-> 
-> 3. Return to the general case. Show that one can find an equilateral triangle $A'B'C'$ in space whose orthogonal projection onto the plane $P$ is the triangle $ABC$, and deduce the set $\mathcal{F}$.
+> **Exercice I**
+>
+> Dans un plan $\mathcal{P}$, on se donne un triangle $ABC$.
+>
+> À toute droite $D$, non parallèle à l'un de ses côtés, on associe le point $G_D$, isobarycentre des trois points communs à $D$ et aux droites $(AB)$, $(BC)$ et $(CA)$.
+>
+> L'objet de cet exercice est de déterminer l'ensemble $\mathcal{F}$ des points $G_D$ lorsque $D$ varie.
+>
+> 1. Démontrer que, lorsque $D$ se déplace en restant parallèle à une droite $\delta$, le point $G_D$ décrit une droite $\Delta_\delta$.
+> 2. On suppose, dans cette question seulement, $ABC$ équilatéral. Montrer que, lorsque $\delta$ varie, les droites $\Delta_\delta$ sont toutes tangentes à un même cercle, et déterminer l'ensemble $\mathcal{F}$ dans ce cas.
+> 3. On revient au cas général. Montrer que l'on peut trouver un triangle équilatéral $A'B'C'$ de l'espace dont le projeté orthogonal sur le plan $\mathcal{P}$ est le triangle $ABC$, et en déduire l'ensemble $\mathcal{F}$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_geometria_solida|Géométrie dans l'espace]], [[topic_geometria_analitica|Géométrie analytique]]
+**Metodo:** [[method_coordinate|Coordonnées]], [[method_simmetria|Symétrie]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_astrazione|Abstraction]], [[skill_modellizzazione|Modélisation]]
+**Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Locus isobarycenter come linea varia nel triangolo piatto*
+*Luogo dell'isobaricentro delle intersezioni di una retta con i lati di un triangolo*
 
-> In un piano $P$, abbiamo un triangolo $ABC$. Per ciascuna linea $D$, parallela a nessuna delle laterali, si associa il punto $G_D$, l'isobariocentro dei tre piedi delle perpendicolari da $A$, $B$, $C$ a $D$ e alle linee $(AB)$, $(BC)$ e $(CA)$. L'obiettivo di questo esercizio è determinare l'insieme $\mathcal{F}$ dei punti $G_D$ in quanto $D$ varia.
-> 
-> 1. Indicare che quando $D$ si muove mentre rimane parallelo a una linea $\Delta$, il punto $G_D$ traccia una linea $\Delta_0$.
-> 
-> 2. Supponiamo, solo in questa sotto-questione, che il triangolo $ABC$ sia equilaterale. Mostrare che quando $D$ varia, le linee $\Delta_0$ sono tutte tangenti a un cerchio comune e determinare il set $\mathcal{F}$ in questo caso.
-> 
-> 3. Torniamo al caso generale. Mostrare che si può trovare un triangolo equilaterale $A'B'C'$ nello spazio la cui proiezione ortogonale sul piano $P$ è il triangolo $ABC$, e dedurre l'insieme $\mathcal{F}$.
+> **Esercizio I**
+>
+> In un piano $\mathcal{P}$ è dato un triangolo $ABC$.
+>
+> A ogni retta $D$, non parallela a uno dei suoi lati, si associa il punto $G_D$, isobaricentro dei tre punti comuni a $D$ e alle rette $(AB)$, $(BC)$ e $(CA)$.
+>
+> Lo scopo di questo esercizio è determinare l'insieme $\mathcal{F}$ dei punti $G_D$ al variare di $D$.
+>
+> 1. Dimostrare che, quando $D$ si sposta restando parallela a una retta $\delta$, il punto $G_D$ descrive una retta $\Delta_\delta$.
+> 2. Si supponga, solo in questa domanda, che $ABC$ sia equilatero. Dimostrare che, al variare di $\delta$, le rette $\Delta_\delta$ sono tutte tangenti a uno stesso cerchio, e determinare l'insieme $\mathcal{F}$ in questo caso.
+> 3. Si torna al caso generale. Dimostrare che si può trovare un triangolo equilatero $A'B'C'$ dello spazio la cui proiezione ortogonale sul piano $\mathcal{P}$ è il triangolo $ABC$, e dedurne l'insieme $\mathcal{F}$.
+
+[[Quesiti/src_cgen_1995#q01|src_cgen_1995__Q01]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Locus of the isobarycentre of the intersections of a line with the sides of a triangle*
+
+> **Exercise I**
+>
+> In a plane $\mathcal{P}$, a triangle $ABC$ is given.
+>
+> To every line $D$, not parallel to one of its sides, one associates the point $G_D$, the isobarycentre of the three points common to $D$ and to the lines $(AB)$, $(BC)$ and $(CA)$.
+>
+> The aim of this exercise is to determine the set $\mathcal{F}$ of the points $G_D$ as $D$ varies.
+>
+> 1. Prove that, when $D$ moves while remaining parallel to a line $\delta$, the point $G_D$ describes a line $\Delta_\delta$.
+> 2. Assume, in this question only, that $ABC$ is equilateral. Prove that, as $\delta$ varies, the lines $\Delta_\delta$ are all tangent to one and the same circle, and determine the set $\mathcal{F}$ in this case.
+> 3. Return to the general case. Prove that one can find an equilateral triangle $A'B'C'$ in space whose orthogonal projection onto the plane $\mathcal{P}$ is the triangle $ABC$, and deduce the set $\mathcal{F}$.
+
+[[Quesiti/src_cgen_1995#q01|src_cgen_1995__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Convergence of a sequence defined by a square-root recurrence*
+*Convergence de u_{n+1} = √(u_n) + 1/(n+1)*
 
-> Study the convergence of the sequence $(u_n)_{n \in \mathbb{N}}$ defined by
-> $$\begin{cases} u_0 \ge 0 \text{ and for all } n \in \mathbb{N}:\\[4pt] u_{n+1} = \sqrt{u_n + \dfrac{4}{n+1}} \end{cases}$$
+> **Exercice II**
+>
+> Étudier la convergence de la suite $(u_n)_{n \in \mathbb{N}}$ définie par $u_0 \geqslant 0$ et, pour tout $n \in \mathbb{N}$,
+>
+> $$u_{n+1} = \sqrt{u_n} + \frac{1}{n+1}.$$
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_insiemi_funzioni|Ensembles et fonctions]], [[topic_algebra|Algèbre]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_lettura_attenta|Lecture attentive]]
+**Area:** [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Convergenza di una sequenza definita da una ricorrenza di radice quadrata*
+*Convergenza di u_{n+1} = √(u_n) + 1/(n+1)*
 
-> Studiare la convergenza della sequenza $(u_n)_{n \in \mathbb{N}}$ definita da $$\begin{cases} u_0 \ge 0 \text{ and for all } n \in \mathbb{N}:\\[4pt] u_{n+1} = \sqrt{u_n + \dfrac{4}{n+1}} \end{cases}$$
+> **Esercizio II**
+>
+> Studiare la convergenza della successione $(u_n)_{n \in \mathbb{N}}$ definita da $u_0 \geqslant 0$ e, per ogni $n \in \mathbb{N}$,
+>
+> $$u_{n+1} = \sqrt{u_n} + \frac{1}{n+1}.$$
+
+[[Quesiti/src_cgen_1995#q02|src_cgen_1995__Q02]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Convergence of u_{n+1} = √(u_n) + 1/(n+1)*
+
+> **Exercise II**
+>
+> Study the convergence of the sequence $(u_n)_{n \in \mathbb{N}}$ defined by $u_0 \geqslant 0$ and, for every $n \in \mathbb{N}$,
+>
+> $$u_{n+1} = \sqrt{u_n} + \frac{1}{n+1}.$$
+
+[[Quesiti/src_cgen_1995#q02|src_cgen_1995__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_probabilita,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_stima,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Minimum area of region inside at least two of three circles of radius R*
+*Aire minimale de la région intérieure à au moins deux de trois cercles de rayon R passant par O*
 
-> In the plane, let $\Gamma_1$, $\Gamma_2$, $\Gamma_3$ be three circles of radius $R$ all passing through a point $O$. Let $D$ denote the set of points in the plane that belong to at least two of these circles.
-> 
-> What is the minimum value of the area of $D$, and for what configuration of $\Gamma_1$, $\Gamma_2$, $\Gamma_3$ is it achieved? Justify your answer.
+> **Exercice III**
+>
+> Dans le plan, on considère $\Gamma_1$, $\Gamma_2$ et $\Gamma_3$ trois cercles de rayon $R$ passant par le point $O$, et on note $D$ l'ensemble des points du plan intérieurs à au moins deux de ces cercles.
+>
+> Comment doit-on placer $\Gamma_1$, $\Gamma_2$ et $\Gamma_3$ pour que l'aire de $D$ soit minimale ?
+>
+> Justifier votre réponse.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_probabilita|Probabilità]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_probabilita|Probabilités]]
+**Metodo:** [[method_estremalita|Extrémalité]], [[method_simmetria|Symétrie]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_stima|Estimation]], [[skill_modellizzazione|Modélisation]]
+**Area:** [[Geometria|Géométrie]], [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area minima di regione all'interno di almeno due dei tre cerchi di raggio R*
+*Area minima della regione interna ad almeno due di tre cerchi di raggio R passanti per O*
 
-> Nel piano, $\Gamma_1$, $\Gamma_2$, $\Gamma_3$ siano tre cerchi di raggio $R$ che attraversano tutti un punto $O$. $D$ indica l'insieme dei punti del piano che appartengono ad almeno due di questi cerchi.
-> 
-> Qual è il valore minimo dell'area di $D$ e per quale configurazione di $\Gamma_1$, $\Gamma_2$, $\Gamma_3$ viene raggiunto? Giustifica la tua risposta.
+> **Esercizio III**
+>
+> Nel piano si considerino tre cerchi $\Gamma_1$, $\Gamma_2$ e $\Gamma_3$ di raggio $R$ passanti per il punto $O$, e si indichi con $D$ l'insieme dei punti del piano interni ad almeno due di questi cerchi.
+>
+> Come si devono disporre $\Gamma_1$, $\Gamma_2$ e $\Gamma_3$ affinché l'area di $D$ sia minima?
+>
+> Giustificare la risposta.
+
+[[Quesiti/src_cgen_1995#q03|src_cgen_1995__Q03]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Minimal area of the region inside at least two of three circles of radius R through O*
+
+> **Exercise III**
+>
+> In the plane, consider three circles $\Gamma_1$, $\Gamma_2$ and $\Gamma_3$ of radius $R$ passing through the point $O$, and denote by $D$ the set of points of the plane that lie inside at least two of these circles.
+>
+> How should $\Gamma_1$, $\Gamma_2$ and $\Gamma_3$ be placed so that the area of $D$ is minimal?
+>
+> Justify your answer.
+
+[[Quesiti/src_cgen_1995#q03|src_cgen_1995__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Six points with pairwise distances summing to i+j*
+*Six points du plan avec A_i B_j = i+j*
 
-> Let $A_1$, $A_2$, $A_3$, $B_1$, $B_2$, $B_3$ be six points in the plane such that for all integers $i$ and $j$ in $\{1, 2, 3\}$:
+> **Exercice IV**
+>
+> Soient $A_1$, $A_2$, $A_3$, $B_1$, $B_2$, $B_3$ six points du plan tels que l'on ait, pour tous les entiers $i$ et $j$ de $\{1, 2, 3\}$,
+>
 > $$A_i B_j = i + j.$$
-> What can be said about these six points?
+>
+> Que peut-on dire de ces six points ?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_geometria_analitica|Géométrie analytique]]
+**Metodo:** [[method_coordinate|Coordonnées]], [[method_casework|Disjonction de cas]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_lettura_attenta|Lecture attentive]], [[skill_astrazione|Abstraction]]
+**Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sei punti con distanze in coppia che si sommano a i+j*
+*Sei punti del piano con A_i B_j = i+j*
 
-> Che $A_1$, $A_2$, $A_3$, $B_1$, $B_2$, $B_3$ siano sei punti nel piano in modo tale che per tutti gli integri $i$ e $j$ in $\{1, 2, 3\}$: $$A_i B_j = i + j.$$ Cosa si può dire di questi sei punti?
+> **Esercizio IV**
+>
+> Siano $A_1$, $A_2$, $A_3$, $B_1$, $B_2$, $B_3$ sei punti del piano tali che, per tutti gli interi $i$ e $j$ di $\{1, 2, 3\}$,
+>
+> $$A_i B_j = i + j.$$
+>
+> Che cosa si può dire di questi sei punti?
+
+[[Quesiti/src_cgen_1995#q04|src_cgen_1995__Q04]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Six points of the plane with A_i B_j = i+j*
+
+> **Exercise IV**
+>
+> Let $A_1$, $A_2$, $A_3$, $B_1$, $B_2$, $B_3$ be six points of the plane such that, for all integers $i$ and $j$ in $\{1, 2, 3\}$,
+>
+> $$A_i B_j = i + j.$$
+>
+> What can be said about these six points?
+
+[[Quesiti/src_cgen_1995#q04|src_cgen_1995__Q04]]

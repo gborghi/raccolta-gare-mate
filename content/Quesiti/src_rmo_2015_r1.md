@@ -28,9 +28,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterali ciclici, diagonali incontrati, circoncircoli, angolo di incentro*
+*Quadrilatero ciclico, le diagonali si incontrano, circonferenze circoscritte, angolo del centroide*
 
-> In un quadrilaterale ciclico $ABCD$, le diagonali $AC$ e $BD$ si intersecano a $X$. Lasciate che i circoncircoli dei triangoli $AXD$ e $BXC$ si incrociano di nuovo a $Y$. Se $X$ è il centro del triangolo $ABY$, indicare che $\angle CAD = 90^\circ$.
+> In un quadrilatero ciclico $ABCD$, le diagonali $AC$ e $BD$ si intersecano in $X$. Siano le circonferenze circoscritte ai triangoli $AXD$ e $BXC$ che si intersecano nuovamente in $Y$. Se $X$ è l'incentro del triangolo $ABY$, dimostrare che $\angle CAD = 90^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2015_r1#q01|src_rmo_2015_r1__Q01]]
 
 
 
@@ -53,9 +59,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due quadratici uguali a due enti, dimostrare la differenza dei coefficienti lineari principali è pari*
+*Due polinomi di secondo grado coincidono in due interi; dimostrare che la differenza dei coefficienti lineari principali è pari*
 
-> Lasciate che $P_1(x) = x^2 + a_1 x + b_1$ e $P_2(x) = x^2 + a_2 x + b_2$ siano due polinomi quadratici con coefficienti interi. Supponiamo $a_1 \neq a_2$ e ci sono enti $m \neq n$ come $P_1(m) = P_2(m)$ e $P_1(n) = P_2(n)$. Provare che $a_1 - a_2$ è pari.
+> Siano $P_1(x) = x^2 + a_1 x + b_1$ e $P_2(x) = x^2 + a_2 x + b_2$ due polinomi quadratici a coefficienti interi. Si supponga $a_1 \neq a_2$ e che esistano interi $m \neq n$ tali che $P_1(m) = P_2(m)$ e $P_1(n) = P_2(n)$. Dimostrare che $a_1 - a_2$ è pari.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2015_r1#q02|src_rmo_2015_r1__Q02]]
 
 
 
@@ -78,9 +91,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le frazioni contemporaneamente di due forme lineari date*
+*Trovare simultaneamente tutte le frazioni di due forme lineari date*
 
-> Trova tutte le frazioni che possono essere scritte contemporaneamente nelle forme $\dfrac{7k-5}{5k-3}$ e $\dfrac{6l-1}{4l-3}$, per alcuni integri $k$, $l$.
+> Trovare tutte le frazioni che possono essere scritte simultaneamente nelle forme $\dfrac{7k-5}{5k-3}$ e $\dfrac{6l-1}{4l-3}$, per alcuni interi $k$, $l$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2015_r1#q03|src_rmo_2015_r1__Q03]]
 
 
 
@@ -103,9 +123,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per scegliere 3 oggetti non adiacenti non diametralmente opposti tra 28 in un cerchio*
+*Conta i modi per scegliere 3 oggetti non adiacenti e non opposti diametralmente tra 28 disposti su una circonferenza*
 
-> Supponiamo che 28 oggetti siano posizionati lungo un cerchio a distanze uguali. In quanti modi si possono scegliere tre oggetti tra di loro in modo che nessuno dei tre oggetti scelti sia adiacente o diametralmente opposto?
+> Supponiamo che 28 oggetti siano disposti lungo una circonferenza a distanze uguali. In quanti modi si possono scegliere 3 oggetti tra questi in modo che nessuna coppia dei tre oggetti scelti sia adiacente né diametralmente opposta?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2015_r1#q04|src_rmo_2015_r1__Q04]]
 
 
 
@@ -128,9 +155,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo retto, punti di mezzo, incircolo sul circoncircolo del triangolo di mezzo punto, rapporto*
+*Triangolo rettangolo, punti medi, cerchio inscritto sul cerchio circoscritto al triangolo dei punti medi, trovare il rapporto*
 
-> Che $ABC$ sia un triangolo con $\angle B = 90^\circ$. I punti intermedi $E$ e $F$ siano rispettivamente i punti intermedi $AB$ e $AC$. Supponiamo che l'incircolo $I$ del triangolo $ABC$ sia situato sull'incircolo del triangolo $AEF$. Trova il rapporto $BC/AB$.
+> Sia $ABC$ un triangolo con $\angle B = 90^\circ$. Siano $E$ e $F$ rispettivamente i punti medi di $AB$ e $AC$. Si supponga che l'incirconferenza $I$ del triangolo $ABC$ giaccia sulla circonferenza circoscritta al triangolo $AEF$. Determinare il rapporto $BC/AB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2015_r1#q05|src_rmo_2015_r1__Q05]]
 
 
 
@@ -153,6 +187,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i reali a in (3,4) in modo che a(3-2f) sia un intero*
+*Trovare tutti i numeri reali a appartenenti all'intervallo (3,4) tali che a(3-2f) sia un numero intero*
 
-> Trova tutti i numeri reali $a$ in modo tale che $3 < a < 4$ e $a(3 - 2f)$ siano un numero intero, dove $f = \{a\}$ indica la parte frazionaria di $a$. (Ad esempio $\{1.5\} = 0.5$; $\{-3.4\} = 0.6$.)
+> Trovare tutti i numeri reali $a$ tali che $3 < a < 4$ e $a(3 - 2f)$ siano un numero intero, dove $f = \{a\}$ denota la parte frazionaria di $a$. (Ad esempio $\{1.5\} = 0.5$; $\{-3.4\} = 0.6$.)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2015_r1#q06|src_rmo_2015_r1__Q06]]

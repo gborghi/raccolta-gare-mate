@@ -32,11 +32,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many girls do you add to twice as many boys*
+*How many girls to add to make the number double that of the boys?*
 
-> Today, in a group of 24 students, boys are twice as many as girls. Two more boys will join the group tomorrow. After they get in, how many girls will have to join the group if you want girls to become twice as many as boys?
+> A Large Group Today, in a group of 24 students, there are twice as many boys as girls. Tomorrow, two more boys will join the group. After they join, how many girls will need to be added to the group if we want the number of girls to be twice the number of boys?
 
-**Answer:** 0028
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q01|src_kangourou_2018_squadre_ecolier_f__Q01]]
 
 
 
@@ -66,9 +70,13 @@ level: squadre
 
 *Time of departure of the last couple from the castle*
 
-> The Ghost Castle One of the attractions of an amusement park is the Ghost Castle: to get around it you have to take a two-seater carriage; one passes every 2 minutes and the complete tour lasts 26 minutes. A group of 12 friends shows up at 11:40 a.m. and the first couple leaves immediately. If everyone gets on the wagons in pairs and doesn't lose a single wagon, what time does the last couple leave the castle? To give the answer, type in a row the hours and minutes; e.g. 11:40 is 1140.
+> The Haunted Castle One of the attractions at an amusement park is the Haunted Castle: to go around it, you have to board a two-seat cart; one cart passes every 2 minutes, and the whole ride lasts 26 minutes. A group of 12 friends arrives at the departure point at 11:40, and the first pair sets off right away. If everyone boards the carts in pairs and no cart is missed, what time does the last pair exit the castle? To give the answer, write the hours and minutes in a row; e.g., 11:40 is written as 1140.
 
-**Answer:** 1216
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q02|src_kangourou_2018_squadre_ecolier_f__Q02]]
 
 
 
@@ -121,7 +129,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete tours to read MATE 2018 times*
+*Complete inputs to read MATE 2018 times*
 
 ![[src_kangourou_2018_ecolier_finale__prob3.png]]
 
@@ -146,9 +154,14 @@ level: squadre
 \end{document}
 ```
 
-> MATE I marked on a circle 13 points, each denoted by a letter. Starting from the top point denoted by the letter M and reading the point labels one point yes and one point no I do several complete turns, clockwise, around the circle until I read the word MATE for 2018 times: here I stop. How many times have I done a complete turn?
+> MATE I have marked 13 points on a circle, each denoted by a letter. Starting from the top point denoted by the letter M and reading the labels of the points—one point yes and one point no—I go around the circle several full times clockwise until I have read the word MATE 2018 times: here I stop. How many times have I gone around the circle once completely?
 
-**Answer:** 1345
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q03|src_kangourou_2018_squadre_ecolier_f__Q03]]
 
 
 
@@ -176,15 +189,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cryptarithm ABB+ABB=CDBA find CDBA*
+*Cryptarithm ABB+ABB=CDBA: find CDBA*
 
 ![[src_kangourou_2018_ecolier_finale__prob4.png]]
 
-> The sum 
-> A, B, C and D are four digits different from each other that make the addition correct: 
-> What number is C D B A ?
+> A, B, C, and D are four distinct digits that make the addition correct: What number is CDBA?
 
-**Answer:** 1798
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q04|src_kangourou_2018_squadre_ecolier_f__Q04]]
 
 
 
@@ -210,11 +226,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cost of a small pizza, a small cake and an orange from two equations*
+*Cost of a small pizza, a little orange tart, from two equations*
 
-> From the bakery Three friends are from the bakery: Alda spends 18 euros for 10 small pizzas, 4 small cakes and an orange, Bianca spends 13.50 euros for 7 small pizzas, 3 small cakes and an orange. How many cents does Carla spend on a small pizza, a small cake and an orange?
+> At the baker's Three friends are at the baker's: Alda spends 18 euros on 10 small pizzas, 4 small cakes, and an orangeade; Bianca spends 13.50 euros on 7 small pizzas, 3 small cakes, and an orangeade. How many euro cents does Carla spend on one small pizza, one small cake, and one orangeade?
 
-**Answer:** 0450
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q05|src_kangourou_2018_squadre_ecolier_f__Q05]]
 
 
 
@@ -259,32 +279,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many truth-tellers in the liars and truth-tellers stadium*
+*How many sincere people in the stadium—liars and sincere people*
 
-> The liars 
-> In a stadium there are 2817 people. Each one is either a liar (always lies) or a truth-teller (always 
-> tells the truth). One by one 2816 leave the stadium saying "In the stadium there are more 
-> liars than truth-tellers left". How many truth-tellers were there initially in the stadium? 
-> M 
-> M
-> M
-> X
-> A
-> A
-> A
-> T 
-> T
-> T 
-> E
-> E
-> E
->     A B B + 
->     A B B = 
-> C D B A
-> 
+> The Liars There are 2817 people in a stadium. Each one is either a liar (always lies) or an honest person (always tells the truth). One by one, 2816 of them leave the stadium saying, "There are more liars than honest people left in the stadium." How many honest people were there in the stadium initially? M M M X A A A T T T E E E A B B + A B B = C D B A
+>
 > 2
 
-**Answer:** 1408
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q06|src_kangourou_2018_squadre_ecolier_f__Q06]]
 
 
 
@@ -310,11 +316,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many games have A and C played?*
+*How many matches have A and C played?*
 
-> Basketball Three basketball teams have played some training matches. Team A played 11 games, team B played 9 games and team C played 12 games. How many times have teams A and C played together?
+> Basketball: Three basketball teams played several practice games against each other. Team A played 11 games, Team B played 9 games, and Team C played 12 games. How many times did Teams A and C play together?
 
-**Answer:** 0007
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q07|src_kangourou_2018_squadre_ecolier_f__Q07]]
 
 
 
@@ -341,15 +351,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times did the fortune teller guess correctly*
+*How many times did the fortune-teller get it right?*
 
-> The fortune teller 
-> A fortune teller was called to court to make every evening the weather forecasts for the next day. The 
-> following morning the king, if he has guessed correctly, gives him 4 gold coins, if he has made a mistake taxes him 3 gold 
-> coins. The morning after the thirty-fifth forecast the king dismisses the fortune teller. The fortune teller discovers that 
-> in this game of rewards and taxes he has neither lost nor gained. How many times did he guess correctly?
+> The Fortune-Teller A fortune-teller was summoned to court to forecast the weather for the following day every evening. The next morning, if the forecast was correct, the king would give him 4 gold coins; if it was wrong, the king would levy a tax of 3 gold coins on him. The morning after the thirty-fifth forecast, the king dismissed the fortune-teller. The fortune-teller discovered that in this game of rewards and taxes, he had neither lost nor gained. How many times had he been correct?
 
-**Answer:** 0015
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q08|src_kangourou_2018_squadre_ecolier_f__Q08]]
 
 
 
@@ -375,13 +385,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of 3-digit multiples of 3, 7 and 11*
+*Sum of multiples of 3, 7, and 11 with three digits*
 
-> 3-digit numbers
-> Caterina writes the three-digit numbers that are multiples of both 3, 7, and 11 and then adds them up. What
-> number does she get?
+> Three-digit numbers: Caterina writes three-digit numbers that are multiples of 3, 7, and 11 all at once, and then adds them together. What number does she get?
 
-**Answer:** 2310
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q09|src_kangourou_2018_squadre_ecolier_f__Q09]]
 
 
 
@@ -415,9 +428,13 @@ level: squadre
 
 ![[src_kangourou_2018_ecolier_finale__prob10.png]]
 
-> The garden A square garden contains five square flowerbeds (of which four are equal to each other) arranged as shown by the gray squares in the figure (the vertices of each flowerbed are exactly on the horizontal and vertical lines). If the total area of the flowerbeds is 25 square meters, how many meters does the perimeter of the garden measure?
+> The Garden A square garden contains five square flowerbeds (four of which are equal to one another), arranged as the grey squares in the figure indicate (the vertices of each flowerbed lie exactly on the horizontal and vertical lines). If the sum of the areas of the flowerbeds is 25 square meters, how many meters is the perimeter of the garden?
 
-**Answer:** 0040
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q10|src_kangourou_2018_squadre_ecolier_f__Q10]]
 
 
 
@@ -444,11 +461,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of letters in the Clara sequence*
+*Number of letters in Clara's sequence*
 
-> The Clara Alice sequence has written the ABCAABBCCAAABBBCCC letter sequence. Biagio rewrote Alice's sequence by replacing each letter A with a pair of letters BB. Finally Clara rewrote Biagio's sequence replacing each letter B with the letter CCC. How many letters are in Clara's sequence?
+> Clara Alice wrote the letter sequence ABCAABBCCAAABBBCCC. Biagio rewrote Alice's sequence by replacing each letter A with the pair of letters BB. Finally, Clara rewrote Biagio's sequence by replacing each letter B with the triplet of letters CCC. How many letters are there in Clara's sequence?
 
-**Answer:** 0060
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q11|src_kangourou_2018_squadre_ecolier_f__Q11]]
 
 
 
@@ -474,11 +495,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum cube sum of three cubes*
+*Minimum sum of three cubes*
 
-> Cube Let's say a natural number A other than zero is a cube if there's another natural number B such that A = B×B×B: for example 8 is a cube. What is the smallest number that is a cube and is the sum of three cubes?
+> Cubes Let's say that a natural number A, different from zero, is a cube if there is another natural number B such that A = B × B × B: for example, 8 is a cube. What is the smallest number that is a cube and is the sum of three cubes?
 
-**Answer:** 0216
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q12|src_kangourou_2018_squadre_ecolier_f__Q12]]
 
 
 
@@ -506,15 +531,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*4-digit numbers with digits 1 2 3 without equal adjacent digits*
+*4-digit numbers using the digits 1, 2, 3, with no identical adjacent digits*
 
-> Bice's numbers 
-> Bice only loves 4-digit numbers that satisfy both of these properties:  
->  the number does not contain digits other than 1, 2 or 3  
->  there are no two equal adjacent digits 
-> How many 4-digit numbers does Bice love?
+> Bice's Numbers Bice only likes 4-digit numbers that satisfy both of these properties: - The number contains no digits other than 1, 2, or 3 - No two adjacent digits are the same How many 4-digit numbers does Bice like?
 
-**Answer:** 0024
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q13|src_kangourou_2018_squadre_ecolier_f__Q13]]
 
 
 
@@ -547,9 +573,14 @@ level: squadre
 
 ![[src_kangourou_2018_ecolier_finale__prob14.png]]
 
-> The rectangles Elena wants to draw three rectangles on a square sheet, each of which has sides on the lines that delimit the squares and none of which touches the edge of the sheet. What is the maximum number of parts that rectangles can divide the page into?
+> Rectangles: On a grid paper, Elena wants to draw three rectangles, each with its sides lying along the lines that delimit the squares and none of them touching the edge of the paper. What is the maximum number of regions into which the rectangles can divide the page?
 
-**Answer:** 0014
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q14|src_kangourou_2018_squadre_ecolier_f__Q14]]
 
 
 
@@ -587,16 +618,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining 5 of the four-digit product*
+*Remainder upon division by 5 of the product of four numbers*
 
-> The remainder of the division by 5 of four positive integers is the same number other than zero. What's the remainder of the product of these four numbers divided by 5? Call 9999 if you can't find a single answer.
-> 
+> The remainder: The remainder when four positive integers are divided by 5 is the same non-zero number. What is the remainder when the product of these four numbers is divided by 5? Write 9999 if you cannot find a single answer.
+>
 > 1
->  
->  
-> Kangourou of Mathematics 2018 Ecolier Cup to teams Final Cervia, 5 May 2018
->  
->  
-> Questions and developments
+>
+>
+> Kangaroo of Mathematics 2018 Ecolier Team Cup Final, Cervia, 5 May 2018
+>
+>
+> Questions and Solutions
 
-**Answer:** 0001
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_ecolier_f#q15|src_kangourou_2018_squadre_ecolier_f__Q15]]

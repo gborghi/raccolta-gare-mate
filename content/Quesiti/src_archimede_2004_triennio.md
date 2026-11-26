@@ -33,9 +33,15 @@ level: triennio
 
 *number of true statements*
 
-> On Mars, cell phone fashion is rapidly gaining ground. On November 17th, 10 Martians own a cell phone, and in the days that follow, the number of Martians who own a cell phone doubles every day. At the end of what day will at least 10,000 Martians have a cell phone? What is the first day of November?
+> On Mars, the fashion for mobile phones is rapidly taking hold. On 17 November, 10 Martian people own a mobile phone, and in the following days the number of Martian people who own a mobile phone doubles every day. By the end of which day will at least 10000 Martian people own a mobile phone? Which is the first day of November?
 > 
-> (a) 25 November, (b) 26 November, (c) 27 November, (d) 28 November and (e) 29 November.
+> (A) 25 November, (B) 26 November, (C) 27 November, (D) 28 November, (E) 29 November.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2004_triennio#q02|src_archimede_2004_triennio__Q02]]
 
 
 
@@ -59,11 +65,16 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number of whole solutions*
+*number of integer solutions*
 
-> Tarzan wants to hold his lion in a circular shaped shaft with a radius of 12 meters and a tall tree in the center. To keep the lion from escaping, he binds it with a chain to the center of the tree, but when you fix it, you notice that the chain is 13 meters long instead of 12. Unable in any way to shorten the chain, he decides to tie it higher, so that the lion can reach the edge of the erasure. How many feet above Tarzan's ground does the chain tie? (Only for this exercise is the size of the lion neglected.)
+> Tarzan wants to keep his lion in a circular clearing with radius 12 metres and with a tall tree in the centre. To keep the lion from escaping, he ties it with a chain to the central tree, but when he fastens it he notices that the chain is 13 metres long instead of 12. Since he cannot shorten the chain in any way, he decides to tie it higher up, so that the lion can reach the edge of the clearing. At what height above the ground does Tarzan tie the chain? (Only for this exercise, disregard the lion’s dimensions.)
 > 
 > (A) 1, (B) 2, (C) 3, (D) 4, (E) 5.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2004_triennio#q03|src_archimede_2004_triennio__Q03]]
 
 
 
@@ -89,9 +100,14 @@ level: triennio
 
 *value of an expression*
 
-> $a$, $b$ and $c$ are three natural numbers. We know that $a$ is divisible by 15, $b$ is divisible by 12 and $c$ is divisible by 21. Which of the following is certainly true?
+> $a$, $b$ and $c$ are three natural numbers. We know that $a$ is divisible by 15, $b$ is divisible by 12 and $c$ is divisible by 21. Which of the following statements is certainly true?
 > 
 > (A) $a^2 + b^2 + c^2$ is divisible by 18, (B) $a + b + c$ is divisible by 9, (C) $a + b + c$ is divisible by 9, (D) $(a+b+c)^2$ is divisible by 9, (E) $a^2 + b^2 + c^2$ is divisible.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2004_triennio#q04|src_archimede_2004_triennio__Q04]]
 
 
 
@@ -117,11 +133,18 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number of pupils in class*
+*number of students in the class*
 
-> The minimum value of $a \geq 0$ for which the equation $$x^2 + ax + a + 1 = 0$$ has at least one real solution is:
+> The minimum value of $a \geq 0$ for which the equation
+> $$x^2 + ax + a + 1 = 0$$
+> has at least one real solution is:
 > 
 > (A) $2\sqrt{2} + 2$, (B) $2\sqrt{2} - 2$, (C) $3\sqrt{2} + 3$, (D) $3\sqrt{2} - 3$, (E) $2\sqrt{2} + 3$.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2004_triennio#q05|src_archimede_2004_triennio__Q05]]
 
 
 
@@ -150,13 +173,16 @@ level: triennio
 
 *value of the sum 1/4+1/16+...*
 
-> Whether $ABC$ is a right triangle isosceles as shown in Figure, with length cathetes $L$. The segments $DG$ and $EF$ are perpendicular to the sides $AB$ and $AC$ respectively, and the segments $AE$ and $AD$ are long $\tfrac{L}{2}$. Knowing that the area of the pentagon $ADGFE$ is $t$ square metres, we can say that $L$ is equal to:
+> Let $ABC$ be an isosceles right triangle as in the figure, with legs of length $L$. The segments $DG$ and $EF$ are perpendicular to the sides $AB$ and $AC$ respectively, and the segments $AE$ and $AD$ are each of length $\tfrac{L}{2}$. Given that the area of the pentagon $ADGFE$ is $t$ square metres, it can be said that $L$ is equal to:
 > 
 > (A) $1{,}5$ m, (B) $3$ m, (C) $1{,}3$ m, (D) $1{,}6$ m, (E) $4$ m.
 > 
 > (see figure)
 
-**Answer:** Ö/65
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_telescoping|Telescoping sums]]
+[[Quesiti/src_archimede_2004_triennio#q06|src_archimede_2004_triennio__Q06]]
 
 
 
@@ -180,11 +206,16 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of winning with dice/numbered list*
+*Winning probability with a die/numbered list*
 
-> How many multiples of 5 among 4-digit integers do you write without using any other digits other than 0, 1, 2, 3, 4, 5? It is permissible to use the same number several times; 0 cannot be the initial number.
-> 
+> How many multiples of 5 are there among the four-digit integers that are written using no digits other than 0, 1, 2, 3, 4, 5? The same digit may be used more than once; 0 cannot be the leading digit.
+>
 > (A) 180, (B) 216, (C) 360, (D) 396, (E) 1080.
+
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2004_triennio#q07|src_archimede_2004_triennio__Q07]]
 
 
 
@@ -208,11 +239,16 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equal/disparate coefficients in expression, multiple choice*
+*Even/odd coefficients in an expression, multiple choice*
 
-> Marco has to travel once a year, for work, to a distant country far away. Marco's expenditure (in euro) for his stay in 2004 is 30% of its value in relation to the euro. Every year, prices double. However, that country's currency loses 30 percent of its value to the euro each year. The expenditure (in euro) incurred by Marco for his stay in 2004 is therefore:
-> 
-> (A) less than in 2002, (B) equal to that of 2002, (C) greater than that of 2002, but less than four times the expenditure of 2002, (D) equal to four times the expenditure of 2002, (E) equal to twice the expenditure of 2002.
+> Marco travels once a year for work to a distant country. The expense (in Euros) incurred by Marco for his stay in 2004 is equal to 30 per cent of its value relative to the Euro. Every year the prices double. However, the currency of that country loses every year 30 per cent of its value relative to the Euro. The expense (in Euros) incurred by Marco for his stay in 2004 is therefore:
+>
+> (A) lower than that of 2002, (B) equal to that of 2002, (C) higher than that of 2002, but lower than four times the expense of 2002, (D) equal to four times the expense of 2002, (E) equal to twice the expense of 2002.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2004_triennio#q08|src_archimede_2004_triennio__Q08]]
 
 
 
@@ -235,11 +271,15 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the difference between the two.
+*difference*
 
-> A wooden box, without a lid, is made of two centimetres thick boards. If the outer dimensions of the base (rectangular) are 38 cm and 44 cm and the outer height is 47 cm, how many cubic centimetres is the inside volume of the box?
+> A wooden box, without a lid, is made with boards 2 cm thick. If the external dimensions of the (rectangular) base are 38 cm and 44 cm and the external height is 47 cm, by how many cubic centimetres is the internal volume of the box?
 > 
 > (A) $61200\ \text{cm}^3$, (B) $63920\ \text{cm}^3$, (C) $68040\ \text{cm}^3$, (D) $75240\ \text{cm}^3$, (E) $75854\ \text{cm}^3$.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2004_triennio#q10|src_archimede_2004_triennio__Q10]]
 
 
 
@@ -265,9 +305,14 @@ This is the difference between the two.
 
 *Pairs of positive integers (x,y) with equation, solutions*
 
-> Four friends are talking. One of them says, "At least two of us are liars". The second adds: It's true. The third reiteration: It is not true. How many liars are there?
+> Four friends are talking. One of them says: “At least two of us are liars.” The second adds: “That is true.” The third replies: “That is not true.” How many are liars?
 > 
-> (A) 1, (B) 2, (C) 3, (D) the data are inconsistent, (E) the data is missing to answer.
+> (A) 1, (B) 2, (C) 3, (D) the data are inconsistent, (E) the data are insufficient to answer.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2004_triennio#q11|src_archimede_2004_triennio__Q11]]
 
 
 
@@ -294,9 +339,15 @@ This is the difference between the two.
 
 *containing numbers from 1 to 2005*
 
-> Twenty soft square pillows are stacked on top of each other. Each pillow weighs 500 g and initially has a thickness of 80 cm. In the pile, however, the thickness is reduced by about 2 cm for every pound of weight above it (1 cm for every half pound). How high is the pillow pile?
+> Twenty soft square cushions are stacked one on top of another. Each cushion weighs 500 g and initially has a thickness of 80 cm. In the stack, however, the thickness decreases by 2 cm for every kilogram of weight above it (1 cm for every half kilogram). How tall is the stack of cushions?
 > 
-> (A) 220 cm, (B) 410 cm, (C) 490 cm, (D) 581 cm, (E) there are no data to answer.
+> (A) 220 cm, (B) 410 cm, (C) 490 cm, (D) 581 cm, (E) insufficient data to answer.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2004_triennio#q12|src_archimede_2004_triennio__Q12]]
 
 
 
@@ -323,13 +374,19 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*part number*
+*number of parts*
 
-> A rectangular triangle with a diameter of 21 and 28 cm and a semicircle inscribed as in the figure next to it shall be given. What's the size of the semicircle?
-> 
+> A right triangle whose legs measure 21 and 28 cm is given, together with a semicircle inscribed as in the figure alongside. What is the area of the semicircle?
+>
 > (A) $50\pi\ \text{cm}^2$, (B) $\dfrac{441}{4}\pi\ \text{cm}^2$, (C) $98\pi\ \text{cm}^2$, (D) $72\pi\ \text{cm}^2$.
-> 
+>
 > (see figure)
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2004_triennio#q13|src_archimede_2004_triennio__Q13]]
 
 
 
@@ -353,11 +410,16 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*pass/volume for the number of vertices*
+*step/volume for the number of vertices*
 
-> How many pairs of natural numbers are $(a, b)$ such as $a^2 - 4b^2 = 45$?
-> 
-> (A) None, (B) 1, (C) 2, (D) 3, (E) more than 3.
+> How many pairs $(a, b)$ of natural numbers satisfy $a^2 - 4b^2 = 45$?
+>
+> (A) none, (B) 1, (C) 2, (D) 3, (E) more than 3.
+
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2004_triennio#q14|src_archimede_2004_triennio__Q14]]
 
 
 
@@ -381,8 +443,13 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Problem of the equation with positive integers p,q (demonstration)*
+*Problem about the equation with positive integers p,q (proof)*
 
-> A colony of amoeba multiplies in a pond. Initially, a clear and a dark amoeba are present; then, every day for 2004 consecutive days, a random amoeba among the existing ones (all having the same probability of being chosen, regardless of their age) splits into two amoeba identical to itself. What's the likelihood that there's only one dark amoeba in the pond at the end of day 2004?
-> 
+> A colony of amoebae multiplies in a pond. Initially there is one light amoeba and one dark amoeba; then, every day for 2004 consecutive days, a randomly chosen amoeba among those existing (all have the same probability of being chosen, regardless of their age) divides into two amoebae identical to itself. What is the probability that there is only one dark amoeba in the pond at the end of the 2004th day?
+>
 > (A) $\dfrac{1}{2^{2004}}$, (B) $\dfrac{1}{2004}$, (C) $\dfrac{2}{2005}$, (D) $\dfrac{1}{2004 \cdot 2005}$, (E) $\dfrac{2004}{2005}$.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2004_triennio#q15|src_archimede_2004_triennio__Q15]]

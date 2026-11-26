@@ -29,21 +29,26 @@ level: OBM Nível Universitário
 **Area:** [[Algebra e Analisi]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=1)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*f(λx) = λf(x) con λ ≠ 0, |λ| ≠ 1 e limite finito di f(x)/x in 0: f è lineare.*
+*f(λx) = λf(x) con |λ| ≠ 0, 1 e limite finito di f(x)/x in 0 implicano che f sia lineare.*
 
 > Sia $\lambda\in\mathbb R$ con $\lambda\ne0$ e $|\lambda|\ne1$, e sia $f:\mathbb R\to\mathbb R$ una funzione tale che
 >
 > (i) $f(\lambda x)=\lambda f(x)$ per ogni $x\in\mathbb R$;
 >
-> (ii) esiste ed è finito il limite $\displaystyle\lim_{x\to0}\frac{f(x)}{x}$.
+> (ii) il limite $\displaystyle\lim_{x\to0}\frac{f(x)}{x}$ esiste ed è finito.
 >
 > Dimostrare che esiste $a\in\mathbb R$ tale che $f(x)=ax$ per ogni $x\in\mathbb R$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2026_nu_fx#q01|src_obm_2026_nu_fx__Q01]]
 
 
 
@@ -62,17 +67,22 @@ level: OBM Nível Universitário
 **Area:** [[Algebra e Analisi]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=1)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*f integrabile secondo Riemann su [0,1] con ∫₀ˣ f = f(x)^k + f(x), k dispari.*
+*f integrabile secondo Riemann su [0,1], con ∫₀ˣ f = f(x)^k + f(x), k dispari.*
 
-> Sia $k$ un intero positivo dispari. Determinare tutte le funzioni $f:[0,1]\to\mathbb R$ integrabili secondo Riemann tali che
+> Sia $k$ un numero intero dispari positivo. Determinare tutte le funzioni Riemann-integrabili $f:[0,1]\to\mathbb R$ tali che
 >
-> $$\int_0^x f(t)\,dt=f(x)^k+f(x)\quad\text{per ogni } x\in[0,1].$$
+> $$\int_0^x f(t)\,dt=f(x)^k+f(x)\quad\text{for every } x\in[0,1].$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2026_nu_fx#q02|src_obm_2026_nu_fx__Q02]]
 
 
 
@@ -95,21 +105,26 @@ level: OBM Nível Universitário
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=1)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti razionali con valori razionali del polinomio di altezza limitata: conteggio ≤ c·n^(3/k).*
+*Punti razionali con valori di polinomi razionali di altezza limitata: il numero è ≤ c·n^(3/k).*
 
-> Per un numero razionale $x=\frac pq$, con $p, q$ interi, $q>0$ e $\operatorname{MCD}(p,q)=1$, si definisce $\operatorname{den}(x)=q$.
+> Per un numero razionale $x=\frac pq$, con $p, q$ interi, $q>0$ e $\gcd(p,q)=1$, definire $\operatorname{den}(x)=q$.
 >
-> Siano $k$ un intero positivo e $P(x)\in\mathbb R[x]$ un polinomio di grado $k$.
+> Sia $k$ un numero intero positivo e $P(x)\in\mathbb R[x]$ un polinomio di grado $k$.
 >
-> Dimostrare che esiste una costante $c>0$ tale che, per ogni intero positivo $n$,
+> Dimostrare che esiste una costante $c>0$ tale che, per ogni numero intero positivo $n$,
 >
 > $$\#\{x\in\mathbb Q:\ P(x)\in\mathbb Q,\ |P(x)|\le n,\ \operatorname{den}(P(x))\le n\}\le c\cdot n^{3/k}.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2026_nu_fx#q03|src_obm_2026_nu_fx__Q03]]
 
 
 
@@ -136,25 +151,30 @@ level: OBM Nível Universitário
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=2)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Raggio di luce che entra da un vertice di un triangolo equilatero, n riflessioni, esce da un vertice: numero di traiettorie per n = 2026, 2027.*
+*Raggio di luce che entra in un triangolo equilatero in un vertice, n riflessioni, esce in un vertice; numero di percorsi per n = 2026, 2027.*
 
 ![[src_obm_2026_nu_fx__q04.png]]
 
 > Si consideri un triangolo equilatero $ABC$.
 >
-> Un raggio di luce entra all'interno del triangolo dal vertice $A$ e compie $n$ riflessioni elastiche sui lati del triangolo, finché esce da uno dei vertici del triangolo.
+> Un raggio di luce entra all'interno del triangolo attraverso il vertice $A$ e subisce $n$ riflessioni elastiche sui lati del triangolo, finché non esce attraverso uno dei vertici del triangolo.
 >
-> (a) Calcolare il numero di traiettorie possibili per $n=2026$.
+> (a) Calcola il numero di traiettorie possibili per $n=2026$.
 >
-> (b) Calcolare il numero di traiettorie possibili per $n=2027$.
+> (b) Calcola il numero di traiettorie possibili per $n=2027$.
 >
-> *Osservazione.* Una riflessione elastica è una riflessione in cui l'angolo di incidenza è uguale all'angolo di riflessione, come illustrato in figura.
+> *Osservazione.* Una riflessione elastica è quella in cui l'angolo di incidenza è uguale all'angolo di riflessione, come illustrato nella figura.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2026_nu_fx#q04|src_obm_2026_nu_fx__Q04]]
 
 
 
@@ -175,19 +195,24 @@ level: OBM Nível Universitário
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=2)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due radici distinte della serie esponenziale troncata di grado p: la loro differenza non è razionale.*
+*Due radici distinte della serie esponenziale troncata di grado p: la loro differenza è irrazionale.*
 
 > Sia $p$ un numero primo e siano $\alpha,\beta\in\mathbb C$ due radici distinte dell'equazione
 >
 > $$1+x+\frac{x^2}{2!}+\cdots+\frac{x^p}{p!}=0.$$
 >
 > Dimostrare che $\alpha-\beta\notin\mathbb Q$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2026_nu_fx#q05|src_obm_2026_nu_fx__Q05]]
 
 
 
@@ -216,19 +241,19 @@ level: OBM Nível Universitário
 **Area:** [[Algebra e Analisi]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=2)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Applicazione lineare contrattiva T(x,y) = (λx, Uy) e insieme X invariante vicino all'origine: dimostrare |y| ≤ C|x|^α.*
+*Considerando l'applicazione lineare contraente T(x,y) = (λx, Uy) e un insieme X invariante per T vicino all'origine, dimostrare che |y| ≤ C|x|^α.*
 
-> Siano $k\ge2$ un intero e $0<\lambda<1$. Identifichiamo $\mathbb R^k=\mathbb R\times\mathbb R^{k-1}$ e consideriamo su $\mathbb R^k$ la norma euclidea $|\cdot|$. Per $s>0$ sia $B[s]=\{z\in\mathbb R^k:\ |z|\le s\}$.
+> Sia $k\ge2$ un intero e $0<\lambda<1$. Identifichiamo $\mathbb R^k=\mathbb R\times\mathbb R^{k-1}$ e consideriamo su $\mathbb R^k$ la norma euclidea $|\cdot|$. Per $s>0$, sia $B[s]=\{z\in\mathbb R^k:\ |z|\le s\}$.
 >
-> Sia $T:\mathbb R^k\to\mathbb R^k$ una trasformazione della forma $T(x,y)=(\lambda x,Uy)$, dove $U:\mathbb R^{k-1}\to\mathbb R^{k-1}$ è una trasformazione lineare tale che
+> Sia $T:\mathbb R^k\to\mathbb R^k$ una applicazione della forma $T(x,y)=(\lambda x,Uy)$, dove $U:\mathbb R^{k-1}\to\mathbb R^{k-1}$ è un'applicazione lineare tale che
 >
-> $$0<|Uv|<\lambda|v|\quad\text{per ogni } v\in\mathbb R^{k-1}\setminus\{0\}.$$
+> $$0<|Uv|<\lambda|v|\quad\text{for every } v\in\mathbb R^{k-1}\setminus\{0\}.$$
 >
 > Sia $X\subset B[1]$ un insieme che soddisfa:
 >
@@ -236,4 +261,9 @@ level: OBM Nível Universitário
 >
 > (ii) per ogni $\varepsilon>0$ esiste $\delta(\varepsilon)>0$ tale che, per ogni $(x,y)\in X$, se $|y|\ge\varepsilon$ allora $|x|\ge\delta(\varepsilon)$.
 >
-> Dimostrare che esistono costanti $C>0$ e $\alpha>1$ tali che $|y|\le C|x|^\alpha$ per ogni $(x,y)\in X$.
+> Dimostrare che esistono delle costanti $C>0$ e $\alpha>1$ tali che $|y|\le C|x|^\alpha$ per ogni $(x,y)\in X$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2026_nu_fx#q06|src_obm_2026_nu_fx__Q06]]

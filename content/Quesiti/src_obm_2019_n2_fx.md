@@ -39,19 +39,26 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare e caratterizzare i numeri a 8 cifre "robusti" e "superrobusti"*
+*Conta e caratterizza i numeri di 8 cifre "robusti" e "super-robusti"*
 
-> Un numero di otto cifre è denominato *robust* se soddisfa entrambe le seguenti condizioni:
-> 
-> (i) Nessuna delle sue cifre è $0$.
-> 
-> (ii) La differenza tra due cifre consecutive è $4$ o $5$.
-> 
+> Un numero di otto cifre è detto *robusto* se soddisfa entrambe le seguenti condizioni:
+>
+> (i) Nessuno dei suoi digit è $0$.
+>
+> (ii) La differenza tra due cifre consecutive qualsiasi è $4$ o $5$.
+>
 > Rispondi alle seguenti domande:
-> 
-> (a) Quanti numeri solidi ci sono?
-> 
-> b) Un numero robusto è chiamato *super robusto* se tutti i suoi numeri sono distinti. Calcola la somma di tutti i numeri super-robusti.
+>
+> (a) Quanti numeri robusti ci sono?
+>
+> (b) Un numero robusto è detto *super-robusto* se tutte le sue cifre sono distinte. Calcola la somma di tutti i numeri super-robusti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2019_n2_fx#q01|src_obm_2019_n2_fx__Q01]]
 
 
 
@@ -78,11 +85,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza che coinvolge min e massimo di due integri positivi*
+*Dimostrazione di una disuguaglianza che coinvolge il min e il max di due interi positivi*
 
-> Che $a$, $b$ e $k$ siano integri positivi con $k > 1$ in modo tale che $$\min(a, b) + \text{mdc}(a, b) = k(a + b),$$ dove $\text{mdc}(a,b)$ denota il più grande divisore comune di $a$ e $b$.
-> 
-> Prove che $a + b \ge 4k$.
+> Siano $a$, $b$ e $k$ numeri interi positivi con $k > 1$ tale che
+> $$\min(a, b) + \text{mdc}(a, b) = k(a + b),$$
+> dove $\text{mdc}(a,b)$ denota il massimo comune divisore di $a$ e $b$.
+>
+> Dimostrare che $a + b \ge 4k$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2019_n2_fx#q02|src_obm_2019_n2_fx__Q02]]
 
 
 
@@ -105,9 +121,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Intersezione del cerchio circoscritto: mostrare che XD e AQ si incontrano sul cerchio*
+*Intersezione della circonferenza circoscritta: mostra che XD e AQ si incontrano sulla circonferenza*
 
-> $ABC$ sia un triangolo rettangolo inciso in un cerchio $\Gamma$ con centro $O$. $D$ sia il piede dell'altitudine dal vertice $A$. $E$ e $F$ siano punti su $\Gamma$ in modo tale che $AE = AD = AF$. I punti di intersezione della linea $EF$ sono $P$ e $Q$ con i lati $AB$ e $AC$, rispettivamente. Il punto di intersezione $X$ è il secondo punto di intersezione della linea $EF$ con il circolo circonscritto del triangolo $APQ$. Indicare che le linee $XD$ e $AQ$ si incontrano su $\Gamma$.
+> Sia $ABC$ un triangolo rettangolo inscritto in una circonferenza $\Gamma$ di centro $O$. Sia $D$ il piede dell'altezza condotta dal vertice $A$. Siano $E$ e $F$ punti su $\Gamma$ tali che $AE = AD = AF$. Siano $P$ e $Q$ i punti di intersezione della retta $EF$ con i lati $AB$ e $AC$, rispettivamente. Sia $X$ il secondo punto di intersezione della retta $EF$ con la circonferenza circoscritta al triangolo $APQ$. Dimostrare che le rette $XD$ e $AQ$ si incontrano su $\Gamma$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2019_n2_fx#q03|src_obm_2019_n2_fx__Q03]]
 
 
 
@@ -130,9 +153,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-5 punti su un cerchio: riflessioni di D su lati di un triangolo acuto
+*Cinque punti su una circonferenza: riflessioni di D rispetto ai lati di un triangolo acutangolo*
 
-> Il $ABC$ deve essere un triangolo acuto e il $D$ un punto laterale $BC$. Il $E$ deve essere il riflesso di $D$ sulla linea $AC$, e il $F$ deve essere il riflesso di $D$ sulla linea $AB$. La linea $ED$ interseca la linea $AB$ a $G$, mentre la linea $FD$ interseca la linea $AC$ a $H$. Prova che i punti $A$, $E$, $F$, $G$ e $H$ si trovano tutti su un cerchio comune.
+> Sia $ABC$ un triangolo acutangolo e $D$ un punto sul lato $BC$. Sia $E$ il riflesso di $D$ rispetto alla retta $AC$, e sia $F$ il riflesso di $D$ rispetto alla retta $AB$. La retta $ED$ interseca la retta $AB$ in $G$, mentre la retta $FD$ interseca la retta $AC$ in $H$. Dimostrare che i punti $A$, $E$, $F$, $G$ e $H$ giacciono tutti su una circonferenza comune.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2019_n2_fx#q04|src_obm_2019_n2_fx__Q04]]
 
 
 
@@ -159,13 +189,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrati di unità bianche massimi circondati da esattamente n quadrati di unità nere*
+*Quadrati unitari bianchi massimi, ciascuno circondato esattamente da n quadrati unitari neri*
 
-> Nella figura di seguito, un quadrato di unità bianca è circondato da quattro quadrati di unità nera, e tre quadrati di unità bianca sono circondati da sette quadrati di unità nera.
-> 
-> Qual è il numero massimo di quadrati di unità bianca che possono essere circondati da quadrati di unità nera esattamente $n$?
+> Nella figura sottostante, un quadrato unitario bianco è circondato da quattro quadrati unitari neri, e tre quadrati unitari bianchi sono circondati da sette quadrati unitari neri.
+>
+> Qual è il numero massimo di quadratini unitari bianchi che possono essere circondati da esattamente $n$ quadratini unitari neri?
 
 ![[src_obm_2019_n2_fx__q05.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2019_n2_fx#q05|src_obm_2019_n2_fx__Q05]]
 
 
 
@@ -188,6 +225,13 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove 2019 che esistono punti di reticolare reciprocamente visibili nel piano*
+*Prove 2019: nel piano esistono punti della rete mutuamente visibili*
 
-> Nel piano cartesiano, tutti i punti con entrambe le coordinate sono di colore blu. Si dice che due punti blu siano *visibili reciprocamente* se il segmento di linea che li collega non contiene altri punti blu. Prove che esiste un insieme di punti blu $2019$ che sono in coppia reciprocamente visibili.
+> Nel piano cartesiano, tutti i punti le cui coordinate sono entrambe intere sono colorati di blu. Due punti blu si dicono *mutuamente visibili* se il segmento di retta che li congiunge non contiene altri punti blu. Dimostrare che esiste un insieme di $2019$ punti blu mutuamente visibili a due a due.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|method_casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2019_n2_fx#q06|src_obm_2019_n2_fx__Q06]]

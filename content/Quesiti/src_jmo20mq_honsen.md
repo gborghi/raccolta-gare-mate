@@ -31,11 +31,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*H è il circondario del centro del triangolo APQ*
+*Il circocentro di un triangolo, a partire da un piede della perpendicolare*
 
-> Il $ABC$ deve essere un triangolo acuto con $AB \ne AC$, e il $H$ deve essere il piede della perpendicolare da $A$ a $BC$. I punti $P$ e $Q$ sono presi in modo che $A$, $B$, $P$ si trovino su una linea di questo ordine e $A$, $C$, $Q$ si trovino su una linea di questo ordine, in modo tale che i quattro punti $B$, $C$, $P$, $Q$ siano conciclici e $HP = HQ$. Prove che $H$ è il circoncentro del triangolo $APQ$.
-> 
+> Sia $ABC$ un triangolo acutangolo con $AB \ne AC$, e sia $H$ il piede della perpendicolare da $A$ a $BC$. Si prendono punti $P$ e $Q$ in modo che $A$, $B$, $P$ stiano su una retta in quest'ordine e $A$, $C$, $Q$ stiano su una retta in quest'ordine, così che i quattro punti $B$, $C$, $P$, $Q$ siano conciclici e $HP = HQ$. Dimostrare che $H$ è il circocentro del triangolo $APQ$.
+>
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo20mq_honsen#q01|src_jmo20mq_honsen__Q01]]
 
 
 
@@ -58,9 +63,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di n con n^n - m divisibile per 2^k*
+*Esiste un intero positivo che rende divisibile una potenza*
 
-> Che $k$ sia un numero intero positivo e che $m$ sia un numero impar. Prova che esiste un intero positivo $n$ tale che $n^n - m$ sia divisibile da $2^k$.
+> Sia $k$ un intero positivo e sia $m$ un numero dispari. Dimostrare che esiste un intero positivo $n$ tale che $n^n - m$ è divisibile per $2^k$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo20mq_honsen#q02|src_jmo20mq_honsen__Q02]]
 
 
 
@@ -91,15 +101,22 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Albero delle isole che inviano lettere: punto fisso o scambio reciproco esiste*
+*Lettere tra isole di un albero: qualcuno scrive a sé, o due isole si scambiano la lettera*
 
-> Ci sono isole $2010$, collegate da ponti $2009$. Qualsiasi due isole sono collegate da un unico ponte o non sono affatto collegate, e i due punti di fine di ogni ponte sono due isole distinte. Inoltre, da qualsiasi isola si può viaggiare verso qualsiasi altra isola attraversando alcuni ponti. (In questo modo i ponti formano un grafico collegato, cioè un albero.)
-> 
-> Ora ogni isola invia una lettera ad un'altra isola (è permesso ad un'isola di inviare una lettera a se stessa). Si scopre quindi che il seguente fatto è vero:
-> 
-> Ogni volta che l'isola $A$ e l'isola $B$ sono collegate da un ponte, l'isola a cui $A$ invia la sua lettera e l'isola a cui $B$ invia la sua lettera sono collegate da un ponte o sono la stessa isola.
-> 
-> Prove che almeno una delle seguenti affermazioni (1), (2) è vera: (1) Esiste un'isola che ha inviato una lettera a se stessa. (2) Esistono due isole, collegate da un ponte, che si scambiavano lettere (ciascuno inviava la sua lettera all'altro).
+> Ci sono $2010$ isole, collegate da $2009$ ponti. Due isole qualunque sono collegate da esattamente un ponte oppure non sono collegate, e i due estremi di ogni ponte sono due isole distinte. Inoltre, da qualunque isola si può raggiungere qualunque altra attraversando dei ponti. (I ponti formano dunque un grafo connesso, precisamente un albero.)
+>
+> Ogni isola manda una lettera a qualche isola (è ammesso che un'isola mandi una lettera a sé stessa). Accade allora che valga il fatto seguente:
+>
+> ogni volta che l'isola $A$ e l'isola $B$ sono collegate da un ponte, l'isola a cui $A$ manda la propria lettera e l'isola a cui $B$ manda la propria lettera sono collegate da un ponte oppure sono la stessa isola.
+>
+> Dimostrare che vale almeno una delle affermazioni (1), (2):
+> (1) esiste un'isola che ha mandato una lettera a sé stessa;
+> (2) esistono due isole, collegate da un ponte, che si sono scambiate le lettere (ciascuna ha mandato la propria lettera all'altra).
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo20mq_honsen#q03|src_jmo20mq_honsen__Q03]]
 
 
 
@@ -123,9 +140,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza ciclica in tre valori positivi*
+*Una disuguaglianza per tre reali positivi*
 
-> Per i numeri reali positivi $x$, $y$, $z$, dimostrare che $$\frac{1+xy+xz}{(1+y+z)^2} + \frac{1+yz+yx}{(1+z+x)^2} + \frac{1+zx+zy}{(1+x+y)^2} \ge 1.$$
+> Per numeri reali positivi $x$, $y$, $z$, dimostrare che
+>
+> $$\frac{1+xy+xz}{(1+y+z)^2} + \frac{1+yz+yx}{(1+z+x)^2} + \frac{1+zx+zy}{(1+x+y)^2} \ge 1.$$
+
+**Argomento:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo20mq_honsen#q04|src_jmo20mq_honsen__Q04]]
 
 
 
@@ -150,8 +174,13 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximi intersezioni di rotta diagonale chiusa di convex 2010-gon*
+*Massimo numero di autointersezioni di una spezzata chiusa di diagonali*
 
-> Si dà un convex $2010$-gon in cui non ci sono tre diagonali che abbiano un punto comune diverso dai vertici. Considera una linea chiusa rotta che è costituita da diagonali $2010$ (i lati del poligono non sono ammessi) e attraversa ogni vertice esattamente una volta. Trova il numero massimo possibile di intersezioni di una linea rotta chiusa.
-> 
-> (Per una linea rotta $P_1 P_2 \cdots P_n P_{n+1}$ con $P_1 = P_{n+1}$, la chiamiamo una linea rotta chiusa.)
+> È dato un $2010$-gono convesso in cui tre diagonali non hanno alcun punto in comune oltre ai vertici. Si consideri una spezzata chiusa formata da $2010$ diagonali (i lati del poligono non sono ammessi) che passa per ogni vertice esattamente una volta. Trovare il massimo numero possibile di autointersezioni di una tale spezzata chiusa.
+>
+> (Per una spezzata $P_1 P_2 \cdots P_n P_{n+1}$ con $P_1 = P_{n+1}$, la chiamiamo spezzata chiusa.)
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_jmo20mq_honsen#q05|src_jmo20mq_honsen__Q05]]

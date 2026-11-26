@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum MALE number given MELA with distinct digits*
+*Male number given: smallest MELA with distinct digits*
 
-> *(5 points)* The letters of the word "MALE" are all distinct from each other. Match each letter of this word with a digit so that the word "MALE" represents the smallest four-digit number with all digits distinct from each other. Keeping this choice of digits, what number is represented by the word "MALE"?
+> *(5 points)* The letters of the word "MALE" are all distinct from one another. Assign a digit to each letter of this word in such a way that the word "MALE" represents the smallest four-digit number whose digits are all distinct. Keeping this choice of digits, what number is represented by the word "MALE"?
 
-**Answer:** 1320
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_benjamin_finale#qb1|src_kangourou_2006_benjamin_finale__QB1]]
 
 
 
@@ -57,11 +62,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the first 40 numbers of the repeated sequence*
+*Sum of the first 40 numbers of the repeated sequence*
 
-> *(7 points) * What is the sum of the first 40 numbers of the sequence: $1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, \ldots$? (The rule by which the sequence is constructed is as follows: every positive integer, starting with $1$, is repeated consecutively as many times as its value.)
+> *(7 points)* What is the sum of the first 40 numbers in the sequence: $1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, \ldots$? (The rule by which the sequence is constructed is as follows: each positive integer, starting from $1$, is repeated consecutively as many times as its value.)
 
-**Answer:** 240
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_benjamin_finale#qb2|src_kangourou_2006_benjamin_finale__QB2]]
 
 
 
@@ -111,7 +120,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measuring the angle NYC between CM and BN in square*
+*Measure the NYC angle between CM and BN in the square*
 
 ![[src_kangourou_2006_benjamin_finale__probb3.png]]
 
@@ -140,9 +149,13 @@ level: kangourou
 \end{document}
 ```
 
-> *(11 points) * Note the figure: $ABCD$ is a square, $M$ is the midpoint of $AB$ and $N$ is the midpoint of $BC$. The segments $AN$ and $BM$ cross in $Y$. What is the angle $NYC$? (see figure)
+> *(11 points)* Observe the figure: $ABCD$ is a square, $M$ is the midpoint of $AB$, and $N$ is the midpoint of $BC$. The line segments $AN$ and $BM$ intersect at $Y$. What is the measure of angle $NYC$? (see figure)
 
-**Answer:** 90 degrees
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_benjamin_finale#qb3|src_kangourou_2006_benjamin_finale__QB3]]
 
 
 
@@ -166,11 +179,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*3-digit numbers with digits that differ by at least 4*
+*Three-digit numbers whose digits differ by at least 4*
 
-> *(14 points)* How many 3-digit numbers are there (significant, that is, whose first digit is not 0), such that any 2 of them taken together do not differ by less than 4?
+> *(14 points)* How many 3-digit numbers (significant digits, meaning the first digit is not 0) are there such that any two of their digits differ by at least 4?
 
-**Answer:** 18
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_benjamin_finale#qb4|src_kangourou_2006_benjamin_finale__QB4]]
 
 
 
@@ -196,13 +214,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of colours for sectors of the circle*
+*Minimum number of colors for the sectors of the circle*
 
 ![[src_kangourou_2006_benjamin_finale__probb5.png]]
 
-> *(18 points) * A circle has been divided into a number of sectors (at least 4), for example as shown in Figure 1. You've been asked to color the inside of each sector so that between two sectors of the same color there are always at least two of different color, but you don't know the number of sectors in the circle (in the figure there are 5, just an example). What is the smallest number of colors that guarantees you'll succeed regardless of the number of sectors? (see figure)
+> *(18 points)* A circle has been divided into a certain number of sectors (at least 4), for example as shown in the figure. You have been asked to color the interior of each sector so that between two sectors of the same color there are always at least two sectors of a different color, but you do not know how many sectors the circle has (in the figure there are 5—just an example). What is the smallest number of colors that guarantees your success regardless of the number of sectors? (see figure)
 
-**Answer:** 5
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_benjamin_finale#qb5|src_kangourou_2006_benjamin_finale__QB5]]
 
 
 
@@ -230,12 +253,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the sum of ORE+ORE+ORE=VIVE*
+*Result of the sum HOURS+HOURS+HOURS=LIVE*
 
 ![[src_kangourou_2006_benjamin_finale__probb6.png]]
 
-> *(22 points) * In the side operation each letter represents a digit; equal letters represent equal digits and different letters represent different digits; furthermore, no letter represents the digit 0. What is the result?
-> 
+> *(22 points)* In the operation shown beside, each letter represents a digit; identical letters represent identical digits, and different letters represent different digits; moreover, no letter represents the digit 0. What is the value of the result?
+>
 > $$\begin{array}{r} ORE \\ + ORE \\ + ORE \\ \hline VIVE \end{array}$$
 
-**Answer:** 2625
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_benjamin_finale#qb6|src_kangourou_2006_benjamin_finale__QB6]]

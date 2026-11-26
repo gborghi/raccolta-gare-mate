@@ -35,26 +35,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0041
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Password (Simone Traverso)*
+*Motto: Simone Traverso*
 
 ![[src_squadre_2017_femminile_qualif__prob1.png]]
 
-> PASSWORD (Simone Traverso)
-> Planet Corellia
-> Tivik: To enter the base they ask what the largest two-digit prime number is such that the sum of its digits is again a prime number and their product is the square of a prime number.
-> Cassian Andor: You just have to compute the number?
-> Tivik: Yes.
-> Cassian Andor: But that's easy.
-> Tivik: Maybe; the Galactic Empire knows that nobody in the galaxy studied number theory at school. Nobody knows how to compute it.
-> Voice-over: What is the number that lets Cassian enter the base?
+> MOTTO Simone Traverso Pianeta Corellia Tivik To get into the base, they ask what the greatest two-digit prime number is such that the sum of its digits is still a prime number, and the product of its digits is the square of a prime number. Cassian Andor Just calculate the number? Tivik Yes. Cassian Andor But it's easy. Tivik Maybe the Galactic Empire knows that no one in the galaxy studied number theory at school. No one knows how to calculate it. Voice-over What is the number that lets Cassian get into the base?
 
-**Answer:** 0041
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q01|src_squadre_2017_femminile_qualif__Q01]]
 
 
 
@@ -83,24 +79,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0053
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Team competition (Damiano Poletti)*
+*Team Competition Damiano Poletti*
 
 ![[src_squadre_2017_femminile_qualif__prob2.png]]
 
-> TEAM COMPETITION (Damiano Poletti)
-> Planet Coruscant
-> Yoda: At the last planetary team competition a rather peculiar thing happened: team 1 handed in 2 answer slips, team 2 handed in 4 slips, team 3 handed in 6 slips, and so on. At the end of the event the organisers wanted to retrieve at least one slip per team, but without having to read them all. Thanks to the Force, I had understood that if they took 2861 slips at random, there would certainly be one for each team. But if they took 2860, this would not have been true.
-> Bail Organa: Master, perhaps I'm wrong, but it would have been enough to look at how many teams were taking part.
-> Yoda: I knew that too, thanks to the Force.
-> Voice-over: How many teams took part in the Coruscant team competition?
+> TEAM COMPETITION Damiano Poletti Pianeta Coruscant Yoda At the latest planetary team competition, something rather peculiar happened: Team 1 handed in 2 slips, Team 2 handed in 4 slips, Team 3 handed in 6 slips, and so on. At the end of the event, the organizers wanted to retrieve at least one slip per team without having to read them all. Thanks to the Force, I had realized that if they took 2861 slips at random, there would surely be one for each team. But if they took 2860 slips, that wouldn't be true. Bail Organa Master, I may be wrong, but all you had to do was look at how many teams were taking part. Yoda I knew that too, thanks to the Force. Voice-over How many teams took part in the Coruscant team competition?
 
-**Answer:** 0053
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q02|src_squadre_2017_femminile_qualif__Q02]]
 
 
 
@@ -131,27 +125,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1323
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Oral tests (Simone Muselli)*
+*INTERROGATIONS Simone Muselli*
 
 ![[src_squadre_2017_femminile_qualif__prob3.png]]
 
-> ORAL TESTS (Simone Muselli)
-> Planet Lah'mu – School
-> Teacher (to the pupils): Today we will question the first 3 pupils on the register. We will not say their names, out of respect for privacy, but only their numbers on the register: 1, 2 and 3.
-> In 3 different hours, in 3 different subjects – Mathematics, Galactic Basic and Droidspeak – the three pupils are questioned as the teacher said.
-> Jin Erso: For privacy, it is only known that
-> • pupil 2 was questioned before the Galactic Basic hour,
-> • pupil 3 was questioned before the Mathematics hour,
-> • pupil 1 was not questioned in Basic.
-> In which subject and when was each student questioned? [Give the answer by writing, from left to right, the number of the pupil questioned in Mathematics, the number of the pupil questioned in Basic, the number of the pupil questioned first, the number of the pupil questioned second.]
+> QUIZES Simone Muselli Pianeta Lah’mu – Teacher School (Addressed to the Students) Today we will quiz the first 3 students on the roll call. We will not say their names out of respect for privacy, but only their roll-call numbers: 1, 2, and 3. At 3 different times, in 3 different subjects—Mathematics, Basic Galactic, and Droidspeak—the three students are quizzed as Teacher Jin Erso said. For privacy reasons, all that is known is that • student 2 was quizzed before the Basic Galactic class, • student 3 was quizzed before the Mathematics class, • student 1 was not quizzed in Basic. Which subject and when was each student quizzed? [Give the answer by indicating, from left to right, the number of the student quizzed in Mathematics, the number of the student quizzed in Basic, the number of the student quizzed first, and the number of the student quizzed second.]
 
-**Answer:** 1323
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q03|src_squadre_2017_femminile_qualif__Q03]]
 
 
 
@@ -183,27 +172,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0110
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Secret mission (Mattia Fecit)*
+*SECRET MISSION Mattia Fecit*
 
 ![[src_squadre_2017_femminile_qualif__prob4.png]]
 
-> SECRET MISSION (Mattia Fecit)
-> Planet Corellia
-> Cassian Andor: The drain pipe, along its whole length, has a cross-section measuring 109 cm × 156 cm, exactly like the hatch giving access to it.
-> Bistan: How do we get that very long rigid metal sheet out? Its thickness is negligible, but it is 60 cm wide and 100 m long. We will have to cut it and let the pieces drop, but we must make them so as to be sure that each one passes without getting stuck against the edges of the tunnel while falling. The pieces must be cut so that, even if they were to rotate as they fall, they cannot get stuck.
-> Cassian Andor: Let's cut the metal sheet into rectangles.
-> Bistan: We have little time. We must do it with the smallest possible number of cuts.
-> Cassian Andor: Let's make the cuts perpendicular to the length. That way we produce rectangles 60 cm wide.
-> Bistan: How many rectangles do we cut?
-> Cassian Andor: ...
+> SECRET MISSION Mattia Fecit Planet Corellia Cassian Andor The entire length of the discharge duct has a cross-section measuring 109 cm × 156 cm—exactly the same as the hatch for accessing it. Bistan How are we going to get that very long rigid sheet of metal out? Its thickness is negligible, but it's 60 cm wide and 100 m long. We'll have to cut it and let the pieces fall, but we'll have to do it in such a way that we can be sure each piece will pass through without getting stuck against the tunnel edges as it falls. The pieces must be cut so that, even if they rotate while falling, they can't get stuck. Cassian Andor Let's cut the sheet of metal into rectangles. Bistan We've got little time. We have to do it with as few cuts as possible. Cassian Andor Let's make the cuts perpendicular to the length. That way, we'll produce rectangles 60 cm wide. Bistan How many rectangles will we cut? Cassian Andor . . .
 
-**Answer:** 0110
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q04|src_squadre_2017_femminile_qualif__Q04]]
 
 
 
@@ -225,23 +209,19 @@ level: squadre
 > finali?
 
 **Risposta:** 6720
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dusty race (Damiano Poletti)*
+*Dusty Race Damiano Poletti*
 
 ![[src_squadre_2017_femminile_qualif__prob5.png]]
 
-> DUSTY RACE (Damiano Poletti)
-> Planet Tatooine – Mos Espa Podrace
-> Jabba the Hutt: 8 pods are racing, numbered from 1 to 8. Place your bets!
-> Ziro the Hutt: With all this dust you can't see anything. Who won?
-> Jabba the Hutt: Pod number 3 finished before pod number 4, which in turn finished before pod number 5. How many possible final rankings could there be?
+> DUSTY RACE Damiano Poletti Pianeta Tattoine – Race of Podraces Mos Espa Jabba the Hutt Eight pods are racing, numbered from 1 to 8. Place your bets! Ziro the Hutt With all this dust, you can't see anything. Who won? Jabba the Hut The pod numbered 3 finished ahead of the pod numbered 4, which in turn finished ahead of the pod numbered 5. How many possible final standings could there be?
 
-**Answer:** 6720
+[[Quesiti/src_squadre_2017_femminile_qualif#q05|src_squadre_2017_femminile_qualif__Q05]]
 
 
 
@@ -265,24 +245,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0042
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tangle (Francesco Raspaolo)*
+*GARBUGLIO Francesco Raspaolo*
 
 ![[src_squadre_2017_femminile_qualif__prob6.png]]
 
-> TANGLE (Francesco Raspaolo)
-> Planet Lah'mu – School
-> Teacher (to the pupils): Listen: a number is called tangled if the greatest common divisor of it and the number written backwards is 1.
-> Jin Erso: Is 20 written backwards 2?
-> Teacher: Yes. When you reverse a number, delete the 0 digits written on the left.
-> Jin Erso: How many tangled numbers are there that are different from zero and have at most two digits?
+> GARBUGLIO Francesco Raspaolo Pianeta Lah’mu – Head Teacher (Addressing the Students) Listen: a number is called tangled if the greatest common divisor of that number and the number written in reverse is 1. Jin Erso, is 20 written in reverse 2? Teacher: Yes. When you reverse a number, cross out the leading zeros. Jin Erso: How many tangled numbers are there that are not zero and have at most two digits?
 
-**Answer:** 0042
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q06|src_squadre_2017_femminile_qualif__Q06]]
 
 
 
@@ -306,23 +284,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0029
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*At the supermarket (Damiano Poletti)*
+*AT THE SUPERMARKET Damiano Poletti*
 
 ![[src_squadre_2017_femminile_qualif__prob7.png]]
 
-> AT THE SUPERMARKET (Damiano Poletti)
-> Planet Corellia – Supermarket
-> Cassian Andor: In this supermarket all prices use only the digit 9.
-> Bistan: It's to fool the ordinary consumer: he sees two digits and doesn't realise he is paying practically 100 imperial credits.
-> Cassian Andor (leaving the supermarket): We paid 201708 imperial credits. The receipt was long, but what is the minimum number of 9 digits written on it?
+> AT THE SUPERMARKET Damiano Poletti Pianeta Corellia – Supermarket Cassian Andor In this supermarket, all prices use only the digit 9. Bistan It's to deceive the average consumer: they see two digits and don't realize they're paying practically 100 Imperial Credits. Cassian Andor (Leaving the supermarket) We paid 201708 Imperial Credits. The receipt was long, but at minimum, how many 9s are written on it?
 
-**Answer:** 0029
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q07|src_squadre_2017_femminile_qualif__Q07]]
 
 
 
@@ -351,27 +328,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0274
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Round of sixteen (Francesco Raspaolo)*
+*Round of 16 Francesco Raspaolo*
 
 ![[src_squadre_2017_femminile_qualif__prob8.png]]
 
-> ROUND OF SIXTEEN (Francesco Raspaolo)
-> Planet Serenno
-> Sheev Palpatine: Interesting, this knockout tournament among Jedi knights.
-> Bail Organa: It's incredible how many there are: 4096 have entered.
-> Sheev Palpatine: Anakin and Obi Wan are taking part too.
-> Bail Organa: I heard that they were drawn in consecutive positions in the bracket.
-> Sheev Palpatine: I would like them not to face each other before the round of sixteen.
-> Bail Organa: Assuming they win all their matches before meeting, the probability that they do not meet before the round of sixteen will not comfort you.
-> Sheev Palpatine: Ah, yes! What is the probability you are referring to? [Give as the answer the sum of the numerator and denominator of the fraction in lowest terms.]
+> Round of 16: Francesco Raspaolo, Pianeta Serenno, Sheev Palpatine. This single-elimination tournament among Jedi knights is interesting. Bail Organa It's incredible how many there are: 4,096 participants. Sheev Palpatine Anakin and Obi-Wan are taking part too. Bail Organa I learned that they were drawn into consecutive positions in the bracket. Sheev Palpatine I'd like them not to face each other before the round of 16. Bail Organa Assuming they win all their matches before facing each other, the probability that they won't face each other before the round of 16 doesn't reassure him. Sheev Palpatine Oh, yes! What probability are you referring to? [Give as the answer the sum of the numerator and denominator of the fraction reduced to its simplest form.]
 
-**Answer:** 0274
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q08|src_squadre_2017_femminile_qualif__Q08]]
 
 
 
@@ -391,20 +363,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0080
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Back to the Future IV (Alessandro Murchio)*
+*Back to the Future IV Alessandro Murchio*
 
 ![[src_squadre_2017_femminile_qualif__prob9.png]]
 
-> BACK TO THE FUTURE IV (Alessandro Murchio)
-> Voice-over: What is the value of the positive integer a (pauses, breathes deeply) divisible by 10 such that the equation x^5 − ax + 3 = 0 has an integer solution?
+> BACK TO THE FUTURE IV Alessandro Murchio Voice-over What is the value of a positive integer (is interrupted, takes a deep breath) divisible by 10 such that the equation x^5 − ax + 3 = 0 has an integer solution?
 
-**Answer:** 0080
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q09|src_squadre_2017_femminile_qualif__Q09]]
 
 
 
@@ -435,26 +409,22 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2016
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Negatives and Positives (Simone Muselli)*
+*Negatives and Positives Simone Muselli*
 
 ![[src_squadre_2017_femminile_qualif__prob10.png]]
 
-> NEGATIVES AND POSITIVES (Simone Muselli)
-> Planet Ahch-To – A remote island in the ocean
-> Viceroy Nute Gunray: My subjects number 2016, divided into two factions: the Negatives, who always lie, and the Positives, who always tell the truth.
-> Darth Sidious (by interplanetary link): The Dark Side of the Force confirms to me that you are a Positive; I can be sure of your answers: did you invite them all to the banquet?
-> Viceroy Nute Gunray: Of course! They are all present. During the evening, many shook hands to greet one another and, before leaving, each of my guests said the same sentence: «I shook hands with more Negatives than Positives».
-> Darth Sidious: Thanks to the Dark Side of the Force, I know that all the Positives shook hands with one another and that all the Negatives shook hands with one another. Therefore I know how many hands you shook, Viceroy.
-> The Viceroy trembles.
-> Voice-over: How many hands did the Viceroy shake?
+> NEGATIVES AND POSITIVES Simone Muselli Planet Ahch-To – An Island Lost in the Ocean Viceroy Nute Gunray My subjects are 2016 in number, divided into two factions: the Negatives, who always lie, and the Positives, who always tell the truth. Darth Sidious (Via Interplanetary Link) The Dark Side of the Force confirms to me that you are Positive; I can be certain of your answers: did you invite them all to the banquet? Viceroy Nute Gunray Of course! They are all present. During the evening, many shook hands to greet one another, and before leaving, each of my guests said the same phrase: "I shook hands with more Negatives than Positives." Darth Sidious Thanks to the Dark Side of the Force, I know that all the Positives shook hands with one another and that all the Negatives shook hands with one another. I therefore know how many hands you shook, Viceroy. The Viceroy trembles Voice-over How many hands did the Viceroy shake?
 
-**Answer:** 2016
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q10|src_squadre_2017_femminile_qualif__Q10]]
 
 
 
@@ -487,24 +457,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0103
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The mechanism (Fabio Ardenghi)*
+*THE MECHANISM Fabio Ardenghi*
 
 ![[src_squadre_2017_femminile_qualif__prob11.png]]
 
-> THE MECHANISM (Fabio Ardenghi)
-> Planet Geonosis
-> Obi Wan Kenobi: In the droid factory I saw a peculiar mechanism made up of 5 gear wheels, meshed with one another and arranged with their centres aligned. A straight line passing through the five centres has been drawn on the wheels; the upper semicircle of each wheel has been coloured red, the lower semicircle green. The five wheels have radii 2 cm, 3 cm, 4 cm, 5 cm and 6 cm respectively. The wheel of radius 2 cm takes exactly 2 days to make one turn and jams every 2 days of use, the wheel of radius 3 cm jams every 3 days of use, and so on. It takes one day to unjam a wheel, during which the mechanism cannot work; several broken wheels can be unjammed at the same time.
-> Anakin Skywalker: They have just started the mechanism: we will strike when the wheels are all together in the same configuration they were in at the start. Let's use the Force to understand in how many days we can strike.
-> Obi Wan Kenobi: There's no need for the Force.
-> Voice-over: In how many days will Anakin and Obi Wan attack the factory?
+> THE MECHANISM Fabio Ardenghi Planet Geonosis Obi-Wan Kenobi In the droid factory, I saw a particular mechanism made up of 5 gear wheels, meshed with one another and arranged with their centers aligned. A straight line passing through all five centers was drawn on the wheels; the upper semicircle of each wheel was colored red, and the lower semicircle green. The five wheels have radii of 2 cm, 3 cm, 4 cm, 5 cm, and 6 cm, respectively. The wheel with a radius of 2 cm takes exactly 2 days to complete one revolution and locks up every 2 days of use; the wheel with a radius of 3 cm locks up every 3 days of use, and so on. It takes one day to unlock a wheel, during which the mechanism cannot operate; multiple broken wheels can be unlocked at the same time. Anakin Skywalker They've started the mechanism now: we'll strike when all the wheels are together in the same configuration they were in at the start. Let's use the Force to figure out in how many days we'll be able to strike. Obi-Wan Kenobi The Force isn't needed. Off-screen voice: In how many days will Anakin and Obi-Wan attack the factory?
 
-**Answer:** 0103
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q11|src_squadre_2017_femminile_qualif__Q11]]
 
 
 
@@ -532,23 +500,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0142
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The trick question (Mattia Fecit)*
+*The Trap Mattia Made*
 
 ![[src_squadre_2017_femminile_qualif__prob12.png]]
 
-> THE TRICK QUESTION (Mattia Fecit)
-> Planet Lah'mu – School
-> Teacher (to the pupils): Listen: consider a triangle ABC. From each vertex, draw a segment to the opposite side, obtaining the segments AD with D on BC, then BE and CF with E on AC and F on AB respectively. Let G be the intersection point of AD and BE, let H be the intersection point of BE and CF and let I be the intersection point of CF and AD. Knowing that GH and HB measure 160 m, HI and IC measure 180 m, while IG and AG measure 200 m, what is 1000 times the ratio between the area of triangle GHI and that of triangle ABC?
-> Jin Erso: Teacher, it's a trick question!
-> Teacher: You're right: the segment GB measures 320 m.
+> THE TRAP Mattia Fecit Pianeta Lah’mu – Head Teacher (Addressed to the Students) Listen: consider triangle ABC. For each vertex, draw a line segment toward the opposite side, obtaining segments AD with D on BC, then BE and CF with E on AC and F on AB, respectively. Let G be the intersection point of AD and BE, let H be the intersection point of BE and CF, and let I be the intersection point of CF and AD. Given that GH and HB measure 160 m, HI and IC measure 180 m, while IG and AG measure 200 m, what is the value of 1000 times the ratio of the area of triangle GHI to the area of triangle ABC? Jin Erso, Teacher, that's a trap question! Teacher: You're right—segment GB measures 320 m.
 
-**Answer:** 0142
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q12|src_squadre_2017_femminile_qualif__Q12]]
 
 
 
@@ -569,20 +536,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2017
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Back to the Future V (Alessandro Murchio)*
+*BACK TO THE FUTURE V Alessandro Murchio*
 
 ![[src_squadre_2017_femminile_qualif__prob13.png]]
 
-> BACK TO THE FUTURE V (Alessandro Murchio)
-> Voice-over: Let p(x) = x^2 − 1. What is the sum (pauses, breathes deeply) of the two roots of the polynomial p(x) + p(x − 1) + p(x − 2) + ... + p(x − 2017)?
+> BACK TO THE FUTURE V Alessandro Murchio Voice-over Let p(x) = x^2 − 1. What is the sum (he breaks off, takes a deep breath) of the two roots of the polynomial p(x) + p(x − 1) + p(x − 2) + ... + p(x − 2017)?
 
-**Answer:** 2017
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q13|src_squadre_2017_femminile_qualif__Q13]]
 
 
 
@@ -611,25 +580,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0120
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Competition traditions (Damiano Poletti)*
+*RACE TRADITIONS Damiano Poletti*
 
 ![[src_squadre_2017_femminile_qualif__prob14.png]]
 
-> COMPETITION TRADITIONS (Damiano Poletti)
-> Planet Coruscant
-> Bail Organa: It is tradition for the team competition to end with a big party attended by both the boys' teams and the girls' teams.
-> Yoda (closes his eyes, breathes in deeply): Thanks to the Force I know that the girls are more than the boys, but fewer than twice the number of boys.
-> Bail Organa: At the beginning of the evening each female captain gave a golden answer slip to each male captain she knows. At the end of the evening, on the other hand, each male captain gave an answer slip with a jewel set in it to each female captain he does not know.
-> Yoda: Thanks to the Force I know that in total 3551 slips were exchanged.
-> Bail Organa: How many teams are present at the party?
+> RACE TRADITIONS Damiano Poletti Pianeta Coruscant Bail Organa It is tradition for the team competition to conclude with a big party attended by both the men's and women's teams. Yoda (Closes his eyes, takes a deep breath) Thanks to the Force, I know that there are more girls than boys, but fewer girls than twice the number of boys. Bail Organa At the beginning of the evening, each female captain gave a golden response slip to each male captain she knew. At the end of the evening, however, each male captain gave a response slip set with a jewel to each female captain he did not know. Yoda Thanks to the Force, I know that in total 3551 slips were exchanged. Bail Organa How many teams are present at the party?
 
-**Answer:** 0120
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q14|src_squadre_2017_femminile_qualif__Q14]]
 
 
 
@@ -655,23 +621,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0029
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Plato deconstructed (Mattia Fecit)*
+*Deconstructed Plato Mattia Fecit*
 
 ![[src_squadre_2017_femminile_qualif__prob15.png]]
 
-> PLATO DECONSTRUCTED (Mattia Fecit)
-> Planet Lah'mu – School
-> Teacher (to the pupils): Listen: in each of the five Platonic solids, draw the longest possible segments. How many segments have been drawn?
-> Jin Erso: Teacher, the question is too difficult, because in this galaxy we don't know what Platonic solids are.
-> Teacher: Platonic solids are solids whose faces are all equal. The cube has six square faces, the dodecahedron has twelve regular pentagonal faces, and three have equilateral triangular faces: the tetrahedron has four faces, the octahedron has eight faces and the icosahedron has twenty faces.
+> DECONSTRUCTED PLATO Mattia Fecit Pianeta Lah’mu – Head Teacher (Addressing the Students) Listen: in each of the five Platonic solids, draw the longest possible line segments. How many line segments were drawn? Jin Erso, Teacher, the question is too difficult, because in this galaxy we don't know what Platonic solids are. Teacher: Platonic solids are solids whose faces are all the same. The cube has six square faces, the dodecahedron has twelve regular pentagonal faces, and three of them have equilateral triangular faces: the tetrahedron has four faces, the octahedron has eight faces, and the icosahedron has twenty faces.
 
-**Answer:** 0029
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q15|src_squadre_2017_femminile_qualif__Q15]]
 
 
 
@@ -704,27 +669,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0600
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The new symbol (Francesco Raspaolo)*
+*The New Symbol Francesco Raspaolo*
 
 ![[src_squadre_2017_femminile_qualif__prob16.png]]
 
-> THE NEW SYMBOL (Francesco Raspaolo)
-> Moon Yavin 4
-> Mon Mothma: Senator Vasp Vaspar proposes a new symbol for the Rebellion: the floor goes to Senator Vasp Vaspar.
-> Vasp Vaspar: Take a square sheet and cut out an 8-pointed star in this way: mark the midpoints of the sides of the square and consider the four rectangles with two vertices at vertices of the square and two vertices at the midpoints. For each of these rectangles, draw the pair of diagonals in pencil. The star I propose is obtained by cutting away the part of the square that lies outside the pencil lines.
-> Tynnra Pamlo: But are the points different?
-> Vasp Vaspar: Yes and no, to represent the diversity of origin of the members of the Rebellion.
-> Nower Jebel: What does Lucas say?
-> Vasp Vaspar: He is not part of the Rebellion: I didn't ask him.
-> Bail Organa: What is a thousand times the ratio between the area of the star and the area of the original square?
+> THE NEW SYMBOL Francesco Raspaolo Luna Yavin 4 Mon Mothma Senator Vasp Vaspar proposes a new symbol for the Rebellion: words to Senator Vasp Vaspar. Vasp Vaspar Take a square sheet of paper and cut out an eight-pointed star in this way: mark the midpoints of the sides of the square, and consider the four rectangles that have two vertices at the vertices of the square and two vertices at the midpoints. For each of these rectangles, draw the pair of diagonals with a pencil. The star I propose is obtained by cutting out the part of the square that lies outside the pencil marks. Tynnra Pamlo But aren't the points different? Vasp Vaspar Yes and no—to represent the diversity of origins among the members of the Rebellion. Nower Jebel What does Lucas say? Vasp Vaspar He's not part of the Rebellion: I didn't ask him. Bail Organa How much is a thousand times the ratio of the area of the star to the area of the starting square?
 
-**Answer:** 0600
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q16|src_squadre_2017_femminile_qualif__Q16]]
 
 
 
@@ -753,28 +713,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2017
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The inscription (Simone Muselli)*
+*The Inscription: Simone Muselli*
 
 ![[src_squadre_2017_femminile_qualif__prob17.png]]
 
-> THE INSCRIPTION (Simone Muselli)
-> Jedha City – Planet Jedha
-> Chirrut Îmwe: Describe to me the inscription on the Temple door.
-> Baze Malbus: There are letters, signs and digits written on three lines; the first two are separated from the third by a horizontal line. I'll read it to you:
-> D B D C −
-> A D B A =
-> 4 3 6 9
-> Chirrut Îmwe: Thanks to the Force, I know that A, B, C and D are digits different from those written.
-> Baze Malbus: The Force doesn't exist.
-> Chirrut Îmwe: But I know the digits corresponding to the letters A, B, C, D. [Give the answer by writing the digits A, B, C, D, in this order, from left to right.]
+> THE INSCRIPTION Simone Muselli Jedha City – Planet Jedha Chirrut Îmwe Describe the inscription on the Temple door. Baze Malbus There are letters, symbols, and digits written on three lines; the first two are separated from the third by a horizontal line. Let me read it to you: D B D C − A D B A = 4 3 6 9 Chirrut Îmwe Thanks to the Force, I know that A, B, C, and D are digits different from those written. Baze Malbus The Force doesn't exist. Chirrut Îmwe But I know the digits that correspond to the letters A, B, C, D. [Give the answer by writing the digits A, B, C, D in order, from left to right.]
 
-**Answer:** 2017
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q17|src_squadre_2017_femminile_qualif__Q17]]
 
 
 
@@ -806,27 +760,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0011
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Paints (Simone Muselli)*
+*VERNICI Simone Muselli*
 
 ![[src_squadre_2017_femminile_qualif__prob18.png]]
 
-> PAINTS (Simone Muselli)
-> Sheev Palpatine: I have just been elected senator. Let's repaint the apartment.
-> C-3PO: Very well, sir.
-> Sheev Palpatine: Go and buy r litres of red paint, g of yellow paint and b of blue paint, with r, g and b satisfying the following conditions:
-> • r, g and b are positive integers;
-> • the square of the litres of yellow paint must be less than or equal to the litres of red paint;
-> • the cube of the litres of red paint must be less than or equal to the square of the litres of blue paint;
-> • the litres of blue paint must not be more than five times the litres of yellow paint.
-> C-3PO (to Palpatine): Yes, sir. (To himself) The Force has gone to his head: his requests do not determine the triple uniquely. What bad luck to be the only one in the galaxy gifted enough to answer the question: how many ordered triples (r, g, b) satisfy the new senator's requests?
+> VERNICI Simone Muselli Sheev Palpatine I have just been elected senator. We're repainting the apartment. C-3PO Very well, sir. Sheev Palpatine Go and buy r liters of red paint, g liters of yellow paint, and b liters of blue paint, where r, g, and b satisfy the following conditions: • r, g, and b are positive integers; • the square of the liters of yellow paint must be less than or equal to the liters of red paint; • the cube of the liters of red paint must be less than or equal to the square of the liters of blue paint; • the liters of blue paint must not exceed five times the liters of yellow paint. C-3PO (To Palpatine) Yes, sir. (To himself) The Force has gone to his head: the requirements he's setting don't uniquely determine the triple. What bad luck to be the only one in the galaxy so gifted as to be able to answer the question: how many ordered triples (r, g, b) satisfy the new senator's requirements?
 
-**Answer:** 0011
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q18|src_squadre_2017_femminile_qualif__Q18]]
 
 
 
@@ -852,23 +801,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0034
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The transmitters (Mattia Fecit)*
+*THE TRANSMITTERS Mattia Fecit*
 
 ![[src_squadre_2017_femminile_qualif__prob19.png]]
 
-> THE TRANSMITTERS (Mattia Fecit)
-> Planet Corellia – near the Galactic Empire Base
-> Cassian Andor: The base consists of four identical square transmitters and the zone inside the four transmitters, which is also square. Each transmitter shares a vertex with two other transmitters. We must reach the inner zone where the equipment to be destroyed is.
-> Bistan: Tivik told us that the total surface of the base is between 5500 m^2 and 6000 m^2 and that the length of a side of a transmitter is an integer.
-> Cassian Andor: How long, in m, is the side of a transmitter?
+> THE TRANSMITTERS Mattia Fecit Pianeta Corellia – near the Galactic Empire Base Cassian Andor The base consists of four identical square transmitters and the area inside the four transmitters, which is also square. Each transmitter shares a vertex with two other transmitters. We need to get to the inner area where the equipment to be destroyed is located. Bistan Tivik told us that the total surface area of the base is between 5500 m² and 6000 m², and that the length of one side of a transmitter is an integer. Cassian Andor How long, in meters, is one side of a transmitter?
 
-**Answer:** 0034
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q19|src_squadre_2017_femminile_qualif__Q19]]
 
 
 
@@ -888,20 +836,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 6666
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Back to the Future VI (Alessandro Murchio)*
+*Back to the Future VI Alessandro Murchio*
 
 ![[src_squadre_2017_femminile_qualif__prob20.png]]
 
-> BACK TO THE FUTURE VI (Alessandro Murchio)
-> Voice-over: Let f : ℝ → ℝ be a function such that f(x) + 2f(1/x) = 1/x (pauses, breathes deeply) for every x different from 0. What is 100·f(100)?
+> BACK TO THE FUTURE VI Alessandro Murchio Voice-over Let f : ℝ → ℝ be a function such that f(x) + 2f(1/x) = 1/x (pauses, takes a deep breath) for every x ≠ 0. What is the value of 100·f(100)?
 
-**Answer:** 6666
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q20|src_squadre_2017_femminile_qualif__Q20]]
 
 
 
@@ -926,23 +876,22 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0249
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Odd and even (Francesco Raspaolo)*
+*Odd and Even Francesco Raspaolo*
 
 ![[src_squadre_2017_femminile_qualif__prob21.png]]
 
-> ODD AND EVEN (Francesco Raspaolo)
-> Planet Lah'mu – Erso farm
-> Galen Erso: What are you doing?
-> Jin Erso: I'm playing a game on my own: I think of a natural number n, write on a sheet the product of the 6 natural numbers that follow it, delete all the trailing zeros and see whether the number obtained is even or odd. So far I have always found even numbers.
-> Galen Erso: Good. I'll ask you a question: what will be the smallest natural number n for which your procedure produces an odd number?
+> EVEN AND ODD Francesco Raspaolo Pianeta Lah’mu – Fattoria Erso Galen Erso What are you doing? Jin Erso I'm playing a game by myself: I think of a natural number n, write on a sheet of paper the product of the 6 natural numbers that follow it, cross out all the trailing zeros, and see whether the resulting number is even or odd. So far, I've always found even numbers. Galen Erso Good. Let me ask you a question: what will be the smallest natural number n for which your procedure will produce an odd number?
 
-**Answer:** 0249
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q21|src_squadre_2017_femminile_qualif__Q21]]
 
 
 
@@ -972,27 +921,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0252
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Drop by drop (Mattia Fecit)*
+*Drop by Drop, Mattia Made It*
 
 ![[src_squadre_2017_femminile_qualif__prob22.png]]
 
-> DROP BY DROP (Mattia Fecit)
-> Jedha City – Planet Jedha
-> Chirrut Îmwe: Describe the Temple's hourglass to me.
-> Baze Malbus: The hourglass is formed by two equal cones joined at the vertex. The lower cone is full of water. When the hourglass is turned over, thus swapping the positions of the two cones, the water begins to fall drop by drop, slowly and regularly, from the upper cone to the lower one.
-> Chirrut Îmwe: I know that 1764 years have passed since the hourglass was turned over.
-> Baze Malbus: The water is exactly at half the height of the upper cone.
-> Chirrut Îmwe: I am one with the Force and the Force is with me. I know how many years from this moment it will take the water to finish filling the lower cone.
-> Baze Malbus: You don't need the Force, but Mathematics!
-> Voice-over: How many years does Chirrut know?
+> Drop by Drop Mattia Fecit Jedha City – Planet Jedha Chirrut Îmwe Describe the Temple's hourglass to me. Baze Malbus The hourglass consists of two identical cones joined at their apices. The lower cone is full of water. When the hourglass is inverted, thus swapping the positions of the two cones, the water begins to fall drop by drop—slowly and regularly—from the upper cone into the lower one. Chirrut Îmwe I know that 1764 years have passed since the hourglass was inverted. Baze Malbus The water is exactly halfway up the height of the upper cone. Chirrut Îmwe I am the Force, and the Force is with me. I know how many years from now it will take the water to finish filling the lower cone. Baze Malbus The Force isn't needed—math is! Voice-over How many years does Chirrut know?
 
-**Answer:** 0252
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q22|src_squadre_2017_femminile_qualif__Q22]]
 
 
 
@@ -1029,27 +973,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0065
-**Fonte:** [apri PDF p.8](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=8) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.8 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Chenini (Francesco Raspaolo)*
+*CHENINI Francesco Raspaolo*
 
 ![[src_squadre_2017_femminile_qualif__prob23.png]]
 
-> CHENINI (Francesco Raspaolo)
-> Planet Tatooine – At Chalmun's
-> Evazan: Here on Tatooine they play Chenini.
-> Ponda Baba: How do you play?
-> Evazan: It's a game of chance: it is played with two fair six-sided dice. (Ponda laughs) One die is red, the other yellow. A 10 × 10 square board is used, on which every square has two parallel sides coloured yellow and the other two (parallel) sides coloured red.
-> Ponda Baba: Since each square shares at least two perpendicular sides with other squares, the board is a grid formed by eleven parallel yellow lines and eleven red lines perpendicular to the yellow ones.
-> Evazan: Well done: here it is! A pawn is placed at one of the four corners of the board and moved along the sides of the squares on the board according to the result of throwing the two coloured dice, always in the same direction: it moves along as many red sides as the number on the red die and as many yellow sides as the number on the yellow die.
-> Ponda Baba: I bet 10000 credits that the pawn will reach the corner diagonally opposite the starting one with exactly three throws of the two dice.
-> Voice-over: What is Ponda's probability of winning? [Give as the answer the sum of the numerator and denominator of the fraction in lowest terms.]
+> CHENINI Francesco Raspaolo Pianeta Tattoine – Da Chalmun Evazan Here on Tattoine, they play Chenini. Ponda Baba How do you play? Evazan It's a gambling game: you play with two unrigged six-sided dice. (Ponda laughs) One die is red, the other is yellow. A 10 × 10 square chessboard is used, on which every square has two parallel sides colored yellow and the other two (parallel) sides colored red. Ponda Baba Since each square shares at least two perpendicular sides with other squares, the chessboard forms a grid made up of eleven parallel yellow lines and eleven red lines perpendicular to the yellow ones. Evazan Well done: here it is! You place a pawn on one of the four corners of the chessboard and move it along the sides of the squares on the board depending on the result of rolling the two colored dice, always in the same direction: you move it the same number of red sides as the number shown on the red die and the same number of yellow sides as the number shown on the yellow die. Ponda Baba I bet 10,000 credits that the pawn will reach the corner diagonally opposite the starting corner in exactly three rolls of the two dice. Off-screen voice What is Ponda's probability of winning? [Give as the answer the sum of the numerator and denominator of the fraction reduced to lowest terms.]
 
-**Answer:** 0065
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q23|src_squadre_2017_femminile_qualif__Q23]]
 
 
 
@@ -1084,24 +1023,19 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3775
-**Fonte:** [apri PDF p.8](https://www.phiquadro.it/archivio/2017_20%20gennaio%20-%20Ga.pdf#page=8) · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.8 · phiquadro.it, Archivio gare ufficiali 2017 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The archipelago (Simone Muselli)*
+*The Simone Muselli Archipelago*
 
 ![[src_squadre_2017_femminile_qualif__prob24.png]]
 
-> THE ARCHIPELAGO (Simone Muselli)
-> Planet Scarif
-> Yoda: What a beautiful archipelago!
-> Mace Windu: There are 100 islands. For fairness, the inhabitants have named them with the numbers from 1 to 100. Each island is an independent nation. But all the islands of the archipelago are united in a union that mints the same currency.
-> Yoda: Moreover, for each n from 1 to 100, island n has exactly n inhabitants.
-> Mace Windu: The midichlorians have had a strange effect on the inhabitants of the archipelago. They are divided into those of disposition C, who always tell the truth, and those of disposition O, who always lie.
-> Yoda: The islands are connected by bridges (floating, suspended or submerged): island n is connected by a bridge to every other island m such that n is a multiple of m or m is a multiple of n. In the Scarifian language two islands connected by a bridge are called “linked”.
-> Mace Windu: To show the strong union of the islands, the anthem of the archipelago has a single long verse that every citizen can sing, because it is a sentence he or she can say without contradicting his or her own disposition (whether C or O): «In all the islands linked to my island taken together, at most as many inhabitants as the number that is my island are of disposition C».
-> Voice-over: How many inhabitants of the archipelago are of disposition C?
+> The Simone Muselli Scarif Yoda Archipelago What a beautiful archipelago! Mace Windu There are 100 islands. For fairness, the inhabitants named them with the numbers 1 to 100. Each island is an independent nation. But all the islands of the archipelago are united in a union that uses the same currency. Yoda Moreover, for each n from 1 to 100, island n has exactly n inhabitants. Mace Windu The midichlorians have had a strange effect on the inhabitants of the archipelago. They fall into two groups: those of nature C, who always tell the truth, and those of nature O, who always tell lies. Yoda The islands are connected by bridges (floating, suspended, or submerged): island n is connected by a bridge to every other island m such that n is a multiple of m or m is a multiple of n. In the Scarifian language, two islands connected by a bridge are called "linked". Mace Windu To demonstrate the strong union of the islands, the archipelago's anthem has a single, long stanza that every citizen can sing, since it is a sentence that each can utter without contradicting their own nature (whether C or O): "In the totality of the islands linked to my island, at most as many inhabitants as the number that is my island are of nature C." Voice-over How many inhabitants of the archipelago are of nature C?
 
-**Answer:** 3775
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2017_femminile_qualif#q24|src_squadre_2017_femminile_qualif__Q24]]

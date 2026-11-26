@@ -34,15 +34,23 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di cubetti per completare un cubo solido da 11 cubetti incollati*
+*Undici cubi unitari incollati come in figura: quanti altri ne servono, al minimo, per fare un cubo*
 
-> Undici cubetti, tutti della stessa lunghezza del bordo, sono incollati insieme come mostrato nella figura. Il numero minimo di cubetti unitari, pari a quelli già utilizzati, che deve essere aggiunto al solido formato dai undici cubetti per ottenere un solido cubetto è:
-> 
+> Undici cubi unitari, tutti dello stesso spigolo, sono incollati come in figura. Il minimo numero di cubi unitari, uguali a quelli già usati, da aggiungere al solido formato dagli undici cubi per ottenere un cubo è:
+>
 > (A) 48 \quad (B) 49 \quad (C) 52 \quad (D) 53 \quad (E) 56
 
 ![[src_obm_2003_n1_f1__q01.png]]
 
 **Risposta:** D
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_geometria_solida|Geometria solida]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n1_f1#q01|src_obm_2003_n1_f1__Q01]]
 
 
 
@@ -83,17 +91,35 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Consumo medio mensile di acqua nel corso di 5 mesi*
+*Dalla tabella dei consumi d'acqua si chiede la media mensile*
 
-> La tabella seguente mostra il consumo idrico (in $\text{m}^3$) di una famiglia nei primi 5 mesi del 2003.
-> 
-> \[ \begin{array}{ẽninec} \textc koloba} \hl \bf{Month \textbf{Consumption (m}^3\textbf{)} \\ \hline \text{January} & 12.5 \\ \text{February} & 13.8 \\ \text{March} & 13.7 \\ \text{April} & 11.4 \\ \text{} May & 12.1 \\ \hline \end{array} \]
-> 
-> Il consumo medio mensile di questa famiglia durante questi 5 mesi è stato:
-> 
+> La tabella seguente riporta il consumo d'acqua (in $\text{m}^3$) di una famiglia nei primi 5 mesi del 2003.
+>
+> \[
+> \begin{array}{|c|c|}
+> \hline
+> \textbf{Mese} & \textbf{Consumo (m}^3\textbf{)} \\
+> \hline
+> \text{gennaio} & 12.5 \\
+> \text{febbraio} & 13.8 \\
+> \text{marzo} & 13.7 \\
+> \text{aprile} & 11.4 \\
+> \text{maggio} & 12.1 \\
+> \hline
+> \end{array}
+> \]
+>
+> Il consumo medio mensile di questa famiglia in questi 5 mesi è stato:
+>
 > (A) $11.3\ \text{m}^3$ \quad (B) $11.7\ \text{m}^3$ \quad (C) $12.7\ \text{m}^3$ \quad (D) $63.5\ \text{m}^3$ \quad (E) $317.5\ \text{m}^3$
 
 **Risposta:** C
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n1_f1#q02|src_obm_2003_n1_f1__Q02]]
 
 
 
@@ -119,13 +145,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di bastoni per formare una fila di bastoni di 2 metri*
+*Con bastoncini da 6 cm e da 7 cm, quanti ne servono al minimo per una fila di 200 cm*
 
-> Hai molti bastoni: lunghi circa 6 cm e lunghi circa 7 cm. Per formare una singola fila di bastoni con una lunghezza totale di 2 metri (200 cm), il numero minimo di bastoni da utilizzare è:
-> 
+> Si hanno molti bastoncini: alcuni lunghi 6 cm e altri lunghi 7 cm. Per formare un'unica fila di lunghezza totale 2 metri (200 cm), il minimo numero di bastoncini da usare è:
+>
 > (A) 29 \quad (B) 30 \quad (C) 31 \quad (D) 32 \quad (E) 33
 
 **Risposta:** A
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+
+**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n1_f1#q03|src_obm_2003_n1_f1__Q03]]
 
 
 
@@ -161,17 +195,35 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta mancante x in un quadrato magico*
+*In un quadrato magico si chiede il valore di x*
 
-> In un quadrato magico, la somma dei numeri in ogni riga, colonna e diagonale è sempre la stessa. Nel quadrato magico di seguito, il valore di $x$ è:
-> 
-> $$\begin{array}{|c|c|c|} \hline & 14 & x \\ \hline 26 & & 13 \\ \hline \end{array}$$
-> 
+> In un quadrato magico la somma dei numeri di ogni riga, di ogni colonna e di ogni diagonale è sempre la stessa. Nel quadrato magico qui sotto, il valore di $x$ è:
+>
+>
+>
+$$\begin{array}{|c|c|c|}
+\hline
+ & 14 & x \\
+\hline
+26 & & 13 \\
+\hline
+\end{array}$$
+>
+>
+>
 > (A) 20 \quad (B) 22 \quad (C) 23 \quad (D) 25 \quad (E) 27
 
 ![[src_obm_2003_n1_f1__q04.png]]
 
 **Risposta:** E
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n1_f1#q04|src_obm_2003_n1_f1__Q04]]
 
 
 
@@ -200,17 +252,23 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Operazioni integrali che portano a 220; identificare la proprietà di x*
+*Da un intero positivo, quattro operazioni danno 220: che cosa si può dire del numero di partenza*
 
-> Considerate un intero positivo $x$ e eseguite le seguenti operazioni successive: moltiplicare per 2, poi aggiungere 1, poi moltiplicare per 3, poi sottrarre 5. Se il risultato è 220, allora $x$ è:
+> Si prenda un intero positivo $x$ e si eseguano, nell'ordine, queste operazioni: si moltiplica per 2, si aggiunge 1, si moltiplica per 3, si sottrae 5. Se il risultato è 220, allora $x$ è:
 >
 > - **(A)** un numero primo.
 > - **(B)** un numero pari.
-> - **(C)** un numero tra i 40 e i 50.
-> - **(D)** un moltiplo di 3.
-> - **(E)** un numero la cui somma digitali è 9.
+> - **(C)** un numero compreso tra 40 e 50.
+> - **(D)** un multiplo di 3.
+> - **(E)** un numero la cui somma delle cifre è 9.
 
 **Risposta:** A
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n1_f1#q05|src_obm_2003_n1_f1__Q05]]
 
 
 
@@ -238,15 +296,23 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa massima che sceglie 3 cerchi consecutivi da 09 disposti in senso antiorario*
+*Cifre da 0 a 9 in senso antiorario, poi si modificano pari e dispari: massima somma di tre consecutivi*
 
-> Scrivi i numeri da 0 a 9 nei cerchi laterali, in modo che crescano nella direzione anticlockwise. Quindi sottraendo 1 da ogni numero impar e aggiungendo 1 a ogni numero pari. Scegliendo tre cerchi consecutivi, la somma più grande che puoi ottenere è:
-> 
+> Si scrivano le cifre da 0 a 9 nei cerchi a lato, in modo che crescano in senso antiorario. Poi si sottragga 1 a ogni numero dispari e si aggiunga 1 a ogni numero pari. Scegliendo tre cerchi consecutivi, la massima somma che si può ottenere è:
+>
 > (A) 19 \quad (B) 21 \quad (C) 23 \quad (D) 24 \quad (E) 25
 
 ![[src_obm_2003_n1_f1__q06.png]]
 
 **Risposta:** C
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_obm_2003_n1_f1#q06|src_obm_2003_n1_f1__Q06]]
 
 
 
@@ -274,15 +340,23 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo diviso in 7 quadrati; superficie della superficie data più piccola di tutto*
+*Un rettangolo è diviso in 7 quadrati: se il più piccolo ha area 1, qual è l'area del rettangolo*
 
-> Il rettangolo nella figura è diviso in 7 quadrati. Se la superficie del più piccolo quadrato è 1, la superficie del rettangolo è:
-> 
+> Il rettangolo in figura è diviso in 7 quadrati. Se l'area del quadrato più piccolo è 1, l'area del rettangolo è:
+>
 > (A) 42 \quad (B) 44 \quad (C) 45 \quad (D) 48 \quad (E) 49
 
 ![[src_obm_2003_n1_f1__q07.png]]
 
 **Risposta:** C
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n1_f1#q07|src_obm_2003_n1_f1__Q07]]
 
 
 
@@ -308,13 +382,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il termine successivo della sequenza oscillante 1,2,3,4,5,4,3,2,1,2,3,4,5,...*
+*Si chiede un termine lontano di una sequenza che sale e scende tra 1 e 5*
 
-> Considera la sequenza oscillante: $1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, 5, \ldots$ Il termine $2003^\text{rd}$ di questa sequenza è:
-> 
+> Si consideri la sequenza oscillante: $1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, 5, \ldots$ Il termine di posto $2003^\text{rd}$ di questa sequenza è:
+>
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
 **Risposta:** C
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
+
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n1_f1#q08|src_obm_2003_n1_f1__Q08]]
 
 
 
@@ -339,13 +421,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Trova l'importo iniziale di Maria data l'offerta frazionaria di João
+*Uno scambio di frasi su quanto hanno: si chiede la somma*
 
-> João disse a Maria: "Se mi dai un quarto di quello che hai, avrò la metà di quello che hai". Maria rispose: "Ti darò 5 reais, e tu mi dai la metà di quello che hai".
-> 
-> (A) 80 reais (B) 90 reais (C) 100 reais (D) 120 reais (E) 130 reais
+> João disse a Maria: «Se mi dai un quarto di quello che hai, io avrò la metà di quello che hai.» Maria rispose: «Ti darò 5 reais, e tu dammi la metà di quello che hai.» Insieme hanno:
+>
+> (A) 80 reais \quad (B) 90 reais \quad (C) 100 reais \quad (D) 120 reais \quad (E) 130 reais
 
 **Risposta:** B
+
+**Argomento:** [[topic_algebra|Algebra]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_obm_2003_n1_f1#q09|src_obm_2003_n1_f1__Q09]]
 
 
 
@@ -374,9 +462,9 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tabelle e sedie necessarie per un refectorio scolastico con 3 settori*
+*Tre settori, otto file di quattordici tavoli, quattro sedie per tavolo: quanti tavoli e quante sedie*
 
-> Una scuola deve comprare tavoli e sedie per il suo nuovo refettorio. Il refectorio è distribuito in tre settori. In ciascun settore, le tabelle sono disposte in 8 righe e ciascuna riga ha 14 tabelle. Ogni tavolo ospita 4 sedie. Quante tavoli e sedie si dovrebbero comprare?
+> Una scuola deve comprare tavoli e sedie per il nuovo refettorio. Il refettorio è distribuito in 3 settori. In ogni settore i tavoli sono disposti in 8 file, e ogni fila ha 14 tavoli. Ogni tavolo ha 4 sedie. Quanti tavoli e quante sedie bisogna comprare?
 >
 > - **(A)** 112 tavoli e 448 sedie
 > - **(B)** 112 tavoli e 1344 sedie
@@ -385,6 +473,12 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > - **(E)** 336 tavoli e 1344 sedie
 
 **Risposta:** E
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n1_f1#q10|src_obm_2003_n1_f1__Q10]]
 
 
 
@@ -414,17 +508,25 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i colori distinti di 2×2 griglie fino alla rotazione*
+*Colorazioni di una tabella 2×2 che non coincidono per rotazione*
 
-> I quattro colori di sotto sono considerati uguali perché coincidono per rotazione.
-> 
-> In quante diverse modalità è possibile colorare le celle di un tavolo $2 \times 2$ in bianco o nero in modo tale che due tabelle non coincidano per rotazione?
-> 
+> Le 4 colorazioni qui sotto si considerano uguali perché coincidono per rotazione.
+>
+> In quanti modi distinti si possono colorare di nero o di bianco le caselle di una tabella $2 \times 2$ in modo che due tabelle non coincidano per rotazione?
+>
 > (A) 4 \quad (B) 5 \quad (C) 6 \quad (D) 7 \quad (E) 8
 
 ![[src_obm_2003_n1_f1__q11.png]]
 
 **Risposta:** C
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_obm_2003_n1_f1#q11|src_obm_2003_n1_f1__Q11]]
 
 
 
@@ -450,13 +552,21 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di persone a un banchetto dato i rapporti dei piatti*
+*Riso, carne e dolce condivisi, 77 piatti in tutto: quante persone*
 
-> In una tipica festa, ogni piatto di riso è condiviso da 2 persone, ogni piatto di carne è condiviso da 4 persone, e ogni piatto di dessert è condiviso da 5 persone. Sono stati usati esattamente 77 piatti e tutti i piatti offerti sono stati serviti a tutti. Quante persone erano al banchetto?
-> 
+> A un banchetto tipico ogni piatto di riso è condiviso da 2 persone, ogni piatto di carne da 4 e ogni piatto di dolce da 5. Sono stati usati esattamente 77 piatti e ogni portata è stata servita a tutti. Quante persone c'erano al banchetto?
+>
 > (A) 20 \quad (B) 30 \quad (C) 45 \quad (D) 60 \quad (E) 75
 
 **Risposta:** D
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n1_f1#q12|src_obm_2003_n1_f1__Q12]]
 
 
 
@@ -486,17 +596,25 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area del pentagono ABCDE su una griglia a punti di 1 cm*
+*Su una griglia a passo 1 cm si chiede l'area di un pentagono*
 
-> Nella disposizione rettangolare dei punti riportata di seguito, la distanza tra i punti vicini della stessa riga o colonna è di 1 cm.
-> 
+> Nella disposizione rettangolare di punti qui sotto, la distanza tra punti vicini della stessa riga o della stessa colonna è 1 cm.
+>
 > L'area del pentagono $ABCDE$, in $\text{cm}^2$, è:
-> 
+>
 > (A) 9 \quad (B) $\dfrac{19}{2}$ \quad (C) 10 \quad (D) $\dfrac{21}{2}$ \quad (E) 11
 
 ![[src_obm_2003_n1_f1__q13.png]]
 
 **Risposta:** B
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_coordinate|Coordinate]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n1_f1#q13|src_obm_2003_n1_f1__Q13]]
 
 
 
@@ -524,15 +642,23 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrati congruenti massimi rimossi dalla griglia 5×5 tramite riga, colonna e diagonale*
+*Da un quadrato 5×5 si tolgono caselle segnate: area coperta da quelle che restano, al più*
 
-> Un quadrato $5 \times 5$ è tagliato in cinque righe di 5 quadrati unità ciascuno. Tutti i quadrati dell'unità sono congruenti. Da ogni diagonale (di qualsiasi quadrato unitario) e da una riga e una colonna, vengono rimossi i quadrati unitari segnati. L'area coperta dai quadrati delle unità rimanenti è, al massimo:
-> 
+> Un quadrato $5 \times 5$ è tagliato in cinque righe di 5 quadratini unitari ciascuna. I quadratini sono tutti congruenti. Da ogni diagonale (di un qualunque quadratino) e da una riga e una colonna si tolgono i quadratini segnati. L'area coperta dai quadratini rimasti è al più:
+>
 > (A) $\dfrac{2}{5}$ \quad (B) $\dfrac{11}{25}$ \quad (C) $\dfrac{12}{25}$ \quad (D) $\dfrac{13}{25}$ \quad (E) $\dfrac{3}{5}$
 
 ![[src_obm_2003_n1_f1__q14.png]]
 
 **Risposta:** C
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_obm_2003_n1_f1#q14|src_obm_2003_n1_f1__Q14]]
 
 
 
@@ -559,15 +685,21 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area superficiale del trofeo costituita da 5 cubetti impilati (10, 20, 30, 40, 50 cm)*
+*Cinque cubi impilati e saldati: superficie esterna da rivestire, in metri quadrati*
 
-> Un trofeo è costruito da cinque scatole cubiche con lunghezze laterali di 10 cm, 20 cm, 30 cm, 40 cm e 50 cm, apicate una sopra l'altra. Il cubo più grande si trova in basso, e ogni cubo più piccolo si concentra sulla faccia superiore di quello sotto di esso. In questo modo, ogni cubo viene saldato a quello di lato 10 cm più grande direttamente sotto di esso. L'intera superficie esterna di questo trofeo deve essere coperta da un certo tipo di rivestimento. Quanti metri quadrati di rivestimento sono necessari?
-> 
-> (A) 1,5 \quad (B) 2,5 \quad (C) 2,7 \quad (D) 2,75 \quad (E) 3
+> Un trofeo è fatto di cinque scatole cubiche di lato 10 cm, 20 cm, 30 cm, 40 cm e 50 cm, impilate l'una sull'altra. Il cubo più grande sta in basso, e ogni cubo più piccolo è centrato sulla faccia superiore di quello sotto. Così ogni cubo è saldato a quello di lato maggiore di 10 cm che sta subito sotto. Tutta la superficie esterna del trofeo va coperta con un certo rivestimento. Quanti metri quadrati di rivestimento servono?
+>
+> (A) 1.5 \quad (B) 2.5 \quad (C) 2.7 \quad (D) 2.75 \quad (E) 3
 
 ![[src_obm_2003_n1_f1__q15.png]]
 
 **Risposta:** C
+
+**Argomento:** [[topic_geometria_solida|Geometria solida]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_obm_2003_n1_f1#q15|src_obm_2003_n1_f1__Q15]]
 
 
 
@@ -592,13 +724,19 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tempo per Nelly di raggiungere la fine di una passerella in movimento di 210 m*
+*Nelly sul tapis roulant: si chiede il tempo per arrivare in fondo*
 
-> Camminando su una passerella in movimento, Nelly copre 210 metri in 60 secondi. Nelly ha osservato che fa un metro per passo e che la passerella si muove di 210 metri in 60 secondi. Nelly ha notato che il passo massimo che fa è di un metro. Quanto ci vorrà per arrivare alla fine del corridoio?
-> 
+> Camminando su un tapis roulant, Nelly percorre 210 metri in 60 secondi. Nelly ha notato che fa un metro a passo e che il tapis roulant si sposta di 210 metri in 60 secondi. Ha notato anche che il passo più lungo che fa è di un metro. Per arrivare in fondo al tapis roulant, quanto tempo le serve?
+>
 > (A) 1 min 20 s \quad (B) 1 min 24 s \quad (C) 1 min 30 s \quad (D) 1 min 40 s \quad (E) 2 min
 
 **Risposta:** B
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+
+**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n1_f1#q16|src_obm_2003_n1_f1__Q16]]
 
 
 
@@ -626,15 +764,23 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero più grande ottenuto dal diagramma di un albero di calcolatore con le chiavi A e B*
+*Un display e due tasti: si chiede il massimo numero di due cifre raggiungibile*
 
-> Una determinata macchina ha un display che mostra un intero positivo $x$ e due tasti A e B. Quando viene premuto il tasto A, il numero del display viene sostituito da $2x + 1$. Quando viene premuto il tasto B, il numero sul display viene sostituito da $x - 1$. Se la visualizzazione mostra inizialmente 5 e premere il tasto A (il numero diventa $2 \times 5 + 1 = 11$), quindi premere il tasto B lo sostituisce con $x - 1$. Il diagramma degli alberi dei risultati che possono essere ottenuti è mostrato nella figura. Il maggior numero di due cifre che si può ottenere è:
-> 
+> Una macchina ha un display che mostra un intero positivo $x$ e due tasti A e B. Premendo A, il numero sul display è sostituito da $2x + 1$. Premendo B, è sostituito da $x - 1$. Se all'inizio il display mostra 5 e si preme A (il numero diventa $2 \times 5 + 1 = 11$), poi premendo B lo si sostituisce con $x - 1$. L'albero dei risultati possibili è in figura. Il più grande numero di due cifre che si può ottenere è:
+>
 > (A) 85 \quad (B) 87 \quad (C) 92 \quad (D) 95 \quad (E) 96
 
 ![[src_obm_2003_n1_f1__q17.png]]
 
 **Risposta:** D
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_obm_2003_n1_f1#q17|src_obm_2003_n1_f1__Q17]]
 
 
 
@@ -664,9 +810,9 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quale sequenza NON si descrive*
+*Tra cinque sequenze che dovrebbero descrivere le proprie cifre, quale non lo fa*
 
-> La sequenza "22" si descrive perché è formata da esattamente due 2s. Allo stesso modo, la sequenza "31 12 33 15" è formata da esattamente tre 1s, uno 2, tre 3s, uno 5. Quale delle seguenti sequenze NON si descrive?
+> La sequenza «22» si descrive da sola perché è formata da esattamente due 2. Allo stesso modo la sequenza «31 12 33 15» è formata da esattamente tre 1, un 2, tre 3 e un 5. Quale delle sequenze seguenti NON si descrive da sola?
 >
 > - **(A)** 21 32 33 16
 > - **(B)** 31 12 33 18
@@ -675,6 +821,14 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 > - **(E)** 41 32 33 24 15 16 18
 
 **Risposta:** D
+
+**Argomento:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_obm_2003_n1_f1#q18|src_obm_2003_n1_f1__Q18]]
 
 
 
@@ -714,17 +868,39 @@ Trova l'importo iniziale di Maria data l'offerta frazionaria di João
 <div class="qlang-split" data-lang="it"></div>
 
 
-Quante cellule ha segnato Camila nel gioco da tavolo con Lara
+*Su una scacchiera 4×4, dal numero di vicine segnate si ricostruisce quante caselle sono segnate*
 
-> Camila e Lara stanno giocando a un gioco su un tavolo. Camila segna alcune cellule della tavola e dice a Lara il numero di cellule segnate nel quartiere (condividendo un lato o un vertice, cioè un bordo o un angolo) di ciascuna cellula. In questo gioco, due cellule distinte sono considerate vicine se condividono un lato o un angolo. Lara deve scoprire quali cellule sono state segnate da Camila. Dopo aver contrassegnato alcune celle, Camila trasmette la seguente lavagna a Lara:
-> 
-> $$\begin{array}{|c|c|c|c|} \hline 1 & 2 & 1 & 1 \\ \hline 0 & 2 & 1 & 2 \\ \hline 2 & 3 & 3 & 1 \\ \hline 1 & 0 & 2 & 1 \\ \hline \end{array}$$
-> 
-> Il numero di cellule contrassegnate da Camila è:
-> 
+> Camila e Lara giocano su una scacchiera $4 \times 4$. Camila segna alcune caselle e comunica a Lara, per ogni casella, quante caselle segnate stanno nel suo intorno (un lato o un vertice in comune, cioè uno spigolo o un angolo). Due caselle distinte sono vicine se hanno in comune un lato o un angolo. Lara deve scoprire quali caselle ha segnato Camila. Dopo averne segnate alcune, Camila passa a Lara questa scacchiera:
+>
+>
+>
+$$\begin{array}{|c|c|c|c|}
+\hline
+1 & 2 & 1 & 1 \\
+\hline
+0 & 2 & 1 & 2 \\
+\hline
+2 & 3 & 3 & 1 \\
+\hline
+1 & 0 & 2 & 1 \\
+\hline
+\end{array}$$
+>
+>
+>
+> Il numero di caselle segnate da Camila è:
+>
 > (A) 3 \quad (B) 4 \quad (C) 5 \quad (D) 6 \quad (E) 7
 
 **Risposta:** B
+
+**Argomento:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_obm_2003_n1_f1#q19|src_obm_2003_n1_f1__Q19]]
 
 
 
@@ -754,14 +930,22 @@ Quante cellule ha segnato Camila nel gioco da tavolo con Lara
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Altezza stimata di uno stack di 100 milioni di fogli di carta*
+*Si confronta l'altezza di una pila enorme di fogli con altezze note*
 
-> Immaginate una pila di cento milioni di fogli di carta sulfita, spessori $0.1\ \text{mm}$ ciascuno. L'alternativa più vicina all'altezza della pila è:
+> Si immagini una pila di cento milioni di fogli di carta solfito, ciascuno spesso $0.1\ \text{mm}$. L'alternativa più vicina all'altezza della pila è:
 >
 > - **(A)** la tua altezza.
-> - **(B)** l'altezza dell'animale più alto del mondo, la balena blu, che è di circa 29 metri.
-> - **(C)** l'altezza dell'edificio più alto del mondo, la Torre di Petronas, che ha 88 piani.
-> - **(D)** l'altezza della cima più alta del mondo, il Monte Everest, che è di 8848 metri.
-> - **(E)** la distanza dalla Terra alla Luna, che è molto maggiore di tutte le alternative precedenti.
+> - **(B)** l'altezza dell'animale più alto del mondo, la balenottera azzurra, circa 29 metri.
+> - **(C)** l'altezza dell'edificio più alto del mondo, le Petronas Tower, di 88 piani.
+> - **(D)** l'altezza della cima più alta del mondo, il monte Everest, 8848 metri.
+> - **(E)** la distanza dalla Terra alla Luna, molto maggiore di tutte le alternative precedenti.
 
 **Risposta:** D
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_estremalita|Estremalità]]
+
+**Abilità:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n1_f1#q20|src_obm_2003_n1_f1__Q20]]

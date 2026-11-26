@@ -30,9 +30,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i numeri interi positivi m (pari) e n (odd) con 1/m+1/n=4/2001*
+*Trovare numeri interi positivi m (pari) e n (dispari) tali che 1/m+1/n=4/2001*
 
-> Trova tutti gli integri positivi $m$, $n$, dove $n$ è odd, che soddisfano $$\frac{1}{m} + \frac{1}{n} = \frac{4}{2001}.$$
+> Trovare tutti gli interi positivi $m$, $n$, dove $n$ è dispari, che soddisfano
+> $$\frac{1}{m} + \frac{1}{n} = \frac{4}{2001}.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2001-02_round1#q01|src_bmo_2001-02_round1__Q01]]
 
 
 
@@ -56,9 +64,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale ciclico, lunghezze uguali CD=CP=DQ; prova angolo CAD=40°*
+*Quadrilatero ciclico, lunghezze uguali CD=CP=DQ; dimostrare che l'angolo CAD è di 40°*
 
-> Il quadrilaterale $ABCD$ è inserito in un cerchio. Le diagonali $AC$, $BD$ si incontrano a $P$. I lati $DA$, estesi oltre $A$, e $CB$, estesi oltre $B$, si incontrano a $Q$. Dato che $CD = CP = DQ$, dimostrare che $\angle CAD = 40^\circ$.
+> Il quadrilatero $ABCD$ è inscritto in una circonferenza. Le diagonali $AC$, $BD$ si incontrano in $P$. I lati $DA$, prolungati oltre $A$, e $CB$, prolungati oltre $B$, si incontrano in $Q$. Dato che $CD = CP = DQ$, dimostrare che $\angle CAD = 40^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2001-02_round1#q02|src_bmo_2001-02_round1__Q02]]
 
 
 
@@ -83,9 +98,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi n che soddisfano una condizione di divisibilità di somma minima*
+*Trovare tutti gli interi positivi n che soddisfano una condizione di divisibilità relativa alla somma dei quozienti interi*
 
-> Trovare tutti gli integri positivi $n$ in modo tale che $$n = \left\lfloor \frac{n}{1} \right\rfloor + \left\lfloor \frac{n}{2} \right\rfloor + \left\lfloor \frac{n}{3} \right\rfloor$$ dove $\lfloor x \rfloor$ denota la parte integrale di $x$ (il numero intero più grande inferiore o uguale al numero reale $x$).
+> Trovare tutti gli interi positivi $n$ tali che
+> $$n = \left\lfloor \frac{n}{1} \right\rfloor + \left\lfloor \frac{n}{2} \right\rfloor + \left\lfloor \frac{n}{3} \right\rfloor$$
+> dove $\lfloor x \rfloor$ denota la parte intera di $x$ (il più grande intero minore o uguale al numero reale $x$).
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2001-02_round1#q03|src_bmo_2001-02_round1__Q03]]
 
 
 
@@ -109,9 +133,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggiate le modalità di stretta di mano simultanea per 12 persone al tavolo circolare*
+*Conta le disposizioni di strette di mano simultanee per 12 persone attorno a un tavolo circolare*
 
-> Dodici persone sono sedute attorno a un tavolo circolare. In quanti modi sei coppie di persone possono stringersi la mano contemporaneamente, in modo che non ci siano due coppie di persone che stringeranno la mano sedute vicine l'una all'altra al tavolo? (A nessuno è permesso stringersi la mano di più di una persona contemporaneamente.)
+> Dodici persone sono sedute attorno a un tavolo circolare. In quanti modi sei coppie di persone possono stringersi la mano contemporaneamente, in modo che nessuna delle due coppie che si stringono la mano sieda accanto all'altra al tavolo? (Nessuno può stringere la mano a più di una persona alla volta.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2001-02_round1#q04|src_bmo_2001-02_round1__Q04]]
 
 
 
@@ -137,6 +168,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i valori di f(2001) per aumentare la funzione che soddisfa l'equazione funzionale*
+*Trovare tutti i valori di f(2001) per una funzione crescente che soddisfa l'equazione funzionale*
 
-> $f$ è una funzione da $\mathbb{Z}^+$ a $\mathbb{Z}^+$, dove $\mathbb{Z}^+$ è l'insieme di integri non negativi, che soddisfa a) $f(n+1) > f(n)$ per ogni $n \in \mathbb{Z}^+$; b) $f(n + f(m)) = f(n) + m + 1$ per tutti $m, n \in \mathbb{Z}^+$. Trova tutti i valori possibili di $f(2001)$.
+> $f$ è una funzione da $\mathbb{Z}^+$ a $\mathbb{Z}^+$, dove $\mathbb{Z}^+$ è l'insieme degli interi non negativi, e soddisfa
+> a) $f(n+1) > f(n)$ per ogni $n \in \mathbb{Z}^+$;
+> b) $f(n + f(m)) = f(n) + m + 1$ per tutti gli $m, n \in \mathbb{Z}^+$.
+> Trova tutti i valori possibili di $f(2001)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2001-02_round1#q05|src_bmo_2001-02_round1__Q05]]

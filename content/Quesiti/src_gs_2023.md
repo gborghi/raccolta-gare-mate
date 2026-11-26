@@ -27,7 +27,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9000
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -38,10 +38,12 @@ level: squadre
 ![[src_gs_2023__prob1.png]]
 
 > Carlo Càssola
-> Teodomiro: On my way here, I was counting the seven-digit palindromic numbers.
-> Astragone: How many are there?
+> Teodomiro: As I was coming, I was counting the seven-digit palindromic numbers. Astragone: How many are there?
 
-**Answer:** 9000
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2023#q01|src_gs_2023__Q01]]
 
 
 
@@ -70,7 +72,7 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 8000
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -81,10 +83,12 @@ level: squadre
 ![[src_gs_2023__prob2.png]]
 
 > Lorenzo Mazza
-> Astragone: I have drawn a triangle with a side of 10 cm and the altitude to that side of 6 cm. I have also found its centroid.
-> Teodomiro: Label the vertices of the triangle X, Y and Z, and the centroid B. Draw the parallel through B to the longest side YZ. Let's say that V and W are its intersections with the sides. What is the ratio between the area of triangle XVW and that of trapezoid YZVW? [Give as the answer the ratio multiplied by 10^4.]
+> Astragone: I drew a triangle with one side 10 cm long and the corresponding height 6 cm. I also found its centroid. Teodomiro: Label the vertices of the triangle X, Y, and Z, and the centroid B. Draw the line through B parallel to the longest side YZ. Let V and W be the points of intersection with the sides. What is the ratio of the area of triangle XVW to the area of trapezoid YZVW? [Give as the answer the ratio multiplied by 10^4.]
 
-**Answer:** 8000
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2023#q02|src_gs_2023__Q02]]
 
 
 
@@ -104,7 +108,7 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0251
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -117,7 +121,10 @@ level: squadre
 > Sandro Campigotto
 > Teodomiro: What is the largest value of n for which 2023!/(10!)^n is an integer?
 
-**Answer:** 0251
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2023#q03|src_gs_2023__Q03]]
 
 
 
@@ -151,30 +158,20 @@ level: squadre
 > Astragone Quale?
 
 **Risposta:** 2223
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting together (Sandro Campigotto)*
+*Counting Together (Sandro Campigotto)*
 
 ![[src_gs_2023__prob4.png]]
 
 > Sandro Campigotto
-> Astragone: I don't know what to do.
-> Teodomiro: Let's wait.
-> Astragone: For whom?
-> Teodomiro: For Godol, who else?
-> Astragone: Shall we say numbers to pass the time?
-> Teodomiro: All right.
-> Astragone: I start with 1 and always add 2.
-> Teodomiro: I start from 10000 and always subtract 7.
-> Astragone: One, three, five, ...
-> Teodomiro (chanting number by number together with Astragone): Ten thousand, nine thousand nine hundred and ninety-three, nine thousand nine hundred and eighty-six, ... (raising his hand, shouting) Stop! At some point we will say the same number!
-> Astragone: Which one?
+> Astragone: I don't know what to do. Teodomiro: Let's wait. Astragone: Who? Teodomiro: Godol—who else? Astragone: To pass the time, shall we call out numbers? Teodomiro: Okay. Astragone: I'll start with 1 and always add 2. Teodomiro: I'll start at 10000 and always subtract 7. Astragone: One, three, five, Teodomiro: (Counting out the numbers along with Astragone) Ten thousand, nine thousand nine hundred ninety-three, nine thousand nine hundred eighty-six, (Raises his hand, shouting) Stop! At some point we'll say the same number! Astragone: Which one?
 
-**Answer:** 2223
+[[Quesiti/src_gs_2023#q04|src_gs_2023__Q04]]
 
 
 
@@ -198,7 +195,7 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4750
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -209,9 +206,14 @@ level: squadre
 ![[src_gs_2023__prob5.png]]
 
 > Sandro Campigotto
-> Astragone: Look, Dodo: I've found a bag with sixteen balls numbered from 15 to 30. If I take out two of them, what is the probability that their product is a multiple of 6? [Give as the answer the probability multiplied by 10^4.]
+> Astragone Guarda, Dodo: I found a bag with sixteen numbered balls from 15 to
+> 30. If two are drawn from it, what is the probability?
+> that their product is a multiple of 6? [Give as the answer the probability multiplied by 10^4.]
 
-**Answer:** 4750
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2023#q05|src_gs_2023__Q05]]
 
 
 
@@ -240,22 +242,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 2100
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Octagon with parallel sides (Carlo Càssola)*
+*Octagon with Parallel Sides (Carlo Càssola)*
 
 ![[src_gs_2023__prob6.png]]
 
 > Carlo Càssola
-> Teodomiro: Draw an octagon ABCDEFGH whose opposite sides are pairwise parallel and equal.
-> Astragone (setting to work carefully): I have measured the sides I drew: AB = EF = 30 cm, BC = FG = 10√10 cm, CD = GH = 10 cm, DE = HA = 10√2 cm.
-> Teodomiro: I don't believe it! ABEF is a rectangle. And also: extending the sides AB, CD, EF and GH you get a square! What is the area of the octagon in cm^2?
+> Teodomiro draws an octagon ABCDEFGH whose opposite sides are, in pairs, parallel and equal. Astragone (He sets to work carefully): I have measured the sides I drew: AB = EF = 30 cm, BC = FG = 10√10 cm, CD = GH = 10 cm, DE = HA = 10√2 cm. Teodomiro: I don't believe it! ABEF is a rectangle. And also: if you extend sides AB, CD, EF, and GH, you get a square! What is the area of the octagon in cm²?
 
-**Answer:** 2100
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2023#q06|src_gs_2023__Q06]]
 
 
 
@@ -277,22 +280,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0072
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triples with abc = 2023 (Sandro Campigotto)*
+*Triple with abc = 2023 (Sandro Campigotto)*
 
 ![[src_gs_2023__prob7.png]]
 
 > Sandro Campigotto
-> Astragone: I was thinking.
-> Teodomiro: About what?
-> Astragone: How many ordered triples (a, b, c) of integers are there such that abc = 2023?
+> Astragone: I was thinking. Teodomiro: About what? Astragone: How many triples (a, b, c) of integers are there such that abc = 2023?
 
-**Answer:** 0072
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2023#q07|src_gs_2023__Q07]]
 
 
 
@@ -326,22 +330,23 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0246
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ten boxes of marbles (Lorenzo Mazza)*
+*Ten Boxes of Marbles (Lorenzo Mazza)*
 
 ![[src_gs_2023__prob8.png]]
 
 > Lorenzo Mazza
-> Astragone: I remember ten boxes containing red, black, yellow and green marbles. I knew that the number of red marbles in each box was equal to the number of black marbles in the remaining nine boxes; the number of black marbles in each box was equal to the number of yellow marbles in the remaining nine boxes; the number of yellow marbles in each box was equal to the number of green marbles in the remaining boxes.
-> Teodomiro: But was it an outrageous number of marbles?
-> Astragone: Yes, I remember there were really a lot of them! And the total number of all the marbles in the boxes was a multiple of 6. What was the minimum number of marbles in a box?
+> Astragone: I remember ten boxes containing marbles in red, black, yellow, and green. I knew that the number of red marbles in each box was equal to the number of black marbles in the remaining nine boxes; the number of black marbles in each box was equal to the number of yellow marbles in the remaining nine boxes; the number of yellow marbles in each box was equal to the number of green marbles in the remaining boxes. Teodomiro: But weren't there an excessive number of marbles? Astragone: Yes, I remember there were really a lot of them! And the total number of all the marbles in the boxes was a multiple of 6. What was the minimum number of marbles in a box?
 
-**Answer:** 0246
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2023#q08|src_gs_2023__Q08]]
 
 
 
@@ -364,7 +369,7 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0150
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -375,9 +380,12 @@ level: squadre
 ![[src_gs_2023__prob9.png]]
 
 > Carlo Càssola
-> Teodomiro: In the interior of the base AB of an equilateral triangle ABC mark the point D such that AD = 3DB. On the ray starting at C and passing through D fix the point E so that CE = AB. What is the measure in degrees of angle AÊB?
+> Teodomiro: Inside the base AB of an equilateral triangle ABC, construct point D such that AD = 3DB. On the ray starting at C and passing through D, fix point E so that CE = AB. What is the measure in degrees of angle AÊB?
 
-**Answer:** 0150
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2023#q09|src_gs_2023__Q09]]
 
 
 
@@ -403,7 +411,7 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0495
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -414,11 +422,14 @@ level: squadre
 ![[src_gs_2023__prob10.png]]
 
 > Sandro Campigotto
-> Astragone: I have written five natural numbers.
-> Teodomiro: Are there two equal ones?
-> Astragone: No. The average of the two smallest is 100. The average of the two largest is 200. The average of the five numbers is an integer. What are the smallest and the largest possible values of the largest of the five numbers? [Give as the answer the sum of the two values.]
+> Astragone: I've written five natural numbers. Teodomiro: Are two of them the same? Astragone: No. The average of the two smallest is
+> 100. The average of the two largest is 200. The
+> The mean of the five numbers is an integer. What are the smallest and largest possible values of the largest of the five numbers? [Give as the answer the sum of the two values.]
 
-**Answer:** 0495
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2023#q10|src_gs_2023__Q10]]
 
 
 
@@ -447,24 +458,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0015
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three concentric circles (Sandro Campigotto)*
+*Three Concentric Circles (Sandro Campigotto)*
 
 ![[src_gs_2023__prob11.png]]
 
 > Sandro Campigotto
-> Astragone: I have drawn three concentric circles with areas 400π cm^2, 600π cm^2 and 800π cm^2.
-> Teodomiro: What is pi?
-> Astragone: It's 3.1415926535897... (Teodomiro waves his hands and interrupts Astragone).
-> Teodomiro: All right; I get it!
-> Astragone (resuming what he was saying): As I was saying: and 800π cm^2. From a point of the circle with the largest radius I have drawn all the tangents to the other two circles. What is the smallest of all the angles formed by pairs of tangents?
+> Astragone: I have drawn three concentric circles with areas of 400π cm², 600π cm², and 800π cm². Teodomiro: What is P-greek? Astragone: It is 3.1415926535897. (Teodomiro waves his hands and interrupts Astragone.) Teodomiro: Okay; I've got it! Astragone: (Picking up where he left off) I was saying: and 800π cm². From a point on the larger circle, I drew all the tangents to the other two circles. What is the value of the smallest of all the angles formed by pairs of tangents?
 
-**Answer:** 0015
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2023#q11|src_gs_2023__Q11]]
 
 
 
@@ -498,23 +508,23 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1538
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The two-headed coin (Sandro Campigotto)*
+*The Coin with Two Heads (Sandro Campigotto)*
 
 ![[src_gs_2023__prob12.png]]
 
 > Sandro Campigotto
-> Teodomiro: Look, Gogo! I've found a bag with 23 coins. They are all the same size and weight; all have heads and tails, except one that has heads on both sides.
-> Astragone: I'm scared, Dodo. The cheat who lost the bag will surely be looking for it.
-> Teodomiro: The bag was on the ground, nobody claims it: it's mine. (Teodomiro takes a coin at random. He tosses it twice.) How strange! Both tosses came up heads, and I didn't look at what was on the other side of the coin.
-> Astragone: What is the probability that the coin taken is the two-headed coin? [Give as the answer the probability multiplied by 10^4.]
+> Teodomiro: Guarda, Gogo! I found a bag containing 23 coins. They're all the same size and weight; all of them have heads and tails, except for one that has heads on both sides. Astragone: I'm scared, Dodo. Surely the cheater who lost the bag will be looking for it. Teodomiro: The bag was on the ground; no one's claiming it—it's mine. (Teodomiro picks a coin at random. He tosses it twice.) How strange! Both times it came up heads, and I didn't look at what was on the other side of the coin. Astragone: What's the probability that the coin picked is the two-headed coin? [Give the probability multiplied by 10^4 as the answer.]
 
-**Answer:** 1538
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2023#q12|src_gs_2023__Q12]]
 
 
 
@@ -544,20 +554,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7770
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The island of digits (Simone Muselli)*
+*The Island of Digits (Simone Muselli)*
 
 ![[src_gs_2023__prob13.png]]
 
 > Simone Muselli
-> Teodomiro: I imagine an island inhabited by digits: there are zeros, ones, twos, threes, up to lots of nines, with legs, arms, mouths. They are all truthful, except the zeros, who always lie. Four digits, sitting next to one another, are forming an integer greater than 999. They start to speak, all saying the same sentence: «If I went away, the remaining digits would form a three-digit number divisible by 7 and by 11.» What number are the four digits forming?
+> Teodomiro: I imagine an island inhabited by digits—there are zeros, ones, twos, threes, all the way up to many nines, with legs, arms, and mouths. They are all honest, except for the zeros, which always lie. Four digits, sitting next to one another, are forming an integer greater than 999. They begin to speak, all saying the same sentence: "If I were to leave, the remaining digits would form a three-digit number divisible by 7 and by 11." What number are the four digits forming?
 
-**Answer:** 7770
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2023#q13|src_gs_2023__Q13]]
 
 
 
@@ -582,22 +595,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0120
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of three primes (Giuseppe Rosolini)*
+*Product of Three Firsts (Giuseppe Rosolini)*
 
 ![[src_gs_2023__prob14.png]]
 
 > Giuseppe Rosolini
-> Teodomiro: The four-digit number n is the product of three different prime numbers. Subtracting n from the sum of the divisors of n gives 2074.
-> Astragone: That isn't enough to know what n is.
-> Teodomiro: I'm not interested in n. I'm interested in the sum of the three prime numbers: what is its minimum value?
+> Teodomiro: The four-digit number n is the product of three distinct prime numbers. If you subtract n from the sum of the divisors of n, you get 2074. Astragone: That's not enough to know what n is worth. Teodomiro: I'm not interested in n. I'm interested in the sum of the three prime numbers: what is its minimum value?
 
-**Answer:** 0120
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2023#q14|src_gs_2023__Q14]]
 
 
 
@@ -626,7 +640,7 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0192
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -637,14 +651,12 @@ level: squadre
 ![[src_gs_2023__prob15.png]]
 
 > Lorenzo Mazza
-> Astragone: What's happening?
-> Teodomiro: I'm thinking.
-> Astragone: No, Dodo, look out there. Someone is coming.
-> Teodomiro: I was trying to remember the divisors of 11^6 − 1.
-> Astragone (Lozzo and Pucky enter; the rope is short; Lozzo gropes his way forward): It's those two from yesterday.
-> Teodomiro: I wonder how many the divisors I was looking for are?
+> Astragone: What's going on? Teodomiro: I'm thinking. Astragone: No, Dodo, look out there. Someone's coming. Teodomiro: I was trying to remember the divisors of 11^6 −1. Astragone: (Lozzo and Pucky come in; the rope is short, and Lozzo is moving about by feel.) There are those two from yesterday. Teodomiro: I wonder how many of the divisors I was looking for there are?
 
-**Answer:** 0192
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2023#q15|src_gs_2023__Q15]]
 
 
 
@@ -670,20 +682,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 3130
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diagonals and a line (Lorenzo Mazza)*
+*Diagonals of a Line (Lorenzo Mazza)*
 
 ![[src_gs_2023__prob16.png]]
 
 > Lorenzo Mazza
-> Lozzo: I also imagine a convex polygon with 2023 sides in which all the diagonals are drawn. And I imagine a line that intersects the polygon and the diagonals, (getting worked up) without passing through any vertex of the polygon itself. (Calming down) What is the maximum possible number of intersections between the diagonals and the line that can be imagined?
+> Lozzo, I also imagine a convex polygon with 2023 sides, in which all the diagonals are drawn. And I imagine a straight line that intersects the polygon and the diagonals (gets heated up) without passing through any vertex of the polygon itself. (Calming down) What is the maximum possible number of intersections between the diagonals and the line that can be imagined?
 
-**Answer:** 3130
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2023#q16|src_gs_2023__Q16]]
 
 
 
@@ -713,21 +728,20 @@ level: squadre
 > Lozzo Quanti sono gli Onesti dell’isola?
 
 **Risposta:** 2022
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Honests and Cheats (Simone Muselli)*
+*Onesti and Bari (Simone Muselli)*
 
 ![[src_gs_2023__prob17.png]]
 
 > Simone Muselli
-> Teodomiro: I'll tell you a story. (Turning to Lozzo, who is staring ahead) On the faraway island of Barus live 2023 inhabitants of two kinds: the Honests, who always tell the truth, and the Cheats, who always lie and try not to be found out. Because of a big festival, all the inhabitants of the island have gathered in the main square. At a certain point, one says to another: “You are a Cheat!”. The other replies: “Oh yes? If I am a Cheat, then you are a Cheat!”. The inhabitants start accusing one another until everyone has said to everyone else the sentence “If I am a Cheat, then you are a Cheat!”.
-> Lozzo: How many Honests are there on the island?
+> Teodomiro: I'll tell you a story (Addressed to Lozzo, who is looking ahead) On the distant island of Barus, there are 2023 inhabitants of two types: the Honest Ones, who always tell the truth, and the Bari, who always tell lies and try not to be found out. Because of a big festival, all the island's inhabitants gathered in the central square. At a certain point, one person says to another, "You're a Baro!" The other replies, "Oh, really? If I'm a Baro, then you're a Baro!" The inhabitants start accusing one another until everyone has said to everyone else the sentence, "If I'm a Baro, then you're a Baro!" Lozzo: How many Honest Ones are there on the island?
 
-**Answer:** 2022
+[[Quesiti/src_gs_2023#q17|src_gs_2023__Q17]]
 
 
 
@@ -751,20 +765,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0102
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perfect squares and quotients (Lorenzo Mazza)*
+*Perfect Squares and Quotients (Lorenzo Mazza)*
 
 ![[src_gs_2023__prob18.png]]
 
 > Lorenzo Mazza
-> Lozzo (talking to himself): How many perfect squares are there such that their quotient in the division by 100 is the product of two consecutive positive integers less than 100? (He pulls the rope) Let's go, Pucky! (He leaves with Pucky; sounds of falling are heard)
+> Lozzo (Speaking to himself) How many of those perfect squares are there such that, when their quotient upon division by 100 is calculated, the result is the product of two consecutive positive integers less than 100? (Pulls the rope) Come on, Pucky! (Exits with Pucky; sounds of a fall are heard)
 
-**Answer:** 0102
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2023#q18|src_gs_2023__Q18]]
 
 
 
@@ -807,25 +824,23 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1869
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The disc on the ice (Simone Muselli)*
+*The Disc on Ice (Simone Muselli)*
 
 ![[src_gs_2023__prob19.png]]
 
 > Simone Muselli
-> Astragone (waving towards Lozzo and Pucky): I have invented a game we can play tomorrow if Godol doesn't come.
-> Teodomiro: He'll come for sure!
-> Astragone: I wish I had your certainties! That's how I would have liked to face life. For the game, I have drawn a square with side 5 dm on the ice of the lake. From a distance of 1 m from it, a disc of radius 10 cm is thrown, sliding. If the disc, once it has stopped, lies at least partly over the square, the throw is considered valid; if it lies entirely inside the square, you win.
-> Teodomiro: But that's very easy!
-> Astragone: I wish I had your certainties. Unfortunately sometimes the throw is long, other times short, other times too wide to the left, then too wide to the right. I try hard, but in practice it is as if each time I threw the disc at random towards any point of the lake.
-> Teodomiro: Under these random conditions, what is the probability of winning following a valid throw? [Give as the answer the probability multiplied by 10^4.]
+> Astragone (Saluting in the direction of Lozzo and Pucky) I've invented a game we can play tomorrow if Godol doesn't come. Teodomiro He'll definitely come! Astragone I wish I had your certainties! That's how I would have liked to face life. For the game, I drew a square with sides 5 decimeters long on the ice of the lake. At a distance of 1 meter from it, you slide and throw a disc with a radius of 10 cm. If, once it comes to a stop, the disc is at least partly over the square, then the throw is considered valid; if it is entirely inside the square, you win. Teodomiro But that's so easy! Astragone I wish I had your certainties. Unfortunately, sometimes the throw is long, sometimes short, sometimes too far to the left, and then too far to the right. I try my best, but practically it's as if each time I were throwing the disc at random toward some point on the lake. Teodomiro Under these random conditions, what is the probability of winning after a valid throw? [Give as the answer the probability multiplied by 10^4.]
 
-**Answer:** 1869
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2023#q19|src_gs_2023__Q19]]
 
 
 
@@ -854,21 +869,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0232
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A floor of 45 tiles (Simone Muselli)*
+*Floor of 45 tiles (Simone Muselli)*
 
 ![[src_gs_2023__prob20.png]]
 
 > Simone Muselli
-> Astragone: I still remember when I was presentable and they had called me to cover a rectangular floor with 45 four-sided, right-angled tiles. Just think: the tiles had side lengths in dm that were all integers, from 1 to 9. Believe it or not: the tiles were all different.
-> Teodomiro: How many decimetres was the perimeter of the floor? [Give as the answer the maximum possible value of the perimeter.]
+> Astragone: I still remember when I was presentable and had been called in to cover a rectangular floor with 45 tiles that had four sides and right angles. Just imagine—the side lengths of the tiles, measured in decimetres, were all whole numbers from 1 to 9. You might not believe it: the tiles were all different. Teodomiro: How many decimetres was the perimeter of the floor? [Give as the answer the maximum possible value of the perimeter.]
 
-**Answer:** 0232
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2023#q20|src_gs_2023__Q20]]
 
 
 
@@ -927,27 +944,20 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3250
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The lighthouse on the lake (Damiano Poletti)*
+*The Lighthouse on the Lake (Damiano Poletti)*
 
 ![[src_gs_2023__prob21.png]]
 
 > Damiano Poletti
-> The boy enters, bows and begins to speak.
-> The boy: Mr Godol has asked me to tell you that he will not come today.
-> Teodomiro: Have I seen you before?
-> The boy: I don't think so, sir.
-> Teodomiro: Were you here yesterday?
-> The boy: No, sir.
-> Teodomiro: And yet I really seem to have seen you. Do you remember him, Gogo?
-> Astragone: I think so; perhaps it's his brother.
-> Teodomiro: Did your brother come yesterday?
-> The boy: I don't know, sir. Mr Godol told me to explain to you how the lighthouse on the island in the lake works. The lake has the shape of a regular pentagon and a lighthouse is placed at its circumcentre. The light of the lighthouse would shine in all directions at once, but around the light source two coaxial cylindrical shields are placed. Each shield blocks the light, except for a suitable vertical slit that lets the light through. Each shield rotates clockwise around the source: in the time the outer shield makes one full turn, the inner one makes four. In this way, looking at the lighthouse, moments when the light is visible alternate with others when the light is obscured. More precisely, from the North vertex of the lake, opening one's eyes at a random moment, one would have probability 3/8 of seeing the light; from the next vertex clockwise this probability would be 11/40; from the next one again 3/8; from the last two vertices, instead, the probability would be the same.
-> Teodomiro: That's why Godol doesn't come to meet us. So what is the probability that from one of the last two vertices, opening one's eyes at a random moment, one manages to see the light? (The boy leaves) [Give as the answer the probability multiplied by 10^4.]
+> The Boy enters, bows, and begins to speak. The Boy: Mr. Godol has tasked me with informing you that he will not be coming today. Teodomiro: Have I seen you before? The Boy: I don't think so, sir. Teodomiro: Were you here yesterday? The Boy: No, sir. Teodomiro: And yet I'm quite sure I've seen you. Do you remember him, Gogo? Astragone: I think so; maybe he's the brother. Teodomiro: Did your brother come yesterday? The Boy: I don't know, sir. Mr. Godol told me to explain to you how the lighthouse on the island in the lake works. The lake is shaped like a regular pentagon, and a lighthouse is situated at its circumcenter. The lighthouse's light would illuminate in all directions at once, but around the light source there are two coaxial cylindrical shields. Each shield blocks the light, except for a suitable vertical slit that allows the light to pass through. Each shield rotates clockwise around the source: in the time it takes the outer shield to complete one full revolution, the inner shield completes four. Thus, when one looks at the lighthouse, there are alternating moments when the light is visible and moments when it is instead obscured. More precisely, from the northern vertex of the lake, if one opens one's eyes at a random moment, there would be a probability of 3/8 of managing to see the light; from the next vertex in the clockwise direction, this probability would be 11/40; from the next one again, 3/8; but from the last two vertices, the probability would be the same. Teodomiro: That's why Godol isn't coming to meet us. So what is the probability that, from one of the last two vertices, if one opens one's eyes at a random moment, one will manage to see the light? (The Boy leaves) [Give the probability multiplied by 10^4 as the answer.]
 
-**Answer:** 3250
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2023#q21|src_gs_2023__Q21]]

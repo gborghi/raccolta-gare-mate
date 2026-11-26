@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo a lato intero, bisettore angolare incontra BC, AB=CD, trova AB e BC*
+*Triangolo con lati interi, la bisettrice di un angolo incontra BC, AB=CD, trovare AB e BC*
 
-> Il triangolo $ABC$ ha lati a lunghezza interi e $AC = 2007$. Il bisettore interno di $\angle BAC$ incontra $BC$ a $D$. Dato che $AB = CD$, determinare $AB$ e $BC$.
+> Il triangolo $ABC$ ha i lati di lunghezza intera, e $AC = 2007$. La bisettrice interna di $\angle BAC$ incontra $BC$ in $D$. Dato che $AB = CD$, determina $AB$ e $BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2006-07_round2#q01|src_bmo_2006-07_round2__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra infinitamente molte coppie di numeri interi positivi che rendono la somma delle frazioni un numero intero positivo*
+*Mostra infiniti coppie di numeri interi positivi tali che la somma delle frazioni sia un numero intero positivo*
 
-> Mostrare che ci sono infinite coppie di integri positivi $(m, n)$ in modo tale che $$\frac{m+1}{n} + \frac{n+1}{m}$$ è un intero positivo.
+> Dimostrare che esistono infiniti coppie di interi positivi $(m, n)$ tali che
+> $$\frac{m+1}{n} + \frac{n+1}{m}$$
+> è un intero positivo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2006-07_round2#q02|src_bmo_2006-07_round2__Q02]]
 
 
 
@@ -83,11 +99,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto, angolo BAC=60 gradi, linea di Euler incontra i lati, prova PO=HQ*
+*Triangolo acuto, angolo BAC=60 gradi, la retta di Eulero incontra i lati, dimostrare che PO=HQ*
 
-> Il $ABC$ deve essere un triangolo acuto con $AB > AC$ e $\angle BAC = 60^\circ$. Denotare il circoncentro con $O$ e l'ortocentro con $H$ e far incontrare $OH$ con $AB$ a $P$ e $AC$ a $Q$. Prova che $PO = HQ$.
-> 
-> Nota: il circoncentro del triangolo $ABC$ è il centro del cerchio che attraversa i vertici $A$, $B$ e $C$. L'ortocentro è il punto di intersezione delle perpendicolari da ogni vertice al lato opposto.
+> Sia $ABC$ un triangolo acutangolo con $AB > AC$ e $\angle BAC = 60^\circ$. Si indichi con $O$ il circocentro e con $H$ l'ortocentro, e si supponga che $OH$ incontri $AB$ in $P$ e $AC$ in $Q$. Dimostrare che $PO = HQ$.
+>
+> Nota: Il circocentro del triangolo $ABC$ è il centro della circonferenza che passa per i vertici $A$, $B$ e $C$. L'ortocentro è il punto di intersezione delle perpendicolari condotte da ciascun vertice al lato opposto.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2006-07_round2#q03|src_bmo_2006-07_round2__Q03]]
 
 
 
@@ -110,6 +133,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rete ferroviaria di sei città, conteggiare le vie di chiusura delle linee mantenendo piena connettività*
+*Rete ferroviaria a sei città: conta i modi per chiudere delle linee mantenendo la piena connettività*
 
-> Nel paese dell'Esagonia, le sei città sono collegate da una rete ferroviaria tale che esiste una linea ferroviaria diretta che collega ciascuna coppia di città. Domenica, alcune linee possono essere chiuse per la riparazione. La carta ferroviaria dei passeggeri stabilisce che ogni città deve essere accessibile in treno da qualsiasi altra città (non necessariamente direttamente) in ogni momento. In quanti modi diversi possono essere chiuse alcune linee a condizione di questa condizione?
+> Nel paese di Esagonia, le sei città sono collegate da una rete ferroviaria tale che esiste una linea ferroviaria diretta che collega ciascuna coppia di città. La domenica, alcune linee possono essere chiuse per lavori di manutenzione. Lo statuto ferroviario dei passeggeri stabilisce che, in ogni momento, qualsiasi città deve essere raggiungibile per ferrovia da qualsiasi altra città (non necessariamente in modo diretto). In quanti modi diversi si possono chiudere alcune delle linee, nel rispetto di questa condizione?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2006-07_round2#q04|src_bmo_2006-07_round2__Q04]]

@@ -30,9 +30,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cevians attraverso il punto interno, prova che la somma del rapporto è uguale a uno*
+*P interno al triangolo, ceviane fino ai lati opposti: AP/PD = AF/FB + AE/EC*
 
-> Che $P$ sia un punto interno di un triangolo $ABC$ e $AP$, $BP$, $CP$ incontrino rispettivamente i lati $BC$, $CA$, $AB$ in $D$, $E$ e $F$. Indicare che $$\frac{AP}{PD} = \frac{AF}{FB} + \frac{AE}{EC}.$$
+> Sia $P$ un punto interno di un triangolo $ABC$, e le rette $AP$, $BP$, $CP$ incontrino i lati $BC$, $CA$, $AB$ rispettivamente in $D$, $E$, $F$. Dimostrare che
+>
+> $$\frac{AP}{PD} = \frac{AF}{FB} + \frac{AE}{EC}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1991#q01|src_rmo_1991__Q01]]
 
 
 
@@ -56,9 +64,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza per quattro valori reali positivi condizione di somma*
+*Per quattro reali positivi, a/b + b/c + c/d + d/a ≥ 4*
 
-> Se $a$, $b$, $c$ e $d$ sono 4 numeri reali positivi, dimostrare che $$\frac{a}{b} + \frac{b}{c} + \frac{c}{d} + \frac{d}{a} \ge 4.$$
+> Se $a$, $b$, $c$ e $d$ sono quattro numeri reali positivi qualsiasi, dimostrare che
+>
+> $$\frac{a}{b} + \frac{b}{c} + \frac{c}{d} + \frac{d}{a} \ge 4.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_rmo_1991#q02|src_rmo_1991__Q02]]
 
 
 
@@ -86,11 +102,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i quadrati perfetti a quattro cifre con coppie di cifre uguali*
+*Numeri di quattro cifre che sono quadrati perfetti, con le prime due cifre uguali e le ultime due uguali*
 
-> Un numero a quattro cifre ha le seguenti proprietà: (a) è un quadrato perfetto, (b) le sue prime due cifre sono uguali l'una all'altra, (c) le sue ultime due cifre sono uguali l'una all'altra.
-> 
-> Trova tutti quei numeri a quattro cifre.
+> Un numero di quattro cifre ha le proprietà seguenti: (a) è un quadrato perfetto; (b) le prime due cifre sono uguali fra loro; (c) le ultime due cifre sono uguali fra loro. Trovare tutti questi numeri di quattro cifre.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_rmo_1991#q03|src_rmo_1991__Q03]]
 
 
 
@@ -117,11 +137,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due urne, operazioni per svuotare entrambe contemporaneamente*
+*Due urne non vuote: togliere lo stesso numero da entrambe, o raddoppiare una. Si possono svuotare entrambe*
 
-> Ci sono due urne che contengono ciascuna un numero arbitrario di palle. Entrambi non sono vuoti per cominciare. Ci sono permessi due tipi di operazioni: (a) rimuovere simultaneamente un numero uguale di palle dalle urne, e (b) raddoppiare il numero di palle in una qualsiasi di esse.
-> 
-> Mostrate che dopo aver eseguito queste operazioni infinite volte, entrambe le urne possono essere svuotate.
+> Ci sono due urne, ciascuna con un numero arbitrario di palline. All'inizio entrambe non sono vuote. Sono consentite due operazioni: (a) togliere contemporaneamente lo stesso numero di palline dalle due urne, e (b) raddoppiare il numero di palline in una delle due. Dimostrare che, eseguendo queste operazioni un numero finito di volte, si possono svuotare entrambe le urne.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_rmo_1991#q04|src_rmo_1991__Q04]]
 
 
 
@@ -144,9 +168,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Line attraverso il punto sul lato del triangolo, catena di parallele*
+*Catena di parallele ai lati di un triangolo: l'ultima retta è parallela a un lato*
 
-> Prendi qualsiasi punto $P_1$ sul lato $BC$ di un triangolo $ABC$ e disegni la seguente catena di linee: $P_1P_2$ parallelo a $AC$ ($P_2$ su $AB$); $P_2P_3$ parallelo a $BC$ ($P_3$ su $AC$); $P_3P_4$ parallelo a $AB$ ($P_4$ su $BC$); $P_4P_5$ parallelo a $CA$ ($P_5$ su $AB$); $P_5P_6$ parallelo a $BC$ ($P_6$ su $AC$). Qui $P_2$, $P_3$ si trovano su $AB$; $P_3$, $P_5$ si trovano su $CA$; $P_1$, $P_4$ si trovano su $BC$. Indicare che $P_6P_1$ è parallelo a $AB$.
+> Si prenda un punto qualsiasi $P_1$ sul lato $BC$ di un triangolo $ABC$ e si tracci la catena di rette seguente: $P_1P_2$ parallela a $AC$ ($P_2$ su $AB$); $P_2P_3$ parallela a $BC$ ($P_3$ su $AC$); $P_3P_4$ parallela a $AB$ ($P_4$ su $BC$); $P_4P_5$ parallela a $CA$ ($P_5$ su $AB$); $P_5P_6$ parallela a $BC$ ($P_6$ su $AC$). Qui $P_2$ e $P_3$ stanno su $AB$; $P_3$ e $P_5$ stanno su $CA$; $P_1$ e $P_4$ stanno su $BC$. Dimostrare che $P_6P_1$ è parallela a $AB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1991#q05|src_rmo_1991__Q05]]
 
 
 
@@ -171,9 +201,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare un intero tale che i fattori quadratici come prodotto*
+*Valori interi di a per cui (x+a)(x+1991)+1 si fattorizza in (x+b)(x+c) con b, c interi*
 
-> Trova tutti i valori interi di $a$ in modo tale che l'espressione quadrata $$(x + a)(x + 1991) + 1$$ possa essere fatturata come prodotto $(x + b)(x + c)$ dove $b$ e $c$ sono interi.
+> Trovare tutti i valori interi di $a$ tali che l'espressione di secondo grado
+>
+> $$(x + a)(x + 1991) + 1$$
+>
+> si possa fattorizzare come prodotto $(x + b)(x + c)$, dove $b$ e $c$ sono interi.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_rmo_1991#q06|src_rmo_1991__Q06]]
 
 
 
@@ -196,9 +236,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove n^4 + 4^n composto per tutti gli integri n > 1*
+*n^4 + 4^n è composto per ogni intero n maggiore di 1*
 
-> Prova che $n^4 + 4^n$ è composto per tutti i valori interi di $n$ superiori a 1.
+> Dimostrare che $n^4 + 4^n$ è composto per ogni valore intero di $n$ maggiore di 1.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_rmo_1991#q07|src_rmo_1991__Q07]]
 
 
 
@@ -221,6 +267,12 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*8x8 numeri interi della scacchiera in media per vicini, tutti uguali*
+*Scacchiera 8×8 riempita di interi positivi, ciascuno media dei vicini: tutti gli interi sono uguali*
 
-> I 64 quadrati di una scacchiera $8 \times 8$ sono riempiti di numeri interi positivi in modo tale che ogni numero intero sia la media dei numeri interi sui quadrati vicini. (Due quadrati sono vicini se condividono un bordo comune o una vertex comune. Un quadrato può avere $8$, $5$ o $3$ vicini a seconda della sua posizione.) Mostrare che tutti i 64 numeri interi sono in realtà uguali.
+> Le 64 caselle di una scacchiera $8 \times 8$ sono riempite di interi positivi in modo che ciascun intero sia la media degli interi delle caselle vicine. Due caselle sono vicine se hanno in comune uno spigolo o un vertice. Una casella può avere $8$, $5$ o $3$ vicine, secondo la posizione. Dimostrare che tutti i 64 interi scritti sono in realtà uguali.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_rmo_1991#q08|src_rmo_1991__Q08]]

@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colorazione di coppie in un insieme, sottoinsiemi di tipo 1 e tipo 2 uguali*
+*Colorazione delle coppie in un insieme, sottoinsiemi di tipo 1 e di tipo 2 uguali*
 
-> Sia $S$ l'insieme di tutti gli $(h,k)$ con $h,k$ interi non negativi tali che $h+k < n$. Ogni elemento di $S$ è colorato di rosso o blu, in modo che se $(h,k)$ è rosso e $h' \le h$, $k' \le k$, allora anche $(h',k')$ è rosso. Un sottoinsieme di tipo 1 di $S$ ha $n$ elementi blu con primi membri diversi, mentre un sottoinsieme di tipo 2 di $S$ ha $n$ elementi blu con secondi membri diversi. Si dimostri che il numero di sottoinsiemi di tipo 1 è uguale al numero di sottoinsiemi di tipo 2.
+> $S$ è l'insieme di tutti gli $(h,k)$ con $h,k$ interi non negativi tali che $h+k < n$. Ogni elemento di $S$ è colorato di rosso o di blu, in modo che se $(h,k)$ è rosso e $h' \le h$, $k' \le k$, allora anche $(h',k')$ è rosso. Un sottoinsieme di tipo 1 di $S$ ha $n$ elementi blu con primi membri diversi, e un sottoinsieme di tipo 2 di $S$ ha $n$ elementi blu con secondi membri diversi. Dimostrare che il numero di sottoinsiemi di tipo 1 è uguale al numero di sottoinsiemi di tipo 2.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2002#q01|src_imho_2002__Q01]]
 
 
 
@@ -56,7 +63,14 @@ level: IMO
 
 *Geometria: l'incentro giace su una corda della circonferenza circoscritta*
 
-> $BC$ è un diametro di una circonferenza di centro $O$. Sia $A$ un punto qualsiasi sulla circonferenza diverso da $\angle AOC > 60^\circ$. Sia $EF$ la corda che è l'asse perpendicolare del segmento $AO$. Sia $D$ il punto medio dell'arco minore $AB$. La retta passante per $OD$ incontra $AC$ nel punto $J$. Si dimostri che $J$ è l'incentro del triangolo $CEF$.
+> $BC$ è un diametro di una circonferenza di centro $O$. $A$ è un punto qualsiasi sulla circonferenza con $\angle AOC > 60^\circ$. $EF$ è la corda che è la mediatrice perpendicolare di $AO$. $D$ è il punto medio dell'arco minore $AB$. La retta passante per $OD$ incontra $AC$ in $J$. Dimostrare che $J$ è l'incentro del triangolo $CEF$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2002#q02|src_imho_2002__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le coppie di interi m>2, n>2 tali che k^n-1 divide k^m-1*
+*Trovare tutte le coppie di interi m>2, n>2 tali che k^n-1 divida k^m-1*
 
-> Determinare tutte le coppie di interi $m > 2$, $n > 2$ tali che esistano infiniti numeri interi positivi $k$ per cui $k^n - 1$ divide $k^m - 1$.
+> Trovare tutte le coppie di interi $m > 2$, $n > 2$ tali che esistano infiniti interi positivi $k$ per i quali $k^n - 1$ divide $k^m - 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2002#q03|src_imho_2002__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Divisori positivi di n>1 in successione con condizione di divisibilità*
+*Divisori positivi di n>1 in sequenza con condizione di divisibilità*
 
-> I divisori positivi di un intero $n > 1$ sono $d_1 < d_2 < \cdots < d_k$, in modo che $d_1 = 1$, $d_k = n$. Sia $d = d_1 d_2 + d_2 d_3 + \cdots + d_{k-1} d_k$. Si dimostri che $d < n^2$ e si determinino tutti gli $n$ per cui $d$ divide $n^2$.
+> I divisori positivi di un intero $n > 1$ sono $d_1 < d_2 < \cdots < d_k$, cosicché $d_1 = 1$, $d_k = n$. Sia $d = d_1 d_2 + d_2 d_3 + \cdots + d_{k-1} d_k$. Dimostrare che $d < n^2$ e trovare tutti gli $n$ per cui $d$ divide $n^2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2002#q04|src_imho_2002__Q04]]
 
 
 
@@ -131,7 +159,14 @@ level: IMO
 
 *Funzioni reali che soddisfano (f(x)+f(y))(f(u)+f(v))=f(xu-yv)+f(xv+yu)*
 
-> Determinare tutte le funzioni reali definite sui numeri reali tali che $(f(x) + f(y))(f(u) + f(v)) = f(xu - yv) + f(xv + yu)$ per ogni $x, y, u, v$.
+> Trovare tutte le funzioni a valori reali definite sui numeri reali tali che $(f(x) + f(y))(f(u) + f(v)) = f(xu - yv) + f(xv + yu)$ per ogni $x, y, u, v$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2002#q05|src_imho_2002__Q05]]
 
 
 
@@ -154,6 +189,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n>2 circonferenze di raggio 1, nessuna retta incontra più di due*
+*n>2 cerchi di raggio 1, nessuna retta incontra più di due cerchi*
 
-> $n > 2$ circonferenze di raggio 1 sono disegnate nel piano in modo che nessuna retta intersechi più di due di esse. I loro centri sono $O_1, O_2, \ldots, O_n$. Si dimostri che $\sum_{i < j} 1/O_i O_j \le (n-1)\pi/4$.
+> $n > 2$ Nel piano vengono tracciati dei cerchi di raggio 1 in modo che nessuna retta incontri più di due di questi cerchi. I loro centri sono $O_1, O_2, \ldots, O_n$. Dimostrare che $\sum_{i < j} 1/O_i O_j \le (n-1)\pi/4$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2002#q06|src_imho_2002__Q06]]

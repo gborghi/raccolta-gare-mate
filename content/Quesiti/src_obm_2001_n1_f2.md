@@ -32,13 +32,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Total numero di punti su tutti i 28 domino*
+*Numero totale di puntini su tutti i 28 domino*
 
-> Un set di domino è formato da 28 pezzi rettangolari distinti, ciascuno con due parti, ciascuna parte contenente da 0 a 6 punti. Per esempio, ecco tre di questi pezzi (mostrando 0 di 1, 1 di 3 e 4 di 6). Qual è il numero totale di punti su tutti i pezzi?
+> Un set di domino è composto da 28 tessere rettangolari distinte, ciascuna con due metà, e ciascuna metà contiene da 0 a 6 puntini. Ad esempio, ecco tre di queste tessere (che mostrano 0|1, 1|3 e 4|6). Qual è il numero totale di puntini su tutte le tessere?
 
 ![[src_obm_2001_n1_f2__q01.png]]
 
-**Risposta:** 168
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n1_f2#q01|src_obm_2001_n1_f2__Q01]]
 
 
 
@@ -63,13 +68,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area del parallelo nella dissezione quadrata di Tangram*
+*Area del parallelogramma nella dissezione a quadrati del tangram*
 
-> I pezzi di un gioco chiamato Tangram sono costruiti tagliando un quadrato in sette parti, come mostrato nella figura: due grandi triangoli rettangolari, un triangolo rettangolo medio, due piccoli triangoli rettangolari, un quadrato e un parallelo. Se l'area del grande quadrato è 1, quale è l'area del parallelo?
+> I pezzi di un gioco chiamato Tangram si ottengono tagliando un quadrato in sette parti, come mostrato nella figura: due grandi triangoli rettangoli, un triangolo rettangolo di dimensioni medie, due piccoli triangoli rettangoli, un quadrato e un parallelogramma. Se l'area del quadrato grande è 1, qual è l'area del parallelogramma?
 
 ![[src_obm_2001_n1_f2__q02.png]]
 
-**Risposta:** 1/8
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n1_f2#q02|src_obm_2001_n1_f2__Q02]]
 
 
 
@@ -93,11 +102,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di pieghe per ottenere più di 100 fori quando si svolgono*
+*Numero minimo di pieghe per ottenere più di 100 fori quando si svolge*
 
-> Carlitos fa un buco in un foglio di carta rettangolare. Si piega il foglio a metà e fa un buco; poi si piega di nuovo il foglio già piegato a metà e fa un buco. Può ripetere questa procedura tutte le volte che vuole, evitando sempre di colpire dove ci sono già buchi. Quando si apre il foglio, viene contato il numero totale di buchi. Quante pieghe deve fare almeno per ottenere più di 100 buchi nel foglio?
+> Carlitos pratica un foro in un foglio di carta rettangolare. Piega il foglio a metà e pratica un foro; poi piega di nuovo a metà il foglio già piegato e pratica un foro. Può ripetere questa procedura quante volte vuole, evitando sempre di bucare nei punti in cui ci sono già dei fori. Quando apre il foglio, si conta il numero totale di fori. Quanti piegamenti deve fare al minimo per ottenere più di 100 fori nel foglio?
 
-**Risposta:** 6
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n1_f2#q03|src_obm_2001_n1_f2__Q03]]
 
 
 
@@ -123,13 +137,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Etiche dei punti della griglia immediatamente al di sotto e a sinistra del punto 2001*
+*Etichette dei punti della griglia immediatamente sotto e a sinistra del punto 2001*
 
-> I punti della griglia di seguito sono numerati a partire dal vertice di basso sinistro, seguendo il percorso poligonale suggerito nella figura. Il percorso visita: $1, 2$ in basso, poi $3, 4, 5, 6, 7$ verso l'alto sul lato sinistro e oltre, poi $8, 9, 10$ ecc., in spirale verso l'interno. Considerare il punto corrispondente al numero $2001$. Quali sono i numeri dei punti situati immediatamente sotto e immediatamente a sinistra di esso?
+> I punti della griglia sottostante sono numerati a partire dal vertice in basso a sinistra, seguendo il percorso poligonale suggerito nella figura. Il percorso tocca: $1, 2$ in basso, poi $3, 4, 5, 6, 7$ risalendo il lato sinistro e attraversando, poi $8, 9, 10$ ecc., a spirale verso l'interno. Si consideri il punto corrispondente al numero $2001$. Quali sono i numeri dei punti situati immediatamente sotto e immediatamente a sinistra di esso?
 
 ![[src_obm_2001_n1_f2__q04.png]]
 
-**Risposta:** 1850 (sotto) e 1874 (a sinistra)
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n1_f2#q04|src_obm_2001_n1_f2__Q04]]
 
 
 
@@ -153,11 +172,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tutti gli integri positivi inferiori a 1000 con esattamente tre divisori*
+*Tutti gli interi positivi minori di 1000 che hanno esattamente tre divisori*
 
-> Elenca tutti gli enti positivi inferiori a 1000 che hanno esattamente tre divisori positivi. Ad esempio, il numero 4 ha esattamente tre divisori positivi: 1, 2 e 4.
+> Elenca tutti gli interi positivi minori di 1000 che hanno esattamente tre divisori positivi. Ad esempio, il numero 4 ha esattamente tre divisori positivi: 1, 2 e 4.
 
-**Risposta:** 4, 9, 25, 49, 121, 169, 289, 361, 529, 841, 961
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n1_f2#q05|src_obm_2001_n1_f2__Q05]]
 
 
 
@@ -181,8 +205,13 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unità di N = 1^2 + 2^2 + ... + 196883^2*
+*Cifra delle unità di N = 1^2 + 2^2 + ... + 196883^2*
 
-> $N$ sia il numero intero positivo dato da $N = 1^2 + 2^2 + 3^2 + 4^2 + \ldots + (196883)^2$. Qual è la cifra di unità di $N$?
+> Sia $N$ il numero intero positivo dato da $N = 1^2 + 2^2 + 3^2 + 4^2 + \ldots + (196883)^2$. Qual è la cifra delle unità di $N$?
 
-**Risposta:** 4
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n1_f2#q06|src_obm_2001_n1_f2__Q06]]

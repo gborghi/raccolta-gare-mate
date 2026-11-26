@@ -32,13 +32,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum time for three friends to meet
+*Minimum time for three friends to meet*
 
-> Anna, Chiara, and Milena are three friends who live together and they have to go find three other friends who live 75 km from them. How can we make it take as little time as possible? Keep in mind that Anna is the only one who can drive a two-seater motorcycle that travels at 30 km/h; for the rest, Chiara runs and keeps an average of 10 km/h while Milena does not run but, walking at a good pace, "travels" at 6 km/h.
-> 
-> What is the minimum time, expressed in minutes, for which Anna, Chiara, and Milena arrive at their friends simultaneously?
+> Anna, Chiara, and Milena are three friends who live together and need to go and visit three other friends who live 75 km away from them. How can they get there in as little time as possible? Keep in mind that Anna is the only one who can ride a two-seater moped that travels at 30 km/h; apart from that, Chiara runs and maintains an average speed of 10 km/h, while Milena does not run but, walking at a brisk pace, "travels" at 6 km/h.
+>
+> What is the minimum time, expressed in minutes, required for Anna, Chiara, and Milena to arrive at their friends' place simultaneously?
 
-**Answer:** 270 minutes
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2013#q01|src_bocconi_squadre_2013__Q01]]
 
 
 
@@ -63,13 +68,17 @@ Minimum time for three friends to meet
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Average aircraft speed in the remaining two thirds*
+*Average speed of the aircraft over the remaining two-thirds*
 
-> For a third of its flight time, an aircraft holds an average of 800 km/h. The total recorded in the entire flight is 700 km/h.
-> 
-> What was the average for our plane in the remaining two-thirds of the flight time?
+> For one third of its flight time, an airplane maintains an average speed of 800 km/h. The overall average speed recorded for the entire flight is 700 km/h.
+>
+> What was the average speed of our airplane during the remaining two thirds of the flight time?
 
-**Answer:** 650 km/h
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2013#q02|src_bocconi_squadre_2013__Q02]]
 
 
 
@@ -95,13 +104,18 @@ Minimum time for three friends to meet
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of diameters of large circle and small circle*
+*Sum of the diameters of the large circle and the small circle*
 
-> Modern artists are inspired by geometric shapes. In this table you can see a rectangular triangle whose area is $60 \text{ cm}^2$ and the size of its sides is expressed by an integer of cm. What is the sum of the two diameters (the larger circle and the smaller circle)?
+> Modern artists draw inspiration from geometric shapes. In this painting, a right-angled triangle can be seen; its area is $60 \text{ cm}^2$, and the lengths of its sides are expressed as whole numbers of centimeters. What is the sum of the two diameters (that of the large circle and that of the small circle)?
 
 ![[src_bocconi_squadre_2013__q03.png]]
 
-**Answer:** 23 cm
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2013#q03|src_bocconi_squadre_2013__Q03]]
 
 
 
@@ -127,11 +141,18 @@ Minimum time for three friends to meet
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three non-zero digits with equal fractions*
+*Three non-zero digits with equality between fractions*
 
-> Find three non-zero and distinct digits A, B, C so the following fractional equality is: $$\frac{\overline{ABBBBBBB}}{\overline{BBBBBBBC}} = \frac{A}{C}$$ There are more solutions: find them all!
+> Find three non-zero, distinct digits A, B, C such that the following equality between fractions holds:
+> $$\frac{\overline{ABBBBBBB}}{\overline{BBBBBBBC}} = \frac{A}{C}$$
+> There are multiple solutions: find them all!
 
-**Answer:** 1-6-4; 1-9-5; 2-6-5; 4-9-8
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2013#q04|src_bocconi_squadre_2013__Q04]]
 
 
 
@@ -156,13 +177,17 @@ Minimum time for three friends to meet
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability of a gold coin coming from the red sack
+*Probability that a gold coin comes from the red bag*
 
-> In front of him, Nando has two bags, one blue and the other red. In the first, there are 20 gold and 30 silver coins; in the second, 20 gold and 20 silver. Blessed, Nando extracts a gold coin from one of the two sacks.
-> 
-> What is the probability that this gold coin came from the red sack?
+> In front of him, Nando has two bags: one blue and one red. In the first bag, there are 20 gold coins and 30 silver coins; in the second, 20 gold coins and 20 silver coins. With his eyes blindfolded, Nando draws a gold coin from one of the two bags.
+>
+> What is the probability that this gold coin came from the red bag?
 
-**Answer:** $\frac{5}{9}$
+**Topic:** [[topic_probabilita|Probability]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2013#q05|src_bocconi_squadre_2013__Q05]]
 
 
 
@@ -187,13 +212,17 @@ The probability of a gold coin coming from the red sack
 <div class="qlang-split" data-lang="en"></div>
 
 
-How much would they have to pay per bar per person
+*How much should they have paid each at the bar?*
 
-> In the middle of the morning, Jacopo and Luca went down to the bar for a coffee break. Jacopo was hungry and took 1 coffee, 3 brioches and 7 chocolates (as a discount for the whole day) for 5.80 Euros. Luca was no less and paid 7.60 euros for 1 coffee, 4 brioches and 10 chocolates. Carla, on the other hand, kept herself light and drank only 1 coffee, 1 brioche, and 1 chocolate. Jacopo and Luca also wanted to pay for Carla's breakfast, dividing in half what she was supposed to pay.
-> 
-> What expense did they encounter (in addition to what they should have paid for themselves)?
+> Mid-morning, Jacopo and Luca went down to the café for their "coffee break". Jacopo was hungry and had 1 coffee, 3 brioche pastries, and 7 chocolates (as a discount for the whole day), paying 5.80 euros. Luca was no less generous and paid 7.60 euros for 1 coffee, 4 brioche pastries, and 10 chocolates. Carla, on the other hand, kept it light and had only 1 coffee, 1 brioche pastry, and 1 chocolate. Jacopo and Luca also wanted to pay for Carla's breakfast, splitting in half what she would have had to pay.
+>
+> What outlay did they incur (in addition to what they would have had to pay for themselves)?
 
-**Answer:** 1,10 euro; 1,10 euro
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2013#q06|src_bocconi_squadre_2013__Q06]]
 
 
 
@@ -217,11 +246,16 @@ How much would they have to pay per bar per person
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of three digits equal to the sum of the first and the square of the second digits*
+*A three-digit number equal to the sum of the first digit and the square of the second digit*
 
-> Find the natural minimum number of three digits that is equal to the sum of its first digit (left) squared by the second and cube by the third.
+> Find the smallest three-digit natural number that is equal to the sum of its first digit (from the left), the square of its second digit, and the cube of its third digit.
 
-**Answer:** 598
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2013#q07|src_bocconi_squadre_2013__Q07]]
 
 
 
@@ -246,13 +280,17 @@ How much would they have to pay per bar per person
 <div class="qlang-split" data-lang="en"></div>
 
 
-The distance travelled by Angelo in the last hour
+*Distance traveled by Angelo in the last hour*
 
-> At the end of a 455-kilometer highway trip, Angelo realized that he had kept an average speed of 91 km/h. It's a pity because initially, thanks to very fluid traffic, it had kept the average of 105 km/h. Then, in the last hour, because of traffic, it had to slow down considerably.
-> 
-> How far has Angelo traveled in the last hour?
+> At the end of a 455-km motorway journey, Angelo realized that he had maintained an average speed of 91 km/h. A pity, because initially, thanks to very smooth traffic flow, he had maintained an average speed of 105 km/h. Then, during the final hour, due to traffic, he had to slow down considerably.
+>
+> What distance did Angelo cover during this final hour?
 
-**Answer:** 35 km
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2013#q08|src_bocconi_squadre_2013__Q08]]
 
 
 
@@ -280,15 +318,20 @@ The distance travelled by Angelo in the last hour
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum length of the perimeter of the third part of the garden*
+*Minimum perimeter length of one third of the garden*
 
-> The equilateral triangle of the figure (its side measures 6 m) represents a garden, divided into three parts. The one at the bottom left is a sector of a circle centered in B; the one at the bottom right is a sector of a circle centered in C.
-> 
-> What is the minimum length of the perimeter of the third part of the garden?
+> The equilateral triangle in the figure (its side measures 6 m) represents a garden divided into three parts. The part at the bottom left is a sector of a circle centered at B; the part at the bottom right is a sector of a circle centered at C.
+>
+> What is the minimum perimeter of the third part of the garden?
 
 ![[src_bocconi_squadre_2013__q09.png]]
 
-**Answer:** $6 + 2\pi$ m
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2013#q09|src_bocconi_squadre_2013__Q09]]
 
 
 
@@ -315,15 +358,19 @@ The distance travelled by Angelo in the last hour
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report dark area and large circle area*
+*Ratio of the dark-zone area to the large-circle area*
 
-> In the figure you see three circles, tangent two to two, whose radii are proportional to 1, 2 and 3.
-> 
-> What's the relationship between the area of the dark zone and that of the great circle?
+> In the figure, you can see three circles, each pair of which is tangent, with radii proportional to 1, 2, and 3.
+>
+> What is the ratio of the area of the dark region to the area of the large circle?
 
 ![[src_bocconi_squadre_2013__q10.png]]
 
-**Answer:** $\frac{1}{3}$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2013#q10|src_bocconi_squadre_2013__Q10]]
 
 
 
@@ -348,13 +395,17 @@ The distance travelled by Angelo in the last hour
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ours used to descend along a French channel*
+*Ore spent descending along a French canal*
 
-> A cliff descends along a 120-kilometer-long French canal. Then he picks it up, taking one more day, because he has to do 6 km less (compared to the trip).
-> 
-> How many hours did it take the chick to get down the canal?
+> A barge travels downstream along a 120-km-long French canal. Then it travels upstream along the same canal, taking an extra day because it has to cover 6 km less than on the way there.
+>
+> How many hours did the barge take to travel downstream along the canal?
 
-**Answer:** 96 hours
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2013#q11|src_bocconi_squadre_2013__Q11]]
 
 
 
@@ -379,13 +430,17 @@ The distance travelled by Angelo in the last hour
 <div class="qlang-split" data-lang="en"></div>
 
 
-How much is Mauro's in the pizza division?
+*How much of the pizza should Mauro get in the division?*
 
-> Amerigo, Mauro and Renato went on a mountain trip. At the time of the snack. Amerigo realizes that he has forgotten his "wheat bags". Fortunately, cautiously, Mauro brought three pizzas; even more cautiously, Renato brought five. The three friends decide to divide into equal parts and then Amerigo, in return for their generosity, gives them 20 euros.
-> 
-> If the division of these 20 euros between Mauro and Renato is fair, how much will Mauro get?
+> Amerigo, Mauro, and Renato have set off on a mountain excursion. At snack time (so to speak…). Amerigo realizes that he has forgotten his "provisions". Fortunately, Mauro, being foresighted, has brought 3 pizzas; even more foresighted, Renato has brought 5. The three friends decide to split them equally, and so Amerigo, to return the favor for their generosity, gives them 20 euros.
+>
+> So that the division of these 20 euros between Mauro and Renato is fair, how much will Mauro get?
 
-**Answer:** 2,50 euro
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2013#q12|src_bocconi_squadre_2013__Q12]]
 
 
 
@@ -408,11 +463,15 @@ How much is Mauro's in the pizza division?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tri-digit number with sum of the first n natural numbers*
+*A three-digit number equal to the sum of the first n natural numbers*
 
-> Find a three-digit number, all equal to each other, which is the sum of the first natural numbers (for a certain $n$).
+> Find a three-digit number, all of whose digits are the same, that is the sum of the first $n$ natural numbers (for some $n$).
 
-**Answer:** 666
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2013#q13|src_bocconi_squadre_2013__Q13]]
 
 
 
@@ -436,11 +495,16 @@ How much is Mauro's in the pizza division?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most natural odd n such that n+4 is prime*
+*Larger natural odd n such that n+4 is prime*
 
 > Find the largest odd natural number $n$ for which $n^4 + 4$ is a prime number.
 
-**Answer:** $n = 1$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2013#q14|src_bocconi_squadre_2013__Q14]]
 
 
 
@@ -465,13 +529,17 @@ How much is Mauro's in the pizza division?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of students in the classroom*
+*Number of students present in the classroom*
 
-> In the classroom, 80 percent of the students are girls. Of these, 40 percent are in their first year of college. Of these, only 20% have never participated in the "International Mathematical Games Championships".
-> 
-> How many students are in the classroom, at least?
+> In the classroom, 80% of the students present are female. Of these, 40% are in their first year of university. Of the latter group, only 20% have never participated in the "International Mathematical Games Championships".
+>
+> What is the minimum number of students present in the classroom?
 
-**Answer:** 125 students
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2013#q15|src_bocconi_squadre_2013__Q15]]
 
 
 
@@ -499,15 +567,20 @@ How much is Mauro's in the pizza division?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of moves to run 1000 cm*
+*Minimum number of moves to cover 1000 cm*
 
-> Look at the equilateral triangle $ABC$ in the figure whose side measures 4 cm. Now the dance begins: with a first move, you rotate the triangle, making a spike on point B, until point C is for the first time on the initial AB direction. The dance goes on with a second move: we rotate the triangle, and now we're pointing to C, until point A is first found in the initial direction AB.
-> 
-> How many moves, at a minimum, must be made so that the length of the route from A to the plane exceeds 1000 cm?
+> Look at the equilateral triangle $ABC$ in the figure; its side measures 4 cm. Now the dance begins: in the first move, the triangle is rotated about point B until point C first lies on the initial direction AB. The dance continues with a second move: we now rotate the triangle about point C until point A first lies on the initial direction AB.
+>
+> What is the minimum number of moves required for the length of the path traveled by A in the plane to exceed 1000 cm?
 
 ![[src_bocconi_squadre_2013__q16.png]]
 
-**Answer:** 358 moves
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_induzione|Induction]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2013#q16|src_bocconi_squadre_2013__Q16]]
 
 
 
@@ -533,13 +606,18 @@ How much is Mauro's in the pizza division?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance to travel from A to D*
+*Minimum distance to be traveled from A to D*
 
-> Four oil wells are located in four points of the desert: A, B, C, D, aligned in this order (left to right) and each 2 km apart. When wells in B and C are set on fire, a safety zone is created around them for which it is forbidden to be less than 1 km from B and C.
-> 
-> So what is the minimum distance to go from A to D?
+> Four oil wells are located at four points in the desert: A, B, C, and D, arranged in this order (from left to right) and spaced 2 km apart from each other. When the wells at B and C catch fire, a safety zone is created around them, within which it is forbidden to be less than 1 km from B and C.
+>
+> What, then, is the minimum distance that must be traveled to get from A to D?
 
-**Answer:** $2 + 2\sqrt{3} + \frac{\pi}{3}$ km
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2013#q17|src_bocconi_squadre_2013__Q17]]
 
 
 
@@ -563,11 +641,16 @@ How much is Mauro's in the pizza division?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Natural number n such that 2n+3 divides 6n+43*
+*A natural number n such that 2n+3 divides 6n+43*
 
 > Find a natural number $n$ for which $2n+3$ is a divisor of $6n+43$.
 
-**Answer:** $n = 7$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2013#q18|src_bocconi_squadre_2013__Q18]]
 
 
 
@@ -591,11 +674,16 @@ Natural number n such that 2n+3 divides 6n+43*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers with the property of sum in two tranches*
+*Three-digit numbers with a sum property in two tranches*
 
-> Find a three-digit natural number that has this property: it goes to the square, you divide this square into two consecutive three-digit tranches (the first three in the first tranche, the second three in the second tranche), you add the two tranches and you get 1000. (The question has more than one solution: you have to give it all!)
+> Find a three-digit natural number with the following property: square the number, split this square into two blocks of three consecutive digits each (the first three digits in the first block, the next three in the second block), add the two blocks together, and the result should be 1000. (The problem has more than one solution: all of them must be given!)
 
-**Answer:** 406; 593; 998
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2013#q19|src_bocconi_squadre_2013__Q19]]
 
 
 
@@ -622,12 +710,16 @@ Natural number n such that 2n+3 divides 6n+43*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the tank diameter d*
+*Value of the diameter d of the cistern*
 
-> For his new home, Desiderio purchased a cistern made up of a cylinder and two semipers, as you can see in the picture. The length L and the diameter d are expressed by an integer of dm. Desiderio is a good and diligent mathematician: he calculated the total surface area of the cistern by getting $6{,}48\pi$ m$^2$ and also its volume, which is $1{,}8\pi$ m$^3$.
-> 
-> What's the value of d?
+> For his new house, Desiderio has purchased a cistern made up of a cylinder and two hemispheres, as shown in the figure. The length L and the diameter d are expressed as whole numbers of decimetres. Desiderio is a good and diligent mathematician: he calculated the total surface area of the cistern and obtained $6{,}48\pi$ m$^2$, and also its volume, which is $1{,}8\pi$ m$^3$.
+>
+> What is the value of d?
 
 ![[src_bocconi_squadre_2013__q20.png]]
 
-**Answer:** 12 dm
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2013#q20|src_bocconi_squadre_2013__Q20]]

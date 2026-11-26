@@ -32,13 +32,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*B rounds so that the three tiles are back in line*
+*Turn B so that the three notches are back in alignment*
 
 ![[src_kangourou_2018_cadet_finale__probc1.png]]
 
-> A gear consists of three toothed wheels $A$, $B$ and $C$. $A$ has 16 teeth, $B$ has 20 and $C$ has 30. As the figure suggests, $B$ is in contact with both $A$ and $C$ (i.e. the teeth of $B$ mesh with both those of $A$ and those of $C$), but $A$ is not in contact with $C$. Every wheel has a mark. At this moment the gear is set in motion: how many turns does the $B$ wheel have to make before all three marks return to their current position simultaneously for the first time? (see figure)
+> A gear assembly consists of three gears $A$, $B$, and $C$. $A$ has 16 teeth, $B$ has 20 teeth, and $C$ has 30 teeth. As the figure suggests, $B$ is in contact with both $A$ and $C$ (that is, the teeth of $B$ mesh with both those of $A$ and those of $C$), but $A$ is not in contact with $C$. Each gear has a notch. At this moment, the gear assembly starts moving: how many revolutions must gear $B$ make before all three notches return simultaneously to their current position for the first time? (see figure)
 
-**Answer:** 12
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_cadet_finale#qc1|src_kangourou_2018_cadet_finale__QC1]]
 
 
 
@@ -61,11 +66,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum crates that Eugenio keeps with 7 vans*
+*The largest cassette that Eugenio keeps with 7 vans*
 
-> Eugenio works as a warehouse keeper. He knows that tomorrow some growers will each bring him the same number of crates of apples and that he will have to distribute the crates among 7 vans, so that all the vans travel with the same number of crates. The number of growers equals the number of crates that each grower will bring him. Eugenio knows that if, after he has distributed as many crates as possible among the 7 vans, some crates remain, he can keep them for himself. How many crates could he at most happen to keep for himself?
+> Eugenio works as a warehouseman. He knows that tomorrow some farmers will each bring him the same number of crates of apples, and that he will have to distribute the crates across 7 vans so that all the vans travel with the same number of crates. The number of farmers is the same as the number of crates each farmer will bring him. Eugenio knows that if, after he has distributed as many crates as possible across the 7 vans, some crates are left over, he can keep one for himself. At most, how many crates might he end up keeping for himself?
 
-**Answer:** 4
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_cadet_finale#qc2|src_kangourou_2018_cadet_finale__QC2]]
 
 
 
@@ -89,11 +98,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Auto in the six smallest groups by sum of digits*
+*Cars in six groups of fewer members, by digit sum*
 
-> There's exactly a million cars in Kanglandia. Their plates, all different from each other, have six digits: the numbers are therefore between $000000$ and $999999$. For each car the digits of the plate are added and the cars are divided into groups so that all the cars in the same group provide the same sum and different groups are related to different sums. How many cars do the six smallest groups have in total?
+> In Kanglandia, exactly one million cars are in circulation. Their license plates, all different from one another, have six digits: the numbers therefore lie between $000000$ and $999999$. For each car, the digits on its license plate are added together, and the cars are divided into groups so that all the cars in the same group yield the same sum and different groups correspond to different sums. How many cars are there in total in the six smallest groups?
 
-**Answer:** 56
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_finale#qc3|src_kangourou_2018_cadet_finale__QC3]]
 
 
 
@@ -117,11 +131,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equal distribution of the €8 with the points problem*
+*Fair division of the 8 euros with the points problem*
 
-> Antonia and Luca bet the sum of 8 euros on heads or tails, tossing a fair coin. They decide that the sum will be pocketed by the first of them who has 6 tosses in their favor. When they are on the score of 5 for Antonia and 3 for Luca, however, they are forced to stop the game and discuss how to split the 8 euros (which no one has won so far). What is the fair way to divide them (i.e. the way that takes into account the probability of victory that each of the two has at the time of the interruption)?
+> Antonia and Luca are flipping a fair coin to decide who will get 8 euros. They agree that the money will go to the first of them to have 6 flips in their favor. However, when the score is 5 for Antonia and 3 for Luca, they are forced to stop playing and discuss how to split the 8 euros (which neither has won so far). What is a fair way to split them (that is, a way that takes into account the probability of winning each of them has at the time the game is interrupted)?
 
-**Answer:** 7 and 1
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_finale#qc4|src_kangourou_2018_cadet_finale__QC4]]
 
 
 
@@ -144,11 +163,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cards are thrown given the probability of the 4 aces*
+*How many cards are discarded given the probability of the four aces?*
 
-> From a standard 52-card deck, Chiara discarded some cards, making sure all four aces remained in the remaining deck. Now extract four cards randomly from this narrow deck. If the probability of extracting exactly the four aces is $\dfrac{1}{1001}$, how many cards did you throw away?
+> From a standard 52-card deck, Chiara discarded some cards, making sure that all four aces remained in the remaining deck. She now draws four cards at random from this reduced deck. If the probability of drawing exactly the four aces is $\dfrac{1}{1001}$, how many cards did she throw away?
 
-**Answer:** 38
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_finale#qc5|src_kangourou_2018_cadet_finale__QC5]]
 
 
 
@@ -232,6 +255,11 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure you can see a regular pentagon of which four diagonal lines have been drawn which identify two shaded regions $A$ and $B$. Express the area of $B$ depending on the area of $A$. (see figure)
+> In the figure, you see a regular pentagon from which four diagonals have been drawn, dividing the pentagon into two shaded regions, $A$ and $B$. Express the area of $B$ in terms of the area of $A$. (see figure)
 
-**Answer:** double of A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_cadet_finale#qc6|src_kangourou_2018_cadet_finale__QC6]]

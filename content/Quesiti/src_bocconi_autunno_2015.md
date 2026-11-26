@@ -32,13 +32,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four arrows: Find the four scores*
+*Four Arrows: Find the Four Scores*
 
-> Jacopo scored 35 points by throwing four arrows. Indicate the four scores obtained.
+> Jacopo scored 35 points by shooting 4 arrows. State the four scores achieved.
 
 ![[src_bocconi_autunno_2015__q01.png]]
 
-**Answer:** 5, 9, 9, 12 (order does not matter)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2015#q01|src_bocconi_autunno_2015__Q01]]
 
 
 
@@ -64,13 +69,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of points on opposite sides of two dice*
+*Sum of the points on opposite faces of two dice*
 
-> Each of the dice in the figure has points on the faces from 1 to 6; the sum of the points on two opposite faces is always equal to 7. What is the sum of the dots on the faces of the two unseen cubes in the figure?
+> Each of the dice in the figure has dots on its faces ranging from 1 to 6; the sum of the dots on two opposite faces is always 7. What is the sum of the dots on the faces of the two cubes that are not visible in the figure?
 
 ![[src_bocconi_autunno_2015__q02.png]]
 
-**Answer:** 26
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2015#q02|src_bocconi_autunno_2015__Q02]]
 
 
 
@@ -96,13 +106,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tracks to read MATHS in Figure*
+*Paths to read MATHS in the figure*
 
-> Anyways, math! How many different paths can you take to read the word "MATHS" in the figure? (Count also the route already traced)
+> Anyway, math! How many different paths can be taken to read the word "MATHS" in the figure? (Also count the path that has already been traced.)
 
 ![[src_bocconi_autunno_2015__q03.png]]
 
-**Answer:** 6
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2015#q03|src_bocconi_autunno_2015__Q03]]
 
 
 
@@ -126,11 +141,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First two years divided by 16*
+*First two years divisible by 16*
 
-> 2010 is divisible by 10 (the number formed by its last two digits); similarly 2016 is divisible by 16. Find the first two years, after 2016, whose number is divisible by the last two digits.
+> 2010 is divisible by 10 (the number formed by its last two digits); similarly, 2016 is divisible by 16. Find the first two years after 2016 whose numbers are divisible by the number formed by their last two digits.
 
-**Answer:** 2020, 2025 (both solutions, order does not matter)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2015#q04|src_bocconi_autunno_2015__Q04]]
 
 
 
@@ -156,13 +176,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of the second row of the square grid*
+*Numbers in the second row of the square grid*
 
-> The mystery of the square grid. The six white boxes must be completed with different digits, so that the sum indicated is correct and that in each column, from top to bottom, the grid numbers are written from smallest to largest. In particular, write the numbers in the second line.
+> The Mystery of the Square Grid. The six white cells must be filled with different digits so that the indicated sum is correct and so that, in each column from top to bottom, the digits in the grid are written from smallest to largest. In particular, write down the digits in the second row.
 
 ![[src_bocconi_autunno_2015__q05.png]]
 
-**Answer:** 6, 8, 2
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2015#q05|src_bocconi_autunno_2015__Q05]]
 
 
 
@@ -188,13 +213,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of winning boat of the race*
+*Number of the winning boat in the regatta*
 
-> It's a very hard-fought race. The six boats you see in the figure have taken part in the Castiglione della Pesca regatta, each with a number written on the sail. The sum of the number of boats in the first three places is 33 and the number of boats in third place is twice that of the second place. What's the number of the boat that won the race?
+> A very closely contested regatta. Six boats, shown in the figure, took part in the Castiglione della Pesca regatta; each had a number written on its sail. The sum of the numbers of the boats that finished in the top three positions is 33, and the number of the boat that came third is twice that of the boat that finished second. What is the number of the boat that won the regatta?
 
 ![[src_bocconi_autunno_2015__q06.png]]
 
-**Answer:** 6
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2015#q06|src_bocconi_autunno_2015__Q06]]
 
 
 
@@ -222,11 +252,16 @@ level: Giochi d'Autunno
 
 *Area of the darkest part of the isosceles triangle*
 
-> Keys and dark. What you see in the figure is an isosceles rectangle with an area of 2016 $\text{cm}^2$. We divided each side of the triangle into four equal parts, so we could then map the segments you see inside the triangle. What's the area of the darkest part of the figure?
+> Keys and dark areas. What you see in the figure is an isosceles right-angled triangle with an area of 2016 $\text{cm}^2$. We have divided each of its sides into four equal parts so that we can then draw the line segments you see inside the triangle. What is the area of the darkest part of the figure?
 
 ![[src_bocconi_autunno_2015__q07.png]]
 
-**Answer:** $252$ $\text{cm}^2$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2015#q07|src_bocconi_autunno_2015__Q07]]
 
 
 
@@ -252,13 +287,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of particular chess moves*
+*Minimum number of moves, particular board*
 
-> A little bit of a chessboard. Only two movements are permitted for the pedals you see in the figure: moving a pedal over an adjacent box (on one side), provided that the latter is free; jumping a pedal located in an adjacent box (on one side), whatever its colour, provided that the box immediately beyond the leaped pedal is free. In how many moves, at least, can you swap the white and the black pads?
+> A somewhat unusual chessboard. The pieces shown in the figure are allowed only two moves: moving a piece to an adjacent square (along one side), provided that square is unoccupied; jumping a piece that is on an adjacent square (along one side), regardless of its color, provided that the square immediately beyond the jumped piece is unoccupied. What is the minimum number of moves required to swap the white pieces with the black pieces?
 
 ![[src_bocconi_autunno_2015__q08.png]]
 
-**Answer:** 15
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_backward|Working backwards]], [[method_invarianti|Invariants / monovariants]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2015#q08|src_bocconi_autunno_2015__Q08]]
 
 
 
@@ -282,11 +322,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*According to Desiderio*
+*Desiderio's second result*
 
-> Desiderio's numbers. Desiderio likes to play with positive integers. In particular, he enjoys choosing a number $a$, to which he first adds his double and then his six-fold (6 times the starting number) thus obtaining a first result. At this point, always Desiderio considers the sum of the cube of the number chosen more at the beginning with the cube of its double. It thus obtains a second result which, surprisingly, is equal to 1000 times the first result. What is Desiderio's second outcome?
+> Desiderio's Numbers. Desiderio likes to play with positive whole numbers. In particular, he enjoys choosing a number $a$, to which he first adds its double and then its sextuple (6 times the starting number), thus obtaining a first result. At this point, Desiderio again considers the sum of the cube of the number chosen at the very beginning and the cube of its double. He thus obtains a second result which, surprise!, is equal to 1000 times the first result. What is Desiderio's second result?
 
-**Answer:** 1800
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2015#q09|src_bocconi_autunno_2015__Q09]]
 
 
 
@@ -310,11 +355,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of palindromes multiples of 3, 7 and 13
+*Largest palindromic multiple of 3, 7, and 13*
 
-> ...and this one from Nando. Nando found a five-digit number that's multiples of 3, 7, and 13. To write it, use only two digits: the 0 and another digit. Nando's number is palindrome (it reads the same way from left to right and from right to left). What's the maximum number?
+> ...and this other one from Nando. Nando has found a five-digit number that is a multiple of 3, 7, and 13. To write it, he uses only two digits: 0 and one other digit. Nando's number is a palindrome (it reads the same from left to right and from right to left). What is the maximum value of this number?
 
-**Answer:** 99099
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2015#q10|src_bocconi_autunno_2015__Q10]]
 
 
 
@@ -342,11 +392,16 @@ Maximum number of palindromes multiples of 3, 7 and 13
 
 *Minimum sum of numbers aligned in the star*
 
-> It's a star. There are fourteen circles in the star of the figure. Six of them are already occupied by some numbers. Fill the others with integers between 7 and 20, different from each other (and so that they do not appear between 7 and 20, different from each other) so that the sum of the four aligned numbers is always the same. What's the smallest possible value for the sum of these four numbers?
+> A star. The star in the figure has fourteen circles. Six of them are already filled with some numbers. Fill the others with integers between 7 and 20, all different from one another (and such that none of them appear between 7 and 20, and all are different from one another), so that the sum of the four numbers that are in a line is always the same. What is the smallest possible value of the sum of these four numbers?
 
 ![[src_bocconi_autunno_2015__q11.png]]
 
-**Answer:** 30
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2015#q11|src_bocconi_autunno_2015__Q11]]
 
 
 
@@ -370,11 +425,16 @@ Maximum number of palindromes multiples of 3, 7 and 13
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eye to 11: maximum output with two digits*
+*Watch out for 11: the maximum product with two digits*
 
-> Watch out for the 11! $10 \times 11 = 1 \times 1$. Then, with two digits $a$ and $b$, we find that also $\overline{ab}$ and $\overline{ba}$ (where $\overline{ab}$ is the number whose value is $10a + b$, and $\overline{ba}$ is the number you read the same way) must satisfy $\overline{ab} \times \overline{ba} = a \cdot b \cdot \overline{ab} \cdot \overline{ba}$ by reading $\overline{bb}$ the same way. Find the maximum product value of the two members of the previous equation.
+> Watch out for 11! $10 \times 11 = 1 \times 1$. Then, with two digits $a$ and $b$, we find that $\overline{ab}$ and $\overline{ba}$ as well (where $\overline{ab}$ is the number whose value is $10a + b$, and $\overline{ba}$ is the number you read in the same way) must satisfy $\overline{ab} \times \overline{ba} = a \cdot b \cdot \overline{ab} \cdot \overline{ba}$ by reading $\overline{bb}$ in the same way. Find the maximum value of the product of the two sides of the previous equality.
 
-**Answer:** 1024
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_autunno_2015#q12|src_bocconi_autunno_2015__Q12]]
 
 
 
@@ -398,11 +458,16 @@ Maximum number of palindromes multiples of 3, 7 and 13
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little integer greater than 1 square and fifth power*
+*The smallest integer greater than 1 that is both a square and a fifth power*
 
-> At the same time. What is the smallest integer greater than 1 that is simultaneously a square and also a fifth power of some natural number?
+> Simultaneously. What is the smallest integer greater than 1 that is simultaneously a perfect square and also a fifth power of some natural number?
 
-**Answer:** 1024
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2015#q13|src_bocconi_autunno_2015__Q13]]
 
 
 
@@ -428,13 +493,18 @@ Maximum number of palindromes multiples of 3, 7 and 13
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the circular crown between circle and square*
+*Area of the circular crown between the circle and the square*
 
-> The crown is circular. Clear wrote a circle in a square (each side of each other) in a circle that, in the figure, you see white. Then he inscribed that white circle in a square which, in turn, was inscribed in a dark circle. The white circle has an area of $2016$ $\text{cm}^2$. What is the area of the circular crown?
+> The circular ring. Chiara inscribed a circle in a square (each side parallel to the others) within a circle that, in the figure, you see as white. Then she inscribed that white circle in a square which, in turn, was inscribed in a dark circle. The white circle has an area of $2016$ $\text{cm}^2$. What is the area of the circular ring?
 
 ![[src_bocconi_autunno_2015__q14.png]]
 
-**Answer:** $2016$ $\text{cm}^2$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2015#q14|src_bocconi_autunno_2015__Q14]]
 
 
 
@@ -460,13 +530,18 @@ Maximum number of palindromes multiples of 3, 7 and 13
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Overse vertices of the cube with minimum sum*
+*Opposite vertex of the cube with minimum sum*
 
-> It's a magic cube. In the vertices of the cube "books" must be written prime numbers different from each other, so that the sum of the numbers placed in the vertices of the same face is always the same and the smallest possible. What number should be written on the top opposite to the one where number 1 appears?
+> A magic cube. In the "free" vertices of the cube, distinct prime numbers must be written so that the sum of the numbers at the vertices of the same face is always the same and as small as possible. Which number must be written in the vertex opposite the one where the number 1 appears?
 
 ![[src_bocconi_autunno_2015__q15.png]]
 
-**Answer:** 3
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2015#q15|src_bocconi_autunno_2015__Q15]]
 
 
 
@@ -492,13 +567,18 @@ Maximum number of palindromes multiples of 3, 7 and 13
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the rectangle formed by square vertices*
+*Area of the rectangle formed by the vertices of squares*
 
-> The rectangle. In the square of the figure two vertices with two sides of the data have been reached. Then, by tracing the perpendiculars, we built the dark rectangle. How much is its area worth, knowing that that of the square is worth $1000$ $\text{cm}^2$?
+> The rectangle. In the square in the figure, two vertices were joined with two of the given sides. Then, by drawing perpendiculars, the dark rectangle was constructed. What is its area, given that the area of the square is $1000$ $\text{cm}^2$?
 
 ![[src_bocconi_autunno_2015__q16.png]]
 
-**Answer:** $400$ $\text{cm}^2$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2015#q16|src_bocconi_autunno_2015__Q16]]
 
 
 
@@ -522,11 +602,16 @@ Maximum number of palindromes multiples of 3, 7 and 13
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Convergence point of the path of the ant*
+*Convergence point of the ant's path*
 
-> A melodic ant. An ant moves in a square plane always following the same pattern: it starts from the source $(0,0)$, advances a unit to the right, $\frac{1}{8}$ to the left, $\frac{1}{8}$ to the bottom and $\frac{1}{16}$ back to the right. It continues as follows, rotating $90^\circ$ clockwise after each shift and running each time a distance that is half that of the previous stretch. What's the point of convergence of its path?
+> A melodic ant. An ant moves on a gridded plane, always following the same pattern: it starts at the origin $(0,0)$, moves one unit to the right, $\frac{1}{8}$ units to the left, $\frac{1}{8}$ units downward, and $\frac{1}{16}$ units back to the right. It continues like this, rotating $90^\circ$ units counterclockwise after each move and covering each time a distance that is half the length of the previous segment. What point does its path converge to?
 
-**Answer:** $\left(\frac{4}{5},\ \frac{2}{5}\right)$
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping sums]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_autunno_2015#q17|src_bocconi_autunno_2015__Q17]]
 
 
 
@@ -550,8 +635,13 @@ Maximum number of palindromes multiples of 3, 7 and 13
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many additions has Carla added to the alternate series?
+*How many addends did Carla add in the alternating series?*
 
-> It's Carla's alternate math. By alternately adding the squares of the integers according to the $-1^2 + 2^2 - 3^2 + 4^2 - \cdots$ series, Carla obtains a four-digit number, of the form $\overline{qqqq}$ (four equal digits). How many more did Carla add?
+> Carla's alternating calculations. By summing the squares of the integers alternately according to the series $-1^2 + 2^2 - 3^2 + 4^2 - \cdots$, Carla obtains a four-digit number of the form $\overline{qqqq}$ (four identical digits). How many addends did Carla sum?
 
-**Answer:** 66 (the number is 2211)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping sums]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_autunno_2015#q18|src_bocconi_autunno_2015__Q18]]

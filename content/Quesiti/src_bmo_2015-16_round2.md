@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre cerchi tangenti reciprocamente con tangente comune: dimostrare la disuguaglianza*
+*Tre cerchi mutuamente tangenti con una tangente comune: dimostrare la disuguaglianza*
 
-> I cerchi di raggio $r_1$, $r_2$ e $r_3$ si toccano esternamente e hanno anche una tangente comune rispettivamente nei punti $A$, $B$ e $C$, dove $B$ si trova tra $A$ e $C$. Prove che $16r_1r_3(r_1+r_2+r_3) \ge 9r_2(r_1+r_3)^2$.
+> I cerchi di raggi $r_1$, $r_2$ e $r_3$ sono tangenti esternamente tra loro e hanno inoltre una tangente comune nei punti $A$, $B$ e $C$ rispettivamente, dove $B$ si trova tra $A$ e $C$. Dimostrare che $16r_1r_3(r_1+r_2+r_3) \ge 9r_2(r_1+r_3)^2$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_bmo_2015-16_round2#q01|src_bmo_2015-16_round2__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Le squadre di hockey: trovare la catena più grande Benjamin può sempre garantire
+*Squadre di hockey: trova la catena più lunga che Benjamin può garantire sempre*
 
-> Alison ha una borsa di 20 squadre di hockey, ordinate per quanto le pare buone. Sceglierà tre squadre da elencare, e poi sceglierà di dirgli quale pensa di essere la squadra più forte delle tre, o quale pensa di essere la squadra più debole delle tre. Benjamin può farlo quante volte vuole. Determinare il più grande $N$ in modo che Benjamin possa sempre trovare una sequenza $T_1, T_2, \ldots, T_N$ di squadre con la proprietà che sa che $T_1$ è migliore di $T_2$, $T_2$ è migliore di $T_3$, $\ldots$, e $T_{N-1}$ è migliore di $T_N$, per ogni $1 \le i < N$.
+> Alison ha un sacchetto contenente 20 squadre di hockey, ordinate in base a quanto ritiene che siano brave. Sceglierà tre squadre da elencare, e poi sceglierà se dirgli quale, a suo parere, è la squadra più forte tra le tre, oppure quale, a suo parere, è la squadra più debole tra le tre. Benjamin può farlo quante volte vuole. Determinare il più grande $N$ tale che Benjamin possa sempre trovare una sequenza $T_1, T_2, \ldots, T_N$ di squadre con la proprietà che sa che $T_1$ è migliore di $T_2$, $T_2$ è migliore di $T_3$, $\ldots$, e $T_{N-1}$ è migliore di $T_N$, per ogni $1 \le i < N$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2015-16_round2#q02|src_bmo_2015-16_round2__Q02]]
 
 
 
@@ -79,9 +93,16 @@ Le squadre di hockey: trovare la catena più grande Benjamin può sempre garanti
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale ciclico: PQ perp AC implica PQ perp BD*
+*Quadrilatero ciclico: PQ perp AC implica PQ perp BD*
 
-> Che il $ABCD$ sia un quadrilaterale ciclico. Le diagonali $AC$ e $BD$ si incontrano a $Q$. Le linee $AB$ e $CD$ prodotte si incontrano a $P$. Prove che se $PQ$ è perpendicolare a $AC$, allora $PQ$ è perpendicolare a $BD$.
+> Sia $ABCD$ un quadrilatero ciclico. Le diagonali $AC$ e $BD$ si incontrano in $Q$. Le rette $AB$ e $CD$ prolungate si incontrano in $P$. Dimostrare che, se $PQ$ è perpendicolare a $AC$, allora $PQ$ è perpendicolare a $BD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2015-16_round2#q03|src_bmo_2015-16_round2__Q03]]
 
 
 
@@ -104,6 +125,13 @@ Le squadre di hockey: trovare la catena più grande Benjamin può sempre garanti
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prima p con p^2 = a^3 + b^2: dimostra divisibilità o risultato di fattorizzazione*
+*Trovare i primi p tali che p^2 = a^3 + b^2: dimostra la divisibilità o un risultato di fattorizzazione*
 
-> Supponiamo che $p$ sia un numero primo e che ci siano interi positivi $a$ e $b$ tali che $p^2 = a^3 + b^2$. Dimostrare che esistono integri positivi $u$ e $v$ come $p = u^2 + v^3$ e $a = u^2$, $b = v^3$.
+> Supponiamo che $p$ sia un numero primo e che esistano numeri interi positivi $a$ e $b$ tali che $p^2 = a^3 + b^2$. Dimostrare che esistono numeri interi positivi $u$ e $v$ tali che $p = u^2 + v^3$ e $a = u^2$, $b = v^3$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2015-16_round2#q04|src_bmo_2015-16_round2__Q04]]

@@ -31,11 +31,18 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area triangle overlay by folding diagonal length*
+*Triangle area of overlap when folded along the diagonal*
 
 ![[src_cesenatico_1999__prob1.png]]
 
-> Given a rectangular sheet of $a$ and $b$ sides, with $a > b$, determine the area of the triangle resulting from the overlap of the two sides obtained by folding the sheet along a diagonal (the triangle coloured in grey in the figure). (see figure)
+> Given a rectangular sheet with sides $a$ and $b$, where $a > b$, determine the area of the triangle formed by the overlap of the two flaps obtained by folding the sheet along a diagonal (the triangle shaded gray in the figure). (see figure)
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_1999#q01|src_cesenatico_1999__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*There is only a finite number of balanced numbers*
+*There are only a finite number of balanced numbers*
 
-> Let's say a natural number is *balanced* if you write with as many digits as its distinct prime divisors (for example, $15$ is balanced, while $49$ is not). Prove that there is only a finite number of balanced numbers.
+> Let us say that a natural number is *balanced* if it is written with as many digits as it has distinct prime divisors (for example, $15$ is balanced, whereas $49$ is not). Prove that there are only finitely many balanced numbers.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_1999#q02|src_cesenatico_1999__Q02]]
 
 
 
@@ -85,11 +99,18 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AB passes through the intersection with r1+r2=r (tangent circles)*
+*AB passes through the intersection point when r1 + r2 = r (tangent circles)*
 
 ![[src_cesenatico_1999__prob3.png]]
 
-> Three radial circumferences of $\gamma_1, \gamma_2, \gamma_3$ and $0 < r_1 < r_2 < r_3$ respectively shall be $r_1, r_2, r_3$. The circumferences $\gamma_1$ and $\gamma_2$ are tangent internally to $\gamma_3$ at two distinct points $A$ and $B$ and intersect each other at two distinct points. Demonstrate that the $AB$ segment passes through one of the intersection points between $\gamma_1$ and $\gamma_2$ if and only if $r_1 + r_2 = r_3$.
+> Let $\gamma_1, \gamma_2, \gamma_3$ be three circles with radii $r_1, r_2, r_3$ respectively, with $0 < r_1 < r_2 < r_3$. The circles $\gamma_1$ and $\gamma_2$ are internally tangent to $\gamma_3$ at two distinct points $A$ and $B$, and they intersect each other at two distinct points. Prove that the segment $AB$ passes through one of the intersection points of $\gamma_1$ and $\gamma_2$ if and only if $r_1 + r_2 = r_3$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_1999#q03|src_cesenatico_1999__Q03]]
 
 
 
@@ -112,9 +133,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Winning strategy game of dice*
+*Winning strategy for the matchstick game*
 
-> Alberto and Barbara play the following game. On a table there are $1999$ dice: in turn each player must remove from the table a number of dice of his choice, provided that it is greater than or equal to one, and less than or equal to half the number of dice that are on the table at that time. The player who leaves one cherry on the table loses. Barbara's the first to play. Determine for which of the two players there is a winning strategy and describe that strategy.
+> Alberto and Barbara are playing the following game. On a table there are $1999$ matches: in turn, each player must remove from the table a number of matches of their choosing, provided that this number is greater than or equal to one and less than or equal to half the number of matches currently on the table. The player who leaves exactly one match on the table loses. Barbara goes first. Determine which of the two players has a winning strategy, and describe that strategy.
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_1999#q04|src_cesenatico_1999__Q04]]
 
 
 
@@ -137,9 +165,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values m,n,p per village of huts with bridges*
+*Values of m, n, p for a village of huts with bridges*
 
-> On a lake there is a village of huts placed on pallets in the nodes of a rectangular lattice $m \times n$ (see example in figure). From the platform of each shed exactly $p$ bridges start, which connect it to one or more of the adjacent sheds (as opposed to the lattice, so not diagonally). For which positive integers $m$, $n$ and $p$ can bridges be placed so that any other hut is reached from each hut? (Of course, between two adjacent huts, more bridges can be placed.) (see figure)
+> On a lake there is a village of huts built on stilts at the nodes of a rectangular grid $m \times n$ (see the example in the figure). From the platform of each hut, exactly $p$ bridges extend, connecting it to one or more of the adjacent huts (adjacent with respect to the grid, so not diagonally). For which positive integer values $m$, $n$, and $p$ is it possible to place the bridges so that every hut can reach any other hut? (Obviously, multiple bridges can be placed between two adjacent huts.) (see figure)
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_1999#q05|src_cesenatico_1999__Q05]]
 
 
 
@@ -165,6 +200,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (x,k) with 3 k-1=x^n*
+*Pairs (x,k) such that 3^k-1=x^n*
 
-> (a) Determine all pairs $(x, k)$ of positive integers satisfying the $$3^k - 1 = x^3.$$ equation. (b) Demonstrate that if $n$ is an integer greater than $1$ and different from $3$ there are no pairs $(x, k)$ of positive integers satisfying the $$3^k - 1 = x^n.$$ equation.
+> (a) Determine all pairs $(x, k)$ of positive integers that satisfy the equation
+> $$3^k - 1 = x^3.$$
+> (b) Prove that if $n$ is an integer greater than $1$ and different from $3$, then there are no pairs $(x, k)$ of positive integers that satisfy the equation
+> $$3^k - 1 = x^n.$$
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_1999#q06|src_cesenatico_1999__Q06]]

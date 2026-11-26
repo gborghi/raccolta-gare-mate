@@ -34,15 +34,20 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-Cube towers: how many cubes on the fourth day?
+*Cube tower: how many cubes on the fourth day?*
 
-> Archie took his name very seriously and decided he'd become an architect when he grew up. For now, he's just building towers with wooden cubes. On the first day, he built a one-story tower with a single cube (you see it on the left, in fig. 1). On the second day, he built a tower three times as long and three times as high and then put it on top of the tower of the first day (and then using a total of 10 cubes): you can see it in Fig. 2. On the third day he builds a tower 9 cubes long and 9 cubes high and, putting it above the tower of the second day, uses a total of 91 cubes. On the fourth day Archie builds a tower 27 cubes long and 27 cubes high, then places it above the tower on the third day.
-> 
-> How many cubes in total do you use for this fourth-day tower?
+> Archie has taken his name very seriously and has decided that when he grows up he will be an architect. For now, he just builds towers out of wooden cubes. On the first day, he built a one-story tower using a single cube (you can see it on the left in Fig. 1). On the second day, he built a tower three times longer and three times taller, then placed the first-day tower on top of it (thus using a total of 10 cubes): you can see it in Fig. 2. On the third day, he builds a tower 9 cubes long and 9 cubes high, and by placing it on top of the second-day tower, he uses a total of 91 cubes. On the fourth day, Archie builds a tower 27 cubes long and 27 cubes high, and then places it on top of the third-day tower.
+>
+> How many cubes does he use in total for this fourth-day tower?
 
 ![[src_bocconi_autunno_2013__q01.png]]
 
-**Answer:** 820
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2013#q01|src_bocconi_autunno_2013__Q01]]
 
 
 
@@ -68,11 +73,18 @@ Cube towers: how many cubes on the fourth day?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Substitution of digits: find BA from the addition.*
+*Digit substitution: find BA from the addition.*
 
-> Replace $A$ with a certain number (always the same) and $B$ with another number (always the same but different from the one used for $A$) so that the result is correct: $$\begin{array}{r} BA + \\ BA + \\ BA = \\ \hline 1BB \end{array}$$ What is $BA$?
+> Replace $A$ with a certain digit (always the same) and $B$ with another digit (always the same, but different from the one used for $A$) so that the result is correct:
+> $$\begin{array}{r} BA + \\ BA + \\ BA = \\ \hline 1BB \end{array}$$
+> What is the value of $BA$?
 
-**Answer:** 48
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2013#q02|src_bocconi_autunno_2013__Q02]]
 
 
 
@@ -97,13 +109,17 @@ Cube towers: how many cubes on the fourth day?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of water in the large box.*
+*Water height in the large box.*
 
-> Carla has at her disposal the two boxes of the figure (they are cubes): the first has a side of 10 cm, the second 20 cm. It fills the little one, up to the edge, with water that then melts into the second box (without losing a drop).
-> 
-> What will be the height of the water in the big box?
+> Carla has the two boxes shown in the figure at her disposal (they are cubes): the first has a side length of 10 cm, and the second has a side length of 20 cm. She fills the smaller box to the brim with water and then transfers the water to the second box (without losing a single drop).
+>
+> What will the height of the water be in the large box?
 
-**Answer:** 2{,}5 \text{ cm}
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2013#q03|src_bocconi_autunno_2013__Q03]]
 
 
 
@@ -128,11 +144,18 @@ Cube towers: how many cubes on the fourth day?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four cards to be placed in the square with hole.*
+*Four tiles to be placed in the square with a hole.*
 
-> Place the 4 pieces in the quadrant, which are now shown in the figure below, so that they cover it completely (pieces can be rotated, but not upside down).
+> Place the 4 pieces, which now appear in the figure below, in the quadrants so as to cover the entire area (the pieces can be rotated but not flipped).
 
 ![[src_bocconi_autunno_2013__q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2013#q04|src_bocconi_autunno_2013__Q04]]
 
 
 
@@ -157,11 +180,18 @@ Cube towers: how many cubes on the fourth day?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers from 2 to 6 in disks with differences between adjacent 1 or 2.*
+*Numbers from 2 to 6 on the discs, with differences of 1 or 2 between adjacent numbers.*
 
-> Place the integers from 2 to 6 in the empty disks so that the difference between the numbers of two adjacent disks (the larger minus the smaller) is always equal to 1 or 2.
+> Place the integers from 2 to 6 in the empty discs so that the difference between the numbers on two adjacent discs (the larger minus the smaller) is always equal to 1 or 2.
 
 ![[src_bocconi_autunno_2013__q05.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2013#q05|src_bocconi_autunno_2013__Q05]]
 
 
 
@@ -187,13 +217,18 @@ Cube towers: how many cubes on the fourth day?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Year in which the sum of figures is equal to one third of Matthew's age.*
+*The year in which the sum of the digits equals one third of Matteo's age.*
 
-> Matteo was born on January 1, 2000. In 2014 she will be 14 years old and the sum of the figures for that year ($2+0+1+4$) will be equal to 7, half her age.
-> 
-> In what year, instead, will the sum of the year's figures be equal to one third of Matthew's age?
+> Matteo was born on January 1, 2000. In 2014, he will be 14 years old, and the sum of the digits of that year ($2+0+1+4$) will be 7, which is half of his age.
+>
+> In what year will the sum of the digits of the year instead be equal to one third of Matteo's age?
 
-**Answer:** 2024
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2013#q06|src_bocconi_autunno_2013__Q06]]
 
 
 
@@ -219,13 +254,18 @@ Cube towers: how many cubes on the fourth day?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times the letter appears and in the self-reference sentence.*
+*How many times does the letter e appear in the self-referential sentence?*
 
-> Complete the sentence between the commas with a number written in letters: "In this sentence, you can count ...... the letters 'e'.
-> 
-> In this sentence, you can count... Letters e.
+> Complete the sentence in quotation marks with a number written in words: "In this sentence, you can count ...... letters and".
+>
+> In this sentence, you can count ...... letters and.
 
-**Answer:** dieci
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2013#q07|src_bocconi_autunno_2013__Q07]]
 
 
 
@@ -250,11 +290,18 @@ Cube towers: how many cubes on the fourth day?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Magic triangle: integers from 4 to 10 with sum of 20 per segment.*
+*Magic triangle: integers from 4 to 10, with a sum of 20 per side.*
 
-> Place the integers from 4 to 10 in the empty cells of the triangle so that the sum of the three or four numbers on the same segment is always equal to 20.
+> Place the integers from 4 to 10 in the empty cells of the triangle so that the sum of the three or four numbers on any single line segment is always equal to 20.
 
 ![[src_bocconi_autunno_2013__q08.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2013#q08|src_bocconi_autunno_2013__Q08]]
 
 
 
@@ -282,11 +329,16 @@ Cube towers: how many cubes on the fourth day?
 
 *How many times does the alarm clock display four consecutive digits?*
 
-> When Angelo wakes you can read, illuminate, every hour and minute of the day. At certain times, such as at 02h and 31 minutes or 21h and 34 minutes, four consecutive digits appear on the alarm screen: in the first of the two preceding examples, the digits $0$-$1$-$2$-$3$; in the second, the digits $1$-$2$-$3$-$4$.
-> 
-> How many times in a day (from 00h and 00 minutes to 23h and 59 minutes) does Angelo's wake up display four consecutive digits?
+> On Angelo's alarm clock, all the hours and all the minutes of the day can be read, illuminated. At certain times, such as at 02:31 or at 21:34, four consecutive digits appear on the alarm clock's screen: in the first of the two preceding examples, the digits $0$-$1$-$2$-$3$; in the second, the digits $1$-$2$-$3$-$4$.
+>
+> How many times, over the course of a day (from 00:00 to 23:59), does Angelo's alarm clock display four consecutive digits?
 
-**Answer:** 30
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2013#q09|src_bocconi_autunno_2013__Q09]]
 
 
 
@@ -311,13 +363,17 @@ Cube towers: how many cubes on the fourth day?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Vote for the fourth task given that the average has not changed.*
+*Grade for the fourth assignment, since the average hasn't changed.*
 
-> Liliana attends a French school where grades are given in the twentieth grade (the highest score is 20). In the first three math assignments, he took 15, 14, and 12. After the fourth assignment, his average hasn't changed.
-> 
-> What was the score on your fourth assignment?
+> Liliana attends a French school where grades are given out of 20 (the highest grade is 20). On her first three maths assignments, she got 15, 14, and 12. After the fourth assignment, her average grade hadn't changed.
+>
+> What was her grade on the fourth assignment?
 
-**Answer:** 15
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2013#q10|src_bocconi_autunno_2013__Q10]]
 
 
 
@@ -342,11 +398,18 @@ Cube towers: how many cubes on the fourth day?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gray triangles: numbers 1-8 in the cells with vertex sum 14.*
+*Gray triangles: numbers 1–8 in the cells with a vertex sum of 14.*
 
-> Place the integers 1 to 8 in the seven empty boxes in the figure so that the sum of the numbers at the vertices of the same grey triangle is always equal to 14.
+> Place the integers from 1 to 8 in the seven empty boxes of the figure so that the sum of the numbers at the vertices of any single grey triangle is always equal to 14.
 
 ![[src_bocconi_autunno_2013__q11.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2013#q11|src_bocconi_autunno_2013__Q11]]
 
 
 
@@ -378,19 +441,24 @@ Cube towers: how many cubes on the fourth day?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dimensions of the rectangular garden that Renato spirals into.*
+*Dimensions of the rectangular garden that Renato mows in a spiral pattern.*
 
-> I have to cut the lawn in the garden and I have a lawn mower with a side of 1 meter. I can't make it on my own. Renato complains to his boss.
-> 
-> Don't be clever the headman answers; and the $\text{m}^2$ of the garden, where Renato cuts grass following the spiral perimeter (in the path marked in black in the figure), is taken to $97\%$.
-> 
-> Renato cuts the grass by following the strips along the perimeter of the rectangular garden, without losing a single strip. Finally, the size of the garden is such that the long side is $44$ m and the short side is $28$ m.
-> 
-> What's the size of the garden?
+> "I have to mow the lawn, and I've got a lawnmower with a 1-meter side. I can't get it done on time by myself," Renato complains to his boss.
+>
+> "Don't try to be clever," the boss replies; and the $\text{m}^2$ of the garden, where Renato mows the grass following the spiral perimeter (along the path marked in black in the figure), are brought to the $97\%$.
+>
+> Renato mows the grass along the strips along the perimeter of the rectangular garden, without missing a single strip. In the end, the dimensions of the garden are such that the long side is $44$ m and the short side is $28$ m.
+>
+> What are the dimensions of the garden?
 
 ![[src_bocconi_autunno_2013__q12.png]]
 
-**Answer:** 28 \text{ m} \times 44 \text{ m}
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2013#q12|src_bocconi_autunno_2013__Q12]]
 
 
 
@@ -418,15 +486,20 @@ Cube towers: how many cubes on the fourth day?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of isosceles triangle ABC with BD=6 and area AEFD=6.*
+*Perimeter of isosceles triangle ABC, where BD=6 and area AEFD=6.*
 
-> In the $ABC$ triangle, $AB = AC$ are equal and $D$, $E$, $F$ are points on the respective sides. The side $BD$ is $6$ cm long and the area of the quadrilateral $AEFD$ is $6\ \text{cm}^2$.
-> 
-> What is the perimeter of the $ABC$ triangle?
+> In triangle $ABC$, $AB = AC$ are equal, and $D$, $E$, $F$ are points on the respective sides. Side $BD$ is $6$ cm long, and the area of quadrilateral $AEFD$ is $6\ \text{cm}^2$.
+>
+> What is the perimeter of triangle $ABC$?
 
 ![[src_bocconi_autunno_2013__q13.png]]
 
-**Answer:** 16 \text{ cm}
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2013#q13|src_bocconi_autunno_2013__Q13]]
 
 
 
@@ -454,15 +527,20 @@ Cube towers: how many cubes on the fourth day?
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many white squares in the Milena tablecloth at Fig. 4?*
+*How many small white squares are there on Milena's tablecloth in Fig. 4?*
 
-> To make a napkin, Milena starts from a small square of grey canvas (fig. 0): it is surrounded by 8 small identical squares, so as to form a square three times larger, and shades of white (fig. n.1). At this point it starts again: surround the square of the fig. n.1 with 8 identical squares, so as to obtain a square three times larger, and colours the central square in white (fig. n.2). Keep it up and when you get to the fig table. No.3, note that 217 small squares are white (including those in the central square).
-> 
-> How many white squares in the tablecloth should be fig. n.4?
+> To make a tablecloth, Milena starts with a small square of gray cloth (Fig. 0): it is surrounded by 8 identical small squares, forming a square three times larger, and she dyes it white (Fig. n.1). At this point, she starts over: she surrounds the square from Fig. n.1 with 8 identical squares, thereby obtaining a square three times larger, and dyes the central square white (Fig. n.2). She continues like this, and when she reaches the tablecloth in Fig. n.3, she realizes that 217 small squares are white (including those in the central square).
+>
+> How many small squares will be white in the tablecloth that should appear in Fig. n.4?
 
 ![[src_bocconi_autunno_2013__q14.png]]
 
-**Answer:** 2465
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_induzione|Induction]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2013#q14|src_bocconi_autunno_2013__Q14]]
 
 
 
@@ -486,11 +564,16 @@ How many white squares in the Milena tablecloth at Fig. 4?*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of the sum $1^2+2^3+\cdots+2013^{2014}$.*
+*Units digit of the sum $1^2+2^3+\cdots+2013^{2014}$.*
 
-> What is the unit number of the number $1^2 + 2^3 + 3^4 + \ldots + 2012^{2013} + 2013^{2014}$?
+> What is the units digit of the number $1^2 + 2^3 + 3^4 + \ldots + 2012^{2013} + 2013^{2014}$?
 
-**Answer:** 5
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2013#q15|src_bocconi_autunno_2013__Q15]]
 
 
 
@@ -518,15 +601,20 @@ How many white squares in the Milena tablecloth at Fig. 4?*
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability that Desiderio and Nando sit side by side.
+*Probability that Desiderio and Nando sit side by side.*
 
-> Desiderio and Nando booked two seats on the same plane. The automatic procedure that reserved seats put them at random, but in the same row of six seats.
-> 
-> Given that the six seats are all occupied, what is the probability (expressed as an irreducible fraction) that Desiderio and Nando are next to each other (excluding if they are divided by the central corridor)?
-> 
-> N.B.: Desiderio and Nando are supposed to be sitting on either side of the other, even though they were separated by the central hallway.
+> Desiderio and Nando have booked two seats on the same plane. The automated process that reserved the seats placed them at random, but in the same row of six seats.
+>
+> Given that all six seats are occupied, what is the probability (expressed as an irreducible fraction) that Desiderio and Nando are sitting next to each other (excluding the case where they are separated by the middle aisle)?
+>
+> N.B.: It is assumed that Desiderio and Nando are seated on one of the two sides of each other, even if they are separated by the middle aisle.
 
-**Answer:** \dfrac{1}{3}
+**Topic:** [[topic_probabilita|Probability]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2013#q16|src_bocconi_autunno_2013__Q16]]
 
 
 
@@ -552,13 +640,18 @@ The probability that Desiderio and Nando sit side by side.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The 2014th seven-digit number with digits 0-6 each once.*
+*The 2014th seven-digit number, with digits 0–6, each appearing once.*
 
-> Increasingly order all seven-digit numbers using one and only one of the $0, 1, 2, 3, 4, 5, 6$ digits (no number starts with 0).
-> 
-> What number will be the 2014th?
+> Arrange in ascending order all seven-digit numbers that use each of the digits $0, 1, 2, 3, 4, 5, 6$ exactly once (no number starts with 0).
+>
+> Which number will be the 2014th?
 
-**Answer:** 3546120
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2013#q17|src_bocconi_autunno_2013__Q17]]
 
 
 
@@ -586,6 +679,13 @@ The probability that Desiderio and Nando sit side by side.
 
 *Value of the expression with infinite nested square roots.*
 
-> What is the value of the expression: $$\sqrt{30 + \sqrt{30 + \sqrt{30 + \sqrt{30 + \cdots}}}}$$ where the number of roots is infinite and the numbers written are equal to 30?
+> What is the value of the expression:
+> $$\sqrt{30 + \sqrt{30 + \sqrt{30 + \sqrt{30 + \cdots}}}}$$
+> where the number of roots is infinite and the numbers written are equal to 30?
 
-**Answer:** 6
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_autunno_2013#q18|src_bocconi_autunno_2013__Q18]]

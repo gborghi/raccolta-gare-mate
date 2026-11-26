@@ -34,11 +34,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sconto percentuale equivalente di un'offerta di acquisto a prezzo uno-ottenere uno-mezza-prezzo*
+*Sconto percentuale equivalente di un'offerta "compra uno, prendi il secondo a metà prezzo"*
 
-> Un negozio di saponi fa una promozione con lo slogan "Coscrivi uno e prendi un altro a metà prezzo". Un'altra promozione che il negozio potrebbe fare offrendo lo stesso sconto percentuale è: A) "Prenditi due e paga uno" B) "Prenditi tre e paga uno" C) "Prenditi tre e paga due" D) "Prenditi quattro e paga tre" E) "Prenditi cinque e paga quattro"
+> Un negozio di saponi lancia una promozione con lo slogan "Compra uno e prendine un altro a metà prezzo". Un'altra promozione che il negozio potrebbe attuare offrendo lo stesso sconto percentuale è:
+> A) "Prendine due e pagane uno"
+> B) "Prendine tre e pagane uno"
+> C) "Prendine tre e pagane due"
+> D) "Prendi quattro e paga tre"
+> E) "Prendine cinque e pagane quattro"
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n2_f1#q01|src_obm_2005_n2_f1__Q01]]
 
 
 
@@ -62,11 +71,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Filma di trasparenza del 70% sul vetro del 90%: riduzione totale delle radiazioni*
+*Pellicola con trasparenza del 70% su vetro con trasparenza del 90%: riduzione totale delle radiazioni*
 
-> I film $Insulfilm$ sono utilizzati sulle finestre edili e sul vetro dei veicoli per ridurre la radiazione solare. I film sono classificati in base al grado di trasparenza, cioè alla percentuale di radiazioni solari che trasmettono. Mettendo un film di trasparenza $70\%$ su un vetro con trasparenza $90\%$, si ottiene un $\textbf{reduction}$ di radiazioni solari uguale a: A) $3\%$ \quad B) $37\%$ \quad C) $40\%$ \quad D) $63\%$ \quad E) $160\%$
+> Le pellicole $Insulfilm$ vengono utilizzate sulle finestre degli edifici e sul vetro dei veicoli per ridurre la radiazione solare. Le pellicole sono classificate in base al loro grado di trasparenza, ossia alla percentuale di radiazione solare che lasciano passare. Applicando una pellicola con trasparenza $70\%$ su un vetro con trasparenza $90\%$, si ottiene una $\textbf{reduction}$ della radiazione solare pari a:
+> A) $3\%$ \quad B) $37\%$ \quad C) $40\%$ \quad D) $63\%$ \quad E) $160\%$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n2_f1#q02|src_obm_2005_n2_f1__Q02]]
 
 
 
@@ -92,13 +106,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sei rettangoli identici formano un rettangolo più grande di 21 cm di altezza; trovare area*
+*Sei rettangoli identici formano un rettangolo più grande alto 21 cm; determina l'area*
 
-> Sei rettangoli identici sono uniti per formare un rettangolo più grande come indicato nella figura. Qual è l'area di questo rettangolo più grande? (Il lato verticale del rettangolo più grande misura $21\,\text{cm}$.) A) $210\,\text{cm}^2$ \quad B) $280\,\text{cm}^2$ \quad C) $430\,\text{cm}^2$ \quad D) $504\,\text{cm}^2$ \quad E) $588\,\text{cm}^2$
+> Sei rettangoli identici vengono uniti per formare un rettangolo più grande, come indicato nella figura. Qual è l'area di questo rettangolo più grande? (Il lato verticale del rettangolo più grande misura $21\,\text{cm}$.)
+> A) $210\,\text{cm}^2$ \quad B) $280\,\text{cm}^2$ \quad C) $430\,\text{cm}^2$ \quad D) $504\,\text{cm}^2$ \quad E) $588\,\text{cm}^2$
 
 ![[src_obm_2005_n2_f1__q03.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n2_f1#q03|src_obm_2005_n2_f1__Q03]]
 
 
 
@@ -122,11 +141,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-La differenza tra un miliardo di milioni e mille di milioni
+*Differenza tra un miliardo inteso come milione di milioni e un miliardo inteso come mille milioni*
 
-> Alla domanda, Arnaldo dice che $1$ miliardi è uguale a un milione di milioni. Il professor Piraldo lo ha corretto e ha detto che $1$ miliardo è lo stesso di mille milioni. Qual è la differenza tra queste due risposte? A) $1\,000$ \quad B) $999\,000$ \quad C) $1\,000\,000$ \quad D) $999\,000\,000$ \quad E) $999\,000\,000\,000$
+> Interrogato, Arnaldo afferma che $1$ miliardi equivalgono a un milione di milioni. Il professor Piraldo lo corresse e disse che $1$ miliardi equivalgono a mille milioni. Qual è la differenza tra queste due risposte?
+> A) $1\,000$ \quad B) $999\,000$ \quad C) $1\,000\,000$ \quad D) $999\,000\,000$ \quad E) $999\,000\,000\,000$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n2_f1#q04|src_obm_2005_n2_f1__Q04]]
 
 
 
@@ -151,11 +175,17 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*libro di 600 pagine stampato in bianco su pagine il cui numero è un multiple di 3 o 4; contare le pagine stampate*
+*Libro di 600 pagine stampato in bianco sulle pagine il cui numero è multiplo di 3 o di 4; conta le pagine stampate*
 
-> A causa di un difetto di stampa, un libro di $600$ pagine ha in bianco tutte le pagine i cui numeri sono multipli di $3$ o di $4$. Quante pagine sono stampate? A) $100$ \quad B) $150$ \quad C) $250$ \quad D) $300$ \quad E) $430$
+> A causa di un difetto di stampa, in un libro di $600$ pagine tutte le pagine il cui numero è multiplo di $3$ o di $4$ risultano bianche. Quante pagine sono stampate?
+> A) $100$ \quad B) $150$ \quad C) $250$ \quad D) $300$ \quad E) $430$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n2_f1#q05|src_obm_2005_n2_f1__Q05]]
 
 
 
@@ -183,11 +213,20 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Volume di tutto il platino prodotto in 50 anni (densità 21,45 g/cm3, 110 t/anno); oggetto più vicino*
+*Volume di tutto il platino prodotto in 50 anni (densità 21,45 g/cm³, 110 t/anno); oggetto più vicino*
 
-> Il platino è un metallo molto raro, anche più raro dell'oro. La densità è $21.45\,\text{g/cm}^3$. Supponiamo che la produzione mondiale di platino fosse di circa $110$ tonnellate in ciascuno degli ultimi $50$ anni, e trascurabile prima di allora. Indicare l'alternativa con l'oggetto il cui volume è più vicino al volume di platino prodotto nel mondo in tutta la storia. A) una scatola di scarpe B) una piscina C) un edificio di dieci piani D) il Monte Pascoal E) la Luna
+> Il platino è un metallo molto raro, persino più raro dell'oro. La sua densità è $21.45\,\text{g/cm}^3$. Supponiamo che la produzione mondiale di platino sia stata di circa $110$ tonnellate in ciascuno degli ultimi $50$ anni, e trascurabile prima di allora. Indica l'alternativa con l'oggetto il cui volume è più vicino al volume del platino prodotto nel mondo in tutta la storia.
+> A) una scatola da scarpe
+> B) a una piscina
+> C) un edificio di dieci piani
+> D) Monte Pascoal
+> E) la Luna
 
-**Risposta:** B
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n2_f1#q06|src_obm_2005_n2_f1__Q06]]
 
 
 
@@ -212,11 +251,17 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza in cui ogni termine dal terzo è la somma dei due precedenti; data 2nd=1, 5th=2005, trova 6th*
+*Successione in cui ogni termine a partire dal terzo è la somma dei due precedenti; dato che il secondo termine è 1 e il quinto è 2005, trovare il sesto termine*
 
-> In una sequenza, ogni termine, a partire dal terzo, è la somma dei due termini precedenti più vicini. Il secondo termine è $1$ e il quinto termine è $2005$. Qual è il sesto mandato? A) $3\,002$ \quad B) $3\,008$ \quad C) $3\,010$ \quad D) $4\,002$ \quad E) $5\,004$
+> In una successione, ogni termine, a partire dal terzo, è la somma dei due termini precedenti più vicini. Il secondo termine è uguale a $1$ e il quinto termine è uguale a $2005$. Qual è il sesto termine?
+> A) $3\,002$ \quad B) $3\,008$ \quad C) $3\,010$ \quad D) $4\,002$ \quad E) $5\,004$
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n2_f1#q07|src_obm_2005_n2_f1__Q07]]
 
 
 
@@ -242,11 +287,19 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Puzzle di equilibrio: le figure di forma uguale hanno massa uguale; quanti quadrati bilanciano l'ultima scala*
+*Puzzle di bilanciamento: le figure di forma uguale hanno massa uguale; quanti quadrati bilanciano l'ultima bilancia?*
 
-> Le figure con la stessa forma rappresentano oggetti della stessa massa. Quanti quadrati sono necessari per che l'ultimo equilibrio sia in equilibrio? A) $7$ \quad B) $8$ \quad C) $9$ \quad D) $10$ \quad E) $12$
+> Le figure della stessa forma rappresentano oggetti della stessa massa. Quanti quadrati servono perché l'ultima bilancia sia in equilibrio?
+> A) $7$ \quad B) $8$ \quad C) $9$ \quad D) $10$ \quad E) $12$
 
 ![[src_obm_2005_n2_f1__q08.png]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n2_f1#q08|src_obm_2005_n2_f1__Q08]]
 
 
 
@@ -271,11 +324,17 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Treici reali non-zero, più positivi che negativi; 22 dei 78 prodotti in coppia sono negativi; quanti sono negativi*
+*Tredici numeri reali non nulli, in numero maggiore tra quelli positivi e quelli negativi; 22 dei 78 prodotti a coppie sono negativi; quanti sono negativi?*
 
-> Tra i tredici reali non-zero ci sono più numeri positivi di quelli negativi. Tra i prodotti $\dfrac{13\times 12}{2}=78$ di due dei tredici numeri, $22$ sono negativi. Quanti dei tredici numeri dati sono negativi? A) $2$ \quad B) $7$ \quad C) $8$ \quad D) $9$ \quad E) $10$
+> Tra tredici numeri reali non nulli, i numeri positivi sono più dei numeri negativi. Tra i $\dfrac{13\times 12}{2}=78$ prodotti di due dei tredici numeri, $22$ sono negativi. Quanti dei tredici numeri dati sono negativi?
+> A) $2$ \quad B) $7$ \quad C) $8$ \quad D) $9$ \quad E) $10$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n2_f1#q09|src_obm_2005_n2_f1__Q09]]
 
 
 
@@ -301,13 +360,18 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rete pieghevole di cartone costituisce una scatola rettangolare; trova il suo volume*
+*Una rete di cartone piegata forma una scatola rettangolare; determina il suo volume*
 
-> Il disegno di fianco mostra un pezzo di cartone che verrà piegato e incollato lungo i bordi per formare una scatola rettangolare. Gli angoli degli angoli della cartone sono tutti angoli retti. Qual è il volume della scatola, in $\text{cm}^3$? A) $1\,500$ \quad B) $3\,000$ \quad C) $4\,500$ \quad D) $6\,000$ \quad E) $12\,000$
+> Il disegno accanto mostra un pezzo di cartone che verrà piegato e incollato lungo i bordi per formare una scatola rettangolare. Gli angoli agli spigoli del cartone sono tutti angoli retti. Quale sarà il volume della scatola, in $\text{cm}^3$?
+> A) $1\,500$ \quad B) $3\,000$ \quad C) $4\,500$ \quad D) $6\,000$ \quad E) $12\,000$
 
 ![[src_obm_2005_n2_f1__q10.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n2_f1#q10|src_obm_2005_n2_f1__Q10]]
 
 
 
@@ -335,11 +399,20 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quando l'addizione è distributiva sulla moltiplicazione: a+(b×c)=(a+b)×(a+c)*
+*Quando la somma è distributiva rispetto alla moltiplicazione: a+(b*c)=(a+b)*(a+c)*
 
-> $a$, $b$ e $c$ siano numeri reali. Per la proprietà distributiva della moltiplicazione rispetto all'addizione, è vero che $a\times(b+c)=(a\times b)+(a\times c)$. La distributività dell'addizione rispetto alla moltiplicazione, cioè $a+(b\times c)=(a+b)\times(a+c)$, non è sempre vera, ma vale solo se: A) $a=b=c=\dfrac{1}{3}$ o $a=0$ B) $a=b=c$ C) L'uguaglianza non si verifica mai D) $a+b+c=1$ o $a=0$ E) $a+b+c=0$
+> Siano $a$, $b$ e $c$ numeri reali. Per la proprietà distributiva della moltiplicazione rispetto all'addizione, vale $a\times(b+c)=(a\times b)+(a\times c)$. La proprietà distributiva dell'addizione rispetto alla moltiplicazione, cioè $a+(b\times c)=(a+b)\times(a+c)$, non è sempre vera, ma vale se e solo se:
+> A) $a=b=c=\dfrac{1}{3}$ oppure $a=0$
+> B) $a=b=c$
+> C) L'uguaglianza non si verifica mai
+> D) $a+b+c=1$ o $a=0$
+> E) $a+b+c=0$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n2_f1#q11|src_obm_2005_n2_f1__Q11]]
 
 
 
@@ -364,11 +437,17 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dicerture incrociate di origine di Paulistas/Baianos; tra tutte, il 20% afferma di Paulista; trova la percentuale vera di Paulistas*
+*Reclami incrociati di origine da parte di paulisti/baiani; tra tutti, il 20% dichiara di essere paulista; determinare la percentuale reale dei paulisti*
 
-> In una certa città accade un fatto interessante. Il 10% dei Baianos dice di essere Paulista e il 10% dei Paulista dice di essere Baiano. Tutti gli altri Paulistas e Baianos assumono la loro vera origine. Tra i Paulistas e i Baianos, $20\%$ dicono di essere Paulistas. Che percentuale rappresentano i veri Paulistas tra i Paulistas e i Baianos? A) $12.5\%$ \quad B) $18\%$ \quad C) $20\%$ \quad D) $22\%$ \quad E) $22.5\%$
+> In una certa città accade un fatto interessante. Il dieci per cento dei Baianos dice di essere Paulista, e il dieci per cento dei Paulista dice di essere Baiano. Tutti gli altri Paulista e Baianos presumono la propria vera origine. Tra i Paulista e i Baianos, $20\%$ dicono di essere Paulista. Quale percentuale rappresentano i veri Paulista tra i Paulista e i Baianos?
+> A) $12.5\%$ \quad B) $18\%$ \quad C) $20\%$ \quad D) $22\%$ \quad E) $22.5\%$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n2_f1#q12|src_obm_2005_n2_f1__Q12]]
 
 
 
@@ -394,13 +473,18 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due triangoli equilaterali in piedi su una linea con angoli di base 75 e 65; trovare angolo superiore x*
+*Due triangoli equilateri disposti su una retta, con angoli alla base di 75° e 65°; trovare l'angolo al vertice x*
 
-> Nella figura, i due triangoli sono equilaterali. Qual è il valore dell'angolo $x$? (I triangoli si trovano su una linea orizzontale, formando angoli di $75^\circ$ e $65^\circ$ con esso; $x$ è l'angolo al loro incrocio in alto.) A) $30^\circ$ \quad B) $40^\circ$ \quad C) $50^\circ$ \quad D) $60^\circ$ \quad E) $70^\circ$
+> Nella figura, i due triangoli sono equilateri. Qual è il valore dell'angolo $x$? (I triangoli poggiano su una linea orizzontale, formando con essa gli angoli $75^\circ$ e $65^\circ$; $x$ è l'angolo al loro punto di intersezione in alto.)
+> A) $30^\circ$ \quad B) $40^\circ$ \quad C) $50^\circ$ \quad D) $60^\circ$ \quad E) $70^\circ$
 
 ![[src_obm_2005_n2_f1__q13.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n2_f1#q13|src_obm_2005_n2_f1__Q13]]
 
 
 
@@ -425,11 +509,17 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integri O,B,M con tre equazioni prodotto/somma; trovare O+B+M*
+*Interi O, B, M con tre equazioni di prodotto/somma; trovare O+B+M*
 
-> Le lettere $O$, $B$ e $M$ rappresentano numeri interi. Se $O\times B\times M=240$, $O\times B+M=46$ e $O+B\times M=64$, qual è il valore di $O+B+M$? A) $19$ \quad B) $20$ \quad C) $21$ \quad D) $24$ \quad E) $36$
+> Le lettere $O$, $B$ e $M$ rappresentano numeri interi. Se $O\times B\times M=240$, $O\times B+M=46$ e $O+B\times M=64$, qual è il valore di $O+B+M$?
+> A) $19$ \quad B) $20$ \quad C) $21$ \quad D) $24$ \quad E) $36$
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n2_f1#q14|src_obm_2005_n2_f1__Q14]]
 
 
 
@@ -455,11 +545,18 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Saldi di serratore uguali a pezzi a forma di S (10,5,5,10 cm) utilizzando 20 m di bastone; il cui disegno è l'estremità del pannello*
+*Il fabbro salda pezzi a forma di S identici (10,5,5,10 cm) utilizzando 20 m di tondino; quale disegno rappresenta l'estremità del pannello?*
 
-> Un serratore salda le barre di metallo per produrre pezzi uguali che saranno uniti per formare il pannello di sotto. Il disegno laterale mostra le misure, in centimetri, di uno di questi pezzi (forma di zigzag S/zig con segmenti $10$, $5$, $5$, $10$). Il serratore utilizza esattamente $20$ metri di bastone per svolgere il suo lavoro. Quale dei disegni di seguito rappresenta la fine del pannello? (Le opzioni A-E sono disegni.)
+> Un fabbro salda delle barre di metallo per ottenere pezzi uguali che verranno uniti per formare il pannello qui sotto. Il disegno accanto mostra le misure, in centimetri, di uno di questi pezzi (una forma a S/zig-zag con i segmenti $10$, $5$, $5$, $10$). Il fabbro utilizza esattamente $20$ metri di barra per svolgere il suo lavoro. Quale dei disegni qui sotto rappresenta l'estremità del pannello? (Le opzioni A-E sono disegni.)
 
 ![[src_obm_2005_n2_f1__q15.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n2_f1#q15|src_obm_2005_n2_f1__Q15]]
 
 
 
@@ -484,11 +581,17 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre massimo di mesi in un anno che possono avere cinque domeniche*
+*Numero massimo di mesi in un anno che possono avere cinque domeniche*
 
-> In un anno, quante mesi hanno cinque domeniche al massimo? A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
+> In un anno, al massimo, quanti mesi hanno cinque domeniche?
+> A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n2_f1#q16|src_obm_2005_n2_f1__Q16]]
 
 
 
@@ -512,9 +615,17 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri di conteggio compresi tra 10 e 13000 di cifre consecutive in ordine crescente*
+*Conta i numeri compresi tra 10 e 13000 formati da cifre consecutive in ordine crescente*
 
-> Quanti numeri tra $10$ e $13000$, quando si leggono da sinistra a destra, sono formati da cifre consecutive in ordine crescente? Ad esempio, $456$ è uno di tali numeri, ma $7890$ non lo è. A) $10$ \quad B) $13$ \quad C) $18$ \quad D) $22$ \quad E) $25$
+> Quanti numeri compresi tra $10$ e $13000$, letti da sinistra a destra, sono formati da cifre consecutive in ordine crescente? Ad esempio, $456$ è un numero di questo tipo, ma $7890$ non lo è.
+> A) $10$ \quad B) $13$ \quad C) $18$ \quad D) $22$ \quad E) $25$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n2_f1#q17|src_obm_2005_n2_f1__Q17]]
 
 
 
@@ -543,11 +654,21 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rally driver: gambe 240,300,400 km a velocità di 40,75,80 km/h in ordine sconosciuto; tempo totale garantito*
+*Pilota di rally: tratti di 240, 300, 400 km a velocità di 40, 75, 80 km/h in ordine sconosciuto; tempo totale garantito*
 
-> Un conducente ha percorso tre gambe di rally, rispettivamente $240\,\text{km}$, $300\,\text{km}$ e $400\,\text{km}$. Le velocità medie sulle tre gambe erano $40\,\text{km/h}$, $75\,\text{km/h}$ e $80\,\text{km/h}$, ma non necessariamente in questo ordine. Possiamo garantire che il tempo totale, in ore, trascorso dal conducente sulle tre gambe sia: A) inferiore o uguale a $13$ ore B) superiore o uguale a $13$ ore e inferiore o uguale a $16$ ore C) superiore o uguale a $14$ ore e inferiore o uguale a $17$ ore D) superiore o uguale a $15$ ore e inferiore o uguale a $18$ ore E) superiore o uguale a $18$ ore
+> Un pilota ha percorso tre tappe di un rally, di lunghezza rispettivamente pari a $240\,\text{km}$, $300\,\text{km}$ e $400\,\text{km}$. Le velocità medie sulle tre tappe sono state $40\,\text{km/h}$, $75\,\text{km/h}$ e $80\,\text{km/h}$, ma non necessariamente in questo ordine. Possiamo garantire che il tempo totale, in ore, trascorso dal pilota sulle tre tappe è:
+> A) minore o uguale a $13$ ore
+> B) maggiore o uguale a $13$ ore e minore o uguale a $16$ ore
+> C) maggiore o uguale a $14$ ore e minore o uguale a $17$ ore
+> D) maggiore o uguale a $15$ ore e minore o uguale a $18$ ore
+> E) maggiore o uguale a $18$ ore
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n2_f1#q18|src_obm_2005_n2_f1__Q18]]
 
 
 
@@ -573,13 +694,18 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circoli più piccoli di uguale raggio r, centri a vertici di un quadrato, all'interno di un cerchio più grande; rapporto di aree grigie a/b*
+*Cerchi più piccoli di raggio uguale a r, con i centri nei vertici di un quadrato, all'interno di un cerchio più grande; rapporto tra le aree grigie a/b*
 
-> Nella figura, tutti i cerchi più piccoli hanno lo stesso raggio $r$ e i centri dei cerchi che toccano il cerchio più grande sono i vertici di un quadrato. Le zone grigie indicate nella figura sono $a$ e $b$. Quindi il rapporto $\dfrac{a}{b}$ è uguale: A) $\dfrac{1}{2}$ \quad B) $\dfrac{2}{3}$ \quad C) $1$ \quad D) $\dfrac{3}{2}$ \quad E) $2$
+> Nella figura, tutti i cerchi più piccoli hanno lo stesso raggio $r$ e i centri dei cerchi che toccano il cerchio più grande sono i vertici di un quadrato. Siano $a$ e $b$ le aree grigie indicate nella figura. Allora il rapporto $\dfrac{a}{b}$ è uguale a:
+> A) $\dfrac{1}{2}$ \quad B) $\dfrac{2}{3}$ \quad C) $1$ \quad D) $\dfrac{3}{2}$ \quad E) $2$
 
 ![[src_obm_2005_n2_f1__q19.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n2_f1#q19|src_obm_2005_n2_f1__Q19]]
 
 
 
@@ -604,11 +730,17 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Classe di 9 studenti, >=1 brasiliano; ogni 4 condividono una nazionalità, ogni 5 hanno <=3 di uno; quanti brasiliani*
+*Classe di 9 studenti, almeno 1 brasiliano; qualsiasi 4 condividono una nazionalità, qualsiasi 5 hanno al massimo 3 di una stessa nazionalità; quanti brasiliani?*
 
-> Un insegnante di inglese dà lezioni private a una classe di studenti $9$, almeno uno dei quali è brasiliano. Se l'insegnante sceglie gli studenti $4$ per fare una presentazione, il gruppo avrà almeno due studenti della stessa nazionalità; se sceglie gli studenti $5$, avrà al massimo tre studenti della stessa nazionalità. Quanti brasiliani ci sono in classe? A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) $5$
+> Un insegnante di inglese impartisce lezioni private a una classe di $9$ studenti, almeno uno dei quali è brasiliano. Se l'insegnante sceglie $4$ studenti per fare una presentazione, il gruppo avrà almeno due studenti della stessa nazionalità; se ne sceglie $5$, avrà al massimo tre studenti della stessa nazionalità. Quanti brasiliani ci sono nella classe?
+> A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) $5$
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n2_f1#q20|src_obm_2005_n2_f1__Q20]]
 
 
 
@@ -633,11 +765,17 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'orologio fa un plim ogni volta che una mano supera un'altra; conta i plini tra le 12h00m01 e le 23h59m59*
+*L'orologio emette un plim ogni volta che una lancetta supera l'altra; conta i plim tra le 12:00:01 e le 23:59:59*
 
-> Un orologio, con ore, minuti e seconde mani, fa un $plim$ ogni volta che una mano supera un'altra sul quadrante. Il numero di $plins$ registrati in un determinato giorno, nel periodo compreso tra $12$ ore e $1$ seconde e $23$ ore, $59$ minuti e $59$ secondi, è: A) $732$ \quad B) $1438$ \quad C) $1440$ \quad D) $1446$ \quad E) $1452$
+> Un orologio, con lancette delle ore, dei minuti e dei secondi, compie un $plim$ ogni volta che una lancetta supera un'altra sul quadrante. Il numero di $plins$ registrati in un determinato giorno, nel periodo compreso tra le $12$ ore e le $1$ secondi e le $23$ ore, $59$ minuti e $59$ secondi, è:
+> A) $732$ \quad B) $1438$ \quad C) $1440$ \quad D) $1446$ \quad E) $1452$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n2_f1#q21|src_obm_2005_n2_f1__Q21]]
 
 
 
@@ -663,13 +801,18 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Linea PQ tangente a N per circolare attraverso L,M,N; LM incontra PQ a R; LM=LN, angolo PNL=alfa<60; trova angolo LRP*
+*La retta PQ è tangente, in N, al cerchio passante per L, M, N; LM incontra PQ in R; LM = LN, angolo PNL = alfa < 60°; determinare l'angolo LRP*
 
-> Nella figura, la linea $PQ$ tocca a $N$ il cerchio che attraversa $L$, $M$ e $N$. La linea $LM$ taglia la linea $PQ$ a $R$. Se $LM=LN$ e la misura dell'angolo $PNL$ è $\alpha$, $\alpha<60^\circ$, qual è la misura dell'angolo $LRP$? A) $3\alpha-180^\circ$ \quad B) $180^\circ-2\alpha$ \quad C) $180^\circ-\alpha$ \quad D) $90^\circ-\alpha/2$ \quad E) $\alpha$
+> Nella figura, la retta $PQ$ tocca, in $N$, la circonferenza che passa per $L$, $M$ e $N$. La retta $LM$ interseca la retta $PQ$ in $R$. Se $LM=LN$ e la misura dell'angolo $PNL$ è $\alpha$, $\alpha<60^\circ$, qual è la misura dell'angolo $LRP$?
+> A) $3\alpha-180^\circ$ \quad B) $180^\circ-2\alpha$ \quad C) $180^\circ-\alpha$ \quad D) $90^\circ-\alpha/2$ \quad E) $\alpha$
 
 ![[src_obm_2005_n2_f1__q22.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n2_f1#q22|src_obm_2005_n2_f1__Q22]]
 
 
 
@@ -696,11 +839,19 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieri interi positivi x,y che soddisfano un'equazione radicale nidificata; trovare un possibile valore di y*
+*Numeri interi positivi x, y che soddisfano un'equazione con radicale annidato; trova un valore possibile di y*
 
-> I numeri interi positivi $x$ e $y$ soddisfano l'equazione $$\sqrt{x+\tfrac{1}{2}\sqrt{y}}-\sqrt{x-\tfrac{1}{2}\sqrt{y}}=1.$$ Quale delle alternative presenta un possibile valore di $y$? A) $5$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $9$
+> I numeri interi positivi $x$ e $y$ soddisfano l'equazione
+> $$\sqrt{x+\tfrac{1}{2}\sqrt{y}}-\sqrt{x-\tfrac{1}{2}\sqrt{y}}=1.$$
+> Quale delle alternative presenta un valore possibile di $y$?
+> A) $5$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $9$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n2_f1#q23|src_obm_2005_n2_f1__Q23]]
 
 
 
@@ -726,11 +877,19 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizionare i numeri scelti da 1,10 in cerchi bianchi in modo che la somma dei vicini sia un quadrato perfetto; 2 dato; trovare la somma totale*
+*Colloca i numeri scelti da 1 a 10 nei cerchi bianchi in modo che la somma dei numeri vicini sia un quadrato perfetto; ne sono dati 2; trova la somma totale*
 
-> Tra i numeri $1, 2, 3, 4, 5, 6, 7, 8, 9$ e $10$, selezionate alcuni e inseriteli nei cerchi bianchi in modo che la somma dei numeri in due cerchi vicini sia sempre un quadrato perfetto. Nota: il $2$ è già stato inserito in uno dei cerchi e non sono ammessi numeri ripetuti; inoltre, i cerchi separati dal rettangolo nero non sono vicini. La somma dei numeri inseriti in tutti i cerchi bianchi è: A) $36$ \quad B) $46$ \quad C) $47$ \quad D) $49$ \quad E) $55$
+> Tra i numeri $1, 2, 3, 4, 5, 6, 7, 8, 9$ e $10$, scegline alcuni e collocali nei cerchi bianchi in modo che la somma dei numeri in due cerchi adiacenti sia sempre un quadrato perfetto. Nota: l'$2$ è già stato collocato in uno dei cerchi, non sono ammessi numeri ripetuti; inoltre, i cerchi separati dal rettangolo nero non sono adiacenti. La somma dei numeri collocati in tutti i cerchi bianchi è:
+> A) $36$ \quad B) $46$ \quad C) $47$ \quad D) $49$ \quad E) $55$
 
 ![[src_obm_2005_n2_f1__q24.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n2_f1#q24|src_obm_2005_n2_f1__Q24]]
 
 
 
@@ -756,8 +915,16 @@ La differenza tra un miliardo di milioni e mille di milioni
 <div class="qlang-split" data-lang="it"></div>
 
 
-*blocco 1x2x3 laminato su una tavola 8x8 con le facce X, Y, Z in ordine verso il basso; quante cellule distinte sono state toccate*
+*Un blocco 1x2x3 è stato rotolato su una scacchiera 8x8, con le facce X, Y, Z rivolte verso il basso in ordine; quante celle distinte sono state toccate?*
 
-> Un blocco di dimensioni $1\times 2\times 3$ è posizionato su una tavola $8\times 8$, come mostra la figura, con una faccia $X$ di dimensioni $1\times 2$ rivolta verso il basso. Rotoliamo il blocco attorno a uno dei suoi bordi in modo che la faccia $Y$ sia girata verso il basso. Poi lo rotoliamo di nuovo, questa volta in modo che la faccia $Z$ sia girata verso il basso. Rotoliamo il blocco più volte, in varie direzioni sulla lavagna, in modo che le facce $X$, $Y$ e $Z$ siano girate verso il basso, sempre in questo ordine. Quanti piccoli quadrati della lavagna possono essere in contatto con il blocco? A) $18$ \quad B) $19$ \quad C) $20$ \quad D) $21$ \quad E) $22$
+> Un blocco di dimensioni $1\times 2\times 3$ viene collocato su una tavola $8\times 8$, come mostra la figura, con una faccia $X$ di dimensioni $1\times 2$ rivolta verso il basso. Facciamo rotolare il blocco attorno a uno dei suoi spigoli in modo che la faccia $Y$ risulti rivolta verso il basso. Poi lo facciamo rotolare di nuovo, questa volta in modo che la faccia $Z$ risulti rivolta verso il basso. Facciamo rotolare il blocco altre volte, in varie direzioni sulla tavola, in modo che le facce $X$, $Y$ e $Z$ risultino rivolte verso il basso, sempre in questo ordine. Quante diverse piccole caselle della tavola possono essere a contatto con il blocco?
+> A) $18$ \quad B) $19$ \quad C) $20$ \quad D) $21$ \quad E) $22$
 
 ![[src_obm_2005_n2_f1__q25.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2005_n2_f1#q25|src_obm_2005_n2_f1__Q25]]

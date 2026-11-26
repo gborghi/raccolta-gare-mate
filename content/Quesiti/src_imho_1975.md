@@ -32,12 +32,19 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazione che minimizza la somma dei quadrati delle differenze*
+*La permutazione minimizza la somma dei quadrati delle differenze*
 
 > Siano $x_1, x_2, \ldots, x_n$ e $y_1, y_2, \ldots, y_n$ numeri reali tali che
-> $$x_1 \ge x_2 \ge \cdots \ge x_n \quad \text{and} \quad y_1 \ge y_2 \ge \cdots \ge y_n.$$.
-> Si dimostri che, se $z_1, z_2, \ldots, z_n$ è un qualsiasi permutamento di $y_1, y_2, \ldots, y_n$, allora
-> $$\sum_{i=1}^{n}(x_i - y_i)^2 \le \sum_{i=1}^{n}(x_i - z_i)^2.$$.
+> $$x_1 \ge x_2 \ge \cdots \ge x_n \quad \text{and} \quad y_1 \ge y_2 \ge \cdots \ge y_n.$$
+> Dimostrare che, se $z_1, z_2, \ldots, z_n$ è una qualsiasi permutazione di $y_1, y_2, \ldots, y_n$, allora
+> $$\sum_{i=1}^{n}(x_i - y_i)^2 \le \sum_{i=1}^{n}(x_i - z_i)^2.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1975#q01|src_imho_1975__Q01]]
 
 
 
@@ -62,11 +69,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successione infinita esprimibile come xp + yq infinite volte*
+*Successione infinita esprimibile come xp + yq un numero infinito di volte*
 
-> Sia $a_1, a_2, a_3, \ldots$ una successione infinita crescente di interi positivi. Si dimostri che per ogni $p \ge 1$ esistono infiniti $a_m$ che possono essere scritti nella forma
+> Sia $a_1, a_2, a_3, \ldots$ una successione infinita crescente di interi positivi. Dimostrare che per ogni $p \ge 1$ esistono infiniti $a_m$ che possono essere scritti nella forma
 > $$a_m = x \cdot a_p + y \cdot a_q$$
 > con $x, y$ interi positivi e $q > p$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1975#q02|src_imho_1975__Q02]]
 
 
 
@@ -89,9 +103,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizione sull'angolo in un triangolo con triangoli costruiti esternamente*
+*Condizione angolare in un triangolo con triangoli costruiti all'esterno*
 
-> Su ciascun lato di un triangolo arbitrario $ABC$, vengono costruiti esternamente dei triangoli $ABR$, $BCP$, $CAQ$ tali che $\angle CBP = \angle CAQ = 45^\circ$, $\angle BCP = \angle ACQ = 30^\circ$, $\angle ABR = \angle BAR = 15^\circ$. Si dimostri che $\angle QRP = 90^\circ$ e $QR = RP$.
+> Sui lati di un triangolo arbitrario $ABC$, vengono costruiti esternamente i triangoli $ABR$, $BCP$, $CAQ$ con $\angle CBP = \angle CAQ = 45^\circ$, $\angle BCP = \angle ACQ = 30^\circ$, $\angle ABR = \angle BAR = 15^\circ$. Dimostrare che $\angle QRP = 90^\circ$ e $QR = RP$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1975#q03|src_imho_1975__Q03]]
 
 
 
@@ -116,7 +137,14 @@ level: IMO
 
 *Somma delle cifre di 4444^4444 iterata*
 
-> Quando $4444^{4444}$ viene scritto nella notazione decimale, la somma delle sue cifre è $A$. Sia $B$ la somma delle cifre di $A$. Determinare la somma delle cifre di $B$. ($A$ e $B$ sono scritti nella notazione decimale.)
+> Quando $4444^{4444}$ è scritto in notazione decimale, la somma delle sue cifre è $A$. Sia $B$ la somma delle cifre di $A$. Trovare la somma delle cifre di $B$. ($A$ e $B$ sono scritti in notazione decimale.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1975#q04|src_imho_1975__Q04]]
 
 
 
@@ -139,9 +167,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti su una circonferenza con distanze reciproche razionali*
+*Punti su una circonferenza con distanze mutue razionali*
 
-> Si stabilisca, motivando la risposta, se è possibile trovare 1975 punti sulla circonferenza di raggio unitario in modo che la distanza tra due qualsiasi di essi sia un numero razionale.
+> Determinare, fornendo una dimostrazione, se sia o meno possibile trovare 1975 punti sulla circonferenza di un cerchio di raggio unitario tali che la distanza tra due qualunque di essi sia un numero razionale.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_imho_1975#q05|src_imho_1975__Q05]]
 
 
 
@@ -170,12 +205,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutti i polinomi omogenei che soddisfano la condizione di somma ciclica*
+*Trovare tutti i polinomi omogenei che soddisfano la condizione della somma ciclica*
 
-> Determinare tutti i polinomi $P$ in due variabili, con le seguenti proprietà:
-> (i) per un intero positivo $n$ e tutti i numeri reali $t, x, y$:
+> Trovare tutti i polinomi $P$ in due variabili, con le seguenti proprietà: (i) per un intero positivo $n$ e per tutti i reali $t, x, y$:
 > $$P(tx, ty) = t^n P(x, y)$$
-> (cioè, $P$ è omogeneo di grado $n$),
-> (ii) per tutti i numeri reali $a, b, c$:
+> (cioè, $P$ è omogeneo di grado $n$), (ii) per ogni $a, b, c$ reale:
 > $$P(b+c, a) + P(c+a, b) + P(a+b, c) = 0,$$
 > (iii) $P(1, 0) = 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1975#q06|src_imho_1975__Q06]]

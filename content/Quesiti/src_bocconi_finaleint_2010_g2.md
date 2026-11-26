@@ -34,11 +34,16 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Count the dominoes with exactly 6 pips in a set from 0-0 to 6-6.*
+*Count and domino with exactly 6 points in a set at 0-0 to 6-6.*
 
-> Matilde has found a domino game belonging to her grandfather. This complete set contains the 28 dominoes from $0$-$0$ to $6$-$6$. Matilde enjoys adding up the pips appearing on each domino. For example, the two dominoes $\boxed{3|2}$ and $\boxed{5|2}$ have exactly $4$ pips altogether. How many dominoes have exactly $6$ pips?
+> Matilde has found her grandfather's domino set. This complete set contains the 28 dominoes from $0$-$0$ to $6$-$6$. Matilde enjoys adding up the dots on each domino. For example, the two dominoes $\boxed{3|2}$ and $\boxed{5|2}$ add up to exactly $4$ dots. How many dominoes add up to exactly $6$ dots?
 
-**Answer:** 4
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q01|src_bocconi_finaleint_2010_g2__Q01]]
 
 
 
@@ -62,11 +67,16 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Render four cards to get the largest number possible.*
+*Rearrange four cards to obtain the largest possible number.*
 
-> If the four $\boxed{2}\;\boxed{0}\;\boxed{352}\;\boxed{36}$ cards are drawn next to each other as shown in the drawing, the number $2035236$ is read. What is the largest number that can be formed by arranging these four cards differently?
+> When the four cards $\boxed{2}\;\boxed{0}\;\boxed{352}\;\boxed{36}$ are placed side by side as in the drawing, the number $2035236$ is read. What is the largest number that can be formed by arranging these four cards in a different way?
 
-**Answer:** 3 635 220
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q02|src_bocconi_finaleint_2010_g2__Q02]]
 
 
 
@@ -89,11 +99,15 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find the age of Alice.
+*Age problem: Two years ago, Alice and Alain together were 20 years old; today Alain is 10. Find Alice's age.*
 
-> Two years ago, Alice and Alain were two years apart. Today, Alain is $10$ years old. What's Alice's age?
+> Two years ago, Alice and Alain together were $20$ years old. Today, Alain is $10$ years old. How old is Alice?
 
-**Answer:** 14
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q03|src_bocconi_finaleint_2010_g2__Q03]]
 
 
 
@@ -117,11 +131,16 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Find the price of three magazines (€4.5.6) given two conditions and that Star-jeux costs less than Mega-jeux.*
+*Find the price of three magazines (4, 5, 6 euros) given two conditions, and that Star-jeux costs less than Mega-Jeux.*
 
-> Matilde has bought three game magazines: Mega-jeux, Planete-jeux and Star-jeux. The prices of these magazines are, in disorder, $4$ euro, $5$ euro and $6$ euro. If she had only bought Mega-jeux and Planete-jeux, Matilde would have paid a different amount than $10$ euro. If she had only bought Planete-Jeux and Star-Jeux, Matilde would have paid a different sum of $10$ euro. And what's the price of each magazine, knowing that Star Games costs less than Mega Games?
+> Matilde has bought three gaming magazines: Mega-jeux, Planete-Jeux, and Star-jeux. The prices of these magazines, in no particular order, are $4$ euros, $5$ euros, and $6$ euros. If Matilde had bought only Mega-jeux and Planete-Jeux, she would have paid an amount different from $10$ euros. If Matilde had bought only Planete-Jeux and Star-jeux, she would have paid an amount different from $10$ euros. What is the price of each magazine, given that Star-jeux costs less than Mega-Jeux?
 
-**Answer:** Mega-jeux 6, Planete-Jeux 5, Star-jeux 4
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q04|src_bocconi_finaleint_2010_g2__Q04]]
 
 
 
@@ -145,11 +164,16 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 <div class="qlang-split" data-lang="en"></div>
 
 
-€1 and €2 coins (7.5 g and 8.5 g) weigh a total of 87.5 g: how much?
+*1- and 2-euro coins (7.5 g and 8.5 g) weigh a total of 87.5 g: how many euros?*
 
-> In my wallet I have only euro coins, each weighing $7,5$ grams, and euro coins, each weighing $8,5$ grams. Knowing that my coins weigh in total $87,5$ grams, how many euros do I have in my wallet?
+> In my wallet, I only have one-euro coins, each weighing $7,5$ grams, and two-euro coins, each weighing $8,5$ grams. Given that my coins weigh a total of $87,5$ grams, how many euros do I have in my wallet?
 
-**Answer:** 16
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q05|src_bocconi_finaleint_2010_g2__Q05]]
 
 
 
@@ -173,11 +197,16 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Crypto-addition: use all digits from 1 to 9 except one, in the column from smallest to largest, sum 2010.*
+*Crypto addition: use all the digits from 1 to 9 except one, arranged in columns from smallest to largest, with a total of 2010.*
 
-> Substitute the columns with all digits from $1$ to $9$ except one so that: in each column, the digits of the operation are written from top to bottom from smallest to largest; the addition is accurate. The addition is $\_\,\_\,\_\,\_ + \_\,\_ + \_\,\_ = 2010$.
+> Replace the dashes with all the digits from $1$ to $9$ except one, so that: in each column, the digits of the operation are written from top to bottom, from smallest to largest; the addition is exact. The addition is $\_\,\_\,\_\,\_ + \_\,\_ + \_\,\_ = 2010$.
 
-**Answer:** 1842 + 73 + 95 = 2010 ; 1925 + 37 + 48 = 2010
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q06|src_bocconi_finaleint_2010_g2__Q06]]
 
 
 
@@ -201,11 +230,16 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Logical guess Oui-Oui/Non-No: complete the three missing names in the declarations.*
+*Yoyo/Nono logical riddle: complete the three missing names in the statements.*
 
-> There are two types of people in LogicLand, the Oui-Oui who always tell the truth and the Non-No who never tell the truth. Two Oui-Oui and two No-No each make a statement about one of the other three. I'm going to tell you something. and a Oui-Oui. Bob: Daniel and a Oui-Oui. Camille:  ... and a Oui-Oui. Daniel:  ... and a Oui-Oui. Complete the three missing names.
+> In LogicLand, there are two types of people: Oui-Ouis, who always tell the truth, and Non-Nons, who never tell the truth. Two Oui-Ouis and two Non-Nons each make a statement about one of the other three. Alice: " ... and an Oui-Oui ". Bob: " Daniel is an Oui-Oui ". Camille: " ... and an Oui-Oui ". Daniel: " ... and an Oui-Oui ". Complete the three missing names.
 
-**Answer:** Alice: Camille; Camille: Alice; Daniel: Bob
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q07|src_bocconi_finaleint_2010_g2__Q07]]
 
 
 
@@ -229,11 +263,16 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To divide 27 shells into heaps in which no heaps are multiples of 3, maximizing the product.*
+*Partition 27 shells into piles such that no pile is a multiple of 3, maximizing the product.*
 
-> Tatiana collected shells on the beach. It divides them into lots so that the number of shells in a pile is never a multiple of $3$. The product of all these numbers and maximum: how much is it worth?
+> Tatiana has collected $27$ shells on the beach. She divides them into piles so that the number of shells in any pile is never a multiple of $3$. The product of all these numbers is maximal: what is its value?
 
-**Answer:** 10 240
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q08|src_bocconi_finaleint_2010_g2__Q08]]
 
 
 
@@ -257,11 +296,16 @@ Two years ago, Alice and Alain were 20 years old together; now Alain is 10. Find
 <div class="qlang-split" data-lang="en"></div>
 
 
-Find the smallest multiple of 2010 whose destination is written without using the digit 0.*
+*Find the smallest multiple of 2010 whose half is written without using the digit 0.*
 
-> The goal of $2010$, equal to $1005$, is written with two  $0$ . What is the smallest multiple of $2010$ whose destination is written without using the figure  $0$ ? Answer $0$ if you think that's impossible.
+> The half of $2010$, which is equal to $1005$, is written with two "$0$". What is the smallest multiple of $2010$ whose half is written without using the digit "$0$"? Answer $0$ if you think it is impossible.
 
-**Answer:** 46 230
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q09|src_bocconi_finaleint_2010_g2__Q09]]
 
 
 
@@ -285,11 +329,16 @@ Find the smallest multiple of 2010 whose destination is written without using th
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Succession of 3-digit numbers where each term is obtained by multiplying the previous one by a fixed integer factor >1; with maximum number of terms, find the largest term.*
+*A sequence of three-digit numbers in which each term is obtained by multiplying the preceding term by a fixed integer factor >1; with the maximum possible number of terms, find the largest term.*
 
-> The terms of the Prosper Geoffroy succession are integers of $3$ digits. Each term (other than the smallest of the succession) is obtained by multiplying the previous one by a number (forcibly whole, but strictly higher than $1$) that is always the same. If the number of terms in the succession is as large as possible, which is the largest term?
+> The terms of Prosper Geoffroy's sequence are integers with $3$ digits. Each term (other than the smallest term in the sequence) is obtained by multiplying the preceding term by a number (necessarily an integer but strictly greater than $1$) that is always the same. If the number of terms in the sequence is as large as possible, what is the largest of the terms?
 
-**Answer:** 972
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q10|src_bocconi_finaleint_2010_g2__Q10]]
 
 
 
@@ -315,13 +364,18 @@ Find the smallest multiple of 2010 whose destination is written without using th
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cross inscribed in a circle 10 cm in diameter: find the perimeter of the cross.*
+*A cross inscribed in a circle with a diameter of 10 cm: find the perimeter of the cross.*
 
-> The diameter of the circle is $10$ cm. How much is the perimeter of the cross in centimetres?
+> The diameter of the circle is $10$ cm. What is the perimeter of the cross, in cm?
 
 ![[src_bocconi_finaleint_2010_g2__q11.png]]
 
-**Answer:** 30
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q11|src_bocconi_finaleint_2010_g2__Q11]]
 
 
 
@@ -345,11 +399,16 @@ Find the smallest multiple of 2010 whose destination is written without using th
 <div class="qlang-split" data-lang="en"></div>
 
 
-Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and every four consecutive sums 2010. Find the number in the sixth box.
+*A band of 11 cells: the first is 20, the last is 10; the sum of the numbers that are neither 10 nor 20 is 4444, and the sum of any four consecutive numbers is 2010. Find the number in the sixth cell.*
 
-> In each of the eleven boxes of a band, a number is written. In the first box the number $20$ is written. In the 11th box the number $10$ is written. The sum of all numbers that are not equal to $10$ or $20$ and equal to $4444$. The sum of four numbers in consecutive boxes shall always be $2010$. What's the number in box six?
+> In each of the eleven boxes of a row, a number is written. In the first box, the number $20$ is written. In the eleventh box, the number $10$ is written. The sum of all the numbers that are neither equal to $10$ nor equal to $20$ is equal to $4444$. The sum of four numbers placed in consecutive boxes must always be $2010$. What number is written in the sixth box?
 
-**Answer:** 484
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q12|src_bocconi_finaleint_2010_g2__Q12]]
 
 
 
@@ -373,11 +432,16 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of three numbers not divisible by 10 and narrowly less than 201 equal to 201000: find their sum.*
+*The product of three numbers that are not divisible by 10 and are strictly less than 201 equals 201000: find their sum.*
 
-> The product of three numbers not divisible by $10$ and narrowly less than $201$ and equal to $201000$. How much is their sum?
+> The product of three numbers that are not divisible by $10$, are strictly less than $201$, and is equal to $201000$. What is their sum?
 
-**Answer:** 216, 271
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q13|src_bocconi_finaleint_2010_g2__Q13]]
 
 
 
@@ -403,13 +467,18 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Color five boxes (on a row 1-15) above number trays so that the five max-medium differences are equal to the mean-min differences and all distinct; find them in increasing order.*
+*Color five cells (in a row 1–15) above triples of numbers so that the five max–median differences equal the median–min differences and are all distinct; find them in ascending order.*
 
-> Each box above a line number shall be coloured. Each color must be used above three numbers so that the difference between the largest and the middle is equal to the difference between the middle and the smallest. The five differences must all be different from each other. What are they, in ascending order? (the row has the numbers $1,2,3,4,5,6,7,8,9,10,11,12,13,14,15$)
+> Every cell located above a number in the row must be colored. Each color must be used above three numbers so that the difference between the largest and the middle number equals the difference between the middle and the smallest number. All five differences must be different from one another. What are they in ascending order? (The row contains the numbers $1,2,3,4,5,6,7,8,9,10,11,12,13,14,15$)
 
 ![[src_bocconi_finaleint_2010_g2__q14.png]]
 
-**Answer:** 1, 2, 4, 5, 7
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q14|src_bocconi_finaleint_2010_g2__Q14]]
 
 
 
@@ -433,11 +502,16 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of 8 digits all different equal to the square of the sum of the two 4-digit numbers obtained by cutting it to the target.*
+*An 8-digit number with all distinct digits, equal to the square of the sum of the two 4-digit numbers obtained by splitting it in half.*
 
-> Mathias found an eight-digit number all different from each other equal to the square of the sum of the two four-digit numbers obtained by cutting it into two (formed respectively with the four digits to the left and the four digits to the right of the eight-digit number). Find out what Mathias' number is.
+> Mathias has found an eight-digit number, all of whose digits are different from one another, that is equal to the square of the sum of the two four-digit numbers obtained by splitting it in two (the two four-digit numbers being formed respectively from the four digits on the left and the four digits on the right of the eight-digit number). Find Mathias's number.
 
-**Answer:** 60 481 729
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q15|src_bocconi_finaleint_2010_g2__Q15]]
 
 
 
@@ -463,13 +537,18 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Set the integers 0 to 9 in the ten circles so that the sums of the ten numbers in the aligned circles are equal.*
+*Arrange the integers from 0 to 9 in the ten circles so that the ten sums of the numbers in the aligned circles are equal.*
 
-> You have the integers from $0$ to $9$ in the ten circles. The sum of the 10 numbers in three aligned circles must be equal.
+> Arrange the integers from $0$ to $9$ in the ten circles. The ten sums of the numbers placed in three aligned circles must be equal.
 
 ![[src_bocconi_finaleint_2010_g2__q16.png]]
 
-**Answer:** 2 solutions
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q16|src_bocconi_finaleint_2010_g2__Q16]]
 
 
 
@@ -495,13 +574,18 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Convex polyhedron with 60 identical faces (with short/long edges and data angles): from which three short edges start at the vertices.*
+*A convex polyhedron with 60 identical faces (with short/long edges and given angles): from how many vertices do three short edges emanate?*
 
-> The solid of Penta Gone and a convex polyhedron that has 60 identical faces. The figure represents each of these faces. The three consecutive small shoots measure the same length. The two consecutive large beams measure the same length, forming between them an angle measuring, less than $67^\circ\,28'$, twice each of the other four angles, each measuring less than $118^\circ\,16'$. From how many vertices of the polyhedron do three small spikes start?
+> Penta Gone's solid is a convex polyhedron with sixty identical faces. The figure represents each of these faces. The three small consecutive edges are of the same length. The two large consecutive edges are of the same length and form between themselves an angle that is, to within $67^\circ\,28'$, twice each of the other four angles, each of which measures, to within $118^\circ\,16'$. From how many vertices of the polyhedron do three small edges emanate?
 
 ![[src_bocconi_finaleint_2010_g2__q17.png]]
 
-**Answer:** 20
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q17|src_bocconi_finaleint_2010_g2__Q17]]
 
 
 
@@ -525,8 +609,13 @@ Band of 11 boxes: first 20, last 10, sum of the numbers in 10 of 20 is 4444, and
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Circular girder of 65 lamps with signal propagation rule; after several operations all lamps are lit again for the first time.*
+*A circular garland of 65 lamps with a signal propagation rule: after how many operations are all the lamps lit again for the first time?*
 
-> An electric guzzler has $65$ lamps. Each lamp may be switched off or on (two states). The garland and the circle: you choose a starting lamp, then a direction. Once it passes through all the lamps, the signal spreads to the starting lamp, and so on. One operation consists of passing the signal from a lamp to the following: if the lamp that leaves and turns on, then the one to which it is directed changes state; if the lamp that leaves and turns off, then the one to which it is directed does not change state. Before the first operation, all the lamps are lit. After how many operations will all the lamps be turned on again for the first time?
+> An electric garland has $65$ lamps. Each lamp can be off or on (two states). The garland is circular: one chooses a starting lamp and then a direction. Once the signal has passed through all the lamps, it propagates to the starting lamp, and so on. An operation consists of making the signal pass from one lamp to the next: if the lamp being left is on, then the lamp the signal is heading toward changes state; if the lamp being left is off, then the lamp the signal is heading toward does not change state. Before the first operation, all the lamps are on. After how many operations will all the lamps be on again for the first time?
 
-**Answer:** 4161
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_ricorsione|Recursion]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g2#q18|src_bocconi_finaleint_2010_g2__Q18]]

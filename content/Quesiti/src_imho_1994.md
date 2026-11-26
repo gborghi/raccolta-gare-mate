@@ -32,8 +32,15 @@ level: IMO
 
 *Elementi distinti di {1..n} con condizione sulla somma a coppie*
 
-> Siano $m$ e $n$ numeri interi positivi. Siano $a_1, a_2, \ldots, a_m$ elementi distinti di $\{1, 2, \ldots, n\}$ tali che, ogni volta che $a_i + a_j \le n$ per alcuni $i, j$, $1 \le i \le j \le m$, esiste $k$, $1 \le k \le m$, con $a_k = a_i + a_j$. Si dimostri che
+> Siano $m$ e $n$ numeri interi positivi. Siano $a_1, a_2, \ldots, a_m$ elementi distinti di $\{1, 2, \ldots, n\}$ tali che, ogni volta che $a_i + a_j \le n$ per qualche $i, j$, $1 \le i \le j \le m$, esistano $k$, $1 \le k \le m$, con $a_k = a_i + a_j$. Dimostrare che
 > $$a_1 + a_2 + \cdots + a_m \ge \frac{n+1}{2}.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1994#q01|src_imho_1994__Q01]]
 
 
 
@@ -60,15 +67,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isoscele ABC con AB = AC; condizione di perpendicolarità*
+*Triangolo isoscele ABC con AB=AC; condizione di perpendicolarità*
 
-> Sia $ABC$ un triangolo isoscele con $AB = AC$. Si supponga che:
->
-> 1. $M$ sia il punto medio di $BC$ e $O$ sia un punto sulla retta $AM$ tale che $OB$ sia perpendicolare a $AB$;
-> 2. $Q$ sia un punto arbitrario sul segmento $BC$ diverso da $B$ e da $C$;
-> 3. $E$ appartenga alla retta $AB$ e $F$ appartenga alla retta $AC$ in modo che $E$, $Q$, $F$ siano distinti e allineati.
->
-> Si dimostri che $OQ$ è perpendicolare a $EF$ se e solo se $QE = QF$.
+> $ABC$ è un triangolo isoscele con $AB = AC$. Si supponga che
+> 1. $M$ sia il punto medio di $BC$ e $O$ sia il punto sulla retta $AM$ tale che $OB$ sia perpendicolare a $AB$;
+> 2. $Q$ sia un punto arbitrario sul segmento $BC$, diverso da $B$ e da $C$;
+> 3. $E$ giaccia sulla retta $AB$ e $F$ giaccia sulla retta $AC$ in modo che $E$, $Q$, $F$ siano distinti e allineati.
+> Dimostrare che $OQ$ è perpendicolare a $EF$ se e solo se $QE = QF$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1994#q02|src_imho_1994__Q02]]
 
 
 
@@ -95,11 +107,16 @@ level: IMO
 
 *Rappresentazioni binarie con esattamente tre 1; esistenza di k*
 
-> Per ogni intero positivo $k$, sia $f(k)$ il numero di elementi nell'insieme $\{k+1, k+2, \ldots, 2k\}$ la cui rappresentazione in base $2$ contiene esattamente tre cifre uguali a $1$.
->
-> (a) Si dimostri che, per ogni intero positivo $m$, esiste almeno un intero positivo $k$ tale che $f(k) = m$.
->
+> Per ogni intero positivo $k$, si ponga $f(k)$ uguale al numero di elementi dell'insieme $\{k+1, k+2, \ldots, 2k\}$ la cui rappresentazione in base $2$ contiene esattamente tre $1$.
+> (a) Dimostrare che, per ogni intero positivo $m$, esiste almeno un intero positivo $k$ tale che $f(k) = m$.
 > (b) Determinare tutti gli interi positivi $m$ per i quali esiste esattamente un $k$ tale che $f(k) = m$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1994#q03|src_imho_1994__Q03]]
 
 
 
@@ -124,11 +141,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le coppie ordinate (m,n) di interi positivi tali che (n^3+1)/(mn-1) sia intero*
+*Coppie di interi positivi per cui (n³+1)/(mn−1) è intero*
 
 > Determinare tutte le coppie ordinate $(m, n)$ di interi positivi tali che
 > $$\frac{n^3 + 1}{mn - 1}$$
-> sia un numero intero.
+> sia un intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_imho_1994#q04|src_imho_1994__Q04]]
 
 
 
@@ -153,11 +177,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale sui numeri reali maggiori di -1*
+*Equazione funzionale sui reali maggiori di -1*
 
-> Sia $S$ l'insieme dei numeri reali strettamente maggiori di $-1$. Determinare tutte le funzioni $f: S \to S$ che soddisfano le seguenti due condizioni:
-> 1. $f(x + f(y) + xf(y)) = y + f(x) + yf(x)$ per ogni $x$ e $y$ appartenenti a $S$;
-> 2. $\dfrac{f(x)}{x}$ è strettamente crescente in ciascuno degli intervalli $-1 < x < 0$ e $0 < x$.
+> Sia $S$ l'insieme dei numeri reali strettamente maggiori di $-1$. Determinare tutte le funzioni $f: S \to S$ che soddisfano le due condizioni:
+> 1. $f(x + f(y) + xf(y)) = y + f(x) + yf(x)$ per ogni $x$ e $y$ in $S$;
+> 2. $\dfrac{f(x)}{x}$ è strettamente crescente su ciascuno degli intervalli $-1 < x < 0$ e $0 < x$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1994#q05|src_imho_1994__Q05]]
 
 
 
@@ -180,6 +211,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sia A un insieme di interi positivi; il prodotto delle sottopotenze con k elementi è un prodotto di k numeri primi*
+*Insieme A di numeri interi positivi; il prodotto dei sottoinsiemi di k elementi è un prodotto di k numeri primi*
 
-> Si dimostri che esiste un insieme $A$ di interi positivi con la seguente proprietà: per ogni insieme infinito $S$ di numeri primi, esistono due interi positivi $m \in A$ e $n \notin A$ tali che ciascuno di essi è prodotto di $k$ elementi distinti dell'insieme $S$, per un certo $k \ge 2$.
+> Dimostrare che esiste un insieme $A$ di numeri interi positivi con la seguente proprietà: per ogni insieme infinito $S$ di numeri primi, esistono due numeri interi positivi $m \in A$ e $n \notin A$, ciascuno dei quali è un prodotto di $k$ elementi distinti di $S$ per un certo $k \ge 2$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1994#q06|src_imho_1994__Q06]]

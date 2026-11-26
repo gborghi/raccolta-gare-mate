@@ -30,11 +30,16 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza geometrica con termini dati, trovare il valore di registro*
+*Successione geometrica con termini dati: trovare il valore del logaritmo*
 
-> (Pagina A, Parte I Q1) Se si considera la sequenza geometrica $\{a_n\}$, $a_8 = 13$, $a_{12} = 1$, il valore di $\log_{a_{13}} 13$ è $\underline{\qquad}$.
+> (Paper A, Part I Q1) Dato la successione geometrica $\{a_n\}$, $a_8 = 13$, $a_{12} = 1$, allora il valore di $\log_{a_{13}} 13$ è $\underline{\qquad}$.
 
-**Risposta:** -4
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc-first-round_2020#q01|src_cn_cmc-first-round_2020__Q01]]
 
 
 
@@ -58,11 +63,16 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti finali dell'ellisse e punto foci condizione del prodotto, rapporto di ricerca*
+*Condizione del prodotto scalare per gli estremi e i fuochi dell'ellisse: trovare il rapporto*
 
-> (Paper A, parte I Q2) Nell'ellisse $\Gamma$, $A$ è un punto di fine dell'asse maggiore, $B$ è un punto di fine dell'asse minore e $F_1$, $F_2$ sono i foci. Se $\overrightarrow{AF_1} \cdot \overrightarrow{AF_2} + \overrightarrow{BF_1} \cdot \overrightarrow{BF_2} = 0$, il valore di $\dfrac{|AB|}{|F_1F_2|}$ è $\underline{\qquad}$.
+> (Carta A, Parte I Q2) Nell'ellisse $\Gamma$, $A$ è un estremo dell'asse maggiore, $B$ è un estremo dell'asse minore, e $F_1$, $F_2$ sono i fuochi. Se $\overrightarrow{AF_1} \cdot \overrightarrow{AF_2} + \overrightarrow{BF_1} \cdot \overrightarrow{BF_2} = 0$, allora il valore di $\dfrac{|AB|}{|F_1F_2|}$ è $\underline{\qquad}$.
 
-**Risposta:** \frac{\sqrt{2}}{2}
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2020#q02|src_cn_cmc-first-round_2020__Q02]]
 
 
 
@@ -86,11 +96,16 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio di sottoinsiemi di {1,...,20} con almeno 2 integri consecutivi*
+*Conta i sottoinsiemi di {1,...,20} che contengono almeno 2 interi consecutivi*
 
-> (Paper B, parte I Q3) Supponiamo $X = \{1, 2, \ldots, 20\}$. $A$ è un sottoinsieme di $X$. Il numero di elementi di $A$ è almeno $2$ e tutti gli elementi di $A$ possono essere organizzati come integri positivi consecutivi. Poi il numero di tali set $A$ è $\underline{\qquad}$.
+> (Carta B, Parte I Q3) Si supponga $X = \{1, 2, \ldots, 20\}$. $A$ è un sottoinsieme di $X$. Il numero di elementi di $A$ è almeno $2$ e tutti gli elementi di $A$ possono essere disposti come interi positivi consecutivi. Allora il numero di tali insiemi $A$ è $\underline{\qquad}$.
 
-**Risposta:** 190
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-first-round_2020#q03|src_cn_cmc-first-round_2020__Q03]]
 
 
 
@@ -114,11 +129,16 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ratio numero complesso reale, ritrovare il modulo minimo spostato*
+*Rapporto di numeri complessi reale, trova il modulo minimo spostato*
 
-> (Paper A, parte I Q4) Il $z$ deve essere un numero complesso. Se $\dfrac{z - 2}{z - \mathrm{i}}$ è un numero reale ($\mathrm{i}$ è l'unità immaginaria), allora il minimo di $|z + 3|$ è $\underline{\qquad}$.
+> (Paper A, Part I Q4) Sia $z$ un numero complesso. Se $\dfrac{z - 2}{z - \mathrm{i}}$ è un numero reale ($\mathrm{i}$ è l'unità immaginaria), allora il minimo di $|z + 3|$ è $\underline{\qquad}$.
 
-**Risposta:** \sqrt{5}
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2020#q04|src_cn_cmc-first-round_2020__Q04]]
 
 
 
@@ -142,11 +162,16 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi permutazioni di un insieme di integri gaussiani di 9 elementi con moduli non in diminuzione*
+*Conta le permutazioni di un insieme di 9 numeri interi gaussiani con moduli non decrescenti*
 
-> (Paper B, Parte I Q5) Lasciate che l'elemento $9$ sia composto da $X = \{a + b\mathrm{i} \mid a, b \in \{1, 2, 3\}\}$, con $\mathrm{i}$ l'unità immaginaria. $\pi = (z_1, z_2, \ldots, z_9)$ è una permutazione di tutti gli elementi di $X$, che soddisfa $|z_1| \le |z_2| \le \cdots \le |z_9|$. Il numero di tali permutazioni $\pi$ è $\underline{\qquad}$.
+> (Paper B, Part I Q5) Sia $X = \{a + b\mathrm{i} \mid a, b \in \{1, 2, 3\}\}$ l'insieme degli elementi $9$, con $\mathrm{i}$ che rappresenta l'unità immaginaria. $\pi = (z_1, z_2, \ldots, z_9)$ è una permutazione di tutti gli elementi in $X$, che soddisfa $|z_1| \le |z_2| \le \cdots \le |z_9|$. Il numero di tali permutazioni $\pi$ è $\underline{\qquad}$.
 
-**Risposta:** 8
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2020#q05|src_cn_cmc-first-round_2020__Q05]]
 
 
 
@@ -169,11 +194,15 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tetraedro regolare, area di sezione trasversale di sfera attraverso i punti di mezzo del bordo*
+*Tetraedro regolare, area della sezione trasversale sferica passante per i punti medi degli spigoli*
 
-> (Paper A, parte I Q6) Supponiamo che tutti i bordi della piramide triangolare regolare $P$-$ABC$ abbiano lunghezza $1$ e $L$, $M$, $N$ siano i punti medi dei bordi $PA$, $PB$ e $PC$, rispettivamente. L'area della sezione trasversale della sfera circoscritta di questa piramide triangolare regolare intercettata dal piano $LMN$ è $\underline{\qquad}$.
+> (Carta A, Parte I Q6) Si supponga che tutti i spigoli della piramide triangolare regolare $P$-$ABC$ abbiano lunghezza $1$ e che $L$, $M$, $N$ siano i punti medi degli spigoli $PA$, $PB$ e $PC$, rispettivamente. L'area della sezione della sfera circoscritta a questa piramide triangolare regolare, determinata dal piano $LMN$, è $\underline{\qquad}$.
 
-**Risposta:** \frac{\pi}{3}
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2020#q06|src_cn_cmc-first-round_2020__Q06]]
 
 
 
@@ -197,11 +226,16 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatore convex con condizione vettoriale sul punto P, trovare rapporto di superficie*
+*Quadrilatero convesso con condizione vettoriale sul punto P: trovare il rapporto delle aree*
 
-> (Paper B, parte I Q7) In quadrilaterale convex $ABCD$, $\overrightarrow{BC} = 2\overrightarrow{AD}$. Il punto $P$ si trova sul piano quadrilaterale $ABCD$, soddisfacendo $\overrightarrow{PA} + 2020\overrightarrow{PB} + \overrightarrow{PC} + 2020\overrightarrow{PD} = \overrightarrow{0}$. Le aree $s$ e $t$ siano rispettivamente quadrilaterali $ABCD$ e $\triangle PAB$. Il valore di $\dfrac{t}{s}$ è $\underline{\qquad}$.
+> (Paper B, Part I Q7) Nel quadrilatero convesso $ABCD$, $\overrightarrow{BC} = 2\overrightarrow{AD}$. Il punto $P$ giace sul piano del quadrilatero $ABCD$ e soddisfa $\overrightarrow{PA} + 2020\overrightarrow{PB} + \overrightarrow{PC} + 2020\overrightarrow{PD} = \overrightarrow{0}$. Siano $s$ e $t$ le aree del quadrilatero $ABCD$ e del quadrilatero $\triangle PAB$, rispettivamente. Allora il valore di $\dfrac{t}{s}$ è $\underline{\qquad}$.
 
-**Risposta:** \frac{1}{2021}
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2020#q07|src_cn_cmc-first-round_2020__Q07]]
 
 
 
@@ -225,11 +259,16 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le buone posizioni delle carte etichettate con coppie in scatole*
+*Conta le buone disposizioni delle carte contrassegnate da coppie nelle caselle*
 
-> (Paper A, Parte I Q8) Ci sono carte $10$, ognuna delle quali ha due numeri, numerati $1$, $2$, $3$, $4$, $5$, scritte su di essa, e i numeri su due carte non sono esattamente identici. Le schede contengono tutte quelle etichettate $1$, $2$, $3$, $4$, $5$, e una scheda con $i$ e $j$ scritte su di essa può essere inserita solo nella casella $i$ o nella casella $j$. Un posizionamento è chiamato "buono" se nella casella $1$ ci sono più carte di ciascuna delle altre caselle. Il numero totale dei posti di lavoro "buoni" è $\underline{\qquad}$.
+> (Paper A, Part I Q8) Ci sono $10$ carte; su ciascuna di esse sono scritti due numeri, $1$, $2$, $3$, $4$, $5$, e i numeri presenti su due carte qualsiasi non sono esattamente identici. Le carte comprendono tutte quelle contrassegnate con $1$, $2$, $3$, $4$, $5$; inoltre, una carta su cui sono scritti $i$ e $j$ può essere collocata solo nella scatola $i$ o nella scatola $j$. Una collocazione è detta "buona" se nella scatola $1$ ci sono più carte che in ciascuna delle altre scatole. Allora il numero totale delle collocazioni "buone" è $\underline{\qquad}$.
 
-**Risposta:** 56
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-first-round_2020#q08|src_cn_cmc-first-round_2020__Q08]]
 
 
 
@@ -253,11 +292,16 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Elisse con condizione di perpendicularità, trovare il prodotto di tangenti di angoli*
+*Ellisse con condizione di perpendicolarità: trovare il prodotto delle tangenti degli angoli*
 
-> (Paper B, Parte II Q9, 16 marchi) Nell'ellisse $\Gamma$, $A$ è un punto terminale dell'asse maggiore, $B$ è un punto terminale dell'asse minore e $F_1$, $F_2$ sono i foci. Se $\overrightarrow{AF_1} \cdot \overrightarrow{AF_2} + \overrightarrow{BF_1} \cdot \overrightarrow{BF_2} = 0$, trovare il valore di $\tan \angle ABF_1 \cdot \tan \angle ABF_2$.
+> (Schema B, Parte II Q9, 16 punti) Nell'ellisse $\Gamma$, $A$ è un estremo dell'asse maggiore, $B$ è un estremo dell'asse minore, e $F_1$, $F_2$ sono i fuochi. Se $\overrightarrow{AF_1} \cdot \overrightarrow{AF_2} + \overrightarrow{BF_1} \cdot \overrightarrow{BF_2} = 0$, determina il valore di $\tan \angle ABF_1 \cdot \tan \angle ABF_2$.
 
-**Risposta:** -\frac{1}{5}
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2020#q09|src_cn_cmc-first-round_2020__Q09]]
 
 
 
@@ -281,11 +325,16 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali positivi su superficie ellipsoidale, riducendo al minimo la somma ponderata delle reciprocità*
+*Numeri reali positivi sulla superficie ellissoidale: minimizzare la somma pesata dei reciproci*
 
-> (Paper B, parte II Q10, 20 punti) Supponiamo che i numeri reali positivi $a$, $b$ e $c$ soddisfino $a^2 + 4b^2 + 9c^2 = 4b + 12c - 2$. Trova il minimo di $\dfrac{1}{a} + \dfrac{2}{b} + \dfrac{3}{c}$.
+> (Carta B, Parte II Q10, 20 punti) Si supponga che i numeri reali positivi $a$, $b$ e $c$ soddisfino $a^2 + 4b^2 + 9c^2 = 4b + 12c - 2$. Si determini il minimo di $\dfrac{1}{a} + \dfrac{2}{b} + \dfrac{3}{c}$.
 
-**Risposta:** 6
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2020#q10|src_cn_cmc-first-round_2020__Q10]]
 
 
 
@@ -309,8 +358,13 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre punti sull'iperbola xy=1 che formano triangolo rettangolo, area min*
+*Tre punti sull'iperbole xy=1 che formano un triangolo rettangolo isoscele, area minima*
 
-> (Pagina A, Parte II Q11, 20 punti) In un sistema di coordinate rettangolare piano $xOy$, i punti $A$, $B$ e $C$ sono sull'iperbola $xy = 1$ che soddisfa $\triangle ABC$ è un triangolo rettangolare a pari pietra. Trova il minimo della superficie di $\triangle ABC$.
+> (Carta A, Parte II Q11, 20 punti) In un sistema di coordinate cartesiane piane $xOy$, i punti $A$, $B$ e $C$ giacciono sull'iperbole $xy = 1$ e soddisfano la condizione che $\triangle ABC$ sia un triangolo rettangolo isoscele. Determinare il minimo dell'area di $\triangle ABC$.
 
-**Risposta:** 3\sqrt{3}
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2020#q11|src_cn_cmc-first-round_2020__Q11]]

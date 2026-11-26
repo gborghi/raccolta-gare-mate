@@ -30,11 +30,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Computo doppio di: 24 più triplo di 13 meno quadruplo di 15*
+*Calcola il doppio di: 24 più il triplo di 13 meno il quadruplo di 15*
 
 > Qual è il doppio di $24$ più il triplo di $13$ meno il quadruplo di $15$?
-> 
+>
 > (A) $24$ \quad (B) $26$ \quad (C) $27$ \quad (D) $37$ \quad (E) $38$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f1#q01|src_obm_2013_n1_f1__Q01]]
 
 
 
@@ -63,11 +69,18 @@ level: OBM Nível 1
 
 *Conta i triangoli nella figura*
 
-> Quanti triangoli ci sono nella figura qui sotto?
-> 
+> Quanti triangoli ci sono nella figura sottostante?
+>
 > (A) $3$ \quad (B) $4$ \quad (C) $5$ \quad (D) $6$ \quad (E) $7$
 
 ![[src_obm_2013_n1_f1__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n1_f1#q02|src_obm_2013_n1_f1__Q02]]
 
 
 
@@ -91,11 +104,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Liter di succo estrattibili da due sacchetti di arance da 5 kg*
+*Litri di succo estraibili da due sacchi da 5 kg di arance*
 
-> Un mercato vende arance solo in borse di $5$ kg ciascuna. Di ogni chilogrammo di arancione, $55\%$ è succo. Inoltre, $1$ kg di succo corrisponde a $900$ ml di succo. Quindi, quanti litri di succo possiamo estrarre da due sacchetti di arance?
-> 
+> Un mercato vende arance solo in sacchetti da $5$ kg ciascuno. Di ogni chilogrammo di arance, $55\%$ è succo. Inoltre, $1$ kg di succo corrispondono a $900$ ml di succo. Quindi, quanti litri di succo si possono estrarre da due sacchetti di arance?
+>
 > (A) $4.5$ \quad (B) $4.8$ \quad (C) $4.95$ \quad (D) $5$ \quad (E) $5.1$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f1#q03|src_obm_2013_n1_f1__Q03]]
 
 
 
@@ -122,13 +141,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quanti blocchi uguali sono necessari per completare un parallelepiped*
+*Quanti altri blocchi uguali servono per completare un parallelepipedo?*
 
-> Esmeralda sta costruendo un parallelepiped usando blocchi uguali più piccoli. Per finire il suo compito, quanti blocchi ha ancora bisogno di mettere Esmeralda?
-> 
+> Esmeralda sta costruendo un parallelepipedo usando blocchi più piccoli e tutti uguali. Per completare il suo compito, quanti blocchi deve ancora posizionare Esmeralda?
+>
 > (A) $12$ \quad (B) $14$ \quad (C) $16$ \quad (D) $18$ \quad (E) $20$
 
 ![[src_obm_2013_n1_f1__q04.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n1_f1#q04|src_obm_2013_n1_f1__Q04]]
 
 
 
@@ -153,11 +179,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Con almeno 11 multipli di 5 e non più di 9 di 6 in 1..n, multipli massimi di 7*
+*Con almeno 11 multipli di 5 e al massimo 9 multipli di 6 in 1..n, multipli di 7 massimi*
 
-> Tra i numeri naturali da $1$ a $n$, almeno $11$ sono divisibili da $5$ e al massimo $9$ sono divisibili da $6$. Al massimo, quanti di questi numeri sono divisibili per $7$?
-> 
+> Tra i numeri naturali da $1$ a $n$, almeno $11$ sono divisibili per $5$ e al massimo $9$ sono divisibili per $6$. Al massimo, quanti di questi numeri sono divisibili per $7$?
+>
 > (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $7$ \quad (E) $8$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f1#q05|src_obm_2013_n1_f1__Q05]]
 
 
 
@@ -183,13 +216,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due gatti su un divano; frazione di divano occupata da Tica*
+*Due gatti su un divano; frazione del divano occupata da Tica*
 
-> I gatti Mate e Tica dormono sul divano. Mate arrivò per primo, e quando Tica arrivò, occupò un quarto della superficie del divano che rimaneva. Entrambi occupano esattamente la metà della superficie del divano. Quale frazione della superficie del divano è occupata da Tica?
-> 
+> I gatti Mate e Tica stanno dormendo sul divano. Mate è arrivato per primo e, quando è arrivata Tica, ha occupato un quarto della superficie del divano che era rimasta libera. Insieme, i due occupano esattamente metà della superficie del divano. Che frazione della superficie del divano è occupata da Tica?
+>
 > (A) $\dfrac{1}{12}$ \quad (B) $\dfrac{1}{8}$ \quad (C) $\dfrac{1}{6}$ \quad (D) $\dfrac{1}{5}$ \quad (E) $\dfrac{1}{2}$
 
 ![[src_obm_2013_n1_f1__q06.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f1#q06|src_obm_2013_n1_f1__Q06]]
 
 
 
@@ -216,13 +255,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Antina che cammina attorno a un pentagono; posizione al secondo 2013*
+*Una formica che cammina attorno a un pentagono; posizione al 2013º secondo*
 
-> Nel pentagono $ABCDE$ accanto, $AB = BC = CD = 2$ metri e $DE = EA = 3$ metri. Una formica parte dal vertice $A$ e cammina a velocità costante, un metro al secondo, lungo i suoi lati, sempre nella stessa direzione. A che punto sarà al $2013$ secondo?
-> 
+> Nel pentagono $ABCDE$ qui accanto, $AB = BC = CD = 2$ metri e $DE = EA = 3$ metri. Una formica parte dal vertice $A$ e cammina a velocità costante, un metro al secondo, lungo i suoi lati, sempre nello stesso verso. In quale punto si troverà al $2013$-esimo secondo?
+>
 > (A) $A$ \quad (B) $B$ \quad (C) $C$ \quad (D) $D$ \quad (E) $E$
 
 ![[src_obm_2013_n1_f1__q07.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f1#q07|src_obm_2013_n1_f1__Q07]]
 
 
 
@@ -249,13 +295,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Modello triangolare di cerchi neri/bianchi; cerchi neri quando 30 sono bianchi*
+*Motivo a triangoli di cerchi neri/bianchi; cerchi neri quando 30 sono bianchi*
 
-> I cerchi bianchi e neri vengono utilizzati per costruire i triangoli come nella figura. Iniziamo con un cerchio nero nella prima riga. Da lì in poi, le righe pari sono formate solo da cerchi bianchi, e le righe strane da cerchi di colori alternati, a partire da un cerchio nero alla punta. Se un triangolo come questo ha esattamente $30$ cerchi bianchi, quanti cerchi neri ha?
-> 
+> I cerchi bianchi e neri vengono utilizzati per costruire dei triangoli come nella figura. Si parte da un cerchio nero nella prima riga. Da quel punto in poi, le righe pari sono formate solo da cerchi bianchi, mentre le righe dispari sono formate da cerchi di colore alternato, a partire da un cerchio nero all'apice. Se un triangolo di questo tipo ha esattamente $30$ cerchi bianchi, quanti cerchi neri contiene?
+>
 > (A) $10$ \quad (B) $15$ \quad (C) $18$ \quad (D) $20$ \quad (E) $30$
 
 ![[src_obm_2013_n1_f1__q08.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f1#q08|src_obm_2013_n1_f1__Q08]]
 
 
 
@@ -280,11 +333,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2013th term of a sequence of 3-digit numbers with non-zero digits*
+*Il 2013-esimo termine di una successione di numeri a tre cifre con cifre non nulle*
 
-> Rita scrive la sequenza formata da numeri a tre cifre con cifre non zero come segue: $123, 234, 345, \ldots, 789, 891, 912, 123, \ldots$ . Qual è il $2013$th termine di questa sequenza?
-> 
+> Rita scrive la successione formata da numeri di tre cifre con cifre non nulle nel modo seguente: $123, 234, 345, \ldots, 789, 891, 912, 123, \ldots$. Qual è il $2013$-esimo termine di questa successione?
+>
 > (A) $345$ \quad (B) $456$ \quad (C) $567$ \quad (D) $678$ \quad (E) $789$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f1#q09|src_obm_2013_n1_f1__Q09]]
 
 
 
@@ -308,11 +368,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di segni più nel 2013^2013 + ... = 2013^2014*
+*Numero di segni più in 2013^2013 + ... = 2013^2014*
 
-> Nell'aggiunta dei termini uguali $2013^{2013} + 2013^{2013} + \cdots + 2013^{2013} = 2013^{2014}$, scritti in forma semplificata, sono stati scritti molti segni di aggiunta $(+)$. Quante sono state scritte?
-> 
+> Nell'addizione di termini uguali $2013^{2013} + 2013^{2013} + \cdots + 2013^{2013} = 2013^{2014}$, scritta in forma semplificata, furono scritti molti segni di addizione $(+)$. Quanti ne furono scritti?
+>
 > (A) $1006$ \quad (B) $2009$ \quad (C) $2012$ \quad (D) $2014$ \quad (E) $4026$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f1#q10|src_obm_2013_n1_f1__Q10]]
 
 
 
@@ -341,15 +407,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quale dichiarazione sui numeri primi è vera*
+*Quale affermazione sui numeri primi è vera?*
 
-> Ogni numero primo è un numero intero che ha esattamente due divisori positivi: il numero $1$ e il numero stesso. Ad esempio, $2$ e $5$ sono numeri primi, ma $1$ (che ha solo un divisore) e $4$ (le cui divisori positivi sono $1$, $2$ e $4$) non sono numeri primi. Quale delle seguenti affermazioni è vera?
+> Ogni numero primo è un numero intero che ha esattamente due divisori positivi: il numero $1$ e il numero stesso. Ad esempio, $2$ e $5$ sono numeri primi, ma $1$ (che ha un solo divisore) e $4$ (i cui divisori positivi sono $1$, $2$ e $4$) non sono numeri primi. Quale delle seguenti affermazioni è vera?
 >
-> - **(A)** La somma di due numeri primi è un numero primo.
-> - **(B)** La somma dei quadrati di due numeri primi è un numero primo.
+> - **(A)** La somma di due numeri primi qualsiasi è un numero primo.
+> - **(B)** La somma dei quadrati di due numeri primi qualsiasi è un numero primo.
 > - **(C)** Il prodotto di due numeri naturali consecutivi può essere un numero primo.
-> - **(D)** La somma di tre numeri primi non è mai un numero primo.
-> - **(E)** Il prodotto di due numeri primi può essere un numero primo.
+> - **(D)** La somma di tre numeri primi qualsiasi non è mai un numero primo.
+> - **(E)** Il prodotto di due numeri primi qualsiasi può essere un numero primo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n1_f1#q11|src_obm_2013_n1_f1__Q11]]
 
 
 
@@ -377,15 +450,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sconto ora contro sconto più aumento dei prezzi del 5% il mese prossimo*
+*Sconto ora contro sconto più aumento del 5% il mese prossimo*
 
-> Se Joana acquista oggi un computer di $2000$ reais, riceverà uno sconto di $5\%$. Se lo lascia per domani, riceverà lo stesso sconto di $5\%$, ma il computer aumenterà di $5\%$. Se aspetta, cosa succederà?
+> Se oggi Joana compra un computer al prezzo di $2000$ reais, otterrà uno sconto di $5\%$. Se lo lascia per domani, otterrà lo stesso sconto di $5\%$, ma il prezzo del computer aumenterà di $5\%$. Se aspetta, cosa succederà?
 >
-> - **(A)** Niente, pagherà la stessa somma.
-> - **(B)** Perderà reais.
-> - **(C)** Lei guadagnerà $105$ reais.
-> - **(D)** Perderà reais.
-> - **(E)** Perderà reais.
+> - **(A)** Niente, pagherà la stessa cifra.
+> - **(B)** Perderà $100$ reais.
+> - **(C)** Riceverà $105$ reais.
+> - **(D)** Perderà $95$ reais.
+> - **(E)** Perderà $105$ reais.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f1#q12|src_obm_2013_n1_f1__Q12]]
 
 
 
@@ -410,11 +489,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum numero di adulti paganti in uno stadio dato il totale delle entrate*
+*Numero minimo di adulti paganti in uno stadio, dato l'incasso totale*
 
-> Il prezzo di ingresso in uno stadio di calcio è di R\$$7.50$ for adults and R\$$2.50$ for children. In the last Sunday's game, the stadium collected R\$$3000.00$ da parte di un pubblico inferiore a $600$ che paga lo spettatore. Almeno quanti adulti paganti c'erano nello stadio?
-> 
+> The prices for entrance to a soccer stadium are R\$$7.50$ for adults and R\$$2.50$ for children. In the last Sunday's game, the stadium collected R\$$3000.00$ from an audience of fewer than $600$ paying spectators. At least how many paying adults were there in the stadium?
+>
 > (A) $299$ \quad (B) $301$ \quad (C) $310$ \quad (D) $361$ \quad (E) $450$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f1#q13|src_obm_2013_n1_f1__Q13]]
 
 
 
@@ -440,13 +526,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area reale di una camera da letto da un disegno in scala 1:45*
+*Superficie reale di una camera da letto ricavata da un disegno in scala 1:45*
 
-> Le misure indicate nella figura si riferiscono al disegno che rappresenta una camera da letto rettangolare, compresa una stanza da bagno, di una casa. Se la scala del disegno è $1{:}45$, qual è la superficie reale di questa stanza? (Le misure di disegno $10$ cm per $6$ cm con una zona del bagno tagliata da un angolo.)
-> 
+> Le misure indicate nella figura si riferiscono al disegno che rappresenta una camera da letto rettangolare, con bagno annesso, di una casa. Se la scala del disegno è $1{:}45$, qual è l'area reale di questa stanza? (Il disegno misura $10$ cm per $6$ cm, con una porzione destinata al bagno ricavata tramite un taglio in un angolo.)
+>
 > (A) $12.15$ m$^2$ \quad (B) $15.5$ m$^2$ \quad (C) $27$ m$^2$ \quad (D) $32$ m$^2$ \quad (E) $60$ m$^2$
 
 ![[src_obm_2013_n1_f1__q14.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f1#q14|src_obm_2013_n1_f1__Q14]]
 
 
 
@@ -471,11 +563,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La taglia minima della classe data al vincitore ha avuto 10 voti e altri distinti*
+*Dimensione minima della classe, dato che il vincitore ha ottenuto 10 voti e gli altri sono distinti*
 
-> L'insegnante Marli ha proposto una elezione per rappresentare la classe di sesto anno. Cinque studenti si presentarono come candidati. Tutti gli studenti hanno votato e il vincitore è stato Pedrinho, con voti $10$. Gli altri quattro candidati hanno ricevuto ciascuno un numero diverso di voti. Almeno quanti studenti ci sono in questa classe?
-> 
+> L'insegnante Marli ha proposto un'elezione per scegliere il rappresentante della classe del sesto anno. Cinque studenti si sono candidati. Tutti gli studenti hanno votato e il vincitore è stato Pedrinho, con $10$ voti. Gli altri quattro candidati hanno ricevuto ciascuno un numero diverso di voti. Quanti studenti ci sono almeno in questa classe?
+>
 > (A) $16$ \quad (B) $30$ \quad (C) $34$ \quad (D) $36$ \quad (E) $40$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f1#q15|src_obm_2013_n1_f1__Q15]]
 
 
 
@@ -500,11 +599,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Chi di quattro amici è nato a marzo dai mesi di nascita relativi
+*Quale dei quattro amici è nato a marzo, in base ai mesi di nascita relativi?*
 
-> Le amiche Ana, Beatriz, Cristina e Dalva sono nate nello stesso anno e nello stesso giorno, ma in mesi diversi. Dalva è due mesi più giovane di Ana e quattro mesi più grande di Cristina. Beatriz è otto mesi più giovane di Dalva. Quale di loro è nato a marzo?
-> 
-> (A) Ana \quad (B) Beatriz \quad (C) Cristina \quad (D) Dalva \quad (E) Nessuno di loro
+> Le amiche Ana, Beatriz, Cristina e Dalva sono nate nello stesso anno e nello stesso giorno, ma in mesi diversi. Dalva è più giovane di Ana di due mesi e più anziana di Cristina di quattro mesi. Beatriz è più giovane di Dalva di otto mesi. Chi di loro è nata a marzo?
+>
+> (A) Ana \quad (B) Beatriz \quad (C) Cristina \quad (D) Dalva \quad (E) Nessuna di loro
+
+**Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f1#q16|src_obm_2013_n1_f1__Q16]]
 
 
 
@@ -529,11 +635,18 @@ Chi di quattro amici è nato a marzo dai mesi di nascita relativi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colonna contenente 1000 quando si riempie una colonna di griglia colonna per colonna*
+*Colonna che contiene 1000 quando si compila una griglia colonna per colonna*
 
-> Joana riempie completamente una griglia rettangolare scrivendo i numeri da $1$ a $2013$, un numero per ogni quadrato. Inizia nell'angolo superiore sinistro e riempie la prima colonna, poi riempie la seconda colonna, dall'alto alla base, e continua nello stesso modo, riempendo la terza colonna, la quarta, ecc., fino a raggiungere l'ultima colonna e finire nell'angolo inferiore a destra. Se il numero $50$ è nella seconda colonna, in quale colonna verrà scritto il numero $1000$?
-> 
+> Joana riempie completamente una griglia rettangolare scrivendo i numeri da $1$ a $2013$, un numero per ogni casella. Inizia dall'angolo in alto a sinistra e riempie la prima colonna, poi riempie la seconda colonna dall'alto verso il basso, e continua nello stesso modo, riempiendo la terza colonna, la quarta, ecc., fino a raggiungere l'ultima colonna e a terminare nell'angolo in basso a destra. Se il numero $50$ si trova nella seconda colonna, in quale colonna verrà scritto il numero $1000$?
+>
 > (A) $23$ \quad (B) $31$ \quad (C) $33$ \quad (D) $39$ \quad (E) $61$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f1#q17|src_obm_2013_n1_f1__Q17]]
 
 
 
@@ -558,11 +671,18 @@ Chi di quattro amici è nato a marzo dai mesi di nascita relativi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei perimetri di sei quadrati a lato intero di un quadrato di 144 cm^2*
+*Somma dei perimetri di sei quadrati a lati interi che tassellano un quadrato di 144 cm²*
 
-> Un quadrato di superficie $144$ cm$^2$ può essere decomposto in sei quadrati con lati interi, non tutti uguali. Qual è la somma dei perimetri di tutti e sei i quadrati?
-> 
+> Un quadrato di area $144$ cm$^2$ può essere scomposto in sei quadrati con lati interi, non tutti uguali. Qual è la somma dei perimetri di tutti e sei i quadrati?
+>
 > (A) $36$ cm \quad (B) $84$ cm \quad (C) $96$ cm \quad (D) $112$ cm \quad (E) $164$ cm
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n1_f1#q18|src_obm_2013_n1_f1__Q18]]
 
 
 
@@ -589,13 +709,20 @@ Chi di quattro amici è nato a marzo dai mesi di nascita relativi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di studenti di sesta elementare di un grafico di bar sportivi*
+*Numero minimo di alunni di sesta classe da un grafico a barre sportivo*
 
-> Il grafico accanto si riferisce alla pratica sportiva degli studenti del 6° anno di una scuola. Nessuno dei ragazzi che giocano a calcio o volleyball gioca a basket, e nessuna ragazza che gioca a basket o volleyball gioca a calcio. Ci sono cinque ragazzi e tre ragazze che non praticano nessuno dei tre sport. Quanti studenti ci sono almeno in sesto anno?
-> 
+> Il grafico accanto si riferisce alla pratica sportiva degli studenti del sesto anno di una scuola. Nessuno dei ragazzi che giocano a calcio o a pallavolo gioca a basket, e nessuna delle ragazze che giocano a basket o a pallavolo gioca a calcio. Ci sono cinque ragazzi e tre ragazze che non praticano nessuno dei tre sport. Quanti studenti ci sono almeno nel sesto anno?
+>
 > (A) $37$ \quad (B) $45$ \quad (C) $50$ \quad (D) $64$ \quad (E) $72$
 
 ![[src_obm_2013_n1_f1__q19.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n1_f1#q19|src_obm_2013_n1_f1__Q19]]
 
 
 
@@ -622,10 +749,17 @@ Chi di quattro amici è nato a marzo dai mesi di nascita relativi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di modi di tessitura di una griglia a 24 celle con sei pezzi identici a 4 celle*
+*Numero di modi per rivestire una griglia a 24 celle con sei pezzi identici da 4 celle*
 
-> Luisa ha sei pezzi uguali formati da $4$ unità quadrati di superficie $1$. Lei vuole inserire tutti questi pezzi nella griglia formata da $24$ unità quadrati di area $1$ e ha già posizionato uno di questi pezzi, evidenziato nella figura accanto, e i pezzi possono essere posizionati in qualsiasi orientamento. In quanti modi può completare il suo compito?
-> 
+> Luisa ha sei pezzi uguali formati da $4$ quadrati unitari di area $1$. Vuole far rientrare tutti questi pezzi nella griglia formata da $24$ quadrati unitari di area $1$; ha già collocato uno di questi pezzi, evidenziato nella figura accanto, e i pezzi possono essere disposti in qualsiasi orientamento. In quanti modi diversi può portare a termine il compito?
+>
 > (A) $2$ \quad (B) $3$ \quad (C) $4$ \quad (D) $5$ \quad (E) $6$
 
 ![[src_obm_2013_n1_f1__q20.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2013_n1_f1#q20|src_obm_2013_n1_f1__Q20]]

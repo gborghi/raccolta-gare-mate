@@ -29,9 +29,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolare un prodotto/somma di nove frazioni*
+*Calcola un prodotto/una somma di nove frazioni*
 
-> Calcolare quanto segue: $$\frac{7}{12}+\frac{5}{12}\times\frac{7}{15}\times\frac{4}{11}\times\frac{7}{10}\times\frac{4}{12}\times\frac{5}{11}\times\frac{4}{10}\times\frac{3}{9}\times\frac{7}{9}$$
+> Calcola quanto segue:
+> $$\frac{7}{12}+\frac{5}{12}\times\frac{7}{15}\times\frac{4}{11}\times\frac{7}{10}\times\frac{4}{12}\times\frac{5}{11}\times\frac{4}{10}\times\frac{3}{9}\times\frac{7}{9}$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo5q#q01|src_jjmo5q__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale con diagonali perpendicolari; trovare il quarto lato*
+*Quadrilatero con diagonali perpendicolari; trovare il quarto lato*
 
-> Nel quadrilaterale $ABCD$, abbiamo $AB = 5$, $BC = 7$, $CD = 6$, e le diagonali $AC$ e $BD$ si incrociano perpendicolare all'interno del quadrilaterale. Trova $DA$.
+> Nel quadrilatero $ABCD$, abbiamo $AB = 5$, $BC = 7$, $CD = 6$, e le diagonali $AC$ e $BD$ si intersecano perpendicolarmente all'interno del quadrilatero. Determinare $DA$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo5q#q02|src_jjmo5q__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le frazioni m/n con m,n ≤ 20 in un determinato intervallo*
+*Trovare tutte le frazioni m/n con m,n ≤ 20 in un intervallo dato*
 
-> Trova tutti i numeri razionali che possono essere scritti come $\frac{m}{n}$, dove $m$ e $n$ sono interi positivi che non superano ognuno $20$, e che sono superiori a $\frac{5}{4}$ e inferiori a $\frac{4}{3}$.
+> Trovare tutti i numeri razionali che possono essere scritti come $\frac{m}{n}$, dove $m$ e $n$ sono interi positivi, ciascuno non superiore a $20$, e che sono maggiori di $\frac{5}{4}$ e minori di $\frac{4}{3}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo5q#q03|src_jjmo5q__Q03]]
 
 
 
@@ -110,9 +131,20 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio di grado 3 a tre variabili con tre condizioni di divisibilità*
+*Polinomio di terzo grado in tre variabili con tre condizioni di divisibilità*
 
-> Trova tutti i polinomi $f(x, y, z)$ con coefficienti reali, di grado $3$ in tre variabili $x$, $y$, $z$, soddisfacendo tutte le seguenti condizioni: \begin{itemize} \item $f(x, y, z) + z$ è divisibile da $x + y + z$, \item $f(x, y, z) + y$ è divisibile da $x + y + z$, \item $f(x, y, z) + z$ è divisibile da $x + y + z$. \end{itemize} Qui, si dice che un polinomio $P(x,y,z)$ sia divisibile da $Q(x,y,z)$ se esiste un polinomio $R(x,y,z)$ tale che $P(x,y,z) = Q(x,y,z)\,R(x,y,z)$.
+> Trovare tutti i polinomi $f(x, y, z)$ a coefficienti reali, di grado $3$ in tre variabili $x$, $y$, $z$, che soddisfano tutte le seguenti condizioni:
+> \begin{itemize}
+> \item $f(x, y, z) + z$ è divisibile per $x + y + z$, \item $f(x, y, z) + y$ è divisibile per $x + y + z$, \item $f(x, y, z) + z$ è divisibile per $x + y + z$.
+> \end{itemize}
+> Qui, un polinomio $P(x,y,z)$ si dice divisibile per $Q(x,y,z)$ se esiste un polinomio $R(x,y,z)$ tale che $P(x,y,z) = Q(x,y,z)\,R(x,y,z)$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo5q#q04|src_jjmo5q__Q04]]
 
 
 
@@ -139,13 +171,20 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*5×5 griglia numerata 116; trovare m minimo per una condizione colonna-somma*
+*Griglia 5×5 numerata da 1 a 16; trova il minimo m per una condizione sulla somma delle colonne*
 
-> C'è una griglia $5 \times 5$. I numeri $1, 2, \ldots, 16$ sono scritti nella parte superiore sinistra $4 \times 4$ delle celle (un numero per cella) in un certo ordine. Per ciascuna delle quattro righe (righe $1$$4$), la somma cumulativa in corso delle quattro voci di quella riga, letta da sinistra a destra, è registrata nella cella più a destra di quella riga (marcato $\clubsuit$). Allo stesso modo, per ciascuna delle quattro colonne, la somma cumulativa dalla riga $1$ alla riga $4$ è registrata nella cella inferiore di tale colonna. La cella in basso a destra è lasciata vuota. Occorre soddisfare la seguente condizione:
-> 
-> \textbf{Condition ($\clubsuit$):} Nel momento in cui vengono registrate le somme correnti per una data riga, se il totale cumulativo raggiunge $m$ o più nella voce più a destra, allora almeno $2$ delle celle di quella riga le somme correnti sono $m$ o più. Inoltre, nella riga $5$ (la riga inferiore), almeno $2$ delle quattro somme di colonne è $m$ o più.
-> 
-> Trova il numero intero più piccolo $m$ che soddisfa questa condizione.
+> C'è una griglia $5 \times 5$. I numeri $1, 2, \ldots, 16$ sono scritti nella porzione $4 \times 4$ in alto a sinistra delle celle (un numero per cella), in un certo ordine. Per ciascuna delle quattro righe (righe $1$–$4$), la somma cumulativa progressiva dei quattro elementi di quella riga, letti da sinistra a destra, viene registrata nella cella più a destra di quella riga (contrassegnata con $\clubsuit$). Analogamente, per ciascuna delle quattro colonne, la somma cumulativa dalla riga $1$ alla riga $4$ viene registrata nella cella in fondo a quella colonna. La cella in basso a destra rimane vuota. Deve essere soddisfatta la seguente condizione:
+>
+> \textbf{Condizione ($\clubsuit$):} Nel momento in cui vengono registrate le somme progressive per una data riga, se il totale cumulativo raggiunge $m$ o più nell'elemento più a destra, allora almeno $2$ delle celle delle somme progressive di quella riga hanno valore $m$ o più. Inoltre, nella riga $5$ (la riga inferiore), almeno $2$ delle quattro somme delle colonne hanno valore $m$ o più.
+>
+> Trova il più piccolo intero $m$ che soddisfi questa condizione.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo5q#q05|src_jjmo5q__Q05]]
 
 
 
@@ -168,9 +207,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mediani triangolari dati; area di ricerca*
+*Dati i mediani di un triangolo, determina l'area*
 
-> Nel triangolo $ABC$, $D$, $E$, $F$ siano rispettivamente i punti medi di $BC$, $CA$ e $AB$. Dato che $AD = 3$, $BE = 3$, $CF = 5$, si trova l'area del triangolo $ABC$.
+> Nel triangolo $ABC$, siano $D$, $E$, $F$ i punti medi di $BC$, $CA$, $AB$ rispettivamente. Dato che $AD = 3$, $BE = 3$, $CF = 5$, determina l'area del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo5q#q06|src_jjmo5q__Q06]]
 
 
 
@@ -193,9 +239,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale con diagonali che si intersecano a 60°; ridurre al minimo il perimetro*
+*Quadrilatero con diagonali che si intersecano a 60°; minimizzare il perimetro*
 
-> In quadrilaterale $ABCD$, le diagonali $AC$ e $BD$ si intersecano in un punto interno $P$. Date $AC = 2$, $BD = 3$ e $\angle APB = 60^\circ$, si trova il valore minimo di $AB + BC + CD + DA$.
+> Nel quadrilatero $ABCD$, le diagonali $AC$ e $BD$ si intersecano in un punto interno $P$. Dati $AC = 2$, $BD = 3$ e $\angle APB = 60^\circ$, determina il valore minimo di $AB + BC + CD + DA$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo5q#q07|src_jjmo5q__Q07]]
 
 
 
@@ -218,9 +271,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*numero a 4 cifre: prodotto delle parti a 2 cifre superiori e inferiori divide n*
+*Numero di 4 cifre: il prodotto delle parti delle cifre in posizione più alta e più bassa (le due cifre più alte e le due cifre più basse) divide n*
 
-> Che $n$ sia un intero positivo a 4 cifre la cui cifra decimale non è $0$. Scrivi $n$ in decimale; lasciamo che $a$ sia il numero intero a 2 cifre formato dalla cifra di centinaia e migliaia di cifre di $n$ (le due cifre superiori), e lasciamo che $b$ sia il numero intero a 2 cifre formato dalla cifra di decina e dalla cifra di unità di $n$ (le due cifre inferiori). Se il prodotto $a \times b$ è un divisore di $n$, trovare tutti tali $n$.
+> Sia $n$ un numero intero positivo di 4 cifre il cui digit delle decine non è $0$. Scrivi $n$ in notazione decimale; sia $a$ il numero intero di 2 cifre formato dal digit delle centinaia e dal digit delle migliaia di $n$ (le due cifre superiori), e sia $b$ il numero intero di 2 cifre formato dal digit delle decine e dal digit delle unità di $n$ (le due cifre inferiori). Se il prodotto $a \times b$ è un divisore di $n$, trova tutti i $n$ di questo tipo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo5q#q08|src_jjmo5q__Q08]]
 
 
 
@@ -245,8 +305,15 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*19×19 griglia: min n in modo che ogni 9 cellule rimosse lasci ≤n buoni rettangoli*
+*Griglia 19×19: min n, così qualsiasi 9 celle rimosse lasciano ≤n rettangoli buoni*
 
-> C'è una griglia $19 \times 19$ di quadrati unitari. Chiamare un rettangolo i cui quattro lati si trovano lungo le linee della griglia un "buono rettangolo". Trova il numero intero positivo più piccolo $n$ che soddisfa la seguente condizione:
-> 
-> \textbf{Condition:} Non importa quali $9$ unità quadrati vengono rimossi dalla griglia, la regione rimanente può sempre essere suddivisa in almeno $n$ buoni rettangoli.
+> C'è una griglia di $19 \times 19$ quadrati unitari. Si definisca ''rettangolo buono'' un rettangolo i cui quattro lati giacciono tutti lungo le linee della griglia. Determinare il più piccolo intero positivo $n$ che soddisfa la seguente condizione:
+>
+> \textbf{Condizione:} Indipendentemente da quali $9$ quadrati unitari vengano rimossi dalla griglia, la regione rimanente può sempre essere suddivisa in al più $n$ rettangoli buoni.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo5q#q09|src_jjmo5q__Q09]]

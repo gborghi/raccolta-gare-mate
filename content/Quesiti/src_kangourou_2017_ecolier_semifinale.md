@@ -36,18 +36,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Order of arrival of a race from clues*
+*Finish order of a clue-based competition*
 
-> (2 points) Andrea, Bruno, Carlo and Davide took part in a race. Carlo arrived second;
-> Bruno did not arrive first or fourth and Andrea also did not arrive fourth. Who arrived first?
+> (Point 2) Andrea, Bruno, Carlo, and Davide took part in a race. Carlo came in second; Bruno did not come in first or fourth, and Andrea did not come in fourth either. Who came in first?
 >
 > - **(A)** Andrea
 > - **(B)** Bruno
 > - **(C)** Carlo
 > - **(D)** Davide
-> - **(E)** There is not enough data to determine it.
+> - **(E)** There is insufficient data to determine this.
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q01|src_kangourou_2017_ecolier_semifinale__Q01]]
 
 
 
@@ -77,10 +80,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different digit in a five-digit number with sum 42*
+*A distinct five-digit number whose digits sum to 42*
 
-> (3 points) A five-digit number has four equal digits and the sum of the five digits is 42.
-> What is the digit that is different from the others?
+> (Point 3) A five-digit number has four identical digits, and the sum of the five digits is 42. Which digit is different from the others?
 >
 > - **(A)** 5
 > - **(B)** 6
@@ -88,7 +90,11 @@ level: kangourou
 > - **(D)** 8
 > - **(E)** 9
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q02|src_kangourou_2017_ecolier_semifinale__Q02]]
 
 
 
@@ -120,9 +126,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Francesca's balloons from partial sums
+*Francesca's balloons from partial sums*
 
-> (3 points) Five children stand in line, each holding several colored balloons in his left hand - 37 in all. To Andrew's right there are 14 balloons; to Catherine's right there are 32; to Eva's right there are 20 and to Daniel's right there are 8. How many balloons does Francesca have?
+> (Point 3) Five children are in a line, and each of them has several colored balloons tied to their left hand—37 in total. To the right of Andrea, there are 14 balloons; to the right of Caterina, there are 32; to the right of Eva, there are 20; and to the right of Daniele, there are 8. How many balloons does Francesca have?
 >
 > - **(A)** 4
 > - **(B)** 6
@@ -130,7 +136,11 @@ Francesca's balloons from partial sums
 > - **(D)** 10
 > - **(E)** 12
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q03|src_kangourou_2017_ecolier_semifinale__Q03]]
 
 
 
@@ -191,7 +201,7 @@ Francesca's balloons from partial sums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of small squares in a subdivided rectangle*
+*Area of the small squares in a divided rectangle*
 
 ![[src_kangourou_2017_ecolier_semifinale__prob4.png]]
 
@@ -223,7 +233,7 @@ Francesca's balloons from partial sums
 \end{document}
 ```
 
-> (Point 4) Look at the figure. The ABCD rectangle is divided into eight squares of three different sizes: the side of each shaded square is 16 cm long. How many square centimetres is the area of each of the smallest squares?
+> (Point 4) Observe the figure. Rectangle ABCD is divided into eight squares of three different sizes: the side of each shaded square is 16 cm long. How many square centimeters is the area of each of the smallest squares?
 >
 > - **(A)** 72
 > - **(B)** 192
@@ -231,7 +241,11 @@ Francesca's balloons from partial sums
 > - **(D)** 108
 > - **(E)** 144
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q04|src_kangourou_2017_ecolier_semifinale__Q04]]
 
 
 
@@ -259,16 +273,16 @@ Francesca's balloons from partial sums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest difference between two dart throws*
+*Greatest difference between two dart throws*
 
-> (4 points) Five girls play darts: each throws two darts at the same target
-> made up of ten regions of different value, from 1 up to 10. All throws hit the target and in
-> each region one dart lands. At the end of the game Ada has 11 points in total, Bea has 4, Camilla
-> has 7, Doris has 16 and Eva has 17. Which of the five made the two throws with the largest
-> difference in points?
-> (A) Ada        (B) Bea         (C) Camilla         (D) Doris            (E) Eva
+> (Point 4) Five girls are playing darts: each throws two darts at the same target, which consists of ten regions with different point values ranging from 1 to 10. All the throws hit the target, and one dart lands in each region. At the end of the game, Ada has a total of 11 points, Bea has 4, Camilla has 7, Doris has 16, and Eva has 17. Which of the five made the two throws with the greatest difference in points?
+> (A) Ada (B) Bea (C) Camilla (D) Doris (E) Eva
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q05|src_kangourou_2017_ecolier_semifinale__Q05]]
 
 
 
@@ -297,11 +311,20 @@ Francesca's balloons from partial sums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of visible squares with 12 reeds*
+*Maximum number of visible squares with 12 straws*
 
-> (Points 4) Using 12 canes all equal to each other, you can build three squares. If you overlap the three squares in part, how many squares can you see at most? (A) 3         (B) 5 (C) 7 (D) 9 (E) 11
+> (Point 4) Using 12 straws that are all identical, you can construct three squares. If you partially overlap the three squares, what is the maximum number of squares you can end up seeing?
+> (A) 3         (B) 5 
+> (C) 7 
+> (D) 9 
+> (E) 11
 
-**Answer:** 8
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q06|src_kangourou_2017_ecolier_semifinale__Q06]]
 
 
 
@@ -327,11 +350,16 @@ Francesca's balloons from partial sums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of the penultimate child with age in progression*
+*And the penultimate child, with age increasing*
 
-> (Points 5) A father has five children: each of those born after the first was born exactly two years after the previous one. Today the age of the eldest son is twice that of the youngest. How old is the penultimate born today? (A) 9             (B) 10              (C) 11             (D) 12            (E) 13
+> (Point 5) A father has five children: each child born after the first was born exactly two years after the previous one. Today, the age of the oldest child is twice that of the youngest. How old is the second-oldest child today?
+> (A) 9             (B) 10              (C) 11             (D) 12            (E) 13
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q07|src_kangourou_2017_ecolier_semifinale__Q07]]
 
 
 
@@ -363,15 +391,22 @@ Francesca's balloons from partial sums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of adults given the theatre takings*
+*Minimum number of adults given the box office receipts at the theatre*
 
-> Today, the theatre was attended by adults and children. The theater has 100 seats, but not all were occupied. Tickets for adults are €20, for children €10, and at the end of the show, the takings were €1200. What is the minimum number of adults who may have been present at the show?
+> (Point 5) Today, there were adults and children at the theatre. The theatre has 100 seats, but not all of them were occupied. The ticket price for adults is 20 euros, and for children it is 10 euros; at the end of the performance, the box office takings were 1200 euros. What is the minimum number of adults that could have been present at the performance?
 >
 > - **(A)** 20
 > - **(B)** 21
 > - **(C)** 25
 > - **(D)** 30
 > - **(E)** 50
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q08|src_kangourou_2017_ecolier_semifinale__Q08]]
 
 
 
@@ -408,16 +443,23 @@ Francesca's balloons from partial sums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tris matches already completed on wrapped grid*
+*Tic-Tac-Toe games already completed on a wrapped grid*
 
 ![[src_kangourou_2017_ecolier_semifinale__prob9.png]]
 
-> (Points 6) The game of Tris is played in alternate moves and the first of the two players who manages to line up, on a grid of 3×3, three equal symbols in horizontal, vertical or diagonal, wins. Eight players are involved in four matches and in each match one of the players made 3 moves and the other 2: in the drawing you see the photo of the four grids. We now wrap each of the four grids on a tube (as shown in the other figure) so that its opposite vertical sides join. If the rules remain the same, how many of the four matches with the grid wrapped around the tube are already over?
+> (Point 6) Tic-Tac-Toe is played with alternating moves, and the first of the two players to get three identical symbols in a row—horizontally, vertically, or diagonally—on a 3×3 grid wins. Eight players are taking part in four games, and in each game one of the players has made 3 moves and the other 2: in the drawing, you can see a photo of the four grids. We will now wrap each of the four grids around a tube (as shown in the other figure) so that its opposite vertical sides meet. If the rules remain the same, how many of the four games with the grid wrapped around the tube have already concluded?
 >
 > - **(A)** 0
 > - **(B)** 1
 > - **(C)** 2
 > - **(D)** 3 (E) 4 Open-ended questions
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q09|src_kangourou_2017_ecolier_semifinale__Q09]]
 
 
 
@@ -442,11 +484,15 @@ Francesca's balloons from partial sums
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two numbers with a sum of 30 and a product of 56*
+*Two numbers whose sum is 30 and whose product is 56*
 
-> (Four points) The sum of two numbers is 30 and their product is 56. What are the two numbers? (In the answer, indicate the smaller one first; e.g. If the two numbers are 5 and 8, you should write 0508.
+> (Point 4) The sum of two numbers is 30, and their product is 56. What are the two numbers? (In your answer, state the smaller number first; e.g., if the two numbers were 5 and 8, you should write 0508).
 
-**Answer:** 0228
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q10|src_kangourou_2017_ecolier_semifinale__Q10]]
 
 
 
@@ -472,11 +518,15 @@ Francesca's balloons from partial sums
 <div class="qlang-split" data-lang="en"></div>
 
 
-The number of the knight dancing with the lady 374
+*Number of the knight dancing with lady 374*
 
-> (Points 4) There are 500 ladies and 500 knights at a grand ball. The first ones on the guest list are numbered from 1 to 500, the second ones are numbered from 501 to 1000. The last knight on the list is asked to dance with the first lady, the penultimate to dance with the second lady and so on. What is the number of the knight who will dance with the lady number 374?
+> (Point 4) At a grand ball, there are 500 ladies and 500 gentlemen: in the guest list, the ladies are numbered from 1 to 500, and the gentlemen from 501 to 1000. The last gentleman on the list is asked to dance with the first lady, the second-to-last with the second lady, and so on. What is the number of the gentleman who will dance with lady number 374?
 
-**Answer:** 0627
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q11|src_kangourou_2017_ecolier_semifinale__Q11]]
 
 
 
@@ -502,11 +552,16 @@ The number of the knight dancing with the lady 374
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum plants to be added for equal distances*
+*Minimum number of plants to add for equal distances*
 
-> Four plants grow along one side of a road; the distances between one plant and the next are 7.5 m, 9 m and 21 m. What is the minimum number of plants that you need to add so that all the distances between two successive plants are equal?
+> (Point 6) Along one side of a road, four plants are growing; the distances between one plant and the next are 7.5 m, 9 m, and 21 m. What is the minimum number of plants that need to be added so that all the distances between two consecutive plants are equal?
 
-**Answer:** 0022
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q12|src_kangourou_2017_ecolier_semifinale__Q12]]
 
 
 
@@ -543,24 +598,18 @@ The number of the knight dancing with the lady 374
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum cost of strips to cover figures*
+*Minimum cost of strips for covering figures*
 
 ![[src_kangourou_2017_ecolier_semifinale__prob13.png]]
 
-> (Points 6) In the stationery shop you can buy short strips of cardboard like 
-> the ones you see in the first figure: some consist of three small squares in a row, 
-> others of five; the small squares are all identical to each other. Each strip, 
-> regardless of its length, costs one euro. Using strips like these, Giuliana wants 
-> to cover the five strips that you see in the 
-> second figure, consisting of 10, 12, 16, 
-> 18 and 20 small squares in a row identical to the 
-> previous ones. The short strips she uses 
-> must overlap perfectly with 
-> those to be covered, therefore they must not 
-> protrude from them, and must not 
-> overlap each other. How many euros will Giuliana have to spend to carry out her plan?
+> (Point 6) At the stationery store, you can buy short strips of cardboard like the ones you see in the first figure: some consist of three small squares arranged in a line, and others of five; the small squares are all identical to one another. Each strip, regardless of its length, costs one euro. Using strips like these, Giuliana wants to cover the five strips you see in the second figure, which consist of 10, 12, 16, 18, and 20 small squares arranged in a line, identical to the previous ones. The short strips she uses must fit perfectly over the strips to be covered; therefore, they must not extend beyond them, and they must not overlap one another. How many euros will Giuliana have to spend to carry out her plan?
 
-**Answer:** 0018
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q13|src_kangourou_2017_ecolier_semifinale__Q13]]
 
 
 
@@ -585,11 +634,15 @@ The number of the knight dancing with the lady 374
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum number of persons with 4 children and 2 fathers
+*Minimum number of people with 4 children and 2 fathers*
 
-> (Points 8) In a room there are exactly four children, each with their own father, and exactly two fathers. What's the smallest number of people in the room for which this could happen?
+> (Point 8) In a room, there are exactly four children, each with their own father, and exactly two fathers. What is the smallest number of people in the room for which this could happen?
 
-**Answer:** 0005
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q14|src_kangourou_2017_ecolier_semifinale__Q14]]
 
 
 
@@ -674,35 +727,13 @@ Minimum number of persons with 4 children and 2 fathers
 \end{document}
 ```
 
-> (Points 8) How many triangles have their vertices at 3 of the points that
-> you see in the figure? (Warning: a triangle cannot have vertices at three
-> collinear points and, of the points in the figure, the 4 above and the 5 below are collinear.)
->  
-> Question No.
-> score
-> 2
-> 3
-> 3
-> 4
-> 4
-> 4
-> 5
-> 5
-> 6
-> 4
-> 4
-> 6
-> 6
-> 8
-> 8
-> answer
-> 0228
-> 0627
-> 0022
-> 0018
-> 0005
-> 0070
-> Among the answers to question 6 the correct answer, which is 8, does not appear.
-> B
+> (Question 8) How many triangles have their vertices at 3 of the points shown in the figure? (Note: a triangle cannot have its vertices at three collinear points, and among the points in the figure, the 4 points above and the 5 points below are collinear.)
+>
+> Question No. score 2 3 3 4 4 4 5 5 6 4 4 6 6 8 8 answer 0228 0627 0022 0018 0005 0070 Among the answers to question 6, the correct answer, which is 8, does not appear. B
 
-**Answer:** 0070
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_ecolier_semifinale#q15|src_kangourou_2017_ecolier_semifinale__Q15]]

@@ -35,11 +35,18 @@ level: gara del pubblico
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability sum of 9 dice <= 31*
+*Probability that the sum of 9 dice is at most 31; first 4 digits after the decimal point*
 
-> Concerto in D minor [15] The bardo Assuranceturing, as he cannot sing in public without ending up tied up like a salami, is locked in his hut to play dice. If he throws 9 Roman dice (common dice with 6 faces numbered 1 to 6), what is the probability that the sum of the outcome values is less than or equal to 31? As a response, provide the first four digits after the comma.
+> Concerto in a minor die
+> [15]
+> The bard Assuranceturing, seeing that he cannot sing in public without ending up tied up like a salami, stays shut in his hut playing dice. If he rolls 9 Roman dice (ordinary dice with 6 faces numbered from 1 to 6), what is the probability that the sum of the values shown is less than or equal to 31?
+> As the answer, give the first 4 digits after the decimal point.
 
-**Answer:** 5000
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2011_pubblico#q01|src_cesenatico_2011_pubblico__Q01]]
 
 
 
@@ -70,11 +77,20 @@ level: gara del pubblico
 <div class="qlang-split" data-lang="en"></div>
 
 
-*missing pieces of bronze*
+*How many bronze pieces Abelix still needs, if he already has 25 and a half copper pieces; the rates are a broken extraction*
 
-> On the boat for Britannia, when Abelix asks him for information about the type of coins used on his land, Cantorax replies: It's very simple! We have iron bars worth 3 sesterces and 12 plus 4 pieces of zinc. Zinc pieces, on the other hand, are worth 1 piece and 12 pieces of copper. Also, to make a sester, it takes 12 pieces of bronze or, alternatively, 6 pieces and 12 pieces of copper.  If Abelix already has 25 and a half pieces of copper, how many pieces of bronze does he need to reach the value of an iron barrel?
+> Change in small coins
+> [15]
+> On the boat to Britain, when Abelix asks him what sort of coins are used in his land, Cantorax replies: "It's very simple! We have iron ingots worth 3 sesterces and 1
+> 2 plus 4 pieces of zinc. Zinc pieces, on the other hand, are worth 1 piece
+> and 1
+> 2 of copper. Moreover, to make one sesterce one needs 12 pieces of bronze or, alternatively, 6 pieces and 1
+> 2 of copper." If Abelix already has 25 and a half pieces of copper, how many pieces of bronze does he still need in order to reach the value of one iron ingot?
 
-**Answer:** 0006
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+
+[[Quesiti/src_cesenatico_2011_pubblico#q02|src_cesenatico_2011_pubblico__Q02]]
 
 
 
@@ -102,11 +118,17 @@ level: gara del pubblico
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to pay 4027 ingots with bronze and copper
+*Ways to pay 4027 iron ingots with bronze pieces and copper pieces only, with no change*
 
-> An unmissable match [20] In Britannia a strange game is fashionable that is played between two teams, using balls, clubs and small arrows planted on the ground. The ticket for the final between Londinium and Cambridges costs 4027 ingots of iron (for the equivalence between the pieces see Problem 2). How many different ways, using only pieces of bronze and pieces of copper, can Cantorax pay for a ticket without having to receive the rest?
+> A match not to be missed
+> [20]
+> In Britain a strange game is in fashion, played between two teams, using balls, bats and little hoops stuck in the ground. The ticket to watch the grand final between Londinium and Cambridges costs 4027 iron ingots (for the equivalences between the pieces, see Problem 2). In how many different ways, using only bronze pieces and copper pieces, can Cantorax pay for a ticket without having to receive change?
 
-**Answer:** 8906
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2011_pubblico#q03|src_cesenatico_2011_pubblico__Q03]]
 
 
 
@@ -137,11 +159,17 @@ How to pay 4027 ingots with bronze and copper
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Turned distance from D (cart and decuman)*
+*Distance from D to the turret; BC = 250 cubits, CD = 500 cubits, area of PCD = 62500 cubiti2*
 
-> An error of measurement [20] The Roman legion's camp in Britannia is an ABCD rectangle of sides BC = 250 cubits and CD = 500 cubits. Unfortunately, due to an error caused by the confusion between British and Roman cubes, the camp was poorly oriented, as the card and the decuman, the two roads that mark the north-south and east-west axes, respectively, start from C and D and are not parallel to the sides of the rectangle. These two roads meet at a point P closer to C than to D and we know that the area of PCD is 62500 cubic metres2. Also, where the Cardo reaches the perimeter walls, there is a tower. How many cubits away is the tower from point D? (To avoid further damage, all the data on the problem is in Roman cubes.)
+> An error of measurement
+> [20]
+> The camp of the Roman legion in Britain is a rectangle ABCD with sides BC = 250 cubits and CD = 500 cubits. Unfortunately, because of a mix-up between British cubits and Roman cubits, the camp has been badly oriented: the cardo and the decumanus, the two roads that mark the north–south and east–west axes, start from C and from D respectively and are not parallel to the sides of the rectangle. These two roads meet at a point P closer to C than to D, and the area of PCD is 62500 cubiti2. Moreover, where the cardo comes to meet the perimeter walls, a turret stands. How many cubits is the turret from the point D? (To avoid further damage, all the data of the problem are in Roman cubits.)
 
-**Answer:** 0500
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2011_pubblico#q04|src_cesenatico_2011_pubblico__Q04]]
 
 
 
@@ -171,11 +199,17 @@ How to pay 4027 ingots with bronze and copper
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of wholly yellow fish*
+*Probability that a fish showing a yellow side is completely yellow, among 24 stolen fish; first 4 digits after the decimal point*
 
-> Coincidence at the rock [25] The fishing village of Lessicografix received a particularly poor batch of fish from Lutezia, so much so that these fish are red, yellow, blue, green... But often they are one color on one side and another on the other (while the individual sides are monochrome). The village children made fun of him, stealing 24 fish to hide them: 4 red and green, 3 green and blue, 5 yellow and blue, 5 yellow and red, 4 yellow and green and 3 completely yellow. Lessicografix, looking for his fish, sees the yellow side of a fish emerge from a bush not far away: what is the probability that the fish is completely yellow? As a response, provide the first four digits after the comma.
+> Chance at the rock
+> [25]
+> The fishmonger of the village, Lessicografix, has received a particularly poor consignment of fish from Lutetia, so poor that these fish are red, yellow, blue, green... but often one colour on one side and another on the other (while each single side is of one colour). The children of the village have played a trick on him, stealing 24 fish to hide: 4 red and green, 3 green and blue, 5 yellow and blue, 5 yellow and red, 4 yellow and green, and 3 completely yellow. Lessicografix, looking for his fish, sees the yellow side of a fish poking out of a nearby bush: what is the probability that the fish is completely yellow?
+> As the answer, give the first 4 digits after the decimal point.
 
-**Answer:** 3000
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+
+[[Quesiti/src_cesenatico_2011_pubblico#q05|src_cesenatico_2011_pubblico__Q05]]
 
 
 
@@ -203,11 +237,17 @@ How to pay 4027 ingots with bronze and copper
 <div class="qlang-split" data-lang="en"></div>
 
 
-The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculated as follows:
+*Remainder k when 1! + 2! + … + 2011! is divided by 4800*
 
-> The seventh sesterce [30] The bardo Assuranceturing composed a new ballad to celebrate the departure for Britannia. Since he loves to overdo it, instead of the classic stanza 44 Galli in line for 6 with the rest of 2 he decided to sing 1!+2!+3!+4!+·+2011! Britons in line for 4800 with the rest of the k. Obviously, he's tied up and beaten up before he can finish, and Borelix wonders, who knows what the value of k would have been?
+> The brass sesterce
+> [30]
+> The bard Assuranceturing has composed a new ballad to celebrate the departure for Britain. Since he loves to overdo things, instead of the classic verse "44 Gauls in rows of 6 with remainder 2" he has decided to sing "1!+2!+3!+4!+··+2011! Britons in rows of 4800 with remainder k". He is of course tied up and gagged before he can finish, and Borelix wonders: what would the value of k have been?
 
-**Answer:** 1113
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2011_pubblico#q06|src_cesenatico_2011_pubblico__Q06]]
 
 
 
@@ -237,11 +277,18 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three athletes side by side for the first time*
+*Seconds until Abelix, Velocipedos and Dopatus are side by side again; Dopatus takes 39 seconds a lap*
 
-> A quick deception [35] Abelix and Borelix want to help Cleopatra defeat Julius Caesar, but she does not believe them and subjects them to the terrible Fatiches. If they overcome them with the grace of the gods, they'll have the Queen's too. Fatica I is a 200-lap race on the track. Abelix, the Greek champion Velocipedos and the Roman champion Dopatus are taking part. On the way, they all start together from the same point on the track, running counter-clockwise at a constant speed. Abelix takes 120 seconds, Velocipedos 75 seconds and Dopatus (who secretly stole and drank some magic potion and will be disqualified after arrival) only 39 seconds. How many seconds from the start will all three athletes be back side by side for the first time?
+> A swift swindle
+> [35]
+> Abelix and Borelix want to help Cleopatra defeat Julius Caesar, but she does not believe them and sets them the terrible Labours. If they overcome them with the favour of the gods, they will have the queen's favour too.
+> The First Labour is a running race, 200 laps of the track. Abelix takes part, together with the Greek champion Velocipedos and the Roman champion Dopatus.
+> At the start they all set off together from the same point of the track, running anticlockwise at constant speed. Abelix takes 120 seconds to complete a lap, Velocipedos 75 seconds, and Dopatus (who has secretly stolen and drunk a little of the magic potion, and will be disqualified after the finish) only 39 seconds. How many seconds after the start will the three athletes next be all side by side for the first time?
 
-**Answer:** 2600
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2011_pubblico#q07|src_cesenatico_2011_pubblico__Q07]]
 
 
 
@@ -275,13 +322,18 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of not detecting saboteurs*
+*Probability of discovering none of 5 saboteurs, stopping after all 5 spies are found among 55 workers*
 
-> Building investigations [35] Five Roman spies and five saboteurs infiltrated the construction site of Numerotris. Abelix has heard of the 5 spies (though he doesn't know who they are) but not the saboteurs and starts questioning all 55 workers at the construction site in random order. If he finds a spy or a saboteur, he'll find out for sure, but once you find all five of them, he stops questioning. What's the probability that he won't find out any of the saboteurs? As a response, provide the first four digits after the comma. Team competition 2011  Public competition  Problem texts  1/2
-> 
-> 2/2 Team competition 2011  Public competition  Problem texts
+> A building inquiry
+> [35]
+> On Numerotris's building site 5 Roman spies and 5 saboteurs working for the architect who lost the contract have infiltrated. Abelix has learnt of the 5 spies (though he does not know who they are) but not of the saboteurs, and he begins to question all 55 workers on the site in random order. If he finds a spy or a saboteur he is sure to discover them, but once he has found all 5 spies he stops the questioning. What is the probability that he does not discover even one of the saboteurs?
+> As the answer, give the first 4 digits after the decimal point.
 
-**Answer:** 0039
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2011_pubblico#q08|src_cesenatico_2011_pubblico__Q08]]
 
 
 
@@ -310,11 +362,17 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Wall perimeter around pyramids (geodetic)*
+*Perimeter of the wall around a right square pyramid with equilateral faces of side 125, apex 235 cleopassi away and no less*
 
-> A wonder of the world, Cleopatra had another pyramid built, this time straight and square, with side faces of equilateral triangles of 125 cleopasses. The queen demanded that the architects surround the pyramid, located in a perfectly flat desert, with a perimeter wall so that, from any point of the inner wall, Cleopatra could reach the top of the pyramid in 235 cleopasses (but nothing less), walking through the desert and on the surface of the pyramid. What will the perimeter of the wall be calculated in cleopasses?
+> A wonder of the world
+> [40]
+> Cleopatra has had another pyramid built, this time a right pyramid with square base, having as lateral faces equilateral triangles of side 125 cleopassi. The queen has required the architects to surround the pyramid, which stands in a perfectly flat desert, with a perimeter wall in such a way that, from any point of the inner wall, Cleopatra can reach the apex of the pyramid in 235 cleopassi (but nothing less), walking on the desert and on the surface of the pyramid. What will the perimeter of the wall be, in cleopassi?
 
-**Answer:** 1214
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2011_pubblico#q09|src_cesenatico_2011_pubblico__Q09]]
 
 
 
@@ -343,11 +401,18 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of base figures 2 of p(128) per product*
+*Sum of the base-2 digits of p(128), where p is given by a broken product*
 
-> An unusual climb [40] The third and final difficulty imposed on the Gauls by Cleopatra consists in solving the enigma of the venerable Wise Man of the Mountain. The prodigy Abelix courageously submits to this test as well. The old man bends it carefully, takes the polynomial p(x) = ∏10 i=2(1+x2i)−1 and burns it asking him what the sum of the digits on the base 2 of p(128 is worth. How should Abelix respond?
+> An unusual climb
+> [40]
+> The third and last Labour imposed on the Gauls by Cleopatra consists in solving the riddle of the venerable Sage of the Mountain. Brave Abelix submits to this trial too. The old man blindfolds him carefully, takes the polynomial p(x) = ∏10
+> i=2(1+x2i)−1 and asks him point-blank for the sum of the base-2 digits of p(128). How must Abelix reply?
 
-**Answer:** 0511
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2011_pubblico#q10|src_cesenatico_2011_pubblico__Q10]]
 
 
 
@@ -384,11 +449,24 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of spies among workers (cyclical claims)*
+*How many Roman spies are among 12624 Egyptian workers, from a cyclic pattern of true and false statements*
 
-> Differences of opinion [45] The work on the construction of Cleopatra's monument has been accelerated and now there are the beauty of 12624 Egyptian workers, among whom unfortunately many Roman spies are feared to have infiltrated (but fortunately there is no longer any saboteur). When Abelix asks each of the workers to say what they know, he gets in the order the answers: among us there is at least 1 Egyptian, among us there are at least 2 Egyptians, among us there are less than 3 Egyptians, the construction site workers are at least 4, the construction site workers are at least 5, the construction site workers are less than 6, and continuing the seventh as the first, the eighth as the second and so on, with the difference that the th worker speaks of Egyptians or n workers. Clearly the Egyptian workers will always tell him the truth while the Roman spies will always lie to him. How many Roman spies have infiltrated the workers?
+> A difference of opinion
+> [45]
+> Work on the construction of Cleopatra's monument has sped up, and there are now fully 12624 Egyptian workers, among whom it is unfortunately feared that many Roman spies have infiltrated (but fortunately there is no longer any saboteur). When Abelix asks each of the workers to say what he knows, he obtains, in order, the replies:
+> "among us there is at least 1 Egyptian",
+> "among us there are at least 2 Egyptians",
+> "among us there are fewer than 3 Egyptians",
+> "the workers on the site are at least 4",
+> "the workers on the site are at least 5",
+> "the workers on the site are fewer than 6",
+> and so on, the seventh like the first, the eighth like the second, and so forth, with the difference that the nth worker speaks of n Egyptians or n workers. Clearly the Egyptian workers will always tell him the truth, while the Roman spies will always lie to him. How many Roman spies have infiltrated among the workers?
 
-**Answer:** 5049
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2011_pubblico#q11|src_cesenatico_2011_pubblico__Q11]]
 
 
 
@@ -418,11 +496,17 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum time broken to two orthogonal lines*
+*Minutes for the slowest two-leg orthogonal approach, at 1/5 and 1/10 of a mile per hour, to a ship 14 miles away*
 
-> Who told you to stop? [45] At about the time of the pennyhill, pirates spotted a ship stationed in the middle of the Mediterranean, 14 miles away from them. Tosto, they're headed there to loot her. However, in fear that (by chance) it will be populated by the usual Gauls, they proceed with extreme caution. Their approach route consists of two straight lines, orthogonal to each other, the first at 1/5 miles per hour, the second at 1/10 miles per hour. Moreover, of all the routes of this kind, they choose the slowest. How many minutes will it take the pirate ship to intercept each other (where, of course, the usual Gauls are crushing a little bit)?
+> Who called for boarding?
+> [45]
+> At about the hour of the afternoon nap, the pirates have sighted a ship lying still in the middle of the Mediterranean, 14 miles away from them. They make straight for it, to plunder it. However, fearing that (to crown their misfortune) it may be populated by the usual Gauls, they advance with extreme caution. Their approach consists of two straight legs, orthogonal to each other, the first at 1/5 of a mile per hour, the second at 1/10 of a mile per hour. Moreover, among all routes of this kind, they choose the slowest. How many minutes will the pirates' ship take to intercept the other (where, of course, the usual Gauls are having a nap)?
 
-**Answer:** 9391
+**Topic:** [[topic_geometria_analitica|Analytic geometry]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2011_pubblico#q12|src_cesenatico_2011_pubblico__Q12]]
 
 
 
@@ -456,11 +540,19 @@ The remaining k of the sum 1!+...+2011! The amount of the loan shall be calculat
 <div class="qlang-split" data-lang="en"></div>
 
 
-It's likely to return to office 73 (shift)
+*Probability of ending up back at office 73 after 900 steps; first 4 digits after the decimal point*
 
-> With no way out [50] Abelix has to get past one of the Facies imposed by Cleopatra, he has to get a pass A-38 issued from office 73, at the palace of the Roman prefect, where the mad bureaucracy forces him to turn from one to the other of the 100 offices there (numbered 1 to 100). In fact, the prefect had previously prepared a day with tickets numbered from 1 to 100 and had one drawn from each office. Whenever Abelix asks an office for a document, the employees explain that he needs another document first, to be obtained at another office whose number they read from the ticket. Abelix regularly starts by asking for the A-38 passport at the 73 office and for a while follows the instructions, but after 900 times he is discouraged and decides to go to the tough manners with the employees of the office in front of him. What are the odds that I'll end up getting into trouble with the very employees of office 73? As a response, provide the first four digits after the comma.
+> No way out
+> [50]
+> To overcome another of the Labours imposed by Cleopatra, Abelix must get a pass A-38 issued by office 73, in the palace of the Roman prefect, where the mad bureaucracy forces him to go from one to another of the 100 offices there (numbered from 1 to 100). In fact the prefect has previously prepared an urn with slips numbered from 1 to 100, and has had one drawn by each office. Every time Abelix asks an office for a document, the clerks explain that he first needs another document, to be obtained from another office, whose number they read off the slip.
+> Abelix duly starts by asking office 73 for pass A-38, and for a while he follows the directions; but after 900 times he gets fed up and decides to get rough with the clerks of the office he finds himself in front of. What is the probability that he ends up taking it out precisely on the clerks of office 73?
+> As the answer, give the first 4 digits after the decimal point.
 
-**Answer:** 2100
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2011_pubblico#q13|src_cesenatico_2011_pubblico__Q13]]
 
 
 
@@ -489,11 +581,16 @@ It's likely to return to office 73 (shift)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Wrapped length of bulge on the mattress*
+*Length, in decametres, of a sheet 0.1 mm thick rolled an integer number of turns onto a pin, from diameter 4 cm to 65 cm*
 
-> A teacher in the kitchen [35] Bonferrina, the wife of the village chief, when she has to prepare the outing for the big banquet always drinks a little magic potion. Thanks to its magical effect, it is thus able to stretch it evenly with a thickness of 0.1 mm. After laying it down, he wraps it over his beloved mattress so that he can carry it comfortably to the village oven. Knowing that the paste makes a whole number of turns around the matrix, that the diameter of this roll is 65 cm and that initially the diameter of the matrix was 4 cm, find out how long the fold is in decameters.
+> A mistress in the kitchen
+> [35]
+> Bonferrina, the wife of the village chief, always drinks a little magic potion when she has to prepare the pastry sheet for the great banquet. Thanks to its magical effect she is able to roll it out evenly to a thickness of 0.1 mm. After rolling it out she winds it back onto her beloved rolling pin, so as to carry it comfortably to the village oven. Knowing that the dough makes an integer number of turns around the pin, that the diameter of this roll is 65 cm, and that the diameter of the pin was initially 4 cm, find how long the sheet is, in decametres.
 
-**Answer:** 0330
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+
+[[Quesiti/src_cesenatico_2011_pubblico#q14|src_cesenatico_2011_pubblico__Q14]]
 
 
 
@@ -522,11 +619,18 @@ It's likely to return to office 73 (shift)
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following information shall be provided for the purposes of this Regulation:
+*Last four digits of the product SPQR, four odd primes at four camps, with the divisor conditions, and the total as small as possible*
 
-> These Romans are First [50] In each of the four Roman encampments, Razionalorum, Realorum, Complessorum and Ciclotomicum, there is an odd first number of legionaries: S a Razionalorum, P a Realorum, Q a Complessorum and R a Ciclotomicum. To increase the efficiency of military operations, the four numbers were chosen so that S−1 has P divisors, P−1 has Q divisors and Q−1 has R divisors. Knowing that, in total, the Roman legionaries are the smallest possible number, what are the last four digits of the SPQR product?
+> These Romans are primes
+> [50]
+> In each of the four Roman camps, Razionalorum, Realorum, Complessorum and Ciclotomicum, there is an odd prime number of legionaries: S at Razionalorum, P at Realorum, Q at Complessorum and R at Ciclotomicum. To increase the efficiency of military operations, the four numbers have been chosen so that S−1 has P divisors, P−1 has Q divisors and Q−1 has R divisors.
+> Knowing that, in total, the Roman legionaries are as few as possible, what are the last four digits of the product SPQR?
 
-**Answer:** 1935
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2011_pubblico#q15|src_cesenatico_2011_pubblico__Q15]]
 
 
 
@@ -564,10 +668,15 @@ The following information shall be provided for the purposes of this Regulation:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Druid beard length (Julian calendar)*
+*Length of the druid's beard today, grown from 2 metres at age 18 by the integer part of days-in-the-year / age, on Caesar's calendar with no exceptions to leap years*
 
-> Pelose coincidences [70] Parabolix discovered a singular coincidence between the growth of a druid's beard and the new calendar promulgated by Julius Caesar, in which one year every four is bisestile, without exception. At the age of 18, a druid's beard is exactly 2 meters long and from that time on grows regularly according to the following rule: every year it grows by a measure of L (in centimeters) equal to the entire part of the quozient days of the year/age of the druid in that year. Today Abelix and Borelix participate in the birthday of the druid Parabolix which marks the end of the year in which the beard grew for the last time. Knowing that the year before Parabolix's 18th birthday it was a bisestile, how many centimeters is a beard today?
-> 
-> This year's event is the 12th national team competition. Problem Points
+> Hairy coincidences
+> [70]
+> Parabolix has discovered a singular coincidence between the growth of a druid's beard and the new calendar promulgated by Julius Caesar, in which every fourth year is a leap year, with no exceptions.
+> On turning 18 a druid's beard is exactly 2 metres long, and from that moment it grows regularly according to the following rule: each year it lengthens by a measure L (in centimetres) equal to the integer part of the quotient days in the year / the druid's age in that year.
+> Today Abelix and Borelix are attending the birthday of the druid Parabolix, which marks the end of the year in which the beard grew for the last time. Knowing that the year before Parabolix turned 18 was a leap year, how many centimetres long is the beard today?
 
-**Answer:** 1167
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+
+[[Quesiti/src_cesenatico_2011_pubblico#q16|src_cesenatico_2011_pubblico__Q16]]

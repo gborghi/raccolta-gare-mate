@@ -32,11 +32,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il numero intero minimo positivo m con 105 √ 9^(p^2) - 29^p + m per tutti i numeri primi p > 3*
+*Trovare il più piccolo intero positivo m tale che 105 | 9^(p^2) - 29^p + m per tutti i numeri primi p > 3*
 
-> Trova il numero intero meno positivo $m$, in modo che per ogni numero primo $p > 3$, $$105 \mid 9^{p^2} - 29^p + m.$$ (posato da Yang Hu)
+> Trovare il minimo intero positivo $m$ tale che, per ogni numero primo $p > 3$,
+> $$105 \mid 9^{p^2} - 29^p + m.$$
+> (proposto da Yang Hu)
 
-**Risposta:** 20
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2012#q01|src_cn_cwmo_2012__Q01]]
 
 
 
@@ -59,9 +66,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari dimensioni
+*Tra qualsiasi n vertici di un poligono regolare a (2n-1) lati, tre di essi formano un triangolo isoscele*
 
-> Prove che: tra i vertici $n$ di un poligono regolare $2n - 1$ ($n \ge 3$), ci sono tre, che sono i vertici di un triangolo di uguale occhio. (Posizionato da Zou Jin)
+> Dimostrare che: tra qualsiasi $n$ vertici di un poligono regolare $2n - 1$ ($n \ge 3$), ce ne sono tre che sono i vertici di un triangolo isoscele. (proposto da Zou Jin)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2012#q02|src_cn_cwmo_2012__Q02]]
 
 
 
@@ -85,11 +99,16 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre massimo di sottoinsiemi di un insieme di n elementi con intersezione o contenimento in coppia*
+*Numero massimo di sottoinsiemi di un insieme con n elementi aventi intersezione o contenimento a due a due*
 
-> $E$ sia un insieme dato con elementi $n$. Supponiamo che $A_1, A_2, \ldots, A_k$ siano $k$ sudinsiemi non vuoti distinti di $E$, con la proprietà che: per qualsiasi $1 \le i < j \le k$, sia $A_i \cap A_j = \emptyset$ che uno include l'altro (cioè $A_i \subseteq A_j$, o $A_j \subseteq A_i$). Trova il valore massimo di $k$. (Posizionato da Lang Guangqiong)
+> Sia $E$ un insieme dato con $n$ elementi. Si supponga che $A_1, A_2, \ldots, A_k$ siano $k$ sottoinsiemi distinti e non vuoti di $E$, con la proprietà che: per ogni $1 \le i < j \le k$, o $A_i \cap A_j = \emptyset$ o uno include l'altro (cioè $A_i \subseteq A_j$, oppure $A_j \subseteq A_i$). Determinare il valore massimo di $k$. (proposto da Lang Guangqiong)
 
-**Risposta:** 2n-1
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2012#q03|src_cn_cwmo_2012__Q03]]
 
 
 
@@ -114,11 +133,18 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove EF/B1C1 >= r/R per il punto interno P del triangolo acuto*
+*Dimostrare che EF/B1C1 >= r/R per il punto interno P di un triangolo acutangolo*
 
-> Che $P$ sia qualsiasi punto interno di un $\triangle ABC$ acuto, $E$, $F$ siano i punti di proiezione di $P$ su linee $AC$, $AB$, rispettivamente, e che le linee estese di $BP$, $CP$ incrociano il circoncircolo di $\triangle ABC$ nei punti $B_1 \ne B$ e $C_1 \ne C$, rispettivamente. $R$ e $r$ indicano rispettivamente i radii del circoncircolo e dell'incircolo di $\triangle ABC$. Dimostra che $\dfrac{EF}{B_1C_1} \ge \dfrac{r}{R}$, e l'uguaglianza vale se e solo se $P$ è l'incentro di $\triangle ABC$. (Possibile da Li Qiusheng)
+> Sia $P$ un qualunque punto interno di un $\triangle ABC$ acuto; siano $E$, $F$ i punti di proiezione di $P$ sulle rette $AC$, $AB$, rispettivamente, e le rette estese di $BP$, $CP$ intersechino la circonferenza circoscritta a $\triangle ABC$ nei punti $B_1 \ne B$, $C_1 \ne C$, rispettivamente. Siano $R$ e $r$ i raggi della circonferenza circoscritta e della circonferenza inscritta di $\triangle ABC$, rispettivamente. Dimostrare che $\dfrac{EF}{B_1C_1} \ge \dfrac{r}{R}$, e l'uguaglianza vale se e solo se $P$ è l'incentro di $\triangle ABC$. (proposto da Li Qiusheng)
 
 ![[src_cn_cwmo_b11_w252__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2012#q04|src_cn_cwmo_2012__Q04]]
 
 
 
@@ -143,11 +169,18 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il punto medio di OH si trova sul circoncircolo del triangolo ABC*
+*Il punto medio di OH giace sulla circonferenza circoscritta al triangolo ABC*
 
-> Che $H$ e $O$ siano rispettivamente l'ortocentro e il circumcentro del triangolo acuto $\triangle ABC$ ($A$, $H$, $O$ non sono collineari). Supponiamo che $D$ sia la proiezione di $A$ sulla linea $BC$, e che il bisettore perpendicolare del segmento $HO$ incontra la linea $BC$ a $E$. Prove che il punto medio $N$ di $OH$ si trova sul circoncircolo di $\triangle ABC$. (Posizionato da Fang Zhiqiang)
+> Siano $H$ e $O$ rispettivamente l'ortocentro e il circocentro del triangolo acuto $\triangle ABC$ ($A$, $H$, $O$ non sono allineati). Si supponga che $D$ sia la proiezione di $A$ sulla retta $BC$, e che la mediatrice del segmento $HO$ incontri la retta $BC$ in $E$. Dimostrare che il punto medio $N$ di $OH$ giace sulla circonferenza circoscritta a $\triangle ABC$. (proposto da Fang Zhiqiang)
 
 ![[src_cn_cwmo_b11_w252__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2012#q05|src_cn_cwmo_2012__Q05]]
 
 
 
@@ -171,11 +204,16 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova un intero k dove la sequenza attraversa 1*
+*Trovare l'intero k in cui la successione attraversa 1*
 
-> La sequenza $\{a_n\}$ è definita da $a_0 = \dfrac{1}{2}$, $a_{n+1} = a_n + \dfrac{1}{2012}a_n^2$, $n = 0, 1, 2, \ldots$. Trova un numero intero $k$ tale da $a_k < 1 < a_{k+1}$. (Posizionato da Bian Hongping)
+> La successione $\{a_n\}$ è definita da $a_0 = \dfrac{1}{2}$, $a_{n+1} = a_n + \dfrac{1}{2012}a_n^2$, $n = 0, 1, 2, \ldots$. Trovare un intero $k$ tale che $a_k < 1 < a_{k+1}$. (proposto da Bian Hongping)
 
-**Risposta:** 2012
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2012#q06|src_cn_cwmo_2012__Q06]]
 
 
 
@@ -198,9 +236,16 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le n>=2 per le quali n×n griglia può essere rovesciata a tutte -1*
+*Trovare tutti gli n>=2 per cui una griglia n×n può essere capovolta in modo da ottenere tutti -1*
 
-> Data una griglia $n \times n$, chiamiamo due celle adiacenti se hanno un lato comune. All'inizio, ad ogni cella viene assegnato il numero $+1$. Un'operazione sulla griglia è definita come segue: si sceglie una cella, e poi si cambiano i segni di ogni numero nelle sue celle adiacenti (ma non si cambia il segno del numero in sé). Trova tutti i numeri interi $n \ge 2$, in modo che dopo un numero finito di operazioni, tutti i numeri nelle celle della griglia siano cambiati in $-1$. (Possibile da Shen Huyue)
+> Dato una griglia $n \times n$, due celle della griglia si dicono adiacenti se hanno un lato in comune. All'inizio, a ciascuna cella viene assegnato il numero $+1$. Un'operazione sulla griglia è definita come segue: si sceglie una cella e poi si cambiano i segni di tutti i numeri presenti nelle celle ad essa adiacenti (ma non si cambia il segno del numero contenuto nella cella stessa). Determinare tutti gli interi $n \ge 2$ tali che, dopo un numero finito di operazioni, tutti i numeri contenuti nelle celle della griglia siano cambiati in $-1$. (proposto da Shen Huyue)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cwmo_2012#q07|src_cn_cwmo_2012__Q07]]
 
 
 
@@ -223,6 +268,13 @@ Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari di
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti i numeri primi p dividendo n^(n+1)+(n+1)^n per infiniti n*
+*Trovare tutti i numeri primi p che dividono n^(n+1)+(n+1)^n per infiniti valori di n*
 
-> Trova tutti i numeri primi $p$, per i quali ci sono infinitamente molti interi positivi $n$, come $p \mid n^{n+1} + (n+1)^n$. (Possibile da Chen Yonggao)
+> Trovare tutti i numeri primi $p$ per i quali esistono infiniti numeri interi positivi $n$ tali che $p \mid n^{n+1} + (n+1)^n$. (proposto da Chen Yonggao)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2012#q08|src_cn_cwmo_2012__Q08]]

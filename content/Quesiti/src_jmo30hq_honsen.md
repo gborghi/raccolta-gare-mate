@@ -33,9 +33,22 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi positivi che fanno due espressioni di numeri interi*
+*Coppie di interi positivi che rendono intere due espressioni*
 
-> Trova tutte le coppie di integri positivi $(m, n)$ in modo che sia $$\frac{n^2+1}{2m}$$ che $$\sqrt{2^{n-1}+m+4}$$ siano integri.
+> Determinare tutte le coppie di interi positivi $(m, n)$ tali che sia
+>
+> $$\frac{n^2+1}{2m}$$
+>
+> sia
+>
+> $$\sqrt{2^{n-1}+m+4}$$
+>
+> siano interi.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo30hq_honsen#q01|src_jmo30hq_honsen__Q01]]
 
 
 
@@ -58,9 +71,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circoli e condizione di perpendicularità nel triangolo ABC*
+*Due rette sono perpendicolari*
 
-> Il $ABC$ deve essere un triangolo con $BC < AB$ e $BC < AC$. sui lati $AB$ e $AC$, prendere rispettivamente i punti $D$ e $E$ in modo tale che $BD = CE = BC$. La linea $P$ deve essere l'intersezione della linea $BE$ e della linea $CD$. $Q$ sia uno dei punti di intersezione del circoncircolo del triangolo $ABE$ e del circoncircolo del triangolo $ACD$ diversi da $A$. Provare che la linea $PQ$ e la linea $BC$ sono perpendicolari.
+> Sia $ABC$ un triangolo con $BC < AB$ e $BC < AC$. Sui lati $AB$ e $AC$ si prendano rispettivamente punti $D$ e $E$ tali che $BD = CE = BC$. Sia $P$ l'intersezione della retta $BE$ e della retta $CD$. Sia $Q$ uno dei punti di intersezione della circonferenza circoscritta al triangolo $ABE$ e della circonferenza circoscritta al triangolo $ACD$, diverso da $A$. Dimostrare che la retta $PQ$ e la retta $BC$ sono perpendicolari.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo30hq_honsen#q02|src_jmo30hq_honsen__Q02]]
 
 
 
@@ -85,9 +103,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni in cui una determinata disuguaglianza si applica a tutti gli integri*
+*Funzioni sugli interi positivi che soddisfano un'equazione funzionale*
 
-> Trova tutte le funzioni $f$ definite sui numeri interi positivi che assumono valori di numeri interi positivi in modo tale che per qualsiasi numero intero $m, n \ge 1$, $$m^2 + f(n)^2 + (m - f(n))^3 \ge f(m)^2 + n^2$$ sia contenuto.
+> Determinare tutte le funzioni $f$ definite sugli interi positivi, a valori interi positivi, tali che per qualunque interi $m, n \ge 1$ valga
+>
+> $$m^2 + f(n)^2 + (m - f(n))^3 \ge f(m)^2 + n^2$$
+
+**Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo30hq_honsen#q03|src_jmo30hq_honsen__Q03]]
 
 
 
@@ -114,13 +139,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due giocatori, punti speciali sul cerchio; mostrare la frazione di coppie connesse è grande*
+*Un giocatore può sempre ottenere almeno un dato numero di segmenti misti*
 
-> $n \ge 2$ sia un numero intero. Supponiamo che ci siano $3n$ punti distinti su un cerchio, chiamati punti speciali. I giocatori $A$ e $B$ eseguono alternativamente la seguente operazione $n$ ogni volta.
-> 
-> In primo luogo, il giocatore $A$ sceglie 2 punti speciali che non sono ancora collegati da un segmento e li collega con un segmento. Il giocatore $B$ sceglie un punto speciale che non ha ancora avuto un pezzo posto su di esso e lo pone.
-> 
-> Indipendentemente dal modo in cui il giocatore $B$ gioca, dimostrare che quando tutte le operazioni $n$ sono terminate, il giocatore $A$ può sempre fare in modo che il numero di segmenti che collegano un punto speciale con un pezzo su di esso a un punto speciale senza un pezzo su di esso sia almeno $\dfrac{n}{6}$.
+> Sia $n \ge 2$ un intero. Si supponga che su una circonferenza ci siano $3n$ punti distinti, detti punti speciali. I giocatori $A$ e $B$ eseguono a turno l'operazione seguente, $n$ volte ciascuno.
+>
+> Dapprima il giocatore $A$ sceglie 2 punti speciali non ancora uniti da un segmento e li unisce con un segmento. Poi il giocatore $B$ sceglie 1 punto speciale su cui non è ancora stata posta una pedina e vi pone una pedina.
+>
+> Comunque giochi il giocatore $B$, dimostrare che, quando tutte le $n$ operazioni sono finite, il giocatore $A$ può sempre fare in modo che il numero di segmenti che uniscono un punto speciale con una pedina a un punto speciale senza pedina sia almeno $\dfrac{n}{6}$.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalità]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+[[Quesiti/src_jmo30hq_honsen#q04|src_jmo30hq_honsen__Q04]]
 
 
 
@@ -147,8 +177,17 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le sequenze di numeri interi positivi in cui la condizione gcd è valida per tutti m,n*
+*Successioni di interi positivi che soddisfano una relazione con il massimo comun divisore*
 
-> Trova tutte le sequenze $a_1, a_2, \ldots$ di interi positivi in modo tale che per tutti gli interi positivi $m, n$, $$\gcd(a_{m+n}, a_m + a_n) > c(m+n)$$ si tenga, dove $c$ è un certo numero reale positivo fisso.
-> 
-> Qui, per i numeri interi positivi $x, y$, $\gcd(x, y)$ indica il più grande divisore comune di $x$ e $y$.
+> Determinare tutte le successioni $a_1, a_2, \ldots$ di interi positivi tali che per qualunque interi positivi $m, n$ valga
+>
+> $$\gcd(a_{m+n}, a_m + a_n) > c(m+n)$$
+>
+> dove $c$ è un numero reale positivo fissato.
+>
+> Qui, per interi positivi $x, y$, $\gcd(x, y)$ indica il massimo comun divisore di $x$ e $y$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]], [[method_cassetti|Principio dei cassetti]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo30hq_honsen#q05|src_jmo30hq_honsen__Q05]]

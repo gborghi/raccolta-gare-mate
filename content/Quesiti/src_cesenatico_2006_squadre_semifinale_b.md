@@ -35,11 +35,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AP height-median intersection in a rectangular triangle of 21.20*
+*AP intersection: altitude to the hypotenuse in a right-angled triangle 21.20*
 
-> Unveiled impostors People often wonder how a mathematician can be recognized by a mateban, that is, someone who is fasting mathematics. The method is very simple! Try asking a mattress the following question. In an ABC triangle, straight to A, be AB = 21 and AC = 20. P is the intersection of height from A to median from B. Determine the AP. Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+> Impostors Exposed
+> People often wonder how it is possible to tell a mathmago from a matebbano—that is, someone who knows nothing about mathmagic. The method is very simple! Try asking a matebbano the following question: In triangle ABC, which is right-angled at A, let AB = 21 and AC = 20. Let P be the intersection of the altitude from A and the median from B. Determine AP. Answer by giving the sum of the numerator and the denominator of the fraction reduced to its lowest terms.
 
-**Answer:** 6731
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_b#q01|src_cesenatico_2006_squadre_semifinale_b__Q01]]
 
 
 
@@ -81,9 +87,14 @@ level: squadre
 
 ![[src_cesenatico_2006_squadre_semifinale_b__prob2.png]]
 
-> Hardy, Ron, and Hermita love spending the afternoon in front of a smoking cup of tea in the hunter's company. On these occasions the meticulous Hermit has a new problem of geomancy, her favorite subject, to propose to friends. Points B, C, D and E lie on the same circumference and both A the intersection between the straight BE and the straight CD (see figure). We know that DE = AE and that d ACB = 50°. Determine the DAE. A B D E C
+> The gamekeeper's hut
+> Hardy, Ron, and Hermita love spending the afternoon with a steaming cup of tea in the company of the gamekeeper. On these occasions, the meticulous Hermita always has a new geomancy problem—her favorite subject—to propose to her friends. Points B, C, D, and E lie on the same circle, and A is the intersection of line BE and line CD (see figure). We know that DE = AE and that ∠ACB = 50°. Determine ∠DAE. A B D E C
 
-**Answer:** 0065
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_b#q02|src_cesenatico_2006_squadre_semifinale_b__Q02]]
 
 
 
@@ -110,11 +121,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Sum of years N in [1492,2006] with x^4-y^4=N solvable*
+*Sum of N years in [1492,2006] with x^4-y^4=N solvable*
 
-> Succession For a strange mathematical coincidence, in the modern age the director of the Higher Mathematical School was appointed only in the years with the following peculiar property: it was all the years N between 1492 and 2006 for which the equation x4 −y4 = N has solution in positive integers. What's the sum of these years?
+> Successions
+> By a strange, math-magical coincidence, in the Modern Era, the director of the Higher School of Math-Magic was appointed only in years with the following peculiar property: these were all the years N between 1492 and 2006 for which the equation x4 − y4 = N has a solution in positive integers. What is the sum of these years?
 
-**Answer:** 3471
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_b#q03|src_cesenatico_2006_squadre_semifinale_b__Q03]]
 
 
 
@@ -141,11 +158,17 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of final zeros of the 1800000 splitter product*
+*Number of trailing zeros in the product of the divisors of 1800000*
 
-> The preparation of certain potions is long and elaborate, undertaken only by experienced mathematicians. Hermitate is intended for the preparation of the Polyfactor potion: it requires a number of leeches. This number P is the product of all positive divisors of 1800000 (including 1800000 itself). How many zeros does P end with?
+> The Polyfactor Potion
+> The preparation of certain potions is lengthy and intricate—a task for expert matemages alone. The skilled Hermita is busy preparing the Polifattore potion: it requires a certain number of leeches. This number P is the product of all positive divisors of 1800000 (including 1800000 itself). How many zeros does P end with?
 
-**Answer:** 0315
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_b#q04|src_cesenatico_2006_squadre_semifinale_b__Q04]]
 
 
 
@@ -174,11 +197,17 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (a,b) with a<=246 and a/2< b< 2a/3*
+*Pairs (a,b) with a<=246 and a/2<b<2a/3*
 
-> The first test of the tournament finally came the big day of the Triangle tournament, which compares the best math students. Here's the first test: Find how many pairs (a,b) of positive integers are such as a ≤246 and a 2 < b < 2 3a.
+> The first round of the tournament
+> Finally, the big day of the TreAngoli tournament has arrived—a tournament that pits the best students of mathmagic against one another. Here is the first challenge: find how many pairs (a,b) of positive integers satisfy a ≤ 246 and a² < b < 2³a.
 
-**Answer:** 4961
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_b#q05|src_cesenatico_2006_squadre_semifinale_b__Q05]]
 
 
 
@@ -208,11 +237,20 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*9000th integer other than squared*
+*The 9000th integer that is neither a square nor a cube*
 
-> At the divination lesson, Hardy and Ron were again bitten to chat during the boring divination lesson. For punishment , they must solve an exercise: given sequence 2, 3, 5, 6, 7, 10, 11. .. , made up of all positive integers that are not n squares n cubes of other integers, predict the 9,000th term. Team competition 2006  Semifinal B Problem tests  Pag. 1 di 2
+> At the Divination Class
+> Hardy and Ron were caught chatting again during the boring Divination lesson. As punishment, they must solve an exercise: given the sequence 2, 3, 5, 6, 7, 10, 11, ..., formed by all positive integers that are neither squares nor cubes of other integers, they must predict the 9000th term.
+> 2006 Team Competition – Semifinal B – Problem Statements – Page 1 of 2
+>
+> Page 2 of 2 – 2006 Team Competition – Semifinal B – Problem Statements
 
-**Answer:** 9111
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_b#q06|src_cesenatico_2006_squadre_semifinale_b__Q06]]
 
 
 
@@ -239,11 +277,17 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Biggest number of 4 digits with a square ending equal to*
+*Largest 4-digit number whose square ends the same*
 
-> Competitors in the dreadful Triangle Tournament who have passed the first test are now facing the second. They have to find the largest number of exactly four digits such that its square ends with the same four-digit number.
+> The second round of the tournament
+> The competitors in the formidable TreAngoli tournament who have passed the first round are now facing the second round. They must find the greatest number with exactly 4 digits such that its square ends with the same 4-digit number.
 
-**Answer:** 9376
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_b#q07|src_cesenatico_2006_squadre_semifinale_b__Q07]]
 
 
 
@@ -270,11 +314,17 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of the square root of x^3-89x^2+72x-11*
+*Sum of the squares of the roots of x^3-89x^2+72x-11*
 
-> The end of the Triangle tournament is near, and soon the name of the supreme mathematician will be known, the one who will be remembered for ages to come. Only one test separates Hardy from the deserved triumph: determining how much the sum of the squares of the roots of the polynomial x3 −89x2 +72x−11 is worth.
+> The final match of the tournament
+> The end of the TreAngoli tournament is near, and soon the name of the supreme math wizard will be known—the one who will be remembered for ages to come. Only one test separates Hardy from well-deserved triumph: determining the value of the sum of the squares of the roots of the polynomial x³ − 89x² + 72x − 11.
 
-**Answer:** 7777
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_b#q08|src_cesenatico_2006_squadre_semifinale_b__Q08]]
 
 
 
@@ -301,11 +351,17 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length BC given by two sides and median by A*
+*Length of BC given two sides and the median from A*
 
-> The only way to make visible what has been written about the construction of the malandrino is to solve a geometric problem: in an ABC triangle the lengths of the sides coming out of A are 799 and 1123, and the median coming out of A is 799. What's the length of BC?
+> The Construction of the Scamp
+> The only way to make visible what has been written about the construction of the scoundrel is to solve a geomantic problem: in triangle ABC, the lengths of the sides emanating from A are 799 and 1123, and the median emanating from A has length 799. What is the length of BC?
 
-**Answer:** 1116
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_b#q09|src_cesenatico_2006_squadre_semifinale_b__Q09]]
 
 
 
@@ -333,11 +389,17 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary values of a with a^2+b^2=1885*
+*Sum of values with a^2+b^2=1885*
 
-> Selection of the rose Quamditch is a sport that combines shot, agility and power of thought and action. For this reason, Hardy, captain of the Quamditch team of the House of Rapporteur, subjects aspiring mathematicians to the following test: while performing a triple capriola carpiata, they must consider all ordered pairs of positive integers (a,b) such that a2 + b2 = 1885. What is the sum of the different values of a?
+> Squad selection
+> Quamditch is a sport that combines bursts of speed, agility, and both mental and physical power. For this reason, Hardy, captain of the Quamditch team at Rapportaureo House, subjects aspiring athlete-mathemages to the following test: while performing a triple layout somersault, they must consider all ordered pairs of positive integers (a, b) such that a² + b² = 1885. What is the sum of the distinct values of a?
 
-**Answer:** 0222
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_b#q10|src_cesenatico_2006_squadre_semifinale_b__Q10]]
 
 
 
@@ -363,11 +425,16 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volt that launches seconds exceeds minutes in 24 hours*
+*Note that the second hand overtakes the minute hand in 24 hours*
 
-> Hermitage is quite confused by the use of Time Travel, which allows her to travel through time. So she finds herself often forced to keep an eye on the clock. Both N the number of times, in 24 hours, the second hand exceeds the minute hand. How much is N?
+> La giratempo
+> The valiant Hermita is rather confused by the use of the Time-Girder, which allows her to travel through time. So she finds herself forced to keep an eye on the clock often. Let N be the number of times, in 24 hours, that the second hand overtakes the minute hand. What is the value of N?
 
-**Answer:** 1416
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_b#q11|src_cesenatico_2006_squadre_semifinale_b__Q11]]
 
 
 
@@ -396,11 +463,17 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Biggest number 4 distinct digits with mean digit condition*
+*Largest 4-digit number with distinct digits, with the condition on the middle digits*
 
-> As all mathematicians know, a domestic elf can regain his freedom if he manages to solve a problem that his master poses to him. Recently an alphas was asked what is the largest integer of 4 distinct digits so that each of its digits (except the first and last) is narrowly less than the arithmetic mean of the two adjacent digits. What is the answer that gives freedom back to the alpha?
+> Longed-for freedom
+> As all matemages know, a domestic alfo can reclaim its freedom if it manages to solve a problem posed to it by its master. Recently, an alfo was asked: What is the largest four-digit integer with distinct digits such that each of its digits (except the first and the last) is strictly less than the arithmetic mean of the two adjacent digits? What is the answer that restores freedom to the alfo?
 
-**Answer:** 9768
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_b#q12|src_cesenatico_2006_squadre_semifinale_b__Q12]]
 
 
 
@@ -430,11 +503,17 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of distinct colours of tetrahedra with 16 colours*
+*Number of distinct colorings of tetrahedra with 16 colors*
 
-> The collector Professor Primon makes a strange collection of dark mathematics artifacts. These are regular tetrahedra that have all colored faces of a single color (different for each face), and the colors are chosen from a range of 16 different colors. Professor Primon already owns an item from this collection and buys another one, then he goes home and turns it over, turns it over on the base, and he realizes that it's actually a duplicate. How many pieces are in total in the collection (two pieces obtained by rotation are to be considered the same)?
+> The Collector
+> Professor Primon has a strange collection of dark mathmagic artifacts. These are regular tetrahedra whose faces are all colored in a single color (each face having a different color), and the colors are chosen from a set of 16 different colors. Professor Primon already has one item in this collection and buys another; then he goes home, turns it upside down, rotates it on its base, and realizes that it is actually a duplicate. How many pieces are there in the collection in total? (Two pieces that can be obtained from each other by rotations are to be considered the same.)
 
-**Answer:** 3640
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_b#q13|src_cesenatico_2006_squadre_semifinale_b__Q13]]
 
 
 
@@ -463,11 +542,17 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reduced fractions m/n with m·n=18!*
+*Reduced fractions m/n with m*n=18!*
 
-> Distractions Henri and Smale Perelman, Ron's two older brothers, rarely attend classes and instead dedicate themselves to inventing new games. Today they are playing to the first to guess the following question: how many fractions m n , reduced to minimum terms, such that 0 < m n < 1 and so m·n = 18!.
+> Distractions
+> Henri and Smale Perelman, Ron's two older brothers, rarely attend classes and instead devote themselves to inventing new games. Today they are playing a game to see who can first guess the following question: state how many fractions m/n, in lowest terms, satisfy 0 < m/n < 1 and m·n = 18!.
 
-**Answer:** 0064
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_b#q14|src_cesenatico_2006_squadre_semifinale_b__Q14]]
 
 
 
@@ -503,10 +588,16 @@ Sum of years N in [1492,2006] with x^4-y^4=N solvable*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio 320 B/A between hexagon and star of David*
+*Ratio 320 B/A between the hexagon and the Star of David*
 
-> In geomancy class, Hardy and Hermita are in the geomancy lab, practicing to create magical symbols. Starting from a circumference on which six equidistant points mark, Hermita proposes to complete the figure by joining the six points to form a star of David, of area A. Hardy, on the other hand, proposes to join them to the hexagon, of area B. To measure the power of the two spells, the two measure the two areas. Tell me what 320B/A is worth.
-> 
-> Cesenatico Competition in teams 2 6 VII NATIONAL GARA A Semifinal squad B  Solution  5 May 2006 Nr. The problem
+> At the geomancy lesson
+> Hardy and Hermita are in the geomancy laboratory, practicing the creation of magical symbols. Starting from a circle on which they mark six equally spaced points, Hermita suggests completing the figure by joining the six points to form a Star of David with area A. Hardy, on the other hand, suggests joining them to form a hexagon with area B. To measure the power of the two spells, the two measure the two areas. State the value of 320B/A.
+>
+> Cesenatico Team Competition 2 6 7th National Team Competition Semi-Final B – SOLUTIONS – 5 May 2006 No. Problem
 
-**Answer:** 0480
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2006_squadre_semifinale_b#q15|src_cesenatico_2006_squadre_semifinale_b__Q15]]

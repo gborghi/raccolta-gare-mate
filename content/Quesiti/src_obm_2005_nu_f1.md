@@ -29,9 +29,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'area del triangolo formato da linee tangenti a cubo*
+*Trovare l'area del triangolo formato dalle rette tangenti alla cubica*
 
-> $f : \mathbb{R} \to \mathbb{R}$ definito da $f(x) = x^3 + ax^2 + bx + c$, dove $a$, $b$, $c$ sono numeri interi. È noto che $f(1) = f(-1) = 0$. Le linee tangenti al grafico di $f$ nei punti $A = (-1,\,0)$ e $B = (1,\,0)$ si incrociano al punto $C$. Calcolare l'area del triangolo $ABC$, sapendo che quest'area è un numero intero.
+> Sia $f : \mathbb{R} \to \mathbb{R}$ definito da $f(x) = x^3 + ax^2 + bx + c$, dove $a$, $b$, $c$ sono interi. È noto che $f(1) = f(-1) = 0$. Le rette tangenti al grafico di $f$ nei punti $A = (-1,\,0)$ e $B = (1,\,0)$ si intersecano nel punto $C$. Calcola l'area del triangolo $ABC$, sapendo che tale area è un numero intero.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_obm_2005_nu_f1#q01|src_obm_2005_nu_f1__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare un'integrale definita che coinvolge ln(1+tg x)*
+*Valuta un integrale definito che coinvolge ln(1+tg x)*
 
-> Calcolare l'integrale $$\int_0^{\pi/4} \ln(1 + \tan x)\, dx.$$
+> Calcola l'integrale
+> $$\int_0^{\pi/4} \ln(1 + \tan x)\, dx.$$
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_nu_f1#q02|src_obm_2005_nu_f1__Q02]]
 
 
 
@@ -81,9 +96,17 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare il volume del tetraedro inciso in un ellissoide*
+*Massimizza il volume del tetraedro inscritto in un ellissoide*
 
-> Trova il più grande volume possibile di un tetraedro inserito nell'ellipsoide con l'equazione $$\frac{x^2}{9} + \frac{y^2}{16} + \frac{z^2}{25} = 1.$$
+> Trovare il volume massimo possibile di un tetraedro inscritto nell'ellissoide di equazione
+> $$\frac{x^2}{9} + \frac{y^2}{16} + \frac{z^2}{25} = 1.$$
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_nu_f1#q03|src_obm_2005_nu_f1__Q03]]
 
 
 
@@ -108,9 +131,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Matrici quadrate reali che soddisfano (A+B) ^ k = A^k + B^k per tutti gli integri positivi k*
+*Matrici quadrate reali che soddisfano (A+B)^k = A^k + B^k per tutti gli interi positivi k*
 
-> Lasciate che $A$ e $B$ siano matrici quadrate reali della stessa dimensione in modo tale che, per ogni intero positivo $k$, $$(A + B)^k = A^k + B^k.$$ dimostri che se $A$ è invertibile allora $B$ è la matrice zero.
+> Siano $A$ e $B$ matrici quadrate reali della stessa dimensione tali che, per ogni intero positivo $k$,
+> $$(A + B)^k = A^k + B^k.$$
+> Dimostrare che, se $A$ è invertibile, allora $B$ è la matrice nulla.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_nu_f1#q04|src_obm_2005_nu_f1__Q04]]
 
 
 
@@ -135,9 +167,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le alfa che fanno una matrice cosina hanno determinante zero*
+*Trovare tutti gli alfa per cui la matrice coseno ha determinante nullo*
 
-> Determinare tutti i valori di $\alpha$ per i quali la matrice $A = (a_{ij})_{n \times n}$, definita da $$a_{ij} = \cos((i-1)\cdot j\alpha),$$ per $1 \le i,\, j \le n$, ha determinante uguale a zero.
+> Determinare tutti i valori di $\alpha$ per i quali la matrice $A = (a_{ij})_{n \times n}$, definita da
+> $$a_{ij} = \cos((i-1)\cdot j\alpha),$$
+> per $1 \le i,\, j \le n$, ha determinante uguale a zero.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_nu_f1#q05|src_obm_2005_nu_f1__Q05]]
 
 
 
@@ -160,6 +201,13 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che per qualsiasi permutazione di cifre esistono meno di 27 potenze distinte del 2005 con n cifre*
+*Si dimostrare che, per qualsiasi permutazione delle cifre, esistono meno di 2005 potenze ventisettesime distinte con n cifre*
 
-> Prove che esistono meno di 27 potenze distinte del 2005 (cioè numeri della forma $n^{27}$, dove $n$ è un numero intero positivo), tutti con lo stesso numero di cifre, in modo che uno di essi possa essere ottenuto da qualsiasi altro mediante una permutazione delle sue cifre.
+> Dimostrare che esistono meno di 2005 potenze ventisettesime distinte (ossia numeri della forma $n^{27}$, dove $n$ è un intero positivo), tutte aventi lo stesso numero di cifre, tali che ciascuna di esse possa essere ottenuta da qualsiasi altra mediante una permutazione delle proprie cifre.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_nu_f1#q06|src_obm_2005_nu_f1__Q06]]

@@ -37,9 +37,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dividere una torre di potenza per 4 a potenza.*
+*Dividi una torre di potenze per una potenza di 4.*
 
-> Dividendo il numero $4^{(4^4)}$ per $4^4$ otteniamo il numero:
+> Dividendo il numero $4^{(4^4)}$ per $4^4$, otteniamo il numero:
 >
 > - **(A)** $2$
 > - **(B)** $4^4$
@@ -47,7 +47,13 @@ level: OBM Nível 3
 > - **(D)** $4^{48}$
 > - **(E)** $4^{52}$
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n3_f1#q01|src_obm_2010_n3_f1__Q01]]
 
 
 
@@ -79,7 +85,7 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quale dei numeri dati divide un prodotto delle potenze.*
+*Quale dei numeri dati divide un prodotto di potenze?*
 
 > Quale dei seguenti numeri è un divisore di $3^5\cdot 4^4\cdot 5^3$?
 >
@@ -89,7 +95,14 @@ level: OBM Nível 3
 > - **(D)** $85$
 > - **(E)** $105$
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n3_f1#q02|src_obm_2010_n3_f1__Q02]]
 
 
 
@@ -122,9 +135,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Facce triangolari numerate di un solido; posizioni di conteggio con facce visibili distinte.*
+*Facce triangolari numerate di un solido; conta le disposizioni con facce visibili distinte.*
 
-> Le quattro facce di un solido sono triangoli equilaterali, numerati da $1$ a $4$, come nella figura. Colorazione di due facce blu e di altre due gialle, in quanti modi diversi possono essere colorati i facci in modo che due facce dello stesso colore non abbiano un margine comune? (Il solido può essere girato in modo che uno dei numeri rimanga sotto, cioè In quanti modi è possibile?
+> Le quattro facce di un solido sono triangoli equilateri, numerati da $1$ a $4$, come nella figura. Colorando due delle facce di blu e le altre due di giallo, in quanti modi diversi si possono colorare le facce in modo che nessuna coppia di facce dello stesso colore abbia un lato in comune? (Il solido può essere ruotato in modo che uno dei numeri rimanga in basso, cioè che una faccia non sia visibile.) In quanti modi è possibile farlo?
 >
 > - **(A)** $12$
 > - **(B)** $14$
@@ -133,6 +146,15 @@ level: OBM Nível 3
 > - **(E)** $19$
 
 ![[src_obm_2010_n3_f1__q03.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2010_n3_f1#q03|src_obm_2010_n3_f1__Q03]]
 
 
 
@@ -162,15 +184,23 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ana scende e Beatriz sale una scala; trova le frazioni rimanenti al passaggio/finitura.*
+*Ana scende e Beatriz sale una scala; trova le frazioni rimanenti al passaggio/al completamento.*
 
-> Ana cominciò a scendere una scala un istante dopo che Beatriz iniziò a salire. Beatriz era salita $\frac{3}{4}$ delle scale quando ha attraversato Ana. In quel momento, quale frazione di Ana doveva ancora discendere? Sapendo che la velocità di Ana è doppia di Beatriz, quale frazione della scala dovrà ancora scendere quando Beatriz finirà?
+> Un istante dopo che Beatriz aveva iniziato a salire le scale, Ana aveva iniziato a scenderle. Beatriz aveva salito $\frac{3}{4}$ delle scale quando aveva incrociato Ana. In quel momento, quale frazione delle scale restava ancora da scendere ad Ana? Sapendo che la velocità di Ana è il doppio di quella di Beatriz, quale frazione delle scale resterà ancora da scendere ad Ana quando Beatriz avrà finito?
 >
 > - **(A)** $\frac{1}{4}$
 > - **(B)** $\frac{1}{3}$
 > - **(C)** $\frac{1}{12}$
 > - **(D)** $\frac{5}{12}$
 > - **(E)** $\frac{2}{3}$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n3_f1#q04|src_obm_2010_n3_f1__Q04]]
 
 
 
@@ -203,9 +233,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*PQRS quadrato, T punto medio di QR, U piede di perpendicolare da Q alla linea PT; trovare TU.*
+*Quadrilatero PQRS, T punto medio di QR, U piede della perpendicolare condotta da Q sulla retta PT; determina TU.*
 
-> Un quadrato $PQRS$ ha lati di misura $x$. $T$ è il punto medio di $QR$ e $U$ è il piede della perpendicolare tratto da $Q$ sulla linea $PT$ (la linea $PT$ che attraversa $T$). Qual è la misura di $TU$?
+> Un quadrato $PQRS$ ha lati di lunghezza $x$. $T$ è il punto medio di $QR$ e $U$ è il piede della perpendicolare condotta da $Q$ alla retta $PT$ (la retta $PT$ passante per $T$). Qual è la misura di $TU$?
 >
 > - **(A)** $\frac{x}{2}$
 > - **(B)** $\frac{x}{3}$
@@ -214,6 +244,15 @@ level: OBM Nível 3
 > - **(E)** $\frac{x}{4}$
 
 ![[src_obm_2010_n3_f1__q05.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2010_n3_f1#q05|src_obm_2010_n3_f1__Q05]]
 
 
 
@@ -245,17 +284,24 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*X e y distinte soddisfano x - 1/x = y - 1/y; trovare xy.*
+*x e y, distinti, soddisfano x - 1/x = y - 1/y; trova xy.*
 
-> I numeri $x$ e $y$ sono distinti e soddisfano $x-\frac{1}{x}=y-\frac{1}{y}$. Quindi $xy$ è uguale a
+> I numeri $x$ e $y$ sono distinti e soddisfano $x-\frac{1}{x}=y-\frac{1}{y}$. Allora $xy$ è uguale a
 >
 > - **(A)** $4$
 > - **(B)** $1$
 > - **(C)** $-1$
 > - **(D)** $-4$
-> - **(E)** è necessario avere maggiori dati
+> - **(E)** è necessario disporre di più dati
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2010_n3_f1#q06|src_obm_2010_n3_f1__Q06]]
 
 
 
@@ -286,15 +332,24 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri a tre cifre, cifre distinte da {0,1,2,3}, che sono multipli di 6.*
+*Conta i numeri di tre cifre, con cifre distinte scelte da {0,1,2,3}, che sono multipli di 6.*
 
-> Considerate tutti i numeri a tre cifre con cifre $distinct$, ognuno uguale a $0$, $1$, $2$ o $3$. Quanti di questi numeri sono multipli di $6$?
+> Si considerino tutti i numeri di tre cifre con $distinct$ cifre, ciascuna delle quali è uguale a $0$, $1$, $2$ o $3$. Quanti di questi numeri sono multipli di $6$?
 >
 > - **(A)** $4$
 > - **(B)** $7$
 > - **(C)** $10$
 > - **(D)** $15$
 > - **(E)** $20$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n3_f1#q07|src_obm_2010_n3_f1__Q07]]
 
 
 
@@ -326,9 +381,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più grande divisore comune di tutti i prodotti di tre numeri positivi dispari consecutivi.*
+*Massimo comune divisore di tutti i prodotti di tre numeri dispari positivi consecutivi.*
 
-> Il più grande divisore comune di tutti i numeri che sono il prodotto di tre numeri positivi dispari consecutivi è
+> Il massimo comune divisore di tutti i numeri che sono il prodotto di tre numeri dispari positivi consecutivi è
 >
 > - **(A)** $1$
 > - **(B)** $3$
@@ -336,7 +391,14 @@ level: OBM Nível 3
 > - **(D)** $15$
 > - **(E)** $105$
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n3_f1#q08|src_obm_2010_n3_f1__Q08]]
 
 
 
@@ -368,9 +430,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Poligono regolare: PQ e TS estesi si incontrano a X con angolo QXS = 140 gradi; trovare numero di lati.*
+*Poligono regolare: le rette PQ e TS, prolungate, si incontrano in X con angolo QXS = 140 gradi; determina il numero di lati.*
 
-> I punti $P$, $Q$, $R$, $S$ e $T$ sono vertici di un poligono regolare. I lati $PQ$ e $TS$ sono estesi fino a quando non si incontrano a $X$, come nella figura, e $Q\hat{X}S$ misura $140^\circ$. Quanti lati ha il poligono?
+> I punti $P$, $Q$, $R$, $S$ e $T$ sono vertici di un poligono regolare. I lati $PQ$ e $TS$ vengono prolungati fino a incontrarsi in $X$, come nella figura, e $Q\hat{X}S$ misura $140^\circ$. Quanti lati ha il poligono?
 >
 > - **(A)** $9$
 > - **(B)** $18$
@@ -379,6 +441,14 @@ level: OBM Nível 3
 > - **(E)** $40$
 
 ![[src_obm_2010_n3_f1__q09.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2010_n3_f1#q09|src_obm_2010_n3_f1__Q09]]
 
 
 
@@ -416,19 +486,28 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro amici fanno dichiarazioni sulle loro carte; determinano la dichiarazione falsa.*
+*Quattro amici fanno delle affermazioni riguardo alle proprie carte; determina l'affermazione falsa.*
 
-> Quattro amici, Arnaldo, Bernaldo, Cernaldo e Dernaldo distribuiscono carte. Esistono diverse carte $20$, ciascuna carta ha uno dei quattro colori (giallo, verde, rosso e un altro) e un numero da $1$ a $5$. Ogni amico riceve cinque carte. Essi fanno le seguenti dichiarazioni:
+> Quattro amici, Arnaldo, Bernaldo, Cernaldo e Dernaldo, distribuiscono le carte. Ci sono $20$ carte diverse; ciascuna carta ha uno dei quattro colori (giallo, verde, rosso e un altro) e un numero compreso tra $1$ e $5$. Ogni amico riceve cinque carte. Fanno le seguenti affermazioni:
 >
-> Arnaldo: "Non ho una carta con un numero uguale a quello di un'altra delle mie carte". Bernaldo: "Le mie cinque carte hanno cinque numeri consecutivi". Cernaldo: "Le mie cinque carte sono di colori che iniziano con la lettera V. " Dernaldo: "Le mie cinque carte sono tutte di un numero odd".
+> Arnaldo: "Non ho alcuna carta con un numero uguale a quello di un'altra delle mie carte." Bernaldo: "Le mie cinque carte hanno cinque numeri consecutivi." Cernaldo: "Le mie cinque carte sono di colori che iniziano con la lettera V." Dernaldo: "Le mie cinque carte hanno tutte un numero dispari."
 >
-> È noto che solo una delle affermazioni è falsa. Chi ha fatto la falsa dichiarazione?
+> È noto che solo una delle affermazioni è falsa. Chi ha fatto l'affermazione falsa?
 >
 > - **(A)** Arnaldo
 > - **(B)** Bernaldo
 > - **(C)** Cernaldo
 > - **(D)** Dernaldo
 > - **(E)** Non è possibile determinarlo.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n3_f1#q10|src_obm_2010_n3_f1__Q10]]
 
 
 
@@ -459,11 +538,20 @@ level: OBM Nível 3
 
 *Esmeralda disegna y=2x+6 ma scambia gli assi; identifica il grafico risultante.*
 
-> Esmeralda stava per disegnare il grafico di $y=2x+6$ ma ha scambiato gli assi (disegna con gli assi scambiati). Qual è la relazione tra il grafico che ha disegnato e il grafico con gli assi scambiati di luogo? Scegli il grafico giusto.
-> 
-> (A), (B), (C), (D), (E): cinque schizzi di piano di coordinate candidati (cfr. figura).
+> Esmeralda stava per tracciare il grafico di $y=2x+6$, ma ha scambiato gli assi (ha tracciato il grafico con gli assi invertiti). Qual è la relazione tra il grafico che ha tracciato e il grafico con gli assi scambiati di posto? Scegli il grafico corretto.
+>
+> (A), (B), (C), (D), (E): cinque bozzetti candidati del piano cartesiano (vedi figura).
 
 ![[src_obm_2010_n3_f1__q11.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2010_n3_f1#q11|src_obm_2010_n3_f1__Q11]]
 
 
 
@@ -494,9 +582,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quale frazione è più vicina alla radice quadrata di 7.*
+*Quale frazione è la più vicina alla radice quadrata di 7?*
 
-> Qual è la frazione più vicina a $\sqrt{7}$?
+> Quale delle seguenti frazioni è la più vicina a $\sqrt{7}$?
 >
 > - **(A)** $\frac{3}{1}$
 > - **(B)** $\frac{5}{2}$
@@ -504,7 +592,13 @@ level: OBM Nível 3
 > - **(D)** $\frac{13}{5}$
 > - **(E)** $\frac{18}{7}$
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n3_f1#q12|src_obm_2010_n3_f1__Q12]]
 
 
 
@@ -536,9 +630,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC con angolo BAC=140; M punto medio di BC, P su AC con MP perpendicolare a AC; trovare un angolo.*
+*Triangolo ABC con angolo BAC=140°; M è il punto medio di BC, P è un punto su AC tale che MP è perpendicolare ad AC; determina un angolo.*
 
-> In triangolo $ABC$, $m(B\hat{A}C)=140^\circ$. Con $M$ il punto medio di $BC$ e $P$ un punto sul lato $AC$ tale che $MP$ sia perpendicolare a $AC$, qual è la misura dell'angolo $N\hat{M}P$?
+> Nel triangolo $ABC$, $m(B\hat{A}C)=140^\circ$. Con $M$ punto medio di $BC$ e $P$, un punto sul lato $AC$ tale che $MP$ è perpendicolare a $AC$, qual è la misura dell'angolo $N\hat{M}P$?
 >
 > - **(A)** $40^\circ$
 > - **(B)** $50^\circ$
@@ -547,6 +641,14 @@ level: OBM Nível 3
 > - **(E)** $100^\circ$
 
 ![[src_obm_2010_n3_f1__q13.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2010_n3_f1#q13|src_obm_2010_n3_f1__Q13]]
 
 
 
@@ -579,9 +681,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per disegnare una figura in un tratto da P senza tracciare i bordi.*
+*Conta i modi per disegnare una figura con un unico tratto partendo da P senza ripercorrere i lati.*
 
-> In quanti modi è possibile disegnare la figura di seguito senza sollevare la matita dalla carta (o qualsiasi altro utensile che si preferisce), partendo da $P$ e passando oltre lo stesso punto più di una volta solo al punto comune dei tre triangoli?
+> In quanti modi è possibile disegnare la figura sottostante senza sollevare la matita dal foglio (o qualsiasi altro strumento tu preferisca), partendo da $P$ e passando più di una volta sullo stesso punto solo nel punto comune dei tre triangoli?
 >
 > - **(A)** $48$
 > - **(B)** $24$
@@ -590,6 +692,15 @@ level: OBM Nível 3
 > - **(E)** $27$
 
 ![[src_obm_2010_n3_f1__q14.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n3_f1#q14|src_obm_2010_n3_f1__Q14]]
 
 
 
@@ -622,9 +733,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Net di un icosaedro con limitazioni di vertice; trovare il numero sulla faccia segnata con la domanda.*
+*Rete di un icosaedro con vincoli sui vertici; determina il numero sulla faccia contrassegnata da un punto interrogativo.*
 
-> La figura sottostante è stata tagliata in cartone e poi piegata per formare un icosaedro. Le facce hanno numeri da $1$ a $5$ in modo tale che ad ogni vertice (punto) del solido appaiano tutti i numeri $1$ a $5$. Quale numero c'è sul viso con il segno di domanda?
+> La figura sottostante è stata ritagliata da un cartoncino e poi piegata per formare un icosaedro. Le facce recano i numeri da $1$ a $5$ in modo che, in ciascun vertice (punto) del solido, compaiano tutti i numeri da $1$ a $5$. Quale numero compare sulla faccia con il punto interrogativo?
 >
 > - **(A)** $1$
 > - **(B)** $2$
@@ -633,6 +744,15 @@ level: OBM Nível 3
 > - **(E)** $5$
 
 ![[src_obm_2010_n3_f1__q15.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n3_f1#q15|src_obm_2010_n3_f1__Q15]]
 
 
 
@@ -664,9 +784,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali non negativi a, b con a^3 + a < b - b^3; dedurre l'ordine.*
+*Numeri reali non negativi a, b tali che a^3 + a < b - b^3; dedurre la relazione d'ordine.*
 
-> I numeri $a$ e $b$ sono reali non negativi, come $a^3+a<b-b^3$. Allora...
+> I numeri $a$ e $b$ sono numeri reali non negativi tali che $a^3+a<b-b^3$. Allora
 >
 > - **(A)** $b<a<1$
 > - **(B)** $a=b=1$
@@ -674,7 +794,14 @@ level: OBM Nível 3
 > - **(D)** $a<b<1$
 > - **(E)** $1<a<b$
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2010_n3_f1#q16|src_obm_2010_n3_f1__Q16]]
 
 
 
@@ -705,15 +832,24 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie ordinate (x,y) di integri positivi con x^2 - y^2 = 2^2010.*
+*Conta le coppie ordinate (x,y) di interi positivi tali che x^2 - y^2 = 2^2010.*
 
-> Quante coppie $(x,y)$ di integri positivi sono tali da $x^2-y^2=2^{2010}$?
+> Quante coppie $(x,y)$ di interi positivi esistono tali che $x^2-y^2=2^{2010}$?
 >
 > - **(A)** $1000$
 > - **(B)** $1001$
 > - **(C)** $1002$
 > - **(D)** $1003$
 > - **(E)** $1004$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n3_f1#q17|src_obm_2010_n3_f1__Q17]]
 
 
 
@@ -746,17 +882,26 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio termina con il pezzo di arachidi.
+*Gioco della barretta di cioccolato: scegli il primo taglio di Elias, così Fabio resterà con il pezzo con le arachidi.*
 
-> La figura rappresenta una barra di cioccolato che ha una arachidica in un solo pezzo. Elias e Fábio condivideranno il cioccolato, ma nessuno vuole la arachidica. Decidono di dividere il cioccolato rompendolo lungo le sue linee rette, orizzontale o verticale, ogni volta rompendo e gettando via un pezzo e mantenendo il resto, alternando chi rompe; chi lascia l'altro con solo il pezzo che contiene la arachidica perde (cioè Il perdente è colui che rimane con la arachidica). Elias inizia la divisione. Qual dovrebbe essere la prima divisione di Elias per garantire che Fábio finisca con la arachidica alla fine?
+> La figura rappresenta una barretta di cioccolato che contiene un solo pezzo di arachide. Elias e Fábio condivideranno il cioccolato, ma nessuno dei due vuole l'arachide. Decidono di dividere il cioccolato spezzandolo lungo le sue linee rette, in orizzontale o in verticale: ogni volta staccano e buttano via un pezzo, tenendo il resto, e si alternano nello spezzare; chi lascia all'altro solo il pezzo che contiene l'arachide perde (cioè, il perdente è chi rimane con l'arachide). Elias inizia la divisione. Quale dovrebbe essere la prima divisione di Elias per garantire che, alla fine, sia Fábio ad avere l'arachide?
 >
 > - **(A)** Scegli la prima colonna a sinistra.
-> - **(B)** Scegli le prime due righe dall'alto.
-> - **(C)** Scegli la terza fila, dall'alto in basso.
-> - **(D)** Scegli le ultime due righe dal basso.
-> - **(E)** Qualsiasi taglio, visto che Fábio finirà inevitabilmente con la arachidica.
+> - **(B)** Scegli le prime due righe partendo dall'alto.
+> - **(C)** Scegli la terza riga, partendo dall'alto verso il basso.
+> - **(D)** Scegli le ultime due righe partendo dal basso.
+> - **(E)** Qualsiasi taglio, visto che Fábio finirà inevitabilmente con il arachide.
 
 ![[src_obm_2010_n3_f1__q18.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_backward|Backward]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n3_f1#q18|src_obm_2010_n3_f1__Q18]]
 
 
 
@@ -789,9 +934,9 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC con X,Y,Z sui lati a rapporto 2; rapporto tra superficie XYZ e triangolo di media.*
+*Triangolo ABC con X, Y, Z sui lati nel rapporto 2; rapporto tra l'area di XYZ e l'area del triangolo delle mediane.*
 
-> Il $ABC$ è un triangolo e $X$, $Y$, $Z$ puntano sui lati $BC$, $CA$, $AB$ in modo tale che $\frac{CX}{XB}=\frac{AY}{YC}=\frac{BZ}{ZA}=2$. Qual è il rapporto tra l'area del triangolo $XYZ$ e l'area del triangolo i cui lati sono congruenti alle medie di $ABC$? (Nota: i media di un triangolo sono i segmenti che uniscono i vertici ai punti medi dei lati opposti.)
+> Sia $ABC$ un triangolo e siano $X$, $Y$, $Z$ dei punti sui lati $BC$, $CA$, $AB$ tali che $\frac{CX}{XB}=\frac{AY}{YC}=\frac{BZ}{ZA}=2$. Qual è il rapporto tra l'area del triangolo $XYZ$ e l'area del triangolo i cui lati sono congruenti alle mediane di $ABC$? (Nota: le mediane di un triangolo sono i segmenti che uniscono i vertici ai punti medi dei lati opposti.)
 >
 > - **(A)** $\frac{2}{3}$
 > - **(B)** $\frac{1}{2}$
@@ -800,6 +945,15 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(E)** $\frac{1}{4}$
 
 ![[src_obm_2010_n3_f1__q19.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2010_n3_f1#q19|src_obm_2010_n3_f1__Q19]]
 
 
 
@@ -831,9 +985,9 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di prodotti p(A) su tutti i sottosetti A di {1,...,10}.*
+*Somma dei prodotti p(A) su tutti i sottoinsiemi A di {1,...,10}.*
 
-> Per ogni sottoinsieme $A$ di $\{1,2,3,4,5,6,7,8,9,10\}$, $p(A)$ deve essere il prodotto dei suoi elementi. Ad esempio, $p(\{1,2,4,5\})=40$ e $p(A)=10!=1\cdot 2\cdot 3\cdots 10$ (quando $A$ è l'intero insieme). Per convenzione, $p(\varnothing)=1$. La somma di tutti i prodotti $2^{10}$ $p(A)$ è pari a
+> Per ciascun sottoinsieme $A$ di $\{1,2,3,4,5,6,7,8,9,10\}$, si ponga $p(A)$ uguale al prodotto dei suoi elementi. Ad esempio, $p(\{1,2,4,5\})=40$ e $p(A)=10!=1\cdot 2\cdot 3\cdots 10$ (quando $A$ è l'insieme completo). Per convenzione, $p(\varnothing)=1$. La somma di tutti i prodotti $p(A)$ di $2^{10}$ è uguale a
 >
 > - **(A)** $2^{11}$
 > - **(B)** $11!$
@@ -841,7 +995,14 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 > - **(D)** $2^{11}!$
 > - **(E)** $11^{11!}$
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2010_n3_f1#q20|src_obm_2010_n3_f1__Q20]]
 
 
 
@@ -872,15 +1033,24 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Con n=2010^2010 e log n definito, ordinare le tre quantità n!, n^{log n}, (log n)^n.*
+*Con n=2010^2010 e log n definito, ordina le tre quantità n!, n^{log n}, (log n)^n.*
 
-> Il numero $n=2010^{2010}$ e il numero $\log n$ sono $m$ in modo tale che $10^m=n$. Allora...
+> Sia $n=2010^{2010}$ e sia $\log n$ il numero $m$ tale che $10^m=n$. Allora
 >
 > - **(A)** $n!<n^{\log n}<(\log n)^n$
 > - **(B)** $n^{\log n}<n!<(\log n)^n$
 > - **(C)** $(\log n)^n<n^{\log n}<n!$
 > - **(D)** $(\log n)^n<n!<n^{\log n}$
 > - **(E)** $n^{\log n}<(\log n)^n<n!$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2010_n3_f1#q21|src_obm_2010_n3_f1__Q21]]
 
 
 
@@ -911,15 +1081,24 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'elemento più piccolo e più grande tra i numeri interi positivi distinti con condizione di divisibilità/differenza.*
+*Elemento massimo più piccolo tra interi positivi distinti con una condizione di divisibilità/differenza.*
 
-> Tra i diversi integri positivi $a<b<c<d$ che soddisfano una condizione dichiarata relativa alle loro differenze in coppia, quale è il minimo valore possibile del più grande, $d$?
+> Tra gli interi positivi distinti $a<b<c<d$ che soddisfano una data condizione relativa alle loro differenze a due a due, qual è il valore minimo possibile del più grande, $d$?
 >
 > - **(A)** $10$
 > - **(B)** $12$
 > - **(C)** $15$
 > - **(D)** $30$
 > - **(E)** $105$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n3_f1#q22|src_obm_2010_n3_f1__Q22]]
 
 
 
@@ -950,15 +1129,24 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il valore più basso di x^2+x+1 (o simile) in una condizione su x reale (dichiarazione confusa).*
+*Valore massimo di x^2+x+1 (o simile) sotto una condizione su x reale (enunciato illeggibile).*
 
-> Qual è il valore più grande di $xy^2$ dove $x$ e $y$ sono valori reali positivi con $x+y=3$?
+> Qual è il valore massimo di $xy^2$ quando $x$ e $y$ sono numeri reali positivi con $x+y=3$?
 >
 > - **(A)** $3$
 > - **(B)** $4$
 > - **(C)** $5$
 > - **(D)** $6$
 > - **(E)** $7$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2010_n3_f1#q23|src_obm_2010_n3_f1__Q23]]
 
 
 
@@ -992,7 +1180,7 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto casuale P in quadrato QRST; probabilità che l'angolo RPQ sia acuto.*
+*Punto casuale P nel quadrato QRST; probabilità che l'angolo RPQ sia acuto.*
 
 > Si sceglie un punto $P$ all'interno del quadrato $QRST$. Qual è la probabilità che l'angolo $R\hat{P}Q$ sia acuto?
 >
@@ -1004,7 +1192,14 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 
 ![[src_obm_2010_n3_f1__q24.png]]
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2010_n3_f1#q24|src_obm_2010_n3_f1__Q24]]
 
 
 
@@ -1035,12 +1230,21 @@ Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio ter
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il minimo valore positivo di 21 m^2 - n^2 per gli integri positivi m, n.*
+*Il valore positivo più piccolo di 21 m^2 - n^2 per interi positivi m, n.*
 
-> Qual è il valore positivo più piccolo di $21m^2-n^2$ con $m$ e $n$ integri positivi?
+> Qual è il valore positivo più piccolo di $21m^2-n^2$ con $m$ e $n$ numeri interi positivi?
 >
 > - **(A)** $1$
 > - **(B)** $2$
 > - **(C)** $3$
 > - **(D)** $5$
 > - **(E)** $7$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2010_n3_f1#q25|src_obm_2010_n3_f1__Q25]]

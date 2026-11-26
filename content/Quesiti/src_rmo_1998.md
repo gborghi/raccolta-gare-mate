@@ -28,9 +28,14 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare angolo AEB in quadrilaterali convexi con angoli dati*
+*Quadrilatero convesso con quattro angoli dati: misura dell'angolo fra le diagonali*
 
-> Il $ABCD$ deve essere un quadrilaterale convexo in cui $\angle BAC = 50^\circ$, $\angle CAD = 60^\circ$, $\angle CBD = 30^\circ$ e $\angle BDC = 25^\circ$. Se $E$ è il punto di intersezione di $AC$ e $BD$, trovare $\angle AEB$.
+> Sia $ABCD$ un quadrilatero convesso in cui $\angle BAC = 50^\circ$, $\angle CAD = 60^\circ$, $\angle CBD = 30^\circ$ e $\angle BDC = 25^\circ$. Se $E$ è il punto di intersezione di $AC$ e $BD$, trovare $\angle AEB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_1998#q01|src_rmo_1998__Q01]]
 
 
 
@@ -53,9 +58,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*6 divide la somma dei quadrati di numeri primi superiori a 5 implica 6 divisi n*
+*n primi maggiori di 5, la somma dei loro quadrati è divisibile per 6: allora 6 divide n*
 
-> Che $n$ sia un intero positivo e $p_1, p_2, \ldots, p_n$ $n$ siano numeri primi tutti più grandi di $5$ in modo tale che $6$ divida $p_1^2 + p_2^2 + \cdots + p_n^2$. Provare che $6$ divide $n$.
+> Sia $n$ un intero positivo e $p_1, p_2, \ldots, p_n$ siano $n$ numeri primi, tutti maggiori di $5$, tali che $6$ divida $p_1^2 + p_2^2 + \cdots + p_n^2$. Dimostrare che $6$ divide $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_rmo_1998#q02|src_rmo_1998__Q02]]
 
 
 
@@ -79,9 +90,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza fra somme parie e pari reciproche*
+*Per ogni naturale n, la media dei reciproci dispari supera quella dei reciproci pari*
 
-> Provare la seguente disuguaglianza per ogni numero naturale $n$: $$\frac{1}{n+1}\left(1 + \frac{1}{3} + \frac{1}{5} + \cdots + \frac{1}{2n-1}\right) > \frac{1}{n}\left(\frac{1}{2} + \frac{1}{4} + \frac{1}{6} + \cdots + \frac{1}{2n}\right).$$
+> Dimostrare la disuguaglianza seguente per ogni numero naturale $n$:
+>
+> $$\frac{1}{n+1}\left(1 + \frac{1}{3} + \frac{1}{5} + \cdots + \frac{1}{2n-1}\right) > \frac{1}{n}\left(\frac{1}{2} + \frac{1}{4} + \frac{1}{6} + \cdots + \frac{1}{2n}\right).$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_rmo_1998#q03|src_rmo_1998__Q03]]
 
 
 
@@ -104,9 +123,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I riflessi delle vertici del triangolo di uguali pollici formano un triangolo equilaterale*
+*Triangolo isoscele con angolo di 30°: i simmetrici dei vertici rispetto ai lati opposti formano un triangolo equilatero*
 
-> Il $ABC$ deve essere un triangolo con $AB = BC$ e $\angle BAC = 30^\circ$. Il $A'$ deve essere il riflesso di $A$ nella riga $BC$; $B'$ deve essere il riflesso di $B$ nella riga $CA$; $C'$ deve essere il riflesso di $C$ nella riga $AB$. Indicare che $A'$, $B'$, $C'$ formano le vertici di un triangolo equilaterale.
+> Sia $ABC$ un triangolo con $AB = BC$ e $\angle BAC = 30^\circ$. Sia $A'$ il simmetrico di $A$ rispetto alla retta $BC$; $B'$ il simmetrico di $B$ rispetto alla retta $CA$; $C'$ il simmetrico di $C$ rispetto alla retta $AB$. Dimostrare che $A'$, $B'$, $C'$ sono i vertici di un triangolo equilatero.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1998#q04|src_rmo_1998__Q04]]
 
 
 
@@ -129,9 +154,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum lcm di venti numeri naturali che sommano 801*
+*Minimo comune multiplo minimo possibile di venti naturali, non necessariamente distinti, di somma 801*
 
-> Trovare il minimo possibile più piccolo comune multiplo (lcm) di venti (non necessariamente distinti) numeri naturali la cui somma è $801$.
+> Trovare il minimo valore possibile del minimo comune multiplo di venti numeri naturali, non necessariamente distinti, la cui somma è $801$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+
+[[Quesiti/src_rmo_1998#q05|src_rmo_1998__Q05]]
 
 
 
@@ -154,6 +185,12 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova una raccolta di sottoinsiemi di 3 elementi di set di 7 elementi che coprono ogni coppia esattamente una volta*
+*Collezione di terne di un insieme di 7 elementi in cui ogni coppia compare in esattamente una terna*
 
-> Data la serie $7$ di elementi $A = \{a, b, c, d, e, f, g\}$, trovare una raccolta $T$ di $3$ di sottoinsiemi di $A$ in modo tale che ogni coppia di elementi di $A$ si trovi esattamente in uno dei sottoinsiemi di $T$.
+> Dato l'insieme di $7$ elementi $A = \{a, b, c, d, e, f, g\}$, trovare una collezione $T$ di sottoinsiemi di $3$ elementi di $A$ tale che ogni coppia di elementi di $A$ compaia esattamente in uno dei sottoinsiemi di $T$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_rmo_1998#q06|src_rmo_1998__Q06]]

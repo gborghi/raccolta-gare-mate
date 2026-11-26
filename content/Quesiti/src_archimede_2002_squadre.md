@@ -33,11 +33,14 @@ level: squadre
 
 *radius of the quadrilateral*
 
-> The pool of Professor Abacus
-> 
-> In the garden of Professor Abacus' villa there is a circular pool surrounded by four rectangular alleys forming a quadrilateral. The pool touches each of the four alleys and also two opposite alleys are parallel, while the other two are the same length. Knowing that the two parallels measure $3132$ and $783$ centimeters respectively, how many centimeters does the pool radius measure?
+> **The Professor Abacus's pool** — 25 points
+>
+> In the garden of Professor Abacus's villa there is a circular pool surrounded by four straight paths that form a quadrilateral. The pool touches each of the four paths and, moreover, two opposite paths are parallel, while the other two have the same length. Knowing that the two parallel paths measure respectively $3132$ and $783$ centimetres, how many centimetres does the radius of the pool measure?
 
-**Answer:** 0783
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_squadre#q01|src_archimede_2002_squadre__Q01]]
 
 
 
@@ -46,1983 +49,11 @@ level: squadre
 <div class="qlang-switch" data-default="it"></div>
 
 
-*45 punti*
+*probabilità che il gioco dei nipoti termini dopo 5 estrazioni*
 
-> &
-> )
-> 
-> &
-> )
-> -
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
+> **Nipotini giocherelloni** — 45 punti
 > 
-> 
-
-> 
-> 	
-> 
-> 	
-> 
-> ,
-> 
-> 
-> 
-> 
-> !22!
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 	$
-> 9	
-> 
-> 
-> 	
-> (
-> !22!
-> 1
-> 4
-> :
-> 
-> 	
-> 	
-> 
-> 	
-> :
-> 
-> 
-> !
-> 
-> 
-> 1
-> 
->  
-> 
-> !!
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-
-> 
-> 
-> 
-> 
-
-> 
-> 
-> 
-> 
-> 
-> 
-> 		
-> 
-> 
-> 
-> 
-> 
-> 		
-> 
-> 
-> 
-> 
-
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 	
-> 
-> 
-> !2
-> 	
-> 
-> 
-> 	
-> 	
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 	
-> &
-> 	)
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-
-> 	
-> 1
-> 	
-> 
-> 	
-> 
-> 
-> 
-> $
-> 
-> 
-> -
-> 
-
-> 
-> (	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 
-> 
-> 	
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> %
-> 
-> 
-> 	
-
-> 
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 	
-> +
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 22
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 	
-> 	
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> (	$
-> /
-> 
-> 
-> 
-> %	
-> 
-> &	
-> 
-> 
-> 
-> 
-> %
-> 		
-> 
-> 	
-> 
-> 
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 4
-> 
-> -
-> 
-> 
-> !/
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 1
-> 
-> 
-> 
-> 2
-> 
-> 
-> -
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-
-> 
-> 		
-> 
-> 	
-> 
-> ,
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 	$
-> ;
-> 
-> '
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> (
-> 
-> 
-> 
-> 
-> 
-> 		
-> 
-> 	
-> 
-> 
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 4
-> 
-> (
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 		
-> *
-> 
-> 
-
-> 
-> 	
-> 		
-> 	
-> 	
-> 
-> 	
-> 	
-> 
-> 	
-> 
-> 	
-> 
-> 
-> 
-> 	
-> 
-> 
-> 		
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> +	
-> 
-> 	
-> 
-> 	
-> %
-> 		
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 1
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 	
-> 
-> 
-> 	
-> 9
-> 	
-> 	
-> 	*
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> $
-> &(	
-> 
-> 	
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 	
-> 
-
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 	
-> 
-> 
-> 	)
-> "
-> 
-> 
-> 
-> 	
-> (
-> 
-> 
-> 
-> +	
-> 
-> 
-> 
-> 
-> 
-> 
-> 		
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 	
-> 
-> 	
-> !2
-> 	
-> 
-> %
-> 	
-> 
-> 
-> 
-> 	
-> 
-
-> 	
-> 
-> 
-> 	
-> 
-*
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 	
-> 
-
-> 
-> 
-> !2
-> 
->  2
-> 	
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 
-> 
-> #
-> 
-> 
-	
-> 
-> 
-> 
-> )
-> 
-> 
-> %
-> 		
-> 
-> 
-> 	
-> 	
-> 
-> 
-> 	
->  !
-> 
-> 	
-> 
-> 	
-> 
-> 
-> 
-
-> 		
-> ?
-
-> 	
-> 
-> >
-> 
-> 
-
-> 
-> 
-> 
-> 
-> 		
-> 
-> 
-> 
-> 	
-> 
-
-> 
-> 	
-> 
-> 	
-> 	
-> 
-> 	
-> /1
-> 5'.6
-> :
-> 
-> 
-> 
-> :
-> 5
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> /1
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-
-> 
-> 
-> 
-> 6
-> -
-> 
-> 
-> 
-> 
-> 	
-> 
-
-> 
-> 
-> +
-> 
-> 
-> 
-> 
-> 		$
-> =
-> "	
-> 
-> 
-> 		
-> (
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 	
-> 
-> 
-> 
-> 4
-> 
-> 
-> 
-> 
-> 
-> 
-> !
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> ?
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 	
-> 
-> 		
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 		
-> 
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 		
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> (
-> 
-> 
-> 
-
-> 
-> 
-> 	
-> 	
-> 
-
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> @
-> =;
-> 
-> 
-> @
-> "
-> 
-> 
-> 
-
-> @
-> 
-> 	
-> 
-> 
-> !2
-> 
-> 
-> 	
-> $
-> 
-> 
-> %
-> 		
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 	
-> 0
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> !2
-> 
-> 	
-> 	
-> 
-
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 	
-> %
-> 	
-> 
-> 
-> 
-
-> 	
-> 
-> 
-> 9	
-> 
-> 
-> 	
-> (
-> !22!
-> 1
-> 4
-> :
-> 
-> 	
-> 	
-> 
-> 	
-> :
-> 
-> 
->  
-> 
-> 
-> 1
-> 
-> 
-
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> %
-> 
-
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 	
-> 
-> 
-> 	
-> 
-> 	
-> 
-
-> 	
-> 
-> 
-> 
-> 
-> -
-> 
-> 
-> 
-> 
-
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> $
-> !
-> 
-> 	
-> 	
-> 
-> 
-> 	
-> !
-> 
-> 
-> 
-> %
-> 		
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-
-> 
-> 	
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 4
-> 
-> 7
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 	
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> *
-> 
-> 	
-> 	
-
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 		
-> 
-> 
->  
-> 
-> 
-> 
-> 	
-> !
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 7
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 	
-> +
-> 
-> +
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-
-> 
-> 
-> 
-> 
-> 
-
-> 	
-> 
-> 		
-> 
-> 
-> 		
-> 
-> 
-> 
-> 		
-
-> 
-> 	
-> (
-> 
-> 
-> 
-> 	
-
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-
-
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> &
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 		)
-> 
-> 	
-> 	
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 		A
-> 	
-
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-
-> 
-> 	
-> 
-> 
-> 
-> !!
-> 
-> 
-	
-> 
-> 
-> $
-> 
-> 
-> %
-> 		
-> 
-> 
-> 
-> 		
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 1
-> 	
-> 	7
-> 
-> 
-> 
-> 
-> 		
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 		
-> 
-> 
-> *
-> 7
-> 
-> 
-> 
-> 	8
-> 7
-> 	
-> 
-> ;
-> 
-> 
-> #
-> 
-> 
-> 
-> 
-> 	8
-> 7
-> 
-> 
-> .	
-> 	
-> 
-> 
-> 
-> 	
-> 
-
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 
-> 	
->  
-> -
-> 
-> 
-> 
-> 	
-> 
-> 
-> 	
-> 
-
-> 	
-> 
-> 		$
-> ! 
-> 
-> 
-> 
-> 
-> 
-> $
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 	
-> 
-> 
-> 
-> 	
-> -
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 		
-> 
-> 
-> 
-> 
-> 
->  /
-> 
-> 	$
-> &'*
-> 0
-> 	
-> 
-
-> 
-> 
-> 	
-> 
-> 
-
-> 	
-> 
-> 
-> 
-> 
-> 	
-> )
-> !1
-> 	
-> 	
-> 
-> 	
-> 
-> 
-> 
-> '		
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> @
-> 
-> 3
-> 
-> %
-> 
-
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 1/22
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 
-> 
-> 
-> 	
-> !
-> %+
-> '		
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 	
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> -
-> 
-> 	
-> &
-> 	
-> 
-> )
-> 
-> 
-
-> 
-> 
-> 
-> 	
-> 
-> $
-> !/
-> 
-> 
-> 	
-> 
-> 	
-> 
-> 
-> 
-> (	
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 	
-> 	
-> %
-> 
-> 
-> 
-> 
-> 
-> 
-> /
-> 	
-> 
-> 
-> 
-> 
-> 
-
-> 	
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> # 
-> #;
-> #"
-> =2
-> =
-> =!
-> =
->  
-> =
-> 1
-> =
-> ;
-> 
-> !22
-> -
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 	$
-> 	
-> 
-> 	
-
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-	
-> 
-> 	
-> 
-> 	
-> 	
-> 
-
-> 
-> 
-> 
-> 	
-> 
-> 	
-> 
-	
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 	
-> 
-> 
-> 
-> 
-> 		
-> 	
-> 
-> 
-> 	
-> 
-> 	
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-	
-> 
-> 	
-> 	
-> 
-> 	
-> 
-> 	
-> 
-> 
-
-> 
-> 			
-> 	
-> 	
-> 	
-> 
-> 
-> 	
-> 		
-> 
-> 
-> 
-> 
-
-
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 
-> 9	
-> 
-> 
-> 	
-> (
-> !22!
-> 1
-> 4
-> :
-> 
-> 	
-> 	
-> 
-> 	
-> :
-> 
-> 
-> 1
-> 
-> 
-> 1
+> I tre nipoti del Professor Abacus (Anna, Bernardo e Carla) giocano al seguente gioco: in un’urna ci sono tre fogliettini con su scritto i tre nomi dei bambini. Si estrae un fogliettino, si annota quale nome è stato estratto e si rimette il fogliettino nell’urna, ripetendo l’operazione finché un nome non viene estratto due volte. A questo punto il giocatore in questione viene eliminato e proseguono gli altri due mettendo solo due foglietti nell’urna. Quando il nome di uno dei due rimasti è stato estratto due volte contando anche le estrazioni già effettuate prima viene proclamato vincitore l’altro. Qual è la probabilità che il gioco termini esattamente dopo 5 estrazioni? (Calcolate la probabilità in percentuale e riportate la parte intera del risultato)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
@@ -2035,641 +66,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following points shall be added:
+*probability that the grandchildren's game ends after 5 draws*
 
-> & )  & ) -          
-> 
-> 
-
->  	  	  ,     !22!    
-> 	
->   	   	$ 9	    ( !22! 1 4 :
-> 
->  	   :   !
-> 
->  1
-> 
->    !! 
-> 	
->         
-> 
-
-> 
-> 
-> 
-> 
-
->    
-> 
->  	      	 
-> 
-> 
-> 
-
->     
-> 
->   
-> 
->  	   
-> 
->     
-> 
-> 
-> 
-
-> 	   !2 	   	  	
-> 
->  
-> 
-> 
-> 
->  	 & 	)
-> 
->           	
-> 
-
-> 	 1       $   -
-> 
-
->  (	   
-> 
->    
-> 
->   	    
-> 
-> 
-
->   	
-> 
-> 
-> 
->        	  
-> 
->     
-> 
->   %
-> 
->  
-
->   	   	   	 +       
-> 
-> 	   
-> 
->   
-> 
->    
-> 
->     	  	        	      
-> 
->       22          	
-> 
->  	   	 	
-> 
-> 	     
-> 
->  (	$ /    %  &     % 	      	   
-> 
->  4  -   !/       
-> 
-> 	   
-> 
-> 1
-> 
-> 
-> 
-> 2   -   
-> 
->  
-> 
->     
-> 
-> 
-
-> 
-> 		  	  ,     	 
-> 
->   	 	$ ;
-> 
-> '  
-> 
-> 
->    (      	      	   
-> 
->  4  (             *
-> 
-> 
-
->  	 		 	 	   	  	  	 
-> 
->  	   		  
-> 
->  	        
-> 
-> +	    	 % 	          	      1
-> 
->  	          	    9  	 	*  
-> 
->    
-> 
->     	  	   	  
-> 
->  	  	  
-> 
->  	   $ &(	  	    	  
-> 
->    	     	 	
-> 
-
->          
-> 
->  
-> 
->  
-> 
->  	 	   
-> 
-> 	     	  	
-> 
->  ) "     (    +	
-> 
->   
-> 
->  	 
-> 
->        	
-> 
->  	  
-> 
->    
-> 
-
-> 	  	 !2 	  %     	
-> 
-
-> 	
-> 
->  	
-> 
-*
->     
-> 
-> 
->    
-> 
-
-> 	
-> 
-> 
->     
-> 
-
-> 
->        
-> 
-> 
-> 
-
->   
-> 
->  
-> 
-
->    
-> 
-> 
-> 
->  	  
-
->   !2  2 	  
-> 
-> 	 
-> 
->   
-> 
-
-> 
->  #  
-	
->    )   % 	   	 	   	 !    	  
-> 
-
-> 	 ?
-
-> 	  > 
-> 
-
->     
-> 
->   
-> 
-
->  	  	 	  	 /1 5'.6 :    : 5        	      
-> 
->  /1
-> 
->   
-> 
->  
-
-> 
->   6 -   
-> 
->  
-
-> 
->  +     		$ = "	   		 (  
-> 
-> 
-> 
-> 
-
-> 	 
-> 
->  4    
-> 
->  ! 	     	        ?    
-> 
-> 
-
-> 	  		  
-> 
->   
-> 
->  	    
-> 
->  	     	      
-> 
->  	        		 
-> 
->            (
-> 
-> 
-> 
-
->   	  
-
->  
-> 
->       	       
-> 
->    @ =; 
-> 
-> @ "  
-> 
-
-> @  	   !2    $   % 	   
-> 
->   
-> 
->   	 	 0  
-> 
-> 
->  
-> 
->   !2  	 
-> 
-
->   	    
-> 
-> 
-> 
-> 
-> 
-> 
-> 
->  	  % 	  
-> 
-
-> 	
-> 
->  9	    ( !22! 1 4 :
-> 
->  	   :  
->  
-> 
->  1
-> 
-> 
-
-> 	
-> 
->  
-> 
->     
-> 
->  
-> 
->    
-> 
-> 
-> 
-
-> 	    
-> 
->   
-> 
->      
-> 
->   	   %
-> 
-
-> 	
-> 
->  
-> 
-> 	
-> 	
->     
-> 
-
-> 	
-> 
->    -   
-> 
-
-> 
-> 
->  	    $ !  	 
-> 
->  	 !    % 	         
-> 
-> 
-
->  	 	  
-> 
-> 
-> 
->  
-> 
->  4  7      	      
-> 
-> 
-> 
-> 
-
->   	   	  	    	      
-> 
-> *  	 	
-
->   
-> 
->  	    
-> 	
-> 
-> 
->  		 
-> 
->  
->    	 !  
-> 
->    	 
-
->         
-> 
->   7
-> 
->       	 	 +  +
-> 
->        
-
->   
-> 
-> 
-
-> 	  		
-> 
->  	    		
-
->  	 ( 
-> 
->  
-
->         
-> 
+> **Playful grandchildren** — 45 points
+>
+> The three grandchildren of Professor Abacus (Anna, Bernardo and Carla) play the following game: in an urn there are three slips of paper with the three children's names written on them. A slip is drawn, the name drawn is recorded and the slip is put back into the urn, repeating the operation until a name is drawn twice. At that point the player in question is eliminated and the other two continue, putting only two slips into the urn. When the name of one of the two remaining players has been drawn twice, also counting the draws already made earlier, the other is declared the winner. What is the probability that the game ends after exactly 5 draws? (Calculate the probability as a percentage and report the integer part of the result)
 
 
->     
-> 
-> 
-> &     	 
-> 
-
->           		)  	 	 	       		A 	
-
->   
-> 
-> 
-> 
->       
-
->  	    !!  
-	
->   $   % 	    		     	    
-> 
->  1 	 	7  
-> 
->              * 7
-> 
->   	8 7 	  ;   #
-> 
->    	8 7 
-> 
-> .	 	
-> 
-> 
-> 
-> 	 
-
-> 
->   
-> 
-> 
-
->    -    
-> 
->  
-> 
-
-> 	  		$ !   
-> 
->   $      
-> 
->   	 
-> 
->        
-> 
-> 
->      
-> 
-> 
-> 
-> 	
-> 
->   	 -  	
-> 
->  	 
-> 
-> 
-> 	    	     
-> 
->  	
-> 
->  		   
-> 
->  /  	$ &'* 0 	
-> 
-
->   	
-> 
-> 
-
-> 	  
-> 
->  	 ) !1 	
-> 	
->  	    '	
-> 
->   
-> 
->   	 	
-> 
->  
-> 
->       	 	       
-> 
-> 
-> 
-> 
-> 
-
-> 
->    
-> 
->  
-> 
-
-> 	 
-> 
->   	   	  
-> 
->    	 
-> 
->    @  3  %
-> 
-
-> 
-> 
-> 
-> 
-> 
-> 
-
-> 
-> 
-> 
->  
-> 
->  1/22    
-> 
-> 
-> 
-
-> 
-> 
->  	 ! %+ '	
-> 
->  
-> 
-> 
-> 
-> 
-> 
-
-> 
-> 
-> 
->    	     	 
-> 
->     	     -  	 &   ) 
-> 
-
-> 
-> 
->  	  $ !/  
-> 	
->  	    (	    	  
-> 
->  	 	 %     
-> 
-> / 	
-> 
->  
-> 
-> 
-
-> 	 	 
-> 
->     
-> 
->  	  
-> 
->  
-> 
->   
-> 
->      
-> 
-> 	 #  #; #" =2 = =! =  = 1 = ;  !22 -    
-> 
->  	    	$ 	
-> 
-> 
-
->       
-> 
-	
->      
-
-> 
-> 
-> 
-> 	   
-	
->  
-> 	
->        	
-> 
->     
-> 
-> 
-> 	        
-> 
-	
->   	    	 
-> 
-
->  	 
-> 	
->    	 	    
-
-
->  
-> 
->   
-> 
-> 
->   
-> 
-> 
->   
-> 
->    9	    ( !22! 1 4 :
-> 
->  	   :   1
-> 
->  1
-
-**Answer:** 0061
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_squadre#q02|src_archimede_2002_squadre__Q02]]
 
 
 
@@ -2695,13 +102,17 @@ The following points shall be added:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*succession of integers*
+*successione di interi*
 
-> **Distracted school year**  55 points
-> 
-> During a boring class hour, Anna plays the following game. Write an integer $a_0$ on a sheet, then write a sequence of integers $a_i$ each time taking as $a_{i+1}$ or the sum of the digits from the previous number or their product. After a while, you realize that all the numbers you wrote are odd. How many $a_0$ numbers with less than twelve digits for which at any time Anna stops she is still determined to calculate $a_{i+1}$ according to the rules above will always find only odd numbers?
+> **Anna, a distracted student** — 55 points
+>
+> During a boring lesson Anna plays the following game. She writes an integer $a_0$ on a sheet, then writes a sequence of integers $a_i$ each time taking $a_{i+1}$ to be either the sum of the digits of the previous number or their product. After a while she notices that all the numbers she has written are odd. How many numbers $a_0$ with fewer than twelve digits are there such that whenever Anna stops and decides to compute $a_{i+1}$ according to the rules above she will always find only odd numbers?
 
-**Answer:** 0048
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2002_squadre#q03|src_archimede_2002_squadre__Q03]]
 
 
 
@@ -2731,15 +142,21 @@ The following points shall be added:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum of the rational expression*
+*the minimum of a rational expression*
 
-> The tasks of Bernardo**  50 points
-> 
-> The Professor. He gave Bernardo the following task at home: Calculate the absolute minimum of the expression $$[2003 + 2002x + 2001x^2 + \ldots + 2x^{2001} + x^{2002}]$$ for real $x$.
-> 
-> Bernardo can't do it, but his grandfather can't help him because he's in Beijing at the Congress of Mathematicians... Can you give him a hand?
+> **Bernardo's tasks** — 50 points
+>
+> The maths teacher gave Bernardo the following homework: Calculate the absolute minimum of the expression
+> $$[2003 + 2002x + 2001x^2 + \ldots + 2x^{2001} + x^{2002}]$$
+> for real $x$.
+>
+> Bernardo cannot manage it, but his grandfather cannot help him because he is in Beijing at the Congress of Mathematicians... Could you give him a hand?
 
-**Answer:** 1002
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2002_squadre#q04|src_archimede_2002_squadre__Q04]]
 
 
 
@@ -2771,19 +188,23 @@ The following points shall be added:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*divisibility of the number of members*
+*divisibility of the members' numbers*
 
-> **Conferences of mathematicians**  35 points
-> 
-> Professor Abacus is part of a very ancient society of mathematicians founded in the year 232. The members of the society call
-> 
-> (a) "accommodating" any number such that by adding 1 the result is divisible by 2, by adding 2 is divisible by 3, by adding 3 is divisible by 4 and by adding 4 is divisible by 5.
-> 
-> (b) "rebels" means any number such that by subtracting 1 the result is divisible by 2, by subtracting 2 is divisible by 3, by subtracting 3 is divisible by 4, and by subtracting 4 is divisible by 5.
-> 
-> Members of the Society hold a meeting in all accommodating and rebellious years. Knowing that Professor Abacus is 75 years old today, he joined the association when he was 15 and calculated the sum of the years of the conferences he attended.
+> **Meetings of mathematicians** — 35 points
+>
+> Professor Abacus is part of an ancient society of mathematicians founded in the year 232. The members of the society call
+>
+> (a) "accommodating" every number such that adding 1 to it the result is divisible by 2, adding 2 is divisible by 3, adding 3 is divisible by 4 and adding 4 is divisible by 5.
+>
+> (b) "rebellious" every number such that subtracting 1 from it the result is divisible by 2, subtracting 2 is divisible by 3, subtracting 3 is divisible by 4 and subtracting 4 is divisible by 5.
+>
+> The members of the Society organise a meeting in every accommodating year and in every rebellious year. Knowing that Professor Abacus is today 75 years old and joined the association when he was 15, calculate the sum of the years of the meetings he has attended.
 
-**Answer:** 3960
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2002_squadre#q05|src_archimede_2002_squadre__Q05]]
 
 
 
@@ -2808,13 +229,16 @@ The following points shall be added:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*pitagoric furnace and surface*
+*Pythagorean triple and surface*
 
-> A strange orbiting station
-> 
-> Professor Abacus' son is an aerospace engineer. These days he's designing a piece of an orbiting station: the interlacing of the piece is a parallel piped formed by two cubes that have a face in common. On the three-dimensional representation that your computer gives of the parallel piped in a Cartesian reference three vertices of it have coordinates $(3, 6, 2)$, $(5, 2, 6)$, $(7, 7, 1)$. How much does the volume of the piece measure in $\mathrm{m}^3$ knowing that on the axes each unit represents one metre?
+> **A strange orbiting station** — 45 points
+>
+> The Professor Abacus's son is an aerospace engineer. These days he is designing a piece of an orbiting station: the piece's frame is a parallelepiped made of two cubes that share a face. On the three-dimensional representation that his computer gives of the parallelepiped in a Cartesian reference frame, three vertices of it have coordinates $(3, 6, 2)$, $(5, 2, 6)$, $(7, 7, 1)$. What is the volume of the piece in $\mathrm{m}^3$, knowing that on the axes each unit represents one metre?
 
-**Answer:** 0054
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_analitica|Analytic geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_squadre#q06|src_archimede_2002_squadre__Q06]]
 
 
 
@@ -2841,11 +265,14 @@ The following points shall be added:
 
 *probability of a blue jacket*
 
-> Other meetings on the tram
-> 
-> Professor Abacus and a colleague board a tram with 10 people on board. Professor Abacus notes that, among the passengers already present, there are exactly 3 people with blond hair and his colleague notes that, among the passengers already present, there are exactly 3 people wearing a blue jacket. What are the odds that there's at least one person wearing a blue jacket? (Calculate the probability as a percentage assuming that the two events "having blonde hair" or "wearing a blue jacket" are independent, and report the entire part of the result)
+> **Strani incontri sul tram** — 40 points
+>
+> Professor Abacus and a colleague enter a tram in which there are 10 people. Professor Abacus notices that, among the passengers already present, there are exactly 3 people with blond hair and his colleague notices that, among the passengers already present, there are exactly 3 people wearing a blue jacket. What is the probability that there is at least one person wearing a blue jacket? (Calculate the probability as a percentage assuming that the two events "having blond hair" and "wearing a blue jacket" are independent, and report the integer part of the result)
 
-**Answer:** 0070
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2002_squadre#q07|src_archimede_2002_squadre__Q07]]
 
 
 
@@ -2870,13 +297,16 @@ The following points shall be added:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*two frogs on the sidewalks, number of jumps*
+*Two frogs on the paths, number of jumps*
 
-> **Fraggle jumps**  20 points
-> 
-> There are two frogs in Professor Abacus' house. Right now they're in one of the alleys around the pool and they're trying to reach a water well. The frog $A$ is 20 centimetres from the well, while the $B$ is behind the $A$ one metre from the well. The $B$ at each jump covers half the distance, the second covers a third, the third covers a quarter and so on. After how many jumps does$B$exceed$A$, knowing that frogs always jump at the same time?
+> **The frogs' jumps** — 20 points
+>
+> In Professor Abacus's house there are two frogs. At this moment they are in one of the paths around the pool and are trying to reach a puddle of water. Frog $A$ is 20 centimetres from the puddle, while $B$ is behind $A$ at one metre from the puddle. $B$ covers half the distance on each jump, on the second jump a third, on the third a quarter and so on. After how many jumps does $B$ overtake $A$, knowing that the frogs always jump at the same time?
 
-**Answer:** 0005
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2002_squadre#q08|src_archimede_2002_squadre__Q08]]
 
 
 
@@ -2902,13 +332,17 @@ The following points shall be added:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*108 boxes, sum of which*
+*108 boxes, consecutive sum*
 
-> The house roulette Abacus  50 points
-> 
-> There's a weird roulette game at Professor Abacus' house. In this roulette, there are 108 boxes in a circle, each of which has a number written on it. However, if you take 20 consecutive boxes, the sum of the numbers written in them is always equal to 1000. There is also a box in which the number 1 appears and if the others are numbered in a clockwise direction starting from it, the 19th box shows the number 19 and the 50th the number 50. What number is written in the hundredth box?
+> **The roulette at Abacus's house** — 50 points
+>
+> In Professor Abacus's house there is a strange roulette. In this roulette there are 108 boxes in a circle, on each of which a number is written. However 20 consecutive boxes are taken, the sum of the numbers written in them is always equal to 1000. There is also a box in which the number 1 appears, and if the others are numbered clockwise starting from it, in the 19th appears the number 19 and in the 50th the number 50. What number is written in the 100th box?
 
-**Answer:** 0130
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_squadre#q09|src_archimede_2002_squadre__Q09]]
 
 
 
@@ -2934,13 +368,17 @@ The following points shall be added:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*maximum power dividing 2002!*
+*the greatest power that divides 2002!*
 
-> Anna is punished! 55 points
-> 
-> Anna was discovered by the professor while she was playing her weird game during class instead of following. Therefore, as a punishment, they are assigned to calculate how much they have in the middle of 2002 plus the $2/4$ of 2002, plus $3/8$ of 2002, plus $4/16$ of 2002 and so on going on until they stop at $20/2^{20}$-exems of 2002. But the professor realizes after a few minutes that the calculations seem too much and the punishment is too heavy. So he says to Anna, "I'll save you all these calculations if you can tell me what the maximum integer you can get by continuing to add up to $n/2^n$-hexams of 2002". Can you give me a good suggestion?
+> **Anna gets in trouble!** — 55 points
+>
+> Anna was caught by the professor while, during the lesson, instead of following, she was playing her strange game. As punishment, she is assigned to calculate what half of 2002 plus the $2/4$ of 2002, plus the $3/8$ of 2002, plus the $4/16$ of 2002 and so on, continuing until stopping at the $20/2^{20}$-th of 2002, equals. But the professor notices after a few minutes that the calculations seem too many and the punishment too heavy. Therefore he tells Anna: "I will save you all these calculations if you can tell me what is the greatest integer number you can exceed by continuing to sum the $n/2^n$-th of 2002". Could you give a valid suggestion?
 
-**Answer:** 4003
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_squadre#q10|src_archimede_2002_squadre__Q10]]
 
 
 
@@ -2966,13 +404,17 @@ The following points shall be added:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*divide n rocks into heaps*
+*Dividing n pebbles into piles*
 
-> The rocks of Carla
-> 
-> In the garden of Professor Abacus' villa, Carla is playing with rocks. Right now it's got a bunch of 1 rock, then 2 rock. Carla then moves that she has then grouped the pebbles from one side and a little from the other so that the number of pebbles found on one side is equal to the number of pebbles found on the other side; moreover, if she moves a certain pebble from one side to the other, the one with more pebbles has exactly $4/3$ of the other. Carla, who already lives in these things and is already very good at math, wants the two observations to move: if you did it with $m > n$ the thing could not have happened. How much is$n$?
+> **Carla’s pebbles** — 40 points
+>
+> In the garden of Professor Abacus’s villa, Carla is playing with pebbles. At this moment she has $n$ little piles made of 1 pebble, then 2 pebbles. Carla then moves that she has then grouped the little piles to one side and a bit to the other in such a way that the number of pebbles on one of the two sides is equal to the number of pebbles on the other side; moreover, if she moves a certain little pile from one side to the other, the one with more pebbles has exactly $4/3$ of the other. Carla, who is already very good at mathematics, wants that the two observations move: made with $m > n$ the thing could not have been verified. How much is $n$?
 
-**Answer:** 0027
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_squadre#q11|src_archimede_2002_squadre__Q11]]
 
 
 
@@ -2998,13 +440,17 @@ The following points shall be added:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*coordinated triangle, whole points*
+*coordinate triangle, integer points*
 
-> **The triangle of Bernardo**  30 points
-> 
-> On his square notebook Bernardo is about to draw a triangle of vertices $(0, 0)$, $(1, n)$ and $(n, 1)$. What is the smallest $n$ to choose for at least 2002 whole-coordinate * inner * points in the triangle?
+> **Bernardo's triangle** — 30 points
+>
+> On his squared notebook Bernardo is about to draw a triangle with vertices $(0, 0)$, $(1, n)$ and $(n, 1)$. What is the smallest $n$ he must choose so that there are at least 2002 points with integer coordinates *inside* the triangle?
 
-**Answer:** 0064
+
+**Topic:** [[topic_geometria_analitica|Analytic geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_squadre#q12|src_archimede_2002_squadre__Q12]]
 
 
 
@@ -3032,11 +478,15 @@ The following points shall be added:
 
 *distance from the centre, sum of squares*
 
-> **The octagonal square **  45 points
-> 
-> The square in front of Professor Abacus' house is a regular octagon. Knowing that the distance between the centre of the square and any of the vertices is 10 metres, the first four digits of the product of the measurements (in metres) of the segments connecting $A$ with all the other vertices are calculated.
+> **The octagonal square** — 45 points
+>
+> The square in front of Professor Abacus's house is a regular octagon $ABCDEFGH$. Knowing that the distance between the centre of the square and any one of the vertices is 10 metres, calculate the first four digits of the product of the measures (in metres) of the segments joining $A$ to all the other vertices.
 
-**Answer:** 1024
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_squadre#q13|src_archimede_2002_squadre__Q13]]
 
 
 
@@ -3061,13 +511,16 @@ The following points shall be added:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number of beads of each colour*
+*number of marbles of each colour*
 
-> The balls of Carla  65 points
-> 
-> This time Carla's playing with some colorful cards. He just divided them into a number of heaps, which we'll call$A_i$, all containing at least two balls. By observing it bearingly as he reads the newspaper, he fixes the $A_i$ stack and distractively calculates the $c_i$ number of all the pairs of balls belonging to both $A_i$. You then notice that the sum of all the $c_i$ is 100 and that the same thing happens when you look at the ternes and the quaternes. Can you tell me how many balls Carla has?
+> **Carla's marbles** — 65 points
+>
+> This time Carla is playing with some coloured marbles. She has just divided them into a certain number of piles, which we will call $A_i$, all containing at least two marbles. While observing her blissfully while she reads the newspaper, she fixes on the pile $A_i$ and absentmindedly calculates the number $c_i$ of all pairs of marbles that both belong to $A_i$. She then notices that the sum of all the $c_i$ equals 100 and that the same thing happens considering triples and quadruples. Could you say how many marbles Carla has?
 
-**Answer:** 0092
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2002_squadre#q14|src_archimede_2002_squadre__Q14]]
 
 
 
@@ -3093,13 +546,17 @@ The following points shall be added:
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total amount of the loan.
+*30 points*
 
-> The Matelandian team competition
-> 
-> Professor Abacus organizes the Matelandia team competition every year. This year there are 25 questions and a single team can score either 0 or 1 point in each question. What is the minimum number of teams that must participate in order for there to be two teams of equal merit?
+> **The Matelandia team competition** — 30 points
+>
+> Professor Abacus organises the Matelandia team competition every year. This year there are 25 questions and a single team can score either 0 or 1 point in each question. What is the minimum number of teams that must take part so that there are necessarily two tied?
 
-**Answer:** 0099
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_squadre#q15|src_archimede_2002_squadre__Q15]]
 
 
 
@@ -3124,13 +581,16 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*cultivable area*
+*area coltivabile*
 
-> **With breath on the neck**  45 points
-> 
-> As you already know, Professor Abacus organizes the Matelandia team competition every year. As usual, this year too, he is in a delay: he has yet to enter three problems to complete the race. Therefore, desperate, he begins to search the web for problems that he can modify for the race. Professor Abacus himself has estimated that for every problem he finds only $1/4$ of probability that it is suitable for the team competition. He still has an hour: assuming that it takes ten minutes to examine a problem, what are the chances that he will be able to complete the race text in time? (Calculate the probability as a percentage assuming that the probability of a particular problem going well is independent of the goodness of the previous problems, and give the whole part of the result in the answer)
+> **Col fiato sul collo** — 45 punti
+>
+> Come già sapete il Professor Abacus organizza ogni anno la gara a squadre di Matelandia. Come al solito, anche quest'anno è in pensato ritardo: deve ancora inserire tre problemi per completare la gara. Pertanto, disperato, comincia a cercare in rete dei problemi che possa opportunamente modificare per la gara. Il Professor Abacus stesso ha stimato che per ogni problema che trova solo $1/4$ di probabilità che sia adatto per la gara a squadre. Gli rimane ancora un'ora: supponendo che ci metta dieci minuti a esaminare un problema, che probabilità ha di riuscire a completare il testo della gara in tempo? (Calcolare la probabilità in percentuale assumendo che la probabilità che un certo problema vada bene sia indipendente dalla bontà dei problemi precedenti, e dare nella risposta la parte intera del risultato)
 
-**Answer:** 0016
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_squadre#q16|src_archimede_2002_squadre__Q16]]
 
 
 
@@ -3157,11 +617,14 @@ This is the total amount of the loan.
 
 *70 points, geometry*
 
-> **The triangular garden**  70 points
-> 
-> The window of Professor Abacus's study shows a garden in the shape of an isosceles triangle $ABC$ whose angle at the apex $A$ measures 20 degrees. The garden is crossed by three avenues: one joins a point $D$ of $AB$ with the summit $C$, the other joins a point $E$ of $AC$ with the third joining $D$ with $E$. Knowing that $\angle EBA$ and $\angle DCA$ measure 20 and 30 degrees respectively, the width of $\angle BED$ is determined.
+> **The triangular garden** — 70 points
+>
+> The window of Professor Abacus's study looks out onto a garden in the shape of an isosceles triangle $ABC$ whose vertex angle at $A$ measures 20 degrees. The garden is crossed by three paths: one joins a point $D$ on $AB$ with vertex $C$, another joins a point $E$ on $AC$ with the third that joins $D$ with $E$. Knowing that $\angle EBA$ and $\angle DCA$ measure 20 and 30 degrees respectively, determine the measure of $\angle BED$.
 
-**Answer:** 0030
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_squadre#q17|src_archimede_2002_squadre__Q17]]
 
 
 
@@ -3187,13 +650,17 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*position of the passengers*
+*position of passengers*
 
-> Professor Abacus in the tram
-> 
-> Professor Abacus usually takes the tram 32 to go to work at the university. However, this morning he's late and has to take the 54 tram. "Buffo"  thinks Abacus  "the smallest perfect square that is multiple of 54 gives the civic number of my house". What is the civic number of the building where the professor lives?
+> **Professor Abacus on the tram** — 15 points
+>
+> Professor Abacus usually takes tram 32 to go to work at the University. However this morning he is late and is forced to take tram 54. "Funny" – thinks Abacus – "the smallest perfect square that is a multiple of 54 gives the street number of my house." What is the street number of the building where the professor lives?
 
-**Answer:** 0324
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2002_squadre#q18|src_archimede_2002_squadre__Q18]]
 
 
 
@@ -3218,13 +685,16 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*area of the coat of arms*
+*area dello stemma*
 
-> **Very geometric lines **  70 points
-> 
-> The coat of arms of the University of Matelandia consists of two inner tangent circles in a point $P$. One member enjoyed drawing a string $AB$ from the larger circle tangent to the smaller circle on the rectory door badge and drawing the two lines joining $A$ and $B$ with $P$. We call $D$ and $E$ the intersections of $AP$ and $BP$ with the smallest circle, respectively. Knowing that $AB = 196$, $PD = 17$ and $PE = 11$ calculate $AC$.
+> **Very geometric emblems** — 70 points
+>
+> The emblem of the University of Matelandia consists of 2 circles tangent internally at a point $P$. A member had fun drawing on the emblem of the rector's door a chord $AB$ of the larger circle tangent to the smaller circle and drawing the two lines joining $A$ and $B$ with $P$. Let $D$ and $E$ be the intersections, respectively, of $AP$ and $BP$ with the smaller circle. Knowing that $AB = 196$, $PD = 17$ and $PE = 11$, calculate $AC$.
 
-**Answer:** 0119
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_squadre#q19|src_archimede_2002_squadre__Q19]]
 
 
 
@@ -3251,11 +721,14 @@ This is the total amount of the loan.
 
 *65 points, solid geometry*
 
-> **Abacus sculptor**  65 points
-> 
-> In his spare time, Professor Abacus enjoys abstract sculpture. From a 20-centimeter-long wooden cube he draws a sculpture that is given by the union of two tetrahedra. The first has as vertices two vertices of the cube that are on the same face and two vertices that are on the diagonal of the cube; the second is obtained by rotating the first 90 degrees around the center of the cube. What is the volume of the sculpture in$\mathrm{cm}^3$?
+> **Sculptor's abacus** — 65 points
+>
+> Professor Abacus enjoys abstract sculpture in his spare time. From a wooden cube of side 20 centimetres he makes a sculpture that is the union of two tetrahedra. The first has as vertices two vertices of the cube that lie on the same face and two vertices that lie on the diagonal of the cube; the second is obtained by rotating the first by 90 degrees about the centre of the cube. What is the volume of the sculpture in $\mathrm{cm}^3$?
 
-**Answer:** 4000
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_squadre#q20|src_archimede_2002_squadre__Q20]]
 
 
 
@@ -3281,13 +754,17 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*combination count*
+*combinatorial counting*
 
-> The mysteries of democracy  50 points
-> 
-> Professor Abacus is a candidate for president of the Society of Mathematicians. The committee electing the President shall be composed of nine members and shall select from among the three candidates as follows: each elector shall write the names of the three candidates in the order of preference by awarding 3 points to the first, 2 to the second and 1 to the third. The points earned by each candidate are then added and the final ranking is drawn up. At the end of the election, each candidate received a different score and unfortunately Professor Abacus came third. As if it were not enough to observe that if the election had taken place in the usual way (i.e. if each voter had only awarded one point to the preferred candidate) the ranking would have been exactly the opposite! Write down the product of the scores received by the three candidates.
+> **The mysteries of democracy** — 50 points
+>
+> Professor Abacus is a candidate to become president of the Society of Mathematicians. The committee that elects the president is made up of nine people and chooses among the three candidates presented in the following way: each voter writes the names of the three candidates in order of preference, assigning 3 points to the first, 2 to the second and 1 to the third. Then the points obtained by each candidate are summed and the final ranking is drawn up. At the end of the elections each candidate received a different score and unfortunately Professor Abacus finished third. As if that were not enough, he observes mournfully that if the election had taken place in the usual way (that is, if each voter had assigned only one point to the preferred candidate) the ranking would have been exactly the opposite! Write the product of the scores that the three candidates received.
 
-**Answer:** 5814
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_squadre#q21|src_archimede_2002_squadre__Q21]]
 
 
 
@@ -3319,17 +796,23 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*combinations of safe*
+*combination of the safe*
 
-> The Abacus safe**  65 points
-> 
-> Professor Abacus keeps his money in a safe with a four-digit combination. Unfortunately, you don't remember the combination anymore, but remember that:
-> 
-> - there are no zeros; - there was a 6 and an 8 somewhere; - the difference between two consecutive numbers is never divisible by 3.
-> 
-> How many combinations do you have left to try on the professor?
+> **The professor Abacus's safe** — 65 points
+>
+> Professor Abacus keeps his money in a safe with a 4-digit combination. Unfortunately he no longer remembers the combination, but he remembers that:
+>
+> - there are no zeros;
+> - there was a 6 and an 8 somewhere;
+> - the difference between two consecutive numbers is never divisible by 3.
+>
+> How many combinations remain for the professor to try?
 
-**Answer:** 0284
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_squadre#q22|src_archimede_2002_squadre__Q22]]
 
 
 
@@ -3356,11 +839,14 @@ This is the total amount of the loan.
 
 *triangle geometry*
 
-> **Anna's triangle **  60 points
-> 
-> Anna just drew a triangle using her reel and made each side an odd number of centimeters. How many triangles of this kind can he draw, considering that his rectangle does not allow for measurements of more than six inches [35 cm]? (NB: Two triangles are considered different only if they are not congruent)
+> **Anna's triangle** — 60 points
+>
+> Anna has just drawn a triangle using her ruler and made sure that each side was an odd number of centimetres. How many triangles of this kind can she draw if her ruler does not allow her to measure more than 35 centimetres? (NB: Two triangles are considered different only if they are not congruent)
 
-**Answer:** 0615
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_squadre#q23|src_archimede_2002_squadre__Q23]]
 
 
 
@@ -3386,13 +872,17 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*piece count*
+*counting the pieces*
 
-> **Bernardo and the Meccano set** — 20 points
-> 
-> Bernardo's playing with his mechanic. It can construct two side cubes $a$ and $b$ with $a < b$. Then it disassembles the two cubes and by putting together the various sides of the previous one it builds a larger cube, side $c = a + b$. The volume of the new cube exceeds by $450 \ \mathrm{cm}^3$ the sum of the volumes of the other 2. Finally, Bernardo dismantles again what he has built and assembles a rectangular parallel piped whose sides measure $a$, $b$ and $c$. How much does the volume of the parallel piped measure (in $\mathrm{cm}^3$)?
+> **Bernardo and the Meccano** — 20 points
+>
+> Bernardo is playing with his Meccano. He can build two cubes of side $a$ and $b$ with $a < b$. Then he dismantles the two cubes and, putting together the various sides of the previous ones, builds a larger cube, of side $c = a + b$. The volume of the new cube exceeds by $450 \ \mathrm{cm}^3$ the sum of the volumes of the other 2. Finally Bernardo dismantles again what he has built and assembles a rectangular parallelepiped whose sides measure $a$, $b$ and $c$. What is the volume (in $\mathrm{cm}^3$) of the parallelepiped?
 
-**Answer:** 1500
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_squadre#q24|src_archimede_2002_squadre__Q24]]
 
 
 
@@ -3418,10 +908,14 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*train configurations*
+*configurations of the little trains*
 
-> **Carl and trains**  35 points
-> 
-> Carla's playing with electric trains. He's currently handling five tracks of different lengths. Taking all possible pairs of tracks and adding the lengths of the elements of each pair gives the numbers 183, 186, 187, 190, 191, 192, 193, 194, 196 and 200. What's the length of the shortest track?
+> **Carla and the little trains** — 35 points
+>
+> Carla is playing with some electric trains. At the moment she is handling 5 rails of different lengths. Taking all the possible pairs of rails and adding the lengths of the elements of each pair gives the numbers 183, 186, 187, 190, 191, 192, 193, 194, 196 and 200. What is the length of the shortest rail?
 
-**Answer:** 0091
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_squadre#q25|src_archimede_2002_squadre__Q25]]

@@ -31,9 +31,13 @@ level: kangourou
 
 *Smallest integer with digit sum 100*
 
-> What is the smallest positive integer whose digits sum to $100$? Explain how you determined it.
+> What is the smallest positive integer whose digit sum is $100$? Explain how you determined it.
 
-**Answer:** 199999999999
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2025_benjamin_finale#qb1|src_kangourou_2025_benjamin_finale__QB1]]
 
 
 
@@ -57,11 +61,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which finger is counted as 999*
+*On which finger does the count 999 land?*
 
-> On the fingers of one hand, Silvia counted as follows: $1$ thumb, $2$ index, $3$ middle, $4$ ring, $5$ little finger; then she turned back: $6$ ring, $7$ middle, $8$ index, $9$ thumb. Then she started again: $10$ index, $11$ medium and so on, until it gets to $999$. What finger?
+> On the fingers of one hand, Silvia counted as follows: $1$ thumb, $2$ index finger, $3$ middle finger, $4$ ring finger, $5$ little finger; then she went back: $6$ ring finger, $7$ middle finger, $8$ index finger, $9$ thumb. Then she started again: $10$ index finger, $11$ middle finger, and so on, until she reached $999$. Which finger?
 
-**Answer:** middle
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2025_benjamin_finale#qb2|src_kangourou_2025_benjamin_finale__QB2]]
 
 
 
@@ -95,17 +104,22 @@ level: kangourou
 
 *max and min cents of Bob*
 
-> Seven coins are placed on a table in a row, as shown in the figure.
-> 
-> Alice and Bob take turns taking one of the coins at the far left or far right of the line. For example, if Alice starts by taking the coin from $50$ cents to the far right, then Bob can choose between the $50$ cents to the far left and the $10$ cents left at the far right. Alice chooses first and then alternates in the choice, respecting the rule in each row that is subsequently determined: this way Alice will eventually have taken four coins and Bob only three.
-> 
-> (a) If they both act to get the **MAXIMUM** amount of money possible, how many cents will Bob end up with?
-> 
-> (b) If, on the other hand, they both act to obtain the **MINIMUM** amount of money possible, how many cents will Bob end up with?
-> 
+> On a table, seven coins are arranged in a row as shown in the figure.
+>
+> Alice and Bob take turns picking one of the coins at the far left or the far right of the row. If, for example, Alice starts by taking the coin worth $50$ cents at the far right, then Bob can choose between the coin worth $50$ cents at the far left and the remaining coin worth $10$ cents at the far right. Alice chooses first, and then they alternate in choosing, observing the rule in each row that is determined subsequently: in this way, Alice will end up having taken four coins and Bob only three.
+>
+> a) If both act in such a way as to obtain the **MAXIMUM** possible amount of money, how many cents of a euro will Bob end up with?
+>
+> b) But if both act in such a way as to obtain the **MINIMUM** possible amount of money, how many cents of a euro will Bob end up with?
+>
 > (see figure)
 
-**Answer:** a)260 b)60
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2025_benjamin_finale#qb3|src_kangourou_2025_benjamin_finale__QB3]]
 
 
 
@@ -128,11 +142,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total number of streetlights on a circular path*
+*Total number of streetlights on the circular path*
 
-> A circular park is surrounded by a path lit by streetlights. Simona and Tania counted the streetlights, but separately, starting from different points and both moving in the same direction. The one that was the $20$-th streetlight for Simona was the $7$-th for Tania, the one that was the $7$-th for Simona was the $94$-th for Tania. How many streetlights are there in total?
+> A circular park is surrounded by a path lit by street lamps. Simona and Tania counted the street lamps, but separately, starting from different points and both moving in the same direction. The lamp that was the $20$-th lamp for Simona was the $7$-th for Tania; the lamp that was the $7$-th for Simona was the $94$-th for Tania. How many street lamps are there in total?
 
-**Answer:** 100
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2025_benjamin_finale#qb4|src_kangourou_2025_benjamin_finale__QB4]]
 
 
 
@@ -156,11 +174,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum red numbers sum of green and blue (1-9)
+*Maximum red numbers: sum of green and blue (1-9)*
 
-> Each integer between $1$ and $9$ included is assigned one and only one of the colors red, blue, green so that each red number is the sum of a green number and a blue number. How many red numbers can be at most?
+> To each integer between $1$ and $9$ inclusive, exactly one of the colors red, blue, and green is assigned, in such a way that every red number is the sum of a green number and a blue number. What is the maximum possible number of red numbers?
 
-**Answer:** 4
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2025_benjamin_finale#qb5|src_kangourou_2025_benjamin_finale__QB5]]
 
 
 
@@ -208,7 +231,7 @@ Maximum red numbers sum of green and blue (1-9)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum knights on a 4x4 grid with statements*
+*Maximum riders on a 4x4 grid with declarations*
 
 ![[src_kangourou_2025_benjamin_finale__probb6.png]]
 
@@ -232,8 +255,13 @@ Maximum red numbers sum of green and blue (1-9)
 \end{document}
 ```
 
-> On an island there are only Knights and Knaves: Knights are people who always tell the truth, while Knaves always lie, and it is known to everyone on the island who the Knights are and who the Knaves are. Today $16$ inhabitants of the island are waiting in the King's reception hall. This hall is a square with side $4$ meters and is paved with $16$ square tiles with side $1$ meter. Each person waits standing on a tile, one person per tile. While they wait, each of the $16$ people declares: «In the tiles adjacent to mine there are as many knaves as knights». What is the maximum number of knights there can be?
-> 
-> **NOTE:** Two tiles are adjacent if they share a whole side.
+> On an island, there are only Knights and Scoundrels: Knights are people who always tell the truth, whereas Scoundrels always lie, and everyone on the island knows who the Knights are and who the Scoundrels are. Today, $16$ inhabitants of the island are waiting in the King's reception hall. This hall is a square with side $4$ metres and is tiled with $16$ square tiles, each with side $1$ metres. Each person waits standing on a tile, with one person per tile. While they wait, each of the $16$ people declares: "On the tiles adjacent to mine, there are as many scoundrels as knights." What is the maximum possible number of Knights?
+>
+> **NOTE:** Two tiles are adjacent if they share an entire side.
 
-**Answer:** 4
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2025_benjamin_finale#qb6|src_kangourou_2025_benjamin_finale__QB6]]

@@ -40,17 +40,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of digits of a 24h digital clock*
+*What is the greatest possible value of the sum of the digits the clock can show at a single instant?*
 
-> My digital clock indicates the 24 hours and minutes: for example, at 3:23 p.m. it marks 15:23 and so the sum of the digits it shows in that instant is 11. Over the course of a day, what is the maximum value of the sum of the digits that my clock can display in a single instant? A) 21
-> 	
+> My digital clock shows the 24 hours and the minutes: for example, at 3:23 in the afternoon it reads 15:23, and so the sum of the digits it shows at that instant is 11. Over the course of a day, what is the greatest possible value of the sum of the digits my clock can show at a single instant?
+>
+> A) 21
 > B) 22
-> 	
 > C) 23
-> 	
-> D) 24 E) 25
+> D) 24
+> E) 25
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_cadet_gara#q01|src_kangourou_2022_cadet_gara__Q01]]
 
 
 
@@ -88,21 +93,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*On which number does the pattern-jumping kangaroo land?*
+*On which of the following numbers will he land in the course of his game?*
 
 ![[src_kangourou_2022_cadet_gara__prob2.png]]
 
-> Mathematical kangaroo enjoys jumping along the number line. He makes two long jumps followed by three short jumps, as shown in the figure, and repeats this pattern countless times. He started from 0: which of the following numbers will he land on during his game? A) 82
-> 	
+> The Mathematical kangaroo enjoys jumping along the number line. He makes two long jumps followed by three short jumps, as the picture shows, and he repeats this pattern countless times. He started from 0: on which of the following numbers will he land in the course of his game?
+>
+> A) 82
 > B) 83
-> 	
 > C) 84
-> 	
 > D) 85
-> 	
 > E) 86
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_cadet_gara#q02|src_kangourou_2022_cadet_gara__Q02]]
 
 
 
@@ -136,22 +144,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which licence plate is the same upside down*
+*Which of these could be the number plate?*
 
-> The licence plate fell off Pippo's car. Pippo fastened it back on in a great hurry and
-> did not notice that he had mounted it upside down. Fortunately this made no
-> difference: which of these can be the licence plate?
-> A)            	
->          B) 		
->                   C)	
-> 	
-> 	
-> D)	
-> 	
-> 	
+> The number plate came off Pippo's car. Pippo fixed it back on in a great hurry and did not notice that he had mounted it upside down. Luckily this made no difference: which of these could be the number plate?
+>
+> A)
+> B)
+> C)
+> D)
 > E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_cadet_gara#q03|src_kangourou_2022_cadet_gara__Q03]]
 
 
 
@@ -182,11 +189,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Where to place the minus sign for equality*
+*Where must she put the minus sign?*
 
-> In this expression there are five empty spaces. Sonia wants to fill four with a + and one with a – so that a correct equality is achieved. Where should you put the – sign? A) Between 6 and 9. B) Between 9 and 12. C) Between 12 and 15. D) Between 15 and 18. E) Between 18 and 21.
+> In this expression there are five empty spaces. Sonia wants to fill four of them with plus signs and one with a minus sign so as to obtain a correct equality. Where must she put the minus sign?
+>
+> A) Between 6 and 9.
+> B) Between 9 and 12.
+> C) Between 12 and 15.
+> D) Between 15 and 18.
+> E) Between 18 and 21.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_cadet_gara#q04|src_kangourou_2022_cadet_gara__Q04]]
 
 
 
@@ -227,14 +245,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible dimensions of each brick of the cube*
+*Which of the following could be the dimensions, in centimetres, of each brick?*
 
 ![[src_kangourou_2022_cadet_gara__prob5.png]]
 
-> Roberto has all the same bricks. With a certain number of such bricks he built the solid in figure, which is a cube. Of the following, what might each brick be in centimetres? (A) 4 × 6 × 12 B) 4 × 6 × 16 C) 4 × 8 × 12 D) 4 × 8 × 16 E) 4 × 12 × 16 04 NSN 40 9 0 HOH 09 80 BNB 08 03 HNH 30 08 XBX 80
+> Roberto has bricks that are all the same. With a certain number of these bricks he built the solid in the picture, which is a cube. Which of the following could be the dimensions, in centimetres, of each brick?
 >
+> A) 4 × 6 × 12
+> B) 4 × 6 × 16
+> C) 4 × 8 × 12
+> D) 4 × 8 × 16
+> E) 4 × 12 × 16
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_cadet_gara#q05|src_kangourou_2022_cadet_gara__Q05]]
 
 
 
@@ -266,17 +293,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers between 100 and 300 with all odd digits*
+*How many positive integers between 100 and 300 have all their digits odd?*
 
-> How many positive integers between 100 and 300 have all odd digits? A) 25
-> 	
+> How many positive integers between 100 and 300 have all their digits odd?
+>
+> A) 25
 > B) 50
-> 	
 > C) 75
-> 	
-> D) 100 E) 150
+> D) 100
+> E) 150
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_cadet_gara#q06|src_kangourou_2022_cadet_gara__Q06]]
 
 
 
@@ -313,21 +345,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Region where a tree must be planted to balance paths*
+*In which region of the park must a new tree be planted?*
 
 ![[src_kangourou_2022_cadet_gara__prob7.png]]
 
-> In the picture, you see a park with five large trees and three paths each connecting two opposite sides of the park. You want for each path to have the same number of trees to the right and left of the path. In which region of the park must a new tree be planted to achieve this condition? A) A
-> 	
+> In the picture you see a park in which there are five large trees and three paths, each of which joins two opposite sides of the park. One wants each path to have the same number of trees to the right and to the left of the path. In which region of the park must a new tree be planted to achieve this condition?
+>
+> A) A
 > B) B
-> 	
 > C) C
-> 	
 > D) D
-> 	
 > E) E
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_cadet_gara#q07|src_kangourou_2022_cadet_gara__Q07]]
 
 
 
@@ -364,21 +399,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Units digit of the first square number*
+*What is the units digit of the first number whose square Valentina calculated?*
 
 ![[src_kangourou_2022_cadet_gara__prob8.png]]
 
-> Valentina calculated the sum of the squares of two numbers, as shown in the figure. Unfortunately, some digits are hidden by ink stains. What is the units digit of the first number that Valentina calculated squared? A) 3
-> 	
+> Valentina calculated the sum of the squares of two numbers, as the picture shows. Unfortunately some digits are hidden by ink stains. What is the units digit of the first number whose square Valentina calculated?
+>
+> A) 3
 > B) 4
-> 	
 > C) 5
-> 	
 > D) 6
-> 	
 > E) 7
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_cadet_gara#q08|src_kangourou_2022_cadet_gara__Q08]]
 
 
 
@@ -413,23 +451,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shape taken by the curled-up caterpillar*
+*Which of the following shapes may it have taken?*
 
 ![[src_kangourou_2022_cadet_gara__prob9.png]]
 
-> The black and white caterpillar that you see in the figure has curled up to
-> sleep. Which of the following shapes could it have taken?
-> A) 	
-> 	
-> B) 	
-> 	
-> C)	
-> 	
-> D) 	
-> 	
+> The black and white caterpillar you see in the picture has curled up to sleep. Which of the following shapes may it have taken?
+>
+> A)
+> B)
+> C)
+> D)
 > E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_cadet_gara#q09|src_kangourou_2022_cadet_gara__Q09]]
 
 
 
@@ -461,20 +499,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of areas of a regular hexagon to an equilateral triangle*
+*What number do you get?*
 
-> In the same circle a regular hexagon and an equilateral triangle are inscribed. 
-> Dividing the area of the hexagon by the area of the triangle, what number do you get?
-> A) 2	
-> 	
-> B) √3 	
-> 	
-> C) 3/2 	 	
-> D) 4/3	 	
+> In one and the same circle a regular hexagon and an equilateral triangle are inscribed. Dividing the area of the hexagon by the area of the triangle, what number do you get?
+>
+> A) 2
+> B) √3
+> C) 3/2
+> D) 4/3
 > E) 7/6
-> Questions from No. 11 to No. 20 are worth 4 points each
+>
+> Questions 11 to 20 are worth 4 points each.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_cadet_gara#q10|src_kangourou_2022_cadet_gara__Q10]]
 
 
 
@@ -512,26 +553,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of stackable glasses on the shelf*
+*How many glasses can she stack at most?*
 
 ![[src_kangourou_2022_cadet_gara__prob11.png]]
 
-> In Monica's kitchen cupboard there are several shelves; each of
-> them is at the same distance from the two nearest ones: 36 cm. Monica wants to place
-> on one of these shelves some stackable glasses that are all identical. If a stack of 8
-> glasses is 42 cm tall and a stack of 2 is 18 cm tall, how many glasses at most
-> can she stack?
-> A) 3	
-	
-> B) 4	
-	
-> C) 5	
-	
-> D) 6	
-	
+> In the cupboard of Monica's kitchen there are several shelves; each of them is the same distance from the two nearest ones: 36 cm. Monica wants to put stackable glasses, all the same, on one of these shelves. If a stack of 8 glasses is 42 cm high and a stack of 2 is 18 cm high, how many glasses can she stack at most?
+>
+> A) 3
+> B) 4
+> C) 5
+> D) 6
 > E) 7
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_cadet_gara#q11|src_kangourou_2022_cadet_gara__Q11]]
 
 
 
@@ -575,22 +613,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum points on the surface of standard four dice*
+*How many pips can appear, at least, on the whole surface of the box?*
 
 ![[src_kangourou_2022_cadet_gara__prob12.png]]
 
-> A die is called standard if, for each pair of its opposite faces, the sum of the number of points belonging to them is 7. Four standard dice are glued together to form a parallelepiped as shown in the figure. How many points can appear on the entire surface of the parallelepiped at least? A) 52
-> 	
-> B) 54
-> 	
-> C) 56
-> 	
-> D) 58
-> 	
-> E) 60 A B C D E
+> A die is called standard if, for every pair of opposite faces, the sum of the number of pips on them is 7. Four standard dice are glued together to form a box, as shown in the picture. How many pips can appear, at least, on the whole surface of the box?
 >
+> A) 52
+> B) 54
+> C) 56
+> D) 58
+> E) 60
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_cadet_gara#q12|src_kangourou_2022_cadet_gara__Q12]]
 
 
 
@@ -625,19 +665,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of odd sums in pairs of X,Y,Z,W*
+*What is the greatest number of odd numbers you can obtain?*
 
-> Denote with X, Y, Z, W four integers. What is the maximum number of odd numbers you can get by calculating all possible sums in pairs X + Y, X + Z, X + W, Y + Z, Y + W, Z + W? A) 2
-> 	
+> Denote by X, Y, Z, W four integers. What is the greatest number of odd numbers you can obtain when you calculate all the possible pairwise sums X + Y, X + Z, X + W, Y + Z, Y + W, Z + W?
+>
+> A) 2
 > B) 3
-> 	
 > C) 4
-> 	
 > D) 5
-> 	
 > E) 6
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_cadet_gara#q13|src_kangourou_2022_cadet_gara__Q13]]
 
 
 
@@ -671,19 +714,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of the older sister given the average*
+*What is the age of the eldest sister?*
 
-> The ages of three sisters are different. The average age of three is 10 years. If we look at sisters in pairs, the average age of one couple is 11 years, that of another is 12 years. How old is the older sister? A) 12
-> 	
+> The ages of three sisters are all different from one another. The mean of the three ages is 10 years. If we take the sisters in pairs, the mean age of one pair is 11 years, and that of another is 12 years. What is the age of the eldest sister?
+>
+> A) 12
 > B) 14
-> 	
 > C) 16
-> 	
 > D) 18
-> 	
-> E) The data are insufficient to answer.
+> E) The data are not enough to answer.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_cadet_gara#q14|src_kangourou_2022_cadet_gara__Q14]]
 
 
 
@@ -719,24 +764,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total area of the regions with dahlias*
+*How many square metres is the total area of the regions where he planted the dahlias?*
 
 ![[src_kangourou_2022_cadet_gara__prob15.png]]
 
-> A gardener planted tulips      and dahlias      in 
-> a square flowerbed with side 12 m, distributing them in four regions as shown in the drawing. How many square metres is the total area of the regions in which he 
-> planted the dahlias?
-> A) 48	
-> 	
-> B) 46	
-> 	
-> C) 44	
-> 	
-> D) 40	
-> 	
+> A gardener planted tulips and dahlias in a square flower bed of side 12 m, distributing them in four regions as the drawing shows. How many square metres is the total area of the regions where he planted the dahlias?
+>
+> A) 48
+> B) 46
+> C) 44
+> D) 40
 > E) 36
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_cadet_gara#q15|src_kangourou_2022_cadet_gara__Q15]]
 
 
 
@@ -767,11 +811,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time when the two watches were set to the correct time*
+*At what time yesterday had we set them to the correct time?*
 
-> There are two digital clocks in my office that show the 24 hours. One goes one minute ahead every hour, the other loses two minutes every hour. Yesterday, at the same time, Sara and I both set them to the correct time but when I looked at them today, one pointed to 11:00, the other to 12:00. At what time yesterday did we set them to the correct time? A) 16:20 B) 16:00 C) 15:40 D) 15:20 E) 14:00
+> In my office there are two digital clocks that show the 24 hours. One gains one minute every hour; the other loses two minutes every hour. Yesterday, at the same instant, Sara and I set them both to the correct time, but when I looked at them today one read 11:00 and the other 12:00. At what time yesterday had we set them to the correct time?
+>
+> A) 16:20
+> B) 16:00
+> C) 15:40
+> D) 15:20
+> E) 14:00
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_cadet_gara#q16|src_kangourou_2022_cadet_gara__Q16]]
 
 
 
@@ -805,19 +859,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many numbers did Alberto write (replacement with 7-x)
+*How many numbers had Alberto written?*
 
-> Alberto wrote on a sheet some positive numbers less than 7. Rita replaced the difference between 7 and the number itself for every number Alberto wrote. The sum of Alberto's numbers was 22; the sum of Rita's numbers is 34. How many numbers did Alberto write? A) 7
-> 	
+> Alberto wrote on a sheet some positive numbers less than 7. For each number Alberto wrote, Rita substituted the difference between 7 and the number itself. The sum of Alberto's numbers was 22; that of Rita's numbers is 34. How many numbers had Alberto written?
+>
+> A) 7
 > B) 8
-> 	
 > C) 9
-> 	
 > D) 10
-> 	
 > E) 11
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_cadet_gara#q17|src_kangourou_2022_cadet_gara__Q17]]
 
 
 
@@ -856,21 +912,24 @@ How many numbers did Alberto write (replacement with 7-x)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the fourth corner box of the grid 3x3*
+*What number must she put in the fourth corner cell?*
 
 ![[src_kangourou_2022_cadet_gara__prob18.png]]
 
-> Giada wants to write a number in each box of a grid 3 × 3, so that the sums of the numbers in each of the four squares 2 × 2 that you can highlight in the grid are all the same. She has already written the numbers in three of the corner boxes; which number should she put in the fourth corner box? A) 0
-> 	
+> Giada wants to write a number in each cell of a 3 × 3 grid so that the sums of the numbers in each of the four 2 × 2 squares that can be picked out in the grid are all equal. She has already written the numbers in three of the corner cells; what number must she put in the fourth corner cell?
+>
+> A) 0
 > B) 1
-> 	
 > C) 4
-> 	
 > D) 5
-> 	
 > E) 6
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_cadet_gara#q18|src_kangourou_2022_cadet_gara__Q18]]
 
 
 
@@ -911,12 +970,22 @@ How many numbers did Alberto write (replacement with 7-x)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of the circle outside the triangle*
+*What percentage of the circle lies outside the triangle?*
 
-> The area of the intersection of a circle with a triangle is 45% of the area of their union. The area of the part of the triangle outside the circle is 40% of the area of their union. What percentage of the circle lies outside the triangle? A) 20% B) 25% C) 30% D) 35% E) 50% 4 m 4 m 4 m 4 m 2 ? 4 3
+> The area of the intersection of a circle with a triangle is 45% of the area of their union. The area of the part of the triangle outside the circle is 40% of the area of their union. What percentage of the circle lies outside the triangle?
 >
+> A) 20%
+> B) 25%
+> C) 30%
+> D) 35%
+> E) 50%
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_cadet_gara#q19|src_kangourou_2022_cadet_gara__Q19]]
 
 
 
@@ -952,13 +1021,23 @@ How many numbers did Alberto write (replacement with 7-x)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of road travelled by bicycle*
+*What fraction of the way did Marco cover by bicycle?*
 
-> Marco always pedals at the same speed and always walks at the same speed. It takes 20 minutes on a bike and 60 minutes on foot to cover the back and forth between home and lake. Yesterday, Marco left home on his bike, but along the way, he stopped at his friend Eva's house and, after leaving the bike, continued on foot. When he returned, he walked to Eva's house, picked up his bike, and rode home. His full lap, without counting stops, lasted 52 minutes. What part of the road did Marco cycle through? A) 1/6 B) 1/5
-> 	
-> C) 1/4 D) 1/3 E) The problem admits more than one solution. The questions from N. 21 to N. 30 are worth 5 points each.
+> Marco always cycles at the same speed and always walks at the same speed. To cover the route from home to the lake and back he takes 20 minutes when he is on the bicycle and 60 minutes when he is on foot. Yesterday Marco set off from home by bicycle but, along the way, he stopped at his friend Eva's house and, after leaving the bicycle there, went on on foot. On the way back he walked to Eva's house, picked up the bicycle and cycled home. His complete round trip, not counting the stops, lasted 52 minutes. What fraction of the way did Marco cover by bicycle?
+>
+> A) 1/6
+> B) 1/5
+> C) 1/4
+> D) 1/3
+> E) The problem has more than one solution.
+>
+> Questions 21 to 30 are worth 5 points each.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_cadet_gara#q20|src_kangourou_2022_cadet_gara__Q20]]
 
 
 
@@ -996,21 +1075,24 @@ How many numbers did Alberto write (replacement with 7-x)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of numbers in the three lower circles (products)*
+*What is the sum of the numbers written in the three circles at the bottom of the picture?*
 
 ![[src_kangourou_2022_cadet_gara__prob21.png]]
 
-> The eight circles in the figure each host an integer number from 1 to 8; different circles host different numbers. Each number that appears at the tip of an arrow indicates the product of the three numbers written in the circles that are on the segment that ends with the arrow. What is the sum of the numbers written in the three circles at the bottom of the figure? A) 11
-> 	
+> The eight circles in the picture each hold an integer from 1 to 8; different circles hold different numbers. Each number that appears at the tip of an arrow gives the product of the three numbers written in the circles that lie on the segment ending with the arrow. What is the sum of the numbers written in the three circles at the bottom of the picture?
+>
+> A) 11
 > B) 12
-> 	
 > C) 15
-> 	
 > D) 17
-> 	
 > E) 19
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_cadet_gara#q21|src_kangourou_2022_cadet_gara__Q21]]
 
 
 
@@ -1061,33 +1143,23 @@ How many numbers did Alberto write (replacement with 7-x)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AB/BC ratio of the rectangle divided by seven*
+*What is the ratio of the length of side AB to that of side BC?*
 
 ![[src_kangourou_2022_cadet_gara__prob22.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw (0,0) rectangle (12,7);
-  \foreach \x in {0,3,6,9} {
-    \draw (\x,3) rectangle (\x+3,7);
-  }
-  \foreach \x in {0,4,8} {
-    \draw (\x,0) rectangle (\x+4,3);
-  }
-  \node[above left] at (0,7) {$A$};
-  \node[above right] at (12,7) {$B$};
-  \node[below right] at (12,0) {$C$};
-  \node[below left] at (0,0) {$D$};
-\end{tikzpicture}
-\end{document}
-```
+> The large rectangle in the picture, ABCD, is divided into seven rectangles, all of the same dimensions. What is the ratio of the length of side AB to that of side BC?
+>
+> A) 1/2
+> B) 4/3
+> C) 8/5
+> D) 12/7
+> E) 7/3
 
-> The large rectangle in the figure, ABCD, is divided into seven rectangles all of the same size. What's the ratio between the length of the AB side and that of the BC side? A) 1/2 B) 4/3
-> 	
-> C) 8/5 D) 12/7 E) 7/3
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_cadet_gara#q22|src_kangourou_2022_cadet_gara__Q22]]
 
 
 
@@ -1124,21 +1196,23 @@ How many numbers did Alberto write (replacement with 7-x)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the total surface area of a single brick*
+*What is the surface area of a single brick?*
 
 ![[src_kangourou_2022_cadet_gara__prob23.png]]
 
-> A mason has two identical bricks. He approaches them face to face, in three different ways, as shown in the figure. The total surface areas of the three solids obtained are 72, 96 and 102. What is the total surface area of a single brick? A) 36
-> 	
+> A bricklayer has two identical bricks. He places them face to face, in three different ways, as the picture shows. The areas of the total surfaces of the three solids obtained are 72, 96 and 102. What is the area of the total surface of a single brick?
+>
+> A) 36
 > B) 48
-> 	
 > C) 52
-> 	
 > D) 54
-> 	
 > E) 60
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_cadet_gara#q23|src_kangourou_2022_cadet_gara__Q23]]
 
 
 
@@ -1176,16 +1250,22 @@ How many numbers did Alberto write (replacement with 7-x)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Impossible distance from A to D between four countries*
+*Which of the following cannot be the distance in kilometres from A to D?*
 
-> Four countries A, B, C and D are situated, not necessarily in this order, on a long straight road. The distance of A to C is 75 km, that of B to D is 45 km and that of B to C is 20 km. Which of the following cannot be the distance in kilometres from A to D ? A) 10
-> 	
-> B) 50
-> 	
-> C) 80 D) 100 E) 140 96 72 102
+> Four villages A, B, C and D lie, not necessarily in that order, on a long straight road. The distance from A to C is 75 km, that from B to D is 45 km and that from B to C is 20 km. Which of the following cannot be the distance in kilometres from A to D?
 >
+> A) 10
+> B) 50
+> C) 80
+> D) 100
+> E) 140
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_cadet_gara#q24|src_kangourou_2022_cadet_gara__Q24]]
 
 
 
@@ -1218,13 +1298,21 @@ How many numbers did Alberto write (replacement with 7-x)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum liters of green paint to be replaced*
+*What is the least number of litres of green paint by replacing which he can obtain what he had intended?*
 
-> Instead of mixing 2 liters of blue paint with 3 liters of yellow paint, a painter mixed 3 liters of blue paint with 2 liters of yellow paint, giving the wrong shade of green. To remedy this, he plans to throw away a part of the paint obtained and add some blue and/or yellow paint to the remainder so that he gets 5 litres of paint of the correct shade of green. What is the minimum number of litres of green paint he can replace to obtain what he set out to? A) 5/3 B) 3/2
-> 	
-> C) 2/3 D) 3/5 E) 5/9
+> Instead of mixing 2 litres of blue paint with 3 litres of yellow paint, a painter mixed 3 litres of blue paint with 2 of yellow paint, obtaining the wrong shade of green. To put it right he thinks of throwing away part of the paint obtained and adding to what is left a little blue and/or yellow paint so as to obtain 5 litres of paint of the correct shade of green. What is the least number of litres of green paint by replacing which he can obtain what he had intended?
+>
+> A) 5/3
+> B) 3/2
+> C) 2/3
+> D) 3/5
+> E) 5/9
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_cadet_gara#q25|src_kangourou_2022_cadet_gara__Q25]]
 
 
 
@@ -1270,29 +1358,24 @@ How many numbers did Alberto write (replacement with 7-x)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum coloring boxes to cover each 1x4*
+*What is the smallest number of cells that need to be coloured, and that suffice?*
 
 ![[src_kangourou_2022_cadet_gara__prob26.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw[step=1cm] (0,0) grid (5,5);
-\end{tikzpicture}
-\end{document}
-```
-
-> The figure shows a square grid of 5×5. We want every rectangle 1×4 and every rectangle 4×1 made up of adjacent grid boxes to have at least one colored box. What is the smallest number of boxes that you need (and suffice) to color? A) 5
-> 	
+> The picture shows a 5×5 square grid. We want every 1×4 rectangle and every 4×1 rectangle formed by adjacent cells of the grid to have at least one coloured cell. What is the smallest number of cells that need to be coloured, and that suffice?
+>
+> A) 5
 > B) 6
-> 	
 > C) 7
-> 	
 > D) 8
-> 	
 > E) 9
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_cadet_gara#q26|src_kangourou_2022_cadet_gara__Q26]]
 
 
 
@@ -1326,13 +1409,24 @@ How many numbers did Alberto write (replacement with 7-x)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of areas of the two squares (grey area 43)*
+*What is the sum, in square centimetres, of the areas of the two squares?*
 
 ![[src_kangourou_2022_cadet_gara__prob27.png]]
 
-> One square contains another, as the figure suggests. The grey region of the figure has an area of 43 cm2. If the sides of each of the two squares measure an integer number of centimeters, what is the sum in square centimeters of the areas of the two squares? A) 882 B) 925 C) 968 D) 1011 E) 2022
+> One square contains another, as the picture suggests. The grey region of the picture has area 43 cm2. If the side of each of the two squares measures a whole number of centimetres, what is the sum, in square centimetres, of the areas of the two squares?
+>
+> A) 882
+> B) 925
+> C) 968
+> D) 1011
+> E) 2022
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_cadet_gara#q27|src_kangourou_2022_cadet_gara__Q27]]
 
 
 
@@ -1367,19 +1461,22 @@ How many numbers did Alberto write (replacement with 7-x)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial points on the straight after repeated insertions*
+*How many points were marked on the line at the start?*
 
-> On a straight line at first a few points are marked. For each pair of consecutive points Lucia marks another point within the segment that has them as extremes. Repeat this operation three more times. In the end, 225 points are marked on the straight. How many points were initially marked on the straight? A) 10
-> 	
+> On a line, some points are marked at the start. For every pair of consecutive points Lucia marks another point inside the segment that has them as endpoints. She repeats this operation another 3 times. At the end, 225 points are marked on the line. How many points were marked on the line at the start?
+>
+> A) 10
 > B) 12
-> 	
 > C) 15
-> 	
 > D) 16
-> 	
 > E) 25
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_cadet_gara#q28|src_kangourou_2022_cadet_gara__Q28]]
 
 
 
@@ -1416,21 +1513,24 @@ How many numbers did Alberto write (replacement with 7-x)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the BAC angle in the isosceles triangle divided*
+*What is the measure in degrees of the angle BAC?*
 
 ![[src_kangourou_2022_cadet_gara__prob29.png]]
 
-> An isosceles triangle ABC with base BC is divided into three other triangles, as suggested by the figure which does not respect the proportions. We know that AD = DB, CE = CD and BE = EC. What is the measurement in degrees of the angle BAC ? A) 24
-> 	
+> An isosceles triangle ABC with base BC is divided into three other triangles, as suggested by the picture, which however does not respect the proportions. It is known that AD = DB, CE = CD and BE = EC. What is the measure in degrees of the angle BAC?
+>
+> A) 24
 > B) 28
-> 	
 > C) 30
-> 	
 > D) 35
-> 	
 > E) 36
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_cadet_gara#q29|src_kangourou_2022_cadet_gara__Q29]]
 
 
 
@@ -1467,11 +1567,18 @@ How many numbers did Alberto write (replacement with 7-x)
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many koalas live in the 7 parks
+*How many koalas in all live in the 7 parks?*
 
-> 2022 kangaroos and some koalas live in 7 parks. In each park, the number of kangaroos is equal to the total number of koalas living in all other parks. How many koalas in all live in the seven parks? A) 288 B) 337 C) 576 D) 674 E) 2022
->  
-> A B C D E
+> 2022 kangaroos and some koalas live in 7 parks. In each park the number of kangaroos is equal to the total number of koalas that live in all the other parks. How many koalas in all live in the 7 parks?
 >
+> A) 288
+> B) 337
+> C) 576
+> D) 674
+> E) 2022
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_cadet_gara#q30|src_kangourou_2022_cadet_gara__Q30]]

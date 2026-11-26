@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza di tangente nei punti di fine dell'accordo con angolo inciso*
+*Trovare $\cos\theta$ e dimostrare che le tangenti in $A$ e $D$ si incontrano su $BC$*
 
-> $O$ è un punto fuori da un cerchio. Due linee $OAB$, $OCD$ e $O$ incontrano il cerchio a $A,B,C,D$ con $A,C$ rispettivamente i punti di mezzo di $OB,OD$. Inoltre l'angolo acuto $\theta$ tra le linee è uguale all'angolo acuto in cui ciascuna linea taglia il cerchio. Trova $\cos\theta$ e mostra che le tangenti di $A,D$ al cerchio si incontrano sulla linea $BC$.
+> $O$ è un punto fuori da una circonferenza. Due rette $OAB$, $OCD$ per $O$ incontrano la circonferenza in $A,B,C,D$, con $A,C$ punti medi rispettivamente di $OB,OD$. Inoltre l'angolo acuto $\theta$ fra le rette è uguale all'angolo acuto secondo cui ciascuna retta seca la circonferenza. Trovare $\cos\theta$ e dimostrare che le tangenti in $A,D$ alla circonferenza si incontrano sulla retta $BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1985#q01|src_bmo2_1985__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Anteri positivi cattivi e rappresentazione binaria*
+*La somma dei primi $1985$ interi positivi malvagi*
 
-> Un intero positivo è chiamato male se il numero di cifre $1$ nella sua espansione binaria è pari. Trova la somma dei primi $1985$ numeri interi positivi cattivi.
+> Un intero positivo si dice malvagio se il numero di cifre $1$ nella sua espansione binaria è pari. Trovare la somma dei primi $1985$ interi positivi malvagi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1985#q02|src_bmo2_1985__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il prodotto di cinque numeri interi consecutivi non è mai un quadrato perfetto
+*Il prodotto di cinque interi positivi consecutivi non è mai un quadrato perfetto*
 
-> Prova che il prodotto di cinque numeri interi positivi consecutivi non è mai un quadrato perfetto.
+> Dimostrare che il prodotto di cinque interi positivi consecutivi non è mai un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1985#q03|src_bmo2_1985__Q03]]
 
 
 
@@ -106,11 +127,18 @@ Il prodotto di cinque numeri interi consecutivi non è mai un quadrato perfetto
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Stocco di mano del vice leader mongolo alla sessione della giuria dell'IMO*
+*Quante strette di mano ha dato il vice del capo della squadra mongola*
 
-> Delegazioni provenienti dai paesi $30$ hanno partecipato a una sessione della giuria delle Olimpiadi Matematiche Internazionali  i leader e i loro deputati, $60$ persone in generale. Durante la sessione alcuni dei partecipanti si sono stretti la mano l'uno all'altro, ma nessun leader ha stretto la mano al suo vice e non due persone hanno stretto la mano più di una volta. Dopo la sessione il leader della squadra mongola chiese a tutti quante volte avevano stretto la mano. Tutti i partecipanti hanno risposto e i numeri che hanno dato erano tutti diversi. Quante volte il vice leader mongolo ha dato la mano?
-> 
-> Per ottenere il pieno credito dovrai stabilire chiaramente che la tua risposta è l'unica coerente con le condizioni.
+> Delegazioni di $30$ paesi hanno preso parte a una sessione della giuria delle Olimpiadi Internazionali di Matematica: i capi e i loro vice, $60$ persone in tutto. Durante la sessione alcuni partecipanti si sono stretti la mano, ma nessun capo ha stretto la mano al proprio vice e nessuna coppia si è stretta la mano più di una volta. Dopo la sessione il capo della squadra mongola ha chiesto a tutti quante volte avessero stretto la mano. Tutti hanno risposto e i numeri dati erano tutti diversi. Quante volte ha stretto la mano il vice del capo mongolo?
+>
+> Per il punteggio pieno bisogna stabilire chiaramente che la risposta è l'unica compatibile con le condizioni.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1985#q04|src_bmo2_1985__Q04]]
 
 
 
@@ -135,8 +163,15 @@ Il prodotto di cinque numeri interi consecutivi non è mai un quadrato perfetto
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circumferenza tetraedrale e insfera identità del piede ortocentrico*
+*Dimostrare che i lati opposti sono uguali e che $OH = OH'$*
 
-> $ABCD$ è un tetraedro che ha una circonferenza che passa attraverso $A, B, C, D$ e un'insfera che tocca ogni faccia triangolare in un punto interno di quella faccia. Le due sfere hanno lo stesso centro $O$. $H$ è l'ortocentro del triangolo $ABC$ e $H'$ è il piede della perpendicolare da $D$ verso il piano di quel triangolo.
-> 
-> Provare che $AB = CD$, $AC = BD$, $AD = BC$ e che $OH = OH'$.
+> $ABCD$ è un tetraedro che ha una sfera circoscritta passante per $A, B, C, D$ e una sfera inscritta tangente a ciascuna faccia triangolare in un punto interno di quella faccia. Le due sfere hanno lo stesso centro $O$. $H$ è l'ortocentro del triangolo $ABC$ e $H'$ è il piede della perpendicolare da $D$ al piano di quel triangolo.
+>
+> Dimostrare che $AB = CD$, $AC = BD$, $AD = BC$ e che $OH = OH'$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1985#q05|src_bmo2_1985__Q05]]

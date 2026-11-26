@@ -37,17 +37,24 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tabellone con 2026 interi: mosse gcd e lcm/gcd lasciano un M>1 unico*
+*Lavagna degli 2026 interi: le mosse gcd e lcm/gcd lasciano un unico M>1*
 
-> Sul quaderno nero sono scritti $2026$ numeri interi maggiori di $1$, non necessariamente distinti. In un movimento, Confucio sceglie due numeri $m>1$ e $n>1$ da posizioni diverse sul quaderno e li sostituisce con
-> $$\gcd(m,n)\qquad\text{and}\qquad \frac{\mathrm{lcm}(m,n)}{\gcd(m,n)}.$$.
-> Prosegue a effettuare mosse finché è possibile farlo.
-> 
-> (a) Si dimostri che, indipendentemente dalle scelte di Confucio, dopo un numero finito di mosse esattamente un intero $M$ sulla lavagna è maggiore di $1$.
-> 
-> (b) Si dimostri che il valore di $M$ non dipende dalle scelte di Confucio.
-> 
-> (Nota che $\gcd(x,y)$ indica il massimo comun divisore degli interi positivi $x$ e $y$, mentre $\mathrm{lcm}(x,y)$ indica il minimo comune multiplo di $x$ e $y$.)
+> Sulla lavagna sono scritti $2026$ interi maggiori di $1$, non necessariamente distinti. In una mossa, Confucio sceglie due interi $m>1$ e $n>1$ posti in punti diversi della lavagna e sostituisce questi due interi con
+> $$\gcd(m,n)\qquad\text{and}\qquad \frac{\mathrm{lcm}(m,n)}{\gcd(m,n)}.$$
+> Continua a fare mosse finché è possibile farne.
+>
+> (a) Dimostrare che, indipendentemente dalle scelte di Confucio, dopo un numero finito di mosse, sulla lavagna c'è esattamente un intero $M$ maggiore di $1$.
+>
+> (b) Dimostrare che il valore di $M$ non dipende dalle scelte di Confucio.
+>
+> (Si noti che $\gcd(x,y)$ denota il massimo comune divisore degli interi positivi $x$ e $y$, e che $\mathrm{lcm}(x,y)$ denota il minimo comune multiplo di $x$ e $y$.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2026#q01|src_imho_2026__Q01]]
 
 
 
@@ -72,11 +79,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circocentro di AKL equidistante dai punti medi M e N*
+*Il circocentro di AKL è equidistante dai punti medi M e N*
 
-> Sia $ABC$ un triangolo e siano i punti $M$ e $N$ i punti medi dei lati $AB$ e $AC$, rispettivamente. Siano i punti $K$ e $L$ scelti strettamente all'interno dei triangoli $BMC$ e $BNC$, rispettivamente, in modo che il punto $K$ giaccia strettamente all'interno del triangolo $ABL$ e il punto $L$ giaccia strettamente all'interno del triangolo $AKC$. Supponiamo che
+> Sia $ABC$ un triangolo e siano $M$ e $N$ i punti medi dei lati $AB$ e $AC$, rispettivamente. Siano $K$ e $L$ scelti strettamente all'interno dei triangoli $BMC$ e $BNC$, rispettivamente, in modo che $K$ giaccia strettamente all'interno del triangolo $ABL$ e $L$ giaccia strettamente all'interno del triangolo $AKC$. Si supponga che
 > $$\angle KBA = \angle ACL,\qquad \angle LBK = \angle LNC,\qquad \text{and}\qquad \angle LCK = \angle BMK.$$
-> Sia $O$ il circocentro del triangolo $AKL$. Si dimostri che $OM = ON$.
+> Sia $O$ il circocentro del triangolo $AKL$. Dimostrare che $OM = ON$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2026#q02|src_imho_2026__Q02]]
 
 
 
@@ -101,11 +115,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Liu e Xiang Yu tagliano un bastoncino di lunghezza 1; massimo c che Liu può garantire*
+*Liu e Xiang Yu tagliano un bastone di lunghezza 1; il valore massimo di c che Liu può garantire*
 
-> Sia $n$ un intero positivo. Liu Bang e Xiang Yu possiedono un bastone di lunghezza $1$ e vogliono dividerlo tra loro. Liu segna al massimo $n$ punti sul bastone, dopodiché Xiang segna al massimo $n$ punti sul bastone. I punti segnati sono tutti distinti. Successivamente, il bastone viene tagliato in corrispondenza di tutti i punti segnati, producendo un certo numero di pezzi. A questo punto, essi si alternano nel prendere uno qualsiasi dei pezzi non ancora presi, con Liu che inizia per primo. Ogni giocatore vuole massimizzare la lunghezza totale dei pezzi che gli appartengono.
-> 
-> Per ogni $n$, determinare il valore massimo di $c$ tale che Liu possa garantire una lunghezza totale almeno pari a $c$, indipendentemente dalla mossa di Xiang.
+> Sia $n$ un numero intero positivo. Liu Bang e Xiang Yu hanno un bastone di lunghezza $1$ e vogliono dividerlo tra loro. Liu segna al massimo $n$ punti sul bastone, e poi Xiang segna al massimo $n$ punti sul bastone. I punti segnati sono distinti. Successivamente, il bastone viene tagliato in tutti i punti segnati, creando un certo numero di pezzi. Dopodiché, i due si alternano nel rivendicare qualsiasi pezzo del bastone non ancora rivendicato, con Liu che inizia per primo. L'obiettivo di ciascun giocatore è massimizzare la lunghezza totale dei propri pezzi.
+>
+> Per ciascun $n$, determina il valore più grande $c$ tale che Liu possa garantirsi una lunghezza totale di almeno $c$, indipendentemente dalle mosse di Xiang.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2026#q03|src_imho_2026__Q03]]
 
 
 
@@ -134,19 +155,26 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mulan ritaglia triangoli finché un angolo è uguale a theta*
+*Mulan taglia triangoli di carta finché un angolo non diventa uguale a theta*
 
-> Shan-Yu e Mulan giocano a un gioco. Sia $\theta$ un angolo con $0^\circ < \theta < 180^\circ$, noto a entrambi i giocatori. All'inizio Shan-Yu costruisce un triangolo di carta $T$ con misure a sua scelta. Poi ripetono più volte i passi seguenti:
-> 
-> - Se il triangolo $T$ ha almeno un angolo che misura esattamente $\theta$, il gioco termina e Mulan vince.
-> - Altrimenti, Mulan sceglie un punto $P$ sul perimetro del triangolo $T$, diverso dai suoi tre vertici. Poi effettua un taglio rettilineo dal punto $P$ al vertice opposto del triangolo $T$, dividendo così il triangolo in due triangoli.
+> Shan-Yu e Mulan stanno giocando a un gioco. Sia $\theta$ un angolo di cui entrambi i giocatori conoscono il valore $0^\circ < \theta < 180^\circ$. Inizialmente, Shan-Yu costruisce un triangolo di carta $T$ con le misure che sceglie lui. Poi ripetono più volte i seguenti passaggi:
+>
+> - Se $T$ ha almeno un angolo di misura esattamente $\theta$, allora il gioco termina e Mulan vince.
+> - Altrimenti, Mulan sceglie un punto $P$ sul perimetro di $T$, diverso dai suoi tre vertici. Poi esegue un taglio rettilineo da $P$ al vertice opposto di $T$, suddividendo il triangolo in due triangoli.
 > - Shan-Yu scarta uno dei due triangoli. Il triangolo rimanente diventa il nuovo $T$.
-> 
-> Per quali valori reali di $\theta$ Mulan può garantire la vittoria in un numero finito di passi, indipendentemente dalla giocata di Shan-Yu?
+>
+> Per quali valori reali di $\theta$ Mulan può garantire la propria vittoria in un numero finito di passaggi, qualunque sia la strategia di Shan-Yu?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2026#q04|src_imho_2026__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_disuguaglianze,method_sostituzione,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_disuguaglianze,method_fattorizzazione,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -158,7 +186,7 @@ level: IMO
 > for every $x,y\in\mathbb{R}_{>0}$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** Sostituzione, [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HOSr8wvlL1_A8tp20DIPaeuu1fTHAVlZ/view)
@@ -167,11 +195,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzioni positive che soddisfano una disuguaglianza bilaterale per la media quadratica*
+*Funzioni positive che soddisfano una disuguaglianza della media quadratica bilaterale*
 
 > Sia $\mathbb{R}_{>0}$ l'insieme dei numeri reali positivi. Determinare tutte le funzioni $f\colon \mathbb{R}_{>0}\to\mathbb{R}_{>0}$ tali che
 > $$\frac{x^2 + f(y)^2}{2} \ge \frac{f(x)+y}{2} \ge \sqrt{x f(y)}$$
 > per ogni $x,y\in\mathbb{R}_{>0}$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2026#q05|src_imho_2026__Q05]]
 
 
 
@@ -196,8 +231,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successione di interi >1 che condividono un fattore con tutti i precedenti è definitivamente aritmetica*
+*La successione di interi maggiori di 1 che hanno un fattore comune con tutti i predecessori è, a partire da un certo punto, aritmetica*
 
-> Sia $a_1,a_2,a_3,\ldots$ una successione infinita di interi positivi maggiori di $1$. Si supponga che per ogni intero positivo $n$, il numero $a_{n+1}$ sia il più piccolo intero positivo maggiore di $a_n$ tale che $\gcd(a_{n+1},a_i)>1$ per ogni $i=1,2,\ldots,n$. Si dimostri che esistono interi positivi $T$ e $L$ tali che
+> Sia $a_1,a_2,a_3,\ldots$ una successione infinita di interi positivi maggiori di $1$. Si supponga che, per ogni intero positivo $n$, il numero $a_{n+1}$ sia il più piccolo intero positivo maggiore di $a_n$ tale che $\gcd(a_{n+1},a_i)>1$ per ogni $i=1,2,\ldots,n$. Dimostrare che esistono interi positivi $T$ e $L$ tali che
 > $$a_{n+T}=a_n+L$$
 > per ogni intero positivo $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2026#q06|src_imho_2026__Q06]]

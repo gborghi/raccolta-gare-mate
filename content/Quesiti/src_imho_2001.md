@@ -33,13 +33,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acutangolo con circocentro; disuguaglianza sugli angoli implica limite sulla somma degli angoli*
+*Triangolo acuto con circocentro; la disuguaglianza angolare implica un limite per la somma degli angoli*
 
-> Sia $ABC$ un triangolo acutangolo con circocentro $O$. Sia $P$ il piede dell'altezza da $A$ su $BC$.
-> 
+> Sia $ABC$ un triangolo acutangolo con circocentro $O$. Sia $P$, su $BC$, il piede dell'altezza condotta da $A$.
+>
 > Si supponga che $\angle BCA \ge \angle ABC + 30^\circ$.
-> 
+>
 > Si dimostri che $\angle CAB + \angle COP < 90^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2001#q01|src_imho_2001__Q01]]
 
 
 
@@ -66,9 +73,16 @@ level: IMO
 
 *Disuguaglianza con tre numeri reali positivi e radici quadrate*
 
-> Si dimostri che
+> Dimostrare che
 > $$\frac{a}{\sqrt{a^2+8bc}}+\frac{b}{\sqrt{b^2+8ca}}+\frac{c}{\sqrt{c^2+8ab}}\ge 1$$
 > per tutti i numeri reali positivi $a$, $b$ e $c$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2001#q02|src_imho_2001__Q02]]
 
 
 
@@ -96,14 +110,21 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ventuno ragazze e ragazzi; il principio del pigeonhole fornisce un problema risolto da 3 di ciascuno*
+*Ventuno ragazze e ragazzi; la casellatura crea un problema risolto da 3 di ciascuno*
 
-> Ventuno ragazze e ventun ragazzi hanno partecipato a un concorso matematico.
-> 
+> Ventuno ragazze e ventuno ragazzi hanno partecipato a una gara di matematica.
+>
 > - Ogni concorrente ha risolto al massimo sei problemi.
-> - Per ogni ragazza e ogni ragazzo, almeno un problema è stato risolto da entrambi.
-> 
-> Si dimostri che esiste un problema risolto da almeno tre ragazze e da almeno tre ragazzi.
+> - Per ogni ragazza e per ogni ragazzo, almeno un problema è stato risolto da entrambi.
+>
+> Dimostrare che c'è stato un problema risolto da almeno tre ragazze e da almeno tre ragazzi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2001#q03|src_imho_2001__Q03]]
 
 
 
@@ -128,11 +149,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazioni di 1..n con somme pesate; n! divide la differenza tra due somme*
+*Permutazioni di 1..n con somme ponderate; n! divide la differenza di due somme*
 
-> Sia $n$ un intero dispari maggiore di $1$, e siano $k_1, k_2, \ldots, k_n$ degli interi dati. Per ciascuna delle $n!$ permutazioni $a = (a_1, a_2, \ldots, a_n)$ di $1, 2, \ldots, n$, sia
+> Sia $n$ un numero intero dispari maggiore di $1$, e siano $k_1, k_2, \ldots, k_n$ numeri interi dati. Per ciascuna delle $n!$ permutazioni $a = (a_1, a_2, \ldots, a_n)$ di $1, 2, \ldots, n$, sia
 > $$S(a) = \sum_{i=1}^{n} k_i\, a_i.$$
-> Si dimostri che esistono due permutazioni $b$ e $c$, con $b \ne c$, tali che $n!$ è un divisore di $S(b) - S(c)$.
+> Dimostrare che esistono due permutazioni $b$ e $c$, $b \ne c$, tali che $n!$ sia un divisore di $S(b) - S(c)$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2001#q04|src_imho_2001__Q04]]
 
 
 
@@ -159,13 +187,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con due bisettrici degli angoli e una condizione su una lunghezza; determinare tutti gli angoli possibili*
+*Triangolo con due bisettrici e una condizione sulla lunghezza; trovare tutti gli angoli possibili*
 
-> In un triangolo $ABC$, sia $AP$ a bisecare $\angle BAC$, con $P$ su $BC$, e sia $BQ$ a bisecare $\angle ABC$, con $Q$ su $CA$.
-> 
-> Si sa che $\angle BAC = 60^\circ$ e che $AB + BP = AQ + QB$.
-> 
+> In un triangolo $ABC$, si consideri $AP$ che biseca $\angle BAC$, con $P$ su $BC$, e si consideri $BQ$ che biseca $\angle ABC$, con $Q$ su $CA$.
+>
+> È noto che $\angle BAC = 60^\circ$ e che $AB + BP = AQ + QB$.
+>
 > Quali sono gli angoli possibili del triangolo $ABC$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2001#q05|src_imho_2001__Q05]]
 
 
 
@@ -190,8 +225,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Interi a>b>c>d>0 con condizione sul prodotto; ab+cd non è primo*
+*Interi a>b>c>d>0 con una condizione sul prodotto; ab+cd non è primo*
 
-> Siano $a$, $b$, $c$, $d$ interi tali che $a > b > c > d > 0$. Supponiamo che
+> Siano $a$, $b$, $c$, $d$ numeri interi tali che $a > b > c > d > 0$. Si supponga che
 > $$ac + bd = (b + d + a - c)(b + d - a + c).$$
 > Si dimostri che $ab + cd$ non è primo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2001#q06|src_imho_2001__Q06]]

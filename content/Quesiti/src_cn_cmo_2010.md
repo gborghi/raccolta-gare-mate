@@ -31,11 +31,18 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi incrociati, la linea CF incontra i cerchi a P Q, punti di mezzo di archi, prova conciclica*
+*Due cerchi che si intersecano; la retta CF incontra i cerchi nei punti P e Q, punti medi degli archi; dimostrare che P e Q sono conciclici*
 
-> Come mostrato di seguito, due cerchi $\Gamma_1$, $\Gamma_2$ si incrociano nei punti $A$, $B$. Una linea che attraversa $B$ incrocia $\Gamma_1$, $\Gamma_2$ nei punti $C$, $D$; un'altra linea che attraversa $B$ incrocia $\Gamma_1$, $\Gamma_2$ nei punti $E$, $F$; e la linea $CF$ incrocia $\Gamma_1$, $\Gamma_2$ nei punti $P$ e $Q$, rispettivamente. I punti medi $M$ e $N$ siano rispettivamente $\widehat{PB}$ (su $\Gamma_1$) e $\widehat{QB}$ (su $\Gamma_2$). Disegnare le linee $CM$ e $FN$. Provare che $C$, $F$, $M$, $N$ sono conciclici. (Posato da Xiong Bin)
+> Come mostrato di seguito, due circonferenze $\Gamma_1$, $\Gamma_2$ si intersecano nei punti $A$, $B$. Una retta passante per $B$ interseca $\Gamma_1$, $\Gamma_2$ nei punti $C$, $D$; un'altra retta passante per $B$ interseca $\Gamma_1$, $\Gamma_2$ nei punti $E$, $F$; e la retta $CF$ interseca $\Gamma_1$, $\Gamma_2$ nei punti $P$, $Q$, rispettivamente. Siano $M$, $N$ i punti medi dell'arco $\widehat{PB}$ (su $\Gamma_1$) e dell'arco $\widehat{QB}$ (su $\Gamma_2$), rispettivamente. Tracciare le rette $CM$ e $FN$. Dimostrare che $C$, $F$, $M$, $N$ sono conciclici. (Proposto da Xiong Bin)
 
 ![[src_cn_cmo_2010__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2010#q01|src_cn_cmo_2010__Q01]]
 
 
 
@@ -60,9 +67,18 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con ricorsione basata su gcd, dimostrare che è primo infinitamente spesso*
+*Successione con ricorsione basata sul mcd, dimostrare che è primo infinite volte*
 
-> Date un numero intero $k \ge 3$ e una sequenza $\{a_n\}$ che soddisfa $a_1 = 2k$ e per ogni $n > k$, $$a_{n+1} = \begin{cases} a_n + 1, & \text{if } a_n \text{ and } n \text{ are coprime,} \\ 2a_n, & \text{otherwise,} \end{cases}$$ dimostra che $a_n$ è un primo per infinite $n$. (Posato da Zhu Huawei)
+> Dato un intero $k \ge 3$ e una successione $\{a_n\}$ che soddisfa $a_1 = 2k$ e, per ogni $n > k$,
+> $$a_{n+1} = \begin{cases} a_n + 1, & \text{if } a_n \text{ and } n \text{ are coprime,} \\ 2a_n, & \text{otherwise,} \end{cases}$$
+> dimostrare che $a_n$ è un numero primo per infiniti $n$. (Proposto da Zhu Huawei)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmo_2010#q02|src_cn_cmo_2010__Q02]]
 
 
 
@@ -85,9 +101,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio complesso dilimitato sul disco unitario, trovare il coefficiente medio massimo*
+*Polinomio complesso limitato sul disco unitario: trovare il massimo del coefficiente centrale*
 
-> $a$, $b$, $c$ siano numeri complessi in modo tale che $|az^2 + bz + c| \le 1$ per tutti i numeri complessi $z$ con $|z| \le 1$. Trova il valore massimo di $|b|$. (Posizione di Li Weigui)
+> Siano $a$, $b$, $c$ numeri complessi tali che $|az^2 + bz + c| \le 1$ per tutti i numeri complessi $z$ con $|z| \le 1$. Determinare il valore massimo di $|b|$. (Proposto da Li Weigui)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2010#q03|src_cn_cmo_2010__Q03]]
 
 
 
@@ -110,9 +133,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coperire m integri utilizzando un piccolo insieme di T più spostamenti in [-n,n]*
+*Coprire m interi utilizzando un insieme piccolo T più delle traslazioni in [-n,n]*
 
-> Date due integri $m$, $n$ più grandi di 1 e $a_1 < a_2 < \cdots < a_m$, dimostrano che esiste un insieme $T$ di integri con $|T| \le 1 + \dfrac{8n}{m-1}$ tale che ogni $a_i$ possa essere scritto come $a_i = t + s$ per alcuni $t \in T$ e alcuni $s \in \{-n, -n+1, \ldots, n\}$. (Posato da Leng Gangsong)
+> Dati due interi $m$, $n$ maggiori di 1 e un intero $a_1 < a_2 < \cdots < a_m$, dimostrare che esiste un insieme $T$ di interi con $|T| \le 1 + \dfrac{8n}{m-1}$ tale che ciascun $a_i$ può essere scritto come $a_i = t + s$ per qualche $t \in T$ e qualche $s \in \{-n, -n+1, \ldots, n\}$. (Proposto da Leng Gangsong)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2010#q04|src_cn_cmo_2010__Q04]]
 
 
 
@@ -138,9 +168,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le pile di carte in posizioni n+1, due operazioni, dimostrano che n^2+3n+1 carte sono sufficienti*
+*Mucchi di carte nelle posizioni n+1, due operazioni, dimostrare che n^2+3n+1 carte bastano*
 
-> Operamo su pile di carte posizionate alle posizioni $n+1$ $A_1, A_2, \ldots, A_n$ ($n \ge 3$) e $O$. In una operazione, possiamo fare una delle seguenti: (1) Se ci sono almeno tre carte in qualche posizione $A_i$, possiamo prendere tre carte da $A_i$ e posizionare una carta ciascuno a $A_{i-1}$, $A_i$, e $O$ (indici mod $n$, quindi $A_{n+1} = A_1$); (2) Se ci sono almeno $n$ carte a $O$, possiamo prendere $n$ carte da $O$ e posizionare una carta a ciascuno di $A_1, A_2, \ldots, A_n$. Prova che se il numero totale delle carte è almeno $n^2 + 3n + 1$, possiamo eseguire una sequenza di operazioni in modo che ci siano almeno $n+1$ carte in ciascuna delle posizioni $A_1, A_2, \ldots, A_n$. (Posato da Qu Zhenhua)
+> Operiamo su pile di carte collocate nelle posizioni $n+1$ $A_1, A_2, \ldots, A_n$ ($n \ge 3$) e $O$. In un'operazione, possiamo fare una delle due cose seguenti: (1) Se in qualche posizione $A_i$ ci sono almeno tre carte, possiamo prelevare tre carte da $A_i$ e collocare una carta ciascuna in $A_{i-1}$, $A_i$ e $O$ (indici modulo $n$, quindi $A_{n+1} = A_1$); (2) Se in $O$ ci sono almeno $n$ carte, possiamo prelevare $n$ carte da $O$ e collocare una carta in ciascuna delle posizioni $A_1, A_2, \ldots, A_n$. Dimostrare che, se il numero totale di carte è almeno $n^2 + 3n + 1$, possiamo eseguire una qualche sequenza di operazioni tale che in ciascuna delle posizioni $A_1, A_2, \ldots, A_n$ ci siano almeno $n+1$ carte. (Proposto da Qu Zhenhua)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmo_2010#q05|src_cn_cmo_2010__Q05]]
 
 
 
@@ -165,6 +202,15 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sei integri positivi distinti in coppia con condizione di potenza somma, provare il rapporto è intero*
+*Sei interi positivi tutti distinti a coppie con condizione sulla somma delle potenze: dimostrare che il rapporto è un intero*
 
-> Lasciate che $a_1$, $a_2$, $a_3$, $b_1$, $b_2$, $b_3$ siano integri positivi separati in coppia in modo tale che $$(n-1)!\, n!\, (n+1)!\, (2n-1)! \mid \prod_{1 \le i < j \le 3}(a_i - a_j) \cdot \prod_{1 \le i < j \le 3}(b_i - b_j)$$ sia valido per qualche intero positivo $n$. Prova che esiste un intero positivo $r$ tale che $a_1^r + a_2^r + a_3^r = b_1^r + b_2^r + b_3^r$. (Posato da Chen Yonggao)
+> Siano $a_1$, $a_2$, $a_3$, $b_1$, $b_2$, $b_3$ interi positivi due a due distinti tali che
+> $$(n-1)!\, n!\, (n+1)!\, (2n-1)! \mid \prod_{1 \le i < j \le 3}(a_i - a_j) \cdot \prod_{1 \le i < j \le 3}(b_i - b_j)$$
+> vale per qualche intero positivo $n$. Dimostrare che esiste un intero positivo $r$ tale che $a_1^r + a_2^r + a_3^r = b_1^r + b_2^r + b_3^r$. (Proposto da Chen Yonggao)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2010#q06|src_cn_cmo_2010__Q06]]

@@ -34,15 +34,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di marmo; trovare il rapporto p/q in termini di n*
+*Gioco del passaggio della biglia; trova il rapporto p/q in funzione di n*
 
-> Ahmed e Beth hanno rispettivamente $p$ e $q$ marmi, con $p > q$.
-> 
-> A partire da Ahmed, ciascuno a sua volta dà all'altro quanti marmi che l'altro già possiede. Si scopre che dopo tali trasferimenti, Ahmed ha marmi $q$ e Beth ha marmi $p$.
-> 
-> Trova $\dfrac{p}{q}$ in termini di $n$.
+> Ahmed e Beth hanno rispettivamente $p$ e $q$ biglie, con $p > q$.
+>
+> Partendo da Ahmed, ciascuno, a turno, dà all'altro tante biglie quante ne possiede già l'altro. Si riscontra che, dopo $2n$ di tali scambi, Ahmed ha $q$ biglie e Beth ha $p$ biglie.
+>
+> Trova $\dfrac{p}{q}$ in funzione di $n$.
 
-**Risposta:** $2^n$
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2000-01_round2#q01|src_bmo_2000-01_round2__Q01]]
 
 
 
@@ -66,9 +71,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi che soddisfano un'equazione diofantina*
+*Trovare tutte le coppie di interi che soddisfano un'equazione diofantina*
 
-> Trova tutte le coppie di integri $(x, y)$ soddisfacenti $$1 + x^2 y = x^2 + 2xy + y.$$
+> Trovare tutte le coppie di interi $(x, y)$ che soddisfano
+> $$1 + x^2 y = x^2 + 2xy + y.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2000-01_round2#q02|src_bmo_2000-01_round2__Q02]]
 
 
 
@@ -95,13 +108,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bissettore angolare, perpendicolare e angoli uguali in un triangolo*
+*Bisettrice di un angolo, perpendicolare e angoli uguali in un triangolo*
 
-> Un triangolo $ABC$ ha $\angle ACB > \angle ABC$ (cioè\ $AB > AC$).
-> 
-> Il bisettore interno di $\angle BAC$ incontra $BC$ a $D$. Il punto $E$ su $AB$ è tale che $\angle EDB = 90^\circ$. Il punto $F$ su $AC$ è tale che $\angle EDA = \angle FDC$.
-> 
-> Mostra che $\angle BAD = \angle FDC$.
+> Un triangolo $ABC$ ha $\angle ACB > \angle ABC$ (cioè $AB > AC$).
+>
+> La bisettrice interna di $\angle BAC$ incontra $BC$ in $D$. Il punto $E$ su $AB$ è tale che $\angle EDB = 90^\circ$. Il punto $F$ su $AC$ è tale che $\angle EDA = \angle FDC$.
+>
+> Dimostrare che $\angle BAD = \angle FDC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2000-01_round2#q03|src_bmo_2000-01_round2__Q03]]
 
 
 
@@ -126,8 +146,15 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri da 1 a N in un cerchio; trovare il massimo e il minimo della somma delle differenze vicine*
+*I numeri da 1 a N disposti in cerchio; trovare il massimo e il minimo della somma delle differenze tra i numeri vicini*
 
-> I numeri $N$ $1, 2, 3, \ldots, N$ sono disposti in un cerchio. Per ogni coppia di nani vicini viene calcolata la differenza positiva tra i numeri, e la somma di queste differenze $N$ viene chiamata $V$.
-> 
-> Trova (con prova) i valori massimi e minimi possibili di $V$.
+> $N$ i numeri $1, 2, 3, \ldots, N$ sono disposti in cerchio. Per ogni coppia di nani vicini si calcola la differenza positiva tra i numeri, e la somma di queste $N$ differenze è chiamata $V$.
+>
+> Trova (con dimostrazione) i valori massimo e minimo possibili di $V$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2000-01_round2#q04|src_bmo_2000-01_round2__Q04]]

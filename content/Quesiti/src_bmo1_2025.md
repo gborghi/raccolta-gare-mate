@@ -35,15 +35,22 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Classificare i numeri interi felici n nell'intervallo da 3 a 12*
+*Quali interi $n$ fra $3$ e $12$ sono *happy**
 
-> Diciamo che l'intero positivo $n \ge 3$ è *happy* se è possibile organizzare $n$ diversi interi positivi in un cerchio in modo tale che siano soddisfatte due condizioni:
-> 
-> (a) Se gli integri $u$ e $v$ del cerchio sono vicini, allora $u$ divide $v$ o $v$ divide $u$;
-> 
-> (b) Se diversi integri $u$ e $v$ sono nel cerchio ma non sono vicini, nessuno di essi divide l'altro.
-> 
-> Determinare, con la prova, quali integri positivi $n$ nell'intervallo $3 \le n \le 12$ sono soddisfatti.
+> Si dice che l'intero positivo $n \ge 3$ è *happy* se è possibile disporre $n$ interi positivi diversi su una circonferenza in modo che valgano due condizioni:
+>
+> (a) Se gli interi $u$ e $v$ sulla circonferenza sono vicini, allora o $u$ divide $v$ o $v$ divide $u$;
+>
+> (b) Se interi diversi $u$ e $v$ stanno sulla circonferenza ma non sono vicini, allora nessuno dei due divide l'altro.
+>
+> Determinare, con dimostrazione, quali interi positivi $n$ nell'intervallo $3 \le n \le 12$ sono *happy*.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2025#q01|src_bmo1_2025__Q01]]
 
 
 
@@ -68,11 +75,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova n per il quale il trucco magico con il mazzo sommato a 0 funziona*
+*Per quali $n$ la maga può garantire che numero iniziale e finale sommino a $0$*
 
-> Un mago esegue un trucco con un mazzo di carte $n$ numerate da $1$ a $n$. La mago si prepara per il trucco mettendo le carte in un ordine di sua scelta. Poi sfida un membro del pubblico a scrivere un numero intero su una lavagna. Il mago gira le carte una per una, nell'ordine predeterminato. Ogni volta che il mago gira una carta, il membro del pubblico moltiplica il numero della scheda di $-1$, la aggiunge al numero della scheda, scrive il risultato sulla scheda e cancella il vecchio numero. Il mago garantisce che, indipendentemente dal numero intero iniziale scelto, i numeri iniziali e finali si sommano a $0$.
-> 
-> Determina per quali numeri naturali il mago può eseguire il trucco. Dovete entrambi dimostrare che il trucco è possibile per i numeri che richiedete, e dimostrare che non è possibile per altri numeri.
+> Una maga esegue un trucco con un mazzo di $n$ carte numerate da $1$ a $n$. Si prepara mettendo le carte in un ordine di sua scelta. Poi sfida uno spettatore a scrivere un intero su una lavagna. La maga gira le carte una alla volta, nell'ordine predisposto. Ogni volta che gira una carta, lo spettatore moltiplica per $-1$ il numero sulla lavagna, lo somma al numero sulla carta, scrive il risultato sulla lavagna e cancella il numero vecchio. La maga garantisce che, qualunque sia l'intero iniziale, numero iniziale e numero finale sommano a $0$.
+>
+> Determinare per quali numeri naturali $n$ la maga può eseguire il trucco. Bisogna sia dimostrare che il trucco è possibile per i numeri indicati, sia dimostrare che non è possibile per gli altri.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2025#q02|src_bmo1_2025__Q02]]
 
 
 
@@ -97,11 +111,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine la strategia vincente nel gioco di sostituzione del tavolo*
+*Chi ha una strategia vincente partendo da $10^6$*
 
-> Rhian e Jack stanno giocando a un gioco in cui inizialmente il numero $10^6$ è scritto su una lavagna nera. Se il numero corrente sulla scheda è $n$, una mossa consiste nel scegliere due diversi integri positivi $a, b$ come $n = ab$ e sostituire $n$ con $|a - b|$. Rhian inizia, poi i giocatori fanno mosse alternativamente. Un giocatore perde se non riesce a muoversi.
-> 
-> Determina, con la prova, quale giocatore ha una strategia vincente.
+> Rhian e Jack giocano. All'inizio sulla lavagna c'è il numero $10^6$. Se il numero attuale è $n$, una mossa consiste nello scegliere due interi positivi diversi $a, b$ tali che $n = ab$ e nel sostituire $n$ con $|a - b|$. Rhian comincia, poi i giocatori muovono a turno. Perde chi non può muovere.
+>
+> Determinare, con dimostrazione, quale giocatore ha una strategia vincente.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2025#q03|src_bmo1_2025__Q03]]
 
 
 
@@ -126,11 +147,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un angolo di prova CPB = 90 gradi in un triangolo acuto con punto medio*
+*Dimostrare che $\angle CPB = 90^\circ$*
 
-> Nel triangolo a angolo acuto $ABC$ abbiamo $AB < AC < BC$. Il punto medio di $BC$ è $M$. C'è un punto $P$ sul segmento di linea $AM$ tale che $AB = CP$ e $\angle PAB = \angle BCP$.
-> 
-> Prove che $\angle CPB = 90^\circ$.
+> Nel triangolo acutangolo $ABC$ si ha $AB < AC < BC$. Il punto medio di $BC$ è $M$. Esiste un punto $P$ sul segmento $AM$ tale che $AB = CP$ e $\angle PAB = \angle BCP$.
+>
+> Dimostrare che $\angle CPB = 90^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2025#q04|src_bmo1_2025__Q04]]
 
 
 
@@ -155,11 +183,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove almeno uno di (n+1)^p-1 o (n+1)^(p-1)-1 divisibile da p*
+*Almeno uno fra $(n+1)^p - 1$ e $(n+1)^{p-1} - 1$ è divisibile per $p$*
 
-> Che $p$ sia un numero primo, e che $n$ sia il numero intero positivo più piccolo, strettamente superiore a $1$, per il quale $n^p - 1$ è divisibile da $p$.
-> 
-> Provare che almeno uno di $(n+1)^p - 1$ e $(n+1)^{p-1} - 1$ è divisibile per $p$.
+> Sia $p$ un numero primo, e sia $n$ il minimo intero positivo, strettamente maggiore di $1$, per cui $n^p - 1$ è divisibile per $p$.
+>
+> Dimostrare che almeno uno fra $(n+1)^p - 1$ e $(n+1)^{p-1} - 1$ è divisibile per $p$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2025#q05|src_bmo1_2025__Q05]]
 
 
 
@@ -184,8 +219,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che esistono 12 coppie di cubi di zucchero dello stesso sapore a uguale distanza*
+*Dodici zollette dello stesso gusto a distanze uguali a coppie*
 
-> Björk ha 64 cubetti di zucchero, tutti di dimensioni $1 \times 1 \times 1$. Ogni cubo di zucchero ha un sapore bianco, demeraro o muscovado. Accumula i cubetti di zucchero in un cubo pulito.
-> 
-> Provare che devono esserci 12 cubetti di zucchero dello stesso sapore che possono essere messi in 6 coppie disgiunte in modo che la distanza tra i centri dei cubetti in ciascuna coppia sia uguale.
+> Björk ha 64 zollette di zucchero, tutte di dimensioni $1 \times 1 \times 1$. Ciascuna è di gusto bianco, oppure demerara, oppure muscovado. Impila le zollette in un cubo ordinato $4 \times 4 \times 4$.
+>
+> Dimostrare che devono esserci 12 zollette dello stesso gusto che si possono mettere in 6 coppie disgiunte in modo che la distanza fra i centri delle zollette di ciascuna coppia sia la stessa.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2025#q06|src_bmo1_2025__Q06]]

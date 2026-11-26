@@ -32,13 +32,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prodotto di punti di PA e PB per il punto sulla curva con piedi perpendicolari*
+*Prodotto scalare di PA e PB per un punto sulla curva con proiezioni ortogonali*
 
-> $P$ sia un punto sull'immagine di $y = x + \dfrac{2}{x}$ ($x > 0$). Attraverso $P$ tracciare linee perpendicolari agli assi $y = x$ e $y$ con punti di piede $A$ e $B$, rispettivamente. Quindi il valore di $\overrightarrow{PA} \cdot \overrightarrow{PB}$ è \underline{\hspace{2cm}}.
+> Sia $P$ un punto sull'immagine di $y = x + \dfrac{2}{x}$ ($x > 0$). Passando per $P$, si traccino le rette perpendicolari a $y = x$ e all'asse $y$, con piedi rispettivamente in $A$ e $B$. Allora il valore di $\overrightarrow{PA} \cdot \overrightarrow{PB}$ è \underline{\hspace{2cm}}.
 
 ![[src_cn_cmc_b11_w42__q01.png]]
 
-**Risposta:** $-1$
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2012#q01|src_cn_cmc_2012__Q01]]
 
 
 
@@ -61,9 +66,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il colore A/tan B dato un rapporto angolare laterale in un triangolo*
+*Trovare tan A / tan B data una relazione tra un lato e un angolo in un triangolo*
 
-> Supponiamo che $\triangle ABC$ con gli angoli $A$, $B$ e $C$, e i lati corrispondenti $a$, $b$ e $c$ soddisfi l'equazione $a \cos B - b \cos A = \dfrac{3}{5}c$. Quindi il valore di $\dfrac{\tan A}{\tan B}$ è \underline{\hspace{2cm}}.
+> Supponiamo che $\triangle ABC$, con angoli $A$, $B$ e $C$, e i lati corrispondenti $a$, $b$ e $c$, soddisfi l'equazione $a \cos B - b \cos A = \dfrac{3}{5}c$. Allora il valore di $\dfrac{\tan A}{\tan B}$ è \underline{\hspace{2cm}}.
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2012#q02|src_cn_cmc_2012__Q02]]
 
 
 
@@ -89,9 +101,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza che soddisfa la somma quadrata è uguale all'identità della somma dei cubi*
+*Successione che soddisfa l'identità tra la somma dei quadrati e la somma dei cubi*
 
-> (37 punti) È noto che ogni termine della sequenza $\{a_n\}$ è un numero reale non zero, e per qualsiasi intero positivo $n$ detiene l'equazione $$(a_1 + a_2 + \cdots + a_n)^2 = a_1^3 + a_2^3 + \cdots + a_n^3.$$ (1) Quando $n = 3$, trovare tutte le sequenze costituite da tre termini. (2) Esiste una sequenza infinita $\{a_n\}$ tale che $a_{2013} = -2012$? Se sì, indicate la formula del termine generale; se no, indicate la ragione.
+> (37 punti) È noto che ogni termine della successione $\{a_n\}$ è un numero reale diverso da zero, e per ogni intero positivo $n$ vale l'equazione
+> $$(a_1 + a_2 + \cdots + a_n)^2 = a_1^3 + a_2^3 + \cdots + a_n^3.$$
+> (1) Quando $n = 3$, trova tutte le successioni composte da tre termini. (2) Esiste una successione infinita $\{a_n\}$ tale che $a_{2013} = -2012$? In caso affermativo, fornisci la formula del termine generale; in caso negativo, fornisci la tua motivazione.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc_2012#q10|src_cn_cmc_2012__Q10]]
 
 
 
@@ -118,11 +139,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rhombus in sistema di coordinate; costante OA·OC del prodotto e traccia di C*
+*Rombo nel sistema di coordinate; prodotto OA·OC costante e traccia di C*
 
-> (20 punti) Come illustrato nella figura. 11.1, nel sistema di coordinate rettangolare $XOY$, il lato del rombo $ABCD$ è 4, e $|OB| = |OD| = 6$. (1) Provare che $|OA| \cdot |OC|$ è una costante. (2) Quando il punto $A$ si muove sul mezzo cerchio $(x - 2)^2 + y^2 = 4$ ($2 \le x \le 4$), trova la traccia di $C$.
+> (20 punti) Come si vede nella Fig. 11.1, nel sistema di coordinate cartesiane $XOY$, il lato del rombo $ABCD$ è 4, e $|OB| = |OD| = 6$. (1) Dimostrare che $|OA| \cdot |OC|$ è una costante. (2) Quando il punto $A$ si muove sull'emicerchio $(x - 2)^2 + y^2 = 4$ ($2 \le x \le 4$), determina la traccia di $C$.
 
 ![[src_cn_cmc_b11_w58__q11.png]]
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2012#q11|src_cn_cmc_2012__Q11]]
 
 
 
@@ -146,11 +174,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Construzioni di punti di elipso: trovare relazione tra QR e b*
+*Costruzioni dei punti dell'ellisse: trovare la relazione tra QR e b*
 
-> (20 punti) Se si considera che l'equazione di ellisse $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$ ($a > b > 0$) in un sistema di coordinate rettangolare piano $xOy$, $A_1$, $A_2$ siano i suoi punti di fine sinistra e destra, $F_1$, $F_2$ siano i suoi foci sinistra e destra e $P$ sia qualsiasi punto dell'ellisse diverso da $A_1$, $A_2$. Supponiamo che ci siano punti $Q$, $R$ che soddisfano $\overrightarrow{A_1 Q} = \overrightarrow{P A_1}$, $\overrightarrow{Q A_2} = \overrightarrow{A_2 P}$, $\overrightarrow{P A_1} = \overrightarrow{R F_1}$, $\overrightarrow{P F_2} = \overrightarrow{F_2 R}$. Trova e prova la relazione tra la lunghezza del segmento $QR$ e $b$.
+> (20 punti) Dato l'equazione di un'ellisse $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$ ($a > b > 0$) in un sistema di coordinate cartesiane nel piano $xOy$, siano $A_1$, $A_2$ i suoi estremi sinistro e destro, $F_1$, $F_2$ i suoi fuochi sinistro e destro, e $P$ un punto qualsiasi sull'ellisse diverso da $A_1$, $A_2$. Si supponga che esistano i punti $Q$, $R$ tali che $\overrightarrow{A_1 Q} = \overrightarrow{P A_1}$, $\overrightarrow{Q A_2} = \overrightarrow{A_2 P}$, $\overrightarrow{P A_1} = \overrightarrow{R F_1}$, $\overrightarrow{P F_2} = \overrightarrow{F_2 R}$. Determinare e dimostrare la relazione tra la lunghezza del segmento $QR$ e $b$.
 
-**Risposta:** $QR = b$
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2012#q20|src_cn_cmc_2012__Q20]]
 
 
 
@@ -174,8 +207,13 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le coppie (a,b) così f(f(x))>=f(x) per tutte le x reali*
+*Trovare tutte le coppie (a,b) tali che f(f(x)) >= f(x) per ogni x reale*
 
-> (20 punti) Trovare tutte le coppie di numeri reali $(a, b)$, in modo che $f(x) = ax^2 + b$ soddisfi $f(f(x)) \ge f(x)$ per qualsiasi numero reale $x$.
+> (20 punti) Trova tutte le coppie di numeri reali $(a, b)$ tali che $f(x) = ax^2 + b$ soddisfi $f(f(x)) \ge f(x)$ per ogni numero reale $x$.
 
-**Risposta:** $\{(a,b) \mid 0 < b \le 1,\; 0 < a < 1,\; 2a + b \le 2\}$
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2012#q21|src_cn_cmc_2012__Q21]]

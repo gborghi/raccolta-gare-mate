@@ -31,11 +31,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le carte necessarie per costruire una casa di carte a 5 livelli dato i livelli 1,2,3 utilizzare 2,7,15 carte*
+*Carte necessarie per costruire un castello di carte a 5 livelli, sapendo che i livelli 1, 2 e 3 richiedono rispettivamente 2, 7 e 15 carte*
 
-> La figura accanto mostra le case di carte di livello $1$, $2$ e $3$. Per costruire queste case di carte sono state utilizzate rispettivamente le carte $2$, $7$ e $15$. Quante carte saranno necessarie per costruire una casa di carte di $5$ livelli?
+> La figura accanto mostra case di carte a $1$, $2$ e $3$ livelli. Per costruire queste case di carte, sono state utilizzate rispettivamente $2$, $7$ e $15$ carte. Quante carte saranno necessarie per costruire una casa di carte a $5$ livelli?
 
 ![[src_obm_2009_n1_f2__q01.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n1_f2#q01|src_obm_2009_n1_f2__Q01]]
 
 
 
@@ -57,9 +64,14 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*6° grado: di ogni 11 studenti 4 sono ragazze e ci sono 15 maschi in più di ragazze; studenti totali*
+*In una classe di sesta, su ogni 11 studenti 4 sono ragazze e ci sono 15 maschi in più delle ragazze; totale degli studenti*
 
-> In una classe di seconda elementare, di tutti gli studenti di seconda elementare, $4$ sono ragazze. Ci sono più ragazzi che ragazze. Quanti studenti ci sono in questa classe?
+> In una classe di $6$ª, su ogni $11$ studenti $4$ sono ragazze. Ci sono $15$ maschi in più delle ragazze. Quanti studenti ci sono in questa classe?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+[[Quesiti/src_obm_2009_n1_f2#q02|src_obm_2009_n1_f2__Q02]]
 
 
 
@@ -88,15 +100,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Da una tabella delle presenze di 5 giorni in cui ogni studente è stato assente esattamente 2 giorni, trovare quale percentuale delle assenze totali è avvenuta nel giorno con meno presenti*
+*Partendo da una tabella delle presenze su 5 giorni, in cui ogni studente ha saltato esattamente 2 giorni, determina quale percentuale del totale delle assenze è caduta nel giorno con la minore affluenza*
 
-> In un corso di cinque giorni, le presenze degli studenti sono state registrate nella tabella seguente:
-> 
-> | Giorno di lezione | 1º giorno | 2º giorno | 3º giorno | 4º giorno | 5º giorno |
+> In un corso della durata di cinque giorni, la presenza degli studenti è stata registrata nella tabella sottostante:
+>
+> | Day of class | 1st day | 2nd day | 3rd day | 4th day | 5th day |
 > |---|---|---|---|---|---|
-> | Numero di studenti presenti | $271$ | $296$ | $325$ | $380$ | $168$ |
-> 
-> Ogni studente era assente esattamente due giorni. Nel giorno con meno presenti, quale percentuale del totale delle assenze [si è verificata quel giorno]?
+> | Number of students present | $271$ | $296$ | $325$ | $380$ | $168$ |
+>
+> Ogni studente è stato assente esattamente due giorni. Nel giorno con la più bassa presenza, quale percentuale del totale delle assenze si è verificata in quel giorno?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n1_f2#q03|src_obm_2009_n1_f2__Q03]]
 
 
 
@@ -121,11 +140,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coperta un tavolo di 88 cm x 95 cm con fogli quadrati di 10 cm; trova la superficie coperta da quattro fogli sovrapposti*
+*Copri un tavolo di 88 cm x 95 cm con fogli quadrati di 10 cm di lato; determina l'area coperta da quattro fogli sovrapposti*
 
-> Mariazinha vuole coprire la parte superiore di una tavola rettangolare di $88$ cm di $95$ cm con fogli quadrati di cartone di lato $10$ cm, partendo da un angolo, come mostrato nella figura. I fogli sono tagliati a partire da un rollo di $10$ cm di larghezza e collocati in file, senza superposizioni, fino a raggiungere i confini. Poiché i fogli non devono superare i bordi, sono piegati sopra i confini, formando regioni rettangolari con due spessori di fogli (regione grigia) e una regione rettangolare con quattro spessori di fogli (regione grigia scura). Qual è l'area della regione coperta da quattro fogli?
+> Mariazinha vuole coprire la superficie superiore di un tavolo rettangolare dalle dimensioni di $88$ cm per $95$ cm con fogli quadrati di cartoncino di lato $10$ cm, partendo da un angolo, come mostrato nella figura. I fogli vengono tagliati da un rotolo largo $10$ cm e disposti in file, senza sovrapposizioni, fino a raggiungere i bordi. Poiché i fogli non devono superare i bordi, vengono piegati oltre i bordi, formando regioni rettangolari con due spessori di fogli (regione grigia) e una regione rettangolare con quattro spessori di fogli (regione grigio scuro). Qual è l'area della regione coperta da quattro fogli?
 
 ![[src_obm_2009_n1_f2__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n1_f2#q04|src_obm_2009_n1_f2__Q04]]
 
 
 
@@ -148,9 +174,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel numero di cifre 2008 200920092009...2009, cancellare il minor numero di cifre in modo che la somma di cifre rimanente sia 2008*
+*Nel numero di 2008 cifre 200920092009...2009, cancella il minor numero possibile di cifre affinché la somma delle cifre rimanenti sia 2008*
 
-> Il numero $200920092009\ldots 2009$ ha i numeri $2008$. Qual è la quantità più piccola di cifre da cancellare, in modo che la somma delle cifre rimanenti sia $2008$?
+> Il numero $200920092009\ldots 2009$ ha $2008$ cifre. Qual è il numero minimo di cifre che devono essere cancellate affinché la somma delle cifre rimanenti sia $2008$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n1_f2#q05|src_obm_2009_n1_f2__Q05]]
 
 
 
@@ -173,9 +206,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Famiglia di numeri che condividono tutti almeno una cifra comune; trovare il maggior numero possibile di membri*
+*Famiglia di numeri che hanno tutti almeno una cifra in comune; trova il numero massimo possibile di membri*
 
-> Diciamo che due o più numeri appartengono alla stessa famiglia quando tutti hanno almeno una cifra in comune. Ad esempio, i numeri $72$, $32$, $25$ e $22$ appartengono alla stessa famiglia, poiché tutti possiedono la cifra $2$, mentre i numeri $123$, $245$ e $568$ non appartengono alla stessa famiglia, poiché non esiste una cifra che compare in tutti e tre questi numeri. Determinare il maggior numero di membri di una famiglia i cui elementi hanno almeno una cifra in comune.
+> Diciamo che due o più numeri appartengono alla stessa famiglia quando tutti possiedono almeno una cifra in comune. Ad esempio, i numeri $72$, $32$, $25$ e $22$ appartengono alla stessa famiglia, poiché tutti possiedono la cifra $2$, mentre i numeri $123$, $245$ e $568$ non appartengono alla stessa famiglia, dato che non esiste alcuna cifra presente in tutti e tre questi numeri. Determinare la quantità massima di membri di una famiglia i cui elementi abbiano almeno una cifra in comune.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n1_f2#q06|src_obm_2009_n1_f2__Q06]]
 
 
 
@@ -204,15 +244,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Figure costruite a partire da triangoli rettangolari con gambe 6,8,10 colgendo lati uguali; confrontare i perimetri e massimizzare con tre triangoli*
+*Figure costruite a partire da triangoli rettangoli con i cateti 6, 8, 10, incollando i lati uguali; confronta i perimetri e massimizza con tre triangoli*
 
-> Carlinhos realizza figure di carta a forma di triangoli rettangolari con lati $6$ cm, $8$ cm e $10$ cm. In ogni triangolo, l'angolo segnato con $\circ$ è il più piccolo. Facendo coincidere i lati uguali di questi triangoli su un foglio, senza sovrapposizioni, disegna il contorno di ogni figura ottenuta (linea spessa), come negli esempi accanto. Il perimetro di una figura è la lunghezza del suo contorno.
-> 
-> a) Qual è la differenza tra i perimetri delle cifre $1$ e $2$ dell'esempio?
-> 
-> b) Con le cifre di tre triangoli, quale è il perimetro più grande che si può ottenere?
+> Carlinhos realizza figure di carta a forma di triangoli rettangoli con lati di $6$ cm, $8$ cm e $10$ cm. In ciascun triangolo, l'angolo contrassegnato con $\circ$ è il più piccolo. Facendo coincidere i lati uguali di questi triangoli su un foglio, senza sovrapposizioni, traccia il contorno di ciascuna figura ottenuta (linea spessa), come negli esempi accanto. Il perimetro di una figura è la lunghezza del suo contorno.
+>
+> a) Qual è la differenza tra i perimetri delle figure $1$ e $2$ dell'esempio?
+>
+> b) Con figure composte da tre triangoli, qual è il perimetro massimo che si può ottenere?
 
 ![[src_obm_2009_n1_f2__q07.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n1_f2#q07|src_obm_2009_n1_f2__Q07]]
 
 
 
@@ -239,13 +286,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A a tre cifre x B a due cifre; invertendo le cifre di B si ottiene un risultato 2034 più grande; trovare A quando le cifre di B sono consecutive / non consecutive*
+*A, numero di tre cifre, per B, numero di due cifre; invertendo le cifre di B si ottiene un risultato maggiore di 2034; trovare A quando le cifre di B sono consecutive / non consecutive*
 
-> Esmeralda stava per moltiplicare un numero $A$ di tre cifre con un altro numero $B$ di due cifre, ma al momento della moltiplicazione ha invertito l'ordine dei numeri di $B$ e ottenuto un risultato $2034$ unità più grandi.
-> 
-> a) Qual era il numero $A$, se i numeri di $B$ erano consecutivi?
-> 
-> b) Qual sarebbe il numero $A$ se i numeri di $B$ non fossero consecutivi?
+> Esmeralda stava per moltiplicare un numero $A$ di tre cifre per un altro numero $B$ di due cifre, ma al momento della moltiplicazione invertì l'ordine delle cifre di $B$ e ottenne un risultato maggiore di $2034$ unità.
+>
+> a) Qual era il numero $A$, se le cifre di $B$ erano consecutive?
+>
+> b) Quale sarebbe il numero $A$, se le cifre di $B$ non fossero consecutive?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n1_f2#q08|src_obm_2009_n1_f2__Q08]]
 
 
 
@@ -272,10 +326,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*scacchi: 7 round, 4 games/round, 8 giocatori; dopo il round 3, può esserci un gruppo al primo posto con il resto al secondo posto e tutti i punteggi possono differire*
+*Scacchi: 7 turni, 4 partite per turno, 8 giocatori; dopo il terzo turno, può esserci un gruppo a pari merito in prima posizione, mentre il resto è a pari merito in seconda, e tutti i punteggi possono essere diversi?*
 
-> Un campionato di scacchi ha round $7$, con partite $4$ per round, $8$ partecipanti, i cui punteggi per gioco sono come al solito: un punto per una vittoria, mezzo punto per un pareggio e nessun punto per una sconfitta. Ogni coppia di giocatori si affronta esattamente una volta.
-> 
-> a) Al termine del terzo round, è possibile che un gruppo di giocatori si trovi al primo posto e i giocatori rimanenti al secondo? Spiegate con un esempio.
-> 
-> b) Al termine del terzo round, è possibile che tutti i giocatori abbiano punteggi diversi? Spiegami.
+> Un campionato di scacchi prevede $7$ turni, con $4$ partite per turno e $8$ partecipanti; i punteggi per partita sono quelli consueti: un punto per la vittoria, mezzo punto per la patta e nessun punto per la sconfitta. Ogni coppia di giocatori si affronta esattamente una volta.
+>
+> a) Al termine del terzo turno, è possibile che un gruppo di giocatori occupi il primo posto e che i restanti giocatori occupino il secondo posto? Spiega mediante un esempio.
+>
+> b) Alla fine del terzo round, è possibile che tutti i giocatori abbiano punteggi diversi? Spiega.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n1_f2#q09|src_obm_2009_n1_f2__Q09]]

@@ -31,9 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Relazione numerica a tre cifre n/f(n) in cui f somma cifre, prodotti in coppia, prodotto completo*
+*Il valore di $n/f(n)$ quando $n = 625$, e tutti i numeri di tre cifre con rapporto $1$*
 
-> A partire da qualsiasi numero a tre cifre $n$ (come $n = 625$) otteniamo un nuovo numero $f(n)$ che equivale alla somma delle tre cifre di $n$, dei loro tre prodotti in coppia e del prodotto di tutte e tre le cifre. (i) Trova il valore di $n/f(n)$ quando $n = 625$. (La risposta è un numero intero!) (ii) Trova tutti e tre i numeri a tre cifre in modo che il rapporto $n/f(n) = 1$.
+> Partendo da un numero qualunque di tre cifre $n$ (come $n = 625$) si ottiene un nuovo numero $f(n)$ uguale alla somma delle tre cifre di $n$, dei loro tre prodotti a due a due, e del prodotto di tutte e tre le cifre.
+> (i) Trovare il valore di $n/f(n)$ quando $n = 625$. (La risposta è un intero!)
+> (ii) Trovare tutti i numeri di tre cifre tali che il rapporto $n/f(n) = 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1993-94_round1#q01|src_bmo_1993-94_round1__Q01]]
 
 
 
@@ -58,9 +67,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare il triangolo ACX con un'angolazione data e le condizioni di punto medio/trisezione*
+*Che cosa si può dire del triangolo $ACX$ nei due casi*
 
-> Nel triangolo $ABC$ il punto $X$ si trova su $BC$. (i) Supponiamo che $\angle BAC = 90^\circ$, che $X$ sia il punto medio di $BC$, e che $\angle BAX$ sia un terzo di $\angle BAC$. Cosa puoi dire (e dimostrare!) sul triangolo $ACX$? (ii) Supponiamo che $\angle BAC = 60^\circ$, che $X$ sia un terzo del percorso da $B$ a $C$, e che $AX$ dividi $\angle BAC$. Cosa puoi dire (e dimostrare!) sul triangolo $ACX$?
+> Nel triangolo $ABC$ il punto $X$ sta su $BC$.
+> (i) Si supponga che $\angle BAC = 90^\circ$, che $X$ sia il punto medio di $BC$, e che $\angle BAX$ sia un terzo di $\angle BAC$. Che cosa si può dire (e dimostrare!) del triangolo $ACX$?
+> (ii) Si supponga che $\angle BAC = 60^\circ$, che $X$ stia a un terzo del cammino da $B$ a $C$, e che $AX$ bisecchi $\angle BAC$. Che cosa si può dire (e dimostrare!) del triangolo $ACX$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1993-94_round1#q02|src_bmo_1993-94_round1__Q02]]
 
 
 
@@ -85,9 +103,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricorrenza integrale u_{n+1}u_{n-1}=k u_n; trovare tutti i k dati u_2000=2000*
+*Tutti i valori possibili di $k$ se $u_{2000} = 2000$*
 
-> La sequenza di interi $u_0, u_1, u_2, u_3, \ldots$ soddisfa $u_0 = 1$ e $$u_{n+1}u_{n-1} = ku_n \quad \text{for each} \quad n \ge 1,$$ dove $k$ è un intero positivo fisso. Se $u_{2000} = 2000$, determinare tutti i possibili valori di $k$.
+> La successione di interi $u_0, u_1, u_2, u_3, \ldots$ soddisfa $u_0 = 1$ e
+> $$u_{n+1}u_{n-1} = ku_n \quad \text{for each} \quad n \ge 1,$$
+> dove $k$ è un intero positivo fissato. Se $u_{2000} = 2000$, determinare tutti i valori possibili di $k$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1993-94_round1#q03|src_bmo_1993-94_round1__Q03]]
 
 
 
@@ -110,9 +137,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Configurazione di circolo tangente e di circolo circoncircolare; prova che l'angolo PAR è uguale all'angolo ABC*
+*Dimostrare che $\angle PAR = \angle ABC$*
 
-> I punti $Q, R$ si trovano sul cerchio $\gamma$, e $P$ è un punto tale che $PQ, PR$ siano tangenti a $\gamma$. $A$ è un punto sull'estensione di $PQ$, e $\gamma'$ è il circoncircolo del triangolo $PAR$. Il cerchio $\gamma'$ taglia di nuovo $\gamma$ al punto $B$ e $AR$ taglia $\gamma$ al punto $C$. Prove che $\angle PAR = \angle ABC$.
+> I punti $Q, R$ stanno sulla circonferenza $\gamma$, e $P$ è un punto tale che $PQ, PR$ siano tangenti a $\gamma$. $A$ è un punto sul prolungamento di $PQ$, e $\gamma'$ è la circonferenza circoscritta al triangolo $PAR$. La circonferenza $\gamma'$ seca di nuovo $\gamma$ in $B$, e $AR$ seca $\gamma$ nel punto $C$. Dimostrare che $\angle PAR = \angle ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1993-94_round1#q04|src_bmo_1993-94_round1__Q04]]
 
 
 
@@ -135,6 +169,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le sequenze in aumento alternate da {1,...,n}; trovare A(20)*
+*Conta le sequenze crescenti alternate in {1,...,n}; trova A(20)*
 
-> Una sequenza di numeri interi $increasing$ si dice essere \textbf{alternating} se $starts$ con un termine $odd$, il secondo termine è pari, il terzo termine è impar, il quarto è pari, e così via. La sequenza vuota (senza termine affatto!) è considerata alternante. $A(n)$ indichi il numero di sequenze alternative che coinvolgono solo gli integri del set $\{1, 2, \ldots, n\}$. Indicare che $A(1) = 2$ e $A(2) = 3$. Trova il valore di $A(20)$ e prova che il tuo valore è corretto.
+> Una successione $increasing$ di interi si dice \textbf{alternante} se $starts$ con un termine $odd$, il secondo termine è pari, il terzo termine è dispari, il quarto è pari, e così via. La successione vuota (senza alcun termine!) è considerata alternante. Sia $A(n)$ il numero di successioni alternanti che coinvolgono soltanto interi appartenenti all'insieme $\{1, 2, \ldots, n\}$. Dimostrare che $A(1) = 2$ e $A(2) = 3$. Trovare il valore di $A(20)$ e dimostrare che il tuo valore è corretto.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_1993-94_round1#q05|src_bmo_1993-94_round1__Q05]]

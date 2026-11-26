@@ -30,11 +30,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of 5 children with sum equal to product*
+*Ages of 5 children, with the sum equal to the product*
 
-> There are 5 children in our family (not all twins). All of them were born on 1 January 2008 and, as of 1 January 2008, the sum of their ages is equal to their product. How old are the five children in our family?
+> In our family, there are 5 children (and not all of them are twins). Since there was only one twin or multiple-birth delivery, they were all born on January 1st, and as of January 1, 2008, the sum of their ages equals their product. What are the ages of the 5 children in our family?
 
-**Answer:** The children's ages are: 1; 1; 1; 2; 5
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2008#q01|src_bocconi_squadre_2008__Q01]]
 
 
 
@@ -60,13 +65,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Count triangles in Figure*
+*Count the triangles in the figure*
 
 > How many triangles do you see in the figure?
 
 ![[src_bocconi_squadre_2008__q02.png]]
 
-**Answer:** 21 triangles
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2008#q02|src_bocconi_squadre_2008__Q02]]
 
 
 
@@ -92,9 +102,14 @@ level: Gara a Squadre
 
 *Maximum number after deletions from list 1-1920*
 
-> Write the whole numbers from 1 to 20 one after another: 123...101112...1920. At this point, from the previous list, 20 digits are deleted. What's the largest number you can have left?
+> Write the whole numbers from 1 to 20 one after another: 1 2 3...10 11 12...19 20. Now, from the previous list, delete twenty digits. What is the largest number that can remain?
 
-**Answer:** 95617181920
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2008#q03|src_bocconi_squadre_2008__Q03]]
 
 
 
@@ -118,11 +133,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum natural number whose square ends in 2001*
+*The smallest natural number whose square ends in 2001*
 
-> What's the smallest natural number whose square ends in 2001?
+> What is the smallest natural number whose square ends in the digits 2001?
 
-**Answer:** 249
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2008#q04|src_bocconi_squadre_2008__Q04]]
 
 
 
@@ -149,11 +169,19 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Insert numbers 19 in the grid with operations given*
+*Insert numbers 1–9 into the grid with given operations*
 
-> Replace the digits 1 to 9 (use once and only) instead of the dots. $$\bullet\bullet\bullet + \bullet\bullet\bullet = \bullet\bullet\bullet$$ $$\bullet\bullet\bullet + \bullet\bullet\bullet = \bullet\bullet\bullet$$ $$\bullet\bullet\bullet + \bullet\bullet\bullet = \bullet\bullet\bullet$$
+> Replace the dots with the digits from 1 to 9 (use each digit exactly once).
+> $$\bullet\bullet\bullet + \bullet\bullet\bullet = \bullet\bullet\bullet$$
+> $$\bullet\bullet\bullet + \bullet\bullet\bullet = \bullet\bullet\bullet$$
+> $$\bullet\bullet\bullet + \bullet\bullet\bullet = \bullet\bullet\bullet$$
 
-**Answer:** 1 + 7 = 8; 5 + 4 = 9; 6 : 3 = 2 (see the solution grid)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2008#q05|src_bocconi_squadre_2008__Q05]]
 
 
 
@@ -177,11 +205,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes walking from the mega-director*
+*Minutes walked by the mega-executive*
 
-> It happened on a Monday last winter. Every morning, the company's driver left the offices to pick up the mega-director at 8 a.m. in his villa outside the city and take him to his mega-office (where he arrived, with timing, always at the same time). That Monday, the mega-manager didn't see his driver coming. Forgetting that during the weekend the legal time had been abolished and wishing to exceed it, at exactly 8 o'clock he sets out on foot on his motorcycle heading to the office. The driver (who had left at the usual time and was moving at the same speed) meets him along the route, takes him up, immediately returns and "deposits" his precious mega-director 8 minutes earlier than usual. How many minutes did the mega-director walk before he was picked up by his driver?
+> It happened on a Monday last winter. Every morning, the company driver would set off from the offices to pick up the top executive at 8 o'clock sharp at his villa outside the city and take him to his mega-office (where he would arrive, with clockwork punctuality, at the same time every time). That Monday, the top executive didn't see his driver arrive. Having forgotten that daylight saving time had been abolished over the weekend and wanting to outdo himself, at exactly 8 o'clock he set off on foot toward the office. The driver (who had set off at the usual time and was traveling at the same speed) met him along the way, had him get in, immediately turned back, and "dropped off" his precious top executive 8 minutes earlier than usual. How many minutes did the top executive walk before his driver "picked him up"?
 
-**Answer:** 56 minutes
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Working backwards]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2008#q06|src_bocconi_squadre_2008__Q06]]
 
 
 
@@ -207,13 +240,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the square of the difference of areas*
+*Value of the square of the difference of the areas*
 
-> Starting from the rectangle of the figure of dimensions $A$ and $B$, three circumferences  all centered at one of its vertices  passing through another of the vertices of the rectangle respectively have been drawn. What is the square of the difference between the areas of the two darkest regions?
+> Starting from the rectangle in the figure, which has dimensions $A$ and $B$, three circles have been drawn—all centered at one of its vertices—and each passes through another of the rectangle's vertices. What is the square of the difference between the areas of the two darkest regions?
 
 ![[src_bocconi_squadre_2008__q07.png]]
 
-**Answer:** 0
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2008#q07|src_bocconi_squadre_2008__Q07]]
 
 
 
@@ -245,11 +283,24 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True ratio between A, B, C, D alternate logical data*
+*True proposition among A, B, C, D, given alternative logic*
 
-> Renato makes three peremptory statements: 1) of the three propositions A, B, C, only one is true; 2) of B, C, D only one is true; 3) of A, D only one is true. His friend Amerigo rebukes him alternately saying: 1) of A, B, C only one proposition is true; 2) of B, C, D only one proposition is true; 3) of A, C, D only one proposition is true. Keep in mind that one of the two friends lies once, while the other always tells the truth. What is (or are) between A, B, C, D the true propositions?
+> Renato makes three peremptory assertions:
+> 1) Of the three propositions A, B, C, only one is true;
+> 2) Of B, C, D, only one proposition is true;
+> 3) Of A, D, only one is true.
+> His friend Amerigo counters him alternately, saying:
+> 1) Of A, B, C, only one proposition is true;
+> 2) Of B, C, D, only one proposition is true;
+> 3) Of A, C, D, only one proposition is true.
+> Keep in mind that one of the two friends lies once, while the other always tells the truth. Which proposition(s)—among A, B, C, D—is/are true?
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2008#q08|src_bocconi_squadre_2008__Q08]]
 
 
 
@@ -273,11 +324,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Decimal figures of the 2007th/2008.th 2009.th*
+*Decimal digits of the quotient 2007th/2008th/2009th*
 
-> Divide 1 by 2008. What (in order) is the $2007$-exis, $2008$-exis and $2009$-exis after the comma of the quotient thus obtained?
+> Divide 1 by 2008. What are, in order, the $2007$-th, the $2008$-th, and the $2009$-th digits after the decimal point in the quotient thus obtained?
 
-**Answer:** 0, 0, 7
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2008#q09|src_bocconi_squadre_2008__Q09]]
 
 
 
@@ -301,11 +357,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible day of Desiderio's birthday*
+*Possible birthday of Desiderio*
 
-> Desiderio is Italian and, to indicate a day of the year, writes first the date of the day and then the month (for example, writes 03.01 to indicate January 3). His English friend, Jacob, is instead accustomed to writing first the month and then the day (for him, 03.01 means $1^\circ$ March). For this reason, a real mess has happened. On 7 January 2007, Desiderio had given Jacob an appointment for a certain day of the first half of the year (written "in Italian"). Jacob read it "in English" and the two didn't meet. What (possible) day (s) did Desiderio write, because the difference with how much "capita" from Jacob is the maximum possible (but less than half a year)?
+> Desiderio is Italian, and to indicate a day of the year, he writes the day's date first and then the month (for example, he writes 03.01 to indicate January 3). His English friend, Jacob, on the other hand, is used to writing the month first and then the day (for him, 03.01 means 1st March). For these reasons, a proper mess occurred. On January 7, 2007, Desiderio had arranged to meet Jacob on a certain day in the first half of the year (written "in the Italian style"). Jacob read it "in the English style," and the two did not meet. Which day did Desiderio write, so that the difference from what Jacob "understood" is as large as possible (but less than half a year)?
 
-**Answer:** 9/3 e 11/5
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2008#q10|src_bocconi_squadre_2008__Q10]]
 
 
 
@@ -331,9 +392,14 @@ level: Gara a Squadre
 
 *Distance traveled by Nando to reach Luca*
 
-> That's the case with Nando. When Luke cuts the 100-meter mark, Nando has only walked 95. If now Luca gives Nando a certain edge and makes him go four meters. before him, after how many meters will he reach him (assuming of course that the two athletes are running at a constant speed, the same as before)?
+> Here is Nando's case. When Luca crosses the finish line of the 100-meter race, Nando has covered only 95 meters. If Luca now gives Nando a certain head start and has him start 4 m ahead of himself, after how many meters will he catch up with Nando (assuming, of course, that both athletes run at a constant speed—the same as before)?
 
-**Answer:** 80 meters
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2008#q11|src_bocconi_squadre_2008__Q11]]
 
 
 
@@ -357,11 +423,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seconds after which the ball thrown upwards is at 20 m*
+*Seconds after which the ball, thrown upward, is at a height of 20 m*
 
-> From the ground, a ball is thrown vertically upwards at a speed of 25 m/s. Assuming nothing of the air resistance and $g = 10$ m/s$^2$, after how many seconds will the ball be at a height of 20 m from the ground?
+> From the ground, a ball is thrown vertically upward with a speed of 25 m/s. Assuming air resistance is negligible and $g = 10$ m/s$^2$, after how many seconds will the ball be 20 m above the ground?
 
-**Answer:** 1 and 4 seconds
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2008#q12|src_bocconi_squadre_2008__Q12]]
 
 
 
@@ -386,11 +457,17 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number value of the word EXTRA from schema*
+*Numerical value of the word EXTRA from the schema*
 
-> In this sum, each letter represents a number and different letters represent different numbers. We also know that $R$ $M$ $Z$ $A$ indicates a multiple of 23. What number indicates the word $E$ $X$ $T$ $R$ $A$? $$\begin{array}{cccccc} & R & M & Z & A & \\ + & & & & & \\ E & X & T & R & A & \end{array}$$
+> In this addition, each letter represents a digit, and different letters represent different digits. We also know that $R$ $M$ $Z$ $A$ denotes a multiple of 23. Which number does the word $E$ $X$ $T$ $R$ $A$ represent?
+> $$\begin{array}{cccccc} & R & M & Z & A & \\ + & & & & & \\ E & X & T & R & A & \end{array}$$
 
-**Answer:** EXTRA = 13658
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2008#q13|src_bocconi_squadre_2008__Q13]]
 
 
 
@@ -416,9 +493,14 @@ level: Gara a Squadre
 
 *Number of chocolates given by Carla to Milena*
 
-> Carla gives Milena a number of chocolates. Adding this number to the sum of its digits, you get 2008. How many chocolates did Carla give Milena?
+> Carla gives Milena a certain number of chocolates. Adding this number to the sum of its digits gives 2008. How many chocolates did Carla give to Milena?
 
-**Answer:** Carla gave Milena 2003 or 1985 chocolates
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2008#q14|src_bocconi_squadre_2008__Q14]]
 
 
 
@@ -444,11 +526,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete the string with arithmetic marks to get 2008*
+*Complete the string with arithmetic signs to get 2008*
 
-> In the above string, however, not the one marked "="  so as to obtain a correct equality, as in the example below: $$1 \; 5 \; 3 \; 6 \; \mathbf{X} \; 1 \; 2 \; \Box \; 9 \; - \; 1 \; 7 \; 7 \; 2 \; 9 \; = \; 2 \; 0 \; 0 \; 8$$ The original string is: $1 \; 5 \; 3 \; 6 \; 1 \; 2 \; + \; 9 \; - \; 1 \; 7 \; 7 \; 2 \; 9 \; = \; 2 \; 0 \; 0 \; 8$
+> In the "string" given above—but not the one with the "=" sign—so as to obtain a correct equality, as in the example given below:
+> $$1 \; 5 \; 3 \; 6 \; \mathbf{X} \; 1 \; 2 \; \Box \; 9 \; - \; 1 \; 7 \; 7 \; 2 \; 9 \; = \; 2 \; 0 \; 0 \; 8$$
+> The original string is: $1 \; 5 \; 3 \; 6 \; 1 \; 2 \; + \; 9 \; - \; 1 \; 7 \; 7 \; 2 \; 9 \; = \; 2 \; 0 \; 0 \; 8$
 
-**Answer:** 153 X 12 [·] 9 - 17729 = 2008, with X = multiplication and [·] appropriate (see grid)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2008#q15|src_bocconi_squadre_2008__Q15]]
 
 
 
@@ -474,13 +563,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the upper circle in a circular pattern*
+*Numbers in a circle at the top, arranged in a circular pattern*
 
-> Insert all natural numbers from 3 to 11 into the three free concentric circles, so that the sum of the numbers marked in each quadrant is equal to the number in the region. Which number (s) is (are) written (s) in the upper circle?
+> Insert all the natural numbers from 3 to 11 into the three empty concentric circles so that the sum of the numbers marked in each quadrant equals the number of the region. Which number(s) is/are written in the topmost circle?
 
 ![[src_bocconi_squadre_2008__q16.png]]
 
-**Answer:** 6; 7; 8; 11
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2008#q16|src_bocconi_squadre_2008__Q16]]
 
 
 
@@ -505,13 +599,17 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of a circle divided into three equal parts*
+*Circumference of a circle divided into three equal parts*
 
-> A circle is divided into three equal parts by the beams (in unit measure). What is the perimeter of the three sides? (Put $\pi = 3{,}141$ and express the result by a decimal number, with three digits after the comma.)
+> A circle is divided into three equal parts by radii of unit length. What is the perimeter of the three parts? (Let $\pi = 3{,}141$, and express the result as a decimal number with three digits after the decimal point.)
 
 ![[src_bocconi_squadre_2008__q17.png]]
 
-**Answer:** 4,094
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2008#q17|src_bocconi_squadre_2008__Q17]]
 
 
 
@@ -535,11 +633,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (a,b) of positive integers with (b^3+1)/(ab-1) integer*
+*Pairs (a,b) of positive integers such that (b^3+1)/(ab-1) is an integer*
 
-> Determine the pairs $(a, b)$ of positive integers, with $a$ greater than or equal to $b$, where $(b^3 + 1)/(ab - 1)$ is an integer.
+> Determine the pairs $(a, b)$ of positive integers, with $a$ greater than or equal to $b$, for which $(b^3 + 1)/(ab - 1)$ is an integer.
 
-**Answer:** 2-1; 3-1; 2-2; 5-2; 5-3
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2008#q18|src_bocconi_squadre_2008__Q18]]
 
 
 
@@ -563,11 +666,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of figures for the product 7^7 · 4^{11} · 5^{11}*
+*Number of digits of the product 7^7 · 4^{11} · 5^{11}*
 
-> What is the product number $7^7 \cdot 4^{11} \cdot 5^{11}$?
+> What is the number of digits of the product $7^7 \cdot 4^{11} \cdot 5^{11}$?
 
-**Answer:** 34
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2008#q19|src_bocconi_squadre_2008__Q19]]
 
 
 
@@ -591,8 +699,13 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Combination number of the Bassotti Band safe*
+*Combination numbers for the Banda Bassotti safe*
 
-> After a thorough study, an incredible dig and entrance into the bank, the Bassotti Band finds it difficult to open the precious safe. In the institute's papers, there is only the indication that the correct combination is given by three non-zero digits (ordered in increasing order) such that their sum is equal to 17 while the product of two of them, added to the third, is always a perfect square. Please, can you help the Bassotti Gang rob the bank?
+> After a meticulous study, an incredible excavation effort, and gaining entry into the bank, the Banda Bassotti is having trouble opening the valuable safe. In the bank's records, there is only an indication that the correct combination consists of three non-zero digits (arranged in ascending order) such that their sum is 17, while the product of any two of them, added to the third, is always a perfect square. Could you please help the Banda Bassotti rob the bank?
 
-**Answer:** The digits of the combination (written in increasing order) are: 179
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2008#q20|src_bocconi_squadre_2008__Q20]]

@@ -42,11 +42,14 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Helically threaded length on cylindrical screws*
+*Helix thread length on a cylindrical screw*
 
-![[src_archimede_2015_triennio__prob15.png]]
-
-> In a 3 cm cylindrical shaped screw, the base radius is √ 30/π millimetres. A tiny insect walks on the surface of the vine, moving along the thread. Knowing that the thread makes exactly 30 turns around the screw, how many centimeters will the insect travel to move from one end of the screw to the other?
+> In a cylindrical screw of length 3 cm, the base radius measures
+> √
+> 30/π millimetres. A tiny insect walks on the surface of the screw, moving along the thread.
+> Knowing that the
+> thread makes exactly 30 turns around the screw, how many
+> centimetres will the insect travel to move from one end of the screw to the other?
 >
 > - **(A)** 32
 > - **(B)** 30
@@ -54,7 +57,10 @@ level: triennio
 > - **(D)** 36
 > - **(E)** 31
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2015_triennio#q15|src_archimede_2015_triennio__Q15]]
 
 
 
@@ -90,17 +96,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*the second time they meet*
+*Where the cyclist and the runner meet the second time*
 
-> A cyclist and a pedestrian walk the same straight path between points A and B. Each moves at a steady speed and, once at the end of the route, starts immediately in the opposite direction, always at the usual speed. The two depart at the same time, the cyclist from A and the podiatrist from B; the first proceeds at a speed three times that of the second. They meet for the first time 12 kilometers from B. How many miles from A will they meet for the second time?
+> A cyclist and a runner travel the same straight road, between the points A and B. Each of the two moves at constant speed and, on reaching the end of the course, immediately sets off again in the opposite direction, always at the same speed. They start at the same instant, the cyclist from A and the runner from B; the former travels at three times the speed of the latter. They meet for the first time 12 km from B. How many km from A will they meet the second time?
 >
 > - **(A)** 24
 > - **(B)** 18
 > - **(C)** 36
 > - **(D)** 27
-> - **(E)** There's not enough data to determine that.
+> - **(E)** the data are not enough to determine it
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2015_triennio#q16|src_archimede_2015_triennio__Q16]]
 
 
 
@@ -131,9 +140,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangular area with perpendicular beam and median*
+*Triangle area with perpendicular angle bisector and median*
 
-> A triangle has a bisector and a median perpendicular to each other, of lengths 7 and 8, respectively. What's the area of the triangle?
+> A triangle has an angle bisector and a median perpendicular to each other, of lengths, respectively, 7 and 8. What is the area of the triangle?
 >
 > - **(A)** 36
 > - **(B)** 35
@@ -141,7 +150,11 @@ level: triennio
 > - **(D)** 48
 > - **(E)** 28
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2015_triennio#q17|src_archimede_2015_triennio__Q17]]
 
 
 
@@ -176,11 +189,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*3x3 grid with equal sums on rows and columns*
+*3×3 grid with equal row and column sums*
 
-![[src_archimede_2015_triennio__prob18.png]]
-
-> Thomas, to pass the time, enjoys filling a square grid of 3 using all the numbers from 1 to 9, so that the sum of the numbers on each row and on each column is always the same. How many ways can Thomas fill the grid?
+> Tommaso, to pass the time, enjoys filling a square 3 × 3 grid using all the numbers from 1 to 9, so that the sum of the numbers on each row and on each column is always the same. In how many ways can Tommaso fill the grid?
 >
 > - **(A)** 72
 > - **(B)** 69
@@ -188,7 +199,11 @@ level: triennio
 > - **(D)** 70
 > - **(E)** 75
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2015_triennio#q18|src_archimede_2015_triennio__Q18]]
 
 
 
@@ -226,7 +241,9 @@ level: triennio
 
 *minimum metres*
 
-> A square of side 2 meters is divided into four smaller squares of side half. An ant, initially placed on top of a large square, is free to walk along the sides of the squares. After walking a bit, running at least once on all sides of the squares, the ant returns to the starting point. How many meters has he traveled at least?
+> A square of side 2 metres is divided into four smaller squares of side half as long.
+> An ant, initially placed at a vertex of the large square, is free to walk along the sides of the smaller squares.
+> After walking a little, having covered at least once all the sides of the smaller squares, the ant returns to the starting point. What is the minimum number of metres it will have walked?
 >
 > - **(A)** 14
 > - **(B)** 16
@@ -234,7 +251,11 @@ level: triennio
 > - **(D)** 12
 > - **(E)** 18
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2015_triennio#q19|src_archimede_2015_triennio__Q19]]
 
 
 
@@ -268,14 +289,18 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number of choices*
+*Ways to choose who prepares the dessert*
 
-> Seven friends are all dining around a table. Somebody's got to go make the dessert. The rule in the committee is that no pair of people sitting next to each other can ever get up at the same time. In how many ways can the group (of one or more people) in charge of the dessert be chosen?
+> Seven friends are all having dinner around a table. Someone has to go and prepare the dessert. In the group the rule is that no pair of people sitting next to each other may ever get up at the same time. In how many ways can the group (of one or more people) charged with taking care of the dessert be chosen?
 >
 > - **(A)** 29
 > - **(B)** 27
 > - **(C)** 21
 > - **(D)** 28
-> - **(E)** 24 T2 Italian Mathematical Union PROJECT OLIMPIADI OF MATHEMATICS Ministry of Education, University and Research Higher Normal School The Games of Archimedes - Race Triennio 25 November 2015 • The test consists of 20 questions; each question is followed by five answers indicated by the letters (A), (B), (C), (D) and (E). • Only one of these answers is correct, the other four are wrong. Every correct answer is worth 5 points, every wrong answer is worth 0 points, every problem left unanswered is worth 1 point. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. The time you have to do the test is two hours. Good work and good fun! Name of the class: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+> - **(E)** 24
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2015_triennio#q20|src_archimede_2015_triennio__Q20]]

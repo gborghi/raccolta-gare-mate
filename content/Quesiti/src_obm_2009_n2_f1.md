@@ -31,13 +31,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Frazione di un numero è uguale a 1/5; trovare 4/5 del numero*
+*Una frazione di un numero è uguale a 1/5; trova 4/5 del numero*
 
-> Se $\frac{1}{8}$ di un numero è $\frac{1}{5}$, quanto è $\frac{4}{5}$ di quel numero?
-> 
+> Se $\frac{1}{8}$ di un numero è $\frac{1}{5}$, quanto vale $\frac{4}{5}$ di quel numero?
+>
 > **(A)** $\frac{1}{8}$ $\quad$ **(B)** $\frac{1}{5}$ $\quad$ **(C)** $1$ $\quad$ **(D)** $\frac{8}{5}$ $\quad$ **(E)** $2$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n2_f1#q01|src_obm_2009_n2_f1__Q01]]
 
 
 
@@ -65,15 +69,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sessagono regolare da picchi di denti; esagono con superficie 4x ha bisogno di quanti picchi di denti*
+*Esagono regolare fatto con stuzzicadenti; quanti stuzzicadenti servono per un esagono con area 4 volte maggiore?*
 
-> Utilizzando i coltelli da dente come corrispondenza, si può costruire un esagono regolare formato da sei triangoli equilaterali, come mostrato nella figura. Se si desidera costruire un altro esagono regolare la cui superficie è quattro volte quella del primo esagono, formato anche da triangoli unitari equilaterali, quante dentiere saranno necessarie?
-> 
+> Usando stuzzicadenti al posto di fiammiferi, si può costruire un esagono regolare formato da sei triangoli equilateri, come mostrato nella figura. Volendo costruire un altro esagono regolare la cui area sia quattro volte l'area del primo esagono, anch'esso formato da triangoli equilateri di lato unitario, quanti stuzzicadenti saranno necessari?
+>
 > **(A)** $12$ $\quad$ **(B)** $24$ $\quad$ **(C)** $30$ $\quad$ **(D)** $36$ $\quad$ **(E)** $48$
 
 ![[src_obm_2009_n2_f1__q02.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n2_f1#q02|src_obm_2009_n2_f1__Q02]]
 
 
 
@@ -99,13 +108,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quante sedizioni per 2 coppie in 4 sedie in modo che i coniugi si sedano vicini*
+*Quante disposizioni dei posti per 2 coppie su 4 sedie, in modo che i coniugi siano seduti uno accanto all'altro?*
 
-> Quante coppie sposate possono sedersi in quattro sedie consecutive in modo che ogni marito e moglie siano vicini l'uno all'altro?
-> 
+> Quante coppie sposate possono sedersi su quattro sedie allineate in modo che ciascun marito e ciascuna moglie siano uno accanto all'altra?
+>
 > **(A)** $2$ $\quad$ **(B)** $4$ $\quad$ **(C)** $8$ $\quad$ **(D)** $12$ $\quad$ **(E)** $24$
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n2_f1#q03|src_obm_2009_n2_f1__Q03]]
 
 
 
@@ -130,13 +144,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Find 4/(x+6) dato 4/(x+5)=8*
+*Trovare 4/(x+6) sapendo che 4/(x+5)=8*
 
-> Se $\dfrac{4}{x+5} = 8$, il valore di $\dfrac{4}{x+6}$ è:
-> 
+> Se $\dfrac{4}{x+5} = 8$, allora il valore di $\dfrac{4}{x+6}$ è:
+>
 > **(A)** $\dfrac{1}{4}$ $\quad$ **(B)** $\dfrac{3}{4}$ $\quad$ **(C)** $\dfrac{3}{4}$ $\quad$ **(D)** $\dfrac{4}{5}$ $\quad$ **(E)** $1$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n2_f1#q04|src_obm_2009_n2_f1__Q04]]
 
 
 
@@ -164,15 +182,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mapa del quartiere: contare le case raggiungibili attraversando ogni strada almeno una volta*
+*Mappa del quartiere: conta le case raggiungibili percorrendo ciascuna strada al massimo una volta*
 
-> La figura mostra una mappa del quartiere; i punti $A$, $B$, $C$, $D$ sono case e i segmenti sono strade. Da quante case è possibile partire e passare per ogni strada al massimo una volta?
-> 
+> La figura mostra una mappa di un quartiere; i punti $A$, $B$, $C$, $D$ rappresentano delle case e i segmenti rappresentano delle strade. Da quante case è possibile partire e percorrere ciascuna strada al massimo una volta?
+>
 > **(A)** $0$ $\quad$ **(B)** $1$ $\quad$ **(C)** $2$ $\quad$ **(D)** $3$ $\quad$ **(E)** $4$
 
 ![[src_obm_2009_n2_f1__q05.png]]
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n2_f1#q05|src_obm_2009_n2_f1__Q05]]
 
 
 
@@ -198,13 +221,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieri interi positivi 15m=20n; certificabilmente n è un multiple di ciò che*
+*Numeri interi positivi 15m=20n; per certificazione, n è un multiplo di cosa?*
 
-> I numeri interi positivi $m$ e $n$ soddisfano $15m = 20n$. È quindi possibile affermare con certezza che $n$ è un multiple di:
-> 
+> I numeri interi positivi $m$ e $n$ soddisfano $15m = 20n$. È quindi possibile affermare con certezza che $n$ è un multiplo di:
+>
 > **(A)** $5$ $\quad$ **(B)** $10$ $\quad$ **(C)** $12$ $\quad$ **(D)** $15$ $\quad$ **(E)** $20$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n2_f1#q06|src_obm_2009_n2_f1__Q06]]
 
 
 
@@ -230,13 +258,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri a 3 cifre ognuno dei quali supera la cifra corrispondente di 314*
+*Conta i numeri di tre cifre in cui ciascuna cifra è maggiore della cifra corrispondente di 314*
 
-> Un numero naturale $A$ con tre cifre *detona * un numero naturale $B$ con tre cifre se ogni cifra di $A$ è strettamente superiore alla cifra corrispondente di $B$. Ad esempio, $876$ detona $345$; $876$ non detona $651$, né qualsiasi numero con meno di tre cifre. Quanti numeri a tre cifre esplodono?
-> 
+> Un numero naturale $A$ di tre cifre *fa detonare* un numero naturale $B$ di tre cifre se ciascuna cifra di $A$ è strettamente maggiore della cifra corrispondente di $B$. Ad esempio, $876$ fa detonare $345$; $876$ non fa detonare $651$, e non lo fa nemmeno alcun numero con meno di tre cifre. Quanti numeri di tre cifre fanno detonare $314$?
+>
 > **(A)** $120$ $\quad$ **(B)** $240$ $\quad$ **(C)** $360$ $\quad$ **(D)** $480$ $\quad$ **(E)** $600$
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n2_f1#q07|src_obm_2009_n2_f1__Q07]]
 
 
 
@@ -261,13 +294,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Barella di cioccolato divisa 2/5, 1/4, restante 70 g; trovare peso totale*
+*Barretta di cioccolato suddivisa in 2/5, 1/4 e il resto pari a 70 g; trovare il peso totale*
 
-> Una barra di cioccolato è divisa tra Nelly, Penha e Sônia. Sapendo che Nelly riceve $\dfrac{2}{5}$ della barra, Penha $\dfrac{1}{4}$ della barra, e Sônia $70$ grammi, il peso della barra, in grammi, è:
-> 
+> Una barretta di cioccolato viene divisa tra Nelly, Penha e Sônia. Sapendo che Nelly riceve $\dfrac{2}{5}$ della barretta, Penha riceve $\dfrac{1}{4}$ della barretta e Sônia riceve $70$ grammi, il peso della barretta, in grammi, è:
+>
 > **(A)** $160$ $\quad$ **(B)** $200$ $\quad$ **(C)** $240$ $\quad$ **(D)** $280$ $\quad$ **(E)** $400$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n2_f1#q08|src_obm_2009_n2_f1__Q08]]
 
 
 
@@ -293,13 +330,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Die laminato 10 volte, somma 57; numero minimo di sei*
+*Il dado è stato lanciato 10 volte, la somma è 57; numero minimo di sei*
 
-> Esmeralda rotolò un dado dieci volte e ottenne la somma di tutti i risultati. Almeno quante volte avrebbe potuto far rotolare un$6$?
-> 
+> Esmeralda ha lanciato un dado dieci volte e ha ottenuto $57$ come somma di tutti i risultati. Quanti lanci con un $6$ ha potuto fare, al minimo?
+>
 > **(A)** $5$ $\quad$ **(B)** $6$ $\quad$ **(C)** $7$ $\quad$ **(D)** $8$ $\quad$ **(E)** $9$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n2_f1#q09|src_obm_2009_n2_f1__Q09]]
 
 
 
@@ -326,15 +368,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gli isosceles da vertice comune; trovare angolo beta dato alfa=18°*
+*Catene isosceli aventi il vertice comune; trovare l'angolo beta sapendo che alfa=18°*
 
-> Nella figura seguente, $\alpha = 18^{\circ}$ e $AB = AC = AD = AE$. Il valore dell'angolo $\beta$ è:
-> 
+> Nella figura sottostante, $\alpha = 18^{\circ}$ e $AB = AC = AD = AE$. Il valore dell'angolo $\beta$ è:
+>
 > **(A)** $18^{\circ}$ $\quad$ **(B)** $36^{\circ}$ $\quad$ **(C)** $15^{\circ}$ $\quad$ **(D)** $20^{\circ}$ $\quad$ **(E)** $30^{\circ}$
 
 ![[src_obm_2009_n2_f1__q10.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n2_f1#q10|src_obm_2009_n2_f1__Q10]]
 
 
 
@@ -362,15 +408,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*5 carte bianche in coppie adiacenti; tutte possono essere fatte a lato nero?*
+*5 carte rivolte verso l'alto di colore bianco, girate in coppie adiacenti; si possono tutte far diventare rivolte verso l'alto con il lato nero?*
 
-> Cinque carte identiche hanno ciascuno un lato bianco e un lato nero. Sono disposte in fila con il lato bianco rivolto verso l'alto. Una mossa consiste nel scegliere una coppia unica di carte adiacenti e girarle entrambe. Almeno quante mosse sono necessarie affinché tutte le carte finiscano con il lato nero rivolto verso l'alto?
-> 
-> **(A) ** $2$ $\quad$ **(B) ** $3$ $\quad$ **(C) ** $4$ $\quad$ **(D) ** $5$ $\quad$ **(E) ** Non è possibile ottenere questa configurazione.
+> Cinque carte identiche hanno ciascuna una faccia bianca e una faccia nera. Sono disposte in fila con la faccia bianca rivolta verso l'alto. Una mossa consiste nel scegliere una coppia unica di carte adiacenti e nel girare entrambe. Quante mosse sono necessarie, al minimo, affinché tutte le carte abbiano la faccia nera rivolta verso l'alto?
+>
+> **(A)** $2$ $\quad$ **(B)** $3$ $\quad$ **(C)** $4$ $\quad$ **(D)** $5$ $\quad$ **(E)** Non è possibile ottenere questa configurazione.
 
 ![[src_obm_2009_n2_f1__q11.png]]
 
-**Risposta:** E
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n2_f1#q11|src_obm_2009_n2_f1__Q11]]
 
 
 
@@ -397,15 +448,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono regolare, quadrato, lato equilaterale del triangolo; trovare angolo beta*
+*Un pentagono regolare, un quadrato e un triangolo equilatero hanno lati in comune; determina l'angolo beta*
 
-> Nella figura seguente, $ABCDE$ è un pentagono regolare, $CDFG$ è un quadrato e $DFH$ è un triangolo equilaterale. Il valore dell'angolo $\beta$ è:
-> 
+> Nella figura sottostante, $ABCDE$ è un pentagono regolare, $CDFG$ è un quadrato e $DFH$ è un triangolo equilatero. Il valore dell'angolo $\beta$ è:
+>
 > **(A)** $30^{\circ}$ $\quad$ **(B)** $36^{\circ}$ $\quad$ **(C)** $39^{\circ}$ $\quad$ **(D)** $45^{\circ}$ $\quad$ **(E)** $60^{\circ}$
 
 ![[src_obm_2009_n2_f1__q12.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n2_f1#q12|src_obm_2009_n2_f1__Q12]]
 
 
 
@@ -435,13 +490,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coda di 49 tifosi (25 Corinthians, 14 Flamengo, 10 Grêmio): non due squadre uguali consecutive*
+*Coda di 49 tifosi (25 del Corinthians, 14 del Flamengo, 10 del Grêmio): nessuna coppia di tifosi della stessa squadra in posizioni consecutive*
 
-> Nella coda di biglietti per una partita della nazionale brasiliana ci sono 49 persone: 25 tifosi di Corinthians, 14 tifosi di Flamengo e 10 tifosi di Grêmio. Sapendo che ogni persona appare solo una volta in fila e che non ci sono due tifosi della stessa squadra in posizioni consecutive, possiamo concludere:
-> 
-> **(A) ** Tale coda non esiste. Un fan di Grêmio è alla fine della coda. Un fan di Grêmio è un vicino di un fan di Flamengo. Un fan di Flamengo è un vicino di un fan di Grêmio. Un fan di Grêmio è un vicino di due fan di Corinthians.
+> In una coda per i biglietti di una partita della nazionale brasiliana ci sono 49 persone: 25 tifosi del Corinthians, 14 tifosi del Flamengo e 10 tifosi del Grêmio. Sapendo che ciascuna persona compare una sola volta nella coda e che nessun tifoso della stessa squadra occupa posizioni consecutive, possiamo concludere:
+>
+> **(A)** Una coda del genere non esiste.
+> **(B)** Un tifoso del Grêmio si trova alla fine della coda.
+> **(C)** Un tifoso del Grêmio è vicino di casa di un tifoso del Flamengo.
+> **(D)** Un tifoso del Flamengo è vicino di casa di un tifoso del Grêmio.
+> **(E)** Un tifoso del Grêmio è vicino di casa di due tifosi del Corinthians.
 
-**Risposta:** E
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n2_f1#q13|src_obm_2009_n2_f1__Q13]]
 
 
 
@@ -471,17 +535,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto P sul CD; regione ombreggiata 1/3 del rettangolo; trovare PC*
+*Punto P su CD; la regione ombreggiata è 1/3 del rettangolo; determina PC*
 
-> Nella figura, $P$ è un punto sul lato $CD$ del rettangolo $ABCD$ e $Q$ è l'intersezione dei diagonali del rettangolo $ABCP$. La regione ombrata è la parte comune al rettangolo $ABCD$ e al triangolo $ADP$.
-> 
-> Se $AB = 5\text{ cm}$, $AD = 8\text{ cm}$, e la superficie ombrata è uguale a $\dfrac{1}{3}$ della superficie del rettangolo, qual è la distanza $PC$?
-> 
+> Nella figura, $P$ è un punto sul lato $CD$ del rettangolo $ABCD$, e $Q$ è l'intersezione delle diagonali del rettangolo $ABCP$. La regione ombreggiata è la parte comune al rettangolo $ABCD$ e al triangolo $ADP$.
+>
+> Se $AB = 5\text{ cm}$, $AD = 8\text{ cm}$ e l'area ombreggiata equivalgono a $\dfrac{1}{3}$ dell'area del rettangolo, qual è la distanza $PC$?
+>
 > **(A)** $1$ cm $\quad$ **(B)** $2$ cm $\quad$ **(C)** $3$ cm $\quad$ **(D)** $4$ cm $\quad$ **(E)** $5$ cm
 
 ![[src_obm_2009_n2_f1__q14.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n2_f1#q14|src_obm_2009_n2_f1__Q14]]
 
 
 
@@ -507,13 +576,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Representare 126 come somma di due prime; massimizzare la differenza*
+*Rappresenta 126 come somma di due numeri primi; massimizza la differenza*
 
-> La congettura di Goldbach afferma che ogni numero intero pari maggiore di $2$ può essere scritto come la somma di due numeri primi. Per esempio, $18 = 5 + 13$ o anche $18 = 7 + 11$. Considerando tutte le rappresentazioni di $126$ come somma di due numeri primi, qual è la più grande differenza tra i due numeri primi?
-> 
+> La congettura di Goldbach afferma che ogni numero intero pari maggiore di $2$ può essere espresso come somma di due numeri primi. Ad esempio, $18 = 5 + 13$ oppure anche $18 = 7 + 11$. Considerando tutte le rappresentazioni di $126$ come somma di due numeri primi, qual è la massima differenza tra i due numeri primi?
+>
 > **(A)** $112$ $\quad$ **(B)** $100$ $\quad$ **(C)** $84$ $\quad$ **(D)** $88$ $\quad$ **(E)** $80$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n2_f1#q15|src_obm_2009_n2_f1__Q15]]
 
 
 
@@ -541,15 +615,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti di centro e piede di altitudine nel triangolo ABC; area del pentagono AERSF con area ABC=252*
+*Punti medi e piede dell'altezza nel triangolo ABC; area del pentagono AERSF, con area ABC=252*
 
-> Nella figura, $E$ è il punto medio di $AC$, $R$ è il punto medio di $AB$ e $S$ è il piede dell'altitudine da $B$ a $AC$. Inoltre, $BR = RS = SC$. Se l'area del triangolo $ABC$ è $252$, qual è l'area del pentagono $AERSF$?
-> 
+> Nella figura, $E$ è il punto medio di $AC$, $R$ è il punto medio di $AB$ e $S$ è il piede dell'altezza condotta da $B$ a $AC$. Inoltre, $BR = RS = SC$. Se l'area del triangolo $ABC$ è $252$, qual è l'area del pentagono $AERSF$?
+>
 > **(A)** $168$ $\quad$ **(B)** $189$ $\quad$ **(C)** $200$ $\quad$ **(D)** $210$ $\quad$ **(E)** $220$
 
 ![[src_obm_2009_n2_f1__q16.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n2_f1#q16|src_obm_2009_n2_f1__Q16]]
 
 
 
@@ -575,13 +654,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare coppie reali (x,y) soddisfacenti (x+y) ^4+(x-y) ^4=0*
+*Conta le coppie reali (x,y) che soddisfano (x+y)^4+(x-y)^4=0*
 
 > Quante coppie ordinate $(x, y)$ di numeri reali soddisfano $(x + y)^4 + (x - y)^4 = 0$?
-> 
-> **(A) ** $0$ $\quad$ **(B) ** $1$ $\quad$ **(C) ** $2$ $\quad$ **(D) ** $3$ $\quad$ **
+>
+> **(A)** $0$ $\quad$ **(B)** $1$ $\quad$ **(C)** $2$ $\quad$ **(D)** $3$ $\quad$ **(E)** infiniti
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n2_f1#q17|src_obm_2009_n2_f1__Q17]]
 
 
 
@@ -615,17 +699,26 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*18 studenti, 6 domande; ognuno ottiene 4 corrette; ogni domanda corregge le stesse volte; trova m*
+*18 studenti, 6 domande; ciascuno ne indovina 4; ogni domanda corretta lo stesso numero di volte; trova m*
 
-> Il professor Piraldo ha dato un test di domande $6$ di valore $0$ o $1$ punti ciascuno, senza credito parziale, agli studenti $18$. Dopo il test, Piraldo fece una tabella in cui ogni riga rappresenta uno studente e ogni colonna rappresenta una domanda. La tabella (che mostra 3 degli 18 studenti) è:
-> 
-> Studente Q1 Q2 Q3 Q4 Q5 Q6 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
-> 
-> Piraldo ha notato che ogni studente ha ricevuto esattamente le domande $4$ correttamente e ogni domanda è stata risolta correttamente lo stesso numero di volte. Qual è il valore di $m$ (il numero di volte in cui ogni domanda è stata risolta correttamente)?
-> 
+> Il professor Piraldo ha somministrato a $18$ studenti una prova composta da $6$ domande, ciascuna del valore di $0$ o $1$ punti, senza attribuzione di punteggio parziale. Dopo la prova, Piraldo ha creato una tabella in cui ogni riga rappresenta uno studente e ogni colonna rappresenta una domanda. La tabella (che mostra 3 degli 18 studenti) è:
+>
+> | Student | Q1 | Q2 | Q3 | Q4 | Q5 | Q6 |
+> |---|---|---|---|---|---|---|
+> | Arnaldo | 0 | 1 | 1 | 1 | 0 | 0 |
+> | Bernaldo | 1 | 1 | 1 | 0 | 1 | 0 |
+> | Cernaldo | 0 | 1 | 1 | 1 | 0 | 0 |
+>
+> Piraldo ha notato che ogni studente ha risposto correttamente esattamente a $4$ domande e che ciascuna domanda è stata risposta correttamente lo stesso numero di volte. Qual è il valore di $m$ (il numero di volte in cui ciascuna domanda è stata risposta correttamente)?
+>
 > **(A)** $8$ $\quad$ **(B)** $9$ $\quad$ **(C)** $10$ $\quad$ **(D)** $12$ $\quad$ **(E)** $14$
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n2_f1#q18|src_obm_2009_n2_f1__Q18]]
 
 
 
@@ -650,13 +743,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i quadrati perfetti tra n+4018, n=1..2009*
+*Conta i quadrati perfetti tra n+4018, n=1..2009*
 
-> Tra gli integri positivi del modulo $n + 4018$ per $n = 1, 2, \ldots, 2009$, quanti sono i quadrati perfetti?
-> 
+> Tra gli interi positivi della forma $n + 4018$ per $n = 1, 2, \ldots, 2009$, quanti sono quadrati perfetti?
+>
 > **(A)** $1945$ $\quad$ **(B)** $1946$ $\quad$ **(C)** $3125$ $\quad$ **(D)** $1948$ $\quad$ **(E)** $1949$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n2_f1#q19|src_obm_2009_n2_f1__Q19]]
 
 
 
@@ -681,13 +778,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei primi 10 multipli positivi di n; calcolo S5+S10*
+*Somma dei primi 10 multipli positivi di n; calcola S5+S10*
 
-> Per ogni numero naturale $n$, $S_n$ è la somma dei primi dieci multipli positivi di $n$. Ad esempio, $S_2 = 2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20$. Che cos' è $S_5 + S_{10}$?
-> 
+> Per ogni numero naturale $n$, si ponga $S_n$ come la somma dei primi dieci multipli positivi di $n$. Ad esempio, $S_2 = 2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20$. Qual è $S_5 + S_{10}$?
+>
 > **(A)** $2925$ $\quad$ **(B)** $3025$ $\quad$ **(C)** $3125$ $\quad$ **(D)** $3225$ $\quad$ **(E)** $3325$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n2_f1#q20|src_obm_2009_n2_f1__Q20]]
 
 
 
@@ -715,15 +816,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi disegnati su una griglia di due centimetri quadrati; trovare la distanza minima tra di loro*
+*Due cerchi tracciati su una griglia di quadrati di 2 cm di lato; trovare la distanza minima tra di essi*
 
-> Su un foglio di carta quadrata in cui ogni quadrato ha un lato $2$ cm, sono disegnati due cerchi come mostrato nella figura. La distanza minima tra i due cerchi è:
-> 
+> Su un foglio di carta quadrettata in cui ogni quadretto ha il lato di $2$ cm, vengono disegnati due cerchi come mostrato nella figura. La distanza minima tra i due cerchi è:
+>
 > **(A)** $3$ cm $\quad$ **(B)** $\sqrt{10}$ cm $\quad$ **(C)** $(\sqrt{10} + 3)$ cm $\quad$ **(D)** $(\sqrt{10} - 2)$ cm $\quad$ **(E)** $(\sqrt{10} - 3)$ cm
 
 ![[src_obm_2009_n2_f1__q21.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n2_f1#q21|src_obm_2009_n2_f1__Q21]]
 
 
 
@@ -749,13 +855,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta naturale 1100 espressi come a^b con a,b naturale >1*
+*Conta i numeri naturali da 1 a 100 esprimibili come a^b con a, b numeri naturali maggiori di 1*
 
-> Quanti numeri naturali da $1$ a $100$, inclusi, possono essere scritti nella forma $a^b$ con $a, b \in \mathbb{N}$, $a > 1$, $b > 1$?
-> 
+> Quanti numeri naturali compresi tra $1$ e $100$, entrambi inclusi, possono essere scritti nella forma $a^b$ con $a, b \in \mathbb{N}$, $a > 1$, $b > 1$?
+>
 > **(A)** $10$ $\quad$ **(B)** $12$ $\quad$ **(C)** $14$ $\quad$ **(D)** $16$ $\quad$ **(E)** $18$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n2_f1#q22|src_obm_2009_n2_f1__Q22]]
 
 
 
@@ -781,13 +892,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo 24×36 cm; ogni punto colorato dal lato più vicino; area di regione gialla*
+*Rettangolo 24×36 cm; ogni punto colorato in base al lato più vicino; area della regione gialla*
 
-> Un foglio del quaderno di Carlos è rettangolare di $24$ cm di larghezza e $36$ cm di altezza, con lati lunghi gialli e lati corti rossi. Carlos dipinge ogni punto del rettangolo dello stesso colore del lato più vicino. Qual è l'area della regione gialla?
-> 
+> Una pagina del quaderno di Carlos è un rettangolo largo $24$ cm e alto $36$ cm, con i lati lunghi gialli e i lati corti rossi. Carlos colora ciascun punto del rettangolo dello stesso colore del lato più vicino. Qual è l'area della regione gialla?
+>
 > **(A)** $144\text{ cm}^2$ $\quad$ **(B)** $288\text{ cm}^2$ $\quad$ **(C)** $364\text{ cm}^2$ $\quad$ **(D)** $442\text{ cm}^2$ $\quad$ **(E)** $841\text{ cm}^2$
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n2_f1#q23|src_obm_2009_n2_f1__Q23]]
 
 
 
@@ -813,13 +929,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integri 0≤x≤y≤z≤u≤v≤t con w=2(x+y+z), t=u+v+2, w=9; trovare t*
+*Interi 0≤x≤y≤z≤u≤v≤t con w=2(x+y+z), t=u+v+2, w=9; trovare t*
 
-> I numeri interi $0 \le x \le y \le z \le u \le v \le t$ soddisfano $w = 2(x + y + z)$ e $t = u + v + 2$. Se $w = 9$, allora $t$ è uguale a:
-> 
+> Gli interi $0 \le x \le y \le z \le u \le v \le t$ soddisfano $w = 2(x + y + z)$ e $t = u + v + 2$. Se $w = 9$, allora $t$ è uguale a:
+>
 > **(A)** $45$ $\quad$ **(B)** $54$ $\quad$ **(C)** $63$ $\quad$ **(D)** $72$ $\quad$ **(E)** $81$
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n2_f1#q24|src_obm_2009_n2_f1__Q24]]
 
 
 
@@ -847,12 +968,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cubbi accumulati: identificare quale vista anteriore è impossibile data vista sinistra e anteriore*
+*Cubi impilati: identifica quale vista frontale è impossibile, dati la vista laterale sinistra e la vista frontale*
 
-> Alcuni cubetti sono impilati per formare un blocco. Le figure a sinistra mostrano la vista dal lato sinistro e la vista dalla parte anteriore. Quale delle seguenti figure ** non può essere la vista dall'anteriore?
-> 
-> **(A) ** Figura A $\quad$ **(B) ** Figura B $\quad$ **(C) ** Figura C $\quad$ **(D) ** Figura D $\quad$ **(E) ** Figura E
+> Alcuni cubi sono impilati per formare un blocco. Le figure a sinistra mostrano la vista dal lato sinistro e la vista frontale. Quale delle seguenti figure **non può** essere la vista frontale?
+>
+> **(A)** Figura A $\quad$ **(B)** Figura B $\quad$ **(C)** Figura C $\quad$ **(D)** Figura D $\quad$ **(E)** Figura E
 
 ![[src_obm_2009_n2_f1__q25.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n2_f1#q25|src_obm_2009_n2_f1__Q25]]

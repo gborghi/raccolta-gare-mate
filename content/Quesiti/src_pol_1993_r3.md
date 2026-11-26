@@ -32,9 +32,19 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le soluzioni razionali a un sistema simmetrico in cinque sconosciuti.*
+*Trovare tutte le soluzioni razionali di un sistema simmetrico in cinque incognite.*
 
-> Trova tutte le soluzioni razionali $x, y, z, t, w$ al seguente sistema: $$2xy = t^2 - w^2 + z^2,$$ $$2xz = t^2 - y^2 + w^2,$$ $$2yz = t^2 - w^2 + x^2.$$
+> Trovare tutte le soluzioni razionali $x, y, z, t, w$ del seguente sistema:
+> $$2xy = t^2 - w^2 + z^2,$$
+> $$2xz = t^2 - y^2 + w^2,$$
+> $$2yz = t^2 - w^2 + x^2.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1993_r3#q01|src_pol_1993_r3__Q01]]
 
 
 
@@ -57,9 +67,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo inscritto in un trapezoide; prova DE=FC se AB=2CD.*
+*Cerchio inscritto in un trapezio; dimostrare che DE=FC se e solo se AB=2CD.*
 
-> Un cerchio $k$ con centro $O$ è inserito in un trapezoide non-isosceles $ABCD$ con base più lunga $AB$. $M$ sia il punto medio di $AB$. La linea $CD$ tocca $k$ al punto $E$ e interseca la linea $OM$ al punto $F$. Prove che $DE = FC$ se e solo se $AB = 2CD$.
+> Un cerchio $k$ con centro $O$ è inscritto in una trapezia non isoscele $ABCD$ avente come base maggiore $AB$. Sia $M$ il punto medio di $AB$. La retta $CD$ è tangente a $k$ nel punto $E$ e interseca la retta $OM$ nel punto $F$. Dimostrare che $DE = FC$ se e solo se $AB = 2CD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1993_r3#q02|src_pol_1993_r3__Q02]]
 
 
 
@@ -84,9 +101,18 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza tramite mappa di divisione più probabile; mostra 800 appare una volta e trova quando.*
+*Sequenza tramite la mappa del divisore dispari massimo; mostra che 800 compare una volta e determina quando.*
 
-> Indichiamo $g(k)$ il più grande divisore odd di un intero positivo $k$. Abbiamo impostato $$f(k) = \begin{cases} k/2 + k/g(k) & \text{for } k \text{ even;} \\ 2^{(k+1)/2} & \text{for } k \text{ odd.} \end{cases}$$ e definito la sequenza $x_n$ da $x_1 = 1$ e $x_{n+1} = f(x_n)$ per $n \in \mathbb{N}$. Indicare che il numero $800$ appare nella sequenza esattamente una volta e determinare per quale $n$ $x_n = 800$.
+> Sia $g(k)$ il più grande divisore dispari di un numero intero positivo $k$. Poniamo
+> $$f(k) = \begin{cases} k/2 + k/g(k) & \text{for } k \text{ even;} \\ 2^{(k+1)/2} & \text{for } k \text{ odd.} \end{cases}$$
+> E definisci la successione $x_n$ mediante $x_1 = 1$ e $x_{n+1} = f(x_n)$ per $n \in \mathbb{N}$. Dimostrare che il numero $800$ compare nella successione esattamente una volta, e determina $n$ per cui $x_n = 800$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1993_r3#q03|src_pol_1993_r3__Q03]]
 
 
 
@@ -109,9 +135,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polyedro converso a faccia triangolare, vertici a 3 colori; dimostrare che il numero delle facce dell'arcobaleno è pari.*
+*Poliedro convesso a facce triangolari, con vertici tricromi; dimostrare che il numero delle facce arcobaleno è pari.*
 
-> Si deve dare un poliedro convexo le cui facce sono tutte triangolari. I vertici del poliedro sono colorati utilizzando tre colori. Prova che il numero di volti con vertici in tutti e tre i colori è pari.
+> Sia dato un poliedro convesso le cui facce sono tutte triangolari. I vertici del poliedro sono colorati con tre colori. Dimostrare che il numero delle facce i cui vertici hanno tutti e tre i colori è pari.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_pol_1993_r3#q04|src_pol_1993_r3__Q04]]
 
 
 
@@ -136,9 +169,18 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni reali che soddisfano tre equazioni funzionali.*
+*Trovare tutte le funzioni reali che soddisfano tre equazioni funzionali.*
 
-> Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano le seguenti condizioni: $$f(-x) = -f(x) \quad \text{and} \quad f(x+1) = f(x) + 1 \quad \text{for } x \in \mathbb{R};$$ $$f\!\left(\frac{1}{x}\right) = \frac{f(x)}{x^2} \quad \text{for } x \neq 0.$$
+> Trovare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano le seguenti condizioni:
+> $$f(-x) = -f(x) \quad \text{and} \quad f(x+1) = f(x) + 1 \quad \text{for } x \in \mathbb{R};$$
+> $$f\!\left(\frac{1}{x}\right) = \frac{f(x)}{x^2} \quad \text{for } x \neq 0.$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1993_r3#q05|src_pol_1993_r3__Q05]]
 
 
 
@@ -161,6 +203,13 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine il volume del tetraedro dalle aree del viso e dal circondario.*
+*Determinare il volume di un tetraedro a partire dalle aree delle facce e dal raggio circoscrito.*
 
-> Scopri se è possibile determinare il volume di un tetraedro conoscendo le aree delle sue facce e il suo circondario.
+> Scopri se sia possibile determinare il volume di un tetraedro conoscendo le aree delle sue facce e il suo raggio circoscritto.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1993_r3#q06|src_pol_1993_r3__Q06]]

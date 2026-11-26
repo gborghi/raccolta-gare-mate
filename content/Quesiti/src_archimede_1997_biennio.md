@@ -38,7 +38,8 @@ level: biennio
 
 *Maximum number of trees on two sides of an avenue*
 
-> How many trees are there on either side of a wide 180-meter-long alley, set 15 meters apart?
+> How many trees can there be at most on two sides of a wide avenue 180 metres long,
+> placed 15 metres apart from one another?
 >
 > - **(A)** 20
 > - **(B)** 22
@@ -46,7 +47,10 @@ level: biennio
 > - **(D)** 26
 > - **(E)** 28.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1997_biennio#q01|src_archimede_1997_biennio__Q01]]
 
 
 
@@ -76,17 +80,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Next number with three digits on the meter*
+*Next odometer reading with three equal digits*
 
-> A bicycle's meter is 3,733 km. The first time you re-mark a number with three digits will happen.
+> A bicycle's odometer reads 3733 km. The next time it shows a number with three equal digits will be
 >
 > - **(A)** before 50 km
-> - **(B)** between 50 and 100 km
+> - **(B)** between 50 km and 100 km
 > - **(C)** between 100 km and 500 km
 > - **(D)** between 500 km and 1000 km
-> - **(E)** Between 1,000 and 5,000 kilometers.
+> - **(E)** between 1000 km and 5000 km.
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_1997_biennio#q02|src_archimede_1997_biennio__Q02]]
 
 
 
@@ -118,19 +125,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nature of the ACV triangle in a square base pyramid*
+*Type of triangle ACV in a square-based pyramid*
 
-![[src_archimede_1997_biennio__prob3.png]]
-
-> In an ABCDV pyramid the base ABCD is a square and the side faces are equilateral triangles. The ACV triangle is
+> In a pyramid ABCDV the base ABCD is a square and the lateral faces are equilateral triangles. Triangle ACV is
 >
-> - **(A)** Rectangular
-> - **(B)** Other, not elsewhere specified or included
-> - **(C)** of a width of not more than 30 mm
-> - **(D)** Equivalent to the ABCD base
-> - **(E)** equivalent to a side face.
+> - **(A)** right-angled
+> - **(B)** obtuse
+> - **(C)** equilateral
+> - **(D)** equal in area to the base ABCD
+> - **(E)** equal in area to a lateral face.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_biennio#q03|src_archimede_1997_biennio__Q03]]
 
 
 
@@ -160,17 +168,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Vote on the fifth task for an average of 7*
+*Mark needed on the fifth test for an average of 7*
 
-> One student averaged six and a half in the first four assignments. What score does he have to take in the fifth to get a 7?
+> A student had an average of 6 and 1/2 on the first four tests. What mark must he get on the fifth to get an average of 7?
 >
-> - **(A)** 7 e 1/2
-> - **(B)** 8 e 1/2
+> - **(A)** 7 and 1/2
+> - **(B)** 8 and 1/2
 > - **(C)** 9
 > - **(D)** 10
-> - **(E)** He can't do it.
+> - **(E)** he cannot make it.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1997_biennio#q04|src_archimede_1997_biennio__Q04]]
 
 
 
@@ -207,7 +218,13 @@ level: biennio
 
 *Value of an expression with decimals*
 
-> What is the value of the expression 0, 1 + 1 0, 1 2 ?
+> How much is the expression
+> 
+> 0, 1 +
+> 1
+> 0, 1
+> 2
+> ?
 >
 > - **(A)** 0,0121
 > - **(B)** 1,21
@@ -215,7 +232,10 @@ level: biennio
 > - **(D)** 102,01
 > - **(E)** 121.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1997_biennio#q05|src_archimede_1997_biennio__Q05]]
 
 
 
@@ -247,19 +267,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shadeed percentage of a square*
+*Shaded percentage of a square*
 
-![[src_archimede_1997_biennio__prob6.png]]
-
-> What's the percentage of the square shaded in the figure?
+> What is the percentage of the shaded square in the figure?
 >
-> - **(A)** 12,5%
-> - **(B)** 16,66%
-> - **(C)** 18,75%
+> - **(A)** 12.5%
+> - **(B)** 16.66%
+> - **(C)** 18.75%
 > - **(D)** 20%
 > - **(E)** 25%.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_biennio#q06|src_archimede_1997_biennio__Q06]]
 
 
 
@@ -288,17 +309,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Positive n with n+30 greater than n squared*
+*How many positive n have n + 30 greater than n squared*
 
-> How many positive numbers are n such that n + 30 > n2?
+> How many positive numbers n are there such that n + 30 > n2?
 >
-> - **(A)** infinitesimal
+> - **(A)** infinitely many
 > - **(B)** 30
 > - **(C)** 6
 > - **(D)** 5
-> - **(E)** None of the above answers are correct.
+> - **(E)** none of the previous answers is correct.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1997_biennio#q07|src_archimede_1997_biennio__Q07]]
 
 
 
@@ -350,32 +374,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Winning strategy in the game of chocolate*
+*Winning strategy in the chocolate game*
 
-![[src_archimede_1997_biennio__prob8.png]]
-
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \fill[gray!60] (0,1) rectangle (1,2);
-  \draw (0,0) rectangle (4,2);
-  \draw (1,0) -- (1,2);
-  \draw (2,0) -- (2,2);
-  \draw (3,0) -- (3,2);
-  \draw (0,1) -- (4,1);
-\end{tikzpicture}
-\end{document}
-```
-
-> Marco and Roberto have a chocolate made up of 8 squares of which one (the one above left) is not good. So they decide to play this game. At each turn, each player breaks the chocolate in two along one of the lines of separation between the squares, and then eats the part that does not contain the bad square. The winner is the one who leaves the opponent the only bad quarter. Knowing Roberto is the first to play, what must he eat to be sure of victory?
+> Marco and Roberto have a bar of chocolate made of 8 squares, one of which (the top-left one) is not good. They therefore decide to play this game. On each turn each player breaks the chocolate in two along one of the lines separating the squares, and then eats the part that does not contain the bad square. Whoever leaves the opponent with only the bad square wins. Given that Roberto plays first, what must he eat to be sure of winning?
 >
-> - **(A)** The two squares to the right
-> - **(B)** The four squares to the right.
-> - **(C)** The six squares to the right.
-> - **(D)** The four squares below
-> - **(E)** No matter what he moves, Roberto loses!
+> - **(A)** the two squares furthest to the right
+> - **(B)** the four squares furthest to the right
+> - **(C)** the six squares furthest to the right
+> - **(D)** the four squares at the bottom
+> - **(E)** whatever move he makes, Roberto loses!.
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_1997_biennio#q08|src_archimede_1997_biennio__Q08]]
 
 
 
@@ -409,9 +422,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colla to build a 5x5x5 cube from unit cubes*
+*Glue needed to build a 5x5x5 cube from unit cubes*
 
-> To glue the faces of two unit cubes together, 0.25 grams of glue are needed. How much glue does it take to build a cube 5 from 125 unit cubes? (N.B. To ensure greater strength, all contact facial pairs are glued.)
+> To glue together the faces of two unit cubes, 0.25 grams of glue are needed.
+> How much glue is needed to build a 5 × 5 × 5 cube starting from 125 unit cubes? (N.B. to ensure greater solidity, all pairs of faces in contact are glued together)
 >
 > - **(A)** 180 g
 > - **(B)** 150 g
@@ -419,7 +433,11 @@ level: biennio
 > - **(D)** 75 g
 > - **(E)** 125 g.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1997_biennio#q09|src_archimede_1997_biennio__Q09]]
 
 
 
@@ -452,11 +470,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of a figure formed by circle arcs*
+*Area of a figure made of circular arcs*
 
-![[src_archimede_1997_biennio__prob10.png]]
-
-> Determine the area of the drawn figure, knowing that each of the arcs (a semicircle and two quarters of circumference) is obtained from a circumference of 1 cm radius.
+> Determine the area of the shaded figure, knowing that each of the arcs (a semicircle and two quarter-circles) is obtained from a circle of radius 1 cm.
 >
 > - **(A)** π/2 cm2
 > - **(B)** 2 cm2
@@ -464,7 +480,10 @@ level: biennio
 > - **(D)** 4 cm2
 > - **(E)** 2π cm2.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_biennio#q10|src_archimede_1997_biennio__Q10]]
 
 
 
@@ -495,17 +514,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of sheet wasted by cutting circle and square*
+*Percentage of sheet metal wasted cutting a circle and a square*
 
-> A circle of the maximum possible diameter shall be cut from a square sheet, followed by a square of the maximum possible side. The percentage of waste sheet is
+> From a square sheet of metal a circle of the largest possible diameter is cut, and then from that circle a square of the largest possible side is cut. The percentage of sheet metal wasted is
 >
 > - **(A)** 1/4 of the original sheet
 > - **(B)** 1/2 of the original sheet
 > - **(C)** 1/2 of the circular sheet
 > - **(D)** 1/4 of the circular sheet
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_biennio#q11|src_archimede_1997_biennio__Q11]]
 
 
 
@@ -541,9 +563,15 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x in an equation with nested roots*
+*Value of x in an equation with nested radicals*
 
-> Given the following equation 4 = q 7 + p 9 + √4 + x what is x?
+> Given the following equation
+> 4 =
+> q
+> 7 +
+> p
+> 9 + √4 + x
+> what is the value of x?
 >
 > - **(A)** 36
 > - **(B)** 46
@@ -551,7 +579,11 @@ level: biennio
 > - **(D)** 68
 > - **(E)** 5180.
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1997_biennio#q12|src_archimede_1997_biennio__Q12]]
 
 
 
@@ -586,11 +618,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio between black and white surfaces of a floor*
+*Ratio of white to black area of a floor*
 
-![[src_archimede_1997_biennio__prob13.png]]
-
-> The diagram shows the floor layout of a large hall. The square tiles are white, while the rectangular tiles are black and measure 30 cm×40. What is the Sb/Sn ratio between the total white and black surface area?
+> In the figure is shown the layout of the floor of a large hall. The square tiles are white, while the rectangular ones are black and measure cm 30×40. What is the value of the ratio Sb/Sn between the total white area and the black one?
 >
 > - **(A)** Sb/Sn < 95%
 > - **(B)** 95% ≤Sb/Sn < 100%
@@ -598,7 +628,10 @@ level: biennio
 > - **(D)** 100% < Sb/Sn ≤105%
 > - **(E)** Sb/Sn > 105%.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_biennio#q13|src_archimede_1997_biennio__Q13]]
 
 
 
@@ -630,17 +663,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In which range is x times the root of y*
+*Interval containing x times the square root of y*
 
-> Given two real x and y such that 0 < x < y < 1, in what range is x√y?
+> Given two real numbers x and y such that 0 < x < y < 1, in which interval does x√y lie?
 >
-> - **(A)** Between 0 and x
+> - **(A)** between 0 and x
 > - **(B)** between x and y
 > - **(C)** between y and 1
 > - **(D)** after 1
-> - **(E)** depends on the values of x and y. | 0 | x | y | 1
+> - **(E)** it depends on the values of x and y. | 0 | x | y | 1
 
-**Answer:** A
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1997_biennio#q14|src_archimede_1997_biennio__Q14]]
 
 
 
@@ -674,11 +711,12 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PRQ angle from tangents and arcs of a circle*
+*Angle PRQ from tangents and arcs of a circle*
 
-![[src_archimede_1997_biennio__prob15.png]]
-
-> PR and QR are tangents to the circle in the figure. If we know that the PSQ arc is four times the PTQ arc then the angle $\widehat{PRQ}$ is
+> PR and QR are tangent to the circle in the figure.
+> Knowing that
+> arc PSQ is four times arc PTQ, then the angle
+> $\widehat{PRQ}$ is
 >
 > - **(A)** 72°
 > - **(B)** 90°
@@ -686,7 +724,10 @@ level: biennio
 > - **(D)** 108°
 > - **(E)** 120°. b S b T b P b Q b R
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_biennio#q15|src_archimede_1997_biennio__Q15]]
 
 
 
@@ -721,9 +762,9 @@ level: biennio
 
 *Which drawing cannot be the back of the cardboard*
 
-![[src_archimede_1997_biennio__prob16.png]]
-
-> A single piece of rope passes through the holes of a sheet of cardboard, as shown in the figure next to it. Which of the following drawings cannot be what you see on the other side of the cardboard?
+> A single piece of string passes through the holes of a sheet of cardboard,
+> as shown in the figure alongside. Which of the following drawings cannot
+> be what is seen on the other side of the cardboard?
 >
 > - **(A)**
 > - **(B)**
@@ -731,7 +772,10 @@ level: biennio
 > - **(D)**
 > - **(E)**
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_biennio#q16|src_archimede_1997_biennio__Q16]]
 
 
 
@@ -765,9 +809,12 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value f(1) given a functional ratio*
+*Value of f(1) given a functional relation*
 
-> Given a function such that f(x + 1) = 2f(x) + 1 2 and such that f(2) = 2, how much is f(1)?
+> Given a function such that f(x + 1) = 2f(x) + 1
+> 2
+> and such that f(2) = 2, what is the value of
+> f(1)?
 >
 > - **(A)** 0
 > - **(B)** 1/2
@@ -775,7 +822,11 @@ level: biennio
 > - **(D)** 3/2
 > - **(E)** 2.
 
-**Answer:** D
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1997_biennio#q17|src_archimede_1997_biennio__Q17]]
 
 
 
@@ -807,9 +858,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of persons in three committees*
+*Minimum number of people in three committees*
 
-> Three parliamentary committees consisting of 10 members each were set up. We know that no Member of Parliament is a member of all three committees at the same time. To determine the minimum number of persons involved in the three committees
+> Three parliamentary committees have been set up, each made up of 10 members.
+> We know that no parliamentarian is simultaneously a member of all three
+> committees. State the minimum number of people involved in the 3 committees
 >
 > - **(A)** 10
 > - **(B)** 15
@@ -817,7 +870,11 @@ level: biennio
 > - **(D)** 25
 > - **(E)** 29.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1997_biennio#q18|src_archimede_1997_biennio__Q18]]
 
 
 
@@ -846,17 +903,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Denial of a quantified sentence*
+*Negation of a quantified sentence*
 
-> What's the negation of the phrase Every 1st grade student has at least 2 cousins?
+> What is the negation of the sentence “Every student in class 1A has at least 2 cousins”?
 >
-> - **(A)** No 1st grade student has cousins.
-> - **(B)** All 1st A students have a cousin.
-> - **(C)** At least one 1st A student has only one cousin.
-> - **(D)** At least one 1st A student has no cousins.
-> - **(E)** None of the above is the denial of the given sentence.
+> - **(A)** no student in class 1A has cousins
+> - **(B)** all the students in class 1A have one cousin
+> - **(C)** at least one student in class 1A has only one cousin
+> - **(D)** at least one student in class 1A has no cousins
+> - **(E)** none of the above is the negation of the given sentence.
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_1997_biennio#q19|src_archimede_1997_biennio__Q19]]
 
 
 
@@ -889,9 +949,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-The likelihood that a boy will run out of toys
+*Probability that a boy is left with no toys*
 
-> At a birthday party, four toys are drawn among the three boys present. The drawings are independent, meaning that all the boys participate in all the drawings. What is the probability that there is at least one boy left without toys?
+> At a birthday party four toys are drawn by lot among the three boys present. The draws are independent, that is, all the boys take part in every draw. What is the probability p that there is at least one boy left with no toys?
 >
 > - **(A)** p = 4 9
 > - **(B)** 4 9 < p < 1 2
@@ -899,4 +959,8 @@ The likelihood that a boy will run out of toys
 > - **(D)** 1 2 < p < 5 9
 > - **(E)** p = 5 9.
 
-**Answer:** E
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1997_biennio#q20|src_archimede_1997_biennio__Q20]]

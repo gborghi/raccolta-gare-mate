@@ -31,11 +31,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con piede perpendicolare e regioni di superficie uguali implica BD=DC*
+*Un triangolo con il piede della perpendicolare e regioni di area uguale implica BD=DC*
 
-> Lasciate che $ABC$ sia un triangolo e che $AD$ sia la perpendicolare da $A$ a $BC$. I punti $K$, $L$, $M$ siano punti su $AD$ in modo tale che $AK = KL = LM = MD$. Se la somma delle superfici delle regioni ombreggiate è pari alla somma delle superfici delle regioni non ombreggiate, dimostrare che $BD = DC$.
+> Sia $ABC$ un triangolo e sia $AD$ la perpendicolare condotta da $A$ a $BC$. Siano $K$, $L$, $M$ dei punti su $AD$ tali che $AK = KL = LM = MD$. Se la somma delle aree delle regioni ombreggiate è uguale alla somma delle aree delle regioni non ombreggiate, dimostrare che $BD = DC$.
 
 ![[src_rmo_2014_r1__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2014_r1#q01|src_rmo_2014_r1__Q01]]
 
 
 
@@ -62,9 +69,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Progressione aritmetica: esprimere la differenza comune d in termini di x, y, z*
+*Progressione aritmetica: esprimi la ragione d in funzione di x, y, z*
 
-> $a_1, a_2, \ldots, a_{2n}$ sia una progressione aritmetica dei numeri reali positivi con differenza comune $d$. Per i) $a_1^2 + a_3^2 + \cdots + a_{2n-1}^2 = x$, ii) $a_2^2 + a_4^2 + \cdots + a_{2n}^2 = y$ e iii) $a_n + a_{n+1} = z$. Esprimere $d$ in termini di $x$, $y$, $z$, $n$.
+> Sia $a_1, a_2, \ldots, a_{2n}$ una progressione aritmetica di numeri reali positivi con ragione $d$. Siano (i) $a_1^2 + a_3^2 + \cdots + a_{2n-1}^2 = x$, (ii) $a_2^2 + a_4^2 + \cdots + a_{2n}^2 = y$ e (iii) $a_n + a_{n+1} = z$. Esprimi $d$ in funzione di $x$, $y$, $z$, $n$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2014_r1#q02|src_rmo_2014_r1__Q02]]
 
 
 
@@ -87,9 +101,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I numeri di 2^r permutati danno 2^s; provare r=s*
+*Le cifre di 2^r, dopo una permutazione, danno 2^s; dimostrare che r=s*
 
-> Supponiamo che per alcuni integri positivi $r$ e $s$, le cifre di $2^r$ siano ottenute permutando le cifre di $2^s$ in espansione decimale. Prove che $r = s$.
+> Supponiamo che, per alcuni interi positivi $r$ e $s$, le cifre di $2^r$ si ottengano permutando le cifre di $2^s$ nella sua espansione decimale. Dimostrare che $r = s$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2014_r1#q03|src_rmo_2014_r1__Q03]]
 
 
 
@@ -114,11 +135,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*griglia 4x4 con numeri; prodotti delle sottogriglie 2x2 non tutti divisibili per 16*
+*Griglia 4x4 con numeri; i prodotti delle sottogriglie 2x2 non sono tutti divisibili per 16*
 
-> È possibile scrivere i numeri $17, 18, 19, \ldots, 32$ in una griglia di quadrati unitari $4 \times 4$, con un numero in ogni quadrato, in modo che il prodotto dei numeri in ciascuna sottogriglia $2 \times 2$ $AMRG$, $GRND$, $MBHR$ e $RHCN$ sia divisibile da $16$?
+> È possibile scrivere i numeri $17, 18, 19, \ldots, 32$ in una griglia $4 \times 4$ di quadrati unitari, con un numero in ciascun quadrato, in modo che il prodotto dei numeri in ciascuna sottogriglia $2 \times 2$ $AMRG$, $GRND$, $MBHR$ e $RHCN$ sia divisibile per $16$?
 
 ![[src_rmo_2014_r1__q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2014_r1#q04|src_rmo_2014_r1__Q04]]
 
 
 
@@ -141,9 +169,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto, ortocentro, circoncircoli: trovare il punto X indipendente da P*
+*Triangolo acuto, ortocentro, circonferenze circoscritte: trovare il punto X indipendentemente da P*
 
-> Lasciate che $ABC$ sia un triangolo a angolo acuto e che $H$ sia il suo centro orto. Per ogni punto $P$ sul circoncircolo del triangolo $ABC$, $Q$ deve essere il punto di intersezione della linea $BH$ con la linea $AP$. Indicare che sul circoncircolo di $ABC$ vi è un punto unico $X$ tale che per ogni punto $P \neq A, B$ il circoncircolo di $HQP$ passi attraverso $X$.
+> Sia $ABC$ un triangolo acutangolo e sia $H$ il suo ortocentro. Per ogni punto $P$ sulla circonferenza circoscritta al triangolo $ABC$, sia $Q$ il punto di intersezione della retta $BH$ con la retta $AP$. Dimostrare che esiste un unico punto $X$ sulla circonferenza circoscritta a $ABC$ tale che, per ogni punto $P \neq A, B$, la circonferenza circoscritta a $HQP$ passi per $X$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2014_r1#q05|src_rmo_2014_r1__Q05]]
 
 
 
@@ -167,6 +202,14 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rali positivi sommati a 1; trovare il più piccolo K per la disuguaglianza sommata*
+*Numeri reali positivi la cui somma è 1; trovare il più piccolo K per la disuguaglianza sulla somma*
 
-> $x_1, x_2, \ldots, x_{2014}$ siano numeri reali positivi come $\sum_{j=1}^{2014} x_j = 1$. Determinare con prova la costante più piccola $K$ in modo tale che $$K \sum_{j=1}^{2014} \frac{x_j^2}{1 - x_j} \ge 1.$$
+> Siano $x_1, x_2, \ldots, x_{2014}$ numeri reali positivi tali che $\sum_{j=1}^{2014} x_j = 1$. Determinare, con dimostrazione, la più piccola costante $K$ tale che
+> $$K \sum_{j=1}^{2014} \frac{x_j^2}{1 - x_j} \ge 1.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2014_r1#q06|src_rmo_2014_r1__Q06]]

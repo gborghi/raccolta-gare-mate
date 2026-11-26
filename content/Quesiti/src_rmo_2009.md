@@ -29,9 +29,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare l'angolo BAC in triangolo a stelle uguali con condizione di incentro*
+*Trovare l'angolo BAC in un triangolo isoscele con la condizione dell'incentro*
 
-> Che $ABC$ sia un triangolo nel quale $AB = AC$ e che $I$ sia il suo centro. Supponiamo $BC = AB + AI$. Trova $\angle BAC$.
+> Sia $ABC$ un triangolo in cui $AB = AC$ e sia $I$ il suo incentro. Si supponga $BC = AB + AI$. Si determini $\angle BAC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2009#q01|src_rmo_2009__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nessun intero a rende a2−3a−19 divisibile per 289*
+*Nessun numero intero a rende a²−3a−19 divisibile per 289*
 
-> Indicare che non esiste un intero $a$ tale che $a^2 - 3a - 19$ sia divisibile da $289$.
+> Dimostrare che non esiste alcun intero $a$ tale che $a^2 - 3a - 19$ sia divisibile per $289$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2009#q02|src_rmo_2009__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scrivere 3^2008+4^2009 come prodotto di due enti ciascuno >2009^182*
+*Scrivi 3^2008+4^2009 come prodotto di due interi, ciascuno maggiore di 2009^182*
 
-> Mostrare che $3^{2008} + 4^{2009}$ può essere scritto come il prodotto di due numeri interi positivi ognuno dei quali è più grande di $2009^{182}$.
+> Dimostrare che $3^{2008} + 4^{2009}$ può essere scritto come prodotto di due interi positivi, ciascuno dei quali è maggiore di $2009^{182}$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2009#q03|src_rmo_2009__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di tutti i numeri a 3 cifre con almeno una cifra impar e una cifra pari*
+*Somma di tutti i numeri di tre cifre che hanno almeno una cifra dispari e una cifra pari*
 
-> Trova la somma di tutti i numeri naturali a 3 cifre che contengono almeno una cifra strana e almeno una cifra pari.
+> Trovare la somma di tutti i numeri naturali di tre cifre che contengono almeno una cifra dispari e almeno una cifra pari.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2009#q04|src_rmo_2009__Q04]]
 
 
 
@@ -135,15 +163,22 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Poligono converso Γ con diametro ≤1: distanza di confine e punto medio interno sul confine*
+*Poligono convesso Γ con diametro ≤1: distanza dal bordo e punto medio interno sul bordo*
 
-> Un poligono converso $\Gamma$ è tale che la distanza tra due vertici di $\Gamma$ non superi $1$.
-> 
-> (i) dimostrare che la distanza tra due punti del confine di $\Gamma$ non supera $1$.
-> 
-> (ii) Se $X$ e $Y$ sono due punti distinti all'interno di $\Gamma$, dimostrare che esiste un punto $Z$ sul confine di $\Gamma$ tale che $XZ + YZ \le 1$.
+> Un poligono convesso $\Gamma$ è tale che la distanza tra due qualsiasi vertici di $\Gamma$ non supera $1$.
+>
+> (i) Dimostrare che la distanza tra due punti qualsiasi sul bordo di $\Gamma$ non supera $1$.
+>
+> (ii) Se $X$ e $Y$ sono due punti distinti all'interno di $\Gamma$, dimostrare che esiste un punto $Z$ sul bordo di $\Gamma$ tale che $XZ + YZ \le 1$.
 
 ![[src_rmo_2009__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2009#q05|src_rmo_2009__Q05]]
 
 
 
@@ -166,6 +201,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pagine strappate dal libro 1100 con 4949 pagine rimanenti; trovate il conteggio strappato*
+*Pagine strappate dai libri 1–100, con somma delle pagine rimanenti pari a 4949; determina il numero di pagine strappate*
 
-> In un libro con pagine numerate da $1$ a $100$, alcune pagine vengono strappate. La somma dei numeri delle pagine restanti è $4949$. Quante pagine sono state strappate?
+> In un libro le cui pagine sono numerate da $1$ a $100$, alcune pagine sono state strappate. La somma dei numeri delle pagine rimanenti è $4949$. Quante pagine sono state strappate?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2009#q06|src_rmo_2009__Q06]]

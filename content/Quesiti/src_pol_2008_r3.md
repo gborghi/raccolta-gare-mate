@@ -30,9 +30,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove un limite inferiore per una somma ponderata di inversi data una disposizione speciale di 1..n^2 su una scheda n ×n con una cella scelta per riga e colonna.*
+*Numeri da 1 a n^2 in ordine su una scacchiera, una permutazione di caselle: una somma di quadrati fratti ha una minorazione*
 
-> I numeri $1, 2, \ldots, n^2$ sono disposti nelle celle di una tabella $n \times n$ in modo tale che i numeri $1, \ldots, n$ siano nella prima riga (in questo ordine), $n+1, \ldots, 2n$ nella seconda, ecc. Scegliamo le celle $n$ della scheda, nessuna delle quali è nella stessa riga o colonna. Il numero $a_i$ deve essere il numero scelto nella riga $i$. Provare che $$\frac{1^2}{a_1} + \frac{2^2}{a_2} + \cdots + \frac{n^2}{a_n} \ge \frac{n+2}{2} - \frac{1}{n^2+1}.$$
+> I numeri $1, 2, \ldots, n^2$ sono disposti nelle caselle di una scacchiera $n \times n$ in modo che i numeri $1, \ldots, n$ stiano nella prima riga, in quest'ordine, $n+1, \ldots, 2n$ nella seconda, e così via. Si scelgono $n$ caselle, due delle quali non stanno mai nella stessa riga o nella stessa colonna. Sia $a_i$ il numero scelto nella $i$-esima riga. Dimostrare che
+>
+> $$\frac{1^2}{a_1} + \frac{2^2}{a_2} + \cdots + \frac{n^2}{a_n} \ge \frac{n+2}{2} - \frac{1}{n^2+1}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2008_r3#q01|src_pol_2008_r3__Q01]]
 
 
 
@@ -58,9 +66,21 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un'equazione funzionale simmetrica a tre variabili che somma ciclicamente oltre cinque variabili alla loro somma; dimostrare l'identità ciclica analoga per qualsiasi n>=5 reali.*
+*Funzione di tre variabili con un'identità su cinque argomenti: la stessa identità vale su n argomenti, per n almeno 5*
 
-> Una funzione $f$ in tre variabili reali soddisfa per qualsiasi $a, b, c, d, e$ l'uguaglianza $$f(a,b,c) + f(b,c,d) + f(c,d,e) + f(d,e,a) + f(e,a,b) = a + b + c + d + e.$$ Prove che per qualsiasi numero reale $x_1, \ldots, x_n$ ($n \ge 5$) si ritiene che $$f(x_1,x_2,x_3) + f(x_2,x_3,x_4) + \cdots + f(x_n,x_1,x_2) = x_1 + x_2 + \cdots + x_n.$$
+> Una funzione $f$ di tre variabili reali soddisfa, per ogni $a, b, c, d, e$, l'uguaglianza
+>
+> $$f(a,b,c) + f(b,c,d) + f(c,d,e) + f(d,e,a) + f(e,a,b) = a + b + c + d + e.$$
+>
+> Dimostrare che, per tutti i numeri reali $x_1, \ldots, x_n$ ($n \ge 5$), vale
+>
+> $$f(x_1,x_2,x_3) + f(x_2,x_3,x_4) + \cdots + f(x_n,x_1,x_2) = x_1 + x_2 + \cdots + x_n.$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali e successioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2008_r3#q02|src_pol_2008_r3__Q02]]
 
 
 
@@ -83,9 +103,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un ABCDE pentagonale convexo con condizioni di lato e angolo uguali, dimostrare che BCDE è un parallelo.*
+*Pentagono convesso con BC = DE e quattro condizioni sugli angoli: BCDE è un parallelogramma*
 
-> Un pentagono convexo $ABCDE$ è tale che $BC = DE$, $\angle ABE = \angle CAB = \angle AED - 90^\circ$ e $\angle ACB = \angle ADE$. Provare che $BCDE$ è un parallelo.
+> Un pentagono convesso $ABCDE$ è tale che $BC = DE$, $\angle ABE = \angle CAB = \angle AED - 90^\circ$ e $\angle ACB = \angle ADE$. Dimostrare che $BCDE$ è un parallelogramma.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2008_r3#q03|src_pol_2008_r3__Q03]]
 
 
 
@@ -108,9 +134,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I punti di piano con le coordinate dei numeri interi sono di 2 colori; mostrano l'esistenza di un sottogruppo monocromatico infinito, centralmente simmetrico.*
+*Reticolo intero colorato di bianco o di nero: esiste un sottoinsieme infinito, a simmetria centrale e monocromatico*
 
-> Ogni punto di un piano con coordinate interi è dipinto in bianco o nero. Mostrare che esiste un sottogruppo infinito e centralmente simmetrico di punti colorati i cui punti sono dello stesso colore.
+> Ogni punto del piano a coordinate intere è colorato di bianco o di nero. Dimostrare che esiste un sottoinsieme infinito e a simmetria centrale di questi punti, tutti dello stesso colore.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2008_r3#q04|src_pol_2008_r3__Q04]]
 
 
 
@@ -133,9 +165,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se tutte le sezioni di un parallelepiped attraverso i punti medi di tre bordi non paralleli disgiunti in coppia hanno una superficie uguale, dimostrare che è un cuboide.*
+*Parallelepipedo le cui sezioni per i punti medi di tre spigoli disgiunti e non paralleli hanno la stessa area: è rettangolo*
 
-> Le superfici di tutte le sezioni di un parallelepiped $\mathscr{R}$ per piano, che attraversano i punti medi di tre bordi disgiunti e non paralleli in coppia, sono uguali. Indicare che $\mathscr{R}$ è un cuboide.
+> Le aree di tutte le sezioni di un parallelepipedo $\mathscr{R}$ con piani passanti per i punti medi di tre spigoli a due a due disgiunti e non paralleli sono uguali. Dimostrare che $\mathscr{R}$ è un parallelepipedo rettangolo.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_pol_2008_r3#q05|src_pol_2008_r3__Q05]]
 
 
 
@@ -158,6 +196,12 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per S = integri della forma a^2+5b^2 con coprimo a,b, e un primo p3 mod 4: se qualche multiplo di p è in S, dimostra che 2p è in S.*
+*Numeri della forma a^2 + 5b^2 con a, b coprimi: se un multiplo di un primo congruo a 3 modulo 4 vi appartiene, vi appartiene anche il doppio del primo*
 
-> $S$ sia l'insieme di integri positivi che possono essere scritti nella forma $a^2 + 5b^2$ per alcuni integri co-prime $a$ e $b$. Il modulo $p$ deve essere un primo congruente a $3$ modulo $4$. Prove che se qualche multiple integrale di $p$ appartiene a $S$, allora $2p$ appartiene anche a $S$.
+> Sia $S$ l'insieme degli interi positivi che si possono scrivere nella forma $a^2 + 5b^2$ per qualche coppia di interi coprimi $a$ e $b$. Sia $p$ un primo congruo a $3$ modulo $4$. Dimostrare che, se qualche multiplo intero di $p$ appartiene a $S$, allora anche $2p$ appartiene a $S$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2008_r3#q06|src_pol_2008_r3__Q06]]

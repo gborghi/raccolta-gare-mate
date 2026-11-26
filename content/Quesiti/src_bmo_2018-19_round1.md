@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare l'aumento delle liste di cinque moltipli a due cifre di 3 utilizzando ciascuna cifra esattamente una volta*
+*Conta le liste crescenti di cinque multipli di 3 a due cifre, utilizzando ciascuna cifra esattamente una volta*
 
-> Una lista di cinque interi positivi a due cifre è scritta in ordine crescente su una lavagna. Ciascuno dei cinque enti è un multiple di 3, e ogni cifra $0,1,2,3,4,5,6,7,8,9$ appare esattamente una volta sulla lavagna. In quanti modi si può farlo? Si noti che un numero a due cifre non può iniziare con la cifra $0$.
+> Su una lavagna sono scritti, in ordine crescente, cinque numeri interi positivi di due cifre. Ciascuno dei cinque numeri è multiplo di 3, e ciascuna cifra $0,1,2,3,4,5,6,7,8,9$ compare esattamente una volta sulla lavagna. In quanti modi si può procedere? Si noti che un numero di due cifre non può iniziare con la cifra $0$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2018-19_round1#q01|src_bmo_2018-19_round1__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine quante n in [3,2018] consentono un anello di interi positivi con prodotti limitati vicini*
+*Determinare quanti numeri n in [3,2018] consentono un anello n di numeri interi positivi con prodotti tra elementi vicini limitati*
 
-> Per ogni intero positivo $n \ge 3$, definiamo un $n$-anello come un'arrangiamento circolare di integri positivi $n$ (non necessariamente diversi) in modo tale che il prodotto di tutti e tre integri vicini sia nell'intervallo $3 \le s \le 2018$ per gli integri nell'intervallo. Determinare il numero di integri $n$ nell'intervallo $3 \le n \le 2018$ per i quali è possibile formare un anello $n$.
+> Per ogni numero intero positivo $n \ge 3$, definiamo un anello $n$ come una disposizione circolare di $n$ numeri interi positivi (non necessariamente distinti) tale che il prodotto di tre numeri interi consecutivi qualsiasi appartenga all'intervallo $3 \le s \le 2018$ per i numeri interi compresi nell'intervallo. Determinare il numero di numeri interi $n$ nell'intervallo $3 \le n \le 2018$ per i quali è possibile formare un anello $n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2018-19_round1#q02|src_bmo_2018-19_round1__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determina tutti i prodotti T ottenuti da due coppie di integri che differiscono ciascuna di 9*
+*Determinare tutti i prodotti T ottenibili mediante due coppie di interi, ciascuna delle quali presenta una differenza di 9*
 
-> Ares moltiplica due numeri interi che differiscono di 9. Grace moltiplica due numeri interi che differiscono di 9. Essi ottengono lo stesso prodotto $T$. Determinare tutti i possibili valori di $T$.
+> Ares moltiplica due numeri interi la cui differenza è 9. Grace moltiplica due numeri interi la cui differenza è 9. Ottengono lo stesso prodotto $T$. Determinare tutti i valori possibili di $T$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2018-19_round1#q03|src_bmo_2018-19_round1__Q03]]
 
 
 
@@ -106,11 +127,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove l'eguaglianza angolare che coinvolge linee tangenti a un semicircolo*
+*Dimostrazione dell'uguaglianza degli angoli che coinvolge le tangenti a un semicerchio*
 
-> Il $\Gamma$ deve essere un semicircolo di diametro $AB$. Il punto $C$ si trova sul diametro $AB$ e i punti $D$ e $E$ si trovano sull'arco $BA$, con $E$ tra $B$ e $D$. Lasciate che le tangenti di $\Gamma$ a $D$ e $E$ si incontrino a $F$.
-> 
-> Prove che $\angle EFD = \angle ACD + \angle ECB$.
+> Sia $\Gamma$ un semicerchio di diametro $AB$. Il punto $C$ giace sul diametro $AB$, e i punti $D$ e $E$ giacciono sull'arco $BA$, con $E$ compreso tra $B$ e $D$. Siano le tangenti a $\Gamma$ nei punti $D$ e $E$ che si incontrano in $F$.
+>
+> Dimostrare che $\angle EFD = \angle ACD + \angle ECB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2018-19_round1#q04|src_bmo_2018-19_round1__Q04]]
 
 
 
@@ -133,9 +161,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le dimensioni possibili di due cilindri simili con altezza somma 1 e volume somma 8pi*
+*Trovare tutte le dimensioni possibili di due cilindri simili con somma delle altezze pari a 1 e somma dei volumi pari a 8π*
 
-> Due cilindri solidi sono matematicamente simili. La somma delle loro altezze è $1$. La somma dei loro volumi è $8\pi$. Trova tutte le possibilità per le dimensioni di ciascun cilindro.
+> Due cilindri solidi sono simili dal punto di vista matematico. La somma delle loro altezze è $1$. La somma dei loro volumi è $8\pi$. Determinare tutte le possibilità per le dimensioni di ciascun cilindro.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_bmo_2018-19_round1#q05|src_bmo_2018-19_round1__Q05]]
 
 
 
@@ -158,6 +193,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la potenza più alta di 10 dividendo il numero di viaggi chiusi delle formiche in 2018*
+*Trovare la massima potenza di 10 che divide il numero dei percorsi chiusi di 2018 passi dell'ant*
 
-> Ada la formica inizia a un punto $O$ su un piano. All'inizio di ogni minuto sceglie Nord, Sud, Est o Ovest, e marcia 1 metro in quella direzione. Alla fine del 2018 si ritrova a $O$. Che il numero di viaggi possibili che avrebbe potuto fare sia $n$. Qual è la potenza massima di 10 che divide $n$?
+> La formica Ada parte da un punto $O$ su un piano. All'inizio di ogni minuto sceglie Nord, Sud, Est o Ovest e marcia per 1 metro in quella direzione. Alla fine di 2018 minuti si ritrova di nuovo in $O$. Sia $n$ il numero dei possibili percorsi che avrebbe potuto compiere. Qual è la massima potenza di 10 che divide $n$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2018-19_round1#q06|src_bmo_2018-19_round1__Q06]]

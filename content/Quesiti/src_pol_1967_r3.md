@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con recidiva: dimostrare tutti i termini positivi*
+*Successione con ricorrenza: dimostrare che tutti i termini sono positivi*
 
-> I numeri reali $a_1, a_2, \ldots, a_n$ ($n \ge 3$) soddisfano le condizioni $a_1 = a_n = 0$ e $a_{k-1} + a_{k+1} \ge 2a_k$ per $k = 2, 3, \ldots, n-1$. Prove che nessuno dei numeri $a_1, a_2, \ldots, a_n$ è positivo.
+> I numeri reali $a_1, a_2, \ldots, a_n$ ($n \ge 3$) soddisfano le condizioni $a_1 = a_n = 0$ e $a_{k-1} + a_{k+1} \ge 2a_k$ per $k = 2, 3, \ldots, n-1$. Dimostrare che nessuno dei numeri $a_1, a_2, \ldots, a_n$ è positivo.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1967_r3#q01|src_pol_1967_r3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*100 persone in una sala; dimostrare che esistono 4 persone che si conoscono reciprocamente*
+*In una sala ci sono 100 persone; dimostrare che esistono 4 persone che si conoscono a vicenda*
 
-> Ci sono 100 persone in una sala, ognuno conosce almeno 66 degli altri. Prove che c'è un caso in cui, tra tutti e quattro, due di loro si conoscono.
+> In una sala ci sono 100 persone, e ciascuna conosce almeno 66 delle altre. Dimostrare che esiste un caso in cui, tra quattro persone qualsiasi, due di esse si conoscono.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1967_r3#q02|src_pol_1967_r3__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due triangoli esterni; la linea attraverso due vertici separa la terza*
+*Due triangoli all'esterno; una retta passante per due vertici separa il terzo*
 
-> Sul piano sono posizionati due triangoli esterni l'uno all'altro. Mostrare che esiste sempre una linea che attraversa due vertici di un triangolo e separa il terzo vertice da tutti i vertici dell'altro triangolo.
+> Nel piano sono collocati due triangoli esterni l'uno all'altro. Dimostrare che esiste sempre una retta che passa per due vertici di uno dei triangoli e separa il terzo vertice da tutti i vertici dell'altro triangolo.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1967_r3#q03|src_pol_1967_r3__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*100 persone in sala; 4 che si conoscono tutti esistono*
+*Nella sala ci sono 100 persone; esistono 4 persone che si conoscono tutte*
 
-> Ci sono 100 persone in una sala, ognuno conosce almeno 67 degli altri. Prova che ci sono sempre quattro di loro che si conoscono.
+> In una sala ci sono 100 persone, e ciascuna conosce almeno 67 delle altre. Dimostrare che esistono sempre quattro di loro che si conoscono a vicenda.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1967_r3#q04|src_pol_1967_r3__Q04]]
 
 
 
@@ -132,9 +160,19 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque punti ABCDE nello spazio con lati e angoli uguali; dimostrare coplanare*
+*Cinque punti ABCDE nello spazio, con lati e angoli uguali; dimostrare che sono complanari*
 
-> I punti $A, B, C, D, E$ nello spazio hanno la proprietà che $$AB = BC = CD = DE = EA,$$ $$\angle ABC = \angle BCD = \angle CDE = \angle DEA = \angle EAB.$$ dimostra che i punti $A, B, C, D, E$ si trovano su un piano.
+> I punti $A, B, C, D, E$ nello spazio hanno la proprietà che
+> $$AB = BC = CD = DE = EA,$$
+> $$\angle ABC = \angle BCD = \angle CDE = \angle DEA = \angle EAB.$$
+> Dimostrare che i punti $A, B, C, D, E$ giacciono su un piano.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1967_r3#q05|src_pol_1967_r3__Q05]]
 
 
 
@@ -157,6 +195,13 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il poligono ciclico con lati unici e angoli uguali è regolare*
+*Un poligono ciclico con un numero dispari di lati e angoli uguali è regolare*
 
-> Prova che se un poligono ciclico con un numero impar di lati ha tutti gli angoli uguali, allora questo poligono è regolare.
+> Dimostrare che, se un poligono ciclico con un numero dispari di lati ha tutti gli angoli uguali, allora tale poligono è regolare.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1967_r3#q06|src_pol_1967_r3__Q06]]

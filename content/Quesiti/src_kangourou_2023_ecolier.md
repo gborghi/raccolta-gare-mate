@@ -43,21 +43,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which first went off*
+*Which candle went out first?*
 
 ![[src_kangourou_2023_ecolier__prob1.png]]
 
-> Aldo lit five identical candles, all at once. Each of them has been extinguished at different times: their present appearance is shown in the figure. Which candle went out first? A) A
-> 	
+> Aldo lit 5 identical candles, all at the same instant. Each of them went out at a different moment: their present appearance is shown by the picture. Which candle went out first?
+>
+> A) A
 > B) B
-> 	
 > C) C
-> 	
 > D) D
-> 	
 > E) E
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_ecolier#q01|src_kangourou_2023_ecolier__Q01]]
 
 
 
@@ -90,19 +92,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*from how many years*
+*In how many years shall we first be in a year the sum of whose digits is again 7?*
 
-> The sum of the digits of 2023 is 7. In how many years will we, for the first time, be in a year whose digits also sum to 7? A) 7
-> 	
+> The sum of the digits of 2023 is 7. In how many years shall we first be in a year the sum of whose digits is again 7?
+>
+> A) 7
 > B) 8
-> 	
 > C) 9
-> 	
 > D) 10
-> 	
 > E) 11
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_ecolier#q02|src_kangourou_2023_ecolier__Q02]]
 
 
 
@@ -136,13 +140,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*possible pair*
+*Which of these pairs of numbers is it possible that she sees in the holes after the rotation?*
 
 ![[src_kangourou_2023_ecolier__prob3.png]]
 
-> The figure shows the dial of a clock and what Sarah sees after she overlaps it with a dark circle with two holes. Now Sara rotates the circle around its center. Which of these number pairs can you possibly see in the holes after rotation? A) 4 and 9 B) 5 and 9 C) 5 and 10 D) 6 and 9 E) 7 and 12
+> The picture shows the face of a clock and what Sara sees after placing a dark circle with two holes over it. Now Sara rotates the circle about its centre. Which of these pairs of numbers is it possible that she sees in the holes after the rotation?
+>
+> A) 4 and 9
+> B) 5 and 9
+> C) 5 and 10
+> D) 6 and 9
+> E) 7 and 12
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_ecolier#q03|src_kangourou_2023_ecolier__Q03]]
 
 
 
@@ -174,13 +188,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*equal to*
+*Which are they?*
 
 ![[src_kangourou_2023_ecolier__prob4.png]]
 
-> Alice has the four pieces of cardboard you see in the figure: with two of them she can form the square here on the side. What are they? A) 1 and 2 B) 1 and 3 C) 1 and 4 D) 3 and 4 E) 2 and 4
+> Alice has the four pieces of card you see in the picture. With two of them she can form the square beside. Which are they?
+>
+> A) 1 and 2
+> B) 1 and 3
+> C) 1 and 4
+> D) 3 and 4
+> E) 2 and 4
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_ecolier#q04|src_kangourou_2023_ecolier__Q04]]
 
 
 
@@ -234,22 +258,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minutes with exactly two lights on*
+*For how many minutes in all are exactly two lights on at the same time?*
 
 ![[src_kangourou_2023_ecolier__prob5.png]]
 
-> In the theater, a lighting technician turns on and off colorful lights following this plan: For how many minutes exactly are there two lights on at the same time? A) 2
-> 	
-> B) 6
-> 	
-> C) 8
-> 	
-> D) 9
-> 	
-> E) 10 1 2 3 4 5 6 7 8 9 10 11 12 1 5 minutes Green Red Blue
+> In a theatre, a lighting technician switches coloured lights on and off according to this plan. For how many minutes in all are exactly two lights on at the same time?
 >
+> A) 2
+> B) 6
+> C) 8
+> D) 9
+> E) 10
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_ecolier#q05|src_kangourou_2023_ecolier__Q05]]
 
 
 
@@ -287,25 +312,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*image seen*
+*Which of these images did he see after the fold?*
 
 ![[src_kangourou_2023_ecolier__prob6.png]]
 
-> Carlo made some drawings on a transparent sheet and then 
-> folded it along the dashed line as shown in the figure.
-> Which of these images did he see after folding? 
-> A)	
->  	
->             B) 	
-> 	
-> C) 	
-> 	
->             D) 	
-> 	
-> 	
+> Carlo made some drawings on a transparent sheet and then folded it along the dashed line, as the picture shows. Which of these images did he see after the fold?
+>
+> A)
+> B)
+> C)
+> D)
 > E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_ecolier#q06|src_kangourou_2023_ecolier__Q06]]
 
 
 
@@ -343,21 +367,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*in how many ways*
+*In how many ways can she do it?*
 
 ![[src_kangourou_2023_ecolier__prob7.png]]
 
-> Anna has four discs of different sizes. She wants to construct a tower by overlapping 3 disks so that each disc is smaller than the disc on which it rests. How many ways can she do that? A) 1
-> 	
+> Anna has 4 discs of different sizes. She wants to build a tower by stacking 3 discs so that each disc is smaller than the disc it rests on. In how many ways can she do it?
+>
+> A) 1
 > B) 2
-> 	
 > C) 4
-> 	
 > D) 5
-> 	
 > E) 6
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_ecolier#q07|src_kangourou_2023_ecolier__Q07]]
 
 
 
@@ -395,21 +422,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which is not available*
+*Which of these figures can he not have obtained?*
 
 ![[src_kangourou_2023_ecolier__prob8.png]]
 
-> On the black circle Daniel glued the two grey figures you see on his right, not cutting them, but in some cases partially overlapping them. Which of these figures could he not have obtained? A)
-> 	
+> On the black circle Daniele stuck the two grey figures you see to its right, without cutting them, but in some cases overlapping them partly. Which of these figures can he not have obtained?
+>
+> A)
 > B)
->    	
 > C)
->   	
 > D)
-> 	
-> E) Questions from N. 9 to N. 16 are worth 4 points each.
+> E)
+>
+> Questions 9 to 16 are worth 4 points each.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_ecolier#q08|src_kangourou_2023_ecolier__Q08]]
 
 
 
@@ -442,15 +473,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which covers the dot*
+*Which shape will cover the dot indicated by the arrow?*
 
 ![[src_kangourou_2023_ecolier__prob9.png]]
 
-> Piera wants to cover the shape drawn here on the side with the five shapes that appear in the answers. What shape will cover the point indicated by the arrow? A) B) C)
-> 	
-> D) E)
+> Piera wants to cover the shape drawn beside with the 5 shapes that appear in the answers. Which shape will cover the dot indicated by the arrow?
+>
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2023_ecolier#q09|src_kangourou_2023_ecolier__Q09]]
 
 
 
@@ -484,22 +523,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*weight set aside*
+*Which weight did he set aside?*
 
 ![[src_kangourou_2023_ecolier__prob10.png]]
 
-> Robi has a two-pan balance and six weights:
-> of 1, 2, 3, 4, 5 and 6 kg. Robi puts five of the six
-> weights on the balance as suggested by the figure and sets aside the one left over. The balance
-> is in equilibrium. Which weight did he set aside?
-> A) The 1 kg one.
-> B) The 2 kg one.
-> C) The 3 kg one.
-> D) The 4 kg one.
-> E) It is not possible to determine it with certainty.
+> Robi has a two-pan balance and six weights: of 1, 2, 3, 4, 5 and 6 kg. Robi puts five of the six weights on the balance, as the picture suggests, and sets the remaining one aside. The balance is in equilibrium. Which weight did he set aside?
 >
+> A) The one of 1 kg.
+> B) The one of 2 kg.
+> C) The one of 3 kg.
+> D) The one of 4 kg.
+> E) It cannot be established with certainty.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2023_ecolier#q10|src_kangourou_2023_ecolier__Q10]]
 
 
 
@@ -535,19 +575,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which*
+*Which of the following can be her ruler?*
 
 ![[src_kangourou_2023_ecolier__prob11.png]]
 
-> Ada has a numbered line 60 cm long; most of the marks indicating millimeters and centimeters are missing on it. However, Ada can measure segments that are 10, 20, 30, 40, 50, or 60 centimeters long with a single measurement. Which of the following can be her line? A)
-> 	
+> Ada has a numbered ruler 60 cm long; on it most of the marks that indicate the millimetres and the centimetres are missing. However, Ada manages to measure, with a single measurement, segments 10, 20, 30, 40, 50 or 60 cm long. Which of the following can be her ruler?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
-> D) E)
+> D)
+> E)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_ecolier#q11|src_kangourou_2023_ecolier__Q11]]
 
 
 
@@ -583,21 +627,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many west of B Street*
+*How many houses are there to the west of Road B?*
 
 ![[src_kangourou_2023_ecolier__prob12.png]]
 
-> There are seven houses north of A Street, eight houses east of B Street and five houses south of A Street. How many houses are west of B Street? A) 4
->     	
+> There are 7 houses to the north of Road A, 8 houses to the east of Road B and 5 houses to the south of Road A. How many houses are there to the west of Road B?
+>
+> A) 4
 > B) 5
-> 	
 > C) 6
->    
 > D) 7
-> 	
 > E) 8
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2023_ecolier#q12|src_kangourou_2023_ecolier__Q12]]
 
 
 
@@ -631,19 +677,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many with 2*
+*How many cars contain exactly 2 people?*
 
-> Eight cars are in line at the port to board a ferry. Every car has two or three people. In total, these people are 19. How many cars contain exactly 2 people? A) 2
-> 	
+> At the port 8 cars are in a queue to board a ferry. Each car contains either 2 or 3 people. In all these people are 19. How many cars contain exactly 2 people?
+>
+> A) 2
 > B) 3
-> 	
 > C) 4
-> 	
 > D) 5
-> 	
 > E) 6
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_ecolier#q13|src_kangourou_2023_ecolier__Q13]]
 
 
 
@@ -682,21 +730,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*station of the 96th stop*
+*At which station will his 96th stop be?*
 
 ![[src_kangourou_2023_ecolier__prob14.png]]
 
-> A subway line has 6 stations A, B, C, D, E, F. The train stops at each station and, when it reaches one of the two terminals, reverses the heading. A driver started his service shift at station B and his first stop was at station C. What station will be his 96th stop? A) A
-> 	
+> A metro line has 6 stations A, B, C, D, E, F. The train stops at every station and, when it arrives at one of the two terminal stations, it reverses direction. A driver began his shift at station B and his first stop was at station C. At which station will his 96th stop be?
+>
+> A) A
 > B) B
-> 	
 > C) C
-> 	
 > D) D
-> 	
 > E) E
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_ecolier#q14|src_kangourou_2023_ecolier__Q14]]
 
 
 
@@ -733,21 +783,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min colours*
+*What is the smallest number of colours that is enough for her?*
 
 ![[src_kangourou_2023_ecolier__prob15.png]]
 
-> Luisa wants to color the circles in the figure so that each time two circles are connected by a segment, the two circles have different colors. What is the smallest number of colors she needs? A) 2
-> 	
+> Luisa wants to colour the circles in the picture so that, whenever two circles are joined by a segment, the two circles have different colours. What is the smallest number of colours that is enough for her?
+>
+> A) 2
 > B) 3
-> 	
 > C) 4
-> 	
 > D) 5
-> 	
 > E) 6
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_grafi|Graph theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_ecolier#q15|src_kangourou_2023_ecolier__Q15]]
 
 
 
@@ -800,41 +853,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*order of the paintings*
+*In what order will she see the paintings on the walls?*
 
 ![[src_kangourou_2023_ecolier__prob16.png]]
 
-> Sandra crosses a maze on two floors from the entrance to the exit, without ever retracing
-> her steps. In what order will she see the paintings on the walls?
-> A) 	
-> 	
-> B) 	
-> 	
-> C)	
->  	
-> D) 	
-> 	
-> E) 
-> Route A
-> Route B
-> West
-> East
-> South
-> North
-> A
-> B
-> C
-> D
-> E
-> F
-> Entrance
-> Exit
-> Ground floor
-> First floor
-> 
-> Questions from No. 17 to No. 24 are worth 5 points each
+> Sandra goes through a two-storey maze from the entrance to the exit, without ever retracing her steps. In what order will she see the paintings on the walls?
+>
+> A)
+> B)
+> C)
+> D)
+> E)
+>
+> Questions 17 to 24 are worth 5 points each.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2023_ecolier#q16|src_kangourou_2023_ecolier__Q16]]
 
 
 
@@ -872,21 +909,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following table shows the number of species of kangaroos:
+*Which of the following is the number of one of the two kangaroos?*
 
 ![[src_kangourou_2023_ecolier__prob17.png]]
 
-> Six koalas and two kangaroos are standing in line and each of them has been given a number, as you can see in the figure. Every three animals that have consecutive numbers, exactly one is a kangaroo. Which of the following is the number of one of the two kangaroos? A) 2
-> 	
+> Six koalas and two kangaroos are in a line and each of them has been given a number, as you see in the picture. Among every three animals that have consecutive numbers, exactly one is a kangaroo. Which of the following is the number of one of the two kangaroos?
+>
+> A) 2
 > B) 3
-> 	
 > C) 4
-> 	
 > D) 5
-> 	
 > E) 7
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_ecolier#q17|src_kangourou_2023_ecolier__Q17]]
 
 
 
@@ -925,21 +965,24 @@ The following table shows the number of species of kangaroos:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*open figure*
+*Which figure will appear?*
 
 ![[src_kangourou_2023_ecolier__prob18.png]]
 
-> Rebecca folds a square sheet of paper twice, as shown in the figure, where the dashed segments indicate the folding line. Then cut the angle along the segment indicated in the square you got. Finally she opens the sheet of paper. What figure will appear? A)
-> 	
+> Rebecca folds a square sheet of paper twice, as shown in the picture, where the dashed segments indicate the fold line. She then cuts the corner along the segment indicated in the square she has obtained. Finally she opens the sheet of paper. Which figure will appear?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_ecolier#q18|src_kangourou_2023_ecolier__Q18]]
 
 
 
@@ -974,19 +1017,22 @@ The following table shows the number of species of kangaroos:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many different*
+*In how many different orders can they enter?*
 
-> Elisa, Mario and Nicola always enter the dining room one at a time. Elisa is never the first, Mario is never the second and Nicola is never the third. How many different orders can they enter? A) 1
-> 	
+> Elisa, Mario and Nicola always enter the dining hall one at a time. Elisa is never first, Mario is never second and Nicola is never third. In how many different orders can they enter?
+>
+> A) 1
 > B) 2
-> 	
 > C) 3
-> 	
 > D) 4
-> 	
 > E) 6
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_ecolier#q19|src_kangourou_2023_ecolier__Q19]]
 
 
 
@@ -1023,21 +1069,23 @@ The following table shows the number of species of kangaroos:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which is correct*
+*Which clock shows the correct time?*
 
 ![[src_kangourou_2023_ecolier__prob20.png]]
 
-> There are five clocks on the wall. One clock is one hour ahead, one clock is one hour behind, one clock shows the correct time and two clocks are still. What clock shows the correct time? A) A
-> 	
+> On the wall there are five clocks. One clock is one hour fast, one clock is one hour slow, one clock shows the correct time and two clocks have stopped. Which clock shows the correct time?
+>
+> A) A
 > B) B
-> 	
 > C) C
-> 	
 > D) D
-> 	
 > E) E
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_ecolier#q20|src_kangourou_2023_ecolier__Q20]]
 
 
 
@@ -1066,17 +1114,15 @@ The following table shows the number of species of kangaroos:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*blue balls of Adam*
+*How many blue marbles does Adam have?*
 
-> Adam and Eve have 9 balls each: some are red, others are blue, and overall, the red balls are 8. Eve has a number of blue balls that is twice the number of her red balls. How many blue balls does Adam have?
+> Adam and Eve each have 9 marbles: some are red, the others are blue and, in all, the red marbles are 8. Eve has a number of blue marbles that is twice the number of her red marbles. How many blue marbles does Adam have?
 
-- A) 3
-- B) 4
-- C) 5
-- D) 6
-- E) 0
-
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_ecolier#q21|src_kangourou_2023_ecolier__Q21]]
 
 
 
@@ -1112,24 +1158,23 @@ The following table shows the number of species of kangaroos:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*order to obtain the result*
+*In what order must Elsa operate the two machines to obtain the result shown below?*
 
 ![[src_kangourou_2023_ecolier__prob22.png]]
 
-> Elsa has two "machines". Into each of them she can insert a square sheet of paper:
-> out of machine R comes the sheet rotated 90° clockwise, as the first figure
-> shows; on the other hand machine S stamps this image on the sheet:
-> , so that the sheet
-> when it comes out looks as shown in the second figure
-> In what order must Elsa operate the two machines to obtain the result shown
-> below?
-> A) SRR 		
-> B) RSR 		
-> C) RSS 		
-> D) RRS 		
+> Elsa has two machines. Into each she can feed a square sheet of paper: from machine R the sheet comes out rotated by 90° clockwise, as the first picture shows; machine S, instead, prints this image on the sheet, so that when the sheet comes out it has the appearance shown in the second picture. In what order must Elsa operate the two machines to obtain the result shown below?
+>
+> A) SRR
+> B) RSR
+> C) RSS
+> D) RRS
 > E) SRS
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_ecolier#q22|src_kangourou_2023_ecolier__Q22]]
 
 
 
@@ -1168,21 +1213,23 @@ The following table shows the number of species of kangaroos:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*shaded circle*
+*Which number did she write in the shaded circle?*
 
 ![[src_kangourou_2023_ecolier__prob23.png]]
 
-> In each of the circles in the figure, Elena wrote an integer number chosen from 1 to 7, using all of them. She made sure that whenever two circles are at the ends of a bar, the sum of the numbers in them is the number written next to the bar. What number did she write in the shaded circle? A) 1
-> 	
+> In each of the little circles in the picture Elena wrote an integer chosen from those from 1 to 7, using them all. She arranged that, whenever two little circles are at the ends of a little bar, the sum of the numbers in them is the number written beside the little bar. Which number did she write in the shaded circle?
+>
+> A) 1
 > B) 2
-> 	
 > C) 3
-> 	
 > D) 4
-> 	
 > E) 5
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_ecolier#q23|src_kangourou_2023_ecolier__Q23]]
 
 
 
@@ -1226,17 +1273,20 @@ The following table shows the number of species of kangaroos:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*guess the correct answer*
+*Which is the correct answer?*
 
 ![[src_kangourou_2023_ecolier__prob24.png]]
 
-> Maria blacked out exactly 5 boxes in a 4 × 4 grid. Then she challenged five of her friends to guess which boxes she blacked out. Their answers are those given below. After looking at their drawings, Maria says, "One of you guessed all the boxes and each of the others just 4 boxes". What's the correct answer? A) B)
-> 	
-> C)
-> 	
-> D)
->  	
-> E) 7 9 8 9 6 9 8
+> Maria blacked out exactly 5 cells in a 4 × 4 grid. She then challenged 5 of her friends to guess which cells she had blacked out. Their answers are those shown below. After seeing their drawings Maria says: "One of you guessed all the cells and each of the others only 4 cells." Which is the correct answer?
 >
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_ecolier#q24|src_kangourou_2023_ecolier__Q24]]

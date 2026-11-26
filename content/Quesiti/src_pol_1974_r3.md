@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel tetraedro ABCD con AB perpendicolare a CD e angolo ACB = angolo ADB, dimostrare che il piano attraversa AB e il punto medio del CD è perpendicolare a CD.*
+*Nel tetraedro ABCD, in cui AB è perpendicolare a CD e l'angolo ACB è uguale all'angolo ADB, dimostrare che il piano passante per AB e per il punto medio di CD è perpendicolare a CD.*
 
-> In un tetraedro $ABCD$ i bordi $AB$ e $CD$ sono perpendicolari e $\angle ACB = \angle ADB$. Provare che il piano attraverso $AB$ e il punto medio del bordo $CD$, è perpendicolare a $CD$.
+> In un tetraedro $ABCD$, i spigoli $AB$ e $CD$ sono perpendicolari e $\angle ACB = \angle ADB$. Dimostrare che il piano passante per $AB$ e per il punto medio dello spigolo $CD$ è perpendicolare a $CD$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1974_r3#q01|src_pol_1974_r3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un salmone passa due cascate ogni minuto con probabilità indipendenti p e q; calcola la probabilità che non abbia superato la prima in n minuti dato che non ha superato nessuna in quel tempo.*
+*Un salmone supera due cascate ogni minuto con probabilità indipendenti p e q; calcola la probabilità che non abbia superato la prima in n minuti, sapendo che in tale intervallo di tempo non ha superato nessuna delle due.*
 
-> Un salmone in un fiume di montagna deve superare due cascate. Ogni minuto, la probabilità del salmone di superare la prima cascata è $p > 0$, e la probabilità di superare la seconda cascata è $q > 0$. Si presume che questi due eventi siano indipendenti. Calcolare la probabilità che il salmone non abbia superato la prima cascata in $n$ minuti, supponendo che non abbia superato entrambe le cascate in quel periodo.
+> Un salmone in un fiume di montagna deve superare due cascate. Ogni minuto, la probabilità che il salmone superi la prima cascata è $p > 0$, e la probabilità che superi la seconda cascata è $q > 0$. Si assume che questi due eventi siano indipendenti. Calcola la probabilità che il salmone non abbia superato la prima cascata in $n$ minuti, supponendo che in tale intervallo di tempo non abbia superato entrambe le cascate.
+
+**Topic:** [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1974_r3#q02|src_pol_1974_r3__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per un numero naturale r, dimostrare che il quadratico x^2 - rx - 1 non divide alcun polinomio non zero con coefficienti interi tutti di valore assoluto inferiore a r.*
+*Per un numero naturale r, dimostrare che il polinomio quadratico x^2 - rx - 1 non divide alcun polinomio non nullo a coefficienti interi, i cui valori assoluti sono tutti minori di r.*
 
-> $r$ sia un numero naturale. Prova che il trinomio quadratico $x^2 - rx - 1$ non divide alcun polinomio non zero i cui coefficienti sono numeri interi con valori assoluti inferiori a $r$.
+> Sia $r$ un numero naturale. Dimostrare che il trinomio di secondo grado $x^2 - rx - 1$ non divide alcun polinomio non nullo i cui coefficienti siano numeri interi con valore assoluto minore di $r$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1974_r3#q03|src_pol_1974_r3__Q03]]
 
 
 
@@ -105,9 +126,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per ogni n naturale e reals a_1,...,a_n, dimostrare l'esistenza di un k naturale tale che la differenza assoluta della prima somma-k e del resto sia al massimo il valore assoluto massimo.*
+*Per ogni n naturale e per ogni a_1,...,a_n reali, dimostrare che esiste un k naturale tale che la differenza assoluta tra la somma dei primi k termini e la somma dei restanti termini sia al più il massimo valore assoluto.*
 
-> Prova che per ogni numero naturale $n$ e una sequenza di numeri reali $a_1, a_2, \ldots, a_n$ esiste un numero naturale $k$ che soddisfa $$\left| \sum_{i=1}^{k} a_i - \sum_{i=k+1}^{n} a_i \right| \le \max_{1 \le i \le n} |a_i|.$$
+> Dimostrare che per ogni numero naturale $n$ e una successione di numeri reali $a_1, a_2, \ldots, a_n$ esiste un numero naturale $k$ che soddisfa
+> $$\left| \sum_{i=1}^{k} a_i - \sum_{i=k+1}^{n} a_i \right| \le \max_{1 \le i \le n} |a_i|.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1974_r3#q04|src_pol_1974_r3__Q04]]
 
 
 
@@ -130,9 +159,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per naturali n, r con r+3 <= n, dimostrare che i coefficienti binomiali C(n,r), C(n,r+1), C(n,r+2), C(n,r+3) non possono essere termini successivi di una progressione aritmetica.*
+*Per n, r naturali tali che r+3 <= n, dimostrare che i coefficienti binomiali C(n,r), C(n,r+1), C(n,r+2), C(n,r+3) non possono essere termini consecutivi di una progressione aritmetica.*
 
-> Prova che per qualsiasi numero naturale $n, r$ con $r + 3 \le n$ i coefficienti binomiali $\binom{n}{r}$, $\binom{n}{r+1}$, $\binom{n}{r+2}$, $\binom{n}{r+3}$ non possono essere termini successivi di una progressione aritmetica.
+> Dimostrare che, per qualsiasi numero naturale $n, r$ con $r + 3 \le n$, i coefficienti binomiali $\binom{n}{r}$, $\binom{n}{r+1}$, $\binom{n}{r+2}$, $\binom{n}{r+3}$ non possono essere termini consecutivi di una progressione aritmetica.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1974_r3#q05|src_pol_1974_r3__Q05]]
 
 
 
@@ -158,6 +194,13 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Diagonali in un n-gon convex dividendo in triangoli in modo che ogni vertice ha un numero pari di diagonali tracciati e non due incrociati all'interno; provare n è divisibile per 3.*
+*Le diagonali di un n-gono convesso lo suddividono in triangoli in modo che ciascun vertice abbia un numero pari di diagonali tracciate e nessuna coppia di diagonali si intersechi all'interno del poligono; dimostrare che n è divisibile per 3.*
 
-> Sono disegnati diversi diagonali in un convex $n$-gon in modo da dividere il $n$-gon in triangoli e: (i) il numero di diagonali disegnati ad ogni vertice è pari; (ii) nessuno dei due diagonali ha un punto interno comune. Prova che $n$ è divisibile per $3$.
+> Vengono tracciate diverse diagonali di un $n$-gono convesso in modo da dividere l'$n$-gono in triangoli e: (i) il numero di diagonali tracciate in ciascun vertice è pari; (ii) nessuna coppia di diagonali ha un punto interno in comune. Dimostrare che $n$ è divisibile per $3$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_doppio_conteggio|Doppio conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_pol_1974_r3#q06|src_pol_1974_r3__Q06]]

@@ -33,11 +33,20 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale convex con uguale somma di quadrati di lati; trovare diagonale*
+*Quadrilatero convesso con somma uguale dei quadrati dei lati; trovare la diagonale*
 
-> Il $ABCD$ deve essere un quadrilaterale convexo con $AB = a$, $BC = b$, $CD = c$ e $DA = d$. Supponiamo che $$a^2 + b^2 + c^2 + d^2 = ab + bc + cd + da,$$ e la superficie di $ABCD$ sia di 60 unità quadrate. Se la lunghezza di una diagonale è di 30 unità, determinare la lunghezza dell'altra diagonale.
+> Sia $ABCD$ un quadrilatero convesso con $AB = a$, $BC = b$, $CD = c$ e $DA = d$. Supponiamo
+> $$a^2 + b^2 + c^2 + d^2 = ab + bc + cd + da,$$
+> E l'area di $ABCD$ è di 60 unità quadrate. Se la lunghezza di una delle diagonali è di 30 unità, determina la lunghezza dell'altra diagonale.
 
-*Apparizioni nelle regioni: Mumbai, Regione 5.*
+*Compare nelle regioni: Mumbai, Regione 5.*
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2015_mumbai#q01|src_rmo_2015_mumbai__Q01]]
 
 
 
@@ -60,9 +69,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri base-10 a 3 cifre con almeno un 5 e un massimo di 3*
+*Conta i numeri decimali a tre cifre che contengono almeno un 5 e al massimo un 3*
 
-> Determinare il numero di numeri a 3 cifre nella base 10 che hanno almeno un 5 e un 3 al massimo.
+> Determinare il numero di numeri di tre cifre in base 10 che hanno almeno un 5 e al massimo un 3.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2015_mumbai#q02|src_rmo_2015_mumbai__Q02]]
 
 
 
@@ -85,9 +101,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio non costante con coefficienti positivi: dimostra P(-2015)=0 impossibile*
+*Polinomio non costante a coefficienti positivi: dimostrare che P(-2015)=0 è impossibile*
 
-> Che $P(x)$ sia un polinomio non costante i cui coefficienti sono numeri interi positivi. Se $P(n)$ divide $P(P(n) - 2015)$ per ogni numero naturale positivo $n$, provare che $P(-2015) = 0$.
+> Sia $P(x)$ un polinomio non costante i cui coefficienti sono numeri interi positivi. Se $P(n)$ divide $P(P(n) - 2015)$ per ogni numero naturale positivo $n$, dimostrare che $P(-2015) = 0$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2015_mumbai#q03|src_rmo_2015_mumbai__Q03]]
 
 
 
@@ -110,9 +133,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i numeri a 3 cifre (abc) nella base 10, dove (abc), (bce), (cab) sono in progressione geometrica*
+*Trovare i numeri di tre cifre (abc) in base 10 tali che (abc), (bce) e (cab) siano in progressione geometrica*
 
-> Trova tutti i numeri naturali a tre cifre della forma $(abc)_{10}$ in modo tale che $(abc)_{10}$, $(bca)_{10}$ e $(cab)_{10}$ siano in progressione geometrica. (Qui $(abc)_{10}$ è la rappresentazione nella base 10.)
+> Trovare tutti i numeri naturali di tre cifre della forma $(abc)_{10}$ tali che $(abc)_{10}$, $(bca)_{10}$ e $(cab)_{10}$ siano in progressione geometrica. (Qui $(abc)_{10}$ è la rappresentazione in base 10.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2015_mumbai#q04|src_rmo_2015_mumbai__Q04]]
 
 
 
@@ -135,9 +165,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo rettangolo, incentri di subtriangoli e circoncircolo: dimostrare collinearità*
+*Triangolo rettangolo, incentri dei sottotriangoli e circonferenza circoscritta: dimostrare la collinearità*
 
-> Che $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$ e che $BD$ sia l'altitudine da $B$ a $AC$. Disegnare $DE \perp AB$ e $DF \perp BC$. I segmenti $P$, $Q$, $R$ e $S$ siano rispettivamente gli incentri dei triangoli $DFC$, $DBF$, $DEB$ e $DAE$. Prove che $P$, $Q$, $R$, $D$ si trovano su un cerchio.
+> Sia $ABC$ un triangolo rettangolo con $\angle B = 90^\circ$ e sia $BD$ l'altezza condotta da $B$ su $AC$. Traccia $DE \perp AB$ e $DF \perp BC$. Siano $P$, $Q$, $R$ e $S$ rispettivamente gli incentri dei triangoli $DFC$, $DBF$, $DEB$ e $DAE$. Dimostrare che $P$, $Q$, $R$, $D$ giacciono su una circonferenza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2015_mumbai#q05|src_rmo_2015_mumbai__Q05]]
 
 
 
@@ -162,9 +199,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei tripli ordinati di sottoinsiemi la cui unione è S; trovare in termini di n*
+*Somma sui tripletti ordinati di sottoinsiemi la cui unione è S; esprimi il risultato in funzione di n*
 
-> $S = \{1, 2, \ldots, n\}$ e $T$ siano l'insieme di tutti i triples ordinati dei sottoinsiemi di $S$, ad esempio $(A_1, A_2, A_3)$, in modo tale che $A_1 \cup A_2 \cup A_3 = S$. Determinare, in termini di $n$, $$\sum_{(A_1,A_2,A_3)\in T} |A_1 \cap A_2 \cap A_3|$$ dove $|X|$ indica il numero di elementi nell'insieme $X$.
+> Sia $S = \{1, 2, \ldots, n\}$ e sia $T$ l'insieme di tutte le terne ordinate di sottoinsiemi di $S$, diciamo $(A_1, A_2, A_3)$, tali che $A_1 \cup A_2 \cup A_3 = S$. Determina, in termini di $n$,
+> $$\sum_{(A_1,A_2,A_3)\in T} |A_1 \cap A_2 \cap A_3|$$
+> dove $|X|$ denota il numero di elementi nell'insieme $X$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2015_mumbai#q06|src_rmo_2015_mumbai__Q06]]
 
 
 
@@ -190,11 +236,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza (1+x)(1+y)(1+z) ≤ 4+4xyz per x2+y2+z2-2xyz=1*
+*Dimostrare la disuguaglianza (1+x)(1+y)(1+z) ≤ 4+4xyz per x²+y²+z²-2xyz=1*
 
-> $x, y, z$ siano numeri reali come $x^2 + y^2 + z^2 - 2xyz = 1$. Provare che $$(1+x)(1+y)(1+z) \le 4 + 4xyz.$$
+> Siano $x, y, z$ numeri reali tali che $x^2 + y^2 + z^2 - 2xyz = 1$. Dimostrare che
+> $$(1+x)(1+y)(1+z) \le 4 + 4xyz.$$
 
-*Apparizioni nelle regioni: Mumbai, Regione 5.*
+*Compare nelle regioni: Mumbai, Regione 5.*
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2015_mumbai#q07|src_rmo_2015_mumbai__Q07]]
 
 
 
@@ -219,8 +273,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale converso con lati interi positivi: dimostrare che alcuni due lati sono uguali*
+*Quadrilatero convesso ABCD con lati interi positivi: dimostrare che almeno due lati sono uguali*
 
-> La lunghezza di ciascun lato di un quadrilaterale converso $ABCD$ è un intero positivo. Se la somma delle lunghezze di qualsiasi tre lati è divisibile per la lunghezza del lato rimanente, allora dimostrare che alcuni due lati del quadrilaterale hanno la stessa lunghezza.
+> La lunghezza di ciascun lato di un quadrilatero convesso $ABCD$ è un numero intero positivo. Se la somma delle lunghezze di tre lati qualsiasi è divisibile per la lunghezza del lato rimanente, allora dimostrare che due lati del quadrilatero hanno la stessa lunghezza.
 
-*Apparizioni nelle regioni: Mumbai, Regione 5.*
+*Compare nelle regioni: Mumbai, Regione 5.*
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2015_mumbai#q08|src_rmo_2015_mumbai__Q08]]

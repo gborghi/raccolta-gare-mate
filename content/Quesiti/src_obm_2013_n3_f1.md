@@ -32,13 +32,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'anno successivo dopo il 2013 i cui numeri sono di nuovo 0,1,2,3 in qualche ordine*
+*L'anno successivo al 2013, il cuile sono di nuovo 0, 1, 2, 3 in un certo ordine*
 
-> Le cifre di quest'anno, 2013, sono $0$, $1$, $2$ e $3$, ovviamente non in questo ordine. Da ora in poi, in quanti anni si verificerà l'anno successivo i cui numeri sono $0$, $1$, $2$ e $3$ di nuovo?
-> 
+> Le cifre di quest'anno, 2013, sono $0$, $1$, $2$ e $3$, ovviamente non in quest'ordine. Da ora in poi, tra quanti anni ricorrerà il prossimo anno le cui cifre saranno di nuovo $0$, $1$, $2$ e $3$?
+>
 > (A) $2$ \quad (B) $9$ \quad (C) $18$ \quad (D) $90$ \quad (E) $1800$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n3_f1#q01|src_obm_2013_n3_f1__Q01]]
 
 
 
@@ -63,13 +68,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Acquisto di un computer oggi rispetto a dopo un aumento del prezzo del 5% e uno sconto del 5%*
+*Acquistare un computer oggi rispetto all'acquisto dopo un aumento del 5% e uno sconto del 5%*
 
-> Se Joana acquista oggi un computer il cui prezzo è $2000$ reais, riceverà uno sconto di $5\%$. Se aspetta fino a domani riceverà lo stesso sconto di $5\%$, ma il prezzo del computer sarà aumentato di $5\%$. Quindi, se aspetta, cosa succederà?
-> 
-> (A) Niente, visto che pagherà la stessa somma. Quad (B) Perderà reais. \quad (C) Otterrà $105$ reais. Quad (D) Perderà i reais. Quad (E) Perderà $105$ reais.
+> Se oggi Joana compra un computer il cui prezzo è di $2000$ reais, otterrà uno sconto di $5\%$. Se aspetta fino a domani, otterrà lo stesso sconto di $5\%$, ma il prezzo del computer sarà aumentato di $5\%$. Quindi, se aspetta, cosa succederà?
+>
+> (A) Niente, visto che pagherà la stessa cifra. \quad (B) Perderà $100$ reais. \quad (C) Guadagnerà $105$ reais. \quad (D) Perderà $95$ reais. \quad (E) Perderà $105$ reais.
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n3_f1#q02|src_obm_2013_n3_f1__Q02]]
 
 
 
@@ -94,11 +103,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Regola di divisibilità errata per 7 (somma a numeri): frequenza corretta per i moltipli di 7 sotto 100*
+*Regola difettosa della divisibilità per 7 (somma delle cifre): con quale frequenza è corretta per i multipli di 7 inferiori a 100*
 
-> Lo studente $D$ (utilizzando questo nome di codice per proteggere l'identità dello studente) non ha prestato attenzione in classe e non ha imparato a controllare, senza eseguire la divisione, se un numero è un multiple di $7$ o meno. Quindi, $D$ ha deciso di usare la seguente regola: somma le cifre e verifica se il risultato è un multiple di $7$. Per quanti numeri interi positivi inferiori a $100$ questo metodo errato indicherà che un numero è un multiple di $7$, mentre il numero è effettivamente un multiple di $7$?
-> 
+> Lo studente $D$ (utilizziamo questo nome in codice per proteggere l'identità dello studente) non ha prestato attenzione in classe e non ha imparato a verificare, senza eseguire la divisione, se un numero è o meno multiplo di $7$. Pertanto, $D$ ha deciso di usare la regola seguente: somma le cifre e verifica se il risultato è multiplo di $7$. Per quanti interi positivi minori di $100$ questo metodo errato indicherà che un numero è multiplo di $7$, pur essendo il numero in realtà multiplo di $7$?
+>
 > (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $3$ \quad (E) $4$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n3_f1#q03|src_obm_2013_n3_f1__Q03]]
 
 
 
@@ -123,11 +139,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tra 1..n con un dato conteggio di multipli di 5 e 6, multipli massimi di 7*
+*Tra 1..n, con i numeri dati di multipli di 5 e di 6, massimo numero di multipli di 7*
 
-> Tra i numeri naturali da $1$ a $n$, almeno $11$ sono divisibili da $5$ e al massimo $9$ sono divisibili da $6$. Al massimo, quanti di questi numeri sono divisibili per $7$?
-> 
+> Tra i numeri naturali da $1$ a $n$, almeno $11$ sono divisibili per $5$ e al massimo $9$ sono divisibili per $6$. Al massimo, quanti di questi numeri sono divisibili per $7$?
+>
 > (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $7$ \quad (E) $8$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n3_f1#q04|src_obm_2013_n3_f1__Q04]]
 
 
 
@@ -152,11 +175,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserimento di colonna di boustropedone del 1..2013; colonna 2 contiene 50, colonna 4 contiene 100, trova colonna di 1000*
+*Riempimento a bustrofedo della colonna da 1 a 2013; la colonna 2 contiene 50, la colonna 4 contiene 100; trova la colonna con 1000*
 
-> Joana riempie completamente una griglia rettangolare scrivendo i numeri da $1$ a $2013$, un numero in ogni cella. Comincia nella prima colonna e la riempie dall'alto verso il basso; poi riempie la seconda colonna da basso verso l'alto, e continua in questa direzione, riempendo la terza colonna dall'alto verso il basso, la quarta, ecc., fino a raggiungere l'ultima colonna e finire nell'angolo inferiore-destra. Il numero $50$ è nella seconda colonna e il numero $100$ è nella quarta colonna. In quale colonna è scritto il numero $1000$?
-> 
+> Joana riempie completamente una griglia rettangolare scrivendo i numeri da $1$ a $2013$, un numero per cella. Inizia nella prima colonna e la riempie dall'alto verso il basso; poi riempie la seconda colonna dal basso verso l'alto, e continua così: riempie la terza colonna dall'alto verso il basso, la quarta, ecc., finché non raggiunge l'ultima colonna e termina nell'angolo in basso a destra. Il numero $50$ si trova nella seconda colonna e il numero $100$ si trova nella quarta colonna. In quale colonna è scritto il numero $1000$?
+>
 > (A) $23$ \quad (B) $31$ \quad (C) $33$ \quad (D) $39$ \quad (E) $61$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n3_f1#q05|src_obm_2013_n3_f1__Q05]]
 
 
 
@@ -182,13 +212,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta di (a+b)^2/(ab) data (a+2b)/b = (a+b)/a*
+*Valore di (a+b)^2/(ab) sapendo che (a+2b)/b = (a+b)/a*
 
-> Che $a, b$ siano valori reali positivi tali che $\dfrac{a+2b}{b} = \dfrac{a+b}{a}$. Il valore di $\dfrac{(a+b)^2}{ab}$ è:
-> 
+> Sia $a, b$ un insieme di numeri reali positivi tali che $\dfrac{a+2b}{b} = \dfrac{a+b}{a}$. Il valore di $\dfrac{(a+b)^2}{ab}$ è:
+>
 > (A) $4$ \quad (B) $3+\sqrt{3}$ \quad (C) $2+2\sqrt{2}$ \quad (D) $2+\sqrt{5}$ \quad (E) $5$
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n3_f1#q06|src_obm_2013_n3_f1__Q06]]
 
 
 
@@ -213,13 +248,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo retto a A; D punto medio di AC; BD=3DC, AC=2; ritrovare l'ipotenusa*
+*Triangolo rettangolo in A; D è il punto medio di AC; BD=3DC, AC=2; trovare l'ipotenusa*
 
-> $ABC$ sia un triangolo angolato a destra a $A$. $D$ sia il punto medio di $AC$. Sapendo che $BD = 3DC$ e che $AC = 2$, l'ipotenusa del triangolo $ABC$ è:
-> 
+> Sia $ABC$ un triangolo rettangolo in $A$. Sia $D$ il punto medio di $AC$. Sapendo che $BD = 3DC$ e che $AC = 2$, l'ipotenusa del triangolo $ABC$ è:
+>
 > (A) $\sqrt{7}$ \quad (B) $2\sqrt{2}$ \quad (C) $3$ \quad (D) $\sqrt{10}$ \quad (E) $2\sqrt{3}$
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n3_f1#q07|src_obm_2013_n3_f1__Q07]]
 
 
 
@@ -252,17 +291,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo di numeri interi dispari in righe di lunghezza crescente; che riga contiene 2013*
+*Triangolo di interi dispari disposti in righe di lunghezza crescente; in quale riga si trova il numero 2013?*
 
-> Il triangolo aritmetico di Fibonacci è formato dai numeri interi positivi dispari, disposti in righe di lunghezza crescente e saltando alla riga successiva, a partire da $1$. La riga $n$ ha esattamente i numeri $n$. Guarda le prime quattro righe:
-> 
-> Righe 1: $1$ Righe 2: $3\ 5$ Righe 3: $7\ 9\ 11$ Righe 4: $13\ 15\ 17\ 19$
-> 
+> Il triangolo aritmetico di Fibonacci è formato dagli interi positivi dispari, disposti in righe di lunghezza crescente e passando alla riga successiva a partire da $1$. La riga $n$ contiene esattamente $n$ numeri. Osserva le prime quattro righe:
+>
+> Riga 1: $1$ Riga 2: $3\ 5$ Riga 3: $7\ 9\ 11$ Riga 4: $13\ 15\ 17\ 19$
+>
 > In quale riga apparirà $2013$?
-> 
+>
 > (A) $45$ \quad (B) $46$ \quad (C) $62$ \quad (D) $63$ \quad (E) $64$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n3_f1#q08|src_obm_2013_n3_f1__Q08]]
 
 
 
@@ -288,13 +332,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di modi per scegliere tre bordi di sciacquatura in coppia di un cubo*
+*Numero di modi per scegliere tre spigoli a due a due sghembi di un cubo*
 
-> Diciamo che due linee o segmenti di linee sono \emph{skew} (inverse) quando non c'è piano che contiene entrambe le linee o segmenti. In quanti modi possiamo scegliere tre bordi di un cubo in modo che due di questi bordi siano pregiudicati?
-> 
+> Diciamo che due rette o due segmenti di retta sono \emph{sghembi} (reversas) quando non esiste alcun piano che contenga entrambe le rette o entrambi i segmenti di retta. In quanti modi possiamo scegliere tre spigoli di un cubo in modo che ogni coppia di questi spigoli sia sghemba?
+>
 > (A) $6$ \quad (B) $8$ \quad (C) $12$ \quad (D) $24$ \quad (E) $36$
 
-**Risposta:** B
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n3_f1#q09|src_obm_2013_n3_f1__Q09]]
 
 
 
@@ -320,13 +369,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca x+y dato x^3+y^3=9 e x^2y + x y^2 = 6*
+*Trovare x+y sapendo che x^3+y^3=9 e x^2 y + x y^2 = 6*
 
-> Determinare $x + y$, dove $x$ e $y$ sono reali, sapendo che $x^3 + y^3 = 9$ e $x^2 y + x y^2 = 6$.
-> 
+> Determinare $x + y$, dove $x$ e $y$ sono numeri reali, sapendo che $x^3 + y^3 = 9$ e $x^2 y + x y^2 = 6$.
+>
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n3_f1#q10|src_obm_2013_n3_f1__Q10]]
 
 
 
@@ -351,11 +405,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero massimo di triangoli equilaterali tra cinque punti coplanari*
+*Numero massimo di triangoli equilateri tra cinque punti coplanari*
 
-> Considerate cinque punti dell'aereo. Qual è la quantità massima di triangoli equilaterali con vertici tra tre di questi cinque punti?
-> 
+> Si considerino cinque punti nel piano. Qual è il numero massimo di triangoli equilateri i cui vertici siano scelti tra tre di questi cinque punti?
+>
 > (A) $2$ \quad (B) $3$ \quad (C) $4$ \quad (D) $5$ \quad (E) $6$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n3_f1#q11|src_obm_2013_n3_f1__Q11]]
 
 
 
@@ -381,13 +442,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo attraverso A..E, diametro AB perpendicolare al CD dell'accordo, angolo BCE=35; angolo DAE*
+*Circolo per i punti A..E, diametro AB perpendicolare alla corda CD, angolo BCE=35; determinare l'angolo DAE*
 
-> Nella figura seguente, il punto $O$ è il centro della circonferenza che attraversa i punti $A$, $B$, $C$, $D$ e $E$. Sapendo che il diametro $AB$ e l'accordo $CD$ sono perpendicolari e che $\angle BCE = 35^\circ$, il valore, in gradi, dell'angolo $\angle DAE$ è:
-> 
+> Nella figura sottostante, il punto $O$ è il centro della circonferenza che passa per i punti $A$, $B$, $C$, $D$ e $E$. Sapendo che il diametro $AB$ e la corda $CD$ sono perpendicolari e che $\angle BCE = 35^\circ$, il valore, in gradi, dell'angolo $\angle DAE$ è:
+>
 > (A) $35^\circ$ \quad (B) $10^\circ$ \quad (C) $20^\circ$ \quad (D) $30^\circ$ \quad (E) $55^\circ$
 
 ![[src_obm_2013_n3_f1__q12.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n3_f1#q12|src_obm_2013_n3_f1__Q12]]
 
 
 
@@ -415,15 +482,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Billiard: velocità minima per la palla di Jade per incontrare un colpo di palla a 60 km/h, 30 gradi, palle a 50 cm di distanza*
+*Biliardo: velocità minima della palla di Jade affinché incontri una palla colpita a 60 km/h con un angolo di 30 gradi, con le palle distanti 50 cm*
 
-> Super Esmeralda e Jade Maravilha stanno giocando a biliardo. Super Esmeralda fa un colpo su una palla con una velocità di $60\,\text{km/h}$, ad un angolo di $30^\circ$ con uno dei cuscini, come nella figura. Jade Maravilha deve colpire la palla di Super Esmeralda con un'altra palla. Le due palle lasciano contemporaneamente il cuscino del tavolo e sono a una distanza di $50\,\text{cm}$. Jade Maravilha puo' scegliere qualsiasi angolo per il suo colpo. Qual e' la velocità minima con cui Jade Maravilha puo' farle sparare?
-> 
+> Super Esmeralda e Jade Maravilha stanno giocando a biliardo. Super Esmeralda effettua un colpo su una palla con una velocità di $60\,\text{km/h}$, con un angolo di $30^\circ$ rispetto a una delle sponde, come nella figura. Jade Maravilha deve colpire la palla di Super Esmeralda con un'altra palla. Le due palle lasciano la sponda del tavolo simultaneamente e si trovano a una distanza di $50\,\text{cm}$. Jade Maravilha può scegliere qualsiasi angolo per il proprio colpo. Qual è la velocità minima con cui Jade Maravilha può effettuare il proprio colpo?
+>
 > (A) $15\,\text{km/h}$ \quad (B) $30\,\text{km/h}$ \quad (C) $30\sqrt{2}\,\text{km/h}$ \quad (D) $30\sqrt{3}\,\text{km/h}$ \quad (E) $60\,\text{km/h}$
 
 ![[src_obm_2013_n3_f1__q13.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n3_f1#q13|src_obm_2013_n3_f1__Q13]]
 
 
 
@@ -453,17 +525,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Almeno n in modo che la composizione a n volte di f sia uguale all'identità su S={1..9}*
+*Almeno n, così la composizione n-pla di f è l'identità su S={1..9}*
 
-> Let $S = \{1, 2, 3, 4, 5, 6, 7, 8, 9\}$. Considera una funzione $f : S \to S$ definita nella tabella seguente.
-> 
+> Sia $S = \{1, 2, 3, 4, 5, 6, 7, 8, 9\}$. Si consideri una funzione $f : S \to S$ definita dalla tabella sottostante.
+>
 > $\begin{array}{|c|c|c|c|c|c|c|c|c|c|} \hline x & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\ \hline f(x) & 8 & 3 & 5 & 7 & 2 & 9 & 6 & 1 & 4 \\ \hline \end{array}$
-> 
-> Qual è il più piccolo intero positivo $n$ per il quale $\underbrace{f(f(\cdots(f(x))\cdots))}_{n\ \text{times}} = x$ per ogni $x \in S$?
-> 
+>
+> Qual è il più piccolo intero positivo $n$ per cui $\underbrace{f(f(\cdots(f(x))\cdots))}_{n\ \text{times}} = x$ per ogni $x \in S$?
+>
 > (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $12$ \quad (E) $24$
 
-**Risposta:** D
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n3_f1#q14|src_obm_2013_n3_f1__Q14]]
 
 
 
@@ -488,11 +565,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Probabilità che f ((k), la potenza perfetta più grande non superiore a k, sia un quadrato perfetto*
+*Probabilità che f(k), la più grande potenza perfetta non superiore a k, sia un quadrato perfetto*
 
-> Una \emph{potenza perfetta} è un intero della forma $a^b$, dove $a$ e $b$ sono interi, $b > 1$. La potenza $f(n)$ deve essere la potenza perfetta più grande che non superi $n$. Per esempio, $f(7) = 4$, $f(8) = 8$ e $f(99) = 81$. Tracciando casualmente un intero $k$ con $1 \le k \le 100$, qual è la probabilità che $f(k)$ sia un quadrato perfetto?
-> 
+> Una \emph{potenza perfetta} è un numero intero della forma $a^b$, dove $a$ e $b$ sono numeri interi, $b > 1$. Sia $f(n)$ la più grande potenza perfetta che non supera $n$. Ad esempio, $f(7) = 4$, $f(8) = 8$ e $f(99) = 81$. Estraendo a caso un numero intero $k$ con $1 \le k \le 100$, qual è la probabilità che $f(k)$ sia un quadrato perfetto?
+>
 > (A) $64\%$ \quad (B) $72\%$ \quad (C) $81\%$ \quad (D) $90\%$ \quad (E) $96\%$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n3_f1#q15|src_obm_2013_n3_f1__Q15]]
 
 
 
@@ -519,13 +603,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Catenata in zigzag di segmenti uguali tra due linee attraverso A; angolo B1AB2=1 grado, massimo n*
+*Catena a zigzag di segmenti uguali tra due rette passanti per A; angolo B1AB2=1 grado, n max*
 
-> Nella figura seguente, $AB_1 = B_1 B_2 = B_2 B_3 = \cdots = B_{n-1} B_n$. I punti $B_1, B_3, B_5, \ldots$ appartengono ad una linea retta e i punti $B_2, B_4, B_6, \ldots$ appartengono ad un'altra linea retta. Tutti i punti $B_1, B_2, B_3, \ldots, B_n$ sono distinti. Sapendo che l'angolo $\angle B_1 A B_2$ misura $1^\circ$, quale è il più grande valore possibile di $n$?
-> 
+> Nella figura sottostante, $AB_1 = B_1 B_2 = B_2 B_3 = \cdots = B_{n-1} B_n$. I punti $B_1, B_3, B_5, \ldots$ appartengono a una retta e i punti $B_2, B_4, B_6, \ldots$ appartengono a un'altra retta. Tutti i punti $B_1, B_2, B_3, \ldots, B_n$ sono distinti. Sapendo che l'angolo $\angle B_1 A B_2$ misura $1^\circ$, qual è il valore massimo possibile di $n$?
+>
 > (A) $6$ \quad (B) $7$ \quad (C) $10$ \quad (D) $90$ \quad (E) $n$ può essere arbitrariamente grande
 
 ![[src_obm_2013_n3_f1__q16.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n3_f1#q16|src_obm_2013_n3_f1__Q16]]
 
 
 
@@ -550,11 +641,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Corsa delle pulci: salti di m e n cm (m<n) che si incontrano per primo a 1 m; conteggio di coppie (m,n)*
+*Gara delle pulci: salti di m e n cm (m<n), si incontrano per la prima volta a 1 m; conta le coppie (m,n)*
 
-> In un circo, l'attrazione principale è la corsa alle pulci. Due pulci, $P_1$ e $P_2$, perfettamente addestrate, saltano lungo la stessa linea retta, con velocità costanti, partendo dallo stesso punto nello stesso istante. Ogni salto di pulce $P_1$ misura $m$ centimetri e ogni salto di pulce $P_2$ misura $n$ centimetri, con $m < n$, entrambe enti. Tuttavia la pulce $P_1$ è più veloce della pulce $P_2$, in modo che, indipendentemente dalla velocità di $P_2$, $P_1$ possa sempre raggiungerla dopo alcuni salti. Supponendo che, dopo l'avvio, le pulci si trovino insieme, per la prima volta, alla fine del metro $1$, si determina il numero di possibili coppie $(m, n)$.
-> 
+> In un circo, l'attrazione principale è la \emph{Corsa delle pulci}. Due pulci, $P_1$ e $P_2$, perfettamente addestrate, saltano lungo la stessa linea retta con velocità costanti, partendo dallo stesso punto nello stesso istante. Ogni salto della pulce $P_1$ misura $m$ centimetri e ogni salto della pulce $P_2$ misura $n$ centimetri, con $m < n$, entrambi interi. Tuttavia la pulce $P_1$ è più veloce della pulce $P_2$, cosicché, indipendentemente dalla velocità di $P_2$, $P_1$ può sempre raggiungerla dopo alcuni salti. Supponendo che, dopo la partenza, le pulci si ritroveranno insieme per la prima volta alla fine di un tratto di $1$ metri, determina il numero di coppie possibili $(m, n)$.
+>
 > (A) $12$ \quad (B) $24$ \quad (C) $36$ \quad (D) $48$ \quad (E) $100$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n3_f1#q17|src_obm_2013_n3_f1__Q17]]
 
 
 
@@ -579,11 +677,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Distribuire 10 palle bianche e 8 palle rosse in 5 scatole uguali, ciascuna scatola con un numero diverso di palle bianche
+*Distribuisci 10 palline bianche e 8 palline rosse in 5 scatole uguali, ciascuna scatola con un numero diverso di palline bianche*
 
-> In quanti modi possiamo distribuire le sfere bianche e le sfere rosse in cinque scatole uguali, in modo tale che ogni scatole abbia almeno una sfera e che ogni scatole abbia un numero diverso di sfere bianche?
-> 
+> In quanti modi possiamo distribuire $10$ palline bianche e $8$ palline rosse in cinque scatole uguali, in modo che ogni scatola abbia almeno una pallina e che ogni scatola abbia un numero diverso di palline bianche?
+>
 > (A) $330$ \quad (B) $348$ \quad (C) $512$ \quad (D) $676$ \quad (E) $900$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n3_f1#q18|src_obm_2013_n3_f1__Q18]]
 
 
 
@@ -608,13 +713,17 @@ Distribuire 10 palle bianche e 8 palle rosse in 5 scatole uguali, ciascuna scato
 <div class="qlang-split" data-lang="it"></div>
 
 
-Numero più vicino al numero di cifre di 3^400*
+*Numero più vicino al numero di cifre di 3^400*
 
-> Quale dei seguenti numeri è più vicino al numero di cifre di $3^{400}$?
-> 
+> Quale dei seguenti numeri è il più vicino al numero di cifre di $3^{400}$?
+>
 > (A) $100$ \quad (B) $150$ \quad (C) $200$ \quad (D) $240$ \quad (E) $300$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n3_f1#q19|src_obm_2013_n3_f1__Q19]]
 
 
 
@@ -640,11 +749,19 @@ Numero più vicino al numero di cifre di 3^400*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi positivi k<2013 con numeri interi a,b,c che soddisfano a^2+b+c=b^2+c+a=c^2+a+b=k*
+*Conta gli interi positivi k<2013 per cui esistono interi a,b,c tali che a^2+b+c=b^2+c+a=c^2+a+b=k*
 
-> Per quanti integri positivi $k$ inferiori a $2013$ esistono integri $a$, $b$ e $c$, non necessariamente distinti, che soddisfano $$a^2 + b + c = b^2 + c + a = c^2 + a + b = k\,?$$
-> 
+> Per quanti interi positivi $k$ minori di $2013$ esistono interi $a$, $b$ e $c$, non necessariamente distinti, che soddisfano
+> $$a^2 + b + c = b^2 + c + a = c^2 + a + b = k\,?$$
+>
 > (A) $43$ \quad (B) $44$ \quad (C) $87$ \quad (D) $88$ \quad (E) $89$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n3_f1#q20|src_obm_2013_n3_f1__Q20]]
 
 
 
@@ -668,11 +785,17 @@ Numero più vicino al numero di cifre di 3^400*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trapezoide ABCD, AB di direzione BAD=74, angolo B82, ABC=P su CD con AD+DP=PC+CB=AB; trovare angolo APB*
+*Trapezio ABCD, AB||CD, angolo BAD=82°, angolo ABC=74°, P su CD tale che AD+DP=PC+CB=AB; determinare l'angolo APB*
 
-> Nel trapezoide $ABCD$, con $AB$ parallelo a $CD$, l'angolo $\angle BAD$ misura $82^\circ$ e l'angolo $\angle ABC$ misura $74^\circ$. Supponiamo che esista un punto $P$ sul lato $CD$ tale che $AD + DP = PC + CB = AB$. Quanto misura l'angolo $\angle APB$?
-> 
+> Nel trapezio $ABCD$, con $AB$ parallelo a $CD$, l'angolo $\angle BAD$ misura $82^\circ$ e l'angolo $\angle ABC$ misura $74^\circ$. Supponiamo che esista un punto $P$ sul lato $CD$ tale che $AD + DP = PC + CB = AB$. Quanto misura l'angolo $\angle APB$?
+>
 > (A) $76^\circ$ \quad (B) $77^\circ$ \quad (C) $78^\circ$ \quad (D) $79^\circ$ \quad (E) $80^\circ$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n3_f1#q21|src_obm_2013_n3_f1__Q21]]
 
 
 
@@ -697,11 +820,18 @@ Numero più vicino al numero di cifre di 3^400*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri a 4 cifre con cifre distinte evitando 1 in unità, 2 in decine, 3 in centinaia, 4 in migliaia*
+*Conta i numeri di 4 cifre con cifre distinte, evitando 1 nella cifra delle unità, 2 in quella delle decine, 3 in quella delle centinaia e 4 in quella dei migliaia*
 
-> Quanti numeri a quattro cifre con cifre distinte non hanno $1$ nelle unità, né $2$ nelle decine, né $3$ nelle centinaia, né $4$ nelle migliaia?
-> 
+> Quanti numeri di quattro cifre con cifre distinte non hanno $1$ nella cifra delle unità, né $2$ nella cifra delle decine, né $3$ nella cifra delle centinaia, né $4$ nella cifra delle migliaia?
+>
 > (A) Meno di $1000$ \quad (B) Più di $1000$ e meno di $2000$ \quad (C) Più di $2000$ e meno di $3000$ \quad (D) Più di $3000$ e meno di $4000$ \quad (E) Più di $4000$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n3_f1#q22|src_obm_2013_n3_f1__Q22]]
 
 
 
@@ -727,13 +857,18 @@ Numero più vicino al numero di cifre di 3^400*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova y dove x,y sono interi positivi e x(x+2+4+6+...+4024)=2013^y*
+*Trovare y, dove x e y sono interi positivi e x(x+2+4+6+...+4024)=2013^y*
 
-> Se $x$ e $y$ sono integri positivi come $x(x + 2 + 4 + 6 + \cdots + 4024) = 2013^y$, qual è il valore di $y$?
-> 
+> Se $x$ e $y$ sono interi positivi tali che $x(x + 2 + 4 + 6 + \cdots + 4024) = 2013^y$, qual è il valore di $y$?
+>
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n3_f1#q23|src_obm_2013_n3_f1__Q23]]
 
 
 
@@ -759,13 +894,18 @@ Numero più vicino al numero di cifre di 3^400*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maxime soluzioni reali di p(x)=k per un polinomio pari con coefficienti non negativi*
+*Numero massimo di soluzioni reali di p(x)=k per un polinomio pari a coefficienti non negativi*
 
-> Un polinomio $p(x)$ è anche quando $p(-x) = p(x)$ per tutti i $x$ reali. Qual è il numero massimo di soluzioni reali dell'equazione $p(x) = k$, dove $p$ è un polinomio pari non costante con coefficienti non negativi e $k$ è un reale fisso?
-> 
+> Un polinomio $p(x)$ è pari quando $p(-x) = p(x)$ per tutti i $x$ reali. Qual è il numero massimo di soluzioni reali dell'equazione $p(x) = k$, dove $p$ è un polinomio pari non costante a coefficienti non negativi e $k$ è un numero reale fisso?
+>
 > (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $4$ \quad (E) $n$, dove $n$ è il grado di $p(x)$
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n3_f1#q24|src_obm_2013_n3_f1__Q24]]
 
 
 
@@ -791,10 +931,15 @@ Numero più vicino al numero di cifre di 3^400*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Volume del cubo formato da otto vertici di un dodedeedro regolare di bordo 1*
+*Volume del cubo formato da otto vertici di un dodecaedro regolare di spigolo 1*
 
-> Otto dei vertici di un dodedeedro regolare di bordo $1$ sono vertici di un cubo. Qual è il volume di questo cubo?
-> 
+> Otto dei vertici di un dodecaedro regolare di spigolo $1$ sono vertici di un cubo. Qual è il volume di questo cubo?
+>
 > (A) $\dfrac{1+\sqrt{5}}{2}$ \quad (B) $\sqrt{5}$ \quad (C) $\dfrac{3+\sqrt{5}}{2}$ \quad (D) $1+\sqrt{5}$ \quad (E) $2+\sqrt{5}$
 
-**Risposta:** E
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n3_f1#q25|src_obm_2013_n3_f1__Q25]]

@@ -29,9 +29,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale con punto interno; somma delle distanze quadrate pari al doppio dell'area implica quadrato*
+*Quadrilatero con punto interno; la somma dei quadrati delle distanze uguale al doppio dell’area implica che sia un quadrato*
 
-> Il PQRS è un quadrilaterale dell'area A. O è un punto dentro di esso. Prova che se $2A = OP^2 + OQ^2 + OR^2 + OS^2$, allora PQRS è un quadrato e O è il suo centro.
+> PQRS è un quadrilatero di area A. O è un punto interno ad esso. Dimostrare che se $2A = OP^2 + OQ^2 + OR^2 + OS^2$, allora PQRS è un quadrato e O è il suo centro.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_bmo1_1982#q01|src_bmo1_1982__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero nella base 2 con esattamente tre cifre a una cifra; prova le condizioni di parità*
+*Numero in base 2 con esattamente tre cifre 1; dimostrare le condizioni di parità*
 
-> Se un numero M scritto sulla scala di 2 contiene esattamente tre cifre 1, e se contiene esattamente sei cifre 0, allora è pari.
+> Sia $M$ un numero scritto in base 2 che contiene esattamente tre cifre 1 e esattamente sei cifre 0. Dimostrare che $M$ è pari.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_bmo1_1982#q02|src_bmo1_1982__Q02]]
 
 
 
@@ -79,9 +91,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Doppia disuguaglianza per somme parziali; prova i limiti utilizzando AM-GM per n>2*
+*Doppia disuguaglianza per le somme parziali; dimostrare i limiti usando AM-GM per n>2*
 
-> Se $a_n = 1 + \frac{1}{2} + \frac{1}{3} + \cdots + \frac{1}{n}$ e $n > 2$, dimostrare che $n(n!)^{1/n} < a_n < (n-1)n^b$ dove $a$ e $b$ sono dati in termini di $n$ da $(a-1)n = -1$.
+> Sia $a_n = 1 + \frac{1}{2} + \frac{1}{3} + \cdots + \frac{1}{n}$ e sia $n > 2$. Dimostrare che $n(n!)^{1/n} < a_n < (n-1)n^b$, dove $a$ e $b$ sono dati in funzione di $n$ da $(a-1)n = -1$.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_bmo1_1982#q03|src_bmo1_1982__Q03]]
 
 
 
@@ -104,9 +122,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza per relazione di ricorrenza; descrivere il comportamento come n tende all'infinito*
+*Successione definita da relazione di ricorrenza; comportamento per n che tende all'infinito*
 
-> Una sequenza di numeri reali $u_1, u_2, u_3, \ldots$ è data da $u_1$ e la relazione di ricorrenza $u_n = u_{n-1} + \frac{15}{u_{n-1}},\quad n \ge 2$. Considerando la curva $x^2 = y + \frac{15}{y}$, o altrimenti, descrivi con prova il comportamento di $u_n$ come $n$ tende all'infinito.
+> Una successione di numeri reali $u_1, u_2, u_3, \ldots$ è data da $u_1$ e dalla relazione di ricorrenza $u_n = u_{n-1} + \frac{15}{u_{n-1}},\quad n \ge 2$. Considerando la curva $x^2 = y + \frac{15}{y}$, o in altro modo, descrivere con dimostrazione il comportamento di $u_n$ per $n$ che tende all'infinito.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_bmo1_1982#q04|src_bmo1_1982__Q04]]
 
 
 
@@ -129,9 +153,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Elissa di sezione incrociata conica; trovare la condizione per la intersezione di due percorsi di superficie*
+*Sezione conica ellittica; condizione affinché due percorsi sulla superficie si intersechino*
 
-> Un cono circolare destro si trova su una base orizzontale, di raggio $r$. Il suo vertice V è a una distanza di 1 da ogni punto sul perimetro della base. Una sezione piana del cono è un'ellisse il cui punto più basso è L e il cui punto più alto è H. Sulla superficie curva del cono, su un lato del piano VLH, sono segnate due rotte da L a H. $R_1$ è lungo il semiperimetro dell'ellisse e $R_2$ è il percorso di lunghezza più breve. Trova la condizione che $R_1$ e $R_2$ si intersecano tra L e H.
+> Un cono circolare retto poggia su una base orizzontale di raggio $r$. Il suo vertice $V$ è a distanza $1$ da ogni punto sul perimetro della base. Una sezione del cono è un'ellisse il cui punto più basso è $L$ e il cui punto più alto è $H$. Sulla superficie curva del cono, da un lato del piano $VLH$, sono segnati due percorsi da $L$ a $H$. $R_1$ è lungo il semi-perimetro dell'ellisse e $R_2$ è il percorso di lunghezza minima. Trovare la condizione affinché $R_1$ e $R_2$ si intersechino tra $L$ e $H$.
+
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1982#q05|src_bmo1_1982__Q05]]
 
 
 
@@ -154,6 +184,12 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare sequenze binarie di lunghezza n con esattamente m zero*
+*Conteggio delle sequenze binarie di lunghezza n con esattamente m zeri*
 
-> Prove che il numero di sequenze $a_1, a_2, \ldots, a_n$ con ciascuna delle loro $n$ termini $a_k = 0$ o $1$ e contenente esattamente $m$ eventi di $0$ è $\binom{n}{m}$.
+> Dimostrare che il numero di sequenze $a_1, a_2, \ldots, a_n$, ciascuna delle $n$ termini $a_k = 0$ o $1$ e contenenti esattamente $m$ occorrenze di $0$, è $\binom{n}{m}$.
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_bigezione|Bigezione / corrispondenza]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_bmo1_1982#q06|src_bmo1_1982__Q06]]

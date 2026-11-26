@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Baggage threshold given two overprices (EUR 11 and EUR 33)*
+*Data baggage threshold: two surcharges (11 and 33 euros)*
 
-> An airline allows baggage to be carried without overpayment provided that the weight does not exceed a certain threshold; in case of excess weight, an additional amount must be paid for each kilogram (or fraction of kilogram) above the threshold. The baggage of Anna and Marco weighs the same: they total $60$ kg and, in total, they both had to pay $11$ extra euros. Enrico also has luggage: he weighs $60$ kilos and he had to pay $33$ extra euros. How many kilograms is the threshold beyond which the overpayment must be made?
+> An airline allows you to carry one piece of baggage at no extra charge provided its weight does not exceed a certain threshold; if the weight exceeds the threshold, you must pay an additional sum for each kilogram (or fraction of a kilogram) over the threshold. Anna's and Marco's bags weigh the same: in total, they weigh $60$ kilograms, and in total, the two of them had to pay $11$ euros extra. Enrico also has a bag: it weighs $60$ kilograms, and he had to pay $33$ euros extra. How many kilograms is the threshold beyond which an extra charge must be paid?
 
-**Answer:** 24
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_cadet_finale#qc1|src_kangourou_2017_cadet_finale__QC1]]
 
 
 
@@ -56,11 +60,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-It's okay to choose 9 or 10 in the dice game.
+*It's advisable to choose 9 or 10 in the dice game*
 
-> A friend invites you to play dice like this. You and he repeatedly throw two identical fair dice, with the faces numbered, as usual, from $1$ to $6$, and calculate the sum of the points. If the sum is $9$ one of you wins, if the sum is $10$ the other wins, if the sum is different from $9$ and $10$ neither wins. He lets you choose between $9$ and $10$ the sum that makes you win, keeping to himself that of the two you didn't. Which one is best for you, and why?
+> A friend invites you to play dice in the following way. You and he roll two identical, unloaded dice, whose faces are numbered, as usual, from $1$ to $6$, several times, and calculate the sum of the points obtained. If the sum is $9$, one of you two wins; if the sum is $10$, the other wins; if the sum is different from $9$ and from $10$, neither of you wins. He lets you choose, from among $9$ and $10$, the sum that will make you win, while he keeps for himself the one of the two that you have not chosen. Which one should you choose, and why?
 
-**Answer:** 9
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_cadet_finale#qc2|src_kangourou_2017_cadet_finale__QC2]]
 
 
 
@@ -84,11 +92,16 @@ It's okay to choose 9 or 10 in the dice game.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Best friends with different-tasting candy bars
+*Best friends with sets of three candies in different flavors*
 
-> Lucilla has several candies: $6$ mint, $7$ lemon, $8$ orange and $12$ strawberry. She wants to give 3 to each of some of her friends, but each friend asks to have candies all of different tastes. Considering the friends' wishes, how many friends can she satisfy, at most?
+> Lucilla has several kinds of candies: $6$ mint, $7$ lemon, $8$ orange, and $12$ strawberry. She wants to give $3$ candies to each of some of her friends, but each friend asks to receive candies whose flavors are all different from one another. Taking the friends' wishes into account, how many friends can she satisfy at most?
 
-**Answer:** 10
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_cadet_finale#qc3|src_kangourou_2017_cadet_finale__QC3]]
 
 
 
@@ -111,11 +124,15 @@ Best friends with different-tasting candy bars
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time of two flights with constant wind from A to B*
+*Times of the two flights with a constant wind from A to B*
 
-> A line aircraft shall fly daily from an airport $A$ to an airport $B$ and return from $B$ to $A$ along the same straight route, always keeping the engines at maximum power. Yesterday there was no wind at all, but today there was a steady wind from $A$ to $B$ throughout the day. Overall, did both flights take the same amount of time today as yesterday? Less time? More time? Justify your answer as you see fit.
+> A scheduled airliner flies daily from airport $A$ to airport $B$ and returns from $B$ to $A$ along the same straight route, always keeping the engines at their maximum possible power. Yesterday there was no wind at all; today, however, for the whole day a wind blowing at a constant speed came from $A$ toward $B$. Overall, for the two flights combined, did today take the same amount of time as yesterday? Less time? More time? Justify your answer in whatever way you think is most appropriate.
 
-**Answer:** more time
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_cadet_finale#qc4|src_kangourou_2017_cadet_finale__QC4]]
 
 
 
@@ -139,11 +156,16 @@ Best friends with different-tasting candy bars
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequences consecutive with a sum of digits divisible by 7*
+*Consecutive sequences whose digit sum is divisible by 7*
 
-> Are there sequences of (at least two) consecutive positive integers such that the sum of the digits of each sequence number is divisible by $7$? If yes, how many numbers can there be at most in one of these sequences?
+> Are there sequences of (at least two) consecutive positive integers such that the sum of the digits of each number in the sequence is divisible by $7$? If so, what is the maximum number of numbers that such a sequence can contain?
 
-**Answer:** Yes, at most two
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_cadet_finale#qc5|src_kangourou_2017_cadet_finale__QC5]]
 
 
 
@@ -170,10 +192,16 @@ Best friends with different-tasting candy bars
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum circle, diameter pairs and circles containing S*
+*Smallest circle, diametral pairs, and circles containing S*
 
-> Whether $S$ is a set composed of an arbitrary finite number but not less than $2$ of points in the plane: it is known that there exists, and is unique, the circle $C$ of minimum radius containing $S$ (the demonstration of this fact is outside the context of this competition, so it is not required).
-> 
-> A $\{a, b\}$ pair of $S$ points is said to be **diametral** if, however, two $S$ points are chosen, their distance does not exceed the distance between $a$ and $b$. Establish whether it is true (by reasoning the answer) that: - each diametral pair of $S$ must necessarily be on the circumference that delimits $C$; - there are always circles containing $S$, but not $C$.
+> Let $S$ be a set consisting of an arbitrary finite number of points in the plane, but not fewer than $2$ points: it is known that there exists, and is unique, the circle $C$ of minimal radius that contains $S$ (the proof of this fact lies outside the scope of this competition and is therefore not required).
+>
+> A pair $\{a, b\}$ of points of $S$ is called **diametral** if, whatever two points of $S$ are chosen, their distance does not exceed the distance between $a$ and $b$. Determine whether the following is true (giving reasons for the answer):
+> - Every diametral pair of $S$ must necessarily lie on the circumference that bounds $C$;
+> - There are always circles that contain $S$ but do not contain $C$.
 
-**Answer:** No. Yes.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_cadet_finale#qc6|src_kangourou_2017_cadet_finale__QC6]]

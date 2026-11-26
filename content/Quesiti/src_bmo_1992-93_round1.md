@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova un quadrato perfetto di sei cifre in cui le ultime tre cifre superano le prime tre esattamente di uno.*
+*Un intero di sei cifre $n$ che è un quadrato, con le ultime tre cifre di uno maggiori delle prime tre*
 
-> Trova, mostrando il tuo metodo, un numero intero a sei cifre $n$ con le seguenti proprietà: (i) $n$ è un quadrato perfetto, (ii) il numero formato dalle ultime tre cifre di $n$ è esattamente uno maggiore del numero formato dalle prime tre cifre di $n$. (In questo modo $n$ potrebbe sembrare $123124$, anche se questo non è un quadrato.)
+> Trovare, mostrando il metodo, un intero di sei cifre $n$ con le proprietà seguenti: (i) $n$ è un quadrato perfetto, (ii) il numero formato dalle ultime tre cifre di $n$ è esattamente di uno maggiore del numero formato dalle prime tre cifre di $n$. (Così $n$ potrebbe avere l'aspetto di $123124$, sebbene questo non sia un quadrato.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1992-93_round1#q01|src_bmo_1992-93_round1__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tostato quadrato ABCD tagliato a metà; trovare il triangolo di divisione del triangolo ABC tagliato a destra più corto in aree uguali.*
+*La lunghezza e la posizione del taglio rettilineo più corto che dimezza l'area di $ABC$*
 
-> Un pezzo quadrato di torta $ABCD$ di lunghezza laterale $1$ e centro $O$ viene tagliato a metà per formare due pezzi uguali $ABC$ e $CDA$. Se il triangolo $ABC$ deve essere tagliato in due parti di superficie uguale, di solito si taglia lungo la linea di simmetria $BO$. Tuttavia, ci sono altri modi di farlo. Trova, con giustificazione, la lunghezza e la posizione del taglio retto più breve che divide il triangolo $ABC$ in due parti di superficie uguale.
+> Un pezzo di pane tostato quadrato $ABCD$ di lato $1$ e centro $O$ è tagliato a metà a formare due pezzi uguali $ABC$ e $CDA$. Se il triangolo $ABC$ va tagliato in due parti di area uguale, di solito si taglia lungo l'asse di simmetria $BO$. Ci sono però altri modi di farlo. Trovare, con giustificazione, la lunghezza e la posizione del taglio rettilineo più corto che divide il triangolo $ABC$ in due parti di area uguale.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1992-93_round1#q02|src_bmo_1992-93_round1__Q02]]
 
 
 
@@ -83,11 +97,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza u_n definita da recidiva; trovare c tale che u_i divida u_j ogni volta che i ≤ j.*
+*Per quali $c$ si ha che $u_i$ divide $u_j$ ogni volta che $i \le j$*
 
-> Per ogni numero intero positivo $c$, la sequenza $u_n$ di numeri interi è definita da $$u_1 = 1, \quad u_2 = c, \quad u_n = (2n+1)u_{n-1} - (n^2-1)u_{n-2}, \quad (n \ge 3).$$ Per quali valori di $c$ ha questa sequenza la proprietà che $u_i$ divide $u_j$ ogni volta che $i \le j$?
-> 
-> (Nota: se $x$ e $y$ sono interi, allora $x$ divide $y$ se e solo se esiste un intero $z$ tale che $y = xz$. Per esempio, $x = 4$ divide $y = -12$, poiché possiamo prendere $z = -3$.)
+> Per ogni intero positivo $c$, la successione $u_n$ di interi è definita da
+> $$u_1 = 1, \quad u_2 = c, \quad u_n = (2n+1)u_{n-1} - (n^2-1)u_{n-2}, \quad (n \ge 3).$$
+> Per quali valori di $c$ questa successione ha la proprietà che $u_i$ divide $u_j$ ogni volta che $i \le j$?
+>
+> (Nota: se $x$ e $y$ sono interi, allora $x$ divide $y$ se e solo se esiste un intero $z$ tale che $y = xz$. Per esempio, $x = 4$ divide $y = -12$, poiché si può prendere $z = -3$.)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1992-93_round1#q03|src_bmo_1992-93_round1__Q03]]
 
 
 
@@ -110,9 +133,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi si toccano internamente a M; tangente al cerchio interno incontra l'esterno a Q,R; dimostrano angoli uguali a M.*
+*Dimostrare che $\angle QMP = \angle RMP$*
 
-> Due cerchi si toccano internamente a $M$. Una linea retta tocca il cerchio interno a $P$ e taglia il cerchio esterno a $Q$ e $R$. Prove che $\angle QMP = \angle RMP$.
+> Due circonferenze sono tangenti internamente in $M$. Una retta tocca la circonferenza interna in $P$ e seca quella esterna in $Q$ e in $R$. Dimostrare che $\angle QMP = \angle RMP$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1992-93_round1#q04|src_bmo_1992-93_round1__Q04]]
 
 
 
@@ -137,6 +167,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali positivi x,y,z soddisfano 1/3 ≤ xy+yz+zx ≤ 3; trovare intervallo di xyz e x+y+z.*
+*L'insieme dei valori possibili di $xyz$ e di $x + y + z$*
 
-> Se $x, y, z$ sono numeri reali positivi che soddisfano $$\frac{1}{3} \le xy + yz + zx \le 3.$$ Determina l'intervallo di valori per (i) $xyz$ e (ii) $x + y + z$.
+> Siano $x, y, z$ numeri reali positivi che soddisfano
+> $$\frac{1}{3} \le xy + yz + zx \le 3.$$
+> Determinare l'insieme dei valori di (i) $xyz$, e (ii) $x + y + z$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1992-93_round1#q05|src_bmo_1992-93_round1__Q05]]

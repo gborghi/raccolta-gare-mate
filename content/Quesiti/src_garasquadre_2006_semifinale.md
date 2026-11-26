@@ -32,11 +32,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-This appropriation is intended to cover expenditure relating to:
+*2006th term*
 
-> At the divination lesson, Hardy and Ron were again bitten to chat during the boring divination lesson. For punishment they must perform an exercise: given sequence 2, 3, 5, 6, 7, 10, 11, .. . , composed of all positive integers other than n squares and n cubes of other integers, for the 2006th term.
+> At the divination class
+> Hardy and Ron were caught chatting again during the boring Divination lesson. As punishment, they must solve an exercise: given the sequence 2, 3, 5, 6, 7, 10, 11, ..., formed by all positive integers that are neither squares nor cubes of other integers, they must predict the 2006th term.
 
-**Answer:** 2060
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garasquadre_2006_semifinale#q01|src_garasquadre_2006_semifinale__Q01]]
 
 
 
@@ -64,11 +69,16 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Positive integer pairs (a,b) with a<=222 and a/2< b<2a/3*
+*Pairs (a,b) of positive integers such that a<=222 and a/2<b<2a/3*
 
-> The first test of the tournament finally came the big day of the Triangle tournament, which compares the best math students. Here's the first test: Find how many pairs (a,b) of positive integers are such as a ≤222 and a 2 < b < 2 3a.
+> The first round of the tournament
+> Finally, the big day of the TreAngoli tournament has arrived—a tournament that pits the best students of mathmagic against one another. Here is the first challenge: find how many pairs (a,b) of positive integers satisfy a ≤ 222 and a² < b < 2³a.
 
-**Answer:** 4033
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garasquadre_2006_semifinale#q02|src_garasquadre_2006_semifinale__Q02]]
 
 
 
@@ -95,9 +105,13 @@ This appropriation is intended to cover expenditure relating to:
 
 *length of BC*
 
-> The only way to make visible what has been written about the construction of the malander is to solve a geometric problem: in an ABC triangle the lengths of the sides coming out of A are 1358 and 2006, and the median coming out of A is 1358. What's the length of BC?
+> The Construction of the Scamp
+> The only way to make visible what has been written about the construction of the scoundrel is to solve a geomancy problem: in triangle ABC, the lengths of the sides emanating from A are 1358 and 2006, and the median emanating from A has length 1358. What is the length of BC?
 
-**Answer:** 2088
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garasquadre_2006_semifinale#q03|src_garasquadre_2006_semifinale__Q03]]
 
 
 
@@ -125,12 +139,14 @@ This appropriation is intended to cover expenditure relating to:
 
 *sum*
 
-> Sequences
-> By a strange, mathemagical coincidence, in the Middle Ages the director of the Higher Mathemagical School was
-> appointed only in the years with the following peculiar property: they were all the years N between 476 and
-> 1492 for which the equation x4 −y4 = N has a solution in positive integers. What is the sum of these years?
+> Successions
+> By a strange, math-magical coincidence, in the Middle Ages the director of the Higher Math-Magical School was appointed only in years with the following peculiar property: these were all the years N between 476 and 1492 for which the equation x^4 − y^4 = N has a solution in positive integers. What is the sum of these years?
 
-**Answer:** 8383
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garasquadre_2006_semifinale#q04|src_garasquadre_2006_semifinale__Q04]]
 
 
 
@@ -158,11 +174,16 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reduced fractions m/n with 0<m/n<1 and m·n=20!*
+*Reduced fractions m/n with 0 < m/n < 1 and m*n = 20!*
 
-> Distractions Henri and Smale Perelman, Ron's two older brothers, rarely attend classes and instead dedicate themselves to inventing new games. Today they are playing the first to guess the following question: how many fractions m n , reduced to minimum terms, such that 0 < m n < 1 and hence m·n = 20!.
+> Distractions
+> Henri and Smale Perelman, Ron's two older brothers, rarely attend classes and instead devote themselves to inventing new games. Today they are playing a game to see who can first guess the following question: state how many fractions m/n, in lowest terms, satisfy 0 < m/n < 1 and m·n = 20!.
 
-**Answer:** 0128
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garasquadre_2006_semifinale#q05|src_garasquadre_2006_semifinale__Q05]]
 
 
 
@@ -191,9 +212,14 @@ This appropriation is intended to cover expenditure relating to:
 
 *sum of the values of a*
 
-> Selection of the rose Quamditch is a sport that combines shot, agility and power of thought and action. For this reason, Hardy, captain of the Quamditch team of the House of Rapporteur, subjects aspiring mathematicians to the following test: while performing a triple capriola carpiata, they must consider all the ordered pairs of positive integers (a,b) such that a2 + b2 = 1105. What is the sum of the different values of a?
+> Squad selection
+> Quamditch is a sport that combines bursts of speed, agility, and both mental and physical power. For this reason, Hardy, captain of the Quamditch team at the Rapportaureo House, subjects aspiring athlete-mathemages to the following test: while performing a triple layout somersault, they must consider all ordered pairs of positive integers (a, b) such that a² + b² = 1105. What is the sum of the distinct values of a?
 
-**Answer:** 0168
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garasquadre_2006_semifinale#q06|src_garasquadre_2006_semifinale__Q06]]
 
 
 
@@ -222,11 +248,19 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*with how many zeros ends*
+*With how many zeros does it end?*
 
-> The preparation of certain potions is long and elaborate, undertaken only by experienced mathematicians. Hermitate is intended for the preparation of the Polyfactor potion: it requires a number of leeches. This number P is the product of all positive divisors of 1500000 (including 1500000 itself). How many zeros does P end with? Team competition 2006  Semifinal A Problem tests  Pag. 1 di 2
+> The Polifattore Potion
+> The preparation of certain potions is lengthy and intricate—a task for expert matemages alone. The skilled Hermita is busy preparing the Polifattore potion: it requires a certain number of leeches. This number P is the product of all positive divisors of 1500000 (including 1500000 itself). How many zeros does P end with?
+> 2006 Team Competition – Semifinal A – Problem Statements – Page 1 of 2
+>
+> Page 2 of 2 – Team Competition 2006 – Semifinal A – Problem Statements
 
-**Answer:** 0210
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garasquadre_2006_semifinale#q07|src_garasquadre_2006_semifinale__Q07]]
 
 
 
@@ -254,11 +288,16 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AP reduced*
+*Reduced AP*
 
-> Uncovered impostors Often one wonders how it is possible to recognize a mathematician from a mateban, that is, someone fasting in mathematics. The method is very simple! Try asking a mattress the following question. In an ABC triangle, straight to A, be AB = 7 and AC = 24. P is the intersection of height from A to median from B. Determine the AP. Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+> Impostors Exposed
+> People often wonder how it is possible to tell a mathmage from a mathlayman—that is, someone who knows nothing about mathmagic. The method is very simple! Try asking a mathlayman the following question: In triangle ABC, which is right-angled at A, let AB = 7 and AC = 24. Let P be the intersection of the altitude from A and the median from B. Determine AP. Answer by giving the sum of the numerator and the denominator of the fraction reduced to its lowest terms.
 
-**Answer:** 2437
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garasquadre_2006_semifinale#q08|src_garasquadre_2006_semifinale__Q08]]
 
 
 
@@ -282,11 +321,15 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*volts in seconds exceeds minutes*
+*The second hand turns and overtakes the minute hand*
 
-> Hermitage is quite confused by the use of the Time Circle, which allows her to travel through time. So she finds herself often forced to keep an eye on the clock. So N is the number of times in a week that the second hand exceeds the minute hand. How much is N?
+> The Time-Turner
+> The valiant Hermita is rather confused by the use of the Timewinder, which allows her to travel through time. So she finds herself forced to keep an eye on the clock often. Let N be the number of times, in a week, that the second hand overtakes the minute hand. What is the value of N?
 
-**Answer:** 9912
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garasquadre_2006_semifinale#q09|src_garasquadre_2006_semifinale__Q09]]
 
 
 
@@ -312,11 +355,15 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*report areas of star David and hexagon*
+*Ratio of the areas of the Star of David and the hexagon*
 
-> In geomancy class, Hardy and Hermita are in the geomancy lab, practicing to create magical symbols. Starting from a circumference on which six equidistant points mark, Hermita proposes to complete the figure by joining the six points to form a star of David, of area A. Hardy, on the other hand, proposes to join them to the hexagon, of area B. To measure the power of the two spells, the two measure the two areas. Say what 360B/A is worth.
+> At the geomancy lesson
+> Hardy and Hermita are in the geomancy laboratory, practicing the creation of magical symbols. Starting from a circle on which they mark six equally spaced points, Hermita suggests completing the figure by joining the six points to form a Star of David with area A. Hardy, on the other hand, suggests joining them to form a hexagon with area B. To measure the power of the two spells, the two measure the two areas. State the value of 360B/A.
 
-**Answer:** 0540
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garasquadre_2006_semifinale#q10|src_garasquadre_2006_semifinale__Q10]]
 
 
 
@@ -342,11 +389,16 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little N of 4 digits with sum of last digits of N^2 and N = 10000*
+*The smallest N with fewer than 4 digits such that the sum of the last digits of N^2 and N is 10000*
 
-> Competitors in the dreaded Triangle Tournament who have passed the first test are now facing the second. They have to find the smallest number N of exactly 4 digits so that, by adding the number obtained by taking the last four digits of N2 alone to the initial number N, you get 10,000.
+> The second round of the tournament
+> The competitors in the formidable TreAngoli tournament who have passed the first challenge are now facing the second one. They must find the smallest 4-digit number N such that, when the number obtained by considering only the last four digits of N² is added to the initial number N, the result is 10000.
 
-**Answer:** 9375
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garasquadre_2006_semifinale#q11|src_garasquadre_2006_semifinale__Q11]]
 
 
 
@@ -374,11 +426,16 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum integer 4 distinct non-zero digits with digits greater than the adjacent mean*
+*Smallest integer with 4 distinct non-zero digits, with adjacent digits greater than the average*
 
-> As all mathematicians know, a domestic elf can regain his freedom if he manages to solve a problem that his master poses to him. Recently an alphas was asked what is the smallest integer of 4 distinct and non-zero digits such that each of its digits (except the first and last) is strictly greater than the arithmetic mean of the two adjacent digits. What is the answer that gives freedom back to the alpha?
+> Longed-for freedom
+> As all matemages know, a domestic alfo can reclaim its freedom if it manages to solve a problem posed to it by its master. Recently, an alfo was asked what is the smallest four-digit integer with distinct, non-zero digits such that each of its digits (except the first and the last) is strictly greater than the arithmetic mean of the two adjacent digits. What is the answer that restores freedom to the alfo?
 
-**Answer:** 1342
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garasquadre_2006_semifinale#q12|src_garasquadre_2006_semifinale__Q12]]
 
 
 
@@ -416,13 +473,18 @@ This appropriation is intended to cover expenditure relating to:
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of the assets under management of the institution.
+*DAE angle*
 
 ![[src_garasquadre_2006_semifinale__prob13.png]]
 
-> Hardy's hunting lodge, Ron and Hermita enjoy spending the afternoon in front of a smoking cup of tea with the hunting lodge. On these occasions the meticulous Hermit has always a new problem of geomancy, her favorite subject, to propose to friends. Points B, C, D and E lie on the same circumference and both A the intersection between the straight BE and the straight CD (see figure). We know that DE = AE and that d ACB = 40°. Determine the DAE. A B D E C
+> The gamekeeper's hut
+> Hardy, Ron, and Hermita love spending the afternoon with a steaming cup of tea in the company of the gamekeeper. On these occasions, the meticulous Hermita always has a new geomancy problem—her favorite subject—to propose to her friends. Points B, C, D, and E lie on the same circle, and A is the intersection of line BE and line CD (see figure). We know that DE = AE and that ∠ACB = 40°. Determine ∠DAE. A B D E C
 
-**Answer:** 0070
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garasquadre_2006_semifinale#q13|src_garasquadre_2006_semifinale__Q13]]
 
 
 
@@ -451,11 +513,16 @@ This is the total value of the assets under management of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Regular coloured tetrahedra with 20 colours without rotation*
+*Colored regular tetrahedra with 20 colors up to rotation*
 
-> The collector Professor Primon makes a strange collection of dark mathematics artifacts. These are regular tetrahedra that have all colored faces of a single color (different for each face), and colors are chosen from a range of 20 different colors. Professor Primon already owns an item from this collection and buys another one, then he goes home and turns it over, turns it on the base, and he realizes that it's actually a duplicate. How many pieces are in total in the collection (two pieces obtained by rotation are to be considered the same)?
+> The Collector
+> Professor Primon has a strange collection of dark mathmagic artifacts. These are regular tetrahedra whose faces are all colored in a single color (a different color for each face), and the colors are chosen from a set of 20 different colors. Professor Primon already has one item in this collection and buys another; then he goes home, flips it over, rotates it on its base, and realizes that it is actually a duplicate. How many pieces are there in the collection in total? (Two pieces that can be obtained from each other by rotations are to be regarded as the same piece.)
 
-**Answer:** 9690
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garasquadre_2006_semifinale#q14|src_garasquadre_2006_semifinale__Q14]]
 
 
 
@@ -489,10 +556,15 @@ This is the total value of the assets under management of the institution.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of squares of the roots of x^3-46x^2+55x-7*
+*Sum of the squares of the roots of x^3-46x^2+55x-7*
 
-> The end of the Triangle Tournament is near, and soon the name of the supreme mathematician will be known, the one who will be remembered for ages to come. Only one test separates Hardy from the deserved triumph: determining how much the sum of the squares of the roots of the polynomial x3 −46x2 +55x−7 is worth.
-> 
-> Cesenatico Competition in teams 2 6 VII NATIONAL GARA A Semifinal squad A  SOLUTIONS  5 May 2006 Nr. The problem
+> The final match of the tournament
+> The end of the TreAngoli tournament is near, and soon the name of the supreme math magician—the one who will be remembered for ages to come—will be known. Only one test separates Hardy from a well-deserved triumph: determining the value of the sum of the squares of the roots of the polynomial x³ − 46x² + 55x − 7.
+>
+> Cesenatico Team Competition 2 6 7th National Team Competition Semifinal A – SOLUTIONS – 5 May 2006 No. Problem
 
-**Answer:** 2006
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garasquadre_2006_semifinale#q15|src_garasquadre_2006_semifinale__Q15]]

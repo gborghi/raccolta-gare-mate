@@ -30,11 +30,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare divisori di 6000 che non sono quadrati perfetti*
+*Quanti divisori positivi non sono quadrati perfetti*
 
 > Quanti divisori positivi di $6000$ non sono quadrati perfetti?
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 34
+[[Quesiti/src_jmo25yq_yosen#q01|src_jmo25yq_yosen__Q01]]
 
 
 
@@ -62,15 +66,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca BC dato che due tangenti si incontrano a P e AB parallele a CP*
+*Lunghezza di un segmento, date due tangenti e due rette parallele*
 
-> Tre punti $A$, $B$ e $C$ si trovano su un cerchio. $P$ è l'intersezione dei tangenti al cerchio a $B$ e a $C$. Supponiamo che le linee $AB$ e $CP$ siano parallele, $AB = 3$ e $BP = 4$. Trova la lunghezza $BC$.
-> 
+> Tre punti $A$, $B$, $C$ stanno su una circonferenza. Sia $P$ l'intersezione delle tangenti alla circonferenza in $B$ e in $C$. Si supponga che le rette $AB$ e $CP$ siano parallele, $AB = 3$ e $BP = 4$. Trovare la lunghezza $BC$.
+>
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 ![[src_jmo25yq_yosen__q02.png]]
 
-**Risposta:** 2\sqrt{3}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $2\sqrt{3}$
+[[Quesiti/src_jmo25yq_yosen#q02|src_jmo25yq_yosen__Q02]]
 
 
 
@@ -96,11 +104,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare a+b+c+d+e sotto una catena di rigide disuguaglianze che coinvolgono quadrati e cubi*
+*Minimo valore possibile di un intero positivo sotto un'equazione*
 
-> I numeri interi positivi $a, b, c, d, e$ soddisfano $$a < b < c < d < e < a^2 < b^2 < c^2 < d^2 < e^2 < b^3 < c^3 < d^3 < e^3.$$ Trovare il valore minimo possibile di $a + b + c + d + e$.
+> Interi positivi $a, b, c, d, e$ soddisfano
+>
+> $$a < b < c < d < e < a^2 < b^2 < c^2 < d^2 < e^2 < b^3 < c^3 < d^3 < e^3.$$
+>
+> Trovare il minimo valore possibile di $a + b + c + d + e$.
 
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Risposta:** 35
+[[Quesiti/src_jmo25yq_yosen#q03|src_jmo25yq_yosen__Q03]]
 
 
 
@@ -124,11 +140,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare 3×3 riempimenti con 19 in cui ogni somma di righe e colonne è divisibile per 3*
+*Modi di scrivere interi in una griglia con somme di riga e di colonna divisibili*
 
-> In quanti modi possiamo scrivere i numeri interi $1, 2, \ldots, 9$ (ciascuno esattamente una volta) nelle celle di una griglia $3 \times 3$ in modo che la somma dei tre numeri in ogni riga e ogni colonna sia divisibile da $3$? (Le disposizioni relative alla rotazione o alla riflessione si contano come distinte.)
+> In quanti modi si possono scrivere gli interi $1, 2, \ldots, 9$ (ciascuno esattamente una volta) nelle caselle di una griglia $3 \times 3$ in modo che la somma dei tre numeri di ogni riga e di ogni colonna sia divisibile per $3$? (Disposizioni che si ottengono l'una dall'altra per rotazione o riflessione si contano come distinte.)
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
 **Risposta:** 5184
+[[Quesiti/src_jmo25yq_yosen#q04|src_jmo25yq_yosen__Q04]]
 
 
 
@@ -153,11 +173,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esprimere un quotiente del prodotto del telescopio nella forma a+b√2*
+*Scrivere una quantità nella forma a più b per radice di c, con a e b razionali*
 
-> Esprimere la seguente quantità nella forma $a + b\sqrt{2}$, dove $a$ e $b$ sono numeri razionali: $$\frac{(1 \times 4 + \sqrt{2})(2 \times 5 + \sqrt{2}) \cdots (10 \times 13 + \sqrt{2})}{(2 \times 2 - 2)(3 \times 3 - 2) \cdots (11 \times 11 - 2)}.$$
+> Esprimere la quantità seguente nella forma $a + b\sqrt{2}$, dove $a$ e $b$ sono numeri razionali:
+>
+> $$\frac{(1 \times 4 + \sqrt{2})(2 \times 5 + \sqrt{2}) \cdots (10 \times 13 + \sqrt{2})}{(2 \times 2 - 2)(3 \times 3 - 2) \cdots (11 \times 11 - 2)}.$$
 
-**Risposta:** 11 + 5\sqrt{2}
+**Argomento:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Risposta:** $11 + 5\sqrt{2}$
+[[Quesiti/src_jmo25yq_yosen#q05|src_jmo25yq_yosen__Q05]]
 
 
 
@@ -188,11 +214,22 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il minimo a+b+c per i numeri interi positivi che soddisfano quattro condizioni GCD*
+*Minimo valore di un intero positivo che soddisfa quattro condizioni*
 
-> I numeri interi positivi $a, b, c$ soddisfano tutte e quattro le seguenti condizioni: \begin{itemize} \item $\gcd(a, b, c) = 1$, \item $\gcd(a, b) + c > 1$, \item $\gcd(b, c) + a > 1$, \item $\gcd(c, a) + b > 1$. \end{itemize} Trova il valore minimo di $a + b + c$.
+> Interi positivi $a, b, c$ soddisfano tutte e quattro le condizioni seguenti:
+> \begin{itemize}
+> \item $\gcd(a, b, c) = 1$,
+> \item $\gcd(a, b) + c > 1$,
+> \item $\gcd(b, c) + a > 1$,
+> \item $\gcd(c, a) + b > 1$.
+> \end{itemize}
+> Trovare il minimo valore di $a + b + c$.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Risposta:** 30
+[[Quesiti/src_jmo25yq_yosen#q06|src_jmo25yq_yosen__Q06]]
 
 
 
@@ -216,11 +253,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le linee attraverso i punti della griglia nella griglia 20 ×15 con al massimo un punto della griglia interna sul segmento di origine*
+*Segmenti buoni dall'origine a un punto del reticolo*
 
-> Considerare i punti della griglia $(m, n)$ con $m = 1, 2, \ldots, 20$ e $n = 1, 2, \ldots, 15$. Per ciascun punto, si considera il segmento di linea dall'origine $O = (0, 0)$ a $(m, n)$. Chiamare tale segmento \emph{good} se il segmento aperto da $O$ a $(m,n)$ contiene al massimo un punto reticolo (cioè\ un punto con entrambe le coordinate interi positivi). Quanti buoni segmenti ci sono? (Qui un punto di laminazione è un punto le cui coordinate sono enteri; i segmenti paralleli agli assi di coordinate sono esclusi.)
+> Si considerino i punti del reticolo $(m, n)$ con $m = 1, 2, \ldots, 20$ e $n = 1, 2, \ldots, 15$. Per ogni tale punto, si consideri il segmento dall'origine $O = (0, 0)$ a $(m, n)$. Si chiami \emph{buono} un tale segmento se il segmento aperto da $O$ a $(m,n)$ contiene al più un punto del reticolo (cioè un punto con entrambe le coordinate interi positivi). Quanti segmenti buoni ci sono? (Qui un \emph{punto del reticolo} è un punto le cui coordinate sono entrambe intere; si escludono i segmenti paralleli agli assi.)
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Risposta:** 212
+[[Quesiti/src_jmo25yq_yosen#q07|src_jmo25yq_yosen__Q07]]
 
 
 
@@ -246,13 +287,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca PQ dove Q è la seconda intersezione dei circoncircoli dei triangoli PAC e PBD*
+*Lunghezza di un segmento, data l'intersezione di due circonferenze circoscritte*
 
-> Cinque punti $A, B, C, D, P$ si trovano in un piano, con $A, B, C, D$ collineare in tale ordine. Abbiamo $AB = BC = CD = 6$, $PB = 5$, $PC = 7$. Il $Q$ deve essere l'intersezione tra il circoncircolo di $\triangle PAC$ e il circoncircolo di $\triangle PBD$ diverso da $P$. Trova la lunghezza $PQ$.
-> 
+> Cinque punti $A, B, C, D, P$ stanno su un piano, con $A, B, C, D$ allineati in quest'ordine. Si ha $AB = BC = CD = 6$, $PB = 5$, $PC = 7$. Sia $Q$ l'intersezione della circonferenza circoscritta a $\triangle PAC$ e della circonferenza circoscritta a $\triangle PBD$, diversa da $P$. Trovare la lunghezza $PQ$.
+>
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-**Risposta:** \dfrac{55\sqrt{7}}{14}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $\dfrac{55\sqrt{7}}{14}$
+[[Quesiti/src_jmo25yq_yosen#q08|src_jmo25yq_yosen__Q08]]
 
 
 
@@ -276,11 +321,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il numero massimo di subsequenze di lunghezza distinta 2015 di una sequenza con ogni numero intero 12015 che appare tre volte*
+*Massimo numero di semisuccessioni distinte*
 
-> Considera una sequenza di integri $3 \times 2015 = 6030$ in cui ciascuno degli integri $1, 2, \ldots, 2015$ appare esattamente tre volte. Una \emph{half-sequence} è una selezione ordinata dei termini $2015$ di questa sequenza (ordine conservante) pensato come una subsequenza. Due semiseguenze sono considerate uguali se sono costituite dagli stessi numeri interi nello stesso ordine (anche se scelte da posizioni diverse). Su tutte le scelte della sequenza originale, trovare il numero massimo di semissequenze distinte.
+> Si consideri una successione di $3 \times 2015 = 6030$ interi in cui ciascuno degli interi $1, 2, \ldots, 2015$ compare esattamente tre volte. Una \emph{semisuccessione} è una scelta ordinata di $2015$ termini di questa successione (che conserva l'ordine), pensata come sottosuccessione. Due semisuccessioni si considerano uguali se sono formate dagli stessi interi nello stesso ordine (anche se scelte da posizioni diverse). Su tutte le scelte della successione di partenza, trovare il massimo numero di semisuccessioni distinte.
 
-**Risposta:** \binom{4030}{2015} - 2015
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Risposta:** $\binom{4030}{2015} - 2015$
+[[Quesiti/src_jmo25yq_yosen#q09|src_jmo25yq_yosen__Q09]]
 
 
 
@@ -304,11 +353,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare quante volte 25^2015 appare in orbita dell'operazione digitali a partire dal 25^2015*
+*Quante volte compare un valore in una successione ottenuta togliendo la cifra delle unità*
 
-> Considerare la seguente operazione sui numeri interi positivi: rimuovere la cifra unità $d$ del numero e aggiungere $4d$ al numero rimanente (cioè, se $n = 10q + d$ con $0 \le d \le 9$, sostituire $n$ con $q + 4d$). Ad esempio, $7 \mapsto 0 + 4 \times 7 = 28$ e $139 \mapsto 13 + 4 \times 9 = 49$. A partire da $25^{2015}$, applicare successivamente questa operazione $10000$ volte. Tra i numeri $10001$ della sequenza (compreso il valore di partenza $25^{2015}$), quanti sono uguali $25^{2015}$?
+> Si consideri l'operazione seguente sugli interi positivi: si toglie la cifra delle unità $d$ del numero e si somma $4d$ al numero che resta (cioè, se $n = 10q + d$ con $0 \le d \le 9$, si sostituisce $n$ con $q + 4d$). Per esempio, $7 \mapsto 0 + 4 \times 7 = 28$, e $139 \mapsto 13 + 4 \times 9 = 49$. Partendo da $25^{2015}$, si applica questa operazione $10000$ volte di seguito. Tra gli $10001$ numeri della successione (valore di partenza $25^{2015}$ compreso), quanti sono uguali a $25^{2015}$?
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]]
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 4
+[[Quesiti/src_jmo25yq_yosen#q10|src_jmo25yq_yosen__Q10]]
 
 
 
@@ -332,11 +385,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'area del triangolo ABC dato alle aree di tre sotto-triangoli formati da punti di centro d'arco*
+*Area di un triangolo, date le aree di tre triangoli sui punti medi degli archi*
 
-> Che $\triangle ABC$ sia un triangolo inciso in un cerchio. Il $A'$ deve essere il punto medio dell'arco $BC$ senza $A$, il $B'$ deve essere il punto medio dell'arco $CA$ senza $B$ e il $C'$ deve essere il punto medio dell'arco $AB$ senza $C$. Le superfici di $\triangle A'B'C'$, $\triangle AB'C'$ e $\triangle A'BC'$ sono rispettivamente $2$, $3$ e $4$. Trova la superficie di $\triangle ABC$.
+> Sia $\triangle ABC$ un triangolo inscritto in una circonferenza. Sia $A'$ il punto medio dell'arco $BC$ che non contiene $A$, sia $B'$ il punto medio dell'arco $CA$ che non contiene $B$, e sia $C'$ il punto medio dell'arco $AB$ che non contiene $C$. Le aree di $\triangle A'B'C'$, $\triangle AB'C'$ e $\triangle A'BC'$ sono rispettivamente $2$, $3$ e $4$. Trovare l'area di $\triangle ABC$.
 
-**Risposta:** \dfrac{288}{35}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $\dfrac{288}{35}$
+[[Quesiti/src_jmo25yq_yosen#q11|src_jmo25yq_yosen__Q11]]
 
 
 
@@ -362,10 +419,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca una costante massima tale che ogni griglia di colore bianco e nero ammetta sempre a·n2 posizioni non sovrapposte di L-tromino*
+*Massimo numero di L-tromini non sovrapposti che si possono sempre piazzare*
 
-> Per qualsiasi numero intero positivo $n$, considera una griglia $(n+1) \times (n+1)$ di cellule unità, ciascuna di colore nero o bianco. Desideriamo posizionare sulla griglia tromini a forma di L non sovrapposti (ciascuno coprendo cellule $3$ che formano un quadrato $2 \times 2$ con un angolo rimosso, cioè\ un tromino L), a condizione che all'interno del quadrato di confine $2 \times 2$ di ogni tromino posizionato, la regione $2 \times 2$ contenga sia una cellula nera che una cellula bianca (cioè che\ non deve essere monocromatica). Trovare il numero reale massimo $a$ in modo tale che, per ogni numero intero positivo $n$ e per ogni colorazione in bianco e nero della griglia $(n+1) \times (n+1)$, si possa sempre posizionare almeno $\lfloor a n^2 \rfloor$ tali tromino non sovrapposti.
-> 
-> (Qui $[r]$ indica il più grande numero intero non superiore al numero reale $r$.)
+> Per ogni intero positivo $n$, si consideri una griglia $(n+1) \times (n+1)$ di caselle unitarie, ciascuna colorata di nero o di bianco. Si vogliono piazzare tromini a L non sovrapposti (ciascuno copre $3$ caselle che formano un quadrato $2 \times 2$ a cui è stato tolto un angolo, cioè un L-tromino) sulla griglia, con la condizione che, nel quadrato di contorno $2 \times 2$ di ogni tromino piazzato, la regione $2 \times 2$ contenga sia una casella nera sia una casella bianca (cioè non sia monocromatica). Trovare il massimo numero reale $a$ tale che, per ogni intero positivo $n$ e ogni colorazione bianca e nera della griglia $(n+1) \times (n+1)$, si possano sempre piazzare almeno $\lfloor a n^2 \rfloor$ tali tromini non sovrapposti.
+>
+> (Qui $[r]$ indica il massimo intero che non supera il numero reale $r$.)
 
-**Risposta:** \dfrac{1}{36}
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
+**Risposta:** $\dfrac{1}{36}$
+[[Quesiti/src_jmo25yq_yosen#q12|src_jmo25yq_yosen__Q12]]

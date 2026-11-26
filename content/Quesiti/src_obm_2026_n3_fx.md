@@ -29,21 +29,26 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_3.pdf#page=1)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con angolo A = 60° e AB < AC: B, C, O, I conciclici e BC, OI, AT concorrenti (T ortocentro di BIC).*
+*Triangolo con angolo A = 60°, AB < AC; B, C, O, I conciclici e BC, OI, AT concorrenti (T ortocentro di BIC).*
 
-> Sia $ABC$ un triangolo con $\angle BAC=60^\circ$ e $AB<AC$. Siano $O$ e $I$ rispettivamente il circocentro e l'incentro del triangolo $ABC$, e sia $T$ l'ortocentro del triangolo $BIC$.
+> Sia $ABC$ un triangolo con $\angle BAC=60^\circ$ e $AB<AC$. Siano $O$ e $I$ il circocentro e l'incentro del triangolo $ABC$, rispettivamente, e sia $T$ l'ortocentro del triangolo $BIC$.
 >
-> a) Dimostrare che i quattro punti $B$, $C$, $O$ e $I$ appartengono a una stessa circonferenza.
+> a) Dimostrare che i quattro punti $B$, $C$, $O$ e $I$ giacciono su una circonferenza comune.
 >
-> b) Dimostrare che le rette $BC$, $OI$ e $AT$ hanno un punto in comune.
+> b) Dimostrare che le rette $BC$, $OI$ e $AT$ hanno un punto comune.
 >
-> *Osservazione:* l'incentro di un triangolo è il punto d'incontro delle bisettrici dei suoi angoli interni, il circocentro è il punto d'incontro degli assi dei suoi lati e l'ortocentro è il punto d'incontro delle sue altezze.
+> *Osservazione:* il centroide di un triangolo è l'intersezione delle bisettrici dei suoi angoli interni, il circocentro è l'intersezione delle mediatrici dei suoi lati, e l'ortocentro è l'intersezione delle sue altezze.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2026_n3_fx#q01|src_obm_2026_n3_fx__Q01]]
 
 
 
@@ -64,19 +69,24 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_3.pdf#page=1)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Primo dispari p: minimo k tale che, per qualche n, i binomiali C(n,0), …, C(n,k) diano tutti i resti modulo p.*
+*Numero primo dispari p: il minimo k tale che, per qualche n, i binomiali C(n,0), …, C(n,k) coprano tutti i resti modulo p.*
 
-> Sia $p$ un numero primo dispari. Determinare il più piccolo intero positivo $k$ per cui esiste un intero positivo $n$ tale che, dividendo per $p$ i numeri $\binom n0, \binom n1, \dots, \binom nk$, ciascuno dei resti $0, 1, \dots, p-1$ compaia almeno una volta.
+> Sia $p$ un numero primo dispari. Determinare il più piccolo intero positivo $k$ per cui esiste un intero positivo $n$ tale che, quando i numeri $\binom n0, \binom n1, \dots, \binom nk$ vengono divisi per $p$, ciascuno dei resti $0, 1, \dots, p-1$ compare almeno una volta.
 >
-> *Osservazione:* per interi non negativi $a$ e $b$ si definisce
+> *Osservazione:* per gli interi non negativi $a$ e $b$ definiamo
 >
-> $$\binom ab=\begin{cases}0 & \text{se } a<b\\ \dfrac{a!}{b!\,(a-b)!} & \text{se } a\ge b\end{cases}.$$
+> $$\binom ab=\begin{cases}0 & \text{if } a<b\\ \dfrac{a!}{b!\,(a-b)!} & \text{if } a\ge b\end{cases}.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2026_n3_fx#q02|src_obm_2026_n3_fx__Q02]]
 
 
 
@@ -97,19 +107,24 @@ level: OBM Nível 3
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_3.pdf#page=1)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazioni di 1..2026 e le 2026 somme pesate cicliche: minimo numero di valori distinti.*
+*Permutazioni di 1..2026 e le 2026 somme pesate cicliche; numero minimo di valori distinti.*
 
-> Per ogni permutazione $a=(a_1,a_2,a_3,\dots,a_{2026})$ di $(1,2,3,\dots,2026)$ si considerino i numeri seguenti:
+> Per ciascuna permutazione $a=(a_1,a_2,a_3,\dots,a_{2026})$ di $(1,2,3,\dots,2026)$, si considerino i seguenti numeri:
 >
 > $$\begin{aligned}&a_1+2a_2+3a_3+\cdots+2025a_{2025}+2026a_{2026},\\&a_2+2a_3+3a_4+\cdots+2025a_{2026}+2026a_1,\\&\qquad\vdots\\&a_{2026}+2a_1+3a_2+\cdots+2025a_{2024}+2026a_{2025}.\end{aligned}$$
 >
-> Sia $f(a)$ il numero di valori distinti tra le 2026 somme qui sopra. Qual è il minimo valore possibile di $f(a)$ al variare di $a$ tra tutte le permutazioni di $(1,2,3,\dots,2026)$?
+> Definisci $f(a)$ come il numero di valori distinti tra le 2026 somme sopra indicate. Qual è il valore minimo possibile di $f(a)$ quando $a$ varia su tutte le permutazioni di $(1,2,3,\dots,2026)$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2026_n3_fx#q03|src_obm_2026_n3_fx__Q03]]
 
 
 
@@ -132,21 +147,26 @@ level: OBM Nível 3
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_3.pdf#page=2)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*f(n) = ⌊√((n+1)³)⌋ − ⌊√(n³)⌋: infiniti n con f(n+1) < f(n).*
+*f(n) = ⌊√((n+1)³)⌋ − ⌊√(n³)⌋; infiniti n tali che f(n+1) < f(n).*
 
-> Per $n$ intero positivo si definisca
+> Per un numero intero positivo $n$, definisci
 >
 > $$f(n)=\left\lfloor\sqrt{(n+1)^3}\right\rfloor-\left\lfloor\sqrt{n^3}\right\rfloor.$$
 >
-> Dimostrare che esistono infiniti interi positivi $n$ tali che $f(n+1)<f(n)$.
+> Dimostrare che esistono infiniti numeri interi positivi $n$ tali che $f(n+1)<f(n)$.
 >
-> *Osservazione:* per un numero reale $x$, $\lfloor x\rfloor$ indica il più grande intero minore o uguale a $x$. Per esempio, $\lfloor\sqrt1\rfloor=\lfloor1\rfloor=1$, $\lfloor\sqrt2\rfloor=1$ e $\lfloor\sqrt{14}\rfloor=3$.
+> *Osservazione:* per un numero reale $x$, $\lfloor x\rfloor$ denota il più grande intero minore o uguale a $x$. Ad esempio, $\lfloor\sqrt1\rfloor=\lfloor1\rfloor=1$, $\lfloor\sqrt2\rfloor=1$ e $\lfloor\sqrt{14}\rfloor=3$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2026_n3_fx#q04|src_obm_2026_n3_fx__Q04]]
 
 
 
@@ -171,23 +191,28 @@ level: OBM Nível 3
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_3.pdf#page=2)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scacchiera 100 × 100 con 50 caselle numerate sulla diagonale: massimo numero di caselle da riempire senza vicini con numeri diversi.*
+*Tavola 100 × 100 con 50 celle diagonali numerate; numero massimo di celle aggiuntive riempite senza numeri distinti adiacenti.*
 
 ![[src_obm_2026_n3_fx__q05.png]]
 
-> In una scacchiera $100\times100$ ci sono 50 caselle già numerate come mostrato in figura.
+> Su una tavola $100\times100$, 50 celle sono già numerate come mostrato nella figura.
 >
-> Esmeralda vuole scrivere numeri interi positivi in alcune delle caselle vuote. Vuole che il riempimento finale della scacchiera soddisfi la seguente proprietà:
+> Esmeralda vuole scrivere numeri interi positivi in alcune delle celle vuote. Vuole che la configurazione finale della scacchiera soddisfi la seguente proprietà:
 >
-> *«non ci sono due caselle con un lato in comune in cui sono scritti numeri diversi».*
+> Nessuna coppia di celle che condividono un lato contiene numeri diversi.
 >
-> Oltre alle 50 caselle già riempite, qual è il massimo numero di caselle che Esmeralda può riempire rispettando questa regola?
+> A parte le 50 celle già riempite, qual è il numero massimo di celle che Esmeralda può riempire rispettando questa regola?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2026_n3_fx#q05|src_obm_2026_n3_fx__Q05]]
 
 
 
@@ -204,12 +229,17 @@ level: OBM Nível 3
 **Area:** [[Geometria]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_3.pdf#page=2)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acutangolo, M punto medio di BC, MD = ME, simmetrici di P e punto Q: dimostrare DL = EK.*
+*Triangolo acuto, M punto medio di BC, MD = ME, riflessioni di P e del punto Q; dimostrare che DL = EK.*
 
-> Sia $ABC$ un triangolo acutangolo. Sia $M$ il punto medio del lato $BC$ e siano $D$ ed $E$ punti sui lati $AB$ e $AC$, rispettivamente, tali che $MD=ME$. La perpendicolare ad $AB$ per $D$ interseca la perpendicolare ad $AC$ per $E$ in $P$. Siano $R$ e $S$ i simmetrici di $P$ rispetto ad $AB$ e ad $AC$, rispettivamente. Le rette $BR$ e $CS$ si intersecano in $Q$. Siano $K$ e $L$ le proiezioni ortogonali di $Q$ su $AB$ e su $AC$, rispettivamente. Dimostrare che $DL=EK$.
+> Sia $ABC$ un triangolo acutangolo. Sia $M$ il punto medio del lato $BC$ e siano $D$ e $E$ dei punti rispettivamente sui lati $AB$ e $AC$, tali che $MD=ME$. La retta perpendicolare a $AB$ passante per $D$ incontra la retta perpendicolare a $AC$ passante per $E$ in $P$. Siano $R$ e $S$ le riflessioni di $P$ rispettivamente rispetto a $AB$ e a $AC$. Le rette $BR$ e $CS$ si incontrano in $Q$. Siano $K$ e $L$ le proiezioni ortogonali di $Q$ rispettivamente su $AB$ e su $AC$. Dimostrare che $DL=EK$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2026_n3_fx#q06|src_obm_2026_n3_fx__Q06]]

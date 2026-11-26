@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2009×2009 tabella; tutte le somme di 4018 righe/colonne possono essere distinte quadrate perfette?*
+*Tabella 2009×2009; è possibile che tutte le 4018 somme di righe/colonne siano quadrati perfetti distinti?*
 
-> Esmeralda scrive $2009^2$ numeri interi in una tabella con righe 2009 e colonne 2009, inserendo un numero in ogni cella. Somma correttamente i numeri in ogni riga e in ogni colonna, ottenendo risultati 4018. Si accorge che tutti i risultati sono diversi. È possibile che tutti questi risultati siano quadrati perfetti?
+> Esmeralda scrive $2009^2$ interi in una tabella con 2009 righe e 2009 colonne, collocando un numero in ogni cella. Somma correttamente i numeri di ciascuna riga e di ciascuna colonna, ottenendo 4018 risultati. Nota che tutti i risultati sono distinti. È possibile che tutti questi risultati siano quadrati perfetti?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|method_casework]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n3_f3#q01|src_obm_2009_n3_f3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prima sicura q=2p+1; prova che q ha un multiplo con somma digitali ≤3*
+*Numero primo sicuro q=2p+1; dimostrare che q ha un multiplo la cui somma delle cifre è ≤3*
 
-> $q$ sia un primo della forma $2p + 1$, dove $p > 0$ è anche un primo. Prova che esiste un multiple di $q$ la cui somma di cifre nella base dieci è inferiore o uguale a 3.
+> Sia $q$ un numero primo della forma $2p + 1$, dove $p > 0$ è anch'esso un numero primo. Dimostrare che esiste un multiplo di $q$ la cui somma delle cifre in base dieci è minore o uguale a 3.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n3_f3#q02|src_obm_2009_n3_f3__Q02]]
 
 
 
@@ -83,11 +97,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Chip-fire su rete di numeri interi con pietre del 2009; prova di terminazione e confluenza*
+*Sparo di chip su reticolo degli interi con 2009 pietre; dimostrare la terminazione e la confluenza*
 
-> Le pietre del 2009 sono posizionate in alcuni punti $(x, y)$ con coordinate interi nel piano cartesiano. Un'operazione consiste nel scegliere un punto $(a, b)$ che abbia quattro o più pietre, nel rimuovere quattro pietre da $(a, b)$ e nel posizionare una pietra in ciascuno dei quattro punti $$(a-1,\,b),\quad (a,\,b+1),\quad (a-1,\,b),\quad (a+1,\,b).$$ (Nota: i quattro punti bersaglio elencati nella fonte originale sono $(a-1,b)$, $(a,b+1)$, $(a-1,b)$, $(a+1,b)$; il terzo è quasi certamente un errore di stampa per $(a,b-1)$, dando ai quattro cardinali vicini $(a-1,b)$, $(a,b+1)$, $(a,b-1)$, $(a+1,b)$.)
-> 
-> Mostrare che, dopo un numero finito di operazioni, ogni punto avrà al massimo tre pietre. Inoltre, dimostrare che la configurazione finale non dipende dall'ordine di esecuzione delle operazioni.
+> Nel piano cartesiano, in alcuni punti $(x, y)$ a coordinate intere vengono collocate 2009 pietre. Un'operazione consiste nel scegliere un punto $(a, b)$ che abbia quattro o più pietre, rimuovere quattro pietre da $(a, b)$ e collocare una pietra in ciascuno dei quattro punti.
+> $$(a-1,\,b),\quad (a,\,b+1),\quad (a-1,\,b),\quad (a+1,\,b).$$
+> (Nota: i quattro punti bersaglio come elencati nella fonte originale sono $(a-1,b)$, $(a,b+1)$, $(a-1,b)$, $(a+1,b)$; il terzo è quasi certamente un errore di stampa per $(a,b-1)$, il che fornisce i quattro vicini cardinali $(a-1,b)$, $(a,b+1)$, $(a,b-1)$, $(a+1,b)$.)
+>
+> Dimostrare che, dopo un numero finito di operazioni, ogni punto avrà al più tre pietre. Inoltre, dimostrare che la configurazione finale non dipende dall'ordine in cui vengono eseguite le operazioni.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_invarianti|method_invarianti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n3_f3#q03|src_obm_2009_n3_f3__Q03]]
 
 
 
@@ -110,9 +133,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che esiste un n0 tale che un cubo possa essere dissezionato in n cubetti più piccoli per tutti n≥n0*
+*Dimostrare che esiste n₀ tale che un cubo può essere scomposto in n cubi più piccoli per ogni n≥n₀*
 
-> Mostrare che esiste un intero positivo $n_0$ con la seguente proprietà: per qualsiasi intero $n \ge n_0$, è possibile dividere un cubo in cubi $n$ più piccoli (non necessariamente uguali).
+> Dimostrare che esiste un numero intero positivo $n_0$ con la seguente proprietà: per ogni numero intero $n \ge n_0$, è possibile partizionare un cubo in $n$ cubi più piccoli (non necessariamente uguali).
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|method_casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n3_f3#q04|src_obm_2009_n3_f3__Q04]]
 
 
 
@@ -135,9 +165,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I cerchi di OBC, OAC, OAB producono sei punti; tre linee di connessione sono simultanee*
+*Le circonferenze circoscritte a OBC, OAC e OAB danno origine a sei punti; tre rette congiungenti sono concorrenti*
 
-> Lasciate che $ABC$ sia un triangolo e $O$ il suo centro circonda. Le linee $AB$ e $AC$ incontrano di nuovo il circoncircolo del triangolo $OBC$ rispettivamente a $B_1 \neq B$ e $C_1 \neq C$; le linee $BA$ e $BC$ incontrano di nuovo il circoncircolo del triangolo $OAC$ rispettivamente a $A_2 \neq A$ e $C_2 \neq C$; e le linee $CA$ e $CB$ incontrano di nuovo il circoncircolo del triangolo $OAB$ rispettivamente a $A_3 \neq A$ e $B_3 \neq B$. Prove che le linee $A_2A_3$, $B_1B_3$ e $C_1C_2$ sono simultanee.
+> Sia $ABC$ un triangolo e $O$ il suo circocentro. Le rette $AB$ e $AC$ incontrano nuovamente la circonferenza circoscritta al triangolo $OBC$ rispettivamente nei punti $B_1 \neq B$ e $C_1 \neq C$; le rette $BA$ e $BC$ incontrano nuovamente la circonferenza circoscritta al triangolo $OAC$ rispettivamente nei punti $A_2 \neq A$ e $C_2 \neq C$; e le rette $CA$ e $CB$ incontrano nuovamente la circonferenza circoscritta al triangolo $OAB$ rispettivamente nei punti $A_3 \neq A$ e $B_3 \neq B$. Dimostrare che le rette $A_2A_3$, $B_1B_3$ e $C_1C_2$ sono concorrenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n3_f3#q05|src_obm_2009_n3_f3__Q05]]
 
 
 
@@ -161,6 +198,14 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i valori della somma ciclica x_i/(x_{i-1}+x_i+x_{i+1}) per i reali positivi, n>3 fissi*
+*Trovare tutti i valori della somma ciclica x_i/(x_{i-1}+x_i+x_{i+1}) per numeri reali positivi, con n>3 fisso*
 
-> Che $n > 3$ sia un numero intero fisso e che $x_1, x_2, \ldots, x_n$ sia un numero reale positivo. Trova, in termini di $n$, tutti i possibili valori reali di $$S = \frac{x_1}{x_n + x_1 + x_2} + \frac{x_2}{x_1 + x_2 + x_3} + \frac{x_3}{x_2 + x_3 + x_4} + \cdots + \frac{x_{n-1}}{x_{n-2} + x_{n-1} + x_n} + \frac{x_n}{x_{n-1} + x_n + x_1}.$$
+> Sia $n > 3$ un intero fisso e siano $x_1, x_2, \ldots, x_n$ numeri reali positivi. Determinare, in funzione di $n$, tutti i possibili valori reali di
+> $$S = \frac{x_1}{x_n + x_1 + x_2} + \frac{x_2}{x_1 + x_2 + x_3} + \frac{x_3}{x_2 + x_3 + x_4} + \cdots + \frac{x_{n-1}}{x_{n-2} + x_{n-1} + x_n} + \frac{x_n}{x_{n-1} + x_n + x_1}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n3_f3#q06|src_obm_2009_n3_f3__Q06]]

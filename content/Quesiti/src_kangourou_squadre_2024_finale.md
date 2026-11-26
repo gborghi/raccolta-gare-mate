@@ -59,7 +59,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pentagon perimeter shaded by nested equilateral triangles*
+*Perimeter of a pentagon shaded by nested equilateral triangles*
 
 ![[src_kangourou_squadre_2024_finale__prob1.png]]
 
@@ -88,9 +88,13 @@ level: squadre
 \end{document}
 ```
 
-> Look at the figure. ABC and EFG are equilateral triangles; F is the midpoint of BC, G is the midpoint of FC and D is aligned with F and E. The perimeter of triangle ABC is 132. What is the perimeter of the shaded pentagon ABGED?
+> The pentagon Observe the figure. ABC and EFG are equilateral triangles; F is the midpoint of BC, G is the midpoint of FC, and D lies on the same line as F and E. The perimeter of triangle ABC is 132. What is the perimeter of the shaded pentagon ABGED?
 
-**Answer:** 0121
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_squadre_2024_finale#q01|src_kangourou_squadre_2024_finale__Q01]]
 
 
 
@@ -118,9 +122,14 @@ level: squadre
 
 *Minimum integer sum of 9 and 10 consecutive integers*
 
-> Positive sums What is the smallest positive integer that can be expressed as the sum of both nine consecutive positive integers and ten consecutive positive integers?
+> Sums of Positives: What is the smallest positive integer that can be expressed as the sum of either nine consecutive positive integers or ten consecutive positive integers?
 
-**Answer:** 0135
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2024_finale#q02|src_kangourou_squadre_2024_finale__Q02]]
 
 
 
@@ -151,13 +160,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PQ segment length in a square with perpendicular notes*
+*Length of segment PQ in a square with known perpendiculars*
 
 ![[src_kangourou_squadre_2024_finale__prob3.png]]
 
-> The PQ segment In the figure, the endpoint P of the PQ segment is a vertex of the square while the endpoint Q is an internal point on one side of the square that has no endpoint in P. The other two segments inside the square have both one end at one vertex of the square and the other on the PQ segment and are perpendicular to PQ. The figure, which is not to scale, shows their lengths in centimeters. How many millimeters is the PQ segment?
+> Segment PQ. In the figure, endpoint P of segment PQ is a vertex of the square, while endpoint Q is a point inside a side of the square that does not have an endpoint at P. The other two segments inside the square both have one endpoint at a vertex of the square and the other on segment PQ, and they are perpendicular to PQ. The figure, which is not drawn to scale, gives their lengths in centimeters. How many millimeters long is segment PQ?
 
-**Answer:** 0136
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_squadre_2024_finale#q03|src_kangourou_squadre_2024_finale__Q03]]
 
 
 
@@ -183,11 +196,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number ABC = B x CB with B and CB prime*
+*ABC number = B × CB, where B and CB are prime*
 
-> Prime numbers The three digit number n = ABC (A ≠ 0) is such that n = B × CB where both B and CB are prime numbers. What is n?
+> Prime numbers The three-digit number n = ABC (A ≠ 0) satisfies n = B × CB, where both B and CB are prime numbers. What is the value of n?
 
-**Answer:** 0679
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2024_finale#q04|src_kangourou_squadre_2024_finale__Q04]]
 
 
 
@@ -213,11 +231,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Year of first novel given sum of years*
+*The year of the first novel is given by the sum of the years*
 
-> At some point in his life, a writer published a novel every two years. He's certainly published more than 7 and less than 14. Adding up the years in which his novels were published, you get 21,945. In what year did he publish his first novel?
+> The First Novel At a certain period in his life, a writer published a novel every two years. He certainly published more than 7 and fewer than 14 novels. Adding together the years in which his novels were published gives 21,945. In which year did he publish his first novel?
 
-**Answer:** 1985
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2024_finale#q05|src_kangourou_squadre_2024_finale__Q05]]
 
 
 
@@ -244,12 +266,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last integer written with alternating sum equal to 2024*
+*Last complete written sequence with alternating sum equal to 2024*
 
-> The sum is 2024  
-> Simeone began writing the positive integers, starting from 1, but putting the minus sign in front of all and only the even numbers. He therefore began by writing 1 – 2 + 3 – 4 + 5 – 6 + …. He stopped exactly when the algebraic sum written as a result gave 2024 as a result. What is the last integer he wrote?
+> The sum is 2024. Simeone began writing positive integers, starting from 1, but he put a minus sign in front of all and only the even numbers. So he started by writing 1 – 2 + 3 – 4 + 5 – 6 + …. He stopped exactly when the algebraic sum that had been written came to 2024. What is the last integer he wrote?
 
-**Answer:** 4047
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2024_finale#q06|src_kangourou_squadre_2024_finale__Q06]]
 
 
 
@@ -293,15 +318,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area between two internally tangent circles divided by*
+*Area between two internally tangent circles, divided by pi*
 
 ![[src_kangourou_squadre_2024_finale__prob7.png]]
 
-> The shaded region The figure highlights two circles internally tangent at a point, the diameter of the outer circle having that point as one of its endpoints and the diameter of the same circle perpendicular to it. The lengths in metres, 20 and 36, of the two segments indicated are also specified. What is the area of the region (shaded) between the two circles divided by π in square metres?
->  
+> The shaded region. The figure shows two circles that are internally tangent at a point, the diameter of the outer circle having that point as one endpoint, and the diameter of the same circle that is perpendicular to it. The lengths, in metres, of the two indicated line segments—20 and 36—are also specified. What is the value, in square metres, of the area of the (shaded) region between the two circles divided by π?
+>
 > } 36 20 } P Q A B C D E F G
 
-**Answer:** 3276
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_squadre_2024_finale#q07|src_kangourou_squadre_2024_finale__Q07]]
 
 
 
@@ -329,9 +358,13 @@ level: squadre
 
 *Percentage increase in the volume of a parallelepiped*
 
-> The box A box is shaped like a rectangular parallelepiped. If the length is increased by 50% and the width by 40%, and the height is decreased by 10%, by what percentage does the volume of the box increase? (Answer without the % symbol.)
+> The Box A box is in the shape of a rectangular parallelepiped. If its length is increased by 50% and its width by 40%, and its height is decreased by 10%, by what percentage does the volume of the box increase? (Answer without the % symbol.)
 
-**Answer:** 0089
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_squadre_2024_finale#q08|src_kangourou_squadre_2024_finale__Q08]]
 
 
 
@@ -358,11 +391,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of crosses between two swimmers in one hour*
+*Number of crossings between two female swimmers in one hour*
 
-> Two swimmers train in a swimming pool: they start from one side and, when they reach the opposite side, they reverse their direction. One takes 45 seconds to reach the opposite side, the other 30 seconds. If they both start from opposite sides and swim in adjacent lanes for one hour at a constant speed, how many times will they find themselves next to each other for a crossing or an overtaking?
+> The Swimmers Two swimmers are training in a pool: they start from one side and, when they reach the opposite side, reverse direction. It takes one of them 45 seconds to reach the opposite side; the other
+> 30. If they set off at the same time from opposite sides and both swim in adjacent lanes for an hour
+> Moving exactly at a constant speed, how many times will they be side by side during an intersection or an overtaking maneuver?
 
-**Answer:** 0100
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2024_finale#q09|src_kangourou_squadre_2024_finale__Q09]]
 
 
 
@@ -388,13 +427,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest integer whose product of digits is 540*
+*The smallest integer whose digits multiply to 540*
 
-> The smallest  
-> What is the smallest positive integer whose product of digits is 540? (Write 0000 if you believe 
-> that such a number does not exist.)
+> Smallest What is the smallest positive integer whose digits multiply to 540? (Write 0000 if you think such a number does not exist.)
 
-**Answer:** 2569
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2024_finale#q10|src_kangourou_squadre_2024_finale__Q10]]
 
 
 
@@ -423,11 +465,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum diagonal grid sum nxn with cells 3 and 17*
+*Minimum sum of the diagonals of an n×n grid with cells 3 and 17*
 
-> The grid In each cell of a square grid n × n, where n is a positive integer, an integer is placed so that the numbers in two adjacent cells (i.e. they share a side) differ exactly by 1. The numbers 3 and 17 are in the grid. If n is the smallest possible value compatible with the statement of the problem, what is the sum of the numbers appearing on the diagonals of the grid?
+> The Grid In each cell of a square n × n grid, where n is a positive integer, an integer is placed such that the numbers in two adjacent cells (that is, cells that share a side) differ by exactly 1. The numbers 3 and 17 appear in the grid. If n is the smallest possible value consistent with the problem statement, what is the sum of the numbers that appear on the diagonals of the grid?
 
-**Answer:** 0160
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_squadre_2024_finale#q11|src_kangourou_squadre_2024_finale__Q11]]
 
 
 
@@ -454,11 +501,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers in the 25th row of the triangular pattern*
+*Sum of the numbers in the 25th row of the triangular array*
 
-> Triangle pattern Imagine that positive integers are listed in a triangular (unlimited) pattern as suggested by the figure. What is the sum of the numbers in the twenty-fifth row?
+> Triangular array Imagine that the positive integers are listed in a (limitless) triangular array as suggested by the figure. What is the sum of the numbers in the twenty-fifth row?
 
-**Answer:** 7825
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2024_finale#q12|src_kangourou_squadre_2024_finale__Q12]]
 
 
 
@@ -491,13 +542,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of match A-D in four-team football tournament*
+*Result of the A-D match in the 4-team football tournament*
 
 ![[src_kangourou_squadre_2024_finale__prob13.png]]
 
-> The tournament A football tournament involves four teams A, B, C, D. Each meets each of the other three once and only once. The final ranking (3 points for victory, 1 for tie, 0 for defeat) is what you see in the figure. A and C only conceded one goal each, B and C only scored one goal each, A scored three goals. What is the result of the match between A and D? If the match ends m for A and n for D (e.g. 1 to 0), write [0m0n] (in the case of the example [0100]).
+> The Tournament Four teams, A, B, C, and D, take part in a football tournament. Each team plays each of the other three teams once and only once. The final standings (3 points for a win, 1 for a draw, 0 for a loss) are the ones you see in the figure. A and C have each conceded only one goal; B and C have each scored only one goal; A has scored 3 goals. What is the result of the match between A and D? If the match ended with m goals for A and n goals for D (for example, 1–0), write [0m0n] (in the case of the example, [0100]).
 
-**Answer:** 0201
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_squadre_2024_finale#q13|src_kangourou_squadre_2024_finale__Q13]]
 
 
 
@@ -525,15 +581,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of the scores of 24 constrained die rolls*
+*Maximum sum of the scores of 24 constrained dice rolls*
 
-> The die  
-> Mauro rolled a fair die 24 times. All scores from 1 to 6 came up at least once, but 
-> 1 came up more than any other. The sum of all the scores obtained by 
-> Mauro is the highest possible consistent with what was said 
-> previously: what is this sum?
+> Mauro rolled a fair die 24 times. Every score from 1 to 6 came up at least once, but 1 came up more often than any other score. The sum of all the scores Mauro obtained is the highest possible consistent with what was said earlier: what is this sum?
 
-**Answer:** 0090
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_squadre_2024_finale#q14|src_kangourou_squadre_2024_finale__Q14]]
 
 
 
@@ -586,14 +643,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region shaded in square divided*
+*Area, region, shaded in a divided square*
 
 ![[src_kangourou_squadre_2024_finale__prob15.png]]
 
-> The sides of the square in the figure to the right are divided into segments of lengths indicated in centimetres; connecting the ends of some of these with other segments gives rise to the two regions that appear, one white and one shaded. What is the area in square centimetres of the shaded region? Four four four four four four four four three three three three three two two two seven seven seven seven squad Points A seven B five C four D 0 one two three four five six seven eight nine ten eleven twelve thirteen four four four four four four four three three three three three three two two two two seven seven seven seven seven squad Points A seven B five four D one two three four five six seven eight nine ten eleven twelve thirteen four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four
-> 
-> Kangourou of Mathematics 2024 Kangourou Cup to teams Final 2 Cervia, 4 May 2024
->  
-> Securities and replies
+> The divided square: In the figure on the right, the sides of the square are divided into line segments whose lengths are given in centimeters; by connecting the endpoints of some of these segments with other line segments, the two regions shown—one white and one shaded—were formed. What is the area, in square centimeters, of the shaded region? Ruler Points A 7 B 5 C 4 D 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 … … .
+>
+> Kangaroo Mathematics Competition 2024 Kangaroo Team Cup Final 2 Cervia, 4 May 2024
+>
+> Titles and answers
 
-**Answer:** 0218
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_squadre_2024_finale#q15|src_kangourou_squadre_2024_finale__Q15]]

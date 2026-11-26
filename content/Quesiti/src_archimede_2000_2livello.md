@@ -34,17 +34,19 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which beam to increase for maximum volume increase*
+*Which edge to lengthen for the greatest volume increase*
 
-> A straight parallel piped has lengths of $a$, $b$, $c$, with $a < b < c$. If the length of one of the shoulders is increased by a quantity $q$, then the volume of the paralelepiped increases. In which of the following cases does the volume increase the most?
+> A right parallelepiped has edges of lengths $a$, $b$, $c$, with $a < b < c$. If the length of one of the edges is increased by an amount $q$, then the volume of the parallelepiped increases. In which of the following cases is the increase in volume greatest?
 >
-> - **(A)** When increased $a$
+> - **(A)** when $a$ is increased
 > - **(B)** when $b$ is increased
 > - **(C)** when $c$ is increased
-> - **(D)** The increase is the same in any case.
-> - **(E)** depends on the specific values of $a$, $b$, $c$.
+> - **(D)** the increase is the same in every case
+> - **(E)** it depends on the particular values of $a$, $b$, $c$.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+[[Quesiti/src_archimede_2000_2livello#q01|src_archimede_2000_2livello__Q01]]
 
 
 
@@ -74,9 +76,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the subset defined by circle and semiplane*
+*Area of the subset defined by a circle and a half-plane*
 
-> Whether $A$ is the area of the subset of the plan consisting of the $(x, y)$ points verifying the two $x^2 + y^2 \leq 100$ reports, $x + \sqrt{17}\, y \leq 0$. So, what?
+> Let $A$ be the area of the subset of the plane consisting of the points $(x, y)$ satisfying the two relations $x^2 + y^2 \leq 100$, $x + \sqrt{17}\, y \leq 0$. Then:
 >
 > - **(A)** $A < 100$
 > - **(B)** $100 \leq A < 150$
@@ -84,7 +86,11 @@ level: 2 livello
 > - **(D)** $200 \leq A < 250$
 > - **(E)** $A \geq 250$.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_analitica|Analytic geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2000_2livello#q02|src_archimede_2000_2livello__Q02]]
 
 
 
@@ -113,17 +119,20 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Speed of train crossing the tunnel*
+*Speed of the train crossing the tunnel*
 
-> A 500-metre-long train crosses a three-kilometer-long tunnel at constant speed. Knowing that 50 seconds have passed since the last train carriage entered the tunnel and the locomotive emerges from the other exit, it can be said that the speed of the train is:
+> A train 500 metres long crosses a tunnel 3 kilometres long at constant speed. Given that 50 seconds pass from the moment the last carriage of the train enters the tunnel until the locomotive emerges from the other end, one can say that the speed of the train is:
 >
 > - **(A)** 50 km/h
 > - **(B)** 216 km/h
 > - **(C)** 252 km/h
 > - **(D)** 300 km/h
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2000_2livello#q03|src_archimede_2000_2livello__Q03]]
 
 
 
@@ -152,9 +161,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum 50% card for fishing at least one heart*
+*Minimum number of cards to draw for at least a 50% chance of drawing at least one heart*
 
-> What is the minimum number of cards you need to fish from an ordinary deck of 52 to have at least a 50% chance of extracting one or more card hearts?
+> What is the minimum number of cards that must be drawn from an ordinary 52-card deck to have at least a 50% probability of drawing one or more heart cards?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -162,7 +171,10 @@ level: 2 livello
 > - **(D)** 5
 > - **(E)** 6.
 
-**Answer:** B
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2000_2livello#q04|src_archimede_2000_2livello__Q04]]
 
 
 
@@ -191,17 +203,20 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordering of X, Y, Z by a, b*
+*Ordering of X, Y and Z in terms of a and b*
 
-> The three quantities $X = a + 7b$, $Y = 2a + 5b$, $Z = 4a + 2b$ are given, where $a$ and $b$ are positive real numbers. So, what?
+> The three quantities $X = a + 7b$, $Y = 2a + 5b$, $Z = 4a + 2b$ are given, where $a$ and $b$ are positive real numbers. Then:
 >
 > - **(A)** $X < Y < Z$
 > - **(B)** $Z < Y < X$
 > - **(C)** $Y < X < Z$
 > - **(D)** $Y < Z < X$
-> - **(E)** The order of $X$, $Y$, $Z$ depends on the values of $a$ and $b$.
+> - **(E)** the order of $X$, $Y$, $Z$ depends on the values of $a$ and $b$.
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+[[Quesiti/src_archimede_2000_2livello#q05|src_archimede_2000_2livello__Q05]]
 
 
 
@@ -236,23 +251,24 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What data is needed to choose the shortest route*
+*Which data are needed to choose the shortest path*
 
-![[src_archimede_2000_2livello__prob6.png]]
-
-> A river is crossed by two bridges $TS$ and $VM$; the two banks $TV$ and $SM$ are two concentric arc circles; the two bridges $TS$ and $VM$ are aligned with the centre (see figure). A person wants to get to $V$ starting from $T$ by choosing the shortest path between the two possible paths:
+> A river is crossed by two bridges $TS$ and $VM$; the two banks $TV$ and $SM$ are two concentric circular arcs; the two bridges $TS$ and $VM$ are collinear with the centre (see the figure). A person wants to reach $V$ starting from $T$, choosing the shorter of the two possible paths:
 >
-> (1) follow the river along the arc $TV$ (2) cross the bridge $TS$, follow the river along the other bank ($SM$) and cross the bridge $MV$.
+> (1) follow the river along the circular arc $TV$
+> (2) cross the bridge $TS$, follow the river along the other bank ($SM$) and cross the bridge $MV$.
 >
-> We indicate with $\alpha$ the angle below the two arc radii, with $R$ the length of $OT$ and with $r$ the length of $OS$. What data does a person necessarily need to know in order to make the best choice?
+> Let $\alpha$ be the angle subtended by the two circular arcs, $R$ the length of $OT$ and $r$ the length of $OS$. Which data must the person necessarily know in order to make the best choice?
 >
-> - **(A)** Su $R$, $r$ e $\alpha$
-> - **(B)** su $\alpha$ e su $R - r$
+> - **(A)** on $R$, $r$ and $\alpha$
+> - **(B)** on $\alpha$ and on $R - r$
 > - **(C)** only on $\alpha$
 > - **(D)** only on $R - r$
-> - **(E)** The first route is shorter anyway. (see figure)
+> - **(E)** the first path is shorter in every case. (see the figure)
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_archimede_2000_2livello#q06|src_archimede_2000_2livello__Q06]]
 
 
 
@@ -287,21 +303,26 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who is guilty of the defendant's statements?
+*Who the culprit is, from the defendants' statements*
 
-> In recording the statements of the three defendants at a trial, the Chancellor was rather neglected, and the minutes show the following:
+> In recording the statements of the three defendants at a trial, the clerk was rather careless, and the record reads as follows:
 >
-> - The culprit is$\ldots$ario. The culprit is Darius. - Mario: The culprit is$\ldots$ario.
+> - Carlo: "the culprit is $\ldots$ario".
+> - Dario: "the culprit is Dario".
+> - Mario: "the culprit is $\ldots$ario".
 >
-> Knowing that the culprit lied and that at least one of the innocents told the truth, what can we conclude?
+> Knowing that the culprit lied and that at least one of the innocent ones told the truth, what can one conclude?
 >
-> - **(A)** The culprit is Darius .
-> - **(B)** The culprit cannot be determined .
-> - **(C)** Charles has accused Darius
-> - **(D)** Mario accused Darius
+> - **(A)** the culprit is Dario
+> - **(B)** the culprit cannot be determined
+> - **(C)** Carlo accused Dario
+> - **(D)** Mario accused Dario
 > - **(E)** Mario accused Mario.
 
-**Answer:** D
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2000_2livello#q07|src_archimede_2000_2livello__Q07]]
 
 
 
@@ -331,17 +352,21 @@ Who is guilty of the defendant's statements?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lottery ticket number with 999 digits 9*
+*How many tickets, if the digit 9 is used 999 times*
 
-> In a lottery, the number 9 is used exactly 999 times to number tickets (numbered from number 1 onwards). How many lottery tickets have been issued?
+> In a lottery the digit 9 is used exactly 999 times to number the tickets (numbered from 1 onwards). How many tickets were issued for the lottery?
 >
-> - **(A)** Less than 2000
-> - **(B)** Between 2001 and 3000
+> - **(A)** less than 2000
+> - **(B)** between 2001 and 3000
 > - **(C)** between 3001 and 4000
-> - **(D)** More than 4001
-> - **(E)** There can be no such lottery.
+> - **(D)** more than 4001
+> - **(E)** no such lottery can exist.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2000_2livello#q08|src_archimede_2000_2livello__Q08]]
 
 
 
@@ -371,17 +396,21 @@ Who is guilty of the defendant's statements?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many real terns with a2+b2+c2=1 and a3+b3+c3=1*
+*How many real triples satisfy both power sums*
 
-> How many $(a, b, c)$ sets of real numbers verify the following system? $$\begin{cases} a^2 + b^2 + c^2 = 1 \\ a^3 + b^3 + c^3 = 1 \end{cases}$$
+> How many triples $(a, b, c)$ of real numbers satisfy the following system?
+> $$\begin{cases} a^2 + b^2 + c^2 = 1 \\ a^3 + b^3 + c^3 = 1 \end{cases}$$
 >
-> - **(A)** None of them .
+> - **(A)** none
 > - **(B)** 1
 > - **(C)** 3
 > - **(D)** 6
-> - **(E)** I'm not going to end it. Note: $(2, 3, 8)$ is different from $(3, 2, 8)$.
+> - **(E)** infinitely many. Note: the triple $(2, 3, 8)$ is different from the triple $(3, 2, 8)$.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2000_2livello#q09|src_archimede_2000_2livello__Q09]]
 
 
 
@@ -411,19 +440,19 @@ Who is guilty of the defendant's statements?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is determined between frame, passpartout and canvas*
+*Which of frame, mat and canvas has a determined area*
 
-![[src_archimede_2000_2livello__prob10.png]]
-
-> The canvas of a rectangular painting is surrounded by a 10 cm wide passepartout (i.e. box). Around the latter there is a frame, also 10 cm wide (the white rectangle represents the canvas, the drawn surface the passepartout, the black surface the frame). It is known that the area of the whole frame (including the frame) is twice the sum of the passport and the canvas. It can then be concluded that:
+> The canvas of a rectangular painting is surrounded by a mat (that is, a border) 10 cm wide. Around that there is then a frame, also 10 cm wide (the white rectangle is the canvas, the hatched region the mat, the black region the frame). It is known that the area of the whole picture (including the frame) equals twice the sum of the areas of the mat and of the canvas. One can then conclude that:
 >
-> - **(A)** The area of the frame and the area of the pass and the canvas shall be determined.
-> - **(B)** Only the area of the frame is determined.
-> - **(C)** only the area of the passports is determined
-> - **(D)** Only the area of the canvas is determined.
-> - **(E)** None of the previous quantities are determined. (see figure)
+> - **(A)** both the area of the frame and the areas of the mat and of the canvas are determined
+> - **(B)** only the area of the frame is determined
+> - **(C)** only the area of the mat is determined
+> - **(D)** only the area of the canvas is determined
+> - **(E)** none of the previous quantities is determined. (see the figure)
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2000_2livello#q10|src_archimede_2000_2livello__Q10]]
 
 
 
@@ -447,11 +476,15 @@ Who is guilty of the defendant's statements?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the ABPQ tetrahedron in a side cube 12*
+*Volume of tetrahedron ABPQ in a cube of side 12*
 
-> In a side cube 12, $P$ and $Q$ are the two-sided centers that have in common the slope $AB$. What is the volume of the tetrahedron with the points $A$, $B$, $P$, $Q$ as vertices?
+> In a cube of side 12, $P$ and $Q$ are the centres of two faces that share the edge $AB$. What is the volume of the tetrahedron whose vertices are the points $A$, $B$, $P$, $Q$?
 
-**Answer:** 72
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2000_2livello#q11|src_archimede_2000_2livello__Q11]]
 
 
 
@@ -474,11 +507,14 @@ Who is guilty of the defendant's statements?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many distinct TVs nest in the screen*
+*How many distinguishable nested televisions are seen on the screen*
 
-> The screen size of a television is $60\,\text{cm} \times 45\,\text{cm}$. A camera frames the entire TV, and it sends the image back to the TV itself, so inside this TV you see another one and so on. The largest TV you see inside the screen has an area equal to half the screen area. Assuming that a person watches the TV sitting at such a distance that he or she cannot distinguish images of less than $1\,\text{cm}^2$ area, how many TVs does he or she see inside the screen?
+> The dimensions of a television screen are $60\,\text{cm} \times 45\,\text{cm}$. A camera frames the television entirely and sends the image back onto the same screen, so another television is seen inside this one, and so on. The largest television seen inside the screen has an area equal to half the area of the screen. Assuming that a person observes the television from a distance such that images of area less than $1\,\text{cm}^2$ cannot be distinguished, how many televisions does the person see inside the screen?
 
-**Answer:** 11
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2000_2livello#q12|src_archimede_2000_2livello__Q12]]
 
 
 
@@ -501,11 +537,14 @@ Who is guilty of the defendant's statements?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real positive solutions of 32^x = 64^[x]*
+*Positive real solutions of 32^x = 64^[x]*
 
-> For each real number $x$, we indicate with $[x]$ the full part of $x$, defined as the largest integer $\leq x$. So for example we have that $[3/2] = 1$, $[\pi] = 3$, $[8] = 8$. Determine how many real positive solutions ($> 0$) of the equation $3^{2x} = 64^{[x]}$ are.
+> For every real number $x$, let $[x]$ denote the "integer part of $x$", defined as the greatest integer $\leq x$. Thus, for example, $[3/2] = 1$, $[\pi] = 3$, $[8] = 8$. Determine how many positive real solutions ($> 0$) there are to the equation $3^{2x} = 64^{[x]}$.
 
-**Answer:** 4
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2000_2livello#q13|src_archimede_2000_2livello__Q13]]
 
 
 
@@ -531,13 +570,17 @@ Who is guilty of the defendant's statements?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arithmetic progressions of four integers in 1.100*
+*Arithmetic progressions of four integers in 1..100*
 
-> What are the arithmetic progressions of four integers $a, b, c, d$ with $1 \leq a < b < c < d \leq 100$?
+> How many arithmetic progressions are there consisting of four integers $a, b, c, d$ with $1 \leq a < b < c < d \leq 100$?
 > 
-> Note: let us remember that $a, b, c, d$ form an arithmetic progression if $b - a = c - b = d - c$.
+> Note: recall that $a, b, c, d$ form an arithmetic progression if $b - a = c - b = d - c$.
 
-**Answer:** 1617
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2000_2livello#q14|src_archimede_2000_2livello__Q14]]
 
 
 
@@ -562,13 +605,16 @@ Who is guilty of the defendant's statements?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum positive integer with exactly 15 divisors*
+*Smallest positive integer with exactly 15 divisors*
 
-> What's the smallest positive integer that has exactly 15 divisors?
-> 
-> Note: positive integer divisors are the positive divisors, including 1 and the number itself. For example, the number 6 has exactly four divisors: 1, 2, 3, 6.
+> What is the smallest positive integer that has exactly 15 divisors?
+>
+> Note: for divisors of a positive integer, positive divisors are meant, including 1 and the number itself. For example, the number 6 has exactly 4 divisors: 1, 2, 3, 6.
 
-**Answer:** 144
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2000_2livello#q15|src_archimede_2000_2livello__Q15]]
 
 
 
@@ -595,9 +641,14 @@ Who is guilty of the defendant's statements?
 
 *Positive integer pairs (m,n) with 1/m+1/n-1/mn=2/5*
 
-> Determine all ordered pairs $(m, n)$ of positive integers satisfying the equation $$\frac{1}{m} + \frac{1}{n} - \frac{1}{mn} = \frac{2}{5}.$$
+> Determine all ordered pairs $(m, n)$ of positive integers satisfying the equation
+> $$\frac{1}{m} + \frac{1}{n} - \frac{1}{mn} = \frac{2}{5}.$$
 
-**Answer:** (3,10),(4,5),(10,3),(5,4)
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2000_2livello#q16|src_archimede_2000_2livello__Q16]]
 
 
 
@@ -623,8 +674,15 @@ Who is guilty of the defendant's statements?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*HMAC and isoscele*
+*HM∥AC and isosceles*
 
-> The points $H$, $K$, $M$ on the sides of a triangle $ABC$ are chosen so that $AH$ is a height, $BK$ is a biset and $CM$ is a median. The intersection between $AH$ and $BK$ shall be indicated by $D$ and the intersection between $HM$ and $BK$ shall be indicated by $E$. Knowing that $KD = 2$, $DE = 1$, $EB = 3$:
+> Choose the points $H$, $K$, $M$ on the sides of a triangle $ABC$ such that $AH$ is an altitude, $BK$ is an angle bisector and $CM$ is a median. Let $D$ be the intersection of $AH$ and $BK$, and let $E$ be the intersection of $HM$ and $BK$. Given that $KD = 2$, $DE = 1$, $EB = 3$:
 > 
-> (i) it is shown that $HM$ is parallel to $AC$; (ii) it is shown that $AB = AC$; (iii) it is shown that $AB = BC$.
+> (i) prove that $HM$ is parallel to $AC$;
+> (ii) prove that $AB = AC$;
+> (iii) prove that $AB = BC$.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2000_2livello#q17|src_archimede_2000_2livello__Q17]]

@@ -30,9 +30,17 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Demontrare una disuguaglianza per i reali positivi x,y,u,v.*
+*Dimostra una disuguaglianza per i numeri reali positivi x, y, u, v.*
 
-> Se $x,y,u,v$ sono numeri reali positivi, dimostrare la disuguaglianza $$\frac{xu+xv+yu+yv}{x+y+u+v} \ge \frac{xy}{x+y}+\frac{uv}{u+v}.$$
+> Se $x,y,u,v$ sono numeri reali positivi, dimostra la disuguaglianza
+> $$\frac{xu+xv+yu+yv}{x+y+u+v} \ge \frac{xy}{x+y}+\frac{uv}{u+v}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1993_r2#q01|src_pol_1993_r2__Q01]]
 
 
 
@@ -55,9 +63,16 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una linea attraverso un punto esterno P incontra un cerchio a A,B; C è simmetrica a A wrt OP; dimostra che tutte le linee m=BC condividono un punto comune.*
+*Una retta passante per il punto esterno P interseca una circonferenza nei punti A e B; C è il simmetrico di A rispetto a OP; dimostrare che tutte le rette m = BC hanno un punto comune.*
 
-> Si deve dare un cerchio con il centro $O$ e un punto $P$ al di fuori del cerchio. Una linea $l$ passa attraverso $P$ e taglia il cerchio a $A$ e $B$. $C$ sia il punto simmetrico di $A$ rispetto a $OP$, e $m$ sia la linea $BC$. Prova che tutte le righe $m$ hanno un punto comune in quanto $l$ varia.
+> Sia data una circonferenza con centro $O$ e un punto $P$ esterno alla circonferenza. Una retta $l$ passa per $P$ e interseca la circonferenza nei punti $A$ e $B$. Sia $C$ il punto simmetrico di $A$ rispetto a $OP$, e sia $m$ la retta $BC$. Dimostrare che tutte le rette $m$ hanno un punto comune al variare di $l$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1993_r2#q02|src_pol_1993_r2__Q02]]
 
 
 
@@ -80,9 +95,16 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tetraedro con tre piani di sezione incrociata parallele; prova V1+V2+V3 >= 3V.*
+*Tetraedro con tre piani di sezione paralleli; dimostrare che V1+V2+V3 >= 3V.*
 
-> Si dà un tetraedro $OA_1B_1C_1$. I punti $A_2,A_3 \in OA_1$, $A_2,A_3 \in OA_1$, $A_2,A_3 \in OA_1$ siano punti tali che i piani $A_1B_1C_1$, $A_2B_2C_2$ e $A_3B_3C_3$ siano paralleli e $OA_1 > OA_2 > OA_3 > 0$. $V_i$ sia il volume del tetraedro $OA_iB_iC_i$ ($i=1,2,3$) e $V$ sia il volume di $OA_1B_2C_3$. Prove che $V_1+V_2+V_3 \ge 3V$.
+> È dato un tetraedro $OA_1B_1C_1$. Siano $A_2,A_3 \in OA_1$, $A_2,A_3 \in OA_1$, $A_2,A_3 \in OA_1$ dei punti tali che i piani $A_1B_1C_1$, $A_2B_2C_2$ e $A_3B_3C_3$ siano paralleli e $OA_1 > OA_2 > OA_3 > 0$. Sia $V_i$ il volume del tetraedro $OA_iB_iC_i$ ($i=1,2,3$) e $V$ il volume di $OA_1B_2C_3$. Dimostrare che $V_1+V_2+V_3 \ge 3V$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1993_r2#q03|src_pol_1993_r2__Q03]]
 
 
 
@@ -105,9 +127,16 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di numeri interi positivi con x1=1 e crescita limitata; mostrare che ogni intero positivo k è una differenza di due termini.*
+*Successione di interi positivi con x1=1 e crescita limitata; dimostrare che ogni intero positivo k è una differenza di due termini.*
 
-> $(x_n)$ sia la sequenza di integri positivi come $x_1=1$ e $x_n < x_{n+1} \le 2n$ per ciascuna $n \in \mathbb{N}$. Indicare che per ogni intero positivo $k$ esistono indici $r,s$ tali da $x_r-x_s=k$.
+> Sia $(x_n)$ la successione di interi positivi tale che $x_1=1$ e $x_n < x_{n+1} \le 2n$ per ogni $n \in \mathbb{N}$. Dimostrare che per ogni intero positivo $k$ esistono indici $r,s$ tali che $x_r-x_s=k$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1993_r2#q04|src_pol_1993_r2__Q04]]
 
 
 
@@ -129,9 +158,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I punti D,E,F sui lati del triangolo ABC danno tre triangoli angolari con radii uguali a r1; dimostrare r1+r2=r dove r2,r sono radii di DEF e ABC.*
+*I punti D, E, F sui lati del triangolo ABC individuano tre triangoli angolari aventi inradii uguali a r1; dimostrare che r1+r2=r, dove r2 e r sono gli inradii di DEF e di ABC.*
 
-> $D,E,F$ siano punti sui lati $BC,CA,AB$ di un triangolo $ABC$, rispettivamente. Supponiamo che le inradii dei triangoli $AEF, BFD, CDE$ siano tutte uguali a $r_1$. Se $r_2$ e $r$ sono rispettivamente gli inradii dei triangoli $DEF$ e $ABC$, dimostrare che $r_1+r_2=r$.
+> Siano $D,E,F$ punti sui lati $BC,CA,AB$ di un triangolo $ABC$, rispettivamente. Si supponga che i raggi inradii dei triangoli $AEF, BFD, CDE$ siano tutti uguali a $r_1$. Se $r_2$ e $r$ sono i raggi inradii dei triangoli $DEF$ e $ABC$, rispettivamente, dimostrare che $r_1+r_2=r$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1993_r2#q05|src_pol_1993_r2__Q05]]
 
 
 
@@ -154,6 +189,13 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Continuo f con f(1000) =999 e f(x) f(f(x)) =1 per tutti gli x reali; determinare f(500).*
+*Funzione f continua tale che f(1000)=999 e f(x)f(f(x))=1 per ogni x reale; determina f(500).*
 
-> Una funzione continua $f:\mathbb{R} \to \mathbb{R}$ soddisfa le condizioni $f(1000)=999$ e $f(x)f(f(x))=1$ per tutte le $x$ reali. Determinare $f(500)$.
+> Una funzione continua $f:\mathbb{R} \to \mathbb{R}$ soddisfa le condizioni $f(1000)=999$ e $f(x)f(f(x))=1$ per ogni $x$ reale. Determinare $f(500)$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1993_r2#q06|src_pol_1993_r2__Q06]]

@@ -32,13 +32,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio AB/AC in triangolo rettangolo con etichette quadrate e di superficie*
+*Rapporto AB/AC in un triangolo rettangolo con un quadrato inscritto e tre etichette di area*
 
-> Nel triangolo rettangolo $ABC$, è inserito un quadrato come mostrato nella figura. I tre numeri scritti all'interno della figura rappresentano le aree dei tre triangoli rettangolari formati dai lati del quadrato. Trova $\dfrac{AB}{AC}$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Nel triangolo rettangolo $ABC$ è inscritto un quadrato, come mostrato nella figura. I tre numeri scritti all'interno della figura rappresentano le aree dei tre triangoli rettangoli formati dai lati del quadrato. Determinare $\dfrac{AB}{AC}$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 ![[src_jjmo18yq_yosen__q01.png]]
 
-**Risposta:** \dfrac{3}{5}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo18yq_yosen#q01|src_jjmo18yq_yosen__Q01]]
 
 
 
@@ -62,11 +67,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coppie (a,b) di integri positivi la cui somma consecutiva è uguale al 2020, riducendo al minimo a*
+*Coppie (a,b) di interi positivi la cui somma consecutiva è uguale a 2020, con a minimizzato*
 
-> Lasciate che $a, b$ siano numeri interi positivi. Tra tutte le coppie $(a, b)$ in modo tale che la somma di tutti gli integri da $a$ a $b$ (inclusivo) sia uguale a $2020$, si trovano tutte le coppie $(a, b)$ per le quali $a$ è il più piccolo possibile.
+> Siano $a, b$ numeri interi positivi. Tra tutte le coppie $(a, b)$ tali che la somma di tutti gli interi da $a$ a $b$ (inclusi) sia uguale a $2020$, determina tutte le coppie $(a, b)$ per cui $a$ è il più piccolo possibile.
 
-**Risposta:** (31,\,70)
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo18yq_yosen#q02|src_jjmo18yq_yosen__Q02]]
 
 
 
@@ -90,11 +100,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi palindromici non divisibili per 10 tra 1 e 10000*
+*Conta gli interi palindromi non divisibili per 10 compresi tra 1 e 10000*
 
-> Tra i numeri interi positivi, un numero è chiamato palindromo (回文数) se si legge lo stesso avanti e indietro. Tra i palindromi tra $1$ e $10000$ (inclusi), si contano quelli che non sono multipli di $10$.
+> Tra i numeri interi positivi, un numero è detto palindromo (回文数) se si legge allo stesso modo da sinistra a destra e da destra a sinistra. Tra i palindromi compresi tra $1$ e $10000$ (estremi inclusi), conta quelli che non sono multipli di $10$.
 
-**Risposta:** 107
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo18yq_yosen#q03|src_jjmo18yq_yosen__Q03]]
 
 
 
@@ -120,13 +135,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area del triangolo a destra con uguali osceli circondata da circa quattro unità quadrate in disposizione 2x2*
+*Area di un triangolo rettangolo isoscele circoscritto a quattro quadrati unitari disposti in una configurazione 2x2*
 
-> Un triangolo a destra è circoscritto in circa quattro quadrati unitari (ciascuno con lunghezza laterale $1$) disposti in un quadrato $2 \times 2$, come mostrato nella figura. Trova l'area del triangolo a destra.
+> Un triangolo rettangolo isoscele è circoscritto a quattro quadrati unitari (ciascuno con lato di lunghezza $1$) disposti a formare un quadrato $2 \times 2$, come mostrato nella figura. Determinare l'area del triangolo rettangolo isoscele.
 
 ![[src_jjmo18yq_yosen__q04.png]]
 
-**Risposta:** \dfrac{169}{20}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo18yq_yosen#q04|src_jjmo18yq_yosen__Q04]]
 
 
 
@@ -150,11 +170,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza PQ che collega i punti di mezzo di diagonali nell'isosceles trapezoide ABCD*
+*Lunghezza PQ che congiunge i punti medi delle diagonali nel trapezio isoscele ABCD*
 
-> In isoceles trapezoide $ABCD$, $AB = CD = 7$, $DA = 6$, $\angle B = 72^\circ$, $\angle C = 48^\circ$. $P$ e $Q$ siano rispettivamente i punti medi delle diagonali $AC$ e $BD$. Trova la lunghezza $PQ$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Nel trapezio isoscele $ABCD$, $AB = CD = 7$, $DA = 6$, $\angle B = 72^\circ$, $\angle C = 48^\circ$. Siano $P$ e $Q$ i punti medi delle diagonali $AC$ e $BD$, rispettivamente. Determinare la lunghezza $PQ$. Qui $XY$ denota la lunghezza del segmento $XY$.
 
-**Risposta:** \dfrac{7}{2}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo18yq_yosen#q05|src_jjmo18yq_yosen__Q05]]
 
 
 
@@ -180,13 +205,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre massimo di blocchi a 4 unità a forma di L in cubo 5x5x5 meno 8 angoli*
+*Numero massimo di blocchi a forma di L composti da 4 unità in un cubo 5x5x5 meno 8 angoli*
 
-> Considera il solido $Q$ ottenuto da un cubo $5 \times 5 \times 5$ rimuovendo un cubo unitario da ciascun angolo $8$. Considera inoltre il blocco a forma di L $L$ costituito da cubetti unitari $4$ (come mostrato) e singoli cubetti unitari (lenghezza laterale $1$). Quando $Q$ è suddiviso in copie di $L$ e singoli cubetti unitari, trovare il numero massimo possibile di blocchi $L$ utilizzati.
+> Si consideri il solido $Q$ ottenuto da un cubo $5 \times 5 \times 5$ rimuovendo un cubo unitario da ciascuno dei suoi $8$ vertici. Si consideri inoltre il blocco a forma di L $L$ composto da $4$ cubi unitari (come mostrato) e da cubi unitari singoli (lato $1$). Quando $Q$ viene suddiviso in copie di $L$ e in cubi unitari singoli, si determini il numero massimo possibile di blocchi $L$ utilizzati.
 
 ![[src_jjmo18yq_yosen__q06.png]]
 
-**Risposta:** 27
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_jjmo18yq_yosen#q06|src_jjmo18yq_yosen__Q06]]
 
 
 
@@ -212,13 +242,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di modi di tessere di una figura con L-tromino e più pentomino*
+*Numero di modi per rivestire una figura con tromini a L e pentominò a croce*
 
-> Consideriamo due tipi di piastrelle: piastrelle $L$ costituite da quadrati di unità $3$ in forma L e piastrelle $X$ costituite da quadrati di unità $5$ in forma più ($+$). Sono disponibili $12$ copie di $L$ e $4$ copie di $X$. Una certa figura costituita da quadrati unitari $30$ (regione ombrata mostrata) deve essere completamente coperta senza sovrapposizioni utilizzando queste piastrelle. Le piastrelle possono essere ruotate o volte; tuttavia, le disposizioni che coincidono dopo aver ruotato o volto l'intera lavagna sono considerate come distinte. Trova il numero di modi per tessere la figura.
+> Si considerino due tipi di tasselli: il tassello $L$, composto da $3$ quadratini unitari disposti a forma di L, e il tassello $X$, composto da $5$ quadratini unitari disposti a forma di croce ($+$). Sono disponibili $12$ copie di $L$ e $4$ copie di $X$. Una certa figura composta da $30$ quadratini unitari (si mostra la regione ombreggiata) deve essere ricoperta completamente, senza sovrapposizioni, utilizzando questi tasselli. I tasselli possono essere ruotati o ribaltati; tuttavia, le disposizioni che coinciderebbero dopo aver ruotato o ribaltato l'intera tavola sono considerate distinte. Determinare il numero di modi per tassellare la figura.
 
 ![[src_jjmo18yq_yosen__q07.png]]
 
-**Risposta:** 24
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo18yq_yosen#q07|src_jjmo18yq_yosen__Q07]]
 
 
 
@@ -243,11 +278,17 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tutti i tripli numeri interi positivi (l,m,n) che soddisfano due equazioni simultanee che coinvolgono il 2020*
+*Tutte le terne di interi positivi (l,m,n) che soddisfano due equazioni simultanee in cui compare 2020*
 
-> Trovare tutti i tripli di numeri interi positivi $(l, m, n)$ con $1 \le m \le n$ soddisfacente $$l^2 + mn = m^2 + ln \quad \text{and} \quad n^2 + lm = 2020.$$
+> Trovare tutte le terne di interi positivi $(l, m, n)$ con $1 \le m \le n$ che soddisfano
+> $$l^2 + mn = m^2 + ln \quad \text{and} \quad n^2 + lm = 2020.$$
 
-**Risposta:** (16,16,42),\;(24,24,38),\;(2,42,44)
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo18yq_yosen#q08|src_jjmo18yq_yosen__Q08]]
 
 
 
@@ -276,13 +317,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio di piastrelle esagoniche suddivise in semi-triangoli che soddisfano due condizioni in punti buoni*
+*Conta le piastrellature di un esagono diviso in semicerchi triangolari che soddisfano due condizioni sui punti buoni*
 
-> Un esagono regolare con lunghezza laterale $1$ è diviso in triangoli equilaterali di lunghezza laterale $\tfrac{1}{2}$. I punti $10$ segnati nella figura sono chiamati punti buoni. Ci sono piastrelle $12$ ciascuna con forma di triangolo obtuso (occupando una piccola cella triangolare), che insieme coprono l'esagono senza lacune o sovrapposizioni. Tra tutte queste piastrelle si contano quelle che soddisfano entrambe le seguenti condizioni: (i) almeno una piastrella ha un buon punto in uno dei suoi vertici acuti. (ii) Esattamente una coppia di piastrelle adiacenti insieme forma un triangolo equilaterale di lato $\tfrac{1}{2}$ (cioè, esattamente $2$ piastrelle condividono il bordo più lungo). Le piastrelle possono essere ruotate o volte; le piastrelle che differiscono per rotazione o riflessione dell'intero esagono sono considerate distinte.
+> Un esagono regolare di lato $1$ viene suddiviso in triangoli equilateri di lato $\tfrac{1}{2}$. I $10$ punti indicati nella figura sono chiamati punti buoni. Ci sono $12$ tasselli, ciascuno a forma di triangolo ottusangolo (e che occupa una cella triangolare piccola); insieme ricoprono l'esagono senza lacune né sovrapposizioni. Tra tutte le piastrellature di questo tipo, si contino quelle che soddisfano entrambe le seguenti condizioni: (i) almeno un tassello ha un punto buono in uno dei suoi vertici acuti. (ii) esattamente una coppia di tasselli adiacenti forma insieme un triangolo equilatero di lato $\tfrac{1}{2}$ (cioè esattamente $2$ tasselli condividono un lato più lungo). I tasselli possono essere ruotati o ribaltati; le piastrellature che differiscono per una rotazione o una riflessione dell'intero esagono sono considerate distinte.
 
 ![[src_jjmo18yq_yosen__q09.png]]
 
-**Risposta:** 22
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_jjmo18yq_yosen#q09|src_jjmo18yq_yosen__Q09]]
 
 
 
@@ -306,11 +352,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perimetro minimo del triangolo a lato intero ABC con un cerchio attraverso D ed E tangente a AB e AC*
+*Perimetro minimo del triangolo ABC a lati interi, con una circonferenza passante per D ed E tangente ad AB e AC*
 
-> Il triangolo $ABC$ ha lunghezze laterali interi. I punti $B$, $D$, $E$, $C$ si trovano in questo ordine sul lato $BC$, con $BD = 4$ e $EC = 7$. Un cerchio passa attraverso $D$ e $E$ ed è tangente a lato $AB$ e lato $AC$. Trova il valore minimo possibile del perimetro $AB + BC + CA$ del triangolo $ABC$.
+> Il triangolo $ABC$ ha i lati di lunghezza intera. I punti $B$, $D$, $E$, $C$ giacciono, in questo ordine, sul lato $BC$, con $BD = 4$ e $EC = 7$. Una circonferenza passa per $D$ e $E$ ed è tangente al lato $AB$ e al lato $AC$. Determinare il valore minimo possibile del perimetro $AB + BC + CA$ del triangolo $ABC$.
 
-**Risposta:** 66
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo18yq_yosen#q10|src_jjmo18yq_yosen__Q10]]
 
 
 
@@ -334,11 +385,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero massimo previsto di monete a faccia nera dopo le operazioni di riversamento delle righe/colonne del 2020*
+*Numero massimo atteso di monete con faccia nera rivolta verso l'alto dopo le operazioni di ribaltamento di righe/colonne del 2020*
 
-> C'è una griglia $8 \times 8$; ogni cella contiene una moneta. Ogni moneta mostra bianco (faccia in su) o nero (faccia in su). Inizialmente tutte le monete mostrano nero. Una operazione avviene come segue: il giocatore $A$ seleziona i quadrati $5$ in una singola riga; il giocatore $B$ seleziona quindi $1$ di quei quadrati $5$, e tutte le monete $8$ della riga contenente quel quadrato e tutte le monete $8$ della colonna contenente quel quadrato vengono volte (la moneta all'incrocio viene volta una volta). Dopo $2020$ tali operazioni, trovare il numero massimo possibile di monete attese mostrando nero (faccia su), dove il giocatore $A$ sceglie la propria strategia per massimizzare questo valore atteso.
+> C'è una griglia $8 \times 8$; ogni cella contiene una moneta. Ogni moneta mostra oppure il bianco (faccia in su) oppure il nero (faccia in su). Inizialmente tutte le monete mostrano il nero. Un'operazione procede nel modo seguente: il giocatore $A$ seleziona $5$ caselle in una singola riga; poi il giocatore $B$ seleziona $1$ di quelle $5$ caselle, e tutte le $8$ monete nella riga che contiene quella casella e tutte le $8$ monete nella colonna che contiene quella casella vengono capovolte (la moneta all'intersezione viene capovolta una volta). Dopo $2020$ operazioni di questo tipo, determina il valore atteso massimo possibile del numero di monete che mostrano il nero (faccia in su), dove il giocatore $A$ sceglie la propria strategia per massimizzare questo valore atteso.
 
-**Risposta:** 50
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo18yq_yosen#q11|src_jjmo18yq_yosen__Q11]]
 
 
 
@@ -362,8 +418,13 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tutti i quadrupli (a,b,c,d) da 1-9 in cui ogni somma non vuota del sottoinsieme evita moltipli di 24*
+*Tutte le quaruple (a,b,c,d) con elementi da 1 a 9, in cui la somma di ogni sottoinsieme non vuoto non è multiplo di 24*
 
-> Trova tutti i quadrupli $(a, b, c, d)$ di numeri interi positivi che soddisfano $1 \le a < b < c < d \le 9$ in modo tale che nessuna delle somme del sottoinsieme $\binom{4}{1} + \binom{4}{2} + \binom{4}{3} + \binom{4}{4} = 15$ formate scegliendo gli elementi $1$, $2$, $3$ o $4$ da $\{a, b, c, d\}$ sia un multiple di $24$.
+> Trovare tutte le quaruple $(a, b, c, d)$ di interi positivi che soddisfano $1 \le a < b < c < d \le 9$, tali che nessuna delle $\binom{4}{1} + \binom{4}{2} + \binom{4}{3} + \binom{4}{4} = 15$ somme parziali ottenute scegliendo $1$, $2$, $3$ o $4$ elementi da $\{a, b, c, d\}$ sia un multiplo di $24$.
 
-**Risposta:** (1,2,3,8),\;(1,3,8,9),\;(2,4,6,9)
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo18yq_yosen#q12|src_jjmo18yq_yosen__Q12]]

@@ -30,9 +30,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli interi positivi che soddisfano un'equazione prodotto-uguagli-2*
+*Trovare tutte le terne di numeri interi positivi che soddisfano un'equazione in cui il prodotto è uguale a 2.*
 
-> Trovare tutti i triples di numeri interi positivi $(a, b, c)$ in modo tale che $$\left(1 + \frac{1}{a}\right)\left(1 + \frac{1}{b}\right)\left(1 + \frac{1}{c}\right) = 2.$$
+> Trovare tutte le terne di interi positivi $(a, b, c)$ tali che
+> $$\left(1 + \frac{1}{a}\right)\left(1 + \frac{1}{b}\right)\left(1 + \frac{1}{c}\right) = 2.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_1994-95_round2#q01|src_bmo_1994-95_round2__Q01]]
 
 
 
@@ -55,9 +63,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove equalità angolare se un'altra equalità angolare nella configurazione di punto medio triangolare*
+*Dimostrare l'uguaglianza di un angolo se e solo se l'uguaglianza di un altro angolo nella configurazione del punto medio del triangolo*
 
-> $ABC$ sia un triangolo, e $D$, $E$, $F$ siano i punti medi di $BC$, $CA$ e $AB$ rispettivamente. Prova che $\angle DAC = \angle ABE$ se e solo se $\angle AFC = \angle ADB$.
+> Sia $ABC$ un triangolo, e siano $D$, $E$, $F$ i punti medi di $BC$, $CA$, $AB$ rispettivamente. Dimostrare che $\angle DAC = \angle ABE$ se e solo se $\angle AFC = \angle ADB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_1994-95_round2#q02|src_bmo_1994-95_round2__Q02]]
 
 
 
@@ -80,9 +95,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza dei numeri reali in (0,4)*
+*Dimostra la disuguaglianza per i numeri reali in (0,4)*
 
-> $a$, $b$, $c$ siano numeri reali con $0 < a < b < c < 4$. Prove che $0 < a + b + c - abc < 4$.
+> Siano $a$, $b$, $c$ numeri reali tali che $0 < a < b < c < 4$. Dimostrare che $0 < a + b + c - abc < 4$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_1994-95_round2#q03|src_bmo_1994-95_round2__Q03]]
 
 
 
@@ -107,8 +129,15 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta coppie di 2n persone; dimostra divisibilità di multinomial*
+*Conta le coppie di 2n persone; dimostra la divisibilità del multinomiale*
 
-> (a) Determinare, con una spiegazione attenta, in quanti modi le persone $2n$ possono essere accoppiate per formare squadre $n$ di $2$.
-> 
-> b) dimostrare che $(2mn)!$ è divisibile per $((m!)^n (n!)^m)^2$ per tutti gli integri positivi $m$, $n$.
+> (a) Determina, fornendo una spiegazione accurata, in quanti modi $2n$ persone possono essere accoppiate per formare $n$ squadre di $2$.
+>
+> (b) Dimostrare che $(2mn)!$ è divisibile per $((m!)^n (n!)^m)^2$ per tutti gli interi positivi $m$, $n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_1994-95_round2#q04|src_bmo_1994-95_round2__Q04]]

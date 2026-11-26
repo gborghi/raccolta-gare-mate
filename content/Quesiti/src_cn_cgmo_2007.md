@@ -32,11 +32,18 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un intero positivo m è buono se m è uguale a n diviso per il numero di divisori di n, per qualche intero positivo n. Dimostra che 1,...,17 sono buoni e 18 non lo è.*
+*Un numero intero positivo m è buono se m è uguale a n diviso per il numero dei divisori di n, per qualche numero intero positivo n. Dimostrare che 1,...,17 sono buoni e che 18 non lo è.*
 
-> Un intero positivo $m$ è chiamato buono, se c'è un intero positivo $n$ tale che $m$ è il quotiente di $n$ sul numero di divisori interi positivi di $n$ (inclusi 1 e $n$ stesso). Provare che $1, 2, \cdots, 17$ sono numeri buoni e che 18 non è un buon numero.
+> Un numero intero positivo $m$ è detto buono se esiste un numero intero positivo $n$ tale che $m$ sia il quoziente di $n$ diviso per il numero di divisori interi positivi di $n$ (inclusi 1 e $n$ stesso). Dimostrare che $1, 2, \cdots, 17$ sono numeri buoni e che 18 non è un numero buono.
 
-**Risposta:** 18 non è un numero buono
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cgmo_2007#q01|src_cn_cgmo_2007__Q01]]
 
 
 
@@ -62,11 +69,17 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Con D, E, F sui lati del triangolo acuto ABC e ciascuno di AD, BE, CF che passa attraverso il circondario, se due dei sei rapporti di segmento laterale sono interi, allora ABC è isosceles.*
+*Con D, E, F sui lati del triangolo acuto ABC e ciascuno dei segmenti AD, BE, CF passante per il circocentro, se due qualsiasi dei sei rapporti tra i segmenti dei lati sono interi, allora ABC è isoscele.*
+> Sia $ABC$ un triangolo acutangolo. I punti $D$, $E$ e $F$ giacciono rispettivamente sui segmenti $BC$, $CA$ e $AB$, e ciascuno dei tre segmenti $AD$, $BE$ e $CF$ contiene il circocentro di $\triangle ABC$. Dimostrare che, se due qualsiasi dei rapporti $\frac{BD}{DC}, \frac{CE}{EA}, \frac{AF}{FB}, \frac{BF}{FA}, \frac{CD}{DB}, \frac{AE}{EC}$ sono numeri interi, allora il triangolo $ABC$ è isoscele.
 
-> Lasciate che $ABC$ sia un triangolo acuto. I punti $D$, $E$ e $F$ si trovano rispettivamente sui segmenti $BC$, $CA$ e $AB$, e ciascuno dei tre segmenti $AD$, $BE$ e $CF$ contiene il centro circondazionale di $\triangle ABC$. Prova che se due dei rapporti $\frac{BD}{DC}, \frac{CE}{EA}, \frac{AF}{FB}, \frac{BF}{FA}, \frac{CD}{DB}, \frac{AE}{EC}$ sono numeri interi, il triangolo $ABC$ è uguale.
+> [!warning] Estratto da verificare con la fonte.
 
-**Risposta:** ABC è isoscele
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cgmo_2007#q02|src_cn_cgmo_2007__Q02]]
 
 
 
@@ -91,11 +104,17 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare la somma ciclica su valori reali non negativi sommando a 2*
+*Minimizza la somma ciclica sugli elementi reali non negativi la cui somma è 2*
 
-> Che $n$ sia un numero intero superiore a 3, e che $a_1, a_2, \ldots, a_n$ sia un numero reale non negativo con $a_1 + a_2 + \cdots + a_n = 2$. Determinare il valore minimo di $$\frac{a_1}{a_2^2+1} + \frac{a_2}{a_3^2+1} + \cdots + \frac{a_n}{a_1^2+1}.$$
+> Sia $n$ un numero intero maggiore di 3, e siano $a_1, a_2, \ldots, a_n$ numeri reali non negativi tali che $a_1 + a_2 + \cdots + a_n = 2$. Determinare il valore minimo di
+> $$\frac{a_1}{a_2^2+1} + \frac{a_2}{a_3^2+1} + \cdots + \frac{a_n}{a_1^2+1}.$$
 
-**Risposta:** \frac{3}{2}
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cgmo_2007#q03|src_cn_cgmo_2007__Q03]]
 
 
 
@@ -118,9 +137,16 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Set con m assi di simmetria: prova m ≤ n*
+*Insieme con m assi di simmetria: dimostrare che m ≤ n*
 
-> L'insieme $S$ è costituito da punti $n > 2$ nel piano. L'insieme $P$ è costituito da linee $m$ nel piano in modo tale che ogni linea di $P$ sia un asse di simmetria di $S$. Prove che $m \le n$, e determina quando l'uguaglianza è valida.
+> L'insieme $S$ è costituito da $n > 2$ punti nel piano. L'insieme $P$ è costituito da $m$ rette nel piano tali che ogni retta in $P$ sia un asse di simmetria di $S$. Dimostrare che $m \le n$, e determina quando vale l'uguaglianza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cgmo_2007#q04|src_cn_cgmo_2007__Q04]]
 
 
 
@@ -143,6 +169,13 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove DE perpendicolare a EF in triangolo con angoli dati*
+*Dimostrare che DE è perpendicolare a EF in un triangolo con angoli dati*
 
-> Il punto $D$ si trova all'interno del triangolo $ABC$ in modo tale che $\angle DAC = \angle DCA = 30^\circ$ e $\angle DBA = 60^\circ$. Il punto $E$ è il punto medio del segmento $BC$. Il punto $F$ si trova sul segmento $AC$ con $AF = 2FC$. Prove che $DE \perp EF$.
+> Il punto $D$ giace all'interno del triangolo $ABC$ in modo che $\angle DAC = \angle DCA = 30^\circ$ e $\angle DBA = 60^\circ$. Il punto $E$ è il punto medio del segmento $BC$. Il punto $F$ giace sul segmento $AC$ con $AF = 2FC$. Dimostrare che $DE \perp EF$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cgmo_2007#q05|src_cn_cgmo_2007__Q05]]

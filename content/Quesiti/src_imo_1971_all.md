@@ -31,12 +31,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disuguaglianza sul prodotto simmetrico vera solo per n=3,5*
+*Disuguaglianza del prodotto simmetrico vera solo per n=3,5*
 
-> Si dimostri che l'affermazione seguente è vera per $n = 3$ e $n = 5$, e falsa per ogni altro numero naturale $n > 2$:
-> 
+> Dimostrare che la seguente affermazione è vera per $n = 3$ e $n = 5$, e che è falsa per ogni altro numero naturale $n > 2$:
+>
 > Se $a_1, a_2, \ldots, a_n$ sono numeri reali arbitrari, allora
 > $$(a_1 - a_2)(a_1 - a_3) \cdots (a_1 - a_n) + (a_2 - a_1)(a_2 - a_3) \cdots (a_2 - a_n) + \cdots + (a_n - a_1)(a_n - a_2) \cdots (a_n - a_{n-1}) \geq 0.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1971_all#q01|src_imo_1971_all__Q01]]
 
 
 
@@ -58,9 +64,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due di nove poliedri traslati condividono un punto interno*
+*Due dei nove poliedri tradotti condividono un punto interno*
 
-> Sia dato un poliedro convesso $P_1$ con nove vertici $A_1, A_2, \ldots, A_9$; sia $P_i$ il poliedro ottenuto da $P_1$ tramite una traslazione che porta il vertice $A_1$ in $A_i$ ($i = 2, 3, \ldots, 9$). Si dimostri che almeno due dei poliedri $P_1, P_2, \ldots, P_9$ hanno un punto interno in comune.
+> Si consideri un poliedro convesso $P_1$ con nove vertici $A_1, A_2, \ldots, A_9$; si ponga $P_i$ il poliedro ottenuto da $P_1$ mediante una traslazione che sposta il vertice $A_1$ in $A_i$ ($i = 2, 3, \ldots, 9$). Si dimostri che almeno due dei poliedri $P_1, P_2, \ldots, P_9$ hanno in comune un punto interno.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1971_all#q02|src_imo_1971_all__Q02]]
 
 
 
@@ -82,9 +94,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottosuccessione infinita a due a due primi tra loro di numeri 2^k-3*
+*Sottoinsieme infinito di numeri 2^k-3 coprimi a due a due*
 
-> Si dimostri che l'insieme degli interi della forma $2^k - 3$ $(k = 2, 3, \ldots)$ contiene un sottoinsieme infinito in cui ogni due elementi sono primi tra loro.
+> Dimostrare che l'insieme degli interi della forma $2^k - 3$ $(k = 2, 3, \ldots)$ contiene un sottoinsieme infinito in cui ogni coppia di elementi è coprima.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_1971_all#q03|src_imo_1971_all__Q03]]
 
 
 
@@ -109,13 +127,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Percorso chiuso poligonale minimo sui spigoli di un tetraedro*
+*Percorso poligonale chiuso minimale sugli spigoli del tetraedro*
 
-> Tutte le facce del tetraedro $ABCD$ sono triangoli acutangoli. Consideriamo tutte le spezzate chiuse del tipo $XYZTX$ definite nel modo seguente: $X$ è un punto sullo spigolo $AB$ diverso da $A$ e $B$; analogamente, $Y$, $Z$, $T$ sono punti interni agli spigoli $BC$, $CD$, $DA$, rispettivamente. Si dimostri che
-> 
-> (a) Se $\angle DAB + \angle BCD \neq \angle ABC + \angle CDA$, allora tra i percorsi poligonali non esiste alcuno di lunghezza minima.
-> 
-> (b) Se $\angle DAB + \angle BCD = \angle ABC + \angle CDA$, allora esistono infiniti percorsi poligonali minimi, la loro lunghezza comune essendo $2 AC \sin(\alpha/2)$, dove $\alpha = \angle BAC + \angle CAD + \angle ADB$.
+> Tutte le facce del tetraedro $ABCD$ sono triangoli acutangoli. Si considerino tutti i cammini poligonali chiusi della forma $XYZTX$ definiti come segue: $X$ è un punto sul lato $AB$, diverso da $A$ e da $B$; analogamente, $Y$, $Z$, $T$ sono punti interni ai lati $BC$, $CD$, $DA$, rispettivamente. Dimostrare:
+>
+> (a) Se $\angle DAB + \angle BCD \neq \angle ABC + \angle CDA$, allora tra i cammini poligonali non ce n'è alcuno di lunghezza minima.
+>
+> (b) Se $\angle DAB + \angle BCD = \angle ABC + \angle CDA$, allora esistono infiniti cammini poligonali di lunghezza minima, la cui lunghezza comune è $2 AC \sin(\alpha/2)$, dove $\alpha = \angle BAC + \angle CAD + \angle ADB$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1971_all#q04|src_imo_1971_all__Q04]]
 
 
 
@@ -136,9 +159,14 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Insieme di punti in cui ogni punto ha m punti ad distanza unitaria*
+*Insieme di punti in cui ogni punto ha m punti a distanza unitaria*
 
-> Si dimostri che per ogni numero naturale $m$, esiste un insieme finito $S$ di punti nel piano con la seguente proprietà: per ogni punto $A$ in $S$, esattamente $m$ punti in $S$ si trovano a distanza unitaria da $A$.
+> Dimostrare che per ogni numero naturale $m$ esiste un insieme finito $S$ di punti in un piano con la seguente proprietà: per ogni punto $A$ appartenente a $S$, esistono esattamente $m$ punti in $S$ che distano unità da $A$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1971_all#q05|src_imo_1971_all__Q05]]
 
 
 
@@ -160,6 +188,12 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Matrice con interi non negativi e condizione di somma nulla ha somma ≥ n²/2*
+*Una matrice di interi non negativi con condizione di somma nulla ha somma >= n^2/2*
 
-> Sia $A = (a_{ij}),\ i,j = 1, 2, \ldots, n$ una matrice quadrata i cui elementi sono interi non negativi. Si supponga che ogni volta che un elemento $a_{ij} = 0$ è uguale a zero, la somma degli elementi della riga $i$-esima e della colonna $j$-esima sia uguale a $\geq n$. Si dimostri che la somma di tutti gli elementi della matrice è $\geq n^2/2$.
+> Sia $A = (a_{ij}),\ i,j = 1, 2, \ldots, n$ una matrice quadrata i cui elementi sono interi non negativi. Si supponga che, ogni volta che un elemento è $a_{ij} = 0$, la somma degli elementi della $i$-esima riga e della $j$-esima colonna sia $\geq n$. Dimostrare che la somma di tutti gli elementi della matrice è $\geq n^2/2$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1971_all#q06|src_imo_1971_all__Q06]]

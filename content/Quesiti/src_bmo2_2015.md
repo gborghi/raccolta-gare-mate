@@ -31,9 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il termine 2015 di una sequenza definita da una formula iterativa a radice quadrata a partire dal 2014.*
+*Il termine $x_{2015}$ della successione che parte da $2014$*
 
-> Il primo termine $x_1$ di una sequenza è $2014$. Ogni termine successivo della sequenza è definito in termini di termine precedente. La formula iterativa è $$x_{n+1} = \frac{(\sqrt{2}+1)x_n - 1}{(\sqrt{2}+1) + x_n}.$$ Trova il $2015$th termine $x_{2015}$.
+> Il primo termine $x_1$ di una successione è $2014$. Ogni termine successivo è definito a partire dal precedente. La formula iterativa è
+> $$x_{n+1} = \frac{(\sqrt{2}+1)x_n - 1}{(\sqrt{2}+1) + x_n}.$$
+> Trovare il $2015$-esimo termine $x_{2015}$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2015#q01|src_bmo2_2015__Q01]]
 
 
 
@@ -60,13 +69,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove l'equivalenza di due dichiarazioni di parità sulla formazione di un consiglio scolastico con un allievo per classe.*
+*Due affermazioni sul consiglio di Oddesdon sono logicamente equivalenti*
 
-> Nella scuola primaria di Oddesdon ci sono un numero strano di lezioni. Ogni classe contiene un numero impar di allievi. Un allievo da ogni classe sarà scelto per formare il consiglio scolastico. Prove che le seguenti due affermazioni sono logicamente equivalenti.
-> 
-> a) Esistono più modi per formare un consiglio scolastico che comprende un numero impar di ragazzi che di formare un consiglio scolastico che comprende un numero impar di ragazze.
-> 
-> b) Esistono un numero strano di classi che contengono più ragazzi che ragazze.
+> Alla scuola elementare di Oddesdon c'è un numero dispari di classi. Ogni classe contiene un numero dispari di alunni. Da ogni classe si sceglierà un alunno per formare il consiglio di istituto. Dimostrare che le due affermazioni seguenti sono logicamente equivalenti.
+>
+> a) Ci sono più modi di formare un consiglio che comprenda un numero dispari di maschi che modi di formarne uno che comprenda un numero dispari di femmine.
+>
+> b) C'è un numero dispari di classi che contengono più maschi che femmine.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2015#q02|src_bmo2_2015__Q02]]
 
 
 
@@ -89,9 +105,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi interamente tangenti; un accordo variabile del cerchio esterno tangente all'interno. Prova che il locus dell'incentro del triangolo AQP è un cerchio tangente a entrambi a A.*
+*Il luogo dell'incentro di $AQP$ è un'altra circonferenza tangente in $A$*
 
-> Due cerchi si toccano internamente a $A$. Un accordo variabile $PQ$ del cerchio esterno tocca il cerchio interno. Prove che il locus dell'incentro del triangolo $AQP$ è un altro cerchio che tocca i circoli dati a $A$. L'incentro di un triangolo è il centro del cerchio unico che si trova all'interno del triangolo e tocca tutti e tre i lati. Un locus è la raccolta di tutti i punti che soddisfano una determinata condizione.
+> Due circonferenze sono tangenti internamente in $A$. Una corda variabile $PQ$ della circonferenza esterna è tangente a quella interna. Dimostrare che il luogo dell'incentro del triangolo $AQP$ è un'altra circonferenza tangente alle circonferenze date in $A$. L'incentro di un triangolo è il centro dell'unica circonferenza che sta dentro il triangolo e tocca tutti e tre i lati. Un luogo è la collezione di tutti i punti che soddisfano una data condizione.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2015#q03|src_bmo2_2015__Q03]]
 
 
 
@@ -122,14 +145,21 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lattice punti in cui P vede Q se PQ segmento non contiene nessun altro punto reticolo; definire un n-loop e chiedere se esiste un 100-loop.*
+*Esiste un $100$-ciclo?*
 
-> Dati due punti $P$ e $Q$ con coordinate interi, diciamo che $P$ vede $Q$ se il segmento di linea $PQ$ non contiene altri punti con coordinate interi. Un ciclo $n$ è una sequenza di punti $n$ $P_1, P_2, \ldots, P_n$, ciascuno con coordinate di numeri interi, in modo tale che siano soddisfatte le seguenti condizioni:
-> 
-> a) $P_i$ vede $P_{i+1}$ per $1 \le i \le n-1$ e $P_n$ $P_1$;
-> 
-> b) Non $P_i$ comprende $P_j$ tranne quelli di cui alla lettera a);
-> 
-> c) Non tre dei punti si trovano sulla stessa linea retta.
-> 
-> Esiste un ciclo $100$?
+> Dati due punti $P$ e $Q$ a coordinate intere, diciamo che $P$ vede $Q$ se il segmento $PQ$ non contiene altri punti a coordinate intere. Un $n$-ciclo è una successione di $n$ punti $P_1, P_2, \ldots, P_n$, ciascuno a coordinate intere, tale che valgano le condizioni seguenti:
+>
+> a) $P_i$ vede $P_{i+1}$ per $1 \le i \le n-1$, e $P_n$ vede $P_1$;
+>
+> b) nessun $P_i$ vede alcun $P_j$ oltre a quelli menzionati in (a);
+>
+> c) non ci sono tre dei punti sulla stessa retta.
+>
+> Esiste un $100$-ciclo?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Geometria|Geometria]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2015#q04|src_bmo2_2015__Q04]]

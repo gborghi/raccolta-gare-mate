@@ -43,9 +43,14 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Combinations of 5-digit safe deposit boxes with parity constraints*
+*Combinations of a 5-digit safe with parity constraints*
 
-> A band of thieves wants to open a bank vault. A bassist drove the bank manager drunk and managed to know that: (a) the combination is made up of 5 digits from 0 to 9; (b) the combination is an even number; (c) exactly one of the 5 digits of the combination is odd; (d) the combination has four different digits, the repeated number is equal and appears in two non-consecutive positions. How many possible combinations are based on this information?
+> A gang of thieves wants to open a bank safe. A baseball player has gotten the bank director drunk and managed to find out that:
+> (a) the combination consists of 5 digits from 0 to 9;
+> (b) the combination is an even number;
+> (c) exactly one of the 5 digits of the combination is odd;
+> (d) the combination contains four different digits, the repeated digit is even and appears in two non-consecutive positions.
+> How many combinations are possible based on this information?
 >
 > - **(A)** 3150
 > - **(B)** 4500
@@ -53,7 +58,11 @@ level: 2 livello
 > - **(D)** 7200
 > - **(E)** 9000.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2008_2livello#q01|src_archimede_2008_2livello__Q01]]
 
 
 
@@ -88,11 +97,11 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-Difference between black and white boxes in the So-poko on side 203
+*Difference between black and white cells in the So-poko of side 203*
 
-![[src_archimede_2008_2livello__prob2.png]]
-
-> So-poko is a new enigmatic game that's played on a square table with 203 boxes. The boxes are coloured in white and black with alternating concentric frames; the outermost frame is black, while the central box is white (see next example 7 × 7). What is the difference between the number of black boxes and the number of white boxes in the pattern?
+> The So-poko is a new puzzle game played on a square board
+> of side 203 cells. The cells are coloured white and black in alternating concentric borders; the outermost border is black, while the central cell is white (see an example 7 × 7 beside it). What is the difference between the
+> number of black cells and the number of white cells present in the diagram?
 >
 > - **(A)** 103
 > - **(B)** 203
@@ -100,7 +109,11 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(D)** 303
 > - **(E)** 407.
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2008_2livello#q02|src_archimede_2008_2livello__Q02]]
 
 
 
@@ -155,32 +168,11 @@ Difference between black and white boxes in the So-poko on side 203
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Isosceles trapezoid area given BOC area and proportions*
+*Area of an isosceles trapezium whose diagonals meet in the ratio 1 to 3*
 
 ![[src_archimede_2008_2livello__prob3.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (6,0);
-  \coordinate (C) at (4.5,2.2);
-  \coordinate (D) at (1.5,2.2);
-  \coordinate (O) at (3,1.467);
-  \draw (A) -- (B) -- (C) -- (D) -- cycle;
-  \draw (A) -- (C);
-  \draw (B) -- (D);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above right] at (C) {$C$};
-  \node[above left] at (D) {$D$};
-  \node[below right] at (O) {$O$};
-  \fill (O) circle (1pt);
-\end{tikzpicture}
-\end{document}
-```
-
-> In an ABCD major base AB isosceles trapezoid, the diagonal is divided from its meeting point O into parts proportional to the numbers 1 and 3. Knowing that the area of the BOC triangle is 15, what is the area of the entire trapezoid?
+> In an isosceles trapezium ABCD with longer base AB, the diagonals are divided by their intersection point O into parts proportional to the numbers 1 and 3. Given that the area of triangle BOC is 15, what is the area of the whole trapezium?
 >
 > - **(A)** 60
 > - **(B)** 75
@@ -188,7 +180,11 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(D)** 90
 > - **(E)** 105.
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2008_2livello#q03|src_archimede_2008_2livello__Q03]]
 
 
 
@@ -226,17 +222,27 @@ Difference between black and white boxes in the So-poko on side 203
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seasons of birth of linear system with infinite solutions/no*
+*Birth seasons from a linear system with infinitely many solutions or none*
 
-> Francesco and Andrea decide to consult the mathematical oracle to find out if they have any (x, y) pairs of lucky (real) numbers. To determine the pair (or pairs) of lucky numbers, the oracle asks both Francis and Andrew the day (g) and month (m) of birth, and then for each of them solves the system: (13x −y = 181 gx −my = 362. The oracle's response is that Andrew has no pair of lucky numbers, while Francis's pair of lucky numbers are infinite. Which of the following is correct?
+> Francesco and Andrea decide to consult the mathematical oracle to find out whether they have lucky pairs (x, y) of (real) numbers. To determine the lucky pair (or pairs), the oracle asks both Francesco and Andrea for their day (g) and month (m) of birth, and then for each of them solves the system:
 >
-> - **(A)** Francis and Andrew were both born in the spring.
-> - **(B)** Francesco and Andrea were both born in the summer.
-> - **(C)** Francesco and Andrea were both born in the fall.
-> - **(D)** Francesco and Andrea were both born in the winter.
+> (
+> 13x −y = 181
+> gx −my = 362
+> .
+>
+> The oracle's reply is that Andrea has no lucky pair of numbers, while Francesco's lucky pairs are infinitely many. Which of the following statements is correct?
+>
+> - **(A)** Francesco and Andrea were both born in spring
+> - **(B)** Francesco and Andrea were both born in summer
+> - **(C)** Francesco and Andrea were both born in autumn
+> - **(D)** Francesco and Andrea were both born in winter
 > - **(E)** Francesco and Andrea were born in different seasons.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2008_2livello#q04|src_archimede_2008_2livello__Q04]]
 
 
 
@@ -267,9 +273,10 @@ Difference between black and white boxes in the So-poko on side 203
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum i>0 for which a_i is a multiple of 19 in the recurrence*
+*Smallest i>0 for which a_i is a multiple of 19 in the recurrence*
 
-> They're a0, a1, a2. . . integers such that a0 = 19, a1 = 25, and for each n ≥0 an+2 = 2an+1−an. What's the smallest i > 0 where a is a multiple of 19?
+> Let a0, a1, a2, . . . be integers such that a0 = 19, a1 = 25, and for every n ≥ 0, an+2 = 2an+1 − an.
+> What is the smallest i > 0 for which ai is a multiple of 19?
 >
 > - **(A)** 19
 > - **(B)** 25
@@ -277,7 +284,11 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(D)** 44
 > - **(E)** 50.
 
-**Answer:** A
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2008_2livello#q05|src_archimede_2008_2livello__Q05]]
 
 
 
@@ -314,17 +325,21 @@ Difference between black and white boxes in the So-poko on side 203
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many salaries on the island given claims in two days*
+*Number of pages on the island from statements over two days*
 
-> On the island that doesn't exist, there are 2008 inhabitants, divided into three clans: the crooks who always lie, the knights who never lie, the payers who lie one day yes and one day no. Lorenza, visiting for two days, meets them all on the first day. The first one says, "There's exactly one crook on the island". The second one says, "There's exactly two crooks on the island". . . The 2008th says, "There are exactly 2008 crooks on the island". The next day, Lorenza interrogates them all in the same order. The first one says, there's exactly one rider on the island. The second one says, there's exactly two riders on the island. . . The last one says, "There are exactly 2008 knights on the island". How many pages are there on the island?
+> On the island that isn't there there are 2008 inhabitants, divided into three clans: knaves, who always lie; knights, who never lie; and pages, who lie one day and not the next. Lorenza, visiting for two days, meets them all on the first day. The first says: "there is exactly one knave on the island"; the second says: "there are exactly two knaves on the island". . . the 2008th says: "there are exactly 2008 knaves on the island". The next day Lorenza questions them all again in the same order. The first says: "there is exactly one knight on the island"; the second says: "there are exactly two knights on the island". . . the last says: "there are exactly 2008 knights on the island". How many pages are there on the island?
 >
 > - **(A)** 0
 > - **(B)** 1
 > - **(C)** 1004
 > - **(D)** 2006
-> - **(E)** It is not possible to determine this with the problem data.
+> - **(E)** it cannot be determined from the data of the problem.
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2008_2livello#q06|src_archimede_2008_2livello__Q06]]
 
 
 
@@ -355,9 +370,9 @@ Difference between black and white boxes in the So-poko on side 203
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Orders of 1,2,4,7,9 giving a multiple of 11*
+*Orderings of 1,2,4,7,9 that give a multiple of 11*
 
-> How many ways can you arrange the numbers 1, 2, 4, 7 and 9 to form a five-digit number divisible by 11?
+> In how many ways can the digits 1, 2, 4, 7 and 9 be ordered so that they form a five-digit number divisible by 11?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -365,7 +380,11 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(D)** 12
 > - **(E)** 24.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2008_2livello#q07|src_archimede_2008_2livello__Q07]]
 
 
 
@@ -399,11 +418,9 @@ Difference between black and white boxes in the So-poko on side 203
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area area shaded by three arcs in radius circle 1*
+*Area of the shaded region bounded by three arcs in a circle of radius 1*
 
-![[src_archimede_2008_2livello__prob8.png]]
-
-> Within a circle of radius 1 three arcs of circumference are drawn, also of radius 1, centering on the vertices of an equilateral triangle inscribed in the circumference. How much is the shaded area worth?
+> Inside a circle of radius 1, 3 arcs of circumference, also of radius 1, are drawn, centered at the vertices of an equilateral triangle inscribed in the circumference. What is the area of the shaded region?
 >
 > - **(A)** √ 3 4 π
 > - **(B)** π −3 √ 3 4
@@ -411,7 +428,11 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(D)** 3 √ 3 2
 > - **(E)** 6 −π.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2008_2livello#q08|src_archimede_2008_2livello__Q08]]
 
 
 
@@ -443,9 +464,9 @@ Difference between black and white boxes in the So-poko on side 203
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability that the time dial is horizontal*
+*Probability that the hour hand is horizontal*
 
-> Eleonora plays with a dice and a clock (still) that at the beginning marks 12. For 2008 times he throws the dice and brings the pitches forward for as many hours as the result. What is the ultimate probability that the time slot is horizontal?
+> Eleonora plays with a die and a (stopped) clock that initially shows 12 o'clock. For 2008 times she rolls the die and moves the hands forward by as many hours as the result. What is the probability at the end that the hour hand is horizontal?
 >
 > - **(A)** 0
 > - **(B)** 1 2008
@@ -453,7 +474,11 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(D)** 1 12
 > - **(E)** 1 6.
 
-**Answer:** E
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2008_2livello#q09|src_archimede_2008_2livello__Q09]]
 
 
 
@@ -492,9 +517,18 @@ Difference between black and white boxes in the So-poko on side 203
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of reciprocities of the roots of the reciprocal equation*
+*Sum of the reciprocals of the roots of a reciprocal equation*
 
-> When x1, x2, x3 and x4 are used to indicate the solutions of the equation x4 −2x3 −7x2 −2x + 1 = 0, what is 1 x1 + 1 x2 + 1 x3 + 1 x4 ?
+> Indicating with x1, x2, x3 and x4 the solutions of the equation x4 −2x3 −7x2 −2x + 1 = 0, what is the value of
+> 1
+> x1
+> + 1
+> x2
+> + 1
+> x3
+> + 1
+> x4
+> ?
 >
 > - **(A)** 1
 > - **(B)** 1 2
@@ -502,7 +536,11 @@ Difference between black and white boxes in the So-poko on side 203
 > - **(D)** 4
 > - **(E)** 7.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2008_2livello#q10|src_archimede_2008_2livello__Q10]]
 
 
 
@@ -538,17 +576,21 @@ Difference between black and white boxes in the So-poko on side 203
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which lamp remains on (perfect squares, odd dividers)*
+*Which bulb stays on (perfect squares, odd number of divisors)*
 
-> There are 10,000 bulbs numbered from 1 onwards, each of which is switched on and off with a normal switch. At the beginning all the lamps are turned off; then all the switches of the lamps marked by multiples of 1 are pressed once (hence all the lamps are turned on), then the switches of all those of equal position (i.e. multiples of 2), then those marked with multiples of 3, then those of the multiples of 4 and so on, are pressed once, until the multiples of 10000. Which of the following light bulbs remains on at the end of operations?
+> There are 10000 light bulbs numbered from 1 onward, each switched on and off by an ordinary switch. At the start all the bulbs are off; then the switches of all the bulbs marked with multiples of 1 are pressed once (so all the bulbs are turned on), then the switches of all those in even positions (that is, multiples of 2) are pressed once, then those marked with the multiples of 3, then the state of those corresponding to the multiples of 4 is changed, and so on, up to the multiples of 10000. Which of the following bulbs remains on at the end of the operations?
 >
-> - **(A)** Number 9405
-> - **(B)** the number 9406
-> - **(C)** the number 9407
-> - **(D)** the number 9408
-> - **(E)** The number is 9409.
+> - **(A)** number 9405
+> - **(B)** number 9406
+> - **(C)** number 9407
+> - **(D)** number 9408
+> - **(E)** number 9409.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2008_2livello#q11|src_archimede_2008_2livello__Q11]]
 
 
 
@@ -581,17 +623,21 @@ Difference between black and white boxes in the So-poko on side 203
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sphere radius given shadow and vertical axis*
+*Radius of the sphere given its shadow and a vertical rod*
 
-> On a sunny day, a sphere is placed on a horizontal terrain. At a certain moment the shadow of the sphere reaches a distance of 10 meters from the point where the sphere touches the ground. At the same time, a 1 metre long raft placed vertically on the ground casts a 2 metre long shadow. What is the radius of the sphere in meters?
+> On a sunny day a sphere rests on horizontal ground. At a certain moment the shadow of the sphere reaches a distance of 10 metres from the point where the sphere touches the ground. At the same moment a rod 1 metre long, placed vertically on the ground, casts a shadow 2 metres long. What is the radius of the sphere in metres?
 >
 > - **(A)** 5 2
 > - **(B)** 9 −4 √ 5
 > - **(C)** 10 √ 5 −20
 > - **(D)** 8 √ 10 −23
-> - **(E)** 6 − √ 15. Problems with numerical answer  5 points
+> - **(E)** 6 − √ 15. Numerical-answer problems – 5 points
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2008_2livello#q12|src_archimede_2008_2livello__Q12]]
 
 
 
@@ -617,11 +663,17 @@ Difference between black and white boxes in the So-poko on side 203
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most prime of two digits with different priority conditions*
+*Largest two-digit prime with various primality conditions*
 
-> Determine the greatest number of two digits such that: (a) it is a prime number; (b) the two digits are replaced by a prime number; (c) the product of the two digits is a prime number.
+> Determine the largest two-digit number such that:
+> a) it is a prime number;
+> b) swapping the two digits leaves a prime number;
+> c) the product of the two digits is a prime number.
 
-**Answer:** 71
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2008_2livello#q13|src_archimede_2008_2livello__Q13]]
 
 
 
@@ -647,11 +699,15 @@ Difference between black and white boxes in the So-poko on side 203
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BJ·CK product in the rectangular triangle with projections*
+*Product BJ·CK in a right triangle with projections*
 
-> Whether ABC is a right triangle in A, with $\widehat{ABC}$ = 15°. If H is the height from A and if J, K are the projections of H on AB and AC. Knowing that the area of AJHK is 45 cm2, how many cm2 is the product BJ · CK worth?
+> Let ABC be a right triangle at A, with $\widehat{ABC}$ = 15°. Let H be the foot of the altitude from A and let J, K be the projections of H onto AB and onto AC. Given that the area of AJHK is 45 cm2, how many cm2 is the product BJ · CK?
 
-**Answer:** 45
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2008_2livello#q14|src_archimede_2008_2livello__Q14]]
 
 
 
@@ -682,9 +738,18 @@ Difference between black and white boxes in the So-poko on side 203
 
 *Real pairs (x,y) with 4/(x+y) = 1/x + 1/y*
 
-> Demonstrative Exercise Determine all pairs (x, y) of real numbers that prove the equation 4 x + y = 1 x + 1 y.
+> PROOF EXERCISE
+> Determine all pairs (x, y) of real numbers that satisfy the equation
+> 4
+> x + y = 1
+> x + 1
+> y .
 
-**Answer:** y=x with (0,0) excluded
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2008_2livello#q15|src_archimede_2008_2livello__Q15]]
 
 
 
@@ -711,11 +776,16 @@ Difference between black and white boxes in the So-poko on side 203
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Q the mean point of AP is the ORTOCENTRE of ADE*
+*Q is the midpoint of AP and is the orthocenter of ADE*
 
-> Whether AB is a rope of one circumference and P is an inner point of AB such that AP = 2PB. Either DE the string passing through P and perpendicular to AB. Demonstrate that the mean point Q of AP is the orthocenter of ADE.
+> PROOF EXERCISE
+> Let AB be a chord of a circle and P a point inside AB such that AP = 2PB. Let DE be the chord passing through P and perpendicular to AB. Prove that the midpoint Q of AP is the orthocenter of ADE.
 
-**Answer:** proof
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2008_2livello#q16|src_archimede_2008_2livello__Q16]]
 
 
 
@@ -744,8 +814,17 @@ Difference between black and white boxes in the So-poko on side 203
 <div class="qlang-split" data-lang="en"></div>
 
 
-Are they cubic?
+*Are they cubes?*
 
-> A) There are seven positive integers a, b, c, d, e, f, g such that the products ab, bc, cd, de, ef, fg, ga are all perfect cubes. Prove that a, b, c, d, e, f, g are perfect cubes too. (b) You have six positive integers a, b, c, d, e, f such that the products ab, bc, cd, de, ef, fa are all perfect cubes. Is it always true that a, b, c, d, e, f are all perfect cubes? Note: we say perfect cube an integer m such that m = n3 for some integer n.
+> PROOF EXERCISE
+> a) There are seven positive integers a, b, c, d, e, f, g such that the products ab, bc, cd, de, ef, fg,
+> ga are all perfect cubes. Prove that a, b, c, d, e, f, g are also perfect cubes.
+> b) There are six positive integers a, b, c, d, e, f such that the products ab, bc, cd, de, ef, fa are
+> all perfect cubes. Is it always true that a, b, c, d, e, f are all perfect cubes?
+> Note: a perfect cube is an integer m such that m = n3 for some integer n.
 
-**Answer:** proof (yes for 7, no for 6)
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2008_2livello#q17|src_archimede_2008_2livello__Q17]]

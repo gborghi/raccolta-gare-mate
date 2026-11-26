@@ -34,13 +34,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quanti numeri a due cifre non sono né prime né multipli di 2, 3 o 5*
+*Quanti numeri di due cifre non sono né primi né multipli di 2, 3 o 5?*
 
-> Quanti numeri a due cifre non sono né prime né multipli di $2$, $3$ o $5$?
-> 
+> Quanti numeri di due cifre non sono né primi né multipli di $2$, $3$ o $5$?
+>
 > (A) $1$ \quad (B) $26$ \quad (C) $5$ \quad (D) $4$ \quad (E) più di $4$
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n2_f1#q01|src_obm_2001_n2_f1__Q01]]
 
 
 
@@ -70,15 +77,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo alfa dopo il triangolo rotante ABC 90 gradi contro il senso dell'orologio circa C*
+*Angolo alfa dopo aver ruotato il triangolo ABC di 90 gradi in senso antiorario attorno a C*
 
-> Il triangolo $CDE$ può essere ottenuto mediante la rotazione del triangolo $ABC$ da $90^\circ$ in senso controorario circa $C$, come mostrato nel disegno di seguito. Possiamo affermare che $\alpha$ è uguale a:
-> 
+> Il triangolo $CDE$ si può ottenere ruotando il triangolo $ABC$ di $90^\circ$ in senso antiorario attorno a $C$, come mostrato nel disegno sottostante. Possiamo affermare che $\alpha$ è uguale a:
+>
 > (A) $75^\circ$ \quad (B) $65^\circ$ \quad (C) $70^\circ$ \quad (D) $45^\circ$ \quad (E) $55^\circ$
 
 ![[src_obm_2001_n2_f1__q02.png]]
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n2_f1#q02|src_obm_2001_n2_f1__Q02]]
 
 
 
@@ -106,13 +120,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri composti nell'insieme {1, 101, 1001, ..., 1000000000001}*
+*Conta i numeri composti nell'insieme {1, 101, 1001, ..., 1000000000001}*
 
-> Nell'insieme $\{1,\ 101,\ 1001,\ \ldots,\ 1\,000\,000\,000\,001\}$ ogni elemento è un numero formato dalla cifra $1$ alle estremità e dalle cifre $0$ tra di loro. Alcuni di questi elementi sono numeri primi e altri composti. Per quanto riguarda la quantità di numeri composti possiamo affermare che:
-> 
-> (A) è uguale a $1$ \quad (B) è uguale a $4$ \quad (C) è inferiore a $3$ \quad (D) è maggiore di $4$ e inferiore a $11$ \quad (E) è $3$
+> Nell'insieme $\{1,\ 101,\ 1001,\ \ldots,\ 1\,000\,000\,000\,001\}$, ogni elemento è un numero formato dal digit $1$ alle estremità e dai digit $0$ posti tra di essi. Alcuni di questi elementi sono numeri primi, mentre altri sono numeri composti. Riguardo al numero di numeri composti, possiamo affermare che:
+>
+> (A) è uguale a $1$ \quad (B) è uguale a $4$ \quad (C) è minore di $3$ \quad (D) è maggiore di $4$ e minore di $11$ \quad (E) è $3$
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n2_f1#q03|src_obm_2001_n2_f1__Q03]]
 
 
 
@@ -139,13 +160,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Litr di acqua evaporata che riduce il contenuto di acqua di pera dal 90% al 60%*
+*Litri d'acqua evaporati che riducono il contenuto d'acqua delle pere dal 90% al 60%*
 
-> Una pera ha circa $90\%$ acqua e $10\%$ materia solida. Un produttore mette $100$ chilogrammi di pere a secco fino a che la massa totale è $60\%$ acqua. Quanti litri di acqua evaporeranno? (Ricorda: $1$ litro di acqua ha massa $1$ chilogrammo.)
-> 
-> (A) $15$ litri \quad (B) $45$ litri \quad (C) $75$ litri \quad (D) $80$ litri \quad (E) $30$
+> Una pera contiene circa $90\%$ di acqua e $10\%$ di materia solida. Un produttore mette a essiccare $100$ chilogrammi di pere finché la massa totale non sarà costituita da $60\%$ di acqua. Quanti litri d'acqua evaporeranno? (Ricorda: $1$ litro d'acqua ha una massa di $1$ chilogrammi.)
+>
+> (A) $15$ litri \quad (B) $45$ litri \quad (C) $75$ litri \quad (D) $80$ litri \quad (E) $30$ litri
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n2_f1#q04|src_obm_2001_n2_f1__Q04]]
 
 
 
@@ -173,13 +200,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quante volte il gruppo 89 appare scrivendo i numeri interi da 1 a 1000 in fila*
+*Quante volte compare il gruppo 89 scrivendo in sequenza gli interi da 1 a 1000*
 
-> I numeri interi positivi da $1$ a $1000$ sono scritti fianco a fianco, in ordine crescente, formando la sequenza $1234567891011121314\ldots\,9991000$. In questa sequenza, quante volte appare il gruppo ``$89$'?
-> 
+> I numeri interi positivi da $1$ a $1000$ sono scritti uno accanto all'altro in ordine crescente, formando la successione $1234567891011121314\ldots\,9991000$. In questa successione, quante volte compare il gruppo "$89$"?
+>
 > (A) $98$ \quad (B) $32$ \quad (C) $22$ \quad (D) $89$ \quad (E) $21$
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n2_f1#q05|src_obm_2001_n2_f1__Q05]]
 
 
 
@@ -209,15 +243,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di minuti per unire dieci catene a tre connessioni in una singola catena a 30 connessioni*
+*Minuti minimi per unire dieci catene da tre anelli in un'unica catena da 30 anelli*
 
-> Un serratore ha $10$ pezzi di catena di $3$ collegamenti ciascuno, mostrati di seguito. Vuole fare una singola catena di collegamenti$30$. Per aprire e quindi saldare un collegamento il serratore richiede $5$ minuti. Quanti minuti ci vorrà almeno per fare la catena?
-> 
+> Un fabbro ha $10$ pezzi di catena, ciascuno composto da $3$ anelli, come mostrato di seguito. Vuole realizzare un'unica catena di $30$ anelli. Per aprire e poi saldare un anello, il fabbro impiega $5$ minuti. Quanti minuti impiegherà almeno per realizzare la catena?
+>
 > (A) $30$ \quad (B) $35$ \quad (C) $40$ \quad (D) $45$ \quad (E) $50$
 
 ![[src_obm_2001_n2_f1__q06.png]]
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n2_f1#q06|src_obm_2001_n2_f1__Q06]]
 
 
 
@@ -244,13 +285,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prezzo delle mele per una dozzina di arance più una dozzina di banane*
+*Prezzo espresso in angurie per una dozzina di arance più una dozzina di banane*
 
-> I meloni $2$ costano lo stesso che le arance $9$ più le banane $6$; inoltre, una mezza dozzina di banane costa mezza melona. Pertanto, il prezzo pagato per una dozzina di arance e una dozzina di banane è pari al prezzo di:
-> 
-> (A) $3$ meloni \quad (B) $4$ meloni \quad (C) $6$ meloni \quad (D) $5$ meloni \quad (E) $2$ meloni
+> $2$ angurie costano quanto $9$ arance più $6$ banane; inoltre, mezza dozzina di banane costa mezza anguria. Pertanto, il prezzo pagato per una dozzina di arance e una dozzina di banane è uguale al prezzo di:
+>
+> (A) $3$ angurie \quad (B) $4$ angurie \quad (C) $6$ angurie \quad (D) $5$ angurie \quad (E) $2$ angurie
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n2_f1#q07|src_obm_2001_n2_f1__Q07]]
 
 
 
@@ -278,13 +325,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'ultima cifra della somma di 70 integri positivi consecutivi*
+*Ultima cifra della somma di 70 interi positivi consecutivi*
 
-> Qual è l'ultima cifra della somma dei numeri interi positivi consecutivi $70$?
-> 
-> (A) $4$ \quad (B) $0$ \quad (C) $7$ \quad (D) $5$ \quad (E) Mancano dati
+> Qual è l'ultima cifra della somma di $70$ interi positivi consecutivi?
+>
+> (A) $4$ \quad (B) $0$ \quad (C) $7$ \quad (D) $5$ \quad (E) Dati mancanti
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n2_f1#q08|src_obm_2001_n2_f1__Q08]]
 
 
 
@@ -314,11 +368,18 @@ level: OBM Nível 2
 
 *Rettangolo con lati interi distinti il cui perimetro è uguale all'area (annullato)*
 
-> Le misure dei lati di un rettangolo sono numeri interi distinti. Le lunghezze di questi lati, in modo che il perimetro e l'area del rettangolo siano espressi con lo stesso numero, sono:
-> 
+> Le misure dei lati di un rettangolo sono numeri interi distinti. Le lunghezze di tali lati, tali che il perimetro e l'area del rettangolo siano espressi dallo stesso numero, sono:
+>
 > (A) $18$ \quad (B) $12$ \quad (C) $24$ \quad (D) $9$ \quad (E) $36$
 
-**Risposta:** Annullato
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n2_f1#q09|src_obm_2001_n2_f1__Q09]]
 
 
 
@@ -346,13 +407,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di numeri di un numero tricifrato N dato 7N che finiscono in 171*
+*Somma delle cifre di un numero di tre cifre N, sapendo che 7N termina con 171*
 
-> Il numero a tre cifre $N$ moltiplicato per $7$ dà un risultato che termina in $171$. La somma delle cifre di $N$ è:
-> 
+> Il numero di tre cifre $N$ moltiplicato per $7$ dà un risultato che termina con $171$. La somma delle cifre di $N$ è:
+>
 > (A) $10$ \quad (B) $11$ \quad (C) $12$ \quad (D) $13$ \quad (E) $14$
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n2_f1#q10|src_obm_2001_n2_f1__Q10]]
 
 
 
@@ -380,13 +448,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N>1 minore tale che P_n coincida con P_1 per archi di 35 gradi su un cerchio*
+*Il più piccolo n>1 tale che P_n coincida con P_1 per archi di 35 gradi su una circonferenza*
 
-> I punti $P_1, P_2, P_3, \ldots$ sono, in questo ordine, su un cerchio e sono tali che l'arco che unisce ogni punto alle misure successive $35^\circ$. Il valore più piccolo di $n > 1$ tale che $P_n$ coincida con $P_1$ è:
-> 
+> I punti $P_1, P_2, P_3, \ldots$, in questo ordine, giacciono su una circonferenza e sono tali che l'arco che unisce ciascun punto al successivo misura $35^\circ$. Il valore minimo di $n > 1$ per cui $P_n$ coincide con $P_1$ è:
+>
 > (A) $347$ \quad (B) $73$ \quad (C) $109$ \quad (D) $141$ \quad (E) $361$
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_obm_2001_n2_f1#q11|src_obm_2001_n2_f1__Q11]]
 
 
 
@@ -418,17 +493,24 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Che dichiarazione è vera per una tabella a 9 colonne di 6 righe con 32 celle occupate*
+*Quale affermazione è vera per una scacchiera con 6 righe e 9 colonne e 32 celle occupate?*
 
-> Su una tabella rettangolare con righe $6$ e colonne $9$ sono occupate celle $32$. Possiamo affermare che:
+> Su una scacchiera rettangolare con $6$ righe e $9$ colonne, $32$ caselle sono occupate. Possiamo affermare che:
 >
-> - **(A)** Tutte le colonne hanno almeno $3$ cellule occupate.
-> - **(B)** Nessuna colonna ha più di $3$ cellule occupate.
-> - **(C)** Una colonna non ha cellule occupate.
-> - **(D)** Alcune righe hanno cellule occupate almeno $6$.
-> - **(E)** Tutte le righe hanno cellule occupate $5$.
+> - **(A)** Tutte le colonne hanno almeno $3$ celle occupate.
+> - **(B)** Nessuna colonna ha più di $3$ celle occupate.
+> - **(C)** Una certa colonna non ha alcuna cella occupata.
+> - **(D)** Alcuna riga ha almeno $6$ celle occupate.
+> - **(E)** Tutte le righe hanno celle occupate da $5$.
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n2_f1#q12|src_obm_2001_n2_f1__Q12]]
 
 
 
@@ -455,13 +537,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo FCD in un pentagono regolare con triangolo equilaterale interno ABF*
+*Angolo FCD in un pentagono regolare con triangolo equilatero interno ABF*
 
-> $ABCDE$ è un pentagono regolare e $ABF$ è un triangolo equilaterale interno a esso. L'angolo $\widehat{FCD}$ misura:
-> 
+> $ABCDE$ è un pentagono regolare e $ABF$ è un triangolo equilatero inscritto al suo interno. L'angolo $\widehat{FCD}$ misura:
+>
 > (A) $38^\circ$ \quad (B) $40^\circ$ \quad (C) $42^\circ$ \quad (D) $44^\circ$ \quad (E) $46^\circ$
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n2_f1#q13|src_obm_2001_n2_f1__Q13]]
 
 
 
@@ -489,13 +577,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di ragazzi in una classe data restanti di divisione e 15 ragazze*
+*Numero di ragazzi in una classe, dati i resti della divisione e 15 ragazze*
 
-> Contare gli studenti di una classe $4$ con $4$ lascia un residuo di $2$, e contare $5$ con $5$ lascia un residuo di $1$. Sapendo che $15$ degli studenti sono ragazze e che il numero di ragazze è maggiore del numero di ragazzi, il numero di ragazzi in questa classe è:
-> 
+> Contando gli studenti di una classe $4$ per $4$ si ottiene un resto di $2$, e contandoli $5$ per $5$ si ottiene un resto di $1$. Sapendo che $15$ degli studenti sono ragazze e che il numero delle ragazze è maggiore di quello dei ragazzi, il numero dei ragazzi in questa classe è:
+>
 > (A) $7$ \quad (B) $8$ \quad (C) $9$ \quad (D) $10$ \quad (E) $11$
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n2_f1#q14|src_obm_2001_n2_f1__Q14]]
 
 
 
@@ -523,13 +618,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero massimo di regioni di un cerchio diviso da 2n+1 raggi e una linea*
+*Numero massimo di regioni in cui un cerchio viene suddiviso da 2n+1 raggi e una retta*
 
-> Un cerchio è diviso dai radii $2n + 1$ in settori congruenti $2n + 1$. Il numero massimo di regioni del cerchio determinate da questi raggi e da una linea retta è:
-> 
+> Un cerchio viene diviso da $2n + 1$ raggi in $2n + 1$ settori congruenti. Il numero massimo di regioni del cerchio determinate da questi raggi e da una retta è:
+>
 > (A) $3n$ \quad (B) $3n+1$ \quad (C) $3n+2$ \quad (D) $3n+3$ \quad (E) $4n$
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2001_n2_f1#q15|src_obm_2001_n2_f1__Q15]]
 
 
 
@@ -557,13 +659,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18*
+*Differenza negli importi iniziali di Paulo e Cezar, con entrambi che finiscono con R$ 18*
 
-> Paulo e Cezar hanno dei soldi. Paulo dà a Cezar 18 dollari. La differenza tra gli importi che ciascuna aveva inizialmente è:
-> 
+> Paulo and Cezar have some money. Paulo gives Cezar R\$$55{,}00$ and, next, Cezar gives Paulo $\frac{1}{3}$ of what he has. Thus, both end up with R\$$18{,}00$. The difference between the amounts each one had initially is:
+>
 > (A) R\$$7{,}00$ \quad (B) R\$$8{,}00$ \quad (C) R\$$9{,}00$ \quad (D) R\$$10{,}00$ \quad (E) R\$$11{,}00$
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n2_f1#q16|src_obm_2001_n2_f1__Q16]]
 
 
 
@@ -590,13 +699,19 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Diegi rimanenti di razione per l'alimentazione del bestiame dopo l'acquisto e la vendita di mucche*
+*Giorni residui: razioni per nutrire il bestiame dopo l'acquisto e la vendita delle mucche*
 
-> Un agricoltore aveva vacche $24$ e razioni per nutrirle per $60$ giorni. Tuttavia, $10$ giorni dopo, ha comprato $6$ più mucche e $10$ giorni dopo quell'acquisto ha venduto $20$ mucche. Per quanti altri giorni, dopo questo ultimo acquisto, può nutrire il gregge con le rimanenti razioni?
-> 
+> Un agricoltore aveva $24$ mucche e le razioni necessarie per nutrirle per $60$ giorni. Tuttavia, dopo $10$ giorni, comprò $6$ mucche in più e, $10$ giorni dopo quell'acquisto, vendette $20$ mucche. Per quanti giorni in più, dopo quest'ultimo acquisto, potrà nutrire il branco con le razioni rimanenti?
+>
 > (A) $50$ \quad (B) $60$ \quad (C) $70$ \quad (D) $80$ \quad (E) $90$
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n2_f1#q17|src_obm_2001_n2_f1__Q17]]
 
 
 
@@ -624,13 +739,20 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di tutti i numeri da 1 a 999 in cui il numero 1 appare esattamente due volte*
+*Somma di tutti i numeri da 1 a 999 in cui la cifra 1 compare esattamente due volte*
 
-> Tutti i numeri da $1$ a $999$ in cui la cifra $1$ appare esattamente $2$ volte (come $11$, $121$, $411$, ecc.) vengono annotati. La somma di tutti questi numeri è:
-> 
+> Vengono elencati tutti i numeri compresi tra $1$ e $999$ in cui la cifra $1$ compare esattamente $2$ volte (come $11$, $121$, $411$, ecc.). La somma di tutti questi numeri è:
+>
 > (A) $6882$ \quad (B) $5994$ \quad (C) $4668$ \quad (D) $7224$ \quad (E) $3448$
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n2_f1#q18|src_obm_2001_n2_f1__Q18]]
 
 
 
@@ -660,15 +782,22 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'ampiezza minima del corridoio per spingere una tavola rettangolare attorno a una curva angolare rettangolare*
+*Larghezza minima del corridoio per spostare un tavolo rettangolare lungo una curva a angolo retto*
 
-> Un tavolo rettangolare, i cui piedi hanno ruote, deve essere spinto lungo un corridoio di larghezza costante che forma un angolo retto. Se le dimensioni del tavolo sono $a$ e $b$ (con $2a < b$), quale deve essere la larghezza minima del corridoio in modo che il tavolo possa essere spinto attraverso di esso?
-> 
+> Un tavolo rettangolare, le cui gambe sono dotate di ruote, deve essere spinto lungo un corridoio di larghezza costante che forma un angolo retto. Se le dimensioni del tavolo sono $a$ e $b$ (con $2a < b$), quale deve essere la larghezza minima del corridoio affinché il tavolo possa essere spinto attraverso di esso?
+>
 > (A) $a + b$ \quad (B) $(a+b)\dfrac{\sqrt{2}}{2}$ \quad (C) $(a+b)\dfrac{\sqrt{2}}{4}$ \quad (D) $(2a+b)\dfrac{\sqrt{2}}{4}$ \quad (E) $(a+2b)\dfrac{\sqrt{2}}{4}$
 
 ![[src_obm_2001_n2_f1__q19.png]]
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n2_f1#q19|src_obm_2001_n2_f1__Q19]]
 
 
 
@@ -696,13 +825,20 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Qual è la rete di un cubo che mostra la sua intersezione con un piano*
+*Quale figura è la rete di un cubo che ne mostra l'intersezione con un piano?*
 
-> Solo una delle seguenti figure rappresenta la rete (pianificazione) di un cubo su cui è evidenziata la sua intersezione con un piano. - Quale?
+> Solo una delle seguenti figure rappresenta la proiezione (di pianificazione) di un cubo in cui è evidenziata la sua intersezione con un piano. Quale?
 
 ![[src_obm_2001_n2_f1__q20.png]]
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n2_f1#q20|src_obm_2001_n2_f1__Q20]]
 
 
 
@@ -730,13 +866,20 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di cifre del più piccolo quadrato perfetto che termina nel 2001*
+*Numero di cifre del più piccolo quadrato perfetto che termina con 2001*
 
-> Quante cifre ha il più piccolo quadrato perfetto le cui ultime quattro cifre sono $2001$?
-> 
+> Quante cifre ha il più piccolo quadrato perfetto i cui ultime quattro cifre sono $2001$?
+>
 > (A) $9$ \quad (B) $5$ \quad (C) $6$ \quad (D) $7$ \quad (E) $8$
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n2_f1#q21|src_obm_2001_n2_f1__Q21]]
 
 
 
@@ -768,17 +911,24 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Limita alla velocità media di gara di Papa-Leguas data la velocità del primo giro di 200 km/h*
+*Velocità media di gara di Papa-Leguas vincolata, data la velocità al primo giro di 200 km/h*
 
-> Papa-Leguas ha partecipato a una gara (insieme a Coyote e Flash) che consisteva in $100$ giri su un circuito. Come sempre, il Coyote ha cercato di catturare Papa-Leguas e ha posto diverse trappole lungo la strada. Nel primo giro il Coyote catturò Papa-Leguas, ma la velocità media di Papa-Leguas nel primo giro era solo $200$ km/h. Sapendo questo, la velocità media di Papa-Leguas sulla gara:
+> Papa-Leguas ha partecipato a una gara (insieme a Coyote e Flash) composta da $100$ giri su un circuito. Come sempre, Coyote ha cercato di raggiungere Papa-Leguas e ha piazzato diverse trappole lungo il percorso. Al primo giro, Coyote ha raggiunto Papa-Leguas, ma la velocità media di Papa-Leguas al primo giro è stata di soli $200$ km/h. Sapendo questo, la velocità media di Papa-Leguas nell'arco della gara:
 >
 > - **(A)** Non può superare $200$ km/h.
 > - **(B)** Non può superare $250$ km/h, ma può superare $200$ km/h.
 > - **(C)** Non può superare $2000$ km/h, ma può superare $250$ km/h.
 > - **(D)** Non può superare $20000$ km/h, ma può superare $2000$ km/h.
-> - **(E)** Possono superare $20000$ km/h.
+> - **(E)** Può superare $20000$ km/h.
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n2_f1#q22|src_obm_2001_n2_f1__Q22]]
 
 
 
@@ -808,15 +958,22 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tigli bianchi necessari quando vengono utilizzate 80 piastrelle nere nella sequenza di mosaico*
+*Quando nella sequenza del mosaico vengono utilizzate 80 tessere nere, sono necessarie tessere bianche*
 
-> Con piastrelle quadrate bianche e nere, tutte della stessa dimensione, vengono costruiti i seguenti mosaici. La regola per la costruzione di questi mosaici è la seguente: inizialmente formiamo un quadrato con $1$ piastrelle bianche circondate da piastrelle nere; successivamente, un altro quadrato, con $4$ piastrelle bianche, anche circondate da piastrelle nere; e così via. Con le piastrelle nere $80$, quante piastrelle bianche saranno necessarie per fare una sequenza di mosaici come questa?
-> 
+> Con tessere quadrate bianche e nere, tutte della stessa dimensione, si costruiscono i seguenti mosaici. La regola per costruire questi mosaici è la seguente: inizialmente si forma un quadrato con $1$ tessere bianche circondate da tessere nere; poi si forma un altro quadrato, con $4$ tessere bianche, anch'esso circondato da tessere nere; e così via, in successione. Con $80$ tessere nere, quante tessere bianche saranno necessarie per realizzare una sequenza di mosaici come questo?
+>
 > (A) $55$ \quad (B) $65$ \quad (C) $75$ \quad (D) $85$ \quad (E) $100$
 
 ![[src_obm_2001_n2_f1__q23.png]]
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n2_f1#q23|src_obm_2001_n2_f1__Q23]]
 
 
 
@@ -844,13 +1001,20 @@ Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18
 <div class="qlang-split" data-lang="it"></div>
 
 
-Numero di lupi tra i cinque animali in cui i cani dicono la verità e i lupi mentono
+*Numero di lupi tra cinque animali, dove i cani dicono la verità e i lupi mentono*
 
-> Cinque animali $A$, $B$, $C$, $D$ e $E$ sono cani o lupi. I cani dicono sempre la verità e i lupi mentono sempre. $A$ dice che $B$ è un cane. Il$B$dice che il$C$è un lupo. $C$ dice che $D$ è un lupo. $D$ dice che $B$ e $E$ sono animali di specie diverse. $E$ dice che $A$ è un cane. Quanti lupi ci sono tra i cinque animali?
-> 
+> Cinque animali, $A$, $B$, $C$, $D$ e $E$, sono cani o lupi. I cani dicono sempre la verità e i lupi mentono sempre. $A$ dice che $B$ è un cane. $B$ dice che $C$ è un lupo. $C$ dice che $D$ è un lupo. $D$ dice che $B$ e $E$ sono animali di specie diverse. $E$ dice che $A$ è un cane. Quanti lupi ci sono tra i cinque animali?
+>
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n2_f1#q24|src_obm_2001_n2_f1__Q24]]
 
 
 
@@ -879,12 +1043,18 @@ Numero di lupi tra i cinque animali in cui i cani dicono la verità e i lupi men
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza FA in un esagono circonscrivibile data cinque lunghezze laterali consecutive*
+*Lunghezza FA in un esagono circoscrivibile dati cinque lati consecutivi*
 
 > L'esagono $ABCDEF$ è circoscrivibile. Se $AB = 1$, $BC = 2$, $CD = 3$, $DE = 4$ e $EF = 5$, quanto misura $FA$?
-> 
+>
 > (A) $1$ \quad (B) $3$ \quad (C) $15/8$ \quad (D) $6$ \quad (E) $9$
 
 ![[src_obm_2001_n2_f1__q25.png]]
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2001_n2_f1#q25|src_obm_2001_n2_f1__Q25]]

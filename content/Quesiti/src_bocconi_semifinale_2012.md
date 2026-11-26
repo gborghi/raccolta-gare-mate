@@ -36,17 +36,22 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Led plate number in the rear-view mirror.*
+*License plate number read in the rearview mirror.*
 
-> In the mirror
-> 
-> For his birthday, Desiderio received a burning bicycle with a beautiful rear-view mirror. As soon as he gets up, he hears a red car coming up behind him. Without turning, he reads the plate number in the mirror. (In the box the $2012$ mirrored text appears.)
-> 
-> What was the license plate number on the red car?
+> At the mirror
+>
+> For his birthday, Desiderio received the gift of a gleaming bicycle with a very nice rearview mirror. As soon as he gets on it, he senses a red car approaching from behind him. Without turning around, he reads in the rearview mirror the license plate number shown here. (Inside the box appears the text $2012$, displayed in mirror image.)
+>
+> What was the license plate number of the red car?
 
 ![[src_bocconi_semifinale_2012__q01.png]]
 
-**Answer:** 5105
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q01|src_bocconi_semifinale_2012__Q01]]
 
 
 
@@ -76,17 +81,22 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fill the six free bricks with numbers from 2 to 7 so that each hole around a black disk is 11.*
+*Fill the six empty blocks with the numbers 2 to 7 so that each set of three numbers around a black disc adds up to 11.*
 
-> The bricks
-> 
-> Using all integers from 2 to 7, fill in the six remaining "free" bricks so that the sum of the numbers of the three bricks around each black disk is always equal to 11.
-> 
-> Note: There are two possible solutions; just point out one.
+> The Little Blocks
+>
+> Using all the integers from 2 to 7, fill in the six blocks that are still "free" so that the sum of the numbers on the three blocks around each black disc is always equal to 11.
+>
+> Note: there are two possible solutions; you only need to indicate one of them.
 
 ![[src_bocconi_semifinale_2012__q02.png]]
 
-**Answer:** One solution (there are two), with the black discs equal to 11.
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q02|src_bocconi_semifinale_2012__Q02]]
 
 
 
@@ -114,15 +124,20 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Determining cell phones sold in December based on data on sales on specific days.*
+*Determine the number of mobile phones sold in December based on sales data for specific days.*
 
-> Go-go phones
-> 
-> Marco and Michele have a cell phone store. On Thursday, December 29, 2011, at mid-morning, Marco checks and sees that the Wednesday before the store sold 13 phones and only 1 that Thursday morning. The same calculations are made by Michele the next day, Friday, at the end of the morning, just before the year-end closure: the previous Thursday they had sold 15 phones, 4 that same Friday. The total number of phones sold in December was 218.
-> 
-> How many cell phones did they sell in December, before Marco paid his bills?
+> Phones Galore
+>
+> Marco and Michele run a mobile phone shop. On Thursday, 29 December 2011, in the middle of the morning, Marco does the accounts and sees that the previous Wednesday the shop sold 13 phones and only 1 that Thursday morning. The next day, Friday, towards the end of the morning and shortly before closing for the end of the year, Michele does the same calculations: the previous Thursday they had sold 15 phones, and 4 that very Friday. The total number of phones sold in December is 218.
+>
+> How many mobile phones had they sold in December before Marco did his calculations?
 
-**Answer:** 200
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q03|src_bocconi_semifinale_2012__Q03]]
 
 
 
@@ -152,17 +167,22 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of steps in front of the podium along a serpentine circuit with 111 corners to the right.*
+*Number of laps past the grandstand along a serpentine circuit with 111 right-hand bends.*
 
-> The automotive circuit
-> 
-> Renato is a conscientious driver and before the race he wanted to try the circuit where he will race on Sunday several times. After departure he followed the straight line northward; then, with a first curve to the right, he went on the straight line perpendicular to the first (the horizontal one, above, in the figure); with a second curve to the right, he then "came down" along the straight line parallel to the initial one and so on, along the path traced in the figure. When (after a few laps) he left the circuit to cut the finish line, he had curved 111 times to the right.
-> 
-> How many times, then, had he passed by the tribune (indicated with a black ball in the figure)?
+> The Motor Racing Circuit
+>
+> Renato is a conscientious driver, and before the race he wanted to test the circuit where the race will be held on Sunday several times. After the start, he followed the straight heading north; then, with a first right-hand bend, he came onto the straight perpendicular to the first one (the horizontal one at the top of the figure); with a second right-hand bend, he then "descended" along the straight parallel to the initial one, and so on, along the route shown in the figure. When (after a few laps) he "left" the circuit to cross the finish line, he had turned right 111 times.
+>
+> So how many times had he passed alongside the grandstand (indicated by a black dot in the figure)?
 
 ![[src_bocconi_semifinale_2012__q04.png]]
 
-**Answer:** 16
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q04|src_bocconi_semifinale_2012__Q04]]
 
 
 
@@ -190,15 +210,20 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Find the expected number knowing that after several operations you get 1,000,000.*
+*Find the number that was thought of, knowing that after various operations, the result is 1,000,000.*
 
-> I found a million!
-> 
-> Peter thinks of a number, multiplies it by 3, adds 792 to the result and then divides the number by 144 (obtaining an exact result, with no remainder). Then you subtract 2 from this last result and then you multiply by 100,000 the last number you get. Find exactly 1,000,000.
-> 
-> What was the number originally conceived by Peter?
+> 1 million found!
+>
+> Pietro thinks of a number, multiplies it by 3, adds 792 to the result, and then divides the resulting number by 144 (obtaining an exact result, with no remainder). Then he subtracts 2 from this last result and finally multiplies the last number he arrived at by 100,000. He gets exactly 1,000,000.
+>
+> What was the number Pietro originally thought of?
 
-**Answer:** 312
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q05|src_bocconi_semifinale_2012__Q05]]
 
 
 
@@ -228,17 +253,22 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of eggs for each box to contain at least one and each side of the chicken to contain exactly 10.*
+*Minimum number of eggs so that each nest box has at least one egg and each side of the chicken coop contains exactly 10 eggs.*
 
-> Of chickens
-> 
-> Every morning Liliana's chickens lay their eggs in the chicken's eight boxes so that Liliana always counts 10 eggs on each side of the chicken. In the example in the figure, the eggs laid are 29.
-> 
-> What is the minimum total number of eggs deposited so that each of the eight boxes has at least one egg and each side of the hen house contains exactly 10 eggs?
+> Exemplary Hens
+>
+> Every morning, Liliana's hens lay their eggs in the eight boxes in the henhouse so that Liliana always has 10 eggs on each side of the henhouse. In the example shown in the figure, 29 eggs have been laid.
+>
+> What is the minimum total number of eggs laid so that each of the eight boxes has at least one egg and each side of the henhouse contains exactly 10 eggs?
 
 ![[src_bocconi_semifinale_2012__q06.png]]
 
-**Answer:** 22
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q06|src_bocconi_semifinale_2012__Q06]]
 
 
 
@@ -268,17 +298,22 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of 3-box tiles to be placed until space is left, leaving empty boxes.*
+*Maximum number of 3-square tiles that can be placed until no space remains, leaving squares empty.*
 
-> Too many empty boxes
-> 
-> Amerigo enjoys the tiles that you see in the figure, on the side, and that he places horizontally or vertically in the chessboard. Each card occupies three empty boxes. At some point in the game, however, you have to stop because there is no more room for any other cards on the chessboard, even if there are empty boxes left.
-> 
-> How many, at most?
+> Too Many Empty Squares
+>
+> Amerigo has fun with the tiles shown in the figure beside this, placing them horizontally or vertically on the board. Each tile occupies three empty squares. At a certain point in the game, however, he has to stop because there is no more room on the board for any other tile, even though some squares are still empty.
+>
+> What's the maximum number?
 
 ![[src_bocconi_semifinale_2012__q07.png]]
 
-**Answer:** 15
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_colorazione|Colouring / parity]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q07|src_bocconi_semifinale_2012__Q07]]
 
 
 
@@ -306,15 +341,20 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of key presses 3, 5, +, = to display 2012 on a limited calculator.*
+*Minimum number of presses of the keys 3, 5, +, = to display 2012 on a limited calculator.*
 
-> This calculator is too old.
-> 
-> Luca found an old calculator that his father used at school. Time has ruined her further and now she only has four keys: the "3". the "5", the "+" and the "=" button (which is naturally pressed only once, before you get and see the final result of an operation written).
-> 
-> After turning it on, how many times did Luca press at least the keys on Dad's calculator (the ones that work) to see how 2012 was written?
+> This calculator is too old
+>
+> Luca has found an old calculator that his father used at school. Time has further damaged it, and now only four keys work: "3", "5", "+", and the "=" key (which, of course, is pressed only once before the final result of an operation is obtained and displayed).
+>
+> After turning it on, how many times at minimum did Luca press the keys on his dad's calculator (the ones that work) to then see 2012 displayed?
 
-**Answer:** 16
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q08|src_bocconi_semifinale_2012__Q08]]
 
 
 
@@ -344,17 +384,22 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers hidden by symbols given the row and column sums; find the sum of the third row.*
+*Numbers hidden by symbols, given the row and column sums; find the sum of the third row.*
 
 > Mysterious Symbols
-> 
-> In the figure, each symbol always hides the same number. The number on the right of each row indicates the sum of the digits of that row; the number at the bottom of each column indicates the sum of the digits of that column. There are two sums missing. (The sums indicated are: first line $19$, second line $15$; columns $?$, $15$, $10$.)
-> 
-> Find the one in the third row.
+>
+> In the figure, each symbol always represents the same digit. The number to the right of each row indicates the sum of the digits in that row; the number at the bottom of each column indicates the sum of the digits in that column. Two sums are missing. (The sums given are: first row $19$, second row $15$; columns $?$, $15$, $10$.)
+>
+> Find the sum for the third row.
 
 ![[src_bocconi_semifinale_2012__q09.png]]
 
-**Answer:** 11
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q09|src_bocconi_semifinale_2012__Q09]]
 
 
 
@@ -384,17 +429,22 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete in digits the missing numbers in the self-reference box that describes how many multiples of 5 appear in it.*
+*Fill in the missing numbers, in numerals, in the self-referential box that describes how many multiples of 5 appear in it.*
 
 > A self-referential box
-> 
+>
 > $1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12$
-> 
-> In this box, there's the words... numbers. Some of them are... multiplied by 5.
-> 
-> Complete the box (writing, in digits, the missing numbers) so that the sentence is true.
+>
+> In this box, … numbers are written. Among them, … are multiples of 5.
+>
+> Complete the box (by writing the missing numbers in digits) so that the statement is true.
 
-**Answer:** Two solutions: '15 numbers … 4 multiples of 5' and '15 numbers … 5 multiples of 5'.
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q10|src_bocconi_semifinale_2012__Q10]]
 
 
 
@@ -424,17 +474,22 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-The last issue Milena manages to write with strokes, stopping at the 312th stroke.
+*The last number that Milena manages to write using strokes, stopping at the 312th stroke.*
 
-> They 're not the pens they used to be .
-> 
-> Look at the figure (read it vertically). To write the whole numbers (the first thirteen are shown in the figure), Milena uses three symbols that contain 1 line or 2 lines or 3 lines. After writing the 312th paragraph, however, he realizes that his pen is drained and he must stop.
-> 
-> What is the last number (which you will indicate with ordinary decimal digits) that Milena managed to write completely?
+> Pens aren't what they used to be
+>
+> Look at the figure (reading it vertically). To write the whole numbers (the first thirteen are indicated in the figure), Milena uses three symbols that contain either 1 stroke, or 2 strokes, or 3 strokes. However, after writing the 312th stroke, she realizes that her pen is out of ink and has to stop.
+>
+> What is the last number (which you will indicate using ordinary decimal digits) that Milena managed to write in full?
 
 ![[src_bocconi_semifinale_2012__q11.png]]
 
-**Answer:** 56
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q11|src_bocconi_semifinale_2012__Q11]]
 
 
 
@@ -464,17 +519,22 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fill the magic "E" with the numbers 1 to 10 (5 already placed) respecting sums and orders; find the first line.*
+*Fill the magic 'E' with the numbers from 1 to 10 (5 already placed), respecting the sums and the orderings; find the first row.*
 
-> A magical "E"
-> 
-> Use all integers from 1 to 10 (the 5 has already been used) to fill the "E" boxes in the figure in such a way that: the sums of the numbers in the two three-box rows, those in the two-box row and those in the five-box column are always the same; in each of the two three-box rows and the two-box row the numbers are ordered increasingly from left to right.
-> 
-> What are the numbers on the first line?
+> A Magic "E"
+>
+> Use all the integers from 1 to 10 (5 has already been used) to fill the cells of the "E" in the figure so that: the sums of the numbers in the two rows of three cells, of the numbers in the row of two cells, and of the numbers in the column of five cells are always equal; in each of the two rows of three cells and in the row of two cells, the numbers are arranged in ascending order from left to right.
+>
+> What are the numbers in the first row?
 
 ![[src_bocconi_semifinale_2012__q12.png]]
 
-**Answer:** Two solutions: $1 - 7 - 8$ and $2 - 6 - 9$.
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q12|src_bocconi_semifinale_2012__Q12]]
 
 
 
@@ -504,17 +564,22 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum area of the square given the grey triangle on the midpoints with full-size sides.*
+*Minimum area of the square given the gray triangle on the midpoints, with sides of integer length.*
 
-> Triangles and squares
-> 
-> The black points in the figure are located in the middle points on two consecutive sides of the square. It is also known that the dimensions of the sides of the grey triangle are expressed by an integer number of centimeters.
-> 
+> Triangle and squares
+>
+> The black points in the figure are located at the midpoints of two consecutive sides of the square. It is also known that the lengths of the sides of the grey triangle are expressed as whole numbers of centimetres.
+>
 > What is the minimum area of the square (in cm$^2$)?
 
 ![[src_bocconi_semifinale_2012__q13.png]]
 
-**Answer:** 20
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q13|src_bocconi_semifinale_2012__Q13]]
 
 
 
@@ -542,15 +607,20 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of N+P numbers given the sums of N (1012) and P (2012).*
+*Minimum sum of the digits of N+P, given the sums of the digits of N (1012) and of P (2012).*
 
-> Sum of figures
-> 
-> The sum of the digits of a number N is equal to 1012; that of the digits of another number P is equal to 2012.
-> 
-> What is the minimum value of the sum of the digits of the number N+P?
+> Sum of digits
+>
+> The sum of the digits of a number N is equal to 1012; the sum of the digits of another number P is equal to 2012.
+>
+> What is the minimum possible value of the sum of the digits of the number N+P?
 
-**Answer:** 9
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q14|src_bocconi_semifinale_2012__Q14]]
 
 
 
@@ -580,17 +650,22 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum minimum number of moves (rotations of 90° of two contact cards) to move between two configurations of 8 cards on a 4x4 chessboard.*
+*Maximum number of the minimum number of moves (90° rotations of two touching tiles) required to transition between two configurations of 8 tiles on a 4x4 board.*
 
-> The "wire-domain"
-> 
-> Carla enjoys a game in which she has 8 1x2 cards (equal to each other) with which she covers, without overlapping or holes, a 4x4 chessboard. Carla has to go from any (assigned) situation to any final (assigned) situation with a minimum number of moves. Each move consists of a 90° rotation of two tiles touching each other on the long side. The figure illustrates a case where this minimum number is 2 moves.
-> 
-> How much is this number worth at most?
+> The "Domino-Turner"
+>
+> Carla is having fun with a game in which she has 8 identical 1x2 tiles; using these tiles, she covers a 4x4 board without overlaps or gaps. Carla must go from any given starting situation to any given final situation in the minimum number of moves. Each move consists of a 90° rotation of two tiles that touch along their long sides. The figure illustrates a case in which this minimum number is 2 moves.
+>
+> What is the maximum possible value of this number?
 
 ![[src_bocconi_semifinale_2012__q15.png]]
 
-**Answer:** 10
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q15|src_bocconi_semifinale_2012__Q15]]
 
 
 
@@ -622,19 +697,24 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Surface of the grey triangular visor of the helmet from a pentagon inscribed in a circumference.*
+*Surface area of the grey triangular visor of the helmet, starting from a pentagon inscribed in a circle.*
 
-> The Horseman's helmet
-> 
-> In the figure (symmetrical to the vertical axis) you see a knight's helmet. The five vertices of the pentagon are situated on the same circumference. The three smallest sides of the same pentagon have a length equal to the radius of this circumference, or 25 cm. The middle points of the major sides of the pentagon delimit the lower base of the grey triangle (which represents the visor of the helmet); the high vertices of the grey triangle and the pentagon coincide.
-> 
+> The Knight's Helmet
+>
+> In the figure (symmetric with respect to the vertical axis), you can see a knight's helmet. The five vertices of the pentagon lie on the same circle. The three shorter sides of the same pentagon have a length equal to the radius of this circle, namely 25 cm. The midpoints of the longer sides of the pentagon define the lower base of the gray triangle (which represents the visor of the helmet); the top vertices of the gray triangle and of the pentagon coincide.
+>
 > What is the area of the helmet visor (expressed in cm$^2$ and rounded to the nearest cm$^2$)?
-> 
-> Note: if necessary, $1{,}414$ for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$ will be used to write the final result.
+>
+> Note: if necessary, to write the final result, $1{,}414$ will be used for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$.
 
 ![[src_bocconi_semifinale_2012__q16.png]]
 
-**Answer:** 505
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q16|src_bocconi_semifinale_2012__Q16]]
 
 
 
@@ -664,14 +744,19 @@ The last issue Milena manages to write with strokes, stopping at the 312th strok
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Elimination game on N=2012 cards in a circle (every third card is eliminated): Find the card eliminated immediately after the 2012 card.*
+*Elimination game with N=2012 cards arranged in a circle (every third card is eliminated): find the card eliminated immediately after card 2012.*
 
-> He's having so much fun!
-> 
-> Nando placed cards numbered from 1 to N on a clockwise circumference (the figure illustrates the placement of the cards for N = 9). He then has fun by deleting the card with the number 1 and then deleting, with each move, the third card he meets. Thus, in order, remove the cards with the numbers 1,4,7,2,6,3,9,5 and at the end of the game you have the number 8 card.
-> 
-> For N=2012, what's the paper that's deleted right after the one with the number 2012? (Answer 0 if you think the 2012 card is the one left at the end of the game).
+> That's how he has fun!
+>
+> Nando has arranged numbered cards from 1 to N on a circle traversed clockwise (the figure illustrates the placement of the cards for N = 9). He then has fun by removing the card numbered 1 and, subsequently, at each move, removing the third card he encounters. Thus, in order, he removes the cards numbered 1, 4, 7, 2, 6, 3, 9, 5, and at the end of the game he is left with card number 8.
+>
+> For N = 2012, which card is removed immediately after the one numbered 2012? (Answer 0 if you think that card 2012 is the one left at the end of the game.)
 
 ![[src_bocconi_semifinale_2012__q17.png]]
 
-**Answer:** 14
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2012#q17|src_bocconi_semifinale_2012__Q17]]

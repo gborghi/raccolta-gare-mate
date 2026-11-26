@@ -30,11 +30,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due persone scalare le scale a velocità diverse; trovare possibili numeri di scale*
+*Due persone salgono le scale a velocità diverse; determina i possibili numeri di gradini*
 
-> La persona $A$ sale $2$ passi alla volta e la persona $B$ sale $3$ passi alla volta. Tuttavia, entrambi possono anche salire $1$ passo alla volta. L'ultimo passo prima della cima deve essere arrampicato da $A$ e $B$ in un solo passo. Quando sono salite le scale, il numero totale di passi compiuti da $A$ e $B$ insieme è stato $16$. Trova tutti i valori possibili per il numero di scale nella scala.
+> La persona $A$ sale di $2$ gradini alla volta, e la persona $B$ sale di $3$ gradini alla volta. Tuttavia, entrambi possono anche salire di $1$ gradini alla volta. L'ultimo gradino prima della cima deve essere salito da entrambi $A$ e $B$ in un unico passo. Quando hanno salito la scala, il numero totale di gradini percorsi da $A$ e $B$ insieme è stato $16$. Determinare tutti i valori possibili per il numero di gradini della scala.
 
-**Risposta:** 19, 20, 21, 22
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo10yq_yosen#q01|src_jjmo10yq_yosen__Q01]]
 
 
 
@@ -58,11 +63,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare palindromi al massimo 2012 con ordine inverso uguale all'originale*
+*Conta i palindromi di lunghezza al massimo 2012 la cui sequenza invertita è uguale a quella originale*
 
-> Un numero intero positivo è chiamato palindromo se i suoi numeri letti in ordine inverso danno lo stesso numero (senza zeri principali). Ad esempio, $1234$ non è un palindromo poiché la lettura inversa dà $4321$, che non è uguale a $1234$. Quanti palindromi ci sono che sono al massimo $2012$?
+> Un numero intero positivo è detto palindromo se, leggendo le sue cifre in ordine inverso, si ottiene lo stesso numero (senza zeri iniziali). Ad esempio, $1234$ non è un palindromo, poiché leggendolo al contrario si ottiene $4321$, che non è uguale a $1234$. Quanti palindromi ci sono che non superano $2012$?
 
-**Risposta:** 119
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo10yq_yosen#q02|src_jjmo10yq_yosen__Q02]]
 
 
 
@@ -88,13 +98,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esagono formato da quadrati su ciascun lato del triangolo; trovare la sua superficie*
+*Esagono formato da quadrati su ciascun lato di un triangolo; determina la sua area*
 
-> Su ciascun lato del triangolo $ABC$, i quadrati $PQBA$, $RSCB$ e $TUAC$ sono costruiti all'esterno del triangolo. Date $AB = 3$, $BC = 4$, $CA = 3$, si trova l'area dell'esagono $PQRSTU$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Su ciascun lato del triangolo $ABC$, all'esterno del triangolo, vengono costruiti i quadrati $PQBA$, $RSCB$ e $TUAC$. Dati $AB = 3$, $BC = 4$, $CA = 3$, determina l'area dell'esagono $PQRSTU$. Qui, $XY$ indica la lunghezza del segmento $XY$.
 
 ![[src_jjmo10yq_yosen__q03.png]]
 
-**Risposta:** 34+8\sqrt{5}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo10yq_yosen#q03|src_jjmo10yq_yosen__Q03]]
 
 
 
@@ -120,13 +135,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto E sul lato DA del quadrilaterale; troverà lunghezza EC*
+*Punto E sul lato DA del quadrilatero; determina la lunghezza EC*
 
-> Il quadrilaterale $ABCD$ ha un punto $E$ sul lato $DA$, con la linea $AB$ parallela alla linea $EC$. Se $AB = 3$, $BC = 3$, $CD = 5$, $DE = 3$, $EA = 2$, si trova $EC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Il quadrilatero $ABCD$ ha un punto $E$ sul lato $DA$, con la retta $AB$ parallela alla retta $EC$. Dati $AB = 3$, $BC = 3$, $CD = 5$, $DE = 3$, $EA = 2$, si determini $EC$. Qui, $XY$ indica la lunghezza del segmento $XY$.
 
 ![[src_jjmo10yq_yosen__q04.png]]
 
-**Risposta:** \frac{24}{5}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo10yq_yosen#q04|src_jjmo10yq_yosen__Q04]]
 
 
 
@@ -150,11 +170,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare 4 doppi di numeri interi positivi con a+bcd=ab+cd*
+*Quante quadruple di interi positivi soddisfano a + bcd = ab + cd*
 
-> Quanti 4 tupli $(a, b, c, d)$ di numeri interi positivi soddisfano $a + bcd = ab + cd$?
+> Quante quadruple $(a, b, c, d)$ di interi positivi soddisfano $a + bcd = ab + cd$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
 
 **Risposta:** 913
+
+[[Quesiti/src_jjmo10yq_yosen#q05|src_jjmo10yq_yosen__Q05]]
 
 
 
@@ -180,13 +207,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Octogono regolare con lato 1; trovare area di AIGH quadrilaterale*
+*Ottagono regolare di lato 1; trovare l'area del quadrilatero AIGH*
 
-> C'è un ottagono regolare $ABCDEFGH$ con lunghezza laterale $1$. Il $I$ deve essere l'intersezione delle diagonali $AD$ e $BF$. Trova l'area del quadrilaterale $AIGH$.
+> Esiste un ottagono regolare $ABCDEFGH$ con lato di lunghezza $1$. Sia $I$ l'intersezione delle diagonali $AD$ e $BF$. Determinare l'area del quadrilatero $AIGH$.
 
 ![[src_jjmo10yq_yosen__q06.png]]
 
-**Risposta:** \frac{1+\sqrt{2}}{2}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo10yq_yosen#q06|src_jjmo10yq_yosen__Q06]]
 
 
 
@@ -212,13 +244,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta percorsi che visitano 9 punti del grafico esattamente una volta e ritornano al start*
+*Conta i cammini che visitano esattamente una volta 9 punti del grafo e tornano al punto di partenza*
 
-> A partire dal punto $A$ nella figura seguente, una palla percorre i bordi e visita ciascuno dei punti $9$ esattamente una volta prima di tornare a $A$. Quante sono queste rotte? (Supponiamo che la palla non possa fermarsi a metà lungo un bordo.)
+> Partendo dal punto $A$ nella figura sottostante, una palla percorre i spigoli e visita ciascuno dei $9$ punti esattamente una volta prima di tornare a $A$. Quante di tali traiettorie esistono? (Si assuma che la palla non possa fermarsi a metà di uno spigolo.)
 
 ![[src_jjmo10yq_yosen__q07.png]]
 
-**Risposta:** 24
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo10yq_yosen#q07|src_jjmo10yq_yosen__Q07]]
 
 
 
@@ -242,11 +279,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare numeri interi inferiori a 10^6 divisibili per 3 scritti sulla lavagna una volta ciascuno*
+*Conta gli interi minori di 10^6 divisibili per 3, scritti una volta ciascuno sulla lavagna*
 
-> Tutti i numeri interi positivi inferiori a $10^6$ divisibili da $3$ sono scritti una volta su una lavagna. Trova il numero totale della cifra $1$ scritta sulla lavagna.
+> Tutti gli interi positivi minori di $10^6$ divisibili per $3$ vengono ciascuno scritti una volta sulla lavagna. Determinare il numero totale di volte in cui compare sulla lavagna la cifra $1$.
 
-**Risposta:** 199998
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo10yq_yosen#q08|src_jjmo10yq_yosen__Q08]]
 
 
 
@@ -270,11 +312,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A e B scelgono ciascuno tre integri a 1 cifra; contano i modi in cui il prodotto di A è uguale alla somma di B*
+*A e B scelgono ciascuno tre interi a una cifra; conta i modi in cui il prodotto di A è uguale alla somma di B*
 
-> La persona $A$ sceglie $3$ interi positivi a una cifra (la ripetizione è consentita, ma non lo stesso triplo di un'altra scelta). La persona $B$ sceglie anche $3$ integri positivi a una cifra nello stesso modo. Il prodotto dei tre numeri di $A$ è pari alla somma dei tre numeri di $B$, e la somma dei tre numeri di $A$ è pari al prodotto dei tre numeri di $B$. Quanti modi possono organizzare le loro scelte? (Le triples che sono riorganizzazioni l'una dell'altra sono considerate le stesse.)
+> La persona $A$ sceglie $3$ numeri interi positivi a una cifra (ripetizioni ammesse, ma non lo stesso tripletto di un'altra scelta). Anche la persona $B$ sceglie $3$ numeri interi positivi a una cifra nello stesso modo. Il prodotto dei tre numeri di $A$ è uguale alla somma dei tre numeri di $B$, e la somma dei tre numeri di $A$ è uguale al prodotto dei tre numeri di $B$. In quanti modi possono disporre le loro scelte? (I tripletti che sono permutazioni l'uno dell'altro si considerano identici.)
 
-**Risposta:** 7
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo10yq_yosen#q09|src_jjmo10yq_yosen__Q09]]
 
 
 
@@ -298,11 +345,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta n<=999 tale che S(n)/S(n+1) sia un intero*
+*Conta i numeri n <= 999 tali che S(n)/S(n+1) sia un numero intero*
 
-> Per un intero positivo $k$, $S(k)$ indica la somma delle sue cifre. Trova il numero di interi positivi $n \le 999$ in modo tale che $\dfrac{S(n)}{S(n+1)}$ sia un intero.
+> Per un numero intero positivo $k$, si indichi con $S(k)$ la somma delle sue cifre. Determinare il numero di numeri interi positivi $n \le 999$ tali che $\dfrac{S(n)}{S(n+1)}$ sia un numero intero.
 
-**Risposta:** 17
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo10yq_yosen#q10|src_jjmo10yq_yosen__Q10]]
 
 
 
@@ -326,11 +378,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimensioni della scatola di conte a<=b<=c per una scatola di conte a×b×c costruita a partire da cubetti unitari con un conto non dipinto uguale*
+*Conta le scatole con dimensioni a<=b<=c per le scatole di dimensioni a×b×c costruite con cubi unitari, con ugual numero di cubi non dipinti*
 
-> I cubetti unitari sono assemblati in una scatola rettangolare $a \times b \times c$ ($a, b, c$ numeri interi positivi). Ogni cubo unitario sulla superficie della scatola è dipinto. Il numero di cubetti unitari non dipinti è uguale al numero di cubetti unitari sulla superficie dipinti. Trova il numero di triples $(a, b, c)$ con $a \le b \le c$ che soddisfano questa condizione. (I triples che sono semplicemente riorganizzazioni l'uno dell'altro sono contati come uno.)
+> I cubi unitari vengono assemblati in una scatola rettangolare $a \times b \times c$ ($a, b, c$ interi positivi). Ogni cubo unitario sulla superficie della scatola viene dipinto. Il numero di cubi unitari non dipinti è uguale al numero di cubi unitari sulla superficie che sono dipinti. Determinare il numero di triple $(a, b, c)$ con $a \le b \le c$ che soddisfano questa condizione. (Le triple che sono semplicemente permutazioni l'una dell'altra vengono conteggiate come una sola.)
 
-**Risposta:** 20
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo10yq_yosen#q11|src_jjmo10yq_yosen__Q11]]
 
 
 
@@ -356,10 +413,15 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo X inserito nel PQRS quadrilaterale; trovare il raggio del circolo X dato i raggi di A,B,C,D*
+*Cerchio X inscritto nel quadrilatero PQRS; determina il raggio del cerchio X dati i raggi di A, B, C, D*
 
-> Il cerchio $X$ è inciso nel quadrilaterale $PQRS$. Inoltre, i cerchi $A$, $B$, $C$, $D$ sono ciascuna tangente a tre delle linee ottenute estendendo i lati del quadrilaterale $PQRS$, come mostrato nella figura. I raggi dei cerchi $A$, $B$, $C$, $X$ sono rispettivamente $2$, $1$, $4$ e $3$. Trova il raggio del cerchio $D$.
+> Il cerchio $X$ è inscritto nel quadrilatero $PQRS$. Inoltre, i cerchi $A$, $B$, $C$, $D$ sono ciascuno tangente a tre delle rette ottenute prolungando i lati del quadrilatero $PQRS$, come mostrato nella figura. I raggi dei cerchi $A$, $B$, $C$, $X$ sono rispettivamente $2$, $1$, $4$, $3$. Determinare il raggio del cerchio $D$.
 
 ![[src_jjmo10yq_yosen__q12.png]]
 
-**Risposta:** 8
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo10yq_yosen#q12|src_jjmo10yq_yosen__Q12]]

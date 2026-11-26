@@ -31,9 +31,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto, ceviani formando un triangolo simile, dimostrare P è centroid*
+*Triangolo acuto, ceviane che formano un triangolo simile, dimostrare che P è il baricentro*
 
-> $P$ sia un punto interno di un triangolo angolato acuto $ABC$. Le linee $AP$, $BP$, $CP$ incontrano rispettivamente $BC$, $CA$, $AB$ a $D$, $E$ e $F$. Dato che $\triangle DEF \sim \triangle ABC$. Provare che $P$ è il centroide di $\triangle ABC$.
+> Sia $P$ un punto interno di un triangolo acutangolo $ABC$. Le rette $AP$, $BP$, $CP$ incontrano $BC$, $CA$, $AB$ rispettivamente nei punti $D$, $E$, $F$. Dato che $\triangle DEF \sim \triangle ABC$. Dimostrare che $P$ è il baricentro di $\triangle ABC$.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2007#q01|src_cn_cwmo_2007__Q01]]
 
 
 
@@ -58,11 +67,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi, perpendicolare OD per MN se conciclicità di P,Q,M,N*
+*Due circonferenze, perpendicolarità OD perp MN sse conciclicità di P,Q,M,N*
 
-> I punti $C$ e $D$ siano due punti di intersezione del cerchio $O_1$ e del cerchio $O_2$. Una linea che attraversa $D$ incrocia il cerchio $O_1$ rispettivamente nei punti $A$ e $B$. I punti $P$ e $Q$ sono rispettivamente sul cerchio $O_2$ e sul cerchio $O_1$. Le linee $PD$ e $AC$ si incrociano a $M$, e le linee $QD$ e $BC$ si incrociano a $N$. Supponiamo che $O$ sia il centro circoncentrale del triangolo $ABC$, dimostriamo che $OD \perp MN$ se e solo se $P$, $Q$, $M$, $N$ sono conciclici.
+> Siano $C$ e $D$ due punti di intersezione della circonferenza $O_1$ e della circonferenza $O_2$. Una retta passante per $D$ interseca la circonferenza $O_1$ nei punti $A$ e $B$, rispettivamente. I punti $P$ e $Q$ appartengono rispettivamente alla circonferenza $O_2$ e alla circonferenza $O_1$. Le rette $PD$ e $AC$ si intersecano in $M$, e le rette $QD$ e $BC$ si intersecano in $N$. Supponiamo che $O$ sia il circocentro del triangolo $ABC$; dimostrare che $OD \perp MN$ se e solo se $P$, $Q$, $M$, $N$ sono concyclici.
 
 ![[src_cn_b07_w158__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2007#q02|src_cn_cwmo_2007__Q02]]
 
 
 
@@ -86,9 +102,17 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza della somma delle frazioni per i valori reali che sommano a 3*
+*Dimostra la disuguaglianza sulla somma di frazioni di numeri reali la cui somma è 3*
 
-> Supponiamo che $a$, $b$, $c$ siano numeri reali, con $a + b + c = 3$. Provare che $$\frac{1}{5a^2 - 4a + 11} + \frac{1}{5b^2 - 4b + 11} + \frac{1}{5c^2 - 4c + 11} \le \frac{1}{4}.$$
+> Supponiamo che $a$, $b$, $c$ siano numeri reali, con $a + b + c = 3$. Dimostrare che
+> $$\frac{1}{5a^2 - 4a + 11} + \frac{1}{5b^2 - 4b + 11} + \frac{1}{5c^2 - 4c + 11} \le \frac{1}{4}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2007#q03|src_cn_cwmo_2007__Q03]]
 
 
 
@@ -112,9 +136,17 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto interno del triangolo, numero intero p,q,r rendendo piccola la somma dei vettori ponderati*
+*Punto interno del triangolo, interi p,q,r che rendono piccola la somma vettoriale pesata*
 
-> $O$ sia un punto interno del triangolo $ABC$. Prova che esistono integri positivi $p$, $q$ e $r$, in modo tale che $$\left| p \cdot \overrightarrow{OA} + q \cdot \overrightarrow{OB} + r \cdot \overrightarrow{OC} \right| < \frac{1}{2007}.$$
+> Sia $O$ un punto interno del triangolo $ABC$. Dimostrare che esistono numeri interi positivi $p$, $q$ e $r$ tali che
+> $$\left| p \cdot \overrightarrow{OA} + q \cdot \overrightarrow{OB} + r \cdot \overrightarrow{OC} \right| < \frac{1}{2007}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2007#q04|src_cn_cwmo_2007__Q04]]
 
 
 
@@ -138,11 +170,16 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di triangolo con lati interi: lato più corto 2007, angolo più grande doppio più piccolo*
+*Esistenza di un triangolo con lati interi: lato più corto 2007, angolo maggiore doppio del minore*
 
-> C'è un triangolo con lati di lunghezza integrale, in modo che la lunghezza del lato più corto sia $2007$ e l'angolo più grande sia il doppio più piccolo?
+> Esiste un triangolo con lati di lunghezza intera tale che la lunghezza del lato più corto sia $2007$ e il più grande degli angoli sia il doppio del più piccolo?
 
-**Risposta:** No
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2007#q05|src_cn_cwmo_2007__Q05]]
 
 
 
@@ -166,9 +203,17 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi x1,...,xs,y che soddisfano un dato sistema di condizioni*
+*Trovare tutti gli interi positivi x1,...,xs,y che soddisfano un dato sistema di condizioni*
 
-> Trovare tutti i numeri interi positivi $x_1, x_2, \ldots, x_s, y$ che soddisfano le seguenti condizioni $$\begin{cases} \lfloor x_i + x_j \rfloor = 0, & 1 \le i < j \le s, \\ \lfloor x \rfloor + 1 = x_k y^s. \end{cases}$$
+> Trovare tutti gli interi positivi $x_1, x_2, \ldots, x_s, y$ che soddisfano le seguenti condizioni
+> $$\begin{cases} \lfloor x_i + x_j \rfloor = 0, & 1 \le i < j \le s, \\ \lfloor x \rfloor + 1 = x_k y^s. \end{cases}$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2007#q06|src_cn_cwmo_2007__Q06]]
 
 
 
@@ -191,6 +236,13 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto interno P con DEF congruente ad ABC implica P è centroid*
+*Il punto interno P, con DEF congruente ad ABC, implica che P è il baricentro*
 
-> $P$ sia un punto interno del triangolo a angolo acuto $ABC$. Le linee $AP$, $BP$, $CP$ incontrano rispettivamente $BC$, $CA$, $AB$ a $D$, $E$ e $F$. Con $\triangle DEF \cong \triangle ABC$. Provare che $P$ è il centroide di $\triangle ABC$.
+> Sia $P$ un punto interno del triangolo acutangolo $ABC$. Le rette $AP$, $BP$, $CP$ intersecano $BC$, $CA$, $AB$ rispettivamente nei punti $D$, $E$, $F$. Dato $\triangle DEF \cong \triangle ABC$. Dimostrare che $P$ è il baricentro di $\triangle ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2007#q07|src_cn_cwmo_2007__Q07]]

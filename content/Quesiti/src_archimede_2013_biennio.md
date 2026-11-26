@@ -36,9 +36,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*residual 1 to 7 and remaining 2 to 10*
+*remainder 1 mod 7 and remainder 2 mod 10*
 
-> Frederick has a collection of soldiers; he knows he has a little less than 100, but certainly at least 30. He puts them in line by 7 and a soldier advances; then he puts them in line by 10 and this time 2 soldiers advance. How many soldiers does he have in all?
+> Federico has a collection of toy soldiers; he knows that he has a little less than 100, but certainly at least 30. He arranges them in rows of 7 and one soldier is left over; then he arranges them in rows of 10 and this time two soldiers are left over. How many soldiers does he have in total?
 >
 > - **(A)** 32
 > - **(B)** 50
@@ -46,7 +46,10 @@ level: biennio
 > - **(D)** 71
 > - **(E)** 92
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2013_biennio#q01|src_archimede_2013_biennio__Q01]]
 
 
 
@@ -80,17 +83,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Day of conversation between two lying mathematicians
+*Day of the conversation between the two lying mathematicians*
 
-> In a conversation between two mathematicians, the first says to the second, "I lied yesterday". The other replies, "I lied yesterday too". Knowing that one of the two lies on Monday, Tuesday and Wednesday (and only on these days), while the other lies on Thursday, Friday and Saturday (and only on these days), on what day of the week did the conversation take place?
+> In a conversation between two mathematicians, the first says to the second: "Yesterday I lied." The other replies: "I lied yesterday too." Given that one of them lies on Monday, Tuesday and Wednesday (and only on those days), while the other lies on Thursday, Friday and Saturday (and only on those days), on which day of the week did the conversation take place?
 >
 > - **(A)** Monday
 > - **(B)** Thursday
-> - **(C)** Sundays
-> - **(D)** Such a conversation cannot have taken place .
-> - **(E)** It is not possible to determine the day uniquely.
+> - **(C)** Sunday
+> - **(D)** such a conversation cannot have taken place
+> - **(E)** the day cannot be determined uniquely.
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2013_biennio#q02|src_archimede_2013_biennio__Q02]]
 
 
 
@@ -121,9 +128,9 @@ Day of conversation between two lying mathematicians
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of head at the next coin toss*
+*Probability of heads on the next coin toss*
 
-> Leo throws a coin 7 times (unmade) and gets twice the head and five times the cross. If he throws it one more time, what are the odds of getting his head?
+> Leo tosses a (fair) coin 7 times, getting heads twice and tails five times. If he tosses it once more, what is the probability that he gets heads?
 >
 > - **(A)** 1 8
 > - **(B)** 1 7
@@ -131,7 +138,10 @@ Day of conversation between two lying mathematicians
 > - **(D)** 35 27
 > - **(E)** 1 2
 
-**Answer:** E
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2013_biennio#q03|src_archimede_2013_biennio__Q03]]
 
 
 
@@ -164,17 +174,20 @@ Day of conversation between two lying mathematicians
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rhythmic criterion TRE+TRE=SEI, property of the digits*
+*Which claim holds in the cryptarithm TRE + TRE = SEI*
 
-> Andrea writes the sum of two three-digit numbers with the corresponding result. He then replaces each digit with a letter, matching the same letter to the same digit and using different letters for different digits. This way you get: TRE + TRE = SEI. So, what?
+> Andrea writes the sum of two three-digit numbers together with the result. He then replaces each digit with a letter, using the same letter for the same digit and different letters for different digits. In this way he obtains: TRE + TRE = SEI. Then:
 >
-> - **(A)** the letter E must correspond to an equal number
-> - **(B)** The letter S is necessarily an equal number.
-> - **(C)** the letter E necessarily corresponds to a odd number greater than 4
-> - **(D)** the letter E necessarily corresponds to a number less than 5
-> - **(E)** None of the above statements are true
+> - **(A)** the letter E must correspond to an even number
+> - **(B)** the letter S must correspond to an even number
+> - **(C)** the letter E must correspond to an odd number greater than 4
+> - **(D)** the letter E must correspond to an even number less than 5
+> - **(E)** none of the previous statements is true
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2013_biennio#q04|src_archimede_2013_biennio__Q04]]
 
 
 
@@ -217,17 +230,19 @@ Day of conversation between two lying mathematicians
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reduction in the percentage of androids after population increase*
+*Drop in the percentage of guard androids after the population grows*
 
-> Until 2013, in the Zoranel penal colony the population was 60% androids, of which 5% were supervised; say q the percentage of supervised androids over the total population in that year. In 2014 the population increased by 10% due to the arrival of N human exiles. How much has the percentage of surveillance androids decreased over the total population?
+> Until 2013, in the penal colony of Zoranel the population consisted of 60% androids, of whom 5% were assigned to guard duty; call q the percentage of guard androids in the total population in that year. In 2014 the population increased by 10% because of the arrival of N exiled humans. By how much did the percentage of guard androids in the total population decrease?
 >
-> - **(A)** He didn 't change .
-> - **(B)** less than one tenth of q
-> - **(C)** more than one tenth of q
-> - **(D)** depends on N
-> - **(E)** It depends on how large the initial population was.
+> - **(A)** it did not change
+> - **(B)** by less than a tenth of q
+> - **(C)** by more than a tenth of q
+> - **(D)** it depends on N
+> - **(E)** it depends on how large the initial population was.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2013_biennio#q05|src_archimede_2013_biennio__Q05]]
 
 
 
@@ -259,9 +274,9 @@ Day of conversation between two lying mathematicians
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of mathematicians at a meeting with constraints*
+*Number of mathematicians at a conference with constraints*
 
-> A conference is attended by 30 scientists, each of whom is a mathematician, or a physicist, or a chemist or a biologist. Physicists and biologists, together, are half the mathematicians; physicists and chemists, together, are twice the biologists. Besides, there's at least one physicist. How many mathematicians are there?
+> At a conference, 30 scientists participate, each of whom is a mathematician, or a physicist, or a chemist, or a biologist. The physicists and biologists, together, are half of the mathematicians; the physicists and chemists, together, are twice the biologists. Moreover, there is at least one physicist. How many are mathematicians?
 >
 > - **(A)** 6
 > - **(B)** 10
@@ -269,7 +284,10 @@ Day of conversation between two lying mathematicians
 > - **(D)** 15
 > - **(E)** 18
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2013_biennio#q06|src_archimede_2013_biennio__Q06]]
 
 
 
@@ -303,9 +321,13 @@ Day of conversation between two lying mathematicians
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Table pairs where row 2 and multiples of 1*
+*Pairs in the table where row 2 is a multiple of row 1*
 
-> Given a table with 2 rows and 1007 columns, we write all the numbers from 1 to 1007 on the first row in increasing order, and the numbers from 1008 to 2014 on the second, always in increasing order. Now let's look at the table as 1007 pairs of numbers overlapping vertically: how many of them is the number that appears in the second row multiple of what's above it?
+> Given a table with 2 rows and 1007 columns, we write all the numbers from 1 to 1007
+> on the first row in increasing order, and the numbers from 1008 to 2014 on the second,
+> always in increasing order. Now we look at the table as 1007 pairs of numbers
+> stacked vertically: in how many of them is the number appearing in the second row
+> a multiple of the one above it?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -313,7 +335,10 @@ Day of conversation between two lying mathematicians
 > - **(D)** 5
 > - **(E)** 6
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2013_biennio#q07|src_archimede_2013_biennio__Q07]]
 
 
 
@@ -347,9 +372,9 @@ Day of conversation between two lying mathematicians
 <div class="qlang-split" data-lang="en"></div>
 
 
-Chilies eaten by Alberto, split and returned
+*Cherries eaten by Alberto, division and remainders*
 
-> Alberto collected 756 cherries from his grandfather's tree, and divided them equally between himself and some of his friends. Three of them, however, are not very hungry and return to Alberto a quarter of the cherries they received. Alberto, with an iron stomach, besides his own devours those too; in the end, he realizes that he has eaten no less than 150 cherries. How many did you eat, exactly?
+> Alberto collected 756 cherries from his grandfather's tree, and divides them equally among himself and some of his friends. Three of them, however, are not very hungry and return to Alberto a quarter of the cherries they received. Alberto, with an iron stomach, eats not only his own but also those; in the end, he notices that he has eaten no fewer than 150 cherries. Exactly how many did he eat?
 >
 > - **(A)** 150
 > - **(B)** 189
@@ -357,7 +382,11 @@ Chilies eaten by Alberto, split and returned
 > - **(D)** 231
 > - **(E)** 270
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2013_biennio#q08|src_archimede_2013_biennio__Q08]]
 
 
 
@@ -388,17 +417,20 @@ Chilies eaten by Alberto, split and returned
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N2 dividers if n has 6 dividers*
+*Number of positive divisors of n2 when n has 6*
 
-> If n is a natural number with 6 positive integers, how many positive integers does n have? N.B.: Among the divisors of a number, we also count 1 and the number itself.
+> If n is a natural number with 6 positive integer divisors, how many positive integer divisors does n2 have? N.B.: among the divisors of a number we also count 1 and the number itself.
 >
 > - **(A)** 11
 > - **(B)** 12
 > - **(C)** 15
 > - **(D)** 36
-> - **(E)** The answer depends on n
+> - **(E)** the answer depends on n
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2013_biennio#q09|src_archimede_2013_biennio__Q09]]
 
 
 
@@ -455,41 +487,23 @@ Chilies eaten by Alberto, split and returned
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report area CDE triangle and trapezoid*
+*Ratio of the area of triangle CDE to the area of the trapezium*
 
 ![[src_archimede_2013_biennio__prob10.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (6,0);
-  \coordinate (D) at (2,2.6);
-  \coordinate (C) at (4,2.6);
-  \coordinate (E) at (4,1.3);
-  \fill[gray!50] (C) -- (D) -- (E) -- cycle;
-  \draw (A) -- (B) -- (C) -- (D) -- cycle;
-  \draw (B) -- (D);
-  \draw (D) -- (E);
-  \fill (E) circle (1.5pt);
-  \node[above left] at (D) {$D$};
-  \node[above right] at (C) {$C$};
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[below right] at (E) {$E$};
-\end{tikzpicture}
-\end{document}
-```
-
-> In an ABCD trapezoid the major base AB is triple the minor base CD. Indicated by E the middle point of the BD diagonal, what is the ratio between the area of the CDE triangle and the area of the trapezoid?
+> In a trapezium ABCD the longer base AB is three times the shorter base CD. Let E be the midpoint of the diagonal BD. What is the ratio of the area of triangle CDE to the area of the trapezium?
 >
 > - **(A)** 1/3
 > - **(B)** 1/6
 > - **(C)** 1/8
 > - **(D)** 1/12
-> - **(E)** cannot be determined by the data provided
+> - **(E)** it cannot be determined from the data given
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2013_biennio#q10|src_archimede_2013_biennio__Q10]]
 
 
 
@@ -520,9 +534,10 @@ Chilies eaten by Alberto, split and returned
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shorter route for the vertices of a cube*
+*Shortest path through the vertices of a cube*
 
-> How long is the shortest path that passes through all the vertices of a 1 m side cube? N.B. The path can also pass inside the cube.
+> How long is the shortest path that passes through all the vertices of a cube of side
+> 1 m? N.B. the path may also pass inside the cube.
 >
 > - **(A)** 6 m
 > - **(B)** 7 m
@@ -530,7 +545,10 @@ Chilies eaten by Alberto, split and returned
 > - **(D)** (6 + √ 3) m
 > - **(E)** 8 m
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+[[Quesiti/src_archimede_2013_biennio#q11|src_archimede_2013_biennio__Q11]]
 
 
 
@@ -577,23 +595,13 @@ Chilies eaten by Alberto, split and returned
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A circular area not covered by an equilateral triangle*
+*Area of the circle not covered by an equilateral triangle*
 
-![[src_archimede_2013_biennio__prob12.png]]
-
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (A) at (-1.414,0);
-  \coordinate (B) at (1.414,0);
-  \coordinate (T) at (0,2.449);
-  \draw (0,1.2247) circle (1.2247);
-  \draw (A) -- (B) -- (T) -- cycle;
-\end{tikzpicture}
-\end{document}
-```
-
-> In a modern art sculpture, a circle is represented partially concealed by an equilateral triangle, as shown in the figure: the circle has a diameter as long as the height of the triangle, which measures √ 6 m. How much is the area of the part of the circle not covered by the triangle ?
+> In a modern art sculpture, a circle is partly hidden by an equilateral triangle, as in the figure: the circle
+> has a diameter as long as the height of the triangle, which measures
+> √
+> 6 m. What is the area of the part of the circle not covered by the
+> triangle?
 >
 > - **(A)** ( 3 2π−8 √ 3) m2
 > - **(B)** π 2 m2
@@ -601,7 +609,9 @@ Chilies eaten by Alberto, split and returned
 > - **(D)** ( 3 2π−9 √ 3 8 ) m2
 > - **(E)** 3 2π m2
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_archimede_2013_biennio#q12|src_archimede_2013_biennio__Q12]]
 
 
 
@@ -632,17 +642,20 @@ Chilies eaten by Alberto, split and returned
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability of two balls of the same color
+*Probability that two drawn balls are the same colour*
 
-> There are eight blue balls and seven red balls in a day. Mirco extracts two balls, one after the other (without putting the first extracted ball back into the urn, before extracting the second). What is the probability that the two balls extracted are of the same color?
+> An urn contains 8 blue balls and 7 red balls. Mirco draws two balls, one after the other (without putting the first ball drawn back into the urn before drawing the second). What is the probability that the two balls drawn are the same colour?
 >
 > - **(A)** 1/4
 > - **(B)** 1/2
 > - **(C)** 7/15
 > - **(D)** 8/15
-> - **(E)** None of the preceding
+> - **(E)** none of the above
 
-**Answer:** C
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2013_biennio#q13|src_archimede_2013_biennio__Q13]]
 
 
 
@@ -679,19 +692,20 @@ The probability of two balls of the same color
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which port to choose for the shortest route*
+*Door that gives the shortest path from Salvo to Maria*
 
-![[src_archimede_2013_biennio__prob14.png]]
-
-> Salvo and Maria (S and M in figure) are separated by a long wall, inclined at an angle of α relative to the straight line joining them (where 0 < α < 90°). In the two points P1 and P2 of the nearest wall to Salvo and Maria there are two doors, distant from each other d > 0; knowing that Salvo and Maria are respectively 10 meters and 8 meters from the door to their nearest, which of the two doors must Salvo cross to reach Mary by taking the shortest path possible?
+> Salvo and Maria (S and M in the figure) are separated by a long wall, inclined at an angle α to the line joining them (where 0 < α < 90°). At the two points P1 and P2 of the wall closest to Salvo and to Maria there are two doors, a distance d > 0 apart; given that Salvo and Maria are respectively 10 metres and 8 metres from the door closest to them, which of the two doors must Salvo go through to reach Maria by the shortest possible path?
 >
-> - **(A)** the door P1
-> - **(B)** the P2 door
-> - **(C)** He 's indifferent .
-> - **(D)** depends on the distance d between the doors
-> - **(E)** depends on the slope α of the wall P1 P2 S M d _
+> - **(A)** door P1
+> - **(B)** door P2
+> - **(C)** it makes no difference
+> - **(D)** it depends on the distance d between the doors
+> - **(E)** it depends on the inclination α of the wall P1 P2 S M d _
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+[[Quesiti/src_archimede_2013_biennio#q14|src_archimede_2013_biennio__Q14]]
 
 
 
@@ -722,7 +736,7 @@ The probability of two balls of the same color
 
 *Coefficient of x^199 in (x^2+x+1)^100*
 
-> What is the coefficient of x199 in (x2 + x + 1)100?
+> What is the coefficient of x^199 in (x^2 + x + 1)^100?
 >
 > - **(A)** 100
 > - **(B)** 298
@@ -730,7 +744,10 @@ The probability of two balls of the same color
 > - **(D)** 5050
 > - **(E)** 992
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2013_biennio#q15|src_archimede_2013_biennio__Q15]]
 
 
 
@@ -763,11 +780,11 @@ The probability of two balls of the same color
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area part shaded with stars in the square*
+*Star-shaped shaded area in the square*
 
-![[src_archimede_2013_biennio__prob16.png]]
-
-> Calculate the area of the shaded part in the figure knowing that the side of the square is 2 m long and that the points of the star fall in the middle points of the sides of the square.
+> Calculate the area of the shaded part in the figure, knowing that
+> the side of the square is 2 m long and that the tips of the star
+> fall at the midpoints of the sides of the square.
 >
 > - **(A)** 1 m2
 > - **(B)** 2 m2
@@ -775,4 +792,7 @@ The probability of two balls of the same color
 > - **(D)** π m2
 > - **(E)** 2 √ 2 m2
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2013_biennio#q16|src_archimede_2013_biennio__Q16]]

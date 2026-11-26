@@ -41,9 +41,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Look at the dial of the watch with different hands*
+*Harbour water level*
 
-> On a given day, the water level (measured in centimetres) in a port has risen and fallen relative to the average annual level, reported as 0, according to the diagram in figure. For how many hours that day, the water level was at least 30 cm. above the mean? A) 5 B) 6 C) 7 D) 9 E) 13
+> On a certain day, the water level (measured in centimetres) in a harbour rose and fell relative to the annual average level, shown as 0, according to the diagram in the figure. For how many hours, on that day, was the water level at least 30 cm above the average?
+> A) 5
+> B) 6
+> C) 7
+> D) 9
+> E) 13
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q01|src_kangourou_2012_student__Q01]]
 
 
 
@@ -70,14 +81,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hours with water level above 30 cm from the graph*
+*The number is equal to*
 
 > The number            is equal to
 > A) 1.
-> B)       .
-> C)     .
-> D)       .
+> B) .
+> C) .
+> D) .
 > E) 2.
+
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q02|src_kangourou_2012_student__Q02]]
 
 
 
@@ -106,16 +123,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of rectangles with area 60 and integer sides*
+*The number in the centre of the list*
 
-> In a list of five numbers, the first is 2 and the last is 12. The product of the
-> first three numbers is 30, the product of the three middle ones is 90 and the product of the
-> last three is 360. What is the number in the middle of the list?
+> In a list of five numbers, the first is 2 and the last is 12. The product of the first three numbers is 30, the product of the three middle numbers is 90 and the product of the last three is 360. What is the number in the centre of the list?
 > A) 3
 > B) 4
 > C) 5
 > D) 6
 > E) 10
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q03|src_kangourou_2012_student__Q03]]
 
 
 
@@ -143,9 +164,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Color of the sum of a number red and a number blue*
+*Digging a ditch*
 
-> In two hours, 10 workers dig a 60-foot-long ditch. How many feet of ditch can 20 workers dig in 20 minutes? A) 3 B) 4,5 C) 5 D) 6 E) 12
+> In two hours, 10 workers dig a ditch 18 metres long. How many metres of ditch do 20 workers dig in 20 minutes?
+> A) 3
+> B) 4,5
+> C) 5
+> D) 6
+> E) 12
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q04|src_kangourou_2012_student__Q04]]
 
 
 
@@ -173,9 +205,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the nested root sqrt(2 sqrt2)*
+*Perimeter of a quadrilateral*
 
-> Two sides of a quadrilateral measure 1 cm and 4 cm. One of the two diagonals measures 2 cm and divides the quadrilateral into two isosceles triangles. How many centimeters does the perimeter of the quadrilateral measure? A) 8 B) 9 C) 10 D) 11 E) 12
+> Two sides of a quadrilateral measure 1 cm and 4 cm. One of the two diagonals measures 2 cm and divides the quadrilateral into two isosceles triangles. How many centimetres is the perimeter of the quadrilateral?
+> A) 8
+> B) 9
+> C) 10
+> D) 11
+> E) 12
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q05|src_kangourou_2012_student__Q05]]
 
 
 
@@ -230,9 +273,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Central number of a list of sums of subgroups*
+*Consecutive numbers on two dice*
 
-> What's the probability that two dice will result in two consecutive numbers? A) 13/90 B) 17/100 C) 5/18 D) 1/3 E) 1/2 80 70 60 50 40 30 20 10 0 -10 -20 -30 -40 Water level (cm) Time (hours) Water level (cm) Time (hours)
+> What is the probability that, throwing two dice, two consecutive numbers come up?
+> A) 13/90
+> B) 17/100
+> C) 5/18
+> D) 1/3
+> E) 1/2
+> 80 70 60 50 40 30 20 10 0 -10 -20 -30 -40 Water level (cm) Time (hours) Water level (cm) Time (hours) 2 12
+>
+> Page Page 28 28 Kang 2012 Kang 2012
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q06|src_kangourou_2012_student__Q06]]
 
 
 
@@ -260,11 +318,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum positive integer n with n^200 < 5^300 *
+*Greatest positive integer n with n200 < 5300*
 
-> The maximum positive integer n for which n^200 < 5^300 is A) 5. B) 6. C) 8. D) 11. (E) 12.
+> The greatest positive integer n for which  n200 < 5300 is
+> A) 5.
+> B) 6.
+> C) 8.
+> D) 11.
+> (E) 12.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q07|src_kangourou_2012_student__Q07]]
 
 
 
@@ -294,14 +362,19 @@ Maximum positive integer n with n^200 < 5^300 *
 
 *Which function satisfies a given relation*
 
-> Determine which of the following functions satisfies the relation 
-> A)  
-> B)  
-> C)  
-> D)  
+> Determine which of the following functions satisfies the relation
+> A)
+> B)
+> C)
+> D)
 > E)
 
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q08|src_kangourou_2012_student__Q08]]
 
 
 
@@ -331,11 +404,22 @@ Maximum positive integer n with n^200 < 5^300 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Links on real x with x^3<64<x^2*
+*Constraints on a real number x*
 
-> A real number x satisfies the inequalities x^3 < 64 < x^2. Which of the following statements on x is correct? A) 0 < x < 64 B) -8 < x < 4 C) x > 8 D) -4 < x < 8 E) x < -8
+> A real number x satisfies the inequalities  x3 < 64 < x2. Which of the following statements about x is correct?
+> A) 0 < x < 64
+> B) -8 < x < 4
+> C) x > 8
+> D) -4 < x < 8
+> E) x < -8
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q09|src_kangourou_2012_student__Q09]]
 
 
 
@@ -377,7 +461,7 @@ Maximum positive integer n with n^200 < 5^300 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the alpha angle in a regular 5-pointed star*
+*Measure of angle α in a regular five-pointed star*
 
 ![[src_kangourou_2012_student__prob10.png]]
 
@@ -391,9 +475,20 @@ Maximum positive integer n with n^200 < 5^300 *
 \end{document}
 ```
 
-> The five-pointed star in the figure is regular. What is the degree of the angle indicated by α ? A) 24 B) 30 C) 36 D) 45 E) 72 Questions from N. 11 to N. 20 are worth 4 points each.
+> The five-pointed star in the figure is regular. What is the measure in degrees of the angle indicated by α?
+> A) 24
+> B) 30
+> C) 36
+> D) 45
+> E) 72
+> Questions from question 11 to question 20 are worth 4 points each.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q10|src_kangourou_2012_student__Q10]]
 
 
 
@@ -423,9 +518,21 @@ Maximum positive integer n with n^200 < 5^300 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle phi in the regular 5-pointed star*
+*Ages as powers of 5 and 2*
 
-> My age is a two-digit number (in decimal form) that is a power of 5, while the age of a colleague of mine is a two-digit number that is a power of 2. The sum of all the digits of our ages is an odd number. How much is the product of those figures worth? A) 240 B) 2010 C) 60 D) 50 E) 300
+> My age is a two-digit number (in decimal representation) that is a power of 5, while the age of a colleague of mine is a two-digit number that is a power of 2. The sum of all the digits of our ages is an odd number. What is the value of the product of those digits?
+> A) 240
+> B) 2010
+> C) 60
+> D) 50
+> E) 300
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q11|src_kangourou_2012_student__Q11]]
 
 
 
@@ -456,9 +563,21 @@ Maximum positive integer n with n^200 < 5^300 *
 <div class="qlang-split" data-lang="en"></div>
 
 
-True statement for x with x3<64<x2*
+*Four optional visits*
 
-> One group travel agency proposed four optional visits during one trip. Each visit was attended by 80% of the group. What is the minimum percentage of group travellers who must have attended all four visits? A) 80 % B) 60 % C) 40 % D) 20 % E) 16 %
+> A travel agency that organises group trips has proposed, as part of a trip, four optional visits. Each visit was attended by 80% of the group. What is the minimum percentage of travellers in the group who must have taken part in all four visits?
+> A) 80 %
+> B) 60 %
+> C) 40 %
+> D) 20 %
+> E) 16 %
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q12|src_kangourou_2012_student__Q12]]
 
 
 
@@ -493,21 +612,24 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum percentage of the group that took all the trips*
+*Solution set of an inequality*
 
 > The solution set of the inequality   |x| + |x-3| > 3   is
 > A) (-∞, 0) » (3,+∞).
-> B) (-3, 3) . 
+> B) (-3, 3) .
 > C) (-∞, -3).
 > D) (-3, +∞) .
 > E) the set of all real numbers.
 > α
-> 
-> Pag. 
-> Pag. 29
-> 29
-> Kang 2012
-> Kang 2012
+>
+> p. p. 29 29 Kang 2012 Kang 2012
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q13|src_kangourou_2012_student__Q13]]
 
 
 
@@ -538,11 +660,21 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Boys/girls average grade ratio*
+*Ratio of boys to girls from average marks*
 
-> School scores in Slovakia are awarded by five grades, from 1 (best) to 5. One test didn't go well and the average grade was 4. The boys scored slightly higher than the girls, with an average score of 3.6 against 4.2 of the girls. Which of the following statements about that class is correct? A) Boys are twice as many as girls B) Boys are four times as many as girls C) Girls are twice as many as boys D) Girls are four times as many as boys E) Boys are as many as girls
+> School marks in Slovakia are assigned using five grades, from 1 (excellent) to 5. A test did not go well and the average mark of the class was 4. The boys obtained slightly better marks than the girls, with an average mark of 3.6 against 4.2 for the girls. Which of the following statements about that class is correct?
+> A) There are twice as many boys as girls
+> B) The number of boys is four times that of the girls
+> C) There are twice as many girls as boys
+> D) The number of girls is four times that of the boys
+> E) There are as many boys as girls
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q14|src_kangourou_2012_student__Q14]]
 
 
 
@@ -574,13 +706,23 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the union region of three squares and a triangle in a flowerbed*
+*Area of the union of three squares and a triangle in a flower bed*
 
 ![[src_kangourou_2012_student__prob15.png]]
 
-> In a square flowerbed of 16 m on the side is inscribed the region shown in the figure, which is a union of three squares and a right triangle. How much is the area of this region in square meters? A) 114 B) 130 C) 144 D) 160 E) 186
+> In a square flower bed of side 16 m, the region shown in the figure is inscribed; it is the union of three squares and a right-angled triangle. What is the area of this region in square metres?
+> A) 114
+> B) 130
+> C) 144
+> D) 160
+> E) 186
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q15|src_kangourou_2012_student__Q15]]
 
 
 
@@ -609,11 +751,21 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Post sold twice with total number 857*
+*Seat sold twice with number sum 857*
 
-> All seats in the front row of a cinema were sold, numbered consecutively from 1. By mistake, an additional ticket for one of these seats was sold. We know that the sum of the number of seats marked on the tickets sold for the first row is 857: what is the number of the seat for which two tickets were sold? A) 4 B) 16 C) 25 D) 37 E) 42
+> At a cinema show, all the seats in the first row were sold. They are numbered consecutively starting from 1. By mistake an additional ticket was sold for one of those seats. It is known that the sum of the seat numbers marked on the tickets sold for the first row is 857: what is the number of the seat for which two tickets were sold?
+> A) 4
+> B) 16
+> C) 25
+> D) 37
+> E) 42
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q16|src_kangourou_2012_student__Q16]]
 
 
 
@@ -647,13 +799,23 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area pentagon after folding a rectangle*
+*Area of a pentagon after folding a rectangle*
 
 ![[src_kangourou_2012_student__prob17.png]]
 
-> Look at the figure. A rectangle of ABCD paper measuring 4 cm × 16 cm shall be folded over itself along a MN straight line so that the vertex C overlaps with the vertex A. What is the area of the ABNMD' pentagon in square centimetres? A) 17 B) 27 C) 37 D) 47 E) 57
+> Look at the figure. A paper rectangle ABCD measuring 4 cm × 16 cm is folded onto itself along a straight line MN so that vertex C lies on top of vertex A. What is the area, in square centimetres, of the pentagon ABNMD'?
+> A) 17
+> B) 27
+> C) 37
+> D) 47
+> E) 57
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q17|src_kangourou_2012_student__Q17]]
 
 
 
@@ -709,23 +871,39 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of triangle BEG in square with midpoints*
+*Area of triangle BEG in a square with midpoints*
 
-> Square ABCD has sides of length 2. Points E and F are the midpoints of sides AB and AD, respectively. Point G lies on segment CF such that 3CG = 2GF. The area of triangle BEG is
+> A square ABCD has sides of length 2. E and F are the midpoints of sides AB and AD respectively. G is the point on CF such that 3CG=2GF. The area of triangle BEG is
+> A) 7/10.
+> B) 4/5.
+> C) 8/5.
+> D) 3/5.
+> E) 6/5.
+> 16 m 16 m
+> A
+> B
+> C
+> D
+> M N D′
+> D
+> N
+> B
+> A
+> N M
+> D
+> C
+> D
+> C
 >
-> (A) 7/10
-> (B) 4/5
-> (C) 8/5
-> (D) 3/5
-> (E) 6/5
-> 
-> Page
-> Page 30
-> 30
-> Kang 2012
-> Kang 2012
+> p. p. 30 30 Kang 2012 Kang 2012
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q18|src_kangourou_2012_student__Q18]]
 
 
 
@@ -761,9 +939,19 @@ True statement for x with x3<64<x2*
 
 ![[src_kangourou_2012_student__prob19.png]]
 
-> The clock in the figure is rectangular in shape; as usual, the hands move at a constant angular speed. What is the distance between 1 and 2 measured on the dial in centimetres if the distance between 8 and 10 is 12 centimetres? A) 3 B) 2 C) 4 D) 2 + E) 12 - 3
+> The clock in the figure is rectangular in shape; as usual, the hands move at constant angular speed. What is the distance in centimetres between 1 and 2 measured on the face, if the distance between 8 and 10 is 12 cm?
+> A) 3
+> B) 2
+> C) 4
+> D) 2 +
+> E) 12 - 3
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q19|src_kangourou_2012_student__Q19]]
 
 
 
@@ -794,11 +982,23 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of parallel straight intersections with parabola*
+*Sum of the abscissae of the intersections of parallel lines with a parabola*
 
-> At the end of an algebra lesson, the equation parabola y = x2 and 2012 lines parallel to the equation line y = x remain on the board, each of which intersects the parabola in two points. The sum of the abscissas of the intersection points of the lines with the parabola is A) 0. B) 1. C) 1006. D) 2012. E) a different number. The questions from N. 21 to N. 30 are worth 5 points each.
+> At the end of an algebra lesson, left on the blackboard were the parabola with equation y = x2 and 2012 straight lines parallel to the straight line with equation y = x, each of which intersects the parabola in two points. The sum of the abscissae of the points of intersection of the straight lines with the parabola is equal to
+> A) 0.
+> B) 1.
+> C) 1006.
+> D) 2012.
+> E) a different number.
+> Questions from question 21 to question 30 are worth 5 points each
 
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q20|src_kangourou_2012_student__Q20]]
 
 
 
@@ -827,16 +1027,22 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum of a function with absolute values*
+*Smallest value of a function*
 
-> What is the smallest value that the function can take  
+> What is the smallest value that the function can take
 > A) 1
 > B) 1/2
 > C) 1/4
 > D) 1/503
 > E) 1/2012
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Sets and functions]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q21|src_kangourou_2012_student__Q21]]
 
 
 
@@ -881,7 +1087,7 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Comparison of the volumes of the ellipsoids of revolution about the axes*
+*Comparison of volumes of ellipsoids of revolution about the axes*
 
 ![[src_kangourou_2012_student__prob22.png]]
 
@@ -898,16 +1104,19 @@ True statement for x with x3<64<x2*
 \end{document}
 ```
 
-> Let a > b > 0. If the ellipse shown in the figure
-> is rotated around the x-axis, the ellipsoid Ex with volume Vol(Ex) is obtained; if it is rotated around the y-axis, the ellipsoid Ey with volume
-> Vol(Ey) is obtained. Which of the following statements is true?
-> A) Ex = Ey and Vol(Ex) = Vol(Ey)
-> B) Ex = Ey but Vol(Ex) ≠ Vol(Ey)
-> C) Ex ≠ Ey and Vol(Ex) > Vol(Ey)
-> D) Ex ≠ Ey and Vol(Ex) < Vol(Ey)
-> E) Ex ≠ Ey but Vol(Ex) = Vol(Ey)
+> Let a > b > 0.  If the ellipse shown in the figure is rotated about the x-axis, one obtains the ellipsoid  Ex with volume  Vol(Ex), if it is rotated about the y-axis, one obtains the ellipsoid  Ey with volume Vol(Ey). Which of the following statements is true?
+> A) Ex = Ey and  Vol(Ex) = Vol(Ey)
+> B) Ex = Ey but  Vol(Ex) ≠Vol(Ey)
+> C) Ex ≠Ey and  Vol(Ex) > Vol(Ey)
+> D) Ex ≠Ey and  Vol(Ex) < Vol(Ey)
+> E) Ex ≠Ey but  Vol(Ex) = Vol(Ey)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q22|src_kangourou_2012_student__Q22]]
 
 
 
@@ -940,11 +1149,22 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n operations to recover 7/8*
+*Minimum n of operations to obtain 7/8 again*
 
-> It was decided to operate on fractions in only two ways: 1 increase the numerator by 8 and 1 increase the denominator by 7. Starting from fraction 7/8, after having made a total of n of these operations (in an order of choice), the fraction 7/8 was recovered after being reduced to minimum terms. What's the minimum value of n that this could have happened for? A) 56 B) 81 C) 109 D) 113 E) Can not be recovered 7/8
+> It has been decided to operate on fractions in only two ways: 1 increase the numerator by 8; 1 increase the denominator by 7. Starting from the fraction 7/8, after carrying out a total of  n such operations (in an order of one's choice), the fraction 7/8 has been obtained again, after reduction to lowest terms. What is the minimum value of  n for which this could have happened?
+> A) 56
+> B) 81
+> C) 109
+> D) 113
+> E) It is not possible to obtain 7/8 again
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q23|src_kangourou_2012_student__Q23]]
 
 
 
@@ -976,13 +1196,23 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of path of vertex of triangle rotating around square*
+*Length of the path of a triangle vertex rotating around a square*
 
 ![[src_kangourou_2012_student__prob24.png]]
 
-> An equilateral triangle rotates around a square of side 1 starting from the position indicated by the figure and as shown in it. How long is the path taken by the vertex of the triangle that is marked in bold, when both the triangle and the point meet for the first time in the initial position? A) 4π B) 28π/3              C) 8π D)14π/3                E)3π
+> An equilateral triangle rotates around a square of side 1, starting from the position indicated by the figure and as shown in it. How long is the path travelled by the vertex of the triangle that is marked in bold, when both the triangle and the point are back in the initial position for the first time?
+> A) 4π
+> B) 28π/3
+> C) 8π
+> D) 14π/3
+> E) 3π
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q24|src_kangourou_2012_student__Q24]]
 
 
 
@@ -1012,11 +1242,22 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cyclic sum permutations divisible by 3*
+*Permutations with cyclic sum divisible by 3*
 
-> How many permutations (x1, x2, x3, x4) of the set of integers {1, 2, 3, 4} have the property that the sum of x1x2 + x2x3 + x3x4 + x4x1 is divisible by 3? A) 8 B) 12 C) 14 D) 16 E) 24
+> How many permutations  (x1, x2, x3, x4)  of the set of integers {1, 2, 3, 4} have the property that the sum  x1x2 + x2x3 + x3x4 + x4x1 is divisible by 3?
+> A) 8
+> B) 12
+> C) 14
+> D) 16
+> E) 24
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q25|src_kangourou_2012_student__Q25]]
 
 
 
@@ -1047,11 +1288,22 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of zeros in real 50 with 522 negative products*
+*Number of zeros among 50 reals with 522 negative products*
 
-> You have a set of 50 real numbers (not necessarily pairwise distinct). If you multiply two numbers of the set in every possible way (excluding the order of factors), you get exactly 522 times a negative product. How many of those 50 numbers are equal to zero? A) 1 B) 3 C) 7 D) 11 E) 2 or 5
+> You have a set of 50 real numbers (not necessarily pairwise distinct). If you multiply two numbers from the set in every possible way (up to the order of the factors), you obtain a negative product exactly 522 times. How many of those 50 numbers are equal to 0?
+> A) 1
+> B) 3
+> C) 7
+> D) 11
+> E) 2 or 5
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q26|src_kangourou_2012_student__Q26]]
 
 
 
@@ -1089,11 +1341,24 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Center of the data cube three vertices in space*
+*Centre of the cube given three vertices in space*
 
-> In a space with an orthogonal Cartesian reference system Oxyz, three vertices of a cube are the points P (3; 4; 1), Q (5; 2; 9) and R (1; 6; 5). Which of the following points is the center of the cube? A) A ≡(4; 3; 5) B) B ≡(2; 5; 3) C) C ≡(3; 4; 7) D) D ≡(3; 4; 5) E) E ≡(2; 3; 5)
+> In space equipped with an orthogonal Cartesian coordinate system Oxyz, three vertices of a cube are the points  P ≡(3; 4; 1),  Q ≡(5; 2; 9) and R ≡(1; 6; 5). Which of the following points is the centre of the cube?
+> A) A ≡(4; 3; 5)
+> B) B ≡(2; 5; 3)
+> C) C ≡(3; 4; 7)
+> D) D ≡(3; 4; 5)
+> E) E ≡(2; 3; 5)
+>
+> p. p. 32 32 Kang 2012 Kang 2012
 
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q27|src_kangourou_2012_student__Q27]]
 
 
 
@@ -1124,11 +1389,22 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total of first 100 terms of recurring succession*
+*Sum of the first 100 terms of a recursive sequence*
 
-> In the sequence {1, 1, 0, 1, -1, 0, ...} the first two elements a1 and a2 are 1. The third element is the difference of the two preceding ones, a3 = a1 - a2; the fourth element is the sum of the two preceding ones, a4 = a2 + a3 and going on a5 = a3 - a4 , a6 = a4 + a5 and so on. What is the sum of the first 100 elements of the succession? A) 0 B) 3 C) -21 D) 100 E) -1
+> In the sequence  {1, 1, 0, 1, -1, 0, …}  the first two terms a1 and a2 are equal to 1. The third term is the difference of the two preceding ones, a3 = a1 - a2; the fourth term is the sum of the two preceding ones, a4 = a2 + a3 and continuing a5 = a3 - a4 , a6 = a4 + a5 and so on. What is the sum of the first 100 terms of the sequence?
+> A) 0
+> B) 3
+> C) -21
+> D) 100
+> E) -1
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+**Source:** [open PDF p.6](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q28|src_kangourou_2012_student__Q28]]
 
 
 
@@ -1159,18 +1435,22 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of |a-b| with ab equal to the sum of the remaining 24*
+*Value of |a-b|*
 
-> Giovanna randomly draws two numbers a and b from the set {1, 2, 3, …, 26}.
-> The product ab is equal to the sum of the 24 remaining numbers. What is the value
-> of |a - b|?
+> Giovanna randomly draws two numbers  a and  b from the set  {1, 2, 3, …, 26}. The product  ab is equal to the sum of the remaining 24 numbers. What is the value of |a - b|?
 > A) 10
 > B) 9
 > C) 7
 > D) 2
 > E) 6
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.6](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q29|src_kangourou_2012_student__Q29]]
 
 
 
@@ -1207,21 +1487,21 @@ True statement for x with x3<64<x2*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*both crazy pairs*
+*Pairs both mad*
 
-> In Wonderland every cat is either wise or crazy. If a wise
-> cat finds itself in a room together with three crazy cats, it immediately becomes crazy too. If instead a crazy cat finds itself in a room with three wise cats, the wise cats immediately declare it crazy. Three cats enter one after another into an empty room; after
-> a fourth cat has entered, the first cat that had entered leaves; after
-> a fifth cat has entered the second leaves, and so on, so that in the room
-> there are never more than four cats. When the 2012th cat enters, for the
-> first time a cat is declared crazy by the other three. Which of these
-> pairs can consist of cats that, once they have entered the room, both turn out to be crazy?
+> In Wonderland every cat is either wise or mad.  If a wise cat finds itself in a room together with three mad cats, it immediately becomes mad as well. If, instead, a mad cat finds itself in a room with three wise cats, the wise cats immediately declare it mad. Three cats enter an empty room one after another; after a fourth cat has entered, the first cat that had entered leaves; after a fifth cat has entered the second leaves, and so on, so that there are never more than four cats in the room. When the 2012th cat enters, for the first time a cat is declared mad by the other three. Which of these pairs can consist of cats that, once they have entered the room, both turn out to be mad?
 > A) The first and the 2011th
 > B) The second and the 2010th
 > C) The third and the 2009th
 > D) The fourth and the last
 > E) the second and the 2011th
-> 
-> STUDENT ANSWERS 2012
+>
+> ANSWERS STUDENT 2012
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+**Source:** [open PDF p.6](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+[[Quesiti/src_kangourou_2012_student#q30|src_kangourou_2012_student__Q30]]

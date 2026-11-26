@@ -35,13 +35,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Anni le cui ultime due cifre dividono esattamente l'anno: trovare le tre successive dopo il 2025, e contarle tra il 1900 e il 1999.*
+*Anni i cui ultimi due digit dividono l'anno esattamente: trova i prossimi tre dopo il 2025 e contali tra il 1900 e il 1999.*
 
-> Un anno $A$ viene chiamato *inteiro* (intero) quando le sue ultime due cifre non sono entrambe $0$ e il numero formato dalle ultime due cifre di $A$ divide esattamente $A$, cioè dà un risultato intero. Ad esempio, $2025$ e $2002$ sono anni interi, poiché $\frac{2025}{25}=81$ e $\frac{2002}{2}=1001$ sono numeri interi. D'altra parte, $2000$ e $2003$ non sono anni interi, poiché $2000$ termina in $00$ e $\frac{2003}{3}$ non è un numero intero.
-> 
-> (a) Quali sono i prossimi tre anni interi dopo $2025$? Giustifica la tua risposta.
-> 
-> b) Quanti anni interi esistono tra $1900$ e $1999$? Giustifica la tua risposta.
+> Un anno $A$ è detto *inteiro* (intero) quando le sue ultime due cifre non sono entrambe $0$ e il numero formato dalle ultime due cifre di $A$ divide esattamente $A$, cioè dà come risultato un numero intero. Ad esempio, $2025$ e $2002$ sono anni interi, poiché $\frac{2025}{25}=81$ e $\frac{2002}{2}=1001$ sono numeri interi. D'altra parte, $2000$ e $2003$ non sono anni interi, poiché $2000$ termina con $00$ e $\frac{2003}{3}$ non è un numero intero.
+>
+> (a) Quali sono i prossimi tre anni interi successivi a $2025$? Giustifica la tua risposta.
+>
+> (b) Quanti anni interi intercorrono tra $1900$ e $1999$? Motiva la tua risposta.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2025_n1_fx#q01|src_obm_2025_n1_fx__Q01]]
 
 
 
@@ -70,13 +79,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato del lato x con diagonale di 2 cm decomposto in quattro triangoli; quindi area di IJKL quadrilaterale formata da quadrati costruiti all'interno di un ottagono regolare.*
+*Quadrato di lato x con diagonale di 2 cm scomposto in quattro triangoli; poi l'area del quadrilatero IJKL formato dai quadrati costruiti all'interno di un ottagono regolare.*
 
-> (a) La figura seguente mostra un quadrato laterale $x$ con diagonale $2$ cm. Ottieniamo un'equazione per $x$ in due modi: direttamente attraverso l'area del quadrato, o sommando le quattro aree dei triangoli formati dai lati e dai diagonali. Trova questa equazione e calcola il valore di $x$.
-> 
-> b) La figura seguente mostra un ottagono regolare $ABCDEFGH$ di lato $2$ cm. Ogni angolo interno di un ottagono regolare misura $135^\circ$. Nell'interno dell'ottangolo, i quadrati $ABIJ$ e $EFKL$ sono stati costruiti sui lati $AB$ e $EF$, rispettivamente. Qual è la superficie del quadrilaterale $IJKL$?
+> (a) La figura sottostante mostra un quadrato di lato $x$ e con diagonale $2$ cm. Si ottiene un'equazione per $x$ in due modi: direttamente tramite l'area del quadrato, oppure sommando le quattro aree dei triangoli formati dai lati e dalle diagonali. Trovare questa equazione e calcola il valore di $x$.
+>
+> (b) La figura sottostante mostra un ottagono regolare $ABCDEFGH$ di lato $2$ cm. Ciascun angolo interno di un ottagono regolare misura $135^\circ$. All'interno dell'ottagono, sui lati $AB$ e $EF$, rispettivamente, sono stati costruiti i quadrati $ABIJ$ e $EFKL$. Qual è l'area del quadrilatero $IJKL$?
 
 ![[src_obm_2025_n1_fx__q02.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2025_n1_fx#q02|src_obm_2025_n1_fx__Q02]]
 
 
 
@@ -105,13 +123,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Due giocatori intercorso alternatamente i numeri da 1 a 25; si perde se la mossa lascia tre numeri rimanenti con somma divisibile per 3. Analizzare una posizione e decidere chi vince dall'inizio.*
+*Due giocatori cancellano a turno i numeri da 1 a 25; si perde se la propria mossa lascia tre numeri rimanenti la cui somma è divisibile per 3. Analizza una posizione e determina chi vince fin dall'inizio.*
 
-> Ana e Beto decidono di giocare. Inizialmente i numeri $25$, i numeri interi da $1$ a $25$, sono scritti su una lavagna nera. Si suonano alternatamente per eliminare un numero dalla lavagna, con Ana che viene prima. A ogni turno, un giocatore sceglie un numero che non è ancora stato incrociato e lo incrocia. Si dice che una configurazione perda la partita se la somma dei tre numeri rimasti (non incrociati) è divisibile da $3$. Il giocatore che, con la sua mossa, lascia una configurazione che perde il gioco, perde.
-> 
-> (a) Supponiamo che i numeri finora incrociati siano $3$, $2$ e $4$. Ora è il turno di Beto di giocare. Come deve giocare Beto per vincere? Giustifica la tua risposta.
-> 
-> b) Considerando il gioco dal suo stato iniziale, in cui nessun numero è ancora stato eliminato e Ana farà la prima mossa, quale dei giocatori ha una strategia vincente, cioè può giocare in modo da vincere sempre, indipendentemente dalle mosse compiute dall'avversario? Ricordate di spiegare come il giocatore che ha una strategia vincente deve giocare per garantire la vittoria.
+> Ana e Beto decidono di giocare a un gioco. Inizialmente, i numeri $25$, cioè gli interi da $1$ a $25$, vengono scritti sulla lavagna. Giocano a turno cancellando un numero dalla lavagna, con Ana che cancella per prima. A ogni turno, un giocatore sceglie un numero che non è ancora stato cancellato e lo cancella. Si dice che una configurazione faccia perdere la partita se la somma dei tre numeri che rimangono (non cancellati) è divisibile per $3$. Il giocatore che, con la propria mossa, lascia una configurazione che fa perdere la partita, perde.
+>
+> (a) Supponiamo che i numeri cancellati finora siano $3$, $2$ e $4$. Ora è il turno di Beto di giocare. Come deve giocare Beto per vincere? Giustifica la tua risposta.
+>
+> (b) Considerando il gioco a partire dal suo stato iniziale, in cui nessun numero è stato ancora cancellato e Ana farà la prima mossa, quale dei giocatori possiede una strategia vincente, cioè può giocare in modo da vincere sempre, indipendentemente dalle mosse compiute dall'avversario? Ricorda di spiegare come deve giocare il giocatore che possiede una strategia vincente per garantire la vittoria.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2025_n1_fx#q03|src_obm_2025_n1_fx__Q03]]
 
 
 
@@ -142,15 +169,24 @@ Due giocatori intercorso alternatamente i numeri da 1 a 25; si perde se la mossa
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Supersum S(N): somma di tutti i numeri distinti formati dall'ordine delle cifre di N. Trova un multiple di 9 con S(N) un multiple di 9, prova l'implicazione, e trova il più piccolo N con S(N) un multiple di 2025.*
+*Supersum S(N): somma di tutti i numeri distinti formati dalle permutazioni delle cifre di N. Trovare un multiplo di 9 tale che S(N) sia un multiplo di 9, dimostra l'implicazione e trova il più piccolo N per cui S(N) sia un multiplo di 2025.*
 
-> Chiameremo la *supersum* di un intero positivo $N$ la somma di tutti i numeri formati dall'ordine dei numeri di $N$. Indicheremo la supersumma con $S(N)$. Ad esempio, se $N=\overline{AB}$ ha i numeri $A$ e $B$ (con $A\neq 0$), allora la somma di $N$ è $S(N)=AB+BA$; se $N=\overline{ABC}$ ha i numeri $A$, $B$ e $C$ (con $A\neq 0$), allora la somma di $N$ è $S(N)=ABC+ACB+BAC+BCA+CAB+CBA$. Si noti che quando $N$ ha cifre ripetute facciamo possibile tutti gli ordini finché formano numeri distinti. Ad esempio, $100$ ha la supersomma $S(100)=100+010+001=111$ e $111$ ha la supersomma $S(111)=111$. Si noti che possiamo anche considerare $N=010$ con tre cifre significative, ma per $N$ di avere tre cifre significative, $010$ non è consentito; la supersomma è definita per $N$ diversa da zero.
-> 
-> (a) Trovare un numero $N$ multiple di $9$, con supersomma $S(N)$ anche un multiple di $9$.
-> 
-> b) dimostrare che se $N$ è un multiple di $9$, allora $S(N)$ è anche un multiple di $9$.
-> 
-> (c) Qual è il più piccolo intero positivo $N$ tale che $S(N)$ sia un multiple di $2025$?
+> Chiameremo *supersomma* di un numero intero positivo $N$ la somma di tutti i numeri formati dalle permutazioni delle cifre di $N$. Indicheremo la supersomma con $S(N)$. Ad esempio, se $N=\overline{AB}$ ha le cifre $A$ e $B$ (con $A\neq 0$), allora la supersomma di $N$ è $S(N)=AB+BA$; se $N=\overline{ABC}$ ha le cifre $A$, $B$ e $C$ (con $A\neq 0$), allora la supersomma di $N$ è $S(N)=ABC+ACB+BAC+BCA+CAB+CBA$. Si osservi che, quando $N$ ha cifre ripetute, si considerano tutte le permutazioni possibili purché formino numeri distinti. Ad esempio, $100$ ha supersomma $S(100)=100+010+001=111$, e $111$ ha supersomma $S(111)=111$. Si noti che si può considerare anche $N=010$ con tre cifre significative, ma affinché $N$ abbia tre cifre significative, $010$ non è ammesso; la supersomma è definita per $N$ diverso da zero.
+>
+> (a) Trova un numero $N$ multiplo di $9$, tale che la supersomma $S(N)$ sia anch'essa multipla di $9$.
+>
+> (b) Dimostrare che, se $N$ è un multiplo di $9$, allora anche $S(N)$ è un multiplo di $9$.
+>
+> (c) Qual è il più piccolo intero positivo $N$ tale che $S(N)$ sia un multiplo di $2025$?
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2025_n1_fx#q04|src_obm_2025_n1_fx__Q04]]
 
 
 
@@ -188,18 +224,28 @@ Due giocatori intercorso alternatamente i numeri da 1 a 25; si perde se la mossa
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il gioco "arrumadinho" su una tavola 2xn: ogni numero di prima riga deve riemergere in una colonna adiacente di seconda riga, e nessun prefisso sinistro della seconda riga equivale a {1,...,k} tranne k=n. Date un esempio di n=8 e contate le carte 2x2025.*
+*Il gioco dell'arrumadinho su una scacchiera 2xn: ogni numero della prima riga deve riapparire in una colonna adiacente della seconda riga, e nessun prefisso iniziale della seconda riga è uguale a {1,...,k}, tranne quando k=n. Dai un esempio per n=8 e conta le carte 2x2025.*
 
-> Una carta del gioco *arrumadinho* (tidy) è una tabella $2\times n$ che deve soddisfare le seguenti regole:
-> 
-> (I) Ogni numero scritto nella prima riga deve apparire nella seconda riga in una delle due colonne più vicine a quella che occupa nella prima riga. Si noti che lo stesso numero può apparire nella stessa colonna nelle due righe, cioè la colonna può contenere due numeri uguali.
-> 
-> (II) L'insieme di numeri iscritto nelle prime celle consecutive $k$ della seconda riga, contando da sinistra a destra, non è mai uguale all'insieme $\{1,2,3,\ldots,k\}$, tranne per $k=n$.
-> 
-> Ad esempio, nella figura, le tabelle $1$ a $4$ non sono carte: la tabella $1$ non soddisfa la regola (I); la tabella $2$ non soddisfa la regola (II) (nella seconda riga l'insieme dei primi numeri che raggiungono la colonna $4$ è uguale a $\{1,2,3,4\}$); la tabella $3$ non soddisfa la regola (I) (una regola (I) è violata due volte); la tabella $4$ non soddisfa né la regola (I) né la regola (II).
-> 
-> (a) Copia la carta qui sotto sul tuo foglio di soluzione e da un esempio di riempimento in modo che diventi parte del gioco. $$\begin{array}{|c|c|c|c|c|c|c|c|}\hline 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ \hline \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} \\ \hline\end{array}$$
-> 
-> b) Qual è il numero delle carte $2\times 2025$ di questo gioco?
+> Una carta del gioco *arrumadinho* (ordinato) è una $2\times n$ scacchiera che deve soddisfare le seguenti regole:
+>
+> (I) Ciascun numero scritto nella prima riga deve comparire nella seconda riga in una delle due colonne più vicine a quella che occupa nella prima riga. Si noti che lo stesso numero può comparire nella stessa colonna in entrambe le righe, vale a dire che la colonna può contenere due numeri uguali.
+>
+> (II) L'insieme dei numeri scritti nelle prime $k$ celle consecutive della seconda riga, contando da sinistra a destra, non è mai uguale all'insieme $\{1,2,3,\ldots,k\}$, eccetto per $k=n$.
+>
+> Ad esempio, nella figura, i tavolieri $1$-$4$ non sono carte: il tavoliere $1$ non soddisfa la regola (I); il tavoliere $2$ non soddisfa la regola (II) (nella seconda riga, l'insieme dei primi numeri che raggiungono la colonna $4$ è uguale a $\{1,2,3,4\}$); il tavoliere $3$ non soddisfa la regola (I) (una regola (I) viene disattesa due volte); il tavoliere $4$ non soddisfa né la regola (I) né la regola (II).
+>
+> (a) Copia la scheda qui sotto sul tuo foglio delle soluzioni e fornisci un esempio di riempimento affinché esso diventi parte del gioco.
+> $$\begin{array}{|c|c|c|c|c|c|c|c|}\hline 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ \hline \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} \\ \hline\end{array}$$
+>
+> (b) Qual è il numero di $2\times 2025$ carte di questo gioco?
 
 ![[src_obm_2025_n1_fx__q05.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2025_n1_fx#q05|src_obm_2025_n1_fx__Q05]]

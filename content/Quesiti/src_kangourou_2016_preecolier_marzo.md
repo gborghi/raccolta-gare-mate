@@ -37,11 +37,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Letter not in the word KOALA*
+*A letter not present in the word KOALA*
 
 ![[src_kangourou_2016_preecolier_marzo__prob1.png]]
 
-> Only one of the letters written on this tablet is not present in the word KOALA. Which one? (see figure)
+> Only one of the letters written on this small slate is not present in the word KOALA. Which one? (see figure)
 >
 > - **(A)** R
 > - **(B)** L
@@ -49,7 +49,11 @@ level: kangourou
 > - **(D)** N
 > - **(E)** O
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q01|src_kangourou_2016_preecolier_marzo__Q01]]
 
 
 
@@ -78,9 +82,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many chords are drawn in the figure*
+*How many strings are drawn in the figure?*
 
-> In the figure, some chords are drawn. How many? (see figure)
+> Some chords are drawn in the figure. How many? (see figure)
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -88,7 +92,11 @@ level: kangourou
 > - **(D)** 5
 > - **(E)** 6
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q02|src_kangourou_2016_preecolier_marzo__Q02]]
 
 
 
@@ -117,9 +125,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many matches in Michele's house
+*How many matches in Michele's little house?*
 
-> Michele has built a small house with some matches. You can see it in the picture. How many did he use? (see figure)
+> Michele built a little house using some matches: you can see it in the figure. How many did he use? (see figure)
 >
 > - **(A)** 19
 > - **(B)** 18
@@ -127,7 +135,11 @@ How many matches in Michele's house
 > - **(D)** 15
 > - **(E)** 13
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q03|src_kangourou_2016_preecolier_marzo__Q03]]
 
 
 
@@ -156,9 +168,9 @@ How many matches in Michele's house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Within how many months will Sara be two years old*
+*In how many months will Sara turn two?*
 
-> Sara turns one year and three months today. In how many months will she be two?
+> Today, Sara is one year and three months old. In how many months will she turn two?
 >
 > - **(A)** 3
 > - **(B)** 5
@@ -166,7 +178,11 @@ How many matches in Michele's house
 > - **(D)** 8
 > - **(E)** 9
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q04|src_kangourou_2016_preecolier_marzo__Q04]]
 
 
 
@@ -195,9 +211,9 @@ How many matches in Michele's house
 <div class="qlang-split" data-lang="en"></div>
 
 
-What point Gianni can reach in the maze
+*Which point can Gianni reach in the labyrinth?*
 
-> In the figure, you see a maze. Gianni is in O. From there he can only reach one of the points A, B, C, D or E. Which one? (see figure)
+> In the figure, you can see a maze. Gianni is at point O. From there, he can reach only one of the points A, B, C, D, or E. Which one? (see figure)
 >
 > - **(A)** A
 > - **(B)** B
@@ -205,7 +221,11 @@ What point Gianni can reach in the maze
 > - **(D)** D
 > - **(E)** E
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q05|src_kangourou_2016_preecolier_marzo__Q05]]
 
 
 
@@ -234,9 +254,9 @@ What point Gianni can reach in the maze
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many children are in the garden, ten companions, including 5 girls*
+*So many children in the garden—ten peers, including 5 girls*
 
-> Only ten of James' schoolmates attend the garden party for his birthday. Five of them are girls. How many kids are in the yard?
+> Only ten of Giacomo's schoolmates attend the garden party organized for his birthday. Five of them are girls. How many boys are in the garden?
 >
 > - **(A)** 4
 > - **(B)** 5
@@ -244,7 +264,11 @@ What point Gianni can reach in the maze
 > - **(D)** 7
 > - **(E)** 8
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q06|src_kangourou_2016_preecolier_marzo__Q06]]
 
 
 
@@ -273,9 +297,9 @@ What point Gianni can reach in the maze
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many houses number 25 to 57 including*
+*How many houses from number 25 to 57 inclusive?*
 
-> On Via Lunga the houses are numbered: 1, 2, 3, and so on. The postman must deliver at least one letter to each house from number 25 to number 57, including. How many houses do you have to visit?
+> On Via Lunga, the houses are numbered: 1, 2, 3, and so on. The postman must deliver at least one letter to each house from number 25 to number 57 inclusive. How many houses must he visit?
 >
 > - **(A)** 31
 > - **(B)** 32
@@ -283,7 +307,11 @@ What point Gianni can reach in the maze
 > - **(D)** 34
 > - **(E)** 35
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q07|src_kangourou_2016_preecolier_marzo__Q07]]
 
 
 
@@ -312,9 +340,9 @@ What point Gianni can reach in the maze
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which construction is obtained with 10 cubes*
+*Which structure is obtained with 10 cubes?*
 
-> Only one of these constructions is obtained by putting together 10 cubes. Which one? (see figure)
+> Only one of these structures is formed by joining 10 cubes together. Which one? (see figure)
 >
 > - **(A)** A
 > - **(B)** B
@@ -322,7 +350,11 @@ What point Gianni can reach in the maze
 > - **(D)** D
 > - **(E)** E
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q08|src_kangourou_2016_preecolier_marzo__Q08]]
 
 
 
@@ -351,9 +383,9 @@ What point Gianni can reach in the maze
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Group of stones on the step indicated*
+*Group of small stones on the indicated step*
 
-> Sofia wants to put some stones on every step of the ladder. The stones can be white or black. The figure shows you how she arranged the stones on the first five steps. Which group of stones will she put on the step indicated by the question mark? (see figure)
+> Sofia wants to place some small stones on each step of a staircase. The stones can be white or black. The figure shows the criterion by which she arranged the stones on the first five steps. Which group of stones will she place on the step indicated by the question mark? (see figure)
 >
 > - **(A)** A
 > - **(B)** B
@@ -361,7 +393,11 @@ What point Gianni can reach in the maze
 > - **(D)** D
 > - **(E)** E
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q09|src_kangourou_2016_preecolier_marzo__Q09]]
 
 
 
@@ -391,9 +427,9 @@ What point Gianni can reach in the maze
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum white non-contact eggs in the box*
+*Maximum: white eggs, not in contact, in the box*
 
-> Lisa has some chickens that have made white eggs and brown eggs. She put six eggs in the egg-carrying box you see in the picture so that two white eggs never come into contact with each other. How many white eggs could she have put at most in the box? (see figure)
+> Lisa has some hens that have laid white eggs and brown eggs. She put six eggs in the egg carton shown in the figure so that no two white eggs ever come into contact with each other. What is the maximum number of white eggs she could have put in the carton? (see figure)
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -401,7 +437,12 @@ What point Gianni can reach in the maze
 > - **(D)** 4
 > - **(E)** 5
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q10|src_kangourou_2016_preecolier_marzo__Q10]]
 
 
 
@@ -430,9 +471,9 @@ What point Gianni can reach in the maze
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum number of doors from A to B in the doll house
+*Minimum number of doors from A to B in the dollhouse*
 
-> The figure represents a doll house seen from above (after removing the roof) with rooms and doors opening in each room: you can go from each room to any other room. The doll Emma has to go from room A to room B. What's the smallest number of doors she'll have to go through? (see figure)
+> The figure shows a dollhouse viewed from above (after the roof has been removed), with rooms and doors that open into each room: it is possible to move from any room to any other room. The doll Emma must go from the room marked A to the room marked B: what is the smallest number of doors she will need to pass through? (see figure)
 >
 > - **(A)** 3
 > - **(B)** 4
@@ -440,7 +481,11 @@ Minimum number of doors from A to B in the doll house
 > - **(D)** 6
 > - **(E)** 7
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q11|src_kangourou_2016_preecolier_marzo__Q11]]
 
 
 
@@ -469,9 +514,9 @@ Minimum number of doors from A to B in the doll house
 <div class="qlang-split" data-lang="en"></div>
 
 
-The number of rooms where the light was off, 18 windows lit.
+*In how many rooms was the light off—18 windows were lit*
 
-> On one floor of a building there are twelve rooms: each room has two windows and a lamp. Last night, all the shutters were up and eighteen windows were lit. How many rooms on that floor had the lights off?
+> On one floor of a building, there are twelve rooms: each room has two windows and one chandelier. Last night, all the roller blinds were raised, and eighteen windows appeared lit. In how many rooms on that floor was the light off?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -479,7 +524,11 @@ The number of rooms where the light was off, 18 windows lit.
 > - **(D)** 5
 > - **(E)** 6
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q12|src_kangourou_2016_preecolier_marzo__Q12]]
 
 
 
@@ -508,9 +557,9 @@ The number of rooms where the light was off, 18 windows lit.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs with a difference of less than 15 between 7,13,20,30*
+*Pairs with a difference of less than 15 among 7, 13, 20, 30*
 
-> Angela wants to choose two of the numbers 7, 13, 20, and 30 so that the difference between the largest and smallest of the ones she's chosen is less than 15. How many different pairs of numbers can she choose?
+> Angela wants to choose two numbers from among 7, 13, 20, and 30 such that the difference between the largest and the smallest of the numbers she has chosen is less than 15. How many different pairs of numbers can she choose?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -518,7 +567,11 @@ The number of rooms where the light was off, 18 windows lit.
 > - **(D)** 5
 > - **(E)** 6
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q13|src_kangourou_2016_preecolier_marzo__Q13]]
 
 
 
@@ -547,9 +600,9 @@ The number of rooms where the light was off, 18 windows lit.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Word read by Maria along the path*
+*A word read by Mary along the way*
 
-> The figure shows you the diagram of the path that Maria follows to go from point 1 to point 2. If, while walking, Maria sees only the letters that appear on her right, which word will she have read when she arrives? (see figure)
+> The figure shows you the diagram of the route Maria takes to go from point 1 to point 2. If, while walking, Maria sees only the letters that appear to her right, what word will she have read by the time she arrives? (see figure)
 >
 > - **(A)** KNAO
 > - **(B)** KNGO
@@ -557,7 +610,11 @@ The number of rooms where the light was off, 18 windows lit.
 > - **(D)** AGRO
 > - **(E)** KAO
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q14|src_kangourou_2016_preecolier_marzo__Q14]]
 
 
 
@@ -586,9 +643,9 @@ The number of rooms where the light was off, 18 windows lit.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Sum of Gino and Gina's age in four years
+*Somma and Gino and Gina in four years*
 
-> Adding up Gino and Gina's ages today makes them twelve. What will be the sum of their ages in four years?
+> If you add up Gino's and Gina's ages today, you get twelve years. What will the sum of their ages be in four years?
 >
 > - **(A)** 16
 > - **(B)** 17
@@ -596,7 +653,11 @@ Sum of Gino and Gina's age in four years
 > - **(D)** 19
 > - **(E)** 20
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q15|src_kangourou_2016_preecolier_marzo__Q15]]
 
 
 
@@ -625,9 +686,9 @@ Sum of Gino and Gina's age in four years
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of the five watches is broken*
+*Which of the five clocks is broken?*
 
-> One of the five watches you see is broken. Which one? (see figure)
+> One of the five clocks you see is broken. Which one? (see figure)
 >
 > - **(A)** A
 > - **(B)** B
@@ -635,7 +696,11 @@ Sum of Gino and Gina's age in four years
 > - **(D)** D
 > - **(E)** E
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q16|src_kangourou_2016_preecolier_marzo__Q16]]
 
 
 
@@ -664,9 +729,9 @@ Sum of Gino and Gina's age in four years
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Composition not obtainable with Luisa's tiles*
+*Composition unattainable with Luisa's dowels*
 
-> Luisa has some tiles like the one shown in the figure. She can rotate them, but not break or overlap them. If she places them side by side according to these rules, she can obtain four of the five compositions below. Which of them can she not obtain? (see figure)
+> Luisa has some blocks like the one shown in the figure. She can rotate them, but not break them or overlap them. If she brings them together according to these rules, she can obtain four of the five arrangements below. Which one of them cannot she obtain? (see figure)
 >
 > - **(A)** A
 > - **(B)** B
@@ -674,7 +739,11 @@ Sum of Gino and Gina's age in four years
 > - **(D)** D
 > - **(E)** E
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q17|src_kangourou_2016_preecolier_marzo__Q17]]
 
 
 
@@ -703,9 +772,9 @@ Sum of Gino and Gina's age in four years
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which central brick has been removed*
+*Which central tile was removed?*
 
-> On a composition of seven bricks lines were drawn, then the central one was removed. Which of the following bricks was removed? (see figure)
+> On an arrangement made up of seven tiles, lines were drawn, and then the central tile was removed. Which of the following tiles was removed? (see figure)
 >
 > - **(A)** A
 > - **(B)** B
@@ -713,7 +782,11 @@ Sum of Gino and Gina's age in four years
 > - **(D)** D
 > - **(E)** E
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q18|src_kangourou_2016_preecolier_marzo__Q18]]
 
 
 
@@ -742,9 +815,9 @@ Sum of Gino and Gina's age in four years
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squares to be added for the smallest square*
+*Squares to add for the smallest square*
 
-> Aldo's got a lot of squares all the same. By placing six of them side by side, he built the tile you see in the figure. How many squares do you have to add if you want to complete the tile so you get the smallest possible square? (see figure)
+> Aldo has many small squares, all of which are identical. By putting six of them together, he has made the tile you see in the figure. How many small squares does he need to add if he wants to complete the tile so as to obtain the smallest possible square? (see figure)
 >
 > - **(A)** 6
 > - **(B)** 8
@@ -752,7 +825,11 @@ Sum of Gino and Gina's age in four years
 > - **(D)** 10
 > - **(E)** 12
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q19|src_kangourou_2016_preecolier_marzo__Q19]]
 
 
 
@@ -782,9 +859,9 @@ Sum of Gino and Gina's age in four years
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many chirps in total among five sparrows*
+*What's the total number of chirps among five sparrows?*
 
-> In the figure you see five sparrows perched on a wire: some look to the right, others to the left. Each sparrow chirps once toward every other sparrow that is on the side where it is looking: for example the second sparrow chirps only once. How many chirps can be heard in total? (see figure)
+> In the figure, you can see five sparrows perched on a wire: some are looking to the right, others to the left. Each sparrow chirps once toward every other sparrow that is on the side it is looking toward: for example, the second sparrow chirps only once. How many chirps can be heard in total? (see figure)
 >
 > - **(A)** 6
 > - **(B)** 12
@@ -792,7 +869,12 @@ Sum of Gino and Gina's age in four years
 > - **(D)** 10
 > - **(E)** 12
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q20|src_kangourou_2016_preecolier_marzo__Q20]]
 
 
 
@@ -821,9 +903,9 @@ Sum of Gino and Gina's age in four years
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flower on which no ladybird lands*
+*A flower on which no ladybird lands*
 
-> In the figure you see four ladybirds: for each of them the number of spots on the right wing is different from that on the left wing. Each of them will land on a flower that has as many leaves as the difference between the numbers of spots on its wings and has as many petals as the sum of these two numbers. On which of the flowers that you see in the figure will no ladybird land? (see figure)
+> In the figure, you can see four ladybugs: for each one, the number of spots on the right wing is different from the number on the left wing. Each of them will land on a flower that has as many leaves as the difference between the numbers of spots on its wings and as many petals as the sum of these two numbers. On which of the flowers shown in the figure will no ladybug land? (see figure)
 >
 > - **(A)** A
 > - **(B)** B
@@ -831,7 +913,11 @@ Sum of Gino and Gina's age in four years
 > - **(D)** D
 > - **(E)** E
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q21|src_kangourou_2016_preecolier_marzo__Q21]]
 
 
 
@@ -860,9 +946,9 @@ Sum of Gino and Gina's age in four years
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Design obtained by overlapping colored cardboard*
+*A design that can be obtained by overlaying colored cardboard pieces*
 
-> Gloria has the five colored (non-transparent) cards you see in the picture. Which of the five drawings shown below can be obtained by overlapping the cardboard, perhaps in whole or in part, but without cutting it? (see figure)
+> Gloria has the five colored (non-transparent) cardboard pieces shown in the figure. Which of the five drawings shown below can she obtain, possibly by overlapping the pieces in whole or in part but without cutting them? (see figure)
 >
 > - **(A)** A
 > - **(B)** B
@@ -870,7 +956,11 @@ Sum of Gino and Gina's age in four years
 > - **(D)** D
 > - **(E)** E
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q22|src_kangourou_2016_preecolier_marzo__Q22]]
 
 
 
@@ -899,9 +989,9 @@ Sum of Gino and Gina's age in four years
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Symbol on the face opposite the one with the given symbol*
+*Symbol on the face opposite to the one bearing the given symbol*
 
-> On each of the six faces of a cube there is one (and only one) of these $\blacklozenge$ $\blacktriangledown$ $\bullet$ $\bigstar$ $\blacksquare$ $\bigstar$ symbols and there are no two faces on which there is the same symbol. The two figures show you the cube seen from two different points of view. Which of the following is the symbol on the face opposite to the one on which the $\bigstar$ symbol is located? (see figure)
+> On each of the six faces of a cube, there is one (and only one) of these symbols $\blacklozenge$ $\blacktriangledown$ $\bullet$ $\bigstar$ $\blacksquare$ $\bigstar$, and no two faces have the same symbol. The two figures show you the cube viewed from two different perspectives. Which of the following is the symbol on the face opposite the face that bears the symbol $\bigstar$? (see figure)
 >
 > - **(A)** $\blacktriangledown$
 > - **(B)** $\blacklozenge$
@@ -909,7 +999,11 @@ Sum of Gino and Gina's age in four years
 > - **(D)** $\bigstar$
 > - **(E)** $\blacksquare$
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q23|src_kangourou_2016_preecolier_marzo__Q23]]
 
 
 
@@ -939,9 +1033,9 @@ Sum of Gino and Gina's age in four years
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum boxes with equal sum, data numbers*
+*Maximum boxes with equal sums, given numbers*
 
-> Silvia wrote each of the numbers 1, 5, 8, 9, 10, 12, and 15 on a slip of paper (a slip for each number). She then put the slips in some boxes (at least one per box): the sum of the numbers written on the sheets contained in the individual boxes is the same for all boxes. How many can the boxes be, at most?
+> Silvia wrote each of the numbers 1, 5, 8, 9, 10, 12, and 15 on a separate slip of paper (one slip for each number). She then put the slips into some boxes (at least one slip per box): the sum of the numbers written on the slips in each individual box is the same for all the boxes. What is the maximum possible number of boxes?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -949,4 +1043,9 @@ Sum of Gino and Gina's age in four years
 > - **(D)** 4
 > - **(E)** 5
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_preecolier_marzo#q24|src_kangourou_2016_preecolier_marzo__Q24]]

@@ -35,15 +35,22 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca f(3) per la funzione differenziabile che soddisfa la condizione di punto medio tangente*
+*Trovare f(3) per una funzione derivabile che soddisfa la condizione del punto medio della tangente*
 
 > La funzione differenziabile $f:\mathbb{R}\to\mathbb{R}$ ha le seguenti proprietà:
-> 
+>
 > a) $f(0)=0$ e $f(2)=2$.
-> 
-> b) Per ogni $a\in\mathbb{R}\setminus\{0\}$, la linea tangente al grafico di $f$ al punto $P=(a,f(a))$ taglia l'asse $x$ a un punto $A$ e l'asse $y$ a un punto $B$ in modo tale che $A$ sia il punto medio del segmento $BP$.
-> 
-> Calcolare $f(3)$.
+>
+> b) Per ogni $a\in\mathbb{R}\setminus\{0\}$, la retta tangente al grafico di $f$ nel punto $P=(a,f(a))$ interseca l'asse $x$ nel punto $A$ e l'asse $y$ nel punto $B$, in modo che $A$ sia il punto medio del segmento $BP$.
+>
+> Calcola $f(3)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_nu_f2#q01|src_obm_2004_nu_f2__Q01]]
 
 
 
@@ -72,15 +79,22 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che nessun sottoinsieme di R^2 ha colonne finite e righe contabili*
+*Dimostrare che nessun sottoinsieme di R^2 ha colonne finite e righe numerabili*
 
-> Provare che non esiste un insieme $A\subseteq\mathbb{R}^2$ che:
-> 
+> Dimostrare che non esiste alcun insieme $A\subseteq\mathbb{R}^2$ tale che:
+>
 > - Per ogni $x\in\mathbb{R}$, l'insieme $\{y\in\mathbb{R}:(x,y)\in A\}$ è finito.
-> 
-> - Per ogni $y\in\mathbb{R}$, l'insieme $\{x\in\mathbb{R}:(x,y)\in A\}$ è contabile (numeroso).
-> 
-> *Rimarca: * Un insieme $E$ si chiama *numerable* se $E=\emptyset$ o se esiste una funzione surgettiva $f:\mathbb{N}\to E$.
+>
+> - Per ogni $y\in\mathbb{R}$, l'insieme $\{x\in\mathbb{R}:(x,y)\in A\}$ è numerabile (enumerabile).
+>
+> *Osservazione:* Un insieme $E$ è detto *enumerabile* se $E=\emptyset$ oppure esiste una funzione suriettiva $f:\mathbb{N}\to E$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_nu_f2#q02|src_obm_2004_nu_f2__Q02]]
 
 
 
@@ -106,11 +120,19 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Demonstra la disuguaglianza sub-multiplicativa per la norma di matrice e il fattore di dilatazione*
+*Dimostrazione della disuguaglianza submoltiplicativa per la norma matriciale e il fattore di dilatazione*
 
-> Che $A$ sia una matrice invertibile reale dell'ordine $n$ e $A^t$ la sua trasposizione. $\lambda_1\ge\lambda_2\ge\cdots\ge\lambda_n>0$ siano i valori propri di $A^tA$. Definire la norma ** di $A$ con $\|A\|=\sqrt{\lambda_1}$ e il fattore di dilatazione ** di $A$ con $d(A)=\sqrt{\dfrac{\lambda_1}{\lambda_n}}$.
-> 
-> Prova che, per due matrici invertibili reali $A$ e $B$, $$d(AB)\le\frac{\|AB\|}{\|A\|\cdot\|B\|}\,d(A)\cdot d(B).$$
+> Sia $A$ una matrice reale invertibile di ordine $n$ e sia $A^t$ la sua trasposta. Siano $\lambda_1\ge\lambda_2\ge\cdots\ge\lambda_n>0$ gli autovalori di $A^tA$. Si definisca la *norma* di $A$ mediante $\|A\|=\sqrt{\lambda_1}$ e il *fattore di dilatazione* di $A$ mediante $d(A)=\sqrt{\dfrac{\lambda_1}{\lambda_n}}$.
+>
+> Dimostrare che, per qualsiasi coppia di matrici reali invertibili $A$ e $B$,
+> $$d(AB)\le\frac{\|AB\|}{\|A\|\cdot\|B\|}\,d(A)\cdot d(B).$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_nu_f2#q03|src_obm_2004_nu_f2__Q03]]
 
 
 
@@ -136,11 +158,19 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Construire un polinomio intero che scompare a P_j ma non è divisibile da p a Q*
+*Costruire un polinomio intero che si annulla in P_j ma non è divisibile per p in Q*
 
-> Let $\mathbb{Z}^k=\{(x_1,x_2,\ldots,x_k):x_1,x_2,\ldots,x_k\in\mathbb{Z}\}$. Che $p$ sia un primo, $k$ un intero positivo, e $P_1,P_2,\ldots,P_n, Q\in\mathbb{Z}^k$ tale che per tutti $j$, $1\le j\le k$, $$\frac{P_j-Q}{p}\in\mathbb{Z}^k.$$
-> 
-> Prova che esiste un polinomio $f(x_1,\ldots,x_k)$ con coefficienti interi come $f(P_j)=0$ per tutti $j$, $1\le j\le k$ e $\dfrac{f(Q)}{p}\notin\mathbb{Z}$.
+> Sia $\mathbb{Z}^k=\{(x_1,x_2,\ldots,x_k):x_1,x_2,\ldots,x_k\in\mathbb{Z}\}$. Sia $p$ un numero primo, $k$ un intero positivo, e $P_1,P_2,\ldots,P_n, Q\in\mathbb{Z}^k$ tale che, per tutti gli $j$, $1\le j\le k$,
+> $$\frac{P_j-Q}{p}\in\mathbb{Z}^k.$$
+>
+> Dimostrare che esiste un polinomio $f(x_1,\ldots,x_k)$ a coefficienti interi tale che $f(P_j)=0$ per tutti gli $j$, $1\le j\le k$ e $\dfrac{f(Q)}{p}\notin\mathbb{Z}$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_nu_f2#q04|src_obm_2004_nu_f2__Q04]]
 
 
 
@@ -167,13 +197,20 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Limite di calcolo del rapporto di posizioni vincenti in gioco di divisione a pavimento*
+*Calcola il limite del rapporto tra le posizioni vincenti nel gioco della divisione per floor*
 
-> $m\ge 2$ sia un numero intero. Arnaldo e Bernaldo giocano la seguente partita: ogni giocatore, a turno, riceve un intero positivo $N_i$ e passa all'altro giocatore o $N_{i+1}=N_i-1$ o $N_{i+1}=\left\lfloor N_i/m\right\rfloor$. Chi riceve un numero intero positivo $N_0$ e passa lo zero vince la partita.
-> 
-> Lasciate che $A_m$ (resp. $B_m$) è l'insieme dei valori di $N_0$, $N_0<n$, per il quale Arnaldo (resp. Bernaldo) ha una strategia vincente.
-> 
-> Calcolare $\displaystyle\lim_{n\to\infty}\frac{|A_m|}{|B_m|}$ come funzione di $m$.
+> Sia $m\ge 2$ un numero intero. Arnaldo e Bernaldo giocano al seguente gioco: ciascun giocatore, a turno, riceve un numero intero positivo $N_i$ e passa all'altro giocatore oppure $N_{i+1}=N_i-1$ oppure $N_{i+1}=\left\lfloor N_i/m\right\rfloor$. Vince il gioco chi riceve un numero intero positivo $N_0$ e passa zero.
+>
+> Sia $A_m$ (rispettivamente $B_m$) l'insieme dei valori di $N_0$, $N_0<n$ per i quali Arnaldo (rispettivamente Bernaldo) possiede una strategia vincente.
+>
+> Calcola $\displaystyle\lim_{n\to\infty}\frac{|A_m|}{|B_m|}$ in funzione di $m$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_nu_f2#q05|src_obm_2004_nu_f2__Q05]]
 
 
 
@@ -200,8 +237,17 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza di accordi per una curva chiusa semplice a velocità unità*
+*Dimostrare la disuguaglianza delle corde per una curva chiusa semplice a velocità unitaria*
 
-> Che $\gamma:[0,2\pi]\to\mathbb{R}^2$ sia una funzione differenziabile con derivata continua, $|\gamma'(t)|=1$ per tutte le $t$, la cui immagine è una curva chiusa semplice; cioè, $$\gamma(t_1)=\gamma(t_2),\quad t_1<t_2\implies t_1=0,\;t_2=2\pi.$$
-> 
-> Prove che esiste $0\le t_0<t_1<2\pi$ tale che $$|\gamma(t_1)-\gamma(t_0)|\le\frac{1}{\pi}\min\{t_1-t_0,\,2\pi+t_0-t_1\}.$$
+> Sia $\gamma:[0,2\pi]\to\mathbb{R}^2$ una funzione derivabile con derivata continua, $|\gamma'(t)|=1$ per ogni $t$, il cui immagine è una curva chiusa semplice; cioè,
+> $$\gamma(t_1)=\gamma(t_2),\quad t_1<t_2\implies t_1=0,\;t_2=2\pi.$$
+>
+> Dimostrare che esistono $0\le t_0<t_1<2\pi$ tali che
+> $$|\gamma(t_1)-\gamma(t_0)|\le\frac{1}{\pi}\min\{t_1-t_0,\,2\pi+t_0-t_1\}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_nu_f2#q06|src_obm_2004_nu_f2__Q06]]

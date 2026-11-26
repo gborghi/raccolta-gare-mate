@@ -37,13 +37,19 @@ level: biennio
 
 *Grams of white for the same colour (proportion)*
 
-> To paint her bedroom, Maria created an ink by mixing 1896 grams of yellow paint and 120 grams of white. Her cousin Julius wants to paint it the same color. With how many grams of white will you have to mix 2,212 grams of yellow paint to get the same color?
+> To paint her bedroom, Maria created a tint by mixing 1896 grams of yellow paint and 120 grams of
+> white. Her cousin Giulio wants to paint it the same colour. With how many grams of white should he mix 2212
+> grams of yellow paint to obtain the same colour?
 >
 > - **(A)** 133
 > - **(B)** 140
 > - **(C)** 144
 > - **(D)** 147
 > - **(E)** 146
+
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q01|src_archimede_2020_riserva_biennio__Q01]]
 
 
 
@@ -74,15 +80,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to buy two different types of garments*
+*Ways of buying two items of different types*
 
-> Andrea's trying on clothes in a store. He's undecided between four shirts, five sweaters, four sweaters and three pants. In order not to spend too much, you will buy two different types of clothes (not two shirts or two pants, etc.). How many ways will Andrea be able to make her purchases?
+> Andrea is trying on clothes in a shop. He is undecided between 4 shirts, 5 jumpers, 4 sweatshirts and 3 trousers. To avoid spending too much, he will buy exactly two items, of different types (that is, not two shirts or two trousers, etc.). In how many ways can Andrea make his purchases?
 >
 > - **(A)** 95
 > - **(B)** 119
 > - **(C)** 117
 > - **(D)** 127
 > - **(E)** 126
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q02|src_archimede_2020_riserva_biennio__Q02]]
 
 
 
@@ -112,15 +124,22 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of payment of €141 with 5 banknotes and 1 coins*
+*Ways to pay 141 euros with 5-euro notes and 1-euro coins*
 
-> Martina buys books, which cost a total of 141 euros. He has 30 five-euro notes and 160 one-euro coins in his pocket. How many different ways will Martina be able to pay for the books precisely (without receiving any balance)?
+> Martina buys some books, which cost 141 euros in total. She has 30 five-euro notes and 160 one-euro coins in her pocket.
+> In how many different ways can Martina pay for the books exactly (without receiving any change)?
 >
 > - **(A)** 28
 > - **(B)** 27
 > - **(C)** 26
 > - **(D)** 29
 > - **(E)** 25
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q03|src_archimede_2020_riserva_biennio__Q03]]
 
 
 
@@ -147,15 +166,19 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multipleths of 79 between 15000 and 36000*
+*How many multiples of 79 are between 15000 and 36000*
 
-> How many times 79 is between 15,000 and 36,000?
+> How many multiples of 79 are included between 15000 and 36000?
 >
 > - **(A)** 270
 > - **(B)** 279
 > - **(C)** 261
 > - **(D)** 266
 > - **(E)** 268
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q04|src_archimede_2020_riserva_biennio__Q04]]
 
 
 
@@ -185,15 +208,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle width between height and width from a vertex*
+*Angle between the altitude and the angle bisector from a vertex*
 
-> The angles of the DEF triangle have amplitudes: bD = 71°, bE = 56°, bF = 53°. From the E summit, the EH height and the EB biset are traced. What is the width of the angle \ BEH?
+> The angles of triangle DEF have measures: bD = 71°, bE = 56°, bF = 53°. From vertex E, the altitude EH and the angle bisector EB are drawn. What is the measure of angle \
+> BEH?
 >
 > - **(A)** 7°
 > - **(B)** 5°
 > - **(C)** 9°
 > - **(D)** 6°
 > - **(E)** 8°
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q05|src_archimede_2020_riserva_biennio__Q05]]
 
 
 
@@ -222,15 +251,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers equal to three distinct digits containing 4 and 5*
+*Even three-digit numbers with distinct digits containing 4 and 5*
 
-> How many numbers are equal to three digits all different from each other, where are both the number 4 and the number 5 present?
+> How many even three-digit numbers have all digits distinct and contain both the digit 4 and the digit 5?
 >
 > - **(A)** 22
 > - **(B)** 23
 > - **(C)** 20
 > - **(D)** 34
 > - **(E)** 32
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q06|src_archimede_2020_riserva_biennio__Q06]]
 
 
 
@@ -261,15 +296,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trilateral area of EMDN trisection and midpoints*
+*Area of quadrilateral EMDN from a trisection and the midpoints*
 
-> The area of an ABC triangle is 648 m2. Taking an F-point on the AB side, whether D or E she points divide the CF segment into three equal parts CD = DE = EF. If M and N are the midpoints of the AC and BC sides, how many m2 does the area of the EMDN quadrilateral measure?
+> The area of a triangle ABC is 648 m². Take a point F on side AB, and let D and E be the points that divide the segment CF into three equal parts, CD = DE = EF. If M and N are the midpoints of sides AC and BC, how many m² is the area of quadrilateral EMDN?
 >
-> - **(A)** the data provided are insufficient
+> - **(A)** the data given are not sufficient
 > - **(B)** 162
 > - **(C)** 96
 > - **(D)** 108
 > - **(E)** 72
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q07|src_archimede_2020_riserva_biennio__Q07]]
 
 
 
@@ -299,15 +340,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unlimited regions by extending the 18 sides of a polygon*
+*Unbounded regions obtained by extending the 18 sides of a polygon*
 
-> In a convex polygon, all 18 of its sides extend indefinitely in both directions, dividing the plane into various regions. How many of these regions are unlimited?
+> Given a convex polygon, all 18 of its sides are extended indefinitely in both directions, dividing the plane into various regions. How many of these regions are unbounded?
 >
 > - **(A)** 18
 > - **(B)** 48
 > - **(C)** 24
 > - **(D)** 27
 > - **(E)** 36
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q08|src_archimede_2020_riserva_biennio__Q08]]
 
 
 
@@ -339,15 +386,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of knights at tables bounded by neighbours
+*Maximum number of knights at tables with a constraint on neighbours*
 
-> On an island there are two categories of people: the knights (who always tell the truth) and the crooks (who always tell the lies). At a banquet, there are 10 tables with 3 people seated, 7 tables with 4 people, 8 tables with 5 people and 13 tables with 6 (all round tables). Each of them says: neither of the two people next to me is in my same category. How many knights may be present at the banquet at most?
+> On an island live two categories of people: knights (who always tell the truth) and liars (who always lie). At a banquet, there are 10 tables with 3 people seated, 7 tables with 4 people, 8 tables with 5 people and 13 tables with 6 (all circular tables). Each of those present says: “neither of the two people next to me is of my own category”. What is the maximum number of knights present at the banquet?
 >
 > - **(A)** 47
 > - **(B)** 0
 > - **(C)** 41
 > - **(D)** 51
 > - **(E)** 39
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q09|src_archimede_2020_riserva_biennio__Q09]]
 
 
 
@@ -376,15 +429,20 @@ Maximum number of knights at tables bounded by neighbours
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seconds to fill the tank with two faucets together*
+*Seconds to fill a tank with two taps together*
 
-> In a fountain tank there are two different faucets, A and B, connected by independent pipes. It takes six minutes to fill the tub, leaving everything open. Opening the B tap, which brought in the minor, takes nine minutes. In how many seconds do you fill the tub and leave both taps open simultaneously?
+> In the tank of a fountain there are two different taps, A and B, connected to independent pipes. With everything open, tap A takes 6 minutes to fill the tank. Opening tap B, which has a lower flow rate, takes 9 minutes instead. In how many seconds does the tank fill with both taps left open simultaneously?
 >
 > - **(A)** 252
 > - **(B)** 288
 > - **(C)** 175
 > - **(D)** 216
 > - **(E)** 273
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q10|src_archimede_2020_riserva_biennio__Q10]]
 
 
 
@@ -412,15 +470,19 @@ Maximum number of knights at tables bounded by neighbours
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Box volume from three facial areas*
+*Volume of a box from three face areas*
 
-> A box has six rectangular faces, three of which have areas, respectively, 8 dm2, 40 dm2, 20 dm2. How many dm3 does the volume of the box measure?
+> A box has six rectangular faces, three of which have areas, respectively, 8 dm2, 40 dm2, 20 dm2. How many dm3 is the volume of the box?
 >
 > - **(A)** 40
 > - **(B)** 60
 > - **(C)** 32
 > - **(D)** 64
 > - **(E)** 80
+
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q11|src_archimede_2020_riserva_biennio__Q11]]
 
 
 
@@ -450,10 +512,15 @@ Maximum number of knights at tables bounded by neighbours
 
 *Quadrilateral perimeter with perpendicular diagonals*
 
-> In the convex quadrilateral ABCD the diagonal AC and BD are perpendicular. The sides AB, BC, CD are measured in the order of 4 cm, 1 cm, 7 cm. How many centimetres does the perimeter of the ABCD quadrilateral measure?
+> In the convex quadrilateral ABCD the diagonals AC and BD are perpendicular. The sides AB, BC, CD measure, in order, 4 cm, 1 cm, 7 cm. How many cm does the perimeter of quadrilateral ABCD measure?
 >
 > - **(A)** 22
 > - **(B)** 20
 > - **(C)** 19
 > - **(D)** 18
-> - **(E)** 24 The Archimedean Games 2020/2021 Good reserve competition   PROOF code: BB02
+> - **(E)** 24 I Giochi di Archimede 2020/2021 GARA DI RISERVA BIENNIO – – CODICE PROVA: BB02
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2020_riserva_biennio#q12|src_archimede_2020_riserva_biennio__Q12]]

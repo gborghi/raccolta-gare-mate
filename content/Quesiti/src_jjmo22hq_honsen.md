@@ -30,9 +30,17 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza per i reali positivi che soddisfano una condizione di rapporto*
+*Se ab/cd = (a+b)/(c+d), allora (a+b)(c+d) ≥ (a+c)(b+d)*
 
-> Che $a, b, c, d$ siano valori reali positivi che soddisfino $\dfrac{ab}{cd} = \dfrac{a+b}{c+d}$. Provare che $$( a+b)(c+d) \ge (a+c)(b+d).$$
+> Siano $a, b, c, d$ reali positivi che soddisfano $\dfrac{ab}{cd} = \dfrac{a+b}{c+d}$. Dimostrare che
+> $$( a+b)(c+d) \ge (a+c)(b+d).$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_jjmo22hq_honsen#q01|src_jjmo22hq_honsen__Q01]]
 
 
 
@@ -55,9 +63,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il riflesso del punto medio sulla linea DN si trova all'interno del triangolo, AM' perp BC*
+*Il riflesso del punto medio rispetto alla retta DN giace all'interno del triangolo; AM' è perpendicolare a BC*
 
-> Nel triangolo $ABC$ con $AB < AC$, $M$ sia il punto medio del lato $BC$. Il $N$ deve essere il punto medio dell'arco $BC$ non contenente $A$ sul circoncircolo del triangolo $ABC$. Il $D$ deve essere l'intersezione del bisettore angolare di $\angle BAC$ con il lato $BC$. Il $M'$ deve essere il riflesso di $M$ sulla linea $DN$. Prova che $M'$ si trova all'interno del triangolo $ABC$ (non al suo confine) e che la linea $AM'$ è perpendicolare alla linea $BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Nel triangolo $ABC$ con $AB < AC$, sia $M$ il punto medio del lato $BC$. Sia $N$ il punto medio dell'arco $BC$ che non contiene $A$ sulla circonferenza circoscritta al triangolo $ABC$. Sia $D$ l'intersezione della bisettrice dell'angolo $\angle BAC$ con il lato $BC$. Sia $M'$ il riflesso di $M$ rispetto alla retta $DN$. Dimostrare che $M'$ giace nell'interno del triangolo $ABC$ (e non sul suo bordo) e che la retta $AM'$ è perpendicolare alla retta $BC$. Qui, $XY$ denota la lunghezza del segmento $XY$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo22hq_honsen#q02|src_jjmo22hq_honsen__Q02]]
 
 
 
@@ -81,9 +96,17 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi n,x,y,z e prime p che soddisfano un'equazione di prodotto*
+*Interi positivi e un primo per cui il prodotto di tre somme di quadrati è una potenza di p*
 
-> Trova tutti gli integri positivi $n$, $x$, $y$, $z$ e i numeri primi $p$ in modo tale che $$(x^2 + y^2)(y^2 + z^2)(z^2 + x^2) = p^n.$$
+> Trovare tutti gli interi positivi $n$, $x$, $y$, $z$ e i primi $p$ tali che
+> $$(x^2 + y^2)(y^2 + z^2)(z^2 + x^2) = p^n.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_jjmo22hq_honsen#q03|src_jjmo22hq_honsen__Q03]]
 
 
 
@@ -106,9 +129,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero massimo di globuli bianchi nel 2024×2024 griglia colorata*
+*Numero massimo di celle bianche nella griglia colorata 2024×2024*
 
-> È data una griglia $2024 \times 2024$. Ogni cellula è di colore rosso, blu o bianco, e ogni cellula riceve esattamente un colore. La colorazione soddisfa la seguente condizione: ogni cellula rossa ha esattamente $1$ cellula rossa tra i suoi vicini (al massimo $4$) che condividono un lato; e per ogni quadrato di cellule $2 \times 2$, il numero di cellule blu che contiene è $1$ o $2$. Trova il massimo numero possibile di cellule bianche.
+> È data una griglia $2024 \times 2024$. Ogni cella è colorata di rosso, di blu o di bianco, e ogni cella riceve esattamente un colore. La colorazione soddisfa la seguente condizione: ogni cella rossa ha esattamente $1$ celle rosse tra i suoi vicini (al massimo $4$) che condividono un lato; e, per ogni quadrato $2 \times 2$ di celle, il numero di celle blu che esso contiene è oppure $1$ oppure $2$. Determinare il numero massimo possibile di celle bianche.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo22hq_honsen#q04|src_jjmo22hq_honsen__Q04]]
 
 
 
@@ -131,6 +161,13 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ssimilità dei triangoli B'C'D' e BCD nel triangolo acuto*
+*Somiglianza dei triangoli B'C'D' e BCD in un triangolo acuto*
 
-> Nel triangolo acuto $ABC$, $D$ deve essere il punto laterale $BC$ che soddisfa $AB : AC = DB : BC$. Che $B'$ sia il riflesso di $B$ sulla linea $AC$, che $C'$ sia il riflesso di $C$ sulla linea $AB$, e che $D'$ sia il riflesso di $D$ sul bisettore perpendicolare di $BC$. Prova che il triangolo $B'C'D'$ è simile al triangolo $BCD$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Nel triangolo acuto $ABC$, sia $D$ il punto sul lato $BC$ che soddisfa $AB : AC = DB : BC$. Sia $B'$ il riflesso di $B$ rispetto alla retta $AC$, sia $C'$ il riflesso di $C$ rispetto alla retta $AB$, e sia $D'$ il riflesso di $D$ rispetto alla mediatrice di $BC$. Dimostrare che il triangolo $B'C'D'$ è simile al triangolo $BCD$. Qui, $XY$ denota la lunghezza del segmento $XY$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo22hq_honsen#q05|src_jjmo22hq_honsen__Q05]]

@@ -31,11 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I bisettori angolari incontrano il circoncircolo; dimostrare l'ineguaglianza della somma*
+*Dimostrare che $AP + BQ + CR > AB + BC + CA$*
 
-> $ABC$ è un triangolo. Il bisettore interno dell'angolo $A$ incontra nuovamente il circoncircolo a $P$. $Q$ e $R$ sono definiti in modo simile.
-> 
-> Prove che $AP + BQ + CR > AB + BC + CA$.
+> $ABC$ è un triangolo. La bisettrice interna dell'angolo $A$ incontra di nuovo la circonferenza circoscritta in $P$. $Q$ e $R$ sono definiti in modo analogo.
+>
+> Dimostrare che $AP + BQ + CR > AB + BC + CA$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1981-82_round2#q01|src_bmo_1981-82_round2__Q01]]
 
 
 
@@ -63,13 +70,21 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di numeri primi; prova 5 non appare mai*
+*$5$ non appartiene alla successione*
 
-> La sequenza $p_1, p_2, \ldots$ è definita come segue:
-> 
-> $p_1 = 2$, e per $n \geq 2$, $p_n$ è il primo divisore più grande di $$p_1 p_2 \cdots p_{n-1} + 1.$$
-> 
-> Provare che $5$ non è un membro di questa sequenza.
+> La successione $p_1, p_2, \ldots$ è definita come segue:
+>
+> $p_1 = 2$, e per $n \geq 2$, $p_n$ è il massimo divisore primo di
+> $$p_1 p_2 \cdots p_{n-1} + 1.$$
+>
+> Dimostrare che $5$ non è un elemento di questa successione.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1981-82_round2#q02|src_bmo_1981-82_round2__Q02]]
 
 
 
@@ -94,9 +109,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la più grande n per la quale ax+(a+1)y+(a+2)z=n non ha soluzione positiva*
+*Il massimo intero positivo $n$ per cui l'equazione non è risolubile in interi positivi*
 
-> Trova il più grande intero positivo $n$ per il quale l'equazione $$ax + (a+1)y + (a+2)z = n$$ non è risolvibile in numeri interi positivi $x, y, z$, dove $a$ è un dato intero positivo parente.
+> Trovare il massimo intero positivo $n$ per cui l'equazione
+> $$ax + (a+1)y + (a+2)z = n$$
+> non è risolubile in interi positivi $x, y, z$, dove $a$ è un intero positivo dispari dato.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1981-82_round2#q03|src_bmo_1981-82_round2__Q03]]
 
 
 
@@ -120,9 +144,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due punti sulla curva x^n - ay^n = b; area del triangolo legato*
+*Dimostrare che $by_2 > 2ny_1^{n-1} a^{1-\frac{1}{n}} \Delta$*
 
-> $P_1(x_1, y_1)$, $P_2(x_2, y_2)$ sono due punti della curva $x^n - ay^n = b$ per i quali $x > 0$, $y > 0$. Qui $a$ e $b$ sono costanti positive e $n$ è un intero $> 1$. Prova che se $y_1 < y_2$ e $\Delta$ sono l'area del triangolo $OP_1P_2$, allora $$by_2 > 2ny_1^{n-1} a^{1-\frac{1}{n}} \Delta.$$
+> $P_1(x_1, y_1)$, $P_2(x_2, y_2)$ sono due punti della curva $x^n - ay^n = b$ per cui $x > 0$, $y > 0$. Qui $a$ e $b$ sono costanti positive e $n$ è un intero $> 1$. Dimostrare che se $y_1 < y_2$, e $\Delta$ è l'area del triangolo $OP_1P_2$, allora
+> $$by_2 > 2ny_1^{n-1} a^{1-\frac{1}{n}} \Delta.$$
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1981-82_round2#q04|src_bmo_1981-82_round2__Q04]]
 
 
 
@@ -148,6 +180,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Relazione funzionale polinomial soddisfacente; prova di identità*
+*Da $P(2x)$ si deduce l'identità per $P(3x)$*
 
-> Dato che $k$ è un numero intero fisso non negativo e che il polinomio $P(x)$ soddisfa la relazione $$P(2x) = 2^{k-1}(P(x) + P(x+1)),$$ dimostra che $$P(3x) = 3^{k-1}\left(P(x) + P\left(x+\tfrac{1}{3}\right) + P\left(x+\tfrac{2}{3}\right)\right).$$
+> Sapendo che $k$ è un intero non negativo fissato e che il polinomio $P(x)$ soddisfa la relazione
+> $$P(2x) = 2^{k-1}(P(x) + P(x+1)),$$
+> dimostrare che
+> $$P(3x) = 3^{k-1}\left(P(x) + P\left(x+\tfrac{1}{3}\right) + P\left(x+\tfrac{2}{3}\right)\right).$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1981-82_round2#q05|src_bmo_1981-82_round2__Q05]]

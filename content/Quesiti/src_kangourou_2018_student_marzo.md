@@ -34,11 +34,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which numerical expression has the maximum value*
+*Which numerical expression has the maximum value?*
 
-> Which of the following numerical expressions has the maximum value? A) 2 - 0 × 1 + 8 B) 2 + 0 × 1 × 8 C) 2 × 0 + 1 × 8 D) 2 × (0 + 1 + 8) E) 2 × 0 + 1 + 8
+> Which of the following numerical expressions has the greatest value?
+> A) 2 - 0 × 1 + 8	 	
+> B) 2 + 0 × 1 × 8	 	
+> C) 2 × 0 + 1 × 8	
+> D) 2 × (0 + 1 + 8)	
+> E) 2 × 0 + 1 + 8
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q01|src_kangourou_2018_student_marzo__Q01]]
 
 
 
@@ -76,19 +85,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-In which room is Renata coming through the doors?
+*In which room does Renata find herself when she passes through the doors?*
 
 ![[src_kangourou_2018_student_marzo__prob2.png]]
 
-> The drawing shows Renata's house, on a single floor. Entering through the porch, Renata crosses every door in the house once and only once. Which room is she in at the end of the path? A) 1
-> 	
-> B) 2
-> 	
-> C) 3 D) 4
-> 	
+> The drawing shows Renata's single-storey house. Entering through the porch, Renata passes through all the doors in the house exactly once. Which room does she end up in at the end of the route?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3
+> D) 4	
+>
 > E) 5
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q02|src_kangourou_2018_student_marzo__Q02]]
 
 
 
@@ -123,19 +139,25 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many stones can Maciste get (+4 per shot)*
+*How many stones can Maciste obtain (+4 per hit)?*
 
-> Maciste initially has seven stones and a hammer that breaks any stone into exactly five smaller stones. What number of stones can he get, among the following? A) 17
-> 	
-> B) 20
-> 	
-> C) 21
-> 	
-> D) 23
-> 	
+> Initially, Maciste has seven stones and a hammer that splits any stone into exactly five smaller stones. Which of the following numbers of stones can he end up with?
+> A) 17	
+>
+> B) 20	
+>
+> C) 21	
+>
+> D) 23	
+>
 > E) 25
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q03|src_kangourou_2018_student_marzo__Q03]]
 
 
 
@@ -169,19 +191,25 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-prime 2-digit integers not divisible by 2,3,5*
+*How many two-digit integers are neither prime nor divisible by 2, 3, or 5?*
 
-> How many positive two-digit integers are there that are not prime and are not divisible by 2, 3, or 5? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> How many two-digit positive integers are neither prime nor divisible by 2, 3, or 5?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q04|src_kangourou_2018_student_marzo__Q04]]
 
 
 
@@ -212,17 +240,23 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the fraction with terms in progression*
+*Value of a fraction with terms in progression*
 
-> A) 2
-> 	
-> B) 9/4
-> 	
-> C) 9
-> 	
-> D) 2018 E) 1009
+> A) 2	
+>
+> B) 9/4	
+>
+> C) 9	
+>
+> D) 2018		
+> E) 1009
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q05|src_kangourou_2018_student_marzo__Q05]]
 
 
 
@@ -266,20 +300,27 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many ways 1001 as the sum of two prime*
+*In how many ways can 1001 be expressed as the sum of two primes?*
 
-> How many different ways (except the order) can the number 1001 be written as the sum of two prime numbers? A) 0
-> 	
-> B) 1
-> 	
-> C) 2
-> 	
-> D) 3
-> 	
-> (e) more than 3 ports 1 3 4 5 2 2006 + 2009 + 2012 + 2015 + 2018 + 2021 + 2024 + 2027 + 2030
+> In how many different ways (ignoring order) can the number 1001 be written as the sum of two prime numbers?
+> A) 0	
+>
+> B) 1	
+>
+> C) 2	
+>
+> D) 3	
+>
+> E) more than 3
+> portico 1 3 4 5 2 2006 + 2009 + 2012 + 2015 + 2018 + 2021 + 2024 + 2027 + 2030 ---------------------------------------------------------------------------------------------------------- = 2018 + 2018 + 2018 + 2018
 >
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q06|src_kangourou_2018_student_marzo__Q06]]
 
 
 
@@ -315,22 +356,26 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Logical deduction on green/red extraterrestrials Mars/Venus*
+*Logical deduction concerning green/red extraterrestrials, Mars/Venus*
 
-> The following two statements about the inhabitants of Mars and Venus are both true: some extraterrestrials are green, others are red; green extraterrestrials live on Mars. Which of the following statements can be deduced from them?
-> 	
-> A) All aliens live on Mars.
-> 	
-> B) Only green extraterrestrials live on Mars.
-> 	
+> The following two statements about the inhabitants of Mars and Venus are both true: some extraterrestrials are green and the others are red; the green extraterrestrials live on Mars. Which of the following statements can be deduced from them?
+>
+> A) All extraterrestrials live on Mars.
+>
+> B) On Mars, only green extraterrestrials live.
+>
 > C) Some red extraterrestrials live on Venus.
-> 	
-> D) All the red extraterrestrials live on Venus.
->  
-> 	
-> E) There are no green extraterrestrials living on Venus.
+>
+> D) All red extraterrestrials live on Venus.
+>
+>
+> E) No green extraterrestrials live on Venus.
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_insiemi_funzioni|Sets and functions]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q07|src_kangourou_2018_student_marzo__Q07]]
 
 
 
@@ -366,19 +411,25 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum extraction that ensures a white ball*
+*Minimum number of draws that guarantees one white ball*
 
-> There's 65 balls in a box, eight white and the other black. A maximum of five balls may be extracted at a time, and balls already extracted are not permitted to be returned to the box. What is the minimum number of extractions that guarantees you've extracted at least one white ball? A) 11
-> 	
-> B) 12
-> 	
-> C) 13
-> 	
-> D) 14
-> 	
+> In a box, there are 65 balls: 8 white and the rest black. At most 5 balls can be drawn at a time, and balls that have already been drawn may not be put back into the box. What is the minimum number of draws that guarantees that at least one white ball has been drawn?
+> A) 11	
+>
+> B) 12	
+>
+> C) 13	
+>
+> D) 14	
+>
 > E) 15
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q08|src_kangourou_2018_student_marzo__Q08]]
 
 
 
@@ -412,19 +463,25 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the parallelepiped given areas A,B,C of the faces*
+*Volume of the parallelepiped given the areas A, B, C of the faces*
 
-> In a rectangular parallelepiped three faces that have a vertex in common have areas A, B and C respectively. What's the volume of the parallelepiped? (A) ABC
-> 	
+> In a rectangular parallelepiped, three faces that share a vertex have areas A, B, and C, respectively. What is the volume of the parallelepiped?
+> A) ABC
+>
 > B) √ ABC
-> 	
+>
 > C) √ AB + BC + CA
->  
+>
 > D) √ ABC
-> 	
+>
 > E) 2 (A + B + C)
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q09|src_kangourou_2018_student_marzo__Q09]]
 
 
 
@@ -456,13 +513,23 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the alpha angle between two inclined rectangles*
+*Measurement of angle alpha between two inclined rectangles*
 
 ![[src_kangourou_2018_student_marzo__prob10.png]]
 
-> The figure shows two rectangles inclined relative to the vertical of 40 degrees and 30 degrees. How many degrees does the angle a measure? A) 105 B) 120 C) 130 D) 135 E) A value different from the previous ones. The questions from N. 11 to N. 20 are worth 4 points each.
+> The figure shows two rectangles inclined relative to the vertical by 40 degrees and 30 degrees. How many degrees is angle a?
+> A) 105	 	
+> B) 120	 	
+> C) 130	 	
+> D) 135 
+> E) A value different from the preceding ones.
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q10|src_kangourou_2018_student_marzo__Q10]]
 
 
 
@@ -504,22 +571,28 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many members of the group with 24 pairs of socks*
+*How many members of the group have 24 pairs of socks?*
 
-> At the Festival of Colored Socks every girl must wear a pink and yellow sock while every boy must wear a blue and green sock. To attend the party, a group of friends had to buy 24 pairs of socks. Knowing that there is only one size of socks, that they are sold in pairs, and that each pair is one color, how many can be the components of the group?
-> 	
-> A) Only 22, 23 or 24 and each of these numbers is possible.
-> 	
+> At the "Colored Socks Festival," every girl must wear one pink sock and one yellow sock, while every boy must wear one blue sock and one green sock. To take part in the festival, a group of friends had to necessarily buy 24 pairs of socks. Given that there is only one sock size, that the socks are sold in pairs, and that each pair is a single color, how many members can the group have?
+>
+> A) Only 22, 23, or 24, and each of these numbers is possible.
+>
 > B) Only 24.
-> 	
+>
 > C) Only 48.
-> 	
-> D) Only 23 or 24 and both are possible.
-> 	
-> E) Only 23 if males and females are in different numbers. α 30° 40°
+>
+> D) Only 23 or 24, and both are possible.
+>
+> E) Only 23 if the number of males and females is different.
+> α 30° 40°
 >
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q11|src_kangourou_2018_student_marzo__Q11]]
 
 
 
@@ -555,17 +628,24 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate of volumes V and W of two intersecting cubes*
+*Ratio of the volumes V and W of the two intersecting cubes*
 
 ![[src_kangourou_2018_student_marzo__prob12.png]]
 
-> Two cubes, whose volumes we indicate with V and W, intersect as shown in the figure. By eliminating from the volume calculation the part common to the two cubes, 90% of the volume V remains while only 85% of the volume W remains. What is the relationship between volumes V and W? A) V =       W
-> 	
-> B) V =      W C) V =      W
-> 	
-> D) V =      W E) V = W
+> Two cubes, whose volumes we denote by V and W, intersect as shown in the figure. If the part common to the two cubes is excluded from the volume calculation, 90% of volume V remains, while only 85% of volume W remains. What is the ratio of volumes V and W?
+> A) V =       W	
+>
+> B) V =      W
+> C) V =      W	
+>
+> D) V =      W
+> E) V = W
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q12|src_kangourou_2018_student_marzo__Q12]]
 
 
 
@@ -598,13 +678,22 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*shape of the vessel given the time-level chart*
+*Shape of the vessel given the level-time graph*
 
 ![[src_kangourou_2018_student_marzo__prob13.png]]
 
-> We pour water into a jar in constant quantities over time until it is filled. The graph below shows, as a function of time t, the water level h in the vessel. Of the following, what can the shape of the vessel be? A) B) C) D) E)
+> We pour water into a container at a constant rate over time until the container is full. The graph in the figure shows, as a function of time t, the water level h in the container. Among the following, what could the shape of the container be?
+>          A) 		
+>         B) 		
+>         C) 		
+>          D) 	
+>          E)
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_insiemi_funzioni|Sets and functions]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q13|src_kangourou_2018_student_marzo__Q13]]
 
 
 
@@ -638,25 +727,26 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pairs (m,n) with |sqrt17-m|+sqrt(17+n)=20*
+*How many pairs (m,n) satisfy |sqrt17-m|+sqrt(17+n)=20?*
 
-> How many ordered pairs (m, n) of strictly positive integers solve the equation
+> How many ordered pairs (m, n) of strictly positive integers satisfy the equation?
 > |√ 17 - m| + √ 17 + n = 20?
 > A) 0	
-	
-> 	
+>
 > B) 10	
-	
-> 	
+>
 > C) 15	
-	
-> 	
+>
 > D) 19	
-	
-> 	
+>
 > E) 20
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q14|src_kangourou_2018_student_marzo__Q14]]
 
 
 
@@ -689,19 +779,25 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number does not divide 18^2017+18^2018*
+*Which number does not divide 18^2017 + 18^2018?*
 
-> Which of the following is not a divisor of 18^2017 + 18^2018 ? A) 8
-> 	
-> B) 18
-> 	
-> C) 28
-> 	
-> D) 38
-> 	
+> Which of the following numbers is not a divisor of 182017 + 182018?
+> A) 8	
+>
+> B) 18	
+>
+> C) 28	
+>
+> D) 38	
+>
 > E) 48
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q15|src_kangourou_2018_student_marzo__Q15]]
 
 
 
@@ -748,20 +844,27 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of p+q+r+s+t+u given the three mean points*
+*Value of p+q+r+s+t+u given the three midpoints*
 
-> In a plane with a coordinate system, the vertices of a triangle have coordinates (p, q), (r, s) and (t, u). If the three midpoints of the sides have coordinates (-2, 1), (2, -1) and (3, 2), what is p + q + r + s + t + u ? A) 2
-> 	
-> B) 5/2
-> 	
-> C) 3
-> 	
-> D) 5
->        
-> E) A different number from the previous ones. 2---- 3 3---- 2 85 ---- 90 90 ---- 85
+> In a plane equipped with a coordinate system, the vertices of a triangle have coordinates (p, q), (r, s), and (t, u). If the three midpoints of the sides have coordinates (-2, 1), (2, -1), and (3, 2), what is the value of p + q + r + s + t + u?
+> A) 2	
+>
+> B) 5/2	
+>
+> C) 3	
+>
+> D) 5	
+>
+> E) A number different from the preceding ones.
+> 2---- 3 3---- 2 85 ---- 90 90 ---- 85
 >
 
-**Answer:** D
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q16|src_kangourou_2018_student_marzo__Q16]]
 
 
 
@@ -795,15 +898,24 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the octahedron inscribed in the cube of edge 1*
+*Volume of the octahedron inscribed in a cube with edge length 1*
 
 ![[src_kangourou_2018_student_marzo__prob17.png]]
 
-> An octahedron is inscribed in a cube of edge 1 so that the vertices of the octahedron coincide with the centers of the faces of the cube. What is the volume of the octahedron? A) 1/3 B) 1/4
-> 	
-> C) 1/5 D) 1/6 E) 1/8
+> An octahedron is inscribed in a cube with edge length 1 such that the vertices of the octahedron coincide with the centers of the faces of the cube. What is the volume of the octahedron?
+> A) 1/3	 	
+> B) 1/4	
+>
+> C) 1/5
+> D) 1/6	 	
+> E) 1/8
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q17|src_kangourou_2018_student_marzo__Q17]]
 
 
 
@@ -827,11 +939,15 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final score 3 forecast data highlighted on 5*
+*Final score, given that 3 out of 5 predictions were correct*
 
-> Before the match between Real Madrid and Manchester United the following five forecasts were made:
+> Before the match between Real Madrid and Manchester United, the following five predictions were made:
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q18|src_kangourou_2018_student_marzo__Q18]]
 
 
 
@@ -857,13 +973,18 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Image when the pentagon rotating by 21 degrees coincides*
+*Imagine when the pentagon rotated by 21 degrees coincides*
 
 ![[src_kangourou_2018_student_marzo__prob19.png]]
 
-> 19. From a strip of paper, we cut a regular pentagon. We rotate it 21 degrees counterclockwise, with the center as a pivot: the figure shows the position of the pentagon after the first rotation. What image will we see when, for the first time, the pentagon overlaps exactly with the hole left behind? A) B) C) D) E)
+> 19. From a sheet of lined paper, we cut out a regular pentagon. We rotate it 21 degrees counterclockwise, with its center as the pivot: the figure shows the position of the pentagon after the first rotation. What image will we see when, for the first time, the pentagon exactly overlaps the hole that was left? A) B) C) D) E)
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q19|src_kangourou_2018_student_marzo__Q19]]
 
 
 
@@ -889,9 +1010,14 @@ In which room is Renata coming through the doors?
 
 *Value of f(0)+f(1)+f(2)+f(3) with f(x+y)=f(x)f(y)*
 
-> 20. Let f be a function such that f (x + y) = f (x) f (y) for all integers x and y. If f (1) = 1/2, what is the value of f (0) + f (1) + f (2) + f (3)? A) 1/8 B) 3/2 C) 5/2 D) 15/8 E) 6 Kangourou 2018 page 29
+> 20. Let f be a function such that f(x + y) = f(x) f(y) for all integers x and y. If f(1) = 1/2, what is the value of f(0) + f(1) + f(2) + f(3)? A) 1/8 B) 3/2 C) 5/2 D) 15/8 E) 6 Kangourou 2018 page 29
 
-**Answer:** D
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q20|src_kangourou_2018_student_marzo__Q20]]
 
 
 
@@ -917,13 +1043,18 @@ In which room is Renata coming through the doors?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Sum of Nadia cards if sum of products and before*
+*The sum of Nadia's cards if the sum of the products is first*
 
 ![[src_kangourou_2018_student_marzo__prob21.png]]
 
-> 21. Of the five cards shown in the figure, Nadia takes three and Roberto two. Each of them makes the product of the numerical values of their cards. Adding up the two numbers, they find that the sum is a prime number. What's the sum of Nadia's card numbers? A) 12 B) 13 C) 15 D) 17 E) 18
+> 21. Of the five cards shown in the figure, Nadia takes three and Roberto takes two. Each of them calculates the product of the numerical values on their own cards. By adding the two numbers obtained, they find that the sum is a prime number. What is the sum of the numbers on Nadia's cards? A) 12 B) 13 C) 15 D) 17 E) 18
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q21|src_kangourou_2018_student_marzo__Q21]]
 
 
 
@@ -947,11 +1078,16 @@ Sum of Nadia cards if sum of products and before*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coordinates of fourth point A on parabola and circumference*
+*Coordinates of the fourth point A on the parabola and the circle*
 
-> 22. A 0xy orthogonal Cartesian system is fixed in the plane. If the parabola of equation y = $x^{2}$+px + q is such that a) it intersects the axes x and y at three distinct points; b) the circle passing through the three points above intersects the parabola at a fourth point A distinct from the previous three points, what are the coordinates of point A? $q^{2}$ q A) (0,- q) B) (p, q) C) (- p, q) D) (- , ) ---- --- $p^{2}$ p E) (1, p + q + 1)
+> 22. Fix an orthogonal Cartesian coordinate system 0xy in the plane. If the parabola with equation y = $x^{2}$ + px + q is such that a) it intersects the x- and y-axes at three distinct points; b) the circle passing through the three aforementioned points intersects the parabola at a fourth point A distinct from the three preceding ones, STUDENT, what are the coordinates of point A? $q^{2}$ q A) (0,- q) B) (p, q) C) (- p, q) D) (- , ) ---- --- $p^{2}$ p E) (1, p + q + 1)
 
-**Answer:** C
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q22|src_kangourou_2018_student_marzo__Q22]]
 
 
 
@@ -977,13 +1113,18 @@ Sum of Nadia cards if sum of products and before*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of the x-vertices of the prism with equal sums*
+*Number of vertex x of the prism with equal sums*
 
 ![[src_kangourou_2018_student_marzo__prob23.png]]
 
-> 23. The prism in the figure is made up of two triangles and three squares. Its vertices are numbered from 1 to 6 so that the sum of the four vertices on each square is the same for all squares. Vertices 1 and 5 have already been numbered. What number distinguishes the vertex marked with x ? A) 2 B) 3 C) 4 D) 6 E) Numbering cannot be carried out.
+> 23. The prism in the figure is made up of two triangles and three squares. Its vertices are numbered from 1 to 6 in such a way that the sum of the four vertices on each square is the same for all the squares. Vertices 1 and 5 have already been numbered. What number identifies the vertex marked with x? A) 2 B) 3 C) 4 D) 6 E) The numbering cannot be carried out.
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q23|src_kangourou_2018_student_marzo__Q23]]
 
 
 
@@ -1007,11 +1148,16 @@ Sum of Nadia cards if sum of products and before*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of n^2+m with m,n roots of x^2-x-2018=0*
+*Value of n^2+m, where m and n are roots of x^2-x-2018=0*
 
-> 24. m and n are the roots of the equation $x^{2}$- x - 2018 = 0. How much is $n^{2}$ + m ? A) 2016 B) 2017 C) 2018 D) 2019 E) 2020
+> 24. m e n are the roots of the equation $x^{2}$ - x - 2018 = 0. What is the value of $n^{2}$ + m? A) 2016 B) 2017 C) 2018 D) 2019 E) 2020
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q24|src_kangourou_2018_student_marzo__Q24]]
 
 
 
@@ -1035,11 +1181,16 @@ Sum of Nadia cards if sum of products and before*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many positive real solutions does ||x^3-2|-3|=2 have*
+*How many real positive solutions does ||x^3-2|-3|=2 have?*
 
-> 25. How many positive real solutions does the equation ||$x^{3}$- 2| - 3 | = 2 have? A) 2 B) 3 C) 4 D) 5 E) 6 Kangourou 2018 page 30
+> 25. How many positive real solutions does the equation ||$x^{3}$ - 2| - 3| = 2 have? A) 2 B) 3 C) 4 D) 5 E) 6 Kangourou 2018 page 30
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q25|src_kangourou_2018_student_marzo__Q25]]
 
 
 
@@ -1063,11 +1214,16 @@ Sum of Nadia cards if sum of products and before*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who is the tallest if only one of the brothers is lying*
+*Who is the tallest if only one of the brothers is lying?*
 
-> 26. Four brothers, denoted by A, B, C and D, all have different heights. They make the following statements: - A: I am neither the tallest nor the shortest; - B: I am not the shortest; - C: I am the tallest; - D: I am the shortest. If one and only one of them is lying, who is the tallest? A) A B) B C) C D) D E) The information is not sufficient to answer.
+> 26. Four brothers, designated A, B, C, and D, all have different heights. They make the following statements: - A: I am neither the tallest nor the shortest; - B: I am not the shortest; - C: I am the tallest; - D: I am the shortest. If exactly one of them is lying, who is the tallest? A) A B) B C) C D) D E) The information is insufficient to answer.
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q26|src_kangourou_2018_student_marzo__Q26]]
 
 
 
@@ -1091,11 +1247,16 @@ Sum of Nadia cards if sum of products and before*
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability that the sum of the three maximum values is 18*
+*Probability that the sum of the three maxima is 18*
 
-> 27. Alberta throws three six-sided dice (numbered 1 to 6) and writes on a sheet the highest number she gets. She throws the three dice two more times, always writing down the highest of the numbers she gets, and then she adds up the three numbers he wrote. What is the probability that the sum is 18? A) 1 --- 69 B) C) D) E)
+> 27. Alberta rolls three fair six-sided dice (numbered from 1 to 6) and writes on a sheet of paper the highest number she gets. She rolls the three dice two more times, always writing down the highest number she gets, and then adds up the three numbers she has written. What is the probability that the sum is 18? A) 1 --- 69 B) C) D) E)
 
-**Answer:** C
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q27|src_kangourou_2018_student_marzo__Q27]]
 
 
 
@@ -1152,7 +1313,7 @@ The probability that the sum of the three maximum values is 18*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report areas of GIF triangle and IHDE hexagon trapezoid*
+*Ratio of areas: triangle GIF and trapezoid IHDE hexagon*
 
 ![[src_kangourou_2018_student_marzo__prob28.png]]
 
@@ -1187,9 +1348,14 @@ The probability that the sum of the three maximum values is 18*
 \end{document}
 ```
 
-> 28. ABCDEF is a regular hexagon. G is the middle point of AB. H and I are the intersection points of the GD and GE segments with FC respectively. What is the ratio between the area of the GIF triangle and that of the IHDE trapezoid? A) 1/2 B) 1/3 C) 1/4 D) 1/√3 E) √3/4
+> 28. ABCDEF is a regular hexagon. G is the midpoint of AB. H and I are the points of intersection of segments GD and GE with FC, respectively. What is the ratio of the area of triangle GIF to the area of trapezoid IHDE? A) 1/2 B) 1/3 C) 1/4 D) 1/√3 E) √3/4
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q28|src_kangourou_2018_student_marzo__Q28]]
 
 
 
@@ -1213,11 +1379,16 @@ The probability that the sum of the three maximum values is 18*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Second and tenth digits of factor 15*
+*Second and tenth digits of 15 factorial*
 
-> 29. Francis has calculated 1×2× ...×15 which is 15! 1 0 7 6 7 4 3 6 0 0 0 and write the result on the board. The second and tenth digits cannot be read (see figure). What are they, in order? A) 2 and 0 B) 7 and 4 C) 4 and 8 D) 9 and 2 E) 3 and 8
+> 29. Francesco calculated 1×2× ... ×15, that is, 15!, which is 1 0 7 6 7 4 3 6 0 0 0, and wrote the result on the blackboard. Unfortunately, the second and tenth digits cannot be read (see figure). What are they, in order? A) 2 and 0 B) 7 and 4 C) 4 and 8 D) 9 and 2 E) 3 and 8
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q29|src_kangourou_2018_student_marzo__Q29]]
 
 
 
@@ -1241,8 +1412,13 @@ The probability that the sum of the three maximum values is 18*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of participants in the given probability field 1/2*
+*Number of camp participants, date, probability 1/2*
 
-> 30. Among the participants in a summer camp, the number of girls exceeds the number of boys by 40 percent. The probability that a delegation of two participants chosen at random consists of a girl and a boy is exactly 1/2. How many people are in the camp? A) 20 B) 24 C) 36 D) 38
+> 30. Among the participants in a summer camp, the number of girls exceeds the number of boys by 40%. The probability that a delegation of two participants chosen at random consists of one girl and one boy is exactly 1/2. How many participants are there in the camp? A) 20 B) 24 C) 36 D) 38
 
-**Answer:** C
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_marzo#q30|src_kangourou_2018_student_marzo__Q30]]

@@ -28,9 +28,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The meaning of KAB can be deduced from the answer*
+*The meaning of KAB can be deduced from the response*
 
-> In the strange Kanglandic language, the words "yes" and "no" translate to "KAB" and "BAK", but not necessarily in this order. You meet a person you can trust, who knows both the Italian and the Kanglandic language, and you ask them: "Is it true that KAB means 'yes'?" The person answers, "KAB". Can you tell if "KAB" means "yes" or "no"?
+> In the strange language of Kanglandia, the words "yes" and "no" are translated as "KAB" and "BAK", but not necessarily in that order. You meet a person you can trust who knows both Italian and the language of Kanglandia, and you ask them: "Is it true that KAB means 'yes'?" The person replies: "KAB". Can you deduce whether "KAB" means "yes" or "no"?
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_cadet_finale#qc1|src_kangourou_2024_cadet_finale__QC1]]
 
 
 
@@ -53,9 +59,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Are there more reducible or irreducible fractions (1..12)*
+*There are more reducible fractions than irreducible ones (1..12)*
 
-> Consider all possible fractions less than $1$ in which both the numerator and denominator are integers between $1$ and $12$ included. Are there more reducible fractions or irreducible fractions?
+> Consider all possible fractions with a value less than $1$, in which both the numerator and the denominator are integers between $1$ and $12$, inclusive. Are there more reducible fractions or more irreducible fractions?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_cadet_finale#qc2|src_kangourou_2024_cadet_finale__QC2]]
 
 
 
@@ -98,7 +111,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two triangles with two sides and equal height are congruent*
+*Two triangles with two equal sides and an equal height are congruent*
 
 ![[src_kangourou_2024_cadet_finale__probc3.png]]
 
@@ -120,7 +133,14 @@ level: kangourou
 \end{document}
 ```
 
-> Two triangles are given. The lengths of two of the sides of one shall coincide with the lengths of two of the sides of the other and the height relative to the third side of one shall coincide with that relative to the third side of the other. Are the two triangles necessarily congruent? (see figure)
+> Two triangles are given. The lengths of two of the sides of one triangle coincide with the lengths of two of the sides of the other triangle, and the altitude corresponding to the third side of one triangle coincides with the altitude corresponding to the third side of the other triangle. Are the two triangles necessarily congruent? (see figure)
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet_finale#qc3|src_kangourou_2024_cadet_finale__QC3]]
 
 
 
@@ -142,9 +162,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum antenna distance from the most distant dwelling*
+*Minimum distance of the antenna from the farthest dwelling*
 
-> Three dwellings are at the vertices of an isosceles triangle whose sides measure $80$, $80$ and $120$ meters. Using a single antenna, we want to make it possible to receive internet in the three houses. In metres, what is the minimum distance the antenna can have from the dwelling that turns out to be the furthest away?
+> Three houses are located at the vertices of an isosceles triangle whose sides measure $80$, $80$, and $120$ metres. Using a single antenna, the aim is to make it possible for internet to be received at all three houses. In metres, what is the minimum distance the antenna can be from the house that turns out to be the farthest from it?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet_finale#qc4|src_kangourou_2024_cadet_finale__QC4]]
 
 
 
@@ -167,9 +193,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Because the result of Marco is always 1089
+*Because Marco's result is always 1089*
 
-> Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits, and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, prefix $0$ to this difference, otherwise it remains unchanged. Finally, it adds to the number thus obtained the number it gets by reversing the order of its digits. What is the result? Our question suggests that the outcome does not depend on the number initially chosen by Marco: explain why.
+> Marco tries to carry out the following operations: he chooses a three-digit number whose digits are all different, writes the number obtained by reversing the order of the digits, and calculates the difference between the larger and the smaller of the two numbers. If this difference has only two digits, he prefixes the digit $0$ to this difference; otherwise, he leaves it unchanged. Finally, he adds to the number thus obtained the number he gets by reversing the order of its digits. What result does he obtain? Our question implies that the result does not depend on the number Marco chose initially: explain why.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_cadet_finale#qc5|src_kangourou_2024_cadet_finale__QC5]]
 
 
 
@@ -192,6 +225,13 @@ Because the result of Marco is always 1089
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of lines to cover the vertices of the squares*
+*Minimum number of straight lines needed to cover the vertices of the small squares*
 
-> On a huge square sheet of square paper you want to draw lines, none parallel to the ones that delimit the squares, so that all the vertices of the squares that appear on the sheet are covered by at least one line. What is the smallest number of lines that is sufficient to trace?
+> On an enormous square sheet $2024 \times 2024$ of graph paper, one wants to draw straight lines—none of which are parallel to the lines that bound the squares—so that all the vertices of the squares visible on the sheet are covered by at least one line. What is the smallest number of lines that suffices to draw?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_cadet_finale#qc6|src_kangourou_2024_cadet_finale__QC6]]

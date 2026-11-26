@@ -29,11 +29,17 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*60% di x è 40; trovare x% di 60*
+*Se il 60% di x è 40, quanto vale l'x% di 60*
 
-> Se $60\%$ di un numero $x$ è 40, allora cosa è $x\%$ di 60?
+> Se il $60\%$ di un numero $x$ è 40, quanto vale l'$x\%$ di 60?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
 **Risposta:** 40
+
+[[Quesiti/src_ioqm_2025_sep07#q01|src_ioqm_2025_sep07__Q01]]
 
 
 
@@ -57,11 +63,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi positivi ≤100 divisibili per 3 ma non per 2*
+*Interi positivi ≤ 100 divisibili per 3 ma non per 2*
 
-> Trova il numero di interi positivi $n$ inferiori o uguali a 100, divisibili per 3 ma non divisibili per 2.
+> Trovare il numero di interi positivi $n$ minori o uguali a 100 che sono divisibili per 3 ma non per 2.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
 **Risposta:** 17
+
+[[Quesiti/src_ioqm_2025_sep07#q02|src_ioqm_2025_sep07__Q02]]
 
 
 
@@ -85,11 +98,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*area rettangolare laterale integrale 20; perimetro minimo*
+*Il minimo perimetro di un rettangolo a lati interi di area 20*
 
-> L'area di un rettangolo a lato intero è 20. Qual è il valore minimo possibile del suo perimetro?
+> L'area di un rettangolo a lati interi è 20. Qual è il minimo possibile del suo perimetro?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Geometria|Geometria]]
 
 **Risposta:** 18
+
+[[Quesiti/src_ioqm_2025_sep07#q03|src_ioqm_2025_sep07__Q03]]
 
 
 
@@ -113,11 +133,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare triangoli a lato intero con perimetro 23*
+*Triangoli isosceli a lati interi di perimetro 23*
 
-> Quanti triangoli a lato intero hanno il perimetro 23?
+> Quanti triangoli isosceli a lati interi hanno perimetro 23?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Geometria|Geometria]]
 
 **Risposta:** 11
+
+[[Quesiti/src_ioqm_2025_sep07#q04|src_ioqm_2025_sep07__Q04]]
 
 
 
@@ -141,11 +168,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri a 3 cifre $\overline{abc}$ con $a\neq 0$ e $c=a+b$*
+*Numeri di tre cifre abc in base 10 con a ≠ 0 e c = a + b*
 
-> Quanti numeri a 3 cifre $\overline{abc}$ nella base 10 ci sono con $a \neq 0$ e $c = a + b$?
+> Quanti numeri di tre cifre $\overline{abc}$ in base 10 esistono con $a \neq 0$ e $c = a + b$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
 
 **Risposta:** 45
+
+[[Quesiti/src_ioqm_2025_sep07#q05|src_ioqm_2025_sep07__Q05]]
 
 
 
@@ -168,9 +202,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'età di una persona in quadrato perfetto nel 2025 e 2012; m cubo perfetto anni dopo il 2025*
+*Età della persona: quadrato perfetto nel 2025 e nel 2012; cubo perfetto m anni dopo il 2025*
 
-> L'età di una persona (in anni) nel 2025 è un quadrato perfetto. La sua età (in anni) era anche un quadrato perfetto nel 2012. La sua età (in anni) sarà un cubo perfetto $m$ anni dopo il 2025. Determinare il valore più piccolo di $m$.
+> L'età di una persona (in anni) nel 2025 è un quadrato perfetto. Anche la sua età (in anni) nel 2012 era un quadrato perfetto. La sua età (in anni) sarà un cubo perfetto $m$ anni dopo il 2025. Determinare il valore minimo di $m$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2025_sep07#q06|src_ioqm_2025_sep07__Q06]]
 
 
 
@@ -194,11 +235,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma di due reali è un intero positivo n, la somma dei quadrati è n+1012; max n*
+*La somma di due numeri reali è l'intero positivo n, la somma dei loro quadrati è n+1012; massimo n*
 
-> La somma di due numeri reali è un intero positivo $n$ e la somma dei loro quadrati è $n + 1012$. Trova il valore massimo possibile di $n$.
+> La somma di due numeri reali è un numero intero positivo $n$ e la somma dei loro quadrati è $n + 1012$. Determinare il valore massimo possibile di $n$.
 
-**Risposta:** 2025
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2025_sep07#q07|src_ioqm_2025_sep07__Q07]]
 
 
 
@@ -221,9 +267,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colore 4 vertici di quadrilaterali con 4 colori; lati e diagonali AC ottengono punti terminali di colore diverso*
+*Colora con 4 colori 4 vertici di un quadrilatero; i lati e la diagonale AC hanno estremità di colori diversi*
 
-> Un quadrilaterale ha quattro vertici $A, B, C, D$. Vogliamo colorare ogni vertice in uno dei quattro colori rosso, blu, verde o giallo, in modo che ogni lato del quadrilaterale e la diagonale $AC$ abbiano punti terminali di diversi colori. In quanti modi possiamo farlo?
+> Un quadrilatero ha quattro vertici $A, B, C, D$. Vogliamo colorare ciascun vertice con uno dei quattro colori: rosso, blu, verde o giallo, in modo che ogni lato del quadrilatero e la diagonale $AC$ abbiano estremi di colori diversi. In quanti modi possiamo farlo?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2025_sep07#q08|src_ioqm_2025_sep07__Q08]]
 
 
 
@@ -247,11 +300,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro lati e una diagonale di quadrilaterali; lunghezze 10,20,28,50,75; trovare diagonale*
+*Quattro lati e una diagonale di un quadrilatero; lunghezze 10, 20, 28, 50, 75; trovare la diagonale*
 
-> Quattro lati e una diagonale di un quadrilaterale hanno lunghezze 10, 20, 28, 50, 75, non necessariamente in quell'ordine. Quale tra loro è l'unica lunghezza possibile della diagonale?
+> Quattro lati e una diagonale di un quadrilatero hanno lunghezze 10, 20, 28, 50, 75, non necessariamente in quest'ordine. Quale di esse è l'unica lunghezza possibile per la diagonale?
 
-**Risposta:** 28
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2025_sep07#q09|src_ioqm_2025_sep07__Q09]]
 
 
 
@@ -274,9 +332,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cilindro con altezza e raggio interi; superficie pari al volume; k più piccolo dove il volume è kπ*
+*Cilindro con altezza e raggio interi; l'area della superficie è uguale al volume; il più piccolo k per cui il volume è kπ*
 
-> L'altezza e il raggio di base di un cilindro circolare a destra chiuso sono numeri interi positivi e la sua superficie totale è numericamente pari al suo volume. Se il suo volume è $k\pi$ e $k$ è un intero positivo, quale è il valore più piccolo possibile di $k$?
+> L'altezza e il raggio della base di un cilindro circolare retto chiuso sono numeri interi positivi, e la sua area totale della superficie è numericamente uguale al suo volume. Se il suo volume è $k\pi$, dove $k$ è un numero intero positivo, qual è il valore più piccolo possibile di $k$?
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2025_sep07#q10|src_ioqm_2025_sep07__Q10]]
 
 
 
@@ -299,9 +364,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Frazione a/b più vicina a 3/4 con gcd(a,b)=1 e b≤15, a/b≠3/4; trovare a+b*
+*Frazione a/b più vicina a 3/4 con mcd(a,b)=1 e b≤15, a/b≠3/4; trova a+b*
 
-> Considera una frazione $\dfrac{a}{b} \neq \dfrac{3}{4}$, dove $a, b$ sono integri positivi con $\gcd(a, b) = 1$ e $b \le 15$. Se questa frazione è scelta più vicina a $\dfrac{3}{4}$ tra tutte queste frazioni, qual è il valore di $a + b$?
+> Si consideri una frazione $\dfrac{a}{b} \neq \dfrac{3}{4}$, dove $a, b$ sono interi positivi tali che $\gcd(a, b) = 1$ e $b \le 15$. Se questa frazione viene scelta come quella più vicina a $\dfrac{3}{4}$ tra tutte le frazioni di questo tipo, qual è il valore di $a + b$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2025_sep07#q11|src_ioqm_2025_sep07__Q11]]
 
 
 
@@ -324,9 +396,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque cifre $\overline{abcab}$ divisibili per $\overline{ab}$ ma non 13; somma di più grandi cifre*
+*$\overline{abcab}$ a cinque cifre, divisibile per $\overline{ab}$ ma non per 13; somma delle cifre massima*
 
-> Considera gli integri positivi a cinque cifre della forma $\overline{abcab}$ divisibili dal numero a due cifre $\overline{ab}$ ma non divisibili per 13. Qual è la somma più grande possibile dei numeri di un tale numero?
+> Si considerino i numeri interi positivi di cinque cifre della forma $\overline{abcab}$ che sono divisibili per il numero di due cifre $\overline{ab}$ ma non sono divisibili per 13. Qual è la somma massima possibile delle cifre di un tale numero?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2025_sep07#q12|src_ioqm_2025_sep07__Q12]]
 
 
 
@@ -349,9 +428,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterali con lati e angoli dati 30° e 90°; angolo acuto tra le diagonali*
+*Quadrilatero con lati dati e angoli di 30° e 90°; angolo acuto tra le diagonali*
 
-> I tre lati di un quadrilaterale sono $a = 4\sqrt{3}$, $b = 9$ e $c = \sqrt{3}$. I lati $a$ e $b$ contengono un angolo di $30^\circ$, e i lati $b$ e $c$ contengono un angolo di $90^\circ$. Se l'angolo acuto tra le diagonali è $x^\circ$, qual è il valore di $x$?
+> Tre lati di un quadrilatero sono $a = 4\sqrt{3}$, $b = 9$ e $c = \sqrt{3}$. I lati $a$ e $b$ racchiudono un angolo di $30^\circ$, e i lati $b$ e $c$ racchiudono un angolo di $90^\circ$. Se l'angolo acuto tra le diagonali è $x^\circ$, qual è il valore di $x$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2025_sep07#q13|src_ioqm_2025_sep07__Q13]]
 
 
 
@@ -376,9 +462,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale f(mn+1)=f(m) f(n)-f(n)-m+2, f(0)=1; più grande N con la somma f(k)<100*
+*Equazione funzionale f(mn+1)=f(m)f(n)-f(n)-m+2, f(0)=1; massimo N tale che la somma di f(k) sia <100*
 
-> Una funzione $f$ è definita sull'insieme di integri in modo tale che per due integri $m$ e $n$, $$f(mn + 1) = f(m)f(n) - f(n) - m + 2$$ è mantenuta e $f(0) = 1$. Determinare il più grande intero positivo $N$ tale che $\displaystyle\sum_{k=1}^{N} f(k) < 100$.
+> Una funzione $f$ è definita sull'insieme dei numeri interi in modo tale che, per qualsiasi coppia di numeri interi $m$ e $n$,
+> $$f(mn + 1) = f(m)f(n) - f(n) - m + 2$$
+> vale e $f(0) = 1$. Determinare il più grande numero intero positivo $N$ tale che $\displaystyle\sum_{k=1}^{N} f(k) < 100$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2025_sep07#q14|src_ioqm_2025_sep07__Q14]]
 
 
 
@@ -401,9 +496,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*6 coupon e 6 bulleti; coppie inserite insieme in bulleti; nessun coupon in bulleto con numero identico*
+*6 coupon e 6 buste; le coppie sono inserite insieme nelle buste; nessun coupon nella busta con lo stesso numero*
 
-> Esistono sei cuponi numerati da 1 a 6 e sei buste, anche numerati da 1 a 6. I primi due coupon sono messi insieme in una sola busta. Allo stesso modo, il terzo e il quarto sono messi insieme in una busta diversa, e gli ultimi due sono messi insieme in un'altra busta diversa. Quanti modi si può fare se non si inserisce un coupon nella busta con lo stesso numero del coupon?
+> Ci sono sei buoni numerati da 1 a 6 e sei buste, anch'esse numerate da 1 a 6. I primi due buoni vengono messi insieme in una qualsiasi busta. Allo stesso modo, il terzo e il quarto vengono messi insieme in un'altra busta diversa, e gli ultimi due vengono messi insieme in un'altra busta ancora diversa. In quanti modi si può procedere, se nessun buono viene messo nella busta che ha lo stesso numero del buono?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2025_sep07#q15|src_ioqm_2025_sep07__Q15]]
 
 
 
@@ -428,9 +530,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomi di due gradi-2 con determinate condizioni di rapporto; trovare f(5)*
+*Due polinomi di secondo grado con condizioni sul rapporto assegnate; trovare f(5)*
 
-> Lasciate che $f(x)$ e $g(x)$ siano due polinomi di grado 2 in modo tale che $$\frac{f(-2)}{g(-2)} = \frac{f(3)}{g(3)} = 4.$$ Se $g(5) = 2$, $f(7) = 12$, $g(7) = -6$, qual è il valore di $f(5)$?
+> Siano $f(x)$ e $g(x)$ due polinomi di secondo grado tali che
+> $$\frac{f(-2)}{g(-2)} = \frac{f(3)}{g(3)} = 4.$$
+> Se $g(5) = 2$, $f(7) = 12$, $g(7) = -6$, qual è il valore di $f(5)$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2025_sep07#q16|src_ioqm_2025_sep07__Q16]]
 
 
 
@@ -453,9 +564,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Parallelogramma MTAI con area 40/41 e MI=1/MT; il quadrato della diagonale minore MA è uguale a a/b; trova |a-b|*
+*Parallelogramma MTAI con area 40/41 e MI=1/MT; il quadrato della diagonale minore MA è uguale a a/b; trovare |a-b|*
 
-> $MTAI$ è un parallelogramma di unità quadrate di superficie $\dfrac{40}{41}$ tale che $MI = 1/MT$. Se $d$ è la lunghezza minima possibile della diagonale $MA$ e $d^2 = \dfrac{a}{b}$, dove $a, b$ sono interi positivi con $\gcd(a, b) = 1$, trovare $|a - b|$.
+> $MTAI$ è un parallelogramma di area $\dfrac{40}{41}$ unità quadrate tale che $MI = 1/MT$. Se $d$ è la lunghezza minima possibile della diagonale $MA$, e $d^2 = \dfrac{a}{b}$, dove $a, b$ sono interi positivi con $\gcd(a, b) = 1$, determina $|a - b|$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2025_sep07#q17|src_ioqm_2025_sep07__Q17]]
 
 
 
@@ -478,9 +596,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazioni di cifre di 223334444; contare numeri interi a nove cifre con almeno un 3 a destra dell'ultimo 4*
+*Permutazioni delle cifre di 223334444; conta gli interi di nove cifre con almeno un 3 a destra dell'ultimo 4*
 
-> $N$ sia il numero di numeri interi a nove cifre che possono essere ottenuti permutando i numeri di 223334444 e che hanno almeno un 3 a destra della frequenza più a destra di 4. Qual è il rimanente quando $N$ è diviso per 100?
+> Sia $N$ il numero di interi di nove cifre che si possono ottenere permutando le cifre di 223334444 e che hanno almeno un 3 a destra dell'occorrenza più a destra del 4. Qual è il resto della divisione di $N$ per 100?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2025_sep07#q18|src_ioqm_2025_sep07__Q18]]
 
 
 
@@ -503,9 +628,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo retto ABC, DEFG quadrato con F su AC, G su un cerchio incentrato su A; trovare superficie di DEFG*
+*Triangolo rettangolo ABC, quadrato DEFG con F su AC e G su una circonferenza avente centro in A; trovare l'area di DEFG*
 
-> In triangolo $ABC$, $\angle B = 90^\circ$, $AB = 1$ e $BC = 2$. Sul lato $BC$ ci sono due punti $D$ e $E$ in modo tale che $E$ si trova tra $C$ e $D$ e $DEFG$ è un quadrato, dove $F$ si trova su $AC$ e $G$ si trova sul cerchio attraverso $B$ con il centro $A$. Se l'area di $DEFG$ è $\dfrac{m}{n}$, dove $m$ e $n$ sono integri positivi con $\gcd(m, n) = 1$, qual è il valore di $m + n$?
+> Nel triangolo $ABC$, $\angle B = 90^\circ$, $AB = 1$ e $BC = 2$. Sul lato $BC$ ci sono due punti $D$ e $E$ tali che $E$ giace tra $C$ e $D$ e $DEFG$ è un quadrato, dove $F$ giace su $AC$ e $G$ giace sulla circonferenza passante per $B$ con centro $A$. Se l'area di $DEFG$ è $\dfrac{m}{n}$, dove $m$ e $n$ sono interi positivi con $\gcd(m, n) = 1$, qual è il valore di $m + n$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2025_sep07#q19|src_ioqm_2025_sep07__Q19]]
 
 
 
@@ -531,11 +663,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*f(n) = rimanente di n^n diviso per 7; periodo più piccolo T*
+*f(n)=resto della divisione di n^n per 7; periodo minimo T*
 
-> $f$ sia la funzione definita da $$f(n) = \text{remainder when } n^n \text{ is divided by } 7,$$ per tutti gli integri positivi $n$. Trova il numero intero positivo $T$ più piccolo tale che $f(n + T) = f(n)$ per tutti i numeri interi positivi $n$.
+> Sia $f$ la funzione definita da
+> $$f(n) = \text{remainder when } n^n \text{ is divided by } 7,$$
+> per tutti gli interi positivi $n$. Trovare il più piccolo intero positivo $T$ tale che $f(n + T) = f(n)$ per tutti gli interi positivi $n$.
 
-**Risposta:** 42
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2025_sep07#q20|src_ioqm_2025_sep07__Q20]]
 
 
 
@@ -558,9 +697,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lista (a+1)n2, m2, a(n+1)2 è di tre integri consecutivi; più grande m2*
+*La lista (a+1)n², m², a(n+1)² contiene tre interi consecutivi; il valore massimo di m²*
 
-> Per alcuni numeri reali $m$, $n$ e un intero positivo $a$, l'elenco $(a+1)n^2, m^2, a(n+1)^2$ è composto da tre numeri interi consecutivi scritti in ordine crescente. Qual è il valore più grande possibile di $m^2$?
+> Per alcuni numeri reali $m$, $n$ e un intero positivo $a$, la lista $(a+1)n^2, m^2, a(n+1)^2$ è costituita da tre interi consecutivi scritti in ordine crescente. Qual è il valore massimo possibile di $m^2$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2025_sep07#q21|src_ioqm_2025_sep07__Q21]]
 
 
 
@@ -583,9 +729,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le coppie vincenti (m,n) *
+*Gioco delle biglie con m biglie blu e n rosse; Armaan sceglie l'ultima biglia rossa; conta le coppie vincenti (m,n)*
 
-> Su un tavolo ci sono marmi blu $m$ e marmi rossi $n$. Armaan e Babita giocano a turni. In ogni turno il giocatore deve scegliere un marmo del colore di sua scelta. Armaan inizia per primo, e il giocatore che sceglie l'ultimo marmo rosso vince. Per quante scelte di $(m, n)$ con $1 \le m, n \le 11$ Armaan può forzare una vittoria?
+> Sul tavolo ci sono $m$ biglie blu e $n$ biglie rosse. Armaan e Babita giocano a turni. A ogni turno, il giocatore deve scegliere una biglia del colore che preferisce. Armaan inizia per primo, e vince il giocatore che prende l'ultima biglia rossa. Per quante scelte di $(m, n)$ con $1 \le m, n \le 11$ Armaan può imporsi la vittoria?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2025_sep07#q22|src_ioqm_2025_sep07__Q22]]
 
 
 
@@ -608,9 +761,16 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rectangle ABCD, punti M su AB e N su BC con MC=CD, MD=MN, C,D,M,N conciclici; trovare m+n*
+*Rettangolo ABCD, punti M su AB e N su BC tali che MC=CD, MD=MN, i punti C, D, M, N sono concyclici; trovare m+n*
 
-> Il $ABCD$ è un rettangolo e il $M$, il $N$ sono punti che si trovano rispettivamente sui lati $AB$ e $BC$. Supponiamo che $MC = CD$ e $MD = MN$, e che i punti $C$, $D$, $M$, $N$ si trovino su un cerchio. Se $(AB/BC)^2 = m/n$ dove $m$ e $n$ sono integri positivi con $\gcd(m, n) = 1$, qual è il valore di $m + n$?
+> Sia $ABCD$ un rettangolo e siano $M$, $N$ dei punti giacenti sui lati $AB$ e $BC$, rispettivamente. Si supponga che $MC = CD$ e $MD = MN$, e che i punti $C$, $D$, $M$, $N$ giacciano su una circonferenza. Se $(AB/BC)^2 = m/n$, dove $m$ e $n$ sono interi positivi con $\gcd(m, n) = 1$, qual è il valore di $m + n$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2025_sep07#q23|src_ioqm_2025_sep07__Q23]]
 
 
 
@@ -633,9 +793,16 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 <div class="qlang-split" data-lang="it"></div>
 
 
-*P(x)=x^2025 diviso da Q(x)=x^4+x^3+2x^2+x+1; trovare R(3)*
+*P(x)=x^2025 diviso per Q(x)=x^4+x^3+2x^2+x+1; trova R(3)*
 
-> Per esempio, $P(x) = x^{2025}$, $Q(x) = x^4 + x^3 + 2x^2 + x + 1$. $R(x)$ sia il residuo polinomial quando il polinomial $P(x)$ è diviso dal polinomial $Q(x)$. Trova $R(3)$.
+> Siano $P(x) = x^{2025}$, $Q(x) = x^4 + x^3 + 2x^2 + x + 1$. Sia $R(x)$ il resto della divisione del polinomio $P(x)$ per il polinomio $Q(x)$. Determinare $R(3)$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2025_sep07#q24|src_ioqm_2025_sep07__Q24]]
 
 
 
@@ -658,9 +825,16 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per quanti n di {1,...,37} può essere diviso in n coppie con prodotto delle somme al quadrato*
+*Per quanti n in {1,...,37} l'insieme {1,...,2n} può essere suddiviso in n coppie tali che il prodotto delle somme sia un quadrato?*
 
-> Per quanti numeri $n$ nel set $\{1, 2, 3, \ldots, 37\}$ possiamo dividere i numeri $2n$ $1, 2, \ldots, 2n$ in coppie $n$ $\{a_i, b_i\}$, $1 \le i \le n$, in modo che $\displaystyle\prod_{i=1}^{n}(a_i + b_i)$ sia un quadrato?
+> Per quanti numeri $n$ nell'insieme $\{1, 2, 3, \ldots, 37\}$ possiamo suddividere i $2n$ numeri $1, 2, \ldots, 2n$ in $n$ coppie $\{a_i, b_i\}$, $1 \le i \le n$, in modo che $\displaystyle\prod_{i=1}^{n}(a_i + b_i)$ sia un quadrato?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2025_sep07#q25|src_ioqm_2025_sep07__Q25]]
 
 
 
@@ -683,9 +857,16 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con medie strettamente in aumento a 4 termini e medie strettamente in diminuzione a 7 termini; lunghezza massima*
+*Successione con medie su 4 termini strettamente crescenti e medie su 7 termini strettamente decrescenti; lunghezza massima*
 
-> Considerate una sequenza di numeri reali di lunghezza finita. Le medie consecutive di quattro termini di questa sequenza aumentano strettamente, ma le medie di sette termini consecutivi diminuiscono strettamente. Qual è la lunghezza massima possibile di tale sequenza?
+> Si consideri una successione di numeri reali di lunghezza finita. Le medie di quattro termini consecutivi di questa successione sono strettamente crescenti, mentre le medie di sette termini consecutivi sono strettamente decrescenti. Qual è la lunghezza massima possibile di una tale successione?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2025_sep07#q26|src_ioqm_2025_sep07__Q26]]
 
 
 
@@ -710,9 +891,18 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i tripli ordinati (a,b,c) con 1 ≤a,b,c≤50 soddisfacenti (lcm(a,c)+lcm(b,c))/(a+b)=26c/27*
+*Conta le terne ordinate (a,b,c) tali che 1≤a,b,c≤50 e (lcm(a,c)+lcm(b,c))/(a+b)=26c/27*
 
-> Trova il numero di triples ordinati $(a, b, c)$ di enti interi positivi come $1 \le a, b, c \le 50$ che soddisfano la relazione $$\frac{\text{lcm}(a, c) + \text{lcm}(b, c)}{a + b} = \frac{26c}{27}.$$ Qui, con $\text{lcm}(x, y)$ intendiamo il LCM, cioè il più piccolo comune multiple di $x$ e $y$.
+> Trovare il numero di triple ordinate $(a, b, c)$ di interi positivi tali che $1 \le a, b, c \le 50$, che soddisfano la relazione
+> $$\frac{\text{lcm}(a, c) + \text{lcm}(b, c)}{a + b} = \frac{26c}{27}.$$
+> Qui, per $\text{lcm}(x, y)$ si intende il mcm, cioè il minimo comune multiplo di $x$ e $y$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2025_sep07#q27|src_ioqm_2025_sep07__Q27]]
 
 
 
@@ -735,9 +925,16 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posibile intero non quadrato a; sqrt(x-sqrt(x+a))=sqrt(a)-y; più grande a<100*
+*Intero positivo non quadrato a; sqrt(x-sqrt(x+a))=sqrt(a)-y; massimo a<100*
 
-> Supponiamo che $a$ sia un intero positivo che non sia un quadrato perfetto. $x, y$ siano integri non negativi come $\sqrt{x - \sqrt{x + a}} = \sqrt{a} - y$. Qual è il più grande valore possibile di $a$ tale che $a < 100$?
+> Sia $a$ un numero intero positivo che non è un quadrato perfetto. Siano $x, y$ numeri interi non negativi tali che $\sqrt{x - \sqrt{x + a}} = \sqrt{a} - y$. Qual è il valore massimo possibile di $a$ tale che $a < 100$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2025_sep07#q28|src_ioqm_2025_sep07__Q28]]
 
 
 
@@ -760,9 +957,16 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Regular n-gon colorato se 6 colori consentono ogni 5 vertici consecutivi di differire; più grande n non colorato*
+*n-gono regolare colorato sse 6 colori consentono che ogni 5 vertici consecutivi siano diversi; massimo n non colorato*
 
-> Si dice che un poligono regolare con vertici $n \ge 5$ sia colorato se è possibile colorare i vertici utilizzando al massimo 6 colori in modo tale che ogni vertice sia colorato esattamente con un colore e in modo tale che ogni 5 vertici consecutivi abbiano colori diversi. Trova il numero più grande $n$ per il quale un poligono regolare con vertici $n$ è \textbf{not} colorato.
+> Un poligono regolare con $n \ge 5$ vertici si dice colorato se è possibile colorare i vertici usando al più 6 colori in modo che ciascun vertice sia colorato con esattamente un colore e che cinque vertici consecutivi qualsiasi abbiano colori diversi. Determinare il più grande numero $n$ per cui un poligono regolare con $n$ vertici non è \textbf{colorato}.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2025_sep07#q29|src_ioqm_2025_sep07__Q29]]
 
 
 
@@ -786,8 +990,13 @@ Gioco di marmo con m blu e n rosso; Armaan sceglie l'ultimo rosso; contare le co
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Radio S del cerchio 10; S1 e S2 toccano S internamente e si incontrano a due punti A, B; angolo OAB=90°; somma dei raggi*
+*Cerchio S di raggio 10; S1 e S2 toccano S internamente e si intersecano in due punti A, B; angolo OAB=90°; somma dei raggi*
 
-> Il $S$ deve essere un cerchio di raggio 10 con il centro $O$. Supponiamo che $S_1$ e $S_2$ siano due cerchi che toccano $S$ internamente e si incrociano a due punti distinti $A$ e $B$. Se $\angle OAB = 90^\circ$, qual è la somma dei raggi di $S_1$ e $S_2$?
+> Sia $S$ una circonferenza di raggio 10 con centro $O$. Si supponga che $S_1$ e $S_2$ siano due circonferenze che toccano internamente $S$ e si intersecano in due punti distinti, $A$ e $B$. Se $\angle OAB = 90^\circ$, qual è la somma dei raggi di $S_1$ e $S_2$?
 
-**Risposta:** 10
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2025_sep07#q30|src_ioqm_2025_sep07__Q30]]

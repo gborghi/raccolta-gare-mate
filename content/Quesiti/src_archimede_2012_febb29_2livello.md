@@ -36,17 +36,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-From* to MSK-b+1, what relationship is necessarily worth
+*Relation that must hold given |3a−b+1| = |b|*
 
-> Two real numbers are given to a b such that ∙3a −b + 1  = e ∙b ∙ Then you have to. . .
+> Two real numbers a and b are given such that |3a −b + 1| = |b|. Then necessarily one has. . .
 >
 > - **(A)** b = 0
 > - **(B)** a = −1 3
 > - **(C)** a < 0
 > - **(D)** b = 3a + 1 2
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q01|src_archimede_2012_febb29_2livello__Q01]]
 
 
 
@@ -82,17 +86,27 @@ From* to MSK-b+1, what relationship is necessarily worth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Foosball tournament, minimum goal difference with the mathematicians winning*
+*Torneo biliardino, scarto minimo di goal coi matematici vincitori*
 
-> Marco, Fabrizio and Giovanni, three mathematicians, challenge a group of four physicists to a ballilla football tournament (consisting of a number of matches) in which the group that scored the most total goals eventually wins. In each match, physicists score 2 more goals than they had in the previous one, starting with 1 goal in the first. Knowing that the total number of goals scored by physicists and mathematicians is 330 and that it is the mathematicians who award themselves the victory in the tournament, determine the minimum gap of goals that may have occurred.
+> Marco, Fabrizio e Giovanni, tre matematici, sfidano un gruppo di quattro fisici a un torneo di calcio
+> balilla (costituito da un certo numero di partite) in cui alla fine vince il gruppo che ha segnato il
+> maggior numero di goal totali.
+> In ogni partita i fisici segnano 2 goal in più di quanti ne avevano segnati nella precedente, a partire
+> da 1 goal nella prima. Sapendo che il totale dei goal segnati da fisici e matematici è 330 e che sono
+> i matematici ad aggiudicarsi la vittoria nel torneo, determinare lo scarto minimo di goal che può
+> essersi verificato.
 >
 > - **(A)** 1 goal
-> - **(B)** 2 goals
-> - **(C)** 24 goals
-> - **(D)** 42 goals
-> - **(E)** 48 goals.
+> - **(B)** 2 goal
+> - **(C)** 24 goal
+> - **(D)** 42 goal
+> - **(E)** 48 goal.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q02|src_archimede_2012_febb29_2livello__Q02]]
 
 
 
@@ -124,9 +138,9 @@ From* to MSK-b+1, what relationship is necessarily worth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Treasure distance equidistant from the vertices of a right triangle*
+*Distance of a treasure equidistant from the vertices of a right triangle*
 
-> Alice, Berto, and Charles have to bury a treasure and decide to bury it at a point equidistant from the three of them. Knowing that they are at the summits of a right triangle with an angle of 30° and a perimeter of 6 m, what will be the distance of the treasure from each?
+> Alice, Berto and Carlo must bury a treasure and decide to bury it at a point equidistant from all three. Knowing that they are at the vertices of a right triangle with a 30° angle and perimeter 6 m, what will be the distance of the treasure from each?
 >
 > - **(A)** 1 m
 > - **(B)** 3 2 m
@@ -134,7 +148,11 @@ From* to MSK-b+1, what relationship is necessarily worth
 > - **(D)** 3 − √ 3 m
 > - **(E)** 3 m.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q03|src_archimede_2012_febb29_2livello__Q03]]
 
 
 
@@ -165,9 +183,10 @@ From* to MSK-b+1, what relationship is necessarily worth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Radices of 2x^3-7x^2-2x+12 with 4a=3(b+c), calculated as a+bc*
+*Roots of 2x^3-7x^2-2x+12 with 4a=3(b+c), calculate a+bc*
 
-> From the three roots a, b, c of the polynomial 2x3 −7x2 −2x + 12 we know that 4a = 3(b + c). How much is a + bc?
+> Of the three roots a, b, c of the polynomial 2x^3 −7x^2 −2x + 12 we know that 4a = 3(b + c). What is the value of
+> a + bc?
 >
 > - **(A)** −5 2
 > - **(B)** 1 − √ 3
@@ -175,7 +194,11 @@ From* to MSK-b+1, what relationship is necessarily worth
 > - **(D)** 7 4
 > - **(E)** 2 + √
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q04|src_archimede_2012_febb29_2livello__Q04]]
 
 
 
@@ -205,17 +228,21 @@ From* to MSK-b+1, what relationship is necessarily worth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Self-referenced statements, identifying false one*
+*False one among self-referential statements*
 
-> 5. Each of the following statements is false. What kind?
+> 5. Exactly one of the following statements is false. Which one?
 >
-> - **(A)** B is false
-> - **(B)** The (C) is false
-> - **(C)** The (E) is true
-> - **(D)** The (A) is true
-> - **(E)** Three of the foregoing are true.
+> - **(A)** "(B) is false"
+> - **(B)** "(C) is false"
+> - **(C)** "(E) is true"
+> - **(D)** "(A) is true"
+> - **(E)** "Three of the previous ones are true".
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q05|src_archimede_2012_febb29_2livello__Q05]]
 
 
 
@@ -251,19 +278,20 @@ From* to MSK-b+1, what relationship is necessarily worth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colored area between tangent arcs in square side 2*
+*Coloured area between tangent arcs in a square of side 2*
 
-![[src_archimede_2012_febb29_2livello__prob6.png]]
-
-> In a square on side 2 are drawn arcs of circumference of equal length tangent to each other at their points of intersection, which are the vertices of the square (as shown in Figure 1). Inside these is built another square with sides parallel to those of the first and tangent to the four arcs of circumference. How much is the colored area worth?
+> In a square of side 2, circular arcs of equal length are drawn, tangent to one another at their intersection points, which are the vertices of the square (as in the figure). Inside these, another square is constructed, with sides parallel to those of the first and tangent to the four circular arcs. What is the coloured area?
 >
 > - **(A)** π 16
 > - **(B)** 2(8 √ 2 −8 −π)
 > - **(C)** 4 −π − √ 2 2 !2
 > - **(D)** 2π −4 √ 2 −1 4
-> - **(E)** It is not uniquely determined.
+> - **(E)** it is not uniquely determined.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q06|src_archimede_2012_febb29_2livello__Q06]]
 
 
 
@@ -296,9 +324,9 @@ From* to MSK-b+1, what relationship is necessarily worth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ink increases/decreases, between the three years of 2012*
+*Ink grows/shrinks; in how many years will it be triple the 2012 amount for the first time*
 
-> The amount of ink used to compose a text for the Olympics of Mathematics follows a strange law: in odd years it increases by 50% compared to the previous year, in even years it decreases by a sixth (always compared to the previous year). How many years from now, for the first time, will it be at least triple that in 2012?
+> The amount of ink used to compose a text for the Mathematical Olympiads follows a strange law: in odd years it increases by 50% compared to the previous year, in even years it decreases by one sixth (always compared to the previous year). In how many years will it be at least triple the 2012 amount for the first time?
 >
 > - **(A)** 5
 > - **(B)** 6
@@ -306,7 +334,11 @@ From* to MSK-b+1, what relationship is necessarily worth
 > - **(D)** 8
 > - **(E)** 9.
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q07|src_archimede_2012_febb29_2livello__Q07]]
 
 
 
@@ -339,7 +371,7 @@ From* to MSK-b+1, what relationship is necessarily worth
 
 *Minimum a+b with 21ab^2 and 15ab perfect cubes*
 
-> The numbers a, b are positive integers. What's the minimum value of a + b so that 21ab2 and 15ab are both perfect cubes?
+> The numbers a, b are positive integers. What is the minimum value of a + b such that 21ab^2 and 15ab are both perfect cubes?
 >
 > - **(A)** 160
 > - **(B)** 260
@@ -347,7 +379,11 @@ From* to MSK-b+1, what relationship is necessarily worth
 > - **(D)** 460
 > - **(E)** 560.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q08|src_archimede_2012_febb29_2livello__Q08]]
 
 
 
@@ -377,16 +413,20 @@ From* to MSK-b+1, what relationship is necessarily worth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Isosceles trapezoidal area with diagonal and angle of 150 degrees*
+*Area of an isosceles trapezium from the diagonals and a 150-degree angle*
 
-> In an isosceles trapezoid the junction point of the diagonal sees the minor base below an angle of 150° and each diagonal is 6 cm long. What's the area of the trapezoid?
+> In an isosceles trapezium, the point where the diagonals meet sees the shorter base at an angle of 150°, and each diagonal is 6 cm long. What is the area of the trapezium?
 >
-> - **(A)** 9 cm2
-> - **(B)** 16 cm2
-> - **(C)** 24 cm2
+> - **(A)** 9 cm²
+> - **(B)** 16 cm²
+> - **(C)** 24 cm²
 > - **(D)** the data are insufficient (E) none of the above.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q09|src_archimede_2012_febb29_2livello__Q09]]
 
 
 
@@ -419,17 +459,21 @@ From* to MSK-b+1, what relationship is necessarily worth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting keywords with character restrictions E N V*
+*Counting keyword strings with constraints on the letters E N V*
 
-> To enter Burian Castle you must use a keyword that consists of at least 6 characters; furthermore, a character can never be repeated two or more times consecutively, and a pair of consecutive characters cannot appear at another point in the keyword. On the keyboard now only the letters E, N and V work: how many different keywords can you try?
+> To enter Burian castle you must use a keyword consisting of at least 6 characters; moreover, a character can never be repeated two or more times consecutively, and a pair of consecutive characters cannot appear anywhere else in the keyword. On the keypad only the letters E, N and V work: how many different keywords can be tried?
 >
 > - **(A)** 6
 > - **(B)** 18
 > - **(C)** 62
 > - **(D)** 26
-> - **(E)** I'm not going to end it.
+> - **(E)** infinite.
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q10|src_archimede_2012_febb29_2livello__Q10]]
 
 
 
@@ -466,9 +510,9 @@ From* to MSK-b+1, what relationship is necessarily worth
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Footprint divided by 12 product differences of squares, safe days*
+*A fairy divides by 12 the product of differences of squares, safe days*
 
-> There's a fool who lives in the fairy world. One day you choose 12 pairs of positive numbers: those of the first are odd, those of the second are 1 if divided by 3, those of the third are 1 if divided by 4, and so on until the twelfth. He then calculates the difference in the squares of the numbers of each pair and writes on a board the product of all the differences obtained. From the next morning, he divides the number on the board by 12 and, if the result is whole, he writes this result instead of the number that was on the board; if it's not whole, he erases everything and moves into the human world to joke. For how many days (except the initial one where the booklet chooses the numbers) are we sure that we will have no problems in our world?
+> A fairy lives in the world of fairies. One certain day she chooses 12 pairs of positive numbers: those of the first are odd, those of the second leave remainder 1 when divided by 3, those of the third leave remainder 1 when divided by 4, and so on up to the twelfth. Then she calculates the difference of the squares of the numbers in each pair and writes on a blackboard the product of all the differences obtained. From the next morning, she divides by 12 the number on the blackboard and, if the result is an integer, writes this result in place of the number that was on the blackboard; if it is not an integer, she erases everything and moves to the world of humans to play pranks. For how many days (excluding the initial day in which the fairy chooses the numbers) are we sure that we will have no problems in our world?
 >
 > - **(A)** 4
 > - **(B)** 5
@@ -476,7 +520,11 @@ From* to MSK-b+1, what relationship is necessarily worth
 > - **(D)** 8
 > - **(E)** 12.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q11|src_archimede_2012_febb29_2livello__Q11]]
 
 
 
@@ -510,17 +558,20 @@ From* to MSK-b+1, what relationship is necessarily worth
 <div class="qlang-split" data-lang="en"></div>
 
 
-Blue coin revolving around three reds, number of turns*
+*Blue coin rotates around three red ones, number of turns*
 
-> Mary has three red and one blue coins, all of the same radius and with a rubber edge. He puts the three red coins on the table at the tips of an equilateral triangle so that they touch two by two, then he puts the blue one on the table so that he touches one of the red coins. Now, by holding the red coins tight, he rotates the blue one so that it always stays attached to at least one of the red coins and the rubber edges do not slip. After a complete journey around the group of the three red coins, the blue coin returns to its starting point; how many turns has it made on itself?
+> Maria has three red coins and one blue one, all of the same radius and with a rubber edge. She places the three red coins on the table at the vertices of an equilateral triangle so that they touch each other pairwise, then she also places the blue one on the table so that it touches one of the red coins. Now, keeping the red coins fixed, she makes the blue one rotate so that it always remains in contact with at least one of the red coins and the rubber edges do not slip. After a complete path around the group of the three red coins, the blue coin returns to the starting point; how many turns has it made on itself?
 >
 > - **(A)** 3
 > - **(B)** 1
 > - **(C)** π
 > - **(D)** 3π 4
-> - **(E)** 9 2. Problems with numerical answer  5 points
+> - **(E)** 9 2. Problemi a risposta numerica – 5 punti
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q12|src_archimede_2012_febb29_2livello__Q12]]
 
 
 
@@ -545,11 +596,15 @@ Blue coin revolving around three reds, number of turns*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First difference, perfect square product, maximum first p*
+*Difference of two positive integers is a prime p, their product is a perfect square not exceeding 10000; find the maximum possible value of p*
 
-> The difference of two positive integers a and b is a prime number p and their product is a perfect square not exceeding 10,000. What is the maximum value that p can assume?
+> The difference of two positive integers $a$ and $b$ is a prime number $p$ and their product is a perfect square not exceeding 10000. What is the maximum value that $p$ can take?
 
-**Answer:** 19
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q13|src_archimede_2012_febb29_2livello__Q13]]
 
 
 
@@ -576,11 +631,15 @@ Blue coin revolving around three reds, number of turns*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of red dots (nearest to A) in a given triangle*
+*Area of the red points (closest to A) in a given triangle*
 
-> ABC is an acute triangle and H is the foot of height relative to the vertex A. Let's color every point P inside the triangle this way: red if the nearest vertex to P is A; green if the nearest vertex to P is B; blue if the nearest vertex to P is C. Knowing that AH = 35, BH = 21 and CH = 15, what is the size of the area formed by the red dots?
+> Let ABC be an acute triangle and H the foot of the altitude relative to vertex A. Colour every point P inside the triangle in this way: red, if the vertex closest to P is A; green, if the vertex closest to P is B; blue, if the vertex closest to P is C. Knowing that AH = 35, BH = 21 and CH = 15, what is the area formed by the red points?
 
-**Answer:** 198
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q14|src_archimede_2012_febb29_2livello__Q14]]
 
 
 
@@ -614,9 +673,19 @@ Blue coin revolving around three reds, number of turns*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Martino roulette strategy, minimum play and final capital
+*Martino's roulette strategy, minimum bets and final capital*
 
-> MARTINO thinks he has discovered a method to win at roulette, or at least not to lose too much money. Always point at the red. He starts by betting 1 euro; every time he loses, he doubles the previous bet, while every time he wins the next bet, he points 1 euro. One day he's got 31 euros and he's going to gamble and decide that he's going to leave just about, or he's going to lose five times in a row, or he's going to win five times in a row, or he's going to run out of money before one of these two possibilities happens. (a) What will be the minimum number of bets you will have to make before you finish playing with €31 if you lose 5 games? (b) What will be the minimum number of bets you will have to make before you finish playing with €31 if you win 5? (c) If he comes out with five wins, what will be his final capital at least?
+> DEMONSTRATIVE EXERCISE
+> Martino thinks he has discovered a method to win at roulette, or at least not to lose too much money. He always bets on red. He starts by betting 1 euro; each time he loses he doubles the previous bet, while each time he wins he bets 1 euro on the next bet. One day he has 31 euro with him and goes to play, deciding that he will leave as soon as either he has lost 5 times in a row, or he has won 5 times in a row, or he has run out of money before either of these two possibilities has occurred.
+> (a) What will be the minimum number of bets he will have to make so that he finishes playing with 31 euro, if he leaves with 5 defeats?
+> (b) What will be the minimum number of bets he will have to make so that he finishes playing with 31 euro, if he leaves with 5 victories?
+> (c) If he leaves with 5 victories, what will be his final capital at minimum?
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q15|src_archimede_2012_febb29_2livello__Q15]]
 
 
 
@@ -650,9 +719,24 @@ Martino roulette strategy, minimum play and final capital
 <div class="qlang-split" data-lang="en"></div>
 
 
-*constant and monotonous values*
+*constant values and monotonicity*
 
-> One sequence of n is 0, 1, 2, . . . } of real numbers is defined, when the real parameter a varies, as follows: (x0 = a, xn+1 = 2 −x2 n for n ≥1. (a) Find all the values of a for which xn is constant (i.e. xn = a for all n). (b) Demonstrate that for one of the values found in point (a) (which we will call y) we have that, if \a \a \a \y \y \y \y \x \y \y \y\y for all n (c) Demonstrate, if ∈ R > ∈ R, that xn is strictly decreasing.
+> PROOF EXERCISE
+> A sequence {xn | n = 0, 1, 2, . . . } of real numbers is defined, depending on the real parameter a, as follows:
+> (
+> x0 = a,
+> xn+1 = 2 −x2
+> n
+> for n ≥1.
+> (a) Find all values of a for which xn is constant (i.e. xn = a for all n).
+> (b) Prove that for one of the values found in part (a) (which we call y), if |a| < |y|, then |xn| < |y| for all n.
+> (c) Prove that, if |a| > |y|, then xn is strictly decreasing.
+
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_disuguaglianze|Classical inequalities]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q16|src_archimede_2012_febb29_2livello__Q16]]
 
 
 
@@ -684,8 +768,15 @@ Martino roulette strategy, minimum play and final capital
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bissector, APR circus and STC similarities with APC*
+*Bisector, circumcentre of APR and similarity STC with APC*
 
-![[src_archimede_2012_febb29_2livello__prob17.png]]
+> PROOF EXERCISE
+> In an acute-angled triangle ABC with AB < AC, the bisector from A intersects side BC at point P. The parallel to side AB through P intersects side AC at point Q; on this line let R be the point lying on the ray from Q that does not contain P and such that QR = QA. Let S be the orthogonal projection of R onto BC and T the intersection of AC with the line through P perpendicular to AP.
+> (a) Prove that the circumcentre of APR is Q;
+> (b) Prove that STC is similar to APC.
 
-> In a triangle with an ABC angle with AB < AC, the bisector starting from A intersects the BC side at the point P. The parallel to the side AB passing through P intersects the side AC at the point Q; on this line R is the point lying on the semicircle out of Q that does not contain P and such that QR = QA. We then call S the orthogonal projection of R over BC and T the intersection between AC and the straight line passing through P and perpendicular to AP. (a) Demonstrate that the circus of APR is Q; (b) Demonstrate that STC is similar to APC.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2012_febb29_2livello#q17|src_archimede_2012_febb29_2livello__Q17]]

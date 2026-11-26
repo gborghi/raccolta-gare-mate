@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ogni bambino del campo 2010^2010 ha almeno tre amici; decidete se i bambini possono sempre essere elencati in modo che ogni coppia di amici abbia almeno 2010 bambini tra loro.*
+*Si possono sempre allineare i bambini con al più $2010$ fra due amici?*
 
-> Ci sono bambini in un campo di matematica. Ciascuno ha al massimo tre amici nel campo, e se $A$ è amico di $B$, allora $B$ è amico di $A$. Il capo del campo vorrebbe mettere in fila i bambini in modo che ci siano al massimo $2010$ bambini tra ogni coppia di amici. E' sempre possibile farlo?
+> Al campo di matematica ci sono $2010^{2010}$ bambini. Ciascuno ha al più tre amici al campo, e se $A$ è amico di $B$, allora $B$ è amico di $A$. Il capo del campo vorrebbe allineare i bambini in modo che fra qualunque coppia di amici ci siano al più $2010$ bambini. È sempre possibile farlo?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2010#q01|src_bmo2_2010__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel triangolo ABC con centroide G e D il punto medio di CA, la linea attraverso G parallela a BC incontra AB a E; prova angolo AEC = angolo DGC se angolo ACB = 90 gradi.*
+*$\angle AEC = \angle DGC$ se e solo se $\angle ACB = 90^\circ$*
 
-> Nel triangolo $ABC$ il centroide è $G$ e $D$ è il punto medio di $CA$. La linea attraverso $G$ parallela a $BC$ incontra $AB$ a $E$. Prove che $\angle AEC = \angle DGC$ se, e solo se, $\angle ACB = 90^\circ$. (Il centroide di un triangolo è l'intersezione dei tre mediani, le linee che uniscono ogni vertice al punto medio del lato opposto.)
+> Nel triangolo $ABC$ il baricentro è $G$ e $D$ è il punto medio di $CA$. La retta per $G$ parallela a $BC$ incontra $AB$ in $E$. Dimostrare che $\angle AEC = \angle DGC$ se e solo se $\angle ACB = 90^\circ$. (Il baricentro di un triangolo è l'intersezione delle tre mediane, le rette che congiungono ciascun vertice al punto medio del lato opposto.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2010#q02|src_bmo2_2010__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Con un intero x >= 3 e n = x^6 - 1, p primo e k un intero positivo con p^k dividendo n, mostrare p^{3k} < 8n.*
+*Se $p^k$ divide $n = x^6 - 1$, allora $p^{3k} < 8n$*
 
-> Il numero intero $x$ è almeno $3$ e $n = x^6 - 1$. Che $p$ sia un primo e $k$ un intero positivo tale che $p^k$ sia un fattore di $n$. Mostra che $p^{3k} < 8n$.
+> L'intero $x$ è almeno $3$ e $n = x^6 - 1$. Siano $p$ un primo e $k$ un intero positivo tali che $p^k$ sia un fattore di $n$. Dimostrare che $p^{3k} < 8n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2010#q03|src_bmo2_2010__Q03]]
 
 
 
@@ -105,6 +126,14 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza ciclica 4(x+y+z) ^3 > 27(x^2 y + y^2 z + z^2 x) per tutti i reali positivi x, y, z.*
+*Dimostrare che $4(x + y + z)^3 > 27(x^2 y + y^2 z + z^2 x)$*
 
-> Prova che, per tutti i numeri reali positivi $x$, $y$ e $z$, $$4(x + y + z)^3 > 27(x^2 y + y^2 z + z^2 x).$$
+> Dimostrare che, per tutti i numeri reali positivi $x$, $y$ e $z$,
+> $$4(x + y + z)^3 > 27(x^2 y + y^2 z + z^2 x).$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2010#q04|src_bmo2_2010__Q04]]

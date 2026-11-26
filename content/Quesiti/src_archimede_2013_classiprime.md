@@ -36,11 +36,20 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*MK unit numbers of 2^255 and 2^256*
+*Units digit of the LCM of 2^255 and 2^256*
 
-> So a is 2255 and b is 2256. What is the number of units of the common multiple of a and b? A 0 B 2 C 4 D 8 E 5 F 6
+> Let a = 2^255 and b = 2^256. What is the units digit of the least common multiple of a and b?
+> A 0
+> B 2
+> C 4
+> D 8
+> E 5
+> F 6
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2013_classiprime#q01|src_archimede_2013_classiprime__Q01]]
 
 
 
@@ -74,11 +83,21 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Compositions of a meal bound by red wine/fish*
+*Meal compositions with a red wine/fish constraint*
 
-> In the restaurant At the Zoo meals are made up of a second, a contour and a glass of wine. The second dish can be chosen from catfish, fishcake and steak; the outline between toasted potatoes, salad and peppers; the wine from white, red and pink. Whoever orders fish can't drink red wine. How many possible compositions of a meal? A 21 B 27 C 9 D 14 E 24 F 32
+> At the restaurant “Allo Zoo”, meals are made up of a main course, a side dish and a glass of wine. The main course can be chosen from catfish, shark and steak; the side dish from roast potatoes, salad and peppers; the wine from white, red and rosé. Anyone ordering fish cannot drink red wine. How many possible meal compositions are there?
+> A 21
+> B 27
+> C 9
+> D 14
+> E 24
+> F 32
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2013_classiprime#q02|src_archimede_2013_classiprime__Q02]]
 
 
 
@@ -109,11 +128,22 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible integers for the BC side of a triangle*
+*Possible integer values for side BC of a triangle*
 
-> In an ABC triangle we know that AB is 109.7 cm and AC is 112.6 cm and that the size of the side BC, expressed in cm, is whole. What are the possible different values for the length of the BC side? A 220 B 256 C 108 D 276 E 144 F 193
+> In a triangle ABC we know that AB = 109.7 cm and AC = 112.6 cm
+> and that the measure of side BC, expressed in cm, is an integer. How many are the possible
+> different values for the length of side BC?
+> A 220
+> B 256
+> C 108
+> D 276
+> E 144
+> F 193
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2013_classiprime#q03|src_archimede_2013_classiprime__Q03]]
 
 
 
@@ -146,11 +176,21 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Temptations to combine safe deposit boxes with fixed sums of figures*
+*Attempts to open a safe combination with fixed digit sums*
 
-> Albert forgot the combination of his safe, but he remembers that it was a four-digit number, all different from zero and not necessarily different from each other, and that the sum of the first and last digits is 9, while the sum of the second and third is 7. How many attempts will you have to make to open the safe? A 48 B 24 C 14 D 96 E 72 F 63
+> Alberto has forgotten the combination of his safe, but he remembers that it was a four-digit number, all of whose digits were non-zero and not necessarily distinct, and that the sum of the first and last digits is 9, while the sum of the second and third digits is 7. At most, how many attempts will he have to make to open the safe?
+> A 48
+> B 24
+> C 14
+> D 96
+> E 72
+> F 63
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2013_classiprime#q04|src_archimede_2013_classiprime__Q04]]
 
 
 
@@ -190,13 +230,25 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True statements about when a quadrilateral and a rope*
+*True statements about when a quadrilateral and a rhombus*
 
-![[src_archimede_2013_classiprime__prob5.png]]
+> Given a convex quadrilateral ABCD, consider the statements:
+> (a) if diagonal AC bisects the angles at A and at C and AB = BC, then ABCD is a rhombus;
+> (b) if diagonal AC bisects the angle at A and AB = BC, then ABCD is a rhombus;
+> (c) if diagonal AC bisects the angles at A and at C and AB = AD, then ABCD is a rhombus.
+> Then the correct ones are:
+> A only (a)
+> B none
+> C all
+> D only (c)
+> E only (a) and (b)
+> F only (a) and (c)
 
-> Given a convex quadrilateral ABCD, consider the following statements: (a) if the AC diagonal is a bisector of the angles in A and C and AB = BC, then ABCD is a rim; (b) if the AC diagonal is a bisector of the angle in A and AB = BC, then ABCD is a rim; (c) if the AC diagonal is a bisector of the angles in A and C and AB = AD, then ABCD is a rim. So those corrections are: A only (a) B no C all D only (c) E only (a) and (b) F only (a) and (c)
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2013_classiprime#q05|src_archimede_2013_classiprime__Q05]]
 
 
 
@@ -228,11 +280,20 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many unicorns from head/leg/horn*
+*How many unicorns by heads/legs/horns*
 
-> In a enclosure there are ostriches, bulls and unicorns ( unicorns are animals with 4 legs and only one horn on the head). We know that there are 100 heads, 364 legs and 141 horns. How many unicorns are there? A 23 B 31 C 29 D 45 E 19 F There is not enough data to establish this
+> In a pen there are ostriches, bulls and unicorns (unicorns are animals with 4 legs and a single horn on the head). We know that in total there are 100 heads, 364 legs and 141 horns. How many are the unicorns?
+> A 23
+> B 31
+> C 29
+> D 45
+> E 19
+> F there are not enough data to determine it
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2013_classiprime#q06|src_archimede_2013_classiprime__Q06]]
 
 
 
@@ -270,11 +331,25 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of students with distinct binary words for 5 tests
+*Maximum number of students with distinct binary words of 5 tests*
 
-> The IB class math teacher, in classroom assignments, has the habit of preparing two different tests (A and B) and having exactly half of the students take the type A test and the other half the type B test. At the end of the quarter, it is noted with pleasure that no student has ever been absent during classroom assignments. Note also that, however two students are taken, there is at least one of the 5 classroom tasks in which they have taken different tests. How many kids are there? There is no maximum at 32 B 10 C 24 D 36 E 16 F because it is possible to satisfy the requirements with an arbitrarily high number of students
+> The mathematics teacher of class IB, in class tests, is used to preparing two different tests (A and B) and making exactly half of the students take test type A and the other half take test type B.
+> At the end of the quarter, he notes with pleasure that no student was ever absent during the class tests. He also notes that, however two students are taken, there is at least one of the 5 class tests in which they took different tests.
+> What is the maximum number of boys?
+> A 32
+> B 10
+> C 24
+> D 36
+> E 16
+> F there is no maximum because
+> it is possible to satisfy the required conditions with an arbitrarily high
+> number of students
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_bigezione|Bijection / correspondence]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2013_classiprime#q07|src_archimede_2013_classiprime__Q07]]
 
 
 
@@ -306,11 +381,20 @@ Maximum number of students with distinct binary words for 5 tests
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time to paint a wall working together (work/speed)*
+*Time to paint a wall working together (work/rate)*
 
-> It would take Luke eight hours to paint a wall, while Paul, who is slower, would take twice as long to do the same work. If they decide to work together, how long will it take them to paint the wall? Five hours and 20 minutes. B 6 hours C 4 hours and 30 minutes. D 5 hours and 15 minutes. And four hours and 40 minutes. F 5 hours
+> To paint a wall, Luca takes 8 hours, while Paolo, who is slower, would take twice as long to do the same work. If they decide to work together, how long will it take them to paint the wall?
+> A 5 hours and 20 min.
+> B 6 hours
+> C 4 hours and 30 min.
+> D 5 hours and 15 min.
+> E 4 hours and 40 min.
+> F 5 hours
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2013_classiprime#q08|src_archimede_2013_classiprime__Q08]]
 
 
 
@@ -342,11 +426,23 @@ Maximum number of students with distinct binary words for 5 tests
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular perimeter given an increase in area of +1 cm on the sides*
+*Rectangle perimeter given a +1 cm increase in the sides*
 
-> Given an ABCD rectangle, increasing both the base and height by 1 cm, the area increases by 187 cm2. What is the perimeter of ABCD? At 372 cm B 187 cm C 186 cm D 748 cm E 558 cm F there are not enough data to establish it
+> Given a rectangle ABCD, increasing both the base and the height by 1 centimetre,
+> the area increases by 187 cm2. What is the perimeter of ABCD?
+> A 372 cm
+> B 187 cm
+> C 186 cm
+> D 748 cm
+> E 558 cm
+> F there are not
+> sufficient data to determine it
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2013_classiprime#q09|src_archimede_2013_classiprime__Q09]]
 
 
 
@@ -384,11 +480,29 @@ Maximum number of students with distinct binary words for 5 tests
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of balls with 5 remaining divided by 6,7,8,9*
+*Number of balls with remainder 5 when divided by 6, 7, 8, 9*
 
-> Luke has many balls (more than 100 but less than 1000) and tries to put them in boxes of the capacity of 6 balls each. However, he discovers that, in doing so, the last box is not filled in its entirety, but only with 5 balls. The same thing happens if, instead of using six-ball boxes, you use all seven-ball boxes, or all eight-ball boxes, or all nine-ball boxes: in the last box you always end up with exactly five balls. How many balls does Luca have? A 509 B 341 C 439 D 383 E 677 F There are not enough data to establish this
+> Luca has many balls (more than 100 but less than 1000) and tries to put them in boxes
+> holding 6 balls each.
+> He discovers, however, that, doing so, the last
+> box is not filled completely, but with only 5 balls. The same happens
+> if, instead of using boxes of 6 balls, he uses all boxes of 7 balls, or
+> all boxes of 8 balls, or all boxes of 9 balls: in the last box
+> there are always exactly 5 balls.
+> How many balls does Luca have?
+> A 509
+> B 341
+> C 439
+> D 383
+> E 677
+> F there is not enough data
+> to determine it
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2013_classiprime#q10|src_archimede_2013_classiprime__Q10]]
 
 
 
@@ -420,11 +534,22 @@ Maximum number of students with distinct binary words for 5 tests
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Money to be added to x^8+x^4 to obtain binomial square*
+*Monomials to add to x^8+x^4 to obtain the square of a binomial*
 
-> To the polynomial x8 + x4 you want to add a monomial (of degree different from 4 and 8) so that the trinomial you get is the square of a binomial. How many different ways can this be done? A 4 B 1 C 2 D 3 E 5 F more than 5
+> A monomial (of degree different from 4 and 8) is to be added to the polynomial x8 + x4 so that the resulting trinomial is the square of a binomial.
+> In how many different ways can this be done?
+> A 4
+> B 1
+> C 2
+> D 3
+> E 5
+> F more than 5
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2013_classiprime#q11|src_archimede_2013_classiprime__Q11]]
 
 
 
@@ -458,11 +583,24 @@ Maximum number of students with distinct binary words for 5 tests
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Good 6-digit numbers with digits 1-4 and minimum property*
+*Six-digit good numbers with digits 1–4 and a minimality property*
 
-> A positive integer is said to be good if it satisfies both of the following properties: (a) it contains only the digits 1, 2, 3 and 4, each at least once; (b) by permuting its digits one can never get a smaller number. How many are the six-digit numbers? A 10 B 25 C 12 D 6 E 24 F 32
+> A positive integer is called good if it satisfies both of the following properties:
+> (a) it contains only the digits "1", "2", "3" and "4", each at least once;
+> (b) permuting its digits can never produce a smaller number.
+> How many six-digit good numbers are there?
+> A 10
+> B 25
+> C 12
+> D 6
+> E 24
+> F 32
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2013_classiprime#q12|src_archimede_2013_classiprime__Q12]]
 
 
 
@@ -499,11 +637,24 @@ Maximum number of students with distinct binary words for 5 tests
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum inhabitants of the island knight/fanter with round table phrase*
+*Smallest population of Kenoncè if knights and knaves can all say the same sentence*
 
-> Kenoncè Island has no less than 2013 inhabitants and each of them can be either a Fante or a Knight. The Fairies always lie while the Knights always tell the truth. In the evening, they all sit together at a huge round table with exactly as many seats as the inhabitants, sitting so that they can all say the following sentence together: The first 5 people on my right are all Fanti What is the minimum number of inhabitants the island can have? A 2016 B 2013 C 2014 D 2015 E 2017 F 2018
+> The island of Kenoncè has no fewer than 2013 inhabitants, and each of them is either a Knave or a Knight. Knaves always lie, while Knights always tell the truth. In the evening they all dine together at an enormous round table with exactly as many places as there are inhabitants, sitting so that they can all utter, at the same time, the following sentence:
+> “The first 5 people on my right are all Knaves.”
+> What is the smallest number of inhabitants the island can have?
+> A 2016
+> B 2013
+> C 2014
+> D 2015
+> E 2017
+> F 2018
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_archimede_2013_classiprime#q13|src_archimede_2013_classiprime__Q13]]
 
 
 
@@ -533,11 +684,21 @@ Maximum number of students with distinct binary words for 5 tests
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum first dividing by 251001*
+*Largest prime dividing 251001*
 
 > Let p be the largest prime number that divides 251001. Then:
+> A 150 ≤p ≤199
+> B 100 ≤p ≤149
+> C p ≤99
+> D 200 ≤p ≤249
+> E 250 ≤p ≤299
+> F p ≥300
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2013_classiprime#q14|src_archimede_2013_classiprime__Q14]]
 
 
 
@@ -580,22 +741,21 @@ Maximum number of students with distinct binary words for 5 tests
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular under sets in 8x8 chessboard*
+*Rectangular subsets on an 8x8 chessboard*
 
-![[src_archimede_2013_classiprime__prob15.png]]
+> In how many ways, on an 8 × 8 chessboard, can I choose a non-empty subset of squares in the shape of a rectangle? (Among the valid choices, the whole chessboard and rectangles consisting of a single square must also be counted)
+> A 1296
+> B 1440
+> C 1024
+> D 1600
+> E 1225
+> F 1156
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.6]
-  \fill[gray!40] (2,4) rectangle (7,7);
-  \draw[step=1] (0,0) grid (8,8);
-\end{tikzpicture}
-\end{document}
-```
 
-> How many ways, in a chessboard 8 × 8, can I choose a non-empty subset of rectangular boxes? A 1296 B 1440 C 1024 D 1600 E 1225 F 1156
-
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2013_classiprime#q15|src_archimede_2013_classiprime__Q15]]
 
 
 
@@ -627,11 +787,22 @@ Maximum number of students with distinct binary words for 5 tests
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to make 1 euro with 1.2.5 cent coins*
+*Ways of making 1 euro with 1, 2 and 5 cent coins*
 
-> How many different ways can I put together the amount of 1 euro using only 1, 2 and 5 cent coins? A 541 B 520 C 495 D 512 E 496 F None of the other answers is correct
+> In how many different ways can I make up the amount of 1 euro using only coins of 1, 2 and 5 cents?
+> A 541
+> B 520
+> C 495
+> D 512
+> E 496
+> F none of the other answers is
+> correct
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2013_classiprime#q16|src_archimede_2013_classiprime__Q16]]
 
 
 
@@ -664,11 +835,23 @@ Maximum number of students with distinct binary words for 5 tests
 <div class="qlang-split" data-lang="en"></div>
 
 
-*21th root value of the product of 576 dividers*
+*21st root of the product of the divisors of 576*
 
-> N is the product of all positive integers divided by 576 (including the number itself). What is 21√n worth? A 24 B 32 C 144 D 12 E 18 F is not an integer
+> Let n be the product of all positive integers that divide 576 (including the number itself).
+> What is
+> 21√n?
+> A 24
+> B 32
+> C 144
+> D 12
+> E 18
+> F not an integer
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2013_classiprime#q17|src_archimede_2013_classiprime__Q17]]
 
 
 
@@ -701,13 +884,21 @@ Maximum number of students with distinct binary words for 5 tests
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trapezoidal area given triangular areas formed by diagonals*
+*Area of a trapezium given the areas of the triangles formed by the diagonals*
 
-![[src_archimede_2013_classiprime__prob18.png]]
+> A right-angled trapezium is divided by its diagonals into 4 triangles: the smallest has area 396 cm2 and the largest has area 539 cm2.
+> What is the area of the trapezium?
+> A 1859 cm2
+> B 1757 cm2
+> C 1911 cm2
+> D 2013 cm2
+> E 1835 cm2
+> F there is not enough data to determine it
 
-> A rectangular trapezoid is divided by the diagonals into 4 triangles: the smallest has an area of 396 cm2 and the largest has an area of 539 cm2. What's the area of the trapezoid? A 1859 cm2 B 1757 cm2 C 1911 cm2 D 2013 cm2 E 1835 cm2 F there are not enough data to establish it
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2013_classiprime#q18|src_archimede_2013_classiprime__Q18]]
 
 
 
@@ -742,11 +933,22 @@ Maximum number of students with distinct binary words for 5 tests
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum for which Claudia wins (positions lost)
+*maximum number of coins Claudia can put on the table so that she is sure to win, regardless of Luca's moves (positions lost)*
 
-> Claudia and Luca play the following game: at the beginning Claudia puts on the table a stack of no more than 200 coins, then in turn, starting with Luca, each player, at his choice, removes 7 coins or adds 4 coins to the stack. He loses whoever finds himself having to move with the pile empty. What is the maximum number of coins Claudia can put on the table if she wants to be sure she can win the game, whatever moves Luca makes? A 198 B 200 C 199 D 197 E 194 F 3
+> Claudia and Luca play the following game: at the start Claudia puts a stack consisting of no more than 200 coins on the table, then, taking turns, beginning with Luca, each player, at their choice, either removes 7 coins or adds 4 coins to the stack. The player who finds themselves having to move with the stack empty loses.
+> What is the maximum number of coins Claudia can put on the table if she wants to be sure of winning the game, whatever moves Luca makes?
+> A 198
+> B 200
+> C 199
+> D 197
+> E 194
+> F 3
 
-**Answer:** A
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2013_classiprime#q19|src_archimede_2013_classiprime__Q19]]
 
 
 
@@ -786,10 +988,25 @@ Maximum for which Claudia wins (positions lost)
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of Euclidean reductions per pair < 1000*
+*Maximum number of Euclid-type reductions on a pair <1000*
 
-> Given a pair (a, b) of positive integers, with a > b, we agree to call the reduction of (a, b), the pair (b, r) obtained by taking the second element b of the starting pair and the remainder r of the division between a and b. So let's imagine starting with a pair of numbers and then doing further reductions, until this is possible, that is, until the two numbers remain strictly positive. For example, starting from the pair (59, 8) you can perform 4 reductions because (59, 8) →(8, 3) →(3, 2) →(2, 1) →(1, 0). What is the maximum number of reductions you can make from a pair (a, b) of positive integers both less than 1000? A 14 B 10 C 9 D 99 E 17 F 8 1
+> Given a pair (a, b) of positive integers, with a > b, we call a reduction of (a, b) the pair (b, r) obtained by taking the second element b of the starting pair and the remainder r of the division of a by b.
+> We then imagine starting from a pair of numbers and performing successive reductions, as long as this is possible, i.e. as long as the two numbers remain strictly positive.
+> For example, starting from the pair (59, 8), one can perform 4 reductions because
+> (59, 8) →(8, 3) →(3, 2) →(2, 1) →(1, 0).
+> What is the maximum number of reductions that can be performed starting from a pair (a, b) of positive integers both less than 1000?
+> A 14
+> B 10
+> C 9
+> D 99
+> E 17
+> F 8
+> 1
 > 
-> Solutions
+> Soluzioni
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2013_classiprime#q20|src_archimede_2013_classiprime__Q20]]

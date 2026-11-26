@@ -34,11 +34,18 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ineguaglianze di superficie triangolare con rapporto x sul segmento DE*
+*L'area di CEF e una disuguaglianza tra radici di aree*
 
-> Lasciate che $ABC$ sia un triangolo. I punti $D$ e $E$ sono rispettivamente sui lati $AB$ e $AC$, mentre il punto $F$ è sul segmento di linea $DE$. Let $\frac{AD}{AC} = \frac{DF}{DE} = x$. Provare che $$S_{\triangle CEF} = x(1-x)S_{\triangle ABC}$$ e $$\sqrt{S_{\triangle ABE}} + \sqrt{S_{\triangle ADF}} \le \sqrt{S_{\triangle ABC}}.$$
+> Sia $ABC$ un triangolo. I punti $D$ ed $E$ stanno rispettivamente sui lati $AB$ e $AC$, e il punto $F$ sta sul segmento $DE$. Sia $\frac{AD}{AC} = \frac{DF}{DE} = x$. Dimostrare che
+> $$S_{\triangle CEF} = x(1-x)S_{\triangle ABC}$$
+> e
+> $$\sqrt{S_{\triangle ABE}} + \sqrt{S_{\triangle ADF}} \le \sqrt{S_{\triangle ABC}}.$$
 
-![[src_cn_cgmo_2003__q01.png]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[src_cn_cgmo_2003__Q01.png]]
 
 
 
@@ -61,9 +68,15 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la somma massima meno min del valore della posizione del sedile per 47 studenti nella griglia 6x8*
+*La differenza tra il massimo e il minimo possibili della somma dei valori di posizione*
 
-> Ci sono 47 studenti in una classe con sedi disposti in 6 righe $\times$ 8 colonne, e il posto nella riga $i$-th e $j$-th colonna è indicato da $(i, j)$. Ora, viene fatto un aggiustamento per i posti degli studenti nel nuovo semestre scolastico. Per uno studente con il sedile originale $(i, j)$, se il suo nuovo sedile è $(m, n)$, diciamo che lo studente è spostato da $[m, n] - [i, j] = m - i + n - j$ e definiamo il valore della posizione dello studente come $|m - i + n - j|$. $S$ indichi la somma dei valori di posizione di tutti gli studenti. Determinare la differenza tra i valori più grandi e più piccoli possibili di $S$.
+> In una classe ci sono 47 studenti, con i posti disposti in 6 righe $\times$ 8 colonne, e il posto nella riga $i$-esima e nella colonna $j$-esima è indicato con $(i, j)$. Ora, nel nuovo trimestre, si procede a un riassetto dei posti degli studenti. Per uno studente il cui posto originario è $(i, j)$, se il suo nuovo posto è $(m, n)$, diciamo che lo studente è stato spostato di $[m, n] - [i, j] = m - i + n - j$ e definiamo il valore di posizione dello studente come $|m - i + n - j|$. Sia $S$ la somma dei valori di posizione di tutti gli studenti. Determinare la differenza tra il massimo e il minimo valore possibile di $S$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
+
+[[Quesiti/src_cn_cgmo_2003#q02|src_cn_cgmo_2003__Q02]]
 
 
 
@@ -90,13 +103,19 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque valori reali non negativi sommati a 1: prodotti vicini sul cerchio*
+*Cinque numeri reali non negativi di somma 1 si possono disporre in cerchio con un prodotto di vicini almeno 1/4, e con un prodotto di vicini al più 1/9*
 
-> (1) Per tutti i cinque numeri reali non negativi $a$, $b$, $c$, $d$ e $e$ con la loro somma uguale a $1$, è sempre possibile organizzarli intorno a un cerchio in modo che ci siano sempre due numeri vicini con il loro prodotto non inferiore a $\frac{1}{4}$.
-> 
-> (2) Per tutti i cinque numeri reali non negativi $a$, $b$, $c$, $d$ e $e$ con la loro somma uguale a $1$, è sempre possibile organizzarli attorno a un cerchio in modo che ci siano due numeri vicini il cui prodotto non è maggiore di $\frac{1}{9}$.
-> 
-> (Posizionato da Qian Zhanwang)
+> (1) Per qualunque cinque numeri reali non negativi $a$, $b$, $c$, $d$ ed $e$ di somma uguale a $1$, è sempre possibile disporli attorno a una circonferenza in modo che vi siano sempre due numeri vicini il cui prodotto non è minore di $\frac{1}{4}$.
+>
+> (2) Per qualunque cinque numeri reali non negativi $a$, $b$, $c$, $d$ ed $e$ di somma uguale a $1$, è sempre possibile disporli attorno a una circonferenza in modo che vi siano due numeri vicini il cui prodotto non è maggiore di $\frac{1}{9}$.
+>
+> (proposto da Qian Zhanwang)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_cn_cgmo_2003#q03|src_cn_cgmo_2003__Q03]]
 
 
 
@@ -121,9 +140,17 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con a_{n+1}=a_n^2-a_n+1: prova somma di prodotti reciproci < 1*
+*La somma dei reciproci dei prodotti parziali è minore di 1*
 
-> $\{a_n\}_{n=1}^{\infty}$ sia una sequenza di numeri reali come $a_1 = 2$, $a_{n+1} = a_n^2 - a_n + 1$ per $n = 1, 2, \ldots$. Dimostrare che $$\frac{1}{a_1} + \frac{1}{a_1 a_2} + \cdots + \frac{1}{a_1 a_2 \cdots a_{2003}} < 1.$$ (posato da Li Shenghong)
+> Sia $\{a_n\}_{n=1}^{\infty}$ una successione di numeri reali tale che $a_1 = 2$, $a_{n+1} = a_n^2 - a_n + 1$ per $n = 1, 2, \ldots$. Dimostrare che
+> $$\frac{1}{a_1} + \frac{1}{a_1 a_2} + \cdots + \frac{1}{a_1 a_2 \cdots a_{2003}} < 1.$$
+> (proposto da Li Shenghong)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Somme telescopiche]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima e approssimazione]]
+
+[[Quesiti/src_cn_cgmo_2003#q04|src_cn_cgmo_2003__Q04]]
 
 
 
@@ -151,11 +178,18 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bissettori di angolo triangolare di scalene con DE=DF: prova rapporto e angolo obtusso*
+*b/c = (s−b)/(s−c), e l'angolo in A è ottuso*
 
-> Lasciate che i lati di un triangolo scaleno $\triangle ABC$ soddisfino $AB \ne AC$. I punti $D$, $E$, $F$ siano punti rispettivamente su $BC$, $CA$, $AB$, in modo che $AD$, $BE$, $CF$ siano bisettiori angolari del triangolo. Supponiamo che $DE = DF$. Let $b = CA$, $c = AB$, $s = \frac{a+b+c}{2}$. Prove che: (1) $\dfrac{b}{c} = \dfrac{s-b}{s-c}$; (2) $\angle BAC > 90^\circ$. (Posizionato da Xiong Bin)
+> I lati di un triangolo scaleno $\triangle ABC$ soddisfino $AB \ne AC$. Siano $D$, $E$, $F$ punti rispettivamente su $BC$, $CA$, $AB$, tali che $AD$, $BE$, $CF$ siano le bisettrici degli angoli del triangolo. Si supponga che $DE = DF$. Siano $b = CA$, $c = AB$, $s = \frac{a+b+c}{2}$. Dimostrare che:
+> (1) $\dfrac{b}{c} = \dfrac{s-b}{s-c}$;
+> (2) $\angle BAC > 90^\circ$.
+> (proposto da Xiong Bin)
 
-![[src_cn_cgmo_2003__q05.png]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+
+[[src_cn_cgmo_2003__Q05.png]]
 
 
 
@@ -178,6 +212,12 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Al massimo la metà dei divisori propri di n fine nella cifra 5*
+*Al più la metà degli elementi di S_n ha ultima cifra 5*
 
-> Che $n \ge 2$ sia un intero positivo, e che $S_n$ sia l'insieme di tutti i divisori interi positivi di $n$ (esclusi $1$ e $n$ stesso). Prova che almeno la metà degli elementi di $S_n$ ha le ultime cifre uguali a $5$. (Possibile da Feng Zanting)
+> Sia $n \ge 2$ un intero positivo, e sia $S_n$ l'insieme di tutti i divisori interi positivi di $n$ (esclusi $1$ e $n$ stesso). Dimostrare che al più la metà degli elementi di $S_n$ ha ultima cifra uguale a $5$. (proposto da Feng Zanting)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_cn_cgmo_2003#q06|src_cn_cgmo_2003__Q06]]

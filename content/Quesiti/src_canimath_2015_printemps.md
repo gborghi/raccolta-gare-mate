@@ -12,213 +12,382 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Three integer operations; find x giving 1945, all x giving 2015*
+*Opérations A, B, C sur les entiers : remonter à 1945 et à 2015*
 
-> Three operations on integers are defined:
-> - Operation $A$: multiply by $2$ and add $4$ to the result.
-> - Operation $B$: multiply by $1$ and add $16$ to the result.
-> - Operation $C$: multiply by $5$ and add $25$ to the result.
-> 
-> a) Find an integer $x$ such that, after applying operations $A$, $B$, and $C$ successively in that order, one obtains $1945$.
-> 
-> b) Find all integers $x$ such that, starting from $x$ and applying successively two different operations (among $A$, $B$, $C$), one obtains $2015$.
+> **Exercice 1**
+>
+> On dispose de trois opérations sur les entiers :
+>
+> - L'opération $A$ consiste à multiplier par $2$ et à ajouter $4$ au résultat.
+> - L'opération $B$ consiste à multiplier par $4$ et à ajouter $16$ au résultat.
+> - L'opération $C$ consiste à multiplier par $5$ et à ajouter $25$ au résultat.
+>
+> a) Déterminer un entier $x$ tel qu'en partant de $x$ et après avoir utilisé successivement les opérations $A$, $B$ et $C$ dans cet ordre, on obtienne $1945$.
+>
+> b) Déterminer tous les entiers $x$ tels qu'en partant de $x$ et en utilisant successivement deux opérations différentes, on obtienne $2015$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algèbre]], [[topic_aritmetica|Arithmétique / Théorie des nombres]]
+**Metodo:** [[method_casework|Disjonction de cas]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_casework_accurato|Disjonction de cas soigneuse]], [[skill_lettura_attenta|Lecture attentive]]
+**Area:** [[Algebra e Analisi|Algèbre et analyse]], [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre operazioni a numeri interi; trovare x dando 1945, tutti x dando 2015*
+*Operazioni A, B, C sugli interi: risalire a 1945 e a 2015*
 
-> Sono definite tre operazioni sui numeri interi: - Operazione $A$: moltiplicare per $2$ e aggiungere $4$ al risultato. - Operazione $B$: moltiplicare per $1$ e aggiungere $16$ al risultato. - Operazione $C$: moltiplicare per $5$ e aggiungere $25$ al risultato.
-> 
-> a) Trovare un numero intero $x$ tale che, dopo aver applicato successivamente le operazioni $A$, $B$ e $C$ in tale ordine, si ottiene $1945$.
-> 
-> b) Trovare tutti gli enti $x$ in modo tale che, partendo da $x$ e applicando successivamente due operazioni diverse (tra $A$, $B$, $C$), si ottiene $2015$.
+> **Esercizio 1**
+>
+> Si dispongono di tre operazioni sugli interi:
+>
+> - L'operazione $A$ consiste nel moltiplicare per $2$ e aggiungere $4$ al risultato.
+> - L'operazione $B$ consiste nel moltiplicare per $4$ e aggiungere $16$ al risultato.
+> - L'operazione $C$ consiste nel moltiplicare per $5$ e aggiungere $25$ al risultato.
+>
+> a) Determinare un intero $x$ tale che, partendo da $x$ e usando successivamente le operazioni $A$, $B$ e $C$ in quest'ordine, si ottenga $1945$.
+>
+> b) Determinare tutti gli interi $x$ tali che, partendo da $x$ e usando successivamente due operazioni diverse, si ottenga $2015$.
+
+[[Quesiti/src_canimath_2015_printemps#q01|src_canimath_2015_printemps__Q01]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Operations A, B, C on the integers: working back to 1945 and to 2015*
+
+> **Exercise 1**
+>
+> Three operations on the integers are available:
+>
+> - Operation $A$ consists in multiplying by $2$ and adding $4$ to the result.
+> - Operation $B$ consists in multiplying by $4$ and adding $16$ to the result.
+> - Operation $C$ consists in multiplying by $5$ and adding $25$ to the result.
+>
+> a) Determine an integer $x$ such that, starting from $x$ and applying the operations $A$, $B$ and $C$ in that order, one obtains $1945$.
+>
+> b) Determine all integers $x$ such that, starting from $x$ and applying two different operations in succession, one obtains $2015$.
+
+[[Quesiti/src_canimath_2015_printemps#q01|src_canimath_2015_printemps__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Right triangle ABC; find point(s) P on perimeter with PA+PB=PC*
+*Point du périmètre d'un triangle rectangle en A maximisant PA+PB+PC*
 
-> Let $ABC$ be a right triangle at $A$. Determine the point(s) $P$ on the perimeter of $ABC$ such that $PA + PB = PC$.
+> **Exercice 2**
+>
+> Soit $ABC$ un triangle rectangle en $A$. Déterminer le ou les points $P$ du périmètre de $ABC$ tels que $PA + PB + PC$ soit maximal.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_modellizzazione|Modélisation]], [[skill_lettura_attenta|Lecture attentive]]
+**Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo rettangolo ABC; trovare il punto ((s) P sul perimetro con PA+PB=PC*
+*Punto del perimetro di un triangolo rettangolo in A che massimizza PA+PB+PC*
 
-> $ABC$ sia un triangolo rettangolo a $A$. Determinare il punto ((s) $P$ sul perimetro di $ABC$ in modo tale che $PA + PB = PC$.
+> **Esercizio 2**
+>
+> Sia $ABC$ un triangolo rettangolo in $A$. Determinare il punto o i punti $P$ del perimetro di $ABC$ tali che $PA + PB + PC$ sia massimo.
+
+[[Quesiti/src_canimath_2015_printemps#q02|src_canimath_2015_printemps__Q02]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Point of the perimeter of a right triangle at A maximising PA+PB+PC*
+
+> **Exercise 2**
+>
+> Let $ABC$ be a triangle right-angled at $A$. Determine the point or points $P$ of the perimeter of $ABC$ such that $PA + PB + PC$ is maximal.
+
+[[Quesiti/src_canimath_2015_printemps#q02|src_canimath_2015_printemps__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Digit-reversing f; find all 4-digit n with f(n)=4n+3*
+*Entiers à 4 chiffres tels que l'entier renversé vaut 4n+3*
 
-> For every positive integer $n$, let $f(n)$ denote the integer obtained by writing the digits of $n$ in reverse order. For example, $f(2538) = 8352$.
-> 
-> Find all integers $n$ having exactly $4$ digits such that $f(n) = 4n + 3$.
+> **Exercice 3**
+>
+> Pour tout entier $n$, on note $f(n)$ l'entier écrit en inversant l'ordre des chiffres. Par exemple, $f(2538) = 8352$.
+>
+> Déterminer tous les entiers $n$ possédant $4$ chiffres tels que $f(n) = 4n + 3$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]], [[topic_algebra|Algèbre]]
+**Metodo:** [[method_casework|Disjonction de cas]], [[method_congruenze|Congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_lettura_attenta|Lecture attentive]], [[skill_casework_accurato|Disjonction de cas soigneuse]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Figura inversa f; trovare tutte le n a 4 cifre con f(n)=4n+3*
+*Interi di 4 cifre il cui rovescio vale 4n+3*
 
-> Per ogni numero intero positivo $n$, $f(n)$ indica il numero intero ottenuto scrivendo le cifre di $n$ in ordine inverso. Ad esempio, $f(2538) = 8352$.
-> 
-> Trovare tutti gli integri $n$ che hanno esattamente $4$ cifre come $f(n) = 4n + 3$.
+> **Esercizio 3**
+>
+> Per ogni intero $n$, si indichi con $f(n)$ l'intero scritto invertendo l'ordine delle cifre. Per esempio, $f(2538) = 8352$.
+>
+> Determinare tutti gli interi $n$ di $4$ cifre tali che $f(n) = 4n + 3$.
+
+[[Quesiti/src_canimath_2015_printemps#q03|src_canimath_2015_printemps__Q03]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Four-digit integers whose reverse equals 4n+3*
+
+> **Exercise 3**
+>
+> For every integer $n$, denote by $f(n)$ the integer written by reversing the order of the digits. For example, $f(2538) = 8352$.
+>
+> Determine all integers $n$ with $4$ digits such that $f(n) = 4n + 3$.
+
+[[Quesiti/src_canimath_2015_printemps#q03|src_canimath_2015_printemps__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Triangle ABC, midpoint M, perpendiculars meet at I; prove angles IPA and INC equal*
+*Points M, N, P sur les côtés : les angles IPA et INC sont égaux*
 
-> Let $ABC$ be a triangle. Choose $M$ on side $[BC]$, $N$ on side $[CA]$, and $P$ on side $[AB]$. Let $D_B$ be the line through $B$ perpendicular to $[MP]$, and $D_C$ the line through $C$ perpendicular to $[MN]$. Suppose that lines $D_B$ and $D_C$ meet at a point $I$. Prove that angles $\widehat{IPA}$ and $\widehat{INC}$ are equal.
+> **Exercice 4**
+>
+> Soit $ABC$ un triangle. On choisit $M$ sur le côté $[BC]$, $N$ sur le côté $[CA]$ et $P$ sur le côté $[AB]$ de sorte que $BM = BP$ et $CM = CN$. On note $D_B$ la droite passant par $B$ et perpendiculaire à $[MP]$, et $D_C$ la droite passant par $C$ et perpendiculaire à $[MN]$. On suppose que les droites $D_B$ et $D_C$ se rencontrent en $I$. Prouver que les angles $\widehat{IPA}$ et $\widehat{INC}$ sont égaux.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_modellizzazione|Modélisation]], [[skill_astrazione|Abstraction]]
+**Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC, punto medio M, perpendicolari che si incontrano a I; provare angoli IPA e INC uguali*
+*Punti M, N, P sui lati: gli angoli IPA e INC sono uguali*
 
-> Lasciate che $ABC$ sia un triangolo. Selezionare $M$ sul lato $[BC]$, $N$ sul lato $[CA]$ e $P$ sul lato $[AB]$. La linea $D_B$ deve essere la linea attraverso $B$ perpendicolare a $[MP]$ e $D_C$ la linea attraverso $C$ perpendicolare a $[MN]$. Supponiamo che le linee $D_B$ e $D_C$ si incontrino in un punto $I$. Prova che gli angoli $\widehat{IPA}$ e $\widehat{INC}$ sono uguali.
+> **Esercizio 4**
+>
+> Sia $ABC$ un triangolo. Si scelga $M$ sul lato $[BC]$, $N$ sul lato $[CA]$ e $P$ sul lato $[AB]$ in modo che $BM = BP$ e $CM = CN$. Si indichi con $D_B$ la retta passante per $B$ e perpendicolare a $[MP]$, e con $D_C$ la retta passante per $C$ e perpendicolare a $[MN]$. Si supponga che le rette $D_B$ e $D_C$ si incontrino in $I$. Dimostrare che gli angoli $\widehat{IPA}$ e $\widehat{INC}$ sono uguali.
+
+[[Quesiti/src_canimath_2015_printemps#q04|src_canimath_2015_printemps__Q04]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Points M, N, P on the sides: angles IPA and INC are equal*
+
+> **Exercise 4**
+>
+> Let $ABC$ be a triangle. Choose $M$ on the side $[BC]$, $N$ on the side $[CA]$ and $P$ on the side $[AB]$ so that $BM = BP$ and $CM = CN$. Let $D_B$ be the line through $B$ perpendicular to $[MP]$, and $D_C$ the line through $C$ perpendicular to $[MN]$. Assume that the lines $D_B$ and $D_C$ meet at $I$. Prove that the angles $\widehat{IPA}$ and $\widehat{INC}$ are equal.
+
+[[Quesiti/src_canimath_2015_printemps#q04|src_canimath_2015_printemps__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*2015 positive integers on circle; find two neighbors whose removal unbalances equal-sum split*
+*2015 entiers autour d'un cercle : deux voisins dont la suppression empêche une bipartition de même somme*
 
-> $2015$ strictly positive integers are placed around a circle. Prove that it is possible to find two neighboring integers such that, after removing them, the remaining numbers cannot be partitioned into two groups with equal sum.
+> **Exercice 5**
+>
+> $2015$ entiers strictement positifs sont placés autour d'un cercle. Montrer qu'il est possible de trouver deux entiers voisins tels que, après les avoir supprimés, les nombres restants ne puissent pas être séparés en deux groupes de même somme.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatoire]], [[topic_aritmetica|Arithmétique / Théorie des nombres]]
+**Metodo:** [[method_invarianti|Invariants]], [[method_estremalita|Extrémalité]], [[method_casework|Disjonction de cas]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_modellizzazione|Modélisation]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]], [[skill_conteggio_sistematico|Dénombrement systématique]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]], [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2015 numeri interi positivi sul cerchio; trovare due vicini la cui rimozione sbilanci la divisione di somma uguale*
+*2015 interi intorno a un cerchio: due vicini la cui rimozione impedisce una bipartizione di uguale somma*
 
-> I numeri interi $2015$ strettamente positivi sono posizionati intorno a un cerchio. Prove che è possibile trovare due integri vicini in modo tale che, dopo averli rimossi, i numeri rimanenti non possano essere divisi in due gruppi con somma uguale.
+> **Esercizio 5**
+>
+> $2015$ interi strettamente positivi sono disposti intorno a un cerchio. Dimostrare che è possibile trovare due interi vicini tali che, dopo averli soppressi, i numeri restanti non possano essere separati in due gruppi di uguale somma.
+
+[[Quesiti/src_canimath_2015_printemps#q05|src_canimath_2015_printemps__Q05]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*2015 integers around a circle: two neighbours whose removal blocks an equal-sum split*
+
+> **Exercise 5**
+>
+> $2015$ strictly positive integers are placed around a circle. Prove that it is possible to find two neighbouring integers such that, after deleting them, the remaining numbers cannot be split into two groups of equal sum.
+
+[[Quesiti/src_canimath_2015_printemps#q05|src_canimath_2015_printemps__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,topic_insiemi_funzioni,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Floor-based f(n); find all integers n with f(n+1)>f(n)*
+*Partie entière f(n) = [n / [√n]] : quand f(n+1) > f(n)*
 
-> Let $\lfloor x \rfloor$ denote the integer part of $x$. For example, $\lfloor 15/4 \rfloor = 3$. Define
-> $$f(n) = \left\lfloor \frac{n}{\lfloor \sqrt{n} \rfloor} \right\rfloor.$$
-> Find all integers $n$ such that $f(n+1) > f(n)$.
+> **Exercice 6**
+>
+> On note $[x]$ la partie entière de $x$. Par exemple, $[15/4] = 3$. On note
+>
+> $$f(n) = \left[\frac{n}{[\sqrt{n}]}\right].$$
+>
+> Trouver tous les entiers $n$ tels que $f(n+1) > f(n)$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]], [[topic_algebra|Algèbre]], [[topic_insiemi_funzioni|Ensembles et fonctions]]
+**Metodo:** [[method_casework|Disjonction de cas]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_casework_accurato|Disjonction de cas soigneuse]], [[skill_lettura_attenta|Lecture attentive]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Floor-based f(n); trovare tutti gli integri n con f(n+1)>f(n)*
+*Parte intera f(n) = [n / [√n]]: quando f(n+1) > f(n)*
 
-> $\lfloor x \rfloor$ indichi la parte integrale di $x$. Ad esempio, $\lfloor 15/4 \rfloor = 3$. Definire $$f(n) = \left\lfloor \frac{n}{\lfloor \sqrt{n} \rfloor} \right\rfloor.$$ Trovare tutti gli enti $n$ in modo che $f(n+1) > f(n)$.
+> **Esercizio 6**
+>
+> Si indichi con $[x]$ la parte intera di $x$. Per esempio, $[15/4] = 3$. Si ponga
+>
+> $$f(n) = \left[\frac{n}{[\sqrt{n}]}\right].$$
+>
+> Trovare tutti gli interi $n$ tali che $f(n+1) > f(n)$.
+
+[[Quesiti/src_canimath_2015_printemps#q06|src_canimath_2015_printemps__Q06]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Integer part f(n) = [n / [√n]]: when f(n+1) > f(n)*
+
+> **Exercise 6**
+>
+> Denote by $[x]$ the integer part of $x$. For example, $[15/4] = 3$. Set
+>
+> $$f(n) = \left[\frac{n}{[\sqrt{n}]}\right].$$
+>
+> Find all integers $n$ such that $f(n+1) > f(n)$.
+
+[[Quesiti/src_canimath_2015_printemps#q06|src_canimath_2015_printemps__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_geometria_piana,method_cassetti,method_estremalita,skill_modellizzazione,skill_stima,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*n points on circle diameter n/pi; show no arc strictly longer than its enclosed point count*
+*n points sur un cercle de diamètre n/π : un point par arc égal*
 
-> $n$ points are placed on a circle of diameter $n/\pi$ (so circumference $n$). Suppose that the length of every arc between two consecutive points (not counting the endpoints) is strictly greater than the number of points strictly inside that arc. Prove that it is possible to find $n$ arcs each containing exactly one point, partitioning the circle.
+> **Exercice 7**
+>
+> $n$ points sont placés sur un cercle de diamètre $n/\pi$. On suppose que la longueur de n'importe quel arc entre deux de ces $n$ points est strictement plus grande que le nombre de points sur cet arc (sans compter les points aux extrémités). Montrer que le cercle peut être subdivisé en $n$ arcs de même longueur contenant exactement un point chacun.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Topic:** [[topic_combinatoria|Combinatoire]], [[topic_geometria_piana|Géométrie plane]]
+**Metodo:** [[method_cassetti|Principe des tiroirs]], [[method_estremalita|Extrémalité]]
+**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_stima|Estimation]], [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_conteggio_sistematico|Dénombrement systématique]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]], [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n punti sul diametro del cerchio n/pi; non mostrano arco strettamente più lungo del suo numero di punti chiusi*
+*n punti su un cerchio di diametro n/π: un punto per arco uguale*
 
-> I punti $n$ sono posizionati su un cerchio di diametro $n/\pi$ (così la circonferenza $n$). Supponiamo che la lunghezza di ogni arco tra due punti consecutivi (senza contare i punti finali) sia rigorosamente superiore al numero di punti rigorosamente all'interno di tale arco. Prova che è possibile trovare archi $n$ che contengono ciascuno esattamente un punto, dividendo il cerchio.
+> **Esercizio 7**
+>
+> $n$ punti sono posti su un cerchio di diametro $n/\pi$. Si supponga che la lunghezza di qualunque arco tra due di questi $n$ punti sia strettamente maggiore del numero di punti su quell'arco (senza contare i punti agli estremi). Dimostrare che il cerchio può essere suddiviso in $n$ archi di uguale lunghezza contenenti ciascuno esattamente un punto.
+
+[[Quesiti/src_canimath_2015_printemps#q07|src_canimath_2015_printemps__Q07]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*n points on a circle of diameter n/π: one point per equal arc*
+
+> **Exercise 7**
+>
+> $n$ points are placed on a circle of diameter $n/\pi$. Assume that the length of any arc between two of these $n$ points is strictly greater than the number of points on that arc (not counting the points at the endpoints). Prove that the circle can be subdivided into $n$ arcs of equal length, each containing exactly one point.
+
+[[Quesiti/src_canimath_2015_printemps#q07|src_canimath_2015_printemps__Q07]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Primes p,q,r; pq+1, pr+1, qr-p squares; prove p+2qr+2 is also a square*
+*Premiers p, q, r tels que pq+1, pr+1 et qr-p sont des carrés*
 
-> Let $p$, $q$, $r$ be prime numbers such that each of the three numbers $pq + 1$, $pr + 1$, and $qr - p$ is a perfect square. Prove that $p + 2qr + 2$ is also a perfect square.
+> **Exercice 8**
+>
+> Soient $p$, $q$, $r$ des nombres premiers tels que chacun des trois nombres $pq + 1$, $pr + 1$ et $qr - p$ est le carré d'un entier. Prouver que $p + 2qr + 2$ est également le carré d'un entier.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]], [[topic_algebra|Algèbre]]
+**Metodo:** [[method_congruenze|Congruences]], [[method_fattorizzazione|Factorisation]], [[method_casework|Disjonction de cas]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_lettura_attenta|Lecture attentive]], [[skill_astrazione|Abstraction]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prima p,q,r; pq+1, pr+1, qr-p quadrati; prova che p+2qr+2 è anche un quadrato*
+*Primi p, q, r tali che pq+1, pr+1 e qr-p sono quadrati*
 
-> Lasciate che $p$, $q$, $r$ siano numeri primi in modo tale che ciascuno dei tre numeri $pq + 1$, $pr + 1$ e $qr - p$ sia un quadrato perfetto. Prova che $p + 2qr + 2$ è anche un quadrato perfetto.
+> **Esercizio 8**
+>
+> Siano $p$, $q$, $r$ numeri primi tali che ciascuno dei tre numeri $pq + 1$, $pr + 1$ e $qr - p$ è il quadrato di un intero. Dimostrare che anche $p + 2qr + 2$ è il quadrato di un intero.
+
+[[Quesiti/src_canimath_2015_printemps#q08|src_canimath_2015_printemps__Q08]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Primes p, q, r such that pq+1, pr+1 and qr-p are squares*
+
+> **Exercise 8**
+>
+> Let $p$, $q$, $r$ be prime numbers such that each of the three numbers $pq + 1$, $pr + 1$ and $qr - p$ is the square of an integer. Prove that $p + 2qr + 2$ is also the square of an integer.
+
+[[Quesiti/src_canimath_2015_printemps#q08|src_canimath_2015_printemps__Q08]]

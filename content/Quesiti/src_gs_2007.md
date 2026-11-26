@@ -39,9 +39,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time indicated by digital clock with sum property*
+*Time indicated by a digital clock with the property that the sum of its digits*
 
-> After a delicate vote, the President of the Banana Republic Parliament relieves the tensions of those present with a frivolous mathematical observation. Look at the clock in this room, he says. For 24 hours the sum of the figures it indicates will no longer be the same as it is now. We cannot, however, remain here to check as, as you know, from next midnight until 3 a.m. we will unfortunately have to stop work to allow cleaning in the hall. Knowing that there is a normal digital clock in the room that indicates the hours from 00:00 to 23:59, determine the time indicated. In the answer, use the 2 digits on the left to indicate the time and the 2 digits on the right to indicate minutes.
+> The Fateful Hour
+> 30 points
+> At the end of a delicate vote, the President of the Parliament of the Republic of Bananas eases the tension among those present with a frivolous mathematical remark. "Look at the clock in this chamber," they say. "For 24 hours, the sum of the digits it shows will no longer be equal to the sum that is shown now. However, we cannot stay here to check, since, as you know, from midnight tomorrow until 03:00 we will unfortunately have to suspend proceedings to allow the chamber to be cleaned." Knowing that there is a normal digital clock in the chamber showing the time from 00:00 to 23:59, determine the time shown. In the answer, use the two digits on the left to indicate the hour and the two digits on the right to indicate the minutes.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2007#q01|src_gs_2007__Q01]]
 
 
 
@@ -93,9 +101,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*reconstruct the digits of a subtraction*
+*Reconstruct the numbers in a subtraction problem*
 
-> Despite several months since the elections, the results in the Banana Republic are still not entirely clear. The new committee which is examining the minutes from the seats is often faced with messed up minutes. In one the following subtraction appears at 0 0 8 c 2 − 4 ♦ ♥ 8 8 d = 2 ♣  b 7 3 where letters and symbols represent unreadable numbers (it is not said that different symbols and letters represent different numbers). Nevertheless, the committee manages to reconstruct part of the calculation. Enter in the answer (left to right) the digits corresponding to the letters a, b, c, d.
+> The recount
+> 30 points
+> Although several months have passed since the election, in the Banana Republic the results still have not been fully clarified. The new commission examining the records from the polling stations often comes across garbled records. One such record contains the following subtraction: 0 0 8 c 2 − 4 ♦ ♥ 8 8 d = 2 ♣ ♠ b 7 3, where letters and symbols represent illegible digits (it is not necessarily the case that different symbols and letters represent different digits). Despite everything, the commission manages to reconstruct part of the calculation. In the answer (from left to right), indicate the digits corresponding to the letters a, b, c, d.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2007#q02|src_gs_2007__Q02]]
 
 
 
@@ -132,7 +148,17 @@ level: squadre
 
 *Angles of a triangular courtyard divided into three*
 
-> The Parliament of the Banana Republic has a triangular courtyard in which Members of Parliament usually recreate themselves during breaks between work. In order to avoid clashes between the three opposing factions, it was decided to divide the courtyard into three triangular zones by means of trusses that start from the vertices of the courtyard and compete at an inner point. The Triangle of the Majority and the Triangle of the Opposition are isosceles based on the side of the court that is theirs. The side they have in common is as long as the courtyard side that belongs to the undecided zone. Knowing that the corners at the base of the Majority Triangle measure 20°, determine the corners of the courtyard. In the answer, after ordering the angles (in sexagesimal degrees) from major to minor, use the 2 digits on the left to indicate the middle measurement angle and the 2 digits on the right to indicate the minor angle. Team competition  Local phases  Problem texts  Pages. 1 di 7
+> Separated at home
+> 30 points
+> The Parliament of the Republic of Bananas has a triangular courtyard, in which Members of Parliament usually relax during breaks between sessions. To avoid clashes between the three opposing factions, it was decided to divide the courtyard into three triangular zones using barriers that start from the vertices of the courtyard and meet at an internal point. The Majority triangle and the Opposition triangle are isosceles, with their bases on the side of the courtyard corresponding to each of them. The side they share is as long as the side of the courtyard belonging to the Indecisive zone. Given that the base angles of the Majority triangle measure 20°, determine the angles of the courtyard. In the answer, after ordering the angles (in degrees) from largest to smallest, use the two digits on the left to indicate the intermediate-angle measure and the two digits on the right to indicate the smallest angle.
+> Team Competition – Local Stage – Problem Statements – Page 1 of 7
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2007#q03|src_gs_2007__Q03]]
 
 
 
@@ -188,9 +214,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Finding the package with the wrong total and the correct value*
+*Find the package with the incorrect total and the correct value*
 
-> On the occasion of the Christmas holidays, the head of a large company on the verge of bankruptcy prepared 5 gift packages to thank the powerful on duty. The 5 packages contain watches, jewellery, and paintings by the author. To avoid leaving too many traces in the balance sheet, the situation was set as follows: Package 1 Package 2 Package 3 Package 4 Package 5 ♦ ♦ ♦ ♦ ♦ ♦ ♦ ♦ ♦ ♦ ♦ ♦ ♦ ♦ ♦ ♦        ♦ ♦ ♦ ♦ ♦ ♦ ♦ ♦       110 80 140 130 100 It is clear that the 3 symbols represent the 3 types of object, all of the same value (in the sense that all watches have the same value, as well as jewelry and frames, but of course a watch and a jewelry can have different values). It is also clear that the number shown below the package represents the total value of the items contained in it, expressed in some mysterious currency. Finally, it is clear that, to further complicate matters, one of the five totals was deliberately wrong. Determine how things are. In the answer, use the left digit to indicate the wrong value package and the remaining 3 digits to indicate the correct value. For example, if you think the value of the fifth package should be 80 instead of 100, answer 5080.
+> Grease the wheels
+> 30 points
+> During the Christmas holidays, the head of a large company on the brink of bankruptcy prepared 5 gift parcels to curry favor with the powerful figures of the day. The 5 parcels contain watches, jewelry, and original artworks. To leave too many traces in the balance sheet, he recorded the situation as follows: Parcel 1 Parcel 2 Parcel 3 Parcel 4 Parcel 5 ♦ ♦ ♦ ♦ ♥ ♦ ♦ ♦ 110 80 140 130 100 It is clear that the 3 symbols represent the 3 types of items, all of the same value (meaning that all watches have the same value, as do all pieces of jewelry and all artworks, but obviously a watch and a piece of jewelry can have different values). It is also clear that the number indicated below the parcel represents the total value of the items contained in it, expressed in some mysterious currency. Finally, it is clear that, to complicate matters further, one of the 5 totals was deliberately incorrect. Determine how things stand. In the answer, use the digit on the left to indicate the parcel with the incorrect value, and use the remaining 3 digits to indicate the correct value. For example, if you think that the value of the fifth parcel should be 80 instead of 100, respond with 5080.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2007#q04|src_gs_2007__Q04]]
 
 
 
@@ -222,9 +255,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Assigning means of transport with logical constraints*
+*Assign means of transport with logical constraints*
 
-> Friends enemies 30 points Six colleagues are on a business trip. Due to some incompatibilities of character, they decide to travel in groups of 2, using different means of transport: airplane, train, bus. Francis is traveling with Gianfranco. Maximo takes the plane. Roman doesn't want to travel with Silvio at all, and he's taking the plane. Umberto does not travel by train. Determine what means the six colleagues will use to travel. To write the answer, use the convention that airplane = 1, train = 2, bus = 3, then indicate, from left to right, the means of transport chosen by Francesco, Romano, Silvio, Umberto.
+> Friends and Foes
+> 30 points
+> Six colleagues have to go on a business trip. Due to certain personality incompatibilities, they decide to travel in groups of two, using different modes of transport: plane, train, bus. Francesco travels with Gianfranco. Massimo takes the plane. Romano absolutely does not want to travel with Silvio, nor to take the plane. Umberto does not travel by train. Determine what modes of transport the six colleagues will use. To write the answer, use the convention that plane = 1, train = 2, bus = 3; then, from left to right, indicate the modes of transport chosen by Francesco, Romano, Silvio, and Umberto.
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2007#q05|src_gs_2007__Q05]]
 
 
 
@@ -255,9 +296,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of socks to guarantee couples per 2007 people*
+*Minimum number of socks needed to ensure pairs for 2007 people*
 
-> Hidden financing 30 points A well-known sock manufacturer has decided to finance policy in the Banana Republic. In order not to displease the politicians, no one sent a container with 4,000 white socks, 2,000 black socks, 1600 red socks, 1,000 green socks, 800 yellow socks and 600 blue socks. Determine the minimum number of socks to be fished at random (all together) so that there are enough socks for 2007 people (each person must have 2 of the same colour). Team competition  Local phases  Problem texts  Pages. 2 di 7
+> Hidden funding
+> 30 points
+> A well-known sock-manufacturing company has decided to fund politics in the Banana Republic. To please everyone, it sent the politicians a container containing 4,000 white socks, 2,000 black socks, 1,600 red socks, 1,000 green socks, 800 yellow socks, and 600 blue socks. Determine the minimum number of socks that must be drawn at random (all at once) so that there will then certainly be enough socks for 2,007 people (meaning each person must have 2 socks of the same color).
+> Team Competition – Local Phase – Problem Statements – Page 2 of 7
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2007#q06|src_gs_2007__Q06]]
 
 
 
@@ -289,9 +340,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many people voted Exit poll with vote exchange
+*How many voted Yes, given the exit poll with vote swapping*
 
-> Exit polls 30 points In a referendum 10,000 voters took part, who were asked to vote on the construction of a new building for the teams' competitions. Everyone regularly voted either Yes or No. A polling agency asked all voters to repeat their vote in order to prepare exit polls. However, as is regularly the case, 90% of those who voted Yes said they voted No, and 90% of those who voted No said they voted Yes. Knowing that 3600 voters declared that they voted Yes, determine how many actually voted for Yes.
+> Exit polls
+> 30 points
+> 10,000 voters took part in a referendum, and they had to decide on the construction of a new indoor arena for holding team competitions. All of them duly voted either "Yes" or "No". As they left the polling stations, a polling agency asked all voters to repeat their vote in order to prepare the exit polls. However, as regularly happens, 90% of those who had voted "Yes" said they had voted "No", and 90% of those who had voted "No" said they had voted "Yes". Knowing that 3,600 voters said they had voted "Yes", determine how many actually voted "Yes".
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2007#q07|src_gs_2007__Q07]]
 
 
 
@@ -325,9 +384,18 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most prime factor of S with iterated logarithmic expense*
+*Maximum prime factor of S with iterated logarithmic cost*
 
-> Cutting spending 40 points To cope with the enormous debt, the Government of the Banana Republic has launched a plan to cut public spending. This plan provides that the expenditure in each of the following years will be the logarithm of the previous year's expenditure, and that this logarithm is calculated on the basis given from the previous year. Thus, for example, public expenditure in 2008 will be the logarithm based on 2007 of public expenditure in 2007, and similarly public expenditure in 2009 will be the logarithm based on 2008 of public expenditure in 2008. In this step, the government expects public expenditure to be only EUR 2 in 2011. Indicated with S the number indicating public expenditure for this year (2007), determine the largest prime factor of S.
+> Spending cuts
+> 40 points
+> To tackle the enormous debt, the government of the Republic of Bananas has launched a public spending cuts plan. This plan provides that, in each of the coming years, spending will be the logarithm of the previous year's spending, with the logarithm being calculated using as its base the value of the previous year itself. Thus, for example, public spending in 2008 will be the base-2007 logarithm of public spending in 2007, and similarly, public spending in 2009 will be the base-2008 logarithm of public spending in 2008. Proceeding at this rate, the government expects that in 2011 public spending will be only 2 euros. Let S denote the number representing this year's (2007's) public spending; determine the largest prime factor of S.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2007#q08|src_gs_2007__Q08]]
 
 
 
@@ -358,9 +426,18 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angles of two straight given red/green area ratio*
+*Angles of two lines, given the red/green area ratio*
 
-> The bipartisan ceiling 40 points The design of a ceiling consists of 3 concentric circles of radius 1, 2, 3 metres, and 2 straight lines passing through the centre of the circles. The three circumferences and the two straight lines determine 12 limited regions, each of which is planted with red or green flowers, ensuring that two regions with flowers of the same colour have at most one point in common. Knowing that the area with the red flowers is equal to one and a half times the area with the green flowers, determine the sexagesimal degree measurement of the two smaller angles formed by the two straight lines.
+> The Bipartisan Flowerbed
+> 40 points
+> The design of a flowerbed consists of 3 concentric circles with radii of 1, 2, and 3 metres, and of 2 straight lines passing through the centre of the circles. The 3 circles and the 2 lines determine 12 bounded regions; in each of these regions, red or green flowers are planted, with care taken to ensure that two regions containing flowers of the same colour have at most one point in common. Given that the area occupied by the red flowers is one and a half times the area occupied by the green flowers, determine the measure, in sexagesimal degrees, of the two smallest angles formed by the two lines.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2007#q09|src_gs_2007__Q09]]
 
 
 
@@ -393,9 +470,18 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of years with sum of iterated digits equal to 2007*
+*Sum of years with sum of repeated digits equal to 2007*
 
-> Panem et circenses 40 points There are few moments when one can be proud of being a citizen of the Banana Republic. Of these, the first is certainly the victories in major international sporting competitions. Unfortunately, these have concentrated in a few years. One numerology expert noted that this happened in all but one year with this property: the sum of the number of years, the sum of its digits, and the sum of the digits of the sum of the digits is equal to 2007. For example, in 2005 there were no major victories as 2005+7+7 =2007. Determine the sum of the numbers of all the years (from 1900 onwards) in which major sporting victories have taken place. Team competition  Local phases  Problem texts  Pages. 3 di 7
+> Bread and circuses
+> 40 points
+> There are few moments when one can be proud to be a citizen of the Republic of Bananas. Among these, victories in major international sports competitions certainly come first. Unfortunately, these victories were concentrated over just a few years. A numerology expert has noted that this happened in all and only the years with this property: "the sum of the year number, the sum of its digits, and the sum of the digits of the sum of the digits equals 2007." For example, in 2005 there were no major victories, since 2005+7+7 ≠ 2007. Determine the sum of the numbers of all years (from 1900 onward) in which the major sports victories occurred.
+> Team Competition – Local Round – Problem Statements – Page 3 of 7
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2007#q10|src_gs_2007__Q10]]
 
 
 
@@ -424,9 +510,17 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square perimeter consisting of a rectangle at L*
+*Perimeter of the square reassembled from an L-shaped rectangle*
 
-> Incredible fact: In the Banana Republic, two parties united to form one. To keep track of the 2 different traditions, the new party symbol contains a rectangle divided into 2 equal parts of different color, whose shape vaguely resembles an L letter. Furthermore, if one cuts the two parts, they can be reassembled to form a square. Assuming that the operation is carried out from a large manifesto in which the rectangle has a perimeter of 7020 millimetres, the perimeter of the square to be formed shall be determined in millimetres.
+> Confluences
+> 40 points
+> Incredible fact: in the Banana Republic, 2 parties joined together to form a single party. To preserve a record of the 2 different traditions, the new party's symbol contains a rectangle divided into 2 equal parts of different colors, whose shape vaguely resembles the letter L. Moreover, if one cuts out the 2 parts, they can be reassembled to form a square. Assuming the operation is carried out starting from a large poster in which the rectangle has a perimeter of 7020 millimetres, determine, again in millimetres, the perimeter of the square that is formed.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2007#q11|src_gs_2007__Q11]]
 
 
 
@@ -460,9 +554,18 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time to recover a hat in a river*
+*Time to retrieve a hat from a river*
 
-> And the boat 's going . . . Maximo is taking his friend Giovanna up a river with a boat. Maximum countercurrent bend at a constant speed with respect to the shore of 1 Km/h while the river flows at a constant speed of 2 Km/h (always with respect to the shore). Joan rests her hat on the edge of the boat and as she continues to chat with Maximo, she does not notice that the hat falls into the water and floats away. Only 30 minutes after the hat fell, Giovanna realizes she's lost it. Maximo then immediately spins the boat and pursues the capellino always rowing at the same pace as before (keeping, therefore, the same relative speed with respect to water). Ignoring the time that Maximo takes to make the turn, determine how many minutes pass between the moment the hat falls into the water and the moment Joan manages to recover it.
+> And the boatman goes . . .
+> 40 points
+> Massimo is taking his friend Giovanna up a river in a small boat. Massimo is rowing against the current at a constant speed relative to the bank of 1 km/h, while the river is flowing at a constant speed of 2 km/h (again relative to the bank). Giovanna places her little hat on the edge of the boat and, continuing to chat with Massimo, does not notice that the hat falls into the water and drifts away while floating. Only 30 minutes after the hat fell in does Giovanna realize that she has lost it. Massimo then immediately turns the boat around and pursues the hat, rowing at the same pace as before (thus maintaining, in magnitude, the same relative speed with respect to the water). Ignoring the time Massimo takes to turn the boat, determine how many minutes elapse between the instant the hat falls into the water and the instant Giovanna manages to retrieve it.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2007#q12|src_gs_2007__Q12]]
 
 
 
@@ -490,9 +593,17 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of digits 25^3007 multiplied by 8^2007*
+*The number of digits in 25^3007 multiplied by 8^2007*
 
-> In the Banana Republic, every government complains about the budget gaps left by the previous government. The previous government claimed to have found a debt of EUR 253007. The current government, to lower the dose, claims to have found a debt equal to that complained by the previous government multiplied by 82007. Determine how many digits would be needed to write out the decimal representation of the number indicating the estimated debt of the current government.
+> The Abyss
+> 40 points
+> In the Banana Republic, every government complains about the budget shortfalls left by the previous government. The previous government claimed to have found a debt of 253,007 euros. The current government, to rub it in further, claims to have found a debt equal to the debt complained about by the previous government multiplied by 82,007. Determine how many digits would be needed to write out in words the decimal representation of the number that indicates the debt estimated by the current government.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2007#q13|src_gs_2007__Q13]]
 
 
 
@@ -527,9 +638,19 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of faces of a polyhedron after six movements*
+*Number of faces of a polyhedron after six chamferings*
 
-> 50 points polyhedral lamps In the Parliament's party hall there is a super modern lighthouse. The shape of the bulb is a polyhedron which can be thought of as being obtained from a cube and operating 6 smussements. The first move consists of taking the cube and cutting off a small tetrahedron corresponding to each vertex of the cube in which 3 spikes compete: a solid with 6 octagonal faces (not necessarily regular) and 8 triangular faces is obtained. At this point, again the stirring operation on the new solid is repeated, removing a small tetrahedron corresponding to each vertex of the new solid in which 3 spikes compete, and so on. Determine how many faces the lamp has. Team competition  Local phases  Problem texts  Pages. 4 di 7
+> Polyhedral lights
+> 50 points
+> In the Parliament's banqueting hall, there is a state-of-the-art chandelier. The chandelier has the shape of a polyhedron that can be thought of as obtained by starting with a cube and performing 6 "chamfers". The first chamfer consists of taking the cube and cutting away a small tetrahedron at each vertex of the cube where three edges meet: this yields a solid with 6 octagonal faces (not necessarily regular) and 8 triangular faces. At this point, the chamfering operation is repeated on the new solid, removing a small tetrahedron at each vertex of the new solid where three edges meet, and so on. Determine how many faces the chandelier has.
+> Team Competition – Local Phase – Problem Statements – Page 4 of 7
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_induzione|Induction]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2007#q14|src_gs_2007__Q14]]
 
 
 
@@ -564,9 +685,17 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Third and fourth day positive with always full mean*
+*Positive on the third and fourth days, with averages still whole*
 
-> The good example 50 points It is known that in the Banana Republic it is absolutely forbidden for Members of Parliament to consume bananas. In order to investigate compliance with this provision, the subjects of a televised broadcast took samples of organic material from the Members themselves under pretext and then analysed them to reveal the possible consumption of the prohibited fruit. The survey was carried out over 5 consecutive days. At the end of each day, the delegates set out the number of Members who had tested positive and also calculated the average number of those who had tested positive up to that day. Oddly enough, five times the average was a whole. Knowing that the number of positive cases on the various days was 71, 76, 80, 82, 91 (not necessarily in the order), determine how many positive cases were on the third and fourth days. In the answer, use the 2 digits on the left to indicate the number of positive on the third day, and the 2 digits on the right to indicate the number of positive on the fourth day.
+> The good example
+> 50 points
+> It is known that in the Banana Republic, Members of Parliament are strictly forbidden from consuming bananas, precisely. To investigate compliance with this provision, correspondents for a well-known television program, under a pretext, collected samples of organic material from the Members of Parliament themselves and then had the samples analyzed in order to expose any consumption of the forbidden fruit. The investigation spanned 5 consecutive days. At the end of each day, the correspondents noted the number of Members of Parliament who tested positive and also calculated the average number of positive cases up to that day. Strangely, on 5 occasions the average came out as a whole number. Knowing that the number of positive cases on the various days was 71, 76, 80, 82, 91 (not necessarily in that order), determine how many positive cases there were on the third and fourth days. In the answer, use the two digits on the left to indicate the number of positive cases on the third day, and the two digits on the right to indicate the number of positive cases on the fourth day.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2007#q15|src_gs_2007__Q15]]
 
 
 
@@ -597,9 +726,17 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the three largest numbers on the horizontal line of an H*
+*Sum of the three largest numbers on the horizontal bar of a H*
 
-> I don 't understand any of that . . . H 50 points past Sudoku-mania, a new game goes to the major in the Banana Republic. It starts with a pattern of 7 equal squares arranged to form a letter H. The goal is to fill the squares using only the digits 1 to 7 and making sure that the sum of the 3 numbers written on each of the 3 arms of the letter H is always the same. By decreasing the order of the 3-digit numbers that can appear in the horizontal line (obviously in a pattern completely compiled according to the rules), determine the sum of the 3 largest.
+> I don't understand a . . . H
+> 50 points
+> Now that the Sudoku craze has passed, a new game is all the rage in the Republic of Bananas. It starts with a small grid made up of 7 identical squares arranged to form the letter H. The goal is to fill the squares using only the digits from 1 to 7, making sure that the sum of the 3 numbers written in each of the 3 arms of the letter H is always the same. By arranging in descending order the three-digit numbers that can appear in the horizontal bar (obviously, in a grid completely filled in according to the rules), determine the sum of the 3 largest ones.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2007#q16|src_gs_2007__Q16]]
 
 
 
@@ -629,9 +766,18 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real kilometres given a counting kilometre that skips digits*
+*Actual kilometres given a odometer that skips numbers*
 
-> A banana republican politician tampered with the meter of his blue car so that he could see a greater distance and increase the corresponding reimbursement of his expenses. As a result of the tampering, all the numbers in the calculator now go directly from 3 to 5 (leaping 4), and from8 to 0 (leaping 9). At the beginning of the year, the meter was 2007 and now it is 7002. Determine how many kilometres the car actually traveled.
+> Expense reimbursement
+> 50 points
+> A politician from the Banana Republic tampered with the odometer on his blue car so as to make it appear that the car had been driven farther and thereby increase the expense reimbursement to which he was entitled. As a result of the tampering, all the odometer readings now go directly from 3 to 5 (skipping 4) and from 8 to 0 (skipping 9). At the beginning of the year, the odometer read 2007; now it reads 7002. Determine how many kilometres the car has actually been driven.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2007#q17|src_gs_2007__Q17]]
 
 
 
@@ -666,9 +812,18 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of MPs becoming independent*
+*Minimum number of parliamentarians who became independents*
 
-> The 60 points turning point The Members of the Banana Republic were divided into 200 parliamentary groups. Each group had a different number of elements, always greater than or equal to 7. After a government crisis, things changed. Now some Members have become independent (i.e. they are not part of any group), while others have formed new parliamentary groups. Once again, all groups have a different number of elements, always greater than or equal to 7. Moreover, as is usually the case, if two Members of Parliament were in the same group before the crisis, they are now either in different groups or at least one of them has become independent. Determine the minimum number of MPs who have become independent. Team competition  Local phases  Problem texts  Pages. 5 di 7
+> The U-turn
+> 60 points
+> The Deputies of the Republic of Bananas were divided into 200 parliamentary groups. All the groups had different numbers of members, though in every case the number was greater than or equal to 7. Following a government crisis, things changed. Now some Deputies have become independents (that is, they are not part of any group), while the others have formed new parliamentary groups. Once again, all the groups have different numbers of members, though in every case the number is greater than or equal to 7. Moreover, as usually happens, if two Parliamentarians were in the same group before the crisis, now they are either in different groups or at least one of them has become an independent. Determine the minimum number of Parliamentarians who have become independents.
+> Team Competition – Local Stage – Problem Statements – Page 5 of 7
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2007#q18|src_gs_2007__Q18]]
 
 
 
@@ -700,9 +855,17 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trees of three-digit numbers with digits 1-9*
+*Pairs of three-digit even numbers using digits 1–9*
 
-> The only agreement that the parties of the Banana Republic have found for the new electoral law is a drastic return to the past. In fact, there will be only one chamber in which the representatives of the nobility, the clergy, and the Third State will sit. Each of the three categories will have an equal number of representatives, so as to foster internal litigation. The numbers representing the categories will all be three digits, and the digits 1 to 9 will be used only once to write them. Knowing that the representatives of the nobility will be more than those of the clergy, who in turn will be more than those of the Third State, determine how many possible number threads represent the components of the 3 categories.
+> Return to the Past
+> 60 points
+> The only agreement that the parties of the Banana Republic have reached on the new electoral law provides for a drastic return to the past. Indeed, there will be a single chamber in which the representatives of the Nobility, the Clergy, and the Third Estate will sit. Each of the three categories will have an equal number of representatives, so as to encourage internal bickering. The numbers of representatives in each category will all be three-digit numbers, and to write them, the digits from 1 to 9 will be used exactly once. Given that the representatives of the Nobility will outnumber those of the Clergy, and that the latter will in turn outnumber those of the Third Estate, determine how many possible triples of numbers representing the members of the three categories there are.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2007#q19|src_gs_2007__Q19]]
 
 
 
@@ -734,9 +897,17 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance from the third bar of a 60 degree screw*
+*Distance from the third rail of a turnstile at 60 degrees*
 
-> In accordance with the latest provisions, the entrances to a stadium have been fitted with screws. A screw consists of three parallel metal bars arranged with the centers coinciding so as to form angles of 60° between them and so as to rotate around a vertical axis passing through the common centre. The moment a viewer is passing through the screw, the metal detector detects a suspicious metal object. The machine indicates that the suspected object is located in the plane of the bars and is 36 and 42 centimetres respectively from the two bars which delimit the angle of 60° in which it is located. Determine, always in centimetres, the distance of the object from the third bar (neglecting of course the thickness of the object and the bars).
+> For subscribers only
+> 60 points
+> In compliance with the latest regulations on the matter, the stadium entrances have been fitted with turnstiles. A turnstile consists of three coplanar metal bars whose centers coincide, so that the bars form 60° angles with one another and can rotate about a vertical axis passing through the common center. At the moment when a spectator is passing through the turnstile, the metal detector detects a suspicious metallic object. The device indicates that the suspicious object lies in the plane of the bars and is, respectively, 36 and 42 centimeters away from the two bars that bound the 60° angle in which the object is located. Determine, again in centimeters, the distance of the object from the third bar (obviously neglecting the thickness of the object and of the bars).
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2007#q20|src_gs_2007__Q20]]
 
 
 
@@ -771,9 +942,17 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of triangles made up of 13 point strings per circle*
+*Number of triangles formed by chords of 13 points on a circle*
 
-> In ancient times the present-day Banana Republic was ruled by authoritative rulers. The founder surrounded the capital Bananopolis with powerful circular walls that opened 13 gates. Each pair of doors was connected by a straight road. These roads were called "sacred streets". The arrangement of the gates meant that at no crossroads did three or more sacred paths meet. After the city was built, the oracle said that in order to thank the gods for their favor, one would have to run a paleo every year. The track on which to run had to be a triangle whose sides were stretches of sacred roads and whose vertices were not in correspondence with the gates (meaning as good also the triangles crossed by other sacred roads besides those on which the sides lie). Each year, the pallium was to be run on a different track: if all possible tracks were completed, the kingdom would collapse. Determine how long this ancient kingdom lasted.
+> The Palio of Bananopolis
+> 70 points
+> In ancient times, the present-day Republic of Bananas was governed by authoritative sovereigns. The founder surrounded the capital, Bananopolis, with mighty circular walls that had 13 gates. Each pair of gates was connected by a straight road. Such roads were called "sacred roads". The arrangement of the gates meant that no intersection had 3 or more sacred roads converging at it. After the city was built, the oracle declared that, in order to win the favor of the gods, a palio race had to be run every year. The track on which the race was to be run had to be a triangle whose sides were sections of sacred roads and whose vertices did not coincide with the gates (triangles crossed by other sacred roads in addition to those on which the sides lay were also considered valid). Moreover, each year the palio had to be run on a different course: once all possible courses had been used, the kingdom would collapse. Determine how many years this ancient kingdom lasted.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2007#q21|src_gs_2007__Q21]]
 
 
 
@@ -804,9 +983,18 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of a greenhouse with square base and triangular faces*
+*Volume of a greenhouse with a square base and triangular faces*
 
-> Greenhouse 70 points A greenhouse protects banana cultivation (for aesthetic purposes only) in Parliament's gardens during the winter months. The base of the greenhouse is a square with an area of 450 m2. From two opposite sides of the square, two equilateral triangle-shaped greenhouse faces begin. The remaining two sides of the square are the bases (minors) of two equal isosceles. The larger foundations of the two trapezoids, twice the length of the side of the square, are joined at the top to complete the structure. Determine the volume of the greenhouse in cubic metres. Team competition  Local phases  Problem texts  Pages. 6 di 7
+> The saw
+> 70 points
+> In the winter months, a greenhouse protects the banana crop (for aesthetic purposes only) in the gardens of Parliament. The base of the greenhouse is a square with an area of 450 m². From two opposite sides of the square, two triangular faces of the greenhouse, each in the shape of an equilateral triangle, extend. The remaining two sides of the square are the (shorter) bases of two identical isosceles trapezoids. The longer bases of the two trapezoids, each twice as long as a side of the square, are joined at the top to complete the structure. Determine the volume of the greenhouse in cubic metres.
+> Team Competition – Local Stage – Problem Statements – Page 6 of 7
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2007#q22|src_gs_2007__Q22]]
 
 
 
@@ -852,7 +1040,15 @@ How many people voted Exit poll with vote exchange
 
 *Minimum of a sum of roots (optimal broken path)*
 
-> To find out the duration of the next government, the Prime Minister of the Banana Republic decided to consult an astrologer. The astrologer asked him the dates and times of birth of all those who support him, from which, by compiling complex tables, he obtained 3 important parameters. Now he's about to insert these three parameters into a new software that should provide it with government days. What no one knows is that the engineer who programmed the software had no idea how to account for those parameters and so, to confuse the waters a bit, he did a program that, received in input 3 numbers x, y, z, returns in output the entire part of √ x2 + 1 + p (y −x) 2 + 4 + p (z −y) 2 + 1 + p (10 −z) 2 + 9 2). Knowing that the 3 parameters calculated by the astrologer can be any real number, determine how many days the new government will last, at least.
+> Astrological rip-off
+> 80 points
+> To find out how long the next government will last, the Prime Minister of the Republic of Bananas decided to consult an astrologer. The astrologer asked for the dates and times of birth of all those who support him and, by filling in complex tables, derived 3 important parameters from them. He is now about to enter these 3 parameters into new software that should give him the duration of the government in days. What no one knows is that the engineer who programmed the software had no idea how to take those parameters into account and so, to muddle things up a bit, wrote a program that, given 3 numbers x, y, z as input, outputs the integer part of √ x2 + 1 + p (y −x)2 + 4 + p (z −y)2 + 1 + p (10 −z)2 + 9 2 . Knowing that the 3 parameters calculated by the astrologer can be any real numbers, determine the minimum number of days that the new government will last.
+
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2007#q23|src_gs_2007__Q23]]
 
 
 
@@ -884,6 +1080,15 @@ How many people voted Exit poll with vote exchange
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum eulerian round in a 64x37 lattice*
+*Minimum Eulerian tour in a 64x37 grid*
 
-> The 80 points round To maintain discipline among the main members of the parties that speak for it, the Prime Minister of the Banana Republic decided to place them in a tent town. This resulted in the construction of a huge encampment divided by streets in a grid of 64 × 37 square feet all equal, inside each of which there is a tent. Every night, to avoid conspirations, the Prime Minister leaves a summit of the camp and, after having walked at least once through all the inner and perimeter roads, returns to the summit of departure. Determine how long, at least, the Prime Minister's round is (express the answer by taking as a unit of measurement the length of the sides of the grid squares). Team competition  Local phases  Problem texts  Pages. 7 di 7
+> The round
+> 80 points
+> To maintain discipline among the leading figures of the parties that pay lip service to supporting him, the Prime Minister of the Republic of Bananas has decided to house them in a tent city. This has entailed the construction of a huge camp, divided by small paths into a grid of 64 × 37 identical squares, with one tent inside each square. Each night, to prevent conspiracies, the Prime Minister sets out from one corner of the camp and, after traversing all the internal and perimeter paths at least once, returns to the starting corner. Determine the minimum length of the Prime Minister's patrol (express the answer using the side length of the squares in the grid as the unit of measure).
+> Team Competition – Local Stage – Problem Statements – Page 7 of 7
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2007#q24|src_gs_2007__Q24]]

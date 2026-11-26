@@ -26,20 +26,21 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0317
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer points in the circle of radius 10 centered at the origin*
+*Lattice points inside the circle of radius 10 centered at the origin*
 
-> Integer coordinates
-> How many points with both coordinates integers belong to the circle of radius 10 centered
-> at the origin, circumference included? (It is intended that the plane be given a usual
-> orthogonal monometric Cartesian system.)
+> How many points with both coordinates integers lie on the circle of radius 10 centered at the origin, including the circumference? (It is understood that the plane is equipped with the usual monometric orthogonal Cartesian coordinate system.)
 
-**Answer:** 0317
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_junior_f#q01|src_kangourou_2019_squadre_junior_f__Q01]]
 
 
 
@@ -60,21 +61,21 @@ level: squadre
 **Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0076
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total area of the tetrahedron*
+*Total surface area of the tetrahedron*
 
-> The tetrahedron
-> The figure shows a tetrahedron whose vertex S projects perpendicularly to P
-> onto the plane containing the face PQR. This face is a right triangle; the
-> edges SQ, SR and RQ are all 8 cm long. What is the integer closest to the number
-> that represents the area of the total surface of the tetrahedron, expressed in square centimeters?
+> The tetrahedron The figure shows a tetrahedron whose vertex S is projected perpendicularly onto the plane containing face PQR at point P. This face is a right-angled triangle; the edges SQ, SR, and RQ are all 8 cm long. What is the integer closest to the number representing the total surface area of the tetrahedron, expressed in square centimeters?
 
-**Answer:** 0076
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_junior_f#q02|src_kangourou_2019_squadre_junior_f__Q02]]
 
 
 
@@ -93,19 +94,21 @@ level: squadre
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9376
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number 4 automorphic digits (last 4 digits of the square)*
+*Automorphic 4-digit number (last 4 digits of the square)*
 
-> The digits of the square
-> There is only one positive four-digit integer such that the last four digits of its
-> square are the number itself. What is it?
+> The Digits of the Square There is exactly one positive four-digit integer such that the last four digits of its square are the number itself. What is it?
 
-**Answer:** 9376
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_junior_f#q03|src_kangourou_2019_squadre_junior_f__Q03]]
 
 
 
@@ -125,20 +128,21 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2027
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability that Giulio totals two wins first*
+*Probability that Giulio will be the first to secure two wins*
 
-> Tennis
-> Giulio and Piero play several tennis matches. Giulio, who is better, in each match has 2/3
-> probability of winning. What is the probability that Giulio is the first to total two wins?
-> (Write in order the numerator and the denominator of the fraction reduced to lowest terms.)
+> Tennis: Giulio and Piero play several tennis matches. Giulio, who is better, has a 2/3 chance of winning each match. What is the probability that Giulio will be the first to record two wins? (Write, in order, the numerator and the denominator of the fraction in its simplest form.)
 
-**Answer:** 2027
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_squadre_junior_f#q04|src_kangourou_2019_squadre_junior_f__Q04]]
 
 
 
@@ -159,20 +163,22 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9990
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alignments of six monotonous digits not all equal*
+*Monotonic six-digit alignments that are not all the same*
 
-> The arrangements
-> How many different arrangements made up of six of the digits from 0 to 9 can be constructed, if in each
-> arrangement the digits are allowed to be repeated, but not all equal, and appear in
-> (not strictly) increasing or decreasing order?
+> Arrangements: How many different arrangements can be formed using six of the digits from 0 to 9 if, in each arrangement, the digits may be repeated but not all of them may be the same, and if the digits appear in (not strictly) increasing or decreasing order?
 
-**Answer:** 9990
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_squadre_junior_f#q05|src_kangourou_2019_squadre_junior_f__Q05]]
 
 
 
@@ -192,19 +198,22 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0056
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many n with [n/20]=[n/17]*
+*Quanti n with [n/20]=[n/17]*
 
-> The integer part
-> For every real number x, the symbol [x] denotes the largest integer that does not exceed x. How many
-> positive integers n are such that [n/20] = [n/17] ?
+> The integer part: For every real number x, the symbol [x] denotes the greatest integer that does not exceed x. How many positive integers n satisfy [n/20] = [n/17]?
 
-**Answer:** 0056
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_junior_f#q06|src_kangourou_2019_squadre_junior_f__Q06]]
 
 
 
@@ -226,22 +235,21 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0010
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*P'OQ' convex angle after three hours of running*
+*Convex angle P'OQ' after three hours of running*
 
-> The circuit
-> Gino and Lino run on a circular circuit with center O (see the figure):
-> Gino starts from point P and moves counterclockwise, Lino starts from point Q and moves clockwise. The angle POQ measures 10 degrees. They start at the same instant and in the first hour each covers a quarter of the circuit; at
-> the end of each subsequent hour, the average speed maintained turns out to be two thirds
-> of the average speed maintained in the previous hour. Let P’ be the position of
-> Gino and Q’ that of Lino after three hours of running, how many degrees does the convex angle P’OQ’ measure?
+> The Circuit: Gino and Lino run on a circular track centered at O (see the figure): Gino starts at point P and moves counterclockwise, while Lino starts at point Q and moves clockwise. The angle POQ measures 10 degrees. They start at the same instant, and during the first hour each covers a quarter of the track; at the end of each subsequent hour, the average speed maintained is two-thirds of the average speed maintained during the preceding hour. Let P' be Gino's position and Q' be Lino's position after three hours of running; how many degrees does the convex angle P'OQ' measure?
 
-**Answer:** 0010
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_junior_f#q07|src_kangourou_2019_squadre_junior_f__Q07]]
 
 
 
@@ -263,21 +271,22 @@ level: squadre
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 4035
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of distinct mean points for 2019 points*
+*Minimum number of distinct average points per 2019 points*
 
-> The midpoints
-> Consider 2019 distinct points in a plane. For every pair of such points consider the
-> midpoint of the segment determined by the pair and let S be the set of such midpoints (any coinciding
-> midpoints identify a single element of S). What is the minimum possible number for the
-> elements of S?
+> Midpoints Consider 2019 distinct points in a plane. For each pair of such points, consider the midpoint of the line segment determined by the pair, and let S be the set of these midpoints (any coinciding midpoints correspond to a single element of S). What is the minimum possible number of elements of S?
 
-**Answer:** 4035
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_junior_f#q08|src_kangourou_2019_squadre_junior_f__Q08]]
 
 
 
@@ -297,20 +306,21 @@ level: squadre
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1622
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial number ABC2 by correlation with reorder*
+*Initial ABC2 number from the report with reorganization*
 
-> A 4-digit number
-> The units digit of a four-digit number with significant digits is 2. If it is moved to the first place,
-> making it the thousands digit and leaving the order of the others unchanged, ¾ of the number
-> obtained is a number that differs by 0.5 from the initial number. What is the initial number?
+> A four-digit number. The units digit of a four-digit significant-number is 2. If this digit is moved to the first place, becoming the thousands digit, while the order of the other digits is left unchanged, then three-quarters of the resulting number is a number that differs by 0.5 from the original number. What is the original number?
 
-**Answer:** 1622
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_junior_f#q09|src_kangourou_2019_squadre_junior_f__Q09]]
 
 
 
@@ -331,20 +341,22 @@ level: squadre
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0050
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of numbers (3 decimals) with sum = product*
+*Pairs of numbers (3 decimal places) with sum = product*
 
-> Sum and product
-> How many pairs of non-negative numbers, written in decimal notation with at most three digits
-> after the decimal point, have their sum equal to their product? (Consider as two distinct pairs
-> the pairs in which the elements are swapped, such as (1.5; 3) and (3; 1.5))
+> Sum and Product: How many pairs of non-negative numbers, written in decimal notation with at most three digits after the decimal point, have a sum equal to their product? (Consider pairs in which the elements are swapped—such as (1.5; 3) and (3; 1.5)—to be distinct pairs.)
 
-**Answer:** 0050
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_junior_f#q10|src_kangourou_2019_squadre_junior_f__Q10]]
 
 
 
@@ -366,22 +378,21 @@ level: squadre
 **Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0119
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unknown side of the six rectangles in circumference*
+*The incognito area of the six rectangles within the circumference*
 
-> The six rectangles
-> In the figure you see a circle of radius 25 dm inside which
-> six rectangles are arranged, congruent two by two, each with two vertices
-> on the circle and the other two shared with the adjacent rectangles. The side
-> of the rectangles having only one endpoint on the circle measures 14 dm.
-> What is the integer closest to the length in centimeters of the other side?
+> The Six Rectangles In the figure, you can see a circle with a radius of 25 dm, inside which six rectangles are arranged, with two rectangles in each pair being congruent; each rectangle has two vertices on the circle and the other two vertices shared with the adjacent rectangles. The side of the rectangles that has only one endpoint on the circle measures 14 dm. What is the integer closest to the length, in centimeters, of the other side?
 
-**Answer:** 0119
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_junior_f#q11|src_kangourou_2019_squadre_junior_f__Q11]]
 
 
 
@@ -401,19 +412,22 @@ level: squadre
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9999
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First four decimal places of (sqrt50+7)^4*
+*First four decimal digits of (sqrt50+7)^4*
 
-> The decimal digits
-> What are the first four decimal digits (that is, to the right of the decimal point) in the
-> decimal representation of the number $(\sqrt{50} + 7)^4$?
+> Decimal digits: What are the first four decimal digits (that is, to the right of the decimal point) in the decimal representation of the number $(\sqrt{50} + 7)^4$?
 
-**Answer:** 9999
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_junior_f#q12|src_kangourou_2019_squadre_junior_f__Q12]]
 
 
 
@@ -438,24 +452,22 @@ level: squadre
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2664
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-step achievable points (invariant MCD)*
+*Points reachable in three moves (MCD invariant)*
 
-> Three moves
-> Starting from a point (x, y) in the plane (equipped with a usual orthogonal Cartesian system
-> with equal scales) with x and y positive integers, making a move means reaching the point (x − y, y)
-> or the point (x + y, y) or the point (y, x). As the possible choices of the starting point vary
-> in the circle centered at the origin with radius 4 and after suitable numbers of moves, how many of the points
-> contained in the circle of radius 1000 centered at the point (2019, 2019) and that have x-coordinate or
-> y-coordinate, or both, equal to 2019 can be reached? (The circles mentioned are understood
-> to include the circumference that bounds them).
+> Three Moves Starting from a point (x, y) in the plane (endowed with the usual monometric orthogonal Cartesian coordinate system), where x and y are positive integers, making a move means reaching the point (x − y, y), or the point (x + y, y), or the point (y, x). As the possible choices for the starting point vary within the circle centered at the origin with radius 4, and after appropriate numbers of moves, how many of the points contained in the circle of radius 1000 centered at the point (2019, 2019), and having abscissa or ordinate, or both, equal to 2019, can be reached? (The circles mentioned are understood to include the circumference that bounds them.)
 
-**Answer:** 2664
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_squadre_junior_f#q14|src_kangourou_2019_squadre_junior_f__Q14]]
 
 
 
@@ -477,18 +489,19 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2880
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to schedule three party invitations*
+*Ways of scheduling invitations to three parties*
 
-> Three parties
-> I want to hold three parties and I want to invite to each party three of my six friends; I want no triple
-> of friends to be invited to more than one party and that none of my friends is present at all three parties. In
-> how many different ways can I plan the invitations? (Two ways can be different if the triples
-> involved are different, or even just invited to different parties).
+> Three Parties I want to hold three parties and invite three of my six friends to each party; I want no trio of friends to be invited to more than one party, and I want none of my friends to be present at all three parties. In how many different ways can I arrange the invitations? (Two arrangements can be different if the trios involved are different, or even if the trios are simply invited to different parties.)
 
-**Answer:** 2880
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_squadre_junior_f#q15|src_kangourou_2019_squadre_junior_f__Q15]]

@@ -31,11 +31,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare interi a,b,c con condizione di divisibilità*
+*Interi 1 < a < b < c per cui (a−1)(b−1)(c−1) divide abc − 1*
 
-> Determinare tutti gli interi $a, b, c$ con $1 < a < b < c$ tali che
+> Trovare tutti gli interi $a, b, c$ con $1 < a < b < c$ tali che
 > $$(a-1)(b-1)(c-1)$$
-> sia divisore di $abc - 1$.
+> è un divisore di $abc - 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata per casi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_imho_1992#q01|src_imho_1992__Q01]]
 
 
 
@@ -59,10 +66,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le funzioni che soddisfano un'equazione funzionale*
+*Trovare tutte le funzioni che soddisfano un'equazione funzionale*
 
 > Sia $\mathbf{R}$ l'insieme di tutti i numeri reali. Determinare tutte le funzioni $f : \mathbf{R} \to \mathbf{R}$ tali che
 > $$f\left(x^2 + f(y)\right) = y + \left(f(x)\right)^2 \quad \text{for all } x, y \in \mathbf{R}.$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1992#q02|src_imho_1992__Q02]]
 
 
 
@@ -85,9 +99,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nove punti complanari, lati colorati, triangolo monocromatico*
+*Nove punti coplanari, spigoli colorati, triangolo monocromatico*
 
-> Si considerino nove punti nello spazio, nessuno dei quali quattro complanari. Ogni coppia di punti è congiunta da un segmento che viene colorato o di blu, o di rosso, oppure lasciato non colorato. Si determini il più piccolo valore di $n$ tale che, ogni volta che esattamente $n$ spigoli sono colorati, l'insieme degli spigoli colorati contiene necessariamente un triangolo i cui tre lati siano dello stesso colore.
+> Si considerino nove punti nello spazio, nessuno dei quali quattro siano complanari. Ogni coppia di punti è unita da un segmento di retta che è colorato in blu, in rosso o lasciato non colorato. Si determini il valore minimo di $n$ tale che, ogni volta che vengono colorati esattamente $n$ spigoli, l'insieme degli spigoli colorati contenga necessariamente un triangolo i cui spigoli siano tutti dello stesso colore.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1992#q03|src_imho_1992__Q03]]
 
 
 
@@ -110,9 +131,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Luogo del punto medio nella configurazione della circonferenza circoscritta*
+*Luogo geometrico del punto medio nella configurazione della circonferenza circoscritta*
 
-> Nel piano sia $C$ una circonferenza, $L$ una retta tangente alla circonferenza $C$, e $M$ un punto su $L$. Si determini il luogo dei punti $P$ con la seguente proprietà: esistono due punti $Q, R$ su $L$ tali che $M$ sia il punto medio del segmento $QR$ e $C$ sia la circonferenza inscritta del triangolo $PQR$.
+> Nel piano, sia $C$ una circonferenza, $L$ una retta tangente alla circonferenza $C$, e $M$ un punto su $L$. Si determini il luogo geometrico di tutti i punti $P$ aventi la seguente proprietà: esistono due punti $Q, R$ su $L$ tali che $M$ è il punto medio di $QR$ e $C$ è la circonferenza inscritta nel triangolo $PQR$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1992#q04|src_imho_1992__Q04]]
 
 
 
@@ -139,10 +167,16 @@ level: IMO
 
 *Proiezioni ortogonali di un insieme finito sui piani coordinati*
 
-> Siano $S$ un insieme finito di punti nello spazio tridimensionale. Siano $S_x$, $S_y$, $S_z$ gli insiemi formati rispettivamente dalle proiezioni ortogonali dei punti di $S$ sui piani $yz$, $zx$, $xy$. Si dimostri che
+> Sia $S$ un insieme finito di punti nello spazio tridimensionale. Siano $S_x$, $S_y$, $S_z$ gli insiemi costituiti rispettivamente dalle proiezioni ortogonali dei punti di $S$ sul piano $yz$, sul piano $zx$ e sul piano $xy$. Dimostrare che
 > $$|S|^2 \leq |S_x| \cdot |S_y| \cdot |S_z|,$$
-> dove $|A|$ indica il numero di elementi dell'insieme finito $|A|$.
-> (Nota: La proiezione ortogonale di un punto su un piano è il piede della perpendicolare condotta da quel punto al piano.)
+> dove $|A|$ denota il numero di elementi nell'insieme finito $|A|$. (Nota: la proiezione ortogonale di un punto su un piano è il piede della perpendicolare condotta da quel punto al piano.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1992#q05|src_imho_1992__Q05]]
 
 
 
@@ -171,12 +205,19 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*S(n) massimo intero tale che la somma di k quadrati positivi sia n*
+*S(n): intero massimo per la somma di k quadrati positivi*
 
-> Per ogni intero positivo $n$, $S(n)$ è definito come il massimo intero tale che, per ogni intero positivo $k \leq S(n)$, $n^2$ può essere scritto come somma di $k$ quadrati positivi.
-> 
-> **(a)** Si dimostri che $S(n) \leq n^2 - 14$ per ogni $n \geq 4$.
-> 
-> **(b)** Determinare un intero $n$ tale che $S(n) = n^2 - 14$.
-> 
-> **(c)** Si dimostri che esistono infiniti interi $n$ tali che $S(n) = n^2 - 14$.
+> Per ogni numero intero positivo $n$, $S(n)$ è definito come il più grande intero tale che, per ogni numero intero positivo $k \leq S(n)$, $n^2$ possa essere scritto come somma di $k$ quadrati positivi.
+>
+> **(a)** Dimostrare che $S(n) \leq n^2 - 14$ per ogni $n \geq 4$.
+>
+> **(b)** Trova un numero intero $n$ tale che $S(n) = n^2 - 14$.
+>
+> **(c)** Dimostrare che esistono infiniti numeri interi $n$ tali che $S(n) = n^2 - 14$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1992#q06|src_imho_1992__Q06]]

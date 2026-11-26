@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ogni polinomio è una differenza di due polinomi in aumento*
+*Ogni polinomio è una differenza di due polinomi crescenti*
 
-> Prova che ogni polinomio è una differenza di due polinomi in aumento.
+> Dimostrare che ogni polinomio è una differenza di due polinomi crescenti.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|method_casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1973_r3#q01|src_pol_1973_r3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Probabilità di testa in 100 lanci; convergenza delle sequenze*
+*Probabilità di testa in 100 lanci; convergenza della successione*
 
-> $p_n$ indichi la probabilità che, in $n$ lanci, una moneta giusta mostri la testa in su 100 volte consecutive. Prove che la sequenza $\{p_n\}$ converge e determina il suo limite.
+> Sia $p_n$ la probabilità che, in $n$ lanci, una moneta equa esca testa per 100 volte consecutive. Dimostrare che la successione $\{p_n\}$ converge e determina il suo limite.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1973_r3#q02|src_pol_1973_r3__Q02]]
 
 
 
@@ -84,11 +98,18 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il poliedro con sezioni di simmetria e parallelo è un parallelepiped*
+*Un poliedro con simmetria e sezioni parallelogrammatiche è un parallelepipedo*
 
-> Un poliedro $W$ ha le seguenti proprietà: (i) possiede un centro di simmetria. (ii) La sezione di $W$ di un piano che attraversa il centro della simmetria e uno dei suoi bordi è sempre un parallelo. (iii) C'è un vertice di $W$ in cui si incontrano esattamente tre bordi.
-> 
-> Provare che $W$ è un parallelepiped.
+> Un poliedro $W$ ha le seguenti proprietà: (i) possiede un centro di simmetria. (ii) La sezione di $W$ mediante un piano che passa per il centro di simmetria e per uno dei suoi spigoli è sempre un parallelogramma. (iii) Esiste un vertice di $W$ in cui convergono esattamente tre spigoli.
+>
+> Dimostrare che $W$ è un parallelepipedo.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1973_r3#q03|src_pol_1973_r3__Q03]]
 
 
 
@@ -111,9 +132,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Segmenti tradotti di lunghezza totale <1 su una linea rimanere lontani da dati punti*
+*Segmenti tradotti di lunghezza totale <1 su una linea, stai lontano dai punti dati*
 
-> Un insieme di segmenti con una lunghezza totale inferiore a 1 è indicato su una linea. Prova che ogni insieme di punti della linea può essere tradotto da un vettore di lunghezza non superiore a $\pi/2$, in modo che tutti i punti ottenuti siano lontani dai segmenti dati.
+> Su una retta è dato un insieme di segmenti la cui lunghezza totale è minore di 1. Dimostrare che ogni insieme di punti sulla retta può essere traslato mediante un vettore di lunghezza non superiore a $\pi/2$, in modo che tutti i punti ottenuti siano distanti dai segmenti dati.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_pol_1973_r3#q04|src_pol_1973_r3__Q04]]
 
 
 
@@ -136,9 +164,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ogni m/s razionale positivo è la somma delle reciprocità di interi numeri positivi distinti*
+*Ogni numero razionale positivo espresso in m/s è la somma dei reciproci di interi positivi distinti*
 
-> Prova che ogni numero razionale positivo $m/s$ può essere rappresentato come somma di reciprocità di diversi interi positivi.
+> Dimostrare che ogni numero razionale positivo $m/s$ può essere espresso come somma dei reciproci di interi positivi distinti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1973_r3#q05|src_pol_1973_r3__Q05]]
 
 
 
@@ -161,6 +196,13 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il poligono centralmente simmetrico ha un'ellisse che lo contiene con superficie minima*
+*Un poligono a simmetria centrale è contenuto in un'ellisse di area minima*
 
-> Prove che per ogni poligono centralmente simmetrico c'è al massimo un'ellisse contenente il poligono e con la superficie minima.
+> Dimostrare che, per ogni poligono simmetrico centrale, esiste al più un'ellisse che contiene il poligono e ha area minima.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1973_r3#q06|src_pol_1973_r3__Q06]]

@@ -30,10 +30,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Parallelogramma coperto da quattro circonferenze unitarie*
+*Parallelogramma coperto da quattro cerchi di raggio unitario*
 
-> Sia $ABCD$ un parallelogramma dai lati di lunghezza $AB = a$, $AD = 1$ e $\angle BAD = \alpha$. Se $\triangle ABD$ è acuto, si dimostri che i quattro cerchi di raggio 1 con centri in $A$, $B$, $C$, $D$ coprono il parallelogramma se e solo se
+> Sia $ABCD$ un parallelogramma con lati di lunghezza $AB = a$, $AD = 1$ e $\angle BAD = \alpha$. Se $\triangle ABD$ è acuto, dimostrare che le quattro circonferenze di raggio 1 aventi centri in $A$, $B$, $C$, $D$ ricoprono il parallelogramma se e solo se
 > $$a \le \cos\alpha + \sqrt{3}\sin\alpha.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1967#q01|src_imho_1967__Q01]]
 
 
 
@@ -56,9 +63,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un tetraedro con spigoli maggiori di 1 ha volume al più 1/8*
+*Un tetraedro con un solo spigolo maggiore di 1 ha volume al più 1/8*
 
-> Si dimostri che se esattamente uno spigolo di un tetraedro è maggiore di 1, allora il suo volume è $\le 1/8$.
+> Dimostrare che se uno e un solo spigolo di un tetraedro è maggiore di 1, allora il suo volume è $\le 1/8$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_imho_1967#q02|src_imho_1967__Q02]]
 
 
 
@@ -83,11 +97,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Divisibilità del prodotto di interi consecutivi per un primo*
+*Divisibilità del prodotto di interi consecutivi per un numero primo*
 
-> Siano $k$, $m$, $n$ numeri naturali tali che $m + k + 1$ sia un numero primo maggiore di $n + 1$. Sia $c_s = s(s+1)$. Si dimostri che il prodotto
+> Siano $k$, $m$, $n$ numeri naturali tali che $m + k + 1$ sia un numero primo maggiore di $n + 1$. Sia $c_s = s(s+1)$. Dimostrare che il prodotto
 > $$(c_{m+1} - c_k)(c_{m+2} - c_k)\cdots(c_{m+n} - c_k)$$
 > è divisibile per $c_1 c_2 \cdots c_n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1967#q03|src_imho_1967__Q03]]
 
 
 
@@ -110,9 +131,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli acutangoli simili a ABC di area massima*
+*Triangoli acutangoli simili ad ABC con area massima*
 
-> Siano $A_0B_0C_0$ e $A_1B_1C_1$ due triangoli acutangoli qualsiasi. Si considerino tutti i triangoli $ABC$ simili a $\triangle A_1B_1C_1$ (in modo che i vertici $A_1$, $B_1$, $C_1$ corrispondano rispettivamente ai vertici $A$, $B$, $C$) e circoscritti al triangolo $A_0B_0C_0$ (con $A_0$ su $BC$, $B_0$ su $CA$ e $C_0$ su $AB$). Tra tutti tali triangoli possibili, determinare quello di area massima e costruirlo.
+> Siano $A_0B_0C_0$ e $A_1B_1C_1$ due triangoli qualsiasi acutangoli. Si considerino tutti i triangoli $ABC$ simili a $\triangle A_1B_1C_1$ (cosicché i vertici $A_1$, $B_1$, $C_1$ corrispondano rispettivamente ai vertici $A$, $B$, $C$) e circoscritti al triangolo $A_0B_0C_0$ (dove $A_0$ giace su $BC$, $B_0$ su $CA$ e $C_0$ su $AB$). Tra tutti i triangoli possibili di questo tipo, si determini quello di area massima e lo si costruisca.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1967#q04|src_imho_1967__Q04]]
 
 
 
@@ -140,14 +168,21 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successione di somme di potenze che si annulla infinite volte*
+*Successione di somme di potenze che si annullano infinite volte*
 
-> Consideriamo la successione $\{c_n\}$, dove
+> Si consideri la successione $\{c_n\}$, dove
 > $$c_1 = a_1 + a_2 + \cdots + a_k,$$
 > $$c_2 = a_1^2 + a_2^2 + \cdots + a_k^2,$$
 > $$\vdots$$
 > $$c_n = a_1^n + a_2^n + \cdots + a_k^n,$$
-> con $a_1, a_2, \ldots, a_k$ numeri reali non tutti nulli. Supponiamo che un numero infinito di termini della successione $\{c_n\}$ sia uguale a zero. Determinare tutti i numeri naturali $n$ per cui $c_n = 0$.
+> in cui $a_1, a_2, \ldots, a_k$ sono numeri reali non tutti uguali a zero. Si supponga che un numero infinito di termini della successione $\{c_n\}$ siano uguali a zero. Si determinino tutti i numeri naturali $n$ per cui $c_n = 0$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1967#q05|src_imho_1967__Q05]]
 
 
 
@@ -170,6 +205,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Distribuzione delle medaglie in n giorni con la regola 1/7*
+*Distribuzione delle medaglie su n giorni con la regola 1/7*
 
-> In un concorso sportivo sono stati assegnati $m$ medaglie in $n$ giorni consecutivi ($n > 1$). Il primo giorno è stata assegnata una medaglia e $1/7$ delle medaglie rimanenti tra le $m - 1$ inizialmente disponibili. Il secondo giorno sono state assegnate due medaglie e $1/7$ delle medaglie rimanenti; e così via. L'ultimo giorno, il $n$-esimo, sono state assegnate le medaglie rimanenti, in numero di $n$. Quanti giorni è durato il concorso e quante medaglie sono state assegnate in totale?
+> In una competizione sportiva, sono state assegnate $m$ medaglie in $n$ giorni consecutivi ($n > 1$). Il primo giorno sono state assegnate una medaglia e $1/7$ delle restanti $m - 1$ medaglie. Il secondo giorno sono state assegnate due medaglie e $1/7$ delle medaglie rimaste in quel momento; e così via. Nel $n$-esimo e ultimo giorno sono state assegnate le restanti $n$ medaglie. Per quanti giorni è durata la competizione e quante medaglie sono state assegnate in totale?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1967#q06|src_imho_1967__Q06]]

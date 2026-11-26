@@ -29,7 +29,7 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0121
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -39,11 +39,13 @@ level: squadre
 
 ![[src_gs_2020__prob1.png]]
 
-> That branch of the lake (Silvia Sconza)
-> A.M.: That branch of the lake of Como which turns towards the south, between two unbroken chains of mountains...
-> Tira-dritto (turning to Sfregiato): How many dates between 1 January 1000 and 1 January 3000 are palindromic, that is, such that, written in the format g\_1g\_2/m\_1m\_2/a\_1a\_2a\_3a\_4, we have g\_1 = a\_4, g\_2 = a\_3, m\_1 = a\_2 and m\_2 = a\_1?
+> Which Branch of the Lake (Silvia Sconza)
+> A.M. That branch of Lake Como which faces south, between two unbroken ranges of mountains... Tira-dritto (Addressing Sfregiato) How many dates between 1 January 1000 and 1 January 3000 are palindromic—that is, such that, when written in the format g_1g_2/m_1m_2/a_1a_2a_3a_4, g_1 = a_4, g_2 = a_3, m_1 = a_2, and m_2 = a_1?
 
-**Answer:** 0121
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2020#q01|src_gs_2020__Q01]]
 
 
 
@@ -70,21 +72,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0008
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The encounter*
+*The meeting*
 
 ![[src_gs_2020__prob2.png]]
 
-> The encounter (Sandro Campigotto)
-> A.M. (annoyed by the interruption): Along a narrow lane, Don Abbondio was strolling home from his walk, reading his breviary. On the first page the number 1 was written; on the second the numbers 1 and 2; on the third 1, 2 and 3... and so on. Don Abbondio prayed, but first he computed the sum of all the numbers written so far: 1 on the first page, 4 on the second, and so on and so forth. The curate, turning the corner of the lane and raising his eyes, as was his habit, to the wayside shrine, saw something he did not expect, just when the sum he was computing became for the first time a three-digit number...
-> Don Abbondio (turning to the bravi, who were counting on their fingers): I see you are interested in mathematics. Can you guess which page I have reached?
+> The Meeting (Sandro Campigotto)
+> A.M. (Irritated by the interruption) Along a little road, Don Abbondio was quite pleasantly making his way back home from his walk, reading his breviary. On the first page, the number 1 was given; on the second, the numbers 1 and 2; on the third, 1, 2, and 3... and so on. Don Abbondio was praying, but first he would add up all the numbers given so far: 1 on the first page, 4 on the second, and so on. When the parish priest turned off onto the little lane and, as was his habit, directed his gaze toward the tabernacle, he saw something he hadn't expected—precisely when the sum he was calculating became a three-digit number for the first time... Don Abbondio (Addressing the bravi who were counting on their fingers) I see you're interested in mathematics. Can you guess which page I've reached?
 
-**Answer:** 0008
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2020#q02|src_gs_2020__Q02]]
 
 
 
@@ -113,25 +117,20 @@ level: squadre
 > termini]
 
 **Risposta:** 0043
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*It is not to be done*
+*It shouldn't be done*
 
 ![[src_gs_2020__prob3.png]]
 
-> It is not to be done (Sandro Campigotto)
-> Sfregiato (surprised by the question Don Abbondio had asked him): Signor curato.
-> Don Abbondio: What is your command?
-> Sfregiato: You intend to marry Renzo Tramaglino and Lucia Mondella tomorrow!
-> Don Abbondio (in a trembling voice): That is... Your lordships are men of the world, and you know very well how these matters go. The poor curate has nothing to do with it: they make their messes among themselves, and then... and then they come to us, as one would go to a bank to cash a cheque. You know... it is as if I had a jewel and wanted to sell it to the pawnshop. I know that they offer me four fifths of its value, so I tell them that it is worth a quarter more, to get the right price. Only, the last time I got one tenth less than the value I had estimated.
-> Sfregiato: Now then, this marriage is not to be done, neither tomorrow nor ever, and don't prattle to me about fractions.
-> A.M.: What was the actual fraction applied by the pawnshop? [Give as the answer the sum of the numerator and denominator of the fraction in lowest terms]
+> It shouldn't be done (Sandro Campigotto)
+> Sfregiato (Taken aback by the question Don Abbondio had put to him): Mr. Parish Priest. Don Abbondio: What do you command? Sfregiato: You intend to marry Renzo Tramaglino and Lucia Mondella tomorrow! Don Abbondio (in a trembling voice): That is to say... You gentlemen are men of the world and know perfectly well how these matters go. The poor parish priest has nothing to do with it: they make a mess of things among themselves, and then... and then they come to us as if they were going to a counter to collect. You know... it's as if I had a jewel and wanted to sell it to the Pawnshop. I know that they offer me four-fifths of its value, so I tell them it's worth a quarter more in order to get the right price. Only the last time I got a tenth less than the value I had estimated. Sfregiato: Very well—this marriage is not to take place, neither tomorrow nor ever, and don't come to me with any fraction. A.M.: What was the actual fraction applied by the Pawnshop? [Give as the answer the sum of the numerator and denominator of the fraction reduced to lowest terms]
 
-**Answer:** 0043
+[[Quesiti/src_gs_2020#q03|src_gs_2020__Q03]]
 
 
 
@@ -166,7 +165,7 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0035
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -177,18 +176,12 @@ level: squadre
 ![[src_gs_2020__prob4.png]]
 
 > Gossip (Sandro Campigotto)
-> Perpetua: Mercy! What is the matter, master?
-> Don Abbondio: Nothing, nothing.
-> Perpetua: Something you can't tell even me? Who will look after your health? Who will give you advice?...
-> Don Abbondio: Alas! Be quiet and don't lay anything else on the table: give me a glass of my wine.
-> Perpetua (filling the glass halfway, and then holding it in her hand, as if she would only hand it over as a reward for the confidence that was so long in coming): And you'll try to tell me there's nothing wrong!
-> Don Abbondio: Give it here, give it here. (He takes the glass with an unsteady hand and empties it in a hurry, as if it were medicine)
-> Perpetua (filling Don Abbondio's glass again to three quarters): So you want me to be forced to ask around what has happened to my master?
-> Don Abbondio: For heaven's sake! Don't gossip, don't make a fuss: my... my life is at stake!
-> Perpetua: You drain one of these bottles in 5 full glasses. There's a little more than a litre left... I'd say 105 cl. Do you want this too?
-> Don Abbondio: But how many centilitres have you made me drink?
+> Perpetua Misericordia! What's wrong, sir master? Don Abbondio: Nothing, nothing. Perpetua: Something you can't even tell me? Who'll look after your health? Who'll give you advice? ... Don Abbondio: Alas! Be quiet, and don't lay out anything else: give me a glass of my wine. Perpetua (filling the glass halfway and then holding it in her hand, as if she meant to hand it over only as a reward for the confidence that had taken so long to come): And you'll still try to maintain that you're not ill! Don Abbondio: Here, give it here. (He takes the glass with a hand that isn't very steady and drains it quickly, as if it were medicine.) Perpetua (filling Don Abbondio's glass again to three-quarters full): So you want me to be forced to go around asking people what's happened to my master? Don Abbondio: For heaven's sake! Don't gossip, don't make a racket: it's a matter of... it's a matter of life and death! Perpetua: You're knocking back one of these bottles in five full glasses. There's a little more than a litre left... I'd say 105 centilitres. Do you want these too? Don Abbondio: But how many centilitres have you made me drink?
 
-**Answer:** 0035
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2020#q04|src_gs_2020__Q04]]
 
 
 
@@ -211,23 +204,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1105
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*At the inn*
+*At the Inn*
 
 ![[src_gs_2020__prob5.png]]
 
-> At the inn (Silvia Sconza)
-> Renzo (at the table with Egidio and Tonio): Leave it, I'll pay for everyone.
-> Egidio: Thank you! My bill is one third of Tonio's.
-> Tonio: My bill is one third of yours, Renzo.
-> Renzo: Each of us three ordered four dishes. Each dish costs a multiple of 5 soldi, and certainly less than 200 soldi. I'm going to pay for everyone: what is the most I can spend?
+> At the Inn (Silvia Sconza)
+> Renzo (At the table with Egidio and Tonio): Leave it—I'll pay for all of us. Egidio: Thanks! My bill is a third of Tonio's. Tonio: My bill is a third of yours, Renzo. Renzo: Each of us three ordered four dishes. Each dish costs a multiple of 5 soldi and is certainly less than 200 soldi. I'll go pay for all of us—what's the maximum I can spend?
 
-**Answer:** 1105
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2020#q05|src_gs_2020__Q05]]
 
 
 
@@ -251,23 +244,20 @@ level: squadre
 > A.M. Quanti millimetri può essere lunga al massimo la barba di Renzo il giorno del matrimonio?
 
 **Risposta:** 0129
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What a beard*
+*What a drag*
 
 ![[src_gs_2020__prob6.png]]
 
-> What a beard (Simone Traverso)
-> Agnese: There are 14 days to go until your wedding; fashion today requires the groom to have the longest possible beard.
-> Renzo (touching his cheeks in despair): I'm clean-shaven.
-> Agnese: Think, my son! Your beard grows half a millimetre a day; but each time you shave it off completely using this balm, the growth rate of the hairs will become 1.5 times that of the previous day. But be careful: don't shave more than once a day, otherwise the follicles will get irritated and you will ruin all the work done. So don't shave again today.
-> A.M.: What is the maximum length, in millimetres, that Renzo's beard can have on the wedding day?
+> What a bore (Simone Traverso)
+> Agnese: There are 14 days left until your wedding; fashion today calls for the groom to have the longest possible beard. Renzo (desperately touching his cheeks): I'm smooth-shaven. Agnese: Think it through, my son! Your beard grows half a millimeter a day; but every time you shave it completely off using this balm, the hair-growth rate will be 1.5 times that of the previous day. But be careful: don't shave more than once a day, or the follicles will become irritated and you'll ruin all the work that's been done. So don't shave today. A.M.: At most, how many millimeters long can Renzo's beard be on the day of the wedding?
 
-**Answer:** 0129
+[[Quesiti/src_gs_2020#q06|src_gs_2020__Q06]]
 
 
 
@@ -292,21 +282,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 5070
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The dance floor*
+*The track*
 
 ![[src_gs_2020__prob7.png]]
 
-> The dance floor (Cecilia Oliveri)
-> Tonio: Renzo, the shape of the dance floor for the wedding is dictated by tradition: it must be enclosed in a decagon with perimeter 202 m. Each vertex of the decagon coincides with the centre of a circle, and the circles centred at two adjacent vertices are tangent. If the largest circle has radius r\_1, two others have radius r\_2 = (1/3)r\_1; then two have radius r\_3 = (1/3)r\_2, two more have radius r\_4 = (1/3)r\_3, then two more have radius r\_5 = (1/3)r\_4, and the last one has radius r\_6 = (1/3)r\_5.
-> Renzo (dazed): But how long is r\_1 in cm?
+> The Trail (Cecilia Oliveri)
+> Tonio Renzo, the shape of the dance floor for the wedding is dictated by tradition: it must be enclosed within a decagon with a perimeter of 202 m. Each vertex of the decagon coincides with the center of a circle, and the circles whose centers are two adjacent vertices are tangent. If the largest circle has radius r_1, two other circles have radius r_2 = (1/3)r_1; then two have radius r_3 = (1/3)r_2, two more have radius r_4 = (1/3)r_3, then two more have radius r_5 = (1/3)r_4, and the last one has radius r_6 = (1/3)r_5. Renzo (Stunned): But how long is r_1 in cm?
 
-**Answer:** 5070
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2020#q07|src_gs_2020__Q07]]
 
 
 
@@ -338,7 +330,7 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3600
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -348,21 +340,13 @@ level: squadre
 
 ![[src_gs_2020__prob8.png]]
 
-> The day (Sandro Campigotto)
-> Renzo: I have come, signor curato, to find out at what time it suits you for us to meet in church.
-> Don Abbondio: What day are you talking about?
-> Renzo: What do you mean, what day? Don't you remember that it was fixed for today?
-> Don Abbondio: Today? Today, today... be patient, but today I can't.
-> Renzo: Today you can't! What has happened?
-> Don Abbondio: First of all, I don't feel well, you see.
-> Renzo: I'm sorry; but what you have to do is a matter of so little time, and of so little effort...
-> Don Abbondio: And then, and then, and then...
-> Renzo: And then what?
-> Don Abbondio: And then there are complications. For example. On these papers one is required to write all the anagrams of the word “MATRIMONIO” in which no vowel is next to another vowel and no consonant is next to another consonant. It will take me some time.
-> Renzo: But how many are there?
-> Don Abbondio: I don't know... but when I have finished I'll let you know.
+> The Day (Sandro Campigotto)
+> Renzo: I've come, Father, to find out what time it suits you for us to meet in the church. Don Abbondio: Which day do you want to talk about? Renzo: What, which day? Don't you remember that it was fixed for today? Don Abbondio: Today? Today, today... Bear with me, but today I can't. Renzo: You can't today! What's come up? Don Abbondio: First of all, I'm not feeling well, you see. Renzo: I'm sorry; but what you have to do will take so little time and be such a small effort... Don Abbondio: And then, and then, and then... Renzo: And then what? Don Abbondio: And then there's some complications. For example. On these papers, I'm required to write all the anagrams of the word "MATRIMONIO" in which no vowel is next to another vowel and no consonant is next to another consonant. It'll take me some time. Renzo: But how many are there? Don Abbondio: I don't know... but when I've finished, I'll let you know.
 
-**Answer:** 3600
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2020#q08|src_gs_2020__Q08]]
 
 
 
@@ -391,26 +375,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9660
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coming back from the silk mill*
+*Returning from the spinning mill*
 
 ![[src_gs_2020__prob9.png]]
 
-> Coming back from the silk mill (Silvia Sconza)
-> Lucia: Now I'll tell you everything.
-> Agnese: Speak, speak!
-> Renzo (together): Speak, speak!
-> Lucia: Most Holy Virgin! Who would have believed that things could come to this. Coming back from the silk mill, Don Rodrigo passed in front of me and asked me which is the largest five-digit natural number such that every pair of adjacent digits forms a number divisible by 2, every triple of adjacent digits forms a number divisible by 3, every quadruple of adjacent digits forms a number divisible by 4, and the five-digit number is divisible by 5.
-> Agnese (in the background, Milva sings La filanda): Did you answer him?
-> Lucia: Of course! But I told him only the first four digits of the number from the left.
-> Renzo: Which are they?
+> Returning from the Spinning Mill (Silvia Sconza)
+> Lucia: Now I'll tell you everything. Agnese: Talk, talk! Renzo (Together): Talk, talk! Lucia: Holy Virgin! Who would have believed that things could have come to this? On my way back from the spinning mill, Don Rodrigo had passed in front of me and asked me what the largest five-digit natural number was such that every pair of adjacent digits formed a number divisible by 2, every triple of adjacent digits formed a number divisible by 3, every quartet of adjacent digits formed a number divisible by 4, and the five-digit number itself was divisible by 5. Agnese (In the background, Milva sings La filanda): Did you answer him? Lucia: Of course! But I only told him the first four digits from the left of the number. Renzo: What are they?
 
-**Answer:** 9660
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2020#q09|src_gs_2020__Q09]]
 
 
 
@@ -433,7 +414,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0048
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -443,12 +424,13 @@ level: squadre
 
 ![[src_gs_2020__prob10.png]]
 
-> Tangled (Giulia Gaggero)
-> Azzeccagarbugli: You have to tell a lawyer things clearly: it is then up to us to muddle them.
-> Renzo: Fine! Starting from n = 1, for every positive integer n I write the difference between the square of the successor of n and the square of n. Up to which number n must I go to find 24 prime numbers among the differences written?
-> Azzeccagarbugli: The devil! Is it possible that you can't say things clearly!
+> Tangled Up (Giulia Gaggero)
+> Azzeccagarbugli: You've got to tell the lawyer things clearly—then it's up to us to muddle them up. Renzo: Good! Starting from n = 1, for each positive integer n I write the difference between the square of the number that comes after n and the square of n. Up to what number n must I go to find 24 prime numbers among the differences I've written? Azzeccagarbugli: Damn! Is it possible you can't state things clearly?!
 
-**Answer:** 0048
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2020#q10|src_gs_2020__Q10]]
 
 
 
@@ -470,7 +452,7 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 3300
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -480,11 +462,13 @@ level: squadre
 
 ![[src_gs_2020__prob11.png]]
 
-> The ceiling (Luca Renzi)
-> Tonio: The chapel has twenty walls: it is an icosagon. The decoration I made for the ceiling consists of thin beams tracing the 20 sides and the 170 diagonals.
-> Renzo: How many right triangles are formed by the beams, or parts of them, with the vertex of the right angle on the perimeter of the icosagon?
+> The Ceiling (Luca Renzi)
+> Tonio: The chapel has twenty walls—it is an icosagon. The decoration I made for the ceiling consists of thin beams that trace the 20 sides and the 170 diagonals. Renzo: How many right-angled triangles are there that are formed by the beams, or by parts of them, and that have their right-angled vertex on the perimeter of the icosagon?
 
-**Answer:** 3300
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2020#q11|src_gs_2020__Q11]]
 
 
 
@@ -510,23 +494,23 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0027
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The row*
+*The line*
 
 ![[src_gs_2020__prob12.png]]
 
-> The row (Luca Renzi)
-> Agnese: Look at these six parcels in a row.
-> Menico: Sure, auntie! They all look the same. Do you want me to jumble them up?
-> Agnese: Exactly! I want you to decide on a permutation of the six parcels and repeat it three times in a row.
-> Menico: Auntie, what is the probability that, after permuting them three times with the same permutation, at least one parcel is back in the place it occupies now? [Give as the answer the sum of the numerator and denominator of the fraction in lowest terms]
+> The Queue (Luca Renzi)
+> Agnese: Look at these six packages in a row. Menico: Sure, Auntie! They all look the same. Do you want me to put them in no particular order? Agnese: Exactly! I want you to choose a permutation of the six packages and repeat it three times in a row. Menico: Auntie, what's the probability that, after permuting them three times with the same permutation, at least one package will have returned to the position it occupies now? [Give as the answer the sum of the numerator and denominator of the fraction reduced to lowest terms]
 
-**Answer:** 0027
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2020#q12|src_gs_2020__Q12]]
 
 
 
@@ -551,7 +535,7 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 0051
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -561,14 +545,13 @@ level: squadre
 
 ![[src_gs_2020__prob13.png]]
 
-> I am not a robot (Andrea Giusto)
-> Fra Cristoforo is in front of Don Rodrigo's castle. A sign says: No entry for robots and Lombards.
-> Fra Cristoforo: Let me in.
-> Bravo guarding the entrance: Friar, you can't read.
-> Fra Cristoforo: Of course I can! I come from \*\*\*; I am not a Lombard.
-> Bravo guarding the entrance: To enter you must prove you are not a robot: answer the following question. How many polynomials P(x) are there with coefficients 0, 1 or 2 such that P(2) = 2020?
+> I'm Not a Robot (Andrea Giusto)
+> Fra Cristoforo is in front of Don Rodrigo's castle. A sign says: No entry for robots and Lombards. Fra Cristoforo: Let me in. Bravo, the gatekeeper: Brother, you can't read. Fra Cristoforo: Of course! I'm from ***; I'm not a Lombard. Bravo, the gatekeeper: To get in, you have to prove you're not a robot: answer the following question. How many polynomials P(x) are there with coefficients 0, 1, or 2 such that P(2) = 2020?
 
-**Answer:** 0051
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2020#q13|src_gs_2020__Q13]]
 
 
 
@@ -595,7 +578,7 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 6220
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -605,11 +588,13 @@ level: squadre
 
 ![[src_gs_2020__prob14.png]]
 
-> The flight (Anna Ulivi)
-> Griso (beside Fra Cristoforo): If only I were free to move around Lombardy like those birds in the sky! (A flock of birds forms a triangle in the sky; an eagle can be seen circling above the flock). It looks as if the eagle is drawing a circle around the triangle. (Ignoring the friar) If I draw on a sheet of paper the shape of the flock and the path of the eagle, I get a triangle ABC and a circle of which the side AB is a diameter. The circle meets the side AC at a point E. I draw a line parallel to AB and tangent to the circle at F, I call X and Y the intersections of this line with AC and BC respectively, and I see that XF = XE = 36 cm and YB = 39 cm.
-> A.M.: What is the area of ABC in cm^2?
+> The Flight (Anna Ulivi)
+> Griso (beside Fra Cristoforo): If only I were free to move around Lombardy like those birds in the sky! (A flock of birds forms a triangle in the sky; an eagle can be seen circling above the flock.) It seems the eagle is drawing a circle around the triangle. (Without paying attention to the friar:) If I draw on a sheet of paper the shape of the flock and the eagle's path, I get triangle ABC and a circle in which side AB is a diameter. The circle meets side AC at point E. I draw a line parallel to AB and tangent to the circle at F, I call X and Y the intersections of this line with AC and BC respectively, and I see that XF = XE = 36 cm and YB = 39 cm. A.M. What is the area of ABC in cm²?
 
-**Answer:** 6220
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2020#q14|src_gs_2020__Q14]]
 
 
 
@@ -639,7 +624,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1011
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -649,20 +634,13 @@ level: squadre
 
 ![[src_gs_2020__prob15.png]]
 
-> In the castle (Andrea Giusto)
-> In the castle of Don Rodrigo, Count of Fuentes, Mendoza, Deferia, Duke of Terranova, Constable of Castile, there are servants, who always tell the truth, and bravi, who always lie. In the courtyard there are 2020 people, servants and bravi, numbered from 1 to 2020.
-> A.M.: Let m, n be two positive integers such that m + n = 2020 and m, n > 1.
-> Person 1: There is nobody who tells the truth.
-> Person 2: There are exactly 2 people who tell the truth.
-> Person 3: There are exactly 3 people who tell the truth.
-> ...
-> Person n: There are exactly n people who tell the truth.
-> Person n + 1: There are exactly m people who tell the truth.
-> ...
-> Person 2020: There are exactly m people who tell the truth.
-> A.M.: What is the minimum possible number of people who tell the truth as m and n vary?
+> In the Castle (Andrea Giusto)
+> In the castle of Don Rodrigo, Count of Fuentes, Mendoza, Deferia, Duke of Terranova and Constable of Castile, there are servants who always tell the truth and bravi who always tell lies. In the courtyard there are 2020 people, comprising servants and bravi, numbered from 1 to 2020. A.M. Let m and n be two positive integers such that m + n = 2020 and m, n > 1. Person 1: No one tells the truth. Person 2: Exactly 2 people tell the truth. Person 3: Exactly 3 people tell the truth. ... Person n: Exactly n people tell the truth. Person n + 1: Exactly m people tell the truth. ... Person 2020: Exactly m people tell the truth. A.M. What is the minimum possible number of people who tell the truth as m and n vary?
 
-**Answer:** 1011
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2020#q15|src_gs_2020__Q15]]
 
 
 
@@ -690,24 +668,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0040
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*On the road*
+*On the way*
 
 ![[src_gs_2020__prob16.png]]
 
-> On the road (Luca Renzi)
-> Renzo: Look what a strange shape those haystacks have!
-> Agnese: They are made the old way: a regular hexagon of area 20 m^2 is drawn on the ground; then, outside the hexagon, on each side of the hexagon an equilateral triangle is drawn, with one side coinciding with that side of the hexagon.
-> Lucia: The polygon resulting from the union of the hexagon and the six equilateral triangles is a six-pointed star.
-> Agnese: Exactly! Finally a pole 3 m high is planted at the centre of the hexagon. The haystack is obtained by making the lateral edges of the solid join each of the twelve vertices of the star at the base to the top of the pole.
-> A.M.: What is the volume of the haystack in m^3?
+> On the Way (Luca Renzi)
+> Renzo: Look how strange those haystacks are! Agnese: They're made in the old way: a regular hexagon with an area of 20 m² is drawn on the ground; then, outside the hexagon, on each side of the hexagon, an equilateral triangle is drawn, with one side coinciding with the side of the hexagon. Lucia: The polygon formed by joining the hexagon and the six equilateral triangles is a six-pointed star. Agnese: Exactly! Finally, a 3-m-high post is driven into the center of the hexagon. The haystack is formed by arranging the lateral edges of the solid so that each of them connects one of the twelve vertices of the star at the base to the top of the post. A.M.: What is the volume of the haystack in m³?
 
-**Answer:** 0040
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2020#q16|src_gs_2020__Q16]]
 
 
 
@@ -739,31 +716,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3587
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In Pescarenico*
+*At Pescarenico*
 
 ![[src_gs_2020__prob17.png]]
 
-> In Pescarenico (Silvia Sconza)
-> Lucia: In Pescarenico there are 3586 people: some are sincere and always tell the truth; others are liars and always lie. Renzo, it's too dangerous; we must flee.
-> Renzo: Let's stop these six inhabitants of Pescarenico.
-> Lucia: But you don't know whether they are sincere or liars!
-> Renzo (turning to six inhabitants of Pescarenico): How many inhabitants of Pescarenico are liars?
-> First inhabitant: There is an even number of liars.
-> Second inhabitant: There is a number of liars divisible by 3.
-> Third inhabitant: There is a number of liars divisible by 4.
-> Fourth inhabitant: There is a number of liars divisible by 5.
-> Fifth inhabitant: There is a number of liars divisible by 7.
-> Sixth inhabitant: There are as many sincere people as liars.
-> Lucia: What is the maximum number of lying Pescarenicans compatible with all the statements?
-> Fra Cristoforo: And what is the minimum number? [Give as the answer the sum of the two numbers.]
+> At Pescarenico (Silvia Sconza)
+> In Pescarenico, Lucia, there are 3586 people: some are sincere and always tell the truth; others are liars and always tell falsehoods. Renzo, it's too dangerous; we have to run away. Renzo: Let's stop these six inhabitants of Pescarenico. Lucia: But you don't know whether they're sincere or liars! Renzo (To the six inhabitants of Pescarenico): How many liars are there among the inhabitants of Pescarenico? First inhabitant: There is an even number of liars. Second inhabitant: There are a number of liars divisible by 3. Third inhabitant: There are a number of liars divisible by 4. Fourth inhabitant: There are a number of liars divisible by 5. Fifth inhabitant: There are a number of liars divisible by 7. Sixth inhabitant: There are as many sincere people as liars. Lucia: What is the maximum number of liar-inhabitants of Pescarenico consistent with all the statements? Friar Cristoforo: And what is the minimum number? [Give as the answer the sum of the two numbers.]
 
-**Answer:** 3587
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2020#q17|src_gs_2020__Q17]]
 
 
 
@@ -790,21 +759,23 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 8910
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Plans*
+*Projects*
 
 ![[src_gs_2020__prob18.png]]
 
-> Plans (Anna Ulivi)
-> The Innominato: Nibbio, I would like your opinion on the new plans for the castle. At the heart of the idea are three cubes. (Nibbio is worried) We consider solids built in the following way: given a cube with side 12 m, at its centre lies one of the vertices of a second cube equal to the first and with edges parallel to the edges of the first; at the centre of the cube generated by the intersection of the two previous ones lies a vertex of a third cube with the same dimensions and with edges parallel to the other two. The castle will have this shape.
-> Nibbio: But there are many solids determined by these data. What is the maximum volume of a solid determined in this way? And the minimum volume? [Give as the answer the sum of the two volumes.]
+> Projects (Anna Ulivi)
+> Unnamed Nibbio, I'd like your opinion on the new plans for the castle. At the heart of the idea are three cubes. (Nibbio is worried) Consider solids constructed as follows: given a cube with sides 12 m long, at its center lies one vertex of a second cube equal to the first and with sides parallel to the sides of the first; at the center of the cube formed by the intersection of the two preceding cubes lies a vertex of a third cube of the same dimensions and with sides parallel to those of the other two. The castle will have this shape. Nibbio: But there are many solids determined by these data. What is the maximum volume of a solid so determined? And the minimum volume? [Give as the answer the sum of the two volumes.]
 
-**Answer:** 8910
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2020#q18|src_gs_2020__Q18]]
 
 
 
@@ -832,7 +803,7 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5376
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -842,12 +813,13 @@ level: squadre
 
 ![[src_gs_2020__prob19.png]]
 
-> In the inn (Silvia Sconza)
-> Renzo: What are you doing with that deck?
-> Innkeeper: It is a deck made up of the 28 cards with values from 1 to 7 of the four suits: hearts, diamonds, clubs, spades. I stack seven cards on the counter one on top of another in such a way that: if there is at least one 7, at least one of them must have a red 6 immediately below it; the top card must be one of maximum value among those present; there cannot be two adjacent even cards nor two adjacent odd cards; the sum of the top three cards must be exactly equal to half the sum of the bottom four cards. Then I have the customer choose a card from the deck. If it is an ace, the drink is free.
-> Renzo: But how many combinations of 7 cards satisfy the requirements and are such that the bottom card has the maximum possible value among all admissible configurations?
+> In the Inn (Silvia Sconza)
+> Renzo: What are you doing with that deck? Innkeeper: It's a deck comprising the 28 cards with values from 1 to 7 in the four suits: hearts, diamonds, clubs, and spades. I stack seven cards on the counter, one on top of another, in such a way that: if there is at least one 7, at least one of them must have a red 6 immediately below it; the top card must be one of the highest-valued cards among those present; no two even-valued cards may be adjacent, nor may two odd-valued cards be adjacent; the sum of the three top cards must be exactly equal to half the sum of the four bottom cards. Then I let the customer pick a card from the deck. If it's an ace, the drink is on the house. Renzo: But how many are the combinations of 7 cards that satisfy the requirements and are such that the bottom card has the highest possible value among all the allowed configurations?
 
-**Answer:** 5376
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2020#q19|src_gs_2020__Q19]]
 
 
 
@@ -872,7 +844,7 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0048
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -882,12 +854,13 @@ level: squadre
 
 ![[src_gs_2020__prob20.png]]
 
-> The star (Cecilia Oliveri)
-> Don Ferrante: Draw a regular octagon and construct inside it an 8-pointed star as follows: choose a vertex A; going clockwise from vertex A, label the other vertices in order with the names F, C, H, E, B, G, D (Donna Prassede carries this out carefully); now join with a segment each pair of alphabetically consecutive letters, and finally draw the segment AH. Tell me the length of AB.
-> Donna Prassede: It is 18.42 cm long.
-> Don Ferrante: Then, what is the area of the small octagon inside the star?
+> The Star (Cecilia Oliveri)
+> Don Ferrante: Draw a regular octagon and construct an 8-pointed star inside it as follows: choose a vertex A; moving clockwise from vertex A, label the other vertices in order with the names F, C, H, E, B, G, D (Donna Prassede carries this out carefully); now join each pair of alphabetically consecutive letters with a line segment; finally, draw the segment AH. Tell me the length of AB. Donna Prassede: It is 18.42 cm long. Don Ferrante: Then what is the area of the small octagon inside the star?
 
-**Answer:** 0048
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2020#q20|src_gs_2020__Q20]]
 
 
 
@@ -914,19 +887,20 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0037
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In Bergamo*
+*To Bergamo*
 
 ![[src_gs_2020__prob21.png]]
 
 > In Bergamo (Giuseppe Rosolini)
-> Renzo: There are factorials that have factorial decompositions, for example 6! = 3!·5!. I wonder how many there are?
-> Lucia: Well, your example is a special case of a much more general situation: take k positive integers ℓ\_1, ..., ℓ\_k and set n = ℓ\_1!·...·ℓ\_k!. It is enough to use the definition to show that n! = ℓ\_1! · ... · ℓ\_k! · (n − 1)! is a decomposition with k + 1 factorials.
-> Renzo: Agreed! But are there factorials n!, say with n < 4!, that have factorial decompositions ℓ\_1! · ... · ℓ\_k! where k > 1 and ℓ\_i is greater than 1 and less than n − 1 for each i from 1 to k? [Give as the answer the sum of all the numbers ℓ\_i whose factorial appears in at least one such decomposition.]
+> Renzo: There are factorials that have factorial decompositions—for example, 6! = 3!·5!. I wonder how many there are? Lucia: Well, your example is a special case of a much more general situation: take k positive integers ℓ_1, ..., ℓ_k and set n = ℓ_1!·...·ℓ_k!. Just use the definition to prove that n! = ℓ_1! · ... · ℓ_k! · (n − 1)! is a decomposition into k + 1 factorials. Renzo: Agreed! But are there factorials n!, say with n < 4!, that have factorial decompositions ℓ_1! · ... · ℓ_k! where k > 1 and, as i runs from 1 to k, ℓ_i is greater than 1 and less than n − 1? [Give as the answer the sum of all the numbers ℓ_i whose factorial appears in at least one such decomposition.]
 
-**Answer:** 0037
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2020#q21|src_gs_2020__Q21]]

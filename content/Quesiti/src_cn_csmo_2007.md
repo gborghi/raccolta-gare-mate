@@ -31,9 +31,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi interi a per i quali un quadratico ha radici pari con valore assoluto inferiore a 1000*
+*Conta gli interi a per cui un'equazione quadratica ha radici pari con valore assoluto minore di 1000*
 
-> Quanti integri $a$ soddisfano la condizione: per ogni $a$, l'equazione $x^2 = ax + a + 1$ rispetto a $x$ ha radici pari e $|x| < 1000$?
+> Quanti interi $a$ soddisfano la condizione: per ogni $a$, l'equazione $x^2 = ax + a + 1$ rispetto a $x$ ha radici che sono pari e $|x| < 1000$?
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2007#q03|src_cn_csmo_2007__Q03]]
 
 
 
@@ -58,9 +67,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Semicircolo con punti C, D, tangente a B incontra CD a P; linea PO incontra CA e AD; prova OE = OF*
+*Un semicerchio con i punti C, D, tangente in B, interseca CD in P; la retta PO interseca CA e AD; dimostrare che OE = OF*
 
-> Come mostrato nella figura, i punti $C$ e $D$ sono sul semicircolo con $O$ come centro e $AB$ come diametro. La linea tangente al semicircolo al punto $B$ incontra la linea $CD$ al punto $P$. La linea $PO$ incrocia rispettivamente $CA$ e $AD$ nei punti $E$ e $F$. Provare $OE = OF$.
+> Come mostrato nella figura, i punti $C$ e $D$ giacciono sul semicerchio avente centro in $O$ e diametro $AB$. La retta tangente al semicerchio nel punto $B$ incontra la retta $CD$ nel punto $P$. La retta $PO$ interseca $CA$ e $AD$ rispettivamente nei punti $E$ e $F$. Dimostrare $OE = OF$.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_csmo_2007#q04|src_cn_csmo_2007__Q04]]
 
 
 
@@ -86,11 +104,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare la somma dei valori del pavimento di un'espressione minimizzata su k*
+*Valuta una somma di valori di parte intera di un'espressione minimizzata rispetto a k*
 
-> Supponiamo $a_n = \min\left\{k + \frac{n+1}{k} \mid k \in \mathbb{N}^*\right\}$, troviamo il valore di $S_{n^2} = [a_1] + [a_2] + \cdots + [a_{n^2}]$, dove $n \ge 2$, e $[x]$ denota il numero intero più grande inferiore o uguale a $x$.
+> Supponiamo $a_n = \min\left\{k + \frac{n+1}{k} \mid k \in \mathbb{N}^*\right\}$, si determini il valore di $S_{n^2} = [a_1] + [a_2] + \cdots + [a_{n^2}]$, dove $n \ge 2$, e $[x]$ denota il più grande intero minore o uguale a $x$.
 
-**Risposta:** $S_{n^2} = 4m^2 + 3m + 1$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2007#q05|src_cn_csmo_2007__Q05]]
 
 
 
@@ -115,9 +140,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Limminum n quindi ogni sequenza di numeri interi positivi sommata al 2007 ha termini consecutivi sommati a 30*
+*Il più piccolo n tale che ogni successione di numeri interi positivi la cui somma è 2007 abbia termini consecutivi la cui somma è 30*
 
-> Trovare il numero intero positivo più piccolo $n$ in modo tale che qualsiasi sequenza di numeri interi positivi $a_1, a_2, \cdots, a_n$ soddisfa $\sum_{i=1}^{n} a_i = 2007$ deve avere diversi termini consecutivi la cui somma è $30$.
+> Trovare il più piccolo intero positivo $n$ tale che ogni successione di interi positivi $a_1, a_2, \cdots, a_n$ che soddisfa $\sum_{i=1}^{n} a_i = 2007$ debba contenere diversi termini consecutivi la cui somma sia $30$.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2007#q06|src_cn_csmo_2007__Q06]]
 
 
 
@@ -144,13 +178,20 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli primi (a,b,c) con 0<a<b<c<100 e a+1,b+1,c+1 in progressione geometrica*
+*Trovare tutte le terne di numeri primi (a,b,c) tali che 0<a<b<c<100 e a+1,b+1,c+1 siano in progressione geometrica*
 
-> Trovare l'archivio $(a, b, c)$ che soddisfa le seguenti condizioni:
-> 
+> Trovare il vettore $(a, b, c)$ che soddisfa le seguenti condizioni:
+>
 > (1) $0 < a < b < c < 100$, dove $a$, $b$, $c$ sono tutti numeri primi.
-> 
+>
 > (2) $a + 1$, $b + 1$, $c + 1$ costituiscono la progressione geometrica.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_csmo_2007#q07|src_cn_csmo_2007__Q07]]
 
 
 
@@ -174,6 +215,14 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la somma ciclica di a^k/(a+b) ≥ 3/2 per abc=1 e per l'intero k≥2*
+*Dimostrare che la somma ciclica di a^k/(a+b) è ≥ 3/2 per abc=1 e k intero ≥ 2*
 
-> Date i numeri reali $a$, $b$, $c$ tali che $abc = 1$, dimostrino che per tutti gli integri $k \geqslant 2$, $$\frac{a^k}{a+b} + \frac{b^k}{b+c} + \frac{c^k}{c+a} \geqslant \frac{3}{2}.$$
+> Dati i numeri reali $a$, $b$, $c$ tali che $abc = 1$, dimostrare che per tutti gli interi $k \geqslant 2$,
+> $$\frac{a^k}{a+b} + \frac{b^k}{b+c} + \frac{c^k}{c+a} \geqslant \frac{3}{2}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_csmo_2007#q08|src_cn_csmo_2007__Q08]]

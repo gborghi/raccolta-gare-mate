@@ -38,17 +38,20 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Litres of paint per line between 16 cones at 10 m*
+*Litres of paint for a line between 16 cones at 10 m*
 
-> 16 road cones are placed in a straight line at a distance of 10 metres from each other. You want to paint a continuous line on the road that goes from the first to the last cone. Knowing that to paint 100 meters of continuous line it takes six liters of paint, how many liters of paint are needed to complete this work?
+> 16 road cones are placed in a straight line at a distance of 10 metres from one another. It is desired to paint on the road a continuous line going from the first to the last cone. Knowing that 6 litres of paint are needed to paint 100 metres of continuous line, how many litres of paint are needed to complete this work?
 >
-> - **(A)** 8,4
+> - **(A)** 8.4
 > - **(B)** 9
-> - **(C)** 9,6
+> - **(C)** 9.6
 > - **(D)** 10
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2010_2livello#q01|src_archimede_2010_2livello__Q01]]
 
 
 
@@ -79,9 +82,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area common to triangles ABC and DEF (O symmetrical)*
+*Common area of triangles ABC and DEF (symmetric about O)*
 
-> Whether ABC is an equilateral triangle of center O and area 1. Let D, E, F be the symmetrical points of O with respect to the three sides of the triangle. How much is the area shared by the ABC and DEF triangles?
+> Let ABC be an equilateral triangle with centre O and area 1. Let D, E, F be the points symmetric to O with respect to the three sides of the triangle. What is the common area of triangles ABC and DEF?
 >
 > - **(A)** 1 3
 > - **(B)** 2 √ 3 9
@@ -89,7 +92,11 @@ level: 2 livello
 > - **(D)** √ 3 3
 > - **(E)** 2
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2010_2livello#q02|src_archimede_2010_2livello__Q02]]
 
 
 
@@ -126,17 +133,26 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many knights among four inhabitants with given statements*
+*Number of knights among four inhabitants with given statements*
 
-> 3. On an island there are two kinds of people: the knights, who always tell the truth, and the cunning ones, who always lie. We met on this island a group of four inhabitants who, when asked about their identity, replied: A: There is at least one cheater among us. B: There are at most two cheaters among us. C: There are at least three cheaters among us. D: There are no cheaters among us. How many cheaters are there in this set of four inhabitants?
+> On an island there are two types of inhabitants: knights, who always tell the truth, and knaves, who always lie. On this island we met a group of four inhabitants who, when asked about their identity, answered:
+> A: "There is at least one knave among us."
+> B: "There are at most two knights among us."
+> C: "There are at least three knaves among us."
+> D: "There are no knights among us."
+> How many knights are there in this set of four inhabitants?
 >
-> - **(A)** No one .
+> - **(A)** none
 > - **(B)** 1
 > - **(C)** 2
 > - **(D)** 3
-> - **(E)** I mean, everybody.
+> - **(E)** all.
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2010_2livello#q03|src_archimede_2010_2livello__Q03]]
 
 
 
@@ -167,19 +183,20 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who is more likely to have the 7 of coins*
+*Most likely holder of the 7 of coins*
 
-> Antonio, Beppe, Carlo and Duccio randomly distribute the 40 cards of a deck among themselves, 10 each.
-> Antonio has the ace, the two and the three of coins. Beppe has the ace of spades and the ace of clubs. Carlo has
-> the ace of cups. Who is more likely to have the 7 of coins?
+> Antonio, Beppe, Carlo and Duccio deal themselves the 40 cards of a deck at random, 10 each. Antonio has the ace, the two and the three of coins. Beppe has the ace of swords and the ace of batons. Carlo has the ace of cups. Who is most likely to have the 7 of coins?
 >
 > - **(A)** Antonio
 > - **(B)** Beppe
 > - **(C)** Carlo
 > - **(D)** Duccio
-> - **(E)** two or more players have the same probability of having it.
+> - **(E)** two or more players are equally likely to have it.
 
-**Answer:** D
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2010_2livello#q04|src_archimede_2010_2livello__Q04]]
 
 
 
@@ -211,17 +228,23 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For integers n the value 3n/(n+5) is an integer multiple of 4*
+*Integers n for which 3n/(n+5) is a multiple of 4*
 
-> How many integers relative to n do we have that 3n n + 5 is integer and divisible by 4?
+> For how many integers n is it true that
+> 3n
+> n + 5 is an integer and divisible by 4?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 4
 > - **(D)** 8
-> - **(E)** more than eight.
+> - **(E)** more than 8.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2010_2livello#q05|src_archimede_2010_2livello__Q05]]
 
 
 
@@ -254,9 +277,14 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance on the cone to reach the door of Hell*
+*Minimum distance on the cone to reach the Gate of Hell*
 
-> Dante's house is located in point D at the foot of a conical mountain with a base diameter of 4 km and peak at point C. It is known that D is 4 km from C in a straight line and that, said P the point diametrically opposite to D with respect to the base of the mountain, the gate of Inferno is 3/4 of the CP segment, closest to P. What distance must Dante travel at the minimum (walking on the slopes of the mountain) to reach the door of Hell from his home?
+> Dante’s house is located at point D at the foot of a conical mountain with base diameter
+> of 4 km and apex at point C. It is known that D is 4 km from C in a straight line and that,
+> letting P be the point diametrically opposite D with respect to the base of the mountain,
+> the Gate of Hell is located at 3/4 of the segment CP, closer to P. What minimum distance must
+> Dante travel (walking on the slopes of the mountain) in order to reach the Gate of Hell from
+> his house?
 >
 > - **(A)** π + 1 km
 > - **(B)** 5 km
@@ -264,7 +292,10 @@ level: 2 livello
 > - **(D)** 7 km
 > - **(E)** 2π + 1 km.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2010_2livello#q06|src_archimede_2010_2livello__Q06]]
 
 
 
@@ -296,7 +327,7 @@ level: 2 livello
 
 *Second digit of the product (10^16+1)...(10+1)*
 
-> What is the second digit (from left) of the number (1016+1)(108+1)(104+1)(102+1)(10+1)?
+> What is the second digit (starting from the left) of the number (10^16+1)(10^8+1)(10^4+1)(10^2+1)(10+1)?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -304,7 +335,11 @@ level: 2 livello
 > - **(D)** 3
 > - **(E)** 4.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2010_2livello#q07|src_archimede_2010_2livello__Q07]]
 
 
 
@@ -337,9 +372,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
+*Minimum number of students given averages 4.6 and 7.1 of insufficient and sufficient grades.*
 
-> In Sergio's class, after the correction of the last mathematics task, to which all the pupils had been present, the arithmetic mean of the insufficiencies was 4.6, while the arithmetic mean of the sufficiencies was 7.1. Knowing that the professor only gave full grades, how many students are there in Sergio's class at least?
+> In Sergio’s class, after the correction of the last mathematics test, to which all the students were present, the arithmetic mean of the insufficient grades was 4.6, while the arithmetic mean of the sufficient grades was 7.1. Knowing that the teacher gave only whole marks, what is the minimum number of students in Sergio’s class?
 >
 > - **(A)** 10
 > - **(B)** 12
@@ -347,7 +382,11 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 > - **(D)** 24
 > - **(E)** 30.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2010_2livello#q08|src_archimede_2010_2livello__Q08]]
 
 
 
@@ -411,47 +450,23 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Safe area within triangular equilateral base side 8*
+*Area inside an equilateral base safe from throws of range 1 metre*
 
 ![[src_archimede_2010_2livello__prob9.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.6]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (8,0);
-  \coordinate (C) at (4,6.928);
-  \coordinate (Ap) at (1.732,1);
-  \coordinate (Bp) at (6.268,1);
-  \coordinate (Cp) at (4,4.928);
-  \coordinate (H) at (1.732,0);
-  \coordinate (K) at (6.268,0);
-  \draw (A)--(B)--(C)--cycle;
-  \draw (Ap)--(Bp)--(Cp)--cycle;
-  \draw[dashed] (A)--(Cp);
-  \draw (Ap)--(H);
-  \draw (Bp)--(K);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above] at (C) {$C$};
-  \node[below] at (Ap) {$A'$};
-  \node[below] at (Bp) {$B'$};
-  \node[above] at (Cp) {$C'$};
-  \node[below] at (H) {$H$};
-  \node[below] at (K) {$K$};
-\end{tikzpicture}
-\end{document}
-```
-
-> The reds and the greens are fighting a hawkish battle. The base of the reds is an area in the shape of an equilateral triangle with a side of 8 meters. The Greens can't get into the base of the Reds, but they can fire their bullets into the base, still outside the perimeter. Knowing that the greens can hit a target up to a maximum distance of 1 meter, how large (in square meters) is the area inside the base of the reds safe from the range of the greens?
+> The reds and the greens are having a water-balloon fight. The reds' base is a region in the shape of an equilateral triangle of side 8 metres. The greens may not enter the reds' base, but they may throw their missiles into the base while remaining outside the perimeter. Given that the greens can hit a target up to a maximum distance of 1 metre, how large (in square metres) is the region inside the reds' base that is safe from the greens' range?
 >
 > - **(A)** 19 √ 3 −24
 > - **(B)** 4 √ 3
 > - **(C)** 3 √ 3
 > - **(D)** 19 −8 √ 3
-> - **(E)** Every dot of the red area is within the green's range.
+> - **(E)** every point of the red area is within the greens' range.
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2010_2livello#q09|src_archimede_2010_2livello__Q09]]
 
 
 
@@ -484,9 +499,10 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum a4 with pairs MCD >1 but global MCD 1*
+*Smallest a4 with pairwise gcd > 1 but global gcd 1*
 
-> Four positive integers a1 < a2 < a3 < a4 are such that, given two of them, their maximum common divisor is greater than 1, but mcd(a1, a2, a3, a4) = 1. What is the minimum value that a4 can assume?
+> Four positive integers a1 < a2 < a3 < a4 are such that, given any two of them, their greatest common divisor is greater than 1, but gcd(a1, a2, a3, a4) = 1.
+> What is the smallest value that a4 can take?
 >
 > - **(A)** 10
 > - **(B)** 12
@@ -494,7 +510,11 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 > - **(D)** 30
 > - **(E)** 105.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2010_2livello#q10|src_archimede_2010_2livello__Q10]]
 
 
 
@@ -526,9 +546,9 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum balls to be extracted per product multiple of 12*
+*Minimum number of balls to draw so that the product is a multiple of 12*
 
-> In a box, there are 20 balls numbered from 1 to 20. Each number is present in one and only one of these balls. How many different balls do we have to extract at least, to be sure that the product of their numbers is a multiple of 12?
+> In a box there are twenty balls numbered from 1 to 20. Each number is present on exactly one of these balls. What is the minimum number of different balls we must draw, to be sure that the product of their numbers is a multiple of 12?
 >
 > - **(A)** 7
 > - **(B)** 11
@@ -536,7 +556,11 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 > - **(D)** 15
 > - **(E)** 18.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2010_2livello#q11|src_archimede_2010_2livello__Q11]]
 
 
 
@@ -567,17 +591,23 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most degree of p(x-1)-3p(x)+3p(x+1)-p(x+2)*
+*Maximum degree of p(x-1)-3p(x)+3p(x+1)-p(x+2)*
 
-> Whether p(x) is a polynomial of degree 2010. What is the maximum degree that the polynomial p(x −1) −3p(x) + 3p(x + 1) −p(x + 2) can have?
+> Let p(x) be a polynomial of degree 2010. What is the maximum degree that the polynomial
+> p(x −1) −3p(x) + 3p(x + 1) −p(x + 2)
+> can have?
 >
-> - **(A)** It's always the zero polynomial.
+> - **(A)** it is always the zero polynomial
 > - **(B)** 0
 > - **(C)** 1
 > - **(D)** 2007
-> - **(E)** 2010 Problems with a numerical answer  5 points
+> - **(E)** 2010 Numerical-answer problems – 5 points
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2010_2livello#q12|src_archimede_2010_2livello__Q12]]
 
 
 
@@ -608,11 +638,19 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number code with each subsection first*
+*Maximum number code with every subsequence prime*
 
-> To steal a precious jewel, a thief must discover the code that allows him to open the safe door. The information that he managed to find is as follows:  the code is a number  any subsequence of consecutive digits of the code (so either each digit taken individually, or each pair of digits, etc.). up to the whole number) is a prime number (for example, 217 is not good, because 1 is not a prime and 21 is not a prime)  the code is the largest number that has this property. What's the secret code to open the safe?
+> To steal a precious jewel, a thief must discover the code that opens the safe door. The information he managed to glean is the following:
+> – the code is a number
+> – any subsequence of consecutive digits of the code (so both each digit taken individually, and each pair of digits, etc. up to the whole number) represents a prime number (for example, 217 does not work, because 1 is not prime and 21 is not prime)
+> – the code is the largest number with this property.
+> What is the secret code to open the safe?
 
-**Answer:** 373
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2010_2livello#q13|src_archimede_2010_2livello__Q13]]
 
 
 
@@ -643,13 +681,19 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum area of the pyramid shadow in the sun at 45°*
+*Minimum area of the pyramid’s shadow in the sun at 45°*
 
-![[src_archimede_2010_2livello__prob14.png]]
+> The Mathenkamen monument is in the shape of a pyramid resting on its square base of side
+> 18 m. Its height measures 15 m, and the foot of the height falls in the centre of the square. The pyramid
+> is oriented so that, when the sun’s rays arrive from the south inclined at 45° to the ground,
+> the area of the part of the ground over which it spreads its shadow is as small as possible. What is this area expressed in m2?
+> (Note: the ground covered by the base of the pyramid is not to be counted as shaded ground.)
 
-> The monument at Mathenkamen is in the shape of a pyramid which rests on its 18 m square side base. Its height is 15 m, and the foot of height falls in the center of the square. The pyramid is oriented so that, when the sun's rays come from the south inclined by 45° towards the ground, the area of the ground on which it spreads its shadow is as small as possible. What is the value of this area in m2? (Note: the ground covered by the base of the pyramid is not to be counted as shady ground.)
 
-**Answer:** 27
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2010_2livello#q14|src_archimede_2010_2livello__Q14]]
 
 
 
@@ -675,11 +719,17 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Term (p,q,n) prime with p^2+q^2 = pqn+1*
+*Triples (p,q,n) of primes with p^2+q^2 = pqn+1*
 
-> DEMOSTRATIVE EXERCISE Find all the ordered sets of positive integers (p, q, n) such that p, q are prime and p2 + q2 = pqn + 1.
+> PROOF EXERCISE
+> Find all ordered triples of positive integers (p, q, n) such that p and q are prime and
+> p2 + q2 = pqn + 1.
 
-**Answer:** (2,3,2) e (3,2,2)
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2010_2livello#q15|src_archimede_2010_2livello__Q15]]
 
 
 
@@ -714,11 +764,20 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 
 *CBN=BAM and CM+MN=BN in the isosceles triangle*
 
-![[src_archimede_2010_2livello__prob16.png]]
+> PROOF EXERCISE
+> An acute isosceles triangle ABC with base AC is given. Inside this triangle are given
+> a point M, on the C side of the axis of AC and such that C c
+> MA = 2$\widehat{CBA}$, and a point N
+> inside segment AM such that B b
+> NM = $\widehat{CBA}$.
+> – Prove that $\widehat{CBN}$ = $\widehat{BAM}$.
+> – Prove that CM + MN = BN.
 
-> A triangle isosceles ABC of base AC is given. Within this triangle, a point M is given on the side of C with respect to the AC axis, such that C c MA = 2$\widehat{CBA}$, and a point N within the segment AM, such that B b NM = $\widehat{CBA}$.  Demonstrate that $\widehat{CBN}$ = $\widehat{BAM}$.  Demonstrate that CM + MN = BN.
 
-**Answer:** proof
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2010_2livello#q16|src_archimede_2010_2livello__Q16]]
 
 
 
@@ -744,8 +803,13 @@ Minimum average pupils with 4.6 and 7.1 insuff. and suffix.*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Orders of {21..81} with sums of 4 consecutive digits divisible by 3*
+*Orderings of {21..81} with sums of 4 consecutive terms divisible by 3*
 
-> How many different ways can the numbers {21, 31, 41, 51, 61, 71, 81} be arranged so that, however, if four of them are chosen in successive places, their sum is divisible by three?
+> PROOF EXERCISE
+> In how many different ways can the numbers {21, 31, 41, 51, 61, 71, 81} be arranged in a row so that, whenever any four in consecutive positions are chosen, their sum is divisible by three?
 
-**Answer:** 144
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2010_2livello#q17|src_archimede_2010_2livello__Q17]]

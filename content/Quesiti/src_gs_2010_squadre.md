@@ -33,11 +33,15 @@ level: squadre
 
 *Distance traveled by the dog in three hours*
 
-> The following information shall be provided:
-> 
-> Frank takes the dog for a walk along the east wall of the penitentiary, perfectly straight and 9 km long. They leave the prison gate, right at the beginning of the east wall, side by side, and they start a game: Frank throws the ball, the dog returns it to him, Frank picks it up immediately, and just as instantly the dog leaves behind the ball. For the duration of the game, Frank walks 6 km/h and the dog walks 12 km/h. When they reach the end of the wall, they return and continue to play until the gate. How far can Frank get the dog to go by throwing the ball properly? Give the answer in hm.
+> **The Walk** (20 points)
+>
+> Frank takes the dog for a walk along the eastern wall of the prison, which is perfectly straight and 9 km long. They set off from the prison gate, right at the beginning of the eastern wall, side by side, and start a game: Frank throws the ball, the dog brings it back, Frank immediately retrieves it, and equally instantly the dog sets off again after the ball. Throughout the game, Frank walks at 6 km/h and the dog at 12 km/h. When they reach the end of the wall, they turn back, continuing the game all the way to the gate. What is the maximum distance Frank can make the dog cover by throwing the ball appropriately? Give the answer in hm.
 
-**Answer:** 36
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2010_squadre#q01|src_gs_2010_squadre__Q01]]
 
 
 
@@ -70,9 +74,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Recursive succession of calls of numbers*
+*Recursive sequence of number calls*
 
-> Solving the equation x(x −1) = n(n−1) 2 finds that k > 1 2 + p n2 + (n −1)2, i.e. k > 1 2(1 + √ 20102 + 20092) ≈1421.4. This is problem 17. (Martin Rovelli) What are you talking about?
+> Solving the equation x(x − 1) = n(n − 1)
+> 2 It is found that k > 1/2 + p n^2 + (n −1)^2, that is, k > 1/2(1 + √2010^2 + 2009^2) ≈ 1421.4. Problem 17. (Martina Rovelli)
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2010_squadre#q02|src_gs_2010_squadre__Q02]]
 
 
 
@@ -96,11 +108,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coming orders from claims with a liar*
+*Order of arrival from statements involving a liar*
 
-> 3) square meters, that of the lake k2 square meters, that of the 4 triangles 4 k2 √ 3 4 = k2 √ 3 square meters, we have that the area of the uncultivated land ` ek2m2. Problem number seven. (Alessandro Rosolini) Solution The match is played as follows: round 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 . . . Jake r r r r r r r r r r r r r r . . Line of credit . . So k is 2010. Every six rounds, after the first four, Jake wins a dollar (and then Sline loses one): then Jake wins, and after four rounds the dollars he has are calculated as
+> 3) square metres; that of lake k2 square metres; that of the 4 triangles: 4 k² √3 / 4 = k²√3 square metres; it follows that the area of the uncultivated land is k² m². Problem 7. (Alessandro Rosolini) Solution The game proceeds as follows: round 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 . . . Jake r n r n r n r n r n r n r n r . . . Sline n r r n r r n r r n r r n r r . . . Let k = 2010. Every 6 rounds, after the first 4, Jake wins a dollar (and so Sline loses one): therefore Jake wins, and after 4 < n turns, the dollars he has are calculated as
 
-**Answer:** 3123
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010_squadre#q03|src_gs_2010_squadre__Q03]]
 
 
 
@@ -125,13 +142,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure division between three musicians per age*
+*Splitting of the amount among three musicians by age*
 
-> **Musicers' pay** (point 20)
-> 
-> Murph explains to the three Magic Tones how the money they owe for their performance will be distributed, as stipulated by the rules of the Musicians' Union. Murph explains: Half of the money will be divided equally between you, the other half will be allocated to you in proportion to your age in years. Knowing that the older musician will receive, in fact, $40, and that his age is the sum of the ages of the other two, how much in cents of a dollar is the sum to be divided?
+> **The Musicians' Pay** (points 20)
+>
+> Murph explains to the three Magic Tones how the money due to them for their performance will be divided, as provided for in the Musicians' Union regulations. Murph explains: "Half of the money will be divided among you equally, and the other half will be allocated to you in proportion to your ages in years." Knowing that, in the end, the oldest musician will receive $40 and that his age is the sum of the ages of the other two, what is the total amount to be divided, in cents?
 
-**Answer:** 9600
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2010_squadre#q04|src_gs_2010_squadre__Q04]]
 
 
 
@@ -157,13 +178,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Additions that give 360360 as product*
+*Addends whose product is 360360*
 
-> The following points shall be added:
-> 
-> Very pleased with the results of her 11 pupils, Mother Superior, Director of the St. Helen of the Blessed Shroud assigns each of them a different number between 7 and 17 and tests them with a problem: she writes the number $360360$ on the board. Then he explains: This is the product of the numbers for the students who took 10, everyone else took 8. What is the sum of the numbers assigned to the students who did not take 10?
+> **Grades** (30 points)
+>
+> Very satisfied with the results of her 11 pupils, the Mother Superior, director of the St. Helen of the Blessed Shroud Institute, assigns each of them a different number between 7 and 17 and tests them with a problem: she writes the number $360360$ on the blackboard. Then she explains: "This is the product of the numbers corresponding to the pupils who got 10; all the others got 8." What is the sum of the numbers assigned to the pupils who did not get 10?
 
-**Answer:** 67
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2010_squadre#q05|src_gs_2010_squadre__Q05]]
 
 
 
@@ -187,11 +213,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of uncultivated land between lake and fences*
+*Area of uncultivated land between the lake and the enclosures*
 
-> **Lake in the park** (point 30)
-> 
-> A park comprises a square lake, each shore of which forms the base of an equilateral triangle-shaped oval. The four tops of the gulls that are not on the lake are joined by two to two straight fences. The land between the fences and the fences is left untouched. The area of the lake is $9747$ square meters, how many square meters is the area of the uncultivated land?
+> **The Lake in the Park** (30 points)
+>
+> A park contains a square-shaped lake, each bank of which forms the base of an equilateral-triangle-shaped flower bed. The four vertices of the flower beds that are not on the lake are joined in pairs by straight fences. The land between the flower beds and the fences is left uncultivated. The area of the lake is $9747$ square metres; how many square metres is the area of the uncultivated land?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2010_squadre#q06|src_gs_2010_squadre__Q06]]
 
 
 
@@ -216,11 +248,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Time series won by Jake and Sline
+*Periodic sequence of Jake and Sline's wins*
 
-> The amount of the loan shall be calculated on the basis of the following:
-> 
-> Jake and Sline gamble: They split a deck of 4,020 poker cards, each carrying a red seed or a black seed. They each support their deck of 2010 cards covered on the table and start playing. They discover a card together: if the seeds of the two cards are of different color, Sline pays Jake a dollar, if the seeds of both cards are red nothing happens, if the seeds of both cards are black Jake pays Sline two dollars. For a coincidence in the mixing, Jake's cards are a sequence of a red seed card and a black seed card (i.e. red, black, red, black, red...) while Sline's are a sequence of a black seed card followed by two red seed cards (i.e. black, red, red, black, red, black...). Knowing that they start the game with 2010 bucks in their head, how much bucks does the winner have at the end?
+> **A Gamble, I** (30 points)
+>
+> Jake and Sline engage in a gamble: they divide among themselves a deck of 4020 playing cards, each of which has either a red suit or a black suit. Each places their deck of 2010 cards face down on the table, and they begin to play. They jointly flip over one card: if the suits of the two cards are different colors, Sline pays Jake one dollar; if both cards have red suits, nothing happens; if both cards have black suits, Jake pays Sline 2 dollars. By a fortunate coincidence in the shuffling, Jake's cards form a sequence of one card of a red suit followed by one of a black suit (that is, red, black, red, black, red...), while Sline's cards form a sequence of one card of a black suit followed by two cards of a red suit (that is, black, red, red, black, red, red, black...). Knowing that they start the game with 2010 dollars each, how many dollars does the winner have at the end?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010_squadre#q07|src_gs_2010_squadre__Q07]]
 
 
 
@@ -246,13 +285,18 @@ Time series won by Jake and Sline
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total remainder equal to the remainder on 2310 plates*
+*The remainder shall be equal to the remainder upon 2310 plates*
 
-> **The chicken soup** (point 30)
-> 
-> Slim is very good at making chicken soup. He buys the chickens and then divides them into two plates, so that there's exactly the same number. He gives those who advance (and only those) to his parrot Fuzz. Then he divides all the chickens he's kept equally into six plates, and as before those who advance Fuzz eats them. At this point, repeat the same operation with 30 plates, then 210 plates, and then 2310 plates. Considering that today he wants to buy them so that the parrot can eat as many as possible, but not spending more than necessary, how many chicks does he have to buy?
+> **Chickpea Soup** (30 points)
+>
+> Slim is very superstitious when preparing chickpea soup. He buys the chickpeas and then divides them between two plates so that there are exactly the same number on each plate. He gives the leftovers (and only the leftovers) to his parrot Fuzz. Then he divides all the chickpeas he has kept equally among six plates, and, as before, Fuzz eats the leftovers. At this point, he repeats the same procedure with thirty plates, then with 210 plates, and then with 2310 plates. Given that today he wants to buy enough chickpeas so that the parrot can eat as many as possible but without spending more than necessary, how many chickpeas must he buy?
 
-**Answer:** 2309
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2010_squadre#q08|src_gs_2010_squadre__Q08]]
 
 
 
@@ -276,11 +320,16 @@ Time series won by Jake and Sline
 <div class="qlang-split" data-lang="en"></div>
 
 
-The number of shifts for Jake to win $1005.
+*Number of turns for Jake to win $1005*
 
 > 9) = n 9 10 8 9 =n 8
 
-**Answer:** 6017
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010_squadre#q09|src_gs_2010_squadre__Q09]]
 
 
 
@@ -302,9 +351,15 @@ The number of shifts for Jake to win $1005.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bean game strategy, multiple of 9*
+*Bean Game strategy, multiple of 9*
 
-> 10) = n 9 10; one hour after n 9 10(1− 1 9) = n 9 10 8 9 = n 8 10. Every hour the number of remaining ones decreases by 10, until the number becomes 2. Dan 10 = 2 is n = 20, the last ones leave after 14 hours. The price ` and 8× 2× (5× 10 + 9 + 8 +... + 1) = 8× 2× (50 + 45) = 1520. This is problem 12. I 'm going to tell you something .
+> 10) = n 9 10; one hour later, n 9 10(1− 1 9) = n 9 10 8 9 = n 8 10. Each hour, the number of those remaining decreases by n 10, until the number becomes 2. From 10 = 2, we find n = 20; the last ones leave after 14 hours. The price is 8× 2× (5× 10 + 9 + 8 +... + 1) = 8× 2× (50 + 45) = 1520. Problem 12. (Martina Rovelli)
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010_squadre#q10|src_gs_2010_squadre__Q10]]
 
 
 
@@ -329,13 +384,17 @@ The number of shifts for Jake to win $1005.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total price of party with progressive abandonment*
+*Total price for the party with gradual departures*
 
 > **The Jazz Party** (40 points)
-> 
-> Matt and Lou are throwing a jazz party together, renting a clubhouse that costs $8 per person per hour. All the guests arrive, and after dancing, drinking, and playing for five hours in a row, a tenth of those present leave the party. At the stroke of the next hour, a ninth of the remaining people leave. After another 60 minutes an eighth of the remaining left the party, and so on with this criterion, until half of those still present left. At this point, only Matt and Lou are left with an hour left to eat what's left and settle the bill with the club. How much do they have to pay?
+>
+> Matt and Lou jointly organize a party for jazz musicians, renting a venue that costs $8 per person present per hour. All the guests arrive, and after dancing, drinking, and playing music for 5 consecutive hours, one tenth of those present leave the party. When the next hour begins, one ninth of those remaining leave. After another 60 minutes, one eighth of those still there abandon the party, and so on according to this pattern, until half of those still present leave. At this point, only Matt and Lou remain; they stay for another hour eating what's left and settle the bill with the venue. How many dollars do they have to pay?
 
-**Answer:** 1520
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2010_squadre#q11|src_gs_2010_squadre__Q11]]
 
 
 
@@ -367,18 +426,25 @@ The number of shifts for Jake to win $1005.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Assignment of subjects to teachers (logic)*
+*Assignment of subjects to professors (logic)*
 
-> **Books** (40 points)
-> 
-> Alan, Bob, Claire, and Duncan are schoolmates. They study three scientific subjects: Science, Physics, Geometry, and five humanities subjects: Latin, Greek, Literature, History, Philosophy. Since their backpacks are too heavy, they agree to each carry four books—four subjects with different initial letters—of which at least one is scientific, and such that in total they have exactly two books for each subject. Additionally, it is known that:
-> 
-> - Alan and Duncan share at least two subjects;
-> - Bob takes Philosophy and Literature;
+> **The Books** (40 points)
+>
+> Alan, Bob, Claire, and Duncan are classmates. They study three science subjects: Science, Physics, and Geometry, and five humanities subjects: Latin, Greek, Literature, History, and Philosophy. Since the schoolbags are too heavy, they agree that each of them will carry four books from four subjects with different initials, at least one of which is a science subject, and in such a way that in total they will have two books for each subject. It is also known that:
+>
+> - Alan and Duncan have at least two subjects in common;
+> - Bob carries Philosophy and Literature;
 > - Claire has all the science subjects;
-> - Alan and Bob share only Greek.
-> 
-> Write, in alphabetical order, the subjects that Duncan takes, indicating the subjects, in alphabetical order, with the digits from $1$ to $8$.
+> - Alan and Bob have only Greek in common.
+>
+> List, in alphabetical order, the subjects that Duncan carries, indicating the subjects, in alphabetical order, with the numbers from $1$ to $8$.
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010_squadre#q12|src_gs_2010_squadre__Q12]]
 
 
 
@@ -403,11 +469,18 @@ The number of shifts for Jake to win $1005.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of different stars with prime p vertices*
+*Number of distinct stars with p prime vertices*
 
-> **Paper stars, I** (point 50)
-> 
-> Reverend Cleophus James prepares colored paper stars to decorate the Triple Rock Church. To draw a five-pointed star, mark five distinct points on a circumference and join them together with five segments without ever separating the pen from the sheet. That way, he can only draw one type of star. With 7 vertices, he can instead draw two different types, connecting the vertices by skipping one or two at a time, respectively. How many different types of stars can you draw if you mark 2011 vertices on the circumference?
+> **Paper Stars, I** (50 points)
+>
+> Reverend Cleophus James makes colored paper stars to decorate Triple Rock Church. To draw a five-pointed star, he marks 5 distinct points on a circle and joins them with 5 line segments without ever lifting his pen from the paper. In this way, he can draw only one type of star. With 7 vertices, however, he can draw two different types by connecting the vertices while skipping one or two vertices at a time, respectively. How many different types of stars can he draw if he marks 2011 vertices on the circle?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010_squadre#q13|src_gs_2010_squadre__Q13]]
 
 
 
@@ -433,13 +506,18 @@ The number of shifts for Jake to win $1005.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of writeable numbers as difference of squares in multiple ways*
+*Sum of numbers that can be written as a difference of squares in more than one way*
 
-> **Withdrawn and scattered** (points 50)
-> 
-> Locked up in the beauty parlor, Carrie concentrates on calculating long sums in her mind. The last thing he calculated is the sum of those odd positive integers less than 100 that can be written in at least two distinct ways as the difference of perfect squares. What number did you find?
+> **Screwed and Popped** (50 points)
+>
+> Locked inside the beauty salon "Curl up and Dye," Carrie concentrates on mentally calculating long sums. The last sum she calculated was the sum of those positive odd integers less than 100 that can be written in at least two distinct ways as the difference of perfect squares. What number did she find?
 
-**Answer:** 1358
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2010_squadre#q14|src_gs_2010_squadre__Q14]]
 
 
 
@@ -465,9 +543,15 @@ The number of shifts for Jake to win $1005.
 
 *Minimum step n with polygon side below threshold*
 
-> **Enrolled polygons ** (points 50)
-> 
-> In a radius of 1 m, the diameter shall be plotted as the first step. As a second step, mark the midpoints of each of the two arcs so formed and join the vertices of the diameter and the two midpoints to get a square. It continues by bisecting each arc formed at the previous step and joining the points marked on the circumference to obtain a regular polygon. How many steps must be taken at least so that the side of the polygon obtained is shorter than $\dfrac{1}{2^{2010}}$ m?
+> **Inscribed polygons** (points 50)
+>
+> In a circle of radius 1 m, the diameter is drawn as the first step. As the second step, the midpoints of each of the two arcs thus formed are marked, and the endpoints of the diameter and the two midpoints are joined to obtain a square. The process continues by bisecting each arc formed in the previous step and joining the points marked on the circle to obtain a regular polygon. How many steps must be taken at least for the side of the resulting polygon to be shorter than $\dfrac{1}{2^{2010}}$ m?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_funzionali|Functional equations / sequences]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2010_squadre#q15|src_gs_2010_squadre__Q15]]
 
 
 
@@ -491,11 +575,17 @@ The number of shifts for Jake to win $1005.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Extractions because the probability exceeds 1/2*
+*Draws because probability exceeds 1/2*
 
-> **A game of cards** (50 points)
-> 
-> A gambling game is played with a bag containing 2010 pockets, 2 reds, all the other black. You win if you extract all the red (no matter how many black) seeds, one after the other. A player, before starting the draw sequence, must pay $1 for each draw he intends to make. How much does Jake have to pay to have a greater than$50\%$chance of winning?
+> **A Marble Game** (50 points)
+>
+> A gambling game is played with a bag containing 2010 marbles: 2 red marbles and all the rest black. You win if, by drawing marbles one after another as many as you like, you draw all the red marbles (it doesn't matter how many black ones you draw). Before starting the sequence of draws, a player must pay 1 dollar for each draw they intend to make. How many dollars must Jake pay to have a probability greater than $50\%$ of winning?
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010_squadre#q16|src_gs_2010_squadre__Q16]]
 
 
 
@@ -529,17 +619,26 @@ The number of shifts for Jake to win $1005.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equal numbers with divisibility conditions*
+*Even digits with divisibility conditions*
 
-> **The County Treasury ** (point 50)
-> 
-> The combination of the Cook County vault is five digits. Steven recalls that:
-> 
-> - All numbers formed by considering each pair of adjacent digits, taken in the same order as they appear in the combination, are divisible by $2$; - All numbers formed by considering each set of adjacent digits, taken in the same order as they appear in the combination, are divisible by $3$; - All numbers formed by considering each quartet of adjacent digits, taken in the same order as they appear in the combination, are divisible by $42$; - The combination, read as a five-digit number, is divisible by $5$.
-> 
+> **The County Safe** (50 points)
+>
+> The combination for the safe of Cook County consists of five digits. Steven remembers that:
+>
+> - The first digit is $1$;
+> - All numbers formed by considering each pair of adjacent digits, taken in the same order in which they appear in the combination, are divisible by $2$;
+> - All numbers formed by considering each triplet of adjacent digits, taken in the same order in which they appear in the combination, are divisible by $3$;
+> - All numbers formed by considering each group of four adjacent digits, taken in the same order in which they appear in the combination, are divisible by $42$;
+> - The combination, read as a five-digit number, is divisible by $5$.
+>
 > Write the last four digits of the combination in order.
 
-**Answer:** 10240
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2010_squadre#q17|src_gs_2010_squadre__Q17]]
 
 
 
@@ -578,19 +677,31 @@ The number of shifts for Jake to win $1005.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Order arrival with a liar (code)*
+*Arrival order with a liar (encoding)*
 
-> The race, II** (50 points)
-> 
-> Maybe Elwood was wrong about the liar in the race between Alan, Bob, Claire, and Duncan. Knowing only that exactly one of the four is a liar, but the winner isn't lying, the statements are:
-> 
-> - Alan: Bob isn't close to Duncan (in finish position). - Bob: Alan isn't last. - Claire: I'm not right after Bob (in finish position). - Duncan: Neither I nor Bob have won.
-> 
-> Say: 1. who has certainly not won; 2. who is certainly not the last one; 3. who is immediately following Bob (in the arrival position); 4. who is certainly not a liar.
-> 
-> Write the answer at each point in the homonymous box, using $1$ to indicate Alan, $2$ to indicate Bob, $3$ to indicate Claire, $4$ to indicate Duncan, and $0$ to indicate that the request does not have a single answer.
+> **The Running Race, II** (50 points)
+>
+> Perhaps Elwood was wrong about the liar in the running race among Alan, Bob, Claire, and Duncan. Knowing only that exactly one of the four is a liar, but that the winner does not lie, the statements are:
+>
+> - Alan: "Bob is not close to Duncan (in finishing order)."
+> - Bob: "Alan is not last."
+> - Claire: "I am not immediately after Bob (in finishing order)."
+> - Duncan: "Neither I nor Bob won."
+>
+> State:
+> 1. who definitely did not win;
+> 2. who definitely did not finish last;
+> 3. who is immediately after Bob (in finishing order);
+> 4. who is definitely not a liar.
+>
+> Write the answer to each item in the box of the same name, using $1$ to indicate Alan, $2$ to indicate Bob, $3$ to indicate Claire, $4$ to indicate Duncan, and $0$ to indicate that the question has no unique answer.
 
-**Answer:** 4102
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010_squadre#q18|src_gs_2010_squadre__Q18]]
 
 
 
@@ -615,11 +726,18 @@ The number of shifts for Jake to win $1005.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total height of the ziqqurat per recourse*
+*Total height of the ziggurat by recursion*
 
-> The mausoleum (point 50)
-> 
-> The commander of the Illinois Nazi group had a mausoleum built of cubic blocks of stone, one meter by one. It's made up of 10 steps, it looks like a ziqqurat: each step is a square-based parallel piped, and all the steps are leaning on each other. The top of the mausoleum is a side step of 2 m and a height of 2520 m. But the main peculiarity of the mausoleum is that each step has the side of the lower base square exactly 2 meters from the one below and the lateral surfaces of each step are always the same. How high is the mausoleum?
+> **The Mausoleum** (50 points)
+>
+> The commander of the Illinois Nazis group had a mausoleum built for himself; it was constructed from cubic stone blocks, each 1 m on a side. Comprising 10 terraces, it looks like a ziggurat: each terrace is a right rectangular parallelepiped with a square base, and all the terraces are stacked one on top of another. The top of the mausoleum is a terrace 2 m on a side and 2520 m high. But the mausoleum's main peculiarity is that, for each terrace, the side length of its square base is exactly 2 meters less than that of the base of the terrace beneath it, and the lateral surfaces of each terrace are always the same. How many meters tall is the mausoleum?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2010_squadre#q19|src_gs_2010_squadre__Q19]]
 
 
 
@@ -645,13 +763,18 @@ The number of shifts for Jake to win $1005.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting minor p/2 coatings with Eulero*
+*Counting covers less than p/2 using Euler*
 
-> **Paper stars, II** (points 60)
-> 
-> Helping Reverend James, instead of scoring 2011 distinct points on the circumference, Jake scored 2010. How many different types of stars can you draw?
+> **Paper Stars, II** (60 points)
+>
+> By helping Reverend James, instead of marking 2011 distinct points on the circumference, Jake marked 2010. How many different types of stars can he draw?
 
-**Answer:** 264
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2010_squadre#q20|src_gs_2010_squadre__Q20]]
 
 
 
@@ -677,13 +800,18 @@ The number of shifts for Jake to win $1005.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting soldier surreations on three letters*
+*Count of soldier overlaps over three letters*
 
-> **Drops ** (points 60)
-> 
-> To track down the Blues Brothers, the Illinois Nazi commander wants to form three drapes from a group of nine volunteers. Knowing their innate incapacity, the commander appoints three captains of drapel from among the nine volunteers: Al, Bruno and Cal. In addition, he wants at least one other component in each drapery, in addition to the captain. How many different drapes can the commander form?
+> **The Squads** (points 60)
+>
+> To track down the Blues Brothers, the commander of the Illinois Nazis wants to form 3 squads from a group of 9 volunteers. Knowing their innate incompetence, the commander appoints 3 squad leaders from among the 9 volunteers: Al, Bruno, and Cal. Furthermore, the commander wants each squad to have at least one other member in addition to the leader. How many different sets of three squads can the commander form?
 
-**Answer:** 540
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010_squadre#q21|src_gs_2010_squadre__Q21]]
 
 
 
@@ -714,13 +842,24 @@ The number of shifts for Jake to win $1005.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Star operation as the number of surreations*
+*Star operation as the number of surjections*
 
-> The rules of the motel, I** (points 60)
-> 
-> At the entrance to the motel, Twiggy found the following rules:
-> 
-> He understands that they allow the $n \mathbin{?} m$ writing value to be calculated for each pair of positive or zero integers. Waiting for Elwood, Twiggy calculates what's worth. What number do you get?
+> **Motel Rules, I** (points 60)
+>
+> At the motel entrance, Twiggy found the following rules:
+> $$0 \mathbin{?} 0 = 1$$
+> $$0 \mathbin{?} (m+1) = 0$$
+> $$(n+1) \mathbin{?} 0 = (n+1)(n \mathbin{?} 0)$$
+> $$((n+1) \mathbin{?} (m+1)) = (n+1)\bigl[((n+1) \mathbin{?} m) + (n \mathbin{?} (m+1))\bigr]$$
+>
+> They realize that these rules make it possible to calculate the value of the expression $n \mathbin{?} m$ for every pair of non-negative integers. While waiting for Elwood, Twiggy calculates what value $\dfrac{5 \mathbin{?} 5}{1000}$ has. What number do they find?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010_squadre#q22|src_gs_2010_squadre__Q22]]
 
 
 
@@ -745,13 +884,17 @@ The number of shifts for Jake to win $1005.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mean time to complete extractions*
+*Average extraction completion time*
 
-> **Another game of cards** (points 70)
-> 
-> Another gambling game is always played with a bag containing 2010 cards, 7 reds and all the other black ones. The rules state that the seeds should be extracted one at a time until all the red seeds have come out, at which point the game is over. Elwood wonders on average how long the game takes. Jake doesn't understand exactly what his brother means, but Ray, who knows it well, explains to him that among the many ways to define the average number of extractions in the game (all leading to the same result) the most interesting is the sum of the probabilities $p_k$ where, for each natural number $0 \le k \le 2010$, $p_k$ is the probability that, after the $k$-eighth extraction, not all 7 red balls have come out. What is the average number of extractions?
+> **Another Marbles Game** (70 points)
+>
+> Another gambling game is always played with a bag containing 2010 marbles—7 red and all the rest black. The rules stipulate that the marbles are drawn one at a time until all the red ones have come out; at that point, the game is over. Elwood wonders, on average, how many draws the game will last. Jake doesn't quite understand what his brother means, but Ray, who knows a thing or two, explains to him that among the many ways of defining the average number of draws in the game (all of which lead to the same result), the most interesting one is the sum of the probabilities $p_k$, where, for each natural number $0 \le k \le 2010$, $p_k$ is the probability that, after the $k$-th draw, not all 7 red marbles have come out. What is the average number of draws?
 
-**Answer:** 1759.62
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010_squadre#q23|src_gs_2010_squadre__Q23]]
 
 
 
@@ -779,12 +922,17 @@ The number of shifts for Jake to win $1005.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n with 73 3-star divisors n*
+*Minimum n with 73, divisor of 3, star n*
 
-> The hotel rules, II** (point 70)
-> 
-> Elwood's not coming. To pass the time, Twiggy looks for the smallest number $n$ such that $3 \mathbin{?} n$ is a multiple of 73. What is the $n$ number?
-> 
-> (The rules of operation $?$ are those of problem 22.)
+> **The Motel Rules, II** (points 70)
+>
+> Elwood doesn't arrive. To pass the time, Twiggy looks for the smallest number $n$ such that $3 \mathbin{?} n$ is a multiple of 73. What is the number $n$?
+>
+> (The rules for the operation $?$ are those of problem 22.)
 
-**Answer:** 34
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2010_squadre#q24|src_gs_2010_squadre__Q24]]

@@ -34,13 +34,20 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Divisioni di set in sottoinsiemi di 3 elementi con somme di elementi uguali*
+*Dividi gli insiemi in sottoinsiemi di 3 elementi con somme degli elementi uguali*
 
-> (1) Si può suddividere l'insieme $\{1, 2, \ldots, 96\}$ in 32 sottoinsiemi, ciascuno contenente tre elementi, e la somma dei tre elementi di ciascun sottoinsieme è uguale?
-> 
-> (2) Si può suddividere l'insieme $\{1, 2, \ldots, 99\}$ in 33 sottoinsiemi, ognuno contenente tre elementi, e le somme dei tre elementi di ciascun sottoinsieme sono tutte uguali? (Posato da Liu Shixiong)
+> (1) È possibile dividere l'insieme $\{1, 2, \ldots, 96\}$ in 32 sottoinsiemi, ciascuno contenente tre elementi, in modo che le somme dei tre elementi in ciascun sottoinsieme siano tutte uguali?
+>
+> (2) È possibile dividere l'insieme $\{1, 2, \ldots, 99\}$ in 33 sottoinsiemi, ciascuno contenente tre elementi, in modo che le somme dei tre elementi in ciascun sottoinsieme siano tutte uguali? (Proposto da Liu Shixiong)
 
-**Risposta:** (1) No; (2) Sì
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cgmo_2008#q01|src_cn_cgmo_2008__Q01]]
 
 
 
@@ -67,9 +74,20 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cubico con tre radici positive: prova la disuguaglianza dei coefficienti*
+*Cubica con tre radici positive: dimostrare la disuguaglianza sui coefficienti*
 
-> Il polinomio reale $\varphi(x) = ax^3 + bx^2 + cx + d$ ha tre radici positive e $\varphi(0) < 0$. Prove che $$2b^3 + 9a^2 d - 7abc \le 0.$$ (Posato da Zhu Huawei)
+> Il polinomio reale $\varphi(x) = ax^3 + bx^2 + cx + d$ ha tre radici positive, e $\varphi(0) < 0$. Dimostrare che
+> $$2b^3 + 9a^2 d - 7abc \le 0.$$
+> (Proposto da Zhu Huawei)
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cgmo_2008#q02|src_cn_cgmo_2008__Q02]]
 
 
 
@@ -97,13 +115,20 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il più piccolo a>1 per i rapporti di area triangolare all'interno di un quadrato*
+*Trovare il più piccolo a>1 per i rapporti delle aree dei triangoli all'interno di un quadrato*
 
-> Trova la costante più piccola $a > 1$, in modo che per qualsiasi punto $P$ all'interno di un quadrato $ABCD$ esistano due triangoli tra $\triangle PAB$, $\triangle PBC$, $\triangle PCD$, $\triangle PDA$ con il rapporto tra le loro aree appartenenti all'intervallo $[a^{-1}, a]$. (Posato da Li Weigu)
+> Trovare la costante minima $a > 1$ tale che, per ogni punto $P$ all'interno di un quadrato $ABCD$, esistano due triangoli tra $\triangle PAB$, $\triangle PBC$, $\triangle PCD$, $\triangle PDA$ il cui rapporto tra le aree appartenga all'intervallo $[a^{-1}, a]$. (Proposto da Li Weigu)
 
 ![[src_cn_cgmo_2008__q03.png]]
 
-**Risposta:** $\dfrac{1+\sqrt{5}}{2}$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cgmo_2008#q03|src_cn_cgmo_2008__Q03]]
 
 
 
@@ -131,13 +156,20 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli equalaterali su lati quadrati convexi; massimizzazione del rapporto y/x*
+*Triangoli equilateri sui lati del quadrilatero convesso; massimizza il rapporto y/x*
 
-> Al di fuori di un quadrilaterale converso $ABCD$ costruiamo triangoli equilaterali $ABQ$, $BCR$, $CDS$ e $DAP$. Indicando con $x$ la somma delle diagonali di $ABCD$, e con $y$ la somma dei segmenti di linea che uniscono i punti di mezzo dei lati opposti di $PQRS$, troviamo il valore massimo di $\dfrac{y}{x}$. (Posato da Xiong Bin)
+> All'esterno di un quadrilatero convesso $ABCD$ costruiamo i triangoli equilateri $ABQ$, $BCR$, $CDS$ e $DAP$. Indicando con $x$ la somma delle diagonali di $ABCD$ e con $y$ la somma dei segmenti che uniscono i punti medi dei lati opposti di $PQRS$, troviamo il valore massimo di $\dfrac{y}{x}$. (Proposto da Xiong Bin)
 
 ![[src_cn_cgmo_2008__q04.png]]
 
-**Risposta:** $\dfrac{1+\sqrt{3}}{2}$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cgmo_2008#q04|src_cn_cgmo_2008__Q04]]
 
 
 
@@ -164,11 +196,20 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterali di kit con punti conciclici e triangoli simili; dimostrare tre punti collineari*
+*Quadrilatero a aquilone con punti conciclici e triangoli simili; dimostrare che tre punti sono allineati*
 
-> Supponiamo che il quadrilaterale convex $ABCD$ soddisfi $AB = BC$, $AD = DC$. $E$ è un punto su $AB$ e $F$ su $AD$, in modo che $B$, $E$, $F$, $D$ siano conciclici. Disegnare $\triangle DPE$ direttamente simile a $\triangle ADC$ e disegnare $\triangle BQF$ direttamente simile a $\triangle ABC$. Provare che $A$, $P$, $Q$ sono collineari. (Posato da Pao Zhonghao)
+> Supponiamo che il quadrilatero convesso $ABCD$ soddisfi $AB = BC$, $AD = DC$. $E$ è un punto su $AB$, e $F$ è un punto su $AD$, in modo che $B$, $E$, $F$, $D$ siano concyclici. Si tracci $\triangle DPE$ direttamente simile a $\triangle ADC$, e si tracci $\triangle BQF$ direttamente simile a $\triangle ABC$. Si dimostri che $A$, $P$, $Q$ sono allineati. (Proposto da Pao Zhonghao)
 
 ![[src_cn_cgmo_2008__q05.png]]
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cgmo_2008#q05|src_cn_cgmo_2008__Q05]]
 
 
 
@@ -196,11 +237,20 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di numeri positivi con ricorrenza; trovare la soglia di monotonia a*
+*Successione di numeri positivi con relazione di ricorrenza; trovare la soglia di monotonicità a*
 
-> Supponiamo che la sequenza dei numeri positivi $x_1, x_2, \ldots, x_n, \ldots$ soddisfi $(8x_2 - 7x_1)x_1^7 = 8$ e $$x_{k+1}x_{k-1} - x_k^2 = \frac{x_{k-1}^8 - x_k^8}{x_k^7 x_{k-1}^7}, \quad k \ge 2.$$ Trova un numero reale positivo $a$ in modo tale che quando $x_1 > a$ si ha $x_1 > x_2 > \cdots > x_n > \cdots$, e quando $0 < x_1 < a$ non si ha tale monotonia. (Posato da Li Shenghong)
+> Si supponga che la successione di numeri positivi $x_1, x_2, \ldots, x_n, \ldots$ soddisfi $(8x_2 - 7x_1)x_1^7 = 8$ e
+> $$x_{k+1}x_{k-1} - x_k^2 = \frac{x_{k-1}^8 - x_k^8}{x_k^7 x_{k-1}^7}, \quad k \ge 2.$$
+> Si determini un numero reale positivo $a$ tale che, quando $x_1 > a$, si abbia $x_1 > x_2 > \cdots > x_n > \cdots$, e, quando $0 < x_1 < a$, tale monotonicità non sussista. (Proposto da Li Shenghong)
 
-**Risposta:** $a = 8^{1/8}$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cgmo_2008#q06|src_cn_cgmo_2008__Q06]]
 
 
 
@@ -226,11 +276,18 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio armonico 2008x2008 scacchi pieni di quattro lettere*
+*Conta le scacchiere armoniche 2008x2008 riempite di quattro lettere*
 
-> Per una scacchiera delle dimensioni $2008 \times 2008$, in ogni caso (tutti hanno colori diversi) scrivere una delle lettere $C$, $G$, $M$, $O$. Se ogni quadrato $2 \times 2$ contiene tutte queste quattro lettere, lo chiamiamo una scacchiera armonica. (Posato da Zuming Feng)
+> Per una scacchiera di dimensione $2008 \times 2008$, in ogni caso (tutti hanno colori diversi) scrivi una delle lettere $C$, $G$, $M$, $O$. Se ogni $2 \times 2$ casella contiene tutte e quattro queste lettere, la chiamiamo "scacchiera armonica". Quante scacchiere armoniche diverse esistono? (Proposto da Zuming Feng)
 
-**Risposta:** $12 \times 2^{2008} - 24$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cgmo_2008#q07|src_cn_cgmo_2008__Q07]]
 
 
 
@@ -255,6 +312,15 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove the sequence floor(2^n×sqrt(2008))+floor(2^n×sqrt(2009)) ha infiniti termini odd e even*
+*Dimostrare che la successione floor(2^n*sqrt(2008))+floor(2^n*sqrt(2009)) ha infiniti termini dispari e infiniti termini pari*
 
-> Per un intero positivo $n$, $f_n = \lfloor 2^n \sqrt{2008} \rfloor + \lfloor 2^n \sqrt{2009} \rfloor$. Prove che ci sono infiniti numeri odd e numeri pari nella sequenza $f_1, f_2, \ldots$ ($\lfloor x \rfloor$ rappresenta il più grande numero intero che non supera $x$.) (Posato da Zuming Feng)
+> Per l'intero positivo $n$, si ponga $f_n = \lfloor 2^n \sqrt{2008} \rfloor + \lfloor 2^n \sqrt{2009} \rfloor$. Dimostrare che nella successione $f_1, f_2, \ldots$ ci sono infiniti numeri dispari e infiniti numeri pari ($\lfloor x \rfloor$ rappresenta il più grande intero non superiore a $x$). (Proposto da Zuming Feng)
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cgmo_2008#q08|src_cn_cgmo_2008__Q08]]

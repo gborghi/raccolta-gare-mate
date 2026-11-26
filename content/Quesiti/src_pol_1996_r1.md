@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare numeri interi positivi n per i quali tan x + cot x = 2 sin nx ha una soluzione reale*
+*Trovare i numeri interi positivi n per cui l'equazione tan x + cot x = 2 sin nx ammette una soluzione reale*
 
-> Trova tutti gli integri positivi $n$ per i quali l'equazione $\tan x + \cot x = 2\sin nx$ ha una soluzione reale.
+> Trovare tutti gli interi positivi $n$ per cui l'equazione $\tan x + \cot x = 2\sin nx$ ammette una soluzione reale.
+
+**Topic:** [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1996_r1#q01|src_pol_1996_r1__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i numeri primi che dividono almeno una differenza di numeri palindromici consecutivi*
+*Trovare tutti i numeri primi che dividono almeno una differenza tra numeri palindromi consecutivi*
 
-> Un numero naturale è \emph{palindromic} se è uguale al numero ottenuto leggendo la sua rappresentazione decimale da destra a sinistra. Lasciate che $x_1, x_2, x_3, \ldots$ sia la sequenza crescente di tutti i numeri palindromici. Trova tutti i numeri primi che dividono almeno una delle differenze $x_{k+1} - x_k$.
+> Un numero naturale è \emph{palindromo} se è uguale al numero ottenuto leggendo la sua rappresentazione decimale da destra a sinistra. Sia $x_1, x_2, x_3, \ldots$ la successione crescente di tutti i numeri palindromi. Determinare tutti i numeri primi che dividono almeno una delle differenze $x_{k+1} - x_k$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1996_r1#q02|src_pol_1996_r1__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un gruppo di persone che conoscono tutti più di (k-1) altri, dimostrare l'esistenza di una cricca di k+1*
+*In un gruppo di kn persone in cui ciascuna conosce più di (k-1)n altre, dimostrare che esiste una clique di k+1 persone*
 
-> In un gruppo di persone $kn$ ($k, n \in \mathbb{N}$), tutti conoscono più di $(k-1)n$ degli altri. dimostrare che esiste un gruppo di persone $k+1$ che si conoscono tutte.
+> In un gruppo di $kn$ persone ($k, n \in \mathbb{N}$), ciascuno conosce più di $(k-1)n$ delle altre. Dimostrare che esiste un gruppo di $k+1$ persone tutte a conoscenza l'una dell'altra.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1996_r1#q03|src_pol_1996_r1__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una tangente all'incircolo di un triangolo equilaterale incontra AB, AC a D, E; prova AD/DB + AE/EC = 1*
+*Una tangente all'incircoscritta di un triangolo equilatero incontra AB e AC rispettivamente nei punti D ed E; dimostrare che AD/DB + AE/EC = 1*
 
-> Una linea tangente all'incircolo di un triangolo equilaterale $ABC$ si interseca rispettivamente a $AB$ e $AC$ a $D$ e $E$. Prove che $\frac{AD}{DB} + \frac{AE}{EC} = 1$.
+> Una retta tangente all'incircolo di un triangolo equilatero $ABC$ interseca $AB$ e $AC$ rispettivamente in $D$ e $E$. Dimostrare che $\frac{AD}{DB} + \frac{AE}{EC} = 1$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1996_r1#q04|src_pol_1996_r1__Q04]]
 
 
 
@@ -129,9 +157,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con angolo obtuso CAB; PQ un segmento con punto medio A; mostrare BP + CQ >= (alfa/2) BC relazione tangente*
+*Triangolo con angolo CAB ottuso; PQ è un segmento con punto medio A; dimostrare che BP + CQ >= (alpha/2) BC, relazione tangente*
 
-> In un triangolo $ABC$, l'angolo $\angle CAB$ è obtuso. Il segmento $PQ$ deve essere qualsiasi segmento il cui punto medio è $A$. Mostrare che $BP + CQ \ge \tan\frac{\angle CAB}{2}\cdot BC$.
+> In un triangolo $ABC$, l'angolo $\angle CAB$ è ottuso. Sia $PQ$ un qualsiasi segmento il cui punto medio è $A$. Dimostrare che $BP + CQ \ge \tan\frac{\angle CAB}{2}\cdot BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1996_r1#q05|src_pol_1996_r1__Q05]]
 
 
 
@@ -154,9 +189,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due sequenze in aumento (una differenza aritmetica r, un rapporto geometrico q>1) con un termine comune; se condividono un termine comune, dimostrare infinitamente molti*
+*Due successioni crescenti (una a differenza aritmetica r, l'altra a rapporto geometrico q>1) con un termine in comune; se condividono un termine in comune, dimostrare l'esistenza di infiniti termini in comune*
 
-> Sono date due sequenze in aumento: una progressione aritmetica con differenza $r > 0$ e una progressione geometrica con rapporto $q > 1$, dove $q$ e $r$ sono coprime. Prova che se queste due sequenze hanno un termine comune, allora hanno infinitamente molti termini comuni.
+> Sono date due successioni crescenti: una progressione aritmetica con differenza $r > 0$ e una progressione geometrica con ragione $q > 1$, dove $q$ e $r$ sono coprimi. Dimostrare che, se queste due successioni hanno un termine comune, allora hanno infiniti termini comuni.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1996_r1#q06|src_pol_1996_r1__Q06]]
 
 
 
@@ -179,9 +221,19 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nonnegativi a,b,c e p,q,r sommando a 1 con p,q,r <= 1/2; dimostrare 8abc <= pa+qb+rc*
+*Numeri non negativi a, b, c e p, q, r di somma 1, con p, q, r al più 1/2: dimostrare la disuguaglianza e dire quando vale l'uguaglianza*
 
-> $a, b, c$ e $p, q, r$ siano numeri non negativi che soddisfino $a + b + c = p + q + r = 1$ e $p, q, r \le 1/2$. Prove che $$8abc \le pa + qb + rc$$ e trova quando si verifica l'uguaglianza.
+> Siano $a, b, c$ e $p, q, r$ numeri non negativi tali che $a + b + c = p + q + r = 1$ e $p, q, r \le 1/2$. Dimostrare che
+>
+> $$8abc \le pa + qb + rc$$
+>
+> e determinare quando vale l'uguaglianza.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Analisi per casi]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1996_r1#q07|src_pol_1996_r1__Q07]]
 
 
 
@@ -204,9 +256,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il raggio di luce dal centro del quadrato si riflette lateralmente e torna al centro per la prima volta; dimostrare numero impar di riflessi*
+*Un raggio parte dal centro di un quadrato, si riflette sui lati e torna al centro per la prima volta: dimostrare che le riflessioni sono in numero dispari*
 
-> Un raggio di luce parte dal centro di un quadrato e si riflette dai suoi lati (gli angoli di riflessione e di incidenza sono sempre uguali). Il raggio non raggiunge mai il vertice del quadrato e, dopo un po', ritorna al centro per la prima volta. Prove che il raggio si riflette dai lati del quadrato un numero imparato di volte.
+> Un raggio di luce parte dal centro di un quadrato e si riflette sui lati (l'angolo di riflessione è sempre uguale all'angolo di incidenza). Il raggio non passa mai per un vertice del quadrato e, dopo un certo tempo, torna al centro per la prima volta. Dimostrare che il raggio si è riflesso sui lati del quadrato un numero dispari di volte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_1996_r1#q08|src_pol_1996_r1__Q08]]
 
 
 
@@ -229,9 +287,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*polinomio a coefficiente intero con rimanente 990x - 889 modulo x^2-12x+11; dimostrazione di assenza di radici interi*
+*Un polinomio a coefficienti interi ha resto 990x − 889 nella divisione per x^2 − 12x + 11: dimostrare che non ha radici intere*
 
-> Un polinomio con coefficienti interi, quando diviso da $x^2 - 12x + 11$, dà il rimanente $990x - 889$. Prova che questo polinomio non ha radici interi.
+> Un polinomio a coefficienti interi, diviso per $x^2 - 12x + 11$, dà resto $990x - 889$. Dimostrare che questo polinomio non ha radici intere.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1996_r1#q09|src_pol_1996_r1__Q09]]
 
 
 
@@ -254,9 +318,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove x^9 = y^3 + z^3 ha infinite soluzioni in interi positivi*
+*Dimostrare che l'equazione x^9 = y^3 + z^3 ha infinite soluzioni in interi positivi*
 
-> Prova che l'equazione $x^9 = y^3 + z^3$ ha infinite soluzioni in numeri interi positivi $x, y, z$.
+> Dimostrare che l'equazione $x^9 = y^3 + z^3$ ha infinite soluzioni in interi positivi $x, y, z$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_1996_r1#q10|src_pol_1996_r1__Q10]]
 
 
 
@@ -279,9 +349,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*65-competitor ski jump in ordine casuale; dimostrare che la probabilità di esattamente un cambio di leader supera 1/16*
+*Salto con gli sci, 65 concorrenti in ordine fissato: dimostrare che la probabilità di un solo cambio di leader supera 1/16*
 
-> In una competizione di salto sciistico $65$ i concorrenti saltano in un ordine predeterminato, ognuno di loro esattamente una volta. Supponiamo che i loro risultati siano tutti diversi e che tutte le possibili classifiche finali siano ugualmente probabili. In ogni momento della competizione chiamiamo leader la persona con il miglior punteggio (in quel momento). Che la probabilità di $p$ sia quella che durante l'intero concorso ci sia stato esattamente un solo cambio di leader. Prove che $p > 1/16$.
+> In una gara di salto con gli sci partecipano $65$ concorrenti, che saltano in un ordine fissato in precedenza, ciascuno esattamente una volta. Si suppone che i risultati siano tutti diversi e che tutte le classifiche finali possibili siano equiprobabili. In ogni momento della gara si chiama leader chi, in quell'istante, ha il punteggio migliore. Sia $p$ la probabilità che nel corso dell'intera gara il leader cambi esattamente una volta. Dimostrare che $p > 1/16$.
+
+**Topic:** [[topic_probabilita|Probabilità e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_1996_r1#q11|src_pol_1996_r1__Q11]]
 
 
 
@@ -304,6 +380,12 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine se due cubetti congruenti con centro comune possono essere posizionati in modo che ogni faccia di uno e ogni faccia dell'altro condividano un punto comune*
+*Stabilire se esistono due cubi congruenti con lo stesso centro tali che ogni faccia dell'uno e ogni faccia dell'altro abbiano un punto in comune*
 
-> Trova se esistono due cubi congruenti con un centro comune in modo tale che ogni faccia di un cubo e ogni faccia dell'altro cubo abbiano un punto comune.
+> Stabilire se esistono due cubi congruenti con lo stesso centro tali che ogni faccia dell'uno e ogni faccia dell'altro abbiano un punto in comune.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_1996_r1#q12|src_pol_1996_r1__Q12]]

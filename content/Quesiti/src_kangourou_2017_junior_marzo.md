@@ -43,21 +43,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number missing in the sum pyramid*
+*Missing number in the sum pyramid*
 
 ![[src_kangourou_2017_junior_marzo__prob1.png]]
 
-> In each of the free cells in the figure a number must be inserted so that each number of the first two rows is the sum of the two numbers below it. What number should be inserted in place of the question mark? A) 15
-> 	
-> B) 16
-> 	
-> C) 17
-> 	
-> D) 18
-> 	
+> In each of the empty cells in the figure, a number must be entered so that each number in the first two rows is the sum of the two numbers below it. What number should be entered in place of the question mark?
+> A) 15	
+>
+> B) 16	
+>
+> C) 17	
+>
+> D) 18	
+>
 > E) 19
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q01|src_kangourou_2017_junior_marzo__Q01]]
 
 
 
@@ -94,21 +99,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Appearance of the word KANGAROO after flipping and rotating*
+*Appearance of the word KANGAROO after flipping and rotation*
 
 ![[src_kangourou_2017_junior_marzo__prob2.png]]
 
-> Peter wrote the word KANGAROO on a transparent glass sheet, then flipped the sheet over pivoting on its right side and then rotated it in its plane by 180°. What does Peter see now? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> Pietro wrote the word KANGAROO on a sheet of transparent glass, then flipped the sheet over, pivoting on its right side, and then rotated it 180° in its plane. What does Pietro see now?
+> A) 	
+>
+> B) 	
+>
+> C) 	
+>
+> D) 	
+>
 > E)
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q02|src_kangourou_2017_junior_marzo__Q02]]
 
 
 
@@ -140,19 +150,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of z given system with A,B,C*
+*Value of z for the given system with A, B, C*
 
-> 25 + z = A,    25 - z = B,     25 × z = C,    A + B + C = 150. How much is Z worth ? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> 25 + z = A, 25 - z = B, 25 × z = C, A + B + C = 150. What is the value of z?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q03|src_kangourou_2017_junior_marzo__Q03]]
 
 
 
@@ -185,13 +200,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability that only one person will not receive the gift
+*Probability that only one person does not receive the gift*
 
-> Cristina bought four books to give to four friends, one each. She chose them by distributing each book to a precise friend, but then packed four completely identical gift packages. If she randomly delivers packages to his friends, what is the probability that only one of them will not receive the gift that was intended for him? A) 1/24 B) 1/8
-> 	
-> C) 1/4 D) 1/2 E) None of the above answers are correct.
+> Cristina bought 4 books to give one each to 4 friends. She chose the books assigning each book to a specific friend, but then she wrapped 4 completely identical gift packages. If she delivers the packages to her friends at random, what is the probability that only one of them does not receive the gift that was intended for them?
+> A) 1/24	 	
+> B) 1/8	
+>
+> C) 1/4	 	
+> D) 1/2	        
+> E) None of the preceding answers is correct.
 
-**Answer:** E
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q04|src_kangourou_2017_junior_marzo__Q04]]
 
 
 
@@ -227,22 +251,27 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Curve described by the centre of the wheel*
+*Curve traced by the center of the wheel*
 
 ![[src_kangourou_2017_junior_marzo__prob5.png]]
 
-> Which of the following figures shows the curve described by the centre of the wheel when the wheel runs along the indicated mountain ridge? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
-> E)
+> Which of the following figures shows the curve traced by the center of the wheel when the wheel travels along the indicated mountain ridge?
+> A) 	
+>
+> B) 	
+>
+> C) 	
+>
+> D) 	
+>
+> E)       
 >
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q05|src_kangourou_2017_junior_marzo__Q05]]
 
 
 
@@ -272,11 +301,21 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who gets the biggest product and how much*
+*Who gets the larger product, and by how much?*
 
-> Bruno multiplies 3333 by 4445, Anna multiplies 2222 by 6667 and both get the correct result. Which of the two gets the most, and how much? A) Anna, by 1111. B) Bruno, by 1111. C) Anna, by 2222. D) Bruno, by 2222. E) None of the above answers is correct.
+> Bruno multiplies 3333 by 4445, and Anna multiplies 2222 by 6667; both get the correct result. Which of the two gets the larger number, and by how much?
+> A) Anna, of 1111.
+> B) Bruno, of 1111.
+> C) Anna, of 2222.
+> D) Bruno, of 2222.
+> E) None of the preceding answers is correct.
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q06|src_kangourou_2017_junior_marzo__Q06]]
 
 
 
@@ -306,11 +345,20 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of chess successes*
+*Percentage of successes in chess*
 
-> Mauro plays chess. He's played 15 games this year, winning nine. Now he's got five more to play. If he won all of them, what would be his success rate this year? A) 60% B) 65% C) 70% D) 75% E) 80%
+> Mauro plays chess. This year, he has already played 15 games and won 9 of them. He still has 5 games left to play. If he won them all, what would his win percentage be this year?
+> A) 60%	 	
+> B) 65%	 	
+> C) 70%	 	
+> D) 75%	 	
+> E) 80%
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q07|src_kangourou_2017_junior_marzo__Q07]]
 
 
 
@@ -345,22 +393,25 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Euros to draw at least 3 marbles of the same color*
+*Euro per drawing at least 3 marbles of the same color*
 
-> In a bag there are 203 red marbles, 117 green marbles and 28 white marbles. Drawing
-> a marble costs 1 euro. How many euros must we be willing to spend if we want
-> to be certain of drawing at least 3 marbles of the same color?
+> In a bag, there are 203 red marbles, 117 green marbles, and 28 white marbles. Drawing one marble costs 1 euro. How many euros must we be willing to spend if we want to be sure of drawing at least 3 marbles of the same color?
 > A) 3	
-	
+>
 > B) 6	
-	
+>
 > C) 7	
-	
+>
 > D) 28	
-	
+>
 > E) 203
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q08|src_kangourou_2017_junior_marzo__Q08]]
 
 
 
@@ -396,19 +447,25 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*During possible training with double speed*
+*Possible duration of training with doubled speed*
 
-> A cyclist trains by completing four laps of a circuit. It always takes an entire number of minutes to complete a lap, but at each lap after the first lap, its average speed in that lap doubles compared to that held in the previous lap. Which of the following can be the duration, in minutes, of his training? A) 41
-> 	
-> B) 42
-> 	
-> C) 43
-> 	
-> D) 44
-> 	
+> A cyclist trains by completing 4 laps of a circuit. It always takes the cyclist an integer number of minutes to complete one lap, but on each lap after the first, the cyclist's average speed on that lap is twice the average speed on the previous lap. Which of the following could be the duration, in minutes, of the cyclist's training session?
+> A) 41	
+>
+> B) 42	
+>
+> C) 43	
+>
+> D) 44	
+>
 > E) 45
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q09|src_kangourou_2017_junior_marzo__Q09]]
 
 
 
@@ -447,23 +504,28 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of the tricolour circle at arrival*
+*Position of the tricolour circle at the finish*
 
 ![[src_kangourou_2017_junior_marzo__prob10.png]]
 
-> Look at the figure. A white, gray and black circle with a radius of 1 cm rotates (without slipping) on a straight line; K and L are the points of contact at the start and at the end respectively: they are 11 π cm apart. Which of the following pictures shows the circle on arrival? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> Observe the figure. A white-gray-black circle with a radius of 1 cm rolls (without slipping) along a straight line; K and L are the points of contact at the start and the finish, respectively; these points are 11π cm apart. Which of the following images shows the circle at the finish?
+> A) 	
+>
+> B) 	
+>
+> C) 	
+>
+> D) 	
+>
 > E)
->  
-> The questions from N. 11 to N. 20 are worth 4 points each.
+>
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q10|src_kangourou_2017_junior_marzo__Q10]]
 
 
 
@@ -500,20 +562,25 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Duration of holiday after half rainy days*
+*Duration of the holiday with half-days of rain*
 
-> During Gianna's vacation there were seven half days of rain. The dry afternoons were 6, the dry mornings were 5. How many days did Gianna's vacation last? A) 7
-> 	
-> B) 8
-> 	
-> C) 9
-> 	
-> D) 10
-> 	
-> E) 11  
+> During Gianna's holiday, there were 7 half-days of rain. There were 6 dry afternoons and 5 dry mornings. How many days did Gianna's holiday last?
+> A) 7	
+>
+> B) 8	
+>
+> C) 9	
+>
+> D) 10	
+>
+> E) 11
 >
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q11|src_kangourou_2017_junior_marzo__Q11]]
 
 
 
@@ -547,17 +614,24 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region blackened in rectangle with square*
+*Area of the darkened region in a rectangle with a square*
 
 ![[src_kangourou_2017_junior_marzo__prob12.png]]
 
-> Within a rectangle of 3.5 × 7 there is a square of side 1, as shown in the figure. What is the area of the blackened region? A) 3
-> 	
-> B) 6
-> 	
-> (C) 9.5 D) 10.5 E) None of the values indicated.
+> Inside a 3.5 × 7 rectangle, there is a square with side length 1, as shown in the figure. What is the area of the shaded region?
+> A) 3	
+>
+> B) 6	
+>
+> C) 9,5	 	
+> D) 10,5	 	
+> E) None of the values indicated.
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q12|src_kangourou_2017_junior_marzo__Q12]]
 
 
 
@@ -615,7 +689,7 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length AE dividing trapezoid into equal areas*
+*AE length that divides the trapezoid into equal areas*
 
 ![[src_kangourou_2017_junior_marzo__prob13.png]]
 
@@ -638,17 +712,22 @@ The probability that only one person will not receive the gift
 \end{document}
 ```
 
-> The figure (indicative only) shows an ABCD trapezoid. The parallel sides AB and CD are respectively 50 and 20 cm long and the point E of AB is in such a position that the areas of the AED triangle and the DEBC quadrilateral are equal. How long is AE ? A) 25
-> 	
-> B) 30
-> 	
-> C) 35
-> 	
-> D) 40
-> 	
+> The figure (for illustrative purposes only) shows a trapezoid ABCD. The parallel sides AB and CD have lengths 50 cm and 20 cm, respectively, and point E on AB is positioned so that the areas of triangle AED and quadrilateral DEBC are equal. How many centimeters long is AE?
+> A) 25	
+>
+> B) 30	
+>
+> C) 35	
+>
+> D) 40	
+>
 > E) 45
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q13|src_kangourou_2017_junior_marzo__Q13]]
 
 
 
@@ -682,19 +761,25 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many n with only one between n and n+20 in four digits*
+*How many n with only one among n and n+20 being four-digit?*
 
-> How many positive integers n are such that one and only one of the numbers n and n + 20 is a four-digit number? A) 19
-> 	
-> B) 20
-> 	
-> C) 38
-> 	
-> D) 39
-> 	
+> How many positive integers n are there such that exactly one of the numbers n and n + 20 is a four-digit number?
+> A) 19	
+>
+> B) 20	
+>
+> C) 38	
+>
+> D) 39	
+>
 > E) 40
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q14|src_kangourou_2017_junior_marzo__Q14]]
 
 
 
@@ -729,13 +814,23 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of hexagon area and equilateral triangle*
+*Ratio of the area of a hexagon to that of an equilateral triangle*
 
 ![[src_kangourou_2017_junior_marzo__prob15.png]]
 
-> Look at the figure. From the middle point on each side of an equilateral triangle the two perpendiculars to the opposite sides are drawn, thus identifying a regular hexagon. What is the relationship between the area of the hexagon and the area of the equilateral triangle? A) 1 / 3 B) 2 / 5 C) 4 / 9 D) 1 / 2 E) 2 / 3
+> Observe the figure. From the midpoint of each side of an equilateral triangle, the two perpendiculars to the opposite sides are drawn, thereby defining a regular hexagon. What is the ratio of the area of the hexagon to the area of the equilateral triangle?
+> A) 1 / 3	 	
+> B) 2 / 5	 	
+> C) 4 / 9	 	
+> D) 1 / 2	 	
+> E) 2 / 3
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q15|src_kangourou_2017_junior_marzo__Q15]]
 
 
 
@@ -768,19 +863,24 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The largest of three consecutive integers with sum of squares 770*
+*The largest of three consecutive integers whose squares sum to 770*
 
-> The sum of the squares of three consecutive positive integers is 770. Which is the largest of the three integers? A) 15
-> 	
-> B) 16
-> 	
-> C) 17
-> 	
-> D) 18
-> 	
+> The sum of the squares of three consecutive positive integers is 770. What is the largest of the three integers?
+> A) 15	
+>
+> B) 16	
+>
+> C) 17	
+>
+> D) 18	
+>
 > E) 19
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q16|src_kangourou_2017_junior_marzo__Q16]]
 
 
 
@@ -809,11 +909,20 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the ACD angle in the regular octagon*
+*Measure of angle ACD in a regular octagon*
 
-> A, B, C, D are four consecutive vertices of a regular octagon. What is the measure of the ACD angle ? A) 22°30’ B) 45° C) 90° D) 112°30’ E) 135°
+> A, B, C, and D are four consecutive vertices of a regular octagon. What is the measure of angle ACD?
+> A) 22°30’	
+> B) 45°	 	
+> C) 90°	 	
+> D) 112°30’	
+> E) 135°
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q17|src_kangourou_2017_junior_marzo__Q17]]
 
 
 
@@ -861,18 +970,24 @@ The probability that only one person will not receive the gift
 
 ![[src_kangourou_2017_junior_marzo__prob18.png]]
 
-> A system of three pulleys has the configuration you see in the figure. The belts are tight and the three discs A, B and C rotate without slipping. Every 5 turns of A, B makes 4; every 7 turns of C, B makes 6. The circumference of C is 30 cm. How many centimeters is that of A? A) 27
-> 	
-> B) 28
-> 	
-> C) 29
-> 	
-> D) 30
-> 	
-> E) 31 A B C D E
+> A system of three pulleys has the configuration shown in the figure. The belts are well tensioned, and the three discs A, B, and C rotate without slipping. For every 5 revolutions of A, B makes 4; for every 7 revolutions of C, B makes 6. The circumference of C is 30 cm. What is the circumference of A in centimeters?
+> A) 27	
+>
+> B) 28	
+>
+> C) 29	
+>
+> D) 30	
+>
+> E) 31 
+> A B C D E
 >
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q18|src_kangourou_2017_junior_marzo__Q18]]
 
 
 
@@ -909,19 +1024,24 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many buses exceed the car*
+*How many buses does the car surpass?*
 
-> Every 3 minutes a bus departs from the airport directly to the city centre. A car leaves the airport at the same time as a bus leaves and travels to the city centre on the same route as the buses. It takes 60 minutes for each bus to get from the airport to the centre and 35 minutes for the car. On her journey to the city centre, how many buses does the car overtake, excluding the bus with which it left? A) 8
-> 	
-> B) 9
-> 	
-> C) 10
-> 	
-> D) 11
-> 	
+> Every 3 minutes, a bus departs from the airport bound for the city center. A car departs from the airport at the same moment a bus departs and heads to the city center following the same route as the buses. To get from the airport to the city center, each bus takes 60 minutes, while the car takes 35 minutes. On its journey to the city center, how many buses does the car overtake, excluding the bus it departed with?
+> A) 8	
+>
+> B) 9	
+>
+> C) 10	
+>
+> D) 11	
+>
 > E) 13
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q19|src_kangourou_2017_junior_marzo__Q19]]
 
 
 
@@ -953,11 +1073,21 @@ The probability that only one person will not receive the gift
 <div class="qlang-split" data-lang="en"></div>
 
 
-Height of Peter among four brothers
+*Pietro's height among four brothers*
 
-> Four brothers are of different heights. Tobias is shorter than Victor by the same amount as he is taller than Peter. Oscar is shorter than Peter by the same amount as Tobias is shorter than Victor. Tobias is 184 cm tall and the average height of the four brothers is 178 cm. How tall is Peter? A) 160 cm B) 166 cm C) 172 cm D) 184 cm E) 190 cm Questions from N. 21 to N. 30 are worth 5 points each.
+> The four brothers have different heights. Tobia is shorter than Vittorio by as much as he is taller than Pietro. Oscar is shorter than Pietro by as much as Tobia is shorter than Vittorio. Tobia is 184 cm tall, and the average height of the four brothers is 178 cm. How tall is Pietro?
+> A) 160 cm
+> B) 166 cm
+> C) 172 cm
+> D) 184 cm
+> E) 190 cm
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q20|src_kangourou_2017_junior_marzo__Q20]]
 
 
 
@@ -996,21 +1126,27 @@ Height of Peter among four brothers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grid number 3x3 with sums of 2x2 equal to*
+*Numbers in a 3x3 grid with equal 2x2 sums*
 
 ![[src_kangourou_2017_junior_marzo__prob21.png]]
 
-> You want to put a number in each cell of the grid 3 × 3 in the figure so that the sum of the numbers in each of the four subgrids 2 × 2 is the same for all these subgrids. Taking into account the three numbers already entered, what number will you have to write in the cell with the question mark? A) 5
-> 	
-> B) 4
-> 	
-> C) 1
-> 	
-> D) 0
-> 	
+> You want to put a number in each cell of the 3 × 3 grid shown in the figure so that the sum of the numbers in each of the four 2 × 2 subgrids is the same for all of these subgrids. Taking into account the three numbers already entered, what number will you have to write in the cell with the question mark?
+> A) 5	
+>
+> B) 4	
+>
+> C) 1	
+>
+> D) 0	
+>
 > E) 2
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q21|src_kangourou_2017_junior_marzo__Q21]]
 
 
 
@@ -1042,17 +1178,23 @@ Height of Peter among four brothers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of four ages of minors with product 882*
+*Sum of four minors with product 882*
 
-> Four brothers are all underage and of different ages. The product of their four ages is 882. What's their sum? A) 23
-> 	
-> B) 25
-> 	
-> C) 27
-> 	
+> Four siblings are all minors, and their ages are all different from one another. The product of their four ages is 882. What is the sum of their ages?
+> A) 23	
+>
+> B) 25	
+>
+> C) 27	
+>
 > D) 31
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q22|src_kangourou_2017_junior_marzo__Q22]]
 
 
 
@@ -1087,17 +1229,24 @@ Height of Peter among four brothers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What numbers can be 286 in the sequence*
+*Which numbers can equal 286 in the sequence?*
 
-> Seven positive integers a, b, c, d, e, f, g: (not necessarily different) are aligned in this order. Their sum is 2017 and, for any pair of adjacent numbers in the alignment, the difference between the major and the minor is 1. Which of these numbers could be equal to 286? A) Only a or g.
-> 	
+> Seven positive integers a, b, c, d, e, f, g—not necessarily distinct—are arranged in this order in a line. Their sum is 2017, and for any pair of adjacent numbers in the arrangement, the difference between the larger and the smaller is 1. Which of these numbers could be equal to 286?
+> A) Only a o g.
+>
 > B) Only b or f.
-> 	
-> C) Only c or e. D) Only d.
-> 	
+>
+> C) Only c o e.
+> D) Solo d.
+>
 > E) Each of them.
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q23|src_kangourou_2017_junior_marzo__Q23]]
 
 
 
@@ -1128,11 +1277,21 @@ Height of Peter among four brothers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of negative product by double-throwing*
+*Probability of a negative product when rolling a die twice*
 
-> The numbers that appear on the faces of a fair die are: -3, -2, -1, 0, 1, 2. If we roll the die twice, what is the probability that the product of the two numbers we get is negative? A) 1 / 2 B) 1 / 3 C) 11 / 36 D) 13 / 36 E) 1 / 4
+> The numbers that appear on the faces of an "unrigged" die are: -3, -2, -1, 0, 1, 2. If we roll the die twice, what is the probability that the product of the two numbers obtained is negative?
+> A) 1 / 2	 	
+> B) 1 / 3	 	
+> C) 11 / 36	
+> D) 13 / 36	
+> E) 1 / 4
 
-**Answer:** B
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q24|src_kangourou_2017_junior_marzo__Q24]]
 
 
 
@@ -1166,20 +1325,26 @@ Height of Peter among four brothers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ABABAB number divider*
+*Divisor of the number ABABAB*
 
-> However you choose the two digits A and B, the six-digit number ABABAB is divisible by A) 2.
-> 	
-> B) 5.
-> 	
-> C) 7.
-> 	
-> D) 9.
-> 	
+> In any case, once the two digits A and B are chosen, the six-digit number ABABAB is divisible by
+> A) 2.	
+>
+> B) 5.	
+>
+> C) 7.	
+>
+> D) 9.	
+>
 > E) 11.
 >
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q25|src_kangourou_2017_junior_marzo__Q25]]
 
 
 
@@ -1217,19 +1382,25 @@ Height of Peter among four brothers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many 7-digit codes with the given criterion*
+*How many 7-digit codes under the given criterion?*
 
-> Aldo has to set up his safe code and he wants to make sure he doesn't forget it. The code must be a 7-digit number and Aldo invents the following criterion: each digit must appear as many times as its value and all the same digits must appear consecutively (e.g. 4444333 is acceptable, 4433344 and 4443333 are not). How many codes can you choose from? A) 6
-> 	
-> B) 7
-> 	
-> C) 10
-> 	
-> D) 12
-> 	
+> Aldo must set the code for his safe and wants to be sure he won't forget it. The code must be a 7-digit number, and Aldo comes up with the following rule: each digit must appear as many times as its value, and all identical digits must appear consecutively (for example, 4444333 is acceptable; 4433344 and 4443333 are not). How many codes can he choose from?
+> A) 6	
+>
+> B) 7	
+>
+> C) 10	
+>
+> D) 12	
+>
 > E) 13
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q26|src_kangourou_2017_junior_marzo__Q26]]
 
 
 
@@ -1269,21 +1440,27 @@ Height of Peter among four brothers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most odd numbers in the sum pyramid*
+*Maximum number of odd numbers in a sum pyramid*
 
 ![[src_kangourou_2017_junior_marzo__prob27.png]]
 
-> Sarah wants to write a positive integer in each grid box in the figure so that each number above the bottom line is the sum of the two numbers in the boxes immediately below it. How many odd numbers can Sara write at most? A) 13
-> 	
-> B) 14
-> 	
-> C) 15
-> 	
-> D) 16
-> 	
+> Sara wants to write a positive integer in each cell of the grid shown in the figure so that every number above the bottom row is the sum of the two numbers in the cells immediately below it. What is the maximum number of odd numbers Sara can write?
+> A) 13	
+>
+> B) 14	
+>
+> C) 15	
+>
+> D) 16	
+>
 > E) 17
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q27|src_kangourou_2017_junior_marzo__Q27]]
 
 
 
@@ -1315,15 +1492,22 @@ Height of Peter among four brothers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure of the angle forgotten in the polygon*
+*Measurement of the forgotten angle in the polygon*
 
-> Luisa had to sum the measurements in degrees of the interior angles of a convex polygon, but she forgot one of the angles and got 2017. What is the measure in degrees of the angle she forgot? A) 37 B) 53
-> 	
-> C) 97
-> 	
-> D) 127 E) 143
+> Luisa was supposed to add up the degree measures of the interior angles of a convex polygon, but she forgot one of the angles and got 2017 as the result. What is the degree measure of the angle she forgot?
+> A) 37 	 	
+> B) 53 	
+>
+> C) 97	
+>
+> D) 127	 	
+> E) 143
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q28|src_kangourou_2017_junior_marzo__Q28]]
 
 
 
@@ -1361,17 +1545,24 @@ Height of Peter among four brothers
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many dancers say hello after the turn
+*How many dancers say "Ciao" after the rotation?*
 
-> Thirty dancers are arranged in a circle and look toward the center of the circle. Under the command 'Turn!' some turn a quarter on their left and others turn a quarter on their right. At this point, those dancers who are looking at each other say "Hello!" and this word is spoken by 10 dancers. At the new command "Turn around!" all the dancers turn halfway around and, again, those dancers who are looking at each other say "Hello!" This time, how many dancers are saying hello? A) 10
-> 	
-> B) 20
-> 	
-> C) 8
-> 	
-> D) 15 E) You cannot answer without further information.
+> 30 dancers are arranged in a circle and are facing the center of the circle. At the command "Turn!", some turn a quarter turn to the left on their own axis, and the others turn a quarter turn to the right on their own axis. At this point, those dancers who are facing each other say "Hello!", and this word is spoken by 10 dancers. At the new command "Spin!", all the dancers turn a half turn on their own axis, and again, those dancers who are facing each other say "Hello!". This time, how many dancers say "Hello!"?
+> A) 10	
+>
+> B) 20	
+>
+> C) 8	
+>
+> D) 15   
+> E) It is not possible to respond without further information.
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q29|src_kangourou_2017_junior_marzo__Q29]]
 
 
 
@@ -1450,15 +1641,21 @@ How many dancers say hello after the turn
 \end{document}
 ```
 
-> Look at the figure. A and B are two points on the circle with center M, the line through P and B is tangent to the circle at B. The PA and MB segments have integer length and the difference between the PB and PA length is 6. What are the possible values for the length of the MB segment ? A) 0
-> 	
-> B) 2
-> 	
-> C) 4
-> 	
-> D) 6
-> 	
+> Observe the figure. A and B are two points on the circle with center M; the line through P and B is tangent to the circle at B. Segments PA and MB have integer lengths, and the difference between the length of PB and the length of PA is 6. How many possible values are there for the length of segment MB?
+> A) 0 	
+>
+> B) 2 	
+>
+> C) 4	
+>
+> D) 6	
+>
 > E) 8
 >
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_marzo#q30|src_kangourou_2017_junior_marzo__Q30]]

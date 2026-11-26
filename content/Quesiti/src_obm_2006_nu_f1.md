@@ -29,9 +29,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolare un'integrale impropria con esponenziale*
+*Calcola un integrale improprio che coinvolge l'esponenziale*
 
-> Calcolo $$\int_2^{\infty} \frac{e^x - 1 - x}{(e^x - 1) \cdot x}\, dx.$$
+> Compute $$\int_2^{\infty} \frac{e^x - 1 - x}{(e^x - 1) \cdot x}\, dx.$$
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_nu_f1#q01|src_obm_2006_nu_f1__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Volume di solido definito con la somma del livello*
+*Volume del solido definito dalla condizione di somma dei piani*
 
-> $N$ sia un numero intero positivo. Calcolare, come funzione di $N$, il volume del solido definito da $$x,\, y,\, z \in [0, +\infty), \quad \lfloor x \rfloor + \lfloor y \rfloor + \lfloor z \rfloor \le N.$$
+> Sia $N$ un intero positivo. Calcola, in funzione di $N$, il volume del solido definito da
+> $$x,\, y,\, z \in [0, +\infty), \quad \lfloor x \rfloor + \lfloor y \rfloor + \lfloor z \rfloor \le N.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2006_nu_f1#q02|src_obm_2006_nu_f1__Q02]]
 
 
 
@@ -81,9 +96,17 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Linghi f(x) <3/2 da ODE con condizioni iniziali*
+*Limite f(x)<3/2 derivante dall'equazione differenziale ordinaria con condizioni iniziali*
 
-> Dato che $f : \mathbb{R} \to [0, +\infty)$ è doppio differenziabile con $f(0) = 0$, $f'(0) = 1$ e $1 + f(x) = \dfrac{1}{f'(x)}$, indicare che per tutti $x \in [0, 1]$, $$f(x) < \frac{3}{2}.$$
+> Dato che $f : \mathbb{R} \to [0, +\infty)$ è due volte differenziabile con $f(0) = 0$, $f'(0) = 1$ e $1 + f(x) = \dfrac{1}{f'(x)}$, si dimostri che per ogni $x \in [0, 1]$,
+> $$f(x) < \frac{3}{2}.$$
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_nu_f1#q03|src_obm_2006_nu_f1__Q03]]
 
 
 
@@ -108,11 +131,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Locus dei punti di mezzo degli accordi di un iperbola parallelo a una linea*
+*Luogo dei punti medi delle corde di un'iperbole parallele a una retta*
 
-> Data un'iperbola e una linea non parallela ad alcuna di queste asintotte, determinare il locus dei punti medi degli accordi dell'iperbola che sono paralleli alla linea data.
-> 
-> **Nota: ** Una corda ** di un iperbola è un segmento i cui punti terminali appartengono entrambi all'iperbola.
+> Data un'iperbole e una retta non parallela a nessuna delle due asintoti, determinare il luogo dei punti medi delle corde dell'iperbole parallele alla retta data.
+>
+> **Nota:** Una *corda* di un'iperbole è un segmento i cui estremi appartengono entrambi all'iperbole.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_nu_f1#q04|src_obm_2006_nu_f1__Q04]]
 
 
 
@@ -140,11 +170,21 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova una soluzione particolare di un ODE lineare con dati iniziali zero*
+*Trovare una soluzione particolare di un'equazione differenziale ordinaria lineare con dati iniziali nulli*
 
-> Le funzioni $y_1(t) = (1 + t^2)\,e^{t}$, $y_2(t) = (1 + t^2)\,e^{-t}$ e $y_3(t) = (-1 + t^2)\,e^{-t}$ sono soluzioni dell'equazione differenziale $$y''(t) + a(t)\,y'(t) + b(t)\,y(t) = c(t),$$ dove $a(t)$, $b(t)$, $c(t)$ sono funzioni doppiamente differenziabili.
-> 
-> Trova una funzione $y(t)$ tale da $$y''(t) + a(t)\,y'(t) + b(t)\,y(t) = c(t), \quad y(0) = 0, \quad y'(0) = 0.$$
+> Le funzioni $y_1(t) = (1 + t^2)\,e^{t}$, $y_2(t) = (1 + t^2)\,e^{-t}$ e $y_3(t) = (-1 + t^2)\,e^{-t}$ sono soluzioni dell'equazione differenziale
+> $$y''(t) + a(t)\,y'(t) + b(t)\,y(t) = c(t),$$
+> dove $a(t)$, $b(t)$, $c(t)$ sono funzioni due volte differenziabili.
+>
+> Trovare una funzione $y(t)$ tale che
+> $$y''(t) + a(t)\,y'(t) + b(t)\,y(t) = c(t), \quad y(0) = 0, \quad y'(0) = 0.$$
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_nu_f1#q05|src_obm_2006_nu_f1__Q05]]
 
 
 
@@ -168,6 +208,14 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Probabilità che la distanza minima in coppia superi m*
+*Probabilità che la distanza minima tra coppie superi m*
 
-> Scegliere tre punti $x_1, x_2, x_3$ a caso, indipendentemente e con distribuzione uniforme su $[0, 1]$. Determinare, in funzione del numero positivo $m$, la probabilità che $$\min\{\,|x_1 - x_2|,\; |x_1 - x_3|,\; |x_2 - x_3|\,\} > m.$$
+> Scegli tre punti $x_1, x_2, x_3$ a caso, in modo indipendente e con distribuzione uniforme su $[0, 1]$. Determina, in funzione del numero positivo $m$, la probabilità che
+> $$\min\{\,|x_1 - x_2|,\; |x_1 - x_3|,\; |x_2 - x_3|\,\} > m.$$
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Casework]], [[method_coordinate|Coordinate]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2006_nu_f1#q06|src_obm_2006_nu_f1__Q06]]

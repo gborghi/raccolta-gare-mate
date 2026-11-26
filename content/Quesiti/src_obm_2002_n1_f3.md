@@ -37,15 +37,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*5x5 griglia di numeri interi 1-25: scegliete cinque numeri, non due nella stessa riga o colonna; trovate un insieme con l'elemento più grande 23, e uno il cui elemento più grande è il più piccolo possibile*
+*Griglia 5x5 di interi da 1 a 25: scegli cinque numeri, nessuno dei quali sia nella stessa riga o nella stessa colonna; trova un insieme con elemento massimo 23 e un insieme il cui elemento massimo sia il più piccolo possibile*
 
-> Nella tabella di seguito sono scritti tutti gli enti da $1$ a $25$. Considerate tutti gli insiemi formati da cinque di questi numeri, in modo tale che non ci siano due numeri appartenenti alla stessa linea o alla stessa colonna.
-> 
+> Sulla tabella sottostante sono scritti tutti gli interi da $1$ a $25$. Si considerino tutti gli insiemi formati da cinque di questi numeri, in modo tale che non vi siano due numeri appartenenti alla stessa riga o alla stessa colonna.
+>
 > $$\begin{array}{|c|c|c|c|c|}\hline 2 & 13 & 16 & 11 & 23 \\ \hline 15 & 1 & 9 & 7 & 10 \\ \hline 14 & 12 & 21 & 24 & 8 \\ \hline 3 & 25 & 22 & 18 & 4 \\ \hline 20 & 19 & 6 & 5 & 17 \\ \hline \end{array}$$
-> 
-> a) Presenta un insieme il cui elemento più grande è $23$.
-> 
-> b) Presenta un insieme il cui elemento più grande è il più piccolo possibile.
+>
+> a) Presenta un insieme il cui elemento massimo è $23$.
+>
+> b) Presenta un insieme il cui elemento massimo sia il più piccolo possibile.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n1_f3#q01|src_obm_2002_n1_f3__Q01]]
 
 
 
@@ -76,15 +85,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*X è il riflesso di B attraverso la linea r (impostazione bisettore perpendicolare); X' Y' Z' sono i riflessi delle vertici del triangolo XYZ su tutti i lati opposti; calcolare l'area del triangolo X'Y'Z'*
+*X è il riflesso di B rispetto alla retta r (configurazione della mediatrice perpendicolare); X' Y' Z' sono i riflessi dei vertici del triangolo XYZ rispetto ai lati opposti; calcolare l'area del triangolo X'Y'Z'*
 
-> Nel disegno, la linea $r$ è perpendicolare al segmento $AB$ e passa attraverso il suo punto medio $M$. Diciamo che $X$ è la simmetria (riflessione) di $B$ rispetto alla linea $r$ quando $r$ è il bisettore perpendicolare del segmento $BX$ (analogamente per la simmetria di un punto rispetto al segmento $PQ$).
-> 
-> Il triangolo $X'Y'Z'$ deve essere tale che $X'$ sia simmetrica di $X$ rispetto al lato $YZ$, $Y'$ sia simmetrica di $Y$ rispetto al lato $XZ$, e $Z'$ sia simmetrica di $Z$ rispetto al lato $XY$.
-> 
-> Calcolare l'area del triangolo $X'Y'Z'$.
+> Nel disegno, la retta $r$ è perpendicolare al segmento $AB$ e passa per il suo punto medio $M$. Si dice che $X$ sia il simmetrico (riflesso) di $B$ rispetto alla retta $r$ quando $r$ è l'asse perpendicolare e bisettrice del segmento $BX$ (analogamente per il simmetrico di un punto rispetto al segmento $PQ$).
+>
+> Sia il triangolo $X'Y'Z'$ tale che $X'$ sia il simmetrico di $X$ rispetto al lato $YZ$, $Y'$ sia il simmetrico di $Y$ rispetto al lato $XZ$, e $Z'$ sia il simmetrico di $Z$ rispetto al lato $XY$.
+>
+> Calcola l'area del triangolo $X'Y'Z'$.
 
 ![[src_obm_2002_n1_f3__q02.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2002_n1_f3#q02|src_obm_2002_n1_f3__Q02]]
 
 
 
@@ -111,11 +129,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un parco quadrilaterale con più porte; etichettare i suoi punti in modo che i numeri lungo ogni lato si sommano allo stesso totale di T; dare un esempio di numerazione che raggiunga un possibile valore di T*
+*Un parco di forma quadrilatera con diversi ingressi; etichetta i suoi vertici in modo che la somma dei numeri su ciascun lato sia uguale allo stesso totale T; fornisci un esempio di numerazione che porti a un valore possibile di T*
 
-> Il parco di sotto ha la forma di un quadrilaterale e possiede diversi cancelli (ingressi): uno ad ogni vertice del quadrilaterale e uno su ogni lato. I cancelli devono essere numerati, quattro per quattro, in modo che su ogni lato la somma $T$ dei numeri sia la stessa. Numerare i punti in modo che la somma sia sempre lo stesso numero, pari a $T$. Presenta qui di seguito un esempio di numerazione dei punti che fornisce uno dei possibili valori di $T$.
+> Il parco qui sotto ha la forma di un quadrilatero e dispone di diversi cancelli (ingressi): uno in ciascun vertice del quadrilatero e uno su ciascun lato. I cancelli devono essere numerati a gruppi di quattro, in modo che su ciascun lato la somma $T$ dei numeri sia la stessa. Numera i punti in modo che la somma sia sempre lo stesso numero, pari a $T$. Di seguito presenta un esempio di numerazione dei punti che fornisce uno dei valori possibili di $T$.
 
 ![[src_obm_2002_n1_f3__q03.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2002_n1_f3#q03|src_obm_2002_n1_f3__Q03]]
 
 
 
@@ -146,15 +173,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sette monete in un cerchio, una con la sua faccia visibile; determinare se girando cinque monete consecutive ogni volta (a) o quattro monete consecutive ogni volta (b) tutti possono essere fatti vedere la faccia in giù*
+*Sette monete disposte in cerchio, una delle quali mostra la faccia visibile; stabilire se, voltando cinque monete consecutive ogni volta (a) oppure quattro monete consecutive ogni volta (b), si possa far sì che tutte mostrino la faccia rivolta verso il basso*
 
-> Sette monete sono disposte in un cerchio, con una faccia visibile (che mostra teste).
-> 
-> a) È possibile, girando ogni volta cinque monete consecutive, farli tutti mostrare a faccia in giù (cola)?
-> 
-> b) È possibile, girando ogni volta quattro monete consecutive, farli tutti mostrare a faccia in giù?
+> Sette monete sono disposte in cerchio, con una faccia visibile (che mostra testa).
+>
+> a) È possibile, girando ogni volta cinque monete consecutive, far sì che tutte mostrino il lato rivolto verso il basso (croce)?
+>
+> b) È possibile, girando ogni volta quattro monete consecutive, far sì che tutte mostrino il lato rivolto verso il basso (croce)?
 
 ![[src_obm_2002_n1_f3__q04.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n1_f3#q04|src_obm_2002_n1_f3__Q04]]
 
 
 
@@ -179,6 +215,15 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Su un tavolo 8x8 due giocatori inseriscono alternativamente 1x1 pedoni su quadrati; il giocatore che non può muoversi perde; determina quale giocatore ha una strategia vincente indipendentemente dal gioco dell'avversario*
+*Su una scacchiera 8x8, due giocatori posizionano a turno pedoni 1x1 sulle caselle; il giocatore che non può muoversi perde; determina quale giocatore possiede una strategia vincente indipendentemente dalle mosse dell'avversario*
 
-> Due giocatori giocano su una scacchiera ($8 \times 8$) composta da quadrati della dimensione dei pezzi. I due giocatori giocano alternativamente, e a ciascuna partita un giocatore pone un pedone $1 \times 1$ su un quadrato vuoto della tavola. Il giocatore che non riesce a mettere un pedone sulla tavola perde. Un giocatore può vincere indipendentemente dal modo in cui l'avversario gioca  cioè, uno dei giocatori ha una strategia vincente?
+> Due giocatori giocano su una scacchiera ($8 \times 8$) composta da caselle delle dimensioni dei pezzi. I due giocatori giocano a turno e, a ogni mossa, un giocatore colloca un pedone $1 \times 1$ su una casella vuota della scacchiera. Perde il giocatore che non può collocare un pedone sulla scacchiera. Un giocatore può vincere indipendentemente da come gioca l'avversario? In altre parole, uno dei giocatori possiede una strategia vincente?
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2002_n1_f3#q05|src_obm_2002_n1_f3__Q05]]

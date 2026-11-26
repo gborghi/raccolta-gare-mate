@@ -31,13 +31,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*measure of angle ABC*
+*Measure angle ABC*
 
 ![[src_kangourou_2015_finale_student__probs1.png]]
 
-> The figure shows two equal squares that have exactly one vertex in common. Is it possible to determine the measure of angle $ABC$? (see figure)
+> The figure shows two equal squares that share exactly one vertex. Is it possible to specify the measure of angle $ABC$? (see figure)
 
-**Answer:** 45 degrees
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_finale_student#qs1|src_kangourou_2015_finale_student__QS1]]
 
 
 
@@ -63,9 +67,14 @@ level: kangourou
 
 *values of n*
 
-> 2 . You want to draw on one of these sheets a grid of size (n + 1) × n and the one on the shorter side is made up of square cells, no matter what size, but the same for all cells. You want to make sure that each side of the grid is parallel to one edge of the sheet and that the distance of each side of the grid from the edge of the nearest sheet is the same, no matter which, for each of the four sides. What are the possible values of n? S3. (11 points) The currency in use in Khangland is the kang and there are only 1, 2 or 3 kang coins. Obviously, with coins like these, you can make any amount of an integer kang. It shows that for every positive integer N, the different possible ways to realize the sum of N + 1 kang are in the narrowest number.
+> 2. You want to draw on one of such sheets a grid of size (n + 1) × n, with the side of shorter length consisting of square cells—regardless of their size, but the same size for all cells. You want to ensure that each side of the grid is parallel to an edge of the sheet and that, for each of the four sides, the distance from each side of the grid to the nearest edge of the sheet is the same, whichever edge is meant. How many possible values of n are there? S3. (11 points) In Kanglandia, the currency in use is the kang, and there are only coins worth 1, 2, or 3 kang. Obviously, with coins like these, any amount that is an integer number of kangs can be made up. Prove that, for every positive integer N, the number of different possible ways to make up the amount of N + 1 kangs is strictly
 
-**Answer:** 1 and 2
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_finale_student#qs2|src_kangourou_2015_finale_student__QS2]]
 
 
 
@@ -91,13 +100,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of making N+1 kang >Mode for N kang*
+*Ways to implement N+1 kang > ways for N kang*
 
-> In Kangland, the currency in use is the kang and there are only $1$, $2$ or $3$ kang coins. Obviously, with coins like these, you can make any amount of an integer kang. Prove that, for every positive integer $N$, the different possible ways to realize the amount of $N+1$ kang are in strictly higher numbers than the different possible ways to realize the amount of $N$ kang.
-> 
-> Note: to obtain, for example, $4$ kang, the way $1+1+2$ must be considered the same as the way $1+2+1$ (but not the way $2+2$).
+> In Kanglandia, the currency in use is the kang, and there are only coins worth $1$, $2$, or $3$ kang. Obviously, with coins like these, any amount that is a whole number of kangs can be made up. Prove that, for every positive integer $N$, the number of distinct ways to make up the amount of $N+1$ kangs is strictly greater than the number of distinct ways to make up the amount of $N$ kangs.
+>
+> Note: to obtain, for example, $4$ kangs, the way $1+1+2$ must be considered equal to the way $1+2+1$ (but not equal to the way $2+2$).
 
-**Answer:** proof
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_finale_student#qs3|src_kangourou_2015_finale_student__QS3]]
 
 
 
@@ -121,11 +135,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number of caws in one hour*
+*Total number of caws in an hour*
 
-> $51$ crows are perched in a row on a branch of a large tree. Each time (and only each time) one of them caws, its neighbor to the right and the one to the left, if they exist, take flight. Every crow that takes flight flies for exactly one minute, then returns to its place immediately letting out a loud caw. This morning the first to caw was the crow at the end of the branch, and then they continued, according to the described rule, for exactly one hour: when the hour was up, all the crows in flight returned to the branch, each letting out one last loud caw. How many caws were made in that hour, from the first to the last instant inclusive?
+> $51$ Crows are perched in a row on a branch of a large tree. Each time (and only each time) that one of them caws, its right-hand and left-hand neighbors, if they exist, take to the air. Every crow that takes flight flies for exactly one minute, then returns to its place, immediately letting out a loud caw. This morning, the first to caw was the crow at the end of the branch, and then they continued, according to the rule described, for exactly one hour: when the hour was up, all the crows in flight had returned to the branch, each letting out one last loud caw. How many caws were made during that hour, from the first instant to the last inclusive?
 
-**Answer:** 931
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_finale_student#qs4|src_kangourou_2015_finale_student__QS4]]
 
 
 
@@ -149,11 +168,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of parallel lines to the sides per 100 regions*
+*Minimum number of lines parallel to the sides per 100 regions*
 
 > Given a triangle, what is the minimum number of lines parallel to the sides that need to be drawn to divide it into exactly $100$ regions?
 
-**Answer:** 16
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_finale_student#qs5|src_kangourou_2015_finale_student__QS5]]
 
 
 
@@ -176,8 +200,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*coplanar or on a sphere?*
+*Coplanar or on the sphere?*
 
-> Three circles in space are pairwise tangent and the three tangent points are all different from each other. Does it necessarily follow that the three circles are either coplanar or lie on the same sphere?
+> Three circles in space are pairwise tangent, and the three points of tangency are all distinct from one another. Does it necessarily follow that the three circles are either coplanar or lie on the same sphere?
 
-**Answer:** true
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_finale_student#qs6|src_kangourou_2015_finale_student__QS6]]

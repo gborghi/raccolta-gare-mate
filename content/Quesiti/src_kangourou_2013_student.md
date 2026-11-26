@@ -33,9 +33,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of the expressions with 2013 and the largest*
+*The largest number*
 
-> Which of the following numbers is the largest? A) 2013 B) 20+13 C) 2013 D) 2013 E) 20 ∙ 13
+> Which of the following numbers is the largest?
+> A) 2013
+> B) 20+13
+> C) 2013
+> D) 2013
+> E) 20 ∙ 13
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q01|src_kangourou_2013_student__Q01]]
 
 
 
@@ -68,17 +79,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Radius of the circle inscribed in the regular octagon*
+*Inradius of the octagon formed by side-parallel diagonals*
 
 ![[src_kangourou_2013_student__prob2.png]]
 
-> The regular octagon in the figure has 10 cm long sides. How many centimetres does the radius of the circle inscribed in the regular octagon formed by the diagonals parallel to some side measure? A) 10
-> 	
+> The regular octagon in the figure has sides of length 10 cm. How many centimetres long is the radius of the circle inscribed in the regular octagon formed by the diagonals that are parallel to some side?
+> A) 10
+>
 > B) 7,5
-> 	
+>
 > C) 5
-> 	
-> D) 2,5 E) 2
+>
+> D) 2,5
+> E) 2
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q02|src_kangourou_2013_student__Q02]]
 
 
 
@@ -107,7 +126,18 @@ level: kangourou
 
 *Number of edges of a prism with 2013 faces*
 
-> If a prism has, in total, 2013 faces, how many edges does it have? A) 2011 B) 2013 C) 4022 D) 4024 E) 6033
+> If a prism has, in total, 2013 faces, how many edges must it have?
+> A) 2011
+> B) 2013
+> C) 4022
+> D) 4024
+> E) 6033
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q03|src_kangourou_2013_student__Q03]]
 
 
 
@@ -138,17 +168,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the cubic root of 3^(3^3)*
+*Cube root of 3*
 
-> The cubic root of 3 is A) 33
-> 	
+> The cube root of 3      equals
+> A) 33
+>
 > B) 3
-> 	
+>
 > C) 3
-> 	
+>
 > D) 3
-> 	
+>
 > E) (      )3
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q04|src_kangourou_2013_student__Q04]]
 
 
 
@@ -176,9 +213,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many years before 2013 with four consecutive digits*
+*Four consecutive digits*
 
-> The year 2013 has the property that the number that identifies it is made up of four consecutive digits. How many years have passed since the last time a year enjoyed this same property? A) 467 B) 527 C) 581 D) 693 E) 990
+> The year 2013 has the property that the number which identifies it is formed of four consecutive digits. How many years have elapsed since the last time a year had this same property?
+> A) 467
+> B) 527
+> C) 581
+> D) 693
+> E) 990
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q05|src_kangourou_2013_student__Q05]]
 
 
 
@@ -207,16 +255,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of f(2031)-f(2013) for a linear function*
+*Value of f(2031) − f(2013) for a linear function*
 
-> Let f be a linear function such that f (2013) – f (2001) = 100. What is the value of 
-> f (2031) – f (2013) ?
-> A) 75	
-> 	
-> B) 100	 	
-> C) 120	 	
-> D) 150	 	
+> Let f be a linear function such that f (2013) – f (2001) = 100. What is the value of f (2031) – f (2013)?
+> A) 75
+>
+> B) 100
+> C) 120
+> D) 150
 > E) 180
+
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q06|src_kangourou_2013_student__Q06]]
 
 
 
@@ -252,19 +305,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many true statements on x with 2<x<3*
+*Inequalities true for every x between 2 and 3*
 
-> How many of the following inequalities are true for each number x such that 2 < x < 3?
-> 	
-> 4 < x2 < 9 4 < 2x < 9 6 < 3x < 9 0 < x2 – 2x < 3 A) 0
-> 	
+> How many of the following inequalities are true for every number x such that 2 < x < 3?
+>
+> 4 < x2 < 9 4 < 2x < 9 6 < 3x < 9 0 < x2 – 2x < 3
+> A) 0
+>
 > B) 1
-> 	
+>
 > C) 2
-> 	
+>
 > D) 3
-> 	
+>
 > E) 4
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q07|src_kangourou_2013_student__Q07]]
 
 
 
@@ -306,16 +366,24 @@ level: kangourou
 
 *Minimum number captured by the fourth hero*
 
-> Six superheroes capture 20 villains. The first superhero catches one, the second two, and the third three; the fourth catches more villains than each of his five colleagues. What's the minimum number of villains that the fourth superhero must have captured? A) 7
-> 	
-> B) 6
-> 	
-> C) 5
-> 	
-> D) 4
-> 	
-> E) 3 (33) (33–1) (23) (32) 3 √
+> Six superheroes capture 20 villains. The first superhero captures one, the second two and the third three; the fourth captures more villains than each of his five colleagues. What is the minimum number of villains that the fourth superhero must have captured?
+> A) 7
 >
+> B) 6
+>
+> C) 5
+>
+> D) 4
+>
+> E) 3
+> (33) (33–1) (23) (32) 3 √
+>
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q08|src_kangourou_2013_student__Q08]]
 
 
 
@@ -349,15 +417,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which view of the cube with pyramid cannot appear*
+*Which view of the cube with a pyramid cannot appear*
 
 ![[src_kangourou_2013_student__prob9.png]]
 
-> Inside the transparent cube in the figure is a non-transparent ABCDS pyramid, whose top S is the middle point of one of the cube's edges. For each of its faces, you can look at the cube from the direction perpendicular to it: which of the following figures can never appear? A)
-> 	
-> B) C) D) E)
+> Inside the transparent cube in the figure, a non-transparent pyramid ABCDS can be seen, whose vertex S is the midpoint of one of the edges of the cube. For each of its faces, you can look at the cube from the direction perpendicular to that face: which of the following figures can never appear?
+> A)
+>
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q09|src_kangourou_2013_student__Q09]]
 
 
 
@@ -388,13 +465,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reduction in volume in the solidification*
+*Volume decrease on solidification*
 
-> When a solid is liquefied, its volume increases by 1/12; how much less does its volume decrease when it solidifies? A) 1/10 B) 12
-> 	
-> (c) 1/12 D) 1/13 E) 13 Questions from N. 11 al N. 20 is worth 4 points each.
+> When a certain solid substance liquefies, its volume increases by 1/12; by how much does its volume decrease when it solidifies?
+> A) 1/10
+> B) 12
+>
+> C) 1/12
+> D) 1/13
+> E) 13
+> Questions from N. 11 to N. 20 are worth 4 points each
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q10|src_kangourou_2013_student__Q10]]
 
 
 
@@ -430,19 +517,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pentagons is the ring made of*
+*How many pentagons make the ring*
 
 ![[src_kangourou_2013_student__prob11.png]]
 
-> Richard has plastic tiles all identical to each other, shaped like a regular pentagon. He joins them by gluing the sides without overlapping, so as to create a circular construction as in the figure. How many pieces did he glue together? A) 8
-> 	
+> Riccardo has some plastic tiles, all the same as one another, in the shape of a regular pentagon. He places them side by side, gluing the sides without overlaps, so as to make a circular construction as in the figure. How many pieces has he glued together?
+> A) 8
+>
 > B) 9
-> 	
+>
 > C) 10
->             
+>
 > D) 12
-> 	
+>
 > E) 15
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q11|src_kangourou_2013_student__Q11]]
 
 
 
@@ -474,18 +568,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many integers n with n/3 and 3n both three-digit*
+*Gap and 3n both three-digit*
 
-> How many positive integers n exist such that      and 3n are both integers of 
-> three digits?
-> A) 12	
-> 	
-> B) 33	
-> 	
-> C) 34	
-> 	
-> D) 100	 	
+> How many positive integers n are there such that      and 3n are both three-digit integers?
+> A) 12
+>
+> B) 33
+>
+> C) 34
+>
+> D) 100
 > E) 300
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q12|src_kangourou_2013_student__Q12]]
 
 
 
@@ -519,13 +619,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What colour of tiles cannot be obtained from the carpet*
+*Shading a round carpet cannot produce*
 
 ![[src_kangourou_2013_student__prob13.png]]
 
-> A floor covered with square tiles is partially covered by a round carpet. In the following figures, the shaded tiles represent all and only the tiles that have more than one point covered by the carpet. What figure cannot be obtained? A)
->     	
-> B) C) D) E)
+> A floor covered with square tiles is partially covered by a round carpet. In the following figures the shaded tiles represent all and only the tiles that have more than one point covered by the carpet.  Which figure cannot be obtained?
+> A)
+>
+> B)
+> C)
+> D)
+> E)
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q13|src_kangourou_2013_student__Q13]]
 
 
 
@@ -562,24 +673,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Negation of the statement about f(x) even for x even*
+*Negation of f even for even x*
 
-> For a function f defined on the set of integers and with integer values, consider 
-> the following statement:   “For every even x, f (x) is even.”  
-> Which of the following statements is the negation of this statement?
-> 	
-> A) For every even x, f (x) is odd.	
-> 	
-> B) For every odd x, f (x) is even.	
->  n 
-> {{{ 	
->  3
-> 
-> C) For every odd x, f (x) is odd.	  
-> 	
-> D) There exists an even number x such that f (x) is odd     
-> 	
+> For a function f defined on the set of integers and taking integer values, consider the following statement:   “For every even x, f (x) is even.” Which of the following statements is the negation of this statement?
+>
+> A) For every even x, f (x) is odd.
+>
+> B) For every odd x, f (x) is even.
+> n {{{ 3
+>
+> C) For every odd x, f (x) is odd.
+>
+> D) There exists an even number x such that f (x) is odd
+>
 > E) There exists an odd number x such that f (x) is even.
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_insiemi_funzioni|Sets and functions]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q14|src_kangourou_2013_student__Q14]]
 
 
 
@@ -612,19 +725,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many rectangles with side 5 can be broken into square and rectangle*
+*Rectangles with side 5 split into a square and a rectangle*
 
-> How many different rectangles exist that have a side length of 5 and can be broken into a square and a rectangle, one of which has an area of 4? A) 1
-> 	
+> How many different rectangles are there that have a side of length 5 and that can be split into a square and a rectangle, one of which has area 4?
+> A) 1
+>
 > B) 2
-> 	
+>
 > C) 3
-> 	
+>
 > D) 4
-> 	
+>
 > E) 5
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q15|src_kangourou_2013_student__Q15]]
 
 
 
@@ -709,17 +829,24 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure you see the graph of a real function f defined over the entire real axis, which is made up of two half-lines and a segment that connects them. How many distinct solutions does the equation f (f (f (x))) = 0 have ? A) 4
-> 	
+> In the figure you see the graph of a real function f defined on the whole real axis. The graph is formed by two half-lines and a segment joining them. How many distinct solutions does the equation   f (f (f (x))) = 0 have?
+> A) 4
+>
 > B) 3
-> 	
+>
 > C) 2
->          
+>
 > D) 1
-> 	
+>
 > E) 0
 
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q16|src_kangourou_2013_student__Q16]]
 
 
 
@@ -767,7 +894,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ACB angle with AN=AC and BM=BC and MCN=43*
+*Angle ACB with AN=AC, BM=BC and MCN=43°*
 
 ![[src_kangourou_2013_student__prob17.png]]
 
@@ -787,9 +914,19 @@ level: kangourou
 \end{document}
 ```
 
-> In the triangle ABC the points M and N are fixed on the AB side so that AN = AC and BM = BC. Determine the width of the ACB angle by knowing that the MCN angle measures 43°. A) 86° B) 89° C) 90° D) 92° E) 94°
+> In triangle ABC, the points M and N have been fixed on side AB so that  AN = AC and BM = BC. Determine the size of angle ACB, given that angle MCN measures 43°.
+> A) 86°
+> B) 89°
+> C) 90°
+> D) 92°
+> E) 94°
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q17|src_kangourou_2013_student__Q17]]
 
 
 
@@ -823,19 +960,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total (x,y) pairs with x^2 y^3 = 6^12*
+*Positive integer pairs for x2 y3 = 612*
 
-> How many distinct pairs (x, y) of positive integers satisfy the equation x2 y3 = 612? A) 6
-> 	
+> How many distinct pairs (x, y) of positive integers satisfy the equation x2 y3 = 612?
+> A) 6
+>
 > B) 8
-> 	
+>
 > C) 10
-> 	
+>
 > D) 12
->          
-> E) A different number from the previous one
+>
+> E) A different number from the ones above
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q18|src_kangourou_2013_student__Q18]]
 
 
 
@@ -871,19 +1015,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum cards for 3 with the same sum of digits*
+*Minimum cards for 3 with the same digit sum*
 
-> In a box there are 900 cards numbered from 100 to 999 (each number on one and one card only). Francesca fishes the cards and, for each one, calculates the sum of the digits of the number shown on the card. What is the minimum number of cards you need to fish to make sure you have at least 3 cards for which the sum of the digits is the same? A) 51
-> 	
+> In a box there are 900 cards numbered from 100 to 999 (each number on one and only one card). Francesca draws some cards and, for each one, calculates the sum of the digits of the number written on the card. What is the minimum number of cards she must draw to be sure of having at least 3 cards whose numbers have the same sum of digits?
+> A) 51
+>
 > B) 52
-> 	
+>
 > C) 53
-> 	
+>
 > D) 54
-> 	
+>
 > E) 55
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q19|src_kangourou_2013_student__Q19]]
 
 
 
@@ -922,23 +1073,25 @@ level: kangourou
 
 *f(2013) for f periodic with period 5*
 
-> Let f be the real function defined on the whole real axis by the following properties:
->      •   f is periodic with period 5;
->      •   the rule that describes the restriction of f to the interval [–2, 3[ is f (x) = x2 .
-> What is the value of f (2013)?
-> A) 0	
-> 	
-> B) 1	
-> 	
-> C) 2	
-> 	
-> D) 4	
-> 	
+> Let f  be the real function defined on the whole real axis by the following properties: •   f  is periodic with period 5; •   the rule that describes the restriction of f  to the interval [–2, 3[ is  f (x) = x2 . What is the value of  f (2013)?
+> A) 0
+>
+> B) 1
+>
+> C) 2
+>
+> D) 4
+>
 > E) 9
-> 
-> Questions from No. 21 to No. 30 are worth 5 points each
+>
+> The questions from question 21 to question 30 are worth 5 points each.
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_insiemi_funzioni|Sets and functions]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q20|src_kangourou_2013_student__Q20]]
 
 
 
@@ -972,19 +1125,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (x,y) with x<=y and xy=5(x+y)*
+*Pairs (x, y) with x ≤ y and xy = 5(x + y)*
 
-> For how many pairs (x, y) of integers such that x ≤ y, is xy = 5 (x + y) ? A) 4
-> 	
+> For how many pairs (x, y) of integers such that x ≤ y does xy = 5 (x + y) hold?
+> A) 4
+>
 > B) 5
-> 	
+>
 > C) 6
-> 	
+>
 > D) 7
-> 	
+>
 > E) 8
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q21|src_kangourou_2013_student__Q21]]
 
 
 
@@ -1026,15 +1186,22 @@ level: kangourou
 
 ![[src_kangourou_2013_student__prob22.png]]
 
-> The full cube in the figure is cut along the plane passing through the three vertices B, D and E adjacent to A. Similarly, the cube is also cut along the seven floors that pass through the three vertices adjacent to each of the other seven vertices. Once the sectional parts of the cube are separated, which of the following figures represents the cube part containing the center of the cube itself? A)
->     	
+> The solid cube in the figure is cut along the plane that passes through the three vertices B, D and E adjacent to A. In the same way, the cube is also cut along the seven planes that pass through the three vertices adjacent to each of the other seven vertices. Once the sectioned parts of the cube have been separated, which of the following figures represents the part of the cube containing the centre of the cube itself?
+> A)
+>
 > B)
->     	
+>
 > C)
->    	
-> D) E) None of the above.
+>
+> D)
+> E) None of the above.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q22|src_kangourou_2013_student__Q22]]
 
 
 
@@ -1070,19 +1237,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many lines are plotted in the plane*
+*How many straight lines drawn in the plane*
 
-> There were a few lines drawn in the plane. The line a intersects exactly three lines (different from itself) and the line b intersects exactly four lines. The exact number of lines intersected by the line c is neither three nor four. How many lines are in the planee? A) 4
-> 	
+> Some straight lines have been drawn in the plane. Straight line a intersects exactly three straight lines (other than itself) and straight line b intersects exactly four straight lines. The exact number of straight lines intersected by straight line c is neither three nor four. How many straight lines have been drawn in the plane?
+> A) 4
+>
 > B) 5
-> 	
+>
 > C) 6
-> 	
+>
 > D) 7
->  
-> E) A different number from the previous one
+>
+> E) A different number from the ones above
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q23|src_kangourou_2013_student__Q23]]
 
 
 
@@ -1116,21 +1290,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real pairs (x,y) with x^2+y^2=|x|+|y|*
+*Real pairs solving the equation*
 
-> How many pairs (x, y) of real numbers are solutions of the equation 
-> x 2 + y 2 = |x| + |y|?
-> A) 1	
-> 	
-> B) 5	
-> 	
-> C) 8	
-> 	
-> D) 9	
-> 	
-> E) Infinite
+> How many pairs (x, y) of real numbers are solutions of the equation x 2 + y 2 = |x| + |y|?
+> A) 1
+>
+> B) 5
+>
+> C) 8
+>
+> D) 9
+>
+> E) Infinitely many
 
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** E
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q24|src_kangourou_2013_student__Q24]]
 
 
 
@@ -1163,20 +1342,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solutions of f^2013(n)=1 with f halving*
+*Iterated halving equal to 1*
 
-> Let f be the function defined on the set of natural numbers by:
-> f (n) = n / 2 if n is even,    f (n) = (n – 1) / 2 if n is odd.
-> For every positive integer k, let f k (n) = f (f (...f (n)...))), that is, f applied k times.
-> How many solutions does the equation f 2013(n) = 1 have?
+> Let f  be the function defined on the set of natural numbers by: f (n) = n / 2 if n is even,    f (n) = (n – 1) / 2 if n is odd. For every positive integer k, let f k (n) = f (f (...f (n)...))), that is, f applied k times. How many solutions does the equation  f 2013(n) = 1 have?
 > A) 0
 >
 > B) 4026
 > C) 22012
 > D) 22013
-> E) Infinite
+> E) Infinitely many
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q25|src_kangourou_2013_student__Q25]]
 
 
 
@@ -1211,18 +1393,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles containing the centre in the 13-sided polygon*
+*Triangles containing the centre in a 13-sided polygon*
 
-> Choosing three of the vertices of a regular polygon identifies a triangle. If the polygon has 13 sides, how many of the triangles that can be formed in this way have the center of the polygon (i.e. the center of the inscribed circumference) inside them? A) 65
-> 	
+> By choosing three of the vertices of a regular polygon, a triangle is identified. If the polygon has 13 sides, how many of the triangles that can be formed in this way have the centre of the polygon inside them (that is, the centre of the inscribed circle)?
+> A) 65
+>
 > B) 85
-> 	
+>
 > C) 91
-> 	
-> D) 104 E) A number different from the previous ones.
+>
+> D) 104
+> E) A different number from the ones above.
 >
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q26|src_kangourou_2013_student__Q26]]
 
 
 
@@ -1256,19 +1446,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of digits of n where sum 1..n has three equal digits*
+*Sum of the digits of n*
 
-> n is an integer such that the sum of the first n positive integers is a three-digit number all equal to each other. What's the sum of the digits of n? A) 6
-> 	
+> n is an integer such that the sum of the first n positive integers is a three-digit number in which all the digits are equal. What is the sum of the digits of n?
+> A) 6
+>
 > B) 9
-> 	
+>
 > C) 12
-> 	
+>
 > D) 15
-> 	
+>
 > E) 18
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q27|src_kangourou_2013_student__Q27]]
 
 
 
@@ -1308,22 +1505,28 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*nature of the two individuals*
+*Nature of the two individuals*
 
-> There are only two types of people living on the Magicians and Witches Island: Magicians (who always tell the truth) and Witches (who always lie). I met two individuals who live on the island and asked the taller if they were both magicians: from his answer I could not infer what nature they were, and so I asked the shorter if his neighbor was a magician. His answer made me understand the nature of each of them: what was it?
-> 	
-> A) They were both Magicians.
-> 	
-> B) They were both Witches.
-> 	
-> C) The taller was a Magician and the shorter a Witch.
-> 	
-> D) The taller was a Witch and the shorter a Magician.
->   
-> 	
+> On the island of the Wizards and the Sorcerers there live only two types of individual: Wizards (who always tell the truth) and Sorcerers (who always lie). I met two individuals who live on the island and I asked the taller one whether they were both Wizards: from his answer I could not deduce of what nature they were, and so I asked the shorter one whether his neighbour was a Wizard. His answer made me understand the nature of each of the two: what was it?
+>
+> A) They were both Wizards.
+>
+> B) They were both Sorcerers.
+>
+> C) The taller one was a Wizard and the shorter one a Sorcerer.
+>
+> D) The taller one was a Sorcerer and the shorter one a Wizard.
+>
+>
 > E) The information given is not sufficient to answer.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q28|src_kangourou_2013_student__Q28]]
 
 
 
@@ -1354,11 +1557,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value a100 with a_{m+n}=a_m+a_n+mn*
+*Value of a100*
 
-> Giuliana wrote an algorithm to generate a sequence of numbers: a1 = 1, am + n = am + an + mn, with m and n natural numbers. What is a100 ? A) 100 B) 1000 C) 2012 D) 4950 E) 5050
+> Giuliana has written an algorithm to generate a sequence of numbers: a1 = 1,    am + n = am + an + mn,   where m and n are natural numbers. What is the value of a100?
+> A) 100
+> B) 1000
+> C) 2012
+> D) 4950
+> E) 5050
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+[[Quesiti/src_kangourou_2013_student#q29|src_kangourou_2013_student__Q29]]
 
 
 
@@ -1413,30 +1627,24 @@ level: kangourou
 
 ![[src_kangourou_2013_student__prob30.png]]
 
-> Five cars enter a roundabout simultaneously from five different directions, as shown in the figure.
-> Each car travels a distance less than one full lap, and no two cars exit in the same direction.
-> In how many different ways can the group of five cars leave the roundabout?
-> A) 24
-> 	
+> Five cars enter the roundabout shown in the figure simultaneously from five different directions. Each car travels a distance less than a full circuit, and no two cars exit the roundabout in the same direction. In how many different ways can the group of five cars leave the roundabout?
+> A) 24	
+>
 > B) 44	
-> 	
+>
 > C) 60	
-> 	
+>
 > D) 81	
-> 	
+>
 > E) 120
-> 
-> SCIENTIFIC COMMITTEE OF KANGOUROU DE LA MATEMATICA
-> Prof. A. Arosio (University of Parma)
-> Prof.ssa L. Capelli (Liguria Regional Directorate)
-> Prof.ssa S. De Stefano (University of Milano)
-> Prof. G. L. Forti (University of Milano)
-> Prof. M. Gobbino (University of Pisa)
-> Prof. A. Lissoni (Kangourou Italia)
-> Prof.ssa E. Maluta (Politecnico di Milano)
-> Prof.ssa A. Rossi (Leonardo High School, Brescia)
-> Prof. C. Zanco (University of Milano)
-> 
+>
+> Kangaroo Mathematics Scientific Committee Prof. A. Arosio (University of Parma) Prof. L. Capelli (Regional Directorate of Liguria) Prof. S. De Stefano (University of Milan) Prof. G. L. Forti (University of Milan) Prof. M. Gobbino (University of Pisa) Prof. A. Lissoni (Kangourou Italia) Prof. E. Maluta (Politecnico di Milano) Prof. A. Rossi (Liceo Leonardo di Brescia) Prof. C. Zanco (University of Milan)
+>
 > STUDENT STRING 2013
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2013_student#q30|src_kangourou_2013_student__Q30]]

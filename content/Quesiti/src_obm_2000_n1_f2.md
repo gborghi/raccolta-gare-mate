@@ -32,13 +32,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i parallelepiped rettangolari da 24 cubetti unitari*
+*Conta i parallelepipedi rettangoli formati da 24 cubi unitari*
 
-> In quanti modi diversi possiamo costruire un parallelepiped rettangolare utilizzando esattamente 24 blocchi cubi di dimensioni $1 \times 1 \times 1$?
-> 
-> **Nota:** Blocchi di dimensioni $2 \times 3 \times 4$ e $2 \times 4 \times 3$ sono considerati uguali.
+> In quanti modi diversi possiamo costruire un parallelepipedo rettangolo utilizzando esattamente 24 blocchi cubici di dimensioni $1 \times 1 \times 1$?
+>
+> **Nota:** I blocchi di dimensioni $2 \times 3 \times 4$ e $2 \times 4 \times 3$ sono considerati uguali.
 
-**Risposta:** 6
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n1_f2#q01|src_obm_2000_n1_f2__Q01]]
 
 
 
@@ -65,15 +70,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la lunghezza laterale del quadrato I nel rettangolo diviso in 9 quadrati*
+*Trovare la lunghezza del lato del quadrato I nel rettangolo diviso in 9 quadrati*
 
-> Il rettangolo mostrato accanto è diviso in quadrati $9$ $A$, $B$, $C$, $D$, $E$, $F$, $G$, $H$ e $I$. Il quadrato $A$ ha lunghezza laterale $1$ e il quadrato $B$ ha lunghezza laterale $9$.
-> 
-> Qual è la lunghezza laterale del quadrato $I$?
+> Il rettangolo mostrato accanto è diviso in $9$ quadrati $A$, $B$, $C$, $D$, $E$, $F$, $G$, $H$ e $I$. Il quadrato $A$ ha lato di lunghezza $1$, e il quadrato $B$ ha lato di lunghezza $9$.
+>
+> Qual è la lunghezza del lato del quadrato $I$?
 
 ![[src_obm_2000_n1_f2__q02.png]]
 
-**Risposta:** 18
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n1_f2#q02|src_obm_2000_n1_f2__Q02]]
 
 
 
@@ -99,13 +108,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rossa/blu 100 punti su una linea; determinare il colore del punto più a destra*
+*Rosso/blu: 100 punti allineati; determina il colore del punto più a destra*
 
-> Pingiamo $100$ punti su una linea in rosso o blu. Se due punti vicini sono entrambi rossi, dipingiamo il segmento tra di loro rosso. Se due punti vicini sono entrambi blu, dipingiamo il segmento tra loro in blu. Se due punti vicini hanno colori diversi, dipingiamo il segmento tra di loro in verde. Dopo aver fatto questo, ci sono esattamente $20$ segmenti verdi.
-> 
-> È possibile determinare a partire da questi dati il colore del punto sul lato destro? In tal caso, di che colore è il punto?
+> Dipingiamo $100$ punti su una retta di rosso o di blu. Se due punti vicini sono entrambi rossi, dipingiamo di rosso il segmento che li unisce. Se due punti vicini sono entrambi blu, dipingiamo di blu il segmento che li unisce. Se due punti vicini hanno colori diversi, dipingiamo di verde il segmento che li unisce. Dopo aver fatto ciò, ci sono esattamente $20$ segmenti verdi.
+>
+> È possibile determinare, a partire da questi dati, il colore del punto all'estremità destra? In tal caso, di che colore è quel punto?
 
-**Risposta:** rosso
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n1_f2#q03|src_obm_2000_n1_f2__Q03]]
 
 
 
@@ -136,17 +150,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizionare gli integri 110 in stella; ogni riga di 4 in ordine crescente o diminuente*
+*Colloca gli interi da 1 a 10 nella stella; ogni riga di 4 numeri in ordine crescente o decrescente*
 
-> Desideriamo scrivere i numeri interi da $1$ a $10$ nei dieci cerchi del diagramma stellare di seguito in modo che tutti i quattro numeri allineati lungo la stessa linea della stella appaiano in ordine crescente o decrescente.
-> 
-> a) dimostrare che è possibile organizzare i numeri che soddisfano queste condizioni.
-> 
-> b) Quali numeri possono apparire alle estremità (punti esterni) della stella?
-> 
-> c) Quali numeri possono apparire nelle altre cinque posizioni?
+> Vogliamo scrivere gli interi da $1$ a $10$ nei dieci cerchi del diagramma a stella qui sotto, in modo che qualsiasi quattro numeri allineati lungo la stessa linea della stella compaiano in ordine crescente o decrescente.
+>
+> a) Dimostrare che è possibile disporre i numeri in modo da soddisfare queste condizioni.
+>
+> b) Quali numeri possono comparire sulle punte (punti esterni) della stella?
+>
+> c) Quali numeri possono comparire nelle altre cinque posizioni (interne)?
 
 ![[src_obm_2000_n1_f2__q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n1_f2#q04|src_obm_2000_n1_f2__Q04]]
 
 
 
@@ -170,11 +191,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo intero positivo che è doppio di un cubo e quintuplico di un quadrato*
+*Il più piccolo numero intero positivo che è il doppio di un cubo e il quintuplo di un quadrato*
 
-> Qual è il numero intero positivo più piccolo che è sia il doppio di un cubo perfetto che il quintuplico (cinque volte) di un quadrato perfetto?
+> Qual è il più piccolo intero positivo che sia contemporaneamente il doppio di un cubo perfetto e il quintuplo (cinque volte) di un quadrato perfetto?
 
-**Risposta:** 2000
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n1_f2#q05|src_obm_2000_n1_f2__Q05]]
 
 
 
@@ -198,8 +224,13 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Migliore n dando i rimanenti uguali per 154, 238, 334*
+*Il più grande n che dà resti uguali per 154, 238, 334*
 
-> Qual è il più grande intero positivo $n$ in modo che i rimanenti quando $154$, $238$ e $334$ sono entrambi divisi da $n$ siano tutti uguali?
+> Qual è il più grande intero positivo $n$ tale che i resti della divisione di $154$, $238$ e $334$ per $n$ siano tutti uguali?
 
-**Risposta:** 12
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n1_f2#q06|src_obm_2000_n1_f2__Q06]]

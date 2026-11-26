@@ -25,17 +25,22 @@ level: OBM Nível 1
 **Area:** [[Geometria]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova-2026-nivel_1.pdf#page=1)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo 48 × 15 diviso in 6 rettangoli di uguale area: perimetro di quello evidenziato.*
+*Rettangolo 48 × 15 suddiviso in 6 rettangoli di area uguale; perimetro di quello evidenziato.*
 
 ![[src_obm_2026_n1_fx__q01.png]]
 
-> Il rettangolo qui sotto è stato diviso in 6 rettangoli della stessa area. Qual è il perimetro, in cm, del rettangolo evidenziato? (Il rettangolo grande misura $48\text{ cm}\times15\text{ cm}$.)
+> Il rettangolo sottostante è stato diviso in 6 rettangoli aventi la stessa area. Qual è il perimetro del rettangolo evidenziato, in cm? (Il rettangolo grande misura $48\text{ cm}\times15\text{ cm}$.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2026_n1_fx#q01|src_obm_2026_n1_fx__Q01]]
 
 
 
@@ -58,21 +63,26 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova-2026-nivel_1.pdf#page=1)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri «impressionanti»: la somma delle cifre di 2026·n è n; il minimo e il massimo.*
+*Numeri "impressionanti": la somma delle cifre di 2026·n è uguale a n; il più piccolo e il più grande.*
 
-> Un intero positivo $n$ si dice *impressionante* se la somma delle cifre del prodotto $2026\cdot n$ è uguale a $n$. Per esempio, 26 è impressionante, perché $2026\cdot26=52676$ e la somma delle cifre di questo risultato è $5+2+6+7+6=26$.
+> Un numero intero positivo $n$ è detto *impressionante* quando la somma delle cifre del prodotto $2026\cdot n$ è uguale a $n$. Ad esempio, 26 è impressionante, poiché $2026\cdot26=52676$ e la somma delle cifre di questo risultato è $5+2+6+7+6=26$.
 >
-> (a) Qual è il **più piccolo** intero positivo impressionante?
+> (a) Qual è il **più piccolo** numero intero positivo impressionante?
 >
-> (b) Cerchiamo ora il più grande numero impressionante $n$. Con qualche calcolo si può dimostrare che $n$ è al massimo 54: in questa prova non è richiesto dimostrarlo. Si osservi che $2026\cdot54=109404$. Qual è la massima somma delle cifre di un numero minore o uguale a 109404?
+> (b) Ora cerchiamo il più grande numero impressionante $n$. Con qualche calcolo si può dimostrare che $n$ è al massimo 54; qui non è necessario dimostrarlo. Si noti che $2026\cdot54=109404$. Qual è la somma delle cifre più grande possibile per un numero minore o uguale a 109404?
 >
-> (c) Qual è il **più grande** intero positivo impressionante?
+> (c) Qual è il **più grande** numero intero positivo impressionante?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2026_n1_fx#q02|src_obm_2026_n1_fx__Q02]]
 
 
 
@@ -93,19 +103,24 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova-2026-nivel_1.pdf#page=1)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Torneo di calcio all'italiana con 2026 squadre, tutte con lo stesso punteggio P: partite con un vincitore e valori di P.*
+*Torneo di calcio a girone all'italiana con 2026 squadre, tutte con lo stesso punteggio P; partite decisive e intervallo di P.*
 
-> In un campionato di calcio con 2026 squadre, ogni squadra gioca esattamente una volta contro ciascuna delle altre. In ogni partita chi vince ottiene 3 punti e chi perde 0 punti; in caso di pareggio, ciascuna delle due squadre ottiene 1 punto. Alla fine del campionato tutte le squadre hanno lo stesso punteggio $P$.
+> In un campionato di calcio con 2026 squadre, ogni squadra affronta ciascuna delle altre esattamente una volta. In ogni partita, la vincitrice ottiene 3 punti e la sconfitta non ne ottiene alcuno; in caso di pareggio, ciascuna delle due squadre ottiene 1 punto. Al termine del campionato, tutte le squadre hanno concluso con lo stesso punteggio $P$.
 >
 > (a) Dimostrare che il numero di partite terminate con un vincitore è un multiplo di 2026.
 >
-> (b) Determinare i valori minimo e massimo di $P$. Ricordarsi di giustificare tali valori e di mostrare come potrebbero essere i risultati delle partite perché questi valori vengano raggiunti.
+> (b) Determina i valori minimo e massimo di $P$. Ricorda di giustificare tali valori e di mostrare come potrebbero essere i risultati delle partite affinché questi valori vengano raggiunti.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2026_n1_fx#q03|src_obm_2026_n1_fx__Q03]]
 
 
 
@@ -140,33 +155,38 @@ level: OBM Nível 1
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova-2026-nivel_1.pdf#page=2)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco solitario stile 2048 su una scacchiera 3 × 3: somma finale minima e massima.*
+*Gioco per un solo giocatore in stile 2048 su una scacchiera 3 × 3; somma finale minima e massima.*
 
 ![[src_obm_2026_n1_fx__q04.png]]
 
-> In questo problema studiamo un gioco per un solo giocatore. Si gioca su una scacchiera $3\times3$ inizialmente vuota e ogni turno è composto da due o tre fasi, tranne l'ultimo turno, che ne ha una sola. Prima dell'ultimo turno le prime due fasi avvengono sempre e la terza dipende dai numeri sulla scacchiera. Le fasi sono le seguenti.
+> In questo problema studiamo un gioco a un solo giocatore. Il gioco utilizza una scacchiera $3\times3$, inizialmente vuota, e ogni turno è composto da due o tre mosse, tranne l'ultimo turno, che prevede una sola mossa. Prima dell'ultimo turno, le prime due mosse avvengono sempre e la terza dipende dai numeri sulla scacchiera. Le mosse sono:
 >
-> - **Inserimento:** il giocatore sceglie una casella vuota e vi inserisce una tessera di valore 2.
+> - **Inserimento:** il giocatore sceglie una cella vuota della scacchiera e vi colloca una tessera di valore 2.
 >
-> - **Scorrimento:** il giocatore sceglie una direzione ($\uparrow,\downarrow,\leftarrow,\rightarrow$). Tutte le tessere scorrono contemporaneamente, il più possibile, in quella direzione.
+> - **Scorrimento:** il giocatore sceglie una direzione ($\uparrow,\downarrow,\leftarrow,\rightarrow$). Tutte le tessere scivolano simultaneamente, il più lontano possibile, in quella direzione.
 >
-> - **Fusione:** durante lo scorrimento, se due tessere con lo **stesso numero** si scontrano, si fondono in un'unica tessera di valore uguale alla somma delle due (la fusione ha priorità verso il bordo di destinazione). Una tessera nata da una fusione non può fondersi di nuovo nello stesso turno in cui è stata creata.
+> - **Unione:** durante lo scorrimento, se due tasselli con lo **stesso numero** si scontrano, si uniscono in un unico tassello il cui valore è la somma dei valori di entrambi (l'unione ha la priorità sul bordo di destinazione). Un tassello risultante da un'unione non può unirsi di nuovo nello stesso turno in cui è stato creato.
 >
-> Se l'inserimento riempie la nona casella e una o più direzioni producono ancora una fusione, il giocatore deve scegliere una di queste direzioni ed effettuare lo scorrimento. Altrimenti, se nessuna delle quattro direzioni produce una fusione, il gioco termina subito dopo questo inserimento e quello è il turno finale.
+> Se l'inserimento riempie la nona cella e una o più direzioni produrrebbero comunque una fusione, il giocatore deve scegliere una di quelle direzioni e scorrere. Altrimenti, se nessuna delle quattro direzioni produce una fusione, la partita termina subito dopo questo inserimento, e questo è il turno finale.
 >
-> **Notazione:** per registrare le mosse scriviamo $B(x,y)$, $C(x,y)$, $E(x,y)$ o $D(x,y)$, dove la lettera indica il verso dello scorrimento ($C$ = su, $B$ = giù, $E$ = sinistra, $D$ = destra, dal portoghese *Cima, Baixo, Esquerda, Direita*) e la coppia $(x,y)$ indica la posizione (riga, colonna) in cui è stata inserita la tessera 2. L'ultima mossa si indica con $I(x,y)$.
+> **Notazione:** per registrare le mosse, scriviamo $B(x,y)$, $C(x,y)$, $E(x,y)$ o $D(x,y)$, dove la lettera indica la direzione dello scorrimento ($C$ = su, $B$ = giù, $E$ = sinistra, $D$ = destra, dal portoghese *Cima, Baixo, Esquerda, Direita*) e la coppia $(x,y)$ indica la posizione (riga, colonna) in cui è stata inserita la tessera 2. L'ultima mossa è scritta $I(x,y)$.
 >
-> **Esempio:** se a un certo punto la scacchiera contiene cinque tessere come in figura e il giocatore fa la mossa $D(1,2)$ (inserisce 2 in riga 1, colonna 2 e poi fa scorrere verso destra) e poi, nell'ordine, $E(1,1)$ ed $E(1,3)$, si ottengono le scacchiere mostrate. Si osservi che dopo $D(1,2)$ nella riga 2 avviene un'unica fusione, tra i 2 delle caselle $(2,2)$ e $(2,3)$, per la priorità di fusione verso il bordo di destinazione, che in questo caso è il bordo destro.
+> **Esempio:** se in un certo momento la griglia presenta cinque tessere come mostrato di seguito e il giocatore gioca $D(1,2)$ (inserisce 2 nella riga 1, colonna 2 e poi scivola verso destra), e poi gioca $E(1,1)$ e $E(1,3)$ in questo ordine, si ottengono le griglie mostrate nella figura. Si noti che dopo $D(1,2)$ avviene una singola fusione nella riga 2, tra i 2 nelle celle $(2,2)$ e $(2,3)$, a causa della priorità di fusione sul bordo di destinazione, che in questo caso è il bordo destro.
 >
-> (a) Se l'obiettivo del giocatore è terminare il gioco riempiendo tutte le 9 caselle con la **minima** somma possibile di tutte le tessere, qual è questa somma? Mostrare una configurazione finale con questa somma e spiegare una sequenza di mosse che la produce.
+> (a) Se l'obiettivo del giocatore è concludere la partita con tutte e 9 le celle riempite e la somma **più piccola** possibile di tutte le tessere sulla scacchiera, qual è tale somma? Indica una configurazione finale con questa somma e spiega una sequenza di mosse che la produce.
 >
-> (b) Se l'obiettivo del giocatore è ottenere la **massima** somma possibile di tutte le tessere, qual è questa somma? Mostrare una configurazione finale con questa somma e giustificare la risposta.
+> (b) Se l'obiettivo del giocatore è ottenere la **somma più grande** possibile di tutte le tessere sulla scacchiera, qual è tale somma? Indica una configurazione finale con questa somma e giustifica la tua risposta.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2026_n1_fx#q04|src_obm_2026_n1_fx__Q04]]
 
 
 
@@ -191,20 +211,25 @@ level: OBM Nível 1
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova-2026-nivel_1.pdf#page=2)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Operazione alla lavagna che sostituisce a (pari) e b con a/2 + b: numeri finali ottenibili.*
+*Operazione sulla lavagna che sostituisce persino a e b con a/2 + b; numeri finali raggiungibili.*
 
-> A Pedro piace inventare operazioni sui numeri interi scritti alla lavagna. La sua ultima invenzione è la seguente operazione: scegliere due numeri $a$ e $b$ (che possono essere uguali, ma in posizioni diverse della lavagna), con $a$ pari, cancellarli e scrivere il numero $\frac a2+b$. Per esempio, se alla lavagna ci sono 6, 6 e 31, possiamo prendere $a=6$ e $b=6$ e scrivere $\frac62+6=9$. Poiché restano 9 e 31, entrambi dispari, non si possono fare altre operazioni. Potremmo invece prendere prima $a=6$ e $b=31$ e ottenere $\frac62+31=34$. Ora abbiamo 6 e 34 e possiamo prendere $a=6$ e $b=34$ per ottenere $\frac62+34=37$: alla lavagna resterebbe solo il numero 37.
+> A Pedro piace inventare operazioni sugli interi scritti sulla lavagna. La sua ultima invenzione è la seguente operazione: si scelgono due numeri $a$ e $b$ (che possono essere uguali, ma in posizioni diverse sulla lavagna), con $a$ pari; si cancellano e si scrive il numero $\frac a2+b$. Ad esempio, se sulla lavagna compaiono 6, 6 e 31, possiamo prendere $a=6$ e $b=6$ e scrivere $\frac62+6=9$. Poiché ci restano 9 e 31, entrambi dispari, non sono più possibili altre operazioni. D'altra parte, potremmo prima prendere $a=6$ e $b=31$ e ottenere $\frac62+31=34$. Ora abbiamo 6 e 34, e possiamo prendere $a=6$ e $b=34$ per ottenere $\frac62+34=37$. Sulla lavagna rimarrebbe solo il numero 37.
 >
-> (a) Supponiamo che Pedro parta dai 101 numeri $1, 2, 3, \dots, 100$ e 204 scritti alla lavagna e faccia l'operazione finché resta un solo numero. Dimostrare che questo numero **non** può essere né 1 né 2.
+> (a) Supponiamo che Pedro parta con i numeri 101 $1, 2, 3, \dots, 100$ e 204 sulla lavagna e esegua l'operazione finché non rimane un solo numero. Dimostrare che questo numero **non può essere** né 1 né 2.
 >
-> (b) Di nuovo, supponiamo che Pedro parta dai 101 numeri $1, 2, 3, \dots, 100$ e 204. Dimostrare che esiste una sequenza di operazioni che lascia alla lavagna soltanto il numero 4.
+> (b) Supponiamo di nuovo che Pedro parta con i 101 numeri $1, 2, 3, \dots, 100$ e 204. Dimostrare che esiste una sequenza di operazioni che lascia sulla lavagna solo il numero 4.
 >
-> (c) Supponiamo che Pedro parta dai 100 numeri $1, 2, 3, \dots, 99, 100$. Dimostrare che Pedro può fare l'operazione alcune volte fino a lasciare alla lavagna un solo numero $N$.
+> (c) Supponiamo che Pedro parta con i 100 numeri $1, 2, 3, \dots, 99, 100$. Dimostrare che Pedro può eseguire l'operazione più volte finché sulla lavagna non rimane un unico numero $N$.
 >
-> (d) Nelle condizioni del punto precedente, qual è il minimo valore possibile del numero finale $N$?
+> (d) Nelle condizioni del punto precedente, qual è il valore minimo possibile di questo numero finale $N$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2026_n1_fx#q05|src_obm_2026_n1_fx__Q05]]

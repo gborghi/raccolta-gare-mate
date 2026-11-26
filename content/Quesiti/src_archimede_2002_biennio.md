@@ -37,9 +37,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Km per wheel with spare wheel rotation*
+*Km per wheel with spare-wheel rotation*
 
-> An eye-catching spider, on its 900-kilometer journey, also uses the spare wheel so that in the end all three wheels suffer the same wear. How many miles will each wheel have traveled at the end of the journey?
+> A careful Vespa driver, on a 900 km trip, also uses the spare wheel so that at the end the three wheels suffer the same wear. How many km will each wheel have travelled by the end of the trip?
 >
 > - **(A)** 300
 > - **(B)** 450
@@ -47,7 +47,10 @@ level: biennio
 > - **(D)** 600
 > - **(E)** 750.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2002_biennio#q01|src_archimede_2002_biennio__Q01]]
 
 
 
@@ -78,17 +81,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squared sum ratio figures reversed on sum*
+*Square of the reversed-digit sum over the digit sum*
 
-> A two-digit number is added to the number obtained by inverting its digits. Divide the sum by the sum of the digits of the given number and square the result. What number do you get?
+> A two-digit number is added to the number obtained by reversing its digits. The sum obtained is then divided by the sum of the digits of the given number, and the result is squared. What number is obtained?
 >
 > - **(A)** 36
 > - **(B)** 49
 > - **(C)** 100
 > - **(D)** 121
-> - **(E)** It depends on the numbers of the number given.
+> - **(E)** it depends on the digits of the given number.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2002_biennio#q02|src_archimede_2002_biennio__Q02]]
 
 
 
@@ -120,15 +126,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum calendar sheets for the third millennium
+*Minimum calendar sheets for the third millennium*
 
-> Maximo wants to save on calendars. Then he printed a lot of paper with the number of days and next to each number on the day of the week. Each month, Maximo chooses the appropriate sheet and places a label (removable) with the month's name on it. How many sheets must he have printed at least if he wants the calendar to be used for the entire third millennium?
+> Massimo wants to save on calendars. So on his computer he printed many sheets with the numbers of the days and, next to each number, the day of the week. For each month, Massimo chooses the suitable sheet and places a (removable) label with the name of the month on top of it. How many sheets must he have printed at minimum, if he wants the calendar to be usable for all of the third millennium?
 >
 > - **(A)** 12
 > - **(B)** 24
 > - **(C)** 28
 > - **(D)** 30
 > - **(E)** 32.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_biennio#q03|src_archimede_2002_biennio__Q03]]
 
 
 
@@ -174,30 +185,20 @@ Minimum calendar sheets for the third millennium
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter report is shown in arcs on square perimeter*
+*Ratio of the arc figure's perimeter to the square's perimeter*
 
-![[src_archimede_2002_biennio__prob4.png]]
-
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \fill[gray!60] (2,0) arc (0:90:2) arc (270:360:2) arc (180:270:2) arc (90:180:2) -- cycle;
-  \draw[thick] (0,0) rectangle (4,4);
-  \draw[thick] (2,0) arc (0:90:2);
-  \draw[thick] (4,2) arc (90:180:2);
-  \draw[thick] (2,4) arc (180:270:2);
-  \draw[thick] (0,2) arc (270:360:2);
-\end{tikzpicture}
-\end{document}
-```
-
-> In the side-square, the arcs are all quarter circles and have, two by two, the extremes in common. The ratio of the perimeter of the grey figure to the perimeter of the square
+> In the square in the figure, the arcs are all quarter-circles and, in pairs, share their endpoints. The ratio of the perimeter of the grey figure to the perimeter of the square
 >
-> - **(A)** è 1 4
-> - **(B)** è 1 π
-> - **(C)** è π 4
-> - **(D)** è 1 2
-> - **(E)** cannot be determined by the information given.
+> - **(A)** is 1 4
+> - **(B)** is 1 π
+> - **(C)** is π 4
+> - **(D)** is 1 2
+> - **(E)** cannot be determined from the information given.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_biennio#q04|src_archimede_2002_biennio__Q04]]
 
 
 
@@ -228,15 +229,20 @@ Minimum calendar sheets for the third millennium
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diameter of second wheel data rounds per minute*
+*Diameter of the second wheel given the revolutions per minute*
 
-> A wheel with a diameter of 5 cm is connected to another wheel by a transmission strap. The first wheel at 1000 rpm. What diameter will the second wheel have to have to rotate at 200 rounds per minute?
+> A wheel of diameter 5 cm is connected to another wheel by a drive belt. The first wheel turns at 1000 revolutions per minute. What diameter must the second wheel have in order to rotate at 200 revolutions per minute?
 >
 > - **(A)** 20 cm
 > - **(B)** 25 cm
 > - **(C)** 27 cm
 > - **(D)** 50 cm
-> - **(E)** depends on the distance between the wheels.
+> - **(E)** it depends on the distance between the axles of the wheels.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2002_biennio#q05|src_archimede_2002_biennio__Q05]]
 
 
 
@@ -270,17 +276,20 @@ Minimum calendar sheets for the third millennium
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of cubic surface shaded by arcs*
+*Fraction of the shaded surface of a cube from arcs*
 
-![[src_archimede_2002_biennio__prob6.png]]
-
-> From a vertex A of a cube, circle arcs with a center in A and a radius equal to the side of the cube are drawn on each of the three faces having a vertex in A. What is the fraction of the surface of the shaded cube?
+> From a vertex A of a cube, arcs of a circle are drawn with centre A and radius equal to the side of the cube on each of the three faces having a vertex in A. What is the fraction of the surface of the cube that is shaded?
 >
 > - **(A)** 1 4
 > - **(B)** 3 8
 > - **(C)** π 8
 > - **(D)** π 6
-> - **(E)** Depends on the side of the cube. b A
+> - **(E)** depends on the side of the cube. b A
+
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_biennio#q06|src_archimede_2002_biennio__Q06]]
 
 
 
@@ -310,15 +319,20 @@ Minimum calendar sheets for the third millennium
 <div class="qlang-split" data-lang="en"></div>
 
 
-*equivalent logic form on teachers and luxury cars*
+*Equivalent logical form about teachers and luxury cars*
 
-> Which of the following is equivalent to the statement that only teachers with a wealthy spouse own a luxury car?
+> Which of the following expressions is equivalent to the statement "Among all teachers, only those with a rich spouse own a luxury car"?
 >
-> - **(A)** If a person owns a luxury car, then he or she is a teacher or has a wealthy spouse.
-> - **(B)** If a person is a teacher and has a wealthy spouse, then he owns a luxury car.
-> - **(C)** If a person is a teacher and owns a luxury car, then he has a wealthy spouse.
-> - **(D)** If a person has a luxury car, then he is a teacher and he has a rich spouse.
-> - **(E)** If a person has a rich spouse, then he is a teacher and owns a luxury car.
+> - **(A)** if a person owns a luxury car, then they are a teacher or have a rich spouse
+> - **(B)** if a person is a teacher and has a rich spouse, then they own a luxury car
+> - **(C)** if a person is a teacher and owns a luxury car, then they have a rich spouse
+> - **(D)** if a person has a luxury car, then they are a teacher and have a rich spouse
+> - **(E)** if a person has a rich spouse, then they are a teacher and own a luxury car
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2002_biennio#q07|src_archimede_2002_biennio__Q07]]
 
 
 
@@ -350,15 +364,20 @@ Minimum calendar sheets for the third millennium
 <div class="qlang-split" data-lang="en"></div>
 
 
-After how many Sundays the three friends run together
+*Number of Sundays until the three friends run together again*
 
-> Three friends regularly go to the park to run: the first every 10 days, the second every 15 days, and the third every 14 days. One Sunday, they're running together. After how many Sundays will they be at the park for the first time running together?
+> Three friends regularly go to the park to run: the first every 10 days, the second every 15 and the third every 14 days. One Sunday they happen to be running together. After how many Sundays will they meet at the park to run together again for the first time?
 >
 > - **(A)** 22
 > - **(B)** 25
 > - **(C)** 30
 > - **(D)** 70
-> - **(E)** I never did.
+> - **(E)** never.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_biennio#q08|src_archimede_2002_biennio__Q08]]
 
 
 
@@ -388,15 +407,20 @@ After how many Sundays the three friends run together
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of player expelled given average change*
+*Age of the sent-off player given the change in the average*
 
-> There are 11 players on a football team. The average age is 22. During a match a player is expelled; the average age of the remaining players then becomes 21 years. How old is the player who got kicked out?
+> In a football team there are 11 players. The average age is 22 years. During a match a player is sent off; the average age of the remaining players then becomes 21 years. How old is the player who was sent off?
 >
 > - **(A)** 22 years
-> - **(B)** 23 years old
+> - **(B)** 23 years
 > - **(C)** 28 years
 > - **(D)** 32 years
-> - **(E)** Thirty-three years.
+> - **(E)** 33 years.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2002_biennio#q09|src_archimede_2002_biennio__Q09]]
 
 
 
@@ -429,15 +453,21 @@ After how many Sundays the three friends run together
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of handshakes excluding compatriots*
+*Number of handshakes excluding fellow countrymen*
 
-> An international competition involves 600 young people from 100 different nations, with six coming from each nation. The day before the race a refreshment is organized in a huge hall where all the competitors participate. Each one makes the acquaintance of all the others (except his countrymen whom he already knows) by shaking their hand. How many handshakes?
+> At an international competition, 600 boys from 100 different nations take part, with 6 boys from each nation. The day before the race, a refreshment is organised in a huge hall attended by all the competitors. Each person makes the acquaintance of everyone else (except their fellow countrymen, whom they already know) by shaking their hand. How many handshakes are there?
 >
 > - **(A)** 89100
 > - **(B)** 178200
 > - **(C)** 179700
 > - **(D)** 356400
 > - **(E)** 360000.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_biennio#q10|src_archimede_2002_biennio__Q10]]
 
 
 
@@ -471,17 +501,20 @@ After how many Sundays the three friends run together
 <div class="qlang-split" data-lang="en"></div>
 
 
-*QOR angle by trisection of additional angles*
+*Angle QOR from the trisection of supplementary angles*
 
-![[src_archimede_2002_biennio__prob11.png]]
-
-> An angle $\widehat{AOB}$ is trisected by the semicircular OP, OQ; also the angle $\widehat{BOC}$ (supplementary to $\widehat{AOB}$) is trisected by the semicircular OR, OS. What is the value of the $\widehat{QOR}$ angle?
+> An angle $\widehat{AOB}$ is trisected by the rays OP, OQ; the angle $\widehat{BOC}$ (supplementary to $\widehat{AOB}$) is also trisected by the rays OR, OS. What is the measure of the angle $\widehat{QOR}$?
 >
 > - **(A)** 45°
 > - **(B)** 60°
 > - **(C)** 90°
-> - **(D)** depends on the angle $\widehat{AOB}$
-> - **(E)** You can't build it.
+> - **(D)** it depends on the angle $\widehat{AOB}$
+> - **(E)** the construction cannot be carried out.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_biennio#q11|src_archimede_2002_biennio__Q11]]
 
 
 
@@ -513,15 +546,20 @@ After how many Sundays the three friends run together
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What are the statements on 3^10 odd cubic squares*
+*Which statements about 3^10 as a cube, odd, and a square*
 
-> Among the following statements: (i) 310 is a cube; (ii) 310 is odd; (iii) 310 is a square; what are the correct ones?
+> Of the following statements: (i) 310 is a cube; (ii) 310 is odd; (iii) 310 is a square; which are correct?
 >
-> - **(A)** Only (i)
+> - **(A)** only (i)
 > - **(B)** only (ii)
 > - **(C)** only (iii)
 > - **(D)** (ii) and (iii)
-> - **(E)** All three of them.
+> - **(E)** all three.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2002_biennio#q12|src_archimede_2002_biennio__Q12]]
 
 
 
@@ -550,15 +588,20 @@ After how many Sundays the three friends run together
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Water level after cubic immersion in the tank*
+*Water level after a cube is immersed in the tank*
 
-> In a parallel-piped tub with a 40 cm square side base, water is injected until a level of 30 cm is reached. Then a cube full of 20 centimeters is completely immersed in the tank. What's the water level now?
+> Water is poured into a tank in the shape of a parallelepiped with a square base of side 40 cm until it reaches a level of 30 cm. A solid cube of side 20 cm is then completely immersed in the tank. What is the water level now?
 >
 > - **(A)** 32 cm
-> - **(B)** 32,5 cm
+> - **(B)** 32.5 cm
 > - **(C)** 35 cm
 > - **(D)** 40 cm
 > - **(E)** 50 cm.
+
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2002_biennio#q13|src_archimede_2002_biennio__Q13]]
 
 
 
@@ -588,15 +631,21 @@ After how many Sundays the three friends run together
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum amount not payable with coins of 3 and 11*
+*Largest amount that cannot be paid with coins of 3 and 11*
 
-> LOrue is a currency that has only two coins, 3 and 11. What is the maximum amount that cannot be paid exactly?
+> Orue is a currency that has only two coins, of 3 and of 11 cents. What is the largest amount that cannot be paid exactly?
 >
 > - **(A)** 16 cents
 > - **(B)** 19 cents
 > - **(C)** 20 cents
 > - **(D)** 32 cents
-> - **(E)** There are arbitrarily large figures that are not exactly payable.
+> - **(E)** there exist arbitrarily large amounts that cannot be paid exactly.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_biennio#q14|src_archimede_2002_biennio__Q14]]
 
 
 
@@ -627,15 +676,21 @@ After how many Sundays the three friends run together
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Regions where elongated faces divide space*
+*Regions into which the extended faces divide space*
 
-> If we extend all the faces of a cube, how many regions are all the space divided into (including the inside of the cube)?
+> Imagine extending all the faces of a cube: into how many regions is all space (including the interior of the cube) divided?
 >
 > - **(A)** 9
 > - **(B)** 16
 > - **(C)** 24
 > - **(D)** 27
 > - **(E)** 32.
+
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_biennio#q15|src_archimede_2002_biennio__Q15]]
 
 
 
@@ -666,17 +721,20 @@ After how many Sundays the three friends run together
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Comparison of three-line drawn areas*
+*Comparison of the shaded areas cut by three lines*
 
-![[src_archimede_2002_biennio__prob16.png]]
-
-> The three lines drawn divide the whole figure into two equal parts. Areas A and B shall be considered. Which of the following statements is true?
+> The three lines drawn each divide the whole figure into two parts of equal area. Consider the shaded areas A and B. Which of the following statements is true?
 >
 > - **(A)** area(A) > area(B)
 > - **(B)** area(A) = area(B)
 > - **(C)** area(A) < area(B)
-> - **(D)** The figure is impossible.
-> - **(E)** There is no conclusion to be drawn. A B
+> - **(D)** the figure is impossible
+> - **(E)** no conclusion can be drawn. A B
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_biennio#q16|src_archimede_2002_biennio__Q16]]
 
 
 
@@ -707,15 +765,21 @@ After how many Sundays the three friends run together
 <div class="qlang-split" data-lang="en"></div>
 
 
-Ways to balance 16 g with weights of 1, 3, 9*
+*Ways to balance 16 g with weights of 1, 3 and 9*
 
-> Alberto has a large number of 1, 3 and 9 gram weights. If you want to use them to balance a 16-gram chain by placing them only on one of the two plates of an equal-armed scale, how many different ways can you choose the weights?
+> Alberto has an unlimited supply of weights of 1, 3 and 9 grams. Wanting to use them to balance a chain of 16 grams by placing them only on one of the two pans of a balance with equal arms, in how many different ways can he choose the weights?
 >
 > - **(A)** 1
 > - **(B)** 3
 > - **(C)** 7
 > - **(D)** 9
 > - **(E)** 16.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_biennio#q17|src_archimede_2002_biennio__Q17]]
 
 
 
@@ -748,15 +812,21 @@ Ways to balance 16 g with weights of 1, 3, 9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dangerous ladder that blocks the jumping kangaroo*
+*The loose step that stops the jumping kangaroo*
 
-> A kangaroo climbs a 500-step ladder like this: first jumps on the3° ladder, then backwards by 1, then backwards by 5, backwards by 3, forward by 7, down by 5, and so on. Unfortunately, a ladder is dangerous and if the kangaroo jumped over it, it would fall to the ground. The kangaroo will climb to the top if the dangerous ladder is:
+> A kangaroo climbs a staircase of 500 steps as follows: first it jumps onto the 3rd step, then back by 1, then up by 5, back by 3, forward by 7, down by 5, and so on. Unfortunately one step is loose, and if the kangaroo were to land on it, it would fall to the ground. The kangaroo will manage to reach the top if the loose step is:
 >
-> - **(A)** il 200°
-> - **(B)** il 201°
-> - **(C)** il 202°
-> - **(D)** il 203°
-> - **(E)** The kangaroo will fall anyway.
+> - **(A)** the 200th
+> - **(B)** the 201st
+> - **(C)** the 202nd
+> - **(D)** the 203rd
+> - **(E)** the kangaroo will fall anyway.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2002_biennio#q18|src_archimede_2002_biennio__Q18]]
 
 
 
@@ -787,17 +857,20 @@ Ways to balance 16 g with weights of 1, 3, 9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many developments are closed in closed boxes*
+*How many of the nets drawn below can be folded into closed boxes*
 
-![[src_archimede_2002_biennio__prob19.png]]
-
-> How many of the developments outlined below can be closed (by bending along the marked lines) to obtain closed boxes?
+> How many of the nets drawn below can be folded (by bending along the marked lines) so as to obtain closed boxes?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
 > - **(E)** 5.
+
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_biennio#q19|src_archimede_2002_biennio__Q19]]
 
 
 
@@ -828,12 +901,18 @@ Ways to balance 16 g with weights of 1, 3, 9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight excluded by balance with five of the six weights*
+*Weight left out so that five of the six balance*
 
-> Six weights of 2, 3, 5, 7, 9, 10 hectograms are available. Five of these are placed on the two plates of a scale so that it is in balance. What's the excluded weight?
+> Six weights of 2, 3, 5, 7, 9 and 10 hectograms are available. Five of them are placed on the two pans of a balance so that it is in equilibrium. Which weight is left out?
 >
 > - **(A)** 2
 > - **(B)** 3
 > - **(C)** 5
 > - **(D)** 10
-> - **(E)** It's impossible to determine.
+> - **(E)** it cannot be determined.
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2002_biennio#q20|src_archimede_2002_biennio__Q20]]

@@ -39,11 +39,17 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Root value of 4^201 - 2^401 - 2^400*
+*Value of the root of 4^201 - 2^401 - 2^400*
 
-> The expression √ 4201 −2401 −2400 is: A 2200 B 220 C 2100 D 4200 E 4101 F None of the other answers is accurate
+> The expression
+> √ 4201 −2401 −2400 equals: A 2200 B 220 C 2100 D 4200 E 4101 F None of the other answers is correct
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2018#q01|src_garaprime_2018__Q01]]
 
 
 
@@ -77,9 +83,14 @@ level: Classi Prime
 
 *Maximum number of Martian words up to 5 letters*
 
-> The Martian alphabet consists of only 3 letters and the words are up to 5 letters long (which can also be all the same). How many Martian words are there at most? A 363 B 125 C 150 D 151 E 315 F 381
+> The Martian alphabet consists of only 3 letters, and words are at most 5 letters long (the letters can even all be the same). What is the maximum number of words the Martians can have? A 363 B 125 C 150 D 151 E 315 F 381
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2018#q02|src_garaprime_2018__Q02]]
 
 
 
@@ -112,11 +123,16 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-Degree of (p(x))^2 - p(x^2)*
+*Degree of (p(x))^2 - p(x^2)*
 
-> It is given a polynomial p(x) of the type: p(x) = x10 + x9 + lower-grade terms. What is the degree of (p(x))2 −p(x2)? A 19 B 20 C 18 D 40 E cannot be determined without knowing even the lower degree terms F None of the other answers is accurate
+> A polynomial p(x) is given of the form: p(x) = x^10 + x^9 + lower-degree terms. What is the degree of (p(x))^2 − p(x^2)? A 19 B 20 C 18 D 40 E cannot be determined without also knowing the lower-degree terms F none of the other answers is correct
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2018#q03|src_garaprime_2018__Q03]]
 
 
 
@@ -149,11 +165,15 @@ Degree of (p(x))^2 - p(x^2)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*T0 area from iterated median triangles up to T6*
+*Area of T0 from iterated medians triangles up to T6*
 
-> Starting from a T0 triangle, I build the T1 triangle that has the midpoints of the sides of T0 as vertices. So I'm building T2 from T1. I kept going the same way until I got to T6. If T6 has an area of 1 cm2 and we indicate with s the area of T0 expressed in cm2, then: A 1000 < s ≤5000 B s ≤40 C 40 < s ≤200 D 200 < s ≤1000 E s > 5000 F cannot be determined solely by the data provided, as it depends on the shape of the triangle
+> Starting from a triangle T0, I construct triangle T1 whose vertices are the midpoints of the sides of T0. In the same way, I construct T2 from T1. I continue in the same manner until I reach T6. If T6 has an area of 1 cm² and we denote by s the area of T0 expressed in cm², then: A 1000 < s ≤5000 B s ≤40 C 40 < s ≤200 D 200 < s ≤1000 E s > 5000 F cannot be uniquely determined from the data provided alone, since it depends on the shape of the triangle
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2018#q04|src_garaprime_2018__Q04]]
 
 
 
@@ -186,11 +206,16 @@ Degree of (p(x))^2 - p(x^2)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordinate roots of 8, cubic roots of 26 and 2.9*
+*Order the square root of 8, the cube root of 26, and 2.9*
 
-> Given the 3 numbers a = √ 8, b = 3 √ 26 and c = 2, 9 then we have: A a < c < b B a < b < c C b < a < c D b < c < a E c < a < b F c < b < a
+> Given the 3 numbers a =
+> √ 8, b = 3√ 26 and c = 2.9, then we have: A a < c < b B a < b < c C b < a < c D b < c < a E c < a < b F c < b < a
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2018#q05|src_garaprime_2018__Q05]]
 
 
 
@@ -222,11 +247,16 @@ Degree of (p(x))^2 - p(x^2)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Data when the patients were 100000 with exponential growth*
+*Date on which there were 100,000 patients, with exponential growth*
 
-> On the island of Kenonce, an influenza epidemic is spreading rapidly: every 24 days the number of sick people is doubling. If on February 6, 2018, there were 200,000 patients, on what date were 100,000? 29 January B 31 January C 2 February D 25 January E 27 January F 17 January
+> On Kenoncè Island, an influenza epidemic is spreading rapidly: every 24 days, the number of sick people multiplies by eight. If on February 6, 2018, there were 200,000 sick people, on what date were there 100,000? A January 29 B January 31 C February 2 D January 25 E January 27 F January 17
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2018#q06|src_garaprime_2018__Q06]]
 
 
 
@@ -263,11 +293,16 @@ Degree of (p(x))^2 - p(x^2)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of pupils given an increase of 8% per capita*
+*Number of pupils given an 8% per capita increase*
 
-> For the school trip, class 2aD rents a bus. The total price of the bus is fixed and does not depend on the number of participants. The kids decide to divide the expenses equally among all the students in the class. However, at the time of joining, two young people retire and this raises the price per capita by 8%, compared to what it would have been if they had all gone. How many are there in all of the 2nd graders? A 27 B 26 C 25 D more than 27 E less than 24 F 24
+> For the school trip, Class 2D rents a bus. The total cost of the bus is fixed and does not depend on the number of participants. The students decide to split the cost equally among all the pupils in the class. However, when it comes to confirming attendance, two students withdraw, and this increases the per-person cost by 8% compared with what it would have been if everyone had gone. How many pupils are there in total in Class 2D? A 27 B 26 C 25 D more than 27 E fewer than 24 F 24
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2018#q07|src_garaprime_2018__Q07]]
 
 
 
@@ -299,11 +334,16 @@ Degree of (p(x))^2 - p(x^2)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grade 6 term in the product of two polynomials*
+*Term of degree 6 in the product of two polynomials*
 
-> They are p(x) = x20+x19+. . .+x2+x+1 e q(x) = x10+x9+. . .+x2+x+1. What is the term of degree 6 of p(x) · q(x) after adding together all similar terms? A 7x6 B 2x6 C 36x6 D 3x6 E 49x6 F 37x6
+> Let p(x) = x^20 + x^19 + ... + x^2 + x + 1 and q(x) = x^10 + x^9 + ... + x^2 + x + 1. What is the term of degree 6 in p(x) · q(x) after combining all like terms? A 7x^6 B 2x^6 C 36x^6 D 3x^6 E 49x^6 F 37x^6
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2018#q08|src_garaprime_2018__Q08]]
 
 
 
@@ -362,7 +402,7 @@ Degree of (p(x))^2 - p(x^2)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the smallest part by cutting rectangle*
+*Area of the smaller part when the rectangle is cut*
 
 ![[src_garaprime_2018__prob9.png]]
 
@@ -391,9 +431,13 @@ Degree of (p(x))^2 - p(x^2)*
 \end{document}
 ```
 
-> A straight cut an R rectangle into two rectangular parts of area 40 and 60. By further cutting R along its diagonal we get a total of 4 parts. What is the area of the smallest part? A 8 B 10 C 12 D 4 E 20 F the data are insufficient because the answer depends on the shape of the rectangle
+> A straight line divides rectangle R into 2 rectangular parts with areas 40 and 60. Cutting R further along one of its diagonals yields a total of 4 parts. What is the area of the smallest part? A 8 B 10 C 12 D 4 E 20 F The data are insufficient because the answer depends on the shape of the rectangle.
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2018#q09|src_garaprime_2018__Q09]]
 
 
 
@@ -424,11 +468,16 @@ Degree of (p(x))^2 - p(x^2)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of coefficients of p(x) from polynomial product*
+*Sum of the coefficients of p(x) from a polynomial product*
 
-> From the polynomial p(x) we know that (x6 −3x −1) · p(x) = x17 −x11 −6x7 −4x6 −9x2 + 1. What is the sum of the coefficients of p(x)? A 6 B −6 C 3 D −3 E 2 F −2
+> Of the polynomial p(x), we know that
+> (x6 −3x −1) · p(x) = x17 −x11 −6x7 −4x6 −9x2 + 1. What is the sum of the coefficients of p(x)? A 6 B −6 C 3 D −3 E 2 F −2
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_garaprime_2018#q10|src_garaprime_2018__Q10]]
 
 
 
@@ -461,11 +510,16 @@ Degree of (p(x))^2 - p(x^2)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Switches of 1.10 with a sum equal to odd*
+*Permutations of 1..10 with even sum equal to odd*
 
-> Out of all the possible lists of 10 numbers that I can get by writing, in any order, all the numbers from 1 to 10, how many are the ones where the sum of the numbers that occupy the equal positions is equal to the sum of the numbers that occupy the odd positions? A 0 B 10 C 2 D 28800 E 120 F 14400
+> Among all possible lists of 10 numbers that I can obtain by writing all the numbers from 1 to 10 in any order, how many of these lists are there in which the sum of the numbers in the even positions equals the sum of the numbers in the odd positions? A 0 B 10 C 2 D 28800 E 120 F 14400
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2018#q11|src_garaprime_2018__Q11]]
 
 
 
@@ -497,13 +551,17 @@ Degree of (p(x))^2 - p(x^2)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diameter of tangent circumference in a square*
+*Diameter of the tangent circle in a square*
 
 ![[src_garaprime_2018__prob12.png]]
 
-> Given an ABCD square of area 1600, the passing circumference for points C and D and tangent to the side AB shall be considered. What's its diameter? A 50 B 48 C 44 D 49 E 42 F 60
+> Given a square ABCD with area 1600, consider the circle that passes through points C and D and is tangent to side AB. What is its diameter? A 50 B 48 C 44 D 49 E 42 F 60
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2018#q12|src_garaprime_2018__Q12]]
 
 
 
@@ -533,11 +591,16 @@ Degree of (p(x))^2 - p(x^2)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*999^9 dividers which are perfect squares or cubes*
+*Divisors of 999^9 that are perfect squares or perfect cubes*
 
 > How many positive divisors of 999 are perfect squares or perfect cubes? A 70 B 55 C 90 D 99 E 36 F 120
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2018#q13|src_garaprime_2018__Q13]]
 
 
 
@@ -577,9 +640,14 @@ Degree of (p(x))^2 - p(x^2)*
 
 ![[src_garaprime_2018__prob14.png]]
 
-> A small planet has the shape of a regular octahedron with a side of 720 kilometers. The only inhabitant of the planet is in the middle of one of the spines and wants to go to the middle of the spine diametrically opposite to the one on which he is walking on the surface of the planet. What's the minimum number of miles he has to travel? A 1080 B 1440 C 900 D 720 E 960 F 1200
+> A small planet is shaped like a regular octahedron with an edge length of 720 kilometers. The planet's only inhabitant is located at the midpoint of one of the edges and wants to get to the midpoint of the edge diametrically opposite the one on which they are located by walking on the planet's surface. What is the minimum number of kilometers they must travel? A 1080 B 1440 C 900 D 720 E 960 F 1200
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2018#q14|src_garaprime_2018__Q14]]
 
 
 
@@ -616,11 +684,16 @@ Degree of (p(x))^2 - p(x^2)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Game of the Chocolate Table, winning move*
+*Chocolate Bar Game, Winning Move*
 
-> Luca and Claudia have to share a rectangular chocolate table made up of seven rows of 12 squares each. In turn each of the two breaks what is left of the table into two parts, with a horizontal or vertical cut that leaves each individual square intact, eats one of the two parts and returns the other to the opponent. He who receives from the opponent a piece of a single square loses. If Claudia starts, how many squares does she have to eat on the first move to be sure that, whatever Luca says, she will win? And whatever Claudia does, it's going to be Luke winning.
+> Luca and Claudia must share a rectangular chocolate bar consisting of 7 rows of 12 large squares each. Taking turns, each of the two breaks what remains of the bar into two pieces with a horizontal or vertical cut that leaves each individual square intact; one eats one of the two pieces and gives the other back to the opponent. The one who receives from the opponent a piece consisting of a single square loses. If Claudia goes first, how many squares must she eat on her first move to be certain that, whatever Luca does in response, she will be the one to win? A 35 B 63 C 42 D 48 E Whatever Claudia does, Luca will win F Claudia can win in several ways by eating different numbers of squares
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_garaprime_2018#q15|src_garaprime_2018__Q15]]
 
 
 
@@ -657,13 +730,17 @@ Degree of (p(x))^2 - p(x^2)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum worm path length to halve the apple*
+*Maximum worm-path length to halve the apple*
 
 ![[src_garaprime_2018__prob16.png]]
 
-> A small worm enters a large spherical apple with a radius of 10 cm and leaves after having traveled within it a path (not necessarily straight) of length d. Find the maximum lattice length that, whatever the shape of the worm's path, if d < s still manage to cut the apple (with a flat cut) into two equal parts, one of which is completely healthy. A ℓ= 20 cm B ℓ= 10 cm C ℓ= 10π cm D ℓ= 5π cm E ℓ= 10π 3 cm F ℓ= 20π 3 cm
+> A small worm enters a large spherical apple with a radius of 10 cm and exits after traversing an (not necessarily straight) path of length d inside the apple. Find the maximum length ℓ such that, regardless of the shape of the worm's path, if d < ℓ, it is still possible to cut the apple (with a planar cut) into two equal parts, one of which is completely intact. A ℓ = 20 cm B ℓ = 10 cm C ℓ = 10π cm D ℓ = 5π cm E ℓ = 10π/3 cm F ℓ = 20π/3 cm
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2018#q16|src_garaprime_2018__Q16]]
 
 
 
@@ -695,11 +772,16 @@ Degree of (p(x))^2 - p(x^2)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining part 6 of the 2018 serial number..1*
+*Remainder when the concatenated number 2018..1 is divided by 6*
 
-> Consider the number 201820172016 . . . 10987654321 obtained by disposing of all integers from 2018 to 1 next to each other, in descending order. What's the remainder you get by dividing that number by 6? A 3 B 0 C 1 D 2 E 4 F 5
+> Consider the number 201820172016...10987654321 obtained by placing all the integers from 2018 down to 1 side by side in descending order. What remainder is obtained when this number is divided by 6? A 3 B 0 C 1 D 2 E 4 F 5
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_garaprime_2018#q17|src_garaprime_2018__Q17]]
 
 
 
@@ -741,12 +823,17 @@ Degree of (p(x))^2 - p(x^2)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum area by dividing a square by 6 squares*
+*Maximum area when a square is divided into 6 squares*
 
 ![[src_garaprime_2018__prob18.png]]
 
-> A square cardboard area of 36 cm2 is cut into 6 pieces with scissors. We know that each of the six pieces is shaped like a square. What is the maximum area of the piece in cm2? A 16 B 12 C 18 D 31 E is impossible for all 6 pieces to be squares F the information is insufficient because there are more ways to divide the allocated square into 6 squares 1
-> 
-> Solutions Below you will find the solutions in written form. Some of the solutions in the form of videos will later be published on the YouTube channel: problemisolti.it
+> A square piece of cardboard with an area of 36 cm² is cut into 6 pieces with scissors. We know that each of the 6 pieces is square in shape. What is, in cm², the area of the piece with the greatest area? A 16 B 12 C 18 D 31 E It is impossible for all 6 pieces to be squares F The information is insufficient because there are several ways to divide the given square into 6 squares 1
+>
+> Solutions Below you will find the solutions in written form. Some solutions in video format will be published later on the YouTube channel: problemisvolti.it
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_garaprime_2018#q18|src_garaprime_2018__Q18]]

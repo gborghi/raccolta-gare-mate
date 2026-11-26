@@ -29,9 +29,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo attraverso O incrocia un altro circolo; prova di ugualezza angolare*
+*La circonferenza passante per O interseca un'altra circonferenza; dimostrazione dell'uguaglianza degli angoli*
 
-> Il $\Gamma$ deve essere un cerchio con il centro $O$. Il $A$ deve essere un altro cerchio che attraversa $O$ e che si interseca $\Gamma$ ai punti $A$ e $B$. Un diametro $CD$ di $\Gamma$ interseca $A$ in un punto $P$ diverso da $O$. Provare che $$\angle APC = \angle BPD.$$
+> Sia $\Gamma$ un cerchio con centro $O$. Sia $A$ un altro cerchio che passa per $O$ e interseca $\Gamma$ nei punti $A$ e $B$. Un diametro $CD$ di $\Gamma$ interseca $A$ in un punto $P$ diverso da $O$. Dimostrare che
+> $$\angle APC = \angle BPD.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2013_r4#q01|src_rmo_2013_r4__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero a cinque cifre minore con cifre in ordine rigorosamente in aumento non divisibili per 11*
+*Il più piccolo numero di cinque cifre con cifre in ordine strettamente crescente non divisibile per 11*
 
-> Determinare il primo più piccolo che non divide un numero a cinque cifre il cui numero è in ordine rigorosamente crescente.
+> Determinare il più piccolo numero primo che non divide alcun numero di cinque cifre le cui cifre siano in ordine strettamente crescente.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2013_r4#q02|src_rmo_2013_r4__Q02]]
 
 
 
@@ -80,9 +94,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza per i numeri reali a,b,c,d,e > 1*
+*Disuguaglianza per numeri reali a,b,c,d,e > 1*
 
-> Date le cifre reali $a, b, c, d, e > 1$ dimostrano che $$\frac{a^2}{c-1} + \frac{b^2}{d-1} + \frac{c^2}{e-1} + \frac{d^2}{a-1} + \frac{e^2}{b-1} \ge 20.$$
+> Dati i numeri reali $a, b, c, d, e > 1$, dimostrare che
+> $$\frac{a^2}{c-1} + \frac{b^2}{d-1} + \frac{c^2}{e-1} + \frac{d^2}{a-1} + \frac{e^2}{b-1} \ge 20.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2013_r4#q03|src_rmo_2013_r4__Q03]]
 
 
 
@@ -105,9 +127,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Non-zero reale x con x^3+1/x^3 e x^5+1/x^5 razionale implica x+1/x razionale*
+*Se x è un numero reale diverso da zero tale che x^3+1/x^3 e x^5+1/x^5 sono razionali, allora x+1/x è razionale*
 
-> Che $x$ sia un numero reale non-zero tale che $x^3 + \frac{1}{x^3}$ e $x^5 + \frac{1}{x^5}$ siano entrambi numeri razionali. Prova che $x + \frac{1}{x}$ è un numero razionale.
+> Sia $x$ un numero reale non nullo tale che $x^3 + \frac{1}{x^3}$ e $x^5 + \frac{1}{x^5}$ siano entrambi numeri razionali. Dimostrare che $x + \frac{1}{x}$ è un numero razionale.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2013_r4#q04|src_rmo_2013_r4__Q04]]
 
 
 
@@ -129,9 +158,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC con ortrocentro H; circoncircoli di ACP e ABP incontrano la linea CH a R; H è centro di PQR*
+*Triangolo ABC con ortocentro H; le circonferenze circoscritte ad ACP e ABP intersecano la retta CH nel punto R; H è incentro del triangolo PQR*
 
-> In un triangolo $ABC$, $H$ indichi il suo centro ortodosso. $P$ sia il riflesso di $A$ rispetto a $BC$. Il circoncircolo del triangolo $ABP$ incrocia di nuovo la linea $BH$ a $Q$, e il circoncircolo del triangolo $ACP$ incrocia di nuovo la linea $CH$ a $R$. Prova che $H$ è l'incentro del triangolo $PQR$.
+> In un triangolo $ABC$, si indichi con $H$ il suo ortocentro. Sia $P$ il riflesso di $A$ rispetto a $BC$. La circonferenza circoscritta al triangolo $ABP$ interseca nuovamente la retta $BH$ nel punto $Q$, e la circonferenza circoscritta al triangolo $ACP$ interseca nuovamente la retta $CH$ nel punto $R$. Dimostrare che $H$ è l'incentro del triangolo $PQR$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2013_r4#q05|src_rmo_2013_r4__Q05]]
 
 
 
@@ -154,6 +189,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Regularmente i vertici di 20 goni sono di 3 colori; tre vertici dello stesso colore formano un triangolo di uguali osceli*
+*Vertici di un poligono regolare a 20 lati tricolorati; tre vertici dello stesso colore formano un triangolo isoscele*
 
-> Supponiamo che i vertici di un poligono regolare di 20 lati siano colorati con tre colori  rosso, blu e verde  in modo tale che ci siano esattamente tre vertici rossi. Prove che ci sono tre vertici $A, B, C$ del poligono dello stesso colore in modo tale che il triangolo $ABC$ sia isosceles.
+> Supponiamo che i vertici di un poligono regolare con 20 lati siano colorati con tre colori – rosso, blu e verde – in modo che vi siano esattamente tre vertici rossi. Dimostrare che esistono tre vertici $A, B, C$ del poligono che hanno lo stesso colore tali che il triangolo $ABC$ è isoscele.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_rmo_2013_r4#q06|src_rmo_2013_r4__Q06]]

@@ -35,15 +35,23 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme di integri positivi con elementi 2002, nessun elemento è una potenza perfetta*
+*Dimostrare che esiste un insieme di 2002 interi positivi in cui nessuna somma di elementi distinti è una potenza perfetta*
 
-> Indicare che esiste un insieme $A$ formato da integri positivi con le seguenti proprietà:
-> 
-> a) $A$ contiene elementi del 2002.
-> 
-> b) La somma di qualsiasi quantità di elementi distinti di $A$ (almeno uno) non è mai una potenza perfetta.
-> 
-> **Obs:** Una potenza perfetta è un numero della forma $a^b$, dove $a$ e $b$ sono interi positivi e $b \ge 2$.
+> Dimostrare che esiste un insieme $A$ di interi positivi con queste proprietà:
+>
+> a) $A$ ha 2002 elementi.
+>
+> b) La somma di un qualunque numero di elementi distinti di $A$ (almeno uno) non è mai una potenza perfetta.
+>
+> **Osservazione:** una potenza perfetta è un numero della forma $a^b$, dove $a$ e $b$ sono interi positivi e $b \ge 2$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+
+**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2002_n3_f3#q01|src_obm_2002_n3_f3__Q01]]
 
 
 
@@ -66,9 +74,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale convex ciclico con punto M su CD; i triangoli ADM e ABCM hanno superficie e perimetro uguali*
+*Dimostrare che un quadrilatero inscritto, in queste condizioni su un punto del lato, ha due lati uguali*
 
-> Il $ABCD$ è un quadrilaterale convex inserito in un cerchio, e il $M$ è un punto laterale $CD$, in modo che il triangolo $ADM$ e il quadrilaterale $ABCM$ abbiano la stessa superficie e lo stesso perimetro. Prove che $ABCD$ ha due lati uguali.
+> $ABCD$ è un quadrilatero convesso inscritto in una circonferenza, e $M$ è un punto del lato $CD$ tale che il triangolo $ADM$ e il quadrilatero $ABCM$ hanno la stessa area e lo stesso perimetro. Dimostrare che $ABCD$ ha due lati uguali.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_simmetria|Simmetria]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2002_n3_f3#q02|src_obm_2002_n3_f3__Q02]]
 
 
 
@@ -91,9 +107,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di celle della griglia m×n in modo che le celle adiacenti nelle righe i e i+1 condividano un lato comune*
+*Dimostrare che, numerando una griglia lungo un cammino, due caselle a distanza 3 hanno un lato in comune*
 
-> Numeriamo le cellule di una scheda quadrillare di $m \times n$, dove $m, n \ge 2$, con i numeri interi $1, 2, 3, \ldots, mn$ in modo tale che, per ogni $t \le mn - 1$, le cellule $t$ e $t+1$ abbiano almeno un lato in comune. Indicare che esiste una $i \le mn - 3$ tale che le celle $i$ e $i + 3$ abbiano almeno un lato in comune.
+> Si numerano le caselle di una scacchiera a quadretti $m \times n$, con $m, n \ge 2$, mediante gli interi $1, 2, 3, \ldots, mn$, in modo che, per ogni $t \le mn - 1$, le caselle $t$ e $t+1$ abbiano almeno un lato in comune. Dimostrare che esiste $i \le mn - 3$ tale che le caselle $i$ e $i + 3$ abbiano almeno un lato in comune.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2002_n3_f3#q03|src_obm_2002_n3_f3__Q03]]
 
 
 
@@ -116,9 +140,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Diametro di un sottoinsieme non vuoto di {1,...,n} definito come differenza di max e min; somma dei diametri di tutti i sottoinsiemi non vuoti*
+*Calcolare la somma dei diametri di tutti i sottoinsiemi non vuoti di {1, ..., n}*
 
-> Il diametro di un sottoinsieme non vuoto di $\{1, 2, \ldots, n\}$ viene definito come la differenza tra il suo elemento più grande e il suo elemento più piccolo (in valore assoluto). Calcolare la somma dei diametri di tutti i sottoinsiemi non vuoti di $\{1, 2, \ldots, n\}$.
+> Si definisce diametro di un sottoinsieme non vuoto di $\{1, 2, \ldots, n\}$ la differenza, in valore assoluto, tra il suo elemento massimo e il suo elemento minimo. Calcolare la somma dei diametri di tutti i sottoinsiemi non vuoti di $\{1, 2, \ldots, n\}$.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_obm_2002_n3_f3#q04|src_obm_2002_n3_f3__Q04]]
 
 
 
@@ -143,11 +175,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme finito di quadrati unitari con area 4; riorganizzare per coprire un quadrato unitario*
+*Dimostrare che un numero finito di quadrati, di area totale 4, può coprire un quadrato di lato 1*
 
-> Abbiamo un insieme finito di quadrati, di superficie totale $4$. dimostrare che è possibile organizzarli in modo da coprire un quadrato di lato $1$.
-> 
-> **Obs:** È consentito che i quadrati si sovrappongano e parti di essi possono estendersi oltre i confini del quadrato da coprire.
+> Si ha un insieme finito di quadrati, di area totale $4$. Dimostrare che è possibile disporli in modo da coprire un quadrato di lato $1$.
+>
+> **Osservazione:** è permesso sovrapporre i quadrati, e parti di essi possono uscire dal bordo del quadrato da coprire.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+
+[[Quesiti/src_obm_2002_n3_f3#q05|src_obm_2002_n3_f3__Q05]]
 
 
 
@@ -172,8 +212,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Arnaldo e Beatriz comunicano tramite segnali di fumo; legato N ≤ 4096 sulla dimensione del dizionario*
+*Dimostrare che un dizionario di sequenze di 24 boccate, a distanza sufficiente, ha al più 4096 voci*
 
-> Arnaldo e Beatriz comunicano durante un viaggio di campeggio usando segnali di fumo, a volte con un piccolo fuoco e a volte con uno grande. Durante il tempo disponibile prima del caffè mattutino, Arnaldo riesce a inviare una sequenza di 24 polveri di fumo. Beatriz e Arnaldo creano poi un dizionario per comunicare. Il dizionario elenca le sequenze $N$ di 24 polveri di fumo (dove $G$ indica un grande polvere di fumo e $P$ indica un piccolo polvere di fumo, ad esempio la sequenza $GPGPGPGPGPGPGPGPGPGPGPGPGP$), e il dizionario indica il significato di ciascuna sequenza. Per evitare interpretazioni errate, Arnaldo e Beatriz concordano di includere nel dizionario solo le sequenze che differiscono in almeno 8 delle 24 posizioni. Più precisamente, due sequenze sono considerate vicine se differiscono in almeno $8$ delle posizioni $24$. Arnaldo e Beatriz concordano di non includere sequenze vicine nel dizionario.
-> 
-> Prove che $N \le 4096$.
+> Arnaldo e Beatriz comunicano in campeggio con segnali di fumo, a volte con un fuoco piccolo e a volte con uno grande. Nel tempo che hanno prima del caffè del mattino, Arnaldo riesce a inviare una sequenza di 24 boccate. Beatriz e Arnaldo preparano poi un dizionario per comunicare. Il dizionario elenca $N$ sequenze di 24 boccate (dove $G$ indica una boccata grande e $P$ una boccata piccola, per esempio la sequenza $GPGPGPGPGPGPGPGPGPGPGPGPGP$) e indica il significato di ciascuna. Per evitare equivoci, includono solo sequenze che differiscono in almeno 8 delle 24 posizioni. Più precisamente, due sequenze si dicono vicine se differiscono in al più $8$ delle $24$ posizioni. Concordano di non inserire nel dizionario sequenze vicine.
+>
+> Dimostrare che $N \le 4096$.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_cassetti|Principio dei cassetti]]
+
+**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2002_n3_f3#q06|src_obm_2002_n3_f3__Q06]]

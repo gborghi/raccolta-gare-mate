@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo unico con lati interi consecutivi, un angolo doppio di un altro*
+*Triangolo unico con lati interi consecutivi e un angolo doppio di un altro*
 
-> Si dimostri che esiste uno e un solo triangolo i cui lati sono numeri interi consecutivi, e tale che uno dei suoi angoli sia il doppio di un altro.
+> Dimostrare che esiste un unico triangolo le cui lunghezze dei lati siano numeri interi consecutivi e in cui uno degli angoli sia il doppio di un altro.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1968#q01|src_imho_1968__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutti i numeri reali x tali che il prodotto delle cifre di x sia uguale a x² - 10x - 22*
+*Naturali il cui prodotto delle cifre vale x² − 10x − 22*
 
-> Determinare tutti i numeri naturali $x$ tali che il prodotto delle loro cifre (nella notazione decimale) è uguale a $x^2 - 10x - 22$.
+> Trovare tutti i numeri naturali $x$ tali che il prodotto delle loro cifre (in notazione decimale) sia uguale a $x^2 - 10x - 22$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_casework_accurato|Analisi accurata per casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_imho_1968#q02|src_imho_1968__Q02]]
 
 
 
@@ -89,7 +103,7 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sistema di equazioni: analizzare le soluzioni in base al discriminante Delta*
+*Sistema di equazioni: analisi delle soluzioni in base al discriminante Delta*
 
 > Si consideri il sistema di equazioni
 > $$ax_1^2 + bx_1 + c = x_2$$
@@ -97,11 +111,18 @@ level: IMO
 > $$\vdots$$
 > $$ax_{n-1}^2 + bx_{n-1} + c = x_n$$
 > $$ax_n^2 + bx_n + c = x_1$$
-> con incognite $x_1, x_2, \ldots, x_n$, dove $a, b, c$ sono numeri reali e $a \neq 0$. Sia $\Delta = (b-1)^2 - 4ac$.
-> 
+> con incognite $x_1, x_2, \ldots, x_n$, dove $a, b, c$ sono reali e $a \neq 0$. Si ponga $\Delta = (b-1)^2 - 4ac$.
+>
 > (a) Se $\Delta < 0$, non esiste alcuna soluzione.
 > (b) Se $\Delta = 0$, esiste esattamente una soluzione.
 > (c) Se $\Delta > 0$, esistono più di una soluzione.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1968#q03|src_imho_1968__Q03]]
 
 
 
@@ -126,7 +147,14 @@ level: IMO
 
 *Tetraedro con un vertice le cui tre spigoli sono lati di un triangolo*
 
-> Si dimostri che in ogni tetraedro esiste un vertice tale che i tre spigoli che vi si incontrano hanno lunghezze che possono essere i lati di un triangolo.
+> Dimostrare che in ogni tetraedro esiste un vertice tale che le tre spigoli che vi concorrono hanno lunghezze che sono i lati di un triangolo.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1968#q04|src_imho_1968__Q04]]
 
 
 
@@ -154,14 +182,21 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione a valori reali che soddisfa f(x+a) = 1/2 + sqrt(f(x) - f(x)^2)*
+*Funzione a valori reali tale che f(x+a) = 1/2 + sqrt(f(x) - f(x)^2)*
 
-> Sia $f$ una funzione a valori reali definita per tutti i numeri reali $x$ tale che, per qualche costante positiva $a$, l'equazione
+> Sia $f$ una funzione a valori reali definita per tutti i numeri reali $x$ tale che, per un certo numero reale positivo $a$, l'equazione
 > $$f(x + a) = \frac{1}{2} + \sqrt{f(x) - [f(x)]^2}$$
-> sia verificata per tutti gli $x$.
-> 
-> (a) Si dimostri che la funzione $f$ è periodica (cioè esiste un numero positivo $b$ tale che $f(x + b) = f(x)$ per ogni $x$).
-> (b) Per $a = 1$, si dia un esempio di una funzione non costante con le proprietà richieste.
+> valga per tutti gli $x$.
+>
+> (a) Dimostrare che la funzione $f$ è periodica (cioè esiste un numero reale positivo $b$ tale che $f(x + b) = f(x)$ per tutti gli $x$).
+> (b) Per $a = 1$, fornire un esempio di funzione non costante con le proprietà richieste.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1968#q05|src_imho_1968__Q05]]
 
 
 
@@ -186,8 +221,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valutare la somma infinita di floor((n+2^k)/2^(k+1)) per tutti i numeri naturali n*
+*Valuta la somma infinita di floor((n+2^k)/2^(k+1)) per tutti gli n naturali*
 
 > Per ogni numero naturale $n$, si valuti la somma
 > $$\sum_{k=0}^{\infty} \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor = \left\lfloor \frac{n+1}{2} \right\rfloor + \left\lfloor \frac{n+2}{4} \right\rfloor + \cdots + \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor + \cdots$$
-> (Il simbolo $[x]$ indica il massimo intero non superiore a $x$.)
+> (Il simbolo $[x]$ denota il più grande intero non superiore a $x$.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1968#q06|src_imho_1968__Q06]]

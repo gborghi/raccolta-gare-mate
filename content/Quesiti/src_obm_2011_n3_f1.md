@@ -35,13 +35,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum del pedaggio totale pagato per viaggiare su una mappa stradale a senso unico da A a B*
+*Pedaggio totale minimo pagato viaggiando su un percorso stradale a senso unico da A a B*
 
-> La figura accanto rappresenta una mappa stradale. I numeri mostrati indicano quanto un viaggiatore deve pagare (il pedal/toll) per ogni tratto di strada che arriva a quel punto. Tutte le strade sono a senso unico, come indicato dalle frecce. Vogliamo trovare la quantità minima di pedale che un viaggiatore paga quando lascia la città $A$ e arriva in città $B$. Qual è l'importo minimo?
-> 
+> La figura accanto rappresenta una mappa stradale. I numeri indicati mostrano quanto deve pagare un viaggiatore (il pedaggio) per ciascun tratto di strada che arriva in quel punto. Tutte le strade sono a senso unico, come indicato dalle frecce. Vogliamo trovare l'importo minimo del pedaggio che un viaggiatore paga partendo dalla città $A$ e arrivando alla città $B$. Qual è questo importo minimo?
+>
 > (A) 11 (B) 9 (C) 12 (D) 10 (E) 15
 
 ![[src_obm_2011_n3_f1__q01.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n3_f1#q01|src_obm_2011_n3_f1__Q01]]
 
 
 
@@ -70,13 +79,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Relazione tra superficie dipinta in rosso e superficie bianca non dipinta quando un cubo dipinto è tagliato in 27 cubetti*
+*Rapporto tra l'area dipinta di rosso e l'area bianca non dipinta quando un cubo dipinto viene tagliato in 27 cubi*
 
-> Un cubo di legno, dipinto in rosso, è stato taglio in cubetti $27$ uguali a quelli più piccoli, le cui facce che erano all'interno non sono ancora dipinte (le facce interne rimangono bianche). Qual è il rapporto tra la superficie totale dipinta (rossa) e la superficie non dipinta (bianca)?
-> 
+> Un cubo di legno, dipinto di rosso, è stato segato in $27$ cubetti più piccoli e uguali, le cui facce interne non sono ancora state dipinte (le facce interne restano bianche). Qual è il rapporto tra l'area totale dipinta (rossa) e l'area della superficie non dipinta (bianca)?
+>
 > (A) 1:2 (B) 1:1 (C) 2:1 (D) 1:3 (E) 2:3
 
 ![[src_obm_2011_n3_f1__q02.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f1#q02|src_obm_2011_n3_f1__Q02]]
 
 
 
@@ -107,15 +125,24 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il modo più economico per acquistare 1,2 kg di polvere CHOCOBM da lattine di varie dimensioni*
+*Il modo più economico per acquistare 1,2 kg di polvere di CHOCOBM da lattine di varie dimensioni*
 
-> In una panetteria, una lattina $200$ g di cioccolato in polvere CHOCOBM costa R\$3.00, a $400$ g can costs R\$5,00 e una lattina $800$ g può costare R\$8.00. For a recipe one needs $1,2$ kg of CHOCOBM in that bakery. Among the options below, what is the most economical way to buy $1,2$ kg di CHOCOBM in quella panetteria?
+> In una panetteria, una lattina da $200$ g di cioccolato in polvere CHOCOBM costa R\$3.00, a $400$ g can costs R\$5,00, e una lattina da $800$ g costa R\$8.00. For a recipe one needs $1.2$ kg of CHOCOBM in that bakery. Among the options below, what is the most economical way to buy $1,2 $ al kg di CHOCOBM in quella panetteria?
 >
-> - **(A)** 6 lattine di 200 g
-> - **(B)** 1 lata di 400 g e 1 lata di 800 g
-> - **(C)** 1 lata di 400 g e 1 lata di 800 g
-> - **(D)** 2 lattine di 200 g e 1 lattina di 800 g
-> - **(E)** 2 lattine di 200 g e 2 lattine di 400 g
+> - **(A)** 6 lattine da 200 g
+> - **(B)** 1 lattina da 400 g e 1 lattina da 800 g
+> - **(C)** 1 lattina da 400 g e 1 lattina da 800 g
+> - **(D)** 2 lattine da 200 g e 1 lattina da 800 g
+> - **(E)** 2 lattine da 200 g e 2 lattine da 400 g
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f1#q03|src_obm_2011_n3_f1__Q03]]
 
 
 
@@ -142,11 +169,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N più piccolo possibile in modo che due di 30, 72, N abbiano il prodotto divisibile per il terzo*
+*Il più grande N possibile tale che il prodotto di due qualsiasi dei numeri 30, 72, N sia divisibile per il terzo*
 
-> I numeri interi positivi $30$, $72$ e $N$ hanno la proprietà che il prodotto di due di essi sia divisibile per il terzo. Qual è il valore più grande possibile di $N$?
-> 
+> I numeri interi positivi $30$, $72$ e $N$ hanno la proprietà che il prodotto di due qualsiasi di essi è divisibile per il terzo. Qual è il valore massimo possibile di $N$?
+>
 > (A) 60 (B) 30 (C) $30 \cdot 72$ (D) 360 (E) 6
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f1#q04|src_obm_2011_n3_f1__Q04]]
 
 
 
@@ -173,11 +209,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre di ragazzi in una classe di 36 con altezza distinta e regola di confronto a gradini*
+*Numero di ragazzi in una classe di 36 alunni con altezze distinte e una regola di confronto a gradini*
 
-> In una classe di studenti $36$, tutte di altezza diversa. Il più corto dei ragazzi è più alto di due ragazze, il secondo più corto è più alto di quattro ragazze, il terzo più corto è più alto di sei ragazze, e così via, osservando che ogni ragazzo è più alto di due ragazze rispetto al ragazzo precedente. Inoltre il ragazzo più alto è più alto di tutte le ragazze. Quanti ragazzi ci sono in questa classe?
-> 
+> In una classe di $36$ studenti, tutti di altezza diversa. Il ragazzo più basso è più alto di sole due ragazze, il secondo ragazzo più basso è più alto di quattro ragazze, il terzo ragazzo più basso è più alto di sei ragazze, e così via, osservando che ogni ragazzo è più alto di due ragazze in più rispetto al ragazzo precedente. Inoltre, il ragazzo più alto è più alto di tutte le ragazze. Quanti ragazzi ci sono in questa classe?
+>
 > (A) 12 (B) 14 (C) 16 (D) 18 (E) 20
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n3_f1#q05|src_obm_2011_n3_f1__Q05]]
 
 
 
@@ -204,11 +249,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prodotto del numero di vocali e numero di consonanti nella corretta alternativa*
+*Prodotto del numero di vocali per il numero di consonanti nell'alternativa corretta*
 
-> Qual è il prodotto della quantità di vocali per la quantità di consonanti nell'alternativa corretta? (Non considerare le lettere A, B, C, D, E delle alternative nel conto.)
-> 
-> (A) Ventiquattro. (B) Trenta e sei. (C) Quarantasei. (D) Cinquanta e uno. (E) Cinquanta e sei.
+> Qual è il prodotto tra il numero di vocali e il numero di consonanti nell'alternativa corretta? (Nel conteggio, non si tengano in considerazione le lettere A, B, C, D, E delle alternative.)
+>
+> (A) Venti e quattro. (B) Trenta e sei. (C) Quaranta e sei. (D) Cinquanta e uno. (E) Cinquanta e sei.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n3_f1#q06|src_obm_2011_n3_f1__Q06]]
 
 
 
@@ -235,11 +289,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Migliore valore di ab/(a+b) per i reali con 0<a<=1 e 0<b<=1*
+*Valore massimo di ab/(a+b) per numeri reali tali che 0<a<=1 e 0<b<=1*
 
-> Essendo $a$ e $b$ reali tali che $0 < a \le 1$ e $0 < b \le 1$, il valore più grande che $\dfrac{ab}{a+b}$ può assumere è
-> 
+> Siano $a$ e $b$ numeri reali tali che $0 < a \le 1$ e $0 < b \le 1$; il valore massimo che $\dfrac{ab}{a+b}$ può assumere è
+>
 > (A) 0 (B) $\dfrac{1}{4}$ (C) $\dfrac{1}{3}$ (D) $\dfrac{1}{2}$ (E) 1
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n3_f1#q07|src_obm_2011_n3_f1__Q07]]
 
 
 
@@ -266,11 +329,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Percentuale dei voli totali cancellati a causa del vulcano (10%) e della pioggia (20% del riposo)*
+*Percentuale del totale dei voli cancellati, data la presenza di un vulcano (10%), poi la pioggia (20% del resto)*
 
-> A causa di un'eruzione vulcanica, $10\%$ di tutti i voli di un aeroporto sono stati cancellati. Dei voli rimanenti, $20\%$ sono stati cancellati a causa della pioggia. Qual è la percentuale dei voli totali di questo aeroporto che sono stati cancellati?
-> 
+> A causa di un'eruzione vulcanica, $10\%$ di tutti i voli di un aeroporto sono stati cancellati. Dei voli rimanenti, $20\%$ sono stati cancellati a causa della pioggia. Quale percentuale del totale dei voli di questo aeroporto è stata cancellata?
+>
 > (A) 28% (B) 30% (C) 35% (D) 38% (E) 70%
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f1#q08|src_obm_2011_n3_f1__Q08]]
 
 
 
@@ -297,11 +369,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Valore del 2011*2011^2 + 2011*2003^2 - 16*2011*2007^2*
+*Valore di 2011*2011^2 + 2011*2003^2 - 16*2011*2007^2*
 
 > Qual è il valore dell'espressione $2011 \cdot 2011^{2} + 2011 \cdot 2003^{2} - 16 \cdot 2011 \cdot 2007^{2}$?
-> 
+>
 > (A) $2 \times 2011^{2}$ (B) $2 \times 2011 \cdot 2003^{2}$ (C) $2 \times 2011 \cdot 2007$ (D) $2 \times 2011 \cdot 2003$ (E) $2 \times 2011 \cdot 2011^{2}$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f1#q09|src_obm_2011_n3_f1__Q09]]
 
 
 
@@ -328,11 +409,20 @@ Valore del 2011*2011^2 + 2011*2003^2 - 16*2011*2007^2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,25 cent*
+*Numero di modi distinti di dare R\$59,63... di resto in monete da 1, 5, 10, 25 centesimi*
 
-> Luca ha comprato una cosa che costava 100 dollari per pagare. Il cassiere vuole dare il cambio utilizzando il minor numero possibile di monete $25$ centesimi, con monete di 1, 5, 10 o 25 centesimi. In quanti modi distinti il cassiere può dare il cambio utilizzando solo monete di 1, 5, 10 o 25 centesimi?
-> 
+> Luca ha comprato un oggetto che costa R\$59.63 and gave an R\$100,00 da pagare in contanti. Il cassiere vuole dare il resto usando il minor numero possibile di monete da $25$ centesimi, disponendo di monete da 1, 5, 10 o 25 centesimi. In quanti modi distinti il cassiere può dare il resto usando solo monete da 1, 5, 10 o 25 centesimi?
+>
 > (A) 10 (B) 12 (C) 15 (D) 24 (E) 30
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f1#q10|src_obm_2011_n3_f1__Q10]]
 
 
 
@@ -359,11 +449,20 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quanti numeri interi positivi minori di 30 hanno esattamente quattro divisori*
+*Quanti numeri interi positivi minori di 30 hanno esattamente quattro divisori?*
 
-> Quanti integri positivi più piccoli di $30$ hanno esattamente quattro divisori positivi?
-> 
+> Quanti numeri interi positivi minori di $30$ hanno esattamente quattro divisori positivi?
+>
 > (A) 6 (B) 7 (C) 8 (D) 9 (E) 10
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f1#q11|src_obm_2011_n3_f1__Q11]]
 
 
 
@@ -390,11 +489,20 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medimento dell'angolo ADE in un triangolo in cui angolo B - angolo C = 50 gradi, con bisettore e angolo retto*
+*Misura dell'angolo ADE in un triangolo in cui l'angolo B meno l'angolo C è uguale a 50 gradi, con la bisettrice e un angolo retto*
 
-> In un triangolo $ABC$, $m(\widehat{ABC}) - m(\widehat{ACB}) = 50^\circ$, e il bisettore di $A$ incrocia il lato $BC$ al punto $D$. Se $E$ è il punto laterale $AC$ tale che $m(\widehat{CDE}) = 90^\circ$, la misura dell'angolo $\widehat{ADE}$ è:
-> 
+> In un triangolo, $ABC$, $m(\widehat{ABC}) - m(\widehat{ACB}) = 50^\circ$ e la bisettrice uscente da $A$ intersecano il lato $BC$ nel punto $D$. Se $E$ è il punto del lato $AC$ tale che $m(\widehat{CDE}) = 90^\circ$, la misura dell'angolo $\widehat{ADE}$ è:
+>
 > (A) 25° (B) 30° (C) 40° (D) 45° (E) 50°
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n3_f1#q12|src_obm_2011_n3_f1__Q12]]
 
 
 
@@ -421,11 +529,20 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di banconote scambiate in modo che tre ragazze finiscano con quantità uguali di denaro*
+*Numero minimo di banconote scambiate affinché tre ragazze abbiano la stessa quantità di denaro*
 
-> Esmeralda ha banconote $11$ di due reais, Rosa $7$ di cinque reais e Nelly $3$ di dieci reais. Qual è il minor numero possibile di banconote che le tre ragazze devono scambiare tra loro in modo che ognuna finisca con la stessa quantità di denaro?
-> 
+> Esmeralda ha $11$ banconote da due reais, Rosa ha $7$ banconote da cinque reais e Nelly ha $3$ banconote da dieci reais. Qual è il numero minimo possibile di banconote che le tre ragazze devono scambiarsi tra loro affinché ciascuna finisca con la stessa somma di denaro?
+>
 > (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f1#q13|src_obm_2011_n3_f1__Q13]]
 
 
 
@@ -452,11 +569,20 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prima cifra non-zero dopo il punto decimale di 1/5^10*
+*Prima cifra non nulla dopo la virgola decimale di 1/5^10*
 
 > Qual è la prima cifra diversa da zero dopo la virgola nella rappresentazione decimale della frazione $\dfrac{1}{5^{10}}$?
-> 
+>
 > (A) 1 (B) 2 (C) 4 (D) 5 (E) 7
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f1#q14|src_obm_2011_n3_f1__Q14]]
 
 
 
@@ -490,15 +616,24 @@ Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il puzzle logico: il numero massimo di ET-nerds con cui Bruberson ha parlato tra i quattro altoparlanti
+*Puzzle logico: numero massimo di nerd di ET con cui Bruberson ha parlato tra quattro oratori*
 
-> Sul pianeta Nerdia esistono tre specie di nerd: nerd ET, nerd UFO e nerd UFO. Il primo dice sempre la verità, il secondo mente sempre, e il terzo a volte mente, a volte dice la verità. Certamente Bruberson, un membro di una di queste specie, incontra quattro nerd e dicono:
-> 
-> $X$: "Oggi è nuvoloso". $Y$: "Il nerd che ha appena finito di parlare sta mentendo". $Z$: "Oggi non è nuvoloso". $W$: "Il primo nerd a parlare o io sono un nerd ET".
-> 
-> Con quanti nerd extraterrestri ha parlato Bruberson, al massimo?
-> 
+> Sul Pianeta Nerdia esistono tre specie di nerd: i nerd ET, i nerd UFO e i nerd OVNI. I primi dicono sempre la verità, i secondi mentono sempre, i terzi a volte mentono e a volte dicono la verità. Certamente Bruberson, membro di una di queste specie, incontra quattro nerd e questi dicono:
+>
+> $X$: "Oggi è nuvoloso." $Y$: "Il nerd che ha appena finito di parlare sta mentendo." $Z$: "Oggi non è nuvoloso." $W$: "Il primo nerd a parlare o io sono un nerd-ET."
+>
+> Con quanti nerd di ET ha parlato Bruberson, al massimo?
+>
 > (A) 0 (B) 1 (C) 2 (D) 3 (E) 4
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n3_f1#q15|src_obm_2011_n3_f1__Q15]]
 
 
 
@@ -527,13 +662,22 @@ Il puzzle logico: il numero massimo di ET-nerds con cui Bruberson ha parlato tra
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio AB:AF dopo due pieghe di un triangolo di carta con le stesse stelle*
+*Rapporto AB:AF dopo due piegature di un triangolo di carta isoscele*
 
-> Un pezzo di carta ha la forma di un triangolo di uguali pollice di lati $BC = 6$ cm e $AB = AC = 5$ cm ed è parzialmente riempito (grigio ombrato). Se si piega il vertice $A$ sul lato $BC$, il vertice $A$ coincide con un punto del lato $BC$; se si piega di nuovo, il punto $A$ si riposa sul punto $F$ del lato $AB$. Qual è il rapporto $\dfrac{AB}{AF}$?
-> 
+> Un foglio di carta ha la forma di un triangolo isoscele con lati di $BC = 6$ cm e $AB = AC = 5$ cm ed è parzialmente riempito (ombreggiato di grigio). Piegando il vertice $A$ sul lato $BC$, il vertice $A$ viene a coincidere con un punto del lato $BC$; piegando di nuovo, il punto $A$ va a posizionarsi sopra il punto $F$ del lato $AB$. Qual è il rapporto $\dfrac{AB}{AF}$?
+>
 > (A) $\dfrac{4}{3}$ (B) $\dfrac{3}{2}$ (C) $\dfrac{8}{5}$ (D) $\dfrac{18}{5}$ (E) $\dfrac{24}{5}$
 
 ![[src_obm_2011_n3_f1__q16.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n3_f1#q16|src_obm_2011_n3_f1__Q16]]
 
 
 
@@ -560,11 +704,20 @@ Il puzzle logico: il numero massimo di ET-nerds con cui Bruberson ha parlato tra
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il più grande di questi (2011)! è divisibile da (n!)^3*
+*Il più grande n tale che (2011)! sia divisibile per (n!)^3*
 
 > Il più grande intero positivo $n$ tale che $(2011)!$ sia divisibile per $(n!)^{3}$ è:
-> 
+>
 > (A) 3 (B) 4 (C) 5 (D) 6 (E) 7
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n3_f1#q17|src_obm_2011_n3_f1__Q17]]
 
 
 
@@ -591,11 +744,20 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolatore rotto: numero massimo di presse a radice quadrata fino a quando non appare un numero inferiore a 2*
+*Calcolatrice rotta: numero massimo di pressioni del tasto radice quadrata prima che compaia un numero minore di 2*
 
-> La calcolatrice di Esmeralda è rotta: quando si premono il pulsante $\sqrt{\ }$, la calcolatrice fa, invece della radice quadrata, la seguente operazione: prende la radice quadrata (come dovrebbe) e poi divide per il numero di cifre prima della virgola. Esmeralda inserisce nel calcolatore un numero con $100$ e inizia a premere il pulsante $\sqrt{\ }$ ripetutamente. Quante volte, al massimo, Esmeralda premere il pulsante fino a raggiungere, per la prima volta, un numero inferiore a 2?
-> 
+> La calcolatrice di Esmeralda è rotta: quando si preme il tasto $\sqrt{\ }$, la calcolatrice esegue, invece della radice quadrata, la seguente operazione: calcola la radice quadrata (come dovrebbe) e poi divide per il numero di cifre prima della virgola. Esmeralda digita nella calcolatrice un numero con $100$ cifre e inizia a premere ripetutamente il tasto $\sqrt{\ }$. Quante volte, al massimo, Esmeralda preme il tasto prima di ottenere, per la prima volta, un numero minore di 2?
+>
 > (A) 2 (B) 4 (C) 5 (D) 8 (E) 9
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f1#q18|src_obm_2011_n3_f1__Q18]]
 
 
 
@@ -628,15 +790,24 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di integri n>1 tale che il 2011 sia la somma di n diversi integri positivi*
+*Numero di interi n>1 tali che 2011 sia una somma di n interi positivi distinti*
 
-> Esistono 3 valori di interi $n > 1$ in modo che $10$ possa essere scritto come somma di $n$ diversi interi positivi:
-> 
+> Esistono 3 valori di interi $n > 1$ tali che $10$ possa essere scritto come somma di $n$ interi positivi distinti:
+>
 > $n = 2: 10 = 3 + 7$ $n = 3: 10 = 2 + 3 + 5$ $n = 4: 10 = 1 + 2 + 3 + 4$
-> 
-> Quanti valori di integri $n > 1$ esistono per i quali è possibile esprimere il 2011 come somma di $n$ diversi integri positivi?
-> 
+>
+> Quanti valori degli interi $n > 1$ esistono per cui è possibile esprimere 2011 come somma di $n$ interi positivi distinti?
+>
 > (A) 59 (B) 60 (C) 61 (D) 62 (E) 63
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f1#q19|src_obm_2011_n3_f1__Q19]]
 
 
 
@@ -663,11 +834,20 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsieme più grande di {1,...,20} che non contiene elemento pari al doppio di un altro*
+*Il più grande sottoinsieme di {1,...,20} che non contiene alcun elemento uguale al doppio di un altro*
 
-> Qual è la quantità più grande di numeri dell'insieme $\{1, 2, 3, \dots, 20\}$ che possiamo scegliere in modo che nessuno di loro, $a$ e $b$, soddisfi $a = 2b$ (nessuno è il doppio di un altro)?
-> 
+> Qual è la quantità massima di numeri dell'insieme $\{1, 2, 3, \dots, 20\}$ che possiamo scegliere in modo che nessuna coppia di essi, $a$ e $b$, soddisfi $a = 2b$ (nessuno è il doppio di un altro)?
+>
 > (A) 10 (B) 11 (C) 12 (D) 13 (E) 14
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n3_f1#q20|src_obm_2011_n3_f1__Q20]]
 
 
 
@@ -696,13 +876,22 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area del triangolo AMN in un triangolo ABC di area 60 con ceviani e punto medio*
+*Area del triangolo AMN in un triangolo ABC di area 60 con ceviane e punto medio*
 
-> Lasciate che $ABC$ sia un triangolo. Il punto $D$ appartiene al lato $AC$ ed è tale che $BD = CD$. $E$ sia il punto in cui $BC$ incontra ... e $M$ sia il punto medio di $AB$ e $N$ l'intersezione di $AM$ e $BD$. Se la superficie di $AM$... è la superficie di $ABC$ ... Qual è, in gradi, l'angolo $\widehat{BCA}$?
-> 
+> Sia $ABC$ un triangolo. Il punto $D$ appartiene al lato $AC$ ed è tale che $BD = CD$. Sia $E$ il punto in cui $BC$ incontra ..., e sia $M$ il punto medio di $AB$, e sia $N$ l'intersezione di $AM$ e $BD$. Se l'area di $AM$... è l'area di $ABC$ ..., qual è, in gradi, l'angolo $\widehat{BCA}$?
+>
 > (A) 15 (B) 22,5 (C) 30 (D) 37,5 (E) 45
 
 ![[src_obm_2011_n3_f1__q21.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n3_f1#q21|src_obm_2011_n3_f1__Q21]]
 
 
 
@@ -729,11 +918,20 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta di (1-sqrt2)^2011 data (1+sqrt2)^2011 = a + b sqrt2 con numero intero a,b*
+*Valore di (1-√2)^2011 sapendo che (1+√2)^2011 = a + b√2, con a e b interi*
 
-> Essendo $a$ e $b$ integri tali che $\left(1 + \sqrt{2}\right)^{2011} = a + b\sqrt{2}$, $\left(1 - \sqrt{2}\right)^{2011}$ è uguale a
-> 
+> Siano $a$ e $b$ numeri interi tali che $\left(1 + \sqrt{2}\right)^{2011} = a + b\sqrt{2}$, $\left(1 - \sqrt{2}\right)^{2011}$ è uguale a
+>
 > (A) $a + 2b + (a-b)\sqrt{2}$ (B) $a - 2b + (a-b)\sqrt{2}$ (C) $a + 2b + (b-a)\sqrt{2}$ (D) $2b - a + (b-a)\sqrt{2}$ (E) $a + (b-a)\sqrt{2}$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n3_f1#q22|src_obm_2011_n3_f1__Q22]]
 
 
 
@@ -760,11 +958,20 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La minima a con a<=b<=c numeri interi positivi e 1/a+1/b+1/c = 1/2011*
+*Il più piccolo a, con a<=b<=c numeri interi positivi e 1/a+1/b+1/c = 1/2011*
 
-> Se $a$, $b$ e $c$ sono integri positivi come $a \le b \le c$ e $\dfrac{1}{a} + \dfrac{1}{b} + \dfrac{1}{c} = \dfrac{1}{2011}$, qual è il valore più piccolo possibile di $a$?
-> 
+> Se $a$, $b$ e $c$ sono numeri interi positivi tali che $a \le b \le c$ e $\dfrac{1}{a} + \dfrac{1}{b} + \dfrac{1}{c} = \dfrac{1}{2011}$, qual è il valore minimo possibile di $a$?
+>
 > (A) 2011 (B) 2012 (C) 2013 (D) 2014 (E) 2011-2012
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n3_f1#q23|src_obm_2011_n3_f1__Q23]]
 
 
 
@@ -791,11 +998,20 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Verti vertici segnati da tre poligoni regolari (8,12,18 lati) incisi in un cerchio che condivide un vertice*
+*Vertici distinti contrassegnati da tre poligoni regolari (con 8, 12 e 18 lati) inscritti in un cerchio e aventi in comune un vertice*
 
-> Tre poligoni regolari, rispettivamente dei lati $8$, $12$ e $18$, sono incisi nella stessa circonferenza e hanno un vertice in comune. I vertici dei tre poligoni sono segnati sulla circonferenza. Quanti vertici distinti sono segnati?
-> 
+> Tre poligoni regolari, con $8$, $12$ e $18$ lati rispettivamente, sono inscritti nella stessa circonferenza e hanno un vertice in comune. I vertici dei tre poligoni sono segnati sulla circonferenza. Quanti vertici distinti sono segnati?
+>
 > (A) 20 (B) 24 (C) 26 (D) 28 (E) 30
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2011_n3_f1#q24|src_obm_2011_n3_f1__Q24]]
 
 
 
@@ -822,8 +1038,17 @@ Il più grande di questi (2011)! è divisibile da (n!)^3*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza BE per E l'intersezione dei diagonali di un quadrilaterale ciclico*
+*Lunghezza BE per E: l'intersezione delle diagonali di un quadrilatero ciclico*
 
-> Il $ABCD$ deve essere un quadrilaterale inciso (le cui vertici appartengono a una circonferenza) con $AB = 4$, $BC = 8\sqrt{3}$, $AC = 4\sqrt{13}$ e $AD = 2\sqrt{13}$. Essendo $E$ l'intersezione delle diagonali $AC$ e $BD$, la lunghezza del segmento $BE$ è:
-> 
+> Sia $ABCD$ un quadrilatero inscritto (i cui vertici appartengono a una circonferenza) con $AB = 4$, $BC = 8\sqrt{3}$, $AC = 4\sqrt{13}$ e $AD = 2\sqrt{13}$. Essendo $E$ l'intersezione delle diagonali $AC$ e $BD$, la lunghezza del segmento $BE$ è:
+>
 > (A) $\dfrac{12\sqrt{3}}{7}$ (B) $\dfrac{13\sqrt{3}}{7}$ (C) $2\sqrt{3}$ (D) $\dfrac{15\sqrt{3}}{7}$ (E) $\dfrac{16\sqrt{3}}{7}$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n3_f1#q25|src_obm_2011_n3_f1__Q25]]

@@ -32,13 +32,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Intervallo di aumento monotono di una funzione logaritmica composta*
+*Intervallo di monotonia crescente di una funzione composta logaritmica*
 
-> L'intervallo in cui la funzione $f(x) = \log_{\frac{1}{2}}(x^2 - 2x - 3)$ aumenta monotone è \quad (\quad).
-> 
+> L'intervallo in cui la funzione $f(x) = \log_{\frac{1}{2}}(x^2 - 2x - 3)$ è monotona crescente è \quad (\quad).
+>
 > (A) $(-\infty, -1)$ \qquad (B) $(-\infty, 1)$ \qquad (C) $(1, +\infty)$ \qquad (D) $(3, +\infty)$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2002#q01|src_cn_cmc_2002__Q01]]
 
 
 
@@ -64,13 +69,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Vale minima di x^2+y^2 per il punto su un cerchio*
+*Valore minimo di x^2+y^2 per un punto su una circonferenza*
 
-> Se i numeri reali $x$ e $y$ soddisfano $(x + 5)^2 + (y - 12)^2 = 14^2$, il valore minimo di $x^2 + y^2$ è \quad (\quad).
-> 
+> Se i numeri reali $x$ e $y$ soddisfano $(x + 5)^2 + (y - 12)^2 = 14^2$, allora il valore minimo di $x^2 + y^2$ è \quad (\quad).
+>
 > (A) 2 \qquad (B) 1 \qquad (C) 0 \qquad (D) $\frac{1}{2}$
 
-**Risposta:** B
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2002#q02|src_cn_cmc_2002__Q02]]
 
 
 
@@ -98,15 +108,20 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine la parità di una funzione razionale*
+*Determinare la parità di una funzione di tipo razionale*
 
 > La funzione $f(x) = \dfrac{x^2 - x - 2}{2^x - 1}$ è \quad (\quad).
-> 
-> (A) una funzione pari ma non pari qquad (B) una funzione pari ma non pari
-> 
-> (C) funzioni pari e odd \qquad (D) funzioni né pari né odd
+>
+> (A) una funzione pari ma non dispari \qquad (B) una funzione dispari ma non pari
+>
+> (C) una funzione sia pari sia dispari \qquad (D) una funzione né pari né dispari
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2002#q03|src_cn_cmc_2002__Q03]]
 
 
 
@@ -132,13 +147,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di punti P sull'ellisse tale che il triangolo PAB abbia prescritto superficie*
+*Numero di punti P sull'ellisse tali che il triangolo PAB abbia area prescritta*
 
-> La linea retta $\dfrac{x}{a} + \dfrac{y}{b} = 1$ interseca l'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ a due punti $A$ e $B$. C'è un punto $P$ sull'ellisse tale che l'area di $\triangle PAB$ sia uguale a 3. Ci sono / è \quad (\quad) tali punti / punti.
-> 
+> La retta $\dfrac{x}{a} + \dfrac{y}{b} = 1$ interseca l'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ in due punti $A$ e $B$. Sull'ellisse esiste un punto $P$ tale che l'area di $\triangle PAB$ è uguale a 3. Esistono/Esiste \quad (\quad) punti.
+>
 > (A) 1 \qquad (B) 2 \qquad (C) 3 \qquad (D) 4
 
-**Risposta:** B
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2002#q04|src_cn_cmc_2002__Q04]]
 
 
 
@@ -164,13 +184,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta le surgezioni di conservazione dell'ordine tra due set di 50 elementi*
+*Conta le suriezioni preservanti l'ordine tra due insiemi di 50 elementi*
 
-> Se esistono due set di numeri reali $A = \{a_1, a_2, \cdots, a_{50}\}$ e $B = \{b_1, b_2, \cdots, b_{50}\}$. Se c'è una mappatura $f$ da $A$ a $B$ tale che ogni elemento in $B$ abbia un'immagine inversa e $f(a_1) \le f(a_2) \le \cdots \le f(a_{50})$, allora il numero di tali mappature è \quad (\quad).
-> 
+> Siano dati due insiemi di numeri reali $A = \{a_1, a_2, \cdots, a_{50}\}$ e $B = \{b_1, b_2, \cdots, b_{50}\}$. Sia data una applicazione $f$ da $A$ a $B$ tale che ogni elemento in $B$ abbia un'immagine inversa e $f(a_1) \le f(a_2) \le \cdots \le f(a_{50})$; allora il numero di tali applicazioni è \quad (\quad).
+>
 > (A) $C_{50}^1$ \qquad (B) $C_{50}^2$ \qquad (C) $C_{50}^3$ \qquad (D) $C_{50}^{25}$
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_bigezione|Biiezione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2002#q05|src_cn_cmc_2002__Q05]]
 
 
 
@@ -196,13 +221,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Compare i volumi di due solidi di rotazione legati alla parabola e alla linea*
+*Confronta i volumi di due solidi di rivoluzione legati a una parabola e a una retta*
 
-> Una regione è circondata dalle curve $x^2 = 4y$, $x - 2y - 4 = 0$, $x = 4$ e $y = -4$. $V_1$ è il volume del solido ottenuto ruotando la regione di cui sopra intorno all'asse $y$. Un'altra regione è costituita da punti $(x, y)$ che soddisfano $x^2 \ge 4y$, $|x| \le 4$, $y \ge -4$. $V_2$ è il volume del solido ottenuto rotando questa regione intorno all'asse $y$. Poi "quad".
-> 
+> Una regione è delimitata dalle curve $x^2 = 4y$, $x - 2y - 4 = 0$, $x = 4$ e $y = -4$. $V_1$ è il volume del solido ottenuto facendo ruotare la regione sopra indicata attorno all'asse $y$. Un'altra regione è costituita dai punti $(x, y)$ che soddisfano $x^2 \ge 4y$, $|x| \le 4$, $y \ge -4$. $V_2$ è il volume del solido ottenuto facendo ruotare questa regione attorno all'asse $y$. Allora \quad (\quad).
+>
 > (A) $V_1 = \dfrac{1}{2}V_2$ \qquad (B) $V_1 = \dfrac{2}{3}V_2$ \qquad (C) $V_1 = V_2$ \qquad (D) $V_1 = 2V_2$
 
-**Risposta:** C
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2002#q06|src_cn_cmc_2002__Q06]]
 
 
 
@@ -226,11 +256,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il rapporto dei numeri complessi dati con i moduli e l'angolo tra i loro vettori*
+*Trovare il rapporto tra numeri complessi dati i moduli e l'angolo tra i loro vettori*
 
-> È dato che i numeri complessi $z_1$, $z_2$ soddisfano $|z_1| = 2$ e $|z_2| = 3$. Se l'angolo incluso dei loro corrispondenti vettori è $60^\circ$, allora $\dfrac{z_1 + z_2}{z_1 - z_2} = $ \underline{\quad}.
+> È dato che i numeri complessi $z_1$, $z_2$ soddisfano $|z_1| = 2$ e $|z_2| = 3$. Se l'angolo compreso tra i loro vettori corrispondenti è $60^\circ$, allora $\dfrac{z_1 + z_2}{z_1 - z_2} = $ \underline{\quad}.
 
-**Risposta:** $\dfrac{\sqrt{133}}{7}$
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2002#q07|src_cn_cmc_2002__Q07]]
 
 
 
@@ -254,11 +289,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i termini di potenza dei numeri interi positivi nell'espansione binomiale quando i primi tre coefficienti sono in AP*
+*Conta i termini con esponente intero positivo nello sviluppo del binomio quando i primi tre coefficienti formano una progressione aritmetica*
 
-> Organizziamo l'espansione di $\left(\sqrt{x} + \dfrac{1}{\sqrt{x}}\right)^n$ in potenze diminuenti di $x$. Se i coefficienti dei primi tre termini formano una progressione aritmetica, allora nell'espansione ci sono termini \underline{\quad} di $x$ con potenza interi positiva.
+> Disponiamo lo sviluppo di $\left(\sqrt{x} + \dfrac{1}{\sqrt{x}}\right)^n$ in potenze decrescenti di $x$. Se i coefficienti dei primi tre termini formano una progressione aritmetica, allora nello sviluppo ci sono \underline{\quad} termini di $x$ con esponente intero positivo.
 
-**Risposta:** 3
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2002#q08|src_cn_cmc_2002__Q08]]
 
 
 
@@ -284,13 +324,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i gruppi coplanari a 4 punti tra i vertici e i punti di bordo del tetraedro*
+*Conta i gruppi di 4 punti complanari tra i vertici e i punti medi degli spigoli di un tetraedro*
 
-> Come mostrato nel diagramma, i punti $P_1, P_2, \cdots, P_{10}$ sono rispettivamente i vertici o i punti medi dei bordi di un tetraedro. Poi ci sono gruppi di quattro punti $(P_{i_1}, P_{i_2}, P_{i_3}, P_{i_4})$ ($1 \le i_1 < i_2 < i_3 < i_4 \le 10$) sullo stesso piano.
+> Come mostrato nel diagramma, i punti $P_1, P_2, \cdots, P_{10}$ sono rispettivamente i vertici o i punti medi degli spigoli di un tetraedro. Inoltre, vi sono \underline{\quad} gruppi di quattro punti $(P_{i_1}, P_{i_2}, P_{i_3}, P_{i_4})$ ($1 \le i_1 < i_2 < i_3 < i_4 \le 10$) su uno stesso piano.
 
 ![[src_cn_cmc_2002__q09.png]]
 
-**Risposta:** 33
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2002#q09|src_cn_cmc_2002__Q09]]
 
 
 
@@ -317,11 +362,19 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca g(2002) per la funzione che soddisfa le disuguaglianze di crescita bilaterali*
+*Trovare g(2002) per una funzione che soddisfa disuguaglianze di crescita bilaterali*
 
-> È dato che $f(x)$ è una funzione definita su $\mathbf{R}$, che soddisfa $f(1) = 1$, e per qualsiasi $x \in \mathbf{R}$, $$f(x + 5) \ge f(x) + 5,$$ $$f(x + 1) \le f(x) + 1.$$ Se $g(x) = f(x) + 1 - x$, allora $g(2002) = $ \underline{\quad}.
+> È dato che $f(x)$ è una funzione definita su $\mathbf{R}$, che soddisfa $f(1) = 1$, e per ogni $x \in \mathbf{R}$,
+> $$f(x + 5) \ge f(x) + 5,$$
+> $$f(x + 1) \le f(x) + 1.$$
+> Se $g(x) = f(x) + 1 - x$, allora $g(2002) = $ \underline{\quad}.
 
-**Risposta:** 1
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2002#q10|src_cn_cmc_2002__Q10]]
 
 
 
@@ -345,11 +398,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*valore minimo di <x di- di- di- di- di- di di- di- di logaritmico di*
+*Valore minimo di |x|-|y| con vincolo logaritmico*
 
-> Se $\log|x + 2y| + \log|x - 2y| = 1$, il valore minimo di $|x| - |y|$ è \underline{\quad}.
+> Se $\log|x + 2y| + \log|x - 2y| = 1$, allora il valore minimo di $|x| - |y|$ è \underline{\quad}.
 
-**Risposta:** $\sqrt{3}$
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2002#q11|src_cn_cmc_2002__Q11]]
 
 
 
@@ -375,11 +433,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i valori di a per i quali la disuguaglianza trigonometrica vale per tutti x*
+*Trovare i valori di a per cui la disuguaglianza trigonometrica vale per ogni x*
 
-> La disuguaglianza $$\sin^2 x + a\cos x + a^2 \ge 1$$ vale per tutti $x \in \mathbf{R}$. Trova la gamma di valori di $a$.
+> La disuguaglianza
+> $$\sin^2 x + a\cos x + a^2 \ge 1$$
+> vale per tutti gli $x \in \mathbf{R}$. Determinare l'insieme dei valori di $a$.
 
-**Risposta:** $a \le -2$
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2002#q12|src_cn_cmc_2002__Q12]]
 
 
 
@@ -404,11 +469,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rango di coordinate y di C su parabola con condizione di perpendicularità*
+*Intervallo dell'ascissa y del punto C sulla parabola con condizione di perpendicolarità*
 
-> Considerato il $A(0, 2)$ e i due punti $B$ e $C$ della parabola $y^2 = x + 4$ in modo tale che $AB \perp BC$, si trova l'intervallo dei valori per la coordinata $y$ del punto $C$.
+> Dati $A(0, 2)$ e due punti $B$ e $C$ sulla parabola $y^2 = x + 4$ tali che $AB \perp BC$, determina l'intervallo di valori della coordinata $y$ del punto $C$.
 
 ![[src_cn_cmc_2002__q13.png]]
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2002#q13|src_cn_cmc_2002__Q13]]
 
 
 
@@ -436,10 +508,17 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Frattale tipo fiocco di neve di Koch: sequenza di superficie termine e limite generale*
+*Frattale di tipo fiocco di Koch: termine generale e limite della successione delle aree*
 
-> Come mostrato nel diagramma, c'è una sequenza di curve $P_0, P_1, P_2, \ldots$ $P_0$ è un triangolo equilaterale. È noto che la regione circondata da $P_0$ ha area 1. Si costruisce $P_{k+1}$ da $P_k$ operando come segue: trisect ogni lato di $P_k$, costruire un triangolo equilaterale verso l'esterno su ogni lato di $P_k$ seduto sul segmento medio di quel lato, e infine rimuovere il segmento medio $(k = 0, 1, 2, \cdots)$. Scrivere $S_k$ come la superficie della regione circondata da $P_k$.
-> 
-> (1) Trovare una formula per il termine generale della sequenza $\{S_k\}$. (2) Trova $\lim_{n \to \infty} S_n$.
+> Come mostrato nel diagramma, c'è una sequenza di curve $P_0, P_1, P_2, \ldots$; $P_0$ è un triangolo equilatero. Si sa che la regione delimitata da $P_0$ ha area 1. Costruiamo $P_{k+1}$ a partire da $P_k$ operando nel modo seguente: trisectiamo ciascun lato di $P_k$, costruiamo esternamente su ciascun lato di $P_k$ un triangolo equilatero appoggiato sul segmento medio di quel lato, e infine rimuoviamo il segmento medio $(k = 0, 1, 2, \cdots)$. Indichiamo con $S_k$ l'area della regione delimitata da $P_k$.
+>
+> (1) Trova una formula per il termine generale della successione $\{S_k\}$. (2) Trova $\lim_{n \to \infty} S_n$.
 
 ![[src_cn_cmc_2002__q14.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2002#q14|src_cn_cmc_2002__Q14]]

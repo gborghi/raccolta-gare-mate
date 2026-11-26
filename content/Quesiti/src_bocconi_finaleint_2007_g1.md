@@ -33,11 +33,15 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-Logical riddle: the oldest animal of dogs, crickets and cats
+*Logical riddle: which animal—dog, hamster, or cat—is the oldest?*
 
-> My dog is older than my hamster, and my hamster is younger than my cat, who is in turn older than my dog. Which animal is the oldest?
+> My dog is older than my hamster, and my hamster is younger than my cat, which in turn is older than my dog. Which animal is the oldest?
 
-**Answer:** My cat
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q01|src_bocconi_finaleint_2007_g1__Q01]]
 
 
 
@@ -60,11 +64,15 @@ Logical riddle: the oldest animal of dogs, crickets and cats
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three consecutive integers of sum 2007: Find the largest*
+*Three consecutive integers whose sum is 2007: find the largest one*
 
-> Three consecutive integers have the sum $2007$. Which is the largest of the three numbers?
+> Three consecutive integers have a sum of $2007$. What is the largest of the three numbers?
 
-**Answer:** 670
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q02|src_bocconi_finaleint_2007_g1__Q02]]
 
 
 
@@ -89,13 +97,17 @@ Logical riddle: the oldest animal of dogs, crickets and cats
 <div class="qlang-split" data-lang="en"></div>
 
 
-Cube with constant sum on opposite faces: face opposite to 17
+*Cube with constant sum on opposite faces: face opposite 17*
 
-> On each face of a cube and a number written. The two opposite sides of the cube always have the same sum. The figure shows three of the faces of the cube. What number is the opposite of $17$?
+> A number is written on each face of a cube. The two opposite faces of the cube always have the same sum. The figure shows three of the faces of the cube. Which number is opposite $17$?
 
 ![[src_bocconi_finaleint_2007_g1__q03.png]]
 
-**Answer:** 13
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q03|src_bocconi_finaleint_2007_g1__Q03]]
 
 
 
@@ -121,13 +133,18 @@ Cube with constant sum on opposite faces: face opposite to 17
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Put the digits 1-2-3-4-5 in the boxes of an exact multiplication*
+*Place the digits 1-2-3-4-5 in the boxes of an exact multiplication*
 
-> It helps Barnabe to place the $1 - 2 - 3 - 4 - 5$ numbers in boxes (one digit per box) to get an exact multiplication.
+> Help Barnabe place the digits $1 - 2 - 3 - 4 - 5$ in the boxes (one digit per box) to obtain an exact multiplication.
 
 ![[src_bocconi_finaleint_2007_g1__q04.png]]
 
-**Answer:** $13 \times 4 = 52$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q04|src_bocconi_finaleint_2007_g1__Q04]]
 
 
 
@@ -153,13 +170,18 @@ Cube with constant sum on opposite faces: face opposite to 17
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight: number of masses between 1 g and 25 g balanced with five marked masses*
+*Masses: number of masses between 1 g and 25 g that can be balanced with five marked masses*
 
-> Mathilde loves to explore her grandparents' sunshine. He found five marked masses. How many masses between $1$ g and $25$ g (these two values included) can Mathilde balance by placing one or more of these five masses on the same plate of balance?
+> Mathilde loves exploring her grandparents' attic. She found five marked masses there. How many masses between $1$ g and $25$ g (including these two values) can Mathilde balance by placing one or more of these five masses on the same pan of the balance?
 
 ![[src_bocconi_finaleint_2007_g1__q05.png]]
 
-**Answer:** 23
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q05|src_bocconi_finaleint_2007_g1__Q05]]
 
 
 
@@ -183,11 +205,16 @@ Cube with constant sum on opposite faces: face opposite to 17
 <div class="qlang-split" data-lang="en"></div>
 
 
-T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbered 0 or 2
+*Numbered tombola tickets from 1: minimum sold, knowing that more than two are sold, with digit 0 or 2, how many without*
 
-> For the school party, Mathias sold the tombstone tickets. The tickets were all numbered from the number $1$ and Mathias sold them in the order of their numbering. Mathias noted that he had sold exactly as many tickets with one of the numbers $0$, $2$ as tickets with none of these numbers. How many tickets did Mathias sell at least, knowing he sold more than two?
+> For the school festival, Mathias sold the bingo tickets. All the tickets were numbered starting from number $1$, and Mathias sold them in the order of their numbering. Mathias noticed that he had sold exactly as many tickets bearing one of the digits $0$, $2$ as tickets bearing none of these digits. What is the minimum number of tickets Mathias sold, knowing that he sold more than two?
 
-**Answer:** 28
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q06|src_bocconi_finaleint_2007_g1__Q06]]
 
 
 
@@ -213,13 +240,18 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tronked Sudoku: complete the grid with constraints on rows and columns of different lengths*
+*Truncated Sudoku: complete the grid with constraints on rows and columns of different lengths*
 
-> Complete the grid so that: each vertical column of $3$ boxes contains all the digits from $1$ to $3$; each horizontal row or vertical column of $4$ boxes contains all the digits from $1$ to $4$; each horizontal row or vertical column of $6$ boxes contains all the digits from $1$ to $6$.
+> Complete the grid so that: each vertical column of $3$ cells contains all the digits from $1$ to $3$; each horizontal row or vertical column of $4$ cells contains all the digits from $1$ to $4$; each horizontal row or vertical column of $6$ cells contains all the digits from $1$ to $6$.
 
 ![[src_bocconi_finaleint_2007_g1__q07.png]]
 
-**Answer:** see grid
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q07|src_bocconi_finaleint_2007_g1__Q07]]
 
 
 
@@ -245,13 +277,18 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Block of boxes: each block of 3 consecutive boxes has the same sum; find the two unknown numbers*
+*Row of cells: each block of 3 consecutive cells has the same sum; find the two unknown numbers*
 
-> For each block of $3$ consecutive boxes in the number band below, the three boxes have the same sum ($3$ cases is equal to $40$). Calculate $\blacktriangle$ and $\blacksquare$, where $\blacktriangle$ and $\blacksquare$ represent two unknown numbers placed in the $1^{\mathrm{a}}$ box and in the $5^{\mathrm{a}}$ band box. The band shows: $\blacktriangle$, $13$, ..., $22$.
+> For each block of $3$ consecutive cells on the number strip below, the three cells have the same sum ($3$ cases are equal to $40$). Calculate $\blacktriangle$ and $\blacksquare$, where $\blacktriangle$ and $\blacksquare$ represent two unknown numbers placed in the $1^{\mathrm{a}}$ cell and the $5^{\mathrm{a}}$ cell of the strip. The strip shows: $\blacktriangle$, $13$, ..., $22$.
 
 ![[src_bocconi_finaleint_2007_g1__q08.png]]
 
-**Answer:** $\blacktriangle = 5$, $\blacksquare = 22$
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q08|src_bocconi_finaleint_2007_g1__Q08]]
 
 
 
@@ -275,11 +312,16 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Currency: card price paid with 3 different coins using one of 0,50 euro, remaining in 3 different coins*
+*Coin: postcard price paid with 3 different coins, using one worth 0.50 euros; change given in 3 different coins*
 
-> Mathilde, on vacation, wants to buy a card for her friend Geo. He wants to pay for it with three different coins. It also prefers to give a coin of $0{,}50$ euro. The merchant then returns three different coins. What's the price of the card? The coins in use are the following: $0{,}01$ euro; $0{,}02$ euro; $0{,}05$ euro; $0{,}10$ euro; $0{,}20$ euro; $0{,}50$ euro; $1$ euro; $2$ euro.
+> Mathilde, having set off on holiday, wants to buy a postcard for her friend Geo. She wants to pay for it with three coins, all different. Moreover, she prefers to give a coin worth $0{,}50$ euros. The shopkeeper then gives her three different coins. What is the price of the postcard? The coins in circulation are as follows: $0{,}01$ euros; $0{,}02$ euros; $0{,}05$ euros; $0{,}10$ euros; $0{,}20$ euros; $0{,}50$ euros; $1$ euros; $2$ euros.
 
-**Answer:** $0{,}23$ euro or $0{,}27$ euro
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q09|src_bocconi_finaleint_2007_g1__Q09]]
 
 
 
@@ -305,13 +347,18 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Addition to be reconstructed: recover the total of the stripped addition*
+*Addition to be reconstructed: find the total of the addition that has been cut into strips*
 
-> This addition (exact) was reduced to strips by nasty scissors before being thrown into the trash. The strips we found are mixed. The figure here opposite shows the disorder. What is the total?
+> This (exact) addition was cut into strips by clumsy scissor cuts before being thrown in the bin. The strips found are mixed together. The figure opposite shows the mess. What is the total obtained?
 
 ![[src_bocconi_finaleint_2007_g1__q10.png]]
 
-**Answer:** 6 511 962
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q10|src_bocconi_finaleint_2007_g1__Q10]]
 
 
 
@@ -334,11 +381,15 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two TGVs in reverse direction between A and C passing through B: time between their departure moments*
+*Two TGVs traveling in opposite directions between A and C via B: the time between their departure instants*
 
-> Two trains run in reverse between cities A and C, passing through B. Between A and B the speed and $250$ km/h during $2$ hours, and between B and C $360$ km in $3$ hours. The TGV number $1$ runs AC, and the TGV number $2$ runs CA, at $3$ km from their route. How long is the time between the departure of the two TGVs? (in hours, minutes and seconds).
+> Two trains run in opposite directions between cities A and C, passing through B. Between A and B, the speed is $250$ km/h for $2$ hours, and between B and C, the distance is $360$ km in $3$ hours. TGV number $1$ travels from A to C, and TGV number $2$ travels from C to A, at a distance of $3$ km from their route. How much time is there between the departure times of the two TGV trains? (in hours, minutes, and seconds).
 
-**Answer:** 1 h 33 min 36 s
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q11|src_bocconi_finaleint_2007_g1__Q11]]
 
 
 
@@ -364,13 +415,18 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Magic addition: complete the table with 1,2,3, two empty boxes per row, and sums at the edges*
+*Magic addition: complete the table using the digits 1, 2, and 3, with two empty cells per row and sums on the edges*
 
-> Each row and column in this table must contain the digits $1$, $2$, $3$, and so two empty boxes. The numbers outside the table indicate the total of the figures in the corresponding horizontal line or vertical column, read from left to right or from top to bottom. In a row, two adjacent numbers must be separated at least by an empty box or by two digits whose writing forms a number. Complete the table.
+> Each row and each column of this table must contain the digits $1$, $2$, $3$, and thus two empty cells. The numbers outside the table indicate the total of the digits in the corresponding horizontal row or vertical column, read from left to right or from top to bottom. In a row, two adjacent numbers must be separated, at minimum, by an empty cell or by two digits whose arrangement forms a number. Complete the table.
 
 ![[src_bocconi_finaleint_2007_g1__q12.png]]
 
-**Answer:** see grid
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q12|src_bocconi_finaleint_2007_g1__Q12]]
 
 
 
@@ -396,13 +452,18 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Terrain of Pere Icles: area of the pentagon with angles of 45, 90, 225 degrees and diagonal AB=152 m*
+*Pere Icles Land: a pentagonal area with angles of 45°, 90°, and 225°, and diagonal AB = 152 m*
 
-> The Pere Icles has a pentagon-shaped land. As indicated in the figure, the two smaller sides of this pentagon are of the same length and the inner angles all measure $45^\circ$, $90^\circ$ or $225^\circ$. When Pere Icles is asked the area of his land, he simply answers: \"The AB diagonal measures exactly $152$ meters. You know enough to calculate the land area!" What is the area of the pre d'Icles (in $\mathrm{m}^2$)?
+> Pere Icles owns a piece of land shaped like a pentagon. As shown in the figure, the two shortest sides of this pentagon are of equal length, and all of the interior angles measure $45^\circ$, $90^\circ$, or $225^\circ$. When Pere Icles is asked for the area of his land, he simply replies: "The diagonal AB is exactly $152$ metres long. You know enough to calculate the area of the land!" What is the area of Pere Icles's field (in $\mathrm{m}^2$)?
 
 ![[src_bocconi_finaleint_2007_g1__q13.png]]
 
-**Answer:** $11\,552\ \mathrm{m}^2$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q13|src_bocconi_finaleint_2007_g1__Q13]]
 
 
 
@@ -428,13 +489,18 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs and odd: result of multiplication by symbols equal to numbers (triangle) and odd numbers (square)*
+*Even and odd: result of multiplication using symbols that represent even digits (triangle) and odd digits (square)*
 
-> Each $\blacktriangle$ represents an equal number. Each $\blacksquare$ is an odd number. What is the result of this multiplication: $\blacktriangle\blacktriangle\blacksquare \times \blacksquare = \blacktriangle\blacksquare\blacktriangle\blacktriangle$?
+> Each $\blacktriangle$ represents an even digit. Each $\blacksquare$ represents an odd digit. What is the result of this multiplication: $\blacktriangle\blacktriangle\blacksquare \times \blacksquare = \blacktriangle\blacksquare\blacktriangle\blacktriangle$?
 
 ![[src_bocconi_finaleint_2007_g1__q14.png]]
 
-**Answer:** 7520
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q14|src_bocconi_finaleint_2007_g1__Q14]]
 
 
 
@@ -460,13 +526,18 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Calcions range: how many ways to dispose of 16 calissons (rombs) in the hexagonal box*
+*Range of calissons: in how many ways can 16 calissons (rhombi) be arranged in the hexagonal box?*
 
-> How many ways can 16 calissons be arranged in a box without overlapping? A calisson and a rum-shaped dessert consisting of two equilateral triangles (see grey example). It can take three different directions. A solution obtained from another by symmetry shall be considered distinct.
+> In how many ways can sixteen calissons be arranged in the box without overlapping? A calisson is a rhombus-shaped confection made up of two equilateral triangles (see the gray example). It can assume three different orientations. A solution obtained from another by symmetry will be considered distinct.
 
 ![[src_bocconi_finaleint_2007_g1__q15.png]]
 
-**Answer:** 50
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q15|src_bocconi_finaleint_2007_g1__Q15]]
 
 
 
@@ -492,13 +563,18 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tiger head: trace the cut into two pieces along the sides or diagonals at 45 degrees of the grid*
+*Tiger's Head: trace the cutout in two pieces along the sides or the 45-degree diagonals of the grid*
 
-> The figure represents a tiger's head. The colours of the fur break down the head into two distinct pieces. Trace the cut, knowing that it passes only through the sides or diagonal $45^\circ$ of the grid boxes. There's only one solution and one request.
+> The figure depicts a tiger's head. The colors of the fur divide the head into two distinct pieces. Trace the cutout, knowing that it passes exclusively through the sides or the diagonals at $45^\circ$ of the grid squares. Only one solution is required.
 
 ![[src_bocconi_finaleint_2007_g1__q16.png]]
 
-**Answer:** see figure
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q16|src_bocconi_finaleint_2007_g1__Q16]]
 
 
 
@@ -524,13 +600,18 @@ T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbere
 <div class="qlang-split" data-lang="en"></div>
 
 
-Oasis: Mira-Jeu - whole coconut, Ananas-Mira-Jeu-Banane angle of 135 degrees, Mira-Jeu 1 km from Ananas
+*Oasis: distance Mira-Jeu – Coco whole, Ananas-Mira-Jeu-Banane corner at 135 degrees, Mira-Jeu 1 km from Ananas*
 
-> Pineapples, Banana, Coconut and Orange are villages located on the four peaks of a square desert. Mira-Jeu is an oasis whose distances from Ananas, Banana and Coco are integers, not nulls and less than $100$ kilometres. From Mira-Jeu you can see pineapples and bananas at an angle of $135^\circ$. Mira-Jeu is in fact located $1$ kilometre from Ananas. What is the distance, expressed in kilometres, from Mira-Jeu to Coco?
+> Ananas, Banane, Coco, and Orange are villages located at the four corners of a square desert. Mira-Jeu is an oasis whose distances from Ananas, Banane, and Coco are non-zero integers less than $100$ kilometres. From Mira-Jeu, Ananas and Banane are visible at an angle of $135^\circ$. In fact, Mira-Jeu is $1$ kilometres from Ananas. What is the distance from Mira-Jeu to Coco, expressed in kilometres?
 
 ![[src_bocconi_finaleint_2007_g1__q17.png]]
 
-**Answer:** 3 km, 17 km, 99 km
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q17|src_bocconi_finaleint_2007_g1__Q17]]
 
 
 
@@ -555,8 +636,15 @@ Oasis: Mira-Jeu - whole coconut, Ananas-Mira-Jeu-Banane angle of 135 degrees, Mi
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sandbeds: number of convex polyhedra with 3 spikes per nine-sided tip and base*
+*Piles of sand: number of convex polyhedra with 3 edges per vertex and a 9-sided base*
 
-> A pile of sand and a convex polyhedron one of whose faces, called the base, and in contact with the ground. What's more, exactly three spikes pass through each vertex. Sand piles obtained from each other by translation, rotation and symmetry are considered equal. So you count three different piles of sand on a square base. How many piles of sand exist with a base at $9$ sides?
+> A pile of sand and a convex polyhedron, one of whose faces—called the base—is in contact with the ground. Moreover, exactly three edges meet at each vertex. Piles of sand that can be obtained from one another by translations, rotations, and symmetries are considered identical. Thus, three distinct piles of sand with a square base are counted. How many piles of sand are there with a base having $9$ sides?
 
 ![[src_bocconi_finaleint_2007_g1__q18.png]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2007_g1#q18|src_bocconi_finaleint_2007_g1__Q18]]

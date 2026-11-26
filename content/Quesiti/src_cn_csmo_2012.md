@@ -29,9 +29,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il triplo (l,m,n) con somme parziali che formano una sequenza geometrica*
+*Trovare la terna (l,m,n) tale che le somme parziali formino una progressione geometrica*
 
-> Trovare un triplo $(l, m, n)$ $(1 < l < m < n)$ di numeri interi positivi in modo che $\sum_{k=1}^{l} k$, $\sum_{k=l+1}^{m} k$, $\sum_{k=m+1}^{n} k$ formino una sequenza geometrica in ordine. (posta da Tao Pingsheng)
+> Trovare una tripla $(l, m, n)$ $(1 < l < m < n)$ di interi positivi tale che $\sum_{k=1}^{l} k$, $\sum_{k=l+1}^{m} k$, $\sum_{k=m+1}^{n} k$ formino, in quest'ordine, una progressione geometrica. (proposto da Tao Pingsheng)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2012#q01|src_cn_csmo_2012__Q01]]
 
 
 
@@ -56,11 +63,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Intersezioni di accordi in cerchio: prova l'eguaglianza del prodotto DM·KE = DN·KF*
+*Intersezioni delle corde dell'incircolo: dimostrare l'uguaglianza dei prodotti DM·KE = DN·KF*
 
-> $\odot I$ sia l'incircolo di $\triangle ABC$. Il cerchio $\odot I$ incrocia i lati $AB$, $BC$ e $CA$ rispettivamente nei punti $D$, $E$ e $F$. La linea $EF$ incrocia le linee $AB$, $BI$ e $DI$ rispettivamente ai punti $M$, $N$ e $K$. Prova che $DM \cdot KE = DN \cdot KF$. (Posizionato da Zhang Pengcheng)
+> Sia $\odot I$ l'incirconferenza di $\triangle ABC$. La circonferenza $\odot I$ interseca i lati $AB$, $BC$ e $CA$ nei punti $D$, $E$ e $F$, rispettivamente. La retta $EF$ interseca le rette $AB$, $BI$ e $DI$ nei punti $M$, $N$ e $K$, rispettivamente. Dimostrare che $DM \cdot KE = DN \cdot KF$. (proposto da Zhang Pengcheng)
 
 ![[src_cn_csmo_b11_w301__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_csmo_2012#q02|src_cn_csmo_2012__Q02]]
 
 
 
@@ -84,11 +98,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i composti n dove i due più grandi divisori sono uguali a una potenza dei tre più piccoli*
+*Trovare tutti i numeri composti n per cui i due divisori più grandi sono uguali a una potenza dei tre divisori più piccoli*
 
-> Per il numero composto positivo $n$, indicare rispettivamente con $f(n)$ e $g(n)$ i tre divisori positivi più piccoli di $n$ e i due divisori positivi più grandi di $n$. Trova tutti $n$ in modo tale che $g(n)$ sia uguale a $f(n)$ a qualche potenza di numeri interi positivi. (Possibile da He Yijie)
+> Per il numero composto positivo $n$, si indichino con $f(n)$ e $g(n)$ rispettivamente il più piccolo dei tre divisori positivi di $n$ e il più grande dei due divisori positivi di $n$. Si determinino tutti gli $n$ tali che $g(n)$ sia uguale a $f(n)$ elevato a una potenza con esponente intero positivo. (proposto da He Yijie)
 
-**Risposta:** $n = 4 \times 6^l$ con $l \in \mathbf{N}^*$
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2012#q03|src_cn_csmo_2012__Q03]]
 
 
 
@@ -114,11 +133,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare a+b-c+d per i numeri reali con cosine inconveniente di disuguaglianza*
+*Massimizza a+b-c+d per numeri reali con vincolo di disuguaglianza del coseno*
 
-> Lasciate che i numeri reali $a$, $b$, $c$ e $d$ soddisfino $$f(x) = a\cos x + b\cos 2x + c\cos 3x + d\cos 4x \leq 1$$ per qualsiasi numero reale $x$. Trova i valori di $a$, $b$, $c$ e $d$ in modo tale che $a + b - c + d$ abbia il numero massimo. (Posizionato da Li Shenghong)
+> Siano i numeri reali $a$, $b$, $c$ e $d$ tali che
+> $$f(x) = a\cos x + b\cos 2x + c\cos 3x + d\cos 4x \leq 1$$
+> per ogni numero reale $x$. Determinare i valori di $a$, $b$, $c$ e $d$ tali che $a + b - c + d$ assuma il valore massimo. (proposto da Li Shenghong)
 
-**Risposta:** 3
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_cn_csmo_2012#q04|src_cn_csmo_2012__Q04]]
 
 
 
@@ -142,11 +168,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri a sei corrispondenze (multiplicato di 6 con somma digitali multiple di 6) inferiori a 2012*
+*Conta i numeri di sei cifre (multipli di 6 con somma delle cifre multipla di 6) minori di 2012*
 
-> Un numero non negativo $m$ è chiamato *six match number*. Se $m$ e la somma delle sue cifre sono entrambi multipli di $6$, trovare il numero dei sei numeri corrispondenti inferiore a $2012$. (posta da Tao Pingsheng)
+> Un numero non negativo $m$ è chiamato *numero sei-match*. Se $m$ e la somma delle sue cifre sono entrambi multipli di $6$, determina il numero dei numeri sei-match minori di $2012$. (proposto da Tao Pingsheng)
 
-**Risposta:** 108
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2012#q05|src_cn_csmo_2012__Q05]]
 
 
 
@@ -172,11 +203,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca un numero intero positivo minimo n che soddisfi una disuguaglianza radicale annidata*
+*Trovare il minimo intero positivo n che soddisfa una disuguaglianza con radicale annidato*
 
-> Trova il numero intero positivo minimo $n$ tale da $$\sqrt{\frac{n-2011}{n+2012}} < \sqrt{\frac{n-2012}{n+2013}}$$ (posato da Liu Guimei)
+> Trovare il minimo intero positivo $n$ tale che
+> $$\sqrt{\frac{n-2011}{n+2012}} < \sqrt{\frac{n-2012}{n+2013}}$$
+> (proposto da Liu Guimei)
 
-**Risposta:** 4023
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2012#q06|src_cn_csmo_2012__Q06]]
 
 
 
@@ -202,10 +240,15 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel triangolo con angolo bisettore e piede perpendicolare, trovare angolo AME*
+*In un triangolo con la bisettrice di un angolo e il piede della perpendicolare, determina l'angolo AME*
 
-> In $\triangle ABC$ con $AB = 1$, $D$ deve essere un punto su $AC$ tale che $\angle ABD = \angle C$ e $E$ deve essere un punto su $AB$ tale che $BE \perp DE$. Il $H$ deve essere un punto su $DE$ tale che $AH \perp DE$ e $M$ siano il punto medio di $CD$. Trova il valore di $\angle AME$. (Posizionato da Xiong Bin)
+> In $\triangle ABC$ con $AB = 1$, sia $D$ un punto su $AC$ tale che $\angle ABD = \angle C$, e sia $E$ un punto su $AB$ tale che $BE \perp DE$. Sia $H$ un punto su $DE$ tale che $AH \perp DE$, e sia $M$ il punto medio di $CD$. Determinare il valore di $\angle AME$. (proposto da Xiong Bin)
 
 ![[src_cn_csmo_b11_w301__q07.png]]
 
-**Risposta:** $90^\circ$
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_csmo_2012#q07|src_cn_csmo_2012__Q07]]

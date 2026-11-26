@@ -49,7 +49,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two triangles with two sides and a height equal are congruent?*
+*Are two triangles with two equal sides and an equal height congruent?*
 
 ![[src_kangourou_2024_student_finale__probs1.png]]
 
@@ -71,9 +71,13 @@ level: kangourou
 \end{document}
 ```
 
-> Two triangles are given. The lengths of two sides of the one coincide with the lengths of two sides of the other and the height relative to the third side of one coincides with that relative to the third side of the other. Are the two triangles necessarily congruent?
+> Two triangles are given. The lengths of two of the sides of one triangle coincide with the lengths of two of the sides of the other triangle, and the altitude corresponding to the third side of one triangle coincides with the altitude corresponding to the third side of the other triangle. Are the two triangles necessarily congruent?
 
-**Answer:** no
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_student_finale#qs1|src_kangourou_2024_student_finale__QS1]]
 
 
 
@@ -96,11 +100,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*City of air operations on the first day of the second month*
+*Aircraft operating city on the first day of the first month*
 
-> I don't drink coffee only on Mondays and Saturdays. An aircraft is used on alternate days on the Milan–Cagliari and Milan–Palermo routes with daily round-trip flights operated weekly from Tuesday to Sunday included; every Monday it is stationary for maintenance. During a year there were two consecutive months during which it operated for a total of 53 days, the first of which was in Cagliari. On the first day of the first of these two months, I didn't drink coffee. Is it possible to determine which city the aircraft operated in on the first day of operation in the second month? Is it possible to determine whether that day coincides with the first day of the month?
+> I do not drink coffee on Mondays and Saturdays only. An aircraft is used on alternate days on the Milan–Cagliari and Milan–Palermo routes, with daily round-trip flights operated weekly from Tuesday to Sunday inclusive; every Monday it is grounded for maintenance. Over the course of a year, there were two consecutive months during which it operated for a total of 53 days, the first of those days being on the Cagliari route. On the first day of the first of these two months, I did not drink coffee. Is it possible to determine which city the aircraft operated in on the first day of operations in the second month? Is it possible to determine whether that day coincides with the first day of the month?
 
-**Answer:** yes, Cagliari
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_student_finale#qs2|src_kangourou_2024_student_finale__QS2]]
 
 
 
@@ -126,13 +134,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum N(P) diagonal intersections in a pentagon*
+*Minimum number N(P) of diagonal intersections in a pentagon*
 
 ![[src_kangourou_2024_student_finale__probs3.png]]
 
-> For a polygon (plane) $P$, not necessarily convex, we indicate with $N(P)$ the number of points that are diagonal intersections and not vertices. If $P$ is a quadrilateral, $N(P)$ may be only $1$ or $0$. If $P$ is a pentagon, the maximum possible value for $N(P)$ is $5$ (e.g. if $P$ is regular); instead, what is the minimum possible value? (In any polygon, by diagonal means a segment that joins two non-adjacent vertices.)
+> For a (plane) polygon $P$, not necessarily convex, let $N(P)$ denote the number of points that are intersections of diagonals and are not vertices. If $P$ is a quadrilateral, then $N(P)$ can only be $1$ or $0$. If $P$ is a pentagon, the maximum possible value of $N(P)$ is $5$ (for example, if $P$ is regular); what, however, is the minimum possible value? (In any polygon, a diagonal is a line segment joining two non-adjacent vertices.)
 
-**Answer:** 0
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_student_finale#qs3|src_kangourou_2024_student_finale__QS3]]
 
 
 
@@ -156,11 +169,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Are there any perfectly square ABBA palindromes?
+*Do perfect square ABBA palindromes exist?*
 
-> Are there 4-digit palindromes (i.e. $\overline{ABBA}$ with $A \neq 0$) in decimal notation, which are perfect squares?
+> Are there any 4-digit palindromic integers (that is, of the form $\overline{ABBA}$ with $A \neq 0$) in decimal notation that are perfect squares?
 
-**Answer:** No
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_student_finale#qs4|src_kangourou_2024_student_finale__QS4]]
 
 
 
@@ -191,15 +209,23 @@ Are there any perfectly square ABBA palindromes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length XE with incircle radius 4 and YD=3*
+*XE length with a circle of radius 4 and YD=3*
 
 ![[src_kangourou_2024_student_finale__probs5.png]]
 
-> Let $ABC$ be a triangle and $O$ the center of its inscribed circle $\gamma$. The $|FG|$ symbol shall indicate the length of the segment with endpoints $F$ and $G$. Let: - $D$ the midpoint of side $BC$, - $Y$ the point of contact between $\gamma$ and side $BC$, - $E$ the point on side $BC$ such that $|AB| + |BE| = |AC| + |CE|$, - $X$ the point of intersection of segment $AE$ with $\gamma$ closest to $A$.
-> 
-> If the radius of $\gamma$ is $4$ and $|YD| = 3$, what is $|XE|$?
+> Let $ABC$ be a triangle and let $O$ be the center of its incircle $\gamma$. Let the symbol $|FG|$ denote the length of the line segment with endpoints $F$ and $G$. Let:
+> - $D$ the midpoint of side $BC$,
+> - $Y$ the point of contact between $\gamma$ and side $BC$,
+> - $E$ the point on side $BC$ such that $|AB| + |BE| = |AC| + |CE|$,
+> - $X$ is the intersection point of the segment $AE$ with $\gamma$ that is closest to $A$.
+>
+> If the radius of $\gamma$ is $4$ and $|YD| = 3$, what is the value of $|XE|$?
 
-**Answer:** 10
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_student_finale#qs5|src_kangourou_2024_student_finale__QS5]]
 
 
 
@@ -222,8 +248,12 @@ Are there any perfectly square ABBA palindromes?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of employees maximising working days*
+*Number of employees that maximizes working days*
 
-> There are no fixed holidays in the Kanglandia calendar, but under a trade union agreement, a company is obliged to declare a "holiday for all" every day that is a birthday for at least one employee. The date of birth of an employee shall not be taken into account when he is hired. Suppose that the years are all $365$ days and that the Kangland births are evenly distributed throughout the year. A company wants to maximize the total number of working days of its employees over the course of a year, but it must determine in advance the number of employees to be hired. How many employees should you hire? (Note: the annual total working days with $1$ employee would be $364$, with $2$ would be $2 \times 363$ if birthdays fell on different days, $2 \times 364$ if they fell on the same day.)
+> In Kanglandia's calendar, there are no holidays established in advance; however, under a collective bargaining agreement, a company is required to declare "a holiday for everyone" on every day that is a birthday for at least one employee. When an employee is hired, their date of birth is not taken into account at all. Suppose all years have $365$ days and that births in Kanglandia are uniformly distributed throughout the year. A company wants to aim to maximize the total number of working days of its employees over the course of a year, but it must determine in advance how many employees to hire. How many employees should it hire to best advantage? (Note: the total annual working days with $1$ employees would be $364$; with $2$, they would be $2 \times 363$ if birthdays fell on different days, and $2 \times 364$ if they fell on the same day.)
 
-**Answer:** 364 or 365
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_student_finale#qs6|src_kangourou_2024_student_finale__QS6]]

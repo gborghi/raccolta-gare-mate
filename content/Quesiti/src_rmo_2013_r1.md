@@ -29,9 +29,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto con circoncircolo, angolo di ricerca BAC*
+*Triangolo acuto con circonferenza circoscritta: determina l'angolo BAC*
 
-> Lasciate che $ABC$ sia un triangolo angolato acuto. Il cerchio $\Gamma$ con $BC$ come diametro si interseca di nuovo con $AB$ e $AC$ rispettivamente a $P$ e $Q$. Determinare $\angle BAC$ dato che l'ortocentro del triangolo $APQ$ si trova su $\Gamma$.
+> Sia $ABC$ un triangolo acutangolo. Il cerchio $\Gamma$ avente $BC$ come diametro interseca $AB$ e $AC$ nuovamente in $P$ e $Q$, rispettivamente. Determinare $\angle BAC$ sapendo che l'ortocentro del triangolo $APQ$ giace su $\Gamma$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2013_r1#q01|src_rmo_2013_r1__Q01]]
 
 
 
@@ -57,9 +64,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova a^2013 + b^2013 + c^2013 date le condizioni radicali polinomiche*
+*Trovare a^2013 + b^2013 + c^2013 dati i vincoli sulle radici del polinomio*
 
-> $f(x) = x^3 + ax^2 + bx + c$ e $g(x) = x^3 + bx^2 + cx + a$, dove $a, b, c$ sono integri con $c \neq 0$. Supponiamo che siano valide le seguenti condizioni: a) $f(1) = 0$; b) le radici di $g(x)$ sono quadrati delle radici di $f(x)$. Trova il valore di $a^{2013} + b^{2013} + c^{2013}$.
+> Siano $f(x) = x^3 + ax^2 + bx + c$ e $g(x) = x^3 + bx^2 + cx + a$, dove $a, b, c$ sono interi con $c \neq 0$. Si supponga che valgano le seguenti condizioni:
+> (a) $f(1) = 0$;
+> (b) le radici di $g(x)$ sono i quadrati delle radici di $f(x)$.
+> Trovare il valore di $a^{2013} + b^{2013} + c^{2013}$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2013_r1#q02|src_rmo_2013_r1__Q02]]
 
 
 
@@ -82,9 +99,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i numeri primi p,q in modo che p divida q^2-4 e q divida p^2-1*
+*Trovare tutti i numeri primi p, q tali che p divida q^2-4 e q divida p^2-1*
 
-> Trova tutti i numeri primi $p$ e $q$ in modo tale che $p$ divida $q^2 - 4$ e $q$ divida $p^2 - 1$.
+> Trovare tutti i numeri primi $p$ e $q$ tali che $p$ divida $q^2 - 4$ e $q$ divida $p^2 - 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2013_r1#q03|src_rmo_2013_r1__Q03]]
 
 
 
@@ -108,9 +132,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare 10 triples di numeri interi con voci limitate e condizione somma di prodotti*
+*Conta le 10-tuple di interi con componenti limitate e condizione di somma di prodotti*
 
-> Trova il numero di 10 tupli $(a_1, a_2, \ldots, a_{10})$ di numeri interi come $|a_i| \leq 1$ e $$a_1^2 + a_2^2 + a_3^2 + \cdots + a_{10}^2 - a_1 a_2 - a_2 a_3 - a_3 a_4 - \cdots - a_9 a_{10} - a_{10} a_1 = 2.$$
+> Trovare il numero di 10-tuple $(a_1, a_2, \ldots, a_{10})$ di interi tali che $|a_i| \leq 1$ e
+> $$a_1^2 + a_2^2 + a_3^2 + \cdots + a_{10}^2 - a_1 a_2 - a_2 a_3 - a_3 a_4 - \cdots - a_9 a_{10} - a_{10} a_1 = 2.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2013_r1#q04|src_rmo_2013_r1__Q04]]
 
 
 
@@ -133,9 +165,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con angolo A=90 e punto D,E su BC; prova angolo DAE=45*
+*Triangolo con angolo A=90 e punti D,E su BC; dimostrare che l'angolo DAE=45*
 
-> Il $ABC$ deve essere un triangolo con $\angle A = 90^\circ$ e $AB = AC$. Il punto $D$ e il punto $E$ devono essere punti del segmento $BC$ in modo tale che $BD : DE : EC = 3 : 5 : 4$. Dimostra che $\angle DAE = 45^\circ$.
+> Sia $ABC$ un triangolo con $\angle A = 90^\circ$ e $AB = AC$. Siano $D$ e $E$ dei punti sul segmento $BC$ tali che $BD : DE : EC = 3 : 5 : 4$. Dimostrare che $\angle DAE = 45^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2013_r1#q05|src_rmo_2013_r1__Q05]]
 
 
 
@@ -158,6 +197,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove n divisibile per 6 dato che entrambe le quadratiche hanno radici interi*
+*Dimostrazione che n è divisibile per 6, dato che entrambi i polinomi di secondo grado hanno radici intere*
 
-> Supponiamo che $m$ e $n$ siano integri in modo tale che entrambe le equazioni quadratiche $x^2 + mx - n = 0$ e $x^2 - mx + n = 0$ abbiano radici interi. Provare che $n$ è divisibile da $6$.
+> Supponiamo che $m$ e $n$ siano interi tali che entrambe le equazioni quadratiche $x^2 + mx - n = 0$ e $x^2 - mx + n = 0$ abbiano radici intere. Dimostrare che $n$ è divisibile per $6$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2013_r1#q06|src_rmo_2013_r1__Q06]]

@@ -31,11 +31,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo quadrante inserito nel quadrato unitario, radio*
+*Cerchio del quadrante inscritto nel quadrato unitario: trovare il raggio*
 
-> Lasciate che $ABCD$ sia un quadrato unitario. Disegnare un quadrante di un cerchio con $A$ come centro e $B$, $D$ come punti finali dell'arco. Allo stesso modo, disegnare un quadrante di un cerchio con $B$ come centro e $A$, $C$ come punti finali dell'arco. Inserire un cerchio $\Gamma$ che tocchi l'arco $AC$ internamente, l'arco $BD$ internamente e anche il lato $AB$. Trova il raggio del cerchio $\Gamma$.
+> Sia $ABCD$ un quadrato unitario. Traccia un quadrante di cerchio con centro in $A$ e con $B$, $D$ come estremi dell'arco. Analogamente, traccia un quadrante di cerchio con centro in $B$ e con $A$, $C$ come estremi dell'arco. Inscrivi un cerchio $\Gamma$ che tocchi internamente l'arco $AC$, tocchi internamente l'arco $BD$ e tocchi anche il lato $AB$. Determinare il raggio del cerchio $\Gamma$.
 
 ![[src_rmo_2012_r2__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2012_r2#q01|src_rmo_2012_r2__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieri positivi con divisibilità, stesso insieme di divisori primi*
+*Numeri interi positivi con divisibilità, stesso insieme di divisori primi*
 
-> Lasciate che $a, b, c$ siano integri positivi in modo tale che $a$ divida $b^5$, $b$ divida $c^4$ e $c$ divida $a^3$. Provare che $abc$ divide $(a + b + c)^{21}$.
+> Siano $a, b, c$ numeri interi positivi tali che $a$ divida $b^5$, $b$ divida $c^4$ e $c$ divida $a^3$. Dimostrare che $abc$ divide $(a + b + c)^{21}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2012_r2#q02|src_rmo_2012_r2__Q02]]
 
 
 
@@ -83,9 +97,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coppie di conteggio {A,B} con sottoinsiemi A,B di {1,...,12} che soddisfano le condizioni*
+*Conta le coppie {A,B} tali che A e B siano sottoinsiemi di {1,...,12} e soddisfino le condizioni*
 
-> Let $X = \{1, 2, 3, \ldots, 12\}$. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{2, 3, 5, 7, 8\}$.
+> Sia $X = \{1, 2, 3, \ldots, 12\}$. Determinare il numero di coppie $\{A, B\}$ tali che $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{2, 3, 5, 7, 8\}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2012_r2#q04|src_rmo_2012_r2__Q04]]
 
 
 
@@ -110,11 +131,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ceviani triangolari, rapporto tra BP/PQ*
+*Ceviane di un triangolo: determina il rapporto BP/PQ*
 
-> Lasciate che $ABC$ sia un triangolo. Se il segmento $D$, $E$ sono punti del segmento $BC$ in modo tale che $BD = DE = EC$. Il $F$ deve essere il punto medio di $AC$. In $P$ $AD$ e in $Q$ $AE$ si intersecano rispettivamente. Determinare $BP/PQ$.
+> Sia $ABC$ un triangolo. Siano $D$, $E$ dei punti sul segmento $BC$ tali che $BD = DE = EC$. Sia $F$ il punto medio di $AC$. Siano $BF$ e $AE$ incidenti a $AD$ in $P$ e a $Q$ rispettivamente. Determinare $BP/PQ$.
 
 ![[src_rmo_2012_r2__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2012_r2#q05|src_rmo_2012_r2__Q05]]
 
 
 
@@ -137,6 +165,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra che x^3y+y^3z+z^3x è costante dato due condizioni lineari*
+*Mostrare che x^3y+y^3z+z^3x è costante date due condizioni lineari*
 
-> Indicare che per tutti i numeri reali $x, y, z$ tali che $x + y + z = -3$ e $xy + yz + zx = -3$, l'espressione $x^3 y + y^3 z + z^3 x$ è una costante.
+> Dimostrare che, per tutti i numeri reali $x, y, z$ tali che $x + y + z = -3$ e $xy + yz + zx = -3$, l'espressione $x^3 y + y^3 z + z^3 x$ è una costante.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2012_r2#q06|src_rmo_2012_r2__Q06]]

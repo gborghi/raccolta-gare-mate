@@ -22,18 +22,23 @@ level: HMMT November Team Round
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0238
-**Fonte risposta:** [soluzione ufficiale PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/solutions.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.1
+**Fonte:** apri PDF p.1 · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three rectangles in an 8×8 square*
+*Ways to divide an 8×8 square into three rectangles*
 
-> [20] Compute the number of ways to divide an $8 \times 8$ square into 3 rectangles, each with (positive) integer side lengths.
+> [20] Compute the number of ways to divide an $8\times8$ square into 3 rectangles, each with positive integer side lengths.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 0238
+
+[[Quesiti/src_hmmt_2025_nov_team#q01|src_hmmt_2025_nov_team__Q01]]
 
 
 
@@ -49,18 +54,23 @@ level: HMMT November Team Round
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0855
-**Fonte risposta:** [soluzione ufficiale PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/solutions.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.1
+**Fonte:** apri PDF p.1 · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squares using every digit*
+*Squares on the board using every non-zero digit once*
 
-> [25] Mark writes the squares of several distinct positive integers (in base 10) on a blackboard. Given that each nonzero digit appears exactly once on the blackboard, compute the smallest possible sum of the numbers on the blackboard.
+> [25] Mark writes on the board the squares of some distinct positive integers (in base 10). Given that every non-zero digit appears on the board exactly once, compute the least possible sum of the numbers written.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 0855
+
+[[Quesiti/src_hmmt_2025_nov_team#q02|src_hmmt_2025_nov_team__Q02]]
 
 
 
@@ -76,18 +86,23 @@ level: HMMT November Team Round
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** $\sqrt{3}-1$
-**Fonte risposta:** [soluzione ufficiale PDF p.2](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/solutions.pdf#page=2)
-**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.2
+**Fonte:** apri PDF p.1 · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two squares and a circumcenter*
+*Two squares and a circumcentre*
 
-> [30] Let $ABCD$ and $CEFG$ be squares such that $C$ lies on segment $\overline{DG}$ and $E$ lies on segment $\overline{BC}$. Let $O$ be the circumcenter of triangle $AEG$. Given that $A$, $D$, and $O$ are collinear and $AB = 1$, compute $FG$.
+> [30] Let $ABCD$ and $CEFG$ be two squares such that $C$ lies on the segment $\overline{DG}$ and $E$ lies on the segment $\overline{BC}$. Let $O$ be the circumcentre of triangle $AEG$. Given that $A$, $D$ and $O$ are collinear and that $AB=1$, compute $FG$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** $\sqrt{3}-1$
+
+[[Quesiti/src_hmmt_2025_nov_team#q03|src_hmmt_2025_nov_team__Q03]]
 
 
 
@@ -103,18 +118,23 @@ level: HMMT November Team Round
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3069
-**Fonte risposta:** [soluzione ufficiale PDF p.3](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/solutions.pdf#page=3)
-**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.3
+**Fonte:** apri PDF p.1 · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Digiroots*
+*Sum of the digiroots below 1000*
 
-> [35] For positive integers $n$ and $k$ with $k > 1$, let $s_k(n)$ denote the sum of the digits of $n$ when written in base $k$. (For instance, $s_3(2025) = 5$ because $2025 = 2210000_3$.) A positive integer $n$ is a *digiroot* if $s_2(n) = \sqrt{s_4(n)}$. Compute the sum of all digiroots less than 1000.
+> [35] For positive integers $n$ and $k$ with $k>1$, let $s_k(n)$ be the sum of the digits of $n$ written in base $k$. (For example, $s_3(2025)=5$ because $2025=2210000_3$.) A positive integer $n$ is called a *digiroot* if $s_2(n)=\sqrt{s_4(n)}$. Compute the sum of all digiroots less than 1000.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 3069
+
+[[Quesiti/src_hmmt_2025_nov_team#q04|src_hmmt_2025_nov_team__Q04]]
 
 
 
@@ -131,19 +151,24 @@ level: HMMT November Team Round
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0175
-**Fonte risposta:** [soluzione ufficiale PDF p.3](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/solutions.pdf#page=3)
-**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.3
+**Fonte:** apri PDF p.1 · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Kelvin and the raccoon*
+*Expected number of paths for Kelvin avoiding a raccoon*
 
-> [40] Kelvin the frog is in the bottom-left cell of a $6 \times 6$ grid, and he wants to reach the top-right cell. He can take steps either up one cell or right one cell. However, there is a raccoon in one of the 36 cells uniformly at random, and Kelvin's path must avoid this raccoon. Compute the expected number of distinct paths Kelvin can take to reach the top-right cell.
-> (If the raccoon is in either the bottom-left or top-right cell, then there are 0 such paths.)
+> [40] The frog Kelvin is in the bottom-left cell of a $6\times6$ grid and wants to reach the top-right cell. He may step one cell up or one cell right. In one of the 36 cells, chosen uniformly at random, there is a raccoon, and Kelvin's path must avoid it. Compute the expected number of distinct paths Kelvin can follow to reach the top-right cell.
+> (If the raccoon is in the bottom-left cell or the top-right cell, there are 0 paths.)
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 0175
+
+[[Quesiti/src_hmmt_2025_nov_team#q05|src_hmmt_2025_nov_team__Q05]]
 
 
 
@@ -159,18 +184,23 @@ level: HMMT November Team Round
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** $96-10\sqrt{21}$
-**Fonte risposta:** [soluzione ufficiale PDF p.3](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/solutions.pdf#page=3)
-**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.3
+**Fonte:** apri PDF p.1 · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Concave quadrilateral*
+*Area of a concave quadrilateral*
 
-> [45] Let $P$ be a point inside triangle $ABC$ such that $BP = PC$ and $\angle ABP + \angle ACP = 90^\circ$. Given that $AB = 12$, $AC = 16$, and $AP = 11$, compute the area of the concave quadrilateral $ABPC$.
+> [45] Let $P$ be a point inside triangle $ABC$ such that $BP=PC$ and $\angle ABP+\angle ACP=90^\circ$. Given that $AB=12$, $AC=16$ and $AP=11$, compute the area of the concave quadrilateral $ABPC$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** $96-10\sqrt{21}$
+
+[[Quesiti/src_hmmt_2025_nov_team#q06|src_hmmt_2025_nov_team__Q06]]
 
 
 
@@ -186,18 +216,23 @@ level: HMMT November Team Round
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5940
-**Fonte risposta:** [soluzione ufficiale PDF p.4](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/solutions.pdf#page=4)
-**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.4
+**Fonte:** apri PDF p.1 · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triples with a + b = c below 143*
+*Ordered triples in S with a + b = c*
 
-> [45] Let $S$ be the set of all positive integers less than 143 that are relatively prime to 143. Compute the number of ordered triples $(a, b, c)$ of elements of $S$ such that $a + b = c$.
+> [45] Let $S$ be the set of all positive integers less than 143 and coprime to 143. Compute the number of ordered triples $(a,b,c)$ of elements of $S$ such that $a+b=c$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 5940
+
+[[Quesiti/src_hmmt_2025_nov_team#q07|src_hmmt_2025_nov_team__Q07]]
 
 
 
@@ -215,20 +250,23 @@ level: HMMT November Team Round
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0254
-**Fonte risposta:** [soluzione ufficiale PDF p.4](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/solutions.pdf#page=4)
-**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.4
+**Fonte:** apri PDF p.1 · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alexandrimitrov's walk*
+*Alexandrimitrov's walks on a 3×10 grid*
 
-![[src_hmmt_2025_nov_team__prob8.png]]
+> [50] Alexandrimitrov walks on the $3\times10$ grid of the figure. From a cell he may move to any cell that shares a side with it. Given that he starts from cell $A$, compute the number of ways he can reach cell $B$ visiting every cell exactly once. (Starting from cell $A$ counts as a visit to $A$.)
 
-> [50] Alexandrimitrov is walking in the $3 \times 10$ grid below. He can walk from a cell to any cell that shares an edge with it. Given that he starts in cell $A$, compute the number of ways he can walk to cell $B$ such that he visits every cell exactly once. (Starting in cell $A$ counts as visiting cell $A$.)
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 0254
+
+[[Quesiti/src_hmmt_2025_nov_team#q08|src_hmmt_2025_nov_team__Q08]]
 
 
 
@@ -248,22 +286,27 @@ level: HMMT November Team Round
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\frac{199}{8}$
-**Fonte risposta:** [soluzione ufficiale PDF p.6](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/solutions.pdf#page=6)
-**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.6
+**Fonte:** apri PDF p.1 · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*System with square roots*
+*A system with square roots*
 
-> [55] Let $a$, $b$, and $c$ be positive real numbers such that
+> [55] Let $a$, $b$ and $c$ be positive real numbers such that
 > $$\sqrt a+\sqrt b+\sqrt c=7,$$
 > $$\sqrt{a+1}+\sqrt{b+1}+\sqrt{c+1}=8,$$
 > $$(\sqrt{a+1}+\sqrt a)(\sqrt{b+1}+\sqrt b)(\sqrt{c+1}+\sqrt c)=60.$$
-> Compute $a + b + c$.
+> Compute $a+b+c$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 **Answer:** $\frac{199}{8}$
+
+[[Quesiti/src_hmmt_2025_nov_team#q09|src_hmmt_2025_nov_team__Q09]]
 
 
 
@@ -281,17 +324,22 @@ level: HMMT November Team Round
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** $\frac{3\sqrt{5}}{7}$
-**Fonte risposta:** [soluzione ufficiale PDF p.7](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/solutions.pdf#page=7)
-**Fonte:** [apri PDF p.1](https://hmmt-archive.s3.amazonaws.com/tournaments/2025/nov/team/problems.pdf#page=1) · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
+**Fonte risposta:** soluzione ufficiale PDF p.7
+**Fonte:** apri PDF p.1 · hmmt.org (Harvard–MIT Mathematics Tournament, archivio ufficiale)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Isosceles trapezoid and tripled angles*
+*Isosceles trapezium and tripled angles*
 
-> [55] Let $ABCD$ be an isosceles trapezoid with $\overline{AB}$ parallel to $\overline{CD}$, and let $P$ be a point in the interior of $ABCD$ such that
-> $$\angle PBA=3\angle PAB\quad\text{and}\quad\angle PCD=3\angle PDC.$$
-> Given that $BP = 8$, $CP = 9$, and $\cos\angle APD = \frac{2}{3}$, compute $\cos\angle PAB$.
+> [55] Let $ABCD$ be an isosceles trapezium with $\overline{AB}$ parallel to $\overline{CD}$, and let $P$ be a point inside $ABCD$ such that
+> $$\angle PBA=3\angle PAB\quad\text{e}\quad\angle PCD=3\angle PDC.$$
+> Given that $BP=8$, $CP=9$ and $\cos\angle APD=\frac23$, compute $\cos\angle PAB$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** $\frac{3\sqrt{5}}{7}$
+
+[[Quesiti/src_hmmt_2025_nov_team#q10|src_hmmt_2025_nov_team__Q10]]

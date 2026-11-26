@@ -24,18 +24,21 @@ level: squadre
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0000
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integres with product numbers 33*
+*How many integers have a digit product of 33?*
 
-> Thirty-three
-> How many positive integers are such that the product of their digits is 33?
+> Thirty-three: How many positive integers are there such that the product of their digits is 33?
 
-**Answer:** 0000
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q01|src_kangourou_2019_squadre_ecolier_f__Q01]]
 
 
 
@@ -56,20 +59,22 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0008
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distinct colours of a cube (rotations)*
+*Distinct colorings of a cube (rotations)*
 
-> The painted cube
-> We want to paint some faces of a white cube black. At least one face must turn out black
-> and at least one face must remain white. How many different colorings are possible, meaning
-> two colorings are equal if one can be obtained from the other by rotating the cube?
+> The Painted Cube Some faces of a white cube are to be painted black. At least one face must end up black, and at least one face must remain white. How many different colorings are possible, where two colorings are considered the same if one can be obtained from the other by rotating the cube?
 
-**Answer:** 0008
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q02|src_kangourou_2019_squadre_ecolier_f__Q02]]
 
 
 
@@ -89,20 +94,21 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1011
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance of the kangaroo after 2019 jumps 3 forward 1 backward*
+*Kangaroo's distance after 2019 jumps: 3 forward, 1 backward*
 
-> The kangaroo's jumps
-> A kangaroo always makes jumps of the same length; it moves along a straight road and after having
-> made three jumps forward it makes one backward, then again three forward and one backward, and so on.
-> Measuring the road in jumps, how many jumps is the kangaroo away from the starting point after 2019 jumps?
+> The Kangaroo's Jumps A kangaroo always makes jumps of the same length; it moves along a straight road, and after making three jumps forward, it makes one jump backward, then again three forward and one backward, and so on. If the distance is measured in jumps, how many jumps away from the starting point is the kangaroo after 2019 jumps?
 
-**Answer:** 1011
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q03|src_kangourou_2019_squadre_ecolier_f__Q03]]
 
 
 
@@ -123,20 +129,22 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0012
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Winning sequences heads or tails six throws*
+*Winning sequences: heads or tails, six tosses*
 
-> Heads or tails
-> Caterina plays heads or tails with a coin. She tosses it six times in a row and considers winning the case
-> in which "heads" comes up consecutively for exactly 3 times. How many different sequences that are
-> the outcome of six consecutive tosses turn out to be winning?
+> Heads or Tails: Caterina plays heads or tails with a coin. She tosses it six times in a row and considers a win the case in which "heads" comes up consecutively exactly 3 times. How many different sequences that result from six consecutive tosses count as wins?
 
-**Answer:** 0012
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q04|src_kangourou_2019_squadre_ecolier_f__Q04]]
 
 
 
@@ -162,26 +170,21 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0150
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number thought up to compose the bracelet*
+*Number intended for assembling the bracelet*
 
-> Bracelets
-> Alice makes bracelets out of white and black beads, which begin and end with clasps,
-> following this rule: she thinks of a number, divides it by two and if she does not get a remainder she threads a black
-> bead, if she gets a remainder she threads a white bead; then she repeats the operation on the quotient she obtained
-> with the previous division and goes on like this until she obtains 1 as the quotient: at this point
-> she threads a white bead (and adds the closing clasp). For example, below you see on the
-> left the result if she thinks of 5, on the right the result if she thinks of 6:
-> (the non-circular shape on the left represents the clasp she put on before starting the work,
-> the one on the right represents the clasp she put on at the end).
-> What number must she have thought of in order to make the bracelet that you see below?
+> Alice's bracelets: Alice makes bracelets out of white and black beads, which begin and end with clasps, following this rule: think of a number, divide it by two, and if there is no remainder, thread a black bead; if there is a remainder, thread a white bead. Then repeat the operation on the quotient obtained from the previous division, and continue like this until the quotient is 1: at that point, thread a white bead (and add the closing clasp). For example, below, on the left you see the result if she thinks of 5, and on the right the result if she thinks of 6: (the non-circular shape on the left represents the clasp she put on before starting the work; the one on the right represents the clasp she put on at the end). What number must she have thought of to make the bracelet you see below?
 
-**Answer:** 0150
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q05|src_kangourou_2019_squadre_ecolier_f__Q05]]
 
 
 
@@ -202,20 +205,22 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0164
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number ABC with A AB BC all perfect squares*
+*ABC number with A, AB, BC—all perfect squares*
 
-> Perfect squares
-> A, B and C are three digits and A is different from 0. The three numbers A, AB and BC obtained by placing them side by side can
-> all express the area (in square centimetres) of squares with a side measuring a whole number of
-> centimetres. What number is ABC?
+> The perfect squares A, B, and C are three-digit numbers, and A is not 0. The three numbers A, AB, and BC, obtained by concatenating them, can all represent the area (in square centimeters) of squares whose side measures an integer number of centimeters. What number is ABC?
 
-**Answer:** 0164
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q06|src_kangourou_2019_squadre_ecolier_f__Q06]]
 
 
 
@@ -235,19 +240,22 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1235
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Even numbers with the last six digits equal in an interval*
+*Even numbers with identical last six digits within an interval*
 
-> Even numbers
-> How many even integers are there that are greater than 987,654,321, less than 1,234,567,890 and
-> whose last six digits are all equal to each other?
+> Even numbers: How many even integers are greater than 987,654,321, less than 1,234,567,890, and have all six of their final digits equal to one another?
 
-**Answer:** 1235
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q07|src_kangourou_2019_squadre_ecolier_f__Q07]]
 
 
 
@@ -266,19 +274,21 @@ level: squadre
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0060
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many square tiles (653 figures 2019 sides)*
+*How many square stickers (653 figures 2019 sides)*
 
-> The stickers
-> A box contains triangular stickers and square stickers, for a total of 653 stickers. Counting
-> the sides of all the stickers gives 2019. How many square stickers are there?
+> Stickers: A box contains triangular stickers and square stickers, for a total of 653 stickers. If you count the sides of all the stickers, you get 2019. How many square stickers are there?
 
-**Answer:** 0060
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q08|src_kangourou_2019_squadre_ecolier_f__Q08]]
 
 
 
@@ -299,21 +309,21 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0080
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the orthogonal polygon of area 200*
+*Perimeter of the orthogonal polygon with an area of 200*
 
-> The polygon
-> In the polygon in the figure, the eight short sides have the same length and the four long
-> sides have the same length, double the previous one. Moreover, consecutive sides
-> are perpendicular to each other. If the polygon has area 200 cm², how many centimeters is
-> its perimeter long?
+> The polygon In the polygon shown in the figure, the eight short sides are all of the same length, and the four long sides are all of the same length—twice that of the short sides. Moreover, consecutive sides are perpendicular to each other. If the polygon has an area of 200 cm², how many centimeters long is its perimeter?
 
-**Answer:** 0080
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q09|src_kangourou_2019_squadre_ecolier_f__Q09]]
 
 
 
@@ -334,20 +344,22 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0006
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many wonderful years in the 21st century*
+*What wonderful years in the 21st century!*
 
-> Wonderful years
-> Let us say that a year is wonderful if with its digits one can compose two
-> consecutive numbers of two significant digits (that is, numbers that cannot be written with a single digit):
-> for example, 1330 was a wonderful year. How many wonderful years are there in the 21st century?
+> Wonderful Years Let's say a year is wonderful if its digits can be used to form two consecutive two-digit significant numbers (that is, numbers that cannot be written with a single digit): for example, 1330 was a wonderful year. How many wonderful years are there in the 21st century?
 
-**Answer:** 0006
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q10|src_kangourou_2019_squadre_ecolier_f__Q10]]
 
 
 
@@ -367,19 +379,22 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9864
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest 4-digit integer with distinct digits divisible by each digit*
+*Largest four-digit integer with distinct digits, divisible by each of its digits*
 
-> Four digits
-> Find the largest integer with four distinct digits that is divisible (without remainder)
-> by each of its four digits.
+> Four-digit numbers: Determine the largest four-digit integer with all distinct digits that is divisible (without a remainder) by each of its four digits.
 
-**Answer:** 9864
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q11|src_kangourou_2019_squadre_ecolier_f__Q11]]
 
 
 
@@ -400,7 +415,7 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0009
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -408,12 +423,14 @@ level: squadre
 
 *Sum of the numbers at the midpoints of the triangle*
 
-> Numbers on a triangle
-> Place in each vertex and in each midpoint of the sides of an equilateral triangle a different number
-> among 1, 2, 3, 4, 5, 6 so that the sum of the numbers written on each side is 11. What is the
-> sum of the numbers written at the midpoints?
+> Numbers on a Triangle Place a different number from among 1, 2, 3, 4, 5, 6 at each vertex and at each midpoint of the sides of an equilateral triangle so that the sum of the numbers written on each side is 11. What is the sum of the numbers written at the midpoints?
 
-**Answer:** 0009
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q12|src_kangourou_2019_squadre_ecolier_f__Q12]]
 
 
 
@@ -435,22 +452,21 @@ level: squadre
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0058
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rugs not responding (three lions)*
+*Roars not in response (three lions)*
 
-> Three lions
-> Three lions (father, mother and cub) live in a cave. They roar following this rule:
-> for every three roars (even non-consecutive) of the father, the mother responds with two roars; for every five
-> roars (even non-consecutive) of the mother the cub responds with three roars, but sometimes mother and
-> cub also roar not in response. Today each lion has roared exactly 32 times.
-> How many of these roars were not responses to other roars?
+> Three Lions Three lions (father, mother, and cub) live in a cave. They roar according to this rule: for every three roars (even if not consecutive) from the father, the mother responds with two roars; for every five roars (even if not consecutive) from the mother, the cub responds with three roars, but sometimes the mother and the cub also roar without responding. Today, each lion has roared exactly 32 times. How many of these roars were not responses to other roars?
 
-**Answer:** 0058
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q13|src_kangourou_2019_squadre_ecolier_f__Q13]]
 
 
 
@@ -473,22 +489,22 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0098
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubes to be added to box the cube*
+*Cubes to add to box the cube*
 
-> Boxed cubes
-> Using small cubes all with a side of 1 cm, we build larger cubes. We say that a cube
-> "boxes" a smaller cube when it contains it in such a way that no point of the smaller cube
-> remains visible, in other words, when it completely wraps it. I started from a small cube:
-> using another 26 small cubes, I built the smallest cube that boxes it. Now I want to build the
-> smallest cube that also boxes this new cube: how many small cubes do I have to add?
+> Cubes in a Box Using unit cubes, all with sides 1 cm long, we build larger cubes. Let's say that a cube "boxes in" a smaller cube when it contains the smaller cube in such a way that no point of the smaller cube remains visible—in other words, when it completely encloses it. I started with a unit cube: using 26 other unit cubes, I built the smallest cube that boxes it in. Now I want to build the smallest cube that also boxes in this new cube—how many unit cubes do I need to add?
 
-**Answer:** 0098
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q14|src_kangourou_2019_squadre_ecolier_f__Q14]]
 
 
 
@@ -509,18 +525,18 @@ level: squadre
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0006
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many hours to fill the tank with 10 taps*
+*How many hours does it take to fill the tank with 10 taps?*
 
-> The tank
-> A tank can be filled with 10 taps. One of them can fill it in one day; two of the
-> remaining ones can each fill it in two days, three of the remaining ones can each fill it in
-> three days and the last four can each fill it in four days. If all the taps
-> are opened simultaneously, in how many hours is the tank filled?
+> The Tank A tank can be filled by 10 taps. One of them can fill it in one day; two of the remaining taps can each fill it in two days; three of the remaining taps can each fill it in three days; and the last four can each fill it in four days. If all the taps are opened simultaneously, how many hours will it take to fill the tank?
 
-**Answer:** 0006
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q15|src_kangourou_2019_squadre_ecolier_f__Q15]]

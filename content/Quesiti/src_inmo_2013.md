@@ -31,11 +31,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi tangenti esternamente; dimostrare che il triangolo PQR è equilaterale*
+*Due cerchi tangenti esternamente; dimostrare che il triangolo PQR è equilatero*
 
-> Si deve che $\Gamma_1$ e $\Gamma_2$ siano due cerchi che si toccano a $R$. La linea $l_1$ deve essere tangente a $\Gamma_2$ a $P$ e passare attraverso il centro $O_1$ di $\Gamma_1$. Allo stesso modo, $l_2$ è una linea tangente a $\Gamma_2$ a $Q$ e che attraversa il centro $O_2$ di $\Gamma_2$. Supponiamo che $l_1$ e $l_2$ non siano parallele e si incrociano a $K$. Se $KP = KQ$, dimostrare che il triangolo $PQR$ è equilaterale.
+> Siano $\Gamma_1$ e $\Gamma_2$ due circonferenze tangenti esternamente in $R$. Sia $l_1$ una retta tangente a $\Gamma_2$ in $P$ e passante per il centro $O_1$ di $\Gamma_1$. Analogamente, sia $l_2$ una retta tangente a $\Gamma_2$ in $Q$ e passante per il centro $O_2$ di $\Gamma_2$. Si supponga che $l_1$ e $l_2$ non siano parallele e si intersechino in $K$. Se $KP = KQ$, dimostrare che il triangolo $PQR$ è equilatero.
 
 ![[src_inmo_2013__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2013#q01|src_inmo_2013__Q01]]
 
 
 
@@ -59,9 +66,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi m, n e numeri primi p ≥ 5 che soddisfano l'equazione*
+*Interi positivi m, n e primi p ≥ 5 con m(4m² + 12m + 3) = 3(p^n − 1)*
 
-> Trova tutti gli integri positivi $m$, $n$ e i numeri primi $p \ge 5$ in modo tale che $$m(4m^2 + 12m + 3) = 3(p^n - 1).$$
+> Trovare tutti gli interi positivi $m$, $n$ e i primi $p \ge 5$ tali che
+> $$m(4m^2 + 12m + 3) = 3(p^n - 1).$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Analisi accurata per casi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_inmo_2013#q02|src_inmo_2013__Q02]]
 
 
 
@@ -84,9 +99,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieri interi positivi a,b,c,d; dimostrare che il polinomio non ha soluzione di numeri interi*
+*Interi positivi a, b, c, d; dimostrare che il polinomio non ammette soluzioni intere*
 
-> $a, b, c, d$ siano integri positivi come $a \ge b \ge c \ge d$. Prove che l'equazione $x^4 - ax^3 - bx^2 - cx - d = 0$ non ha una soluzione integrale.
+> Siano $a, b, c, d$ numeri interi positivi tali che $a \ge b \ge c \ge d$. Dimostrare che l'equazione $x^4 - ax^3 - bx^2 - cx - d = 0$ non ammette soluzioni intere.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2013#q03|src_inmo_2013__Q03]]
 
 
 
@@ -109,9 +131,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Buoni sottoinsiemi non vuoti di {1,2,...,n}; dimostrare che t_n e n sono entrambi pari o entrambi pari*
+*Buoni sottoinsiemi non vuoti di {1,2,...,n}; dimostrare che t_n e n sono entrambi dispari o entrambi pari*
 
-> $n$ sia un numero intero positivo. Chiamare valido un sottogruppo non vuoto $S$ di $\{1, 2, \ldots, n\}$ se la media aritmetica degli elementi di $S$ è anche un intero. $t_n$ indica il numero di buoni sottoinsiemi di $\{1, 2, \ldots, n\}$. Prove che $t_n$ e $n$ sono entrambi pari o pari.
+> Sia $n$ un numero intero positivo. Si dica che un sottoinsieme non vuoto $S$ di $\{1, 2, \ldots, n\}$ è buono se la media aritmetica degli elementi di $S$ è anch'essa un numero intero. Sia $t_n$ il numero di sottoinsiemi buoni di $\{1, 2, \ldots, n\}$. Dimostrare che $t_n$ e $n$ sono entrambi dispari oppure entrambi pari.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2013#q04|src_inmo_2013__Q04]]
 
 
 
@@ -134,9 +163,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto ABC; circoncentro O, centro-orto H, centroide G; angolo di ricerca C*
+*Triangolo acuto ABC; centro della circonferenza circoscritta O, ortocentro H, baricentro G; trovare l'angolo C*
 
-> In un triangolo acuto $ABC$, $O$ è il circoncentro, $H$ è l'ortocentro e $G$ è il centroide. Il $OD$ deve essere perpendicolare a $BC$ e il $HE$ deve essere perpendicolare a $CA$, con $D$ su $BC$ e $E$ su $CA$. Il $F$ deve essere il punto medio di $AB$. Supponiamo che le superfici dei triangoli $ODC$, $HEA$ e $GFB$ siano uguali. Trova tutti i valori possibili di $\hat{C}$.
+> In un triangolo acutangolo $ABC$, $O$ è il circocentro, $H$ è l'ortocentro e $G$ è il baricentro. Sia $OD$ perpendicolare a $BC$ e $HE$ perpendicolare a $CA$, con $D$ su $BC$ e $E$ su $CA$. Sia $F$ il punto medio di $AB$. Si supponga che le aree dei triangoli $ODC$, $HEA$ e $GFB$ siano uguali. Determinare tutti i valori possibili di $\hat{C}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2013#q05|src_inmo_2013__Q05]]
 
 
 
@@ -159,6 +195,13 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali positivi a,b,c,x,y,z; a+b+c=x+y+z=xyz; dimostrare a=x,b=y,c=z*
+*Numeri reali positivi a, b, c, x, y, z; a+b+c=x+y+z=xyz; dimostrare che a=x, b=y, c=z*
 
-> $a, b, c, x, y, z$ siano numeri reali positivi come $a + b + c = x + y + z = xyz$. Inoltre, supponiamo che $a \le x < y \le b < c \le z$ e $a < b < c$. Prove che $a = x$, $b = y$ e $c = z$.
+> Siano $a, b, c, x, y, z$ numeri reali positivi tali che $a + b + c = x + y + z = xyz$. Inoltre, si supponga che $a \le x < y \le b < c \le z$ e $a < b < c$. Dimostrare che $a = x$, $b = y$ e $c = z$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2013#q06|src_inmo_2013__Q06]]

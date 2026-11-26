@@ -35,17 +35,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of 0,3 per cube*
+*Value of 0.3 cubed*
 
-> 0, 3 × 0, 3 × 0, 3 is equal to
+> 0.3 × 0.3 × 0.3 equals
 >
-> - **(A)** 0,9
-> - **(B)** 0,27
-> - **(C)** 0,027
-> - **(D)** 0,009
-> - **(E)** 0,0027.
+> - **(A)** 0.9
+> - **(B)** 0.27
+> - **(C)** 0.027
+> - **(D)** 0.009
+> - **(E)** 0.0027.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1998_biennio#q01|src_archimede_1998_biennio__Q01]]
 
 
 
@@ -94,36 +97,23 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the circle surrounded by a rectangle*
+*Area of the circle circumscribed about a rectangle*
 
 ![[src_archimede_1998_biennio__prob2.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw (0,0) circle (5);
-  \coordinate (A) at (-4,3);
-  \coordinate (D) at (4,3);
-  \coordinate (C) at (4,-3);
-  \coordinate (B) at (-4,-3);
-  \draw (A)--(D)--(C)--(B)--cycle;
-  \node[above left] at (A) {$A$};
-  \node[above right] at (D) {$D$};
-  \node[below right] at (C) {$C$};
-  \node[below left] at (B) {$B$};
-\end{tikzpicture}
-\end{document}
-```
-
-> ABCD is a rectangle with AB = 8 cm and BC = 6 cm. How much is the area of the circumscribed circle?
+> ABCD is a rectangle with AB = 8 cm and BC = 6 cm. What is the area of the circumscribed circle?
 >
 > - **(A)** 25π cm2
 > - **(B)** 24 cm2
 > - **(C)** 24π cm2
 > - **(D)** 50π cm2
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_1998_biennio#q02|src_archimede_1998_biennio__Q02]]
 
 
 
@@ -153,9 +143,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which expression and the square of the triple of the sequence*
+*Which expression is the square of the triple of the successor?*
 
-> Which of the following expressions is the square of the third consecutive integer n?
+> Which of the following expressions represents the square of the triple of the successor
+> of an integer n?
 >
 > - **(A)** [3(n + 1)]2
 > - **(B)** 3n2 + 1
@@ -163,7 +154,10 @@ level: biennio
 > - **(D)** 3(n2 + 1)
 > - **(E)** 3(n + 1)2.
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1998_biennio#q03|src_archimede_1998_biennio__Q03]]
 
 
 
@@ -198,9 +192,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many candy each winner gets*
+*How many sweets does each winner receive*
 
-> There are 30 students in a class. The teacher divides them into 5 teams of 6 students and then organizes a team competition. At the end of the competition, he distributes sweets to all pupils, ensuring that each member of the only winning team receives twice as many sweets as the pupils of the remaining teams. Knowing that the teacher distributes 540 candies, how many candies does each winner get?
+> In a class there are 30 pupils. The teacher divides them into 5 teams of 6 pupils and
+> then organises a team competition. At the end of the competition she distributes sweets to
+> all the pupils, making sure that each member of the only winning team receives twice as many sweets as the pupils in the remaining teams. Knowing that in total the teacher distributes 540 sweets, how many sweets does each winner receive?
 >
 > - **(A)** 15
 > - **(B)** 18
@@ -208,7 +204,10 @@ level: biennio
 > - **(D)** 30
 > - **(E)** 36.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1998_biennio#q04|src_archimede_1998_biennio__Q04]]
 
 
 
@@ -251,21 +250,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of hexagon inscribed in a circle inscribed in a square*
+*Side of a hexagon inscribed in a circle inscribed in a square*
 
-![[src_archimede_1998_biennio__prob5.png]]
-
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=4]
-  \draw (-0.5,-0.5) rectangle (0.5,0.5);
-  \draw (0,0) circle (0.5);
-  \draw (0.4830,0.1294)--(0.1294,0.4830)--(-0.3536,0.3536)--(-0.4830,-0.1294)--(-0.1294,-0.4830)--(0.3536,-0.3536)--cycle;
-\end{tikzpicture}
-\end{document}
-```
-
-> Consider a unitary side square; insert a circumference inside it and, within it, a regular hexagon. What is the size of the side of the hexagon?
+> Consider a unit-side square; inscribe a circle inside it and, inside this, a regular hexagon. What is the measure of the side of the hexagon?
 >
 > - **(A)** 1/2
 > - **(B)** √ 3/2
@@ -273,7 +260,10 @@ level: biennio
 > - **(D)** (4 √ 2 −2)/7
 > - **(E)** π/6.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1998_biennio#q05|src_archimede_1998_biennio__Q05]]
 
 
 
@@ -304,17 +294,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-% of world production represented by Europe *
+*European share of world wine production*
 
-> Italian wine production accounts for 25% of world wine production and 38% of European wine production. What percentage of world production is represented by European production?
+> Italian wine production represents 25% of world production and 38% of European production. What percentage of world production is represented by European production?
 >
-> - **(A)** Less than 50%
+> - **(A)** less than 50%
 > - **(B)** between 50% and 60%
 > - **(C)** between 60% and 70%
-> - **(D)** More than 70%
-> - **(E)** It's impossible to determine.
+> - **(D)** more than 70%
+> - **(E)** it cannot be determined.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1998_biennio#q06|src_archimede_1998_biennio__Q06]]
 
 
 
@@ -345,9 +338,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance given the triangular inequality*
+*Minimum distance given the triangle inequality*
 
-> The city of mystery is 500 km from Topolinia and 1200 km from Paperopoli. What is the minimum possible value for the distance between Topolinia and Paperopoli?
+> The city of mystery is 500 km from Topolinia and 1200 km from Paperopoli. What is the
+> minimum possible value for the distance between Topolinia and Paperopoli?
 >
 > - **(A)** 500 km
 > - **(B)** 700 km
@@ -355,7 +349,10 @@ level: biennio
 > - **(D)** 1300 km
 > - **(E)** 1700 km.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1998_biennio#q07|src_archimede_1998_biennio__Q07]]
 
 
 
@@ -392,7 +389,12 @@ level: biennio
 
 *Third number in increasing order of five expressions*
 
-> If the numbers 0, 3; 0, 3; (0, 3)2; 1 0, 3; 1 0, 3 are placed in ascending order, the third number is
+> If the numbers 0, 3; 0, 3; (0, 3)2;
+> 1
+> 0, 3;
+> 1
+> 0, 3 are put in increasing order, the third
+> number is
 >
 > - **(A)** 0, 3
 > - **(B)** 0, 3
@@ -400,7 +402,10 @@ level: biennio
 > - **(D)** 1 0, 3
 > - **(E)** 1 0, 3.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_1998_biennio#q08|src_archimede_1998_biennio__Q08]]
 
 
 
@@ -429,17 +434,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little three-digit integer divisible by 3 and 13*
+*Smallest three-digit integer divisible by 3 and by 13*
 
-> What's the smallest integer of three digits divisible by 3 and 13?
+> What is the smallest three-digit integer divisible by 3 and by 13?
 >
 > - **(A)** 102
 > - **(B)** 104
 > - **(C)** 117
 > - **(D)** 139
-> - **(E)** None of the above.
+> - **(E)** none of the above.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1998_biennio#q09|src_archimede_1998_biennio__Q09]]
 
 
 
@@ -468,17 +476,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relation between volumes and surfaces of three spheres*
+*Relation of volumes and surface areas of three spheres*
 
-> The radii of three spheres are proportional to 1, 2, 3. Then you have to:
+> The radii of three spheres are proportional to 1, 2, 3. Then:
 >
-> - **(A)** The volume of the largest sphere is three times the volume of the smallest sphere.
-> - **(B)** The sum of the volumes of the two smaller spheres is equal to the volume of the larger sphere.
-> - **(C)** The volume of the largest sphere is three times the sum of the volumes of the other two.
-> - **(D)** The surface of the larger sphere is equal to the sum of the surfaces of the other two
-> - **(E)** The surface of the largest sphere is three times the sum of the surfaces of the other two.
+> - **(A)** the volume of the largest sphere is three times the volume of the smallest sphere
+> - **(B)** the sum of the volumes of the two smaller spheres equals the volume of the largest sphere
+> - **(C)** the volume of the largest sphere is three times the sum of the volumes of the other two
+> - **(D)** the surface area of the largest sphere equals the sum of the surface areas of the other two
+> - **(E)** the surface area of the largest sphere is three times the sum of the surface areas of the other two.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1998_biennio#q10|src_archimede_1998_biennio__Q10]]
 
 
 
@@ -510,19 +521,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Central number ordering by length of segments*
+*Middle digit when ordered by total segment length*
 
-![[src_archimede_1998_biennio__prob11.png]]
-
-> If we order the following figures by the sum of the lengths of the segments they are composed of, which figure occupies the central position?
+> If we order the digits in the figure by the sum of the lengths of the segments they are made of, which digit occupies the middle position?
 >
-> - **(A)** Il 3
-> - **(B)** il 2
-> - **(C)** il 4
-> - **(D)** There is more than one
-> - **(E)** None of the previous ones.
+> - **(A)** the 3
+> - **(B)** the 2
+> - **(C)** the 4
+> - **(D)** there is more than one
+> - **(E)** none of the above.
 
-**Answer:** A
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_1998_biennio#q11|src_archimede_1998_biennio__Q11]]
 
 
 
@@ -574,30 +586,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many equilateral triangles in Figure*
+*How many equilateral triangles are in the figure*
 
-![[src_archimede_1998_biennio__prob12.png]]
-
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw (0,0)--(4,0);
-  \draw (0.5,0.8660)--(3.5,0.8660);
-  \draw (1,1.7320)--(3,1.7320);
-  \draw (1.5,2.5980)--(2.5,2.5980);
-  \draw (0,0)--(2,3.4641);
-  \draw (1,0)--(2.5,2.5980);
-  \draw (2,0)--(3,1.7320);
-  \draw (3,0)--(3.5,0.8660);
-  \draw (4,0)--(2,3.4641);
-  \draw (3,0)--(1.5,2.5980);
-  \draw (2,0)--(1,1.7320);
-  \draw (1,0)--(0.5,0.8660);
-\end{tikzpicture}
-\end{document}
-```
-
-> How many equilateral triangles are there in this figure?
+> How many equilateral triangles are present in this figure?
 >
 > - **(A)** 16
 > - **(B)** 20
@@ -605,7 +596,11 @@ level: biennio
 > - **(D)** 26
 > - **(E)** 27.
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1998_biennio#q12|src_archimede_1998_biennio__Q12]]
 
 
 
@@ -636,9 +631,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of athletes in all three sports*
+*Minimum number of people who practise all three sports*
 
-> In a class of 20, 15 play football, 14 play basketball, 13 play volleyball. How many, at the very least, do all three sports?
+> In a class of 20 people, 15 play football, 14 play basketball, 13 play volleyball.
+> What is the minimum number of people who practise all three sports?
 >
 > - **(A)** 0
 > - **(B)** 2
@@ -646,7 +642,11 @@ level: biennio
 > - **(D)** 9
 > - **(E)** 13.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1998_biennio#q13|src_archimede_1998_biennio__Q13]]
 
 
 
@@ -694,35 +694,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between centers in seven arranged circles*
+*Distance between two marked centers among seven circles*
 
-![[src_archimede_1998_biennio__prob14.png]]
-
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.7]
-  \draw (0,0) circle (1);
-  \draw (-2,0) circle (1);
-  \draw (2,0) circle (1);
-  \draw (-1,1.7320) circle (1);
-  \draw (1,1.7320) circle (1);
-  \draw (-1,-1.7320) circle (1);
-  \draw (1,-1.7320) circle (1);
-  \fill (1,1.7320) circle (0.06);
-  \fill (1,-1.7320) circle (0.06);
-\end{tikzpicture}
-\end{document}
-```
-
-> Seven circles of a unit radius are arranged as in the next row. The distance between the two centres indicated by a point is
+> Seven circles of unit radius are arranged as in the figure. The distance between the two centers marked with a dot is
 >
 > - **(A)** 2
 > - **(B)** √ 3
 > - **(C)** 3
 > - **(D)** 2 √ 3
-> - **(E)** None of the previous ones. b b
+> - **(E)** none of the above.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1998_biennio#q14|src_archimede_1998_biennio__Q14]]
 
 
 
@@ -753,9 +738,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number ends with more zeros*
+*Which number ends with the most zeros*
 
-> Which of the following numbers ends with the most zeros?
+> Which of the following numbers ends with the greatest number of zeros?
 >
 > - **(A)** 22 · 33 · 55
 > - **(B)** 23 · 35 · 52
@@ -763,7 +748,11 @@ level: biennio
 > - **(D)** 44 · 56 · 64
 > - **(E)** 46 · 65 · 54.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_1998_biennio#q15|src_archimede_1998_biennio__Q15]]
 
 
 
@@ -794,17 +783,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spines and vertices of the regular dodecahedron*
+*Edges and vertices of the regular dodecahedron*
 
-> Plato particularly loved the regular dodecahedron, which is a polyhedron whose faces are 12 equal regular pentagons. How many spikes and how many vertices does this polyhedron have?
+> Plato was particularly fond of the regular dodecahedron, a polyhedron whose faces are 12 equal regular pentagons. How many edges and how many vertices does this polyhedron have?
 >
-> - **(A)** 20 spikes and 20 vertices
-> - **(B)** 30 spikes and 20 vertices
-> - **(C)** 20 spikes and 30 vertices
-> - **(D)** 30 spikes and 60 vertices
-> - **(E)** 60 spikes and 60 vertices.
+> - **(A)** 20 edges and 20 vertices
+> - **(B)** 30 edges and 20 vertices
+> - **(C)** 20 edges and 30 vertices
+> - **(D)** 30 edges and 60 vertices
+> - **(E)** 60 edges and 60 vertices.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1998_biennio#q16|src_archimede_1998_biennio__Q16]]
 
 
 
@@ -841,17 +833,25 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-How much pay is paid between an old man and a young woman
+*Number of pages among the old man, the boy and the girl*
 
-> There are three categories of people living on an island: knights, who always tell the truth, thieves, who always lie, and peasants, who after a truth always tell a lie and vice versa. On the island I meet an old man, a boy and a girl. The old man says, "I'm paid; the boy's a knight". The boy says, I'm a knight, the girl's paid. The girl says finally: I am a cunning; The old man is paid. It can then be said that among the three:
+> On an island there live three kinds of people: knights, who always tell the truth, knaves, who always lie, and pages, who after a truth always tell a lie, and vice versa. On the island I meet an old man, a boy and a girl.
+> The old man states: "I am a page"; "The boy is a knight".
+> The boy says: "I am a knight"; "The girl is a page".
+> The girl finally states: "I am a knave"; "The old man is a page".
+> One may then say that, among the three:
 >
-> - **(A)** There's exactly one fee.
-> - **(B)** There's exactly two pages.
-> - **(C)** There 's exactly three pages .
-> - **(D)** There is no fee
-> - **(E)** The number of salaries is uncertain.
+> - **(A)** there is exactly one page
+> - **(B)** there are exactly two pages
+> - **(C)** there are exactly three pages
+> - **(D)** there is no page
+> - **(E)** the number of pages is not certain.
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_1998_biennio#q17|src_archimede_1998_biennio__Q17]]
 
 
 
@@ -885,17 +885,21 @@ How much pay is paid between an old man and a young woman
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial payouts of the player working backwards*
+*The gambler's starting money, working backwards*
 
-> A stingy gambler pays 5,000 lire to enter a gambling house, where he doubles his money. When he gets out, he pays 5,000 lire for the parking of the car, but since luck is in his favor he enters a second free-entry gambling house, where he doubles his money again. After paying for the parking lot again with 6,000 lire, he realizes that there is nothing left in his wallet. How much money did the player initially have?
+> A habitual gambler pays 5000 lire to enter a gambling house, where he doubles his money. On the way out he pays 5000 lire to park the car, but, luck being with him, he enters a second gambling house with free admission, where he doubles his money again. After paying 6000 lire once more for parking, he finds that nothing is left in his wallet. How much money did the gambler have at the start?
 >
 > - **(A)** 10 000
 > - **(B)** 12 000
 > - **(C)** 15 000
-> - **(D)** The data are insufficient.
-> - **(E)** The previous answers are all wrong.
+> - **(D)** the data are insufficient
+> - **(E)** the previous answers are all wrong.
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1998_biennio#q18|src_archimede_1998_biennio__Q18]]
 
 
 
@@ -927,17 +931,20 @@ How much pay is paid between an old man and a young woman
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number after 9 in decimal development of x*
+*The digit immediately after 9 in the decimal expansion of x*
 
-> We know that x is 0.9 . . . And that 1/x is equal to 1. . . (the dots indicate that the additional decimal places have been omitted). What's the number that comes right after 9 in the decimal development of x?
+> We know that x = 0.9... and that 1/x = 1.1... (the dots mean that further decimal digits have been omitted). What is the digit that comes immediately after the 9 in the decimal expansion of x?
 >
 > - **(A)** 0
 > - **(B)** 1
 > - **(C)** 9
-> - **(D)** It cannot be determined uniquely.
-> - **(E)** None of the above.
+> - **(D)** it cannot be determined uniquely
+> - **(E)** none of the above.
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_1998_biennio#q19|src_archimede_1998_biennio__Q19]]
 
 
 
@@ -968,7 +975,7 @@ How much pay is paid between an old man and a young woman
 
 *Value of n with 13 multiples between 200 and 300*
 
-> Knowing that between 200 and 300 (extremes included) there are exactly 13 multiples of the whole n, what is n worth?
+> Knowing that between 200 and 300 (endpoints included) there are exactly 13 multiples of the integer n, what is the value of n?
 >
 > - **(A)** ≤6
 > - **(B)** 7
@@ -976,4 +983,7 @@ How much pay is paid between an old man and a young woman
 > - **(D)** 9
 > - **(E)** ≥10.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1998_biennio#q20|src_archimede_1998_biennio__Q20]]

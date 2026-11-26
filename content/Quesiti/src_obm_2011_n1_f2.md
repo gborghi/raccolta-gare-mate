@@ -31,11 +31,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di rettangolo interno con vertici sui lati del rettangolo esterno*
+*Area del rettangolo interno i cui vertici giacciono sui lati del rettangolo esterno*
 
-> Nella figura, i vertici del rettangolo $PQRS$ si trovano sui lati del rettangolo $ABCD$. Dato $AP = 3$ cm, $AS = 4$ cm, $SC = 6$ cm e $CR = 8$ cm, qual è la superficie del rettangolo $PQRS$, in cm$^2$?
+> Nella figura, i vertici del rettangolo $PQRS$ giacciono sui lati del rettangolo $ABCD$. Dati $AP = 3$ cm, $AS = 4$ cm, $SC = 6$ cm e $CR = 8$ cm, qual è l'area del rettangolo $PQRS$, in cm$^2$?
 
 ![[src_obm_2011_n1_f2__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n1_f2#q01|src_obm_2011_n1_f2__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la somma facciale opposta alla somma facciale 8 su un cubo etichettato*
+*Trovare la somma delle facce opposta alla somma delle facce 8 su un cubo etichettato*
 
-> A ogni vertice di un cubo, Esmeralda scrive un numero. Quindi calcola la somma dei quattro numeri alle vertici di ciascuna faccia. Trova che le sei somme facciali sono $8$, $10$, $11$, $12$, $13$ e $e$. La faccia con somma $x$ è opposta alla faccia con somma $8$. Qual è il valore di $x$?
+> In ciascun vertice di un cubo, Esmeralda scrive un numero. Poi calcola la somma dei quattro numeri presenti ai vertici di ciascuna faccia. Scopre che le sei somme delle facce sono $8$, $10$, $11$, $12$, $13$ e $e$. La faccia con somma $x$ è opposta alla faccia con somma $8$. Qual è il valore di $x$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n1_f2#q02|src_obm_2011_n1_f2__Q02]]
 
 
 
@@ -83,9 +97,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massimo numero di membri della tribù rossa in un cerchio in cui 48 persone su 100 dicono che il vicino di destra è un bugiardo*
+*Membri massimi della tribù rossa nel cerchio in cui 48 su 100 dicono che il vicino di destra è un bugiardo*
 
-> Due tribù vivono su un'isola: la tribù verde e la tribù rossa. I membri di una tribù dicono sempre la verità, e i membri dell'altra tribù mentono sempre. Un giorno, $100$ persone si sono radunate in cerchio e un giornalista ha chiesto a ciascuno: "Il tuo vicino a destra è un bugiardo?" In seguito si è verificato che $48$ persone avevano risposto "sì". Al massimo, quante persone della tribù rossa (i bugiardi) potrebbero esserci nel cerchio?
+> Sull'isola vivono due tribù: la tribù verde e la tribù rossa. I membri di una tribù dicono sempre la verità, mentre i membri dell'altra tribù mentono sempre. Un giorno, $100$ persone si riunirono in cerchio e un giornalista chiese a ciascuna: "Il tuo vicino di destra è un bugiardo?". In seguito si verificò che $48$ persone avevano risposto "sì". Al massimo, quante persone della tribù rossa (i bugiardi) potevano esserci nel cerchio?
+
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n1_f2#q03|src_obm_2011_n1_f2__Q03]]
 
 
 
@@ -108,9 +129,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massa totale di un cubo 4x4x4 costruito a partire da piccoli cubi ponderati per conto del vicino*
+*Massa totale di un cubo 4x4x4 costruito con cubetti il cui peso è determinato dal numero di vicini*
 
-> Con piccoli cubetti della stessa dimensione, è stato costruito un grande cubo $4 \times 4 \times 4$. I piccoli cubetti sono fatti di materiali diversi: un piccolo cubetto che ha esattamente $3$ vicini facciali (cubi che condividono un volto con esso) pesa $10$ grammi; uno con $4$ vicini facciali pesa $8$ grammi; uno con $5$ vicini facciali pesa $6$ grammi; e uno con $6$ vicini facciali pesa $4$ grammi. Qual è la massa totale del grande cubo, in grammi?
+> Con piccoli cubi della stessa dimensione, è stato costruito un cubo grande $4 \times 4 \times 4$. I piccoli cubi sono fatti di materiali diversi: un piccolo cubo che ha esattamente $3$ vicini per faccia (cubi che condividono una faccia con esso) pesa $10$ grammi; uno con $4$ vicini per faccia pesa $8$ grammi; uno con $5$ vicini per faccia pesa $6$ grammi; e uno con $6$ vicini per faccia pesa $4$ grammi. Qual è la massa totale del cubo grande, in grammi?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f2#q04|src_obm_2011_n1_f2__Q04]]
 
 
 
@@ -133,9 +161,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri a 3 cifre senza cifre zero con almeno due cifre uguali*
+*Conta i numeri di tre cifre senza cifra zero che abbiano almeno due cifre uguali*
 
-> Quanti numeri $3$ di cifre che non contengono cifre zero hanno almeno due cifre uguali?
+> Quanti numeri di $3$ cifre, privi di cifre zero, hanno almeno due cifre uguali?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f2#q05|src_obm_2011_n1_f2__Q05]]
 
 
 
@@ -158,9 +193,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta fratelli di 60 anni che sono inferiori a 1000*
+*Conta i fratelli di 60 che sono minori di 1000*
 
-> Diciamo che due o più numeri sono fratelli quando hanno esattamente gli stessi fattori primi. Ad esempio, $10 = 2 \times 5$ e $20 = 2^2 \times 5$ sono fratelli, poiché $2$ e $5$ sono i loro unici fattori primari. Il numero $60$ può avere fratelli inferiori a $1000$. Quanti fratelli hanno meno di $1000$ $60$?
+> Diciamo che due o più numeri sono \textit{fratelli} quando hanno esattamente gli stessi fattori primi. Ad esempio, $10 = 2 \times 5$ e $20 = 2^2 \times 5$ sono fratelli, poiché $2$ e $5$ sono i loro unici fattori primi. Il numero $60$ può avere fratelli minori di $1000$. Quanti fratelli minori di $1000$ ha $60$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f2#q06|src_obm_2011_n1_f2__Q06]]
 
 
 
@@ -194,13 +236,27 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unità di numeri di somma parziale di quadrati; trovare unità di numeri per n=2011*
+*Cifra delle unità delle somme parziali dei quadrati; trovare la cifra delle unità per n=2011*
 
-> La sequenza $1, 5, 4, 0, 5, \ldots$ è costituita dalle cifre di unità delle successive somme parziali di quadrati: $$1^2 = 1$$ $$1^2 + 2^2 = 5$$ $$1^2 + 2^2 + 3^2 = 14$$ $$1^2 + 2^2 + 3^2 + 4^2 = 30$$ $$1^2 + 2^2 + 3^2 + 4^2 + 5^2 = 55$$ $$\vdots$$ $$1^2 + 2^2 + 3^2 + 4^2 + 5^2 + \cdots = \ldots$$
-> 
-> a) Scrivere la sequenza di cifre di unità delle prime dieci somme $1^2,\; 1^2+2^2,\; \ldots,\; 1^2+2^2+\cdots+10^2$, ottenuta nel modo sopra descritto.
-> 
-> b) Qual è la cifra di unità di $1^2 + 2^2 + \cdots + 2011^2$?
+> La sequenza $1, 5, 4, 0, 5, \ldots$ è formata dalle cifre delle unità delle somme parziali successive dei quadrati:
+> $$1^2 = 1$$
+> $$1^2 + 2^2 = 5$$
+> $$1^2 + 2^2 + 3^2 = 14$$
+> $$1^2 + 2^2 + 3^2 + 4^2 = 30$$
+> $$1^2 + 2^2 + 3^2 + 4^2 + 5^2 = 55$$
+> $$\vdots$$
+> $$1^2 + 2^2 + 3^2 + 4^2 + 5^2 + \cdots = \ldots$$
+>
+> a) Scrivi la sequenza delle cifre delle unità dei primi dieci totali $1^2,\; 1^2+2^2,\; \ldots,\; 1^2+2^2+\cdots+10^2$, ottenuti nel modo descritto sopra.
+>
+> b) Qual è la cifra delle unità di $1^2 + 2^2 + \cdots + 2011^2$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f2#q07|src_obm_2011_n1_f2__Q07]]
 
 
 
@@ -229,15 +285,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Selo (pari di divisori corretti) di numeri interi: calcolare, invertere e ridurre al minimo*
+*Selo (coppia di divisori propri) degli interi: calcola, inverti e minimizza*
 
-> Il \textit{selo} (seal) di un intero positivo $n$ è definito come la coppia ordinata $\mathrm{par}(x;\, y)$, dove $x$ è il numero di divisori positivi di $n$ strettamente inferiori a $n$, e $y$ è la somma di tali divisori. Ad esempio, i divisori positivi di $10$ che sono inferiori a $10$ sono $1$, $2$ e $5$, quindi il selo di $10$ è $(3;\, 8)$. Il selo del numero $1$ è $(1;\, 1)$.
-> 
+> Il \textit{selo} (sigillo) di un numero intero positivo $n$ è definito come la coppia ordinata $\mathrm{par}(x;\, y)$, dove $x$ è il numero di divisori positivi di $n$ che sono strettamente minori di $n$, e $y$ è la somma di tali divisori. Ad esempio, i divisori positivi di $10$ che sono minori di $10$ sono $1$, $2$ e $5$, quindi il selo di $10$ è $(3;\, 8)$. Il selo del numero $1$ è $(1;\, 1)$.
+>
 > a) Qual è il selo di $9$?
-> 
+>
 > b) Quale numero ha selo $(2;\, 3)$?
-> 
-> c) Esistono numeri il cui selo è $(6;\, m)$? Qual è il minimo valore possibile di $m$?
+>
+> c) Esistono numeri il cui selo è $(6;\, m)$? Qual è il valore minimo possibile di $m$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n1_f2#q08|src_obm_2011_n1_f2__Q08]]
 
 
 
@@ -266,12 +329,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrati massimi su un geoplano con una corda continua (4x4 e 5x5)*
+*Numero massimo di quadrati sul geoplano con un unico filo continuo (4x4 e 5x5)*
 
-> Legando un pezzo di corda su un geoplano (una tavola di chiodi disposta in una griglia quadrata), Diamantino può formare quadrati \textit{senza passare la corda su qualsiasi chiodo più di una volta}. Può formare due quadrati contemporaneamente con un solo pezzo di corda come mostrato. (La figura mostra una parte semplificata del geoplano; i quadrati sono ottenuti da due delle unghie.)
-> 
-> a) Nella parte del geoplano mostrata (una griglia $4 \times 4$ di unghie $16$), disegnare il maggior numero di quadrati uguali che Diamantino può ottenere utilizzando un singolo pezzo di corda. Segnalare le frecce come nell'esempio per indicare come la corda è disposta.
-> 
-> b) Diamantino sostiene di poter ottenere $11$ quadrati sul proprio geoplano. Mostrare che è possibile ottenere la stessa quantità anche sulla griglia $5 \times 5$ di unghie mostrata sotto. Non dimenticate di segnare le frecce sul disegno.
+> Legando un pezzo di spago a una geoplana (una tavola con chiodi disposti in una griglia quadrata), Diamantino può formare dei quadrati \textit{senza far passare lo spago sopra alcun chiodo più di una volta}. Può formare due quadrati contemporaneamente con un unico pezzo di spago, come mostrato. (La figura mostra una porzione semplificata della geoplana; i quadrati si ottengono a partire da due dei chiodi.)
+>
+> a) Nella porzione di geoplano mostrata (una griglia di $4 \times 4$ chiodi con $16$ chiodi), disegna il maggior numero possibile di quadrati uguali che Diamantino può ottenere usando un unico pezzo di spago. Segna le frecce come nell'esempio per indicare come viene posato lo spago.
+>
+> b) Diamantino sostiene di poter ottenere $11$ quadrati sul proprio geoplano. Dimostra di poter ottenere la stessa quantità anche sulla griglia di chiodi $5 \times 5$ mostrata di seguito. Non dimenticare di segnare le frecce sul disegno.
 
 ![[src_obm_2011_n1_f2__q09.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2011_n1_f2#q09|src_obm_2011_n1_f2__Q09]]

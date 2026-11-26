@@ -28,9 +28,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo rettangolare, incentro, piede perpendicolare, formula di prova di distanza*
+*Triangolo rettangolo, incentro, piede della perpendicolare, dimostra la formula della distanza*
 
-> $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. Il $I$ deve essere il centro di $ABC$. Tracciare una linea perpendicolare a $AI$ a $I$. Lascia che intersechi la linea $CB$ a $D$. Prove che $ID = \sqrt{b(b-a)}$ dove $BC = a$ e $CA = b$.
+> Sia $ABC$ un triangolo rettangolo con $\angle B = 90^\circ$. Sia $I$ l'incentro di $ABC$. Si tracci una retta perpendicolare a $AI$ in $I$. Sia essa incidente con la retta $CB$ in $D$. Si dimostri che $ID = \sqrt{b(b-a)}$, dove $BC = a$ e $CA = b$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2016_r1#q01|src_rmo_2016_r1__Q01]]
 
 
 
@@ -55,9 +61,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove le disuguaglianze che coinvolgono valori reali positivi sommando a 1*
+*Dimostrare una disuguaglianza che coinvolge numeri reali positivi la cui somma è 1*
 
-> $a, b, c$ siano numeri reali positivi in modo tale che $$\frac{a}{1+a} + \frac{b}{1+b} + \frac{c}{1+c} = 1.$$ dimostri che $abc \le \frac{1}{8}$.
+> Sia $a, b, c$ un insieme di numeri reali positivi tali che
+> $$\frac{a}{1+a} + \frac{b}{1+b} + \frac{c}{1+c} = 1.$$
+> Dimostrare che $abc \le \frac{1}{8}$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2016_r1#q02|src_rmo_2016_r1__Q02]]
 
 
 
@@ -80,9 +95,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri naturali n con n = 2S(n) ^2, cifre nella base 10*
+*Numeri naturali n tali che n = 2S(n)^2, cifre in base 10*
 
-> Per qualsiasi numero naturale $n$ espresso nella base 10, $S(n)$ indichi la somma di tutti i numeri di $n$. Trova tutti i numeri naturali $n$ in modo tale che $n = 2S(n)^2$.
+> Per ogni numero naturale $n$, espresso in base 10, si indichi con $S(n)$ la somma di tutte le cifre di $n$. Determinare tutti i numeri naturali $n$ tali che $n = 2S(n)^2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2016_r1#q03|src_rmo_2016_r1__Q03]]
 
 
 
@@ -105,9 +127,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri a 6 cifre con esattamente tre numeri unici e tre cifre pari*
+*Conta i numeri di 6 cifre che hanno esattamente tre cifre dispari e tre cifre pari*
 
-> Trova il numero di tutti i numeri naturali a 6 cifre che hanno esattamente tre cifre odd e tre cifre pari.
+> Determinare il numero di tutti i numeri naturali di 6 cifre che hanno esattamente tre cifre dispari e tre cifre pari.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2016_r1#q04|src_rmo_2016_r1__Q04]]
 
 
 
@@ -129,9 +158,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Centroide triangolare, circoncircoli che intersecano le linee, dimostrare che G è centroide di AXY*
+*Baricentro del triangolo, le circonferenze circoscritte intersecano le rette, dimostrare che G è il baricentro di AXY*
 
-> Che $ABC$ sia un triangolo con centroid $G$. Il circoncircolo del triangolo $AGB$ interseca la linea $BC$ in $X$ diversa da $B$, e il circoncircolo del triangolo $AGC$ interseca la linea $BC$ in $Y$ diversa da $C$. Prova che $G$ è il centroide del triangolo $AXY$.
+> Sia $ABC$ un triangolo con baricentro $G$. Sia $X$, diverso da $B$, il punto in cui la circonferenza circoscritta al triangolo $AGB$ interseca la retta $BC$, e sia $Y$, diverso da $C$, il punto in cui la circonferenza circoscritta al triangolo $AGC$ interseca la retta $BC$. Dimostrare che $G$ è il baricentro del triangolo $AXY$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2016_r1#q05|src_rmo_2016_r1__Q05]]
 
 
 
@@ -154,6 +189,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Progressione aritmetica con sottossequenza geometrica infinita*
+*Progressione aritmetica con sottosuccessione geometrica infinita*
 
-> Che $(a_1, a_2, a_3, \ldots)$ sia una sequenza di numeri interi positivi in rigorosa crescita in una progressione aritmetica. Prove che c'è una sottossequenza infinita della sequenza data i cui termini sono in una progressione geometrica.
+> Sia $(a_1, a_2, a_3, \ldots)$ una successione strettamente crescente di interi positivi in progressione aritmetica. Dimostrare che esiste una sottosuccessione infinita della successione data i cui termini sono in progressione geometrica.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2016_r1#q06|src_rmo_2016_r1__Q06]]

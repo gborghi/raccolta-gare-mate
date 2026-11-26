@@ -33,11 +33,20 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi tangenti alle linee AC e AD attraverso vertici e punti di centro dell'arco si incontrano di nuovo a P; dimostrare che AP divide l'angolo BAC.*
+*Due cerchi tangenti alle rette AC e AD nei vertici e nei punti medi dell'arco si incontrano di nuovo in P; dimostrare che AP biseca l'angolo BAC.*
 
-> Come mostrato nella figura. 1.1, $\angle A$ è l'angolo più grande del triangolo $ABC$. Sul circoncircolo di $\triangle ABC$, i punti $D$ e $E$ sono rispettivamente i punti di mezzo dell'arco $ABC$ e dell'arco $ACB$. Nota con $\odot O_1$ il cerchio che attraversa $A$ e $B$, e tangente alla linea $AC$; con $\odot O_2$ il cerchio che attraversa $A$ e $E$, e tangente alla linea $AD$. $\odot O_1$ interseca $\odot O_2$ ai punti $A$ e $P$. Provare che $AP$ è il bisector di $\angle BAC$.
+> Come mostrato nella Fig. 1.1, $\angle A$ è l'angolo più grande nel triangolo $ABC$. Sulla circonferenza circoscritta a $\triangle ABC$, i punti $D$ e $E$ sono rispettivamente i punti medi dell'arco $ABC$ e dell'arco $ACB$. Si indichi con $\odot O_1$ la circonferenza passante per $A$ e $B$ e tangente alla retta $AC$; con $\odot O_2$ la circonferenza passante per $A$ e $E$ e tangente alla retta $AD$. $\odot O_1$ interseca $\odot O_2$ nei punti $A$ e $P$. Dimostrare che $AP$ è la bisettrice di $\angle BAC$.
 
 ![[src_cn_cmo_b11_w101__q01.png]]
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2012#q01|src_cn_cmo_2012__Q01]]
 
 
 
@@ -63,11 +72,18 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Su una matrice p x p riempita di 1..p^2, aggiungere/sottraire 1 lungo intere righe o colonne; conteggiare le matrici riduttibili a tutti i zeri.*
+*Su una matrice p x p riempita con i valori da 1 a p^2, aggiungere/sottrarre 1 lungo intere righe o colonne; contare le matrici riducibili a tutte zero.*
 
-> Dato un numero primo $p$, $A$ sia una matrice $p \times p$ tale che le sue voci siano esattamente $1, 2, \ldots, p^2$ in un certo ordine. Per una matrice è consentita la seguente operazione: aggiungere uno a ciascun numero di una riga o di una colonna, o sottrarre uno da ciascun numero di una riga o di una colonna. La matrice $A$ viene chiamata "buona" se si può prendere una serie finita di tali operazioni che si traduce in una matrice con tutte le voci zero. Trova il numero di matrici buone $A$.
+> Dato un numero primo $p$, si ponga $A$ come una matrice $p \times p$ i cui elementi siano esattamente $1, 2, \ldots, p^2$ in un certo ordine. Per una matrice è ammessa la seguente operazione: aggiungere uno a ciascun numero di una riga o di una colonna, oppure sottrarre uno a ciascun numero di una riga o di una colonna. La matrice $A$ è detta "buona" se si può eseguire una successione finita di tali operazioni tale che si ottenga una matrice con tutti gli elementi nulli. Determinare il numero di matrici buone $A$.
 
-**Risposta:** $2(p!)^2$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2012#q02|src_cn_cmo_2012__Q02]]
 
 
 
@@ -93,11 +109,18 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per f(x)=(x+a)(x+b) e x_i non negativi sommati a 1, massimizzare la somma su coppie di min{f(x_i),f(x_j)}.*
+*Per f(x)=(x+a)(x+b) e x_i non negativi la cui somma è 1, massimizzare la somma, estesa sulle coppie, di min{f(x_i),f(x_j)}.*
 
-> Se $f(x) = (x+a)(x+b)$ viene dato un numero reale positivo $a, b$, $n \ge 2$ è un intero dato. Per i numeri reali non negativi $x_1, x_2, \ldots, x_n$ che soddisfano $x_1 + x_2 + \cdots + x_n = 1$, trovare il massimo di $F = \sum_{1 \le i < j \le n} \min\{f(x_i), f(x_j)\}$.
+> Sia $f(x) = (x+a)(x+b)$, dove $a, b$ sono numeri reali positivi dati, e sia $n \ge 2$ un intero dato. Per i numeri reali non negativi $x_1, x_2, \ldots, x_n$ che soddisfano $x_1 + x_2 + \cdots + x_n = 1$, determinare il massimo di $F = \sum_{1 \le i < j \le n} \min\{f(x_i), f(x_j)\}$.
 
-**Risposta:** $\dfrac{n-1}{2}\left(\dfrac{1}{n}+a+b+nab\right)$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2012#q04|src_cn_cmo_2012__Q04]]
 
 
 
@@ -122,6 +145,15 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per n pari a quadrato libero e p primo con p<2 sqrt(n), p non divide n, p divide n+k^2, scrivi n come ab+bc+ca con diversi interi positivi.*
+*Per n pari privo di quadrati e p primo tale che p < 2√n, p non divide n e p divide n+k^2, si scriva n come ab+bc+ca con interi positivi distinti.*
 
-> Che $n$ sia un numero pari positivo senza quadrato, $k$ sia un numero intero, $p$ sia un numero primo, soddisfacendo $p < 2\sqrt{n}$, $p \nmid n$, $p \mid n + k^2$. Prova che $n$ può essere scritto come $n = ab + bc + ca$, dove $a$, $b$, $c$ sono numeri interi positivi distintivi.
+> Sia $n$ un numero pari positivo libero da quadrati, sia $k$ un intero, sia $p$ un numero primo, tali che $p < 2\sqrt{n}$, $p \nmid n$, $p \mid n + k^2$. Dimostrare che $n$ può essere scritto come $n = ab + bc + ca$, dove $a$, $b$, $c$ sono interi positivi distinti.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2012#q05|src_cn_cmo_2012__Q05]]

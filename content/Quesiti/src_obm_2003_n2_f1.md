@@ -34,15 +34,23 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo diviso in 7 quadrati, area più piccola 1, trova area rettangolare*
+*Un rettangolo è diviso in 7 quadrati: se il più piccolo ha area 1, qual è l'area del rettangolo*
 
-> Il rettangolo nella figura di seguito è diviso in 7 quadrati. Se la superficie del più piccolo quadrato è 1, la superficie del rettangolo è:
-> 
+> Il rettangolo nella figura qui sotto è diviso in 7 quadrati. Se l'area del quadrato più piccolo è 1, l'area del rettangolo è:
+>
 > (A) 42 \quad (B) 44 \quad (C) 45 \quad (D) 48 \quad (E) 49
 
 ![[src_obm_2003_n2_f1__q01.png]]
 
 **Risposta:** C
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n2_f1#q01|src_obm_2003_n2_f1__Q01]]
 
 
 
@@ -68,13 +76,21 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero minimo di bastoni da 6 cm e 7 cm per una lunghezza totale di 2 m*
+*Con bastoncini da 6 cm e da 7 cm, quanti ne servono al minimo per una fila di 200 cm*
 
-> Hai molti bastoni di 6 cm e 7 cm di lunghezza. Per formare una fila di bastoni di lunghezza totale di 2 metri (200 cm), il numero minimo di bastoni da utilizzare è:
-> 
+> Si hanno molti bastoncini lunghi 6 cm e 7 cm. Per formare una fila di lunghezza totale 2 metri (200 cm), il minimo numero di bastoncini da usare è:
+>
 > (A) 29 \quad (B) 30 \quad (C) 31 \quad (D) 32 \quad (E) 33
 
 **Risposta:** A
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n2_f1#q02|src_obm_2003_n2_f1__Q02]]
 
 
 
@@ -100,13 +116,21 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rotelle più piccole di $(x-37)^2 = 169$*
+*Si chiede la radice maggiore di un'equazione di secondo grado*
 
 > La radice più grande dell'equazione $(x - 37)^2 - 169 = 0$ è:
-> 
+>
 > (A) 39 \quad (B) 43 \quad (C) 47 \quad (D) 50 \quad (E) 53
 
 **Risposta:** A
+
+**Argomento:** [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n2_f1#q03|src_obm_2003_n2_f1__Q03]]
 
 
 
@@ -134,15 +158,23 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trascrizioni di calcolatore A (2x+1) e B (3x-1) da 5; numero a due cifre più grande*
+*Due tasti trasformano un intero non negativo: massimo numero di due cifre partendo da 5*
 
-> Una determinata calcolatrice ha un display che mostra un intero non negativo $x$ e due tasti A e B. La chiave A sostituisce il numero di visualizzazione con $2x + 1$. Quando viene premuto il tasto B, il numero di visualizzazione viene sostituito da $3x - 1$.
-> 
-> Se il display mostra attualmente il numero 5 e si premono i tasti A e B (in qualsiasi ordine e numero di volte), il numero più grande a due cifre che si può ottenere è:
-> 
+> Una calcolatrice ha un display che mostra un intero non negativo $x$ e due tasti A e B. Il tasto A sostituisce il numero sul display con $2x + 1$. Premendo B, il numero è sostituito da $3x - 1$.
+>
+> Se il display mostra 5 e si premono i tasti A e B (in qualsiasi ordine e un qualsiasi numero di volte), il più grande numero di due cifre che si può ottenere è:
+>
 > (A) 85 \quad (B) 87 \quad (C) 92 \quad (D) 95 \quad (E) 96
 
 **Risposta:** D
+
+**Argomento:** [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n2_f1#q04|src_obm_2003_n2_f1__Q04]]
 
 
 
@@ -171,17 +203,27 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato magico con 14, x, 26, 13; trovare x*
+*In un quadrato magico si chiede il valore di x*
 
-> In un quadrato magico, la somma dei numeri in ogni riga, colonna o diagonale è sempre la stessa. Nel quadrato magico di seguito, il valore di $x$ è:
-> 
-> $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hline\end{array}$$
-> 
+> In un quadrato magico la somma dei numeri di ogni riga, di ogni colonna o di ogni diagonale è sempre la stessa. Nel quadrato magico qui sotto, il valore di $x$ è:
+>
+>
+>
+$$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hline\end{array}$$
+>
+>
+>
 > (A) 20 \quad (B) 22 \quad (C) 23 \quad (D) 25 \quad (E) 27
 
 ![[src_obm_2003_n2_f1__q05.png]]
 
 **Risposta:** E
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n2_f1#q05|src_obm_2003_n2_f1__Q05]]
 
 
 
@@ -207,13 +249,21 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unità di n^n - n^2 per n=9867*
+*Si chiede la cifra delle unità di una potenza meno un quadrato*
 
-> Let $n = 9867$. Se si calcola $n^n - n^2$, si trova un numero il cui numero unitario è:
-> 
+> Sia $n = 9867$. Se si calcolasse $n^n - n^2$, si troverebbe un numero la cui cifra delle unità è:
+>
 > (A) 1 \quad (B) 2 \quad (C) 4 \quad (D) 6 \quad (E) 8
 
 **Risposta:** C
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_congruenze|Congruenze]]
+
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n2_f1#q06|src_obm_2003_n2_f1__Q06]]
 
 
 
@@ -242,17 +292,23 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piramida simile a un triangolo pascale con riga inferiore 3,5,x,6 e parte superiore 42; trovare x*
+*Ogni numero è la somma dei due sotto: si chiede x nella riga di base*
 
-> Nella figura, il numero 42 è ottenuto come la parte superiore di una piramide in cui ogni numero (escluse quelle nella riga inferiore) è uguale alla somma dei due numeri direttamente sotto di esso. La riga inferiore è $3,\ 5,\ x,\ 6$. Qual è il valore di $x$?
-> 
-> Le righe intermedi possono essere espresse come: $8,\ 5+x,\ x+6$ e $13+x,\ 11+2x$, dando $(13+x)+(11+2x)=42$.
-> 
+> Nella figura il numero 42 è la cima di una piramide in cui ogni numero, tranne quelli della riga in basso, è la somma dei due numeri subito sotto. La riga in basso è $3,\ 5,\ x,\ 6$. Qual è il valore di $x$?
+>
+> Le righe intermedie si possono scrivere $8,\ 5+x,\ x+6$ e $13+x,\ 11+2x$, da cui $(13+x)+(11+2x)=42$.
+>
 > (A) 7 \quad (B) 3 \quad (C) 5 \quad (D) 4 \quad (E) 6
 
 ![[src_obm_2003_n2_f1__q07.png]]
 
 **Risposta:** E
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n2_f1#q07|src_obm_2003_n2_f1__Q07]]
 
 
 
@@ -281,17 +337,23 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca x: moltiplica per 2, aggiungi 1, moltiplica per 3, sottrazione 5 dà 220*
+*Da un intero positivo, quattro operazioni danno 220: che cosa si può dire del numero di partenza*
 
-> Considerare un intero positivo $x$ e applicare le seguenti operazioni successive: moltiplicare per 2, aggiungere 1, moltiplicare per 3, sottrarre 5. Se il risultato finale è 220, allora $x$ è:
+> Si prenda un intero positivo $x$ e si eseguano, nell'ordine, queste operazioni: si moltiplica per 2, si aggiunge 1, si moltiplica per 3, si sottrae 5. Se il risultato finale è 220, allora $x$ è:
 >
-> - **(A)** un numero strano.
+> - **(A)** un numero dispari.
 > - **(B)** un numero pari.
-> - **(C)** un numero tra i 40 e i 50.
-> - **(D)** un moltiplo di 5.
-> - **(E)** un numero la cui somma digitali è 9.
+> - **(C)** un numero compreso tra 40 e 50.
+> - **(D)** un multiplo di 5.
+> - **(E)** un numero la cui somma delle cifre è 9.
 
 **Risposta:** A
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n2_f1#q08|src_obm_2003_n2_f1__Q08]]
 
 
 
@@ -316,13 +378,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre naturali consecutivi a< b< c; semplificare c^2 - ab*
+*Tre naturali consecutivi: a che cosa è uguale c² − ab*
 
-> I numeri $a$, $b$, $c$ sono numeri naturali consecutivi in ordine crescente (così $b = a+1$, $c = a+2$). Il valore di $c^2 - ab$ è quindi uguale a:
-> 
+> I numeri $a$, $b$, $c$ sono naturali consecutivi in ordine crescente (dunque $b = a+1$, $c = a+2$). Allora il valore di $c^2 - ab$ è uguale a:
+>
 > (A) 0 \quad (B) 1 \quad (C) $2a + b$ \quad (D) $2a + c$ \quad (E) $2b + c$
 
 **Risposta:** E
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n2_f1#q09|src_obm_2003_n2_f1__Q09]]
 
 
 
@@ -350,15 +418,23 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza oscillante 1,2,3,4,5,3,2 con periodo 7; termine 2003*
+*Si chiede un termine lontano di una sequenza periodica di periodo 7*
 
-> Considera la sequenza oscillante: $1, 2, 3, 4, 5, 3, 2, 1, 2, 3, 4, 5, 3, 2, \ldots$ (ripetendo con il periodo 7).
-> 
-> Il termine nella posizione $2003$ è:
-> 
+> Si consideri la sequenza oscillante: $1, 2, 3, 4, 5, 3, 2, 1, 2, 3, 4, 5, 3, 2, \ldots$ (si ripete con periodo 7).
+>
+> Il termine di posto $2003$ è:
+>
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
 **Risposta:** E
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_congruenze|Congruenze]]
+
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_obm_2003_n2_f1#q10|src_obm_2003_n2_f1__Q10]]
 
 
 
@@ -387,15 +463,23 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medio aritmetico meno armonico di 4 e 6*
+*Si definiscono media aritmetica e armonica, e si chiede la loro differenza per 4 e 6*
 
-> Considerate le seguenti definizioni: - La media aritmetica ** di due numeri reali positivi è la metà della loro somma. - La media armonica ** di due numeri reali positivi è la reciproca della media aritmetica dei loro reciproci.
-> 
+> Si considerino queste definizioni:
+> - La *media aritmetica* di due numeri reali positivi è la metà della loro somma.
+> - La *media armonica* di due numeri reali positivi è il reciproco della media aritmetica dei loro reciproci.
+>
 > La differenza tra la media aritmetica e la media armonica dei numeri 4 e 6 è:
-> 
-> (A) 0,1 \quad (B) 0,2 \quad (C) 0,3 \quad (D) 0,4 \quad (E) 0,5
+>
+> (A) 0.1 \quad (B) 0.2 \quad (C) 0.3 \quad (D) 0.4 \quad (E) 0.5
 
 **Risposta:** B
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n2_f1#q11|src_obm_2003_n2_f1__Q11]]
 
 
 
@@ -421,13 +505,21 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di auto-descrizione: quale candidato fallisce*
+*Tra cinque sequenze che dovrebbero descrivere le proprie cifre, quale non lo fa*
 
-> La sequenza "22" si descrive nel senso che contiene esattamente due 2s. Allo stesso modo, la sequenza "31 12 33 15" si descrive, poiché contiene esattamente 3 uno, 1 due, 3 tre e 1 cinque. Quale delle seguenti sequenze * non * si descrive?
-> 
-> (A) 21 32 33 16 Quad (B) 31 12 33 18 Quad (C) 31 22 33 17 Quad (D) 21 32 33 17 Quad (E) 41 32 24 15 16 18
+> La sequenza «22» si descrive da sola, nel senso che contiene esattamente due 2. Allo stesso modo la sequenza «31 12 33 15» si descrive da sola, perché contiene esattamente 3 uno, 1 due, 3 tre e 1 cinque. Quale delle sequenze seguenti *non* si descrive da sola?
+>
+> (A) 21 32 33 16 \quad (B) 31 12 33 18 \quad (C) 31 22 33 17 \quad (D) 21 32 33 17 \quad (E) 41 32 24 15 16 18
 
 **Risposta:** D
+
+**Argomento:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_obm_2003_n2_f1#q12|src_obm_2003_n2_f1__Q12]]
 
 
 
@@ -453,13 +545,21 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Domino set 08: quanti pezzi contengono il valore nominale più comune*
+*Un mazzo di domino fino al doppio 8 ha 45 tessere: quante volte compare il valore più presente*
 
-> Un set di domino con il doppio 8 più alto (contiene tutti i pezzi $[i,j]$ con $0 \le i \le j \le 8$) ha 45 pezzi in totale. Il valore nominale che appare sulla maggior parte dei pezzi appare su quanti pezzi?
-> 
+> Un mazzo di domino con doppio massimo 8 (tutte le tessere $[i,j]$ con $0 \le i \le j \le 8$) ha in tutto 45 tessere. Il valore di faccia che compare sul maggior numero di tessere, su quante tessere compare?
+>
 > (A) 34 \quad (B) 36 \quad (C) 42 \quad (D) 55 \quad (E) 45
 
 **Risposta:** C
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_conteggio|Conteggio]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n2_f1#q13|src_obm_2003_n2_f1__Q13]]
 
 
 
@@ -485,13 +585,25 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza a_n = (n+2)^2 - (n+3); trovare indice del primo termine non primo*
+*Una sequenza di naturali: qual è il primo termine che non è primo*
 
-> I numeri naturali superiori a 2, ciascuno diminuito di 2 in più di se stesso (cioè $a_n = (n+2)^2 - (n+3)$ per $n = 1, 2, 3, \ldots$), formano la sequenza $5, 11, 19, 29, 41, 55, \ldots$ Il primo elemento di questa sequenza che è * non * primo è il:
-> 
-> (A) Quarto Quadrato (B) Decimo Quadrato (C) Sesto Quadrato (D) Nona Quadrato (E) Settimo
+> I numeri naturali maggiori di 2, ciascuno diminuito di 2 più di se stesso (cioè $a_n = (n+2)^2 - (n+3)$ per $n = 1, 2, 3, \ldots$), formano la sequenza $5, 11, 19, 29, 41, 55, \ldots$. Il primo elemento di questa sequenza che *non* è primo è:
+>
+> - **(A)** il quarto
+> - **(B)** il decimo
+> - **(C)** il sesto
+> - **(D)** il nono
+> - **(E)** il settimo
 
 **Risposta:** C
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_obm_2003_n2_f1#q14|src_obm_2003_n2_f1__Q14]]
 
 
 
@@ -521,17 +633,25 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Puzzle logico: KAB o BAK significa sì in lucianês; cosa si può dedurre*
+*Non si sa se BAK e KAB siano sì o no: da una risposta di una parola si deduce qualcosa*
 
-> Sei in un paese straniero, LUCIANÊS, e non conosci la lingua. Sapete che le parole "BAK" e "KAB" significano *sì* o *no* (uno ciascuno), ma non sapete quale è quale. Incontri una persona che capisce il portoghese e il lucianês e chiedi: "KAB significa *sì*?" La persona dà una risposta di una parola. Basandosi solo sulla loro risposta, si può dedurre:
+> Siete in un paese straniero, il LUCIANÊS, e non conoscete la lingua. Sapete che le parole «BAK» e «KAB» significano *sì* o *no* (una per ciascuna), ma non sapete quale sia quale. Incontrate una persona che capisce sia il portoghese sia il lucianês e le chiedete: «'KAB' significa *sì*?» La persona risponde con una sola parola. Solo da quella risposta si può dedurre:
 >
 > - **(A)** KAB significa *sì*.
 > - **(B)** KAB significa *no*.
-> - **(C)** La persona che ha risposto ha mentito.
-> - **(D)** La persona che ha risposto ha detto la verità.
-> - **(E)** È impossibile determinare senza un dizionario LucianêsPortuguese.
+> - **(C)** Chi ha risposto mentiva.
+> - **(D)** Chi ha risposto ha detto la verità.
+> - **(E)** Senza un dizionario lucianês–portoghese non si può stabilire nulla.
 
 **Risposta:** C
+
+**Argomento:** [[topic_logica|Logica]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_obm_2003_n2_f1#q15|src_obm_2003_n2_f1__Q15]]
 
 
 
@@ -561,17 +681,25 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area del pentagono ABCDE nella griglia a punti (1 cm di spaziamento)*
+*Su una griglia a passo 1 cm si chiede l'area di un pentagono*
 
-> Nella disposizione rettangolare dei punti riportata di seguito, la distanza tra i punti adiacenti della stessa riga o colonna è di 1 cm.
-> 
-> La superficie del pentagono $ABCDE$, in cm$^2$, è:
-> 
+> Nella disposizione rettangolare di punti qui sotto, la distanza tra punti adiacenti della stessa riga o della stessa colonna è 1 cm.
+>
+> L'area del pentagono $ABCDE$, in cm$^2$, è:
+>
 > (A) 9 \quad (B) $\dfrac{19}{2}$ \quad (C) 10 \quad (D) $\dfrac{21}{2}$ \quad (E) 11
 
 ![[src_obm_2003_n2_f1__q16.png]]
 
 **Risposta:** B
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+
+**Metodo:** [[method_coordinate|Coordinate]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n2_f1#q16|src_obm_2003_n2_f1__Q16]]
 
 
 
@@ -599,15 +727,23 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i colori bianchi e neri 2x2 distinti fino alla rotazione*
+*Due colorazioni uguali per rotazione contano una volta: quanti modi*
 
-> Due coloranti di una lavagna $2 \times 2$ in bianco e nero sono considerati uguali se uno può essere ottenuto dall'altro mediante rotazione. In quanti modi distinti le celle di una scheda $2 \times 2$ possono essere colorate in bianco o nero (sotto questa equivalenza)?
-> 
+> Due colorazioni di una scacchiera $2 \times 2$ in nero e bianco si considerano uguali se una si ottiene dall'altra per rotazione. In quanti modi distinti si possono colorare di nero o di bianco le caselle di una scacchiera $2 \times 2$ (rispetto a questa equivalenza)?
+>
 > (A) 4 \quad (B) 5 \quad (C) 6 \quad (D) 7 \quad (E) 8
 
 ![[src_obm_2003_n2_f1__q17.png]]
 
 **Risposta:** C
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Analisi per casi]], [[method_simmetria|Simmetria]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_obm_2003_n2_f1#q17|src_obm_2003_n2_f1__Q17]]
 
 
 
@@ -635,13 +771,29 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare la somma di due frazioni di potenza*
+*Si chiede il valore di un'espressione con potenze*
 
-> Il valore dell'espressione $$\frac{2^{2003} \cdot 9^{1001}}{4^{1001} \cdot 3^{2003}} + \frac{2^{2002} \cdot 9^{1001}}{4^{1001} \cdot 3^{2003}}$$ è:
-> 
+> Il valore dell'espressione
+>
+>
+>
+$$\frac{2^{2003} \cdot 9^{1001}}{4^{1001} \cdot 3^{2003}} + \frac{2^{2002} \cdot 9^{1001}}{4^{1001} \cdot 3^{2003}}$$
+>
+>
+>
+> è:
+>
 > (A) $\dfrac{1}{3}$ \quad (B) $\dfrac{2}{3}$ \quad (C) $1$ \quad (D) $\dfrac{4}{3}$ \quad (E) $2$
 
 **Risposta:** C
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n2_f1#q18|src_obm_2003_n2_f1__Q18]]
 
 
 
@@ -667,13 +819,21 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ordine X=2^300, Y=11^100, Z=5^400 dal più piccolo al più grande*
+*Tra 2^300, 11^100 e 5^400, quale ordinamento è quello giusto*
 
-> Considerate i numeri $X = 2^{300}$, $Y = 11^{100}$ e $Z = 5^{400}$. Identificare l'ordine corretto:
-> 
+> Si considerino i numeri $X = 2^{300}$, $Y = 11^{100}$ e $Z = 5^{400}$. Individuare l'ordinamento corretto:
+>
 > (A) $X < Z < Y$ \quad (B) $Y < X < Z$ \quad (C) $X < Y < Z$ \quad (D) $Z < X < Y$ \quad (E) $Z < Y < X$
 
 **Risposta:** C
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_obm_2003_n2_f1#q19|src_obm_2003_n2_f1__Q19]]
 
 
 
@@ -699,13 +859,25 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di coin-flip con tre giocatori; chi ha la minore probabilità di vincere*
+*Tre giocatrici vincono su coppie di esiti diversi: chi ha la probabilità più piccola*
 
-> Beatriz, Isabele e Nicole stanno giocando a turni a lanciare una moneta giusta. Beatriz vince se, in due volte consecutive, entrambe sono teste. Nicole vince se, in due volte consecutive, entrambe sono coda. Isabele vince se in due volte consecutive uno è testa e uno è coda. Spuntano la moneta ripetutamente in ordine (Beatriz, poi Isabele, poi Nicole, poi Beatriz, ...) finché qualcuno non vince. Quale giocatore ha (ha) la minore probabilità di vincere?
-> 
-> (A) Beatriz \quad (B) Isabele \quad (C) Nicole \quad (D) Beatriz e Nicole \quad (E) Tutti e tre hanno la stessa probabilità.
+> Beatriz, Isabele e Nicole giocano a turno lanciando una moneta equa. Beatriz vince se, in due lanci consecutivi, escono entrambe teste. Nicole vince se, in due lanci consecutivi, escono entrambe croci. Isabele vince se in due lanci consecutivi escono una testa e una croce. Lanciano la moneta ripetutamente, nell'ordine Beatriz, poi Isabele, poi Nicole, poi di nuovo Beatriz, e così via, finché qualcuno vince. Chi ha la probabilità minima di vincere?
+>
+> - **(A)** Beatriz
+> - **(B)** Isabele
+> - **(C)** Nicole
+> - **(D)** Beatriz e Nicole
+> - **(E)** Tutte e tre hanno la stessa probabilità.
 
 **Risposta:** B
+
+**Argomento:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]]
+
+**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_obm_2003_n2_f1#q20|src_obm_2003_n2_f1__Q20]]
 
 
 
@@ -735,17 +907,29 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*4×4 Tavola simile a una spazzatura minestrale; contare i quadrati segnati*
+*Su una scacchiera 4×4, dal numero di vicine segnate si ricostruisce quante caselle sono segnate*
 
-> Camila e Lara giocano il seguente gioco su una tavola $4 \times 4$. Camila segna alcuni quadrati sulla lavagna e dice a Lara, per ogni quadrato, quanti dei suoi vicini (che condividono un lato o un angolo) sono segnati. Lara deve determinare quali quadrati Camila ha segnato. Camila presenta la seguente tabella di conteggio dei vicini:
-> 
-> $$\begin{array}{|c|c|c|c|}\hline 1 & 2 & 1 & 1 \\\hline 0 & 2 & 1 & 2 \\\hline 2 & 3 & 3 & 1 \\\hline 1 & 0 & 2 & 1 \\\hline\end{array}$$
-> 
-> Quanti quadrati ha segnato Camila?
-> 
+> Camila e Lara giocano su una scacchiera $4 \times 4$. Camila segna alcune caselle e dice a Lara, per ogni casella, quante delle sue vicine (lato o angolo in comune) sono segnate. Lara deve stabilire quali caselle ha segnato Camila. Camila presenta questa tabella dei conteggi:
+>
+>
+>
+$$\begin{array}{|c|c|c|c|}\hline 1 & 2 & 1 & 1 \\\hline 0 & 2 & 1 & 2 \\\hline 2 & 3 & 3 & 1 \\\hline 1 & 0 & 2 & 1 \\\hline\end{array}$$
+>
+>
+>
+> Quante caselle ha segnato Camila?
+>
 > (A) 3 \quad (B) 4 \quad (C) 5 \quad (D) 6 \quad (E) 7
 
 **Risposta:** B
+
+**Argomento:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_obm_2003_n2_f1#q21|src_obm_2003_n2_f1__Q21]]
 
 
 
@@ -771,13 +955,21 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Partzione {2,3,5,7,11,13,17} in modo che i prodotti differiscano di 1; somma di cifre di più grande*
+*Si ripartiscono sette primi in due gruppi i cui prodotti differiscono di 1: somma delle cifre di A*
 
-> Dividere i numeri $2, 3, 5, 7, 11, 13$ e $17$ in due gruppi non vuoti in modo tale che il prodotto $A$ di un gruppo e il prodotto $B$ dell'altro soddisfino $A - B = 1$. Qual è la somma delle cifre di $A$?
-> 
+> Si dividano i numeri $2, 3, 5, 7, 11, 13$ e $17$ in due gruppi non vuoti in modo che il prodotto $A$ di un gruppo e il prodotto $B$ dell'altro soddisfino $A - B = 1$. Qual è la somma delle cifre di $A$?
+>
 > (A) 10 \quad (B) 11 \quad (C) 13 \quad (D) 14 \quad (E) 15
 
 **Risposta:** C
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+
+**Abilità:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n2_f1#q22|src_obm_2003_n2_f1__Q22]]
 
 
 
@@ -803,13 +995,21 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Ricerca binaria sui numeri unici 199; richieste di domande massime
+*Si cerca il massimo numero di domande a metà intervallo per trovare un dispari sotto 100*
 
-> Carlinhos pensa a un numero par positivo inferiore a 100. Pedrinho gioca un gioco di ipotesi: a ogni passo, Pedrinho sceglie il valore medio della gamma rimanente e chiede se il numero di Carlinhos è maggiore o inferiore a tale valore. Pedrinho sceglie sempre il mezzo dei restanti numeri dispari. Qual è il numero massimo di domande che Pedrinho deve garantire per trovare il numero?
-> 
+> Carlinhos pensa un intero positivo dispari minore di 100. Pedrinho indovina così: a ogni passo sceglie il valore di mezzo dell'intervallo rimasto e chiede se il numero di Carlinhos è maggiore o minore di quel valore. Pedrinho sceglie sempre il mezzo tra i dispari rimasti. Qual è il massimo numero di domande che gli servono per essere sicuro di trovare il numero?
+>
 > (A) 5 \quad (B) 7 \quad (C) 15 \quad (D) 25 \quad (E) 45
 
 **Risposta:** A
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+
+[[Quesiti/src_obm_2003_n2_f1#q23|src_obm_2003_n2_f1__Q23]]
 
 
 
@@ -837,15 +1037,23 @@ Ricerca binaria sui numeri unici 199; richieste di domande massime
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area del triangolo BFG formata all'interno del triangolo equilaterale ABC con lato 1*
+*In un triangolo equilatero di lato 1 cm si chiede l'area di un triangolo interno*
 
-> Nella figura, $ABC$ è un triangolo equilaterale con lunghezza laterale di 1 cm. Il punto $M$ è il punto medio di $BC$. Le linee vengono disegnate dai vertici creando un triangolo $BFG$ all'interno di $ABC$. L'area del triangolo $BFG$, in cm$^2$, è:
-> 
+> Nella figura $ABC$ è un triangolo equilatero di lato 1 cm. Il punto $M$ è il punto medio di $BC$. Dai vertici si tracciano rette che formano il triangolo $BFG$ dentro $ABC$. L'area del triangolo $BFG$, in cm$^2$, è:
+>
 > (A) $\dfrac{1}{4}$ \quad (B) $\dfrac{\sqrt{3}}{4}$ \quad (C) $\dfrac{\sqrt{3}}{4}$ \quad (D) $\dfrac{\sqrt{3}}{12}$ \quad (E) $\dfrac{3}{10}$
 
 ![[src_obm_2003_n2_f1__q24.png]]
 
 **Risposta:** D
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n2_f1#q24|src_obm_2003_n2_f1__Q24]]
 
 
 
@@ -873,12 +1081,20 @@ Ricerca binaria sui numeri unici 199; richieste di domande massime
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo retto ABC; BD=8, EC=9; angolo di ricerca DAE*
+*Due punti sul lato BC: si chiede l'angolo DAE*
 
-> Nel triangolo $ABC$, abbiamo $AB = 20$, $AC = 21$ e $BC = 29$. I punti $D$ e $E$ sono a lato $BC$ con $BD = 8$ e $EC = 9$. Trova la misura dell'angolo $\angle DAE$, in gradi.
-> 
+> Nel triangolo $ABC$ si ha $AB = 20$, $AC = 21$ e $BC = 29$. I punti $D$ e $E$ stanno sul lato $BC$, con $BD = 8$ e $EC = 9$. Trovare la misura dell'angolo $\angle DAE$, in gradi.
+>
 > (A) $30^\circ$ \quad (B) $40^\circ$ \quad (C) $45^\circ$ \quad (D) $60^\circ$ \quad (E) $75^\circ$
 
 ![[src_obm_2003_n2_f1__q25.png]]
 
 **Risposta:** C
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n2_f1#q25|src_obm_2003_n2_f1__Q25]]

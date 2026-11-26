@@ -26,21 +26,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0980
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of triangle ABC on three squares*
+*In the following figure, the three squares have sides measuring 35 cm. What is the area of triangle ABC, in cm²?*
 
 ![[src_squadre_2013_roma__prob1.png]]
 
-> In the following figure the 3 squares have side 35 cm.
-> figure 1
-> What is, in cm^2, the area of triangle ABC?
+> In the following figure, the 3 squares have sides 35 cm long. Figure 1: What is the area of triangle ABC, in cm²?
 
-**Answer:** 0980
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2013_roma#q01|src_squadre_2013_roma__Q01]]
 
 
 
@@ -61,19 +62,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 2013
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A cockroach on the pyramid of the god Bunga*
+*The enormous pyramid dedicated to the god Bunga has a square ABCD as its base, with a side of…*
 
 ![[src_squadre_2013_roma__prob2.png]]
 
-> The enormous pyramid dedicated to the god Bunga has as base a square ABCD with side 2013 metres, and the four lateral edges VA, VB, VC and VD also measure 2013 metres. A cockroach is initially at the centroid of face VAB and wants to move to the centroid of the opposite face VCD by walking on the surface of the pyramid. What is, in metres, the minimum length of its path?
+> The enormous pyramid dedicated to the god Bunga has a square base ABCD with side length 2013 metres, and its four lateral edges VA, VB, VC, and VD are also 2013 metres long. A cockroach is initially at the centroid of face VAB and wants to move to the centroid of the opposite face VCD by walking on the surface of the pyramid. What is the minimum length of its path, expressed in metres?
 
-**Answer:** 2013
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2013_roma#q02|src_squadre_2013_roma__Q02]]
 
 
 
@@ -89,19 +93,19 @@ level: squadre
 > Calcolare la parte intera di log\_2(3) · log\_3(4) · log\_4(5) · log\_5(6) · . . . · log\_(8191)(8192).
 
 **Risposta:** 0013
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer part of a product of logarithms*
+*Calculate the integer part of log_2(3) · log_3(4) · log_4(5) · log_5(6) · ... ·…*
 
 ![[src_squadre_2013_roma__prob3.png]]
 
-> Compute the integer part of log\_2(3) · log\_3(4) · log\_4(5) · log\_5(6) · . . . · log\_(8191)(8192).
+> Calculate the integer part of log_2(3) · log_3(4) · log_4(5) · log_5(6) · ... · log_(8191)(8192).
 
-**Answer:** 0013
+[[Quesiti/src_squadre_2013_roma#q03|src_squadre_2013_roma__Q03]]
 
 
 
@@ -122,19 +126,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1064
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sea within 10 km of a convex island*
+*An island has the shape of a convex (but irregular) polygon with 2013 sides, and its…*
 
 ![[src_squadre_2013_roma__prob4.png]]
 
-> An island has the shape of a convex (but irregular) polygon with 2013 sides, and its coastline is 75 km long in total. What is the area A of the part of the sea that is no more than 10 km from the coast? (Give the integer part of A as the answer; if you think the data given are insufficient, give 0 as the answer)
+> An island has the shape of a convex (but irregular) polygon with 2013 sides, and its coastline is 75 km long in total. What is the area A of the portion of the sea that is no more than 10 km from the coast? (In your answer, state the integer part of A; if you believe the data provided are insufficient, state 0 as the answer.)
 
-**Answer:** 1064
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2013_roma#q04|src_squadre_2013_roma__Q04]]
 
 
 
@@ -153,19 +160,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0016
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reduced fractions with numerator × denominator = 2^12 − 1*
+*How many fractions are in lowest terms and have a positive denominator ta…*
 
 ![[src_squadre_2013_roma__prob5.png]]
 
-> How many fractions in lowest terms and with positive denominator are there such that the product of numerator and denominator is 2^(12) − 1? (Remember that an integer is to be considered a fraction with denominator 1)
+> How many fractions in lowest terms with a positive denominator are there such that the product of the numerator and the denominator is 2^(12) − 1? (Recall that an integer should be regarded as a fraction with denominator 1.)
 
-**Answer:** 0016
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2013_roma#q05|src_squadre_2013_roma__Q05]]
 
 
 
@@ -184,19 +194,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0000
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remainder of 600! divided by 177! · 313! · 111!*
+*Let n = 600! and m = 177! · 313! · 111!; find the remainder when n is divided by…*
 
 ![[src_squadre_2013_roma__prob6.png]]
 
-> Given n = 600! and m = 177! · 313! · 111!, find the remainder of the division of n by m. (If this remainder were greater than 9999, give 9999 as the answer)
+> Let n = 600! and m = 177! · 313! · 111!; find the remainder when n is divided by m. (If this remainder were greater than 9999, state 9999 as the answer.)
 
-**Answer:** 0000
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2013_roma#q06|src_squadre_2013_roma__Q06]]
 
 
 
@@ -216,21 +229,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0113
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Digit sum of 7 + 97 + 997 + …*
+*Let S be the result obtained by calculating the sum 7 + 97 + 997 + 9997 + … + 99…97.…*
 
 ![[src_squadre_2013_roma__prob7.png]]
 
-> Let S be the result obtained by computing the following sum:
-> 7 + 97 + 997 + 9997 + 99997 + . . . + 99 . . . 9 7 (in the last addend there are 100 nines).
-> What is the sum of the digits of S?
+> Let S be the result obtained by calculating the following sum: 7 + 97 + 997 + 9997 + 99997 + ... + 99...97 (in the last addend, there are 100 nines). What is the sum of the digits of S?
 
-**Answer:** 0113
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2013_roma#q07|src_squadre_2013_roma__Q07]]
 
 
 
@@ -249,19 +263,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 9604
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest n ≤ 9999 such that x^4 + n factorises*
+*What is the largest positive integer n ≤ 9999 such that the polynomial x^4 +…*
 
 ![[src_squadre_2013_roma__prob8.png]]
 
-> What is the largest positive integer n ≤ 9999 such that the polynomial x^4 + n can be factorised as the product of two second-degree polynomials with integer coefficients?
+> What is the largest positive integer n ≤ 9999 such that the polynomial x^4 + n can be factored as a product of two quadratic polynomials with integer coefficients?
 
-**Answer:** 9604
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2013_roma#q08|src_squadre_2013_roma__Q08]]
 
 
 
@@ -288,24 +305,27 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2600
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The King of Kenoncè assigning 100 seats*
+*Kenoncè Island is a constitutional monarchy. In the last election, the three parties…*
 
 ![[src_squadre_2013_roma__prob9.png]]
 
-> The island of Kenoncè is a constitutional monarchy. At the last elections the three parties with the most votes were, in order, the Knights' Party, the Knaves' Party and the Jesters' Party, while the other parties received little support. The law, however, establishes that the King, after assigning the government posts to the party with the most votes, assigns the seats in parliament at his discretion, respecting only the following constraints:
-> 1. There are 100 seats to assign.
-> 2. Only the 3 parties with the most votes can receive seats.
+> The Island of Kenoncè is a constitutional monarchy. In the last election, the three parties that received the most votes were, in order, the Party of Knights, the Party of Scoundrels, and the Party of Buffoons, while the other parties received few votes. However, the law stipulates that, after assigning government posts to the party that received the most votes, the King shall allocate parliamentary seats at his discretion, subject only to the following constraints:
+> 1. The number of seats to be allocated is 100.
+> 2. Only the 3 parties that received the most votes can receive seats.
 > 3. The second party must be guaranteed at least one seat.
-> 4. The third party cannot be assigned more seats than the second.
-> Note in particular that, if he wished, the King could even assign all 100 seats to the second party. In how many different ways can the King distribute the 100 seats among the 3 parties?
+> 4. The third party cannot be allocated more seats than the second party.
+> In particular, note that, if he wished, the King could also assign all 100 seats to the second party. How many different ways are there in which the King can distribute the 100 seats among the 3 parties?
 
-**Answer:** 2600
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2013_roma#q09|src_squadre_2013_roma__Q09]]
 
 
 
@@ -326,19 +346,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 3840
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Paths on the prism-shaped planet Strano*
+*The planet Strano is shaped like a regular prism with dodecagonal bases…*
 
 ![[src_squadre_2013_roma__prob10.png]]
 
-> The planet Strano has the shape of a regular prism with bases shaped like a regular dodecagon. Its only inhabitant enjoys (!!) travelling round the planet non-stop, jumping from one face to another (provided the jumps are always between adjacent faces, that is, with an edge in common). How many different possible paths, 4 jumps long, are there whose starting face is not a lateral face of the prism?
+> The planet Strano is shaped like a regular prism with bases that are regular dodecagons. Its sole inhabitant amuses themselves (!!) by continuously traversing the planet, jumping from one face to another (provided the jumps always occur between adjacent faces—that is, faces sharing an edge). How many different possible paths, each 4 jumps long, are there in which the starting face is not a lateral face of the prism?
 
-**Answer:** 3840
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2013_roma#q10|src_squadre_2013_roma__Q10]]
 
 
 
@@ -358,19 +381,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0648
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n with prime factors ≤ 3 and divisor sum 1815*
+*Find a positive integer n that contains no prime factors greater than 3 and such that…*
 
 ![[src_squadre_2013_roma__prob11.png]]
 
-> Find a positive integer n with no prime factors greater than 3 and such that the sum of all its positive divisors, including 1 and n, is 1815. (If no integer n had the required properties, give 0 as the answer; if there were more than one, give 9999 as the answer.)
+> Find a positive integer n that has no prime factors greater than 3 and for which the sum of all its positive divisors, including 1 and n, is 1815. (If no integer n satisfies the required properties, give 0 as the answer; if there is more than one, give 9999 as the answer.)
 
-**Answer:** 0648
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2013_roma#q11|src_squadre_2013_roma__Q11]]
 
 
 
@@ -388,19 +414,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2916
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest product of positive integers with sum 22*
+*What is the largest integer that can be written as a product of i-numbers…*
 
 ![[src_squadre_2013_roma__prob12.png]]
 
 > What is the largest integer that can be written as a product of positive integers whose sum is 22?
 
-**Answer:** 2916
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2013_roma#q12|src_squadre_2013_roma__Q12]]
 
 
 
@@ -420,19 +449,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0576
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tetrahedron with an edge-tangent sphere: inradius of BCD*
+*For tetrahedron ABCD, we know that AB = 1720 mm, AC = 2125 mm, and AD = 2280 mm. Know…*
 
 ![[src_squadre_2013_roma__prob13.png]]
 
-> Of the tetrahedron ABCD we know that AB = 1720 mm, AC = 2125 mm and AD = 2280 mm. We also know that the face BCD has perimeter 6250 mm and that there is a sphere tangent to all 6 edges of the tetrahedron. What is, in millimetres, the radius of the circle inscribed in face BCD?
+> For tetrahedron ABCD, we know that AB = 1720 mm, AC = 2125 mm, and AD = 2280 mm. We also know that face BCD has a perimeter of 6250 mm and that there exists a sphere tangent to all 6 edges of the tetrahedron. What is the radius, in millimeters, of the circle inscribed in face BCD?
 
-**Answer:** 0576
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2013_roma#q13|src_squadre_2013_roma__Q13]]
 
 
 
@@ -451,19 +483,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6912
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arranging 1 to 11 with consecutive triples divisible by 3*
+*In how many ways can all the numbers from 1 to 11 be arranged in a row so that v…*
 
 ![[src_squadre_2013_roma__prob14.png]]
 
-> In how many ways can all the numbers from 1 to 11 be put in a row so that the following property holds: whenever 3 consecutive positions of the row are taken, the sum of the 3 numbers occupying them is divisible by 3.
+> In how many ways can all the numbers from 1 to 11 be arranged in a row so that the following property holds: whatever three consecutive positions in the row are chosen, the sum of the three numbers occupying those positions is divisible by 3?
 
-**Answer:** 6912
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2013_roma#q14|src_squadre_2013_roma__Q14]]
 
 
 
@@ -482,19 +517,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0051
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n ≤ 400 whose divisors multiply to n^3*
+*How many positive integers n not greater than 400 have the following…*
 
 ![[src_squadre_2013_roma__prob15.png]]
 
-> How many positive integers n not greater than 400 have the following property: the product of all the divisors of n, including n itself, is equal to n^3.
+> How many positive integers n not greater than 400 have the following property: the product of all divisors of n, including n itself, equals n^3?
 
-**Answer:** 0051
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2013_roma#q15|src_squadre_2013_roma__Q15]]
 
 
 
@@ -512,19 +550,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0800
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Good and nice points in a rhombus*
+*Let a rhombus ABCD be given, with AB = 120 cm and ∠DAB = 30°. A point P inside the rhombus will be called good…*
 
 ![[src_squadre_2013_roma__prob16.png]]
 
-> Let ABCD be a rhombus with AB = 120 cm and ∠DAB = 30°. A point P inside the rhombus will be called good if there is a triangle of area 3600 cm^2, entirely contained in the rhombus and having P as centroid. A point Q will instead be called nice if it is the midpoint of a segment whose endpoints are 2 good points. What is the area, in cm^2, of the figure F made up of all and only the nice points?
+> Let a rhombus ABCD be given, with AB = 120 cm and ∠DAB = 30°. A point P inside the rhombus will be called good if there exists a triangle of area 3600 cm² that lies entirely within the rhombus and has P as its centroid. A point Q, on the other hand, will be called beautiful if it is the midpoint of a line segment whose endpoints are two good points. What is the area, expressed in cm², of the figure F consisting of all and only the beautiful points?
 
-**Answer:** 0800
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2013_roma#q16|src_squadre_2013_roma__Q16]]
 
 
 
@@ -546,19 +587,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7500
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A flea on a pyramid with a 2013-gon base*
+*A flea jumps from one vertex to another of a regular pyramid having as base…*
 
 ![[src_squadre_2013_roma__prob17.png]]
 
-> A flea jumps from one vertex to another of a regular pyramid whose base is a polygon with 2013 sides. Initially it is on the vertex not belonging to the base. At each jump it chooses as destination a random vertex (with equal probability) among all the vertices connected by an edge to the one it is on. Let p be the decimal number representing the probability that after 2013 jumps the flea is not at the vertex it started from. Give as the answer, in order, the first 4 decimal digits of p.
+> A flea jumps from one vertex to another of a regular pyramid whose base is a polygon with 2013 sides. Initially, it is on the vertex that does not belong to the base. With each jump, it chooses as its destination a vertex at random (with equal probability) from among all the vertices that are connected by an edge to the vertex it is on. Let p be the decimal number representing the probability that, after 2013 jumps, the flea is not on the vertex from which it started. As the answer, give, in order, the first 4 decimal digits of p.
 
-**Answer:** 7500
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_probabilita|Probability and statistics]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2013_roma#q17|src_squadre_2013_roma__Q17]]
 
 
 
@@ -576,19 +620,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0033
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest subset of {1,…,50} with n ∈ A ⇒ 2n ∉ A*
+*Let U be the set of positive integers not greater than 50. Let A be a subse…*
 
 ![[src_squadre_2013_roma__prob18.png]]
 
-> Let U be the set of positive integers not greater than 50. Let A be a subset of U with the following property: if n ∈ A then 2n ∉ A. What is the maximum number of elements A can have?
+> Let U be the set of positive integers not greater than 50. Let A be a subset of U with the following property: if n ∈ A, then 2n ∉ A. What is the maximum number of elements that A can have?
 
-**Answer:** 0033
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2013_roma#q18|src_squadre_2013_roma__Q18]]
 
 
 
@@ -608,21 +655,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4120
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest n bounding abc^n over a product of sums*
+*Find the smallest positive integer n such that: abc^n (a^(100) +…*
 
 ![[src_squadre_2013_roma__prob19.png]]
 
-> Find the smallest positive integer n for which
-> abc^n / [(a^(100) + b^(100) + c^(4000)) (a^(100) + b^(4000) + c^(100)) (a^(4000) + b^(100) + c^(100))] ≤ 2013
-> holds for every triple of real numbers (a, b, c), not all zero, such that |a| ≤ 1, |b| ≤ 1 and |c| ≤ 1.
+> Find the smallest positive integer n for which abc^n / [(a^100 + b^100 + c^4000)(a^100 + b^4000 + c^100)(a^4000 + b^100 + c^100)] ≤ 2013 holds for every triple of real numbers (a, b, c), not all zero, such that |a| ≤ 1, |b| ≤ 1, and |c| ≤ 1.
 
-**Answer:** 4120
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2013_roma#q19|src_squadre_2013_roma__Q19]]
 
 
 
@@ -649,21 +697,26 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0056
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2013_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2013 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Claudia and Luca's gold and silver coin game*
+*On a table, there are m gold coins and n silver coins, where n ≥ 0, m ≥ 0, and m + n ≤ 20…*
 
 ![[src_squadre_2013_roma__prob20.png]]
 
-> On a table there are m gold coins and n silver coins, with n ≥ 0, m ≥ 0 and m + n ≤ 2013. Claudia and Luca play with the following rules:
-> 1. they move in turn, starting with Claudia;
-> 2. Luca's moves consist of removing from the table from 1 to 6 coins, at his discretion, of the metal he prefers;
-> 3. Claudia's moves consist of removing from the table from 1 to 8 coins, at her discretion, but so that among the coins removed there are never more than 4 of the same metal;
-> 4. whoever has to move with the table empty loses.
-> How many pairs (m, n) are there such that, starting to play with m gold coins and n silver coins, Claudia is sure to be able to win, whatever Luca's countermoves?
+> On a table, there are m gold coins and n silver coins, where n ≥ 0, m ≥ 0, and m + n ≤ 2013. Claudia and Luca play according to the following rules:
+> 1. They move in turn, starting with Claudia;
+> 2. Luca's moves consist of removing from the table, at his discretion, between 1 and 6 metal coins.
+> which it prefers;
+> 3. Claudia's moves consist of removing from the table between 1 and 8 coins, at her discretion, but in
+> such that among the coins removed, there are never more than 4 coins of the same metal;
+> 4th act: someone finds themselves having to move with the empty table.
+> How many pairs (m, n) are there such that, starting with m gold coins and n silver coins, Claudia is certain to be able to win regardless of Luca's countermoves?
 
-**Answer:** 0056
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2013_roma#q20|src_squadre_2013_roma__Q20]]

@@ -42,21 +42,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which square flips onto an identical one by folding the sheet*
+*Which square is flipped onto an identical one by folding the sheet?*
 
 ![[src_kangourou_2024_benjamin__prob1.png]]
 
-> And the next one. After a certain number of moves, the letter C will be in front of the number 2: at that point, which number will be in front of the letter F? A) 1
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
+> and the next one. After a certain number of turns, the letter C will be facing number 2: at that moment, which number will the letter F be facing?
+> A) 1 	
+>
+> B) 4 	
+>
+> C) 5 	
+>
+> D) 6 	
+>
 > E) 7
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q01|src_kangourou_2024_benjamin__Q01]]
 
 
 
@@ -82,13 +88,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-In which square Mia lands only on the right foot
+*In which square does Mia land on only her right foot?*
 
 ![[src_kangourou_2024_benjamin__prob2.png]]
 
-> 2. A long strip of equal squares is drawn on the courtyard floor. Mia plays jumping from one to the other, landing alternately on two feet or on one foot. In the figure (from the bottom to the top) you can see the prints of her first jumps. Every four squares repeat the jump sequence. In which of the following squares will Mia land only on her right foot? A) The tenth. B) The 15th. C) The 20th. D) The twenty-second. E) The 23rd.
+> 2. On the courtyard floor, a long strip of equal squares is drawn. Mia plays at hopping from one square to another, landing alternately on both feet or on one foot only. In the figure (from bottom to top), you can see the footprints of her first hops. Every four squares, she repeats the hopping sequence. In which of the following squares will Mia land only on her right foot? A) The tenth. B) The fifteenth. C) The twentieth. D) The twenty-second. E) The twenty-third.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q02|src_kangourou_2024_benjamin__Q02]]
 
 
 
@@ -112,11 +123,16 @@ In which square Mia lands only on the right foot
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of letters per word containing three words*
+*Minimum number of letters per word in a phrase containing three words*
 
-> 3. Let's say that a word (i.e. a sequence of letters) contains another if to get the second one you just delete some letters from the first: e.g. the word GABADEDDEG contains the word AADDG, but does not contain the word AGA. Mattia wants to write a word that contains the three words ABCD, BCDA and BADC. What's the smallest possible number of letters for the word Mattia wants to write? A) 4 B) 6 C) 7 D) 8 E) 12
+> 3. Let's say that one word (that is, a sequence of letters) contains another if, to obtain the second word, one only needs to delete some letters from the first: for example, the word GABADEDDEG contains the word AADDG but does not contain the word AGA. Mattia wants to write a word that contains the three words ABCD, BCDA, and BADC. What is the smallest possible number of letters in the word that Mattia wants to write? A) 4 B) 6 C) 7 D) 8 E) 12
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q03|src_kangourou_2024_benjamin__Q03]]
 
 
 
@@ -154,7 +170,7 @@ In which square Mia lands only on the right foot
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the new rectangle consisting of three squares*
+*Area of the new rectangle composed of three squares*
 
 ![[src_kangourou_2024_benjamin__prob4.png]]
 
@@ -171,9 +187,13 @@ In which square Mia lands only on the right foot
 \end{document}
 ```
 
-> 4. The figure shows how Nora overlaps two identical rectangles, each 18 cm2 in area, to obtain a new rectangle. The new rectangle can be broken down into three identical squares. How many square centimetres is the area of the new rectangle? A) 24 B) 27 C) 30 D) 32 E) 36
+> 4. The figure shows how Nora overlays two identical rectangles, each with an area of 18 cm², to obtain a new rectangle. The new rectangle can be divided into three identical squares. What is the area of the new rectangle in square centimeters? A) 24 B) 27 C) 30 D) 32 E) 36
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q04|src_kangourou_2024_benjamin__Q04]]
 
 
 
@@ -198,13 +218,17 @@ In which square Mia lands only on the right foot
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Look at the boxes seen from the other side of the wall*
+*Appearance of the boxes as seen from the other side of the low wall*
 
 ![[src_kangourou_2024_benjamin__prob5.png]]
 
-> 5. Dinah laid three boxes on the floor, partially hidden by a wall. When you look at them standing in front of the wall, the boxes look as shown on the right. Kangourou 2024 page 11 Benjamin What do they look like when you look at them from the other side of the wall ? A) B) C) D) E)
+> 5. Dina has placed 3 boxes on the floor, partly hidden by a low wall. When she looks at them from in front of the low wall, the boxes appear as shown on the right. Kangourou 2024 page 11 BENJAMIN What do they look like when she looks at them from the other side of the low wall? A) B) C) D) E)
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q05|src_kangourou_2024_benjamin__Q05]]
 
 
 
@@ -230,13 +254,18 @@ In which square Mia lands only on the right foot
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which pile of boxes cannot be made*
+*Which pile of boxes is not realizable?*
 
 ![[src_kangourou_2024_benjamin__prob6.png]]
 
-> 6. On the bed of a truck there are six boxes arranged as shown in the figure. A porter carries them to the ground. He moves one box at a time and only if there are no other boxes on top of it. He places each box on the ground or on top of another box, without moving it again. Which of the following piles can he not make? B D B D A B A A C C A A C F F E D B E D B E F D E E F C F C A) B) C) D) E)
+> 6. On the bed of a truck, there are six boxes arranged as indicated in the figure. A porter carries them down to the ground. He moves one box at a time, and only if there are no other boxes on top of it. He places each box on the ground or on top of another box, after which he no longer moves it. Which of the following stacks cannot be produced? B D B D A B A A C C A A C F F E D B E D B E F D E E F C F C A) B) C) D) E)
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q06|src_kangourou_2024_benjamin__Q06]]
 
 
 
@@ -262,13 +291,18 @@ In which square Mia lands only on the right foot
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of the letter F when C is in front of 2 (wheels)*
+*Position of the letter F when C is opposite 2 (wheels)*
 
 ![[src_kangourou_2024_benjamin__prob7.png]]
 
-> 7. Look at the figure: Two wheels rotate around the same axle. Each of these is marked (with numbers or letters) by 7 points, the vertices of a regular heptagon. Each minute they make a step, but in opposite directions as indicated by the arrows: each vertex takes the position of the next vertex according to the direction of rotation. In the figure you can see the initial position (the letter A is in front of the number
+> 7. Observe the figure: two wheels rotate around the same axle. On each of them, 7 points—the vertices of a regular heptagon—are marked (with numbers or letters). Every minute, both wheels make one step, but in opposite directions as indicated by the arrows: each vertex moves to occupy the position of the vertex that follows it in the direction of rotation. In the figure, the initial position can be seen (the letter A is opposite the number
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q07|src_kangourou_2024_benjamin__Q07]]
 
 
 
@@ -306,17 +340,23 @@ In which square Mia lands only on the right foot
 
 *Minimum number of weights to balance 445 g*
 
-> To weigh an object weighing 445 g, Piero has a two-plate scale and the following eight weights What is the minimum number of weights that allows him to balance the scale? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> To weigh an object weighing 445 g, Piero has at his disposal a two-pan balance and the following eight weights. What is the minimum number of weights that will allow him to balance the scale?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q08|src_kangourou_2024_benjamin__Q08]]
 
 
 
@@ -398,20 +438,27 @@ In which square Mia lands only on the right foot
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
+*Maximum number of rooms with the digit 2 fourteen times and 5 three times*
 
-> In a hotel, rooms are ordered in increasing order, starting with 1, without skipping any number. Philip counted how many times the same digit appears in the hotel room numbers and found that 2 appears 14 times and 5 appears 3 times. How many rooms can there be at the hotel? A) 25
-> 	
-> B) 26
-> 	
-> C) 34
-> 	
-> D) 35
-> 	
+> In a hotel, the rooms are arranged in ascending order, starting from 1, with no numbers skipped. Filippo counted how many times the same digit appears in the set of room numbers at the hotel and found that 2 appears 14 times and 5 appears 3 times. What is the maximum number of rooms the hotel can have?
+> A) 25	
+>
+> B) 26	
+>
+> C) 34	
+>
+> D) 35	
+>
 > E) 41
+> A B C D E F E F C D A B E F D C A B E F C B A D F C E D B A F C E D B A 445g 20 100 200 500 50 5 20 200
 >
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q09|src_kangourou_2024_benjamin__Q09]]
 
 
 
@@ -446,23 +493,26 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which label connects the two children to different kites*
+*Which label connects the two children to different kites?*
 
 ![[src_kangourou_2024_benjamin__prob10.png]]
 
-> Which of the following labels completes the drawing on the side here
-> so that the two children are connected to different kites ?
+> Which of the following labels completes the drawing beside it so that the two children are connected to different kites?
 > A) 	
-> 	
+>
 >    B) 	
-> 	
+>
 >       C) 
 > D) 	
-> 	
+>
 >    E) 
-> Questions from No. 11 to No. 20 are worth 4 points each
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q10|src_kangourou_2024_benjamin__Q10]]
 
 
 
@@ -502,21 +552,27 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number on the grey box covering the grid with tiles*
+*Number the gray box by covering the grid with tiles*
 
 ![[src_kangourou_2024_benjamin__prob11.png]]
 
-> In the figure you can see a grid 4 × 5 with a black cell and a grey cell and 4 tiles with which you can cover the grid without leaving empty spaces or creating overlaps. If the number 4 of one of the tiles is placed on the black box, what number is on the grey box? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> In the figure, you see a 4 × 5 grid with one black cell and one gray cell, and 4 tiles with which the grid can be covered without leaving any empty spaces or creating any overlaps. If the number 4 from one of the tiles is placed on the black cell, which number ends up on the gray cell?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q11|src_kangourou_2024_benjamin__Q11]]
 
 
 
@@ -553,21 +609,26 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of each rectangle in Figure 30x45*
+*Area of each rectangle in figure 30x45*
 
 ![[src_kangourou_2024_benjamin__prob12.png]]
 
-> Rosa drew several identical rectangles until she composed the figure on the right. The figure is 30 cm high and, at the base, 45 cm wide. How many square centimetres is the area of each rectangle? A) 24
-> 	
-> B) 27
-> 	
-> C) 30
-> 	
-> D) 33
-> 	
+> Rosa drew several identical rectangles until she formed the figure on the right. The figure is 30 cm tall and 45 cm wide at its base. How many square centimeters is the area of each rectangle?
+> A) 24	
+>
+> B) 27	
+>
+> C) 30	
+>
+> D) 33	
+>
 > E) 36
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q12|src_kangourou_2024_benjamin__Q12]]
 
 
 
@@ -604,19 +665,25 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the remaining figure with carved squares*
+*Perimeter of the remaining figure with small squares cut out*
 
 ![[src_kangourou_2024_benjamin__prob13.png]]
 
-> Look at the figure: Charles carves the four grey squares from the large square. The lengths of the sides of the squares are shown in the figure. The area of the remaining figure is half that of the original square. What is the perimeter of the remaining figure? A) 36
-> 	
-> B) 40
-> 	
-> C) 44 D) 48
-> 	
+> Look at the figure: Carlo cuts out the four small grey squares from the large square. The side lengths of the small squares are indicated in the figure. The area of the remaining figure is half the area of the original square. What is the perimeter of the remaining figure?
+> A) 36 	
+>
+> B) 40 	
+>
+> C) 44 	 	
+> D) 48 	
+>
 > E) 52
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q13|src_kangourou_2024_benjamin__Q13]]
 
 
 
@@ -701,18 +768,25 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 
 ![[src_kangourou_2024_benjamin__prob14.png]]
 
-> Julius had five boxes of chocolates, designated in the figure by the letters A, B, C, D, and E. The number you see above each chocolate, represented by a circle, denotes its taste. Julius ate almost all the chocolates, leaving one for each box as the second figure. What's the name of the box marked with X? A) A
-> 	
-> B) B
-> 	
-> C) C
-> 	
-> D) D
-> 	
-> E) E 1 6 2 3 1 2 3 4 5 A 2 3 4 5 6 B 3 4 5 6 7 C 4 5 6 7 8 D 5 6 7 8 9 E 5 X 4 3 2 1
+> Giulio had five boxes of chocolates, labeled in the figure with the letters A, B, C, D, and E. The number seen above each chocolate, represented by a circle, indicates its flavor. Giulio ate almost all of the chocolates, leaving one in each box, as shown in the second figure. What is the name of the box indicated by X?
+> A) A 	
+>
+> B) B 	
+>
+> C) C 	
+>
+> D) D 	
+>
+> E) E
+> 1 6 2 3 1 2 3 4 5 A 2 3 4 5 6 B 3 4 5 6 7 C 4 5 6 7 8 D 5 6 7 8 9 E 5 X 4 3 2 1
 >
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q14|src_kangourou_2024_benjamin__Q14]]
 
 
 
@@ -750,21 +824,26 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many different numbers are covered by the 16 circles (5 and 13)*
+*How many different numbers are covered by the 16 small circles (5 and 13)?*
 
 ![[src_kangourou_2024_benjamin__prob15.png]]
 
-> Each of the 16 circles in the figure covers a natural number. Numbers covered by nearby circles differ by one. One of the circles covers the number 5, another covers the number 13. How many different numbers are covered by the 16 circles altogether? A) 9
-> 	
-> B) 10
-> 	
-> C) 13
-> 	
-> D) 14
-> 	
+> Each of the 16 small circles in the figure covers a natural number. Numbers covered by adjacent circles differ by one. One of the circles covers the number 5, and another covers the number 13. In total, how many different numbers are covered by the 16 circles?
+> A) 9 	
+>
+> B) 10 	
+>
+> C) 13 	
+>
+> D) 14 	
+>
 > E) 16
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q15|src_kangourou_2024_benjamin__Q15]]
 
 
 
@@ -858,17 +937,22 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 \end{document}
 ```
 
-> The figure shows two large squares which have the same area. In the first square the midpoints of the sides were joined and the triangles thus formed were shaded. Four identical squares were drawn and shaded on the second square, the side of which is one third of the side of the large square. The shaded area in the first square is 9 cm2. How many square centimetres does the shaded surface measure in the second figure? A) 4
-> 	
-> B) 8
-> 	
-> C) 9
-> 	
-> D) 10
-> 	
+> The figure shows two large squares with the same area. In the first square, the midpoints of the sides have been joined, and the triangles formed in this way have been shaded. In the second square, four identical small squares have been drawn and shaded; each small square has a side that is one third of the side of the large square. The shaded area in the first square measures 9 cm². How many square centimetres is the shaded area in the second figure?
+> A) 4 	
+>
+> B) 8 	
+>
+> C) 9 	
+>
+> D) 10 	
+>
 > E) 12
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q16|src_kangourou_2024_benjamin__Q16]]
 
 
 
@@ -908,19 +992,26 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two-digit numbers with exactly five black dots (Braille)*
+*How many two-digit numbers have exactly five black dots (Braille)?*
 
 ![[src_kangourou_2024_benjamin__prob17.png]]
 
-> We represent each of the digits from 0 to 9 using a set of black and white dots arranged in a rectangle as shown in the figure (the pattern is Braille for the blind). How many different two-digit numbers (and therefore greater than 9) contain exactly five black dots? A) 16
-> 	
-> B) 18
-> 	
-> C) 30 D) 32
-> 	
+> We represent each digit from 0 to 9 by a set of white and black dots arranged in a rectangle, as shown in the figure (the layout is that of Braille writing for the blind). How many different two-digit numbers (and therefore numbers greater than 9) contain exactly five black dots?
+> A) 16 	
+>
+> B) 18 	
+>
+> C) 30 	 	
+> D) 32 	
+>
 > E) 34
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q17|src_kangourou_2024_benjamin__Q17]]
 
 
 
@@ -959,21 +1050,27 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many hive cells contain honey*
+*How many cells in the hive contain honey?*
 
 ![[src_kangourou_2024_benjamin__prob18.png]]
 
-> The figure represents a 16 cell hive. Let's say two cells are close if they have a side in common. Some cells contain honey: the number in each cell indicates how many nearby cells contain honey. How many cells contain honey? A) 7
-> 	
-> B) 8
-> 	
-> C) 9
-> 	
-> D) 10
-> 	
+> The figure shows a honeycomb with 16 cells. Let's say two cells are adjacent if they share a side. Some cells contain honey: the number in each cell indicates how many adjacent cells contain honey. How many cells contain honey?
+> A) 7 	
+>
+> B) 8 	
+>
+> C) 9 	
+>
+> D) 10 	
+>
 > E) 11
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q18|src_kangourou_2024_benjamin__Q18]]
 
 
 
@@ -1021,22 +1118,28 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the circle with the question mark, sums aligned 23*
+*Number in the circle with the question mark, aligned sums 23*
 
 ![[src_kangourou_2024_benjamin__prob19.png]]
 
-> Anna wants to insert the numbers 1 through 10, each in one of the circles in the figure. She wants that if four circles are aligned (like the four grey circles for example), the sum of the numbers in them is 23. What number should you put in the circle marked with the question mark? A) 4
-> 	
-> B) 5
-> 	
-> C) 6
-> 	
-> D) 7
-> 	
-> E) 8 1 3 2 3 2 4 4 4 3 1 3 2 2 3 2 0 ?
+> Anna wants to place the numbers from 1 to 10, each in one of the circles in the figure. She wants the sum of the numbers in any four aligned circles (such as the four gray circles, for example) to be 23. Which number must she put in the circle marked with a question mark?
+> A) 4 	
+>
+> B) 5 	
+>
+> C) 6 	
+>
+> D) 7 	
+>
+> E) 8
+> 1 3 2 3 2 4 4 4 3 1 3 2 2 3 2 0 ?
 >
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q19|src_kangourou_2024_benjamin__Q19]]
 
 
 
@@ -1072,24 +1175,25 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Correct inequality for n with 7 more pairs than triples*
+*Inequality corrected for n, with pairs 7 more than the triples*
 
-> Roberto has n marbles. He first groups them into pairs and notes the number of
-> pairs found; then he groups them into triples and notes the number of triples found. In nei­
-> ther of the two cases are there marbles left over. The number of pairs is 7 units greater
-> than the number of triples. Which of the following inequalities is correct?
+> Roberto has marbles. He first groups them into pairs and notes the number of pairs found; then he groups them into groups of three and notes the number of such groups found. In neither case do any marbles remain over. The number of pairs is 7 greater than the number of groups of three. Which of the following inequalities is correct?
 > A) n < 29 	
-> 	
+>
 > B) 29 ≤ n < 37 	
-> 	
+>
 > C) 37 ≤ n < 49	
-> 	
+>
 > D) 49 ≤ n < 59	
-> 	
+>
 > E) n ≥ 59
-> Questions from No. 21 to No. 30 are worth 5 points each
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q20|src_kangourou_2024_benjamin__Q20]]
 
 
 
@@ -1125,21 +1229,26 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of numbers on the faces resting on the table (three dice)*
+*Sum of the numbers on the faces that are in contact (three dice)*
 
 ![[src_kangourou_2024_benjamin__prob21.png]]
 
-> In the figure, you see three identical special dice resting on a table. What is the sum of the numbers on the faces resting on the table? A) 26
-> 	
-> B) 40
-> 	
-> C) 43
-> 	
-> D) 47
-> 	
-> E) 56
+> In the figure, you see three identical special dice resting on a table. What is the sum of the numbers on the faces resting on the table?
+> A) 26	
+>
+> B) 40	
+>
+> C) 43	
+>
+>  D) 47	
+>
+>  E) 56
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q21|src_kangourou_2024_benjamin__Q21]]
 
 
 
@@ -1176,21 +1285,26 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the grey rectangle known three areas and segments*
+*Area of the gray rectangle, three areas, and line segments*
 
 ![[src_kangourou_2024_benjamin__prob22.png]]
 
-> The drawing shows four adjacent rectangles and shows the areas of three of them and the length of some segments. How many square centimeters does the surface of the grey rectangle measure? A) 12
-> 	
-> B) 14
-> 	
-> C) 16
-> 	
-> D) 18
-> 	
+> The drawing shows four rectangles placed side by side and indicates the areas of three of them and the lengths of some line segments. How many square centimeters is the area of the gray rectangle?
+> A) 12 	
+>
+> B) 14 	
+>
+> C) 16 	
+>
+> D) 18 	
+>
 > E) 20
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q22|src_kangourou_2024_benjamin__Q22]]
 
 
 
@@ -1230,21 +1344,27 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of colours for the seven metro lines*
+*Minimum number of colors for the seven metro lines*
 
 ![[src_kangourou_2024_benjamin__prob23.png]]
 
-> The figure shows a map of a town's seven metropolitan lines. The circles indicate the stations. Martino wants to colour the lines so that if two lines pass through the same station, they have different colours. What is the smallest number of colours that Martino can use? A) 3
->      	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
+> The figure shows the map of the seven metro lines in a small town. The circles indicate the stations. Martino wants to color the lines so that, if two lines pass through the same station, they have different colors. What is the smallest number of colors Martino can use?
+> A) 3 	
+>
+> B) 4 	
+>
+> C) 5 	
+>
+> D) 6 	
+>
 > E) 7
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q23|src_kangourou_2024_benjamin__Q23]]
 
 
 
@@ -1284,21 +1404,26 @@ Maximum number of rooms with digit 2 appearing 14 times and 5 appearing 3 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to colour the white face of the cube development
+*How to color the white face of the cube's development*
 
 ![[src_kangourou_2024_benjamin__prob24.png]]
 
-> Francesco wants to build a cube starting from his net. He has prepared the net you see in the figure. He has already begun to colour it so that if two faces share an edge, the triangles overlooking that edge have the same colour. How should the triangles of the still white face be coloured in the net? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> Francesco wants to construct a cube starting from its net. He has prepared the net you see in the figure. He has already started "coloring" it so that, if two faces share an edge, the triangles facing that edge all have the same color in an orderly manner. How should he color the triangles on the face that is still white in the net?
+> A) 	
+>
+> B) 	
+>
+> C) 	
+>
+> D) 	
+>
 > E)
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q24|src_kangourou_2024_benjamin__Q24]]
 
 
 
@@ -1355,20 +1480,27 @@ How to colour the white face of the cube development
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 4 digits with a property of type 2024*
+*How many 4-digit numbers have a property like that of 2024?*
 
-> The four-digit number 2024 has three properties: it contains three distinct digits, all its digits are even and the last digit is equal to the sum of the first three. How many four-digit numbers (including 2024) have all these properties? A) 2
-> 	
-> B) 4
-> 	
-> C) 6
->  	
-> D) 7
-> 	
-> E) 8 40 cm2 48 cm2 45 cm2 ? 16 cm 13 cm 5 cm 1 1 2 2 3 3 4 4 5 5 6 6 7 7
+> The four-digit number 2024 has three properties: it contains three distinct digits, all of its digits are even, and its last digit equals the sum of the first three digits. How many four-digit numbers (including 2024) have all these properties?
+> A) 2 	
+>
+> B) 4 	
+>
+> C) 6	
+>
+> D) 7 	
+>
+> E) 8
+> 40 cm² 48 cm² 45 cm² ? 16 cm 13 cm 5 cm 1 1 2 2 3 3 4 4 5 5 6 6 7 7
 >
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q25|src_kangourou_2024_benjamin__Q25]]
 
 
 
@@ -1408,21 +1540,26 @@ How to colour the white face of the cube development
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number on the question mark label (sum of cube faces)*
+*Number on the label with the question mark (sum of cube faces)*
 
 ![[src_kangourou_2024_benjamin__prob26.png]]
 
-> Maria drew a cube with round labels in the vertices. In each of these labels, she wants to write a natural number between 1 and 8 (inclusive), without repetition and on the condition that the sum of the numbers at the vertices of each face is always the same. As you can see, she has already written numbers 6, 7 and 8. What number should she write on the label with the question mark? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> Maria has drawn a cube with round labels at the vertices. On each of these labels, she wants to write a natural number between 1 and 8 inclusive, without repeats, and subject to the condition that the sum of the numbers at the vertices of each face is always the same. As you can see, she has already written the numbers 6, 7, and 8. Which number will she have to write on the label marked with a question mark?
+> A) 1	
+>
+> B) 2 	
+>
+> C) 3 	
+>
+> D) 4 	
+>
 > E) 5
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q26|src_kangourou_2024_benjamin__Q26]]
 
 
 
@@ -1458,19 +1595,20 @@ How to colour the white face of the cube development
 
 *Minimum number of candies (20 per bag, 12 left over)*
 
-> Grandma has a bag of candies. She decides to divide them among her grandchildren so
-> that each receives a bag with the same number of candies. She puts the greatest
-> possible number of candies in each bag: in the end she discovers that there are 20 can­
-> dies in each bag and she has 12 candies left over. What is the minimum number of
-> candies Grandma could have had?
+> The grandmother has a lot of candies. She decides to divide them among her grandchildren so that each one gets a bag containing the same number of candies. She puts as many candies as possible into each bag: in the end, she finds that there are 20 candies in each bag and that 12 candies are left over. What is the minimum number of candies the grandmother could have had?
 > A) 52 	
-> 	
+>
 > B) 232 	 	
 > C) 272 	 	
 > D) 411 	 	
 > E) 432
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q27|src_kangourou_2024_benjamin__Q27]]
 
 
 
@@ -1506,17 +1644,24 @@ How to colour the white face of the cube development
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many pieces of rope does Maya get (12 and 16 cuts)
+*How many pieces of rope does Maya get (12 and 16 cuts)?*
 
-> Daniel plans to cut a rope into 12 pieces of equal length and marks on the rope the points where he must cut it. Mark also plans to cut the same rope into 16 pieces of equal length and marks the points where he must cut it. Maya arrives, cutting the rope wherever she finds a mark. How many pieces of rope does Maya get? A) 24
-> 	
-> B) 25
-> 	
-> C) 27 D) 28
-> 	
+> Daniele plans to cut a rope into 12 pieces of equal length and marks on the rope the points where he must cut it. Marco also plans to cut the same rope into 16 pieces of equal length and marks the points where he must cut it. Maya arrives and cuts the rope at all the points where she finds a mark. How many pieces of rope does Maya get?
+> A) 24 	
+>
+> B) 25 	
+>
+> C) 27 	 	
+> D) 28 	
+>
 > E) 29
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q28|src_kangourou_2024_benjamin__Q28]]
 
 
 
@@ -1554,21 +1699,27 @@ How many pieces of rope does Maya get (12 and 16 cuts)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to build the caterpillar with the seven pieces*
+*In how many ways can the caterpillar be constructed using the seven pieces?*
 
 ![[src_kangourou_2024_benjamin__prob29.png]]
 
-> With the seven pieces you see below, Emma wants to build a caterpillar that has a head, a tail, and one or two or three interlocking pieces between the head and the tail. The pieces must fit together well, without holes or overlapping. How many different ways can you do that? A) 10
-> 	
-> B) 14
-> 	
-> C) 16
-> 	
-> D) 18
-> 	
+> With the seven pieces shown below, Emma wants to build a caterpillar that has a head, a tail, and 1 or 2 or 3 double-snap-fit pieces between the head and the tail. The pieces must snap together properly, with no gaps or overlaps. In how many different ways can she do this?
+> A) 10 	
+>
+> B) 14 	
+>
+> C) 16 	
+>
+> D) 18 	
+>
 > E) 20
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q29|src_kangourou_2024_benjamin__Q29]]
 
 
 
@@ -1610,18 +1761,24 @@ How many pieces of rope does Maya get (12 and 16 cuts)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What digit did Biagio add (increase to 2024)*
+*What number did Biagio add (2024 increase)?*
 
-> Ada had written a three-digit number on the board. Biagio added a fourth digit to the right of Ada's number. Now Biagio observes: "Look! Your number has increased by 2024". What digit did Biagio add? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 8
-> 	
-> E) 9 7 8 ? 6
-> 
+> Ada had written a three-digit number on the blackboard. Biagio added a fourth digit to the right of Ada's number. Now Biagio says, "Look! Your number has increased by 2024." Which digit did Biagio add?
+> A) 2 	
+>
+> B) 3 	
+>
+> C) 4 	
+>
+> D) 8 	
+>
+> E) 9
+> 7 8 ? 6
+>
 > 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_benjamin#q30|src_kangourou_2024_benjamin__Q30]]

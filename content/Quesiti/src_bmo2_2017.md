@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri interi n<2017 per i quali un triangolo isosceles rettangolare con vertici di coordinate interi ha esattamente n punti reticolari sul suo perimetro.*
+*Per quanti $n<2017$ esiste un triangolo rettangolo isoscele con esattamente $n$ punti interi sul perimetro*
 
-> Questo problema riguarda i triangoli che hanno vertici con coordinate interi nel solito piano di coordinate $x,y$. Per quanti numeri interi positivi $n<2017$ è possibile disegnare un triangolo a rettangolo di isosceles in modo tale che esattamente $n$ punti sul suo perimetro, compresi tutti e tre i suoi vertici, abbiano coordinate interi?
+> Questo problema riguarda triangoli con vertici a coordinate intere nel solito piano di coordinate $x,y$. Per quanti interi positivi $n<2017$ è possibile disegnare un triangolo rettangolo isoscele tale che esattamente $n$ punti del suo perimetro, compresi tutti e tre i vertici, abbiano coordinate intere?
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Geometria|Geometria]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2017#q01|src_bmo2_2017__Q01]]
 
 
 
@@ -58,11 +65,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per la sequenza a_n uguale alla media su k=1..n del piano(n/k), provare a_{n+1}>a_n infinitamente spesso e decidere se a_{n+1}<a_n infinitamente spesso.*
+*$a_{n+1} > a_n$ per infiniti $n$, e $a_{n+1} < a_n$?*
 
-> $\lfloor x \rfloor$ indichi il numero intero più grande inferiore o uguale al numero reale $x$. Considerare la sequenza $a_1, a_2, \ldots$ definita da $$a_n = \frac{1}{n} \left( \left\lfloor \frac{n}{1} \right\rfloor + \left\lfloor \frac{n}{2} \right\rfloor + \cdots + \left\lfloor \frac{n}{n} \right\rfloor \right)$$ per gli integri $n \ge 1$. Prova che $a_{n+1} > a_n$ per infinite $n$, e determina se $a_{n+1} < a_n$ per infinite $n$.
-> 
-> [Questi sono alcuni esempi di utilizzo di $\lfloor x \rfloor$: $\lfloor \pi \rfloor = 3$, $\lfloor 1729 \rfloor = 1729$ e $\left\lfloor \frac{2017}{1000} \right\rfloor = 2$.]
+> Sia $\lfloor x \rfloor$ il massimo intero minore o uguale al numero reale $x$. Si consideri la successione $a_1, a_2, \ldots$ definita da
+> $$a_n = \frac{1}{n} \left( \left\lfloor \frac{n}{1} \right\rfloor + \left\lfloor \frac{n}{2} \right\rfloor + \cdots + \left\lfloor \frac{n}{n} \right\rfloor \right)$$
+> per gli interi $n \ge 1$. Dimostrare che $a_{n+1} > a_n$ per infiniti $n$, e stabilire se $a_{n+1} < a_n$ per infiniti $n$.
+>
+> [Ecco alcuni esempi d'uso di $\lfloor x \rfloor$: $\lfloor \pi \rfloor = 3$, $\lfloor 1729 \rfloor = 1729$ e $\left\lfloor \frac{2017}{1000} \right\rfloor = 2$.]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2017#q02|src_bmo2_2017__Q02]]
 
 
 
@@ -85,9 +101,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In ABCD quadrilaterale ciclico con diagonali che si incontrano a P e raggi AD, BC che si incontrano a Q, il bisettore dell'angolo BQA incontra AC a R e il bisettore dell'angolo APD incontra AD a S; dimostrare RS parallelo a CD.*
+*Dimostrare che $RS$ è parallela a $CD$*
 
-> Considerate un quadrilaterale ciclico $ABCD$. Le diagonali $AC$ e $BD$ si incontrano a $P$, e i raggi $AD$ e $BC$ si incontrano a $Q$. Il bisettore di angolo interno $\angle BQA$ incontra $AC$ a $R$ e il bisettore di angolo interno $\angle APD$ incontra $AD$ a $S$. Provare che $RS$ è parallelo a $CD$.
+> Si consideri un quadrilatero ciclico $ABCD$. Le diagonali $AC$ e $BD$ si incontrano in $P$, e le semirette $AD$ e $BC$ si incontrano in $Q$. La bisettrice interna dell'angolo $\angle BQA$ incontra $AC$ in $R$ e la bisettrice interna dell'angolo $\angle APD$ incontra $AD$ in $S$. Dimostrare che $RS$ è parallela a $CD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2017#q03|src_bmo2_2017__Q03]]
 
 
 
@@ -110,6 +133,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una cassaforte ha bisogno di un codice a 3 cifre; una sonda risponde Fallo se nessuna cifra è corretta, altrimenti Chiudi (anche quando tutte sono corrette); trova il minor numero di tentativi in una strategia ottimale che garantisca che il codice sia conosciuto.*
+*Quanti tentativi bastano per conoscere il codice a tre cifre*
 
-> La cassaforte incastrata di Bobby richiede un codice a 3 cifre per sbloccarla. Alex ha una sonda che puo' testare le combinazioni senza scriverle sulla cassaforte. La sonda risponde $\textit{Fail}$ se nessuna cifra individuale è corretta. Altrimenti risponde $\textit{Close}$, anche quando tutti i numeri sono corretti. Ad esempio, se il codice corretto è 014, allora le risposte a 099 e 014 sono entrambe Close, ma la risposta a 140 è Fail. Se Alex sta seguendo una strategia ottimale, qual è il minor numero di tentativi necessari per garantire che conosca il codice corretto, qualunque sia?
+> La cassaforte truccata di Bobby richiede un codice di 3 cifre per aprirsi. Alex ha una sonda che può provare combinazioni senza digitarle sulla cassaforte. La sonda risponde $\textit{Fail}$ se nessuna cifra è corretta. Altrimenti risponde $\textit{Close}$, anche quando tutte le cifre sono corrette. Per esempio, se il codice corretto è 014, allora le risposte a 099 e a 014 sono entrambe Close, ma la risposta a 140 è Fail. Se Alex segue una strategia ottimale, qual è il minimo numero di tentativi necessario per garantirsi di conoscere il codice corretto, qualunque esso sia?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2017#q04|src_bmo2_2017__Q04]]

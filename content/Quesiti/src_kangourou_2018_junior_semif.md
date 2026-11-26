@@ -40,19 +40,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many non-zero real pairs (a,b) with a+b=ab=a/b*
+*How many pairs (a,b) of non-zero real numbers satisfy a+b=ab=a/b?*
 
-> (Points 2) How many different ordered pairs (a, b) of non-zero real numbers satisfy the equations a + b = ab = a/b? A) 0
-> 	
-> B) 1
-> 	
-> C) 2
-> 	
-> D) 3
-> 	
+> (Point 2) How many distinct ordered pairs (a, b) of non-zero real numbers satisfy the equalities a + b = ab = a/b?
+> A) 0	
+>
+> B) 1	
+>
+> C) 2	
+>
+> D) 3	
+>
 > E) Infinite
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q01|src_kangourou_2018_junior_semif__Q01]]
 
 
 
@@ -97,7 +103,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of circumference C inscribed in the eye*
+*Circumference C of the loop inscribed in the eye*
 
 ![[src_kangourou_2018_junior_semif__prob2.png]]
 
@@ -115,9 +121,16 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 3) The eye in the figure is made up of two quarter-circles each of length 1 and the circle C of the largest possible radius contained in the region bounded by them. How long is the circumference of C? A) 2 B) π - 1 C) 3√2 - 2 D) 4√2 - π E) A number different from the previous ones.
+> (Point 3) The eye in the figure is formed by two quarter-circles, each of length 1, and by the circle C with the largest possible radius that lies within the region bounded by them. How long is the circumference that bounds C?
+> A) 2           B) π - 1            C) 3√2 - 2            D) 4√2 - π          
+> E) A number different from the preceding ones.
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q02|src_kangourou_2018_junior_semif__Q02]]
 
 
 
@@ -169,7 +182,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*equilateral triangle, square or circle*
+*equilateral triangle, square, or circle*
 
 ![[src_kangourou_2018_junior_semif__prob3.png]]
 
@@ -190,14 +203,19 @@ level: kangourou
 \end{document}
 ```
 
-> (3 points) On a sheet of squared paper (you can see a portion of it in the figure) four points A, B, C, D are marked. Enrico wants to identify a figure that is an equilateral triangle, or a square, or a circle whose boundary passes through all four points. Then the figure could be
-> A) either an equilateral triangle, or a square, but not a circle.
-> B) a square, but not an equilateral triangle nor a circle.
-> C) either a square, or a circle, but not an equilateral triangle.
+> (Point 3) On a sheet of graph paper (a portion of which is shown in the figure), the four points A, B, C, and D are marked. Enrico wants to identify a figure that is an equilateral triangle, or a square, or a circle whose boundary passes through all four points. Then the figure could be
+> A) be an equilateral triangle and a square, but not a circle.
+> B) a square, but not an equilateral triangle or a circle.
+> C) be a square, be a circle, but not an equilateral triangle.
 > D) any one of those listed.
-> E) none of those listed.
+> E) None of those listed.
 
-**Answer:** A
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q03|src_kangourou_2018_junior_semif__Q03]]
 
 
 
@@ -228,18 +246,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability that Alice's number exceeds Barbara's*
+*Probability that Alice's number exceeds Barbara's number*
 
-> (4 points) Alice and Barbara each choose at random and independently an integer between 1 and 2018. 
-> The two numbers are then compared. What is the probability that the number chosen by Alice is larger 
-> than the one chosen by Barbara?
+> (Point 4) Alice and Barbara independently choose a whole number at random from among the numbers between 1 and 2018 inclusive. The two numbers are then compared. What is the probability that the number chosen by Alice is greater than the one chosen by Barbara?
 > A) 2019/4036	
 > B) 2017/4036		
 > C) 2017/4038		
 > D) 1/2
 > E) None of the above.
 
-**Answer:** B
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q04|src_kangourou_2018_junior_semif__Q04]]
 
 
 
@@ -270,15 +291,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of cube volume / inscribed regular tetrahedron*
+*Ratio of volume: cube / inscribed regular tetrahedron*
 
-> (Points 4) A regular tetrahedron is inscribed in a cube whose edges are diagonals of the faces of the cube. What is the ratio of the volume of the cube to the volume of the tetrahedron? A) 2
-> 	
-> B) 3
-> 	
-> C) 4/3 D) 3/2 E) 5/3
+> (Point 4) A regular tetrahedron is inscribed in a cube, with its edges being the diagonals of the cube's faces. What is the ratio of the volume of the cube to the volume of the tetrahedron?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4/3		
+> D) 3/2	
+> E) 5/3
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q05|src_kangourou_2018_junior_semif__Q05]]
 
 
 
@@ -310,17 +338,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Digit A in A111...11 of 2019 digits divisible by 7*
+*The digit A in A111...11 of 2019—digits divisible by 7*
 
-> (Points 4) The number of 2019 digits (in decimal notation) A111...11, where A is a digit and the remaining 2018 digits are all 1, is divisible by 7. Which digit is A? A) 2
-> 	
-> B) 3              C) 4
-> 	
-> D) 5
-> 	
+> (Point 4) The 2019-digit number (in decimal notation) A111...11, where A is a digit and the remaining 2018 digits are all 1, is divisible by 7. What digit is A?
+> A) 2	
+>
+> B) 3              C) 4	
+>
+> D) 5	
+>
 > E) 9
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q06|src_kangourou_2018_junior_semif__Q06]]
 
 
 
@@ -355,17 +389,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many prime r sums of two prime numbers with equal sums*
+*How many prime numbers r are the sum of two primes with equal digit sums?*
 
-> (Points 5) A prime number r is the sum of two prime numbers p and q. It also happens that the sum of the digits of r coincides with the sum of the digits of p plus the sum of the digits of q. How many possible prime numbers r are in this situation? (Warning: 1 is not a prime number!) A) Only 1
-> 	
+> (Point 5) A prime number r is the sum of two prime numbers p and q. Furthermore, the sum of the digits of r equals the sum of the digits of p plus the sum of the digits of q. How many possible prime numbers r satisfy this condition? (Caution: 1 is not a prime number!)
+> A) Only 1
+>
 > B) Exactly 2
-> 	
+>
 > C) Exactly 3
-> 	
-> D) Exactly 4 E) More than 4
+>
+> D) Exactly 4
+> E) More than 4
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q07|src_kangourou_2018_junior_semif__Q07]]
 
 
 
@@ -398,19 +439,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For how many integers n is the number n/(n-10) an integers*
+*For how many integers n is n/(n-10) an integer?*
 
-> (Points 5) For how many integers n is the number n/(n - 10) an integer? A) 4
-> 	
-> B) 5
-> 	
-> C) 7
-> 	
-> D) 8
-> 	
-> E) Infinite
+> (Point 5) For how many integer values of n is n/(n - 10) an integer?
+> A) 4	
+>
+> B) 5	
+>
+> C) 7	
+>
+> D) 8	
+>
+> E) Infiniti
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q08|src_kangourou_2018_junior_semif__Q08]]
 
 
 
@@ -444,21 +491,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is 2019×2018^2 - 2018×2019^2 not divisible by*
+*By what is 2019*2018^2 - 2018*2019^2 not divisible?*
 
-> (6 points) The number 201920182 - 201820192 is not divisible by
+> (Point 6) The number 201920182 - 201820192 is not divisible by
 > A) 99	 	
 > B) 101		
 > C) 121           D) 1001		
 > E) 10001
-> A
-> B
-> C
-> D
-> 
+> A B C D
+>
 > Open-ended questions
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q09|src_kangourou_2018_junior_semif__Q09]]
 
 
 
@@ -483,11 +532,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
+*Produced complete solutions for (97-x)^(1/4)+x^(1/4)=5*
 
-> (Points 4) The (real) solutions of the equation (97 - x) 1/4 + x 1/4 = 5 are integers. How much is their product worth?
+> (Point 4) The (real) solutions of the equation (97 - x)^{1/4} + x^{1/4} = 5 are integers. What is the value of their product?
 
-**Answer:** 1296
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q10|src_kangourou_2018_junior_semif__Q10]]
 
 
 
@@ -512,11 +566,16 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*M-N between odd sum and even sum less than 1000*
+*M-N between an odd sum and an even sum both less than 1000*
 
-> (Points 5) M is the sum of the odd positive integers less than 1000 and N is the sum of the even positive integers strictly less than 1000. How much is M-N ?
+> (Point 5) Let M be the sum of the positive odd integers less than 1000, and let N be the sum of the positive even integers strictly less than 1000. What is the value of M - N?
 
-**Answer:** 500
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q11|src_kangourou_2018_junior_semif__Q11]]
 
 
 
@@ -542,11 +601,15 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio length of rope / shorter piece (discs)*
+*Cable length / shortest piece ratio (discs)*
 
-> (Points 5) A circular section rope is cut into two pieces. Both are spirally rolled onto a table to produce approximately two discs. The radius of one of the two is twice the radius of the other. What is the ratio between the length of the whole rope and the length of the shortest piece? (If necessary, approximate the answer to the nearest integer.)
+> (Point 5) A rope with a circular cross-section is cut into two pieces. Both pieces are coiled in a spiral on a table to produce roughly two discs. The radius of one of the discs is twice the radius of the other. What is the ratio of the length of the entire rope to the length of the shorter piece? (If necessary, round the answer to the nearest whole number.)
 
-**Answer:** 5
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q12|src_kangourou_2018_junior_semif__Q12]]
 
 
 
@@ -572,14 +635,15 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of scoring the first penalty given p>=one=0.999*
+*Probability of scoring the first penalty, given p >= 1 = 0.999*
 
-> (Points 6) Marco has to take three penalty kicks. Knowing himself, he knows that the probability of scoring is 
-> the same in all three and that the probability of scoring in at least one of the three is 0.999. What is the probability that 
-> he manages to score when he takes the first penalty kick? (Indicate the decimal digits after the decimal point up to the fourth: for 
-> example, if the probability were 0.81 write the answer as 8100.)
+> (Point 6) Marco has to take three penalties. Knowing himself, he knows that the probability of scoring is the same for all three, and that the probability of scoring in at least one of the three is 0.999. What is the probability that he will manage to score when he takes the first penalty? (Indicate the decimal digits after the decimal point up to the fourth: e.g., if the probability were 0.81, write the answer as 8100.)
 
-**Answer:** 9000
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q13|src_kangourou_2018_junior_semif__Q13]]
 
 
 
@@ -604,11 +668,16 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many integer pairs (a,b) in [-2018,2018] with 2a+b+6=0*
+*How many pairs (a,b) of integers in [-2018,2018] satisfy 2a+b+6=0?*
 
-> (Points 6) For how many different ordered pairs (a, b) of integers between - 2018 and 2018, endpoints included, is 2a + b + 6 = 0?
+> (Question 6) For how many distinct ordered pairs (a, b) of relative integers between -2018 and 2018, inclusive, does 2a + b + 6 = 0 hold?
 
-**Answer:** 2019
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q14|src_kangourou_2018_junior_semif__Q14]]
 
 
 
@@ -635,11 +704,16 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum value among those assigned to mean points*
+*Minimum value among those assigned to the average points*
 
-> (Points 6) Each point P of the plane with integer coordinates is assigned a nonnegative integer which is the average of the four numbers assigned to the four points at distance 1 from P. The item (2018, 2018) is assigned the number 2018. What is the smallest of the values that appear as P varies?
+> (Point 6) To each point P in the plane with integer coordinates, a non-negative integer is assigned; this integer is the average of the four numbers assigned to the four points that are at distance 1 from P. The point (2018, 2018) is assigned the number 2018. What is the smallest of the values that appear among those assigned as P varies?
 
-**Answer:** 2018
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q15|src_kangourou_2018_junior_semif__Q15]]
 
 
 
@@ -664,11 +738,16 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers between 1 and 9999 with the sum of the first two digits = the other two*
+*Numbers between 1 and 9999 such that the sum of the first two digits equals the sum of the other two digits*
 
-> (Points 7) How many integers between 0001 and 9999 inclusive are such that the sum of the first two digits coincides with the sum of the other two?
+> (Point 7) How many integers between 0001 and 9999 inclusive are such that the sum of the first two digits equals the sum of the other two digits?
 
-**Answer:** 669
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q16|src_kangourou_2018_junior_semif__Q16]]
 
 
 
@@ -696,11 +775,16 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values m and n with 46 new ticket types*
+*Valori m e n with 46 new types of tickets*
 
-> (Points 7) A railway company operates a line with m stations. It then has n more built, with n > 1. For each new route a new type of ticket is printed (note: the route from station A to station B is different from that from B to A). If a total of 46 new types of tickets are printed, what are, in order, the values of m and n? (For example, if m = 25 and n = 4, write 2504.)
+> (Point 7) A railway company operates a line with m stations. It then has n other stations built, where n > 1. For each new route, a new type of ticket is printed (note: the route from station A to station B is different from the route from B to A). If a total of 46 new types of tickets are printed, what are the values of m and n, in that order? (For example, if m = 25 and n = 4, write 2504 as the answer.)
 
-**Answer:** 1102
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q17|src_kangourou_2018_junior_semif__Q17]]
 
 
 
@@ -735,10 +819,15 @@ Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ordered triples (a,b,c) of integers satisfy a×b×c=45000*
+*How many ordered triples (a,b,c) of integers satisfy a*b*c=45000?*
 
-> (Points 8) For how many ordered sets (a, b, c) of integers does a × b × c = 45,000 occur?
-> 
+> (Question 8) For how many ordered triples (a, b, c) of relative integers does a × b × c = 45,000?
+>
 > 1296 0500 0005 9000 2019 2018 0669 1102 3600
 
-**Answer:** 3600
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_junior_semif#q18|src_kangourou_2018_junior_semif__Q18]]

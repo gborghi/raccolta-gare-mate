@@ -41,13 +41,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*second number*
+*What numbers can appear in the second window?*
 
 ![[src_kangourou_2023_junior__prob1.png]]
 
-> In the image on the left, the dial of a clock is outlined. In the one on the right, the dial is covered by a concentric opaque disc, of the same radius, which has two circular windows. If the opaque disk is rotated so that in one of the two windows the number 10 appears, what numbers can appear in the second window? A) 2 and 6 B) 3 and 7 C) 3 and 6 D) 1 and 9 E) 2 and 7
+> The picture on the left sketches the face of a clock. In the one on the right the face is covered by an opaque disc, concentric and of the same radius, which has two circular windows. If the opaque disc is rotated so that the number 10 appears in one of the two windows, what numbers can appear in the second window?
+>
+> A) 2 and 6
+> B) 3 and 7
+> C) 3 and 6
+> D) 1 and 9
+> E) 2 and 7
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2023_junior#q01|src_kangourou_2023_junior__Q01]]
 
 
 
@@ -76,11 +86,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which day between 2023 days*
+*What day will it be in 2023 days?*
 
-> Today is Thursday. What day will it be in 2023 days? A) Tuesday. B) Wednesday. C) Thursday. D) Friday. E) Saturday.
+> Today is Thursday. What day will it be in 2023 days?
+>
+> A) Tuesday.
+> B) Wednesday.
+> C) Thursday.
+> D) Friday.
+> E) Saturday.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_junior#q02|src_kangourou_2023_junior__Q02]]
 
 
 
@@ -117,21 +138,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Speed-time chart of the home-school journey*
+*Which of the following can be the graph of the speed Maria kept from home to school as a function of time?*
 
 ![[src_kangourou_2023_junior__prob3.png]]
 
-> To go to school, Maria leaves home and runs to a metro station, gets off the train at the second station and walks to school. Which of the following can be the chart of the speed that Maria kept from home to school in relation to time? A)
-> 	
+> To go to school, Maria sets off from home and runs to a metro station, gets off the train at the second station and walks to school. Which of the following can be the graph of the speed Maria kept from home to school as a function of time?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
->  	
 > E)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_junior#q03|src_kangourou_2023_junior__Q03]]
 
 
 
@@ -166,19 +189,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*possible total number of bars*
+*Which of the following can be the total number of bars?*
 
-> A straight fence consists of vertical bars and horizontal bars; for every two vertical bars that are adjacent there are exactly 4 horizontal bars that connect them. Obviously, the fence starts and ends with vertical bars. Which of the following can be the total number of bars? A) 95
-> 	
+> A straight fence is made up of vertical bars and horizontal bars; for every two vertical bars that are adjacent there are exactly 4 horizontal bars that connect them. Of course the fence begins and ends with vertical bars. Which of the following can be the total number of bars?
+>
+> A) 95
 > B) 96
-> 	
 > C) 97
-> 	
 > D) 98
-> 	
 > E) 99
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_junior#q04|src_kangourou_2023_junior__Q04]]
 
 
 
@@ -236,14 +261,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*shaded percentage*
+*What percentage of the logo is shaded?*
 
 ![[src_kangourou_2023_junior__prob5.png]]
 
-> The Quadrupol company logo is the one in the figure, where each side of a square is parallel to one side of the other. The side of the large square measures 10, the side of the small square measures 4. What percentage of the logo is shaded? A) 35,5 % B) 38 % C) 40 % D) 42 % E) 45 % 1 2 3 4 5 6 7 8 9 10 11 12 1 5 t v t v t v t v t v
+> The logo of the company Quadrupol is the one in the picture, where each side of one square is parallel to a side of the other. The side of the large square measures 10, that of the small square measures 4. What percentage of the logo is shaded?
 >
+> A) 35,5 %
+> B) 38 %
+> C) 40 %
+> D) 42 %
+> E) 45 %
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_junior#q05|src_kangourou_2023_junior__Q05]]
 
 
 
@@ -278,23 +312,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n0 such that (n+1)! has one more digit than n!*
+*What is the smallest integer n0 such that, for every n ≥ n0, the decimal expression of the integer (n + 1)! contains at least one more digit than that of n!?*
 
-> For every positive integer n, the factorial of n is defined as 
-> n! = n × (n – 1) × … × 2 × 1. 
-> What is the smallest integer n0 such that, for every n ≥ n0, the decimal expression of the
-> integer (n + 1)! contains at least one more digit than that of n! ?
-> A) 3	
-	
-> B) 2	
-	
-> C) 6	
-	
-> D) 9	
-	
+> For every positive integer n, the factorial of n is defined as n! = n × (n – 1) × … × 2 × 1. What is the smallest integer n0 such that, for every n ≥ n0, the decimal expression of the integer (n + 1)! contains at least one more digit than that of n!?
+>
+> A) 3
+> B) 2
+> C) 6
+> D) 9
 > E) 10
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_junior#q06|src_kangourou_2023_junior__Q06]]
 
 
 
@@ -328,19 +360,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-That's what I'm talking about.
+*What was the sum of the ages of the members of the family seven years ago?*
 
-> Adding the ages (in years) of members of a family of five gives 80. The two youngest children are ages 6 and 8. What was the sum of the ages of the members of the family seven years ago? A) 35
-> 	
+> Adding the ages (in years) of the members of a family of five people gives 80. The ages of the two youngest children are 6 and 8. What was the sum of the ages of the members of the family seven years ago?
+>
+> A) 35
 > B) 36
-> 	
 > C) 45
-> 	
 > D) 46
-> 	
 > E) 52
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_junior#q07|src_kangourou_2023_junior__Q07]]
 
 
 
@@ -397,41 +431,24 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*measurement of the CAD angle*
+*How many degrees does the angle CAD measure?*
 
 ![[src_kangourou_2023_junior__prob8.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.0]
-  \coordinate (A) at (2.22, 3.59);
-  \coordinate (B) at (0, 0);
-  \coordinate (C) at (5, 0);
-  \coordinate (D) at (3.0, 0);
-  \draw[thick] (A) -- (B) -- (C) -- cycle;
-  \draw[thick] (A) -- (D);
-  \node[above] at (A) {$A$};
-  \node[left]  at (B) {$B$};
-  \node[right] at (C) {$C$};
-  \node[below] at (D) {$D$};
-  \node[right] at (0.55, 0.15) {$58°$};
-  \node[left]  at (4.35, 0.15) {$52°$};
-  \node[right] at (2.35, 2.8)  {$x$};
-\end{tikzpicture}
-\end{document}
-```
-
-> In the triangle ABC in the figure (which is not on scale) the angle in B measures 58 degrees, that in C measures 52 degrees. The ABD triangle is similar to the ABC triangle. How many degrees does the CAD angle measure? A) 16
-> 	
+> In the triangle ABC in the picture (which is not to scale) the angle at B measures 58 degrees, and the one at C measures 52 degrees. The triangle ABD is similar to the triangle ABC. How many degrees does the angle CAD measure?
+>
+> A) 16
 > B) 18
-> 	
 > C) 19
-> 	
 > D) 20
-> 	
 > E) 22
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_junior#q08|src_kangourou_2023_junior__Q08]]
 
 
 
@@ -464,19 +481,21 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Positive integer pairs (a,b) with a/5=7/b*
+*How many ordered pairs (a, b) of positive integers satisfy the equality a/5 = 7/b?*
 
-> How many pairs (a, b) of positive integers satisfies the equality a/5 = 7/b? A) 0
-> 	
+> How many ordered pairs (a, b) of positive integers satisfy the equality a/5 = 7/b?
+>
+> A) 0
 > B) 1
-> 	
 > C) 2
-> 	
 > D) 3
-> 	
 > E) 4
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_junior#q09|src_kangourou_2023_junior__Q09]]
 
 
 
@@ -510,19 +529,24 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of digits of (4^7) ^9 × (5^2) ^64*
+*What is the sum of the digits of the number (47)9 × (52)64?*
 
-> What is the sum of the digits of the number (47)9 × (52)64 ? A) 1
-> 	
+> What is the sum of the digits of the number (47)9 × (52)64?
+>
+> A) 1
 > B) 4
-> 	
 > C) 7
-> 	
 > D) 14
-> 	
-> E) 102 Questions from N. 11 to N. 20 are worth 4 points each.
+> E) 102
+>
+> Questions 11 to 20 are worth 4 points each.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_junior#q10|src_kangourou_2023_junior__Q10]]
 
 
 
@@ -556,19 +580,21 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how much more by half*
+*How many more must I play so that, assuming I win them all, I come to have won exactly half of the games I have played?*
 
-> After playing 200 chess games, I won exactly 49 percent. How many more games do I have to play so that, assuming I win all of them, I get to have won exactly half the games I've played? A) 1
-> 	
+> After playing 200 games of chess, I have won exactly 49% of them. How many more must I play so that, assuming I win them all, I come to have won exactly half of the games I have played?
+>
+> A) 1
 > B) 2
-> 	
 > C) 3
-> 	
 > D) 4
-> 	
 > E) 5
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_junior#q11|src_kangourou_2023_junior__Q11]]
 
 
 
@@ -599,13 +625,21 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*reduced life and range by 1/4, reduced consumption*
+*By how much have you reduced the water used for a shower?*
 
-> If, in order to save water, you have reduced the duration of the shower by a quarter and (by reducing the pressure) also by a quarter the volume of water you consume for the shower in the unit of time, how much have you reduced the water consumption for a shower? A) 1/4 B) 3/8
-> 	
-> C) 5/8 D) 5/12 E) 7/16
+> If, to save water, you have reduced the length of the shower by a quarter and (by reducing the pressure) also by a quarter the volume of water you use for the shower per unit of time, by how much have you reduced the water used for a shower?
+>
+> A) 1/4
+> B) 3/8
+> C) 5/8
+> D) 5/12
+> E) 7/16
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_junior#q12|src_kangourou_2023_junior__Q12]]
 
 
 
@@ -651,16 +685,24 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*area of shaded trapezoid*
+*What is the area of the shaded trapezium, in square centimetres?*
 
 ![[src_kangourou_2023_junior__prob13.png]]
 
-> In the figure you can see three adjacent squares; the sides of each square are 3, 5 and 8. How much is the area of the shaded trapezoid in square centimetres? A) 13
-> 	
-> B) 55/4 C) 61/4 D) 65/4 E) 69/4 A B C D 58° 52° x 3 cm 5 cm 8 cm
+> In the picture you see three squares placed side by side; the measures in centimetres of their sides are 3, 5 and 8. What is the area of the shaded trapezium, in square centimetres?
 >
+> A) 13
+> B) 55/4
+> C) 61/4
+> D) 65/4
+> E) 69/4
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_junior#q13|src_kangourou_2023_junior__Q13]]
 
 
 
@@ -694,19 +736,21 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*third piece*
+*How many metres long is the third piece?*
 
-> A 95-meter-long rope is cut into three pieces so that the third is one and a half times the second and the second is one and a half times the first. How long is the third piece? A) 36
-> 	
+> A rope 95 metres long is cut into three pieces so that the third is one and a half times as long as the second and the second is one and a half times as long as the first. How many metres long is the third piece?
+>
+> A) 36
 > B) 42
-> 	
 > C) 45
-> 	
 > D) 46
-> 	
 > E) 48
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_junior#q14|src_kangourou_2023_junior__Q14]]
 
 
 
@@ -742,17 +786,23 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*perimeter ratio*
+*What is the ratio of the perimeter of the pentagon to that of one of the triangles?*
 
 ![[src_kangourou_2023_junior__prob15.png]]
 
-> The ABCDE pentagon in the figure is divided into four triangles all having the same perimeter. The triangle ABC is equilateral and the triangles AEF, DFE and CDF are isosceles and congruent. What's the ratio between the perimeter of the pentagon and that of one of the triangles? A) 2
-> 	
+> The pentagon ABCDE in the picture is divided into four triangles, all having the same perimeter. The triangle ABC is equilateral and the triangles AEF, DFE and CDF are isosceles and congruent. What is the ratio of the perimeter of the pentagon to that of one of the triangles?
+>
+> A) 2
 > B) 5/3
-> 	
-> C) 3/2 D) 4/3 E) 5/2
+> C) 3/2
+> D) 4/3
+> E) 5/2
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_junior#q15|src_kangourou_2023_junior__Q15]]
 
 
 
@@ -786,11 +836,22 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*black steps with the right foot*
+*On how many black steps did she place her right foot?*
 
-> One step in three of the 2023 steps of a ladder is coloured in black: the ladder starts with two white steps, then the third is black, the fourth and fifth are white, the sixth is black and so on regularly. Anita went up the stairs one step at a time, alternating feet, but we don't know which foot she started with. On how many black steps did she put her right foot? A) 333 B) 334 C) 337 D) 674 E) The answer depends on which foot you set on the first step
+> One step in every three of the 2023 steps of a staircase is coloured black: the staircase begins with two white steps, then the third is black, the fourth and the fifth are white, the sixth is black, and so on regularly. Anita went up the whole staircase one step at a time, alternating her feet, but we do not know with which foot she started. On how many black steps did she place her right foot?
+>
+> A) 333
+> B) 334
+> C) 337
+> D) 674
+> E) The answer depends on which foot she placed on the first step
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_junior#q16|src_kangourou_2023_junior__Q16]]
 
 
 
@@ -826,28 +887,21 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*common divisor of min and max*
+*Which of the following numbers is a divisor both of the smallest and of the largest of the power-free numbers?*
 
-> We say that a two-digit positive integer is "power-free" if none
-> of its digits is a number of the type nk with n an integer and k an integer greater than 1. For
-> example 53 is a power-free number, while 54 is not (since 4 = 22). Which
-> of the following numbers is a divisor of both the smallest and the largest of the
-> power-free numbers?
-> A) 2	
-	
-> 	
-> B) 3	
-	
-> 	
-> C) 5	
-	
-> 	
-> D) 11	
-	
-> 	
-> E)13
+> We say that a positive two-digit integer is power-free if none of its digits is a number of the type nk with n an integer and k an integer greater than 1. For example 53 is a power-free number, while 54 is not (since 4 = 22). Which of the following numbers is a divisor both of the smallest and of the largest of the power-free numbers?
+>
+> A) 2
+> B) 3
+> C) 5
+> D) 11
+> E) 13
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_junior#q17|src_kangourou_2023_junior__Q17]]
 
 
 
@@ -882,13 +936,23 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*shaded area*
+*How many square centimetres is the area of the shaded part of the large square?*
 
 ![[src_kangourou_2023_junior__prob18.png]]
 
-> The figure shows a large square divided into 9 identical squares containing three circles. The side of the square measures 30 cm; the radii of the three circles are 4 cm (top-left circle), 3 cm (top-right circle), 5 cm (bottom-right circle). How many square centimetres is the area of the shaded part of the large square? A) 400 B) 500 C) 400 + 50π D) 500 – 25π E) 500 + 25π
+> The picture shows a large square divided into 9 identical squares, containing three circles. The side of the large square measures 30 cm; the radii of the three circles measure 4 cm (circle at the top left), 3 cm (circle at the top right) and 5 cm (circle at the bottom right). How many square centimetres is the area of the shaded part of the large square?
+>
+> A) 400
+> B) 500
+> C) 400 + 50π
+> D) 500 – 25π
+> E) 500 + 25π
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_junior#q18|src_kangourou_2023_junior__Q18]]
 
 
 
@@ -923,20 +987,22 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer Min = arithmetic mean of five primes*
+*What is the smallest positive integer that coincides with the arithmetic mean of five prime numbers?*
 
-> What is the smallest positive integer that matches the arithmetic mean of five prime numbers? A) 2
-> 	
-> B) 5
-> 	
-> C) 6
-> 	
-> D) 12
-> 	
-> E) 30
+> What is the smallest positive integer that coincides with the arithmetic mean of five prime numbers?
 >
+> A) 2
+> B) 5
+> C) 6
+> D) 12
+> E) 30
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_junior#q19|src_kangourou_2023_junior__Q19]]
 
 
 
@@ -979,21 +1045,25 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*blocks between 39 and 40*
+*In this second tower, how many blocks lie between the block numbered 39 and the one numbered 40, these excluded?*
 
 ![[src_kangourou_2023_junior__prob20.png]]
 
-> The tower on the left in the figure consists of 90 blocks numbered from 1 (the first at the bottom) to 90 (the last at the top). Taking from the tower on the left the three upper blocks and keeping them numbered and ordered, they were placed at the base of a new tower, the construction of which continued with this criterion, i.e. taking from the top to groups of three the remaining blocks and placing them above those already stacked, until the tower on the left was exhausted and was reconstructed as on the right. In this second tower, how many blocks are there between the block numbered 39 and the block numbered 40, these excluded? A) 4
-> 	
+> The tower on the left in the picture is made up of 90 blocks numbered increasingly from 1 (the first at the bottom) to 90 (the last at the top). Taking the three blocks at the top from the tower on the left and keeping their numbering and order, they were placed at the base of a new tower, whose construction continued by this rule, that is, taking the remaining blocks from the top in groups of three and placing them on top of those already stacked, until the tower on the left was used up and rebuilt as on the right. In this second tower, how many blocks lie between the block numbered 39 and the one numbered 40, these excluded?
+>
+> A) 4
 > B) 3
-> 	
 > C) 2
-> 	
 > D) 1
-> 	
-> E) 0 Questions from N. 21 to N. 30 are worth 5 points each.
+> E) 0
+>
+> Questions 21 to 30 are worth 5 points each.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_junior#q20|src_kangourou_2023_junior__Q20]]
 
 
 
@@ -1028,26 +1098,22 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*term in position 2023*
+*What is the number in place 2023 of the sequence?*
 
-> A sequence of integers is constructed as follows: the first 4 are, in order,
-> 2, 0, 2, 3; from the fifth onward, each term of the sequence is the smallest non-
-> negative integer different from the previous four. What is the number in position 2023 of the sequence?
-> A) 0	
-	
-> 	
-> B) 1	
-	
-> 	
-> C) 2	
-	
-> 	
-> D) 3	
-	
-> 	
+> A sequence of integers is built as follows: the first 4 are, in order, 2, 0, 2, 3; from the fifth onwards, every term of the sequence is the smallest non-negative integer different from the previous four. What is the number in place 2023 of the sequence?
+>
+> A) 0
+> B) 1
+> C) 2
+> D) 3
 > E) 4
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_junior#q21|src_kangourou_2023_junior__Q21]]
 
 
 
@@ -1084,19 +1150,24 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*square of AB*
+*What is the square of the length of the segment AB?*
 
 ![[src_kangourou_2023_junior__prob22.png]]
 
-> The two semicircles in the figure have a radius of 1, are externally tangent and the extension of each diameter is tangent to the other. What is the square of the length of the AB segment ? A) 16
-> 	
-> B) 8 + 4√3 C) 12
-> 	
+> The two semicircles in the picture have radius 1, are externally tangent, and the extension of the diameter of each is tangent to the other. What is the square of the length of the segment AB?
+>
+> A) 16
+> B) 8 + 4√3
+> C) 12
 > D) 9
-> 	
 > E) 5 + 2√3
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_junior#q22|src_kangourou_2023_junior__Q22]]
 
 
 
@@ -1156,41 +1227,24 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*circle ?*
+*What number must be entered in place of the question mark?*
 
 ![[src_kangourou_2023_junior__prob23.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[
-  node/.style={circle, draw, very thick, minimum size=1cm, inner sep=0}
-]
-  \node[node] (TL) at (0, 2) {};
-  \node[node] (TC) at (1.5, 2) {};
-  \node[node] (TR) at (3, 2) {};
-  \node[node] (ML) at (0, 0.5) {};
-  \node[node] (MC) at (1.5, 0.5) {};
-  \node[node] (MR) at (3, 0.5) {};
-  \node[node] (B) at (1.5, -1) {?};
-  \draw[very thick] (TL) -- (TC) -- (TR);
-  \draw[very thick] (ML) -- (MC) -- (MR);
-  \draw[very thick] (TC) -- (MC);
-  \draw[very thick] (MC) -- (B);
-\end{tikzpicture}
-\end{document}
-```
-
-> Look at the figure. Seven nonnegative integers of a digit, all different from each other, must each be inserted into one of the circles in the figure so that the product of the numbers inserted into each of the three triples of aligned circles is the same as the triples vary. What number shall be inserted in place of the question mark? A) 2
-> 	
+> Look at the picture. Seven non-negative one-digit integers, all different from one another, are to be entered, each in one of the circles in the picture, so that the product of the numbers entered in each of the three triples of aligned circles is the same, whichever triple one takes. What number must be entered in place of the question mark?
+>
+> A) 2
 > B) 3
-> 	
 > C) 4
-> 	
 > D) 6
-> 	
 > E) 8
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2023_junior#q23|src_kangourou_2023_junior__Q23]]
 
 
 
@@ -1243,14 +1297,24 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*right slope bisecting area*
+*What is the slope of the line that passes through the point (75, 30) and splits the remaining part of the rectangle into two regions of equal area?*
 
-> In the plane with an orthogonal cartesian system, the rectangle R of vertices (0,0), (100,0), (100,50) and (0,50) was drawn. From R the center circle (75.30) and radius 10 have been removed. What is the slope of the straight line passing through the point (75.30) and dividing the remaining part of the rectangle into two regions of the same area? N.B. The pend of a passing line for the two points (a, b) and (c, d) is the ratio (b  d)/(a  c). A) 1/5 B) 1/3
-> 	
-> C) 1/2 D) 2/5 E) 2/3 88 89 90 1 2 3 4 1 2 3 85 88 89 90 1 1 1 1 A B ?
+> In the plane equipped with a Cartesian coordinate system, the rectangle R has been drawn with vertices (0, 0), (100, 0), (100, 50) and (0, 50). From R the circle with centre (75, 30) and radius 10 has been removed. What is the slope of the line that passes through the point (75, 30) and splits the remaining part of the rectangle into two regions of equal area?
 >
+> N.B. The slope of a line passing through the two points (a, b) and (c, d) is the ratio (b – d)/(a – c).
+>
+> A) 1/5
+> B) 1/3
+> C) 1/2
+> D) 2/5
+> E) 2/3
 
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Method:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_junior#q24|src_kangourou_2023_junior__Q24]]
 
 
 
@@ -1288,19 +1352,21 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*duration of the journey*
+*How many hours did the journey last?*
 
-> When a smartphone's battery is fully charged, it allows you to talk on the phone for 20 hours or surf the Internet for 32 hours; if the smartphone is not used, the battery runs out in 80 hours. Charge consumption is uniform over time. During a trip, I talked for a third of the time, I browsed the internet for another third of the time, and I didn't use my smartphone for the remaining third of the time. The battery was half-charged at the start, and the charge ran out exactly at the end of the trip. How many hours did the trip take? A) 10
-> 	
+> When the battery of a smartphone is fully charged, it allows one to talk on the phone for 20 hours or to browse the internet for 32 hours; if the smartphone is not used, the battery runs out in 80 hours. The consumption of the charge is uniform in time. During a journey I talked for a third of the time, browsed the internet for another third of the time and did not use the smartphone for the remaining third of the time. At the start the battery was charged to exactly half, and the charge ran out exactly at the end of the journey. How many hours did the journey last?
+>
+> A) 10
 > B) 12
-> 	
 > C) 13
-> 	
 > D) 16
-> 	
 > E) 18
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_junior#q25|src_kangourou_2023_junior__Q25]]
 
 
 
@@ -1335,21 +1401,23 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which net is not possible*
+*Which of those listed certainly cannot be the net of the prism?*
 
 ![[src_kangourou_2023_junior__prob26.png]]
 
-> A closed line has been drawn on the outer surface of a rectangular prism. Which of those listed is certainly not the plane net of the prism? A)
-> 	
+> On the outer surface of a rectangular prism a closed line has been drawn. Which of those listed certainly cannot be the net of the prism?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
->  	
 > E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2023_junior#q26|src_kangourou_2023_junior__Q26]]
 
 
 
@@ -1384,22 +1452,22 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*'Fair' numbers n - sum of digits = a 3-digit number with equal digits*
+*How many fair numbers are there?*
 
-> A positive integer n with three digits is called "fair" if, by subtracting from n the
-> sum of its digits, one obtains a three-digit number with all digits equal. How many
-> fair numbers are there?
-> A) 1	
-	
-> B) 2	
-	
-> C) 3	
-	
-> D) 20	
-	
+> A positive three-digit integer n is called fair if, on subtracting from n the sum of its digits, one obtains a number of three equal digits. How many fair numbers are there?
+>
+> A) 1
+> B) 2
+> C) 3
+> D) 20
 > E) 30
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2023_junior#q27|src_kangourou_2023_junior__Q27]]
 
 
 
@@ -1435,17 +1503,22 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*pens to be extracted*
+*How many pens need to be drawn, and suffice, to be able to put the correct label on every box?*
 
-> Three (non-transparent) boxes contain 10 red pens, 10 green pens, 5 red pens and 5 green pens. There is a label on each box which should indicate its contents, but no label is applied to the box to which it should refer. How many pens do you need to extract to be able to put the correct label on each box? A) 2
-> 	
+> Three boxes (not transparent) contain, one 10 red pens, one 10 green pens, and one 5 red pens and 5 green pens. On each box there is a label that ought to indicate its contents, but no label is applied to the box it ought to refer to. How many pens need to be drawn, and suffice, to be able to put the correct label on every box?
+>
+> A) 2
 > B) 5
-> 	
 > C) 6
-> 	
-> D) 8 E) A number different from the previous one
+> D) 8
+> E) A number different from the previous ones
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2023_junior#q28|src_kangourou_2023_junior__Q28]]
 
 
 
@@ -1482,21 +1555,23 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*total perimeter*
+*How many kilometres long is the perimeter of the park?*
 
 ![[src_kangourou_2023_junior__prob29.png]]
 
-> The figure shows the pattern of the division of a large park into zones. The number within each zone indicates the length of the perimeter in kilometres. How many kilometers is the perimeter of the park? A) 22
-> 	
+> The picture shows the plan of the division of a large park into zones. The number inside each zone gives the length of its perimeter in kilometres. How many kilometres long is the perimeter of the park?
+>
+> A) 22
 > B) 26
-> 	
 > C) 30
-> 	
 > D) 32
-> 	
 > E) 34
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2023_junior#q29|src_kangourou_2023_junior__Q29]]
 
 
 
@@ -1540,15 +1615,19 @@ That's what I'm talking about.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alignments 1..9 with each successive triple multiple of 3*
+*In how many ways is it possible to line up the integers from 1 to 9, 1 and 9 included, so that, for every triple of numbers that turn out consecutive in the line, the sum of the three numbers of the triple is a multiple of 3?*
 
-> How many ways can integers from 1 to 9, 1 and 9 included, be aligned so that for each triple of numbers that are consecutive in the alignment, the sum of the three numbers in the triple is a multiple of 3? A) 64 B) 63
-> 	
-> C) 29 D) 6 × 5 × 4 × 3 × 2
-> 	
-> E) 9 × 7 × 6 × 5 × 4 × 3 × 2
->  
-> 12 11 9 4 6 7 3 10 4
+> In how many ways is it possible to line up the integers from 1 to 9, 1 and 9 included, so that, for every triple of numbers that turn out consecutive in the line, the sum of the three numbers of the triple is a multiple of 3?
 >
+> A) 64
+> B) 63
+> C) 29
+> D) 6 × 5 × 4 × 3 × 2
+> E) 9 × 7 × 6 × 5 × 4 × 3 × 2
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2023_junior#q30|src_kangourou_2023_junior__Q30]]

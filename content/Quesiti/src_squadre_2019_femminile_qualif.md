@@ -33,22 +33,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0047
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The draw (Sandro Campigotto)*
+*FISHING Sandro Campigotto*
 
 ![[src_squadre_2019_femminile_qualif__prob1.png]]
 
-> THE DRAW (Sandro Campigotto)
-> Oberon: Puck, my faithful Puck! I must take revenge on Titania. She keeps mocking me because I don't know mathematics.
-> Puck (to himself): It's true; what else should she do?
-> Oberon: Help me! This basket contains all the numbers from 10 to 99, inclusive. You choose one at random, then put it back in the basket; at that point I choose one. I win if the number I chose has both its units digit and its tens digit greater than or equal to the corresponding digit of the number you chose. What is the probability that I win? [Give as the answer the sum of the numerator and denominator of the fraction in lowest terms.]
+> FISHING Sandro Campigotto Oberon Puck, my faithful Puck! I must get my revenge on Titania. She keeps mocking me because I don't know mathematics. Puck (to himself) That's true—what else should she do? Oberon Help me! This basket contains all the numbers from 10 to 99, inclusive. You pick one at random and then put it back in the basket; at that point, I pick one. I win if the units digit and the tens digit of the number I have chosen are both greater than or equal to the corresponding digit of the number you have chosen. What is the probability that I win? [Give as the answer the sum of the numerator and denominator of the fraction reduced to lowest terms.]
 
-**Answer:** 0047
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q01|src_squadre_2019_femminile_qualif__Q01]]
 
 
 
@@ -82,24 +82,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0338
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The phials (Mattia Fecit)*
+*The Ampoules: Made by Mattia*
 
 ![[src_squadre_2019_femminile_qualif__prob2.png]]
 
-> THE PHIALS (Mattia Fecit)
-> Oberon: If I want to impress Titania, she must forget all the mathematics she knows. You must squeeze onto her eyes the juice of the incoherent berry, which makes one forget mathematics. Since I won the draw from the basket, you go and get the juice and put it in a black phial.
-> Puck: Where do I find a black phial?
-> Oberon: Go to the glade: there is a circular flowerbed in full bloom. You'll find it there.
-> Puck (alone, having reached the glade): There are five phials resting on the edge of the flowerbed. (In anticlockwise order, they are a red one, a white one, a black one, a pink one, a blue one.) The red phial is at the same distance from the white phial and from the pink phial; the black phial is opposite the red phial with respect to the centre of the flowerbed. The distances from the blue phial to the pink phial and to the red phial are in the ratio 1 to 7. On the line joining the red phial and the black phial, at the point closest to the blue phial, there is a little white pebble. Oberon told me to take a phial; I'll take one. (He takes the blue phial)
-> Voice-over: The maximum width of the flowerbed is 338 cm; what is the value, in cm, of the ratio between the square constructed on the segment joining the black and blue phials and the segment joining the pebble with the black phial?
+> THE PHIALS Mattia Fecit Oberon If I want to impress Titania, she must forget all the mathematics she knows. You must press the juice of the Incoherent Berry—which makes one forget mathematics—onto her eyes. Since I won at basket fishing, you go and get the juice and put it in a black phial. Puck Where do I find a black phial? Oberon Go to the clearing: there's a circular, fully flowered flowerbed. You'll find it there. Puck (Alone, having reached the clearing) There are five phials resting on the edge of the flowerbed. (In counterclockwise order, they are a red one, a white one, a black one, a pink one, and a blue one.) The red phial is the same distance from the white phial and from the pink phial; the black phial is opposite the red phial with respect to the center of the flowerbed. The distances from the blue phial to the pink phial and to the red phial are in the ratio 1 to 7. On the line joining the red phial and the black phial, at the point closest to the blue phial, there is a small white stone. Oberon told me to take a phial; I'll take one. (He takes the blue phial) Off-screen voice The maximum width of the flowerbed is 338 cm; what is the value, in cm, of the ratio of the square constructed on the segment joining the black phial and the blue phial to the segment joining the small stone and the black phial?
 
-**Answer:** 0338
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q02|src_squadre_2019_femminile_qualif__Q02]]
 
 
 
@@ -121,22 +119,19 @@ level: squadre
 > negozio?
 
 **Risposta:** 1092
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*At the greengrocer's (Luca Renzi)*
+*DALL’ORTOLANO Luca Renzi*
 
 ![[src_squadre_2019_femminile_qualif__prob3.png]]
 
-> AT THE GREENGROCER'S (Luca Renzi)
-> Athens, the sun rises. The greengrocer is already at work; he has just finished unloading the seven kinds of fruit he bought at the wholesale market.
-> Quince: The fruits the greengrocer has in the shop are: apples, all but 936; oranges, all but 936; bananas, all but 936; kiwis, all but 936; mandarins, all but 936; clementines, all but 936; pears, all but 936.
-> Bottom: All right! (Yawning, still half asleep) But how many fruits does he have in the shop in total?
+> DALL’ORTOLANO Luca Renzi Athens: the sun is rising. The greengrocer is already at work; he has just finished unloading the seven types of fruit he bought at the central market. Quince The fruits the greengrocer has in the shop are: apples except 936; oranges except 936; bananas except 936; kiwis except 936; mandarins except 936; mandaranci except 936; pears except 936. Fondo Agreed! (Yawning, still sleepy) But how many fruits does he have in total in the shop?
 
-**Answer:** 1092
+[[Quesiti/src_squadre_2019_femminile_qualif#q03|src_squadre_2019_femminile_qualif__Q03]]
 
 
 
@@ -167,27 +162,24 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1345
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Enter Demetrius (Alessandro Murchio)*
+*ENTRA DEMETRIO Alessandro Murchio*
 
 ![[src_squadre_2019_femminile_qualif__prob4.png]]
 
-> ENTER DEMETRIUS (Alessandro Murchio)
-> Theseus (walking with Hermia): Demetrius, it's such a lovely day. Join us; Hermia was telling me about mathematics.
-> Hermia (to Demetrius): Take four positive integers a\_1, a\_2, a\_3 and a\_4...
-> Demetrius: All different?
-> Hermia: No, they can be as you like, even all equal... And compute the following operation:
-> ⋆(a\_1, a\_2, a\_3, a\_4) = min{a\_1, a\_2, a\_3, a\_4} if GCD(a\_1, a\_2, a\_3, a\_4) = 1; max{a\_1, a\_2, a\_3, a\_4} otherwise.
-> Demetrius: Well, that's easy: it's a definition by cases.
-> Hermia: That's not the question. How many ordered pairs (x, y) of positive integers are there such that computing ⋆(1347, 1911, x, y) gives 2019?
-> Demetrius: There are three... (Hermia shakes her head in dismay.)
+> ENTERS DEMETRIO Alessandro Murchio Theseus (Walks together with Hermia) Demetrio, it's such a beautiful day. Join us; Hermia was talking to me about mathematics. Hermia (To Demetrio) Take four positive integers, a_1, a_2, a_3, and a_4... Demetrio All different? Hermia No, they can be whatever you like—even all the same... And calculate the following operation:
+>
+> min{a_1, a_2, a_3, a_4} if MCD(a_1, a_2, a_3, a_4) = 1 ⋆(a_1, a_2, a_3, a_4) = max{a_1, a_2, a_3, a_4} otherwise. Demetrio: Well, it's easy—it's a case-by-case definition. Hermia: That's not the question. How many ordered pairs (x, y) of positive integers are there such that, when ⋆(1347, 1911, x, y) is computed, the result is 2019? Demetrio: There are three... (Hermia shakes her head in despair.)
 
-**Answer:** 1345
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q04|src_squadre_2019_femminile_qualif__Q04]]
 
 
 
@@ -208,21 +200,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5000
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Enter Lysander (Sandro Campigotto)*
+*LISANDRO Sandro Campigotto enters*
 
 ![[src_squadre_2019_femminile_qualif__prob5.png]]
 
-> ENTER LYSANDER (Sandro Campigotto)
-> Theseus: Lysander, I have a question for you. In how many different ways can I choose ordered triples of positive integers (a, b, c), with a, b and c less than or equal to 100, such that c − b = b − a?
-> Lysander: ... (Hermia signals to him not to answer)
+> ENTRA LISANDRO Sandro Campigotto Teseo Lisandro, I have a question for you. In how many different ways can I choose ordered triples of positive integers (a, b, c), with a, b, and c less than or equal to 100, such that c − b = b − a? Lisandro ... (Hermia signals to him not to answer)
 
-**Answer:** 5000
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q05|src_squadre_2019_femminile_qualif__Q05]]
 
 
 
@@ -245,22 +238,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 6903
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The cicadas (Andrea Damonte)*
+*The Cicadas Andrea Damonte*
 
 ![[src_squadre_2019_femminile_qualif__prob6.png]]
 
-> THE CICADAS (Andrea Damonte)
-> Titania (in the glade near the circular flowerbed in bloom): The cicadas have settled on the edge of the flowerbed: there are lots of them. Now I'll count them: 1, 2, 3 (she continues under her breath), 119.
-> Oberon (thinking that Puck has poured the juice of the incoherent berry onto Titania's eyes): What is the maximum number of right triangles with vertices at three cicadas?
-> Titania: Oberon, how banal you are: (Oberon gets irritated) it's so easy!
+> THE CICADAS Andrea Damonte Titania (In the clearing near the circular flowering flowerbed) The cicadas have landed on the edge of the flowerbed: there are so many of them. Now I'm counting them: 1, 2, 3 (Continues in a low voice), 119. Oberon (Thinking that Puck has poured the juice of the incoherent berry onto Titania's eyes) What's the maximum number of right-angled triangles whose vertices are three cicadas? Titania: Oberon, how banal you are! (Oberon gets irritated) It's so easy!
 
-**Answer:** 6903
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q06|src_squadre_2019_femminile_qualif__Q06]]
 
 
 
@@ -291,30 +284,19 @@ level: squadre
 > prima lucciola dopo le 8 ore consecutive richieste da Oberon?
 
 **Risposta:** 0048
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The magic fireflies (Francesco Raspaolo)*
+*The Magic Fireflies Francesco Raspaolo*
 
 ![[src_squadre_2019_femminile_qualif__prob7.png]]
 
-> THE MAGIC FIREFLIES (Francesco Raspaolo)
-> Oberon: The fireflies are driving me mad!
-> Puck: How is that possible, my lord? It's winter and it's daytime.
-> Oberon: They are magic, and they light up with different rhythms during the days:
-> • the firefly Kael lights up every day at 9:00;
-> • the firefly Kale lights up every 18 hours;
-> • the firefly Kail lights up every 16 hours;
-> • the firefly Kela lights up at 23:30 on every day on which the firefly Kale has lit up twice, otherwise it lights up at 21:00;
-> • the firefly Keil lights up one hour after the firefly Kela.
-> Today at 9:00 the fireflies Kael, Kale and Kail lit up. I would like to be able to spend a night without seeing fireflies; to be precise, I would like no firefly to light up for at least 8 consecutive hours between 22:00 and 9:00.
-> Puck (to himself): Better not to explain to him that they aren't fireflies...
-> Voice-over: After how many hours, starting from today at 9:00, will the first firefly light up after the 8 consecutive hours required by Oberon?
+> THE MAGIC FIREFLIES Francesco Raspaolo Oberon The fireflies drive me mad! Puck How is that possible, my lord? It's winter and it's daytime. Oberon They're magical, and during the day they light up at different intervals: • Firefly Kael lights up every day at 9:00; • Firefly Kale lights up every 18 hours; • Firefly Kail lights up every 16 hours; • Firefly Kela lights up at 23:30 on every day when firefly Kale has lit up twice; otherwise, it lights up at 21:00; • Firefly Keil lights up an hour after firefly Kela. Today at 9:00, fireflies Kael, Kale, and Kail lit up. I wish I could spend a night without seeing any fireflies; to be precise, I'd like no firefly to light up for at least 8 consecutive hours between 22:00 and 9:00. Puck (To himself) Better I don't explain to him that they aren't fireflies... Voice-over After how many hours, starting from 9:00 today, will the first firefly light up after the 8 consecutive hours required by Oberon?
 
-**Answer:** 0048
+[[Quesiti/src_squadre_2019_femminile_qualif#q07|src_squadre_2019_femminile_qualif__Q07]]
 
 
 
@@ -337,24 +319,19 @@ level: squadre
 > Ermia (Sorridendo a Lisandro) Tra le persone in fila quante sono quelle veritiere?
 
 **Risposta:** 1009
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In the square in Athens (Mattia Fecit)*
+*IN THE SQUARE IN ATHENS Mattia Fecit*
 
 ![[src_squadre_2019_femminile_qualif__prob8.png]]
 
-> IN THE SQUARE IN ATHENS (Mattia Fecit)
-> In the square of Athens, 2019 people are standing in a row.
-> Lysander (to Hermia): Each of them is either a liar, that is, always lies, or a truth-teller, that is, always tells the truth.
-> Hermia: Say something!
-> All the people in the row (in unison): There are more liars on my left than truth-tellers on my right.
-> Hermia (smiling at Lysander): Among the people in the row, how many are truth-tellers?
+> IN THE SQUARE IN ATHENS Mattia Fecit In the square in Athens, 2019 people are in a queue. Lysander (to Hermia) Each one of them is either a liar—that is, always tells lies—or a truth-teller—that is, always tells the truth. Hermia Say something! All the people in the queue (in unison) There are more liars to my left than truth-tellers to my right. Hermia (smiling at Lysander) Among the people in the queue, how many are truth-tellers?
 
-**Answer:** 1009
+[[Quesiti/src_squadre_2019_femminile_qualif#q08|src_squadre_2019_femminile_qualif__Q08]]
 
 
 
@@ -381,27 +358,22 @@ level: squadre
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1084
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The two hundred and seventeenth (Simone Muselli)*
+*The Two Hundred Seventeenth Simone Muselli*
 
 ![[src_squadre_2019_femminile_qualif__prob9.png]]
 
-> THE TWO HUNDRED AND SEVENTEENTH (Simone Muselli)
-> Titania: Let's say that l\_u(n) is the number of letters in the (Italian) word that is the units digit of the number n. For example l\_u(10) = 4 [“zero”].
-> Puck: But l\_u(12) = 3 [“due”].
-> Titania: Yes. Consider the sequence defined recursively by
-> b\_1 = 7, b\_(n+1) = b\_n + l\_u(b\_n).
-> Puck: Now I'll write it all out (he starts writing very fast).
-> Titania (after a while): What number have you written now?
-> Puck: The two hundred and seventeenth, b\_(217).
-> Voice-over: What number is the two hundred and seventeenth written by Puck?
+> THE TWO HUNDRED SEVENTEENTH Simone Muselli Titania Let l_u(n) be the number of letters in the word that is the units digit of the number n. For example, l_u(10) = 4. Puck But l_u(12) = 3. Titania Yes. Consider the sequence defined recursively by b_1 = 7, b_(n+1) = b_n + l_u(b_n). Puck Now I'll write it all out (he starts writing very quickly). Titania (After a while) What number have you just written? Puck The two hundred seventeenth, b_(217). Off-screen voice What number is the two hundred seventeenth number written by Puck?
 
-**Answer:** 1084
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q09|src_squadre_2019_femminile_qualif__Q09]]
 
 
 
@@ -429,25 +401,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0076
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum and maximum (Silvia Sconza)*
+*Minimum and Maximum Silvia Sconza*
 
 ![[src_squadre_2019_femminile_qualif__prob10.png]]
 
-> MINIMUM AND MAXIMUM (Silvia Sconza)
-> Titania: Puck, listen to this algorithm: take a positive or zero integer n;
-> • if n is even, add 1 to it;
-> • if n is odd, multiply it by 2.
-> Apply the algorithm to the new number obtained as long as the number you get remains less than 10000.
-> Puck: If I take n = 4999, I apply the algorithm twice and get 9999; at that point I stop.
-> Titania: Well done, my Puck! You started with a four-digit number and obtained the largest possible number, starting with a four-digit number. But what is the smallest two-digit number from which one must start to obtain the largest possible four-digit number, starting from a two-digit number?
+> MINIMUM AND MAXIMUM Silvia Sconza Titania Puck, listen to this algorithm: given an integer n that is non-negative and positive, • if n is even, add 1 to it; • if n is odd, multiply it by 2. Apply the algorithm to the new number obtained until the number you get remains less than 10000. Puck If I take n = 4999, I apply the algorithm twice and get 9999; at that point I stop. Titania Well done, my Puck! You started with a four-digit number and obtained the largest possible number—starting with a four-digit number. But what is the smallest two-digit number you must start with to obtain the largest possible four-digit number—starting from a two-digit number?
 
-**Answer:** 0076
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q10|src_squadre_2019_femminile_qualif__Q10]]
 
 
 
@@ -479,28 +448,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0020
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The little fairies (Mattia Fecit)*
+*LE FATINE Mattia Made*
 
 ![[src_squadre_2019_femminile_qualif__prob11.png]]
 
-> THE LITTLE FAIRIES (Mattia Fecit)
-> In the glade, the four little fairies Kael, Kale, Kail and Kela are standing still on the edge of the circular flowerbed in bloom. The fairy Keil stops in the glade at a point from which she sees Kela and Kail, but does not see Kael and Kale because Kela and Kail, respectively, hide them. Similarly, the fairy Klea stops in the glade at a point from which she sees Kale and Kail, but does not see Kael and Kela because Kale and Kail, respectively, hide them.
-> Klea: 1ℶ.
-> Keil: 2ℶ.
-> Oberon: What are they doing?
-> Puck: Each one says the visual angle under which she sees the only two fairies on the edge of the field that are visible to her.
-> Oberon: Under what visual angle does Kael see Kale and Kela?
-> Puck: 3ℶ.
-> Oberon: I think I know the measure in degrees of 1ℶ.
-> Puck: What is it?
+> THE FAIRIES Mattia Fecit In the clearing, the four fairies Kael, Kale, Kail, and Kela are standing on the edge of the circular flowerbed. The fairy Keil stops in the clearing at a point where she can see Kela and Kail but cannot see Kael and Kale, because Kela and Kail, respectively, hide them from her. Similarly, the fairy Klea stops in the clearing at a point where she can see Kale and Kail but cannot see Kael and Kela, because Kale and Kail, respectively, hide them from her. Klea 1ℶ. Keil 2ℶ. Oberon What are they doing? Puck Each one says at what viewing angle she sees the only two fairies on the edge of the field who are visible to her. Oberon At what viewing angle does Kael see Kale and Kela? Puck 3ℶ. Oberon I think I know the degree measure of 1ℶ. Puck How much is it?
 
-**Answer:** 0020
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q11|src_squadre_2019_femminile_qualif__Q11]]
 
 
 
@@ -521,21 +484,19 @@ level: squadre
 > Oberon Non so che cosa sia un insieme. . .
 
 **Risposta:** 0960
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Set (Alessandro Logar)*
+*TOGETHER Alessandro Logar*
 
 ![[src_squadre_2019_femminile_qualif__prob12.png]]
 
-> SET (Alessandro Logar)
-> Titania: Puck, what is the sum of all the products (x − a\_1)(x − a\_2)(x − a\_3)(x − a\_4) obtained by choosing x, a\_1, a\_2, a\_3 and a\_4 in all possible ways provided that the sets {x, a\_1, a\_2, a\_3, a\_4} and {1, 2, 3, 4, 5} are equal?
-> Oberon: I don't know what a set is...
+> INSIEME Alessandro Logar Titania Puck, what is the sum of all the products (x − a_1)(x − a_2)(x − a_3)(x − a_4) obtained by choosing x, a_1, a_2, a_3, and a_4 in all possible ways provided that the sets {x, a_1, a_2, a_3, a_4} and {1, 2, 3, 4, 5} are equal? Oberon I don't know what a set is...
 
-**Answer:** 0960
+[[Quesiti/src_squadre_2019_femminile_qualif#q12|src_squadre_2019_femminile_qualif__Q12]]
 
 
 
@@ -568,24 +529,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5103
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The elves' colours (Simone Muselli)*
+*The Colors of the Elves Simone Muselli*
 
 ![[src_squadre_2019_femminile_qualif__prob13.png]]
 
-> THE ELVES' COLOURS (Simone Muselli)
-> Bottom (to Quince): In the wood the elves use certain colours as numbers; to be precise they use 8 colours: 3 primary ones (yellow, blue and red), three secondary ones (green, purple and orange), a neutralising one (brown) and a special one (gold). To each of these colours the elves associate a digit; different colours are associated with different digits. Moreover they denote the mixture of two colours by the sign ⊕, because it is similar to addition.
-> Quince: You mean that, when two colours are mixed, the order of the components doesn't matter?
-> Bottom: Exactly! The mixture of two primary colours produces the secondary colour derived from the two, that is blue ⊕ yellow = green, yellow ⊕ red = orange, blue ⊕ red = purple, as I told you, regardless of the order of the addends. Mixing a primary colour with a secondary colour derived from it again gives the secondary colour, for example blue ⊕ purple = purple, except in one case: yellow ⊕ orange = gold. Any other combination gives brown. I also know that
-> 1 ⊕ 2 = 3, 4 ⊕ 5 = 9, 4 ⊕ 0 = 4, 4 ⊕ 2 = 6.
-> Quince: What are the digits associated with the colours purple, blue, red, green? [Give the answer starting from the leftmost digit.]
+> THE COLORS OF THE ELVES Simone Muselli Fondo (Addressed to Cotogna) In the forest, the elves use certain colors as numbers; more precisely, they use 8 colors: 3 primary colors (yellow, blue, and red), three secondary colors (green, violet, and orange), one neutralizing color (brown), and one special color (gold). The elves associate a digit with each of these colors—different colors are associated with different digits. Moreover, they denote the mixture of two colors with the symbol ⊕ because it is similar to addition. Cotogna So, when two colors are mixed, the order of the components doesn't matter? Fondo Exactly! The mixture of two primary colors produces the secondary color derived from them—that is, blue ⊕ yellow = green, yellow ⊕ red = orange, blue ⊕ red = violet—as I told you, regardless of the order of the addends. Mixing a primary color with a secondary color derived from it still yields the secondary color; for example, blue ⊕ violet = violet, except in one case: yellow ⊕ orange = gold. Any other combination gives brown. I also know that 1 ⊕ 2 = 3, 4 ⊕ 5 = 9, 4 ⊕ 0 = 4, 4 ⊕ 2 = 6. Cotogna What digits are associated with the colors violet, blue, red, and green? [Give the answer starting with the digit on the left.]
 
-**Answer:** 5103
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q13|src_squadre_2019_femminile_qualif__Q13]]
 
 
 
@@ -609,22 +568,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0724
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The stained equation (Alessandro Murchio)*
+*The Stained Equation Alessandro Murchio*
 
 ![[src_squadre_2019_femminile_qualif__prob14.png]]
 
-> THE STAINED EQUATION (Alessandro Murchio)
-> Titania (to Oberon): Consider the equation I have written.
-> Oberon: What are those black dots?
-> Titania: I'm afraid it was Puck playing a prank: all the + and − signs that were there have been covered with black dots. (What can be read is x^(11) • x^(10) • ... • x • 1 = 0.) Well, let's do this. How many sequences of + and − are there which, inserted in the equation, are such that there is at least one integer solution?
+> The Stained Equation Alessandro Murchio Titania (To Oberon) Consider the equation I have written. Oberon: What are those black dots? Titania: I'm afraid Puck played a prank: all the + and − signs that were present were covered with black dots. (What can be read is x^(11) • x^(10) • . . . • x • 1 = 0.) Well, let's do this. How many sequences of + and −, when inserted into the equation, are such that there is at least one integer solution?
 
-**Answer:** 0724
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q14|src_squadre_2019_femminile_qualif__Q14]]
 
 
 
@@ -649,22 +608,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0115
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The three fractions (Mattia Fecit)*
+*The Three Fractions, Made by Mattia*
 
 ![[src_squadre_2019_femminile_qualif__prob15.png]]
 
-> THE THREE FRACTIONS (Mattia Fecit)
-> Oberon (waking up): I dreamt of three fractions, each with a one-digit number as numerator and a two-digit number as denominator. The nine digits were all different and none was 0. I computed the sum and it came out an integer. At that point I woke up with a start.
-> Titania: Do you want me to tell you what fractions they were?
-> Voice-over: What were the three fractions? [Answer by giving the sum of the number obtained and the three denominators: for example, if the result of the sum is 3 and the denominators are 45, 67, 89, you must write 0204.]
+> THE THREE FRACTIONS Mattia Fecit Oberon (Waking up) I dreamed of three fractions, each with a one-digit number as the numerator and a two-digit number as the denominator. The nine digits were all different, and none of them was 0. I calculated the sum, and it came out to an integer. At that point, I jolted awake. Titania: Do you want me to tell you what the fractions were? Off-screen voice: What were the three fractions? [Answer by providing the sum of the number obtained and the three denominators: for example, if the sum is 3 and the denominators are 45, 67, 89, you must write 0204.]
 
-**Answer:** 0115
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q15|src_squadre_2019_femminile_qualif__Q15]]
 
 
 
@@ -692,22 +651,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0013
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The chase (Sandro Campigotto)*
+*In Pursuit Sandro Campigotto*
 
 ![[src_squadre_2019_femminile_qualif__prob16.png]]
 
-> THE CHASE (Sandro Campigotto)
-> In the wood, Lysander, enchanted, keeps chasing Helena.
-> Lysander (shouting towards Helena, who is running): Play with me, please! Each of us takes four cards of all different suits. We place them face down in front of us and play them one at a time, turning them over simultaneously. You win if the card you turn over is of the same suit as the card I turn over. Otherwise, if you don't win even on the fourth play, then I win.
-> Helena (stops suddenly): But do you realise what my probability of winning is? (Lysander is left dumbfounded) [Give as the answer the sum of the numerator and denominator of the fraction in lowest terms.]
+> IN PURSUIT Sandro Campigotto In the woods, Lisandro, enchanted, keeps chasing Elena. Lisandro (Shouting toward Elena, who is running): Play with me, please! Each of us draws four cards of four different suits. We place them face down in front of us and play them one at a time, turning each card over at the same time. You win if the card you turn over is of the same suit as the card I turn over. Otherwise, if you don't win even on the fourth play, then I win. Elena (Stops abruptly): But do you realize what my chance of winning is? (Lisandro is left dumbfounded) [Give as the answer the sum of the numerator and the denominator of the fraction reduced to its lowest terms.]
 
-**Answer:** 0013
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q16|src_squadre_2019_femminile_qualif__Q16]]
 
 
 
@@ -737,26 +696,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0337
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The jewel (Sandro Campigotto)*
+*The Jewel Sandro Campigotto*
 
 ![[src_squadre_2019_femminile_qualif__prob17.png]]
 
-> THE JEWEL (Sandro Campigotto)
-> Puck (looking at Helena, who is asleep): Helena's jewel is beautiful. It starts from a segment 15 mm long. Then four steps were repeated.
-> (1st step) Using each of the fixed segments, a square is constructed with the segment as a side.
-> (2nd step) Two parallel sides are fixed in the square just constructed.
-> (3rd step) Using each of the sides just fixed as hypotenuse, an isosceles right triangle is constructed.
-> (4th step) In each of the two right triangles just constructed one leg is fixed as a segment.
-> The jewel is built with 4 complete executions of the sequence of four steps.
-> Voice-over: How many millimetres long is the maximum perimeter the jewel can have?
+> THE JEWEL Sandro Campigotto Puck (Watching Elena Sleep) Elena's jewel is beautiful. It starts with a segment 15 mm long. Then they repeated four steps. (1st step) Using each of the fixed segments, a square is constructed with the segment as a side. (2nd step) Two parallel sides in the square just constructed are fixed. (3rd step) Using each of the sides just fixed as the hypotenuse, an isosceles right triangle is constructed. (4th step) In each of the two right triangles just constructed, one leg is fixed as a segment. The jewel is constructed with 4 complete executions of the four-step sequence. Voice-over: How many millimeters long is the maximum perimeter the jewel can have?
 
-**Answer:** 0337
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q17|src_squadre_2019_femminile_qualif__Q17]]
 
 
 
@@ -798,26 +753,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0136
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The hall (Luca Renzi)*
+*IL SALONE Luca Renzi*
 
 ![[src_squadre_2019_femminile_qualif__prob18.png]]
 
-> THE HALL (Luca Renzi)
-> Theseus: This hall is octagonal: in the centre there is a square with side 450 cm; on each side of the central square there is a square with one side coinciding with that of the initial square; the outer vertices of the four squares are the vertices of the octagon.
-> Hippolyta: I remember when the builders laid the floor tiles. They had brought square tiles, all with side 90 cm, but of two different kinds: the first kind decorated with four triangles, two white and two black, which have a vertex in common that is the centre of the tile, arranged so that two triangles of the same colour have no sides in common; the second kind decorated with two rectangles, one white and one black, which have in common a side that passes through the centre of the tile and is perpendicular to two sides of the tile. The builders had laid a tile of the first kind at the centre of the floor, with the sides of the tile parallel to the sides of the central square, and they went on laying tiles, placing them side by side so that, if two tiles had more than one vertex in common, then they had a whole side in common.
-> Theseus: I had ordered them to follow three rules:
-> • when two tiles have a side in common they must match properly, that is, all the points of the common side must have the same colour on both tiles;
-> • if a tile has to be cut, all the parts of the tile that are formed must be used (for example, if a tile is cut in two, both pieces must be used);
-> • the smallest possible number of tiles must be cut.
-> Voice-over: What is the maximum number of tiles of the second kind used for the flooring? And the minimum, knowing that at least one was used? [Give as the answer the difference of the two numbers.]
+> THE HALL Luca Renzi Theseus This hall is octagonal: at its center is a square with sides 450 cm long; on each side of the central square there is a square whose side coincides with that of the initial square; the outer vertices of the four squares are the vertices of the octagon. Ippolita I remember when the masons laid the floor tiles. They had brought square tiles, all with sides 90 cm long, but of two different types: the first type was decorated with four triangles—two white and two black—sharing a vertex that was the center of the tile, so that two triangles of the same color did not share any sides; the second type was decorated with two rectangles—one white and one black—sharing a side that passed through the center of the tile and was perpendicular to two of the tile's sides. The masons had laid a tile of the first type at the center of the floor, with the sides of the tile parallel to the sides of the central square, and they went on laying tiles, placing them adjacent so that, if two tiles shared more than one vertex, they shared an entire side. Theseus I had ordered them to follow three rules: • when two tiles share a side, they must match well—that is, all points on the shared side must be the same color on both tiles; • if a tile has to be cut, all the tile pieces that are created must be used (for example, if a tile is cut in two, both pieces must be used); • as few tiles as possible must be cut. Off-screen voice What was the maximum number of tiles of the second type used for the flooring? And what was the minimum number, given that at least one was used? [Give as the answer the difference between the two numbers.]
 
-**Answer:** 0136
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q18|src_squadre_2019_femminile_qualif__Q18]]
 
 
 
@@ -846,27 +797,19 @@ level: squadre
 > Voce fuori campo Quanti batteri ci saranno tra 2019 giorni?
 
 **Risposta:** 2500
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The bacteria (Rodolfo Assereto)*
+*I BATTERI Rodolfo Assereto*
 
 ![[src_squadre_2019_femminile_qualif__prob19.png]]
 
-> THE BACTERIA (Rodolfo Assereto)
-> Bottom: Snout, at the moment, is only monitoring a culture of bacteria. He will be able to take care of our theatre performance.
-> Quince: I don't think so; his work as a biologist keeps him extremely busy. He has noticed that
-> • every day one new bacterium is born from every two bacteria present in the culture;
-> • no bacterium dies.
-> Snout must check the number of bacteria present every day at noon. If the check gives a quantity greater than or equal to 10000, he must reduce the number of bacteria present in the culture by filling bottles prepared to block new births, each of which must contain exactly 10000 bacteria, so as to bring the number in the culture back below the threshold of 10000.
-> Bottom (to Snout): How many bacteria are there now?
-> Snout: 2500.
-> Voice-over: How many bacteria will there be in 2019 days?
+> BACTERIA Rodolfo Assereto Fondo Placido, at present, is only monitoring a bacterial culture. He will be able to take care of our theatrical performance. Cotogna: I don't think so—his work as a biologist keeps him extremely busy. He has noticed that • each day, one new bacterium is born from every two bacteria present in the culture; • no bacterium dies. Placido must check the number of bacteria present at noon each day. If the check yields a quantity greater than or equal to 10,000, he must reduce the number of bacteria in the culture by filling bottles prepared to prevent new births; each bottle must contain exactly 10,000 bacteria, so as to bring the number in the culture back below the 10,000 threshold. Fondo (to Placido): How many bacteria are there now? Placido: 2,500. Off-screen voice: How many bacteria will there be in 2,019 days?
 
-**Answer:** 2500
+[[Quesiti/src_squadre_2019_femminile_qualif#q19|src_squadre_2019_femminile_qualif__Q19]]
 
 
 
@@ -897,23 +840,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7388
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What remains (Alessandro Logar)*
+*What Remains Alessandro Logar*
 
 ![[src_squadre_2019_femminile_qualif__prob20.png]]
 
-> WHAT REMAINS (Alessandro Logar)
-> In a hidden corner of the glade there is a board showing 4 digits: N\_1, N\_2, N\_3 and N\_4. And there are two buttons: button A and button B.
-> Puck: Do you know how it works?
-> Titania: Do you know what the remainder of the division of the integer a by the integer b is? (Puck nods) I call this remainder R(a, b). I'll explain how the board works. Button A changes the digits N\_1, N\_2, N\_3 and N\_4 as follows: in place of N\_1 it writes R(N\_1 + 2, 8), in place of N\_2 it writes R(N\_2 + 1, 4), in place of N\_3 it writes R(N\_3 + 3, 10) and in place of N\_4 it writes R(N\_4 + 1, 10). Similarly, button B writes in place of the digits N\_1, N\_2, N\_3 and N\_4 the digits R(N\_1 + 1, 8), R(N\_2 + 1, 4), R(N\_3 + 2, 10) and R(N\_4 + 2, 10) respectively. For example, pressing A twice and B once, starting from the initial configuration in which the four digits are 0, the board shows the number 5384.
-> Puck: What is the largest number that can appear on the display starting from the initial configuration in which the four digits are all 0?
+> WHAT REMAINS Alessandro Logar In a hidden corner of the clearing, there is a display board showing 4 digits: N_1, N_2, N_3, and N_4. And there are two buttons: button A and button B. Puck: Do you know how it works? Titania: Do you know what the remainder is when the integer a is divided by the integer b? (Puck nods.) I'll call this remainder R(a, b). Let me explain how the display board works. Button A modifies the digits N_1, N_2, N_3, and N_4 as follows: it writes R(N_1 + 2, 8) in place of N_1, R(N_2 + 1, 4) in place of N_2, R(N_3 + 3, 10) in place of N_3, and R(N_4 + 1, 10) in place of N_4. Similarly, button B writes, in place of the digits N_1, N_2, N_3, and N_4, respectively, the digits R(N_1 + 1, 8), R(N_2 + 1, 4), R(N_3 + 2, 10), and R(N_4 + 2, 10). For example, by pressing A twice and B once, starting from the initial configuration in which all four digits are 0, the number 5384 appears on the display board. Puck: What is the maximum number that can appear on the display, starting from the initial configuration in which all four digits are 0?
 
-**Answer:** 7388
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q20|src_squadre_2019_femminile_qualif__Q20]]
 
 
 
@@ -937,20 +879,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0480
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*My fairies (Mihaela Badescu)*
+*MIE FATE Mihaela Badescu*
 
 ![[src_squadre_2019_femminile_qualif__prob21.png]]
 
-> MY FAIRIES (Mihaela Badescu)
-> Titania: My fairies, a simple geometry problem! Consider a segment CX 24 m long. Let A be the midpoint of CX and let B be a point such that AB = 8 m and BC = 10 m; consider the bisector of angle CÂB, which meets BC at D, and the bisector of angle BÂX, which meets BX at E. How long, in cm, is the radius of the circle circumscribed about triangle ADE?
+> MIE FATE Mihaela Badescu Titania Mie fate, a simple geometry problem! Consider a line segment CX 24 m long. Let A be the midpoint of CX, and let B be a point such that AB = 8 m and BC = 10 m; consider the angle bisector of angle CÂB, which meets BC at D, and the angle bisector of angle BÂX, which meets BX at E. How long, in cm, is the radius of the circumcircle of triangle ADE?
 
-**Answer:** 0480
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q21|src_squadre_2019_femminile_qualif__Q21]]
 
 
 
@@ -978,24 +922,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1006
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Friendship (Rodolfo Assereto)*
+*Friendship Rodolfo Assereto*
 
 ![[src_squadre_2019_femminile_qualif__prob22.png]]
 
-> FRIENDSHIP (Rodolfo Assereto)
-> Oberon: Puck, do you know what friendly numbers are?
-> Puck: Yes: a number n is k-friendly when there can exist a group of n people in which each person is a friend of exactly k other people. One must remember that the relation of “friendship” is symmetric, that is, if A is a friend of B, then B is also a friend of A.
-> Oberon: So, for example, a number n is 7-friendly when there can exist a group of n people in which each person is a friend of exactly 7 other people.
-> Puck: Exactly! But why do you ask me this, my lord Oberon?
-> Oberon: Because Titania asked me how many 7-friendly numbers there are from 1 to 2019, and I couldn't answer her. (Looking at Puck suspiciously) But did you pour the juice of the incoherent berry onto her eyes?
+> FRIENDSHIP Rodolfo Assereto Oberon Puck, do you know what friendly numbers are? Puck Yes—a number n is k-friendly if there can exist a group of n people in which each person is friends with exactly k other people. It must be remembered that the "friendship" relation is symmetric: if A is friends with B, then B is also friends with A. Oberon So, for example, a number n is 7-friendly if there can exist a group of n people in which each person is friends with exactly 7 other people. Puck Exactly! But why are you asking me this, my lord Oberon? Oberon Because Titania asked me how many 7-friendly numbers there are from 1 to 2019, but I couldn't answer her. (Looking at Puck suspiciously) But did you pour incoherent berry juice into her eyes?
 
-**Answer:** 1006
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q22|src_squadre_2019_femminile_qualif__Q22]]
 
 
 
@@ -1017,21 +959,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0135
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The mistake (Simone Muselli)*
+*The Mistake Simone Muselli*
 
 ![[src_squadre_2019_femminile_qualif__prob23.png]]
 
-> THE MISTAKE (Simone Muselli)
-> Oberon: Puck, quick! Titania has set me another question. Tell me the smallest integer greater than 1 that is equal to the product of the sum of its digits and the product of its digits.
-> Puck (to himself): I must have got the wrong phial...
+> THE MISTAKE Simone Muselli Oberon Puck, quick! Titania has asked me another question. Tell me what is the smallest integer greater than 1 that equals the product of the sum of its digits and the product of its digits. Puck (to himself) I must have got the ampoule wrong...
 
-**Answer:** 0135
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q23|src_squadre_2019_femminile_qualif__Q23]]
 
 
 
@@ -1060,22 +1003,19 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0025
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2019_25%20gennaio%20-%20Ga.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2019 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The gift (Daniele Boccalini)*
+*The Gift Daniele Boccalini*
 
 ![[src_squadre_2019_femminile_qualif__prob24.png]]
 
-> THE GIFT (Daniele Boccalini)
-> Oberon: Here is my gift for you! (He hands Titania a cube made up of 125 luminous little cubes) Each little cube can be on or off. If a little cube has at least three faces touching little cubes that are already on, it automatically lights up too. But if a little cube that is off has fewer than three faces in common with lit cubes, it does not light up.
-> Titania: Lovely! If I have understood correctly, I can switch on some little cubes; these can make others light up, which together with those already on make still others light up, and so on.
-> Oberon: Exactly! I'm glad you like it.
-> Titania: What is the minimum number of little cubes I must switch on so that, after a sufficient number of steps, all of them light up as a consequence?
-> Oberon: ...
-> End of the first act
+> THE GIFT Daniele Boccalini Oberon Here's my gift for you! (He hands Titania a cube made up of 125 glowing little cubes.) Each of the little cubes can be turned on or off. If a little cube has at least three faces touching already lit cubes, it automatically turns on too. But if an off little cube shares fewer than three faces with lit cubes, it doesn't turn on. Titania Nice! If I've understood correctly, I can turn on some of the little cubes; these can cause others to turn on, and those, together with the ones already lit, can cause yet more to turn on, and so on. Oberon Exactly! I'm glad you like it. Titania What's the minimum number of little cubes I have to turn on so that, after enough steps, all of them will turn on as a consequence? Oberon ... End of Act I
 
-**Answer:** 0025
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2019_femminile_qualif#q24|src_squadre_2019_femminile_qualif__Q24]]

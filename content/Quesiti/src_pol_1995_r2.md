@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio con coefficienti interi: P(5) divisibile da 2 e P(2) divisibile da 5 implica P(7) divisibile da 10.*
+*Polinomio a coefficienti interi: se P(5) è divisibile per 2 e P(2) è divisibile per 5, allora P(7) è divisibile per 10.*
 
-> Per un polinomio $P$ con coefficienti interi, $P(5)$ è divisibile per 2 e $P(2)$ è divisibile per 5. Provare che $P(7)$ è divisibile per 10.
+> Per un polinomio $P$ a coefficienti interi, $P(5)$ è divisibile per 2 e $P(2)$ è divisibile per 5. Dimostrare che $P(7)$ è divisibile per 10.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1995_r2#q01|src_pol_1995_r2__Q01]]
 
 
 
@@ -53,9 +60,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCDEF esagonale converso con AB=BC, CD=DE, EF=FA: le perpendicolari da C,E,A a BD,DF,FB sono simultanee.*
+*Esagono convesso ABCDEF con AB=BC, CD=DE, EF=FA: le perpendicolari condotte da C, E, A rispettivamente a BD, DF, FB sono concorrenti.*
 
-> Il $ABCDEF$ deve essere un esagono converso con $AB = BC$, $CD = DE$ e $EF = FA$. Prove che le linee attraverso $C, E, A$ perpendicolari a $BD, DF, FB$ sono simultanee.
+> Sia $ABCDEF$ un esagono convesso con $AB = BC$, $CD = DE$ e $EF = FA$. Dimostrare che le rette passanti per $C, E, A$ e perpendicolari a $BD, DF, FB$ sono concorrenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1995_r2#q02|src_pol_1995_r2__Q02]]
 
 
 
@@ -77,9 +90,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Irazionali positivi a,b,c,d con a+b=1; mostrare c+d=1 se il piano n) + piano n) = piano n) + piano n) per tutti gli integri positivi n.*
+*Numeri irrazionali positivi a,b,c,d tali che a+b=1; dimostrare che c+d=1 se e solo se floor(na)+floor(nb)=floor(nc)+floor(nd) per tutti gli interi positivi n.*
 
-> $a, b, c, d$ siano numeri irrazionali positivi con $a + b = 1$. Indicare che $c + d = 1$ se e solo se $[na] + [nb] = [nc] + [nd]$ per tutti gli integri positivi $n$.
+> Sia $a, b, c, d$ un insieme di numeri irrazionali positivi con $a + b = 1$. Dimostrare che $c + d = 1$ se e solo se $[na] + [nb] = [nc] + [nd]$ per tutti gli interi positivi $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1995_r2#q03|src_pol_1995_r2__Q03]]
 
 
 
@@ -102,9 +121,16 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali positivi x_1,...,x_n con somma x_i <= somma x_i^2; provare somma x_i^t <= somma x_i^{t+1} per tutte le t>1.*
+*Numeri reali positivi x_1,...,x_n tali che la somma x_i sia minore o uguale alla somma x_i^2; dimostrare che la somma x_i^t è minore o uguale alla somma x_i^{t+1} per ogni numero reale t>1.*
 
-> I numeri reali positivi $x_1, x_2, \ldots, x_n$ soddisfano la condizione $\sum_{i=1}^{n} x_i \le \sum_{i=1}^{n} x_i^2$. Prove la disuguaglianza $\sum_{i=1}^{n} x_i^t \le \sum_{i=1}^{n} x_i^{t+1}$ per tutti i numeri reali $t > 1$.
+> I numeri reali positivi $x_1, x_2, \ldots, x_n$ soddisfano la condizione $\sum_{i=1}^{n} x_i \le \sum_{i=1}^{n} x_i^2$. Dimostra la disuguaglianza $\sum_{i=1}^{n} x_i^t \le \sum_{i=1}^{n} x_i^{t+1}$ per tutti i numeri reali $t > 1$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1995_r2#q04|src_pol_1995_r2__Q04]]
 
 
 
@@ -126,9 +152,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tetraedro ABCD: incircoli di facce ABC e ABD tangenti al bordo AB nello stesso punto; dimostrare che i punti di tangenza su AC,BC,AD,BD sono conciclici.*
+*Tetraedro ABCD: le cerchi inscritti nelle facce ABC e ABD sono tangenti al spigolo AB nello stesso punto; dimostrare che i punti di tangenza su AC, BC, AD, BD sono concyclici.*
 
-> Le incircoli delle facce $ABC$ e $ABD$ di un tetraedro $ABCD$ sono tangenti al bordo $AB$ nello stesso punto. Provare che i punti di tangenza di questi incircoli ai bordi $AC, BC, AD, BD$ sono conciclici.
+> Le cerchi inscritti nelle facce $ABC$ e $ABD$ di un tetraedro $ABCD$ sono tangenti al spigolo $AB$ nello stesso punto. Dimostrare che i punti di tangenza di questi cerchi inscritti con gli spigoli $AC, BC, AD, BD$ sono concyclici.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1995_r2#q05|src_pol_1995_r2__Q05]]
 
 
 
@@ -151,6 +183,13 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determina tutti gli integri positivi n per i quali un n x n quadrato può essere tagliato in quadrati 2x2 e 3x3 (laterali paralleli al grande quadrato).*
+*Determinare tutti gli interi positivi n per cui un quadrato n × n può essere tagliato in quadrati 2×2 e 3×3 (con i lati paralleli a quelli del quadrato grande).*
 
-> Determinare tutti i numeri interi positivi $n$ per i quali il quadrato $n \times n$ può essere tagliato in quadrati $2 \times 2$ e $3 \times 3$ (con i lati paralleli ai lati del grande quadrato).
+> Determinare tutti gli interi positivi $n$ per cui il quadrato $n \times n$ può essere tagliato in quadrati $2 \times 2$ e $3 \times 3$ (con i lati paralleli ai lati del quadrato grande).
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1995_r2#q06|src_pol_1995_r2__Q06]]

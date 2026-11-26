@@ -36,17 +36,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cisterna di palle da ping-pong: tempo per raggiungere le palle 2000*
+*Serbatoio di palline da ping-pong: tempo per raggiungere 2000 palline*
 
-> In un serbatoio ci sono 4000 palline di ping-pong. Un ragazzo iniziò a rimuovere le palle esattamente alle 10:00 del mattino, a una velocità costante. Dopo 6 ore, c'erano 3520 palline nel serbatoio. Se il ragazzo continuasse allo stesso ritmo, a che ora il serbatoio avrebbe 2000 palle?
+> In una vasca ci sono 4000 palline da ping-pong. Un ragazzo ha iniziato a togliere le palline esattamente alle 10:00 del mattino, con velocità costante. Dopo 6 ore, nella vasca c'erano 3520 palline. Se il ragazzo avesse continuato alla stessa velocità, a che ora nella vasca ci sarebbero state 2000 palline?
 >
 > - **(A)** alle 11:00 del giorno successivo
 > - **(B)** alle 23:00 dello stesso giorno
 > - **(C)** alle 4:00 del giorno successivo
 > - **(D)** alle 7:00 del giorno successivo
-> - **(E)** alle nove del giorno successivo
+> - **(E)** alle 9:00 del giorno successivo
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n1_f1#q01|src_obm_2006_n1_f1__Q01]]
 
 
 
@@ -78,19 +83,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Grafica a barre: dichiarazioni di impatto sull'acqua/nutrienti per monocultivazione*
+*Grafico a barre: dichiarazioni sull'impatto dell'acqua/dei nutrienti nella monocoltura*
 
-> Il seguente grafico presenta informazioni sull'impatto causato da 4 tipi di monocultivazione sul suolo. Per ciascun tipo di monocultivazione, il grafico mostra la quantità di acqua (in litri) e di nutrienti (azoto, fosforo e potassio), in chilogrammi, consumata per ettaro per produrre 1 kg di canna da zucchero, o 1 kg di soia, o 1 kg di mais, o 1 kg di legno di eucalipto. A proposito di queste monoculture, quale affermazione è corretta?
+> Il seguente grafico presenta informazioni sull'impatto causato da 4 tipi di monocoltura sul suolo. Per ciascun tipo di monocoltura, il grafico mostra la quantità d'acqua (in litri) e dei nutrienti (azoto, fosforo e potassio), in chilogrammi, consumati per ettaro per produrre 1 kg di canna da zucchero, oppure 1 kg di soia, oppure 1 kg di mais, oppure 1 kg di legno di eucalipto. Riguardo a queste monocolture, quale affermazione è corretta?
 >
-> - **(A)** L'eucalyptus ha bisogno di circa $1/3$ della massa di sostanze nutritive che la canna da zucchero ha bisogno di sviluppare.
-> - **(B)** L'eucalyptus è il raccolto che più secca e impoverisce il suolo, causando uno squilibrio ambientale.
-> - **(C)** La soia è la coltura che ha bisogno di più nutrienti.
-> - **(D)** Il mais ha bisogno del doppio dell'acqua di soia.
-> - **(E)** La canna da zucchero è il raccolto che ha più bisogno di acqua per crescere.
+> - **(A)** L'eucalipto ha bisogno di circa $1/3$ della massa di nutrienti di cui ha bisogno la canna da zucchero per svilupparsi.
+> - **(B)** L'eucalipto è la coltura che disidrata e impoverisce maggiormente il suolo, causando uno squilibrio ambientale.
+> - **(C)** La soia è la coltura che richiede il maggior apporto di nutrienti.
+> - **(D)** Il mais ha bisogno del doppio dell'acqua della soia.
+> - **(E)** La canna da zucchero è la coltura che richiede la maggior quantità d'acqua per crescere.
 
 ![[src_obm_2006_n1_f1__q02.png]]
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n1_f1#q02|src_obm_2006_n1_f1__Q02]]
 
 
 
@@ -119,9 +129,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equipe di calcio: vittorie/pareggio da 31 partite*
+*Squadra di calcio: vittorie/pareggi in 31 partite*
 
-> Una squadra di calcio ha vinto 8 partite in più di quelle perdute e ha fatto 3 gare in meno di quelle vinte. Quante partite ha vinto, se ha giocato 31 partite in totale?
+> Una squadra di calcio ha vinto 8 partite in più di quante ne ha perse e ha pareggiato 3 partite in meno di quante ne ha vinte. Quante partite ha vinto, se in totale ne ha giocate 31?
 >
 > - **(A)** 11
 > - **(B)** 14
@@ -129,7 +139,11 @@ level: OBM Nível 1
 > - **(D)** 17
 > - **(E)** 23
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n1_f1#q03|src_obm_2006_n1_f1__Q03]]
 
 
 
@@ -161,9 +175,11 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare l'espressione con poteri di 2 volte 2006*
+*Valuta l'espressione che coinvolge potenze di 2 moltiplicate per 2006*
 
-> Valutando le operazioni indicate nell'espressione $$\left(\frac{2^{2007}+2^{2005}}{2^{2006}+2^{2004}}\right)\times 2006$$ otteniamo la somma delle cifre di tale numero. Qual è la somma?
+> Valutazione delle operazioni indicate nell'espressione
+> $$\left(\frac{2^{2007}+2^{2005}}{2^{2006}+2^{2004}}\right)\times 2006$$
+> Otteniamo la somma delle cifre di quel numero. Qual è tale somma?
 >
 > - **(A)** 4
 > - **(B)** 5
@@ -171,7 +187,12 @@ level: OBM Nível 1
 > - **(D)** 7
 > - **(E)** 8
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n1_f1#q04|src_obm_2006_n1_f1__Q04]]
 
 
 
@@ -201,9 +222,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare numeri dispari a tre cifre con cifre distinte divisibili per 3*
+*Conta i numeri dispari di tre cifre con cifre distinte divisibili per 3*
 
-> Quanti numeri dispari a tre cifre con tre cifre distinte sono divisibili per 3?
+> Quanti numeri dispari di tre cifre, con tre cifre distinte, sono divisibili per 3?
 >
 > - **(A)** 18
 > - **(B)** 24
@@ -211,7 +232,12 @@ level: OBM Nível 1
 > - **(D)** 36
 > - **(E)** 48
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n1_f1#q05|src_obm_2006_n1_f1__Q05]]
 
 
 
@@ -241,9 +267,9 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Piano di cellulare: minuti necessari per risparmiare denaro
+*Piano telefonico mobile: minuti necessari per risparmiare*
 
-> Un'azienda di telefonia cellulare offre piani mensili di 60 minuti a un costo di R\$52.00, that is, your phone is free for up to 60 minutes per month and you pay R\$52.00 per questo. Per qualsiasi eccesso, una tassa di R\$1.20 per minute is charged. The same fee applies to the plan of 100 minutes, offered at a monthly cost of R\$87,00. Un utente del piano di 60 minuti che parla per 60 minuti al giorno, è stato addebitato 140 minuti nel mese precedente. Se invece avesse optato per il piano di 100 minuti, quanti reais avrebbe risparmiato?
+> Una compagnia telefonica mobile offre piani mensili da 60 minuti al costo di R\$52.00, that is, your phone is free for up to 60 minutes per month and you pay R\$52,00 per tale servizio. Per ogni minuto in eccesso, si applica una tariffa di R\$1.20 per minute is charged. The same fee applies to the plan of 100 minutes, offered at a monthly cost of R\$87,00. Un utente del piano da 60 minuti che parla per 60 minuti al giorno è stato addebitato per 140 minuti nel mese precedente. Se invece avesse scelto il piano da 100 minuti, quanti reais avrebbe risparmiato?
 >
 > - **(A)** 10
 > - **(B)** 11
@@ -251,7 +277,12 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 > - **(D)** 13
 > - **(E)** 14
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n1_f1#q06|src_obm_2006_n1_f1__Q06]]
 
 
 
@@ -283,9 +314,9 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trianguli a pari stella con vertici di pentagono regolare*
+*Triangoli isosceli con vertici di un pentagono regolare*
 
-> Quanti triangoli a uguale forma hanno i loro vertici tra i vertici del pentagono regolare tracciati lateralmente?
+> Quanti triangoli isosceli hanno i vertici nei vertici del pentagono regolare tracciato con il lato?
 >
 > - **(A)** 5
 > - **(B)** 10
@@ -295,7 +326,12 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 
 ![[src_obm_2006_n1_f1__q07.png]]
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2006_n1_f1#q07|src_obm_2006_n1_f1__Q07]]
 
 
 
@@ -325,9 +361,9 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero unico espressi come prodotto di quattro numeri naturali consecutivi*
+*Numero unico esprimibile come prodotto di quattro numeri naturali consecutivi*
 
-> Tra i seguenti numeri, quale è l'unico che può essere scritto come prodotto di quattro numeri naturali consecutivi?
+> Tra i seguenti numeri, qual è l'unico che può essere scritto come prodotto di quattro numeri naturali consecutivi?
 >
 > - **(A)** 712
 > - **(B)** 548
@@ -335,7 +371,12 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 > - **(D)** 1456
 > - **(E)** 1680
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n1_f1#q08|src_obm_2006_n1_f1__Q08]]
 
 
 
@@ -365,17 +406,22 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due ciclisti su lati opposti di un circuito di 45 km, trovano l'ora di incontro*
+*Due ciclisti, posti ai lati opposti di un anello di 45 km, determinano l'orario dell'incontro*
 
-> Intorno a un grande lago c'è una pista ciclabile di 45 chilometri di lunghezza, che ritorna sempre al punto di partenza dopo essere stata percorsa in una direzione. Due amici partirono dallo stesso punto con velocità costanti di 20 km/h e 25 km/h rispettivamente, in direzioni opposte. Quando si incontrano per la prima volta, uno correva a 20 km/h e aumentava a 25 km/h, mentre quello che era a 25 km/h diminuì a 20 km/h. Quanto tempo deve aspettare l'amico che arriva per primo al punto di partenza?
+> Intorno a un grande lago c'è un percorso ciclabile lungo 45 chilometri, che, dopo essere percorso in una sola direzione, riporta sempre al punto di partenza. Due amici partono dallo stesso punto con velocità costanti rispettivamente di 20 km/h e 25 km/h, in direzioni opposte. Quando si incontrano per la prima volta, uno stava viaggiando a 20 km/h e la sua velocità è aumentata a 25 km/h, mentre l'altro, che viaggiava a 25 km/h, ha ridotto la sua velocità a 20 km/h. Quanto tempo deve aspettare l'amico che arriva per primo al punto di partenza l'altro?
 >
-> - **(A)** nessuna
-> - **(B)** 10 minuti
-> - **(C)** 12 minuti
-> - **(D)** 15 minuti
-> - **(E)** 18 minuti
+> - **(A)** nessuno
+> - **(B)** 10 min
+> - **(C)** 12 min
+> - **(D)** 15 min
+> - **(E)** 18 min
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n1_f1#q09|src_obm_2006_n1_f1__Q09]]
 
 
 
@@ -405,9 +451,9 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Orologio digitale: coppie di cifre che mostrano sempre su tutte e quattro le cifre*
+*Orologio digitale: coppie di cifre che compaiono sempre su tutte e quattro le cifre*
 
-> Su un orologio digitale, l'ora viene mostrata con quattro cifre. Ad esempio, alle 00:00 sappiamo che è mezzanotte e alle 23:59 sappiamo che c'è un minuto fino a mezzanotte. Quante volte al giorno tutte e quattro le cifre sono mostrate uguali in coppie?
+> Su un orologio digitale, l'ora viene visualizzata tramite quattro cifre. Ad esempio, alle 00:00 sappiamo che è mezzanotte, e alle 23:59 sappiamo che manca un minuto a mezzanotte. Quante volte al giorno tutte e quattro le cifre risultano uguali a coppie?
 >
 > - **(A)** 60
 > - **(B)** 90
@@ -415,7 +461,12 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 > - **(D)** 180
 > - **(E)** 240
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n1_f1#q10|src_obm_2006_n1_f1__Q10]]
 
 
 
@@ -446,9 +497,9 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perimetro di forma L formato da due strisce di carta sovrapposte*
+*Perimetro della forma a L formata da due strisce di carta sovrapposte*
 
-> Due strisce di carta rettangolare, lunghe 20 cm, larghe 5 cm e larghe 11 cm, sono incollate perpendicolare per formare la figura illustrata lateralmente. Qual è il perimetro di questa figura, in centimetri?
+> Due strisce rettangolari di carta, ciascuna lunga 20 cm, una larga 5 cm e l'altra larga 11 cm, sono incollate tra loro perpendicolarmente per formare la figura illustrata a lato. Qual è il perimetro di questa figura, in centimetri?
 >
 > - **(A)** 50
 > - **(B)** 60
@@ -458,7 +509,11 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 
 ![[src_obm_2006_n1_f1__q11.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n1_f1#q11|src_obm_2006_n1_f1__Q11]]
 
 
 
@@ -488,17 +543,22 @@ Piano di cellulare: minuti necessari per risparmiare denaro
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
+*Puzzle logico: sei amici che viaggiano a coppie con mezzi di trasporto diversi*
 
-> Sei amici pianificano di viaggiare in coppia, ciascuna coppia utilizzando un mezzo di trasporto diverso tra i seguenti: aereo, treno e auto. Alexandre accompagna Bento. André viaggia in aereo. Carlos non accompagna Dário. Tomás non usa mai il treno. Quale delle seguenti affermazioni è corretta?
+> Sei amici hanno intenzione di viaggiare a coppie, e ogni coppia utilizzerà un mezzo di trasporto diverso tra i seguenti: aereo, treno e auto. Alexandre accompagna Bento. André viaggia in aereo. Carlos non accompagna Dário. Tomás non usa mai il treno. Quale delle seguenti affermazioni è corretta?
 >
-> - **(A)** Bento va in macchina e Carlos in aereo.
-> - **(B)** Dário va in treno e André in macchina.
-> - **(C)** Tomás va in treno e Bento in aereo.
-> - **(D)** Alexandre va in treno e Tomás in macchina.
-> - **(E)** André va in treno e Alexandre in macchina.
+> - **(A)** Bento viaggia in auto e Carlos viaggia in aereo.
+> - **(B)** Dário viaggia in treno e André viaggia in auto.
+> - **(C)** Tomás viaggia in treno e Bento viaggia in aereo.
+> - **(D)** Alexandre viaggia in treno e Tomás viaggia in auto.
+> - **(E)** André viaggia in treno e Alexandre viaggia in auto.
 
-**Risposta:** D
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n1_f1#q12|src_obm_2006_n1_f1__Q12]]
 
 
 
@@ -530,9 +590,9 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi di piastrelle per la decorazione delle pareti utilizzando piastrelle di ceramica nera*
+*Conta le piastrelle nella decorazione muraria realizzata con piastrelle ceramiche nere*
 
-> Utilizzando piastrelle di ceramica nera a forma di quadrati, una decorazione fu composta su un muro, come mostrato in parte qui sotto. Quante piastrelle sono state utilizzate in tutta la decorazione, dato che l'ultimo pezzo da assemblare ha utilizzato 40 piastrelle?
+> Utilizzando piastrelle ceramiche nere di forma quadrata, su una parete è stata composta una decorazione, come mostrato parzialmente qui sotto. Quante piastrelle sono state utilizzate nell'intera decorazione, sapendo che l'ultimo pezzo da assemblare ha impiegato 40 piastrelle?
 >
 > - **(A)** 60
 > - **(B)** 68
@@ -542,7 +602,12 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 
 ![[src_obm_2006_n1_f1__q13.png]]
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n1_f1#q13|src_obm_2006_n1_f1__Q13]]
 
 
 
@@ -576,9 +641,11 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero Sara scrive nella tabella dei multipli di 4 alla posizione U*
+*Il numero che Sara scrive nella tabella dei multipli di 4 in posizione U*
 
-> Sara stava scrivendo nelle scatole di una tabella i multipli positivi di 4, in ordine crescente, come mostrato di seguito: $$\begin{array}{ccccccc} 4 & 8 & 12 & 16 & 20 & \cdots & 376 & 380 \\ 760 & 756 & 752 & 748 & 744 & \cdots & 388 & 384 \\ 764 & \to & \to & \to & \to & \cdots & \to & \to \\ \leftarrow & \leftarrow & \leftarrow & \leftarrow & \leftarrow & \cdots & \leftarrow & \leftarrow \end{array}$$ Il numero che Sara ha scritto nella scatola alla posizione $U$ è:
+> Sara stava scrivendo nelle caselle di una tabella i multipli positivi di 4, in ordine crescente, come mostrato di seguito:
+> $$\begin{array}{ccccccc} 4 & 8 & 12 & 16 & 20 & \cdots & 376 & 380 \\ 760 & 756 & 752 & 748 & 744 & \cdots & 388 & 384 \\ 764 & \to & \to & \to & \to & \cdots & \to & \to \\ \leftarrow & \leftarrow & \leftarrow & \leftarrow & \leftarrow & \cdots & \leftarrow & \leftarrow \end{array}$$
+> Il numero che Sara ha scritto nella casella in posizione $U$ è:
 >
 > - **(A)** 35192
 > - **(B)** 35196
@@ -588,7 +655,12 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 
 ![[src_obm_2006_n1_f1__q14.png]]
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n1_f1#q14|src_obm_2006_n1_f1__Q14]]
 
 
 
@@ -619,9 +691,9 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due piccole quadrate all'interno di un grande quadrato: area di regione non dipinta*
+*Due piccoli quadrati all'interno di un quadrato grande: area della regione non dipinta*
 
-> Il disegno a destra mostra due quadrati congruenti più piccoli di lato 20 all'interno di un quadrato più grande. Il vertice $O$ è l'unico punto comune dei due quadrati più piccoli ed è anche il centro del quadrato più grande. I vertici $A$, $O$ e $B$ sono collineari e $O$ è il centro del quadrato più grande. L'area della regione del quadrato più grande che non è stata dipinta è pari al 36\% dell'area totale della regione dipinta. Qual è l'area del quadrato più grande?
+> Il disegno a destra mostra due quadrati più piccoli e congruenti, ciascuno con lato 20, all'interno di un quadrato più grande. Il vertice $O$ è l'unico punto comune ai due quadrati più piccoli ed è anche il centro del quadrato più grande. I vertici $A$, $O$ e $B$ sono allineati e $O$ è il centro del quadrato più grande. L'area della parte del quadrato più grande che non è colorata è pari al 36% dell'area totale della parte colorata. Qual è l'area del quadrato più grande?
 >
 > - **(A)** 420
 > - **(B)** 496
@@ -631,7 +703,11 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 
 ![[src_obm_2006_n1_f1__q15.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n1_f1#q15|src_obm_2006_n1_f1__Q15]]
 
 
 
@@ -661,9 +737,9 @@ Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
 <div class="qlang-split" data-lang="it"></div>
 
 
-Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
+*Numero intero positivo: somma delle cifre dei divisori con resto 3 e resto 5*
 
-> Un certo numero intero positivo, diviso per 15, ha il rimanente 7. Qual è la somma dei rimanenti di questo numero diviso per 3 e per 5?
+> Un certo numero intero positivo, diviso per 15, dà resto 7. Qual è la somma dei resti di questo numero quando viene diviso per 3 e per 5?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -671,7 +747,12 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 > - **(D)** 5
 > - **(E)** 6
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n1_f1#q16|src_obm_2006_n1_f1__Q16]]
 
 
 
@@ -700,9 +781,9 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'età di Neto nel 2006 dalla somma degli anni di nascita*
+*Trovare l'età di Neto nel 2006 a partire dalla somma degli anni di nascita*
 
-> Alla fine del 1994, Neto aveva la metà dell'età di sua nonna. La somma dei loro anni di nascita è di 3844. Quanti anni compie Neto nel 2006?
+> Alla fine del 1994, Neto aveva la metà degli anni di sua nonna. La somma dei loro anni di nascita è 3844. Quanti anni compirà Neto nel 2006?
 >
 > - **(A)** 55
 > - **(B)** 56
@@ -710,7 +791,11 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 > - **(D)** 62
 > - **(E)** 108
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n1_f1#q17|src_obm_2006_n1_f1__Q17]]
 
 
 
@@ -741,9 +826,9 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area di tangramma della regione ombreggiata data la superficie totale di 64 cm2*
+*Area della regione ombreggiata nel tangram, data l'area totale di 64 cm²*
 
-> La figura qui sotto rappresenta un Tangram, un puzzle cinese formato da 5 triangoli, 1 parallelo e 1 quadrato. Sapendo che l'area del tangramma mostrato è $64\text{ cm}^2$, qual è l'area, in $\text{cm}^2$, della regione ombrata?
+> La figura sottostante rappresenta un tangram, un rompicapo cinese composto da 5 triangoli, 1 parallelogramma e 1 quadrato. Sapendo che l'area del tangram mostrato è $64\text{ cm}^2$, qual è l'area, in $\text{cm}^2$, della regione ombreggiata?
 >
 > - **(A)** 7.6
 > - **(B)** 8
@@ -753,7 +838,11 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 
 ![[src_obm_2006_n1_f1__q18.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n1_f1#q18|src_obm_2006_n1_f1__Q18]]
 
 
 
@@ -783,9 +872,9 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazioni alfabetiche di BRASIL: posizione della 361a parola*
+*Permutazioni alfabetiche di BRASIL: posizione della 361ª parola*
 
-> Le permutazioni della parola BRASIL erano elencate in ordine alfabetico, come se fossero parole di un dizionario. La 361a parola di questa lista è:
+> Le permutazioni della parola BRASIL sono state elencate in ordine alfabetico, come se fossero parole di un dizionario. La 361ª parola in questo elenco è:
 >
 > - **(A)** BRISAL
 > - **(B)** SIRBAL
@@ -793,7 +882,12 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 > - **(D)** SABRIL
 > - **(E)** LABIRS
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n1_f1#q19|src_obm_2006_n1_f1__Q19]]
 
 
 
@@ -823,9 +917,9 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 <div class="qlang-split" data-lang="it"></div>
 
 
-*POP planetario: settimane al mese, date unità temporali insolite*
+*Pianeta POT: settimane per mese con unità di tempo insolite*
 
-> Sul pianeta POT, il numero di ore al giorno equivale al numero di giorni alla settimana, che equivale al numero di settimane al mese, che equivale al numero di mesi all'anno. Sapendo che in POT ci sono 4096 ore all'anno, quante settimane ci sono in un mese?
+> Sul pianeta POT, il numero di ore al giorno è uguale al numero di giorni alla settimana, che è uguale al numero di settimane al mese, che è uguale al numero di mesi all'anno. Sapendo che su POT ci sono 4096 ore all'anno, quante settimane ci sono in un mese?
 >
 > - **(A)** 8
 > - **(B)** 12
@@ -833,4 +927,9 @@ Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
 > - **(D)** 128
 > - **(E)** 256
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n1_f1#q20|src_obm_2006_n1_f1__Q20]]

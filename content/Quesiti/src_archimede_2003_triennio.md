@@ -36,9 +36,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*type of inhabitant*
+*type of the inhabitant*
 
-> 35/2 32/3 =. . .
+> 35/2
+> 32/3 =. . .
 >
 > - **(A)** 1 3
 > - **(B)** 3
@@ -46,7 +47,10 @@ level: triennio
 > - **(D)** 311/6
 > - **(E)** 319/6.
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2003_triennio#q01|src_archimede_2003_triennio__Q01]]
 
 
 
@@ -78,9 +82,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*car letters from 2 to 4 letters, counting*
+*lettere automobilistiche da 2 a 4 lettere, conteggio*
 
-> What is the largest positive integer n such that the arithmetic mean of the numbers from 1 to n is < 2003 ? (Note: the arithmetic mean of n numbers is equal to their sum divided by n.)
+> What is the largest positive integer n such that the arithmetic mean of the numbers from 1 to n is < 2003?
+> (Note: the arithmetic mean of n numbers equals their sum divided by n.)
 >
 > - **(A)** 2002
 > - **(B)** 2003
@@ -88,7 +93,11 @@ level: triennio
 > - **(D)** 4004
 > - **(E)** 4005.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2003_triennio#q02|src_archimede_2003_triennio__Q02]]
 
 
 
@@ -119,17 +128,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real numbers x,y,z,t with product to square ratios*
+*Real numbers x, y, z, t with square and product relations*
 
-> It is given a triangle (not degenerate) whose sides have as lengths the three natural numbers a, b and c. Now, knowing that b and c are multiples of a, what can we say about the triangle?
+> Consider a non-degenerate triangle whose side lengths are the three natural numbers a, b and c. Given that b and c are multiples of a, what can we say about the triangle?
 >
-> - **(A)** It always has an integer as its area.
-> - **(B)** It always has a rational number as its area, but not necessarily an integer.
-> - **(C)** It's necessarily isocene.
-> - **(D)** It could be rectangular.
-> - **(E)** There are no such triangles.
+> - **(A)** its area is always an integer
+> - **(B)** its area is always a rational number, but not necessarily an integer
+> - **(C)** it is necessarily isosceles
+> - **(D)** it could be right-angled
+> - **(E)** no such triangles exist.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+[[Quesiti/src_archimede_2003_triennio#q03|src_archimede_2003_triennio__Q03]]
 
 
 
@@ -160,9 +172,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability that insertion of 1 to 15 agent sheets does not collide*
+*Probability that inserting from 1 to 15 non-colliding tiles*
 
-> There are nine balls in a day, three white, three red and three blue. Tullio is pulling three balls at once. What's the probability that I'll take out a white, red, and blue?
+> In an urn there are 9 balls, 3 white, 3 red and 3 blue. Tullio draws 3 balls at the same time. What is the probability that he draws one white, one red and one blue?
 >
 > - **(A)** 1 27
 > - **(B)** 1 9
@@ -170,7 +182,11 @@ level: triennio
 > - **(D)** 6 27
 > - **(E)** 3 14.
 
-**Answer:** B
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2003_triennio#q04|src_archimede_2003_triennio__Q04]]
 
 
 
@@ -202,17 +218,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*regular star, side value*
+*Average speed of a cyclist up and down a hill*
 
-> A cyclist goes up a climb with a constant v speed and then goes down the same road with a still constant speed but equal to three times the previous speed. The average speed in the whole round trip is. . .
+> A cyclist climbs a hill at a constant speed v and comes back down the same road at a speed that is still constant, but three times the previous one. The average speed over the whole trip there and back is . . .
 >
 > - **(A)** 3 4v
 > - **(B)** 4 3v
 > - **(C)** 3 2v
 > - **(D)** 2v
-> - **(E)** Depends on the length of the road.
+> - **(E)** it depends on the length of the road.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2003_triennio#q05|src_archimede_2003_triennio__Q05]]
 
 
 
@@ -240,15 +260,19 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following information is provided in the Annex to Implementing Regulation (EU) No 575/2013:
+*Which inequalities hold for every positive real x*
 
-> Which of the side inequalities are verified for every positive real value of x?
+> Which of the inequalities in the figure hold for every positive real value of x?
 >
-> - **(A)** All three
-> - **(B)** only (a) and (b)
-> - **(C)** only (b) and (c)
+> - **(A)** all three
+> - **(B)** only a) and b)
+> - **(C)** only b) and c)
 > - **(D)** only a)
 > - **(E)** only c). a) x2 + 1 x2 ≥2 b) x2 ≥2x −2 c) x4−2x3+x2 ≥0.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_archimede_2003_triennio#q07|src_archimede_2003_triennio__Q07]]
 
 
 
@@ -279,15 +303,19 @@ The following information is provided in the Annex to Implementing Regulation (E
 <div class="qlang-split" data-lang="en"></div>
 
 
-*parabola ratio, value*
+*Points still available in a motor-racing championship*
 
-> Michael, Juan Pablo and Kimi are competing in a motor racing championship. After 5 major prizes, Michael leads the standings with 43 points, followed by Juan Pablo with 42 points and Kimi with 40. In each of the 5 competitions, the first placed team earned 10 points, the second eight, the third seven, and from fourth place onwards no points were earned. Based on this information, can you tell who has placed second most times?
+> Michael, Juan Pablo and Kimi take part in a motor-racing championship. After 5 Grands Prix, Michael leads the standings with 43 points, followed by Juan Pablo with 42 points and Kimi with 40. In each of the 5 races held, first place scored 10 points, second place 8, third place 7, and from fourth place on no points were scored. From this information, can you say who finished second the greatest number of times?
 >
-> - **(A)** Michael , please .
-> - **(B)** Spanish language
-> - **(C)** What are you doing?
+> - **(A)** Michael
+> - **(B)** Juan Pablo
+> - **(C)** Kimi
 > - **(D)** Michael and Juan Pablo
 > - **(E)** Michael and Kimi.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2003_triennio#q08|src_archimede_2003_triennio__Q08]]
 
 
 
@@ -318,15 +346,20 @@ The following information is provided in the Annex to Implementing Regulation (E
 <div class="qlang-split" data-lang="en"></div>
 
 
-*equation of a circumference, value*
+*Equation of a circle, and a value*
 
-> A triangle has two vertices at the coordinate points (−4, 1) and (2, −1) and the third vertex at the coordinate point (1, k). For how many real values of k is this triangle isosceles?
+> A triangle has two vertices at the points with coordinates (−4, 1) and (2, −1), and the third vertex at the point with coordinates (1, k). For how many real values of k is this triangle isosceles?
 >
-> - **(A)** No one .
+> - **(A)** none
 > - **(B)** 1
 > - **(C)** 4
 > - **(D)** 5
-> - **(E)** infinite.
+> - **(E)** infinitely many.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+[[Quesiti/src_archimede_2003_triennio#q09|src_archimede_2003_triennio__Q09]]
 
 
 
@@ -358,15 +391,20 @@ The following information is provided in the Annex to Implementing Regulation (E
 <div class="qlang-split" data-lang="en"></div>
 
 
-The report shall contain the following information:
+*Shortest path of a spider over a triangular pyramid*
 
-> A spider wants to inspect the outer surface of a pyramid with a square base, whose lateral faces are equilateral triangles. Starting from the center of one side face, it wants to touch the centers of all the other side faces, following the shortest path possible. Knowing that a spike of the pyramid measures 2, find the total length of the path.
+> A spider wants to inspect the outer surface of a pyramid with a square base, whose lateral faces are equilateral triangles. Starting from the center of one lateral face, it wants to touch the centers of all the other lateral faces, along the shortest possible path. Given that an edge of the pyramid measures 2, find the total length of the path.
 >
 > - **(A)** 4
 > - **(B)** 2 √ 3
 > - **(C)** 3
 > - **(D)** 3 2 √ 2
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2003_triennio#q10|src_archimede_2003_triennio__Q10]]
 
 
 
@@ -399,15 +437,20 @@ The report shall contain the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inter D with f(D) sum of digits; demonstration of f(f(D))*
+*Toad paths of six jumps from A to B*
 
-> In a large pond the ninfa leaves are arranged in a grid, as shown in the figure next to it. The toads usually jump from a leaf to an adjacent leaf horizontally or vertically. A toad is in A and it spots an insect in B. To capture it, he completes a trajectory of 6 jumps (never passing twice on the same leaf) ending in B. How many different trajectories could he have completed?
+> In a large pond the lily pads are arranged in a grid, as in the figure. Toads usually move by jumps from one pad to an adjacent one, horizontally or vertically. A toad is at A and spots an insect at B. To catch it, the toad follows a path of 6 jumps (never landing on the same pad twice) that ends at B. How many different paths could it have taken?
 >
 > - **(A)** 24
 > - **(B)** 26
 > - **(C)** 28
 > - **(D)** 32
-> - **(E)** None of the previous ones.                          A B
+> - **(E)** none of the above.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2003_triennio#q11|src_archimede_2003_triennio__Q11]]
 
 
 
@@ -440,15 +483,20 @@ The report shall contain the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of integers divisible by 1 to 12 (totals)*
+*Recording an asteroid with a damaged radar*
 
-> A space station wants to record the passage of an asteroid, which moves in space in a uniform, straight-moving motion relative to it. Unfortunately, the station's radar is damaged, and it does not provide reliable distance measurements, while accurately measuring the angle under which the asteroid is seen. Some detections are carried out at regular intervals. What is the minimum number of detections needed to reconstruct the trajectory of the asteroid?
+> A space station wants to record the passage of an asteroid that moves through space in uniform rectilinear motion relative to the station. Unfortunately the station's radar is damaged, and it does not provide reliable measurements of the distance, while it accurately measures the angle at which the asteroid is seen. Several observations are taken at regular time intervals. What is the minimum number of observations needed to reconstruct the asteroid's trajectory?
 >
 > - **(A)** 2
 > - **(B)** 3
 > - **(C)** 4
 > - **(D)** a finite number greater than 4
-> - **(E)** No number of detections is enough.
+> - **(E)** no number of observations is sufficient.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+[[Quesiti/src_archimede_2003_triennio#q12|src_archimede_2003_triennio__Q12]]
 
 
 
@@ -489,15 +537,33 @@ The report shall contain the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*set of vertices*
+*Which statement follows from the equalities on the left*
 
-> Given the equations on the left, which of the statements on the right is true? (I) x3 −5x2 x2 = 3x −15 3 , (II) x −5 1/2 = 3x −15 3/2 , (III) x −5 2 = x −5 2
+> Given the equalities on the left, which of the statements on the right is true?
+> (I) x3 −5x2
+> x2
+> = 3x −15
+> 3
+> ,
+> (II) x −5
+> 1/2 = 3x −15
+> 3/2
+> ,
+> (III) x −5
+> 2
+> = x −5
+> 2
 >
 > - **(A)** (I), (II) and (III) are true for every real x
 > - **(B)** (I), (II) and (III) are false for every real x
-> - **(C)** For every real x, if (II) is true, so is (III)
-> - **(D)** For every real x, if (II) is true, so is (I)
-> - **(E)** For every real x, if (I) is true then (III) is false.
+> - **(C)** for every real x, if (II) is true, so is (III)
+> - **(D)** for every real x, if (II) is true, so is (I)
+> - **(E)** for every real x, if (I) is true then (III) is false.
+
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2003_triennio#q13|src_archimede_2003_triennio__Q13]]
 
 
 
@@ -535,15 +601,30 @@ The report shall contain the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*showing rationality/totals*
+*Value of a+b+c+d in a cubic identity*
 
-> If the identity is x −3 2 3 + x −1 2 3 + (x + 1) 3 + (x + 2) 3 = ax3 + bx2 + cx + d , how much is a + b + c + d ?
+> If the identity
+> 
+> x −3
+> 2
+> 3
+> +
+> 
+> x −1
+> 2
+> 3
+> + (x + 1)3 + (x + 2)3 = ax3 + bx2 + cx + d ,
+> holds, what is the value of a + b + c + d?
 >
 > - **(A)** 57 4
 > - **(B)** 9
 > - **(C)** 289 8
 > - **(D)** 35
-> - **(E)** None of the above values.
+> - **(E)** none of the previous values.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_archimede_2003_triennio#q15|src_archimede_2003_triennio__Q15]]
 
 
 
@@ -573,15 +654,20 @@ The report shall contain the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*to demonstrate the geometric conditions*
+*Area of the union of two squares rotated by 45 degrees*
 
-> Determine the area of the polygon obtained as a union of two squares both having sides of length 1, having the same centre and rotating 45° with respect to each other.
+> Determine the area of the polygon obtained as the union of two squares, each of side length 1, with the same centre and rotated by 45° relative to each other.
 >
 > - **(A)** 4 −2 √ 2
 > - **(B)** 9 8
 > - **(C)** 2 − √ 3 2
 > - **(D)** 5 4
-> - **(E)** The previous answers are wrong.
+> - **(E)** the previous answers are wrong.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2003_triennio#q16|src_archimede_2003_triennio__Q16]]
 
 
 
@@ -624,27 +710,24 @@ The report shall contain the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-degenerate triangles with vertices at nine points*
+*Non-degenerate triangles on nine points arranged in a square*
 
 ![[src_archimede_2003_triennio__prob17.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \foreach \x in {0,1,2}
-    \foreach \y in {0,1,2}
-      \fill (\x,\y) circle (2.5pt);
-\end{tikzpicture}
-\end{document}
-```
-
-> They are given 9 points arranged in square as shown in the figure next to it. How many possible non-degenerate triangles have their vertices at three of the data points?
+> Nine points are arranged in a square, as in the figure alongside. How many non-degenerate triangles have their vertices at three of the given points?
 >
 > - **(A)** 27
 > - **(B)** 56
 > - **(C)** 60
 > - **(D)** 76
-> - **(E)** 84.       
+> - **(E)** 84.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2003_triennio#q17|src_archimede_2003_triennio__Q17]]
 
 
 
@@ -676,15 +759,21 @@ The report shall contain the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total cards with divisibility conditions*
+*Total postcards from divisibility conditions*
 
-> Anna and Marco have a collection of more than 40, but less than 80, postcards. Anna notes that the number of cards minus 3 is a multiple of 8. Instead, Mark notes that the number of cards minus 1 is a multiple of 5. How many cards do Anna and Mark have in total?
+> Anna and Marco have a collection of more than 40, but less than 80, postcards. Anna notes that the number of postcards minus 3 is a multiple of 8. Marco, on the other hand, notes that the number of postcards minus 1 is a multiple of 5. How many postcards do Anna and Marco have in total?
 >
-> - **(A)** Between 40 and 49
+> - **(A)** between 40 and 49
 > - **(B)** between 50 and 59
 > - **(C)** between 60 and 69
-> - **(D)** Between 70 and 79
-> - **(E)** It's impossible. They counted wrong.
+> - **(D)** between 70 and 79
+> - **(E)** it is impossible: they miscounted.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2003_triennio#q19|src_archimede_2003_triennio__Q19]]
 
 
 
@@ -718,15 +807,26 @@ The report shall contain the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reciprocal sum of the roots of a polynomial of degree 4*
+*Sum of the reciprocals of the roots of a degree-4 polynomial*
 
-> The polynomial x4 −2x3 −7x2 −2x + 1 has four real roots a, b, c, d. How much is 1 a + 1 b + 1 c + 1 d?
+> The polynomial x4 −2x3 −7x2 −2x + 1 has four real roots a, b, c, d. What is the value of
+> 1
+> a + 1
+> b + 1
+> c + 1
+> d?
 >
 > - **(A)** −2
 > - **(B)** 0
 > - **(C)** −1
 > - **(D)** 2
-> - **(E)** None of the above values.
+> - **(E)** none of the previous values.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2003_triennio#q20|src_archimede_2003_triennio__Q20]]
 
 
 
@@ -756,15 +856,21 @@ The report shall contain the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sub-sets of {1.2003} with the sum of the elements given*
+*Subsets of {1..2003} with a given element sum*
 
-> Consider the sum of {1, 2, . . ., 2003}. How many of its subset B are such that the sum of the elements of B is equal to 2 007 000?
+> Consider the set {1, 2, . . ., 2003}. How many of its subsets B are such that the sum of the elements of B equals 2 007 000?
 >
-> - **(A)** There are none.
+> - **(A)** there are none
 > - **(B)** 3
 > - **(C)** 4
 > - **(D)** 1002
 > - **(E)** 2003.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2003_triennio#q22|src_archimede_2003_triennio__Q22]]
 
 
 
@@ -799,15 +905,20 @@ The report shall contain the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-Size of region deleted 14 minutes ago from virus
+*Size of the region erased 14 minutes ago by the virus*
 
-> Enrico's powerful computer was recently infected with a virus that wipes out all memory a little at a time. Every minute that passes, the deleted region is quadrupled, and further increased by 1 byte. Enrico freezes the computer when the situation is compromised: he calculates that not only will the virus have corrupted all memory in a minute, but it would be enough to triple the deleted region and add 1 byte to exactly exhaust the computer's memory, which amounts to 2.5 Gb = 2.5 · 230 bytes. How big was the region deleted 14 minutes ago?
+> Enrico's powerful computer has just been infected by a virus that erases a little at a time all the memory. Every minute that passes, the erased region is quadrupled, and further increased by 1 byte. Enrico freezes the computer when the situation is already compromised: he calculates that not only in one minute the virus will have corrupted all the memory, but in fact it would already be enough to triple the erased region and add 1 byte to exactly exhaust the computer's memory, which amounts to 2.5 Gb = 2.5 · 230 bytes. How large was the erased region 14 minutes ago?
 >
 > - **(A)** 1 byte
-> - **(B)** 2 bytes
-> - **(C)** 3 bytes
-> - **(D)** 4 bytes
-> - **(E)** 16 bytes.
+> - **(B)** 2 byte
+> - **(C)** 3 byte
+> - **(D)** 4 byte
+> - **(E)** 16 byte.
+
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2003_triennio#q24|src_archimede_2003_triennio__Q24]]
 
 
 
@@ -841,12 +952,18 @@ Size of region deleted 14 minutes ago from virus
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of pyramid with orthogonal heights on the VA shaft*
+*Pyramid volume from orthogonal heights on edge VA*
 
-> On the ABC triangle a pyramid of V vertices and ABC base is built. P is a point on the V-axis such that BP and CP are orthogonal to each other and are heights of the BAV and CAV triangles respectively . Knowing that P divides V A into two segments of length 1 cm and 2 cm and that BP and CP heights are 3 cm and 4 cm respectively, determine the volume (in cm3) of the pyramid.
+> On triangle ABC a pyramid is built with vertex V and base ABC. P is a point on the edge VA such that BP and CP are orthogonal to each other and are respectively the altitudes of triangles BAV and CAV. Given that P divides VA into two segments of lengths 1 cm and 2 cm, and that the altitudes BP and CP are 3 cm and 4 cm long respectively, determine the volume (in cm³) of the pyramid.
 >
-> - **(A)** Data are not sufficient to calculate volume
+> - **(A)** the data are not sufficient to calculate the volume
 > - **(B)** 6
 > - **(C)** 9
 > - **(D)** 12
-> - **(E)** There's no such pyramid.
+> - **(E)** no such pyramid exists.
+
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2003_triennio#q25|src_archimede_2003_triennio__Q25]]

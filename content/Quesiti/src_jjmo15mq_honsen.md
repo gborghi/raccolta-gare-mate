@@ -29,9 +29,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le persone in sedie circolari si muovono ogni passo non più di un passo; massimizzare il numero totale di passi*
+*Le persone sulle sedie circolari si muovono ciascuna di al massimo 1 passo; massimizza il numero totale di passi*
 
-> $n$ sia un numero intero positivo. Le sedie $n$ sono posizionate a intervalli uguali intorno a un tavolo circolare, con una persona seduta in ciascuna sedia. Ciascuna persona può spostarsi su una sedia adiacente (movendosi $0$ o $1$ in entrambe le direzioni lungo il cerchio), in modo che dopo tutti i movimenti ogni sedia sia occupata da esattamente una persona. Si noti che una persona che rimane nella sua sedia originale conta come aver spostato i passi $0$ e la lunghezza di ogni movimento è al massimo $1$. $S$ indichi il numero totale di passi (suma delle singole mosse) percorsi da tutte le persone $n$. Trova il valore massimo possibile di $S$.
+> Sia $n$ un numero intero positivo. $n$ sedie sono disposte a intervalli uguali attorno a un tavolo circolare, con una persona seduta su ciascuna sedia. Ogni persona può spostarsi su una sedia adiacente (spostandosi di $0$ o $1$ sedie in entrambe le direzioni lungo il cerchio), in modo che, dopo tutti gli spostamenti, ogni sedia sia occupata da esattamente una persona. Si noti che una persona che rimane sulla propria sedia originale conta come se avesse compiuto uno spostamento di $0$ passi, e la lunghezza di ciascuno spostamento è al più $1$. Sia $S$ il numero totale di passi (somma degli spostamenti individuali) percorsi da tutte le $n$ persone. Determinare il valore massimo possibile di $S$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo15mq_honsen#q01|src_jjmo15mq_honsen__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integrazioni su tavolo nero chiuse in coppie; trovare valore massimo espressibile come somma di due*
+*Interi sulla lavagna chiusi rispetto alle somme a coppie; trovare il valore massimo esprimibile come somma di due*
 
-> Diversi numeri interi distinti non negativi sono scritti su una lavagna, e la somma di due numeri distinti sulla lavagna appare anche sulla lavagna. Tra tutti i numeri della lavagna, $n$ è il valore più grande che può essere espresso come la somma di due numeri distinti sulla lavagna. Trova il valore massimo possibile di $n$, dato che $n$ è un intero non negativo che non può essere espresso nella forma $2^k$ per qualsiasi intero non negativo $k$.
+> Sulla lavagna sono scritti diversi interi non negativi distinti, e la somma di due numeri distinti qualsiasi presenti sulla lavagna compare anch'essa sulla lavagna. Tra tutti i numeri sulla lavagna, sia $n$ il valore massimo che può essere espresso come somma di due numeri distinti presenti sulla lavagna. Determinare il valore massimo possibile di $n$, sapendo che $n$ è un intero non negativo che non può essere espresso nella forma $2^k$ per alcun intero non negativo $k$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo15mq_honsen#q02|src_jjmo15mq_honsen__Q02]]
 
 
 
@@ -81,9 +95,18 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nomeri reali sulle vertici di (2n+1)-gon regolare; somme adiacenti non negative; prova nS+(n+1)T≥0*
+*Numeri reali sui vertici di un poligono regolare a (2n+1) lati; le somme di elementi adiacenti sono non negative; dimostrare che nS+(n+1)T≥0*
 
-> $n$ sia un numero intero positivo. I numeri reali sono assegnati a ciascun vertice di un gono regolare $(2n+1)$ in modo tale che la somma dei numeri assegnati a due vertici adiacenti non sia negativa. $S$ sia la somma di tutti i valori positivi tra i numeri assegnati $2n+1$, e $T$ sia la somma di tutti i valori negativi. Prove che $$nS + (n+1)T \ge 0.$$ Nota: quando non esiste un valore positivo tra i numeri assegnati, imposta $S = 0$; quando non esiste un valore negativo, imposta $T = 0$.
+> Sia $n$ un numero intero positivo. A ciascun vertice di un $(2n+1)$-gono regolare vengono assegnati numeri reali in modo tale che la somma dei numeri assegnati a due vertici qualsiasi adiacenti sia non negativa. Sia $S$ la somma di tutti i valori positivi tra i $2n+1$ numeri assegnati, e sia $T$ la somma di tutti i valori negativi. Dimostrare che
+> $$nS + (n+1)T \ge 0.$$
+> Nota: quando tra i numeri assegnati non esiste alcun valore positivo, si ponga $S = 0$; quando non esiste alcun valore negativo, si ponga $T = 0$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo15mq_honsen#q03|src_jjmo15mq_honsen__Q03]]
 
 
 
@@ -106,9 +129,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due curve non intersezionate in piano xy; 5 punti scelti; ridurre al minimo la superficie rettaangulare massima allineata all'asse*
+*Due curve non incidenti nel piano xy; 5 punti scelti; minimizzare l'area massima del rettangolo allineato agli assi*
 
-> Nel piano $xy$ ci sono due curve $y = f(x)$ e $y = g(x)$ che non si incrociano, e per qualsiasi punto di una curva la coordinata $y$ è almeno $1$. Tra i punti $5$ selezionati su queste due curve (con almeno $2$ punti su ciascuna curva), si considerano tutti i rettangoli allineati all'asse i cui lati sono paralleli agli assi delle coordinate e i cui angoli opposti sono due dei punti scelti che si trovano su curve diverse; ciascun rettangolo ha superficie almeno $1$. Il $M$ è la superficie massima di tali rettangoli su tutte le scelte dei punti $5$. Trova il valore minimo possibile di $M$.
+> Nel piano $xy$, ci sono due curve $y = f(x)$ e $y = g(x)$ che non si intersecano, e per ogni punto appartenente a una delle due curve la coordinata $y$ è almeno $1$. Tra qualsiasi insieme di $5$ punti scelti su queste due curve (con almeno $2$ punti su ciascuna curva), si considerino tutti i rettangoli allineati agli assi, i cui lati sono paralleli agli assi coordinati e i cui vertici opposti sono due dei punti scelti che giacciono su curve diverse; ciascuno di tali rettangoli ha area almeno $1$. Sia $M$ il massimo area di tali rettangoli su tutte le scelte dei $5$ punti. Si determini il valore minimo possibile di $M$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_jjmo15mq_honsen#q04|src_jjmo15mq_honsen__Q04]]
 
 
 
@@ -131,6 +161,13 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto con centro ortografico; quattro intersezioni di circoncircolo-altitudine sono concicliche*
+*Triangolo acuto con ortocentro; i quattro punti di intersezione tra la circonferenza circoscritta e le altezze sono concyclici*
 
-> Il $ABC$ deve essere un triangolo acuto con il centro orto $H$. I piedi $D$, $E$ e $F$ siano rispettivamente i piedi delle altitudini dai vertici $A$, $B$ e $C$. Il $P$ è la seconda intersezione del circoncircolo del triangolo $ACD$ con il segmento $CF$ (diverso da $C$), e il $Q$ è la seconda intersezione del circoncircolo del triangolo $ABD$ con il segmento $CF$ (diverso dal vertice di $CF$). Inoltre, $S$ sia la seconda intersezione del circoncircolo del triangolo $ABH$ con il segmento $DE$, e $T$ sia la seconda intersezione del circoncircolo del triangolo $ACH$ con il segmento $DE$. Dimostrare che i quattro punti $P$, $Q$, $S$ e $T$ sono conciclici.
+> Sia $ABC$ un triangolo acuto con ortocentro $H$. Siano $D$, $E$, $F$ i piedi delle altezze condotte dai vertici $A$, $B$, $C$ rispettivamente. Sia $P$ il secondo punto d'incontro della circonferenza circoscritta al triangolo $ACD$ con il segmento $CF$ (diverso da $C$), e sia $Q$ il secondo punto d'incontro della circonferenza circoscritta al triangolo $ABD$ con il segmento $CF$ (diverso dal vertice situato su $CF$). Inoltre, sia $S$ il secondo punto d'incontro della circonferenza circoscritta al triangolo $ABH$ con il segmento $DE$, e sia $T$ il secondo punto d'incontro della circonferenza circoscritta al triangolo $ACH$ con il segmento $DE$. Dimostrare che i quattro punti $P$, $Q$, $S$, $T$ sono concyclici.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo15mq_honsen#q05|src_jjmo15mq_honsen__Q05]]

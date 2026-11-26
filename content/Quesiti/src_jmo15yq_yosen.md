@@ -30,11 +30,18 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi a due cifre con il resto 2 mod 3 e il resto 3 mod 5*
+*Interi di due cifre con resto 2 modulo 3 e resto 3 modulo 5*
 
-> Quanti numeri interi positivi a due cifre lasciano un residuo di $2$ diviso per $3$ e un residuo di $3$ diviso per $5$?
+> Quanti interi positivi di due cifre lasciano resto $2$ nella divisione per $3$ e resto $3$ nella divisione per $5$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
 **Risposta:** 6
+
+[[Quesiti/src_jmo15yq_yosen#q01|src_jmo15yq_yosen__Q01]]
 
 
 
@@ -58,11 +65,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Distanza minima dalla linea 4x+3y=1 a un punto della rete non sulla linea*
+*Distanza minima dalla retta 4x+3y=1 a un punto della rete non appartenente alla retta*
 
-> Considera la riga $4x + 3y = 1$. Tra tutte le distanze possibili da un punto su questa linea a un punto della rete (un punto con entrambe le coordinate integri) che non si trova sulla linea, trova il valore minimo. Qui un punto reticolo è un punto le cui coordinate $x$- e $y$ sono entrambe enti.
+> Si consideri la retta $4x + 3y = 1$. Tra tutte le distanze possibili da un punto di questa retta a un punto della rete (un punto le cui due coordinate sono numeri interi) che non giace sulla retta, si determini il valore minimo. Qui, un punto della rete è un punto le cui coordinate $x$ e $y$ sono entrambe intere.
 
-**Risposta:** \frac{1}{5}
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jmo15yq_yosen#q02|src_jmo15yq_yosen__Q02]]
 
 
 
@@ -86,11 +98,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il valore di un angolo di massimizzazione APB con punto medio B di OA sul triangolo rettangolo*
+*Trovare l'angolo APB che massimizza il valore, con B punto medio di OA in un triangolo rettangolo*
 
-> Lasciamo $OA = 2$ e $\angle AOP = 90^\circ$, quindi il triangolo $AOP$ è un triangolo rettangolo con l'angolo giusto a $O$. Il punto medio del lato $OA$ è $B$. Let $OP = a$. Trova il valore di $a$ che massimizza $\angle APB$.
+> Sia $OA = 2$ e sia $\angle AOP = 90^\circ$, quindi il triangolo $AOP$ è un triangolo rettangolo con l'angolo retto in $O$. Sia $B$ il punto medio del lato $OA$. Sia $OP = a$. Determinare il valore di $a$ che massimizza $\angle APB$.
 
-**Risposta:** \sqrt{2}
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jmo15yq_yosen#q03|src_jmo15yq_yosen__Q03]]
 
 
 
@@ -114,11 +131,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Probabilità somma cumulativa di dadi equivale esattamente a 6 a un certo punto all'interno di 6 rulli*
+*Probabilità che la somma cumulativa dei dadi sia esattamente 6 in un qualche momento entro 6 lanci*
 
-> Un dado equo (con facce numerate da $1$ a $6$) viene laminato ripetutamente. Qual è la probabilità che, ad un certo punto fino al 6° rollo e incluso, il totale di tutti i risultati corrispondenti sia esattamente $6$?
+> Si lancia ripetutamente un dado equo (le cui facce sono numerate da $1$ a $6$). Qual è la probabilità che, in qualche momento fino al sesto lancio incluso, la somma cumulativa di tutti i risultati sia esattamente $6$?
 
-**Risposta:** \frac{1}{3}
+**Topic:** [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jmo15yq_yosen#q04|src_jmo15yq_yosen__Q04]]
 
 
 
@@ -142,11 +164,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare triples non ordinati di numeri interi positivi distinti con prodotto pari a 12 volte la somma*
+*Conta le terne non ordinate di interi positivi distinti il cui prodotto è uguale a 12 volte la loro somma*
 
-> Quanti triples non ordinati di integri positivi reciprocamente distinti $\{a, b, c\}$ soddisfano $abc = 12(a + b + c)$? Qui, i triples che differiscono solo nell'ordine (come $\{3, 6, 18\}$ e $\{6, 3, 18\}$) vengono contati come lo stesso triplo.
+> Quanti triple non ordinate di interi positivi mutuamente distinti $\{a, b, c\}$ soddisfano $abc = 12(a + b + c)$? Qui, le triple che differiscono solo per l'ordine (come $\{3, 6, 18\}$ e $\{6, 3, 18\}$) sono considerate la stessa triple.
 
-**Risposta:** 4
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jmo15yq_yosen#q05|src_jmo15yq_yosen__Q05]]
 
 
 
@@ -170,11 +197,18 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di 2^a + 4^b per a,b reale con a+b=17*
+*Il minimo di 2^a + 4^b se a + b = 17*
 
 > Per i numeri reali $a, b$ che soddisfano $a + b = 17$, trovare il valore minimo di $2^a + 4^b$.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
 **Risposta:** 2^{35/3}
+
+[[Quesiti/src_jmo15yq_yosen#q06|src_jmo15yq_yosen__Q06]]
 
 
 
@@ -198,11 +232,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri interi positivi n<50 espressi come a^2-b^2 con a,b>=1 numeri interi*
+*Conta gli interi positivi n<50 esprimibili come a^2-b^2, con a,b interi ≥1*
 
-> Quanti integri positivi $n$ inferiori a $50$ soddisfano la seguente condizione: esistono integri $a \ge 1$ e $b \ge 1$ tali da $a^2 - b^2 = n$?
+> Quanti numeri interi positivi $n$ minori di $50$ soddisfano la seguente condizione: esistono numeri interi $a \ge 1$ e $b \ge 1$ tali che $a^2 - b^2 = n$?
 
-**Risposta:** 33
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jmo15yq_yosen#q07|src_jmo15yq_yosen__Q07]]
 
 
 
@@ -225,9 +264,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i sedili validi di 7 persone a tavola circolare dove nessuno siede accanto alla sedia assegnata da un altro*
+*Conta le disposizioni valide dei posti per 7 persone attorno a un tavolo circolare, in cui nessuno siede accanto alla sedia assegnata a un altro*
 
-> Le persone $7$ sono sedute una per sedia a un tavolo circolare con sedie $7$. Ogni persona ha la propria sedia assegnata. Tuttavia, mentre ci sono ancora sedie non occupate, nessuna persona può sedersi in una sedia adiacente alla sedia di un'altra persona. (Le persone che non sono state ancora sedute possono sedersi solo se non è occupata una sedia adiacente.)
+> $7$ persone sono sedute una per sedia attorno a un tavolo circolare con $7$ sedie. Ogni persona ha la propria sedia assegnata. Tuttavia, finché ci sono ancora sedie vuote, nessuna persona può sedersi in una sedia adiacente alla sedia di qualsiasi altra persona. (Le persone che non sono ancora state fatte sedere possono sedersi solo se nessuna sedia adiacente è occupata.) Determina il numero degli ordini possibili in cui tutte le $7$ persone possono essere fatte sedere.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jmo15yq_yosen#q08|src_jmo15yq_yosen__Q08]]
 
 
 
@@ -251,11 +297,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca un PAC ad angolo con punto P all'interno di un pentagono regolare che soddisfa determinate condizioni di angolo*
+*Trovare l'angolo PAC con il punto P all'interno di un pentagono regolare che soddisfa le condizioni angolari date*
 
-> $P$ deve essere un punto all'interno di un pentagono regolare $ABCDE$ tale che $\angle ABP = 6^\circ$ e $\angle AEP = 12^\circ$. Trova la misura di $\angle PAC$.
+> Sia $P$ un punto all'interno di un pentagono regolare $ABCDE$ tale che $\angle ABP = 6^\circ$ e $\angle AEP = 12^\circ$. Determinare la misura di $\angle PAC$.
 
-**Risposta:** 24^\circ
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jmo15yq_yosen#q09|src_jmo15yq_yosen__Q09]]
 
 
 
@@ -278,9 +329,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triples ordinati di numeri a 3 cifre che sommano al 2005 con somma massima di cifre*
+*Conta le terne ordinate di numeri di tre cifre la cui somma è 2005 e che hanno la somma delle cifre massima*
 
-> Per un intero positivo $n$, $S(n)$ indica la somma delle cifre di $n$. Ad esempio, $S(611) = 6 + 1 + 1 = 8$. $a, b, c$ siano numeri interi positivi a tre cifre che soddisfino $a + b + c = 2005$. $M$ è il valore massimo possibile di $S(a) + S(b) + S(c)$. Quanti triples $(a, b, c)$ ordinati raggiungono $S(a) + S(b) + S(c) = M$? (I triples che differiscono nell'ordine di $a, b, c$ sono contati come distinti.)
+> Sia $n$ un numero intero positivo; indichiamo con $S(n)$ la somma delle cifre di $n$. Ad esempio, $S(611) = 6 + 1 + 1 = 8$. Sia $a, b, c$ l'insieme dei numeri interi positivi di tre cifre che soddisfano $a + b + c = 2005$. Sia $M$ il valore massimo possibile di $S(a) + S(b) + S(c)$. Quante triple ordinate $(a, b, c)$ realizzano $S(a) + S(b) + S(c) = M$? (Le triple che differiscono nell'ordine di $a, b, c$ sono considerate distinte.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jmo15yq_yosen#q10|src_jmo15yq_yosen__Q10]]
 
 
 
@@ -303,15 +361,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coseno minimo dell'angolo QPR al variare del punto di divisione k nel triangolo ABC*
+*Valore minimo di cos(angolo QPR) per un punto di divisione k variabile nel triangolo ABC*
 
-> In un triangolo $ABC$ con lati $BC = 12$, $CA = 11$, $AB = 5$, sia $k$ un numero reale tale che $0 < k < 1$. Si definiscano i seguenti sei punti:
->
-> - Sul lato $BC$: sia $P_1$ il punto che divide $BC$ nel rapporto $k : (1-k)$ a partire da $B$, e sia $P_2$ il punto che divide $BC$ nel rapporto $(1-k) : k$ a partire da $B$.
-> - Sul lato $CA$: sia $Q_1$ il punto che divide $CA$ nel rapporto $6 : 1$ a partire da $C$, e sia $Q_2$ il punto che divide $CA$ nel rapporto $1 : 6$ a partire da $C$.
-> - Sul lato $AB$: sia $R_1$ il punto che divide $AB$ nel rapporto $2 : 5$ a partire da $A$, e sia $R_2$ il punto che divide $AB$ nel rapporto $5 : 2$ a partire da $A$.
->
-> Quando esiste un triangolo $PQR$ con lati $Q = Q_1$, $R = R_1$, $P = P_2$; $QR = Q_1 R_0$, $RP = R_1 P_2$, $PQ = P_1 Q_2$ (cioè i lati del triangolo $PQR$ sono uguali a $|Q_1 R_0|$, $|R_1 P_2|$, $|P_1 Q_2|$ per opportuni valori di $k$), determinare il valore minimo di $\cos \angle QPR$.
+> Nel triangolo $ABC$ con $BC = 12$, $CA = 11$, $AB = 5$, sia $k$ un numero reale tale che $0 < k < 1$. Si definiscano i seguenti sei punti:  - Sul lato $BC$: sia $P_1$ il punto che divide $BC$ nel rapporto $k : (1-k)$ a partire da $B$, e sia $P_2$ il punto che divide $BC$ nel rapporto $(1-k) : k$ a partire da $B$. - Sul lato $CA$: sia $Q_1$ il punto che divide $CA$ nel rapporto $6 : 1$ a partire da $C$, e sia $Q_2$ il punto che divide $CA$ nel rapporto $1 : 6$ a partire da $C$. - Sul lato $AB$: sia $R_1$ il punto che divide $AB$ nel rapporto $2 : 5$ a partire da $A$, e sia $R_2$ il punto che divide $AB$ nel rapporto $5 : 2$ a partire da $A$.  Quando esiste un triangolo $PQR$ con $Q = Q_1$, $R = R_1$, $P = P_2$; $QR = Q_1 R_0$, $RP = R_1 P_2$, $PQ = P_1 Q_2$ (ossia, i lati del triangolo $PQR$ misurano $|Q_1 R_0|$, $|R_1 P_2|$, $|P_1 Q_2|$ al variare di $k$), si determini il valore minimo di $\cos \angle QPR$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jmo15yq_yosen#q11|src_jmo15yq_yosen__Q11]]
 
 
 
@@ -335,8 +394,12 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il numero massimo di modi per distruggere ponti in modo che tutte le isole abbiano un grado pari
+*Numero massimo di modi di togliere ponti lasciando ogni isola di grado pari*
 
-> Ci sono isole $80$ e ponti $2005$. Ogni coppia di isole è collegata da un ponte al massimo, e alcune coppie potrebbero non avere un ponte. Da qualsiasi isola, è possibile raggiungere qualsiasi altra isola attraversando una sequenza di ponti (cioè il grafico è collegato). Desideriamo distruggere alcuni dei ponti$2005$così che dopo la distruzione, ogni isola abbia un numero pari di ponti rimasti. (La distruzione di ponti $0$ è consentita; dopo la distruzione il grafico non deve rimanere connesso; e dopo la distruzione, è anche accettabile se un'isola diventa irraggiungibile da un'altra). Su tutti i grafici collegati su vertici $80$ con bordi $2005$, trovare il numero massimo di modi per scegliere quali ponti distruggere.
+> Ci sono $80$ isole e $2005$ ponti. Ogni coppia di isole è unita da al più un ponte, e qualche coppia può non averne. Da qualunque isola si può raggiungere qualunque altra attraversando una sequenza di ponti (il grafo è connesso). Si vogliono distruggerne alcuni, tra i $2005$ ponti, in modo che dopo la distruzione ogni isola resti con un numero pari di ponti. (È ammesso distruggerne $0$; dopo la distruzione il grafo non deve restare connesso; ed è accettabile che qualche isola diventi irraggiungibile da un'altra.) Per ogni isola il numero di ponti rimasti deve essere pari (eventualmente zero). Tra tutti i grafi connessi su $80$ vertici e $2005$ spigoli, trovare il numero massimo di modi di scegliere quali ponti distruggere.
 
-**Risposta:** 2^{1926}
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Risposta:** $2^{1926}$
+[[Quesiti/src_jmo15yq_yosen#q12|src_jmo15yq_yosen__Q12]]

@@ -37,9 +37,24 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizione di mod quadratico soddisfacente su determinati punti*
+*Se $|f|$ vale al più 1 nei punti $x_i$, allora $|f| \le 5/4$ su $[-1,1]$*
 
-> $x_1, x_2, \ldots, x_k$ vengono dati punti dell'intervallo $[-1,1]$ in modo tale che $$x_1 = -1, \quad x_k = 1, \quad 0 < x_i - x_{i-1} \le \frac{1}{2} \quad (2 \le i \le k).$$ La funzione quadrata $f$ della forma $$f(x) = ax^2 + bx + c,$$ in cui $a, b, c$ sono costanti reali soddisfa la condizione $$|f(x_i)| \le 1 \quad (1 \le i \le k).$$ Prove che $$|f(x)| \le \frac{5}{4}$$ per tutti $x$ in $[-1,1]$. Mostra con un esempio che questa proposizione diventa falsa se $\frac{1}{2}$ viene sostituita da un numero più piccolo.
+> $x_1, x_2, \ldots, x_k$ sono punti dati dell'intervallo $[-1,1]$ tali che
+> $$x_1 = -1, \quad x_k = 1, \quad 0 < x_i - x_{i-1} \le \frac{1}{2} \quad (2 \le i \le k).$$
+> La funzione quadratica $f$ della forma
+> $$f(x) = ax^2 + bx + c,$$
+> dove $a, b, c$ sono costanti reali, soddisfa la condizione
+> $$|f(x_i)| \le 1 \quad (1 \le i \le k).$$
+> Dimostrare che
+> $$|f(x)| \le \frac{5}{4}$$
+> per ogni $x$ in $[-1,1]$. Mostrare con un esempio che la proposizione diventa falsa se $\frac{1}{2}$ è sostituito da un numero più piccolo.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1977#q01|src_bmo2_1977__Q01]]
 
 
 
@@ -62,9 +77,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circoli incisi delle facce triangolari della base toccante della piramide*
+*I punti di contatto delle circonferenze inscritte con la base stanno su una circonferenza*
 
-> Una piramide si forma unendo le vertici di un quadrilaterale piano $ABCD$, la "base", a un punto $V$ al di fuori del suo piano. Si scopre che i cerchi incisi di ciascun paio di facce triangolari adiacenti si toccano. Prove che i punti di contatto dei cerchi incisi con la base della piramide si trovano su un cerchio.
+> Una piramide si ottiene congiungendo i vertici di un quadrilatero piano $ABCD$, la «base», a un punto $V$ fuori dal suo piano. Si trova che le circonferenze inscritte di ogni coppia di facce triangolari adiacenti sono tangenti fra loro. Dimostrare che i punti di contatto delle circonferenze inscritte con la base della piramide stanno su una circonferenza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1977#q02|src_bmo2_1977__Q02]]
 
 
 
@@ -93,11 +115,22 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Soluzioni integrali dell'equazione diofantina o della progressione aritmetica*
+*O l'equazione $10x + 17y + 27z = n$ ha sempre una soluzione, oppure infiniti termini con gli stessi divisori primi*
 
-> EITHER (a) Prova che se $n$ è un dato numero intero, allora l'equazione $$10x + 17y + 27z = n$$ ha una soluzione in numeri interi $x, y, z$.
-> 
-> O (b) Prova che nella progressione aritmetica $$a, \quad a+d, \quad a+2d, \quad \ldots, \quad a+nd, \quad \ldots,$$ dove $a, d$ sono interi positivi, esiste un insieme infinito di termini con gli stessi divisori primi.
+> OPPURE (a) Dimostrare che, se $n$ è un intero dato qualunque, l'equazione
+> $$10x + 17y + 27z = n$$
+> ha una soluzione in interi $x, y, z$.
+>
+> OPPURE (b) Dimostrare che nella progressione aritmetica
+> $$a, \quad a+d, \quad a+2d, \quad \ldots, \quad a+nd, \quad \ldots,$$
+> dove $a, d$ sono interi positivi, esiste un insieme infinito di termini che hanno gli stessi divisori primi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1977#q03|src_bmo2_1977__Q03]]
 
 
 
@@ -120,6 +153,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nellace con coralle adiacenti di diversi colori possibile costruzione*
+*Una collana con $2n!$ perline di $n$ colori, e se bastano $2^{n-1}$ perline*
 
-> Prove che per ogni numero intero $n > 1$ è possibile costruire un collare con perle $2n!$ in tutto, queste perle in $n$ di colori diversi, in modo tale che per ogni coppia di colori diversi ci sia almeno un paio di perle adiacenti di questi due colori. È possibile fare lo stesso utilizzando perle $2^{n-1}$ in tutto? Datemi una ragione per la vostra risposta. (Un "colletto" è un'impostazione circolare di perle, senza alcun attaccamento; si presume che sia disponibile un ampio approvvigionamento di perle di tutti i colori.)
+> Dimostrare che per ogni intero $n > 1$ è possibile costruire una collana con $2n!$ perline in tutto, queste perline in $n$ colori diversi, in modo che per ogni coppia di colori diversi ci sia almeno una coppia di perline adiacenti di quei due colori. È possibile fare lo stesso usando $2^{n-1}$ perline in tutto? Motivare la risposta. (Una «collana» è una disposizione circolare di perline, senza fermaglio interposto; si assume disponibile una scorta ampia di perline di tutti i colori.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1977#q04|src_bmo2_1977__Q04]]

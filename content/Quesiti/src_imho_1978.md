@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutti gli interi positivi m,n tali che 78^m e 78^n abbiano le stesse ultime tre cifre.*
+*Trovare m, n tali che 78^m e 78^n abbiano le ultime tre cifre uguali*
 
-> Siano $m$ e $n$ numeri naturali con $1 \le m < n$. Nelle rispettive rappresentazioni decimali, le ultime tre cifre di $1978^m$ sono uguali, rispettivamente, alle ultime tre cifre di $1978^n$. Determinare $m$ e $n$ in modo che $m + n$ assuma il suo valore minimo.
+> $m$ e $n$ sono numeri naturali con $1 \le m < n$. Nelle loro rappresentazioni decimali, le ultime tre cifre di $1978^m$ sono rispettivamente uguali alle ultime tre cifre di $1978^n$. Determinare $m$ e $n$ in modo che $m + n$ assuma il suo valore minimo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1978#q01|src_imho_1978__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre raggi mutuamente perpendicolari da un punto P sulla sfera*
+*Tre raggi mutuamente perpendicolari uscenti dal punto P su una sfera*
 
-> Sia $P$ un punto fisso su una sfera. Tre raggi mutuamente perpendicolari uscenti da $P$ intersecano la sfera nei punti $U$, $V$, $W$. Si dimostri che per tutte tali terne di raggi, il piano del triangolo $UVW$ passa per un punto fisso, e si determini il luogo descritto da $Q$ al variare di tali triangoli $UVW$.
+> $P$ è un punto dato su una sfera. Tre semirette mutuamente perpendicolari uscenti da $P$ intersecano la sfera nei punti $U$, $V$, $W$. Dimostrare che, per tutti i così fatti tripleti di semirette, il piano del triangolo $UVW$ passa per un punto fisso, e determinare il luogo geometrico di $Q$ per tutti i così fatti triangoli $UVW$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1978#q02|src_imho_1978__Q02]]
 
 
 
@@ -83,13 +97,19 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Insieme di interi suddiviso in due successioni; determinare f(240)*
+*Insieme di interi suddiviso in due successioni; trova f(240)*
 
 > L'insieme di tutti gli interi positivi è l'unione di due sottoinsiemi disgiunti $\{f(1), f(2), \ldots, f(n), \ldots\}$, $\{g(1), g(2), \ldots, g(n), \ldots\}$, dove
 > $$f(1) < f(2) < \cdots < f(n) < \cdots,$$
 > $$g(1) < g(2) < \cdots < g(n) < \cdots,$$
-> e $g(n) = f(f(n)) + 1$ per ogni $n \ge 1$.
-> Determinare $f(240)$.
+> e $g(n) = f(f(n)) + 1$ per tutti gli $n \ge 1$. Determinare $f(240)$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1978#q03|src_imho_1978__Q03]]
 
 
 
@@ -112,9 +132,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circonferenza inscritta tangente a AB in D; il punto medio di PQ è il centro della circonferenza inscritta*
+*L'incerchio è tangente ad AB in D; il punto medio di PQ è il centro dell'incerchio*
 
-> Sia dato il triangolo $ABC$, $AB = AC$. Una circonferenza è tangente internamente alla circonferenza circoscritta al triangolo $ABC$ e tangente ai lati $AB$, $AC$ nei punti $P$, $Q$ rispettivamente. Si dimostri che il punto medio del segmento $PQ$ è il centro della circonferenza inscritta nel triangolo $ABC$.
+> Nel triangolo $ABC$, $AB = AC$. Un cerchio è tangente internamente alla circonferenza circoscritta del triangolo $ABC$ e inoltre è tangente ai lati $AB$, $AC$ rispettivamente nei punti $P$, $Q$. Dimostrare che il punto medio del segmento $PQ$ è il centro dell'incircolo del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1978#q04|src_imho_1978__Q04]]
 
 
 
@@ -138,10 +165,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successione di interi positivi distinti; disuguaglianza sulla somma*
+*Sequenza di interi positivi distinti; disuguaglianza sulla somma*
 
-> Sia $\{a_k\}$ $(k = 1, 2, 3, \ldots, n, \ldots)$ una successione di interi positivi distinti. Si dimostri che per ogni numero naturale $n$,
+> Sia $\{a_k\}$ $(k = 1, 2, 3, \ldots, n, \ldots)$ una successione di interi positivi distinti. Dimostrare che, per ogni numero naturale $n$,
 > $$\sum_{k=1}^{n} \frac{a_k}{k^2} \ge \sum_{k=1}^{n} \frac{1}{k}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1978#q05|src_imho_1978__Q05]]
 
 
 
@@ -166,4 +200,11 @@ level: IMO
 
 *Società internazionale; membro il cui numero è uguale alla somma o al doppio*
 
-> Un'associazione internazionale ha membri provenienti da sei paesi diversi. L'elenco dei membri contiene $1978$ nomi, numerati da $1, 2, \ldots, 1978$. Si dimostri che esiste almeno un membro il cui numero è uguale alla somma dei numeri di due membri del suo stesso paese, oppure è il doppio del numero di un membro del suo stesso paese.
+> Una società internazionale ha i propri membri provenienti da sei paesi diversi. L'elenco dei membri contiene $1978$ nomi, numerati $1, 2, \ldots, 1978$. Dimostrare che esiste almeno un membro il cui numero è la somma dei numeri di due membri del suo stesso paese, oppure è il doppio del numero di un membro del suo stesso paese.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1978#q06|src_imho_1978__Q06]]

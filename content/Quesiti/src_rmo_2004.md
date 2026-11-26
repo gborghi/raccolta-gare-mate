@@ -30,11 +30,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto unico perpendicolare dal centro dove PQ è uguale alla lunghezza tangente*
+*Punto unico sulla perpendicolare condotta dal centro in cui PQ è uguale alla lunghezza della tangente*
 
-> Considera nel piano un cerchio $\Gamma$ con centro $O$ e una linea $l$ che non interseca il cerchio $\Gamma$. Dimostrare che il punto $Q$ sulla perpendicolare tratto da $O$ alla linea $l$ è unico, in modo tale che per qualsiasi punto $P$ sulla linea $l$, $PQ$ rappresenti la lunghezza della tangente da $P$ al cerchio $\Gamma$.
+> Si consideri nel piano una circonferenza $\Gamma$ con centro $O$ e una retta $l$ che non interseca la circonferenza $\Gamma$. Dimostrare che esiste un unico punto $Q$ sulla perpendicolare condotta da $O$ alla retta $l$, tale che, per ogni punto $P$ sulla retta $l$, $PQ$ rappresenti la lunghezza della tangente condotta da $P$ alla circonferenza $\Gamma$.
 
 ![[src_rmo_2004__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2004#q01|src_rmo_2004__Q01]]
 
 
 
@@ -57,9 +63,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tanti interi positivi sulle facce cubiche; trovare tutti i valori possibili della somma facciale T*
+*Numeri interi positivi sulle facce del cubo; trovare tutti i valori possibili della somma delle facce T*
 
-> I numeri interi positivi sono scritti su tutte le facce di un cubo, uno su ciascuno. A ciascun angolo (vertice) del cubo è scritto il prodotto dei numeri sulle facce che si incontrano all'angolo. La somma dei numeri scritti in tutti gli angoli è il 2004. Se $T$ indica la somma dei numeri su tutte le facce, trovare tutti i possibili valori di $T$.
+> Sui lati di un cubo, uno per lato, vengono scritti numeri interi positivi. In ciascun vertice del cubo si scrive il prodotto dei numeri presenti sui lati che si incontrano in quel vertice. La somma dei numeri scritti nei vertici è 2004. Se $T$ indica la somma dei numeri presenti su tutti i lati, determina tutti i valori possibili di $T$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2004#q02|src_rmo_2004__Q02]]
 
 
 
@@ -86,13 +99,20 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricorrenza da radici quadratiche; dimostrare valori interi e gcd = 1*
+*Ricorrenza dalle radici quadratiche; dimostrare i valori interi e che il m.c.d. è 1*
 
-> Lasciate che $\alpha$ e $\beta$ siano le radici dell'equazione quadrata $x^2 + mx - 1 = 0$, dove $m$ è un numero intero impar. Let $\lambda_n = \alpha^n + \beta^n$, per $n \ge 0$. Prove questo .
-> 
-> a) $\lambda_n$ è un numero intero; e
-> 
+> Siano $\alpha$ e $\beta$ le radici dell'equazione quadratica $x^2 + mx - 1 = 0$, dove $m$ è un numero intero dispari. Sia $\lambda_n = \alpha^n + \beta^n$, per $n \ge 0$. Dimostrare che
+>
+> (a) $\lambda_n$ è un numero intero; e
+>
 > (b) $\gcd(\lambda_n, \lambda_{n+1}) = 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2004#q03|src_rmo_2004__Q03]]
 
 
 
@@ -117,11 +137,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i tripli del sottogruppo con A∩B∩C=, A∩B≠, B∩C≠; dimostrare che è uguale a 7^n−6^n+5^n*
+*Conta i tripletti di sottoinsiemi tali che A∩B∩C=∅, A∩B≠∅, B∩C≠∅; dimostrare che il numero è uguale a 7^n−6^n+5^n*
 
-> Prova che il numero di triples $(A, B, C)$ dove $A$, $B$, $C$ sono sottoinsiemi di $\{1, 2, \cdots, n\}$ in modo tale che $A \cap B \cap C = \emptyset$, $A \cap B \ne \emptyset$, $B \cap C \ne \emptyset$ siano $7^n - 6^n + 5^n$.
+> Dimostrare che il numero di triple $(A, B, C)$ in cui $A$, $B$, $C$ sono sottoinsiemi di $\{1, 2, \cdots, n\}$ tali che $A \cap B \cap C = \emptyset$, $A \cap B \ne \emptyset$, $B \cap C \ne \emptyset$ è $7^n - 6^n + 5^n$.
 
 ![[src_rmo_2004__q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2004#q04|src_rmo_2004__Q04]]
 
 
 
@@ -150,15 +177,22 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I punti di mezzo e le linee parallele in quadrilaterali danno quattro parti di superficie uguale*
+*I punti medi e le rette parallele in un quadrilatero danno quattro parti di uguale area*
 
-> Che $ABCD$ sia un quadrilaterale; $X$ e $Y$ i punti medi di $AC$ e $BD$ rispettivamente e le linee attraverso $X$ e $Y$ rispettivamente parallele a $BD$, $AC$ si incontrano in $O$. I punti intermedi $P$, $Q$, $R$ e $S$ siano rispettivamente $AB$, $BC$, $CD$ e $DA$. Prove questo .
-> 
-> a) i quadrilaterali $APOS$ e $BQOP$ hanno la stessa superficie;
-> 
-> b) le superfici dei quadrilaterali $APOS$, $BQOP$, $CROQ$, $DSOR$ sono tutte uguali.
+> Sia $ABCD$ un quadrilatero; siano $X$ e $Y$ i punti medi di $AC$ e $BD$ rispettivamente, e le rette passanti rispettivamente per $X$ e $Y$, parallele a $BD$ e $AC$, si incontrino in $O$. Siano $P$, $Q$, $R$, $S$ i punti medi di $AB$, $BC$, $CD$, $DA$ rispettivamente. Dimostrare che
+>
+> (a) i quadrilateri $APOS$ e $BQOP$ hanno la stessa area;
+>
+> (b) Le aree dei quadrilateri $APOS$, $BQOP$, $CROQ$, $DSOR$ sono tutte uguali.
 
 ![[src_rmo_2004__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2004#q05|src_rmo_2004__Q05]]
 
 
 
@@ -181,9 +215,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza primaria p_{n+1} = fattore primario più grande del prodotto+1; prova p_n ≠ 5*
+*Successione dei numeri primi p_{n+1} = fattore primo massimo del prodotto + 1; dimostrare che p_n ≠ 5*
 
-> Che $(p_1, p_2, p_3, \cdots)$ sia una sequenza di numeri primi definita da $p_1 = 2$ e per $n \ge 1$, $p_{n+1}$ è il più grande fattore primo di $p_1 p_2 p_3 \cdots p_n + 1$. Prove che $p_n \ne 5$ per qualsiasi $n$.
+> Sia $(p_1, p_2, p_3, \cdots)$ una successione di numeri primi definita da $p_1 = 2$ e, per $n \ge 1$, $p_{n+1}$ è il più grande fattore primo di $p_1 p_2 p_3 \cdots p_n + 1$. Dimostrare che $p_n \ne 5$ per ogni $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2004#q06|src_rmo_2004__Q06]]
 
 
 
@@ -210,10 +251,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali positivi che soddisfano y3+y ≤ x−x3; dimostrare y<x<1 e x2+y2<1*
+*Numeri reali positivi che soddisfano y³+y ≤ x−x³; dimostrare che y<x<1 e x²+y²<1*
 
-> $x$ e $y$ siano numeri reali positivi come $y^3 + y \le x - x^3$. Prove questo .
-> 
-> a) $y < x < 1$; e
-> 
+> Siano $x$ e $y$ numeri reali positivi tali che $y^3 + y \le x - x^3$. Dimostrare che
+>
+> (a) $y < x < 1$; e
+>
 > (b) $x^2 + y^2 < 1$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2004#q07|src_rmo_2004__Q07]]

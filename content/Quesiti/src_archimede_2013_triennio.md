@@ -35,9 +35,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which expression and definitely odd function*
+*Which expression is certainly an odd function*
 
-> Knowing that f is an odd function, i.e. such that f(x) = −f(−x) for every x, which of the following is definitely an odd function?
+> Knowing that f is an odd function, i.e. such that f(x) = −f(−x) for every x,
+> which of the following is certainly an odd function?
 >
 > - **(A)** f(x)−1
 > - **(B)** (f(x))2
@@ -45,7 +46,9 @@ level: triennio
 > - **(D)** (f(x))3+1
 > - **(E)** (f(x))3+f(x)
 
-**Answer:** E
+
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]]
+[[Quesiti/src_archimede_2013_triennio#q03|src_archimede_2013_triennio__Q03]]
 
 
 
@@ -74,9 +77,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Telescoping product of logarithms with increasing base*
+*Value of a product of logarithms with increasing bases*
 
-> What is the value of log₂(3) · log₃(4) · log₄(5) · ... · log₁₂₆(127) · log₁₂₇(128)?
+> What is the value of log2(3) · log3(4) · log4(5) · . . . · log126(127) · log127(128)?
 >
 > - **(A)** 1
 > - **(B)** 4
@@ -84,7 +87,10 @@ level: triennio
 > - **(D)** 7
 > - **(E)** none of the above
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_telescoping|Telescoping sums]]
+[[Quesiti/src_archimede_2013_triennio#q04|src_archimede_2013_triennio__Q04]]
 
 
 
@@ -118,9 +124,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum notebooks of different colours, power of 2*
+*Maximum number of differently coloured notebooks, powers of 2*
 
-> Alberto goes to the mailroom to buy notebooks and wants them all in different colors. There are 2014 notebooks in various colours in the cartel; for each colour the number of notebooks is a power of 2, different from colour to colour. How many notebooks can Alberto buy at most?
+> Alberto goes to a stationery shop to buy notebooks and wants them all to be different colours.
+> In the stationery shop there are 2014 notebooks of various colours; for each colour the number of notebooks is a power of 2, different from colour to colour.
+> What is the maximum number of notebooks Alberto can buy?
 >
 > - **(A)** 7
 > - **(B)** 8
@@ -128,7 +136,11 @@ level: triennio
 > - **(D)** 10
 > - **(E)** 11.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2013_triennio#q09|src_archimede_2013_triennio__Q09]]
 
 
 
@@ -158,9 +170,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Around area inscribed in triangle 2-3-4*
+*Area of the circle inscribed in a 2-3-4 triangle*
 
-> The sides of a triangle measure 2 cm, 3 cm and 4 cm respectively. Calculate the area of the circle in the triangle.
+> The sides of a triangle measure respectively 2 cm, 3 cm and 4 cm. Calculate the area
+> of the circle inscribed in the triangle.
 >
 > - **(A)** 5 12 cm2
 > - **(B)** 5π 36 cm2
@@ -168,7 +181,10 @@ level: triennio
 > - **(D)** 2π 3 cm2
 > - **(E)** π cm2
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2013_triennio#q10|src_archimede_2013_triennio__Q10]]
 
 
 
@@ -198,17 +214,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real pairs with x^2k+y^2k=(xy)^k*
+*Number of non-negative real pairs satisfying x2k + y2k = (xy)k*
 
-> Knowing that k is a fixed positive integer, how many pairs (x, y) of real numbers greater than or equal to 0 is equal to x2k + y2k = (xy)k?
+> Given that k is a fixed positive integer, for how many pairs (x, y) of real numbers greater than or equal to 0 does the equality x2k + y2k = (xy)k hold?
 >
 > - **(A)** 0
 > - **(B)** 1
 > - **(C)** 3
-> - **(D)** Endless
-> - **(E)** depends on k
+> - **(D)** infinitely many
+> - **(E)** it depends on k
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+[[Quesiti/src_archimede_2013_triennio#q11|src_archimede_2013_triennio__Q11]]
 
 
 
@@ -259,36 +278,25 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle perimeter by the theorem of the biset*
+*Perimeter of a triangle given the bisector and CD = 1/3 of BC*
 
 ![[src_archimede_2013_triennio__prob12.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (B) at (0,0);
-  \coordinate (C) at (6,0);
-  \coordinate (A) at (5,2.8);
-  \coordinate (D) at (3.7,0);
-  \draw (A)--(B)--(C)--cycle;
-  \draw (A)--(D);
-  \node[above] at (A) {$A$};
-  \node[below left] at (B) {$B$};
-  \node[below right] at (C) {$C$};
-  \node[below] at (D) {$D$};
-\end{tikzpicture}
-\end{document}
-```
-
-> Given an ABC triangle, the bisector is plotted from the vertex A, which meets the side BC at point D. If CD + CA = 12 m, and CD = 1 3BC, what is the circumference of the triangle?
+> Given a triangle ABC, draw the bisector from the vertex A, meeting the side BC at the point D. If CD + CA = 12 m and CD =
+> 1
+> 3BC, what is the perimeter of the triangle?
 >
 > - **(A)** less than 32 m
 > - **(B)** 32 m
 > - **(C)** 36 m
-> - **(D)** of a width of not more than 36 m
-> - **(E)** cannot be determined from the data provided
+> - **(D)** more than 36 m
+> - **(E)** it cannot be determined from the data given
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2013_triennio#q12|src_archimede_2013_triennio__Q12]]
 
 
 
@@ -319,9 +327,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number divides p(169)-p(1) by integer polynomial*
+*Which number certainly divides p(169) − p(1) for an integer polynomial*
 
-> The polynomial p(x) has a degree greater than or equal to 2 and its coefficients are all integers. Which of the following numbers certainly divides p(169) −p(1)?
+> The polynomial p(x) has degree greater than or equal to 2 and all of its coefficients are integers. Which of the following numbers certainly divides p(169) − p(1)?
 >
 > - **(A)** 25
 > - **(B)** 32
@@ -329,7 +337,11 @@ level: triennio
 > - **(D)** 49
 > - **(E)** 56
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2013_triennio#q14|src_archimede_2013_triennio__Q14]]
 
 
 
@@ -364,17 +376,25 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of solutions of a square system*
+*Maximum number of pairs between 0 and 1 satisfying a quadratic system*
 
-> Knowing that a, b, c, d, e, f are positive integers, how many pairs (x, y) are there at most, with x and y between 0 and 1, that satisfy the following system? The following shall be added to the list:
+> Given that a, b, c, d, e and f are positive integers, what is the maximum number of pairs (x, y), with x and y between 0 and 1 inclusive, that satisfy the following system?
+> ax2 + bxy
+> =
+> c
+> dx2 + exy
+> =
+> f
 >
 > - **(A)** 0
 > - **(B)** 1
 > - **(C)** 2
-> - **(D)** Endless
-> - **(E)** None of the preceding
+> - **(D)** infinitely many
+> - **(E)** none of the above
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2013_triennio#q15|src_archimede_2013_triennio__Q15]]
 
 
 
@@ -405,9 +425,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-The difference is zero in 2000! in base 10 and base 5*
+*Difference between the number of trailing zeros of 2000! in base 10 and base 5*
 
-> Consider the number N = 2000! = 1 · 2 · 3 · . . . · 1999 · 2000. Let's say with X the number of zeros that ends with N when it's written in base 10, and with Y the number of zeros that ends with N when it's written in base 5. So X minus Y is:
+> Consider the number N = 2000! = 1 · 2 · 3 · . . . · 1999 · 2000. Let X be the number of zeros with which N ends when written in base 10, and let Y be the number of zeros with which N ends when written in base 5. Then X − Y equals:
 >
 > - **(A)** −2
 > - **(B)** 0
@@ -415,7 +435,10 @@ The difference is zero in 2000! in base 10 and base 5*
 > - **(D)** 2013
 > - **(E)** 2014
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2013_triennio#q16|src_archimede_2013_triennio__Q16]]
 
 
 
@@ -444,9 +467,9 @@ The difference is zero in 2000! in base 10 and base 5*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Increasing order of 3^33, 4^30, 5^25
+*Increasing order of 3^33, 4^30, 5^25*
 
-> How are the three numbers 333, 430, 525 arranged in increasing order of magnitude?
+> How are the three numbers 333, 430, 525 ordered in increasing size?
 >
 > - **(A)** 333 < 430 < 525
 > - **(B)** 333 < 525 < 430
@@ -454,7 +477,10 @@ Increasing order of 3^33, 4^30, 5^25
 > - **(D)** 430 < 525 < 333
 > - **(E)** 525 < 430 < 333
 
-**Answer:** B
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+[[Quesiti/src_archimede_2013_triennio#q17|src_archimede_2013_triennio__Q17]]
 
 
 
@@ -485,17 +511,19 @@ Increasing order of 3^33, 4^30, 5^25
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of radioactive bananas with probability given*
+*Number of radioactive bananas from a given probability*
 
-> Five boxes of 72 bananas each arrived at the port, and in one of them there is a number of radioactive bananas. We know that if you randomly pick two of the five boxes and randomly pick a banana from each of them, the probability of one of the two bananas being radioactive is 5%. How many are radioactive bananas?
+> Five crates have arrived at the port, each containing 72 bananas, and one of them contains a certain number of radioactive bananas. It is known that if two of the five crates are chosen at random and one banana is chosen at random from each of them, the probability that one of the two chosen bananas is radioactive is 5%. How many radioactive bananas are there?
 >
 > - **(A)** 6
 > - **(B)** 9
 > - **(C)** 10
 > - **(D)** 12
-> - **(E)** None of the preceding
+> - **(E)** none of the above
 
-**Answer:** B
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+[[Quesiti/src_archimede_2013_triennio#q18|src_archimede_2013_triennio__Q18]]
 
 
 
@@ -527,9 +555,10 @@ Increasing order of 3^33, 4^30, 5^25
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of monomers in product of two trinomials*
+*Minimum number of monomials in the product of two trinomials*
 
-> They are p(x) and q(x) two trinomials, where by trinomial we mean the sum of three non-zero monomials of different degrees between them (e.g. −x5 + 3x2 + 2x is a trinomial). Let's make the product p(x) q(x): how many non-zero monomers does that product at least have?
+> Let p(x) and q(x) be two trinomials, where by trinomial we mean the sum of three non-zero monomials of distinct degrees (for example, −x5 + 3x2 + 2x is a trinomial).
+> We form the product p(x)q(x): from how many non-zero monomials is this product composed, at minimum?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -537,7 +566,10 @@ Increasing order of 3^33, 4^30, 5^25
 > - **(D)** 4
 > - **(E)** 5
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_estremalita|Extremal principle]]
+[[Quesiti/src_archimede_2013_triennio#q19|src_archimede_2013_triennio__Q19]]
 
 
 
@@ -577,11 +609,9 @@ Increasing order of 3^33, 4^30, 5^25
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of Z-sheets to cover a 5x5 grid*
+*Minimum number of Z-shaped tiles to cover a 5x5 grid*
 
-![[src_archimede_2013_triennio__prob20.png]]
-
-> We want to cover a grid of 5x5 squares with z-shaped tiles as shown in the figure, which can be rotated, turned and overlapped, possibly even leaking out of the grid (although every part of the grid that falls inside the grid precisely overlaps to 1, 2, 3 or 4 squares). How many cards do we need, at least?
+> We want to cover a 5x5 grid of small squares with tiles shaped like a Z as in the figure, which may be rotated, flipped and overlapped, possibly even extending beyond the grid (provided that every part of a tile that falls inside the grid overlaps precisely 1, 2, 3 or 4 small squares). How many tiles are needed, at minimum?
 >
 > - **(A)** 6
 > - **(B)** 7
@@ -589,4 +619,8 @@ Increasing order of 3^33, 4^30, 5^25
 > - **(D)** 9
 > - **(E)** 10
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2013_triennio#q20|src_archimede_2013_triennio__Q20]]

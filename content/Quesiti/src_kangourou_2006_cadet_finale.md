@@ -46,7 +46,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gray fraction between concentric circles*
+*Grey fraction between concentric circles*
 
 ![[src_kangourou_2006_cadet_finale__probc1.png]]
 
@@ -65,9 +65,13 @@ level: kangourou
 \end{document}
 ```
 
-> The radius of the two small circles is one sixth of the radius of the large circle. The radius of the medium-sized circle is twice that of the small circles. What fraction of the large circle is colored gray? (see figure)
+> The radius of the two small circles is one sixth of the radius of the large circle. The radius of the medium-sized circle is twice the radius of the small circles. What fraction of the large circle is shaded gray? (see figure)
 
-**Answer:** 5/6
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_cadet_finale#qc1|src_kangourou_2006_cadet_finale__QC1]]
 
 
 
@@ -123,9 +127,14 @@ level: kangourou
 \end{document}
 ```
 
-> A metal bar, which for simplicity's sake is assumed to be filiform and whose middle point is denoted by $M$, is supported against a wall and adheres to a wall with which the wall forms an angle. The wall and floor are of very polished marble, so the bar slides slowly, always sticking to the wall, until it lies on the floor (the figure schematizes the bar's position in a single moment during the movement: the wall is symbolized by the sheet). What trajectory does $M$ describe on the wall? Reason for your statement. (see figure)
+> A metal bar—which, for simplicity, we assume to be filamentary and whose midpoint is denoted by $M$—is standing upright against a wall and adheres to a wall that forms an angle with the first wall. The wall and the floor are made of highly polished marble; therefore, slowly, the bar slides while always remaining in contact with the wall, until it comes to rest on the floor (the figure schematically shows the bar's position at a single instant during the motion: the wall is represented by the sheet). What path does $M$ trace on the wall? Justify your statement. (see figure)
 
-**Answer:** quarter of a circle
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_cadet_finale#qc2|src_kangourou_2006_cadet_finale__QC2]]
 
 
 
@@ -161,7 +170,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relation area and perimeter of rectangle to square*
+*Relationship between the area and perimeter of a rectangle and a square*
 
 ![[src_kangourou_2006_cadet_finale__probc3.png]]
 
@@ -175,9 +184,14 @@ level: kangourou
 \end{document}
 ```
 
-> The figure shows a rectangle with base $a$ and height $b$, and a square with a vertex on the diagonal of the rectangle and the opposite vertex in common with the rectangle. What can be said about the numbers that provide (with respect to appropriate units of measurement) the area and perimeter of the rectangle if the square has sides $2$? (see figure)
+> In the figure, a rectangle with base $a$ and height $b$ is shown, along with a square having one vertex on the diagonal of the rectangle and the opposite vertex in common with the rectangle. What can be said about the numbers that give (in appropriate units of measurement) the area and the perimeter of the rectangle if the square has side $2$? (see figure)
 
-**Answer:** they are equal
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_cadet_finale#qc3|src_kangourou_2006_cadet_finale__QC3]]
 
 
 
@@ -203,13 +217,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of colours for spikes of the circle*
+*Minimum number of colors for the sectors of the circle*
 
 ![[src_kangourou_2006_cadet_finale__probc4.png]]
 
-> A circle has been divided into a number of spikes (at least 4), for example as shown in the figure. You have been instructed to paint the inside of each spike so that between two spikes of the same color there are always at least two of a different color, but you do not know the number of spikes in the circle (that in the figure is just an example!). What's the smallest number of colors that will guarantee you'll make it, regardless of the number of spikes? (see figure)
+> A circle has been divided into a certain number of sectors (at least 4), for example as shown in the figure. You have been tasked with coloring the interior of each sector so that between two sectors of the same color there are always at least two sectors of a different color, but you do not know how many sectors the circle has (the one in the figure is just an example!). What is the smallest number of colors that will guarantee you can succeed, regardless of the number of sectors? (see figure)
 
-**Answer:** 5
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_cadet_finale#qc4|src_kangourou_2006_cadet_finale__QC4]]
 
 
 
@@ -237,15 +256,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the sum of ORE+ORE+ORE=VIVE*
+*Result of the sum HOURS+HOURS+HOURS=LIVE*
 
 ![[src_kangourou_2006_cadet_finale__probc5.png]]
 
-> In the operation indicated, each letter represents a digit: equal letters represent equal digits and different letters represent different digits; furthermore, no letter represents the $0$ digit. What is the result?
-> 
+> In the indicated operation, each letter represents a digit: identical letters represent identical digits, and different letters represent different digits; moreover, no letter represents the digit $0$. What is the value of the result?
+>
 > $$\begin{array}{r} \text{ORE} \\ \text{ORE} \\ +\; \text{ORE} \\ \hline \text{VIVE} \end{array}$$
 
-**Answer:** 2625
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_cadet_finale#qc5|src_kangourou_2006_cadet_finale__QC5]]
 
 
 
@@ -269,8 +293,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers with consecutive digits and odd number of divisors*
+*Numbers with consecutive digits and an odd number of divisors*
 
-> It considers the numbers of $3$ digits whose digits can be rearranged to form sets of consecutive digits (e.g. the digits of $786$ may be rearranged in the row $678$, consisting of consecutive digits). How many of these numbers have a odd number of divisors (different between them)?
+> Consider the numbers with $3$ digits whose digits can be rearranged to form triples of consecutive digits (e.g., the digits of $786$ can be rearranged into the triple $678$, which consists of consecutive digits). How many of these numbers have an odd number of (mutually distinct) divisors?
 
-**Answer:** two
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_cadet_finale#qc6|src_kangourou_2006_cadet_finale__QC6]]

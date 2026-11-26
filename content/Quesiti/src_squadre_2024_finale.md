@@ -35,11 +35,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of union three rectangles on diagonals, AB=60 BC=80*
+*Area of the union of three rectangles along the diagonals, AB=60 BC=80*
 
-> A relaxing cruise Vennma, Dafnne, Fredmath, S-Higgs and their trusted friend Scoobe-Zout are on their way to meet Fredmath's parents and set off on a relaxing cruise to celebrate his birthday. During the trip, between one chatter and the other, Vennma draws on his notebook an ABCD rectangle with AB = 60mm and BC = 80mm. On the diagonal AC constructs a rectangle such that AC is one side and the side opposite it passes through B. Similarly on BD it builds a rectangle passing through A. Dafnne takes the lipstick and colours the whole figure and finally exclaims: "Now it's much better!" Calculate the colored area or the area of the union of the three rectangles.
+> A relaxing cruise: Vennma, Daφne, Fredmath, and S-Higgs, along with their trusted friend Scoobe-Zout, are on their way to visit Fredmath's parents and set off on a relaxing cruise to celebrate his birthday. During the journey, while chatting, Vennma draws in their small notebook a rectangle ABCD with AB = 60 mm and BC = 80 mm. On the diagonal AC, they construct a rectangle such that AC is one side and the side opposite it passes through B. Similarly, on BD, they construct a rectangle that passes through A. Daφne takes the lipstick and colors the whole figure, and finally exclaims, "Now it's much better!" Calculate the colored area, that is, the area of the union of the three rectangles.
 
-**Answer:** 8925
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2024_finale#q01|src_squadre_2024_finale__Q01]]
 
 
 
@@ -66,11 +70,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of two digits equal to the square of tens plus cubes*
+*Sum of two-digit numbers equal to the square of the tens digit plus the cube of the units digit*
 
-> Welcome Cocktail Finally set off for the cruise, and it all starts in the best way possible: with an inaugural aperitif. S-Higgs and Scoobe-Zout already have water in their mouths, but they discover that in order to participate in the buffet you have to find a two-digit number n equal to the sum between the square of the number of tens and the cube of the number of units. Determine the sum of all numbers with these properties.
+> Welcome Cocktail Finally, the cruise is about to begin, and everything starts in the best possible way: with an inaugural aperitif. S-Higgs and Scoobe-Zout are already salivating, but they discover that, to be able to take part in the buffet, one must find an n-digit two-digit number equal to the sum of the square of the tens digit and the cube of the units digit. Determine the sum of all numbers with these properties.
 
-**Answer:** 0106
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2024_finale#q02|src_squadre_2024_finale__Q02]]
 
 
 
@@ -98,11 +106,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2x6 corridor layouts with 1x2 and 1x3 tiles*
+*2x6 corridor tessellations with 1x2 and 1x3 tiles*
 
-> Visiting the ship Summy Suy Deevysori, the cruise director, leads the group of visitors to discover the wonders of the ship: the octagonal swimming pools, the puzzle room, the mind's gym and stops in front of a narrow corridor of 2m that still has to be tiled. Summy recommends that it be completely towed using only 1m×2m or 1m×3m mattresses, without overlapping. How many different ways can they achieve the objective?
+> On a visit to the Summy Suy Deevysori ship, the cruise director leads the group of visitors to discover the ship's wonders: the octagonal pools, the puzzle room, and the gym for the mind. She stops in front of a narrow 2 m × 6 m corridor that has yet to be tiled. Summy invites them to tile it completely using only 1 m × 2 m or 1 m × 3 m mats, with no overlaps. In how many different ways can they achieve the goal?
 
-**Answer:** 0030
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2024_finale#q03|src_squadre_2024_finale__Q03]]
 
 
 
@@ -131,11 +143,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*p(2024) with p(2R)=2p(R) +2R^2-1 and sum of coefficients 2*
+*p(2024) with p(2R)=2p(R)+2R^2-1 and sum of coefficients 2*
 
-> Summy greets them by giving them Captain Kronecker's business card. The note has a literal expression. Fredmath notes that the expression is a polynomial and the sum of the coefficients is 2. Vennma points out that the polynomial calculated in the double is NOT the same as the double of the polynomial. The difference is twice the square of the diminished variable of 1. So Dafn notes that p ((2R) = 2p ((R) + 2R2 −1. Summy recalls that in order to meet Captain Kronecker they'll have to find the value of the polynomial calculated in 2024. Which number will allow them to meet the captain?
+> Summy greets them by giving them Captain Kronecker's business card. On the card, a literal expression is written. Fredmath observes that the expression is a polynomial and that the sum of the coefficients is 2. Vennma points out to everyone that the polynomial evaluated at twice the value is NOT equal to twice the polynomial. The difference is twice the square of the variable minus 1. Then Daφne notes p(2R) = 2p(R)+2R2 −1. Summy recalls that, in order to meet Captain Kronecker, they will have to find the value of the polynomial evaluated at 2024. Which number will allow them to meet the captain?
 
-**Answer:** 6577
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2024_finale#q04|src_squadre_2024_finale__Q04]]
 
 
 
@@ -161,11 +177,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum odd coefficient in the development of (x+y)^13*
+*Maximum odd coefficient in the expansion of (x+y)^13*
 
-> Captain Kronecker's arrivals, he begins by saying, "As you may have guessed from my business card, I am a polynomial enthusiast. One of my favorite questions is: What is the greatest odd coefficient in the development of (x+y)13? What is the answer?
+> The Captain's Question Having arrived at Captain Kronecker's, he begins by saying, "As you will have gathered from my business card, I am a fan of polynomials. One of my favorite questions is: what is the value of the largest odd coefficient in the expansion of (x+y)^13?" What is the value of the answer?
 
-**Answer:** 1287
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2024_finale#q05|src_squadre_2024_finale__Q05]]
 
 
 
@@ -195,11 +215,14 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of amulets after cube-octahedron-cube*
+*Volume of the amulet after the cube-octahedron-cube*
 
-> Scoobe-Zout met a guy on the ship with a somewhat disturbing airtight. Immediately he escapes and jumps into the arms of S-Higgs who, seeing him so frightened, decides to build him an amulet to protect him. At the beginning S-Higgs takes a wooden cube of 10000mm3. However, as Scoobe-Zout prefers octahedra, S-Higgs uses his precision saw and cuts the cube to obtain an octahedra that has the centers of the cube's faces to top. When the operation is over, Scoobe-Zout reminds him that in the Inca tradition octahedra are cursed. Then, quickly, S-Higgs re-shapes the octahedron to get a cube that has the centers of the octahedron's faces to top. What is the value in cubic millimetres of the volume of the amulet? 2024 Team Competition  National Final  Problem Tests  1/4
+> Uncanny Encounters On the ship, Scoobe-Zout met a guy in a raincoat who seemed a bit unsettling. He immediately flees and jumps into S-Higgs's arms; seeing him so frightened, S-Higgs decides to make him an amulet to protect him. At first, S-Higgs takes a wooden cube with a volume of 10000 mm³. However, since Scoobe-Zout prefers octahedra, S-Higgs uses his precision saw to cut the cube, producing an octahedron whose vertices are the centers of the cube's faces. But once the operation is over, Scoobe-Zout reminds him that, in Inca tradition, octahedra are cursed. So, in great haste, S-Higgs cuts the octahedron again, producing a cube whose vertices are the centers of the octahedron's faces. What is the volume of the amulet in cubic millimeters? Team Competition 2024 – National Final – Problem Statements – 1/4
 
-**Answer:** 0370
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2024_finale#q06|src_squadre_2024_finale__Q06]]
 
 
 
@@ -227,11 +250,16 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number 4 digits with n = a^a+b^b+c^c+d^d*
+*4-digit number with n=a^a+b^b+c^c+d^d*
 
-> For a swim in the pool! Fredmath doesn't see the time to unpack and put on his suitcase, but when he gets to the room he discovers that to enter he has to type a combination: a number n of exactly 4 digits, all different from zero, such that n = aa +bb +cc +dd where a,b,c,d are the digits of the thousands, the hundreds, the tens and the units of n respectively. What's the right combination?
+> For a dip in the pool! Fredmath can't wait to unpack and put on his swimsuit, but when he gets to the room, he finds that to get in he has to enter a code: an n with exactly 4 digits, all non-zero, such that n = aa + bb + cc + dd, where a, b, c, and d are respectively the thousands, hundreds, tens, and units digits of n. What is the coveted code?
 
-**Answer:** 3435
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2024_finale#q07|src_squadre_2024_finale__Q07]]
 
 
 
@@ -259,11 +287,15 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*1000×BC with circumference for D,E,S tangent to BC*
+*1000*BC with a circumcircle for D, E, S tangent to BC*
 
-> Looking for trouble, Vennma arrives near the pool to meet Fredmath, but is distracted by noticing that there are a few people chatting about the drain. He can peek at a sheet where he reads: Given ABC a triangle with AB = 1 and AC = 2, both Γ its circumscribed circumference, of center O. The intersections of height from A and AO extension with Γ are D and S respectively. In addition, AO intersects the BC straight into E. Knowing that the circumference passing through D,E,S is the straight line BC, determine 1000 BC". Vennma approaches the group and exclaims "Beh, but it's easy, the
+> Peeking at problems, Vennma comes close to the pool to meet Fredmath, but gets distracted when he notices that a few people are chatting on the sun loungers. He manages to peek at a sheet of paper and reads: “Given triangle ABC with AB = 1 and AC = 2, let Γ be its circumcircle, with centre O. Let D and S be the intersections, respectively, of the altitude from A and of the extension of AO with Γ. Furthermore, AO meets line BC at E. Given that the circle passing through D, E, and S is tangent to line BC, determine 1000 BC.” Vennma approaches the group and exclaims, “Well, but that's easy—the
 
-**Answer:** 2236
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2024_finale#q08|src_squadre_2024_finale__Q08]]
 
 
 
@@ -292,11 +324,15 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum n with sum of 24 digits x one perfect 3-digit square*
+*Maximum n with sum 24, numbers x a 3-digit perfect square*
 
-> Fredmath's parents are playing with a deck of nine cards numbered 1 to 9. Summy approaches, takes 4 cards and asks: How many different ways are there to order these cards?, Scoobe-Zout answers: By changing the position of the 4 cards you can get 24 numbers of 4 digits, all different. Then S-Higgs asks:  And if I added them all and 24 what number would I get? Vennma observes promptly: It depends on the cards, but by multiplying this sum by a number of exactly three digits you can get a perfect square n2. When you vary the choice of the initial 4 cards, what is the maximum value of n?
+> Part I: Cards. Fredmath's parents are playing with a deck of 9 cards numbered from 1 to 9. Summy approaches, takes 4 cards, and asks, "How many different ways are there to arrange these cards?" Scoobe-Zout replies, "By swapping the positions of the 4 cards, you can obtain 24 four-digit numbers, all different." Then S-Higgs asks, "And if I added all 24 of them up, what number would I get?" Vennma promptly observes, "It depends on the cards, but by multiplying this sum by a number with exactly three digits, it is possible to obtain a perfect square n²." As the choice of the initial 4 cards varies, what is the maximum possible value of n?
 
-**Answer:** 6666
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2024_finale#q09|src_squadre_2024_finale__Q09]]
 
 
 
@@ -327,11 +363,15 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final grid colours 2024x2024, sum of exponents*
+*Final colorings of the 2024x2024 grid, sum of exponents*
 
-> Mandala extra-large On the deck of the ship there is a gigantic panel made up of 2024 boxes, initially white, with the title Keep calm and color on. To relax, Vennma and Dafnne begin to color them in turn: Vennma with blue and Dafnne with red. Vennma randomly selects any grid and colour box. Then Dafnne chooses a square 2 × 2 containing the newly coloured box and colours the 3 remaining white boxes. Vennma then chooses a square 3×3 containing all 4 of the boxes already selected and colours the remaining 5. They continue to do so, alternating, until the 2024th stage, when Dafnne stains the last 4047 white boxes. How many possible final grille colors are there? Provide the sum of the exponents of factorization in prime factors as a response.
+> Extra-large mandala: On the ship's deck, there is a gigantic panel made up of 2024×2024 cells, initially white, with the title "Keep calm and color on". To relax, Vennma and Daφne start coloring the cells in turns: Vennma uses blue, and Daφne uses red. Vennma randomly selects any cell in the grid and colors it. Then Daφne chooses a 2×2 square containing the cell just colored and colors the 3 cells that are still white. After that, Vennma chooses a 3×3 square containing all 4 of the cells already chosen and colors the remaining 5. They continue like this, taking turns, up to the 2024th move, in which Daφne colors the last 4047 white cells. How many possible final colorings of the grid are there? Provide as the answer the sum of the exponents in the prime factorization.
 
-**Answer:** 4046
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2024_finale#q10|src_squadre_2024_finale__Q10]]
 
 
 
@@ -362,11 +402,16 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequences of 4 dice to return to box 1*
+*Sequences of 4 dice rolls to return to square 1*
 
-> The Ring of Riddles On the open terrace there is a ring path made up of 20 boxes numbered in the order of 1 to 20. Fredmath wants to play and places himself on box 1, throws a classic giant 6-sided dice and advances the indicated; he is given a riddle, if he answers correctly he starts a new turn by throwing the dice, if he makes a mistake, instead, he returns back 2 boxes and then starts a new turn by throwing the dice. He can do whatever shifts he wants. It's just a challenge to himself. Knowing that all the riddles are easy for him and he answers all correctly except box 6, how many sequences of four dice rolls are possible for Fredmath to return to box 1 exactly?
+> The Riddle Ring On the open terrace, there is a circular path made up of 20 numbered squares, numbered in order from 1 to 20. Fredmath wants to play and starts on square 1; he rolls a classic giant six-sided die and moves forward by the number shown. A riddle is posed to him: if he answers correctly, he begins a new turn by rolling the die; if he answers incorrectly, however, he moves back 2 squares and then begins a new turn by rolling the die. He can take as many turns as he likes: it's just a challenge against himself. Knowing that all the riddles are easy for him and that he answers all of them correctly except the one on square 6, how many possible sequences of 4 die rolls are there in which Fredmath ends up exactly back on square 1?
 
-**Answer:** 0028
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2024_finale#q11|src_squadre_2024_finale__Q11]]
 
 
 
@@ -399,11 +444,15 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of lettuces with k/(k+1) divisions without residues*
+*Minimum number of savory pastries with divisions k/(k+1) leaving no remainder*
 
-> Enjoy the dinner! There's a table full of delicious salads. The waiter has to distribute the salads to the 6 guests: first to S-Higgs who is the most hungry, then to Fredmath, to his mother, to his father, to Vennma and finally to Dafnne. He prepares the portions with a ceremonial elaboration: he gives a salad to Scoobe-Zout and half the remaining salad to the first guest; then he gives two salad to Scoobe-Zout and 2 3 of the remaining salad to the second guest and continues thus giving k salad to Scoobe-Zout and k k+1 of the remaining salad to the k-eighth guest. S-Higgs is about to make his first salad, but the waiter stops him and says, "I've managed to do all the subdividing without any residue, without dividing the salads, and everyone has at least one. Guess how many salads I've distributed? What was the minimum number of salads on the table at first?
+> Hurray for dinner! There's a table full of delicious savory snacks. The waiter has to distribute the snacks to the 6 guests: first to S-Higgs, who is the hungriest, then to Fredmath, to his mother, to his father, to Vennma, and finally to Daφne. He prepares the portions with an elaborate ceremony: he gives one snack to Scoobe-Zout and half of the remaining snacks to the first guest; then he gives two snacks to Scoobe-Zout and 2/3 of the remaining ones to the second guest, and continues like this, giving k snacks to Scoobe-Zout and k/(k+1) of the remaining ones to the k-th guest. S-Higgs is about to take a bite of his first snack, but the waiter stops him and says, "I managed to make all the divisions with no leftovers, without splitting any snacks, and everyone got at least one. Guess how many snacks I distributed?" What was the minimum number of snacks that were on the table initially?
 
-**Answer:** 0079
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2024_finale#q12|src_squadre_2024_finale__Q12]]
 
 
 
@@ -438,13 +487,17 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n with n less reverse equal to 12345678*
+*Minimo n with n minus reverse equals 12345678*
 
-> Reverse count During dinner Summy introduced everyone to Mr. MeeStern-Volmer's show, he was the creepy guy. During the show Mr MeeStern-Volmer sings in a rhythmic voice that: The inverse of a positive integer is the positive integer that is obtained by writing its numbers in reverse. For example, the reverse of 8267 is 7628 and the reverse of 15620 is 2651. Saying this hypnotizes all crew and passengers, except Scoobe-Zout and S-Higgs who are focused on food. In order to break the trance state, they need to find the smallest positive integer n such that the inverse of n is equal to 12345678. What's the number to get out of the trance? 2024 Team Competition  National Final  Problem Tests  2/4
-> 
-> Second part: the cruise mystery As soon as everyone wakes up from the trance, the cruise ship is attacked by ghost pirates, led by Captain BarbaAlberta: they kidnap all the passengers and sink the ship, leaving behind only S-Higgs, Fredmath, Vennma, Dafnne and the trusted Scoobe-Zout.
+> Countdown During dinner, Summy introduces everyone to Mr MeeStern-Volmer's show; he was the creepy guy. During the show, Mr MeeStern-Volmer intones in a rhythmic voice: "The reverse of a positive integer is the positive integer obtained by writing its digits in reverse order. For example, the reverse of 8267 is 7628, and the reverse of 15620 is 2651." With these words, he hypnotizes the entire crew and the passengers, except for Scoobe-Zout and S-Higgs, who are focused on their food. To be able to break the trance state, they will have to find the smallest positive integer n such that n minus the reverse of n equals 12345678. What is the number to get out of the trance? Team Competition 2024 – National Final – Problem Statements – 2/4
+>
+> Second Part: The Cruise Enigma As soon as everyone wakes up from the trance, the cruise ship is attacked by ghost pirates led by Captain BarbaAlberta: they kidnap all the passengers and sink the ship, leaving behind only S-Higgs, Fredmath, Vennma, Daφne, and the loyal Scoobe-Zout.
 
-**Answer:** 6080
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2024_finale#q13|src_squadre_2024_finale__Q13]]
 
 
 
@@ -473,11 +526,15 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of two minimum disjoint paths on the 2024 grid*
+*Probability of two disjoint minimal paths on a grid 2024*
 
-> Towards the BarbaAlberta hiding place [⋆⋆⋆] To go from the wreck point to the BarbaAlberta secret hiding place you follow the sides of the boxes of a 2024×2024 square grid. The pirate ship follows one path, Scoobe-Zout's group another. Knowing that the two companions started together from a top of the grid and will arrive at the opposite top following a minimum path, if they had chosen the two paths at random, what would be the probability that their paths would have only the beginning and the end points in common? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+> Toward BarbaAlberta's Hideout [⋆⋆] To get from the shipwreck site to BarbaAlberta's secret hideout, one follows the edges of the squares of a 2024×2024 grid. The pirate ship follows one path, and Scoobe-Zout's group follows another. Given that both groups set off together from one vertex of the grid and will reach the opposite vertex by following a shortest path, if they had chosen the two paths at random, what would have been the probability that their paths would have shared only the starting point and the ending point? Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.
 
-**Answer:** 8095
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2024_finale#q14|src_squadre_2024_finale__Q14]]
 
 
 
@@ -508,11 +565,15 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pirates on missions with a rational frequency*
+*Pirates on a mission with am>m for a rational occasion*
 
-> Shut up, we're going down! You've arrived at BarbaAlberta's hideout, not even time to look around, which is also the pirate ship arriving. On it is Captain BarbaAlberta and other 2024 pirates, who for convenience are numbered from 1 to 2024; to the pirate m BarbaAlberta assigns a positive rational number am such that, for m = 31,32,...,2024, one has am = m2 max1≤l≤30{l +am−l}. The pirates are sent by the captain on a mission to capture the intruders. How many pirates are on the mission? Provide the sum of all possible answers.
+> Crew, to the boarding attack! When they reach BarbaAlberta's hideout, they don't even have time to look around before the pirate ship arrives too. On it are Captain BarbaAlberta and 2024 other pirates, who for convenience are numbered from 1 to 2024; Captain BarbaAlberta assigns a positive rational number am to pirate m such that, for m = 31, 32, ..., 2024, am = m² max1≤l≤30{l + am−l}. Pirates for whom am > m are sent by the captain on a mission to capture the intruders. How many pirates are sent on the mission? Provide the sum of all possible answers.
 
-**Answer:** 2820
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2024_finale#q15|src_squadre_2024_finale__Q15]]
 
 
 
@@ -545,9 +606,13 @@ Maximum odd coefficient in the development of (x+y)^13*
 
 *Spectrum of the polynomial (x-2)(x+2)(x^2+x+1)(x^2-x+1)*
 
-> Vennma thinks: BarbaAlberta is hiding something: I can't have seen World War I planes fly over us. Then check with Dafnne undercover until you find the combination lock in BarbaAlberta's cabin, bearing the inscription the spectrum of (x−2)(x+2)(x2 +x+1)(x2 −x+1). Heat, the spectrum of a polynomial with integer coefficients for a ghost pirate! exclaims Dafnne. Vennma reflects: I am sure that the spectrum is an integer number and, adding up the spectra of all polynomials of a polynomial p, you get exactly the value of the polynomial p calculated in its degree! Then Dafnne points out: Certainly! And the polynomials that are children of p(x) are those that have whole coefficients that divide the polynomial and whose degree divides the degree of p(x). Surprisingly, each monic polynomial is a child of its own. What is the combination of the BarbaAlberta cabin lock?
+> In BarbaAlberta's cabin [⋆⋆], Vennma thinks: "BarbaAlberta is hiding something: I can't have seen World War I aircraft flying above us." She then investigates below decks with Daφne until they find the combination lock on BarbaAlberta's cabin, bearing the inscription "the spectrum of (x−2)(x+2)(x2 +x+1)(x2 −x+1)". "Appropriate—the spectrum of a polynomial with integer coefficients for a ghost pirate!" exclaims Daφne. Vennma reflects: "I'm certain that the spectrum is an integer, and that, by adding the spectra of all the child polynomials of a polynomial p, one gets exactly the value of the polynomial p evaluated at its degree!" Then Daφne points out: "Of course! And the child polynomials of p(x) are the monic1 polynomials with integer coefficients that divide the polynomial and whose degree divides the degree of p(x). Surprisingly, every monic polynomial is a child of itself." What is the combination for the lock on BarbaAlberta's cabin?
 
-**Answer:** 2530
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2024_finale#q16|src_squadre_2024_finale__Q16]]
 
 
 
@@ -578,11 +643,16 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length XY x100 with beam and circumscribed circumference*
+*XY length x100 with angle bisector and circumscribed circles*
 
-> To find the center of the Permuda Peninsula, you must find in the sky the stars depicted in an ancient painting. The stars A, B, C and D form a quadrilateral in which AB = 6, BC = 12, the diagonal AC = 16, such that the diagonal BD bisects the angle \ ABC, and said E the intersection of the diagonals, we have BE ·ED = 21. The circumferences C1 and C2 are traced, bounded by the triangles ABD and BCD respectively. They intersect AC in G and F respectively. Finally , the DF and DG lines intersect the sides AB and BC respectively in X and Y . Determine the length of XY multiplied by 100.
+> Interrogating the Stars To find the center of the Permuda pentagon, they must locate again in the sky the stars depicted in an ancient painting. Stars A, B, C, and D form a quadrilateral in which AB = 6, BC = 12, the diagonal AC = 16, such that the diagonal BD bisects angle ABC, and, letting E be the intersection of the diagonals, BE · ED = 21. Draw circles C1 and C2, circumscribed respectively about triangles ABD and BCD. They intersect AC at G and F, respectively. Finally, lines DF and DG intersect sides AB and BC at X and Y, respectively. Determine the length of XY multiplied by 100.
 
-**Answer:** 0802
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2024_finale#q17|src_squadre_2024_finale__Q17]]
 
 
 
@@ -611,11 +681,17 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cyclic pentagon perimeter of whole sides, BAE=120*
+*Perimeter of a cyclic pentagon with integer sides, BAE=120*
 
-> As the tide descends, five rocky spots emerge from the water at the summits of an ABCDE pentagon inscribed in a radius of 43 √ 3. AB = BC, DE = EA and all its sides have lengths expressed as integers. In addition \ BAE = 120°. How much is the perimeter of ABCDE?
+> Pentagon of the Permuda [⋆] As the tide recedes, five jagged rock outcrops emerge from the water; these outcrops are located at the vertices of a pentagon ABCDE inscribed in a circle of radius 43 √
+> 3. AB = BC, DE = EA, and all of its sides have lengths
+> expressed by integers. Moreover, \ BAE = 120°. What is the perimeter of ABCDE?
 
-**Answer:** 0417
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2024_finale#q18|src_squadre_2024_finale__Q18]]
 
 
 
@@ -644,11 +720,15 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Intersection of two cones projection area*
+*Area of the projection of the intersection of two cones*
 
-> Captain Barba Alberta explains to his crew that to dominate the seven unchallenged seas they must open a portal to the past. The passage from the present to the past is a cone with a base radius of 10 m that descends into the abyss; the passage from the past to the present is an identical but reversed cone such that its axis is parallel to that of the first, whose top is at the base of the first cone at a distance of 6 m from the center of the base. Given the intersection of the two cones and its projection on the plane containing the base of the first, the portal is activated only by finding the area of the plane region contained in the curve obtained by the projection. Which number will activate the portal?
+> Time bridge [⋆] Captain BarbaAlberta explains to her crew that, in order to rule the seven unchallenged seas, they must open a portal to the past. The passage from the present to the past is a cone with a base radius of 10 m that descends toward the abyss; the passage from the past to the present is an identical but inverted cone such that its axis is parallel to that of the first cone, and its vertex lies on the base of the first cone at a distance of 6 m from the center of the base. Considering the intersection of the two cones and its projection onto the plane containing the base of the first cone, the portal is activated only by finding the area of the planar region contained within the curve obtained by the projection. Which number will activate the portal?
 
-**Answer:** 0062
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2024_finale#q19|src_squadre_2024_finale__Q19]]
 
 
 
@@ -679,11 +759,15 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial pairs with winning strategy in the game (x,y)*
+*Initial pairs with a winning strategy in the game (x,y)*
 
-> The pirate skeletons are still grappling with solid geometry when an alien ship appears in the sky: they're Dafnne and Fredmath masked. Dafnne and BarbaAlberta begin the final duel consisting of this game: it starts with a pair of positive integers (x,y). The move to be made at each turn is to change the present pair (x,y) with a pair (z,y −z), where 1 ≤z ≤x; the second number, however, can never become negative. The winner is the first one who can change the pair so that the second number is 0. For how many initial pairs with 1 ≤x,y ≤100 does Daφne have a winning strategy, knowing that it starts first? 1a polynomial is said to be monic if the coefficient of the maximum degree term is equal to 1. 2024 Team Competition  National Finals  Problem Tests  3/4
+> The Final Showdown The Pirate Skeletons are still grappling with solid geometry when, lo and behold, an alien ship appears in the sky: they are Daφne and Fredmath in disguise. Daφne and BarbaAlberta begin the final duel, which consists of this game: it starts with a pair of positive integers (x,y). Each turn, the move consists of replacing the current pair (x,y) with the pair (z,y −z), where 1 ≤ z ≤ x; however, the second number can never become negative. The first player to manage to change the pair so that the second number is 0 wins. For how many initial pairs with 1 ≤ x,y ≤ 100 does Daφne have a winning strategy, knowing that she goes first? 1 A polynomial is said to be monic if the coefficient of the term of highest degree is equal to 1. Team Competition 2024 – National Final – Problem Statements – 3/4
 
-**Answer:** 9724
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2024_finale#q20|src_squadre_2024_finale__Q20]]
 
 
 
@@ -721,10 +805,14 @@ Maximum odd coefficient in the development of (x+y)^13*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total weights of the dividers of 2310*
+*Sum of the weights of the divisors of 2310*
 
-> The last riddle Scoobe-Zout and his friends unmasked Mr MeeStern-Volmer and his staging: through hypnosis he had enlisted passengers as pirate ghosts to seize the gold hidden in the pentagon. When the adventure is over, to celebrate, Summy Suy Deevysori proposes a final puzzle: calculate the sum of the weights of the positive divisors of 2310, where the weight of a natural number n is the quotient between the square of the number of positive divisors of n and the number n itself. What's the solution to Summy's last riddle? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms. Team competition 2024  National final  Problem tests  4/4
-> 
-> XXV National Final Team Competition  Saturday 4 May 2024 Ministry of Education and Merit Solutions Nr. The problem
+> The Last Riddle: Scooby-Doo and his friends unmasked Mr MeeStern-Volmer and his scheme: through hypnosis, he had recruited the passengers as pirate ghosts in order to seize the gold hidden in the pentagon. Once the adventure was over, to celebrate, Summy Suy Deevysori proposed a final riddle: calculate the sum of the weights of the positive divisors of 2310, where the weight of a natural number n is the quotient obtained by dividing the square of the number of positive divisors of n by n itself. What is the solution to Summy's last riddle? Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms. Team Competition 2024 – National Final – Problem Texts – 4/4
+>
+> XXV National Team Competition National Final – Saturday, 4 May 2024 Ministry of Education and Merit Solutions No. Problem
 
-**Answer:** 0028
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2024_finale#q21|src_squadre_2024_finale__Q21]]

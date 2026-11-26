@@ -48,30 +48,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure of the highlighted angle with three adjacent squares*
+*How many degrees does the highlighted angle measure?*
 
 ![[src_kangourou_2022_cadet_finale__probc1.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.5]
-  % Three squares: top-left (0,1)-(1,2), bottom-left (0,0)-(1,1), bottom-right (1,0)-(2,1)
-  \draw[thick] (0,1) rectangle (1,2);
-  \draw[thick] (0,0) rectangle (1,1);
-  \draw[thick] (1,0) rectangle (2,1);
-  % Diagonal from top-left of top square to bottom-right of bottom-right square
-  \draw[blue] (0,2) -- (2,0);
-  % Diagonal from top-right of top square to bottom-left of bottom-left square
-  \draw[blue] (1,2) -- (0,0);
-  % Arc marking the highlighted angle at intersection
-  \draw[blue] (0.667,1.333) ++(200:0.15) arc(200:315:0.15);
-\end{tikzpicture}
-\end{document}
-```
+> In the picture three squares appear placed side by side. How many degrees does the highlighted angle measure? (see the picture)
 
-> In the figure, three squares appear to be next to each other. How many degrees does the highlighted angle measure? (see figure)
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 90
+[[Quesiti/src_kangourou_2022_cadet_finale#qc1|src_kangourou_2022_cadet_finale__QC1]]
 
 
 
@@ -95,11 +82,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many cyclists have at least lied if sum and 36
+*At least how many of them lied?*
 
-> Ten cyclists finish a race with different arrival times. After a while, a reporter asks each of them to tell them their order of arrival in that race, of course with a number between 1 and 10. The reporter sums up the answers given to him and gets 36. He concludes that some certainly lied - how many, at least?
+> 10 cyclists finish a race with finishing times all different from one another. Some time later, a journalist asks each of them to tell him his own finishing place in that race, of course with a number between 1 and 10. The journalist adds up the answers he is given and obtains 36. He deduces that some of them certainly lied: how many, at least?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 3
+[[Quesiti/src_kangourou_2022_cadet_finale#qc2|src_kangourou_2022_cadet_finale__QC2]]
 
 
 
@@ -123,11 +115,16 @@ How many cyclists have at least lied if sum and 36
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of equilateral triangles joining vertices of a cube*
+*How many of them are equilateral?*
 
-> Of the triangles obtained by joining three vertices of the same cube, how many are equilateral?
+> Of the triangles obtained by joining three vertices of one and the same cube, how many are equilateral?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 8
+[[Quesiti/src_kangourou_2022_cadet_finale#qc3|src_kangourou_2022_cadet_finale__QC3]]
 
 
 
@@ -150,9 +147,15 @@ How many cyclists have at least lied if sum and 36
 <div class="qlang-split" data-lang="en"></div>
 
 
-Each term of the sequence 1007,10017,... divisible by 53*
+*Prove that every integer of the sequence is divisible by 53.*
 
-> Consider the sequence of integers whose first two terms are, in order, $1007$ and $10017$ and each subsequent term is obtained from the previous one by inserting an additional digit $1$ after the first three digits $100$ (so $1007$, $10017$, $100117$, $1001117$, $\ldots$). Prove that every integer of the sequence is divisible by $53$.
+> Consider the sequence of integers whose first two terms are, in order, $1007$ and $10017$, and every later term is obtained from the previous one by inserting one further digit $1$ after the three initial digits $100$ (so $1007$, $10017$, $100117$, $1001117$, $\ldots$). Prove that every integer of the sequence is divisible by $53$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2022_cadet_finale#qc4|src_kangourou_2022_cadet_finale__QC4]]
 
 
 
@@ -176,11 +179,16 @@ Each term of the sequence 1007,10017,... divisible by 53*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum matches so that everyone is a partner of everyone*
+*What is the least number of matches?*
 
-> To train, the 12 players of a basketball team each day are divided into two teams, each of six players, who play a game against each other. What is the minimum number of matches that allows each player to play at least one match in the same team with each other?
+> To train, the 12 players of a basketball team split each day into two teams, each of 6 players, who play a match against each other. What is the least number of matches that lets each player play at least one match on the same team as every other player?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 3
+[[Quesiti/src_kangourou_2022_cadet_finale#qc5|src_kangourou_2022_cadet_finale__QC5]]
 
 
 
@@ -204,8 +212,13 @@ Each term of the sequence 1007,10017,... divisible by 53*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pairs (m,n) with 1/m+1/n=1/2022*
+*For how many ordered pairs does the equation hold?*
 
-> For how many ordered pairs of positive integers do you have$\dfrac{1}{m} + \dfrac{1}{n} = \dfrac{1}{2022}$?
+> For how many ordered pairs $(m, n)$ of positive integers does one have $\dfrac{1}{m} + \dfrac{1}{n} = \dfrac{1}{2022}$?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 27
+[[Quesiti/src_kangourou_2022_cadet_finale#qc6|src_kangourou_2022_cadet_finale__QC6]]

@@ -31,9 +31,18 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Special numbers with digits 0-9 and divisibility*
+*Special numbers with digits 0–9 and divisibility*
 
-> Let's say that three odd numbers are consecutive if they're$c - b = b - a = 2$. We call "special" those integers that have all the same digits and that can be written as the sum of the squares of three consecutive odd numbers. (a) Determine all special four-digit numbers. (b) Are there special numbers of 2000 digits?
+> Let us say that three odd numbers $a < b < c$ are consecutive if $c - b = b - a = 2$. We call "special" those integers that have all digits equal and that can be written as the sum of the squares of three consecutive odd numbers.
+> (a) Determine all special 4-digit numbers.
+> (b) Do special 2000-digit numbers exist?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2000#q01|src_cesenatico_2000__Q01]]
 
 
 
@@ -57,9 +66,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tangent and grid points on square pyramid*
+*Points of tangency and grid on a square pyramid*
 
-> Whether $ABCD$ is a convex quadrilateral; let's put $\widehat{DAB} = \alpha$, $\widehat{ADB} = \beta$, $\widehat{ACB} = \gamma$, $\widehat{DBA} = \delta$. Knowing that $\alpha < 90°$, $\beta + \gamma = 90°$, $\delta + 2\alpha = 180°$, prove that $$(DB + BC)^2 = AB^2 + AC^2.$$
+> Let $ABCD$ be a convex quadrilateral; let $\widehat{DAB} = \alpha$, $\widehat{ADB} = \beta$, $\widehat{ACB} = \gamma$, $\widehat{DBA} = \delta$. Given that $\alpha < 90°$, $\beta + \gamma = 90°$, $\delta + 2\alpha = 180°$, prove that
+> $$(DB + BC)^2 = AB^2 + AC^2.$$
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2000#q02|src_cesenatico_2000__Q02]]
 
 
 
@@ -81,9 +98,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Geocaching sequence Alberto and Barbara*
+*Alberto and Barbara Geocaching Sequence*
 
-> It is given a pyramid having a base $ABCD$ quadrilateral and a vertex $V$, inscribed in a sphere. Both $AD = 2BC$ and the lines obtained by extending $AB$ and $CD$ meet at a point $E$ on the part of the $BC$ segment. Calculate the ratio between the volume of the pyramid having the base $AED$ triangle and summit $V$ and the volume of the given pyramid.
+> A pyramid is given, whose base is a quadrilateral $ABCD$ and whose vertex is $V$; the pyramid is inscribed in a sphere. Let $AD = 2BC$, and let the lines obtained by extending $AB$ and $CD$ meet at a point $E$ on the side of the segment $BC$. Calculate the ratio of the volume of the pyramid whose base is the triangle $AED$ and whose vertex is $V$ to the volume of the given pyramid.
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2000#q03|src_cesenatico_2000__Q03]]
 
 
 
@@ -122,7 +145,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sparse weight of chessboard/lengths*
+*Unequal sums of chessboards/lengths*
 
 ![[src_cesenatico_2000__prob4b.png]]
 ![[src_cesenatico_2000__prob4.png]]
@@ -135,9 +158,19 @@ level: nazionale
 \end{document}
 ```
 
-> Fixed an entire $n > 1$, Alberto and Barbara play the following game: 1. Alberto chooses a positive whole. 2. Barbara chooses an integer greater than 1 that is multiple or submultiply the number of Albert (including the number itself). 3. Alberto returns to Barbara the number you said, possibly adding or subtracting 1.
-> 
-> The game continues by alternately repeating steps 2 and 3. Barbara wins if she can pick $n$ within 50 moves. For what values of$n$can Barbara win against any strategy of Alberto?
+> Given an integer $n > 1$, Alberto and Barbara play the following game:
+> 1. Alberto chooses a positive integer.
+> 2. Barbara chooses an integer greater than 1 that is a multiple or a submultiple of Alberto's number (including the number itself).
+> 3. Alberto returns to Barbara the number Barbara stated, possibly adding or subtracting 1.
+>
+> The game continues by alternately repeating steps 2 and 3. Barbara wins if she manages to choose $n$ within 50 moves. For which values of $n$ can Barbara win against any strategy of Alberto?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2000#q04|src_cesenatico_2000__Q04]]
 
 
 
@@ -160,9 +193,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quadruple inscrutable in circumference, area ratio*
+*Quadruped inscribable in a circle, ratio of areas*
 
-> A welder has length 2 metal bars, and wants to build a grid consisting of $n \times n$ squares on side 1 (e.g. $5 \times 5$ side by side). They are allowed to mark the bars in half and weld them together, but without overlapping or crossing them. What is the minimum number of bars to mark to get the grid? (see figure)
+> A welder has metal bars that are 2 units long and wants to construct a grid made up of $n \times n$ small squares with side length 1 (an example is shown $5 \times 5$ beside). The welder is allowed to mark the bars at their midpoints and weld the bars together, but not to overlap or cross them. What is the minimum number of bars that need to be marked in order to obtain the grid? (see figure)
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2000#q05|src_cesenatico_2000__Q05]]
 
 
 
@@ -187,8 +227,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*P values 1)*
+*P(1) value*
 
-> Whether $p(x)$ is an integer coefficient polynomial such as $p(0) = 0$ and $0 \leq p(1) \leq 10^7$. Knowing that there are two positive integers $a$, $b$ such as $p(a) = 1999$ and $p(b) = 2001$, the possible values of $p(1)$ are determined.
-> 
+> Let $p(x)$ be a polynomial with integer coefficients such that $p(0) = 0$ and $0 \leq p(1) \leq 10^7$. Given that there exist two positive integers $a$, $b$ such that $p(a) = 1999$ and $p(b) = 2001$, determine the possible values of $p(1)$.
+>
 > (Note: note that 1999 is a prime number.)
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_cesenatico_2000#q06|src_cesenatico_2000__Q06]]

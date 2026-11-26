@@ -38,15 +38,18 @@ level: biennio
 
 *Distance travelled by a cyclist at constant speed*
 
-> A cyclist traveling at a constant speed of 5 m/s, how many miles does he travel in three hours?
+> A cyclist travelling at a constant speed of 5 m/s how many kilometres does he cover in 3 hours?
 >
 > - **(A)** 15 km
 > - **(B)** 18 km
 > - **(C)** 50 km
 > - **(D)** 54 km
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1996_biennio#q01|src_archimede_1996_biennio__Q01]]
 
 
 
@@ -76,17 +79,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Proportion of mathematicians given a population ratio*
+*Percentage of mathematicians given a ratio of inhabitants*
 
-> If there's one mathematician in a city for every 320 people, what's the percentage of mathematicians?
+> In a city there is one mathematician for every 320 inhabitants. What is the percentage of mathematicians?
 >
-> - **(A)** 3,2%
-> - **(B)** 0,32%
-> - **(C)** 3,125%
-> - **(D)** 0,3125%
-> - **(E)** None of the previous ones.
+> - **(A)** 3.2%
+> - **(B)** 0.32%
+> - **(C)** 3.125%
+> - **(D)** 0.3125%
+> - **(E)** none of the above.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1996_biennio#q02|src_archimede_1996_biennio__Q02]]
 
 
 
@@ -119,11 +125,11 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of an angle data other angles and alignment*
+*Measure of an angle given other angles and collinearity*
 
-![[src_archimede_1996_biennio__prob3.png]]
-
-> It is known that in the figure next to $\widehat{CAE}$ = 60°, $\widehat{AEB}$ = 20°, $\widehat{ACD}$ = 25°. The points E, D, B are aligned. What is the measurement of $\widehat{BDC}$?
+> It is known that in the figure alongside $\widehat{CAE}$ = 60°,
+> $\widehat{AEB}$ = 20°, $\widehat{ACD}$ = 25°. The points E, D, B
+> are collinear. What is the measure of $\widehat{BDC}$?
 >
 > - **(A)** 75°
 > - **(B)** 85°
@@ -131,7 +137,10 @@ level: biennio
 > - **(D)** 105°
 > - **(E)** the information is insufficient.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1996_biennio#q03|src_archimede_1996_biennio__Q03]]
 
 
 
@@ -161,17 +170,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of linear system empty bucket on the sand*
+*Empty bucket weight from a linear system on sand*
 
-> A bucket full of sand weighs a total of 9 kg, and half-filled with sand weighs 5 kg. How much does the empty bucket weigh?
+> A bucket full of sand weighs 9 kg in total, and half-full of sand weighs 5 kg. How much does the empty bucket weigh?
 >
-> - **(A)** 0,5 kg
+> - **(A)** 0.5 kg
 > - **(B)** 1 kg
 > - **(C)** 2 kg
-> - **(D)** 2,5 kg
+> - **(D)** 2.5 kg
 > - **(E)** the weight of the bucket cannot be determined.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1996_biennio#q04|src_archimede_1996_biennio__Q04]]
 
 
 
@@ -203,9 +215,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time of setting the oven to cook the fish*
+*Time to turn on the oven to cook the fish*
 
-> It takes 15 minutes (fixed) to heat the oven to cook the fish, plus 12 minutes of cooking for every 1/2 kg of fish. Michele buys a two-and-a-half-pound candy bar and wants it to be cooked by exactly 8:00. What time does Michele have to light the oven?
+> To cook the fish, 15 minutes (fixed) are needed to heat the oven, plus 12 minutes of cooking for every 1/2 kg of fish. Michele buys a branzino weighing 2.5 kg and wants it to be cooked exactly at 20:00. At what time must Michele turn on the oven?
 >
 > - **(A)** 18:00
 > - **(B)** 18:45
@@ -213,7 +225,10 @@ level: biennio
 > - **(D)** 18:57
 > - **(E)** 19:00.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1996_biennio#q05|src_archimede_1996_biennio__Q05]]
 
 
 
@@ -249,19 +264,25 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Comparison between areas of three figures in equal squares*
+*Comparison of the areas of three figures in equal squares*
 
-![[src_archimede_1996_biennio__prob6.png]]
-
-> The three squares of the drawing have the same side. What is the relationship between the areas of the three shaded figures? 1 2 3
+> The three squares in the drawing have the same side. In what ratio are the areas
+> of the three shaded figures?
+> 1
+> 2
+> 3
 >
-> - **(A)** The first area is larger than the other two.
-> - **(B)** The second area is larger than the other two.
-> - **(C)** The third area is larger than the other two.
-> - **(D)** The first area is equal to the second, and both are greater than the third.
-> - **(E)** The three areas are the same.
+> - **(A)** The first area is greater than the other two
+> - **(B)** the second area is greater than the other two
+> - **(C)** the third area is greater than the other two
+> - **(D)** the first area is equal to the second, and both are greater than the third
+> - **(E)** the three areas are equal.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1996_biennio#q06|src_archimede_1996_biennio__Q06]]
 
 
 
@@ -292,17 +313,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which sentence is logical and consistent with the facts*
+*Which logical sentence is compatible with the given facts*
 
-> Yesterday I didn't have breakfast and went to school, while the other day I had breakfast and went to school. Which of the following phrases can I say without lying?
+> Yesterday I did not have breakfast and went to school, while the day before yesterday I had breakfast and went to school. Which of the following sentences can I say without lying?
 >
-> - **(A)** When I eat breakfast I never go to school
-> - **(B)** Every time I go to school I don't eat breakfast.
-> - **(C)** Every time I go to school I eat breakfast
-> - **(D)** Sometimes I go to school without breakfast.
-> - **(E)** When I don't have breakfast, I never go to school.
+> - **(A)** Whenever I have breakfast I never go to school
+> - **(B)** every time I go to school I do not have breakfast
+> - **(C)** every time I go to school I have breakfast
+> - **(D)** sometimes I go to school without having breakfast
+> - **(E)** when I do not have breakfast I never go to school.
 
-**Answer:** D
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_1996_biennio#q07|src_archimede_1996_biennio__Q07]]
 
 
 
@@ -333,17 +357,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AD/AB ratio from rectangular similarities*
+*Ratio AD/AB from similarity of rectangles*
 
-> In the rectangle ABCD (vertices indicated in the anti-clockwise direction), E and F are the midpoints of the major sides AD and BC respectively. Knowing that ABFE is similar to ABCD, how much is AD/AB worth?
+> In rectangle ABCD (vertices indicated counterclockwise), E and F are the midpoints of the longer sides AD and BC respectively. Knowing that ABFE is similar to ABCD, what is AD/AB?
 >
 > - **(A)** 7 5
 > - **(B)** 3 2
 > - **(C)** √ 3
 > - **(D)** 2 √ 2
-> - **(E)** The previous answers are all wrong.
+> - **(E)** all of the previous answers are wrong.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1996_biennio#q08|src_archimede_1996_biennio__Q08]]
 
 
 
@@ -375,17 +402,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time on 200 m of a steady speed sprinter*
+*Time over 200 m of a sprinter at constant speed*
 
-> A very regular sprinter when running the 100 meters takes 2.4 seconds for the first 20 meters and runs the remaining 80 meters at a constant speed, completing the race in 10 net seconds. If it went on for another 100 meters without changing its speed what time would it get on the 200 meters?
+> A very regular sprinter, when running the 100 metres, takes 2.4 seconds for the first 20 metres and runs the remaining 80 m at constant speed, finishing the race in exactly 10 seconds. If he continued for another 100 m without changing his speed, what time would he get over 200 m?
 >
-> - **(A)** 18,8 s
+> - **(A)** 18.8 s
 > - **(B)** 19 s
-> - **(C)** 19,5 s
-> - **(D)** 19,6 s
+> - **(C)** 19.5 s
+> - **(D)** 19.6 s
 > - **(E)** 20 s.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1996_biennio#q09|src_archimede_1996_biennio__Q09]]
 
 
 
@@ -432,29 +462,18 @@ level: biennio
 
 *Side of the regular octagon obtained from a square*
 
-![[src_archimede_1996_biennio__prob10.png]]
-
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.2]
-  \draw[dashed] (0,0) rectangle (4,4);
-  \def\a{1.1715}
-  \draw[thick]
-    (\a,0) -- (4-\a,0) -- (4,\a) -- (4,4-\a) --
-    (4-\a,4) -- (\a,4) -- (0,4-\a) -- (0,\a) -- cycle;
-\end{tikzpicture}
-\end{document}
-```
-
-> Cut the four corners of a 10 cm side square to obtain a regular octagon. The side of the octagon is long.
+> From a square of side 10 cm, the four corners are cut so as to obtain a regular octagon. The side of the octagon is
 >
 > - **(A)** 4 cm
 > - **(B)** 10 · ( √ 2 −1) cm
 > - **(C)** 3 √ 2 cm
 > - **(D)** 5 cm
-> - **(E)** The previous answers are all wrong.
+> - **(E)** all of the previous answers are wrong.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1996_biennio#q10|src_archimede_1996_biennio__Q10]]
 
 
 
@@ -487,9 +506,13 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final weight of anguries after evaporation*
+*Final weight of the watermelons after evaporation*
 
-> A batch of anguries of an initial weight of 500 kg is stored for one week in a warehouse. At the beginning, the water content of anguries was 99% by weight. At the end of storage, due to evaporation, this percentage dropped to 98%. How much do the watermelons weigh in the end?
+> A batch of watermelons with an initial weight of 500 kg is stored for a week
+> in a warehouse.
+> At the beginning the percentage of water contained in the watermelons is
+> 99% of their weight, at the end of storage, due to evaporation, this
+> percentage drops to 98%. How much do the watermelons weigh at the end?
 >
 > - **(A)** 250 kg
 > - **(B)** 400 kg
@@ -497,7 +520,10 @@ level: biennio
 > - **(D)** 490 kg
 > - **(E)** 495 kg.
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1996_biennio#q11|src_archimede_1996_biennio__Q11]]
 
 
 
@@ -527,17 +553,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of a rim given area and diagonal ratio*
+*Side of a rhombus given area and ratio of diagonals*
 
-> In an area of 80 cm2, one diagonal is twice as long as the other. How long is the side of the rim?
+> In a rhombus of area 80 cm2, one diagonal is twice as long as the other. How long is the side of the rhombus?
 >
 > - **(A)** 8 cm
 > - **(B)** √ 80 cm
 > - **(C)** 10 cm
 > - **(D)** 20 cm
-> - **(E)** It's impossible to determine.
+> - **(E)** cannot be determined.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1996_biennio#q12|src_archimede_1996_biennio__Q12]]
 
 
 
@@ -575,17 +604,27 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who can guess the date from week to month*
+*Which person guesses the date among weekday, day, month*
 
-> Five people disagree on the date.  Carlo says today is Monday 16 August  Franco says today is Tuesday 16 August  Marco says today is Tuesday 17 September  Roberto says today is Monday 17 August  Tullio says today is Monday 17 September. One is right, but no one is completely wrong, in the sense that everyone says at least one thing correctly (or the day of the week, or the day of the month, or the month). Who's right?
+> Five people disagree about the date.
+> – Carlo says today is Monday 16 August
+> – Franco says today is Tuesday 16 August
+> – Marco says today is Tuesday 17 September
+> – Roberto says today is Monday 17 August
+> – Tullio says today is Monday 17 September.
+> One is right, but no one is “completely” wrong, in the sense that each says at least one thing correctly (either the weekday, or the day of the month, or the month). Who is right?
 >
-> - **(A)** Charles
-> - **(B)** French
-> - **(C)** Mark
-> - **(D)** This is not a problem.
-> - **(E)** - What?
+> - **(A)** Carlo
+> - **(B)** Franco
+> - **(C)** Marco
+> - **(D)** Roberto
+> - **(E)** Tullio.
 
-**Answer:** D
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_1996_biennio#q13|src_archimede_1996_biennio__Q13]]
 
 
 
@@ -615,9 +654,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of product figures of two repeating numbers*
+*Number of digits in the product of two repdigits*
 
-> It 's m = 999 . . . 99 is the number of 77 digits all equal to 9 and is n = 777 . . . 77 is the 99-digit number, all equal to 7. The number of digits of m · n is
+> Let m = 999 . . . 99 be the number formed by 77 digits all equal to 9 and let n = 777 . . . 77
+> be the number formed by 99 digits all equal to 7. The number of digits of m · n is
 >
 > - **(A)** 175
 > - **(B)** 176
@@ -625,7 +665,10 @@ level: biennio
 > - **(D)** 7692
 > - **(E)** 7693.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_1996_biennio#q14|src_archimede_1996_biennio__Q14]]
 
 
 
@@ -658,9 +701,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability of one team winning all matches
+*Probability that a team wins all its games*
 
-> Four basketball teams of equal strength compete in a single round-robin tournament in Italy (each team meets every other team only once). What are the odds of a team winning all their games at the end of the tournament? (Basketball matches cannot end in a draw).
+> Four equally strong basketball teams compete in a single-round-robin tournament (each team meets every other team exactly once). What is the probability that there is a team that, at the end of the tournament, has won all its games? (basketball games cannot end in a draw).
 >
 > - **(A)** 1 6
 > - **(B)** 1 π
@@ -668,7 +711,11 @@ The probability of one team winning all matches
 > - **(D)** 1 2
 > - **(E)** 2 3.
 
-**Answer:** D
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1996_biennio#q15|src_archimede_1996_biennio__Q15]]
 
 
 
@@ -720,28 +767,11 @@ The probability of one team winning all matches
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio between areas of equilateral triangles inscribed*
+*Ratio of the areas of an equilateral triangle and an inscribed equilateral triangle*
 
 ![[src_archimede_1996_biennio__prob16.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=2]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (2,0);
-  \coordinate (C) at (1,1.732);
-  \coordinate (E) at (1,0);
-  \coordinate (D) at (0.5,0.866);
-  \coordinate (F) at (1.5,0.866);
-  \draw[thick] (A)--(B)--(C)--cycle;
-  \draw[thick] (D)--(E)--(F)--cycle;
-  \foreach \p/\n in {A/below left,B/below right,C/above,D/left,E/below,F/right}
-    \node[\n] at (\p) {$\p$};
-\end{tikzpicture}
-\end{document}
-```
-
-> Either ABC is an equilateral triangle and DEF is another equilateral triangle inscribed with AB perpendicular to ED. The ratio between the ABC and DEF areas is
+> Let ABC be an equilateral triangle, and let DEF be another equilateral triangle inscribed in it, with AB perpendicular to ED. The ratio of the area of ABC to the area of DEF is
 >
 > - **(A)** √ 3
 > - **(B)** 2
@@ -749,7 +779,12 @@ The probability of one team winning all matches
 > - **(D)** 3
 > - **(E)** 3 √ 2.
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_1996_biennio#q16|src_archimede_1996_biennio__Q16]]
 
 
 
@@ -785,19 +820,24 @@ The probability of one team winning all matches
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of seams of a ball hexagons and pentagons*
+*Number of seams on a ball of hexagons and pentagons*
 
-![[src_archimede_1996_biennio__prob17.png]]
-
-> A leather ball is obtained by sewing 20 hexagonal leather and 12 pentagonal leather. A seam joins the sides of two adjacent pieces. So the total number of seams is
+> A leather ball is made by sewing 20 pieces of leather
+> in the shape of hexagons and 12 pieces of leather in the shape of pentagons.
+> A seam joins the sides of two adjacent pieces. Then the
+> total number of seams is
 >
 > - **(A)** 90
 > - **(B)** 172
 > - **(C)** 176
 > - **(D)** 180
-> - **(E)** The data on the problem is insufficient.
+> - **(E)** the data of the problem are insufficient.
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1996_biennio#q17|src_archimede_1996_biennio__Q17]]
 
 
 
@@ -828,17 +868,21 @@ The probability of one team winning all matches
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many angles greater than 90 degrees in a quadrilateral*
+*How many angles greater than 90 degrees can a quadrilateral have*
 
-> How many angles greater than 90° can a quadrilateral (unwoven) have?
+> How many angles greater than 90° can a (non-self-intersecting) quadrilateral have?
 >
-> - **(A)** He always has at least one .
-> - **(B)** He has at most one.
-> - **(C)** He has two at most.
-> - **(D)** He has three at most.
-> - **(E)** You can have four.
+> - **(A)** It always has at least one
+> - **(B)** it has at most one
+> - **(C)** it has at most two
+> - **(D)** it has at most three
+> - **(E)** it can have four.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1996_biennio#q18|src_archimede_1996_biennio__Q18]]
 
 
 
@@ -871,17 +915,20 @@ The probability of one team winning all matches
 <div class="qlang-split" data-lang="en"></div>
 
 
-Which bag is most likely given the white ball
+*Which bag is most likely given a white ball*
 
-> In a box there are four bags: the first bag contains 4 white and 3 black balls, the second 2 white and 4 black balls, the third 6 white and 9 black balls, the fourth 5 white and 10 black balls. You extract a random bag, and from it, every time, you extract a ball. Knowing that a white ball was extracted, which bag is more likely to have been picked?
+> In a box there are four bags: the first bag contains 4 white balls and 3 black ones, the second 2 white balls and 4 black ones, the third 6 white balls and 9 black ones, the fourth 5 white balls and 10 black ones. A bag is drawn at random, and from it, always at random, a ball is drawn. Knowing that a white ball has been drawn, which bag is most likely to have been chosen?
 >
 > - **(A)** The first
-> - **(B)** The second
+> - **(B)** the second
 > - **(C)** the third
-> - **(D)** The fourth
-> - **(E)** All the bags have the same probability of being extracted.
+> - **(D)** the fourth
+> - **(E)** all bags have the same probability of having been drawn.
 
-**Answer:** A
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1996_biennio#q19|src_archimede_1996_biennio__Q19]]
 
 
 
@@ -933,30 +980,11 @@ Which bag is most likely given the white ball
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ECD angle in a regular pentagon with equilateral triangle*
+*Convex angle ECD in a regular pentagon with an equilateral triangle*
 
 ![[src_archimede_1996_biennio__prob20.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.8]
-  \coordinate (A)   at (-0.5878,-0.8090);
-  \coordinate (B)   at (0.5878,-0.8090);
-  \coordinate (D)   at (0.9511,0.3090);
-  \coordinate (top) at (0,1.0);
-  \coordinate (E)   at (-0.9511,0.3090);
-  \coordinate (C)   at (0,0.2093);
-  \draw[thick] (A)--(B)--(D)--(top)--(E)--cycle;
-  \draw[thick] (A)--(C)--(B);
-  \draw[dashed] (E)--(C)--(D);
-  \foreach \p/\n in {A/below,B/below,D/right,E/left}
-    \node[\n] at (\p) {$\p$};
-  \node[above right] at (C) {$C$};
-\end{tikzpicture}
-\end{document}
-```
-
-> In the regular pentagon drawn side by side, the ABC triangle is equilateral. How much is the convex angle $\widehat{ECD}$?
+> In the regular pentagon shown alongside, triangle ABC is equilateral. What is the size of the convex angle $\widehat{ECD}$?
 >
 > - **(A)** 120°
 > - **(B)** 144°
@@ -964,4 +992,8 @@ Which bag is most likely given the white ball
 > - **(D)** 168°
 > - **(E)** 170°.
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_1996_biennio#q20|src_archimede_1996_biennio__Q20]]

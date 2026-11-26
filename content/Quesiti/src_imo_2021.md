@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A pile contains two cards with a square sum*
+*One of two piles of cards from n to 2n contains two whose numbers sum to a square*
 
-> It is $n \geq 100$ a whole. Ivan writes the numbers $n, n+1, \ldots, 2n$ each on a different card. Then he mixes these$n+1$cards and divides them into two piles. Demonstrate that at least one of the two stacks contains two cards such that the sum of their numbers is a perfect square.
+> Let $n \geq 100$ be an integer. Ivan writes the numbers $n, n+1, \ldots, 2n$ each on a different card. He then shuffles these $n+1$ cards and divides them into two piles. Prove that at least one of the two piles contains two cards such that the sum of their numbers is a perfect square.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_2021#q01|src_imo_2021__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inequality sums roots |xi-xj|<=|xi+xj|*
+*A double sum of square roots of absolute differences is at most the same sum for sums*
 
-> Demonstrate that the inequality $$\sum_{i=1}^{n} \sum_{j=1}^{n} \sqrt{|x_i - x_j|} \leq \sum_{i=1}^{n} \sum_{j=1}^{n} \sqrt{|x_i + x_j|}$$ applies to all real numbers $x_1, \ldots, x_n$.
+> Prove that the inequality
+> $$\sum_{i=1}^{n} \sum_{j=1}^{n} \sqrt{|x_i - x_j|} \leq \sum_{i=1}^{n} \sum_{j=1}^{n} \sqrt{|x_i + x_j|}$$
+> holds for all real numbers $x_1, \ldots, x_n$.
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_2021#q02|src_imo_2021__Q02]]
 
 
 
@@ -81,9 +97,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BC, EF, O1O2 competitors (internal point D)*
+*The lines BC, EF and O1O2 are concurrent*
 
-> Whether $D$ is an inner point of the acute triangle $ABC$ with $AB > AC$, such that $\angle DAB = \angle CAD$. The $E$ point on the $AC$ segment satisfies $\angle ADE = \angle BCD$, the $F$ point on the $AB$ segment satisfies $\angle FDA = \angle DBC$, and the $X$ point on the $AC$ straight line satisfies $CX = BX$. The circus centers of the triangles $O_1$ and $O_2$ are $ADC$ and $EXD$, respectively. Demonstrate that $BC$, $EF$ and $O_1O_2$ are competitors.
+> Let $D$ be a point inside the acute triangle $ABC$ with $AB > AC$, such that $\angle DAB = \angle CAD$. The point $E$ on the segment $AC$ satisfies $\angle ADE = \angle BCD$, the point $F$ on the segment $AB$ satisfies $\angle FDA = \angle DBC$, and the point $X$ on the line $AC$ satisfies $CX = BX$. Let $O_1$ and $O_2$ be the circumcentres of triangles $ADC$ and $EXD$, respectively. Prove that the lines $BC$, $EF$ and $O_1O_2$ are concurrent.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_2021#q03|src_imo_2021__Q03]]
 
 
 
@@ -106,9 +129,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the sum of the tangent equations AD+DT+TX+XA=...
+*Two paths around a tangential quadrilateral have equal length*
 
-> Both $\Gamma$ a circle with a centre $I$, and $ABCD$ a convex quadrilateral such that each of the segments $AB$, $BC$, $CD$ and $DA$ is tangent to $\Gamma$. If $\Omega$ the circle surrounding the $AIC$ triangle. The extension of $BA$ beyond $A$ is $\Omega$ in $X$, and the extension of $BC$ beyond $C$ is $\Omega$ in $Z$. The lengths of $AD$ and $CD$ beyond $D$ meet $\Omega$ in $Y$ and $T$ respectively. Show that $$AD + DT + TX + XA = CD + DY + YZ + ZC.$$
+> Let $\Gamma$ be a circle with centre $I$, and $ABCD$ a convex quadrilateral such that each of the segments $AB$, $BC$, $CD$ and $DA$ is tangent to $\Gamma$. Let $\Omega$ be the circumcircle of triangle $AIC$. The extension of $BA$ beyond $A$ meets $\Omega$ at $X$, and the extension of $BC$ beyond $C$ meets $\Omega$ at $Z$. The extensions of $AD$ and $CD$ beyond $D$ meet $\Omega$ at $Y$ and $T$ respectively. Prove that
+> $$AD + DT + TX + XA = CD + DY + YZ + ZC.$$
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_2021#q04|src_imo_2021__Q04]]
 
 
 
@@ -133,11 +163,18 @@ This is the sum of the tangent equations AD+DT+TX+XA=...
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Scoyotes and nuts, there is k with a< k< b*
+*A squirrel swapping nuts adjacent to k must once swap a pair straddling k*
 
-> Two squirrels, Folto and Saltarello, have harvested 2021 nuts for the winter. Saltarello counts the nuts from 1 to 2021 and digs 2021 bushes in a circle around their favorite tree. The next morning Saltarello notices that Folto has put a nut in each bush, but without paying attention to the numbering. Unsatisfied, Saltarello decides to reorder the nuts by performing a sequence of 2021 moves. On the $k$-eighth move, Saltarello changes the positions of the two nuts adjacent to the $k$ nut.
-> 
-> Demonstrate that a value of $k$ exists such that, on the $k$-eighth move, Saltarello exchanges two nuts $a$ and $b$ for $a < k < b$.
+> Two squirrels, Bushy and Jumpy, have collected 2021 nuts for the winter. Jumpy numbers the nuts from 1 to 2021 and digs 2021 little holes in a circle around their favourite tree. The next morning Jumpy notices that Bushy has put one nut in each hole, but without regard to the numbering. Displeased, Jumpy decides to rearrange the nuts by performing a sequence of 2021 moves. On the $k$th move, Jumpy swaps the positions of the two nuts adjacent to nut $k$.
+>
+> Prove that there exists a value of $k$ such that, on the $k$th move, Jumpy swaps two nuts $a$ and $b$ with $a < k < b$.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_2021#q05|src_imo_2021__Q05]]
 
 
 
@@ -160,6 +197,13 @@ This is the sum of the tangent equations AD+DT+TX+XA=...
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A contains at least m/2 elements (sub-sets of sum m^k)*
+*A finite set of integers with subset sums m, m², ..., m^m has at least m/2 elements*
 
-> They are $m \geq 2$ an integer, $A$ a finite set of integers (not necessarily positive), and $B_1, B_2, B_3, \ldots, B_m$ subsets of $A$. For each $k = 1, 2, \ldots, m$ the sum of the elements of $B_k$ shall be $m^k$. Demonstrate that $A$ contains at least $\dfrac{m}{2}$ elements.
+> Let $m \geq 2$ be an integer, $A$ a finite set of integers (not necessarily positive), and $B_1, B_2, B_3, \ldots, B_m$ subsets of $A$. Suppose that for every $k = 1, 2, \ldots, m$ the sum of the elements of $B_k$ is $m^k$. Prove that $A$ contains at least $\dfrac{m}{2}$ elements.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_2021#q06|src_imo_2021__Q06]]

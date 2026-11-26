@@ -35,11 +35,20 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Finding alpha with 2^alpha=4^(4^4)*
+*Find α such that 2^α = 4^(4^4)*
 
-> Find α so that 2α is 444. A α = 512 B α = 8 C α = 128 D α = 256 E α = 232 F α = 216
+> Find α such that 2^α = 4^(4^4).
+> A α = 512
+> B α = 8
+> C α = 128
+> D α = 256
+> E α = 232
+> F α = 216
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2015_classiprime#q01|src_archimede_2015_classiprime__Q01]]
 
 
 
@@ -76,11 +85,27 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interpretation of flat fraction as nested divisions*
+*Interpretation of a fraction with planes as nested divisions*
 
-> The value of x is as follows: x = A B C D . Then: A x = A: (B: C: D) B x = A: (B: (C: D) C x = A: B: C: D D x = A: B: (C: D) And x = A: (B: C) D F None of the other answers are accurate
+> The value of x is the following:
+> x =
+> A
+> B
+> C
+> D
+> .
+> Then:
+> A x = A : (B : C : D)
+> B x = A : (B : (C : D))
+> C x = A : B : C : D
+> D x = A : B : (C : D)
+> E x = A : (B : C) : D
+> F none of the other answers is correct
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2015_classiprime#q02|src_archimede_2015_classiprime__Q02]]
 
 
 
@@ -111,11 +136,22 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*CB side of isosceles triangle given height and perimeter ratio*
+*Side CB of an isosceles triangle given the ratio of heights and the perimeter*
 
-> In the triangle ABC, isosceles on the base AB, the height relative to AB is twice that relative to the side CB. If the perimeter of the triangle is 120 cm, how big is the CB side? A 48cm B 36cm C 24cm D 50cm E 45cm F 42cm
+> In triangle ABC, isosceles on base AB, the altitude relative to AB is
+> twice that relative to side CB. If the perimeter of the triangle is 120 cm
+> how long is side CB?
+> A 48 cm
+> B 36 cm
+> C 24 cm
+> D 50 cm
+> E 45 cm
+> F 42 cm
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2015_classiprime#q03|src_archimede_2015_classiprime__Q03]]
 
 
 
@@ -149,11 +185,23 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Full figure in sentence with division 71∗/17 remaining 14*
+*Missing digit in a sentence with division 71*/17 remainder 14*
 
-> In the following sentence (taken from a well-known Kenoncè song) a figure is unreadable and is replaced by an asterisk: 71 gatti, in line for 17, with the rest of 14 Knowing that the sentence is correct from a mathematical point of view, find the missing figure. A 1 B 2 C 6 D 0 E 3 F data are insufficient to answer
+> In the following sentence (taken from a well-known song from the island of Kenoncè) one digit is not legible and is replaced by an asterisk:
+> 71∗gatti, in fila per 17, col resto di 14
+> Knowing that the sentence is mathematically correct, find the missing digit.
+> A 1
+> B 2
+> C 6
+> D 0
+> E 3
+> F the data are insufficient to answer
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2015_classiprime#q04|src_archimede_2015_classiprime__Q04]]
 
 
 
@@ -189,11 +237,24 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum average of 5 unknown final rounded average data*
+*Minimum average of the 5 unknown grades given the final rounded average*
 
-> Professor Facciocomipare doesn't usually tell the students the grades of the questions, so Claudia only knows the grades of two of the seven questions she asked: they're a 7 and a 9. You also know that questions are always numbered and that Prof. It puts the score on the page by doing the arithmetic mean of the scores and rounding it to the nearest integer. If he ends up with eight on the page, what's the minimum value that he can have on the average of five not-knowing votes? A 7, 4 B 7, 2 C 7, 5 D 7, 6 E 7, 8 F None of the other answers are correct
+> Professor Facciocomemipare usually does not tell the students the grades
+> of the quizzes, so Claudia knows the grades of only 2 of the 7 quizzes
+> she took: they are a 7 and a 9. Moreover, she knows that the quiz grades
+> are always integers and that the teacher puts the grade in the report card by taking the arithmetic mean of the grades and rounding to the nearest integer. If at the end she gets 8 in the report card, what is the minimum value that the average of the 5 grades she does not know can have?
+> A 7, 4
+> B 7, 2
+> C 7, 5
+> D 7, 6
+> E 7, 8
+> F none of the other answers is
+> correct
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2015_classiprime#q05|src_archimede_2015_classiprime__Q05]]
 
 
 
@@ -227,11 +288,23 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of the first container after welding (volumes of prisms)*
+*Height of the first container after pouring (prism volumes)*
 
-> A rectangular prism-shaped vessel with a square base is tall and narrow and full of water up to the edge. If all the water is poured into another container of the same shape, but with a square base with the three-dimensional side, the water level in the new container reaches the height of 12 mm. How tall was the first container? A 108mm B 36mm C 48mm D 324mm E 144mm F It cannot be determined if the sides of the bases are not known
+> A container in the shape of a right prism with a square base is tall and narrow
+> and is full of water to the brim. If all the water is poured into another container
+> of identical shape, but with a square base whose side has a measure three times as large, in
+> the new container the water level reaches the height of 12mm. How tall was the first container?
+> A 108mm
+> B 36mm
+> C 48mm
+> D 324mm
+> E 144mm
+> F Not determinable unless the base sides are known
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2015_classiprime#q06|src_archimede_2015_classiprime__Q06]]
 
 
 
@@ -288,38 +361,23 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the smallest equilateral triangle containing hexagon*
+*Area of the smallest equilateral triangle containing a regular hexagon of area 144 cm2*
 
 ![[src_archimede_2015_classiprime__prob7.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.9]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (6,0);
-  \coordinate (C) at (3,5.196);
-  \coordinate (P1) at (2,0);
-  \coordinate (P2) at (4,0);
-  \coordinate (P3) at (5,1.732);
-  \coordinate (P4) at (4,3.464);
-  \coordinate (P5) at (2,3.464);
-  \coordinate (P6) at (1,1.732);
-  \fill[gray!40] (P1)--(P2)--(P3)--(P4)--(P5)--(P6)--cycle;
-  \fill[gray!15] (A)--(P1)--(P6)--cycle;
-  \fill[gray!15] (B)--(P2)--(P3)--cycle;
-  \fill[gray!15] (C)--(P4)--(P5)--cycle;
-  \draw (A)--(B)--(C)--cycle;
-  \draw (P1)--(P2)--(P3)--(P4)--(P5)--(P6)--cycle;
-  \draw (P6)--(P3);
-  \draw (P1)--(P4);
-  \draw (P2)--(P5);
-\end{tikzpicture}
-\end{document}
-```
+> A regular hexagon has area 144cm2. What is the area of the smallest equilateral triangle that contains it?
+> A 216cm2
+> B 192cm2
+> C 288cm2
+> D 180cm2
+> E 240cm2
+> F 256cm2
 
-> A regular hexagon has an area of 144 cm2. What is the area of the smallest equilateral triangle that contains it? A 216cm2 B 192cm2 C 288cm2 D 180cm2 E 240cm2 F 256cm2
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
-**Answer:** A
+[[Quesiti/src_archimede_2015_classiprime#q07|src_archimede_2015_classiprime__Q07]]
 
 
 
@@ -356,11 +414,24 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to divide 6 days between institutions without consecutive days*
+*Ways of dividing 6 days among institutions with no consecutive days*
 
-> In Kenoncè there are serious problems with school building: 2 out of 3 schools are unusable. To solve the problem, the Prime Minister has decreed: (a) Each institution will reduce its hours to just two days a week, each of which will be 15 hours of lessons. (b) Each healthy school building will be used by 3 institutions, each of which will have two days a week. How many different ways can three institutions divide the days from Monday to Saturday so that the days of the same institution are never consecutive? A 30 B 89 C 10 D 12 E 24 F 18
+> On the island of Kenoncè there are very serious problems of school buildings: 2 out of 3 are unusable. To solve the problem, the prime minister has decreed:
+> (a) Each institution will compress its schedule into only two days of the week, each of which will have 15 hours of lessons.
+> (b) Each healthy school building will be used by 3 institutions, each of which will have it for two days of the week.
+> In how many different ways can three institutions divide the days from Monday to Saturday, so that the days occupied by the same institution are never consecutive?
+> A 30
+> B 89
+> C 10
+> D 12
+> E 24
+> F 18
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2015_classiprime#q08|src_archimede_2015_classiprime__Q08]]
 
 
 
@@ -393,11 +464,21 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distinct colours of a white/black cube without rotations*
+*Distinct colourings of a black-and-white cube up to rotations*
 
-> How many different ways can I paint a cube, coloring each face white or black? (two colours are to be considered identical, and therefore counted only once, if one can be obtained from the other by rotating the cube in space) A 10 B 6 C 8 D 9 E 24 F 16
+> In how many different ways can I paint a cube, colouring each face white or black? (Two colourings are to be considered identical, and therefore counted only once, if one can be obtained from the other by rotating the cube in space)
+> A 10
+> B 6
+> C 8
+> D 9
+> E 24
+> F 16
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2015_classiprime#q09|src_archimede_2015_classiprime__Q09]]
 
 
 
@@ -427,11 +508,21 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the product of neighbouring integers (difference of products)*
+*Value of a product of nearby integers (difference of products)*
 
-> The value of the expression: 1234567896·1234567894−1234567899·1234567891. A 15 B 0 C 10 D 6 E 5 F 31
+> How much does the expression equal: 1234567896·1234567894−1234567899·1234567891.
+> A 15
+> B 0
+> C 10
+> D 6
+> E 5
+> F 31
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2015_classiprime#q10|src_archimede_2015_classiprime__Q10]]
 
 
 
@@ -465,11 +556,21 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Composition of the sixth degree polynomial into integers*
+*Factorisation of a degree-six polynomial into integer factors*
 
-> When the polynomial p(x) = x6+3x5+3x4+9x3+24x2+24x+8 is broken down as the product of polynomials with lower integer coefficients, not further broken down, we get: A 4 polynomials of 1°grade and one of 2°grade B 6 polynomials of 1°grade C 3 polynomials of 1°grade and one of 3°grade D 2 polynomials of 1°grade and 2 of 2°grade E 2 polynomials of 1°grade and one of 4°grade F none of the other answers is accurate
+> When the polynomial p(x) = x6+3x5+3x4+9x3+24x2+24x+8 is factorised as a product of lower-degree polynomials with integer coefficients that are not further factorisable, one obtains:
+> A 4 polynomials of degree 1 and one of degree 2
+> B 6 polynomials of degree 1
+> C 3 polynomials of degree 1 and one of degree 3
+> D 2 polynomials of degree 1 and 2 of degree 2
+> E 2 polynomials of degree 1 and one of degree 4
+> F none of the other answers is correct
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2015_classiprime#q11|src_archimede_2015_classiprime__Q11]]
 
 
 
@@ -500,11 +601,21 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What are the distinct prime numbers dividing 1122221100*
+*How many distinct primes divide 1122221100*
 
-> How many different prime numbers divide the number 1122221100? (remember that 1 is NOT a prime number) A 8 B 7 C less than 7 D 9 E 10 F more than 10
+> How many different prime numbers divide the number 1122221100? (remember that 1 is NOT a prime number)
+> A 8
+> B 7
+> C fewer than 7
+> D 9
+> E 10
+> F more than 10
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2015_classiprime#q12|src_archimede_2015_classiprime__Q12]]
 
 
 
@@ -540,11 +651,23 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*cube of cubes divided into equal cubes*
+*a cube of cubes divided into equal cubes*
 
-> In a nursery school on Kenoncè Island, 23 children are enrolled, all in the same classroom. One day, Luca, to pass the time, builds a big cube using exactly all the wooden cubes in school. Then the teacher, in order to make her companions play the same game, divides the entire cubes into equal parts among all the children (including Luke) and orders each of them to build a cube using exactly all the cubes they have received. Knowing that the children are able to complete the assignment, counting the number of absentees that day. A 15 B 7 C 10 D 3 E 9 F the data provided are insufficient
+> At a Kenoncè island kindergarten, 23 children are enrolled and are all grouped together in the same classroom. One day Luca, to pass the time,
+> builds a large cube using exactly all the wooden cubes that are at school. Then the teacher, so that her classmates can play the same game too, divides the totality of the cubes into equal parts among all the children (Luca included) and orders each of them to build a cube using exactly all the cubes they received.
+> Knowing that the children manage to complete the assigned task, say how many were absent that day.
+> A 15
+> B 7
+> C 10
+> D 3
+> E 9
+> F the data provided are insufficient
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2015_classiprime#q13|src_archimede_2015_classiprime__Q13]]
 
 
 
@@ -585,11 +708,25 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Foreign tourist share given total percentage growth*
+*Share of foreign tourists given total percentage growth*
 
-> After the Great Depression, tourists have returned to the island of Kenoncè. Compared to the previous year, foreign tourists grew by 5% and domestic tourists by 1%. This led to a 2.5% increase in the total number of tourists. What was the share of foreign tourists compared to the total number of tourists in the previous year? A 3 8 B 1 3 C 1 2 D 2 5 E 3 7 F not uniquely determinable from the data provided
+> After the Great Crisis, on the island of Kenoncè
+> tourists started growing again.
+> Compared with the previous year, foreign tourists grew by 5% while domestic ones grew by 1%.
+> This determined a growth of 2.5% in the total number
+> of tourists.
+> What was the share of foreign tourists relative to the total number of tourists the year before?
+> A 3/8
+> B 1/3
+> C 1/2
+> D 2/5
+> E 3/7
+> F not uniquely determinable from the data provided alone
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2015_classiprime#q14|src_archimede_2015_classiprime__Q14]]
 
 
 
@@ -627,11 +764,24 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Student most likely given page choice and number sum*
+*Student with the greatest probability given a chosen page and the sum of its digits*
 
-> In a high school on Kenoncè Island, Professor Bocciotutti chooses who to interview from among her 21 pupils. (a) She randomly opens a 288-page book (numbered 1 to 288), chooses one of the two pages on which she opened it and checks the number N. (b) If N ≤21 takes the student marked with the number N from the register list, otherwise it replaces N with the sum of its digits and repeats operation (b). What is the number of students most likely to be selected? A 10 B 9 C 11 D 8 and 12 F all students are equally likely to be selected
+> In a school on the island of Kenoncè, to choose who to question among her 21 students, Professor Bocciotutti does this:
+> (a) She opens a book of 288 pages at random (numbered from 1 to 288), chooses at random one of the two pages it is open to, and checks its number N.
+> (b) If N ≤ 21 she takes from the register list the student marked with number N; otherwise she replaces N with the sum of its digits and repeats operation (b).
+> What is the number of the student who has the greatest probability of being chosen?
+> A 10
+> B 9
+> C 11
+> D 8
+> E 12
+> F all students have the same probability of being chosen
 
-**Answer:** A
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2015_classiprime#q15|src_archimede_2015_classiprime__Q15]]
 
 
 
@@ -664,9 +814,19 @@ level: Classi Prime
 
 *list of integers with sum m and product 720*
 
-> Find the smallest positive integer m such that there is a list of positive integers whose sum is m and whose product is 720. A m = 19 B m = 16 C m = 17 D m = 18 E m = 20 F m = 21
+> Find the smallest positive integer m such that there exists a list of positive integers whose sum is m and whose product is 720.
+> A m = 19
+> B m = 16
+> C m = 17
+> D m = 18
+> E m = 20
+> F m = 21
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2015_classiprime#q16|src_archimede_2015_classiprime__Q16]]
 
 
 
@@ -700,11 +860,21 @@ level: Classi Prime
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many Italian tournaments can all end up with equal scores?
+*How many round-robin tournaments can all end with everyone on the same score*
 
-> In an Italian tennis tournament each player plays each other exactly once and earns 1 point if he wins and 0 points if he loses. Obviously, a tennis match can't end evenly. On Kenoncè Island every year there are 5 tournaments, with 8, 5, 17, 15 and 16 players participating. How many of them, at most, can end up with all the players on the same score? A 3 B 1 C 2 D none E 4 F all
+> In a tennis round-robin tournament, each player plays every other player exactly once and earns 1 point for a win and 0 points for a loss. Obviously, a tennis match cannot end in a draw. On the island of Kenoncè, every year 5 tournaments are played, with respectively 8, 5, 17, 15 and 16 players. At most, how many of them can end with all players at the same score?
+> A 3
+> B 1
+> C 2
+> D none
+> E 4
+> F all
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2015_classiprime#q17|src_archimede_2015_classiprime__Q17]]
 
 
 
@@ -742,10 +912,21 @@ How many Italian tournaments can all end up with equal scores?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum N represented by two octahedra of digits*
+*The largest number N representable with two octahedra of digits*
 
-> On the six faces of a cube, I'll distribute the numbers from 1 to 6. On those in another cube, I'll distribute the digits 0, 1, 2, 7, 8, and 9. This way, using the two cubes for the numbers, I can represent all the numbers from 1 to 32, but not 33. If instead of cubes we use octahedra with the digits appropriately distributed on the faces, what is the largest number N of 2 digits such that all integers from 1 to N are represented by using the two octahedra for the digits? A 76 B 43 C 54 D 65 E 97 F 80 1
+> On the 6 faces of a cube I distribute the digits from 1 to 6. On those of another cube I distribute the digits 0, 1, 2, 7, 8 and 9. In this way, using the two cubes for the digits, I can represent all the numbers from 1 to 32, but not 33. If instead of cubes we used octahedra with the digits distributed appropriately on the faces, what is the largest two-digit number N such that all the integers from 1 to N are representable using the two octahedra for the digits?
+> A 76
+> B 43
+> C 54
+> D 65
+> E 97
+> F 80
+> 1
 > 
 > Solutions
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2015_classiprime#q18|src_archimede_2015_classiprime__Q18]]

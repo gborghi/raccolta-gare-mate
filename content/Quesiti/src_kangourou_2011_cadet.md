@@ -34,11 +34,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of the five numbers is the largest*
+*Which of the five numbers is the largest?*
 
-> Out of the next five, which is the largest number? A) 20111 B) 12011 C) 1 x 2011 D) 1 + 2011 E) 1 : 2011
+> Among the five following options, which number is the largest?
+> A) 20111
+> B) 12011
+> C) 1 x 2011
+> D) 1 + 2011
+> E) 1 : 2011
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_cadet#q01|src_kangourou_2011_cadet__Q01]]
 
 
 
@@ -68,14 +77,18 @@ level: kangourou
 
 *result*
 
-> My calculator divides instead of multiplying and subtracts instead of adding. If I type (12 x 3) + (4 x 2), what result do I get? 
+> My calculator divides instead of multiplying and subtracts instead of adding. If I enter (12 x 3) + (4 x 2), what result do I get?
 > A) 2
 > B) 6
 > C) 12
 > D) 24
 > E) 30
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_cadet#q02|src_kangourou_2011_cadet__Q02]]
 
 
 
@@ -105,11 +118,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many minutes will the clock show the digits 0, 1, 1, 2 again?*
+*In how many minutes will the clock display 0,1,1,2 again?*
 
-> My digital clock just went off from 8:10 to 8:11. In how many minutes will it again show an hour of the digits 0, 1, 1, 2 arranged in some order? A) 40 B) 45 C) 50 D) 55 E) 60
+> My digital clock has just ticked from 20:10 to 20:11. In how many minutes will it again display a time made up of the digits 0, 1, 1, 2 arranged in some order?
+> A) 40
+> B) 45
+> C) 50
+> D) 55
+> E) 60
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_cadet#q03|src_kangourou_2011_cadet__Q03]]
 
 
 
@@ -154,7 +177,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between large and intermediate square areas*
+*Difference in areas between the large and intermediate squares*
 
 ![[src_kangourou_2011_cadet__prob4.png]]
 
@@ -168,9 +191,19 @@ level: kangourou
 \end{document}
 ```
 
-> The figure shows three squares: the intermediate square is obtained by joining the middle points of the sides of the larger square and the smaller square by joining the middle points of the sides of the intermediate square. The area of the smallest square is 6 cm2. What is the difference between the area, in square centimetres, of the large square and that of the middle square? A) 6 B) 9 C) 12 D) 15 E) 18
+> The figure shows three squares: the middle square
+> It is obtained by joining the midpoints of the sides of the largest square and the smallest square, and by joining the midpoints of the sides of the intermediate square. The area of the smallest square is 6 cm². What is the difference, in square centimetres, between the area of the large square and the area of the intermediate square?
+> A) 6
+> B) 9
+> C) 12
+> D) 15
+> E) 18
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_cadet#q04|src_kangourou_2011_cadet__Q04]]
 
 
 
@@ -201,11 +234,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Score of the game won by the Kang team
+*Score of the match won by the Kang team*
 
-> In a football tournament, the Kang team collectively scored three goals and conceded one. In doing so, he won one game, drew one and lost one. What was the score of the game it won? A) 3 - 0 B) 2 - 0 C) 1 - 0 D) 3 - 1 E) 2 - 1
+> In a football tournament, the Kang team scored three goals in total and conceded one. In doing so, they won one match, drew one match, and lost one match. What was the score of the match they won?
+> A) 3 - 0
+> B) 2 - 0
+> C) 1 - 0
+> D) 3 - 1
+> E) 2 - 1
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_cadet#q05|src_kangourou_2011_cadet__Q05]]
 
 
 
@@ -245,20 +288,22 @@ Score of the game won by the Kang team
 
 *How many mice did Felix catch on the third day?*
 
-> Felix the cat caught 14 mice in 3 days. Each day after the first, he caught more mice than on the previous day. On the third day, he caught fewer mice than the total from the first two days combined. How many mice did Felix catch on the third day?
+> The cat Felix caught 14 mice in 3 days. Each day after the first, he caught more mice than on the previous day. On the third day, he caught fewer mice than on the first two days combined. How many mice did Felix catch on the third day?
+> A) 5
+> B) 6
+> C) 7
+> D) 8
+> E) 9
+> Testi_11Mat.qxp 19-05-2011 21:24 Page 16
 >
-> (A) 5
-> (B) 6
-> (C) 7
-> (D) 8
-> (E) 9
-> 
-> Page
-> Page 17
-> 17
-> Kang 2011
+> Pag. Pag. 17 17 Kang 201 Kang 2011
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_cadet#q06|src_kangourou_2011_cadet__Q06]]
 
 
 
@@ -287,11 +332,20 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spectators certainly Italian male and vegetarian*
+*Spectators who are certainly Italian males and vegetarians*
 
-> In a theatre there are 100 spectators: 50 of them are Italians, 60 are men, 90 are vegetarians. How many spectators in that theater can you be sure of being Italian, male and vegetarian at the same time? A) 0 B) 1 C) 10 D) 40 E) 50
+> In a theater, there are 100 spectators: 50 of them are Italian, 60 are male, and 90 are vegetarian. How many of the spectators present in that theater can we be certain are at the same time Italian, male, and vegetarian?
+> A) 0
+> B) 1
+> C) 10
+> D) 40
+> E) 50
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_cadet#q07|src_kangourou_2011_cadet__Q07]]
 
 
 
@@ -320,11 +374,20 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which cannot be an area of triangle with sides 6 and 8*
+*Which cannot be the area of a triangle with sides 6 and 8?*
 
-> Which of the following numbers cannot be the area, in square metres, of a triangle whose two sides are 6 and 8 metres long? A) 20 B) 24 C) 19,1 D) 25 E) 5
+> Which of the following numbers cannot be the area, in square metres, of a triangle whose two sides are 6 and 8 metres long?
+> A) 20 
+> B) 24
+> C) 19,1
+> D) 25
+> E) 5
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_cadet#q08|src_kangourou_2011_cadet__Q08]]
 
 
 
@@ -354,17 +417,20 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the largest and smallest three-digit numbers with digit sum 8*
+*Sum of the largest and smallest 3-digit numbers whose digits sum to 8*
 
-> Among all three-digit positive integers (i.e., numbers whose hundreds digit is not 0) such that the sum of the digits is 8, choose the largest and the smallest. What is their sum?
->
-> (A) 709
-> (B) 916
-> (C) 808
-> (D) 907
-> (E) 781
+> Among all positive three-digit integers with significant digits (that is, integers whose hundreds digit is not 0) such that the sum of their digits is 8, we select the largest and the smallest. What is their sum?
+> A) 709
+> B) 916
+> C) 808
+> D) 907
+> E) 781
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_cadet#q09|src_kangourou_2011_cadet__Q09]]
 
 
 
@@ -410,7 +476,7 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many ways can the L-shaped figure be made symmetric*
+*In how many ways can the L-shaped figure be made symmetric?*
 
 ![[src_kangourou_2011_cadet__prob10.png]]
 
@@ -425,9 +491,21 @@ Score of the game won by the Kang team
 \end{document}
 ```
 
-> The drawing shows an L formed by four equal squares. You want to add a square so you get a shape that's symmetrical to some straight line. How many ways can the goal be achieved? A) 1 B) 2 C) 3 D) 4 E) 0 Questions from N. 11 to N. 20 are worth 4 points each.
+> The drawing shows an "ELLE" made up of four squares.
+> Equal. One wants to add a square so as to obtain a shape that is symmetric with respect to some line. In how many ways can the goal be achieved?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 0
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_cadet#q10|src_kangourou_2011_cadet__Q10]]
 
 
 
@@ -455,16 +533,20 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of (2011x2.011)/(201.1x20.11)*
+*Value of (2011x2,011)/(201,1x20,11)*
 
-> equals
+> Okay
 > A) 0.01
 > B) 0.1
 > C) 1
 > D) 10
 > E) 100
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_cadet#q11|src_kangourou_2011_cadet__Q11]]
 
 
 
@@ -495,11 +577,21 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max common points at more than one of four two-to-two tangent circumferences*
+*Maximum number of common points of more than one of 4 circles mutually tangent in pairs*
 
-> On the board, I want to draw four circles so that, no matter how you choose two, they have one and only one point in common. What is the largest number of points in the plane that can belong to more than one circumference? A) 1 B) 4 C) 5 D) 6 E) 8
+> On the blackboard, I want to draw 4 circles so that, no matter which two are chosen, they have exactly one point in common. What is the greatest number of points in the plane that can belong to more than one circle?
+> A) 1
+> B) 4
+> C) 5
+> D) 6
+> E) 8
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_cadet#q12|src_kangourou_2011_cadet__Q12]]
 
 
 
@@ -530,11 +622,21 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many F points give a right DEF triangle area 1*
+*How many F points yield a right-angled triangle DEF with area 1?*
 
-> On the board, Nadia has mapped a DE segment of length 2. How many different F points can you mark on the board if you want the DEF triangle to be rectangular and have area 1? A) 2 B) 4 C) 6 D) 8 E) 10
+> On the blackboard, Nadia drew line segment DE with length 2. How many different points F can she mark on the blackboard if she wants triangle DEF to be right-angled and to have an area of 1?
+> A) 2
+> B) 4
+> C) 6
+> D) 8
+> E) 10
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_cadet#q13|src_kangourou_2011_cadet__Q13]]
 
 
 
@@ -568,11 +670,20 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What pair to remove without changing the mean*
+*Which pair to remove without changing the mean?*
 
-> Consider the numbers 17, 13, 5, 10, 14, 9, 12, 16. Which of the following number pairs can you remove from this list without changing the mean (arithmetic)? A) 12 and 17 B) 5 and 17 C) 9 and 16 D) 10 and 12 E) 14 and 10 2011 x 2,011 201,1 x 20,11 Text_11Mat.qxp 19-05-2011 21:24 Page 17
+> Consider the numbers 17, 13, 5, 10, 14, 9, 12, 16. Which of the following pairs of numbers can you remove from this list without changing the arithmetic mean?
+> A) 12 e 17
+> B) 5 e 17            C) 9 e 16        D) 10 e 12      E) 14 e 10
+> 2011 x 2,011 201,1 x 20,11 Testi_11Mat.qxp 19-05-2011 21:24 Page 17
+>
+> Pag. Pag. 18 18 Kang 201 Kang 2011
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_cadet#q14|src_kangourou_2011_cadet__Q14]]
 
 
 
@@ -608,13 +719,24 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Region X colour on a 4 colour map*
+*Color of region X on a 4-color map*
 
 ![[src_kangourou_2011_cadet__prob15.png]]
 
-> Each region of the map you see in the figure should be colored with one of the following four colors: red (R), green (V), blue (B), yellow (G). Each pair of adjacent regions must be given different colors. Three regions have already been assigned colour. What colour shall be assigned to the region marked with X? A) Only red B) Only blue C) Only green D) Only yellow E) Either blue or red
+> Each region of the map that you see in the figure must
+> It must be colored with one of the following four colors: red (R), green (V), blue (B), yellow (G). Each pair of adjacent regions must receive different colors. Three regions have already been assigned a color. Which color must be assigned to the region denoted by X?
+> A) Only red
+> B) Only blue
+> C) Only green
+> D) Only the yellow one
+> E) Either blue or red, whichever one
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_cadet#q15|src_kangourou_2011_cadet__Q15]]
 
 
 
@@ -658,7 +780,7 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the square given sum of perimeter of 6 rectangles*
+*Area of the given square equals the sum of the perimeters of 6 rectangles*
 
 ![[src_kangourou_2011_cadet__prob16.png]]
 
@@ -675,9 +797,19 @@ Score of the game won by the Kang team
 \end{document}
 ```
 
-> A square has been divided into six rectangles as suggested by the figure. The sum of the lengths of the perimeter of the six rectangles is 120 cm. What is the original square's area in square centimeters? A) 48 B) 64 C) 110, 25 D) 144 E) 256
+> A square has been divided into six rectangles like
+> Suggested by the figure. The sum of the perimeters of the six rectangles is 120 cm. What is the area of the original square, in square centimetres?
+> A) 48
+> B) 64
+> C) 110, 25
+> D) 144
+> E) 256
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_cadet#q16|src_kangourou_2011_cadet__Q16]]
 
 
 
@@ -707,11 +839,21 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To which number to add 1 to minimize the product*
+*To which number should 1 be added to minimize the product?*
 
-> Four positive numbers a, b, c, d are such that a < b < c < d. You have to add 1 to one of them so that, multiplying between them the three remaining unchanged numbers and the one increased by 1, the result is as small as possible. Which of the four numbers do you have to add 1 to? (a) (b) (c) (d) (e) (b) or (c)
+> Four positive numbers a, b, c, d satisfy a < b < c < d. You must add 1 to one of them so that, when the three numbers that remain unchanged are multiplied by the number increased by 1, the resulting product is as small as possible. To which of the four numbers must you add 1?
+> A) a
+> B) b
+> C) c
+> D) d
+> E) b or c
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_cadet#q17|src_kangourou_2011_cadet__Q17]]
 
 
 
@@ -743,13 +885,18 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which net of the cube corresponds to the black line*
+*Which development of the cube corresponds to the black line?*
 
 ![[src_kangourou_2011_cadet__prob18.png]]
 
-> We built a cube from its net on a cardboard cut into a cross like the one drawn next to it. Then we drew a black line on the surface of the cube that divides it into two identical parts (see figure). If we go back to the net of the cube, which of the figures shown below will we see on the cardboard?
+> We built a cube starting from the
+> Its net on a piece of cardstock cut in the shape of a cross like the one drawn alongside. We then drew a black line on the surface of the cube, dividing it into two identical parts (see the figure). If we go back to the cube's net, which of the figures shown below will we see on the cardstock?
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_cadet#q18|src_kangourou_2011_cadet__Q18]]
 
 
 
@@ -809,40 +956,27 @@ Score of the game won by the Kang team
 
 *The largest of 11 consecutive numbers with sum p*
 
-> The sum of eleven consecutive integers is p. Then the largest of these numbers is
+> The sum of eleven consecutive numbers is p. Then the largest of these numbers is
+> A) 
+> .
+> B) 
+> .
+> C) 
+> . D) . E) . p 6 + 10 p 11 + 10 p 5 + 10 p 11 + 5 p 5 + 5 R V B X
 > A)
 > B)
 > C)
 > D)
 > E)
+> Testi_11Mat.qxp 19-05-2011 21:24 Page 18
 >
-> p
-> 6 + 10
-> p
-> 11 + 10
-> p
-> 5 + 10
-> p
-> 11 + 5
-> p
-> 5 + 5
->
-> R
-> V
-> B
-> X
-> A)
-> B)
-> C)
-> D)
-> E)
-> 
-> Page
-> Page 19
-> 19
-> Kang 2011
+> Pag. Pag. 19 19 Kang 201 Kang 2011
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_cadet#q19|src_kangourou_2011_cadet__Q19]]
 
 
 
@@ -881,13 +1015,22 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What form of card block the insertion of the other*
+*Which form of cardboard should block the insertion of the others?*
 
 ![[src_kangourou_2011_cadet__prob20.png]]
 
-> The figures show a 5x5 square chessboard and (in gray) seven cardboard shapes obtained by placing five equal squares side by side, having the same side as the chessboard cells. Two of the shapes have already been placed on the chessboard: you want to place a third on the empty cells so that you can't insert any of the other shapes without overlapping. Which of the five forms below should you use? (Warning: shapes can be turned and/or rotated, but they must always be inserted so that their sides match the sides of the cells). The questions from N. 21 to N. 30 is worth 5 points each 21. The five-digit number 24X8Y is divisible by 4, 5 and 9. How much is X + Y? A) 13 B) 10 C) 9 D) 5 E) 4
+> The figures show a 5x5 square chessboard and (in gray) seven cardboard shapes formed by joining five identical squares whose side length is the same as that of the chessboard squares. Two of the shapes have already been placed on the chessboard: you want to place a third shape on the empty squares in such a way that none of the remaining shapes can be placed without causing overlaps. Which of the five shapes below must you use? (Note: the shapes can be flipped and/or rotated, but they must always be placed so that their sides match the sides of the squares.) Questions 21 to 30 are each worth 5 points. 21. The five-digit number 24X8Y is divisible by 4, 5, and 9. What is the value of X + Y?
+> A) 13
+> B) 10
+> C) 9
+> D) 5
+> E) 4
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_cadet#q20|src_kangourou_2011_cadet__Q20]]
 
 
 
@@ -917,9 +1060,9 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*X+Y if 24X8Y is divisible by 4,5,9*
+*X+Y and 24X8Y are divisible by 4, 5, and 9*
 
-> The five digit number $24X8Y$ is divisible by $4$, $5$ and $9$. What is $X + Y$?
+> The five-digit number $24X8Y$ is divisible by $4$, $5$, and $9$. What is the value of $X + Y$?
 >
 > - **(A)** 13
 > - **(B)** 10
@@ -927,7 +1070,12 @@ Score of the game won by the Kang team
 > - **(D)** 5
 > - **(E)** 4
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_cadet#q21|src_kangourou_2011_cadet__Q21]]
 
 
 
@@ -962,13 +1110,23 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which set of edges does not give a regular hexagon*
+*Which sextet of edges is not from a regular hexagon?*
 
 ![[src_kangourou_2011_cadet__prob22.png]]
 
-> You can cut a cube with a plane so that the section is a regular hexagon. This can be done in 4 different ways and in any case the cutting plane intersects 6 different cube edges. Each edge of the cube in the figure is marked by a letter: of the following six sets of edges, which one cannot be affected by a cut giving rise to a regular hexagon? A) k, j, d, a, f, h B) k, l, a, b, e, g C) c, b, h, f, i, l D) g, j, i, c, d, e E) i, k, e, g, a, c
+> It is possible to cut a cube with a plane in such a way that
+> That the section is a regular hexagon. This can be done in 4 different ways, and in each case the cutting plane intersects 6 different edges of the cube. Each edge of the cube in the figure is marked with a letter: among the following sets of six edges, which one cannot be involved in a cut that produces a regular hexagon?
+> A) k, j, d, a, f, h
+> B) k, l, a, b, e, g 
+> C) c, b, h, f, i, l 
+> D) g, j, i, c, d, e 
+> E) i, k, e, g, a, c
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_cadet#q22|src_kangourou_2011_cadet__Q22]]
 
 
 
@@ -1025,44 +1183,29 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who is lying among Ida, Mara, Olga*
+*Who lies among Ida, Mara, and Olga?*
 
-> Ida, Mara and Olga are sitting in the garden each on a stool. Ida
-> says: "I am farther from Mara by more than twice the distance I am from Olga".
-> Mara says: "I am farther from Olga by more than twice the distance I am from
-> Ida". Olga says: "I am farther from Mara by more than twice the distance I am
-> from Ida". At least two of them are telling the truth. Who is lying?
-> A) Ida 
+> Ida, Mara, and Olga are sitting in the garden, each on a stool. Ida says, "I am more than twice as far from Mara as I am from Olga." Mara says, "I am more than twice as far from Olga as I am from Ida." Olga says, "I am more than twice as far from Mara as I am from Ida." At least two of them are telling the truth. Who is lying?
+> A) Ida
 > B) Mara
 > C) Olga
 > D) None of them
-> E) There is no way to determine it
+> E) There's no way to determine it
 > A)
 > B)
 > C)
 > D)
 > E)
-> a
-> b
-> c
-> d
-> i
-> j
-> k
-> l
-> e
-> h
-> g
-> f
-> Testi_11Mat.qxp  19-05-2011  21:24  Page 19
-> 
-> Pag. 
-> Pag. 20
-> 20
-> Kang 201
-> Kang 2011
+> a b c d i j k l e h g f Testi_11Mat.qxp 19-05-2011 21:24 Page 19
+>
+> Pag. Pag. 20 20 Kang 201 Kang 2011
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_cadet#q23|src_kangourou_2011_cadet__Q23]]
 
 
 
@@ -1093,19 +1236,20 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many shots did Michele take*
+*How many shots did Michele take?*
 
-> Michele played target shooting. 25% of his shots did not hit the target;
-> with the shots that did hit the target, he hit only the 5, the 8 and the 10, hitting the 8 and the
-> 10 the same number of times. If he scored 99 points in total, how many shots did
-> Michele take?
+> Michele played target shooting. 25% of his shots missed the target; of the shots that did hit the target, he only hit the 5, the 8, and the 10, and he hit the 8 and the 10 the same number of times. If he scored 99 points in total, how many shots did Michele take?
 > A) 10
 > B) 12
 > C) 16
 > D) 20
 > E) 24
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_cadet#q24|src_kangourou_2011_cadet__Q24]]
 
 
 
@@ -1142,25 +1286,23 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which friend lives on Curved street (not straight)*
+*Which female friend lives on Curva (non-straight) Street?*
 
 ![[src_kangourou_2011_cadet__prob25.png]]
 
-> During a car trip on a bumpy
-> road, Michela drew the sketch
-> you see in the figure: it indicates the houses of
-> her four friends, the streets where they live and the
-> intersections between these streets. In reality, however, Arrow street,
-> Ruler street and Nail street are all
-> straight streets. The fourth street is Curved street. Which
-> of the four friends lives on Curved street?
+> During a car trip on a road
+> After an accident, Michela drew the sketch you see in the figure: it shows the houses of her four friends, the streets where they live, and the intersections between these streets. In reality, however, Via Freccia, Via Righello, and Via Chiodo are all straight streets. The fourth street is Via Curva. Which of the four friends lives on Via Curva?
 > A) Angela
 > B) Bianca
 > C) Chiara
-> D) Donata             
-> E) It cannot be deduced from the sketch available
+> D) Donata
+> E) It cannot be deduced from the sketch available.
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_cadet#q25|src_kangourou_2011_cadet__Q25]]
 
 
 
@@ -1190,11 +1332,20 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the BDC angle in the quadrilateral*
+*Measurement of angle BDC in the quadrilateral*
 
-> In an ABCD convex quadrilateral the AB side and the AC diagonal have the same length. In addition, the BAD angle measures 80°, the ABC angle measures 75°, and the ADC angle measures 65°. How many degrees does the BDC angle measure? A) 10 B) 15 C) 20 D) 30 E) 45
+> In a convex quadrilateral ABCD, side AB and diagonal AC have the same length. Furthermore, angle BAD measures 80°, angle ABC measures 75°, and angle ADC measures 65°. How many degrees does angle BDC measure?
+> A) 10
+> B) 15
+> C) 20
+> D) 30
+> E) 45
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_cadet#q26|src_kangourou_2011_cadet__Q26]]
 
 
 
@@ -1225,11 +1376,21 @@ Score of the game won by the Kang team
 <div class="qlang-split" data-lang="en"></div>
 
 
-True statement about the ages of Eva and Rita
+*A true statement about the ages of Eva and Rita*
 
-> Eva and Rita are two working teachers. Seven years ago, Eva's age was a multiple of eight, and eight years from now, it will be a multiple of seven. Eight years ago Rita's age was a multiple of 7 and in seven years it will be a multiple of 8. Which of the following statements can be true? A) Rita is two years older than Eva B) Rita is one year older than Eva C) Rita and Eva are the same age D) Rita is one year younger than Eva E) Rita is two years younger than Eva
+> Eva and Rita are two teachers who are currently working. Seven years ago, Eva's age was a multiple of 8, and in eight years, it will be a multiple of 7. Eight years ago, Rita's age was a multiple of 7, and in seven years, it will be a multiple of 8. Which of the following statements can be true?
+> A) Rita is two years older than Eva.
+> B) Rita is a year older than Eva.
+> C) Rita and Eva are the same age.
+> D) Rita is a year younger than Eva.
+> E) Rita is two years younger than Eva.
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_cadet#q27|src_kangourou_2011_cadet__Q27]]
 
 
 
@@ -1273,31 +1434,25 @@ True statement about the ages of Eva and Rita
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum integer value of the crittaritmetic expression*
+*Minimum integer value of the crypto-arithmetic expression*
 
 > In the expression
-> each letter represents a digit other than zero; equal letters represent equal digits and
-> different letters represent different digits. What is the smallest integer value that this expression can take? ( "•" indicates the product.)
+> Each letter represents a non-zero digit; identical letters represent identical digits, and different letters represent different digits. What is the smallest integer value that this expression can take? ("•" denotes multiplication.)
 > A) 1
 > B) 2
 > C)3
 > D) 5
 > E) 7
-> K•A • N• G• O • U• R • O • U
-> G •I • O • C• O
-> Donata
-> Chiara
-> Bianca
-> Angela
-> Testi_11Mat.qxp  19-05-2011  21:24  Page 20
-> 
-> Pag.
-> Pag. 21
-> 21
-> Kang 201
-> Kang 2011
+> K•A • N• G• O • U• R • O • U G •I • O • C• O Donata Chiara Bianca Angela Testi_11Mat.qxp 19-05-2011 21:24 Page 20
+>
+> Pag. Pag. 21 21 Kang 201 Kang 2011
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_cadet#q28|src_kangourou_2011_cadet__Q28]]
 
 
 
@@ -1329,11 +1484,21 @@ True statement about the ages of Eva and Rita
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of cells to be touched to find 2 adjacent blue cells*
+*Minimum number of cells to touch to find 2 adjacent blue cells*
 
-> An electronic game features a 4x4 chessboard, which, when touched on a cell, lights up by showing its color. The blue cells need to be lit. In each game, there are only two blue cells and they have one side in common. What is the minimum number of cells that you can touch to be sure to illuminate both blue cells? A) 9 B) 10 C) 11 D) 12 E) 13
+> An electronic game features a 4x4 chessboard: when a cell is tapped, it lights up and shows its color. The blue cells must be lit. In each game, there are only two blue cells, and they share one side. What is the minimum number of cells that need to be tapped to be certain of lighting both blue cells?
+> A) 9
+> B) 10
+> C) 11
+> D) 12
+> E) 13
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_cadet#q29|src_kangourou_2011_cadet__Q29]]
 
 
 
@@ -1374,23 +1539,22 @@ True statement about the ages of Eva and Rita
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of side x of the triangle obtained by reassembling*
+*Length of side x of the triangle obtained by reassembly*
 
 ![[src_kangourou_2011_cadet__prob30.png]]
 
-> In the figure, a region of the plane is shown formed by joining two rectangles, and the lengths of two sides of the rectangles are indicated: 11 and 13. By dividing the region into three parts and arranging them as indicated by the arrows, a triangle is obtained, shown on the side. What is the length of the side denoted by x?
+> The figure shows a planar region formed by joining two rectangles side by side, and the lengths of two sides of the rectangles are given: 11 and 13. If the region is divided into three parts and the parts are placed side by side as indicated by the arrows, the triangle shown on the side is obtained. What is the length of the side denoted by x?
 > A) 36
 > B) 37
 > C) 38
 > D) 39
 > E) 40
+> 11 13 x Testi_11Mat.qxp 19-05-2011 21:24 Page 21
 >
-> 11
-> 13
-> x
-> 
-> 1
-> 2011
-> Cadet Category
+> 1 2011 Cadet Category
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_cadet#q30|src_kangourou_2011_cadet__Q30]]

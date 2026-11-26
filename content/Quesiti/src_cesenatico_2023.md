@@ -31,9 +31,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*a is power of 54*
+*a is a power of 54*
 
-> If a and b are positive integers such that 54a = ab. Prove that a is a power of 54, that is, there exists a positive integer c such that a = 54c.
+> Let a and b be positive integers such that 54a = ab.
+> Prove that a is a power of 54, that is, there exists a positive integer c such that a = 54c.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2023#q01|src_cesenatico_2023__Q01]]
 
 
 
@@ -69,11 +76,22 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*stability and minimum k*
+*From some point on the numbers no longer change, and the least k that works for every initial configuration*
 
-> Let it be a positive integer. On a board, Bobo writes n integers greater than or equal to zero. Next, for every Bobo move • for every i = 1, . . . , n calculates the number a of integers written at that time on the board and less than or equal to i, • deletes all the numbers written, • writes on the board the numbers a1, a2, . . . , an. For example, if n = 5 and the numbers written initially are 0, 7, 2, 6, 2, after the first move will be 1, 3, 3, 3, 3, after the second move will be 1, 1, 5, 5, 5, and so on. (a) Demonstrate that, for each n and for each initial configuration, the numbers written on the board do not change from a certain point onwards. (b) Determine, as a function of n, the positive minimum integer k with the property that, for any initial configuration, moves from k-eighth to next no longer change the numbers written on the board.
+> Let n be a positive integer. On a blackboard Bobo writes n integers greater than or equal to zero.
+> Then, at every move, Bobo
+> • for every i = 1, . . . , n calculates the number ai of integers written at that moment on the blackboard and less than or equal to i,
+> • erases all the numbers written,
+> • writes on the blackboard the numbers a1, a2, . . . , an.
+> For example, if n = 5 and the numbers written initially are 0, 7, 2, 6, 2, after the first move they will be 1, 3, 3, 3, 3, after the second move they will be 1, 1, 5, 5, 5, and so on.
+> (a) Prove that, for every n and for every initial configuration, from some point on the numbers written on the blackboard no longer change.
+> (b) Determine, as a function of n, the least positive integer k with the property that, for any initial configuration, the moves from the kth onwards no longer change the numbers written on the blackboard.
 
-**Answer:** k=2n+1
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2023#q02|src_cesenatico_2023__Q02]]
 
 
 
@@ -102,11 +120,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Existence of a,b distinct from 2023a+s(a) =... e a+2023s(a)=...*
+*Whether there exist distinct positive integers a and b satisfying either of the two equations*
 
-> For each positive integer n, we indicate with s(n) the sum of the digits of n (in the normal representation at base 10). So, for example, s(8) = 8, s(2023) = 7, s(573) = 15. (a) Determine whether there are two distinct positive integers a and b such that 2023 · a + s(a) = 2023 · b + s(b). (b) Determine whether there are two distinct positive integers a and b such that a + 2023 · s(a) = b + 2023 · s(b).
+> For every positive integer n, denote by s(n) the sum of the digits of n (in the usual base-10 representation). Thus, for example, s(8) = 8, s(2023) = 7, s(573) = 15.
+> (a) Determine whether there exist two distinct positive integers a and b such that 2023 · a + s(a) = 2023 · b + s(b).
+> (b) Determine whether there exist two distinct positive integers a and b such that a + 2023 · s(a) = b + 2023 · s(b).
 
-**Answer:** yes in both cases
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2023#q03|src_cesenatico_2023__Q03]]
 
 
 
@@ -138,11 +162,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*CE ·ED maximum if B,O,E,D conical*
+*The product CE · ED is greatest, as D varies, if and only if B, O, E and D lie on one circle*
 
-![[src_cesenatico_2023__prob4.png]]
+> On a circle with centre O and diameter AB, fix a point C distinct from A and B.
+> Then let a point D vary, also distinct from A and B, on the arc AB of the circle to which C does not belong, and define E as the point of the segment CD such that the lines BE and CD are perpendicular.
+> Prove that the product CE · ED is greatest, as D varies, if and only if the points B, O, E and D lie on one and the same circle.
 
-> On a circumference of center O and diameter AB, we fix a point C distinct from A and B. Then we vary a point D, also distinct from A and B, on the arc AB of the circumference to which C does not belong, and we define E as the point of the CD segment such that the BE and CD lines are perpendicular. Demonstrate that the EC·ED product is maximum, at the variation of D, if and only if points B, O, E and D lie on the same circumference. Italian Olympic Games of Mathematics 2023 - Texts and solutions - Page 1 of 15
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[src_cesenatico_2023__prob4.png]]
 
 
 
@@ -171,11 +201,18 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*maximum sum and product of squares of differences*
+*The greatest possible values of the sum of squares and of the product of squares, and the triples that attain them*
 
-> Three real numbers (positive, negative or zero) such that a2 + b2 + c2 = 6. (a) Determine the maximum possible value for the expression (a −b) 2 + (b −c) 2 + (c −a) 2. (b) Determine the maximum possible value for the expression (a −b) 2 · (b −c) 2 · (c −a) 2. In either case, also specify all the thresholds for which the maximum value is reached.
+> Let a, b and c be three real numbers (positive, negative or zero) such that a2 + b2 + c2 = 6.
+> (a) Determine the greatest possible value of the expression (a − b)2 + (b − c)2 + (c − a)2.
+> (b) Determine the greatest possible value of the expression (a − b)2 · (b − c)2 · (c − a)2.
+> In both cases, also specify all the triples for which the greatest value is attained.
 
-**Answer:** 18 e 108
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2023#q05|src_cesenatico_2023__Q05]]
 
 
 
@@ -213,10 +250,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*for which c traps*
+*All positive integers c such that Daedalus can trap the Minotaur for at most c hundredths of a drachma*
 
-> Dedalo buys a finite number of strings (each finite length) consisting of the binary digits 0 and 1. For each of the purchased strings, Dedalo pays (1/2)L drachmas, where L indicates the length of the string. The Minotaur escapes if he can find an infinite sequence of binary digits that contains none of the strings that Dedalo bought. Dedo has to trap the Minotaur. For example, if Dedalo bought the 00 and 11 strings, paying half a drachma, the minotaur could escape with the infinite sequence 01010101. . . On the other hand, Dedalus can trap the Minotaur at a cost of 75 cents of drachma: he will simply buy strings 0 and 11, or strings 00, 11, 01. Determine all positive integers c for which Dedalus can trap the Minotaur at a cost less than or equal to c c c c c cents of drachma. Italian Olympic Games of Mathematics 2023 - Texts and solutions - Page 2 of 15
-> 
-> XXXIX Italian Games of Cesenatic Mathematics, May 5th, 2023
+> Daedalus buys a finite number of strings (each of finite length) composed of the binary digits 0 and 1. For each of the strings bought, Daedalus pays (1/2)L drachmas, where L denotes the length of the string. The Minotaur escapes if he manages to find an infinite sequence of binary digits that contains none of the strings bought by Daedalus. Daedalus must trap the Minotaur.
+> For example, if Daedalus bought the strings 00 and 11, paying half a drachma, the Minotaur could escape with the infinite sequence 01010101. . .
+> On the other hand, Daedalus can trap the Minotaur at a cost of 75 hundredths of a drachma: it is enough, for example, for him to buy the strings 0 and 11, or the strings 00, 11 and 01.
+> Determine all the positive integers c for which Daedalus can trap the Minotaur at a cost less than or equal to c hundredths of a drachma.
 
-**Answer:** every positive integer c
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2023#q06|src_cesenatico_2023__Q06]]

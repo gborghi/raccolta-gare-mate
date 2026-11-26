@@ -30,11 +30,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il primo intero n>1 la cui media della somma di quadrati è un quadrato perfetto*
+*Trovare il primo intero n>1 tale che la media delle somme dei quadrati sia un quadrato perfetto.*
 
-> Trova il primo intero $n > 1$ in modo tale che la media di $1^2, 2^2, \ldots, n^2$ sia un quadrato perfetto.
+> Trovare il primo intero $n > 1$ tale che la media di $1^2, 2^2, \ldots, n^2$ sia essa stessa un quadrato perfetto.
 
-**Risposta:** 337
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_1993-94_round2#q01|src_bmo_1993-94_round2__Q01]]
 
 
 
@@ -57,9 +62,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triangoli non congruenti con lati interi e perimetro 1994*
+*Conta i triangoli non congruenti con lati interi e perimetro 1994.*
 
-> Quanti triangoli diversi (cioè non congruenti in coppia) ci sono con lati interi e con perimetro 1994?
+> Quanti triangoli distinti (ossia non congruenti a due a due) hanno lati interi e perimetro 1994?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_1993-94_round2#q02|src_bmo_1993-94_round2__Q02]]
 
 
 
@@ -85,9 +97,19 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Accordi di angolo uguale in un cerchio: prove AR(AP+AR)=AQ(AQ+AS)*
+*Corde a angoli uguali in un cerchio: dimostrare che AR(AP+AR)=AQ(AQ+AS)*
 
-> $AP$, $AQ$, $AR$, $AS$ sono accordi di un circolo dato con la proprietà che $$\angle PAQ = \angle QAR = \angle RAS.$$ dimostra che $$AR(AP + AR) = AQ(AQ + AS).$$
+> $AP$, $AQ$, $AR$, $AS$ sono corde di una data circonferenza con la proprietà che
+> $$\angle PAQ = \angle QAR = \angle RAS.$$
+> Dimostrare che
+> $$AR(AP + AR) = AQ(AQ + AS).$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_1993-94_round2#q03|src_bmo_1993-94_round2__Q03]]
 
 
 
@@ -110,6 +132,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i quadrati perfetti modulo 2^n*
+*Conta i quadrati perfetti modulo 2^n*
 
 > Quanti quadrati perfetti ci sono (mod $2^n$)?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_1993-94_round2#q04|src_bmo_1993-94_round2__Q04]]

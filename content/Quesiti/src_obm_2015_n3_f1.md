@@ -34,15 +34,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero 19 in 3 ×3 griglia: somma pari dei vicini, massimizzazione della somma quadrata bianca*
+*Numeri da 1 a 9 in una griglia 3×3: somme dei vicini dispari, massimizzare la somma dei quadrati bianchi*
 
-> Violeta vuole numerare i quadrati di una lavagna $3 \times 3$ da 1 a 9, in modo che in ogni riga il numero di quadrati la cui somma con tutti i loro vicini (quadrati che condividono un lato) è pari è il massimo possibile. Inoltre, vuole che la somma dei numeri scritti nei quadrati bianchi sia il più grande possibile. Qual è la somma dei numeri scritti nei quadrati bianchi?
-> 
+> Violeta vuole numerare le caselle di una lavagna $3 \times 3$ da 1 a 9, in modo che in ogni riga il numero di caselle la cui somma con tutte le caselle vicine (quelle che condividono un lato) sia dispari sia il massimo possibile. Inoltre, vuole che la somma dei numeri scritti nelle caselle bianche sia il più grande possibile. Qual è la somma dei numeri scritti nelle caselle bianche?
+>
 > (A) 15 \quad (B) 16 \quad (C) 22 \quad (D) 29 \quad (E) 30
 
 ![[src_obm_2015_n3_f1__q01.png]]
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n3_f1#q01|src_obm_2015_n3_f1__Q01]]
 
 
 
@@ -68,13 +73,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Altezza massima della torre impilata 55 cubetti di tre colori, senza due adiacenti dello stesso colore*
+*Impilamento massimo di torri: 55 cubi di tre colori, nessun cubo adiacente dello stesso colore*
 
-> Fabiana ha 55 cubetti della stessa taglia: 10 rossi, 15 blu e 30 verdi. Vuole costruire una torre impiandone questi cubetti in modo che non ci siano due cubetti adiacenti dello stesso colore. Quanti cubetti può mettere a piombo?
-> 
+> Fabiana ha 55 cubi tutti della stessa dimensione: 10 rossi, 15 blu e 30 verdi. Vuole costruire una torre impilando questi cubi in modo che nessun coppia di cubi adiacenti abbia lo stesso colore. Al massimo, quanti cubi può impilare?
+>
 > (A) 39 \quad (B) 51 \quad (C) 52 \quad (D) 54 \quad (E) 55
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n3_f1#q02|src_obm_2015_n3_f1__Q02]]
 
 
 
@@ -102,15 +112,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valore di CP in modo che due regioni di due rettangoli che si sovrappongono abbiano aree uguali*
+*Valore di CP tale che due regioni di due rettangoli sovrapposti abbiano aree uguali*
 
-> Nella figura, i rettangoli $ARGH$ e $CDEF$ hanno rispettivamente lati di lunghezza di 4 cm e 6 cm. Il punto $P$ si trova sulla linea $\ell$ che attraversa $B$, $C$, $G$, $F$, dove $C$ è il punto medio di $BG$. Il segmento $AP$ divide la figura formata dai due rettangoli in due regioni: una bianca e una grigia. Per che queste due regioni abbiano superficie uguale, quale dovrebbe essere il valore di $a = CP$?
-> 
+> Nella figura, i rettangoli $ARGH$ e $CDEF$ hanno lati di lunghezza rispettivamente 4 cm e 6 cm. Il punto $P$ giace sulla retta $\ell$ che passa per $B$, $C$, $G$, $F$, dove $C$ è il punto medio di $BG$. Il segmento $AP$ divide la figura formata dai due rettangoli in due regioni: una bianca e una grigia. Affinché queste due regioni abbiano aree uguali, quale dovrebbe essere il valore di $a = CP$?
+>
 > (A) $\dfrac{4}{5}$ \quad (B) $\dfrac{18}{25}$ \quad (C) $1$ \quad (D) $\dfrac{26}{25}$ \quad (E) $\dfrac{3}{2}$
 
 ![[src_obm_2015_n3_f1__q03.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2015_n3_f1#q03|src_obm_2015_n3_f1__Q03]]
 
 
 
@@ -136,13 +151,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Auto-referenziale: contare vocali e consonanti nella risposta corretta*
+*Auto-referenziale: conta le vocali e le consonanti nella risposta corretta*
 
-> Qual è il numero di vocali e consonanti nella risposta corretta? Le risposte non sono le etichette (A, B, C, D, E) ma i testi delle opzioni stesse.
-> 
-> (A) Vinte e cinque \;[Venticinque] \quad (B) Setenta e tr\^{e}s \;[Venticinque] \quad (C) Oitenta e cinque \;[Venticinque] \\ (D) Noventa e sete \;[Novecento sette] \quad (E) Cento e dezoito \;[Cento diciotto]
+> Qual è il numero di vocali e di consonanti nella risposta corretta? Le risposte non sono le etichette delle lettere (A, B, C, D, E), ma i testi delle opzioni stessi.
+>
+> (A) Venti e cinque \;[Venticinque] \quad (B) Settanta e tre \;[Settantatré] \quad (C) Ottanta e cinque \;[Ottantacinque] \\ (D) Novanta e sette \;[Novantasette] \quad (E) Cento e diciotto \;[Centodiciotto]
 
-**Risposta:** A
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n3_f1#q04|src_obm_2015_n3_f1__Q04]]
 
 
 
@@ -168,13 +188,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Anno successivo dopo il 2015 con calendario identico (lo stesso giorno della settimana per ogni data)*
+*L'anno prossimo, dopo il 2015, con un calendario identico (lo stesso giorno della settimana per ogni data)*
 
-> Diciamo che due anni hanno lo stesso calendario se hanno lo stesso numero di giorni e i giorni della settimana coincidono in ogni data. L'anno 2015 coincide con il 2009. Sapendo che gli anni che sono multipli di 4 nel 21 ° secolo (ad eccezione del 2100) sono anni biscotti con 366 giorni, e tutti gli altri hanno 365 giorni, qual è il prossimo anno dopo il 2015 che ha lo stesso calendario del 2015?
-> 
+> Diciamo che due anni hanno lo stesso calendario se hanno lo stesso numero di giorni e i giorni della settimana coincidono in ogni data. L'anno 2015 coincide con il 2009. Sapendo che gli anni multipli di 4 nel XXI secolo (con l'eccezione del 2100) sono anni bisestili di 366 giorni, mentre tutti gli altri hanno 365 giorni, qual è il prossimo anno dopo il 2015 che ha lo stesso calendario del 2015?
+>
 > (A) 2021 \quad (B) 2022 \quad (C) 2023 \quad (D) 2025 \quad (E) 2026
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n3_f1#q05|src_obm_2015_n3_f1__Q05]]
 
 
 
@@ -200,13 +225,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con diversi lati interi, lato più grande 2015, riducendo al minimo l'area*
+*Triangolo con lati interi distinti, lato maggiore 2015, area minima*
 
-> Un triangolo ha tutti i lati con lunghezze interi distinte, il più grande dei quali è il 2015. Quali sono le lunghezze degli altri due lati che rendono l'area del triangolo il più piccolo possibile?
-> 
+> Un triangolo ha tutti i lati di lunghezze intere distinte, e il lato più lungo misura 2015. Quali sono le lunghezze degli altri due lati tali che l'area del triangolo risulti il più piccola possibile?
+>
 > (A) 2 e 2014 \quad (B) 3 e 2013 \quad (C) 1006 e 1010 \quad (D) 1007 e 1009 \quad (E) 1008 e 1009
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n3_f1#q06|src_obm_2015_n3_f1__Q06]]
 
 
 
@@ -232,13 +262,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trova il tempo totale di camminata
+*La ciclista Esmeralda incontra la camminatrice Jade al ritorno; determina il tempo totale di cammino*
 
-> Esmeralda e Jade hanno lasciato l'ufficio del segretario del Giardino Botanico allo stesso tempo. Esmeralda andava in bicicletta e Jade a piedi. La velocità di Esmeralda è quattro volte quella di Jade, e entrambe le velocità sono costanti. Esmeralda arrivò al giardino 5 minuti prima e aspettò Jade. Quando Jade era a metà strada, Esmeralda iniziò a tornare indietro e incontrò Jade. Quanto tempo ci vuole per andare da Jade all'ufficio della segretaria al giardino botanico?
-> 
-> (A) 30 min (B) 35 min (C) 40 min (D) 45 min (E) 50 min
+> Esmeralda e Jade lasciarono contemporaneamente l'ufficio del segretario del Giardino Botanico. Esmeralda andò in bicicletta e Jade a piedi. La velocità di Esmeralda è quattro volte quella di Jade, e entrambe le velocità sono costanti. Esmeralda arrivò al giardino con 5 minuti di anticipo e attese Jade. Quando Jade era a metà del percorso, Esmeralda iniziò a tornare a piedi e incontrò Jade. Quanto dura l'intera camminata di Jade dall'ufficio del segretario al Giardino Botanico?
+>
+> (A) 30 min \quad (B) 35 min \quad (C) 40 min \quad (D) 45 min \quad (E) 50 min
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n3_f1#q07|src_obm_2015_n3_f1__Q07]]
 
 
 
@@ -264,13 +299,18 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare quale numero sia la radice di un quadratico con coefficienti interi dispari*
+*Identifica quale numero è una radice di un'equazione quadratica a coefficienti interi dispari*
 
-> Un numero è chiamato \emph{impar-quadratic} (irrazionale-odd) se è la radice di un'equazione quadratica con coefficienti interi odd. Ad esempio, $\dfrac{1+\sqrt{2}}{2}$ è impar-quadratico, poiché è una radice di $x^2 - x - 1 = 0$. Quale dei seguenti numeri è impar-quadrato?
-> 
+> Un numero è detto \emph{impar-quadratico} (irrazionale-disparo) se è radice di un'equazione quadratica a coefficienti interi dispari. Ad esempio, $\dfrac{1+\sqrt{2}}{2}$ è impar-quadratico, poiché è radice di $x^2 - x - 1 = 0$. Quale dei seguenti numeri è impar-quadratico?
+>
 > (A) $\dfrac{1+\sqrt{3}}{2}$ \quad (B) $\dfrac{1+\sqrt{5}}{2}$ \quad (C) $\dfrac{1+\sqrt{6}}{2}$ \quad (D) $\dfrac{1+\sqrt{8}}{2}$ \quad (E) $\dfrac{1+\sqrt{13}}{2}$
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n3_f1#q08|src_obm_2015_n3_f1__Q08]]
 
 
 
@@ -296,13 +336,18 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi positivi n dividendo 2032 con il rimanente 17*
+*Conta gli interi positivi n tali che 2032 diviso n dà resto 17*
 
-> Quanti integri positivi $n$ ci sono tali che dividendo il 2032 per $n$ lascia il rimanente 17?
-> 
+> Quanti numeri interi positivi $n$ ci sono tali che, dividendo 2032 per $n$, si ottiene resto 17?
+>
 > (A) 4 \quad (B) 5 \quad (C) 6 \quad (D) 7 \quad (E) 8
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n3_f1#q09|src_obm_2015_n3_f1__Q09]]
 
 
 
@@ -328,13 +373,18 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio dei momenti dell'orologio incollati e incollati in senso inverso nell'anno fisso 2015*
+*Conta i momenti dell'orologio incapsulati e inversamente incapsulati nell'anno non bisestile 2015*
 
-> Jonas osservava orologi digitali nella sua città che indicavano la data e l'ora. Per coincidenza, il giorno in cui ha notato questo è stato il 12/06, e l'orologio ha mostrato 12:06. Lo chiamava un momento incassato (momento encaixado): un momento in cui la data (DD/MM) e l'ora (HH:MM) sono formate dalle stesse cifre nello stesso ordine. Ha anche chiamato un momento \emph{reverse-encased} quando l'ora è la data scritta in ordine inverso  ad esempio, il 21/06 alle 06:21. Dal momento che il 2015 non è un anno bisbalto, quanti momenti chiusi ci sono dal 01/01/2015 alle 00:00 al 31/12/2015 alle 23:59?
-> 
+> Un tempo Jonas osservava gli orologi digitali della sua città che mostravano la data e l'ora. Per caso, il giorno in cui se ne accorse fu il 12/06 e l'orologio segnava le 12:06. Definì questo un \emph{momento incapsulato} (momento encaixado): un momento in cui la data (GG/MM) e l'ora (HH:MM) sono formate dagli stessi numeri nello stesso ordine. Definì inoltre \emph{reverse-encased} un momento in cui l'ora è la data scritta in ordine inverso — per esempio, il 21/06 alle 06:21. Poiché il 2015 non è un anno bisestile, quanti momenti incapsulati ci sono dall'01/01/2015 alle 00:00 al 31/12/2015 alle 23:59?
+>
 > (A) 365 \quad (B) 455 \quad (C) 465 \quad (D) 629 \quad (E) 699
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n3_f1#q10|src_obm_2015_n3_f1__Q10]]
 
 
 
@@ -362,15 +412,20 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza CF: tangente da C a semicircolo di diametro AB nel quadrato ABCD del lato 4*
+*Lunghezza CF: tangente condotta da C al semicerchio di diametro AB nel quadrato ABCD di lato 4*
 
-> Nella figura seguente, il segmento $CF$ è tangente al semicircolo di diametro $AB$. $ABCD$ è il quadrato del lato 4. Determinare la lunghezza di $CF$.
-> 
+> Nella figura sottostante, il segmento $CF$ è tangente al semicerchio di diametro $AB$. $ABCD$ è un quadrato di lato 4. Determinare la lunghezza di $CF$.
+>
 > (A) $\dfrac{9}{2}$ \quad (B) $5$ \quad (C) $\dfrac{11}{2}$ \quad (D) $\dfrac{23}{4}$ \quad (E) $6$
 
 ![[src_obm_2015_n3_f1__q11.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n3_f1#q11|src_obm_2015_n3_f1__Q11]]
 
 
 
@@ -396,13 +451,18 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Relazione angolare nel triangolo ABC con punto medio M di AB e lunghezze laterali date*
+*Relazione angolare nel triangolo ABC, con M punto medio di AB e lunghezze dei lati assegnate*
 
-> In triangolo $ABC$, $AB = 2$ e $BC = \sqrt{2}$. Il punto medio del lato $AB$ è $M$. Set $\alpha = m(\widehat{BAC})$, $\beta = m(\widehat{MBC})$ e $\gamma = m(\widehat{BMC})$. Allora:
-> 
+> Nel triangolo $ABC$, $AB = 2$ e $BC = \sqrt{2}$. Sia $M$ il punto medio del lato $AB$. Si pongano $\alpha = m(\widehat{BAC})$, $\beta = m(\widehat{MBC})$ e $\gamma = m(\widehat{BMC})$. Allora:
+>
 > (A) $\alpha + \beta = \gamma$ \quad (B) $\alpha + \beta = 2\gamma$ \quad (C) $\alpha + \beta + \gamma = 180^\circ$ \\ (D) $\alpha + \beta = 90^\circ$ \quad (E) $\alpha = 45^\circ$
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n3_f1#q12|src_obm_2015_n3_f1__Q12]]
 
 
 
@@ -428,13 +488,18 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tempo per il prodotto di due numeri aggiornati iterativamente per superare 10^50*
+*È il momento in cui il prodotto di due numeri aggiornati in modo iterativo supera 10^50*
 
-> Inizialmente, i numeri 1 e 2 vengono scritti su uno schermo del computer. Ogni secondo vengono sostituiti dalla loro somma e il loro prodotto raddoppiato (cioè la nuova coppia è $(a+b,\, 2ab)$). Dopo circa quanto tempo il prodotto dei due numeri supererà il numero di atomi sulla Terra, circa $10^{50}$?
-> 
-> (A) Sette secondi (B) Sette ore (C) Sette giorni (D) Sette mesi (E) Sette anni
+> Inizialmente, i numeri 1 e 2 vengono scritti su uno schermo di computer. Ogni secondo, vengono sostituiti dalla loro somma e dal loro prodotto raddoppiato (ossia la nuova coppia è $(a+b,\, 2ab)$). Dopo circa quanto tempo il prodotto dei due numeri supererà il numero di atomi presenti sulla Terra, pari approssimativamente a $10^{50}$?
+>
+> (A) Sette secondi \quad (B) Sette ore \quad (C) Sette giorni \\ (D) Sette mesi \quad (E) Sette anni
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n3_f1#q13|src_obm_2015_n3_f1__Q13]]
 
 
 
@@ -464,17 +529,22 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsieme massimo di bordi dodecaedro che sono abbracciati in coppia*
+*Sottoinsieme massimale di spigoli di un dodecaedro che sono a sghembo a due a due*
 
-> Due segmenti di linea nello spazio sono chiamati \emph{skew} (riversi) quando non esiste un piano che contenga entrambi. Un dodecaedro regolare è un poliedro con dodici volti pentagonali regolari.
-> 
-> Qual è il maggior numero di elementi in un sottoinsieme $S$ di bordi di un dodecaedro regolare in modo tale che due elementi di $S$ siano skew?
-> 
+> Due segmenti di retta nello spazio sono detti \emph{sghembi} (reversas) quando non esiste alcun piano che li contenga entrambi. Un dodecaedro regolare è un poliedro con dodici facce pentagonali regolari.
+>
+> Qual è il numero massimo di elementi in un sottoinsieme $S$ di spigoli di un dodecaedro regolare tale che ogni coppia di elementi di $S$ sia sghemba?
+>
 > (A) 3 \quad (B) 6 \quad (C) 9 \quad (D) 12 \quad (E) 15
 
 ![[src_obm_2015_n3_f1__q14.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n3_f1#q14|src_obm_2015_n3_f1__Q14]]
 
 
 
@@ -500,13 +570,18 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Caricare le dimensioni possibili di un insieme finito perfetto di numeri reali*
+*Caratterizza le possibili cardinalità di un insieme finito perfetto di numeri reali*
 
-> Un insieme finito $A$ di numeri reali è chiamato \emph{perfetto} se ha almeno due elementi e, per ogni $b \in A$, il insieme $\{ab \mid a \in A,\, a \neq b\}$ è uguale a $A$. Ad esempio, $\left\{1, 2, \tfrac{1}{2}\right\}$ è perfetto. Tuttavia, $\{1,2,3\}$ non è perfetto. Quanti elementi può avere un insieme perfetto?
-> 
-> (A) Solo 3 o 4 \quad (B) Qualsiasi quantità congruente a 3 o 4 modulo 4 \\ (C) Qualsiasi quantità imparata \quad (D) Qualsiasi quantità primaria \\ (E) Qualsiasi quantità superiore a 2
+> Un insieme finito $A$ di numeri reali si dice \emph{perfetto} se ha almeno due elementi e, per ogni $b \in A$, l'insieme $\{ab \mid a \in A,\, a \neq b\}$ è uguale a $A$. Ad esempio, $\left\{1, 2, \tfrac{1}{2}\right\}$ è perfetto. Tuttavia, $\{1,2,3\}$ non è perfetto. Quanti elementi può avere un insieme perfetto?
+>
+> (A) Solo 3 o 4 \quad (B) Qualsiasi quantità congruente a 3 o 4 modulo 4 \\ (C) Qualsiasi quantità dispari \quad (D) Qualsiasi quantità prima \\ (E) Qualsiasi quantità maggiore di 2
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2015_n3_f1#q15|src_obm_2015_n3_f1__Q15]]
 
 
 
@@ -532,13 +607,18 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nello più piccolo di questo n! finisce esattamente nel 2016 con i zeri tracciati*
+*Il più piccolo n tale che n! termini con esattamente 2016 zeri finali*
 
-> Per un intero positivo $n$, il fattorial è $n! = 1 \cdot 2 \cdot 3 \cdots n$. Non esiste un $n$ per il quale $n!$ finisce esattamente in zero traccianti per il 2015. Trova il minimo $n$ in modo tale che $n!$ finisca esattamente negli zero traccianti del 2016.
-> 
+> Per un numero intero positivo $n$, il fattoriale è $n! = 1 \cdot 2 \cdot 3 \cdots n$. Non esiste alcun $n$ per cui $n!$ termini con esattamente 2015 zeri finali. Trovare il più piccolo $n$ tale che $n!$ termini con esattamente 2016 zeri finali.
+>
 > (A) 8064 \quad (B) 8065 \quad (C) 8070 \quad (D) 8075 \quad (E) 8080
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n3_f1#q16|src_obm_2015_n3_f1__Q16]]
 
 
 
@@ -564,13 +644,18 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Radius r min in modo che ogni cerchio di radius 1 centrato su un punto reticolo sia tagliato da un cerchio di radius-r*
+*Raggio minimo r tale che ogni cerchio di raggio 1 avente centro in un punto della reticolazione venga intersecato da un cerchio di raggio r*
 
-> In ogni punto della griglia (punto con entrambe le coordinate integri), costruiamo un cerchio di raggio $r$. Il valore minimo di $r$ per il quale un cerchio di raggio 1 (centrato in un punto reticolo) è interamente contenuto all'interno di uno dei cerchi di raggio $r$ centrati in un altro punto reticolo è:
-> 
+> In ogni punto della rete (punto le cui entrambe le coordinate sono intere), costruiamo un cerchio di raggio $r$. Il valore minimo di $r$ per cui qualche cerchio di raggio 1 (con centro in un punto della rete) è interamente contenuto all'interno di uno dei cerchi di raggio $r$ con centro in un punto della rete diverso è:
+>
 > (A) $\dfrac{\sqrt{2}}{2} - 1$ \quad (B) $1 - \dfrac{\sqrt{2}}{2}$ \quad (C) $\sqrt{2} - 1$ \quad (D) $\dfrac{1}{2}$ \quad (E) $\dfrac{\sqrt{2}}{2}$
 
-**Risposta:** C
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n3_f1#q17|src_obm_2015_n3_f1__Q17]]
 
 
 
@@ -596,13 +681,18 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quante cifre ha il più piccolo m con funzione somma di numeri f(m) = 2015*
+*Quante cifre ha il più piccolo m tale che la funzione somma delle cifre f(m) sia uguale a 2015?*
 
-> La funzione di pavimento $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$. Per esempio, $\lfloor 3.45 \rfloor = 3$ e $\lfloor 41 \rfloor = 41$. Considera la funzione $f$ definita su interi non negativi da $f(0) = 0$ e $$f(n) = f\!\left(\left\lfloor \frac{n}{10} \right\rfloor\right) + n - 10\left\lfloor \frac{n}{10} \right\rfloor$$ per tutti gli interi positivi $n$. Quante cifre ha il più piccolo intero positivo $m$ con $f(m) = 2015$?
-> 
+> The floor function $\lfloor x \rfloor$ denotes the largest integer less than or equal to $x$. For example, $\lfloor 3.45 \rfloor = 3$ and $\lfloor 41 \rfloor = 41$. Consider the function $f$ defined on non-negative integers by $f(0) = 0$ and $$f(n) = f\!\left(\left\lfloor \frac{n}{10} \right\rfloor\right) + n - 10\left\lfloor \frac{n}{10} \right\rfloor$$ for all positive integers $n$. How many digits does the smallest positive integer $m$ with $f(m) = 2015$ have?
+>
 > (A) 201 \quad (B) 202 \quad (C) 222 \quad (D) 223 \quad (E) 224
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2015_n3_f1#q18|src_obm_2015_n3_f1__Q18]]
 
 
 
@@ -628,13 +718,18 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i sottogruppi non vuoti C di A∪B con dimensioni di intersezione uguali*
+*Conta i sottoinsiemi non vuoti C di A∪B aventi dimensioni dell'intersezione uguali*
 
-> Le serie $A$ e $B$ siano dissociate da $n(A) = 5$ e $n(B) = 7$, dove $n(X)$ indica il numero di elementi di $X$. Quanti sottoinsiemi non vuoti $C$ di $A \cup B$ sono tali da $n(A \cap C) = n(B \cap C)$?
-> 
+> Siano $A$ e $B$ insiemi disgiunti con $n(A) = 5$ e $n(B) = 7$, dove $n(X)$ denota il numero di elementi di $X$. Quanti sottoinsiemi non vuoti $C$ di $A \cup B$ esistono tali che $n(A \cap C) = n(B \cap C)$?
+>
 > (A) 790 \quad (B) 791 \quad (C) 792 \quad (D) 793 \quad (E) 794
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2015_n3_f1#q19|src_obm_2015_n3_f1__Q19]]
 
 
 
@@ -660,13 +755,18 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i multipli a quattro cifre di 99 con tutti i cifre distinti*
+*Conta i multipli di 99 formati da quattro cifre, con tutte le cifre distinte*
 
-> Quanti multipli di 99 hanno esattamente quattro cifre distinte? (I numeri a quattro cifre non possono iniziare con lo zero; ad esempio, $0123 = 123$ ha solo tre cifre.)
-> 
+> Quanti multipli di 99 hanno esattamente quattro cifre distinte? (I numeri di quattro cifre non possono iniziare con zero; per esempio, $0123 = 123$ ha solo tre cifre.)
+>
 > (A) 9 \quad (B) 27 \quad (C) 45 \quad (D) 72 \quad (E) 90
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n3_f1#q20|src_obm_2015_n3_f1__Q20]]
 
 
 
@@ -692,13 +792,18 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximo numero di radici razionali distinte di polinomio a coefficiente interi con P(0)=2015*
+*Numero massimo di radici razionali distinte di un polinomio a coefficienti interi con P(0)=2015*
 
-> Il polinomio $P(x)$ ha coefficienti interi e $P(0) = 2015$. Al massimo quante radici razionali distinte può avere $P(x)$?
-> 
+> Il polinomio $P(x)$ ha coefficienti interi e $P(0) = 2015$. Al massimo, quanti zeri razionali distinti può avere $P(x)$?
+>
 > (A) 3 \quad (B) 4 \quad (C) 5 \quad (D) 6 \quad (E) 8
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n3_f1#q21|src_obm_2015_n3_f1__Q21]]
 
 
 
@@ -724,13 +829,18 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Min angoli obtusosi tra tutti i triangoli formati da 5 punti non collineari*
+*Angoli ottusi minimi tra tutti i triangoli formati da 5 punti non allineati*
 
-> Nel piano sono dati cinque punti non collineari. Come minimo, quanti angoli obtusosi (angoli più grandi di $90^\circ$) sono determinati da tre di questi cinque punti (cioè come angoli interni di triangoli formati da tre dei cinque punti)?
-> 
+> Nel piano sono dati cinque punti non allineati. Quanti angoli ottusi (angoli maggiori di $90^\circ$), come minimo, sono determinati da tre di questi cinque punti (ossia in quanto angoli interni dei triangoli formati da tre dei cinque punti)?
+>
 > (A) 0 \quad (B) 1 \quad (C) 2 \quad (D) 3 \quad (E) 4
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n3_f1#q22|src_obm_2015_n3_f1__Q22]]
 
 
 
@@ -756,13 +866,18 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il lato più piccolo del triangolo formato da tangenti attraverso intersezioni bisettoricircolo*
+*Lato più piccolo del triangolo formato dalle tangenti passanti per gli incroci tra la bisettrice e la circonferenza circoscritta*
 
-> In triangolo $ABC$, $AB = 40$, $AC = 42$, $BC = 58$. I bisettori di angolo interno di $A$, $B$ e $C$ incontrano di nuovo il cerchio circonscritto di $ABC$ rispettivamente a $K$, $L$ e $M$. Le linee tangenti al cerchio circoscritto a $K$, $L$, $M$ formano un triangolo. Determina il lato più piccolo di questo triangolo.
-> 
+> Nel triangolo $ABC$, $AB = 40$, $AC = 42$, $BC = 58$, le bisettrici degli angoli interni condotte da $A$, $B$, $C$ intersecano nuovamente la circonferenza circoscritta di $ABC$ rispettivamente nei punti $K$, $L$, $M$. Le rette tangenti alla circonferenza circoscritta nei punti $K$, $L$, $M$ formano un triangolo. Determinare il lato più piccolo di questo triangolo.
+>
 > (A) $\dfrac{280}{3}$ \quad (B) $58$ \quad (C) $145$ \quad (D) $\dfrac{145}{7}$ \quad (E) $\dfrac{2900}{17}$
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n3_f1#q23|src_obm_2015_n3_f1__Q23]]
 
 
 
@@ -788,13 +903,18 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum x+y per numeri interi positivi che soddisfano una determinata equazione razionale*
+*Minimo di x+y per gli interi positivi che soddisfano una data equazione razionale*
 
-> I numeri interi positivi $x$ e $y$ soddisfano $$\frac{1}{x} - \frac{1}{2015} = \frac{1}{y} - \frac{1}{x}.$$ Qual è il valore minimo possibile di $x + y$?
-> 
+> The positive integers $x$ and $y$ satisfy $$\frac{1}{x} - \frac{1}{2015} = \frac{1}{y} - \frac{1}{x}.$$ What is the minimum possible value of $x + y$?
+>
 > (A) 2015 \quad (B) 2016 \quad (C) 3264 \quad (D) 4836 \quad (E) 9672
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2015_n3_f1#q24|src_obm_2015_n3_f1__Q24]]
 
 
 
@@ -820,10 +940,15 @@ Il ciclista Esmeralda incontra il camminatore Jade sulla strada di ritorno; trov
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare la somma di 1/[n2(n+1)2] utilizzando l'identità della serie di Basilea*
+*Valuta la somma di 1/[n²(n+1)²] utilizzando l'identità della serie di Basilea*
 
-> Sapendo che $$\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{1}{1^2} + \frac{1}{2^2} + \frac{1}{3^2} + \cdots = \frac{\pi^2}{6},$$ il valore di $$\sum_{n=1}^{\infty} \frac{1}{n^2(n+1)^2} = \frac{1}{1^2 \cdot 2^2} + \frac{1}{2^2 \cdot 3^2} + \frac{1}{3^2 \cdot 4^2} + \cdots$$ è pari a:
-> 
+> Knowing that $$\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{1}{1^2} + \frac{1}{2^2} + \frac{1}{3^2} + \cdots = \frac{\pi^2}{6},$$ the value of $$\sum_{n=1}^{\infty} \frac{1}{n^2(n+1)^2} = \frac{1}{1^2 \cdot 2^2} + \frac{1}{2^2 \cdot 3^2} + \frac{1}{3^2 \cdot 4^2} + \cdots$$ is equal to:
+>
 > (A) $\dfrac{\pi^2}{6} - 1$ \quad (B) $\dfrac{\pi^2}{4}\!\left(\dfrac{\pi^2}{6} - 1\right)$ \quad (C) $\dfrac{\pi^2}{3} - 1$ \quad (D) $\dfrac{\pi^2}{3} + 1$ \quad (E) $\dfrac{\pi^2}{6} - 2$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n3_f1#q25|src_obm_2015_n3_f1__Q25]]

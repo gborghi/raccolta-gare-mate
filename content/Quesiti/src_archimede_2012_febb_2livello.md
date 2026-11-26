@@ -38,9 +38,11 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*From 3a+b on a-b equal to 2, calculate a^3/b^3*
+*From 3a+b over a-b equal to 2, calculate a^3/b^3*
 
-> Two numbers a and b are such that 3a + b a −b = 2. How much is a3 b3 worth ?
+> Two numbers a and b are such that 3a + b
+> a − b = 2. What is the value of a^3
+> b^3 ?
 >
 > - **(A)** −27
 > - **(B)** −8
@@ -48,7 +50,11 @@ level: 2 livello
 > - **(D)** 8
 > - **(E)** 27.
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2012_febb_2livello#q01|src_archimede_2012_febb_2livello__Q01]]
 
 
 
@@ -83,9 +89,11 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Football tournament, time Marco plays in defence*
+*Time Marco plays in defence in a table-football tournament*
 
-> Marco, Fabrizio and Giovanni, three mathematicians, challenge a group of four physicists at a football tournament. They play a match for every possible combination of two mathematicians (one in attack, one in defense) against two physicists (one in attack, one in defense). Each match has the same duration, and in total the tournament lasts 24 hours (without breaks). How long does Marco play defense? It should be noted that, for example, there will be two different encounters of Marco and Fabrizio against a certain attacker and a certain defender among physicists: one with Marco attacking and Fabrizio defender, one vice versa.
+> Marco, Fabrizio and Giovanni, three mathematicians, challenge a group of four physicists to a table-football tournament. They play one match for every possible combination of two mathematicians (one in attack, one in defence) against two physicists (one in attack, one in defence). Each match has the same duration, and in total the tournament lasts a full 24 hours (with no breaks). How long does Marco play in defence?
+>
+> Note that, for example, there will be two different matches of Marco and Fabrizio against a given attacker and a given defender among the physicists: one with Marco attacking and Fabrizio defending, and one the other way round.
 >
 > - **(A)** 2 hours and 24 minutes
 > - **(B)** 4 hours and 48 minutes
@@ -93,7 +101,11 @@ level: 2 livello
 > - **(D)** 8 hours
 > - **(E)** 12 hours.
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2012_febb_2livello#q02|src_archimede_2012_febb_2livello__Q02]]
 
 
 
@@ -125,9 +137,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equilateral triangle side given equidistant treasure at 1 and 2 metres*
+*Given the side of an equilateral triangle, a treasure equidistant at 1 and 2 metres*
 
-> Alice, Berto and Carlo are looking for a treasure. Knowing that the three friends are on the vertices of an equilateral triangle and that the treasure is at a point outside the triangle, one meter away from Alice and Berto and two meters away from Charles, how many meters is the side of the triangle?
+> Alice, Berto and Carlo are searching for a treasure. Knowing that the three friends are at the vertices of an equilateral triangle and that the treasure is at a point outside the triangle, 1 metre from Alice and from Berto and 2 metres from Carlo, how many metres is the side of the triangle?
 >
 > - **(A)** 2 √ 3
 > - **(B)** 3 √ 3 4
@@ -135,7 +147,11 @@ level: 2 livello
 > - **(D)** 3 2
 > - **(E)** √ 3.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2012_febb_2livello#q03|src_archimede_2012_febb_2livello__Q03]]
 
 
 
@@ -165,9 +181,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two-digit numbers less the sum of the digits equal to 45*
+*Two-digit numbers whose number minus the sum of its digits equals 45*
 
-> How many 2-digit numbers are such that if you subtract the sum of the digits from the starting number, you get 45?
+> How many two-digit numbers are there such that, if the sum of the digits is subtracted from the starting number, 45 is obtained?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -175,7 +191,10 @@ level: 2 livello
 > - **(D)** 10
 > - **(E)** 20.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2012_febb_2livello#q04|src_archimede_2012_febb_2livello__Q04]]
 
 
 
@@ -209,17 +228,23 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum coefficient of degree 1 of the monic polynomial degree 5
+*Greatest first-degree coefficient of a monic degree-5 polynomial*
 
-> We know that p(x) is a monic polynomial of degree 5. Also, we know that the solutions of the equation p(x) = 0 are exactly x = 0, 1, 2, 4. Determine the maximum value that the first degree term coefficient can assume. Note: a polynomial is monic if the coefficient of its highest degree term (in our case: that of fifth degree) is 1.
+> It is known that p(x) is a monic polynomial of degree 5. It is also known that the solutions of the equation p(x) = 0 are exactly x = 0, 1, 2, 4. Determine the greatest value that the coefficient of the first-degree term can take.
+>
+> Note: a polynomial is monic if the coefficient of its highest-degree term (in our case, the fifth-degree one) is 1.
 >
 > - **(A)** −32
 > - **(B)** 16
 > - **(C)** 32
 > - **(D)** 64
-> - **(E)** It can assume arbitrarily large values.
+> - **(E)** it can take arbitrarily large values.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2012_febb_2livello#q05|src_archimede_2012_febb_2livello__Q05]]
 
 
 
@@ -258,17 +283,33 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Race horses with liars and liars, who and third*
+*Backer of the horse that finished third*
 
-> After a race of five horses, five friends meet and talk about the results. We know that each of them has bet on a different horse, and that both the people who bet on the first and last rated are lying; the others are telling the truth. Their statements are as follows: Alex: The horse Igor bet on has distanced Enrica's horse by at least two positions.  Enrica: The horse I bet on has won. Igor: The horse Osvaldo bet on has overtaken mine. Osvaldo: The horse I bet on has not made it to the top three. Umberto: My horse did not win but it came right after Alex's and right before Enrica's. Who bet on the third classified horse?
+> After a race among five horses, five friends meet and talk about the results. It is known that each of them backed a different horse, and that both the person who backed the first-placed horse and the person who backed the last-placed horse are lying; the others tell the truth. Their statements are as follows:
+>
+> Alex: "The horse Igor backed finished at least two places ahead of Enrica's horse."
+>
+> Enrica: "The horse I backed won."
+>
+> Igor: "The horse Osvaldo backed finished ahead of mine."
+>
+> Osvaldo: "The horse I backed did not finish in the top three."
+>
+> Umberto: "My horse did not win, but it finished immediately after Alex's and immediately before Enrica's."
+>
+> Who backed the horse that finished third?
 >
 > - **(A)** Alex
 > - **(B)** Igor
 > - **(C)** Osvaldo
 > - **(D)** Umberto
-> - **(E)** It cannot be determined.
+> - **(E)** it cannot be determined.
 
-**Answer:** A
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2012_febb_2livello#q06|src_archimede_2012_febb_2livello__Q06]]
 
 
 
@@ -299,9 +340,9 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area isosceles triangle ABC with mean D and isosceles BCD*
+*Area of isosceles triangle ABC with D midpoint and BCD isosceles*
 
-> Either ABC is an isosceles triangle with base BC, or D the midpoint of AC. Knowing that BCD is in turn isosceles with CD base and that BC = 2, how much does the area of ABC measure?
+> Let ABC be an isosceles triangle with base BC, and let D be the midpoint of AC. Knowing that BCD is itself isosceles with base CD and that BC = 2, what is the area of ABC?
 >
 > - **(A)** 2
 > - **(B)** √ 5
@@ -309,7 +350,11 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 > - **(D)** √ 7
 > - **(E)** 3.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2012_febb_2livello#q07|src_archimede_2012_febb_2livello__Q07]]
 
 
 
@@ -341,17 +386,22 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expenditure increases by 0.5% per annum, a year in which it doubles*
+*Year in which expenses growing by 0, 5% a year exactly double*
 
-> The costs of organising the National Mathematical Olympiads increase by 0.5% each year compared to the previous year. In what year will the expenditure be exactly double that of 2012? Note: In 2012 the expenditure is not zero.
+> The expenses of organising the National Mathematics Olympiads increase every year by 0, 5% compared with the previous year. In which year will the expenses be exactly double those of 2012?
+>
+> Note: in 2012 the expenses are not zero.
 >
 > - **(A)** 2023
 > - **(B)** 2150
 > - **(C)** 2151
 > - **(D)** 2212
-> - **(E)** I never did.
+> - **(E)** never.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2012_febb_2livello#q08|src_archimede_2012_febb_2livello__Q08]]
 
 
 
@@ -384,9 +434,9 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples m,n with mn=25! a reduced fraction of less than 1*
+*Pairs m,n with mn=25! reduced fraction less than 1*
 
-> How many pairs of positive integers (m, n) are such that the fraction m n is reduced to the minimum terms and strictly less than 1, and that the product mn is equal to 1 · 2 · 3 · 24 · 25 (or the product of the first 25 positive integers)?
+> How many pairs of positive integers (m, n) are there such that the fraction m/n is in lowest terms and strictly less than 1, and such that the product mn is equal to 1 · 2 · 3 · · · 24 · 25 (that is, the product of the first 25 positive integers)?
 >
 > - **(A)** 27
 > - **(B)** 28 −1
@@ -394,7 +444,11 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 > - **(D)** 29 −1
 > - **(E)** 29.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2012_febb_2livello#q09|src_archimede_2012_febb_2livello__Q09]]
 
 
 
@@ -429,17 +483,21 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance B C data of 30 degree angles on the carton*
+*Straight-line distance between B and C given three 30-degree angles*
 
-> Three people A, B, C are near a road junction between two perpendicular roads. A is located exactly at the intersection, while B and C are on two separate roads. In the field near the intersection (within the right angle $\widehat{CAB}$) there is an advertising sign, supported by two poles planted in the ground at points D and E, exactly one meter apart. A, B and C all see the front of the billboard. Knowing that the angles $\widehat{DAE}$, $\widehat{DBE}$ and $\widehat{DCE}$ all measure 30 degrees, what is the distance (in line daria) between B and C?
+> Three people A, B, C are near a road junction of two perpendicular roads. A is exactly at the junction, while B and C are on two different roads. In the field near the junction (inside the right angle $\widehat{CAB}$) there is an advertising billboard, supported by two poles planted in the ground at the points D and E, which are exactly one metre apart. A, B and C all see the front side of the billboard. Given that the angles $\widehat{DAE}$, $\widehat{DBE}$ and $\widehat{DCE}$ all measure 30 degrees, what is the straight-line distance between B and C?
 >
 > - **(A)** 3 2 m
 > - **(B)** 1 + √ 5 2 m
 > - **(C)** √ 3 m
 > - **(D)** 2 m
-> - **(E)** There's no way to tell.
+> - **(E)** it cannot be determined.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2012_febb_2livello#q10|src_archimede_2012_febb_2livello__Q10]]
 
 
 
@@ -473,9 +531,9 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting of chess colours 8x8 with bound letters ABCD*
+*Counting colourings of an 8x8 chessboard with letters A, B, C, D constrained*
 
-> An 8 by 8 chessboard is filled with the letters A, B, C, D so that two boxes with one side or a common vertex contain different letters, and so that the letters A and B have the following property: whenever an A or B has a certain letter X adjacent horizontally or vertically (X can be A, B, C or D), then on the opposite side there is another X (unless there is no edge). How many ways can you put those letters on the chessboard?
+> An 8 by 8 chessboard is filled with the letters A, B, C, D so that two squares sharing a side or a vertex contain different letters, and so that the letters A and the letters B have the following property: whenever an A or a B has a certain letter X adjacent horizontally or vertically (X may be A, B, C or D), then on the opposite side there is another X (unless there is the edge). In how many ways is it possible to arrange such letters on the chessboard?
 >
 > - **(A)** 136
 > - **(B)** 144
@@ -483,7 +541,11 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 > - **(D)** 328
 > - **(E)** 360.
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2012_febb_2livello#q11|src_archimede_2012_febb_2livello__Q11]]
 
 
 
@@ -519,22 +581,25 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Folletto halves x^2 - y^2, maximum number of pranks*
+*Most tricks the elf plays by halving x2 −y2*
 
-> A fairy chooses two odd numbers x, y such that 0 < y < x < 2012, computes x² − y², and writes the result on a sheet of paper. Every morning (starting from the day after), she wakes up, reads the number written on the paper, and if this number is even, replaces it with half of itself and goes to play a prank on someone.
+> An elf chooses two odd numbers x, y such that 0 < y < x < 2012, computes x2 −y2 and writes the result on a sheet of paper. Every morning (starting from the morning of the following day) he wakes up, reads the number written on the sheet and, if this number is even, replaces it with its half and goes to play a trick on someone.
 >
-> The day she first reads an odd number, she disappears, returning to the fairy world.
+> The day he first reads an odd number, he vanishes, returning to the fairy world.
 >
-> What is the maximum number of pranks the fairy can perform?
+> What is the maximum number of tricks the elf plays?
 >
 > - **(A)** 11
 > - **(B)** 12
 > - **(C)** 14
 > - **(D)** 21
-> - **(E)** 22
-> Numerical answer problems – 5 points
+> - **(E)** 22. numerical-answer problems – 5 points
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2012_febb_2livello#q12|src_archimede_2012_febb_2livello__Q12]]
 
 
 
@@ -592,40 +657,18 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Iterated tangent circles, minimum n with area less than 1*
+*Smallest n such that a nested circle of initial radius 22012 has area less than 1*
 
 ![[src_archimede_2012_febb_2livello__prob13.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.0]
-  \coordinate (O0) at (0,0);
-  \coordinate (C0) at (3,0);
-  \coordinate (A0) at (-1.5,2.598);
-  \coordinate (B0) at (-1.5,-2.598);
-  \coordinate (H0) at (-1.5,0);
-  \coordinate (D0) at (-3,0);
-  \coordinate (O1) at (-2.25,0);
-  \draw (O0) circle (3);
-  \draw (O1) circle (0.75);
-  \draw (A0) -- (B0) -- (C0) -- cycle;
-  \draw (D0) -- (C0);
-  \draw[fill] (O0) circle (1.5pt) node[above right]{$O_0$};
-  \draw[fill] (O1) circle (1.5pt) node[below]{$O_1$};
-  \draw[fill] (H0) circle (1.5pt) node[above right]{$H_0$};
-  \draw[fill] (A0) circle (1.5pt) node[above]{$A_0$};
-  \draw[fill] (B0) circle (1.5pt) node[below]{$B_0$};
-  \draw[fill] (C0) circle (1.5pt) node[right]{$C_0$};
-  \draw[fill] (D0) circle (1.5pt) node[left]{$D_0$};
-  \node at (1.8,2.4) {$\Gamma_0$};
-  \node at (-2.1,0.95) {$\Gamma_1$};
-\end{tikzpicture}
-\end{document}
-```
+> Let Γ0 be a circle of radius 22012, and let A0B0C0 be an equilateral triangle inscribed in Γ0. Let Γ1 be a circle of smallest radius tangent to A0B0 at its midpoint H0, and tangent to Γ0. The circles Γ2, . . . , Γn are constructed in the same way, so that Γn is one of the circles of smallest radius tangent to Γn−1 and to a side of an equilateral triangle inscribed in Γn−1, at its midpoint. What is the smallest value of n for which the area of the disc enclosed by Γn is less than 1?
 
-> Whether Γ0 be a radius circumference of 22012, and whether A0B0C0 be an equilateral triangle inscribed in Γ0. Whether Γ1 the circumference of the smallest radius tangent to A0B0 at its midpoint H0, or Γ0. The circumferences are constructed C2. . . , Γn in the same way, such that Γn is one of the smallest radius circumferences tangent to Γn−1 and to one side of an equilateral triangle inscribed in Γn−1 at its midpoint. What is the smallest value of n for which the area of the circle enclosed by Γn is less than 1?
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
-**Answer:** 1007
+[[Quesiti/src_archimede_2012_febb_2livello#q13|src_archimede_2012_febb_2livello__Q13]]
 
 
 
@@ -654,9 +697,16 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 
 *Minimum of p(0)^2+q(0)^2 for polynomials with parity constraints*
 
-> They are p(x) and q(x) two distinct polynomials of degree less than or equal to 3, with integer coefficients such that p(1) = q(1), p(2) = q(2), p(3) = q(3), p(−1) = −q(−1), p(−2) = −q(−2), p(−3) = −q(−3). What is the minimum value that can be assumed by [p(0)]2 + [q(0)]2?
+> Let p(x) and q(x) be two distinct polynomials of degree at most 3, with integer coefficients, such that
+> p(1) = q(1), p(2) = q(2), p(3) = q(3),
+> p(−1) = −q(−1), p(−2) = −q(−2), p(−3) = −q(−3).
+> What is the minimum value that [p(0)]2 + [q(0)]2 can take?
 
-**Answer:** 36
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2012_febb_2livello#q14|src_archimede_2012_febb_2livello__Q14]]
 
 
 
@@ -683,9 +733,18 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cyclostillate of n multiples of 9 and 11*
+*Cyclic concatenation of n that is a multiple of 9 and of 11*
 
-> Given any positive integer n, we call cyclostilate of n the number that is obtained by concatenating 2012 letters of n (based on 10). For example , the cyclostilate of 314 is 314314314 . . . 314, where the numbers 314 are repeated 2012 times. (a) Determine all positive integers m such that the cyclostilate of m is a multiple of 9. (b) Determine all positive integers m such that the cyclostilate of m is multiple 11.
+> PROOF EXERCISE
+> Given any positive integer n, call the cyclic concatenation of n the number obtained by concatenating 2012 copies of n (in base 10). For example, the cyclic concatenation of 314 is 314314314 . . . 314, where the digits “314” repeat 2012 times.
+> (a) Determine all positive integers m such that the cyclic concatenation of m is a multiple of 9.
+> (b) Determine all positive integers m such that the cyclic concatenation of m is a multiple of 11.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2012_febb_2livello#q15|src_archimede_2012_febb_2livello__Q15]]
 
 
 
@@ -721,11 +780,18 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Debt of weekly sleep, minimum hours of sleep by David*
+*Weekly sleep debt, minimum hours Davide slept*
 
-> Demonstrative Exercise Normally David needs at least eight hours of sleep a night. If one night he sleeps less than he needs to, he finds himself needing more than k hours for the next k nights. Each night, however, he sleeps an entire number of hours less or equal to his needs. For example, if you need eight hours on Monday night, but you sleep seven, you'll need nine on Tuesday. If on Wednesday you need 8 hours, but on Thursday and Friday you need at least 10 hours of sleep; if on Thursday you only need 9 hours, on Friday you will feel the need for 11 hours (8, plus 2 for the hours lost on Wednesday, plus 1 for the one not sleeping on Thursday). On a certain Monday night David would need eight hours of sleep; the same is true on the Monday night of the following week. During the week there were 7 hours in which he needed to sleep but did not: How many hours did David sleep at least in the seven nights from Monday to Sunday?
+> PROOF EXERCISE
+> Normally Davide needs to sleep at least 8 hours per night.
+> If one night he sleeps k hours less than he needs, he finds himself needing k extra hours of sleep for the k following nights. Each night he sleeps an integer number of hours less than or equal to his need. For example, if on Monday night he needs 8 hours but sleeps 7, on Tuesday he will need 9 hours. If on Wednesday he needs 8 hours but sleeps 6, on Thursday and Friday he will need at least 10 hours of sleep; if on Thursday he sleeps only 9, on Friday he will feel the need for 11 hours (8, plus 2 for the hours lost on Wednesday, plus 1 for the one not slept on Thursday).
+> One Monday night Davide would need to sleep 8 hours; the same occurs on the Monday night of the following week. During the week there were 7 hours in which he would have needed to sleep but did not: what is the minimum number of hours Davide slept in the seven nights from Monday to Sunday?
 
-**Answer:** 58
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2012_febb_2livello#q16|src_archimede_2012_febb_2livello__Q16]]
 
 
 
@@ -757,8 +823,18 @@ Maximum coefficient of degree 1 of the monic polynomial degree 5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Acute triangle, circocentre, angles and areas of quadrilateral*
+*Acute triangle, circumcenter, angles and areas of quadrilaterals*
 
-![[src_archimede_2012_febb_2livello__prob17.png]]
+> PROOF EXERCISE
+> Let ABC be an acute triangle; let O be its circumcenter and let P, Q be the points (different from A)
+> where respectively the altitude from vertex A and the extension of AO meet the circumcircle of ABC.
+> (a) Prove that the angles $\widehat{BAP}$ and $\widehat{QAC}$ are congruent;
+> (b) Prove that the triangles BCP and CBQ are congruent;
+> (c) Prove that, if M and N are the midpoints of AB and AC, the area of quadrilateral ABPC is
+> four times the area of quadrilateral AMON.
 
-> Demonstrative Exercise Whether ABC is an acute triangle; whether O is its circumcenter and whether P, Q are the points (other than A) where, respectively, the height exiting from vertex A and the extension of AO meet the circumference prescribed at ABC. (a) The angles $\widehat{BAP}$ and $\widehat{QAC}$ are shown to be congruent; (b) The triangles BCP and CBQ are shown to be congruent; (c) The area of the quadrilateral ABPC is shown to be four times the area of the quadrilateral AMON, given the mean points of AB and AC at M and N.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2012_febb_2livello#q17|src_archimede_2012_febb_2livello__Q17]]

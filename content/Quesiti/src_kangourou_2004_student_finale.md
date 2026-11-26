@@ -30,11 +30,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer pairs with |x^2-3y^2+2xy|=1*
+*For which pairs of integers the equality holds*
 
-> For which pairs $(x, y)$ of relative integers is it true that $|x^2 - 3y^2 + 2xy| = 1$?
+> For which pairs $(x, y)$ of integers is it true that $|x^2 - 3y^2 + 2xy| = 1$?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** (1,0),(-1,0)
+[[Quesiti/src_kangourou_2004_student_finale#qs1|src_kangourou_2004_student_finale__QS1]]
 
 
 
@@ -82,7 +86,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of region internal to beta and external to gamma*
+*The area of the region inside one circle and outside the other*
 
 ![[src_kangourou_2004_student_finale__probs2.png]]
 
@@ -109,9 +113,12 @@ level: kangourou
 \end{document}
 ```
 
-> A circumference $\beta$ with a radius of $\sqrt{2}$ centimetres and a circumference $\gamma$ with a radius of $2$ centimetres and a centre $C$ belonging to $\beta$ are given in the plane. Calculate the area of the region internal to $\beta$ and external to $\gamma$.
+> In the plane a circle $\beta$ is given, whose radius measures $\sqrt{2}$ centimetres, and a circle $\gamma$, whose radius measures $2$ centimetres and whose centre $C$ lies on $\beta$. Calculate the area of the region inside $\beta$ and outside $\gamma$.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** 2
+[[Quesiti/src_kangourou_2004_student_finale#qs2|src_kangourou_2004_student_finale__QS2]]
 
 
 
@@ -141,15 +148,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max cross tiles on the 8x8 chessboard*
+*The greatest number of cross tiles the chessboard can hold*
 
 ![[src_kangourou_2004_student_finale__probs3.png]]
 
-> We place in a square chessboard $8 \times 8$ symmetrical cross-shaped tiles such as the one in the figure, formed by joining 5 squares of the same size to the chessboard cells, so that: - each of them covers exactly (overlapping) 5 of the 64 squares of the chessboard; - the tiles do not overlap, but can touch and touch the edge of the chessboard.
-> 
-> How many tiles can the chessboard hold at most? (see figure)
+> We place on a square chessboard $8 \times 8$ tiles in the shape of a symmetrical cross like the one in the figure, formed by placing side by side 5 squares of the same size as the cells of the chessboard, so that:
+> - each of them covers exactly (by lying on top of them) 5 of the 64 squares of the chessboard;
+> - the tiles do not overlap, but may touch one another and touch the edge of the chessboard.
+>
+> What is the greatest number of tiles the chessboard can hold? (see the figure)
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** 8
+[[Quesiti/src_kangourou_2004_student_finale#qs3|src_kangourou_2004_student_finale__QS3]]
 
 
 
@@ -173,11 +186,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of X printed by the algorithm*
+*The value of X that will be printed*
 
-> A calculator executes the following instructions: (1) initialize $X$ to $3$ and $S$ to $0$, (2) increase the value of $X$ by $2$, (3) increase the value of $S$ by the value of $X$, (4) if $S$ has at least $5$ digits go to the instruction (5) otherwise go to the instruction (2) and start from that position, (5) print the value of $X$ and finish. What will be the value of $X$ to be printed in step (5)?
+> A computer carries out the following instructions: (1) initialise $X$ to $3$ and $S$ to $0$, (2) increase the value of $X$ by $2$, (3) increase the value of $S$ by the value of $X$, (4) if $S$ has at least $5$ digits go to instruction (5), otherwise go to instruction (2) and start again from that point, (5) print the value of $X$ and stop. What will be the value of $X$ that is printed at step (5)?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** 10200
+[[Quesiti/src_kangourou_2004_student_finale#qs4|src_kangourou_2004_student_finale__QS4]]
 
 
 
@@ -201,11 +218,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Longest sequence of squares with prime differences*
+*The longest sequence that satisfies the requirements*
 
-> Suppose you know that (for $n = 1, 2, \ldots$) $a_n$ is the square of a nonzero integer and the difference $a_{n+1} - a_n$ is a prime (positive) or the square of a prime. Show that all possible sequences $\{a_n\}$ that meet these requirements are finite and determines the longest.
+> Suppose you know that (for $n = 1, 2, \ldots$) $a_n$ is the square of a non-zero integer and the difference $a_{n+1} - a_n$ is a (positive) prime or the square of a prime. Prove that all the possible sequences $\{a_n\}$ that satisfy these requirements are finite, and find the longest.
 
-**Answer:** length 7
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Answer:** lunghezza 7
+[[Quesiti/src_kangourou_2004_student_finale#qs5|src_kangourou_2004_student_finale__QS5]]
 
 
 
@@ -229,8 +250,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of distances from P to the six edges of the tetrahedron*
+*The least sum of the distances from P to the six edges*
 
-> Consider a point $P$ inside a regular tetrahedron with side $1$. Show that the sum of the distances from $P$ to the six edges of the tetrahedron is not less than $\dfrac{2\sqrt{2}}{3}$ and identify any points $P$ at which this sum is exactly $\dfrac{2\sqrt{2}}{3}$.
+> Consider a point $P$ inside a regular tetrahedron of side $1$. Show that the sum of the distances from $P$ to the six edges of the tetrahedron is not less than $\dfrac{2\sqrt{2}}{3}$, and find any points $P$ at which that sum is exactly $\dfrac{2\sqrt{2}}{3}$.
 
-**Answer:** 3sqrt2/2 centroid
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Answer:** 3sqrt2/2 baricentro
+[[Quesiti/src_kangourou_2004_student_finale#qs6|src_kangourou_2004_student_finale__QS6]]

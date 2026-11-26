@@ -33,13 +33,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Insinsiemi finiti bilanciati e senza centro nel piano*
+*Insiemi finiti di punti nel piano bilanciati e privi di centro*
 
-> Chiamiamo un insieme finito $\mathcal{S}$ di punti nel piano bilanciato se, per ogni coppia di punti distinti $A$ e $B$ in $\mathcal{S}$, esiste un punto $C$ in $\mathcal{S}$ tale che $AC = BC$. Chiamiamo invece $\mathcal{S}$ privo di centro se, per ogni terna di punti distinti $A$, $B$ e $C$ in $\mathcal{S}$, non esiste alcun punto $P$ in $\mathcal{S}$ tale che $PA = PB = PC$.
-> 
-> (a) Si dimostri che per ogni intero $n \ge 3$ esiste un insieme bilanciato e privo di centro formato da $n$ punti.
-> 
-> (b) Determinare tutti gli interi $n \ge 3$ per i quali esiste un insieme bilanciato privo di centro formato da $n$ punti.
+> Diciamo che un insieme finito $\mathcal{S}$ di punti nel piano è bilanciato se, per ogni due punti distinti $A$ e $B$ appartenenti a $\mathcal{S}$, esiste un punto $C$ in $\mathcal{S}$ tale che $AC = BC$. Diciamo che $\mathcal{S}$ è privo di centro se, per ogni tre punti distinti $A$, $B$ e $C$ appartenenti a $\mathcal{S}$, non esiste alcun punto $P$ in $\mathcal{S}$ tale che $PA = PB = PC$.
+>
+> (a) Mostra che, per tutti gli interi $n \ge 3$, esiste un insieme bilanciato e privo di centro costituito da $n$ punti.
+>
+> (b) Determina tutti gli interi $n \ge 3$ per cui esiste un insieme bilanciato e privo di centro costituito da $n$ punti.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imho_2015#q01|src_imho_2015__Q01]]
 
 
 
@@ -66,13 +73,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tutte le terne in cui ab−c, bc−a, ca−b sono potenze di 2*
+*Tutte le triple in cui ab-c, bc-a, ca-b sono potenze di 2*
 
 > Determinare tutte le terne $(a, b, c)$ di interi positivi tali che ciascuno dei numeri
 > $$ab - c, \quad bc - a, \quad ca - b$$
 > sia una potenza di $2$.
-> 
-> (Potenza di $2$ è un intero della forma $2^n$, dove $n$ è un numero intero non negativo.)
+>
+> (Una potenza di $2$ è un intero della forma $2^n$, dove $n$ è un intero non negativo.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2015#q02|src_imho_2015__Q02]]
 
 
 
@@ -97,11 +111,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le circonferenze circoscritte ai triangoli KQH e FKM sono tangenti tra loro*
+*Le circonferenze circoscritte a KQH e FKM sono tangenti tra loro*
 
-> Sia $ABC$ un triangolo acutangolo con $AB > AC$. Sia $\Gamma$ la sua circonferenza circoscritta, $H$ il suo ortocentro e $F$ il piede dell'altezza da $A$. Sia $M$ il punto medio di $BC$. Sia $Q$ il punto su $\Gamma$ tale che $\angle HQA = 90^\circ$, e sia $K$ il punto su $\Gamma$ tale che $\angle HKQ = 90^\circ$. Si assuma che i punti $A$, $B$, $C$, $K$ e $Q$ siano tutti distinti e giacciano su $\Gamma$ in quest'ordine.
-> 
-> Si dimostri che le circonferenze circoscritte ai triangoli $KQH$ e $FKM$ sono tangenti tra loro.
+> Sia $ABC$ un triangolo acuto con $AB > AC$. Sia $\Gamma$ la sua circonferenza circoscritta, $H$ il suo ortocentro e $F$ il piede dell'altezza condotta da $A$. Sia $M$ il punto medio di $BC$. Sia $Q$ il punto su $\Gamma$ tale che $\angle HQA = 90^\circ$, e sia $K$ il punto su $\Gamma$ tale che $\angle HKQ = 90^\circ$. Si supponga che i punti $A$, $B$, $C$, $K$ e $Q$ siano tutti distinti e che giacciano su $\Gamma$ in questo ordine.
+>
+> Dimostrare che le circonferenze circoscritte ai triangoli $KQH$ e $FKM$ sono tangenti tra loro.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2015#q03|src_imho_2015__Q03]]
 
 
 
@@ -126,11 +147,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le rette FK e GL si incontrano in X, che appartiene alla retta AO*
+*Le rette FK e GL si incontrano nel punto X, che giace sulla retta AO*
 
-> Il triangolo $ABC$ ha circonferenza circoscritta $\Omega$ e circocentro $O$. Una circonferenza $\Gamma$ di centro $A$ interseca il segmento $BC$ nei punti $D$ e $E$, tali che $B$, $D$, $E$ e $C$ siano tutti distinti e giacciano sulla retta $BC$ in quest'ordine. Siano $F$ e $G$ i punti di intersezione delle circonferenze $\Gamma$ e $\Omega$, tali che $A$, $F$, $B$, $C$ e $G$ giacciano sulla circonferenza $\Omega$ in quest'ordine. Sia $K$ il secondo punto di intersezione della circonferenza circoscritta al triangolo $BDF$ e del segmento $AB$. Sia $L$ il secondo punto di intersezione della circonferenza circoscritta al triangolo $CGE$ e del segmento $CA$.
-> 
-> Siano le rette $FK$ e $GL$ diverse tra loro e che si intersechino nel punto $X$. Si dimostri che il punto $X$ appartiene alla retta $AO$.
+> Il triangolo $ABC$ ha la circonferenza circoscritta $\Omega$ e il centro della circonferenza circoscritta $O$. Una circonferenza $\Gamma$, avente centro $A$, interseca il segmento $BC$ nei punti $D$ e $E$, in modo che $B$, $D$, $E$ e $C$ siano tutti distinti e giacciano sulla retta $BC$ in questo ordine. Siano $F$ e $G$ i punti di intersezione di $\Gamma$ e $\Omega$, in modo che $A$, $F$, $B$, $C$ e $G$ giacciano su $\Omega$ in questo ordine. Sia $K$ il secondo punto di intersezione tra la circonferenza circoscritta del triangolo $BDF$ e il segmento $AB$. Sia $L$ il secondo punto di intersezione tra la circonferenza circoscritta del triangolo $CGE$ e il segmento $CA$.
+>
+> Si supponga che le rette $FK$ e $GL$ siano distinte e si intersechino nel punto $X$. Dimostrare che $X$ giace sulla retta $AO$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2015#q04|src_imho_2015__Q04]]
 
 
 
@@ -155,12 +183,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le funzioni reali che soddisfano f(x+f(x+y))+f(xy)=x+f(x+y)+yf(x)*
-f(x+f(x+y))+f(xy)=x+f(x+y)+yf(x)*
+*Trovare tutte le funzioni reali che soddisfano f(x+f(x+y))+f(xy)=x+f(x+y)+yf(x)*
 
 > Sia $\mathbb{R}$ l'insieme dei numeri reali. Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano l'equazione
 > $$f(x + f(x + y)) + f(xy) = x + f(x + y) + yf(x)$$
 > per tutti i numeri reali $x$ e $y$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2015#q05|src_imho_2015__Q05]]
 
 
 
@@ -191,14 +225,21 @@ f(x+f(x+y))+f(xy)=x+f(x+y)+yf(x)*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successione di interi che soddisfa due condizioni; limite della somma delle deviazioni*
+*Successione di interi che soddisfa due condizioni; somma limitata delle deviazioni*
 
 > La successione $a_1, a_2, \ldots$ di interi soddisfa le seguenti condizioni:
-> 
+>
 > (i) $1 \le a_j \le 2015$ per ogni $j \ge 1$;
-> 
+>
 > (ii) $k + a_k \ne \ell + a_\ell$ per ogni $1 \le k < \ell$.
-> 
-> Si dimostri che esistono due numeri interi positivi $b$ e $N$ tali che
+>
+> Dimostrare che esistono due interi positivi $b$ e $N$ tali che
 > $$\left| \sum_{j=m+1}^{n} (a_j - b) \right| \le 1007^2$$
-> per ogni coppia di numeri interi $m$ e $n$ che soddisfano $n > m \ge N$.
+> per tutti gli interi $m$ e $n$ che soddisfano $n > m \ge N$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2015#q06|src_imho_2015__Q06]]

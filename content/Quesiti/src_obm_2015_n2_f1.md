@@ -38,9 +38,9 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ordine delle auto che arrivano in gara da indizi*
+*Ordine delle auto che arrivano in una gara, ricavato dagli indizi*
 
-> Juquinha e i suoi amici organizzarono una gara con le loro auto. L'auto bianca (B) è arrivata prima di quella rossa (V) e dopo quella marrone (M). La macchina gialla (A) è arrivata dopo quella marrone e prima di quella rossa. Dall'inizio alla fine, qual è l'ordine delle auto?
+> Juquinha e i suoi amici hanno organizzato una gara con le loro auto. L'auto bianca (B) è arrivata prima di quella rossa (V) e dopo quella granata (M). L'auto gialla (A) è arrivata dopo quella granata e prima di quella rossa. Dalla prima all'ultima, qual è l'ordine delle auto?
 >
 > - **(A)** $B - A - V - M$
 > - **(B)** $B - V - A - M$
@@ -49,6 +49,14 @@ level: OBM Nível 2
 > - **(E)** $B - A - M - V$
 
 ![[src_obm_2015_n2_f1__q01.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_logica|Logica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n2_f1#q01|src_obm_2015_n2_f1__Q01]]
 
 
 
@@ -75,11 +83,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Quanti anni di questo secolo hanno la media digitali uguale a 2
+*Quanti anni di questo secolo hanno media delle cifre uguale a 2?*
 
-> La media aritmetica dei numeri dell'anno 2015 è pari a 2, dal momento che $\frac{2+0+1+5}{4}=\frac{8}{4}=2$. Quante volte in questo secolo succederà che la media delle cifre dell'anno sia uguale a 2?
-> 
+> La media aritmetica delle cifre dell'anno 2015 è uguale a 2, poiché $\frac{2+0+1+5}{4}=\frac{8}{4}=2$. Quante volte in questo secolo accadrà che la media delle cifre dell'anno sia uguale a 2?
+>
 > (A) 3 (B) 5 (C) 6 (D) 7 (E) 9
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n2_f1#q02|src_obm_2015_n2_f1__Q02]]
 
 
 
@@ -107,13 +124,21 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*BAD d'angolo in dodicagone regolare*
+*Angolo BAD in un dodecagono regolare*
 
-> La figura accanto rappresenta un dodicagono regolare. Qual è la misura dell'angolo $\angle BAD$?
-> 
+> La figura accanto rappresenta un dodecagono regolare. Qual è la misura dell'angolo $\angle BAD$?
+>
 > (A) $15^\circ$ (B) $30^\circ$ (C) $45^\circ$ (D) $60^\circ$ (E) $75^\circ$
 
 ![[src_obm_2015_n2_f1__q03.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n2_f1#q03|src_obm_2015_n2_f1__Q03]]
 
 
 
@@ -140,11 +165,20 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Possibile data del compleanno di Marta data la limitazione del Giorno della Madre*
+*Possibile data del compleanno di Marta, tenendo conto del vincolo della Festa della Mamma*
 
-> Joao è un uomo molto premuroso e ha deciso di festeggiare, in un solo giorno, il giorno della Madre e il compleanno di sua moglie Marta. Sapendo che in un determinato anno le due date coincidono e che il giorno dopo la celebrazione non coinciderà più (il giorno della madre viene celebrato la seconda domenica di maggio), quale delle opzioni rappresenta una possibile data per il compleanno di Marta?
-> 
+> Joao è un uomo molto premuroso e ha deciso di celebrare, in un unico giorno, la Festa della Mamma e il compleanno di sua moglie Marta. Sapendo che in un determinato anno le due date coincisero e che il giorno successivo la celebrazione non sarebbe più coincisa (poiché la Festa della Mamma si celebra la seconda domenica di maggio), quale delle opzioni rappresenta una data possibile per il compleanno di Marta?
+>
 > (A) 04 maggio (B) 05 maggio (C) 06 maggio (D) 07 maggio (E) 08 maggio
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n2_f1#q04|src_obm_2015_n2_f1__Q04]]
 
 
 
@@ -173,13 +207,22 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero minimo di colori per dipingere le facce di un prisma pentagonale*
+*Numero minimo di colori per colorare le facce di un prisma pentagonale*
 
-> Wagner vuole dipingere i volti di due prismi pentagonali. Poiché due facce che condividono un bordo comune non possono avere lo stesso colore, ma due facce che condividono solo un vertice possono avere lo stesso colore, come mostrato nella figura, qual è il numero minimo possibile di colori? Che numero è questo?
-> 
+> Wagner vuole colorare le facce di due prismi pentagonali. Poiché due facce che condividono un spigolo comune non possono avere lo stesso colore, ma due facce che condividono solo un vertice possono avere lo stesso colore, come mostrato nella figura, qual è il numero minimo possibile di colori? Qual è questo numero?
+>
 > (A) 3 (B) 4 (C) 5 (D) 6 (E) 7
 
 ![[src_obm_2015_n2_f1__q05.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n2_f1#q05|src_obm_2015_n2_f1__Q05]]
 
 
 
@@ -206,11 +249,20 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme di soluzioni di (x-a)^2 = b^2 con a,b reali positivi*
+*Insieme delle soluzioni di (x-a)^2 = b^2, con a e b numeri reali positivi*
 
-> L'insieme di soluzioni dell'equazione $(x-a)^2=b^2$, con $a,b$ numeri reali positivi, è:
-> 
+> L'insieme delle soluzioni dell'equazione $(x-a)^2=b^2$, con $a,b$ numeri reali positivi, è:
+>
 > (A) $\{a+b\}$ (B) $\{a-b\}$ (C) $\{a+b,a-b\}$ (D) $\{-a+b,a+b\}$ (E) $\{a+b,-a-b\}$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2015_n2_f1#q06|src_obm_2015_n2_f1__Q06]]
 
 
 
@@ -247,19 +299,28 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il vincitore del primo turno delle elezioni dalle percentuali di trasferimento dei voti in una tabella*
+*Vincitore del ballottaggio elettorale, basato sulle percentuali di trasferimento dei voti, in una tabella*
 
-> Nella tabella che segue si vedono alcuni dei risultati delle elezioni in un determinato paese, in cui le percentuali si riferiscono al numero totale di elettori.
+> Nella tabella sottostante, vediamo parte dei risultati delle elezioni in un determinato paese, in cui le percentuali si riferiscono al numero totale degli elettori.
 >
-> Partiti / Ronde  AA  BB  CC  Altri partiti o voti nulli nel primo round  39%  31%  20%  10% nel secondo round  ? | ? | 0 | ?
+> Partiti / Scrutini | AA | BB | CC | Altri partiti o schede bianche/nulli 1° turno | 39% | 31% | 20% | 10% 2° turno | ? | ? | 0 | ?
 >
-> Nel secondo turno, tutti gli elettori che hanno votato per il partito AA hanno mantenuto i loro voti e lo stesso è successo con gli elettori del partito BB. Di coloro che hanno votato per il partito CC nel primo turno, il 40% ha votato per il partito AA nel secondo turno e il resto per il partito BB. Di coloro che avevano votato per altri partiti o hanno votato nullamente, il 50% ha continuato a votare nullamente e il resto è stato ripartito in modo uguale tra AA e BB. Quale partito ha vinto le elezioni del secondo turno e con quanti voti?
+> Nel secondo turno, tutti gli elettori che avevano votato per il partito AA hanno mantenuto i propri voti, e lo stesso è accaduto per gli elettori del partito BB. Tra coloro che nel primo turno avevano votato per il partito CC, il 40% ha votato per il partito AA nel secondo turno e il resto per il partito BB. Tra coloro che avevano votato per altri partiti o avevano espresso voti nulli, il 50% ha continuato a esprimere voti nulli e il resto si è diviso equamente tra AA e BB. Quale partito ha vinto le elezioni del secondo turno e con quanti voti?
 >
 > - **(A)** AA con più del 47% dei voti.
 > - **(B)** BB con più del 35% dei voti.
 > - **(C)** AA con il 51% dei voti.
 > - **(D)** BB con più del 47% dei voti.
-> - **(E)** Nessuna delle dichiarazioni precedenti deriva dalle informazioni fornite.
+> - **(E)** Nessuna delle affermazioni precedenti consegue dalle informazioni fornite.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n2_f1#q07|src_obm_2015_n2_f1__Q07]]
 
 
 
@@ -286,11 +347,20 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei quadrati delle vocali e delle consonanti contati nella risposta corretta*
+*Somma dei quadrati dei conteggi di vocali e consonanti nella risposta corretta*
 
-> Qual è la somma dei quadrati delle quantità di vocali e consonanti della risposta corretta? Nota: non contare le lettere A, B, C, D, E delle alternative.
-> 
-> (A) Venti-sei (B) Settanta-tre (C) Ottantacinque (D) Novanta-sei (E) cento sedici
+> Qual è la somma dei quadrati delle quantità di vocali e di consonanti della risposta corretta? Nota: non contare le lettere A, B, C, D, E delle alternative.
+>
+> (A) Ventisei (B) Settantatré (C) Ottantacinque (D) Novantasei (E) Centosedici
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n2_f1#q08|src_obm_2015_n2_f1__Q08]]
 
 
 
@@ -318,13 +388,21 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza GC in figura con triangolo equilaterale e segmento triciclato*
+*Lunghezza GC nella figura con triangolo equilatero e segmento trisezionato*
 
-> Nella figura accanto, i lati $CD$ e $AB$ sono paralleli. $ABC$ è un triangolo equilaterale, $DG=GF=FE$ e $AB=12$; determina la lunghezza di $GC$.
-> 
+> Nella figura accanto, i lati $CD$ e $AB$ sono paralleli. $ABC$ è un triangolo equilatero, $DG=GF=FE$ e $AB=12$; determina la lunghezza di $GC$.
+>
 > (A) 4 (B) 3 (C) 8 (D) 5 (E) 2
 
 ![[src_obm_2015_n2_f1__q09.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n2_f1#q09|src_obm_2015_n2_f1__Q09]]
 
 
 
@@ -351,11 +429,20 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'anno successivo dopo il 2015 che coincide con esso (gli stessi giorni e giorni feriali)*
+*L'anno prossimo, dopo il 2015, che coincide con esso (stessi giorni e stessi giorni della settimana)*
 
-> Noi diciamo che due anni coincidono se hanno lo stesso numero di giorni e gli stessi giorni della settimana su tutte le date che coincidono. L'anno 2015 coincide con il 2009. Qual è il prossimo anno dopo il 2015 che coincide con il 2015? Ricordate che usiamo multipli di 4 per trovare gli anni a salto del XXI secolo (ma i multipli di 100 non sono salti, eccetto i multipli di 400), che hanno 366 giorni; gli altri hanno 365 giorni.
-> 
+> Diciamo che due anni coincidono se hanno lo stesso numero di giorni e gli stessi giorni della settimana in tutte le date che coincidono. L'anno 2015 coincide con il 2009. Qual è il prossimo anno dopo il 2015 che coincide con il 2015? Ricorda che usiamo i multipli di 4 per individuare gli anni bisestili del XXI secolo (ma i multipli di 100 non sono bisestili, tranne i multipli di 400), i quali hanno 366 giorni; gli altri hanno 365 giorni.
+>
 > (A) 2021 (B) 2022 (C) 2023 (D) 2025 (E) 2026
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n2_f1#q10|src_obm_2015_n2_f1__Q10]]
 
 
 
@@ -382,11 +469,20 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero intero più piccolo che è doppio di un quadrato e triplo di un cubo*
+*Il più piccolo intero che è il doppio di un quadrato e il triplo di un cubo*
 
-> Il numero $5^2=25$ è un quadrato perfetto e il numero $4^3=64$ è un cubo perfetto. Qual è il numero intero positivo più piccolo che è doppio di un quadrato perfetto e allo stesso tempo triplo di un cubo perfetto?
-> 
+> Il numero $5^2=25$ è un quadrato perfetto e il numero $4^3=64$ è un cubo perfetto. Qual è il più piccolo intero positivo che sia il doppio di un quadrato perfetto e contemporaneamente il triplo di un cubo perfetto?
+>
 > (A) 72 (B) 98 (C) 144 (D) 216 (E) 256
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n2_f1#q11|src_obm_2015_n2_f1__Q11]]
 
 
 
@@ -415,13 +511,22 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di numeri nei quadrati bianchi sotto restrizioni di parità e somma massima di probabilità*
+*Somma dei numeri nei riquadri bianchi sotto i vincoli di parità e di somma massima dispari*
 
-> Violeta vuole scrivere i numeri da 1 a 9 nei quadrati della lavagna di sotto, in modo tale che la somma di due numeri nei quadrati vicini sia sempre strana. Inoltre, vuole che la somma dei numeri scritti nei quadrati grigi sia il più grande numero impar. Qual è la somma dei numeri scritti nei quadrati bianchi?
-> 
+> Violeta vuole scrivere i numeri da 1 a 9 nelle caselle della tavola qui sotto, in modo che la somma di due numeri in caselle vicine sia sempre dispari. Inoltre, vuole che la somma dei numeri scritti nelle caselle grigie sia il numero dispari più grande possibile. Qual è la somma dei numeri scritti nelle caselle bianche?
+>
 > (A) 15 (B) 16 (C) 22 (D) 29 (E) 30
 
 ![[src_obm_2015_n2_f1__q12.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n2_f1#q12|src_obm_2015_n2_f1__Q12]]
 
 
 
@@ -447,11 +552,19 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prezzo di ingresso al cinema da una situazione di pagamento condiviso*
+*Prezzo dell'ingresso al cinema in regime di pagamento condiviso*
 
-> Carlos e i suoi cinque amici, Danilo ed Edson, andarono al cinema. Carlos pagò l'ingresso per tutti; Danilo restituì a Carlos la sua parte. In modo che l'importo che ciascuno avrebbe pagato fosse lo stesso quando si divide il costo comune, Danilo ed Edson hanno pagato rispettivamente R\$ 8.00 and R\$ 14.00. Per Carlos, tuttavia, dal momento che il valore totale per testa era R\$ 32,00. Qual è il prezzo dell'ingresso al cinema?
-> 
+> Carlos e i suoi cinque amici, Danilo ed Edson, sono andati al cinema. Carlos ha pagato l'ingresso per tutti; Danilo ha restituito a Carlos la sua quota. Affinché l'importo che ciascuno avrebbe pagato fosse lo stesso nel ripartire il costo comune, Danilo ed Edson hanno pagato rispettivamente R\$ 8.00 and R\$ 14,00. Per Carlos, però, poiché il valore totale a testa era di R\$ 32,00. Qual è il prezzo dell'ingresso al cinema?
+>
 > (A) R\$ 10.00 (B) R\$ 12.00 (C) R\$ 15.00 (D) R\$ 18.00 (E) R\$ 20.00
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n2_f1#q13|src_obm_2015_n2_f1__Q13]]
 
 
 
@@ -480,13 +593,22 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre massimo di piastrelle quadrate che coprono una parete di 7 metri senza sovrapposizione*
+*Numero massimo di piastrelle quadrate necessarie per coprire un muro di 7 metri senza sovrapposizioni*
 
-> L'artista Juliana vuole coprire un muro largo 7 metri, con piastrelle rettangolari, senza superposizione delle piastrelle. Nessuna delle piastrelle ha una misura frazionaria (tutte sono numeri interi di metri). La figura mostra un modello di disposizione con piastrelle quadrate. Supponiamo che Renata voglia rivestire il più possibile di piastrelle. Quante piastrelle si adattano al muro?
-> 
+> L'artista Juliana vuole rivestire un muro largo 7 metri con piastrelle rettangolari, senza sovrapporre le piastrelle. Nessuna delle piastrelle ha una misura frazionaria (tutte hanno misure espresse in metri come numeri interi). Nella figura è mostrato un modello di disposizione con piastrelle quadrate. Supponiamo che Renata voglia eseguire il rivestimento usando il maggior numero possibile di piastrelle. Quante piastrelle stanno sul muro?
+>
 > (A) 10 (B) 14 (C) 18 (D) 20 (E) 24
 
 ![[src_obm_2015_n2_f1__q14.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2015_n2_f1#q14|src_obm_2015_n2_f1__Q14]]
 
 
 
@@ -513,11 +635,20 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max cubes stackable in una torre in modo che i vicini differiscono di colore*
+*I cubi Max sono impilabili a formare una torre, così i cubi vicini hanno colori diversi*
 
-> Fabiana ha 55 cubes della stessa taglia, 10 rossi, 15 blu e 30 verdi. Lei vuole costruire una singola torre che impichi questi cubetti in modo tale che due cubetti vicini abbiano sempre colori diversi. Quanti cubetti può mettere a piombo?
-> 
+> Fabiana ha 55 cubi tutti della stessa dimensione: 10 rossi, 15 blu e 30 verdi. Vuole costruire una sola torre impilando questi cubi in modo che due cubi adiacenti abbiano sempre colori diversi. Al massimo, quanti cubi può impilare?
+>
 > (A) 39 (B) 51 (C) 52 (D) 54 (E) 55
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2015_n2_f1#q15|src_obm_2015_n2_f1__Q15]]
 
 
 
@@ -546,13 +677,22 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca x = CP che rende due regioni grigie uguali in una figura quadrata*
+*Trovare x = CP in modo che, in una figura con due quadrati, le due regioni grigie siano uguali*
 
-> Nella figura, i quadrati $ABGH$ e $CDEF$ hanno rispettivamente lati di misura 4 e 6 cm. Il punto $P$ appartiene alla linea contenente i punti $B,C,G,$ e $F$, e il punto $M$ è il punto medio del lato $BG$. Il segmento $AP$ divide la figura formata dai due quadrati in due regioni grigie. Se vogliamo che queste due regioni abbiano superficie uguale, quale deve essere il valore di $x=CP$?
-> 
+> Nella figura, i quadrati $ABGH$ e $CDEF$ hanno lati di lunghezza rispettivamente 4 e 6 cm. Il punto $P$ appartiene alla retta che contiene i punti $B,C,G,$ e $F$, e il punto $M$ è il punto medio del lato $BG$. Il segmento $AP$ divide la figura formata dai due quadrati in due regioni grigie. Se vogliamo che queste due regioni abbiano aree uguali, quale deve essere il valore di $x=CP$?
+>
 > (A) $\frac{2}{5}$ (B) $\frac{18}{25}$ (C) 1 (D) $\frac{26}{25}$ (E) $\frac{3}{2}$
 
 ![[src_obm_2015_n2_f1__q16.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n2_f1#q16|src_obm_2015_n2_f1__Q16]]
 
 
 
@@ -579,11 +719,20 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due lati interi distinti con la superficie triangolare minimizzata più grande del 2015*
+*Due lati interi distinti, con il più grande uguale a 2015, che minimizzano l'area del triangolo*
 
-> Un triangolo ha tutti i lati interi distinti, il più grande di loro misura il 2015. Quali sono le misure degli altri due lati in modo che l'area del triangolo sia la più piccola possibile?
-> 
-> (A) 2 e 2014 (B) 3 e 2013 (C) 1006 e 1010 (D) 1007 e 1009
+> Un triangolo ha tutti i lati interi e distinti, e il più grande di essi misura 2015. Quali sono le misure degli altri due lati affinché l'area del triangolo sia la più piccola possibile?
+>
+> (A) 2 e 2014 (B) 3 e 2013 (C) 1006 e 1010 (D) 1007 e 1009 (E) 1008 e 1009
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n2_f1#q17|src_obm_2015_n2_f1__Q17]]
 
 
 
@@ -610,11 +759,20 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Relazione tra gli angoli utilizzando il punto medio di un lato in un triangolo*
+*Relazione tra angoli mediante il punto medio di un lato in un triangolo*
 
-> Nel triangolo $ABC$, $AB=2$, $BC=\sqrt{2}$. Il punto medio del lato $AB$ deve essere $M$. Se $m(BAC)=\alpha$, $m(\beta)$ e $m(MBC)=\gamma$:
-> 
+> Nel triangolo $ABC$, $AB=2$, $BC=\sqrt{2}$. Sia $M$ il punto medio del lato $AB$. Se $m(BAC)=\alpha$, $m(\beta)$ e $m(MBC)=\gamma$, allora:
+>
 > (A) $\alpha+\beta=\gamma$ (B) $\alpha+\beta=2\gamma$ (C) $\alpha+\beta+\gamma=180^\circ$ (D) $\alpha+\beta=90^\circ$ (E) $\alpha+\beta=45^\circ$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n2_f1#q18|src_obm_2015_n2_f1__Q18]]
 
 
 
@@ -641,11 +799,20 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La minima n so media di n naturali può essere strettamente compresa tra 25,65 e 25,75*
+*Il più piccolo n tale che la media di n numeri naturali possa essere strettamente compresa tra 25,65 e 25,75*
 
-> La media dei numeri naturali $n$ è superiore a 25,65 e inferiore a 25,75. Qual è il minimo valore possibile per $n$?
-> 
+> La media di $n$ numeri naturali è maggiore di 25,65 e minore di 25,75. Qual è il valore più piccolo possibile per $n$?
+>
 > (A) 5 (B) 3 (C) 6 (D) 100 (E) 50
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n2_f1#q19|src_obm_2015_n2_f1__Q19]]
 
 
 
@@ -672,11 +839,20 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quanti numeri interi positivi dividono il 2032 lasciando il rimanente 17*
+*Quanti numeri interi positivi dividono 2032 lasciando resto 17?*
 
-> Quanti integri positivi $n$ ci sono tali che dividendo il 2032 per $n$ lascia il rimanente 17?
-> 
+> Quanti numeri interi positivi $n$ ci sono tali che, dividendo 2032 per $n$, si ottiene resto 17?
+>
 > (A) 8 (B) 7 (C) 6 (D) 5 (E) 4
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n2_f1#q20|src_obm_2015_n2_f1__Q20]]
 
 
 
@@ -703,11 +879,20 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio dei momenti dell'orologio digitale in cui il tempo codifica o inverte la data nel 2015*
+*Conteggio dei momenti dell'orologio digitale in cui, nel 2015, l'ora codifica o inverte la data*
 
-> Jonas ama osservare gli orologi digitali sparsi in tutta la sua città che gli informano dell'ora e della data. Poiché sono digitali, l'ora appare nel formato (ora: minuto) e la data nel formato (giorno / mese). In un determinato giorno si è verificata una coincidenza: l'ora (ora e minuto, ad es. 12:06) coincideva con la data nel formato giorno/mese (le stesse cifre del giorno e del mese). Chiama questo un momento codificato. Si può anche verificare che l'ora coincida con la data lettura in senso inverso (ad es. 60:21, lettura all'indietro), e chiama questo un momento di codifica inversa. Considerando l'intero anno 2015 (considerato come un anno bisestivo), dal 01/01/2015 alle 00:00 al 31/12/2015 alle 23:59, quanti momenti sono codificati o codificati in modo inverso?
-> 
+> A Jonas piace osservare gli orologi digitali sparsi per la sua città, che gli indicano l'ora e la data. Poiché sono digitali, l'ora appare nel formato (ora : minuto) e la data nel formato (giorno / mese). In un certo giorno si verificò una coincidenza: l'ora (ora e minuto, ad es. 12:06) coincise con la data nel formato giorno/mese (gli stessi numeri del giorno e del mese). Lui definisce questo un momento codificato. Può anche accadere che l'ora coincida con la data letta al contrario (ad es. 60:21 letto al contrario), e lui definisce questo un momento codificato al contrario. Considerando l'intero anno 2015 (preso come anno bisestile), dal 01/01/2015 alle 00:00 al 31/12/2015 alle 23:59, quanti momenti codificati o codificati al contrario ci sono?
+>
 > (A) 365 (B) 455 (C) 465 (D) 629 (E) 699
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n2_f1#q21|src_obm_2015_n2_f1__Q21]]
 
 
 
@@ -736,13 +921,22 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza CF in cui CF è tangente ad un semicircolo sul lato di un quadrato*
+*Lunghezza CF, dove CF è tangente a un semicerchio sul lato di un quadrato*
 
-> Nel disegno accanto, il segmento $CF$ è tangente al semicircolo di diametro $AB$. $ABCD$ è un quadrato di lato 4; determinare la lunghezza di $CF$.
-> 
+> Nel disegno accanto, il segmento $CF$ è tangente al semicerchio di diametro $AB$. $ABCD$ è un quadrato di lato 4; determina la lunghezza di $CF$.
+>
 > (A) $9/4$ (B) 3 (C) 4 (D) $5/4$ (E) 5
 
 ![[src_obm_2015_n2_f1__q22.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n2_f1#q22|src_obm_2015_n2_f1__Q22]]
 
 
 
@@ -771,13 +965,22 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quanti di 1-9 possono occupare la cellula centrale di un X con pari sommi di braccia*
+*Quanti numeri da 1 a 9 possono occupare la cella centrale di una X con somme dei bracci uguali?*
 
-> Julieta ha fatto un X con nove piccoli quadrati, come nella figura accanto. Lei vuole scrivere i numeri da 1 a 9 in questi quadrati, in modo tale che la somma dei quattro numeri lungo ciascuno dei quattro bracci della X sia uguale. Quanti dei numeri da 1 a 9 possono occupare la cellula centrale (in grigio) della X?
-> 
+> Julieta ha tracciato una X con nove piccoli quadrati, come nella figura accanto. Vuole scrivere i numeri da 1 a 9 in questi quadrati in modo che le somme dei quattro numeri lungo ciascuno dei quattro bracci della X siano uguali. Quanti dei numeri da 1 a 9 possono occupare la cella centrale (in grigio) della X?
+>
 > (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
 
 ![[src_obm_2015_n2_f1__q23.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n2_f1#q23|src_obm_2015_n2_f1__Q23]]
 
 
 
@@ -803,11 +1006,19 @@ Quanti anni di questo secolo hanno la media digitali uguale a 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Giada che Jade cammini dal segretariato al giardino botanico
+*È ora che Jade vada a piedi dal segretariato al Giardino Botanico*
 
-> Esmeralda e Jade lasciano il segretariato dell'OBM e vanno al Giardino Botanico. I due se ne andarono allo stesso tempo, Esmeralda in bicicletta e Jade a piedi. La velocità di Esmeralda è quattro volte quella di Jade, e le due velocità sono costanti. Esmeralda arrivò al giardino botanico, aspettò 5 minuti e poi tornò per la stessa strada, incontrando Jade, che era a metà strada. Quanto tempo ci vuole per andare da Jade al giardino botanico?
-> 
-> A) 30 minuti B) 35 minuti C) 40 minuti D) 45 minuti E) 50 minuti
+> Esmeralda e Jade hanno lasciato il segretariato dell'OBM e si sono recate al Giardino Botanico. Le due sono partite nello stesso momento: Esmeralda in bicicletta e Jade a piedi. La velocità di Esmeralda è quattro volte quella di Jade, e entrambe le velocità sono costanti. Esmeralda è arrivata al Giardino Botanico, ha aspettato 5 minuti e poi è tornata per la stessa strada, incontrando Jade, che si trovava a metà strada. Quanto tempo impiega Jade a percorrere a piedi il tragitto dal segretariato al Giardino Botanico?
+>
+> (A) 30 min (B) 35 min (C) 40 min (D) 45 min (E) 50 min
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2015_n2_f1#q24|src_obm_2015_n2_f1__Q24]]
 
 
 
@@ -834,8 +1045,17 @@ Giada che Jade cammini dal segretariato al giardino botanico
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta dei modi per scrivere il 2015 come somma di tre numeri (un pacchetto ripetuto)*
+*Numero di modi per scrivere 2015 come somma di tre numeri (un pacchetto ripetuto)*
 
-> A Julieta piace scrivere il numero 2015 come la somma di tre numeri. Non sempre lo scrive come la somma di tre diversi numeri; ad esempio, $2015=670+671+674$ e $175+920+920=2015$. Si noti che nel secondo esempio il numero 920 appare due volte nella stessa somma. In questo modo, in quanti modi possibili due numeri sembrano uguali come lo stesso pacchetto?
-> 
+> A Julieta piace scrivere il numero 2015 come somma di tre numeri. Non lo scrive sempre come somma di tre numeri diversi; per esempio, $2015=670+671+674$ e $175+920+920=2015$. Si noti che, nel secondo esempio, il numero 920 compare due volte nella stessa somma. In questo modo, in quanti modi possibili due numeri risultano uguali come stesso addendo?
+>
 > (A) 50 (B) 100 (C) 450 (D) 858 (E) 907
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n2_f1#q25|src_obm_2015_n2_f1__Q25]]

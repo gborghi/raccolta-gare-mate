@@ -31,9 +31,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Insert operations between 7 sets to get 34*
+*Insert operations between the sevens 7 to get 34*
 
-> Place, instead of the asterisk, the appropriate operation marks (using them all at least once: sum, subtraction, multiplication, division) so that  without using the parentheses  resulting in: $$7 * 7 * 7 * 7 * 7 * 7 * 7 = 34$$ (Sufficient to provide a solution)
+> Insert appropriate operation symbols in place of the asterisk (using all of them at least once: addition, subtraction, multiplication, division) in such a way—without using parentheses—that the result is:
+> $$7 * 7 * 7 * 7 * 7 * 7 * 7 = 34$$
+> (Providing one solution is sufficient)
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2007#q01|src_bocconi_squadre_2007__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to form 1 Euro with coins of 5, 10, 20 cents*
+*Ways to make 1 euro using 5-, 10-, and 20-cent coins*
 
-> How many different ways can one form 1 Euro with coins of 5, 10 and 20 cents?
+> In how many different ways can 1 euro be made using 5-, 10-, and 20-cent coins?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2007#q02|src_bocconi_squadre_2007__Q02]]
 
 
 
@@ -83,11 +99,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*White, red and green carnations: sufficient minimum quantity*
+*White, red, and green stamps: minimum sufficient quantity*
 
-> Angelo owns three types of stamps: the white 1 Euro, the red and finally the green ones (the value of both is given by an integer of Euro, but the value of the greens is less than that of the red stamps). Angelo also notes that for letters and packages which require a stamp from any whole number of Euro not exceeding 15, three stamps (maximum) are sufficient.
-> 
-> What are the values of a red and green stamp?
+> Angelo has three types of stamps: the white ones worth 1 euro, the red ones, and finally the green ones (the value of both the red and green stamps is an integer number of euros, but the value of the green stamps is lower than that of the red stamps). Angelo also notes that, for letters and parcels requiring postage amounting to any integer number of euros not exceeding 15, three stamps (at most) are sufficient.
+>
+> What are the values of a red stamp and a green stamp?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2007#q03|src_bocconi_squadre_2007__Q03]]
 
 
 
@@ -114,13 +137,20 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio between trapezoidal area ABCD and triangle ACE*
+*Ratio of the area of trapezoid ABCD to the area of triangle ACE*
 
-> Both $S$ the area of the trapezoid $ABCD$ and $y$ the area of the triangle $ACE$ (in figure $BD$ is parallel to $CE$).
-> 
-> Determine the value of the $S/y$ ratio.
+> Let $S$ be the area of the trapezoid $ABCD$, and let $y$ be that of the triangle $ACE$ (in the figure, $BD$ is parallel to $CE$).
+>
+> Determine the value of the ratio $S/y$.
 
 ![[src_bocconi_squadre_2007__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2007#q04|src_bocconi_squadre_2007__Q04]]
 
 
 
@@ -146,13 +176,19 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of Amerigo square with frame*
+*Side of Amerigo's square with frame*
 
-> Amerigo hangs his painting (white square), inserting it into a frame that is also square. The area of the painting is equal to that of the darker surface in the figure.
-> 
-> How big is the side of Amerigo's painting? (If in the calculations you encounter $\sqrt{2}$, $\sqrt{3}$ or $\pi$, you should approximate them to 1.41, 1.73, and 3.14, respectively, so that you can express the result with a two-digit decimal number.)
+> Amerigo hangs his painting (a white square) by placing it in a frame that is also square. The area of the painting is equal to the area of the darkest surface in the figure.
+>
+> How long is the side of Amerigo's square? (If, during the calculations, you encounter $\sqrt{2}$, $\sqrt{3}$, or $\pi$, you must approximate them respectively with 1.41, 1.73, and 3.14 so as to express the result as a number with two decimal places.)
 
 ![[src_bocconi_squadre_2007__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2007#q05|src_bocconi_squadre_2007__Q05]]
 
 
 
@@ -175,9 +211,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Positive three-digit integers with a finite square of 444*
+*Three-digit positive integers whose square ends in 444*
 
-> Write (in increasing order) all positive three-digit integers whose square ends in 444. (Write 0 if you think there are no numbers with this characteristic.)
+> Write (in ascending order) all positive three-digit integers whose square ends in 444. (Write 0 if you think there are no numbers with this property.)
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2007#q06|src_bocconi_squadre_2007__Q06]]
 
 
 
@@ -200,9 +243,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Positive three- or four-digit integers with a finite square for 4444*
+*Positive three- or four-digit integers whose square ends in 4444*
 
-> Write (in increasing order) all positive integers of three or four digits whose square ends in 4444. (Write 0 if you think there are no numbers with this characteristic.)
+> Write (in ascending order) all positive three- or four-digit integers whose square ends in 4444. (Write 0 if you think there are no numbers with this property.)
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2007#q07|src_bocconi_squadre_2007__Q07]]
 
 
 
@@ -227,11 +277,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triples of integers (x,y,z) with 1≤x≤y≤z such that (x-1)(y-1)(z-1) divides xyz-1*
+*Triples (x,y,z) with 1≤x≤y≤z such that (x-1)(y-1)(z-1) divides xyz-1*
 
-> Write all the $(x, y, z)$ terns of integers $x$, $y$, $z$ with $1 \le x \le y \le z$ such that the product $(x-1)(y-1)(z-1)$ is a divisor of $xyz - 1$ (the product of $x$ for $y$ for $z$, minus 1).
-> 
-> Write 0 if you think there are no tiles with the required feature.
+> Write all triples $(x, y, z)$ of integers $x$, $y$, $z$ with $1 \le x \le y \le z$ such that the product $(x-1)(y-1)(z-1)$ is a divisor of $xyz - 1$ (the product of $x$ times $y$ times $z$, minus 1).
+>
+> Write 0 if you think there are no triples with the required property.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_squadre_2007#q08|src_bocconi_squadre_2007__Q08]]
 
 
 
@@ -256,11 +313,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Present age of son of Paul*
+*Current age of Paolo's child*
 
-> When my son is 15 years older than he is now, he will be the same age as I was in the year I was eight times his age. On the other hand, when he reaches my age now, together we'll have  if he's still in this world  31 times the age he was when he was 8 times his age.
-> 
-> How old is my son today?
+> When my son is 15 years older than he is now, he will be the age I was in the year when I was 8 times his age. On the other hand, when he has reached my current age, together—if he is still alive—we will be 31 times the age he was when he was 8 times his own age.
+>
+> What is my son's age today?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2007#q09|src_bocconi_squadre_2007__Q09]]
 
 
 
@@ -288,9 +352,16 @@ level: Gara a Squadre
 
 *Probability that a 3-year-old child is the youngest*
 
-> The nursery school in my neighborhood consists of eight classes of 27 students each: one class for children aged two, two (each) for children aged three, four and five, and one, finally, for children aged six. During the recreation, four children sat on a bench in the yard, a bit apart from the others.
-> 
-> What is the probability that there is a three-year-old child among them and that everyone else is not younger? (You have to indicate the probability of failure, with a two-digit decimal number.)
+> The nursery school in my neighborhood has 8 classes, each with 27 children: one class for two-year-olds, two classes each for three-year-olds, four-year-olds, and five-year-olds, and finally one class for six-year-olds. During recess, 4 children sat on a bench in the courtyard, a little apart from the others.
+>
+> What is the probability that among them there is a 3-year-old child and that all the others are no longer younger? (You must state the probability as a lower bound, using a number with two decimal places.)
+
+**Topic:** [[topic_probabilita|Probability]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2007#q10|src_bocconi_squadre_2007__Q10]]
 
 
 
@@ -315,9 +386,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number multiplied by 792 with partially unreadable digits*
+*Number multiplied by 792, with partially illegible digits*
 
-> On an old sheet, which emerges from the memories of a cellar, is a product. However, time has rendered the second factor and 3 of the 11 digits of the result unreadable (where each of the 3 unreadable digits has now been replaced by a dots): $$792 \times \boxed{\phantom{00}} = 1989 \cdot 1990 \cdots$$ For what number was 792 multiplied?
+> On an old sheet that emerges from the memories of a cellar, a product is indicated. However, time has rendered the second factor and 3 of the 11 digits of the result illegible (where each of the 3 illegible digits has now been replaced by a dot):
+> $$792 \times \boxed{\phantom{00}} = 1989 \cdot 1990 \cdots$$
+> By what number was 792 multiplied?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2007#q11|src_bocconi_squadre_2007__Q11]]
 
 
 
@@ -341,11 +421,17 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Jumps of a fox chased by a dog: when does it reach the fox?*
+*Leaps of a fox pursued by a dog: when will it catch the fox?*
 
-> A fox, always chased by a dog, taking advantage of its momentary drowsiness, took advantage with 27 jumps. It's easy to predict that now that the dog has woken up, he'll soon catch up with her. Keep in mind that three leaps of fox length equals two leaps of dog length. But at the same time that the dog makes four jumps, the fox does five.
-> 
-> In how many jumps will the dog reach the fox?
+> A fox, which has always been chased by a dog, took advantage of the dog's momentary drowsiness and gained a lead of 27 jumps. It is easy to predict that, now that the dog has woken up, it will soon catch up with the fox. Keep in mind that 3 jumps by the fox are equal in distance to 2 jumps by the dog. But in the same time it takes the dog to make 4 jumps, the fox makes 5.
+>
+> In how many jumps will the dog catch up with the fox?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2007#q12|src_bocconi_squadre_2007__Q12]]
 
 
 
@@ -369,11 +455,17 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum path along the faces of the parallel piped from A to B*
+*Minimum path along the faces of the parallelepiped from A to B*
 
-> What is the shortest path for an ant in $A$ and wants to reach the point $B$, moving along the faces of the paralelepipedo in the figure? (You have to approximate the solution by default, rounding to the first decimal point.)
+> What is the length of the shortest path for an ant located at $A$ that wants to reach point $B$, moving along the faces of the parallelepiped shown in the figure? (You must approximate the solution by underestimation, rounding to the first decimal place.)
 
 ![[src_bocconi_squadre_2007__q13.png]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_squadre_2007#q13|src_bocconi_squadre_2007__Q13]]
 
 
 
@@ -398,11 +490,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of girls at the party of 20 people*
+*Number of girls at a party of 20 people*
 
-> A total of 20 people attended the party, which was organized by Paolo to celebrate the end of the school year. Carla danced with seven guys, Milena with eight, Linda with nine, and so on, until Liliana danced with all the guys in the room.
-> 
+> There were 20 people in total at the party, which Paolo organized to celebrate the end of the school year. Carla danced with 7 boys, Milena with 8, Linda with 9, and so on, all the way to Liliana, who danced with all the boys present.
+>
 > How many girls were at the party?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2007#q14|src_bocconi_squadre_2007__Q14]]
 
 
 
@@ -427,11 +526,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Similar perfect numbers between 1900 and 2000*
+*Similar-perfect numbers between 1900 and 2000*
 
-> Let's call a perfect number whose sum of its digits is a perfect square. For example, it's 1996 because $1+9+9+6 = 25$ is the square of 5.
-> 
-> How many other similar-perfect numbers are there between 1900 and 2000?
+> We call a number a quasi-perfect number if the sum of its digits is a perfect square. For example, 1996 is a quasi-perfect number because $1+9+9+6 = 25$ is the square of 5.
+>
+> How many other quasi-perfect numbers are there between 1900 and 2000, inclusive?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2007#q15|src_bocconi_squadre_2007__Q15]]
 
 
 
@@ -456,11 +562,18 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of daughters of Anne and Luke*
+*Number of daughters of Anna and Luca*
 
-> Anna says that she is a daughter in the family and that her brothers are at least as many as her sisters. For one of her younger brothers, Luke, the number of sisters is at least twice that of the brothers.
-> 
-> How many daughters are there in Anna and Luke's family?
+> Anna says that, among the children, she is a daughter in the family and that her brothers are at least as many as her sisters. For her younger brother Luca, the number of sisters is at least twice the number of brothers.
+>
+> In Anna and Luca's family, how many daughters are there?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_disuguaglianze|Inequalities]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2007#q16|src_bocconi_squadre_2007__Q16]]
 
 
 
@@ -489,15 +602,22 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete the layout of tokens on hexagons with sums equal to 100*
+*Complete the arrangement of tokens on hexagons, with sums equal to 100*
 
-> Renato placed numbered tokens on the circles of the four hexagons of the figure. The numbers that appeared on these four hexagons were all different, ranging from 7 to 24, and the sum of the numbers in each hexagon was equal to 100.
-> 
-> At this point, his wife, Erica, takes advantage of a moment of his absence to make a sudden blast of the wind and drops some numbers: $E'$ desperate! Her husband loved her so much, and she only remembers that there were no 9 or 15.
-> 
-> Help her complete the figure so she can find the missing numbers!
+> Renato placed numbered tokens on the little circles of the four hexagons in the figure. The numbers on these four hexagons were all different, ranged between 7 and 24, and the sum of the numbers on each hexagon was 100.
+>
+> At this point, his wife Erica takes advantage of a moment when he is away; a sudden gust of wind causes some of the digits to fall: $E'$, in despair! Her husband held $\ldots$ so dear to her, and she only remembers that neither 9 nor 15 was there.
+>
+> Help her complete the figure so that the missing numbers can be found!
 
 ![[src_bocconi_squadre_2007__q17.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2007#q17|src_bocconi_squadre_2007__Q17]]
 
 
 
@@ -524,13 +644,20 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum perimeter of the Luca Maria field formed by two rectangular triangles*
+*Maximum perimeter of Luca Maria's field, formed by two right-angled triangles*
 
-> Luca Maria's field is a quadrilateral formed by two rectangular triangles. All dimensions of the sides of the quadrilateral are expressed by an integer number of metres and its perimeter is less than 2000 metres.
-> 
-> How much is this perimeter worth at most?
+> Luca Maria's field is a quadrilateral made up of two right-angled triangles. All the side lengths of the quadrilateral are expressed as whole numbers of metres, and its perimeter is less than 2000 m.
+>
+> What is the maximum possible value of this perimeter?
 
 ![[src_bocconi_squadre_2007__q18.png]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2007#q18|src_bocconi_squadre_2007__Q18]]
 
 
 
@@ -557,13 +684,20 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cases to be avoided by covering a figure with 1x3 and 1x5 rectangles*
+*Cells to avoid by covering a shape with 1x3 and 1x5 rectangles*
 
-> Jacob wants to completely cover the figure, gluing nine pieces of paper (four rectangles and five squares). However, if you stick $1$ mm of $1 \times 1$ paper on certain boxes, none of them are intended.
-> 
-> What are the boxes to avoid? (Write them in ascending order and write 0 if you think there are no boxes to avoid.)
+> Jacob wants to completely cover the figure by gluing nine pieces of paper onto it (four rectangles $2 \times 1$ and five squares $1 \times 1$). However, if he glues $1$ mm of paper $1 \times 1$ onto certain squares, none of them are the ones he intended.
+>
+> Which squares should be avoided? (Write them in ascending order, and write 0 if you think there are no squares to avoid.)
 
 ![[src_bocconi_squadre_2007__q19.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_casework|Case analysis]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_squadre_2007#q19|src_bocconi_squadre_2007__Q19]]
 
 
 
@@ -589,10 +723,16 @@ level: Gara a Squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height difference between Desiderio and Nando (IMC)*
+*Height difference between Desiderio and Nando (BMI)*
 
-> To measure a person's possible overweight, the World Health Organization (WHO) has introduced a 'body mass index' (BMI) given by the ratio of weight, measured in kg, to height squared (in m).
-> 
-> With his 81 kg, Nando has an index equal to 25 while Desiderio (with his 80 kg) has a BMI equal to 20.
-> 
-> What is the (in cm) height difference between Desiderio and Nando?
+> To measure whether a person is overweight, the WHO ("World Health Organization") introduced a "body mass index" (BMI), which is the ratio of weight, measured in kg, to the square of height (in m).
+>
+> At 81 kg, Nando has a BMI of 25, while Desiderio (at 80 kg) has a BMI of 20.
+>
+> What is the difference in height between Desiderio and Nando (in cm)?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_squadre_2007#q20|src_bocconi_squadre_2007__Q20]]

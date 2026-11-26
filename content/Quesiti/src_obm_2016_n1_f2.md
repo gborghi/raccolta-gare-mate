@@ -29,9 +29,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi inferiori al 2016 il cui cubo ha meno di 10 cifre*
+*Conta gli interi minori di 2016 il cui cubo ha meno di 10 cifre*
 
-> L'aumento del numero $2016$ al cubo dà il numero $10$ a cifre $8{,}193{,}540{,}096$. Quanti numeri interi positivi inferiori a $2016$ hanno un cubo con meno di dieci cifre?
+> Elevando a cubo il numero $2016$, si ottiene il numero $8{,}193{,}540{,}096$ di $10$ cifre. Quanti numeri interi positivi minori di $2016$ hanno un cubo con meno di dieci cifre?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n1_f2#q01|src_obm_2016_n1_f2__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su un'altra al medesimo prezzo; risultato totale*
+*Negoziante di auto usate: utile del 20% su un'auto, perdita del 20% su un'altra allo stesso prezzo; risultato complessivo*
 
-> Un concessionario di auto usate ha venduto due auto a $12{,}000$ reais ciascuno. In una di esse ha ottenuto un profitto di $20\%$ rispetto al costo, e nell'altra ha subito una perdita di $20\%$ rispetto al costo. Sembra che, poiché non ha perso né guadagnato in nessuna delle due transazioni, il risultato complessivo sia stato un equilibrio, ma in realtà ha fatto o perso denaro. Qual era il suo profitto o perdita totale, in reais?
+> Un rivenditore di auto usate ha venduto due auto a $12{,}000$ reais ciascuna. Su una di esse ha realizzato un profitto di $20\%$ rispetto al costo, mentre sull'altra ha subito una perdita di $20\%$ rispetto al costo. Sembrerebbe che, poiché in nessuna delle due transazioni ha né perso né guadagnato, il risultato complessivo sia stato in pareggio; in realtà, però, ha effettivamente guadagnato o perso denaro. Qual è stato il suo utile o la sua perdita totale, in reais?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n1_f2#q02|src_obm_2016_n1_f2__Q02]]
 
 
 
@@ -80,11 +94,17 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'ABCD quadrato è diviso in due rettangoli congruenti e due quadrati delle aree 64 e 121; trova area di ABCD*
+*Il quadrato ABCD è suddiviso in due rettangoli congruenti e due quadrati di area 64 e 121; determina l'area di ABCD*
 
-> Il quadrato $ABCD$ è diviso in due rettangoli congruenti e due quadrati le cui aree, in metri quadrati, sono indicate nella figura ($64$ e $121$). Qual è la superficie di $ABCD$ quadrato in metri quadrati?
+> Il quadrato $ABCD$ è diviso in due rettangoli congruenti e due quadrati le cui aree, espresse in metri quadrati, sono indicate nella figura ($64$ e $121$). Qual è l'area del quadrato $ABCD$ in metri quadrati?
 
 ![[src_obm_2016_n1_f2__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2016_n1_f2#q03|src_obm_2016_n1_f2__Q03]]
 
 
 
@@ -109,11 +129,18 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunga moltiplicazione AAB × CC con cifre 2,3,5,7 come A,B,C,D; trovare ABCD*
+*Moltiplicazione lunga AAB × CC con le cifre 2,3,5,7 come A,B,C,D; trova ABCD*
 
-> Nella moltiplicazione di seguito, i numeri primi $2, 3, 5, 7$ sono rappresentati dalle lettere $A$, $B$, $C$, $D$ (non necessariamente in tale ordine). Qual è il numero $ABCD$?\n$$\begin{array}{r} A\;A\;B \\ \times\quad C\;C \\ \hline D\;C\;D\;B \\ D\;B\;A\;B\;\phantom{0} \\ \hline D\;B\;A\;B\;\phantom{00} \end{array}$$
+> In the multiplication below, the prime digits $2, 3, 5, 7$ are represented by the letters $A$, $B$, $C$, $D$ (not necessarily in that order). What is the number $ABCD$?\n$$\begin{array}{r} A\;A\;B \\ \times\quad C\;C \\ \hline D\;C\;D\;B \\ D\;B\;A\;B\;\phantom{0} \\ \hline D\;B\;A\;B\;\phantom{00} \end{array}$$
 
 ![[src_obm_2016_n1_f2__q04.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n1_f2#q04|src_obm_2016_n1_f2__Q04]]
 
 
 
@@ -137,11 +164,17 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due quadrati grigi condividono una vertica; quadrato bianco ha una vertica su ogni lato; trovare angolo X*
+*Due quadrati grigi condividono un vertice; il quadrato bianco ha un vertice su ciascun lato; trova l'angolo X*
 
-> Nella figura, i due quadrati grigi condividono un vertice comune, e il quadrato bianco ha un vertice su ogni lato di quei quadrati grigi. Le misure di alcuni angoli (in gradi) sono indicate nella figura: $47^\circ$, $122^\circ$ e $X^\circ$. Qual è il valore di $X$?
+> Nella figura, i due quadrati grigi condividono un vertice comune, e il quadrato bianco ha un vertice su ciascun lato di quei quadrati grigi. Nella figura sono indicati le misure di alcuni angoli (in gradi): $47^\circ$, $122^\circ$ e $X^\circ$. Qual è il valore di $X$?
 
 ![[src_obm_2016_n1_f2__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2016_n1_f2#q05|src_obm_2016_n1_f2__Q05]]
 
 
 
@@ -166,11 +199,18 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tabella m×n coperta da T-tetromino (seconda 3) e L-tromino (seconda 2); trovare il minimo m·n*
+*Tavola m×n ricoperta da tetromini a T (lasciando 3) e tromini a L (lasciando 2); trovare il minimo m·n*
 
-> La figura seguente mostra due tipi di pezzi: tipo 1, con quadrati di unità $4$ (un tetromino a forma di L) e tipo 2, con quadrati di unità $3$ (un tromino a forma di L). Un tabellone con righe $m$ e colonne $n$ è stato coperto, senza sovrapposizioni, da pezzi di tipo 1, ad eccezione di quadrati di unità $3$ che non sono stati coperti. Poi la stessa lavagna è stata coperta, anche senza sovrapposizioni, da pezzi di tipo 2, con l'eccezione di quadrati di unità $2$ esclusi. I pezzi possono essere rotati ma non possono estendersi al di fuori della tavola. Qual è il minimo valore possibile del prodotto $m \cdot n$?
+> La figura seguente mostra due tipi di pezzi: il tipo 1, con $4$ quadrati unitari (un tetromino a forma di L), e il tipo 2, con $3$ quadrati unitari (un tromino a forma di L). Una scacchiera con $m$ righe e $n$ colonne è stata ricoperta, senza sovrapposizioni, con pezzi di tipo 1, ad eccezione di esattamente $3$ quadrati unitari lasciati scoperti. Successivamente, la stessa scacchiera è stata ricoperta, sempre senza sovrapposizioni, con pezzi di tipo 2, ad eccezione di esattamente $2$ quadrati unitari lasciati scoperti. I pezzi possono essere ruotati, ma non possono estendersi al di fuori della scacchiera. Qual è il valore minimo possibile del prodotto $m \cdot n$?
 
 ![[src_obm_2016_n1_f2__q06.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n1_f2#q06|src_obm_2016_n1_f2__Q06]]
 
 
 
@@ -193,9 +233,16 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colore 7×7 tabella rosso/blu/bronzo in modo che il blu domini ogni riga e colonna; min cellule rosse e min cellule marrone*
+*Colora una tabella 7×7 di rosso, blu e marrone in modo che il blu predomini in ogni riga e in ogni colonna; minimo di celle rosse e minimo di celle marroni*
 
-> [Parte B] Janaína vuole dipingere le celle di una tabella $7 \times 7$ con tre colori  rosso, blu e marrone  in questo modo: in ogni riga e in ogni colonna, il numero di celle blu deve essere maggiore o uguale al numero di celle rosse e il numero di celle blu deve anche essere maggiore o uguale al numero di celle marrone. Tutte le righe e le colonne devono contenere cellule di tutti e tre i colori. a) Qual è il numero minimo di cellule da dipingere in rosso? b) Qual è il numero minimo di cellule da dipingere in marrone?
+> [Parte B] Janaína vuole colorare le celle di una tabella $7 \times 7$ con tre colori — rosso, blu e marrone — nel modo seguente: in ogni riga e in ogni colonna, il numero di celle blu deve essere maggiore o uguale al numero di celle rosse, e il numero di celle blu deve anche essere maggiore o uguale al numero di celle marroni. Tutte le righe e tutte le colonne devono contenere celle di tutti e tre i colori.\n(a) Qual è il numero minimo di celle che saranno colorate di rosso?\n(b) Qual è il numero minimo di celle che saranno colorate di marrone?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n1_f2#q07|src_obm_2016_n1_f2__Q07]]
 
 
 
@@ -220,11 +267,18 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 <div class="qlang-split" data-lang="it"></div>
 
 
-*segmenti di perimetro vs quotiente di segmenti interni per n ×n griglia; modello e domande estreme*
+*Quoziente tra segmenti perimetrali e segmenti interni per una griglia n×n; questioni sui pattern e sugli estremi*
 
-> [Parte B] Associamo a ogni quadrato $n \times n$ (divisi in quadrati di unità) il quotiente del numero di segmenti unitari sul suo perimetro per il numero di segmenti unitari strettamente all'interno. I primi tre valori sono:\n$$\frac{8}{4} = 2, \qquad \frac{12}{12} = 1, \qquad \frac{16}{24} = \frac{2}{3}.$$\n(a) Qual è il quotiente associato al quadrato $5 \times 5$?\n(b) Quanti valori di $n$ danno un quotiente uguale a $\dfrac{1}{2}$?\n(c) La differenza assoluta tra i quotienti di due quadrati consecutivi nella sequenza è sempre $\dfrac{1}{k}$ per un certo valore fisso di $k$. Che cos'è $k$? Quanti segmenti unitari si trovano sul perimetro del più piccolo quadrato il cui quotiente associato è inferiore a $\dfrac{1}{10}$?
+> [Part B] We associate to each $n \times n$ square (divided into unit squares) the quotient of the number of unit segments on its perimeter by the number of unit segments strictly in its interior. The first three values are:\n$$\frac{8}{4} = 2, \qquad \frac{12}{12} = 1, \qquad \frac{16}{24} = \frac{2}{3}.$$\n(a) What is the quotient associated to the $5 \times 5$ square?\n(b) How many values of $n$ give a quotient equal to $\dfrac{1}{2}$?\n(c) The absolute difference between the quotients of two consecutive squares in the sequence is always $\dfrac{1}{k}$ for some fixed value of $k$. What is $k$? How many unit segments are on the perimeter of the smallest square whose associated quotient is less than $\dfrac{1}{10}$?
 
 ![[src_obm_2016_n1_f2__q08.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2016_n1_f2#q08|src_obm_2016_n1_f2__Q08]]
 
 
 
@@ -249,8 +303,15 @@ Concessionario di auto usate: 20% di profitto su una macchina, 20% di perdita su
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scrivere i numeri 19 in 9 caselle (alcune in grigio, alcune in bianco); contare le disposizioni secondo le condizioni di parità digitali e di somma*
+*Scrivi le cifre da 1 a 9 in 9 caselle (alcune grigie, altre bianche); conta le disposizioni in base alla parità delle cifre e alle condizioni sulla somma*
 
-> [Parte B] Ana vuole scrivere le cifre da $1$ a $9$, una in ogni casella del diagramma di seguito (9 caselle consecutive), per formare un numero $9$ a cifre $N$. Le scatole grigie sono le scatole nelle posizioni $1, 3, 5, 7, 9$ (le 5 posizioni indicizzate parie), e le scatole bianche sono quelle nelle posizioni $2, 4, 6, 8$.\n(a) In quanti modi può Ana formare il numero $N$ scrivendo numeri pari nelle scatole grigie?\n(b) In quanti modi può Ana formare il numero $N$ scrivendo solo numeri parie nelle scatole grigie?\n(c) In quanti modi può formare $N$ in modo tale che la somma delle cifre nelle scatole grigie sia pari al doppio della somma delle cifre nelle scatole bianche?
+> [Parte B] Ana vuole scrivere le cifre da $1$ a $9$, una per ogni casella del diagramma sottostante (9 caselle in fila), per formare un numero $9$-cifre $N$. Le caselle grigie sono quelle nelle posizioni $1, 3, 5, 7, 9$ (le 5 posizioni a indice dispari), mentre le caselle bianche sono quelle nelle posizioni $2, 4, 6, 8$.\n(a) In quanti modi Ana può formare il numero $N$ scrivendo cifre pari nelle caselle grigie?\n(b) In quanti modi Ana può formare il numero $N$ scrivendo solo cifre dispari nelle caselle grigie?\n(c) In quanti modi può formare $N$ in modo che la somma delle cifre nelle caselle grigie sia il doppio della somma delle cifre nelle caselle bianche?
 
 ![[src_obm_2016_n1_f2__q09.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n1_f2#q09|src_obm_2016_n1_f2__Q09]]

@@ -36,15 +36,22 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con termini unici reali e termini pari immaginari; ridurre al minimo il modulo di somme parziali*
+*Successione con termini dispari reali e termini pari immaginari; minimizzare il modulo delle somme parziali*
 
-> Supponiamo che tutti i termini odd della sequenza $\{z_n\}_{n \ge 1}$ siano reali e tutti i termini pari siano puramente immaginari, e per qualsiasi intero positivo $k$, ci sia $|z_k z_{k+1}| = 2^k$. Per un intero positivo $n$, indicare $f_n = |z_1 + z_2 + \cdots + z_n|$.
-> 
-> (1) Trovare il valore minimo possibile di $f_{2020}$.
-> 
-> (2) Trovare il valore minimo possibile di $f_{2020} \cdot f_{2021}$.
+> Supponiamo che tutti i termini dispari della successione $\{z_n\}_{n \ge 1}$ siano reali e che tutti i termini pari siano puramente immaginari, e che per ogni intero positivo $k$ valga $|z_k z_{k+1}| = 2^k$. Per l'intero positivo $n$, si indichi con $f_n = |z_1 + z_2 + \cdots + z_n|$.
+>
+> (1) Determinare il valore minimo possibile di $f_{2020}$.
+>
+> (2) Determinare il valore minimo possibile di $f_{2020} \cdot f_{2021}$.
 
-**Risposta:** il minimo di f_{2020} è 2; il minimo di f_{2020} \cdot f_{2021} è 2^{1011}.
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2020#q01|src_cn_cmo_2020__Q01]]
 
 
 
@@ -73,13 +80,22 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il più piccolo n in modo che due congruenze mod m siano risolvibili da numeri interi, un coprimo a m*
+*Trovare il più piccolo n tale che due congruenze modulo m siano risolvibili negli interi, con uno dei numeri coinvolti coprimo con m*
 
-> Data l'intero $m \ge 1$, trovare il più piccolo intero positivo $n$ in modo tale che per tutti gli integri $a_1, a_2, \ldots, a_n$ e $b_1, b_2, \ldots, b_n$ esistano interi $x_1, x_2, \ldots, x_n$ che soddisfano le seguenti due condizioni:
-> 
-> (1) almeno uno di $x_1, x_2, \ldots, x_n$ è coprime a $m$;
-> 
+> Dato l'intero $m \ge 1$, trova il più piccolo intero positivo $n$ tale che, per qualsiasi coppia di interi $a_1, a_2, \ldots, a_n$ e $b_1, b_2, \ldots, b_n$, esistano interi $x_1, x_2, \ldots, x_n$ che soddisfino le seguenti due condizioni:
+>
+> (1) almeno uno tra $x_1, x_2, \ldots, x_n$ è coprimo con $m$;
+>
 > (2) $\displaystyle\sum_{i=1}^{n} a_i x_i \equiv \sum_{i=1}^{n} b_i x_i \equiv 0 \pmod{m}$.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casi_conteggio|Casi e conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmo_2020#q02|src_cn_cmo_2020__Q02]]
 
 
 
@@ -105,9 +121,19 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n con 36 fattori primi; conteggio di numeri interi copri a n in cinque subintervalli uguali; limite inferiore sulla somma delle differenze quadrate*
+*n con 36 fattori primi; conteggi degli interi coprimi con n in cinque sottointervalli uguali; limite inferiore della somma dei quadrati delle differenze*
 
-> Supponiamo che un intero positivo $n$ possa essere divisibile esattamente $36$ diversi numeri primi. Per $k = 1, 2, \ldots, 5$, $c_k$ è il numero di integri sull'intervallo $\left[\frac{(k-1)n}{5}, \frac{kn}{5}\right]$ che sono copriemi con $n$. È noto che $c_1, c_2, \ldots, c_5$ non sono tutti uguali. Provare che $$\sum_{1 \le i < j \le 5} (c_i - c_j)^2 \ge 2^{36}.$$
+> Supponiamo che l'intero positivo $n$ sia divisibile esattamente per $36$ numeri primi distinti. Per $k = 1, 2, \ldots, 5$, sia $c_k$ il numero di interi nell'intervallo $\left[\frac{(k-1)n}{5}, \frac{kn}{5}\right]$ che sono coprimi con $n$. È noto che $c_1, c_2, \ldots, c_5$ non sono tutti uguali. Dimostrare che
+> $$\sum_{1 \le i < j \le 5} (c_i - c_j)^2 \ge 2^{36}.$$
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2020#q03|src_cn_cmo_2020__Q03]]
 
 
 
@@ -135,11 +161,21 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto inserito in un cerchio; linea attraverso il centro parallela a AM; dimostrare l'uguaglianza delle somme di angoli*
+*Triangolo acuto inscritto in una circonferenza; retta passante per il centro e parallela ad AM; dimostrare un'uguaglianza tra somme di angoli*
 
-> Come mostrato nella figura. 4.1, inserire il $\triangle ABC$ acuto al cerchio $\omega$, $AB > AC$. $M$ è il punto medio dell'arco minore $\widehat{BC}$ del cerchio $\omega$ e $K$ è il punto antipodal del punto $A$ sul cerchio $\omega$. Costruire una linea parallela di $AM$ attraverso il centro $O$ del cerchio $\omega$, il segmento intersezionante $AB$ al punto $D$ e l'estensione di $CA$ al punto $E$. Supponiamo che la linea $BM$ si intersechi $CK$ al punto $P$ e la linea $CM$ si intersechi $BK$ al punto $Q$. Provare che $$\angle OEB + \angle OPB = \angle ODC + \angle OQC.$$
+> Come mostrato nella Fig. 4.1, sia l'angolo acuto $\triangle ABC$ inscritto nella circonferenza $\omega$, $AB > AC$. $M$ è il punto medio dell'arco minore $\widehat{BC}$ della circonferenza $\omega$, e $K$ è il punto antipodale del punto $A$ sulla circonferenza $\omega$. Si costruisca una retta parallela a $AM$ passante per il centro $O$ della circonferenza $\omega$; tale retta interseca il segmento $AB$ nel punto $D$ e il prolungamento di $CA$ nel punto $E$. Si supponga che la retta $BM$ intersechi $CK$ nel punto $P$ e che la retta $CM$ intersechi $BK$ nel punto $Q$. Si dimostri che
+> $$\angle OEB + \angle OPB = \angle ODC + \angle OQC.$$
 
 ![[src_cn_cmo_2020__q04.png]]
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2020#q04|src_cn_cmo_2020__Q04]]
 
 
 
@@ -168,13 +204,22 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polyedro convex con vertici di grado 3 e numero pari di ogni k-gon; formica attraversa un percorso di bordo chiuso che divide ugualmente la superficie; prova curva sinistra uguale curva destra*
+*Poliedro convesso con vertici di grado 3 e numero pari di ciascun k-gono; una formica percorre un cammino chiuso lungo gli spigoli che divide la superficie in parti uguali; dimostrare che le svolte a sinistra sono uguali alle svolte a destra*
 
-> Consideriamo un poliedro converso $P$ con le seguenti proprietà: (i) ogni vertice di $P$ appartiene esattamente a tre facce; (ii) per qualsiasi intero $k \ge 3$, il numero di facce del poligono laterale $k$ di $P$ è pari.
-> 
-> Una formica parte dal punto medio di un certo bordo e si arrasta sulla superficie di $P$ lungo un percorso chiuso $L$ composto dai bordi di $P$. Passa attraverso ogni punto su $L$ esattamente una volta e ritorna finalmente al punto di partenza. È noto che $L$ divide la superficie di $P$ in due regioni e che per qualsiasi $k$, il numero di facce di poligono laterale $k$ in entrambe le regioni è uguale.
-> 
-> Prove che durante il processo di arrampicamento sopra indicato, il numero di volte che la formica gira a sinistra è esattamente il numero di volte che gira a destra.
+> Consideriamo un poliedro convesso $P$ con le seguenti proprietà: (i) ciascun vertice di $P$ appartiene esattamente a tre facce; (ii) per ogni intero $k \ge 3$, il numero di facce di poligoni a $k$ lati di $P$ è pari.
+>
+> Una formica parte dal punto medio di un certo spigolo e striscia sulla superficie di $P$ lungo un percorso chiuso $L$ composto dagli spigoli di $P$. Passa per ciascun punto di $L$ esattamente una volta e infine ritorna al punto di partenza. È noto che $L$ divide la superficie di $P$ in due regioni, e che per ogni $k$ il numero di facce di poligoni a $k$ lati è uguale in entrambe le regioni.
+>
+> Dimostrare che, durante il suddetto processo di strisciamento, il numero di volte in cui la formica svolta a sinistra è esattamente uguale al numero di volte in cui svolta a destra.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2020#q05|src_cn_cmo_2020__Q05]]
 
 
 
@@ -200,6 +245,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le funzioni f: N+ -> N+ con f(f(x) + y) dividendo x+f(y)*
+*Trovare tutte le funzioni f: N+ → N+ tali che f(f(x)+y) divida x+f(y)*
 
-> $\mathbb{N}_+$ sia l'insieme di tutti gli integri positivi. Trovare tutte le funzioni $f: \mathbb{N}_+ \to \mathbb{N}_+$, soddisfacendo che per qualsiasi $x, y \in \mathbb{N}_+$, $$f(f(x) + y) \mid x + f(y).$$
+> Sia $\mathbb{N}_+$ l'insieme di tutti gli interi positivi. Trovare tutte le funzioni $f: \mathbb{N}_+ \to \mathbb{N}_+$ tali che, per ogni $x, y \in \mathbb{N}_+$,
+> $$f(f(x) + y) \mid x + f(y).$$
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2020#q06|src_cn_cmo_2020__Q06]]

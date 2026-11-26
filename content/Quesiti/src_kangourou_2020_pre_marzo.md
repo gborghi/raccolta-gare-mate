@@ -39,13 +39,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Stairway where kangaroo and rabbit meet
+*On which step do they meet?*
 
 ![[src_kangourou_2020_pre_marzo__prob1.png]]
 
-> The kangaroo goes up three steps at a time, the rabbit goes down two steps at a time: on which step do they meet?
+> The kangaroo goes up three steps at a time, and the rabbit comes down two steps at a time. On which step do they meet?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** 3
 > - **(B)** 4
@@ -53,7 +53,11 @@ Stairway where kangaroo and rabbit meet
 > - **(D)** 6
 > - **(E)** 7
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_pre_marzo#q01|src_kangourou_2020_pre_marzo__Q01]]
 
 
 
@@ -86,13 +90,13 @@ Stairway where kangaroo and rabbit meet
 <div class="qlang-split" data-lang="en"></div>
 
 
-What picture of the balloon in front of the castle?
+*Which picture could be Tommy's photograph?*
 
 ![[src_kangourou_2020_pre_marzo__prob2.png]]
 
-> Tommy's balloon was photographed outside this castle. Which of the following images can match Tommy's photograph?
+> The balloon Tommy was photographed in front of this castle. Which of the following pictures could be Tommy's photograph?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** A
 > - **(B)** B
@@ -100,7 +104,11 @@ What picture of the balloon in front of the castle?
 > - **(D)** D
 > - **(E)** E
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2020_pre_marzo#q02|src_kangourou_2020_pre_marzo__Q02]]
 
 
 
@@ -133,13 +141,13 @@ What picture of the balloon in front of the castle?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Right way to fit the pieces of the puzzle*
+*Which is the right way to fit the pieces together?*
 
 ![[src_kangourou_2020_pre_marzo__prob3.png]]
 
-> Bianca put together the kangaroo puzzle wrong. Which of the following is the correct way to fit the pieces of the puzzle?
+> Bianca put the kangaroo puzzle together wrongly. Which of the following is the right way to fit the pieces together?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** A
 > - **(B)** B
@@ -147,7 +155,11 @@ What picture of the balloon in front of the castle?
 > - **(D)** D
 > - **(E)** E
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2020_pre_marzo#q03|src_kangourou_2020_pre_marzo__Q03]]
 
 
 
@@ -180,13 +192,13 @@ What picture of the balloon in front of the castle?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Next two dolls in the periodic pattern*
+*What are the next two puppets, in order?*
 
 ![[src_kangourou_2020_pre_marzo__prob4.png]]
 
-> A magician has extracted from his cylinder hat dolls in the order indicated by this figure. Continue the extraction according to the initial pattern, repeated every five toys. What are the next two dolls in order?
+> A magician pulled puppets out of his top hat in the order shown in this picture. He goes on pulling them out according to the opening pattern, which repeats every five toys. What are the next two puppets, in order?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** A
 > - **(B)** B
@@ -194,7 +206,11 @@ What picture of the balloon in front of the castle?
 > - **(D)** D
 > - **(E)** E
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2020_pre_marzo#q04|src_kangourou_2020_pre_marzo__Q04]]
 
 
 
@@ -227,13 +243,13 @@ What picture of the balloon in front of the castle?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Image seen by overlapping the cardboard with holes*
+*Which picture does Lilly see?*
 
 ![[src_kangourou_2020_pre_marzo__prob5.png]]
 
-> Lilly has two pieces of cardboard the same size. There are four holes in card A. Lilly puts cardboard A right over cardboard B. Which of the following images do you see?
+> Lilly has two cards of the same size. Card A has four holes. Lilly places card A exactly on top of card B. Which of the following pictures does she see?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** A
 > - **(B)** B
@@ -241,7 +257,11 @@ What picture of the balloon in front of the castle?
 > - **(D)** D
 > - **(E)** E
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2020_pre_marzo#q05|src_kangourou_2020_pre_marzo__Q05]]
 
 
 
@@ -274,13 +294,13 @@ What picture of the balloon in front of the castle?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hidden grey cubes in the building*
+*How many of the grey cubes can you not see?*
 
 ![[src_kangourou_2020_pre_marzo__prob6.png]]
 
-> Mario made a construction using some white cubes and grey cubes, all of the same size. How many of the grey cubes can you not see in this image of Mario's construction?
+> Mario made a construction using some white cubes and $14$ grey cubes, all of the same size. How many of the grey cubes can you not see in this picture of Mario's construction?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** $1$
 > - **(B)** $3$
@@ -288,7 +308,11 @@ What picture of the balloon in front of the castle?
 > - **(D)** $6$
 > - **(E)** $8$
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_pre_marzo#q06|src_kangourou_2020_pre_marzo__Q06]]
 
 
 
@@ -321,13 +345,13 @@ What picture of the balloon in front of the castle?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Drawing with 3 black triangles and less than 4 squares
+*Which drawing could be Anna's?*
 
 ![[src_kangourou_2020_pre_marzo__prob7.png]]
 
-> Anna drew some geometric shapes: $3$ black triangles and less than $4$ squares. Which of the following may be Anna's drawing?
+> Anna drew some geometric shapes: $3$ black triangles and fewer than $4$ squares. Which of the following could be Anna's drawing?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** A
 > - **(B)** B
@@ -335,7 +359,11 @@ Drawing with 3 black triangles and less than 4 squares
 > - **(D)** D
 > - **(E)** E
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2020_pre_marzo#q07|src_kangourou_2020_pre_marzo__Q07]]
 
 
 
@@ -368,21 +396,25 @@ Drawing with 3 black triangles and less than 4 squares
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colors of the ribbon for numbers 1,2,3*
+*Which colours match the numbers 1, 2 and 3?*
 
 ![[src_kangourou_2020_pre_marzo__prob8.png]]
 
-> The braid in the figure is composed using three tapes: one yellow, one blue and one red. What colors match the numbers 1, 2, 3 you see in the figure?
+> The plait in the picture is made from three ribbons: a yellow one, a light-blue one and a red one. Which colours correspond to the numbers 1, 2 and 3 in the picture?
 >
-> (see figure)
+> (see the picture)
 >
-> - **(A)** 1 is blue, 2 is yellow and 3 is red.
-> - **(B)** 1 is yellow, 2 is red and 3 is blue.
-> - **(C)** 1 is red, 2 is blue and 3 is yellow.
-> - **(D)** 1 is yellow, 2 is blue and 3 is red.
-> - **(E)** 1 is blue, 2 is red and 3 is yellow.
+> - **(A)** 1 is light blue, 2 is yellow and 3 is red
+> - **(B)** 1 is yellow, 2 is red and 3 is light blue
+> - **(C)** 1 is red, 2 is light blue and 3 is yellow
+> - **(D)** 1 is yellow, 2 is light blue and 3 is red
+> - **(E)** 1 is light blue, 2 is red and 3 is yellow
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_pre_marzo#q08|src_kangourou_2020_pre_marzo__Q08]]
 
 
 
@@ -415,13 +447,13 @@ Drawing with 3 black triangles and less than 4 squares
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Piece that completes the figure*
+*Which piece completes the picture?*
 
 ![[src_kangourou_2020_pre_marzo__prob9.png]]
 
-> Which of the following completes the figure?
+> Which of the following pieces completes the picture?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** A
 > - **(B)** B
@@ -429,7 +461,11 @@ Drawing with 3 black triangles and less than 4 squares
 > - **(D)** D
 > - **(E)** E
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_pre_marzo#q09|src_kangourou_2020_pre_marzo__Q09]]
 
 
 
@@ -462,21 +498,25 @@ Drawing with 3 black triangles and less than 4 squares
 <div class="qlang-split" data-lang="en"></div>
 
 
-Where to draw the twelfth village house
+*Where must the twelfth house be drawn?*
 
 ![[src_kangourou_2020_pre_marzo__prob10.png]]
 
-> A village of $12$ houses has four straight streets and three circular streets. On each straight road there are $3$ houses; also on each circular road there are $3$ houses. The map shows $11$ of the houses: where should the 12th house be drawn?
+> A village of $12$ houses has four straight roads and three circular roads. On each straight road there are $3$ houses; on each circular road there are also $3$ houses. The map shows $11$ of the houses. Where must the twelfth house be drawn?
 >
-> (see figure)
+> (see the picture)
 >
-> - **(A)** In A
-> - **(B)** In B
-> - **(C)** In C
-> - **(D)** In D
-> - **(E)** In E
+> - **(A)** At A
+> - **(B)** At B
+> - **(C)** At C
+> - **(D)** At D
+> - **(E)** At E
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_pre_marzo#q10|src_kangourou_2020_pre_marzo__Q10]]
 
 
 
@@ -509,13 +549,13 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Construction using more cubes*
+*In which construction were the most cubes used?*
 
 ![[src_kangourou_2020_pre_marzo__prob11.png]]
 
-> The five constructions you see below were made by placing identical cubes face to face. Which one of them did we use the most cubes in?
+> The five constructions below were made by placing equal cubes face against face. In which of them were the most cubes used?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** A
 > - **(B)** B
@@ -523,7 +563,11 @@ Where to draw the twelfth village house
 > - **(D)** D
 > - **(E)** E
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2020_pre_marzo#q11|src_kangourou_2020_pre_marzo__Q11]]
 
 
 
@@ -556,13 +600,13 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number on the hidden petal with equal sums*
+*What number is written on the hidden petal?*
 
 ![[src_kangourou_2020_pre_marzo__prob12.png]]
 
-> We wrote a number on each petal of two flowers, both of five petals. The sums of the numbers written on the two flowers are equal. What number is written on the hidden petal?
+> A number has been written on each petal of two flowers, both with five petals. The sums of the numbers written on the two flowers are equal. What number is written on the hidden petal?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** $0$
 > - **(B)** $3$
@@ -570,7 +614,11 @@ Where to draw the twelfth village house
 > - **(D)** $7$
 > - **(E)** $1$
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_pre_marzo#q12|src_kangourou_2020_pre_marzo__Q12]]
 
 
 
@@ -603,13 +651,13 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure in which the grey pencil is used most*
+*In which picture was the grey pencil used the most?*
 
 ![[src_kangourou_2020_pre_marzo__prob13.png]]
 
-> Which of the following figures has the most use of the grey pencil?
+> In which of the following pictures was the grey pencil used the most?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** A
 > - **(B)** B
@@ -617,7 +665,11 @@ Where to draw the twelfth village house
 > - **(D)** D
 > - **(E)** E
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_pre_marzo#q13|src_kangourou_2020_pre_marzo__Q13]]
 
 
 
@@ -650,13 +702,13 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the box with question mark, sum of 10*
+*What number goes in the square with the question mark?*
 
 ![[src_kangourou_2020_pre_marzo__prob14.png]]
 
-> Anna wants to write the numbers $1, 2, 3, 4, 5$ and $6$, each in one of the six squares in the figure. She wants it to be $10$ both the sum of the numbers in the blue squares and the sum of the numbers in the yellow squares. What number does she have to write in the box with the question mark?
+> Anna wants to write the numbers $1, 2, 3, 4, 5$ and $6$, each in one of the six squares in the picture. She wants both the sum of the numbers in the blue squares and the sum of the numbers in the yellow squares to equal $10$. What number must she write in the square with the question mark?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** $1$
 > - **(B)** $2$
@@ -664,7 +716,11 @@ Where to draw the twelfth village house
 > - **(D)** $4$
 > - **(E)** $5$
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2020_pre_marzo#q14|src_kangourou_2020_pre_marzo__Q14]]
 
 
 
@@ -697,13 +753,13 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The appearance of the paper after two flips*
+*How does the card look after the two flips?*
 
 ![[src_kangourou_2020_pre_marzo__prob15.png]]
 
-> There's this paper on the table. It is flipped along its upper side and then along its left side, as shown in the drawing. Which of these looks like the paper after the two moves?
+> This card is on the table. It is flipped over along its top edge and then along the left edge, as the drawing shows. Which of these is how the card looks after the two moves?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** A
 > - **(B)** B
@@ -711,7 +767,11 @@ Where to draw the twelfth village house
 > - **(D)** D
 > - **(E)** E
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_pre_marzo#q15|src_kangourou_2020_pre_marzo__Q15]]
 
 
 
@@ -743,11 +803,11 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of cookies to bake for 5 grandchildren*
+*What is the least number of biscuits she still has to bake?*
 
 ![[src_kangourou_2020_pre_marzo__prob16.png]]
 
-> Grandma baked $12$ cookies. She wants to give all the cookies she will bake to her $5$ grandchildren and she wants to give each grandchild the same number of cookies. What is the minimum number of cookies she will have to bake additionally?
+> Grandmother has baked $12$ biscuits. She wants to give all the biscuits she bakes to her $5$ grandchildren, and she wants to give each grandchild the same number. What is the least number of biscuits she still has to bake?
 >
 > - **(A)** $0$
 > - **(B)** $1$
@@ -755,7 +815,12 @@ Where to draw the twelfth village house
 > - **(D)** $3$
 > - **(E)** $4$
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_pre_marzo#q16|src_kangourou_2020_pre_marzo__Q16]]
 
 
 
@@ -789,13 +854,13 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Paper to be placed in the 3x3 grey box*
+*Which card goes in the grey cell?*
 
 ![[src_kangourou_2020_pre_marzo__prob17.png]]
 
-> Luigi wants to put these nine cards on a table. He wants the cards placed in each row and in each column to show the three different shapes and the three different numbers of shapes. As you can see, he's already put three. Which of the following cards should he put in the grey box?
+> Luigi wants to place these nine cards on a $3 \times 3$ board. He wants the cards in each row and in each column to show the three different shapes and the three different numbers of shapes. As you can see, he has already placed three. Which of the following cards must he put in the grey cell?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** A
 > - **(B)** B
@@ -803,7 +868,12 @@ Where to draw the twelfth village house
 > - **(D)** D
 > - **(E)** E
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_pre_marzo#q17|src_kangourou_2020_pre_marzo__Q17]]
 
 
 
@@ -836,13 +906,13 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Carriage adjacent to 12 when 19 are adjacent*
+*Which carriage is alongside that carriage of the first train?*
 
 ![[src_kangourou_2020_pre_marzo__prob18.png]]
 
-> Two identical trains, each with $31$ carriages, travel in opposite directions. When carriage number $19$ of the two trains are adjacent, which carriage is adjacent to carriage number $12$ of the first train?
+> Two identical trains, each with $31$ carriages, are travelling in opposite directions. When carriage number $19$ of each train is alongside the other, which carriage is alongside carriage number $12$ of the first train?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** $7$
 > - **(B)** $12$
@@ -850,7 +920,11 @@ Where to draw the twelfth village house
 > - **(D)** $26$
 > - **(E)** $31$
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_pre_marzo#q18|src_kangourou_2020_pre_marzo__Q18]]
 
 
 
@@ -884,13 +958,13 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of colouring two cells to connect A to B*
+*In how many ways can Bea be allowed to go from A to B?*
 
 ![[src_kangourou_2020_pre_marzo__prob19.png]]
 
-> The Bea bee can only move on gray cells. How many different ways can you color exactly two white cells gray so that Bea can go from A to B?
+> The bee Bea can move only on the grey cells. In how many different ways can you colour exactly two white cells grey so that Bea can go from A to B?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** $3$
 > - **(B)** $4$
@@ -898,7 +972,12 @@ Where to draw the twelfth village house
 > - **(D)** $6$
 > - **(E)** $7$
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_pre_marzo#q19|src_kangourou_2020_pre_marzo__Q19]]
 
 
 
@@ -932,13 +1011,13 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who is the lowest in the height graph*
+*Who is the shortest?*
 
 ![[src_kangourou_2020_pre_marzo__prob20.png]]
 
-> Note the figure: Each circle represents a man, and each arrow directed from one man to another indicates that the first man is taller than the second. For example, man B is taller than man A. Who's the lowest?
+> Look at the picture: each little circle stands for a man, and each arrow from one man to another means that the first man is taller than the second. For example, man B is taller than man A. Who is the shortest?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** Man A
 > - **(B)** Man B
@@ -946,7 +1025,12 @@ Where to draw the twelfth village house
 > - **(D)** Man D
 > - **(E)** Man E
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_pre_marzo#q20|src_kangourou_2020_pre_marzo__Q20]]
 
 
 
@@ -977,11 +1061,11 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many yellow apples are in the basket*
+*How many yellow apples are there?*
 
 ![[src_kangourou_2020_pre_marzo__prob21.png]]
 
-> In a basket there are some apples and pears. Every fruit is either yellow or green. The number of apples exceeds the total number of green fruits by $3$. There are yellow pears. How many yellow apples are in the basket?
+> In a basket there are some apples and $8$ pears. Every fruit is either yellow or green. The number of apples exceeds the total number of green fruits by $3$. There are $6$ yellow pears. How many yellow apples are there in the basket?
 >
 > - **(A)** $4$
 > - **(B)** $5$
@@ -989,7 +1073,11 @@ Where to draw the twelfth village house
 > - **(D)** $7$
 > - **(E)** $8$
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_pre_marzo#q21|src_kangourou_2020_pre_marzo__Q21]]
 
 
 
@@ -1039,29 +1127,13 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible numbers in the circle with equal sums*
+*Which numbers can be written in the circle with the question mark?*
 
 ![[src_kangourou_2020_pre_marzo__prob22.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw (0,0) circle (0.5) node {?};
-  \draw (0,1.2) circle (0.5);
-  \draw (0,-1.2) circle (0.5);
-  \draw (-1.2,0) circle (0.5);
-  \draw (1.2,0) circle (0.5);
-  \draw (0,0.5) -- (0,0.7);
-  \draw (0,-0.5) -- (0,-0.7);
-  \draw (-0.5,0) -- (-0.7,0);
-  \draw (0.5,0) -- (0.7,0);
-\end{tikzpicture}
-\end{document}
-```
-
-> Carlo wrote each of the numbers $1, 2, 3, 4$ and $5$ in one of the circles of the figure so that the sum of the $3$ numbers aligned horizontally is equal to the sum of the $3$ numbers in the column. What numbers could he have written in the circle with the question mark?
+> Carlo wrote each of the numbers $1, 2, 3, 4$ and $5$ in one of the circles in the picture, so that the sum of the $3$ numbers aligned horizontally equals the sum of the $3$ numbers in the column. Which numbers might he have written in the circle with the question mark?
 >
-> (see figure)
+> (see the picture)
 >
 > - **(A)** Only $5$
 > - **(B)** Only $3$
@@ -1069,7 +1141,12 @@ Where to draw the twelfth village house
 > - **(D)** Only $1$ or $3$
 > - **(E)** $1$ or $3$ or $5$
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2020_pre_marzo#q22|src_kangourou_2020_pre_marzo__Q22]]
 
 
 
@@ -1100,11 +1177,11 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number on the face opposite to 5 on a cube*
+*Which number is on the opposite face?*
 
 ![[src_kangourou_2020_pre_marzo__prob23.png]]
 
-> On each of the faces of a cube, six different numbers chosen from the numbers between $1$ and $9$ were written, one number on each face. The sums of the numbers on each pair of opposite faces are equal. Which of the following numbers is inscribed on the face opposite the face with the number $5$?
+> On the faces of a cube, six different numbers chosen from the numbers between $1$ and $9$ have been written, one number on each face. The sums of the numbers on each pair of opposite faces are equal. Which of the following numbers was written on the face opposite the face with the number $5$?
 >
 > - **(A)** $5$
 > - **(B)** $6$
@@ -1112,7 +1189,11 @@ Where to draw the twelfth village house
 > - **(D)** $3$
 > - **(E)** $9$
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_pre_marzo#q23|src_kangourou_2020_pre_marzo__Q23]]
 
 
 
@@ -1144,11 +1225,11 @@ Where to draw the twelfth village house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Giovanni's initial marbles after two exchanges*
+*How many marbles did Giovanni have at the start?*
 
 ![[src_kangourou_2020_pre_marzo__prob24.png]]
 
-> Giovanni and Stefano exchange marbles. First Giovanni gives Stefano as many marbles as Stefano has; then Stefano gives Giovanni as many marbles as Giovanni has after the first exchange. After these two exchanges they both have $4$ marbles. How many marbles did Giovanni have at the beginning?
+> Giovanni and Stefano exchange marbles. First Giovanni gives Stefano as many marbles as Stefano has; then Stefano gives Giovanni as many marbles as Giovanni has after the first exchange. After these two exchanges they both have $4$ marbles. How many marbles did Giovanni have at the start?
 >
 > - **(A)** $2$
 > - **(B)** $3$
@@ -1156,4 +1237,9 @@ Where to draw the twelfth village house
 > - **(D)** $5$
 > - **(E)** $6$
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_pre_marzo#q24|src_kangourou_2020_pre_marzo__Q24]]

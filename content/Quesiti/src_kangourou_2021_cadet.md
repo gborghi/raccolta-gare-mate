@@ -40,17 +40,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Zodiac sign with an axis of symmetry*
+*Which of them has an axis of symmetry?*
 
 ![[src_kangourou_2021_cadet__prob1.png]]
 
-> The following symbols represent some of the zodiac signs. Which one of them has an axis of symmetry? A) Cancer B) Scorpio C) Lion
-> 	
+> The symbols that follow stand for some signs of the zodiac. Which of them has an axis of symmetry?
+>
+> A) Cancer
+> B) Scorpio
+> C) Leo
 > D) Sagittarius
-> 	
 > E) Capricorn
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_cadet#q01|src_kangourou_2021_cadet__Q01]]
 
 
 
@@ -82,13 +89,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded percentage of concentric circles*
+*What percentage of the figure is shaded?*
 
 ![[src_kangourou_2021_cadet__prob2.png]]
 
-> In the figure you see three concentric circles and four of their diameters. What percentage of the figure is shaded? A) 30% B) 35% C) 40% D) 45% E) 50%
+> In the picture you see three concentric circles and four of their diameters. What percentage of the figure is shaded?
+>
+> A) 30%
+> B) 35%
+> C) 40%
+> D) 45%
+> E) 50%
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_cadet#q02|src_kangourou_2021_cadet__Q02]]
 
 
 
@@ -120,19 +138,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the expression (2+0+2+1)/...*
+*What is the value of the expression?*
 
-> What is the result of the expression ? A) 42
-> 	
+> What is the value of the expression ?
+>
+> A) 42
 > B) 64
-> 	
 > C) 80
-> 	
 > D) 84
-> 	
 > E) 105
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_cadet#q03|src_kangourou_2021_cadet__Q03]]
 
 
 
@@ -166,19 +186,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of four consecutive increasing digits*
+*How many such four-digit numbers are there?*
 
-> How many four-digit numbers have the property that their digits, read from left to right, are consecutive and in increasing order? A) 5
-> 	
+> How many four-digit numbers have the property that their digits, read from left to right, are consecutive and in increasing order?
+>
+> A) 5
 > B) 6
-> 	
 > C) 7
-> 	
 > D) 8
-> 	
 > E) 9
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_cadet#q04|src_kangourou_2021_cadet__Q04]]
 
 
 
@@ -211,17 +234,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the operation in the card puzzle*
+*What is its result?*
 
 ![[src_kangourou_2021_cadet__prob5.png]]
 
-> By fitting the five puzzle tiles together in the correct way, you get a rectangle in which an operation can be read. What is the result? A) –100 B) –8
-> 	
+> If the five puzzle tiles are fitted together in the right way, one obtains a rectangle in which an operation can be read. What is its result?
+>
+> A) –100
+> B) –8
 > C) –1
-> 	
-> D) 199 E) 208
+> D) 199
+> E) 208
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_cadet#q05|src_kangourou_2021_cadet__Q05]]
 
 
 
@@ -266,24 +295,30 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Highest water level vessel with half a litre*
+*In which vase will the water level be highest?*
 
 ![[src_kangourou_2021_cadet__prob6.png]]
 
-> All the vessels represented in the answers are the same height and each has a capacity of 1 litre. We pour half a liter of water into each vessel. In which vessel will the level reached by the water be the highest? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
-> E)
->      
-> -------------------- 2 + 0 + 2 + 1 2 − 1 0 2
+> All the vases shown in the answers have the same height, and each of them holds 1 litre. We pour half a litre of water into each vase. In which vase will the water level be highest?
 >
+> A)
+> B)
+> C)
+> D)
+> E)
+>
+> 2 + 0 + 2 + 1
+> 2
+> −
+> 1
+> 0
+> 2
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_cadet#q06|src_kangourou_2021_cadet__Q06]]
 
 
 
@@ -312,11 +347,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True claim on chain heights*
+*Which statement is true?*
 
-> Bianca is 5 cm taller than Ada, but 10 cm shorter than Carla. Diana is 10 cm taller than Carla but 5 cm shorter than Enza. Which of the following statements is true? A) Bianca is 30 cm shorter than Enza. B) Enza is 15 cm taller than Diana. C) Carla is 20 cm shorter than Enza. D) Diana is 20 cm taller than Ada. E) Ada is 30 cm shorter than Enza.
+> Bianca is 5 cm taller than Ada, but 10 cm shorter than Carla. Diana is 10 cm taller than Carla but 5 cm shorter than Enza. Which of the following statements is true?
+>
+> A) Bianca is 30 cm shorter than Enza.
+> B) Enza is 15 cm taller than Diana.
+> C) Carla is 20 cm shorter than Enza.
+> D) Diana is 20 cm taller than Ada.
+> E) Ada is 30 cm shorter than Enza.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_cadet#q07|src_kangourou_2021_cadet__Q07]]
 
 
 
@@ -355,21 +400,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Part of the grey cubes of the 3x3x3 cube
+*Which figure could show the grey cubes alone?*
 
 ![[src_kangourou_2021_cadet__prob8.png]]
 
-> A cube with edge 3 cm was obtained by putting together white, grey and black cubes with edge 1 cm, as shown in the first figure. The other two figures show the two parts consisting of only white cubes and only black cubes. Which of the following figures could illustrate the part consisting of only grey cubes? A)
-> 	
+> A cube of edge 3 cm was made by placing white, grey and black cubes of edge 1 cm side by side, as the first picture shows. The other two pictures show the two parts made of the white cubes alone and of the black cubes alone. Which of the following figures could show the part made of the grey cubes alone?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_cadet#q08|src_kangourou_2021_cadet__Q08]]
 
 
 
@@ -406,21 +453,23 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Correct combination by rotating the gears of 180*
+*Which of the following is the correct combination?*
 
 ![[src_kangourou_2021_cadet__prob9.png]]
 
-> A combination lock is made up of four gears, each of which shows the digits from 0 to 9 in order. To obtain the correct combination, you need to turn each gear shown in the figure next to 180°. Which of the following is the correct combination of the lock? A)
-> 	
+> A combination lock is made of four wheels, each of which shows the digits from 0 to 9 in order. To obtain the correct combination, each wheel shown in the picture beside must be turned through 180°. Which of the following is the correct combination of the lock?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_cadet#q09|src_kangourou_2021_cadet__Q09]]
 
 
 
@@ -456,19 +505,21 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figures left after strip breaks*
+*How many squares of chocolate are left at the end?*
 
-> A rectangular chocolate bar is made up of many equal squares. Nicola breaks two whole strips of squares and eats the 12 squares. Later, James breaks a whole strip of squares from what is left of the bar and eats the 9 squares. How many squares of chocolate are left on the bar at the end? A) 72
-> 	
+> A rectangular bar of chocolate is made of many equal little squares. Nicola breaks off two whole strips of squares and eats the 12 squares he obtains. Later Giacomo breaks off one whole strip of squares from what is left of the bar and eats the 9 squares he obtains. How many squares of chocolate are left in the bar at the end?
+>
+> A) 72
 > B) 63
-> 	
 > C) 54
-> 	
 > D) 45
-> 	
-> E) 36 Questions from N. 11 to N. 20 are worth 4 points each.
+> E) 36
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_cadet#q10|src_kangourou_2021_cadet__Q10]]
 
 
 
@@ -501,13 +552,23 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of addition of four-digit numbers*
+*What is the sum of the four-digit addition?*
 
 ![[src_kangourou_2021_cadet__prob11.png]]
 
-> The sum of the two two-digit numbers shown on the left, if done correctly, is 137. What is the sum of the two four-digit numbers shown on the right? A) 13737 B) 13837 C) 14747 D) 23737 E) 137137
+> The addition of the two two-digit numbers shown on the left, if carried out correctly, has sum 137. What is the sum of the addition of the two four-digit numbers shown on the right?
+>
+> A) 13737
+> B) 13837
+> C) 14747
+> D) 23737
+> E) 137137
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_cadet#q11|src_kangourou_2021_cadet__Q11]]
 
 
 
@@ -565,12 +626,50 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of the empty vessel given two fillings*
+*What is the weight of the empty vase?*
 
-> A vessel filled with water for one fifth of its capacity weighs 560 g. The same vessel filled with water for four fifths weighs 740 g. What's the weight of the empty vessel? A) 60 g B) 112 g C) 180 g D) 300 g E) 500 g AB + CD 137 ADCB CBAD ? = + = 5 2 3 7 6 3 4 8 7 4 5 9 180 ° 9 7 0 4 0 8 1 5 1 9 2 6 0 7 8 2 1 8 9 3 2 9 0 4 0 8 6 1 1 9 7 2 2 0 8 3 3 7 8 1 4 8 9 2 5 9 0 3 7 3 2 5 8 4 3 6 9 5 4 7
+> A vase filled with water to one fifth of its capacity weighs 560 g. The same vase filled with water to four fifths weighs 740 g. What is the weight of the empty vase?
 >
+> A) 60 g
+> B) 112 g
+> C) 180 g
+> D) 300 g
+> E) 500 g
+>
+> AB +
+> CD
+> 137
+> ADCB
+> CBAD
+> ?
+> =
+> +
+> =
+> 5 2 3 7
+> 6 3 4 8
+> 7 4 5 9
+> 180 °
+> 9 7 0 4
+> 0 8 1 5
+> 1 9 2 6
+> 0 7 8 2
+> 1 8 9 3
+> 2 9 0 4
+> 0 8 6 1
+> 1 9 7 2
+> 2 0 8 3
+> 3 7 8 1
+> 4 8 9 2
+> 5 9 0 3
+> 7 3 2 5
+> 8 4 3 6
+> 9 5 4 7
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_cadet#q12|src_kangourou_2021_cadet__Q12]]
 
 
 
@@ -605,17 +704,24 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of black flower in square area 16*
+*What is the area of the black flower?*
 
 ![[src_kangourou_2021_cadet__prob13.png]]
 
-> The large square in which the figure is enclosed has an area of 16 cm2, while each of the four small gray squares has an area of 1 cm2. What is the area in square centimetres of the black flower? A) 3
-> 	
-> B) 7/2
->  		
-> C) 4 D) 5 E) 6
+> The large square enclosing the figure has area 16 cm2, while each of the four small grey squares has area 1 cm2. What is the area, in square centimetres, of the black flower?
+>
+> A) 3
+> B) 7-----
+> 2
+> C) 4
+> D)
+> E) 6
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_cadet#q13|src_kangourou_2021_cadet__Q13]]
 
 
 
@@ -652,25 +758,23 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the overlap between planks*
+*How long is the overlap between two adjacent boards?*
 
 ![[src_kangourou_2021_cadet__prob14.png]]
 
-> Jacopo is building a new fence in his garden, using 25 wooden planks,
-> each of which is 30 cm wide. He places them side by side so that there is always the same
-> slight overlap between the two planks of every pair of adjacent planks, as suggested
-> by the figure showing a part of the fence seen from above:
-> The total length of Jacopo's new fence is 6.9 metres. What is the length
-> in centimetres of the overlap between two adjacent planks?
-> A) 2.4
-> B) 2.5
+> Jacopo is building a new fence in his garden, using 25 wooden boards, each 30 cm wide. He places them so that there is always the same slight overlap between the two boards of every pair of adjacent boards, as the picture suggests, showing part of the fence seen from above. The total length of Jacopo's new fence is 6,9 metres. What is the length, in centimetres, of the overlap between two adjacent boards?
 >
+> A) 2,4
+> B) 2,5
 > C) 3
->
-> D) 4.8
+> D) 4,8
 > E) 5
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_cadet#q14|src_kangourou_2021_cadet__Q14]]
 
 
 
@@ -710,21 +814,23 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles for the star with minor sharp angles*
+*How many triangles form that star?*
 
 ![[src_kangourou_2021_cadet__prob15.png]]
 
-> Five identical right triangles can be moved so that by approaching (without leaving gaps and without creating overlapping positions) their larger sharp angles form the star shown in the figure. With a larger number of triangles of the same type, a different star can be constructed by approaching (with the same precautions) the smaller sharp angles: how many triangles form such a star? A) 10
-> 	
+> Five identical right triangles can be arranged so that, by placing their larger acute angles together (leaving no gaps and creating no overlaps), the star shown in the picture is formed. With a larger number of triangles of this same kind, a different star can be built by placing the smaller acute angles together (with the same care). How many triangles form that star?
+>
+> A) 10
 > B) 12
-> 	
 > C) 18
-> 	
 > D) 20
-> 	
 > E) 24
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_cadet#q15|src_kangourou_2021_cadet__Q15]]
 
 
 
@@ -758,19 +864,23 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of h in the five squares set*
+*What is h in centimetres?*
 
 ![[src_kangourou_2021_cadet__prob16.png]]
 
-> Five squares are arranged as shown in the figure. The smallest square has an area of 1 cm2. How much is h in centimeters? A) 3
-> 	
+> Five squares are arranged as shown in the picture. The smallest square has area 1 cm2. What is h in centimetres?
+>
+> A) 3
 > B) 3,5
-> 	
 > C) 4
-> 	
-> D) 4,2 E) 4,5
+> D) 4,2
+> E) 4,5
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_cadet#q16|src_kangourou_2021_cadet__Q16]]
 
 
 
@@ -800,11 +910,21 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How much to decrease the denominator to double*
+*By what percentage must the denominator be decreased?*
 
-> I wrote a fraction where both the numerator and denominator are positive integers. Now I'm going to increase the numerator by 40%. What percentage do I have to deduct from the denominator for the new fraction to be worth twice the starting fraction? A) 10% B) 20% C) 30% D) 40% E) 50%
+> I wrote a fraction in which both the numerator and the denominator are positive integers. I now increase the numerator by 40%. By what percentage must I decrease the denominator so that the new fraction is twice the original one?
+>
+> A) 10%
+> B) 20%
+> C) 30%
+> D) 40%
+> E) 50%
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_cadet#q17|src_kangourou_2021_cadet__Q17]]
 
 
 
@@ -839,19 +959,23 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x with rectangles of areas P=2Q*
+*What is x?*
 
 ![[src_kangourou_2021_cadet__prob18.png]]
 
-> A rectangular strip of paper whose sides measure 4 and 13 is folded as shown in the drawing: two rectangles of areas P and Q are formed, with P = 2Q. How much is x? A) 5
-> 	
+> A strip of paper in the shape of a rectangle whose sides measure 4 and 13 is folded as the drawing shows: two rectangles of areas P and Q are thus formed, with P = 2Q. What is x?
+>
+> A) 5
 > B) 5,5
-> 	
 > C) 6
-> 	
-> D) 6,5 E) 4√2
+> D) 6,5
+> E) 4√2
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_cadet#q18|src_kangourou_2021_cadet__Q18]]
 
 
 
@@ -893,13 +1017,32 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True claim by division of apples and pears*
+*Which statement is true in any case?*
 
-> In a box there are apples and pears: the number of apples is twice the number of pears. Cristina and Liliana divide the fruits so that Cristina has twice the number of fruits as Liliana. Which of the following is true? 11 ----- 2 h 1 P Q x 45°
-> 
-> A) Cristina took at least one pear. B) Cristina took twice as many apples as the number of pears. C) Cristina took twice as many apples as Liliana. D) Cristina took as many apples as Liliana took pears. E) Cristina took as many pears as Liliana took apples.
+> In a crate there are apples and pears: the number of apples is twice the number of pears. Cristina and Liliana share the fruit so that Cristina has twice as many fruits as Liliana. Which of the following statements is true in any case?
+>
+> A) Cristina took at least one pear.
+> B) Cristina took twice as many apples as pears.
+> C) Cristina took twice as many apples as Liliana took.
+> D) Cristina took as many apples as the pears Liliana took.
+> E) Cristina took as many pears as the apples Liliana took.
+>
+> 11
+> -----
+> 2
+> h
+> 1
+> P
+> Q
+> x
+> 45°
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_cadet#q19|src_kangourou_2021_cadet__Q19]]
 
 
 
@@ -932,13 +1075,26 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of hexagons given 12 pentagons of the ball*
+*How many hexagons were there?*
 
 ![[src_kangourou_2021_cadet__prob20.png]]
 
-> Football balls from a few years ago were built with white hexagons and black pentagons next to each other as the figure suggests. There were 12 pentagons in total. How many hexagons were there? (A) 12 (B) 15 (C) 18 (D) 20 (E) 24 Questions from N. 21 to N. 30 are worth 5 points each.
+> Footballs of some years ago were made of white hexagons and black pentagons placed together as the picture suggests. There were 12 pentagons in all. How many hexagons were there?
+>
+> A) 12
+> B) 15
+> C) 18
+> D) 20
+> E) 24
+>
+> Questions 21 to 30 are worth 5 points each.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_cadet#q20|src_kangourou_2021_cadet__Q20]]
 
 
 
@@ -977,21 +1133,23 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of shortest road between three villages*
+*How many kilometres long is the shortest of the roads between the three villages?*
 
 ![[src_kangourou_2021_cadet__prob21.png]]
 
-> Three villages are connected by forest roads as the map suggests. The road from Palù to Colle passing through Due Fonti is 1 km longer than the direct road; the road from Palù to Due Fonti passing through Colle is 5 km longer than the direct road; the road from Colle to Due Fonti passing through Palù is 7 km longer than the direct road. How many kilometres long is the shortest of the roads between the three villages? A) 1
-> 	
+> Three villages are linked by forest roads, as the map suggests. The road from Palù to Colle by way of Due Fonti is 1 km longer than the direct road; the road from Palù to Due Fonti by way of Colle is 5 km longer than the direct road; the road from Colle to Due Fonti by way of Palù is 7 km longer than the direct road. How many kilometres long is the shortest of the roads between the three villages?
+>
+> A) 1
 > B) 2
-> 	
 > C) 3
-> 	
 > D) 4
-> 	
 > E) 5
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_cadet#q21|src_kangourou_2021_cadet__Q21]]
 
 
 
@@ -1025,19 +1183,21 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unanswered questions given the score 100*
+*How many questions did he not answer?*
 
-> A test consists of 20 questions. Each correct answer is worth 7 points, each wrong answer is worth –4 points and each unanswered question is worth 0 points. Enrico took the test and scored 100 points. How many questions didn't he answer? A) 0
-> 	
+> A test consists of 20 questions. Each correct answer is worth 7 points, each wrong answer is worth −4 points, and each question left unanswered is worth 0 points. Enrico took the test and scored 100 points. How many questions did he not answer?
+>
+> A) 0
 > B) 1
-> 	
 > C) 2
-> 	
 > D) 3
-> 	
 > E) 4
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_cadet#q22|src_kangourou_2021_cadet__Q22]]
 
 
 
@@ -1075,21 +1235,23 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Color of the ball at the centre of the fourth face*
+*What colour is the ball at the centre of the fourth face?*
 
 ![[src_kangourou_2021_cadet__prob23.png]]
 
-> The figure shows a pyramid with a triangular base constructed with 20 balls of equal size. Each ball is colored with only one of the five colors that we denote with the letters A, B, C, D, E; exactly 4 different balls have the same color. The following figures show three of the faces of the pyramid. What's the color of the ball at the center of the fourth face? A) A
-> 	
+> The picture shows a pyramid with a triangular base built from 20 balls of equal size. Each ball is coloured with only one of five colours, denoted by the letters A, B, C, D and E; exactly 4 different balls have the same colour. The pictures that follow show three of the faces of the pyramid. What is the colour of the ball at the centre of the fourth face?
+>
+> A) A
 > B) B
-> 	
 > C) C
-> 	
 > D) D
-> 	
 > E) E
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_cadet#q23|src_kangourou_2021_cadet__Q23]]
 
 
 
@@ -1151,20 +1313,29 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of tokens in the box (boxes)*
+*What is the greatest number of counters the box could contain?*
 
-> A box contains only green, red, blue and yellow tokens. Whatever tokens you draw from the box, • 27 tokens, there is always at least one green; • 25 tokens, there is always at least one red; • 22 tokens, there is always at least one blue; • 17 tokens, there is always at least one yellow. What is the maximum number of tokens the box could contain? A) 27
-> 	
-> B) 29
-> 	
-> C) 51
-> 	
-> D) 87
-> 	
-> E) 91 Colle Due Fonti Palù D E C A B E D C A D C C B A D E A B B C D A E B C D C C D E A B D
+> A box contains only green, red, blue and yellow counters. However one draws counters from the box:
 >
+> - 27 counters, there is always at least one green;
+> - 25 counters, there is always at least one red;
+> - 22 counters, there is always at least one blue;
+> - 17 counters, there is always at least one yellow.
+>
+> What is the greatest number of counters the box could contain?
+>
+> A) 27
+> B) 29
+> C) 51
+> D) 87
+> E) 91
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_cadet#q24|src_kangourou_2021_cadet__Q24]]
 
 
 
@@ -1198,19 +1369,22 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of ABCDE2 figures with 2ABCDE x3 = ABCDE2*
+*What is the sum of the digits of this number?*
 
-> If we multiply by 3 the six-digit number 2ABCDE we get the six-digit number ABCDE2. What is the sum of the digits of this number? A) 24
-> 	
+> If we multiply the 6-digit number 2ABCDE by 3, we obtain the 6-digit number ABCDE2. What is the sum of the digits of this number?
+>
+> A) 24
 > B) 27
-> 	
 > C) 30
-> 	
 > D) 33
-> 	
 > E) 36
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_cadet#q25|src_kangourou_2021_cadet__Q25]]
 
 
 
@@ -1251,15 +1425,26 @@ Part of the grey cubes of the 3x3x3 cube
 <div class="qlang-split" data-lang="en"></div>
 
 
-Kangaroo whose color Bruno can't tell
+*What is the number of the kangaroo whose colour Bruno did not guess?*
 
-> 2021 kangaroos are in Indian queue and are numbered, according to their position in the queue, from 1 to 2021. Each kangaroo is either red or gray or blue and you pick three consecutive kangaroos in any stretch of the row and there's always one for each color. Bruno tries to guess the color of five kangaroos without seeing the line. These are his statements: "kangaroo 2 is gray"; "kangaroo 20 is blue"; "kangaroo 202 is red"; "kangaroo 1002 is blue"; "kangaroo 2021 is gray". Only one of the statements is wrong. What's the number of the kangaroo Bruno didn't guess the color of? A) 2
-> 	
+> 2021 kangaroos are in single file and are numbered, according to their position in the file, from 1 to 2021. Each kangaroo is either red or grey or blue, and any three consecutive kangaroos, in any part of the file, always include one of each colour. Bruno tries to guess the colour of five kangaroos without being able to see the file. These are his statements:
+>
+> "kangaroo 2 is grey"; "kangaroo 20 is blue"; "kangaroo 202 is red"; "kangaroo 1002 is blue"; "kangaroo 2021 is grey".
+>
+> Only one of the statements is wrong. What is the number of the kangaroo whose colour Bruno did not guess?
+>
+> A) 2
 > B) 20
-> 	
-> C) 202 D) 1002 E) 2021
+> C) 202
+> D) 1002
+> E) 2021
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_cadet#q26|src_kangourou_2021_cadet__Q26]]
 
 
 
@@ -1299,21 +1484,24 @@ Kangaroo whose color Bruno can't tell
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubs crossed by diagonal tunnel 3x4x5*
+*Through how many little cubes does the tunnel pass?*
 
 ![[src_kangourou_2021_cadet__prob27.png]]
 
-> A parallelepiped 3 × 4 × 5 is made up of 60 identical wood cubes, as the figure suggests. A termite digs a tunnel along the diagonal from P to Q that, as can be seen, does not intersect any of the edges of the cubes that are inside the parallelepiped. How many cubes does the termite tunnel pass through? A) 8
-> 	
+> A 3 × 4 × 5 box is made of 60 identical wooden cubes, as the picture suggests. A termite digs a tunnel along the diagonal from P to Q which, as one can check, does not meet any edge of the cubes that lie inside the box. Through how many little cubes does the termite's tunnel pass?
+>
+> A) 8
 > B) 9
-> 	
 > C) 10
-> 	
 > D) 11
-> 	
 > E) 12
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_cadet#q27|src_kangourou_2021_cadet__Q27]]
 
 
 
@@ -1347,11 +1535,22 @@ Kangaroo whose color Bruno can't tell
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs made up of two crooks*
+*How many pairs were made up of two knaves?*
 
-> There are 21 knights living in a city who always tell the truth and 2,000 crooks who always lie. With these 2021 people, one pollster composed 1010 couples, excluding one person. Then, in each couple, each person had to tell if the other was a knight or a crook. In this survey, 2,000 people were declared knights and 20 people were declared crooks. How many couples were made up of two crooks? A) 980 B) 985 C) 990 D) 995 E) 1000
+> In a town there live 21 knights, who always tell the truth, and 2000 knaves, who always lie. With these 2021 people a pollster made 1010 pairs, thus leaving out only one person. Then, in each pair, each person had to say whether the other was a knight or a knave. In this enquiry 2000 people were declared knights and 20 people were declared knaves. How many pairs were made up of two knaves?
+>
+> A) 980
+> B) 985
+> C) 990
+> D) 995
+> E) 1000
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_cadet#q28|src_kangourou_2021_cadet__Q28]]
 
 
 
@@ -1389,21 +1588,23 @@ Kangaroo whose color Bruno can't tell
 <div class="qlang-split" data-lang="en"></div>
 
 
-Turn where D meets F in the tournament
+*In which round will team D meet team F?*
 
 ![[src_kangourou_2021_cadet__prob29.png]]
 
-> In a tournament, each of the six participating teams must meet each other exactly once. Each day the three meetings take place simultaneously: see in the picture which meeting will be broadcast each day by a television news channel. In which round will Team D meet Team F? A) 1
-> 	
+> In a tournament each of the six teams taking part must meet every other team exactly once. On each day the three matches are played at the same time: the picture shows which match a well-known television channel will broadcast on each day. In which round will team D meet team F?
+>
+> A) 1
 > B) 2
-> 	
 > C) 3
-> 	
 > D) 4
-> 	
 > E) 5
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_cadet#q29|src_kangourou_2021_cadet__Q29]]
 
 
 
@@ -1464,16 +1665,26 @@ Turn where D meets F in the tournament
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The area of the shaded quadrilateral divided into four*
+*What is the area of the shaded quadrilateral?*
 
 ![[src_kangourou_2021_cadet__prob30.png]]
 
-> The drawing shows a quadrilateral divided into four smaller quadrilaterals sharing the K vertex. Each pair of points on one side of the large quadrilateral divides that side into three equal parts. The numbers within the small quadrilaterals indicate their area. What is the area of the shaded quadrilateral? A) 4
-> 	
+> The drawing shows a quadrilateral divided into four smaller quadrilaterals that share the vertex K. Each pair of points marked on a side of the large quadrilateral divides that side into three equal parts. The numbers inside the small quadrilaterals give their areas. What is the area of the shaded quadrilateral?
+>
+> A) 4
 > B) 5
-> 	
 > C) 6
-> 	
-> D) 6,5 E) 7 Q P 1 2 3 4 5 A – B C – D A – E E – F A – C P Q R S T U V W K 18 ? 10 8
+> D) 6,5
+> E) 7
+>
+> K
+> 18
+> ?
+> 10
+> 8
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_cadet#q30|src_kangourou_2021_cadet__Q30]]

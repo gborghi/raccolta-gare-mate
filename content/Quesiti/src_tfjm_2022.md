@@ -96,6 +96,8 @@ level: TFJM²
 
 ![[src_tfjm_2022__q01.png]]
 
+[[Quesiti/src_tfjm_2022#q01|src_tfjm_2022__Q01]]
+
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_algebra,method_invarianti,method_ricorsione,method_casework,skill_modellizzazione,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -169,6 +171,8 @@ level: TFJM²
 
 ![[src_tfjm_2022__q02.png]]
 
+[[Quesiti/src_tfjm_2022#q02|src_tfjm_2022__Q02]]
+
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_conteggio,method_casework,method_backward,skill_conteggio_sistematico,skill_modellizzazione,skill_astrazione"></span>
@@ -230,6 +234,8 @@ Un professore confinato vuole sostituire Perrine per ricostruire l'arrangamento 
 > 5. Proporre e studiare altre vie di ricerca.
 
 ![[src_tfjm_2022__q03.png]]
+
+[[Quesiti/src_tfjm_2022#q03|src_tfjm_2022__Q03]]
 
 
 
@@ -307,6 +313,8 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 > 6. Proporre e studiare altre direzioni di ricerca.
 
 ![[src_tfjm_2022__q04.png]]
+
+[[Quesiti/src_tfjm_2022#q04|src_tfjm_2022__Q04]]
 
 
 
@@ -386,6 +394,8 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 
 ![[src_tfjm_2022__q05.png]]
 
+[[Quesiti/src_tfjm_2022#q05|src_tfjm_2022__Q05]]
+
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_grafi,method_bigezione,method_casework,skill_modellizzazione,skill_astrazione,skill_conteggio_sistematico"></span>
@@ -462,6 +472,8 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 > 6. Proporre e studiare altre direzioni di ricerca.
 
 ![[src_tfjm_2022__q06.png]]
+
+[[Quesiti/src_tfjm_2022#q06|src_tfjm_2022__Q06]]
 
 
 
@@ -547,6 +559,8 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 > 6. Proporre e studiare altre vie di ricerca.
 
 ![[src_tfjm_2022__q07.png]]
+
+[[Quesiti/src_tfjm_2022#q07|src_tfjm_2022__Q07]]
 
 
 
@@ -638,3 +652,5 @@ Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i 
 > 7. Proporre e studiare altre direzioni di ricerca.
 
 ![[src_tfjm_2022__q08.png]]
+
+[[Quesiti/src_tfjm_2022#q08|src_tfjm_2022__Q08]]

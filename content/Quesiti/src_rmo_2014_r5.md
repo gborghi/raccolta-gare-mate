@@ -33,9 +33,20 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i valori interi positivi a e b con le condizioni AP e GP sulle radici*
+*Trovare i valori interi positivi a e b, dati i vincoli di progressione aritmetica e di progressione geometrica sulle radici*
 
-> Le radici dell'equazione $$x^3 - 3ax^2 + bx + 18c = 0$$ formano una progressione aritmetica non costante e le radici dell'equazione $$x^3 + bx^2 + x - c^2 = 0$$ formano una progressione geometrica non costante. Dato che $a$, $b$, $c$ sono numeri reali, trovare tutti i valori integrali positivi $a$ e $b$.
+> Le radici dell'equazione
+> $$x^3 - 3ax^2 + bx + 18c = 0$$
+> formino una progressione aritmetica non costante e le radici dell'equazione
+> $$x^3 + bx^2 + x - c^2 = 0$$
+> Formare una progressione geometrica non costante. Dato che $a$, $b$, $c$ sono numeri reali, determinare tutti i valori interi positivi $a$ e $b$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2014_r5#q02|src_rmo_2014_r5__Q02]]
 
 
 
@@ -57,9 +68,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bissettori angolari da bisettori perpendicolari in triangolo acuto; dimostrare BO perp a DE*
+*Le bisettrici degli angoli ricavate dalle mediatrici in un triangolo acutangolo; dimostrare che BO è perpendicolare a DE*
 
-> Il $ABC$ è un triangolo acuto angolato in cui $\angle ABC$ è l'angolo più grande. Che il $O$ sia il suo circoncentro. I bisettori perpendicolari di $BC$ e $AC$ incontrano $AB$ e $BC$ rispettivamente a $X$ e $Y$. I bisettori interni di $\angle AXB$ e $\angle BYC$ si incontrano rispettivamente a $AC$ e $E$. Prova che $BO$ è perpendicolare a $DE$.
+> Sia $ABC$ un triangolo acutangolo in cui $\angle ABC$ è l'angolo maggiore. Sia $O$ il suo circocentro. Le mediatrici di $BC$ e $AC$ incontrano $AB$ e $BC$ rispettivamente in $X$ e $Y$. Le bisettrici interne di $\angle AXB$ e $\angle BYC$ incontrano $AC$ rispettivamente in $D$ e $E$. Dimostrare che $BO$ è perpendicolare a $DE$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2014_r5#q03|src_rmo_2014_r5__Q03]]
 
 
 
@@ -85,6 +102,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare percorsi distinti da (0,0) a (8,8) con esattamente tre passi a destra*
+*Conta i percorsi distinti da (0,0) a (8,8) con esattamente tre passi verso destra*
 
-> Una persona si muove nel piano $x$-$y$ che si muove lungo punti con coordinate interi $x$ e $y$ solo. Quando si trova al punto $(x, y)$, fa un passo in base alle seguenti regole: a) se $x + y$ è anche si sposta a $(x+1, y)$ o a $(x-1, y+1)$; b) se $x + y$ è pari si sposta a $(x+1, y)$ o a $(x+1, y+1)$. Quanti percorsi distinti può percorrere per passare da$(0, 0)$ a$(8, 8)$ dato che ha fatto esattamente tre passi a destra?
+> Una persona si muove nel piano $x$-$y$, spostandosi soltanto lungo punti a coordinate intere $x$ e $y$. Quando si trova nel punto $(x, y)$, compie un passo secondo le seguenti regole:
+> (a) se $x + y$ è pari, si sposta in $(x+1, y)$ oppure in $(x-1, y+1)$;
+> (b) se $x + y$ è dispari, si sposta in $(x+1, y)$ oppure in $(x+1, y+1)$.
+> Quanti percorsi distinti può seguire per andare da $(0, 0)$ a $(8, 8)$, sapendo che ha compiuto esattamente tre passi verso destra $\{(x, y) \to (x+1, y)\}$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2014_r5#q04|src_rmo_2014_r5__Q04]]

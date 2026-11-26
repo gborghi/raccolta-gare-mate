@@ -31,11 +31,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area del quadrilatero interno nel pentagono regolare dell'area 1*
+*Area del quadrilatero interno in un pentagono regolare di area 1*
 
-> Che $ABCDE$ sia un pentagono regolare con superficie $1$. Il $P$ è l'intersezione di $AC$ e $BD$, e il $Q$ è l'intersezione di $BD$ e $CE$. Determinare la superficie di $APQD$.
+> Sia $ABCDE$ un pentagono regolare di area $1$. Sia $P$ l'intersezione di $AC$ e $BD$, e sia $Q$ l'intersezione di $BD$ e $CE$. Determinare l'area di $APQD$.
 
 ![[src_obm_1999_n2_f3__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1999_n2_f3#q01|src_obm_1999_n2_f3__Q01]]
 
 
 
@@ -60,11 +67,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Un cittadino esiliato può mai tornare nella sua città originaria?
+*Un cittadino esiliato può mai tornare nella sua città d'origine?*
 
-> Un regno è composto da dieci città. Un cittadino molto problematico è stato bandito dalla città $A$ alla città $B$, che è la città più lontana del regno da $A$. Dopo un po' di tempo, fu bandito dalla città $B$ alla città $C$, che è la città più lontana del regno da $B$. Sa che la città $C$ non è città $A$, e che la città $D$ è la città più lontana da $C$. Se continua a essere bandito in questo modo, è possibile che alla fine ritorni in città?
-> 
-> **Nota: ** Tutte le distanze tra le città sono distinte.
+> Un regno è composto da dieci città. Un cittadino molto problematico fu esiliato dalla città $A$ alla città $B$, che è la città più lontana, nel regno, da $A$. Dopo qualche tempo, fu esiliato dalla città $B$ alla città $C$, che è la città più lontana, nel regno, da $B$. Sa che la città $C$ non è la città $A$, e che la città $D$ è la città più lontana da $C$. Se continuerà a essere esiliato in questo modo, è possibile che alla fine possa tornare nella città $A$?
+>
+> **Note:** Tutte le distanze tra le città sono diverse.
+
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n2_f3#q02|src_obm_1999_n2_f3__Q02]]
 
 
 
@@ -87,9 +101,16 @@ Un cittadino esiliato può mai tornare nella sua città originaria?
 <div class="qlang-split" data-lang="it"></div>
 
 
-Quante volte Adriano e Bruno si sono affrontati a ping-pong?
+*Quante volte Adriano e Bruno si sono affrontati a ping pong?*
 
-> Adriano, Bruno e Carlos giocarono una serie di partite di table tennis. Ogni volta che un giocatore perdeva, veniva sostituito dal giocatore che aspettava. La prima partita è stata giocata tra Adriano e Bruno. È noto che Adriano ha vinto 12 partite e Bruno 21 partite. Quante volte Adriano e Bruno hanno giocato l'uno contro l'altro?
+> Adriano, Bruno e Carlos hanno disputato una serie di incontri di tennistavolo. Ogni volta che un giocatore perdeva, veniva sostituito dal giocatore in attesa. Il primo incontro si è svolto tra Adriano e Bruno. Si sa che Adriano ha vinto 12 incontri e Bruno ne ha vinti 21. Quante volte Adriano e Bruno si sono affrontati?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n2_f3#q03|src_obm_1999_n2_f3__Q03]]
 
 
 
@@ -112,6 +133,13 @@ Quante volte Adriano e Bruno si sono affrontati a ping-pong?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove sqrt(2) ha una cifra decimale non zero tra le posizioni 1.000.000 e 3.000.000*
+*Dimostrare che sqrt(2) ha una cifra decimale diversa da zero tra le posizioni 1.000.000 e 3.000.000*
 
-> Prove che c'è almeno una cifra decimale diversa da zero tra i punti decimali $1{,}000{,}000$-th a $3{,}000{,}000$-th di $\sqrt{2}$ dopo il punto decimale.
+> Dimostrare che, tra la $1{,}000{,}000$-ma e la $3{,}000{,}000$-ma cifra decimale di $\sqrt{2}$ dopo la virgola, c'è almeno una cifra decimale diversa da zero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1999_n2_f3#q04|src_obm_1999_n2_f3__Q04]]

@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi tangenti ai lati del triangolo equilaterale; trovare rapporto AP/AC*
+*Dimostrare che $AP/AC = 4/5$ e calcolare $AQ/AC$*
 
-> $ABC$ è un triangolo equilaterale. Il cerchio $\Gamma_1$ ha centro $A$ e raggio $AB$. $\Gamma_2$ è il cerchio su $AB$ come diametro. Un cerchio con il centro $P$ su $AC$ tocca $\Gamma_1$ internamente a $C$ e $\Gamma_2$ esternamente a $Q$. Indicare che $AP/AC = 4/5$ e calcolare il rapporto $AQ/AC$.
+> $ABC$ è un triangolo equilatero. La circonferenza $\Gamma_1$ ha centro $A$ e raggio $AB$. $\Gamma_2$ è la circonferenza di diametro $AB$. Una circonferenza di centro $P$ su $AC$ è tangente internamente a $\Gamma_1$ in $C$ ed esternamente a $\Gamma_2$ in $Q$. Dimostrare che $AP/AC = 4/5$ e calcolare il rapporto $AQ/AC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1988#q01|src_bmo2_1988__Q01]]
 
 
 
@@ -58,11 +65,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi di conteggio di 2n oggetti in coppie, ordine immateriale*
+*Il numero di accoppiamenti di $2n$ oggetti, e di 10 persone senza coppie sposate*
 
-> Dimostrare che il numero di modi di organizzare gli oggetti $2n$ distinguibili in coppie $n$ è $$1 \cdot 3 \cdot 5 \cdots (2n-1)$$ se l'ordine delle coppie e l'ordine degli oggetti all'interno di ciascuna coppia sono entrambi immateriali. Per gli oggetti $4$ $a, b, c, d$ le abbinamenti $3$ sono $ab, cd$; $ac, bd$; $ad, bc$.
-> 
-> Un gruppo di persone $10$ costituito da coppie sposate $5$ è diviso in coppie $5$. Una coppia può essere composta da due uomini, due donne o da un uomo e una donna, ma non deve essere una coppia sposata. In quanti modi si può fare questo accordo se l'ordine, come sopra, è insignificante? Spiega attentamente il tuo ragionamento.
+> Dimostrare che il numero di modi di disporre $2n$ oggetti distinguibili in $n$ coppie è
+> $$1 \cdot 3 \cdot 5 \cdots (2n-1)$$
+> se l'ordine delle coppie e l'ordine degli oggetti in ciascuna coppia sono entrambi irrilevanti. Per $4$ oggetti $a, b, c, d$ i $3$ accoppiamenti sono $ab, cd$; $ac, bd$; $ad, bc$.
+>
+> Una compagnia di $10$ persone, formata da $5$ coppie sposate, va divisa in $5$ coppie. Una coppia può essere formata da due uomini, due donne o un uomo e una donna, ma non deve essere una coppia sposata. In quanti modi si può fare questa disposizione se l'ordine, come sopra, è irrilevante? Spiegare con cura il ragionamento.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1988#q02|src_bmo2_1988__Q02]]
 
 
 
@@ -93,11 +109,24 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il valore di a^4+b^4+c^4-2abc dato alle equazioni simmetriche in x,y,z*
+*Il valore di $a^4 + b^4 + c^4 - 2abc$, indipendente da $x, y, z$*
 
-> I numeri $a$, $b$, $c$, $x$, $y$, $z$ soddisfano le equazioni $$x^4 - y^4 - z^4 = 2ayz$$ $$-x^4 + y^4 - z^4 = 2bxz$$ $$-x^4 - y^4 + z^4 = 2cxy$$ e anche $xyz \neq 0$.
-> 
-> Usando le prime due equazioni si esprime $z$ in termini di $a$, $b$, $x$, $y$. Prove che $$x^2(1 - b^2) = y^2(1 - a^2) = xy(ab - c)$$ e quindi trova il valore di $a^4 + b^4 + c^4 - 2abc$ (indipendentemente da $x$, $y$, $z$).
+> I numeri $a$, $b$, $c$, $x$, $y$, $z$ soddisfano le equazioni
+> $$x^4 - y^4 - z^4 = 2ayz$$
+> $$-x^4 + y^4 - z^4 = 2bxz$$
+> $$-x^4 - y^4 + z^4 = 2cxy$$
+> e anche $xyz \neq 0$.
+>
+> Usando le prime due equazioni, esprimere $z$ in funzione di $a$, $b$, $x$, $y$. Dimostrare che
+> $$x^2(1 - b^2) = y^2(1 - a^2) = xy(ab - c)$$
+> e di qui trovare il valore di $a^4 + b^4 + c^4 - 2abc$ (indipendente da $x$, $y$, $z$).
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1988#q03|src_bmo2_1988__Q03]]
 
 
 
@@ -122,9 +151,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni integrali positive di 1/x + 2/y - 3/z = 1*
+*Tutte le soluzioni intere positive di $\frac{1}{x} + \frac{2}{y} - \frac{3}{z} = 1$*
 
-> Trova, con prova, tutte le soluzioni di $$\frac{1}{x} + \frac{2}{y} - \frac{3}{z} = 1$$ dove $x$, $y$, $z$ sono integri positivi.
+> Trovare, con dimostrazione, tutte le soluzioni di
+> $$\frac{1}{x} + \frac{2}{y} - \frac{3}{z} = 1$$
+> dove $x$, $y$, $z$ sono interi positivi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1988#q04|src_bmo2_1988__Q04]]
 
 
 
@@ -149,9 +187,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il punto di segmento tra due linee debole si trova su un cerchio fisso*
+*Il centro della sfera per $A$, $B$, $P$, $Q$ sta su una circonferenza fissa*
 
-> $L$ e $M$ sono due linee skew nello spazio, cioè non si incontrano né sono parallele. $A$, $B$ sono i punti di $L$ e $M$ rispettivamente in modo tale che $AB$ sia perpendicolare sia a $L$ che a $M$. I punti $P$ su $L$, $Q$ su $M$ variano in modo tale che $$P \neq A, \quad Q \neq B, \quad PQ \text{ is of constant length}.$$ Mostri che il centro della sfera attraverso $A$, $B$, $P$, $Q$ si trova su un cerchio fisso con il centro del punto medio di $AB$.
+> $L$ e $M$ sono due rette sghembe nello spazio, cioè non si incontrano e non sono parallele. $A$, $B$ sono i punti rispettivamente su $L$, $M$ tali che $AB$ è perpendicolare sia a $L$ sia a $M$. I punti $P$ su $L$, $Q$ su $M$ variano in modo che
+> $$P \neq A, \quad Q \neq B, \quad PQ \text{ is of constant length}.$$
+> Dimostrare che il centro della sfera per $A$, $B$, $P$, $Q$ sta su una circonferenza fissa con centro nel punto medio di $AB$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1988#q05|src_bmo2_1988__Q05]]
 
 
 
@@ -176,6 +223,15 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le disuguaglianze triangolari conservate sotto la radice quadrata della somma dei quadrati*
+*Le radici delle somme dei quadrati dei lati sono ancora lati di un triangolo*
 
-> Prova che se $a_1$, $b_1$, $c_1$ e $a_2$, $b_2$, $c_2$ sono le lunghezze dei lati di due triangoli (in qualche unità di misura), allora $$a = \sqrt{a_1^2 + a_2^2}, \quad b = \sqrt{b_1^2 + b_2^2}, \quad c = \sqrt{c_1^2 + c_2^2}$$ sono anche le lunghezze dei lati di un triangolo.
+> Dimostrare che, se $a_1$, $b_1$, $c_1$ e $a_2$, $b_2$, $c_2$ sono le lunghezze dei lati di due triangoli (in una certa unità di misura), allora
+> $$a = \sqrt{a_1^2 + a_2^2}, \quad b = \sqrt{b_1^2 + b_2^2}, \quad c = \sqrt{c_1^2 + c_2^2}$$
+> sono anch'esse le lunghezze dei lati di un triangolo.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1988#q06|src_bmo2_1988__Q06]]

@@ -31,9 +31,13 @@ level: kangourou
 
 *Area of the fourth quadrilateral in a square*
 
-> In a square, 4 segments from an internal point to the midpoints of the sides are drawn. Areas $200$, $320$, $160$ are given. What is the area of the fourth?
+> In a square, 4 line segments from an interior point to the midpoints of the sides. Areas $200$, $320$, $160$. What is the area of the fourth?
 
-**Answer:** 280
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2026_junior_finale#qj1|src_kangourou_2026_junior_finale__QJ1]]
 
 
 
@@ -56,11 +60,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fake lighter coin with 6 weighings*
+*Fake coin lighter with 6 weighings*
 
-> All coins are identical except one counterfeit that is lighter. Using a two-pan balance, at most 6 weighings are allowed. What is the maximum number of coins?
+> All the coins are identical except for one counterfeit, which is lighter. A two-pan balance, at most 6 comparisons. What is the maximum number of coins?
 
-**Answer:** 729
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2026_junior_finale#qj2|src_kangourou_2026_junior_finale__QJ2]]
 
 
 
@@ -84,11 +92,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit palindrome pairs with palindromic sum*
+*Pairs of 4-digit palindromes with a palindromic sum*
 
-> How many unordered pairs of 4-digit palindromes have a palindrome sum that is a 5-digit palindrome?
+> How many unordered pairs of 4-digit palindromes have a 5-digit palindromic sum?
 
-**Answer:** 36
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2026_junior_finale#qj3|src_kangourou_2026_junior_finale__QJ3]]
 
 
 
@@ -111,11 +124,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coin moving along the boundary of a circumscribed pentagon*
+*A coin that travels along the edge of a circumscribed pentagon*
 
-> A convex pentagon with all internal angles greater than $90^\circ$ is circumscribed about a circle of radius $10$ cm and has perimeter $75$ cm. A circular coin of radius $1$ cm is translated so that its center always remains on the boundary of the pentagon. What is the area in square centimeters of the region inside the pentagon and covered by the coin?
+> A convex pentagon with all interior angles greater than $90^\circ$ is circumscribed about a circle of radius $10$ cm and has a perimeter of $75$ cm. A circular coin with a radius of $1$ cm is translated so that its center always remains on the edge of the pentagon. By how many square centimeters is the area of the region contained within the pentagon and covered by the coin?
 
-**Answer:** 71,25
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2026_junior_finale#qj4|src_kangourou_2026_junior_finale__QJ4]]
 
 
 
@@ -138,11 +155,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Factorials to remove so that the product is a perfect square*
+*Factors to remove so that the product is a perfect square*
 
-> Consider the product $1!\times 2!\times\cdots\times 2026!$. What is the minimum number of factors of the form $n!$ that must be removed so that the product of the remaining factors is a perfect square?
+> Consider the product $1!\times 2!\times\cdots\times 2026!$. What is the minimum number of factors of the type $n!$ that must be removed so that the product of the remaining factors is a perfect square?
 
-**Answer:** 2
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2026_junior_finale#qj5|src_kangourou_2026_junior_finale__QJ5]]
 
 
 
@@ -165,8 +186,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of sides in any triangle, golden section*
+*Side ratios in every triangle, golden section*
 
-> What is the smallest real number $K>1$ such that, in every non-degenerate triangle, there are two sides whose lengths have a ratio between $1$ and $K$?
+> What is the smallest real number $K>1$ such that, in every non-degenerate triangle, there are two sides whose length ratio lies between $1$ and $K$?
 
-**Answer:** $(1+\sqrt{5})/2$
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2026_junior_finale#qj6|src_kangourou_2026_junior_finale__QJ6]]

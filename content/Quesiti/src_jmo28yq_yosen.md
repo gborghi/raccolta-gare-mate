@@ -30,11 +30,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di tabella a due cifre contenente la cifra 5*
+*Il numero scelto da J la cui cifra delle unità o delle decine è un valore dato*
 
-> J ha scelto 5 numeri dalla tabella di moltiplicazione (numeri espressibili come il prodotto di due numeri interi ciascuno tra $1$ e $9$ inclusivo). Ha notato che tutti i 5 sono numeri a due cifre, e che attraverso le loro unità e decine di cifre ciascuno di $0, 1, 2, 3, 4, 5, 6, 7, 8, 9$ appare esattamente una volta. Tra i numeri scelti da J, indicare quello che ha una cifra di unità o una cifra di decine è $5$. (Un numero a due cifre la cui cifra decimale è $0$ non è considerato.)
+> J ha scelto 5 numeri dalla tavola pitagorica (numeri esprimibili come prodotto di due interi, ciascuno compreso tra $1$ e $9$ inclusi). Ha notato che tutti e 5 sono numeri di due cifre, e che nelle loro cifre delle unità e delle decine ciascuno di $0, 1, 2, 3, 4, 5, 6, 7, 8, 9$ compare esattamente una volta. Tra i numeri scelti da J, dare quello la cui cifra delle unità o delle decine è $5$. (Un numero di due cifre la cui cifra delle decine è $0$ non si considera.)
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 56
+[[Quesiti/src_jmo28yq_yosen#q01|src_jmo28yq_yosen__Q01]]
 
 
 
@@ -58,11 +62,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
+*Modi di distribuire 9 carte in 3 scatole in modo che ogni terna sia una progressione aritmetica*
 
-> Ci sono 9 carte, ciascuna etichettata con uno degli enti da $1$ a $9$, una carta per numero. Sono distribuite, 3 carte ciascuno, in 3 scatole indistinguibili. In quanti modi si può fare questo in modo che, per ogni scatola, i tre numeri sulle sue carte formino una progressione aritmetica quando sono disposti in ordine crescente? Qui, tre numeri $a, b, c$ formano una progressione aritmetica quando $b - a = c - b$ si mantiene.
+> Ci sono 9 carte, ciascuna etichettata con uno degli interi da $1$ a $9$, una carta per numero. Si distribuiscono, 3 carte ciascuna, in 3 scatole indistinguibili. In quanti modi si può fare in modo che, per ogni scatola, i tre numeri sulle sue carte formino una progressione aritmetica se disposti in ordine crescente? Qui tre numeri $a, b, c$ formano una progressione aritmetica quando vale $b - a = c - b$.
 
-**Risposta:** 5 modi
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Risposta:** 5 ways
+[[Quesiti/src_jmo28yq_yosen#q02|src_jmo28yq_yosen__Q02]]
 
 
 
@@ -88,13 +96,17 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di trapezzoide retto data due diagonali e un angolo di 45 gradi*
+*Area di un quadrilatero con lati assegnati*
 
-> In quadrilaterali $ABCD$, $\angle A = \angle B = 90^\circ$, $\angle C = 45^\circ$, $AC = 19$, $BD = 15$. Trova la sua area. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Nel quadrilatero $ABCD$, $\angle A = \angle B = 90^\circ$, $\angle C = 45^\circ$, $AC = 19$, $BD = 15$. Trovare la sua area. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 ![[src_jmo28yq_yosen__q03.png]]
 
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** 68
+[[Quesiti/src_jmo28yq_yosen#q03|src_jmo28yq_yosen__Q03]]
 
 
 
@@ -118,11 +130,15 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Restante di 1111^2018 modulo 11111*
+*Resto di una divisione*
 
-> Trova il rimanente quando $1111^{2018}$ è diviso da $11111$.
+> Trovare il resto della divisione di $1111^{2018}$ per $11111$.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Risposta:** 100
+[[Quesiti/src_jmo28yq_yosen#q04|src_jmo28yq_yosen__Q04]]
 
 
 
@@ -148,13 +164,17 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contando le sequenze di inversione che girano in alternativa la riga Othello tutta nera*
+*Sequenze di operazioni che portano una fila di pedine Othello da (a) a (b)*
 
-> Undici pietre di Othello sono disposte in fila come indicato nell'ordine (a). L'operazione seguente viene eseguita un certo numero di volte: scegliere due pietre dello stesso colore visibile che non sono adiacenti e in modo tale che tutte le pietre strettamente tra di loro mostrino l'altro colore; quindi girare tutte le pietre tra di loro contemporaneamente. Quante sequenze di operazioni distinte portano dall'accordo (a) all'accordo (b)? L'accordo (a) è $\bullet\circ\bullet\circ\bullet\circ\bullet\circ\bullet\circ\bullet$ (alternativo, inizia e termina con nero). Arrangimento (b) tutti gli undici pietre nere: $\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet$. Ogni pietra Othello è nera ($\bullet$) su una faccia e bianca ($\circ$) sull'altra.
+> Undici pedine di Othello sono in fila come nella disposizione (a). Si esegue un certo numero di volte l'operazione seguente: si scelgono due pedine dello stesso colore visibile, non adiacenti, tali che tutte le pedine strettamente fra esse mostrino l'altro colore; poi si ribaltano contemporaneamente tutte le pedine fra esse. Quante successioni distinte di operazioni portano dalla disposizione (a) alla disposizione (b)? La disposizione (a) è $\bullet\circ\bullet\circ\bullet\circ\bullet\circ\bullet\circ\bullet$ (alternata, che inizia e finisce con il nero). La disposizione (b) è tutte e undici le pedine nere: $\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet$. Ogni pedina di Othello è nera ($\bullet$) su una faccia e bianca ($\circ$) sull'altra.
 
 ![[src_jmo28yq_yosen__q05.png]]
 
-**Risposta:** 945 modi
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Risposta:** 945 ways
+[[Quesiti/src_jmo28yq_yosen#q05|src_jmo28yq_yosen__Q05]]
 
 
 
@@ -178,11 +198,15 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza AX in triangoli rettangolari con isosceles nidificati*
+*Lunghezza di un segmento in un triangolo rettangolo isoscele, con tre punti interni*
 
-> Il triangolo $ABC$ è un triangolo a destra con $\angle A = 90^\circ$. All'interno di esso, sono scelti tre punti $X, Y, Z$ in modo che il triangolo $XYZ$ sia un triangolo a destra con $\angle X = 90^\circ$, e inoltre i punti $A, Y, X$ sono collineari in questo ordine, $B, Z, Y$ sono collineari in questo ordine e $C, X, Z$ sono collineari in questo ordine. Se si dà $AB = 1$ e $XY = \frac{1}{4}$, si trova la lunghezza del segmento $AX$. Qui $ST$ indica la lunghezza del segmento $ST$.
+> Il triangolo $ABC$ è rettangolo isoscele con $\angle A = 90^\circ$. Al suo interno si scelgono tre punti $X, Y, Z$ in modo che il triangolo $XYZ$ sia rettangolo isoscele con $\angle X = 90^\circ$, e inoltre i punti $A, Y, X$ siano allineati in quest'ordine, $B, Z, Y$ siano allineati in quest'ordine e $C, X, Z$ siano allineati in quest'ordine. Dati $AB = 1$ e $XY = \frac{1}{4}$, trovare la lunghezza del segmento $AX$. Qui $ST$ indica la lunghezza del segmento $ST$.
 
-**Risposta:** \frac{2+\sqrt{79}}{20}
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $\frac{2+\sqrt{79}}{20}$
+[[Quesiti/src_jmo28yq_yosen#q06|src_jmo28yq_yosen__Q06]]
 
 
 
@@ -206,11 +230,15 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Partzioni di 1-12 in coppie con totale i-j = 30*
+*Partizioni in coppie la cui somma dei punteggi è un valore dato*
 
-> Dividere gli entieri da $1$ a $12$ in coppie $6$, due interi per coppia. Quando $i$ e $j$ formano una coppia, il valore $|i - j|$ è il punteggio di tale coppia. In quanti modi può essere fatta la partizione in modo che il totale dei punteggi delle coppie $6$ sia uguale a $30$?
+> Si ripartiscano gli interi da $1$ a $12$ in $6$ coppie, due interi per coppia. Quando $i$ e $j$ formano una coppia, il valore $|i - j|$ è il punteggio di quella coppia. In quanti modi si può fare la partizione in modo che il totale dei punteggi delle $6$ coppie sia uguale a $30$?
 
-**Risposta:** 1104 modi
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Risposta:** 1104 ways
+[[Quesiti/src_jmo28yq_yosen#q07|src_jmo28yq_yosen__Q07]]
 
 
 
@@ -234,11 +262,17 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum della somma del prodotto ciclico dei punti su tre permutazioni*
+*Minimo valore possibile di un'espressione su tre permutazioni*
 
-> Se $a_1, a_2, \ldots, a_6$ e $b_1, b_2, \ldots, b_6$ e $c_1, c_2, \ldots, c_6$ sono ciascuna una permutazione di $1, 2, 3, 4, 5, 6$. Trova il valore minimo possibile di $$a_1 b_1 + a_2 b_2 + \cdots + a_6 b_6 + b_1 c_1 + b_2 c_2 + \cdots + b_6 c_6 + c_1 a_1 + c_2 a_2 + \cdots + c_6 a_6.$$
+> Siano $a_1, a_2, \ldots, a_6$, $b_1, b_2, \ldots, b_6$ e $c_1, c_2, \ldots, c_6$ ciascuno una permutazione di $1, 2, 3, 4, 5, 6$. Trovare il minimo valore possibile di
+> $$a_1 b_1 + a_2 b_2 + \cdots + a_6 b_6 + b_1 c_1 + b_2 c_2 + \cdots + b_6 c_6 + c_1 a_1 + c_2 a_2 + \cdots + c_6 a_6.$$
+> .
 
+**Argomento:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
 **Risposta:** 195
+[[Quesiti/src_jmo28yq_yosen#q08|src_jmo28yq_yosen__Q08]]
 
 
 
@@ -262,11 +296,15 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza DE dalle intersezioni di linea tangente incircolare e eccircolare A*
+*Lunghezza di un segmento, dati incentro e excerchio*
 
-> L'incircolo del triangolo $ABC$ tocca rispettivamente i lati $BC, CA, AB$ nei punti $P, Q, R$ e l'escircolo in angolo $A$ tocca rispettivamente il lato $BC$, la linea $CA$, la linea $AB$ nei punti $S, T, U$. $I$ sia l'incentro del triangolo $ABC$. Il $D$ deve essere l'intersezione della linea $PQ$ e della linea $ST$, e il $E$ deve essere l'intersezione della linea $PR$ e della linea $SU$. Date $AI = 3$, $IP = 1$, $PS = 2$, si trova la lunghezza del segmento $DE$. Qui $XY$ indica la lunghezza del segmento $XY$, e l'escircolo in angolo $A$ del triangolo $ABC$ è il cerchio tangente al lato $BC$, all'estensione del lato $AB$ oltre $B$ e all'estensione del lato $AC$ oltre $C$.
+> La circonferenza inscritta del triangolo $ABC$ tocca i lati $BC, CA, AB$ rispettivamente nei punti $P, Q, R$, e la circonferenza exinscritta nell'angolo $A$ tocca il lato $BC$, la retta $CA$ e la retta $AB$ rispettivamente nei punti $S, T, U$. Sia $I$ l'incentro del triangolo $ABC$. Sia $D$ l'intersezione della retta $PQ$ e della retta $ST$, e sia $E$ l'intersezione della retta $PR$ e della retta $SU$. Dati $AI = 3$, $IP = 1$, $PS = 2$, trovare la lunghezza del segmento $DE$. Qui $XY$ indica la lunghezza del segmento $XY$, e la circonferenza exinscritta nell'angolo $A$ del triangolo $ABC$ è la circonferenza tangente al lato $BC$, al prolungamento del lato $AB$ oltre $B$, e al prolungamento del lato $AC$ oltre $C$.
 
-**Risposta:** \frac{4\sqrt{2}}{3}
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Risposta:** $\frac{4\sqrt{2}}{3}$
+[[Quesiti/src_jmo28yq_yosen#q09|src_jmo28yq_yosen__Q09]]
 
 
 
@@ -290,11 +328,15 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rescultati di partite di pratica che danno esattamente 2 possibili campioni*
+*Combinazioni dei risultati delle partite di allenamento per cui esattamente un dato numero di giocatori può diventare campione*
 
-> I giocatori di$2^3 = 8$ partecipano a un torneo di scacchi di eliminazione singola, in cui il campione è deciso come segue. Innanzitutto, tutti i giocatori sono in fila. Poi si ripete la seguente operazione $3$ volte: i giocatori della fila sono raggruppati in coppie, due alla volta da una estremità, e i due giocatori di ciascuna coppia giocano una partita; il vincitore rimane nella fila e il perdente scende. Il giocatore che rimane in fila alla fine è il campione. Prima del torneo si svolgeva un round-robin completo di partite di pratica, in cui non si verificavano sorte; cioè, per ogni coppia di giocatori si giocava una partita di pratica e si determinava il vincitore. Ora supponiamo che i risultati delle partite del torneo concordino con i risultati delle prove. A seconda della formazione iniziale dei giocatori, il numero di giocatori che potrebbero diventare campioni si è rivelato esattamente $2$. Quante possibili combinazioni dei risultati tra pratiche e partite ci sono (per cui esattamente $2$ i giocatori possono diventare campioni)?
+> $2^3 = 8$ giocatori partecipano a un torneo di scacchi a eliminazione diretta, in cui il campione si decide come segue. Dapprima tutti i giocatori sono in fila. Poi si ripete $3$ volte l'operazione seguente: i giocatori in fila si raggruppano a coppie, due alla volta a partire da un estremo, e i due giocatori di ogni coppia disputano una partita; il vincitore resta in fila e il perdente esce. (Non ci sono patte.) Il giocatore che resta in fila alla fine è il campione. Prima del torneo si è disputato un girone completo di partite di allenamento, senza patte; cioè, per ogni coppia di giocatori si è giocata una partita di allenamento e si è determinato un vincitore. Si assuma ora che i risultati delle partite del torneo concordino con quelli delle partite di allenamento. A seconda della disposizione iniziale dei giocatori, il numero di giocatori che potrebbero diventare campione è risultato esattamente $2$. Quante combinazioni possibili ci sono dei risultati delle partite di allenamento (per le quali esattamente $2$ giocatori possono diventare campione)?
 
-**Risposta:** 344064 modi
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Risposta:** 344064 ways
+[[Quesiti/src_jmo28yq_yosen#q10|src_jmo28yq_yosen__Q10]]
 
 
 
@@ -318,11 +360,17 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio di enti interi pari alla somma delle delezioni a 7 cifre di base*
+*Interi positivi che soddisfano una condizione dopo la cancellazione di cifre in una base*
 
-> Quanti integri positivi $n$ soddisfano la seguente condizione? Condizione: Scrivere $n$ in base $7$ (con cifre di primo piano non zero) e lasciare $k$ essere il suo numero di cifre; richiedere $k \ge 2$. Dopo aver scritto $n$ nella base $7$, per ogni $i = 1, 2, \ldots, k-1$ togliere la $i$-esima cifra dalla destra (in basso), ottenendo un $(k-1)$-digito base-$7$ intero $n_i$. Poi $$\sum_{i=1}^{k-1} n_i = n.$$
+> Quanti interi positivi $n$ soddisfano la condizione seguente? Condizione: si scriva $n$ in base $7$ (con cifra iniziale non nulla) e sia $k$ il suo numero di cifre; si richieda $k \ge 2$. Dopo aver scritto $n$ in base $7$, per ogni $i = 1, 2, \ldots, k-1$ si tolga la $i$-esima cifra da destra (dal fondo), ottenendo un intero $(k-1)$ di cifre in base $7$, $n_i$. Allora
+> $$\sum_{i=1}^{k-1} n_i = n.$$
+> .
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Risposta:** 42
+[[Quesiti/src_jmo28yq_yosen#q11|src_jmo28yq_yosen__Q11]]
 
 
 
@@ -346,8 +394,12 @@ Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N più piccolo con a_{N+1}-a_N non uguale a 1*
+*Massimo intero positivo per cui una successione a valori interi soddisfa una condizione*
 
-> Una sequenza a valore intero $a_1, a_2, \ldots$ soddisfa, per tutti gli enti $m, n$: se $m, n \ge 30$ e $|m - n| \ge 2018$, allora $a_{m+n}$ è uguale a $a_m + n$ o $a_n + m$. Trova il più grande valore possibile di un intero positivo $N$ per il quale $a_{N+1} - a_N \ne 1$.
+> Una successione a valori interi $a_1, a_2, \ldots$ soddisfa, per tutti gli interi $m, n$: se $m, n \ge 30$ e $|m - n| \ge 2018$, allora $a_{m+n}$ è uguale a $a_m + n$ oppure a $a_n + m$. Trovare il massimo valore possibile di un intero positivo $N$ per il quale $a_{N+1} - a_N \ne 1$.
 
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_induzione|Induzione]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Risposta:** 4065
+[[Quesiti/src_jmo28yq_yosen#q12|src_jmo28yq_yosen__Q12]]

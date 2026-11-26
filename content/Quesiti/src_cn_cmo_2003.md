@@ -29,9 +29,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Collinearità del circondocentro, dell'incentro, del vertice se le aree sono uguali*
+*Collinearità di circocentro, incentro e vertice se e solo se le aree sono uguali*
 
-> Supponiamo che i punti $I$ e $H$ siano rispettivamente l'incentro e l'ortocentro di un triangolo acuto $ABC$, e che i punti $B_1$ e $C_1$ siano rispettivamente i punti medi dei lati $AC$ e $AB$. È noto che il raggio $B_1I$ interseca il lato $AB$ a $B_2$ (o la sua estensione), $C_1I$ interseca l'estensione $AC$ a $C_2$, $B_2C_2$ e $BC$ interseca a $K$, e $A_1$ è il circoncentro di $\triangle BHC$. Prova che i tre punti $A_1$, $I$ e $A$ sono collineari se e solo se le superfici di $\triangle B_1B_2K$ e $\triangle C_1C_2K$ sono uguali. (Posizionato da Shen Wenxuan)
+> Si supponga che i punti $I$ e $H$ siano rispettivamente l'incentro e l'ortocentro di un triangolo acuto $ABC$, e che i punti $B_1$ e $C_1$ siano i punti medi dei lati $AC$ e $AB$ rispettivamente. È noto che il raggio $B_1I$ interseca il lato $AB$ in $B_2$ (o la sua prolungazione), che $C_1I$ interseca la prolungazione di $AC$ in $C_2$, che $B_2C_2$ e $BC$ si intersecano in $K$, e che $A_1$ è il circocentro di $\triangle BHC$. Dimostrare che i tre punti $A_1$, $I$ e $A$ sono allineati se e solo se le aree di $\triangle B_1B_2K$ e $\triangle C_1C_2K$ sono uguali. (proposto da Shen Wenxuan)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2003#q01|src_cn_cmo_2003__Q01]]
 
 
 
@@ -59,15 +66,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximum elements in set S of positive integers with GCD conditions*
+*Elementi massimi nell'insieme S di numeri interi positivi con condizioni sul MCD*
 
-> Suppose a set $S$ satisfies the following conditions:
-> (1) every element in $S$ is a positive integer and not greater than $100$;
-> (2) for any two elements $a$ and $b$ in $S$, there is an element $c$ in $S$ such that the greatest common divisor of $a$ and $c$ is equal to $1$, and the greatest common divisor of $b$ and $c$ is also $1$;
-> (3) for any two elements $a$ and $b$ in $S$, there is an element $d$, which is different from $a$ and $b$, such that the greatest common divisor of $d$ and $a$, and that of $d$ and $b$ are both greater than $1$.
-> Find the maximum number of elements in $S$. (posed by Yao Jiangang)
+> Supponiamo che un insieme $S$ soddisfi le seguenti condizioni: (1) ogni elemento in $S$ è un numero intero positivo e non superiore a $100$; (2) per qualsiasi coppia di elementi $a$ e $b$ in $S$, esiste un elemento $c$ in $S$ tale che il massimo comune divisore di $a$ e $c$ è uguale a $1$, e il massimo comune divisore di $b$ e $c$ è anch'esso $1$; (3) per qualsiasi coppia di elementi $a$ e $b$ in $S$, esiste un elemento $d$, diverso da $a$ e da $b$, tale che il massimo comune divisore di $d$ e $a$, e quello di $d$ e $b$, siano entrambi maggiori di $1$. Determinare il numero massimo di elementi in $S$. (proposto da Yao Jiangang)
 
-**Risposta:** 72
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2003#q02|src_cn_cmo_2003__Q02]]
 
 
 
@@ -91,11 +99,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il lambda minimo per la somma dei cosini dato il prodotto della restrizione di tangenti*
+*Trovare il valore minimo di lambda per la somma dei coseni, dato il vincolo del prodotto delle tangenti*
 
-> Data un numero intero positivo $n$, trovare il valore minimo $\lambda$ tale che $\cos\theta_1 + \cos\theta_2 + \cdots + \cos\theta_n < \lambda$ sia valido ogni volta che $\tan\theta_1 \cdot \tan\theta_2 \cdots \tan\theta_n = 2^{\frac{n}{2}}$ per qualsiasi $\theta_i \in \left(0, \frac{\pi}{2}\right)$, $i = 1, 2, \ldots, n$. (Posizionato da Huang Yumin)
+> Dato un intero positivo $n$, trovare il valore minimo $\lambda$ tale che $\cos\theta_1 + \cos\theta_2 + \cdots + \cos\theta_n < \lambda$ valga ogni volta che $\tan\theta_1 \cdot \tan\theta_2 \cdots \tan\theta_n = 2^{\frac{n}{2}}$ per ogni $\theta_i \in \left(0, \frac{\pi}{2}\right)$, $i = 1, 2, \ldots, n$. (proposto da Huang Yumin)
 
-**Risposta:** n-1
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2003#q03|src_cn_cmo_2003__Q03]]
 
 
 
@@ -118,9 +131,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli interi (a,m,n) con a^n+203 divisibile da a^m+1*
+*Trovare tutte le terne di interi (a,m,n) tali che a^n+203 sia divisibile per a^m+1*
 
-> Trovare tutti i gruppi di interi interi positivi ternali $(a, m, n)$ soddisfacendo $a \ge 2$ e $m \ge 2$ in modo tale che $a^n + 203$ sia un multiple di $a^m + 1$. (Possibile da Chen Yonggao)
+> Trovare tutti i gruppi di tre interi positivi $(a, m, n)$ che soddisfano $a \ge 2$ e $m \ge 2$, in modo che $a^n + 203$ sia un multiplo di $a^m + 1$. (proposto da Chen Yonggao)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2003#q04|src_cn_cmo_2003__Q04]]
 
 
 
@@ -149,13 +169,20 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-Prove probabilità >70% di assumere uno dei primi 3 candidati da 10 candidati
+*Evidenza di una probabilità >70% di assumere uno dei 3 migliori tra 10 candidati*
 
-> Una certa azienda vuole assumere una segretaria. Applicano dieci persone. I primi candidati $3$ non dovrebbero essere impiegati. A partire dal quarto, un candidato sarà impiegato se e solo se il suo grado di abilità è superiore a quello di tutti gli intervistati precedenti, e l'intervista continua. Se le nove persone precedenti non sono impiegate, l'ultima sarà impiegata.
-> 
-> Supponiamo che le persone $10$ siano diverse in capacità, e possiamo organizzarle in base al loro rating di capacità da superiore a inferiore come $A_1 > A_2 > \cdots > A_{10}$. Ora indichiamo con $A_k$ il numero di permutazioni in modo tale che il richiedente con il grado di abilità $k$-th sia impiegato, e la probabilità che sia impiegato è $\frac{A_k}{10!}$.
-> 
-> Provare che la politica data dal gestore ha le seguenti due proprietà: (1) La probabilità che l'impresa impiega uno dei tre principali (cioè: $A_1$, $A_2$ o $A_3$) è maggiore di $70\%$. (2) La probabilità che l'azienda impiega uno dei tre ultimi non è superiore a $10\%$. (Posizionato da Su Chun)
+> Una certa azienda vuole assumere una segretaria. Dieci persone presentano domanda. I primi $3$ candidati non devono essere assunti. A partire dal quarto, un candidato sarà assunto se e solo se il suo punteggio di capacità è superiore a quello di tutti i candidati intervistati in precedenza, e il colloquio prosegue. Se le nove persone precedenti non vengono assunte, l'ultima verrà assunta.
+>
+> Supponiamo che le $10$ persone differiscano per capacità, e che possiamo ordinarle in base al loro punteggio di capacità, dal più alto al più basso, come $A_1 > A_2 > \cdots > A_{10}$. Ora indichiamo con $A_k$ il numero di permutazioni tali che il candidato con il $k$-esimo punteggio di capacità venga assunto, e la probabilità che egli venga assunto è $\frac{A_k}{10!}$.
+>
+> Dimostrare che la politica fornita dal manager ha le seguenti due proprietà: (1) La probabilità che l'azienda assuma uno dei tre migliori (ossia $A_1$, $A_2$ o $A_3$) è maggiore di $70\%$. (2) La probabilità che l'azienda assuma uno dei tre peggiori non supera $10\%$. (proposto da Su Chun)
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmo_2003#q05|src_cn_cmo_2003__Q05]]
 
 
 
@@ -180,6 +207,15 @@ Prove probabilità >70% di assumere uno dei primi 3 candidati da 10 candidati
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza per quattro punti sul cerchio unitario con ab+cd=1*
+*Disuguaglianza per quattro punti sulla circonferenza unitaria con ab+cd=1*
 
-> Supponiamo che $a$, $b$, $c$ e $d$ siano numeri reali positivi che soddisfano $ab + cd = 1$ e $P_i(x_i, y_i)$ ($i = 1, 2, 3, 4$) sono quattro punti sul cerchio unitario che ha l'origine come centro. Dimostrare che $$(ay_1 + by_2 + cy_3 + dy_4)^2 + (ax_4 + bx_3 + cx_2 + dx_1)^2 \le 2\left(\frac{a^2+b^2}{ab} + \frac{c^2+d^2}{cd}\right).$$ (posato da Li Shenghong)
+> Supponiamo che $a$, $b$, $c$ e $d$ siano numeri reali positivi che soddisfano $ab + cd = 1$ e $P_i(x_i, y_i)$ ($i = 1, 2, 3, 4$) siano quattro punti sulla circonferenza unitaria avente per centro l'origine. Dimostrare che
+> $$(ay_1 + by_2 + cy_3 + dy_4)^2 + (ax_4 + bx_3 + cx_2 + dx_1)^2 \le 2\left(\frac{a^2+b^2}{ab} + \frac{c^2+d^2}{cd}\right).$$
+> (proposto da Li Shenghong)
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2003#q06|src_cn_cmo_2003__Q06]]

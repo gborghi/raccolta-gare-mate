@@ -28,9 +28,15 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca f(13) per un'equazione funzionale differenziabile continua*
+*Una funzione continua e derivabile soddisfa una relazione di ricorrenza: si chiede la derivata in 13*
 
-> La funzione $f:(-1,+\infty)\to\mathbb{R}$ è continua e differenziabile. È noto che $f(0)=0$, $f'(0)=a$ e $f(x+1)=e^{f(x)}$ per tutti $x>-1$. Calcolare $f'(13)$.
+> La funzione $f:(-1,+\infty)\to\mathbb{R}$ è continua e derivabile. Si sa che $f(0)=0$, $f'(0)=a$ e che $f(x+1)=e^{f(x)}$ per ogni $x>-1$. Calcolare $f'(13)$.
+
+**Argomento:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2002_nu_f1#q01|src_obm_2002_nu_f1__Q01]]
 
 
 
@@ -54,9 +60,19 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova x,y che rende n ×n matrice invertibile e calcola il suo inverso*
+*Si chiede per quali x e y una matrice n per n è invertibile, e si chiede l'inversa*
 
-> Che $A$ sia la matrice $n\times n$ $$A=\begin{pmatrix} x+y & x & \cdots & x \\ x & x+y & \cdots & x \\ \vdots & \vdots & \ddots & \vdots \\ x & x & \cdots & x+y \end{pmatrix}.$$ Per quali valori di $x$ e $y$ è invertibile la matrice $A$? Calcolare $A^{-1}$.
+> Sia $A$ la matrice $n\times n$
+>
+> $$A=\begin{pmatrix} x+y & x & \cdots & x \\ x & x+y & \cdots & x \\ \vdots & \vdots & \ddots & \vdots \\ x & x & \cdots & x+y \end{pmatrix}.$$
+>
+> Per quali valori di $x$ e $y$ la matrice $A$ è invertibile? Calcolare $A^{-1}$.
+
+**Argomento:** [[topic_algebra|Algebra]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_obm_2002_nu_f1#q02|src_obm_2002_nu_f1__Q02]]
 
 
 
@@ -79,9 +95,17 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolare un'integrale che coinvolga radici quadrate incastonate*
+*Calcolare l'integrale definito assegnato*
 
-> Calcolo $$\int_1^3 \frac{\sqrt{x^2+1}+x-1}{\sqrt{x^2+1}+x+1}\,dx.$$
+> Calcolare
+>
+> $$\int_1^3 \frac{\sqrt{x^2+1}+x-1}{\sqrt{x^2+1}+x+1}\,dx.$$
+
+**Argomento:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2002_nu_f1#q03|src_obm_2002_nu_f1__Q03]]
 
 
 
@@ -104,9 +128,17 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i numeri interi positivi m in modo che il polinomio sia divisibile da un dato polinomio*
+*Determinare gli interi positivi m per cui un polinomio è divisibile per il quadrato di x²+x+1*
 
-> Determinare tutti gli integri positivi $m$ per i quali il polinomio $(x+1)^m + x^m + 1$ è divisibile da $(x^2+x+1)^2$.
+> Determinare tutti gli interi positivi $m$ per cui il polinomio $(x+1)^m + x^m + 1$ è divisibile per $(x^2+x+1)^2$.
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_obm_2002_nu_f1#q04|src_obm_2002_nu_f1__Q04]]
 
 
 
@@ -129,9 +161,17 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Probabilità che la somma di 10 rotoli di dadi sia pari a 20*
+*Si lanciano dieci dadi: probabilità che la somma sia 20*
 
-> Rogliamo 10 dadi standard (ciascuno con 6 volti numerati da 1 a 6, tutti uguali probabilità). Calcola la probabilità che la somma dei 10 risultati sia uguale a 20.
+> Si lanciano 10 dadi ordinari (ciascuno con 6 facce numerate da 1 a 6, tutte ugualmente probabili). Calcolare la probabilità che la somma dei 10 risultati sia 20.
+
+**Argomento:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2002_nu_f1#q05|src_obm_2002_nu_f1__Q05]]
 
 
 
@@ -158,10 +198,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Line angenti a una curva e periodicità dei punti di intersezione*
+*Su una curva algebrica, la tangente in un punto ne incontra un altro: si chiede quel punto, e il risultato dopo 2002 passi*
 
-> Considera la curva $C=\{(x,y)\in\mathbb{R}^2 \mid y^2=x^3-43x+166\}$.
-> 
-> a) Il $Q=(a,b)$ deve essere un punto di $C$. Supponiamo che la linea tangente a $C$ a $Q$ incontra $C$ ad un altro punto unico $Q'$. Determinare le coordinate di $Q'$.
-> 
-> b) Let $P_0=(3,8)$. Per ogni numero intero non negativo $n$, definire $P_{n+1}=P_n'$, il punto di intersezione di $C$ con la tangente di $C$ a $P_n$. Determinare $P_{2002}$.
+> Si consideri la curva $C=\{(x,y)\in\mathbb{R}^2 \mid y^2=x^3-43x+166\}$.
+>
+> a) Sia $Q=(a,b)$ un punto di $C$. Si supponga che la retta tangente a $C$ in $Q$ incontri $C$ in un unico altro punto $Q'$. Determinare le coordinate di $Q'$.
+>
+> b) Sia $P_0=(3,8)$. Per ogni intero non negativo $n$, si definisca $P_{n+1}=P_n'$ come il punto di intersezione di $C$ con la tangente a $C$ in $P_n$. Determinare $P_{2002}$.
+
+**Argomento:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_obm_2002_nu_f1#q06|src_obm_2002_nu_f1__Q06]]

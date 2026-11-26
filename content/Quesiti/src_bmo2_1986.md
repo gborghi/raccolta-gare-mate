@@ -31,11 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Centro razionale di similezza diretta tra due triangoli razionali*
+*Esiste un solo punto razionale $P$ che rende direttamente simili i due triangoli*
 
-> Gli assi cartesiani rettangolari a piano sono dati con uguale lunghezza unitaria lungo ogni asse. Un punto razionale è definito come un punto le cui coordinate sono entrambi numeri razionali.
-> 
-> $A, B, A', B'$ sono quattro punti razionali distinti; $A$ e $B$ sono sull'asse $x$. Prove che se $AB = A'B'$, esiste solo un punto $P$ tale che i triangoli $PAB$, $PA'B'$ siano direttamente simili, cioè ciascuno può essere ottenuto dall'altro mediante ingrandimento (dilatazione) e rotazione di circa $P$. Prova anche che $P$ è un punto razionale.
+> Sono dati assi cartesiani rettangolari piani, con la stessa unità di lunghezza su ciascun asse. Un punto razionale è un punto le cui coordinate sono entrambe numeri razionali.
+>
+> $A, B, A', B'$ sono quattro punti razionali distinti; $A$ e $B$ stanno sull'asse $x$. Dimostrare che, se $AB = A'B'$, esiste un solo punto $P$ tale che i triangoli $PAB$, $PA'B'$ siano direttamente simili, cioè ciascuno si ottiene dall'altro per omotetia (dilatazione) e rotazione attorno a $P$. Dimostrare anche che $P$ è un punto razionale.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1986#q01|src_bmo2_1986__Q01]]
 
 
 
@@ -61,9 +68,19 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il valore massimo di $x^2y + y^2z + z^2x$ soggetto a due restrizioni*
+*Il massimo di $x^2 y + y^2 z + z^2 x$ sotto due vincoli*
 
-> Trovare, con prova, il valore massimo di $$x^2 y + y^2 z + z^2 x$$ dove $x, y, z$ sono numeri reali che soddisfano le condizioni $$x + y + z = 0, \quad x^2 + y^2 + z^2 = 6.$$
+> Trovare, con dimostrazione, il massimo valore di
+> $$x^2 y + y^2 z + z^2 x$$
+> dove $x, y, z$ sono numeri reali che soddisfano le condizioni
+> $$x + y + z = 0, \quad x^2 + y^2 + z^2 = 6.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1986#q02|src_bmo2_1986__Q02]]
 
 
 
@@ -86,9 +103,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Elementi di sottoinsiemi di due elementi che appaiono esattamente due volte ciascuno*
+*Ciascuno di $1, 2, \ldots, n$ appartiene esattamente a due degli insiemi $P_k$*
 
-> $P_1, P_2, \ldots, P_n$ sono $n$ sottogruppi distinti di $\{1, 2, \ldots, n\}$, ognuno dei quali ha due elementi. $P_i$ e $P_j$ ($i \neq j$) hanno un elemento in comune se e solo se $\{i, j\}$ è uno dei sottogruppi $P_k$. Prova che ciascuna delle $1, 2, \ldots, n$ appartiene esattamente a due delle $P_k$.
+> $P_1, P_2, \ldots, P_n$ sono $n$ sottoinsiemi distinti di $\{1, 2, \ldots, n\}$, ciascuno con due elementi. $P_i$ e $P_j$ ($i \neq j$) hanno un elemento in comune se e solo se $\{i, j\}$ è uno dei sottoinsiemi $P_k$. Dimostrare che ciascuno di $1, 2, \ldots, n$ appartiene esattamente a due dei $P_k$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_grafi|Grafi]], [[method_doppio_conteggio|Doppio conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1986#q03|src_bmo2_1986__Q03]]
 
 
 
@@ -111,9 +135,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Divisibilità del prodotto dei coefficienti binomiali e determinazione gcd*
+*Il minimo $k$ tale che $n^2$ divide il prodotto dei binomiali moltiplicato per $k$*
 
-> Indicare che se $m, n$ sono integri positivi con $m \le n$, il prodotto $\binom{n}{1} \binom{n}{2} \cdots \binom{n}{m}$ è divisibile da $n$. Trova con prova il più piccolo intero positivo $k$ in modo tale che il prodotto $k \binom{n}{1} \binom{n}{2} \cdots \binom{n}{m}$ sia divisibile da $n^2$ per tutti gli integri $m, n$ con $2 \le m \le n$. [$k$ deve essere indipendente da $m, n$.] Per questo $k$ e dato $m$, determinare, con prova, il più grande divisore comune degli interi $\frac{k}{n^2} \binom{n}{1} \binom{n}{2} \cdots \binom{n}{m}$, $2 \le m \le n$.
+> Dimostrare che, se $m, n$ sono interi positivi con $m \le n$, allora il prodotto $\binom{n}{1} \binom{n}{2} \cdots \binom{n}{m}$ è divisibile per $n$. Trovare con dimostrazione il minimo intero positivo $k$ tale che il prodotto $k \binom{n}{1} \binom{n}{2} \cdots \binom{n}{m}$ sia divisibile per $n^2$ per tutti gli interi $m, n$ con $2 \le m \le n$. [$k$ deve essere indipendente da $m, n$.] Per questo $k$ e per un dato $m$, determinare, con dimostrazione, il massimo comun divisore degli interi $\frac{k}{n^2} \binom{n}{1} \binom{n}{2} \cdots \binom{n}{m}$, $2 \le m \le n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1986#q04|src_bmo2_1986__Q04]]
 
 
 
@@ -136,6 +167,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Locus del punto medio del segmento che unisce i punti terminali di accordi paralleli su due cerchi*
+*Il luogo del punto medio di $P_1 P_2$ quando le corde sono parallele*
 
-> $C_1$ e $C_2$ sono due cerchi; $A_1$, $A_2$ sono punti fissi rispettivamente su $C_1$ e $C_2$. $A_1 P_1$, $A_2 P_2$ sono accordi paralleli rispettivamente di $C_1$ e $C_2$. Trova il locus del punto medio di $P_1 P_2$.
+> $C_1$ e $C_2$ sono due circonferenze; $A_1$, $A_2$ sono punti fissi rispettivamente su $C_1$, $C_2$. $A_1 P_1$, $A_2 P_2$ sono corde parallele rispettivamente di $C_1$, $C_2$. Trovare il luogo del punto medio di $P_1 P_2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1986#q05|src_bmo2_1986__Q05]]

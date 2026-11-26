@@ -29,9 +29,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto, circoncentro, punti sul raggio DO; trovare angolo BAC*
+*Un valore in un triangolo acutangolo, dati circocentro e bisettrice*
 
-> Che $ABC$ sia un triangolo acuto con $AB < AC$, che $O$ sia il suo centro circundante, e che $D$ sia il punto di intersezione del bisettore di $\angle BAC$ con il lato $BC$. Sul raggio $DO$ prendere due punti distinti $P, Q$, entrambi situati sul lato opposto della linea $AC$ da $B$ e sullo stesso lato della linea $AB$ come $C$, in modo che i tre punti $D, P, Q$ si trovino in questo ordine. Inoltre, $AB = BP$, $AC = CQ$ e $\angle ABP = \angle ACQ$ sono tenuti. Trova il valore di $\angle BAC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Sia $ABC$ un triangolo acutangolo con $AB < AC$, sia $O$ il suo circocentro, e sia $D$ il punto di intersezione della bisettrice di $\angle BAC$ con il lato $BC$. Sulla semiretta $DO$ si prendano due punti distinti $P, Q$, entrambi dalla parte opposta della retta $AC$ rispetto a $B$ e dalla stessa parte della retta $AB$ di $C$, in modo che i tre punti $D, P, Q$ stiano in quest'ordine. Inoltre valgono $AB = BP$, $AC = CQ$ e $\angle ABP = \angle ACQ$. Trovare il valore di $\angle BAC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo36hq_honsen#q01|src_jmo36hq_honsen__Q01]]
 
 
 
@@ -58,13 +63,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successione di numeri dispari definita dalla coprimialità; limitazione |a_n - 2n|*
+*Da un certo indice in poi una successione di dispari soddisfa una relazione*
 
-> Una successione $a_1, a_2, \ldots$ costituita da interi positivi dispari soddisfa, per ogni numero naturale $n$, la seguente condizione:
-> 
-> Il più piccolo intero dispari maggiore di $a_{n+1}$ e coprimo con $a_n$ è $a_{n+2}$.
-> 
-> Si dimostri che esiste un intero positivo $C$ tale che $|a_n - 2n| \leq C$ vale per ogni intero positivo $n$.
+> Una successione $a_1, a_2, \ldots$ di interi positivi dispari soddisfa, per ogni intero positivo $n$, la condizione seguente.
+>
+> Il minimo intero dispari maggiore di $a_{n+1}$ e coprimo con $a_n$ è $a_{n+2}$.
+>
+> Dimostrare che esiste un intero positivo $C$ tale che $|a_n - 2n| \leq C$ valga per ogni intero positivo $n$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo36hq_honsen#q02|src_jmo36hq_honsen__Q02]]
 
 
 
@@ -91,13 +101,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*M-gon regolare, n vertici rossi e n vertici blu, nessuna distanza corrispondente tra rosso e blu; trovare min m*
+*Minimo numero di vertici colorati di un poligono regolare, in funzione di un parametro*
 
-> Che $n$ sia un intero con $n \geq 2$ e che $m$ sia un intero con $m \geq 2n$. Selezionare $2n$ vertici distinti di un normale $m$-gon, il colore $n$ di cui rosso e il rimanente $n$ blu, in modo che si verifichi quanto segue:
-> 
-> Non importa come si sceglie due punti rossi distinti e due punti blu distinti, la distanza tra i due punti rossi e la distanza tra i due punti blu non coincidono.
-> 
-> Determinare, in termini di $n$, il minimo valore possibile di $m$ per il quale esiste un tale colorante.
+> Sia $n$ un intero con $n \geq 2$ e sia $m$ un intero con $m \geq 2n$. Si scelgano $2n$ vertici distinti di un $m$-gono regolare, se ne colorino $n$ di rosso e i restanti $n$ di blu, in modo che valga quanto segue.
+>
+> Comunque si scelgano due punti rossi distinti e due punti blu distinti, la distanza fra i due punti rossi e la distanza fra i due punti blu non coincidono.
+>
+> Determinare, in funzione di $n$, il minimo valore possibile di $m$ per il quale esiste una tale colorazione.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_colorazione|Colorazione / parità]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_casework_accurato|Analisi per casi accurata]]
+[[Quesiti/src_jmo36hq_honsen#q03|src_jmo36hq_honsen__Q03]]
 
 
 
@@ -122,9 +137,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni reali con f(x^2+f(y) ^2) +2f(x) y=f(x+f(y)) ^2*
+*Funzioni reali che soddisfano un'equazione funzionale*
 
-> Trovare tutte le funzioni $f$ definite sui numeri reali e prendere valori reali in modo tale che, per tutti i numeri reali $x, y$, $$f\!\left(x^2 + f(y)^2\right) + 2f(x)\,y = f\!\left(x + f(y)\right)^2$$ si trova.
+> Determinare tutte le funzioni $f$ definite sui numeri reali e a valori reali tali che, per tutti i numeri reali $x, y$, valga
+>
+> $$f\!\left(x^2 + f(y)^2\right) + 2f(x)\,y = f\!\left(x + f(y)\right)^2$$
+
+**Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo36hq_honsen#q04|src_jmo36hq_honsen__Q04]]
 
 
 
@@ -153,10 +175,19 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto P al di fuori del piano con prodotti uguali; i circoncircoli incontrano il piano in un triangolo simile a T*
+*Esiste un triangolo simile a un altro, per ogni punto fuori dal piano*
 
-> Lo spazio tridimensionale ha un piano $\pi$. Sul $\pi$ c'è un triangolo non isosceles $ABC$, e che il suo incentro sia $I$. Prova che esiste un triangolo $\mathcal{T}$ tale che per ogni punto $P$ non situato su $\pi$ soddisfacente $$AP \cdot BC = BP \cdot CA = CP \cdot AB,$$ si verifichi:
-> 
-> $I_A$, $I_B$ e $I_C$ siano rispettivamente gli incentri dei triangoli $BCP$, $CAP$ e $ABP$. Se il circoncircolo del triangolo $II_BI_C$, il circoncircolo del triangolo $II_CI_A$ e il circoncircolo del triangolo $II_AI_B$ incontrano $\pi$ rispettivamente nei punti $X$, $Y$ e $Z$ (ciascuno diverso da $I$), il triangolo $XYZ$ è simile a $\mathcal{T}$.
-> 
+> Nello spazio tridimensionale c'è un piano $\pi$. Su $\pi$ c'è un triangolo non isoscele $ABC$, e sia $I$ il suo incentro. Dimostrare che esiste un triangolo $\mathcal{T}$ tale che, per ogni punto $P$ che non sta su $\pi$ e soddisfa
+>
+> $$AP \cdot BC = BP \cdot CA = CP \cdot AB,$$
+>
+> valga quanto segue.
+>
+> Siano $I_A$, $I_B$, $I_C$ gli incentri dei triangoli $BCP$, $CAP$, $ABP$ rispettivamente. Se la circonferenza circoscritta al triangolo $II_BI_C$, la circonferenza circoscritta al triangolo $II_CI_A$ e la circonferenza circoscritta al triangolo $II_AI_B$ incontrano $\pi$ rispettivamente nei punti $X$, $Y$, $Z$ (ciascuno diverso da $I$), allora il triangolo $XYZ$ è simile a $\mathcal{T}$.
+>
 > Qui $UV$ indica la lunghezza del segmento $UV$.
+
+**Argomento:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_jmo36hq_honsen#q05|src_jmo36hq_honsen__Q05]]

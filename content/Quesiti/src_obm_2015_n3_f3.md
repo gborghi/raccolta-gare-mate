@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Collinearità di A, D, N se angolo BAC = 45 gradi*
+*Collinearità di A, D, N se e solo se l'angolo BAC = 45 gradi*
 
-> Che $ABC$ sia un triangolo acuto scaleno e $N$ il centro del cerchio che attraversa i piedi delle tre altitudini del triangolo. $D$ è l'intersezione delle linee tangenti al circoncircolo di $ABC$ a $B$ e $C$. Provare che $A$, $D$ e $N$ sono collineari se e solo se $\angle BAC = 45^\circ$.
+> Sia $ABC$ un triangolo acutangolo scaleno e $N$ il centro della circonferenza che passa per i piedi delle tre altezze del triangolo. Sia $D$ l'intersezione delle rette tangenti alla circonferenza circoscritta di $ABC$ nei punti $B$ e $C$. Dimostrare che $A$, $D$ e $N$ sono allineati se e solo se $\angle BAC = 45^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n3_f3#q01|src_obm_2015_n3_f3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La k più piccola, quindi ogni sottoinsieme di elementi 4n contiene k coppie {a,b} con b multiple di a*
+*Valore massimo di k tale che ogni sottoinsieme di 4n elementi contenga k coppie {a,b} in cui b è multiplo di a*
 
-> Per esempio, $S = \{1, 2, 3, \ldots, 6n\}$, $n > 1$. Trovare il valore più grande di $k$ per il quale è corretto la seguente affermazione: ogni sottoinsieme $A$ di $S$ con $4n$ elementi ha almeno $k$ sottoinsiemi di due elementi $\{a, b\}$ con $a < b$ e $b$ un multiple di $a$.
+> Siano $S = \{1, 2, 3, \ldots, 6n\}$, $n > 1$. Determinare il valore massimo di $k$ per cui vale la seguente affermazione: ogni sottoinsieme $A$ di $S$ con $4n$ elementi possiede almeno $k$ sottoinsiemi a due elementi $\{a, b\}$ tali che $a < b$ e $b$ siano multipli di $a$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2015_n3_f3#q02|src_obm_2015_n3_f3__Q02]]
 
 
 
@@ -81,9 +95,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Infinitamente molti n con f(n) = f(n-1) +1 per la derivazione falsa*
+*Infiniti n tali che f(n) = f(n-1)+1 per la derivata falsa*
 
-> Dato un numero naturale $n > 1$ con fattorizzazione primaria $n = p_1^{\alpha_1} p_2^{\alpha_2} \cdots p_k^{\alpha_k}$, la sua \emph{false derivative} è definita da $$f(n) = \alpha_1 p_1^{\alpha_1 - 1} \alpha_2 p_2^{\alpha_2 - 1} \cdots \alpha_k p_k^{\alpha_k - 1}.$$ Prove che ci sono infinitamente molti numeri naturali $n$ tali che $f(n) = f(n-1) + 1$.
+> Dato un numero naturale $n > 1$ con scomposizione in fattori primi $n = p_1^{\alpha_1} p_2^{\alpha_2} \cdots p_k^{\alpha_k}$, la sua \emph{derivata falsa} è definita da
+> $$f(n) = \alpha_1 p_1^{\alpha_1 - 1} \alpha_2 p_2^{\alpha_2 - 1} \cdots \alpha_k p_k^{\alpha_k - 1}.$$
+> Dimostrare che esistono infiniti numeri naturali $n$ tali che $f(n) = f(n-1) + 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2015_n3_f3#q03|src_obm_2015_n3_f3__Q03]]
 
 
 
@@ -113,13 +136,23 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Divisioni alternando la somma identità e la caratterizzazione, trovare tre soluzioni*
+*Identità e caratterizzazione della somma alternata dei divisori: trovare tre soluzioni*
 
-> Che $n$ sia un intero positivo e che $n = d_1 > d_2 > \cdots > d_k = 1$ sia il suo divisore positivo.
-> 
-> (a) Dimostra che $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1} d_k = n - 1$$ se e solo se $n$ è primo o $n = 4$.
-> 
-> b) Determinare i tre integri positivi $n$ per i quali $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1} d_k = n - 4.$$
+> Sia $n$ un numero intero positivo e siano $n = d_1 > d_2 > \cdots > d_k = 1$ i suoi divisori positivi.
+>
+> (a) Dimostrare che
+> $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1} d_k = n - 1$$
+> se e solo se $n$ è primo o $n = 4$.
+>
+> (b) Determina i tre interi positivi $n$ per i quali
+> $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1} d_k = n - 4.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2015_n3_f3#q04|src_obm_2015_n3_f3__Q04]]
 
 
 
@@ -142,9 +175,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio f con coefficienti razionali e set di valori interi S di dimensione n+1 che forza g(t)=f(t) per tutte le t*
+*Polinomio f a coefficienti razionali e insieme S di valori interi di cardinalità n+1 tale che g(t)=f(t) per ogni t*
 
-> È vero che per ogni polinomio $f(x)$ con coefficienti razionali, non tutti i coefficienti interi, di grado $n > 0$, e per ogni polinomio $g(x)$ con tutti i coefficienti interi, esiste un insieme $S$ con $n + 1$ interi tali che $g(t) = f(t)$ per tutti $t \in S$?
+> È vero che, per ogni polinomio $f(x)$ a coefficienti razionali, non tutti interi, di grado $n > 0$, e per ogni polinomio $g(x)$ a coefficienti tutti interi, esiste un insieme $S$ con $n + 1$ interi tale che $g(t) = f(t)$ per tutti gli $t \in S$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2015_n3_f3#q05|src_obm_2015_n3_f3__Q05]]
 
 
 
@@ -167,6 +207,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I cerchi di BXZ e CXY si incontrano a P su un cerchio di diametro attraverso H e G*
+*Le circonferenze circoscritte a BXZ e CXY si incontrano in P sulla circonferenza avente come diametro la retta che passa per H e G*
 
-> Il $ABC$ deve essere un triangolo di scalene e $X$, $Y$, $Z$ punti sulle linee $BC$, $CA$, $AB$, rispettivamente, in modo tale che $\angle AXB = \angle BYC = \angle CZA$. I circoncircoli di $BXZ$ e $CXY$ si intersecano in un punto $P \neq X$. Prova che $P$ si trova sul cerchio il cui diametro ha punti terminali all'ortocentro $H$ e al centroide $G$ di $ABC$.
+> Sia $ABC$ un triangolo scaleno e siano $X$, $Y$, $Z$ punti appartenenti rispettivamente alle rette $BC$, $CA$, $AB$, in modo che $\angle AXB = \angle BYC = \angle CZA$. Le circonferenze circoscritte a $BXZ$ e $CXY$ si intersecano in un punto $P \neq X$. Dimostrare che $P$ giace sulla circonferenza il cui diametro ha per estremi l'ortocentro $H$ e il baricentro $G$ di $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2015_n3_f3#q06|src_obm_2015_n3_f3__Q06]]

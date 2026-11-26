@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero pari di persone in una tavola rotonda che cambiano posto dopo pranzo; mostra che due persone sono separate dallo stesso numero di persone come prima.*
+*Quando il numero di persone sedute attorno a un tavolo rotondo è pari, dopo pranzo le persone cambiano posto; dimostrare che due persone sono separate da un numero di persone uguale a quello precedente.*
 
-> Un numero pari di persone partecipa a una conferenza a tavola rotonda. Dopo la pausa pranzo i partecipanti cambiano posto. Mostrate che alcune due persone sono separate dallo stesso numero di persone che erano prima della pausa.
+> Un numero pari di persone partecipa a una conferenza a tavola rotonda. Dopo la pausa pranzo, i partecipanti cambiano posto. Dimostrare che due persone qualsiasi sono separate da un numero di persone uguale a quello che le separava prima della pausa.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1989_r3#q01|src_pol_1989_r3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre cerchi tangenti in coppia; attraverso una catena di costruzioni secanti dimostrano che tre punti sono collineari.*
+*Tre cerchi a due a due tangenti; mediante una catena di costruzioni secanti, dimostrare che tre punti sono allineati.*
 
-> I cerchi $K_1$, $K_2$, $K_3$ sono indicati nel piano in modo tale che $K_2$ e $K_3$ siano tangenti a $P$, $K_3$ e $K_1$ a $Q$, e $K_1$ e $K_2$ a $R$. Le linee $PQ$ e $PR$ si riducono rispettivamente a $S$ e $T$. Le linee $SR$ e $TQ$ sono tagliate $K_2$ e $K_3$ di nuovo a $U$ e $V$. Provare che i punti $P$, $U$, $V$ sono collineari.
+> Nel piano sono dati i cerchi $K_1$, $K_2$, $K_3$ tali che $K_2$ e $K_3$ sono tangenti in $P$, $K_3$ e $K_1$ lo sono in $Q$, e $K_1$ e $K_2$ lo sono in $R$. Le rette $PQ$ e $PR$ intersecano nuovamente $K_1$ rispettivamente nei punti $S$ e $T$. Le rette $SR$ e $TQ$ intersecano nuovamente $K_2$ e $K_3$ rispettivamente nei punti $U$ e $V$. Dimostrare che i punti $P$, $U$, $V$ sono allineati.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1989_r3#q02|src_pol_1989_r3__Q02]]
 
 
 
@@ -83,13 +97,20 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le estremità di un cubo numerato da 1 a 12; dimostrare che esistono almeno otto triples di bordo consecutivi in aumento dell'indice, e mostrare una numerazione con esattamente otto.*
+*Spigoli di un cubo numerati da 1 a 12; dimostrare che esistono almeno otto terne di spigoli consecutivi con indice crescente, e fornisci una numerazione con esattamente otto di tali terne.*
 
-> I bordi di un cubo sono numerati da 1 a 12.
-> 
-> (a) dimostrare che per qualsiasi tale numerazione esistono almeno otto tripli di enti $(i, j, k)$ con $1 \le i < j < k \le 12$ in modo tale che i bordi assegnati ai numeri $i$, $j$, $k$ siano segmenti consecutivi di una linea poligonale.
-> 
-> (b) Fornisci un esempio di una numerazione per la quale ci sono esattamente otto tripli.
+> I spigoli di un cubo sono numerati da 1 a 12.
+>
+> (a) Dimostrare che, per qualsiasi numerazione di questo tipo, esistono almeno otto triple di interi $(i, j, k)$ con $1 \le i < j < k \le 12$ tali che gli spigoli assegnati ai numeri $i$, $j$, $k$ siano segmenti consecutivi di una linea poligonale.
+>
+> (b) Dai un esempio di una numerazione per cui esistono esattamente otto triple di questo tipo.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_pol_1989_r3#q03|src_pol_1989_r3__Q03]]
 
 
 
@@ -112,9 +133,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Catena casuale di sottoinsiemi a partire da un n-set, ciascuno un sottoinsieme uniformemente casuale del precedente; mostrare la cardinalità attesa di A_k è n/2^k.*
+*Catena casuale di sottoinsiemi a partire da un insieme di n elementi, in cui ciascun sottoinsieme è un sottoinsieme scelto in modo uniformemente casuale dal precedente; mostrare che la cardinalità attesa di A_k è n/2^k.*
 
-> Si devono dare integri positivi $n$ e $k$. Si consideri una catena di set $A_0, A_1, \ldots, A_k$ in cui $A_0 = \{1, \ldots, n\}$, e per ciascuna $i$, $A_i$ è un sottoinsieme scelto a caso di $A_{i-1}$ (tutte le scelte sono equiprobabili). Indicare che la cardinalità attesa di $A_k$ è $n/2^k$.
+> Siano dati gli interi positivi $n$ e $k$. Si consideri una catena di insiemi $A_0, A_1, \ldots, A_k$ in cui $A_0 = \{1, \ldots, n\}$, e per ogni $i$, $A_i$ è un sottoinsieme scelto a caso di $A_{i-1}$ (tutte le scelte sono equiprobabili). Dimostrare che la cardinalità attesa di $A_k$ è $n/2^k$.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1989_r3#q04|src_pol_1989_r3__Q04]]
 
 
 
@@ -137,9 +165,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre cerchi pari di taglia pari di raggio a su un emisfero di raggio r; calcolare il raggio di un quarto cerchio sulla stessa sfera tangente a tutti e tre.*
+*Tre cerchi uguali di raggio a, ciascuno tangente agli altri due, giacciono su un emisfero di raggio r; calcolare il raggio di un quarto cerchio, situato sulla stessa sfera, tangente a tutti e tre i cerchi.*
 
-> I cerchi pari di raggio $a$ si trovano su un emisfero di raggio $r$. Calcolare il raggio di un quarto cerchio sulla stessa sfera che è tangente ai tre cerchi dati.
+> Le circonferenze a due a due uguali, di raggio $a$, giacciono su un emisfero di raggio $r$. Calcola il raggio di una quarta circonferenza sulla stessa sfera, tangente alle tre circonferenze date.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1989_r3#q05|src_pol_1989_r3__Q05]]
 
 
 
@@ -163,6 +198,14 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per i reali positivi a,b,c,d dimostrare che la radice quadrata della media dei prodotti in coppia è almeno la radice cubica della media dei prodotti tripla.*
+*Per numeri reali positivi a, b, c, d, dimostrare che la radice quadrata della media dei prodotti a due a due è almeno la radice cubica della media dei prodotti a tre a tre.*
 
-> Che $a$, $b$, $c$, $d$ siano numeri positivi. Provare la disuguaglianza $$\sqrt{\frac{ab + ac + ad + bc + bd + cd}{6}} \ge \sqrt[3]{\frac{abc + abd + acd + bcd}{4}}.$$
+> Siano $a$, $b$, $c$, $d$ numeri positivi. Dimostra la disuguaglianza
+> $$\sqrt{\frac{ab + ac + ad + bc + bd + cd}{6}} \ge \sqrt[3]{\frac{abc + abd + acd + bcd}{4}}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1989_r3#q06|src_pol_1989_r3__Q06]]

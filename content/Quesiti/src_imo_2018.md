@@ -31,7 +31,14 @@ level: IMO
 
 *DE parallela a FG (assi BD e CE)*
 
-> Sia $\Gamma$ la circonferenza circoscritta al triangolo acutangolo $ABC$. I punti $D$ e $E$ appartengono rispettivamente ai segmenti $AB$ e $AC$ in modo che $AD = AE$. Gli assi dei segmenti $BD$ e $CE$ intersecano gli archi minori $AB$ e $AC$ della circonferenza $\Gamma$ nei punti $F$ e $G$ rispettivamente. Si dimostri che le rette $DE$ e $FG$ sono o parallele oppure coincidenti.
+> Sia $\Gamma$ la circonferenza circoscritta al triangolo acuto $ABC$. I punti $D$ e $E$ giacciono rispettivamente sui segmenti $AB$ e $AC$ in modo che $AD = AE$. Le mediatrici di $BD$ e $CE$ intersecano rispettivamente gli archi minori $AB$ e $AC$ di $\Gamma$ nei punti $F$ e $G$. Dimostrare che le rette $DE$ e $FG$ sono oppure parallele oppure coincidenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_2018#q01|src_imo_2018__Q01]]
 
 
 
@@ -56,10 +63,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Interi n con successione ciclica ai·ai+1+1=ai+2*
+*Interi con successione ciclica ai·ai+1+1=ai+2*
 
-> Determinare tutti gli interi $n \geq 3$ per i quali esistono numeri reali $a_1, a_2, \ldots, a_{n+2}$ che soddisfano $a_{n+1} = a_1$, $a_{n+2} = a_2$ e
-> $$a_i a_{i+1} + 1 = a_{i+2}$$ per $i = 1, 2, \ldots, n$.
+> Trovare tutti gli interi $n \geq 3$ per i quali esistono numeri reali $a_1, a_2, \ldots, a_{n+2}$ che soddisfano $a_{n+1} = a_1$, $a_{n+2} = a_2$ e
+> $$a_i a_{i+1} + 1 = a_{i+2}$$
+> per $i = 1, 2, \ldots, n$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_2018#q02|src_imo_2018__Q02]]
 
 
 
@@ -89,14 +104,19 @@ level: IMO
 
 *Triangolo anti-Pascal con 2018 righe*
 
-> Un triangolo anti-Pascal è un insieme triangolare equilatero di numeri tale che, eccetto per i numeri nell'ultima riga, ciascun numero è il valore assoluto della differenza dei due numeri subito al di sotto. Ad esempio, il seguente è un triangolo anti-Pascal con quattro righe che contiene ogni intero da $1$ a $10$:
->
+> Un triangolo anti-Pascal è una disposizione triangolare equilatera di numeri tale che, ad eccezione dei numeri dell'ultimo rigo, ciascun numero è il valore assoluto della differenza dei due numeri immediatamente sottostanti. Ad esempio, il seguente è un triangolo anti-Pascal con quattro righe che contiene tutti gli interi da $1$ a $10$:
 > $$4$$
 > $$2 \quad 6$$
 > $$5 \quad 7 \quad 1$$
 > $$8 \quad 3 \quad 10 \quad 9$$
->
-> Esiste un triangolo anti-Pascal con $2018$ righe che contiene ogni intero da $1$ a $1 + 2 + \cdots + 2018$?
+> Esiste un triangolo anti-Pascal con $2018$ righe che contenga tutti gli interi da $1$ a $1 + 2 + \cdots + 2018$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_2018#q03|src_imo_2018__Q03]]
 
 
 
@@ -121,9 +141,14 @@ level: IMO
 
 *Massimo K pietre rosse di Amy (gioco)*
 
-> Un sito è un qualsiasi punto $(x, y)$ nel piano tale che $x$ e $y$ siano entrambi interi positivi minori o uguali a $20$. Inizialmente, ciascuno dei $400$ siti è non occupato. Amy e Ben alternano i propri turni, con Amy che inizia. In ciascun turno, Amy posa un nuovo sasso rosso su un sito non occupato in modo che la distanza tra due siti occupati da sassi rossi non sia uguale a $\sqrt{5}$. In ciascun turno, Ben posa un nuovo sasso blu su qualsiasi sito non occupato. Il gioco termina non appena uno dei due giocatori non può più muovere.
->
-> Determinare il massimo valore di $K$ tale che Amy possa sempre posare almeno $K$ sassi rossi, indipendentemente dalla strategia di Ben.
+> Un sito è qualsiasi punto $(x, y)$ del piano tale che $x$ e $y$ siano entrambi numeri interi positivi minori o uguali a $20$. Inizialmente, ciascuno dei $400$ siti è non occupato. Amy e Ben si alternano nel posizionare pietre, con Amy che inizia per prima. A ogni mossa, Amy posiziona una nuova pietra rossa su un sito non occupato in modo che la distanza tra due qualsiasi siti occupati da pietre rosse non sia uguale a $\sqrt{5}$. A ogni mossa, Ben posiziona una nuova pietra blu su un qualsiasi sito non occupato. Si fermano non appena qualcuno non può muoversi. Determinare il più grande $K$ tale che Amy possa sempre posizionare almeno $K$ pietre rosse, indipendentemente da come gioca Ben.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imo_2018#q04|src_imo_2018__Q04]]
 
 
 
@@ -173,28 +198,24 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successione interi con somma ciclica intera diventa costante*
+*Successione di numeri interi con somma ciclica intera che diventa costante*
 
-> Sul suo turno, Ben posiziona una nuova pietra blu su qualsiasi sito non occupato. (Un sito già occupato da una pietra blu può trovarsi a qualsiasi distanza da ogni altro sito occupato.) Il gioco termina non appena un giocatore non riesce a posizionare una pietra.
->
-> Determinare il massimo valore di K tale che Amy possa garantire di posizionare almeno K pietre rosse, indipendentemente dal modo in cui Ben posiziona le sue pietre blu.
->
-> Problema 5.
-> Sia data una successione infinita di interi positivi a₁, a₂, .... Si supponga che esista un intero N > 1 tale che, per ogni n ≥ N, il numero
-> a₁/a₂ + a₂/a₃ + ... + a_{n−1}/a_n + a_n/a₁
-> sia intero. Si dimostri che esiste un numero intero positivo M tale che a_m = a_{m+1} per ogni m ≥ M.
->
-> Problema 6.
-> Sia ABCD un quadrilatero convesso tale che AB · CD = BC · DA. Sia X un punto interno al quadrilatero tale che
-> ∠XAB = ∠XCD
-> e
-> ∠XBC = ∠XDA.
-> Si dimostri che ∠BXA + ∠DXC = 180°.
->
-> Lingua: Inglese
-> Tempo: 4 ore e 30 minuti
-> Ogni problema vale 7 punti
-> Inglese (eng), secondo giorno
+> A suo turno, Ben posiziona un nuovo blu
+> pietra su qualsiasi sito non occupato. (Un sito occupato da una pietra blu può trovarsi a qualsiasi distanza da qualsiasi altro sito occupato.) Si fermano non appena un giocatore non può piazzare una pietra. Trovare il più grande K tale che Amy possa assicurarsi di piazzare almeno K pietre rosse, indipendentemente da come Ben piazzi le sue pietre blu. Problema 5. Sia a1, a2, ... una successione infinita di interi positivi. Supponi che esista un intero N > 1 tale che, per ogni n ≥ N, il numero a1 a2
+> + a2
+> a3
+> + · · + an−1
+> un
+> + un
+> a1 è un numero intero. Dimostrare che esiste un numero intero positivo M tale che am = am+1 per ogni m ≥ M. Problema 6. Un quadrilatero convesso ABCD soddisfa AB · CD = BC · DA. Il punto X giace all'interno di ABCD in modo che ∠XAB = ∠XCD e ∠XBC = ∠XDA. Dimostrare che ∠BXA + ∠DXC = 180°. Lingua: inglese Tempo: 4 ore e 30 minuti Ogni problema vale 7 punti
+> Inglese (eng), giorno 2
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_2018#q05|src_imo_2018__Q05]]
 
 
 
@@ -219,8 +240,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo BXA+DXC=180 in quadrilatero con AB·CD=BC·DA*
+*Angolo BXA+DXC=180 in un quadrilatero con AB·CD=BC·DA*
 
 > Un quadrilatero convesso $ABCD$ soddisfa $AB \cdot CD = BC \cdot DA$. Il punto $X$ giace all'interno di $ABCD$ in modo che
-> $$\angle XAB = \angle XCD \quad \text{and} \quad \angle XBC = \angle XDA.$$.
-> Si dimostri che $\angle BXA + \angle DXC = 180°$.
+> $$\angle XAB = \angle XCD \quad \text{and} \quad \angle XBC = \angle XDA.$$
+> Dimostrare che $\angle BXA + \angle DXC = 180°$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_2018#q06|src_imo_2018__Q06]]

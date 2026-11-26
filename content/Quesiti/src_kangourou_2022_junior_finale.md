@@ -29,9 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Each term of the sequence 1007,10017,... Divisible by 53*
+*Prove that every integer of the sequence is divisible by 53.*
 
-> Consider the sequence of integers whose first two terms are, in order, $1007$ and $10017$, and each subsequent term is obtained from the previous one by inserting an additional digit $1$ after the first three digits $100$ (hence $1007, 10017, 100117, 1001117, \ldots$). Show that every integer in the sequence is divisible by $53$.
+> Consider the sequence of integers whose first two terms are, in order, $1007$ and $10017$, and every later term is obtained from the previous one by inserting one further digit $1$ after the three initial digits $100$ (so $1007, 10017, 100117, 1001117, \ldots$). Prove that every integer of the sequence is divisible by $53$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2022_junior_finale#qj1|src_kangourou_2022_junior_finale__QJ1]]
 
 
 
@@ -68,24 +74,18 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Radius of the inner circle at the three circumferences*
+*What is the radius of this last circle?*
 
 ![[src_kangourou_2022_junior_finale__probj2.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw (0,0) circle (1);
-  \draw (2,0) circle (1);
-  \draw (1,1.732) circle (1);
-  \draw (1,0.5774) circle (0.1547);
-\end{tikzpicture}
-\end{document}
-```
+> In the picture you see three circles of radius $1$, each passing through the centre of the other two, and a smaller circle contained in each of the three and internally tangent to them. What is the radius of this last circle? (see the picture)
 
-> In the figure you can see three circles of radius $1$, each passing through the centre of the other two, and a smaller circle contained in each of the three and tangent to them internally. What is the radius of the latter? (see figure)
-
-**Answer:** 1 - 1/sqrt3
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Answer:** 1 - 1/raddt3
+[[Quesiti/src_kangourou_2022_junior_finale#qj2|src_kangourou_2022_junior_finale__QJ2]]
 
 
 
@@ -111,13 +111,18 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of 2x1 tiles in the 36-square region*
+*How many tiles of this kind can you place in the region at most?*
 
 ![[src_kangourou_2022_junior_finale__probj3.png]]
 
-> In the figure you can see a region of the plane obtained by joining $36$ squares all equal to each other, and a tile obtained by joining two squares identical to those of the region (the $2 \times 1$ tile). How many tiles of this type can you have at most in the region so that each one covers exactly two squares of the region and does not overlap (even partially)? You can use the figure to indicate how to arrange the tiles, but remember that you also have to justify why you can't place a larger number. (see figure)
+> In the picture you see a region of the plane obtained by placing $36$ little squares, all equal to one another, side by side, and a tile obtained by placing side by side two little squares identical to those of the region (a $2 \times 1$ tile). How many tiles of this kind can you place in the region at most so that each covers exactly two little squares of the region and they do not overlap (not even partly)? You may use the picture to show how to place the tiles, but remember that you must also justify why you cannot place a greater number. (see the picture)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 15
+[[Quesiti/src_kangourou_2022_junior_finale#qj3|src_kangourou_2022_junior_finale__QJ3]]
 
 
 
@@ -142,12 +147,18 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pairs (m,n) with 1/m+1/n=1/2022*
+*For how many ordered pairs of positive integers does one have the equation?*
 
-> For how many ordered pairs $(m, n)$ of positive integers does
+> For how many ordered pairs $(m, n)$ of positive integers does one have
+>
 > $$\frac{1}{m} + \frac{1}{n} = \frac{1}{2022}\,?$$
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 27
+[[Quesiti/src_kangourou_2022_junior_finale#qj4|src_kangourou_2022_junior_finale__QJ4]]
 
 
 
@@ -172,11 +183,17 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The red and green sides of the octagon have the same sum*
+*Prove that the sum of the lengths of the red sides of the octagon equals the sum of the lengths of the green sides.*
 
 ![[src_kangourou_2022_junior_finale__probj5.png]]
 
-> Two congruent squares, one with a red and the other with a green edge, are arranged in the plane so that their intersection is an octagon (the centers of the two squares may not coincide). Show that the sum of the lengths of the red sides of the octagon coincides with the sum of the lengths of the green sides.
+> Two congruent squares, one with a red border and the other with a green border, are placed in the plane so that their intersection is an octagon (the centres of the two squares need not coincide). Prove that the sum of the lengths of the red sides of the octagon equals the sum of the lengths of the green sides.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+[[Quesiti/src_kangourou_2022_junior_finale#qj5|src_kangourou_2022_junior_finale__QJ5]]
 
 
 
@@ -199,6 +216,12 @@ Each term of the sequence 1007,10017,... Divisible by 53*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The final 10-digit number has at least two equal digits*
+*Prove that this number you have obtained has at least two equal digits.*
 
-> Consider the number $2023^{2022}$ in decimal notation; take its first digit from the right (the units digit) and add it to the number obtained by the remaining digits. Continue this way until you get a $10$-digit number. Prove that this number you obtained has at least two equal digits.
+> Consider the number $2023^{2022}$ in decimal notation; remove its first digit from the right (the units digit) and add it to the number obtained from the digits that remain. Proceed in this way until you obtain a number of $10$ digits. Prove that this number you have obtained has at least two equal digits.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+[[Quesiti/src_kangourou_2022_junior_finale#qj6|src_kangourou_2022_junior_finale__QJ6]]

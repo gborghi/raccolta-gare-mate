@@ -38,19 +38,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Within days the kangaroo will be 8 weeks old*
+*In how many days will the little kangaroo be 8 weeks old?*
 
-> A kangaroo is six weeks and two days old today. In how many days will it be eight weeks? A) 5
-> 	
-> B) 8
-> 	
-> C) 12
-> 	
-> D) 16
-> 	
+> Today, a joey is 6 weeks and 2 days old. In how many days will it be 8 weeks old?
+> A) 5	
+>
+> B) 8  	
+>
+> C) 12	
+>
+> D) 16	
+>
 > E) 19
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q01|src_kangourou_2016_ecolier_marzo__Q01]]
 
 
 
@@ -83,21 +88,25 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Calculation 17+3 and 20-16 in the tables*
+*Calculate 17+3 and 20-16 in the studs*
 
 ![[src_kangourou_2016_ecolier_marzo__prob2.png]]
 
-> A) 24
-> 	
-> B) 28
-> 	
-> C) 36
-> 	
-> D) 56
-> 	
+> A) 24	
+>
+> B) 28	
+>
+> C) 36	
+>
+> D) 56	
+>
 > E) 80
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q02|src_kangourou_2016_ecolier_marzo__Q02]]
 
 
 
@@ -128,15 +137,22 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*shared with 5 friends, half each*
+*Shared with 5 friends—half each*
 
-> Anna brought some apples to school and shared them with five friends. Each girl ate half an apple. How many apples did Anna bring? (A) 2 and a half (B) 3
-> 	
-> C) 3 and a half D) 4
-> 	
+> Anna brought some apples to school and shared them with 5 friends. Each girl ate half an apple. How many apples did Anna bring?
+> A) Two and a half
+> B) 3	
+>
+> C) 3 and a half
+> D) 4	
+>
 > E) 5
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q03|src_kangourou_2016_ecolier_marzo__Q03]]
 
 
 
@@ -172,11 +188,19 @@ Within days the kangaroo will be 8 weeks old*
 
 ![[src_kangourou_2016_ecolier_marzo__prob4.png]]
 
-> What image does the figure clown see when he looks in the mirror? A) B) C)
-> 	
-> D) E)
+> What image does the clown in the figure see when he looks in the mirror?
+>          A)		
+>         B) 		
+>    C)	
+>
+>   D) 	
+>              E)
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q04|src_kangourou_2016_ecolier_marzo__Q04]]
 
 
 
@@ -218,14 +242,22 @@ Within days the kangaroo will be 8 weeks old*
 
 ![[src_kangourou_2016_ecolier_marzo__prob5.png]]
 
-> In the figure a dark rectangle is partly hidden by a tent. What geometric figure is that of the hidden part? A) A triangle B) A square C) A hexagon
-> 	
+> In the figure, a dark rectangle is partly hidden by a curtain. What geometric shape is the shape of the hidden part?
+> A) A triangle
+> B) A square
+> C) A hexagon
+>
 > D) A circle
-> 	
-> E) A pentagon 17 + 3 20 - 16 ? +
+>
+> E) A pentagon
+> 17 + 3 20 - 16 ? +
 >
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q05|src_kangourou_2016_ecolier_marzo__Q05]]
 
 
 
@@ -265,21 +297,27 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many children have a triangle over the square*
+*How many children have a triangle above the square?*
 
 ![[src_kangourou_2016_ecolier_marzo__prob6.png]]
 
-> Five children each have a square, a triangle, and a circle. All these objects are made of opaque paper. Each child has partially overlapped its three objects: the figure shows you what you see at the end. How many children put the triangle above (not necessarily immediately above) the square? A) 0
-> 	
-> B) 1
-> 	
-> C) 2
-> 	
-> D) 3
-> 	
+> Five children each have a square, a triangle, and a circle: all these objects are made of non-transparent paper. Each child has partially overlapped their three objects; the diagram shows what can be seen in the end. How many children have placed the triangle on top of the square (not necessarily "directly" on top)?
+> A) 0	
+>
+> B) 1	
+>
+> C) 2	
+>
+> D) 3	
+>
 > E) 4
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q06|src_kangourou_2016_ecolier_marzo__Q06]]
 
 
 
@@ -315,21 +353,27 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Separate paths of the mouse in the maze*
+*Distinct paths taken by the little mouse in the labyrinth*
 
 ![[src_kangourou_2016_ecolier_marzo__prob7.png]]
 
-> The mouse wants to get out of the maze. How many different routes can it take if it doesn't want to go through the same passage more than once? A) 2
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
+> The little mouse wants to get out of the maze. How many different routes can it take if it doesn't want to go through the same entrance more than once?
+> A) 2	
+>
+> B) 4	
+>
+> C) 5	
+>
+> D) 6	
+>
 > E) 7
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q07|src_kangourou_2016_ecolier_marzo__Q07]]
 
 
 
@@ -359,19 +403,21 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First year after 2016 with digit sum 9*
+*First year after 2016 with a total of 9 digits*
 
-> The sum of the digits of the year 2016 is 9. What will be the first year after 2016 in which the sum of the digits is again 9?
->
-> A) 2106
-> B) 2061
-> C) 2043
-> D) 2025
+> The sum of the digits of the year 2016 is 9. What will be the first year after 2016 in which the sum of the digits is still 9?
+> A) 2106		
+> B) 2061		
+> C) 2043		
+> D) 2025		
 > E) 2023
->
-> Questions 9 to 16 are worth 4 points each.
+> Questions 9 to 16 are each worth 4 points.
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q08|src_kangourou_2016_ecolier_marzo__Q08]]
 
 
 
@@ -402,13 +448,22 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Correct statement on the number of circles/squares/triangles*
+*Correct statement about the number of circles/squares/triangles*
 
 ![[src_kangourou_2016_ecolier_marzo__prob9.png]]
 
-> Which of the following statements on the figure is correct? A) The number of circles is equal to that of the squares. B) There are fewer circles than triangles. C) The number of circles is twice that of triangles. D) There are more squares than triangles. E) The number of triangles is two more than that of the circles.
+> Which of the following statements about the figure is correct?
+> A) The number of circles is equal to the number of squares.
+> B) There are fewer circles than triangles.
+> C) The number of circles is twice the number of triangles.
+> D) There are more squares than triangles.
+> E) The number of triangles is two greater than the number of circles.
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q09|src_kangourou_2016_ecolier_marzo__Q09]]
 
 
 
@@ -439,11 +494,20 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hidden numbers on two cards, total 32*
+*Hidden numbers on two tags; total sum: 32*
 
-> Sara has two cards; she wrote a number on each face of each card. The sum of the numbers written on the first card is equal to the sum of the numbers written on the second. Also, the sum of the four numbers is 32. Sara put the two cards on the table, and now we see numbers 5 and 12. What are the numbers on the faces of the two cards we don't see? A)  7 and 0 B) 8 and 1 C) 6 and 3 D) 9 and 2 E) 11 and 4
+> Sara has two cards; she has written a number on each face of each card. The sum of the numbers written on the first card equals the sum of the numbers written on the second card. Moreover, the sum of the four numbers is 32. Sara has placed the two cards on the table, and now we can see the numbers 5 and 12. What are the numbers on the faces of the two cards that we cannot see?
+> A)  7 e 0		
+> B) 8 e 1	 	
+> C) 6 e 3		
+> D) 9 e 2		
+> E) 11 e 4
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q10|src_kangourou_2016_ecolier_marzo__Q10]]
 
 
 
@@ -473,12 +537,21 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*New sum by replacing 201 with 102*
+*New sum, replacing 201 with 102*
 
-> Nino sums up seven numbers and gets 2016. One of the numbers that adds up is 201. If he wrote 102 instead of 201, what would he get? A) 1815 B) 1914 C) 1917 D) 2115 E) 2118
+> Nino adds seven numbers and gets 2016. One of the numbers he adds is 201. If he wrote 102 instead of 201, what total would he get?
+> A) 1815		
+> B) 1914		
+> C) 1917		
+> D) 2115		
+> E) 2118
 >
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q11|src_kangourou_2016_ecolier_marzo__Q11]]
 
 
 
@@ -520,27 +593,23 @@ Within days the kangaroo will be 8 weeks old*
 
 ![[src_kangourou_2016_ecolier_marzo__prob12.png]]
 
-> Lara first drew an equilateral triangle. Then she joined the midpoints of each side and got a smaller triangle that she blackened. Then she repeated the operation on every white triangle she had left. The figure shows the outcome of the first three steps of this procedure.
-> 	
-> 	
-> 	
-> 	
-> 	
-> 	 	
-> 	
-> 	
-> 	
-> Lara keeps playing her game. How many dark triangles will there be at the next step? A) 7
-> 	
-> B) 10
-> 	
-> C) 13
-> 	
-> D) 16
-> 	
+> Lara first drew an equilateral triangle. Then she joined the midpoints of each side and obtained a smaller triangle, which she blackened. She then repeated the operation on each white triangle that remained to her. The figure shows the result of the first three steps of this procedure. Lara continues with her game. How many dark triangles will there be at the next step?
+> A) 7	
+>
+> B) 10	
+>
+> C) 13	
+>
+> D) 16	
+>
 > E) 19
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q12|src_kangourou_2016_ecolier_marzo__Q12]]
 
 
 
@@ -575,21 +644,26 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which tiles to choose to form a square*
+*Which tiles should be chosen to form a square?*
 
 ![[src_kangourou_2016_ecolier_marzo__prob13.png]]
 
-> We have the five tiles in the figure at our disposal. We want to bring some of them together (without leaving holes or overlapping) to form a square. Which ones do we have to choose? A) 1, 3 and 5
-> 	
-> B) 1, 2 and 5
-> 	
-> C) 1, 4 and 5
-> 	
-> D) 3, 4 and 5
-> 	
-> E) 2, 3 and 5
+> We have the five tiles shown in the figure at our disposal. We want to place some of them side by side (without leaving any gaps or overlapping them) to form a square. Which ones must we choose?
+> A) 1, 3 e 5	
+>
+> B) 1, 2 e 5	
+>
+> C) 1, 4 e 5	
+>
+> D) 3, 4 e 5	
+>
+> E) 2, 3 e 5
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q13|src_kangourou_2016_ecolier_marzo__Q13]]
 
 
 
@@ -622,21 +696,24 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*paws exceed noses by 18*
+*Paws exceed noses by 18*
 
-> I have some dogs: the number of their paws exceeds the number of their noses by 18. 
-> How many dogs do I have?
+> I have some dogs: the number of their paws exceeds the number of their noses by 18. How many dogs do I have?
 > A) 4	
-> 	
+>
 > B) 5	
-> 	
+>
 > C) 6	
-> 	
+>
 > D) 8	
-> 	
+>
 > E) 9
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q14|src_kangourou_2016_ecolier_marzo__Q14]]
 
 
 
@@ -685,7 +762,7 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of X and Y in the Latin square 1,2,3*
+*Sum of X and Y in the Latin square 1,2,3*
 
 ![[src_kangourou_2016_ecolier_marzo__prob15.png]]
 
@@ -701,17 +778,22 @@ Within days the kangaroo will be 8 weeks old*
 \end{document}
 ```
 
-> Nadia plans to insert only the numbers 1, 2, 3 into each cell of the table in the figure and to do so so that in each row and column these three numbers appear exactly once. She's already started writing some numbers. What's the sum of the numbers she has to write in the cells marked with X and Y? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> Nadia is thinking of putting only the numbers 1, 2, and 3 into each cell of the table in the figure, in such a way that in each row and each column these three numbers appear exactly once. She has already started writing some numbers: what is the sum of the numbers she must write in the cells marked X and Y?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q15|src_kangourou_2016_ecolier_marzo__Q15]]
 
 
 
@@ -770,7 +852,7 @@ Within days the kangaroo will be 8 weeks old*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum squares certainly occupied by 8 out of 11 coins
+*Maximum number of squares certainly occupied by 8 out of 11 coins*
 
 ![[src_kangourou_2016_ecolier_marzo__prob16.png]]
 
@@ -782,19 +864,26 @@ Maximum squares certainly occupied by 8 out of 11 coins
 \end{document}
 ```
 
-> Nicholas has a strip divided into 11 squares, as shown in the figure. He puts 8 coins in 8 consecutive squares, one in each square, without leaving empty squares between two coins. What is the maximum number of squares in which we can be sure there is a coin? A) 1
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
-> E) 6 ? 1 2 3 4 5 1 2 X Y
-> 
-> The questions from N. 17 to N. 24 are worth five points each.
+> Nicola has a small board divided into 11 squares, as shown in the figure. He places 8 coins in 8 consecutive squares, one coin in each square, without leaving any empty squares between two coins. What is the maximum number of squares in which we can be certain that there is a coin?
+> A) 1	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
+> E) 6
+> ? 1 2 3 4 5 1 2 X Y
+>
+> Questions 17 to 24 are each worth 5 points.
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q16|src_kangourou_2016_ecolier_marzo__Q16]]
 
 
 
@@ -828,15 +917,23 @@ Maximum squares certainly occupied by 8 out of 11 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Design by flipping the card on the upper side*
+*Draw by flipping the paper onto the top side*
 
 ![[src_kangourou_2016_ecolier_marzo__prob17.png]]
 
-> If we flip a card around its right side we see this drawing: What drawing do we see, instead, if we flip the same card around its top side? A)
-> 	
-> B) C) D) 	                   E)
+> If we flip a card around its right edge, we see this drawing: But what drawing do we see if we flip the same card around its top edge?
+>       A)	
+>
+>    B) 	
+>             C)	
+>          D) 	                   E)
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q17|src_kangourou_2016_ecolier_marzo__Q17]]
 
 
 
@@ -871,19 +968,25 @@ Maximum squares certainly occupied by 8 out of 11 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A possible total of four siblings, three twins*
+*Possible total: four siblings, three twins*
 
-> Today is the birthday of four brothers: Dado, Dido and Dodo are twins, while Bobo is three years older. Which of the following numbers can be the sum of the ages of the four brothers? A) 25
-> 	
-> B) 27
-> 	
-> C) 29
-> 	
-> D) 30
-> 	
+> Today is the birthday of four brothers: Dado, Dido, and Dodo are twins, while Bobo is three years older. Which of the following numbers could be the sum of the ages of the four brothers?
+> A) 25	
+>
+> B) 27	
+>
+> C) 29	
+>
+> D) 30	
+>
 > E) 60
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q18|src_kangourou_2016_ecolier_marzo__Q18]]
 
 
 
@@ -919,21 +1022,26 @@ Maximum squares certainly occupied by 8 out of 11 coins
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many pears if there are 25 apples on the trees
+*How many pears are there if there are 25 apples on the trees?*
 
 ![[src_kangourou_2016_ecolier_marzo__prob19.png]]
 
-> In an enchanted garden there are strange trees: each produces 6 pears and 3 apples or 8 pears and 4 apples. On the trees in the garden there are a total of 25 apples: how many pears are there? A) 35
-> 	
-> B) 40
-> 	
-> C) 45
-> 	
-> D) 50
-> 	
+> In an enchanted garden, there are strange trees: each tree produces either 6 pears and 3 apples or 8 pears and 4 apples. In total, there are 25 apples on the trees in the garden: how many pears are there?
+> A) 35	
+>
+> B) 40	
+>
+> C) 45	
+>
+> D) 50	
+>
 > E) 56
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q19|src_kangourou_2016_ecolier_marzo__Q19]]
 
 
 
@@ -974,19 +1082,26 @@ How many pears if there are 25 apples on the trees
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which tiles cannot be inserted by colour on the edges*
+*Which tiles cannot be inserted for edge colors?*
 
 ![[src_kangourou_2016_ecolier_marzo__prob20.png]]
 
-> We want to put a tile in the center of the composition you see in the figure between the numbered ones. 1 2 3 4 5 We want to make sure that, when two tiles share a border, the lines that line up on that border have the same color (white or gray or black) on the two tiles. What tiles can we NOT insert? A) Only 1 and 5.
-> 	
+> We want to place, in the center of the arrangement shown in the figure, one of the numbered tiles: 1 2 3 4 5. We want to ensure that, when two tiles share an edge, the lines that meet at that edge have the same color (white, gray, or black) on both tiles. Which tiles can we NOT place?
+> A) Only 1 and 5.
+>
 > B) Only 3 and 4.
-> 	
-> C) Only the 5. D) All but 2.
-> 	
+>
+> C) Only 5.
+> D) All except 2.
+>
 > E) All of them.
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q20|src_kangourou_2016_ecolier_marzo__Q20]]
 
 
 
@@ -1023,20 +1138,26 @@ How many pears if there are 25 apples on the trees
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arrival order from 4 forecasts with 2 accurate each*
+*Finish order from 4 predictions, each with 2 exact matches*
 
-> Four cyclists A, B, C, D took part in a race. Before the race, four friends had predicted their arrival order: CDBA according to Rocco, DABC according to Salvo, CBAD according to Tino, BACD according to Vito. In these forecasts the exact position of each cyclist's arrival has been guessed at least twice. What was the order of arrival? A) DCBA
-> 	
+> Four cyclists, A, B, C, and D, took part in a race. Before the race, four friends had predicted their finishing order: CDBA according to Rocco, DABC according to Salvo, CBAD according to Tino, and BACD according to Vito. In these predictions, the exact finishing position of each cyclist was guessed correctly at least twice. What was the finishing order?
+> A) DCBA
+>
 > B) DACB
-> 	
+>
 > C) CABD
-> 	
+>
 > D) BADC
-> 	
+>
 > E) ABCD
 >
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q21|src_kangourou_2016_ecolier_marzo__Q21]]
 
 
 
@@ -1073,19 +1194,25 @@ How many pears if there are 25 apples on the trees
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Where to place the Z plate in order of weight*
+*Where to put plate Z in order of weight*
 
 ![[src_kangourou_2016_ecolier_marzo__prob22.png]]
 
-> Livia wants to put five plates on the table, in order of increasing weight. She has already arranged the plates Q, R, S and T in the desired order: T weighs the most. Where should plate Z be placed? A) To the left of plate Q.
-> 	
-> B) Between plate Q and plate R. C) Between plate R and plate S.
-> 	
+> Livia wants to put five plates on the table in increasing order of weight. She has already arranged plates Q, R, S, and T in the desired order: T is the heaviest of all. Where must she put plate Z?
+> A) To the left of plate Q.
+>
+> B) Between plate Q and plate R.
+> C) Between plate R and plate S.
+>
 > D) Between plate S and plate T.
-> 	
+>
 > E) To the right of plate T.
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q22|src_kangourou_2016_ecolier_marzo__Q22]]
 
 
 
@@ -1126,13 +1253,21 @@ How many pears if there are 25 apples on the trees
 
 ![[src_kangourou_2016_ecolier_marzo__prob23.png]]
 
-> Matthew built a bar with 27 bricks: then he divided it into two bars so that the length of one is twice that of the other. Then he took each of these bars and divided them the same way and repeated the operation as long as possible. Which of the following bars did he never get? A) B) C)
-> 	
-> D)
-> 	
-> E)
+> Matteo built a bar using 27 blocks. Then he divided it into two bars so that the length of one was twice that of the other. Then he took each of these bars and divided it in the same way, repeating the process as long as it was possible. Which of the following bars did he never obtain?
+>    A)	
+>       B) 	 	
+>   C)	
+>
+>    D) 	
+>
+>            E)
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q23|src_kangourou_2016_ecolier_marzo__Q23]]
 
 
 
@@ -1178,30 +1313,25 @@ How many pears if there are 25 apples on the trees
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which sparrow turned its head, more chirps*
+*Which sparrow turned its head—more chirps*
 
 ![[src_kangourou_2016_ecolier_marzo__prob24.png]]
 
-> In the figure you see five sparrows perched on a wire: some look to the right, others to the
-> left.
->    	
-> Angelo	
->     Bruno	
->   Chicco	
-> Donato		
-> Elio
-> Each sparrow chirps as many times as there are sparrows on the side where it is
-> looking: for example Donato chirps three times. Then one of the sparrows turns its head to the
-> opposite side. Again each sparrow chirps as many times as there are sparrows on
-> the side where it is looking. Now the total number of chirps is greater than that
-> of the first time.  Which sparrow turned its head?
-> A) Angelo	
-> 	
-> B) Bruno	
-> 	
-> C) Chicco	
-> D) Donato	
-> 	
+> In the figure, you can see five sparrows perched on a wire: some are looking to the right, others to the left.
+>
+> Angelo Bruno Chicco Donato Elio Each sparrow chirps as many times as there are sparrows on the side it is looking toward: for example, Donato chirps three times. Then one of the sparrows turns its head to the opposite side. Again, each sparrow chirps as many times as there are sparrows on the side it is looking toward. Now the total number of chirps is greater than it was the first time. Which sparrow turned its head?
+> A) Angelo
+>
+> B) Bruno
+>
+> C) Chicco
+> D) Donato
+>
 > E) Elio
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_ecolier_marzo#q24|src_kangourou_2016_ecolier_marzo__Q24]]

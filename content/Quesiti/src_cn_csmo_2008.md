@@ -30,11 +30,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsieme massimo di {1,...,3n} senza x+y=z*
+*Sottoinsieme massimale di {1,...,3n} privo di x+y=z*
 
-> È dato il set $S = \{1, 2, 3, \cdots, 3n\}$ dove $n$ è un intero positivo. $T$ è un sottoinsieme di $S$ tale che, per qualsiasi $x, y, z \in T$ (dove $x$, $y$, $z$ possono essere uguali), $x + y \neq z$. Trova il valore massimo del numero di elementi in tale insieme.
+> È dato l'insieme $S = \{1, 2, 3, \cdots, 3n\}$, dove $n$ è un numero intero positivo. $T$ è un sottoinsieme di $S$ tale che, per ogni $x, y, z \in T$ (dove $x$, $y$, $z$ possono essere uguali), $x + y \neq z$. Trovare il valore massimo del numero di elementi in un tale insieme.
 
-**Risposta:** 2n
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_csmo_2008#q01|src_cn_csmo_2008__Q01]]
 
 
 
@@ -59,9 +64,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova termine generale di ricorrenza a_{n+1}=2a_n+n(1+2^n)*
+*Trovare il termine generale della relazione di ricorrenza a_{n+1}=2a_n+n(1+2^n)*
 
-> È data la sequenza $\{a_n\}$: $a_1 = 1$, $$a_{n+1} = 2a_n + n \cdot (1 + 2^n), \quad n = 1, 2, 3, \cdots.$$ Trova il termine generale $a_n$.
+> È data la successione $\{a_n\}$: $a_1 = 1$,
+> $$a_{n+1} = 2a_n + n \cdot (1 + 2^n), \quad n = 1, 2, 3, \cdots.$$
+> Trovare il termine generale $a_n$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_csmo_2008#q02|src_cn_csmo_2008__Q02]]
 
 
 
@@ -86,11 +100,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove conciclica O, H, E, M in triangolo con costruzione bisettore angolare*
+*Dimostrazione che O, H, E, M sono conciclici in un triangolo con costruzione della bisettrice dell'angolo*
 
-> In $\triangle ABC$, $BC > AB$, $BD$ divide $\angle ABC$ e incrocia $AC$ a $D$. Come mostrato nella figura, $CP \perp BD$ con $P$ come piede perpendicolare e $AQ \perp BP$ con $Q$ come piede perpendicolare. I punti $M$ e $E$ sono rispettivamente i punti intermedi di $AC$ e $BC$. Il cerchio circoscritto $O$ di $\triangle PQM$ interseca $AC$ al punto $H$. Provare che $O$, $H$, $E$, $M$ sono conciclici.
+> In $\triangle ABC$, $BC > AB$, $BD$ biseca $\angle ABC$ e interseca $AC$ in $D$. Come mostrato nella figura, $CP \perp BD$ con $P$ come piede della perpendicolare e $AQ \perp BP$ con $Q$ come piede della perpendicolare. I punti $M$ e $E$ sono i punti medi di $AC$ e $BC$ rispettivamente. La circonferenza circoscritta $O$ di $\triangle PQM$ interseca $AC$ nel punto $H$. Dimostrare che $O$, $H$, $E$, $M$ sono conciclici.
 
 ![[src_cn_b07_w182__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_csmo_2008#q03|src_cn_csmo_2008__Q03]]
 
 
 
@@ -124,21 +145,26 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri di onde a n cifre; trovare f(10) e f(2008) mod 13*
+*Conta i numeri d'onda a n cifre; trova f(10) e f(2008) mod 13*
 
-> $a$ è un numero intero $n$ a 2 cifre $a_1 a_2 \cdots a_n$ (un numero naturale) che soddisfa le seguenti condizioni:
-> 
-> (i) $a_i \in \{1, 2, 3, 4\}$ e $a_i \ne a_{i+1}$, $i = 1, 2, \ldots, n-1$.
-> 
-> ii) Quando $n \ge 3$, i numeri $a_i - a_{i+1}$ e $a_{i+1} - a_{i+2}$ presentano segni opposti, $i = 1, 2, \ldots, n-2$.
-> 
-> $f(n)$ indichi il numero di tali integri $n$. Trova
-> 
+> Sia $a$ un numero intero di $n$ cifre $a_1 a_2 \cdots a_n$ (un numero naturale) che soddisfa le seguenti condizioni:
+>
+> (i) $a_i \in \{1, 2, 3, 4\}$, e $a_i \ne a_{i+1}$, $i = 1, 2, \ldots, n-1$.
+>
+> (ii) Quando $n \ge 3$, i numeri $a_i - a_{i+1}$ e $a_{i+1} - a_{i+2}$ hanno segni opposti, $i = 1, 2, \ldots, n-2$.
+>
+> Sia $f(n)$ il numero di tali numeri interi di $n$ cifre. Determinare
+>
 > (1) il valore di $f(10)$;
-> 
-> (2) il residuo di $f(2008)$ diviso per $13$.
+>
+> (2) il resto della divisione di $f(2008)$ per $13$.
 
-**Risposta:** f(10) = 8008; f(2008) \equiv 10 \pmod{13}
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2008#q04|src_cn_csmo_2008__Q04]]
 
 
 
@@ -164,13 +190,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Find largest lambda with |lambda×xy+yz| <= sqrt(5)/2 on unit sphere*
+*Trovare il più grande lambda tale che |lambda*xy+yz| <= sqrt(5)/2 sulla sfera unitaria*
 
-> Find the largest positive number $\lambda$ such that
+> Trovare il più grande numero positivo $\lambda$ tale che
 > $$|\lambda xy + yz| \le \frac{\sqrt{5}}{2},$$
-> where $x^2 + y^2 + z^2 = 1$.
+> dove $x^2 + y^2 + z^2 = 1$.
 
-**Risposta:** 2
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_csmo_2008#q05|src_cn_csmo_2008__Q05]]
 
 
 
@@ -195,11 +226,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova M, N, D collineare data la tangenza del cerchio e le condizioni del punto medio*
+*Dimostrare che M, N, D sono allineati, dati i punti di tangenza con l'incirconferenza e le condizioni sui punti medi*
 
-> Come mostrato nella figura, $BC$ e $AC$ sono tangenti al cerchio inscritto $I$ di $\triangle ABC$ rispettivamente a $M$ e $N$. $E$ e $F$ sono rispettivamente i punti intermedi di $AB$ e $AC$. $EF$ si interseca con $BI$ al punto $D$. Provare che $M$, $N$, $D$ sono collineari.
+> Come mostrato nella figura, $BC$ e $AC$ sono tangenti al cerchio inscritto $I$ di $\triangle ABC$ rispettivamente nei punti $M$ e $N$. $E$ e $F$ sono i punti medi di $AB$ e $AC$ rispettivamente. $EF$ interseca $BI$ nel punto $D$. Dimostrare che $M$, $N$, $D$ sono allineati.
 
 ![[src_cn_b07_w182__q06.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_csmo_2008#q06|src_cn_csmo_2008__Q06]]
 
 
 
@@ -224,8 +262,14 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-La strategia vincente del capitano Jack nel gioco di selezione della scatola d'oro
+*La strategia vincente del capitano Jack nel gioco di scelta delle scatole d'oro*
 
-> Il capitano Jack e i suoi pirati hanno derubato 6 scatole di monete d'oro. Nella casella $A_i$ ($i = 1, 2, 3, 4, 5, 6$) e $a_i \neq a_j$ ($i \neq j$) ci sono monete $a_i$. Hanno posto le scatole come mostrato nella figura. Il capitano Jack si alternerebbe con un pirata nominato per scegliere una scatola. La regola era: ogni persona poteva scegliere solo una scatola adiacente ad un massimo di scatola. Se il capitano Jack avesse più monete d'oro dei pirati, il capitano avrebbe vinto. Se il capitano Jack fu il primo, quale dovrebbe essere la sua strategia per vincere la partita?
+> Il capitano Jack e i suoi pirati hanno rapinato 6 scatole di monete d'oro $A_1$, $A_2$, $A_3$, $A_4$, $A_5$, $A_6$. Nella scatola $A_i$ ci sono $a_i$ monete ($i = 1, 2, 3, 4, 5, 6$) e $a_i \neq a_j$ ($i \neq j$). Hanno disposto le scatole come mostrato in figura. Il capitano Jack si alterna con un pirata designato nella scelta di una scatola. La regola era: ciascuno può scegliere soltanto una scatola adiacente al più a una sola altra scatola. Se il capitano Jack ottiene più monete d'oro dei pirati, il capitano vince il gioco. Se il capitano Jack inizia per primo, quale strategia deve seguire per vincere il gioco?
 
 ![[src_cn_b07_w182__q07.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+[[Quesiti/src_cn_csmo_2008#q07|src_cn_csmo_2008__Q07]]

@@ -34,11 +34,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of product of visible faces divisible by 6*
+*Probability: product of visible faces divisible by 6*
 
-> Throw a traditional die: what is the probability that the product of the numbers that appear on the five faces that remain visible is divisible by 6? A) 1/3 B) 1/2 C) 2/3 D) 5/6 E) 1
+> Roll a standard die: what is the probability that the product of the numbers appearing on the five faces that remain visible is divisible by 6?
+> A) 1/3
+> B) 1/2
+> C) 2/3
+> D) 5/6
+> E) 1
 
-**Answer:** E
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q01|src_kangourou_2007_junior_marzo__Q01]]
 
 
 
@@ -67,16 +76,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many winning tickets (constraint on the digits)*
+*How many winning tickets (restriction on the figures)*
 
-> In a lottery, all and only the holders of tickets whose
-> number consists of at least five digits, of which at most three are greater than 2, are awarded prizes. Among the holders of the following tickets 1022, 22222, 102334,
-> 213343,  3042531 how many are awarded prizes?
+> In a lottery, prizes are awarded to all and only those ticket holders whose ticket number consists of at least five digits, at most three of which are greater than 2. Among the holders of the following tickets—1022, 22222, 102334, 213343, 3042531—how many receive a prize?
 > A) 1
 > B) 2                  C) 3               
 > D) 4                      E) 5
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q02|src_kangourou_2007_junior_marzo__Q02]]
 
 
 
@@ -107,11 +119,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max distance between two persons (re-transmitter)*
+*Maximum distance between two people (transceiver)*
 
-> A balloon is stationary at 1,200 meters above the ground. The crew on board has a receiver capable of operating within 1300 metres. What is the maximum distance in metres for two people on the ground to communicate with the crew on board, equipped with similar transmitters? A) 500 B) 800 C) 1000 D) 1200 E) 1300
+> An aerostatic balloon is stationary 1200 meters above the ground. The crew on board has a transceiver capable of operating within a range of 1300 meters. What is the maximum distance in meters between two people on the ground who, equipped with similar transceivers, can communicate with the crew on board?
+> A) 500         
+> B) 800            
+> C) 1000       
+> D) 1200     
+> E) 1300
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q03|src_kangourou_2007_junior_marzo__Q03]]
 
 
 
@@ -143,16 +164,18 @@ level: kangourou
 
 *Area of triangle AEF (midpoints)*
 
-> Let ABC be a triangle with area 96. Let D be the midpoint of side AB, E the
-> midpoint of segment DB, F the midpoint of side BC. What is the area
-> of triangle AEF ?
+> Let ABC be a triangle with area 96. Let D be the midpoint of side AB, E be the midpoint of segment DB, and F be the midpoint of side BC. What is the area of triangle AEF?
 > A) 16    
 > B) 24           
 > C) 32       
 > D) 36     
 > E) 48
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q04|src_kangourou_2007_junior_marzo__Q04]]
 
 
 
@@ -189,11 +212,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Members after three years (+50% annually)*
+*Members in three years (+50% per year)*
 
-> An international body currently consists of 32 members. How many members will it have in three years' time if the number of members is 50% higher than the previous year? A) 182 B) 128 C) 108 D) 96 E) 80 Texts
+> An international organization currently has 32 members. How many members will it have in three years if, each year, the number of members is 50% higher than in the previous year?
+> A) 182         
+> B) 128         
+> C) 108        
+> D) 96  
+> E) 80
+> Testi_07.qxp 16-04-2007 12:06 Page 22
+>
+> Pag. Pag. 23 23 Kang 2007 Kang 2007
 
-**Answer:** C
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q05|src_kangourou_2007_junior_marzo__Q05]]
 
 
 
@@ -237,7 +272,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of paths between the marked boxes*
+*How many minimal paths among the marked cells?*
 
 ![[src_kangourou_2007_junior_marzo__prob6.png]]
 
@@ -251,9 +286,19 @@ level: kangourou
 \end{document}
 ```
 
-> Look at the grid in the figure. A move consists exclusively of moving (horizontal, vertical or diagonal) a token from one box to another adjacent one. You want to move a token from one of the two boxes marked with the triangle on the other, using as few moves as possible. How many different routes do you have available? A) 2 B) 4 C) 7 D) 20 E) 35
+> Observe the grid in the figure. A move consists solely of moving a piece (horizontally, vertically, or diagonally) from one square to an adjacent square. You want to move a piece from one of the two squares marked with a triangle to the other, using as few moves as possible. How many different paths are available to you?
+> A) 2            
+> B) 4          
+> C) 7       
+> D) 20         
+> E) 35
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q06|src_kangourou_2007_junior_marzo__Q06]]
 
 
 
@@ -301,7 +346,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*X and Y figures in the grid (sum of 2 per row/column)*
+*Insert numbers X and Y in the grid (sum of 2 per row/column)*
 
 ![[src_kangourou_2007_junior_marzo__prob7.png]]
 
@@ -319,9 +364,19 @@ level: kangourou
 \end{document}
 ```
 
-> In each grid cell in the figure, the digit 0 or the digit 1 must be inserted, so that in each row and column the sum of the digits that appear there is 2. What digits should be substituted for X and Y? A) X = 1, Y = 1 B) X = 1, Y = 0 C) X = 0, Y = 1 D) X = 0, Y = 0 E) The configuration cannot be made.
+> In each cell of the grid shown in the figure, either the digit 0 or the digit 1 must be entered, in such a way that in each row and each column the sum of the digits appearing therein is 2. Which digits must replace X and Y?
+> A) X = 1, Y = 1       
+> B) X = 1, Y = 0     
+> C) X = 0, Y = 1      
+> D) X = 0, Y = 0                 
+> E) The configuration cannot be implemented.
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q07|src_kangourou_2007_junior_marzo__Q07]]
 
 
 
@@ -351,11 +406,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max of KAN+GA+ROO (different digits)*
+*Max on KAN+GA+ROO (separate figures)*
 
-> Find the maximum value that the expression KAN + GA + ROO can assume when each letter is assigned a digit, so that different letters have different digits. A) 1906 B) 1897 C) 1905 D) 1895           E) 2007
+> Find the maximum value that the expression can take.
+> KAN + GA + ROO, when each letter is assigned a digit such that different letters correspond to different digits.
+> A) 1906    
+> B) 1897      
+> C) 1905     
+> D) 1895           E) 2007
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q08|src_kangourou_2007_junior_marzo__Q08]]
 
 
 
@@ -431,9 +496,20 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure you see an ABC triangle where two different segments start from the A vertex with a second end on the opposite side, and the same happens from the B vertex. The four segments thus drawn divide the triangle into 9 regions (except for the edges). If from each of the two vertices A and B four distinct segments, instead of two, are drawn until they meet the opposite side, what is the number of regions (disjoint except for the edges) in which the triangle is divided? A) 16 B) 25 C) 36 D) 42 E) 49
+> In the figure, you see triangle ABC in which
+> From vertex A, two different line segments are drawn, each having its second endpoint on the opposite side; the same holds for vertex B. The four line segments thus drawn divide the triangle into 9 disjoint regions (except along the edges). If, from each of the two vertices A and B, four different line segments—instead of two—are drawn until they meet the opposite side, what is the number of regions (disjoint, except along the edges) into which the triangle is divided?
+> A) 16          
+> B) 25    
+> C) 36         
+> D) 42        
+> E) 49
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q09|src_kangourou_2007_junior_marzo__Q09]]
 
 
 
@@ -480,11 +556,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max months with five Sundays*
+*Maximum months with five Sundays*
 
-> What is the maximum number of months in a year that can have five Sundays? A) 3 B) 4 C) 5 D) 6 E) 7 Δ Δ 1 1 x 0 y B C A Test_07.qxp 16-04-2007 12:06 Page 23
+> What is the maximum number of months in the same year that can have five Sundays?
+> A) 3                    B) 4           
+> C) 5         
+> D) 6                  E) 7
+> Δ Δ 1 1 1 x 0 y B C A Testi_07.qxp 16-04-2007 12:06 Page 23
+>
+> Page Page 24 24 Kang 2007 Kang 2007 Questions 11 to 20 are each worth 4 points.
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q10|src_kangourou_2007_junior_marzo__Q10]]
 
 
 
@@ -513,11 +600,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many liars out of 12 (statements)*
+*How many liars among the 12 (statements)*
 
-> The inhabitants of an island are divided into liars (people who always lie) or truthful (people who always tell the truth). One day, 12 residents, both honest and liars, gather together and make some statements. Two of them say: "Exactly two of us 12 are liars". The other four say, "Exactly four of us 12 are liars". The remaining six say, "Exactly six of us 12 are liars". How many liars are there among those 12? A) 2                 B) 4                  C) 6                D) 8                 E) 10
+> The inhabitants of an island are divided into liars (people who always lie) or truth-tellers (people who always tell the truth). One day, 12 inhabitants, including both truth-tellers and liars, find themselves together and make some statements. Two of them say, "Exactly two of us 12 are liars." Another four say, "Exactly four of us 12 are liars." The remaining six say, "Exactly six of us 12 are liars." How many liars are there among those 12?
+> A) 2                 B) 4                  C) 6                D) 8                 E) 10
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q11|src_kangourou_2007_junior_marzo__Q11]]
 
 
 
@@ -542,11 +635,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To what power do we raise 4^4 to get 8^8*
+*To what power should 4^4 be raised to obtain 8^8?*
 
-> To what power must we raise 4^4 to get 8^8 ? A) 2                 B) 3                  C) 4                D) 8                 E) 16
+> To what power must we raise 44 to get 88?
+> A) 2                 B) 3                  C) 4                D) 8                 E) 16
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q12|src_kangourou_2007_junior_marzo__Q12]]
 
 
 
@@ -587,9 +686,19 @@ level: kangourou
 
 ![[src_kangourou_2007_junior_marzo__prob13.png]]
 
-> Of the four walls that delimit a tunnel, the two sides (opposite) are vertical while the floor and ceiling are parallel to each other, but not perpendicular to the side walls: consequently the vertical section is not a rectangle, but a parallelogram which, observed from the entrance, presents the lowest part on the right. In the middle of the tunnel, a barrier door is to be constructed which consists of two sections, upper and lower, open one independently of the other. Looking at the entrance, how are the two sections to be hinged? A) Both on the left side. B) Both on the right side. C) The upper one on the left side and the lower one on the right side. D) The upper one on the right side and the lower one on the left side. E) The project is not feasible.
+> Of the four walls that delimit a tunnel, the two
+> The side walls (opposite each other) are vertical, while the floor and ceiling are parallel to each other but not perpendicular to the side walls; consequently, the vertical cross-section is not a rectangle but a parallelogram that, when viewed from the entrance, has its lowest part on the right. In the middle of the tunnel, it is intended to construct a barrier door consisting of two sections—an upper section and a lower section—that can be opened independently of each other. When viewed from the entrance, how should the two sections be hinged?
+> A) Both on the left side.
+> B) Both on the right side.
+> C) The upper one on the left side and the lower one on the right side.
+> D) The upper one on the right side and the lower one on the left side.
+> E) The project is not feasible.
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q13|src_kangourou_2007_junior_marzo__Q13]]
 
 
 
@@ -631,30 +740,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*those who solved it or the girls*
+*Who solved it—or the girls?*
 
-> A class tackled one of the Kangourou problems. The number of
-> boys who solved the problem coincides with the number of girls who
-> did not solve it. Is the number of those (boys and girls) who
-> solved the problem greater, or the total number of girls?
+> A class tackled one of the Kangaroo problems. The number of boys who solved the problem is equal to the number of girls who did not solve it. Is the number of those (boys and girls) who solved the problem greater than the total number of girls?
 > A) The situation cannot occur.
-> B) The data are not sufficient to answer.
+> B) The data are insufficient to provide an answer.
 > C) The number of girls.
-> D) The number of those who solved the problem 
+> D) The number of those who have solved the problem
 > E) The two numbers are equal.
-> A
-> B
-> C
-> D
-> Testi_07.qxp  16-04-2007  12:06  Page 24
-> 
-> Pag. 
-> Pag. 25
-> 25
-> Kang 2007
-> Kang 2007
+> A B C D Testi_07.qxp 16-04-2007 12:06 Page 24
+>
+> Pag. Pag. 25 25 Kang 2007 Kang 2007
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q14|src_kangourou_2007_junior_marzo__Q14]]
 
 
 
@@ -688,13 +790,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of movement region of the dog*
+*Perimeter of the dog's movement area*
 
 ![[src_kangourou_2007_junior_marzo__prob15.png]]
 
-> Look at the figure. One of the two ends of a 10-metre long rope is attached to a corner of a 4-metre by 6-metre rectangular-plan shed, while the other end is tied to a dog (which obviously cannot enter the shed). What is the perimeter of the region within which the dog can move? A) 20 π B) 22 π C) 40 π D) 88 π E) 100 π
+> Observe the figure. One of the two ends of a rope
+> A 10-metre-long leash is attached to a corner of a rectangular shed measuring 4 metres by 6 metres, while a dog is tied to the other end (and, obviously, cannot enter the shed). What is the perimeter of the region within which the dog can move?
+> A) 20 π
+> B) 22 π
+> C) 40 π
+> D) 88 π
+> E) 100 π
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q15|src_kangourou_2007_junior_marzo__Q15]]
 
 
 
@@ -726,11 +838,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What time do I get to the gas station (consumption)*
+*What time do I arrive at the pump (consumption)?*
 
-> It's 9:00, and I'm driving at 100 km/h. At this speed with the gas I have left I can only run 80 kilometers, but the nearest gas station is 100 kilometers away. The amount of gasoline my car consumes is directly proportional to the speed of the car and I want to waste as little time as possible. What time do I get to the gas station? A) 22:12 B) 22:15 C) 22:20 D) 22:25           E) 22:30
+> It's 9:00 p.m., and I'm driving at 100 km/h. At this speed, with the fuel I have left, I can only cover 80 km, but the nearest gas station is 100 km away. The amount of fuel my car consumes is directly proportional to the car's speed, and I want to spend as little time as possible. What time will I arrive at the gas station?
+> A) 22:12    
+> B) 22:15        
+> C) 22:20     
+> D) 22:25           E) 22:30
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q16|src_kangourou_2007_junior_marzo__Q16]]
 
 
 
@@ -762,9 +883,18 @@ level: kangourou
 
 *Perimeter of the original triangle (trapezoid)*
 
-> A trapezoid is constructed from an equilateral triangle cutting off an angle (i.e. removing from it a suitable smaller triangle having a vertex in common with it). Two copies of this trapezoid are joined together to form a parallelogram whose perimeter is 10 centimeters longer than that of the original triangle. How many centimeters does the perimeter of the original triangle measure? A) 10 B) 30 C) 40 D) 60 E) The data are insufficient.
+> A trapezoid is constructed from an equilateral triangle by "cutting off one angle" (that is, by removing from it an appropriate smaller triangle that shares one vertex with it). Two copies of this trapezoid are placed side by side to form a parallelogram whose perimeter is 10 centimeters longer than the perimeter of the original triangle. How many centimeters is the perimeter of the original triangle?
+> A) 10        
+> B) 30       
+> C) 40      
+> D) 60                
+> E) The data are insufficient.
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q17|src_kangourou_2007_junior_marzo__Q17]]
 
 
 
@@ -810,11 +940,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-When the clock signs 5 more minutes
+*When the clock shows 5 minutes more*
 
-> The grandmother's clock every day, compared to the correct walk,  between 0:00 and 6:00 goes forward by 15 seconds;  between 6:00 and 12:00 goes back 10 seconds;  between 12:00 and 18:00 goes forward by 15 seconds;  between 18:00 and 24:00 goes back 10 seconds. Today, 15 March, at noon, the clock marks the exact time. If grandma no longer sets the clock, what time of day will her watch mark exactly 5 minutes longer than the exact time? (A) It will never happen (B) At 12:00 on April 14. (c) At 12:00 on 15 April. D) At 12:00 on 13 April. E) At 6:00 on 13 April 4m 6m 10m Texts_07.qxp 16-04-2007 12:06 Page 25
+> Every day, compared with correct timekeeping, Grandma's clock—between 0:00 and 6:00 it gains 15 seconds; between 6:00 and 12:00 it loses 10 seconds; between 12:00 and 18:00 it gains 15 seconds; between 18:00 and 24:00 it loses 10 seconds. Today, March 15, at noon the clock shows the exact time. If Grandma no longer adjusts the clock, at what time on which day will her clock first show exactly 5 minutes more than the exact time?
+> A) It can never happen
+> B) At 12:00 on 14 April.
+> C) At 12:00 on April 15.
+> D) At 12:00 on 13 April.
+> E) At 6:00 on April 13
+> 4m 6m 10m Testi_07.qxp 16-04-2007 12:06 Page 25
+>
+> Page Page 26 26 Kang 2007 Kang 2007
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q18|src_kangourou_2007_junior_marzo__Q18]]
 
 
 
@@ -843,11 +986,17 @@ When the clock signs 5 more minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many games each student plays (doubles)*
+*How many (double) matches does each student play?*
 
-> Two schools challenge each other in tennis only in doubles. Each school is represented by five pupils: all possible pairs of pupils from the same school are formed and each pair from each school faces each pair of the other school once and only once. How many games does each student have to play? A) 10                B) 20                 C) 30                  D) 40                   E) 50
+> Two schools compete in tennis in doubles-only matches. Each school is represented by five students: all possible pairs are formed from students within the same school, and each pair from one school plays each pair from the other school exactly once. How many matches must each student play?
+> A) 10                B) 20                 C) 30                  D) 40                   E) 50
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q19|src_kangourou_2007_junior_marzo__Q19]]
 
 
 
@@ -892,7 +1041,7 @@ When the clock signs 5 more minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of radii of two circles in the square*
+*The sum of the radii of two circles in the square*
 
 ![[src_kangourou_2007_junior_marzo__prob20.png]]
 
@@ -906,9 +1055,21 @@ When the clock signs 5 more minutes
 \end{document}
 ```
 
-> Look at the figure: two circles have the center on the same diagonal as a square, they are tangent to each other and tangent to the square internally. The side of the square is 1 meter long. What is the sum of the lengths, in meters, of the radii of the two circles? A) B) C) D) E) The information is not sufficient. The questions from N. 21 to N. 30 is worth 5 points each.
+> Observe the figure: two circles have their centers on the
+> On the same diagonal of a square, they are tangent to each other and internally tangent to the square. The side of the square is 1 meter long. What is the sum, in meters, of the radii of the two circles?
+> A)
+> B)
+> C) 
+> D)            
+> E) The information is insufficient.
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q20|src_kangourou_2007_junior_marzo__Q20]]
 
 
 
@@ -937,11 +1098,21 @@ When the clock signs 5 more minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value a^3+b^3 where a,b roots of x^2-3x+1*
+*Find the value of a³ + b³, where a and b are the roots of x² - 3x + 1*
 
-> Call a and b the solutions of the equation x2 - 3x + 1 = 0. How much is a3 + b3 ? A) 12 B) 14 C) 16 D) 18 E) 24
+> Let a and b be the solutions of the equation x² - 3x + 1 = 0. What is the value of a³ + b³?
+> A) 12
+> B) 14
+> C) 16
+> D) 18
+> E) 24
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q21|src_kangourou_2007_junior_marzo__Q21]]
 
 
 
@@ -972,9 +1143,19 @@ When the clock signs 5 more minutes
 
 *Product of all divisors of 2007*
 
-> The product of all (integer) divisors of 2007 is A) 20072 B) 20073 C) 20074 D) 20075 E) 20076
+> The product of all (integer) divisors of 2007 is
+> A) 2007²
+> B) 2007³
+> C) 2007⁴
+> D) 2007⁵
+> E) 2007⁶
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q22|src_kangourou_2007_junior_marzo__Q22]]
 
 
 
@@ -1005,11 +1186,21 @@ When the clock signs 5 more minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What letter remains (eliminating odd positions)*
+*Which letter remains (removals from odd positions)?*
 
-> The sequence of letters KANGAROOKANGAROO. . .KANGAROO is constructed by typing the word KANGAROO 20 times in succession. First, remove all the letters that occupy an odd place in the sequence; then bring together the remaining letters and delete all the letters that occupy an odd place in the new sequence; repeat the procedure until there is only one letter left. What letter is that? A) K B) A C) N D) G E) O
+> The sequence of letters KANGAROOKANGAROO. . .KANGAROO is formed by writing the word KANGAROO 20 times in a row. First, remove all and only the letters that occupy odd positions in the sequence; then bring the remaining letters back together and again remove all and only the letters that occupy odd positions in the new sequence; repeat the process until only one letter remains. What letter is it?
+> A) K       
+> B) A        
+> C) N        
+> D) G         
+> E) O
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_induzione|Induction]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q23|src_kangourou_2007_junior_marzo__Q23]]
 
 
 
@@ -1053,30 +1244,26 @@ When the clock signs 5 more minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of inhabitants in the city (number of hairs)*
+*Maximum number of inhabitants of the city (number of hairs)*
 
-> In a city, no two people have the same number of hairs, and nobody has exactly 9999 hairs. The number of inhabitants in the city is greater than the number of hairs on the person with the most hair. What is the maximum possible number of inhabitants in this city?
+> In a city, no two people have the same number of hairs, and no one has exactly 9999 hairs. The number of inhabitants of the city is greater than the number of hairs on the person who has the most. What is the maximum possible number of inhabitants of that city?
+> A) 1
+> B) 9997 
+> C) 9998
+> D) 9999
+> E) 10000 
+> 1 2
 >
-> (A) 1
-> (B) 9997
-> (C) 9998
-> (D) 9999
-> (E) 10000
->  
-> 1
-> 2
-> 2 − 1
-> 2 − 2
+> 1 2 2 −1 2 − 2 Testi_07.qxp 16-04-2007 12:06 Page 26
 >
-> Testi_07.qxp 16-04-2007 12:06 Pagina 26
-> 
-> Page
-> Page 27
-> 27
-> Kang 2007
-> Kang 2007
+> Pag. Pag. 27 27 Kang 2007 Kang 2007
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q24|src_kangourou_2007_junior_marzo__Q24]]
 
 
 
@@ -1121,7 +1308,7 @@ When the clock signs 5 more minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which equality is true (triangle, hexagon, circle)*
+*Which true equality (triangle, hexagon, circle)*
 
 ![[src_kangourou_2007_junior_marzo__prob25.png]]
 
@@ -1139,9 +1326,19 @@ When the clock signs 5 more minutes
 \end{document}
 ```
 
-> Look at the figure. An equilateral triangle of area t and a regular hexagon of area E are inscribed in a circumference, which in turn is inscribed in another equilateral triangle of area T. Which of the following equations is true? A) B) E = (t + T)/2              C) T = t + E D) E) T = E + 3t
+> Observe the figure. An equilateral triangle of area t and a
+> A regular hexagon of area E is inscribed in a circle, which in turn is inscribed in another equilateral triangle of area T. Which of the following equalities is true?
+> A) 
+> B) E = (t + T)/2              C) T = t + E
+> D) 
+> E) T = E + 3t
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q25|src_kangourou_2007_junior_marzo__Q25]]
 
 
 
@@ -1166,11 +1363,17 @@ When the clock signs 5 more minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*K dividers (10k squared, 6k cubic)*
+*Divisors of k (10k squared, 6k cubed)*
 
-> k is the smallest positive integer with this property: 10k is a perfect square and 6k is a perfect cube. How many positive divisors does the number k have ? A) 30                B) 40                C) 54                D) 72                E) 96
+> k is the smallest positive integer with this property: 10k is a perfect square and 6k is a perfect cube. How many (positive) divisors does the number k have?
+> A) 30                B) 40                C) 54                D) 72                E) 96
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q26|src_kangourou_2007_junior_marzo__Q26]]
 
 
 
@@ -1203,11 +1406,21 @@ When the clock signs 5 more minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many necklaces were stolen (diamonds between 200 and 300)*
+*How many stolen necklaces (diamonds ranging from 200 to 300)*
 
-> Some diamond necklaces were stolen from a safe, all with the same number of diamonds (at least 2 per necklace). All of the diamonds that made up them are found: their total number is between 200 and 300. The investigator who investigates the theft, simply by counting the diamonds found, can trace the number of necklaces stolen with certainty. How many necklaces were stolen from the safe? A) 16 B) 17 C) 19 D) 25 E) a number different from the previous one
+> Some diamond necklaces were stolen from a safe, and all of them had the same number of diamonds (at least 2 per necklace). All the diamonds that made up the necklaces are recovered; their total number is between 200 and 300. The investigator looking into the theft, simply by counting the recovered diamonds, is able to determine with certainty the number of necklaces that were stolen. How many necklaces were stolen from the safe?
+> A) 16 
+> B) 17
+> C) 19 
+> D) 25 
+> E) a number different from the preceding ones
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q27|src_kangourou_2007_junior_marzo__Q27]]
 
 
 
@@ -1239,15 +1452,19 @@ When the clock signs 5 more minutes
 
 *Most likely event (drawing 3 cards)*
 
-> For each of four different colors, there are three cards numbered from 1 to 3 in an urn. You draw three cards at random from the urn. Which of the following events is the
-> most likely?
+> For each of four different colors, there are three cards numbered 1 to 3 in an urn. Randomly draw three cards from the urn. Which of the following events is the most likely?
 > A) The three cards drawn are of the same color.
-> B) The three cards drawn, regardless of their colors, bear the numbers 1, 2 and 3.
+> B) The three cards drawn, regardless of their colors, bear the numbers 1, 2, and 3.
 > C) The three cards drawn are of three different colors.
 > D) The three cards drawn have the same number.
 > E) None: the four preceding events all have the same probability of occurring.
 
-**Answer:** C
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q28|src_kangourou_2007_junior_marzo__Q28]]
 
 
 
@@ -1278,11 +1495,21 @@ When the clock signs 5 more minutes
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to exchange gifts without one's own (5 friends)
+*Ways of exchanging gifts without one's own (5 friends)*
 
-> At a party, five friends exchange gifts so that each one makes and receives exactly one gift (and, of course, no one receives their own gift). How many different ways can they do this? A) 5 B) 10 C) 44 D) 50 E) 120
+> At a party, five friends exchange gifts so that each person gives and receives exactly one gift (and, of course, so that no one receives their own gift). In how many different ways can they do this?
+> A) 5 
+> B) 10 
+> C) 44 
+> D) 50 
+> E) 120
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q29|src_kangourou_2007_junior_marzo__Q29]]
 
 
 
@@ -1319,10 +1546,21 @@ How to exchange gifts without one's own (5 friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the regular tetrahedron (spindle distance)*
+*Volume of a regular tetrahedron (edge length)*
 
-> In a regular tetrahedron, the distance between two untouched spikes is 6 centimeters. What is the volume of the tetrahedron in cubic centimeters? A) 18 B) 36 C) 48 D) 72 E) 14 Texts_07.qxp
-> 
-> 1 Kangourou of Mathematics 2007 Junior category For secondary or tertiary secondary school students
+> In a regular tetrahedron, the distance between two edges that do not meet is 6 centimeters. What is the volume of the tetrahedron, in cubic centimeters?
+> A) 18 
+> B) 36 
+> C) 48 
+> D) 72 
+> E) 14 
+> Testi_07.qxp 16-04-2007 12:06 Page 27
+>
+> 1 Kangourou della Matematica 2007 Junior Category For students in the second or third year of upper secondary school
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_junior_marzo#q30|src_kangourou_2007_junior_marzo__Q30]]

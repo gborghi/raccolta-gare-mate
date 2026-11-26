@@ -32,13 +32,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La differenza più piccola possibile tra due numeri naturali a 3 cifre distinte: cifre più grandi e tutte uguali, cifre più piccole e tutte strane*
+*Differenza più piccola possibile tra due numeri naturali a 3 cifre tutte distinte: quello più grande ha cifre tutte pari, quello più piccolo ha cifre tutte dispari*
 
-> Considerate due numeri naturali, ognuno con tre cifre diverse. Il più grande ha solo cifre pari e il più piccolo solo cifre rare. Il valore minimo possibile per la differenza tra loro è:
-> 
+> Si considerino due numeri naturali, ciascuno con tre cifre diverse. Il più grande ha solo cifre pari, mentre il più piccolo ha solo cifre dispari. Il valore minimo possibile della differenza tra i due è:
+>
 > (A) $111$ \quad (B) $49$ \quad (C) $29$ \quad (D) $69$ \quad (E) $5$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n1_f1#q01|src_obm_2001_n1_f1__Q01]]
 
 
 
@@ -66,15 +71,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i quadrilaterali non incrociati formati dalla connessione di un punto da ciascuno dei quattro cerchi contenenti 1,2,3,4 punti interni*
+*Conta i quadrilateri non incidenti formati unendo un punto di ciascuna delle quattro circonferenze che contengono rispettivamente 1, 2, 3, 4 punti interni*
 
-> Nella figura seguente abbiamo le circonferenze $4$ e alcuni punti evidenziati all'interno di queste circonferenze. Le circonferenze contengono all'interno, rispettivamente, $1$, $2$, $3$ e $4$ di questi punti evidenziati, e unendo $4$ di questi punti in modo da non incrociare, si formano quadrilaterali distinti. Quanti quadrilaterali distinti possiamo disegnare in queste condizioni?
-> 
+> Nella figura sottostante abbiamo $4$ circonferenze e alcuni punti evidenziati all'interno di queste circonferenze. All'interno delle circonferenze si trovano rispettivamente $1$, $2$, $3$ e $4$ di questi punti evidenziati, e unendo $4$ di questi punti in modo che non si intersecino, si formano quadrilateri distinti. Quanti quadrilateri distinti si possono tracciare in queste condizioni?
+>
 > (A) $4$ \quad (B) $14$ \quad (C) $60$ \quad (D) $120$ \quad (E) $24$
 
 ![[src_obm_2001_n1_f1__q02.png]]
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n1_f1#q02|src_obm_2001_n1_f1__Q02]]
 
 
 
@@ -100,13 +110,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Primo numero a tre cifre della sequenza 1, 6, 11, ... (passo 5)*
+*Primo numero di tre cifre nella sequenza 1, 6, 11, … (passo 5)*
 
-> Joana scrive la sequenza dei numeri naturali $1, 6, 11, \ldots$, dove ogni numero, con l'eccezione del primo, è uguale al precedente uno più cinque. Joana si ferma quando trova il primo numero a tre cifre della sequenza. Quel numero è:
-> 
+> Joana scrive la successione di numeri naturali $1, 6, 11, \ldots$, in cui ogni numero, ad eccezione del primo, è uguale al precedente più cinque. Joana si ferma quando trova il primo numero di tre cifre della successione. Quel numero è:
+>
 > (A) $100$ \quad (B) $104$ \quad (C) $101$ \quad (D) $103$ \quad (E) $102$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n1_f1#q03|src_obm_2001_n1_f1__Q03]]
 
 
 
@@ -132,13 +147,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri a due cifre che non sono né prime né moltipli di 2, 3 o 5*
+*Conta i numeri a due cifre che non sono né primi né multipli di 2, 3 o 5*
 
-> Quanti numeri a due cifre non sono né prime né multipli di $2$, $3$ o $5$?
-> 
+> Quanti numeri di due cifre non sono né primi né multipli di $2$, $3$ o $5$?
+>
 > (A) $1$ \quad (B) $3$ \quad (C) $2$ \quad (D) $4$ \quad (E) più di $4$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n1_f1#q04|src_obm_2001_n1_f1__Q04]]
 
 
 
@@ -164,13 +184,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri composti in {101, 1001, 10001, ..., 1000000000001}*
+*Conta i numeri composti in {101, 1001, 10001, …, 1000000000001}*
 
-> Nel set $\{101,\; 1\,001,\; 10\,001,\; \ldots,\; 1\,000\,000\,000\,001\}$ ogni elemento è un numero formato dalla cifra $1$ alle sue estremità e da cifre $0$ tra di esse. Alcuni di questi elementi sono numeri primi e altri composti. Per quanto riguarda la quantità di numeri composti possiamo affermare che:
-> 
-> (A) è uguale a $11$ \quad (B) è uguale a $4$ \quad (C) è inferiore a $3$ \quad (D) è maggiore di $4$ e inferiore a $11$ \quad (E) è $3$
+> Nell'insieme $\{101,\; 1\,001,\; 10\,001,\; \ldots,\; 1\,000\,000\,000\,001\}$, ogni elemento è un numero formato dal digit $1$ alle estremità e dai digit $0$ posti tra di essi. Alcuni di questi elementi sono numeri primi, mentre altri sono numeri composti. Per quanto riguarda la quantità di numeri composti, possiamo affermare che:
+>
+> (A) è uguale a $11$ \quad (B) è uguale a $4$ \quad (C) è minore di $3$ \quad (D) è maggiore di $4$ e minore di $11$ \quad (E) è $3$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n1_f1#q05|src_obm_2001_n1_f1__Q05]]
 
 
 
@@ -196,13 +221,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Litr di acqua evaporata che disidrata 100 kg di pere dal 90% al 60% di acqua*
+*Litri d'acqua evaporati per disidratare 100 kg di pere, portandone il contenuto d'acqua dal 90% al 60%*
 
-> Una pera è circa $90\%$ acqua e $10\%$ materia solida. Un produttore mette $100$ chilogrammi di pere per disidratarli fino al punto in cui l'acqua rappresenta $60\%$ della massa totale. Quanti litri di acqua evaporeranno? (ricorda: $1$ litro di acqua ha una massa di $1$ chilogrammo).
-> 
-> (A) $15$ litri \quad (B) $45$ litri \quad (C) $75$ litri \quad (D) $80$ litri \quad (E) $30$
+> Una pera è composta per circa $90\%$ da acqua e $10\%$ da materia solida. Un produttore mette a disidratare $100$ chilogrammi di pere fino al punto in cui l'acqua rappresenta $60\%$ della massa totale. Quanti litri d'acqua verranno evaporati? (ricorda: $1$ litro d'acqua ha una massa di $1$ chilogrammi).
+>
+> (A) $15$ litri \quad (B) $45$ litri \quad (C) $75$ litri \quad (D) $80$ litri \quad (E) $30$ litri
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n1_f1#q06|src_obm_2001_n1_f1__Q06]]
 
 
 
@@ -229,15 +259,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza laterale di un triangolo equilaterale formato da 49 unità di triangolo equilaterale*
+*Lunghezza del lato del triangolo equilatero formato da 49 triangoli equilateri unitari*
 
-> Il triangolo equilaterale $T$ sulla destra ha lato $1$. Unendo i triangoli congruenti a esso, possiamo formare altri triangoli equilaterali più grandi, come indicato nel disegno di seguito. Qual è il lato del triangolo equilaterale formato dai triangoli $49$ $T$?
-> 
-> (A) $7$ \quad (B) $49$ \quad (C) $13$ \quad (D) $21$ \quad (E) È impossibile formare un triangolo equilaterale con questo numero di triangoli $T$
+> Il triangolo equilatero $T$ a destra ha lato $1$. Unendo triangoli congruenti ad esso, possiamo formare altri triangoli equilateri più grandi, come indicato nel disegno sottostante. Qual è il lato del triangolo equilatero formato da $49$ triangoli $T$?
+>
+> (A) $7$ \quad (B) $49$ \quad (C) $13$ \quad (D) $21$ \quad (E) È impossibile formare un triangolo equilatero con questo numero di triangoli $T$
 
 ![[src_obm_2001_n1_f1__q07.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n1_f1#q07|src_obm_2001_n1_f1__Q07]]
 
 
 
@@ -263,13 +297,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Incorrenze del gruppo '89' nella catena di numeri interi 1..1000 scritte consecutivamente*
+*Occorrenze del gruppo '89' nella sequenza di interi da 1 a 1000 scritti in successione*
 
-> I numeri interi positivi da $1$ a $1000$ sono scritti fianco a fianco, in ordine crescente, formando la sequenza $123456789101112131415\ldots9990000$. In questa sequenza, quante volte appare il gruppo "$89$"?
-> 
+> I numeri interi positivi da $1$ a $1000$ sono scritti uno accanto all'altro in ordine crescente, formando la successione $123456789101112131415\ldots9990000$. In questa successione, quante volte compare il gruppo "$89$"?
+>
 > (A) $98$ \quad (B) $32$ \quad (C) $22$ \quad (D) $89$ \quad (E) $21$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n1_f1#q08|src_obm_2001_n1_f1__Q08]]
 
 
 
@@ -297,15 +336,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di minuti per un serratore per formare una catena a 30 collegamenti da dieci pezzi a 3 collegamenti*
+*Minuti minimi necessari a un fabbro per formare una catena di 30 anelli partendo da dieci pezzi da 3 anelli ciascuno*
 
-> Un serratore ha $10$ pezzi di $3$ collegamenti di catena ciascuno, mostrati di seguito. Vuole fare una singola catena di collegamenti$30$. Per aprire e poi saldare un collegamento, il serratore richiede $5$ minuti. Quanti minuti almeno ci vorrà per fare questa catena?
-> 
+> Un fabbro ha $10$ pezzi di $3$ anelli di catena ciascuno, mostrati di seguito. Vuole realizzare un'unica catena composta da $30$ anelli. Per aprire e poi saldare un anello, il fabbro impiega $5$ minuti. Quanti minuti impiegherà al minimo per realizzare questa catena?
+>
 > (A) $30$ \quad (B) $35$ \quad (C) $40$ \quad (D) $45$ \quad (E) $50$
 
 ![[src_obm_2001_n1_f1__q09.png]]
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n1_f1#q09|src_obm_2001_n1_f1__Q09]]
 
 
 
@@ -333,15 +377,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare la figura corretta che mostra le posizioni del 2001 e del 2000 in una striscia di numeri decorativi a due righe*
+*Identifica la figura corretta che mostra le posizioni del 2001 e del 2000 in una striscia decorativa di numeri a due righe*
 
-> I numeri naturali sono scritti su una striscia decorativa nel modo seguente: la riga superiore è $1, 3, 5, 7, \ldots$ e la riga inferiore è $2, 4, 6, 8, \ldots$. Indicare la figura corretta (indicando, con un supporto, le posizioni relative di $2001$ e $2000$).
-> 
-> (A), (B), (C), (D), (E)  vedere le cifre dell'originale (ciascuno mostra i numeri $2001$ e $2000$ con un supporto).
+> I numeri naturali sono scritti su una striscia decorativa nel modo seguente: la riga superiore recita $1, 3, 5, 7, \ldots$ e la riga inferiore recita $2, 4, 6, 8, \ldots$. Indica la figura corretta (che mostri, con una parentesi, le posizioni relative di $2001$ e $2000$).
+>
+> (A), (B), (C), (D), (E) — vedere le figure nell'originale (ciascuna mostra i numeri $2001$ e $2000$ racchiusi tra parentesi quadre).
 
 ![[src_obm_2001_n1_f1__q10.png]]
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n1_f1#q10|src_obm_2001_n1_f1__Q10]]
 
 
 
@@ -366,13 +415,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Espresso il prezzo di una dozzina di arance più una dozzina di banane in melone*
+*Esprimi il prezzo di una dozzina di arance più una dozzina di banane in angurie*
 
-> I meloni $2$ costano lo stesso che le arance $9$ più le banane $6$; inoltre, una mezza dozzina di banane costa metà di un melone. Pertanto, il prezzo pagato per una dozzina di arance e una dozzina di banane è pari al prezzo di:
-> 
-> (A) $3$ meloni \quad (B) $4$ meloni \quad (C) $6$ meloni \quad (D) $5$ meloni \quad (E) $2$ meloni
+> $2$ angurie costano quanto $9$ arance più $6$ banane; inoltre, mezza dozzina di banane costa la metà di un'anguria. Pertanto, il prezzo pagato per una dozzina di arance e una dozzina di banane è uguale al prezzo di:
+>
+> (A) $3$ angurie \quad (B) $4$ angurie \quad (C) $6$ angurie \quad (D) $5$ angurie \quad (E) $2$ angurie
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n1_f1#q11|src_obm_2001_n1_f1__Q11]]
 
 
 
@@ -398,13 +451,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'ultima cifra della somma di 70 integri positivi consecutivi*
+*Ultima cifra della somma di 70 interi positivi consecutivi*
 
-> Qual è l'ultima cifra della somma dei numeri interi positivi consecutivi $70$?
-> 
-> (A) $4$ \quad (B) $0$ \quad (C) $7$ \quad (D) $5$ \quad (E) Mancano dati
+> Qual è l'ultima cifra della somma di $70$ interi positivi consecutivi?
+>
+> (A) $4$ \quad (B) $0$ \quad (C) $7$ \quad (D) $5$ \quad (E) Dati mancanti
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n1_f1#q12|src_obm_2001_n1_f1__Q12]]
 
 
 
@@ -429,13 +487,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Peso di una moneta da 50 centesimi data l'equivalenza massa-per-money con le monete da 20 centesimi*
+*Peso di una moneta da 50 centesimi, data l'equivalenza tra massa e valore monetario con le monete da 20 centesimi*
 
-> In Tumbolia, un chilogrammo di monete $50$ centesimi equivale in denaro a due chilogrammi di monete $20$ centesimi. Pertanto, una moneta di $50$cent pesa:
-> 
+> In Tumbolia, un chilogrammo di monete da $50$ centesimi equivale, in termini monetari, a due chilogrammi di monete da $20$ centesimi. Pertanto, una moneta da $50$ centesimi peserà:
+>
 > (A) $15$ grammi \quad (B) $10$ grammi \quad (C) $12$ grammi \quad (D) $20$ grammi \quad (E) $22$ grammi
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n1_f1#q13|src_obm_2001_n1_f1__Q13]]
 
 
 
@@ -463,11 +525,16 @@ level: OBM Nível 1
 
 *Valore numerico comune del perimetro e dell'area di un rettangolo con lati interi distinti*
 
-> Le misure dei lati di un rettangolo sono numeri interi distinti. Il perimetro e l'area del rettangolo sono espressi dallo stesso numero. Determina questi numeri.
-> 
+> Le misure dei lati di un rettangolo sono numeri interi distinti. Il perimetro e l'area del rettangolo sono espressi dallo stesso numero. Determinare questi numeri.
+>
 > (A) $18$ \quad (B) $12$ \quad (C) $24$ \quad (D) $9$ \quad (E) $36$
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2001_n1_f1#q14|src_obm_2001_n1_f1__Q14]]
 
 
 
@@ -493,13 +560,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di cifre di una N a tre cifre tale che 7N finisca in 171*
+*Somma delle cifre di un numero N di tre cifre tale che 7N termini con 171*
 
-> Il numero $N$ di tre cifre moltiplicato per $7$ dà così un numero che termina in $171$. La somma delle cifre di $N$ è:
-> 
+> Il numero $N$ di tre cifre, moltiplicato per $7$, dà come risultato un numero che termina con $171$. La somma delle cifre di $N$ è:
+>
 > (A) $10$ \quad (B) $11$ \quad (C) $12$ \quad (D) $13$ \quad (E) $14$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n1_f1#q15|src_obm_2001_n1_f1__Q15]]
 
 
 
@@ -525,13 +597,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Closure di buco di piccione per 32 quadrati occupati su una lavagna a 6 righe a 9 colonne*
+*Conclusione per scomparti per 32 caselle occupate su una scacchiera di 6 righe per 9 colonne*
 
-> Su una tabella rettangolare con righe $6$ e colonne $9$ sono occupati quadrati $32$. Possiamo affermare che:
-> 
-> (A) Tutte le colonne hanno almeno $3$ quadrati occupati. \quad (B) Nessuna colonna ha più di $3$ quadrati occupati. \quad (C) Una colonna non ha quadrati occupati. \quad (D) Qualche riga ha almeno $6$ quadrati occupati. \quad (E) Tutte le righe hanno almeno $4$ quadrati occupati.
+> Su una scacchiera rettangolare con $6$ righe e $9$ colonne, $32$ caselle sono occupate. Possiamo affermare che:
+>
+> (A) Tutte le colonne hanno almeno $3$ caselle occupate. \quad (B) Nessuna colonna ha più di $3$ caselle occupate. \quad (C) Qualche colonna non ha caselle occupate. \quad (D) Qualche riga ha almeno $6$ caselle occupate. \quad (E) Tutte le righe hanno almeno $4$ caselle occupate.
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n1_f1#q16|src_obm_2001_n1_f1__Q16]]
 
 
 
@@ -557,13 +634,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nomero di ragazzi in una classe data il resto mod 4 e mod 5, con 15 ragazze e ragazze che superano in numero i ragazzi*
+*Numero di ragazzi in una classe, dati i resti modulo 4 e modulo 5, con 15 ragazze e con le ragazze in numero superiore ai ragazzi*
 
-> Il conteggio degli studenti di una classe $4$ in un momento lascia $2$ e il conteggio $5$ in un momento lascia $1$. Sapendo che gli studenti sono ragazze e che in questa classe il numero di ragazze è maggiore del numero di ragazzi, il numero di ragazzi in questa classe è:
-> 
+> Contando gli studenti di una classe $4$ alla volta, restano $2$ in più, e contando $5$ alla volta, restano $1$ in più. Sapendo che $15$ studenti sono ragazze e che in questa classe il numero delle ragazze è maggiore di quello dei ragazzi, il numero dei ragazzi in questa classe è:
+>
 > (A) $7$ \quad (B) $8$ \quad (C) $9$ \quad (D) $10$ \quad (E) $11$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n1_f1#q17|src_obm_2001_n1_f1__Q17]]
 
 
 
@@ -589,13 +671,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di tutti i numeri da 1 a 999 in cui il numero 1 appare esattamente due volte*
+*Somma di tutti i numeri da 1 a 999 in cui la cifra 1 compare esattamente due volte*
 
-> Tutti i numeri da $1$ a $999$ in cui la cifra $1$ appare esattamente $2$ volte (come $11$, $121$, $411$, ecc.) sono scritti. La somma di tutti questi numeri è:
-> 
+> Vengono scritti tutti i numeri da $1$ a $999$ in cui la cifra $1$ compare esattamente $2$ volte (come $11$, $121$, $411$, ecc.). La somma di tutti questi numeri è:
+>
 > (A) $6882$ \quad (B) $5994$ \quad (C) $4668$ \quad (D) $7224$ \quad (E) $3448$
 
-**Risposta:** A
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2001_n1_f1#q18|src_obm_2001_n1_f1__Q18]]
 
 
 
@@ -621,13 +708,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di lupi tra i cinque animali AE che sono cani (verità) o lupi (mentitori), data la loro dichiarazione*
+*Numero di lupi tra i cinque animali A–E che sono cani (veritieri) o lupi (bugiardi), dati le loro dichiarazioni*
 
-> Cinque animali $A$, $B$, $C$, $D$ e $E$ sono cani o sono lupi. I cani dicono sempre la verità e i lupi mentono sempre. $A$ dice che $B$ è un cane. Il$B$dice che il$C$è un lupo. $C$ dice che $D$ è un cane. $D$ dice che $B$ e $E$ sono animali di specie diverse. $E$ dice che $A$ è un cane. Quanti lupi ci sono tra i cinque animali?
-> 
+> Cinque animali, $A$, $B$, $C$, $D$ e $E$, sono cani o lupi. I cani dicono sempre la verità e i lupi mentono sempre. $A$ dice che $B$ è un cane. $B$ dice che $C$ è un lupo. $C$ dice che $D$ è un cane. $D$ dice che $B$ e $E$ sono animali di specie diverse. $E$ dice che $A$ è un cane. Quanti lupi ci sono tra i cinque animali?
+>
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
-**Risposta:** D
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2001_n1_f1#q19|src_obm_2001_n1_f1__Q19]]
 
 
 
@@ -655,12 +747,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tigli bianchi necessari per una sequenza di mosaico quadrato utilizzando 80 piastrelle nere circostanti*
+*Piastrelle bianche necessarie per una sequenza di mosaico quadrato che utilizza 80 piastrelle nere circostanti*
 
-> Con piastrelle quadrate bianche e nere della stessa dimensione, costruiamo i seguenti mosaici. La regola per la costruzione di questi mosaici è la seguente: inizialmente formiamo un quadrato con $1$ piastrelle bianche circondate da piastrelle nere; poi, un altro quadrato, questo con $4$ piastrelle bianche, circondato anche da piastrelle nere; e così via successivamente. Con le piastrelle nere $80$, quante piastrelle bianche saranno necessarie per fare una sequenza di mosaici come questa?
-> 
+> Con tessere quadrate bianche e nere tutte della stessa dimensione, costruiamo i seguenti mosaici. La regola per costruire questi mosaici è la seguente: inizialmente formiamo un quadrato con $1$ tessere bianche circondate da tessere nere; poi, un altro quadrato, questa volta con $4$ tessere bianche, anch'esso circondato da tessere nere; e così via in successione. Con $80$ tessere nere, quante tessere bianche saranno necessarie per realizzare una sequenza di mosaici di questo tipo?
+>
 > (A) $55$ \quad (B) $65$ \quad (C) $75$ \quad (D) $85$ \quad (E) $100$
 
 ![[src_obm_2001_n1_f1__q20.png]]
 
-**Risposta:** A
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2001_n1_f1#q20|src_obm_2001_n1_f1__Q20]]

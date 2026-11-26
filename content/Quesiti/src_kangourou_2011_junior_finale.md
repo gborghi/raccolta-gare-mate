@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum difference between numbers with sum of digits divisible by 5*
+*Minimum difference between numbers whose digit sum is divisible by 5*
 
-> Imagine a list in which all positive integers appear in increasing order whose digit sum is divisible by $5$ (the list will begin thus: $5, 14, 19, 23, \ldots$). What is the smallest possible difference between a number and the one before it in this list?
+> Imagine a list in which all positive integers whose digit sum is divisible by $5$ appear in increasing order (so the list will begin like this: $5, 14, 19, 23, \ldots$). What is the smallest possible difference between a number and the number that precedes it in this list?
 
-**Answer:** 1
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_junior_finale#qj1|src_kangourou_2011_junior_finale__QJ1]]
 
 
 
@@ -58,11 +63,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max number of distinct digits divisible by each of its digits*
+*Maximum number of distinct digits divisible by each of its digits*
 
-> A positive integer, written in decimal notation, has all its digits different from each other and is divisible by each of its digits. How many digits can it have at most?
+> A positive integer written in decimal notation has digits that are pairwise different and is divisible by each of its digits. What is the maximum number of digits it can have?
 
-**Answer:** 7
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_junior_finale#qj2|src_kangourou_2011_junior_finale__QJ2]]
 
 
 
@@ -85,11 +95,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who skips a circuit with a ditch without falling and why
+*Who jumps a circuit with a ditch without falling, and why?*
 
-> Ada, Bruna, Carla, Dora, and Enrica jump on their own jumper whose base is practically a point. Each of them performs jumps of the same length; the lengths are $70, 80, 85, 90$ and $95$ cm respectively. They all follow, starting from the same point and moving in the same direction, the same circular circuit length $400$ meters, which is traversed by a trench $73$ cm wide. It happens that only one of them can make 6 full laps of the circuit without falling into the ditch: who and why? (The lengths of the jumps and the width of the trench are to be measured on circuit arcs, not on chords.)
+> Ada, Bruna, Carla, Dora, and Enrica each jump on their own jumper, whose base is practically a point. Each of them makes jumps that are always the same length; the lengths are $70, 80, 85, 90$ and $95$ cm, respectively. Starting from the same point and moving in the same direction, they all follow the same circular course, which is $400$ metres long and has a ditch $73$ cm wide running across it. It happens that only one of them manages to complete $6$ full laps of the course without falling into the ditch: who is it, and why? (The jump lengths and the width of the ditch are to be understood as measured along arcs of the course, not along chords.)
 
-**Answer:** Bruna
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_junior_finale#qj3|src_kangourou_2011_junior_finale__QJ3]]
 
 
 
@@ -119,15 +133,22 @@ Who skips a circuit with a ditch without falling and why
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number of C always equal*
+*C number always the same*
 
 ![[src_kangourou_2011_junior_finale__probj4.png]]
 
-> You have a grid. You want to enter in each box one and only one of the letters $A$, $B$, $C$ so that: - in each row the number of boxes with the letter $A$ is not less than the number of boxes with the letter $B$ and the number of boxes with the letter $C$; - in each column the number of boxes with the letter $B$ is not less than the number of boxes with the letter $A$ and the number of boxes with the letter $C$.
-> 
-> Show that you can achieve the goal in different ways, but that the number of boxes with the letter $C$ is always the same. What is it? Why?
+> You have a $7 \times 7$ grid. You want to put one and only one of the letters $A$, $B$, $C$ into each cell so that:
+> - in each row, the number of cells containing the letter $A$ is not less than the number of cells containing the letter $B$ and not less than the number of cells containing the letter $C$;
+> - in each column, the number of cells containing the letter $B$ is not less than the number of cells containing the letter $A$ and not less than the number of cells containing the letter $C$.
+>
+> Show that you can achieve the goal in several ways, but that the number of cells containing the letter $C$ is always the same. What is it? Why?
 
-**Answer:** 7
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_junior_finale#qj4|src_kangourou_2011_junior_finale__QJ4]]
 
 
 
@@ -151,11 +172,16 @@ Who skips a circuit with a ditch without falling and why
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many distinct values can the sum of the perimeters of 4 triangles of area 1/4 take*
+*How many distinct values are the sums of the perimeters of 4 triangles each with area 1/4?*
 
-> There are several ways of dividing a square of side $1$ into $4$ triangles each of area $\frac{1}{4}$ (by "divide" we mean decompose without overlaps except, possibly, along sides). The sum of the perimeters of the triangles may vary as the ways vary. How many different possible values can this sum assume? Justify the answer in the most comprehensive way possible.
+> There are several ways to partition a square of side $1$ into $4$ triangles, each of area $\frac{1}{4}$ (by "partition" is meant to decompose without overlaps, except possibly along edges). As the ways vary, the sum of the perimeters of the triangles may vary. How many distinct values can this sum take? Justify the answer as comprehensively as possible.
 
-**Answer:** 5
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_junior_finale#qj5|src_kangourou_2011_junior_finale__QJ5]]
 
 
 
@@ -181,10 +207,15 @@ Who skips a circuit with a ditch without falling and why
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For which m the ant comes out of the tiled box*
+*For which m does the ant exit the tiled box?*
 
-> An ant is trapped in a box whose floor is a square tiled with $m^2$ square tiles all on the same side and where the exit routes are only at the four vertices. The ant is located at the bottom left vertex and can only move along the gaps between the tiles going right of one and up of one, then right of two and up of two, then right again of three and up of three and so on. When it encounters a wall, whether it has completed a straight line or not, it stops, turns $180°$ towards the inside of the box and starts moving again as described (i.e. moving from one tile to the right, then one up, then two to the right, and so on).
-> 
-> Are there values of $m$ for which the ant will be able to get out of the box? If so, what are they?
+> An ant is trapped inside a box whose floor is a square tiled with $m^2$ square tiles, all of the same side length, and in which the only exits are at the four corners. The ant is at the bottom-left corner and can move only along the gaps between the tiles, going one tile to the right and one tile up, then two tiles to the right and two tiles up, then again three tiles to the right and three tiles up, and so on. When it encounters a wall, regardless of whether it has completed a straight-line segment or not, it stops, turns by $180°$ toward the inside of the box, and starts moving again as described (that is, moving one tile to the right, then one tile up, then two tiles to the right, and so on).
+>
+> Are there values of $m$ for which the ant will manage to get out of the box? If so, which ones?
 
-**Answer:** m=1+k(k+1)/2
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_junior_finale#qj6|src_kangourou_2011_junior_finale__QJ6]]

@@ -51,7 +51,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles that can be detected in Figure*
+*How many triangles can be found in the figure*
 
 ![[src_kangourou_2002_student__prob1.png]]
 
@@ -67,12 +67,19 @@ level: kangourou
 \end{document}
 ```
 
-> How many triangles can you spot in the figure?
->  
->  
-> A. 2 B. 4 C. 6 D. 8 E. 10
+> How many triangles can be found in the figure?
+>
+> A. 2
+> B. 4
+> C. 6
+> D. 8
+> E. 10
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_student#q01|src_kangourou_2002_student__Q01]]
 
 
 
@@ -105,13 +112,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The last digit of 1! + 2! +... + 2002!
+*The last digit of the sum of the factorials*
 
-> For every positive integer n, let's put it with n! The product of all positive integers less than or equal to n, each taken only once (e.g. we have 4! = 24). Determine the last digit (decimal representation) of the number 1! + 2! + 3! + … + 2002!
->  
-> A. 0 B. 1 C. 2 D. 3 E. 5
+> For every positive integer n, we denote by n! the product of all the positive integers less than or equal to n, each taken once only (for example 4! = 24). Find the last digit (of the decimal representation) of the number 1! + 2! + 3! + … + 2002!
+>
+> A. 0
+> B. 1
+> C. 2
+> D. 3
+> E. 5
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_student#q02|src_kangourou_2002_student__Q02]]
 
 
 
@@ -142,13 +157,21 @@ The last digit of 1! + 2! +... + 2002!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit integers with at least two equal digits*
+*How many positive integers have three significant digits with at least two equal*
 
-> How many positive integers are represented decimally by three significant digits of which at least two are equal?
->  
-> A. 180 B. 252 C. 256 D. 280 E. 312
+> How many positive integers are there whose decimal representation consists of three significant digits, at least two of which are equal?
+>
+> A. 180
+> B. 252
+> C. 256
+> D. 280
+> E. 312
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_student#q03|src_kangourou_2002_student__Q03]]
 
 
 
@@ -184,20 +207,23 @@ The last digit of 1! + 2! +... + 2002!
 <div class="qlang-split" data-lang="en"></div>
 
 
-Product ab with GCD 3 and quotient 4/10*
+*The product a·b given the HCF and the quotient*
 
-> Let a and b be two positive integers whose greatest common divisor is 3. Knowing that the quotient a/b is 4/10, what is the product a·b worth?
->  
-> A. 18 B. 10
->  
-> C. 36 D. 30
->  
+> Let a and b be two positive integers whose highest common factor is 3. Given that the quotient a / b equals 4 / 10, what is the product a·b?
+>
+> A. 18
+> B. 10
+> C. 36
+> D. 30
 > E. 90
->  
-> 
-> Student 2002. Page N. 2
+>
+> Student 2002. Page no.
+> 2
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_student#q04|src_kangourou_2002_student__Q04]]
 
 
 
@@ -223,14 +249,20 @@ Product ab with GCD 3 and quotient 4/10*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Edges of a prism with 2002 vertices*
+*The number of edges of a prism with 2002 vertices*
 
-> A prism has 2002 vertices. What is the number of its edges? 
->  
-> A. 3003 
->    B. 1001     C. 2002      D. 4002       E. 2001
+> A prism has 2002 vertices. What is the number of its edges?
+>
+> A. 3003
+> B. 1001
+> C. 2002
+> D. 4002
+> E. 2001
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_student#q05|src_kangourou_2002_student__Q05]]
 
 
 
@@ -260,13 +292,20 @@ Product ab with GCD 3 and quotient 4/10*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reduction in the volume of melting ice*
+*By how much the volume of the ice decreases when it melts*
 
-> When frozen, water increases its volume by 1 / 11. By how much does the volume of ice decrease when, melting, it returns to water?
->  
-> A. 1 / 11 B. 1 / 10 C. 1 / 12 D. 1 / 13 E. 1 / 14
+> When it is frozen, water increases its volume by 1 / 11. By how much does the volume of the ice decrease when, on melting, it turns back into water?
+>
+> A. 1 / 11
+> B. 1 / 10
+> C. 1 / 12
+> D. 1 / 13
+> E. 1 / 14
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_student#q06|src_kangourou_2002_student__Q06]]
 
 
 
@@ -299,17 +338,20 @@ Product ab with GCD 3 and quotient 4/10*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mean annual use of the hotel*
+*The average occupancy of the hotel over the whole year*
 
-> The average capacity utilisation of a hotel is 88% during the three summer months and 44% during the remaining months of the year. What is the average exploitation for the whole year?
->  
-> A. 80 % B. 50 % C. 55 %
->  
-> D. 46 %
->  
-> E. 48 %
+> The average use of a hotel's capacity is 88% during the three summer months and 44% during the remaining months of the year. What is the average use over the whole year?
+>
+> A. 80%
+> B. 50%
+> C. 55%
+> D. 46%
+> E. 48%
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_student#q07|src_kangourou_2002_student__Q07]]
 
 
 
@@ -342,17 +384,22 @@ Product ab with GCD 3 and quotient 4/10*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Percentage of glass with water at 45°
+*What percentage of the glass contains water*
 
 ![[src_kangourou_2002_student__prob8.png]]
 
-> A cylindrical glass with base partially filled with water and tilted to 45° is shown in the figure. What percentage of the glass contains water?
->  
-> A. less than 25% B. 25% C. 33% D. 33,333%
->  
+> A cylindrical glass with base a, partly full of water and tilted by 45°, appears as shown in the figure. What percentage of the glass contains water?
+>
+> A. less than 25%
+> B. 25%
+> C. 33%
+> D. 33.333%
 > E. more than 34%
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_student#q08|src_kangourou_2002_student__Q08]]
 
 
 
@@ -388,17 +435,23 @@ Percentage of glass with water at 45°
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parallel length to 60 degrees latitude*
+*The length of the parallel at 60° north*
 
 ![[src_kangourou_2002_student__prob9.png]]
 
-> The length of the equator is about 40 000 km. The length of the parallel located at 60° north latitude (see figure on the side), rounded to hundreds of km is
->  
-> A. 34 600 km B. 23 500 km C. 26 700 km D. 30 000 km
->  
-> E. None of the above
+> The length of the equator is about 40 000 km. The length of the parallel that lies at 60° north latitude (see the figure alongside), rounded to the nearest hundred kilometres, is
+>
+> A. 34 600 km
+> B. 23 500 km
+> C. 26 700 km
+> D. 30 000 km
+> E. none of the above
 
+**Topic:** [[topic_trigonometria|Trigonometry]], [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_student#q09|src_kangourou_2002_student__Q09]]
 
 
 
@@ -441,30 +494,27 @@ Percentage of glass with water at 45°
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Word at the 537th position*
+*The word in the 537th place of the Berals' dictionary*
 
-> The alphabet of the Martian people of the Berals consists of the six letters A, B, E,
-> L, R, S taken in this order. The words of their language are exactly
-> the sequences, ordered alphabetically, of these six letters, where each letter
-> is used once and only once. What is the word that is found at the 537th
-> position of their dictionary?
->  
+> The alphabet of the Martian people of the Berals consists of the six letters A, B, E, L, R, S taken in this order. The words of their language are exactly the alphabetically ordered sequences of these six letters, where each letter is used once and only once. What is the word that is in the 537th place of their dictionary?
+>
 > A. REBLAS
 > B. SBERLA
 > C. LERBAS
 > D. RABLES
->  
 > E. ARBELS
->  
->  
->  
-> 60° 
-> 
-> Student 2002. Page N.
+>
+> 60°
+>
+> Student 2002. Page no.
 > 3
-> Questions from N. 11 to N. 20 are worth 4 points
+> Questions 11 to 20 are worth 4 points
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_student#q10|src_kangourou_2002_student__Q10]]
 
 
 
@@ -499,20 +549,22 @@ Percentage of glass with water at 45°
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relationship between areas of triangles*
+*Which relation among the areas must hold*
 
 ![[src_kangourou_2002_student__prob11.png]]
 
-> The side figure shows 4 triangles with areas Ai (i = 0, 1, 2, 3). The triangle of area A0 is right-angled, the other three are equilateral. Then it is necessary:
->  
->  
-> A. A1 + A2 =A3 B. (A1 )2 + (A2 )2 = (A3 )2
->  
-> C. A1 + A2 + A3 =3 A0 D. A1 + A2 =A3√ 2
->  
-> E. None of the above answers are correct.
+> The figure alongside shows 4 triangles with areas Ai (i = 0, 1, 2, 3). The triangle of area A0 is right-angled, the other three are equilateral. Then necessarily:
+>
+> A. A1 + A2 =A3
+> B. (A1 )2 + (A2 )2 = (A3 )2
+> C. A1 + A2 + A3 =3 A0
+> D. A1 + A2 =A3√ 2
+> E. none of the above
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_student#q11|src_kangourou_2002_student__Q11]]
 
 
 
@@ -549,18 +601,22 @@ Percentage of glass with water at 45°
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Surface area of the cube sculpture*
+*The total surface area of the sculpture*
 
 ![[src_kangourou_2002_student__prob12.png]]
 
-> The abstract sculpture seen in the figure next to it was obtained by removing a rectangular parallelepiped from a solid that was originally a cube. The volume of the original cube was 512 dm3. What is the total area of the sculpture?
->  
->  
-> A. 320 dm2 B. 336 dm2 C. 384 dm2 D. 468 dm2
->  
-> E. Nothing can be said without further information.
+> The abstract sculpture seen in the figure alongside was obtained by removing a rectangular parallelepiped from a solid that was originally a cube. The volume of the original cube was 512 dm3. What is the area of the total surface of the sculpture?
+>
+> A. 320 dm2
+> B. 336 dm2
+> C. 384 dm2
+> D. 468 dm2
+> E. nothing can be said without further information
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_student#q12|src_kangourou_2002_student__Q12]]
 
 
 
@@ -594,22 +650,20 @@ Percentage of glass with water at 45°
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Name of Giovanni's son*
+*The name of Giovanni's son*
 
-> At a fishing competition there are Pietro with his son and Giovanni with his 
-> son. Pietro caught as many fish as his son caught. Giovanni instead 
-> caught triple the number of fish of his son. Together they caught 
-> 35 fish. Pietro's son is called Luca. What is the name of Giovanni's 
-> son? 
->  
-> A. the information provided is contradictory 
-> B. Giovanni 
+> At a fishing contest Pietro is present with his son, and Giovanni with his son. Pietro has caught as many fish as his son has. Giovanni, on the other hand, has caught three times the number of fish his son has. Together they have caught 35 fish. Pietro's son is called Luca. What is Giovanni's son called?
+>
+> A. the information given is contradictory
+> B. Giovanni
 > C. Pietro
->  
-> D. Luca 
+> D. Luca
 > E. there is not enough information to answer
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_student#q13|src_kangourou_2002_student__Q13]]
 
 
 
@@ -643,13 +697,21 @@ Percentage of glass with water at 45°
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Matches drawn in the tournament*
+*How many matches ended in a draw*
 
-> Ten teams participate in a football tournament (each team plays all the others once and only once). At the end of each match, the winning team receives 3 points and the losing team receives 0 points; in case of a draw, 1 point is awarded to both teams. Adding up the total points from the ten teams, you get 130. How many matches ended in a draw?
->  
-> A. 1 B. 2 C. 3 D. 4 E. 5
+> Ten teams take part in a football tournament (each team plays every other team once and only once). At the end of each match the winning team gets 3 points and the losing team 0; in the event of a draw, 1 point is awarded to each team. Adding the points scored by the ten teams gives 130. How many matches ended in a draw?
+>
+> A. 1
+> B. 2
+> C. 3
+> D. 4
+> E. 5
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_student#q14|src_kangourou_2002_student__Q14]]
 
 
 
@@ -686,15 +748,23 @@ Percentage of glass with water at 45°
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reduce expenses with three modifications*
+*By what percentage the production costs would be reduced*
 
-> By making a modification to an installation in an industrial process can reduce production costs by 50%; a different modification can reduce production costs by 40%, while a third modification allows a reduction of production costs by 10%. What percentage would production costs be reduced if we introduced the three modifications, which are independent of each other, at the same time?
->  
-> A. 100 % B. 73 % C. 92 % D. 87 % E. 67 %
-> 
-> Student 2002. Page N. 4
+> By making a change to a plant, in an industrial process, it is possible to reduce production costs by 50%; a different change can reduce them by 40%, while a third change allows a reduction of 10%. By what percentage would the production costs be reduced if we introduced the 3 changes at the same time, the changes being independent of one another?
+>
+> A. 100%
+> B. 73%
+> C. 92%
+> D. 87%
+> E. 67%
+>
+> Student 2002. Page no.
+> 4
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_student#q15|src_kangourou_2002_student__Q15]]
 
 
 
@@ -730,19 +800,23 @@ Percentage of glass with water at 45°
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ABC angle between midpoints of the cube*
+*The size of the angle formed by the segments AB and BC*
 
 ![[src_kangourou_2002_student__prob16.png]]
 
-> How much does the angle formed by segments AB and BC measure, knowing that A, B and C are the midpoints of the cube's edges?
->  
+> What is the size of the angle formed by the segments AB and BC, given that A, B and C are the midpoints of the edges of the cube?
+>
 > A. 90°
->  
-> B. 100° C. 110° D. 120°
->  
+> B. 100°
+> C. 110°
+> D. 120°
 > E. 135°
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2002_student#q16|src_kangourou_2002_student__Q16]]
 
 
 
@@ -778,19 +852,22 @@ Percentage of glass with water at 45°
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Objects C balancing a B*
+*How many objects of type C balance one object of type B*
 
 ![[src_kangourou_2002_student__prob17.png]]
 
-> Some objects of four types, A, B, C, D, arranged on three scales, as shown in the figure, keep them in equilibrium. How many C-type objects balance a B-type object ?
->  
->  
->  
+> Some objects of four types, A, B, C, D, arranged on three balances as in the figure, keep them in equilibrium. How many objects of type C balance one object of type B?
+>
 > A. 2
->  
-> B. 3 C. 5 D. 6 E. 7
+> B. 3
+> C. 5
+> D. 6
+> E. 7
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_student#q17|src_kangourou_2002_student__Q17]]
 
 
 
@@ -840,7 +917,7 @@ Percentage of glass with water at 45°
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Radius r of circles in the triangle*
+*The radius r of the circles that form the triangle*
 
 ![[src_kangourou_2002_student__prob18.png]]
 
@@ -859,14 +936,18 @@ Percentage of glass with water at 45°
 \end{document}
 ```
 
-> The 'triangle' in the figure on the side is formed by circles of the same radius r. The height of the triangle is 2. What is the radius r ?
->  
->  
-> A. 1 / (1 + √ 3) B. 2 / (1 + √ 3) C. 2 / (2 + √ 3)
->  
-> D. 1 / (2 + √ 3) E. other answer
+> The "triangle" in the figure alongside is formed by circles of the same radius r. The height of the "triangle" is 2. What is the radius r?
+>
+> A. 1 / (1 + √ 3)
+> B. 2 / (1 + √ 3)
+> C. 2 / (2 + √ 3)
+> D. 1 / (2 + √ 3)
+> E. another answer
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_student#q18|src_kangourou_2002_student__Q18]]
 
 
 
@@ -901,18 +982,20 @@ Percentage of glass with water at 45°
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time for Achilles and the turtle*
+*After how long Achilles catches the tortoise*
 
-> Fast-footed Achilles chases the turtle that walks slowly in front of him. The initial distance between them is 990 meters. The speed of Achilles is 10 meters per second, the speed of the turtle is 1 meter every 10 seconds. How long before Achilles reaches the turtle?
->  
-> A. 1 minute and 40 seconds B. 990 seconds
->  
->  
-> C. Never
->  
-> D. 1 minute and 50 seconds E. 1 minute and 39 seconds
+> Swift-footed Achilles pursues the tortoise that walks slowly ahead of him. The initial distance between them is 990 metres. Achilles' speed is 10 metres per second, the tortoise's speed is 1 metre every 10 seconds. After how long will Achilles catch the tortoise?
+>
+> A. 1 minute and 40 seconds
+> B. 990 seconds
+> C. never
+> D. 1 minute and 50 seconds
+> E. 1 minute and 39 seconds
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_student#q19|src_kangourou_2002_student__Q19]]
 
 
 
@@ -949,24 +1032,24 @@ Percentage of glass with water at 45°
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Second term of succession up to 1000*
+*The second term of the sequence*
 
-> In a sequence of positive rational numbers, each term excluding the first two is the sum of all the ones before it. The eleventh term of the succession is 1000 and the first one is 1. What's the second term?
->  
-> A. 2 B. 93 / 32 C. 250 / 64 D. 109 / 16
->  
->  
-> E. None of these
->   
->  
->  
->  
->  
->  
-> 
-> Student 2002. Page N. 5. Questions from N. 21 to N. 30 are worth 5 points.
+> In a sequence of positive rational numbers, every term except the first two is the sum of all those that precede it. The eleventh term of the sequence is 1000 and the first is 1. What is the second term?
+>
+> A. 2
+> B. 93 / 32
+> C. 250 / 64
+> D. 109 / 16
+> E. none of these
+> Student 2002. Page no.
+> 5
+> Questions 21 to 30 are worth 5 points
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_student#q20|src_kangourou_2002_student__Q20]]
 
 
 
@@ -998,13 +1081,21 @@ Percentage of glass with water at 45°
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-degenerate triangles of 10 points*
+*How many non-degenerate triangles have three of the ten points as vertices*
 
-> There are exactly ten points in the plane. Five of these are on a straight line and no other straight line contains more than two points among the given points. How many non-degenerate triangles have three of the ten given points as vertices?
->  
-> A. 20 B. 50 C. 70 D. 100 E. 110
+> Exactly ten points are given in the plane. Five of them lie on a line and no other line contains more than two of the given points. How many non-degenerate triangles are there that have three of the ten given points as vertices?
+>
+> A. 20
+> B. 50
+> C. 70
+> D. 100
+> E. 110
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_student#q21|src_kangourou_2002_student__Q21]]
 
 
 
@@ -1036,13 +1127,21 @@ Percentage of glass with water at 45°
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum k such that 2001^k divides 2002!
+*The greatest k such that 2001k divides 2002!*
 
-> Consider the number 2002! = 1 ⋅ 2 ⋅ 3 ⋅ … ⋅ 2002. Clearly 2001 divides 2002! since 2002! = 2000! ⋅ 2001 ⋅ 2002. The maximum value k such that 2001^k divides 2002! is equal to
->  
-> A. 101 B. 71 C. 69 D. 2 E. 1
+> Consider the number 2002! = 1 ⋅ 2 ⋅ 3 ⋅ … ⋅ 2002. Clearly 2001 divides 2002!, since 2002! = 2000! ⋅ 2001 ⋅ 2002. The greatest value k such that 2001k divides 2002! is equal to
+>
+> A. 101
+> B. 71
+> C. 69
+> D. 2
+> E. 1
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_student#q22|src_kangourou_2002_student__Q22]]
 
 
 
@@ -1079,15 +1178,20 @@ Maximum k such that 2001^k divides 2002!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*People in the two groups (cancelled)*
+*How many people there are in each of the two groups*
 
-> Two groups of friends form a group of more than 27 people for mountain trips. The first trip involved all but 12 people from the second group, and in this trip the people from the first group were more than twice as many as those from the second group. On the second trip all but 10 people from the first group took part, and on this trip the people from the second group were more than 9 times as many as the first group. How many people are in each of the two groups?
->  
+> Two groups of friends form a party of more than 27 people for trips in the mountains. On the first trip everyone took part except 12 people from the second group, and on this trip the people from the first group were more than twice those from the second group. On the second trip everyone took part except 10 people from the first group, and on this trip the people from the second group were more than 9 times those from the first group. How many people are there in each of the two groups?
+>
 > A. 12 and 18
->  
-> B. 11 e 17 C. 10 e 20 D. 13 e 15
->  
-> E. It is not possible to answer without further information.
+> B. 11 and 17
+> C. 10 and 20
+> D. 13 and 15
+> E. it is not possible to answer without further information
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+[[Quesiti/src_kangourou_2002_student#q23|src_kangourou_2002_student__Q23]]
 
 
 
@@ -1119,13 +1223,21 @@ Maximum k such that 2001^k divides 2002!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-congruent triangles in the decagon*
+*How many non-congruent triangles have three vertices of a regular decagon*
 
-> How many non-congruent triangles have three of the vertices of a regular decagon as vertices?
->  
-> A. 6 B. 7 C. 8 D. 9 E. None of the above answers are correct.
+> How many non-congruent triangles have as vertices three of the vertices of a regular decagon?
+>
+> A. 6
+> B. 7
+> C. 8
+> D. 9
+> E. none of the above
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_student#q24|src_kangourou_2002_student__Q24]]
 
 
 
@@ -1179,22 +1291,41 @@ Maximum k such that 2001^k divides 2002!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of region C in the circle*
+*The area of region C*
 
 ![[src_kangourou_2002_student__prob25.png]]
 
-> The circle in the figure on the side has its centre at the point O and unit radius. The radian measure of each of the angles α, β and γ is less than π. If the area of Region A is 4 1 12 5 − π and the area of Region B is 2 1 4 − π, then the area of Region C is:
->  
-> A. 4 π B. 3 π C. 3 2π
->  
-> D. 6 π E. 12 5π
->  
->  
->  
-> 
-> Student 2002. Page N. 6
+> The circle in the figure alongside has its centre at the point O and unit radius. The measure in radians of each of the angles α, β and γ is less than π. If the area of region A equals
+> 4
+> 1
+> 12
+> 5
+> −
+> π
+> and the area of region B equals
+> 2
+> 1
+> 4 −
+> π
+> , then the area of region C equals:
+>
+> A. 4
+> π
+> B. 3
+> π
+> C. 3
+> 2π
+> D. 6
+> π
+> E. 12
+> 5π
+> Student 2002. Page no.
+> 6
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_student#q25|src_kangourou_2002_student__Q25]]
 
 
 
@@ -1225,13 +1356,20 @@ Maximum k such that 2001^k divides 2002!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers with digit sum 2 up to 10^2002*
+*How many integers between 1 and 102002 have digit-sum 2*
 
-> How many integers between 1 and 10^2002 have the sum of the digits equal to 2? A. 2007006 B. 2005003 C. 2003001 D. 2005002
->  
-> E. None of the above answers are correct.
+> How many integers between 1 and 102002 have the sum of their digits equal to 2?
+> A. 2007006
+> B. 2005003
+> C. 2003001
+> D. 2005002
+> E. none of the above
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_student#q26|src_kangourou_2002_student__Q26]]
 
 
 
@@ -1263,15 +1401,20 @@ Maximum k such that 2001^k divides 2002!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time of the aircraft doubling speed*
+*After how long the plane is vertically above Moscow*
 
-> An ideal plane flies from Milan to Moscow. It leaves at a speed of one meter per second, but doubles its speed with each meter traveled. How long after departure will it be on the Moscow vertical (Moscow is about 2800 kilometres from Milan)?
->  
-> A. Never B. more than 2 years C. between two and three months D. between 3 and 4 hours
->  
+> An ideal plane flies from Milan in the direction of Moscow. It starts at a speed of 1 metre per second, but doubles its speed at every metre travelled. How long after departure will it be vertically above Moscow (Moscow is about 2800 kilometres from Milan)?
+>
+> A. never
+> B. more than 2 years
+> C. between two months and three months
+> D. between 3 and 4 hours
 > E. less than 2 seconds
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Skill:** [[skill_stima|Estimation and approximation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2002_student#q27|src_kangourou_2002_student__Q27]]
 
 
 
@@ -1302,13 +1445,20 @@ Maximum k such that 2001^k divides 2002!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Litres to be replaced for a 42% solution*
+*How many litres must be replaced*
 
-> There are 21 liters of a solution with 18% alcohol in one container. How many liters of this liquid do you have to replace with a solution of 90% alcohol to get a solution of 42% alcohol?
->  
-> A. 3 B. 5 C. 7 D. 9 E. 11
+> A container holds 21 litres of a solution with 18% alcohol. How many litres of this liquid must be replaced with a solution of 90% alcohol in order to obtain a solution of 42% alcohol?
+>
+> A. 3
+> B. 5
+> C. 7
+> D. 9
+> E. 11
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2002_student#q28|src_kangourou_2002_student__Q28]]
 
 
 
@@ -1362,9 +1512,9 @@ Maximum k such that 2001^k divides 2002!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the sum of cyclic fractions*
+*The value of the expression in a, b and c*
 
-> a, b, c are three numbers such that a + b + c = 7 and  
+> a, b, c are three numbers such that a + b + c = 7 and
 > 10
 > 7
 > a
@@ -1377,8 +1527,8 @@ Maximum k such that 2001^k divides 2002!
 > a
 > 1
 > =
-> .   
-> What is the value of 
+> .
+> What is the value of
 > ?
 > b
 > a
@@ -1390,13 +1540,18 @@ Maximum k such that 2001^k divides 2002!
 > b
 > a
 > =
->  
->  
-> A. 19 / 10 B. 17 / 10 C. 9 / 7 
-> D. 3 / 2 
+>
+> A. 19 / 10
+> B. 17 / 10
+> C. 9 / 7
+> D. 3 / 2
 > E. 10 / 7
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** A
+[[Quesiti/src_kangourou_2002_student#q29|src_kangourou_2002_student__Q29]]
 
 
 
@@ -1456,19 +1611,29 @@ Maximum k such that 2001^k divides 2002!
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cases inaccessible in the table game*
+*How many squares are unreachable from A1*
 
 ![[src_kangourou_2002_student__prob30.png]]
 
-> The image next to it represents a table game in which the cells on the three circles have been numbered from A1 to A25, from B1 to B12 and from C1 to C18. A token is initially placed in cell A1 and can be moved to other boxes according to the following rule: at each step the token can be moved to a cell two positions apart, on the same circumference, in any direction (for example, an admissible sequence is as follows: C5 → C3 → C1 = A22 → A20 → A18 → A20); but it is not possible to move the token directly from C2 to A23. How many cells are inaccessible for any sequence of moves, starting, as stated, from box A1?
->  
-> A. 0 B. 6 C. 15 D. 27
->  
+> The picture alongside shows a board game in which the squares on the three circles have been numbered from A1 to A25, from B1 to B12 and from C1 to C18. A counter is placed initially on square A1 and may be moved to other squares according to the following rule: at each step the counter may be moved to a square two positions away, on the same circle, in either direction (for example an allowed sequence is the following: C5 → C3 → C1 = A22 → A20 → A18 → A20); but it is not possible to move the counter directly from C2 to A23. How many squares are unreachable for any sequence of moves, starting, as stated, from square A1?
+>
+> A. 0
+> B. 6
+> C. 15
+> D. 27
 > E. 30
-> 
-> Kangourou Italy Competition of 21 March 2002 Student category For students of fourth and fifth grades Solutions
->  
->  
-> The correct answer is indicated in square brackets after the question number.
+>
+> Kangourou Italia
+> Contest of 21 March 2002
+> Student category
+> For students in the fourth and fifth year of upper secondary school
+> Solutions
+>
+> The correct answer is marked in square brackets
+> after the question number.
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_grafi|Graph theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2002_student#q30|src_kangourou_2002_student__Q30]]

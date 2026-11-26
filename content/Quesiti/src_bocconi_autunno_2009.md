@@ -30,11 +30,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A odd number of three digits with the sum of the digits 12*
+*Odd three-digit number with a digit sum of 12*
 
-> Write the largest odd number of three digits so that the sum of its digits is equal to 12.
+> Write the largest three-digit odd number such that the sum of its digits equals 12.
 
-**Answer:** 921
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2009#q01|src_bocconi_autunno_2009__Q01]]
 
 
 
@@ -58,11 +63,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Luke's age given the family relationship system*
+*Luca's age given the family relationship system*
 
-> Mr. Teerema has three children: Carla, Milena and Luca. The average age of the two girls is 10 years while the sum of the ages of the three boys is 33 years. How old is Luca?
+> The Teerema family has three children: Carla, Milena, and Luca. The average age of the two girls is 10 years, while the sum of the ages of all three children is 33 years. How old is Luca?
 
-**Answer:** 13
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_autunno_2009#q02|src_bocconi_autunno_2009__Q02]]
 
 
 
@@ -88,13 +98,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Put 2 matches to form 7 squares*
+*Move 2 matches to form 7 squares*
 
-> The 12 matches in the figure form 5 squares (the big one and four small ones). Find a way to move two of these matches so that we can now form seven squares. (Draw the new figure in the reply sheet).
+> The 12 matchsticks in the figure form 5 squares (the large one and four small ones). Find a way to move 2 of these matchsticks so that 7 squares are formed now. (Draw the new figure on the answer sheet.)
 
 ![[src_bocconi_autunno_2009__q03.png]]
 
-**Answer:** (or similar — see the figure in the solution)
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2009#q03|src_bocconi_autunno_2009__Q03]]
 
 
 
@@ -118,11 +133,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Day of the third millennium for 10/10/10*
+*Day of the Third Millennium for the date 10/10/10*
 
-> The day 01/01/01 (1° January 2001) was the first day of the third millennium. Then complete the following sentence: 10/10/10 (10 October 2010) will be the ______th day of the third millennium. Note: fill in the dots with the required number (written in figures) recalling that 2004 and 2008 were leap years.
+> The date 01/01/01 (1 January 2001) was the first day of the third millennium. Then complete the following sentence: "10/10/10 (10 October 2010) will be the ______th day of the third millennium." Note: fill in the blanks with the required number (written in digits), remembering that 2004 and 2008 were leap years.
 
-**Answer:** 3570
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2009#q04|src_bocconi_autunno_2009__Q04]]
 
 
 
@@ -146,11 +166,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum positive integer divisible by 16 times the sum of its digits*
+*The smallest positive integer divisible by 16 times the sum of its digits*
 
-> Find the smallest integer (positive) equal to 16 times the sum of its digits.
+> Find the smallest positive integer that is equal to 16 times the sum of its digits.
 
-**Answer:** 144
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2009#q05|src_bocconi_autunno_2009__Q05]]
 
 
 
@@ -179,13 +204,21 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete year 2010 addition with figures 18*
+*Complete the addition for the year 2010 using digits 1–8*
 
-> Complete the addition of the figure by using (once and only) the digits 1,2,3,4,5,7,8. Note: each digit in the first row must be less than the corresponding digit of the second number (the one below it vertically) and the digits of this second number must be ordered from left to right, from smallest to largest. $$- \; - \; + $$ $$- \; - \; - \; = $$ $$2 \; 0 \; 1 \; 0$$
+> Complete the addition in the figure using the digits 1, 2, 3, 4, 5, 7, 8 (each exactly once). Note: each digit in the first row must be less than the corresponding digit of the second number (the one directly below it vertically), and the digits of this second number must be arranged, from left to right, in ascending order.
+> $$- \; - \; + $$
+> $$- \; - \; - \; = $$
+> $$2 \; 0 \; 1 \; 0$$
 
 ![[src_bocconi_autunno_2009__q06.png]]
 
-**Answer:** $432 + 1578 = 2010$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2009#q06|src_bocconi_autunno_2009__Q06]]
 
 
 
@@ -217,7 +250,12 @@ level: Giochi d'Autunno
 
 ![[src_bocconi_autunno_2009__q07.png]]
 
-**Answer:** 20
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2009#q07|src_bocconi_autunno_2009__Q07]]
 
 
 
@@ -243,9 +281,14 @@ level: Giochi d'Autunno
 
 *Find the maximum value of SEX in the addition TER+TER=SEX*
 
-> In the Appendix: $\text{TER} + \text{TER} = \text{SEX}$ replaced by the digits instead of the letters. Please note: the same letter always has the same number and two different letters must have two different numbers. Besides, no number can start with 0. What is the largest value that can be substituted for the word sex?
+> In the addition: $\text{TER} + \text{TER} = \text{SEX}$ replace the letters with digits. Note: the same letter always corresponds to the same digit, and two different letters must correspond to two different digits. Moreover, no number may start with 0. What is the largest value that can be substituted for the word SEX?
 
-**Answer:** 806
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2009#q08|src_bocconi_autunno_2009__Q08]]
 
 
 
@@ -270,11 +313,17 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Products of fractions in irreducible form*
+*Product of fractions in lowest terms*
 
-> Write the result of the product indicated as an irreducible fraction (no longer simplifiable). $$\frac{1}{2} \times \frac{3}{7} \times \frac{5}{9} \times \cdots \times \frac{2005}{2009} \times \frac{2007}{2011}$$
+> Write the result of the indicated product as an irreducible fraction (one that cannot be simplified further).
+> $$\frac{1}{2} \times \frac{3}{7} \times \frac{5}{9} \times \cdots \times \frac{2005}{2009} \times \frac{2007}{2011}$$
 
-**Answer:** $\frac{3}{4040099}$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping sums]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_autunno_2009#q09|src_bocconi_autunno_2009__Q09]]
 
 
 
@@ -301,13 +350,19 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reducible fraction from continuous cradled fraction*
+*Irreducible fraction from a nested continued fraction*
 
-> Write the result of the expression as an irreducible fraction (no longer simplifiable). $$1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \frac{1}{4}}}}}$$
+> Write the result of the given expression as an irreducible fraction (one that cannot be simplified further).
+> $$1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \frac{1}{4}}}}}$$
 
 ![[src_bocconi_autunno_2009__q10.png]]
 
-**Answer:** $\frac{13}{8}$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Working backwards]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_autunno_2009#q10|src_bocconi_autunno_2009__Q10]]
 
 
 
@@ -333,13 +388,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Separate a figure into two overlapping parts*
+*Divide a figure into two superposable parts*
 
-> Divide the figure into two overlapping parts (perhaps by some rotation and some flipping).
+> Divide the figure into two congruent parts (possibly by means of some rotations and some reflections).
 
 ![[src_bocconi_autunno_2009__q11.png]]
 
-**Answer:** (see the figure in the solution)
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2009#q11|src_bocconi_autunno_2009__Q11]]
 
 
 
@@ -363,11 +423,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times do snails form a right angle between noon and 6 a.m.*
+*How many times do the hands form a right angle between noon and 6?*
 
-> Between noon and 6 p.m. (on the same day), how many times do the large and small hands of a clock form a right angle?
+> Between noon and 6 p.m. (on the same day), how many times do the minute hand and the hour hand of a clock form a right angle?
 
-**Answer:** 11
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2009#q12|src_bocconi_autunno_2009__Q12]]
 
 
 
@@ -391,11 +456,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number key with sequence operations*
+*Numerical riddle involving sequential operations*
 
-> Think of a number (full, positive). Decrease it by 8. Then divide the result by 5. Raise the number you find to the square, then add 23, divide by 12, and increase by 8. If you end up with 20, what was the number you initially thought of?
+> Think of a number (an integer, positive). Subtract 8 from it. Then divide the result by 5. Square the number you get; then add 23, divide by 12, and add 8. If in the end you get 20 as the result, what was the number you thought of initially?
 
-**Answer:** 63
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2009#q13|src_bocconi_autunno_2009__Q13]]
 
 
 
@@ -419,11 +489,16 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nando's age by root system*
+*Nando's age via the root system*
 
-> Nando's age is equal to that of Deborah's increased cubic root of Jacob's age. Deborah's is equal to Jacob's age increased by the cubic root of Nando's age. Jacob's is equal to the cubic root of Nando's age increased by the square root of Deborah's age. How old is Nando?
+> Nando's age is equal to Debora's age plus the cube root of Jacob's age. Debora's age is equal to Jacob's age plus the cube root of Nando's age. Jacob's age is equal to the cube root of Nando's age plus the square root of Debora's age. How old is Nando?
 
-**Answer:** 27
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_induzione|Induction]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2009#q14|src_bocconi_autunno_2009__Q14]]
 
 
 
@@ -449,13 +524,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coordinates of the number 2010 in numerical spiral*
+*Coordinates of number 2010 in the number spiral*
 
-> We started writing the whole numbers (starting with 0, 1, 2, etc.) in a spiral, as you can see in the figure. You can also see that, compared to the axes shown, for example, the number 25 has coordinates (3;2). In the same reference system, what will be the coordinates of the 2010 number?
+> We have started writing the whole numbers (beginning with 0, 1, 2, etc.) in a spiral, as you can see in the figure. You can also see that, relative to the indicated axes, the number 25, for example, has coordinates (3;2). In the same reference system, what will the coordinates of the number 2010 be?
 
 ![[src_bocconi_autunno_2009__q15.png]]
 
-**Answer:** $(8;\ -22)$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_ricorsione|Recursion]], [[skill_riconoscimento_pattern|skill_PatternRecognition]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_autunno_2009#q15|src_bocconi_autunno_2009__Q15]]
 
 
 
@@ -481,11 +561,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equality between two fractions using figures 09*
+*Equality between two fractions using digits 0–9*
 
-> Complete the equality between two fractions, using the ten digits from 0 to 9 once and only once (in fact, 1 and 3 are already marked). You also know that each fraction is equal to 1/2. $$\frac{-\,-}{-\,-} = \frac{1}{3} \cdot \cdot = \frac{-}{3\,-\,-}$$ Note: the query may admit more than one solution; one solution is sufficient.
+> Complete the equality between two fractions, using each of the ten digits from 0 to 9 exactly once (in fact, 1 and 3 are already marked). You also know that each fraction equals 1/2.
+> $$\frac{-\,-}{-\,-} = \frac{1}{3} \cdot \cdot = \frac{-}{3\,-\,-}$$
+> Note: the problem may have more than one solution; it is sufficient to give one.
 
-**Answer:** $\frac{46}{92} = \frac{185}{370}$ or $\frac{45}{90} = \frac{186}{372}$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_autunno_2009#q16|src_bocconi_autunno_2009__Q16]]
 
 
 
@@ -511,13 +598,18 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum side of the square carved in cardboard*
+*Maximum side length of the square cut from cardboard*
 
-> In a side square $x + 1$, a side square $x$ has been carved (as you can see in the figure). In the remaining piece of cardboard, a quarter of the circumference is plotted with the center at point A. What is the maximum value of $x$ for the construction to be possible (the entire quarter of the circumference is in the remaining piece of cardboard)? $1{,}414$ may be replaced by $\sqrt{2}$.
+> In a square piece of cardboard with side $x + 1$, a square with side $x$ has been cut out (as you can see in the figure). In the remaining piece of cardboard, a quarter of a circle is drawn with center at point A. What is the maximum value of $x$ for the construction to be possible (the entire quarter of a circle lies within the remaining piece of cardboard)? $1{,}414$ can be substituted for $\sqrt{2}$.
 
 ![[src_bocconi_autunno_2009__q17.png]]
 
-**Answer:** $1 + \sqrt{2}$
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_autunno_2009#q17|src_bocconi_autunno_2009__Q17]]
 
 
 
@@ -541,8 +633,12 @@ level: Giochi d'Autunno
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of high 5 digits at high power*
-
+*Number of digits of 5 raised to a large power*
 > If $2^{300}$ is a 31-digit number, how many digits does $5^{300}$ consist of?
 
-**Answer:** 70 digits
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_autunno_2009#q18|src_bocconi_autunno_2009__Q18]]

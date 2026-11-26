@@ -32,11 +32,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Goats to be bought because they are half of the animals*
+*Tokens AR BS CT DU*
 
 > AR BS CT DU
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 9
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1eeR5ULKkoZEBoRxzdiK9J7w9p-cjXAx-/view)
+[[Quesiti/src_kangourou_2014_ecolier_finale#q01|src_kangourou_2014_ecolier_finale__Q01]]
 
 
 
@@ -64,13 +69,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number on the matching faces of the two dice*
+*AS BT CU DV*
 
 ![[src_kangourou_2014_ecolier_finale__prob2.png]]
 
 > AS BT CU DV
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 3 or 4
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1eeR5ULKkoZEBoRxzdiK9J7w9p-cjXAx-/view)
+[[Quesiti/src_kangourou_2014_ecolier_finale#q02|src_kangourou_2014_ecolier_finale__Q02]]
 
 
 
@@ -96,11 +106,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum rounds for every boy to dance with every girl
+*AT BU CV DZ*
 
 > AT BU CV DZ
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 6
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1eeR5ULKkoZEBoRxzdiK9J7w9p-cjXAx-/view)
+[[Quesiti/src_kangourou_2014_ecolier_finale#q03|src_kangourou_2014_ecolier_finale__Q03]]
 
 
 
@@ -125,9 +140,15 @@ Minimum rounds for every boy to dance with every girl
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible scores in three-team mini-tournament*
+*AU BV CZ DR*
 
 > AU BV CZ DR
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1eeR5ULKkoZEBoRxzdiK9J7w9p-cjXAx-/view)
+[[Quesiti/src_kangourou_2014_ecolier_finale#q04|src_kangourou_2014_ecolier_finale__Q04]]
 
 
 
@@ -152,9 +173,15 @@ Minimum rounds for every boy to dance with every girl
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squirrel empties 15 plates in four visits*
+*AV BZ CR DS*
 
 > AV BZ CR DS
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1eeR5ULKkoZEBoRxzdiK9J7w9p-cjXAx-/view)
+[[Quesiti/src_kangourou_2014_ecolier_finale#q05|src_kangourou_2014_ecolier_finale__Q05]]
 
 
 
@@ -190,9 +217,16 @@ Minimum rounds for every boy to dance with every girl
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Divisibility of the sum of three consecutive integers*
+*Points in a three-team football mini-tournament*
 
 > AZ BR CS DT
->  
->  
-> E4. (14 points) In a football match, the winning team receives 3 points and the losing team 0 points; if the match ends in a draw, both teams receive 1 point. Three teams play a mini-tournament on a neutral field: each plays each other once. We ask you to answer these two questions. - If, at the end of the tournament, all the teams have the same number of points, what can this number be? - Of the following scores 0, 1, 2, 3, 4, 5, 6, which cannot be achieved by any team at the end of the tournament?
+>
+>
+> E4. (14 points )     In a football match, the winning team is awarded 3 points and the losing team 0 points; if the match ends in a draw, each team is awarded 1 point. Three teams play a mini-tournament on neutral ground: each plays once against each of the others. We ask you to answer these two questions. - If, at the end of the tournament, all the teams have the same number of points, what can this number be? - Of the following scores  0, 1, 2, 3, 4, 5, 6, which cannot be achieved by any team at the end of the tournament?
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1eeR5ULKkoZEBoRxzdiK9J7w9p-cjXAx-/view)
+[[Quesiti/src_kangourou_2014_ecolier_finale#q06|src_kangourou_2014_ecolier_finale__Q06]]

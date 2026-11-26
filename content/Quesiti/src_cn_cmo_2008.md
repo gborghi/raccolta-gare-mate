@@ -31,9 +31,18 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma provata delle reciprocità di circumradii è pari a 2/R*
+*Dimostrare che la somma dei reciproci dei raggi circoscritti è uguale a 2/R*
 
-> Che $\triangle ABC$ sia un triangolo acuto non isosceles, e il punto $O$ è il circondario. Il $A'$ deve essere un punto della riga $AO$ tale che $\angle BAA' = \angle CA'A$. Costruire $A'A_1 \perp AC$, $A'A_2 \perp AB$ con $A_1$ su $AC$, $A_2$ su $AB$ rispettivamente. $AH_1$ è perpendicolare a $BC$ a $H_1$. Scrivere $R_A$ come il circondario di $\triangle H_1 A_1 A_2$. Indicare allo stesso modo $R_B$ e $R_C$. Prove che $$\frac{1}{R_A} + \frac{1}{R_B} + \frac{1}{R_C} = \frac{2}{R},$$ dove $R$ è il circondario di $\triangle ABC$.
+> Sia $\triangle ABC$ un triangolo acuto non isoscele, e il punto $O$ sia il circocentro. Sia $A'$ un punto sulla retta $AO$ tale che $\angle BAA' = \angle CA'A$. Costruisci $A'A_1 \perp AC$, $A'A_2 \perp AB$ con $A_1$ su $AC$, $A_2$ su $AB$ rispettivamente. $AH_1$ è perpendicolare a $BC$ in $H_1$. Scrivi $R_A$ come raggio circoscritto di $\triangle H_1 A_1 A_2$. Definisci analogamente $R_B$ e $R_C$. Dimostrare che
+> $$\frac{1}{R_A} + \frac{1}{R_B} + \frac{1}{R_C} = \frac{2}{R},$$
+> dove $R$ è il raggio circoscritto di $\triangle ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2008#q01|src_cn_cmo_2008__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Partzione impostata in due sottoinsiemi evitando la condizione aritmetica-media di n termine*
+*Partizione suddivisa in due sottoinsiemi, evitando la condizione della media aritmetica a n termini*
 
-> Date un numero intero $n \ge 3$, dimostrare che l'insieme $X = \{1, 2, 3, \ldots, n^2 - n\}$ può essere diviso in due sottoinsiemi non intersezionati in modo tale che nessuno di essi contenga elementi $n$ $a_1, a_2, \ldots, a_n$ con $a_1 < a_2 < \cdots < a_n$ e $a_k \le \dfrac{a_{k-1} + a_{k+1}}{2}$ per tutti $k = 2, \ldots, n-1$.
+> Dato un intero $n \ge 3$, dimostrare che l'insieme $X = \{1, 2, 3, \ldots, n^2 - n\}$ può essere suddiviso in due sottoinsiemi disgiunti tali che nessuno dei due contenga $n$ elementi $a_1, a_2, \ldots, a_n$ con $a_1 < a_2 < \cdots < a_n$ e $a_k \le \dfrac{a_{k-1} + a_{k+1}}{2}$ per ogni $k = 2, \ldots, n-1$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmo_2008#q02|src_cn_cmo_2008__Q02]]
 
 
 
@@ -83,9 +99,18 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza che comporta la funzione del pavimento per due sequenze reali ordinate*
+*Dimostrazione di una disuguaglianza che coinvolge la funzione parte intera per due successioni reali ordinate*
 
-> Date un numero intero $n > 0$ e numeri reali $x_1 \le x_2 \le \cdots \le x_n$, $y_1 \ge y_2 \ge \cdots \ge y_n$, soddisfacendo $\displaystyle\sum_{i=1}^n x_i = \sum_{i=1}^n y_i$. Prova che per qualsiasi numero reale $a$, $$\sum_{i=1}^n x_i \left[ia\right] \ge \sum_{i=1}^n y_i \left[ia\right],$$ dove $[p]$ è definito come il numero intero più grande inferiore o uguale a $p$.
+> Dato un numero intero $n > 0$ e numeri reali $x_1 \le x_2 \le \cdots \le x_n$, $y_1 \ge y_2 \ge \cdots \ge y_n$, che soddisfano $\displaystyle\sum_{i=1}^n x_i = \sum_{i=1}^n y_i$. Dimostrare che, per ogni numero reale $a$,
+> $$\sum_{i=1}^n x_i \left[ia\right] \ge \sum_{i=1}^n y_i \left[ia\right],$$
+> dove $[p]$ è definito come il più grande numero intero minore o uguale a $p$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2008#q03|src_cn_cmo_2008__Q03]]
 
 
 
@@ -109,8 +134,13 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli primi (p,q,n) con condizione di divisibilità*
+*Trovare tutte le terne di numeri primi (p,q,n) che soddisfano la condizione di divisibilità*
 
-> Trova tutti i triples $(p, q, n)$ in modo tale che $p^{n+1}q^{n+1} \mid p^{2n+1} + q^{2n+1} - 3^{2n+1}$, dove $p$, $q$ sono prime e $n$ è un intero positivo.
+> Trovare tutte le terne $(p, q, n)$ tali che $p^{n+1}q^{n+1} \mid p^{2n+1} + q^{2n+1} - 3^{2n+1}$, dove $p$, $q$ sono numeri primi e $n$ è un numero intero positivo.
 
-**Risposta:** $(3, 3, n)$ per $n = 2, 3, \ldots$
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2008#q04|src_cn_cmo_2008__Q04]]

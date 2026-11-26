@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi attraverso la tangente D a A e B; collinearità di D, E, F*
+*Punto su AB, due circonferenze tangenti ai lati in A e in B, e il simmetrico di C rispetto all'asse di AB: tre punti sono allineati*
 
-> Un punto $D$ è preso sul lato $AB$ di un triangolo $ABC$. Due cerchi che attraversano $D$ e toccano $AC$ e $BC$ rispettivamente a $A$ e $B$ si incrociano di nuovo a $E$. Il punto $F$ deve essere simmetrico a $C$ rispetto al bisettore perpendicolare di $AB$. Dimostrare che i punti $D$, $E$, $F$ si trovano su una linea.
+> Sul lato $AB$ di un triangolo $ABC$ si prende un punto $D$. Due circonferenze passanti per $D$ e tangenti rispettivamente a $AC$ e a $BC$ in $A$ e in $B$ si intersecano di nuovo in $E$. Sia $F$ il punto simmetrico di $C$ rispetto all'asse del segmento $AB$. Dimostrare che i punti $D$, $E$, $F$ sono allineati.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2004_r3#q01|src_pol_2004_r3__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio con valori di coprimo; insieme infinito di coprimo in coprimo*
+*Polinomio a coefficienti interi che assume valori coprimi in qualche coppia di interi: li assume a due a due coprimi su un insieme infinito*
 
-> Che $W$ sia un polinomio con coefficienti interi in modo che esistano interi a cui $W$ prende valori copriemi. Mostrare che esiste un insieme infinito $S$ di integri in cui i valori $W$ sono copriemi in coprieme.
+> Sia $W$ un polinomio a coefficienti interi tale che esistano interi in cui $W$ assume valori coprimi. Dimostrare che esiste un insieme infinito $S$ di interi in cui i valori assunti da $W$ sono a due a due coprimi.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2004_r3#q02|src_pol_2004_r3__Q02]]
 
 
 
@@ -79,9 +91,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Più alto numero di tripli di sorteggi nel torneo di round-robin*
+*Torneo senza pareggi: massimo numero di terne cicliche*
 
-> In un torneo con partecipanti $n \ge 3$, ogni due partecipanti hanno giocato esattamente una partita e non ci sono stati tassi. Un insieme di partecipanti a tre elementi è chiamato un triplo di pareggio se può essere enumerato in modo che il primo sconfigga il secondo, il secondo sconfigga il terzo e il terzo sconfigga il primo. Trova il maggior numero possibile di tripli di sorte in un tale torneo.
+> In un torneo con $n \ge 3$ partecipanti ogni coppia ha disputato esattamente una partita e non ci sono stati pareggi. Un insieme di tre partecipanti si dice terna ciclica se si possono enumerare in modo che il primo abbia battuto il secondo, il secondo il terzo e il terzo il primo. Trovare il massimo numero possibile di terne cicliche in un tale torneo.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2004_r3#q03|src_pol_2004_r3__Q03]]
 
 
 
@@ -105,9 +123,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inequità che coinvolge radici quadrate per reali a, b, c*
+*Per tre numeri reali, la somma delle radici di 2(a^2+b^2) e cicliche maggiora una radice di una forma quadratica*
 
-> Se $a, b, c$ sono numeri reali, dimostrare che $$\sqrt{2(a^2+b^2)} + \sqrt{2(b^2+c^2)} + \sqrt{2(c^2+a^2)} \ge \sqrt{3(a+b)^2 + 5(b+c)^2 + 3(c+a)^2}.$$
+> Se $a, b, c$ sono numeri reali, dimostrare che
+>
+> $$\sqrt{2(a^2+b^2)} + \sqrt{2(b^2+c^2)} + \sqrt{2(c^2+a^2)} \ge \sqrt{3(a+b)^2 + 5(b+c)^2 + 3(c+a)^2}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2004_r3#q04|src_pol_2004_r3__Q04]]
 
 
 
@@ -130,9 +156,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il maggior numero di linee equivalenti attraverso un punto nello spazio*
+*Massimo numero di rette per un punto dello spazio con angoli a due a due uguali*
 
-> Trova il maggior numero possibile di linee che attraversano un singolo punto nello spazio in modo tale che l'angolo tra due di esse sia lo stesso.
+> Trovare il massimo numero possibile di rette passanti per uno stesso punto dello spazio tali che l'angolo fra due qualunque di esse sia lo stesso.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_pol_2004_r3#q05|src_pol_2004_r3__Q05]]
 
 
 
@@ -157,6 +189,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Meno numero di termini consecutivi divisibili per m in una sequenza ricorsiva*
+*Successione che inizia con potenze di 2 e poi somma i precedenti m−1 termini: massima lunghezza di un blocco di termini consecutivi divisibili per m*
 
-> Si dà un numero intero $m > 1$. La sequenza infinita $x_1, x_2, x_3, \ldots$ è definita da $$x_i = \begin{cases} 2^i & \text{for } i < m, \\ x_{i-1} + x_{i-2} + \cdots + x_{i-m+1} & \text{for } i \ge m. \end{cases}$$ Trova il numero naturale più grande $k$ in modo tale che esistano $k$ termini successivi di questa sequenza che sono divisibili da $m$.
+> È dato un intero $m > 1$. La successione infinita $x_1, x_2, x_3, \ldots$ è definita da
+>
+> $$x_i = \begin{cases} 2^i & \text{for } i < m, \\ x_{i-1} + x_{i-2} + \cdots + x_{i-m+1} & \text{for } i \ge m. \end{cases}$$
+>
+> Trovare il massimo numero naturale $k$ tale che esistano $k$ termini consecutivi di questa successione divisibili per $m$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_pol_2004_r3#q06|src_pol_2004_r3__Q06]]

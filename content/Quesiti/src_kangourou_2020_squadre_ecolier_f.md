@@ -25,19 +25,23 @@ level: squadre
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0092
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many years a year with two digits repeated*
+*How many years from 2020 until the year again uses only two digits, each twice?*
 
-> Only two digits
-> In how many years starting from 2020, for the first time, will the number denoting the year again be
-> composed using only two digits, each twice?
+> Two digits only
+>
+> How many years from 2020 will it be, for the first time, before the number of the year is again made up using only two digits, each of them twice?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0092
+[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q01|src_kangourou_2020_squadre_ecolier_f__Q01]]
 
 
 
@@ -59,22 +63,23 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0039
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the path of the ant on the box*
+*How many decimetres long is the ant's path?*
 
 > On the box
-> In the figure you see a box: its edges measure 2 decimetres,
-> another 2 decimetres and 5 decimetres. An ant has started from point A
-> of the box and has reached point B following on the surface the
-> path highlighted in bold. How many decimetres is this
-> path long?
+>
+> In the picture you see a box: its edges measure 2 decimetres, another 2 decimetres and 5 decimetres. An ant started at point A of the box and reached point B, following on the surface the path marked in bold. How many decimetres long is this path?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0039
+[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q02|src_kangourou_2020_squadre_ecolier_f__Q02]]
 
 
 
@@ -97,22 +102,28 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0034
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different schemes for climbing 8 steps (1 or 2)*
+*In how many different ways can Pietro climb the stairs?*
 
 > The steps
-> To enter Pietro's house there are 8 steps. When he is in a hurry Pietro takes some of the steps (or
-> even all) two at a time. For example he can climb the stairs according to these patterns
+>
+> To enter Pietro's house there are 8 steps. When he is in a hurry, Pietro takes some of the steps (or even all of them) two at a time. For example, he can go up the stairs in these patterns:
+>
 > 1, 1, 2, 2, 1, 1 or 1, 1, 1, 1, 1, 2, 1 or 2, 2, 2, 2.
-> According to how many different patterns can Pietro climb the stairs, depending on how much of a hurry he is in (possibly
-> none)?
+>
+> In how many different patterns can Pietro go up the stairs, depending on how much of a hurry he is in (possibly none at all)?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0034
+[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q03|src_kangourou_2020_squadre_ecolier_f__Q03]]
 
 
 
@@ -136,23 +147,24 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0341
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*White squares in the tenth square*
+*How many white little squares are there in the tenth square?*
 
 > White little squares
-> The figure shows you in succession three squares, each obtained by placing side by side in
-> alternating fashion white or black little squares; the border of each is made up of
-> white little squares. The second square is the smallest after the first that
-> respects this rule and the third is the smallest after the second. If you continue
-> in the construction of these squares, respecting these criteria, how many white little squares will there be in the
-> tenth square?
+>
+> The picture shows three squares in succession, each made by placing white and black little squares alternately; the border of each is made of white little squares. The second square is the smallest after the first that follows this rule, and the third is the smallest after the second. If you go on building these squares, following these rules, how many white little squares will there be in the tenth square?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0341
+[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q04|src_kangourou_2020_squadre_ecolier_f__Q04]]
 
 
 
@@ -172,19 +184,24 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0030
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ways to write 546 as a sum of multiples of 3*
+*In how many ways can 546 be written as such a sum?*
 
 > With sum 546
-> In how many ways can I write 546 as the sum of a three-digit number and a two-digit number,
-> both multiples of 3?
+>
+> In how many ways can I write 546 as the sum of a three-digit number and a two-digit number, both multiples of 3?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0030
+[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q05|src_kangourou_2020_squadre_ecolier_f__Q05]]
 
 
 
@@ -204,20 +221,23 @@ level: squadre
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0036
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alda's age (months years double Carlo's)*
+*How old is Alda?*
 
 > Alda's age
-> Alda and her children, Betta and Carlo, have their birthdays on the same day. This year all together
-> they turned 45 years old. It is known that Betta has a number of months equal to the number of years of her mother
-> and that Carlo's age is double Betta's. How old is Alda?
+>
+> Alda and her children, Betta and Carlo, have their birthdays on the same day. This year, all together, they turned 45. It is known that the number of months in Betta's age equals the number of years in her mother's age, and that Carlo's age is twice Betta's. How old is Alda?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0036
+[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q06|src_kangourou_2020_squadre_ecolier_f__Q06]]
 
 
 
@@ -238,20 +258,24 @@ level: squadre
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0405
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum euros of Marta with 20 banknotes*
+*What is the most euros Marta can have?*
 
 > Marta's euros
-> Marta counts her savings: she has twenty banknotes of 4 different values. She has only one 50 € banknote,
-> while the 10 € and 5 € banknotes are equal in number but fewer than the 20 € banknotes.
-> How many euros does Marta have at most?
+>
+> Marta counts her savings: she has twenty notes of 4 different values. She has only one 50-euro note, while the 10-euro notes and the 5-euro notes are equal in number, but fewer than the 20-euro notes. What is the most euros Marta can have?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0405
+[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q07|src_kangourou_2020_squadre_ecolier_f__Q07]]
 
 
 
@@ -272,20 +296,24 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8880
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Padlock code (even digits sum 4x6)*
+*Which code did Diana use?*
 
 > The code
-> Diana locked her suitcase with a combination lock. The code is the largest four-digit number
-> made up only of even digits, such that the sum of the digits is the product of the day and month of
-> Diana's birth. Diana was born on June 4: what code did she use?
+>
+> Diana locked her suitcase with a combination lock. The code is the largest four-digit number made only of even digits such that the sum of the digits is the product of the day and the month of Diana's birth. Diana was born on 4 June: which code did she use?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 8880
+[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q08|src_kangourou_2020_squadre_ecolier_f__Q08]]
 
 
 
@@ -308,22 +336,24 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0012
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum segments to see 55 squares*
+*What is the least number of segments needed?*
 
 > 55 squares
-> The figure you see is obtained by arranging 6 segments in a suitable way, all of the
-> same length. In it you can see 5 squares in all, four equal and one large
-> that contains them. If you want to make a figure in which 55 squares are seen in
-> all, what is the minimum number of segments, all of the same length, that will be
-> enough to put together?
+>
+> The figure you see is made by arranging 6 segments, all of the same length, in a suitable way. In it you can see 5 squares in all: four equal ones and one large one that contains them. To make a figure in which 55 squares can be seen in all, what is the least number of segments, all of the same length, that will do?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 0012
+[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q09|src_kangourou_2020_squadre_ecolier_f__Q09]]
 
 
 
@@ -344,21 +374,23 @@ level: squadre
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0480
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many thalers was the cauldron worth (contract)*
+*How many thalers was the cauldron worth?*
 
 > The contract
-> A long time ago a farmer had hired a herdsman with this contract: for a year of
-> work he would give him 1200 thalers and a copper cauldron. But after seven months the herdsman decided to
-> leave and the farmer, respecting the value of the contract, paid him 500 thalers and a copper cauldron.
-> How many thalers was the cauldron worth?
+>
+> Long ago a farmer hired a herdsman on this contract: for a year's work he would give him 1200 thalers and a copper cauldron. But after seven months the herdsman decided to leave, and the farmer, keeping to the value of the contract, paid him 500 thalers and a copper cauldron. How many thalers was the cauldron worth?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0480
+[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q10|src_kangourou_2020_squadre_ecolier_f__Q10]]
 
 
 
@@ -380,22 +412,23 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0021
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the two numbers swapped in the magic square*
+*What is the sum of the two swapped numbers?*
 
 > The swapped numbers
-> Silvia wanted to build a 4×4 magic square using all the numbers from 1 to 16.
-> In a magic square, the sums of the numbers in each
-> row must be equal, as must the sums of the numbers in each column; but Silvia, by mistake,
-> inserted two numbers by swapping their positions and the result is what you see
-> in the figure. What is the sum of the two swapped numbers?
+>
+> Silvia wanted to build a 4×4 magic square using all the numbers from 1 to 16. In a magic square the sums of the numbers in each row must be equal, and so must the sums of the numbers in each column; but Silvia, by mistake, entered two numbers in each other's places, and the result is what you see in the picture. What is the sum of the two swapped numbers?
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0021
+[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q11|src_kangourou_2020_squadre_ecolier_f__Q11]]
 
 
 
@@ -415,19 +448,24 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0037
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*4-digit numbers with thousands digit 1 and three equal digits*
+*How many such four-digit integers are there?*
 
 > Three equal digits
-> How many four-digit integers have at least three equal digits and whose thousands digit
-> is 1?
+>
+> How many four-digit integers are there that have at least three equal digits and whose thousands digit is 1?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0037
+[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q12|src_kangourou_2020_squadre_ecolier_f__Q12]]
 
 
 
@@ -448,21 +486,25 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0048
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the grey star at the centre of the hexagons*
+*What is the area of the grey star?*
 
 > The star
-> All the white hexagons you see in the figure are equal and each of them has
-> area 24 cm². What is the area (in square centimeters) of the gray star in the center?
-> If you do not know what the area of a figure is, think of it as the amount of
-> paint that would be needed to fill the whole figure.
+>
+> All the white hexagons you see in the picture are equal, and each of them has area 24 cm². What is the area, in square centimetres, of the grey star at the centre?
+>
+> If you do not know what the area of a figure is, think of it as the amount of paint that would be needed to fill the whole figure.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0048
+[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q13|src_kangourou_2020_squadre_ecolier_f__Q13]]
 
 
 
@@ -483,20 +525,24 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0101
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of tokens of Alessio (residues 1 2 3)*
+*How many counters does Alessio have?*
 
-> Alessio's tokens
-> Alessio has fewer than 200 tokens, all identical. If he gathers them in groups of 5, one token remains; if he
-> gathers them in groups of 9, 2 remain; if he gathers them in groups of 7, 3 remain. How many
-> tokens does Alessio have?
+> Alessio's counters
+>
+> Alessio has fewer than 200 counters, all alike. If he gathers them in groups of 5, one counter is left over; if he gathers them in groups of 9, 2 are left over; if he gathers them in groups of 7, 3 are left over. How many counters does Alessio have?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0101
+[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q14|src_kangourou_2020_squadre_ecolier_f__Q14]]
 
 
 
@@ -519,19 +565,21 @@ level: squadre
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0042
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LK8JISTO08OBMwd8gzC513iPpFUgCAqj/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alfonso's Euro before the first trip (magic ferry)*
+*How many euros did Alfonso have before the first crossing?*
 
 > The magic ferry
-> The ferry that allows you to cross from one shore to the other of the Greedy Strait is magic: at the end of
-> each trip each passenger finds themselves with double the money they had at departure. For each
-> trip each passenger pays 24 euros at boarding. Alfonso crosses the strait three times without ever
-> spending anything other than the cost of the ferry nor earning money in any other way. Having paid for the third trip,
-> he no longer has any money: how many euros did Alfonso have before the first trip?
+>
+> The ferry that takes you from one bank of the Avido Strait to the other is magic: at the end of each crossing every passenger finds himself with twice the money he had at the start. For each crossing every passenger pays 24 euros on boarding. Alfonso crosses the strait three times, never spending anything but the fare and never gaining money in any other way. Once he has paid for the third crossing he has no money left. How many euros did Alfonso have before the first crossing?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0042
+[[Quesiti/src_kangourou_2020_squadre_ecolier_f#q15|src_kangourou_2020_squadre_ecolier_f__Q15]]

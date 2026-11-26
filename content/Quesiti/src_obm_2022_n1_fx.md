@@ -37,17 +37,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piramida di cubetti della stessa dimensione: base di conteggio, facce dipinte*
+*Piramide di cubi della stessa dimensione: conta la base, le facce dipinte*
 
-> Janaína costruì una figura a forma di piramide, come mostrato nel disegno di seguito. La figura è stata realizzata col colgendo cubetti della stessa dimensione. C'è 1 cubo nel primo (superiore) strato, 3 cubes nel secondo e 6 cubes nel terzo.
-> 
-> (a) Quanti cubetti ha usato nella base (quarto strato)? Ha dipinto tutti i volti della figura, comprese le facce laterali e il fondo, perché non appaiono nel disegno.
-> 
-> (b) Quanti cubetti avranno esattamente tre facce dipinte?
-> 
-> (c) Quanti cubetti avranno esattamente una faccia dipinta?
+> Janaína ha costruito una figura a forma di piramide, come mostrato nel disegno sottostante. La figura è stata realizzata incollando cubi della stessa dimensione. Nel primo strato (quello superiore) c'è 1 cubo, nel secondo 3 cubi e nel terzo 6 cubi.
+>
+> (a) Quanti cubi ha usato nella base (quarto strato)? Ha dipinto tutte le facce della figura, comprese le facce laterali e il fondo, perché non compaiono nel disegno.
+>
+> (b) Quanti cubi avranno esattamente 3 facce dipinte?
+>
+> (c) Quanti cubi avranno esattamente 1 faccia dipinta?
 
 ![[src_obm_2022_n1_fx__q01.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2022_n1_fx#q01|src_obm_2022_n1_fx__Q01]]
 
 
 
@@ -74,13 +81,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri di coppie: la somma dei quadrati di cifre è uguale a una potenza di 4*
+*Numeri copeiro: la somma dei quadrati delle cifre è uguale a una potenza di 4*
 
-> Un intero positivo è chiamato *copeiro* se la somma dei quadrati delle sue cifre in rappresentazione decimale è uguale a una potenza di $4$. Ad esempio, $32111$ è un numero di copeiro di 5 cifre, dal momento che $3^2 + 2^2 + 1^2 + 1^2 + 1^2 = 16 = 2^4$.
-> 
-> (a) Esiste un numero a tre cifre tale che la somma dei quadrati delle sue cifre sia uguale a $4^4$? Non dimenticare che devi giustificare la tua risposta.
-> 
-> b) Quali sono i due numeri più grandi di 3 cifre?
+> Un numero intero positivo è detto *copeiro* se la somma dei quadrati delle sue cifre nella rappresentazione decimale è uguale a una potenza di $4$. Ad esempio, $32111$ è un numero copeiro di 5 cifre, poiché $3^2 + 2^2 + 1^2 + 1^2 + 1^2 = 16 = 2^4$.
+>
+> (a) Esiste un numero di tre cifre tale che la somma dei quadrati delle sue cifre sia uguale a $4^4$? Non dimenticare che devi giustificare la tua risposta.
+>
+> (b) Quali sono i due numeri copeiro di tre cifre più grandi?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2022_n1_fx#q02|src_obm_2022_n1_fx__Q02]]
 
 
 
@@ -115,21 +129,28 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti medi quadrati area quadrata interna; ottagone tagliato in angoli trapezoi*
+*Area del quadrato interno formato dai punti medi dei lati del quadrato; ottagono tagliato in trapezi agli angoli*
 
-> (a) Pedro ha costruito un quadrato laterale $2$ utilizzando quattro piccoli quadrati laterali unitari. Collegando i punti di mezzo dei lati del quadrato più grande, Pedro costruì un quadrato evidenziato nella figura. Determinare l'area e il perimetro del quadrato evidenziato.
-> 
-> b) Pedro ha preso un ottagono regolare $ABCDEFGH$ del lato $1$. L'ha tagliato in parti $4$ e le ha riorganizzate per formare la seconda figura. Si noti che i triangoli $A_1BE_1$ e $A_2HE_2$ corrispondono rispettivamente ai triangoli $ABE$ e $AHE$.
-> 
-> Calcolare gli angoli interni del trapezzo $BCDE$.
-> 
-> *Si può usare il fatto che ogni angolo interno di un poligono regolare con i lati $n$ ha misura $\frac{(n-2) \cdot 180^\circ}{n}$.*
-> 
-> c) Spiega perché i punti $B$, $A_1$, $A_2$ e $H$ si trovano sulla stessa linea retta nella seconda figura.
-> 
-> d) Determinare la lunghezza del segmento $E_1 E_2$.
+> (a) Pedro ha costruito un quadrato di lato $2$ utilizzando quattro piccoli quadrati di lato unitario. Unendo i punti medi dei lati del quadrato più grande, Pedro ha costruito nel disegno un quadrato evidenziato. Determinare l'area e il perimetro del quadrato evidenziato.
+>
+> (b) Pedro ha preso un ottagono regolare $ABCDEFGH$ con lato $1$. Lo ha tagliato in $4$ parti e le ha riorganizzate per formare la seconda figura. Si noti che i triangoli $A_1BE_1$ e $A_2HE_2$ corrispondono rispettivamente ai triangoli $ABE$ e $AHE$.
+>
+> Calcola gli angoli interni del trapezio $BCDE$.
+>
+> *Puoi utilizzare il fatto che ciascun angolo interno di un poligono regolare con $n$ lati ha ampiezza $\frac{(n-2) \cdot 180^\circ}{n}$.*
+>
+> (c) Spiega perché i punti $B$, $A_1$, $A_2$ e $H$ giacciono sulla stessa retta nella seconda figura.
+>
+> (d) Determina la lunghezza del segmento $E_1 E_2$.
 
 ![[src_obm_2022_n1_fx__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2022_n1_fx#q03|src_obm_2022_n1_fx__Q03]]
 
 
 
@@ -158,15 +179,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti di torneo di calcio: prove/trova vincite min e vincoli di punteggio*
+*Punti del torneo di calcio: prove/trova il minimo di vittorie e vincoli sul punteggio*
 
-> Otto squadre di calcio giocano un torneo in cui ciascuna squadra gioca esattamente una volta contro ciascuna delle altre squadre. Ogni vittoria vale $3$ punti, ogni perdita vale $0$ punti, e in caso di pareggio, ogni squadra guadagna $1$ punti.
-> 
-> a) dimostrare che non è possibile che una squadra abbia vincite $3$ e che tutte le altre squadre abbiano vincite $4$ o più.
-> 
-> b) dimostrare che è possibile che, alla fine del torneo, la squadra con più punti abbia vinto meno di ciascuna delle altre squadre.
-> 
-> (c) Supponiamo che una delle squadre abbia ottenuto più punti di tutte le altre combinate e meno vincite di tutte le altre. Qual è il numero minimo di vittorie che la squadra può avere?
+> Otto squadre di calcio partecipano a un torneo in cui ciascuna squadra affronta esattamente una volta ciascuna delle altre squadre. Ogni vittoria vale $3$ punti, ogni sconfitta vale $0$ punti e, in caso di pareggio, ciascuna squadra ottiene $1$ punto.
+>
+> (a) Dimostrare che non è possibile che una squadra abbia $3$ vittorie e che tutte le altre abbiano $4$ o più vittorie.
+>
+> (b) Dimostrare che è possibile che, al termine del torneo, la squadra con il maggior numero di punti abbia ottenuto meno vittorie di ciascuna delle altre squadre.
+>
+> (c) Supponiamo che una delle squadre abbia totalizzato più punti di tutte le altre messe insieme e abbia ottenuto meno vittorie di tutte le altre. Qual è il numero minimo di vittorie che quella squadra può avere?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2022_n1_fx#q04|src_obm_2022_n1_fx__Q04]]
 
 
 
@@ -200,16 +228,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2022-partido numeri: suddivisi in metà il cui prodotto è uguale all'originale*
+*Numeri della partita 2022: suddivisi in due metà il cui prodotto è uguale al numero originale*
 
-> Un intero positivo $N$ è denominato *2022-partido* se ha le seguenti proprietà:
-> 
-> - ha le cifre $2k$ per un intero positivo $k$. - Se $X$ è il numero formato dalle prime cifre $k$ di $N$ e $Y$ il numero formato dalle ultime cifre $k$ di $N$ nell'ordine in cui appaiono in $N$, abbiamo $N = 20 \cdot X + 22 \cdot Y$.
-> 
-> Per esempio, $2022$ e $101045$ non sono numeri di partido del 2022, poiché $20 \cdot 20 + 22 \cdot 22 = 884 \neq 2022$ e $20 \cdot 101 + 22 \cdot 45 = 3010 \neq 101045$.
-> 
-> a) Determinare tutti i numeri partido del 2022 di 2 cifre.
-> 
-> b) Determinare tutti i numeri di partido del 2022 a 4 cifre.
-> 
-> c) Determinare tutti i numeri del partito 2022 di 6 cifre o più.
+> Un numero intero positivo $N$ è detto *2022-partido* se possiede le seguenti proprietà:
+>
+> - Ha $2k$ cifre per un certo intero positivo $k$.
+> - Ponendo $X$ come il numero formato dalle prime $k$ cifre di $N$ e $Y$ come il numero formato dalle ultime $k$ cifre di $N$ nell'ordine in cui compaiono in $N$, si ha $N = 20 \cdot X + 22 \cdot Y$.
+>
+> Ad esempio, $2022$ e $101045$ non sono numeri del-partido 2022, poiché $20 \cdot 20 + 22 \cdot 22 = 884 \neq 2022$ e $20 \cdot 101 + 22 \cdot 45 = 3010 \neq 101045$.
+>
+> (a) Determina tutti i numeri partido da 2022 a due cifre.
+>
+> (b) Determina tutti i numeri 2022-partido di 4 cifre.
+>
+> (c) Determina tutti i numeri partido 2022 di 6 o più cifre.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2022_n1_fx#q05|src_obm_2022_n1_fx__Q05]]

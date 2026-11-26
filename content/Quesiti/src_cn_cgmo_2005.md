@@ -31,11 +31,18 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove CE/BF = AJ/AK utilizzando bisettori circoncircolari e perpendicolari*
+*Dimostrare che CE/BF = AJ/AK utilizzando la circonferenza circoscritta e le mediatrici*
 
-> Come mostrato nella figura seguente, il punto $P$ si trova sul circoncircolo del triangolo $ABC$. Le linee $AB$ e $CP$ si incontrano a $E$ e le linee $AC$ e $BP$ si incontrano a $F$. Il bisettore perpendicolare del segmento di linea $AB$ incontra il segmento di linea $AC$ a $K$, e il bisettore perpendicolare del segmento di linea $AC$ incontra il segmento di linea $AB$ a $J$. Provare che $$\frac{CE}{BF} = \frac{AJ}{AK}.$$
+> Come mostrato nella figura seguente, il punto $P$ giace sulla circonferenza circoscritta al triangolo $ABC$. Le rette $AB$ e $CP$ si incontrano in $E$, e le rette $AC$ e $BP$ si incontrano in $F$. La mediatrice del segmento $AB$ incontra il segmento $AC$ in $K$, e la mediatrice del segmento $AC$ incontra il segmento $AB$ in $J$. Dimostrare che $$\frac{CE}{BF} = \frac{AJ}{AK}.$$
 
 ![[src_cn_cgmo_2005__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cgmo_2005#q01|src_cn_cgmo_2005__Q01]]
 
 
 
@@ -59,11 +66,16 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli veri che soddisfano un sistema con i coefficienti 12 e 13*
+*Trovare tutte le terne reali che soddisfano un sistema con coefficienti 12 e 13*
 
-> Trovare tutti i triples $(x, y, z)$ dei numeri reali in modo tale che $$\left\{\begin{array}{l} \left(x + \tfrac{1}{2}\right)^2 = 12\left(y + \tfrac{1}{2}\right),\\[4pt] \left(y + \tfrac{1}{2}\right)^2 = 13\left(z + \tfrac{1}{2}\right),\\[4pt] xy + yz + zx = 1. \end{array}\right.$$
+> Trovare tutte le terne $(x, y, z)$ di numeri reali tali che $$\left\{\begin{array}{l} \left(x + \tfrac{1}{2}\right)^2 = 12\left(y + \tfrac{1}{2}\right),\\[4pt] \left(y + \tfrac{1}{2}\right)^2 = 13\left(z + \tfrac{1}{2}\right),\\[4pt] xy + yz + zx = 1. \end{array}\right.$$
 
-**Risposta:** $\left(\tfrac{1}{5}, \tfrac{2}{3}, 1\right)$ e $\left(-\tfrac{1}{5}, \tfrac{2}{3}, 1\right)$
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cgmo_2005#q02|src_cn_cgmo_2005__Q02]]
 
 
 
@@ -91,13 +103,19 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine se esiste un poliedro convexo con specificata incidenza sul bordo della faccia*
+*Determinare se esiste un poliedro convesso con l'incidenza spigolo-faccia specificata*
 
-> Determinare se esiste un poliedro convex tale che (1) abbia 12 bordi, 6 facce e 8 vertici; (2) abbia 4 facce, ciascuna coppia di cui condivide un bordo comune del poliedro.
+> Determinare se esista un poliedro convesso tale che
+> (1) ha 12 spigoli, 6 facce e 8 vertici; (2) ha 4 facce, e ciascuna coppia di esse condivide uno spigolo comune del poliedro.
 
 ![[src_cn_cgmo_2005__q03.png]]
 
-**Risposta:** Sì
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_cn_cgmo_2005#q03|src_cn_cgmo_2005__Q03]]
 
 
 
@@ -125,11 +143,16 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i reali positivi a per i quali esiste una partizione valida degli integri*
+*Trovare tutti i numeri reali positivi a per i quali esiste una partizione valida degli interi*
 
-> Determinare tutti i numeri reali positivi $a$ in modo tale che esista un intero positivo $n$ e set $A_1, A_2, \cdots, A_n$ che soddisfino le seguenti condizioni: (1) ogni set $A_i$ ha finitamente molti elementi; (2) ogni coppia di set $A_i$ e $A_j$ distinte non condivide alcun elemento comune; (3) l'unione di set $A_1, A_2, \cdots, A_n$ è l'insieme di tutti gli enti; (4) per ogni set $A_i$, la differenza positiva di qualsiasi coppia di elementi in $A_i$ è almeno $a^i$.
+> Determinare tutti i numeri reali positivi $a$ tali che esistano un numero intero positivo $n$ e degli insiemi $A_1, A_2, \cdots, A_n$ che soddisfino le seguenti condizioni: (1) ogni insieme $A_i$ ha un numero finito di elementi; (2) ogni coppia di insiemi distinti $A_i$ e $A_j$ non ha alcun elemento in comune; (3) l'unione degli insiemi $A_1, A_2, \cdots, A_n$ è l'insieme di tutti gli interi; (4) per ogni insieme $A_i$, la differenza positiva di qualsiasi coppia di elementi in $A_i$ è almeno $a^i$.
 
-**Risposta:** $0 < a < 2$
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cgmo_2005#q04|src_cn_cgmo_2005__Q04]]
 
 
 
@@ -152,9 +175,16 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove il limite superiore x^2+4y^2 ≤ 2/9 dato i risultati positivi che soddisfano la limitazione*
+*Dimostra la maggiorazione x^2+4y^2 ≤ 2/9, dati numeri reali positivi che soddisfano il vincolo*
 
-> $x, y$ siano numeri reali positivi con $x^2 + 4y^2 = x - y$. Prove che $x^2 + 4y^2 \le \dfrac{2}{9}$.
+> Siano $x, y$ numeri reali positivi con $x^2 + 4y^2 = x - y$. Dimostrare che $x^2 + 4y^2 \le \dfrac{2}{9}$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cgmo_2005#q05|src_cn_cgmo_2005__Q05]]
 
 
 
@@ -180,11 +210,16 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Definire un buon intero attraverso condizioni razionali/irrazionali del punto reticolo; trovare il minimo e eseguire la prova 2005*
+*Definisci un buon numero intero tramite condizioni razionali/irrazionali relative ai punti della reticolazione; trova il minimo e verifica 2005*
 
-> Un numero intero $n$ è chiamato un numero buono se $n \ge 3$ e ci sono $n$ punti reticolari $P_1, P_2, \cdots, P_n$ nel piano delle coordinate che soddisfano le seguenti condizioni. Se il segmento di linea $P_iP_j$ ha una lunghezza razionale (irrazionale), allora $P_i$ è tale che entrambi i segmenti di linea $P_iP_k$ e $P_iP_l$ abbiano lunghezze irrazionali; e se il segmento di linea $P_iP_j$ ha una lunghezza irrazionale, allora c'è $P_k$ tale che entrambi i segmenti di linea $P_kP_i$ e $P_kP_j$ abbiano lunghezze razionali. (Un punto del piano delle coordinate è un punto reticolare se entrambe le sue coordinate sono numeri interi.) (1) Determina il numero buono minimo. (2) Determinare se il 2005 è un buon numero.
+> Un numero intero $n$ è detto numero buono se $n \ge 3$ e esistono $n$ punti della griglia $P_1, P_2, \cdots, P_n$ nel piano cartesiano che soddisfano le seguenti condizioni. Se il segmento di retta $P_iP_j$ ha lunghezza razionale (irrazionale), allora $P_i$ è tale che entrambi i segmenti di retta $P_iP_k$ e $P_iP_l$ hanno lunghezza irrazionale; e se il segmento di retta $P_iP_j$ ha lunghezza irrazionale, allora esiste $P_k$ tale che entrambi i segmenti di retta $P_kP_i$ e $P_kP_j$ hanno lunghezza razionale. (Un punto del piano cartesiano è un punto della griglia se entrambe le sue coordinate sono numeri interi.) (1) Determina il numero buono minimo. (2) Determina se 2005 è un numero buono.
 
-**Risposta:** Il minimo numero buono è 5; 2005 è un numero buono.
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_cn_cgmo_2005#q06|src_cn_cgmo_2005__Q06]]
 
 
 
@@ -207,9 +242,16 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa provata di reciprocità ≤ (m+n)/m per un sottogruppo di anticetene di {1,...,m}*
+*Dimostrare che la somma dei reciproci è ≤ (m+n)/m per un sottoinsieme anticatena di {1,...,m}*
 
-> $m$ e $n$ siano integri positivi con $m \ge 2$. L'insieme $S = \{1, 2, \cdots, m\}$ e $T = \{a_1, a_2, \cdots, a_k\}$ è un sottoinsieme di $S$ in modo tale che ogni numero di $S$ non sia divisibile da due numeri distinti di $T$. Provare che $$\frac{1}{a_1} + \frac{1}{a_2} + \cdots + \frac{1}{a_k} \le \frac{m+n}{m}.$$
+> Siano $m$ e $n$ numeri interi positivi tali che $m \ge 2$. Si ponga $S = \{1, 2, \cdots, m\}$ e $T = \{a_1, a_2, \cdots, a_k\}$ è un sottoinsieme di $S$ tale che ogni numero in $S$ non è divisibile per nessuna coppia di numeri distinti in $T$. Dimostrare che $$\frac{1}{a_1} + \frac{1}{a_2} + \cdots + \frac{1}{a_k} \le \frac{m+n}{m}.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_induzione|Induzione]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cgmo_2005#q07|src_cn_cgmo_2005__Q07]]
 
 
 
@@ -233,8 +275,13 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la lunghezza laterale minima di un quadrato che copre un rettangolo a×b*
+*Trovare la lunghezza minima del lato di un quadrato che ricopre un rettangolo a×b*
 
-> Se si considera un rettangolo $a \times b$ con $a > b > 0$, determinare la lunghezza minima di un quadrato che copre il rettangolo. (Un quadrato copre il rettangolo se ogni punto del rettangolo si trova all'interno del quadrato.)
+> Dato un rettangolo $a \times b$ con $a > b > 0$, determina la lunghezza minima di un quadrato che ricopra il rettangolo. (Un quadrato ricopre il rettangolo se ogni punto del rettangolo giace all'interno del quadrato.)
 
-**Risposta:** $\min\!\left\{a,\, \dfrac{\sqrt{2}}{2}(a+b)\right\}$
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cgmo_2005#q08|src_cn_cgmo_2005__Q08]]

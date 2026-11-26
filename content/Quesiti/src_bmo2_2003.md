@@ -31,9 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triplici in AP con il più grande fattore primo del prodotto al massimo 3*
+*Terzine distinte in progressione aritmetica con $p(xyz) \le 3$*
 
-> Per ogni numero intero $n > 1$, $p(n)$ indica il più grande fattore primo di $n$. Determinare che tutti i triples $x, y, z$ di numeri interi positivi distinti che soddisfano i) $x, y, z$ sono in progressione aritmetica e ii) $p(xyz) \le 3$.
+> Per ogni intero $n > 1$, sia $p(n)$ il massimo fattore primo di $n$. Determinare tutte le terzine $x, y, z$ di interi positivi distinti che soddisfano
+> (i) $x, y, z$ sono in progressione aritmetica, e
+> (ii) $p(xyz) \le 3$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2003#q01|src_bmo2_2003__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto D con 4AD=AB, mezzo-linea all'angolo ACB incontra il circoncircolo a P, prova PB=2PD*
+*Dimostrare che $PB = 2PD$*
 
-> Che $ABC$ sia un triangolo e che $D$ sia un punto su $AB$ tale che $4AD = AB$. La semillinea $\ell$ è disegnata sullo stesso lato di $AB$ come di $C$, partendo da $D$, formando un angolo $\theta$ con $DA$ dove $\theta = \angle ACB$. Se la circoncirca di $ABC$ incontra la metà della linea $\ell$ a $P$, indicare che $PB = 2PD$.
+> Sia $ABC$ un triangolo e sia $D$ un punto su $AB$ tale che $4AD = AB$. La semiretta $\ell$ è tracciata dalla stessa parte di $AB$ in cui sta $C$, a partire da $D$, formando un angolo $\theta$ con $DA$, dove $\theta = \angle ACB$. Se la circonferenza circoscritta ad $ABC$ incontra la semiretta $\ell$ in $P$, dimostrare che $PB = 2PD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2003#q02|src_bmo2_2003__Q02]]
 
 
 
@@ -83,9 +99,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazione dei numeri interi positivi: mostrare f mappe alcuni AP a un AP*
+*Biezioni che mandano una progressione aritmetica in una progressione aritmetica*
 
-> Che $f : \mathbb{N} \to \mathbb{N}$ sia una bijezione dall'insieme di integri positivi $\mathbb{N}$ a se stesso. (i) Mostra che esiste una progressione aritmetica di enti interi positivi $a, a+d, a+2d, \ldots$ ($d > 0$) tale che $f(a), f(a+d), f(a+2d), \ldots$ sia anche una progressione aritmetica. (ii) Esiste una bijezione $f$ che mappa ogni progressione aritmetica a una progressione aritmetica? Quante funzioni $f$ esistono?
+> Sia $f : \mathbb{N} \to \mathbb{N}$ una biiezione dall'insieme degli interi positivi $\mathbb{N}$ in sé.
+> (i) Dimostrare che esiste una progressione aritmetica di interi positivi $a, a+d, a+2d, \ldots$ ($d > 0$) tale che $f(a), f(a+d), f(a+2d), \ldots$ sia anch'essa una progressione aritmetica.
+> (ii) Esiste una tale biiezione $f$ che manda ogni progressione aritmetica in una progressione aritmetica? Quante sono tali funzioni $f$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2003#q03|src_bmo2_2003__Q03]]
 
 
 
@@ -110,6 +135,15 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione su integri non negativi che soddisfano due condizioni, contare tutte queste funzioni*
+*Quante funzioni sugli interi non negativi soddisfano quella identità*
 
-> Lasciate che $f$ sia una funzione dall'insieme di integri non negativi a se stessa. (i) $\bigl(f\bigl(\tfrac{1}{2}(f(n)+1)\bigr) - 1\bigr)^2 = \bigl(f(n)\bigr)^2$ per tutti i $n \ge 0$ e $f(0) = 0$, $f(1) = 1$. (ii) Quante funzioni di questo tipo esistono?
+> Sia $f$ una funzione dall'insieme degli interi non negativi in sé.
+> (i) $\bigl(f\bigl(\tfrac{1}{2}(f(n)+1)\bigr) - 1\bigr)^2 = \bigl(f(n)\bigr)^2$ per ogni $n \ge 0$, e $f(0) = 0$, $f(1) = 1$.
+> (ii) Quante sono tali funzioni $f$?
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2003#q04|src_bmo2_2003__Q04]]

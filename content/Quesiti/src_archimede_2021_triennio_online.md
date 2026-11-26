@@ -36,7 +36,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What a power product and a perfect square*
+*Which product of powers is a perfect square*
 
 > Which of the following is the square of an integer?
 >
@@ -46,7 +46,11 @@ level: triennio
 > - **(D)** 3316 · 779 · 214
 > - **(E)** 3312 · 7716 · 219
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2021_triennio_online#q01|src_archimede_2021_triennio_online__Q01]]
 
 
 
@@ -77,9 +81,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles with two vertices of the same colour on the circumference*
+*Triangles with two vertices of the same colour on a circle*
 
-> Four red points, three green points, two yellow points, and two blue points are marked along a circumference. How many triangles can be obtained by choosing two vertices of the same color and a third of a different color?
+> On a circle there are four red points, three green points, two yellow points, two blue points. How many
+> triangles can be obtained by choosing two vertices of the same colour and the third of another colour?
 >
 > - **(A)** 65
 > - **(B)** 87
@@ -87,7 +92,11 @@ level: triennio
 > - **(D)** 84
 > - **(E)** 80
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2021_triennio_online#q02|src_archimede_2021_triennio_online__Q02]]
 
 
 
@@ -119,9 +128,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum value of 4-3/x with zero factor product*
+*Maximum value of 4-3/x with product of factors zero*
 
-> Knowing that (4x + 5) ((7x + 4) ((4x −5) = 0, what is the maximum value of 4 −3 x?
+> Knowing that (4x + 5)(7x + 4)(4x −5) = 0, what can be, at most, the value of
+> 4 −3
+> x ?
 >
 > - **(A)** 37/4
 > - **(B)** 19/2
@@ -129,7 +140,11 @@ level: triennio
 > - **(D)** 8/5
 > - **(E)** 44/5
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2021_triennio_online#q03|src_archimede_2021_triennio_online__Q03]]
 
 
 
@@ -162,17 +177,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Knights and thieves in the mail at the post office*
+*Knights and knaves in queues at the post office*
 
-> On an island where only knights (who always tell the truth) and crooks (who always tell the lies) live, the post office is quite crowded. There are four lines at the gates: one with 9 people, one with 11, one with 12 and one with 10 people. Each of the present (except the first three in each row) says this sentence: Among the people in front of me in my row there are at least three thieves. How many knights are there at the post office?
+> On the island where only knights (who always tell the truth) and knaves (who always lie) live, the post office is rather crowded. There are four queues at the counters: one with 9 people, one with 11, one with 12 and one with 10 people. Each of those present (except the first three in each queue) says: “among the people in front of me in my queue there are at least three knaves”. How many knights are there in all at the post office?
 >
-> - **(A)** It is not possible to establish
+> - **(A)** it cannot be determined
 > - **(B)** 21
 > - **(C)** 30
 > - **(D)** 26
 > - **(E)** 34
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2021_triennio_online#q04|src_archimede_2021_triennio_online__Q04]]
 
 
 
@@ -202,9 +221,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hexagon perimeter circumscribed at one circumference*
+*Perimeter of a hexagon circumscribed about a circle*
 
-> The ABCDEF axis is bounded by a circumference. Its sides AB, BC, CD and EF measure, respectively, 31 m, 15 m, 26 m and 19 m. What is the perimeter of the hexagon?
+> Hexagon ABCDEF is circumscribed about a circle. Its sides AB, BC, CD, EF measure, respectively,
+> 31 m, 15 m, 26 m, 19 m. What is the perimeter of the hexagon?
 >
 > - **(A)** 152 m
 > - **(B)** 154 m
@@ -212,7 +232,10 @@ level: triennio
 > - **(D)** 146 m
 > - **(E)** 148 m
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_triennio_online#q05|src_archimede_2021_triennio_online__Q05]]
 
 
 
@@ -243,9 +266,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of two comrades ending up in the same classroom*
+*Probability that two classmates end up in the same room*
 
-> Mira and Dino, fellow gamblers, are enrolled in the Games of Archimedes. The 50 participants are drawn, 35 in one room and 15 in another. What are the odds that Mira and Dino end up in the same room?
+> Mira and Dino, deskmates, are enrolled in the Giochi di Archimede. The 50 participants are randomly assigned 35 to one room and 15 to another. What is the probability that Mira and Dino end up in the same room?
 >
 > - **(A)** 3/5
 > - **(B)** 5/8
@@ -253,7 +276,11 @@ level: triennio
 > - **(D)** 4/7
 > - **(E)** 7/12
 
-**Answer:** D
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2021_triennio_online#q06|src_archimede_2021_triennio_online__Q06]]
 
 
 
@@ -284,9 +311,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies n with n^6+2n^5 multiplied by 49, sum of two*
+*Positive integers n with n^6 + 2n^5 divisible by 49; sum of the 2nd and 7th such numbers.*
 
-> Let's consider the positive integers n such that n6 + 2n5 is a multiple of 49. Assuming you have these values in ascending order, indicate the sum between the 2° and the 7° of these numbers.
+> Consider the positive integers n such that n^6 + 2n^5 is a multiple of 49. Assuming these values of n are arranged in increasing order, indicate the sum of the 2nd and 7th of these numbers.
 >
 > - **(A)** 53
 > - **(B)** 59
@@ -294,7 +321,11 @@ level: triennio
 > - **(D)** 61
 > - **(E)** 74
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2021_triennio_online#q07|src_archimede_2021_triennio_online__Q07]]
 
 
 
@@ -357,34 +388,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PQR triangular area from sub-triangular areas with cevial*
+*Area of triangle PQR from three small triangular areas*
 
 ![[src_archimede_2021_triennio_online__prob8.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (P) at (0,0);
-  \coordinate (R) at (6,0);
-  \coordinate (Q) at (2.6,3.6);
-  \coordinate (S) at (1.43,1.98);
-  \coordinate (T) at (4.47,1.62);
-  \coordinate (I) at (3.27,1.18);
-  \draw (P)--(Q)--(R)--cycle;
-  \draw (R)--(S);
-  \draw (P)--(T);
-  \fill (I) circle (1.4pt);
-  \node[above] at (Q) {$Q$};
-  \node[left] at (P) {$P$};
-  \node[right] at (R) {$R$};
-  \node[left] at (S) {$S$};
-  \node[right] at (T) {$T$};
-  \node[above left] at (I) {$I$};
-\end{tikzpicture}
-\end{document}
-```
-
-> In the PQR triangle, the points S and T belong, in order, to the sides PQ and QR. Given the intersection point of the RS and PT segments, the areas of the PIR, RIT and SIP triangles measure 3 mm2, 5 mm2 and 1 mm2 respectively. What is the area of the PQR triangle? P Q R S T I
+> In triangle PQR, the points S and T lie, in that order, on the sides PQ and QR. Let I be the intersection of the segments RS and PT. The areas of triangles PIR, RIT and SIP measure 3 mm2, 5 mm2 and 1 mm2 respectively. What is the area of triangle PQR?
 >
 > - **(A)** 18 mm2
 > - **(B)** 27 mm2
@@ -392,7 +400,12 @@ level: triennio
 > - **(D)** 21 mm2
 > - **(E)** 20 mm2
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2021_triennio_online#q08|src_archimede_2021_triennio_online__Q08]]
 
 
 
@@ -424,17 +437,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Infinite words on A,B avoiding certain letters*
+*Infinite words on A and B avoiding four three-letter sequences*
 
-> Emanuela writes words using only the letters A and B, respecting these conditions: each word cannot contain any of the sequences of three consecutive letters AAA, BBB, ABA, BBA. How many words of infinite length (i.e., continuing unlimitedly to the right) could Emanuel write?
+> Emanuela writes words using only the letters A and B, under these conditions: no word may contain any of the consecutive three-letter sequences AAA, BBB, ABA, BBA. How many words of infinite length (that is, continuing without bound to the right) could Emanuela write?
 >
-> - **(A)** None of them.
+> - **(A)** none
 > - **(B)** 4
 > - **(C)** 2
 > - **(D)** 3
-> - **(E)** Endless
+> - **(E)** infinitely many
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2021_triennio_online#q09|src_archimede_2021_triennio_online__Q09]]
 
 
 
@@ -467,9 +484,13 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Adm angle in parallelogram with conic points*
+*Angle ADM in a parallelogram with concyclic points*
 
-> In an ABCD parallelogram where bA = 84°, M is a point on the AB side and N is a point on the BC side such that MC = CD and DM = MN. The points C, D, M, N belong to the same circumference. What is the width of the angle \ ADM ?
+> In a parallelogram ABCD where bA = 84°, let M be a point on side AB and N be a point on side BC such that
+> MC = CD and DM = MN.
+> The points C, D, M, N belong to the same circle. What is the measure
+> of the angle \
+> ADM ?
 >
 > - **(A)** 33°
 > - **(B)** 24°
@@ -477,7 +498,10 @@ level: triennio
 > - **(D)** 30°
 > - **(E)** 36°
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_triennio_online#q10|src_archimede_2021_triennio_online__Q10]]
 
 
 
@@ -508,17 +532,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Function with two symmetries, sum of values*
+*Sum of values of a function with two symmetries*
 
-> The real-valued function f satisfies the equations f(x) = f(2021 −x) and f(x + 10) = f(2010 −x), for any real number x. If we know that f(2) + f(3) + f(4) = 4, what is the value of f(16) + f(17) + f(18) + f(19) ?
+> The real-valued function f satisfies the equalities f(x) = f(2021 −x) and f(x + 10) = f(2010 −x), for every real number x. Given that f(2) + f(3) + f(4) = 4, what is the value of f(16) + f(17) + f(18) + f(19)?
 >
-> - **(A)** It is not possible to establish
+> - **(A)** it cannot be determined
 > - **(B)** 19
 > - **(C)** 15/4
 > - **(D)** 9/2
 > - **(E)** 16/3
 
-**Answer:** E
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2021_triennio_online#q11|src_archimede_2021_triennio_online__Q11]]
 
 
 
@@ -549,14 +577,18 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values of k with a polynomial with double root of the other*
+*Sum of the real k for which one root is twice the other*
 
-> Consider real k such that the polynomial p(x) = x2 −(k + 1)x + (k + 2) has a root that is double the other. Indicate the sum of all these values k.
+> Consider the real values of k such that the polynomial p(x) = x2 −(k + 1)x + (k + 2) has one root that is twice the other. Give the sum of all such values of k.
 >
 > - **(A)** 1/2
 > - **(B)** 7/4
 > - **(C)** 5/2
 > - **(D)** 23/2
-> - **(E)** I'm not going to be able to do this.
+> - **(E)** 19/2
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2021_triennio_online#q12|src_archimede_2021_triennio_online__Q12]]

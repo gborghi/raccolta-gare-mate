@@ -32,13 +32,18 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Addition with matches: find digits to be deleted*
+*Matchstick addition: find digits to remove*
 
-> Remove two matches from the figure so that the addition is accurate. (On the answer sheet, place a crochet on the two match to be removed)
+> Remove two matchsticks from the figure so that the addition is exact. (On the answer sheet, put a cross next to the two matchsticks to be removed.)
 
 ![[src_bocconi_semifinale_2010__q01.png]]
 
-**Answer:** Remove the matches that turn the addition into $8 + 6 = 16$ (removing two specific segments)
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2010#q01|src_bocconi_semifinale_2010__Q01]]
 
 
 
@@ -64,13 +69,18 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Form in the maze: maximum distance to be walked*
+*Formica in the Labyrinth: Maximum Distancable Distance*
 
-> In the labyrinth of the figure, an ant begins its journey from $A$. The rules of the route stipulate that it may pass several times at the same junction but may not cross the same corridor more than once. What is the maximum distance the ant can travel (by the rules)? Note: the ant does not necessarily have to return to where it started walking at $A$; each straight line segment (as shown in Figure) is $1$ cm.
+> In the labyrinth of the figure, an ant begins its journey from $A$. The rules of the walk stipulate that the ant may pass through the same junction multiple times but may not take the same corridor more than once. What is the maximum distance the ant can travel (while following the rules)? Note: the ant is not required to return to where it started by walking to point $A$; each straight segment (as indicated in the figure) is $1$ cm long.
 
 ![[src_bocconi_semifinale_2010__q02.png]]
 
-**Answer:** 9 cm
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2010#q02|src_bocconi_semifinale_2010__Q02]]
 
 
 
@@ -96,13 +106,18 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Box numbers: sums of the two boxes equal*
+*Numbers in the box: sums of the two boxes are equal*
 
-> The two boxes in the figure contain six numbers each. Luke wants to be able to make the sums of the two boxes equal, taking as few numbers as possible. What numbers does Luca have to take out?
+> The two boxes in the figure each contain 6 numbers. Luca wants to make the sums of the two boxes equal by removing as few numbers as possible. Which numbers must Luca remove?
 
 ![[src_bocconi_semifinale_2010__q03.png]]
 
-**Answer:** Luca must remove 5 and 11
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2010#q03|src_bocconi_semifinale_2010__Q03]]
 
 
 
@@ -128,13 +143,18 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-Magic square 3x3: reconstruct the missing values
+*3x3 magic square: reconstruct the missing values*
 
-> A magic square $3 \times 3$ is a square pattern of 9 boxes arranged on three rows and three columns such that the sum of the numbers of any row, any column and each of the two diagonals is always the same. A magical square of this kind has been broken down into five pieces, as shown in the figure. Reconstruct the magic square without turning the pieces.
+> A magic square $3 \times 3$ is a square arrangement of 9 cells arranged in three rows and three columns such that the sum of the numbers in any row, any column, and each of the two diagonals is always the same. A magic square of this type has been divided into five pieces, as shown in the figure. Reconstruct the magic square without rotating the pieces.
 
 ![[src_bocconi_semifinale_2010__q04.png]]
 
-**Answer:** The completed magic square has rows: $8,1,6$ / $3,5,7$ / $4,9,2$
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2010#q04|src_bocconi_semifinale_2010__Q04]]
 
 
 
@@ -158,11 +178,16 @@ Magic square 3x3: reconstruct the missing values
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Farmer's market: maximum number of chickens per cow*
+*Country market: maximum number of hens per cow*
 
-> Thursday is a market day for farmers who exchange their animals in the village square. Here are the "prices": a duck is worth two chickens; a cow is worth a goat plus three ducks; a goat is worth two ducks plus two chickens. How many chickens can a farmer get for a cow?
+> Thursday is market day for the farmers, who exchange their animals in the village square. Here are the "prices": one duck is worth two hens; one cow is worth one goat plus three ducks; one goat is worth two ducks plus two hens. At most, how many hens can a farmer get in exchange for one cow?
 
-**Answer:** 12 galline
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_semifinale_2010#q05|src_bocconi_semifinale_2010__Q05]]
 
 
 
@@ -186,11 +211,16 @@ Magic square 3x3: reconstruct the missing values
 <div class="qlang-split" data-lang="en"></div>
 
 
-*School party: minimum number of seats available*
+*School Festival: minimum number of unoccupied chairs*
 
-> There are square tables in Sara and Sergio's school warehouse. A chair can be placed around each of them, on either side. For the school party, students used 24 of these square tables, forming with them a large rectangular table (without holes). Around this large rectangular table they then placed the chairs, one on each side "free" of the square tables. How many chairs did they put in, minimum?
+> In the storage room of Sara and Sergio's school, there are some square tables. Around each of them, one chair can be placed on each side. For the school festival, the students used 24 of these square tables, arranging them to form one large rectangular table (with no gaps). They then placed chairs around this large rectangular table—one chair for each "free" side of the square tables. What is the minimum number of chairs they placed?
 
-**Answer:** 20 chairs
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2010#q06|src_bocconi_semifinale_2010__Q06]]
 
 
 
@@ -214,11 +244,16 @@ Magic square 3x3: reconstruct the missing values
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flights of ravens and sparrows: how many birds at the beginning*
+*Flocks of crows and sparrows: how many birds at the beginning*
 
-> In Francesco's garden, some crows and some sparrows rest quietly on the long thread where the mother usually lays the laundry. Francesco likes to see them fly away and then, deliberately, he claps his hands very hard: frightened, 8 sparrows fly away but 5 then return. Soon after, Francis' dog barks and 3 crows take off; 2 then return. At this point, on the string, there are 13 birds. How many sparrows were on the line at the beginning of our "story"?
+> In Francesco's garden, some crows and some sparrows are resting quietly on the long clothesline where Mom usually hangs the laundry. Francesco likes to watch them fly away, so on purpose he claps his hands very loudly: startled, 8 sparrows fly away, but 5 come back later. A little later, Francesco's dog barks and 3 crows take flight; 2 come back later. At this point, there are 13 birds on the line. At most, how many sparrows were there on the line at the beginning of our "story"?
 
-**Answer:** 14 sparrows
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2010#q07|src_bocconi_semifinale_2010__Q07]]
 
 
 
@@ -242,11 +277,16 @@ Magic square 3x3: reconstruct the missing values
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What influences: how many male pupils are present today*
+*Attendance: how many male pupils are present today*
 
-> In Jacob's class, when everyone is present, there are more than 16 students but less than 40. Today, two out of every seven students are absent because of the flu, and, oddly enough, there are as many females as males in the classroom. How many pupils (male plus female) are in school today?
+> In Jacob's class, when everyone is present, there are more than 16 pupils but fewer than 40. Today, two out of seven pupils are absent due to flu, and, by a strange coincidence, there are as many girls as boys in the class. How many pupils (boys plus girls) are present at school today?
 
-**Answer:** 20 pupils
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2010#q08|src_bocconi_semifinale_2010__Q08]]
 
 
 
@@ -274,11 +314,16 @@ Magic square 3x3: reconstruct the missing values
 
 *Decoupage: divide the figure into two overlapping pieces*
 
-> Divide the figure (following the lines drawn) into two overlapping pieces. Warning: one of the two pieces may be overturned.
+> Divide the figure (along the dashed lines) into two pieces that can be superimposed. Note: one of the two pieces may possibly be flipped over.
 
 ![[src_bocconi_semifinale_2010__q09.png]]
 
-**Answer:** (see the figure in the solution)
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2010#q09|src_bocconi_semifinale_2010__Q09]]
 
 
 
@@ -302,11 +347,16 @@ Magic square 3x3: reconstruct the missing values
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Strange triangle rectangle: measurement of a sharp angle*
+*Strange right triangle: measure of an acute angle*
 
-> In a right triangle, the product of the lengths of the three sides is twice the product of the three heights. What is the measure (in degrees) of one of the two sharp angles of this right triangle?
+> In a right triangle, the product of the lengths of the three sides is twice the product of the three altitudes. What is the measure (in degrees) of one of the two acute angles of this right triangle?
 
-**Answer:** $45^\circ$
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2010#q10|src_bocconi_semifinale_2010__Q10]]
 
 
 
@@ -330,11 +380,16 @@ Magic square 3x3: reconstruct the missing values
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Test of four: number chosen by Nando*
+*Test of Four: number chosen by Nando*
 
-> Multiplying a positive integer by 4, Nando gets a number that is written with the same digits, but written in reverse order. What's the minimum number Nando wrote?
+> When Nando multiplies a positive integer by 4, he obtains a number whose digits are the same as those of the original number but written in reverse order. What is the smallest number that Nando writes?
 
-**Answer:** 2178
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2010#q11|src_bocconi_semifinale_2010__Q11]]
 
 
 
@@ -358,11 +413,16 @@ Magic square 3x3: reconstruct the missing values
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Chess: how many players entered the tournament*
+*Chess: how many players are registered for the tournament?*
 
-> At the Mathcity chess tournament, each player had to compete with each of the other participants. Two affected players, however, were only able to play three games each. The others, which these players were supposed to play, were therefore cancelled. In total, there were 83 games. How many players were enrolled in the tournament, including the two patients?
+> At the Mathcity chess tournament, each player had to face each of the other participants. However, two players who were affected were able to play only 3 games each. The other games that these players would have had to play were therefore cancelled. In total, there were 83 games. How many players were registered for the tournament, including the two ill players?
 
-**Answer:** 15 players
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2010#q12|src_bocconi_semifinale_2010__Q12]]
 
 
 
@@ -388,13 +448,18 @@ Magic square 3x3: reconstruct the missing values
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Thirteen positive numbers with sum 2010: maximum MCD*
+*Thirteen positive numbers with a sum of 2010: greatest common divisor*
 
-> The sum of 13 positive numbers is 2010. What is the largest Common Divisor of the 13 numbers?
+> The sum of 13 positive numbers is 2010. What is the greatest possible greatest common divisor of the 13 numbers?
 
 ![[src_bocconi_semifinale_2010__q13.png]]
 
-**Answer:** 134
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2010#q13|src_bocconi_semifinale_2010__Q13]]
 
 
 
@@ -418,11 +483,16 @@ Magic square 3x3: reconstruct the missing values
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many squares can be drawn on a grid*
+*How many squares can be drawn on a grid?*
 
-> How many squares can be formed by joining four points of the grid of the drawing? (All squares must be counted, regardless of their orientation)
+> How many squares can be formed by joining four points on the grid in the drawing? (All squares must be counted, regardless of their orientation.)
 
-**Answer:** 90 squares
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2010#q14|src_bocconi_semifinale_2010__Q14]]
 
 
 
@@ -446,11 +516,16 @@ Magic square 3x3: reconstruct the missing values
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sixth power of a decreasing nine-digit number*
+*Sixth power of a nine-digit number with decreasing digits*
 
-> The sixth power of a positive integer $N$ is a 9-digit number. By arranging these numbers in descending order, you get 987744320. What was the initial number $N$?
+> The sixth power of a positive integer $N$ is a 9-digit number. When these digits are arranged in descending order, the result is 987744320. What was the initial number $N$?
 
-**Answer:** $N = 27$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2010#q15|src_bocconi_semifinale_2010__Q15]]
 
 
 
@@ -477,8 +552,16 @@ Magic square 3x3: reconstruct the missing values
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum security: minimum number of safe keys*
+*Maximum security: minimum number of keys per safe*
 
-> The evidence of a high-level Mathematics course is kept in a super-secure safe with multiple locks. The competition jury consists of nine commissioners and each of them has the key to some locks. Knowing that: - at least 6 members of the jury must be present in order to open the safe; - 6 commissioners any one can open the safe; how many locks, at least, does the safe have? (Each key opens a single lock and of course the safe only opens when all the locks are open.)
+> The exam papers for an advanced mathematics course are kept in an ultra-secure safe equipped with multiple locks. The competition jury consists of 9 members, and each member has the key to some of the locks. Given that:
+> - at least 6 jury members must be present in order to open the safe;
+> - any 6 jury members can open the safe;
+> how many locks does the safe have, at minimum? (Each key opens only one lock, and, of course, the safe opens only when all the locks are opened.)
 
-**Answer:** 504 keys
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_cassetti|Pigeonhole principle]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2010#q16|src_bocconi_semifinale_2010__Q16]]

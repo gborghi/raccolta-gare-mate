@@ -31,9 +31,19 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove tutte le funzioni f:R->R che soddisfano f(x)=f(2x)=f(1-x) per tutte le x sono periodiche.*
+*Funzioni reali con f(x) = f(2x) = f(1−x) per ogni x: sono periodiche*
 
-> Provare che tutte le funzioni $f:\mathbb{R}\to\mathbb{R}$ che soddisfano $$\forall x\in\mathbb{R}\ \ f(x)=f(2x)=f(1-x)$$ sono periodiche.
+> Dimostrare che tutte le funzioni $f:\mathbb{R}\to\mathbb{R}$ che soddisfano
+>
+> $$\forall x\in\mathbb{R}\ \ f(x)=f(2x)=f(1-x)$$
+>
+> sono periodiche.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali e successioni]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2002_r2#q01|src_pol_2002_r2__Q01]]
 
 
 
@@ -58,9 +68,19 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale con angolo ADB=2 angolo ACB e angolo BDC=2 angolo BAC; prova AD=CD.*
+*Quadrilatero convesso con due angoli doppi: i lati AD e CD sono uguali*
 
-> In un quadrilaterale converso $ABCD$ le seguenti equazioni $$\angle ADB = 2\angle ACB \quad \text{and} \quad \angle BDC = 2\angle BAC$$ si trovano. Prove che $AD=CD$.
+> In un quadrilatero convesso $ABCD$ valgono le uguaglianze
+>
+> $$\angle ADB = 2\angle ACB \quad \text{and} \quad \angle BDC = 2\angle BAC$$
+>
+> Dimostrare che $AD=CD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2002_r2#q02|src_pol_2002_r2__Q02]]
 
 
 
@@ -83,9 +103,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, dimostrare che due commissioni condividono almeno n/30 membri.*
+*Sei commissioni in un'associazione di n membri, ciascuna con almeno n/4 persone: due ne hanno in comune almeno n/30*
 
-> Si dà un intero positivo $n$. In un'associazione composta da membri $n$ si svolgono 6 commissioni. Ogni commissione contiene almeno $n/4$ persone. Dimostrare che esistono due commissioni che contengono almeno $n/30$ persone in comune.
+> È dato un intero positivo $n$. In un'associazione di $n$ membri lavorano 6 commissioni. Ogni commissione contiene almeno $n/4$ persone. Dimostrare che esistono due commissioni che hanno in comune almeno $n/30$ persone.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2002_r2#q03|src_pol_2002_r2__Q03]]
 
 
 
@@ -110,9 +136,19 @@ In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i numeri p<=q<=r in modo che pq+r, pq+r^2, qr+p, qr+p^2, rp+q, rp+q^2 siano tutti primi.*
+*Terze p ≤ q ≤ r tali che sei combinazioni pq+r, pq+r^2 e cicliche siano tutte prime*
 
-> Trova tutti i numeri $p \le q \le r$ in modo tale che tutti i numeri $$pq+r,\ pq+r^2,\ qr+p,\ qr+p^2,\ rp+q,\ rp+q^2$$ siano primi.
+> Trovare tutti i numeri $p \le q \le r$ tali che tutti i numeri
+>
+> $$pq+r,\ pq+r^2,\ qr+p,\ qr+p^2,\ rp+q,\ rp+q^2$$
+>
+> siano primi.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2002_r2#q04|src_pol_2002_r2__Q04]]
 
 
 
@@ -137,9 +173,19 @@ In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il triangolo ABC con angolo BAC=90 è la base della piramide ABCD con AD=BD e AB=CD; prova angolo ACD>=30.*
+*Piramide a base triangolare rettangola, con AD = BD e AB = CD: l'angolo ACD è almeno 30 gradi*
 
-> Il triangolo $ABC$ con $\angle BAC = 90^\circ$ è la base della piramide $ABCD$. Inoltre contiene $$AD=BD \quad \text{and} \quad AB=CD.$$ Prove che $\angle ACD \ge 30^\circ$.
+> Il triangolo $ABC$ con $\angle BAC = 90^\circ$ è la base della piramide $ABCD$. Inoltre vale
+>
+> $$AD=BD \quad \text{and} \quad AB=CD.$$
+>
+> Dimostrare che $\angle ACD \ge 30^\circ$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2002_r2#q05|src_pol_2002_r2__Q05]]
 
 
 
@@ -164,6 +210,14 @@ In un'associazione di n membri con 6 commissioni ciascuna di almeno n/4 membri, 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi n in modo tale che per tutti i reali x_i,y_i la disuguaglianza del prodotto con le somme dei quadrati sotto radici quadrate sia contenuta.*
+*Per quali n il prodotto delle x più il prodotto delle y non supera il prodotto delle norme euclidee delle coppie*
 
-> Trovare tutti gli integri positivi $n$ in modo tale che per tutti i numeri reali $x_1,x_2,\ldots,x_n,y_1,y_2,\ldots,y_n$ si verifichi la seguente disuguaglianza $$x_1x_2\ldots x_n + y_1y_2\ldots y_n \le \sqrt{x_1^2+y_1^2}\cdot\sqrt{x_2^2+y_2^2}\cdot\ldots\cdot\sqrt{x_n^2+y_n^2}$$.
+> Trovare tutti gli interi positivi $n$ tali che, per tutti i numeri reali $x_1,x_2,\ldots,x_n,y_1,y_2,\ldots,y_n$, valga la disuguaglianza
+>
+> $$x_1x_2\ldots x_n + y_1y_2\ldots y_n \le \sqrt{x_1^2+y_1^2}\cdot\sqrt{x_2^2+y_2^2}\cdot\ldots\cdot\sqrt{x_n^2+y_n^2}$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2002_r2#q06|src_pol_2002_r2__Q06]]

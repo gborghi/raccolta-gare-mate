@@ -31,11 +31,18 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*When 2^n-1 and 2^n+1 are divisible by 7*
+*When 7 divides 2^n − 1, and never 2^n + 1*
 
 > (a) Find all positive integers $n$ for which $2^n - 1$ is divisible by $7$.
-> 
-> (b) Demonstrate that there is no positive integer $n$ for which $2^n + 1$ is divisible by $7$.
+>
+> (b) Prove that there is no positive integer $n$ for which $2^n + 1$ is divisible by $7$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imho_1964#q01|src_imho_1964__Q01]]
 
 
 
@@ -60,11 +67,17 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Try a^2(b+c-a)+...<=3abc for the sides of a triangle*
+*An inequality for the sides of a triangle*
 
-> The sides of a triangle are $a, b, c$. To demonstrate that
-> 
+> Let $a, b, c$ be the sides of a triangle. Prove that
 > $$a^2(b+c-a) + b^2(c+a-b) + c^2(a+b-c) \leq 3abc.$$
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imho_1964#q02|src_imho_1964__Q02]]
 
 
 
@@ -86,9 +99,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of areas of the four circles inscribed as a function of a,b,c*
+*Sum of the areas of four incircles in a triangle*
 
-> A circumference is inscribed in the $ABC$ triangle of sides $a, b, c$. The tangents are constructed parallel to the circumference on the sides of the triangle. Each of these tangents separates a triangle from $\triangle ABC$. Each of these triangles has a circumference. Find the sum of the areas of all four inscribed circumferences (in terms of $a, b, c$).
+> A circle is inscribed in the triangle $ABC$ with sides $a, b, c$. Tangents to the circle are drawn parallel to the sides of the triangle. Each of these tangents cuts off a triangle from $\triangle ABC$. A circle is inscribed in each of these triangles. Find the sum of the areas of all four inscribed circles (in terms of $a, b, c$).
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imho_1964#q03|src_imho_1964__Q03]]
 
 
 
@@ -111,9 +130,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*three with the same argument (Ramsey)*
+*Seventeen correspondents and three topics*
 
-> Seventeen people correspond by mail with each other. Their letters only discuss three different topics. Each pair of correspondents deals with only one subject. Demonstrate that there are at least three people who write all three on the same subject.
+> Seventeen people correspond by post, each with all the others. In their letters only three different topics are discussed. Each pair of correspondents treats only one topic. Prove that there are at least three people who all write to one another about the same topic.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imho_1964#q04|src_imho_1964__Q04]]
 
 
 
@@ -136,9 +162,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of intersections of 5 points perpendicular to each other*
+*Maximum number of intersections of perpendiculars from five points*
 
-> Suppose that five points in the plane are arranged so that none of the lines connecting them are parallel, perpendicular or coincident with each other. From each point the perpendiculars to all the lines connecting the other four points are drawn. Determine the maximum number of intersections these perpendiculars can have.
+> Suppose five points in the plane are placed so that none of the lines joining them are parallel, perpendicular, or coincident. From each point the perpendiculars are drawn to all the lines joining the other four points. Determine the maximum number of intersections these perpendiculars can have.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_imho_1964#q05|src_imho_1964__Q05]]
 
 
 
@@ -160,6 +193,12 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Testing ABCD volume one third of A1B1C1D0 in the tetrahedron*
+*Volumes of a tetrahedron and of a related tetrahedron*
 
-> In the tetrahedron $ABCD$, the vertex $D$ is connected to $D_0$, the barycenter of $\triangle ABC$. Through $A$, $B$ and $C$ lines parallel to $DD_0$ are drawn. These lines intersect $BCD$, $CAD$ and $ABD$ respectively in $A_1$, $B_1$ and $C_1$. Demonstrate that the volume of $ABCD$ is one third of the volume of $A_1 B_1 C_1 D_0$. The result is also valid if the $D_0$ point is chosen at any point within $\triangle ABC$?
+> In the tetrahedron $ABCD$, the vertex $D$ is joined to $D_0$, the centroid of $\triangle ABC$. Through $A$, $B$ and $C$ lines are drawn parallel to $DD_0$. These lines meet the planes $BCD$, $CAD$ and $ABD$ at the points $A_1$, $B_1$ and $C_1$ respectively. Prove that the volume of $ABCD$ is one third of the volume of $A_1 B_1 C_1 D_0$. Does the result still hold if the point $D_0$ is chosen at any interior point of $\triangle ABC$?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imho_1964#q06|src_imho_1964__Q06]]

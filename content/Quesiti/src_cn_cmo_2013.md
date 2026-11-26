@@ -35,15 +35,22 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi che si intersecano, mostrano punto comune di bisettori, lati triangolari rettangolari*
+*Due circonferenze che si intersecano, punto comune delle bisettrici, lati di un triangolo rettangolo*
 
-> Due cerchi $K_1$ e $K_2$ di diversi raggi si incrociano a due punti $A$ e $B$, lasciando che $C$ e $D$ siano rispettivamente due punti su $K_1$ e $K_2$, in modo che $A$ sia il punto medio del segmento $CD$. L'estensione di $DB$ incontra $K_1$ in un altro punto $E$, e l'estensione di $CB$ incontra $K_2$ in un altro punto $F$. I bisettori perpendicolari di $CD$ e $EF$ sono $l_1$ e $l_2$.
-> 
-> (1) Indicare che $l_1$ e $l_2$ hanno un punto comune unico (indicato da $P$).
-> 
-> (2) Provare che le lunghezze di $CA$, $AP$ e $PE$ sono le lunghezze laterali di un triangolo rettangolo.
+> Due circonferenze $K_1$ e $K_2$ di raggi diversi si intersecano in due punti $A$ e $B$; siano $C$ e $D$ due punti appartenenti rispettivamente a $K_1$ e a $K_2$, in modo che $A$ sia il punto medio del segmento $CD$. Il prolungamento di $DB$ incontra $K_1$ in un altro punto $E$, e il prolungamento di $CB$ incontra $K_2$ in un altro punto $F$. Siano $l_1$ e $l_2$ le mediatrici perpendicolari di $CD$ e di $EF$, rispettivamente.
+>
+> (1) Dimostrare che $l_1$ e $l_2$ hanno un unico punto comune (indicato con $P$).
+>
+> (2) Dimostrare che le lunghezze di $CA$, $AP$ e $PE$ sono le lunghezze dei lati di un triangolo rettangolo.
 
 ![[src_cn_cmo_b11_w109__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2013#q01|src_cn_cmo_2013__Q01]]
 
 
 
@@ -66,9 +73,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli insiemi di numeri interi S chiusi sotto 3m-2n*
+*Trovare tutti gli insiemi di interi S chiusi rispetto a 3m-2n*
 
-> Trovare tutti gli insiemi non vuoti $S$ di numeri interi tali da $3m - 2n \in S$ per tutti (non necessariamente distinti) $m, n \in S$.
+> Trovare tutti gli insiemi non vuoti $S$ di interi tali che $3m - 2n \in S$ per tutti gli $m, n \in S$ (non necessariamente distinti).
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2013#q02|src_cn_cmo_2013__Q02]]
 
 
 
@@ -94,11 +108,18 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le t reali positive con set infinito X e disuguaglianza di progressione aritmetica*
+*Trovare tutti i numeri reali positivi t tali che l'insieme X sia infinito e valga la disuguaglianza della progressione aritmetica*
 
-> Trova tutti i numeri reali positivi $t$ con la proprietà che esiste un insieme infinito $X$ di numeri reali in modo tale che l'ineguaglianza $$\max\{\,|x - (a - d)|,\ |y - a|,\ |z - (a + d)|\,\} > td$$ si applique a tutti (non necessariamente distinti) $x, y, z \in X$, tutti i numeri reali $a$ e tutti i numeri reali positivi $d$.
+> Trovare tutti i numeri reali positivi $t$ con la proprietà che esista un insieme infinito $X$ di numeri reali tale che la disuguaglianza
+> $$\max\{\,|x - (a - d)|,\ |y - a|,\ |z - (a + d)|\,\} > td$$
+> sia verificata per tutti gli $x, y, z \in X$ (non necessariamente distinti), per tutti i numeri reali $a$ e per tutti i numeri reali positivi $d$.
 
-**Risposta:** $0 < t < \frac{1}{2}$
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2013#q03|src_cn_cmo_2013__Q03]]
 
 
 
@@ -125,13 +146,20 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la dimensione totale minima di n set con condizione di differenza simmetrica*
+*Trovare la dimensione totale minima di n insiemi con la condizione della differenza simmetrica*
 
-> Dato un intero $n \geq 2$, supponiamo che $A_1, A_2, \ldots, A_n$ siano $n$ insieme finiti non vuoti che soddisfano $|A_i \Delta A_j| = |i - j|$ per tutti $i, j \in \{1, 2, \ldots, n\}$.
-> 
-> Trova il valore minimo di $|A_1| + |A_2| + \cdots + |A_n|$.
-> 
-> (Qui $|X|$ indica il numero di elementi di un insieme finito $X$ e $X \Delta Y = \{a \mid a \in X,\, a \notin Y\} \cup \{a \mid a \in Y,\, a \notin X\}$ per qualsiasi insieme $X$ e $Y$.)
+> Dato un intero $n \geq 2$, si supponga che $A_1, A_2, \ldots, A_n$ siano $n$ insiemi finiti non vuoti che soddisfano $|A_i \Delta A_j| = |i - j|$ per ogni $i, j \in \{1, 2, \ldots, n\}$.
+>
+> Si determini il valore minimo di $|A_1| + |A_2| + \cdots + |A_n|$.
+>
+> (Qui $|X|$ denota il numero di elementi di un insieme finito $X$ e $X \Delta Y = \{a \mid a \in X,\, a \notin Y\} \cup \{a \mid a \in Y,\, a \notin X\}$ per qualsiasi insiemi $X$ e $Y$.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmo_2013#q04|src_cn_cmo_2013__Q04]]
 
 
 
@@ -156,9 +184,18 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova la divisibilità dei trasferimenti di polinomi con coefficiente binario a tutte le basi*
+*La dimostrazione della divisibilità dei polinomi a coefficienti binari si estende a tutte le basi*
 
-> Per ogni intero positivo $n$ e per ogni intero $i$ $(0 \leq i \leq n)$, $C_n^i \equiv c(n, i) \pmod{2}$, dove $c(n, i) \in \{0, 1\}$, e definire $$f(n, q) = \sum_{i=0}^{n} c(n, i)\,q^i.$$, $m$, $n$ e $q$ siano interi positivi con $q + 1$ non una potenza di $2$. Supponiamo che $f(m, q) \mid f(n, q)$. Prova che $f(m, r) \mid f(n, r)$ per ogni intero positivo $r$.
+> Per ogni intero positivo $n$ e per ogni intero $i$ $(0 \leq i \leq n)$, si ponga $C_n^i \equiv c(n, i) \pmod{2}$, dove $c(n, i) \in \{0, 1\}$, e si definisca
+> $$f(n, q) = \sum_{i=0}^{n} c(n, i)\,q^i.$$
+> Siano $m$, $n$ e $q$ interi positivi tali che $q + 1$ non sia una potenza di $2$. Si supponga che $f(m, q) \mid f(n, q)$. Dimostrare che $f(m, r) \mid f(n, r)$ per ogni intero positivo $r$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2013#q05|src_cn_cmo_2013__Q05]]
 
 
 
@@ -184,11 +221,18 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Con omega = somma di esponenti, decidere se il rapporto omega(n+k)/omega(n) può essere fatto sia < alfa che > beta*
+*Con omega = somma degli esponenti, decidere se il rapporto omega(n+k)/omega(n) può essere reso sia < alpha sia > beta*
 
-> Per qualsiasi numero intero $n$ con $n>1$, $n=p_1^{\alpha_1}p_2^{\alpha_2}\cdots p_s^{\alpha_s}$ sia la sua fattorizzazione standard; scrivere $\omega(n)=\alpha_1+\alpha_2+\cdots+\alpha_s$. Provare o respingere la seguente affermazione: dato qualsiasi numero intero positivo $k$ e qualsiasi numero reale positivo $\alpha$ e $\beta$, esiste un numero intero positivo $n$ con $n>1$ tale che $\dfrac{\omega(n+k)}{\omega(n)}<\alpha$ e $\dfrac{\omega(n+k)}{\omega(n)}>\beta$.
+> Per ogni numero intero $n$ con $n>1$, si ponga $n=p_1^{\alpha_1}p_2^{\alpha_2}\cdots p_s^{\alpha_s}$ la sua fattorizzazione standard; si scriva $\omega(n)=\alpha_1+\alpha_2+\cdots+\alpha_s$. Si dimostri o si confuti la seguente affermazione: Dati un qualsiasi numero intero positivo $k$ e qualsiasi numero reale positivo $\alpha$ e $\beta$, esiste un numero intero positivo $n$ tale che $n>1$ e $\dfrac{\omega(n+k)}{\omega(n)}<\alpha$ e $\dfrac{\omega(n+k)}{\omega(n)}>\beta$.
 
-**Risposta:** L'affermazione è vera (SÌ).
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2013#q06|src_cn_cmo_2013__Q06]]
 
 
 
@@ -217,11 +261,18 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La minima k in modo che per ogni auto-mappa valida di un insieme di 100 elementi ci sia B con B = k e B unione f(B) = X*
+*Il più piccolo k tale che, per ogni automorfismo di un insieme di 100 elementi, esista un insieme B con |B|=k e B union f(B)=X*
 
-> Dato $X=\{1,2,\ldots,100\}$, consideri le funzioni $f:X\to X$ che soddisfano le seguenti condizioni: (1) $f(x)\ne x$ per tutti $x\in X$; (2) per qualsiasi insieme $A\subseteq X$ con $|A|=40$, abbiamo $A\cap f(A)\ne\varnothing$. Trova il più piccolo intero positivo $k$ in modo che per qualsiasi funzione $f$ esista un insieme $B\subseteq X$ che soddisfa $|B|=k$ e $B\cup f(B)=X$.
+> Dato $X=\{1,2,\ldots,100\}$, si considerino le funzioni $f:X\to X$ che soddisfano le seguenti condizioni: (1) $f(x)\ne x$ per ogni $x\in X$; (2) per ogni insieme $A\subseteq X$ con $|A|=40$, si ha $A\cap f(A)\ne\varnothing$. Si determini il più piccolo intero positivo $k$ tale che, per ogni funzione $f$ di questo tipo, esista un insieme $B\subseteq X$ che soddisfi $|B|=k$ e $B\cup f(B)=X$.
 
-**Risposta:** 69
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2013#q07|src_cn_cmo_2013__Q07]]
 
 
 
@@ -248,6 +299,17 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsiemi non vuoti A,B di {1,...,n}; un sottoinsieme D di A+B con D+D in 2(A+B) e |D| almeno |A||B|/(2n)*
+*Sottoinsiemi non vuoti A, B di {1,...,n}; un sottoinsieme D di A+B tale che D+D sia contenuto in 2(A+B) e |D| sia almeno |A||B|/(2n)*
 
-> Che $n$ sia un intero positivo e $A$, $B$ siano sottosette non vuote di $\{1,2,\ldots,n\}$. Prove che esiste un sottogruppo $D$ di $A+B$ tale che $$D+D\subseteq 2(A+B), \quad \text{and} \quad |D|\ge\frac{|A|\cdot|B|}{2n},$$ in cui $|X|$ indica il numero di elementi di un insieme finito $X$.
+> Sia $n$ un numero intero positivo, e siano $A$, $B$ sottoinsiemi non vuoti di $\{1,2,\ldots,n\}$. Dimostrare che esiste un sottoinsieme $D$ di $A+B$ tale che
+> $$D+D\subseteq 2(A+B), \quad \text{and} \quad |D|\ge\frac{|A|\cdot|B|}{2n},$$
+> dove $|X|$ denota il numero di elementi di un insieme finito $X$.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2013#q08|src_cn_cmo_2013__Q08]]

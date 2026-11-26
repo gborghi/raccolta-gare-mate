@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca quattro numeri primi inferiori a 100 che dividono 3^n - 2^n per alcune n*
+*Trovare quattro numeri primi minori di 100 che dividono 3^n - 2^n per qualche n*
 
-> Trova quattro numeri primi inferiori a 100 che sono fattori di $3^n - 2^n$ per un intero positivo $n$.
+> Trovare quattro numeri primi minori di 100 che siano fattori di $3^n - 2^n$ per qualche intero positivo $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2006-07_round1#q01|src_bmo_2006-07_round1__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale con punti di trisezione su due lati; dimostrare pari aree terze*
+*Quadrilatero con punti di trisezione su due lati; dimostrare l'uguaglianza delle aree dei terzi*
 
-> Nel quadrilaterale $ABCD$, i punti $M$ e $N$ sono sul lato $AB$ in modo tale che $AM = MN = NB$, e i punti $P$ e $Q$ sono sul lato $CD$ in modo tale che $CP = PQ = QD$. Provare che $$\text{Area of } AMCP = \text{Area of } MNQP = \tfrac{1}{3} \text{ Area of } ABCD.$$
+> Nel quadrilatero $ABCD$, i punti $M$ e $N$ giacciono sul lato $AB$ in modo che $AM = MN = NB$, e i punti $P$ e $Q$ giacciono sul lato $CD$ in modo che $CP = PQ = QD$. Dimostrare che
+> $$\text{Area of } AMCP = \text{Area of } MNQP = \tfrac{1}{3} \text{ Area of } ABCD.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2006-07_round1#q02|src_bmo_2006-07_round1__Q02]]
 
 
 
@@ -83,13 +98,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il numero unico a 9 cifre con proprietà di divisibilità n*
+*Trovare l'unico numero pandigitale di 9 cifre con la proprietà di divisibilità per n*
 
-> Il numero $3816547290$ è l'unico intero positivo con dieci cifre (usando ciascuna cifra esattamente una volta) in modo tale che i primi cifre $n$ formino un numero divisibile da $n$ per ciascuna $n = 1, 2, \ldots, 10$.
-> 
-> Trovare l'unico intero positivo a 9 cifre (usando ciascuno dei cifre $1$ a $9$ esattamente una volta) in modo tale che i primi cifre $n$ formino un numero divisibile da $n$ per ciascuna $n = 1, 2, \ldots, 9$.
+> Il numero $3816547290$ è l'unico intero positivo con dieci cifre (in cui ogni cifra compare esattamente una volta) tale che, per ogni $n = 1, 2, \ldots, 10$, le prime $n$ cifre formino un numero divisibile per $n$.
+>
+> Trova l'unico intero positivo di 9 cifre (in cui ciascuna delle cifre da $1$ a $9$ compare esattamente una volta) tale che, per ogni $n = 1, 2, \ldots, 9$, le prime $n$ cifre formino un numero divisibile per $n$.
 
-**Risposta:** 381654729
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2006-07_round1#q03|src_bmo_2006-07_round1__Q03]]
 
 
 
@@ -112,9 +132,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi tangenti con tangente comune; diametro AP; tangente PQ; prova AP = PQ*
+*Due cerchi tangenti con una tangente comune; diametro AP; tangente PQ; dimostrare che AP = PQ*
 
-> Due cerchi di tocco $S$ e $T$ hanno una tangente comune che incontra $S$ a $A$ e $T$ a $B$. Lasciate che $AP$ abbia un diametro di $S$ e che la tangente da $P$ a $T$ la tocchi a $Q$. Prova che $AP = PQ$.
+> Due cerchi tangenti $S$ e $T$ hanno una tangente comune che incontra $S$ in $A$ e $T$ in $B$. Sia $AP$ un diametro di $S$ e sia la tangente condotta da $P$ a $T$ a toccare quest'ultimo in $Q$. Dimostrare che $AP = PQ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2006-07_round1#q04|src_bmo_2006-07_round1__Q04]]
 
 
 
@@ -137,6 +164,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra che se 2 + sqrt(1 + 12a^2) è un intero, è un quadrato perfetto*
+*Dimostrare che, se 2 + sqrt(1 + 12a^2) è un numero intero, allora è un quadrato perfetto*
 
-> $a$ sia un numero intero. Mostrare che se $2 + \sqrt{1 + 12a^2}$ è un intero, allora è un quadrato perfetto.
+> Sia $a$ un numero intero. Dimostrare che, se $2 + \sqrt{1 + 12a^2}$ è un numero intero, allora è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2006-07_round1#q05|src_bmo_2006-07_round1__Q05]]

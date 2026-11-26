@@ -31,13 +31,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of two consecutive pages with sum 37*
+*Product of two consecutive pages with a sum of 37*
 
-> Anna's book 
-> Anna noticed that the sum of the numbers on two consecutive pages of a book is 37. What is the 
-> product of these two numbers?
+> Anna's Book Anna has noticed that the sum of the numbers on two consecutive pages of a book is 37. What is the product of these two numbers?
 
-**Answer:** 342
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q01|src_kangourou_2017_squadre_ecolier_f__Q01]]
 
 
 
@@ -65,9 +67,13 @@ level: squadre
 
 *Difference between the largest and smallest sweet number*
 
-> Sweet numbers Call each number of three digits sweet (therefore with the first digit different from 0) such that the first digit is the sum of the other two: for example 431 is sweet because 4=3+1, while 412 is not. What's the difference between the largest and smallest of the sweet numbers?
+> Sweet Numbers Call "sweet" any three-digit number (so with the first digit not equal to 0) such that the first digit is the sum of the other two: for example, 431 is sweet because 4 = 3 + 1, whereas 412 is not. What is the difference between the largest and the smallest of the sweet numbers?
 
-**Answer:** 889
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q02|src_kangourou_2017_squadre_ecolier_f__Q02]]
 
 
 
@@ -95,11 +101,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time marked by Anna's counterclock*
+*The time indicated by Anna's counterclockwise clock*
 
-> The clock goes backwards. Anna's wristwatch is traditional, so the hands move on a 12-hour dial. However, the hands are moving against the clock: for example, if it were now 8.35, in one hour it would be 7.35. Last Saturday at 6:17 p.m. her watch was at 7:17 p.m. - what time will it be today, Monday, at 2:17 p.m.? (Write in the order of time and minute, e.g. to indicate 8.35 write 0835.)
+> The clock runs backwards. Anna's wristwatch is traditional, so its hands move around a 12-hour dial. However, the hands move counterclockwise: for example, if it were showing 8:35 now, in an hour it would show 7:35. Last Saturday at 6:17 p.m., her watch was showing 7:17. What time will it show today, Monday, at 2:17 p.m.? (Write the hour and minutes in that order; for example, to indicate 8:35, write 0835.)
 
-**Answer:** 1117
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q03|src_kangourou_2017_squadre_ecolier_f__Q03]]
 
 
 
@@ -125,11 +135,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Apples left to Ada and Gino*
+*Pears left with Ada and Gino*
 
-> Apples Ada and Gino bought many apples at the market, and on their way home they each ate one. If they bought twice as many, they'd have 25 more at home than they have. How many apples did Ada and Gino have left?
+> Ada and Gino bought many apples at the market, and on the way home they each ate one. If they had bought twice as many, once they got home they would have 25 more apples than they have now. How many apples are left for Ada and Gino?
 
-**Answer:** 23
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q04|src_kangourou_2017_squadre_ecolier_f__Q04]]
 
 
 
@@ -166,9 +180,14 @@ level: squadre
 
 ![[src_kangourou_2017_squadre_ecolier_f__prob5.png]]
 
-> The multiplication table In the figure you see the top left of a multiplication table made up of 100 rows and 100 columns. Pippo cut a 2x2 piece of the table (not the part you see) and then covered the numbers that appeared in the boxes of the cut piece with the letters A, B, C, and D, arranged as in the figure to the right. You know that B gets from A summing up 78 and C gets from A summing up 45. How much is D?
+> Multiplication table In the figure, you can see the upper-left part of a multiplication table consisting of 100 rows and 100 columns. Pippo cut out a 2×2 piece of the table (not of the part you see), and then covered the numbers that appeared in the cells of the cut-out piece with the letters A, B, C, and D, arranged as in the figure on the right. You know that B is obtained from A by adding 78, and C is obtained from A by adding 45. What is the value of D?
 
-**Answer:** 3634
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q05|src_kangourou_2017_squadre_ecolier_f__Q05]]
 
 
 
@@ -193,13 +212,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many years will Daniela turn 16*
+*In how many years will Daniela turn 16?*
 
-> Daniela's age 
-> In 16 years Daniela will be five times the age she was four years ago. In how many years will Daniela 
-> turn 16?
+> Daniela's Age In 16 years, Daniela will be five times as old as she was four years ago. In how many years will Daniela turn 16?
 
-**Answer:** 7
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q06|src_kangourou_2017_squadre_ecolier_f__Q06]]
 
 
 
@@ -246,7 +267,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inner segments in grid rectangle 40x30*
+*Internal segments in a 40x30 grid rectangle*
 
 ![[src_kangourou_2017_squadre_ecolier_f__prob7.png]]
 
@@ -259,11 +280,16 @@ level: squadre
 \end{document}
 ```
 
-> The grid rectangle On a grid sheet I re-traced a rectangle that has a base of 4 units and height of 3 units and the grid of squares inside it. Among the segments of this grid of 1 unit length, those not on the edge of the rectangle are 17: vertically 9, horizontally 8. If I were to re-trace a rectangle with a base of 40 units and a height of 30 units in the same way, how many segments of length 1 unit inside the rectangle would I find?
->  
+> The Gridded Rectangle On a grid paper, I traced a rectangle with a base of 4 units and a height of 3 units, along with the grid of squares inside it. Among the 1-unit-long segments of this grid, those that are not on the rectangle's edge number 17: 9 vertically and 8 horizontally. If I were to trace, in the same way, a rectangle with a base of 40 units and a height of 30 units, how many 1-unit-long segments inside the rectangle would I find?
+>
 > 1 2 3 4 5 2 2 4 6 8 10 3 3 6 9 12 15 4 4 8 12 16 20 5 5 10 15 20 25 3
 
-**Answer:** 2330
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q07|src_kangourou_2017_squadre_ecolier_f__Q07]]
 
 
 
@@ -296,13 +322,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coins in the savings bank to complete the square figures*
+*Coins in the piggy bank to complete the square shapes*
 
 ![[src_kangourou_2017_squadre_ecolier_f__prob8.png]]
 
-> The coins After breaking the savings bank, Renato arranges the 1 euro coins following the pattern illustrated by the drawing, that is, so as to draw a square with a coin in the center. If he still has exactly enough coins to complete the next three figures, how many 1 euro coins are in Renato's savings bank?
+> The Coins After breaking the piggy bank, Renato arranges the 1-euro coins according to the pattern shown in the drawing—that is, so as to form a square with one coin in the center. If he still has exactly enough coins to complete the next three figures, how many 1-euro coins were there in Renato's piggy bank?
 
-**Answer:** 119
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q08|src_kangourou_2017_squadre_ecolier_f__Q08]]
 
 
 
@@ -329,11 +360,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Holidays in 2017 (4 months, first minor)
+*Holiday days in 2017 (4 months, first minor)*
 
-> Long holidays in Madagascar start on the 1st of a certain month and last for 4 months. The number of holiday days in the first month is less than the number of holiday days in each of the other three months: how many are the holiday days in 2017?
+> Holidays in Madagascar: the long holidays begin on the 1st of a given month and last 4 months. The number of holiday days in the first month is less than the number of holiday days in each of the other three months: how many holiday days are there in 2017?
 
-**Answer:** 120
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q09|src_kangourou_2017_squadre_ecolier_f__Q09]]
 
 
 
@@ -362,16 +398,16 @@ Holidays in 2017 (4 months, first minor)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest number drawn by Martina (constrained sum)*
+*Highest number caught by Martina (constrained sum)*
 
-> Martina's tickets 
-> Martina put eight tickets in a bag, on each of which she wrote one of the numbers 40, 
-> 80, 100, 101, 190, 200, 260 and 292 without repeating numbers already written. Then she drew four tickets 
-> from the bag and observed that the sum of the numbers on the remaining tickets is exactly twice 
-> the sum of the numbers on the tickets she drew. What is the largest among the numbers 
-> drawn by Martina?
+> Martina's Tickets Martina put eight tickets into a bag; on each ticket she wrote one of the numbers 40, 80, 100, 101, 190, 200, 260, and 292, without repeating any number that had already been written. Then she drew four tickets from the bag and observed that the sum of the numbers on the remaining tickets was exactly twice the sum of the numbers on the tickets she had drawn. What is the largest of the numbers drawn by Martina?
 
-**Answer:** 200
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q10|src_kangourou_2017_squadre_ecolier_f__Q10]]
 
 
 
@@ -396,11 +432,15 @@ Holidays in 2017 (4 months, first minor)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number corresponds to how many times it is written*
+*Which number corresponds to how many times it is written?*
 
-> The numbers of Roberto Roberto wrote the numbers 4, 5, 1, 5, 2, 3, 5, 4, 5, 5, 2, 3, 3, 1, 5, 4, 2. What number corresponds to how many times Roberto wrote it?
+> The numbers of Roberto: Roberto wrote the numbers 4, 5, 1, 5, 2, 3, 5, 4, 5, 5, 2, 3, 3, 1, 5, 4, 2. Which number corresponds to how many times it was written by Roberto?
 
-**Answer:** 3
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q11|src_kangourou_2017_squadre_ecolier_f__Q11]]
 
 
 
@@ -428,11 +468,16 @@ Holidays in 2017 (4 months, first minor)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times do the digital clock entries match*
+*How many times do the displays on the digital clock match?*
 
-> The digital clock A digital clock displays the day and month at the top (e.g. 12:08 means 12 August) and the hours and minutes at the bottom (e.g. 13:15 means 1 p.m. and 15 minutes, or 1 1/4 of an afternoon). Every now and then, the entry at the top coincides with the one at the bottom: how many times does it happen in a year? (Remember that in digital clocks hours and minutes vary from 00:00 to 23:59.)
+> The digital clock: A digital clock shows the day and month at the top (e.g., 12:08 means August 12) and the hours and minutes at the bottom (e.g., 13:15 means 1:15 p.m., that is, a quarter past one in the afternoon). From time to time, the text at the top matches the text at the bottom: how many times does this happen over the course of a year? (Remember that on digital clocks, the hours and minutes range from 00:00 to 23:59.)
 
-**Answer:** 276
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q12|src_kangourou_2017_squadre_ecolier_f__Q12]]
 
 
 
@@ -461,13 +506,18 @@ Holidays in 2017 (4 months, first minor)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many white cubes along the edges of the large cube*
+*How many white cubes along the edges of the large cube?*
 
 ![[src_kangourou_2017_squadre_ecolier_f__prob13.png]]
 
-> The cube Using white cubes and colored cubes, Luigia built the large cube you see in the figure. He put the white cubes along the edges of the big cube, but he didn't put them inside. How many white cubes did she use?
+> The Cube Using white cubes and colored cubes, Luigia built the large cube you see in the figure. She placed the white cubes along the edges of the large cube but did not put any inside it. How many white cubes did she use?
 
-**Answer:** 32
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q13|src_kangourou_2017_squadre_ecolier_f__Q13]]
 
 
 
@@ -496,17 +546,15 @@ Holidays in 2017 (4 months, first minor)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Working days still needed to clean up the park*
+*More working days still needed to clean up the park*
 
-> Party in the park 
-> After a big popular party, a park needs to be cleaned up. The day before yesterday 3 
-> people worked on this, yesterday 4 people and today 8 people are working. This evening a quarter of the park will remain to be cleaned, 
-> but starting tomorrow only 1 person per day will be able to work. If all the people took the same 
-> time to clean portions of the park with the same area and worked for the whole day, and the 
-> same will be done by the people who will work starting tomorrow, how many working days will still be needed 
-> for the park to be completely cleaned up?
+> Party in the Park After a large public festival, a park needs to be cleaned up. The day before yesterday, 3 people worked on this; yesterday, 4 people; and today, 8 people are working. Tonight, a quarter of the park will still need cleaning, but from tomorrow on, only 1 person will be able to work each day. If all the people took the same amount of time to clean sections of the park of equal area and worked all day, and if the people who will work from tomorrow do the same, how many more days of work will be needed for the park to be completely cleaned?
 
-**Answer:** 5
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q14|src_kangourou_2017_squadre_ecolier_f__Q14]]
 
 
 
@@ -541,14 +589,18 @@ Holidays in 2017 (4 months, first minor)
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of all the non-performing loans of the financial instrument.
+*Matchsticks for aligning 2017 triangles*
 
 ![[src_kangourou_2017_squadre_ecolier_f__prob15.png]]
 
-> Matrix triangles The figure shows the next steps to build a triangle alignment using matches. How many matches will it take to get a 2017 triangle alignment?
-> 
-> Kangourou of Mathematics 2017 Ecolier Cup to teams Final Cervia, 8 May 2017
->  
-> Questions and developments
+> Matchstick Triangles The figure shows the successive steps for constructing an arrangement of triangles using matchsticks. How many matchsticks will be needed to obtain an arrangement of 2017 triangles?
+>
+> Kangaroo of Mathematics 2017 Ecolier Team Cup Final, Cervia, 8 May 2017
+>
+> Questions and Solutions
 
-**Answer:** 4035
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_ecolier_f#q15|src_kangourou_2017_squadre_ecolier_f__Q15]]

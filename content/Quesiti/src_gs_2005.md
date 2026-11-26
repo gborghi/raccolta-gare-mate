@@ -27,20 +27,21 @@ level: squadre
 > dei 5 anni in cui sono nati Stefano ed i suoi 4 fratelli.
 
 **Risposta:** 9930
-**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.1
+**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A cake for five*
+*One cake for five: Stefano and his 4 brothers*
 
 ![[src_gs_2005__prob1.png]]
 
-> A cake for five. Stefano and his 4 brothers all have their birthday on 18 March, but they were all born in different years. Multiplying together the 4 numbers representing the age differences (always taken as positive) between Stefano and his brothers gives 25. Knowing that Stefano was born in 1986, determine the sum of the 5 years in which Stefano and his 4 brothers were born.
+> One cake for five: Stefano and his 4 brothers
+> They all celebrate their birthday on March 18 every year, but they were all born in different years. Multiplying the four numbers representing the age differences (always taken as positive) between Stefano and his siblings gives 25. Given that Stefano was born in 1986, determine the sum of the five years in which Stefano and his four siblings were born.
 
-**Answer:** 9930
+[[Quesiti/src_gs_2005#q01|src_gs_2005__Q01]]
 
 
 
@@ -72,24 +73,23 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2131
-**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2005)
+**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The three-card game*
+*The three-card game: the 3 cards J, Q, K are*
 
 ![[src_gs_2005__prob2.png]]
 
-> The three-card game. The 3 cards J, Q, K are put at random into 3 boxes numbered 1, 2, 3 (one per box). Then the 3 boxes are placed at random in front of an observer. It is known that
-> • box number 2 is to the left of box number 3;
-> • card Q is to the left of card J;
-> • box 1 is to the right of card K;
-> • card J is not in box 1.
-> Determine the arrangement of the boxes and of the cards inside them. “Is to the left” does not mean “is immediately to the left”, and similarly for the right. In the answer indicate, from left to right: the number of the box on the left, the number of the central box, the number of the box containing card J, the number of the box containing card Q.
+> The three-card game: the 3 cards J, Q, K are
+> Place them at random into 3 numbered boxes labeled 1, 2, and 3 (one card per box). Next, the 3 boxes are placed at random in front of an observer. It is known that: • box number 2 is to the left of box number 3; • the Q card is to the left of the J card; • box 1 is to the right of the K card; • the J card is not in box 1. Determine the arrangement of the boxes and of the cards inside them. "Is to the left" does not mean "is exactly to the left"; the same applies to "to the right". In your answer, indicate, from left to right: the number of the leftmost box, the number of the middle box, the number of the box containing the J card, and the number of the box containing the Q card.
 
-**Answer:** 2131
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2005#q02|src_gs_2005__Q02]]
 
 
 
@@ -117,20 +117,24 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 9450
-**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.1
+**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cancel the debt*
+*Cancel the debt. According to the latest data, to pay*
 
 ![[src_gs_2005__prob3.png]]
 
-> Cancel the debt. According to the latest figures, to pay the debts run up by the organisers of this competition each of the 56 million inhabitants of our country would have to pay out 9 thousand euros. A very rich foreigner has offered to cover this stratospheric sum by himself, paying in cash with a pile of 10-dollar banknotes. The rich backer will then found an Institution that will run the event in the years to come. Knowing that at the current exchange rate one dollar is worth 80 euro cents, and that a pile of 100 ten-dollar banknotes is one and a half centimetres high, determine how many km high the mysterious benefactor's pile will have to be.
+> Cancel the debt. According to the latest data, to pay
+> If the debts incurred by the organizers of this competition were to be borne by each of the 56 million inhabitants of our country, each person would have to pay out 9,000 euros. A very wealthy foreigner has offered to cover this stratospheric sum on his own, paying in cash with a stack of $10 bills. The wealthy financier will then establish an organization that will oversee the event in the years to come. Knowing that, at the current exchange rate, one dollar is worth 80 cents of a euro and that a stack of 100 $10 bills is one and a half centimeters high, determine how many kilometers high the stack belonging to the mysterious benefactor will have to be.
 
-**Answer:** 9450
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2005#q03|src_gs_2005__Q03]]
 
 
 
@@ -154,20 +158,24 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0408
-**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.1
+**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*An additive plot of land*
+*An additional plot of land To build its future headquarters,*
 
 ![[src_gs_2005__prob4.png]]
 
-> An additive plot of land. To build its future headquarters, the Institution has bought a plot of land whose shape, seen from above, recalls a + sign obtained by suitably placing side by side 5 equal squares, whose side measures a whole number of metres. The area of the plot is greater than 5500 m^2 but less than 6000 m^2. Determine the length in metres of the perimeter of the plot.
+> An additional plot of land To build its future headquarters,
+> The entity has acquired a plot of land whose shape, viewed from above, resembles a + symbol formed by appropriately placing 5 identical squares side by side, each with a side length that is an integer number of meters. The area of the plot is greater than 5500 m² but less than 6000 m². Determine the length, in meters, of the perimeter of the plot.
 
-**Answer:** 0408
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2005#q04|src_gs_2005__Q04]]
 
 
 
@@ -195,20 +203,24 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1336
-**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2)
-**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.2
+**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bureaucracy*
+*Bureaucracy: Soon, bureaucracy had taken hold*
 
 ![[src_gs_2005__prob5.png]]
 
-> Bureaucracy. Very soon bureaucracy took over the Institution, to the point that 2 clerks were hired whose only task is to stamp a mountain of envelopes! The first arrives at the office at 9:00 and starts working, at a rate of 30 envelopes every 2 minutes. The second arrives an hour later and also starts stamping, at a rate of 50 envelopes every 3 minutes. Working without breaks, the first clerk finishes his work at 13:00. The second worker does not take breaks either, and has the same number of envelopes to stamp as the first. Determine at what time the second clerk will finish. In the answer use the 2 digits on the left for the hours (in the format 00 to 23) and the remaining ones for the minutes.
+> Bureaucracy: Soon, bureaucracy had taken hold
+> Of the organization, to the extent that 2 employees have been hired whose only task is to stamp a mountain of envelopes! The first arrives at the office at 9:00 and starts work at a rate of 30 envelopes every 2 minutes. The second arrives an hour later and also starts stamping, at a rate of 50 envelopes every 3 minutes. Working without breaks, the first employee finishes their work at 13:00. The second worker also takes no breaks and has the same number of envelopes to stamp as the first. Determine what time the second employee will finish. In the answer, use the 2 digits on the left to indicate the hours (in the format from 00 to 23) and the remaining digits to indicate the minutes.
 
-**Answer:** 1336
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2005#q05|src_gs_2005__Q05]]
 
 
 
@@ -237,20 +249,24 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0252
-**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2)
-**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.2
+**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Geometric combination*
+*Geometric combination The liquidity of the Entity is*
 
 ![[src_gs_2005__prob6.png]]
 
-> Geometric combination. The Institution's cash is kept in a wall safe with a knob in the shape of a regular pentagon. The centre of the pentagon is joined to the vertices, ideally dividing the knob into 5 triangles, 4 of which are silver and one gold. When the safe is closed, the knob must be positioned with the gold triangle at the bottom, with its base horizontal. To open the safe, the knob must be turned anticlockwise by less than one full turn, until the pentagon appears with a horizontal side at the top and the gold triangle on the left in the upper part. Determine by how many degrees the knob must be turned to open the safe.
+> Geometric combination The liquidity of the Entity is
+> It is kept in a wall-mounted safe that has a knob shaped like a regular pentagon. The center of the pentagon is connected to the vertices, thereby ideally dividing the knob into 5 triangles—4 silver and 1 gold. When the safe is closed, the knob must be positioned so that the gold triangle is at the bottom with its base horizontal. To open the safe, the knob must be turned counterclockwise by less than one full turn until the pentagon appears with one side at the top oriented horizontally and the gold triangle on the left in the upper part. Determine by how many degrees the knob must be turned to open the safe.
 
-**Answer:** 0252
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2005#q06|src_gs_2005__Q06]]
 
 
 
@@ -275,20 +291,20 @@ level: squadre
 > età degli spettatori presenti quest’anno.
 
 **Risposta:** 4184
-**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2)
-**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.2
+**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*There are more and more of us*
+*We are more and more. At the first edition of this team competition, held on 2…*
 
 ![[src_gs_2005__prob7.png]]
 
-> There are more and more of us. The first edition of this team competition, held on 2 April 2003, was watched by 57 spectators, the sum of whose ages was curiously 2003. The following edition, held on 2 April 2004, was followed by 63 spectators, wholly or partly different from the previous ones, the sum of whose ages was curiously 2004. This year it is expected that the audience will consist of all and only those who attended at least one of the previous editions. Determine the maximum possible value of the sum of the ages of the spectators present this year.
+> We Are Increasing in Number At the first edition of this team competition, held on 2 April 2003, 57 spectators attended; curiously, the sum of their ages was 2003. The next edition, held on 2 April 2004, was attended by 63 spectators, all or some of whom were different from those at the previous edition; curiously, the sum of their ages was 2004. This year, it is expected that the audience will consist of exactly and solely those who attended at least one of the previous editions. Determine the maximum possible value of the sum of the ages of the spectators present this year.
 
-**Answer:** 4184
+[[Quesiti/src_gs_2005#q07|src_gs_2005__Q07]]
 
 
 
@@ -316,20 +332,24 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0812
-**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2)
-**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.2
+**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A demanding customer*
+*A demanding customer. In the agency's canteen, the cook*
 
 ![[src_gs_2005__prob8.png]]
 
-> A demanding customer. In the Institution's canteen the cook has no clocks or timers, but only two hourglasses of 7 and 4 minutes respectively, which can be turned over only when all the sand has run to the same side. The Big Boss arrives at 7:55 and orders for breakfast an egg cooked for exactly 9 minutes. At 7:56 the cook starts working (the times are those shown by the Boss's watch, which of course the cook cannot consult). Assuming that the cook manages his resources in the best possible way, determine at what time the egg will be ready. In the answer use the 2 digits on the left for the hours (in the format 00 to 23) and the remaining ones for the minutes.
+> A demanding customer. In the organization's canteen, the cook
+> They do not have clocks or timers at their disposal, but only two hourglasses, one lasting 7 minutes and the other 4 minutes; the hourglasses can be turned only when all the sand has passed to the other side. The Great Chief arrives at 7:55 and, for breakfast, orders an egg cooked for exactly 9 minutes. At 7:56, the cook starts working (the times are those shown by the Chief's clock, which, of course, the cook cannot consult). Assuming that the cook makes the best use of their resources, determine what time the egg will be ready. In the answer, use the two digits on the left to indicate the hours (in the 00 to 23 format) and the remaining digits to indicate the minutes.
 
-**Answer:** 0812
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2005#q08|src_gs_2005__Q08]]
 
 
 
@@ -354,20 +374,24 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4005
-**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2)
-**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.2
+**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The mirror... slims*
+*The mirror . . . loses weight A four-digit number*
 
 ![[src_gs_2005__prob9.png]]
 
-> The mirror... slims. A 4-digit number is said to be greater than its mirror image if it is not divisible by 10 and is strictly greater than the number obtained by reading its digits from right to left. For example, 6752 is greater than its mirror image (since 6752 > 2576), while 3546 and 3850 are not. Determine how many 4-digit numbers are greater than their mirror image.
+> The mirror . . . loses weight A four-digit number
+> A number is said to be greater than its reverse if it is not divisible by 10 and is strictly greater than the number obtained by reading its digits from right to left. For example, 6752 is greater than its reverse (since 6752 > 2576), whereas 3546 and 3850 are not. Determine how many 4-digit numbers are greater than their reverse.
 
-**Answer:** 4005
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2005#q09|src_gs_2005__Q09]]
 
 
 
@@ -395,20 +419,24 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0480
-**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2)
-**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.2
+**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The team dinner*
+*The social dinner, Roberto, the captain of his*
 
 ![[src_gs_2005__prob10.png]]
 
-> The team dinner. Roberto, the captain of his team, has organised a dinner with the other 6 regular members and the 2 reserves, and for this has booked a table for 9 people: one seat at the head of the table and 4 seats on each of the long sides. Arriving first at the restaurant, Roberto naturally sits at the head of the table. As they arrive, the others sit around him: the first two sit beside him and, little by little, the others take their places so as to be as close as possible to Roberto. Knowing that Daniela (the runner who hands in the answers) always arrives immediately after Roberto, while Ilaria and Pierluigi (the two reserves) always arrive last, determine in how many different ways Roberto and his friends can sit around the table.
+> The social dinner Roberto, the captain of his
+> The team has organized a dinner with the other 6 starters and the 2 substitutes, and for this purpose has reserved a table for 9 people: one seat at the head of the table and 4 seats on each of the long sides. Having arrived at the restaurant first, Roberto naturally sits at the head of the table. As the others arrive, they sit around him: the first two sit on his sides, and in turn the others arrange themselves so as to be as close as possible to Roberto. Knowing that Daniela (the deliverer) always arrives immediately after Roberto, while Ilaria and Pierluigi (the two substitutes) always arrive last, determine in how many different ways Roberto and his friends can sit around the table.
 
-**Answer:** 0480
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2005#q10|src_gs_2005__Q10]]
 
 
 
@@ -431,20 +459,23 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9000
-**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3)
-**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.3
+**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trekking*
+*Trekking A tourist tackled a mountain climb and then made their way back down to the valley, p…*
 
 ![[src_gs_2005__prob11.png]]
 
-> Trekking. A tourist climbed up a mountain, then returned to the valley along a different path, 6 km longer. Both the ascent and the descent lasted exactly 3 hours. The tourist kept a constant pace both going up and coming down, but on the way back each km took 8 minutes less than on the way up. Determine the length in metres of the uphill path.
+> Trekking: A tourist tackled an uphill climb in the mountains and then returned to the valley via a different trail that was 6 km longer. Both the ascent and the descent lasted exactly 3 hours. The tourist maintained a constant pace both on the way up and on the way back, but on the return trip, each kilometre was covered 8 minutes faster than on the way up. Determine the length, in metres, of the uphill route.
 
-**Answer:** 9000
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2005#q11|src_gs_2005__Q11]]
 
 
 
@@ -473,20 +504,24 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7765
-**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3)
-**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.3
+**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sweet invitations*
+*Tasty invitations Last year's team competition was*
 
 ![[src_gs_2005__prob12.png]]
 
-> Sweet invitations. Last year's team competition ended with a big party. The number of girls taking part was greater than the number of boys, but less than one and a half times the number of boys. At the beginning, to break the ice, each girl gave a chocolate to every boy she knew, then each boy gave a chocolate to every girl he did not know. Whoever received chocolates ate them immediately. Knowing that 5005 chocolates were eaten in all, determine how many girls and how many boys took part in the party. Assume that acquaintance is symmetric, that is if A knows B then B knows A. In the answer use the 2 digits on the left for the number of girls and the 2 digits on the right for the number of boys.
+> Tasty invitations Last year's team competition was
+> It ended with a big party. The number of girls who took part was greater than the number of boys but less than one and a half times the number of boys. At the beginning, to break the ice, each girl gave a chocolate to every boy she knew; then each boy gave a chocolate to every girl he did not know. Anyone who received chocolates ate them immediately. Knowing that a total of 5005 chocolates were eaten, determine how many girls and how many boys took part in the party. Assume that acquaintance is symmetric—that is, if A knows B, then B knows A. In the answer, use the two digits on the left to indicate the number of girls and the two digits on the right to indicate the number of boys.
 
-**Answer:** 7765
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2005#q12|src_gs_2005__Q12]]
 
 
 
@@ -514,20 +549,24 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1933 *(calcolata)*
-**Fonte risposta:** calcolata (non riportata nella fonte); impostazione in [PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3)
-**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** calcolata (non riportata nella fonte); impostazione in PDF p.3
+**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The satellites*
+*Satellites To broadcast the competitions worldwide,*
 
 ![[src_gs_2005__prob13.png]]
 
-> The satellites. To broadcast the competitions worldwide, the Institution has launched 2 satellites, which now revolve around the Earth following, in the same direction, 2 coplanar circular orbits of different radii. The first satellite takes 3 hours and 50 minutes to complete one revolution, the second takes 4 hours and 15 minutes. At the control centre they observe that, at the stroke of midnight on a certain day, the 2 satellites are at their minimum distance from each other. Determine at what time they will be at their maximum distance for the first time (all times refer to the time zone of the control centre). In the answer use the 2 digits on the left for the hours (in the format 00 to 23) and the remaining ones for the minutes.
+> Satellites To broadcast the competitions worldwide,
+> The agency has launched 2 satellites, which now orbit the Earth in the same direction along 2 coplanar circular orbits of different radii. The first satellite takes 3 hours and 50 minutes to complete one full revolution; the second takes 4 hours and 15 minutes. At the control center, it is observed that, at the stroke of midnight on a given day, the 2 satellites are at their closest distance to each other. Determine what time they will first be at their greatest distance from each other (all times are given with reference to the time zone of the control center). In the answer, use the 2 digits on the left to indicate the hours (in the 00 to 23 format) and the remaining digits to indicate the minutes.
 
-**Answer:** 1933 *(computed: not given in the source)*
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2005#q13|src_gs_2005__Q13]]
 
 
 
@@ -556,20 +595,23 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6950
-**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3)
-**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.3
+**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Whoever makes mistakes pays*
+*Whoever makes a mistake pays. The new head of the Agency wanted the cladding of… to be redone*
 
 ![[src_gs_2005__prob14.png]]
 
-> Whoever makes mistakes pays. The new head of the Institution wanted the floor of the hall of the old headquarters redone. It is a square room with sides of 20 metres, which was to be paved with white and black square tiles whose diagonal measures 30 cm. The tiles were to be laid as a chessboard and diagonally (at 45°) with respect to the walls, so that the centre of the room was a vertex of 4 tiles. Since the black tiles turned out to be extremely difficult to cut, the contractor decided to replace the black tiles that would have had to be cut with red tiles. At the end of the work, the Big Boss judged the result unsightly and, after a long legal dispute, the firm was ordered to pay a penalty of 10 euro cents for each square centimetre of red tile on the floor. Determine how many euros the penalty amounts to.
+> Whoever makes a mistake pays. The new head of the Agency wanted the flooring in the hall of the old headquarters to be redone. This is a square room 20 metres on each side; its floor was to be tiled with square black-and-white tiles whose diagonal measured 30 cm. The tiles were to be laid in a checkerboard pattern and diagonally (at 45°) relative to the walls, so that the centre of the room would be the vertex where four tiles met. Since the black tiles proved extremely difficult to cut, the contracting company decided to replace the black tiles that would have had to be cut with red tiles. At the end of the work, the Big Boss deemed the result unsightly, and after a lengthy legal dispute, the company was ordered to pay a penalty of 10 cents of a euro for every square centimetre of red tile on the floor. Determine how many euros the penalty amounts to.
 
-**Answer:** 6950
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2005#q14|src_gs_2005__Q14]]
 
 
 
@@ -598,20 +640,23 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3338
-**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3)
-**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.3
+**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square Boulevard*
+*Square Boulevard The authorities have decided to renew the paving of the gra…*
 
 ![[src_gs_2005__prob15.png]]
 
-> Square Boulevard. The authorities decided to renew the paving of the great boulevard leading to the future headquarters of the Institution, enriching it with a special ornamental pattern made up as follows: first a square with a side of 1 cm, then one with a side of 2 cm, then one with a side of 3 cm, and so on up to the last square, whose side will be as much as 10 metres. The squares must all be of different colours, and each of them must be made as a mosaic, using small square tiles of the same colour with a side of 1 cm. Unfortunately the small tiles of the various colours, which are very precious, are sold in packs of 9, so that, even buying wisely, in the end quite a few tiles will be left over. Determine the minimum number of tiles that will remain unused.
+> Square Boulevard The authorities have decided to renew the paving of the large boulevard leading to the future headquarters of the Agency, enriching it with a particular ornamental pattern composed as follows: first, a square with sides 1 cm long; then, continuing, a square with sides 2 cm long; then one with sides 3 cm long; and so on up to the last square, whose side will be a full 10 metres long. All the squares must be different colours, and each must be made as a mosaic using square tiles, 1 cm on a side, of the same colour. Unfortunately, the tiles in the various colours, which are very valuable, are sold in packs of 9; so, even with careful management of purchases, quite a few tiles will end up left over. Determine the minimum number of tiles that will remain unused.
 
-**Answer:** 3338
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2005#q15|src_gs_2005__Q15]]
 
 
 
@@ -644,20 +689,24 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0005
-**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4)
-**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.4
+**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The radio buoys 1*
+*Radio-boe 1 To improve communications with the*
 
 ![[src_gs_2005__prob16.png]]
 
-> The radio buoys 1. To improve communications with the satellites launched, the Institution must position three radio buoys near a lighthouse on a small island. The first must be, with respect to the lighthouse, 3 km east and 4 km north; the second 1900 metres east and 2 km south, again with respect to the lighthouse. To allow certain types of transmission, the third buoy must be placed so that the 3 buoys are the vertices of an isosceles triangle. Taking these constraints into account, the technicians start discussing which is the best position for the third buoy. “In my opinion it should be placed on the line of the points that lie 1 km east of the lighthouse”, remarks the first technician. “Will this condition be enough to determine the position of the third buoy uniquely?”, wonders a colleague with a mathematical past. Determine how many positions are compatible with this information.
+> Radio-boe 1 To improve communications with the
+> For launched satellites, the Agency must position three radio beacons near a lighthouse on a small island. The first must be 3 km east and 4 km north of the lighthouse; the second must be 1900 metres east and 2 km south of the lighthouse, again relative to the lighthouse. To enable certain types of transception, the third beacon must be placed so that the three beacons are the vertices of an isosceles triangle. Taking these constraints into account, the technicians begin discussing what the best position for the third beacon would be. "In my opinion, it should be placed on the line of points that are 1 km east of the lighthouse," observes the first technician. "Will this condition alone be enough to uniquely determine the position of the third beacon?" asks a colleague of his with a background in mathematics. Determine how many positions are compatible with this information.
 
-**Answer:** 0005
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2005#q16|src_gs_2005__Q16]]
 
 
 
@@ -683,20 +732,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1234
-**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4)
-**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.4
+**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equidistribution*
+*Equidistribution: Three suitably drawn straight lines divide a circle into 7 reg…*
 
 ![[src_gs_2005__prob17.png]]
 
-> Equidistribution. Three suitably drawn lines divide a circle into 7 regions. We now want to place in each region an integer between 1 and 7, using each of them exactly once, and so that for each line the sum of the numbers in the two half-planes it determines is the same. Determine which integers can end up in the central triangle. In the answer indicate these integers, from left to right, in increasing order. If there are more than 4, indicate only the 4 smallest; if there are fewer than 4, fill the remaining boxes on the right with zeros.
+> Equidistribution: Three suitably drawn straight lines divide a circle into 7 regions. We now want to place in each region an integer between 1 and 7, so that each integer is used exactly once and so that, for each line, the sum of the numbers in the two half-planes delimited by that line is the same. Determine which integers can end up in the central triangle. In the answer, list those integers from left to right in increasing order. If there are more than 4, list only the 4 smallest; if there are fewer than 4, fill the remaining boxes to the right with zeros.
 
-**Answer:** 1234
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2005#q17|src_gs_2005__Q17]]
 
 
 
@@ -722,20 +774,23 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0346
-**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4)
-**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.4
+**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parva sed apta mihi*
+*Small but suitable for me. In the organization's archive, a spider has found a cubic box…*
 
 ![[src_gs_2005__prob18.png]]
 
-> Parva sed apta mihi. In the Institution's archive, a spider found a cubic box with sides of 60 cm, open at the top, and chose it as its home. It then chose one of the vertices of the bottom face, deciding that it will retire there to rest. To have a more private space, it then built a triangular web joining the other endpoints of the 3 edges of the cube that start from its favourite vertex. Finally, it spun a straight thread that starts from its favourite vertex and, crossing the web, reaches the opposite vertex of the top face, thus running along a whole internal diagonal of the cube. Determine the length in millimetres of the part of the thread between the spider's favourite vertex and the web.
+> Small but suitable for me In the organization's archive, a spider found a cubic box with sides 60 cm long, open at the top, and chose it as its home. It then selected one of the vertices of the lower base, deciding that it would retire there to rest. To have a more private environment, it therefore built a triangular web by joining the other endpoints of the three edges of the cube that start from its favorite vertex. Finally, it spun a straight thread that starts from its favorite vertex and, passing through the web, reaches the opposite vertex of the upper base, thus running along an entire internal diagonal of the cube. Determine the length, in millimetres, of the portion of the thread that lies between the spider's favorite vertex and the web.
 
-**Answer:** 0346
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2005#q18|src_gs_2005__Q18]]
 
 
 
@@ -764,20 +819,24 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0681
-**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4)
-**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.4
+**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Random... slackers*
+*Scansafatiche . . . random To save time,*
 
 ![[src_gs_2005__prob19.png]]
 
-> Random... slackers. To save time, a university lecturer, actively involved in running the team competitions, gives very summary exams. He asks the student a question whose answer can only be “True” or “False”: if the student answers correctly he has passed the exam, otherwise not. Three friends, also wanting to save time, decide to turn up at the first exam session completely unprepared, trying to answer at random; those who do not pass will come back to the second session to try their luck again, and so on. Determine the probability that at least one of the three friends has to turn up at the fourth session. Having expressed the probability as an irreducible fraction m/n, write m + n as the answer.
+> Scansafatiche . . . random To save time,
+> A university lecturer who is actively involved in managing team competitions gives very brief exams. He poses a question to the student whose answer can only be "True" or "False": if the student answers correctly, they have passed the exam; otherwise, they have not. Three friends, also wanting to save time, decide to show up for the first exam sitting completely unprepared and try to answer at random; those who do not pass will come back for the second sitting to try their luck again, and so on. Determine the probability that at least one of the three friends has to appear for the fourth sitting. Express the probability as an irreducible fraction m/n, and state m + n in the answer.
 
-**Answer:** 0681
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2005#q19|src_gs_2005__Q19]]
 
 
 
@@ -801,19 +860,19 @@ level: squadre
 > punto iniziale verrà a trovarsi la puntina.
 
 **Risposta:** 0894
-**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2005)
+**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*And who can stop it now!*
+*And who can stop it now! A large plotter has been programmed to produce a drawing…*
 
 ![[src_gs_2005__prob20.png]]
 
-> And who can stop it now! A large plotter has been programmed to make a drawing on a huge sheet of paper: starting from a fixed point, the pen moves one metre to the right, then 50 cm up, then 25 cm to the left, then 12.5 cm down. Then it keeps going alternately to the right, up, to the left and down, halving each time the length of the segment drawn. Because of a software defect, the plotter never stops. Determine how many millimetres from the starting point the pen will end up, in the long run.
+> And who can stop it now! A large plotter has been programmed to draw on an enormous sheet of paper: starting from a predetermined point, the pen tip moves one metre to the right, then 50 cm upwards, then 25 cm to the left, and then 12.5 cm downwards. Then it continues moving alternately to the right, upwards, to the left, and downwards, halving the length of each line segment drawn each time. Due to a software flaw, the plotter no longer stops. Determine, in the long run, how many millimetres away from the starting point the pen tip will end up.
 
-**Answer:** 0894
+[[Quesiti/src_gs_2005#q20|src_gs_2005__Q20]]
 
 
 
@@ -834,20 +893,21 @@ level: squadre
 > partecipano, come minimo, alle gare a squadre di quest’anno.
 
 **Risposta:** 1003
-**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=5)
-**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.5
+**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sprechen Sie Deutsch?*
+*Do you speak German? Among the participants in the*
 
 ![[src_gs_2005__prob21.png]]
 
-> Sprechen Sie Deutsch? Among the participants in this year's team competitions, those who study German are strictly fewer than one third, but strictly more than 33.3%. On the basis of this condition, determine the minimum number of students taking part in this year's team competitions.
+> Do you speak German? Among the participants in the
+> In this year's team competitions, those studying German are strictly fewer than one third but strictly more than 33.3%. Based on this condition, determine the minimum number of students who participate in this year's team competitions.
 
-**Answer:** 1003
+[[Quesiti/src_gs_2005#q21|src_gs_2005__Q21]]
 
 
 
@@ -874,21 +934,23 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0320
-**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2005)
+**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*These printers!*
+*These printers! The big boss has decided that the*
 
 ![[src_gs_2005__prob22.png]]
 
-> These printers! The Big Boss has established that the budget available to the Institution will be a number of euros equal to 34!, that is the product of all the integers from 1 to 34. A member carries out the calculation with the help of a computer and gets the following printout
-> 34! = 295 232 799 ∗∗9 604 140 847 618 609 643 5 ∗∗000 000.
-> Unfortunately, as can be seen, the printer has replaced 4 of the digits with asterisks. Determine the missing digits. In the answer write the four missing digits in the same order in which they should appear in the printout.
+> These printers! The big boss has decided that the
+> The budget available to the Organization will be a number of euros equal to 34!, that is, the product of all integers from 1 to 34. A member performs the calculation with the help of a computer and obtains the following printout: 34! = 295 232 799 ∗∗9 604 140 847 618 609 643 5 ∗∗000 000. Unfortunately, as can be seen, the printer has replaced 4 of the digits with asterisks. Determine the missing digits. In the answer, write the four missing digits in the same order in which they should appear in the printout.
 
-**Answer:** 0320
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2005#q22|src_gs_2005__Q22]]
 
 
 
@@ -911,20 +973,20 @@ level: squadre
 > la terza boa.
 
 **Risposta:** 1100
-**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=5)
-**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, PDF p.5
+**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The radio buoys 2*
+*Radio buoys 2: The discussion among the technicians who were supposed to install the radio buoys i…*
 
 ![[src_gs_2005__prob23.png]]
 
-> The radio buoys 2. The discussion among the technicians who had to place the radio buoys in a previous problem went on for quite a while. In the end the idea of placing the third buoy on the line of the points 1 km east of the lighthouse was abandoned, and it was decided instead to place the buoy as close as possible to the lighthouse, compatibly with the other constraints. “Now there is certainly only one possible point”, confirms the technician-mathematician. Determine how many metres from the lighthouse the third buoy will be placed.
+> Radio-buoy 2: The discussion among the technicians who were supposed to place the radio buoys in an earlier problem went on for quite a while yet. In the end, the idea of placing the third buoy on the line of points 1 km east of the lighthouse was abandoned, and instead it was decided to place the buoy as close as possible to the lighthouse, subject to the other constraints. "Now there is certainly only one possible point," confirms the technical mathematician. Determine how many metres from the lighthouse the third buoy will be placed.
 
-**Answer:** 1100
+[[Quesiti/src_gs_2005#q23|src_gs_2005__Q23]]
 
 
 
@@ -959,16 +1021,20 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8517
-**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2005)
+**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Median fees*
+*Median remuneration Now that the team competitions*
 
 ![[src_gs_2005__prob24.png]]
 
-> Median fees. Now that the team competitions are run by a rich Institution, all the collaborators will finally receive generous fees. The amounts in euros of the various fees will all be 4-digit median numbers. According to the definition given by the Big Boss, a 4-digit number is called median if its digits are not in arithmetic progression, but the number formed by its 2 middle digits is the arithmetic mean of the number formed by the first two digits and the number formed by the last 2 digits. So, for example, 3581 is a median number (indeed (35 + 81)/2 = 58), while 3333, 3579 or 6420 are not, since their digits are in arithmetic progression. The highest fee obviously goes to the Big Boss; a little less goes to the radio-buoy technicians (all paid the same amount); even less to the 2 clerks who have to stamp the envelopes (also paid equally); and less still to the canteen cook, accused of taking too long to cook a simple egg. Determine the maximum amount of the cook's fee.
+> Median remuneration Now that the team competitions
+> They are managed by a wealthy organization; finally, all the collaborators will receive generous remuneration. The amounts in euros of the various remunerations will all be median four-digit numbers. According to the definition given by the Big Boss, a four-digit number is called median if its digits are not in arithmetic progression, but the number formed by its two middle digits is the arithmetic mean of the number formed by the two leading digits and of the number formed by the two trailing digits. Thus, for example, 3581 is a median number (indeed, (35 + 81)/2 = 58), whereas 3333, 3579, or 6420 are not, since their digits are in arithmetic progression. The highest remuneration naturally goes to the Big Boss; the radio-beacon technicians receive a little less (all of them are paid the same amount); the two clerks who have to stamp the envelopes receive even less (they too are paid the same); and the canteen cook receives even less, having been accused of taking too long to cook a simple egg. Determine the maximum amount that the cook's remuneration will come to.
 
-**Answer:** 8517
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2005#q24|src_gs_2005__Q24]]

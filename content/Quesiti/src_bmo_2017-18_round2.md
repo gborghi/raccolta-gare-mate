@@ -31,11 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo tangente a BC a B attraverso il punto medio M incontra AB a P; prova AB×BP=2BM2*
+*La circonferenza tangente a BC in B e passante per il punto medio M interseca AB in P; dimostrare che AB×BP=2BM²*
 
-> Considera il triangolo $ABC$. Il punto medio di $AC$ è $M$. Il cerchio tangente a $BC$ a $B$ e passando attraverso $M$ incontra di nuovo la linea $AB$ a $P$.
-> 
-> Prove che $AB \times BP = 2BM^2$.
+> Si consideri il triangolo $ABC$. Il punto medio di $AC$ è $M$. La circonferenza tangente a $BC$ in $B$ e passante per $M$ incontra nuovamente la retta $AB$ in $P$.
+>
+> Dimostrare che $AB \times BP = 2BM^2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2017-18_round2#q01|src_bmo_2017-18_round2__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco di torta circolare: per il quale il Cappellaio Pazzo può costringere Alice a mangiare tutte le torte
+*Gioco delle torte circolari: per quali n il Cappellaio Matto può costringere Alice a mangiare tutte le torte?*
 
-> Ci sono posti $n$ per il tè intorno a un tavolo circolare, e ogni posto ha una piccola torta su un piatto. Alice arriva prima, si siede al tavolo e mangia la sua torta (ma non è molto bella). Successivamente arriva il Cappellaio Pazzo, e dice ad Alice che avrà una festa di tè solitaria, e che deve continuare a cambiare il suo posto, e ogni volta deve mangiare la torta di fronte a lei (se non è stato ancora mangiato). Infatti il Cappellaio Pazzo è molto boss, e dice ad Alice che, per $i = 1, 2, \ldots, n-1$, quando si muove per la $i$-time, deve spostare $a_i$ posti e lui consegna ad Alice la lista di istruzioni $a_1, a_2, \ldots, a_{n-1}$. A Alice non piacciono le torte, ed è libera di scegliere, in ogni fase, se muoversi in senso orario o in senso antiorario. Per quali valori di $n$ il Cappellaio Pazzo può costringere Alice a mangiare tutte le torte?
+> Intorno a un tavolo circolare ci sono $n$ posti apparecchiati per il tè, e su ogni posto c'è una piccola torta su un piatto. Alice arriva per prima, si siede al tavolo e mangia la sua torta (ma non è granché). Poi arriva il Cappellaio Matto e dice ad Alice che avrà un tè solitario e che dovrà continuare a cambiare posto, e ogni volta dovrà mangiare la torta che ha davanti (se non è già stata mangiata). In realtà il Cappellaio Matto è molto autoritario e dice ad Alice che, per $i = 1, 2, \ldots, n-1$, quando si sposterà per la $i$-esima volta, dovrà spostarsi di $a_i$ posti, e porge ad Alice la lista di istruzioni $a_1, a_2, \ldots, a_{n-1}$. Ad Alice le torte non piacciono, e a ogni tappa è libera di scegliere se spostarsi in senso orario o antiorario. Per quali valori di $n$ il Cappellaio Matto può costringere Alice a mangiare tutte le torte?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2017-18_round2#q02|src_bmo_2017-18_round2__Q02]]
 
 
 
@@ -87,9 +101,20 @@ Gioco di torta circolare: per il quale il Cappellaio Pazzo può costringere Alic
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine se la somma dei cubetti (m+1)3+...+(2m)3 è sempre un quadrato perfetto*
+*Determinare se la somma dei cubi (m+1)³+…+(2m)³ sia mai un quadrato perfetto*
 
-> È noto che, per ogni intero positivo $n$, $$1^3 + 2^3 + \cdots + n^3 = \frac{n^2(n+1)^2}{4}$$ e così è un quadrato. Determinare se esiste un intero positivo $m$ tale che $$(m+1)^3 + (m+2)^3 + \cdots + (2m)^3$$ sia quadrato.
+> È ben noto che, per ogni intero positivo $n$,
+> $$1^3 + 2^3 + \cdots + n^3 = \frac{n^2(n+1)^2}{4}$$
+> e quindi è un quadrato. Determinare se esista o meno un intero positivo $m$ tale che
+> $$(m+1)^3 + (m+2)^3 + \cdots + (2m)^3$$
+> sia un quadrato.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2017-18_round2#q03|src_bmo_2017-18_round2__Q03]]
 
 
 
@@ -118,12 +143,19 @@ Gioco di torta circolare: per il quale il Cappellaio Pazzo può costringere Alic
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Assorbimento di funzioni su reali con f^2018(z) numero intero; domande di esistenza*
+*Funzioni assorbenti sui reali con f^2018(z) intero; questioni di esistenza*
 
-> Lasciate che $f$ sia una funzione definita sui numeri reali e assumendo valori reali. Diciamo che $f$ assorbe se $f(x) \le f(y)$ quando $x \le y$ e $f^{2018}(z)$ è un intero per tutti i numeri reali $z$.
-> 
-> a) Esiste una funzione di assorbimento $f$ tale che $f(x)$ sia un numero intero per solo numerosi valori finiti di $x$?
-> 
-> b) Esiste una funzione di assorbimento $f$ e una sequenza crescente di numeri reali $a_1 < a_2 < a_3 < \cdots$ tale che $f(x)$ sia un intero solo se $x = a_i$ per alcuni $i$?
-> 
-> Si noti che se $k$ è un intero positivo e $f$ è una funzione, allora $f^k$ indica la composizione delle copie $k$ di $f$. Ad esempio $f^3(t) = f(f(f(t)))$ per tutti i numeri reali $t$.
+> Sia $f$ una funzione definita sui numeri reali e a valori reali. Diciamo che $f$ è assorbente se $f(x) \le f(y)$ ogni volta che $x \le y$ e $f^{2018}(z)$ è un intero per tutti i numeri reali $z$.
+>
+> a) Esiste una funzione assorbente $f$ tale che $f(x)$ sia un intero solo per un numero finito di valori di $x$?
+>
+> b) Esistono una funzione assorbente $f$ e una successione crescente di numeri reali $a_1 < a_2 < a_3 < \cdots$ tali che $f(x)$ sia un intero solo se $x = a_i$ per qualche $i$?
+>
+> Si noti che, se $k$ è un intero positivo e $f$ è una funzione, allora $f^k$ denota la composizione di $k$ copie di $f$. Ad esempio, $f^3(t) = f(f(f(t)))$ per tutti i numeri reali $t$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2017-18_round2#q04|src_bmo_2017-18_round2__Q04]]

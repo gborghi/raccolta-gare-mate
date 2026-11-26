@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova un intero positivo la cui prima cifra è 1, triplicato quando si sposta alla fine*
+*Un intero positivo che comincia per $1$ e, spostata quella cifra in fondo, triplica*
 
-> Trova un intero positivo la cui prima cifra è $1$ e che ha la proprietà che, se questa cifra viene trasferita alla fine del numero, il numero è triplicato.
+> Trovare un intero positivo la cui prima cifra è $1$ e che ha la proprietà che, se questa cifra è trasferita in fondo al numero, il numero triplica.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1989-90_round1#q01|src_bmo_1989-90_round1__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato ABCD, P su AB; trovare il rapporto massimo e min PC/PD*
+*Massimo e minimo di $PC/PD$, quando $AP \times BP = AB^2$*
 
-> $ABCD$ è un quadrato e $P$ è un punto sulla linea $AB$. Trova i valori massimi e minimi del rapporto $PC/PD$, mostrando che si verificano per i punti $P$ dati da $AP \times BP = AB^2$.
+> $ABCD$ è un quadrato e $P$ è un punto sulla retta $AB$. Trovare il massimo e il minimo del rapporto $PC/PD$, mostrando che si ottengono per i punti $P$ dati da $AP \times BP = AB^2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1989-90_round1#q02|src_bmo_1989-90_round1__Q02]]
 
 
 
@@ -81,9 +95,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*quadrilatero convex con cos identificazione; prova trapezio o ciclico*
+*Se la somma dei coseni è nulla, $ABCD$ è un trapezio o è ciclico*
 
-> Gli angoli $A$, $B$, $C$, $D$ di un quadrilaterale convexo soddisfano la relazione $$\cos A + \cos B + \cos C + \cos D = 0.$$ Prove che $ABCD$ sia un trapezio o ciclico.
+> Gli angoli $A$, $B$, $C$, $D$ di un quadrilatero convesso soddisfano la relazione
+> $$\cos A + \cos B + \cos C + \cos D = 0.$$
+> Dimostrare che $ABCD$ è un trapezio o è ciclico.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1989-90_round1#q03|src_bmo_1989-90_round1__Q03]]
 
 
 
@@ -106,9 +129,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di monete pregiudiziale; trovare p per un gioco equo tra A e B*
+*Per quale $p$ il gioco fra $A$ e $B$ è equo*
 
-> Una moneta è biased in modo che la probabilità di ottenere una testa è $p$, $0 < p < 1$. Due giocatori $A$ e $B$ lanciano la moneta a turno fino a quando non si verifica una delle sequenze $HHH$ o $HTH$. Se la sequenza $HHH$ si verifica prima, allora $A$ vince. Se $HTH$ si verifica per primo, allora $B$ vince. Per quale valore di $p$ è il fair game (cioè in modo tale che $A$ e $B$ abbiano uguali possibilità di vincere)?
+> Una moneta è truccata in modo che la probabilità di ottenere testa sia $p$, $0 < p < 1$. Due giocatori $A$ e $B$ lanciano la moneta a turno finché compare una delle successioni $HHH$ o $HTH$. Se compare prima la successione $HHH$, vince $A$. Se compare prima $HTH$, vince $B$. Per quale valore di $p$ questo gioco è equo (cioè tale che $A$ e $B$ abbiano la stessa probabilità di vincere)?
+
+**Topic:** [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1989-90_round1#q04|src_bmo_1989-90_round1__Q04]]
 
 
 
@@ -135,13 +165,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le diagonali di quadrilaterali convexi si incontrano a O; dimostrare che la PQ è perpendicolare a RS*
+*Dimostrare che $PQ$ è perpendicolare a $RS$*
 
-> I diagonali di un quadrilaterale convex $ABCD$ si intersecano a $O$. I centriodi dei triangoli $AOB$ e $BOC$ sono $P$ e $Q$; gli ortocentri dei triangoli $AOB$ e $COD$ sono $R$ e $S$.
-> 
-> Prova che $PQ$ è perpendicolare a $RS$.
-> 
-> [Il centroide è l'intersezione delle linee da ogni vertice al punto medio del lato opposto; l'ortocentro è l'intersezione delle altitudini.]
+> Le diagonali di un quadrilatero convesso $ABCD$ si intersecano in $O$. I baricentri dei triangoli $AOB$ e $BOC$ sono $P$ e $Q$; gli ortocentri dei triangoli $AOB$ e $COD$ sono $R$ e $S$.
+>
+> Dimostrare che $PQ$ è perpendicolare a $RS$.
+>
+> [Il baricentro è l'intersezione delle rette da ciascun vertice al punto medio del lato opposto; l'ortocentro è l'intersezione delle altezze.]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1989-90_round1#q05|src_bmo_1989-90_round1__Q05]]
 
 
 
@@ -166,6 +203,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rationale x,y soddisfare x^4+y^4=2(xy)^3; provare 1-xy è quadrato razionale*
+*$1 - xy$ è il quadrato di un numero razionale*
 
-> Dimostra che se $x$, $y$ sono numeri razionali che soddisfano l'equazione $$x^4 + y^4 = 2(xy)^3,$$ allora $1 - xy$ è il quadrato di un numero razionale.
+> Dimostrare che se $x$, $y$ sono numeri razionali che soddisfano l'equazione
+> $$x^4 + y^4 = 2(xy)^3,$$
+> allora $1 - xy$ è il quadrato di un numero razionale.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1989-90_round1#q06|src_bmo_1989-90_round1__Q06]]

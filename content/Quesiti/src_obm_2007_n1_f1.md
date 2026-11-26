@@ -40,13 +40,26 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Modello nei prodotti di 101 con puniti; somma a cifre per quelli del 2007*
+*Pattern nei prodotti di 101 per le repunit; somma delle cifre per 2007 uni*
 
-> Osservare le seguenti moltiplicazioni: $$101\times 11=1111$$ $$101\times 111=11211$$ $$101\times 1111=112211$$ $$101\times 11111=1122211$$ $$\ldots$$ Qual è la somma delle cifre del numero ottenuto quando moltiplicano $101$ per il numero $\underbrace{11111\ldots1}_{2007}$ (il numero formato da $2007$)?
-> 
+> Osserva le seguenti moltiplicazioni:
+> $$101\times 11=1111$$
+> $$101\times 111=11211$$
+> $$101\times 1111=112211$$
+> $$101\times 11111=1122211$$
+> $$\ldots$$
+> Qual è la somma delle cifre del numero ottenuto moltiplicando $101$ per il numero $\underbrace{11111\ldots1}_{2007}$ (il numero formato da $2007$ uni)?
+>
 > (A) $1001$ \quad (B) $2007$ \quad (C) $2009$ \quad (D) $4008$ \quad (E) $4014$
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n1_f1#q01|src_obm_2007_n1_f1__Q01]]
 
 
 
@@ -74,13 +87,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare numeri interi positivi a tre cifre la cui somma digitale è uguale a 4*
+*Conta gli interi positivi a tre cifre la cui somma delle cifre è uguale a 4*
 
-> Quanti numeri interi positivi a tre cifre hanno la somma delle loro cifre uguale a $4$? Osservazione: ricordate che nessuno dei zero a sinistra conta come una cifra; ad esempio, il numero $031$ ha due cifre.
-> 
+> Quanti numeri interi positivi di tre cifre hanno la somma delle cifre uguale a $4$? Osservazione: ricorda che nessuno degli zeri all'inizio conta come cifra; ad esempio, il numero $031$ ha due cifre.
+>
 > (A) 4 \quad (B) 6 \quad (C) 7 \quad (D) 10 \quad (E) 12
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n1_f1#q02|src_obm_2007_n1_f1__Q02]]
 
 
 
@@ -106,11 +126,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato (due unità di quadrato danno perimetro 18) quindi 144 in fila; trovare perimetro*
+*Quadrato (due quadrati unitari hanno perimetro 18), poi 144 in fila; trova il perimetro*
 
-> Unendo due quadrati uguali fianco a fianco, si forma un rettangolo il cui perimetro è $18$ cm. Ora, unendo $144$ di questi quadrati fianco a fianco, in una singola riga, formiamo un rettangolo con larghezza e lunghezza diverse. Qual è il perimetro di questo ultimo rettangolo, in cm?
-> 
+> Unendo due quadrati uguali fianco a fianco, si forma un rettangolo il cui perimetro è di $18$ cm. Ora, unendo $144$ di questi quadrati fianco a fianco, in un'unica riga, formiamo un rettangolo con larghezza e lunghezza diverse. Qual è il perimetro di quest'ultimo rettangolo, in cm?
+>
 > (A) 1300 \quad (B) 1308 \quad (C) 1400 \quad (D) 1500 \quad (E) 1512
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n1_f1#q03|src_obm_2007_n1_f1__Q03]]
 
 
 
@@ -138,13 +166,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due quadrati che si sovrappongono di area 100 con perimetro totale 50; trovare area comune*
+*Due quadrati sovrapposti di area 100 e con perimetro totale 50; trovare l'area comune*
 
-> La figura accanto è formata da due quadrati, ciascuno di superficie $100\text{ cm}^2$, in parte sovrapposti, in modo tale che il perimetro della figura (la linea spessa) sia uguale a $50$ cm. Qual è l'area della regione comune ai due quadrati, in $\text{cm}^2$?
-> 
+> La figura accanto è formata da due quadrati, ciascuno di area $100\text{ cm}^2$, parzialmente sovrapposti, in modo tale che il perimetro della figura (la linea spessa) sia pari a $50$ cm. Qual è l'area della regione comune ai due quadrati, in $\text{cm}^2$?
+>
 > (A) 20 \quad (B) 25 \quad (C) 30 \quad (D) 40 \quad (E) 50
 
 ![[src_obm_2007_n1_f1__q04.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n1_f1#q04|src_obm_2007_n1_f1__Q04]]
 
 
 
@@ -172,13 +208,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di numeri unici fino al 2007 meno somma di numeri pari fino al 2006*
+*Somma dei numeri dispari fino a 2007 meno somma dei numeri pari fino a 2006*
 
-> La somma di tutti i numeri unici positivi fino a $2007$ meno la somma di tutti i numeri pari positivi fino a $2006$ è uguale a:
-> 
+> La somma di tutti i numeri dispari positivi fino a $2007$ meno la somma di tutti i numeri pari positivi fino a $2006$ è uguale a:
+>
 > (A) 1003 \quad (B) 1004 \quad (C) 2005 \quad (D) 2006 \quad (E) 2007
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n1_f1#q05|src_obm_2007_n1_f1__Q05]]
 
 
 
@@ -205,11 +248,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Due orologi, uno veloce e uno lento, impostato da Silvia. Trova l'ora di Cristina quando Silvia mostra le 10h.
+*Due orologi: uno va avanti, l'altro va indietro; sono regolati sull'orario di Silvia. Trovare l'ora di Cristina quando quello di Silvia segna le 10*
 
-> Silvia pensava che il suo orologio fosse $10$ minuti lento, quando in realtà era $5$ minuti veloce. Cristina pensava che il suo orologio fosse $10$ minuti veloce, quando in realtà era $5$ minuti lento. Nello stesso momento, i due amici si trovarono insieme e concordarono di fissare gli orologi presso Silvia. Poi, come era stato concordato, quando l'orologio di Silvia segnò l'ora $10$, Cristina arrivò. In quel momento, secondo l'orologio di Cristina, che ore erano?
-> 
+> Silvia pensava che il suo orologio fosse indietro di $10$ minuti, mentre in realtà era avanti di $5$ minuti. Cristina pensava che il suo orologio fosse avanti di $10$ minuti, mentre in realtà era indietro di $5$ minuti. Nello stesso momento, le due amiche si accordarono per incontrarsi, decidendo di regolare i loro orologi su quello di Silvia. Poi, come concordato, quando l'orologio di Silvia segnava le $10$, Cristina arrivò. In quel momento, secondo l'orologio di Cristina, che ora era?
+>
 > (A) $9\text{h}\,30\text{min}$ \quad (B) $9\text{h}\,50\text{min}$ \quad (C) $10\text{h}$ \quad (D) $10\text{h}\,10\text{min}$ \quad (E) $10\text{h}\,15\text{min}$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n1_f1#q06|src_obm_2007_n1_f1__Q06]]
 
 
 
@@ -238,13 +290,22 @@ Due orologi, uno veloce e uno lento, impostato da Silvia. Trova l'ora di Cristin
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fraczione a/b tra 0 e 1/7 dalla posizione della linea di numero; trovare possibile a+b*
+*Frazione a/b compresa tra 0 e 1/7 in base alla posizione sulla retta numerica; determina i possibili valori di a+b*
 
-> La frazione $\dfrac{a}{b}$, in cui $a$ e $b$ sono numeri interi positivi, rappresenta un numero tra $0$ e $\dfrac{1}{7}$, nella posizione mostrata nel diagramma accanto. Qual è il valore possibile della somma $a + b$?
-> 
+> La frazione $\dfrac{a}{b}$, dove $a$ e $b$ sono numeri interi positivi, rappresenta un numero compreso tra $0$ e $\dfrac{1}{7}$, nella posizione indicata nel diagramma accanto. Qual è un valore possibile per la somma $a + b$?
+>
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
 ![[src_obm_2007_n1_f1__q07.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n1_f1#q07|src_obm_2007_n1_f1__Q07]]
 
 
 
@@ -271,13 +332,19 @@ Due orologi, uno veloce e uno lento, impostato da Silvia. Trova l'ora di Cristin
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Olimpiade: 15% nessuna, 25% parziale, 156 risolti tutti; trovare il totale dei partecipanti*
+*Olimpiade: 15% nessuno, 25% parziale, 156 hanno risolto tutti; trova il numero totale di partecipanti*
 
-> In un test olimpiatico, $15\%$ degli studenti non ha risolto alcun problema, $25\%$ ha risolto almeno un problema ma ha commesso qualche errore, e il resto, $156$ degli studenti, ha risolto tutti i problemi correttamente. Il numero di studenti che hanno partecipato alle Olimpiadi è stato:
-> 
-> A) 200 \quad (B) 260 \quad (C) 93 \quad (D) 223 \quad (E) 300
+> In una prova olimpica, $15\%$ degli studenti non hanno risolto alcun problema, $25\%$ hanno risolto almeno un problema ma hanno commesso qualche errore, e i restanti, $156$ studenti, hanno risolto tutti i problemi correttamente. Il numero di studenti che hanno partecipato all'olimpiade era:
+>
+> (A) 200 \quad (B) 260 \quad (C) 93 \quad (D) 223 \quad (E) 300
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n1_f1#q08|src_obm_2007_n1_f1__Q08]]
 
 
 
@@ -303,11 +370,19 @@ Due orologi, uno veloce e uno lento, impostato da Silvia. Trova l'ora di Cristin
 <div class="qlang-split" data-lang="it"></div>
 
 
-Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
+*Rapporto uomini:donne = 2:3, donne:bambini = 4:1; trova uomini:bambini*
 
-> In una determinata città, il rapporto tra il numero di uomini e il numero di donne è $2:3$, e quello tra il numero di donne e il numero di bambini è $4:1$. Il rapporto tra il numero di uomini e il numero di bambini è:
-> 
+> In una certa città, il rapporto tra il numero di uomini e il numero di donne è $2:3$, e quello tra il numero di donne e il numero di bambini è $4:1$. Il rapporto tra il numero di uomini e il numero di bambini è:
+>
 > (A) $5:1$ \quad (B) $16:1$ \quad (C) $12:1$ \quad (D) $40:3$ \quad (E) $13:1$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n1_f1#q09|src_obm_2007_n1_f1__Q09]]
 
 
 
@@ -335,13 +410,21 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'angolo del triangolo equilaterale parallelo al lato quadrato; trovare angolo x*
+*Lato del triangolo equilatero parallelo al lato del quadrato; trovare l'angolo x*
 
-> Nella figura, il lato $\overline{AB}$ del triangolo equilaterale $ABC$ è parallelo al lato $\overline{DG}$ del quadrato $DEFG$. Qual è il valore dell'angolo $x$?
-> 
+> Nella figura, il lato $\overline{AB}$ del triangolo equilatero $ABC$ è parallelo al lato $\overline{DG}$ del quadrato $DEFG$. Qual è il valore dell'angolo $x$?
+>
 > (A) $80^\circ$ \quad (B) $90^\circ$ \quad (C) $100^\circ$ \quad (D) $110^\circ$ \quad (E) $120^\circ$
 
 ![[src_obm_2007_n1_f1__q10.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n1_f1#q10|src_obm_2007_n1_f1__Q10]]
 
 
 
@@ -368,13 +451,19 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*CD store moltiplica i prezzi di 0,68; trovare percentuale di sconto*
+*Il negozio di CD moltiplica i prezzi per 0,68; determina la percentuale di sconto*
 
-> Un negozio di CD sta per organizzare una liquidazione e, per questo, il gestore ha chiesto a Anderlaine di moltiplicare tutti i prezzi per $0.68$. In questa liquidazione, il negozio offre uno sconto di:
-> 
+> Un negozio di CD terrà una liquidazione e, a tal fine, il responsabile ha chiesto ad Anderlaine di moltiplicare tutti i prezzi per $0.68$. In questa liquidazione, il negozio sta offrendo uno sconto di:
+>
 > (A) $68\%$ \quad (B) $6.8\%$ \quad (C) $0.68\%$ \quad (D) $3.2\%$ \quad (E) $32\%$
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n1_f1#q11|src_obm_2007_n1_f1__Q11]]
 
 
 
@@ -401,11 +490,20 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coda: 7 persone, separarle, 6 dietro Esmeralda, 2 entrano tra loro; trovare la posizione di Esmeralda*
+*Coda: 7 persone li separano, 6 dietro Esmeralda, 2 entrano in mezzo; determina la posizione di Esmeralda*
 
-> Esmeralda e Perola si trovano in una coda. Perola osserva che tra loro ci sono $7$ persone e che dietro Esmeralda ci sono $6$ persone. Due persone aggiuntive poi entrano nella coda tra Esmeralda e Perola. Quale dei numeri seguenti non potrebbe essere la posizione di Esmeralda contando dal fronte della coda?
-> 
+> Esmeralda e Perola sono in coda. Perola nota che $7$ persone le separano e che dietro Esmeralda ci sono $6$ persone. Poi, due persone in più entrano in coda tra Esmeralda e Perola. I numeri qui sotto potrebbero essere la posizione di Esmeralda contata dalla testa della coda, tranne:
+>
 > (A) 9 \quad (B) 11 \quad (C) 13 \quad (D) 14 \quad (E) 15
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n1_f1#q12|src_obm_2007_n1_f1__Q12]]
 
 
 
@@ -434,13 +532,22 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Celle di riempimento della tabella con il prodotto delle intestazioni delle righe e delle colonne; contare le celle a numero odd*
+*Riempi le celle della tabella con il prodotto degli intitoli di riga e di colonna; conta le celle con numero dispari*
 
-> Riempire le celle vuote della tabella con il prodotto dei numeri della corrispondente riga e colonna. Quante cellule contengono numeri odd?
-> 
+> Compila le celle vuote della tabella con il prodotto dei numeri della riga e della colonna corrispondenti. Quante celle conterranno numeri dispari?
+>
 > (A) 6 \quad (B) 7 \quad (C) 12 \quad (D) 14 \quad (E) 26
 
 ![[src_obm_2007_n1_f1__q13.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n1_f1#q13|src_obm_2007_n1_f1__Q13]]
 
 
 
@@ -466,11 +573,19 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La bottiglia riempie 3 grandi + metà piccole, o 5 piccole + metà piccole; rapporto piccolo: grande*
+*La bottiglia contiene 3 grandi + mezzo piccolo, oppure 5 piccoli + mezzo grande; rapporto piccolo:grande*
 
-> Il contenuto di una bottiglia di bicchieri non alcoolici riempie tre grandi bicchieri e un altro mezzo di un bicchiere piccolo; o $5$ di questi bicchieri piccoli e un altro mezzo di un bicchiere grande. Qual è il rapporto tra il volume di un bicchiere piccolo e quello di un bicchiere grande?
-> 
+> Il contenuto di una bottiglia di bibita gassata riempie tre bicchieri grandi e un'altra metà di un bicchiere piccolo; oppure $5$ di questi bicchieri piccoli e un'altra metà di un bicchiere grande. Qual è il rapporto tra il volume di un bicchiere piccolo e il volume di uno grande?
+>
 > (A) $\dfrac{3}{5}$ \quad (B) $\dfrac{5}{7}$ \quad (C) $\dfrac{7}{10}$ \quad (D) $\dfrac{5}{9}$ \quad (E) $\dfrac{3}{7}$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n1_f1#q14|src_obm_2007_n1_f1__Q14]]
 
 
 
@@ -499,13 +614,22 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Codice a barre di barre in bianco e nero con tre larghezze; codici di conteggio per quelle sottili/mediche/spesse separate da sottili bianchi*
+*Codice a barre composto da barre nere/bianche di tre larghezze; codici di conteggio per sottili/medie/spesse separati da spazi bianchi sottili*
 
-> Un codice a barre è formato da barre nere verticali di tre larghezze diverse. Due barre nere sono sempre separate da una barra bianca, anche di tre larghezze diverse. Il codice inizia e termina con una barra nera, come nell'esempio di seguito. Considerando il codice $S$, formato da una sottile barra nera, una media e una spessa, separata da sottili barre bianche, quanti codici $S$ possono essere formati?
-> 
+> Un codice a barre è costituito da barre nere verticali di tre larghezze diverse. Due barre nere sono sempre separate da una barra bianca, anch'essa di tre larghezze diverse. Il codice inizia e termina con una barra nera, come nell'esempio sottostante. Considerando il codice $S$, formato da una barra nera sottile, una media e una spessa, separate da barre bianche sottili, quanti codici $S$ diversi si possono formare?
+>
 > (A) 4 \quad (B) 6 \quad (C) 12 \quad (D) 24 \quad (E) 36
 
 ![[src_obm_2007_n1_f1__q15.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n1_f1#q15|src_obm_2007_n1_f1__Q15]]
 
 
 
@@ -534,13 +658,22 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Griglia di 1 cm2 quadrati; segmenti che si uniscono ai punti di mezzo per scrivere OBM; trovare area ombrata*
+*Griglia di quadrati di 1 cm²; i segmenti uniscono i punti medi formando OBM; trovare l'area ombreggiata*
 
-> Nella griglia, ogni piccolo quadrato ha area $1\text{ cm}^2$. I segmenti si uniscono ai punti medi dei lati dei quadrati al centro di ogni piccolo quadrato, formando la parola OBM. Qual è la superficie occupata dal logo OBM, in $\text{cm}^2$?
-> 
+> Nella griglia, ogni piccolo quadrato ha area $1\text{ cm}^2$. I segmenti uniscono i punti medi dei lati dei quadrati al centro di ciascun piccolo quadrato, formando la parola OBM. Qual è l'area occupata dal logo OBM, in $\text{cm}^2$?
+>
 > (A) 28 \quad (B) 32 \quad (C) 33 \quad (D) 34 \quad (E) 35
 
 ![[src_obm_2007_n1_f1__q16.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n1_f1#q16|src_obm_2007_n1_f1__Q16]]
 
 
 
@@ -567,11 +700,20 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di indovinamento: numero 10-99, detto decine di cifre; massimo tentativi necessari*
+*Gioco degli indovinelli: numero da 10 a 99, si comunica la cifra delle decine; numero massimo di tentativi necessari*
 
-> Lina e Lana giocano in questo modo: il primo pensa a un numero da $10$ a $99$ e dice solo il numero delle decine del numero. Poi il secondo cerca di indovinare quel numero. Qual è il maggior numero di tentativi che il secondo potrebbe dover fare?
-> 
+> Lina e Lana giocano nel modo seguente: la prima pensa a un numero compreso tra $10$ e $99$ e dice solo il numero delle decine del numero. Poi la seconda prova a indovinare quel numero. Qual è il maggior numero di tentativi che la seconda potrebbe dover fare?
+>
 > (A) 7 \quad (B) 8 \quad (C) 9 \quad (D) 10 \quad (E) 11
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n1_f1#q17|src_obm_2007_n1_f1__Q17]]
 
 
 
@@ -597,11 +739,19 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Viaggiare 12 minuti a 80 km/h, quindi 15 minuti persi; trovare velocità per arrivare ancora in tempo*
+*Viaggio di 12 min a 80 km/h, poi 15 min di ritardo; trova la velocità per arrivare comunque in tempo*
 
-> Inacio pensava che ci sarebbero voluti $12$ minuti per finire un viaggio, guidando a $80$ km/h su una determinata autostrada. Con una sorpresa, ha perso $15$ minuti. A che velocità costante dovrebbe guidare su quella autostrada affinché il viaggio sia ancora completato entro il tempo previsto?
-> 
+> Inacio pensava che ci sarebbero voluti $12$ minuti per completare un viaggio, guidando a $80$ km/h su una certa autostrada. Con sua sorpresa, ha perso $15$ minuti. A quale velocità costante dovrebbe guidare su quell'autostrada affinché il viaggio venga comunque completato entro il tempo previsto?
+>
 > (A) $90\text{ km/h}$ \quad (B) $95\text{ km/h}$ \quad (C) $100\text{ km/h}$ \quad (D) $110\text{ km/h}$ \quad (E) $120\text{ km/h}$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n1_f1#q18|src_obm_2007_n1_f1__Q18]]
 
 
 
@@ -630,13 +780,22 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Grafico a barre: percentuale di correttezza su 60 test, 50 domande; trovare domande sbagliate medie*
+*Grafico a barre: percentuale di risposte corrette su 60 test, 50 domande; calcolare la media delle domande sbagliate*
 
-> Il grafico accanto mostra la percentuale di risposte corrette sui test $60$ presi dai candidati finalisti in un concorso. Sapendo che il test conteneva domande $50$, quale era il numero medio di domande sbagliate tra questi candidati in questo test?
-> 
+> Il grafico accanto mostra la percentuale di risposte corrette sul totale di $60$ prove sostenute dai candidati finalisti in una gara. Sapendo che la prova conteneva $50$ domande, qual era il numero medio di domande sbagliate tra questi candidati in tale prova?
+>
 > (A) 14 \quad (B) 24 \quad (C) 30 \quad (D) 32 \quad (E) 40
 
 ![[src_obm_2007_n1_f1__q19.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n1_f1#q19|src_obm_2007_n1_f1__Q19]]
 
 
 
@@ -663,8 +822,17 @@ Relazione uomini: donne = 2:3, donne: bambini = 4:1; trovare uomini: bambini*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unità di 13^1+13^2+...+13^2007*
+*Cifra delle unità di 13^1+13^2+...+13^2007*
 
-> Quando si esegue la somma $13^1 + 13^2 + 13^3 + \cdots + 13^{2006} + 13^{2007}$ si ottiene un numero intero. Qual è la cifra di unità di questo numero?
-> 
+> Eseguendo la somma $13^1 + 13^2 + 13^3 + \cdots + 13^{2006} + 13^{2007}$, otteniamo un numero intero. Qual è la cifra delle unità di questo numero?
+>
 > (A) 1 \quad (B) 3 \quad (C) 5 \quad (D) 7 \quad (E) 9
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n1_f1#q20|src_obm_2007_n1_f1__Q20]]

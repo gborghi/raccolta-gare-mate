@@ -31,11 +31,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di piccoli cubetti necessari per formare una singola faccia di un grande cubo vuoto*
+*Numero di cubetti necessari per formare una singola faccia di un grande cubo cavo*
 
-> Esmeraldinha ha alcuni piccoli cubetti di legno con bordo $2$ cm. Lei vuole costruire un grande cubo con bordo $10$ cm, ma poiché non ha abbastanza cubetti piccoli, incolla piccoli cubetti con bordo $2$ cm in modo da formare solo una faccia del cubo, che è vuota.
-> 
-> Quanti cubetti avrà bisogno?
+> Esmeraldinha ha alcuni piccoli cubi di legno con spigolo di $2$ cm. Vuole costruire un cubo grande con spigolo di $10$ cm, ma poiché non ha abbastanza piccoli cubi, incolla piccoli cubi con spigolo di $2$ cm in modo da formare solo una faccia del cubo, che è cava.
+>
+> Qual è il numero di cubetti che le serviranno?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_obm_2005_n1_f3#q01|src_obm_2005_n1_f3__Q01]]
 
 
 
@@ -62,13 +69,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triangoli rettangolari con gambe parallele ai bordi della griglia su una tabella 5x5*
+*Conta i triangoli rettangoli le cui cateti sono paralleli ai lati della griglia su una scacchiera 5x5*
 
-> Su una tabella quadrata $5 \times 5$, saranno posizionati tre pulsanti identici, ciascuno al centro di una cella, determinando un triangolo.
-> 
-> In quanti modi possono essere posizionati i pulsanti formando un triangolo rettangolo le cui gambe sono parallele ai lati della tavola?
-> 
-> Un triangolo rettangolo è qualsiasi triangolo che abbia un angolo $90^\circ$. I lati che formano questo angolo sono chiamati gambe (catetos).
+> Su una scacchiera quadrata $5 \times 5$, verranno collocati tre pulsanti identici, ciascuno al centro di una casella, formando così un triangolo.
+>
+> In quanti modi si possono disporre i pulsanti in modo da formare un triangolo rettangolo i cui cateti siano paralleli ai lati della tavola?
+>
+> \textit{Osservazione:} Un triangolo rettangolo è qualsiasi triangolo che abbia un angolo $90^\circ$. I lati che formano questo angolo sono chiamati cateti.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2005_n1_f3#q02|src_obm_2005_n1_f3__Q02]]
 
 
 
@@ -97,15 +111,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri scritti in diagonale su una lavagna da 100x100 a partire dalla riga 1 colonna 50; trovare n e posizione del 2005*
+*I numeri sono scritti in modo diagonale su una scacchiera 100x100, partendo dalla riga 1, colonna 50; trovare n e la posizione di 2005*
 
-> A partire dalla cella situata alla riga $1$ e alla colonna $50$ di una tavola $100 \times 100$, i numeri $1, 2, 3, 4, \ldots, n$ verranno scritti, come nella figura seguente, che presenta una parte della tavola e mostra come devono essere posizionati i numeri. Il numero $n$ occuperà la cella nella riga $1$, nella colonna $100$.
-> 
-> a) Determinare $n$.
-> 
-> b) In quale riga e colonna apparirà il numero $2005$?
+> Partendo dalla cella situata alla riga $1$ e nella colonna $50$ di una scacchiera $100 \times 100$, verranno scritti i numeri $1, 2, 3, 4, \ldots, n$, come nella figura seguente, che mostra una parte della scacchiera e indica come devono essere collocati i numeri. Il numero $n$ occuperà la cella alla riga $1$, colonna $100$.
+>
+> a) Determina $n$.
+>
+> b) In quale riga e in quale colonna apparirà il numero $2005$?
 
 ![[src_obm_2005_n1_f3__q03.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n1_f3#q03|src_obm_2005_n1_f3__Q03]]
 
 
 
@@ -132,13 +153,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rectangle ABCD con diagonali; triangolo BME con ME=MB e BE=BA; trovare la sua superficie e dimostrare BD parallela EC*
+*Rettangolo ABCD con le diagonali; triangolo BME con ME=MB e BE=BA; determina la sua area e dimostrare che BD è parallela a EC*
 
-> Nel rettangolo $ABCD$, con diagonali $AC$ e $BD$, i lati $AB$ e $BC$ misurano rispettivamente $13$ cm e $14$ cm. Si consideri il triangolo $BME$, in modo tale che $ME = MB$ e $BE = BA$, con $E \neq A$.
-> 
-> a) Calcolare l'area del triangolo $BME$.
-> 
-> b) Indicare che il segmento $BD$ è parallelo al segmento $EC$.
+> Nel rettangolo $ABCD$, con le diagonali $AC$ e $BD$, i lati $AB$ e $BC$ misurano rispettivamente $13$ cm e $14$ cm. Sia $M$ l'intersezione delle diagonali; si consideri il triangolo $BME$, tale che $ME = MB$ e $BE = BA$, con $E \neq A$.
+>
+> a) Calcola l'area del triangolo $BME$.
+>
+> b) Dimostrare che il segmento $BD$ è parallelo al segmento $EC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n1_f3#q04|src_obm_2005_n1_f3__Q04]]
 
 
 
@@ -165,10 +193,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Proprietà P (numero perfetto) definita come somma di divisori positivi uguali a 2n; dimostrare che nessun quadrato perfetto ha proprietà P*
+*La proprietà P (numero perfetto) è definita come la condizione per cui la somma dei divisori positivi è uguale a 2n; dimostrare che nessun quadrato perfetto possiede la proprietà P*
 
-> Un intero positivo $n$ ha la proprietà P se la somma dei suoi divisori positivi è uguale a $2n$. Ad esempio: $6$ ha la proprietà P, dal momento che $1 + 2 + 3 + 6 = 2 \cdot 6$, ma $10$ non ha la proprietà P, dal momento che $1 + 2 + 5 + 10 \neq 2 \cdot 10$.
-> 
-> Mostrare che nessun quadrato perfetto ha la proprietà P.
-> 
-> Un intero positivo è un quadrato perfetto se è uguale al quadrato di un intero. Ad esempio, $1 = 1^2$, $4 = 2^2$ e $9 = 3^2$ sono quadrati perfetti.
+> Un numero intero positivo $n$ ha la proprietà P se la somma dei suoi divisori positivi è uguale a $2n$. Ad esempio: $6$ ha la proprietà P, poiché $1 + 2 + 3 + 6 = 2 \cdot 6$, ma $10$ non ha la proprietà P, poiché $1 + 2 + 5 + 10 \neq 2 \cdot 10$.
+>
+> Dimostrare che nessun quadrato perfetto possiede la proprietà P.
+>
+> \textit{Osservazione:} Un numero intero positivo è un quadrato perfetto se è uguale al quadrato di un numero intero. Ad esempio, $1 = 1^2$, $4 = 2^2$ e $9 = 3^2$ sono quadrati perfetti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n1_f3#q05|src_obm_2005_n1_f3__Q05]]

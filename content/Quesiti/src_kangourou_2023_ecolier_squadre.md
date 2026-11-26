@@ -32,11 +32,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number without digit 1, product of digits 40*
+*What is the largest of the numbers Mariella wrote?*
 
-> The largest Mariella wrote every integer greater than zero in which the number 1 does not appear and such that the product of its digits is 40. What is the biggest number written by Mariella?
+> The largest
+>
+> Mariella wrote every integer greater than zero in which the digit 1 does not appear and such that the product of its digits is 40. What is the largest of the numbers Mariella wrote?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 5222
+[[Quesiti/src_kangourou_2023_ecolier_squadre#q01|src_kangourou_2023_ecolier_squadre__Q01]]
 
 
 
@@ -63,11 +70,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many of the first 2022 terms are odd*
+*How many of the first 2022 numbers of the sequence are odd?*
 
-> Sequence The sequence of integers 6, 7, 14, 22, 37, 60, 98, ... follows the following rule: each term, starting with the third, is the sum of the two preceding it increased by 1. How many of the first 2022 numbers in the sequence are odd?
+> Sequence
+>
+> The sequence of integers 6, 7, 14, 22, 37, 60, 98, … follows this rule: every term, starting from the third, is the sum of the two that precede it, increased by 1. How many of the first 2022 numbers of the sequence are odd?
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0674
+[[Quesiti/src_kangourou_2023_ecolier_squadre#q02|src_kangourou_2023_ecolier_squadre__Q02]]
 
 
 
@@ -94,11 +108,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number to be added for the first palindrome >2023*
+*What number must be added to obtain the first palindromic integer greater than 2023?*
 
-> Palindrome A palindrome integer is a number that remains unchanged if its digits are read from right to left, rather than in the usual way, i.e. from left to right: for example, 1991 is a palindrome. The number 2023 is not a palindrome: what number must be added to get the first palindrome integer greater than 2023?
+> Palindrome
+>
+> A palindromic integer is a number that remains unchanged if its digits are read from right to left, instead of in the usual way, that is from left to right: for example 1991 is a palindrome. The number 2023 is not a palindrome: what number must be added to obtain the first palindromic integer greater than 2023?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0089
+[[Quesiti/src_kangourou_2023_ecolier_squadre#q03|src_kangourou_2023_ecolier_squadre__Q03]]
 
 
 
@@ -123,11 +143,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum of the three numbers given the pairwise sums*
+*What is the largest of the numbers Franco wrote?*
 
-> Three sums Franco wrote three numbers. By choosing two of the numbers Franco wrote, in three possible ways, and adding them together, you get 91, 100, and 109. What is the largest of the numbers Franco wrote?
+> Three sums
+>
+> Franco wrote three numbers. Choosing two of the numbers Franco wrote, in the three possible ways, and adding them, one obtains 91, 100 and 109 as the results. What is the largest of the numbers Franco wrote?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0059
+[[Quesiti/src_kangourou_2023_ecolier_squadre#q04|src_kangourou_2023_ecolier_squadre__Q04]]
 
 
 
@@ -155,11 +181,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bottle price given promotion and savings*
+*How many euros was the selling price of each of the bottles she bought?*
 
-> Bottles A wine shop offers the following promotion: if a customer buys two bottles of the same price (which is always an integer of EUR), he can choose whether to pay the second bottle half its price or 23 EUR, whatever its price. Sofia chose the first option and thus saved 2 euros compared to what she would have spent if she had chosen the second. How many euros was the selling price for each of the bottles she bought?
+> The bottles
+>
+> A wine shop runs the following promotion: if a customer buys two bottles of the same price (which is always a whole number of euros) he or she may choose whether to pay half its price for the second bottle or 23 euros, whatever its price. Sofia chose the first option and so saved 2 euros compared with what she would have spent if she had chosen the second. How many euros was the selling price of each of the bottles she bought?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0042
+[[Quesiti/src_kangourou_2023_ecolier_squadre#q05|src_kangourou_2023_ecolier_squadre__Q05]]
 
 
 
@@ -186,11 +218,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total matches of each tennis doubles player*
+*How many matches does each of the participants play in all?*
 
-> Four boys playing tennis against four girls. The matches are doubles (two boys against two girls) and every possible pair of boys plays once and only once against every possible pair of girls. How many matches does each participant play in total?
+> Tennis
+>
+> Four boys play tennis against four girls. The matches are doubles (two boys against two girls) and every possible pair of boys plays once and only once against every possible pair of girls. How many matches does each of the participants play in all?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0018
+[[Quesiti/src_kangourou_2023_ecolier_squadre#q06|src_kangourou_2023_ecolier_squadre__Q06]]
 
 
 
@@ -216,14 +255,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Chocolates per box with constraints*
+*How many chocolates does each box contain?*
 
-> The chocolates 
-> Luisa has four boxes, all containing the same number of chocolates. Overall the 
-> chocolates are fewer than 180, but any three boxes out of the four together contain more than 
-> 130. How many chocolates does each box contain?
+> The chocolates
+>
+> Luisa has four boxes, all containing the same number of chocolates. In all the chocolates are fewer than 180, but any three boxes of the four contain together more than 130. How many chocolates does each box contain?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0044
+[[Quesiti/src_kangourou_2023_ecolier_squadre#q07|src_kangourou_2023_ecolier_squadre__Q07]]
 
 
 
@@ -265,25 +307,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of filling grid with sums div for 3*
+*In how many different ways can you complete the insertion?*
 
 ![[src_kangourou_2023_ecolier_squadre__prob8.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \foreach \i in {0,1,2,3,4,5,6,7,8} {
-    \draw (\i,0) rectangle (\i+1,1);
-  }
-  \node at (1.5,0.5) {7};
-  \node at (3.5,0.5) {9};
-\end{tikzpicture}
-\end{document}
-```
+> In the grid
+>
+> All the integers between 1 and 9 inclusive are to be entered in the grid in the picture, one in each cell, so that the sum of the numbers in three consecutive cells, whichever they are, is divisible by 3. As you can see, the numbers 7 and 9 have already been placed. In how many different ways can you complete the insertion?
 
-> In the grid All integers between 1 and 9 included must be entered into the grid in the figure, one for each box, so that the sum of the numbers in three consecutive boxes, whatever they are, is divisible by 3. As you can see, numbers 7 and 9 have already been placed. How many different ways can you complete the filling?
-
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0024
+[[Quesiti/src_kangourou_2023_ecolier_squadre#q08|src_kangourou_2023_ecolier_squadre__Q08]]
 
 
 
@@ -312,13 +349,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of lengths of interior segments of rectangle*
+*What is the sum of the lengths, in centimetres, of the segments drawn inside?*
 
 ![[src_kangourou_2023_ecolier_squadre__prob9.png]]
 
-> The long (horizontal) sides of the large rectangle in the figure are 33 cm long, the other (vertical) sides are 22 cm long. Within the rectangle, some segments have been drawn, all parallel to some of the sides. What is the sum of the lengths (in centimeters) of the segments traced inside?
+> The inside segments
+>
+> The long sides (horizontal) of the large rectangle in the picture are 33 cm long, and the others (vertical) are 22 cm long. Inside the rectangle some segments have been drawn, all parallel to one of the sides. What is the sum of the lengths, in centimetres, of the segments drawn inside?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0132
+[[Quesiti/src_kangourou_2023_ecolier_squadre#q09|src_kangourou_2023_ecolier_squadre__Q09]]
 
 
 
@@ -344,11 +387,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers 0..10 with four digits 4*
+*How many of the eleven integers from 0 to 10 inclusive can be obtained by writing, for each, the digit 4 exactly four times and using suitably some of the four operations?*
 
-> Four 4 Michele noted that 7 can be obtained as 44 : 4 – 4. How many of the eleven integers from 0 to 10 included can be obtained by writing for each exactly four times the digit 4 and using appropriately some of the four operations (addition, subtraction, multiplication, division)?
+> Four 4s
+>
+> Michele noticed that 7 can be obtained as 44 : 4 – 4. How many of the eleven integers from 0 to 10 inclusive can be obtained by writing, for each, the digit 4 exactly four times and using suitably some of the four operations (addition, subtraction, multiplication, division)?
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0011
+[[Quesiti/src_kangourou_2023_ecolier_squadre#q10|src_kangourou_2023_ecolier_squadre__Q10]]
 
 
 
@@ -376,11 +425,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes foreseen by grandmother without candles*
+*How many minutes would she have taken to go to her grandmother's if she had not forgotten the candles?*
 
-> The candles Licia leaves home to visit her grandmother and bring her her birthday cake. But when she reaches a third of the way, she realizes that she has forgotten the candles. She goes home, picks up the candles and leaves to go to her grandmother's, where she arrives exactly 34 minutes late compared to the plan. If she always walked at the same speed and didn't waste time at home picking up the candles, how many minutes would she have taken to get to Grandma's if she hadn't forgotten the candles?
+> The candles
+>
+> Licia sets off from home to visit her grandmother and take her the birthday cake. When she has covered a third of the way, she realises she has forgotten the candles: she goes back home, takes the candles and sets off again for her grandmother's, where she arrives exactly 34 minutes late. If she always walked at the same speed and lost no time at home fetching the candles, how many minutes would she have taken to go to her grandmother's if she had not forgotten the candles?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0051
+[[Quesiti/src_kangourou_2023_ecolier_squadre#q11|src_kangourou_2023_ecolier_squadre__Q11]]
 
 
 
@@ -407,11 +462,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mattia number given Carla number 9 times*
+*What is Mattia's number?*
 
-> Mattia Mattia's number has written an integer of two digits (i.e. not less than 10). Carla wrote a three-digit integer: that of the hundreds is 6 and is followed by Mattia's number: for example, if Mattia had written 12, Carla's number would be 612. Carla's number matches Mattia's number multiplied by 9. What's Mattia's number?
+> Mattia's number
+>
+> Mattia wrote a two-digit integer (that is, not less than 10). Carla wrote a three-digit integer: the hundreds digit is 6 and it is followed by Mattia's number: for example, if Mattia had written 12, Carla's number would be 612. Carla's number coincides with Mattia's number multiplied by 9. What is Mattia's number?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0075
+[[Quesiti/src_kangourou_2023_ecolier_squadre#q12|src_kangourou_2023_ecolier_squadre__Q12]]
 
 
 
@@ -437,11 +498,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mixture of [a,b,c] with given definition*
+*What is the mixture of [a, b, c], where a is the mixture of [2.023, 2.023, 2], b equals a and c is the mixture of [45, 32, 11]?*
 
-> Mixtures Given three numbers [a, b, c] in this order, if c is different from 0 let's say their mixture is the sum of a + b divided by c. For example, the mixture of [6, 4, 2] is 5. What is the mixture of [a, b, c] where a is the mixture of [2.023, 2.023, 2], b is equal to a and c is the mixture of [45, 32, 11]?
+> Mixtures
+>
+> Given three numbers [a, b, c] in that order, if c is different from 0 we say that their mixture is the sum a + b divided by c. For example, the mixture of [6, 4, 2] is 5. What is the mixture of [a, b, c], where a is the mixture of [2.023, 2.023, 2], b equals a and c is the mixture of [45, 32, 11]?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0578
+[[Quesiti/src_kangourou_2023_ecolier_squadre#q13|src_kangourou_2023_ecolier_squadre__Q13]]
 
 
 
@@ -468,15 +535,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cents more that Claudia has than Elena*
+*How many cents does Claudia have more than Elena?*
 
-> The extra cents 
-> Claudia has 64 coins of 20 cents and some coins of 50 cents. Elena has 95 coins of 20 
-> cents and some coins of 50 cents. Claudia and Elena have the same number of coins and 
-> those we have indicated are the only coins they have. How many cents does Claudia have more than 
-> Elena?
+> The extra cents
+>
+> Claudia has 64 coins of 20 cents and some coins of 50 cents. Elena has 95 coins of 20 cents and some coins of 50 cents. Claudia and Elena have the same number of coins, and the ones we have mentioned are the only coins they have. How many cents does Claudia have more than Elena?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0930
+[[Quesiti/src_kangourou_2023_ecolier_squadre#q14|src_kangourou_2023_ecolier_squadre__Q14]]
 
 
 
@@ -523,12 +592,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Weight of the word KANGOUROU given sums of letters *
+*How much does the word KANGOUROU weigh?*
 
 ![[src_kangourou_2023_ecolier_squadre__prob15.png]]
 
-> Weight In the word kangaroo every letter has a weight, equal letters have the same weight. The four letters KNGR together weigh 16, the three letters AOU together weigh 9, the four letters KANG together weigh 13, the letter R weighs 5. How much does the word kangaroo weigh?
->  
-> 16 K N G R 13 K A N G 9 A O U 5 R Questions and solutions
+> The weight
+>
+> In the word KANGOUROU each letter has a weight, and equal letters have the same weight. The four letters KNGR weigh 16 together, the three letters AOU weigh 9 together, the four letters KANG weigh 13 together, and the letter R weighs 5. How much does the word KANGOUROU weigh?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0032
+[[Quesiti/src_kangourou_2023_ecolier_squadre#q15|src_kangourou_2023_ecolier_squadre__Q15]]

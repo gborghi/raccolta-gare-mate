@@ -26,19 +26,24 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0045
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2-digit numbers with one even and one odd digit*
+*How many of them have one even digit and one odd digit?*
 
 > Even and odd
-> Consider all integers made up of two digits (with the first digit different from zero). How many
-> are those in which one of the two digits is even and the other is odd?
+>
+> Consider all the integers made of two digits (with the first digit different from zero). How many of them have one of the two digits even and the other odd?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0045
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q01|src_kangourou_2021_squadre_ecolier_f__Q01]]
 
 
 
@@ -59,21 +64,23 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0104
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Within a few days they train together again*
+*How many days from today until they train together again?*
 
-> The training sessions
-> Anna, Betty and Carla train at the same sports center (open every day). Anna goes every 3
-> days, Betty every 5 days and Carla only on Mondays. If yesterday all three were at training, in how many
-> days (starting from today) will they train together again for the first time? Warning: if, for
-> example, the first time were tomorrow, you should write 0001.
+> Training
+>
+> Anna, Betty and Carla train at the same sports centre (open every day). Anna goes every 3 days, Betty every 5 days, and Carla only on Monday. If yesterday all three were at training, in how many days (starting from today) will they train together again for the first time? Note: if, for example, the first time were tomorrow, you should write 0001.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0104
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q02|src_kangourou_2021_squadre_ecolier_f__Q02]]
 
 
 
@@ -91,18 +98,23 @@ level: squadre
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0011
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of Labradors (all except 28, 19, 13)*
+*How many are Labradors?*
 
 > The dogs
-> Federico has a dog breeding farm where he keeps only three types of dogs: pointers, labradors and spaniels. Currently all the dogs except $28$ are pointers, all the dogs except $19$ are labradors and all the dogs except $13$ are spaniels. How many labradors are there?
+>
+> Federico has a kennel in which he keeps only three kinds of dog: pointers, Labradors and spaniels. At present all the dogs except $28$ are pointers, all the dogs except $19$ are Labradors, and all the dogs except $13$ are spaniels. How many are Labradors?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0011
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q03|src_kangourou_2021_squadre_ecolier_f__Q03]]
 
 
 
@@ -120,18 +132,23 @@ level: squadre
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1730
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Calculator with an extra zero: sum 4640 instead of 2021*
+*What was the larger of the two correct numbers?*
 
 > The calculator
-> To add two numbers, Giulio used a calculator. While typing one of the two, he mistakenly added a zero at the end: so he got the sum $4640$ while, if he had typed both numbers correctly, he would have gotten $2021$. What was the larger of the two correct numbers?
+>
+> To add two numbers, Giulio used a calculator. When typing one of them, he added a zero at the end by mistake: so he obtained $4640$ as the sum, whereas, if he had typed both numbers correctly, he would have obtained $2021$. What was the larger of the two correct numbers?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 1730
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q04|src_kangourou_2021_squadre_ecolier_f__Q04]]
 
 
 
@@ -151,20 +168,25 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0016
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the figure of six rectangles in a tile of area 18*
+*How many centimetres is the perimeter of the figure inside?*
 
 ![[src_kangourou_2021_squadre_ecolier_f__prob5.png]]
 
 > Tiles
-> Here you see a square tile in which a figure obtained by placing six rectangles of identical dimensions side by side is inserted. The area of the square is $18$ cm$^2$. How many centimeters is the perimeter of the inserted figure?
+>
+> Here you see a square tile in which a figure is set, made by placing six rectangles of identical size side by side. The area of the square is $18$ cm $^2$. How many centimetres is the perimeter of the figure inside?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0016
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q05|src_kangourou_2021_squadre_ecolier_f__Q05]]
 
 
 
@@ -183,18 +205,24 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0096
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Matches in the group stage: 8 groups of 4, home and away*
+*How many matches are played in all during the group stage?*
 
 > Matches
-> In the group stage of the Champions Cup there are $8$ groups, in each of which $4$ teams play. Each team meets each other team in its group twice. How many matches are played in total during the group stage?
+>
+> In the group stage of the Champions Cup there are $8$ groups, in each of which $4$ teams play. Each team meets every other team in its group twice. How many matches are played in all during the group stage?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0096
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q06|src_kangourou_2021_squadre_ecolier_f__Q06]]
 
 
 
@@ -214,20 +242,23 @@ level: squadre
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0111
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pallets (two red and green numbers)*
+*How many posts are there?*
 
 > The posts
-> Along a circular track, posts are arranged, numbered starting from 1 in a clockwise direction with two
-> different numberings, red and green. Post no. 15 in the red numbering is no. 5 in the
-> green numbering, while no. 5 in the red numbering is no. 106 in the green numbering. How many posts are there?
+>
+> Along a circular track, posts are numbered from 1 clockwise with two different numberings, red and green. Post no. 15 in the red numbering is no. 5 in the green numbering, and no. 5 in the red numbering is no. 106 in the green numbering. How many posts are there?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0111
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q07|src_kangourou_2021_squadre_ecolier_f__Q07]]
 
 
 
@@ -247,19 +278,24 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0110
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of 100 integers with product 100*
+*What is the smallest sum Dario could find?*
 
 > Dario's number
-> Dario was given this task: “Find 100 positive integers whose product
-> is 100 and add them up”. What is the smallest sum that Dario could find?
+>
+> Dario was given this task: "Find 100 integers greater than zero whose product is 100, and add them up." What is the smallest sum Dario could find?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0110
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q08|src_kangourou_2021_squadre_ecolier_f__Q08]]
 
 
 
@@ -281,22 +317,23 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 0002
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of the small chocolate (box 18)*
+*How many centimetres is the side of a small chocolate?*
 
 > The chocolates
-> A square box has a side of 18 cm. It contains chocolates
-> squares of two sizes: small and large. After eating a
-> few, Elena arranged the ones that were left as in the figure. How many
-> centimeters is the length of the side of a small-sized chocolate
-> small?
+>
+> A square box has a side of 18 cm. It contains square chocolates of two sizes: small and large. After eating some of them, Elena arranged those that were left as in the picture. How many centimetres is the side of a small chocolate?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** 0002
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q09|src_kangourou_2021_squadre_ecolier_f__Q09]]
 
 
 
@@ -314,18 +351,23 @@ level: squadre
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0406
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum of five consecutive years with sum of 2020*
+*What is the largest of these numbers?*
 
 > Consecutive numbers
+>
 > The sum of five consecutive integers is 2020. What is the largest of these numbers?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0406
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q10|src_kangourou_2021_squadre_ecolier_f__Q10]]
 
 
 
@@ -346,21 +388,23 @@ level: squadre
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0350
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Metres uphill and back (hill)*
+*How many metres uphill must Claudio walk?*
 
 > The climb
-> Claudio's house is on a hill, 200 metres higher than the town where his school is. The road
-> that leads from his house to the school in one stretch goes up for 50 metres and in another goes up for 25 metres; for the
-> rest it is all downhill. Altogether, on the way to school and back, how many metres uphill must
-> Claudio travel?
+>
+> Claudio's house is on a hill, 200 metres higher than the town where his school is. The road from his house to the school climbs 50 metres in one stretch and 25 metres in another; the rest of it is all downhill. Altogether, going to school and back, how many metres uphill must Claudio walk?
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0350
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q11|src_kangourou_2021_squadre_ecolier_f__Q11]]
 
 
 
@@ -380,20 +424,23 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0006
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Packs of 5 biscuits per 100 biscuits with minimum number*
+*How many packs of 5 biscuits will she have to buy?*
 
 > 100 biscuits
-> Enza wants to buy exactly 100 biscuits for her dog, but the shopkeeper only has packs
-> of 5 and of 7 biscuits. If she wants to buy the smallest possible number of packs, how many packs
-> of 5 biscuits will she have to buy?
+>
+> Enza wants to buy exactly 100 biscuits for her dog, but the shopkeeper has only packs of 5 and of 7 biscuits. If she wants to buy as few packs as possible, how many packs of 5 biscuits will she have to buy?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0006
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q12|src_kangourou_2021_squadre_ecolier_f__Q12]]
 
 
 
@@ -412,18 +459,24 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0037
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*4-digit numbers with thousands digit 1 and at least 3 equal digits*
+*How many such four-digit numbers are there?*
 
 > Three equal digits
+>
 > How many four-digit numbers have 1 as the thousands digit and at least 3 equal digits?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0037
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q13|src_kangourou_2021_squadre_ecolier_f__Q13]]
 
 
 
@@ -442,19 +495,23 @@ level: squadre
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0056
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How old is Anna (50 years 50 months ...)*
+*How old will she be on her next birthday?*
 
 > Anna
-> Today Anna is 50 years, 50 months, 50 weeks and 50 days old. How many years will she turn on her next
-> birthday?
+>
+> Today Anna is 50 years, 50 months, 50 weeks and 50 days old. How old will she be on her next birthday?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0056
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q14|src_kangourou_2021_squadre_ecolier_f__Q14]]
 
 
 
@@ -475,17 +532,21 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0005
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TQIY2rR1Rw_8MGSyyUiL4ITL9fB4oNW1/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many centenarian pairs of two-digit numbers*
+*How many century pairs are there?*
 
-> The centenary pairs
-> We say that two two-digit numbers form a “centenary pair” if for each of the two it happens
-> that by adding to it the digits of the other one obtains 100. For example {83,89} is a centenary pair,
-> while {83, 98} is not. How many centenary pairs are there?
+> Century pairs
+>
+> We say that two two-digit numbers form a "century pair" if, for each of the two, adding to it the digits of the other gives 100. For example {83, 89} is a century pair, while {83, 98} is not. How many century pairs are there?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0005
+[[Quesiti/src_kangourou_2021_squadre_ecolier_f#q15|src_kangourou_2021_squadre_ecolier_f__Q15]]

@@ -33,13 +33,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Interi colorati su una disposizione circolare; trovare il massimo non colorato*
+*Interi colorati disposti in cerchio; trova il massimo non colorato*
 
-> $n$ sia un numero intero con $n \ge 3$. Un intero $m \ge n+1$ è chiamato **$n$-colorful** se esiste un modo per scrivere un intero da $\{1, 2, \ldots, n\}$ in ciascuna delle celle $m$ disposte in un cerchio in modo tale che la seguente condizione è valida:
-> 
-> > Per tutte le celle $n+1$ consecutive e per ogni numero intero $i$ con $1 \le i \le n$, esiste una cellula tra le celle $n+1$ contenente il valore $i$.
-> 
-> Prova che ci sono solo finitamente molti interi positivi che non sono $n$-colorati, e trova il più grande tale intero.
+> Sia $n$ un numero intero con $n \ge 3$. Un numero intero $m \ge n+1$ è detto **$n$-colorato** se esiste un modo per scrivere un numero intero tratto da $\{1, 2, \ldots, n\}$ in ciascuna delle $m$ celle disposte in cerchio, in modo che valga la seguente condizione:
+>
+> > Per qualsiasi $n+1$ celle consecutive e per qualsiasi intero $i$ con $1 \le i \le n$, esiste una cella tra quelle $n+1$ celle che contiene il valore $i$.
+>
+> Dimostrare che esistono solo un numero finito di interi positivi che non sono $n$-colorati, e determina il più grande tra questi interi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2022#q01|src_selection_camp_2022__Q01]]
 
 
 
@@ -63,9 +70,17 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni reali che soddisfano una determinata equazione funzionale*
+*Trovare tutte le funzioni reali che soddisfano una data equazione funzionale*
 
-> Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ in modo che per tutti i numeri reali $x, y$, $$f(xf(y) + f(f(y))) + yf(f(x)) = f\!\left((f(f(x))+1)f(y)\right) + xy.$$
+> Trovare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ tali che, per tutti i numeri reali $x, y$,
+> $$f(xf(y) + f(f(y))) + yf(f(x)) = f\!\left((f(f(x))+1)f(y)\right) + xy.$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2022#q02|src_selection_camp_2022__Q02]]
 
 
 
@@ -88,9 +103,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di integri positivi con condizione di divisibilità implica una eventuale periodicità*
+*Una successione di numeri interi positivi con una condizione di divisibilità implica una periodicità eventuale*
 
-> Che $a_1, a_2, \ldots$ sia una sequenza di integri positivi tale che per tutti gli integri positivi $n$ e $m$, $a_{n+2m}$ sia divisibile da $a_n + a_{n+m}$. Dimostrare che esistono integri positivi $N$ e $d$ in modo tale che $a_n = a_{n+d}$ sia valido per tutti gli integri $n \ge N$.
+> Sia $a_1, a_2, \ldots$ una successione di interi positivi tale che, per qualsiasi coppia di interi positivi $n$ e $m$, $a_{n+2m}$ sia divisibile per $a_n + a_{n+m}$. Dimostrare che esistono interi positivi $N$ e $d$ tali che $a_n = a_{n+d}$ vale per tutti gli interi $n \ge N$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2022#q03|src_selection_camp_2022__Q03]]
 
 
 
@@ -115,9 +137,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta minima della somma del pavimento a_i/i) su tutte le permutazioni*
+*Valore minimo della somma di floor(a_i/i) su tutte le permutazioni*
 
-> $n$ sia un numero intero positivo. Quando $a_1, a_2, \ldots, a_n$ è una permutazione di $1, 2, \ldots, n$, trovare il valore minimo possibile di $$\left\lfloor \frac{a_1}{1} \right\rfloor + \left\lfloor \frac{a_2}{2} \right\rfloor + \cdots + \left\lfloor \frac{a_n}{n} \right\rfloor.$$ Qui una permutazione di $1, 2, \ldots, n$ è una sequenza di lunghezza $n$ in cui ogni numero intero da $1$ a $n$ appare esattamente una volta, e $\lfloor r \rfloor$ indica il numero intero più grande non superiore al numero reale $r$.
+> Sia $n$ un numero intero positivo. Quando $a_1, a_2, \ldots, a_n$ è una permutazione di $1, 2, \ldots, n$, trova il valore minimo possibile di
+> $$\left\lfloor \frac{a_1}{1} \right\rfloor + \left\lfloor \frac{a_2}{2} \right\rfloor + \cdots + \left\lfloor \frac{a_n}{n} \right\rfloor.$$
+> Qui, una permutazione di $1, 2, \ldots, n$ è una sequenza di lunghezza $n$ in cui ogni intero da $1$ a $n$ compare esattamente una volta, e $\lfloor r \rfloor$ denota il più grande intero non superiore al numero reale $r$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2022#q04|src_selection_camp_2022__Q04]]
 
 
 
@@ -144,13 +175,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di movimentazione di perle su una linea con rapporto r; trovare r che consente alla perla rossa di raggiungere B in almeno 2021 mosse*
+*Gioco di spostamento delle perle su una linea con rapporto r; trova r in modo che la perla rossa raggiunga B in al massimo 2021 mosse*
 
-> Che $r > 1$ sia un numero razionale, e che $B$ e $R$ siano due punti distinti su una linea. Inizialmente, una perla blu è collocata a $B$ e una perla rossa a $R$. Taro esegue ripetutamente la seguente operazione:
-> 
-> > Selezionare un numero intero $k$ e un punto $X$ in cui si colloca una delle perle. Il punto in cui si colloca l'altra perla è $Y$. Sul raggio $YX$, scegliere il punto $X'$ in modo tale che $YX' = r^k \cdot YX$. Poi spostare la perla a $X$ a $X'$.
-> 
-> Trovare tutti i valori di $r$ in modo tale che Taro possa spostare il marchio rosso a $B$ in un massimo di $2021$ operazioni. Qui $PQ$ indica la lunghezza del segmento $PQ$.
+> Sia $r > 1$ un numero razionale, e siano $B$ e $R$ due punti distinti su una retta. Inizialmente, una perla blu viene posta in $B$ e una perla rossa viene posta in $R$. Taro esegue ripetutamente l'operazione seguente:
+>
+> > Scegli un intero $k$ e un punto $X$ in cui viene collocata una delle perle. Sia $Y$ il punto in cui viene collocata l'altra perla. Sul raggio $YX$, scegli il punto $X'$ tale che $YX' = r^k \cdot YX$. Poi sposta la perla in $X$ in $X'$.
+>
+> Trovare tutti i valori di $r$ tali che Taro possa spostare la perla rossa in $B$ in al massimo $2021$ operazioni. Qui $PQ$ denota la lunghezza del segmento $PQ$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2022#q05|src_selection_camp_2022__Q05]]
 
 
 
@@ -173,9 +211,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre linee AM, PY, QX convergono in una configurazione di cerchio*
+*Tre rette AM, PY, QX concorrono in una configurazione circolare*
 
-> Il $\Gamma$ deve essere un cerchio di diametro $MN$ e $A$ deve essere un punto all'interno di $\Gamma$ (non su $\Gamma$). Il cerchio centrato a $N$ che passa attraverso $A$ deve incontrare $\Gamma$ nei punti $B$ e $C$. Il $P$ e il $Q$ devono essere punti distinti sul segmento $BC$ (esclusi i punti finali) in modo tale che $\angle BAP = \angle QAC$. Tra le intersezioni della linea $NP$ e $\Gamma$, $X$ sia quella diversa da $N$; tra le intersezioni della linea $NQ$ e $\Gamma$, $Y$ sia quella diversa da $N$. Prove che le tre linee $AM$, $PY$ e $QX$ sono simultanee.
+> Sia $\Gamma$ un cerchio di diametro $MN$, e sia $A$ un punto interno a $\Gamma$ (non appartenente a $\Gamma$). Sia $\Gamma$ intersecato dal cerchio avente centro in $N$ e passante per $A$ nei punti $B$ e $C$. Siano $P$ e $Q$ punti distinti del segmento $BC$ (esclusi gli estremi) tali che $\angle BAP = \angle QAC$. Tra gli incroci della retta $NP$ con $\Gamma$, sia $X$ quello diverso da $N$; tra gli incroci della retta $NQ$ con $\Gamma$, sia $Y$ quello diverso da $N$. Dimostrare che le tre rette $AM$, $PY$ e $QX$ sono concorrenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2022#q06|src_selection_camp_2022__Q06]]
 
 
 
@@ -198,9 +243,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre linee CD, AQ, BR convergono in configurazione parallela con circoncircoli*
+*Tre rette CD, AQ, BR concorrono in una configurazione a parallelogramma con circonferenze circoscritte*
 
-> $ABCD$ sia un parallelo con $AC = BC$ e $P$ sia un punto nell'estensione laterale $AB$ oltre $B$. Il circoncircolo del triangolo $ACD$ incontra il segmento $PD$ in un punto $Q$ diverso da $D$, e il circoncircolo del triangolo $APQ$ incontra il segmento $PC$ in un punto $R$ diverso da $P$. Prove che le tre linee $CD$, $AQ$ e $BR$ sono simultanee. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Sia $ABCD$ un parallelogramma con $AC = BC$, e sia $P$ un punto sull'estensione del lato $AB$ oltre $B$. La circonferenza circoscritta al triangolo $ACD$ interseca il segmento $PD$ in un punto $Q$ diverso da $D$, e la circonferenza circoscritta al triangolo $APQ$ interseca il segmento $PC$ in un punto $R$ diverso da $P$. Dimostrare che le tre rette $CD$, $AQ$ e $BR$ sono concorrenti. Qui $XY$ denota la lunghezza del segmento $XY$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2022#q07|src_selection_camp_2022__Q07]]
 
 
 
@@ -231,17 +283,24 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di operazioni per il presidente per ottenere l'ordine di preferenza di maggioranza*
+*Operazioni minime necessarie al presidente per ottenere l'ordinamento di preferenza della maggioranza*
 
-> Lasciate che $m$ sia un numero intero parente con $m \ge 3$, e lasciate che $n$ sia un numero intero con $n \ge 3$. Per ogni numero intero $i$ con $1 \le i \le m$, $a_{i,1}, a_{i,2}, \ldots, a_{i,n}$ deve essere una permutazione di $1, 2, \ldots, n$.
-> 
-> Un presidente e i delegati $m$ (delegato $1$, delegato $2$, $\ldots$, delegato $m$) stanno tenendo una riunione per selezionare i problemi per l'IMO di quest'anno. Esistono problemi di candidato $n$ (problema $1$, problema $2$, $\ldots$, problema $n$). Ogni delegato ha un punteggio di preferenza **** per ogni problema, che è un numero intero da $1$ a $n$; il punteggio di preferenza iniziale del delegato $i$ per il problema $j$ è $a_{i,j}$. Il presidente può eseguire ripetutamente la seguente operazione:
-> 
-> > Scegliere i numeri interi $i, j, k$ con $1 \le i \le m$ e $1 \le j, k \le n$ in modo tale che la differenza tra i punteggi preferenziali del delegato $i$ per il problema $j$ e il problema $k$ sia esattamente $1$, e scambiare quei due punteggi preferenziali del delegato $i$.
-> 
-> Indipendentemente dai valori degli integri $mn$ $a_{i,j}$ ($1 \le i \le m$, $1 \le j \le n$), trovare il numero intero minimo non negativo $L$ in modo tale che il presidente possa ottenere la seguente condizione eseguendo l'operazione al massimo $L$ volte:
-> 
-> > Per due numeri interi distinti $x, y$ con $1 \le x, y \le n$, esiste un numero intero $s \ge 2$ e una sequenza $p_1, p_2, \ldots, p_s$ di numeri interi da $1$ a $n$ con $p_1 = x$ e $p_s = y$, in modo tale che per ogni numero intero $t$ con $1 \le t \le s-1$, almeno $\dfrac{m+1}{2}$ i delegati hanno un punteggio di preferenza strettamente superiore per il problema $p_{t+1}$ rispetto al problema $p_t$.
+> Sia $m$ un numero intero dispari con $m \ge 3$, e sia $n$ un numero intero con $n \ge 3$. Per ogni numero intero $i$ con $1 \le i \le m$, sia $a_{i,1}, a_{i,2}, \ldots, a_{i,n}$ una permutazione di $1, 2, \ldots, n$.
+>
+> Un presidente e $m$ delegati (delegato $1$, delegato $2$, $\ldots$, delegato $m$) stanno tenendo una riunione per selezionare i problemi per l'IMO di quest'anno. Ci sono $n$ problemi candidati (problema $1$, problema $2$, $\ldots$, problema $n$). Ogni delegato ha un **punteggio di preferenza** per ciascun problema, che è un numero intero compreso tra $1$ e $n$; il punteggio di preferenza iniziale del delegato $i$ per il problema $j$ è $a_{i,j}$. Il presidente può eseguire ripetutamente l'operazione seguente:
+>
+> > Scegli gli interi $i, j, k$ con $1 \le i \le m$ e $1 \le j, k \le n$ in modo che la differenza tra i punteggi di preferenza del delegato $i$ per il problema $j$ e il problema $k$ sia esattamente $1$, e scambia quei due punteggi di preferenza del delegato $i$.
+>
+> Indipendentemente dai valori degli interi $mn$ $a_{i,j}$ ($1 \le i \le m$, $1 \le j \le n$), determina il minimo intero non negativo $L$ tale che il presidente possa soddisfare la seguente condizione eseguendo l'operazione al massimo $L$ volte:
+>
+> > Per ogni coppia di interi distinti $x, y$ con $1 \le x, y \le n$, esistono un intero $s \ge 2$ e una sequenza $p_1, p_2, \ldots, p_s$ di interi da $1$ a $n$ con $p_1 = x$ e $p_s = y$, tali che, per ogni intero $t$ con $1 \le t \le s-1$, almeno $\dfrac{m+1}{2}$ delegati hanno un punteggio di preferenza strettamente più alto per il problema $p_{t+1}$ rispetto al problema $p_t$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2022#q08|src_selection_camp_2022__Q08]]
 
 
 
@@ -266,9 +325,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni reali con f(-1)=-1 che soddisfano un'equazione funzionale*
+*Trovare tutte le funzioni reali con f(-1)=-1 che soddisfano un'equazione funzionale*
 
-> Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ in modo tale che per tutti i numeri reali $x, y$, $$f(x)f(y) - f(x+y) = yf(x) - f(x+f(y))$$ e $f(-1) = -1$.
+> Trovare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ tali che, per tutti i numeri reali $x, y$,
+> $$f(x)f(y) - f(x+y) = yf(x) - f(x+f(y))$$
+> e $f(-1) = -1$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2022#q09|src_selection_camp_2022__Q09]]
 
 
 
@@ -291,9 +359,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le n in modo che i divisori possano essere disposti con tutte le somme parziali squadrati perfetti*
+*Trovare tutti gli n tali che i divisori possano essere disposti in modo che tutte le somme parziali siano quadrati perfetti*
 
-> $n$ sia un intero positivo e $d(n)$ indichi il numero di divisori positivi di $n$. Trova tutti gli integri positivi $n$ per i quali esiste una sequenza $a_1, a_2, \ldots, a_{d(n)}$ composta da tutti i divisiori positivi distinti di $n$ in modo tale che per ogni intero positivo $i \le d(n)$, $a_1 + a_2 + \cdots + a_i$ sia un quadrato perfetto.
+> Sia $n$ un numero intero positivo e sia $d(n)$ il numero di divisori positivi di $n$. Determinare tutti i numeri interi positivi $n$ per i quali esiste una successione $a_1, a_2, \ldots, a_{d(n)}$ costituita da tutti i divisori positivi distinti di $n$ tale che, per ogni numero intero positivo $i \le d(n)$, $a_1 + a_2 + \cdots + a_i$ sia un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2022#q10|src_selection_camp_2022__Q10]]
 
 
 
@@ -316,9 +391,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre linee AC, DT, BK convergono in una configurazione quadrilaterale ciclica*
+*Tre rette, AC, DT e BK, concorrono in una configurazione di quadrilatero ciclico*
 
-> $ABCD$ sia un quadrilaterale inciso in un cerchio $\Omega$. La tangente di $\Omega$ a $D$ incontra i raggi $BA$ e $BC$ rispettivamente ai punti $E$ e $F$. Il $T$ deve essere un punto all'interno del triangolo $ABC$ (non al suo confine) tale che $TE \parallel CD$ e $TF \parallel AD$. Inoltre, $K$ deve essere un punto del segmento $DF$ diverso da $D$ in modo tale che $TD = TK$. Prove che le tre linee $AC$, $DT$ e $BK$ sono simultanee. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Sia $ABCD$ un quadrilatero inscritto in una circonferenza $\Omega$. La tangente a $\Omega$ in $D$ interseca i raggi $BA$ e $BC$ nei punti $E$ e $F$, rispettivamente. Sia $T$ un punto interno al triangolo $ABC$ (non appartenente al suo contorno) tale che $TE \parallel CD$ e $TF \parallel AD$. Inoltre, sia $K$ un punto del segmento $DF$ diverso da $D$ tale che $TD = TK$. Dimostrare che le tre rette $AC$, $DT$ e $BK$ sono concorrenti. Qui $XY$ denota la lunghezza del segmento $XY$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2022#q11|src_selection_camp_2022__Q11]]
 
 
 
@@ -349,14 +431,21 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-Giocatore di coniglio su una griglia infinita. Il coniglio può evitare di essere localizzato?
+*Gioco del cacciatore e del coniglio su una griglia infinita; il coniglio può evitare di essere localizzato?*
 
-> Un cacciatore e un coniglio invisibile giocano a un gioco su una griglia infinita. In primo luogo, il cacciatore sceglie un intero positivo $k$ e assegna un intero da $\{1, 2, \ldots, k\}$ a ogni cella della griglia, quindi informa l'assegnazione al coniglio. Successivamente, il coniglio sceglie una cella in cui nascondersi. In seguito, il coniglio esegue ripetutamente le seguenti azioni:
-> 
-> (i) Il coniglio dice al cacciatore il numero intero assegnato alla cella in cui si trova attualmente.
-> 
-> (ii) Il coniglio si sposta in una cella non visitata che condivide un lato con la sua cella corrente. Se non esiste una cellula non visitata, il gioco finisce.
-> 
-> In qualsiasi momento del gioco, se il cacciatore riesce a identificare in modo unico la cella in cui il coniglio si è nascosto per la prima volta, utilizzando solo i numeri interi segnalati finora, allora il gioco finisce a quel punto.
-> 
-> È possibile che il coniglio scelga la sua cella di partenza e continui a giocare senza che il gioco finisca, indipendentemente dal modo in cui il cacciatore sceglie $k$ e l'assegnazione di numeri interi?
+> Un cacciatore e un coniglio invisibile giocano a un gioco su una griglia infinita. Per prima cosa, il cacciatore sceglie un intero positivo $k$ e assegna un intero tratto da $\{1, 2, \ldots, k\}$ a ciascuna cella della griglia, poi comunica l'assegnazione al coniglio. Successivamente, il coniglio sceglie una cella in cui nascondersi. Dopo di ciò, il coniglio esegue ripetutamente le seguenti azioni in ordine:
+>
+> (i) Il coniglio dice al cacciatore l'intero assegnato alla cella in cui si trova attualmente.
+>
+> (ii) Il coniglio si sposta in una cella non visitata che condivide un lato con la sua cella attuale. Se non esiste alcuna cella non visitata di questo tipo, il gioco termina.
+>
+> In qualsiasi momento durante la partita, se il cacciatore riesce a identificare in modo univoco la cella in cui il coniglio si è nascosto per la prima volta, utilizzando soltanto gli interi riportati finora, allora la partita termina in quel momento.
+>
+> È possibile che il coniglio scelga la propria cella di partenza e continui a giocare senza che la partita finisca, indipendentemente da come il cacciatore sceglie $k$ e dall'assegnazione degli interi?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2022#q12|src_selection_camp_2022__Q12]]

@@ -29,9 +29,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Distanza del percorso dell'autobus dal terminal al terminal*
+*Distanza del percorso dell'autobus da capolinea a capolinea*
 
-> Un motociclista viaggia a velocità costante lungo la rotta dell'autobus che collega il terminal A al terminal B, seguendo la linea di autobus regolare che collega i due terminal. Lasciò il terminal A e si diresse verso l'altro, e notò che ogni 3 minuti passava davanti ad una fermata di autobus. Le ci sono voluti 45 minuti per raggiungere il terminal B. Lei sa che la distanza tra il terminal e la fermata più vicina, e tra due fermate consecutive, è di 2 km. Qual è la distanza tra i due terminali?
+> Una motociclista viaggia a velocità costante lungo il percorso degli autobus che collega il terminal A al terminal B, seguendo la linea regolare degli autobus che unisce i due terminal. È partita dal terminal A in direzione dell'altro terminal e ha notato che ogni 3 minuti superava una fermata dell'autobus. Le sono occorsi 45 minuti per raggiungere il terminal B. Sa che la distanza tra il terminal e la fermata più vicina a esso, e tra due fermate consecutive qualsiasi, è di 2 km. Qual è la distanza tra i due terminal?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f2#q01|src_obm_2012_n1_f2__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca ZYX da un'aggiunta di colonne aritmetiche*
+*Trovare ZYX a partire da una addizione in colonna di crittoaritmetica*
 
-> In aggiunta a tre numeri a 4 cifre di seguito, lettere diverse rappresentano cifre diverse. Qual è il numero $\overline{ZYX}$? $$\begin{array}{r} XXXX \\ +\; YYYY \\ \hline ZZZZ \\ \hline YXXZ \end{array}$$
+> Nella somma dei tre numeri di quattro cifre riportata di seguito, lettere diverse rappresentano cifre diverse. Qual è il numero $\overline{ZYX}$?
+> $$\begin{array}{r} XXXX \\ +\; YYYY \\ \hline ZZZZ \\ \hline YXXZ \end{array}$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f2#q02|src_obm_2012_n1_f2__Q02]]
 
 
 
@@ -79,9 +94,15 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di triangolo equilaterale con lo stesso perimetro dell'esagono regolare di area 240*
+*Area del triangolo equilatero avente lo stesso perimetro di un esagono regolare di area 240*
 
-> Un triangolo equilaterale ha lo stesso perimetro di un esagono regolare la cui superficie è $240 \text{ cm}^2$. Qual è l'area del triangolo, in $\text{cm}^2$?
+> Un triangolo equilatero ha lo stesso perimetro di un esagono regolare la cui area è $240 \text{ cm}^2$. Qual è l'area del triangolo, in $\text{cm}^2$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n1_f2#q03|src_obm_2012_n1_f2__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero minimo di quadrati per la taglia di un rettangolo 24x13*
+*Numero minimo di quadrati quando si taglia un rettangolo 24x13*
 
-> Jade vuole tagliare un foglio rettangolare di carta di $24 \text{ cm}$ di $13 \text{ cm}$ in quadrati più piccoli, non necessariamente della stessa dimensione. Qual è il numero minimo di quadrati che otterrà?
+> Jade vuole tagliare un foglio di carta rettangolare di dimensioni $24 \text{ cm}$ per $13 \text{ cm}$ in quadrati più piccoli, non necessariamente tutti della stessa dimensione. Qual è il numero minimo di quadrati che otterrà?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n1_f2#q04|src_obm_2012_n1_f2__Q04]]
 
 
 
@@ -131,9 +159,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta massima dell'espressione 1-2+3-4+5-6+7-8+9-10 con parentesi*
+*Valore massimo dell'espressione 1-2+3-4+5-6+7-8+9-10 utilizzando le parentesi*
 
-> Utilizzando solo le parentesi quante siano necessarie, ma utilizzando solo le addizioni e le sottrazioni già indicate, possiamo rendere l'espressione $$1 - 2 + 3 - 4 + 5 - 6 + 7 - 8 + 9 - 10$$ il numero più grande possibile. Che numero è questo?
+> Usando solo parentesi, quante ne servono, ma usando solo le addizioni e le sottrazioni già indicate, possiamo ottenere l'espressione
+> $$1 - 2 + 3 - 4 + 5 - 6 + 7 - 8 + 9 - 10$$
+> Rappresentano il numero più grande possibile. Qual è questo numero?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f2#q05|src_obm_2012_n1_f2__Q05]]
 
 
 
@@ -155,9 +192,15 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le ragazze alla scuola di Esmeralda dopo un aumento dell'iscrizione del 10%/20%*
+*Conta le ragazze alla scuola Esmeralda dopo un aumento delle iscrizioni del 10%/20%*
 
-> Nella scuola di Esmeralda, quest'anno il numero di ragazzi è aumentato di $10\%$ e il numero di ragazze è aumentato di $20\%$ rispetto all'anno scorso. Attualmente ci sono studenti $230$, esattamente $30$ in più rispetto all'anno scorso. Quante ragazze ci sono a scuola?
+> Alla scuola Esmeralda, quest'anno il numero dei ragazzi è aumentato di $10\%$ e il numero delle ragazze è aumentato di $20\%$ rispetto all'anno scorso. Attualmente ci sono $230$ studenti, esattamente $30$ in più rispetto all'anno scorso. Quante ragazze ci sono nella scuola?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f2#q06|src_obm_2012_n1_f2__Q06]]
 
 
 
@@ -194,23 +237,30 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di disco: completa la tabella e trova i punteggi da informazioni parziali*
+*Gioco dei dadi: completa la tabella e determina i punteggi a partire da informazioni parziali*
 
-> Ana, Beto e Carlos hanno inventato un gioco in cui ognuno di loro ruota un dado e registra il guadagno (punti positivi) o raddoppia i punti degli altri due ottenuti nel rollo, allo stesso tempo gli altri li notano come perdite (negative). Il punteggio viene rivisto dopo ogni rollo.
-> 
-> I punteggi dopo ogni rollo sono registrati per Ana, Beto e Carlos nella tabella qui sotto, in questo ordine. L'ultima riga mostra il punteggio finale di ciascuno. In ogni nuova partita, partono da zero.
-> 
+> Ana, Beto e Carlos hanno inventato un gioco in cui ciascuno di loro lancia un dado e registra il guadagno (punti positivi) oppure il doppio dei punti ottenuti dagli altri due al lancio; contemporaneamente, gli altri li annotano come perdite (negativi). Il punteggio viene riesaminato dopo ogni lancio.
+>
+> I punteggi dopo ogni lancio, per Ana, Beto e Carlos, sono riportati nella tabella sottostante, in questo ordine. L'ultima riga mostra il punteggio finale di ciascuno. In ogni nuova partita, partono da zero.
+>
 > $$\begin{array}{|c|c|c|c|}\hline & \text{Ana's score} & \text{Beto's score} & \text{Carlos's score} \\\hline \text{A rolls 5} & 10 & -5 & -5 \\\hline \text{B rolls 1} & 9 & -3 & -6 \\\hline \text{C rolls 1} & & -6 & 0 \\\hline \end{array}$$
-> 
-> a) Completa la tabella di cui sopra con i risultati di un'altra partita in cui Beto ha giocato per primo, Carlos per secondo e Ana per ultimo.
-> 
+>
+> a) Completa la tabella sopra con i risultati di un'altra partita in cui Beto ha giocato per primo, Carlos per secondo e Ana per ultima.
+>
 > $$\begin{array}{|c|c|c|c|}\hline & \text{Ana's score} & \text{Beto's score} & \text{Carlos's score} \\\hline & & 6 & \\\hline & & & 5 \\\hline 5 & & & \\\hline \end{array}$$
-> 
-> b) Nella tabella laterale sono stati registrati solo i valori dei die in una partita di sei rulli. Scrivi al di sotto della tabella il punteggio finale di ciascuno.
-> 
+>
+> b) Nella tabella a fianco sono stati registrati solo i valori dei dadi in una partita di sei lanci. Sotto la tabella, scrivi il punteggio finale di ciascuno.
+>
 > $$\begin{array}{|c|c|c|}\hline \text{A rolls} & \text{B rolls} & \text{C rolls} \\\hline & 3 & \\\hline & 1 & \\\hline & & 4 \\\hline 5 & & \\\hline & & 6 \\\hline & & 4 \\\hline \end{array}$$
-> 
+>
 > $$\text{Ana's score:} \quad \text{Beto's score:} \quad \text{Carlos's score:}$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n1_f2#q07|src_obm_2012_n1_f2__Q07]]
 
 
 
@@ -239,15 +289,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area e il perimetro delle figure realizzate in diamanti unitari quadrati in sequenza*
+*Area e perimetro di figure composte da rombi quadrati unitari in una sequenza*
 
-> Rubinho costruì una sequenza di figure $10$, ciascuna formata da piccoli quadrati (piastrelle a forma di rombo) di lato $1$ cm, come mostrato. La figura 2, ad esempio, ha superficie $5 \text{ cm}^2$ e perimetro $12 \text{ cm}$.
-> 
-> a) Qual è l'area della figura 5?
-> 
-> b) Qual è il perimetro della figura 10?
+> Rubinho ha costruito una sequenza di $10$ figure, ciascuna formata da piccoli quadrati (piastrelle a forma di rombo) di lato $1$ cm, come mostrato. La Figura 2, ad esempio, ha area $5 \text{ cm}^2$ e perimetro $12 \text{ cm}$.
+>
+> a) Qual è l'area della Figura 5?
+>
+> b) Qual è il perimetro della Figura 10?
 
 ![[src_obm_2012_n1_f2__q08.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n1_f2#q08|src_obm_2012_n1_f2__Q08]]
 
 
 
@@ -276,12 +333,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il gioco di riduzione della somma dei numeri di Diamantino: traccia, massimo 3 cifre, conteggio sotto il 2012*
+*Gioco di riduzione della somma delle cifre di Diamantino: traccia, massimo 3 cifre, conta meno di 2012*
 
-> Diamantino gioca con numeri di due o più cifre, trasformandoli in numeri a una cifra nel seguente modo: aggiunge le due cifre più a destra e sostituisce quelle due cifre con il risultato, ripetendo il processo finché non ottiene ciò che vuole. Ad esempio, partendo da $367$ scrive $313$, poi scrive $34$, e finisce scrivendo $7$.
-> 
-> a) A partire dal numero $2012$, quale numero riceverà Diamantino?
-> 
-> b) Qual è il numero a tre cifre più grande che Diamantino può trasformare in $1$?
-> 
-> c) Diamantino ha scritto tutti i numeri inferiori a $2012$, con due o più cifre, che possono essere trasformati in $9$. Quanti numeri ha scritto?
+> Diamantino gioca con numeri di due o più cifre, trasformandoli in numeri a una sola cifra nel modo seguente: somma le due cifre più a destra e sostituisce quelle due cifre con il risultato, ripetendo il processo finché non ottiene ciò che vuole. Ad esempio, partendo da $367$ scrive $313$, poi scrive $34$ e termina scrivendo $7$.
+>
+> a) Partendo dal numero $2012$, quale numero otterrà Diamantino?
+>
+> b) Qual è il più grande numero di tre cifre che Diamantino può trasformare in $1$?
+>
+> c) Diamantino ha scritto tutti i numeri minori di $2012$, con due o più cifre, che possono essere trasformati in $9$. Quanti numeri ha scritto?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n1_f2#q09|src_obm_2012_n1_f2__Q09]]

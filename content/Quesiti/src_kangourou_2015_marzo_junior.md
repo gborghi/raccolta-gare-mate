@@ -36,15 +36,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which result*
+*what result*
 
-> One of the following numbers is the result of product 21.649 × 513.239. Which one? A) 11.111.111
-> 	
-> B) 111.111.111
-> 	
-> C) 1.111.111.111 D) 11.111.111.111 E) 111.111.111.111
+> One of the following numbers is the result of the product 21,649 × 513,239. Which one?
+> A) 11.111.111	
+>
+> B) 111.111.111	
+>
+> C) 1.111.111.111      
+> D) 11.111.111.111     	
+> E) 111.111.111.111
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q01|src_kangourou_2015_marzo_junior__Q01]]
 
 
 
@@ -77,17 +84,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many handkerchiefs*
+*How many handkerchiefs?*
 
-> On a long rope in the garden they lie to dry some handkerchiefs and some pairs of socks. Between two handkerchiefs there is always at least one sock and between two socks there is at least one handkerchief. There are 29 items hanging to dry. How many handkerchiefs are there? A) 11
-> 	
-> B) 13
-> 	
-> C) 14
-> 	
-> D) 15 E) The data are insufficient to answer
+> On a long line in the garden, some handkerchiefs and some pairs of stockings are laid out to dry. Between any two handkerchiefs, there is always at least one stocking, and between any two stockings, there is always at least one handkerchief. There are 29 items laid out to dry. How many handkerchiefs are there?
+> A) 11	
+>
+> B) 13	
+>
+> C) 14	
+>
+> D) 15            
+> E) The data are insufficient to provide an answer
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q02|src_kangourou_2015_marzo_junior__Q02]]
 
 
 
@@ -162,15 +175,20 @@ level: kangourou
 \end{document}
 ```
 
-> The region inside the square that appears shaded in the figure is bounded by a semicircle and by two quarter circles. The square has area 1. What is the area of the shaded region?
+> The region inside the square that appears shaded in the figure is bounded by a semicircle and two quarter-circles. The square has an area of 1. What is the area of the shaded region?
 > A) π/8	 	
 > B) 1/2	
-> 	
+>
 > C) π/2	 	
 > D) 1/4	 	
 > E) π/4
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q03|src_kangourou_2015_marzo_junior__Q03]]
 
 
 
@@ -205,19 +223,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many more Anna*
+*How many more, Anna?*
 
-> Anna, Betta and Cinzia purchased a box containing 30 cookies: to pay for it, Anna provided 80 cents, Betta 50 cents and Cinzia 20. So they each took 10 cookies. If the cookies were divided in proportion to what each one paid, how many more would Anna have had? A) 10
-> 	
-> B) 9
-> 	
-> C) 8
-> 	
-> D) 7
-> 	
+> Anna, Betta, and Cinzia bought a box containing 30 biscuits: to pay for it, Anna contributed 80 cents, Betta contributed 50 cents, and Cinzia contributed 20 cents. So each of them took 10 biscuits. If they had divided the biscuits in proportion to how much each had paid, how many more biscuits should Anna have gotten?
+> A) 10	
+>
+> B) 9	
+>
+> C) 8	
+>
+> D) 7	
+>
 > E) 6
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q04|src_kangourou_2015_marzo_junior__Q04]]
 
 
 
@@ -245,13 +268,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*>=5m from the wall, <=5m from the tree*
+*>=5 m from the wall, <=5 m from the tree*
 
 ![[src_kangourou_2015_marzo_junior__prob5.png]]
 
-> Many years ago a pirate buried a treasure in a garden and now he wants it back. The garden remained intact, but he only remembers having buried the treasure at least five metres from the fence wall and no more than five metres from an old tree. Which of the following figures indicates the region where the pirate should look for the treasure?
+> Many years ago, a pirate buried a treasure in a garden and now wants to recover it. The garden has remained as it was, but the pirate only remembers that he buried the treasure at least 5 meters from the low fence wall and no more than 5 meters from an old tree. Which of the following figures indicates the region where the pirate should look for the treasure?
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q05|src_kangourou_2015_marzo_junior__Q05]]
 
 
 
@@ -290,21 +317,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Units digit of 2015^2+2015^0+2015^1+2015^5*
+*Digit of the units place of 2015^2 + 2015^0 + 2015^1 + 2015^5*
 
 > What is the units digit of the number 20152 + 20150 + 20151 + 20155?
 > A) 1	
-	
-> 	
+>
 > B) 5	
-	
-> 	
+>
 > C) 6	
-	
-> 	
+>
 > D) 7	
-	
-> 	
+>
 > E) 9
 > A)
 > B)
@@ -313,7 +336,12 @@ level: kangourou
 > E)
 >
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q06|src_kangourou_2015_marzo_junior__Q06]]
 
 
 
@@ -348,21 +376,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*english*
+*Italian*
 
-> A class consists of 33 students, each of whom likes studying at least one of the subjects: Italian or Mathematics. Exactly 3 students like studying both Mathematics and Italian, and the number of students who like studying only Italian is double the number of those who like studying only Mathematics. How many students like studying Italian?
+> A class has 33 students, and each of them likes studying at least one of the subjects Italian or Mathematics. Exactly 3 of them like studying both Mathematics and Italian, and the number of students who like studying only Italian is twice the number of those who like studying only Mathematics. How many students like studying Italian?
+> A) 15	
 >
-> A) 15
-> 	
 > B) 18	
-> 	
+>
 > C) 20	
-> 	
+>
 > D) 22	
-> 	
+>
 > E) 23
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q07|src_kangourou_2015_marzo_junior__Q07]]
 
 
 
@@ -395,19 +426,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is not a perfect square nor a perfect cube*
+*Which one is neither a square nor a perfect cube?*
 
-> Which of the following integers is not a perfect square and is not a perfect cube? A) 613
-> 	
-> B) 512
-> 	
-> C) 411
-> 	
-> D) 310
-> 	
+> Which of the following integers is neither a perfect square nor a perfect cube?
+> A) 613	
+>
+> B) 512	
+>
+> C) 411	
+>
+> D) 310	
+>
 > E) 29
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q08|src_kangourou_2015_marzo_junior__Q08]]
 
 
 
@@ -438,11 +474,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Total days **
+*Total days*
 
-> Louis bought 100 candles. He consumes one candle a day, but as soon as he has the remains of seven candles, he manages to make a new one. How many days will the candles he bought last? A) 112 B) 114 C) 115 D) 116 E) 117
+> Luigi has bought 100 candles. He uses one candle a day, but as soon as he has the remnants of seven candles, he can make a new one. For how many days will the candles he bought last him?
+> A) 112	 	
+> B) 114	 	
+> C) 115	 	
+> D) 116	 	
+> E) 117
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q09|src_kangourou_2015_marzo_junior__Q09]]
 
 
 
@@ -477,18 +523,20 @@ Total days **
 
 *list of values*
 
-> If n is the number of right angles of a generic convex pentagon, which of the
-> following is the complete list of values that n can take? (A polygon is called con­
-> vex if, whenever it contains two points, it contains the whole segment that has them as
-> endpoints.)
+> Let n be the number of right angles in an arbitrary convex pentagon. Which of the following is the complete list of values that n can take? (A polygon is said to be convex if, whenever it contains two points, it contains the entire line segment whose endpoints are those two points.)
 > A) 1, 2, 3.	
 > B) 0, 1, 2, 3, 4.	
 > C) 0, 1, 2, 3.	
 > D) 0, 1, 2.	
 > E) 1, 2.
-> Questions from No. 11 to No. 20 are worth 4 points each
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q10|src_kangourou_2015_marzo_junior__Q10]]
 
 
 
@@ -524,19 +572,25 @@ Total days **
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many choices*
+*So many choices*
 
-> You are looking for a number of three digits ABC (A is the hundreds digit, B is the tens digit, C is the units digit) such that 1 ≤ A < B < C and the sum of the three numbers ABC, BCA and CAB is a number of three digits equal to each other (i.e. of the type DDD). How many choices do you have? A) 3
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
+> You are looking for a three-digit number ABC (where A is the hundreds digit, B is the tens digit, and C is the units digit) such that 1 ≤ A < B < C and the sum of the three numbers ABC, BCA, and CAB is a three-digit number with all digits equal (that is, of the form DDD). How many possible choices do you have?
+> A) 3	
+>
+> B) 4	
+>
+> C) 5	
+>
+> D) 6	
+>
 > E) 7
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q11|src_kangourou_2015_marzo_junior__Q11]]
 
 
 
@@ -583,7 +637,7 @@ Total days **
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum route*
+*Minimum path*
 
 ![[src_kangourou_2015_marzo_junior__prob12.png]]
 
@@ -599,9 +653,19 @@ Total days **
 \end{document}
 ```
 
-> The rectangle in the figure is obtained by placing 8 squares all of side 1 side by side. In a rectangle you can only move along the sides or diagonals of the individual squares. With this constraint, how long is the shortest path connecting two opposite vertices of the rectangle (e.g. those marked)? A) 2√5 B) √10 + √2 C) 2 + 2√2 D) 4√2 E) 6
+> The rectangle in the figure is formed by placing 8 squares, each with side length 1, side by side. Within the rectangle, one can move only along the sides or the diagonals of the individual squares. Under this constraint, how long is the shortest path connecting two opposite vertices of the rectangle (for example, the ones marked)?
+> A) 2√5	 	
+> B) √10 + √2	
+> C) 2 + 2√2	
+> D) 4√2	 	
+> E) 6
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q12|src_kangourou_2015_marzo_junior__Q12]]
 
 
 
@@ -640,27 +704,23 @@ Total days **
 
 *Trimi's ears*
 
-> Each inhabitant of a strange planet has some (possibly even more than two) 
-> ears. Three inhabitants, Imi, Dimi and Trimi, meet: no one else is present. Imi 
-> says: "I can see 8 ears". Dimi says: "I can see 7". Trimi says: "How 
-> strange! I can see only 5". None of them can see their own ears, all 
-> see all the ears of the others and all tell the truth. How many ears does Trimi have?
+> Every inhabitant of a strange planet has some ears (possibly more than two). Three inhabitants, Imi, Dimi, and Trimi, meet: no one else is present. Imi says, "I can see 8 ears." Dimi says, "I can see 7." Trimi says, "How strange! I can see only 5." None of them can see their own ears; all of them see all the others' ears, and all of them are telling the truth. How many ears does Trimi have?
 > A) 2	
-	
-> 	
+>
 > B) 4	
-	
-> 	
+>
 > C) 5	
-	
-> 	
+>
 > D) 6	
-	
-> 	
+>
 > E) 7
 >
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q13|src_kangourou_2015_marzo_junior__Q13]]
 
 
 
@@ -694,9 +754,18 @@ Total days **
 
 *height h*
 
-> A container is shaped like a rectangular prism and the base is a square side 10 cm. The water is poured into the container up to a height of h cm; a 2 cm side stone cube is then immersed (which therefore does not float and lies on the bottom with one of its faces). The cube is now surrounded by water and its upper face is level with the water. What is the value of h? A) 1,92 B) 1,93 C) 1,90 D) 1,91 E) 1,94
+> A container is in the shape of a right rectangular prism, and its base is a square with a side length of 10 cm. Water is poured into the container to a height of h cm; a small stone cube with a side length of 2 cm is then immersed (so it does not float and comes to rest on the bottom with one of its faces). The cube is now surrounded by water, and its top face is at the water surface. What is the value of h?
+> A) 1,92	 	
+> B) 1,93	 	
+> C) 1,90	 	
+> D) 1,91	 	
+> E) 1,94
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q14|src_kangourou_2015_marzo_junior__Q14]]
 
 
 
@@ -738,15 +807,22 @@ Total days **
 
 ![[src_kangourou_2015_marzo_junior__prob15.png]]
 
-> The square ABCD in the figure has an area of 80. The points E, F, G and H are each on one side of the square and the segments AE, BF, CG and DH are all the same length, which is three times the length of the EB segment. What is the area of the shaded region? A) 20
-> 	
-> B) 25
-> 	
-> C) 30 D) 35
-> 	
+> The square ABCD in the figure has an area of 80. Points E, F, G, and H each lie on a side of the square, and the segments AE, BF, CG, and DH are all of the same length, which is three times the length of segment EB. What is the area of the shaded region?
+> A) 20	
+>
+> B) 25	
+>
+> C) 30
+> D) 35	
+>
 > E) 40
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q15|src_kangourou_2015_marzo_junior__Q15]]
 
 
 
@@ -779,17 +855,24 @@ Total days **
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the difference between the two.
+*difference*
 
-> Today is a father and his son's birthday. The product of their ages is 2015. What is the age difference between the father and the son? A) 26
-> 	
-> B) 29
-> 	
-> C) 31
-> 	
-> D) 36 E) A number different from the previous ones.
+> Today is the birthday of a father and his son. The product of their ages is 2015. What is the difference between the father's age and the son's age?
+> A) 26	
+>
+> B) 29	
+>
+> C) 31	
+>
+> D) 36             
+> E) A number different from the preceding ones.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q16|src_kangourou_2015_marzo_junior__Q16]]
 
 
 
@@ -825,18 +908,23 @@ This is the difference between the two.
 
 *min n*
 
-> The product of n consecutive positive integers, each of them two-digit, is divisible by 2015. What is the smallest possible value for n ?             
+> The product of n consecutive positive two-digit integers is divisible by 2015. What is the smallest possible value of n?
 > A) 3	
-> 	
+>
 > B) 4	
-> 	
+>
 > C) 6	
-> 	
+>
 > D) 12	
-> 	
+>
 > E) 19
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q17|src_kangourou_2015_marzo_junior__Q17]]
 
 
 
@@ -870,19 +958,25 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of digits c*
+*sum of figures of c*
 
-> The two solutions to the equation x2 - 85x + c = 0 are prime integers. What is the sum of the digits of the number c ? A) 12
-> 	
-> B) 13
-> 	
-> C) 14
-> 	
-> D) 15
-> 	
+> The two solutions of the equation x² - 85x + c = 0 are prime integers. What is the sum of the digits of the number c?
+> A) 12	
+>
+> B) 13	
+>
+> C) 14	
+>
+> D) 15	
+>
 > E) 21
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q18|src_kangourou_2015_marzo_junior__Q18]]
 
 
 
@@ -916,19 +1010,25 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*3-digit integers with adjacent digits that differ by 3*
+*Find 3-digit numbers whose adjacent digits differ by 3*
 
-> How many positive integers of three significant digits are such that, any two adjacent digits in it differ by 3? A) 12
-> 	
-> B) 14
-> 	
-> C) 16
-> 	
-> D) 20
-> 	
+> How many positive integers with three significant figures are such that, whatever two adjacent digits are considered in each of them, those digits differ by 3?
+> A) 12	
+>
+> B) 14	
+>
+> C) 16	
+>
+> D) 20	
+>
 > E) 27
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q19|src_kangourou_2015_marzo_junior__Q19]]
 
 
 
@@ -958,11 +1058,21 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n first, only one of n-2,n+2 first*
+*n is prime, and exactly one of n-2, n+2 is prime*
 
-> The statement If n is a prime integer, then one and only one of the integers n − 2 and n + 2 is prime is false. Which of the following values of n provides a counterexample? A) n = 11 B) n = 19 C) n = 21 D) n = 29 E) n = 37 Questions from N. 21 to N. 30 are worth 5 points each.
+> The statement "If n is a prime integer, then exactly one of the integers n - 2 and n + 2 is prime" is false. Which of the following values of n provides a counterexample?
+> A) n = 11	
+> B) n = 19	
+> C) n = 21	
+> D) n = 29	
+> E) n = 37
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q20|src_kangourou_2015_marzo_junior__Q20]]
 
 
 
@@ -999,18 +1109,24 @@ This is the difference between the two.
 
 *Two-digit numbers as the sum of 6 distinct powers of 2*
 
-> How many two-digit numbers can be represented as the sum of exactly six different powers (with nonnegative integer exponent) of 2 (including 2^0)? A) 0
-> 	
-> B) 1
-> 	
-> C) 2
-> 	
-> D) 3
-> 	
+> How many two-digit numbers can be represented as the sum of exactly six distinct powers of 2 (with non-negative integer exponents), including 2^0?
+> A) 0	
+>
+> B) 1	
+>
+> C) 2	
+>
+> D) 3	
+>
 > E) 4
 >
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q21|src_kangourou_2015_marzo_junior__Q21]]
 
 
 
@@ -1045,22 +1161,25 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*arrangements*
+*alignments*
 
-> Francesca has three different dictionaries and two different atlases and wants to line them all up on
-> a shelf. If she wants to place the dictionaries all together and the atlases all together, among
-> how many different possible arrangements can she choose?
+> Francesca has three different vocabulary books and two different atlases, and she wants to arrange them all on one shelf. If she wants to put the vocabulary books all together and the atlases all together, how many different possible arrangements can she choose from?
 > A) 12	
-> 	
+>
 > B) 24	
-> 	
+>
 > C) 30	
-> 	
+>
 > D) 60	
-> 	
+>
 > E) 120
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q22|src_kangourou_2015_marzo_junior__Q22]]
 
 
 
@@ -1119,7 +1238,7 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*central region*
+*Central region*
 
 ![[src_kangourou_2015_marzo_junior__prob23.png]]
 
@@ -1141,24 +1260,22 @@ This is the difference between the two.
 \end{document}
 ```
 
-> The three circles in the figure identify seven regions, each
-> inside at least one of them. In each region a number must be
-> written, so that it is the sum of the numbers
-> written in the regions adjacent to it (two regions are
-> considered adjacent if their borders have more than one
-> point in common). In two of the regions the number has already been
-> written. Which number must be written in the central region
-> marked by the question mark?
+> The three circles in the figure define seven regions, each of which lies within at least one of the circles. A number must be written in each region such that it equals the sum of the numbers written in the regions adjacent to it (two regions are considered adjacent if their boundaries have more than one point in common). In two of the regions, a number has already been written. What number should be written in the central region marked with a question mark?
 > A) 0	
-> 	
+>
 > B) - 3	
-> 	
+>
 > C) 3	
-> 	
+>
 > D) - 6	 	
 > E) 6
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q23|src_kangourou_2015_marzo_junior__Q23]]
 
 
 
@@ -1266,9 +1383,19 @@ This is the difference between the two.
 \end{document}
 ```
 
-> On the AB side of an ABC triangle, two points X and Y are indicated, and the parallel segment to the AC side, which ends on the BC side, is drawn from each of them. It is known that the areas of the two shaded regions thus separated (a trapezoid and a triangle) are equal and that BX: XA = 4: 1. How much is BY: Ya ? A) 1 : 1 B) 2 : 1 C) 3 : 3 D) 3 : 2 E) 4 : 3
+> On side AB of triangle ABC, two points X and Y are marked, and from each of them a line segment parallel to side AC is drawn, terminating on side BC; the figure shows the two situations separately. It is known that the areas of the two shaded regions thus identified (a trapezoid and a triangle) are equal, and that BX : XA = 4 : 1. What is the value of BY : YA?
+> A) 1 : 1	 	
+> B) 2 : 1	 	
+> C) 3 : 3	 	
+> D) 3 : 2	 	
+> E) 4 : 3
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q24|src_kangourou_2015_marzo_junior__Q24]]
 
 
 
@@ -1336,7 +1463,7 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*shorter segment*
+*shortest segment*
 
 ![[src_kangourou_2015_marzo_junior__prob25.png]]
 
@@ -1369,13 +1496,21 @@ This is the difference between the two.
 \end{document}
 ```
 
-> The ABCD rectangle in the figure is divided into four triangles by the DB diagonal and the AE and CF segments. Its area is 24 cm2, while the areas of the AED and FBC triangles are 4 cm2 and 5 cm2 respectively. Which of the following segments is shorter? (Note: the figure is indicative only, it does not respect the numerical data). A) AE
-> 	
+> In the figure, rectangle ABCD is divided into four triangles by the diagonal DB and the line segments AE and CF. Its area is 24 cm², while the areas of triangles AED and FBC are 4 cm² and 5 cm², respectively. Which of the following line segments is the shortest? (Note: the figure is merely illustrative and does not reflect the numerical data.)
+> A) AE
+>
 > B) BF
-> 	
-> C) CF D) DE E) EF
+>
+> C) CF
+> D) DE
+> E) EF
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q25|src_kangourou_2015_marzo_junior__Q25]]
 
 
 
@@ -1427,39 +1562,24 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triples of digits A,B,C with AB<BC<CA*
+*How many triples of digits A, B, C satisfy AB < BC < CA?*
 
-> In the formulation of this question, a notation of the type AB indicates the number
-> of two significant digits, not necessarily distinct from each other, in which A is the digit
-> of the tens and B that of the units. In how many different ways is it possible to choose three digits
-> A, B and C if one wants to have AB < BC < CA?
-> A) 84
-	
+> In the formulation of this question, a notation of the form AB denotes a two-digit number, with the digits not necessarily distinct, where A is the tens digit and B is the units digit. In how many different ways can three digits A, B, and C be chosen if one wants AB < BC < CA?
+> A) 84	
+>
 > B) 120	 	
 > C) 125	 	
 > D) 201	 	
 > E) 502
-> A
-> B
-> C
-> X
-> A
-> B
-> C
-> Y
-> A
-> B
-> C
-> D
-> E
-> F
-> 4 cm
-> 5 cm
-> 2
-> 2
+> A B C X A B C Y A B C D E F 4 cm 5 cm 2 2
 >
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q26|src_kangourou_2015_marzo_junior__Q26]]
 
 
 
@@ -1492,17 +1612,23 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number deleted*
+*Number deleted*
 
-> For a positive integer n, after eliminating one of the numbers 1, 2, 3, ..., n - 1, n, the arithmetic mean of the remaining numbers is 4.75. What number was deleted? A) 5
-> 	
-> B) 7
-> 	
-> C) 8
-> 	
-> D) 9 E) The data are insufficient to answer
+> For a certain positive integer n, after removing one of the numbers 1, 2, 3, ..., n - 1, n, the arithmetic mean of the remaining numbers is 4.75. Which number was removed?
+> A) 5	
+>
+> B) 7	
+>
+> C) 8	
+>
+> D) 9          
+> E) The data are insufficient to provide an answer
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q27|src_kangourou_2015_marzo_junior__Q27]]
 
 
 
@@ -1537,22 +1663,25 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*shortest paths*
+*Minimum paths*
 
-> A cube has sides of length 1. Starting from one of the vertices, an ant wants
-> to return there by walking only along the edges of the cube and traversing all of them at least
-> once. How long are the shortest paths it can take?
+> A cube has edges of length 1. Starting from one of the vertices, an ant wants to return to that same vertex by walking only along the edges of the cube and by traversing each edge at least once. How long are the shortest paths the ant can take?
 > A) 12	
-	
+>
 > B) 14	
-	
+>
 > C) 15	
-	
+>
 > D) 16	
-	
+>
 > E) 20
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q28|src_kangourou_2015_marzo_junior__Q28]]
 
 
 
@@ -1587,19 +1716,25 @@ This is the difference between the two.
 <div class="qlang-split" data-lang="en"></div>
 
 
-The value of all the materials used shall be the sum of all the materials used.
+*max*
 
-> There are ten numbers written on the board, all different from each other. Of these, only those which are expressed as a product of the remaining nine were highlighted. How many numbers can be highlighted at most? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 9
-> 	
+> Ten numbers, all of which are different from one another, are written on the blackboard. Among these, all and only those that can be expressed as the product of the remaining nine have been underlined. What is the maximum number of numbers that could have been underlined?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 9	
+>
 > E) 10
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q29|src_kangourou_2015_marzo_junior__Q29]]
 
 
 
@@ -1637,22 +1772,23 @@ The value of all the materials used shall be the sum of all the materials used.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many points*
+*How many points?*
 
-> On a line, some points were marked, all distinct from one another: A and B are two of
-> them. Counting all the segments that have as endpoints two of the marked points different
-> from A and that contain A, one obtains 80. Counting all the segments that have as
-> endpoints two of the marked points different from B and that contain B, one obtains 90. How many
-> are the points marked on the line?
+> On a straight line, several points have been marked, all of which are distinct from one another: A and B are two of them. If all the line segments whose endpoints are two of the marked points other than A and which contain A are counted, the total is 80. If all the line segments whose endpoints are two of the marked points other than B and which contain B are counted, the total is 90. How many points have been marked on the straight line?
 > A) 20	
-	
+>
 > B) 22	
-	
+>
 > C) 80	
-	
+>
 > D) 90
-> E) The information is insufficient to answer
-> 
+> E) The information is insufficient to respond
+>
 > STRINGA JUNIOR 2015
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_junior#q30|src_kangourou_2015_marzo_junior__Q30]]

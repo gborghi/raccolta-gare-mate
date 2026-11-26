@@ -36,11 +36,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiple self-referential years up to 2726*
+*Self-referential multiple years up to 2726*
 
-> The Scumm BarTM [20] At dawn on May 8, 1726, Jack Disparrow, Bourbakossa and Elizabeth Somm sit drunk at a bar table, when a naive young man shows up who says he knows that in order to become a π-rat he must turn to the three π-rates in that bar. Between the serious and the factual, the three friends ask him a question: How many years from now to 2726 are multiple of the answer to this question?
+> The Bar ScummTM
+> [20]
+> At dawn on May 8, 1726, Jack Disparrow, Bourbakossa, and Elizabeth Somm are sitting drunk at a bar table when a young man with an innocent air shows up and says he has heard that, to become a π-rat, he must approach the three π-rats with imposing looks at that bar. Half-seriously and half-jokingly, the three friends pose a π-rat-like question to him: "How many years from now until 2726 are multiples of the answer to this question?"
 
-**Answer:** 0032
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_pubblico#q01|src_gas_2010_pubblico__Q01]]
 
 
 
@@ -70,11 +77,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability that at least 2 fixed points in the cube rotation*
+*Probability that at least 2 fixed points are in rotation on the cube*
 
-> Eight men and a box of rum [40] At the end of a tasty dinner, 8 π-rates decide to split the bill like this: they take a box of cubic rum and each one chooses one of the 8 vertices and glues the box of his meal to it. Then they randomly pick one of the 24 rotations of the box, and each pirate pays the counter that is on its top after the rotation. What are the odds that at least two pirates will pay for the food they ate themselves? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
+> Eight men and a crate of rum
+> [40]
+> At the end of a tasty dinner, 8 pirates decide to split the bill as follows: they take a cubic crate of rum, and each one chooses one of the 8 vertices and sticks the receipt for their meal to it. Then they randomly choose one of the 24 rotations of the crate, and each pirate pays the amount on the receipt that ends up on their vertex after the rotation. What is the probability that at least 2 pirates pay for the meal they themselves ate? [As the result, provide the product of the numerator and denominator of the fraction in lowest terms]
 
-**Answer:** 0024
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_pubblico#q02|src_gas_2010_pubblico__Q02]]
 
 
 
@@ -106,11 +120,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different inhabitants from truthful/false/variable statements*
+*Difference in inhabitants from statements by sincere people/liars/variable individuals*
 
-> Cannibal Island [30] Will met a small group of 9 savages in Tortuga. The archipelago from which they come is made up of 3 islands for a total of 10000 inhabitants, including themselves. It is known that the inhabitants of Isla Cruces are always sincere (but also cannibals), the inhabitants of Isla de Muerta always lie, and the inhabitants of Isla de Mono can be sincere or lie. The nine stand in line, and in turn, the ninth member of the line says: It is also known that there are 3 people in the line from each island and that at least one of the Isles of Mone has told the truth. What is the maximum difference between the inhabitants of Isla Cruces and those of Isla de Muerta?
+> The Island of Cannibals
+> [30]
+> On Tortuga, Will met a small group of 9 savages. The archipelago they come from consists of 3 islands with a total population of 10,000, including themselves. It is known that the inhabitants of Isla Cruces are always truthful (but also cannibals), that the inhabitants of Isla de Muerta always lie, and that the inhabitants of Isla de Mono may be truthful or lie. The nine line up, and in turn, the n-th person in the line states: "My island has no fewer than n thousand inhabitants." It is also known that there are 3 people from each island in the line and that at least one person from Isla de Mono told the truth. What is the maximum possible difference between the populations of Isla Cruces and Isla de Muerta?
 
-**Answer:** 8994
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_pubblico#q03|src_gas_2010_pubblico__Q03]]
 
 
 
@@ -143,13 +164,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total participants from n,m roots of the quadratic equation*
+*Total number of participants from the n,m roots of a quadratic equation*
 
-> The great battle [20] In the epic clash between theπ-rate fleet and that of the East India Company, as will be told for generations, the n ships led by Captain Jack Disparrow defeated the m ships of Lord Bracket's fleet, where n and m are the solutions of the equation x2 −102x+1817 = 0. Knowing that each of Disparrow's ships hadπ-rates and that each of the Company's ships had military personnel, how many in all took part in the encounter? Team competition 2010  Public competition  Problem texts  1/3
-> 
-> 2/3 Team competition 2010  Public competition  Problem texts
+> The Great Battle
+> [20]
+> In the epic clash between the fleet of the π-rats and that of the East India Company—as will be told for generations—the n ships led by Captain Jack Disparrow defeated the m ships of Lord Bracket's fleet, where n and m are the solutions of the equation x² − 102x + 1817 = 0. Knowing that on each of Disparrow's n ships there were n π-rats and that on each ship of the Company there were m soldiers, how many people in total took part in the clash? Team Competition 2010 – Public Competition – Problem Texts – 1/3
+>
+> 2/3 Team Competition 2010 – Public Vote Round – Problem Statements
 
-**Answer:** 6770
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gas_2010_pubblico#q04|src_gas_2010_pubblico__Q04]]
 
 
 
@@ -179,11 +206,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum combined cardinality closed for (m+n)/MCD(m,n)*
+*Maximum cardinality, together closed for (m+n)/GCD(m,n)*
 
-> The Survivors [25] After the battle Jack asks Master Gibbs, "How many men are left, apart from us two?" The answer is true π-rate: The number, Captain Disparrow, is the maximum cardinality of a finite subset A of positive integers, such that if m and n are in A, then m+n MCD(m,n) is in A. Jack rejoices, but how many would be?
+> The survivors
+> [25]
+> After the battle, Jack asks Master Gibbs, "How many men are left, besides the two of us?" The answer is a truly π-rate one: "The number, Captain Disparrow, is the maximum cardinality of a finite subset A of the positive integers such that, if m and n are in A, then m+n MCD(m,n) is in A." Jack is delighted—but how many would that be?
 
-**Answer:** 0001
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2010_pubblico#q05|src_gas_2010_pubblico__Q05]]
 
 
 
@@ -213,11 +247,18 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weekly minutes in which a compass needle points north*
+*Weekly minutes during which the compass needle points north*
 
-> Corsair direction [35] Jack Disparrow's compass almost never points north. At midnight on a certain day, the compass points north and starts moving according to this algorithm: every 15 minutes the ago suddenly moves forward by 90 degrees and then returns just as instantly back by a number of degrees equal to 6 times the number of minutes passed until then starting to count from midnight. For how many minutes over the course of a week does the compass point exactly north?
+> Pirate Direction
+> [35]
+> Jack Sparrow's compass almost never points north. At midnight on a given day, the compass points north and begins to move according to this algorithm: every 15 minutes, the needle suddenly moves forward by 90 degrees and then just as instantly moves back by a number of degrees equal to 6 times the number of minutes that have elapsed up to that point, counting from midnight. For how many minutes over the course of a week does the compass point exactly north?
 
-**Answer:** 2520
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2010_pubblico#q06|src_gas_2010_pubblico__Q06]]
 
 
 
@@ -243,11 +284,17 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle area given the three medians 25,153,160*
+*Area of the triangle given the three medians 25, 153, 160*
 
-> Half-triangle [60] The dorsal fin of the hammerfish in Davy Jensen's clutch is a large triangle with medians of 25, 153, and 160 cm. How many square feet does it cover?
+> Mediangolo
+> [60]
+> The dorsal fin of the hammerhead shark that is part of Davy Jensen's crew is a large triangle whose medians measure 25, 153, and 160 cm. What are its area in square centimeters?
 
-**Answer:** 2496
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2010_pubblico#q07|src_gas_2010_pubblico__Q07]]
 
 
 
@@ -282,11 +329,18 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expected value of cards with first number before red*
+*Expected value of tiles with a prime number before the red one*
 
-> Who's looking for favors from Davy Jensen? [65] The π-cursed Davy Jensen rat has a purse containing 90 white tiles of the tomb (numbered 1 to 90), plus 1 single red card of blood. Whoever asks him for his favors, to know how many years he can enjoy them, submits to the following game: he draws the cards randomly one at a time, until the red card comes out. Players will have the advantage for many years as are white cards with a prime number that came out before the red one. Bill Turing, who observes from a different angle, wonders how many years you've been doing this on average. Jack doesn't understand exactly what his colleague π-rate means, but his son Will, who studied, explains that among the many ways to define the average number of years won (all leading to the same result) the most common is the sum of the numbers k · pk where, for every natural number k = 0.1,2,..., pk is the probability that the years won are k. What's the average number of years won? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
+> Who is seeking Davy Jensen's favor?
+> [65]
+> The cursed π-rat Davy Jensen has a bag containing 90 white bingo tiles (numbered from 1 to 90), plus 1 single blood-red tile. Anyone who asks him for his favors, in order to find out for how many years they will be able to enjoy them, must take part in the following game: they draw the tiles at random one at a time until the red tile comes up. The person playing will enjoy the favors for as many years as the number of white tiles with a prime number that come up before the red tile. Bill “Fire-Spitter” Turing, who is watching from the sidelines, wonders, on average, how many years are won in this way. Jack doesn't quite understand what his π-rat colleague means, but his son Will, who has studied, explains to him that among the many ways of defining the average number of years won (all of which lead to the same result), the most common one is the sum of the numbers k · pk, where, for each natural number k = 0,1,2,..., pk is the probability that the number of years won is k. What is the average number of years won? [As the result, give the product of the numerator and denominator of the fraction reduced to lowest terms]
 
-**Answer:** 0012
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_pubblico#q08|src_gas_2010_pubblico__Q08]]
 
 
 
@@ -315,11 +369,18 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum square side whose area figures are increased by 1*
+*Maximum side of a square whose area digits are increased by 1*
 
-> Territorial dominion [50] Jack and Elizabeth, shipwrecked on the island, each appropriate a square plot of land. The two squares have an integer of meters on each side, but to hear Jack, his is bigger: Aah! The surface of my territory, in m2 has the same numbers as yours, but all increased by 1. Knowing that the side of Jack's land does not reach 300 meters, how much can he measure, at most?
+> Territorial domain
+> [50]
+> Jack and Elizabeth, shipwrecked on the small island, each claim a square plot of land. The sides of the two squares are whole numbers of meters, but according to Jack, his is larger: "Aah! The area of my territory, in square meters, has the same digits as yours, but each digit is increased by 1." Knowing that the side of Jack's plot is less than 300 meters, what is its maximum possible length?
 
-**Answer:** 0156
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2010_pubblico#q09|src_gas_2010_pubblico__Q09]]
 
 
 
@@ -350,11 +411,18 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diameter of sphere with two orthogonal circles tangent to two points*
+*Diameter of a sphere with two orthogonal circles tangent at two points*
 
-> A system of protection [50] Jack is increasingly terrified of Cramer, who feels his presence everywhere and searches relentlessly for his ship. The voodoo lady Tria Geome, using her Geomystic powers, will help him build a talisman that can keep the creature away. He explains that he will have to make a ball of clay on whose surface he will have to draw two mystical circles. These circumferences shall have diameters of 50 and 72 cm, shall lie on orthogonal planes, and shall be touched at two points 40 cm apart. How many millimeters will you have to measure the diameter of the clay sphere?
+> A protection system
+> [50]
+> Jack is increasingly terrified of Cramer; he senses Cramer's presence everywhere and ceaselessly searches for Cramer's ship. The Voodoo Lady Tria Geome, using her Geomistic powers, will help him create a talisman that can keep the creature at bay. She explains to him that he will have to make a clay sphere and draw two mystical circles on its surface. These circles must have diameters of 50 and 72 cm, must lie in mutually perpendicular planes, and must touch at two points 40 cm apart. How many millimeters must the diameter of the clay sphere measure?
 
-**Answer:** 0780
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2010_pubblico#q10|src_gas_2010_pubblico__Q10]]
 
 
 
@@ -387,13 +455,20 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining pirates on land by succession c(n+1)=2c(n)+1*
+*Pirates remaining on land from the recurrence c(n+1)=2c(n)+1*
 
-> 80 years from now [60] Businesses with π-rates in the Caribbean are very popular, and enrollment is increasing. Last year, which was 1725, the only new π-rate had been Will Turing, but since then every year the number of new π-rates increases according to the formula cn+1 = 2cn +1, where cn represents the number of new π-rates in year n. In 1806 all the new π-rates of that year will sail to celebrate at sea, dividing in 1806 by ship, possibly leaving the remaining π-rates ashore. How manyπ-rates will remain on the ground?
-> 
-> Team competition 2010  Public competition  Problem texts 3/3
+> In 80 years
+> [60]
+> Caribbean π-rates' enterprises are very popular, and enrollments are increasing. Last year, which was 1725, the only new π-rate was Will Turing, but since then, each year the number of new π-rates has been increasing according to the formula cn+1 = 2cn +1, where cn represents the number of new π-rates in year n. In 1806, all the new π-rates for that year will set sail to celebrate at sea, dividing up into 1806 per ship, and eventually leaving the remaining π-rates on land. How many π-rates will remain on land?
+>
+> 2010 Team Competition – Public Vote Round – Problem Statements 3/3
 
-**Answer:** 0513
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2010_pubblico#q11|src_gas_2010_pubblico__Q11]]
 
 
 
@@ -424,11 +499,18 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of truths in a rectangle with neighbour statements*
+*Maximum number of truth-tellers in a rectangle with statements about neighbors*
 
-> The Pearl Jam [50] The Pearl Jam is divided into two factions: those loyal to Jack, who always tell the truth, and those loyal to Bourbakossa, who always tell the lie. Everyone stands on the bridge in a rectangle 1726 × 11 and everyone says out loud to each of those next to him: He serves Jack or He serves Bourbakossa indicating him (those at the top will say 2 phrases, those on the sides will say 3 and those inside will say 4). Knowing that every person says exactly once, "He needs Jack", how many people are loyal to Jack at most?
+> The Crew of the Perla
+> [50]
+> The crew of the Perla Vera is divided into two factions: those loyal to Jack, who always tell the truth, and those loyal to Bourbakossa, who always lie. Everyone lines up on the deck in a rectangle measuring 1726 × 11, and each person says aloud, for each of the people next to them, either "He serves Jack" or "He serves Bourbakossa", pointing at them (so those at the corners will say 2 sentences, those on the sides will say 3, and those on the inside will say 4). Given that each person says "He serves Jack" exactly once, what is the maximum number of people loyal to Jack?
 
-**Answer:** 9494
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_pubblico#q12|src_gas_2010_pubblico__Q12]]
 
 
 
@@ -459,11 +541,18 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of winning with Fibonacci rods*
+*Probability of winning with Fibonacci sticks*
 
-> Filibunacci's staffs Will, Elizabeth, Captain Disparrow and Captain Bourbakossa are unable to agree on the route to be followed and decide to entrust the choice to the lot. The young Filibunacci makes 7 sticks 1, 2, 3, 5, 8, 13 and 21 cm long. Captain Disparrow wins if he extracts the shortest stick of all the extracts or if the sum between the length of his stick and Elizabeth's is greater than the sum of the other two extracted sticks. What are the odds of Captain Disparrow winning? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
+> Filibunacci Sticks
+> [80]
+> Will, Elizabeth, Captain Disparrow, and Captain Bourbakossa cannot agree on the route to follow and decide to leave the choice to chance. The cabin boy Filibunacci prepares 7 sticks measuring 1, 2, 3, 5, 8, 13, and 21 cm. Captain Disparrow wins if he draws the shortest stick among all the sticks drawn, or if the sum of the length of his stick and the length of Elizabeth's stick is greater than the sum of the lengths of the other two sticks drawn. What is the probability that Captain Disparrow wins? [As the result, provide the product of the numerator and denominator of the fraction reduced to lowest terms.]
 
-**Answer:** 0006
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_pubblico#q13|src_gas_2010_pubblico__Q13]]
 
 
 
@@ -493,11 +582,18 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of bets won in succession a(n+1)=2a(n)+2n-1*
+*Sum obtained in succession of terms a(n+1)=2a(n)+2n-1*
 
-> Seven years of duels [65] Will Turing never sent down his defeat in a duel with Jack Disparrow, when they met. Every month, for seven years, they meet and fight, both bet the same amount of money, and in the end one of the two wins and takes the whole plate. The first month the bet is a1 = 1726 doubles, then the following months bet a sum of money given by the formula an+1 = 2an +2n−1, for n = 1,2,... . At the end of this great seven-year challenge, Will is the one who has won the most doubles, but Jack is still happy because he lost the least possible. How many doubles has Will won?
+> Seven Years of Duels
+> [65]
+> Will Turing never got over his defeat in the duel with Jack Disparrow when they first met. Every month for 7 years, they meet and duel: both stake the same amount of money, and in the end one of them wins and takes the whole pot. In the first month, the stake is a1 = 1726 doblons; in the following months, they stake an amount given by the formula an+1 = 2an + 2n−1, for n = 1, 2, ... . At the end of this great 7-year challenge, Will turns out to be the one who has won the most doblons, but Jack is still happy because he lost as little as possible. How many doblons did Will win?
 
-**Answer:** 8615
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gas_2010_pubblico#q14|src_gas_2010_pubblico__Q14]]
 
 
 
@@ -528,11 +624,18 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Extractions from 10000 with at least two numbers close to the lot*
+*Draws out of 10,000 with at least two numbers close to the Lotto numbers*
 
-> Ragetti's skepticism [70] Ragetti, the guy with the wooden eye, is very skeptical of the π-race lot. He noted that it happens unusually often that two numbers near are extracted, that is, that they have a difference less than or equal to 2 (e.g. 17 and 19, or 27 and 28, but not 46 and 49). Well aware of the tricks of the filibusta, he thinks this is an indication that the game is rigged. Knowing that in theπ-ratico lot you extract 6 numbers between 1 and 90, would you know how many extractions out of 10,000 we should expect to get at least two nearby numbers (if the game is not rigged)?
+> Ragetti's skepticism
+> [70]
+> Ragetti, the mate with the wooden eye, is very skeptical about the π-ratesco lottery. He has noticed that it happens unusually often for two "adjacent" numbers to be drawn—that is, numbers whose difference is less than or equal to 2 (for example, 17 and 19, or 27 and 28, but not 46 and 49). Being well acquainted with the tricks of piracy, he believes this is an indication that the game is rigged. Knowing that in the π-ratesco lottery six numbers are drawn from 1 to 90, could you say in how many out of 10,000 draws we should expect at least two adjacent numbers to come up (if the game isn't rigged)?
 
-**Answer:** 5173
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2010_pubblico#q15|src_gas_2010_pubblico__Q15]]
 
 
 
@@ -567,8 +670,14 @@ Maximum combined cardinality closed for (m+n)/MCD(m,n)*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region of circumscribed pentagon with given altitude*
+*Area of the region of a circumscribable pentagon with a given altitude*
 
-> The Secret of Monkey IslandTM [80] All π-rats with a few years on their backs have heard of the fabulous treasure hidden in the lost Isla de Mono; legend has it that the treasure is buried at a point on the island where the altitude is at least 4 meters. Tria Geome possesses perhaps the only map of the island, from which it is inferred that: the plant is a circumscribed pentagon (i.e. it admits an inscribed circumference, tangent on all sides); the depth of the sea around the island is √π times the minimum distance from the coast measured on the map, while the altitude of each point on the surface of the island is √π/2 multiplied by the minimum distance of that point from the water, measured on the map; the area roughly on the map from points that are 14 metres deep is 10456 m2 while that from points that are 127 metres deep is 127362 m2. How many square meters on the map is the part of the island where, according to legend, the treasure can be found?
+> The Secret of Monkey IslandTM
+> [80]
+> All π-rats with a few years under their belts have heard of the fabulous treasure hidden on the lost Isla de Mono; legend has it that the treasure is buried at a point on the island where the elevation is at least 4 metres. Tria Geome may possess the only map of the island, from which it can be deduced that: the plan is a circumscribable pentagon (that is, a pentagon that admits an inscribed circle tangent to all its sides); the depth of the sea around the island is √π times the minimum distance from the shore measured on the map, while the elevation of every point on the island's surface is √π/2 multiplied by the minimum distance of that point from the water, measured on the map; the area on the map enclosed by the points at a depth of 14 metres is 10456 m², while the area enclosed by the points at a depth of 24 metres is 12736 m². How many square metres on the map does the part of the island in which, according to legend, the treasure can be found measure?
 
-**Answer:** 6156
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2010_pubblico#q16|src_gas_2010_pubblico__Q16]]

@@ -31,9 +31,19 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi un sistema di due equazioni che coinvolgono valori assoluti*
+*Risolvere il sistema delle due equazioni con valori assoluti*
 
-> Risolvere il sistema di equazioni: $$|x - y| - \frac{|y|}{x} = -1,$$ $$|2x - y| + |x + y - 1| + |x - y| - y + x - 1 = 0.$$
+> Risolvere il sistema di equazioni:
+>
+> $$|x - y| - \frac{|y|}{x} = -1,$$
+>
+> $$|2x - y| + |x + y - 1| + |x - y| - y + x - 1 = 0.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1998_r1#q01|src_pol_1998_r1__Q01]]
 
 
 
@@ -55,9 +65,14 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Orthocenter e circumcenter equidistanti da una vertice; trovare angolo CAB*
+*Ortocentro di un triangolo inscritto in una circonferenza di centro O, con AO = AH: misura dell'angolo in A*
 
-> Che $H$ sia l'ortocentro di un triangolo inciso in un cerchio con centro $O$. Poiché $AO = AH$, trovare la misura di $\angle CAB$.
+> Sia $H$ l'ortocentro di un triangolo inscritto in una circonferenza di centro $O$. Sapendo che $AO = AH$, trovare la misura di $\angle CAB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_1998_r1#q02|src_pol_1998_r1__Q02]]
 
 
 
@@ -82,9 +97,19 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre sequenze definite da ricorrenze; dimostrare che una è limitata*
+*Tre successioni legate da a_{n+1} = a_n(a_n−1) e da potenze di 2: dimostrare che (x_n) è limitata*
 
-> Le sequenze $(a_n)$, $(b_n)$, $(x_n)$ sono indicate da $a_1 = 4$ e per $n \ge 1$, $$a_{n+1} = a_n(a_n - 1), \quad 2^{b_n} = a_n, \quad 2^{x_n - x_{n-1}} = b_n.$$ Provare che la sequenza $(x_n)$ è delimitata.
+> Le successioni $(a_n)$, $(b_n)$, $(x_n)$ sono date da $a_1 = 4$ e, per $n \ge 1$,
+>
+> $$a_{n+1} = a_n(a_n - 1), \quad 2^{b_n} = a_n, \quad 2^{x_n - x_{n-1}} = b_n.$$
+>
+> Dimostrare che la successione $(x_n)$ è limitata.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_1998_r1#q03|src_pol_1998_r1__Q03]]
 
 
 
@@ -108,9 +133,17 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le c reali facendo una disuguaglianza per tutte le x positive, y*
+*Dato un numero positivo a, determinare i reali c tali che la disuguaglianza valga per ogni coppia di numeri positivi x, y*
 
-> Il numero $a$ è positivo. Determinare tutti i numeri reali $c$ con la proprietà che, per qualsiasi numero positivo $x$, $y$, ha la seguente disuguaglianza: $$(c - 1)x^{c+1} \le (cy - x)y^a.$$
+> Sia $a$ un numero positivo. Determinare tutti i numeri reali $c$ tali che, per ogni coppia di numeri positivi $x$, $y$, valga la disuguaglianza seguente:
+>
+> $$(c - 1)x^{c+1} \le (cy - x)y^a.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_1998_r1#q04|src_pol_1998_r1__Q04]]
 
 
 
@@ -133,9 +166,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi un'equazione trigonometrica a seconda di un intero positivo n*
+*Risolvere |tan^2 x − cot^2 x| = 2n|cot 2x|, con n intero positivo dato*
 
-> Risolvere l'equazione $|\tan^2 x - \cot^2 x| = 2n|\cot 2x|$, dove $n$ è un dato numero intero positivo.
+> Risolvere l'equazione $|\tan^2 x - \cot^2 x| = 2n|\cot 2x|$, dove $n$ è un intero positivo dato.
+
+**Topic:** [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_1998_r1#q05|src_pol_1998_r1__Q05]]
 
 
 
@@ -158,9 +197,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con punto medio D e proiezioni P, Q su AD; dimostrare BE=AE+AC se AD=PQ*
+*Triangolo con AB > AC, D punto medio di BC, E su AC: BE = AE + AC se e solo se AD = PQ*
 
-> In un triangolo $ABC$ con $AB > AC$, $D$ è il punto medio di $BC$ e $E$ è un punto arbitrario sul lato $AC$. I punti $P$ e $Q$ sono rispettivamente le proiezioni ortogonali di $B$ e $E$ su $AD$. Indicare che $BE = AE + AC$ se e solo se $AD = PQ$.
+> In un triangolo $ABC$ con $AB > AC$, $D$ è il punto medio di $BC$ e $E$ è un punto arbitrario del lato $AC$. I punti $P$ e $Q$ sono le proiezioni ortogonali di $B$ e di $E$ su $AD$ rispettivamente. Dimostrare che $BE = AE + AC$ se e solo se $AD = PQ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_1998_r1#q06|src_pol_1998_r1__Q06]]
 
 
 
@@ -184,9 +229,17 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzioni di conteggio f: A→A con f(f(k))=f(k) che assumono esattamente i valori m*
+*Funzioni da A in A che assumono esattamente m valori e soddisfano la condizione di idempotenza e monotonia*
 
-> Si devono dare $m, n$ integri positivi e $A = \{1, 2, \ldots, n\}$. Determinare il numero di funzioni $f : A \to A$ che assumono esattamente i valori $m$ in modo tale che $$f(f(k)) = f(k) \le f(l) \quad \text{for all } k, l \in A \text{ with } k \le l.$$
+> Siano dati interi positivi $m, n$ e $A = \{1, 2, \ldots, n\}$. Determinare il numero di funzioni $f : A \to A$ che assumono esattamente $m$ valori e tali che
+>
+> $$f(f(k)) = f(k) \le f(l) \quad \text{for all } k, l \in A \text{ with } k \le l.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_pol_1998_r1#q07|src_pol_1998_r1__Q07]]
 
 
 
@@ -209,9 +262,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di un poliedro convexo con bordi k e di un piano di taglio con bordi r con 3r>2k*
+*Esiste un poliedro convesso con k spigoli tagliato da un piano, che non passa per vertici, in r spigoli con 3r > 2k?*
 
-> Determinare se esiste un poliedro converso con bordi $k$ e un piano che non attraversa alcuna vertice e taglia bordi $r$ in modo tale da $3r > 2k$.
+> Stabilire se esiste un poliedro convesso con esattamente $k$ spigoli e un piano che non passa per alcun vertice e taglia $r$ spigoli in modo che $3r > 2k$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_1998_r1#q08|src_pol_1998_r1__Q08]]
 
 
 
@@ -234,9 +293,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con a_0=0,91 e decimali ripetitivi-9; calcolare un prodotto*
+*Successione che inizia da 0,91 e prosegue con 0,99 seguito da n nove e due zeri: calcolare il limite del prodotto*
 
-> Definire $a_0 = 0.91$ e $a_n = 0.99\underbrace{9\ldots9}_{n}00$ per $k > 0$. Calcolare $\lim a_0 a_1 \cdots a_n$.
+> Si definiscano $a_0 = 0.91$ e $a_n = 0.99\underbrace{9\ldots9}_{n}00$ per $k > 0$. Calcolare $\lim a_0 a_1 \cdots a_n$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_1998_r1#q09|src_pol_1998_r1__Q09]]
 
 
 
@@ -259,9 +324,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mediani di un triangolo pari lati di un altro; dimostrare ABC equilaterale*
+*Se due quadrilateri formati dalle mediane sono ciclici, il triangolo è equilatero*
 
-> I media $AD$, $BE$, $CF$ di un triangolo $ABC$ si incontrano a $G$. Prova che se i quadrilaterali $AFGE$ e $BDGF$ sono ciclici, il triangolo $ABC$ è equilaterale.
+> Le mediane $AD$, $BE$, $CF$ di un triangolo $ABC$ si incontrano in $G$. Dimostrare che, se i quadrilateri $AFGE$ e $BDGF$ sono ciclici, allora il triangolo $ABC$ è equilatero.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_1998_r1#q10|src_pol_1998_r1__Q10]]
 
 
 
@@ -284,9 +355,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Torneo: prova dell'esistenza di un giocatore che si batte direttamente o tramite un intermediario
+*Torneo di tennis senza pareggi: esiste un giocatore che batte ogni altro direttamente o tramite un intermediario*
 
-> In un torneo di tennis $n$ parteciparono giocatori. Qualsiasi due giocatori hanno giocato una partita (senza pareggio). Prove che esiste un giocatore $A$ tale che per qualsiasi altro giocatore $B$, sia $A$ sconfitto $B$ o che vi sia un giocatore $C$ che $A$ ha sconfitto e $B$ perso a $C$.
+> A un torneo di tennis partecipano $n$ giocatori. Due giocatori qualunque disputano una partita (senza pareggi). Dimostrare che esiste un giocatore $A$ tale che, per ogni altro giocatore $B$, o $A$ ha sconfitto $B$, oppure esiste un giocatore $C$ che $A$ ha sconfitto e contro cui $B$ ha perso, cioè contro $C$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_pol_1998_r1#q11|src_pol_1998_r1__Q11]]
 
 
 
@@ -309,6 +386,12 @@ Torneo: prova dell'esistenza di un giocatore che si batte direttamente o tramite
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più grande primo divisore dei valori polinomici; finità dell'insieme risultante*
+*Esiste un polinomio non costante a coefficienti interi tale che i massimi divisori primi dei suoi valori interi siano in numero finito?*
 
-> $g(k)$ indichi il più grande primo divisore di un intero $k$ se $|k| \ge 2$, e $g(0) = g(1) = 1$. Trova se esiste un polinomio non costante $W$ con coefficienti interi in modo che l'insieme $\{g(W(x)) \mid x \in \mathbb{Z}\}$ sia finito.
+> Sia $g(k)$ il massimo divisore primo di un intero $k$ se $|k| \ge 2$, e sia $g(0) = g(1) = 1$. Stabilire se esiste un polinomio non costante $W$ a coefficienti interi tale che l'insieme $\{g(W(x)) \mid x \in \mathbb{Z}\}$ sia finito.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_1998_r1#q12|src_pol_1998_r1__Q12]]

@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le perpendicolari dell'altitudine del piede formano segmento EF uguale per qualsiasi vertice*
+*Le perpendicolari dall'altitudine ai lati formano il segmento EF congruente per qualsiasi vertice*
 
-> L'altitudine da un vertice di un triangolo acuto $ABC$ incontra il lato opposto a $D$. Da $D$ le perpendicolari $DE$ e $DF$ sono tracciate verso gli altri due lati. Prove che la lunghezza di $EF$ è la stessa a seconda del vertice scelto.
+> L'altezza relativa a un vertice di un triangolo acutangolo $ABC$ incontra il lato opposto in $D$. Da $D$ si tracciano le perpendicolari $DE$ e $DF$ agli altri due lati. Dimostrare che la lunghezza di $EF$ è la stessa qualunque vertice si scelga.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2001-02_round2#q01|src_bmo_2001-02_round2__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Regola dei posti a tavola rotonda; trovare tutti i n delegati che evitano la collisione*
+*Regola di sistemazione a tavola rotonda: trova tutti i n delegati che evitano le collisioni*
 
-> Una sala conferenze dispone di un tavolo rotondo con sedie $n$. Ci sono delegati $n$. Il primo delegato sceglie arbitrariamente il suo posto. Successivamente, il delegato $(k+1)$-siede $k$ a sinistra del delegato $k$-th per $1 \le k \le n-1$. Nessuna sedia può essere occupata da più di un delegato. Trova tutti i valori di $n$ per i quali questo è possibile.
+> In una sala conferenze c'è un tavolo rotondo con $n$ sedie. Ci sono $n$ delegati. Il primo delegato sceglie arbitrariamente il proprio posto. Successivamente, il delegato $(k+1)$-esimo si siede a $k$ posti a sinistra del delegato $k$-esimo, per $1 \le k \le n-1$. Nessuna sedia può essere occupata da più di un delegato. Determinare tutti i valori di $n$ per cui ciò è possibile.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2001-02_round2#q02|src_bmo_2001-02_round2__Q02]]
 
 
 
@@ -81,9 +95,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La ricorrenza con radice quadrata incastonata dà solo numeri interi*
+*La ricorrenza con radice quadrata annidata produce solo numeri interi*
 
-> Prove che la sequenza definita da $$b_1 = 1, \quad b_{n+1} = \tfrac{1}{2}\left(3b_n + \sqrt{5b_n^2 - 4}\right), \quad (n \ge 1)$$ è composta solo da numeri interi.
+> Dimostrare che la successione definita da
+> $$b_1 = 1, \quad b_{n+1} = \tfrac{1}{2}\left(3b_n + \sqrt{5b_n^2 - 4}\right), \quad (n \ge 1)$$
+> è composta esclusivamente da numeri interi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2001-02_round2#q03|src_bmo_2001-02_round2__Q03]]
 
 
 
@@ -106,6 +129,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Produzione di lunghezze tangenti da punto a sfera unitaria delimitate da distanze verso i centri*
+*Prodotto delle lunghezze delle tangenti condotte da un punto alle sfere unitarie, delimitate dalle distanze dai centri*
 
-> $B_1, B_2, \ldots, B_n$ sono sfere di raggio unitario disposte nello spazio. Il punto $P$ è un punto e per ogni $i$ ($1 \le i \le n$) la lunghezza della tangente da $P$ alla sfera $B_i$ è indicata da $t_i$. Prova che il prodotto della $t_i$ non è più del prodotto delle distanze $PC_i$, dove $C_i$ è il centro di $B_i$.
+> $B_1, B_2, \ldots, B_n$ sono sfere di raggio unitario disposte nello spazio. Sia $P$ un punto e, per ogni $i$ ($1 \le i \le n$), la lunghezza della tangente condotta da $P$ alla sfera $B_i$ sia indicata con $t_i$. Dimostrare che il prodotto degli $t_i$ non supera il prodotto delle distanze $PC_i$, dove $C_i$ è il centro di $B_i$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2001-02_round2#q04|src_bmo_2001-02_round2__Q04]]

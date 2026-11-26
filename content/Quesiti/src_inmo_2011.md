@@ -29,9 +29,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I punti su lati con lunghezze uguali e angoli uguali implicano un triangolo equilaterale*
+*Punti su lati di uguale lunghezza e con angoli uguali implicano un triangolo equilatero*
 
-> I punti $D$, $E$, $F$ sono i punti sui lati $BC$, $CA$ e $AB$ rispettivamente di un triangolo $ABC$ in modo tale che $BD = CE = AF$ e $\angle BDF = \angle CED = \angle AFE$. Provare che $ABC$ è equilaterale.
+> Siano $D$, $E$, $F$ dei punti rispettivamente sui lati $BC$, $CA$, $AB$ di un triangolo $ABC$ tali che $BD = CE = AF$ e $\angle BDF = \angle CED = \angle AFE$. Dimostrare che $ABC$ è equilatero.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2011#q01|src_inmo_2011__Q01]]
 
 
 
@@ -56,9 +63,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Caricare i numeri naturali espressi come a+b+c con un'espressione*
+*Caratterizza i numeri naturali esprimibili come a+b+c con a|b|c*
 
-> Chiamare un numero naturale $n$ **fiduo** se esistono numeri naturali $a < b < c$ tali che $a$ divida $b$, $b$ divida $c$ e $n = a + b + c$. (i) Mostrare che tutti, tranne un numero finito di numeri naturali, sono fedeli. (ii) Trova l'insieme di tutti i numeri naturali che sono fedeli ** non **.
+> Si dice **fedele** un numero naturale $n$ se esistono numeri naturali $a < b < c$ tali che $a$ divide $b$, $b$ divide $c$ e $n = a + b + c$. (i) Mostrare che tutti i numeri naturali tranne un numero finito sono fedeli. (ii) Determinare l'insieme di tutti i numeri naturali che **non** sono fedeli.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2011#q02|src_inmo_2011__Q02]]
 
 
 
@@ -81,9 +95,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La radice razionale di P(r)=Q(r)=0 con polinomi a coefficiente intero deve essere un intero*
+*Una radice razionale di P(r)=Q(r)=0, con polinomi a coefficienti interi, deve essere un numero intero*
 
-> Considerate due polinomi $P(x) = a_n x^n + a_{n-1} x^{n-1} + \cdots + a_1 x + a_0$ e $Q(x) = b_n x^n + b_{n-1} x^{n-1} + \cdots + b_1 x + b_0$ con coefficienti interi come $a_n - b_n = b_0 - a_0 \neq 0$ e $a_0 b_0 - a_n b_n \neq 0$. Supponiamo che esista un numero razionale $r$ tale che $P(r) = Q(r) = 0$. Provare che $r$ non è un numero intero.
+> Si considerino due polinomi $P(x) = a_n x^n + a_{n-1} x^{n-1} + \cdots + a_1 x + a_0$ e $Q(x) = b_n x^n + b_{n-1} x^{n-1} + \cdots + b_1 x + b_0$ a coefficienti interi tali che $a_n - b_n = b_0 - a_0 \neq 0$ e $a_0 b_0 - a_n b_n \neq 0$. Si supponga che esista un numero razionale $r$ tale che $P(r) = Q(r) = 0$. Si dimostri che $r$ non è un numero intero.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2011#q03|src_inmo_2011__Q03]]
 
 
 
@@ -108,11 +129,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro vertici scelti tra i nove goni regolari contengono quattro che formano un trapezio*
+*Cinque vertici scelti da un ennagono regolare ne comprendono quattro che formano un trapezio*
 
-> Supponiamo che cinque dei nove vertici di un poligono regolare a nove lati siano scelti arbitrariamente. Mostrate che si possono scegliere quattro tra questi cinque in modo tale che siano i vertici di un trapezio.
+> Siano scelti arbitrariamente cinque dei nove vertici di un ennagono regolare. Dimostrare che è possibile scegliere quattro di questi cinque vertici in modo che essi siano i vertici di un trapezio.
 
 ![[src_inmo_2011__q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_inmo_2011#q04|src_inmo_2011__Q04]]
 
 
 
@@ -135,9 +163,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero ciclico con AC·BD=EG·FH implica quattro linee simultanee*
+*Un quadrilatero ciclico con AC·BD=EG·FH implica la concorrenza di quattro rette*
 
-> $ABCD$ sia un quadrilaterale inciso in un cerchio $\Gamma$. I punti intermedi $E$, $F$, $G$ e $H$ siano rispettivamente i punti intermedi $AB$, $BC$, $CD$ e $DA$ degli archi $\Gamma$. Supponiamo $AC \cdot BD = EG \cdot FH$. Prove che $AC$, $BD$, $EG$, $FH$ sono simultanei.
+> Sia $ABCD$ un quadrilatero inscritto in una circonferenza $\Gamma$. Siano $E$, $F$, $G$, $H$ i punti medi degli archi $AB$, $BC$, $CD$, $DA$ di $\Gamma$ rispettivamente. Si supponga $AC \cdot BD = EG \cdot FH$. Dimostrare che $AC$, $BD$, $EG$, $FH$ sono concorrenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2011#q05|src_inmo_2011__Q05]]
 
 
 
@@ -162,6 +197,15 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le f:R→R che soddisfano una determinata equazione funzionale*
+*Trovare tutte le funzioni f:R→R che soddisfano una data equazione funzionale*
 
-> Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$, dove $\mathbb{R}$ indica l'insieme di tutti i numeri reali, in modo tale che $$f(x+y)f(x-y) = (f(x)+f(y))^2 - 4x^2 f(y)$$ per tutti $x, y \in \mathbb{R}$.
+> Trovare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$, dove $\mathbb{R}$ denota l'insieme di tutti i numeri reali, tali che
+> $$f(x+y)f(x-y) = (f(x)+f(y))^2 - 4x^2 f(y)$$
+> per tutti gli $x, y \in \mathbb{R}$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2011#q06|src_inmo_2011__Q06]]

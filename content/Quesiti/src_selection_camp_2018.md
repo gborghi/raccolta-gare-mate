@@ -29,9 +29,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono converso con lati e angoli uguali, perpendicolare da E a BC, che incontra AC e BD in un punto*
+*Pentagono convesso con lati e angoli uguali; la perpendicolare condotta da E a BC incontra AC e BD in un unico punto*
 
-> Il $ABCDE$ deve essere un pentagono convexo che soddisfa $AB = BC = CD$, $\angle EAB = \angle BCD$ e $\angle EDC = \angle CBA$. Provare che la perpendicolare è scesa da $E$ alla linea $BC$, e che le linee $AC$ e $BD$ si incontrano tutti in un unico punto.
+> Sia $ABCDE$ un pentagono convesso che soddisfa $AB = BC = CD$, $\angle EAB = \angle BCD$ e $\angle EDC = \angle CBA$. Dimostrare che la perpendicolare abbassata da $E$ sulla retta $BC$, e le rette $AC$ e $BD$, concorrono tutte in un unico punto.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2018#q01|src_selection_camp_2018__Q01]]
 
 
 
@@ -57,9 +64,19 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Self-map su {1,...,n}: unica g soddisfacente f(g(f(m)))=g(f(g(m))) implica che f e ff hanno la stessa immagine*
+*Automappa su {1,...,n}: l'unico g tale che f(g(f(m)))=g(f(g(m))) implica che f e f∘f abbiano la stessa immagine*
 
-> $n$ sia un numero intero positivo. Let $S = \{1, 2, \ldots, n\}$, e let $\mathcal{A}$ essere l'insieme di tutte le funzioni da $S$ a $S$. Let $f$ essere una funzione in $\mathcal{A}$. Supponiamo che l'unica funzione $g \in \mathcal{A}$ che soddisfa $$f(g(f(m))) = g(f(g(m))), \quad m = 1, 2, \ldots, n$$ sia la stessa $g = f$. Provare che $$\{f(m) \mid m = 1, 2, \ldots, n\} = \{f(f(m)) \mid m = 1, 2, \ldots, n\}.$$
+> Sia $n$ un numero intero positivo. Sia $S = \{1, 2, \ldots, n\}$, e sia $\mathcal{A}$ l'insieme di tutte le funzioni da $S$ a $S$. Sia $f$ una funzione appartenente a $\mathcal{A}$. Supponiamo che l'unica funzione $g \in \mathcal{A}$ che soddisfa
+> $$f(g(f(m))) = g(f(g(m))), \quad m = 1, 2, \ldots, n$$
+> è $g = f$ stesso. Dimostrare che
+> $$\{f(m) \mid m = 1, 2, \ldots, n\} = \{f(f(m)) \mid m = 1, 2, \ldots, n\}.$$
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2018#q02|src_selection_camp_2018__Q02]]
 
 
 
@@ -84,9 +101,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie prime (p,q) con p>q in modo tale che un'espressione data sia un intero*
+*Trovare tutte le coppie di numeri primi (p,q) con p>q tali che una data espressione sia un numero intero*
 
-> Trova tutte le coppie di prime $(p, q)$ con $p > q$ in modo tale che $$\frac{(p+q)^{p+q}(p-q)^{p-q} - 1}{(p+q)^{p-q}(p-q)^{p+q} - 1}$$ sia un numero intero.
+> Trovare tutte le coppie di numeri primi $(p, q)$ con $p > q$ tali che
+> $$\frac{(p+q)^{p+q}(p-q)^{p-q} - 1}{(p+q)^{p-q}(p-q)^{p+q} - 1}$$
+> è un numero intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2018#q03|src_selection_camp_2018__Q03]]
 
 
 
@@ -109,9 +135,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero minimo di separazione totale su tutte le linee attraverso n punti in posizione generale*
+*Numero minimo di separazioni totali su tutte le rette passanti per n punti in posizione generale*
 
-> $n \ge 3$ sia un numero intero. Considera un insieme $S$ di punti $n$ nel piano in modo tale che nessun punto sia collineare. $L$ è l'insieme di tutte le linee che attraversano due punti distinti di $S$. Per una linea $\ell \in L$, definire il suo numero di separazione come il prodotto del numero di punti di $S$ in ciascuno dei due semipiani aperti determinati da $\ell$. Trova il valore minimo possibile della somma dei numeri di separazione su tutte le linee in $L$.
+> Sia $n \ge 3$ un numero intero. Si consideri un insieme $S$ di $n$ punti nel piano tali che nessun terno di punti sia allineato. Sia $L$ l'insieme di tutte le rette che passano per due punti distinti di $S$. Per una retta $\ell \in L$, si definisca il suo numero di separazione come il prodotto del numero di punti di $S$ presenti in ciascuno dei due semicerchi aperti determinati da $\ell$. Si determini il valore minimo possibile della somma dei numeri di separazione estesa a tutte le rette in $L$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_selection_camp_2018#q04|src_selection_camp_2018__Q04]]
 
 
 
@@ -139,9 +172,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solo finitamente molti sottoinsiemi S di {1,...,n} con S ≥ √n+1 e tutti i prodotti xy sono potenze perfette*
+*Esistono solo un numero finito di sottoinsiemi S di {1,...,n} tali che |S|≥√n+1 e tutti i prodotti xy siano potenze perfette*
 
-> Prove che ci sono solo finitamente molti interi positivi $n$ per i quali esiste un sottoinsieme $S \subseteq \{1, 2, \ldots, n\}$ che soddisfa le seguenti due condizioni: \begin{itemize} \item Il numero di elementi di $S$ è almeno $[\sqrt{n}] + 1$. \item Per due elementi $x, y \in S$, il prodotto $xy$ è una potenza perfetta, cioè un intero che può essere espresso come $a^b$ per un intero positivo $a$ e un intero $b \ge 2$. \end{itemize} Qui, per un numero reale $r$, $[r]$ indica il numero intero più grande non superiore a $r$.
+> Dimostrare che esistono solo un numero finito di interi positivi $n$ per i quali esiste un sottoinsieme $S \subseteq \{1, 2, \ldots, n\}$ che soddisfa le seguenti due condizioni:
+> \begin{itemize}
+> \item Il numero di elementi di $S$ è almeno $[\sqrt{n}] + 1$. \item Per qualsiasi coppia di elementi $x, y \in S$, il prodotto $xy$ è una potenza perfetta, cioè un intero che può essere espresso come $a^b$ per un certo intero positivo $a$ e un intero $b \ge 2$.
+> \end{itemize}
+> Qui, per un numero reale $r$, $[r]$ denota il più grande intero non superiore a $r$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2018#q05|src_selection_camp_2018__Q05]]
 
 
 
@@ -166,9 +210,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di numeri interi con parametri interi positivi: uno di a_{2017}, a_{2018} è almeno 2017*
+*Successione di interi con parametri interi positivi: uno tra a_{2017} e a_{2018} è almeno 2017*
 
-> Che $a_0, a_1, a_2, \ldots$ sia una sequenza di enti interi e $b_0, b_1, b_2, \ldots$ sia una sequenza di enti interi positivi. Supponiamo $a_0 = 0$, $a_1 = 1$, e per $n = 1, 2, \ldots$, $$a_{n+1} = \begin{cases} a_n b_n + a_{n-1} & \text{if } b_{n-1} = 1, \\ a_n b_n - a_{n-1} & \text{if } b_{n-1} > 1. \end{cases}$$ Prove che almeno uno dei $a_{2017}$ e $a_{2018}$ sia maggiore o uguale a $2017$.
+> Sia $a_0, a_1, a_2, \ldots$ una successione di interi e $b_0, b_1, b_2, \ldots$ una successione di interi positivi. Si supponga $a_0 = 0$, $a_1 = 1$, e per $n = 1, 2, \ldots$,
+> $$a_{n+1} = \begin{cases} a_n b_n + a_{n-1} & \text{if } b_{n-1} = 1, \\ a_n b_n - a_{n-1} & \text{if } b_{n-1} > 1. \end{cases}$$
+> Dimostrare che almeno uno tra $a_{2017}$ e $a_{2018}$ è maggiore o uguale a $2017$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2018#q06|src_selection_camp_2018__Q06]]
 
 
 
@@ -195,13 +248,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco a due giocatori su {0,...,p-1} costruendo un numero base-10: il primo giocatore ha la strategia vincente mod p*
+*Gioco a due giocatori su {0,...,p-1} per costruire un numero in base 10: il primo giocatore ha una strategia vincente modulo p*
 
-> Lasciate che $p$ sia un primo. Due giocatori eseguono alternativamente la seguente azione:
-> 
-> Azione: scegli un numero $i$ da $\{0, 1, \ldots, p-1\}$ che non è stato scelto prima, quindi scegli un numero intero tra $0$ e $9$ (inclusivo) per assegnare a $i$.
-> 
-> Il gioco termina quando tutti gli elementi di $\{0, 1, \ldots, p-1\}$ sono stati scelti. $a_i$ sia il numero intero assegnato a $i$ e imposta $M = a_0 + a_1 \cdot 10 + \cdots + a_{p-1} \cdot 10^{p-1}$. Se $M$ è divisibile per $p$, vince il primo giocatore; altrimenti vince il secondo giocatore. Prove che il primo giocatore ha una strategia vincente.
+> Sia $p$ un numero primo. Due giocatori eseguono a turno la seguente azione:
+>
+> Azione: scegli un numero $i$ tra $\{0, 1, \ldots, p-1\}$ che non sia stato scelto in precedenza, poi scegli un numero intero compreso tra $0$ e $9$ (inclusi) da assegnare a $i$.
+>
+> Il gioco termina quando sono stati scelti tutti gli elementi di $\{0, 1, \ldots, p-1\}$. Sia $a_i$ l'intero assegnato a $i$, e si ponga $M = a_0 + a_1 \cdot 10 + \cdots + a_{p-1} \cdot 10^{p-1}$. Se $M$ è divisibile per $p$, vince il primo giocatore; altrimenti vince il secondo giocatore. Dimostrare che il primo giocatore ha una strategia vincente.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2018#q07|src_selection_camp_2018__Q07]]
 
 
 
@@ -224,9 +284,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero converso con incircolo; gli incentri di due triangoli e il punto tangente esterno comune sono conciclici con I*
+*Quadrilatero convesso con cerchio inscritto; i centri degli incentri dei due triangoli e il punto di tangenza della tangente esterna comune sono concyclici con I*
 
-> $ABCD$ sia un quadrilaterale convex che abbia un cerchio inciso con il centro $I$. I centri di incendio dei triangoli $I_a$ e $I_c$ siano rispettivamente $DAB$ e $BCD$. Supponiamo che la tangente esterna comune (diversi dai lati del quadrilaterale) dei circoncircoli dei triangoli $BI_aI_c$ e $DI_aI_c$ si incontrino a un punto $X$. Prova che i quattro punti $X$, $I$, $I_a$, $I_c$ sono conciclici.
+> Sia $ABCD$ un quadrilatero convesso dotato di cerchio inscritto avente centro $I$. Siano $I_a$ e $I_c$ gli incentri dei triangoli $DAB$ e $BCD$, rispettivamente. Si supponga che la tangente esterna comune (diversa dai lati del quadrilatero) delle circonferenze circoscritte ai triangoli $BI_aI_c$ e $DI_aI_c$ incontri le circonferenze in un punto $X$. Dimostrare che i quattro punti $X$, $I$, $I_a$, $I_c$ sono concyclici.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2018#q08|src_selection_camp_2018__Q08]]
 
 
 
@@ -252,9 +319,19 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'operazione ∗ su gruppi finiti di integri positivi; A∗B=B∗A implica l'associazione stellare iterata*
+*Operazione * sugli insiemi finiti di numeri interi positivi; A*B=B*A implica l'associatività della stella iterata*
 
-> Per i set finiti $X$ e $Y$ di enti interi positivi, $f_X(k)$ indica il $k$-minimo intero positivo non in $X$. Definire $$X * Y = X \cup \{f_X(y) \mid y \in Y\}.$$ Lasciate che $a, b$ siano numeri interi positivi. Che $A$ sia un insieme di enti interi positivi $a$ e $B$ sia un insieme di enti interi positivi $b$. Supponiamo $A * B = B * A$. Provare che $$\underbrace{A * (A * \cdots * (A * (A * A)) \cdots)}_{A \text{ appears } b \text{ times}} = \underbrace{B * (B * \cdots * (B * (B * B)) \cdots)}_{B \text{ appears } a \text{ times}}.$$
+> Per insiemi finiti $X$ e $Y$ di interi positivi, si indichi con $f_X(k)$ il $k$-esimo intero positivo più piccolo non appartenente a $X$. Si definisca
+> $$X * Y = X \cup \{f_X(y) \mid y \in Y\}.$$
+> Siano $a, b$ numeri interi positivi. Sia $A$ un insieme di $a$ numeri interi positivi e sia $B$ un insieme di $b$ numeri interi positivi. Si supponga $A * B = B * A$. Dimostrare che
+> $$\underbrace{A * (A * \cdots * (A * (A * A)) \cdots)}_{A \text{ appears } b \text{ times}} = \underbrace{B * (B * \cdots * (B * (B * B)) \cdots)}_{B \text{ appears } a \text{ times}}.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_bigezione|Biiezione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2018#q09|src_selection_camp_2018__Q09]]
 
 
 
@@ -281,9 +358,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le condizioni di un numero intero positivo su a_i implicano polinomi M(x+1)^k - il prodotto non ha radici reali positive*
+*Le condizioni relative a a_i consistenti in interi positivi implicano che il polinomio M(x+1)^k meno il prodotto non abbia radici reali positive*
 
-> Lasciate che $a_1, a_2, \ldots, a_n, k, M$ siano integri positivi che soddisfino $$\frac{1}{a_1} + \frac{1}{a_2} + \cdots + \frac{1}{a_n} = k, \quad a_1 a_2 \cdots a_n = M.$$ Supponiamo $M > 1$. Prove che l'equazione $x$ $$M(x+1)^k - (x + a_1)(x + a_2) \cdots (x + a_n) = 0$$ non ha soluzioni reali positive.
+> Sia $a_1, a_2, \ldots, a_n, k, M$ un insieme di numeri interi positivi che soddisfano
+> $$\frac{1}{a_1} + \frac{1}{a_2} + \cdots + \frac{1}{a_n} = k, \quad a_1 a_2 \cdots a_n = M.$$
+> Sia $M > 1$. Dimostrare che l'equazione in $x$
+> $$M(x+1)^k - (x + a_1)(x + a_2) \cdots (x + a_n) = 0$$
+> Non ha soluzioni reali positive.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2018#q10|src_selection_camp_2018__Q10]]
 
 
 
@@ -306,9 +394,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n×n×n cubo colorato con cubetti unitari: massimizzare i colori in modo che ogni lastra n×n×1 abbia lo stesso color multiset*
+*Cubo n×n×n colorato con cubi unitari: massimizzare i colori in modo che ogni strato n×n×1 abbia lo stesso multiset di colori*
 
-> $n \ge 2$ sia un numero intero. Considerate un grande cubo $n \times n \times n$ composto da cubi unitari $n^3$, ognuno dipinto in un colore. Per ciascuna delle lastre $3n$ di dimensioni $n \times n \times 1$ (in uno dei tre orientamenti), si deve considerare l'insieme dei colori presenti in tale lastra (conteggiando ogni colore solo una volta). Quando questi set $3n$ sono divisi in tre gruppi in base all'orientamento, si scopre che ogni set in un gruppo appare anche in ciascuno degli altri due gruppi. Trova il massimo numero possibile di colori che possono apparire nel grande cubo.
+> Sia $n \ge 2$ un numero intero. Si consideri un cubo grande $n \times n \times n$ composto da $n^3$ cubi unitari, ciascuno dipinto di un colore. Per ciascuna delle $3n$ lastre di dimensioni $n \times n \times 1$ (in una qualsiasi delle tre orientazioni), si consideri l'insieme dei colori presenti in quella lastra (contando ciascun colore una sola volta). Quando questi $3n$ insiemi vengono suddivisi in tre gruppi in base all'orientamento, risulta che ogni insieme di un gruppo compare anche in ciascuno degli altri due gruppi. Determinare il numero massimo possibile di colori che possono comparire nel cubo grande.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2018#q11|src_selection_camp_2018__Q11]]
 
 
 
@@ -331,6 +426,13 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esagono converso con AB=BC; riflessi di A,B,C attraverso la linea l; circoncircoli si incontrano a E; BB1 e DE si incontrano su circoncircolo*
+*Esagono convesso con AB=BC; riflessi di A, B, C rispetto alla retta l; le circonferenze circoscritte si intersecano in E; BB1 e DE si incontrano sulla circonferenza circoscritta*
 
-> Che $ABCC_1B_1A_1$ sia un esagono convexo che soddisfi $AB = BC$. $A_1$, $B_1$, $C_1$ siano rispettivamente i riflessi di $A$, $B$, $C$ su una linea $\ell$. Il $D$ è l'intersezione dei segmenti $AC_1$ e $A_1C$, e il $\omega$ è il circoncircolo del triangolo $ABC$. Supponiamo che $\omega$ e il circoncircolo del triangolo $A_1BC_1$ si incontrino in un punto $E$ diverso da $B$. Provare che la riga $BB_1$ e la riga $DE$ si incontrano su $\omega$.
+> Sia $ABCC_1B_1A_1$ un esagono convesso che soddisfa $AB = BC$. Siano $A_1$, $B_1$, $C_1$ le riflessioni di $A$, $B$, $C$ rispettivamente rispetto a una retta $\ell$. Sia $D$ l'intersezione dei segmenti $AC_1$ e $A_1C$, e sia $\omega$ la circonferenza circoscritta al triangolo $ABC$. Si supponga che $\omega$ e la circonferenza circoscritta al triangolo $A_1BC_1$ si intersechino in un punto $E$ diverso da $B$. Dimostrare che la retta $BB_1$ e la retta $DE$ si incontrano su $\omega$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2018#q12|src_selection_camp_2018__Q12]]

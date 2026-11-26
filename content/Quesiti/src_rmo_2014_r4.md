@@ -29,9 +29,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo di trapezio isosceles: CE è uguale alla media geometrica di AB e CD*
+*Cerchio inscritto nel trapezio isoscele: CE è uguale alla media geometrica di AB e CD*
 
-> Che $ABCD$ sia un trapezio di parice con un incircolo; che $AB$ e $CD$ siano i lati paralleli e che $CE$ sia la perpendicolare da $C$ a $AB$. Provare che $CE$ è uguale alla media geometrica di $AB$ e $CD$.
+> Sia $ABCD$ un trapezio isoscele dotato di cerchio inscritto; siano $AB$ e $CD$ i lati paralleli, e sia $CE$ la perpendicolare condotta da $C$ su $AB$. Dimostrare che $CE$ è uguale alla media geometrica di $AB$ e $CD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2014_r4#q01|src_rmo_2014_r4__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza $4x^4+4y^3+5x^2+y+1\ge 12xy$ per i valori positivi*
+*Dimostra la disuguaglianza $4x^4+4y^3+5x^2+y+1\ge 12xy$ per numeri reali positivi*
 
-> Se $x$ e $y$ sono numeri reali positivi, dimostrare che $$4x^4 + 4y^3 + 5x^2 + y + 1 \ge 12xy.$$
+> Se $x$ e $y$ sono numeri reali positivi, dimostrare che
+> $$4x^4 + 4y^3 + 5x^2 + y + 1 \ge 12xy.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2014_r4#q02|src_rmo_2014_r4__Q02]]
 
 
 
@@ -81,9 +96,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie m>n di integri positivi con catena gcd uguale a gcd(m,2m-n)*
+*Trovare tutte le coppie m>n di interi positivi tali che la catena del mcd sia uguale a mcd(m,2m-n)*
 
-> Determinare tutte le coppie $m > n$ di integri positivi tali che $$1 = \gcd(n+1,\, m+1) = \gcd(n+2,\, m+2) = \cdots = \gcd(m,\, 2m-n).$$
+> Determinare tutte le coppie $m > n$ di interi positivi tali che
+> $$1 = \gcd(n+1,\, m+1) = \gcd(n+2,\, m+2) = \cdots = \gcd(m,\, 2m-n).$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2014_r4#q03|src_rmo_2014_r4__Q03]]
 
 
 
@@ -108,11 +131,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area minima di un triangolo rettangolare con raggio di inraggio 1*
+*Area minima di un triangolo rettangolo con raggio inradiato pari a 1*
 
-> Qual è la superficie minima di un triangolo rettangolo il cui raggio di inraggio è $1$ unità?
+> Qual è l'area minima di un triangolo rettangolo il cui raggio incircoscritto è $1$ unità?
 
 ![[src_rmo_2014_r4__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2014_r4#q04|src_rmo_2014_r4__Q04]]
 
 
 
@@ -136,11 +166,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Incircoli e conciclicità: dimostrare B,E,I,F conciclici in triangolo acuto*
+*Cerchi inscritti e conciclicità: dimostrare che B, E, I, F sono conciclici in un triangolo acuto*
 
-> Che il $ABC$ sia un triangolo acuto e che il $I$ sia il suo centro. Lascia che l'incircolo del triangolo $ABC$ tocchi $BC$ in $D$. L'incircolo del triangolo $ABD$ tocca $AB$ in $E$; il circolo del triangolo $ACD$ tocca $AC$ in $F$. Provare che $B, E, I, F$ sono conciclici.
+> Sia $ABC$ un triangolo acutangolo e sia $I$ il suo incentro. Sia $D$ il punto di tangenza tra l'incirconferenza del triangolo $ABC$ e $BC$. L'incirconferenza del triangolo $ABD$ tocca $AB$ in $E$; l'incirconferenza del triangolo $ACD$ tocca $AC$ in $F$. Dimostrare che $B, E, I, F$ sono conciclici.
 
 ![[src_rmo_2014_r4__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2014_r4#q05|src_rmo_2014_r4__Q05]]
 
 
 
@@ -165,8 +201,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizionare i numeri da 1 a 18 sui segmenti in modo che ogni vertice abbia la somma divisibile per 3*
+*Colloca i numeri da 1 a 18 sui segmenti in modo che la somma in ciascun vertice sia divisibile per 3*
 
-> Nella figura adiacente, è possibile posizionare i numeri $1, 2, 3, 4, \cdots, 18$, uno su ogni segmento di linea, in modo che la somma dei numeri sui tre segmenti di linea che si incontrano a ciascun punto sia divisibile da $3$?
+> Nella figura adiacente, è possibile collocare i numeri $1, 2, 3, 4, \cdots, 18$, uno su ciascun segmento di retta, in modo che la somma dei numeri sui tre segmenti di retta che si incontrano in ciascun punto sia divisibile per $3$?
 
 ![[src_rmo_2014_r4__q06.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2014_r4#q06|src_rmo_2014_r4__Q06]]

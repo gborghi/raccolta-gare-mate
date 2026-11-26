@@ -43,7 +43,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number in the grey column*
+*Number in the gray column*
 
 ![[src_cesenatico_2006_squadre_finale__prob1.png]]
 
@@ -61,7 +61,11 @@ level: squadre
 
 > How many different ways do our heroes have to color the prism?
 
-**Answer:** 0793
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q01|src_cesenatico_2006_squadre_finale__Q01]]
 
 
 
@@ -88,11 +92,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of allied/enemy relations between five households*
+*Modes of allied/hostile relations among five houses*
 
-> Before she begins to color, the conscientious Hermit realizes that the yellow is almost gone, and the three are then forced to use it for one of the square faces. How many different ways are there left to color the prism? Write the answer (1) in the first two digits and the answer (2) in the last two.
+> Before starting to color, the conscientious Hermita notices that the yellow is almost gone, so the three of them are forced to use it for one of the square faces. How many different ways remain to color the prism? Write answer (1) in the first two digits and answer (2) in the last two.
 
-**Answer:** 0052
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q02|src_cesenatico_2006_squadre_finale__Q02]]
 
 
 
@@ -121,9 +130,13 @@ level: squadre
 
 ![[src_cesenatico_2006_squadre_finale__prob3.png]]
 
-> 3. A number whose sum of digits is 9. Verticals: 3
+> 3. A number whose digit sum is 9. Verticals: 3
 
-**Answer:** 0015
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q03|src_cesenatico_2006_squadre_finale__Q03]]
 
 
 
@@ -147,11 +160,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Coefficient of x^2006 in product of polynomials
+*Coefficient of x^2006 in the product of polynomials*
 
-> 4. Sneaky seducer Ron has discovered the other half of the sky, the girls! His passion is the most beautiful of the school of mathematicians. The number of Chiara's chamber `e is equal to the coefficient of the term x2006 of the polynomial (1 + x) 2(1 + x2) 1 + x4) 1 + x8) 3(1 + x16) 1 + x32) 4(1 + x64) 1 + x128) 1 + x256) 1 + x512) 1 + x1024. Which room in Righecompasso's house is Ron supposed to go into? Team competition 2006  National final  Problem texts  Pag. 1 of 4 Pag. 2 out of 4  Team competition 2006  National final  Problem texts
+> 4. Ron, a slapdash seducer, has discovered the other half of the sky—girls! His passion is the most beautiful girl at the School of Magi: Chiara, from the Righecompasso House. Chiara's room number is equal to the coefficient of the x2006 term in the polynomial (1 + x)2(1 + x2)(1 + x4)(1 + x8)3(1 + x16)(1 + x32)4(1 + x64)(1 + x128)(1 + x256)(1 + x512)(1 + x1024). Which room in the Righecompasso House should Ron enter? Team Competition 2006 – National Final – Problem Statements – Page 1 of 4 Page 2 of 4 – Team Competition 2006 – National Final – Problem Statements
 
-**Answer:** 0064
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q04|src_cesenatico_2006_squadre_finale__Q04]]
 
 
 
@@ -175,11 +193,16 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum useful combinations of 36 ingredients (condition)*
+*Minimum number of useful combinations from 36 ingredients (condition)*
 
-> 5. During the potion lesson, Hardy and his friend Ron Perelman have to choose two of the 36 ingredients available and mix them in hopes of getting a potion with some properties. Their friend Hermita told him that if the first two ingredients don't work, he should try two more (changing them both): it can happen that even then he gets nothing, but then  assures him  by mixing an ingredient from each pair (in any way) you will necessarily get a useful potion. How many combinations of at least two ingredients make a potion useful?
+> 5. At Every Potions Lesson During the potions lesson, Hardy and his friend Ron Perelman must choose two ingredients from the 36 available and mix them in the hope of obtaining a potion with some property. Their friend Hermita told them that if the first two ingredients have no effect, it is worth trying again with two other ones (replacing both): it may happen that even in this case they get nothing, but then—she assures them—by mixing one ingredient from each pair (in any way), they will definitely end up with a useful potion. What is the minimum number of combinations of two ingredients that yield a useful potion?
 
-**Answer:** 0594
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q05|src_cesenatico_2006_squadre_finale__Q05]]
 
 
 
@@ -203,11 +226,16 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Deposition of dice that minimizes the spread of magic numbers*
+*Die arrangement that minimizes the spread of magic numbers*
 
-> 6. Fracto Malpoysto is a fraudulent expeditionary who hates to lose! He then decides to make up a common dice with a spell, which is based on the eight magic numbers of the dice. These are obtained, starting from each of the vertices, by adding up the numbers written on the three faces that compete. Witchcraft consists of placing the numbers 1 to 6 on the sides of the dice so that the difference between the maximum and minimum magic number is as small as possible. Find the layout, and you're going to put in each of the four digits, orderly from left to right, the number that's opposite to 1, the number that's opposite to 2, then 3 and finally 4.
+> 6. A Tricky Trick Fracto Malpoysto hates losing! He therefore decides to rig an ordinary die with a spell based on the die's eight magic numbers. These are obtained, starting from each vertex, by adding the numbers written on the three faces that meet at that vertex. The spell consists of arranging the numbers from 1 to 6 carefully on the faces of the die so that the difference between the largest magic number and the smallest magic number is as small as possible. Find the arrangement by indicating, in each of the 4 digits, in order from left to right, the number opposite 1, the number opposite 2, then the number opposite 3, and finally the number opposite 4.
 
-**Answer:** 2143
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q06|src_cesenatico_2006_squadre_finale__Q06]]
 
 
 
@@ -231,11 +259,16 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of f^(((11) by iterating square sum of digits*
+*Value of f^(2006)(11) by iterating the sum of digits squared*
 
-> 7. Magical power As even learned mathematicians know, the power of a spell is reinforced by repeating its formula. Calculating power, however, is not easy. Either f (n) the square of the sum of the digits of n. It is then $f^{(2)}$(n) = f(f(n)), $f^{(3)}$(n) = f(f(n))) and so on. Find $f^{(2006)}$(11).
+> 7. Magical Power As even apprentice magi-mathematicians know well, the power of a spell increases when its formula is repeated several times. However, calculating the power is not simple. Let f(n) be the square of the sum of the digits of n. Let then $f^{(2)}$(n) = f(f(n)), $f^{(3)}$(n) = f(f(f(n))), and so on. Find $f^{(2006)}$(11).
 
-**Answer:** 0169
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q07|src_cesenatico_2006_squadre_finale__Q07]]
 
 
 
@@ -259,11 +292,16 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little multiple of 73 with square >=63 divisors*
+*Smallest multiple of 73 with square >=63 divisors*
 
-> 8. The ghost guarding the entrance to the house of Rapporteur, to which Hardy, Hermita and Ron belong, allows entry only to those who can solve easy mathematical questions. The ghost asks which is the smallest integer multiple of 73 such that its square has at least 63 divisors. What's the keyword?
+> 8. The Password  The ghost that stands guard at the entrance to the house of Rapportaureo, to which Hardy, Hermita, and Ron belong, admits only those who can solve easy problems of a mathematical nature. The ghost asks what is the smallest integer multiple of 73 such that its square has at least 63 divisors. What is the password?
 
-**Answer:** 1752
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q08|src_cesenatico_2006_squadre_finale__Q08]]
 
 
 
@@ -287,11 +325,16 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of colouring square base prism with 6 colours*
+*Ways to color a square-based prism with 6 colors*
 
-> 9. In the lesson of geomatics, Hardy, Hermita and Ron have a group task: they have 6 different colours available and want to paint a prism on a square base (which has a height greater than the base frame) so that each colour is used for one and only one face.
+> 9. In the Geomantic Artifacts Lesson In the Geomantic Artifacts Lesson, Hardy, Hermita, and Ron must complete a group task: they have 6 different colors available and want to paint a square-based prism (whose height is greater than the length of a base edge) in such a way that each color is used on exactly one face.
 
-**Answer:** 9030
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q09|src_cesenatico_2006_squadre_finale__Q09]]
 
 
 
@@ -318,11 +361,16 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Six circles on a hexagon (coefficient of adhesion) perimeter di pi)*
+*Perimeter of the union of 6 circles on a hexagon (pi coefficient)*
 
-> The plant of the castle The plant of the castle of Hortona, seat of the Higher Mathematical School, consists of the union of 6 circles of radius equal to 100, the centers of which are arranged on the vertices of a regular hexagon of side 100. What is the perimeter of the castle? The result is less than π (in other words, if for example the result is 10π, then the answer is 0010).
+> The plan of the castle
+> The plan of Hortona Castle, the seat of the Higher Matemagical School, consists of the union of 6 circles with radius 100, whose centers are placed at the vertices of a regular hexagon with side length 100. What is the perimeter of the castle? Answer with the result excluding the factor π (in other words, if, for example, the result is 10π, then the answer to be given is 0010).
 
-**Answer:** 0400
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q10|src_cesenatico_2006_squadre_finale__Q10]]
 
 
 
@@ -354,13 +402,19 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum truth sheets in 10000 lying/sincere circles*
+*Maximum number of truthful sheets among 10,000 in a circle of liars/honest people*
 
-> Dangerous games Playing with tricks can be quite dangerous. The 5,000 students of the house of Rapportaureo drank a potion that forced them to tell the truth all the time, while the 5,000 students of the house of Partimmaginaria drank a potion that forced them to always lie. The 10,000 students in the two houses are arranged in a circle and each one writes on a scroll. My right neighbor is from Rapporteur or my right neighbor is from Partimagineria. Of course, everyone knows which houses the neighbors belong to. How many sheets of my right-hand neighbor's reporting can there be, at most?
-> 
-> Team competition 2006  National final  Problem texts  Pag. 3 di 4
+> Dangerous games
+> Playing with concoctions can be quite dangerous. The 5,000 students of Rapportaureo House drank a potion that forces them to always tell the truth, while the 5,000 students of Partimmaginaria House drank a potion that always forces them to lie. The 10,000 students from the two houses form a circle, and each one writes on a parchment: "My right-hand neighbor is from Rapportaureo" or "My right-hand neighbor is from Partimmaginaria." Naturally, everyone knows which houses their neighbors belong to. What is the maximum number of sheets that can say "My right-hand neighbor is from Rapportaureo"?
+>
+> 2006 Team Competition – National Final – Problem Statements – Page 3 of 4
 
-**Answer:** 9998
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q11|src_cesenatico_2006_squadre_finale__Q11]]
 
 
 
@@ -388,11 +442,17 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of cubes with 11x11x11 integer grid vertices*
+*Cubes whose vertices are at integer points in an 11x11x11 grid*
 
-> A pattern by Quamditch Hardy, the captain of the Quamditch team at the Reporter's House, instructs his teammates on a new game pattern he's worked out. If we consider in space the sum Q of points that have whole coordinates and are between 0 and 10 (included), how many cubes are there with the axes parallel to the Cartesian axis and with the vertices belonging to Q?
+> A diagram of Quamditch
+> Hardy, the captain of the Quamditch team from the Rapportaureo house, is instructing his teammates on a new game scheme he has devised. If, in space, we consider the set Q of points whose coordinates are integers between 0 and 10 inclusive, how many cubes exist whose edges are parallel to the Cartesian axes and whose vertices belong to Q?
 
-**Answer:** 3025
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q12|src_cesenatico_2006_squadre_finale__Q12]]
 
 
 
@@ -419,11 +479,17 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum 4 digits produced by only 2 digits and multiples*
+*Maximum 4-digit number that is a product of only 2s and multiplications*
 
-> At the divination lesson poor Ron was blindfolded and the divination teacher wrote a formula on the board. Knowing that in the expression only 2 digits and multiplication marks appear, and that the result has four digits and is the maximum possible, what should Ron answer?
+> At the divination lesson
+> Poor Ron was blindfolded, and the Divination teacher wrote a formula on the blackboard. Knowing that the expression contains only the digit 2 and multiplication signs, and that the result has four digits and is the maximum possible, what answer should Ron give?
 
-**Answer:** 9768
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q13|src_cesenatico_2006_squadre_finale__Q13]]
 
 
 
@@ -451,11 +517,17 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate 1000 A/B area triangles in the two-dimensional plane*
+*Ratio 1000 A/B: triangle areas in a dodecagon*
 
-> Defence against dark mathematics group lesson in the course of defence against dark mathematics! Twelve students, numbered S1, S2, respectively. . . , S12, are located at the vertices of a regular dodecagon. If the segments S1S6, S5S10 and S9S2 are plotted, four triangles are formed. Both A the area of the central triangle and B the sum of the areas of the other three. Calculate 1000A/B.
+> Defense Against Dark Mathemagics
+> Group lesson in the course on defense against dark mathematics magic! Twelve students, designated in order as S1, S2, ..., S12, are positioned at the vertices of a regular dodecagon. If the line segments S1S6, S5S10, and S9S2 are drawn, four triangles are formed. Let A be the area of the central triangle and B be the sum of the areas of the other three. Calculate 1000A/B.
 
-**Answer:** 1000
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q14|src_cesenatico_2006_squadre_finale__Q14]]
 
 
 
@@ -499,7 +571,7 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Magic square coast partially filled*
+*Constant of a partially filled magic square*
 
 ![[src_cesenatico_2006_squadre_finale__prob15.png]]
 
@@ -514,9 +586,14 @@ Coefficient of x^2006 in product of polynomials
 \end{document}
 ```
 
-> The brilliant Hermit is grappling with an extremely difficult spell, which aims to create a magic square (a square in which the sum of the numbers on each line, column and diagonal is the same value, called the mystical constant of the square). As you can see from the picture, sorcery is unfortunately still incomplete. What's the constant of the magic square? 33 31 28
+> A magical artifact of unusual power
+> The brilliant Hermita is grappling with an extremely difficult spell aimed at creating a magic square (that is, a square in which the sum of the numbers in each row, each column, and each diagonal is the same value, called the magic constant of the square). As can be seen from the figure, unfortunately, the spell is still incomplete. What is the constant of the magic square? 33 31 28
 
-**Answer:** 0096
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q15|src_cesenatico_2006_squadre_finale__Q15]]
 
 
 
@@ -545,11 +622,17 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rational sum of a/30 less than 10*
+*Rational sums a/30 reduced, less than 10*
 
-> Ambitious matriculation Higher Mathematical School students are assigned to their home country according to their mathematical attitudes. This year, in order to enter the House of Rapporteur, it was necessary to find the sum of all the positive rations which, reduced to the minimum terms, have the form of 30, and which are less than 10. What was the response of the student body?
+> Ambitious first-year students
+> The freshmen of the Higher School of Matemagics are assigned to their respective houses according to their matemagical aptitudes. This year, to gain entry to the coveted Rapportaureo House, it was necessary to find the sum of all positive rational numbers that, when reduced to lowest terms, are of the form a/30 and are less than 10. What answer did the freshmen of Rapportaureo give?
 
-**Answer:** 0400
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q16|src_cesenatico_2006_squadre_finale__Q16]]
 
 
 
@@ -578,11 +661,17 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integres >9 with strictly increasing numbers*
+*How many integers greater than 9 have strictly increasing digits?*
 
-> A condemnation to be avoided The followers of the One-who-can-not-be-proved, fierce proponents of dark and contradictory mathematics, are on the verge! Even simple questions can reveal their distorted mathematical knowledge. For example, the judge asked how many positive integers strictly greater than 9 whose digits on base 10 are strictly increasing from left to right. What is the answer to avoid condemnation?
+> A conviction to be avoided
+> The followers of the One-Who-Cannot-Be-Proven, fervent supporters of a dark and contradictory math-magic, are on trial! Even simple questions can reveal their distorted mathematical knowledge. For example, the judge asked how many positive integers strictly greater than 9 have decimal digits that strictly increase from left to right. What must be answered to avoid conviction?
 
-**Answer:** 0502
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q17|src_cesenatico_2006_squadre_finale__Q17]]
 
 
 
@@ -609,11 +698,17 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies equal to [4000,7000] with all other digits*
+*Even integers in [4000,7000] with all digits different*
 
-> Graduates of the Higher Mathematical School are assigned to their home country according to their mathematical attitudes. This year, for example, in order to enter the house of Inclusion, it was necessary to know how many integers are equal, including between 4000 and 7000, all of which have different digits. What's the right answer?
+> Freshmen adrift
+> The freshmen of the Higher School of Mathemagics are assigned to their respective houses according to their mathemagical aptitudes. This year, for example, to gain entry to the Inclusionesclusione house, one had to be able to state how many even integers between 4000 and 7000 have all different digits. What is the correct answer?
 
-**Answer:** 0728
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q18|src_cesenatico_2006_squadre_finale__Q18]]
 
 
 
@@ -643,11 +738,19 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of 4 people on 2 rows (seeing well)*
+*Probability: 4 people arranged in 2 rows (can see well)*
 
-> Hardy, Hermita and Ron are going to class with Fracto Malpoysto. The four are randomly arranged in two rows of five seats each. Calculate the probability that everyone sees well, that is, that nobody has anyone else in front of them. Express the result as the sum of the numerator and denominator of the fraction reduced to minimum terms.
+> The Abominable Fracto
+> Hardy, Hermita, and Ron attend class with the detestable Fracto Malpoysto. The four of them are arranged at random in 2 rows of 5 seats each. Calculate the probability that everyone can see well—that is, that no one has someone else in front of them. Express the result as the sum of the numerator and denominator of the fraction reduced to lowest terms.
+>
+> Page 4 of 4 – Team Competition 2006 – National Final – Problem Statements
 
-**Answer:** 0029
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q19|src_cesenatico_2006_squadre_finale__Q19]]
 
 
 
@@ -687,10 +790,16 @@ Coefficient of x^2006 in product of polynomials
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AED angle with arcing midpoints in the enclosure*
+*Angle AED with midpoints of arcs in the circumscribed circle*
 
-> Unveiled impostors People often wonder how a mathematician can be recognized by a mateban, that is, someone who is fasting mathematics. The method is very simple! Try asking a mattress the following question. Whether ABC is a triangle, with d ABC = 75° and d ACB = 53°. Drawing the circumference circumscribed to ABC, be E the middle point of the BC arc not containing A, and D the middle point of the BC arc containing A. How much is the angle?
-> 
-> Cesenatico Competition in teams 2 6 VII GARA NATIONAL A SQUADER National Final  SOLUTIONS  6 May 2006 No. The problem
+> Impostors Exposed
+> People often wonder how it is possible to tell a mathemagician from a matebban—that is, someone who knows nothing about mathemagics. The method is very simple! Try asking a matebban the following question. Let ABC be a triangle with ∠ABC = 75° and ∠ACB = 53°. Having drawn the circumcircle of ABC, let E be the midpoint of the arc BC that does not contain A, and let D be the midpoint of the arc BC that contains A. What is the measure of angle AED?
+>
+> Cesenatico Team Competition 2 6 VII National Team Competition National Final – SOLUTIONS – 6 May 2006 No. Problem
 
-**Answer:** 0011
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2006_squadre_finale#q20|src_cesenatico_2006_squadre_finale__Q20]]

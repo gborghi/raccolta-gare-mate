@@ -31,11 +31,14 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*values of e*
+*Possible values of e, given the three smallest and the two largest pairwise sums of five real numbers*
 
-> They are a < b < c < d < and real numbers. Calculate all possible sums of two to two of these five numbers. Of these 10 sums, the three smallest ones are 32, 36, 37, while the two largest ones are 48 and 51. Let us determine all the possible values that can be assumed.
+> Let a < b < c < d < e be real numbers. All possible sums of two of these five numbers are computed. Of these 10 sums, the three smallest are 32, 36 and 37, while the two largest are 48 and 51. Determine all possible values that e can take.
 
-**Answer:** e=27.5
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+
+[[Quesiti/src_cesenatico_2009#q01|src_cesenatico_2009__Q01]]
 
 
 
@@ -60,11 +63,14 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*OM perpendicular to BK*
+*The lines OM and BK are perpendicular*
 
-> Whether ABCD is a square of center O. Two isosceles BCJ and CDK, external to the square, of base BC and CD respectively and congruent to each other, are constructed. Let M be the middle point of CJ. It is proved that the OM and BK lines are perpendicular.
+> Let ABCD be a square with centre O. Construct two isosceles triangles BCJ and CDK, external to the square, with bases BC and CD respectively, and congruent to each other. Let M be the midpoint of CJ. Prove that the lines OM and BK are perpendicular.
 
-**Answer:** proved (90-degree rotation)
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+
+[[Quesiti/src_cesenatico_2009#q02|src_cesenatico_2009__Q02]]
 
 
 
@@ -92,11 +98,19 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Acute 4-digit numbers with product of digits dividing n^2*
+*Four-digit pleasant numbers, with equal odd places and equal even places, whose digit product divides n2*
 
-> A natural number n is said to be pleasing if it has the following properties: • its decimal expression is 4 digits; • the first and third digits of n are equal; • the second and fourth digits of n are equal; • the product of the digits of n divides n2. Let's get all the pleasant numbers.
+> A natural number n is called pleasant if it has the following properties:
+> • its decimal expression consists of 4 digits;
+> • the first and the third digit of n are equal;
+> • the second and the fourth digit of n are equal;
+> • the product of the digits of n divides n2.
+> Determine all pleasant numbers.
 
-**Answer:** 1111,1212,2424,3636,1515
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+
+[[Quesiti/src_cesenatico_2009#q03|src_cesenatico_2009__Q03]]
 
 
 
@@ -125,11 +139,14 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*the final position determines the intermediate*
+*The final position of the flea determines its position after each jump*
 
-> A flea is initially located at the point (0, 0) of the Cartesian plane. Then he makes a leap. Each jump is made in one of the four cardinal directions. The first jump is length 1, the second is length 2, the third is length 4, and so on, until the n-jump, which is length 2n−1. Demonstrate that if you know the final position of the fly, then you can uniquely determine its position after each of the n jumps.
+> A flea starts at the point (0, 0) of the Cartesian plane. It then makes n jumps. Each jump is in one of the four cardinal directions, at choice. The first jump has length 1, the second length 2, the third length 4, and so on, up to the nth jump, which has length 2n−1. Prove that, if the flea's final position is known, then its position after each of the n jumps can be determined uniquely.
 
-**Answer:** proved
+**Topic:** [[topic_geometria_analitica|Analytic geometry]]
+**Method:** [[method_induzione|Induction]]
+
+[[Quesiti/src_cesenatico_2009#q04|src_cesenatico_2009__Q04]]
 
 
 
@@ -157,11 +174,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*T,R,K aligned*
+*The points T, R and K are collinear*
 
-> Whether ABC is a scalene triangle and acutangol, Γ its circumscribed circumference, K the foot of the vertex relative to vertex A. Be M the middle point of the BC arc containing A. This is the second intersection of MK with Γ, and T is the intersection of the tangents at Γ in A and in A′. The intersection of the perpendicular to AK for A and the perpendicular to A′K for A′ shall also be R. Prove that T, R and K are aligned.
+> Let ABC be a scalene acute-angled triangle, Γ its circumcircle, and K the foot of the angle bisector from the vertex A. Let M be the midpoint of the arc BC that contains A. Let A′ be the second intersection of MK with Γ, and let T be the intersection of the tangents to Γ at A and at A′. Let R be the intersection of the line through A perpendicular to AK and the line through A′ perpendicular to A′K. Prove that T, R and K are collinear.
 
-**Answer:** proved
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2009#q05|src_cesenatico_2009__Q05]]
 
 
 
@@ -187,8 +208,12 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum k*
+*The least natural number k that is n-squared, in the sense of a monochromatic rectangle on a 2n by k board*
 
-> A natural number k is said to be n-squared if, by coloring the boxes of a chessboard 2n × k with n different colors, there are 4 distinct boxes of the same color whose centers are verticals of a rectangle having the sides parallel to the sides of the chessboard. Determine, as a function of n, the smallest natural k that is n-squared.
+> A natural number k is called n-squared if, however one colours the cells of a 2n × k board with n different colours, there exist 4 distinct cells of the same colour whose centres are the vertices of a rectangle with sides parallel to the sides of the board.
+> Determine, as a function of n, the smallest natural number k that is n-squared.
 
-**Answer:** minimum k as a function of n
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+
+[[Quesiti/src_cesenatico_2009#q06|src_cesenatico_2009__Q06]]

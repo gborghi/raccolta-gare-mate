@@ -29,9 +29,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo di centri di cerchio simile al triangolo originale*
+*Triangolo di centri di circonferenze simile al triangolo originale*
 
-> $P$, $Q$, $R$ sono punti arbitrari sui lati $BC$, $CA$ e $AB$ rispettivamente del triangolo $ABC$. Prova che il triangolo le cui vertici sono i centri dei cerchi $AQR$, $BRP$, $CPQ$ è simile al triangolo $ABC$.
+> $P$, $Q$, $R$ sono punti arbitrari sui lati $BC$, $CA$, $AB$ rispettivamente del triangolo $ABC$. Dimostrare che il triangolo i cui vertici sono i centri delle circonferenze $AQR$, $BRP$, $CPQ$ è simile al triangolo $ABC$.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_bmo1_1984#q01|src_bmo1_1984__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coefficienti binomiali mod 3: il conteggio del resto-1 supera il conteggio del resto-2*
+*Coefficienti binomiali modulo 3: il numero di resti 1 supera quello di resti 2*
 
-> Che $a_n$ sia il numero dei coefficienti binomiali $\binom{r}{n}$ ($0 \le r \le n$) che lasciano il rimanente $1$ sulla divisione da $3$ e che $b_n$ sia il numero che lascia il rimanente $2$. Prove che $a_n > b_n$ per tutti i numeri interi positivi $n$.
+> Sia $a_n$ il numero di coefficienti binomiali $\binom{r}{n}$ ($0 \le r \le n$) che lasciano resto $1$ nella divisione per $3$ e sia $b_n$ il numero che lasciano resto $2$. Dimostrare che $a_n > b_n$ per ogni intero positivo $n$.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_bmo1_1984#q02|src_bmo1_1984__Q02]]
 
 
 
@@ -83,11 +95,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica*
+*Due disuguaglianze: un limite superiore per il prodotto in funzione di m! e una disuguaglianza ciclica di potenze*
 
-> (i) Prove che, per tutti gli integri positivi $m$, $$\left(2 - \frac{1}{2}\right)\left(2 - \frac{2}{3}\right)\left(2 - \frac{3}{4}\right) \cdots \left(2 - \frac{2m-1}{2m}\right) \le m!$$
+> (i) Dimostrare che, per ogni intero positivo $m$,
+> $$\left(2 - \frac{1}{2}\right)\left(2 - \frac{2}{3}\right)\left(2 - \frac{3}{4}\right) \cdots \left(2 - \frac{2m-1}{2m}\right) \le m!$$
 > 
-> (ii) dimostrare che se $a$, $b$, $c$, $d$, $e$ sono numeri reali positivi allora $$\left(\frac{a}{b}\right)^a \cdot \left(\frac{b}{c}\right)^b \cdot \left(\frac{c}{d}\right)^c \cdot \left(\frac{d}{e}\right)^d \cdot \left(\frac{e}{a}\right)^e \ge \frac{a}{b} + \frac{b}{c} + \frac{c}{d} + \frac{d}{e} + \frac{e}{a}.$$
+> (ii) Dimostrare che, se $a$, $b$, $c$, $d$, $e$ sono numeri reali positivi, allora
+> $$\left(\frac{a}{b}\right)^a \cdot \left(\frac{b}{c}\right)^b \cdot \left(\frac{c}{d}\right)^c \cdot \left(\frac{d}{e}\right)^d \cdot \left(\frac{e}{a}\right)^e \ge \frac{a}{b} + \frac{b}{c} + \frac{c}{d} + \frac{d}{e} + \frac{e}{a}.$$
+
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_bmo1_1984#q03|src_bmo1_1984__Q03]]
 
 
 
@@ -114,11 +134,19 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contate soluzioni di x^2 - {x^2} = (x-{x})^2 in [1,N]*
+*Conteggio delle soluzioni di x^2 - {x^2} = (x-{x})^2 in [1,N]*
 
-> $N$ sia un numero intero positivo. Determinare con prova il numero di soluzioni dell'equazione $$x^2 - \{x^2\} = (x - \{x\})^2$$ nell'intervallo $1 \le x \le N$.
+> Sia $N$ un intero positivo. Determinare, con dimostrazione, il numero di soluzioni dell'equazione
+> $$x^2 - \{x^2\} = (x - \{x\})^2$$
+> che appartengono all'intervallo $1 \le x \le N$.
 > 
-> (Per un numero reale $x$ la "parte integrale" $[x]$ è il numero intero più grande che è $\le x$.)
+> (Per un numero reale $x$, la "parte intera" $[x]$ è il più grande intero che è $\le x$.)
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+[[Quesiti/src_bmo1_1984#q04|src_bmo1_1984__Q04]]
 
 
 
@@ -141,9 +169,15 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area curva della superficie di un cono inclinato con base ellittica*
+*Area della superficie curva di un cono obliquo con base ellittica*
 
-> Un piano taglia un cono circolare destro con vertice $V$ in ellisse $E$ e incontra l'asse del cono a $C$. $A$ è un'estremità dell'asse principale di $E$. Prova che l'area della superficie curva del cono inclinato con $V$ come vertice e $E$ come base è $$\frac{VA}{VC} \cdot \text{(area of } E\text{)}.$$
+> Un piano taglia un cono circolare retto con vertice $V$ in un'ellisse $E$ e incontra l'asse del cono in $C$. $A$ è un'estremità dell'asse maggiore di $E$. Dimostrare che l'area della superficie curva del cono obliquo con vertice $V$ e base $E$ è
+> $$\frac{VA}{VC} \cdot \text{(area of } E\text{)}.$$
+
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_bmo1_1984#q05|src_bmo1_1984__Q05]]
 
 
 
@@ -166,9 +200,15 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Divisibilità per m: l'esistenza di y dall'esistenza di x con x^2-a divisibile per m*
+*Divisibilità per m: esistenza di y a partire dall'esistenza di x con x^2-a divisibile per m*
 
-> Lasciate che $a$, $m$ siano numeri interi positivi. Prova che se esiste un intero $x$ tale che $x^2 - a$ sia divisibile da $m$, allora esiste un intero $y$ tale che sia $a^2 - y$ che $y^2 - a$ siano divisibili da $m$.
+> Siano $a$ e $m$ interi positivi. Dimostrare che se esiste un intero $x$ tale che $x^2 - a$ è divisibile per $m$, allora esiste un intero $y$ tale che sia $a^2 - y$ sia $y^2 - a$ sono divisibili per $m$.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1984#q06|src_bmo1_1984__Q06]]
 
 
 
@@ -194,6 +234,15 @@ Due disuguaglianze: prodotto vincolato da m! e disuguaglianza di potenza ciclica
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrillatore a cerchio inciso: quattro quantità associate sono uguali*
+*Quadrilatero circoscritto: quattro quantità associate sono uguali*
 
-> $ABCD$ è un quadrilaterale che ha un cerchio inciso. Con il lato $AB$ è associato $$u_{AB} = P_A \sin DAB + P_B \sin ABC$$ dove $P_A$, $P_B$ sono le perpendicolari da $A$, $B$ rispettivamente al lato opposto $CD$. Definire anche $u_{BC}$, $u_{CD}$, $u_{DA}$, utilizzando in ogni caso le perpendicolari verso il lato opposto. Indicare che $$u_{AB} = u_{BC} = u_{CD} = u_{DA}.$$
+> $ABCD$ è un quadrilatero che ammette una circonferenza inscritta. Alla lato $AB$ è associata
+> $$u_{AB} = P_A \sin DAB + P_B \sin ABC$$
+> dove $P_A$, $P_B$ sono le perpendicolari da $A$, $B$ rispettivamente al lato opposto $CD$. Si definiscano $u_{BC}$, $u_{CD}$, $u_{DA}$ in modo analogo, usando in ciascun caso le perpendicolari al lato opposto. Dimostrare che
+> $$u_{AB} = u_{BC} = u_{CD} = u_{DA}.$$
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1984#q07|src_bmo1_1984__Q07]]

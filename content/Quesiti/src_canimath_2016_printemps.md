@@ -12,201 +12,378 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Square ABCD of side 10 cm, X midpoint of AB, isosceles triangle ABY; overlap area with square is 99 cm2, find XY.*
+*Carré de côté 10 cm, triangle isocèle d'aire commune 99 cm² : longueur XY*
 
-> N.B. In this exercise, and only in this one, an answer without justification is required.
-> Let $ABCD$ be a square of side $10\,\mathrm{cm}$. Let $X$ be the midpoint of $[AB]$. We place a point $Y$ such that the triangle $ABY$ is isosceles at $Y$, and the region that is at the same time inside $ABY$ and inside $ABCD$ has an area of $99\,\mathrm{cm}^2$. How much is $XY$?
+> **Exercice 1**
+>
+> Dans cet exercice, et uniquement celui-ci, on demande une réponse sans justification.
+>
+> Soit $ABCD$ un carré de côté $10\,\mathrm{cm}$. On note $X$ le milieu de $[AB]$. On place un point $Y$ tel que le triangle $ABY$ est isocèle en $Y$, et la zone qui est à la fois à l'intérieur de $ABY$ et de $ABCD$ a une aire de $99\,\mathrm{cm}^2$.
+>
+> Combien vaut $XY$ ?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]]
+**Metodo:** [[method_casework|Disjonction de cas]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_lettura_attenta|Lecture attentive]]
+**Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrato di lato 10 cm, X punto medio di AB, triangolo isosceles ABY; area di sovrapposizione con quadrato è di 99 cm2, trovare XY.*
+*Quadrato di lato 10 cm, triangolo isoscele di area comune 99 cm²: lunghezza XY*
 
-> N.B. In questo esercizio, e solo in questo, è richiesta una risposta senza giustificazione. $ABCD$ sia un quadrato di lato $10\,\mathrm{cm}$. $X$ sia il punto medio di $[AB]$. Mettiamo un punto $Y$ in modo che il triangolo $ABY$ sia uguale a $Y$, e la regione che è allo stesso tempo all'interno di $ABY$ e all'interno di $ABCD$ ha un'area di $99\,\mathrm{cm}^2$. Quanto è $XY$?
+> **Esercizio 1**
+>
+> In questo esercizio, e solo in questo, si chiede una risposta senza giustificazione.
+>
+> Sia $ABCD$ un quadrato di lato $10\,\mathrm{cm}$. Si indichi con $X$ il punto medio di $[AB]$. Si ponga un punto $Y$ tale che il triangolo $ABY$ sia isoscele in $Y$, e la zona che sta sia dentro $ABY$ sia dentro $ABCD$ abbia area $99\,\mathrm{cm}^2$.
+>
+> Quanto vale $XY$?
+
+[[Quesiti/src_canimath_2016_printemps#q01|src_canimath_2016_printemps__Q01]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Square of side 10 cm, isosceles triangle of common area 99 cm²: length XY*
+
+> **Exercise 1**
+>
+> In this exercise, and only in this one, an answer without justification is asked for.
+>
+> Let $ABCD$ be a square of side $10\,\mathrm{cm}$. Let $X$ be the midpoint of $[AB]$. A point $Y$ is placed so that the triangle $ABY$ is isosceles at $Y$, and the region that lies inside both $ABY$ and $ABCD$ has area $99\,\mathrm{cm}^2$.
+>
+> What is $XY$?
+
+[[Quesiti/src_canimath_2016_printemps#q01|src_canimath_2016_printemps__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Whole hours at 55 km/h; odometer goes from abc to cba with a>=1 and a+b+c<=7; find all abc.*
+*Trajet à 55 km/h : le compteur passe de abc à cba*
 
-> Anne drove her car for a whole (and nonzero) number of hours, and traveled a whole number of kilometres, at the speed of $55\,\mathrm{km/h}$. At the start of the trip, the odometer indicated $abc$ kilometres, where $abc$ is a 3-digit number such that $a \geqslant 1$ and $a+b+c \leqslant 7$. At the end of the trip, the odometer indicated $cba$ kilometres. Determine all the possible values of the number $abc$.
+> **Exercice 2**
+>
+> Anne a conduit sa voiture pendant un nombre entier non nul d'heures, et a parcouru un nombre entier de kilomètres, à la vitesse de $55\,\mathrm{km/h}$. Au début du trajet, le compteur indiquait $abc$ kilomètres, où $abc$ est un nombre de $3$ chiffres tel que $a \geqslant 1$ et $a + b + c \leqslant 7$. À la fin du trajet, le compteur indiquait $cba$ kilomètres. Déterminer toutes les valeurs possibles du nombre $abc$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]]
+**Metodo:** [[method_casework|Disjonction de cas]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_casework_accurato|Disjonction de cas soigneuse]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tutte le ore a 55 km/h; odometro passa da abc a cba con a>=1 e a+b+c<=7; trovare tutti gli abc.*
+*Un tragitto a 55 km/h: il contachilometri passa da abc a cba*
 
-> Anne ha guidato la sua macchina per un numero intero (e non zero) di ore, e ha viaggiato per un intero numero di chilometri, alla velocità di $55\,\mathrm{km/h}$. All'inizio del viaggio, il chilometro indicava $abc$ chilometri, dove $abc$ è un numero a 3 cifre come $a \geqslant 1$ e $a+b+c \leqslant 7$. Al termine del viaggio, il chilometro indicava $cba$ chilometri. Determinare tutti i valori possibili del numero $abc$.
+> **Esercizio 2**
+>
+> Anne ha guidato l'auto per un numero intero positivo di ore, e ha percorso un numero intero di chilometri, alla velocità di $55\,\mathrm{km/h}$. All'inizio del tragitto il contachilometri indicava $abc$ chilometri, dove $abc$ è un numero di $3$ cifre tale che $a \geqslant 1$ e $a + b + c \leqslant 7$. Alla fine del tragitto il contachilometri indicava $cba$ chilometri. Determinare tutti i valori possibili del numero $abc$.
+
+[[Quesiti/src_canimath_2016_printemps#q02|src_canimath_2016_printemps__Q02]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*A trip at 55 km/h: the odometer goes from abc to cba*
+
+> **Exercise 2**
+>
+> Anne drove her car for a positive integer number of hours, and covered an integer number of kilometres, at a speed of $55\,\mathrm{km/h}$. At the start of the trip, the odometer showed $abc$ kilometres, where $abc$ is a $3$-digit number such that $a \geqslant 1$ and $a + b + c \leqslant 7$. At the end of the trip, the odometer showed $cba$ kilometres. Determine all possible values of the number $abc$.
+
+[[Quesiti/src_canimath_2016_printemps#q02|src_canimath_2016_printemps__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,topic_combinatoria,method_casework,skill_astrazione,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*2016 people in a line, each knave/knight; each points at someone ahead and labels them; strictly more knaves than knights; observer identifies all.*
+*2016 truands et chevaliers en file : plus de truands, qui est qui ?*
 
-> $2016$ people are in an Indian file (single line). Each of them is either a knave (who always lies) or a knight (who always tells the truth). Each of the $2016$ people sees all of those who are in front of them and only them. Each person, except the one who is right at the front, designates one of the people in front of them and says one of the two sentences: "this person is a knave" or "this person is a knight". Knowing that there are strictly more knaves than knights, how can an observer determine which one is a knave and which one is a knight?
+> **Exercice 3**
+>
+> $2016$ personnes sont en file indienne. Chacune d'elles est soit un truand (qui ment toujours), soit un chevalier (qui dit toujours la vérité). Chacune des $2016$ personnes sait qui sont les truands et les chevaliers. Chaque personne, excepté celle qui est tout devant, désigne l'une des personnes devant elle et dit l'une des deux phrases : « cette personne est un truand » ou « cette personne est un chevalier ».
+>
+> Sachant qu'il y a strictement plus de truands que de chevaliers, comment un observateur peut-il déterminer qui est un truand et qui est un chevalier ?
 
-**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_logica|Logique]], [[topic_combinatoria|Combinatoire]]
+**Metodo:** [[method_casework|Disjonction de cas]]
+**Abilita:** [[skill_astrazione|Abstraction]], [[skill_lettura_attenta|Lecture attentive]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2016 persone in fila, ciascun cretino/cavaliere; ognuno punta su qualcuno davanti e li etichetta; rigorosamente più cretini che cavalieri; osservatore identifica tutti.*
+*2016 furfanti e cavalieri in fila: più furfanti, chi è chi?*
 
-> Le persone $2016$ sono in un file indiano (linea singola). Ognuno di loro è o un cretino (che mente sempre) o un cavaliere (che dice sempre la verità). Ognuna delle persone $2016$ vede tutti coloro che sono davanti a loro e solo loro. Ogni persona, tranne quella che è proprio davanti, designa una delle persone davanti a loro e dice una delle due frasi: "questa persona è un cretino" o "questa persona è un cavaliere". Sapendo che ci sono rigorosamente più scagnozzi che cavalieri, come può un osservatore determinare quale è uno scagnozzo e quale un cavaliere?
+> **Esercizio 3**
+>
+> $2016$ persone sono in fila indiana. Ciascuna è o un furfante (che mente sempre) o un cavaliere (che dice sempre la verità). Ciascuna delle $2016$ persone sa chi sono i furfanti e i cavalieri. Ogni persona, tranne quella in testa, indica una delle persone davanti a sé e dice una delle due frasi: «questa persona è un furfante» o «questa persona è un cavaliere».
+>
+> Sapendo che ci sono strettamente più furfanti che cavalieri, come può un osservatore determinare chi è un furfante e chi è un cavaliere?
+
+[[Quesiti/src_canimath_2016_printemps#q03|src_canimath_2016_printemps__Q03]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*2016 knaves and knights in a line: more knaves, who is who?*
+
+> **Exercise 3**
+>
+> $2016$ people stand in single file. Each of them is either a knave (who always lies) or a knight (who always tells the truth). Each of the $2016$ people knows who the knaves and the knights are. Each person, except the one at the very front, points to one of the people in front of him and says one of the two sentences: "this person is a knave" or "this person is a knight".
+>
+> Given that there are strictly more knaves than knights, how can an observer determine who is a knave and who is a knight?
+
+[[Quesiti/src_canimath_2016_printemps#q03|src_canimath_2016_printemps__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Trapezoid ABCD with equal-length diagonals; prove sum of distances from any M to three vertices exceeds distance to the fourth.*
+*Trapèze à diagonales égales : une somme de distances domine toujours la quatrième*
 
-> In the plane, consider a trapezoid $ABCD$ whose diagonals are of the same length. Prove that, for any point $M$ of the plane, the sum of the distances from $M$ to any three vertices of the trapezoid is always strictly greater than the distance from $M$ to the fourth vertex.
+> **Exercice 4**
+>
+> Dans le plan, on considère un trapèze $ABCD$ dont les diagonales sont de même longueur. Prouver que, pour tout point $M$ du plan, la somme des distances de $M$ à trois sommets quelconques du trapèze est toujours strictement plus grande que la distance de $M$ au quatrième sommet.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_disuguaglianze|Inégalités]]
+**Metodo:** [[method_disuguaglianze|Inégalités]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_manipolazione_algebrica|Manipulation algébrique]]
+**Area:** [[Geometria|Géométrie]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trapezoide ABCD con diagonali di lunghezza uguale; dimostrare che la somma delle distanze da qualsiasi M a tre vertici supera la distanza fino al quarto.*
+*Trapezio con diagonali uguali: una somma di distanze supera sempre la quarta*
 
-> Nel piano, considerate un trapezoide $ABCD$ le cui diagonali sono della stessa lunghezza. Prova che, per qualsiasi punto $M$ del piano, la somma delle distanze da $M$ a qualsiasi tre vertici del trapezoide è sempre strettamente superiore alla distanza da $M$ al quarto vertice.
+> **Esercizio 4**
+>
+> Nel piano si consideri un trapezio $ABCD$ le cui diagonali hanno la stessa lunghezza. Dimostrare che, per ogni punto $M$ del piano, la somma delle distanze di $M$ da tre vertici qualunque del trapezio è sempre strettamente maggiore della distanza di $M$ dal quarto vertice.
+
+[[Quesiti/src_canimath_2016_printemps#q04|src_canimath_2016_printemps__Q04]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Trapezium with equal diagonals: a sum of distances always exceeds the fourth*
+
+> **Exercise 4**
+>
+> In the plane, consider a trapezium $ABCD$ whose diagonals have the same length. Prove that, for every point $M$ of the plane, the sum of the distances from $M$ to any three vertices of the trapezium is always strictly greater than the distance from $M$ to the fourth vertex.
+
+[[Quesiti/src_canimath_2016_printemps#q04|src_canimath_2016_printemps__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Five reals a<b<c<d<e; three smallest pairwise sums are 32,36,37 and two largest are 48,51; find all possible e.*
+*Cinq réels, sommes deux à deux : retrouver e*
 
-> Let $a < b < c < d < e$ be real numbers. We compute all the possible sums of two distinct numbers among these five numbers. The three smallest are equal to $32$, $36$ and $37$, and the two largest are equal to $48$ and $51$. Find all the possible values of $e$.
+> **Exercice 5**
+>
+> Soient $a < b < c < d < e$ des nombres réels. On calcule toutes les sommes possibles de deux nombres distincts parmi ces cinq nombres. Les trois plus petites valent $32$, $36$ et $37$, et les deux plus grandes valent $48$ et $51$. Trouver toutes les valeurs possibles de $e$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algèbre]], [[topic_aritmetica|Arithmétique / Théorie des nombres]]
+**Metodo:** [[method_casework|Disjonction de cas]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_casework_accurato|Disjonction de cas soigneuse]]
+**Area:** [[Algebra e Analisi|Algèbre et analyse]], [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque reales a<b<c<d<e; tre somme in coppia più piccole sono 32,36,37 e due più grandi sono 48,51; trovare tutte le e possibili.*
+*Cinque reali, somme a due a due: ritrovare e*
 
-> Lasciate che $a < b < c < d < e$ siano numeri reali. Calcoliamo tutte le somme possibili di due numeri distinti tra questi cinque numeri. I tre più piccoli sono uguali a $32$, $36$ e $37$, mentre i due più grandi sono uguali a $48$ e $51$. Trova tutti i valori possibili di $e$.
+> **Esercizio 5**
+>
+> Siano $a < b < c < d < e$ numeri reali. Si calcolano tutte le somme possibili di due numeri distinti tra questi cinque. Le tre più piccole valgono $32$, $36$ e $37$, e le due più grandi valgono $48$ e $51$. Trovare tutti i valori possibili di $e$.
+
+[[Quesiti/src_canimath_2016_printemps#q05|src_canimath_2016_printemps__Q05]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Five reals, pairwise sums: recover e*
+
+> **Exercise 5**
+>
+> Let $a < b < c < d < e$ be real numbers. All possible sums of two distinct numbers among these five are computed. The three smallest equal $32$, $36$ and $37$, and the two largest equal $48$ and $51$. Find all possible values of $e$.
+
+[[Quesiti/src_canimath_2016_printemps#q05|src_canimath_2016_printemps__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Convex 2016-gon cut by non-crossing diagonals into 2014 triangles; can exactly half have all three sides being diagonals?*
+*Polygone à 2016 côtés découpé en 2014 triangles : la moitié n'a que des diagonales ?*
 
-> In a convex polygon with $2016$ sides, we trace certain diagonals, which do not cross inside the polygon. This drawing decomposes the polygon into $2014$ triangles. Is it possible that exactly half of these triangles have their three sides all being diagonals?
+> **Exercice 6**
+>
+> Dans un polygone convexe à $2016$ côtés, on trace certaines diagonales, qui ne se coupent pas à l'intérieur du polygone. Ce dessin décompose le polygone en $2014$ triangles.
+>
+> Est-il possible qu'exactement la moitié de ces triangles aient leurs trois côtés qui soient des diagonales ?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Topic:** [[topic_combinatoria|Combinatoire]], [[topic_geometria_piana|Géométrie plane]]
+**Metodo:** [[method_conteggio|Dénombrement]], [[method_casework|Disjonction de cas]]
+**Abilita:** [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_ragionamento_geometrico|Raisonnement géométrique]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]], [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Convex 2016-gon tagliato da diagonali non incrocianti in triangoli 2014; può esattamente la metà avere tutti e tre i lati come diagonali?*
+*Poligono di 2016 lati tagliato in 2014 triangoli: la metà ha solo diagonali?*
 
-> In un poligono convexo con lati $2016$, tracciamo determinate diagonali, che non si incrociano all'interno del poligono. Questo disegno decompone il poligono in triangoli $2014$. E' possibile che esattamente la metà di questi triangoli abbia i loro tre lati tutti diagonali?
+> **Esercizio 6**
+>
+> In un poligono convesso di $2016$ lati si tracciano alcune diagonali, che non si intersecano all'interno del poligono. Questo disegno decompone il poligono in $2014$ triangoli.
+>
+> È possibile che esattamente la metà di questi triangoli abbia tutti e tre i lati che sono diagonali?
+
+[[Quesiti/src_canimath_2016_printemps#q06|src_canimath_2016_printemps__Q06]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*A 2016-gon cut into 2014 triangles: can half of them have only diagonals as sides?*
+
+> **Exercise 6**
+>
+> In a convex polygon with $2016$ sides, some diagonals are drawn, which do not meet inside the polygon. This drawing decomposes the polygon into $2014$ triangles.
+>
+> Is it possible that exactly half of these triangles have all three sides that are diagonals?
+
+[[Quesiti/src_canimath_2016_printemps#q06|src_canimath_2016_printemps__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_casework,method_cassetti,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Among 18 consecutive integers <= 2016, show at least one is divisible by the sum of its digits.*
+*Parmi 18 entiers consécutifs ≤ 2016, un est divisible par la somme de ses chiffres*
 
-> Show that among $18$ consecutive integers less than or equal to $2016$, there exists at least one that is divisible by the sum of its digits.
+> **Exercice 7**
+>
+> Montrer que parmi $18$ entiers consécutifs inférieurs ou égaux à $2016$, il en existe au moins un qui est divisible par la somme de ses chiffres.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]]
+**Metodo:** [[method_casework|Disjonction de cas]], [[method_cassetti|Principe des tiroirs]]
+**Abilita:** [[skill_casework_accurato|Disjonction de cas soigneuse]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tra 18 numeri interi consecutivi <= 2016, mostrare che almeno uno è divisibile dalla somma delle sue cifre.*
+*Tra 18 interi consecutivi ≤ 2016, uno è divisibile per la somma delle sue cifre*
 
-> Mostrare che tra i numeri interi consecutivi $18$ inferiori o uguali a $2016$ esiste almeno uno che è divisibile dalla somma delle sue cifre.
+> **Esercizio 7**
+>
+> Dimostrare che tra $18$ interi consecutivi minori o uguali a $2016$ ne esiste almeno uno divisibile per la somma delle sue cifre.
+
+[[Quesiti/src_canimath_2016_printemps#q07|src_canimath_2016_printemps__Q07]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Among 18 consecutive integers ≤ 2016, one is divisible by the sum of its digits*
+
+> **Exercise 7**
+>
+> Prove that among $18$ consecutive integers less than or equal to $2016$, there is at least one that is divisible by the sum of its digits.
+
+[[Quesiti/src_canimath_2016_printemps#q07|src_canimath_2016_printemps__Q07]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_logica,method_doppio_conteggio,method_casework,skill_astrazione,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Class test: at least 2/3 of questions difficult and at least 2/3 of students did well; is it possible; repeat with 3/4 and 7/10.*
+*Contrôle : deux tiers, trois quarts ou sept dixièmes de questions difficiles et d'élèves qui réussissent*
 
-> a) A test took place in a class. We know that at least two thirds of the questions of this test were difficult: for each of these difficult questions, at least two thirds of the students did not manage to answer it. We also know that at least two thirds of the students did well on the test: each of them managed to answer at least two thirds of the questions. Is this possible?
-> b) Would the answer to the previous question be the same if we replaced everywhere "two thirds" by "three quarters"?
-> c) Would the answer to the first question be the same if we replaced everywhere "two thirds" by "seven tenths"?
+> **Exercice 8**
+>
+> a) Un contrôle a eu lieu dans une classe. On sait qu'au moins les deux tiers des questions de ce contrôle étaient difficiles : pour chacune de ces questions difficiles, au moins les deux tiers des élèves n'ont pas su répondre. On sait aussi qu'au moins les deux tiers des élèves ont bien réussi le contrôle : chacun d'eux a su répondre à au moins deux tiers des questions. Est-ce possible ?
+>
+> b) La réponse à la question précédente serait-elle la même si l'on remplaçait partout « deux tiers » par « trois quarts » ?
+>
+> c) La réponse à la première question serait-elle la même si l'on remplaçait partout « deux tiers » par « sept dixièmes » ?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoire]], [[topic_logica|Logique]]
+**Metodo:** [[method_doppio_conteggio|Double comptage]], [[method_casework|Disjonction de cas]]
+**Abilita:** [[skill_astrazione|Abstraction]], [[skill_modellizzazione|Modélisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova di classe: almeno 2/3 delle domande difficili e almeno 2/3 degli studenti hanno fatto bene; è possibile; ripeti con 3/4 e 7/10.*
+*Una verifica: due terzi, tre quarti o sette decimi di domande difficili e di alunni che riescono*
 
-> a) Si è svolta una prova in classe. Sappiamo che almeno due terzi delle domande di questo test erano difficili: per ciascuna di queste domande difficili, almeno due terzi degli studenti non riuscirono a rispondere. Sappiamo anche che almeno i due terzi degli studenti hanno fatto bene il test: ognuno di loro è riuscito a rispondere almeno ai due terzi delle domande. E' possibile? b) La risposta alla domanda precedente sarebbe la stessa se sostituissimo ovunque "due terzi" con "tre quarti"? c) La risposta alla prima domanda sarebbe la stessa se sostituissimo ovunque "due terzi" con "sette decimi"?
+> **Esercizio 8**
+>
+> a) In una classe c'è stata una verifica. Si sa che almeno due terzi delle domande di questa verifica erano difficili: per ciascuna di queste domande difficili, almeno due terzi degli alunni non hanno saputo rispondere. Si sa anche che almeno due terzi degli alunni hanno superato bene la verifica: ciascuno di loro ha saputo rispondere ad almeno due terzi delle domande. È possibile?
+>
+> b) La risposta alla domanda precedente sarebbe la stessa se si sostituisse ovunque «due terzi» con «tre quarti»?
+>
+> c) La risposta alla prima domanda sarebbe la stessa se si sostituisse ovunque «due terzi» con «sette decimi»?
+
+[[Quesiti/src_canimath_2016_printemps#q08|src_canimath_2016_printemps__Q08]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*A test: two thirds, three quarters or seven tenths of hard questions and of pupils who do well*
+
+> **Exercise 8**
+>
+> a) A test was given in a class. At least two thirds of the questions on this test were hard: for each of these hard questions, at least two thirds of the pupils could not answer. It is also known that at least two thirds of the pupils did well on the test: each of them could answer at least two thirds of the questions. Is this possible?
+>
+> b) Would the answer to the previous question be the same if "two thirds" were replaced everywhere by "three quarters"?
+>
+> c) Would the answer to the first question be the same if "two thirds" were replaced everywhere by "seven tenths"?
+
+[[Quesiti/src_canimath_2016_printemps#q08|src_canimath_2016_printemps__Q08]]

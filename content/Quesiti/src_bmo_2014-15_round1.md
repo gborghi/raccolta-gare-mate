@@ -31,9 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ordina cinque numeri esponenziali della torre per dimensione*
+*Ordina cinque numeri torre-esponenziali in base alla loro grandezza*
 
-> In ordine crescente di dimensioni, inserire i seguenti numeri e giustificare il ragionamento: $$3^{3^4},\quad 3^{4^3},\quad 3^{4^4},\quad 4^{3^3}\quad\text{and}\quad 4^{3^4}.$$ Nota che $a^{b^c}$ significa $a^{(b^c)}$.
+> Disponi i seguenti numeri in ordine crescente di grandezza e giustifica il tuo ragionamento:
+> $$3^{3^4},\quad 3^{4^3},\quad 3^{4^4},\quad 4^{3^3}\quad\text{and}\quad 4^{3^4}.$$
+> Tieni presente che $a^{b^c}$ significa $a^{(b^c)}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2014-15_round1#q01|src_bmo_2014-15_round1__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triplice di Pitagora con primo; dimostra divisibilità e quadrato perfetto*
+*Terna pitagorica con numero primo; dimostra la divisibilità e il quadrato perfetto*
 
-> Gli integri positivi $p$, $a$ e $b$ soddisfano l'equazione $p^2 + a^2 = b^2$. Prova che se $p$ è un primo maggiore di $3$, allora $a$ è un multiple di $12$ e $2(p + a + 1)$ è un quadrato perfetto.
+> I numeri interi positivi $p$, $a$ e $b$ soddisfano l'equazione $p^2 + a^2 = b^2$. Dimostrare che, se $p$ è un numero primo maggiore di $3$, allora $a$ è un multiplo di $12$ e $2(p + a + 1)$ è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2014-15_round1#q02|src_bmo_2014-15_round1__Q02]]
 
 
 
@@ -81,9 +97,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le modalità per prenotare 7 camere nel corridoio dell'hotel senza due camere adiacenti sullo stesso lato*
+*Conta i modi per prenotare 7 stanze in un corridoio d'albergo, senza che due stanze adiacenti siano sullo stesso lato*
 
-> Un hotel ha dieci camere lungo ogni lato di un corridoio. Un leader di squadra olimpica desidera prenotare sette stanze sul corridoio in modo che non siano adiacenti due stanze riservate sullo stesso lato del corridoio. In quanti modi si può farlo?
+> In un hotel, lungo ciascun lato di un corridoio ci sono dieci stanze. Un capo squadra di un'olimpiade desidera prenotare sette stanze sul corridoio in modo che, sullo stesso lato del corridoio, nessuna delle stanze prenotate sia adiacente a un'altra stanza prenotata. In quanti modi si può procedere?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2014-15_round1#q03|src_bmo_2014-15_round1__Q03]]
 
 
 
@@ -106,9 +129,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove t_n = x^n + x^{-n} è un intero; trova n dove t divide t_n*
+*Dimostrare che t_n = x^n + x^{-n} è un numero intero; trova n tale che t divida t_n*
 
-> $x$ sia un numero reale tale che $t = x + x^{-1}$ sia un numero intero maggiore di $2$. Prove che $t_n = x^n + x^{-n}$ è un intero per tutti i numeri interi positivi $n$. Determinare i valori di $n$ per i quali $t$ divide $t_n$.
+> Sia $x$ un numero reale tale che $t = x + x^{-1}$ sia un numero intero maggiore di $2$. Dimostrare che $t_n = x^n + x^{-n}$ è un numero intero per tutti gli interi positivi $n$. Determinare i valori di $n$ per cui $t$ divide $t_n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2014-15_round1#q04|src_bmo_2014-15_round1__Q04]]
 
 
 
@@ -131,9 +161,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale ciclico; dimostrare PQ parallelo ad AB*
+*Quadrilatero ciclico ABCD; dimostrare che PQ è parallela ad AB*
 
-> Che il $ABCD$ sia un quadrilaterale ciclico. Il $F$ deve essere il punto medio dell'arco $AB$ del suo circoncircolo che non contiene $C$ o $D$. Lasciate che le linee $DF$ e $AC$ si incontrino a $P$ e le linee $CF$ e $BD$ si incontrino a $Q$. Prove che le linee $PQ$ e $AB$ sono parallele.
+> Sia $ABCD$ un quadrilatero ciclico. Sia $F$ il punto medio dell'arco $AB$ della sua circonferenza circoscritta che non contiene $C$ né $D$. Siano le rette $DF$ e $AC$ incidenti in $P$, e le rette $CF$ e $BD$ incidenti in $Q$. Dimostrare che le rette $PQ$ e $AB$ sono parallele.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2014-15_round1#q05|src_bmo_2014-15_round1__Q05]]
 
 
 
@@ -157,6 +194,14 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni che preservano l'equazione di frazione egiziana 1/a+1/b=1/c*
+*Trovare tutte le funzioni che preservano l'equazione delle frazioni egiziane 1/a+1/b=1/c*
 
-> Determinare tutte le funzioni $f(n)$ dai numeri interi positivi ai numeri interi positivi che soddisfano la seguente condizione: quando $a$, $b$ e $c$ sono numeri interi positivi come $\frac{1}{a} + \frac{1}{b} = \frac{1}{c}$, allora $$\frac{1}{f(a)} + \frac{1}{f(b)} = \frac{1}{f(c)}.$$
+> Determinare tutte le funzioni $f(n)$ da gli interi positivi agli interi positivi che soddisfano la seguente condizione: ogni volta che $a$, $b$ e $c$ sono interi positivi tali che $\frac{1}{a} + \frac{1}{b} = \frac{1}{c}$, allora
+> $$\frac{1}{f(a)} + \frac{1}{f(b)} = \frac{1}{f(c)}.$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2014-15_round1#q06|src_bmo_2014-15_round1__Q06]]

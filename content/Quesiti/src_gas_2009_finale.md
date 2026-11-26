@@ -36,11 +36,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flat and upward quadrilateral area of 45 degrees*
+*Area of a quadrilateral formed by a flat path and a 45-degree incline*
 
-> Race to Mount Fatou The Eye of Tauron O, at the top of the tower of Banach Dˆur, is at the same height as the Voragine of Fatou V, the mouth of the volcano into which Frobbo is about to throw the ring. As soon as the Dark Lord realizes what's about to happen, he sets off his personal orchestral guard from base B of the tower. They run for 1311 metres in the plane up to the point P and for the same ascent along the volcano, with a slope of 45 degrees (without changing horizontal direction). How many hectares does the OVPB quadrilateral cover? (A hectare is the area of a square 100 meters.)
+> Race to Mount Fatou
+> Tauron O's eye, at the top of the Banach Dˆur tower, is at the same height as the Voragine del Fatou V—the mouth of the volcano into which Frobbo is about to throw the ring. As soon as the Dark Lord realizes what is about to happen, he sends his personal guard of orcs off from the base B of the tower. They run 1311 metres on level ground to point P, and then the same distance uphill along the volcano, at a gradient of 45 degrees (without changing their horizontal direction). How many hectares is the area of the quadrilateral OVPB? (One hectare is the area of a square with sides 100 metres long.)
 
-**Answer:** 0164
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2009_finale#q01|src_gas_2009_finale__Q01]]
 
 
 
@@ -67,11 +73,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to divide 9 people into groups with constraints*
+*Ways of dividing 9 people into groups with constraints*
 
-> Let's split up! The ring company, consisting of 4 gobbits, 2 humans, a dwarf, an elf and a witch, must be divided into two groups of 4 and 5. You want the elf and the dwarf to stay together and the gobbits to be split into two groups. How many ways can you divide?
+> Let's split up! The Fellowship of the Ring, consisting of 4 goblins, 2 humans, a dwarf, an elf, and a wizard, must be divided into two groups of 4 and 5. The elf and the dwarf are to be together, and the goblins are to be split so that there are 2 goblins per group. In how many ways can this be done?
 
-**Answer:** 0024
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2009_finale#q02|src_gas_2009_finale__Q02]]
 
 
 
@@ -101,11 +112,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of Elves among honest/ foolish prisoners
+*Maximum number of elves among sincere/liar prisoners*
 
-> Elven honesty to Him they exalt noble creatures and they flee from falsehood and deceit: they always speak the truth. Humans, on the other hand, are a less austere people and have no regrets if they need to lie: they can tell the truth or the lie. When the Orcs conquer a human stronghold, they capture 9999 prisoners. They are interviewed in order; early 2009s claim to be elves. Starting with 2010°, the n-eighth states There are at least n −2009 humans among us. How many elves can there be?
+> Elfic Sincerity
+> Elves are noble creatures and shun falsehood and deception: they always tell the truth. Humans, by contrast, are a less austere people and feel no remorse when they need to lie: they can tell either the truth or a lie. When orcs capture a human stronghold, they take 9999 prisoners. The prisoners are interrogated in order; the first 2009 claim to be elves. Starting from the 2010th prisoner, the n-th prisoner claims, "There are at least n − 2009 humans among us." What is the maximum possible number of elves?
 
-**Answer:** 6004
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2009_finale#q03|src_gas_2009_finale__Q03]]
 
 
 
@@ -132,11 +149,16 @@ Maximum number of Elves among honest/ foolish prisoners
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arithmetic mean of numbers in a rectangle of a Pythagorean table*
+*Arithmetic mean of the numbers in a rectangle of the multiplication table*
 
-> El-Romb's elven multiplication with a little bit of patience is compiling a Pythagorean table of 10000 × 10000 Bobo goes over there and traces the edge of a rectangle of 35 × 239 boxes that has 2009 on two opposite corners and wonders what the arithmetic mean of all the numbers in the rectangle is worth. Can you answer that?
+> Elf Multiplications
+> With mezzelfic patience, El-Romb is compiling a 10000 × 10000 multiplication table. Bobo walks by and draws the border of a 35 × 239-cell rectangle that has 2009 at two opposite corners, and wonders what the arithmetic mean of all the numbers in the rectangle is. Can you answer?
 
-**Answer:** 4032
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2009_finale#q04|src_gas_2009_finale__Q04]]
 
 
 
@@ -166,11 +188,20 @@ Maximum number of Elves among honest/ foolish prisoners
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most perfect square of the form aabb*
+*Maximum perfect square of the aabb form*
 
-> Orcs and squares A battalion of orcs is arranged in square formation. Legalois counts them to know how many arrows to use to knock them down and he notices that their number is the largest perfect square that can be written on a decimal basis, using only two distinct digits, in the shape of aabb. How many orcs does the battalion consist of? Team competition 2009  National final  Problem texts  Pag. 1 di 4
+> Orchs and Squares
+> A battalion of orcs is arranged in a square formation. Legalois counts them to find out how many arrows to use to bring them down, and realizes that their number is the largest perfect square that can be written in base 10 using only two distinct digits in the form aabb. How many orcs make up the battalion?
+> 2009 Team Competition – National Final – Problem Statements – Page 1 of 4
+>
+> Page 2 of 4 – Team Competition 2009 – National Final – Problem Statements
 
-**Answer:** 7744
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2009_finale#q05|src_gas_2009_finale__Q05]]
 
 
 
@@ -197,11 +228,17 @@ Maximum number of Elves among honest/ foolish prisoners
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last 4 digits minimum number with digits 2,9 divisible by 2^2009*
+*Last 4 digits: minimum number containing digits 2 and 9, divisible by 2^2009*
 
-> A great battle of ancient times took place in the year N of the first era. Knowing that N is the smallest number that, based on ten, is written with the numbers 2 and 9 and is divisible by 22009, find the last 4 digits of N.
+> Remote epoch
+> A great battle of ancient times took place in year N of the first era. Knowing that N is the smallest number which, in base ten, is written using only the digits 2 and 9 and is divisible by 22009, find the last 4 digits of N.
 
-**Answer:** 2992
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2009_finale#q06|src_gas_2009_finale__Q06]]
 
 
 
@@ -229,11 +266,17 @@ Maximum number of Elves among honest/ foolish prisoners
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of possible cubic term coefficients, whole roots*
+*Number of possible coefficients of the cubic term, integer roots*
 
-> Emptiness of memory A traveler recalled a trip to the mines of Toria, where he was walking, and he mentioned a rock wall on which something special was written: it was a polynomial, where the highest degree term was x4 and the known term 12. He couldn't remember anything else about that engraving, but he knew all his roots were intact. How many different coefficients could the third degree term have?
+> Memory lapse
+> While recounting a journey he had made to the Toria mines, a traveler mentioned a rock face on which something unusual had been written: it was a polynomial in which the highest-degree term was x⁴ and the constant term was 12. He could not recall anything else about that inscription, but he knew that all of its roots were integers. How many different coefficients could the cubic term have?
 
-**Answer:** 0021
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2009_finale#q07|src_gas_2009_finale__Q07]]
 
 
 
@@ -265,11 +308,17 @@ Maximum number of Elves among honest/ foolish prisoners
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Light distance per given ratio of illuminated surfaces to cubic shadows*
+*Light distance for a given illuminated/shadowed surface area ratio of the cube*
 
-> The Sarumath Polyhedron The Sarumath Polyhedron is a perfectly transparent cube-shaped crystal of 1 foot by side. The evil Tauron also sabotaged this visionary stone, inserting a black, opaque square with vertices in the centers of the vertical faces of the cube. To allow Areagorn to use the stone again, Gaussdalf must evoke a magical light source on the vertical of the center of the black square, in such a position that the ratio between the surface of the illuminated cube and that in shadow is equal to 2009/2008 (the light source can also be placed inside the cube). At what distance from the square, standing, will the light have to be evoked? (As a result, provide the sum of the numerator and denominator of the reduced fraction to the minimum terms.)
+> The Poliedril of Sarumath
+> Sarumath's Poliedril is a perfectly transparent cubic crystal, 1 foot on a side. The evil Tauron has also sabotaged this seer stone by inserting inside it a black, opaque square whose vertices lie at the centers of the vertical faces of the cube. To allow Areagorn to use the stone again, Gaussdalf must conjure a magical source of light on the vertical line through the center of the black square, in such a position that the ratio of the illuminated surface of the cube to the surface in shadow is 2009/2008 (the source of light may also be placed inside the cube). At what distance, in feet, from the square must the light be conjured? (As the result, give the sum of the numerator and denominator of the fraction reduced to lowest terms.)
 
-**Answer:** 2679
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2009_finale#q08|src_gas_2009_finale__Q08]]
 
 
 
@@ -299,11 +348,17 @@ Maximum number of Elves among honest/ foolish prisoners
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tempted maximum runes on hexagonal prism without rotations*
+*Maximum rune attempts on a hexagonal prism, less than rotations*
 
-> Gaussdalf's enchanted key must open a door to Toria, behind which are hidden the scrolls with the last secrets of the dwarves. The magic that locks the door is sophisticated: to enter you need a regular hexagonal prism, with a different rune engraved on each face. Gaussdalf knows the eight runes he has to use, but he doesn't know the correspondence with the faces. How many attempts will you have to make to open the door? (Note: two configurations are different only if one cannot be obtained from the other by rotating the prism relative to some axis.)
+> The Enchanted Key
+> Gaussdalf must open a door in Toria, behind which the parchments containing the dwarves' final secrets are hidden. The magic that blocks the door is sophisticated: to enter, one needs a regular hexagonal-based prism, with a different rune engraved on each face. Gaussdalf knows the 8 runes he must use, but does not know how they correspond to the faces. What is the maximum number of attempts he will have to make to open the door? (Note: two configurations are different only if one cannot be obtained from the other by rotating the prism about some axis.)
 
-**Answer:** 3360
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2009_finale#q09|src_gas_2009_finale__Q09]]
 
 
 
@@ -332,11 +387,17 @@ Maximum number of Elves among honest/ foolish prisoners
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability of extracting exactly 2 elliptical rings out of 3*
+*Probability of drawing exactly 2 Elven rings out of 3*
 
-> Fleeing the Eregion, after the discovery of the betrayal by Tauron, Celebrimbor took three rings at random from the 19 present (3 for elves, 7 for dwarves, 9 for mortal men). Luck helped him, making him recover exactly the three rings of the elves. What was the probability that I took three rings, only two of these belonged to the elves? (As a result, provide the sum of the numerator and denominator of the reduced fraction to the minimum terms.)
+> The Rings of the Elves
+> Fleeing Eregion, after discovering Tauron's betrayal, Celebrimbor randomly selected three rings from the 19 that were present (3 for the Elves, 7 for the Dwarves, 9 for mortal Men). Fortune favored him, enabling him to recover precisely the three Elven rings. What was the probability that, when three rings were taken, only two of them would belong to the Elves? (As the result, provide the sum of the numerator and denominator of the fraction reduced to its lowest terms.)
 
-**Answer:** 0339
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2009_finale#q10|src_gas_2009_finale__Q10]]
 
 
 
@@ -376,13 +437,18 @@ The probability of extracting exactly 2 elliptical rings out of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lunar area between arc radii*
+*Area of a crescent-shaped figure bounded by circular arcs*
 
 ![[src_gas_2009_finale__prob11.png]]
 
-> Legend has it that the night of the Battle of Puntor was illuminated by a moon shaped like the area enclosed between the arc of circumference AB, BD, DC and CA, where: AB is a semicircular point L; C and D are such that BC and AD are as long as AB and pass through L; BD, DC and CA arcs have a center in A, L and B respectively. (See figure.) If AB measured 46 km, how much was the area enclosed by the moon, in square kilometers? . ..A . .B . .L . .D ..C
+> The Moon of Battle
+> Legend has it that on the night of the Battle of Puntor, the night was illuminated by a moon shaped like the region enclosed by the circular arcs AB, BD, DC, and CA, where: AB is a semicircle with midpoint L; C and D are such that BC and AD are as long as AB and pass through L; the arcs BD, DC, and CA have centers at A, L, and B, respectively. (See figure.) If AB measured 46 km, what was the area enclosed by the moon, in square kilometers? . ..A . .B . .L . .D ..C
 
-**Answer:** 0444
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2009_finale#q11|src_gas_2009_finale__Q11]]
 
 
 
@@ -418,13 +484,19 @@ The probability of extracting exactly 2 elliptical rings out of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Track speed, distance to reach*
+*Pursuit with intermittent speed, distance at interception*
 
-> The Orcs kidnapped Morry and Polino at 3 p.m. yesterday afternoon and set off at full speed to Isengraf, 234 miles away. Areagorn, Legalois and Gim-Lie discovered the traces of the abduction only this morning at 9am and immediately began their pursuit, starting from the same spot. Orcs have a very irregular gait, which depends on the sun and their fatigue. At 15 they leave at full speed, at 3 miles per hour and manage to keep this pace for 6 hours; then they slow down to 1.8 mi/h for the next 6 hours; then again they descend to 1.2 mi/h for the 6 hours
-> 
-> Team competition 2009  National final  Problem texts  Pag. 3 out of 4 follow and finally stop trying to rest for another 6 hours, starting again at the end of the cycle. Our heroes, on the other hand, run at a regular pace of 2 mph for 24 hours, at the end of which they slow down marching at 1.5 mph for the next 24 hours to rest a bit, then be ready to start running again, and so on. Knowing that there are 80 chains in a mile, how many chains from Isengraf do our people finally reach the orcs? (Answer 0000 if they don't make it in time.)
+> The Chase
+> Yesterday afternoon at 3 p.m., the orcs abducted Morry and Polino and set off at full speed toward Isengraf, which is 234 miles away. Areagorn, Legalois, and Gim-Lie only discovered the traces of the abduction this morning at 9 a.m. and immediately set off in pursuit, starting from the same point. The orcs' pace is very irregular and depends on the sun and their fatigue. At 3 p.m., they set off at full speed—3 miles per hour—and manage to maintain this pace for 6 hours; then they slow down to 1.8 mph for the next 6 hours; then they drop to 1.2 mph for 6 hours.
+>
+> 2009 Team Competition – National Final – Problem Statements – Page 3 of 4
+> ...the following, and finally they stop, exhausted, to rest for another 6 hours, then start over at the end of the cycle. Our heroes, by contrast, keep running at a steady pace of 2 mi/h for a full 24 hours; at the end of that period, they slow down and walk at 1.5 mi/h for the next 24 hours to get a little rest, and then are ready to start running again, and so on. Knowing that there are 80 chains in a mile, how many Isengraf chains have our heroes run by the time they finally reach the orcs? (Answer 0000 if they don't make it in time.)
 
-**Answer:** 4320
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gas_2009_finale#q12|src_gas_2009_finale__Q12]]
 
 
 
@@ -454,11 +526,17 @@ The probability of extracting exactly 2 elliptical rings out of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different angles in seconds between two isosceles triangles*
+*Difference in angles, in arcseconds, between two isosceles triangles*
 
-> Puntor peaks The profile of Puntor peaks consists of two isosceles triangles ABV1 and BCV2 of base AB, BC, with B mean point AC. We know that AC is 4572 meters long and that V1 and V2 are 8001 and 3429 meters from AC respectively. What is the absolute value of the difference \ V2AV1 −[ BV2C? (Remember that a second arc is an angle equal to 1/3600 degrees.)
+> The Peaks of Puntor
+> The profile of the peaks of Puntor consists of two isosceles triangles, ABV1 and BCV2, with bases AB and BC, where B is the midpoint of AC. We know that AC is 4572 metres long and that V1 and V2 are respectively 8001 and 3429 metres away from AC. What is the absolute value of the difference ∠V2AV1 − ∠BV2C, in arcseconds? (Recall that one arcsecond is an angle equal to 1/3600 of a degree.)
 
-**Answer:** 0000
+**Topic:** [[topic_trigonometria|Trigonometric techniques]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2009_finale#q13|src_gas_2009_finale__Q13]]
 
 
 
@@ -488,11 +566,17 @@ The probability of extracting exactly 2 elliptical rings out of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum square and triangular number greater than 1000*
+*Smallest number that is both square and triangular and greater than 1000*
 
-> Weighed reinforcements Areagorn must seek to increase the company's army, and asks for reinforcements from Divisor, Regent of Minas Torith, famous for his parsimony. Areagorn says to Divisor, "I need at least 1,000 of your men. Their number has to be a perfect square, so I'd like to square them, but I'd like to be able to square them in a triangle. In the n-eighth exactly n). Divisor thinks about it a little bit and then he answers: All right, they shouldn't be too many, I'll give you the minimum necessary! How many warriors will Divisor send?
+> Weighted reinforcements
+> Areagorn must try to enlarge the company's army and asks Divisor, the regent of Minas Torith and famed for his frugality, for reinforcements. Areagorn says to Divisor: "I need at least 1000 of your men. Their number must be a perfect square, because I'd like to arrange them in a square formation, but I'd also like to be able to arrange them in a triangular formation (in the first row, a single warrior; in the second row, 2; in the third, 3... in the n-th row, exactly n)." Divisor thinks for a while and then replies: "All right, they shouldn't be too many—I'll give you the absolute minimum needed!" How many warriors will Divisor send?
 
-**Answer:** 1225
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2009_finale#q14|src_gas_2009_finale__Q14]]
 
 
 
@@ -522,11 +606,17 @@ The probability of extracting exactly 2 elliptical rings out of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last number of the triangle of power sums of 2009*
+*Last term of the triangle of sums of powers of 2009*
 
-> To decorate the book that tells of his adventures, Bobo decided to write on the first line of the last page the numbers 20090,20091,20092,...,20092009. Moving to the bottom line, below each pair of numbers in the top line he writes their sum, then moves to the next line proceeding the same way and continues that way until he gets a single number. What's the last number? (If the quantity requested is an integer greater than 9999, please provide the last 4 digits as a result.)
+> The Numbers in the Book
+> To decorate the book that recounts his adventures, Bobo has decided to write the numbers 20090, 20091, 20092, ..., 20092009 on the first line of the last page. Moving to the line below, he writes the sum of each pair of numbers from the line above beneath that pair; then he moves to the next line and proceeds in the same way, continuing like this until a single number is obtained. What is the final number? (If the required quantity is an integer greater than 9999, give the last 4 digits as the result.)
 
-**Answer:** 0000
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2009_finale#q15|src_gas_2009_finale__Q15]]
 
 
 
@@ -553,11 +643,17 @@ The probability of extracting exactly 2 elliptical rings out of 3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Long side of a rectangle of 10! Tickets with a ratio close to 11/17*
+*Long side of a rectangle of 10! tiles with a ratio close to 11/17*
 
-> The mosaic In the house of El-Romb there is a very large hall where you intend to make a giant mosaic, a rectangle of 10! identical square cards. You'd like the sides of the mosaic to be as close to 9/11 as possible. How many cards do you have to measure the long side?
+> The mosaic
+> In El-Romb's house, there is a very large room where a gigantic mosaic is intended to be created—a rectangle made up of 10! identical square tiles. It is desired that the sides of the mosaic be in a ratio as close as possible to 11/17. How many tiles must the long side measure?
 
-**Answer:** 2400
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2009_finale#q16|src_gas_2009_finale__Q16]]
 
 
 
@@ -587,11 +683,17 @@ Long side of a rectangle of 10! Tickets with a ratio close to 11/17*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of walks on a lattice at a distance of 5 to 7 steps*
+*Number of lattice paths at distance 5 after 7 steps*
 
-> Gaussdalf lost in Toria Proved by the fight with the balrog, Gaussdalf wanders confused in the mines of Toria. Every day, for 7 consecutive days, he moves from a tunnel to the north, south, east or west (and throughout the day he walks in the same direction). All the tunnels have the same length, i.e. 1 league. At the end of the seventh day, he uses a spell that allows him to find out how far he has traveled in a straight line from where he left the first day. Knowing that Gaussdalf is five leagues from where he left off, how many different roads could he have walked?
+> Gaussdalf, lost in Toria
+> Exhausted by his battle with the Balrog, Gaussdalf wanders aimlessly through the mines of Toria. Each day, for 7 consecutive days, he moves through one tunnel in a northerly, southerly, easterly, or westerly direction (and throughout the day he walks in the same direction). All the tunnels are the same length—namely, 1 league. At the end of the seventh day, he uses a spell that lets him find out how far he has traveled in a straight line from the point from which he set off on the first day in question. Knowing that Gaussdalf is 5 leagues from where he started, how many different routes could he have taken?
 
-**Answer:** 0476
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2009_finale#q17|src_gas_2009_finale__Q17]]
 
 
 
@@ -619,11 +721,17 @@ Long side of a rectangle of 10! Tickets with a ratio close to 11/17*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most parallel-piped volume with linear boundary on the sides*
+*Maximum-volume parallelepiped with a linear constraint on the edges*
 
-> The Orcs are building the towers to besiege the fortress of Minas Torith. To make them, some parallel-piped bricks are used. They don't know the dimensions of the sides, but they know that if you add the length by 3 times the width and 9 times the height you get the measurement of 171 cm. What is the maximum volume of each brick in cubic centimetres?
+> Preparing the siege
+> The orcs are building turrets to besiege the fortress of Minas Torith. To make them, they are using some right rectangular parallelepiped-shaped bricks. They do not know the dimensions of the sides, but they know that if the length is added to 3 times the width and 9 times the height, the result is 171 cm. What is the maximum volume of each brick in cubic centimeters?
 
-**Answer:** 6859
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gas_2009_finale#q18|src_gas_2009_finale__Q18]]
 
 
 
@@ -653,13 +761,20 @@ Long side of a rectangle of 10! Tickets with a ratio close to 11/17*
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to wear 7 rings on 8 fingers in order*
+*Ways of wearing 7 rings on 8 fingers in order*
 
-> Evil Tauron, blinded by the craving for power, tells the story of how he can wear the seven rings of the dwarves on the eight surviving fingers of his hands. For each of these ways, he notes how many and which
-> 
-> go on which finger and in which order. How many different ways will it count? (If the quantity requested is an integer greater than 9999, please provide the last 4 digits as a result.)
+> Sette to the Principles of the Dwarves
+> The wicked Tauron, blinded by his thirst for power, counts the ways in which he can wear the dwarves' 7 rings on the 8 remaining fingers of his hands. For each of these ways, he notes how many and which ones.
+>
+> Page 4 of 4 – Team Competition 2009 – National Final – Problem Statements
+> Which finger do the rings go on, and in what order? How many different ways will there be? (If the required quantity is an integer greater than 9999, provide the last 4 digits as the result.)
 
-**Answer:** 7280
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gas_2009_finale#q19|src_gas_2009_finale__Q19]]
 
 
 
@@ -686,11 +801,17 @@ How to wear 7 rings on 8 fingers in order*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of rectangular pyramid with dihedral angle of 120 degrees*
+*Volume of a right square pyramid with a dihedral angle of 120 degrees*
 
-> The Pyramid of Banach-Alaoglu The Pyramid of Banach-Alaoglu, legendary ruler of the Orcs, is a rectangular pyramid with a square base of side 36 meters. Knowing that two adjacent faces of the lateral surface form a 120-degree angle, what is the volume of the pyramid, in cubic meters?
+> The Banach-Alaoglu pyramid
+> The pyramid of Banach-Alaoglu, the legendary sovereign of the orcs, is a right square-based pyramid with a side length of 36 meters. Given that two adjacent faces of the lateral surface form an angle of 120 degrees, what is the volume of the pyramid in cubic meters?
 
-**Answer:** 7776
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2009_finale#q20|src_gas_2009_finale__Q20]]
 
 
 
@@ -722,11 +843,17 @@ How to wear 7 rings on 8 fingers in order*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum unused card for rectangular cube development*
+*Minimum unused card for developing a cube from a rectangle*
 
-> Cubbit The gobbits like to do small jobs with paper. Sam got himself a rectangular sheet from an area of 1 square meter and wants to make a cube of it. To be precise, he wants to cut from the sheet a single piece of 6 equal squares, joined together by one or more sides, which represents a plane development of the cube, that is, that folded appropriately between one square and the other, forms the surface of a cube (each square must become a face of the cube). Sam knows his facts, so he made sure that the proportions between the two sides of the rectangle are such that we can get, at parity of surface, the largest cube possible. How many square inches of paper are still unused, at least?
+> Cubbit
+> Kids love doing small paper projects. Sam has obtained a rectangular sheet with an area of 1 square meter and wants to make a cube from it. More precisely, he wants to cut a single piece from the sheet, made up of 6 identical squares joined to one another along one or more sides, such that the piece represents a net of the cube—that is, when folded appropriately between one square and another, it forms the surface of a cube (each square must become a face of the cube). Sam knows his stuff, so he has made sure that the proportions between the two sides of the rectangle are such that, for the same area, the largest possible cube can be obtained. At minimum, how many square centimeters of paper still go unused?
 
-**Answer:** 4000
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2009_finale#q21|src_gas_2009_finale__Q21]]
 
 
 
@@ -758,11 +885,17 @@ How to wear 7 rings on 8 fingers in order*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of steps down the stairs by halving and divider*
+*Number of steps descending stairs, halving and using as divisor*
 
-> The dark tower The tower of Tauron has 29! The stairs. The lowest of the orchestral servants, who is on the top ladder, is taking orders directly from the Dark Lord, and must transmit them down to various lieutenants throughout the tower. It starts by descending the exact half of the steps, where it finds a first lieutenant; from here on, whenever it speaks to a lieutenant on the k-eighth ladder, he orders it to descend from d other stairs, where d is the largest divisor of k distinct from k itself. When he finally reached the first step, he exchanged two words with the second lieutenant and then stroked the ground. How many lieutenants did the orchestra talk to before it hit the ground?
+> The Dark Tower
+> Tauron's tower has 29 steps! The lowliest of orc servants, who is on the top step, is taking orders directly from the Dark Lord and must pass them down to various lieutenants throughout the tower. He starts by descending exactly half of the steps, where he finds a first lieutenant; from then on, whenever he speaks with a lieutenant on the k-th step, that lieutenant orders him to descend d more steps, where d is the greatest divisor of k other than k itself. Finally reaching the first step, he exchanges a few words with the n-th lieutenant and then collapses to the ground, exhausted. How many lieutenants will the orc have spoken with before collapsing to the ground?
 
-**Answer:** 0130
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2009_finale#q22|src_gas_2009_finale__Q22]]
 
 
 
@@ -790,11 +923,17 @@ How to wear 7 rings on 8 fingers in order*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Differential square triangle areas by length polynomials*
+*Difference of squares of areas of triangles from polynomials of lengths*
 
-> The polynomial triangular flag The polynomial triangular flag V1, made by Gaussdalf to protect the kingdom of humans, depicts a triangle T1 with sides of length 440, 444, 448, the monic polynomial of third degree P1(x), which has as its roots the lengths of the sides of T1, and the magic number q1, equal to the square of the area of T1. The enemy flag V2, made by the evil Tauron, has the same characteristics, but instead of P1(x) the polynomial P2(x) = P1(x) +1 associated with the tetra triangle T2 appears. How much is q2 minus q1?
+> The Polynomial Triangular Banner
+> The polynomial triangular banner V1, created by Gaussdalf to protect the realm of humans, depicts a triangle T1 with sides of lengths 440, 444, and 448; the monic cubic polynomial P1(x), whose roots are precisely the side lengths of T1; and the magic number q1, equal to the square of the area of T1. The enemy banner V2, created by the evil Tauron, has the same characteristics, but in place of P1(x) appears the polynomial P2(x) = P1(x)+1 associated with the gloomy triangle T2. What is the value of q2 − q1?
 
-**Answer:** 0666
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_gas_2009_finale#q23|src_gas_2009_finale__Q23]]
 
 
 
@@ -837,10 +976,16 @@ How to wear 7 rings on 8 fingers in order*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of n with full nested radical expression*
+*Number n with an entire nested radical expression*
 
-> Ghost reinforcements Areagorn must try to increase the company's army further, and this time he asks for reinforcements from the undead. Sadly, the head of the army of the undead, a mathematician, proposes to Areagorn to give him a warrior for every natural number n such that the number 41q√n+p n+20092009 is whole. How many undead will the company have? With the cooperation of
-> 
-> . . I 'm not . Competition in teams .2 .9 X GARA NATIONAL A SQUADER Final national  Solution  9 May 2009 Nr. The problem
+> Phantasmagoric reinforcements
+> Areagorn must try to further enlarge the company's army, and this time he is asking the undead for reinforcements. Sadistically, the leader of the undead army, who is passionate about mathematics, proposes to Areagorn that he be given one warrior for each natural number n such that the number 41q√n + p n + 20092009 is an integer. How many undead will the company have at its disposal? With the collaboration of
+>
+> . . Cesenatico . Team Competition .2 .9 X NATIONAL TEAM COMPETITION National Final – SOLUTIONS – 9 May 2009 No. Problem
 
-**Answer:** 2475
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gas_2009_finale#q24|src_gas_2009_finale__Q24]]

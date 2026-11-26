@@ -29,9 +29,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo intero positivo che è doppio di un cubo e quintuplico di un quadrato*
+*Il più piccolo intero positivo che è il doppio di un cubo e il quintuplo di un quadrato*
 
-> Qual è il numero intero positivo più piccolo che è sia il doppio di un cubo perfetto che il quintuplico di un quadrato perfetto?
+> Qual è il più piccolo intero positivo che sia sia il doppio di un cubo perfetto sia il quintuplo di un quadrato perfetto?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n2_f2#q01|src_obm_2000_n2_f2__Q01]]
 
 
 
@@ -56,11 +63,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le scatole rettangolari distinte costruite a partire da 216 cubi di unità*
+*Conta i parallelepipedi rettangoli distinti costruiti con 216 cubi unitari*
 
-> In quanti modi diversi possiamo costruire una scatola rettangolare (paralelepiped) utilizzando esattamente 216 blocchi cubi di dimensioni $1 \times 1 \times 1$?
-> 
-> **Nota:** Le scatole di dimensioni $2 \times 3 \times 36$ e $2 \times 36 \times 3$ devono essere considerate uguali.
+> In quanti modi diversi possiamo costruire un parallelepipedo rettangolo utilizzando esattamente 216 blocchi cubici di dimensioni $1 \times 1 \times 1$?
+>
+> **Note:** Le scatole di dimensioni $2 \times 3 \times 36$ e $2 \times 36 \times 3$ devono essere considerate identiche.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n2_f2#q02|src_obm_2000_n2_f2__Q02]]
 
 
 
@@ -87,13 +101,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Find angle EGB in rettangolo dato angolo FAE = 20°*
+*Trovare l'angolo EGB nel rettangolo, dato che l'angolo FAE = 20°*
 
 > Nel rettangolo $ABCD$, $E$ è il punto medio del lato $BC$ e $F$ è il punto medio del lato $CD$. $G$ è l'intersezione della diagonale $DE$ con il segmento $FB$.
-> 
-> L'angolo $\widehat{FAE}$ misura $20^\circ$. Trova l'angolo $\widehat{EGB}$.
+>
+> L'angolo $\widehat{FAE}$ misura $20^\circ$. Trovare l'angolo $\widehat{EGB}$.
 
 ![[src_obm_2000_n2_f2__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2000_n2_f2#q03|src_obm_2000_n2_f2__Q03]]
 
 
 
@@ -120,13 +141,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il lato del quadrato I in rettangolo diviso in 9 quadrati con quadrato A con lato 1*
+*Trovare il lato del quadrato I nel rettangolo diviso in 9 quadrati, con il quadrato A avente lato 1*
 
-> Un rettangolo è diviso in 9 quadrati $A, B, C, D, E, F, G, H, I$ (ordinato come mostrato). Il quadrato $A$ ha lunghezza laterale $1$.
-> 
-> Trova la lunghezza laterale del quadrato $I$.
+> Un rettangolo è diviso in 9 quadrati $A, B, C, D, E, F, G, H, I$ (disposti come mostrato). Il quadrato $A$ ha lato di lunghezza $1$.
+>
+> Trovare la lunghezza del lato del quadrato $I$.
 
 ![[src_obm_2000_n2_f2__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n2_f2#q04|src_obm_2000_n2_f2__Q04]]
 
 
 
@@ -149,9 +177,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca n e m dopo aver cancellato m da {1,...,n} lascia media 134/11*
+*Trovare n e m sapendo che, dopo aver rimosso m da {1,...,n}, la media risulta 134/11*
 
-> Elencare i numeri interi da $1$ a $n$. Da questo elenco cancellati il numero intero $m$. La media dei restanti numeri $n - 1$ è uguale a $\dfrac{134}{11}$. Trova $n$ e $m$.
+> Elenca gli interi da $1$ a $n$. Da questo elenco cancelliamo l'intero $m$. La media dei restanti $n - 1$ numeri è uguale a $\dfrac{134}{11}$. Trovare $n$ e $m$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n2_f2#q05|src_obm_2000_n2_f2__Q05]]
 
 
 
@@ -178,10 +213,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Campionato di calcio: trovare i punti minimi del secondo turno che garantiscano alla Vulcano FC una finale*
+*Campionato di calcio: trova il numero minimo di punti nel secondo turno che garantisca al Vulcano FC la finale*
 
-> Il campionato venese di calcio è giocato da 10 squadre in due round. In ogni round, ogni squadra gioca una volta contro ciascuna delle altre squadre. Supponiamo che $Vulcano$ $FC$ vinca tutte le partite nel primo round. Se non vince il secondo round, $Vulcano$ $FC$ giocherà una finale contro il vincitore del secondo round (una vittoria vale 3 punti, un pareggio 1 punto, una sconfitta 0 punti).
-> 
-> a) Trovare il minimo $n$ in modo tale che, se $Vulcano$ $FC$ punta ** esattamente ** $n$ punti nel secondo round (indipendentemente da chi sono gli avversari e chi altro punta $n$ punti), sia garantito di raggiungere la finale (indipendentemente da chi punta $n$ punti tra gli avversari).
-> 
-> b) Trovare il minimo $n$ in modo tale che, se $Vulcano$ $FC$ ottiene ** almeno ** $n$ punti nel secondo round (indipendentemente da chi sono gli avversari e chi altro ottiene almeno $n$ punti), sia garantito il raggiungimento della finale (indipendentemente da chi ottiene almeno $n$ punti tra gli avversari).
+> Il campionato venusiano di calcio è disputato da 10 squadre in due gironi. In ciascun girone, ogni squadra affronta una volta ciascuna delle altre squadre. Supponiamo che $Vulcano$ $FC$ vinca tutte le partite del primo girone. Se non vincerà il secondo girone, $Vulcano$ $FC$ disputerà una finale contro la vincitrice del secondo girone (una vittoria vale 3 punti, un pareggio 1 punto, una sconfitta 0 punti).
+>
+> a) Trova il più piccolo $n$ tale che, se $Vulcano$ $FC$ totalizza **esattamente** $n$ punti nel secondo turno (indipendentemente da chi siano gli avversari e da chi altro totalizzi $n$ punti), sia garantito che raggiunga la finale (indipendentemente da chi, tra gli avversari, totalizzi $n$ punti).
+>
+> b) Trova il più piccolo $n$ tale che, se $Vulcano$ $FC$ totalizza **almeno** $n$ punti nel secondo turno (indipendentemente da chi siano gli avversari e da chi altro totalizzi almeno $n$ punti), sia garantito che raggiunga la finale (indipendentemente da chi, tra gli avversari, totalizzi almeno $n$ punti).
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n2_f2#q06|src_obm_2000_n2_f2__Q06]]

@@ -32,13 +32,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of problems for five categories with scoring constraints*
+*Minimum number of problems for five categories with score constraints*
 
-> In the Mirabilandia final, six problems are proposed for each of the five categories, one for each of the following scores: 5, 7, 11, 14, 18 and 22. Of course, in each category the six problems must all be different, but the same problem can be assigned to more than one category. Please note, however, that if a problem provides a certain score in a category and also appears in a higher category, it must provide a lower score in the latter category.
-> 
-> The organising committee wants to prepare as few problems as possible. What's this number?
+> At the Mirabilandia final, for each of the five categories, six problems are proposed—one for each of the following scores: 5, 7, 11, 14, 18, and 22. Naturally, within each individual category, all six problems must be different from one another, but the same problem can be assigned to more than one category. Keep in mind, however, that if a problem yields a certain score in one category and also appears in a higher category, then in that higher category it must yield a lower score.
+>
+> The organizing committee wants to prepare as few problems as possible. What is this number?
 
-**Answer:** 10
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_cadet_finale#qc1|src_kangourou_2011_cadet_finale__QC1]]
 
 
 
@@ -62,11 +67,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum difference between numbers with sum of digits divisible by 5*
+*Minimum difference between numbers whose digit sum is divisible by 5*
 
-> Imagine a list in which all positive integers appear in increasing order the sum of whose digits is divisible by 5 (the list will begin as follows: 5, 14, 19, 23, ...). What is the smallest possible difference between a number and the one before it in this list?
+> Imagine a list in which all positive integers whose digit sum is divisible by 5 appear in ascending order (so the list will begin like this: 5, 14, 19, 23, …). What is the smallest possible difference between a number and the number that precedes it in this list?
 
-**Answer:** 1
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_cadet_finale#qc2|src_kangourou_2011_cadet_finale__QC2]]
 
 
 
@@ -89,11 +99,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum length of wire per cylinder encountered by each generator*
+*Minimum thread length on the cylinder that meets each generating line*
 
-> A straight circular cylinder has bases of radius 1 cm and a height of 4 cm. The $P$ and $Q$ points, respectively on the lower and upper base, are on the same generator (each line perpendicular to the bases that intersects the cylinder's side surface is called a 'generator'). A wire has one end in $P$ and the other in $Q$ and meets each generator at least once. What is the minimum possible length of the wire?
+> A right circular cylinder has bases with radius 1 cm and a height of 4 cm. Points $P$ and $Q$, lying respectively on the lower base and the upper base, lie on the same generator (a "generator" is any straight line perpendicular to the bases that intersects the lateral surface of the cylinder). A string has one end at $P$ and the other at $Q$, and it meets each generator at least once. What is the minimum possible length of the string?
 
-**Answer:** 2pi*sqrt rect diag
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_cadet_finale#qc3|src_kangourou_2011_cadet_finale__QC3]]
 
 
 
@@ -116,11 +130,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who skips a pit circuit without falling and why
+*Who jumps a moated circuit without falling, and why?*
 
-> Ada, Bruna, and Carla jump on their own jumper whose base is practically a point. Each of them always jumps the same length; the lengths are 70, 80 and 85 cm respectively. They all follow, starting at the same point and moving in the same direction, a 400-meter-long circular circuit, which is traversed by a 73-cm-wide moat. It happens that only one of them can make two complete laps of the circuit without falling into the ditch: who and why? (The lengths of the jumps and the width of the trench are to be measured on circuit arcs, not on chords.)
+> Ada, Bruna, and Carla each jump on their own jumper, whose base is practically a point. Each of them makes jumps of always the same length; the lengths are 70, 80, and 85 cm, respectively. Starting from the same point and moving in the same direction, they all follow the same circular circuit 400 metres long, which is crossed by a ditch 73 cm wide. It happens that only one of them manages to complete 2 full laps of the circuit without falling into the ditch: who is it, and why? (The jump lengths and the width of the ditch are to be understood as measured along arcs of the circuit, not along chords.)
 
-**Answer:** Bruna
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_cadet_finale#qc4|src_kangourou_2011_cadet_finale__QC4]]
 
 
 
@@ -151,17 +169,23 @@ Who skips a pit circuit without falling and why
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number of C always equal*
+*C number always the same*
 
 ![[src_kangourou_2011_cadet_finale__probc5.png]]
 
-> You have a grid. You want to insert in each box one and only one of the letters $A$, $B$, $C$ so that:
-> 
-> - in each row the number of boxes with the letter $A$ is not less than the number of boxes with the letter $B$ and the number of boxes with the letter $C$; - in each column the number of boxes with the letter $B$ is not less than the number of boxes with the letter $A$ and the number of boxes with the letter $C$.
-> 
-> Show that you can achieve the goal in different ways, but that the number of boxes with the letter $C$ is always the same. What is it? Why?
+> You have a $7 \times 7$ grid. You want to put one and only one of the letters $A$, $B$, $C$ into each cell so that:
+>
+> - in each row, the number of cells containing the letter $A$ is not less than the number of cells containing the letter $B$ and not less than the number of cells containing the letter $C$;
+> - in each column, the number of cells containing the letter $B$ is not less than the number of cells containing the letter $A$ and not less than the number of cells containing the letter $C$.
+>
+> Show that you can achieve the goal in several ways, but that the number of cells containing the letter $C$ is always the same. What is it? Why?
 
-**Answer:** 7
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_cadet_finale#qc5|src_kangourou_2011_cadet_finale__QC5]]
 
 
 
@@ -185,8 +209,13 @@ Who skips a pit circuit without falling and why
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many distinct values of the sum of the perimeters of 4 triangles area 1/4*
+*How many distinct values does the sum of the perimeters of 4 triangles of area 1/4 have?*
 
-> There are several ways of dividing a square of side 1 into 4 triangles each of area $\frac{1}{4}$ (by "divide" we mean to decompose without overlaps except, possibly, of sides). The sum of the perimeters of the triangles may vary as the modes vary. How many different possible values can this sum assume? Justify the answer in the most comprehensive way possible.
+> There are several ways to partition a square of side length 1 into 4 triangles, each of area $\frac{1}{4}$ (by "partition" is meant to decompose without overlaps except, possibly, along edges). As the ways vary, the sum of the perimeters of the triangles may vary. How many distinct possible values can this sum take? Justify the answer as thoroughly as possible.
 
-**Answer:** 5
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_cadet_finale#qc6|src_kangourou_2011_cadet_finale__QC6]]

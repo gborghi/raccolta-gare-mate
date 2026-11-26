@@ -35,9 +35,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum 1..2024 with a number skipped, multiple of 5*
+*Sum 1..2024 with a skipped number, multiple of 5*
 
-> What convex angle do the two hands of a clock form at 1:20 (assuming they both move at a constant speed)?
+> What convex angle do the two hands of a clock form at 1:20
+> (assuming both move at constant speed)?
 >
 > - **(A)** 75°
 > - **(B)** 80°
@@ -45,7 +46,9 @@ level: triennio
 > - **(D)** 72°
 > - **(E)** 84°
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_archimede_2024_triennio#q01|src_archimede_2024_triennio__Q01]]
 
 
 
@@ -79,9 +82,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Knights and crooks, minimum points of advantage of the winner*
+*Knights and villains, minimum winning margin of votes*
 
-> Roberta has many colored tickets, each contained in a pocket: 22 are red, 17 are green, 13 are yellow, 20 are blue. He picks up some pockets at random, without opening them (the colours of the tickets are not visible from the outside). How many tickets do you have to take at least to make sure you find at least 3 tickets of one color and 3 tickets of another color (different from the first)?
+> Roberta has many coloured tickets, each contained inside an envelope: it is known that 22 are red, 17 green, 13 yellow, 20 blue. She takes some envelopes at random, without opening them (the colours of the tickets cannot be seen from the outside). How many must she take, at minimum, to be certain of finding at least 3 tickets of one colour and another 3 of a different colour?
 >
 > - **(A)** 29
 > - **(B)** 16
@@ -89,7 +92,11 @@ level: triennio
 > - **(D)** 25
 > - **(E)** 27
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2024_triennio#q02|src_archimede_2024_triennio__Q02]]
 
 
 
@@ -120,9 +127,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total pairs (m,n) which solve n^2+2024n+2024m=2024*
+*Integer pairs (m,n) solving n^2+2024n+2024m=2024*
 
-> Carla, with a lot of patience, is typing out the number 1000300 + 759. How many digits will he have to write in all?
+> Carla, with great patience, is writing out in full the number
+> 1000300 + 759.
+> How many digits will she have to write in total?
 >
 > - **(A)** 959
 > - **(B)** 300
@@ -130,7 +139,10 @@ level: triennio
 > - **(D)** 3059
 > - **(E)** 901
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2024_triennio#q03|src_archimede_2024_triennio__Q03]]
 
 
 
@@ -163,9 +175,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular triangle, circumscribed circumference, measurement of PA*
+*Right triangle, circumscribed circle, measure PA*
 
-> In the isosceles triangle DEF, where DE = EF, the angle  E is 32°. The height from D and the beam from F intersect at point I. What is the width of the convex angle  DIF ?
+> In the isosceles triangle DEF, where DE = EF, the angle “E is 32°.
+> The altitude from D and the bisector from F intersect at point I.
+> What is the measure of the convex angle ’DIF?
 >
 > - **(A)** 129°
 > - **(B)** 126°
@@ -173,7 +187,10 @@ level: triennio
 > - **(D)** 127°
 > - **(E)** 130°
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_triennio#q04|src_archimede_2024_triennio__Q04]]
 
 
 
@@ -205,9 +222,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interi k with q(k) = 0 for composition 2024 times p(x)*
+*Integers k with q(k)=0 for 2024-fold composition of p(x)*
 
-> Philip would like to write in decimal form the fraction 8 13 . What number will take the thousandth place after the comma?
+> Filippo would like to write the fraction 8/13 as a decimal number. Which digit will occupy the thousandth place after the decimal point?
 >
 > - **(A)** 6
 > - **(B)** 1
@@ -215,7 +232,11 @@ level: triennio
 > - **(D)** 5
 > - **(E)** 8
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2024_triennio#q05|src_archimede_2024_triennio__Q05]]
 
 
 
@@ -250,9 +271,12 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of 18000 divisors whose writing ends in 50*
+*Sum of divisors of 18000 whose decimal representation ends in 50*
 
-> Indicate the sum of all real numbers x for which the equality 2x + 1 · 4x2 −7x −10 · (x3 −2)4 + 1 = 0
+> State what is the sum of all real numbers x for which the equality
+> 2x + 1 · 4x2 −7x −10
+> (x3 −2)4 + 1
+> = 0
 >
 > - **(A)** 0
 > - **(B)** 5 4
@@ -260,7 +284,11 @@ level: triennio
 > - **(D)** 9 4
 > - **(E)** −1 2
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_triennio#q06|src_archimede_2024_triennio__Q06]]
 
 
 
@@ -299,7 +327,14 @@ level: triennio
 
 *Three points in space, existence of P with perpendicular lines*
 
-> Elisa drew a pyramid like the one right next to it. In the boxes below, you will write five numbers chosen from 1, 2, 3, 4, 5, 6 (five different numbers, in any order). Then fill in the other boxes by writing in each of them the sum of the two numbers below. What is the difference between the largest number and the smallest number Elisa could write in the box at the top of the pyramid?
+> Elisa has drawn a pyramid like the one beside.
+> In the boxes at the bottom she will write five numbers chosen from 1,
+> 2, 3, 4, 5, 6 (five different numbers, in any order).
+> Then she will fill in the other boxes by writing in each
+> of them the sum of the two numbers below it.
+> What is the
+> difference between the largest and the smallest
+> number Elisa could write in the box at the top of the pyramid?
 >
 > - **(A)** 48
 > - **(B)** 36
@@ -307,7 +342,11 @@ level: triennio
 > - **(D)** 42
 > - **(E)** 52
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_triennio#q07|src_archimede_2024_triennio__Q07]]
 
 
 
@@ -338,9 +377,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum b with square shape a/x^2+b/xy+c/y^2 not negative*
+*Massimo b con forma quadratica a/x^2+b/xy+c/y^2 non negativa*
 
-> How many of the whole numbers from 1 to 2024 are simultaneously multiples of both 21 and 28, but not multiples of 15?
+> How many of the integers from 1 to 2024 are, at the same time, multiples of both 21 and 28, but are not multiples of 15?
 >
 > - **(A)** 20
 > - **(B)** 23
@@ -348,7 +387,11 @@ level: triennio
 > - **(D)** 21
 > - **(E)** 19
 
-**Answer:** C
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2024_triennio#q08|src_archimede_2024_triennio__Q08]]
 
 
 
@@ -380,9 +423,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*5x5 colours red/blue with binding on the shared sides*
+*5x5 red/blue colourings with a shared-side constraint*
 
-> Julius is looking for integers n such that the absolute value of (n −2)(n −20) is a prime number. What's the sum of all these n numbers?
+> Giulio is looking for the integers n such that the absolute value of
+> (n −2)(n −20)
+> is a prime number. What is the sum of all these numbers n?
 >
 > - **(A)** 36
 > - **(B)** 40
@@ -390,7 +435,11 @@ level: triennio
 > - **(D)** 21
 > - **(E)** 44
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2024_triennio#q09|src_archimede_2024_triennio__Q09]]
 
 
 
@@ -423,9 +472,12 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final figures 0 for the maximum product of distinct integers sum 2024*
+*Final 0 digits of the maximum product of distinct integers summing to 2024*
 
-> Paola has to reset her cell phone's pin, which consists of a 4-digit sequence (each of which can be any number from 0 to 9). To memorize it, it'll make sure you have exactly two different digits. How many pins does Paola have at her disposal?
+> Paola must reset her cell phone pin, consisting of a sequence of 4 digits
+> (each of which can be any digit from 0 to 9). To memorize it,
+> she will make sure that exactly two different digits appear.
+> How many possible pins does Paola have available?
 >
 > - **(A)** 480
 > - **(B)** 560
@@ -433,7 +485,11 @@ level: triennio
 > - **(D)** 630
 > - **(E)** 720
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2024_triennio#q10|src_archimede_2024_triennio__Q10]]
 
 
 
@@ -482,9 +538,29 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Insert 1.10 in 13 vertical-ordered boxes*
+*Insert 1..10 in 13 boxes with a vertical ordering constraint*
 
-> In the rectangle ABCD, the points E, F, G, H, I, L divide the sides into 2 or 3 equal parts, as shown in the figure. The areas of the OIL, ODE, OAF triangles (expressed in mm2) are those shown in the figure. How many mm2 is the area of the OGH triangle ? O A B C D E F G H I L 14 17 11 ?
+> In rectangle ABCD, the points E, F, G, H, I, L
+> divide the sides into 2 or 3 equal parts, as
+> in the figure.
+> The areas of triangles OIL, ODE, OAF
+> (expressed in mm2) are those indicated in the figure.
+> What is the area of triangle OGH, in mm2?
+> O
+> A
+> B
+> C
+> D
+> E
+> F
+> G
+> H
+> I
+> L
+> 14
+> 17
+> 11
+> ?
 >
 > - **(A)** 8
 > - **(B)** 12
@@ -492,7 +568,10 @@ level: triennio
 > - **(D)** 11
 > - **(E)** 10
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_triennio#q11|src_archimede_2024_triennio__Q11]]
 
 
 
@@ -526,9 +605,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Region area within 3 from the circumscribed quadrilateral perimeter*
+*Area regione entro 3 dal perimetro di quadrilatero circoscritto*
 
-> There are 50 islands in a large lake, numbered from 2 to 51. Two different islands are connected by a bridge if and only if one of the respective numbers divides the other. For each island, its district consists of the island itself and all those from which it can be reached by a series of bridges. How many are in all the districts?
+> In a large lake there are 50 islands, numbered from 2 to 51. Two different islands are connected by a bridge if and only if one of their respective numbers divides the other. For each island, its district consists of the island itself and all those reachable from it via a sequence of bridges. How many districts are there in total?
 >
 > - **(A)** 6
 > - **(B)** 7
@@ -536,7 +615,11 @@ level: triennio
 > - **(D)** 2
 > - **(E)** 5
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_triennio#q12|src_archimede_2024_triennio__Q12]]
 
 
 
@@ -575,9 +658,18 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of union of two regular hexagons with parallel diagonals*
+*Area of the union of two regular hexagons with coincident diagonals*
 
-> The circumference ω passes through the vertex D of the rectangle ABCD and is tangent to the sides AB and BC at points P and Q. The AP and CQ segments measure, in the order, 3 m and 4 m. How many m2 does the area of the rectangle ABCD measure ? A B C D P Q ω
+> The circle ω passes through vertex D of rectangle ABCD and is tangent to sides AB and BC at points P and Q.
+> The segments AP and CQ measure, in order, 3 m and 4 m.
+> How many m2 is the area of rectangle ABCD?
+> A
+> B
+> C
+> D
+> P
+> Q
+> ω
 >
 > - **(A)** 72
 > - **(B)** 75
@@ -585,7 +677,10 @@ level: triennio
 > - **(D)** 84
 > - **(E)** 81
 
-**Answer:** 29
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_triennio#q13|src_archimede_2024_triennio__Q13]]
 
 
 
@@ -621,9 +716,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of 14-sided dice per spin*
+*Maximum number of distinct 14-faced dice up to rotation*
 
-> Sara wants to take a walk along the edge of a square-shaped park, whose sides measure one kilometer each. Starting from a vertex V, with a coin toss, you randomly choose which direction to go in and walk across an entire side of the square. Every time he reaches a peak, he makes a new coin toss to choose the direction. If the walk is four kilometers, what is the probability that it will end at the very summit V from which it started?
+> Sara wants to take a walk along the edge of a square park, whose sides measure 1 km each. Starting from a vertex V, with a coin toss she randomly chooses which direction to go and walks along a whole side of the square. Each time she reaches a vertex, she makes a new coin toss to choose the direction. If the walk is 4 km long, what is the probability that it ends exactly at the vertex V from which it started?
 >
 > - **(A)** 5/16
 > - **(B)** 1/8
@@ -631,7 +726,11 @@ level: triennio
 > - **(D)** 1/4
 > - **(E)** 3/8
 
-**Answer:** 26880
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2024_triennio#q14|src_archimede_2024_triennio__Q14]]
 
 
 
@@ -664,15 +763,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*a and a+b of the sample*
+*a|b and a+1|b+1, proof*
 
-> Alberto and Barbara make an iron-armed race this way: at the beginning they both have 1 point; at each challenge, the winner earns as many points as the opponent has at the time, while the loser maintains the score they had. After a number of challenges, Barbara has 9,000 points. Which of the following could be Alberto's score?
+> Alberto and Barbara have a tug-of-war contest in this way: at the start they both have 1 point; at each challenge, the winner gains as many points as the opponent has at that moment, while the loser keeps the score they had. After a certain number of challenges, Barbara has 9000 points. Which of the following could be Alberto's score?
 >
 > - **(A)** 5005
 > - **(B)** 4114
 > - **(C)** 3130
 > - **(D)** 3003
 > - **(E)** 7117
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2024_triennio#q15|src_archimede_2024_triennio__Q15]]
 
 
 
@@ -711,15 +816,27 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle, bisector and circumference, isosceles triangle and similarities*
+*Triangle, angle bisector and circles, isosceles triangle and similarities*
 
-> Considering a PQRS trapezoid, where the PQ side is parallel to RS, T is the point of the QS diagonal such that RT is parallel to SP. The areas of the QRT and RST triangles are measured in the order of 6 and 4 m2. How many m2 is the area of the entire PQRS trapezoid ? P Q R S T 6 4
+> Consider a trapezium PQRS, where side PQ is parallel to RS, and let T be the point on diagonal QS such that RT is parallel to SP. The areas of triangles QRT and RST measure, in order, 6 and 4 m2. How many m2 does the area of the whole trapezium PQRS measure?
+> P
+> Q
+> R
+> S
+> T
+> 6
+> 4
 >
 > - **(A)** 30
 > - **(B)** 35
 > - **(C)** 32
 > - **(D)** 36
 > - **(E)** 27 311
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2024_triennio#q16|src_archimede_2024_triennio__Q16]]
 
 
 
@@ -754,18 +871,24 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Subdivision of 0/1 strings into blocks, counting of strings*
+*Splitting 0/1 strings into blocks, counting strings*
 
-> **PROOF EXERCISE**
-> 
-> Given a string of digits 0 and 1, Giacomo would like to divide it into blocks of 2 or 3 consecutive digits in order to satisfy one of the following two conditions:
-> 
-> (1) in each block, each (if any) digit 0 appears to the left of each (if any) digit 1. The blocks allowed are $00, 01, 11, 000, 001, 011, 111$;
-> 
-> (2) in each block, each (if any) digit 0 appears to the right of each (if any) digit 1. The blocks allowed are $00, 10, 11, 000, 100, 110, 111$.
-> 
-> For example, for the $011011$ string the subdivision $01 \mid 10 \mid 11$ is not correct, because the blocks are neither all of type (1), nor all of type (2). The $011 \mid 011$ subdivision is good, because all blocks are type (1).
-> 
-> (a) $m, n$ integers greater than or equal to 0, with $m + n \geq 2$. Show that the string consisting of $m$ digits 0 followed by $n$ digits 1 can be divided into blocks as stated by James.
-> 
-> (b) either $l \geq 4$ as a whole. Demonstrate that the number of strings of digits 0 and 1 of length $l$ for which Giacomo **not** can perform a subdivision as above is $2^{l-3}$.
+> **DEMONSTRATION EXERCISE**
+>
+> Given a string of digits 0 and 1, Giacomo would like to split it into blocks of 2 or 3 consecutive digits so as to satisfy one of the following two conditions:
+>
+> (1) in each block, every (eventual) digit 0 appears to the left of every (eventual) digit 1. The allowed blocks are namely $00, 01, 11, 000, 001, 011, 111$;
+>
+> (2) in each block, every (eventual) digit 0 appears to the right of every (eventual) digit 1. The allowed blocks are namely $00, 10, 11, 000, 100, 110, 111$.
+>
+> For example, for the string $011011$ the split $01 \mid 10 \mid 11$ does not work, because the blocks are neither all of type (1) nor all of type (2). The split $011 \mid 011$ instead works, because all the blocks are of type (1).
+>
+> (a) Let $m, n$ be integers greater than or equal to 0, with $m + n \geq 2$. Prove that the string consisting of $m$ digits 0 followed by $n$ digits 1 can be split into blocks as Giacomo says.
+>
+> (b) Let $l \geq 4$ be an integer. Prove that the number of strings of digits 0 and 1 of length $l$ for which Giacomo **cannot** carry out a split as above is $2^{l-3}$.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2024_triennio#q17|src_archimede_2024_triennio__Q17]]

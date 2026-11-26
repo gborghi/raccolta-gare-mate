@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circonferenza circoscritta, assi perpendicolari, rette parallele in un triangolo*
+*Circocentro, assi dei lati, rette parallele nel triangolo*
 
-> Sia $\Gamma$ la circonferenza circoscritta al triangolo acutangolo $ABC$. Siano i punti $D$ e $E$ rispettivamente sui segmenti $AB$ e $AC$, in modo che $AD = AE$. Gli assi dei segmenti $BD$ e $CE$ intersecano gli archi minori $AB$ e $AC$ della circonferenza $\Gamma$ nei punti $F$ e $G$, rispettivamente. Si dimostri che le rette $DE$ e $FG$ sono parallele (o coincidono).
+> Sia $\Gamma$ la circonferenza circoscritta al triangolo acutangolo $ABC$. I punti $D$ e $E$ giacciono sui segmenti $AB$ e $AC$, rispettivamente, in modo che $AD = AE$. Le mediatrici di $BD$ e $CE$ intersecano gli archi minori $AB$ e $AC$ di $\Gamma$ nei punti $F$ e $G$, rispettivamente. Dimostrare che le rette $DE$ e $FG$ sono parallele (o coincidono).
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2018#q01|src_imho_2018__Q01]]
 
 
 
@@ -56,11 +63,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutti gli interi n≥3 per cui vale una certa ricorrenza su successioni reali*
+*Trovare tutti gli interi n≥3 per cui vale una ricorrenza specifica sulle successioni reali*
 
-> Determinare tutti gli interi $n \ge 3$ per i quali esistono numeri reali $a_1, a_2, \ldots, a_{n+2}$ tali che $a_{n+1} = a_1$ e $a_{n+2} = a_2$, e
+> Trovare tutti gli interi $n \ge 3$ per i quali esistono numeri reali $a_1, a_2, \ldots, a_{n+2}$ tali che $a_{n+1} = a_1$ e $a_{n+2} = a_2$, e
 > $$a_i a_{i+1} + 1 = a_{i+2}$$
 > per $i = 1, 2, \ldots, n$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2018#q02|src_imho_2018__Q02]]
 
 
 
@@ -87,13 +101,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di un triangolo anti-Pascal con 2018 righe che copre i numeri da 1 a 1+2+…+2018*
+*Esistenza di un triangolo anti-Pascal con 2018 righe che coprono da 1 a 1+2+…+2018*
 
-> Un triangolo anti-Pascal è un triangolo equilatero di numeri tale che, tranne per i numeri nell'ultima riga, ciascun numero è il valore assoluto della differenza dei due numeri subito al di sotto. L'array seguente è un triangolo anti-Pascal con quattro righe che contiene ogni intero da 1 a 10:
+> Un triangolo anti-Pascal è una disposizione triangolare equilatera di numeri tale che, ad eccezione dei numeri dell'ultimo rigo, ciascun numero è il valore assoluto della differenza dei due numeri immediatamente sottostanti. La seguente disposizione è un triangolo anti-Pascal con quattro righe che contiene tutti gli interi da 1 a 10:
 > $$\begin{array}{ccccccc} & & & 4 & & & \\ & & 2 & & 6 & & \\ & 5 & & 7 & & 1 & \\ 8 & & 3 & & 10 & & 9 \end{array}$$
-> Esiste un triangolo anti-Pascal con 2018 righe che contiene ogni intero da 1 a $1 + 2 + \cdots + 2018$?
+> Esiste un triangolo anti-Pascal con 2018 righe che contenga tutti gli interi da 1 a $1 + 2 + \cdots + 2018$?
 
 ![[src_imho_2018__q03.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|method_casework]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2018#q03|src_imho_2018__Q03]]
 
 
 
@@ -116,9 +137,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco sui siti della griglia: determinare il massimo K che Amy può garantire con K pedine rosse*
+*Partita nei siti della griglia: trova il massimo K che Amy può garantire con K pietre rosse*
 
-> Un sito è un qualsiasi punto $(x, y)$ nel piano tale che $x$ e $y$ siano entrambi interi positivi minori o uguali a 20. Inizialmente, ciascuno dei 400 siti è non occupato. Amy e Ben alternano i turni, con Amy che inizia. Al suo turno, Amy posa un nuovo sasso rosso su un sito non occupato in modo tale che la distanza tra qualsiasi due siti occupati da sassi rossi non sia uguale a $\sqrt{5}$. Al suo turno, Ben posa un nuovo sasso blu su qualsiasi sito non occupato. (Un sito occupato da un sasso blu non può essere posto a qualsiasi distanza da qualsiasi altro sito.) Si interrompe il gioco non appena un giocatore non riesce a posare uno sasso. Determinare il massimo valore di $K$ tale che Amy possa garantire di posare almeno $K$ sassi rossi, indipendentemente da come Ben posa i suoi sassi blu.
+> Un sito è qualsiasi punto $(x, y)$ nel piano tale che $x$ e $y$ siano entrambi numeri interi positivi minori o uguali a 20. Inizialmente, ciascuno dei 400 siti è non occupato. Amy e Ben si alternano nel posizionare pietre, con Amy che inizia per prima. Al suo turno, Amy posiziona una nuova pietra rossa su un sito non occupato in modo che la distanza tra due qualsiasi siti occupati da pietre rosse non sia uguale a $\sqrt{5}$. Al suo turno, Ben posiziona una nuova pietra blu su qualsiasi sito non occupato. (Un sito occupato da una pietra blu non può essere posto a nessuna distanza da nessun altro sito.) Si fermano non appena un giocatore non può posizionare una pietra. Determinare il più grande $K$ tale che Amy possa garantire di posizionare almeno $K$ pietre rosse, indipendentemente da come Ben posizioni le sue pietre blu.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2018#q04|src_imho_2018__Q04]]
 
 
 
@@ -143,11 +171,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successione infinita di interi positivi: si dimostri che esiste M tale che a_M = a_{M+1}*
+*Successione infinita di numeri interi positivi: dimostrare che a_m = a_{m+1} per qualche M*
 
-> Sia $a_1, a_2, \ldots$ una successione infinita di interi positivi. Si supponga che esista un numero intero $N > 1$ tale che, per ogni $n \ge N$, il numero
+> Sia $a_1, a_2, \ldots$ una successione infinita di interi positivi. Si supponga che esista un intero $N > 1$ tale che, per ogni $n \ge N$, il numero
 > $$\frac{a_1}{a_2} + \frac{a_2}{a_3} + \cdots + \frac{a_{n-1}}{a_n} + \frac{a_n}{a_1}$$
-> sia un intero. Si dimostri che esiste un intero positivo $M$ tale che $a_m = a_{m+1}$ per ogni $m \ge M$.
+> sia un intero. Dimostrare che esiste un intero positivo $M$ tale che $a_m = a_{m+1}$ per ogni $m \ge M$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2018#q05|src_imho_2018__Q05]]
 
 
 
@@ -172,8 +207,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero convesso con condizioni sugli angoli implica somma degli angoli 180°*
+*Un quadrilatero convesso con condizioni sugli angoli implica che la somma degli angoli sia 180°*
 
 > Un quadrilatero convesso $ABCD$ soddisfa $AB \cdot CD = BC \cdot DA$. Il punto $X$ giace all'interno di $ABCD$ in modo che
-> $$\angle XAB = \angle XCD \quad \text{and} \quad \angle XBC = \angle XDA.$$.
-> Si dimostri che $\angle BXA + \angle DXC = 180^\circ$.
+> $$\angle XAB = \angle XCD \quad \text{and} \quad \angle XBC = \angle XDA.$$
+> Dimostrare che $\angle BXA + \angle DXC = 180^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2018#q06|src_imho_2018__Q06]]

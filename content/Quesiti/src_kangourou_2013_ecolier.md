@@ -39,15 +39,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many more bricks in the right pyramid
+*Roberto's calculator*
 
-> Roberto has a small calculator that works in the way shown in the figure: by entering a number in each of the four boxes in the first row, the calculator performs the operations indicated and comes to provide the result in the only box in the third row (the one in which there is the question point). The figure shows you the numbers Roberto entered in the first line. What is the result of the calculator? A) 6
-> 	
+> Roberto has a small calculator that works in the way shown in the figure: by entering a number in each of the four boxes of the first row, the calculator carries out the operations shown and arrives at the result in the single box of the third row (the one with the question mark). The figure shows you the numbers Roberto entered in the first row. What is the result given by the calculator?
+> A) 6
+>
 > B) 5
->    	
-> C) 4 D) 3
->       	
+>
+> C) 4
+> D) 3
+>
 > E) 2
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q01|src_kangourou_2013_ecolier__Q01]]
 
 
 
@@ -77,9 +85,20 @@ How many more bricks in the right pyramid
 <div class="qlang-split" data-lang="en"></div>
 
 
-In which image there are more black than white kangaroos
+*Two equal covered digits*
 
-> Look at the figure. 43+53=104. The addition written by Gianna is correct, but her brother Luke, in spite, covered two of the digits written by Gianna with two opaque sheets. The two numbers covered are the same. What's the number? A) 2 B) 4 C) 5 D) 7 E) 8
+> Look at the figure.               43+53=104. The addition written by Gianna is correct, but her brother Luca, out of spite, has covered two of the digits written by Gianna with two non-transparent slips of paper.  The two covered digits are the same.  What digit are they?
+> A) 2
+> B) 4
+> C) 5
+> D) 7
+> E) 8
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q02|src_kangourou_2013_ecolier__Q02]]
 
 
 
@@ -104,9 +123,20 @@ In which image there are more black than white kangaroos
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who and Barbara given the objects owned*
+*Gino's arrival time*
 
-> Samuel invited some friends to his home at 3:45 p.m. Julia arrived 25 minutes late, Gino arrived a quarter of an hour ahead of Julia. What time did Gino arrive? A) 15:05                B) 15:30              C) 15:55               D) 16:05             E) 16:20
+> Samuele invited some friends to his house for 15:45. Giulia arrived 25 minutes late, and Gino arrived a quarter of an hour before Giulia. At what time did Gino arrive?
+> A) 15:05
+> B) 15:30
+> C) 15:55
+> D) 16:05
+> E) 16:20
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q03|src_kangourou_2013_ecolier__Q03]]
 
 
 
@@ -139,17 +169,25 @@ In which image there are more black than white kangaroos
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hidden digit in the sum 5_ + 5_ = 104*
+*Largest number of triangles*
 
-> What is the largest number of triangles that you can spot in the figure? A) 9
->        	
+> What is the largest number of triangles that can be identified in the figure?
+> A) 9
+>
 > B) 10
-> 	
+>
 > C) 11
->           
+>
 > D) 13
->          	
+>
 > E) 12
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q04|src_kangourou_2013_ecolier__Q04]]
 
 
 
@@ -184,18 +222,25 @@ In which image there are more black than white kangaroos
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who made the wrong statement on the number 325?
+*United States and China medal totals*
 
-> At the last Olympic Games, the United States of America was the nation that won the most medals: 46 gold, 29 silver and 29 bronze. The second nation was China with 38 gold, 27 silver and 23 bronze. Overall, how many more medals than China has the United States won? A) 6
->      	
+> At the last Olympics, the United States of America was the nation that won the most medals: 46 gold medals, 29 silver medals and 29 bronze medals. The second nation was China, with 38 gold medals, 27 silver medals and 23 bronze medals. Altogether, how many more medals than China did the United States win?
+> A) 6
+>
 > B) 14
-> 	
+>
 > C) 16
->        	
+>
 > D) 24
->  	
+>
 > E) 26
 >
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q05|src_kangourou_2013_ecolier__Q05]]
 
 
 
@@ -231,17 +276,23 @@ Who made the wrong statement on the number 325?
 
 *Which number of friends does not divide 36*
 
-> Daniel split 36 chocolates among his friends. He managed to give each friend the same amount, but this way he didn't have even one chocolate left. Which of the following cannot be Daniel's number of friends? A) 2
->      	
+> Daniele has shared 36 chocolates among his friends. He managed to give the same quantity to each friend, but in this way he did not have even one chocolate left. Which of the following cannot be the number of Daniele's friends?
+> A) 2
+>
 > B) 3
->           	
+>
 > C) 4
->  	
+>
 > D) 5
->        	
+>
 > E) 6
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+**Source:** [open PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q06|src_kangourou_2013_ecolier__Q06]]
 
 
 
@@ -276,15 +327,22 @@ Who made the wrong statement on the number 325?
 
 *Missing piece of the broken mirror*
 
-> A rectangular mirror is broken: the figure shows you how it is cracked and where a piece is missing. Which of the following is missing? A) B)
-> 	
+> A rectangular mirror has broken: the figure shows you how it is cracked and where a piece is missing. Which of the following is the missing piece?
+> A)
+> B)
+>
 > C)
-> 	
+>
 > D)
-> 	
+>
 > E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q07|src_kangourou_2013_ecolier__Q07]]
 
 
 
@@ -312,9 +370,21 @@ Who made the wrong statement on the number 325?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What part of the broken mirror is missing*
+*Who was wrong about 325*
 
-> Each of my five friends wanted to say something about the number 325. Aldo said, "It's a three-digit number". Bruno said: All its digits are distinct from each other. Carlo said, "The sum of its digits is 10". Darius said: The units digit is 5. Ennio said, "All his figures are odd". Only one of our friends got it wrong. Who's that? A) Aldo B) Bruno C) Carlo D) Darius E) Ennio Questions from N. 9 to N. 16 are worth 4 points each.
+> Each of five friends wanted to say something about the number 325. Aldo said: “It is a three-digit number.” Bruno said: “All of its digits are distinct from one another.” Carlo said: “The sum of its digits is 10.” Dario said: “The units digit is 5.” Ennio said: “All of its digits are odd.” Only one of the friends was wrong. Who?
+> A) Aldo
+> B) Bruno
+> C) Carlo
+> D) Dario
+> E) Ennio
+> The questions from N. 9 to N. 16 are worth 4 points each
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q08|src_kangourou_2013_ecolier__Q08]]
 
 
 
@@ -347,15 +417,24 @@ Who made the wrong statement on the number 325?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triangles can you see in the figure?*
+*Females in the train carriage*
 
-> A train car is occupied only by three families, each made up of a father, mother and three children, male or female. In two families there are twins and all the twins in that car are males. How many females at most, including mothers, are traveling in that car? A) 5
->         	
+> A carriage of a train is occupied only by three families, each made up of a father, a mother and three children, male or female. In two families there are twin children, and all the twins present in that carriage are male. How many females at most, mothers included, are travelling on that carriage?
+> A) 5
+>
 > B) 6
->     	
-> C) 7 D) 8
->       	
+>
+> C) 7
+> D) 8
+>
 > E) 9
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q09|src_kangourou_2013_ecolier__Q09]]
 
 
 
@@ -385,9 +464,20 @@ Who made the wrong statement on the number 325?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many sandwiches with two and a half slices of bread*
+*Pinocchio's nose*
 
-> When Pinocchio answers a question with a lie, his nose lengthens by 6 cm; when he answers telling the truth, his nose shortens by 2 cm. At 8 this morning, his nose was 9 cm long; from that moment on Pinocchio has told three lies and twice the truth: how long is his nose now? A) 14 cm B) 15 cm C) 19 cm D) 23 cm E) 31 cm
+> When Pinocchio answers a question with a lie, his nose lengthens by 6 cm; when he answers by telling the truth, his nose shortens by 2 cm. At 8 o'clock this morning his nose was 9 cm long; from that moment until now Pinocchio has told a lie three times and the truth twice: how long is his nose now?
+> A) 14 cm
+> B) 15 cm
+> C) 19 cm
+> D) 23 cm
+> E) 31 cm
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q10|src_kangourou_2013_ecolier__Q10]]
 
 
 
@@ -421,18 +511,25 @@ Who made the wrong statement on the number 325?
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many siblings can you have by dividing 36 candy
+*Fewest bags of oranges*
 
-> A fruit shop sells oranges only in bags: there are bags of 5, 9, and 10 oranges. Paul has to buy exactly 48 oranges. What's the least number of bags you can buy? A) 5
->      	
+> A fruit shop sells oranges only in bags: there are bags of 5, of 9 and of 10 oranges. Paolo must buy exactly 48 oranges. What is the smallest number of bags he can buy?
+> A) 5
+>
 > B) 7
->           	
+>
 > C) 6
->   	
+>
 > D) 8
->          	
+>
 > E) 4
 >
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q11|src_kangourou_2013_ecolier__Q11]]
 
 
 
@@ -462,18 +559,21 @@ How many siblings can you have by dividing 36 candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Where does Anna arrive following the turns*
+*Where Anna arrives following the turns*
 
-> The figure represents the map of Anna's city. 
-> Anna starts walking at the point and in the direction 
-> indicated by the arrow: at each intersection she does not go straight, but turns 
-> right or left. Precisely, at the first intersection she encounters she turns right, at the second and third left, at the fourth 
-> right, at the fifth and sixth left. Where does Anna arrive? 
->     A) 	
->        B) 	           C)              D) 	
->    E)
+> The figure shows the map of Anna's city. Anna starts walking at the point and in the direction indicated by the arrow: at each junction she does not go straight on, but turns right or left. Precisely, at the first junction she meets she turns right, at the second and the third left, at the fourth right, at the fifth and the sixth left. Where does Anna arrive?
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+**Source:** [open PDF p.3](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q12|src_kangourou_2013_ecolier__Q12]]
 
 
 
@@ -501,11 +601,21 @@ How many siblings can you have by dividing 36 candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who is the oldest person by date of birth*
+*Who is the oldest*
 
-> Ada, Bruna, Cecilia and Dora were born in the same year. Their birthdays are, by date but not by name, on 20 February, 12 April, 12 May and 25 May. Bruna and Ada were born in the same month. Ada and Cecilia were born on the same day in different months. Who's the oldest? A) Ada B) Bruna C) Cecilia D) Dora E) It is not possible to establish it.
+> Ada, Bruna, Cecilia and Dora were born in the same year. Their birthdays are, in date order but not in name order, on 20 February, 12 April, 12 May and 25 May. Bruna and Ada were born in the same month. Ada and Cecilia were born on the same day of different months. Who is the oldest?
+> A) Ada
+> B) Bruna
+> C) Cecilia
+> D) Dora
+> E) It is not possible to determine.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q13|src_kangourou_2013_ecolier__Q13]]
 
 
 
@@ -539,18 +649,19 @@ How many siblings can you have by dividing 36 candy
 
 *Final order of the five jumping kangaroos*
 
-> Five kangaroos K, L, M, N, and O have in front of them five large square tiles, aligned as shown in the figure. Each kangaroo starts from the position indicated 
-> with "Start", jumps in the direction of the arrow and at each jump lands on the first free tile it finds. They start in the order in which we have listed them: K first and makes 
-> three jumps, then L second and he too makes three jumps, then M third and makes two jumps, then N 
-> fourth and he too makes two jumps and finally O who makes only one jump. When O has also 
-> arrived, in what order are the five kangaroos?
-> A) OKMLN              	
-> B) OKLMN             	
->  C) OMLKN              
-> D) OMLNK               	
+> Five kangaroos, K, L, M, N and O, have five large square tiles in front of them, lined up as the figure shows you. Each kangaroo starts from the position marked “Start’’, jumps in the direction of the arrow and at each jump lands on the first free tile it finds. They set off in the order in which we have listed them for you: K first and makes three jumps, then L second and he also makes three jumps, then M third and makes two jumps, then N fourth and he also makes two jumps, and finally O, who makes only one jump. When O has also arrived, in what order are the five kangaroos?
+> A) OKMLN
+> B) OKLMN
+> C) OMLKN
+> D) OMLNK
 > E) OMKLN
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+**Source:** [open PDF p.3](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q14|src_kangourou_2013_ecolier__Q14]]
 
 
 
@@ -583,21 +694,24 @@ How many siblings can you have by dividing 36 candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Piece to place next to it to form a rectangle*
+*Piece to place alongside to form a rectangle*
 
-> By placing the piece shown here next to one of those listed in the 
-> answers, without overlapping it, you can form a rectangle. Which piece 
-> must you choose?
->     	
-> A) 	
->          B) 	      	
->          C) 	        	
->       D) 	     	
-> E) 
+> By placing the piece here alongside next to one of those listed in the answers, without overlapping it, you can form a rectangle. Which piece must you choose?
+>
+> A)
+> B)
+> C)
+> D)
+> E)
 > Start
 >
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.3](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q15|src_kangourou_2013_ecolier__Q15]]
 
 
 
@@ -626,11 +740,22 @@ How many siblings can you have by dividing 36 candy
 <div class="qlang-split" data-lang="en"></div>
 
 
-Nadia's best friends (girls and boys)
+*Maximum friends of Nadia (boys and girls)*
 
-> At her birthday party, Nadia invited some friends, boys and girls. She doesn't know how many will accept the invitation, but she does know that the boys invited are more than the girls, that the invited boys named Franco are three and that they make up more than a third of the boys invited. How many of Nadia's friends, boys and girls, are going to be at the party? (a) 12 (b) 13 (c) 14 (d) 15 (e) 16 Questions from N. 17 al N. Twenty-four is worth five points each.
+> To her birthday party, Nadia invited some friends, boys and girls. She does not know how many will accept the invitation, but she knows that more boys than girls were invited, that three of the invited boys are called Franco, and that they make up more than a third of the invited boys. What is the maximum number of Nadia's friends, boys and girls, who could be present at the party?
+> A) 12
+> B) 13
+> C) 14
+> D) 15
+> E) 16
+> Questions 17 to 24 are worth 5 points each.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q16|src_kangourou_2013_ecolier__Q16]]
 
 
 
@@ -666,13 +791,21 @@ Nadia's best friends (girls and boys)
 
 *Small squares to cover the square (cancelled)*
 
-> Draw a square, and then join the midpoints of its sides with straight lines. You get a smaller square in the center. Repeat the operation on this smaller square: you get an even smaller square in the center. You want to cover the square you first drew with squares identical to this last smaller square: how many squares do you need? A) 5
->         	
+> Draw a square and then join the midpoints of its sides with straight line segments: you get a smaller square in the centre. Repeat the operation on this smaller square: you get an even smaller square in the centre. You want to cover the square you drew first with squares identical to this last smaller square: how many do you need?
+> A) 5
+>
 > B) 16
->   	
-> C) 10 D) 8
->     	
+>
+> C) 10
+> D) 8
+>
 > E) 32
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q17|src_kangourou_2013_ecolier__Q17]]
 
 
 
@@ -702,13 +835,22 @@ Nadia's best friends (girls and boys)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many years product of digits > sum of digits*
+*In how many years digit product exceeds digit sum*
 
-> Imagine that today is the first day of 2013 (i.e. last New Year): in how many years will we be for the first time in a year that the product of its digits is greater than the sum of its digits? A) 87 B) 102	               C) 98 D) 1
->           	
+> Imagine that today is the first day of 2013 (that is, last New Year's Day): in how many years will we be, for the first time, in a year such that the product of its digits is greater than the sum of its digits?
+> A) 87
+> B) 102
+> C) 98
+> D) 1
+>
 > E) 103
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+**Source:** [open PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q18|src_kangourou_2013_ecolier__Q18]]
 
 
 
@@ -735,11 +877,21 @@ Nadia's best friends (girls and boys)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cat waking minutes in January*
+*Minutes the cat was awake in January*
 
-> Last January, Trippa slept for exactly three weeks. How many minutes was it awake in January? A) 24 × 3 × 24 × 60 B) 10 × 24 × 60	               	        C) 9 × 24 × 60 D) 24 × 24 × 60 E) 10 × 24 × 60 × 60
+> Last January, the cat Trippa slept for exactly three weeks. How many minutes was he awake in January?
+> A) 24 × 3 × 24 × 60
+> B) 10 × 24 × 60
+> C) 9 × 24 × 60
+> D) 24 × 24 × 60
+> E) 10 × 24 × 60 × 60
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+**Source:** [open PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q19|src_kangourou_2013_ecolier__Q19]]
 
 
 
@@ -773,17 +925,25 @@ Nadia's best friends (girls and boys)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of dominoes in a row*
+*Maximum dominoes in a row*
 
-> Ennio has the domino tiles shown in the figure. He wants to line them up by following the domino rule: the second square of each tile must have the same number of points as the first square of the next tile. How many can he line up, at most? A) 3
->         	
+> Ennio has the dominoes shown in the figure. He wants to put them in a row, following the domino rule: the second square of each domino must have the same number of spots as the first square of the next domino. How many can he put in a row, at most?
+> A) 3
+>
 > B) 4
-> 	
-> C) 5 D) 6
-> 	
+>
+> C) 5
+> D) 6
+>
 > E) 7
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+**Source:** [open PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q20|src_kangourou_2013_ecolier__Q20]]
 
 
 
@@ -816,16 +976,24 @@ Nadia's best friends (girls and boys)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to divide 10 bells into three equal charges*
+*Sharing 10 bells into three equal amounts*
 
-> In one store there are 10 increasing-sized glass bells: their prices increase with size and are 1, 2, 3,..., 10 euros. Three friends want to buy them all, but they want to make sure they each spend the same amount. How many different ways will the three friends be able to share their bells? A) One only. B) 2
-> 	
+> In a shop there are 10 glass bells of increasing size: their prices increase with the size and are 1, 2, 3,..., 10 euros. Three friends want to buy all of them, but they want each to spend the same amount. In how many different ways can the three friends share the bells among themselves?
+> A) Only one.
+> B) 2
+>
 > C) 3
->         	
-> D) 4 E) They will not be able to do what they want.
+>
+> D) 4
+> E) They will not be able to do what they want.
 >
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+**Source:** [open PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q21|src_kangourou_2013_ecolier__Q21]]
 
 
 
@@ -860,15 +1028,24 @@ Nadia's best friends (girls and boys)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many moons on the stretched carpet*
+*How many moons on the spread-out carpet*
 
-> Peter bought a carpet 60 decimeters long and 36 wide. The carpet has a design made up of squares all of the same size that contain either the sun or the moon, as shown in the figure, which shows only one end of the carpet (imagine the remaining part being rolled). When the carpet is completely stretched, how many moons can you see? A) 68
->         	
-> B) 67 C) 65 D) 63
->        	
+> Pietro has bought a carpet 60 decimetres long and 36 wide. The carpet has a pattern made up of squares all of the same size that contain either the sun or the moon, as the figure shows you, though it shows only one end of the carpet (imagine that the remaining part is rolled up). When the carpet is completely spread out, how many moons can be seen?
+> A) 68
+>
+> B) 67
+> C) 65
+> D) 63
+>
 > E) 60
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q22|src_kangourou_2013_ecolier__Q22]]
 
 
 
@@ -904,17 +1081,23 @@ Nadia's best friends (girls and boys)
 
 *Minimum addends of 0 and 1 with sum 2013*
 
-> Simone wrote some numbers using for each of them only the digits 0 and 1. The sum of the numbers he wrote is 2013 and he couldn't have got the same sum with a smaller number of addends each consisting only of the digits 0 and 1. How many numbers did Simone write? A) 2
->     	
+> Simone has written some numbers, using only the digits 0 and 1 for each of them. The sum of the numbers he has written is 2013, and he could not have obtained the same sum with a smaller number of addends, each consisting only of the digits 0 and 1. How many numbers has Simone written?
+> A) 2
+>
 > B) 3
->           	
+>
 > C) 4
->   	
+>
 > D) 5
->        	
+>
 > E) 204
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q23|src_kangourou_2013_ecolier__Q23]]
 
 
 
@@ -948,12 +1131,22 @@ Nadia's best friends (girls and boys)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of pieces to form a full square*
+*Minimum number of pieces to form a solid square*
 
-> Cristina has many pieces that are identical to the one in the figure and wants to place some of them side by side, without overlapping them, so as to get a full square. What's the smallest number of pieces that allows her to reach her goal? A) 5 B) 9 C) 4 D) 16 E) It is not possible to achieve what Cristina wants.
->  
+> Cristina has many pieces identical to the one in the figure and wants to place some of them side by side, without overlapping them, so as to obtain a solid square. What is the smallest numbers of pieces that allows her to achieve her aim?
+> A) 5
+> B) 9
+> C) 4
+> D) 16
+> E) It is not possible to realise what Cristina wishes.
+>
 > 60 dm 36 dm
-> 
-> STRINGA ECOLIER 2013 Question 17 écolier has been annulled because of incomplete wording of the text.
+>
+> STRINGA ECOLIER 2013 Question 17 écolier was cancelled owing to incomplete formulation of the text.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.5](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+[[Quesiti/src_kangourou_2013_ecolier#q24|src_kangourou_2013_ecolier__Q24]]

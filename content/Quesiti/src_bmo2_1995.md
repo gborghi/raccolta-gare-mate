@@ -30,9 +30,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli numeri interi positivi che soddisfano un prodotto uguale a 2*
+*Terzine di interi positivi $(a, b, c)$ il cui prodotto di $(1+1/a)$ vale 2*
 
-> Trovare tutti i triples di numeri interi positivi $(a, b, c)$ in modo tale che $$\left(1 + \frac{1}{a}\right)\left(1 + \frac{1}{b}\right)\left(1 + \frac{1}{c}\right) = 2.$$
+> Trovare tutte le terzine di interi positivi $(a, b, c)$ tali che
+> $$\left(1 + \frac{1}{a}\right)\left(1 + \frac{1}{b}\right)\left(1 + \frac{1}{c}\right) = 2.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1995#q01|src_bmo2_1995__Q01]]
 
 
 
@@ -55,9 +63,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove l'equivalenza angolare nel triangolo utilizzando i punti medi*
+*$\angle DAC = \angle ABE$ se e solo se $\angle AFC = \angle ADB$*
 
-> $ABC$ sia un triangolo, e $D$, $E$, $F$ siano i punti medi di $BC$, $CA$, $AB$ rispettivamente. Prova che $\angle DAC = \angle ABE$ se e solo se $\angle AFC = \angle ADB$.
+> Sia $ABC$ un triangolo, e siano $D$, $E$, $F$ i punti medi rispettivamente di $BC$, $CA$, $AB$. Dimostrare che $\angle DAC = \angle ABE$ se e solo se $\angle AFC = \angle ADB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1995#q02|src_bmo2_1995__Q02]]
 
 
 
@@ -80,9 +95,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Raggiungere i limiti sulle radici date condizioni di somma e somma di prodotti*
+*Dimostrare che $0 < a < 1 < b < 3 < c < 4$*
 
-> $a$, $b$, $c$ siano numeri reali che soddisfino $a < b < c$, $a + b + c = 6$ e $ab + bc + ca = 9$. Prove che $0 < a < 1 < b < 3 < c < 4$.
+> Siano $a$, $b$, $c$ numeri reali che soddisfano $a < b < c$, $a + b + c = 6$ e $ab + bc + ca = 9$. Dimostrare che $0 < a < 1 < b < 3 < c < 4$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1995#q03|src_bmo2_1995__Q03]]
 
 
 
@@ -107,8 +129,15 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta le coppie di squadra e prova la divisibilità fattoriale*
+*Modi di accoppiare $2n$ persone, e la divisibilità di $(n!)^{n+1}$*
 
-> (a) Determinare, con chiarezza, in quanti modi le persone $2n$ possono essere accoppiate per formare squadre $n$ di $2$.
-> 
-> b) dimostrare che $(n!)^{n+1}$ è divisibile per $(n+1)!^{n}$ per tutti gli integri positivi $n$.
+> (a) Determinare, con una spiegazione chiara, in quanti modi $2n$ persone si possono accoppiare per formare $n$ squadre di $2$.
+>
+> (b) Dimostrare che $(n!)^{n+1}$ è divisibile per $(n+1)!^{n}$ per ogni intero positivo $n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1995#q04|src_bmo2_1995__Q04]]

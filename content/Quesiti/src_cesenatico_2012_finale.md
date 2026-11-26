@@ -30,11 +30,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many years of the dragon (sum of digits divisible by 7)*
+*How many dragon years, those whose digits sum to a multiple of 7, there are from year 1 to year 7050*
 
-> Legend has it that whoever finds the seven dragon spheres can summon the dragon Shannon, and have a wish granted. However, to avoid too much use, Maximus, the creator of the spheres, imposed the condition that this be possible only in the years of the dragon, that is, those whose sum of the digits is divisible by 7. How many years of the dragon are there from year one to year 7050?
+> Legend says that whoever finds the seven dragon spheres can summon the dragon Shannon, and have a wish granted. But to avoid too frequent a use, Massimo, the creator of the spheres, has imposed the condition that this is possible only in dragon years, that is, those whose digits sum to a multiple of 7. How many dragon years are there from year 1 to year 7050?
 
-**Answer:** 1005
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2012_finale#q01|src_cesenatico_2012_finale__Q01]]
 
 
 
@@ -58,11 +62,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance travelled in the square (isosceles triangle)*
+*How many of these questions have a prime number as their answer*
 
-> How many of these questions have a prime number?
+> How many of these questions have a prime number as their answer?
 
-**Answer:** 4178
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2012_finale#q02|src_cesenatico_2012_finale__Q02]]
 
 
 
@@ -86,11 +94,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coef b of p(x)=x^3+ax^2+bx-2012 with whole roots*
+*The distance between this question and the first question whose answer is 4*
 
-> What's the distance between this question and the first question with answer 4?
+> What is the distance between this question and the first question with answer 4?
 
-**Answer:** 2016
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2012_finale#q03|src_cesenatico_2012_finale__Q03]]
 
 
 
@@ -114,11 +126,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total steps in the pursuit of the equator*
+*The answer to question 6, minus 2*
 
-> Answer to question 6 minus 2.
+> The answer to question 6, minus 2.
 
-**Answer:** 0961
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+
+[[Quesiti/src_cesenatico_2012_finale#q04|src_cesenatico_2012_finale__Q04]]
 
 
 
@@ -142,11 +158,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-Max score for Gonioku-Vietnam (sports)
+*The answer to question 2 minus the answer to question 3*
 
-> Answer to question 2 minus answer to question 3.
+> The answer to question 2 minus the answer to question 3.
 
-**Answer:** 0037
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2012_finale#q05|src_cesenatico_2012_finale__Q05]]
 
 
 
@@ -170,11 +190,15 @@ Max score for Gonioku-Vietnam (sports)
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total amount of the aid granted in accordance with Article 107 (1) TFEU.
+*The number of even answers minus the number of odd answers*
 
-> Quantity of answers equal to less quantity of odd answers.
+> The number of even answers minus the number of odd answers.
 
-**Answer:** 7310
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2012_finale#q06|src_cesenatico_2012_finale__Q06]]
 
 
 
@@ -198,11 +222,15 @@ This is the total amount of the aid granted in accordance with Article 107 (1) T
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n with aura 8128 (factors less than difference)*
+*Twice the sum of the answers to questions 5 and 3*
 
-> Double the sum of the answers to questions 5 and 3.
+> Twice the sum of the answers to questions 5 and 3.
 
-**Answer:** 4425
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2012_finale#q07|src_cesenatico_2012_finale__Q07]]
 
 
 
@@ -226,11 +254,15 @@ This is the total amount of the aid granted in accordance with Article 107 (1) T
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ring area (internal diagonal hexagon)*
+*The square of the answer to question 2, decreased by 1*
 
-> Square of the answer to question 2, decreased by 1.
+> The square of the answer to question 2, decreased by 1.
 
-**Answer:** 5117
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2012_finale#q08|src_cesenatico_2012_finale__Q08]]
 
 
 
@@ -254,11 +286,15 @@ This is the total amount of the aid granted in accordance with Article 107 (1) T
 <div class="qlang-split" data-lang="en"></div>
 
 
-Gonioku's odds against his three rivals.
+*How many distinct digits appear among the answers*
 
-> How many different numbers do you see in the answers?
+> How many distinct digits appear among the answers?
 
-**Answer:** 2285
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2012_finale#q09|src_cesenatico_2012_finale__Q09]]
 
 
 
@@ -283,11 +319,15 @@ Gonioku's odds against his three rivals.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum of knights among inhabitants (statements)*
+*The number of digits that appear at least twice as answers, decreased by 3; give the answers to questions 2, 4, 9 and 10 in that order*
 
-> Number of numbers that appear at least twice as answers, decreased by 3. In the solution provide the answers to questions 2, 4, 9 and 10 in order
+> The number of digits that appear at least twice as answers, decreased by 3. In the solution, give in order the answers to questions 2, 4, 9 and 10.
 
-**Answer:** 8112
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2012_finale#q10|src_cesenatico_2012_finale__Q10]]
 
 
 
@@ -311,11 +351,16 @@ Gonioku's odds against his three rivals.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Max Gonioku wins in the mini-tournament (min and max)
+*Maximum number of fights Gonioku can have won; the answer packs two cases into four digits, and the second case is cut off*
 
-> 11. A challenging tournament Before the XXII Tenkamatici tournament, when Gonioku was still inexperienced, Master Muten and the Gru Hermit organized a mini-tournament for all their students. Hermit of Gru's students were 9 more than Master Muten's, including Gonioku. At the end of the mini-tournament, in which all the couples faced each other once and there was no tie, the total number of victories achieved by the students of the Hermitage was exactly 9 times the number of victories of the students of Muten. How many fights could Gonioku have won, at most? (In the answer, use the first two digits to indicate the solution in case the participants in the tournament were the smallest possible number and the last two digits to indicate the solution in case
+> 11. A demanding tournament
+> Before the 22nd Tenkamatici tournament, when Gonioku was still inexperienced, Master Muten and the Crane Hermit organised a mini-tournament for all their pupils. The Crane Hermit's pupils were 9 more than Master Muten's, among whom was Gonioku as well. At the end of the mini-tournament, in which every pair fought once and there were no draws, the total number of victories obtained by the Hermit's pupils was exactly 9 times the number of victories of Muten's pupils. What is the greatest number of fights Gonioku can have won? (In the answer, use the first two digits to indicate the solution in the case in which the participants in the tournament were as few as possible, and the last two digits to indicate the solution in the cas
 
-**Answer:** 1109
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2012_finale#q11|src_cesenatico_2012_finale__Q11]]
 
 
 
@@ -339,11 +384,16 @@ Max Gonioku wins in the mini-tournament (min and max)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The ten self-referential questions (answers 2,4,9,10)*
+*In Kardanin's tower, ten questions whose answers are digits from 1 to 9; the first is in an unknown language*
 
-> 12. The ten questions The tower of Kardanin holds a water that can increase the strength of those who drink it, but to have it you have to climb the tower, overcome Master Kardanin and above all find the answers to 10 questions, which are all numbers from 1 to 9. To complicate matters, the first question is written in an unfamiliar language.
+> 12. The ten questions
+> In Kardanin's tower is kept a water that can increase the strength of whoever drinks it, but to have it one must climb the tower, surpass Master Kardanin in skill, and above all find the answers to 10 questions, which are all digits from 1 to 9. To complicate matters, the first question is written in an unknown language.
 
-**Answer:** 3261
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2012_finale#q12|src_cesenatico_2012_finale__Q12]]
 
 
 
@@ -376,11 +426,20 @@ Max Gonioku wins in the mini-tournament (min and max)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples (a,b) with square a-1) + square b-1) = square ab-1)*
+*Maximum number of ordered pairs (a, b) of positive integers at most 2012 satisfying a broken radical equation*
 
-> The Maximus and Mr. Bobo Gonioku trains with King Kartesioh to face Vietnam; meanwhile, Maximus and Mr. Bobo, in the sanctuary, they deceive time with a game for only immortals. It's about finding who can find the most number of ordered pairs (a,b) of positive integers such as √a−1 + √ b−1 = √ ab−1. To prevent the game from going on too long, Mr. Bobo suggests limiting himself to,b ≤2012. How many couples can they find?
+> Massimo and Mr Bobo
+> Gonioku is training with King Kartesioh to face Vieta; meanwhile Massimo and Mr Bobo, in the sanctuary, while away the time with a game for immortals only. It is a matter of seeing who can find the greatest number of ordered pairs (a, b) of positive integers such that √a−1 +
+> √
+> b−1 =
+> √
+> ab−1. To keep the game from lasting too long, Mr Bobo suggests limiting themselves by setting a, b ≤ 2012. What is the greatest number of pairs they can find?
 
-**Answer:** 4026
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2012_finale#q13|src_cesenatico_2012_finale__Q13]]
 
 
 
@@ -412,11 +471,16 @@ Max Gonioku wins in the mini-tournament (min and max)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial time before the Kartesioh-ken (roots)*
+*Gonioku's aura before he began the Kartesioh-ken, if m is the least positive integer such that the aura exceeds 9000 without ever equalling it*
 
-> It's over nine thousand! King Kartesioh likes to see and review the recording of the fighting between Gonioku and Vietnam, when Gonioku resorted to Kartesioh-ken, the secret technique to increase the aura. It works this way: if Gonioku's aura is n, Gonioku considers the polynomial x2 −mx+n; takes its roots (which exist and are whole) a and b with a > b; corrects them in a−1 and b+1; considers finally the monic polynomial1 with these new values as roots. His aura is then worth the new term known. Gonioku can use this technique once a minute. After an hour of fierce fighting, Vietnam doesn't believe its scout: Gonioku's aura has just surpassed 9000. Knowing that m is the smallest positive integer so the aura exceeds 9000 without ever exactly matching it, how much was Gonioku's aura worth before he started using the Kartesioh-ken?
+> It's over nine thousand!
+> King Kartesioh loves to watch and rewatch the recording of the fight between Gonioku and Vieta, when Gonioku resorted to the Kartesioh-ken, the secret technique for increasing one's aura. It works like this: if Gonioku's aura is worth n, Gonioku considers the polynomial x2 −mx+n; he takes its roots (which exist and are integers) a and b with a > b; he corrects them to a−1 and b+1; finally he considers the monic polynomial with these new values as roots. His aura is then worth the new constant term. Gonioku can use this technique once a minute. After an hour of furious fighting Vieta cannot believe his scouter: Gonioku's aura has just passed 9000. Knowing that m is the smallest positive integer for which the aura exceeds 9000 without ever equalling it exactly, what was Gonioku's aura worth before he began to use the Kartesioh-ken?
 
-**Answer:** 4150
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2012_finale#q14|src_cesenatico_2012_finale__Q14]]
 
 
 
@@ -445,11 +509,16 @@ Max Gonioku wins in the mini-tournament (min and max)
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following information is provided by the manufacturer:
+*The number ABCD, where A, B, C, D count the Namecc spheres marked 0, 1, 2 and 3, and ACBD and ACDB each have a 7-digit base-4 writing with no leading zero that can be written with those spheres*
 
-> After a period of peace, the intrepid Bourba travels to the planet Namecc in search of the original dragon's spheres. These are different from the terrestrial ones: they're still 7, but each one has a number from 0 to 3. We denote with A, B, C and D the amount of spheres with the numbers 0, 1, 2 and 3 respectively. Bourba notes that each of the two four-digit numbers ACBD and ACDB (read in base 10) has a representation with exactly 7 digits in base 4 (without zeros at the beginning) that can be written with Namecc spheres. What's the ABCD number?
+> The spheres of Namecc
+> After a period of peace, the intrepid Bourba goes to the planet Namecc to look for the original dragon spheres. These are different from the earthly ones: there are still 7 of them, but each bears a number from 0 to 3. Denote by A, B, C and D the number of spheres with the numbers 0, 1, 2 and 3 respectively. Bourba observes that each of the two four-digit numbers ACBD and ACDB (read in base 10) has a representation with exactly 7 digits in base 4 (with no leading zeros) that can be written with the spheres of Namecc. What is the number ABCD?
 
-**Answer:** 4210
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2012_finale#q15|src_cesenatico_2012_finale__Q15]]
 
 
 
@@ -480,11 +549,16 @@ The following information is provided by the manufacturer:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of aura of 7 digits with 4 zeros or greater*
+*Probability that Gonioku's 7-digit aura exceeds 7000000; first 4 digits after the decimal point*
 
-> The defective scooter finally out of the resuscitation tank, Gonioku is ready to face Symmetrizer. These, unable to perceive the aura of enemies, rely on their malfunctioning scout. You can see that Gonioku's aura is a positive integer of 7 digits, that 4 of these are zeros (but not the first) and that this number is multiple 3 but not 4. Symmetrizer assumes for simplicity that Gonioku's aura can be with equal probability any of the numbers that satisfy the conditions. He also knows that his aura is 70,000,000. What is the probability that Gonioku's is greater? As a response, provide the first four digits after the comma.
+> The faulty scouter
+> Finally out of the healing tank, Gonioku is ready to face Symmetrizer. The latter, unable to sense his enemies' aura, relies on his malfunctioning scouter. He manages to work out that Gonioku's aura is a positive 7-digit integer, that 4 of these digits are zeros (but not the first), and that this number is a multiple of 3 but not of 4. Symmetrizer assumes, for simplicity, that Gonioku's aura is equally likely to be any of the numbers that satisfy the conditions. He also knows that his own aura is 7000000. What is the probability that Gonioku's is greater? As the answer, give the first 4 digits after the decimal point.
 
-**Answer:** 3333
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2012_finale#q16|src_cesenatico_2012_finale__Q16]]
 
 
 
@@ -516,13 +590,17 @@ The following information is provided by the manufacturer:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*square 8 digits n and n+1*
+*Coriolin's aura n, the left half of an 8-digit perfect square whose right half is n+1*
 
-> Super Saiyan When Symmetrizer kills his friend Coriolin, Gonioku channels his anger and becomes Super Saiyan. Its aura increases to an astronomical value: a perfect square of 8 digits (the first other than zero). The 4 digits on the left form a number n that was Coriolin's aura, the 4 digits on the right form the number n+1. How much was Coriolin's aura worth? 1A polynomial is said to be monic if the coefficient of the major term is 1.
-> 
-> 4/4 Team competition 2012  National final  Problem texts
+> Super Saiyan
+> When Symmetrizer kills his friend Coriolin, Gonioku channels his rage and becomes a Super Saiyan. His aura rises to an astronomical value: an 8-digit perfect square (the first digit not zero). The 4 digits on the left form a number n, which was Coriolin's aura; the 4 digits on the right form the number n+1. What was Coriolin's aura worth?
+> 1 A polynomial is called monic if the coefficient of the term of highest degree is 1.
 
-**Answer:** 6099
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2012_finale#q17|src_cesenatico_2012_finale__Q17]]
 
 
 
@@ -553,11 +631,16 @@ The following information is provided by the manufacturer:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of products in the sphere-district (mod 11)*
+*Sum of the products of each sphere's number and the number of the district in which it lies*
 
-> The seven dragon spheres of planet Earth each have a different number from 1 to 7. After the dragon's last call, they've been scattered around the world in 10 districts, numbered 1 to 10. The dragon radar reveals that the spheres are arranged in a particular way: in each district there is at most one and for each of them, if you make the product between the number of the sphere and that of the district where it ends and then divide by 11, you always get the same remainder. We also know that the 3-star sphere is not in the first two districts, and that District 8 contains no sphere. With this little information, the brilliant Bourba reconstructed the position of all the spheres. Determine the products between the number of each sphere and that of the district in which it is located, and provide the sum.
+> The earthly spheres
+> The seven dragon spheres of planet Earth each have a different number from 1 to 7. After the last summoning of the dragon, they have scattered into the 10 world districts, numbered from 1 to 10. The dragon radar reveals that the spheres have arranged themselves in a particular way: in each district there is at most one, and for each of them, if one multiplies the number of the sphere by that of the district in which it has ended up and then divides by 11, one always obtains the same remainder. It is also known that the sphere with 3 stars is not in the first two districts, and that district 8 contains no sphere. With this little information the brilliant Bourba reconstructs the position of all the spheres. Determine the products of the number of each sphere and that of the district in which it lies, and give their sum.
 
-**Answer:** 0162
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2012_finale#q18|src_cesenatico_2012_finale__Q18]]
 
 
 
@@ -586,11 +669,15 @@ The following information is provided by the manufacturer:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max area of parallel-piped shadow (45 degrees)*
+*Area, in m2, of the ground shaded by a 105 × 77 × 36 metre block when the sun is due south at 45° to the ground, the orientation chosen to maximise that area*
 
-> The manor of Mr. Satan Mr. Considered the world's greatest martial arts expert, Satan is building himself a home that shadows every neighbor's home. . . literally. Mr. Satan requested that the building be a rectangular parallel piped of 105 × 77 × 36 metres, but did not specify which of these three measures should be the height: he only wants it to be positioned so as to maximize the area of the shaded area on the ground when sunlight hits the ground from the south. (The ground beneath the building is not considered shaded.)
+> Mr Satan's manor
+> Mr Satan, regarded as the strongest martial-arts expert in the world, is having a residence built that will put all the neighbours' houses in the shade... literally. Mr Satan has asked that the building be a rectangular parallelepiped of 105 × 77 × 36 metres, but he has not specified which of these three measurements is to be the height: he only wants it positioned so as to maximise the area of the zone shaded on the ground when the sunlight comes from the south and strikes at 45° to the ground. (The ground under the building is not considered shaded.) How many m2 does this area measure?
 
-**Answer:** 8925
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2012_finale#q19|src_cesenatico_2012_finale__Q19]]
 
 
 
@@ -618,13 +705,16 @@ The following information is provided by the manufacturer:
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minutes to destroy C-18 (graph islands)
+*Pell is looking for C-18 in an archipelago of 11 islands and 20 bridges; the statement and the figure break off*
 
-![[src_cesenatico_2012_finale__prob20.png]]
+> The archipelago
+> Pell is looking for C-18, who is hiding in an archipelago made up of 11 islands and 20 bridges (as in the figure). Pell has 3 possible moves:
 
-> The Pell archipelago is looking for C-18, which hides in an archipelago made up of 11 islands and 20 bridges (as shown in the figure), Pell has 3 possible moves:
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 
-**Answer:** 0049
+[[src_cesenatico_2012_finale__prob20.png]]
 
 
 
@@ -648,11 +738,16 @@ Minutes to destroy C-18 (graph islands)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance on the surface of pyramids (6)*
+*Square of the shortest path, on the surface, from one corner of a 3×2 block of pyramids of side 15 to the opposite corner*
 
-> 21. Everyone fights and the search for the spheres is up to the brave Bourba, who is about to explore a block of six square-based pyramids, with the side faces of the triangles equilateral on side 15, arranged in a rectangle of 3×2 and adjacent to each other. Bourba is at a top of the base rectangle, but the dragon radar reveals that he must look for the sphere in the pyramid whose entrance is right at the opposite top of the base rectangle: he must have mistakenly consulted the map. How much road does he have to take at least, walking on the surface of the pyramids, to get to the entrance? The answer is the square of the minimum distance.
+> 21. Some fly and some walk
+> Everyone is fighting, and the search for the spheres falls to the brave Bourba, who is about to explore a block of 6 pyramids with square base, with equilateral triangular lateral faces of side 15, arranged in a 3×2 rectangle and adjacent to one another. Bourba is at a vertex of the base rectangle, but the dragon radar reveals that she must look for the sphere in the pyramid whose entrance is precisely at the opposite vertex of the base rectangle: she must have misread the map. What is the least distance she must travel, walking on the surface of the pyramids, to reach the entrance? Give as the answer the square of the minimum distance.
 
-**Answer:** 4275
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2012_finale#q21|src_cesenatico_2012_finale__Q21]]
 
 
 
@@ -676,11 +771,16 @@ Minutes to destroy C-18 (graph islands)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers 0 to 999 with digits 3 or 6 (fusion)*
+*The aura of the warrior who emerged from the fusion, the sum of the two auras*
 
-> 22. Fusion dance Gonioku first saw fusion dance by two inhabitants of the planet Metamor. Normally, it's necessary that the two warriors who join together have the same aura, but in that case, he succeeded even if he didn't. In particular, the aura of one of the two warriors was equal to the sum of all integers between 0 and 999 containing at least a digit 3, and that of the second was equal to the sum of all integers between 0 and 999 containing at least a digit 6. The warrior who emerged had an aura equal to the sum of the two. How much was this number worth?
+> 22. Fusion dance
+> Gonioku first saw the fusion dance performed by two inhabitants of the planet Metamor. Normally the two warriors who unite need to have the same aura, but in that case it succeeded even though that was not so. In particular, the aura of one of the two warriors was equal to the sum of all the integers between 0 and 999 that contain at least one digit 3, and that of the second was equal to the sum of all the integers between 0 and 999 that contain at least one digit 6. The warrior who emerged had an aura equal to the sum of the two. What was that number worth?
 
-**Answer:** 0729
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2012_finale#q22|src_cesenatico_2012_finale__Q22]]
 
 
 
@@ -704,11 +804,16 @@ Minutes to destroy C-18 (graph islands)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*x^2y^2-192xy+5776=16x^2+25y^2*
+*How many living beings in the universe are useful to the genkidama, those amplified by at least one other*
 
-> 23. The genkidama sphere Since no one is strong enough to defeat Margin Bu, Gonioku confronts him with the genkidama sphere, which takes energy from all living beings in the universe. In fact, if you associate living things with relative integers, you find that only those that prove to be amplified by at least one other living thing are useful. For how the technique works, given two integers x and y, we have that x is amplified by y if and only if x2y2− 192xy + 5776 = 16x2 + 25y2. How many living beings are useful to genkidama throughout the universe?
+> 23. The genkidama sphere
+> Since no one is strong enough to defeat Margin Bu, Gonioku faces him with the genkidama sphere, which takes energy from all the living beings in the universe. In fact, if one associates the living beings with the integers, one discovers that the only useful ones are those that turn out to be amplified by at least one other living being. As the technique works, given two integers x and y, one has that x is amplified by y if and only if x2y2− 192xy + 5776 = 16x2 + 25y2. How many living beings in the whole universe are useful to the genkidama?
 
-**Answer:** 0040
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2012_finale#q23|src_cesenatico_2012_finale__Q23]]
 
 
 
@@ -732,8 +837,13 @@ Minutes to destroy C-18 (graph islands)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AB=2:3*
+*The area of PAB, in square metres, for the point P inside the regular heptagon of area 4095 from which the dragon emerges*
 
-> 24. Last time our heroes collected the seven dragon spheres, but the ritual to evoke Shannon is more complicated than usual. The spheres are arranged on the vertices of a regular ABCDEFG hexagon of centre O and area 4095 $m^{2}$. The dragon will come out of a point P that must be inside the hexagon, be on the circumference passing through O, A and B and such that (PA−PB): AB = 2: 3. To summon the dragon, in addition to reciting the magic formula they will also have to say the area of PAB, in $m^{2}$. What number do they have to say?
+> 24. The summoning of the dragon
+> For the last time our heroes have gathered the 7 dragon spheres, but the ritual for summoning Shannon is more complicated than usual. They place the spheres at the vertices of a regular heptagon ABCDEFG with centre O and area 4095 $m^{2}$. The dragon will emerge from a point P which must be inside the heptagon, lie on the circle through O, A and B, and be such that (PA−PB) : AB = 2 : 3. To invoke the dragon, besides reciting the magic formula, they will also have to say the area of PAB, in $m^{2}$. What number will they have to say?
 
-**Answer:** 0325
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2012_finale#q24|src_cesenatico_2012_finale__Q24]]

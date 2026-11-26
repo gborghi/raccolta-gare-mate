@@ -30,9 +30,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i numeri interi positivi a,b,c,x,y,z che soddisfano due equazioni simmetriche*
+*Interi positivi a, b, c almeno 2 e x ≥ y ≥ z con a+b+c = xyz e x+y+z = abc*
 
-> Trova tutti gli integri positivi $a, b, c, x, y, z$ con $a \ge 2$, $b \ge 2$, $c \ge 2$, $x \ge y \ge z$ che soddisfano $$a + b + c = xyz, \quad x + y + z = abc.$$
+> Trovare tutti gli interi positivi $a, b, c, x, y, z$ con $a \ge 2$, $b \ge 2$, $c \ge 2$, $x \ge y \ge z$ che soddisfano
+>
+> $$a + b + c = xyz, \quad x + y + z = abc.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_pol_1998_r3#q01|src_pol_1998_r3__Q01]]
 
 
 
@@ -57,9 +65,19 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza a base di Fibonacci: trovare tutti n≥4 dove il termine è uguale a 1*
+*Successione di Fibonacci con F_0 = F_1 = 1, e successione a_k ricorsiva: per quali n almeno 4 il numero 1 compare tra gli a_k*
 
-> La sequenza di Fibonacci $(F_n)$ è data da $F_0 = F_1 = 1$ e $F_{n+2} = F_{n+1} + F_n$ per $n \ge 0$. Per un numero intero $n \ge 4$, considera la sequenza definita da $$a_0 = \frac{F_0}{F_n}, \quad a_{k+1} = \begin{cases} \dfrac{2a_k}{1 - a_k} & \text{for } a_k \ne 1, \\ a_k & \text{for } a_k = 1, \end{cases} \quad k = 0, 1, 2, \ldots$$ Trova tutti i numeri interi $n \ge 4$ per i quali il numero $1$ è un membro della sequenza $(a_k)$.
+> La successione di Fibonacci $(F_n)$ è data da $F_0 = F_1 = 1$ e da $F_{n+2} = F_{n+1} + F_n$ per $n \ge 0$. Per un intero $n \ge 4$, si consideri la successione definita da
+>
+> $$a_0 = \frac{F_0}{F_n}, \quad a_{k+1} = \begin{cases} \dfrac{2a_k}{1 - a_k} & \text{for } a_k \ne 1, \\ a_k & \text{for } a_k = 1, \end{cases} \quad k = 0, 1, 2, \ldots$$
+>
+> Trovare tutti gli interi $n \ge 4$ per cui il numero $1$ appartiene alla successione $(a_k)$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1998_r3#q02|src_pol_1998_r3__Q02]]
 
 
 
@@ -82,9 +100,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono base della piramide: intersezioni diagonali di cinque trapezioni sono coplanari*
+*Piramide a base pentagonale tagliata da un piano: i punti di incrocio delle diagonali dei cinque quadrilateri laterali sono complanari*
 
-> Un pentagono converso $ABCDE$ è la base di una piramide $ABCDES$. Un piano che non attraversa nessuna vertica della piramide incontra i bordi $SA$, $SB$, $SC$, $SD$, $SE$ rispettivamente nei punti $A'$, $B'$, $C'$, $D'$ e $E'$. Prova che i punti di intersezione dei diagonali dei quadrilaterali $ABB'A'$, $BCC'B'$, $CDD'C'$, $DEE'D'$, $EAA'E'$ sono coplanari.
+> Un pentagono convesso $ABCDE$ è la base di una piramide $ABCDES$. Un piano, che non passa per alcun vertice della piramide, incontra gli spigoli $SA$, $SB$, $SC$, $SD$, $SE$ nei punti $A'$, $B'$, $C'$, $D'$, $E'$ rispettivamente. Dimostrare che i punti di intersezione delle diagonali dei quadrilateri $ABB'A'$, $BCC'B'$, $CDD'C'$, $DEE'D'$, $EAA'E'$ sono complanari.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_1998_r3#q03|src_pol_1998_r3__Q03]]
 
 
 
@@ -107,9 +131,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con a_0=a_1 e ricorrenza di Fibonacci: infiniti termini divisibili per 7*
+*La successione con a_0 = a_1 e la ricorrenza di Fibonacci ha infiniti termini divisibili per 7*
 
-> Mostra che la sequenza $(a_n)$ definita da $a_0 = a_1$ e $a_n = a_{n-1} + a_{n-2}$ per $n \ge 2$ contiene infiniti termini divisibili da $7$.
+> Dimostrare che la successione $(a_n)$ definita da $a_0 = a_1$ e da $a_n = a_{n-1} + a_{n-2}$ per $n \ge 2$ contiene infiniti termini divisibili per $7$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_1998_r3#q04|src_pol_1998_r3__Q04]]
 
 
 
@@ -134,9 +164,19 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti D,E sul lato AB con rapporto AC2/CB2: dimostrare angoli uguali ACD e BCE*
+*Due punti su AB con lo stesso rapporto delle distanze, uguale al quadrato del rapporto dei lati: due angoli sono uguali*
 
-> I punti $D$ e $E$ si trovano sul lato $AB$ di un triangolo $ABC$ e soddisfano $$\frac{AD}{DB} = \frac{AE}{EB} = \frac{AC^2}{CB^2}.$$ Prove che $\angle ACD = \angle BCE$.
+> I punti $D$ e $E$ giacciono sul lato $AB$ di un triangolo $ABC$ e soddisfano
+>
+> $$\frac{AD}{DB} = \frac{AE}{EB} = \frac{AC^2}{CB^2}.$$
+>
+> Dimostrare che $\angle ACD = \angle BCE$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1998_r3#q05|src_pol_1998_r3__Q05]]
 
 
 
@@ -159,6 +199,12 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tavola d' scacchi in cerchio: cambia i segni nelle righe/colonne/diagonali; raggiunge 1 in esattamente un quadrato?*
+*Scacchiera dei quadrati unitari dentro il cerchio di raggio 1998: cambiando segno su righe, colonne e diagonali a 45 gradi, si può ottenere −1 in un solo quadrato?*
 
-> Considerate i quadrati di unità nel piano le cui vertici hanno coordinate interi. Che $S$ sia la scacchiera costituita da tutti i quadrati unitari che si trovano interamente all'interno del cerchio $x^2 + y^2 \le 1998^2$. In ogni quadrato della scacchiera $S$ è scritto un numero. In ogni mossa, possiamo cambiare il segno di tutti i numeri in una riga, colonna o diagonale di $S$ (una diagonale è costituita da tutti i quadrati unitari che si trovano su una linea che forma un angolo di $45^\circ$ con gli assi). È possibile avere $-1$ in esattamente un'unità quadrata di $S$ dopo infinite mosse?
+> Si considerino i quadrati unitari del piano i cui vertici hanno coordinate intere. Sia $S$ la scacchiera formata da tutti i quadrati unitari interamente contenuti nel cerchio $x^2 + y^2 \le 1998^2$. In ogni quadrato della scacchiera $S$ è scritto un numero. A ogni mossa si può cambiare il segno di tutti i numeri di una riga, di una colonna o di una diagonale di $S$ (una diagonale è l'insieme dei quadrati unitari che giacciono su una retta che forma un angolo di $45^\circ$ con gli assi). È possibile ottenere $-1$ in esattamente un quadrato unitario di $S$ dopo un numero finito di mosse?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_1998_r3#q06|src_pol_1998_r3__Q06]]

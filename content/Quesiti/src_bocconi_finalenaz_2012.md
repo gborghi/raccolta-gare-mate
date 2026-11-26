@@ -36,15 +36,22 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eleven numbers in alphabetical order, third position*
+*Eleven numbers in alphabetical order, third-to-last position*
 
-> Milena writes the eleven numbers you see above in letters and then she puts them in alphabetical order: five, ten, two, ...
-> 
+> Milena writes the eleven numbers you see above in words and then puts them in alphabetical order: five, ten, two, ...
+>
 > $$10 \; ; \; 9 \; ; \; 8 \; ; \; 7 \; ; \; 6 \; ; \; 5 \; ; \; 4 \; ; \; 3 \; ; \; 2 \; ; \; 1 \; ; \; 0$$
-> 
-> In alphabetical order, which of these eleven numbers will occupy the third position?
+>
+> In alphabetical order, which of these eleven numbers will occupy the third-from-last position?
 
-**Answer:** TRE
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q01|src_bocconi_finalenaz_2012__Q01]]
 
 
 
@@ -69,11 +76,17 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance in metres between Renato's home and school*
+*Distance in metres between Renato's house and the school*
 
-> Renato has long legs, and every two steps he advances by a foot and a half. When he goes from home to school, he's used to counting his steps; halfway through, he stops and thinks, "I've already taken 800 steps". What's the distance in meters between Renato's house and the school?
+> Renato has long legs, and every two steps he covers a distance of one and a half meters. When walking from home to school, he has the habit of counting his steps; halfway there, he stops and thinks, "I've already taken 800 steps." What is the distance in meters between Renato's house and the school?
 
-**Answer:** 1200
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q02|src_bocconi_finalenaz_2012__Q02]]
 
 
 
@@ -98,11 +111,17 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Second between first and last clock strike at 11*
+*Seconds between the first and last chime of the clock at 11*
 
-> Carla has noted that six seconds pass from the first to the last stroke when the clock in her country's church strikes at 6 a.m. How many seconds pass (from the first to the last stroke) when the same clock, five hours later, strikes 11?
+> Carla has noticed that 6 seconds pass from the first strike to the last when the clock at the church in her village strikes 6 a.m. How many seconds pass (from the first strike to the last) when the same clock, five hours later, strikes 11?
 
-**Answer:** 12
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q03|src_bocconi_finalenaz_2012__Q03]]
 
 
 
@@ -128,11 +147,18 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Next date with the sum of the digits equal to 39*
+*Next date with a digit sum equal to 39*
 
-> A week ago it was May 12, 2012, which you can write as May 12, 2012. If you rewrite these numbers, you get: $1+2+0+5+2+0+1+2=13$. What is the next date for which the sum of the digits (as done with 12 May 2012) is equal to 39?
+> A week ago, it was May 12, 2012, which can be written as 12.05.2012. If these digits of it are rewritten, you get: $1+2+0+5+2+0+1+2=13$. What is the next date for which the sum of the digits (as done with May 12, 2012) equals 39?
 
-**Answer:** 29-09-2089
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q04|src_bocconi_finalenaz_2012__Q04]]
 
 
 
@@ -160,13 +186,20 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete the diagram boxes with numbers from 1 to 10*
+*Fill in the boxes of the diagram with numbers from 1 to 10*
 
-> Complete the boxes in the diagram with the help of all natural numbers from $1$ to $10$ (so that $5$ and $10$ have already been placed in the figure) so that the three-box alignments, the two three-box alignments, and the six boxes placed on the circumference have the same sum. What's that amount?
+> Fill in the boxes of the diagram using all the natural numbers from $1$ to $10$ (so that $5$ and $10$ have already been placed in the figure) in such a way that the three-box alignments, the two three-box alignments, and the six boxes on the circumference all have the same sum. What is this sum?
 
 ![[src_bocconi_finalenaz_2012__q05.png]]
 
-**Answer:** (two solutions shown in the figure)
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q05|src_bocconi_finalenaz_2012__Q05]]
 
 
 
@@ -195,13 +228,21 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Insert + and - between digits 1-9 to get 2012*
+*Insert + and - signs between the digits 1–9 to get 2012*
 
-> Insert the "+" and "-" marks between the digits you see above (without changing their order) so that the operations that give the result are 2012. $$1 \quad 2 \quad 3 \quad 4 \quad 5 \quad 6 \quad 7 \quad 8 \quad 9$$
+> Insert "+" and "-" signs between the digits you see above (without changing their order) so that the calculations yield 2012.
+> $$1 \quad 2 \quad 3 \quad 4 \quad 5 \quad 6 \quad 7 \quad 8 \quad 9$$
 
 ![[src_bocconi_finalenaz_2012__q06.png]]
 
-**Answer:** $1234 - 5 - 6 + 789$
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q06|src_bocconi_finalenaz_2012__Q06]]
 
 
 
@@ -227,11 +268,18 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of boys in the group with the same sum
+*Maximum number of boys in a group with the same sum*
 
-> In the group of friends who meet on the square every Saturday afternoon, each boy added the number of the day of his birthday (from 1 to 31) to that of the month in which he was born, from 1 to 12. None of the boys were born on the same day of the month but all found, as a result of the sum, the same number (greater than 34). How many boys, at most, was the group?
+> In the group of friends who meet in the square every Saturday afternoon, each boy added the number of the day of his birthday (from 1 to 31) to the number of the month in which he was born (from 1 to 12). None of the boys was born on the same day of the month, but all of them obtained the same number (greater than 34) as the result of the addition. What was the maximum number of boys in the group?
 
-**Answer:** 8
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q07|src_bocconi_finalenaz_2012__Q07]]
 
 
 
@@ -259,13 +307,20 @@ Maximum number of boys in the group with the same sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Graph with nodes and connections between six boxes*
+*Graph with nodes and connections among six cells*
 
-> (Graph problem) Complete the boxes on the diagram so that each node is connected to the others according to the rules shown in the figure. What's the sum?
+> (Problem with graph figure) Complete the boxes in the diagram so that each node is connected to the others according to the rules shown in the figure. What is the sum?
 
 ![[src_bocconi_finalenaz_2012__q08.png]]
 
-**Answer:** (figure with graph in the solution)
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q08|src_bocconi_finalenaz_2012__Q08]]
 
 
 
@@ -295,13 +350,22 @@ Maximum number of boys in the group with the same sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First factor in multiplication by different symbols*
+*First factor in multiplication with different symbols*
 
-> In this multiplication, each symbol always represents the same number and two different symbols are representing two different numbers. $$\clubsuit \clubsuit \clubsuit \times 7 = \spadesuit \spadesuit \spadesuit$$ What is the first factor?
+> In this multiplication, each symbol always represents the same digit, and two different symbols represent two different digits.
+> $$\clubsuit \clubsuit \clubsuit \times 7 = \spadesuit \spadesuit \spadesuit$$
+> What is the first factor?
 
 ![[src_bocconi_finalenaz_2012__q09.png]]
 
-**Answer:** 1831
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q09|src_bocconi_finalenaz_2012__Q09]]
 
 
 
@@ -329,13 +393,20 @@ Maximum number of boys in the group with the same sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To divide the surface in steps into two equal parts*
+*Divide the stepped surface into two equal parts*
 
-> You want to divide the surface you see in the figure into two parts that have the same area, completing with a segment that does not leave the surface: two of the points on its border indicated in the figure with a "ball". How do you do that? (Pull the section in question in the reply sheet)
+> You want to divide the surface shown in the figure into two parts of equal area, using a line segment that does not extend outside the surface to complete the division: the segment should join two of the points on its boundary marked with a "dot" in the figure. How can you do this? (Draw the line segment in question on the answer sheet.)
 
 ![[src_bocconi_finalenaz_2012__q10.png]]
 
-**Answer:** (see the figure in the solution)
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q10|src_bocconi_finalenaz_2012__Q10]]
 
 
 
@@ -360,11 +431,17 @@ Maximum number of boys in the group with the same sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Today's age of the problem child over double age*
+*Current age of the child in question regarding double age*
 
-> The father says to his son, "In two years, when you are twice as old as you were 'in 20 years,' the father will be twice as old as you were". What is the child's current age?
+> The father says to the son, "In 2 years, when you are twice as old as you will be 'in 20 years', Dad will be twice as old as you are now." What is the son's current age?
 
-**Answer:** 4
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q11|src_bocconi_finalenaz_2012__Q11]]
 
 
 
@@ -392,11 +469,20 @@ Maximum number of boys in the group with the same sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of Lilianas with different digits, mean of the other two*
+*Liliana's number with different digits, the average of the other two*
 
-> Liliana took with an integer that is written with three different non-zero digits: $\heartsuit$, $\diamondsuit$, $\clubsuit$, where $\heartsuit$ indicates the number of hundreds, $\diamondsuit$ that of tens and $\clubsuit$ that of units. The number $\heartsuit\diamondsuit\clubsuit$ is also the mean of the other two numbers $\heartsuit\clubsuit\diamondsuit$ and $\clubsuit\heartsuit\diamondsuit$, i.e.: $$\heartsuit\diamondsuit\clubsuit = \frac{\heartsuit\clubsuit\diamondsuit + \clubsuit\heartsuit\diamondsuit}{2}$$ What is the number of Liliana?
+> Liliana has taken an integer that is written using three different non-zero digits: $\heartsuit$, $\diamondsuit$, $\clubsuit$, where $\heartsuit$ denotes the hundreds digit, $\diamondsuit$ the tens digit, and $\clubsuit$ the units digit. The number $\heartsuit\diamondsuit\clubsuit$ is also equal to the average of the other two numbers, $\heartsuit\clubsuit\diamondsuit$ and $\clubsuit\heartsuit\diamondsuit$, that is:
+> $$\heartsuit\diamondsuit\clubsuit = \frac{\heartsuit\clubsuit\diamondsuit + \clubsuit\heartsuit\diamondsuit}{2}$$
+> What is Liliana's number?
 
-**Answer:** 481 or 518 or 592 or 629
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q12|src_bocconi_finalenaz_2012__Q12]]
 
 
 
@@ -426,11 +512,18 @@ Maximum number of boys in the group with the same sum
 
 *Fraction of the darkest part of the square*
 
-> In the square of the figure, segments have been drawn that connect some opposite vertices and the middle point of one side. The darkest part of the figure was thus formed. What's the darker fraction of the surface than the whole square?
+> In the square in the figure, line segments have been drawn connecting certain opposite vertices and the midpoint of one side. This has formed the darkest part of the figure. What fraction of the area is the darkest part relative to the area of the whole square?
 
 ![[src_bocconi_finalenaz_2012__q13.png]]
 
-**Answer:** $\frac{11}{20}$
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q13|src_bocconi_finalenaz_2012__Q13]]
 
 
 
@@ -455,11 +548,17 @@ Maximum number of boys in the group with the same sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lightness of the channel with two steady-speed boats*
+*Channel width with two boatmen at constant speed*
 
-> Two boatmen, each sailing at a constant speed, leave respectively the two opposite and parallel banks of a canal and meet for the first time $3{,}5$ km from the north shore. Then they continue their route, reach the opposite shore and, without delay, reach the opposite shore (always at the same constant speed) to meet again 2 km from the south shore. What is the width of the channel (in km)?
+> Two boatmen, each traveling at a constant speed, set off from the two opposite and parallel banks of a canal and meet for the first time at $3{,}5$ km from the north bank. They then continue on their way, reach the opposite bank, and, without any delay, reach the opposite bank (still at the same constant speed) and meet again 2 km from the south bank. What is the width of the canal (in km)?
 
-**Answer:** 8,5
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q14|src_bocconi_finalenaz_2012__Q14]]
 
 
 
@@ -489,11 +588,18 @@ Maximum number of boys in the group with the same sum
 
 *Distance between Arithmeville and Geometry on a square map*
 
-> The cities of Mathpolis, Analys, Geometry and Logix are situated on the summits of a square whose side measures 60 km. Then there are the cities of Arithmeville and Algebra, aligned with Logix and Geometry. Now, knowing that the distance between Mathpolis and Algebra is 150 miles, what is the distance between Arithmeville and Geometry?
+> The cities of Mathpolis, Analys, Geometry, and Logix are located at the vertices of a square whose side measures 60 km. There are also the cities of Arithmeville and Algebra, which lie on the same line as Logix and Geometry. Given that the distance between Mathpolis and Algebra is 156 km, what is the distance between Arithmeville and Geometry?
 
 ![[src_bocconi_finalenaz_2012__q15.png]]
 
-**Answer:** 35
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q15|src_bocconi_finalenaz_2012__Q15]]
 
 
 
@@ -521,13 +627,20 @@ Maximum number of boys in the group with the same sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of curved triangle between three tangent circles*
+*Area of the curvilinear triangle formed by three tangent circles*
 
-> The three circles of the figure, tangent two to two, have the same radius. The curved triangle, coloured in the figure, has a 'side' of $106$ cm. What's your area?
+> The three circles in the figure, each pair of which is tangent to one another, have the same radius. The curvilinear triangle, colored in the figure, has a "side" of $106$ cm. What is its area?
 
 ![[src_bocconi_finalenaz_2012__q16.png]]
 
-**Answer:** $144$ cm$^2$
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q16|src_bocconi_finalenaz_2012__Q16]]
 
 
 
@@ -555,13 +668,20 @@ Maximum number of boys in the group with the same sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Finding a, b, c with minimum sum and perfect squares*
+*Find a, b, c with minimum sum and perfect squares*
 
-> Write a natural number (not zero) in each of the white boxes so that their sum is as small as possible. Note, however, to the following rules: the number of the box $b$ must be comprised between that of the box $a$ and that of the box $c$; each coloured box is immediately connected by a circumference with two white boxes to which it is immediately connected and this sum must be a perfect square.
+> Write a (non-zero) natural number in each of the white boxes so that their sum is as small as possible. However, pay attention to the following rules: the number in box $b$ must lie between the number in box $a$ and the number in box $c$; each colored box is directly connected by a circle to two white boxes with which it is directly connected, and this sum must be a perfect square.
 
 ![[src_bocconi_finalenaz_2012__q17.png]]
 
-**Answer:** a=6, b=19, c=30
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q17|src_bocconi_finalenaz_2012__Q17]]
 
 
 
@@ -589,13 +709,20 @@ Maximum number of boys in the group with the same sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nando's Age with forest of 969 trees*
+*Nando's age with a forest of 969 trees*
 
-> By the age of 1, Nando had already planted a tree in his private forest. By the age of two, he had planted other trees to form a regular triangle, with sides with two trees on each side and the first tree located on a top. At 3 years old, Nando still plants other trees to form a new regular polygon (always $n$ sides) with three trees per side and two sides that extend those of the previous year's polygon. And so on and so forth. Figure illustrates the cases where $n$ is $3, 4, 6$ subsequent forests, up to the age of 4 years. Today, in the forest involved in Nando's next birthday, there would be 969 trees. What is Nando's age (more than 4 years and less than 100)?
+> At 1 year old, Nando had already planted a tree in his private forest. At 2 years old, he had planted some other trees so as to form a regular triangle, with two trees per side and the first tree located at a vertex. At 3 years old, Nando plants yet more trees so as to form a new regular polygon (still with $n$ sides), with three trees per side and two sides that extend those of the polygon from the previous year. And so on. The figure illustrates, in the cases where $n$ equals $3, 4, 6$, the successive forests up to the age of 4. Today, in the forest involved in Nando's subsequent birthdays, there would be 969 trees. What is Nando's age? (He is more than 4 years old and less than 100.)
 
 ![[src_bocconi_finalenaz_2012__q18.png]]
 
-**Answer:** 17
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_induzione|Induction]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q18|src_bocconi_finalenaz_2012__Q18]]
 
 
 
@@ -621,11 +748,18 @@ Maximum number of boys in the group with the same sum
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of 2011 products obtained by dividing 2012 stones*
+*Sum of the 2011 products obtained by dividing 2012 stones*
 
-> With 2012 stones, form two heaps and write the product of the number of stones contained in the first pile multiplied by the number of stones in the second pile. Then divide one of the two heaps into two new heaps and write the product of the number of stones contained in these new heaps respectively. Now divide one of the three heaps you get, write the product, etc. Until you have all the heaps made of one stone. How much is the sum of the 2011 products you wrote?
+> With 2012 stones, form two piles and write down the product of the number of stones in the first pile multiplied by the number of stones in the second pile. Then divide one of the two piles into two new piles and write down the product of the numbers of stones in these new piles, respectively. Now divide one of the three piles you have obtained, write down the product, etc., until all the piles consist of a single stone. What is the sum of the 2011 products you have written down?
 
-**Answer:** 2 023 066
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_induzione|Induction]], [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q19|src_bocconi_finalenaz_2012__Q19]]
 
 
 
@@ -655,8 +789,15 @@ Maximum number of boys in the group with the same sum
 
 *Natural circuit with nodes and cells connected in order*
 
-> In a natural circuit $a$, there are $b$ nodes in the $c$ cells in the figure. Attention, however, each node must be connected (from the smallest to the largest, therefore) once with a stroke or with an arrow) to each of the other numbers. In addition, each arrow must be oriented towards the larger of the two numbers it connects (from the smaller to the larger, therefore).
+> In a natural circuit $a$, there are $b$ nodes in the $c$ cells in the figure. However, note that each node must be connected (thus, from the smallest to the largest) once—by a line segment or an arrow—to each of the other numbers. Furthermore, each arrow must be directed toward the larger of the two numbers it connects (thus, from the smallest to the largest).
 
 ![[src_bocconi_finalenaz_2012__q20.png]]
 
-**Answer:** (three cross-shaped configurations in the solution)
+> [!warning] Excerpt to be verified against the source.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2012#q20|src_bocconi_finalenaz_2012__Q20]]

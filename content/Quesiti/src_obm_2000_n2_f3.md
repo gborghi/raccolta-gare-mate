@@ -32,13 +32,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre dadi incollati identici su un tavolo; trovare la somma delle tre facce in contatto con il tavolo.*
+*Tre dadi identici incollati su un tavolo; determina la somma delle tre facce a contatto con il tavolo.*
 
-> Paulo ha tre dadi comuni identici, su cui la somma dei numeri su due facce opposte è sempre uguale a $7$. Colla i dadi insieme in modo che ogni coppia di volti collacciati mostri lo stesso numero, e poi li posiziona su un tavolo non trasparente, come indica la figura. La somma dei numeri su tutte le undici facce visibili è $36$. Qual è la somma dei numeri sulle tre facce che sono in contatto con la tavola?
+> Paulo ha tre dadi comuni identici, sui quali la somma dei numeri presenti su due facce opposte è sempre uguale a $7$. Incolla i dadi in modo che ogni coppia di facce incollate mostri lo stesso numero, e poi li posiziona su un tavolo opaco, come indicato nella figura. La somma dei numeri presenti su tutte le undici facce visibili è $36$. Qual è la somma dei numeri presenti sulle tre facce a contatto con il tavolo?
 
 ![[src_obm_2000_n2_f3__q01.png]]
 
-**Risposta:** 13
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_obm_2000_n2_f3#q01|src_obm_2000_n2_f3__Q01]]
 
 
 
@@ -61,9 +66,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due mazzi di 50 carte a doppio lato che mostrano ciascuno 1-100; mostrano che tutte le 100 carte possono essere posizionate in modo che le facce verso l'alto mostrino ogni numero da 1 a 100.*
+*Due mazzi, ciascuno composto da 50 carte fronte-retro con i numeri da 1 a 100; si dimostri che tutte le 100 carte possono essere disposte in modo che le facce visibili mostrino tutti i numeri da 1 a 100.*
 
-> Isabel ha due mazzi, ognuno con carte $50$. Su ciascun mazzo sono scritti i numeri da $1$ a $100$ (su ogni carta sono scritti due numeri, uno su ogni faccia della carta). A causa di un difetto di fabbricazione, la distribuzione dei numeri delle schede non è uguale nei due mazzi (ad esempio, in uno dei mazzi la $1$ appare sulla stessa scheda della $2$; nell'altro, la $1$ appare con la $76$). Indicare come Isabel deve procedere in modo che, quando si collocano le carte $100$ su un tavolo, le facce rivolte verso l'alto mostrino tutti i numeri da $1$ a $100$.
+> Isabel ha due mazzi, ciascuno composto da $50$ carte. Su ciascun mazzo sono scritti i numeri da $1$ a $100$ (su ogni carta sono scritti due numeri, uno su ciascuna faccia della carta). A causa di un difetto di fabbricazione, la distribuzione dei numeri sulle carte non è la stessa nei due mazzi (per esempio, in uno dei mazzi l'$1$ compare sulla stessa carta dell'$2$; nell'altro, l'$1$ compare insieme all'$76$). Mostra come Isabel dovrebbe procedere affinché, quando le $100$ carte vengono posate su un tavolo, le facce rivolte verso l'alto mostrino tutti i numeri da $1$ a $100$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_bigezione|Biiezione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n2_f3#q02|src_obm_2000_n2_f3__Q02]]
 
 
 
@@ -92,13 +104,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trissezione di un angolo piegato in carta; prova che le linee AA' e AB' dividono l'angolo alfa in tre parti uguali.*
+*Trisettione di un angolo mediante piegatura della carta; dimostrare che le rette AA' e AB' dividono l'angolo alfa in tre parti uguali.*
 
-> Su un foglio di carta una linea $r$ attraversa l'angolo $A$ del foglio e forma un angolo $\alpha$ con il bordo orizzontale, come nella figura 1. Per dividere questo angolo $\alpha$ in tre parti uguali realizziamo le seguenti costruzioni: a) inizialmente, segnichiamo due punti $B$ e $C$ sul confine verticale in modo che $AB = BC$; attraverso il punto $B$ disegniamo la linea $s$ parallela al confine (figura 2); b) poi, piegiamo la carta, ajustandola in modo che il punto $C$ coincida con un punto $C'$ sulla linea $r$ e il punto $A$ coincida con un punto $A'$ sulla linea $s$ (figura 3); chiamiamo $B'$ il punto con cui $B$ coincide.
-> 
-> Indicare che le linee $AA'$ e $AB'$ dividono l'angolo $\alpha$ in tre parti uguali.
+> Su un foglio di carta, una retta $r$ passa per il vertice $A$ del foglio e forma un angolo $\alpha$ con il bordo orizzontale, come nella figura 1. Per dividere questo angolo $\alpha$ in tre parti uguali, eseguiamo le seguenti costruzioni:
+> a) inizialmente, segniamo due punti $B$ e $C$ sul bordo verticale in modo che $AB = BC$; passando per il punto $B$, tracciamo la retta $s$ parallela al bordo (figura 2);
+> b) Successivamente, pieghiamo la carta, regolandola in modo che il punto $C$ coincida con un punto $C'$ sulla retta $r$ e il punto $A$ coincida con un punto $A'$ sulla retta $s$ (figura 3); chiamiamo $B'$ il punto con cui $B$ coincide.
+>
+> Dimostrare che le rette $AA'$ e $AB'$ dividono l'angolo $\alpha$ in tre parti uguali.
 
 ![[src_obm_2000_n2_f3__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2000_n2_f3#q03|src_obm_2000_n2_f3__Q03]]
 
 
 
@@ -122,8 +143,13 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Decidere se due potenze distinte di 2 con lo stesso numero di cifre possono essere riorganizzazioni digitali reciprocamente.*
+*Decidi se due potenze distinte di 2 con lo stesso numero di cifre possono essere permutazioni delle cifre l'una dell'altra.*
 
-> È possibile trovare due potenze di $2$, distinte e con lo stesso numero di cifre, in modo tale che una possa essere ottenuta mediante una riorganizzazione delle cifre dell'altra?
+> È possibile trovare due potenze di $2$, distinte e con lo stesso numero di cifre, tali che una possa essere ottenuta tramite una permutazione delle cifre dell'altra?
 
-**Risposta:** No, non è possibile.
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n2_f3#q04|src_obm_2000_n2_f3__Q04]]

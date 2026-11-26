@@ -22,18 +22,20 @@ level: Baltic Way
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** sì, esiste (costruzione nella soluzione ufficiale)
-**Fonte risposta:** [soluzione ufficiale PDF p.6](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=6)
-**Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.6
+**Fonte:** apri PDF p.3 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequence with exactly 2025 pairs for every difference*
+*A sequence with exactly 2025 pairs for each difference*
 
-> Does there exist a sequence of integers $a_1, a_2, \dots$ such that for each integer $d \ne 0$ there are exactly 2025 distinct pairs of indices $(i, j)$ for which $a_i - a_j = d$?
+> Does there exist a sequence of integers $a_1, a_2, \dots$ such that, for every integer $d\ne0$, there are exactly 2025 distinct pairs of indices $(i,j)$ with $a_i-a_j=d$?
 
-**Answer:** yes, such a sequence exists (construction in the official solution)
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+[[Quesiti/src_baltic_way_2025#q01|src_baltic_way_2025__Q01]]
 
 
 
@@ -52,8 +54,8 @@ level: Baltic Way
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** [soluzione ufficiale PDF p.7](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=7)
-**Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.7
+**Fonte:** apri PDF p.3 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -63,10 +65,12 @@ level: Baltic Way
 
 > Let $a_1, a_2, \dots$ be a sequence of real numbers such that
 > $$\{a_n\}\lfloor a_{n+1}\rfloor=\lfloor a_n\rfloor\{a_{n+1}\}$$
-> for each positive integer $n$. Prove that there is a real number $\lambda$ such that $\{a_m\}\lfloor a_m\rfloor = \lambda$ for infinitely many positive integers $m$.
-> *Remark:* For a real number $x$, $\lfloor x\rfloor$ denotes the greatest integer that does not exceed $x$, and $\{x\} = x - \lfloor x\rfloor$.
+> for every positive integer $n$. Prove that there exists a real number $\lambda$ such that $\{a_m\}\lfloor a_m\rfloor=\lambda$ for infinitely many positive integers $m$.
+> *Note:* for a real number $x$, $\lfloor x\rfloor$ denotes the greatest integer not exceeding $x$, and $\{x\}=x-\lfloor x\rfloor$.
 
-**Answer:** proof — official solution in the PDF
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+[[Quesiti/src_baltic_way_2025#q02|src_baltic_way_2025__Q02]]
 
 
 
@@ -84,8 +88,8 @@ level: Baltic Way
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** [soluzione ufficiale PDF p.9](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=9)
-**Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.9
+**Fonte:** apri PDF p.3 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -93,11 +97,13 @@ level: Baltic Way
 
 *Subadditive function on the rationals*
 
-> Let $f : \mathbb Q \to \mathbb Q$ be a function that satisfies
+> Let $f:\mathbb Q\to\mathbb Q$ be a function such that
 > $$f(x)+f(y)\ge f(x+y)$$
-> for all $x, y \in \mathbb Q$. Show that there exists an $\alpha \in \mathbb R$ such that $f(x) \ge \alpha x$ for all $x \in \mathbb Q$.
+> for every $x, y\in\mathbb Q$. Prove that there exists $\alpha\in\mathbb R$ such that $f(x)\ge\alpha x$ for every $x\in\mathbb Q$.
 
-**Answer:** proof — official solution in the PDF
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_baltic_way_2025#q03|src_baltic_way_2025__Q03]]
 
 
 
@@ -115,8 +121,8 @@ level: Baltic Way
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $f(x)=0$, $f(x)=\frac12$ e $f(x)=x^2$
-**Fonte risposta:** [soluzione ufficiale PDF p.11](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=11)
-**Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.11
+**Fonte:** apri PDF p.3 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -124,11 +130,13 @@ level: Baltic Way
 
 *Functional equation in four variables*
 
-> Find all functions $f : \mathbb R \to \mathbb R$ such that
+> Determine all functions $f:\mathbb R\to\mathbb R$ such that
 > $$\bigl(f(a-c)+f(b-d)\bigr)\bigl(f(a)+f(b)\bigr)=f(ad-bc)+f\bigl(f(a)+f(b)-ac-bd\bigr)$$
-> for all real numbers $a, b, c, d$.
+> for every choice of real numbers $a, b, c, d$.
 
-**Answer:** $f(x)=0$, $f(x)=\frac12$ and $f(x)=x^2$
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_baltic_way_2025#q04|src_baltic_way_2025__Q04]]
 
 
 
@@ -147,21 +155,23 @@ level: Baltic Way
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** [soluzione ufficiale PDF p.12](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=12)
-**Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.12
+**Fonte:** apri PDF p.3 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inequality between power sums*
+*Inequality between sums of powers*
 
-> Let $n$ be a positive integer and let $x_1 \le x_2 \le \cdots \le x_n$ be positive real numbers satisfying
+> Let $n$ be a positive integer and let $x_1\le x_2\le\cdots\le x_n$ be positive real numbers such that
 > $$\frac{x_1^3+x_2^3+\cdots+x_n^3}{x_1+x_2+\cdots+x_n}=\frac{x_1^2+x_n^2}{2}.$$
 > Prove that
 > $$x_1^2+x_2^2+\cdots+x_n^2\ge nx_1x_n.$$
 
-**Answer:** proof — official solution in the PDF
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_baltic_way_2025#q05|src_baltic_way_2025__Q05]]
 
 
 
@@ -178,19 +188,21 @@ level: Baltic Way
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\frac{n(n-1)}{2}+1$
-**Fonte risposta:** [soluzione ufficiale PDF p.13](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=13)
-**Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.13
+**Fonte:** apri PDF p.3 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dodgeball*
+*Prisoner ball*
 
-> Let $n \ge 3$ friends play dodgeball. Initially all players are free. When a free player $A$ knocks out another free player $B$, $A$ imprisons $B$ and frees all players currently imprisoned by $B$. Two knock-outs cannot happen at the same time.
-> Find the least number of knock-outs after which it is possible that among every two players at least one has freed the other one.
+> $n\ge3$ friends play prisoner ball. At the start all players are free. When a free player $A$ eliminates another free player $B$, $A$ imprisons $B$ and frees all players imprisoned at that moment by $B$. Two eliminations cannot occur simultaneously.
+> Determine the minimum number of eliminations after which it is possible that, for every pair of players, at least one of the two has freed the other.
 
-**Answer:** $\frac{n(n-1)}{2}+1$
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+[[Quesiti/src_baltic_way_2025#q06|src_baltic_way_2025__Q06]]
 
 
 
@@ -206,8 +218,8 @@ level: Baltic Way
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** $K=\frac{n^2}{4}$
-**Fonte risposta:** [soluzione ufficiale PDF p.15](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=15)
-**Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.15
+**Fonte:** apri PDF p.3 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -215,9 +227,11 @@ level: Baltic Way
 
 *Needles in an n×n×n cube*
 
-> Let $n$ be an even positive integer. An $n \times n \times n$ cube is composed of $n^3$ unit cubes. A set of $n$ unit cubes that forms a $1 \times 1 \times n$ box is called a *needle*, which can have three orientations. Find the largest integer $K$, such that it is possible to select $3K$ needles, $K$ in each orientation, such that no two of them share a unit cube.
+> Let $n$ be a positive even integer. A cube $n\times n\times n$ is made up of $n^3$ unit cubes. A set of $n$ cubes forming a $1\times1\times n$ parallelepiped is called a *needle*; a needle can have three orientations. Determine the largest integer $K$ such that it is possible to choose $3K$ needles, $K$ for each orientation, pairwise with no cubes in common.
 
-**Answer:** $K=\frac{n^2}{4}$
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+[[Quesiti/src_baltic_way_2025#q07|src_baltic_way_2025__Q07]]
 
 
 
@@ -236,21 +250,23 @@ level: Baltic Way
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $2^n$
-**Fonte risposta:** [soluzione ufficiale PDF p.16](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=16)
-**Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.16
+**Fonte:** apri PDF p.3 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Self-descriptive sequences*
+*Self-describing sequences*
 
-> A sequence of non-negative integers $a_1, \dots, a_n$ is called *self-descriptive* if
+> A sequence of non-negative integers $a_1, \dots, a_n$ is called *self-describing* if
 > $$a_k=|\{i\mid a_i\ge k\}|$$
-> for each $k \in \{1, \dots, n\}$, i.e. $a_k$ equals the number of elements of the sequence that are greater than or equal to $k$, for each $k \in \{1, \dots, n\}$.
-> For each positive integer $n$, determine the number of self-descriptive sequences of length $n$.
+> for every $k\in\{1,\dots,n\}$, that is, if $a_k$ equals the number of terms of the sequence greater than or equal to $k$, for every $k\in\{1,\dots,n\}$.
+> For every positive integer $n$, determine the number of self-describing sequences of length $n$.
 
-**Answer:** $2^n$
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+[[Quesiti/src_baltic_way_2025#q08|src_baltic_way_2025__Q08]]
 
 
 
@@ -266,8 +282,8 @@ level: Baltic Way
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** [soluzione ufficiale PDF p.18](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=18)
-**Fonte:** [apri PDF p.4](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=4) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.18
+**Fonte:** apri PDF p.4 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -275,9 +291,11 @@ level: Baltic Way
 
 *Baltic polyiamonds*
 
-> A *Baltic polyiamond* is an $n$-gon with side lengths $n, n-1, \dots, 2, 1$ in exactly this order, and all internal angles $120^\circ$ or $240^\circ$. Prove that for every Baltic polyiamond, $n$ is divisible by 6.
+> A *Baltic polyiamond* is an $n$-gon with side lengths $n, n-1, \dots, 2, 1$, exactly in this order, and with all interior angles of $120^\circ$ or $240^\circ$. Prove that for every Baltic polyiamond $n$ is divisible by 6.
 
-**Answer:** proof — official solution in the PDF
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_baltic_way_2025#q09|src_baltic_way_2025__Q09]]
 
 
 
@@ -299,24 +317,26 @@ level: Baltic Way
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** [soluzione ufficiale PDF p.21](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=21)
-**Fonte:** [apri PDF p.4](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=4) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.21
+**Fonte:** apri PDF p.4 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Wonderful numbers*
+*“Wonderful” numbers*
 
-> A positive integer with 9 digits is called *nice* if it contains each digit from 1 to 9. A number is called *wonderful* if it is nice and for each $k = 1, \dots, 9$, it holds that the $k$-th digit in the number is equal to the position of $k$ in the number. For example, 847296315 is wonderful:
+> A positive 9-digit integer is called *beautiful* if it contains all the digits from 1 to 9. A number is called *wonderful* if it is beautiful and, for every $k=1,\dots,9$, the $k$-th digit of the number is equal to the position of $k$ in the number. For example, 847296315 is wonderful:
 >
-> - the first digit is 8, which is the position of 1 in the number,
-> - the second digit is 4, which is the position of 2 in the number,
+> - the first digit is 8, which is the position of 1 in the number;
+> - the second digit is 4, which is the position of 2 in the number;
 > - the third digit is 7, which is the position of 3 in the number, and so on.
 >
-> Show that the number of wonderful numbers is even.
+> Prove that the number of wonderful numbers is even.
 
-**Answer:** proof — official solution in the PDF
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_baltic_way_2025#q10|src_baltic_way_2025__Q10]]
 
 
 
@@ -335,21 +355,23 @@ level: Baltic Way
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\lfloor n/2\rfloor$
-**Fonte risposta:** [soluzione ufficiale PDF p.22](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=22)
-**Fonte:** [apri PDF p.4](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=4) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.22
+**Fonte:** apri PDF p.4 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of lengths of two Baltic Ways*
+*Ratio of the lengths of two “Baltic Ways”*
 
-> Let $A_1, \dots, A_n$ be a sequence of points on the Euclidean plane. Some of the points may coincide, but the sequence contains at least two distinct points. A *Baltic Way* is a route defined by a permutation $B_1, \dots, B_n$ of the points $A_1, \dots, A_n$. The length of a Baltic Way is
+> Let $A_1, \dots, A_n$ be a sequence of points in the Euclidean plane. Some points may coincide, but the sequence contains at least two distinct points. A *Baltic Way* is a path defined by a permutation $B_1, \dots, B_n$ of the points $A_1, \dots, A_n$. The length of a Baltic Way is
 > $$|B_1B_2|+|B_2B_3|+\cdots+|B_{n-1}B_n|+|B_nB_1|,$$
-> where $|PQ|$ denotes the Euclidean distance between points $P$ and $Q$.
-> Let $K$ and $L$ be the lengths of some two Baltic Ways on the same sequence of $n$ points. For a given $n$, determine the maximum possible value of $K/L$ over all possible sequences $A_1, \dots, A_n$.
+> where $|PQ|$ denotes the Euclidean distance between the points $P$ and $Q$.
+> Let $K$ and $L$ be the lengths of two Baltic Ways on the same sequence of $n$ points. For a given $n$, determine the maximum possible value of $K/L$ as the sequence $A_1, \dots, A_n$ varies over all possibilities.
 
-**Answer:** $\lfloor n/2\rfloor$
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+[[Quesiti/src_baltic_way_2025#q11|src_baltic_way_2025__Q11]]
 
 
 
@@ -365,18 +387,20 @@ level: Baltic Way
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** [soluzione ufficiale PDF p.24](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=24)
-**Fonte:** [apri PDF p.4](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=4) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.24
+**Fonte:** apri PDF p.4 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Incentre, parallel to BC and AI = DQ*
+*Incenter, parallel to BC and AI = DQ*
 
-> In an acute triangle $ABC$ with $AB < AC$, the incentre is $I$ and the circumcircle is $\omega$. The line $AI$ intersects the side $BC$ at $D$. Let $T$ be the point on $\omega$ such that $AT \parallel BC$. The line $TI$ intersects $\omega$ again at $P$ and the circumcircle of triangle $APD$ again at $Q$. Prove that $AI = DQ$.
+> In an acute triangle $ABC$ with $AB<AC$, let $I$ be the incenter and $\omega$ the circumcircle. The line $AI$ intersects side $BC$ at $D$. Let $T$ be the point on $\omega$ such that $AT\parallel BC$. The line $TI$ intersects $\omega$ again at $P$ and the circumcircle of triangle $APD$ again at $Q$. Prove that $AI=DQ$.
 
-**Answer:** proof — official solution in the PDF
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_baltic_way_2025#q12|src_baltic_way_2025__Q12]]
 
 
 
@@ -394,8 +418,8 @@ level: Baltic Way
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** [soluzione ufficiale PDF p.25](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=25)
-**Fonte:** [apri PDF p.4](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=4) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.25
+**Fonte:** apri PDF p.4 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -403,11 +427,13 @@ level: Baltic Way
 
 *Cyclic quadrilateral and PE ⊥ BC*
 
-> In a cyclic quadrilateral $ABCD$, the lines $AB$ and $CD$ intersect at $E$. A point $P$ lies inside $ABCD$ and satisfies
-> $$\angle BAP=\angle PCB\quad\text{and}\quad\angle CBP=\angle PDC.$$
-> Prove that $PE \perp BC$.
+> In a cyclic quadrilateral $ABCD$, the lines $AB$ and $CD$ intersect at $E$. A point $P$ inside $ABCD$ satisfies
+> $$\angle BAP=\angle PCB\quad\text{e}\quad\angle CBP=\angle PDC.$$
+> Prove that $PE\perp BC$.
 
-**Answer:** proof — official solution in the PDF
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_baltic_way_2025#q13|src_baltic_way_2025__Q13]]
 
 
 
@@ -423,18 +449,20 @@ level: Baltic Way
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** [soluzione ufficiale PDF p.26](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=26)
-**Fonte:** [apri PDF p.4](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=4) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.26
+**Fonte:** apri PDF p.4 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Orthocentre and angle HPR*
+*Orthocenter and angle HPR*
 
-> In an acute triangle $ABC$ with $AB < AC$, the circumcircle is $\omega$ and the orthocentre is $H$. The point $P$ on major arc $BC$ of $\omega$ satisfies $\angle PCB + \angle ACB = 90^\circ$. The point $R$ on segment $AC$ satisfies $BR = CR$. Prove that $\angle HPR = \angle ACB$.
+> In an acute triangle $ABC$ with $AB<AC$, the circumscribed circle is $\omega$ and the orthocenter is $H$. The point $P$ on the major arc $BC$ of $\omega$ satisfies $\angle PCB+\angle ACB=90^\circ$. The point $R$ on segment $AC$ satisfies $BR=CR$. Prove that $\angle HPR=\angle ACB$.
 
-**Answer:** proof — official solution in the PDF
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_baltic_way_2025#q14|src_baltic_way_2025__Q14]]
 
 
 
@@ -450,18 +478,20 @@ level: Baltic Way
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** [soluzione ufficiale PDF p.27](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=27)
-**Fonte:** [apri PDF p.4](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=4) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.27
+**Fonte:** apri PDF p.4 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perpendicular bisectors and collinear circumcentres*
+*Perpendicular bisectors of the sides and collinear circumcentres*
 
-> In an acute, scalene triangle $ABC$, the perpendicular bisector of $BC$ intersects $AC$ and $AB$ in $A_b$ and $A_c$, respectively. Define $B_c$, $B_a$, $C_a$ and $C_b$ similarly. Prove that the circumcentres of $ABC$, $A_bB_cC_a$, and $A_cB_aC_b$ are collinear.
+> In an acute scalene triangle $ABC$, the perpendicular bisector of $BC$ intersects $AC$ and $AB$ respectively at $A_b$ and $A_c$. Define $B_c$, $B_a$, $C_a$ and $C_b$ analogously. Prove that the circumcentres of $ABC$, $A_bB_cC_a$ and $A_cB_aC_b$ are collinear.
 
-**Answer:** proof — official solution in the PDF
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_baltic_way_2025#q15|src_baltic_way_2025__Q15]]
 
 
 
@@ -478,8 +508,8 @@ level: Baltic Way
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** [soluzione ufficiale PDF p.28](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=28)
-**Fonte:** [apri PDF p.4](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=4) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.28
+**Fonte:** apri PDF p.4 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -487,10 +517,12 @@ level: Baltic Way
 
 *Digit sums and abc = 10^n − 1*
 
-> Let $a, b, c, n$ be positive integers satisfying $abc = 10^n - 1$. If $S(x)$ denotes the sum of digits of $x$ in decimal notation, prove that
+> Let $a, b, c, n$ be positive integers such that $abc=10^n-1$. If $S(x)$ denotes the sum of the digits of $x$ in decimal notation, prove that
 > $$S(a)+S(b^2)+S(c^4)\ge\sqrt[3]{243n}.$$
 
-**Answer:** proof — official solution in the PDF
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_baltic_way_2025#q16|src_baltic_way_2025__Q16]]
 
 
 
@@ -507,8 +539,8 @@ level: Baltic Way
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** tutti i numeri pari maggiori o uguali a 8
-**Fonte risposta:** [soluzione ufficiale PDF p.29](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=29)
-**Fonte:** [apri PDF p.5](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=5) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.29
+**Fonte:** apri PDF p.5 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -516,10 +548,12 @@ level: Baltic Way
 
 *Brilliant numbers*
 
-> A positive integer is called *brilliant* if its positive divisors can be partitioned into two sets with an equal number of elements and an equal sum of elements.
-> Find all possible values of the number of positive divisors of a brilliant number.
+> A positive integer is called *brilliant* if its positive divisors can be divided into two sets with the same number of elements and the same sum of elements.
+> Determine all possible values of the number of positive divisors of a brilliant number.
 
-**Answer:** all even numbers greater than or equal to 8
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_baltic_way_2025#q17|src_baltic_way_2025__Q17]]
 
 
 
@@ -537,8 +571,8 @@ level: Baltic Way
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $f(x)=1$ se $x$ è dispari o $x=2$; $f(x)\in\{1,2\}$ altrimenti
-**Fonte risposta:** [soluzione ufficiale PDF p.30](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=30)
-**Fonte:** [apri PDF p.5](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=5) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.30
+**Fonte:** apri PDF p.5 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -546,11 +580,13 @@ level: Baltic Way
 
 *Functional equation with lcm*
 
-> Find all functions $f : \mathbb Z_{>0} \to \mathbb Z_{>0}$ such that $f(2) = 1$ and
-> $$\operatorname{lcm}\bigl(f(a+b),f(b)\bigr)\mid\operatorname{lcm}\bigl(a+f(b),b\bigr)$$
-> for all positive integers $a, b$.
+> Determine all functions $f:\mathbb Z_{>0}\to\mathbb Z_{>0}$ such that $f(2)=1$ and
+> $$\operatorname{mcm}\bigl(f(a+b),f(b)\bigr)\mid\operatorname{mcm}\bigl(a+f(b),b\bigr)$$
+> for every pair of positive integers $a, b$.
 
-**Answer:** $f(x)=1$ if $x$ is odd or $x=2$; $f(x)\in\{1,2\}$ otherwise
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_baltic_way_2025#q18|src_baltic_way_2025__Q18]]
 
 
 
@@ -570,22 +606,24 @@ level: Baltic Way
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $N=99$
-**Fonte risposta:** [soluzione ufficiale PDF p.31](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=31)
-**Fonte:** [apri PDF p.5](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=5) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.31
+**Fonte:** apri PDF p.5 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Anna's divisor game*
+*Anna's game with divisors*
 
-> There are 100 positive integers written on a blackboard. Anna plays a game. A move consists of choosing two integers $a$ and $b$ on the blackboard with the property that $a \mid b$, erasing them both and writing the integer $b/a$. She makes moves until there are no more valid moves, at which point the game ends.
-> Find the largest $N$ such that for some initial state Anna can both:
+> 100 positive integers are written on the blackboard. Anna plays a game. A move consists of choosing two integers $a$ and $b$ on the blackboard with $a\mid b$, erasing both of them and writing the integer $b/a$. Anna makes moves until there are no more valid moves; at that point the game ends.
+> Determine the largest $N$ such that, for some initial configuration, Anna can both:
 >
-> - finish the game with only one number remaining, and
-> - finish the game with $N$ numbers remaining.
+> - end the game with a single number remaining, and
+> - end the game with $N$ numbers remaining.
 
-**Answer:** $N=99$
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+[[Quesiti/src_baltic_way_2025#q19|src_baltic_way_2025__Q19]]
 
 
 
@@ -601,8 +639,8 @@ level: Baltic Way
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $n=1$ e $n=2$
-**Fonte risposta:** [soluzione ufficiale PDF p.32](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=32)
-**Fonte:** [apri PDF p.5](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=5) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** soluzione ufficiale PDF p.32
+**Fonte:** apri PDF p.5 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -610,6 +648,8 @@ level: Baltic Way
 
 *Permutations with i·aᵢ distinct modulo n*
 
-> Determine all positive integers $n$ such that there exists a permutation $a_1, \dots, a_n$ of $1, \dots, n$, where the numbers $a_1, 2a_2, \dots, na_n$ are all pairwise distinct modulo $n$.
+> Determine all positive integers $n$ for which there exists a permutation $a_1, \dots, a_n$ of $1, \dots, n$ such that the numbers $a_1, 2a_2, \dots, na_n$ are pairwise distinct modulo $n$.
 
-**Answer:** $n=1$ and $n=2$
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+[[Quesiti/src_baltic_way_2025#q20|src_baltic_way_2025__Q20]]

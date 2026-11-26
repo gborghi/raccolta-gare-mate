@@ -35,13 +35,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pairs of tickets 1-200 with a sum of 100*
+*How many pairs among tickets 1–200 have a sum of 100?*
 
-> The tickets from James
->   
-> There are 200 tickets numbered from 1 to 200. James wants to match as many of these tickets as possible so that, for each pair of tickets he forms, the sum of the numbers shown on the tickets is 100. How many different pairs can he form? Attention: pairs should not be considered ordered, for example pairs {1,99} and {99,1} should be considered as a single pair.
+> Giacomo's Tickets
+>
+> There are 200 numbered tickets, from 1 to 200. Giacomo wants to pair as many of these tickets as possible so that, for each pair of tickets he forms, the sum of the numbers on the tickets is 100. How many different pairs can he form? Note: pairs are not to be considered ordered; for example, the pairs {1,99} and {99,1} are to be regarded as a single pair.
 
-**Answer:** 49
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_squadre_a#q01|src_kangourou_2016_squadre_a__Q01]]
 
 
 
@@ -69,11 +74,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Students who ski and swim (winter/summer sports)*
+*Pupils who ski and swim (winter/summer sports)*
 
-> School and sports In winter, of the 300 pupils in a school, 180 play football and the remaining 120 ski. In summer, all students either play tennis or swim, but no one does both. Fifty-six percent of those who play tennis in the summer play football in the winter; 30 percent of those who play football in the winter, swim in the summer. How many students are skiing and swimming?
+> School and Sport In winter, of the 300 pupils at a school, 180 play football and the other 120 ski. In summer, all the pupils either play tennis or swim, but no one does both sports. 56% of those who play tennis in summer play football in winter; 30% of those who play football in winter swim in summer. How many pupils ski and swim?
 
-**Answer:** 21
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_squadre_a#q02|src_kangourou_2016_squadre_a__Q02]]
 
 
 
@@ -98,11 +108,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x if the central number (9x) of 9 consecutive*
+*Value of x if it is the middle number (9x) of 9 consecutive numbers*
 
-> The central number The sum of 9 consecutive integers is 31000; the central number is 9x. What is the value of x ?
+> The middle number: The sum of 9 consecutive integers is 31000; the middle number is 9x. What is the value of x?
 
-**Answer:** 499
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_squadre_a#q03|src_kangourou_2016_squadre_a__Q03]]
 
 
 
@@ -130,9 +145,14 @@ level: squadre
 
 *N with 6 divisors, product of 5 = 5000*
 
-> Exactly 6 The positive integer N has exactly 6 distinct divisors, including 1 and N. The product of five of these is 5000. Which divisor is not among these five?
+> Exactly 6: The positive integer N has exactly 6 distinct divisors, including 1 and N. The product of 5 of these divisors is 5000. Which divisor is not among these 5?
 
-**Answer:** 25
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_squadre_a#q04|src_kangourou_2016_squadre_a__Q04]]
 
 
 
@@ -161,11 +181,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum number of cubes for filling 160x140x100
+*Minimum number of cubes to fill a 160x140x100 box*
 
-> A company produces only polystyrene cubes whose sides measure an integer number of centimetres, at the customer's choice (if reasonable). You have to fill exactly one box in the shape of a rectangular parallel-piped, whose dimensions in centimetres are 160 × 140 × 100, with polystyrene cubes, all equal between them. If you want to order as few cubes as possible, how many do you need to order?
+> Cubes A company produces only polystyrene cubes whose edges measure an integer number of centimetres, at the client's discretion (provided it is reasonable). You must fill exactly one rectangular parallelepiped-shaped crate, whose dimensions in centimetres are 160 × 140 × 100, with polystyrene cubes that are all identical. If you want to order as few cubes as possible, how many must you order?
 
-**Answer:** 280
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_squadre_a#q05|src_kangourou_2016_squadre_a__Q05]]
 
 
 
@@ -217,7 +242,7 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diagonal EF of the rhombus in the 48x36 rectangle*
+*Diagonal EF of the rhombus within the 48x36 rectangle*
 
 ![[src_kangourou_2016_squadre_a__prob6.png]]
 
@@ -236,20 +261,17 @@ Minimum number of cubes for filling 160x140x100
 \end{document}
 ```
 
-> The rhombus 
-> Look at the figure. The sides AB and AD of the rectangle ABCD are 
-> respectively 48 and 36 cm long, AECF is a rhombus. How many centimetres 
-> does its diagonal EF measure?    
->  
->  
-> D
-> A
-> B
-> C
-> F
-> E
+> Rhombus Observe the figure. The sides AB and AD of rectangle ABCD are 48 cm and 36 cm long, respectively; AECF is a rhombus. How many centimeters long is its diagonal EF?
+>
+>
+> D A B C F E
 
-**Answer:** 45
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_squadre_a#q06|src_kangourou_2016_squadre_a__Q06]]
 
 
 
@@ -276,15 +298,15 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*After how many minutes will the first candle be double the second*
+*After how many minutes before the second double candle?*
 
-> The two candles 
-> Two candles have the same length and, once lit, the consumption of each is directly 
-> proportional to time. One of the two candles burns out in 10 hours, the other in 8 hours. If they are 
-> lit at the same time, after how many minutes will the length of the first be double the 
-> length of the second?
+> The Two Candles Two candles are the same length, and once lit, each burns at a rate directly proportional to time. One of the two candles burns out in 10 hours, and the other in 8 hours. If they are lit at the same time, after how many minutes will the length of the first candle be twice the length of the second?
 
-**Answer:** 400
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_squadre_a#q07|src_kangourou_2016_squadre_a__Q07]]
 
 
 
@@ -310,11 +332,15 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many circles to divide the circular crown*
+*How many circles are needed to divide the circular annulus?*
 
-> The circular crown You have a circular crown whose outer and inner radii measure 12 and 2 cm respectively. You want to divide it into circular crowns, each with an area equal to that of the inner circle that was removed to form the initial crown. How many circumferences do you have to draw?
+> Circular annulus You have a circular annulus whose outer and inner radii are 12 cm and 2 cm, respectively. You want to divide it into circular annuli, each having an area equal to that of the inner circle that was removed to form the initial annulus. How many circumferences must you draw?
 
-**Answer:** 34
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_squadre_a#q08|src_kangourou_2016_squadre_a__Q08]]
 
 
 
@@ -341,11 +367,16 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Km traveled by the train that slows down every half hour*
+*Kilometers traveled by the train that slows down every half hour*
 
-> It is exactly noon. From this moment on, for half an hour, a train will travel at 195 km/h; then, again for half an hour, it will travel at 190 km/h and so on, decreasing its speed by 5 km/h every half an hour until it stops. How many kilometers has it traveled from noon until it stops?
+> The train: It is exactly noon. From this moment on, for half an hour, the train will travel at 195 km/h; then, for another half hour, it will travel at 190 km/h, and so on, decreasing its speed by 5 km/h every half hour until it comes to a stop. How many kilometers will it have traveled from noon until it comes to a stop?
 
-**Answer:** 1950
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_squadre_a#q09|src_kangourou_2016_squadre_a__Q09]]
 
 
 
@@ -371,11 +402,16 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many different bracelets with 7 coloured rings*
+*How many different bracelets with 7 colored rings?*
 
-> A bracelet for Carla Carla has seven rings of different colors. By placing them one by one and connecting them, he wants to build a bracelet. How many different bracelets can it form?
+> A bracelet for Carla. Carla has 7 small rings, each a different color. By placing them one after another and connecting them, she wants to make a bracelet. How many different bracelets can she make?
 
-**Answer:** 360
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_squadre_a#q10|src_kangourou_2016_squadre_a__Q10]]
 
 
 
@@ -401,11 +437,15 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Average speed second half of journey given total average*
+*Average speed for the second half of the journey given the overall average*
 
-> Average speed A train has completed half of a journey at an average speed of 50 km/h. What was its average speed (in km/h) for the remainder of the route, if the average speed on the entire route was 75 km/h?
+> Average speed A train covered half of a journey at an average speed of 50 km/h. What was its average speed (in km/h) for the remaining part of the journey, if the average speed over the entire journey was 75 km/h?
 
-**Answer:** 150
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_squadre_a#q11|src_kangourou_2016_squadre_a__Q11]]
 
 
 
@@ -430,11 +470,16 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remainder of N^2 divided by 23 given N=16 mod 23*
+*Remainder of N^2 divided by 23, given N=16 mod 23*
 
-> A positive integer N divided by 23 gives remainder 16. What is the remainder of N^2 divided by 23?
+> Division: A positive integer N, when divided by 23, leaves a remainder of 16. What is the remainder when N² is divided by 23?
 
-**Answer:** 3
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_squadre_a#q12|src_kangourou_2016_squadre_a__Q12]]
 
 
 
@@ -460,11 +505,16 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum of the largest of 20 distinct integers with mean 101*
+*Maximum of the greatest of 20 distinct integers, mean 101*
 
-> The arithmetic mean of 20 positive integers all different from each other is 101. What is the maximum value of the largest of these 20 numbers?
+> The mean The arithmetic mean of 20 distinct positive integers is 101. What is the maximum possible value of the largest of these 20 numbers?
 
-**Answer:** 1830
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_squadre_a#q13|src_kangourou_2016_squadre_a__Q13]]
 
 
 
@@ -506,7 +556,7 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of shaded cells in the magic grid 1-9*
+*Sum of shaded cells in the 1-9 magic grid*
 
 ![[src_kangourou_2016_squadre_a__prob14.png]]
 
@@ -523,9 +573,13 @@ Minimum number of cubes for filling 160x140x100
 \end{document}
 ```
 
-> The grid You want to insert the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9 into the still empty cells of the grid in the figure so that you always get the same number whether you add the numbers in a column or add those in a row. What is the sum of the numbers in the shaded cells?
+> The grid: The numbers 1, 2, 3, 4, 5, 6, 8, and 9 are to be placed in the still-empty cells of the grid shown in the figure so that the same number is obtained whether the numbers in a column are added or the numbers in a row are added. What is the sum of the numbers in the shaded cells?
 
-**Answer:** 22
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_squadre_a#q14|src_kangourou_2016_squadre_a__Q14]]
 
 
 
@@ -560,26 +614,16 @@ Minimum number of cubes for filling 160x140x100
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum result by entering brackets and marks in 1..5.*
+*Maximum result by inserting parentheses and signs in 1..5*
 
-> Symbols I have sequence 1 □ 2 □ 3 □ 4 □ 5. I put a left bracket ( and a right bracket ) in the sequence and I replace two of the symbols □ with the symbol + and two with the symbol – so that the result of the resulting algebraic expression is as high as possible. What is this result?
->  
->  
->  
->  
->  
->  
->  
-> 7
->  
->  
->  
-> 
->  
->  
-> Kangourou of Mathematics 2016 Kangourou Team Cup Semifinal round at Cervia, 7 May 2016
->  
->  
-> Questions and solutions
+> Symbols: I have the sequence 1 □ 2 □ 3 □ 4 □ 5. I insert a left parenthesis “(” and a right parenthesis “)” into the sequence, and I replace two of the □ symbols with the “+” symbol and two with the “–” symbol so that the value of the resulting algebraic expression is as large as possible. What is this value? 7 Kangaroo Mathematics Competition 2016 Team Cup Kangaroo Semifinal, Round A, Cervia, 7 May 2016
+>
+>
+> Questions and Solutions
 
-**Answer:** 11
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_squadre_a#q15|src_kangourou_2016_squadre_a__Q15]]

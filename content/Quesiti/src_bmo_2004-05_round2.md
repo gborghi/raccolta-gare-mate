@@ -31,9 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra N è un quadrato perfetto dato esattamente 2005 coppie ordinate (x,y)*
+*Mostra che N è un quadrato perfetto, dato che esistono esattamente 2005 coppie ordinate (x,y)*
 
-> Il numero intero $N$ è positivo. Esistono esattamente coppie ordinate 2005 $(x, y)$ di integri positivi che soddisfano $$\frac{1}{x} + \frac{1}{y} = \frac{1}{N}.$$ Prove che $N$ è un quadrato perfetto.
+> L'intero $N$ è positivo. Esistono esattamente 2005 coppie ordinate $(x, y)$ di interi positivi che soddisfano
+> $$\frac{1}{x} + \frac{1}{y} = \frac{1}{N}.$$
+> Dimostrare che $N$ è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2004-05_round2#q01|src_bmo_2004-05_round2__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bissettori angolari in triangolo 120°; il cerchio sul diametro EF passa attraverso D*
+*Bisettrici degli angoli nel triangolo di 120°; la circonferenza avente come diametro EF passa per D*
 
-> In triangolo $ABC$, $\angle BAC = 120^\circ$. I bisettori angolari degli angoli $A$, $B$ e $C$ devono incontrare i lati opposti rispettivamente in $D$, $E$ e $F$. Provare che il cerchio di diametro $EF$ passa attraverso $D$.
+> Nel triangolo $ABC$, $\angle BAC = 120^\circ$. Siano $D$, $E$ e $F$ i punti in cui le bisettrici degli angoli $A$, $B$ e $C$ intersecano rispettivamente i lati opposti. Dimostrare che la circonferenza avente come diametro $EF$ passa per $D$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2004-05_round2#q02|src_bmo_2004-05_round2__Q02]]
 
 
 
@@ -82,9 +98,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza dei valori reali positivi a, b con a+b=1*
+*Dimostrare la disuguaglianza per i numeri reali positivi a, b tali che a+b=1*
 
-> $a, b$ siano numeri reali positivi con $a + b = 1$. Provare che $$a^a b^b + a^b b^a \le 1.$$
+> Siano $a, b$ numeri reali positivi tali che $a + b = 1$. Dimostrare che
+> $$a^a b^b + a^b b^a \le 1.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2004-05_round2#q03|src_bmo_2004-05_round2__Q03]]
 
 
 
@@ -110,6 +134,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*3 sottoinsiemi di {1,...,36} che si intersecano in coppia ma che hanno un intersezione totale vuota; mostrare n≤100*
+*Sottinsiemi a 3 elementi di {1,...,36} a coppie intersecanti ma con intersezione totale vuota; mostrare che n≤100*
 
-> Il $X = \{A_1, A_2, \ldots, A_n\}$ deve essere una raccolta di sottoinsiemi di 3 elementi di $\{1, 2, \ldots, 36\}$ in modo tale che: (i) $A_i$ e $A_j$ abbiano un intersezione non vuota per ogni $i, j$; (ii) l'intersezione di tutti gli insiemi di $X$ sia vuota. Mostra che $n \le 100$. Quante serie $X$ esistono quando $n = 100$?
+> Sia $X = \{A_1, A_2, \ldots, A_n\}$ una famiglia di sottoinsiemi a 3 elementi di $\{1, 2, \ldots, 36\}$ tale che: (i) $A_i$ e $A_j$ hanno intersezione non vuota per ogni $i, j$; (ii) l'intersezione di tutti gli insiemi in $X$ è vuota. Dimostrare che $n \le 100$. Quanti di tali insiemi $X$ ci sono quando $n = 100$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2004-05_round2#q04|src_bmo_2004-05_round2__Q04]]

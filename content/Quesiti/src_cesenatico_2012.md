@@ -35,9 +35,20 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*1/x=1/AB+1/AC*
+*On the sides of a right-angled triangle a square AFDE is built; prove the broken relation in x, AB and AC*
 
-> On the sides of a triangle ABC rectangle in A three points D, E and F (on BC, AC and AB respectively) are chosen so that the quadrilateral AFDE is a square. If x is the length of one of its sides, prove that 1 x = 1 AB + 1 AC.
+> On the sides of a triangle ABC, right-angled at A, three points D, E and F are chosen (on BC, AC and AB respectively) so that the quadrilateral AFDE is a square. If x is the length of one of its sides, prove that
+> 1
+> x =
+> 1
+> AB +
+> 1
+> AC .
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2012#q01|src_cesenatico_2012__Q01]]
 
 
 
@@ -61,11 +72,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies equal to 300 times the sum of their digits*
+*All positive integers equal to 300 times the sum of their digits*
 
-> Determine all positive integers equal to 300 times the sum of their digits.
+> Determine all positive integers that are equal to 300 times the sum of their digits.
 
-**Answer:** 2700
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2012#q02|src_cesenatico_2012__Q02]]
 
 
 
@@ -92,9 +107,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*to determine the type of each*
+*With strictly more knaves than knights in single file, the declarations determine each person's type*
 
-> Whether n is an integer greater than or equal to 2. There are n people in the Indian queue, each of whom is either a con man (and always lies) or a knight (and always tells the truth). Each person, except the first, points to one of the people in front of her and declares This person is a con man or This person is a knight. Knowing that there are strictly more cunning than knights, prove that by watching the statements it is possible to determine for each of the people whether it is a cunning or a knight.
+> Let n be an integer greater than or equal to 2. There are n people in single file, each of whom is either a knave (and always lies) or a knight (and always tells the truth). Each person, except the first, points to one of the people in front of them and declares "This person is a knave" or "This person is a knight". Knowing that there are strictly more knaves than knights, prove that by witnessing the declarations it is possible to determine, for each of the people, whether they are a knave or a knight.
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the wording]]
+
+[[Quesiti/src_cesenatico_2012#q03|src_cesenatico_2012__Q03]]
 
 
 
@@ -124,11 +145,21 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*pairs {a,b} with xa·xb perfect square*
+*Positive integer pairs {a, b} such that xaxb is a perfect square, for the sequence given by a broken recurrence*
 
-> Whether x1, x2, x3, . . . the sequence defined by recurrence as follows: (x1 = 4 xn+1 = x1x2x3 · · xn + 5 for n ≥1. (The first terms of the sequence are then x1 = 4, x2 = 4 + 5 = 9, x3 = 4 · 9 + 5 = 41, . . . ) Find all the pairs of positive integers {a, b} such that xaxb is a perfect square.
+> Let x1, x2, x3, . . . be the sequence defined by recurrence as follows:
+> (
+> x1 = 4
+> xn+1 = x1x2x3 · · xn + 5
+> for n ≥ 1.
+> (The first terms of the sequence are therefore x1 = 4, x2 = 4 + 5 = 9, x3 = 4 · 9 + 5 = 41, . . . )
+> Find all pairs of positive integers {a, b} such that xaxb is a perfect square.
 
-**Answer:** {1,2}
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2012#q04|src_cesenatico_2012__Q04]]
 
 
 
@@ -155,11 +186,18 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*place of P points with angAPB+angCPD=180*
+*Locus of points P, other than the vertices, for which the broken angle sum equals 180o*
 
-> Let ABCD be a square. Describe the location of P points of the plane other than A, B, C, D for which \ APB + \ CPD = 180o.
+> Let ABCD be a square. Describe the locus of points P of the plane, other than A, B, C and D, for which
+> \
+> APB + \
+> CPD = 180o.
 
-**Answer:** diagonals and arcs of the circumcircle
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2012#q05|src_cesenatico_2012__Q05]]
 
 
 
@@ -185,8 +223,12 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*full colour strength difference a or b*
+*Pairs {a, b} of positive integers such that every 2-colouring of the positive integers has two of colour A differing by a, or two of colour B differing by b*
 
-> Determine all pairs {a, b} of positive integers with the following property: however you color the positive integers with two colors A and B, there are always two positive integers of color A with difference a or two positive integers of color B with difference b.
+> Determine all pairs {a, b} of positive integers with the following property: however one colours the positive integers with two colours A and B, there always exist two positive integers of colour A differing by a, or two positive integers of colour B differing by b.
 
-**Answer:** pairs whose largest power-of-2 divisors differ
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2012#q06|src_cesenatico_2012__Q06]]

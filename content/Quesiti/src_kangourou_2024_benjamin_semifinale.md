@@ -35,14 +35,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of the three numbers thought of by Adele, Beatrice, and Cecilia*
+*Product of the three numbers conceived by Adele, Beatrice, and Cecilia*
 
-> (2 points) Adele, Beatrice, and Cecilia each thought of a number. Adding Adele's number to Beatrice's gives 20; adding Adele's number to Cecilia's gives 24; adding all three numbers together gives 44. What is the result when multiplying the three numbers together?
->
-> A) 2024             B) 1012             C) 880             D) 440            E) 0
-> Answer: E). Solution. The sum of the three numbers equals twice Adele's number plus the other two; thus, Adele's number must be 0.
+> (Point 2) Adele, Beatrice, and Cecilia each thought of a number. Adding Adele's number to Beatrice's gives 20; adding Adele's number to Cecilia's gives 24; adding Adele's number to Beatrice's and Cecilia's gives 44. What do you get if you multiply the three numbers together?
+> A) 2024             B) 1012             C) 880             D) 440            E) 0 
+> Answer: E). Solution. The sum of the three numbers is equal to the sum of twice Adele's number and the other two numbers; therefore, Adele's number must be 0.
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q01|src_kangourou_2024_benjamin_semifinale__Q01]]
 
 
 
@@ -71,9 +74,15 @@ level: kangourou
 
 *Maximum number of common points of 2024 circles*
 
-> (Points 3) In the plane, 2024 circles are drawn, all distinct from each other. How many common points could all the circles have at most? A) 0 B) 1 C) 2 D) 3 E) 1012 Answer: C). The solution. For two points, infinitely many coplanar circles pass (each point on the axis of the segment that has them as extremes is the center of one of them), for three points, only one passes.
+> (Point 3) In the plane, 2024 circles are drawn, all distinct from one another. What is the maximum possible number of points common to all the circles?
+> A) 0             B) 1             C) 2             D) 3            E) 1012 
+> Answer: C). Solution. An infinite number of coplanar circles pass through two points (each point on the perpendicular bisector of the segment having those two points as endpoints is the center of one of them); exactly one circle passes through three points.
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q02|src_kangourou_2024_benjamin_semifinale__Q02]]
 
 
 
@@ -120,7 +129,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number at the place of the question mark, unrelated sequences*
+*Number in place of the question mark, consecutive, unconnected*
 
 ![[src_kangourou_2024_benjamin_semifinale__prob3.png]]
 
@@ -137,9 +146,17 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 3) Each of the numbers 1, 2, 3, 4, 5 must be placed in one of the circles in the figure (one only per circle) so that two consecutive numbers are never in two circles connected by a segment. What number should be placed in place of the question mark? A) Only 2. B) Only 3. C) 2 or 4. D) 1 or 5. E) Only 1. Answer: B). The solution. For direct verification on the five numbers. (the vertices of the rhombus must contain pairs of consecutive numbers arranged at opposite vertices)
+> (Point 3) Each of the numbers 1, 2, 3, 4, 5 must be placed in one of the circles in the figure (only one number per circle) so that two consecutive numbers are never in two circles connected by a line segment. Which number should be placed in place of the question mark?
+> A) Only 2. B) Only 3. C) 2 or 4.
+> D) 1 or 5. E) Only 1.
+> Answer: B). Solution. By direct verification on the 5 numbers. (The vertices of the rhombus must contain pairs of consecutive numbers placed at opposite vertices.)
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q03|src_kangourou_2024_benjamin_semifinale__Q03]]
 
 
 
@@ -276,7 +293,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In which row is 2024 located in the modular arrangement*
+*In which row is 2024 located in the module layout?*
 
 ![[src_kangourou_2024_benjamin_semifinale__prob4.png]]
 
@@ -294,106 +311,80 @@ level: kangourou
 \end{document}
 ```
 
-> (4 points) Imagine listing all n integers from 1 onward, arranging them as indicated by the
-> figure, where each "vertical segment" and each "horizontal segment" of consecutive numbers
-> contains exactly 5. In which row, starting from the top, is the number 2,024 located?
-> Row 1
-> →
-> 5
-> 6
-> 7
-> 8
-> 9
->  
->  
->  
-> 21
-> 22
-> 23
-> 24
-> 25
->  
->  
->  
-> Row 2
-> →
-> 4
->  
->  
->  
+> (Point 4) Imagine listing all n integers starting from 1 and arranging them as shown in the figure, where each "vertical segment" and each "horizontal segment" of consecutive numbers contains exactly 5 numbers. In which row, counting from the top, is the number 2,024 located? Row 1 → 5 6 7 8 9
+>
+>
+>
+> 21 22 23 24 25
+>
+>
+>
+> Riga 2 → 4
+>
+>
+>
 > 10
->  
->  
->  
+>
+>
+>
 > 20
->  
->  
->  
+>
+>
+>
 > 26
->  
->  
->  
-> Row 3
-> →
-> 3
->  
->  
->  
+>
+>
+>
+> Riga 3 → 3
+>
+>
+>
 > 11
->  
->  
->  
+>
+>
+>
 > 19
->  
->  
->  
+>
+>
+>
 > 27
->  
->  
->  
-> Row 4
-> →
-> 2
->  
->  
->  
+>
+>
+>
+> Riga 4 → 2
+>
+>
+>
 > 12
->  
->  
->  
+>
+>
+>
 > 18
->  
->  
->  
+>
+>
+>
 > 28
->  
->  
->  
-> Row 5
-> →
-> 1
->  
->  
->  
-> 13
-> 14
-> 15
-> 16
-> 17
->  
->  
->  
-> 29
-> 30
-> 31
-> …
-> A) The first.     B) The second.     C) The third.     D) The fourth.      E) The fifth.
-> Answer: A). Solution.  The arrangement consists of an
-> alignment of modules like the one in the figure, each of which
-> hosts 16 consecutive integers. We have 2,024 = 16 × 126 + 8: therefore
-> 2,024 is located in the same row as the number 8, hence in the first.
+>
+>
+>
+> Riga 5 → 1
+>
+>
+>
+> 13 14 15 16 17
+>
+>
+>
+> 29 30 31 …
+> A) The first. B) The second. C) The third. D) The fourth. E) The fifth.
+> Answer: A). Solution. The arrangement consists of an alignment of modules like the one in the figure, each of which holds 16 consecutive integers. We have 2,024 = 16 × 126 + 8: therefore, 2,024 is in the same row as the number 8, hence in the first row.
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q04|src_kangourou_2024_benjamin_semifinale__Q04]]
 
 
 
@@ -462,45 +453,50 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of chocolates given (left = received)*
+*Number of chocolates given (remaining = received)*
 
-> The mother gave her children the same number of chocolates. When they each ate six, they realized that, overall, the chocolates left were as many as they each had received from their mother. What is the total number of chocolates the mother gave? A) 27 B) 48 C) 36 D) 21 E) It may not be any of the above. ? • • • • •
->  
->  
->  
+> (Question 4) Mom gave her children some chocolates—the same number to each of them. When each person had eaten 6 chocolates, they realized that, in total, the number of chocolates left was the same as the number each person had received from Mom. What is the total number of chocolates Mom gave?
+> A) 27 B) 48 C) 36 D) 21 E) It might not be any of the above.
+> ?
+>
+>
+>
 > •
->  
->  
->  
+>
+>
+>
 > •
->  
->  
->  
+>
+>
+>
 > •
->  
->  
->  
+>
+>
+>
 > •
->  
->  
->  
+>
+>
+>
 > •
->  
->  
->  
+>
+>
+>
 > •
->  
->  
->  
+>
+>
+>
 > •
->  
->  
->  
-> • • • •
-> 
-> Answer: E). The solution. If n is the number of children, the number sought must be such that, subtracting 6n, 1/n of the number itself is obtained. This is true for 27 if n = 3, but also, for example, for 32 if n = 4. Or: If n is the number of children and k is the number of chocolates for each child, 6n = k(n - 1), that is, k= 6n n−1. Since n - 1 divides n only for n=2, n - 1 must be a divisor of 6: for n=2, k=12 and total number of chocolates 24; for n=3, k=9 and total number of chocolates 27; for n=4, k=8 and total number of chocolates 32; for n=7, k=7 and total number of chocolates 49.
+>
+>
+>
+>
+> Answer: E). Solution. If n is the number of children, the number sought must be such that, when 6n is subtracted from it, 1/n of the number itself is obtained. This holds for 27 if n = 3, but also, for example, for 32 if n = 4. Alternatively: If n is the number of children and k is the number of chocolates per child, then 6n = k(n – 1), that is, k = 6n/(n – 1). Since n – 1 divides n only when n = 2, n – 1 must be a divisor of 6: for n = 2, k = 12 and the total number of chocolates is 24; for n = 3, k = 9 and the total number of chocolates is 27; for n = 4, k = 8 and the total number of chocolates is 32; for n = 7, k = 7 and the total number of chocolates is 49.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q05|src_kangourou_2024_benjamin_semifinale__Q05]]
 
 
 
@@ -532,19 +528,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many ways can 1..8 be split into pairs with a constant difference*
+*In how many ways can 1..8 be partitioned into pairs with a constant difference?*
 
-> (Points 4) You want to split the set of numbers 1, 2, 3, 4, 5, 6, 7, 8 into four pairs of numbers such that
-> the difference between the larger and the smaller of the numbers in each pair is always the same. In how many
-> different ways can you do it?
-> A) 2            B) 3            C) 4              D) 5            E) 6
-> Answer: B). Solution.  The differences to consider are only 1, 2, 3 and 4: the number 4 has no
-> difference greater than 4 with any of the others. Each possible difference determines one and only one partition.
-> For 1 we have the pairs {1, 2}, {3, 4}, {5, 6}, {7, 8}; for 2 we have the pairs {1, 3}, {2, 4}, {5, 7}, {6, 8};
-> for 4 we have the pairs {1, 5}, {2, 6}, {3, 7}, {4, 8}. With 3 it is not possible to proceed: both 2 and 8 would have
-> to be paired with 5.
+> (Point 4) You want to partition the set of numbers 1, 2, 3, 4, 5, 6, 7, 8 into four pairs of numbers such that the difference between the larger and the smaller number in each pair is always the same. In how many different ways can you do this?
+> A) 2            B) 3            C) 4              D) 5            E) 6 
+> Answer: B). Solution. The differences to be considered are only 1, 2, 3, and 4: number 4 has no difference greater than 4 with any of the others. Each possible difference determines exactly one partition. For 1, we have the pairs {1, 2}, {3, 4}, {5, 6}, {7, 8}; for 2, we have the pairs {1, 3}, {2, 4}, {5, 7}, {6, 8}; for 4, we have the pairs {1, 5}, {2, 6}, {3, 7}, {4, 8}. With 3, it is impossible to proceed: both 2 and 8 would have to be paired with 5.
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q06|src_kangourou_2024_benjamin_semifinale__Q06]]
 
 
 
@@ -580,23 +575,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who lied among the four grandchildren*
+*Who lied among the four grandchildren?*
 
-> (Points 5) The grandmother prepares some sweets; she tells her grandchildren to wait before eating them and
-> goes away for a few minutes. One grandchild disobeys and eats a sweet. The grandmother returns,
-> discovers that a sweet is missing and asks the grandchildren: “Who did it?”
-> Angelo answers: “It wasn't me”.
-> Bruno answers: “It was Carlo”.
-> Donato answers: “It was Bruno”.
-> Carlo answers: “Donato told a lie”.
-> Only one lied. Who?
-> A) Angelo               B) Bruno               C) Carlo               D) Donato
-> E) Bruno or Donato could have lied, but it is not possible to determine it with certainty.
-> Answer: D) Sol. If the disobedient one had been Angelo, both Bruno and Donato would be lying. If it had been
-> Bruno, besides him Carlo would also be lying. If it had been Donato, besides him Bruno would be lying. So it was
-> Carlo, and it is Donato who lied.
+> (Point 5) The grandmother prepares some little treats; she tells her grandchildren to wait before eating them and leaves for a few minutes. One grandchild disobeys and eats a little treat. The grandmother comes back, finds that one little treat is missing, and asks the grandchildren, "Who did it?" Angelo answers, "It wasn't me." Bruno answers, "It was Carlo." Donato answers, "It was Bruno." Carlo answers, "Donato told a lie." Only one person lied. Who?
+> A) Angelo B) Bruno C) Carlo D) Donato
+> E) Either Bruno or Donato might have lied, but it cannot be determined with certainty.
+> Answer: D) Sol. If the disobedient one had been Angelo, both Bruno and Donato would have lied. If it had been Bruno, besides him, Carlo would also have lied. If it had been Donato, besides him, Bruno would also have lied. So it was Carlo, and it was Donato who lied.
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q07|src_kangourou_2024_benjamin_semifinale__Q07]]
 
 
 
@@ -627,15 +618,15 @@ level: kangourou
 
 *Sum of Sofia's two numbers from 2(5x+y)=212*
 
-> (5 points) Sofia has in mind two positive integers less than 20 that differ by more than 2. 
-> She multiplies one by 5, adds the other to the product she obtained and doubles the result: she thus gets 
-> 212. What is the sum of the two numbers she had in mind?   
+> (Question 5) Sofia has in mind two positive integers less than 20 that differ by more than 2. She multiplies one of them by 5, adds the other to the product she obtained, and doubles the result: she thus gets 212. What is the sum of the two numbers she had in mind?
 > A) 26             B) 27              C) 28            D) 29              E) 30 
-> Answer E). Sol. If x and y are the two numbers, it must be (5x + y) × 2 = 10x + 2y = 212. Since 2y can be 
-> at most 38, 10x must be at least 174, which for us means at least 180 and, obviously, no more than 190. 
-> x = 18 would entail y = 16, not acceptable. Then x = 19 and y = 11.
+> Answer E). Sol. If x and y are the two numbers, then (5x + y) × 2 = 10x + 2y = 212. Since 2y can be at most 38, 10x must be at least 174, which for us means at least 180 and, obviously, no more than 190. x = 18 would give y = 16, which are not acceptable. So x = 19 and y = 11.
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q08|src_kangourou_2024_benjamin_semifinale__Q08]]
 
 
 
@@ -677,16 +668,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many blocks of 2024...2024 divided by 4*
+*How many blocks of 2024...2024 divisible by 4?*
 
-> (Points 6) Consider the alignment of digits 202420242024...20242024 where the ordered quadruple 2024 appears 1,012 times. Each block that is made up of any number of consecutive digits in this alignment and does not start with 0 identifies an integer (e.g. block 4202420, which starts with the fourth digit and ends with the tenth or the eighth and ends with the fourteenth and so on, identifies the number 4.202.420). How many integers, all different from each other, determined by eligible blocks, are divisible by 4? A) 2021             B) 2024             C) 2025             D) 6067            E) 6070
-> 
-> Answer: E). The solution. All the numbers that matter to us cannot end in 2 (in fact, no number of at least three digits that you end in 02 or 42 is divisible by 4), but they can end in 0 (that is, for us, with 20) or with 4. Each acceptable block that terminates with 0 must start with 20 or 2420 or 420 and may be followed by a sequence of 2420s ranging from 0 to 1,011 for 20 and from 0 to 1,010 for 2420 and 420, for a total of 3,034 possibilities. Each acceptable block that ends with 4 must start with 2024 or 24 or 4 and the possibilities are 1,012 in each case, for a total of 3,036.
->  
->  
+> (Point 6) Consider the sequence of digits 202420242024…20242024 in which the ordered quadruple 2024 appears 1,012 times. Each block formed by any number of consecutive digits in this sequence and not beginning with 0 identifies an integer (for example, the block 4202420, which starts at the fourth digit and ends at the tenth, or starts at the eighth digit and ends at the fourteenth, and so on, identifies the number 4,202,420). How many integers, all distinct from one another, determined by admissible blocks, are divisible by 4?
+> A) 2021             B) 2024             C) 2025             D) 6067            E) 6070 
+>
+> Answer: E). Solution. All and only the numbers that concern us cannot end in 2 (indeed, no number with at least three digits that ends in 02 or 42 is divisible by 4), but they can end in 0 (that is, for us, in 20) or in 4. Every acceptable block that ends in 0 must begin with 20 or with 2420 or with 420 and may be followed by a number of consecutive 2420s ranging from 0 to 1,011 for 20 and from 0 to 1,010 for 2420 and 420, for a total of 3,034 possibilities. Every acceptable block that ends in 4 must begin with 2024 or with 24 or with 4, and there are 1,012 possibilities in each case, for a total of 3,036.
+>
+>
 > Open-ended questions
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q09|src_kangourou_2024_benjamin_semifinale__Q09]]
 
 
 
@@ -714,15 +711,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit number divisible by 4 with maximum digit sum*
+*A three-digit number divisible by 4 with the maximum digit sum*
 
-> (Points 4) Among the integers that have three digits and are divisible by 4, which is the one for which 
-> the sum of the digits is as high as possible? 
-> Answer: 0988. Solution. The highest possible sum of the digits of a three-digit number is 27 (999); the 
-> number (even) 998 is not divisible by 4: it is therefore necessary to decrease by one more unit (and 898 is not divisible 
-> by 4).
+> (Point 4) Among the three-digit integers divisible by 4, which one has the highest possible sum of its digits? Answer: 0988. Solution. The highest possible sum of the digits of a three-digit number is 27 (999); the (even) number 998 is not divisible by 4: therefore, it must be reduced by another unit (and 898 is not divisible by 4).
 
-**Answer:** 0988
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q10|src_kangourou_2024_benjamin_semifinale__Q10]]
 
 
 
@@ -750,11 +748,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Stamps in the first envelope (Fibonacci recurrence backwards)*
+*Stamps in the first envelope (retrograde Fibonacci recurrence)*
 
-> (Points 5) There are six numbered envelopes lined up: from the third onward, each contains as many stamps as the two immediately preceding ones combined. The sixth contains 71 stamps, the fifth contains 43. How many stamps does the first one have? Answer: 0002. Solution. Proceeding backwards, the fourth contains 71 - 43 = 28, the third 43 - 28 = 15, the second 28 - 15 = 13, the first 15 - 13 = 2.
+> (Point 5) There are six numbered envelopes arranged in a line: from the third onward, each contains as many stamps as the two immediately preceding ones contain in total. The sixth contains 71 stamps, and the fifth contains 43. How many stamps does the first contain? Answer: 0002. Solution. Working backwards, the fourth contains 71 – 43 = 28 stamps, the third contains 43 – 28 = 15 stamps, the second contains 28 – 15 = 13 stamps, and the first contains 15 – 13 = 2 stamps.
 
-**Answer:** 0002
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q11|src_kangourou_2024_benjamin_semifinale__Q11]]
 
 
 
@@ -789,9 +792,13 @@ level: kangourou
 
 ![[src_kangourou_2024_benjamin_semifinale__prob12.png]]
 
-> (Points 5) An n-antiprism is a solid like the one suggested in the figure. It has a lower base and an upper base which are regular polygons congruent with n sides and a lateral surface consisting of triangles obtained by joining each pair of adjacent vertices of each base with one of the vertices of the other, as also suggested by the figure. How many faces, including the bases, does a 2024-antiprism have? The answer is 4050. The solution. Each side of each base generates one and only one face of the side surface.
+> (Point 5) An n-antiprism is a solid such as the one suggested by the figure. It has a lower base and an upper base that are congruent regular n-gons, and a lateral surface consisting of triangles formed by joining each pair of adjacent vertices of each base to one of the vertices of the other base, again as suggested by the figure. How many faces, including the bases, does a 2024-antiprism have? Answer: 4050. Solution. Each side of each base generates exactly one face of the lateral surface.
 
-**Answer:** 4050
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q12|src_kangourou_2024_benjamin_semifinale__Q12]]
 
 
 
@@ -819,11 +826,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of digits of the product of 9 numbers 2 or 3 between 600 and 1000*
+*Sum of the digits of the product of 9 numbers, each being 2 or 3, between 600 and 1000*
 
-> (Points 6) I've multiplied 9 numbers between them: each of them is 2 or 3. The result of this operation is a number between 600 and 1,000. What is the sum of the digits of this number? Answer: 0021. Solution. You have 29 = 512 < 600, so at least one of the factors must be 3. On the other hand, if at least two factors were 3, the product would be greater than or equal to 9 × 27 > 1000. So 8 factors is 2 and only one is 3, with 768 as the result of the operation.
+> (Point 6) I multiplied 9 numbers together: each of them is either 2 or 3. The result of this operation is a number between 600 and 1,000. What is the sum of the digits of this number? Answer: 0021. Solution. We have 2^9 = 512 < 600, so at least one of the factors must be 3. On the other hand, if at least two factors were 3, the product would be greater than or equal to 9 × 27 > 1,000. Therefore, 8 factors are 2 and only one is 3, with 768 as the result of the operation.
 
-**Answer:** 0021
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q13|src_kangourou_2024_benjamin_semifinale__Q13]]
 
 
 
@@ -869,7 +881,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of six numbers coprime on the faces of a cube*
+*Minimum sum of six coprime numbers on the faces of a cube*
 
 ![[src_kangourou_2024_benjamin_semifinale__prob14.png]]
 
@@ -887,9 +899,14 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 6) A positive integer is written on each face of a cube, and the six numbers are all different from each other. You know, whatever you consider two adjacent faces, the only common divisor of the two numbers that you see is 1. What is the minimum value of the sum of the six numbers? Remember, they say two faces are adjacent if they have an edge in common. Answer: 0022. Solution. It is clear that the number 6 cannot be used because it would necessarily be found on a face adjacent to the one with 2 or the one with 3 or the one with 4.
+> (Point 6) On each face of a cube, a positive integer is written, and the six numbers are all different from one another. You know that, no matter which two adjacent faces you consider, the only common divisor of the two numbers appearing on them is 1. What must the sum of the six numbers be, at minimum? Recall that two faces are said to be adjacent if they share an edge. Answer: 0022. Solution. It is clear that the number 6 cannot be used, since it would necessarily end up on a face adjacent to the face bearing 2, or to the face bearing 3, or to the face bearing 4.
 
-**Answer:** 0022
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q14|src_kangourou_2024_benjamin_semifinale__Q14]]
 
 
 
@@ -925,18 +942,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of numbers to say to delete 2.60*
+*Minimum number of numbers to say to cancel 2..60*
 
-> (Points 6) I wrote all the integers from 2 to 60 on a sheet. I then gave the sheet to a friend along with the following instruction: every time I say a number, you have to delete that number and all its multiples from the sheet. I want all the numbers written on the paper to be deleted. How many numbers, at least, do I say?
->  
+> (Point 6) I wrote down on a sheet of paper all the integers from 2 to 60 inclusive. I then gave the sheet to a friend along with the following instruction: every time I say a number, you must cross out that number and all of its multiples from the sheet. I want all the numbers written on the sheet to be crossed out in the end. What is the minimum number of numbers I must say?
+>
 > 2 1 3 5 7
->  
+>
 > 4
->  
-> 
-> Answer: 0017. Solution. I have to ask him to delete all prime numbers less than 60, that is, those that have no divisors other than 1 and themselves.
+>
+>
+> Answer: 0017. Solution. I must ask him to delete all prime numbers less than 60, that is, those that have no divisors other than 1 and themselves.
 
-**Answer:** 0017
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q15|src_kangourou_2024_benjamin_semifinale__Q15]]
 
 
 
@@ -966,11 +988,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to divide 1.18 into square-sum pairs*
+*In how many ways can 1..18 be split into pairs whose sum is a perfect square?*
 
-> (Points 7) The set of integers between 1 and 18 included must be divided into nine pairs, so that the sum of the two numbers that make up each pair is a perfect square. How many different ways can you do that? Answer: 0001. Solution. The perfect squares obtained by adding the two numbers of the various pairs can only be 4, 9, 16 or 25. It is immediately apparent that some couplings are mandatory: (18, 7), (17, 8), (16, 9); furthermore, since 9 - 2 = 7, coupling (2, 14) is also mandatory. However, it follows from the latter that all the others are also required: one must have (11, 5), hence in the order (4, 12), (13, 3), (6, 10), (1, 15).
+> (Point 7) The set of integers from 1 to 18 inclusive is to be divided into nine pairs such that the sum of the two numbers in each pair is a perfect square. In how many different ways is this possible? Answer: 0001. Solution. The perfect squares obtainable by adding the two numbers in the various pairs can only be 4, 9, 16, or 25. It is immediately apparent that some pairings are forced: (18, 7), (17, 8), (16, 9); moreover, since 9 – 2 = 7, the pairing (2, 14) is also forced. However, from this last one it follows that all the others are also forced: we must have (11, 5), and therefore, in order, (4, 12), (13, 3), (6, 10), (1, 15).
 
-**Answer:** 0001
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q16|src_kangourou_2024_benjamin_semifinale__Q16]]
 
 
 
@@ -999,16 +1026,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of the first and last integer with consecutive cubes = 2024*
+*Product of the first and last integers with consecutive cubes = 2024*
 
-> (Points 7) By adding the cubes of some consecutive positive integers, the result is 
-> 2024. What is the product of the first and the last of these integers? It may be useful to remember that, for 
-> every positive integer n, the sum of the cubes of the first n positive integers coincides with the square of the sum of 
-> these first n integers.   
-> Answer: 0018. Sol. The sum of the first n positive integers is n(n + 1)/2: one quickly finds then that 452 
-> = 2025 is the sum of the cubes of the integers from 1 to 9. Therefore 2024 is the sum of the cubes of the integers from 2 to 9.
+> (Point 7) By adding the cubes of some consecutive positive integers, the result is
+> 2024. What is the product of the first and the last of these integers? It may be helpful to remember that, for
+> For every positive integer n, the sum of the cubes of the first n positive integers equals the square of the sum of these first n integers. Answer: 0018. Sol. The sum of the first n positive integers is n(n + 1)/2; it is then quickly found that 452 = 2025 is the sum of the cubes of the integers from 1 to 9. Hence 2024 is the sum of the cubes of the integers from 2 to 9.
 
-**Answer:** 0018
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q17|src_kangourou_2024_benjamin_semifinale__Q17]]
 
 
 
@@ -1039,8 +1068,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-For how many seconds Aldo is waiting for Bernardo
+*For how many seconds does Aldo wait for Bernardo (wheel radii)?*
 
-> The wheels of Aldo's bicycle have a radius of 30 cm, those of Bernardo's bicycle a radius of 24 cm. Aldo and Bernardo start to pedal at the same time in the same direction and, at the same time, the number of turns made by their wheels is the same and remains constant during the pedal. After 15 minutes, Aldo stops to wait for Bernardo. For how many seconds will he have to wait for him? Answer: 0225. Solution. The ratio of the lengths of the radii (A/B) is 5/4, the length of the circumference is proportional to the radius, so the inverse ratio is between the time required to travel the same distance. So to get to where Aldo got to, Bernardo needs 5/4 of Aldo's time, so 1/4 more than he has so far.
+> (Point 8) The wheels of Aldo's bicycle have a radius of 30 cm, and those of Bernardo's bicycle have a radius of 24 cm. Aldo and Bernardo start pedaling at the same instant in the same direction, and, over the same period of time, their wheels complete the same number of revolutions, which remains constant during pedaling. After 15 minutes, Aldo stops to wait for Bernardo. For how many seconds will he have to wait? Answer: 0225. Solution. The ratio of the radii (A/B) is 5/4; the circumference is proportional to the radius, so the inverse proportion holds for the times needed to cover the same distance. Therefore, to reach where Aldo has arrived, Bernardo needs 5/4 of the time Aldo took, which means 1/4 more than the time Aldo has taken so far.
 
-**Answer:** 0225
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_benjamin_semifinale#q18|src_kangourou_2024_benjamin_semifinale__Q18]]

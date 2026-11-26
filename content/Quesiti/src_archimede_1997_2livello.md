@@ -41,9 +41,9 @@ level: 2 livello
 
 *Which of the five shapes shows the white face*
 
-![[src_archimede_1997_2livello__prob1.png]]
-
-> There are five identical cardboard shapes that are white on one side and black on the other. Posts on a table they are in the positions in the figure, four showing the black face and one the white one. What's the white shape?
+> There are five identical cardboard shapes, white on one side and black on the other.
+> Placed on a table, they are in the positions shown in the figure, four showing the black face and one
+> the white face. Which is the white shape?
 >
 > - **(A)**
 > - **(B)**
@@ -51,7 +51,10 @@ level: 2 livello
 > - **(D)**
 > - **(E)**
 
-**Answer:** D
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_2livello#q01|src_archimede_1997_2livello__Q01]]
 
 
 
@@ -84,21 +87,24 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Antiquary gain or loss in the sale of handbags*
+*The antique dealer's gain or loss on the bedside tables*
 
-> An antique dealer bought a pair of dresses for a million and a half. He sells one to Aldo and one to Berto for a million each.
+> An antique dealer bought a pair of bedside tables for one and a half million. He sells one to Aldo and one to Berto for one million each.
 >
-> Charles, who had seen them in the window, comes along, and he's willing to buy the pair for three and a half million.
+> Carlo, who had seen them in the window, comes along and is willing to buy the pair for three and a half million.
 >
-> The antiquarian manages to buy back the dresses from Aldo and Berto, paying them one and a half million each and selling them back to Charles. At the end of the day, the antiquary:
+> The antique dealer manages to buy the bedside tables back from Aldo and Berto, paying one and a half million for each, and sells them to Carlo. When the accounts are settled, the antique dealer:
 >
-> - **(A)** He lost half a million.
-> - **(B)** He's made it even.
-> - **(C)** He earned half a million.
-> - **(D)** He made a million.
-> - **(E)** None of the above
+> - **(A)** lost half a million
+> - **(B)** broke even
+> - **(C)** gained half a million
+> - **(D)** gained one million
+> - **(E)** none of the above
 
-**Answer:** D
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_1997_2livello#q02|src_archimede_1997_2livello__Q02]]
 
 
 
@@ -126,17 +132,19 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Steel-rubber bar of equal weight by reversing the materials*
+*Steel-and-rubber bar of unchanged weight when the materials are swapped*
 
-> 100 delegates are assembled in the congress. Not everyone wears a tie, but we know that if you choose two, at least one of them will get the door. How many congressmen are in ties?
+> 100 delegates are gathered at a congress. Not all of them wear a tie, but it is known that, however two of them are chosen, at least one of the two is wearing one. How many of the delegates wear a tie?
 >
-> - **(A)** At least two, but less than 50
-> - **(B)** Exactly 50
-> - **(C)** More than 50, but you can't say exactly how many
-> - **(D)** The situation described is impossible.
-> - **(E)** None of the above
+> - **(A)** at least 2, but there may be fewer than 50
+> - **(B)** exactly 50
+> - **(C)** more than 50, but it cannot be said exactly how many
+> - **(D)** the situation described is impossible
+> - **(E)** none of the above
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_1997_2livello#q03|src_archimede_1997_2livello__Q03]]
 
 
 
@@ -164,17 +172,19 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many congressmen out of 100 wear a tie
+*How many of 100 delegates wear a tie*
 
-> A strip consists of an internal steel cylinder of $1$cm radius coated with a layer of light rubber of constant thickness. Knowing that when the materials are reversed the weight of the strip remains unchanged, determine the thickness of the coating.
+> A strip consists of an inner steel cylinder of radius $1$ cm, coated with a layer of light rubber of constant thickness. Given that swapping the materials leaves the weight of the strip unchanged, determine the thickness of the coating.
 >
 > - **(A)** $1$ cm
 > - **(B)** $\sqrt{2}$ cm
 > - **(C)** $(\sqrt{2}-1)$ cm
-> - **(D)** Depends on the length of the strip
-> - **(E)** None of the above
+> - **(D)** it depends on the length of the strip
+> - **(E)** none of the above
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+[[Quesiti/src_archimede_1997_2livello#q04|src_archimede_1997_2livello__Q04]]
 
 
 
@@ -208,17 +218,20 @@ How many congressmen out of 100 wear a tie
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of a power of 2*
+*Antique dealer's profit on a pair of bedside tables*
 
-> An antique dealer bought a pair of dresses for a million and a half. He sells one to Aldo and one to Berto for a million each. Charles, who had seen them in the window, is coming, and he's willing to buy the pair for three and a half million. The antiquarian manages to buy the dresses back from Aldo and Berto, paying them 1 million and a half each and selling them back to Charles. At the end of the antiquarian accounts:
+> An antique dealer bought a pair of bedside tables for one and a half million. He sells one to Aldo and one to Berto for one million each. Carlo, who had seen them in the window, comes along and is willing to buy the pair for 3 and a half million. The antique dealer manages to buy the bedside tables back from Aldo and Berto, paying one and a half million for each, and sells them to Carlo. When the accounts are settled, the antique dealer:
 >
-> - **(A)** He lost half a million.
-> - **(B)** He's made it even.
-> - **(C)** He earned half a million.
-> - **(D)** He made a million.
-> - **(E)** None of the previous 100 delegates met in Congress. Not everyone wears a tie, but we know that if you choose two, at least one of them will get the door. How many congressmen are in ties? (A) At least 2, but they can be less than 50 (B) Exactly 50 (C) More than 50, but you can't say exactly how many (D) The situation described is impossible (E) None of the above
+> - **(A)** lost half a million
+> - **(B)** broke even
+> - **(C)** gained half a million
+> - **(D)** gained one million
+> - **(E)** none of the above 100 delegates are gathered at a congress. Not all of them wear a tie, but it is known that, however two of them are chosen, at least one of the two is wearing one. How many of the delegates wear a tie? (A) at least 2, but there may be fewer than 50 (B) exactly 50 (C) more than 50, but it cannot be said exactly how many (D) the situation described is impossible (E) none of the above
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_1997_2livello#q05|src_archimede_1997_2livello__Q05]]
 
 
 
@@ -249,13 +262,17 @@ How many congressmen out of 100 wear a tie
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Forwarding of a sphere rotating on two tracks*
+*A sphere rolling along two rails*
 
-![[src_archimede_1997_2livello__prob6.png]]
+> A sphere of radius $r = 15$ cm is
+> resting on two rails spaced 24 cm apart as in the figure. If the sphere makes one complete rotation, how far does it advance along the rails?
+> (A) 24 cm
+> (B) 30 cm
 
-> A sphere of radius r = 15 cm is supported on two tracks 24 cm apart as shown in Figure 1. If the sphere makes a complete rotation, how much progress on the tracks? (A) 24 c m (B) 30 cm
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_2livello#q06|src_archimede_1997_2livello__Q06]]
 
 
 
@@ -284,9 +301,9 @@ How many congressmen out of 100 wear a tie
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number is not a product of square per cube*
+*Which number is not the product of a perfect square and a perfect cube*
 
-> Which of these numbers is not the product of a perfect square for a perfect cube?
+> Which of these numbers is not the product of a perfect square and a perfect cube?
 >
 > - **(A)** 900
 > - **(B)** 961
@@ -294,7 +311,10 @@ How many congressmen out of 100 wear a tie
 > - **(D)** 972
 > - **(E)** 980
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_1997_2livello#q07|src_archimede_1997_2livello__Q07]]
 
 
 
@@ -329,19 +349,21 @@ How many congressmen out of 100 wear a tie
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final position after 1997 steps on square sheet*
+*Position after 1997 steps on squared paper*
 
-![[src_archimede_1997_2livello__prob8.png]]
-
-> Let us place a point O at the intersection of two yines of a square sheet and indicate the four directions parallel to the lines as North, South, East, West (North up). Let's move from O to a square to the east, then two to the north, three to the west, four to the south, five to the east, and so on. After the 1997 steps, where are we from the starting point O?
+> Fix a point O at the intersection of two lines on a sheet of squared paper, and label the four directions parallel to the lines as North, South, East and West (North at the top). Starting from O, move one square East, then two North, three West, four South, five East, and so on. After 1997 steps, where are we relative to the starting point O?
 >
-> - **(A)** 1996 squares north of O
-> - **(B)** 998 squares south and 999 squares east of O
-> - **(C)** 999 squares west and 998 squares north of O
-> - **(D)** 999 squares north and 999 squares west of O
-> - **(E)** 998 squares east and 998 squares south of O
+> - **(A)** 1996 squares North of O
+> - **(B)** 998 squares South and 999 squares East of O
+> - **(C)** 999 squares West and 998 squares North of O
+> - **(D)** 999 squares North and 999 squares West of O
+> - **(E)** 998 squares East and 998 squares South of O
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1997_2livello#q08|src_archimede_1997_2livello__Q08]]
 
 
 
@@ -372,17 +394,21 @@ How many congressmen out of 100 wear a tie
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Success of colours of socks without two identical neighbours*
+*Colour sequences of socks with no two of the same colour adjacent*
 
-> Three pairs of socks, one red, one blue, and one green, are laid out in line. Knowing that two socks of the same color are not close to each other, how many sequences of colors can you have?
+> Three pairs of socks, one red, one blue and one green, are laid out in a row. Given that two socks of the same colour are not next to each other, how many colour sequences are possible?
 >
 > - **(A)** 15
 > - **(B)** 24
 > - **(C)** 30
 > - **(D)** 36
-> - **(E)** None of the above
+> - **(E)** none of the above
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1997_2livello#q09|src_archimede_1997_2livello__Q09]]
 
 
 
@@ -407,13 +433,14 @@ How many congressmen out of 100 wear a tie
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Drying with solution the hexagon drawn*
+*Inequality with the drawn hexagon as its solution*
 
-![[src_archimede_1997_2livello__prob10.png]]
+> Which of the following inequalities has the set drawn in the figure as its solution?
 
-> Which of the following dissections has the solution as shown in the figure?
 
-**Answer:** D
+**Topic:** [[topic_geometria_analitica|Analytic geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+[[Quesiti/src_archimede_1997_2livello#q10|src_archimede_1997_2livello__Q10]]
 
 
 
@@ -442,13 +469,16 @@ How many congressmen out of 100 wear a tie
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the figure drawn with six small circles*
+*Area of the hatched figure with six small circles*
 
-![[src_archimede_1997_2livello__prob11.png]]
+> In the figure alongside, the radius of the small circles is 1. What is the area of the hatched figure?
+> (D)
+> (E) None of the previous answers
 
-> In the next figure, the radius of the small circles is 1. How much is the area of the drawn figure? (D) (E) None of the above answers
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_2livello#q11|src_archimede_1997_2livello__Q11]]
 
 
 
@@ -476,11 +506,19 @@ How many congressmen out of 100 wear a tie
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum integer with the same number of digits in base 10 and 16*
+*Largest integer with the same number of digits in base 10 and base 16*
 
-> What is the maximum positive integer that has the same number of digits on base 10 and base 16? (The answers are given in footnote 10) (A) 1024 (B) 99999 (c) 999999 (D) 1600000 (E) None of the above
+> What is the largest positive integer that has the same number of digits in base 10 and in base
+> 16? (The answers are expressed in base 10)
+> (A) 1024
+> (B) 99’999
+> (c) 999”999
+> (D) 1“600’000
+> (E) None of the above
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_archimede_1997_2livello#q12|src_archimede_1997_2livello__Q12]]
 
 
 
@@ -506,11 +544,16 @@ How many congressmen out of 100 wear a tie
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability that the game with tokens will not be interrupted*
+*Probability that the token game does not have to be stopped within five games because one of the players runs out of tokens*
 
-> Three friends each own three tokens. After each match the winner receives a token from each of the other two friends. What is the probability that the game will not have to be stopped within five games because one of the players is left with no chips?
+> Three friends each own three tokens.
+> After each game, the winner receives a token from each of the other two friends.
+> What is the probability that the game does not have to be stopped within five games because one of the players runs out of tokens?
 
-**Answer:** A
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_1997_2livello#q13|src_archimede_1997_2livello__Q13]]
 
 
 
@@ -534,11 +577,14 @@ How many congressmen out of 100 wear a tie
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum area of the CDNM quadrilateral in the unit square*
+*Maximum area of quadrilateral CDNM in the unit square*
 
-> Given a square ABCD of the unit side, and M, N two points on the sides AB and AD respectively, such that AM = AN. What is the maximum value of the CDNM quadrilateral area?
+> A unit square ABCD is given, and M, N are two points respectively on the sides AB and AD such that AM = AN. What is the maximum possible value of the area of quadrilateral CDNM?
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+[[Quesiti/src_archimede_1997_2livello#q14|src_archimede_1997_2livello__Q14]]
 
 
 
@@ -570,11 +616,24 @@ How many congressmen out of 100 wear a tie
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Major MCD of three distinct displays less than 100*
+*Largest common divisor of three distinct odd numbers below 100*
 
-> Let a, b, c be three distinct odd positive numbers less than 100. What is their maximum common divisor? (A) 7 (B) 11 (c) 19 (D) 25 (E) None of the previous answers
+> Let a, b, c be three distinct positive odd numbers less than 100. What can be, at most,
+> their greatest common divisor?
+> (A) 
+> 7
+> (B) 11
+> ( c )  1 9
+> (D) 25
+> (E) None of the above answers
 > 
-> In an ABCD convex quadrilateral the sides AB, BC, CD are equal. Also AC = BD = AD, What is the angle in D?
+> In a convex quadrilateral ABCD the sides AB, BC, CD are equal. Moreover AC = BD = AD,
+> What is the measure of the angle at D?
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+[[Quesiti/src_archimede_1997_2livello#q15|src_archimede_1997_2livello__Q15]]
 
 
 
@@ -598,7 +657,12 @@ How many congressmen out of 100 wear a tie
 
 *angle in D*
 
-> In a convex quadrilateral $ABCD$ the sides $AB$, $BC$, $CD$ are equal. In addition, $AC = BD = AD$. What is the angle in $D$?
+> In a convex quadrilateral $ABCD$ the sides $AB$, $BC$, $CD$ are equal. Moreover $AC = BD = AD$. What is the measure of the angle in $D$?
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_2livello#q16|src_archimede_1997_2livello__Q16]]
 
 
 
@@ -625,6 +689,11 @@ How many congressmen out of 100 wear a tie
 
 *Natural pairs (m,n) with mn = p(m+n), p prime*
 
-> Given a prime number $p$, determine all ordered pairs of natural numbers $(m, n)$ that verify the equation: $$\frac{1}{m} + \frac{1}{n} = \frac{1}{p}$$
+> Given a prime number $p$, determine all ordered pairs of natural numbers $(m, n)$ satisfying the equation:
+> $$\frac{1}{m} + \frac{1}{n} = \frac{1}{p}$$
 
-**Answer:** (2p,2p), (p²+p,p+1), (p+1,p²+p)
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1997_2livello#q17|src_archimede_1997_2livello__Q17]]

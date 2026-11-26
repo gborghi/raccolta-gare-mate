@@ -34,13 +34,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di numeri interi infiniti con somme zero e termini non zero*
+*Successione infinita di interi con somme nulle e termini non nulli*
 
-> Visualizzare una sequenza infinita $a_1, a_2, \ldots$ di numeri interi con entrambe le seguenti proprietà:
-> 
-> - $a_i \neq 0$ per ogni intero positivo $i$; cioè nessun termine della sequenza è uguale a zero; - per ogni intero positivo $i$, $a_i + a_{i+1} + \cdots + a_{i+2024} = 0$.
-> 
-> Per ottenere punteggi completi, devi giustificare il motivo per cui la tua sequenza ha entrambe le proprietà sopra.
+> Visualizza una successione infinita $a_1, a_2, \ldots$ di interi che abbia entrambe le seguenti proprietà:
+>
+> - $a_i \neq 0$ per ogni intero positivo $i$; vale a dire che nessun termine della successione è uguale a zero;
+> - per ogni intero positivo $i$, $a_i + a_{i+1} + \cdots + a_{i+2024} = 0$.
+>
+> Per ottenere il punteggio pieno, devi giustificare perché la tua successione possiede entrambe le proprietà sopra indicate.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2024_n3_fx#q01|src_obm_2024_n3_fx__Q01]]
 
 
 
@@ -64,9 +72,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli equilaterali sull'ipotenusa; intersezione dei ceviani è uguale al prodotto dei segmenti*
+*Triangoli equilateri sull'ipotenusa; l'intersezione delle ceviane è uguale al prodotto dei segmenti*
 
-> Che $ABC$ sia un triangolo rettangolo a $B$, con altitudine $BT$ sull'ipotenusa $AC$. Costruire i triangoli equilaterali $BTX$ e $BTY$ in modo tale che $X$ sia situato sullo stesso lato di $BT$ rispetto a $A$ e $Y$ sia situato sullo stesso lato di $BT$ rispetto a $C$. Il $P$ deve essere l'intersezione di $AY$ e $CX$. Provare che $$PA \cdot BC = PB \cdot CA = PC \cdot AB.$$
+> Sia $ABC$ un triangolo rettangolo in $B$, con altezza $BT$ relativa all'ipotenusa $AC$. Costruire i triangoli equilateri $BTX$ e $BTY$ in modo che $X$ si trovi sullo stesso lato di $BT$ rispetto a $A$, rispetto a $BT$, e che $Y$ si trovi sullo stesso lato di $BT$ rispetto a $C$, rispetto a $BT$. Sia $P$ l'intersezione di $AY$ e $CX$. Dimostrare che
+> $$PA \cdot BC = PB \cdot CA = PC \cdot AB.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2024_n3_fx#q02|src_obm_2024_n3_fx__Q02]]
 
 
 
@@ -95,15 +111,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colonizzare Marte: le agenzie alternano viaggi; determinano quale agenzia non può fallire prima*
+*Colonizzare Marte: le agenzie si alternano nei viaggi; determina quale agenzia non può fallire per prima*
 
-> $n$ sia un numero intero positivo. L'umanità sta per colonizzare Marte. Le agenzie SpaceY e SpaceZ sono responsabili di effettuare i viaggi tra i pianeti. Se i razzi non falliranno, faranno i viaggi alternatamente, con SpaceY che farà il primo viaggio. In ogni viaggio l'agenzia svolgerà uno dei seguenti tipi di missione:
-> 
-> (i) scegliere un numero intero positivo $k$ e inviare persone $k$ su Marte, creando una nuova colonia sul pianeta e fondandola con queste persone;
-> 
-> (ii) scegliere una colonia esistente su Marte e un numero intero positivo $k$ strettamente inferiore alla popolazione di quella colonia, e riportare $k$ persone sulla Terra.
-> 
-> Per mantenere l'organizzazione della missione, una missione non può comportare due colonie con la stessa popolazione e il numero totale delle colonie deve essere massimo $n$. La prima agenzia che non riesca a svolgere una missione fallirà. Determinare, in funzione di $n$, quale agenzia può garantire che non fallisca prima.
+> Sia $n$ un numero intero positivo. L'umanità sta per iniziare a colonizzare Marte. Le agenzie SpaceY e SpaceZ sono responsabili di effettuare i viaggi tra i pianeti. Se i razzi non falliranno, i viaggi avverranno a turno, con SpaceY che effettuerà il primo viaggio. In ciascun viaggio, l'agenzia svolgerà uno dei seguenti tipi di missione:
+>
+> (i) scegli un numero intero positivo $k$ e invia su Marte $k$ persone, creando sul pianeta una nuova colonia e costituendola con quelle persone;
+>
+> (ii) scegliere una colonia esistente su Marte e un numero intero positivo $k$ strettamente minore della popolazione di tale colonia, e riportare sulla Terra $k$ persone.
+>
+> Per mantenere l'organizzazione nella missione, una missione non può portare alla creazione di due colonie con la stessa popolazione, e il numero totale di colonie deve essere al massimo $n$. La prima agenzia che non riesce a portare a termine una missione fallirà. Determina, in funzione di $n$, quale agenzia può garantire di non fallire per prima.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2024_n3_fx#q03|src_obm_2024_n3_fx__Q03]]
 
 
 
@@ -128,9 +151,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre realtà distinte che soddisfano il sistema ciclico; dimostrare che tutte si trovano in (-1,1)*
+*Tre numeri reali distinti che soddisfano un sistema ciclico; dimostrare che tutti giacciono in (-1,1)*
 
-> Che $x, y, z$ siano tre numeri reali distinti in modo tale che $$\begin{cases} x^2 - x = yz \\ y^2 - y = zx \\ z^2 - z = xy \end{cases}$$ dimostri che $-1 < x, y, z < 1$.
+> Sia $x, y, z$ un insieme di tre numeri reali distinti tali che
+> $$\begin{cases} x^2 - x = yz \\ y^2 - y = zx \\ z^2 - z = xy \end{cases}$$
+> Dimostrare che $-1 < x, y, z < 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2024_n3_fx#q04|src_obm_2024_n3_fx__Q04]]
 
 
 
@@ -153,9 +185,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*1 ×2024 gioco da tavolo: Ana e Banana quadrati di colore; trovare min k per Ana per garantire tutto verde*
+*1× gioco da tavolo 2024: quadrati colorati di Ana e Banana; trova il min k tale che Ana possa garantire il tutto-verde*
 
-> $m$ sia un intero positivo con $m \leq 2024$. Ana e Banana giocano un gioco alternativamente su una tavola $1 \times 2024$, con quadrati inizialmente dipinti in bianco. Ana e' la prima. Ogni mossa di Ana consiste nel scegliere quadrati bianchi sulla lavagna e dipingere tutti in verde. Ogni mossa di Banana consiste nel scegliere una sequenza di quadrati verdi consecutivi e dipingere tutti bianchi. Qual è il minimo valore di $m$ per il quale Ana può garantire che, dopo alcune sue mosse, la lavagna sarà completamente dipinta di verde?
+> Sia $m$ un numero intero positivo con $m \leq 2024$. Ana e Banana giocano a turno su una scacchiera $1 \times 2024$, le cui caselle sono inizialmente dipinte di bianco. Ana muove per prima. Ogni mossa di Ana consiste nel scegliere $k \leq m$ caselle bianche sulla scacchiera e dipingerle tutte di verde. Ogni mossa di Banana consiste nel scegliere una qualsiasi sequenza di caselle verdi consecutive e dipingerle tutte di bianco. Qual è il valore minimo di $m$ per cui Ana può garantire che, dopo alcune delle sue mosse, la scacchiera sarà interamente dipinta di verde?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2024_n3_fx#q05|src_obm_2024_n3_fx__Q05]]
 
 
 
@@ -183,10 +222,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza definita con il più piccolo non-divisore; dimostrare che ogni intero positivo appare*
+*Successione definita tramite il più piccolo non divisore; dimostrare che ogni intero positivo compare*
 
-> Per $k$ un intero positivo, $p(k)$ indica il primo più piccolo che non divide $k$. Se il numero intero $a$ è positivo, definire la sequenza infinita $a_0, a_1, \ldots$ da $a_0 = a$ e, per $n > 0$, $a_n \neq a_i$ da $0 \leq i < n$; la sequenza ha le seguenti proprietà:
-> 
-> - $a_n$ non è apparso nella sequenza precedente, o equivalentemente $a_n \neq a_i$ per $0 \leq i < n$; - $(a_{n-1})^{a_n} - 1$ è un multiple di $p(a_{n-1})$.
-> 
-> Prova che ogni intero positivo appare come termine della sequenza; cioè, per ogni intero positivo $m$ esiste $i$ tale che $a_i = m$.
+> Sia $k$ un numero intero positivo; indichiamo con $p(k)$ il più piccolo numero primo che non divide $k$. Dato un numero intero positivo $a$, si definisca la successione infinita $a_0, a_1, \ldots$ mediante $a_0 = a$ e, per $n > 0$, $a_n \neq a_i$ per $0 \leq i < n$; la successione ha le seguenti proprietà:
+>
+> - $a_n$ non è mai comparso nella sequenza in precedenza, oppure, in modo equivalente, $a_n \neq a_i$ per $0 \leq i < n$;
+> - $(a_{n-1})^{a_n} - 1$ è un multiplo di $p(a_{n-1})$.
+>
+> Dimostrare che ogni numero intero positivo compare come termine della successione; vale a dire che, per ogni numero intero positivo $m$, esiste $i$ tale che $a_i = m$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2024_n3_fx#q06|src_obm_2024_n3_fx__Q06]]

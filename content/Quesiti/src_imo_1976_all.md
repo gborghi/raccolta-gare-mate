@@ -28,9 +28,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*determinare le altre lunghezze delle diagonali*
+*Trovare le altre lunghezze diagonali*
 
-> In un quadrilatero convesso piano di area $32$, la somma delle lunghezze di due lati opposti e di una diagonale è $16$. Si determinino tutti i possibili valori della lunghezza dell'altra diagonale.
+> In un quadrilatero convesso piano di area $32$, la somma delle lunghezze di due lati opposti e di una diagonale è $16$. Determinare tutte le possibili lunghezze dell'altra diagonale.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1976_all#q01|src_imo_1976_all__Q01]]
 
 
 
@@ -52,9 +58,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il polinomio iterato P_n(x) = x ha radici reali distinte*
+*Il polinomio iterato P_n(x)=x ha radici reali distinte*
 
-> Siano $P_1(x) = x^2 - 2$ e $P_j(x) = P_1(P_{j-1}(x))$ per $j = 2, 3, \ldots$. Si dimostri che, per ogni intero positivo $n$, le radici dell'equazione $P_n(x) = x$ sono reali e distinte.
+> Siano $P_1(x) = x^2 - 2$ e $P_j(x) = P_1(P_{j-1}(x))$ per $j = 2, 3, \ldots$. Dimostrare che, per ogni intero positivo $n$, le radici dell'equazione $P_n(x) = x$ sono reali e distinte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1976_all#q02|src_imo_1976_all__Q02]]
 
 
 
@@ -76,9 +88,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimensioni della scatola in cui i cubi del volume-2 riempiono esattamente il 40%*
+*Dimensioni della scatola in cui i cubi di volume 2 riempiono esattamente il 40%*
 
-> Un parallelepipedo rettangolo può essere riempito completamente con cubi unitari. Se si dispongono nel parallelepipedo il massimo numero possibile di cubi, ciascuno con volume $2$, in modo che i loro spigoli siano paralleli agli spigoli del parallelepipedo, si riesce a riempire esattamente $40\%$ del volume totale. Determinare tutte le possibili dimensioni di tali parallelepipedi.
+> Un parallelepipedo rettangolo può essere riempito completamente con cubi unitari. Se si collocano nel parallelepipedo il maggior numero possibile di cubi, ciascuno di volume $2$, in modo che i loro spigoli siano paralleli agli spigoli del parallelepipedo, si può riempire esattamente $40\%$ del parallelepipedo. Determinare le possibili dimensioni di tutti i parallelepipedi di questo tipo.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_imo_1976_all#q03|src_imo_1976_all__Q03]]
 
 
 
@@ -100,9 +118,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prodotto massimo di interi positivi la cui somma è 1976*
+*Il più grande prodotto di interi positivi la cui somma è 1976*
 
-> Si determini, con dimostrazione, il più grande numero che è prodotto di interi positivi la cui somma è $1976$.
+> Determinare, con dimostrazione, il più grande numero che sia il prodotto di interi positivi la cui somma è $1976$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_imo_1976_all#q04|src_imo_1976_all__Q04]]
 
 
 
@@ -132,7 +156,7 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sistema con coefficienti +1, 0, -1 ha soluzione intera non nulla limitata*
+*Il sistema con coefficienti ±1,0 ammette una soluzione intera non nulla e limitata*
 
 > Si consideri il sistema di $p$ equazioni in $q = 2p$ incognite $x_1, x_2, \ldots, x_q$:
 > $$a_{11}x_1 + a_{12}x_2 + \cdots + a_{1q}x_q = 0$$
@@ -140,12 +164,15 @@ level: IMO
 > $$\vdots$$
 > $$a_{p1}x_1 + a_{p2}x_2 + \cdots + a_{pq}x_q = 0$$
 > con ogni coefficiente $a_{ij}$ appartenente all'insieme $\{-1, 0, 1\}$. Si dimostri che il sistema ammette una soluzione $(x_1, x_2, \ldots, x_q)$ tale che
->
-> (a) tutti gli $x_j$ ($j = 1, 2, \ldots, q$) siano interi,
->
-> (b) esista almeno un valore di $j$ per cui $x_j \neq 0$,
->
+> (a) tutti gli $x_j$ ($j = 1, 2, \ldots, q$) sono interi,
+> (b) esiste almeno un valore di $j$ per cui $x_j \neq 0$,
 > (c) $|x_j| \leq q$ ($j = 1, 2, \ldots, q$).
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1976_all#q05|src_imo_1976_all__Q05]]
 
 
 
@@ -171,10 +198,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostrare la forma chiusa del massimo intero della successione ricorsiva u_n*
+*Dimostrare la forma chiusa della parte intera della successione di ricorrenza u_n*
 
 > Una successione $\{u_n\}$ è definita da
 > $$u_0 = 2, \quad u_1 = \tfrac{5}{2}, \quad u_{n+1} = u_n(u_{n-1}^2 - 2) - u_1 \quad \text{for } n = 1, 2, \ldots$$
-> Si dimostri che per ogni intero positivo $n$,
+> Dimostrare che, per gli interi positivi $n$,
 > $$[u_n] = 2^{[2^n - (-1)^n]/3}$$
-> dove $[x]$ indica il massimo intero $\leq x$.
+> dove $[x]$ denota il più grande intero $\leq x$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1976_all#q06|src_imo_1976_all__Q06]]

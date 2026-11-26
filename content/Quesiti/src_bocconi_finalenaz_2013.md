@@ -34,15 +34,20 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To have numbers 2,3,4,6 in consecutive boxes*
+*Arrange the numbers 2, 3, 4, 6 in consecutive cells*
 
-> Put the numbers 2, 3, 4, 6 in the four empty boxes of the strip. Note: Two consecutive numbers (including 1 and 5) in two adjacent boxes must be consecutive numbers (e.g. 4 and 3 or 5 and 6) or one must be twice the other.
-> 
-> What is the result (taking into account the conditions)?
+> Place the numbers 2, 3, 4, and 6 in the four empty cells of the strip. Attention: two adjacent numbers (including 1 and 5) in two neighboring cells must be consecutive numbers (for example, 4 and 3 or 5 and 6) or one must be twice the other.
+>
+> What result do you obtain (taking the conditions into account)?
 
 ![[src_bocconi_finalenaz_2013__q01.png]]
 
-**Answer:** 1-2-4-3-6-5
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q01|src_bocconi_finalenaz_2013__Q01]]
 
 
 
@@ -72,13 +77,18 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 *Number read by Milena on four identical dice*
 
-> The figures $0, 1, 2, 3, 4, 5$ are shown on the faces of four (identical) dice. Opposite faces always have the same sum: 5. Carla reads the 2013 number from the dice side facing her. Which number will Milena, standing in front of Carla, read the numbers from left to right?
-> 
-> Which number will Milena read, reading the figures shown on the faces opposite those seen by Carla?
+> On the faces of four (identical) dice, the digits $0, 1, 2, 3, 4, 5$ are marked. Opposite faces always add up to the same total: 5. Carla reads the number 2013 from the side of the dice facing her. What number will Milena, who is opposite Carla, read when she reads the digits from left to right?
+>
+> What number will Milena read when she reads the digits marked on the faces opposite those visible to Carla?
 
 ![[src_bocconi_finalenaz_2013__q02.png]]
 
-**Answer:** 2453
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q02|src_bocconi_finalenaz_2013__Q02]]
 
 
 
@@ -104,13 +114,18 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum difference between eight-digit numbers with binding*
+*Maximum difference between eight-digit numbers with a constraint*
 
-> Jacopo enjoys writing all eight-digit numbers like 11052013 that use the "1, a "2", a "3" and a "5" twice. Then subtract the smallest of these numbers from the largest.
-> 
-> What is the result (given that a number cannot start with "0")?
+> Jacopo enjoys writing all eight-digit numbers like 11052013 that use the digit "1" twice, as well as a "2", a "3", and a "5". Then he subtracts the smallest of these numbers from the largest one.
+>
+> What result does he get (bearing in mind that a number cannot begin with the digit "0")?
 
-**Answer:** 43199865
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q03|src_bocconi_finalenaz_2013__Q03]]
 
 
 
@@ -136,13 +151,18 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-Anne's gift for four gifts with memory constraints
+*Anna's expenditure on four gifts with memory constraints*
 
-> Anna bought four gifts for her four cousins. He didn't pay attention to expenses: as they say, he doesn't remember how much he spent for each. However, it should be recalled that for the first three he spent a total of 2013 euros; for the first, second and fourth he spent a total of 2031 euros; for the first, third and fourth he spent a total of 2103 euros while the total expenditure of gifts for the second, third and fourth cousin was 2301 euros.
-> 
+> Anna bought four gifts for her four cousins. She didn't stint on expenses: as they say, she doesn't remember how much she spent on each one. However, she does remember that for the first three, she spent a total of 2013 euros; for the first, second, and fourth, she spent a total of 2031 euros; for the first, third, and fourth, she spent a total of 2103 euros, while the total cost of the gifts intended for the second, third, and fourth cousins was 2301 euros.
+>
 > How much did Anna spend on her first cousin?
 
-**Answer:** 515 Euro
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q04|src_bocconi_finalenaz_2013__Q04]]
 
 
 
@@ -170,15 +190,20 @@ Anne's gift for four gifts with memory constraints
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number seen in the mirror on a t-shirt with digits*
+*Number seen in the mirror on a T-shirt with numerals*
 
-> A three-digit number (no zero) is shown on Luke's t-shirt, with the digits drawn as in the figure. Looking in the mirror, Luke sees a number equal to four times what is actually written on his shirt.
-> 
-> What number does Luke see in the mirror? (Please note that t-shirt manufacturers are not very good at math and, by the way, they don't know that a number with more than one digit can't start with a "0".)
+> A three-digit number (with no zeros) is printed on Luca's T-shirt, and the digits are drawn as in the figure. When Luca looks in the mirror, he sees a number that is four times the number actually written on his shirt.
+>
+> What number does Luca see in the mirror? (Keep in mind that T-shirt manufacturers aren't very good at mathematics and, moreover, don't know that a number with more than one digit can't start with a "0".)
 
 ![[src_bocconi_finalenaz_2013__q05.png]]
 
-**Answer:** 220
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q05|src_bocconi_finalenaz_2013__Q05]]
 
 
 
@@ -204,13 +229,18 @@ Anne's gift for four gifts with memory constraints
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Birthdays written using only digits 0-3*
+*Birth dates that can be written using only the digits 0–3*
 
-> When Michele remembers the day and month in which he was born in four digits (two digits for the day and two for the month; for example, $11.05$ indicates $11$ May), he only uses the digits $0, 1, 2, 3$ (he never uses the digits $4, 5, 6, 7, 8, 9$).
-> 
-> How many birthdays (day and month) can be written under the same condition?
+> When Michele recalls, using four digits, the day and month of his birth (two digits for the day and two for the month; for example, $11.05$ indicates the $11$ of May), he uses only the digits $0, 1, 2, 3$ (he never uses the digits $4, 5, 6, 7, 8, 9$).
+>
+> How many birthdays (day and month) can be written while respecting the same condition?
 
-**Answer:** 75
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q06|src_bocconi_finalenaz_2013__Q06]]
 
 
 
@@ -240,13 +270,18 @@ Anne's gift for four gifts with memory constraints
 
 *Distance between two nearby airports on the planet*
 
-> There are six cities on this planet, each marked with a letter and with an airport. Two nearby airports are always the same distance from each other (according to the routes shown in the figure). Desiderio is a wealthy eccentric traveling on his private plane. It starts from A towards B and, when reached B, turns right of $90^{\circ}$ towards E. Here it always turns $90^{\circ}$ to the right and then to the left, always $90^{\circ}$, whenever it reaches an airport.
-> 
-> What is the distance between two nearby airports knowing that Desiderio, when he returned to A for the first time, traveled 45,000 km?
+> On the planet shown in the figure, there are six cities, each indicated by a letter and equipped with an airport. Two nearby airports are always the same distance apart (according to the routes marked in the figure). Desiderio is a wealthy eccentric who travels in his private plane. He departs from A toward B and, upon reaching B, turns right by $90^{\circ}$, heading toward E. There, whenever he reaches an airport, he always turns right by $90^{\circ}$ and then left by $90^{\circ}$.
+>
+> What is the distance between two nearby airports, given that when Desiderio returned to A for the first time, he had traveled 45,000 km?
 
 ![[src_bocconi_finalenaz_2013__q07.png]]
 
-**Answer:** 7500 km
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q07|src_bocconi_finalenaz_2013__Q07]]
 
 
 
@@ -272,13 +307,18 @@ Anne's gift for four gifts with memory constraints
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sizes for dividing block 21 cubes*
+*Minimum cuts to divide block 21 cubes*
 
-> Amerigo wants to divide the block we see in the figure into his 21 cubes (all equal to each other). With how many cuts does he get the minimum, knowing that between one cut and the other he can assemble the pieces he gets as he pleases?
+> Amerigo wants to divide the block shown in the figure into its 21 little cubes (all of which are identical). With how many cuts will he achieve the minimum number of cuts, knowing that between one cut and the next he can reassemble the pieces obtained however he likes?
 
 ![[src_bocconi_finalenaz_2013__q08.png]]
 
-**Answer:** 5
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q08|src_bocconi_finalenaz_2013__Q08]]
 
 
 
@@ -304,13 +344,18 @@ Anne's gift for four gifts with memory constraints
 <div class="qlang-split" data-lang="en"></div>
 
 
-Measures of square meadows with total area of 222 dams
+*Dimensions of square lawns with a total area of 222 dam²*
 
-> Angelo has three square meadows, the sides of which are measured in decameters. The sum of the areas of the three meadows is 222 $\text{dam}^2$.
-> 
-> How much do the sides of the meadows measure? (On the answer sheet, write the smallest possible answer, if not unique.)
+> Angelo owns three square meadows, whose sides are measured in decametres. The sum of the areas of the three meadows is equal to 222 $\text{dam}^2$.
+>
+> How long are the sides of the meadows? (On the answer sheet, write the smallest of the possible answers, if it is not unique.)
 
-**Answer:** 1-5-14, 1-10-11, 2-7-13
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q09|src_bocconi_finalenaz_2013__Q09]]
 
 
 
@@ -336,13 +381,18 @@ Measures of square meadows with total area of 222 dams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number divisible by 11 and 13 chosen by Debora*
+*A number divisible by 11 and 13, chosen by Debora*
 
-> The positive number chosen by Deborah is divisible by 11; the number chosen by Liliana is divisible by 13. Their sum is equal to 316.
-> 
-> How much is Deborah's number worth?
+> The positive number chosen by Debora is divisible by 11; the one chosen by Liliana is divisible by 13. Their sum is equal to 316.
+>
+> What is the value of the number chosen by Debora?
 
-**Answer:** 121 e 264
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q10|src_bocconi_finalenaz_2013__Q10]]
 
 
 
@@ -368,13 +418,18 @@ Measures of square meadows with total area of 222 dams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of tokens aligned with digits 1,2,3 different from two to two*
+*Maximum number of tokens arranged in a line with digits 1, 2, 3, each pair of which are different*
 
-> Nando owns a large number of tokens; one of the digits $1, 2, 3$ appears on each of them. Aligning some of these tokens, the numbers of two adjacent tokens are always different from each other; the sum of their values is always different from the sum of the values of any other pair of adjacent tokens.
-> 
-> How many tokens did Nando use at most?
+> Nando has a large number of tokens; each of them bears one of the digits $1, 2, 3$. When some of these tokens are arranged in a line, the digits on any two adjacent tokens are always all different from one another; the sum of their values is always different from the sum of the values of any other pair of adjacent tokens.
+>
+> What is the maximum number of tokens Nando used?
 
-**Answer:** 10
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q11|src_bocconi_finalenaz_2013__Q11]]
 
 
 
@@ -400,13 +455,18 @@ Measures of square meadows with total area of 222 dams
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of a trapezoid with a given oblique side*
+*Height of a trapezoid given the slant side*
 
-> The greater base of a trapezoid measures 18 cm. One oblique side measures 5 cm while its other two sides measure (in increasing order) 6 cm and 13 cm.
-> 
-> How tall is he?
+> The longer base of a trapezoid measures 18 cm. One of the non-parallel sides measures 5 cm, while the other two sides measure 6 cm and 13 cm, in ascending order.
+>
+> What is the height?
 
-**Answer:** 4,8 cm e 5 cm
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q12|src_bocconi_finalenaz_2013__Q12]]
 
 
 
@@ -436,13 +496,22 @@ Measures of square meadows with total area of 222 dams
 <div class="qlang-split" data-lang="en"></div>
 
 
-Mysterious positive number less than 2013 with three conditions
+*Mysterious positive integer less than 2013 with three conditions*
 
-> A positive integer less than 2013 is such that: - if 7 is subtracted, the result is divisible by 6; - if 8 is subtracted, the result is divisible by 7; - if 9 is subtracted, the result is divisible by 8; - if 10 is subtracted, the result is divisible by 9.
-> 
-> What number is this?
+> A positive integer less than 2013 has the following properties:
+> - if 7 is subtracted from it, the result is divisible by 6;
+> - if 8 is subtracted from it, the result is divisible by 7;
+> - if 9 is subtracted from it, the result is divisible by 8;
+> - if 10 is subtracted from it, the result is divisible by 9.
+>
+> Which number is this?
 
-**Answer:** 1513
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q13|src_bocconi_finalenaz_2013__Q13]]
 
 
 
@@ -468,13 +537,18 @@ Mysterious positive number less than 2013 with three conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of coin tosses with head or cross*
+*Maximum number of coin tosses resulting in heads or tails*
 
-> Gian Italo enjoys tossing a 1 Euro coin in succession and taking note of whether it comes out "head" (T) or "cross" (C). In the series of "C" and "T" he writes, the results of four consecutive throws are all different from each other and in the end the number of "heads" is three times that of the "cross".
-> 
-> How many coin tosses did Gian Italo make?
+> Gian Italo enjoys tossing a 1-euro coin in succession and noting whether "heads" (T) or "tails" (C) comes up. In the sequence of "C"s and "T"s that he writes down, the results of four consecutive tosses are all different from one another, and in the end the number of "heads" is three times the number of "tails".
+>
+> What is the maximum number of coin tosses Gian Italo could have made?
 
-**Answer:** 12
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q14|src_bocconi_finalenaz_2013__Q14]]
 
 
 
@@ -500,13 +574,18 @@ Mysterious positive number less than 2013 with three conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of dividers between three consecutive*
+*The smallest number of divisors among three consecutive numbers*
 
-> Each of the numbers 2013, 2014 and 2015 has eight divisors.
-> 
-> What are the first three consecutive natural integers that have the same number of divisors? (On the answer sheet, write the smallest of these three numbers.)
+> Each of the numbers 2013, 2014, and 2015 has eight divisors.
+>
+> What are the first three consecutive natural numbers that have the same number of divisors? (On the answer sheet, write the smallest of these three numbers.)
 
-**Answer:** 33
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q15|src_bocconi_finalenaz_2013__Q15]]
 
 
 
@@ -532,13 +611,18 @@ Mysterious positive number less than 2013 with three conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three prime numbers with product 19 times their sum*
+*Three prime numbers whose product is 19 times their sum*
 
-> The product of three prime numbers is 19 times their sum.
-> 
+> The product of three prime numbers is equal to 19 times their sum.
+>
 > What are these three numbers?
 
-**Answer:** 3, 11, 19
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q16|src_bocconi_finalenaz_2013__Q16]]
 
 
 
@@ -568,15 +652,22 @@ Mysterious positive number less than 2013 with three conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum operation to turn on all lamps*
+*Minimum operations to turn on all the light bulbs*
 
-> Our electric guirl, circular, has nine bulbs initially all on. Starting with a light bulb chosen as the initial, the signal propagates from one bulb to the next, always in the same direction (when the signal has passed through all the bulbs, it reaches the initial bulb and so on).
-> 
-> One operation consists of applying the signal from one bulb to the next, taking into account that: - if the bulb from which the signal starts is lit, then the one to which it is directed changes state; - if the bulb from which the signal starts is turned off, then the one to which it is directed does not change state.
-> 
-> After how many operations, at least, will the bulbs all be turned on again?
+> Our circular electric garland has 9 bulbs, initially all lit. Starting from a bulb chosen as the starting point, the signal propagates from one bulb to the next, always in the same direction (once the signal has passed through all the bulbs, it reaches the starting bulb, and so on).
+>
+> An operation consists of applying the signal from one bulb to the next, taking into account that:
+> - if the bulb from which the signal starts is lit, then the bulb to which the signal is directed changes state;
+> - if the bulb from which the signal starts is unlit, then the bulb to which the signal is directed does not change state.
+>
+> After at least how many operations will all the bulbs be lit again?
 
-**Answer:** 73
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q17|src_bocconi_finalenaz_2013__Q17]]
 
 
 
@@ -602,10 +693,15 @@ Mysterious positive number less than 2013 with three conditions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum radius for circular tablecloths on triangular table*
+*Minimum radius for circular placemats on a triangular table*
 
-> Chiara's table is in the shape of an equilateral triangle, whose side measures 1 m. Clear the cover, leaving no "hole", with 5 circular towels with the same beam.
-> 
-> What is the minimum size of this radius in centimetres?
+> Chiara's table is shaped like an equilateral triangle with sides measuring 1 m. Chiara covers it with 5 circular placemats of the same radius, leaving no "gaps".
+>
+> What is the minimum possible value of this radius in cm?
 
-**Answer:** 25 cm
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2013#q18|src_bocconi_finalenaz_2013__Q18]]

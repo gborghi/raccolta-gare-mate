@@ -31,11 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che il triangolo BPE è isosceles in condizioni di bisettore perpendicolare*
+*Dimostrare che il triangolo BPE è isoscele date le condizioni relative all'asse perpendicolare*
 
-> Lasciate che $ABC$ sia un triangolo. Si deve $L$ essere la linea attraverso $B$ perpendicolare a $AB$. La perpendicolare da $A$ a $BC$ incontra $L$ al punto $D$. Il bisettore perpendicolare di $BC$ incontra $L$ al punto $P$. Il $E$ deve essere il piede della perpendicolare da $D$ a $AC$.
-> 
-> Prove che il triangolo $BPE$ è uguale.
+> Sia $ABC$ un triangolo. Sia $L$ la retta passante per $B$ e perpendicolare a $AB$. La perpendicolare condotta da $A$ a $BC$ incontra $L$ nel punto $D$. La mediatrice di $BC$ incontra $L$ nel punto $P$. Sia $E$ il piede della perpendicolare condotta da $D$ a $AC$.
+>
+> Dimostrare che il triangolo $BPE$ è isoscele.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2018-19_round2#q01|src_bmo_2018-19_round2__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le n per le quali i pezzi magici di scacchi possono vincere*
+*Trovare tutti gli n per cui i pezzi degli scacchi magici possono vincere*
 
-> Per alcuni numeri interi $n$, un insieme di pezzi magici di scacchi $n^2$ si organizzano su una scacchiera quadrata $n^2 \times n^2$ composta da quadrati unitari $n^4$. A un segnale, tutti i pezzi di scacchi si teleportano su un altro quadrato della scacchiera in modo tale che la distanza tra i centri dei loro quadrati vecchi e nuovi sia $n$. I pezzi di scacchi vincono se, sia prima che dopo il segnale, non ci sono due pezzi di scacchi nella stessa riga o colonna. Per quali valori di $n$ possono vincere i scacchi?
+> Per un certo intero $n$, un insieme di $n^2$ pezzi di scacchi magici si dispone su una scacchiera quadrata $n^2 \times n^2$ composta da $n^4$ caselle unitarie. Al segnale, tutti i pezzi di scacchi si teletrasportano in un'altra casella della scacchiera in modo che la distanza tra i centri delle loro caselle originarie e di quelle nuove sia $n$. I pezzi di scacchi vincono se, sia prima sia dopo il segnale, non ci sono due pezzi nella stessa riga o nella stessa colonna. Per quali valori di $n$ i pezzi di scacchi possono vincere?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2018-19_round2#q02|src_bmo_2018-19_round2__Q02]]
 
 
 
@@ -86,11 +100,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i sottogruppi non vuoti di {1,...,p-1} con somma divisibile per p*
+*Conta i sottoinsiemi non vuoti di {1,...,p-1} la cui somma è divisibile per p*
 
-> Lasciate che $p$ sia un primo parziale. Quanti sottoinsiemi non vuoti di $$\{1, 2, 3, \ldots, p-2, p-1\}$$ hanno una somma divisibile per $p$?
+> Sia $p$ un numero primo dispari. Quanti sottoinsiemi non vuoti di
+> $$\{1, 2, 3, \ldots, p-2, p-1\}$$
+> hanno una somma divisibile per $p$?
 
-**Risposta:** \dfrac{2^{p-1} + p - 2}{p}
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2018-19_round2#q03|src_bmo_2018-19_round2__Q03]]
 
 
 
@@ -116,8 +137,15 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni che soddisfano una condizione di monotonicità ed equazione funzionale*
+*Trovare tutte le funzioni che soddisfano una condizione di monotonicità e un'equazione funzionale*
 
-> Trova tutte le funzioni $f$ dai numeri reali positivi ai numeri reali positivi per i quali $f(x) \le f(y)$ ogni volta $x \le y$ e $$f(x^3) + f(x^2) + f(x) + f(1) = x^4 + x^2 + x + 1$$ per tutti $x > 0$.
+> Trovare tutte le funzioni $f$ da ℝ⁺ a ℝ⁺ tali che $f(x) \le f(y)$ ogni volta che $x \le y$ e
+> $$f(x^3) + f(x^2) + f(x) + f(1) = x^4 + x^2 + x + 1$$
+> per ogni $x > 0$.
 
-**Risposta:** f(x) = x
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2018-19_round2#q04|src_bmo_2018-19_round2__Q04]]

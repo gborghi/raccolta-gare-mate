@@ -42,34 +42,39 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/Prova_2026_Nivel_2.pdf#page=1)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Isole ciascuna su esattamente due rotte; scambi di rotte per renderle collegate: numero di cicli e minimo numero di mesi.*
+*Isole, ciascuna delle quali appartiene esattamente a due percorsi; scambio dei percorsi per collegarle; numero di cicli e mesi minimi.*
 
 ![[src_obm_2026_n2_fx__q01.png]]
 
-> Maria possiede $n$ isole. Alcune coppie di isole distinte sono collegate da rotte marittime, percorse da navi in entrambi i sensi. Ogni isola appartiene esattamente a due rotte e non ci sono due rotte tra la stessa coppia di isole.
+> Maria possiede $n$ isole. Alcune coppie di isole distinte sono collegate da rotte marittime, lungo le quali le navi navigano in entrambe le direzioni. Ogni isola appartiene esattamente a due rotte e non esistono due rotte tra la stessa coppia di isole.
 >
-> Un *ciclo* è un percorso di una nave che inizia e termina nella stessa isola senza ripetere isole né rotte, a parte l'isola iniziale. Nella mappa qui sotto ci sono i cicli $F-G-K-F$, $A-B-J-D-A$ e $C-E-H-I-C$. Cicli che differiscono solo per l'isola iniziale o per il verso sono considerati uguali; per esempio, i cicli $F-G-K-F$ e $G-F-K-G$ sono uguali.
+> Un *ciclo* è un viaggio in nave che inizia e termina sulla stessa isola, senza ripetere isole o percorsi, fatta eccezione per l'isola di partenza. Nella mappa sottostante sono presenti i cicli $F-G-K-F$, $A-B-J-D-A$ e $C-E-H-I-C$. I cicli che differiscono solo per l'isola di partenza o per la direzione sono considerati uguali; ad esempio, i cicli $F-G-K-F$ e $G-F-K-G$ sono uguali.
 >
-> Maria vuole modificare le rotte finché una nave possa navigare da qualunque isola a qualunque altra lungo le rotte. Ogni mese sceglie quattro isole distinte $X, Y, Z, W$ tali che esistano le rotte $X-Y$ e $Z-W$ ma non esistano le rotte $X-Z$ né $Y-W$. Le rotte $X-Y$ e $Z-W$ vengono allora eliminate e sostituite dalle nuove rotte $X-Z$ e $Y-W$.
+> Maria vuole modificare i percorsi finché una nave non potrà navigare da qualsiasi isola a qualsiasi altra seguendo i percorsi. Ogni mese sceglie quattro isole distinte $X, Y, Z, W$ tali che i percorsi $X-Y$ e $Z-W$ esistano, ma i percorsi $X-Z$ e $Y-W$ non esistano. I percorsi $X-Y$ e $Z-W$ vengono poi rimossi e sostituiti dai nuovi percorsi $X-Z$ e $Y-W$.
 >
-> (a) Nel caso $n=11$ con la mappa delle rotte qui sopra, Maria farà le seguenti sostituzioni:
+> (a) Nel caso $n=11$, con la mappa del percorso sopra riportata, Maria effettua le seguenti sostituzioni:
 >
-> | | Mese 1 | Mese 2 | Mese 3 |
+> | | Month 1 | Month 2 | Month 3 |
 > |---|---|---|---|
-> | Rotte eliminate | $F-G$, $H-E$ | $I-C$, $G-K$ | $A-B$, $F-H$ |
-> | Rotte aggiunte | $F-H$, $G-E$ | $I-G$, $C-K$ | $A-F$, $B-H$ |
+> | Routes removed | $F-G$, $H-E$ | $I-C$, $G-K$ | $A-B$, $F-H$ |
+> | Routes added | $F-H$, $G-E$ | $I-G$, $C-K$ | $A-F$, $B-H$ |
 >
-> Quanti cicli ci sono dopo ciascuna sostituzione?
+> Quanti cicli ci sono dopo ogni sostituzione?
 >
-> (b) Per $n$ qualsiasi, spiegare perché, in ogni mese della riorganizzazione, le rotte si possono dividere in cicli in modo che ogni rotta e ogni isola appartengano esattamente a uno di essi.
+> (b) Per un $n$ arbitrario, spiega perché, in qualsiasi mese della riorganizzazione, i percorsi possono essere suddivisi in cicli in modo che ciascun percorso e ciascuna isola appartengano esattamente a uno di essi.
 >
-> (c) Per una mappa iniziale qualsiasi con $n=2026$ e 314 cicli, qual è il minimo numero di mesi necessario a Maria per raggiungere il suo obiettivo? Bisogna dimostrare perché questo numero è sufficiente e perché non è possibile farlo con meno mesi.
+> (c) Per una mappa iniziale arbitraria con $n=2026$ e 314 cicli, qual è il numero minimo di mesi di cui Maria ha bisogno per raggiungere il suo obiettivo? Devi dimostrare perché questo numero è sufficiente e perché non è possibile farlo con meno mesi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2026_n2_fx#q01|src_obm_2026_n2_fx__Q01]]
 
 
 
@@ -86,15 +91,20 @@ level: OBM Nível 2
 **Area:** [[Geometria]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/Prova_2026_Nivel_2.pdf#page=1)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acutangolo con ortocentro H, angolo PHQ = 90°, BX ∥ PH, CX ∥ QH: dimostrare HX ⊥ PQ.*
+*Triangolo acutangolo con ortocentro H, angolo PHQ = 90°, BX ∥ PH, CX ∥ QH; dimostrare che HX ⊥ PQ.*
 
-> Sia $ABC$ un triangolo acutangolo con ortocentro $H$. Siano $P$ e $Q$ punti interni ai lati $AB$ e $AC$, rispettivamente, tali che $\angle PHQ=90^\circ$. Sia $X$ un punto tale che $BX$ sia parallelo a $PH$ e $CX$ sia parallelo a $QH$. Dimostrare che $HX$ e $PQ$ sono perpendicolari.
+> Sia $ABC$ un triangolo acutangolo con ortocentro $H$. Siano $P$ e $Q$ dei punti interni ai lati $AB$ e $AC$, rispettivamente, tali che $\angle PHQ=90^\circ$. Sia $X$ un punto tale che $BX$ è parallelo a $PH$ e $CX$ è parallelo a $QH$. Dimostrare che $HX$ e $PQ$ sono perpendicolari.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2026_n2_fx#q02|src_obm_2026_n2_fx__Q02]]
 
 
 
@@ -115,19 +125,24 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/Prova_2026_Nivel_2.pdf#page=1)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimo c tale che ⌊x√n⌋ > ⌊x√(n−1)⌋ > … > ⌊x√1⌋ per ogni x ≥ c.*
+*Il più piccolo c tale che, per ogni x ≥ c, valga floor(x√n) > floor(x√(n−1)) > … > floor(x√1).*
 
-> Sia $n$ un intero positivo. Determinare, in funzione di $n$, il più piccolo numero reale $c$ tale che, per ogni numero reale $x\ge c$, si abbia
+> Sia $n$ un numero intero positivo. Determina, in funzione di $n$, il più piccolo numero reale $c$ tale che, per ogni numero reale $x\ge c$,
 >
 > $$\lfloor x\sqrt n\rfloor>\lfloor x\sqrt{n-1}\rfloor>\cdots>\lfloor x\sqrt2\rfloor>\lfloor x\sqrt1\rfloor.$$
 >
-> *Osservazione:* per un numero reale $y$, $\lfloor y\rfloor$ indica il più grande intero minore o uguale a $y$. Per esempio, $\lfloor2\rfloor=2$, $\lfloor\sqrt5\rfloor=2$ e $\lfloor-\pi\rfloor=-4$.
+> *Osservazione:* per un numero reale $y$, $\lfloor y\rfloor$ denota il più grande intero minore o uguale a $y$. Ad esempio, $\lfloor2\rfloor=2$, $\lfloor\sqrt5\rfloor=2$ e $\lfloor-\pi\rfloor=-4$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2026_n2_fx#q03|src_obm_2026_n2_fx__Q03]]
 
 
 
@@ -144,15 +159,20 @@ level: OBM Nível 2
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/Prova_2026_Nivel_2.pdf#page=2)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2027 primi distinti su una circonferenza: tutte le somme di vicini possono essere quadrati perfetti?*
+*2027 numeri primi distinti disposti su una circonferenza: è possibile che tutte le somme di coppie adiacenti siano quadrati perfetti?*
 
-> Agnes ha scritto 2027 numeri primi, a due a due distinti, attorno a una circonferenza. È possibile che tutte le 2027 somme di coppie di primi adiacenti sulla circonferenza siano quadrati perfetti?
+> Agnes ha disposto in cerchio 2027 numeri primi tutti distinti a due a due. È possibile che tutte le 2027 somme delle coppie di numeri primi adiacenti sul cerchio siano quadrati perfetti?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2026_n2_fx#q04|src_obm_2026_n2_fx__Q04]]
 
 
 
@@ -179,25 +199,30 @@ level: OBM Nível 2
 **Area:** [[Algebra e Analisi]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/Prova_2026_Nivel_2.pdf#page=2)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*√(12x+13) ≥ ax + a + 1 su [−1, 1]; poi dimostrare √(12x+13) + √(12y+13) − 1 ≥ (x+y+1)².*
+*√(12x+13) ≥ ax + a + 1 su [−1, 1]; poi dimostrare che √(12x+13) + √(12y+13) − 1 ≥ (x+y+1)².*
 
-> (a) Determinare tutti i numeri reali $a$ per cui la disuguaglianza
+> (a) Determina tutti i numeri reali $a$ per cui la disuguaglianza
 >
 > $$\sqrt{12x+13}\ge ax+a+1$$
 >
-> vale per ogni $x$ reale con $-1\le x\le1$.
+> Vale per ogni $x$ reale con $-1\le x\le1$.
 >
 > (b) Dimostrare che
 >
 > $$\sqrt{12x+13}+\sqrt{12y+13}-1\ge(x+y+1)^2$$
 >
-> per ogni $x, y$ reali con $-1\le x\le1$ e $-1\le y\le1$.
+> per tutti i $x, y$ reali con $-1\le x\le1$ e $-1\le y\le1$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2026_n2_fx#q05|src_obm_2026_n2_fx__Q05]]
 
 
 
@@ -222,20 +247,25 @@ level: OBM Nível 2
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/Prova_2026_Nivel_2.pdf#page=2)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scacchiera 100 × 100 con 50 caselle numerate sulla diagonale: massimo numero di caselle da riempire senza vicini con numeri diversi.*
+*Tavola 100 × 100 con 50 celle diagonali numerate; numero massimo di celle aggiuntive compilate senza numeri distinti adiacenti.*
 
 ![[src_obm_2026_n2_fx__q06.png]]
 
-> In una scacchiera $100\times100$ ci sono 50 caselle già numerate come mostrato in figura.
+> Su una tavola $100\times100$, 50 caselle sono già numerate come mostrato nella figura.
 >
-> Esmeralda vuole scrivere numeri interi positivi in alcune delle caselle vuote. Vuole che il riempimento finale della scacchiera soddisfi la seguente proprietà:
+> Esmeralda vuole scrivere numeri interi positivi in alcune delle celle vuote. Vuole che la configurazione finale della scacchiera soddisfi la seguente proprietà:
 >
-> *«non ci sono due caselle con un lato in comune in cui sono scritti numeri diversi».*
+> Nessuna coppia di celle che condividono un lato contiene numeri diversi.
 >
-> Oltre alle 50 caselle già riempite, qual è il massimo numero di caselle che Esmeralda può riempire rispettando questa regola?
+> A parte le 50 celle già riempite, qual è il numero massimo di celle che Esmeralda può riempire rispettando questa regola?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2026_n2_fx#q06|src_obm_2026_n2_fx__Q06]]

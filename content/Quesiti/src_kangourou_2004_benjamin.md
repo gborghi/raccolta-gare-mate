@@ -33,11 +33,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rewrite (10×100) ×(20×80) as a product*
+*The value of the product*
 
-> (10  x 100)  x (20 x 80) = A)  20000 x 80000       B)  2000 x 8000 C)  2000 x 80000 D)  20000 x 8000 E)  2000 x 800
+> (10 x 100) x (20 x 80) =
+> A) 20000 x 80000
+> B) 2000 x 8000
+> C) 2000 x 80000
+> D) 20000 x 8000
+> E) 2000 x 800
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_benjamin#q01|src_kangourou_2004_benjamin__Q01]]
 
 
 
@@ -87,7 +95,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Card to put in the diagram (latin square)*
+*Which card goes in the square with the question mark*
 
 ![[src_kangourou_2004_benjamin__prob2.png]]
 
@@ -107,9 +115,17 @@ level: kangourou
 \end{document}
 ```
 
-> You 've got 16 cards: 4 spades (P), 4 clubs (F), 4 diamonds (Q), and 4 hearts (C). You have to place them in the pattern shown in the figure, one per square, so that in each row and in each column there is a card for each sign. You've already begun the work as shown in the figure. Which card do you have to put in the square where the question mark appears? A) P B) F C) Q D) C E) more than one choice is possible
+> You have 16 cards: 4 spades (P), 4 clubs (F), 4 diamonds (Q) and 4 hearts (C). You must place them in the grid shown in the figure, one in each little square, so that in every row and in every column there is one card of each suit. You have already begun the work as shown in the figure. Which card must you put in the little square that contains the question mark?
+> A) P
+> B) F
+> C) Q
+> D) C
+> E) more than one choice is possible
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_benjamin#q02|src_kangourou_2004_benjamin__Q02]]
 
 
 
@@ -136,13 +152,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diameter of the circle (right angles)*
+*The diameter of the circle, in centimetres*
 
 ![[src_kangourou_2004_benjamin__prob3.png]]
 
-> How much is the diameter of the circle in the figure in centimeters? (The angles indicated by a square are straight and one of them is in the centre of the circle.) A) 18 B) 12 C) 10 D) 12.5 E) 14
+> What is the diameter, in centimetres, of the circle in the figure? (The angles marked with a little square are right angles, and one of them is at the centre of the circle.)
+> A) 18
+> B) 12
+> C) 10
+> D) 12.5
+> E) 14
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_benjamin#q03|src_kangourou_2004_benjamin__Q03]]
 
 
 
@@ -166,11 +190,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*360000 seconds in how many hours*
+*What 360 000 seconds are equivalent to*
 
-> 360 000 seconds is equivalent to A) 3 hours B) 6 hours C) 8 and a half hours D) 10 hours E) more than 10 hours
+> 360 000 seconds are equivalent to
+> A) 3 hours
+> B) 6 hours
+> C) 8 and a half hours
+> D) 10 hours
+> E) more than 10 hours
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_benjamin#q04|src_kangourou_2004_benjamin__Q04]]
 
 
 
@@ -198,11 +230,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Weight of 1 apple and 1 orange *
+*How many grams one apple and one orange weigh together*
 
-> 3 apples and 2 oranges weigh a total of 255 grams; 2 apples and 3 oranges weigh a total of 285 grams. All apples have the same weight and all oranges have the same weight. How many grams do 1 apple and 1 orange weigh in total? A) 110 B) 108         C) 105        D) 104        E) 102
+> 3 apples and 2 oranges weigh 255 grams together; 2 apples and 3 oranges weigh 285 grams together. All the apples have the same weight and all the oranges have the same weight. How many grams do 1 apple and 1 orange weigh together?
+> A) 110
+> B) 108
+> C) 105
+> D) 104
+> E) 102
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_benjamin#q05|src_kangourou_2004_benjamin__Q05]]
 
 
 
@@ -245,31 +285,32 @@ Weight of 1 apple and 1 orange *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Guessing the number (truth among friends)*
+*What the number is*
 
-> You must guess a positive integer about which four of your
-> friends give you the following information. Andrea: "The number is 9".
-> Bruno: "The number is prime". Carlo: "The number is even". Dario: "The
-> number is 15". You know that, between Andrea and Bruno, one of the two tells the truth
+> You must guess a positive integer about which four of your friends give you the following information. Andrea: "The number is 9". Bruno: "The number is prime". Carlo: "The number is even". Dario: "The number is 15". You know that, of Andrea and Bruno, one of the two is telling the truth
 > P
 > ? C
 > F P
 > Q
 > C
 > 5 cm
-> 
-> Pag. 
-> Pag. 11
+>
+> Page
+> Page 11
 > 11
 > Kang 2004
 > Kang 2004
-> and likewise between Carlo and Dario. What is the number?
+> and likewise of Carlo and Dario. What is the number?
 > A) 1
 > B) 2
-> C) 3   
-> D) 9           E) 15
+> C) 3
+> D) 9
+> E) 15
 
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_benjamin#q06|src_kangourou_2004_benjamin__Q06]]
 
 
 
@@ -297,11 +338,19 @@ Weight of 1 apple and 1 orange *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is not a divisor of 2004*
+*Which of the numbers is not a divisor of 2004*
 
-> Which of the following is not a 2004 divider? A) 3 B) 4 C) 6 D) 8 E) 12
+> Which of the following numbers is not a divisor of 2004?
+> A) 3
+> B) 4
+> C) 6
+> D) 8
+> E) 12
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_benjamin#q07|src_kangourou_2004_benjamin__Q07]]
 
 
 
@@ -330,11 +379,19 @@ Weight of 1 apple and 1 orange *
 <div class="qlang-split" data-lang="en"></div>
 
 
-Carrots eaten by the rabbit mother
+*How many carrots the mother ate*
 
-> The three members of a rabbit family ate a total of 73 carrots. The father ate 5 carrots more than the mother. Bunny the son ate 12 carrots. How many carrots did the mother eat? A) 27 B) 28 C) 31 D) 33          E) 56
+> The three members of a family of rabbits have eaten 73 carrots together. The father ate 5 carrots more than the mother. The son Bunny ate 12 carrots. How many carrots did the mother eat?
+> A) 27
+> B) 28
+> C) 31
+> D) 33
+> E) 56
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_benjamin#q08|src_kangourou_2004_benjamin__Q08]]
 
 
 
@@ -360,11 +417,19 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance first to ninth bus stop*
+*How many metres the first stop is from the ninth*
 
-> Nine consecutive bus stops are located along a road so that the distance between two adjacent stops is always the same. The distance between the first and third stop is 600 meters. How far is the first stop from the ninth? A)  1200      B)  1500     C)  1800      D)  2400    E)  2700
+> Nine consecutive bus stops are placed along a road so that the distance between two adjacent stops is always the same. The distance between the first and the third stop is 600 metres. How many metres is the first stop from the ninth?
+> A) 1200
+> B) 1500
+> C) 1800
+> D) 2400
+> E) 2700
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_benjamin#q09|src_kangourou_2004_benjamin__Q09]]
 
 
 
@@ -395,13 +460,22 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of cardboard box 6x6*
+*The volume of the box in cubic centimetres*
 
 ![[src_kangourou_2004_benjamin__prob10.png]]
 
-> A square cardboard of 6 centimeters on the side is used to build a box 1 centimeter high, as suggested by the figure (shaded squares are removed). How many cubic centimetres is the volume of the box? A) 16 B) 36 C) 30 D) 25 E) 24 Questions from N. 11 to N. 20 are worth 4 points each.
+> A square piece of card with a side of 6 centimetres is used to build a box 1 centimetre high, as suggested by the figure (the shaded little squares are removed). How many cubic centimetres is the volume of the box obtained?
+> A) 16
+> B) 36
+> C) 30
+> D) 25
+> E) 24
+> Questions 11 to 20 are worth 4 points each
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_benjamin#q10|src_kangourou_2004_benjamin__Q10]]
 
 
 
@@ -443,13 +517,11 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure can you not obtain without flipping*
+*Which figure one cannot obtain*
 
 ![[src_kangourou_2004_benjamin__prob11.png]]
 
-> You have two pieces of cardboard identical
-> to each other like those in the figure, which you can place side by side,
-> moving them in the plane as you please but not flipping them. Which of the following figures can you not obtain?
+> You have two pieces of card equal to each other, like those in the figure, which you may place side by side, moving them in the plane as you like but without turning them over. Which of the following figures can you not obtain?
 > V = ?
 > 6
 > 6
@@ -459,14 +531,17 @@ Carrots eaten by the rabbit mother
 > C)
 > D)
 > E)
-> 
-> Pag. 
-> Pag. 12
+>
+> Page
+> Page 12
 > 12
 > Kang 2004
 > Kang 2004
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_benjamin#q11|src_kangourou_2004_benjamin__Q11]]
 
 
 
@@ -499,13 +574,21 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many holes after 5 folds*
+*How many holes there are on the sheet*
 
 ![[src_kangourou_2004_benjamin__prob12.png]]
 
-> A sheet of paper is folded five times in a row, as shown in the figure showing with a stretch the line along which, from time to time, the folding is carried out. A hole is then made in the center of the folded sheet, which is then laid out until the initial configuration is restored. How many holes are there on the paper now? A) 6 B) 10          C) 16 D) 20         E) 32
+> A sheet of paper is folded five times in a row, as the figure shows, indicating with a dashed line the line along which, each time, the fold is made. A hole is then made at the centre of the sheet so folded, which is then unfolded until the initial arrangement is obtained again. How many holes are there now on the sheet?
+> A) 6
+> B) 10
+> C) 16
+> D) 20
+> E) 32
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_benjamin#q12|src_kangourou_2004_benjamin__Q12]]
 
 
 
@@ -536,13 +619,21 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Digit of the square in the encrypted addition*
+*Which digit corresponds to the square*
 
 ![[src_kangourou_2004_benjamin__prob13.png]]
 
-> To equal symbols correspond equal numbers, to different symbols correspond different numbers. In the displayed addition, what digit corresponds to the square? A) 9 B) 8 C) 7 D) 6 E) 5
+> Equal symbols correspond to equal digits, different symbols correspond to different digits. In the addition shown, which digit corresponds to the square?
+> A) 9
+> B) 8
+> C) 7
+> D) 6
+> E) 5
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_benjamin#q13|src_kangourou_2004_benjamin__Q13]]
 
 
 
@@ -572,11 +663,19 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min number of boxes for balls (GCD)*
+*The smallest number of boxes that lets one carry out the operation*
 
-> You got 108 red balls and 180 green balls. You want to distribute them in boxes, so that each box contains balls all of the same color and the number of balls is the same for each box. What's the minimum number of boxes you can run the operation? A) 288 B) 36 C) 18 D) 8 E) 2
+> You have 108 red balls and 180 green balls. You want to distribute them into boxes, so that each box contains balls all of the same colour and that the number of balls is the same for every box. What is the smallest number of boxes that lets you carry out the operation?
+> A) 288
+> B) 36
+> C) 18
+> D) 8
+> E) 2
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_benjamin#q14|src_kangourou_2004_benjamin__Q14]]
 
 
 
@@ -605,11 +704,19 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The largest of two numbers (sum of 77)*
+*The value of the greater of the two numbers*
 
-> The sum of two positive integers is 77. The smaller of the two times 8 gives the same result as the other times 6. How much is the larger of the two numbers? A) 33 B) 39 C) 43 D) 44         E) 54
+> The sum of two positive integers is 77. The smaller of the two multiplied by 8 gives the same result as the other multiplied by 6. What is the value of the greater of the two numbers?
+> A) 33
+> B) 39
+> C) 43
+> D) 44
+> E) 54
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_benjamin#q15|src_kangourou_2004_benjamin__Q15]]
 
 
 
@@ -655,7 +762,7 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min squares to be painted by axis of symmetry*
+*The fewest little squares one must still paint*
 
 ![[src_kangourou_2004_benjamin__prob16.png]]
 
@@ -672,9 +779,18 @@ Carrots eaten by the rabbit mother
 \end{document}
 ```
 
-> What's the minimum number of squares we need to paint if we want the large square in the figure to have at least one axis of symmetry? A) 1 B) 2 C) 3 D) 4 E) 5
+> What is the smallest number of little squares that one must still paint, if we want the large square in the figure to have at least one axis of symmetry?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_benjamin#q16|src_kangourou_2004_benjamin__Q16]]
 
 
 
@@ -710,24 +826,25 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Net of the cube with a cut-off vertex*
+*Which figure is the net of the new solid*
 
 ![[src_kangourou_2004_benjamin__prob17.png]]
 
-> A cube is cut at a vertex as shown in the figure. Which
-> of the figures below corresponds to the net of the
-> new solid thus obtained?
+> A cube is cut at a vertex, as the figure shows. Which of the figures below corresponds to the net of the new solid so obtained?
 > +
 > +
 > =
-> 
-> Pag. 
-> Pag. 13
+>
+> Page
+> Page 13
 > 13
 > Kang 2004
 > Kang 2004
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_benjamin#q17|src_kangourou_2004_benjamin__Q17]]
 
 
 
@@ -762,13 +879,21 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of trace of the snail Tin*
+*How many decimetres long the trail left by the snail Tin is*
 
 ![[src_kangourou_2004_benjamin__prob18.png]]
 
-> Four snails crawled on a floor made of rectangular tiles all equal to each other. The figure shows the trace left by each of them. You know that the trail left by Fin is 25 decimetres long, the one left by Pin is 37 decimetres long and the one left by Rin is 38 decimetres long. How long is the trail left by the Tin snail? A) 27 B) 30          C) 35 D) 36          E) 40
+> Four snails crawled on a floor made of rectangular tiles all equal to one another. The figure shows the trail left by each of them. You know that the trail left by Fin is 25 decimetres long, the one left by Pin is 37 decimetres long, while the one left by Rin is 38 decimetres long. How many decimetres long is the trail left by the snail Tin?
+> A) 27
+> B) 30
+> C) 35
+> D) 36
+> E) 40
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_benjamin#q18|src_kangourou_2004_benjamin__Q18]]
 
 
 
@@ -798,11 +923,20 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First day for maximum sunny days*
+*Which day of the week the first day of the holiday must be*
 
-> Turtle Island has a very strange climate: every Monday and Wednesday it rains, every Saturday there is fog while the rest of the days there is sunshine. A group of tourists plan to spend 44 consecutive days on the island. What day of the week should be their first day of vacation if they want to enjoy as many sunny days as possible? (a) Monday (b) Tuesday (c) Wednesday (d) Thursday (e) Friday
+> Turtle Island has a very strange climate: every Monday and every Wednesday it rains, every Saturday there is fog, while on the remaining days there is sun. A group of tourists means to spend 44 consecutive days of holiday on the island. Which day of the week must their first day of holiday be, if they want to enjoy as many sunny days as possible?
+> A) Monday
+> B) Tuesday
+> C) Wednesday
+> D) Thursday
+> E) Friday
 
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_benjamin#q19|src_kangourou_2004_benjamin__Q19]]
 
 
 
@@ -850,11 +984,35 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many overall correct answers (test)*
+*How many correct answers there were in all*
 
-> A closed-response test (such as Kangourou) consists of 10 questions. For each correct answer, 5 points are awarded, while for each wrong answer, 3 points are subtracted. All competitors answered all the questions: Angelo scored 34 points, Betta scored 10 and Clemente scored only 2. How many were the correct answers overall? (A) 17 B) 18 C) 15 D) 13 E) 21 A) B) C) D) E) Fin Pin Rin Tin
+> A multiple-choice test (like Kangourou) consists of 10 questions. For every correct answer 5 points are awarded, while for every wrong answer 3 are subtracted. All the contestants answered every question: Angelo scored 34 points, Betta scored 10 and Clemente only 2. How many correct answers were there in all?
+> A) 17
+> B) 18
+> C) 15
+> D) 13
+> E) 21
+> A)
+> B)
+> C)
+> D)
+> E)
+> Fin
+> Pin
+> Rin
+> Tin
+>
+> Page
+> Page 14
+> 14
+> Kang 2004
+> Kang 2004
+> Questions 21 to 30 are worth 5 points each
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_benjamin#q20|src_kangourou_2004_benjamin__Q20]]
 
 
 
@@ -883,13 +1041,21 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*White/shaded area ratio*
+*The ratio of the white area to the shaded area*
 
 ![[src_kangourou_2004_benjamin__prob21.png]]
 
-> Look at the figure. What is the ratio between the area of the surface left blank and the area of the shaded surface? A)  1:4        B)  1:5        C)  1:6        D)  2:5 E)  2:7
+> Look at the figure. What is the ratio of the area of the surface left white to the area of the shaded surface?
+> A) 1:4
+> B) 1:5
+> C) 1:6
+> D) 2:5
+> E) 2:7
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_benjamin#q21|src_kangourou_2004_benjamin__Q21]]
 
 
 
@@ -917,11 +1083,19 @@ Carrots eaten by the rabbit mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many mushrooms did Stefania collect?
+*How many mushrooms Stefania gathered*
 
-> Stefania and Simonetta went to mushrooms and collected a total of 70. 5/9 of the mushrooms mushrooms collected by Stefania are porcini and 2/17 of the mushrooms collected by Simonetta are ovoli. How many mushrooms did Stefania collect? A)  27 B)  36 C)  45 D)  54        E)  9
+> Stefania and Simonetta went mushrooming and gathered 70 in all. 5/9 of the mushrooms gathered by Stefania are porcini and 2/17 of the mushrooms gathered by Simonetta are ovoli. How many mushrooms did Stefania gather?
+> A) 27
+> B) 36
+> C) 45
+> D) 54
+> E) 9
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_benjamin#q22|src_kangourou_2004_benjamin__Q22]]
 
 
 
@@ -967,7 +1141,7 @@ How many mushrooms did Stefania collect?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Second number in 9 boxes (sum of triples is 21)*
+*Which number must be written in the second cell*
 
 ![[src_kangourou_2004_benjamin__prob23.png]]
 
@@ -984,9 +1158,17 @@ How many mushrooms did Stefania collect?
 \end{document}
 ```
 
-> In the figure, 9 boxes are aligned: the first contains the number 7 and the last contains the number 6. What number do we have to write in the second, if we want for every three consecutive boxes, the sum of the numbers that appear to you to be 21? A) 7 B) 8 C) 6 D) 10 E) 21
+> In the figure 9 cells are lined up: in the first the number 7 appears and in the last the number 6. What number must we write in the second, if we want that, for every three consecutive cells, the sum of the numbers that appear in them is 21?
+> A) 7
+> B) 8
+> C) 6
+> D) 10
+> E) 21
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_benjamin#q23|src_kangourou_2004_benjamin__Q23]]
 
 
 
@@ -1020,13 +1202,22 @@ How many mushrooms did Stefania collect?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many threads to remove for the necklace*
+*How many threads one must remove to obtain a single necklace*
 
 ![[src_kangourou_2004_benjamin__prob24.png]]
 
-> The figure shows some pearls (represented by circles) connected by strings (represented by segments). How many of these threads is it enough to remove to get a necklace, made of a single ring, that contains all the pearls? A) 18 B) 19 C) 20 D) 21 E) It is impossible to obtain such a necklace by simply removing threads
+> The figure shows some beads (represented by little circles) joined to one another by threads (represented by segments). How many of these threads must one remove, and no more, in order to obtain a necklace, formed by a single loop, that contains all the beads?
+> A) 18
+> B) 19
+> C) 20
+> D) 21
+> E) it is impossible to obtain such a necklace merely by removing threads
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_benjamin#q24|src_kangourou_2004_benjamin__Q24]]
 
 
 
@@ -1062,11 +1253,27 @@ How many mushrooms did Stefania collect?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Current price of the item less expensive (discounts)*
+*The present price of the cheaper article*
 
-> In a store a month ago, two items were priced the same. One of the two subsequently received a 5% discount while the other received a 15% increase. As a result of these changes, the two prices now differ by 6 euros. What is the current price of the cheaper item? A) € 1,5      B) € 6 C) € 28,5    D) € 30      E) € 34,50 7 6
+> In a shop a month ago two articles had the same price. Later one of the two was reduced by 5%, while the other was increased by 15%. As a result of these changes, the two prices now differ by 6 euros. What is the present price of the cheaper article?
+> A) €1.5
+> B) €6
+> C) €28.5
+> D) €30
+> E) €34.50
+> 7
+> 6
+>
+> Page
+> Page 15
+> 15
+> Kang 2004
+> Kang 2004
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_benjamin#q25|src_kangourou_2004_benjamin__Q25]]
 
 
 
@@ -1099,13 +1306,21 @@ How many mushrooms did Stefania collect?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max cubes from construction (3 views)*
+*The greatest number of cubes Matteo can have used*
 
 ![[src_kangourou_2004_benjamin__prob26.png]]
 
-> Matteo stacked some cubes on top of each other, all of them equal to each other. He thus obtained a construction that, seen from the front, right and above, appears as shown by the figures (without taking into account the perspective). What is the maximum number of cubes that Matteo could have used? A) 19          B) 20          C) 21         D) 22          E) 23
+> Matteo stacked some cubes, all equal to one another, one on top of another. He thus obtained a construction which, seen from the front, from the right and from above, appears as shown by the figures (without taking perspective into account). What is the greatest number of cubes Matteo can have used?
+> A) 19
+> B) 20
+> C) 21
+> D) 22
+> E) 23
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_benjamin#q26|src_kangourou_2004_benjamin__Q26]]
 
 
 
@@ -1133,13 +1348,21 @@ How many mushrooms did Stefania collect?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Min cubes from construction (3 views)*
+*The smallest number of cubes Matteo can have used*
 
 ![[src_kangourou_2004_benjamin__prob27.png]]
 
-> Consider the construction done by Matteo and illustrated in the preceding question. Now we ask you, what is the minimum number of cubes that Matteo could have used? (Naturally, any cube other than the base must rest on another cube.) A) 11          B) 12          C) 13          D) 15          E) 19
+> Consider the construction Matteo made, described in the previous question. Now we ask you: what is the smallest number of cubes Matteo can have used? (Of course every cube that does not belong to the base must rest on another cube.)
+> A) 11
+> B) 12
+> C) 13
+> D) 15
+> E) 19
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_benjamin#q27|src_kangourou_2004_benjamin__Q27]]
 
 
 
@@ -1165,14 +1388,19 @@ How many mushrooms did Stefania collect?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mosquitoes on the fourth night (progression)*
+*How many mosquitoes the bat ate on the fourth night*
 
-> A bat ate a total of 1050 mosquitoes over four
-> consecutive nights. Each night (starting from the second) that
-> bat ate 25 mosquitoes more than on the previous night. How many mosquitoes did it eat on the fourth night?
-> A) 200       B) 225        C) 250        D) 275       E) 300
+> A bat ate 1050 mosquitoes in all over four consecutive nights. Every night (starting from the second) that bat ate 25 mosquitoes more than on the previous night. How many mosquitoes did it eat on the fourth night?
+> A) 200
+> B) 225
+> C) 250
+> D) 275
+> E) 300
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_benjamin#q28|src_kangourou_2004_benjamin__Q28]]
 
 
 
@@ -1198,11 +1426,20 @@ How many mushrooms did Stefania collect?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Zeroes in the quotient of (2004 ones)/3*
+*How many zeros appear in the quotient*
 
-> Alfonso divided by 3 the number (i.e. the number formed from 2004 digits all equal to 1). How many zeros are in the quotient he got? A) 1002      B) 669        C) 668        D) 667       E) 665
+> Alfonso divided by 3 the number (that is, the number formed from 2004 digits all equal to 1). How many zeros appear in the quotient he obtained?
+> A) 1002
+> B) 669
+> C) 668
+> D) 667
+> E) 665
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_benjamin#q29|src_kangourou_2004_benjamin__Q29]]
 
 
 
@@ -1248,20 +1485,16 @@ How many mushrooms did Stefania collect?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible area of the polygon from the folded triangle*
+*Which number can be the area of the polygon obtained*
 
 ![[src_kangourou_2004_benjamin__prob30.png]]
 
-> From a sheet of paper a right
-> triangle is cut out whose legs measure 6 and
-> 8 centimeters. The triangle is folded
-> along a straight line obtaining a polygon.
-> The figure illustrates one possible operation of
-> this kind; the polygon is the shaded
-> region. Which of the following numbers
-> can express the area, in square centimeters,
-> of the polygon obtained?
-> A) 9           B) 12          C) 18          D) 24         E) 30 
+> From a sheet of paper a right-angled triangle is cut out, whose legs measure 6 and 8 centimetres. The triangle is folded along a straight line, obtaining a polygon. The figure shows one possible operation of this kind; the polygon is the shaded region. Which of the following numbers can give the area, in square centimetres, of the polygon obtained?
+> A) 9
+> B) 12
+> C) 18
+> D) 24
+> E) 30
 > 3
 > 2
 > 1
@@ -1271,8 +1504,11 @@ How many mushrooms did Stefania collect?
 > 111
 > front
 > right
-> high
-> 
->  BENJAMIN 2004 SOLUTIONS
+> top
+>
+> SOLUTIONS BENJAMIN 2004
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_benjamin#q30|src_kangourou_2004_benjamin__Q30]]

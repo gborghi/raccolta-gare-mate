@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie ordinate (83;89) chiamate "centenarie"*
+*Conta le coppie ordinate (83;89) chiamate "coppie secolari"*
 
-> Una coppia ordinata $(83; 89)$ è chiamata coppia del secolo ** perché $83 + 8 + 9 = 83 - 8 + 9 + 8 + 3 = 100$; cioè la somma di ogni numero con i numeri dell'altro numero è uguale a 100. Quante coppie di numeri interi positivi ci sono?
+> Una coppia ordinata $(83; 89)$ è chiamata *coppia secolare* perché $83 + 8 + 9 = 83 - 8 + 9 + 8 + 3 = 100$; vale a dire che la somma di ciascun numero con le cifre dell'altro numero è uguale a 100. Quante coppie secolari di numeri interi positivi esistono?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n3_f2#q01|src_obm_2006_n3_f2__Q01]]
 
 
 
@@ -58,13 +65,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono e triangolo incisi in cerchio; trovare angolo α per la somiglianza*
+*Pentagono e triangolo inscritti in una circonferenza; trovare l'angolo α per la similitudine*
 
-> Nella figura, il pentagono regolare $ABCDE$ e il triangolo $EFG$ sono inseriti nella circonferenza $C_o$, e $M$ è il punto medio di $BC$. Per quale valore di $\alpha$, in gradi, sono simili i triangoli $EFG$ e $HIG$?
-> 
-> (Il diagramma mostra i punti $H$, $I$ sulla figura; $\alpha$ è l'angolo a $F$ nel triangolo $EFG$, e $H$, $I$ sono intersezioni con i lati del pentagono.)
+> Nella figura, il pentagono regolare $ABCDE$ e il triangolo $EFG$ sono inscritti nella circonferenza $C_o$, e $M$ è il punto medio di $BC$. Per quale valore di $\alpha$, espresso in gradi, i triangoli $EFG$ e $HIG$ sono simili?
+>
+> (Il diagramma mostra i punti $H$, $I$ nella figura; $\alpha$ è l'angolo in $F$ nel triangolo $EFG$, e $H$, $I$ sono gli incroci con i lati del pentagono.)
 
 ![[src_obm_2006_n3_f2__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n3_f2#q02|src_obm_2006_n3_f2__Q02]]
 
 
 
@@ -87,9 +101,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due corridori su pista circolare, trovano la lunghezza della pista da due attraversamenti*
+*Due corridori su una pista circolare: determina la lunghezza della pista a partire da due incroci*
 
-> Esmeralda e Jade corrono in direzioni opposte su una pista circolare, partendo da punti diametralmente opposti. Il primo incrocio tra loro si verifica dopo che Esmeralda ha corso 200 metri. Il secondo attraversamento avviene dopo che Jade ha corso 350 metri dal primo punto di attraversamento. Le velocità delle ragazze sono costanti. Qual è la lunghezza della pista, in metri?
+> Esmeralda e Jade corrono in direzioni opposte su una pista circolare, partendo da punti diametralmente opposti. Il primo incrocio tra loro avviene dopo che Esmeralda ha corso 200 metri. Il secondo incrocio avviene dopo che Jade ha corso 350 metri a partire dal primo punto di incrocio. Le velocità delle ragazze sono costanti. Qual è la lunghezza della pista, in metri?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n3_f2#q03|src_obm_2006_n3_f2__Q03]]
 
 
 
@@ -111,9 +132,15 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza laterale della sezione trasversale di ottaedro regolare per piano*
+*Lunghezza del lato della sezione trasversale di un ottaedro regolare ottenuta con un piano*
 
-> Qual è la più grande lunghezza laterale che una sezione trasversale determinata da un piano di ottaedro regolare può avere?
+> Qual è la lunghezza massima del lato che può avere una sezione trasversale di un ottaedro regolare determinata da un piano?
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n3_f2#q04|src_obm_2006_n3_f2__Q04]]
 
 
 
@@ -136,9 +163,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dice: probabilità della somma 2006 è uguale alla probabilità della somma S; trovare min S*
+*Dice: la probabilità che la somma sia 2006 è uguale alla probabilità che la somma sia S; trova il minimo S*
 
-> Rollano un certo numero di dadi cubici con volti numerati da 1 a 6. La probabilità di ottenere una somma del 2006 è pari alla probabilità di ottenere una somma di $S$. Qual è il minimo valore possibile di $S$?
+> Lanciamo un certo numero di dadi cubici con le facce numerate da 1 a 6. La probabilità di ottenere una somma pari a 2006 è uguale alla probabilità di ottenere una somma pari a $S$. Qual è il valore più piccolo possibile di $S$?
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n3_f2#q05|src_obm_2006_n3_f2__Q05]]
 
 
 
@@ -161,9 +195,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Distribuire n+1 giocattoli distinti a n bambini, ognuno ne ottiene almeno uno*
+*Distribuisci n+1 giocattoli distinti tra n bambini, ciascuno ne riceve almeno uno*
 
-> $n$ sia un numero intero positivo. In quanti modi possiamo distribuire $n+1$ giocattoli distinti tra $n$ bambini in modo che ogni bambino riceva almeno un giocattolo?
+> Sia $n$ un numero intero positivo. In quanti modi si possono distribuire $n+1$ giocattoli distinti tra $n$ bambini in modo che ogni bambino riceva almeno un giocattolo?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n3_f2#q06|src_obm_2006_n3_f2__Q06]]
 
 
 
@@ -186,9 +227,16 @@ Distribuire n+1 giocattoli distinti a n bambini, ognuno ne ottiene almeno uno*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi positivi (a,b) con (a+1)(b+1) divisibili per ab+1*
+*Trovare tutte le coppie di numeri interi positivi (a,b) tali che (a+1)(b+1) sia divisibile per ab+1*
 
-> Trova tutte le coppie di integri positivi $(a, b)$ in modo tale che $(a+1)(b+1)$ sia un multiple di $ab + 1$.
+> Trovare tutte le coppie di numeri interi positivi $(a, b)$ tali che $(a+1)(b+1)$ sia un multiplo di $ab + 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n3_f2#q07|src_obm_2006_n3_f2__Q07]]
 
 
 
@@ -211,9 +259,16 @@ Distribuire n+1 giocattoli distinti a n bambini, ognuno ne ottiene almeno uno*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC con AB=4, AC=3, angolo BAC=60°; distanza tra ortocentri*
+*Triangolo ABC con AB=4, AC=3, angolo BAC=60°; distanza tra gli ortocentri*
 
-> Nel triangolo $ABC$ abbiamo $AB = 4$, $AC = 3$, e l'angolo $\widehat{BAC} = 60^\circ$. Il punto di intersezione di $D$ deve essere la linea perpendicolare a $AB$ che attraversa $B$ e la linea perpendicolare a $AC$ che attraversa $C$. Determinare la distanza tra gli ortocentri dei triangoli $ABC$ e $BCD$.
+> Nel triangolo $ABC$ abbiamo $AB = 4$, $AC = 3$ e l'angolo $\widehat{BAC} = 60^\circ$. Sia $D$ il punto di intersezione della retta perpendicolare a $AB$ passante per $B$ e della retta perpendicolare a $AC$ passante per $C$. Determinare la distanza tra gli ortocentri dei triangoli $ABC$ e $BCD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n3_f2#q08|src_obm_2006_n3_f2__Q08]]
 
 
 
@@ -236,6 +291,13 @@ Distribuire n+1 giocattoli distinti a n bambini, ognuno ne ottiene almeno uno*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di Fibonacci: trovare tutte le coppie di numeri interi positivi (m,n) con F_m·F_n=mn*
+*Successione di Fibonacci: trovare tutte le coppie di interi positivi (m,n) tali che F_m·F_n=mn*
 
-> La sequenza $F_n$ è definita da $F_1 = F_2 = 1$ e $F_n = F_{n-1} + F_{n-2}$ per $n \ge 3$. Trova tutte le coppie di integri positivi $(m, n)$ tali da $F_m \cdot F_n = mn$.
+> La successione $F_n$ è definita da $F_1 = F_2 = 1$ e $F_n = F_{n-1} + F_{n-2}$ per $n \ge 3$. Trovare tutte le coppie di interi positivi $(m, n)$ tali che $F_m \cdot F_n = mn$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n3_f2#q09|src_obm_2006_n3_f2__Q09]]

@@ -33,9 +33,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Etichettatura di vertici regolari n2-gon con cifre 1,2 che soddisfano quattro condizioni*
+*Assegnare ai vertici di un poligono regolare di $n^2$ vertici numeri con le cifre $1$ e $2$*
 
-> Mostra come assegnare ai vertici di un poligono regolare con vertici $n^2$ numeri tali che: (i) vengono utilizzate solo le cifre $1$ e $2$; (ii) vengono utilizzate solo le cifre $n$; (iii) ogni vertice ha un numero diverso; e (iv) i vertici vicini hanno numeri diversi in un solo e solo luogo di una cifra.
+> Mostrare come assegnare ai vertici di un poligono regolare di $n^2$ vertici numeri tali che:
+> (i) si usino solo le cifre $1$ e $2$;
+> (ii) si usino solo $n$ uni;
+> (iii) ogni vertice abbia un numero diverso; e
+> (iv) vertici vicini abbiano numeri che differiscono in una e una sola posizione di cifra.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1971-72_round2#q01|src_bmo_1971-72_round2__Q01]]
 
 
 
@@ -60,9 +71,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove S = ab/c + bc/d + cd/a + da/b ≥ 4 e trova condizioni di uguaglianza*
+*$S$ non è minore di $4$, e le condizioni necessarie per $S = 4$*
 
-> $a, b, c, d$ sono numeri positivi e $$S = \frac{ab}{c} + \frac{bc}{d} + \frac{cd}{a} + \frac{da}{b}.$$ Provare che $S$ non è inferiore a $4$ e ottenere le condizioni necessarie per $S = 4$.
+> $a, b, c, d$ sono numeri positivi e
+> $$S = \frac{ab}{c} + \frac{bc}{d} + \frac{cd}{a} + \frac{da}{b}.$$
+> Dimostrare che $S$ non è minore di $4$, e ottenere le condizioni necessarie per $S = 4$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1971-72_round2#q02|src_bmo_1971-72_round2__Q02]]
 
 
 
@@ -85,9 +105,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un grafico di amicizia senza amici comuni e due stranieri comuni, trovare n*
+*Ognuno ha lo stesso numero $b$ di amici, e si trova $n$*
 
-> Ci sono persone $n$ presenti in una riunione. Ogni due persone sono o amiche l'una dell'altra o estranee l'una all'altra. Non ci sono due amici che abbiano un amico in comune. Ogni sconosciuto ha due amici in comune. Prove che ogni persona abbia lo stesso numero di amici alla riunione. Se questo numero è $b$, trovare $n$.
+> Alla riunione sono presenti $n$ persone. Ogni due persone sono o amiche fra loro o estranee fra loro. Non ci sono due amici che abbiano un amico in comune. Ogni due estranei hanno due e solo due amici in comune. Dimostrare che ogni persona ha lo stesso numero di amici alla riunione. Se questo numero è $b$, trovare $n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_grafi|Grafi]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1971-72_round2#q03|src_bmo_1971-72_round2__Q03]]
 
 
 
@@ -112,6 +139,15 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i polinomi p tali che a·p(a2)+b·p(b2)+c·p(c2)=k·abc per i lati del triangolo*
+*Per $k = 1$, tutti i polinomi $p$ che soddisfano quell'identità sui lati del triangolo*
 
-> Quando $k = 1$, trovare tutti i polinomi $p$ in una variabile tale che $$a \cdot p(a^2) + b \cdot p(b^2) + c \cdot p(c^2) = k \cdot abc,$$ dove $a, b, c$ sono le lunghezze dei lati $BC$, $CA$, $AB$ del triangolo $ABC$. Prova il tuo risultato. Qual è l' effetto di alterare $k$?
+> Quando $k = 1$, trovare tutti i polinomi $p$ in una variabile tali che
+> $$a \cdot p(a^2) + b \cdot p(b^2) + c \cdot p(c^2) = k \cdot abc,$$
+> dove $a, b, c$ sono le lunghezze dei lati $BC$, $CA$, $AB$ del triangolo $ABC$. Dimostrare il risultato. Qual è l'effetto di cambiare $k$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1971-72_round2#q04|src_bmo_1971-72_round2__Q04]]

@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove un polinomio con coefficienti interi che assumono il valore 1990 a quattro numeri interi distinti non può assumere il valore 1997.*
+*Un polinomio a coefficienti interi che vale 1990 quattro volte non può valere 1997*
 
-> Prova che se il polinomio $$p(x) = a_0x^n + a_1x^{n-1} + \ldots + a_{n-1}x + a_n,$$ i cui coefficienti sono interi, prende il valore $1990$ per quattro valori interi distinti di $x$, allora non può prendere il valore $1997$ per qualsiasi valore interi di $x$.
+> Dimostrare che, se il polinomio $$p(x) = a_0x^n + a_1x^{n-1} + \ldots + a_{n-1}x + a_n,$$ i cui coefficienti sono interi, assume il valore $1990$ per quattro valori interi distinti di $x$, allora non può assumere il valore $1997$ per alcun valore intero di $x$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1990#q01|src_bmo2_1990__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Con la parte frazionaria f(x) =x-[x], trovare una x positiva con f(x) + f(1/x) =1; chiedere se esistono soluzioni razionali.*
+*Un numero positivo $x$ tale che la somma delle parti frazionarie di $x$ e di $1/x$ sia 1*
 
-> La parte \textit{integer} $[x]$ di un numero $x$ è il numero intero più grande non superiore a $x$. La \textit{frazione} $f(x)$ è definita da $f(x) = x - [x]$. Trova un numero positivo $x$ tale che $$f(x) + f\left(\frac{1}{x}\right) = 1.$$ Ci sono soluzioni \textit{razionali}?
+> La \textit{parte intera} $[x]$ di un numero $x$ è il massimo intero che non è maggiore di $x$. La \textit{parte frazionaria} $f(x)$ è definita da $f(x) = x - [x]$. Trovare un numero positivo $x$ tale che $$f(x) + f\left(\frac{1}{x}\right) = 1.$$ Esistono soluzioni \textit{razionali}?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1990#q02|src_bmo2_1990__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserire la regola cosinica e dimostrare una disuguaglianza della somma delle radici quadrate per i reali positivi a, b, c.*
+*Il teorema del coseno, e una disuguaglianza fra tre radici*
 
-> Indicare la regola cosina per un triangolo. Prove che per i numeri reali positivi arbitrari $a$, $b$, $c$, $$\sqrt{a^2 + b^2 - ab} + \sqrt{b^2 + c^2 - bc} \ge \sqrt{a^2 + c^2 + ac}.$$
+> Enunciare il teorema del coseno per un triangolo. Dimostrare che per numeri reali positivi arbitrari $a$, $b$, $c$, $$\sqrt{a^2 + b^2 - ab} + \sqrt{b^2 + c^2 - bc} \ge \sqrt{a^2 + c^2 + ac}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1990#q03|src_bmo2_1990__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare d^2/area(T) dove d è la più piccola diagonale tra tutti i rettangoli inseriti in un triangolo T.*
+*Il massimo di $d^2/\mathrm{area}(T)$ sui triangoli*
 
-> $d$ indica la lunghezza della più piccola diagonale di tutti i rettangoli inseriti in un triangolo $T$. (Per inciso intendiamo che tutti i vertici del rettangolo si trovano sul confine di $T$). Determinare il valore massimo di $d^2/\mathrm{area}(T)$ preso su tutti i triangoli.
+> Sia $d$ la lunghezza della diagonale più piccola fra tutti i rettangoli inscritti in un triangolo $T$. (Per inscritto si intende che tutti i vertici del rettangolo stanno sul bordo di $T$). Determinare il massimo valore di $d^2/\mathrm{area}(T)$ al variare di tutti i triangoli.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1990#q04|src_bmo2_1990__Q04]]
 
 
 
@@ -129,6 +157,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Con il centro I e l'escentro J del triangolo ABC, dimostrare AI.AJ=AB.AC e AI.BJ.CJ=AJ.BI.CI.*
+*Due uguaglianze con incentro ed excentro*
 
-> $I$ è il centro del cerchio inscritto al triangolo $ABC$; $J$ è il centro del cerchio inscritto che tocca rispettivamente $AB$ e $AC$ prodotti oltre $B$ e $C$. Provare che $$AI \cdot AJ = AB \cdot AC$$ e che $$AI \cdot BJ \cdot CJ = AJ \cdot BI \cdot CI.$$
+> $I$ è il centro della circonferenza inscritta nel triangolo $ABC$; $J$ è il centro della circonferenza exinscritta che tocca $AB$ e $AC$ prolungati oltre $B$ e $C$ rispettivamente. Dimostrare che $$AI \cdot AJ = AB \cdot AC$$ e che $$AI \cdot BJ \cdot CJ = AJ \cdot BI \cdot CI.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1990#q05|src_bmo2_1990__Q05]]

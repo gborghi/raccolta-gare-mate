@@ -46,19 +46,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many turns to read KANGAROO correctly*
+*Rotations to write KANGOUROU correctly*
 
 ![[src_kangourou_2014_benjamin__prob1.png]]
 
-> Paul has some cards on each of which a letter appears and has aligned them as shown in the first figure. In order for the word KANGOUROU to appear correctly written, however, some cards must be rotated, in some direction, once or twice by 90 degrees. The second figure shows you the rotations to perform on the letter K and one of the letters U. How many 90-degree rotations in total do you have to do to make the spelling look right? A) 4
-> 	
+> Paolo has some cards, on each of which a letter appears, and he has lined them up as the first figure shows you. For the word KANGOUROU to appear written correctly, however, some cards must be rotated, in some direction, once or twice by 90 degrees. The second figure shows you the rotations to be carried out on the letter K and on one of the letters U. How many rotations of 90 degrees must be carried out in total for the writing to appear correct?
+> A) 4
+>
 > B) 5
-> 	
+>
 > C) 6
-> 	
+>
 > D) 7
-> 	
+>
 > E) 8
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q01|src_kangourou_2014_benjamin__Q01]]
 
 
 
@@ -86,9 +93,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Weight of the largest piece of cake
+*Weight of the largest slice of cake*
 
-> A cake weighs 900 grams. Luisa slices it into four slices, the largest of which weighs as much as the other three put together. How many grams does the largest slice weigh? A) 250 B) 300 C) 400 D) 450 E) 600
+> A cake weighs 900 grams. Luisa cuts it into four slices, the largest of which weighs as much as the other three put together. How many grams does the largest slice weigh?
+> A) 250
+> B) 300
+> C) 400
+> D) 450
+> E) 600
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q02|src_kangourou_2014_benjamin__Q02]]
 
 
 
@@ -122,15 +140,24 @@ Weight of the largest piece of cake
 <div class="qlang-split" data-lang="en"></div>
 
 
-*View from behind two interwoven rings*
+*View from behind of two intertwined rings*
 
 ![[src_kangourou_2014_benjamin__prob3.png]]
 
-> Peter and Paul are facing each other, separated by a transparent vertical glass on which are affixed two rings, one white and the other gray, tied together. The figure shows you how Peter sees them. How does Paul see them? A) B) C)
->  	
+> Pietro and Paolo are facing each other, separated by a transparent vertical pane of glass on which two rings are glued, one white and one grey, linked to each other. The figure shows you how Pietro sees them. How does Paolo see them?
+> A)
+> B)
+> C)
+>
 > D)
->    	
+>
 > E)
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q03|src_kangourou_2014_benjamin__Q03]]
 
 
 
@@ -162,17 +189,24 @@ Weight of the largest piece of cake
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the three missing digits in the addition*
+*Central digits replaced by dollar symbols*
 
-> In the addition that we're showing you, the central digits of each addend have been replaced by the dollar symbol. What is the sum of these digits? A) 0
-> 	
+> In the addition we show you, the central digits of each addend have been replaced by the dollar symbol. What is the sum of these digits?
+> A) 0
+>
 > B) 1
-> 	
+>
 > C) 2
->      
+>
 > D) 3
-> 	
+>
 > E) 10
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q04|src_kangourou_2014_benjamin__Q04]]
 
 
 
@@ -202,13 +236,22 @@ Weight of the largest piece of cake
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between minimum 5 digits and maximum 4 digits*
+*Difference between the five-digit minimum and the four-digit maximum*
 
-> What is the difference between the smallest five-digit integer and the largest four-digit integer? A) 1
-> 	
+> What is the difference between the smallest five-digit integer and the largest four-digit integer?
+> A) 1
+>
 > B) 10
-> 	
-> C) 1111 D) 9000 E) 9900
+>
+> C) 1111
+> D) 9000
+> E) 9900
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q05|src_kangourou_2014_benjamin__Q05]]
 
 
 
@@ -259,7 +302,7 @@ Weight of the largest piece of cake
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the rectangle forming square 144*
+*Perimeter of the rectangle that forms a square of 144*
 
 ![[src_kangourou_2014_benjamin__prob6.png]]
 
@@ -275,17 +318,23 @@ Weight of the largest piece of cake
 \end{document}
 ```
 
-> Notice what the figure suggests: a certain rectangle is such that if it is cut in half and the two halves are placed one above the other, it forms a square. The area of the square is 144 cm2. How many centimetres is the perimeter of the rectangle? A) 24
-> 	
+> Look at what the figure suggests: a certain rectangle is such that, if it is cut in half and the two halves are placed one on top of the other, a square is formed. The area of the square is 144 cm2. How many centimetres long is the perimeter of the rectangle?
+> A) 24
+>
 > B) 30
-> 	
+>
 > C) 48
-> 	
+>
 > D) 60
-> 	
+>
 > E) 72
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q06|src_kangourou_2014_benjamin__Q06]]
 
 
 
@@ -320,19 +369,26 @@ Weight of the largest piece of cake
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Matches per side of the square with 62 total*
+*Matchsticks per side of the square*
 
-> Catherine has 62 matches, all of them equal. Using all of them, without breaking them, she arranged them so as to form some (one or more) equilateral triangles and a square, which have no points in common. He used six matches on each side of a triangle. How many did she use for each side of the square? A) 2
-> 	
+> Caterina has 62 matchsticks, all identical to one another. Using all of them, without breaking them, she arranged them so as to form some (one or more) equilateral triangles and a square, which have no points in common. For each side of a triangle she used 6 matchsticks. How many did she use for each side of the square?
+> A) 2
+>
 > B) 6
-> 	
+>
 > C) 7
-> 	
+>
 > D) 11
->    
-> E) You cannot answer without knowing the number of triangles.
+>
+> E) It is not possible to answer without knowing the number of triangles.
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q07|src_kangourou_2014_benjamin__Q07]]
 
 
 
@@ -369,21 +425,27 @@ Weight of the largest piece of cake
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum white pearls to be removed with grays*
+*Minimum white beads to slide off with the grey ones*
 
 ![[src_kangourou_2014_benjamin__prob8.png]]
 
-> Franca's necklace you see in the picture contains the gray and white pearls. Franca wants to give Bruna five of the gray pearls, removing them from the ends. Since putting the pearls back on takes a long time, Franca wants to remove, together with the grays, the minimum number of white pearls that allows her to achieve her goal. What's this number? A) 2
-> 	
+> Franca's necklace, which you see in the figure, contains grey beads and white beads. Franca wants to give Bruna five of the grey beads, sliding them off from the ends. Since putting the beads back on takes a long time, Franca wants to slide off, together with the grey ones, the smallest number of white beads that allows her to achieve her aim. What is this number?
+> A) 2
+>
 > B) 3
-> 	
+>
 > C) 4
-> 	
+>
 > D) 5
-> 	
+>
 > E) 6
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q08|src_kangourou_2014_benjamin__Q08]]
 
 
 
@@ -421,19 +483,27 @@ Weight of the largest piece of cake
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which lap was the fastest from the timetable*
+*The highest possible number*
 
 ![[src_kangourou_2014_benjamin__prob9.png]]
 
-> Cecilia inserted numbers 6, 7, 8 and 9 into the white squares in the figure, one for each square, so as to obtain the highest possible number after the operations indicated. What's this number? (First the product and then the sum). A) 114
-> 	
-> B)138
-> 	
+> Cecilia has placed the numbers 6, 7, 8 and 9 in the white squares in the figure, one in each square, so as to obtain the highest possible number as the result, once the indicated operations have been carried out. What is this number? (First the product is to be carried out, then the sum).
+> A) 114
+>
+> B) 138
+>
 > C) 148
-> 	
+>
 > D) 149
-> 	
+>
 > E) 152
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q09|src_kangourou_2014_benjamin__Q09]]
 
 
 
@@ -468,11 +538,23 @@ Weight of the largest piece of cake
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which square equals the black and white area*
+*Bianca's damaged digital clock*
 
 ![[src_kangourou_2014_benjamin__prob10.png]]
 
-> Bianca's digital clock is partially damaged: all three horizontal lines of the figure to the right (minutes) are not illuminated. The clock has just been taken from the picture shown on the left to the one shown on the right. What time is it right now? (A) 12:40 B) 12:44 C) 12:47 D) 12:48 E) 12:49 Questions from n. 11 to n. 20 are worth 4 points each.
+> Bianca's digital clock is partially damaged: all three horizontal lines of the rightmost digit (the minutes one) do not light up. The clock has just changed from the image shown on the left to the one shown on the right. What time is it at this moment?
+> A) 12:40
+> B) 12:44
+> C) 12:47
+> D) 12:48
+> E) 12:49
+> Questions from n. 11 to n. 20 are worth 4 points each.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q10|src_kangourou_2014_benjamin__Q10]]
 
 
 
@@ -508,23 +590,24 @@ Weight of the largest piece of cake
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many children eat ice cream today*
+*Black and white of equal area*
 
 ![[src_kangourou_2014_benjamin__prob11.png]]
 
-> Guido has composed the small mosaic that you see in the figure and can choose
-> one of four remaining tiles to complete it. He wants that, once
-> completed, the black part has the same area as the white part. Which
-> tile must he put in place of the question mark?
-> A) 	
->                B) 	
->              C) 	
->           D) 	
-> E) Whichever of the four tiles he puts, he will not be able to make the two areas equal.
-> +
-> x
-> ?
+> Guido has made the small mosaic you see in the figure and can choose one of the four remaining tiles to complete it. He wants the black part, once the mosaic is complete, to have the same area as the white part. Which tile must he put in place of the question mark?
+> A)
+> B)
+> C)
+> D)
+> E) Whichever of the four tiles he puts in, he will not be able to make the two areas equal.
+> + x ?
 >
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q11|src_kangourou_2014_benjamin__Q11]]
 
 
 
@@ -562,17 +645,26 @@ Weight of the largest piece of cake
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Simona's road and direction to Elena*
+*Simona's distance and direction to reach Elena*
 
-> Elena and Simona live in a completely flat area. The two friends start walking from the same point, but they follow different paths. Elena goes 1 km north, then 2 km west, then 4 km south and finally 1 km west and stops to wait for Simona. Simona, on the other hand, goes 1 Km east, then 4 Km south, then 4 Km west: from the point where she arrived, how much distance and in which direction will Simona still have to go to get to where Elena arrived? A) Simona has already arrived where Elena has arrived.
-> 	
-> B) 1 km north. C) 1 km northwest.
-> 	
-> 	
-> 	
-> D) More than 1 km north-west. E) 1 km west.
+> Elena and Simona live in a completely flat plain. The two friends start walking from the same point, but follow different paths. Elena walks 1 Km north, then 2 Km west, then 4 Km  south and finally another 1 Km west, and stops to wait for Simona. Simona instead walks 1 Km east, then 4 Km south, then 4 Km west: from the point where she has arrived, how far and in which direction will Simona still have to walk to arrive where Elena has arrived?
+> A) Simona has already arrived where Elena has arrived.
+>
+> B) 1 km north.
+> C) 1 km north-west.
+>
+>
+>
+> D) More than 1 km north-west.
+> E) 1 km west.
 
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q12|src_kangourou_2014_benjamin__Q12]]
 
 
 
@@ -606,19 +698,25 @@ Weight of the largest piece of cake
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many kids are gonna eat ice cream today?
+*How many boys will eat ice cream today*
 
-> At summer camp, seven kids eat ice cream every day, nine kids eat ice cream every other day while the rest of the kids never eat ice cream. Thirteen kids ate ice cream yesterday. How many kids are gonna eat ice cream today? A) 7
-> 	
+> At the summer camp, 7 boys eat ice cream every day, 9 boys eat ice cream every other day, while the remaining boys never eat ice cream. Yesterday 13 boys ate ice cream. How many boys will eat ice cream today?
+> A) 7
+>
 > B) 8
-> 	
+>
 > C) 9
-> 	
+>
 > D) 10
->     
-> E) It is impossible to know.
+>
+> E) It is not possible to know.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q13|src_kangourou_2014_benjamin__Q13]]
 
 
 
@@ -653,19 +751,26 @@ How many kids are gonna eat ice cream today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum non-square integer rectangles in a 7 square*
+*Maximum non-square rectangles with integer sides in a 7 cm square*
 
-> What is the maximum number of non-square rectangles, whose sides measure an integer number of centimetres, that can be inserted without overlapping into a square of 7 centimetres side? A) 14
-> 	
+> What is the maximum number of non-square rectangles, whose sides measure an integer number of centimetres, that can be placed without overlapping in a square of side 7 centimetres?
+> A) 14
+>
 > B) 18
-> 	
+>
 > C) 20
-> 	
+>
 > D) 21
-> 	
+>
 > E) 24
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** E
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q14|src_kangourou_2014_benjamin__Q14]]
 
 
 
@@ -700,21 +805,27 @@ How many kids are gonna eat ice cream today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What piece to discard to form a square*
+*Which piece to discard to form a square*
 
 ![[src_kangourou_2014_benjamin__prob15.png]]
 
-> If four of the following pieces are joined, possibly after rotating and/or reversing them, a square can be formed. Which piece will be discarded? A) A
-> 	
+> By placing four of the following pieces together, after rotating and/or turning them over if necessary, one can form a square. Which piece must be discarded?
+> A) A
+>
 > B) B
-> 	
+>
 > C) C
-> 	
+>
 > D) D
-> 	
+>
 > E) E
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q15|src_kangourou_2014_benjamin__Q15]]
 
 
 
@@ -748,19 +859,26 @@ How many kids are gonna eat ice cream today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of digits of a three-digit number with product 135*
+*Sum of the digits of a three-digit number with product 135*
 
-> An integer has three digits: if we multiply them together, we get 135. What do we get if we add them up? A) 14
-> 	
+> An integer has three digits: if we multiply them together we obtain 135. What do we obtain if we add them?
+> A) 14
+>
 > B) 15
-> 	
+>
 > C) 16
-> 	
+>
 > D) 17
-> 	
+>
 > E) 18
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q16|src_kangourou_2014_benjamin__Q16]]
 
 
 
@@ -793,17 +911,24 @@ How many kids are gonna eat ice cream today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many balls do you need for groups of 3 and 5 with no remainder*
+*Three-seat tables*
 
-> A restaurant has 16 tables; each table has 3, 4 or 6 seats. The restaurant can accommodate a total of 72 guests; a total of 36 guests can be accommodated in 3- or 4-seat tables. How many are the three-seater tables? A) 5
-> 	
+> A restaurant has 16 tables; each table is for 3, 4 or 6 seats. The restaurant can accommodate 72 customers in total; at the tables for 3 or 4 seats, 36 customers can be seated in total. How many tables for three seats are there?
+> A) 5
+>
 > B) 6
-> 	
+>
 > C) 7
-> 	
+>
 > D) 8
->  
-> E) A different number from the previous ones.
+>
+> E) A different number from the ones above.
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q17|src_kangourou_2014_benjamin__Q17]]
 
 
 
@@ -842,14 +967,14 @@ How many kids are gonna eat ice cream today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number opposite 4 on the die given the adjacencies*
+*Who stayed still*
 
-> Five friends, Ada, Bice, Carla, Dina and Enrica are seated at a round table, clockwise starting from Ada in the order in which we have listed them. At a precise moment, all except one, who does not move, swap their place with one of the two friends seated beside them. The new arrangement is now Ada, Enrica, Bice, Dina, Carla, in this order always starting from Ada and always clockwise. Who remained still?
-> A) Ada	
-> 	
-> B) Bice	 	
-> C) Carla	 	
-> D) Dina	 	
+> Five friends, Ada, Bice, Carla, Dina and Enrica, are sitting at a round table, clockwise starting from Ada, in the order in which we have listed them for you. At a precise moment, all except one, who does not move, swap their place with one of the two friends sitting beside them. The new arrangement is now Ada, Enrica, Bice, Dina, Carla, in this order, always starting from Ada and always clockwise. Who remained still?
+> A) Ada
+>
+> B) Bice
+> C) Carla
+> D) Dina
 > E) Enrica
 > D
 > E
@@ -857,6 +982,13 @@ How many kids are gonna eat ice cream today?
 > B
 > A
 >
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q18|src_kangourou_2014_benjamin__Q18]]
 
 
 
@@ -892,19 +1024,26 @@ How many kids are gonna eat ice cream today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum chocolates to be added (remaining 2 mod 3 and 5)*
+*Minimum chocolates to add*
 
-> Miriam has some chocolates. Whether you group them into groups of 3 or you group them into groups of 5, you always have 2. What is the minimum number she must take more if she wants that, whether grouping them into groups of 3 or into groups of 5, none are left over? A) 3
-> 	
+> Miriam has some chocolates: whether she groups them in groups of 3 or in groups of 5, she always has 2 left over. What is the smallest number of extra chocolates she must take if she wants none left over, whether she groups them in groups of 3 or in groups of 5?
+> A) 3
+>
 > B) 1
-> 	
+>
 > C) 4
-> 	
+>
 > D) 10
-> 	
+>
 > E) 13
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q19|src_kangourou_2014_benjamin__Q19]]
 
 
 
@@ -940,19 +1079,27 @@ How many kids are gonna eat ice cream today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Face opposite to 4 of the numbered cube*
+*Face opposite 4 on the numbered cube*
 
-> The faces of a cube are numbered from 1 to 6. We know that faces 1 and 6 share an edge and that the same thing happens to faces 1 and 5, 1 and 2, 6 and 5, 6 and 4, 6 and 2. Which face is opposite face 4? A) 1
-> 	
+> The faces of a cube are numbered from 1 to 6. It is known that faces 1 and 6 share an edge and that the same thing happens for faces 1 and 5, 1 and 2, 6 and 5, 6 and 4, and 6 and 2. Which face is opposite face 4?
+> A) 1
+>
 > B) 2
-> 	
+>
 > C) 3
-> 	
+>
 > D) 5
->         
-> E) Further information is needed to answer. Questions from n. 21 to n. 30 are worth 5 points each.
+>
+> E) Further information is needed to answer.
+> Questions from question 21 to question 30 are worth 5 points each.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q20|src_kangourou_2014_benjamin__Q20]]
 
 
 
@@ -993,21 +1140,28 @@ How many kids are gonna eat ice cream today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum cubes to be removed for the desired view*
+*Minimum small cubes to remove for the desired view*
 
 ![[src_kangourou_2014_benjamin__prob21.png]]
 
-> In the figure (left) you see a cube shaped by 27 equal cubes. You want to remove some cubes so that, looking at the cube from each of the faces that appear in the figure (i.e. from above, front and right) you always see the image on the right. What's the least number of cubes you can remove to reach your goal? A) 4
-> 	
+> In the figure (on the left) you see a cube formed by placing 27 equal small cubes next to one another. You want to remove some small cubes so that, looking at the cube from each of the faces that appear in the figure (that is, from above, from the front and from the right), you always see the image on the right. What is the smallest number of small cubes you can remove to achieve your aim?
+> A) 4
+>
 > B) 5
->  	
+>
 > C) 6
-> 	
+>
 > D) 7
-> 	
+>
 > E) 9
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q21|src_kangourou_2014_benjamin__Q21]]
 
 
 
@@ -1044,19 +1198,26 @@ How many kids are gonna eat ice cream today?
 <div class="qlang-split" data-lang="en"></div>
 
 
-What song was playing on the way home after an hour?
+*Which song was playing on his return after an hour*
 
-> Five songs A, B, C, D and E are recorded on a record: A lasts 3 minutes, B 2 and a half minutes, C 2 minutes, D 1 minute and a half, E 4 minutes. There are no pauses between one song and the next, and once the E is over, the record starts immediately with the A. Pino left the house, without stopping the record, while the song C was being played and came back exactly an hour later. What song was being played when he came home? A) A
-> 	
+> On a record, five songs A, B, C, D and E are recorded one after another: A lasts 3 minutes, B 2 and a half minutes, C 2 minutes, D a minute and a half, E 4 minutes. There are no pauses between one song and the next and, once E has finished, the record starts again immediately with A. Pino left the house, without stopping the record, while song C was being played, and he returned exactly one hour later. Which song was being played as he came back into the house?
+> A) A
+>
 > B) B
-> 	
+>
 > C) C
-> 	
+>
 > D) D
-> 	
+>
 > E) E
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q22|src_kangourou_2014_benjamin__Q22]]
 
 
 
@@ -1089,19 +1250,26 @@ What song was playing on the way home after an hour?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of two-digit divisors of 2014*
+*How many two-digit divisors of 2014*
 
-> How many two-digit positive integers are divisors of 2014? A) 2
-> 	
+> How many two-digit positive integers are divisors of 2014?
+> A) 2
+>
 > B) 3
-> 	
+>
 > C) 4
-> 	
+>
 > D) 5
-> 	
+>
 > E) 6
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q23|src_kangourou_2014_benjamin__Q23]]
 
 
 
@@ -1156,7 +1324,7 @@ What song was playing on the way home after an hour?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length AD in the triangle divided into 4 equal areas*
+*Length of AD in the triangle divided into four equal areas*
 
 ![[src_kangourou_2014_benjamin__prob24.png]]
 
@@ -1186,9 +1354,19 @@ What song was playing on the way home after an hour?
 \end{document}
 ```
 
-> The ABC triangle in the figure is divided into four triangles ADC, DEC, FED and FBE all having the same area (the figure is indicative only). The FB segment is 15 m long. How many meters does the AD segment measure ? A) 7             B) 8              C) 9              D) 10            E) 11
+> Triangle ABC in the figure is divided into the four triangles ADC, DEC, FED and FBE, which all have the same area (the figure is only indicative). Segment FB is 15 metres long. How many metres long is segment AD?
+> A) 7
+> B) 8
+> C) 9
+> D) 10
+> E) 11
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q24|src_kangourou_2014_benjamin__Q24]]
 
 
 
@@ -1231,20 +1409,32 @@ What song was playing on the way home after an hour?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes between arrivals of subsequent messengers*
+*Minutes between arrivals of successive messengers*
 
-> The king and his messengers are traveling from the castle to the summer residence at a speed of 5 Km/h. Every hour the king, from where he is, sends back to the castle a messenger running at the speed of 10 Km/h. How many minutes pass between the arrival of a messenger at the castle and the next? A) 30
-> 	
+> The king and his messengers are travelling from the castle to the summer residence at a speed of 5 km per hour. Every hour the king, from the point where he is, sends a messenger back to the castle who runs at a speed of 10 km per hour. How many minutes pass between the arrival at the castle of one messenger and the next?
+> A) 30
+>
 > B) 60
-> 	
+>
 > C) 75
-> 	
+>
 > D) 90
-> 	
-> E) 120 A B C D E F 15
+>
+> E) 120
+> A
+> B
+> C
+> D
+> E
+> F 15
 >
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q25|src_kangourou_2014_benjamin__Q25]]
 
 
 
@@ -1281,13 +1471,23 @@ What song was playing on the way home after an hour?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What image is not obtained by flattening the cube*
+*Which image is not obtained by flattening the cube*
 
 ![[src_kangourou_2014_benjamin__prob26.png]]
 
-> Look at the figure. On a transparent plastic cube a decorative line is drawn, tracing over some of the edges and some of the diagonals of some faces. For each of its faces, imagine flattening the cube by squeezing it perpendicular to that face (thus, of the five moving faces, only the opposite face will remain intact, while the other four will be compressed, each on one side of that face). Any of the following images can then be obtained, except one. Which one? A) B) C) D) E)
+> Look at the figure. On a transparent plastic cube a decorative line is drawn, tracing some of the edges and some diagonals of some faces. For each of its faces, imagine flattening the cube by squashing it perpendicularly onto that face (in this way, of the five faces that move, only the opposite face will remain intact, while the other four will be compressed, each onto one of the sides of that face). Each of the following images can then be obtained, except one. Which one?
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q26|src_kangourou_2014_benjamin__Q26]]
 
 
 
@@ -1319,13 +1519,23 @@ What song was playing on the way home after an hour?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number deleted by Aldo (sum 15, product 36)*
+*Number erased by Aldo (sum 15, product 36)*
 
-> On the board are three numbers of one digit each: their sum is 15. Aldo deletes one and replaces it with number three: now their product is 36. What's the number Aldo deleted? A) 6 or 7, and both are possible.
-> 	
-> B) 7 or 8, and both are possible. C) Surely 6. D) Surely 7. E) Surely 8.
+> Three single-digit numbers are written on the blackboard: their sum is 15. Aldo erases one of them and replaces it with the number 3: now their product is 36. What is the number erased by Aldo?
+> A) 6 or 7, and both are possible.
+>
+> B) 7 or 8, and both are possible.
+> C) Certainly 6.
+> D) Certainly 7.
+> E) Certainly 8.
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q27|src_kangourou_2014_benjamin__Q27]]
 
 
 
@@ -1361,23 +1571,26 @@ What song was playing on the way home after an hour?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grass-only days for Tim the rabbit*
+*Grass-only days for rabbit Tim*
 
-> Tim the rabbit likes carrots and carob beans. On days when he is not on a diet, he eats either 9 
-> carrots or 2 carob beans or 4 carrots and 1 carob bean. On days when he is on a diet, instead, he eats 
-> only grass. In the last 10 days he ate a total of 30 carrots and 9 carob beans. On how many 
-> of these 10 days did he eat only grass?
-> A) 0	
-	
-> B) 1	
-	
-> C) 2	
-	
-> D) 3	
-	
+> Tim the rabbit likes carrots and carobs. On days when he is not on a diet, he eats either 9 carrots, or 2 carobs, or 4 carrots and 1 carob. On days when he is on a diet, however, he eats only grass. Over the last 10 days he has eaten a total of 30 carrots and 9 carobs. On how many of these 10 days did he eat only grass?
+> A) 0
+>
+> B) 1
+>
+> C) 2
+>
+> D) 3
+>
 > E) 4
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q28|src_kangourou_2014_benjamin__Q28]]
 
 
 
@@ -1413,17 +1626,25 @@ What song was playing on the way home after an hour?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For how many days can the weather be predicted*
+*For how many days the weather can be predicted*
 
-> In a strange part of the world, the two days preceding each sunny day are rainy days. In addition, the fifth day after every rainy day is still a rainy day. Today is a sunny day in that region: for how many consecutive days from tomorrow, at most, can we predict whether it will rain or shine? (The answer 1, for example, means that we can predict the weather of tomorrow, but not the day after tomorrow.) A) 1
-> 	
+> In a strange region of the world, the two days preceding every sunny day are rainy days. Moreover, the fifth day after every rainy day is again a rainy day. Today in that region is a sunny day: for how many consecutive days starting from tomorrow, at most, can we predict whether they will be rainy or sunny? (The answer “1”, for example, means that we can predict tomorrow's weather, but not the day after tomorrow's.)
+> A) 1
+>
 > B) 2
-> 	
+>
 > C) 4
->            
-> D) We cannot even predict tomorrow. E) We can predict the weather for any day starting tomorrow.
+>
+> D) We cannot make predictions even for tomorrow.
+> E) We can predict the weather for any day starting from tomorrow.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q29|src_kangourou_2014_benjamin__Q29]]
 
 
 
@@ -1460,18 +1681,25 @@ What song was playing on the way home after an hour?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum age of Aldo (10 different ages sum 180)*
+*Minimum age of Aldo*
 
-> A grandmother has ten grandchildren: today their ages, in years, are ten different numbers, and their sum is 180. Of the ten grandchildren, Aldo is the eldest. How old does Aldo have to be at least today? A) 19
-> 	
+> A grandmother has ten grandchildren: today their ages, in years, are ten numbers all different from one another and their sum is 180. Among the ten grandchildren, Aldo is the oldest. How old must Aldo be, at least, today?
+> A) 19
+>
 > B) 20
-> 	
+>
 > C) 21
-> 	
+>
 > D) 22
-> 	
+>
 > E) 23
-> 
-> I'm going to take a look.
+>
+> STRING BENJAMIN 2014
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+[[Quesiti/src_kangourou_2014_benjamin#q30|src_kangourou_2014_benjamin__Q30]]

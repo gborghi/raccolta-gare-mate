@@ -31,9 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova N è un quadrato perfetto data condizione di coppie ordinate*
+*Se ci sono esattamente 2005 coppie, allora $N$ è un quadrato perfetto*
 
-> Il numero intero $N$ è positivo. Esistono esattamente coppie ordinate 2005 $(x, y)$ di integri positivi che soddisfano $$\frac{1}{x} + \frac{1}{y} = \frac{1}{N}.$$ Prove che $N$ è un quadrato perfetto.
+> L'intero $N$ è positivo. Esistono esattamente 2005 coppie ordinate $(x, y)$ di interi positivi che soddisfano
+> $$\frac{1}{x} + \frac{1}{y} = \frac{1}{N}.$$
+> Dimostrare che $N$ è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2005#q01|src_bmo2_2005__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bissettori angolari e lati opposti in triangolo con cerchio circoscritto*
+*La circonferenza di diametro $EF$ passa per $D$*
 
-> In triangolo $ABC$, $\angle BAC = 120^\circ$. Lasciate che i bisettori angolari degli angoli $A$, $B$ e $C$ incontrino rispettivamente i lati opposti a $D$, $E$ e $F$. Provare che il cerchio di diametro $EF$ passa attraverso $D$.
+> Nel triangolo $ABC$, $\angle BAC = 120^\circ$. Le bisettrici degli angoli $A$, $B$, $C$ incontrano i lati opposti rispettivamente in $D$, $E$, $F$. Dimostrare che la circonferenza di diametro $EF$ passa per $D$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2005#q02|src_bmo2_2005__Q02]]
 
 
 
@@ -82,9 +98,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza dei valori reali positivi a, b, c*
+*Una disuguaglianza fra un quadrato di rapporti e un prodotto di somme*
 
-> Lasciate che $a, b, c$ siano numeri reali positivi. Provare che $$\left(\frac{a}{b} + \frac{b}{c} + \frac{c}{a}\right)^2 \ge (a + b + c)\left(\frac{1}{a} + \frac{1}{b} + \frac{1}{c}\right).$$
+> Siano $a, b, c$ numeri reali positivi. Dimostrare che
+> $$\left(\frac{a}{b} + \frac{b}{c} + \frac{c}{a}\right)^2 \ge (a + b + c)\left(\frac{1}{a} + \frac{1}{b} + \frac{1}{c}\right).$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2005#q03|src_bmo2_2005__Q03]]
 
 
 
@@ -110,6 +134,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i sottogruppi di 3 elementi di {1,...,n} con condizioni di intersezione e vuoto*
+*Dimostrare che $n \le 100$, e contare tali $X$ quando $n = 100$*
 
-> Il $X = \{A_1, A_2, \ldots, A_k\}$ deve essere un insieme di sottoinsiemi di 3 elementi di $\{1, 2, \ldots, n\}$ in modo tale che: (i) $A_i$ e $A_j$ abbiano un intersezione non vuota per ogni $i, j$, (ii) l'intersezione di tutti gli elementi di $X$ sia il set vuoto. Mostra che $n \le 100$. Quanti sono tali $X$ quando $n = 100$?
+> Sia $X = \{A_1, A_2, \ldots, A_k\}$ una collezione di sottoinsiemi di tre elementi di $\{1, 2, \ldots, n\}$ tali che:
+> (i) $A_i$ e $A_j$ hanno intersezione non vuota per ogni $i, j$,
+> (ii) l'intersezione di tutti gli elementi di $X$ è l'insieme vuoto.
+> Dimostrare che $n \le 100$. Quanti sono tali $X$ quando $n = 100$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2005#q04|src_bmo2_2005__Q04]]

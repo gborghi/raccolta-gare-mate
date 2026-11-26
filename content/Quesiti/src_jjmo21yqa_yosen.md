@@ -30,11 +30,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero intero più piccolo con 6 divisori e somma a 7 cifre*
+*Il più piccolo intero con 6 divisori e somma delle cifre pari a 7*
 
-> Un intero positivo che ha esattamente $6$ divisori positivi e la cui somma digitali è uguale $7$ è chiamato "numero di quest'anno". Ad esempio, $2023$ è un numero di quest'anno. Trova il numero più piccolo di quest'anno.
+> Un numero intero positivo che ha esattamente $6$ divisori positivi e la cui somma delle cifre è uguale a $7$ è chiamato "numero di quest'anno". Ad esempio, $2023$ è un numero di quest'anno. Trovare il più piccolo numero di quest'anno.
 
-**Risposta:** 52
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo21yqa_yosen#q01|src_jjmo21yqa_yosen__Q01]]
 
 
 
@@ -60,13 +65,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato inserito in un trapezoide destro*
+*Quadrato inscritto in un trapezio rettangolo*
 
-> C'è un trapezoide $ABCD$ con $AD \parallel BC$, $\angle A = \angle B = 90^\circ$, $AB = 8$, $BC = 11$ e $DA = 6$. I punti $P, Q, R, S$ si trovano rispettivamente sui lati $AB$, $BC$, $CD$ e $DA$, e il quadrilaterale $PQRS$ è quadrato. Trova il valore di $\dfrac{CR}{RD}$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> C'è un trapezio $ABCD$ con $AD \parallel BC$, $\angle A = \angle B = 90^\circ$, $AB = 8$, $BC = 11$ e $DA = 6$. I punti $P, Q, R, S$ giacciono rispettivamente sui lati $AB$, $BC$, $CD$, $DA$, e il quadrilatero $PQRS$ è un quadrato. Determinare il valore di $\dfrac{CR}{RD}$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
 ![[src_jjmo21yqa_yosen__q02.png]]
 
-**Risposta:** 3/2
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo21yqa_yosen#q02|src_jjmo21yqa_yosen__Q02]]
 
 
 
@@ -90,11 +100,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rua di 7 cellule con A, B, C, coppie adiacenti di ciascuna*
+*Riga di 7 celle con A, B, C, coppie adiacenti di ciascuna*
 
-> Considerate come scrivere una delle lettere A, B, C in ciascuna delle celle $7$ disposte in una singola riga. Quanti sono questi scritti in cui esistono due cellule adiacenti entrambe contenenti A, due cellule adiacenti entrambe contenenti B e due cellule adiacenti entrambe contenenti C? (Le scritture che coincidono sotto rotazione o riflessione sono ancora contate come distinte.)
+> Considera i modi di scrivere una delle lettere A, B, C in ciascuna delle $7$ celle disposte in un'unica riga. Quanti di tali modi di scrivere esistono in cui ci siano due celle adiacenti entrambe contenenti A, due celle adiacenti entrambe contenenti B e due celle adiacenti entrambe contenenti C? (Le scritture che coincidono per rotazione o riflessione sono comunque conteggiate come distinte.)
 
-**Risposta:** 54
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo21yqa_yosen#q03|src_jjmo21yqa_yosen__Q03]]
 
 
 
@@ -118,11 +133,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maxime prime tra somme in coppia di 5 interi distinti*
+*Numeri primi massimi tra le somme a coppie di 5 interi distinti*
 
-> Ci sono $5$ diversi integri positivi $a, b, c, d, e$. Tra le seguenti espressioni $10$ $$a+b,\ a+c,\ a+d,\ a+e,\ b+c,\ b+d,\ b+e,\ c+d,\ c+e,\ d+e,$$ trovi il numero massimo possibile il cui valore è un primo.
+> Ci sono $5$ numeri interi positivi distinti $a, b, c, d, e$. Tra le seguenti $10$ espressioni $$a+b,\ a+c,\ a+d,\ a+e,\ b+c,\ b+d,\ b+e,\ c+d,\ c+e,\ d+e,$$, determina il numero massimo possibile il cui valore sia un numero primo.
 
-**Risposta:** 6
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo21yqa_yosen#q04|src_jjmo21yqa_yosen__Q04]]
 
 
 
@@ -146,11 +166,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cord attraverso un triangolo parallelo a BC; trovare DE*
+*Corda passante per il punto medio del lato opposto, parallela a BC; trova DE*
 
-> C'è un triangolo $ABC$ con $AB = 8$ e $AC = 9$. Una linea parallela alla linea $BC$ incontra il circoncircolo del triangolo $ABC$ in due punti distinti $P, Q$ e incontra i lati $AB$, $AC$ rispettivamente nei punti $D$ e $E$. I quattro punti $P, D, E, Q$ si trovano in questo ordine. Quando $PD = 2$ e $EQ = 3$, trovare la lunghezza del segmento $DE$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> C'è un triangolo $ABC$ con $AB = 8$ e $AC = 9$. Una retta parallela alla retta $BC$ incontra la circonferenza circoscritta al triangolo $ABC$ in due punti distinti $P, Q$, e incontra i lati $AB$, $AC$ nei punti $D$, $E$ rispettivamente. I quattro punti $P, D, E, Q$ sono disposti in questo ordine. Quando $PD = 2$ e $EQ = 3$, trova la lunghezza del segmento $DE$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-**Risposta:** 17/5
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo21yqa_yosen#q05|src_jjmo21yqa_yosen__Q05]]
 
 
 
@@ -174,11 +199,19 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio triplica a< b< c con diminuzione quadrata*
+*Terne di interi positivi a < b < c con una catena di disuguaglianze quadratiche*
 
-> Quanti triples $(a, b, c)$ di numeri interi positivi con $a < b < c$ soddisfano $$a^2 - 20005a > b^2 - 20005b > c^2 - 20005c\,?$$
+> Quante terne $(a, b, c)$ di interi positivi con $a < b < c$ soddisfano
+> $$a^2 - 20005a > b^2 - 20005b > c^2 - 20005c\,?$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
 
 **Risposta:** 333433340000
+
+[[Quesiti/src_jjmo21yqa_yosen#q06|src_jjmo21yqa_yosen__Q06]]
 
 
 
@@ -202,11 +235,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximi paesi che superano il team del paese J*
+*Numero massimo di paesi che superano in punti la squadra del paese J*
 
-> In una competizione con i paesi $100$ compresi i paesi J, i giocatori $3$ di ciascun paese (un totale di giocatori $300$) fanno un test e tutti $300$ ottengono punteggi di numeri interi distinti non negativi. I tre giocatori di Country J ottengono i punteggi classificati $1$st, $10$th e $100$th più alti tra tutti i giocatori $300$. Trovare il numero massimo possibile di paesi, tra i restanti $99$, che soddisfino la seguente condizione: la somma dei punteggi dei tre giocatori di quel paese è superiore alla somma dei punteggi dei tre giocatori del paese J.
+> In una competizione con $100$ paesi, incluso il paese J, $3$ giocatori per paese (per un totale di $300$ giocatori) sostengono un test, e tutti i $300$ ottengono punteggi interi non negativi tutti distinti. I tre giocatori del paese J ottengono i punteggi classificati rispettivamente al $1$º, al $10$º e al $100$º posto per valore tra tutti i $300$ giocatori. Determinare il numero massimo possibile di paesi, tra i restanti $99$, che soddisfano la seguente condizione: la somma dei punteggi dei tre giocatori di quel paese è maggiore della somma dei punteggi dei tre giocatori del paese J.
 
-**Risposta:** 33
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo21yqa_yosen#q07|src_jjmo21yqa_yosen__Q07]]
 
 
 
@@ -230,11 +268,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area massima del quadrilatero ciclico con dati dati*
+*Area massima di un quadrilatero ciclico con i dati forniti*
 
-> Un quadrilaterale ciclico $ABCD$ soddisfa $AB = 1$, $CD = 3$ e $AC : BD = 1 : 2$. Trovare la superficie massima possibile di tale quadrilaterale $ABCD$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Un quadrilatero ciclico $ABCD$ soddisfa $AB = 1$, $CD = 3$ e $AC : BD = 1 : 2$. Determinare l'area massima possibile di un tale quadrilatero $ABCD$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-**Risposta:** 8/3
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo21yqa_yosen#q08|src_jjmo21yqa_yosen__Q08]]
 
 
 
@@ -264,13 +307,21 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli a due colori in griglia 7x7 con restrizioni*
+*Colorazione a due colori dei triangoli in una griglia 7x7 con vincoli*
 
-> Considera una griglia di celle $7 \times 7$. Per due celle adiacenti, il bordo che condividono è chiamato "buono bordo". Quando ogni cella è divisa in quattro parti dai suoi due diagonali, l'intera figura è divisa in triangoli congruenti di uguali dimensioni a destra $196$; ciascun triangolo di questo tipo è chiamato "piccolo triangolo". In quanti modi ciascuno di questi piccoli triangoli $196$ può essere colorato in rosso o blu in modo che siano valide entrambe le seguenti condizioni? Per ogni cella, tra i quattro piccoli triangoli contenuti, il numero di colore rosso è esattamente $1$ o $3$. \item Per ogni buon bordo, i due piccoli triangoli che lo hanno come lato sono di colore lo stesso colore. # Finire #
+> Si consideri una griglia di celle di dimensione $7 \times 7$. Per due celle adiacenti, il lato che condividono è chiamato "lato buono". Quando ciascuna cella viene divisa in quattro parti dalle sue due diagonali, l'intera figura viene suddivisa in $196$ triangoli rettangoli isosceli congruenti; ciascuno di questi triangoli è chiamato "triangolino". In quanti modi si possono colorare di rosso o di blu ciascuno di questi $196$ triangolini in modo che siano soddisfatte entrambe le seguenti condizioni?
+> \begin{itemize}
+> \item Per ogni cella, tra i quattro piccoli triangoli in essa contenuti, il numero colorato in rosso è esattamente $1$ o $3$. \item Per ogni spigolo buono, i due piccoli triangoli che hanno tale spigolo come lato sono colorati dello stesso colore.
+> \end{itemize}
 
 ![[src_jjmo21yqa_yosen__q09.png]]
 
-**Risposta:** 2^{63}
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo21yqa_yosen#q09|src_jjmo21yqa_yosen__Q09]]
 
 
 
@@ -294,11 +345,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco con numero di coprime, conteggio vincente n per A*
+*Gioco dei numeri coprimi: conta i valori di n vincenti per A*
 
-> $n$ sia un numero intero con $3 \le n \le 2023$. I giocatori A e B giocano il seguente gioco. Prima A dice $n$, poi B e A eseguono alternativamente la seguente operazione: lasciando $x$ essere il numero che l'avversario ha appena detto, diciamo un intero positivo inferiore a $x$ che è coprime a $x$. Il gioco termina la prima volta che viene detto un divisore di $n$ che è inferiore a $n$; la persona che ha detto che perde e l'altro vince. Trova il numero di valori di $n$ per i quali A può sempre vincere indipendentemente dal modo in cui B gioca.
+> Sia $n$ un numero intero con $3 \le n \le 2023$. I giocatori A e B giocano il seguente gioco. Prima A dice $n$, poi B e A eseguono alternativamente l'operazione seguente: siano $x$ il numero appena detto dall'avversario; si dica un numero intero positivo minore di $x$ e coprimo con $x$. Il gioco termina la prima volta che viene detto un divisore di $n$ minore di $n$; chi lo ha detto perde e l'altro vince. Determinare il numero di valori di $n$ per cui A può vincere sempre, indipendentemente da come gioca B.
 
-**Risposta:** 173
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_backward|Backward]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo21yqa_yosen#q10|src_jjmo21yqa_yosen__Q10]]
 
 
 
@@ -322,11 +378,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximi amicizie con restrizioni di metà città*
+*Massimo di amicizie con vincolo di metà nella stessa città*
 
-> Ogni studente della JJMO Middle School vive esattamente in una delle due città, città A o città B, e ci sono $2023$ studenti in totale. Per due studenti distinti, o sono amici l'uno dell'altro o no (esattamente uno di questi si applica), e nessun studente è amico di se stesso. Inoltre, per ogni studente $S$ della JJMO Middle School vale quanto segue: se $d$ indica il numero di studenti che sono amici di $S$, allora esattamente $\left[\dfrac{d}{2}\right]$ di essi vivono nella stessa città di $S$. Trova il massimo numero possibile di coppie di studenti che sono amici l'uno dell'altro. (Due coppie che differiscono solo nell'ordine sono considerate uguali. Qui $[r]$ indica il numero intero più grande non superiore a $r$; ad esempio $[3.14] = 3$, $[5] = 5$.)
+> Ogni studente della Scuola Media JJMO vive in esattamente una delle due città, la città A o la città B, e in totale ci sono $2023$ studenti. Per qualsiasi coppia di studenti distinti, o questi sono amici l'uno dell'altro oppure non lo sono (vale esattamente una delle due possibilità), e nessuno studente è amico di se stesso. Inoltre, per ogni studente $S$ della Scuola Media JJMO vale quanto segue: se $d$ indica il numero di studenti che sono amici di $S$, allora esattamente $\left[\dfrac{d}{2}\right]$ di essi vivono nella stessa città di $S$. Determinare il numero massimo possibile di coppie di studenti che sono amici l'uno dell'altro. (Due coppie che differiscono solo nell'ordine sono considerate identiche. Qui $[r]$ indica il più grande intero non superiore a $r$; per esempio $[3.14] = 3$, $[5] = 5$.)
 
-**Risposta:** 2043736
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo21yqa_yosen#q11|src_jjmo21yqa_yosen__Q11]]
 
 
 
@@ -350,8 +411,13 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Configurazione BDEC ciclica, trovare AM*
+*Configurazione BDEC ciclica, trova AM*
 
-> Nel triangolo $ABC$, i punti $D$ e $E$ si trovano rispettivamente sui lati $AB$ e $AC$ (non nei punti finali), mentre i quattro punti $D, B, C, E$ si trovano su un cerchio comune. Il $M$ deve essere il punto medio del lato $BC$ e il $P$ deve essere l'intersezione della linea $BE$ e della linea $CD$. Poiché $DE = 6$, $BC = 10$, $AP = 9$ e $PM = 4$, si trova la lunghezza del segmento $AM$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Nel triangolo $ABC$, i punti $D$ e $E$ giacciono rispettivamente sui lati $AB$ e $AC$ (non agli estremi), e i quattro punti $D, B, C, E$ giacciono su una circonferenza comune. Sia $M$ il punto medio del lato $BC$, e sia $P$ l'intersezione della retta $BE$ con la retta $CD$. Dato che $DE = 6$, $BC = 10$, $AP = 9$ e $PM = 4$, determina la lunghezza del segmento $AM$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-**Risposta:** \sqrt{137}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo21yqa_yosen#q12|src_jjmo21yqa_yosen__Q12]]

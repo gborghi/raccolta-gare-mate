@@ -33,13 +33,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Billeti ferroviari per 200 destinazioni, buco di piccione per arrivi ripetuti*
+*Almeno 6 destinazioni con lo stesso numero di arrivi, e perché 7 non vale*
 
-> Un ufficio di prenotazione di una stazione ferroviaria vende biglietti per 200 destinazioni. Un giorno furono rilasciati biglietti a 3.800 passeggeri. Mostralo.
-> 
-> - ci sono almeno sei destinazioni in cui i numeri di arrivo dei passeggeri sono uguali;
-> 
-> - la dichiarazione di cui alla lettera i) diventa falsa se "6" viene sostituito da "7".
+> Uno sportello di una stazione ferroviaria vende biglietti per 200 destinazioni. Un giorno sono stati emessi biglietti a 3800 passeggeri. Dimostrare che
+>
+> (i) ci sono (almeno) 6 destinazioni in cui i numeri di arrivo dei passeggeri sono uguali;
+>
+> (ii) l'affermazione in (i) diventa falsa se «6» è sostituito da «7».
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1998#q01|src_bmo2_1998__Q01]]
 
 
 
@@ -64,11 +71,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un triangolo circonda la tangenza con condizioni di angolo e parallelo*
+*La circoscritta di $ABC$ è tangente alla circoscritta di $PQR$*
 
-> Un triangolo $ABC$ ha $\angle BAC = \angle BCA$. Una linea $AP$ è disegnata in modo che $\angle PAC = \angle BCA$ dove $P$ è all'interno del triangolo sia costruita in modo che $PQ$ sia parallela a $AB$ e $AQ$ sia parallela a $PC$. $R$ è il punto su $BC$ (separato da $Q$ dalla riga $AP$) tale che $\angle PRQ = \angle BCA$.
-> 
-> Prova che il circoncircolo di $\triangle ABC$ tocca anche il circoncircolo di $\triangle PQR$.
+> Un triangolo $ABC$ ha $\angle BAC = \angle BCA$. Si traccia una retta $AP$ in modo che $\angle PAC = \angle BCA$, dove $P$ è interno al triangolo, costruito in modo che $PQ$ sia parallela ad $AB$ e $AQ$ sia parallela a $PC$. $R$ è il punto su $BC$ (separato da $Q$ dalla retta $AP$) tale che $\angle PRQ = \angle BCA$.
+>
+> Dimostrare che la circonferenza circoscritta a $\triangle ABC$ è anche tangente alla circonferenza circoscritta a $\triangle PQR$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1998#q02|src_bmo2_1998__Q02]]
 
 
 
@@ -97,13 +111,22 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Interi positivi con relazione armonica, GCD produce quadrati perfetti*
+*Se $1/x = 1/y + 1/z$, allora $kxy$ e $k(y - x)$ sono quadrati perfetti*
 
-> Supponiamo che $x, y, z$ siano integri positivi che soddisfano $$\frac{1}{x} = \frac{1}{y} + \frac{1}{z}$$ e che $k$ sia il più grande divisore comune di $x, y, z$.
-> 
-> Prova che $kxy$ è un quadrato perfetto.
-> 
-> Prova anche che $k(y - x)$ è un quadrato perfetto.
+> Si supponga che $x, y, z$ siano interi positivi che soddisfano
+> $$\frac{1}{x} = \frac{1}{y} + \frac{1}{z}$$
+> e sia $k$ il massimo comun divisore di $x, y, z$.
+>
+> Dimostrare che $kxy$ è un quadrato perfetto.
+>
+> Dimostrare anche che $k(y - x)$ è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1998#q03|src_bmo2_1998__Q03]]
 
 
 
@@ -131,8 +154,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazioni simultanee, soluzione positiva unica, soluzione vera e propria diversa esiste*
+*L'unica soluzione positiva di $xy + yz + zx = 12$ e $xyz = 2 + x + y + z$*
 
-> Trova una soluzione delle equazioni simultanee $$xy + yz + zx = 12$$ $$xyz = 2 + x + y + z$$ in cui tutte le $x, y, z$ sono positive e prova che è l'unica tale soluzione.
-> 
-> Mostrare che esiste una soluzione in cui $x, y, z$ sono reali e distinte.
+> Trovare una soluzione del sistema
+> $$xy + yz + zx = 12$$
+> $$xyz = 2 + x + y + z$$
+> in cui $x, y, z$ sono tutti positivi, e dimostrare che è l'unica tale soluzione.
+>
+> Dimostrare che esiste una soluzione in cui $x, y, z$ sono reali e distinti.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1998#q04|src_bmo2_1998__Q04]]

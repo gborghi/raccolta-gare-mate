@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Proprietà di unità triangolare pentagonale convexa: superficie uguale, infinite non congruenti*
+*Tutti i pentagoni convessi con la «proprietà del triangolo unitario» hanno la stessa area*
 
-> Si dice che un pentagono converso piano $ABCDE$ abbia la "proprietà del triangolo unitario" se l'area di ciascuno dei triangoli $ABC$, $BCD$, $CDE$, $DEA$, $EAB$ è unità. Mostrare che tutti i pentagoni convexi a piano con la proprietà del triangolo unitario hanno la stessa area e che ci sono un numero infinito di questi pentagoni, di cui non due sono congruenti.
+> Un pentagono convesso piano $ABCDE$ si dice avere la «proprietà del triangolo unitario» se l'area di ciascuno dei triangoli $ABC$, $BCD$, $CDE$, $DEA$, $EAB$ è unitaria. Dimostrare che tutti i pentagoni convessi piani con la proprietà del triangolo unitario hanno la stessa area e che esiste un numero infinito di tali pentagoni, a due a due non congruenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1977-78_round2#q01|src_bmo_1977-78_round2__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Infinitamente molti n dove le ultime m cifre decimali di 3^n parità alternativa*
+*Infiniti $n$ per cui le ultime $m$ cifre di $3^n$ alternano la parità*
 
-> Dato qualsiasi numero intero $m > 1$ dimostrare che esiste un'infinità di numeri interi positivi $n$ tale che le ultime cifre decimali $m$ di $3^n$ formino una sequenza in cui ogni cifra tranne l'ultima è in parità opposta al suo successore, cioè Se uno è strano, il prossimo è pari e viceversa.
+> Dato un intero qualunque $m > 1$, dimostrare che esistono infiniti interi positivi $n$ tali che le ultime $m$ cifre decimali di $3^n$ formino una successione in cui ogni cifra, tranne l'ultima, ha parità opposta a quella della successiva, cioè se una è dispari allora la successiva è pari e viceversa.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1977-78_round2#q02|src_bmo_1977-78_round2__Q02]]
 
 
 
@@ -81,9 +95,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le radici di una somma binomiale alterna parziale uguale a 1/2*
+*Tutte le radici di quella equazione, per un intero positivo $m$ dato*
 
-> Determinare con prova tutte le radici dell'equazione $$\sum_{r=1}^{m} (-1)^{r-1} \frac{n(n-1)\cdots(n-r+1)}{r!} = \frac{1}{2}$$ dove $m$ è un dato intero positivo.
+> Determinare, con dimostrazione, tutte le radici dell'equazione
+> $$\sum_{r=1}^{m} (-1)^{r-1} \frac{n(n-1)\cdots(n-r+1)}{r!} = \frac{1}{2}$$
+> dove $m$ è un intero positivo dato.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1977-78_round2#q03|src_bmo_1977-78_round2__Q03]]
 
 
 
@@ -115,14 +138,22 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le distribuzioni di quattro libri a n amici secondo tre regole*
+*Il numero di modi di distribuire i quattro libri è quella espressione*
 
-> Ci sono sufficienti scorte di quattro libri diversi per un editore di dare una copia di ciascuno a ciascuno dei suoi amici. Tuttavia decide di distribuire loro i regali secondo le seguenti regole:
-> 
-> - almeno una copia di ciascuno dei quattro libri;
-> 
-> (ii) ogni amico deve avere esattamente due dei quattro libri (questi due non sono copie dello stesso libro);
-> 
-> (iii) gli amici che ricevono un libro specifico devono formare un insieme diverso da quello degli amici che ricevono un altro libro specifico.
-> 
-> Indicare che il numero di modi in cui la distribuzione può essere effettuata è $$\tfrac{1}{2}\bigl(5^{n-1} - 3 \cdot 2^{n-1} + 3(2^{n-1}-1)\bigr).$$
+> Ci sono scorte sufficienti di quattro libri diversi perché un editore ne dia una copia di ciascuno a ciascuno dei suoi $n$ amici. Decide però di distribuire i regali secondo le regole seguenti:
+>
+> (i) si deve dare almeno una copia di ciascuno dei quattro libri;
+>
+> (ii) ogni amico deve avere esattamente due dei quattro libri (questi due non essendo copie dello stesso libro);
+>
+> (iii) gli amici che ricevono un certo libro devono formare un insieme diverso dall'insieme degli amici che ricevono qualunque altro libro.
+>
+> Dimostrare che il numero di modi in cui si può fare la distribuzione è
+> $$\tfrac{1}{2}\bigl(5^{n-1} - 3 \cdot 2^{n-1} + 3(2^{n-1}-1)\bigr).$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1977-78_round2#q04|src_bmo_1977-78_round2__Q04]]

@@ -34,11 +34,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mean cost of m+n cross-purchased pens*
+*The average cost of each pen*
 
-> If m pencils are purchased at a cost of n euro each and n pencils at a cost of m euro each, then the average cost in euro of each pen is:
+> If one buys m pens at a cost of n euros each and n pens at a cost of m euros each, then the average cost in euros of each pen is:
+> A) 1
+> B) (m + n) / 2
+> C) 2mn / (m + n)
+> D) mn
+> E) m2 n 2 / 2
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_student#q01|src_kangourou_2004_student__Q01]]
 
 
 
@@ -65,15 +73,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Edges of a pyramid with 17 faces*
+*How many edges the pyramid has*
 
 > A pyramid has 17 faces. How many edges does it have?
 > A) 16
 > B) 17
 > C) 18
-> D) 32         E) 34
+> D) 32
+> E) 34
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_student#q02|src_kangourou_2004_student__Q02]]
 
 
 
@@ -100,11 +112,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum real x with x^2-2004< 0*
+*The smallest real number x that satisfies the inequality*
 
-> The smallest real number x that results in inequality x2 −2004 < 0 is: A) −2004 B) 2004 C) 0 D) −√2004 E) √2004
+> The smallest real number x that satisfies the inequality x2 − 2004 < 0 is:
+> A) −2004
+> B) 2004
+> C) 0
+> D)
+> E) −
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_student#q03|src_kangourou_2004_student__Q03]]
 
 
 
@@ -133,11 +153,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Vertices of a polygon with sum of angles one seventh of 16-gon*
+*How many vertices the regular polygon has*
 
-> How many vertices does a regular polygon have if the sum of its interior angles is equal to one seventh of the sum of the interior angles of a regular 16-gon? A)  3 B) 4 C)  6 D) 7 E) 10
+> How many vertices does a regular polygon have if the sum of its interior angles is equal to one seventh of the sum of the interior angles of a regular 16-gon?
+> A) 3
+> B) 4
+> C) 6
+> D) 7
+> E) 10
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_student#q04|src_kangourou_2004_student__Q04]]
 
 
 
@@ -171,13 +199,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Region area not squared side s*
+*The area of the unpainted region*
 
 ![[src_kangourou_2004_student__prob5.png]]
 
-> s is an odd positive integer. In a s-side square the unit squares centered on the diagonals were painted in black (see the example in figure, where s = 7). What is the area of the unpainted region? A)s2 + 1 − 2s B)s2 + 4 − 4s C) 2s2 + 1− 4s D) s2 −1 −2s E) s2 − 2s
+> s is a positive odd integer. In a square of side s the little squares of side 1 centred on the diagonals have been painted black (see the example in the figure, where s = 7). What is the area of the unpainted region?
+> A) s2 + 1 − 2s
+> B) s2 + 4 − 4s
+> C) 2s2 + 1 − 4s
+> D) s2 − 1 − 2s
+> E) s2 − 2s
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_student#q05|src_kangourou_2004_student__Q05]]
 
 
 
@@ -217,27 +254,29 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of celebrities in a group of 100 people*
+*How many celebrities there must be in the group*
 
-> By definition, in a group of people a "celebrity" is a person in the group who is known by every other person in the group, but
-> who does not know any other person in the group. Consider a
-> group of 100 people: within it the number of celebrities
-> A)  is necessarily 0
-> B)  is necessarily 1
-> C)  is necessarily 0 or 1
-> D)  is necessarily 0 or 100
+> By definition, in a group of people a "celebrity" is a person in the group who is known by every other person in the group, but who does not know any other person in the group. Consider a group of 100 people: within it the number of celebrities
+> A) is necessarily 0
+> B) is necessarily 1
+> C) is necessarily 0 or 1
+> D) is necessarily 0 or 100
 > E) is necessarily 1 or 2
 > 2004
 > 2004
-> 
-> Pag. 
-> Pag. 29
+>
+> Page
+> Page 29
 > 29
 > Kang 2004
 > Kang 2004
 > tudent
 
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_student#q06|src_kangourou_2004_student__Q06]]
 
 
 
@@ -284,7 +323,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quadrilateral area by two equilateral triangles*
+*The area of the quadrilateral ABCE*
 
 ![[src_kangourou_2004_student__prob7.png]]
 
@@ -307,9 +346,17 @@ level: kangourou
 \end{document}
 ```
 
-> The two equilateral triangles ABC and ECD in the figure have sides of length 2 and 1 respectively. The area of the ABCE quadrilateral is: A) B) C) 3 D) E)
+> The two equilateral triangles ABC and ECD in the figure have sides of length 2 and 1 respectively. The area of the quadrilateral ABCE is:
+> A)
+> B)
+> C) 3
+> D)
+> E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_student#q07|src_kangourou_2004_student__Q07]]
 
 
 
@@ -335,11 +382,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible product of five numbers chosen from 1,2,4*
+*Which of the numbers could be the product obtained*
 
-> Five people choose a number from these three: 1, 2, 4. The five numbers chosen are multiplied together. Only one of the following numbers could be the product obtained: which? A) 100        B) 256        C) 768       D) 2048      E) 4096
+> Five people each choose a number from these three: 1, 2, 4. The five numbers chosen are multiplied together. Only one of the following numbers could be the product obtained: which?
+> A) 100
+> B) 256
+> C) 768
+> D) 2048
+> E) 4096
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_student#q08|src_kangourou_2004_student__Q08]]
 
 
 
@@ -368,11 +423,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial legs of sheep and shepherds*
+*How many legs there were initially*
 
-> In one pasture there were 15 sheep and some shepherds. After half the shepherds and a third of the sheep have moved away from the pasture, there are a total of 50 legs. How many legs were there initially? A) 60 B) 72 C) 80 D) 90         E) 100
+> In a pasture there were 15 sheep and some shepherds. After half of the shepherds and a third of the sheep have left the pasture, there is a total of 50 legs. How many legs were there initially?
+> A) 60
+> B) 72
+> C) 80
+> D) 90
+> E) 100
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_student#q09|src_kangourou_2004_student__Q09]]
 
 
 
@@ -401,11 +464,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*CAB angle with radius equal to the CB side*
+*How many degrees the angle CÂB measures*
 
-> An ABC triangle is inscribed in a circumference whose center falls within the triangle and whose radius is as long as the CB side. What is the degree of the angle of CAB? (a) 22,5° B) 30° C) 45° D) 60° E) 90° Questions from N. 11 al N. Twenty is worth four points.
+> A triangle ABC is inscribed in a circle whose centre falls inside the triangle and whose radius is as long as the side CB. How many degrees does the angle CÂB measure?
+> A) 22.5°
+> B) 30°
+> C) 45°
+> D) 60°
+> E) 90°
+> Questions 11 to 20 are worth 4 points
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_student#q10|src_kangourou_2004_student__Q10]]
 
 
 
@@ -434,11 +506,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squares with a vertex in (-1,-1) and axes of symmetry*
+*How many such squares there are*
 
-> Consider the Cartesian plane. How many squares have a vertex in (-1,-1) such that at least one of the coordinate axes is the axis of symmetry of the square itself? A) 2 B) 3 C) 4 D) 5 E) 6
+> Consider the Cartesian plane. How many squares are there that have a vertex at (−1, −1) and such that at least one of the coordinate axes is an axis of symmetry of the square itself?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 
+**Topic:** [[topic_geometria_analitica|Analytic geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_student#q11|src_kangourou_2004_student__Q11]]
 
 
 
@@ -469,11 +550,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum cards to be extracted per product divisible by 4*
+*The smallest number of cards one must draw*
 
-> In a non-transparent box, there are 100 cards, numbered 1 to 100. What is the minimum number of cards we need to extract from the box in the dark, to make sure that the product of the numbers that appear on the extracted cards is divisible by four? A) 51 B) 52 C) 53 D) 54         E) 55
+> In a box that is not transparent there are 100 cards, numbered from 1 to 100. What is the smallest number of cards we must draw in the dark from the box, in order to be sure that the product of the numbers that appear on the cards drawn is divisible by four?
+> A) 51
+> B) 52
+> C) 53
+> D) 54
+> E) 55
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_student#q12|src_kangourou_2004_student__Q12]]
 
 
 
@@ -526,11 +616,9 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of Martians with above-average tentacles*
+*What percentage of Martians have more tentacles than the average*
 
-> Every Martian has one, two or three tentacles on their head.
-> Exactly 1% of the Martian population consists of individuals with three
-> tentacles, while 97% consists of individuals with two tentacles and the remain-
+> Every Martian has one, two or three tentacles on his head. Exactly 1% of the Martian population consists of individuals with three tentacles, while 97% consists of individuals with two tentacles and the remain-
 > 4
 > 3
 > 7
@@ -549,18 +637,24 @@ Minimum cards to be extracted per product divisible by 4*
 > D
 > B
 > C
-> 
-> Pag. 
-> Pag. 30
+>
+> Page
+> Page 30
 > 30
 > Kang 2004
 > Kang 2004
 > tudent
-> te 2% has only one tentacle. What percentage of Martians has more tentacles
-> on their head than the average of the entire Martian population? 
-> A) 1%          B) 3%         C) 97%       D) 98%       E) 99%
+> ing 2% has only one tentacle. What percentage of Martians has more tentacles on his head than the average of the whole Martian population?
+> A) 1%
+> B) 3%
+> C) 97%
+> D) 98%
+> E) 99%
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_stima|Estimation and approximation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_student#q13|src_kangourou_2004_student__Q13]]
 
 
 
@@ -588,11 +682,20 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two-digit numbers with the same final digit for square and cube*
+*How many two-digit numbers have squares and cubes ending with the same digit*
 
-> How many two-digit numbers have squares and cubes ending in the same number? A) 1 B) 9 C) 18 D) 27 E) more than thirty
+> How many two-digit numbers are there whose squares and whose cubes end with the same digit?
+> A) 1
+> B) 9
+> C) 18
+> D) 27
+> E) more than thirty
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_student#q14|src_kangourou_2004_student__Q14]]
 
 
 
@@ -621,11 +724,20 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting positive integers in balanced base 3*
+*How many positive integers can be written in the given form*
 
-> How many positive integers can be written in the form a0 + 3 a1 + 32 a2 + 33 a3 + 34 a4 with a0 , a1 , a2 , a3 , a4 belonging to the set {-1, 0, 1}? A) 5 B) 80 C) 81 D) 121        E) 243
+> How many positive integers can be written in the form a0 + 3 a1 + 32 a2 + 33 a3 + 34 a4 with a0, a1, a2, a3, a4 belonging to the set {-1, 0, 1}?
+> A) 5
+> B) 80
+> C) 81
+> D) 121
+> E) 243
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_student#q15|src_kangourou_2004_student__Q15]]
 
 
 
@@ -652,11 +764,20 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nature of a numerical expression with radicals*
+*What the number is*
 
-> The number is A) negative B) equal to zero C) the fourth power of a non-zero integer D) equal to 11 E) a positive integer divisible by 5
+> The number is
+> A) negative
+> B) equal to zero
+> C) the fourth power of a non-zero integer
+> D) equal to 11
+> E) a positive integer divisible by 5
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_student#q16|src_kangourou_2004_student__Q16]]
 
 
 
@@ -685,11 +806,20 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Right triangles with vertices of a 14-gon*
+*How many right-angled triangles have three of the 14 vertices as vertices*
 
-> How many right triangles have three of the 14 vertices of a regular 14-gon? A) 72 B) 82 C) 84 D) 88 E) other answer
+> How many right-angled triangles are there whose vertices are three of the 14 vertices of a regular 14-gon?
+> A) 72
+> B) 82
+> C) 84
+> D) 88
+> E) another answer
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_student#q17|src_kangourou_2004_student__Q17]]
 
 
 
@@ -734,7 +864,7 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Radius of circle inscribed in a quarter circle*
+*The radius of the circle K*
 
 ![[src_kangourou_2004_student__prob18.png]]
 
@@ -751,9 +881,18 @@ Minimum cards to be extracted per product divisible by 4*
 \end{document}
 ```
 
-> A circle K is inscribed in the circular sector which is a quarter of a circle of radius 6, as shown in Figure 1. What's the radius of K? A) B) C) 2,5 D) 3 E)
+> A circle K is inscribed in the circular sector that is a quarter of a circle of radius 6, as shown in the figure. What is the radius of K?
+> A)
+> B)
+> C) 2.5
+> D) 3
+> E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_student#q18|src_kangourou_2004_student__Q18]]
 
 
 
@@ -782,16 +921,20 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sign of the product in a geometric sequence a3<a2<a4*
+*Which statement must hold*
 
-> In a geometric sequence a 1, a 2, a 3, ... the following inequalities hold: a 3 < a 2 < a 4 .
-> Then certainly
-> A) a 3 Aa 4 > 0                B)a 2 Aa 3 < 0   
+> In a geometric sequence a 1, a 2, a 3, ... one has the following inequalities: a 3 < a 2 < a 4. Then certainly
+> A) a 3 Aa 4 > 0
+> B) a 2 Aa 3 < 0
 > C) a 2 Aa 4 < 0
-> D)a 2 < 0   
+> D) a 2 < 0
 > E) a 2 Aa 3 > 0
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_student#q19|src_kangourou_2004_student__Q19]]
 
 
 
@@ -854,10 +997,10 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Second-to-last digit of 11^2004*
+*The penultimate digit of 112004*
 
-> What is the second-to-last digit of 112004?
-> A) 0  
+> What is the penultimate digit of 112004?
+> A) 0
 > B) 1
 > C) 2
 > D) 3
@@ -865,7 +1008,7 @@ Minimum cards to be extracted per product divisible by 4*
 > (
 > )
 > 2
->  
+>
 > 2
 > 12
 > 22
@@ -888,16 +1031,20 @@ Minimum cards to be extracted per product divisible by 4*
 > 6
 > −
 > K
-> 
-> Pag. 
-> Pag. 31
+>
+> Page
+> Page 31
 > 31
 > Kang 2004
 > Kang 2004
 > tudent
-> Questions from No. 21 to No. 30 are worth 5 points
+> Questions 21 to 30 are worth 5 points
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_student#q20|src_kangourou_2004_student__Q20]]
 
 
 
@@ -926,11 +1073,19 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-% of broccoli *
+*What percentage the Broccoli Party obtained*
 
-> There's an election in Ortholand. Every voter in the Broccoli Party has already eaten broccoli, while 90% of voters in the other parties have never eaten broccoli. What percentage did the Broccoli Party get, if exactly 46% of voters have already eaten broccoli? A) 40% B) 41%        C) 43% D) 45%       E) 46%
+> In Vegetableland there is an election. Every voter of the Broccoli Party has already eaten broccoli, while 90% of the voters of the other parties have never eaten broccoli. What percentage did the Broccoli Party obtain, if exactly 46% of those who voted have already eaten broccoli?
+> A) 40%
+> B) 41%
+> C) 43%
+> D) 45%
+> E) 46%
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_student#q21|src_kangourou_2004_student__Q21]]
 
 
 
@@ -984,7 +1139,7 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Areas of the four triangles in a parallelogram*
+*Which statement about the areas of the four triangles is correct*
 
 ![[src_kangourou_2004_student__prob22.png]]
 
@@ -1007,9 +1162,18 @@ Minimum cards to be extracted per product divisible by 4*
 \end{document}
 ```
 
-> A parallelogram is divided into 4 triangles, following a criterion similar to that shown in the figure. So: A) the areas of the four triangles, in m2 , can be 4, 5, 8, 9 B) the areas of the four triangles, in m2 , can be 5, 6, 7, 12 C) the areas of the four triangles, in m2 , can be 10, 11, 12, 19 D) the areas of the four triangles, in m2 , can be: 11, 13, 15, 16 E) None of the previous statements are correct
+> A parallelogram is divided into 4 triangles, following a rule similar to the one shown in the figure. Then:
+> A) the areas of the four triangles, in m2, can be 4, 5, 8, 9
+> B) the areas of the four triangles, in m2, can be 5, 6, 7, 12
+> C) the areas of the four triangles, in m2, can be 10, 11, 12, 19
+> D) the areas of the four triangles, in m2, can be: 11, 13, 15, 16
+> E) none of the above
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_student#q22|src_kangourou_2004_student__Q22]]
 
 
 
@@ -1042,13 +1206,22 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relation between graphs of functions f and g*
+*Which equality holds for every real number x*
 
 ![[src_kangourou_2004_student__prob23.png]]
 
-> The figure shows the graphs of two functions f and g, defined on real numbers. Which of the following equations is satisfied for every real number x? A)  f(x) = −g(x) +2 B) f(x) = −g(x) −2 C) f(x) = −g(x+2) D) f(x+2) = −g(x) E) f(x+1) = −g(x−1)
+> The figure shows the graphs of two functions f and g, defined on the real numbers. Which of the following equalities is satisfied, for every real number x?
+> A) f(x) = −g(x) + 2
+> B) f(x) = −g(x) − 2
+> C) f(x) = −g(x+2)
+> D) f(x+2) = −g(x)
+> E) f(x+1) = −g(x−1)
 
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_student#q23|src_kangourou_2004_student__Q23]]
 
 
 
@@ -1104,11 +1277,14 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arc radius that bisects an equilateral triangle*
+*The radius of the arc that splits the triangle into two parts of equal area*
 
-> An equilateral triangle has side 4. The radius of the arc of a circle, centered at any one of the vertices, that divides the triangle
-> into two parts having the same area, is:
-> A)              B)              C)              D)               E)  
+> An equilateral triangle has side 4. The radius of the circular arc, centred at any one of the vertices, that splits the triangle into two parts of equal area, is:
+> A)
+> B)
+> C)
+> D)
+> E)
 > f
 > 1
 > -1
@@ -1133,15 +1309,18 @@ Minimum cards to be extracted per product divisible by 4*
 > π
 > 3
 > 48
-> 
-> Pag. 
-> Pag. 32
+>
+> Page
+> Page 32
 > 32
 > Kang 2004
 > Kang 2004
 > tudent
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_student#q24|src_kangourou_2004_student__Q24]]
 
 
 
@@ -1174,11 +1353,20 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in place of 120 after 200 steps (divisors)*
+*Which number is found in place 120*
 
-> We start with 200 numbers all equal to zero written in succession. In the first step, we add 1 to each of the 200 numbers. In the second step we add 1 only to the numbers whose place is a multiple of 2 (i.e. those of even place). In the third step we add 1 only to the numbers whose place is a multiple of 3 and we proceed according to this law: in the n-th step we add 1 only to the numbers whose place is a multiple of n. After 200 steps, what number do we find in place 120? A) 16 B) 12 C) 20         D)24 E) 32
+> We start with 200 numbers, all equal to zero, written in a row. At the first pass we add 1 to each of the two hundred numbers. At the second pass we add 1 only to the numbers whose place is a multiple of 2 (that is, to those in an even place). At the third pass we add 1 only to the numbers whose place is a multiple of 3, and we proceed according to this rule: at the nth pass we add 1 only to the numbers whose place is a multiple of n. After 200 passes, what number do we find in place 120?
+> A) 16
+> B) 12
+> C) 20
+> D) 24
+> E) 32
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_student#q25|src_kangourou_2004_student__Q25]]
 
 
 
@@ -1209,13 +1397,22 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-degenerate triangles from 18 points*
+*How many non-degenerate triangles have three of the 18 points as vertices*
 
 ![[src_kangourou_2004_student__prob26.png]]
 
-> How many triangles (non-degenerate) have their vertices 3 of the 18 points shown in the figure? A) 816 B) 711 C) 777       D) 717 E) 811
+> How many (non-degenerate) triangles are there whose vertices are 3 of the 18 points shown in the figure?
+> A) 816
+> B) 711
+> C) 777
+> D) 717
+> E) 811
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_student#q26|src_kangourou_2004_student__Q26]]
 
 
 
@@ -1246,11 +1443,20 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Digit c from sum 1554 of the permutations*
+*Which digit c is*
 
-> a, b, c are three digits such that 0 < a < b < c. The sum of all the three-digit integers that can be formed by permuting these three digits is 1554. What digit is c ? A) 3 B) 4 C) 5 D) 6 E) 7
+> a, b, c are three digits such that 0 < a < b < c. The sum of all the three-digit integers that can be formed by permuting these three digits is 1554. Which digit is c?
+> A) 3
+> B) 4
+> C) 5
+> D) 6
+> E) 7
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_student#q27|src_kangourou_2004_student__Q27]]
 
 
 
@@ -1277,14 +1483,20 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of digits of n^2 with n=999...9*
+*The sum of the digits of n 2*
 
-> The number n = 999 … 9 has the decimal representation formed
-> by 999 nines. What is the sum of the digits of n 2 ?
+> The number n = 999 … 9 has a decimal representation formed from 999 nines. What is the sum of the digits of n 2?
 > A) 8982
-> B) 8991       C) 9000     D) 9009      E) 9018
+> B) 8991
+> C) 9000
+> D) 9009
+> E) 9018
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_student#q28|src_kangourou_2004_student__Q28]]
 
 
 
@@ -1314,11 +1526,20 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sets of consecutive integers with a sum of 100*
+*How many sets of consecutive positive integers sum to 100*
 
-> How many sets of consecutive positive integers are such that the sum of their numbers is exactly 100? (N.B. The sum consisting of only number 100 is excluded. A) 0            B) 1 C) 2 D) 3 E) 4
+> How many sets formed from consecutive positive integers are such that the sum of the numbers that make them up is exactly 100? (N.B. Exclude the set consisting of the number 100 alone.)
+> A) 0
+> B) 1
+> C) 2
+> D) 3
+> E) 4
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_student#q29|src_kangourou_2004_student__Q29]]
 
 
 
@@ -1374,19 +1595,16 @@ Minimum cards to be extracted per product divisible by 4*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product BD x AC in a convex quadrilateral*
+*The value of the product*
 
 ![[src_kangourou_2004_student__prob30.png]]
 
-> Let ABCD be a convex quadrilateral of unit area, with AB and BD
-> bases of the isosceles triangles ABD and DBC respectively. Knowing furthermore that angle B   D measures
-> 100° and angle A  B measures 20° (see figure), the
-> product             is equal to:
-> A)   
-> B)   
-> C)  
-> D)  
-> E) other answer
+> Let ABCD be a convex quadrilateral of unit area, with AB and BD bases of the isosceles triangles ABD and DBC respectively. Given also that the angle B D measures 100° and the angle A B measures 20° (see the figure), the product is equal to:
+> A)
+> B)
+> C)
+> D)
+> E) another answer
 > 100°
 > 20°
 > A
@@ -1399,15 +1617,19 @@ Minimum cards to be extracted per product divisible by 4*
 > 3
 > 4
 > BD
->  
+>
 > x
->  
+>
 > AC
 > Cˆ
 > Dˆ
-> 
-> Students 2004 -  Page  n°
+>
+> Students 2004 - Page no.
 > 1
 > SOLUTIONS STUDENT 2004
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_student#q30|src_kangourou_2004_student__Q30]]

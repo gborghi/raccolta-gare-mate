@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due sottoinsiemi disgiunti di dieci numeri da due cifre con somme uguali*
+*Due sottoinsiemi disgiunti di dieci numeri a due cifre con somme uguali*
 
-> Si dimostri che da un insieme di dieci numeri interi distinti a due cifre (nel sistema decimale) è sempre possibile scegliere due sottoinsiemi disgiunti i cui elementi abbiano la stessa somma.
+> Dimostrare che, a partire da un insieme di dieci numeri distinti di due cifre (nel sistema decimale), è possibile scegliere due sottoinsiemi disgiunti i cui elementi abbiano la stessa somma.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1972#q01|src_imho_1972__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un quadrilatero inscritto in una circonferenza può essere scomposto in quadrilateri anch'essi inscrivibili*
+*Un quadrilatero inscritto in una circonferenza può essere scomposto in quadrilateri inscrivibili*
 
-> Si dimostri che se $n \ge 4$, ogni quadrilatero che può essere inscritto in una circonferenza può essere scomposto in $n$ quadrilateri ciascuno dei quali è anch'esso inscrivibile in una circonferenza.
+> Dimostrare che, se $n \ge 4$, ogni quadrilatero che può essere inscritto in una circonferenza può essere scomposto in $n$ quadrilateri, ciascuno dei quali è inscrivibile in una circonferenza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1972#q02|src_imho_1972__Q02]]
 
 
 
@@ -81,11 +95,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Si dimostri che l'espressione contenente coefficienti binomiali è un intero*
+*(2m)!(2n)! / (m! n! (m+n)!) è un intero, per interi non negativi*
 
-> Siano $m$ e $n$ due interi non negativi arbitrari. Si dimostri che
+> Siano $m$ e $n$ interi non negativi arbitrari. Dimostrare che
 > $$\frac{(2m)!(2n)!}{m!\,n!\,(m+n)!}$$
-> è un numero intero. ($0! = 1$.)
+> è un intero. ($0! = 1$.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_imho_1972#q03|src_imho_1972__Q03]]
 
 
 
@@ -115,9 +136,9 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le soluzioni di un sistema di quattro disuguaglianze*
+*Trovare tutte le soluzioni di un sistema di quattro disuguaglianze*
 
-> Determinare tutte le soluzioni $(x_1, x_2, x_3, x_4)$ del sistema di disuguaglianze
+> Trovare tutte le soluzioni $(x_1, x_2, x_3, x_4)$ del sistema di disequazioni
 > $$\begin{aligned}
 > (x_1^2 - x_3 x_1)(x_2^2 - x_3 x_2) &\le 0 \\
 > (x_2^2 - x_4 x_2)(x_3^2 - x_4 x_3) &\le 0 \\
@@ -125,6 +146,13 @@ level: IMO
 > (x_4^2 - x_2 x_4)(x_1^2 - x_2 x_1) &\le 0
 > \end{aligned}$$
 > dove $x_1, x_2, x_3, x_4$ sono numeri reali positivi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1972#q04|src_imho_1972__Q04]]
 
 
 
@@ -149,11 +177,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale f(x+y)+f(x-y)=2f(x)g(y) con vincoli*
+*Equazione funzionale f(x+y)+f(x-y)=2f(x)g(y) con limiti*
 
-> Siano $f$ e $g$ funzioni a valori reali definite per tutti i numeri reali $x$ e $y$, e soddisfacenti l'equazione
+> Siano $f$ e $g$ funzioni a valori reali definite per tutti i valori reali di $x$ e $y$, e soddisfacenti l'equazione
 > $$f(x + y) + f(x - y) = 2f(x)g(y)$$
-> per tutti gli $x, y$. Si dimostri che se $f(x)$ non è identicamente nulla, e se $|f(x)| \le 1$ per tutti gli $x$, allora $|g(y)| \le 1$ per tutti gli $y$.
+> per ogni $x, y$. Dimostrare che, se $f(x)$ non è identicamente nulla e se $|f(x)| \le 1$ per ogni $x$, allora $|g(y)| \le 1$ per ogni $y$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1972#q05|src_imho_1972__Q05]]
 
 
 
@@ -176,6 +211,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro piani paralleli distinti implicano un tetraedro regolare con un vertice su ciascuno*
+*Quattro piani paralleli distinti e un tetraedro regolare con un vertice su ciascuno*
 
-> Siano dati quattro piani paralleli distinti. Si dimostri che esiste un tetraedro regolare avente un vertice su ciascun piano.
+> Dati quattro piani paralleli distinti, dimostrare che esiste un tetraedro regolare con un vertice su ciascun piano.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_imho_1972#q06|src_imho_1972__Q06]]

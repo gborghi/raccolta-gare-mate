@@ -39,15 +39,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Earliest possible date of the third Thursday of March*
+*Length of one cargo container*
 
-> A large cargo ship can carry up to 12,500 containers of a certain type. If aligned one after the other, these 12,500 containers all equal each other cover a distance of about 75 km. Which of the following numbers is closest to the length in metres of one of those containers? A) 6
-> 	
+> A large cargo ship can carry up to 12,500 containers of a certain type. If lined up one after another, these 12,500 containers, all identical to one another, cover a distance of about 75 km. Which of the following numbers is closest to the length in metres of one of those containers?
+> A) 6
+>
 > B) 16
-> 	
+>
 > C) 60
-> 	
-> D) 160 E) 600
+>
+> D) 160
+> E) 600
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q01|src_kangourou_2014_junior__Q01]]
 
 
 
@@ -80,13 +88,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Approximate length of a container given the row*
+*Quadrilateral in an isosceles triangle*
 
-> The length of the two equal sides of an isosceles triangle is 7 cm. From an internal point on the third side, for each of the oblique sides the straight line parallel to that side is carried. This determines a quadrilateral contained in the triangle: how many centimeters does its perimeter measure? A) 7
-> 	
-> B) 10,5 C) 14
-> 	
-> D) 17.5 E) The answer depends on the length of the third side.
+> The length of the two equal sides of an isosceles triangle is 7 cm. From a point in the interior of the third side, for each of the sloping sides, the straight line parallel to that side is drawn. A quadrilateral contained in the triangle is thus determined: how many centimetres is its perimeter?
+> A) 7
+>
+> B) 10,5
+> C) 14
+>
+> D) 17,5
+> E) The answer depends on the length of the third side.
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q02|src_kangourou_2014_junior__Q02]]
 
 
 
@@ -121,19 +139,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the inequality between the lengths of the wires and the correct*
+*Which inequality between the line lengths is correct*
 
 ![[src_kangourou_2014_junior__prob3.png]]
 
-> If a, b and c denote in the order the lengths (in the same unit of measurement) of the three lines in the figure, which of the following is correct? A) a < b < c
-> 	
+> If a, b and c denote, in that order, the lengths (in the same unit of measurement) of the three lines in the figure, which of the following relations is correct?
+> A) a < b < c
+>
 > B) a < c < b
-> 	
+>
 > C) b < a < c
->          
+>
 > D) b < c < a
-> 	
+>
 > E) c < b < a
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q03|src_kangourou_2014_junior__Q03]]
 
 
 
@@ -164,18 +189,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number equidistant from 2/3 and 4/5 on the number line*
+*Number between two values*
 
 > Which of the following numbers lies between      and       ?
-> A) 	
-> 	
-> B) 	
-> 	
-> C) 	
-> 	
-> D) 	
-> 	
+> A)
+>
+> B)
+>
+> C)
+>
+> D)
+>
 > E)
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q04|src_kangourou_2014_junior__Q04]]
 
 
 
@@ -226,18 +257,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many years ago did the last figure exceed the sum of the others?
+*How many years since the last digit was greater than the sum of the others*
 
-> In writing the number 2014, the last digit is greater than the sum of the remaining three digits. How many years have passed since the last year, before this, when this same circumstance occurred? A) 1
-> 	
-> B) 3
-> 	
-> C) 5
-> 	
-> D) 7
-> 	
-> E) 11 2---- 3 4---- 5 11 ------ 15 7---- 8 7 ----- 11 6 ------ 15 5---- 8
+> In the written form of the number 2014, the last digit is greater than the sum of the three remaining digits. How many years have passed since the last year before this one in which this same circumstance occurred?
+> A) 1
 >
+> B) 3
+>
+> C) 5
+>
+> D) 7
+>
+> E) 11
+> 2---- 3 4---- 5 11 ------ 15 7---- 8 7 ----- 11 6 ------ 15 5---- 8
+>
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q05|src_kangourou_2014_junior__Q05]]
 
 
 
@@ -278,17 +317,23 @@ How many years ago did the last figure exceed the sum of the others?
 
 ![[src_kangourou_2014_junior__prob6.png]]
 
-> The length of the sides of the large regular hexagon in the figure is twice the length of the sides of the small regular hexagon. The area of the small hexagon is 4 cm2. How many square centimetres is the area of the large hexagon? A) 16
-> 	
+> The length of the sides of the large regular hexagon in the figure is twice the length of the sides of the small regular hexagon. The area of the small hexagon is 4 cm2. How many square centimetres is the area of the large hexagon?
+> A) 16
+>
 > B) 14
-> 	
+>
 > C) 12
-> 	
+>
 > D) 10
-> 	
+>
 > E) 8
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q06|src_kangourou_2014_junior__Q06]]
 
 
 
@@ -324,23 +369,28 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Denial of 'each solved more than 20 problems'*
+*Negation of “everyone has solved more than 20 problems”*
 
-> What is the negation of the following statement: Everyone has solved more than 20 problems?
-> 	
-> A) No one has solved more than 20 problems.
->        
-> 	
-> B) Someone solved less than 21 problems.
-> 	
-> C) Each solved less than 21 problems.
-> 	
-> D) Someone solved exactly 20 problems.
->         
-> 	
+> What is the negation of the following statement: “Everyone has solved more than 20 problems”?
+>
+> A) None has solved more than 20 problems.
+>
+>
+> B) Someone has solved fewer than 21 problems.
+>
+> C) Everyone has solved fewer than 21 problems.
+>
+> D) Someone has solved exactly 20 problems.
+>
+>
 > E) Someone has solved more than 20 problems.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q07|src_kangourou_2014_junior__Q07]]
 
 
 
@@ -374,9 +424,20 @@ How many years ago did the last figure exceed the sum of the others?
 
 *Coordinates of a vertex of the square with diagonal on the x-axis*
 
-> Referred to an ordinary system of orthogonal Cartesian axes, the position of a square is such that one of its diagonals lies on the x-axis. The coordinates of the two vertices on this axis are given by the pairs (–1,0) and (5,0). Which of the following pairs gives the coordinates of one of the remaining vertices? A) (2, 0) B) (2, 3) C) (2, – 6) D) (3, 5) E) (3, – 1)
+> Referred to an ordinary system of orthogonal Cartesian axes, the position of a square is such that one of its diagonals lies on the x-axis. The coordinates of the two vertices that lie on this axis are given by the pairs (–1,0) and (5,0). Which of the following pairs gives the coordinates of one of the remaining vertices?
+> A) (2, 0)
+> B) (2, 3)
+> C) (2, – 6)
+> D) (3, 5)
+> E) (3, – 1)
 
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q08|src_kangourou_2014_junior__Q08]]
 
 
 
@@ -407,11 +468,21 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Adult to youth ratio from data reports*
+*Adults to young people*
 
-> In one village the ratio of the number of adult males to the number of adult females is 2:3, while the ratio of the number of adult females to the number of young people is 8:1. What is the ratio between the number of adults (men and women) and the number of young people? A) 5:1 B) 10:3 C) 13:1 D) 12:1 E) 40:3
+> In a certain village the ratio of the number of adult men to the number of adult women is 2:3, while the ratio of the number of adult women to the number of young people is 8:1. What is the ratio of the number of adults (men and women) to the number of young people?
+> A) 5:1
+> B) 10:3
+> C) 13:1
+> D) 12:1
+> E) 40:3
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q09|src_kangourou_2014_junior__Q09]]
 
 
 
@@ -451,17 +522,27 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Meters for the valves to come back down (mcm)*
+*Metres until the valves return to the bottom (LCM)*
 
 ![[src_kangourou_2014_junior__prob10.png]]
 
-> The circumference of the large wheel of a historic bicycle is 4.2 m long, the circumference of the small wheel is 0.9 m long. At a certain moment, the valves on both wheels are at the lowest possible point. The bicycle moves in a straight line. After how many meters of route will both valves be in this same position again for the first time? A) 4,2 B) 6,3
-> 	
-> C) 12,6 D) 25,2 E) 37,8
-> 
-> Questions from n. 11 to n. 20 are worth 4 points each.
+> The circumference of the large wheel of a historic bicycle is 4.2 m long; the circumference of the small wheel is 0.9 m long. At a certain instant, the valves of both wheels are at the lowest possible point. The bicycle moves in a straight line. After how many metres of travel will both valves be in this same position again for the first time?
+> A) 4,2
+> B) 6,3
+>
+> C) 12,6
+> D) 25,2
+> E) 37,8
+>
+> Questions 11 to 20 are worth 4 points each
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q10|src_kangourou_2014_junior__Q10]]
 
 
 
@@ -494,17 +575,24 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum power of 3 distinct powers with sum of 1000*
+*Minimum distinct powers of 3 summing to 1000*
 
-> I want to express the number 1,000 as the sum of the powers of 3 all different from each other. What is the smallest number of powers of 3 that I can add up to achieve the goal? A) 2
-> 	
+> I want to express the number 1,000 as a sum of powers of 3 that are all different from each other. What is the smallest number of powers of 3 which, added together, allow me to achieve this aim?
+> A) 2
+>
 > B) 3
-> 	
+>
 > C) 4
-> 	
-> D) 6 E) The project cannot be carried out.
+>
+> D) 6
+> E) It is not possible to realise the project.
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q11|src_kangourou_2014_junior__Q11]]
 
 
 
@@ -543,21 +631,27 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which painting is closest to the floor*
+*Which picture is closest to the floor*
 
 ![[src_kangourou_2014_junior__prob12.png]]
 
-> Paul hung five large rectangular paintings on the walls. For each of them he planted a nail 2.5 m from the floor and used a 2 m long rope, hanging the painting as shown in the figure. Which of the following paintings is closest to the floor? (The measurements indicate, in order, the width and height of the painting in centimetres.) A) 60×40
-> 	
+> Paolo has hung five large rectangular pictures on the walls. For each of them he has driven a nail 2.5 m from the floor and used a cord 2 m long, hanging the picture as the figure shows you. Which of the following pictures ends up closest to the floor? (The measurements indicate, in order, the width and the height of the picture in centimetres.)
+> A) 60×40
+>
 > B) 120×50
-> 	
+>
 > C) 120×90
->         
+>
 > D) 160×60
-> 	
+>
 > E) 160×100
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q12|src_kangourou_2014_junior__Q12]]
 
 
 
@@ -604,7 +698,7 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the regular octagon given shaded region*
+*Area of the regular octagon given the shaded region*
 
 ![[src_kangourou_2014_junior__prob13.png]]
 
@@ -619,15 +713,23 @@ How many years ago did the last figure exceed the sum of the others?
 \end{document}
 ```
 
-> In the figure, you see a regular octagon. The area of the shaded region is 3 cm2. What is the area of the octagon in square centimetres? A) 8+4 B) 9
-> 	
+> In the figure you see a regular octagon. The area of the shaded region is 3 cm2. What is the area of the octagon, in square centimetres?
+> A) 8+4
+> B) 9
+>
 > C) 8
->               
+>
 > D) 12
-> 	
+>
 > E) 14
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q13|src_kangourou_2014_junior__Q13]]
 
 
 
@@ -657,11 +759,21 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Crocodile length including head and tail*
+*Length of the crocodile including head and tail*
 
-> A crocodile's tail is one-third of its total length. The head is 93 cm long, exactly a quarter of the crocodile's length if you don't count the tail. How long is the crocodile, including head and tail? A) 558 B) 496 C) 490 D) 372 E) 186
+> The tail of a crocodile is one third of its total length. The head is 93 cm long, exactly a quarter of the crocodile if the tail is not counted. How many centimetres long is the crocodile, including head and tail?
+> A) 558
+> B) 496
+> C) 490
+> D) 372
+> E) 186
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q14|src_kangourou_2014_junior__Q14]]
 
 
 
@@ -698,21 +810,27 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number opposite to 14 on the die with prime faces*
+*Number opposite 14 on the die with prime faces*
 
 ![[src_kangourou_2014_junior__prob15.png]]
 
-> The figure shows a die with unusually numbered faces. However, the sum of the two numbers appearing on opposite faces is always the same. The invisible numbers are all (integer) prime numbers. What's the number opposite to 14? A) 11
-> 	
+> The figure shows a die with faces numbered in an unusual way. However, the sum of the two numbers that appear on opposite faces is always the same. The numbers that are not visible are all prime integers. What is the number opposite 14?
+> A) 11
+>
 > B) 13
-> 	
+>
 > C) 17
-> 	
+>
 > D) 19
-> 	
+>
 > E) 23
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q15|src_kangourou_2014_junior__Q15]]
 
 
 
@@ -751,18 +869,26 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes of running at an average speed of 5 km/h*
+*Minutes of running for an average speed of 5 km/h*
 
-> Giulio wants to do some exercise. Until this moment he walked 8 km at a speed of 4 km/h. From now on, he starts running at twice his speed. How many minutes does he have to run if he wants his average speed to be 5 km/h? A) 15 B) 20
-> 	
+> Giulio wants to get a bit of exercise. Up to this moment he has walked 8 Km at a speed of 4 Km per hour. From now on he starts running, doubling his speed. How many minutes must he run if he wants his average speed, at the end, to be 5 Km per hour?
+> A) 15
+> B) 20
+>
 > C) 30
-> 	
+>
 > D) 35
-> 	
+>
 > E) 40
+> 2 √ 2 √
 >
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q16|src_kangourou_2014_junior__Q16]]
 
 
 
@@ -796,19 +922,26 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (x,y) where x divides y+1 and y divides x+1*
+*Ordered pairs (x, y) with x dividing y + 1 and y dividing x + 1*
 
-> How many (ordered) pairs (x, y) of positive integers are such that x divides y + 1 and y divides x + 1? A) 1
-> 	
+> How many ordered pairs (x, y) of positive integers are such that x divides y + 1 and y divides  x + 1?
+> A) 1
+>
 > B) 2
-> 	
+>
 > C) 3
-> 	
+>
 > D) 4
-> 	
+>
 > E) 5
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q17|src_kangourou_2014_junior__Q17]]
 
 
 
@@ -843,19 +976,25 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Win-loss difference in chess (40 matches, 25 points)*
+*Wins minus losses at chess (40 games, 25 points)*
 
-> In a tournament, a chess player played 40 games earning 25 points: one point for each game won, half for each game drawn and zero for each game lost. What's the difference between the number of games he won and the number of games he lost? A) 5
-> 	
+> In a tournament a chess player played 40 games, earning 25 points: one point for each game won, half for each game drawn and zero for each game lost. What is the difference between the number of games he won and the number of games he lost?
+> A) 5
+>
 > B) 7
-> 	
+>
 > C) 10
-> 	
+>
 > D) 12
-> 	
+>
 > E) 15
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q18|src_kangourou_2014_junior__Q18]]
 
 
 
@@ -894,17 +1033,23 @@ How many years ago did the last figure exceed the sum of the others?
 
 *Cost of an umbrella before the discount*
 
-> Anna, Bice and Chiara wanted to buy, one for each, three identical umbrellas. However, Anna lacked a third of the money needed, Bice a quarter and Chiara a fifth. When the sale period came, the price of those umbrellas fell by 9.40 euros each, the three girls combined their savings to buy the three umbrellas. Not even a penny was left over. How much did an umbrella cost before the discount? A) 12
-> 	
+> Anna, Bice and Chiara wanted to buy three identical umbrellas, one each. However, Anna was short of a third of the money needed, Bice of a quarter and Chiara of a fifth. When the sales period arrived, the price of those umbrellas fell by 9.40 euros each, and the three girls, pooling their savings, managed to buy the three umbrellas. Not even a cent was left over. How many euros did an umbrella cost before the discount?
+> A) 12
+>
 > B) 16
-> 	
+>
 > C) 28
-> 	
+>
 > D) 36
-> 	
+>
 > E) 112
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q19|src_kangourou_2014_junior__Q19]]
 
 
 
@@ -938,21 +1083,26 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product pqr with p+1/(q+1/r)=25/19*
+*Product pqr*
 
-> Three positive integers p, q and r are such that  p +                =         . 
-> What is the value of the product pqr ?
-> A) 6	
-> 	
-> B) 10	
-> 	
+> Three positive integers p, q and r are such that  p +                =         . What is the value of the product pqr?
+> A) 6
+>
+> B) 10
+>
 > C) 18
-> D) 36	
-> 	
+> D) 36
+>
 > E) 42
-> Questions from no. 21 to no. 30 are worth 5 points each
+> The questions from question 21 to question 30 are worth 5 points each.
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q20|src_kangourou_2014_junior__Q20]]
 
 
 
@@ -989,20 +1139,26 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solutions of N×U×(M+E+R+O)=33 with distinct digits*
+*Distinct-digit solutions of N×U×(M+E+R+O)=33*
 
-> Consider the equation  N × U × ( M + E + R + O ) = 33, where each letter represents an unknown. The admissible values for the unknowns are only the ten available digits (0, 1, 2, ..., 9) and different unknowns must be assigned different values. How many admissible solutions are there based on these criteria? (Each solution is an ordered sextuple of digits.)
-> A) 12	
-> 	
-> B) 24	
-> 	
-> C) 30	
-> 	
-> D) 48	
-> 	
+> Consider the equation  N × U × ( M + E + R + O ) = 33, where each letter represents an unknown. The admissible values for the unknowns are only the ten available digits (0, 1, 2, ..., 9) and different unknowns must be assigned different values. How many admissible solutions are there according to these criteria? (Each solution is an ordered sextuple of digits.)
+> A) 12
+>
+> B) 24
+>
+> C) 30
+>
+> D) 48
+>
 > E) 60
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q21|src_kangourou_2014_junior__Q21]]
 
 
 
@@ -1049,22 +1205,30 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimize segments so that each circle has the same degree*
+*Minimum segments for equal degree*
 
 ![[src_kangourou_2014_junior__prob22.png]]
 
-> Look at the figure. Clara wants to add the smallest possible number of segments with two circles at the ends so as to obtain the following result: from each of the seven circles the same number of segments starts. What's the least number of segments she has to draw? A) 4
-> 	
+> Look at the figure. Clara wants to add the smallest possible number of segments whose endpoints are two small circles, in order to obtain the following result: the same number of segments starts from each of the seven small circles. What is the smallest number of segments that she must draw?
+> A) 4
+>
 > B) 5
-> 	
+>
 > C) 6
-> 	
+>
 > D) 9
-> 	
-> E) 10 1 ----------- q +  1--- r 25 ------ 19
+>
+> E) 10
+> 1 ----------- q +  1--- r 25 ------ 19
 >
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q22|src_kangourou_2014_junior__Q22]]
 
 
 
@@ -1102,21 +1266,28 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum black cubes from two cube views*
+*Maximum black small cubes from two views of the cube*
 
 ![[src_kangourou_2014_junior__prob23.png]]
 
-> The figure shows the same cube seen from two different points. The cube is formed by placing 27 small cubes side by side, some black and some white. How many of the 27 cubes can be black at most? A) 5
-> 	
+> The figure shows the same cube viewed from two different points. The cube is formed by joining together 27 small cubes, some black and some white. At most, how many of the 27 small cubes can be black?
+> A) 5
+>
 > B) 7
-> 	
+>
 > C) 8
-> 	
+>
 > D) 9
-> 	
+>
 > E) 10
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q23|src_kangourou_2014_junior__Q23]]
 
 
 
@@ -1149,11 +1320,21 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage change in total number of frogs*
+*Percentage change in the total number of frogs*
 
-> On an island there are only green frogs and blue frogs. Compared to a year ago, the number of blue frogs increased by 60% while the number of green frogs decreased by 60%. Today, the ratio of blue frog numbers to green frog numbers is the same as it was a year ago between green frog numbers and blue frog numbers. What percentage of the total number of frogs on the island has varied from one year ago? A) 0% B) 20% C) 30% D) 40% E) 50%
+> On an island there are only green frogs and blue frogs. Compared with a year ago, the number of blue frogs has increased by 60% while the number of green frogs has decreased by 60%. Today the ratio of the number of blue frogs to the number of green frogs is equal to the ratio of the number of green frogs to the number of blue frogs a year ago. By what percentage has the total number of frogs on the island changed compared with a year ago?
+> A) 0%
+> B) 20%
+> C) 30%
+> D) 40%
+> E) 50%
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q24|src_kangourou_2014_junior__Q24]]
 
 
 
@@ -1188,19 +1369,26 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum distinct numbers <=100 with product not divisible by 18*
+*Maximum distinct positives at most 100 with product not divisible by 18*
 
-> Enrico wrote some positive integers, all of which are not more than 100 and all of which are distinct. Their product is not divisible by 18. How many numbers can he have written, at most? A) 5
-> 	
+> Enrico has written some positive integers, none greater than 100, all distinct from each other. Their product is not divisible by 18. How many numbers can he have written, at most?
+> A) 5
+>
 > B) 17
-> 	
+>
 > C) 68
-> 	
+>
 > D) 69
-> 	
+>
 > E) 90
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q25|src_kangourou_2014_junior__Q25]]
 
 
 
@@ -1234,19 +1422,26 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles (cube vertices) not contained in any face*
+*Triangles (vertices of the cube) not contained in any face*
 
-> Assigned a cube, consider all triangles whose vertices are vertices of the cube. How many of these triangles are not contained in any face of the cube? A) 16
-> 	
+> Given a cube, consider all the triangles whose vertices are vertices of the cube. How many of these triangles are not contained in any face of the cube?
+> A) 16
+>
 > B) 24
-> 	
+>
 > C) 32
-> 	
+>
 > D) 40
-> 	
+>
 > E) 48
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q26|src_kangourou_2014_junior__Q26]]
 
 
 
@@ -1304,7 +1499,7 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure of the angle TBP (tangent and biset)*
+*Measure of angle TBP (tangent and bisector)*
 
 ![[src_kangourou_2014_junior__prob27.png]]
 
@@ -1329,9 +1524,20 @@ How many years ago did the last figure exceed the sum of the others?
 \end{document}
 ```
 
-> A circle with centre O appears in the figure. The point P is external to it, the straight PT is tangent to it at point T and the straight PB is the bisector of the TPA angle. What is the measurement in degrees of the angle TBP ? A) 30° B) 45° C) 60° D) 75° E) Depends on the location of the point P.
+> In the figure there appears a circle with centre O. The point P is outside it, the straight line PT is tangent to it at the point T and the straight line PB is the bisector of angle TPA. What is the measure in degrees of angle TBP?
+> A) 30°
+> B) 45°
+> C) 60°
+> D) 75°
+> E) It depends on the position of point P.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q27|src_kangourou_2014_junior__Q27]]
 
 
 
@@ -1373,18 +1579,31 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last number of the first half of the permutations of 1..7.*
+*Last number of the first half of the permutations of 1..7*
 
-> Consider the set of all the seven-digit numbers that can be formed using each of the seven digits 1, 2, 3, ..., 7. Now put these numbers in ascending order and break the list exactly in half. What is the last number of the first half? A) 3765421
-> 	
+> Consider the set of all seven-digit numbers that can be formed using, for each of them, all seven digits 1, 2, 3, ..., 7. Now place these numbers in increasing order and split the list thus obtained exactly in half. What is the last number of the first half?
+> A) 3765421
+>
 > B) 4123567
-> 	
+>
 > C) 4352617
->               
-> D) A number different from the previous E) It is impossible to split the list exactly in half because it consists of an odd number of numbers. P A T B O
+>
+> D) a different number from the ones above
+> E) It is impossible to divide the list exactly in half, because it consists of a nume­
+> ro odd of numbers. P
+> A
+> T
+> B
+> O
 >
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.6](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q28|src_kangourou_2014_junior__Q28]]
 
 
 
@@ -1445,7 +1664,7 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the AFDE quadrilateral in the triangle with square*
+*Area of quadrilateral AFDE in the triangle with a square*
 
 ![[src_kangourou_2014_junior__prob29.png]]
 
@@ -1469,11 +1688,21 @@ How many years ago did the last figure exceed the sum of the others?
 \end{document}
 ```
 
-> Look at the figure. ABC is a triangle in which the side AB is 6 cm long, the side AC is 8 cm long and the side BC is 10 cm long. M is the middle point of the BC side, AMDE is a square whose MD side intersects the AC side of the triangle at point F. What is the area of the AFDE quadrilateral in cm2? ATTENTION: the figure is purely indicative of the arrangement of the points and does not respect, even on a scale, the measures provided by the data (or which can be deduced from them). A) 15,175 B) 15,625 C) 15,825 D) 15
-> 	
+> Look at the figure. ABC is a triangle in which side AB is 6 cm long, side AC is 8 cm long and side BC is 10 cm long. M is the midpoint of side BC. AMDE is a square whose side MD intersects side AC of the triangle at the point F. What is the area, in cm2, of quadrilateral AFDE? Warning: the figure is purely indicative of the arrangement of the points and does not respect, not even to scale, the measurements given by the data (or that can be deduced from them).
+> A) 15,175
+> B) 15,625
+> C) 15,825
+> D) 15
+>
 > E) 15,375
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.6](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q29|src_kangourou_2014_junior__Q29]]
 
 
 
@@ -1515,17 +1744,15 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many liars are there in the row of 2014 people*
+*How many liars in the queue of 2014 people*
 
-> There are 2014 people in a row. Each of them is either a liar (always lies) or 
-> a knight (always tells the truth). Each of them states: "There are more liars 
-> in front of me than knights behind me". How many liars are there in the row? 
-> A) 0	
-> 	
-> B) 1	
-> 	
-> C) 1007		
-> D) 1008		
+> There are 2014 people in a queue. Each of them is either a liar (always lies) or a knight (always tells the truth). Each of them says: “There are more liars in front of me than knights behind me”. How many liars are there in the queue?
+> A) 0
+>
+> B) 1
+>
+> C) 1007
+> D) 1008
 > E) 2014
 > A
 > B
@@ -1534,10 +1761,16 @@ How many years ago did the last figure exceed the sum of the others?
 > E
 > F
 > D
-> 
+>
 > STRINGA JUNIOR 2014
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+**Source:** [open PDF p.6](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+[[Quesiti/src_kangourou_2014_junior#q30|src_kangourou_2014_junior__Q30]]
 
 
 
@@ -1568,10 +1801,21 @@ How many years ago did the last figure exceed the sum of the others?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many liars in the 2014 lineup*
+*How many liars in the queue of 2014 people*
 
 > In the figure, you see a regular octagon. The area of the shaded region is $3 \text{ cm}^2$. What is the area of the octagon in square centimeters?
-> 
+>
 > (see figure)
-> 
-> A) $8+4\sqrt{2}$ B) $9$ C) $8\sqrt{2}$ D) $12$ E) $14$
+>
+> A) $8+4\sqrt{2}$
+> B) $9$
+> C) $8\sqrt{2}$
+> D) $12$
+> E) $14$
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2014_junior#q31|src_kangourou_2014_junior__Q31]]

@@ -30,9 +30,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca soluzioni di numeri interi non negativi all'equazione diofantina esponenziale*
+*Terzine di interi non negativi $x$, $y$, $z$ tali che $2^x + 3^y = z^2$*
 
-> Determinare tutti gli insiemi di integri non negativi $x$, $y$, $z$ che soddisfano l'equazione $$2^x + 3^y = z^2.$$
+> Determinare tutti gli insiemi di interi non negativi $x$, $y$, $z$ che soddisfano l'equazione
+> $$2^x + 3^y = z^2.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1996#q01|src_bmo2_1996__Q01]]
 
 
 
@@ -57,9 +65,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due triangoli con lati correlati; dimostrare angolo rettangolo e trovare angoli*
+*Il triangolo $ABC$ è rettangolo, e gli angoli $U$, $V$, $W$ in funzione di $A$, $B$, $C$*
 
-> I lati $a$, $b$, $c$ e $u$, $v$, $w$ di due triangoli $ABC$ e $UVW$ sono correlati dalle equazioni $$v(u + v - w) = a^2, \quad u(u + v - w) = b^2, \quad w(u + v - w) = c^2.$$ Prove che il triangolo $ABC$ sia rettangolare ed esprime gli angoli $U$, $V$, $W$ in termini di $A$, $B$, $C$.
+> I lati $a$, $b$, $c$ e $u$, $v$, $w$ di due triangoli $ABC$ e $UVW$ sono legati dalle equazioni
+> $$v(u + v - w) = a^2, \quad u(u + v - w) = b^2, \quad w(u + v - w) = c^2.$$
+> Dimostrare che il triangolo $ABC$ è rettangolo ed esprimere gli angoli $U$, $V$, $W$ in funzione di $A$, $B$, $C$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1996#q02|src_bmo2_1996__Q02]]
 
 
 
@@ -82,9 +99,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre cerchi reciprocamente tangenti; dimostrare che una linea è una tangente comune*
+*Dimostrare che $B_1 B_2$ è una tangente comune a $S_1$ e $S_2$*
 
-> Due cerchi $S_1$ e $S_2$ si toccano all'esterno a $K$; toccano anche un cerchio $S$ all'interno rispettivamente a $A_1$ e $A_2$. Il punto di intersezione di $S$ deve essere $P$ con la tangente comune di $S_1$ e $S_2$ a $K$. La riga $PA_1$ incontra di nuovo $S_1$ a $B_1$ e $PA_2$ incontra di nuovo $S_2$ a $B_2$. Prova che $B_1 B_2$ è una tangente comune di $S_1$ e $S_2$.
+> Due circonferenze $S_1$ e $S_2$ sono tangenti esternamente in $K$; toccano inoltre internamente una circonferenza $S$ rispettivamente in $A_1$ e in $A_2$. Sia $P$ un punto di intersezione di $S$ con la tangente comune a $S_1$ e $S_2$ in $K$. La retta $PA_1$ seca di nuovo $S_1$ in $B_1$, e $PA_2$ seca di nuovo $S_2$ in $B_2$. Dimostrare che $B_1 B_2$ è una tangente comune a $S_1$ e $S_2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1996#q03|src_bmo2_1996__Q03]]
 
 
 
@@ -111,6 +135,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i reali positivi che soddisfano due equazioni simmetriche in quattro variabili*
+*Valori possibili di $a$, $b$, $c$, $d$ con somma 12 e quel vincolo sul prodotto*
 
-> Che $a$, $b$, $c$, $d$ siano numeri reali positivi in modo tale che $$a + b + c + d = 12$$ e $$abcd = 27 + ab + ac + ad + bc + bd + cd.$$ Trovino tutti i possibili valori di $a$, $b$, $c$, $d$ che soddisfano queste equazioni.
+> Siano $a$, $b$, $c$, $d$ numeri reali positivi tali che
+> $$a + b + c + d = 12$$
+> e
+> $$abcd = 27 + ab + ac + ad + bc + bd + cd.$$
+> Trovare tutti i valori possibili di $a$, $b$, $c$, $d$ che soddisfano queste equazioni.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1996#q04|src_bmo2_1996__Q04]]

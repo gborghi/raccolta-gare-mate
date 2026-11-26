@@ -30,20 +30,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 5618
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In front of the Swabian Aqueduct (Cecilia Oliveri)*
+*In front of the Swabian Aqueduct, Cecilia Oliveri*
 
 ![[src_squadre_2021_femminile_qualif__prob1.png]]
 
-> In front of the Swabian Aqueduct (Cecilia Oliveri)
-> Piero (contemplating the Swabian Aqueduct in Sulmona): Starting from a right triangle whose smallest angle measures 30°, construct a triangle similar to it whose longer leg coincides with the hypotenuse of the first. (Sandro listens to him while looking closely at the arches of the aqueduct) Repeat the operation another 11 times. What is the ratio between the longer leg of the largest triangle and that of the smallest triangle? [Give as the answer the ratio multiplied by 1000.]
+> In front of the Swabian Aqueduct, Cecilia Oliveri Piero (Contemplating the Swabian Aqueduct in Sulmona): Starting from a right-angled triangle whose smaller angle measures 30°, construct a triangle similar to it such that its longer leg coincides with the hypotenuse of the first triangle. (Sandro listens to him while looking closely at the arches of the aqueduct.) Repeat the operation 11 more times. What is the ratio between the longer leg of the largest triangle and that of the smallest triangle? [Give the ratio multiplied by 1000 as the answer.]
 
-**Answer:** 5618
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q01|src_squadre_2021_femminile_qualif__Q01]]
 
 
 
@@ -69,26 +71,19 @@ level: squadre
 > Sergio fuori dalla cucina.)
 
 **Risposta:** 0500
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The Crema cake (Sandro Campigotto)*
+*Sandro Campigotto's Cream Cake*
 
 ![[src_squadre_2021_femminile_qualif__prob2.png]]
 
-> The Crema cake (Sandro Campigotto)
-> In Crema, Giulia is getting ready for the selection for a very famous television baking competition.
-> Giulia: The recipe for the cake I want to make calls for 320 g of flour for a circular tin 24 cm in diameter.
-> Sergio: But that's too small.
-> Giulia: I know: in fact I make it in a circular tin with a radius of 15 cm.
-> Sergio: But that's smaller!
-> Giulia (disheartened): No, it's bigger; the height stays the same too.
-> Sergio: But how do the quantities change? How many grams of flour will you have to use? (Giulia throws Sergio out of the kitchen.)
+> Sandro Campigotto's Cream Cake In Crema, Giulia is preparing for the selection round for a very famous television baking competition. Giulia: The recipe for the cake I want to make calls for 320 g of flour for a circular baking pan 24 cm in diameter. Sergio: But it's too small. Giulia: I know—in fact, I'll make it in a circular pan with a radius of 15 cm. Sergio: But it's smaller! Giulia (dejected): No, it's bigger; the height stays the same too. Sergio: But how do the quantities change? How many grams of flour will you have to use? (Giulia shoos Sergio out of the kitchen.)
 
-**Answer:** 0500
+[[Quesiti/src_squadre_2021_femminile_qualif#q02|src_squadre_2021_femminile_qualif__Q02]]
 
 
 
@@ -118,25 +113,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1310
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*From San Lorenzo al Mare (Matteo Di Domenico)*
+*From San Lorenzo al Mare, Matteo Di Domenico*
 
 ![[src_squadre_2021_femminile_qualif__prob3.png]]
 
-> From San Lorenzo al Mare (Matteo Di Domenico)
-> In western Liguria, between San Lorenzo al Mare and Ospedaletti, a magnificent cycle path runs along the coast. The potholes along the way, however, are a problem.
-> Shadi: You have an incredible number of spokes on your wheels!
-> Maurizio (stationary on his bicycle): There are 250 per wheel, evenly distributed. So it is very likely that a spoke is perpendicular to the ground, as at this moment, for example.
-> Maurizio: You've seen the cycle path: every 1.04 m, starting from where my front wheel touches the ground at this moment, I will find a pothole; each pothole loosens one of the spokes.
-> Shadi: Be careful: after two impacts at the same spoke the wheel gives way, and you will be forced to stop to adjust them all.
-> Maurizio: The inner circumference of a wheel, to which the spokes are attached, measures 24 dm; the outer circumference measures 25 dm. How many decimetres will I have travelled when the wheel first gives way?
+> From San Lorenzo al Mare, Matteo Di Domenico: In the western part of Liguria, between San Lorenzo al Mare and Ospedaletti, a magnificent cycle path runs along the coast. The potholes along the route, however, are a problem. Shadi: You've got an incredible number of spokes on your wheels! Maurizio (standing still on his bicycle): There are 250 spokes per wheel, evenly distributed. So it's very likely that one spoke will be perpendicular to the ground—for example, right now. Maurizio: You've seen the cycle path: every 1.04 m, starting from where my front wheel touches the ground right now, I'll come across a pothole; each pothole loosens one of the spokes. Shadi: Watch out—after two impacts on the same spoke, the wheel will give way, and you'll have to stop to adjust all the spokes. Maurizio: The inner circumference of a wheel, where the spokes attach, is 24 dm; the outer circumference is 25 dm. How many decimetres will I have traveled by the first time the wheel gives way?
 
-**Answer:** 1310
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q03|src_squadre_2021_femminile_qualif__Q03]]
 
 
 
@@ -161,23 +153,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1428
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In the Cave of Wonders (Sandro Campigotto)*
+*In the Grotto of Wonders, Sandro Campigotto*
 
 ![[src_squadre_2021_femminile_qualif__prob4.png]]
 
-> In the Cave of Wonders (Sandro Campigotto)
-> For anyone in Basilicata who wants to visit the fantastic Cave of Wonders in Maratea, it is a lucky day: Mario has decided to give a free ticket to whoever manages to solve his questions.
-> Mario: How many numbers between 1 and 10000 can be written as the sum of 7 consecutive integers?
-> Elena (used to the requests of mathematics team competitions): Endpoints included?
-> Mario: Yes.
+> In the Grotta delle Meraviglie, Sandro Campigotto: For those in Basilicata who wish to visit the fantastic Grotta delle Meraviglie in Maratea, it's a lucky day: Mario has decided to give the ticket as a gift to whoever manages to solve his puzzles. Mario: How many numbers between 1 and 10000, inclusive, can be written as the sum of 7 consecutive integers? Elena (Used to the demands of team mathematics competitions): Inclusive? Mario: Yes.
 
-**Answer:** 1428
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q04|src_squadre_2021_femminile_qualif__Q04]]
 
 
 
@@ -205,29 +196,19 @@ level: squadre
 > [Fornire come risposta l’età del figlio maggiore moltiplicata per l’età di uno dei gemelli.]
 
 **Risposta:** 0030
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In Torbole (Silvia Sconza)*
+*To Torbole, Silvia Sconza*
 
 ![[src_squadre_2021_femminile_qualif__prob5.png]]
 
-> In Torbole (Silvia Sconza)
-> In Torbole two friends, Clara and Sofia, are strolling along the shore of Lake Garda, chatting.
-> Clara: How old are your children now?
-> Sofia: They are growing up now; they are all more than one year old.
-> Clara: You mean they have all already had at least their second birthday?
-> Sofia: Yes. And the product of their ages is 360.
-> Clara: That isn't enough for me to determine your children's ages precisely.
-> Sofia: Half the sum of their ages is equal to the number of your house.
-> Clara: I still can't determine their ages.
-> Sofia: My two twins have eyes as blue as the water of the lake today, and with this last piece of information you should be able to determine the ages of all four of my children.
-> Clara: You're right, now I understand. [Give as the answer the age of the eldest child multiplied by the age of one of the twins.]
+> At Torbole, Silvia Sconza: At Torbole, two friends, Clara and Sofia, are walking along the shore of Lake Garda and chatting. Clara: How old are your children now? Sofia: They're starting to get big now—they're all over one year old. Clara: Do you mean that they've all already had at least their second birthday? Sofia: Yes. And the product of their ages is 360. Clara: That's not enough for me to determine your children's ages precisely. Sofia: The semi-sum of their ages equals the house number of your home. Clara: I still can't determine their ages. Sofia: My two twins have blue eyes like the lake water is today, and with this last piece of information, you should be able to determine the ages of all four of my children. Clara: You're right—I've got it now. [Provide as the answer the age of the oldest child multiplied by the age of one of the twins.]
 
-**Answer:** 0030
+[[Quesiti/src_squadre_2021_femminile_qualif#q05|src_squadre_2021_femminile_qualif__Q05]]
 
 
 
@@ -250,21 +231,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0651
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In Cesenatico (Giuseppe Rosolini)*
+*In Cesenatico, Giuseppe Rosolini*
 
 ![[src_squadre_2021_femminile_qualif__prob6.png]]
 
-> In Cesenatico (Giuseppe Rosolini)
-> Domenico: In Cesenatico one person in 10 has had measles.
-> Daniele: I've already had it. (He goes out, walks towards the sports hall in viale Magellano and meets 10 people. To himself...) What is the probability that I have met at least one person who has had measles? [Give as the answer the result multiplied by 1000]
+> In Cesenatico, Giuseppe Rosolini Domenico: In Cesenatico, one in ten people has had measles. Daniele: I've already had it. (He leaves, heads toward the small sports hall on Viale Magellano, and meets 10 people. To himself... ) What is the probability that I have met at least one person who has had measles? [Give the result multiplied by 1000 as the answer]
 
-**Answer:** 0651
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q06|src_squadre_2021_femminile_qualif__Q06]]
 
 
 
@@ -289,22 +271,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0112
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Castel del Monte (Sandro Campigotto)*
+*Il Castel del Monte Sandro Campigotto*
 
 ![[src_squadre_2021_femminile_qualif__prob7.png]]
 
-> Castel del Monte (Sandro Campigotto)
-> Elena: Castel del Monte is famous for the recurring number 8 in the various elements of its construction.
-> Paola: Just look at the towers: there are eight of them and they are octagonal.
-> Elena: And the inner courtyard is an octagon. Call its vertices A, B, C, D, E, F, G and H, starting from the one to the left of the main door and going anticlockwise. Given that AB = BC = CD = DE = EF = FG = GH = HA = 5 m, AC = CE = EG = GA = 8 m and AE = CG, what is the area of the octagon?
+> Il Castel del Monte Sandro Campigotto Elena Il Castel del Monte is famous for the recurring number 8 in the various elements of its construction. Paola Just look at the towers: there are eight of them, and they are octagonal. Elena And the inner courtyard is an octagon. Label the vertices A, B, C, D, E, F, G, and H, starting from the one to the left of the main gate and going counterclockwise. Given that AB = BC = CD = DE = EF = FG = GH = HA = 5 m, AC = CE = EG = GA = 8 m, and AE = CG, what is the area of the octagon?
 
-**Answer:** 0112
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q07|src_squadre_2021_femminile_qualif__Q07]]
 
 
 
@@ -334,24 +316,26 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3988
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In the Royal Palace of Caserta (Lorenzo Mazza)*
+*At the Royal Palace of Caserta, Lorenzo Mazza*
 
 ![[src_squadre_2021_femminile_qualif__prob8.png]]
 
-> In the Royal Palace of Caserta (Lorenzo Mazza)
-> Luigi (walking in the gardens of the palace): If you take four distinct integers a, b, c and d, and consider the six possible non-zero differences between them...
-> Daniele (interrupting him): There are twelve possible differences.
-> Luigi: You're right, sorry: I meant the mutual distances between different numbers, that is, the absolute values of the non-zero differences.
-> Daniele: All right: those are six. For example, taking 1, 3, 5 and 7 you mean |1 − 3|, |1 − 5|, |1 − 7|, |3 − 5|, |3 − 7| and |5 − 7|.
-> Luigi: Of course! Consider the product of the six distances I was talking about. In your example it is 24. Among all quadruples of integers (a, b, c, d) with 0 < a < b < c < d < 1000 such that the product of the six non-zero mutual distances is 120, which is the one for which the sum a + b + c + d is largest? [Give as the answer the sum of the four numbers found.]
+> At the Royal Palace of Caserta, Lorenzo Mazza Luigi (Strolling Through the Gardens of the Royal Palace): If you take four distinct integers a, b, c, and d, and consider the six possible differences among them that are not zero. . . Daniele (interrupting him): The possible differences are twelve. Luigi: You're right—sorry—I meant the mutual distances between distinct numbers, that is, the absolute values of the non-zero differences. Daniele: Agreed—there are six of those. For example, if you take 1, 3, 5, and 7, you mean |1 − 3|, |1 − 5|, |1 − 7|,
+> |3 − 5|, |3 − 7| e |5 − 7|.
+> Luigi, sure! Consider the product of the six distances I was talking about. In the example you gave, it is
+> 24. Among all quadruples of integers (a, b, c, d) with 0 < a < b < c < d < 1000 such that
+> The product of the six non-zero mutual distances is 120; which distance yields the maximum value of a + b + c + d? [Give as the answer the sum of the four numbers found.]
 
-**Answer:** 3988
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q08|src_squadre_2021_femminile_qualif__Q08]]
 
 
 
@@ -374,22 +358,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2022
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In Tropea (Lorenzo Mazza)*
+*To Tropea, Lorenzo Mazza*
 
 ![[src_squadre_2021_femminile_qualif__prob9.png]]
 
-> In Tropea (Lorenzo Mazza)
-> Lying on the shoreline, with their feet in the splendid crystal-clear waters of Tropea, Alessio and Valeria kill time by setting each other mathematical problems.
-> Valeria: How many integers 0 ≤ n ≤ 2021 are there such that the number 91^n − 48^n − 44^n + 1 is a multiple of 2021?
-> Alessio: Come on, this one's easy!
+> In Tropea, Lorenzo Mazza: Lying on the shoreline, with their feet submerged in Tropea's beautiful crystal-clear waters, Alessio and Valeria pass the time by posing math problems to each of them in turn. Valeria: How many integers n with 0 ≤ n ≤ 2021 are there such that 91^n − 48^n − 44^n + 1 is a multiple of 2021? Alessio: Come on, that's easy!
 
-**Answer:** 2022
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q09|src_squadre_2021_femminile_qualif__Q09]]
 
 
 
@@ -415,23 +399,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0000
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*On Lake Trasimeno (Lorenzo Mazza)*
+*On Lake Trasimeno, Lorenzo Mazza*
 
 ![[src_squadre_2021_femminile_qualif__prob10.png]]
 
-> On Lake Trasimeno (Lorenzo Mazza)
-> On Lake Trasimeno there are three almost completely uninhabited islands that attract many tourists thanks to the remains of medieval buildings. Michela and Elisa are in Castiglione del Lago, waiting for the ferry to Isola Maggiore.
-> Michela: If you solve the problem I set you, I'll pay for the ferry tickets; otherwise you pay.
-> Elisa: It arrives in 5 minutes; I can do it: go ahead!
-> Michela: Consider the polynomials p(x) = x^3 − 3x + 1 and q(x) = x^3 − 6x^2 + 9x − 1, and let r be the largest of the real roots of the polynomial p(x). What is q(r^2)?
+> On Lake Trasimeno, Lorenzo Mazza: On Lake Trasimeno, there are three almost completely uninhabited islands that attract many tourists thanks to the presence of remains of medieval structures. Michela and Elisa are in Castiglione del Lago and are waiting for the ferry to Isola Maggiore. Michela: If you solve the problem I'm proposing to you, I'll pay for the ferry tickets; otherwise, you'll pay for them. Elisa: It'll arrive in 5 minutes—I'll make it: propose it! Michela: Consider the polynomials p(x) = x^3 − 3x + 1 and q(x) = x^3 − 6x^2 + 9x − 1, and let r be the largest real root of the polynomial p(x). What is the value of q(r^2)?
 
-**Answer:** 0000
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q10|src_squadre_2021_femminile_qualif__Q10]]
 
 
 
@@ -470,26 +453,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0006
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*At Miramare Castle (Matteo Di Domenico)*
+*At Miramare Castle, Matteo Di Domenico*
 
 ![[src_squadre_2021_femminile_qualif__prob11.png]]
 
-> At Miramare Castle (Matteo Di Domenico)
-> In Trieste, in front of Miramare Castle, in the open space in front of the entrance, between the semicircle of trees and the cliff, the guide Anna sets a challenge to a group of 25 mathematicians on an outing.
-> Anna: I have put a cap on each of you without your being able to see what colour it was. Now stand in a circle so that you can see all the others. I assure you that each of you sees at least one cap of the colour she has on her head. (The mathematicians arrange themselves along a circle in the open space, each so as to see all the others.) Every two minutes I will sound a siren on my mobile phone; whoever among you tells me the colour of her own cap after the siren may go in. Obviously, you cannot communicate with one another in any way. (At the first signal, six speak, guess correctly and go in. At the second, others speak, all guess correctly and go in)
-> Laura (whispering to Anna): The ones who have just gone in were all those with a red cap. (The siren sounds for the third time) Nobody guesses, nobody goes in. How strange! (At the fourth siren still others speak, guess correctly and go in) This time not all of them have caps of the same colour.
-> Anna: I knew it: mathematicians reason well.
-> Laura (smiling): Well, in our case they were all women mathematicians.
-> Anna: Correct! They all declared the colour with certainty on the basis of rigorous reasoning.
-> Voice-over: How many go in at the fifth signal, knowing that all those who had the possibility guessed correctly?
+> At Miramare Castle, Matteo Di Domenico: In Trieste, in front of Miramare Castle, in the clearing before the entrance, among the semi-circular trees and the cliff, guide Anna proposes a challenge to a group of 25 mathematicians on a trip. Anna: I have put a cap on each of you without your being able to see what color it was. Now form a circle so that you can see all the others. I assure you that each of you sees at least one cap of the color of the cap on her own head. (The mathematicians position themselves along a circle in the clearing, each in such a way that she can see all the others.) Every two minutes, I will sound a siren on my mobile phone; whoever among you tells me the color of her own cap after the siren sounds will be allowed in. Obviously, you cannot communicate with one another in any way. (At the first signal, six speak, guess, and go in. At the second, others speak, all guess, and go in.) Laura (in a low voice, to Anna): Those who have just gone in were all the ones wearing red caps. (The siren sounds for the third time.) No one guesses correctly; no one goes in. How strange! (At the fourth siren, still others speak, guess, and go in.) This time, not all of them are wearing caps of the same color. Anna: I knew it—mathematicians reason well. Laura (smiling): Well, in our case, they were all mathematicians. Anna: Correct! All of them stated the color with certainty based on rigorous reasoning. Off-screen voice: How many go in at the fifth signal, knowing that all those who had the chance guessed correctly?
 
-**Answer:** 0006
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q11|src_squadre_2021_femminile_qualif__Q11]]
 
 
 
@@ -518,27 +497,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 3142
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In Senigallia (Sandro Campigotto)*
+*A Senigallia Sandro Campigotto*
 
 ![[src_squadre_2021_femminile_qualif__prob12.png]]
 
-> In Senigallia (Sandro Campigotto)
-> Mattia (walking under the first portico, at dawn): On that side of the square, where Caffè Italia is, there stood a circular tower with a perimeter of more than 20 metres.
-> Luca: The bar is already open.
-> Mattia: It is one of the first bars in town to open.
-> Luca (entering the bar): What is the sum of the integer parts of the numbers π + i/1000 as i ranges from 1 to 1000?
-> Mattia: Endpoints included?
-> Luca: Yes. So the radius of the tower was about π m.
-> Mattia: The estimate is good only because π is a reasonable approximation of the square root of 10.
-> Voice-over: What does Mattia answer to Luca's question?
+> A Senigallia Sandro Campigotto Mattia (Walking Under the First Portico at Dawn) On that side of the square where Caffè Italia is located, there once stood a circular tower with a circumference exceeding 20 metres. Luca The bar is already open. Mattia It's one of the first bars to open in the city. Luca (Entering the bar) What is the sum of the integer parts of the numbers π + i/1000 as i varies from 1 to 1000? Mattia Inclusive? Luca Yes. So the radius of the tower was about π metres. Mattia The estimate is good only because π is a reasonable approximation of the square root of 10. Voice-over What does Mattia answer to Luca's question?
 
-**Answer:** 3142
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q12|src_squadre_2021_femminile_qualif__Q12]]
 
 
 
@@ -568,26 +542,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0001
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Walking up the Calà del Sasso (Lorenzo Mazza)*
+*Strolling in Calà del Sasso Lorenzo Mazza*
 
 ![[src_squadre_2021_femminile_qualif__prob13.png]]
 
-> Walking up the Calà del Sasso (Lorenzo Mazza)
-> Being near Asiago, Andrea and Giacomo decide to climb the Calà del Sasso which, with its 4444 steps, is the longest staircase in Italy. To feel the effort less, they decide to tackle the climb by setting each other problems.
-> Giacomo: Factorise 4444 into primes.
-> Andrea: 2 × 2 × 11 × 101.
-> Giacomo: The number 11 is prime and is written with a prime number of digits, all 1s, in decimal notation. But are there prime numbers written with a non-prime number of digits, all 1s, in decimal notation?
-> Andrea (tired): No.
-> Giacomo (annoyed): Using the factorisation of 4444, you can write 4 as 2 × 2 and 26 as 2 × (2 + 11). But for how many prime numbers p is the number p^4 − 26 also prime?
-> Andrea: Enough, Giacomo, I can't take any more!
+> A Stroll Along the Calà del Sasso Lorenzo Mazza While in the vicinity of Asiago, Andrea and Giacomo decide to walk up the Calà del Sasso, which, with its 4444 steps, is the longest staircase in Italy. To feel less of the strain, they decide to tackle the climb by setting problems for each other. Giacomo factors 4444 into prime numbers. Andrea: 2 × 2 × 11 × 101. Giacomo: The number 11 is prime and, in decimal notation, is written using a prime number of 1s only. But are there prime numbers that, in decimal notation, are written using a non-prime number of 1s only? Andrea (Exhausted): No. Giacomo (Irritated): Using the factorization of 4444, you can write 4 as 2 × 2 and 26 as 2 × (2 + 11). But for how many prime numbers p is the number p^4 − 26 also prime? Andrea: Enough, Giacomo—I can't take any more!
 
-**Answer:** 0001
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q13|src_squadre_2021_femminile_qualif__Q13]]
 
 
 
@@ -611,24 +581,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1053
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In Piazza Villena (Cecilia Oliveri)*
+*In Piazza Villena Cecilia Oliveri*
 
 ![[src_squadre_2021_femminile_qualif__prob14.png]]
 
-> In Piazza Villena (Cecilia Oliveri)
-> Piazza Villena in Palermo has the plan of a regular octagon, and for this reason it is known as the Octagon of the Sun.
-> Cecilia: The area of the square measures 745 m^2.
-> Simone: What is the area of the 8-pointed star obtained by extending the sides of the octagon until they meet?
-> Cecilia: You mean the star with the smaller area?
-> Simone: Yes, that one.
+> In Piazza Villena, Cecilia: Piazza Villena in Palermo has a regular octagonal layout and is therefore known as the Octagon of the Sun. Cecilia: The square covers an area of 745 m². Simone: What is the area of the eight-pointed star formed by extending the sides of the octagon until they meet? Cecilia: Do you mean the star with the smaller area? Simone: Yes, that one.
 
-**Answer:** 1053
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q14|src_squadre_2021_femminile_qualif__Q14]]
 
 
 
@@ -662,29 +630,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0266
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In Villaromagnano (Silvia Sconza)*
+*To Silvia Sconza, Villaromagnano*
 
 ![[src_squadre_2021_femminile_qualif__prob15.png]]
 
-> In Villaromagnano (Silvia Sconza)
-> In Villaromagnano there is a splendid cycle bridge over the Gerbino stream, with a particular feature: on certain days of the year Giovanni does not allow people to cross the bridge unless they correctly answer the questions he asks.
-> Giovanni: How many five-digit palindromic positive integers are there that are not divisible by any number between 2 and 6?
-> Silvia: What is a palindromic number?
-> Giovanni: Not so much a number: a list of signs is called palindromic when the list coincides with the reversed list; that is, given a list ℓ of k signs and considering the list ℓ′ whose i-th sign is the (k + 1 − i)-th sign of the list ℓ, we have ℓ = ℓ′.
-> Silvia: So the word inno is not palindromic, but its plural is [“inni”].
-> Giovanni: Exactly! For numbers I consider their base-ten representation.
-> Silvia: One thousand and ten should be considered palindromic, since I can write it with a zero in front.
-> Giovanni: No, because when I write integers in decimal notation the leading digit is different from 0.
-> Silvia: 2 and 6 included?
-> Giovanni: Yes.
+> At Villaromagnano, Silvia Sconza: At Villaromagnano there is a splendid cycle bridge over the Rio del Gerbino, with a particular feature: on certain days of the year, Giovanni does not allow people to cross the bridge unless they answer his questions correctly. Giovanni: How many five-digit positive integer palindromes are there that are not divisible by any number between 2 and 6? Silvia: What is a palindrome number? Giovanni: Not so much a number as a list of symbols is called a palindrome when the list coincides with the reversed list—that is, given a list ℓ of k symbols and considering the list ℓ′ whose i-th symbol is the (k + 1 − i)-th symbol of the list ℓ, we have ℓ = ℓ′. Silvia: So, in short, the word "inno" is not a palindrome, but its plural is. Giovanni: Exactly! For numbers, I consider their base-ten representation. Silvia: Should "milledieci" be regarded as a palindrome, since I can write it with a zero in front? Giovanni: No, because when I write integers in decimal notation, the leading digit is not 0. Silvia: Including 2 and 6? Giovanni: Yes.
 
-**Answer:** 0266
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q15|src_squadre_2021_femminile_qualif__Q15]]
 
 
 
@@ -709,24 +670,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0033
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In Sterzing (Sandro Campigotto)*
+*A Sterzing Sandro Campigotto*
 
 ![[src_squadre_2021_femminile_qualif__prob16.png]]
 
-> In Sterzing (Sandro Campigotto)
-> In Sterzing, on the August bank holiday, the renowned dairy company offers four pots of yogurt as a prize for the luckiest visitors.
-> Lucia: We have to choose at random three integers x, y and z between 0 and 2021, not necessarily different.
-> Stefano: Endpoints included?
-> Lucia: Exactly; if the sum xy + yz + xz is a multiple of 3 we take the yogurts home.
-> Stefano: What percentage probability of winning do we have?
+> A Sterzing Sandro Campigotto In Sterzing, on Ferragosto, the renowned dairy company is giving away four jars of yogurt to the luckiest visitors. Lucia We have to randomly choose three integers x, y, and z between 0 and 2021, not necessarily distinct. Stefano Inclusive? Lucia Exactly—if the sum xy + yz + xz is a multiple of 3, we get the yogurt. Stefano What percentage chance do we have of winning?
 
-**Answer:** 0033
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q16|src_squadre_2021_femminile_qualif__Q16]]
 
 
 
@@ -748,21 +707,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0172
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In Sepino (Sandro Campigotto)*
+*A Sepino Sandro Campigotto*
 
 ![[src_squadre_2021_femminile_qualif__prob17.png]]
 
-> In Sepino (Sandro Campigotto)
-> Stefano (walking among the ruins of the ancient Roman town of Sepino): I wonder how many columns were originally erected in this square?
-> Claudia: I read it at the entrance: as many as the quadruples of integers a ≤ b ≤ c ≤ d such that a · b · c · d = 216.
+> A Sepino Sandro Campigotto Stefano (Strolling Among the Ruins of the Ancient Roman City of Sepino) I wonder how many columns were originally erected in this square? Claudia I read it at the entrance: as many as the quadruples of integers a ≤ b ≤ c ≤ d such that a · b · c · d = 216.
 
-**Answer:** 0172
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q17|src_squadre_2021_femminile_qualif__Q17]]
 
 
 
@@ -799,33 +759,30 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7994
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*At the Mulinaccio of Scandicci (Silvia Sconza)*
+*Al Mulinaccio di Scandicci Silvia Sconza*
 
 ![[src_squadre_2021_femminile_qualif__prob18.png]]
 
-> At the Mulinaccio of Scandicci (Silvia Sconza)
-> Visiting the Mulinaccio of Scandicci, Ludovico and Roberta find a page of an old manuscript.
-> Ludovico: Listen to the sentences written here:
+> At the Mulinaccio di Scandicci, Silvia Sconza: While visiting the Mulinaccio di Scandicci, Ludovico and Roberta find a page from an old manuscript. Ludovico, listen to what phrases are written:
 > 1. There are more true sentences than false ones.
 > 2. The number N is a power of 2 or is greater than 2021.
 > 3. The last digit of N is the number of the first true sentence.
 > 4. At least 3 of the first 4 sentences are false.
 > 5. N is divisible by 27 and is less than 2021.
-> 6. All the odd-numbered sentences are false.
+> 6. All odd-numbered sentences are false.
 > 7. The even-numbered sentences are all true or all false.
-> Roberta: They really are numbered. It says that some of these sentences are true and some false, but not which; this is not enough to determine N.
-> Ludovico: Wait, there is a note at the bottom saying that N is an integer between 1 and 8000 inclusive.
-> Roberta: We still don't have enough information!
-> Ludovico: You're right. But we can determine the maximum and the minimum value N can take.
-> Voice-over: What is the sum of the two values determined by Roberta and Ludovico?
+> Roberta: They're numbered, all right. It says that some of these statements are true and some are false, but not which ones; that's not enough to determine N. Ludovico: Wait—there's a note at the bottom saying that N is an integer between 1 and 8000, inclusive. Roberta: Anyway, we don't have enough information! Ludovico: You're right. But we can determine the maximum and minimum values that N can take. Off-screen voice: What is the sum of the two values determined by Roberta and Ludovico?
 
-**Answer:** 7994
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q18|src_squadre_2021_femminile_qualif__Q18]]
 
 
 
@@ -850,24 +807,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 7419
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In the Pantheon (Cecilia Oliveri)*
+*In the Pantheon, Cecilia Oliveri*
 
 ![[src_squadre_2021_femminile_qualif__prob19.png]]
 
-> In the Pantheon (Cecilia Oliveri)
-> The inner structure of the Pantheon consists of a cylinder surmounted, on its upper horizontal base, by a hemisphere. The cylinder has height and radius equal to the radius of the hemisphere.
-> Cecilia: Intersecting the dome with a plane parallel to the ground at a height of 30 m gives a circle of radius 20.1 m.
-> Simone: What is the surface area of the inner structure?
-> Cecilia: Floor, walls and ceiling?
-> Simone: Yes, just that.
+> In the Pantheon: Cecilia Oliveri. The internal structure of the Pantheon consists of a cylinder surmounted, on its upper horizontal base, by a hemisphere. The cylinder has a height and a radius equal to the radius of the hemisphere. Cecilia: Intersecting the dome with a plane parallel to the ground at a height of 30 m yields a circle with a radius of 20.1 m. Simone: What is the surface area of the internal structure? Cecilia: The floor, the walls, and the ceiling? Simone: Yes, just that.
 
-**Answer:** 7419
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q19|src_squadre_2021_femminile_qualif__Q19]]
 
 
 
@@ -893,22 +848,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0057
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*At the Aggius Museum (Sandro Campigotto)*
+*At the Sandro Campigotto Museum in Aggius*
 
 ![[src_squadre_2021_femminile_qualif__prob20.png]]
 
-> At the Aggius Museum (Sandro Campigotto)
-> In the village of Aggius, in the Gallura hinterland, the Brigands' Museum evokes, in a few rooms, through objects and clippings from past centuries, fragments of the past life of these lands.
-> Paola (reading): From an anonymous author of 1895: «At the tavern in the centre every brigand will always find two perfectly balanced six-sided dice. The champion and the challenger each throw one die. The latter wins if the face of his die shows a number strictly greater than that obtained by the champion. If this does not happen, the challenger has the chance to try again by throwing once more».
-> Voice-over: What is the challenger's percentage probability of winning?
+> At the Museum of Aggius, Sandro Campigotto. In the town of Aggius, in the Gallura hinterland, the Brigands' Museum, in just a few rooms and through objects and clippings from past centuries, evokes fragments of the past life of these lands. Paola (Legge). From an anonymous source dated 1895: "At the inn in the center, every brigand will always find two six-sided dice, perfectly balanced. The champion and the challenger each roll one die. The challenger wins if the face of their die shows a number strictly greater than the number obtained by the champion. If this does not happen, the challenger has the chance to try again by rolling once more." Voice-over: What is the percentage probability of the challenger winning?
 
-**Answer:** 0057
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q20|src_squadre_2021_femminile_qualif__Q20]]
 
 
 
@@ -945,26 +900,19 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0192
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In the castle of Fénis (Giuseppe Rosolini)*
+*At Fénis Castle, Giuseppe Rosolini*
 
 ![[src_squadre_2021_femminile_qualif__prob21.png]]
 
-> In the castle of Fénis (Giuseppe Rosolini)
-> Carlo (in the courtyard of the castle of Fénis): Shall we ask that gentleman to take a photo of the whole group?
-> Silvano: All right. There are nine of us, all of different heights: let's try to arrange ourselves so that we are all visible.
-> Carlo: Let's stand in three rows: in each row we put the tallest of the row in the middle. That way everything is orderly.
-> Silvano: But we must make sure that those in the front rows don't hide those in the back rows: those in the same position in the three rows are in increasing order starting from the front row.
-> Roberto: You mean that if, for example, you, Carlo and I are in the second position of three different rows, you, being the shortest, stand in the front row, and I, being the tallest, stand in the back row.
-> Silvano: Yes! And Carlo stands in the middle row.
-> Roberto: But I can't be in the second position of the back row. Claudio is the tallest of all and can only be in that position.
-> Pino: Of course! In fact there is only one way to arrange the pose for the photo.
-> Carlo (astonished): That's not true!
-> Voice-over: In how many ways can the group be arranged for the photo so as to satisfy the conditions required by Silvano?
+> At Fénis Castle, Giuseppe Rosolini Carlo (In the courtyard of Fénis Castle): Shall we ask that gentleman to take a photo of the whole group? Silvano: Okay. There are nine of us, and we're all different heights: let's try to arrange ourselves so that we're all visible. Carlo: Let's line up in three rows: in each row, let's put the tallest person in that row in the middle. That way everything will be neat. Silvano: But we have to make sure that the people in the front rows don't block those in the back rows: the people in the same position across the three rows are in ascending order starting from the front row. Roberto: You mean that, if for example you, Carlo, and I are in the second position in three different rows, you, being the shortest, are in the front row, and I, being the tallest, am in the back row. Silvano: Yes! And Carlo is in the middle row. Roberto: But I can't be in the second position in the back row. Claudio is the tallest of all and can only be in that position. Pino: Of course! In fact, there's only one way to arrange the pose for the photo. Carlo (Surprised): That's not true! Off-screen voice: In how many ways can the group be arranged for the photo so as to meet the conditions Silvano has set?
 
-**Answer:** 0192
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2021_femminile_qualif#q21|src_squadre_2021_femminile_qualif__Q21]]

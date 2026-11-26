@@ -30,11 +30,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Differenti cifre 1-9 con due prodotti uguali a una somma*
+*Cifre distinte da 1 a 9, con due prodotti uguali a una somma*
 
-> $a, b, c, d, e, f$ siano integri separati in coppia, ciascuno tra $1$ e $9$ inclusi, soddisfacendo $a\cdot b = c\cdot d = e + f$. Trova tutti i valori possibili di $a + b + c + d + e + f$.
+> Siano $a, b, c, d, e, f$ interi tutti distinti a due a due, ciascuno compreso tra $1$ e $9$, inclusi, e soddisfacenti $a\cdot b = c\cdot d = e + f$. Determinare tutti i valori possibili di $a + b + c + d + e + f$.
 
-**Risposta:** 23, 27
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo17yq_yosen#q01|src_jjmo17yq_yosen__Q01]]
 
 
 
@@ -58,11 +63,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo "numero di quest'anno" divisibile per 17*
+*Il più piccolo numero di quest'anno divisibile per 17*
 
-> Un numero ottenuto scrivendo due numeri interi positivi che differiscono di $1$ fianco a fianco in ordine decrescente è chiamato "numero di quest'anno". Ad esempio, scrivendo $20$ e $19$ si dà $2019$, che è un numero di quest'anno. Trova il numero più piccolo di quest'anno divisibile per $17$.
+> Un numero ottenuto scrivendo l'uno accanto all'altro, in ordine decrescente, due interi positivi che differiscono di $1$ è chiamato "numero di quest'anno". Ad esempio, scrivendo $20$ e $19$ si ottiene $2019$, che è un numero di quest'anno. Trovare il più piccolo numero di quest'anno divisibile per $17$.
 
-**Risposta:** 1615
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo17yq_yosen#q02|src_jjmo17yq_yosen__Q02]]
 
 
 
@@ -88,13 +98,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo AEB dato due rettangoli che condividono una linea con BE=CF*
+*Angolo AEB dati due rettangoli che condividono una retta, con BE=CF*
 
-> I quadrilaterali $ABCD$ e i quadrilaterali $DEFG$ sono entrambi rettangoli. I tre punti $A, D, E$ si trovano su una linea retta in questo ordine, e i tre punti $C, D, G$ si trovano su una linea retta in questo ordine. Considerando che $\angle GAD = 36^\circ$, $\angle GCF = 15^\circ$ e $BE = CF$ si trovano, si trova la misura di $\angle AEB$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Il quadrilatero $ABCD$ e il quadrilatero $DEFG$ sono entrambi rettangoli. I tre punti $A, D, E$ giacciono su una stessa retta in questo ordine, e i tre punti $C, D, G$ giacciono su una stessa retta in questo ordine. Dato che valgono $\angle GAD = 36^\circ$, $\angle GCF = 15^\circ$ e $BE = CF$, determina la misura di $\angle AEB$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
 ![[src_jjmo17yq_yosen__q03.png]]
 
-**Risposta:** 33^\circ
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo17yq_yosen#q03|src_jjmo17yq_yosen__Q03]]
 
 
 
@@ -118,11 +133,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conte di 1,999 divisibili per 2 volte più di 5*
+*Conteggio dei numeri da 1 a 999 divisibili per 2 un numero di volte maggiore di quello con cui sono divisibili per 5*
 
-> Tra i numeri interi da $1$ a $999$ inclusi, quanti sono tali che il numero di volte che sono divisibili da $2$ sia maggiore del numero di volte che sono divisibili da $5$? (Per un primo $p$, il "numero di volte divisibili per $p$" di un intero $n$ è il più grande $k$ con $p^k \mid n$.)
+> Tra gli interi da $1$ a $999$ inclusi, quanti sono tali che il numero di volte in cui sono divisibili per $2$ è maggiore del numero di volte in cui sono divisibili per $5$? (Per un numero primo $p$, il "numero di volte in cui un intero $n$ è divisibile per $p$" è il più grande $k$ tale che $p^k \mid n$.)
 
-**Risposta:** 444
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo17yq_yosen#q04|src_jjmo17yq_yosen__Q04]]
 
 
 
@@ -146,11 +166,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza AF in quadrilaterali ciclici con riflessione di D su AE*
+*Lunghezza AF in un quadrilatero ciclico con la riflessione di D rispetto ad AE*
 
-> Un quadrilaterale $ABCD$ è inserito in un cerchio e $E$ è un punto laterale $CD$, con $AB = 3$, $EC = 5$, $ED = 1$ e $AE \parallel BC$. Se $F$ è il riflesso di $D$ attraverso la linea $AE$, i tre punti $B, E, F$ sono collineari. Trova la lunghezza del segmento $AF$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Un quadrilatero $ABCD$ è inscritto in una circonferenza, e $E$ è un punto sul lato $CD$, con $AB = 3$, $EC = 5$, $ED = 1$ e $AE \parallel BC$. Sia $F$ il riflesso di $D$ rispetto alla retta $AE$; allora i tre punti $B, E, F$ sono allineati. Trovare la lunghezza del segmento $AF$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-**Risposta:** \frac{3\sqrt{5}}{5}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo17yq_yosen#q05|src_jjmo17yq_yosen__Q05]]
 
 
 
@@ -174,11 +199,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per riempire 10 carte in modo che tutte le somme dei prefissi siano in {-1,0,1}*
+*Conta i modi per riempire 10 carte in modo che tutte le somme prefisse appartengano a {-1,0,1}*
 
-> Dieci carte sono allineate in fila. Nelle carte a numeri dispari (conteggiando da sinistra) viene scritto un intero positivo e sulle carte a numeri pari un intero negativo. Quanti modi ci sono per riempire le schede in modo che sia valida la seguente condizione: per ogni numero intero $i$ con $1 \le i \le 10$, il totale dei numeri scritti sulle schede $1$ fino a $i$ è uno di $-1$, $0$, $1$?
+> Dieci carte sono allineate in una fila. Sulle carte con numero dispari (contando da sinistra) è scritto un numero intero positivo, mentre sulle carte con numero pari è scritto un numero intero negativo. In quanti modi si possono riempire le carte in modo che valga la seguente condizione: per ogni numero intero $i$ tale che $1 \le i \le 10$, la somma dei numeri scritti sulle carte da $1$ a $i$ è uno dei valori $-1$, $0$, $1$?
 
-**Risposta:** 89
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo17yq_yosen#q06|src_jjmo17yq_yosen__Q06]]
 
 
 
@@ -202,11 +232,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La n più piccola con d(n^2)=d(n^2+7^2019)*
+*Minore n tale che d(n^2)=d(n^2+7^2019)*
 
-> Per un intero positivo $x$, $d(x)$ indica il numero di divisori positivi di $x$. Trova il numero intero positivo più piccolo $n$ soddisfacente $d(n^2) = d(n^2 + 7^{2019})$.
+> Sia $x$ un numero intero positivo; indichiamo con $d(x)$ il numero di divisori positivi di $x$. Determinare il più piccolo numero intero positivo $n$ che soddisfa $d(n^2) = d(n^2 + 7^{2019})$.
 
-**Risposta:** 171 \cdot 7^{1008}
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo17yq_yosen#q07|src_jjmo17yq_yosen__Q07]]
 
 
 
@@ -230,11 +265,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare 5 tupli da {1,5.} con a+2b+3c+4d+5e divisibile per 6*
+*Conta le 5-tuple da {1..5} tali che a+2b+3c+4d+5e sia divisibile per 6*
 
-> Quanti tupli $(a, b, c, d, e)$ di cinque numeri interi, ciascuno tra $1$ e $5$ inclusi, sono tali che $a + 2b + 3c + 4d + 5e$ sia un multiple di $6$?
+> Quante n-uple $(a, b, c, d, e)$ di cinque interi, ciascuno compreso tra $1$ e $5$, esistono tali che $a + 2b + 3c + 4d + 5e$ sia un multiplo di $6$?
 
-**Risposta:** 518
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo17yq_yosen#q08|src_jjmo17yq_yosen__Q08]]
 
 
 
@@ -258,11 +298,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca AB in triangolo rettangolo con ADFE quadrilaterale ciclico*
+*Trovare AB nel triangolo rettangolo con il quadrilatero ciclico ADFE*
 
-> Il triangolo $ABC$ soddisfa $\angle B = 90^\circ$ e $BC = 8$. Il punto $D$ si trova sul lato $AB$ e il punto $E$ si trova sul lato $AC$; il punto $F$ sia l'intersezione della linea $BE$ e della linea $CD$, con $BF = 6$ e $CF = 7$. Inoltre, il quadrilaterale $ADFE$ ha un cerchio inciso. Trova la lunghezza del segmento $AB$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Il triangolo $ABC$ soddisfa $\angle B = 90^\circ$ e $BC = 8$. Il punto $D$ giace sul lato $AB$ e il punto $E$ giace sul lato $AC$; sia $F$ l'intersezione della retta $BE$ e della retta $CD$, con $BF = 6$ e $CF = 7$. Inoltre, il quadrilatero $ADFE$ ha un cerchio inscritto. Determinare la lunghezza del segmento $AB$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-**Risposta:** \frac{63}{2}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo17yq_yosen#q09|src_jjmo17yq_yosen__Q09]]
 
 
 
@@ -286,11 +331,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maxime rotte dirette aggiunte alla rete di 100 porti in condizioni di percorso di Hamilton*
+*Massimo numero di percorsi diretti aggiunti a una rete a 100 nodi sotto la condizione del cammino di Hamilton*
 
-> Un determinato paese dispone di porti $100$ e JJMO Shipping opera rotte dirette bidirezionali tra alcune coppie di porti distinti. JJMO Shipping decide di aggiungere un nuovo percorso diretto bidirezionale per ogni coppia di porti $A, B$ che soddisfi la seguente condizione: si può lasciare il porto $A$, passare attraverso ogni porto esattamente una volta e arrivare al porto $B$, ma non esiste un percorso diretto tra i porti $A$ e $B$. Le rotte dirette sono aggiunte una dopo l'altra fino a quando non rimangono due porti distinti che soddisfino la condizione. Trovare il maggior numero possibile di rotte dirette che possono essere create (aggiunte).
+> Un certo paese ha $100$ porti, e JJMO Shipping gestisce rotte dirette di andata e ritorno tra alcune coppie di porti distinti. JJMO Shipping decide di aggiungere una nuova rotta diretta di andata e ritorno per ogni coppia di porti distinti $A, B$ che soddisfa la seguente condizione: si può partire dal porto $A$, attraversare ogni porto esattamente una volta e arrivare al porto $B$, ma non esiste una rotta diretta tra i porti $A$ e $B$. Le rotte dirette vengono aggiunte una dopo l'altra finché non rimangono più coppie di porti distinti che soddisfano la condizione. Determinare il numero massimo possibile di rotte dirette che si possono creare (aggiungere).
 
-**Risposta:** 4850
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo17yq_yosen#q10|src_jjmo17yq_yosen__Q10]]
 
 
 
@@ -314,11 +364,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circumradius dato incentro, ortocentro, AI=5, AH=6, angolo AIH=90*
+*Raggio circoscritto dati il centro del cerchio inscritto, l'ortocentro, AI=5, AH=6, angolo AIH=90*
 
-> Che $I$ sia il centro e $H$ l'ortocentro del triangolo $ABC$. Poiché $AI = 5$, $AH = 6$ e $\angle AIH = 90^\circ$ si tengono, si trova la lunghezza del raggio del circolo circumscritto del triangolo $ABC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Sia $I$ l'incentro e $H$ l'ortocentro del triangolo $ABC$. Sapendo che valgono $AI = 5$, $AH = 6$ e $\angle AIH = 90^\circ$, determina la lunghezza del raggio della circonferenza circoscritta al triangolo $ABC$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-**Risposta:** \frac{75}{7}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo17yq_yosen#q11|src_jjmo17yq_yosen__Q11]]
 
 
 
@@ -342,8 +397,13 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Signature distinte raggiungibili in 4 operazioni a partire da "A"*
+*Stringhe distinte raggiungibili in 4 operazioni da 'A'*
 
-> Su una lavagna è scritta una stringa fatta delle lettere $A$ e $B$. Considerare la seguente operazione: prendere la stringa corrente $w$, aggiungere un'altra lettera (o $A$ o $B$), e quindi cambiare esattamente una delle $A$ in una $B$ o una delle $B$ in una $A$. Per esempio, se $w = ABA$, le stringhe che possono apparire dopo una sola operazione sono $ABAABA$, $BBAABA$, $AAAABA$, $ABBABA$, $ABABBA$, $ABAAAA$, $ABAABB$ (tra tali risultati). Ora supponiamo che la stringa $A$ sia scritta sulla lavagna. A partire da questo stato, dopo aver eseguito l'operazione esattamente $4$ volte, quante stringhe distinte possono apparire sulla scheda?
+> Su una lavagna è scritta una stringa composta dalle lettere $A$ e $B$. Si consideri la seguente operazione: prendere la stringa corrente $w$, aggiungere un'altra lettera ($A$ o $B$), e poi sostituire esattamente una delle $A$ con una $B$ oppure una delle $B$ con una $A$. Per esempio, se $w = ABA$, le stringhe che possono comparire dopo un'operazione sono $ABAABA$, $BBAABA$, $AAAABA$, $ABBABA$, $ABABBA$, $ABAAAA$, $ABAABB$ (tra tali risultati). Ora si supponga che sulla lavagna sia scritta la stringa $A$. Partendo da questo stato, dopo aver eseguito l'operazione esattamente $4$ volte, quante stringhe distinte possono comparire sulla lavagna?
 
-**Risposta:** 1099
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo17yq_yosen#q12|src_jjmo17yq_yosen__Q12]]

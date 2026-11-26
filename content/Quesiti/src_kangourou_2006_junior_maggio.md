@@ -58,9 +58,14 @@ level: kangourou
 \end{document}
 ```
 
-> A metal bar, which for simplicity's sake is assumed to be thread-like and whose middle point is denoted by $M$, is supported against a wall and adheres to a wall with which the wall makes an angle. The wall and floor are of very polished marble, so the bar slides slowly, always sticking to the wall, until it lies on the floor (the figure schematizes the bar's position in a single moment during the movement: the wall is symbolized by the sheet). What trajectory does $M$ describe on the wall? Reason for your statement. (see figure)
+> A metal bar—which, for simplicity, we assume to be filamentary and whose midpoint is denoted by $M$—is standing upright against a wall and adheres to a wall that forms an angle with the first wall. The wall and the floor are made of highly polished marble; therefore, slowly, the bar slides while always remaining in contact with the wall, until it comes to rest on the floor (the figure schematically shows the bar's position at a single instant during the motion: the wall is represented by the sheet). What trajectory does $M$ describe on the wall? Justify your statement. (see figure)
 
-**Answer:** a quarter of a circle
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_junior_maggio#qj1|src_kangourou_2006_junior_maggio__QJ1]]
 
 
 
@@ -86,9 +91,14 @@ level: kangourou
 
 *Minimum sum of absolute values on a numbered circle*
 
-> Let's denote with $n$ an integer greater than 1 and assume that $n$ points on a circle are numbered from 1 to $n$ in a completely random order. For each pair of adjacent (unordered) points we consider the absolute value of the difference of the two corresponding numbers; we add up all the absolute values thus obtained. What is the minimum value of this sum?
+> Let $n$ denote an integer greater than 1, and suppose that $n$ points on a circle are numbered from 1 to $n$ in a completely random order. For each (unordered) pair of adjacent points, we consider the absolute value of the difference between the two corresponding numbers; we then sum all the absolute values thus obtained. What is the minimum possible value of this sum?
 
-**Answer:** 2n-2
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_junior_maggio#qj2|src_kangourou_2006_junior_maggio__QJ2]]
 
 
 
@@ -126,7 +136,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of colours for the spikes*
+*Minimum number of colors for the slices*
 
 ![[src_kangourou_2006_junior_maggio__probj3.png]]
 
@@ -142,9 +152,14 @@ level: kangourou
 \end{document}
 ```
 
-> A circle has been divided into a number of slices (at least 4), for example as shown in Figure 1. You have been instructed to paint the inside of each spike so that between two spikes of the same color there are always at least two of a different color, but you do not know the number of spikes in the circle (that in the figure is just an example!). What's the smallest number of colors that will guarantee you'll make it, regardless of the number of spikes? (see figure)
+> A circle has been divided into a certain number of sectors (at least 4), for example as shown in the figure. You have been tasked with coloring the interior of each sector so that between two sectors of the same color there are always at least two sectors of a different color, but you do not know how many sectors the circle has (the one in the figure is just an example!). What is the smallest number of colors that will guarantee you can succeed, regardless of the number of sectors? (see figure)
 
-**Answer:** 5
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_junior_maggio#qj3|src_kangourou_2006_junior_maggio__QJ3]]
 
 
 
@@ -168,11 +183,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*p+q product of at least three integers >1 (first consecutive)*
+*p+q is the product of at least three integers >1 (consecutive primes)*
 
-> They are $p$ and $q$ two prime numbers, different from each other and both different from 2, such that there is no prime number strictly between $p$ and $q$. Is it true that $p + q$ is the product of at least three positive integers greater than 1 (not necessarily different from each other)? If the answer is yes, give a reason, if the answer is no, give a counterexample.
+> Let $p$ and $q$ be two distinct prime numbers, both different from 2, such that there is no prime number strictly between $p$ and $q$. Is it true that $p + q$ is the product of at least three positive integers greater than 1 (not necessarily distinct)? If the answer is yes, provide a justification; if the answer is no, give a counterexample.
 
-**Answer:** it is true
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_junior_maggio#qj4|src_kangourou_2006_junior_maggio__QJ4]]
 
 
 
@@ -196,11 +216,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers with consecutive digits and odd number of divisors*
+*Numbers with consecutive digits and an odd number of divisors*
 
-> Consider 3-digit numbers whose digits can be rearranged to form sets of consecutive digits (e.g. The numbers in 786 can be rearranged to number 678, consisting of consecutive digits). How many of these numbers have an odd number of divisors (different from each other)?
+> Consider three-digit numbers whose digits can be rearranged to form sets of three consecutive digits (e.g., the digits of 786 can be rearranged into the set 678, which consists of consecutive digits). How many of these numbers have an odd number of (mutually distinct) divisors?
 
-**Answer:** two
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_junior_maggio#qj5|src_kangourou_2006_junior_maggio__QJ5]]
 
 
 
@@ -229,14 +254,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*blue points on the circumferences*
+*Blue points on circles*
 
-> All points on a plane are colored either red or blue and there's at least one red dot and at least one blue dot. Consider the two configurations proposed below.
-> 
-> (a) Each circumference of a radius of 1 cm lying on the plane contains exactly one blue dot.
-> 
-> (b) Each circumference of a radius of 1 cm lying on the plane contains exactly two blue points.
-> 
-> Is it possible that a)? Is it possible that b)? Reason for your answers.
+> All points in a plane are colored either red or blue, and there is at least one red point and at least one blue point. Consider the two configurations proposed below.
+>
+> a) Every circle of radius 1 centimeter lying in the plane contains exactly one blue point.
+>
+> b) Every circle of radius 1 centimeter lying in the plane contains exactly two blue points.
+>
+> Is it possible for a) to occur? Is it possible for b) to occur? Justify your answers.
 
-**Answer:** a no, b yes
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_junior_maggio#qj6|src_kangourou_2006_junior_maggio__QJ6]]

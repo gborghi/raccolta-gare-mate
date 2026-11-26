@@ -31,11 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca coppie quadrate perfette a quattro cifre con proprietà di una cifra maggiore*
+*Coppie di quadrati di quattro cifre che differiscono di 1 in due posizioni*
 
-> Considerate la coppia di numeri interi positivi a quattro cifre $(M, N) = (3600, 2500)$.
-> 
-> Si noti che $M$ e $N$ sono entrambi quadrati perfetti, con cifre uguali in due posti e cifre diverse nei due posti rimanenti. Inoltre, quando le cifre differiscono, la cifra di $M$ è esattamente una maggiore della cifra corrispondente di $N$. Trova tutte le coppie di interi positivi a quattro cifre $(M, N)$ con queste proprietà.
+> Si consideri la coppia di interi positivi di quattro cifre $(M, N) = (3600, 2500)$.
+>
+> Si noti che $M$ e $N$ sono entrambi quadrati perfetti, con cifre uguali in due posizioni e cifre diverse nelle altre due. Inoltre, dove le cifre differiscono, la cifra di $M$ è esattamente di uno maggiore della cifra corrispondente di $N$. Trovare tutte le coppie di interi positivi di quattro cifre $(M, N)$ con queste proprietà.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_1996#q01|src_bmo1_1996__Q01]]
 
 
 
@@ -62,9 +69,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolo f(1996) da un'equazione funzionale telescopica*
+*Calcolare $f(1996)$ a partire da $f(1) = 1996$*
 
-> Una funzione $f$ è definita sull'insieme di integri positivi e soddisfa $$f(1) = 1996$$ e $$f(1) + f(2) + \cdots + f(n) = n^2 f(n) \quad \text{for all } n > 1.$$ Calcola il valore di $f(1996)$.
+> Una funzione $f$ è definita sull'insieme degli interi positivi e soddisfa
+> $$f(1) = 1996$$
+> e
+> $$f(1) + f(2) + \cdots + f(n) = n^2 f(n) \quad \text{for all } n > 1.$$
+> Calcolare il valore di $f(1996)$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Metodo telescopico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_1996#q02|src_bmo1_1996__Q02]]
 
 
 
@@ -89,11 +107,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la CO perpendicolare al PQ utilizzando il circolo e la seconda intersezione*
+*Dimostrare che $CO$ e $PQ$ sono perpendicolari*
 
-> Lasciate che $ABC$ sia un triangolo a angolo acuto, e lasciate che $O$ sia il suo circoncentro. Il cerchio attraverso $A$, $O$ e $B$ si chiama $S$. Le linee $CA$ e $CB$ incontrano di nuovo il cerchio $S$ rispettivamente a $P$ e $Q$. Prova che le linee $CO$ e $PQ$ sono perpendicolari.
-> 
-> (Per qualsiasi triangolo $XYZ$, il suo **circumcentro** è il centro del cerchio che attraversa i vertici $X$, $Y$ e $Z$.)
+> Sia $ABC$ un triangolo acutangolo, e sia $O$ il suo circocentro. La circonferenza per $A$, $O$ e $B$ si chiama $S$. Le rette $CA$ e $CB$ secano di nuovo la circonferenza $S$ rispettivamente in $P$ e in $Q$. Dimostrare che le rette $CO$ e $PQ$ sono perpendicolari.
+>
+> (Per un qualunque triangolo $XYZ$, il suo **circocentro** è il centro della circonferenza che passa per i vertici $X$, $Y$ e $Z$.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_1996#q03|src_bmo1_1996__Q03]]
 
 
 
@@ -118,11 +143,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine tutte le n per le quali una funzione di conteggio di coppia di paesaggi è uguale a n+1*
+*Tutti gli $n$ per cui $g(n) = n + 1$*
 
-> Per un intero positivo $n$, $g(n)$ indica il numero di coppie di integri $(a, b)$ con $a \ge 1$, $b \ge 1$ e $\left\lfloor \dfrac{n}{a} \right\rfloor = b$.
-> 
-> Determinare tutti i $n$ per i quali $g(n) = n + 1$.
+> Per un intero positivo $n$, sia $g(n)$ il numero di coppie di interi $(a, b)$ con $a \ge 1$, $b \ge 1$ e $\left\lfloor \dfrac{n}{a} \right\rfloor = b$.
+>
+> Determinare tutti gli $n$ per cui $g(n) = n + 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_1996#q04|src_bmo1_1996__Q04]]
 
 
 
@@ -149,10 +181,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove le disuguaglianze di potenza media per due e tre reali positivi*
+*Due disuguaglianze cubiche per numeri reali positivi*
 
-> $a$, $b$ e $c$ siano numeri reali positivi.
-> 
-> (i) Dimostra che $4(a^3 + b^3) \ge (a + b)^3$.
-> 
-> (ii) Dimostra che $9(a^3 + b^3 + c^3) \ge (a + b + c)^3$.
+> Siano $a$, $b$ e $c$ numeri reali positivi.
+>
+> (i) Dimostrare che $4(a^3 + b^3) \ge (a + b)^3$.
+>
+> (ii) Dimostrare che $9(a^3 + b^3 + c^3) \ge (a + b + c)^3$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_1996#q05|src_bmo1_1996__Q05]]

@@ -55,7 +55,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of circumference C inscribed in the eye*
+*Circumference C of the loop inscribed in the eye*
 
 ![[src_kangourou_2018_student_semif__prob1.png]]
 
@@ -70,16 +70,23 @@ level: kangourou
 \end{document}
 ```
 
-> (Point 2) The eye in the figure is made up of two quarters of the circumference of each of the lengths 1 and the circle C of the largest possible radius containing the region bounded by them. How long is the circumference of C? A) 2
-> 	
-> 	
-> B) π - 1
-> 	
-> C) 3√2 - 2
-> 	
-> D) 4√2 - π E) A number different from the previous one.
+> (Point 2) The eye in the figure is formed by two quarter-circles, each of length 1, and by the circle C with the largest possible radius that lies within the region bounded by them. How long is the circumference that bounds C?
+> A) 2	
+>
+>
+> B) π - 1	
+>
+> C) 3√2 - 2	
+>
+> D) 4√2 - π          
+> E) A number different from the preceding ones.
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q01|src_kangourou_2018_student_semif__Q01]]
 
 
 
@@ -107,15 +114,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability that Alice's number exceeds Barbara's*
+*Probability that Alice's number exceeds Barbara's number*
 
-> (3 points) Alice and Barbara choose at random and separately an integer between 1 and 2018. 
-> The two numbers are then compared.  What is the probability that the number chosen by Alice is 
-> greater than the one chosen by Barbara?
+> (Point 3) Alice and Barbara independently choose a whole number at random from the range 1 to 2018. The two numbers are then compared. What is the probability that the number chosen by Alice is greater than the one chosen by Barbara?
 > A) 2019/4036            B) 2017/4036            C) 2017/4038          	 D) 1/2
 > E) None of the above.
 
-**Answer:** B
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q02|src_kangourou_2018_student_semif__Q02]]
 
 
 
@@ -147,15 +157,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of cube volume / inscribed regular tetrahedron*
+*Ratio of volume: cube / inscribed regular tetrahedron*
 
-> (Points 3) In a cube is inscribed a regular tetrahedron whose edges are diagonals of the faces of the cube. What is the ratio of the volume of the cube to the volume of the tetrahedron? A) 2
-> 	
-> B) 3
-> 	
-> C) 4/3 D) 3/2 E) 5/3
+> (Point 3) A regular tetrahedron is inscribed in a cube, with its edges being the diagonals of the cube's faces. What is the ratio of the volume of the cube to the volume of the tetrahedron?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4/3		
+> D) 3/2	
+> E) 5/3
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q03|src_kangourou_2018_student_semif__Q03]]
 
 
 
@@ -183,11 +201,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many prime r sums of two prime numbers with equal sums*
+*How many prime numbers r are the sum of two primes with equal digit sums?*
 
-> (Points 4) A prime r is the sum of two prime p and q. It also happens that the sum of the digits of r coincides with the sum of the digits of p plus the sum of the digits of q. How many possible prime numbers r are in this situation? A) Only 1 B) Exactly 2 C) Exactly 3 D) Exactly 4 E) More than 4
+> (Point 4) A prime number r is the sum of two prime numbers p and q. Furthermore, the sum of the digits of r equals the sum of the digits of p plus the sum of the digits of q. How many possible prime numbers r satisfy this condition? (Caution: 1 is not a prime number!)
+> A) Only 1 B) Exactly 2 C) Exactly 3 D) Exactly 4 E) More than 4
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q04|src_kangourou_2018_student_semif__Q04]]
 
 
 
@@ -212,11 +236,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value m+n with 2^m-2^n=240*
+*Find the value of m+n given that 2^m - 2^n = 240*
 
-> (Points 4) m and n are two positive integers such that 2^m - 2^n = 240. How much is m + n ? A) 10 B) 11 C) 15 D) 16 E) None of the above numbers are correct.
+> (Point 4) m and n are two positive integers such that 2m - 2n = 240. What is the value of m + n?
+> A) 10 B) 11 C) 15 D) 16 E) None of the preceding numbers is correct.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q05|src_kangourou_2018_student_semif__Q05]]
 
 
 
@@ -241,11 +271,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For how many integers n is the number n/(n-10) an integers*
+*For how many integers n is n/(n-10) an integer?*
 
-> (Points 4) For how many integers n is the number n/(n - 10) an integer? (A) 4 (B) 5 (C) 7 (D) 8 (E) Infinite
+> (Point 4) For how many integer values of n is n/(n - 10) an integer?
+> A) 4 B) 5 C) 7 D) 8 E) Infinite
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q06|src_kangourou_2018_student_semif__Q06]]
 
 
 
@@ -270,12 +306,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is 2019×2018^2 - 2018×2019^2 not divisible by*
+*By what is 2019*2018^2 - 2018*2019^2 not divisible?*
 
-> (5 points) The number 201920182 - 201820192 is not divisible by
+> (Point 5) The number 201920182 - 201820192 is not divisible by
 > A) 99            B) 101          C) 121           D) 1001           10001
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q07|src_kangourou_2018_student_semif__Q07]]
 
 
 
@@ -304,12 +345,15 @@ level: kangourou
 
 *Probability that the digit 1 appears between 1 and 10^7*
 
-> (5 points) Imagine that in a bag there are all the integers between 1 and 107 (inclusive) and that
-> one of these numbers is drawn at random. Let p be the probability that in its (decimal) representation
-> the digit 1 appears; then
+> (Point 5) Imagine that a bag contains all the integers from 1 to 107 (inclusive), and that one of these numbers is drawn at random. Let p be the probability that the digit 1 appears in its (decimal) representation; then
 > A) p < 35%    B) 35% ≤ p < 40%      C) 40% ≤ p < 45%      D) 45% ≤ p < 50%     E) p ≥ 50%
 
-**Answer:** E
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q08|src_kangourou_2018_student_semif__Q08]]
 
 
 
@@ -338,13 +382,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sequence of 7 letters AB with Hamming distance >=3*
+*Maximum sequences of 7 letters AB with Hamming distance >=3*
 
-> (Points 6) Consider sequences of 7 letters that can be written using only the letters A and/or B. How many sequences can be selected, at most, if two of them are to differ for letters appearing in at least three positions? A) 8        B) 9         C) 12        D) 16       E) 27
-> 
+> (Point 6) Consider the 7-letter sequences that can be written using only the letters A and/or B. What is the maximum number of sequences that can be selected if, for any two of these sequences, they are to differ in the letters appearing in at least 3 positions?
+> A) 8        B) 9         C) 12        D) 16       E) 27
+>
 > Open-ended questions
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q09|src_kangourou_2018_student_semif__Q09]]
 
 
 
@@ -370,11 +420,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio length of rope / shorter piece (discs)*
+*Cable length / shortest piece ratio (discs)*
 
-> (Dots 4) A circular section rope is cut into two pieces. Both are spirally rolled onto a table to produce approximately two discs. The radius of one of the two is twice the radius of the other. What is the ratio between the length of the whole rope and the length of the shortest piece? (If necessary, approximate the answer to the nearest integer.)
+> (Point 4) A rope with a circular cross-section is cut into two pieces. Both pieces are spirally rolled on a table to form roughly two discs. The radius of one of the discs is twice the radius of the other. What is the ratio of the length of the entire rope to the length of the shorter piece? (If necessary, round the answer to the nearest whole number.)
 
-**Answer:** 5
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q10|src_kangourou_2018_student_semif__Q10]]
 
 
 
@@ -400,14 +454,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of scoring the first penalty given p>=one=0.999*
+*Probability of scoring the first penalty, given p >= 1 = 0.999*
 
-> (Points 5) Marco has to take three penalty kicks. Knowing himself, he knows that the probability of scoring is 
-> the same in all three and that the probability of scoring in at least one of the three is 0.999. What is the probability that 
-> he manages to score when he takes the first penalty kick? (Indicate the decimal digits after the decimal point up to the fourth: for 
-> example, if the probability were 0.81 write the answer as 8100.)
+> (Point 5) Marco has to take three penalties. Knowing himself, he knows that the probability of scoring is the same for all three, and that the probability of scoring in at least one of the three is 0.999. What is the probability that he will manage to score when he takes the first penalty? (Indicate the decimal digits after the decimal point up to the fourth: e.g., if the probability were 0.81, write the answer as 8100.)
 
-**Answer:** 9000
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q11|src_kangourou_2018_student_semif__Q11]]
 
 
 
@@ -432,11 +487,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many polynomials x^3+bx^2+cx+4 with p(2)=0 and b,c in [-2018,2018]*
+*How many polynomials x^3+bx^2+cx+4 are there such that p(2)=0 and b,c are in [-2018,2018]?*
 
-> (Points 5) Let p (x) = x3 + bx2 + cx + 4, with b and c integers between - 2018 and 2018, extremes included. For how many different polynomials p (x) do we have p (2) = 0 ?
+> (Point 5) Let p(x) = x³ + bx² + cx + 4, where b and c are integers satisfying -2018 ≤ b, c ≤ 2018, inclusive. For how many distinct polynomials p(x) is p(2) = 0?
 
-**Answer:** 2019
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q12|src_kangourou_2018_student_semif__Q12]]
 
 
 
@@ -461,11 +521,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers between 1 and 9999 with the sum of the first two digits = the other two*
+*Numbers between 1 and 9999 such that the sum of the first two digits equals the sum of the other two digits*
 
-> (Points 6) How many integers between 0001 and 9999 inclusive are such that the sum of the first two digits coincides with the sum of the other two?
+> (Point 6) How many integers between 0001 and 9999 inclusive are such that the sum of the first two digits equals the sum of the other two digits?
 
-**Answer:** 669
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q13|src_kangourou_2018_student_semif__Q13]]
 
 
 
@@ -493,11 +558,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values m and n with 46 new ticket types*
+*Valori m e n with 46 new types of tickets*
 
-> (Points 6) A railway company operates a line with m stations. It then has n more built, with n > 1. For each new route a new type of ticket is printed (note: the route from station A to station B is different from that from B to A). If a total of 46 new types of tickets are printed, what are the values of m and n, in order? (For example, if m = 25 and n = 4, write 2504.)
+> (Point 6) A railway company operates a line with m stations. It then has n other stations built, where n > 1. For each new route, a new type of ticket is printed (note: the route from station A to station B is different from the route from B to A). If a total of 46 new types of tickets are printed, what are the values of m and n, in that order? (For example, if m = 25 and n = 4, write 2504 as the answer.)
 
-**Answer:** 1102
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q14|src_kangourou_2018_student_semif__Q14]]
 
 
 
@@ -525,11 +595,14 @@ level: kangourou
 
 *Area of triangle ABP with perpendicular tangents*
 
-> (6 points) Two circles α and β with centers A and B respectively have radii 
-> 10 and 20 respectively, and the two centers are 10√2 apart. Let P be a point on β such that the rays tangent to α 
-> starting from P are perpendicular to each other. What is the area of triangle ABP?
+> (Point 6) Two circles α and β, with centers A and B respectively, have radii 10 and 20 respectively, and the distance between the two centers is 10√2. Let P be a point on β such that the tangent rays to α emanating from P are perpendicular to each other. What is the area of triangle ABP?
 
-**Answer:** 100
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q15|src_kangourou_2018_student_semif__Q15]]
 
 
 
@@ -554,11 +627,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many integer triples (a,b,c) are ordered with a×b×c=45000*
+*How many ordered triples (a,b,c) of integers satisfy a*b*c=45000?*
 
-> (Points 7) For how many ordered triples (a, b, c) of relative integers does a × b × c = 45,000?
+> (Question 7) For how many ordered triples (a, b, c) of signed integers does a × b × c = 45,000 hold?
 
-**Answer:** 3600
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q16|src_kangourou_2018_student_semif__Q16]]
 
 
 
@@ -585,11 +663,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of sides n of the ortho-polygon close to 2019*
+*Number of sides n of the ortho-polygon near 2019*
 
-> (Points 7) An ortho-polygon in the plane is a non-self-intersecting polygon such that every pair of consecutive sides consists of sides perpendicular to each other. About an ortho-polygon with n sides it is known that, numbering its sides starting from 1 in one of the two possible directions, the length of each side corresponds to the number assigned to the side itself; it is also known that n is the integer as close as possible to 2019. What is the value of n?
+> (Point 7) An ortho-polygon in the plane is a non-self-intersecting polygon such that each pair of consecutive sides consists of sides that are perpendicular to each other. For an ortho-polygon with n sides, it is known that, if its sides are numbered starting from 1 in one of the two possible directions, the length of each side equals the number assigned to that side; it is also known that n is the integer closest possible to 2019. What is the value of n?
 
-**Answer:** 2016
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q17|src_kangourou_2018_student_semif__Q17]]
 
 
 
@@ -625,20 +708,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n for which two integers have sum/diff divisible by 100*
+*Minimum n such that the sum/difference of two integers is divisible by 100*
 
-> (Points 8) We want to be certain that, however n positive integers are chosen, pairwise
-> distinct, among them there are at least two whose sum or whose difference is divisible by 100. What
-> is the smallest value of n that allows us to have this certainty?
-> 
-> 0005
-> 9000
-> 2019
-> 0669
-> 1102
-> 0100
-> 3600
-> 2016
-> 0052
+> (Point 8) We want to be certain that, whatever n distinct positive integers are chosen, at least two of them will have a sum or a difference divisible by 100. What is the smallest value of n that makes this certainty possible?
+>
+> 0005 9000 2019 0669 1102 0100 3600 2016 0052
 
-**Answer:** 52
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_semif#q18|src_kangourou_2018_student_semif__Q18]]

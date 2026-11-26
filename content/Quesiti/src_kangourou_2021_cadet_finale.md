@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Correct 25x2=211 with +1/-1 on the digits*
+*Write the new correct equality, and explain.*
 
-> The $25 \times 2 = 211$ equation is false, but you can turn it into a correct equation by adding $1$ to some of its digits and subtracting $1$ from the others. Write this new correct equation, motivating.
+> The equality $25 \times 2 = 211$ is false, but you can turn it into a correct equality by adding $1$ to some of its digits and subtracting $1$ from the others. Write this new correct equality, and explain.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 34x3=102
+[[Quesiti/src_kangourou_2021_cadet_finale#q01|src_kangourou_2021_cadet_finale__Q01]]
 
 
 
@@ -60,13 +64,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Estimate of the number of confetti by catch-recatch method*
+*What is a plausible number of confetti in the bag?*
 
-> You have a bag of confetti and you'd like to know how many, at least roughly. Think of using the following strategy: - extract $50$ from it and mark them with a mark, then put them back in the bag and mix all the confetti so that the ones you have marked can be evenly distributed within the bag; - then extract $70$ from it at random and find out that, of these $70$, only two have been marked by you.
-> 
-> Based on this experiment, what is a reliable number for the confetti in the bag?
+> You have a bag of confetti and you would like to know how many there are, at least approximately. You plan to use the following strategy:
+>
+> - you take out $50$ and mark them, then you put them back in the bag and mix all the confetti so that the ones you marked can spread evenly through the bag;
+> - you then take out $70$ at random and find that, of these $70$, only two were marked by you.
+>
+> On the basis of this experiment, what is a plausible number for the confetti in the bag?
 
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_stima|Estimation and approximation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 1750
+[[Quesiti/src_kangourou_2021_cadet_finale#q02|src_kangourou_2021_cadet_finale__Q02]]
 
 
 
@@ -91,13 +102,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of volumes of two spheres at a distance 100x*
+*What is the ratio of the volume of the larger to the volume of the smaller?*
 
 ![[src_kangourou_2021_cadet_finale__prob3.png]]
 
-> When you observe two spheres of different radii from a distance, they appear to you of the same size (as, for example, might happen to the sun and the moon). However, the distance of the largest from you is $100$ times the distance of the smallest (assume that the distances are estimated between you and the centers of the spheres). What is the ratio of the volume of the largest to the volume of the smallest?
+> Looking from far away at two spheres of different radii, they appear the same size (as, for example, can happen with the sun and the moon). However, your distance from the larger one is $100$ times your distance from the smaller one (assume that the distances are measured from you to the centres of the spheres). What is the ratio of the volume of the larger to the volume of the smaller?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 1000000
+[[Quesiti/src_kangourou_2021_cadet_finale#q03|src_kangourou_2021_cadet_finale__Q03]]
 
 
 
@@ -121,11 +136,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum to be removed from 2..2021 without residual products*
+*How few do you need to remove, at least?*
 
-> Consider the set of integers from $2$ to $2021$ included. You want to take some of them away so none of the remaining ones can be expressed as a product of two of the remaining ones. What is the minimum number you need to take away?
+> Consider the set of integers from $2$ to $2021$ inclusive. You want to remove some of them so that none of those that remain can be written as a product of two of those that remain. How few do you need to remove, at least?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 43
+[[Quesiti/src_kangourou_2021_cadet_finale#q04|src_kangourou_2021_cadet_finale__Q04]]
 
 
 
@@ -163,26 +183,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of different nets of a cube*
+*How many different nets does a cube have?*
 
 ![[src_kangourou_2021_cadet_finale__prob5.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw (1,2) rectangle (2,3);
-  \draw (0,1) rectangle (1,2);
-  \draw (1,1) rectangle (2,2);
-  \draw (2,1) rectangle (3,2);
-  \draw (3,1) rectangle (4,2);
-  \draw (1,0) rectangle (2,1);
-\end{tikzpicture}
-\end{document}
-```
+> The picture shows a net of a cube, that is, one possible arrangement in the plane of the faces of the cube so that the cube can be rebuilt by folding the figure along the sides shared by two faces. How many nets does a cube have that are different from one another, counting as the same two nets that can be obtained from each other by rotations and/or reflections? (see the picture)
 
-> In the figure you see a net of a cube, that is, a possible arrangement in the plane of the faces of the cube so that you can reconstruct the cube by folding the figure along the sides common to two faces. How many different nets does a cube have, considering two nets obtainable one from the other by rotations and/or reflections as identical? (see figure)
-
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 11
+[[Quesiti/src_kangourou_2021_cadet_finale#q05|src_kangourou_2021_cadet_finale__Q05]]
 
 
 
@@ -210,12 +221,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fill the mxn grid with constant column sums*
+*Can you do it in each of the two cases?*
 
-> You have a rectangular grid of $m$ rows and $n$ columns and you want to fill it up by inserting, one for each box, all integers from $1$ to $m \times n$ so that the sum of the numbers inserted in each column is always the same when the columns vary. Answer the following questions and justify your answers. You can do it when:
-> 
+> You have a rectangular grid of $m$ rows and $n$ columns, and you want to fill it by entering, one in each cell, all the integers from $1$ to $m \times n$, so that the sum of the numbers entered in each column is always the same, whichever column one takes. Answer the following questions, and justify your answers. Can you succeed when:
+>
 > a) $m = 2021$ and $n = 2020$?
-> 
+>
 > b) $m = 2020$ and $n = 2021$?
 
-**Answer:** a)No b)Yes
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Answer:** a)No b)Si
+[[Quesiti/src_kangourou_2021_cadet_finale#q06|src_kangourou_2021_cadet_finale__Q06]]

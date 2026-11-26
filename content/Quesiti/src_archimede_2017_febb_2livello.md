@@ -38,9 +38,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the hidden faces of the 27 cubically glued dice*
+*Sum of the hidden faces of the 27 dice glued into a cube*
 
-> Andrea glues 27 normal 6-faced dice together to form a large cube. The dice are oriented so that the sums of the read values on each side of the cube are, in some order, 14, 22, 30, 38, 46, 54. What is the sum of all the faces of the dice that, being glued together, are no longer read?
+> Andrea glues 27 ordinary six-faced dice together so as to form a large cube. The dice are oriented so that the sums of the values readable on each face of the cube are, in some order, 14, 22, 30, 38, 46, 54. What is the sum of all the faces of the dice that, having been glued together, can no longer be read?
 >
 > - **(A)** 189
 > - **(B)** 204
@@ -48,7 +48,10 @@ level: 2 livello
 > - **(D)** 333
 > - **(E)** 363
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2017_febb_2livello#q01|src_archimede_2017_febb_2livello__Q01]]
 
 
 
@@ -82,14 +85,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who makes more ravioli among Alberto, Barbara and Ciro*
+*Who makes the most ravioli among Alberto, Barbara and Ciro*
 
-> Alberto, Barbara and Ciro meet one day to prepare ravioli for a charity dinner in support of the mathematics olympiads. As a first thing, they decide to divide equally
-> the working hours between the morning and the afternoon, and obviously they work simultaneously and
-> for the same amount of time. Alberto is very reliable: he prepares 90 ravioli per hour throughout
-> the working day. Barbara makes 110 ravioli per hour during the morning, but in the afternoon she is more
-> distracted and prepares 70 ravioli per hour. Ciro makes 2/3 of his ravioli at a rate of 140 ravioli per hour
-> and the last third at only 50 ravioli per hour. Who made more ravioli at the end of the day?
+> Alberto, Barbara and Ciro meet one day to make ravioli for a charity dinner in aid of the mathematics olympiads. First they decide to split the hours of work equally between the morning and the afternoon, and of course they work at the same time and for the same amount of time. Alberto is very reliable: he makes 90 ravioli an hour throughout the working day. Barbara makes 110 ravioli an hour in the morning, but in the afternoon she is more distracted and makes 70 ravioli an hour. Ciro makes 2/3 of his ravioli at a rate of 140 ravioli an hour and the last third at only 50 ravioli an hour. Who has made the most ravioli by the end of the day?
 >
 > - **(A)** Alberto
 > - **(B)** Barbara
@@ -97,7 +95,10 @@ level: 2 livello
 > - **(D)** Alberto and Barbara, in equal number.
 > - **(E)** Alberto and Ciro, in equal number.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2017_febb_2livello#q02|src_archimede_2017_febb_2livello__Q02]]
 
 
 
@@ -128,17 +129,23 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five primes in arithmetic progression of the ratio 6, false sentence*
+*False statement about five primes in arithmetic progression with difference 6*
 
-> They are a < b < c < d < and five prime numbers in arithmetic progression of rational 6 (i.e. b = a + 6, c = b + 6, d = c + 6 and e = d + 6). Which of the following is false?
+> Let a < b < c < d < e be five primes in arithmetic progression with common difference 6 (that is, b = a + 6, c = b + 6, d = c + 6 and e = d + 6). Which of the following statements is false?
 >
-> - **(A)** a + b + c + d + e is multiple of 5.
-> - **(B)** the abcde > 104.
-> - **(C)** a + b + c + d + e is multiple of 29.
+> - **(A)** a + b + c + d + e is a multiple of 5.
+> - **(B)** abcde > 104.
+> - **(C)** a + b + c + d + e is a multiple of 29.
 > - **(D)** abcde is a multiple of 29.
-> - **(E)** The only perfect square that divides abcde is 1. I'll take it from here. Remember that an integer n is called a perfect square if there exists an integer such that n = a2.
+> - **(E)** the only perfect square that divides abcde is 1.
+>
+> Note. Recall that an integer n is called a perfect square if there exists an integer a such that n = a2.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2017_febb_2livello#q03|src_archimede_2017_febb_2livello__Q03]]
 
 
 
@@ -169,9 +176,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length AD in the perpendicular diagonal quadrilateral*
+*Length AD in a quadrilateral with perpendicular diagonals*
 
-> The quadrilateral ABCD has the perpendicular diagonal. We also know that AB = 100, BC = 120, CD = 75. Determine the length of AD.
+> Quadrilateral ABCD has perpendicular diagonals. It is also known that AB = 100, BC = 120, CD = 75. Determine the length of AD.
 >
 > - **(A)** 30
 > - **(B)** 24 √ 2
@@ -179,7 +186,11 @@ level: 2 livello
 > - **(D)** 35
 > - **(E)** 125 2
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2017_febb_2livello#q04|src_archimede_2017_febb_2livello__Q04]]
 
 
 
@@ -211,9 +222,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Related P(2)/P(1/2) for polynomials with prime and reciprocal roots*
+*Ratio P(2)/P(1/2) for a polynomial with prime roots and their reciprocals*
 
-> The polynomial P(x), of degree 42, assumes the value 0 in the first 21 odd prime numbers and their reciprocals (remember that the reciprocal of a positive integer n is the rational number 1/n). What is the ratio P(2)/P(1/2)?
+> The polynomial P(x), of degree 42, takes the value 0 at the first 21 odd prime numbers and at their reciprocals (recall that the reciprocal of a positive integer n is the rational number 1/n). What is the ratio P(2)/P(1/2)?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -221,7 +232,11 @@ level: 2 livello
 > - **(D)** 321
 > - **(E)** 421
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2017_febb_2livello#q05|src_archimede_2017_febb_2livello__Q05]]
 
 
 
@@ -254,9 +269,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to buy 3 non-adjacent houses out of 10 in a row*
+*Ways of buying 3 non-adjacent houses among 10 in a row*
 
-> Abelarda, Brunilda and Callisto, three old acquaintances, want to buy a house head-on among the 10 row houses on the main street of the city. Because they can't stand each other, they want to avoid being close to home - so they want the houses they buy to be two to two apartments. How many ways can they buy a house to meet this requirement?
+> Abelarda, Brunilda and Callisto, three old acquaintances, want to buy one house each among the 10 houses in a row on the city's main street. Since they cannot stand each other, they absolutely want to avoid being neighbours: they therefore want the houses they buy to be pairwise non-adjacent. In how many ways can they buy houses so as to satisfy this condition?
 >
 > - **(A)** 56
 > - **(B)** 120
@@ -264,7 +279,11 @@ level: 2 livello
 > - **(D)** 480
 > - **(E)** 504
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2017_febb_2livello#q06|src_archimede_2017_febb_2livello__Q06]]
 
 
 
@@ -294,9 +313,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between BC and AD midpoints in the enclosed trapezoid*
+*Distance between the midpoints of BC and AD in a circumscribed trapezium*
 
-> A rectangular trapezoid with base major AB and base minor CD is circumscribed to a radius of 10 radii. We know that the oblique side BC measures 24. What is the distance between the mean points of BC and AD?
+> A right-angled trapezium with longer base AB and shorter base CD is circumscribed about a circle of radius 10. It is known that the oblique side BC measures 24. What is the distance between the midpoints of BC and AD?
 >
 > - **(A)** 21
 > - **(B)** 13 2 √ 11
@@ -304,7 +323,10 @@ level: 2 livello
 > - **(D)** 22
 > - **(E)** 23
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2017_febb_2livello#q07|src_archimede_2017_febb_2livello__Q07]]
 
 
 
@@ -337,9 +359,12 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum MCD of sequences of 2017 distinct integers with given sum*
+*Largest common divisor of sequences of 2017 distinct integers with a given sum*
 
-> Luke writes on a board all possible sequences constituted by 2017 distinct positive integers whose sum is 2016 · 2017 · 2018. After doing so, it replaces each of these sequences with the maximum common divisor of its elements. When this long operation is over, what is the maximum value of the numbers written on the board?
+> Luca writes on a blackboard all possible sequences consisting of 2017 distinct positive integers
+> whose sum is 2016 · 2017 · 2018. Having done this, he replaces each of these sequences with the
+> greatest common divisor of its elements. When this long operation is finished, what is the
+> maximum of the numbers written on the blackboard?
 >
 > - **(A)** 2
 > - **(B)** 2 · 2016
@@ -347,7 +372,11 @@ level: 2 livello
 > - **(D)** 2 · 2018
 > - **(E)** 2016 · 2018
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2017_febb_2livello#q08|src_archimede_2017_febb_2livello__Q08]]
 
 
 
@@ -378,17 +407,22 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
+*Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 
-> How many pairs of real numbers (x,y) satisfy both equations x + y2 = y3 and y + x2 = x3?
+> How many pairs of real numbers (x,y) satisfy both equations x + y2 = y3 and
+> y + x2 = x3?
 >
 > - **(A)** 1
 > - **(B)** 3
 > - **(C)** 5
 > - **(D)** 9
-> - **(E)** Infinite
+> - **(E)** Infinitely many
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2017_febb_2livello#q09|src_archimede_2017_febb_2livello__Q09]]
 
 
 
@@ -419,17 +453,20 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PD length with tangent circle, tangents and data radius*
+*Length of PD given the tangent circle, the tangents and the radius*
 
-> Either ABC is an acute triangle and D is the foot of the beetle coming out of A. Both ω the circumference for A tangent to BC in D, and E, F the intersections of ω with AB, AC respectively. The tangents at ω in E and F intersect in P. Knowing that PE = 3 and that the radius of ω is 4, how much does the PD segment measure?
+> Let ABC be an acute triangle and let D be the foot of the angle bisector from A. Let ω be the circle through A tangent to BC at D, and let E and F be the intersections of ω with AB and AC respectively. The tangents to ω at E and F meet at P. Given that PE = 3 and that the radius of ω is 4, what is the length of the segment PD?
 >
 > - **(A)** 3 4
 > - **(B)** 1
 > - **(C)** 1+ √ 2 2
 > - **(D)** √ 2
-> - **(E)** The data are not sufficient to determine this.
+> - **(E)** the data are not sufficient to determine it
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2017_febb_2livello#q10|src_archimede_2017_febb_2livello__Q10]]
 
 
 
@@ -463,9 +500,9 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of removing ball 8 after operations*
+*Probability of drawing ball 8 after the operations*
 
-> One journal contains 8 balls, on which the numbers 1 to 8 are written. Federica catches two balls in a row, erases the number written on the first and replaces it with her double, erases the number on the second ball and replaces it with the fourfold of it. Then reinsert the two balls into the urn (for example, if Federica caught balls 3 and 7 in this order, she will reinsert two balls with the numbers 6 and 28 into the urn). Finally, extract a ball again: what is the probability that the ball extracted has the number 8?
+> An urn contains 8 balls, on which the numbers from 1 to 8 are written. Federica draws two balls in succession, erases the number written on the first and replaces it with its double, erases the number on the second ball and replaces it with its quadruple. She then puts the two balls back into the urn (for example, if Federica drew balls 3 and 7 in this order, she would put back into the urn two balls with the numbers 6 and 28). Finally, she draws another ball: what is the probability that the drawn ball has the number 8?
 >
 > - **(A)** 1 8
 > - **(B)** 1 7
@@ -473,7 +510,10 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 > - **(D)** 9 56
 > - **(E)** 1 6
 
-**Answer:** A
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2017_febb_2livello#q11|src_archimede_2017_febb_2livello__Q11]]
 
 
 
@@ -504,18 +544,21 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Leading digit of 5^n knowing that 2^n starts with 7*
+*Leading digit of 5n when 2n begins with 7*
 
-> Sia n un intero positivo tale che la rappresentazione decimale di 2n inizia con la cifra 7 (ovvero
-> la cifra non nulla più a sinistra è 7). Con che cifra inizia la rappresentazione decimale di 5n?
+> Let n be a positive integer such that the decimal representation of 2n begins with the digit 7 (that is, the leftmost nonzero digit is 7). With which digit does the decimal representation of 5n begin?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 5
 > - **(D)** 7
-> - **(E)** Dipende da n Problemi a risposta numerica – 5 punti
+> - **(E)** it depends on n
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2017_febb_2livello#q12|src_archimede_2017_febb_2livello__Q12]]
 
 
 
@@ -542,11 +585,18 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*a1211b divisible by 88, find the numbers*
+*a1211b divisible by 88, find the digits*
 
-> The rich Creso buys 88 identical vessels. The price of each of them, expressed in drachmas, is an integer (the same for all 88 vessels). We know that Creso pays a total of a1211b drachmas, where a, b are figures to be determined (and which may or may not be distinct). How many drachmas does a single vessel cost?
+> The rich Creso buys 88 identical vases. The price of each of them, expressed in drachmae, is an
+> integer number (the same for all 88 vases). We know that Creso pays a total of a1211b
+> drachmae, where a, b are digits to be determined (and which may be distinct or not). How many
+> drachmae does a single vase cost?
 
-**Answer:** 1274
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2017_febb_2livello#q13|src_archimede_2017_febb_2livello__Q13]]
 
 
 
@@ -577,11 +627,21 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*EF length with congruent triangles and data angles*
+*Length EF with congruent triangles and given angles*
 
-> Whether ABCD is a convex quadrilateral, F a point on the CD segment, and AC's intersection point with BF. It is known that AB = FC, AE = 14, BE = 10 √ 2, \ BAC = \ BFD, \ BEA = 45°. How large is the EF segment?
+> Let ABCD be a convex quadrilateral, F a point on segment CD, E the intersection point of AC with BF. It is known that AB = FC, AE = 14, BE = 10
+> √
+> 2, \
+> BAC = \
+> BFD, \
+> BEA = 45°.
+> How long is segment EF?
 
-**Answer:** 6
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2017_febb_2livello#q14|src_archimede_2017_febb_2livello__Q14]]
 
 
 
@@ -610,9 +670,18 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Infinite terne (x,y,z) with x^2+y^2+z^2 squared, also with MCD 1*
+*Infinite triples (x,y,z) with x^2+y^2+z^2 a perfect square, even with gcd 1*
 
-> DEMOSTRATIVE EXERCISE (a) Demonstrate that there are infinite numbers (x,y,z) of positive integers such that x2 + y2 + z2 is a perfect square. (b) Demonstrate that there are infinite numbers (x,y,z) of positive integers such that x2 + y2 + z2 is a perfect square and with the property that the maximum common divisor of the three numbers (x,y,z) is 1. I'll take it from here. Remember that an integer n is called a perfect square if there exists an integer such that n = a2.
+> PROOF EXERCISE
+> (a) Prove that there exist infinitely many triples (x,y,z) of positive integers such that x2 + y2 + z2 is a perfect square.
+> (b) Prove that there exist infinitely many triples (x,y,z) of positive integers such that x2 + y2 + z2 is a perfect square and with the property that the greatest common divisor of the three numbers (x,y,z) is 1.
+> Note. Recall that an integer n is called a perfect square if there exists an integer a such that n = a2.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_induzione|Induction]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2017_febb_2livello#q15|src_archimede_2017_febb_2livello__Q15]]
 
 
 
@@ -643,7 +712,15 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 
 *isosceles triangle and parallelogram*
 
-> DEMOSTRATIVE EXERCISE Given a circumference ω of diameter AB and P an inner point of the AB segment, both M and the middle point of PB. If r, s two parallel lines passing through M, P respectively, do not coincide with the straight AB and are orthogonal to it. Then either H is the orthogonal projection of A over s and K is the point of intersection (different from A) between ω and the straight AH. Finally X, Y are the intersections of r with ω, where X is on the opposite side of H to AB. (a) Demonstrate that the triangle HY K is isosceles. (b) Demonstrate that BXHY is a parallelogram.
+> PROOF PROBLEM
+> Given a circle ω with diameter AB and P a point inside segment AB, let M be the midpoint of PB. Let r, s be two parallel lines passing respectively through M, P, not coinciding with line AB nor perpendicular to it. Let H be the orthogonal projection of A onto s, and let K be the point of intersection (distinct from A) of ω and line AH. Let X, Y be the intersections of r with ω, where X is on the opposite side of H with respect to AB.
+> (a) Prove that triangle HYK is isosceles.
+> (b) Prove that BXHY is a parallelogram.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2017_febb_2livello#q16|src_archimede_2017_febb_2livello__Q16]]
 
 
 
@@ -709,39 +786,12 @@ Real pairs (x,y) with x+y^2=y^3 and y+x^2=x^3*
 
 *n can only be 0 or 2*
 
-![[src_archimede_2017_febb_2livello__prob17.png]]
+> PROOF EXERCISE
+> An equilateral triangle is divided into 9 small triangles as in the figure, and initially the number 0 is written on each small triangle. Marco, to pass the time, plays the following game: at each move he chooses 2 small triangles with a common side and adds or subtracts 1 from both of the numbers written on these small triangles (it is meant that the operation performed on the two small triangles is the same). After some time he notices that the numbers written on the 9 small triangles are, in some order, n, n+1, . . . , n+8, where n is a non-negative integer. Prove that n can only be 0 or 2.
+> Note. The cases n = 0 and n = 2 can actually occur, but this statement is not asked to be proved.
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (A0) at (0,0);
-  \coordinate (A1) at (2,0);
-  \coordinate (A2) at (4,0);
-  \coordinate (A3) at (6,0);
-  \coordinate (B0) at (1,1.732);
-  \coordinate (B1) at (3,1.732);
-  \coordinate (B2) at (5,1.732);
-  \coordinate (C0) at (2,3.464);
-  \coordinate (C1) at (4,3.464);
-  \coordinate (D0) at (3,5.196);
-  \draw (A0)--(A3)--(D0)--cycle;
-  \draw (A1)--(B0)--(B2)--(A2);
-  \draw (A1)--(B1)--(A2);
-  \draw (B0)--(C0)--(C1)--(B2);
-  \draw (B1)--(C0); \draw (B1)--(C1);
-  \node at (1.000,0.577) {0};
-  \node at (3.000,0.577) {0};
-  \node at (5.000,0.577) {0};
-  \node at (2.000,1.155) {0};
-  \node at (4.000,1.155) {0};
-  \node at (2.000,2.309) {0};
-  \node at (4.000,2.309) {0};
-  \node at (3.000,2.887) {0};
-  \node at (3.000,4.041) {0};
-\end{tikzpicture}
-\end{document}
-```
 
-> DEMONSTRATIVE PROBLEM
-> An equilateral triangle is divided into 9 small triangles as shown in the figure, and initially, the number 0 is written on each small triangle. Marco, to pass the time, plays the following game: at each move, he selects two small triangles sharing a common side and either adds 1 or subtracts 1 from both numbers written on these two triangles (the same operation is applied to both). After some time, he notices that the numbers written on the 9 small triangles are, in some order, n, n+1, ..., n+8, where n is a non-negative integer. Prove that n can only be 0 or 2.
-> Note. The cases n = 0 and n = 2 are indeed achievable, but it is not required to prove this statement.
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2017_febb_2livello#q17|src_archimede_2017_febb_2livello__Q17]]

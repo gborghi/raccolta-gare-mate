@@ -33,15 +33,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Home-school distance from two speed and delay*
+*Home-school distance at two speeds and delays*
 
-> From home to school
-> From my house to school I always walk, always leaving at the same time. If I walk at the
-> speed of 4 Km/h, I arrive 5 minutes late for the start of lessons, whereas if I walk
-> at the speed of 5 Km/h, I arrive 10 minutes before the start of lessons. How many meters is the school
-> from my house?
+> From Home to School From my house to school, I always walk, always setting off at the same time. If I walk at a speed of 4 km/h, I arrive 5 minutes late for the start of classes; if, on the other hand, I walk at a speed of 5 km/h, I arrive 10 minutes before classes begin. How many metres is the school from my house?
 
-**Answer:** 5000
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_squadre_2010_finale#q01|src_kangourou_squadre_2010_finale__Q01]]
 
 
 
@@ -72,11 +72,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of whole septets with 2a^2+...=9*
+*Number of complete septines with 2a^2+...=9*
 
-> The circuit has some regular pentagons and some squares available; the sides of these polygons are all the same length. By placing them alternating pentagons and squares, so that one side of a pentagon matches another side of a square and vice versa, you want to make a closed circuit on a plane: the construction of the ring must proceed as shown in the figure. Assuming it is possible to build it, how many polygons will the closed circuit consist of? (Write 0000 if you can't build it.)
+> Circuit You have some regular pentagons and some squares at your disposal; all the sides of these polygons have the same length. By joining them together, alternating pentagons and squares so that one side of a pentagon matches one side of a square and vice versa, you want to form a closed circuit while remaining in one plane: the construction of the loop must proceed as indicated in the figure. Assuming it is possible to construct it, how many polygons will make up the closed circuit? (Write 0000 if it is not possible to construct it.)
 
-**Answer:** 2820
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_squadre_2010_finale#q02|src_kangourou_squadre_2010_finale__Q02]]
 
 
 
@@ -103,14 +108,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Years with the first two digits multiple of the last two*
+*Years whose first two digits are a multiple of the last two digits*
 
-> This is a particular year
-> The year 2010 has the curious peculiarity that the number formed by its first two digits is a multiple
-> of the one formed by the last two. The same thing happens for example for the year 2404. How many of the
-> next 400 years, that is, of the years from 2011 to 2410 inclusive, will have this property?
+> This is a special year. The year 2010 has the curious peculiarity that the number formed by its first two digits is a multiple of the number formed by its last two digits. The same thing happens, for example, with the year 2404. How many of the next 400 years—that is, the years from 2011 to 2410 inclusive—will have this property?
 
-**Answer:** 0017
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2010_finale#q03|src_kangourou_squadre_2010_finale__Q03]]
 
 
 
@@ -138,15 +145,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of zigzag paths on white boxes*
+*Number of zigzag paths on white squares*
 
-> The chessboard
-> On an ordinary 8 × 8 chessboard (32 white squares and 32 black squares alternating horizontally and
-> vertically), we call a “zig-zag path” a set of 8 white squares, one for each row, such
-> that, for every row from the second to the eighth, the square in that row shares a vertex
-> with the one in the previous row. How many different zig-zag paths can be found?
+> The Chessboard On an ordinary 8 × 8 chessboard (with 32 white squares and 32 black squares alternating horizontally and vertically), we call a “zigzag path” a set of 8 white squares, one in each row, such that, for each row from the second to the eighth, the square in that row shares a vertex with the square in the preceding row. How many different zigzag paths can be found?
 
-**Answer:** 0296
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_squadre_2010_finale#q04|src_kangourou_squadre_2010_finale__Q04]]
 
 
 
@@ -173,14 +181,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of numbers on the faces of the cube given 70 on the vertices*
+*Sum the numbers on the faces of the given cube; 70 on the vertices*
 
-> Faces and vertices
-> On each face of a cube we wrote a strictly positive integer. On each vertex
-> we wrote the product of the 3 numbers written on the faces that meet at that vertex. The sum
-> of the numbers written at the vertices is 70. What is the sum of the numbers written on the faces?
+> Faces and Vertices On each face of a cube, we have written a strictly positive integer. On each vertex, we have written the product of the three numbers written on the faces that meet at that vertex. The sum of the numbers written at the vertices is 70. What is the sum of the numbers written on the faces?
 
-**Answer:** 0014
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2010_finale#q05|src_kangourou_squadre_2010_finale__Q05]]
 
 
 
@@ -211,19 +221,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of the side cube 6*
+*Volume of the cubottahedron of a cube with side length 6*
 
 ![[src_kangourou_squadre_2010_finale__prob6.png]]
 
-> The cuboctahedron
-> We have a cube with a side of 6 centimeters. Having fixed a vertex, we consider the plane that passes through the
-> midpoints of each of the three edges that meet there: this plane cuts the cube into two
-> solids, one of which is a pyramid with its vertex at the edge in question. For every
-> vertex of the cube, we remove the pyramid obtained in this way: what remains is a
-> convex solid with faces that are squares or triangles (called a cuboctahedron).
-> How many cubic centimeters does its volume measure?
+> The cuboctahedron We have a cube with an edge length of 6 centimeters. Fixing one vertex, consider the plane that passes through the midpoints of each of the three edges meeting at that vertex: this plane cuts the cube into two solids, one of which is a pyramid whose vertex is at the edge in question. For each vertex of the cube, we remove the pyramid obtained in this way: what remains is a convex solid whose faces are squares or triangles (called a cuboctahedron). What is its volume in cubic centimeters?
 
-**Answer:** 0180
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_squadre_2010_finale#q06|src_kangourou_squadre_2010_finale__Q06]]
 
 
 
@@ -254,18 +262,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time of simultaneous re-ignition of three lamps*
+*Time of simultaneous re-ignition of three light bulbs*
 
-> Three light bulbs
-> Three blinking light bulbs turn on, one every two minutes, another every two and a half minutes and the
-> third every three minutes. Each of the three, when it turns on, stays on for a minute and a half.
-> At the instant in which my digital clock, which shows the minutes but not the seconds, changes to show
-> 10:38, the three light bulbs turn off simultaneously. What time will my clock show when
-> they all turn on again together for the first time?
-> N.B. The expression “they turn on every x minutes” means “between one turning on and the next
-> turning on again x minutes pass”. (To indicate, for example, 10:38, write 1038.)
+> Three light bulbs Three intermittent light bulbs turn on: one every two minutes, another every two and a half minutes, and the third every three minutes. Each of the three, when it turns on, stays on for a minute and a half. At the instant when my digital clock, which shows minutes but not seconds, changes to indicate 10:38, the three bulbs turn off simultaneously. What time will my clock show when all three turn on together for the first time? N.B. The phrase "turn on every x minutes" means "x minutes pass between one turning-on and the next turning-on." (To indicate, for example, 10:38, write 1038.)
 
-**Answer:** 1106
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2010_finale#q07|src_kangourou_squadre_2010_finale__Q07]]
 
 
 
@@ -294,11 +300,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the sum of pairs (telescopic)*
+*Result of the pairwise (telescoping) sum*
 
-> The rectangle becomes a square The figure shows the lines along which Mark cut a cardboard rectangle, the sides of which measured 36 and 81 centimeters, obtaining two triangles and a pentagon. By timely joining the three pieces, Marco was able to make a square. How many centimeters is the length of the segment indicated by x?
+> The rectangle becomes a square. The figure shows the lines along which Marco cut a cardboard rectangle whose sides measured 36 and 81 centimeters, resulting in two triangles and a pentagon. By fitting the three pieces obtained together appropriately, Marco was able to make a square. How many centimeters long is the line segment labeled x?
 
-**Answer:** 1340
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2010_finale#q08|src_kangourou_squadre_2010_finale__Q08]]
 
 
 
@@ -326,15 +337,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Year of prediction on units digit age and m^m*
+*Year of the prediction concerning the united digit age and m^m*
 
-> Princess Cunegonda
-> Princess Cunegonda was born on the first of January 1992. A fairy, who happened to pass by
-> the cradle in which Cunegonda, just born, lay, made the following prediction: “In the first year m in
-> which the units digit of Cunegonda's age will be equal to the units digit of $m^m$, to Cunegonda
-> something wonderful will happen”. The prediction later came true. In what year?
+> Princess Cunegonda Princess Cunegonda was born on January 1, 1992. A fairy, who happened to be passing by the cradle in which newborn Cunegonda lay, made the following prediction: "In the first year m in which the units digit of Cunegonda's age is equal to the units digit of $m^m$, something wonderful will happen to Cunegonda." The prediction later came true. In what year?
 
-**Answer:** 2008
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2010_finale#q09|src_kangourou_squadre_2010_finale__Q09]]
 
 
 
@@ -363,16 +375,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum letters of the alphabet to identify 1 million*
+*Minimum number of alphabet letters to identify 1 million*
 
-> An alphabet with many letters
-> A strange country has exactly one million inhabitants who speak a language with a very
-> rich alphabet. Each inhabitant of that country has a surname, a first name and a nickname whose three
-> initial letters are different from each other. You know that it is possible to identify each of the inhabitants using
-> only the initial letters, in order, of the surname, first name and nickname. How many must
-> the letters of the alphabet used in that country be at minimum?
+> An alphabet with many letters A strange country has exactly one million inhabitants who speak a language with a very rich alphabet. Every inhabitant of that country has a surname, a given name, and a nickname whose first three letters are all different from one another. You know that it is possible to identify each of the inhabitants using only the initial letters—in order—of the surname, the given name, and the nickname. What is the minimum number of letters the alphabet used in that country must have?
 
-**Answer:** 0102
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_squadre_2010_finale#q10|src_kangourou_squadre_2010_finale__Q10]]
 
 
 
@@ -402,14 +414,13 @@ level: squadre
 
 *First hexagon with thickness > 130*
 
-> The thickness of the hexagon
-> Let us call “thickness of a regular hexagon” the thickness of the circular ring bounded by the
-> circumference circumscribed about it and by the one inscribed in it (that is, the difference between the greater and the
-> lesser of the two radii). Let us now imagine a sequence of regular hexagons, the first with side 1, the
-> second with side 2, the third with side 3, and so on. What position does the first of these
-> hexagons whose thickness exceeds 130 occupy in the sequence?
+> The Thickness of a Hexagon We call the “thickness of a regular hexagon” the thickness of the circular annulus bounded by the circumcircle and the incircle of the hexagon (that is, the difference between the larger and the smaller of the two radii). Now imagine a sequence of regular hexagons: the first has side length 1, the second has side length 2, the third has side length 3, and so on. What position in the sequence does the first of these hexagons whose thickness exceeds 130 occupy?
 
-**Answer:** 0971
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_squadre_2010_finale#q11|src_kangourou_squadre_2010_finale__Q11]]
 
 
 
@@ -437,15 +448,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of pairs with internal sum 1999*
+*Sum of elements of pairs with internal sum 1999*
 
-> Pairs of numbers
-> Find all pairs {a,b} of positive integers, with a < b, such that the sum of all
-> integers strictly between a and b (that is, simultaneously greater than a and less than b) is
+> Pairs of numbers Find all pairs {a,b} of positive integers, with a < b, such that the sum of all integers strictly between a and b (that is, simultaneously greater than a and less than b) is
 > 1999. Write the sum of the elements of all these pairs (for example, if the pairs were
-> {a,b}, {c,d}, {e,f} you should write the number a + b + c + d + e + f ).
+> {a,b}, {c,d}, {e,f} — you should write the number a + b + c + d + e + f).
 
-**Answer:** 5997
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2010_finale#q12|src_kangourou_squadre_2010_finale__Q12]]
 
 
 
@@ -472,14 +486,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum maximum element of S with square product*
+*Minimum and maximum elements of S with squared product*
 
-> A special set of numbers
-> A set S of integers is such that its smallest element is 1001 and the product of all its
-> elements is a perfect square. What is the smallest value that the largest
-> element of S can have?
+> A Special Set of Numbers A set S of integers is such that its smallest element is 1001 and the product of all its elements is a perfect square. What is the smallest possible value of the largest element of S?
 
-**Answer:** 1040
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2010_finale#q13|src_kangourou_squadre_2010_finale__Q13]]
 
 
 
@@ -510,19 +526,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of rectangles in a 2010 m2 region with 7 squares*
+*Perimeter of rectangles in a region of 2010 m² with 7 squares*
 
 ![[src_kangourou_squadre_2010_finale__prob14.png]]
 
-> Rectangles and squares
-> The area of the rectangular region in the figure is 2010 m². The region is divided into seven squares and two
-> rectangles, as shown. The dimensions of all the squares and rectangles
-> referred to are expressed, in metres, by whole numbers. The two rectangles,
-> which appear shaded in the figure, have the same dimensions and
-> squares have the maximum possible size compatible with the
-> constraints of the problem. What is, in metres, the perimeter of each of the two rectangles?
+> Rectangles and Squares The area of the rectangular region in the figure is 2010 m². The region is divided into seven squares and two rectangles, as indicated. The dimensions of all the squares and rectangles in question are expressed in meters as whole numbers. The two rectangles, which appear shaded in the figure, have the same dimensions, and the squares have the maximum possible size consistent with the constraints of the problem. What is the perimeter of each of the two rectangles, in meters?
 
-**Answer:** 0134
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_squadre_2010_finale#q14|src_kangourou_squadre_2010_finale__Q14]]
 
 
 
@@ -550,12 +564,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most students with 3 problems out of 8 and one common*
+*Maximum number of students with 3 problems out of 8 and one commune*
 
-> The mathematics exam
-> Some students showed up for the mathematics exam. The professor had prepared 8 different
-> problems, all of the same difficulty, and managed to assign 3 to each student so that there
-> were no students with more than one problem in common. What is the maximum number of
-> students who showed up for the exam?
+> The Mathematics Exam Some students showed up for the mathematics exam. The teacher had prepared 8 different problems, all of the same difficulty, and managed to assign 3 problems to each student so that no two students had more than one problem in common. What is the maximum number of students who could have shown up for the exam?
 
-**Answer:** 0008
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_squadre_2010_finale#q15|src_kangourou_squadre_2010_finale__Q15]]

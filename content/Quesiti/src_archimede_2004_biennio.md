@@ -35,15 +35,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Playing with horses/monkeys and calculating track laps*
+*Tonnes of pasta eaten in Italy in a year*
 
-> According to a recent statistic, every Italian eats an average of 30 kg of pasta a year. Knowing that Italy has a population of 57 million, how many tons of pasta are consumed in Italy every year?
+> According to a recent statistic, every Italian eats on average 30 kg of pasta a year. Given that the Italian population is 57 million, how many tonnes of pasta are consumed in Italy each year?
 >
 > - **(A)** less than 1000
-> - **(B)** More than 1000, but less than 10 thousand
-> - **(C)** More than 10,000, but less than 100,000.
-> - **(D)** More than 100,000, but less than 1 million
+> - **(B)** more than 1000, but less than 10 thousand
+> - **(C)** more than 10 thousand, but less than 100 thousand
+> - **(D)** more than 100 thousand, but less than 1 million
 > - **(E)** more than 1 million
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2004_biennio#q01|src_archimede_2004_biennio__Q01]]
 
 
 
@@ -72,15 +77,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*classification stated*
+*classification of statements*
 
-> Luigi is 4 years older than Silvio, who, in turn, is 3 years older than Carlo. If they're 34 years old altogether, how old is the oldest?
+> Luigi is 4 years older than Silvio, who in turn is 3 years older than Carlo. If together they are 34 years old, how old is the oldest?
 >
 > - **(A)** 12
 > - **(B)** 15
 > - **(C)** 17
 > - **(D)** 18
 > - **(E)** 20
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2004_biennio#q02|src_archimede_2004_biennio__Q02]]
 
 
 
@@ -108,15 +119,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Type of figure formed by four rectangular triangles*
+*Type of figure formed by four right triangles*
 
-> Tarzan wants to hold his lion in a circular shaped shaft with a radius of 12 meters and a tall tree in the center. Tarzan binds the lion with a chain to the central tree, but the chain is 13 meters long instead of 12. He can't shorten it in any way, but when he looks at it, he realizes that to keep the lion from escaping, he takes it up to the tree. How many feet above Tarzan's ground does the chain tie? (Disregard the diameter of the tree and the size of the lion).
+> Tarzan wants to keep his lion in a circular clearing with radius 12 metres and with a tall tree in the centre. Tarzan ties the lion to the central tree with a chain, but the chain is 13 metres long instead of 12. Not being able in any way to shorten it, but at the moment of fixing it he realises that in order to make sure the lion does not escape, he carries it high up the tree. At what height from the ground does Tarzan tie the chain? (Neglect the diameter of the tree and the dimensions of the lion).
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
 > - **(E)** 5
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2004_biennio#q03|src_archimede_2004_biennio__Q03]]
 
 
 
@@ -143,15 +159,19 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*values of the parameter a*
+*Smallest of four numbers linked by equal shifts*
 
-> If $a + 1 = b - 2 = c + 3 = d - 4$, which is the smallest of the $a, b, c, d$ numbers?
+> If $a + 1 = b - 2 = c + 3 = d - 4$, which is the smallest of the numbers $a, b, c, d$?
 >
 > - **(A)** $a$
 > - **(B)** $b$
 > - **(C)** $c$
 > - **(D)** $d$
-> - **(E)** It cannot be established from the data of the problem
+> - **(E)** it cannot be determined from the data in the problem
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_archimede_2004_biennio#q04|src_archimede_2004_biennio__Q04]]
 
 
 
@@ -180,15 +200,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many natural numbers B in product, multiple choice*
+*Number of natural numbers B in a product, multiple choice*
 
-> A mathematics competition involves 1,200 candidates. 40% of them receive a medal (gold, silver or bronze). The number of bronze medals is three times that of silver and twice that of gold. How many gold medals are there?
+> 1200 candidates take part in a mathematics competition. 40% of them receive a medal (gold, silver or bronze). The number of bronze medals is three times the number of silver medals and twice the number of gold medals. How many gold medals are there?
 >
 > - **(A)** 120
 > - **(B)** 144
 > - **(C)** 160
 > - **(D)** 180
-> - **(E)** None of the preceding
+> - **(E)** none of the above
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2004_biennio#q05|src_archimede_2004_biennio__Q05]]
 
 
 
@@ -215,15 +241,19 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Determine the smallest integer number/pair B with sum*
+*How many of three friends are liars*
 
-> Three friends are talking. One of them says, "Are not two of us liars?" How many of them are liars?
+> Three friends are talking. One of them states: "It is not true that at least two of us are liars." How many of them are liars?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
-> - **(D)** the data are insufficient to uniquely determine
-> - **(E)** It is not possible to establish
+> - **(D)** the data are insufficient to determine it uniquely
+> - **(E)** it cannot be determined
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_archimede_2004_biennio#q06|src_archimede_2004_biennio__Q06]]
 
 
 
@@ -251,15 +281,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*numbers other than zero*
+*Which statement follows from the divisibility of a and b*
 
-> $a$, $b$ and $c$ are three natural numbers. We know that $a$ is divisible by 15 and $b$ is divisible by 21. Which of the following is certainly true?
+> $a$, $b$ and $c$ are three natural numbers. We know that $a$ is divisible by 15 and $b$ is divisible by 21. Which of the following statements is certainly true?
 >
 > - **(A)** $a^2 + b^2 + c^2$ is divisible by 2
 > - **(B)** $a + b + c$ is divisible by 18
 > - **(C)** $a + b + c$ is divisible by 9
 > - **(D)** $(a + b + c)^2$ is divisible by 9
 > - **(E)** $a^2 + b^2 + c^2$ is divisible by 9
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2004_biennio#q07|src_archimede_2004_biennio__Q07]]
 
 
 
@@ -287,15 +322,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-The value of the input data shall be the sum of the values of the input data.
+*Value of N*
 
-> The number 1 is initially written on the board. Then ten students take turns deleting the number they find on the board and replacing it with its double. What's the number left on the board at the end?
+> Initially the number 1 is written on the board. Then, ten students in turn erase the number they find on the board and replace it with its double. What is the number left on the board at the end?
 >
 > - **(A)** $2^{10} - 1$
 > - **(B)** $2^{10} + 1$
 > - **(C)** $2^{11} - 1$
 > - **(D)** $3^{10}$
 > - **(E)** $2^{10}$
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2004_biennio#q08|src_archimede_2004_biennio__Q08]]
 
 
 
@@ -324,15 +364,20 @@ The value of the input data shall be the sum of the values of the input data.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Function/position of vertices and number N of sides*
+*How Marco's expenditure in euros changes from year to year*
 
-> Once a year, Marco has to travel to a distant country for work from an airport. However, that country's currency loses 30 percent of its value to the euro each year, while prices in that country double from year to year. The expenditure (in euro) incurred by Marco for his stay in 2004 is as follows:
+> Once a year Marco has to go, for work, to a distant country, the distance booked from an airport. However, that country's currency loses 30 percent of its value against the euro each year, while from one year to the next prices in that country double. Marco's expenditure (in euros) for his stay in 2004 is:
 >
 > - **(A)** less than that of 2002
 > - **(B)** equal to that of 2002
-> - **(C)** higher than that of 2002, but less than twice that
-> - **(D)** equal to twice the expenditure of 2002
-> - **(E)** More than double the expenditure of 2002
+> - **(C)** greater than that of 2002, but less than twice that
+> - **(D)** equal to twice the 2002 expenditure
+> - **(E)** greater than twice the 2002 expenditure
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2004_biennio#q09|src_archimede_2004_biennio__Q09]]
 
 
 
@@ -382,37 +427,23 @@ The value of the input data shall be the sum of the values of the input data.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Construction/inscription on circumference, beams a,b*
+*Length of a chord that is twice another, in two concentric circles*
 
 ![[src_archimede_2004_biennio__prob10.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.8]
-  \def\R{2.5}
-  \def\r{2.0}
-  \def\yy{-1.7}
-  \draw (0,0) circle (\R);
-  \draw (0,0) circle (\r);
-  \fill (0,0) circle (1.2pt); \node[above] at (0,0.05) {$O$};
-  \pgfmathsetmacro\xa{sqrt(\R*\R-\yy*\yy)}
-  \pgfmathsetmacro\xc{sqrt(\r*\r-\yy*\yy)}
-  \draw (-\xa,\yy) -- (\xa,\yy);
-  \fill (-\xa,\yy) circle (1.2pt); \node[below] at (-\xa,\yy) {$B$};
-  \fill (\xa,\yy) circle (1.2pt);  \node[below] at (\xa,\yy) {$A$};
-  \fill (-\xc,\yy) circle (1.2pt); \node[below] at (-\xc,\yy) {$D$};
-  \fill (\xc,\yy) circle (1.2pt);  \node[below] at (\xc,\yy) {$C$};
-\end{tikzpicture}
-\end{document}
-```
-
-> How long is the rope knowing that the radii of the two concentric circles are 5 meters and 4 meters? (see figure)
+> How long is the chord $AB$, given that $AB = 2CD$ and that the radii of the two concentric circles are 5 metres and 4 metres? (see the figure)
 >
 > - **(A)** $2\sqrt{2}$ m
 > - **(B)** $2\sqrt{3}$ m
 > - **(C)** $3\sqrt{3}$ m
 > - **(D)** $4\sqrt{3}$ m
-> - **(E)** depends on the slope of the rope
+> - **(E)** it depends on the inclination of the chord
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2004_biennio#q10|src_archimede_2004_biennio__Q10]]
 
 
 
@@ -442,17 +473,21 @@ The value of the input data shall be the sum of the values of the input data.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many positive whole solutions*
+*Number of positive integer solutions*
 
-> What are the ordered pairs of natural numbers $(x, y)$, $x > 0$ and $y > 0$, such as $5 < x + y \leq 10$? (Note: they are considered ordered pairs, so for example $(1, 2)$ and $(2, 1)$ are separate pairs).
+> How many ordered pairs of natural numbers $(x, y)$, $x > 0$ and $y > 0$, are there such that $5 < x + y \leq 10$? (Note: ordered pairs are intended, so, for example, $(1, 2)$ and $(2, 1)$ are distinct pairs).
 >
 > - **(A)** 20
 > - **(B)** 25
 > - **(C)** 30
 > - **(D)** 35
-> - **(E)** None of the preceding
+> - **(E)** none of the above
 
-**Answer:** 2005
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2004_biennio#q11|src_archimede_2004_biennio__Q11]]
 
 
 
@@ -480,15 +515,20 @@ The value of the input data shall be the sum of the values of the input data.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*side of the segment*
+*Mark needed on the last test to reach a given average*
 
-> Michele prepares for the final math class assignment of the year; he tackles it calmly, knowing that if he takes 10 he will have already made an average of 9 this year, while taking 5 the average will become 8. How many assignments did Michael do this year?
+> Michele is preparing for the last in-class mathematics test of the year; he faces it calmly, knowing that if he scores 10 he will already have an average of 9 this year, while if he scores 5 the average will become 8. How many class tests has Michele taken this year?
 >
 > - **(A)** 2
 > - **(B)** 3
 > - **(C)** 4
 > - **(D)** 5
-> - **(E)** The data is not sufficient to give the answer
+> - **(E)** the data are not sufficient to give the answer
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2004_biennio#q12|src_archimede_2004_biennio__Q12]]
 
 
 
@@ -516,15 +556,20 @@ The value of the input data shall be the sum of the values of the input data.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two-digit numbers summed up in form, base sum*
+*Height of a right trapezoid with an inscribed circle*
 
-> The rectangular trapezoid $ABCD$ contains a radius of 1 metre, tangent on all sides. Knowing that the oblique side $BC$ is 7 meters long, find the area of the trapezium. (see figure)
+> The right trapezoid $ABCD$ contains a circle of radius 1 metre, tangent to all its sides. Given that the slanted side $BC$ is 7 metres long, find the area of the trapezoid (see the figure).
 >
-> - **(A)** 8 square meters
-> - **(B)** 9 square meters
-> - **(C)** 10 square meters
-> - **(D)** 11 square meters
-> - **(E)** You can't get it from the problem data.
+> - **(A)** 8 square metres
+> - **(B)** 9 square metres
+> - **(C)** 10 square metres
+> - **(D)** 11 square metres
+> - **(E)** it cannot be obtained from the data of the problem
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2004_biennio#q13|src_archimede_2004_biennio__Q13]]
 
 
 
@@ -552,12 +597,17 @@ The value of the input data shall be the sum of the values of the input data.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many real solutions*
+*Height of a stack of cushions after compression*
 
-> Twenty soft square pillows are stacked on top of each other. Each pillow weighs 500 g and initially has a thickness of 30 cm. In the pile, however, the thickness of each pillow is reduced by 2 cm for each half kilogram of weight above it (1 cm for each half kilogram). How high is the pile?
+> Twenty soft square cushions are stacked one on top of another. Each cushion weighs 500 g and initially has a thickness of 30 cm. In the stack, however, the thickness of each cushion is reduced by 2 cm for every half a kilogram of weight above it (1 cm for every half a kilogram). How tall is the stack?
 >
 > - **(A)** 220 cm
 > - **(B)** 410 cm
 > - **(C)** 490 cm
 > - **(D)** 551 cm
-> - **(E)** There is no data to answer.
+> - **(E)** there are not enough data to answer
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2004_biennio#q14|src_archimede_2004_biennio__Q14]]

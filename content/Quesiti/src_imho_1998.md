@@ -31,7 +31,14 @@ level: IMO
 
 *Quadrilatero ciclico se e solo se due triangoli hanno aree uguali*
 
-> Nel quadrilatero convesso $ABCD$, le diagonali $AC$ e $BD$ sono perpendicolari e i lati opposti $AB$ e $DC$ non sono paralleli. Si supponga che il punto $P$, in cui si incontrano gli assi dei segmenti $AB$ e $DC$, sia interno a $ABCD$. Si dimostri che $ABCD$ è ciclico se e solo se i triangoli $ABP$ e $CDP$ hanno la stessa area.
+> Nel quadrilatero convesso $ABCD$, le diagonali $AC$ e $BD$ sono perpendicolari e i lati opposti $AB$ e $DC$ non sono paralleli. Si supponga che il punto $P$, in cui si intersecano le mediatrici di $AB$ e $DC$, sia interno a $ABCD$. Dimostrare che $ABCD$ è un quadrilatero ciclico se e solo se i triangoli $ABP$ e $CDP$ hanno aree uguali.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1998#q01|src_imho_1998__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valutazione dei giudici ai concorrenti: si dimostri che k/a ≥ (b−1)/(2b)*
+*I giudici valutano i concorrenti: dimostrare che k/a >= (b-1)/(2b)*
 
-> In una gara vi sono $a$ partecipanti e $b$ giudici, dove $b \ge 3$ è un numero dispari. Ogni giudice valuta ciascun partecipante con "superato" o "bocciato". Si supponga che $k$ sia un numero tale che, per ogni coppia di giudici, le loro valutazioni coincidano al più per $k$ partecipanti. Si dimostri che $k/a \ge (b-1)/(2b)$.
+> In una competizione, ci sono $a$ concorrenti e $b$ giudici, dove $b \ge 3$ è un numero intero dispari. Ogni giudice valuta ciascun concorrente come "promosso" o "bocciato". Sia $k$ un numero tale che, per qualsiasi coppia di giudici, le loro valutazioni coincidano al più per $k$ concorrenti. Dimostrare che $k/a \ge (b-1)/(2b)$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1998#q02|src_imho_1998__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutti gli interi positivi k tali che d(n²)/d(n) = k per qualche n*
+*Trovare tutti gli interi positivi k tali che d(n^2)/d(n)=k per qualche n*
 
-> Per ogni intero positivo $n$, sia $d(n)$ il numero dei divisori positivi di $n$ (inclusi $1$ e $n$ stesso). Determinare tutti gli interi positivi $k$ tali che $d(n^2)/d(n) = k$ per qualche $n$.
+> Per ogni intero positivo $n$, si indichi con $d(n)$ il numero di divisori positivi di $n$ (inclusi $1$ e $n$ stesso). Determinare tutti gli interi positivi $k$ tali che $d(n^2)/d(n) = k$ per qualche $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1998#q03|src_imho_1998__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le coppie (a,b) di interi positivi con divisibilità data*
+*Coppie di interi positivi per cui ab² + b + 7 divide a²b + a + b*
 
 > Determinare tutte le coppie $(a, b)$ di interi positivi tali che $ab^2 + b + 7$ divide $a^2 b + a + b$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata per casi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_imho_1998#q04|src_imho_1998__Q04]]
 
 
 
@@ -129,9 +157,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Costruzione dei punti di tangenza della circonferenza inscritta: l'angolo RIS è acuto*
+*Costruzione dei punti di tangenza dell'incircoscritto: l'angolo RIS è acuto*
 
-> Sia $I$ l'incentro del triangolo $ABC$. Sia la circonferenza inscritta nel triangolo $ABC$ tangente ai lati $BC$, $CA$ e $AB$ rispettivamente nei punti $K$, $L$ e $M$. La retta passante per $B$ parallela a $MK$ incontra le rette $LM$ e $LK$ nei punti $R$ e $S$, rispettivamente. Si dimostri che l'angolo $RIS$ è acuto.
+> Sia $I$ l'incentro del triangolo $ABC$. Sia $K$, $L$ e $M$ rispettivamente i punti di contatto della circonferenza inscritta di $ABC$ con i lati $BC$, $CA$ e $AB$. La retta passante per $B$ e parallela a $MK$ incontra le rette $LM$ e $LK$ rispettivamente nei punti $R$ e $S$. Dimostrare che l'angolo $RIS$ è acuto.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1998#q05|src_imho_1998__Q05]]
 
 
 
@@ -154,6 +189,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale sugli interi positivi; determinare il minimo valore di f(1998)*
+*Equazione funzionale sugli interi positivi; trovare il minimo di f(1998)*
 
-> Si considerino tutte le funzioni $f$ dall'insieme $N$ di tutti gli interi positivi in sé stessa che soddisfano $f(t^2 f(s)) = s(f(t))^2$ per ogni $s$ e $t$ in $N$. Determinare il valore minimo possibile di $f(1998)$.
+> Si considerino tutte le funzioni $f$ dall'insieme $N$ di tutti gli interi positivi in sé stesse, che soddisfano $f(t^2 f(s)) = s(f(t))^2$ per tutti gli $s$ e $t$ in $N$. Si determini il valore minimo possibile di $f(1998)$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1998#q06|src_imho_1998__Q06]]

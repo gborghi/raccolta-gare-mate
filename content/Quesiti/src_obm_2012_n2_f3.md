@@ -33,13 +33,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trasformazioni di amoeba: tubo con 201 amoeba blu e 112 amoeba rosso*
+*Trasformazioni delle amebe: tubo con 201 amebe blu e 112 amebe rosse*
 
-> Quando due amebe rosse si uniscono, si trasformano in una sola ameba blu; quando una ameba blu si unisce ad una ameba rossa, entrambe si trasformano in tre amebe rosse; quando due amebe blu si uniscono, si trasformano in quattro amebe rosse. Un tubo di prova contiene inizialmente $201$ amoebas blu e $112$ amoebas rosse.
-> 
-> a) È possibile che, dopo alcune trasformazioni, il tubo contenga $100$ amoebas blu e $314$ amoebas rosse?
-> 
-> b) È possibile che, dopo alcune trasformazioni, il tubo contenga $99$ amoebas blu e $314$ amoebas rosse?
+> Quando due amebe rosse si uniscono, si trasformano in un'unica ameba blu; quando un'ameba blu si unisce a un'ameba rossa, entrambe si trasformano in tre amebe rosse; quando due amebe blu si uniscono, si trasformano in quattro amebe rosse. Inizialmente, una provetta contiene $201$ amebe blu e $112$ amebe rosse.
+>
+> a) È possibile che, dopo alcune trasformazioni, il tubo contenga $100$ amebe blu e $314$ amebe rosse?
+>
+> b) È possibile che, dopo alcune trasformazioni, il tubo contenga $99$ amebe blu e $314$ amebe rosse?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n2_f3#q01|src_obm_2012_n2_f3__Q01]]
 
 
 
@@ -62,9 +69,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le sequenze Somos distinte contenenti 2012*
+*Conta le sequenze Somos distinte che contengono 2012*
 
-> Molte persone conoscono la sequenza di Fibonacci, ma non molte persone sanno che un matematico brasiliano della stessa epoca ha creato le sequenze Somos. Queste sequenze sono generate da tre termini iniziali interi positivi inferiori a $2012$. A differenza di ciò che accade nella sequenza di Fibonacci, ogni termine di una sequenza Somos è la somma di tutti i termini precedenti. Quante diverse sequenze Somos contengono il numero $\mathbf{2012}$ in qualche posizione?
+> Molte persone conoscono la successione di Fibonacci, ma non molte sanno che un matematico brasiliano della stessa epoca ha creato le successioni Somos. Queste successioni sono generate a partire da tre termini iniziali interi positivi minori di $2012$. A differenza di quanto accade nella successione di Fibonacci, ciascun termine di una successione Somos è la somma di tutti i termini precedenti. Quante successioni Somos distinte contengono il numero $\mathbf{2012}$ in qualche posizione?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n2_f3#q02|src_obm_2012_n2_f3__Q02]]
 
 
 
@@ -87,9 +101,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Concorrenza di XY, WZ e BC nella configurazione triangolare*
+*Concorrenza di XY, WZ e BC in configurazione triangolare*
 
-> Lasciate che $ABC$ sia un triangolo. $M$ sia il punto medio del lato $AC$ e $N$ sia il punto medio del lato $AB$. Definire $r$ e $z$ rispettivamente come riflessi delle linee $BM$ e $CN$ sulla linea $BC$. Definire inoltre $D$ e $E$ come intersezioni delle linee $r$ e $z$ con la linea $MN$, rispettivamente. Il $X$ e il $Y$ siano i punti di intersezione delle linee $r$ e $z$ con i circoncircoli dei triangoli $BDM$ e $CEN$, rispettivamente. Il $W$ deve essere l'incrocio delle linee $BE$ e $CD$. Provare che le linee $XY$, $WZ$ e $BC$ sono simultanee.
+> Sia $ABC$ un triangolo. Sia $M$ il punto medio del lato $AC$ e sia $N$ il punto medio del lato $AB$. Si definiscano $r$ e $z$ come le riflessioni delle rette $BM$ e $CN$ rispetto alla retta $BC$, rispettivamente. Si definiscano inoltre $D$ e $E$ come gli intersezioni delle rette $r$ e $z$ con la retta $MN$, rispettivamente. Siano $X$ e $Y$ i punti di intersezione delle rette $r$ e $z$ con le circonferenze circoscritte ai triangoli $BDM$ e $CEN$, rispettivamente. Sia $W$ l'intersezione delle rette $BE$ e $CD$. Dimostrare che le rette $XY$, $WZ$ e $BC$ sono concorrenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n2_f3#q03|src_obm_2012_n2_f3__Q03]]
 
 
 
@@ -114,11 +135,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo di ricerca CMD: pentagono regolare inscritto in triangolo equilaterale*
+*Trovare l'angolo CMD: pentagono regolare inscritto in un triangolo equilatero*
 
-> La figura seguente mostra un pentagono regolare $ABCDE$ iscritto in un triangolo equilaterale $MNP$. Determinare la misura dell'angolo $CMD$.
+> La figura sottostante mostra un pentagono regolare $ABCDE$ inscritto in un triangolo equilatero $MNP$. Determinare la misura dell'angolo $CMD$.
 
 ![[src_obm_2012_n2_f3__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n2_f3#q04|src_obm_2012_n2_f3__Q04]]
 
 
 
@@ -141,9 +169,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova a+b dato due equazioni nei numeri reali a e b*
+*Trovare a+b dati due equazioni in a e b, numeri reali*
 
-> Considerare i numeri reali $a$ e $b$, come $(a + b)(a + 1)(b + 1) = 2$ e $a^2 + b^2 = 1$. Trova il valore di $a + b$.
+> Si considerino i numeri reali $a$ e $b$ tali che $(a + b)(a + 1)(b + 1) = 2$ e $a^2 + b^2 = 1$. Si determini il valore di $a + b$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2012_n2_f3#q05|src_obm_2012_n2_f3__Q05]]
 
 
 
@@ -172,12 +207,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i valori m,n,d che consentono la marcatura completa di m×n bar di cioccolato*
+*Trovare i valori di m, n, d che consentano di marcare completamente la barretta di cioccolato m×n*
 
-> Maria ha una barra di cioccolato di dimensioni $m \times n$ divisa in quadrati $1 \times 1$. Desidera segnare ogni piccolo quadrato utilizzando lo strumento di stampilamento seguente:
-> 
-> Lo strumento può essere utilizzato orizzontalmente o verticalmente. Esso segna due quadrati che lasciano tra di loro due quadrati con distanza $d = 1$; i quadrati segnalati non possono essere alterati e non è consentito segnalare un quadrato più di una volta. Per quali valori di $m$, $n$ e $d$ è possibile segnare tutti i quadrati secondo queste condizioni?
-> 
-> *Nota:* Esempio di marcatura con $d = 3$, utilizzandola una volta verticalmente e una volta orizzontalmente.
+> Maria ha una barretta di cioccolato di dimensioni $m \times n$, suddivisa in $1 \times 1$ quadratini. Desidera contrassegnare ciascun piccolo quadratino utilizzando il seguente strumento di timbratura:
+>
+> Lo strumento può essere utilizzato in orizzontale o in verticale. Marca due caselle lasciando tra esse due caselle a una distanza di $d = 1$; le caselle marcate non possono essere modificate e non è consentito marcare una casella più di una volta. Per quali valori di $m$, $n$ e $d$ è possibile marcare tutte le caselle rispettando queste condizioni?
+>
+> *Nota:* Esempio di marcatura con $d = 3$, utilizzandolo una volta in verticale e una volta in orizzontale.
 
 ![[src_obm_2012_n2_f3__q06.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n2_f3#q06|src_obm_2012_n2_f3__Q06]]

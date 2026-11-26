@@ -36,9 +36,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total number of units in the Union.
+*Units digit of 2023^(2022^2021)*
 
-> What is the number of units of the number 2023(20222021)?
+> What is the units digit of the number 2023(20222021)?
 >
 > - **(A)** 3
 > - **(B)** 9
@@ -46,7 +46,11 @@ This is the total number of units in the Union.
 > - **(D)** 1
 > - **(E)** 5
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2022_biennio#q01|src_archimede_2022_biennio__Q01]]
 
 
 
@@ -79,17 +83,21 @@ This is the total number of units in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In which box is the 2022th pearl*
+*Colour of the box that receives the 2022nd bead*
 
-> Giulia has a lot of pearls and 5 colored boxes to put them in: she puts 2 in the yellow box, 2 in the blue box, then 3 in the red box, 3 in the green box and 3 in the white box, after which she starts again with the same rule. What's the box like where you're gonna put your 2022th pearl?
+> Giulia has a sack of beads and 5 coloured boxes to put them in: she puts 2 in the yellow box, 2 in the blue box, then 3 in the red one, 3 in the green one and 3 in the white one, after which she starts again with the same rule. What colour is the box in which she will put the 2022nd bead?
 >
 > - **(A)** yellow
-> - **(B)** Blue
-> - **(C)** Red
-> - **(D)** Green
+> - **(B)** blue
+> - **(C)** red
+> - **(D)** green
 > - **(E)** white
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2022_biennio#q02|src_archimede_2022_biennio__Q02]]
 
 
 
@@ -119,9 +127,9 @@ This is the total number of units in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle to the top of an isosceles triangle with a point on the side*
+*Vertex angle of an isosceles triangle with a point on a side*
 
-> ABC is an isosceles triangle with AC = BC. A point A′ on the AC side shall be chosen so that AB = BA′ = A′C. What is the width of the angle $\widehat{ACB}$?
+> ABC is an isosceles triangle with AC = BC. A point A′ is chosen on side AC such that AB = BA′ = A′C. What is the measure of angle $\widehat{ACB}$?
 >
 > - **(A)** 30°
 > - **(B)** 36°
@@ -129,7 +137,10 @@ This is the total number of units in the Union.
 > - **(D)** 45°
 > - **(E)** 60°
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2022_biennio#q03|src_archimede_2022_biennio__Q03]]
 
 
 
@@ -163,7 +174,7 @@ This is the total number of units in the Union.
 
 *Four-digit numbers with three equal digits (not 0) and one 0*
 
-> Gabriele notes that the number 2022 is written with 3 equal digits (different from 0) and a digit 0. How many are all four-digit natural numbers that are written with three equal digits (different from 0) and a digit 0?
+> Gabriele notices that the number 2022 is written with three equal digits (different from 0) and one digit 0. How many natural numbers of 4 digits are there in total that are written with three equal digits (different from 0) and one digit 0?
 >
 > - **(A)** 21
 > - **(B)** 22
@@ -171,7 +182,11 @@ This is the total number of units in the Union.
 > - **(D)** 25
 > - **(E)** 27
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2022_biennio#q04|src_archimede_2022_biennio__Q04]]
 
 
 
@@ -204,17 +219,20 @@ This is the total number of units in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance from the starting point after 100 steps forward*
+*Distance from the starting point after 100 forward steps*
 
-> While thinking about a math problem, Francesco walks back and forth as usual, taking one step forward, two back, three forward, four back and so on. The moment, for the first time, he takes 100 consecutive steps forward, he finally solves the problem. How many meters will it be from the starting point (given that each step is 60 cm)?
+> While thinking about a math problem, Francesco walks as usual back and forth, taking 1 step forward, 2 steps back, 3 steps forward, 4 steps back, and so on. The moment he for the first time makes 100 consecutive forward steps, he finally solves the problem. How many metres away will he be from the starting point (given that each step is 60 cm)?
 >
-> - **(A)** 29,40
+> - **(A)** 29.40
 > - **(B)** 30
-> - **(C)** 30,60
-> - **(D)** 31,20
-> - **(E)** 31,80
+> - **(C)** 30.60
+> - **(D)** 31.20
+> - **(E)** 31.80
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2022_biennio#q05|src_archimede_2022_biennio__Q05]]
 
 
 
@@ -245,9 +263,10 @@ This is the total number of units in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of two numbers with mcm equal to 240*
+*Smallest possible sum of two numbers with LCM equal to 240*
 
-> Knowing that the least common multiple between two natural numbers is equal to 240, what is the smallest possible value of their sum?
+> Knowing that the least common multiple of two natural numbers is equal to 240,
+> what is the smallest possible value of their sum?
 >
 > - **(A)** 34
 > - **(B)** 32
@@ -255,7 +274,11 @@ This is the total number of units in the Union.
 > - **(D)** 30
 > - **(E)** 38
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2022_biennio#q06|src_archimede_2022_biennio__Q06]]
 
 
 
@@ -336,43 +359,11 @@ This is the total number of units in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parallelogram perimeter from subparallelogram perimeter*
+*Perimeter of parallelogram ABCD from three inner perimeters*
 
 ![[src_archimede_2022_biennio__prob7.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.2]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (3,0);
-  \coordinate (C) at (4,3);
-  \coordinate (D) at (1,3);
-  \coordinate (P) at (2.0,1.2);
-  \draw (A)--(B)--(C)--(D)--cycle;
-  \coordinate (Ap) at (1.6,0);
-  \coordinate (Cp) at (2.6,3);
-  \coordinate (Dp) at (0.4,1.2);
-  \coordinate (Bp) at (3.4,1.2);
-  \draw (Ap)--(Cp);
-  \draw (Dp)--(Bp);
-  \fill (P) circle (1.2pt);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above right] at (C) {$C$};
-  \node[above left] at (D) {$D$};
-  \node[below] at (Ap) {$A'$};
-  \node[above] at (Cp) {$C'$};
-  \node[left] at (Dp) {$D'$};
-  \node[right] at (Bp) {$B'$};
-  \node[above right] at (P) {$P$};
-  \node at (1.0,0.6) {$29$};
-  \node at (1.5,2.1) {$47$};
-  \node at (3.0,2.1) {$38$};
-\end{tikzpicture}
-\end{document}
-```
-
-> Considered an ABCD parallelogram, the lines parallel to the sides passing through an inner point P intersect the sides in A′, B′, C′ and D′, as shown in Figure 1. The perimeters (in metres) of the parallelograms D′AA′P, C′DD′P and B′CC′P are as shown in Figure 1. How many metres does the perimeter of the ABCD parallelogram measure? A B C D P A′ B′ C′ D′ 29 47 38
+> Consider a parallelogram ABCD. The lines through an interior point P, parallel to the sides, meet the sides at A′, B′, C′ and D′, as in the figure. The perimeters (in metres) of the parallelograms D′AA′P, C′DD′P and B′CC′P are those shown in the figure: 29, 47 and 38. How many metres is the perimeter of the parallelogram ABCD?
 >
 > - **(A)** 78
 > - **(B)** 63
@@ -380,7 +371,12 @@ This is the total number of units in the Union.
 > - **(D)** 114
 > - **(E)** 67
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2022_biennio#q07|src_archimede_2022_biennio__Q07]]
 
 
 
@@ -413,9 +409,12 @@ This is the total number of units in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of brick from three possible heights of pile*
+*Volume of a brick from three possible stack heights*
 
-> On a table there are two identical wooden bricks, shaped like parallel pipes. Clara wants to stack them on top of each other, making the two faces in contact different from each other. Thus, the overall height of the pile can be either 22 cm or 30 cm or 32 cm. How many cubic centimetres is the volume of a brick?
+> On a table there are two identical wooden bricks, in the shape of a parallelepiped.
+> Clara wants to stack them one on top of the other, making sure that the two faces in contact
+> are different from each other. In doing so, the total height of the stack can be either
+> 22 cm or 30 cm or 32 cm. How many cm3 is the volume of one brick?
 >
 > - **(A)** 2400
 > - **(B)** 2700
@@ -423,7 +422,11 @@ This is the total number of units in the Union.
 > - **(D)** 2800
 > - **(E)** 1800
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2022_biennio#q08|src_archimede_2022_biennio__Q08]]
 
 
 
@@ -460,9 +463,15 @@ This is the total number of units in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the centre-right box of table 3x3*
+*Number in the centre-right cell of a 3x3 table*
 
-> In a table 3 × 3 all natural numbers from 1 to 9 are written. We know that: the product of the numbers in the top row is 84; the product of the numbers in the left column is 16; the sum of the numbers in the middle row is equal to the sum of the numbers in the bottom row; the product of the numbers in one of the two diagonals is odd. What number is written in the box to the right of the middle line? ?
+> In a 3 × 3 table all the natural numbers from 1 to 9 are written. It is known that:
+> the product of the numbers in the top row is 84; the product
+> of the numbers in the left column is 16; the sum of the numbers in
+> the middle row is equal to the sum of the numbers in the bottom row;
+> the product of the numbers in one of the two diagonals is odd. What
+> number is written in the right cell of the middle row?
+> ?
 >
 > - **(A)** 5
 > - **(B)** 4
@@ -470,7 +479,11 @@ This is the total number of units in the Union.
 > - **(D)** 6
 > - **(E)** 3
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2022_biennio#q09|src_archimede_2022_biennio__Q09]]
 
 
 
@@ -502,9 +515,9 @@ This is the total number of units in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distinct terms a|b|c|12 chain of divisors*
+*Distinct triples a|b|c|12 divisor chain*
 
-> How many sets of natural numbers are distinct from each other (a, b, c) such that the number a is a divisor of b, the number b is a divisor of c and the number c is a divisor of 12?
+> How many triples of natural numbers that are pairwise distinct (a, b, c) are there such that the number a is a divisor of b, the number b is a divisor of c, and the number c is a divisor of 12?
 >
 > - **(A)** 6
 > - **(B)** 7
@@ -512,7 +525,11 @@ This is the total number of units in the Union.
 > - **(D)** 10
 > - **(E)** 9
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2022_biennio#q10|src_archimede_2022_biennio__Q10]]
 
 
 
@@ -544,7 +561,7 @@ This is the total number of units in the Union.
 
 *Three-digit numbers with at least one digit equal to 4*
 
-> How many three-digit natural numbers are there where at least one of the digits is equal to four?
+> How many three-digit natural numbers have at least one digit equal to 4?
 >
 > - **(A)** 252
 > - **(B)** 196
@@ -552,7 +569,11 @@ This is the total number of units in the Union.
 > - **(D)** 225
 > - **(E)** 216
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2022_biennio#q11|src_archimede_2022_biennio__Q11]]
 
 
 
@@ -584,9 +605,9 @@ This is the total number of units in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of a cube with a painted face*
+*Probability of a cube with one painted face*
 
-> Laura paints the entire surface of a wooden cube in blue, then she cuts it into 63 = 216 equal cubes. By mixing the cubes and pulling one out at random, what are the odds that Laura will find one that has exactly the face painted blue?
+> Laura paints the entire surface of a wooden cube blue, then cuts it by dividing it into 63 = 216 equal cubes. Mixing the cubes and drawing one at random, what is the probability that Laura finds one that has exactly one face painted blue?
 >
 > - **(A)** 9/24
 > - **(B)** 32/81
@@ -594,7 +615,11 @@ This is the total number of units in the Union.
 > - **(D)** 1/3
 > - **(E)** 4/9
 
-**Answer:** E
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2022_biennio#q12|src_archimede_2022_biennio__Q12]]
 
 
 
@@ -638,11 +663,20 @@ This is the total number of units in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last number of the hundredth line by leaping multiples of 5*
+*Last number in the hundredth row skipping multiples of 5*
 
-![[src_archimede_2022_biennio__prob13.png]]
-
-> The table right next to it, with 7 columns and infinite rows continuing down, is filled in boxes with the natural numbers, in increasing order, skipping all the multiples of 5. What number does the hundredth line end with? 1 2 3 4 6 7 8 9 11 12 13 14 16 17
+> The table alongside, with 7 columns and infinite rows
+> continuing downward, is filled by inserting the natural numbers, in increasing order, skipping all multiples of 5. With which number does the
+> hundredth row end?
+> 1
+> 2
+> 3
+> 4
+> 6
+> 7
+> 8
+> 9
+> 11 12 13 14 16 17
 >
 > - **(A)** 876
 > - **(B)** 874
@@ -650,7 +684,11 @@ This is the total number of units in the Union.
 > - **(D)** 701
 > - **(E)** 699
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2022_biennio#q13|src_archimede_2022_biennio__Q13]]
 
 
 
@@ -683,9 +721,9 @@ This is the total number of units in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What height measurements are impossible for a triangle*
+*Which altitude measurements are impossible for a triangle*
 
-> A teacher assigned the task of drawing on the notebook an ABC triangle at will, tracing the three heights AA′, BB′, CC′, and measuring their respective lengths. Five pupils found the measurements in the answers below. Which one of them is sure to have done something wrong?
+> A teacher assigned the task of drawing a triangle ABC at will in the notebook, drawing the three altitudes AA′, BB′, CC′ and measuring their respective lengths. Five pupils found the measurements reported in the answers below. Who of them definitely got something wrong?
 >
 > - **(A)** AA′ = 4 cm BB′ = 6 cm CC′ = 8 cm
 > - **(B)** AA′ = 3 cm BB′ = 4 cm CC′ = 6 cm
@@ -693,7 +731,11 @@ This is the total number of units in the Union.
 > - **(D)** AA′ = 4 cm BB′ = 6 cm CC′ = 9 cm
 > - **(E)** AA′ = 3 cm BB′ = 6 cm CC′ = 8 cm
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2022_biennio#q14|src_archimede_2022_biennio__Q14]]
 
 
 
@@ -727,9 +769,10 @@ This is the total number of units in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of no cavities after 89 extractions*
+*Probability that neither player has completed a bingo after 89 draws*
 
-> Lucia and Carla play against each other in a bowl game (without any other opponents). Each folder has 15 numbers; the two folders have precisely 4 numbers in common. What is the probability that after 89 numbers were extracted, none of the two have ever made it?
+> Lucia and Carla play bingo against each other (with no other opponents). Each has a card with 15 numbers; the two cards have exactly 4 numbers in common.
+> What is the probability that, after 89 numbers have been drawn, neither of them has yet completed bingo?
 >
 > - **(A)** 2/45
 > - **(B)** 3/89
@@ -737,7 +780,11 @@ This is the total number of units in the Union.
 > - **(D)** 1/30
 > - **(E)** 1/90
 
-**Answer:** A
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2022_biennio#q15|src_archimede_2022_biennio__Q15]]
 
 
 
@@ -770,9 +817,9 @@ This is the total number of units in the Union.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*DEG triangle area from the following midpoints*
+*Area of triangle DEG from successive midpoints*
 
-> In the triangle ABC, the sides AB and AC measure 10 m and 17 m respectively, the height AH measures 8 m and the angle bA is curved. If the mean point of AB is D, the mean point of BD is E, the mean point of AC is F and the mean point of AF is G, how many m2 does the area of the DEG triangle measure?
+> In triangle ABC, sides AB and AC measure 10 m and 17 m respectively, the altitude AH measures 8 m and angle A is obtuse. Denoting by D the midpoint of AB, by E the midpoint of BD, by F the midpoint of AC and by G the midpoint of AF, how many m² does the area of triangle DEG measure?
 >
 > - **(A)** 9/2
 > - **(B)** 19/4
@@ -780,4 +827,8 @@ This is the total number of units in the Union.
 > - **(D)** 25/4
 > - **(E)** 11/2 211
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2022_biennio#q16|src_archimede_2022_biennio__Q16]]

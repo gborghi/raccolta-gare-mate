@@ -29,9 +29,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove triangolo ABC simile al triangolo DEF formato da intersezioni di cerchio*
+*Dimostrare che il triangolo ABC è simile al triangolo DEF formato dagli incroci delle circonferenze*
 
-> Il $ABC$ deve essere un triangolo acuto con $AB < BC$ e $AC < BC$. Il $\Gamma$ deve essere il suo circoncircolo. Che $\Gamma_1$, $\Gamma_2$, $\Gamma_3$ siano cerchi incentrati rispettivamente su $A$, $B$, $C$ con radii $AB$, $BC$ e $CA$. $D$, $E$, $F$ siano rispettivamente i punti di intersezione di $\Gamma_1 \cap \Gamma_2$, $\Gamma_2 \cap \Gamma_3$ e $\Gamma_3 \cap \Gamma_1$ che sono diversi da $A$. Prova che il triangolo $ABC$ e il triangolo $DEF$ sono simili. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Sia $ABC$ un triangolo acuto con $AB < BC$ e $AC < BC$. Sia $\Gamma$ la sua circonferenza circoscritta. Siano $\Gamma_1$, $\Gamma_2$, $\Gamma_3$ delle circonferenze aventi come centri rispettivamente $A$, $B$, $C$ e raggi rispettivamente $AB$, $BC$, $CA$. Siano $D$, $E$, $F$ i punti di intersezione rispettivamente di $\Gamma_1 \cap \Gamma_2$, $\Gamma_2 \cap \Gamma_3$, $\Gamma_3 \cap \Gamma_1$, distinti da $A$. Dimostrare che il triangolo $ABC$ e il triangolo $DEF$ sono simili. (Qui $XY$ denota la lunghezza del segmento $XY$.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo21hq_honsen#q01|src_jjmo21hq_honsen__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i valori distinti massimi di k di xy/(x+y)^2 dal valore reale del 2023*
+*Trovare il massimo k valori distinti di xy/(x+y)^2 tra 2023 numeri reali*
 
-> Su una lavagna sono scritti i numeri reali positivi del 2023. Per ogni coppia $x, y$ scelta da questi numeri, calcolare $\dfrac{xy}{(x+y)^2}$. Il numero di valori distinti ottenuti è esattamente $k$. Trova il valore massimo possibile di $k$.
+> Su una lavagna sono scritti 2023 numeri reali positivi. Per ogni coppia $x, y$ scelta tra questi numeri, si calcola $\dfrac{xy}{(x+y)^2}$. Il numero di valori distinti ottenuti è esattamente $k$. Determinare il valore massimo possibile di $k$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo21hq_honsen#q02|src_jjmo21hq_honsen__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il massimo totale garantito che B può raggiungere in n×n gioco a griglia*
+*Trovare il massimo totale garantito che B può raggiungere in un gioco a griglia n×n*
 
-> $n$ sia un numero intero positivo. In primo luogo, il lettore $A$ riempie ogni cella di una griglia $n \times n$ con numeri interi distinti da $1$ a $n^2$, uno per cella. Successivamente, il giocatore $B$ circonda alcune celle (possibilmente nessuna) in modo tale che non due celle circolate condividano un bordo. Per ciascuna cella circolare, $B$ scrive la somma di tutti gli enti nelle celle adiacenti (condividendo un bordo). Che $M$ sia il valore massimo in modo tale che, indipendentemente dal modo in cui $A$ riempie i numeri, il giocatore $B$ possa sempre fare la somma totale di tutti i valori scritti almeno $M$. Trova $M$.
+> Sia $n$ un numero intero positivo. Innanzitutto, il giocatore $A$ riempie ogni cella di una griglia $n \times n$ con numeri interi distinti compresi tra $1$ e $n^2$, uno per cella. Successivamente, il giocatore $B$ circonda di un cerchio alcune celle (eventualmente nessuna) in modo che nessuna coppia di celle circondate condivida un lato. Per ogni cella circondata, $B$ scrive la somma di tutti i numeri presenti nelle celle adiacenti ad essa (che condividono un lato). Sia $M$ il valore massimo tale che, indipendentemente da come $A$ compila i numeri, il giocatore $B$ può sempre far sì che la somma totale di tutti i valori scritti sia almeno $M$. Determinare $M$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo21hq_honsen#q03|src_jjmo21hq_honsen__Q03]]
 
 
 
@@ -106,9 +127,18 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli razionali positivi che fanno a+c/b, b+a/c, c+b/a interi*
+*Trovare tutte le terne di numeri razionali positivi tali che a+c/b, b+a/c e c+b/a siano numeri interi*
 
-> Trova tutti i triples dei numeri razionali positivi $(a, b, c)$ in modo tale che $$a + \frac{c}{b}, \quad b + \frac{a}{c}, \quad c + \frac{b}{a}$$ siano tutti interi.
+> Trovare tutte le terne di numeri razionali positivi $(a, b, c)$ tali che
+> $$a + \frac{c}{b}, \quad b + \frac{a}{c}, \quad c + \frac{b}{a}$$
+> siano tutti interi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo21hq_honsen#q04|src_jjmo21hq_honsen__Q04]]
 
 
 
@@ -131,6 +161,13 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che il circoncircolo del triangolo PRN è tangente a BC*
+*Dimostrare che la circonferenza circoscritta al triangolo PRN è tangente a BC*
 
-> Nel triangolo $ABC$, $\Gamma$ sia il circoncircolo e $M$ il punto medio del lato $AC$. I punti $P$ e $Q$ siano due punti distinti del segmento $BC$ che siano simmetrici rispetto al punto medio di $BC$. $N$ sia il punto medio del segmento $PQ$ (così $N$ è il punto medio di $BC$). La linea $AN$ incontra di nuovo $\Gamma$ in un punto $R$ (diverso da $A$). Prova che il circoncircolo del triangolo $PRN$ è tangente alla linea $BC$.
+> Nel triangolo $ABC$, sia $\Gamma$ la circonferenza circoscritta, e sia $M$ il punto medio del lato $AC$. Siano $P$ e $Q$ due punti distinti sul segmento $BC$, simmetrici rispetto al punto medio di $BC$. Sia $N$ il punto medio del segmento $PQ$ (cosicché $N$ sia il punto medio di $BC$). La retta $AN$ incontra nuovamente $\Gamma$ in un punto $R$ (diverso da $A$). Dimostrare che la circonferenza circoscritta al triangolo $PRN$ è tangente alla retta $BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo21hq_honsen#q05|src_jjmo21hq_honsen__Q05]]

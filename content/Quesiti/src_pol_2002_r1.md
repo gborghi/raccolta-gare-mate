@@ -31,9 +31,19 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi un'equazione di valore assoluto nei reali con termini indicizzati pari a sinistra e termini indicizzati dispari a destra.*
+*Risolvere nei reali l'uguaglianza tra le somme dei valori assoluti degli interi pari e di quelli dispari, da x fino a x+999*
 
-> Risolvere la seguente equazione nei numeri reali $$|x| + |x+2| + |x+4| + |x+6| + \cdots + |x+998| =$$ $$= |x+1| + |x+3| + |x+5| + \cdots + |x+7| + \cdots + |x+999|.$$
+> Risolvere nei numeri reali l'equazione seguente
+>
+> $$|x| + |x+2| + |x+4| + |x+6| + \cdots + |x+998| =$$
+>
+> $$= |x+1| + |x+3| + |x+5| + \cdots + |x+7| + \cdots + |x+999|.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2002_r1#q01|src_pol_2002_r1__Q01]]
 
 
 
@@ -56,9 +66,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con quadrati costruiti verso l'esterno su due lati; trovare tutti i valori di MN:BC dove M, N sono i punti di mezzo di due segmenti.*
+*Quadrati costruiti esternamente su due lati di un triangolo: valori del rapporto tra il segmento dei punti medi e il terzo lato*
 
-> $ABC$ è un triangolo dato. $ABDE$ e $ACFG$ sono i quadrati disegnati fuori dal triangolo. I punti $M$ e $N$ sono rispettivamente i punti intermedi di $DG$ e $EF$. Trova tutti i valori della razione $MN : BC$.
+> $ABC$ è un triangolo dato. $ABDE$ e $ACFG$ sono i quadrati costruiti esternamente al triangolo. I punti $M$ e $N$ sono i punti medi di $DG$ e di $EF$ rispettivamente. Trovare tutti i valori del rapporto $MN : BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2002_r1#q02|src_pol_2002_r1__Q02]]
 
 
 
@@ -83,9 +99,19 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che una somma di tipo binomio è divisibile da una grande potenza di 2.*
+*La somma dei binomiali pari, pesati con potenze di 5, è divisibile per una potenza di 2*
 
-> Provare che il numero $$\sum_{n=0}^{10^{10}} \binom{2 \cdot 10^{10}}{2n} 5^n$$ è divisibile da $2^{10^{10}-1}$.
+> Dimostrare che il numero
+>
+> $$\sum_{n=0}^{10^{10}} \binom{2 \cdot 10^{10}}{2n} 5^n$$
+>
+> è divisibile per $2^{10^{10}-1}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2002_r1#q03|src_pol_2002_r1__Q03]]
 
 
 
@@ -108,9 +134,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che un grafico polinomial di grado >1 ha un asse di simmetria se fattori come F(G) con deg G = 2.*
+*Il grafico di un polinomio di grado maggiore di 1 ha un asse di simmetria se e solo se è composizione con un polinomio di secondo grado*
 
-> Prova che il grafico del polinomio $W(x)$ con $\deg W > 1$ possiede un asse di simmetria se e solo se esistono polinomi $F(x), G(x)$ come $W(x) = F(G(x))$ e $\deg G = 2$.
+> Dimostrare che il grafico del polinomio $W(x)$ con $\deg W > 1$ ha un asse di simmetria se e solo se esistono polinomi $F(x), G(x)$ tali che $W(x) = F(G(x))$ e $\deg G = 2$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2002_r1#q04|src_pol_2002_r1__Q04]]
 
 
 
@@ -132,9 +164,14 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostrare che per ogni k c'è un intero positivo m in modo che m, 2m, ..., m! hanno esattamente k numeri non zero nella loro espansione binomial.*
+*Per ogni k esiste un m tale che i numeri m, 2m, ..., m! abbiano esattamente k cifre non nulle nello sviluppo binomiale*
 
-> Prova che per ogni intero positivo $k$ esiste un intero positivo $m$ tale che per i numeri $m, 2m, 3m, \ldots, m!$ ci siano esattamente $k$ cifre non zero nell'espansione binomial.
+> Dimostrare che per ogni intero positivo $k$ esiste un intero positivo $m$ tale che i numeri $m, 2m, 3m, \ldots, m!$ abbiano esattamente $k$ cifre non nulle nello sviluppo binomiale.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2002_r1#q05|src_pol_2002_r1__Q05]]
 
 
 
@@ -157,9 +194,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorati in tre colori; dimostrare che il totale rosso è uguale al totale bianco.
+*Una circonferenza taglia i lati di un rombo in tre parti: colorando i dodici segmenti a rotazione, rossi e bianchi hanno la stessa lunghezza totale*
 
-> Un cerchio divide tutti i lati di un rombo in tre pezzi. Partendo da un vertex del rombo e andando in una direzione fissa lungo il confine del rombo i 12 segmenti sono colorati rosso, verde e bianco successivamente. Prove che la somma delle lunghezze dei segmenti rossi è uguale alla somma delle lunghezze dei segmenti bianchi.
+> Una circonferenza divide ogni lato di un rombo in tre parti. Partendo da un vertice del rombo e percorrendo il bordo in un verso fissato, i 12 segmenti si colorano di rosso, verde e bianco in successione. Dimostrare che la somma delle lunghezze dei segmenti rossi è uguale alla somma delle lunghezze dei segmenti bianchi.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2002_r1#q06|src_pol_2002_r1__Q06]]
 
 
 
@@ -184,11 +227,17 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un gruppo di n>=3 persone in cui ciascuno ha un numero pari di conoscenti, dimostrare che tre membri hanno lo stesso numero di conoscenti.*
+*In un gruppo in cui ognuno ha un numero pari di conoscenti, tre persone ne hanno lo stesso numero*
 
-> In un gruppo di persone $n \ge 3$ ogni membro del gruppo ha un numero pari (possibilmente zero) di conoscenti nel gruppo. Provare che esistono tre membri del gruppo che ha lo stesso numero di conoscenti in questo gruppo.
-> 
-> \textit{Remark.} Supponiamo che nessuno si inserisca nel gruppo dei suoi conoscenti e che $A$ conosca $B$ se e solo se $B$ conosce $A$.
+> In un gruppo di $n \ge 3$ persone ogni membro ha un numero pari (eventualmente nullo) di conoscenti nel gruppo. Dimostrare che esistono tre membri del gruppo con lo stesso numero di conoscenti nel gruppo.
+>
+> Osservazione. Si assuma che nessuno includa se stesso fra i propri conoscenti e che $A$ conosce $B$ se e solo se $B$ conosce $A$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_pol_2002_r1#q07|src_pol_2002_r1__Q07]]
 
 
 
@@ -211,9 +260,15 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lasciate che S(n) sia la somma digitali di n; dimostri che S(2n^2+3) non è mai un quadrato perfetto.*
+*La somma delle cifre di 2n^2 + 3 non è mai il quadrato di un intero*
 
-> $S(n)$ indichi la somma dei numeri $n$. Prova che per ogni intero positivo $n$ il numero $S(2n^2 + 3)$ non è il quadrato di un intero.
+> Sia $S(n)$ la somma delle cifre del numero $n$. Dimostrare che, per ogni intero positivo $n$, il numero $S(2n^2 + 3)$ non è il quadrato di un intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2002_r1#q08|src_pol_2002_r1__Q08]]
 
 
 
@@ -236,9 +291,15 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un piano taglia i bordi laterali di un prisma esagonale in un esagono converso; dimostra la somma alternata di bilanci di distanze di base a quadrato.*
+*Un piano taglia gli spigoli laterali di un prisma esagonale: la somma dei quadrati delle distanze da una base, sugli indici dispari, uguaglia quella sugli indici pari*
 
-> Una piana interseca i bordi laterali di un prisma con una base esagonale nei punti $D_1, D_2, \ldots, D_6$. L'insieme di intersezioni $D_1 D_2 D_3 D_4 D_5 D_6$ è un esagono converso. Indicare per $d_i$ la distanza del punto $D_i$ dalla pianura che contiene una base fissa del prisma. Prove che $d_1^2 + d_3^2 + d_5^2 = d_2^2 + d_4^2 + d_6^2$.
+> Un piano interseca gli spigoli laterali di un prisma a base esagonale nei punti $D_1, D_2, \ldots, D_6$. L'intersezione $D_1 D_2 D_3 D_4 D_5 D_6$ è un esagono convesso. Si indichi con $d_i$ la distanza del punto $D_i$ dal piano che contiene una base fissata del prisma. Dimostrare che $d_1^2 + d_3^2 + d_5^2 = d_2^2 + d_4^2 + d_6^2$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_pol_2002_r1#q09|src_pol_2002_r1__Q09]]
 
 
 
@@ -261,9 +322,15 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Su una lavagna 2000x2000 con una pietra su ciascun campo, si muovono due pietre tre a parte sul centro; si decide se tutte le pietre possono finire su un campo.*
+*Scacchiera 2000×2000 con una pedina per casella: spostando due pedine estreme sulla casella di mezzo di una terna, si possono raccogliere tutte su una sola casella?*
 
-> Su ogni campo di una scacchiera $2000 \times 2000$ si trova una pietra. Le pietre possono essere spostate nel modo seguente: Colmare tre campi successivi in fila o in colonna. Se sul primo e sul terzo campo si trova una pietra, allora queste due pietre possono essere spostate sul secondo campo. (Nota che un movimento può essere eseguito indipendentemente dal numero di pietre che si trovano sul mezzo archivato.) Prova o smentire: Esiste una sequenza di movimenti tale che alla fine tutte le pietre si trovano su un campo della scacchiera.
+> Su ogni casella di una scacchiera $2000 \times 2000$ c'è una pedina. Le pedine si muovono così: si prendono tre caselle consecutive di una riga o di una colonna; se sulla prima e sulla terza c'è una pedina, quelle due pedine si possono spostare sulla casella di mezzo. La mossa si può eseguire qualunque sia il numero di pedine sulla casella di mezzo. Dimostrare o confutare che esiste una sequenza di mosse al termine della quale tutte le pedine stanno su una sola casella della scacchiera.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_pol_2002_r1#q10|src_pol_2002_r1__Q10]]
 
 
 
@@ -287,9 +354,17 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Con una condizione angolare sul triangolo ABC, un cerchio tangente a AC da A a D su BC incontra AB a P; dimostrare BP/AC = BD/DC.*
+*Triangolo con angolo in B maggiore di quello in C, punto D e circonferenza tangente in A: BP/AC = BD/DC*
 
-> Nel triangolo $ABC$ si trova $\angle B > \angle C$. Il punto $D$ si trova sul lato $BC$ e soddisfa l'uguaglianza $\angle DAC = (1/2)(\angle B - \angle C)$. Il cerchio tangente alla linea $AC$ nel punto $A$ e contenente il punto $D$ interseca la linea $AB$ nel punto $P \ne A$. Provare che $$\frac{BP}{AC} = \frac{BD}{DC}.$$
+> Nel triangolo $ABC$ vale $\angle B > \angle C$. Il punto $D$ giace sul lato $BC$ e soddisfa $\angle DAC = (1/2)(\angle B - \angle C)$. La circonferenza tangente alla retta $AC$ nel punto $A$ e passante per il punto $D$ interseca la retta $AB$ nel punto $P \ne A$. Dimostrare che
+>
+> $$\frac{BP}{AC} = \frac{BD}{DC}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2002_r1#q11|src_pol_2002_r1__Q11]]
 
 
 
@@ -313,6 +388,14 @@ Un cerchio divide ogni lato di un rombo in tre pezzi; i 12 segmenti sono colorat
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una sequenza di interi positivi non in diminuzione ha esattamente k valori uguali a k; trovare tutti i primi tra le sue somme parziali.*
+*Successione non decrescente di interi positivi in cui il valore k compare esattamente k volte: quali primi sono somme parziali*
 
-> In una sequenza non diminuente $a_1, a_2, a_3, \ldots$ tutti i valori sono interi positivi e esattamente $k$ i valori sono uguali a $k$. Trova tutti i numeri primi del modulo $$a_1 + a_2 + \cdots + a_n.$$
+> In una successione non decrescente $a_1, a_2, a_3, \ldots$ tutti i valori sono interi positivi ed esattamente $k$ valori sono uguali a $k$. Trovare tutti i numeri primi della forma
+>
+> $$a_1 + a_2 + \cdots + a_n.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2002_r1#q12|src_pol_2002_r1__Q12]]

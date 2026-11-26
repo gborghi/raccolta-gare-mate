@@ -31,9 +31,19 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove o respingere l'esistenza di funzioni f,g su A_n che soddisfano determinate condizioni di composizione*
+*Per ogni n almeno 2, esistono funzioni f, g su 1, ..., n che sono involuzioni e tali che g(f(k)) = k+1?*
 
-> Let $A_n = \{1, 2, \ldots, n\}$. Prova o smentire: per tutti gli integri $n \ge 2$ esistono funzioni $f, g : A_n \to A_n$ che soddisfano $$f(f(k)) = g(g(k)) = k \quad \text{for } 1 \le k \le n, \quad \text{and}$$ $$g(f(k)) = k + 1 \quad \text{for } 1 \le k \le n - 1.$$
+> Sia $A_n = \{1, 2, \ldots, n\}$. Dimostrare o confutare l'affermazione seguente: per ogni intero $n \ge 2$ esistono funzioni $f, g : A_n \to A_n$ che soddisfano
+>
+> $$f(f(k)) = g(g(k)) = k \quad \text{for } 1 \le k \le n, \quad \text{and}$$
+>
+> $$g(f(k)) = k + 1 \quad \text{for } 1 \le k \le n - 1.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1998_r2#q01|src_pol_1998_r2__Q01]]
 
 
 
@@ -56,9 +66,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con angolo obtuso C e A=2B; linea attraverso B perpendicolare a BC incontra AC a D; M punto medio di AB; prova angolo AMC = angolo BMD*
+*Triangolo ottusangolo in C con angolo in A doppio di quello in B: due angoli costruiti sul punto medio sono uguali*
 
-> Il $ABC$ deve essere un triangolo con un angolo obtuso $\angle C$ e $\angle A = 2\angle B$. La linea attraverso $B$ perpendicolare a $BC$ interseca la linea $AC$ a $D$. Se $M$ è il punto medio di $AB$, provare che $\angle AMC = \angle BMD$.
+> Sia $ABC$ un triangolo con angolo ottuso $\angle C$ e con $\angle A = 2\angle B$. La retta per $B$ perpendicolare a $BC$ interseca la retta $AC$ in $D$. Se $M$ è il punto medio di $AB$, dimostrare che $\angle AMC = \angle BMD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_1998_r2#q02|src_pol_1998_r2__Q02]]
 
 
 
@@ -83,9 +99,19 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza per sei numeri positivi con somma 1 data un limite inferiore su ace+bdf, più caso di uguaglianza*
+*Sei numeri positivi di somma 1, con ace + bdf almeno 1/108: maggiorazione della somma ciclica, e se l'uguaglianza può valere per numeri distinti*
 
-> (a) Se $a, b, c, d, e, f$ sono numeri positivi con la somma 1 e $ace + bdf \ge \dfrac{1}{108}$, mostrare che $$abc + bcd + cde + def + efa + fab \le \dfrac{1}{36}.$$ (b) Esistono diversi numeri positivi $a, b, c, d, e, f$ con la somma 1 per i quali le due disuguaglianze di cui sopra diventano uguaglianze?
+> (a) Se $a, b, c, d, e, f$ sono numeri positivi di somma 1 e $ace + bdf \ge \dfrac{1}{108}$, dimostrare che
+>
+> $$abc + bcd + cde + def + efa + fab \le \dfrac{1}{36}.$$
+>
+> (b) Esistono numeri positivi distinti $a, b, c, d, e, f$ di somma 1 per cui le due disuguaglianze precedenti diventano uguaglianze?
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1998_r2#q03|src_pol_1998_r2__Q03]]
 
 
 
@@ -108,9 +134,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi (x,y) che soddisfano x^2+3y^2=1998x*
+*Trovare tutte le coppie di interi (x, y) tali che x^2 + 3y^2 = 1998x*
 
-> Trova tutte le coppie di integri $(x, y)$ che soddisfano $x^2 + 3y^2 = 1998x$.
+> Trovare tutte le coppie di interi $(x, y)$ che soddisfano $x^2 + 3y^2 = 1998x$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_pol_1998_r2#q04|src_pol_1998_r2__Q04]]
 
 
 
@@ -134,9 +166,17 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*7 coppie di reali non-negativi con a_i+b_i<=2, trovare due indici k,m con \a_k-a_m_lease\b_k-b_m_lease<=1*
+*Sette coppie di reali non negativi di somma al più 2: due indici distinti distano al più 1 nella somma dei valori assoluti delle differenze*
 
-> Supponiamo che $a_1, \ldots, a_7, b_1, \ldots, b_7$ siano numeri reali non negativi come $a_i + b_i \le 2$ per tutti $i$. Prova che esistono due indici $k, m$ diversi in modo tale che $$|a_k - a_m| + |b_k - b_m| \le 1.$$
+> Si supponga che $a_1, \ldots, a_7, b_1, \ldots, b_7$ siano numeri reali non negativi tali che $a_i + b_i \le 2$ per ogni $i$. Dimostrare che esistono due indici distinti $k, m$ tali che
+>
+> $$|a_k - a_m| + |b_k - b_m| \le 1.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_1998_r2#q05|src_pol_1998_r2__Q05]]
 
 
 
@@ -159,6 +199,12 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le estremità AB e CD del tetraedro ABCD sono perpendicolari se esiste un parallelo CDPQ con PA=PB=PD e QA=QB=QC*
+*Due spigoli opposti di un tetraedro sono perpendicolari se e solo se esiste un parallelogramma con i vincoli di equidistanza indicati*
 
-> Dimostrare che i bordi $AB$ e $CD$ di un tetraedro $ABCD$ sono perpendicolari se e solo se esiste un parallelo $CDPQ$ tale che $PA = PB = PD$ e $QA = QB = QC$.
+> Dimostrare che gli spigoli $AB$ e $CD$ di un tetraedro $ABCD$ sono perpendicolari se e solo se esiste un parallelogramma $CDPQ$ tale che $PA = PB = PD$ e $QA = QB = QC$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_1998_r2#q06|src_pol_1998_r2__Q06]]

@@ -32,9 +32,13 @@ level: IMO
 
 *Dimostrare che x^n+5x^(n-1)+3 è irriducibile sugli interi*
 
-> Sia f(x) = xn + 5xn−1 + 3, dove n > 1 è un intero. Si dimostri che f(x)
-> non può essere espresso come prodotto di due polinomi non costanti
-> a coefficienti interi.
+> Sia f(x) = xn + 5xn−1 + 3, dove n > 1 è un numero intero. Dimostrare che f(x) non può essere espresso come prodotto di due polinomi non costanti a coefficienti interi.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1993#q01|src_imo_1993__Q01]]
 
 
 
@@ -61,13 +65,19 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolare il rapporto e dimostrare che le tangenti sono perpendicolari per D interno*
+*Calcola il rapporto e dimostrare che le tangenti sono perpendicolari per il D interno*
 
-> Sia D un punto interno al triangolo acutangolo ABC tale che
-> ∠ADB = ∠ACB + π/2 e AC · BD = AD · BC.
->
-> (a) Calcolare il rapporto (AB · CD)/(AC · BD).
-> (b) Dimostrare che le tangenti in C alle circonferenze circoscritte ai triangoli ACD e BCD sono perpendicolari.
+> Sia D un punto interno al triangolo acutangolo ABC tale che l'angolo ADB non sia uguale all'angolo ACB più π/2 e che AC · BD = AD · BC.
+> (a) Calcola il rapporto (AB · CD)/(AC · BD).
+> (b) Dimostrare che le tangenti in C alle circonferenze circoscritte al △ACD e
+> △BCD sono perpendicolari.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1993#q02|src_imo_1993__Q02]]
 
 
 
@@ -100,15 +110,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*per quali n rimane un pezzo*
+*che lasciano un pezzo*
 
-> Su una scacchiera infinita si svolge un gioco nel modo seguente. All'inizio, n² pezzi sono disposti sulla scacchiera formando un blocco di n per n di caselle adiacenti, con un pezzo in ogni casella. Una mossa nel gioco consiste nel saltare orizzontalmente o verticalmente sopra una casella adiacente occupata, per atterrare su una casella vuota immediatamente oltre. Il pezzo sopra cui si è saltato viene rimosso.
->
-> Determinare per quali valori di n il gioco può terminare con un solo pezzo rimasto sulla scacchiera.
->
-> Secondo Giorno
-> 19 luglio 1993
-> Tempo a disposizione: 4½ ore
+> Su una scacchiera infinita, si gioca nel modo seguente. All'inizio, n² pezzi vengono disposti sulla scacchiera in un blocco di n per n di case adiacenti, con un pezzo in ogni casa. Una mossa nel gioco consiste in un salto in orizzontale o in verticale, oltre una casa adiacente occupata, verso una casa non occupata immediatamente al di là. Il pezzo che è stato scavalcato viene rimosso. Determinare i valori di n per cui il gioco può concludersi con un solo pezzo rimasto sulla scacchiera. Secondo giorno, 19 luglio 1993. Tempo limite: 4 ore e 12 minuti.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_invarianti|Invarianti / monovarianti]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1993#q03|src_imo_1993__Q03]]
 
 
 
@@ -134,11 +144,19 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum-altitude function triangle inequality for four points*
+*The least altitude of ABC is at most the sum of the least altitudes of the three subtriangles*
 
-> For three points $P$, $Q$, $R$ in the plane, the minimum length of the three heights of the triangle $\triangle PQR$ shall be $m(PQR)$. (If the points are hilly, we put $m(PQR) = 0$.)
-> 
-> Demonstrate that for $A$, $B$, $C$, $X$ points in the plane: $$m(ABC) \leq m(ABX) + m(AXC) + m(XBC).$$
+> For three points $P$, $Q$, $R$ in the plane, let $m(PQR)$ be the least of the lengths of the three altitudes of triangle $\triangle PQR$. (If the points are collinear, set $m(PQR) = 0$.)
+>
+> Prove that for points $A$, $B$, $C$, $X$ in the plane one has:
+> $$m(ABC) \leq m(ABX) + m(AXC) + m(XBC).$$
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1993#q04|src_imo_1993__Q04]]
 
 
 
@@ -161,9 +179,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Existence of f with f(1)=2, f(f(n))=f(n)+n, increasing*
+*A function on the positive integers with f(f(n)) = f(n) + n*
 
-> Does there exist a function $f : \mathbf{N} \to \mathbf{N}$ such that $$f(1) = 2, \quad f(f(n)) = f(n) + n \text{ for all } n \in \mathbf{N}, \quad f(n) < f(n+1) \text{ for all } n \in \mathbf{N}?$$
+> Does there exist a function $f : \mathbf{N} \to \mathbf{N}$ such that
+> $$f(1) = 2, \quad f(f(n)) = f(n) + n \text{ for every } n \in \mathbf{N}, \quad f(n) < f(n+1) \text{ for every } n \in \mathbf{N}?$$
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_1993#q05|src_imo_1993__Q05]]
 
 
 
@@ -192,12 +217,19 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total number of steps to be taken to achieve the desired results.
+*Lamps in a circle return to all-on after a determined number of steps*
 
-> There are $n$ lamps $L_0, \ldots, L_{n-1}$ arranged in a circle ($n > 1$), where $L_{n+k} = L_k$ is meant. (A lamp is always switched on or off.) The steps $s_0, s_1, \ldots$ are performed as follows: at step $s_i$, if $L_{i-1}$ is switched on, switch to $L_i$ (from switched on or vice versa); otherwise nothing is done. Initially, all the lamps are lit. Demonstrate that:
-> 
-> (a) There is a positive integer $M(n)$ such that after $M(n)$ all lamps are switched on again;
-> 
-> (b) If $n = 2^k$, $M(n) = n^2 - 1$ may be taken;
-> 
-> (c) If $n = 2^k + 1$, you may take $M(n) = n^2 - n + 1$.
+> There are $n$ lamps $L_0, \ldots, L_{n-1}$ arranged in a circle ($n > 1$), where $L_{n+k} = L_k$ is understood. (A lamp is always either on or off.) Steps $s_0, s_1, \ldots$ are carried out as follows: at step $s_i$, if $L_{i-1}$ is on, one toggles $L_i$ (from on to off or the other way); otherwise one does nothing. Initially all the lamps are on. Prove that:
+>
+> (a) There exists a positive integer $M(n)$ such that after $M(n)$ steps all the lamps are on again;
+>
+> (b) If $n = 2^k$, one may take $M(n) = n^2 - 1$;
+>
+> (c) If $n = 2^k + 1$, one may take $M(n) = n^2 - n + 1$.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_1993#q06|src_imo_1993__Q06]]

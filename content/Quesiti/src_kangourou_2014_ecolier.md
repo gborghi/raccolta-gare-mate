@@ -32,11 +32,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which piece cut from the center of the star*
+*Enlargement of the central part*
 
 ![[src_kangourou_2014_ecolier__prob1.png]]
 
-> Look at the figure beside it. Only one of the circles below is the enlargement of its central part. Which one?
+> Look at the figure alongside. Only one of the small circles below is the enlargement of its central part. Which one?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q01|src_kangourou_2014_ecolier__Q01]]
 
 
 
@@ -64,9 +70,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Where to enter 3 to get the smallest number*
+*Where to insert the 3 to obtain the smallest number*
 
-> Giacomo wants to turn the number 2014 into a five-digit number by adding the digit 3 to the already existing digits. If you want to get the smallest number possible, where should you put the number 3? A) At the beginning B) Between 2 and 0 C) Between 0 and 1 D) Between 1 and 4 E) At the end
+> Giacomo wants to turn the number 2014 into a five-digit number by adding the digit 3 to the digits already present. If he wants to obtain the smallest possible number, where should he place the digit 3?
+> A) At the beginning
+> B) Between 2 and 0
+> C) Between 0 and 1
+> D) Between 1 and 4
+> E) At the end
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q02|src_kangourou_2014_ecolier__Q02]]
 
 
 
@@ -102,7 +119,18 @@ level: kangourou
 
 ![[src_kangourou_2014_ecolier__prob3.png]]
 
-> Some rectangles, including a square, and some triangles, have been added or superimposed to form the five houses you see. For which of them were identical pieces and in the same quantity used? A) 1 and 4	            B) 3 and 4 C) 1, 4 and 5	              D) 3, 4 and 5	        E) 1, 2, 4 and 5
+> Some rectangles, including a square, and some triangles have been placed side by side or overlapping so as to form the five little houses you see. For which of them were identical pieces used, and in the same quantity?
+> A) 1 and  4
+> B) 3 and 4
+> C) 1, 4 and 5
+> D) 3, 4 and 5
+> E) 1, 2, 4 and 5
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q03|src_kangourou_2014_ecolier__Q03]]
 
 
 
@@ -131,11 +159,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grams of leaves eaten by the waking koala*
+*Maria’s connections from 0 to 5*
 
 ![[src_kangourou_2014_ecolier__prob4.png]]
 
-> Each of the points here corresponds to the result of the subtraction indicated next to it. Starting from the point where the result 0 corresponds, Maria wants to link it to the point where the result 1 corresponds, then she wants to link the latter to the point where the result 2 corresponds, and so on until the result 5. Which of the following patterns indicates the connections that Maria wants to make?
+> Each of the points here alongside corresponds to the result of the subtraction indicated next to it. Starting from the point that corresponds to the result 0, Maria wants to connect it to the point that corresponds to the result 1, then she wants to connect this last point to the point that corresponds to the result 2, and so on up to the result 5. Which of the following diagrams indicates the connections that Maria wants to make?
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q04|src_kangourou_2014_ecolier__Q04]]
 
 
 
@@ -181,10 +215,32 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What shape by joining the points of the answers 0-5*
+*Most sweets*
 
-> Adam has less candy than Martino, but more than Susanna. Lucia has more candy than both Adam and Martin. Diana has more candy than Adam, but less than Lucia. Which one of them has more candy than the others? (A) Martin B) Adam C) Susanna D) Diana E) Lucia A) B) C) D) E) 2  2 8  6 13  9 6  5 11  8 17  12 A) B) C) D) E)
+> Adamo has fewer sweets than Martino, but more than Susanna. Lucia has more sweets than both Adamo and Martino. Diana has more sweets than Adamo, but fewer than Lucia. Who among them has more sweets than all the others?
+> A) Martino
+> B) Adamo
+> C) Susanna
+> D) Diana
+> E) Lucia
+> A)
+> B)
+> C)
+> D)
+> E)
+> 2 – 2 8 – 6 13 – 9 6 – 5 11 – 8 17 – 12
+> A)
+> B)
+> C)
+> D)
+> E)
 >
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q05|src_kangourou_2014_ecolier__Q05]]
 
 
 
@@ -217,13 +273,14 @@ level: kangourou
 
 ![[src_kangourou_2014_ecolier__prob6.png]]
 
-> Franca has the four tiles you see next to it.
-> Using these tiles, she wants to form the shape shown in
-> each of the answers.
-> Where must she put the tile
-> ?
+> Franca has the four tiles that you see here alongside. Using these tiles, she wants to form the shape that is shown in each of the answers. Where must she put the tile ?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q06|src_kangourou_2014_ecolier__Q06]]
 
 
 
@@ -250,11 +307,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What the flowers look like from the outside of the window*
+*Flowers seen from inside the shop*
 
 ![[src_kangourou_2014_ecolier__prob7.png]]
 
-> A shopkeeper painted the flowers you see in the figure on the right on the outside of his shop window. The glass is transparent. What does the drawing look like from inside the store?
+> A shopkeeper has painted the flowers you see in the figure on the right on the outside of his shop window. The glass is transparent. How does the drawing appear when you look at it from inside the shop?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q07|src_kangourou_2014_ecolier__Q07]]
 
 
 
@@ -283,9 +347,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which square equals the black and white area*
+*The youngest person*
 
-> Maria sits at the table with her mother Enrica, her father Roberto and her uncle Carlo, who is Roberto's brother. Who is the youngest of the four? A) Enrica B) Maria C) Carlo D) Roberto E) It is not possible to reply without further information. Questions from n. 9 to n. 16 are worth 4 points each.
+> Maria is sitting at the table with her mum Enrica, her father Roberto and her uncle Carlo, who is Roberto's brother. Who is the youngest person among the four of them?
+> A) Enrica
+> B) Maria
+> C) Carlo
+> D) Roberto
+> E) It is not possible to answer without further information.
+> Questions from n. 9 to n. 16 are worth 4 points each.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q08|src_kangourou_2014_ecolier__Q08]]
 
 
 
@@ -318,13 +394,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many candies were there at the beginning after the withdrawals*
+*Products in the empty squares*
 
 ![[src_kangourou_2014_ecolier__prob9.png]]
 
-> In each of the empty square cells remaining in the figure, Monica wants to write a number so that every number that appears is the product of the two numbers that are below it. What's the sum of the numbers Monica has to write? A) 8 B) 16
-> 	
-> C) 32 D) 64 E) 88
+> In each of the square boxes left empty in the figure, Monica wants to write a number so that every number that appears is the product of the two numbers below it. What is the sum of the numbers that Monica must write?
+> A) 8
+> B) 16
+>
+> C) 32
+> D) 64
+> E) 88
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q09|src_kangourou_2014_ecolier__Q09]]
 
 
 
@@ -358,17 +444,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*View from the top of the solid of 8 cubes*
+*Biscuits on a plate*
 
-> On a plate, there were initially some cookies. Sandro took half of them, then Chiara took half the rest and finally Mauro took half of those left by Chiara. In the end, 6 cookies were left on the plate. How many were there at the beginning? A) 12
-> 	
+> On a plate there were initially some biscuits. Sandro took half of them, then Chiara took half of the remaining ones and finally Mauro took half of those left by Chiara. At the end, 6 biscuits were left on the plate. How many were there at the beginning?
+> A) 12
+>
 > B) 18
-> 	
+>
 > C) 20
-> 	
+>
 > D) 24
-> 	
+>
 > E) 48
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q10|src_kangourou_2014_ecolier__Q10]]
 
 
 
@@ -414,12 +508,34 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the gray cell of the multiplication pyramid*
+*Equal black and white areas*
 
 ![[src_kangourou_2014_ecolier__prob11.png]]
 
-> Look at the figure next to me. Which of the following tiles should you replace the question mark if you want the black part to have the same area as the white part? A) B) C) D) E) A) B) C) D) E) 1 2 2 1 A) B) C) D) E)
+> Look at the figure alongside. Which of the following tiles must you put in place of the question mark, if you want the part painted black to have the same area as the part left white?
+> A)
+> B)
+> C)
+> D)
+> E)
+> A)
+> B)
+> C)
+> D)
+> E)
+> 1 2 2 1
+> A)
+> B)
+> C)
+> D)
+> E)
 >
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q11|src_kangourou_2014_ecolier__Q11]]
 
 
 
@@ -456,21 +572,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of two scores not achievable at the target*
+*Sum of two scores not obtainable at the target*
 
 ![[src_kangourou_2014_ecolier__prob12.png]]
 
-> Paul plays target shooting. If he doesn't hit the target he gets 0 points, if he hits it he gets the score shown in the figure in the area where he hit it. After two throws, which of the following numbers cannot be the sum of the two scores he has scored? A) 60
-> 	
+> Paolo is playing target shooting. If he does not hit the target, he scores 0 points; if he hits it, his score is the one shown in the figure in the zone in which he hit it. After two shots, which of the following numbers cannot be the sum of the two scores he obtained?
+> A) 60
+>
 > B) 70
-> 	
+>
 > C) 80
->              
+>
 > D) 90
-> 	
+>
 > E) 100
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q12|src_kangourou_2014_ecolier__Q12]]
 
 
 
@@ -505,17 +627,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which drawing exactly covers the shape with the four pieces*
+*Discs of each colour*
 
 ![[src_kangourou_2014_ecolier__prob13.png]]
 
-> Initially Fulvia had white, gray and black discs in equal quantity. After she arranged a few of them as you see in the figure, she's got five left. In the figure you can see all the discs used by Fulvia. How many discs did she have at the beginning for each color? A) 5
-> 	
+> Initially Fulvia had white, grey and black discs in equal quantities. After she arranged some of them as the figure shows you, she had five left. In the figure you can see all the discs used by Fulvia. How many discs did she have at the start for each colour?
+> A) 5
+>
 > B) 6
-> 	
-> C) 7 D) 15
-> 	
+>
+> C) 7
+> D) 15
+>
 > E) 18
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q13|src_kangourou_2014_ecolier__Q13]]
 
 
 
@@ -549,24 +679,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many black pieces did it have at the beginning, given that 5 are left over*
+*Tim's carrots and carobs*
 
-> Tim the rabbit is very fond of carrots and carob beans, but he follows a strict rule: every day,
-> at his choice, he eats either 9 carrots, or 2 carob beans, or 1 carob bean and 4 carrots. During one week Tim
-> ate 30 carrots in total. How many carob beans did he eat in total during that week?
-> A) 6	
-	
-> 	
-> B) 7	
-	
-> 	
-> C) 8	
-	
-> 	
-> D) 9	
-	
-> 	
+> The rabbit Tim is very fond of carrots and carobs, but he follows a strict rule: every day, as he chooses, he eats either 9 carrots,  or 2 carobs, or 1 carob and 4 carrots. During one week Tim ate 30 carrots in total. How many carobs did he eat in total during that week?
+> A) 6
+>
+> B) 7
+>
+> C) 8
+>
+> D) 9
+>
 > E) 10
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q14|src_kangourou_2014_ecolier__Q14]]
 
 
 
@@ -593,11 +724,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cabbage has the rabbit eaten in a week*
+*Tommaso's construction seen from above*
 
 ![[src_kangourou_2014_ecolier__prob15.png]]
 
-> By joining eight equal cubes, Thomas obtained a construction and laid it on the floor as shown in the figure to the right. Looking at the construction from above, which of the following images can Thomas see?
+> By gluing 8 identical small cubes together, Tommaso obtained a construction and placed it on the floor as the figure on the right shows you. Looking at the construction from above, which of the following images can Tommaso see?
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q15|src_kangourou_2014_ecolier__Q15]]
 
 
 
@@ -641,21 +778,35 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many dots are in the image*
+*Little black circles*
 
 ![[src_kangourou_2014_ecolier__prob16.png]]
 
-> How many black circles are in the figure? A) 180
-> 	
+> How many little black circles are there in the figure?
+> A) 180
+>
 > B) 181
-> 	
+>
 > C) 182
-> 	
+>
 > D) 183
-> 	
-> E) 265 A) B) C) D) E) 30 50 70
-> 
-> Questions from n. 17 to n. 24 are worth five points each.
+>
+> E) 265
+> A)
+> B)
+> C)
+> D)
+> E)
+> 30 50 70
+>
+> The questions from question 17 to question 24 are worth 5 points each.
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q16|src_kangourou_2014_ecolier__Q16]]
 
 
 
@@ -692,24 +843,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counters showing green after successive rounds*
+*Counters showing green after successive turns*
 
-> Enrico has ten identical counters: each has one red face and the other green. He arranges them in
-> a row on the table so that they all show the red face. After one minute he turns them all over. After
-> another minute he turns over only those in even positions. After another minute he turns over only the third, the sixth and the
-> ninth. After another minute he turns over only the fourth and the eighth, and so on until, at the end, he turns
-> over only the tenth. At this point, how many counters show the green face?
-> A) 1	
-	
-> B) 3	
-	
-> C) 5	
-	
-> D) 6	
-	
+> Enrico has ten identical counters: each has one red face and the other green. He arranges them in a row on the table so that they all show the red face. After one minute he turns them all over. After another minute he turns over only those in even positions. After another minute he turns over only the third, the sixth and the ninth. After another minute he turns over only the fourth and the eighth, and so on until, at the end, he turns over only the tenth. At this point, how many counters show the green face?
+> A) 1
+>
+> B) 3
+>
+> C) 5
+>
+> D) 6
+>
 > E) 7
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q17|src_kangourou_2014_ecolier__Q17]]
 
 
 
@@ -742,9 +895,20 @@ level: kangourou
 
 *Number of women around the table with constraints*
 
-> Seven people, men and women, are sitting around a round table. There are no two men next to each other, and no woman sits between two other women. So the number of women sitting at table A is definitely 3. B) can be either 3 or 4. C) is definitely 4. D) can be either 4 or 5. E) is definitely 5.
+> Seven people, men and women, are seated around a round table. No two men are next to each other and no woman is seated between two other women. Then the number of women seated at the table
+> A) is certainly 3.
+> B) can be either 3 or 4.
+> C) is certainly 4.
+> D) can be either 4 or 5.
+> E) is certainly 5.
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q18|src_kangourou_2014_ecolier__Q18]]
 
 
 
@@ -781,21 +945,28 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum exchanges to compose the word SEGMENTO*
+*Minimum swaps to form the word SEGMENTO*
 
 ![[src_kangourou_2014_ecolier__prob19.png]]
 
-> Anna has lined up some cards, each with a letter on it, as you can see in the picture. Making a move on these cards means swapping two of them. What is the minimum number of moves that allows you to compose the word SEGMENTO? A) 2
-> 	
+> Anna has lined up some cards, on each of which a letter is written, as the figure shows you. Making a move on these cards means swapping two of them with each other. What is the minimum number of moves that allows her to form the word “SEGMENTO”?
+> A) 2
+>
 > B) 3
-> 	
+>
 > C) 4
-> 	
+>
 > D) 5
-> 	
+>
 > E) 6
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q19|src_kangourou_2014_ecolier__Q19]]
 
 
 
@@ -829,21 +1000,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many black rhombi are in level 6 of the pattern*
+*Bell-tower clock hands*
 
 ![[src_kangourou_2014_ecolier__prob20.png]]
 
-> Starting from noon today, the clock of the bell tower, which until then had worked
-> regularly, has broken down: the hour hand has continued to move regularly,
-> while the minute hand has started to rotate 12 times faster than it should. Now
-> it is exactly 12:55. In which of the following positions are the two hands?
-> 	
->        A)	
-> 	
->   B)	
->              C)	
->         D)	 	
->    E)
+> From midday today the clock on the bell tower, which until then had worked regularly, has broken down: the hour hand has continued to move regularly, while the minute hand has begun to rotate 12 times faster than it should. It is now exactly 12:55. In which of the following positions are the two hands?
+>
+> A)
+>
+> B)
+> C)
+> D)
+> E)
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q20|src_kangourou_2014_ecolier__Q20]]
 
 
 
@@ -894,37 +1068,30 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which toys did Heinzi bring home given the coins*
+*Toys Michele took home*
 
 ![[src_kangourou_2014_ecolier__prob21.png]]
 
-> Michele went to a shop and bought 
-> some of the toys you see 
-> in the figure, for each of which the 
-> price is indicated. He paid with 3 banknotes 
-> of 50 euros and got 20 euros in change. 
-> As soon as he left he changed his mind and went 
-> back to the shop having one 
-> of the toys he had bought exchanged for 
-> another one, also in the figure: in this 
-> way he received another 5 euros in change. With 
-> which toys did he end up coming back home?
-> A) The carriage and the plane.	
-> 	
+> Michele went to a shop and bought some of the toys you see in the figure, for each of which the price is indicated. He paid with 3 notes of 50 euros and received 20 euros in change. As soon as he left, he changed his mind and went back to the shop to exchange one of the toys he had bought for another, also in the figure: in this way he received a further 5 euros in change. Which toys did he finally take home?
+> A) The carriage and the aeroplane.
+>
 > B) The carriage and the bus.
-> C) The carriage and the tram.	
-> 	
+> C) The carriage and the tram.
+>
 > D) The motorbike and the tram.
 > E) The bus, the motorbike and the tram.
 > T
 > E
-> N
-> M
-> O
-> G
-> S
+> N M O G S
 > E
 >
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q21|src_kangourou_2014_ecolier__Q21]]
 
 
 
@@ -987,7 +1154,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum lines to level wagons at stations*
+*Minimum lines to equalise the wagons at the stations*
 
 ![[src_kangourou_2014_ecolier__prob22.png]]
 
@@ -1011,17 +1178,24 @@ level: kangourou
 \end{document}
 ```
 
-> Look at the figure. The five points represent as many stations and the segments connecting them represent railway lines. The number next to each station indicates how many cars are present at that station. A locomotive serves between the various stations: at each station it can leave or pick up some wagons. If it starts from the station where there are the most wagons, what is the least number of lines it needs to travel so that, at the end of its journeys, all stations have the same number of wagons? A) 3
-> 	
+> Look at the figure. The 5 points represent as many stations, and the segments connecting them represent railway lines. The number next to each station indicates how many wagons are present at that station. A locomotive runs a service between the various stations: at each station it may leave or pick up some wagons. If it starts from the station where there are the most wagons, what is the smallest number of lines it needs to travel so that, at the end of its journeys, the same number of wagons is present at every station?
+> A) 3
+>
 > B) 4
-> 	
+>
 > C) 5
-> 	
+>
 > D) 6
-> 	
+>
 > E) 7
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q22|src_kangourou_2014_ecolier__Q22]]
 
 
 
@@ -1057,19 +1231,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the grey box of the addition with 0..6*
+*Digit in the grey box*
 
 ![[src_kangourou_2014_ecolier__prob23.png]]
 
-> Putting in each box one and only one of the digits 0, 1, 2, 3, 4, 5, 6 and using them all, you get a correct addition. What number should you put in the grey box? A) 2
-> 	
+> Putting one and only one of the digits 0, 1, 2, 3, 4, 5, 6 in each box, and using all of them, gives a correct addition. Which digit goes in the grey box?
+> A) 2
+>
 > B) 3
-> 	
-> C) 4 D) 5
-> 	
+>
+> C) 4
+> D) 5
+>
 > E) 6
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q23|src_kangourou_2014_ecolier__Q23]]
 
 
 
@@ -1115,29 +1297,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of gray 1×1 squares without a 2×2 gray square*
+*Maximum grey small squares without a grey 2x2*
 
 ![[src_kangourou_2014_ecolier__prob24.png]]
 
-> You want to color some of the small squares shown on the right figure gray, but you don't want any gray 2×2 squares—like the one shown on the left—to appear, formed by joining four gray small squares.
->
-> What is the maximum number of small squares you can color?
->
+> You want to colour grey some of the small squares among those that appear in the figure on the right, but you want no grey squares to appear like the one shown on the left, obtained by placing 4 grey small squares side by side. How many small squares can you colour at most?
 > A) 16
-> 	
-> B) 18	
-> 	
+>
+> B) 18
+>
 > C) 20
-> D) 21	
-> 	
+> D) 21
+>
 > E) 22
-> +
-> 2
-> 4
-> 1
-> 6
-> 7
-> 
-> STRINGA ECOLIER 2014
+> + 2 4 1 6 7
+>
+> STRING ECOLIER 2014
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+[[Quesiti/src_kangourou_2014_ecolier#q24|src_kangourou_2014_ecolier__Q24]]

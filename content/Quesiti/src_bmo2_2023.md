@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero ciclico da triangolo con angolo obtuso e tangenze incircolari*
+*Dimostrare che $BCQP$ è ciclico*
 
-> Il $ABC$ deve essere un triangolo con un angolo obtuso a $A$ e incentro $I$. I cerchi $ABI$ e $ACI$ si incrociano di nuovo a $BC$ rispettivamente a $X$ e $Y$. Le linee $AX$ e $BI$ si incontrano a $P$, e le linee $AY$ e $CI$ si incontrano a $Q$. Provare che $BCQP$ è ciclico.
+> Sia $ABC$ un triangolo con un angolo ottuso in $A$ e incentro $I$. Le circonferenze $ABI$ e $ACI$ intersecano di nuovo $BC$ rispettivamente in $X$ e in $Y$. Le rette $AX$ e $BI$ si incontrano in $P$, e le rette $AY$ e $CI$ si incontrano in $Q$. Dimostrare che $BCQP$ è ciclico.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2023#q01|src_bmo2_2023__Q01]]
 
 
 
@@ -62,17 +69,24 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La lavagna si sposta da 1 a n lista di trasformazioni a n,1,2,...,n-1*
+*Tutti gli $n$ per cui la lista iniziale diventa $n, 1, 2, \ldots, n-1$*
 
-> Per un numero intero $n > 1$, i numeri $1, 2, 3, \ldots, n$ sono scritti in ordine su una lavagna. Sono possibili le seguenti mosse:
-> 
-> (i) Prendere tre numeri adiacenti $x, y, z$ la cui somma è un multiple di 3 e sostituirli con $y, z, x$.
-> 
-> (ii) Prendere due numeri adiacenti $x, y$ la cui differenza è un multiple di 3 e sostituirli con $y, x$.
-> 
-> Ad esempio, potremmo prendere: $1, 2, 3, 4 \xrightarrow{(i)} 2, 3, 1, 4 \xrightarrow{(ii)} 2, 3, 1, 4$.
-> 
-> Trova tutte le $n$ in modo tale che l'elenco iniziale possa essere trasformato in $n, 1, 2, \ldots, n-1$ dopo un numero finito di mosse.
+> Per un intero $n > 1$, i numeri $1, 2, 3, \ldots, n$ sono scritti in ordine su una lavagna. Sono possibili le mosse seguenti:
+>
+> (i) prendere tre numeri adiacenti $x, y, z$ la cui somma è un multiplo di 3 e sostituirli con $y, z, x$;
+>
+> (ii) prendere due numeri adiacenti $x, y$ la cui differenza è un multiplo di 3 e sostituirli con $y, x$.
+>
+> Per esempio, si potrebbe fare: $1, 2, 3, 4 \xrightarrow{(i)} 2, 3, 1, 4 \xrightarrow{(ii)} 2, 3, 1, 4$.
+>
+> Trovare tutti gli $n$ tali che la lista iniziale si possa trasformare in $n, 1, 2, \ldots, n-1$ dopo un numero finito di mosse.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2023#q02|src_bmo2_2023__Q02]]
 
 
 
@@ -99,11 +113,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare n-liste ideali definite da una condizione minima di differenza media non zero*
+*Il numero di $n$-liste ideali*
 
-> Per un intero $n \ge 3$, diciamo che $A = (a_1, a_2, \ldots, a_n)$ è un $n$-lista se ogni $a_i$ è un intero nell'intervallo $1 \le a_i \le n$. Per ciascuna $k = 1, \ldots, n-1$, $M_k$ deve essere il minimo possibile non-zero di $\left|\frac{a_1 + \cdots + a_{k+1}}{k+1} - \frac{a_1 + \cdots + a_k}{k}\right|$ in tutte le liste $n$. Diciamo che un $n$-lista $A$ è ideale se $$\left|\frac{a_1 + \cdots + a_{k+1}}{k+1} - \frac{a_1 + \cdots + a_k}{k}\right| = M_k$$ per ogni $k = 1, \ldots, n-1$.
-> 
-> Trova il numero delle liste $n$ ideali.
+> Per un intero $n \ge 3$, diciamo che $A = (a_1, a_2, \ldots, a_n)$ è una $n$-lista se ogni $a_i$ è un intero nell'intervallo $1 \le a_i \le n$. Per ogni $k = 1, \ldots, n-1$, sia $M_k$ il minimo valore non nullo possibile di $\left|\frac{a_1 + \cdots + a_{k+1}}{k+1} - \frac{a_1 + \cdots + a_k}{k}\right|$ fra tutte le $n$-liste. Diciamo che una $n$-lista $A$ è ideale se
+> $$\left|\frac{a_1 + \cdots + a_{k+1}}{k+1} - \frac{a_1 + \cdots + a_k}{k}\right| = M_k$$
+> per ogni $k = 1, \ldots, n-1$.
+>
+> Trovare il numero di $n$-liste ideali.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2023#q03|src_bmo2_2023__Q03]]
 
 
 
@@ -126,6 +149,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con lati interi, hcf 1, angolo A=3B implica un lato cubo perfetto*
+*Se $\angle A = 3\angle B$ e $\operatorname{MCD}(a,b,c)=1$, almeno uno fra $a$, $b$, $c$ è un cubo*
 
-> Le lunghezze laterali $a, b, c$ di un triangolo $ABC$ sono numeri interi positivi in modo che il fattore comune più alto di $a$, $b$ e $c$ sia 1. Dato che $\angle A = 3\angle B$, dimostrare che almeno uno di $a$, $b$ e $c$ è un cubo.
+> Le lunghezze dei lati $a, b, c$ di un triangolo $ABC$ sono interi positivi tali che il massimo comun divisore di $a$, $b$ e $c$ è 1. Sapendo che $\angle A = 3\angle B$, dimostrare che almeno uno fra $a$, $b$ e $c$ è un cubo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2023#q04|src_bmo2_2023__Q04]]

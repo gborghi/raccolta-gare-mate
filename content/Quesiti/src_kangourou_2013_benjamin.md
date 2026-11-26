@@ -33,9 +33,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number that completes the additions tree*
+*Distance along the path from Mara to Bruna*
 
-> Look at the figure. Mara and Bruna are at the two ends of the indicated path: what distance must Mara travel to reach Bruna? A) 300 m B) 400 m C) 800 m D) 1 km	            E) 700 m
+> Look at the figure. Mara and Bruna are at the two ends of the path shown: what distance must Mara travel to reach Bruna?
+> A) 300 m
+> B) 400 m
+> C) 800 m
+> D) 1 km
+> E) 700 m
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q01|src_kangourou_2013_benjamin__Q01]]
 
 
 
@@ -66,9 +77,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cubes are needed to build the large cube*
+*Right turns only from A to B*
 
-> Nicholas is learning to drive: for now he can bend to the right, but he is not yet able to bend to the left. Now, with his car, he's at point A on the map and he's going to get to point B in the direction and direction the arrow points. What is the minimum number of curves (all on the right) that will allow them to get to B? A) 3 B) 4 C) 6 D) 8 E) 10
+> Nicola is learning to drive: for now he can turn right, but he is not yet able to turn left. Now, in his car, he is at point A on the map and intends to reach point B, starting in the direction and sense indicated by the arrow. What is the minimum number of turns (all to the right) that will allow him to reach B?
+> A) 3
+> B) 4
+> C) 6
+> D) 8
+> E) 10
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q02|src_kangourou_2013_benjamin__Q02]]
 
 
 
@@ -99,15 +121,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance to reach the friend*
+*Sum of ages in three years*
 
-> Today, the sum of the ages of Anna, Bruno, and Cristina is 31. What will be the sum of their ages in three years? A) 32
->        	
+> Today the sum of the ages of Anna, Bruno and Cristina is 31 years. What will the sum of their ages be in three years?
+> A) 32
+>
 > B) 34
->  	
+>
 > C) 35
->         	
-> D) 37 E) 40
+>
+> D) 37
+> E) 40
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q03|src_kangourou_2013_benjamin__Q03]]
 
 
 
@@ -143,15 +173,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of turns to the right to go from A to B*
+*Cubes still needed to complete the cube*
 
-> Natalia and Diana have a lot of cubes, all the same. With some of these cubes, Natalia built the cube you see in the figure on the left. Diana wants to build a cube identical to Natalia's, but for now she has managed to get the solid you see in the figure on the right (the cubes in unseen positions have already been all inserted). How many cubes does she need to complete the construction? A) 5 B) 6
->          	
+> Natalia and Diana have many small cubes, all the same as each other. With some of these small cubes, Natalia has built the cube that you see in the figure on the left. Diana wants to build a cube identical to Natalia's, but for now she has got as far as the solid that you see in the figure on the right (the small cubes in positions that are not visible have all already been inserted). How many small cubes does she still need to complete the construction?
+> A) 5
+> B) 6
+>
 > C) 7
->        	
+>
 > D) 8
->       	
+>
 > E) 9
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q04|src_kangourou_2013_benjamin__Q04]]
 
 
 
@@ -184,16 +223,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of three years of age over three years*
+*The digit denoted by r*
 
-> The symbol r indicates one of the ten digits. If r r × r = 176, what is the figure indicated by r ? A) 6
->          	
-> B) 4
->     	
-> C) 7 D) 9
->        	
-> (E) 8 Brown
+> The symbol r denotes one of the ten digits. If r r × r = 176,  what is the digit denoted by r ?
+> A) 6
 >
+> B) 4
+>
+> C) 7
+> D) 9
+>
+> E) 8
+> Mara Bruna
+>
+
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q05|src_kangourou_2013_benjamin__Q05]]
 
 
 
@@ -233,11 +281,20 @@ level: kangourou
 
 ![[src_kangourou_2013_benjamin__prob6.png]]
 
-> Five kangaroos K, L, M, N, and O have five large square tiles in front of them, aligned as shown in the figure. Each kangaroo starts from the position indicated with Partenza, jumps towards the arrow and at each jump lands on the first free tile it finds. They start in the order that we've listed them for you: K first and he jumps three times, L second and he jumps three times, M third and he jumps two times, N fourth and he jumps two times and finally O who jumps one time. When O also arrived, in what order are the five kangaroos? (A) OKMLN
-> 	
-> (b) OKLMN C) OMLKN D) OMLNK E) OMKLN
+> Five kangaroos K, L, M, N, and O have in front of them five large square tiles, lined up as the figure shows you. Each kangaroo starts from the position marked “Start’’, jumps in the direction of the arrow and with each jump lands on the first free tile that it finds. They start in the order in which we have listed them for you: K first and makes three jumps, L second and he also makes three jumps, M third and makes two jumps, N fourth and he also makes two jumps and finally O who makes only one jump. When O has also arrived, in what order are the five kangaroos?
+> A) OKMLN
+>
+> B) OKLMN
+> C) OMLKN
+> D) OMLNK
+> E) OMKLN
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q06|src_kangourou_2013_benjamin__Q06]]
 
 
 
@@ -266,11 +323,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time of the fourth quarter-hour pill*
+*Time of the fourth pill*
 
-> To heal himself, Michele must take pills, each one (from the second onward) a quarter of an hour away from the previous one. He took the first one at 11:05. What time did he take the fourth? A) 11:40 B) 11:50 C) 11:55 D) 12:00	            	 E) 12:05
+> To get better, Michele must take some pills, each one (from the second onwards) a quarter of an hour after the previous one. He took the first at 11:05. At what time did he take the fourth?
+> A) 11:40
+> B) 11:50
+> C) 11:55
+> D) 12:00
+> E) 12:05
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q07|src_kangourou_2013_benjamin__Q07]]
 
 
 
@@ -303,19 +370,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers between 20 and 30 divisible by its units digit*
+*Numbers between 20 and 30 divisible by the units digit*
 
-> The number 36 has the property of being divisible by its units digit: in fact 36 is divisible by 6. How many numbers between 20 and 30 have this property? A) 2
->         	
+> The number 36 has the property of being divisible by its units digit: in fact, 36 is divisible by 6. How many numbers between 20 and 30 have this property?
+> A) 2
+>
 > B) 3
->  	
+>
 > C) 4
->         	
+>
 > D) 5
-> 	
+>
 > E) 6
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q08|src_kangourou_2013_benjamin__Q08]]
 
 
 
@@ -352,23 +425,29 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hand position at one third of the journey*
+*Minute hand at one third of the journey*
 
 ![[src_kangourou_2013_benjamin__prob9.png]]
 
-> Yesterday afternoon, Simona took a bicycle trip, always keeping the same speed. On departure and arrival she looked at the clock, and she saw the images we show you in the diagram below.
->    
-> What was the position of the minute hand when Simona was exactly one third of her journey? A)
->  	
+> Yesterday afternoon Simona went on a bicycle journey, always keeping the same speed. At the start and on arrival she looked at the clock, and she saw the pictures we show you in the diagram below.
+>
+> What was the position of the minute hand when Simona was exactly one third of the way through her journey?
+> A)
+>
 > B)
->  	
+>
 > C)
->  	
+>
 > D)
->  	
+>
 > E)
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q09|src_kangourou_2013_benjamin__Q09]]
 
 
 
@@ -401,20 +480,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many figures have the same perimeter as the square sheet*
+*Tiles in a 5×4 rectangle*
 
-> Cristina has many tiles identical to the one in the figure on the left. She wants to fit as many as possible into the 
-> 5×4 rectangle that you see in the figure on the right, made 
-> up of small squares of the same size as those that make up the tiles. The 
-> tiles must not overlap, not even partially. How many can she 
-> fit at most?
-> A) 2	
->        B) 3	 	
->        C) 4               D) 5 	
->   E) 6
+> Cristina has many tiles identical to the one in the figure on the left. She wants to fit as many as possible into the 5×4 rectangle you see in the figure on the right, made up of small squares of the same size as those that make up the tiles. The tiles must not overlap, not even partially. What is the maximum number she can fit in?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 > Start
-> 
-> Questions from No. 11 to No. 20 are worth 4 points each
+>
+> Questions from N. 11 to N. 20 are worth 4 points each
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.2](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q10|src_kangourou_2013_benjamin__Q10]]
 
 
 
@@ -491,9 +573,20 @@ level: kangourou
 \end{document}
 ```
 
-> Notice the figure: By drawing two circles, Stephen delimits three different regions. What is the maximum number of different regions that you can delimit by drawing two squares? A) 3 B) 5 C) 7 D) 9	           E) 12
+> Look at the figure: by drawing two circles, Stefano has delimited three different regions. What is the maximum number of different regions that he can delimit by drawing two squares?
+> A) 3
+> B) 5
+> C) 7
+> D) 9
+> E) 12
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q11|src_kangourou_2013_benjamin__Q11]]
 
 
 
@@ -530,17 +623,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Piece that covers more points in the grid*
+*Piece that covers the most points on the grid*
 
 ![[src_kangourou_2013_benjamin__prob12.png]]
 
-> In the figure, you can see a square grid formed by squared cells; at the center of some of them are points. Which of the items in the answers, if properly inserted into the grid, can cover the most of these points? (Each piece is constructed in such a way that, properly placed inside the grid, each of its knots can cover the centre of some box.) A)
->       	
-> B) C) D)
->       	
+> In the figure you see a square grid formed by placing square cells side by side; at the centre of some of them there are points. Which of the pieces indicated in the answers is able, if inserted suitably into the grid, to cover the greatest number of these points? (Each piece is constructed in such a way that, when placed suitably inside the grid, each of its joints can cover the centre of some cell.)
+> A)
+>
+> B)
+> C)
+> D)
+>
 > E)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q12|src_kangourou_2013_benjamin__Q12]]
 
 
 
@@ -580,17 +681,23 @@ level: kangourou
 
 ![[src_kangourou_2013_benjamin__prob13.png]]
 
-> In the figure, you see six square sheets. Each contains a region, highlighted in dark gray, which leaves some rectangular (possibly square) portions of paper free. How many regions highlighted in dark gray have the same perimeter as the square sheet that houses them? A) 2
->         	
+> In the figure you see six square sheets. Each of them contains a region, highlighted in dark grey, that leaves some rectangular portions (possibly square) of the sheet free. How many of the regions highlighted in dark grey have the same perimeter as the square sheet that contains them?
+> A) 2
+>
 > B) 3
->  	
+>
 > C) 4
->          	
+>
 > D) 5
->    	
+>
 > E) 6
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q13|src_kangourou_2013_benjamin__Q13]]
 
 
 
@@ -622,17 +729,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fished if tripled would give 12 more*
+*Fish caught if triple would be 12 more*
 
-> Matteo went fishing. If he had caught three times the fish he caught, he would have caught 12 more. How many fish did he catch? A) 7
->         	
-> B) 6 C) 5
->         	
+> Matteo went fishing. If he had caught three times as many fish as he did, he would have caught 12 more. How many fish did he catch?
+> A) 7
+>
+> B) 6
+> C) 5
+>
 > D) 4
-> 	
+>
 > E) 3
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q14|src_kangourou_2013_benjamin__Q14]]
 
 
 
@@ -668,18 +782,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of faces of the cube with cubes removed at the vertices*
+*Number of faces of the cube with small cubes removed at the vertices*
 
 ![[src_kangourou_2013_benjamin__prob15.png]]
 
-> The figure represents a 3 cm side cube after a 1 cm side cube has been removed from one of its vertices. Consider the solid obtained by repeating the operation on each of the remaining vertices (of the large cube): how many faces does it have? A) 16
->           	
+> The figure shows a cube of side 3 cm after a small cube of side  1 cm has been removed at one of its vertices. Consider the solid obtained by repeating the operation at each of the remaining vertices (of the large cube): how many faces does it have?
+> A) 16
+>
 > B) 20
->       	
-> C) 24 D) 30 E) 36
+>
+> C) 24
+> D) 30
+> E) 36
 >
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+**Source:** [open PDF p.3](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q15|src_kangourou_2013_benjamin__Q15]]
 
 
 
@@ -717,17 +839,24 @@ level: kangourou
 
 *Goals scored by the home team*
 
-> In a football game, a lot of goals were scored. At the end of the first half, six of them had already been scored and the away team was in the lead; scoring three goals in the second half, the home team won the match. How many goals did the home team score in total? A) 3
->         	
+> In a football match, many goals were scored. At the end of the first half, six had already been scored and the away team was ahead; by scoring three goals in the second half, the home team nevertheless won the match. How many goals did the home team score in total?
+> A) 3
+>
 > B) 4
-> 	
+>
 > C) 5
->        	
+>
 > D) 6
-> 	
+>
 > E) 7
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q16|src_kangourou_2013_benjamin__Q16]]
 
 
 
@@ -759,15 +888,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of two-digit numbers with a difference of 50*
+*Pairs of two-digit numbers with difference 50*
 
-> Consider all pairs of positive integers, each of two digits, such that the difference between the largest and the smallest of the two numbers is 50. How many are there? A) 40 B) 30
->        	
+> Consider all the pairs formed by positive integers, each with two digits, such that the difference between the greater and the smaller of the two numbers is 50. How many are there?
+> A) 40
+> B) 30
+>
 > C) 50
->   	
-> D) 60 E) 10
+>
+> D) 60
+> E) 10
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q17|src_kangourou_2013_benjamin__Q17]]
 
 
 
@@ -800,11 +938,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different numbers in the 4x4 grid with adjacent cells differing by 1*
+*Different numbers in a 4 × 4 grid*
 
-> In each cell of a grid 4 × 4 a number is written. Numbers written in adjacent cells, i.e. having one side in common, differ by 1. Among the written numbers are 9 and 3; the latter appears in the upper left cell. How many different numbers appear in the grid? A) 4 B) 6 C) 7 D) 8 E) 9
+> In every cell of a 4 × 4 grid a number has been written. Numbers written in adjacent cells, that is, cells that have a side in common, differ by 1. Among the numbers written are 9 and 3; the latter appears in the cell at the top left. How many different numbers appear in the grid?
+> A) 4
+> B) 6
+> C) 7
+> D) 8
+> E) 9
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q18|src_kangourou_2013_benjamin__Q18]]
 
 
 
@@ -839,15 +988,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Votes from the second place in the elections*
+*Votes of the second-placed candidate*
 
-> In one class, elections were held to appoint the head of the class. The total number of votes cast was 36. Five candidates received votes: the most voted received 12, the least voted received 4, and there are no two candidates with the same number of votes. How many votes did the candidate who placed second get? A) 8
->                 	
-> B) 8 or 9, and both outcomes are possible C) 9 D) 9 or 10, and both outcomes are possible
->            
+> In a class, elections were held to appoint the class representative. A total of 36 votes were cast. Five candidates received votes: the candidate with the most votes received 12, the candidate with the fewest received 4, and no two candidates received the same number of votes. How many votes did the candidate who came second receive?
+> A) 8
+>
+> B) 8 or 9, and both outcomes are possible
+> C) 9
+> D) 9 or 10, and both outcomes are possible
+>
 > E) 10
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q19|src_kangourou_2013_benjamin__Q19]]
 
 
 
@@ -905,46 +1063,29 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Front view image of the building of small cubes*
+*Front view of the building of cubes*
 
 ![[src_kangourou_2013_benjamin__prob20.png]]
 
-> Giovanni built a building with a square base using small cubes all equal to each other. For each cell of the square
-> base, the figure indicates how many cubes the tower that
-> rises above that cell is made of. The figure also indicates which are the
-> front and the back of the building with respect to this diagram.
-> Looking at the building from the front, which image appears?
-> A) 	
->                     	
-> B) 	
->                       	
-> C) 	
-> D) 	
->                     	
-> E) 
-> 3
-> 4
-> 2
-> 3
-> 2
-> 3
-> 3
-> 1
-> 2
-> 2
-> 1
-> 3
-> 1
-> 1
-> 2
-> 1
-> 2
-> BACK
-> FRONT
-> 
-> Questions from No. 21 to No. 30 are worth 5 points each
+> Giovanni has built a building with a square ground plan using cubes that are all the same as each other. For each cell of the base square, the figure shows how many cubes make up the tower that rises above that cell. The figure also shows which are the front and the back of the building relative to this diagram. Looking at the building from the front, which image appears?
+> A)
+>
+> B)
+>
+> C)
+> D)
+>
+> E)
+> 3 4 2 3 2 3 3 1 2 2 1 3 1 1 2 1 2 BACK FRONT
+>
+> Questions from question 21 to question 30 are worth 5 points each.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+**Source:** [open PDF p.4](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q20|src_kangourou_2013_benjamin__Q20]]
 
 
 
@@ -979,22 +1120,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Logic with liars about the colors of the marbles*
+*Logic with liars about marble colours*
 
-> Andrea, Bruno and Carlo never tell the truth. Each of them has a marble that
-> is either red or green. Andrea says: My marble and Bruno's are the same
-> color. Bruno says: My marble and Carlo's are the same color. Carlo
-> says: Two of us have a red marble, the other has a green one. Which of the following
-> statements is true?
+> Andrea, Bruno and Carlo never tell the truth. Each of them has a marble that is either red or green. Andrea says: My marble and Bruno's are the same colour. Bruno says: My marble and Carlo's are the same colour. Carlo says: Two of us have a red marble, the other has a green one. Which of the following statements is true?
 > A) Andrea's marble is green .
->            
-> B) Bruno's marble is green. 	
->     
-> C) Carlo's marble is red. 
-> D) Andrea's and Carlo's marbles are of different colors.                                                                                     
-> E) None of the previous statements is true.
+>
+> B) Bruno's marble is green.
+>
+> C) Carlo's marble is red.
+> D) Andrea's and Carlo's marbles are different colours.
+> E) None of the above statements is true.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q21|src_kangourou_2013_benjamin__Q21]]
 
 
 
@@ -1035,21 +1178,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of parts to close the track circuit*
+*Minimum pieces to close the track circuit*
 
 ![[src_kangourou_2013_benjamin__prob22.png]]
 
-> Charles and Paul have some pieces of curved track, all of them equal to each other. Everyone wants to build a closed circuit, on which to run their own train. The figure shows the circular circuit that Charles built, using 8 track pieces, and how Paul began to build his circuit. Paul wants to close his circuit by using as few pieces as possible. When finished, how many pieces will make up Paul's circuit? A) 11
->      	
+> Carlo and Paolo have at their disposal some curved sections of track, all identical to one another. Each of them wants to build a closed circuit on which to run his own train. The figure shows the circular circuit that Carlo has built, using 8 sections of track, and how Paolo has started to build his circuit. Paolo wants to close his circuit using the smallest possible number of pieces: when it is finished, how many pieces will Paolo's circuit be made up of?
+> A) 11
+>
 > B) 12
-> 	
+>
 > C) 14
->         	
+>
 > D) 15
->  	
+>
 > E) 16
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q22|src_kangourou_2013_benjamin__Q22]]
 
 
 
@@ -1080,15 +1229,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of finalist cats (sets)*
+*Minimum number of finalist female cats*
 
-> There are 66 cats in the Miss Cat 2013 competition. Twenty-one were eliminated because they failed the mouse-hunting test. Of the rest, 27 have at least two colors of hair and 32 have a white tail. All cats with at least two colors of hair and a white tail are in the final. So the smallest possible number of finalist cats is A) 5.
->       	
-> B) 7. C) 13.
->         	
-> D) 14.               	 E) 27.
+> 66 female cats take part in the Miss Cat 2013 contest. 21 were eliminated because they failed the mouse-hunting test. Of the remaining ones, 27 have fur of at least two colours and 32 have a white tail.  All the female cats with fur of at least two colours and a white tail are in the final. Then the smallest possible number of finalist female cats is
+> A) 5.
+>
+> B) 7.
+> C) 13.
+>
+> D) 14.
+> E) 27.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q23|src_kangourou_2013_benjamin__Q23]]
 
 
 
@@ -1122,17 +1280,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of males with distance restriction*
+*Maximum number of boys with a distance constraint*
 
-> Ten students, male and female, are in line. However you choose two males in the line, the number of students standing between those two males is different from 2. How many males can there be in line at most? A) 7
->         	
+> Ten students, boys and girls, are in a line. No matter which two boys are chosen in the line, the number of students between those two boys is different from 2. How many boys can there be at most in the line?
+> A) 7
+>
 > B) 6
-> 	
+>
 > C) 3
->        	
-> D) 4 E) 5
+>
+> D) 4
+> E) 5
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q24|src_kangourou_2013_benjamin__Q24]]
 
 
 
@@ -1168,16 +1334,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Boys giving left hand to a girl in a circle
+*Boys who give their left hand to a girl in a circle*
 
-> 40 boys and 28 girls stand in a circle, hand in hand, all facing inside the circle. Boys who give a girl their right hand are 18. How many boys give their left hand to a girl? A) 18 B) 9
->      	
-> C) 28 D) 14
->           	
-> E) 20 Carlo Paolo
+> 40 boys and 28 girls arrange themselves in a circle, hand in hand, all facing towards the inside of the circle. There are 18 boys who give their right hand to a girl. How many boys give their left hand to a girl?
+> A) 18
+> B) 9
+>
+> C) 28
+> D) 14
+>
+> E) 20
+> Carlo Paolo
 >
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+**Source:** [open PDF p.5](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q25|src_kangourou_2013_benjamin__Q25]]
 
 
 
@@ -1217,21 +1393,28 @@ Boys giving left hand to a girl in a circle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of buttons to make faces cheerful*
+*Minimum number of buttons to make the faces happy*
 
 ![[src_kangourou_2013_benjamin__prob26.png]]
 
-> In the picture you see four buttons: two of them show a happy face, the other two a sad face. If you press any of them, the face shown changes expression (from sad to happy or, from happy, sad) and the same goes for the faces that appear on the buttons adjacent to the one you pressed. You want to make all the faces cheerful, what is the minimum number of buttons you must press to reach the goal? A) 2
->         	
+> In the figure you see four buttons: two of them show a happy face, the other two a sad face. If you press any one of them, the face shown changes expression (from sad it becomes happy, or from happy, sad) and the same happens for the faces that appear on the buttons adjacent to the one you have pressed. You want to make all the faces happy: what is the minimum number of buttons you need to press to achieve this?
+> A) 2
+>
 > B) 3
->  	
+>
 > C) 4
->        	
+>
 > D) 5
-> 	
+>
 > E) 6
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+**Source:** [open PDF p.6](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q26|src_kangourou_2013_benjamin__Q26]]
 
 
 
@@ -1269,25 +1452,26 @@ Boys giving left hand to a girl in a circle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum difference after 2013 change operations on the triple*
+*Greatest difference after 2013 change operations*
 
-> The change operation on a triple of numbers consists in replacing each of the
-> three numbers of the triple with the sum of the other two. For example, the change operation
-> transforms the triple {3, 4, 6} into the triple {10, 9, 7}; applying change to this second
-> triple gives the triple {16, 17, 19}.  We start from the triple {20, 1, 3} and apply
-> change 2013 times consecutively: what is the maximum difference between two numbers
-> of the last triple that we obtain?
-> A) 1	
->         	
-> B) 2	
->  	
-> C) 17	
->           	
-> D) 19	
->       	
+> The change operation on a triple of numbers consists in replacing each of the three numbers of the triple with the sum of the other two. For example, the change operation transforms the triple {3, 4, 6} into the triple {10, 9, 7}; applying change to this second triple gives the triple {16, 17, 19}. We start from the triple {20, 1, 3} and apply change 2013 times consecutively: what is the greatest difference between two numbers of the last triple that we obtain?
+> A) 1
+>
+> B) 2
+>
+> C) 17
+>
+> D) 19
+>
 > E) 2013
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Spotting patterns]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+**Source:** [open PDF p.6](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q27|src_kangourou_2013_benjamin__Q27]]
 
 
 
@@ -1321,11 +1505,9 @@ Boys giving left hand to a girl in a circle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many strange numbers n with n-297 inverse*
+*Strange numbers with reversed digits*
 
-> A positive integer n of three digits is called strange if it has the following
-> property: the number n – 297 is still a positive integer of three digits and its digits are the
-> same as those of n read in reverse order. How many strange numbers exist?
+> A three-digit positive integer n is called strange if it has the following property:  the number n – 297 is still a three-digit positive integer and its digits are the same as those of n read in reverse order. How many strange numbers are there?
 > A) 6
 >
 > B) 7
@@ -1333,9 +1515,15 @@ Boys giving left hand to a girl in a circle
 > C) 10
 >
 > D) 60
->                 E) 70
+> E) 70
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+**Source:** [open PDF p.6](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q28|src_kangourou_2013_benjamin__Q28]]
 
 
 
@@ -1371,13 +1559,24 @@ Boys giving left hand to a girl in a circle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of visible faces of the solid 2x2x1 cubic*
+*Highest sum of the visible faces of a 2×2×1 solid of cubes*
 
 ![[src_kangourou_2013_benjamin__prob29.png]]
 
-> Alice has four identical cubes, on each face of which a number is shown. A net of each of the cubes is shown in the upper left figure. Alice glues the four cubes to the solid 2×2×1 shown in the figure to the left below, warning that two faces can only match if the numbers shown on them are equal. Finally, Alice calculates the sum of the numbers on the visible faces of the solid. What is the highest sum she can get? A) 64 B) 56 C) 80 	            D) 70 E) 68
+> Alice has four identical cubes, on each face of each of which a number is written. A net of each of the cubes is shown in the figure at the top left. Alice glues the four cubes together to obtain the 2×2×1 solid shown in the figure at the bottom left, with the condition that two faces may fit together only if the numbers written on them are equal. Finally Alice calculates the sum of the numbers written on the visible faces of the solid. What is the highest sum she can obtain?
+> A) 64
+> B) 56
+> C) 80
+> D) 70
+> E) 68
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** E
+**Source:** [open PDF p.6](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q29|src_kangourou_2013_benjamin__Q29]]
 
 
 
@@ -1414,18 +1613,25 @@ Boys giving left hand to a girl in a circle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Separate 2x2 cubes with 4 white and 4 black cubes*
+*Distinct cubes of side 2 cm*
 
-> How many different 2 cm side cubes can be obtained by putting together 4 white cubes and 4 black cubes, all of which are 1 cm side? (Two cubes shall be considered different if they cannot be obtained from each other by rotation.) A) 16
->         	
+> How many different cubes of side 2 cm can be obtained by placing together 4 white small cubes and 4 black small cubes, all of side 1 cm? (Two cubes are to be considered different if one cannot be obtained from the other by rotations.)
+> A) 16
+>
 > B) 9
-> 	
+>
 > C) 8
->        	
+>
 > D) 7
->  	
+>
 > E) 6
-> 
-> BENJAMIN STRING 2013
+>
+> STRING BENJAMIN 2013
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+**Source:** [open PDF p.6](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+[[Quesiti/src_kangourou_2013_benjamin#q30|src_kangourou_2013_benjamin__Q30]]

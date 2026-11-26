@@ -33,11 +33,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little special number (product first = final sum)*
+*Smaller special number (product of primes = sum of last digits)*
 
-> Special We call a special number a positive integer of four digits (significant) such that the product of the first two digits is equal to the sum of the last two. For example, 2351 is a special number (2 × 3 = 5 + 1); another special number is 5387. What's the smallest special number?
+> Special Number We call a number special if it is a (positive) four-digit (significant) integer such that the product of the first two digits equals the sum of the last two digits. For example, 2351 is a special number (2 × 3 = 5 + 1); another special number is 5387. What is the smallest special number?
 
-**Answer:** 1000
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_squadre_f#q01|src_kangourou_2017_squadre_f__Q01]]
 
 
 
@@ -64,11 +68,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
+*How many grandchildren does Grandma Anna have (Mario's cousins, etc.)?*
 
-> Grandma Anna's grandchildren Anna have four children and she is the grandmother of Mario, Silvia, Nadia and Pietro, each of whom is a cousin of each of the other three. If Mario, Silvia, Nadia, and Pietro have 9, 5, 8, and 8 cousins who are also grandchildren of Anna, how many grandchildren (children of her children) does Grandma Anna have?
+> Grandchildren of Grandma Anna: Anna has four children and is the grandmother of Mario, Silvia, Nadia, and Pietro; each of them is a cousin of each of the other three. If Mario, Silvia, Nadia, and Pietro have 9, 5, 8, and 8 cousins respectively who are also Anna's grandchildren, how many grandchildren (children of her children) does Grandma Anna have?
 
-**Answer:** 10
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_f#q02|src_kangourou_2017_squadre_f__Q02]]
 
 
 
@@ -94,11 +103,16 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dcba = double of abb with different digits*
+*Value dcba = twice abb, with different digits*
 
-> Let a, b, c, d denote four different digits. If the four-digit dcba number is twice the three-digit abb number what is dcba?
+> The Double Let a, b, c, d denote four distinct digits. If the four-digit number dcba is twice the three-digit number abb, what is the value of dcba?
 
-**Answer:** 1798
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_squadre_f#q03|src_kangourou_2017_squadre_f__Q03]]
 
 
 
@@ -123,11 +137,16 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of positive n with n^2+12 divisible by n+4*
+*Sum of the n positive integers such that n²+12 is divisible by n+4*
 
-> Whole division What is the sum of the positive integers n such that n^2 + 12 is divisible by n + 4?
+> Integer division: What is the sum of the positive integers n such that n² + 12 is divisible by n + 4?
 
-**Answer:** 37
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_squadre_f#q04|src_kangourou_2017_squadre_f__Q04]]
 
 
 
@@ -152,11 +171,15 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many blue caps given the probability of 9/11*
+*How many blue caps, given probability 9/11*
 
-> Blue caps In a box, in addition to blue caps, there are 20 red and 30 white. You know the probability of blindly catching a blue cap are 9/11. How many blue caps are in the box?
+> Blue caps: In a box, besides some blue caps, there are 20 red caps and 30 white caps. It is known that the probability of blindly drawing a blue cap is 9/11. How many blue caps are there in the box?
 
-**Answer:** 225
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_f#q05|src_kangourou_2017_squadre_f__Q05]]
 
 
 
@@ -189,13 +212,18 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*parallelograms on the keyboard*
+*Parallelograms on the keyboard*
 
 ![[src_kangourou_2017_squadre_f__prob6.png]]
 
-> Unlock your cell phone! Paul has an old cell phone with a keyboard: next to it you can see the layout of the keyboard. Paul has forgotten the pattern with which he must press the keys to unlock it: Just remember that the keys were the vertices of a parallelogram and were to be pressed clockwise or counterclockwise. What is the maximum number of attempts Paul will have to make to unlock his cell phone? (Note that for each parallelogram that can be detected on the keyboard, the code changes depending on the starting point.)
+> Unlock the phone! Paolo has an old keypad phone: next to it, you can see a diagram of the keypad. Paolo has forgotten the pattern by which he must press the keys to unlock it: he only remembers that the keys were the vertices of a parallelogram and that they had to be pressed clockwise or counterclockwise. What is the maximum number of attempts Paolo will have to make to unlock the phone? (Note that, for each parallelogram that can be identified on the keypad, the code changes depending on the starting point.)
 
-**Answer:** 176
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_squadre_f#q06|src_kangourou_2017_squadre_f__Q06]]
 
 
 
@@ -222,11 +250,16 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum surface area by gluing cubes 1, 8 and 27*
+*Minimum area by gluing cubes 1, 8, and 27*
 
-> Three cubes I have glued three cubes of volume 1 cm3, 8 cm3 and 27 cm3 along their faces so that the total surface of the resulting solid is as small as possible. How many square centimeters does that area measure?
+> Three cubes I glued three cubes with volumes of 1 cm³, 8 cm³, and 27 cm³ together along their faces so that the total surface area of the resulting solid would be as small as possible. How many square centimeters is this surface area?
 
-**Answer:** 72
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_squadre_f#q07|src_kangourou_2017_squadre_f__Q07]]
 
 
 
@@ -256,9 +289,14 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 
 *Minimum euro in the jacket with pocket restrictions*
 
-> My jacket has four pockets, each containing a different number of one-euro coins. Pocket A contains less than B, B less than C and C less than D. In addition, the content of D is less than that of A and B together and that of B and C together is less than that of A and D together. How much do I have in my jacket at least?
+> In the pockets: My jacket has four pockets; each contains a different number of 1-euro coins. Pocket A contains fewer than pocket B, B fewer than C, and C fewer than D. Furthermore, the number of coins in D is less than the total in A and B together, and the total in B and C together is less than the total in A and D together. What is the minimum number of euros I have in my jacket?
 
-**Answer:** 23
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_f#q08|src_kangourou_2017_squadre_f__Q08]]
 
 
 
@@ -286,15 +324,16 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many subsets of 7 in arithmetic progression*
+*How many subsets of 7 elements are in arithmetic progression?*
 
-> Arithmetic progressions
-> Consider the set of the first 100 positive integers. From this set we form all the
-> subsets consisting of 7 numbers that, when ordered in increasing order, form an
-> arithmetic progression (e.g. {1,2,3,4,5,6,7} or {5,8,11,14,17,20,23}). How many distinct sets
-> of this form exist?
+> Arithmetic progressions Consider the set of the first 100 positive integers. From this set, form all subsets consisting of 7 numbers that, when arranged in ascending order, form an arithmetic progression (e.g., {1,2,3,4,5,6,7} or {5,8,11,14,17,20,23}). How many distinct sets of this form exist?
 
-**Answer:** 784
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_f#q09|src_kangourou_2017_squadre_f__Q09]]
 
 
 
@@ -322,15 +361,16 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Marbles in the box taken away (blue triple red)*
+*Beads in the box taken away (triple blue, red)*
 
-> Marbles
-> I have 5 boxes, each containing marbles of a single color, red or blue. In the first box there are
-> 112 marbles, in the second 105, in the third 100, in the fourth 115 and in the fifth 128. After
-> Martino took away one box, in the 4 remaining boxes the number of blue marbles is triple the
-> number of red marbles. How many marbles were there in the box taken away by Martino?
+> Marbles: I have 5 boxes, each containing marbles of only one color—red or blue. The first box has 112 marbles, the second has 105, the third has 100, the fourth has 115, and the fifth has 128. After Martino takes away one box, in the 4 remaining boxes, the number of blue marbles is three times the number of red marbles. How many marbles were there in the box that Martino took away?
 
-**Answer:** 100
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_squadre_f#q10|src_kangourou_2017_squadre_f__Q10]]
 
 
 
@@ -355,12 +395,16 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Units digit of 1^3+2^3+...+2017^3*
+*Single digit of 1^3+2^3+...+2017^3*
 
-> Sum of cubes
-> What is the units digit of the number 13 + 23 + 33 + … + 20163 + 20173 ?
+> Sum of cubes: What is the units digit of the number 1³ + 2³ + 3³ + … + 2016³ + 2017³?
 
-**Answer:** 9
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_squadre_f#q11|src_kangourou_2017_squadre_f__Q11]]
 
 
 
@@ -422,7 +466,7 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squared sum of trapezoidal areas S1 and S4 in hexagons*
+*Square the sum of the areas of trapezoids S1 and S4 in the hexagons*
 
 ![[src_kangourou_2017_squadre_f__prob12.png]]
 
@@ -459,9 +503,13 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 \end{document}
 ```
 
-> Hexagons The figure shows two regular hexagons contained in each other, which have parallel sides and the two edges without points in common. The smallest has a side of 1 cm, the largest 3 cm. What is the square of the sum of the areas of trapezoids S1 and S4 ?
+> Hexagons The figure shows two regular hexagons contained one inside the other, with parallel sides and two boundaries that have no points in common. The smaller one has a side length of 1 cm, and the larger one has a side length of 3 cm. What is the square of the sum of the areas of trapezoids S1 and S4?
 
-**Answer:** 48
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_squadre_f#q12|src_kangourou_2017_squadre_f__Q12]]
 
 
 
@@ -487,13 +535,16 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remainder of the division by 9 of the large number*
+*Remainder of the division of the large number by 9*
 
-> The remainder 
-> Find the remainder in the division by 9 of 
-> 122,333,444,455,555,666,666,777,777,788,888,888,999,999,999.
+> The Rest: Find the rest in the division of 122.333.444.455.555.666.666.777.777.788.888.888.999.999.999 by 9.
 
-**Answer:** 6
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_squadre_f#q13|src_kangourou_2017_squadre_f__Q13]]
 
 
 
@@ -522,11 +573,15 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of areas T and P with the same perimeter*
+*Ratio of T and P areas with the same perimeter*
 
-> The same perimeter An equilateral triangle is divided into two parts, a T triangle and a P trapezoid, by a straight line parallel to one of its sides. If the triangle and the trapezoid thus obtained have the same perimeter, what is the ratio between the area of T and that of P? To formulate the answer, think of the ratio as a fraction reduced to the minimum terms and the numerator and denominator as 2-digit numbers, no matter if they are significant, and write them in sequence; for example, to indicate the fraction 1/2 write 0102.
+> Same perimeter: An equilateral triangle is divided into two parts—a triangle T and a trapezoid P—by a line parallel to one of its sides. If the triangle and the trapezoid thus obtained have the same perimeter, what is the ratio of the area of T to the area of P? To formulate the answer, think of the ratio as a fraction reduced to lowest terms, and think of the numerator and denominator as two-digit numbers—it doesn't matter whether they are significant—and write them consecutively; for example, to indicate the fraction 1/2, write 0102.
 
-**Answer:** 907
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_squadre_f#q14|src_kangourou_2017_squadre_f__Q14]]
 
 
 
@@ -568,16 +623,21 @@ How many grandchildren does Grandma Anna have (cousins of Mario, etc.)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number ending in 2017 for 123*
+*The smallest number that, when divided by 123, leaves a remainder of 2017*
 
-> For 123 Find the smallest positive integer that multiplied by 123 gives a product that ends in 2017.
->  
->  
->  
+> Per 123: Find the smallest positive integer that, when multiplied by 123, yields a product ending in 2017.
+>
+>
+>
 > S1 S2 S3 S4 S5 S6
-> 
-> Kangourou of Mathematics 2017 Kangourou Cup to teams Final Cervia, 7 May 2017
->  
-> Questions and developments
+>
+> Kangaroo Mathematics Competition 2017 Kangaroo Team Cup Final, Cervia, 7 May 2017
+>
+> Questions and Solutions
 
-**Answer:** 179
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_squadre_f#q15|src_kangourou_2017_squadre_f__Q15]]

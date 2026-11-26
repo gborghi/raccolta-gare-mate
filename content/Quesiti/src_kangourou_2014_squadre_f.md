@@ -31,11 +31,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Biggest prime < 30 sum of two primes*
+*Largest prime less than 30 as a sum of two primes*
 
-> What is the largest prime number less than 30 that can be expressed as the sum of two prime numbers?
+> A prime number What is the largest prime number less than 30 that can be expressed as the sum of two prime numbers?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 19
+**Source:** [open PDF p.1](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
+[[Quesiti/src_kangourou_2014_squadre_f#q01|src_kangourou_2014_squadre_f__Q01]]
 
 
 
@@ -66,11 +71,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of white key digits to get 2014 with 6 keys*
+*Add up the white keys to get 2014 using 6 keys*
 
-> The calculator Elena has a calculator with 15 keys: 10 are white and each shows one of the 10 digits (all the digits appear there), 5 are black and each shows one of the 5 symbols plus, minus, times, divided, equal (all these symbols appear there). To obtain the result of the product 2 times 3 times 15, press the seven keys (not necessarily different) 2, ×, 3, ×, 1, 5, =, after which the number 90 appears on the screen. As a result of another product, after pressing six keys Elena got the number 2014. What's the sum of the digits on the white keys hit by Elena this time?
+> The calculator
+> Elena has a calculator with 15 keys: 10 are white, and each bears one of the 10 digits (all 10 digits appear on it); 5 are black, and each bears one of the 5 symbols “plus, minus, times, divided by, equals” (all these symbols appear on it). To obtain the result of the product “2 times 3 times 15”, one must press the seven keys (not necessarily all different) 2, ×, 3, ×, 1, 5, =; after that, the number 90 appears on the screen. As the result of another product, after pressing six keys, Elena obtained the number 2014 on the screen. What is the sum of the digits on the white keys pressed by Elena this time?
 
-**Answer:** 19
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2014_squadre_f#q02|src_kangourou_2014_squadre_f__Q02]]
 
 
 
@@ -114,7 +125,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region shaded circle inscribed in square*
+*Shaded area of a circle inscribed in a square*
 
 ![[src_kangourou_2014_squadre_f__prob3.png]]
 
@@ -134,9 +145,14 @@ level: squadre
 \end{document}
 ```
 
-> Circle and square Look at the figure. A circle is inscribed in a square of side 8 meters. What is the area, in square meters, of the shaded region? (Write the whole number nearest to the exact result.)
+> Circle and square. Look at the figure. A circle is inscribed in a square of side 8 metres. What is the area, in square metres, of the shaded region? (Write the integer closest to the exact result.)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 27
+**Source:** [open PDF p.1](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
+[[Quesiti/src_kangourou_2014_squadre_f#q03|src_kangourou_2014_squadre_f__Q03]]
 
 
 
@@ -161,11 +177,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum positive sum with a^2+b^2=100*
+*Minimum positive sum of two squares*
 
-> Sum of squares You know that two relative integers a and b are such that a2 + b2 = 100 and that their sum is the smallest positive number compatible with this assumption. How much is their sum?
+> Sum of squares. You know that two integers a and b are such that a2 + b2 = 100 and that their sum is the smallest positive number compatible with this assumption. What is their sum?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 2
+**Source:** [open PDF p.1](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
+[[Quesiti/src_kangourou_2014_squadre_f#q04|src_kangourou_2014_squadre_f__Q04]]
 
 
 
@@ -194,16 +215,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum n marbles to find the heaviest in 2 weighings*
+*Maximum number of balls to find the heaviest one in 2 weighings*
 
-> The indistinguishable marbles  
-> In an urn there are n marbles that appear identical. In reality n − 1 of them also have 
-> the same weight, while the remaining one is slightly heavier than the others. Clara has a precision 
-> two-pan balance (that is, it only allows comparing the weights of two groups of objects, placed one on one 
-> pan and one on the other): with at most two weighings she is able to identify the heaviest marble. 
-> What is the maximum possible value for n?
+> Indistinguishable marbles
+> In an urn there are n marbles that appear identical. In reality, n − 1 of them also have the same weight, while the remaining one is slightly heavier than the others. Clara has a two-pan precision scale (that is, one that only allows comparing the weights of two groups of objects, with one group placed on one pan and the other on the other pan): with at most two weighings, she can identify the heaviest marble. What is the maximum possible value of n?
 
-**Answer:** 9
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2014_squadre_f#q05|src_kangourou_2014_squadre_f__Q05]]
 
 
 
@@ -228,11 +250,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integral numbers 1-10000 not divisible by 2 or by 5*
+*Integers from 1 to 10,000 not divisible by 2 or 5*
 
-> How many integers between 1 and 10,000 (included) are not divisible by 2 or by 5?
+> !é per 2 né per 5 How many integers between 1 and 10,000 (inclusive) are not divisible by either 2 or 5?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 4000
+**Source:** [open PDF p.1](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
+[[Quesiti/src_kangourou_2014_squadre_f#q06|src_kangourou_2014_squadre_f__Q06]]
 
 
 
@@ -289,7 +317,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of triangle ABC given triangle DFI by similarity*
+*Area of triangle ABC, given triangle DFI by similarity*
 
 ![[src_kangourou_2014_squadre_f__prob7.png]]
 
@@ -312,9 +340,15 @@ level: squadre
 \end{document}
 ```
 
-> Two triangles In the triangle ABC shown in the figure the segments AD, DE and EC have the same length; the segments AF, FG and GB also have the same length. The DFI triangle has area 10. How much is the area of the ABC triangle? A I D F G E B C
+> Two triangles
+> In triangle ABC in the figure, the line segments AD, DE, and EC are all of equal length; the line segments AF, FG, and GB are also all of equal length. Triangle DFI has an area of 10. What is the area of triangle ABC? A I D F G E B C
 
-**Answer:** 180
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2014_squadre_f#q07|src_kangourou_2014_squadre_f__Q07]]
 
 
 
@@ -340,11 +374,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*age equal to sum of digits of year*
+*eta equals sum of digits of year*
 
-> Elena and her mother Elena and her mother were both born on January 1. In this year 2014, for each of them the number of years of age is the sum of the digits of their respective years of birth. How old was Elena's mother when Elena was born?
+> Elena and her mother
+> Elena and her mother were both born on January 1st. In this year, 2014, for each of them, the number representing their age in years is equal to the sum of the digits of their respective birth years. How old was Elena's mother when Elena was born?
 
-**Answer:** 18
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2014_squadre_f#q08|src_kangourou_2014_squadre_f__Q08]]
 
 
 
@@ -371,11 +410,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N=2014x2014 sum of n consecutive*
+*2014 times 2014 and consecutive positive integers*
 
-> 2014 times 2014 The number writing = 20142014...2014 is obtained by writing 2014 consecutively 2014 times. What is the smallest integer n greater than or equal to 2 such that N is the sum of n consecutive positive integers?
+> 2014 times 2014 The writing of the number times. What is the smallest integer n greater than or equal to 2 such that consecutive positive integers?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 4
+**Source:** [open PDF p.2](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
+[[Quesiti/src_kangourou_2014_squadre_f#q09|src_kangourou_2014_squadre_f__Q09]]
 
 
 
@@ -401,11 +446,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum of ab-bc+ca with product abc=16*
+*Maximum of ab − bc + ca with product abc = 16*
 
-> Sum of powers Three positive integers a, b, c all different from each other are such that their product is 16. What is the maximum possible value for the expression ab − bc + ca?
+> Sum of powers. Three positive integers a, b, c, all different from each other, are such that their product is 16. What is the maximum possible value of the expression ab − bc + ca?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 263
+**Source:** [open PDF p.2](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
+[[Quesiti/src_kangourou_2014_squadre_f#q10|src_kangourou_2014_squadre_f__Q10]]
 
 
 
@@ -432,14 +483,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2014! divisible by 2^a×19^b*
+*2014! divisible by 2a × 19b*
 
-> 2014!    
-> Let 2014! denote the product 1 × 2 × 3 × ... × 2012 × 2013 × 2014 of the first 2014 positive integers. 
-> Consider all pairs (a, b) of positive integers such that 2014! is divisible by 2a × 19b. What is the 
-> highest possible value for the sum a + b?
+> 2014! We denote by 2014! the product 1 × 2 × 3 × ... × 2012 × 2013 × 2014 of the first 2014 positive integers. Consider all pairs (a, b) of positive integers such that 2014! is divisible by 2a × 19b. What is the highest possible value of the sum a + b?
 
+**Topic:** [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 2116
+**Source:** [open PDF p.2](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
+[[Quesiti/src_kangourou_2014_squadre_f#q11|src_kangourou_2014_squadre_f__Q11]]
 
 
 
@@ -473,13 +527,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of three different digits on three adjacent dice*
+*Three different three-digit numbers on three adjacent dice*
 
 ![[src_kangourou_2014_squadre_f__prob12.png]]
 
-> Place three dice so that the matching faces of two dice show the same points. How many different three-digit numbers can be indicated by the upper faces of the three dice when the alignments of the three dice comply with this request? (The numbers should be read as used from left to right: in the example in figure the number read is 125. Note that the faces of a regular die are numbered by points from one to six and that the sum of the points on two opposite faces of any die is 7.)
+> I dadi
+> Place three dice so that the matching faces of two of the dice show the same number of dots. As the alignments of the three dice consistent with this requirement vary, how many distinct three-digit numbers can be indicated by the top faces of the three dice? (Numbers are read in the usual way from left to right: in the example shown in the figure, the number read is 125. Keep in mind that the faces of a standard die are numbered with dots from one to six, and that the sum of the dots on any two opposite faces is 7.)
 
-**Answer:** 168
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2014_squadre_f#q12|src_kangourou_2014_squadre_f__Q12]]
 
 
 
@@ -507,11 +567,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of grid 3x3 with six sums all different*
+*Minimum sum of a 3x3 grid with six sums, all distinct*
 
-> The grid In each cell of a grid 3 × 3 a positive integer must be entered (different cells can host the same number) so that, by adding the numbers entered for both rows and columns, six different results are obtained. What is the lowest possible value for the sum of all the numbers entered?
+> The grid
+> In each cell of a 3 × 3 grid, a positive integer must be placed (different cells may contain the same number) so that, when the numbers placed are summed both row-wise and column-wise, six results are obtained, all of which are different from one another. What is the lowest possible value of the sum of all the numbers placed?
 
-**Answer:** 17
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2014_squadre_f#q13|src_kangourou_2014_squadre_f__Q13]]
 
 
 
@@ -538,11 +604,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many 7-digit palindromes are there*
+*How many 7-digit palindromic numbers?*
 
-> A whole number is called a palindrome if its digits, read from left to right or from right to left, give the same result (e.g. 575 is a palindrome, 576 is not). How many seven-digit palindromes are there?
+> Palindromic numbers
+> An integer is called a palindrome if its digits, read from left to right or from right to left, yield the same result (for example, 575 is a palindrome; 576 is not). How many 7-digit palindromic numbers are there?
 
-**Answer:** 9000
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2014_squadre_f#q14|src_kangourou_2014_squadre_f__Q14]]
 
 
 
@@ -572,12 +644,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*P-D value sum squared equal to less odd*
+*Value of P-D: sum of squares of even minus odd*
 
-> Equal squares and odd squares Let D be the sum of the squares of all odd integers between 1 and 99 inclusive. Let P be the sum of the squares of all even integers between 2 and 100 inclusive. How much is P minus D?
->  
-> 
->  
-> Questions and solutions
+> Even squares and odd squares
+> Let D be the sum of the squares of all odd integers between 1 and 99 inclusive. Let P be the sum of the squares of all even integers between 2 and 100 inclusive. What is the value of P − D?
+>
+>
+>
+> Questions and Solutions
 
-**Answer:** 5050
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2014_squadre_f#q15|src_kangourou_2014_squadre_f__Q15]]

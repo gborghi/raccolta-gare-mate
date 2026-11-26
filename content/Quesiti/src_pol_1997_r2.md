@@ -30,9 +30,17 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triples ordinati che soddisfano un sistema reale simmetrico*
+*Per ogni reale a, quante terne ordinate di reali soddisfano il sistema delle tre equazioni*
 
-> Per qualsiasi numero reale $a$ si trova il numero di triples ordinati $(x, y, z)$ di numeri reali che soddisfano $$x + y^2 + z^2 = a, \quad x^2 + y + z^2 = a, \quad x^2 + y^2 + z = a.$$
+> Per ogni numero reale $a$, trovare il numero di terne ordinate $(x, y, z)$ di numeri reali che soddisfano
+>
+> $$x + y^2 + z^2 = a, \quad x^2 + y + z^2 = a, \quad x^2 + y^2 + z = a.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_pol_1997_r2#q01|src_pol_1997_r2__Q01]]
 
 
 
@@ -56,9 +64,17 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove l'identità del rapporto per il punto P all'interno di un triangolo con angoli uguali*
+*Punto interno di un triangolo con due angoli uguali: dimostrare l'uguaglianza dei due rapporti*
 
-> $P$ sia il punto all'interno di un triangolo $ABC$ tale che $\angle PBA = \angle PCA$. Provare che $$\frac{AC}{AB + PC} = \frac{AB}{AC + PB}.$$
+> Sia $P$ il punto interno di un triangolo $ABC$ tale che $\angle PBA = \angle PCA$. Dimostrare che
+>
+> $$\frac{AC}{AB + PC} = \frac{AB}{AC + PB}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1997_r2#q02|src_pol_1997_r2__Q02]]
 
 
 
@@ -81,9 +97,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di colori per i segmenti di colori tra n punti, non due punti finali dello stesso colore*
+*Segmenti tra n punti in posizione generica, colorati così che due segmenti con un estremo in comune abbiano colori diversi: minimo numero di colori*
 
-> Si devono indicare i punti $n$, di cui non ci sono tre su una linea. Tutti i segmenti con punti di fine in questi punti sono colorati in modo che due segmenti con un punto di fine comune siano di colori diversi. Determinare il minor numero di colori per i quali questo è possibile.
+> Siano dati $n$ punti, tre dei quali non sono mai allineati. Si colorano tutti i segmenti con estremi in questi punti in modo che due segmenti con un estremo in comune abbiano colori diversi. Determinare il minimo numero di colori per cui ciò è possibile.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_1997_r2#q03|src_pol_1997_r2__Q03]]
 
 
 
@@ -106,9 +128,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i triples interi positivi dove i prodotti in coppia lasciano il rimanente 1*
+*Terne di interi positivi tali che il prodotto di due qualunque dia resto 1 nella divisione per il terzo*
 
-> Trova tutti i trippi di numeri interi positivi con la proprietà che il prodotto di due di loro dà il rimanente 1 dopo la divisione del terzo numero.
+> Trovare tutte le terne di interi positivi tali che il prodotto di due qualunque di essi dia resto 1 nella divisione per il terzo.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1997_r2#q04|src_pol_1997_r2__Q04]]
 
 
 
@@ -131,9 +159,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Probabilità che la somma dei dadi bianchi mod 7 sia uguale alla somma dei dadi neri mod 7*
+*n dadi bianchi e m dadi neri: probabilità che le due somme siano congrue modulo 7*
 
-> Abbiamo lanciato $n$ dadi bianchi e $m$ dadi neri. Determinare la probabilità che il resto modulo 7 della somma dei numeri sui dadi bianchi sia uguale al resto modulo 7 della somma dei numeri sui dadi neri.
+> Abbiamo lanciato $n$ dadi bianchi e $m$ dadi neri. Trovare la probabilità che il resto modulo 7 della somma dei numeri sui dadi bianchi sia uguale al resto modulo 7 della somma dei numeri sui dadi neri.
+
+**Topic:** [[topic_probabilita|Probabilità e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_1997_r2#q05|src_pol_1997_r2__Q05]]
 
 
 
@@ -156,6 +190,12 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Otto punti in cubo unitario, circa due a distanza massima 1*
+*Otto punti in un cubo di lato 1: due di essi distano al più 1*
 
-> Lasciate dare otto punti in un cubo unitario. Prove che due di questi punti sono a distanza non superiore a 1.
+> Dati otto punti in un cubo di lato 1, dimostrare che due di essi distano al più 1.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_1997_r2#q06|src_pol_1997_r2__Q06]]

@@ -29,9 +29,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles, circoncircolo, linea attraverso D parallela ad AC, AE:EB=2:1*
+*Triangolo isoscele, circonferenza circoscritta, retta passante per D e parallela ad AC, AE:EB=2:1*
 
-> Che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$. La circoscrizione di $\Gamma$ sia la sua circonferenza e la circoscrizione di $O$ sia il centro di $\Gamma$. In $D$ $CO$ si deve incontrare $\Gamma$. Tracciare una linea parallela a $AC$ attraverso $D$. Lasciate che $AB$ si intersechi a $E$. $AE : EB = 2 : 1$. Prova che $ABC$ è un triangolo equilaterale.
+> Sia $ABC$ un triangolo isoscele con $AB = AC$. Sia $\Gamma$ la sua circonferenza circoscritta e sia $O$ il centro di $\Gamma$. Sia $CO$ che incontra $\Gamma$ in $D$. Traccia una retta parallela a $AC$ passante per $D$. Sia essa che interseca $AB$ in $E$. $AE : EB = 2 : 1$. Dimostrare che $ABC$ è un triangolo equilatero.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2016_r4#q01|src_rmo_2016_r4__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove l'ineguaglianza per i reali positivi che soddisfano una condizione di somma ciclica*
+*Dimostrare una disuguaglianza per numeri reali positivi che soddisfano una condizione di somma ciclica*
 
-> Che $a, b, c$ siano numeri reali positivi tali che $$\frac{ab}{1+bc} + \frac{bc}{1+ca} + \frac{ca}{1+ab} = 1.$$ dimostri che $$\frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2} \ge 6\sqrt{2}.$$
+> Let $a, b, c$ be positive real numbers such that $$\frac{ab}{1+bc} + \frac{bc}{1+ca} + \frac{ca}{1+ab} = 1.$$ Prove that $$\frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2} \ge 6\sqrt{2}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2016_r4#q02|src_rmo_2016_r4__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'età di due fratelli e di un padre come numeri interi che soddisfano le condizioni di frazione*
+*Età di due fratelli e del padre, espresse come numeri interi, che soddisfano condizioni frazionarie*
 
-> Le età attuali in anni di due fratelli $A$ e $B$, e il loro padre $C$ sono rispettivamente tre numeri interi positivi distinti $a$, $b$ e $c$. Supponiamo che $\dfrac{a-1}{a+1}$ e $\dfrac{b+1}{b-1}$ siano due numeri interi consecutivi e $\dfrac{c-1}{b-1}$ e $\dfrac{c+1}{b+1}$ sono due numeri interi consecutivi. Se $a + b + c \le 150$ determina $a$, $b$, $c$.
+> Le età attuali, espresse in anni, di due fratelli $A$ e $B$, e di loro padre $C$ sono rispettivamente tre interi positivi distinti $a$, $b$ e $c$. Si supponga che $\dfrac{a-1}{a+1}$ e $\dfrac{b+1}{b-1}$ siano due interi consecutivi e che $\dfrac{c-1}{b-1}$ e $\dfrac{c+1}{b+1}$ siano due interi consecutivi. Se $a + b + c \le 150$ determinano $a$, $b$, $c$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2016_r4#q03|src_rmo_2016_r4__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadro di scritture 4032, processo di selezione di punteggi odd/even, trovare il restante numero di punteggi odd*
+*Scatola con 4032 script, processo di selezione del punteggio dispari/pari, trovare il numero rimanente di punteggi dispari*
 
-> Una scatola contiene 4032 scritture di risposta, di cui esattamente la metà ha un numero imparato di segni. Scegliamo due script a caso e, se i punteggi su entrambi sono strani, rimettiamo una scrittura nella scatola e teniamo l'altra scrittura fuori. Se entrambe le sceneggiature hanno punteggi pari, rimettiamo una di loro e teniamo l'altra sceneggiatura fuori. Se c'è una sceneggiatura con punteggio pari e l'altra con punteggio impar, rimettiamo la sceneggiatura con punteggio impar e teniamo l'altra sceneggiatura fuori. Dopo aver seguito questa procedura un certo numero di volte, sono rimaste 3 scritture tra le quali c'è almeno una scrittura ciascuno con punteggi odd e even. Trova, con la prova, il numero di scritture con punteggi odd tra i tre a sinistra.
+> Una scatola contiene 4032 compiti, dei quali esattamente la metà ha un numero dispari di punteggi. Scegliamo a caso 2 compiti e, se i punteggi di entrambi sono dispari, rimettiamo un compito nella scatola e teniamo l'altro fuori. Se entrambi i compiti hanno punteggi pari, rimettiamo uno di essi nella scatola e teniamo l'altro fuori. Se un compito ha punteggio pari e l'altro ha punteggio dispari, rimettiamo nella scatola il compito con il punteggio dispari e teniamo l'altro fuori. Dopo aver seguito questa procedura un certo numero di volte, restano 3 compiti, tra i quali c'è almeno un compito con punteggio dispari e almeno un compito con punteggio pari. Determinare, con dimostrazione, il numero di compiti con punteggio dispari tra i tre rimasti.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2016_r4#q04|src_rmo_2016_r4__Q04]]
 
 
 
@@ -129,9 +157,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con altitudine e media; il centro del subtriangolo si trova sulla media*
+*Triangolo con altezza e mediana; il incentro del sottotriangolo giace sulla mediana*
 
-> Che $ABC$ sia un triangolo, $AD$ un'altitudine e $AE$ una media. Supponiamo che $B$, $D$, $E$, $C$ si trovino in tale ordine sulla linea $BC$. Supponiamo che l'incentro di $\triangle ADC$ si trovi su $AE$. Trovare, con prova, gli angoli di $\triangle ABC$.
+> Sia $ABC$ un triangolo, $AD$ un'altezza e $AE$ una mediana. Si supponga che $B$, $D$, $E$, $C$ giacciano, in quest'ordine, sulla retta $BC$. Si supponga che l'incentro di $\triangle ADC$ giaccia su $AE$. Determinare, con dimostrazione, gli angoli di $\triangle ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2016_r4#q05|src_rmo_2016_r4__Q05]]
 
 
 
@@ -156,8 +191,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*AP di numeri interi positivi: i cubi appaiono infinitamente o non appaiono affatto*
+*AP di interi positivi: i cubi compaiono infinitamente o non compaiono affatto*
 
-> (i) Dimostra che se una sequenza infinita di numeri interi positivi che aumentano strettamente nella progressione aritmetica ha un cubo allora ha infinitamente molti cubi.
-> 
-> (ii) Trovare, con giustificazione, una sequenza infinita di numeri interi positivi rigorosamente in aumento nella progressione aritmetica che non ha alcun cubo.
+> (i) Dimostrare che, se una successione infinita di numeri interi positivi strettamente crescenti in progressione aritmetica contiene un cubo, allora ne contiene infiniti.
+>
+> (ii) Trovare, con giustificazione, una successione infinita di numeri interi positivi strettamente crescenti in progressione aritmetica che non contenga alcun cubo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2016_r4#q06|src_rmo_2016_r4__Q06]]

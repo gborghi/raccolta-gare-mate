@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove n divide la somma dei cubi di tutti i naturali inferiori a n e copriamo in n.*
+*Per n almeno 3, la somma dei cubi dei naturali minori di n e coprimi con n è divisibile per n*
 
-> Prove che per ogni intero $n \ge 3$ la somma dei cubi di tutti i numeri naturali inferiori a $n$ e coprimo con $n$ è divisibile da $n$.
+> Dimostrare che, per ogni intero $n \ge 3$, la somma dei cubi di tutti i numeri naturali minori di $n$ e coprimi con $n$ è divisibile per $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2000_r1#q01|src_pol_2000_r1__Q01]]
 
 
 
@@ -55,9 +61,17 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto con angolo ACB = 2 angolo ABC, D su BC con 2 angolo BAD = angolo ABC; prova 1/BD = 1/AB + 1/AC.*
+*Triangolo acutangolo con angolo in C doppio di quello in B: un punto D su BC soddisfa 1/BD = 1/AB + 1/AC*
 
-> In un triangolo a angolo acuto $ABC$ con $\angle ACB = 2\angle ABC$, $D$ è il punto laterale $BC$ che soddisfa $2\angle BAD = \angle ABC$. Provare che $$\frac{1}{BD} = \frac{1}{AB} + \frac{1}{AC}.$$
+> In un triangolo acutangolo $ABC$ con $\angle ACB = 2\angle ABC$, $D$ è il punto del lato $BC$ tale che $2\angle BAD = \angle ABC$. Dimostrare che
+>
+> $$\frac{1}{BD} = \frac{1}{AB} + \frac{1}{AC}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2000_r1#q02|src_pol_2000_r1__Q02]]
 
 
 
@@ -80,9 +94,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
+*Numeri positivi a, b, c di somma 1: a^2 + b^2 + c^2 + 2√(3abc) non supera 1*
 
-> La somma dei numeri positivi $a, b, c$ è $1$. Prove che $a^2 + b^2 + c^2 + 2\sqrt{3abc} \le 1$.
+> La somma dei numeri positivi $a, b, c$ è $1$. Dimostrare che $a^2 + b^2 + c^2 + 2\sqrt{3abc} \le 1$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2000_r1#q03|src_pol_2000_r1__Q03]]
 
 
 
@@ -105,9 +125,15 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti di cerchio dipinti in tre colori; dimostrare che tre punti dello stesso colore formano un triangolo di uguali osceles.*
+*Circonferenza colorata con tre colori: tre punti dello stesso colore sono vertici di un triangolo isoscele*
 
-> Ogni punto di un cerchio è dipinto con uno dei tre colori. Prove che esistono tre punti dello stesso colore sul cerchio che sono vertici di un triangolo di uguale taglia.
+> Ogni punto di una circonferenza è colorato con uno di tre colori. Dimostrare che esistono sulla circonferenza tre punti dello stesso colore che sono vertici di un triangolo isoscele.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_cassetti|Principio dei cassetti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2000_r1#q04|src_pol_2000_r1__Q04]]
 
 
 
@@ -130,9 +156,15 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di integri positivi (a,b) con a^3+6ab+1 e b^3+6ab+1 entrambi i cubi.*
+*Coppie di interi positivi tali che a^3 + 6ab + 1 e b^3 + 6ab + 1 siano entrambi cubi*
 
-> Trovare tutte le coppie $(a, b)$ di numeri interi positivi in modo tale che i numeri $a^3 + 6ab + 1$ e $b^3 + 6ab + 1$ siano cubetti di numeri interi positivi.
+> Trovare tutte le coppie $(a, b)$ di interi positivi tali che i numeri $a^3 + 6ab + 1$ e $b^3 + 6ab + 1$ siano cubi di interi positivi.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_pol_2000_r1#q05|src_pol_2000_r1__Q05]]
 
 
 
@@ -155,9 +187,15 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*X all'interno del triangolo rettangolo (angolo C = 90), proiezioni P,Q,R su BC,CA,AB; dimostrare AR×RB = BP×PC + AQ×QC se X su AB.*
+*Triangolo rettangolo in C, proiezioni di un punto X: l'uguaglianza dei prodotti vale se e solo se X sta su AB*
 
-> Un punto $X$ si trova all'interno o sul confine del triangolo $ABC$ con $\angle C = 90^\circ$. I punti $P, Q, R$ sono le proiezioni di $X$ rispettivamente su $BC$, $CA$ e $AB$. Prova che l'uguaglianza $AR \cdot RB = BP \cdot PC + AQ \cdot QC$ è valida se e solo se $X$ si trova sul lato $AB$.
+> Un punto $X$ giace all'interno o sul bordo del triangolo $ABC$ con $\angle C = 90^\circ$. I punti $P, Q, R$ sono le proiezioni di $X$ su $BC$, $CA$, $AB$ rispettivamente. Dimostrare che l'uguaglianza $AR \cdot RB = BP \cdot PC + AQ \cdot QC$ vale se e solo se $X$ giace sul lato $AB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2000_r1#q06|src_pol_2000_r1__Q06]]
 
 
 
@@ -181,9 +219,17 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per ogni intero positivo n e t in (1/2,1) esistono a,b in (1999,2000) con (1/2)a^n+1/2)b^n < (ta+(1-t) b)^n.*
+*Per ogni n e ogni t fra 1/2 e 1 esistono a, b fra 1999 e 2000 che rendono stretta la disuguaglianza di convessità*
 
-> Mostrare che per ogni numero intero positivo $n$ e per ogni numero $t \in \left(\frac{1}{2}, 1\right)$ esistono numeri $a, b \in (1999, 2000)$ tali che $$\frac{1}{2}a^n + \frac{1}{2}b^n < (ta + (1-t)b)^n.$$
+> Dimostrare che, per ogni intero positivo $n$ e ogni numero $t \in \left(\frac{1}{2}, 1\right)$, esistono numeri $a, b \in (1999, 2000)$ tali che
+>
+> $$\frac{1}{2}a^n + \frac{1}{2}b^n < (ta + (1-t)b)^n.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2000_r1#q07|src_pol_2000_r1__Q07]]
 
 
 
@@ -208,9 +254,19 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzioni c(n,k) con c(n,0)=c(n) =1 e c(n+1,k)=2^k c(n,k)+c(n,k-1); dimostrare c(n,k)=c(n,n-k).*
+*Coefficienti definiti da un bordo e da una ricorrenza: sono simmetrici in k e n−k*
 
-> Le funzioni $c(n, k)$ sono definite per gli integri $n \ge k \ge 0$ da $c(n, 0) = c(n, n) = 1$ per tutti $n \ge 0$ e $$c(n+1, k) = 2^k c(n, k) + c(n, k-1) \quad \text{for} \quad n \ge k \ge 1.$$ Prove che $c(n, k) = c(n, n-k)$ per tutti $n$ e $k$.
+> Le quantità $c(n, k)$ sono definite, per interi $n \ge k \ge 0$, da $c(n, 0) = c(n, n) = 1$ per ogni $n \ge 0$ e da
+>
+> $$c(n+1, k) = 2^k c(n, k) + c(n, k-1) \quad \text{for} \quad n \ge k \ge 1.$$
+>
+> Dimostrare che $c(n, k) = c(n, n-k)$ per ogni $n$ e ogni $k$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2000_r1#q08|src_pol_2000_r1__Q08]]
 
 
 
@@ -233,9 +289,15 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Interi positivi m,n con mn dividendo m^2+n^2+m; dimostrare m è un quadrato perfetto.*
+*Se mn divide m^2 + n^2 + m, allora m è un quadrato perfetto*
 
-> Supponiamo che gli integri positivi $m$ e $n$ siano tali che $mn$ divida $m^2 + n^2 + m$. Prova che $m$ è un quadrato perfetto.
+> Si supponga che gli interi positivi $m$ e $n$ siano tali che $mn$ divide $m^2 + n^2 + m$. Dimostrare che $m$ è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2000_r1#q09|src_pol_2000_r1__Q09]]
 
 
 
@@ -258,9 +320,15 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Vettori di unità ortogonali in coppia OA, OB, OC; linea/piano attraverso O con proiezioni A',B',C' di A,B,C; trovare l'insieme dei valori di OA'^2+OB'^2+OC'^2.*
+*Tre vettori unitari ortogonali: insieme dei valori della somma dei quadrati delle proiezioni su un piano variabile per O*
 
-> Lasciate che $\overrightarrow{OA}, \overrightarrow{OB}, \overrightarrow{OC}$ siano vettori unitari ortogonali in coppia nello spazio. Lasciate che $O$ sia un piano variabile attraverso $O$, e lasciate che $A', B', C'$ sia le proiezioni di $A, B, C$ su $O$. Trova l'insieme dei valori di $OA'^2 + OB'^2 + OC'^2$ quando $O$ assume tutte le posizioni possibili.
+> Siano $\overrightarrow{OA}, \overrightarrow{OB}, \overrightarrow{OC}$ vettori unitari a due a due ortogonali nello spazio. Sia $O$ un piano variabile passante per $O$, e siano $A', B', C'$ le proiezioni di $A, B, C$ su $O$. Trovare l'insieme dei valori di $OA'^2 + OB'^2 + OC'^2$ al variare di $O$ in tutte le posizioni possibili.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2000_r1#q10|src_pol_2000_r1__Q10]]
 
 
 
@@ -283,9 +351,15 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Set M di n^2+1 interi positivi dove tra qualsiasi n+1 due sono comparabili per divisibilità; dimostrare una catena di divisibilità a_1,...,a_{n+1} con a_{i+1} ̊ a_i.*
+*Insieme di n^2+1 interi positivi in cui ogni n+1 ne contengono due in rapporto di divisibilità: esiste una catena di n+1 elementi*
 
-> $M$ sia un insieme di integri positivi $n^2 + 1$ che abbiano la seguente proprietà: in ogni numero $n + 1$ da $M$ ci sono due numeri, uno dei quali divide l'altro. Dimostrare che esistono diversi elementi $a_1, \ldots, a_{n+1}$ di $M$, come $a_{i+1} \mid a_i$ per $i = 1, 2, \ldots, n$.
+> Sia $M$ un insieme di $n^2 + 1$ interi positivi con la proprietà seguente: in ogni scelta di $n + 1$ numeri di $M$ ce ne sono due, uno dei quali divide l'altro. Dimostrare che esistono elementi distinti $a_1, \ldots, a_{n+1}$ di $M$ tali che $a_{i+1} \mid a_i$ per $i = 1, 2, \ldots, n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2000_r1#q11|src_pol_2000_r1__Q11]]
 
 
 
@@ -310,6 +384,16 @@ Per un a, b, c positivo sommato a 1, prova a^2+b^2+c^2+2 sqrt(3abc) <= 1.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*D,E,F sui lati BC,CA,AB del triangolo acuto; i circoncircoli di AEF, BFD, CDE si incontrano a P; date tre condizioni di rapporto dimostrano che AD,BE,CF sono altitudini.*
+*Punti sui lati di un triangolo acutangolo, circonferenze che si incontrano in P: se valgono i tre rapporti, AD, BE e CF sono le altezze*
 
-> I punti $D, E, F$ sono prelevati sui rispettivi lati $BC, CA, AB$ di un triangolo acuto $ABC$. I circoncircoli dei triangoli $AEF$, $BFD$, $CDE$ si incontrano al punto $P$. Prove che se $$\frac{PD}{PE} = \frac{BD}{AE}, \quad \frac{PE}{PF} = \frac{CE}{BF}, \quad \frac{PF}{PD} = \frac{AF}{CD},$$ allora $AD$, $BE$, $CF$ sono le altitudini del triangolo $ABC$.
+> Sui lati $BC, CA, AB$ di un triangolo acutangolo $ABC$ si prendono rispettivamente i punti $D, E, F$. Le circonferenze circoscritte ai triangoli $AEF$, $BFD$, $CDE$ si incontrano nel punto $P$. Dimostrare che, se
+>
+> $$\frac{PD}{PE} = \frac{BD}{AE}, \quad \frac{PE}{PF} = \frac{CE}{BF}, \quad \frac{PF}{PD} = \frac{AF}{CD},$$
+>
+> allora $AD$, $BE$, $CF$ sono le altezze del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2000_r1#q12|src_pol_2000_r1__Q12]]

@@ -31,9 +31,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove polinomio f(x)=x^4+26x^3+52x^2+78x+1989 irriducibile su Z[x]*
+*Il polinomio x^4 + 26x^3 + 52x^2 + 78x + 1989 è irriducibile su Z[x]*
 
-> Prove che il polinomio $$f(x) = x^4 + 26x^3 + 52x^2 + 78x + 1989$$ è irriducibile su $\mathbb{Z}[x]$.
+> Dimostrare che il polinomio
+> $$f(x) = x^4 + 26x^3 + 52x^2 + 78x + 1989$$
+> è irriducibile su $\mathbb{Z}[x]$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_inmo_1989#q01|src_inmo_1989__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le radici di x^3+ax^2+bx+c non possono essere tutte razionali dato a,b,c reale non tutte zero*
+*Le radici di x^3+ax^2+bx+c non possono essere tutte razionali, dati a,b,c reali non tutti nulli*
 
-> Lasciate che $a, b, c$ siano numeri reali, non tutti zero. Prova che le radici del polinomio $x^3 + ax^2 + bx + c = 0$ non possono essere tutte razionali.
+> Siano $a, b, c$ numeri reali, non tutti nulli. Dimostrare che le radici del polinomio $x^3 + ax^2 + bx + c = 0$ non possono essere tutte razionali.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_1989#q02|src_inmo_1989__Q02]]
 
 
 
@@ -81,9 +97,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un sottoinsieme di {1,11,21,...,551} senza coppie sommate a 552 ha almeno 38 elementi*
+*Un sottoinsieme di {1,11,21,...,551} in cui nessuna coppia somma a 552 ha al più 38 elementi*
 
-> $A$ sia un sottogruppo del set $\{1, 11, 21, 31, \ldots, 551\}$ il cui numero di elementi non si somma a $552$. Indicare che $A$ non ha più di $38$ elementi.
+> Sia $A$ un sottoinsieme dell'insieme $\{1, 11, 21, 31, \ldots, 551\}$ tale che nessun paio dei suoi elementi sommi a $552$. Dimostrare che $A$ non ha più di $38$ elementi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_1989#q03|src_inmo_1989__Q03]]
 
 
 
@@ -108,9 +131,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare tutti n non è un quadrato tale che il piano(sqrt(n))^2 divide n^2*
+*Naturali n non quadrati per cui la parte intera di √n, al quadrato, divide n²*
 
-> Trova tutti i numeri naturali $n$ in modo tale che (i) $n$ non sia un quadrato e (ii) $\lfloor \sqrt{n} \rfloor^2$ divida $n^2$.
+> Trovare tutti i numeri naturali $n$ tali che
+> (i) $n$ non è un quadrato, e
+> (ii) $\lfloor \sqrt{n} \rfloor^2$ divide $n^2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_inmo_1989#q04|src_inmo_1989__Q04]]
 
 
 
@@ -135,9 +167,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra che a/(b+c)+b/(c+a)+c/(a+b) si trova rigorosamente tra 1/2 e 2*
+*Mostra che a/(b+c)+b/(c+a)+c/(a+b) è strettamente compreso tra 1/2 e 2*
 
-> Lasciate che $a, b, c$ siano i lati di un triangolo. Indicare che la quantità $$\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b}$$ deve essere tra $\frac{1}{2}$ e $2$. L'uguaglianza può essere mantenuta a entrambi i limiti?
+> Siano $a, b, c$ i lati di un triangolo. Dimostrare che la quantità
+> $$\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b}$$
+> deve trovarsi tra $\frac{1}{2}$ e $2$. L'uguaglianza può valere a uno dei due estremi?
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1989#q05|src_inmo_1989__Q05]]
 
 
 
@@ -160,9 +201,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo obtouso di scalene: trovare punti su BC esteso con AD=sqrt(BD·CD)*
+*Triangolo scaleno ottusangolo: trovare i punti sull'estensione di BC tali che AD=sqrt(BD·CD)*
 
-> In un triangolo scalene $ABC$ l'angolo $A$ è obtuso. Determinare l'insieme di punti sul lato esteso $BC$ in modo tale che $AD = \sqrt{BD \cdot CD}$.
+> In un triangolo scaleno $ABC$, l'angolo $A$ è ottuso. Determinare l'insieme dei punti sul lato prolungato $BC$ tali che $AD = \sqrt{BD \cdot CD}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1989#q06|src_inmo_1989__Q06]]
 
 
 
@@ -185,6 +233,13 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto: locus di P in modo che il triangolo a pedale DEF sia isoscello o equilaterale*
+*Triangolo acuto: luogo geometrico dei punti P tali che il triangolo pedale DEF sia isoscele o equilatero*
 
-> Un triangolo $ABC$ è angolato acuto. Per qualsiasi punto $P$ nel triangolo, $D$, $E$ e $F$ indicano rispettivamente le proiezioni di $P$ su $BC$, $CA$ e $AB$. Trovare il locus di $P$ per il quale il triangolo $DEF$ è uguale a quello di un anello. Quando $\triangle DEF$ è equilaterale?
+> Un triangolo $ABC$ è acutangolo. Per un qualsiasi punto $P$ interno al triangolo, $D$, $E$ e $F$ denotano le proiezioni di $P$ su $BC$, $CA$, $AB$ rispettivamente. Determinare il luogo geometrico di $P$ per cui il triangolo $DEF$ è isoscele. Quando $\triangle DEF$ è equilatero?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1989#q07|src_inmo_1989__Q07]]

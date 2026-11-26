@@ -30,10 +30,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disuguaglianza sul rapporto dell'incentro con le bisettrici angolari*
+*Disuguaglianza del rapporto dell'incentro con le bisettrici degli angoli*
 
-> Dato un triangolo $ABC$, sia $I$ il centro della sua circonferenza inscritta. Le bisettrici degli angoli $A$, $B$, $C$ incontrano i lati opposti rispettivamente nei punti $A'$, $B'$, $C'$. Si dimostri che
+> Dato un triangolo $ABC$, sia $I$ il centro della sua circonferenza inscritta. Le bisettrici interne degli angoli $A$, $B$, $C$ incontrano i lati opposti rispettivamente nei punti $A'$, $B'$, $C'$. Dimostrare che
 > $$\frac{1}{4} < \frac{AI \cdot BI \cdot CI}{AA' \cdot BB' \cdot CC'} \le \frac{8}{27}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1991#q01|src_imho_1991__Q01]]
 
 
 
@@ -58,11 +65,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Resti aritmetici mod n implicano che n sia 1, 2, 4, potenza di primo o il doppio di uno di questi*
+*I residui aritmetici modulo n implicano che n sia 1, 2, 4, una potenza di un numero primo o il doppio di una potenza di un numero primo*
 
-> Sia $n > 0$ un intero e sia $a_1, a_2, \ldots, a_k$ l'insieme di tutti i numeri naturali minori di e primi rispetto a $n$. Se
+> Sia $n > 0$ un numero intero e sia $a_1, a_2, \ldots, a_k$ l'insieme di tutti i numeri naturali minori di $n$ e coprimi con esso. Se
 > $$a_2 - a_1 = a_3 - a_2 = \cdots = a_k - a_{k-1} > 0,$$
-> si dimostri che $n$ deve essere o $1$, o $2$, o $4$, o una potenza di un primo dispari, oppure il doppio di una potenza di un primo dispari.
+> dimostrare che $n$ deve essere necessariamente oppure $1$, oppure $2$, oppure $4$, oppure una potenza di un numero primo dispari, oppure il doppio di una potenza di un numero primo dispari.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1991#q02|src_imho_1991__Q02]]
 
 
 
@@ -85,9 +99,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Più piccolo sottoinsieme di {1,...,280} con n elementi che contiene cinque membri a due a due coprimi*
+*Sottinsieme di n elementi più piccolo di {1,...,280} con cinque elementi a due a due coprimi*
 
-> Sia $S = \{1, 2, 3, \ldots, 280\}$. Determinare il più piccolo intero $n$ tale che ogni sottoinsieme di $n$ elementi di $S$ contenga cinque numeri a due a due primi tra loro.
+> Sia $S = \{1, 2, 3, \ldots, 280\}$. Trovare il più piccolo intero $n$ tale che ogni sottoinsieme di $S$ formato da $n$ elementi contenga cinque numeri coprimi a due a due.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1991#q03|src_imho_1991__Q03]]
 
 
 
@@ -112,11 +133,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Etichettare gli spigoli di un grafo connesso in modo che il MCD agli vertici sia 1*
+*Etichetta i lati di un grafo connesso in modo che il mcd in ciascun vertice sia uguale a 1*
 
-> Sia $G$ un grafo connesso avente $k$ spigoli. Si dimostri che è possibile etichettare gli spigoli $1, 2, \ldots, k$ in modo tale che, in ogni vertice appartenente a due o più spigoli, il massimo comun divisore degli interi che etichettano quegli spigoli sia uguale a $1$.
-> 
-> [Un grafo è costituito da un insieme di punti, detti vertici, unitamente a un insieme di archi che collegano certe coppie di vertici distinti. Ogni coppia di vertici distinti $u$, $v$ appartiene a al più un arco. Il grafo $G$ è connesso se per ogni coppia di vertici distinti $x$, $y$ esiste una certa sequenza di vertici $x = v_0, v_1, v_2, \ldots, v_m = y$ tale che ciascuna coppia $v_i, v_{i+1}$, $(0 \le i < m)$ è collegata da un arco del grafo $G$.]
+> Sia $G$ un grafo connesso con $k$ archi. Dimostrare che è possibile etichettare gli archi $1, 2, \ldots, k$ in modo tale che, in ciascun vertice appartenente a due o più archi, il massimo comune divisore degli interi che etichettano tali archi sia uguale a $1$.
+>
+> [Un grafo è costituito da un insieme di punti, detti vertici, insieme a un insieme di archi che collegano alcune coppie di vertici distinti. Ogni coppia di vertici distinti $u$, $v$ appartiene a al più un arco. Il grafo $G$ è connesso se, per ogni coppia di vertici distinti $x$, $y$, esiste una qualche successione di vertici $x = v_0, v_1, v_2, \ldots, v_m = y$ tale che ogni coppia $v_i, v_{i+1}$ $(0 \le i < m)$ sia unita da un arco di $G$.]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1991#q04|src_imho_1991__Q04]]
 
 
 
@@ -139,9 +167,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto interno del triangolo con uno degli angoli PAB, PBC, PCA al più di 30°*
+*Un punto interno del triangolo ha al massimo un angolo tra PAB, PBC e PCA che misura 30°*
 
-> Sia $ABC$ un triangolo e $P$ un punto interno a $ABC$. Si dimostri che almeno uno degli angoli $\angle PAB$, $\angle PBC$, $\angle PCA$ è minore o uguale a $30^\circ$.
+> Sia $ABC$ un triangolo e $P$ un punto interno di $ABC$. Dimostrare che almeno uno degli angoli $\angle PAB$, $\angle PBC$, $\angle PCA$ è minore o uguale a $30^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1991#q05|src_imho_1991__Q05]]
 
 
 
@@ -171,7 +206,14 @@ level: IMO
 *Costruire una successione limitata tale che |x_i - x_j||i-j|^a ≥ 1*
 
 > Una successione infinita $x_0, x_1, x_2, \ldots$ di numeri reali si dice *limitata* se esiste una costante $C$ tale che $|x_i| \le C$ per ogni $i \ge 0$.
-> 
-> Dato un qualsiasi numero reale $a > 1$, si costruisca una successione infinita limitata $x_0, x_1, x_2, \ldots$ tale che
+>
+> Dato un qualsiasi numero reale $a > 1$, costruire una successione infinita limitata $x_0, x_1, x_2, \ldots$ tale che
 > $$|x_i - x_j| \cdot |i - j|^a \ge 1$$
 > per ogni coppia di interi non negativi distinti $i$, $j$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1991#q06|src_imho_1991__Q06]]

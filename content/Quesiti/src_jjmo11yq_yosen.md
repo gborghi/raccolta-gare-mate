@@ -32,13 +32,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area del parallelo da intersezioni di linee rettangolari*
+*Area del parallelogramma ricavata dagli incroci delle rette del rettangolo*
 
-> Nel rettangolo $ABCD$ c'è un punto $P$ sul lato $AB$ e un punto $R$ sul lato $CD$ in modo tale che $$AP=2,\quad PB=1,\quad BC=4,\quad CR=2,\quad RD=1,\quad DA=4.$$ $Q$ sia l'intersezione della linea $BR$ con la linea $CP$, e $S$ sia l'intersezione della linea $AR$ con la linea $DP$. Trova l'area del quadrilaterale $PQRS$. Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.
+> Nel rettangolo $ABCD$ vi sono un punto $P$ sul lato $AB$ e un punto $R$ sul lato $CD$ tali che $$AP=2,\quad PB=1,\quad BC=4,\quad CR=2,\quad RD=1,\quad DA=4.$$ Sia $Q$ l'intersezione della retta $BR$ con la retta $CP$, e sia $S$ l'intersezione della retta $AR$ con la retta $DP$. Determinare l'area del quadrilatero $PQRS$. Qui $\overline{XY}$ denota la lunghezza del segmento $XY$.
 
 ![[src_jjmo11yq_yosen__q01.png]]
 
-**Risposta:** 8/3
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo11yq_yosen#q01|src_jjmo11yq_yosen__Q01]]
 
 
 
@@ -62,11 +67,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca dieci numeri interi distinti da 1 a 20 con un prodotto dato*
+*Trovare dieci interi distinti compresi tra 1 e 20 con il prodotto dato*
 
-> Tra i numeri interi tra $1$ e $20$ inclusi, sono stati scelti numeri $10$ reciprocamente distinti e il prodotto di tali numeri $10$ è risultato essere $45405360000$. Indicare i numeri scelti $10$. L'ordine dei numeri $10$ non importa.
+> Tra gli interi compresi tra $1$ e $20$, inclusi, sono stati scelti $10$ numeri mutuamente distinti, e il prodotto di tali $10$ numeri è risultato essere $45405360000$. Indica i $10$ numeri scelti. L'ordine dei $10$ numeri non ha importanza.
 
-**Risposta:** 5, 7, 10, 11, 12, 13, 14, 15, 18, 20
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo11yq_yosen#q02|src_jjmo11yq_yosen__Q02]]
 
 
 
@@ -93,11 +103,15 @@ level: JJMO Yosen
 
 *Angolo in un eptagono ciclico con cinque lati uguali*
 
-> Un eptagone $PABCDEF$ è inserito in un cerchio, e $$AB=BC=CD=DE=EF$$ si tiene. Se $\angle PAB=100^\circ$ e $\angle PFE=120^\circ$, trovare $\angle FPA$. Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.
+> Un eptagono $PABCDEF$ è inscritto in una circonferenza, e $$AB=BC=CD=DE=EF$$ vale. Se $\angle PAB=100^\circ$ e $\angle PFE=120^\circ$, trova $\angle FPA$. Qui $\overline{XY}$ denota la lunghezza del segmento $XY$.
 
 ![[src_jjmo11yq_yosen__q03.png]]
 
-**Risposta:** 200/3 gradi
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo11yq_yosen#q03|src_jjmo11yq_yosen__Q03]]
 
 
 
@@ -123,13 +137,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio di segni di punti stellari con due segni per linea*
+*Conta le marcature dei punti stella, con due marcature per riga*
 
-> Come mostrato di seguito, i punti $10$ sono disposti e tra loro $5$ sono contrassegnati punti reciprocamente distinti. Per quanto riguarda le linee rette $5$, ciascuna che attraversa $4$ di questi punti $10$ (le linee in realtà disegnate come linee solide nella figura), si è scoperto che, per ciascuna linea, il numero di punti segnati tra i punti $4$ che si trovano su di essa era esattamente $2$. In totale, quante sono queste modalità di marcatura? Si noti che anche i segni che coincidono sotto rotazione o riflessione sono considerati come distinti.
+> Come mostrato di seguito, i punti $10$ sono disposti e, tra questi, vengono contrassegnati $5$ punti mutuamente distinti. Per quanto riguarda le rette $5$, ciascuna delle quali passa per $4$ di questi $10$ punti (le rette effettivamente tracciate come linee continue nella figura), è risultato che, per ciascuna retta, il numero di punti contrassegnati tra i punti $4$ che giacciono su di essa era esattamente $2$. In totale, quante sono le modalità di contrassegnamento di questo tipo? Si noti che anche le marcature coincidenti per rotazione o riflessione vengono conteggiate come distinte.
 
 ![[src_jjmo11yq_yosen__q04.png]]
 
-**Risposta:** 12
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo11yq_yosen#q04|src_jjmo11yq_yosen__Q04]]
 
 
 
@@ -153,11 +172,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio AE:EC in triangolo rettangolare con angolo di 45 gradi*
+*Rapporto AE:EC in un triangolo rettangolo isoscele con angolo di 45 gradi*
 
-> C'è un triangolo di uguali dimensioni $ABC$ in cui $\angle BAC$ è un angolo retto. C'è un punto $D$ sul lato $BC$ e un punto $E$ sul lato $CA$ con $\angle ADE=45^\circ$. Se $BD:DC=1:5$ viene dato, si trova $AE:EC$. Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.
+> Esiste un triangolo isoscele $ABC$ in cui $\angle BAC$ è un angolo retto. Esiste un punto $D$ sul lato $BC$ e un punto $E$ sul lato $CA$, con $\angle ADE=45^\circ$. Dato $BD:DC=1:5$, trovare $AE:EC$. Qui $\overline{XY}$ denota la lunghezza del segmento $XY$.
 
-**Risposta:** 13:5
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo11yq_yosen#q05|src_jjmo11yq_yosen__Q05]]
 
 
 
@@ -181,11 +205,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma minore di tre integri distinti il cui prodotto termina in 99*
+*La somma minima di tre interi distinti il cui prodotto termina con 99*
 
-> $a,b,c$ siano tre integri positivi reciprocamente distinti. Poiché le ultime due cifre del prodotto $abc$ sono $99$, si trova il valore più piccolo possibile di $a+b+c$.
+> Sia $a,b,c$ un insieme di tre interi positivi tutti distinti tra loro. Sapendo che le ultime due cifre del prodotto $abc$ sono $99$, determina il valore minimo possibile di $a+b+c$.
 
-**Risposta:** 269
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo11yq_yosen#q06|src_jjmo11yq_yosen__Q06]]
 
 
 
@@ -211,13 +240,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*vertici di 100 goni a due colori con accordi perpendicolari*
+*Colorazione a due colori dei vertici di un centagono con corde perpendicolari*
 
-> Tra i vertici di un normale $100$-gon, $2$ sono di colore rosso e $2$ sono di colore blu. Quanti modi ci sono per fare questo colorare soddisfacendo la condizione qui sotto? Un vertice non può essere colorato con due colori contemporaneamente, e i colori che coincidono sotto rotazione o riflessione sono anche contati come distinti.
-> 
-> Condizione: la linea attraverso i due vertici rossi e la linea attraverso i due vertici blu sono perpendicolari l'una all'altra.
+> Tra i vertici di un $100$-gono regolare, $2$ sono colorati di rosso e $2$ sono colorati di blu. Quante sono le modalità per effettuare questa colorazione soddisfacendo la condizione seguente? Un vertice non può essere colorato con due colori contemporaneamente, e le colorazioni che coincidono per rotazione o riflessione sono considerate anch'esse distinte.
+>
+> Condizione: la retta passante per i due vertici rossi e la retta passante per i due vertici blu sono perpendicolari tra loro.
 
-**Risposta:** 235250
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_jjmo11yq_yosen#q07|src_jjmo11yq_yosen__Q07]]
 
 
 
@@ -241,11 +275,20 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare coppie di numeri interi che rendono 201/a + 3/b un numero intero*
+*Coppie di interi positivi per cui 201/a + 3/b è intero*
 
-> Quante coppie $(a,b)$ di numeri interi positivi esistono tali che $$\frac{201}{a}+\frac{3}{b}$$ sia un intero?
+> Quante coppie $(a,b)$ di interi positivi esistono tali che
+> $$\frac{201}{a}+\frac{3}{b}$$
+> sia un intero?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata per casi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
 
 **Risposta:** 34
+
+[[Quesiti/src_jjmo11yq_yosen#q08|src_jjmo11yq_yosen__Q08]]
 
 
 
@@ -269,11 +312,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta triplici sommando al 2013 ogni coprimo fino al 2013*
+*Terne di interi positivi di somma 2013, ciascuno coprimo con 2013*
 
-> Quanti triples $(a,b,c)$ di numeri interi positivi sono tali che $a+b+c=2013$ e ciascuno di $a,b,c$ sia coprimo a $2013$?
+> Quante terne $(a,b,c)$ di interi positivi esistono tali che $a+b+c=2013$ e ciascuno di $a,b,c$ è coprimo con $2013$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
 
 **Risposta:** 318600
+
+[[Quesiti/src_jjmo11yq_yosen#q09|src_jjmo11yq_yosen__Q09]]
 
 
 
@@ -297,11 +347,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*PQ minimo per i cerchi attraverso coppie di vertici esagoni*
+*PQ minimo per i cerchi passanti per coppie di vertici dell'esagono*
 
-> Si consideri un esagono regolare $ABCDEF$ con lunghezza laterale $1$. C'è un cerchio che attraversa i due punti $A$ e $C$, e un cerchio che attraversa i due punti $B$ e $D$; questi due cerchi si incrociano a un punto $P$ e a un punto $Q$. Trovare il minimo valore possibile della lunghezza del segmento $PQ$. Qui, si presume che i due cerchi siano distinti.
+> Si consideri un esagono regolare $ABCDEF$ con lato di lunghezza $1$. Esiste una circonferenza che passa per i due punti $A$ e $C$, e una circonferenza che passa per i due punti $B$ e $D$; queste due circonferenze si intersecano in un punto $P$ e in un punto $Q$. Determinare il valore minimo possibile della lunghezza del segmento $PQ$. Si assume qui che le due circonferenze siano distinte.
 
-**Risposta:** (2/3)*sqrt(6)
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo11yq_yosen#q10|src_jjmo11yq_yosen__Q10]]
 
 
 
@@ -330,15 +385,21 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max di cellule buone meno cellule cattive in una griglia*
+*Massimo delle celle buone meno le celle cattive in una griglia*
 
-> In ogni cella di una griglia $101\times101$ viene scritto un numero reale (i numeri possono ripetersi).
-> 
-> - Se il numero reale scritto in una cella è maggiore del numero reale nella cella a destra e del numero reale nella cella sopra di essa, quella cella viene chiamata buona cella. Se non c'è una cellula a destra o sopra, non è una buona cellula. - Se il numero reale scritto in una cella è più piccolo del numero reale nella cella a sua destra e del numero reale nella cella sopra di essa, quella cella viene chiamata cella cattiva. Se non c'è una cella a destra o sopra, non è una cella cattiva.
-> 
-> Si noti che una cellula può essere una cellula buona e una cattiva allo stesso tempo. Qual è il valore più grande possibile di (numero di cellule buone) $-$ (numero di cellule cattive)?
+> In ciascuna cella di una griglia $101\times101$ viene scritto un numero reale (i numeri possono ripetersi).
+>
+> - Se il numero reale scritto in una cella è maggiore sia del numero reale nella cella immediatamente a destra sia di quello nella cella immediatamente sopra, tale cella è detta cella buona. Se non esiste una cella a destra o sopra, la cella non è buona.
+> - Se il numero reale scritto in una cella è minore sia del numero reale nella cella immediatamente a destra sia di quello nella cella immediatamente sopra, tale cella è detta cella cattiva. Se non esiste una cella a destra o sopra, la cella non è cattiva.
+>
+> Si noti che una cella può essere contemporaneamente una cella buona e una cella cattiva. Qual è il valore massimo possibile di (numero di celle buone) $-$ (numero di celle cattive)?
 
-**Risposta:** 5050
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo11yq_yosen#q11|src_jjmo11yq_yosen__Q11]]
 
 
 
@@ -362,8 +423,13 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perimetro di unione dei cerchi unitari 2013*
+*Perimetro dell'unione di 2013 cerchi unitari*
 
-> Nel piano c'è un cerchio di raggio inferiore a $1$. Sulla circonferenza di questo cerchio, si prendono i punti $2013$ reciprocamente distinti e si disegna un cerchio di raggio $1$ centrato su ciascuno di essi. Il confine della regione costituita da tutti i punti contenuti in ciascuno di questi cerchi unitari $2013$ aveva lunghezza $1$. Trova la lunghezza del confine della regione costituita da tutti i punti contenuti in almeno uno di questi cerchi unitari $2013$.
+> Nel piano c'è una circonferenza di raggio minore di $1$. Sulla circonferenza di questa circonferenza si prendono $2013$ punti tutti distinti tra loro, e si traccia una circonferenza di raggio $1$ avente centro in ciascuno di essi. Il contorno della regione costituita da tutti i punti contenuti in ciascuna di queste $2013$ circonferenze unitarie aveva lunghezza $1$. Trovare la lunghezza del contorno della regione costituita da tutti i punti contenuti in almeno una di queste $2013$ circonferenze unitarie.
 
-**Risposta:** 4*pi - 1
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo11yq_yosen#q12|src_jjmo11yq_yosen__Q12]]

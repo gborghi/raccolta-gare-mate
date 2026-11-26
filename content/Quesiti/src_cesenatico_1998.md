@@ -33,9 +33,20 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of floors (sqrt n) from 1 to 1000000*
+*Sum of floor(sqrt n) from 1 to 1000000*
 
-> If $x$ is a positive real number, $[x]$ denotes the whole part of $x$, i.e. the maximum integer $n \leq x$. Calculate the sum $$\sum_{n=1}^{1\,000\,000} \left[\sqrt{n}\right] = \left[\sqrt{1}\right] + \left[\sqrt{2}\right] + \cdots + \left[\sqrt{999\,999}\right] + \left[\sqrt{1\,000\,000}\right].$$ [The student may use, if he believes so, the following formula: $$\sum_{i=1}^{k} i^2 = \frac{k(k+1)(2k+1)}{6},$$ for which proof is not required.]
+> If $x$ is a positive real number, let $[x]$ denote the integer part of $x$, that is, the greatest integer $n \leq x$. Compute the sum
+> $$\sum_{n=1}^{1\,000\,000} \left[\sqrt{n}\right] = \left[\sqrt{1}\right] + \left[\sqrt{2}\right] + \cdots + \left[\sqrt{999\,999}\right] + \left[\sqrt{1\,000\,000}\right].$$
+> [If the student wishes, they may use the following formula:
+> $$\sum_{i=1}^{k} i^2 = \frac{k(k+1)(2k+1)}{6},$$
+> No proof of this formula is required.]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_1998#q01|src_cesenatico_1998__Q01]]
 
 
 
@@ -58,9 +69,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*two faces with the same number of sides*
+*Two faces with the same number of sides*
 
-> It turns out that in every convex polyhedron there are at least two faces with the same number of sides.
+> Prove that in every convex polyhedron there are at least two faces with the same number of sides.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_1998#q02|src_cesenatico_1998__Q02]]
 
 
 
@@ -82,9 +100,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-Chances are you'll be playing poker tonight.
+*Probability that poker will be played tonight*
 
-> Alberto wants to organize a poker game for tonight. He knows that Bruno and Barbara go to the gym together one in three evenings, and that Carla, Corrado, Dario and David are engaged one in two evenings (but not necessarily on the same days). Moreover, he knows that Darius does not want to play with David because he has taken the girl away from him. Since it takes at least four people (including Alberto) to play poker, what is the probability that it will be played tonight?
+> Alberto wants to organize a game of poker for this evening. He knows that Bruno and Barbara go to the gym together one evening out of three, and that Carla, Corrado, Dario, and Davide are busy one evening out of two (but not necessarily on the same evenings). Furthermore, he knows that Dario does not want to play with Davide because the latter stole Dario's girlfriend. Since at least four people are needed to play poker (including Alberto), what is the probability that a game will be played tonight?
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_1998#q03|src_cesenatico_1998__Q03]]
 
 
 
@@ -110,11 +134,19 @@ Chances are you'll be playing poker tonight.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BC^2=CD·CE in trapezoidal with perpendicular diagonals*
+*BC² = CD · CE in a trapezoid with perpendicular diagonals*
 
 ![[src_cesenatico_1998__prob4.png]]
 
-> Whether $ABCD$ a trapezoid with a greater base $AB$ such that the diagonal $AC$ and $BD$ are perpendicular. either $O$ the center of circumference surrounding the $ABC$ triangle and $E$ the intersection point between the $OB$ straight line and the $CD$ straight line. Show that $$BC^2 = CD \cdot CE.$$
+> Let $ABCD$ be a trapezoid with longer base $AB$ such that the diagonals $AC$ and $BD$ are perpendicular. Let $O$ be the center of the circumcircle of triangle $ABC$, and let $E$ be the intersection point of line $OB$ and line $CD$. Prove that
+> $$BC^2 = CD \cdot CE.$$
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_1998#q04|src_cesenatico_1998__Q04]]
 
 
 
@@ -141,11 +173,20 @@ Chances are you'll be playing poker tonight.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*does not exist n with P(n)=12*
+*There is no n such that P(n)=12*
 
-> Let $a_1, a_2, a_3, a_4$ be four distinct integers and let $P(x)$ be a polynomial with integer coefficients such that $$P(a_1) = P(a_2) = P(a_3) = P(a_4) = 1. \quad (\star)$$ (i) Show that there is no integer $n$ such that $P(n) = 12$.
-> 
-> (ii) Is there a polynomial $P(x)$ that satisfies the condition $(\star)$ and an integer $n$ such that $P(n) = 1998$?
+> Let $a_1, a_2, a_3, a_4$ be four distinct integers, and let $P(x)$ be a polynomial with integer coefficients such that
+> $$P(a_1) = P(a_2) = P(a_3) = P(a_4) = 1. \quad (\star)$$
+> (i) Prove that there is no integer $n$ such that $P(n) = 12$.
+>
+> (ii) Do there exist a polynomial $P(x)$ satisfying the condition $(\star)$ and an integer $n$ such that $P(n) = 1998$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_1998#q05|src_cesenatico_1998__Q05]]
 
 
 
@@ -177,12 +218,22 @@ Chances are you'll be playing poker tonight.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Increasing multiplication function f(n)=n*
+*Multiplicative increasing function f(n)=n*
 
-> Whether $f$ is a function defined in the set of positive integers to positive integers. Let's say that: - $f$ is *increasing* if $n < m$ implies $f(n) < f(m)$ - $f$ is * multiplied* if $\text{MCD}(m, n) = 1$ implies $f(nm) = f(n) \cdot f(m)$ - $f$ is * completely multiplied* if $f(nm) = f(n) \cdot f(m)$ for each $n, m$.
-> 
-> (i) It is shown that if $f$ is increasing then $f(n) \geq n$ for every $n$.
-> 
-> (ii) It is shown that if $f$ is increasing, fully multiplied and $f(2) = 2$ then $f(n) = n$ for each $n$.
-> 
-> (iii) Does the statement (ii) remain true if the adverb * is completely removed *?
+> Let $f$ be a function defined on the set of positive integers and taking values in the positive integers. We say that:
+> - $f$ is *increasing* if $n < m$ implies $f(n) < f(m)$
+> - $f$ is *multiplicative* if $\gcd(m, n) = 1$ implies $f(nm) = f(n) \cdot f(m)$
+> - $f$ is *completely multiplicative* if $f(nm) = f(n) \cdot f(m)$ for every $n, m$.
+>
+> (i) Prove that if $f$ is increasing, then $f(n) \geq n$ for every $n$.
+>
+> (ii) Prove that if $f$ is increasing, completely multiplicative, and $f(2) = 2$, then $f(n) = n$ for every $n$.
+>
+> (iii) Does statement (ii) still hold if the adverb *completely* is removed?
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_induzione|Induction]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_1998#q06|src_cesenatico_1998__Q06]]

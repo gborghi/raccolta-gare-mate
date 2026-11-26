@@ -38,11 +38,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many numbers are represented by the same figure*
+*How many numbers are represented by the same figure?*
 
-> The false code Sergio believes to have invented a secret code to identify the integers: if a digit is odd, it represents it with a circle, if it is even with a square; if a digit is a multiple of 3, the circle or square that represents it is full, while it is empty otherwise. So Sergio represents the number 34567 with . But Sergio is mistaken: his criterion does not allow us to identify a number with certainty based on his representation. Including the number 34567, how many numbers are represented by the same figure? (Remember that 0 is an even digit and is divisible by 3.)
+> The False Code Sergio thinks he has invented a secret code for identifying whole numbers: if a digit is odd, he represents it with a small circle; if it is even, with a square. If a digit is a multiple of 3, the small circle or square representing it is filled; otherwise, it is empty. Thus Sergio represents the number 34567 with . But Sergio is wrong: his rule does not make it possible to determine a number with certainty starting from its representation. Including the number 34567 as well, how many numbers are represented by the same figure? (Remember that 0 is an even digit and is divisible by 3.)
 
-**Answer:** 0108
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_kangourou_squadre#q01|src_kangourou_2024_kangourou_squadre__Q01]]
 
 
 
@@ -70,16 +75,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total marbles initially in the two containers*
+*Total initial number of balls in the two containers*
 
-> Red and blue marbles  
-> A container A was full of red marbles and a container B was full of blue marbles. A device  
-> removed in pairs one marble from A and one from B, for a certain number of times: in this way it removed  
-> 2/3 of the marbles that were in A and 3/5 of the marbles that were in B. Now in the two containers there are  
-> a total of 3,668 marbles left. How many marbles were there in total in the two containers  
-> at the beginning?
+> Red and blue marbles Container A was full of red marbles, and container B was full of blue marbles. A device removed one marble from A and one from B in pairs, a certain number of times: in this way, it removed 2/3 of the marbles that were in A and 3/5 of the marbles that were in B. Now, a total of 3,668 marbles remain in the two containers. How many marbles were there in total in the two containers at the beginning?
 
-**Answer:** 9956
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_kangourou_squadre#q02|src_kangourou_2024_kangourou_squadre__Q02]]
 
 
 
@@ -105,11 +109,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of digits of 10^100 minus 2024*
+*Sum of numbers equal to 10^100 minus 2024*
 
-> Sum of the digits Imagine you've done the 10 × 10 × 10 × ... × 10 where the factor 10 appears 100 times and subtract 2024 from the result you got. What is the sum of the digits of the result you get?
+> Sum of the Digits Imagine that you have carried out the operation 10 × 10 × 10 × … × 10, where the factor 10 appears 100 times, and that you have subtracted 2024 from the result you obtained. What is the sum of the digits of the result you obtain?
 
-**Answer:** 0893
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_kangourou_squadre#q03|src_kangourou_2024_kangourou_squadre__Q03]]
 
 
 
@@ -136,11 +144,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum and maximum k for triangle sides 60,k,2k*
+*Minimum and maximum values of k for a triangle with sides 60, k, 2k*
 
-> The dimensions of the sides of a triangle (which is not reduced to a segment or a point) are 60, k, 2k. If k is a positive integer, what are the smallest and largest possible values for k? (Write them in sequence from left to right, starting with the smallest: for example, if the values were 10 and 85, you would have to write 1085.)
+> The Sides of the Triangle The side lengths of a triangle (one that does not reduce to a line segment or a point) are 60, k, and 2k. If k is a positive integer, what are the smallest and largest possible values of k? (Write them in sequence from left to right, starting with the smallest: for example, if the values were 10 and 85, you should write 1085.)
 
-**Answer:** 2159
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_kangourou_squadre#q04|src_kangourou_2024_kangourou_squadre__Q04]]
 
 
 
@@ -168,11 +180,14 @@ level: squadre
 
 *Largest number with digit product 90*
 
-> The largest  
-> What is the largest positive integer whose digits have product 90? (Write 0000 if you believe 
-> that such a number does not exist.)
+> The Largest What is the largest positive integer whose digits multiply to 90? (Write 0000 if you think such a number does not exist.)
 
-**Answer:** 0000
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_kangourou_squadre#q05|src_kangourou_2024_kangourou_squadre__Q05]]
 
 
 
@@ -200,11 +215,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle DKC on the semicircular*
+*Angle DKC on the semicircle*
 
-> The angle On a semicircle with diameter AD and center M, points B and C are such that the angle CAD ̂ measures 50 degrees and BM is perpendicular to AC. Let K be the point where AC cuts BD. How many degrees does the angle DKC ̂ measure?
+> Angle: On a semicircle with diameter AD and center M, points B and C are such that angle CAD measures 50 degrees and BM is perpendicular to AC. Let K be the point where AC intersects BD. How many degrees does angle DKC measure?
 
-**Answer:** 0070
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_kangourou_squadre#q06|src_kangourou_2024_kangourou_squadre__Q06]]
 
 
 
@@ -229,11 +248,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Product of current ages of Gianni and Lisa*
+*Current age of Gianni and Lisa product*
 
-> Gianni and Lisa Gianni is two years older than Lisa. This year the product of their ages (in years) is the product of their ages last year, increased by 27. Write the product of the current two ages.
+> Gianni and Lisa: Gianni is two years older than Lisa. This year, the product of their ages (in years) is the product of their ages last year increased by 27. Write the product of their two current ages.
 
-**Answer:** 0195
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_kangourou_squadre#q07|src_kangourou_2024_kangourou_squadre__Q07]]
 
 
 
@@ -260,11 +283,16 @@ Product of current ages of Gianni and Lisa*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last four digits alignment sum 14*
+*Last four digits, alignment, sum 14*
 
-> In a 16-digit sequence, the fourth is 3 and the fifth from last is 5. In addition, the sum of three consecutive digits in the sequence, wherever they are, is 14. What is the sequence of the last four digits of the sequence?
+> The Last Digits In a 16-digit sequence, the fourth digit is 3 and the fifth-from-the-end digit is 5. Furthermore, the sum of any three consecutive digits in the sequence, regardless of their position, is 14. What is the sequence of the last four digits of the sequence?
 
-**Answer:** 3653
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_kangourou_squadre#q08|src_kangourou_2024_kangourou_squadre__Q08]]
 
 
 
@@ -292,15 +320,16 @@ Product of current ages of Gianni and Lisa*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cents for each pin given the saving*
+*Cents per pin, given the savings*
 
-> The pins
-> The organizer of a small five-a-side football tournament, with teams each made up of 7 players, had
-> decided to give each of the players of every team a souvenir pin costing 1 euro. When
-> he went to buy the pins, he discovered that in the meantime their price had decreased by more than
-> 10%: he thus saved a total of 6 euros and 65 cents. How many cents did he pay for each pin?
+> Pins The organizer of a small futsal tournament, with teams each consisting of 7 players, had decided to give each player on each team a souvenir pin costing 1 euro. When he went to buy the pins, he found that in the meantime their price had fallen by more than 10%; thus he saved a total of 6 euros and 65 cents. How many cents did he pay for each pin?
 
-**Answer:** 0081
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_kangourou_squadre#q09|src_kangourou_2024_kangourou_squadre__Q09]]
 
 
 
@@ -370,7 +399,7 @@ Product of current ages of Gianni and Lisa*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded region area three concentric circles*
+*Shaded region: three concentric circles*
 
 ![[src_kangourou_2024_kangourou_squadre__prob10.png]]
 
@@ -414,9 +443,13 @@ Product of current ages of Gianni and Lisa*
 \end{document}
 ```
 
-> The shaded region The figure shows three concentric circles of center O on which two diameters are drawn perpendicular to each other; RO, QO and PO are the radii of the three circles. The RQ segment is half the length of the QP segment which in turn is 2/3 of the PO segment. The area of the largest circle is 1962 m2. How many square meters is the area of the shaded region?
+> Shaded region: The figure shows three concentric circles with center O, on which two diameters perpendicular to each other are drawn; RO, QO, and PO are radii of the three circles. The segment RQ is half as long as the segment QP, which in turn is 2/3 as long as the segment PO. The area of the largest circle is 1962 m². What is the area of the shaded region in square metres?
 
-**Answer:** 1417
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_kangourou_squadre#q10|src_kangourou_2024_kangourou_squadre__Q10]]
 
 
 
@@ -445,11 +478,16 @@ Product of current ages of Gianni and Lisa*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N value given three sums 401,444,468*
+*Value n given three sums 401,444,468*
 
-> Three cards There are three cards on the table and on each one is marked a number; the three numbers are positive integers, none greater than 30. Three friends play like this: they each take one of the three cards in sequence, noting the number shown on the card. Then the three cards are put back on the table and so a round is played. After n rounds, each of the three friends sums up the n numbers he wrote down: the three sums are 401, 444, 468. How much is n?
+> Three Cards There are three cards on the table, and each card bears a number; the three numbers are positive integers, none greater than 30. Three friends play as follows: in sequence, each of them takes one of the three cards and notes the number on the card taken. Then the three cards are put back on the table, and that completes one round. After n rounds, each of the three friends adds up the n numbers he has noted: the three sums are 401, 444, and 468. What is the value of n?
 
-**Answer:** 0101
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_kangourou_squadre#q11|src_kangourou_2024_kangourou_squadre__Q11]]
 
 
 
@@ -475,11 +513,16 @@ Product of current ages of Gianni and Lisa*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 3 distinct digits increasing or decreasing*
+*3 distinct digits, either increasing or decreasing*
 
-> Increasing or decreasing How many positive integers of three digits are there (which are greater than 99), all distinct from each other, in which the digits are in increasing or decreasing order?
+> Increasing or Decreasing: How many three-digit positive integers (hence greater than 99), with all digits distinct, have digits that are in increasing order or in decreasing order?
 
-**Answer:** 0204
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_kangourou_squadre#q12|src_kangourou_2024_kangourou_squadre__Q12]]
 
 
 
@@ -505,11 +548,16 @@ Product of current ages of Gianni and Lisa*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum euro per child, average 4*
+*Maximum euro for a child, average 4*
 
-> The rich man The 2024 children in a small town have an average of 4 euros per person. Each has at least one euro and half has at least two. What is the maximum amount of euros that one of those children could have?
+> The rich guy: In 2024, the children of a small town have an average of 4 euros each. Each has at least one euro, and half of them have at least two euros. What is the maximum number of euros that one of those children could have?
 
-**Answer:** 5062
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_kangourou_squadre#q13|src_kangourou_2024_kangourou_squadre__Q13]]
 
 
 
@@ -536,11 +584,15 @@ Product of current ages of Gianni and Lisa*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum replacement lamps, colour ratios*
+*Minimum number of bulbs replaced, color ratios*
 
-> There are many lamps in a large luminaire. Yesterday, for every 20 reds there were 48 green lamps. Today, some light bulbs of one of the two colours have been replaced by as many of the other colour: now there are 26 red light bulbs for every 50 green. What is the smallest number of light bulbs that have certainly been replaced?
+> Light bulbs: In a large lighting installation, there are many light bulbs. Yesterday, for every 20 red bulbs, there were 48 green ones. Today, some bulbs of one of the two colors have been replaced by the same number of bulbs of the other color; now, for every 50 green bulbs, there are 26 red bulbs. What is the smallest number of bulbs that have certainly been replaced?
 
-**Answer:** 0062
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_kangourou_squadre#q14|src_kangourou_2024_kangourou_squadre__Q14]]
 
 
 
@@ -583,14 +635,19 @@ Product of current ages of Gianni and Lisa*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many reflections per overlapping triangle*
+*How many reflections for an overlapping triangle?*
 
 ![[src_kangourou_2024_kangourou_squadre__prob15.png]]
 
-> The reflections An isosceles triangle OA0 A1 with an angle of 125 degrees is reflected along the side OA1 on the triangle OA1 A2; the latter is reflected along the side OA2 in the triangle OA2 A3 and so on. The figure shows the effect of the first two reflections. How many reflections are needed to obtain for the first time a triangle that overlaps the starting triangle? A0 A1 A2 A3 O
-> 
-> Kangourou of Mathematics 2024 Kangourou Cup to teams Finals 1 Cervia, 3 May 2024
->  
+> Reflections: An isosceles triangle OA0A1 with an angle of 125 degrees is reflected across side OA1 onto triangle OA1A2; the latter is reflected across side OA2 onto triangle OA2A3, and so on. The figure shows the effect of the first two reflections. How many reflections are required to obtain, for the first time, a triangle that coincides with the starting triangle? A0 A1 A2 A3 O
+>
+> Kangaroo Mathematics Competition 2024 Kangaroo Team Cup Final 1 Cervia, 3 May 2024
+>
 > Titles and answers
 
-**Answer:** 0072
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_kangourou_squadre#q15|src_kangourou_2024_kangourou_squadre__Q15]]

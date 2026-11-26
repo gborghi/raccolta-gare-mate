@@ -31,11 +31,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo variabile tocca due cerchi fissi; proprietà focale dei coni*
+*Cerchio variabile che tocca due cerchi fissi; proprietà focale delle coniche*
 
-> (i) Due cerchi fissi sono toccati da un cerchio variabile a $P$ e $Q$. Provare che $PQ$ passa attraverso uno dei due punti fissi.
+> (i) Due cerchi fissi sono toccati da un cerchio variabile nei punti $P$ e $Q$. Dimostrare che $PQ$ passa per uno dei due punti fissi.
 > 
-> (ii) Esprimere un vero teorema sulle ellisse o se vi piace su conico in generale di cui (i) è un caso particolare.
+> (ii) Enunciare un teorema vero sulle ellissi o, se si preferisce, sulle coniche in generale, di cui (i) è un caso particolare.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_bmo1_1973#q01|src_bmo1_1973__Q01]]
 
 
 
@@ -58,9 +64,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nove punti interni in unità quadrata contengono un triangolo di superficie 1/8*
+*Nove punti interni in un quadrato unitario contengono un triangolo di area 1/8*
 
-> 9 punti sono dati all'interno del quadrato unitario. Prove che esiste un triangolo di superficie $\frac{1}{8}$ la cui verticale sono tre dei punti.
+> 9 punti sono dati all'interno del quadrato unitario. Dimostrare che esiste un triangolo di area $\frac{1}{8}$ i cui vertici sono tre dei punti.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_bmo1_1973#q02|src_bmo1_1973__Q02]]
 
 
 
@@ -85,11 +97,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La corda sulla superficie dell'emisfero-cilindro non si trova in piano*
+*Stringa su una superficie emisfero-cilindro che non giace in un piano*
 
-> Una curva costituita dal quartiere $x^2 + y^2 = r^2$, $x, y \ge 0$, insieme al segmento di linea $x = r$, $-h \le y \le 0$, si ruota intorno a $x = 0$ per formare una superficie di rivoluzione che è un emisfero su un cilindro. Una stringa è stretta strettamente sulla superficie dal punto della curva $(r\sin\phi, -r\cos\phi)$ al punto $(r, h)$ nel piano della curva. Indicare che la stringa non si trova in un piano se $\tan\phi > \dfrac{h}{r}$.
+> Una curva costituita dal quarto di cerchio $x^2 + y^2 = r^2$, $x, y \ge 0$, insieme al segmento di retta $x = r$, $-h \le y \le 0$, viene ruotata attorno a $x = 0$ per formare una superficie di rotazione che è un emisfero su un cilindro. Una stringa è tesa strettamente sulla superficie dal punto sulla curva $(r\sin\phi, -r\cos\phi)$ al punto $(r, h)$ nel piano della curva. Dimostrare che la stringa non giace in un piano se $\tan\phi > \dfrac{h}{r}$.
 > 
-> [Si possono assumere formule triangolari sferiche come $\cos a = \cos b\cos c + \sin b\sin c\cos A$ o $\sin c\cot B = \sin b\cot A - \cos b\cos C$. In un triangolo sferico i lati $a$, $b$, $c$ sono archi di grandi cerchi e sono misurati dagli angoli che essi sottendono al centro della sfera.]
+> [Si può presumere che siano note formule di triangoli sferici come $\cos a = \cos b\cos c + \sin b\sin c\cos A$ o $\sin c\cot B = \sin b\cot A - \cos b\cos C$. In un triangolo sferico i lati $a$, $b$, $c$ sono archi di grandi circonferenze e sono misurati dagli angoli che sottendono al centro della sfera.]
+
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_bmo1_1973#q03|src_bmo1_1973__Q03]]
 
 
 
@@ -116,13 +134,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizioni su n per n triangoli equilaterali per tessere un esagono converso*
+*Condizioni su n affinché n triangoli equilateri riempiano un esagono convesso*
 
-> Si dispone di un gran numero di dischi equilaterali triangolari congruenti su un tavolo e si desidera mettere insieme i dischi $n$ per creare un esagono convexo equilangulare (cioè un angolo interno di ciascuna $120^\circ$).
+> Si dispone di un gran numero di dischi triangolari equilateri congruenti su un tavolo e si vogliono incastrare $n$ dischi insieme per formare un esagono equilatero convesso (cioè uno i cui angoli interni sono ciascuno $120^\circ$).
 > 
-> Ovviamente $n$ non può essere un intero positivo. Il più piccolo $n$ è 6, e il successivo 13. Determinare le condizioni per un possibile $n$.
+> È ovvio che $n$ non può essere un intero positivo qualsiasi. Il più piccolo $n$ è 6, e il successivo 13. Determinare le condizioni per i valori possibili di $n$.
+>
+> ![[src_bmo1_1973__q04.png]]
 
-![[src_bmo1_1973__q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_bmo1_1973#q04|src_bmo1_1973__Q04]]
 
 
 
@@ -149,13 +173,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
+*Dimostrare l'esistenza di un insieme infinito di interi della forma $2^n - 3$ con proprietà di coppie coprime*
 
-> C'è un insieme infinito di interi positivi della forma $2^n - 3$ con la proprietà $Q$: non due membri dell'insieme hanno un fattore primo comune.
+> Esiste un insieme infinito di interi positivi della forma $2^n - 3$ con la proprietà $Q$: nessun due membri dell'insieme hanno un fattore primo in comune.
 > 
-> Supponiamo che ci sia un insieme finito $S = \{2^{r_1} - 3,\; 2^{r_2} - 3,\; \ldots,\; 2^{r_k} - 3\}$ con proprietà $Q$ e $k$ membri. I fattori primi di questi numeri $k$ siano $p_1, p_2, \ldots, p_s$. Considerare il numero $N = 2^{(p_1 - 1)(p_2 - 1)\cdots(p_s - 1)} - 1 \equiv 1 \pmod{P}$ per ogni primo $P$ che non divide $n$. Per il teorema di Fermat $2^{p_j - 1} \equiv 1 \pmod{p_j}$ per ogni primo $p_j$ che non divide $n$. Pertanto $K - 3 \equiv -1 \pmod{p_j}$, $r + 1$ a $t$ e $K - 3$ possono essere aggiunti a $S$ per dare un insieme più grande con proprietà $Q$.
+> Supponiamo che esista un insieme finito $S = \{2^{r_1} - 3,\; 2^{r_2} - 3,\; \ldots,\; 2^{r_k} - 3\}$ con la proprietà $Q$ e $k$ membri. Siano $p_1, p_2, \ldots, p_s$ i fattori primi di questi $k$ numeri. Consideriamo il numero $N = 2^{(p_1 - 1)(p_2 - 1)\cdots(p_s - 1)} - 1 \equiv 1 \pmod{P}$ per ogni primo $P$ che non divide $n$. Per il teorema di Fermat $2^{p_j - 1} \equiv 1 \pmod{p_j}$ per ogni primo $p_j$ che non divide $n$. Quindi $K - 3 \equiv -1 \pmod{p_j}$, $r + 1$ a $t$, e $K - 3$ può essere aggiunto a $S$ per dare un insieme più grande con la proprietà $Q$.
 > 
-> Date una prova adeguatamente ampliata e motivata che vi sia un insieme infinito di interi positivi della forma $2^n - 3$ con proprietà $Q$.
+> Fornisci una dimostrazione correttamente espansa e ragionata che esista un insieme infinito di interi positivi della forma $2^n - 3$ con la proprietà $Q$.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_bmo1_1973#q05|src_bmo1_1973__Q05]]
 
 
 
@@ -181,13 +211,18 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il rapporto tra ragazzi e ragazze dalla probabilità di essere d'accordo con l'insegnante*
+*Trovare il rapporto tra i ragazzi e le ragazze a partire dalla probabilità che il docente sia d'accordo con la risposta del alunno.*
 
-> Nel rispondere a domande di conoscenza generale (quadro in modo che ogni domanda sia risolta sì o no) la probabilità che l'insegnante abbia ragione è $b$ o $g$ a seconda che l'allievo sia un ragazzo o una ragazza.
-> 
-> La probabilità che un allievo scelto in modo casuale sia d'accordo con la risposta dell'insegnante è $\frac{1}{2}$.
-> 
-> Trova il rapporto tra il numero di ragazzi e ragazze in classe.
+> Nel rispondere a domande di cultura generale (formulate in modo che ogni domanda abbia risposta sì o no) la probabilità che il docente abbia ragione è $b$ o $g$ a seconda che il alunno sia un ragazzo o una ragazza.
+>
+> La probabilità che un alunno scelto a caso sia d'accordo con la risposta del docente è $\frac{1}{2}$.
+>
+> Trovare il rapporto tra il numero di ragazzi e il numero di ragazze nella classe.
+
+
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1973#q06|src_bmo1_1973__Q06]]
 
 
 
@@ -215,13 +250,20 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'aspettativa di vita di un draconiano di 70 anni da una curva demografica*
+*Trovare l'aspettativa di vita di un Draconiano di 70 anni a partire da una curva demografica*
 
-> La tabella di vita rilasciata dal segretario generale della Draconia mostra su 10.000 nascite vive il numero $\ell(y)$ che si prevede sarà vivo $y$ anni dopo. Quando $x = 60$, $y = 4800$. Quando $x = 80$, $y = 3205$. Per $60 \le x \le 100$ la curva $$y = Ax(100 - x) + \frac{(x - 40)^2}{B}$$ si adatta molto strettamente alle cifre della tabella, $A$ e $B$ essendo costanti.
+> La tabella di vita emessa dal Registrar-General di Draconia mostra, su 10.000 nati vivi, il numero $\ell(y)$ atteso di essere vivi $y$ anni dopo. Quando $x = 60$, $y = 4800$. Quando $x = 80$, $y = 3205$. Per $60 \le x \le 100$ la curva
+> $$y = Ax(100 - x) + \frac{(x - 40)^2}{B}$$
+> si adatta molto bene ai dati della tabella, $A$ e $B$ essendo costanti.
 > 
-> Determinare l'aspettativa di vita (in anni corretti a un decimale) di un draconiano di 70 anni.
+> Determinare l'aspettativa di vita (in anni, con una cifra decimale) di un Draconiano di 70 anni.
 > 
-> N.B. A 100 anni tutti i draconiani vengono giustiziati.
+> N.B. All'età di 100 anni tutti i Draconiani vengono messi a morte.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_bmo1_1973#q07|src_bmo1_1973__Q07]]
 
 
 
@@ -247,13 +289,18 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Matrice di compagnia per composizioni di mappe Mobius; condizioni per T^n = I*
+*Matrice compagna per composizioni di mappe di Möbius; condizioni per T^n = I*
 
-> Chiamare la matrice di accompagnamento per la mappatura $M_p = \begin{pmatrix} a_p & b_p \\ c_p & d_p \end{pmatrix}$.
-> 
-> (i) dimostrare che $M_{12}$ è la matrice di accompagnamento per la mappatura $T_1 T_2$.
-> 
-> (ii) Trovare condizioni su $a$, $b$, $c$, $d$ in modo che $T^n = I$ ma $T^2 \ne I$.
+> Sia $M_p = \begin{pmatrix} a_p & b_p \\ c_p & d_p \end{pmatrix}$ la matrice compagna della mappa $T_p : z \mapsto \dfrac{a_p z + b_p}{c_p z + d_p}$.
+>
+> (i) Dimostrare che $M_{12}$ è la matrice compagna della mappa $T_1 T_2$.
+>
+> (ii) Trovare condizioni su $a$, $b$, $c$, $d$ affinché $T^n = I$ ma $T^2 \ne I$.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_bmo1_1973#q08|src_bmo1_1973__Q08]]
 
 
 
@@ -278,11 +325,17 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le linee L_r (r=1,2,3) definite da un determinante sono simultanee*
+*Le rette $L_r$ ($r=1,2,3$) definite da un determinante sono concorrenti*
 
 > $$L_r = \begin{vmatrix} x & y & 1 \\ a + r\cos\phi & b + r\sin\phi & 1 \\ 1 + r\cos\phi & a + r\sin\phi & 1 \end{vmatrix}$$
 > 
-> Indicare che le linee $L_r = 0$, $r = 1, 2, 3$ sono simultanee e trovare le coordinate della loro concordanza.
+> Dimostrare che le rette $L_r = 0$, $r = 1, 2, 3$ sono concorrenti e trovare le coordinate del loro punto di concorrenza.
+
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_bmo1_1973#q09|src_bmo1_1973__Q09]]
 
 
 
@@ -307,11 +360,17 @@ Prove l'insieme infinito di integri 2^n - 3 con coprime in coppia*
 <div class="qlang-split" data-lang="it"></div>
 
 
-Scheda di flusso per la stampa di numeri interi fino a 100 della forma a^2 - b^2 - c^2
+*Diagramma di flusso per stampare gli interi fino a 100 della forma a^2 - b^2 - c^2*
 
-> Costruire un grafico di flusso dettagliato per un programma informatico per stampare tutti gli integri positivi fino a 100 della forma $a^2 - b^2 - c^2$, dove $a$, $b$, $c$ sono integri positivi e $a \ge b + c$.
-> 
-> Non c'è bisogno di stampare in ordine ascendente o di evitare ripetizioni.
+> Costruire un diagramma di flusso dettagliato per un programma di computer che stampi tutti gli interi positivi fino a 100 della forma $a^2 - b^2 - c^2$, dove $a$, $b$, $c$ sono interi positivi e $a \ge b + c$.
+>
+> Non è necessario stampare in ordine crescente né evitare le ripetizioni.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
+[[Quesiti/src_bmo1_1973#q10|src_bmo1_1973__Q10]]
 
 
 
@@ -339,10 +398,17 @@ Scheda di flusso per la stampa di numeri interi fino a 100 della forma a^2 - b^2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cilindri che ruotano su un tavolo: equazioni di movimento e equazione differenziale per theta*
+*Due cilindri che rotolano su un tavolo: equazioni del moto e equazione differenziale per theta*
 
-> (i) Due cilindri circolari a destra $A$ e $B$, di uguale lunghezza, hanno rispettivamente i raggi $a$, $b$ e le masse $M_a$, $M_b$. $A$ si basa su un generatore in contatto con una tavola orizzontale ruvida. $B$ si fonda su $A$, inizialmente in equilibrio instabile, con l'asse verticalmente superiore a $A$. L'equilibrio è disturbato; $B$ ruota su $A$ e $A$ ruota sul tavolo. Nel movimento successivo il piano contenente gli assi fa un angolo $\theta$ con la verticale. Scrivere le equazioni che indicano gli angoli, le forze, ecc., per il periodo in cui non c'è scivolamento. Scrivere e eliminare un'equazione differenziale per $\theta$, indicando i principi utilizzati. Indicare come si potrebbe effettuare l'eliminazione; non vi viene chiesto di farlo.
+> (i) Due cilindri circolari retti uniformi e ruvidi $A$ e $B$, con la stessa lunghezza, hanno raggi $a$, $b$ e masse $M_a$, $M_b$ rispettivamente. $A$ poggia con una generatrice a contatto con un tavolo orizzontale ruvido. $B$ poggia su $A$, inizialmente in equilibrio instabile, con il suo asse verticalmente sopra quello di $A$. L'equilibrio viene disturbato; $B$ rotola su $A$ e $A$ rotola sul tavolo. Nel moto successivo il piano contenente gli assi forma un angolo $\theta$ con la verticale. Scrivere le equazioni che danno gli angoli, le forze ecc., per il periodo in cui non c'è slittamento. Scrivere ed eliminare un'equazione differenziale per $\theta$, indicando i principi usati. Indicare come potrebbe essere fatta l'eliminazione; non è richiesto farla.
 > 
-> (ii) Tale equazione differenziale è, con $k = M_b/m$: $$\ddot{\theta}\left(4 + 2\cos\theta - 2\cos^2\theta + \frac{k}{2}\right) + \dot{\theta}^2 \sin\theta(2\cos\theta - 1) = \frac{3g(1 + k)\sin\theta}{a + b}$$ Ottenere $\dot{\theta}$ in termini di $\theta$.
+> (ii) Tale equazione differenziale è, con $k = M_b/m$:
+> $$\ddot{\theta}\left(4 + 2\cos\theta - 2\cos^2\theta + \frac{k}{2}\right) + \dot{\theta}^2 \sin\theta(2\cos\theta - 1) = \frac{3g(1 + k)\sin\theta}{a + b}$$
+> Ottenere $\dot{\theta}$ in funzione di $\theta$.
 > 
-> [Il momento di inerzia di un cilindro uniforme attorno al suo asse è $\frac{1}{2}(\text{mass})(\text{radius})^2$.]
+> [Momento d'inerzia di un cilindro uniforme rispetto al suo asse è $\frac{1}{2}(\text{mass})(\text{radius})^2$.]
+
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1973#q11|src_bmo1_1973__Q11]]

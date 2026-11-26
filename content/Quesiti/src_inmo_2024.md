@@ -28,9 +28,15 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il punto del circolo E dà una linea parallela che interseca il circolo a F,G*
+*Il punto E della circonferenza circoscritta individua una retta parallela che interseca la circonferenza circoscritta nei punti F e G*
 
-> Nel triangolo $ABC$ con $CA = CB$, il punto $E$ si trova sul circoncircolo di $ABC$ in modo tale che $\angle ECB = 90^\circ$. La linea attraverso $E$ parallela a $CB$ si interseca tra $CA$ in $F$ e $AB$ in $G$. Prove che il centro del circoncircolo del triangolo $EGB$ si trova sul circoncircolo del triangolo $ECF$.
+> Nel triangolo $ABC$ con $CA = CB$, il punto $E$ giace sulla circonferenza circoscritta a $ABC$ in modo che $\angle ECB = 90^\circ$. La retta passante per $E$ e parallela a $CB$ interseca $CA$ in $F$ e $AB$ in $G$. Dimostrare che il centro della circonferenza circoscritta al triangolo $EGB$ giace sulla circonferenza circoscritta al triangolo $ECF$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2024#q01|src_inmo_2024__Q01]]
 
 
 
@@ -53,9 +59,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2024x2024 gioco di colorare la tavola; trovare i quadrati massimi Mohit può colorare rosso*
+*Gioco di colorazione di una scacchiera 2024x2024: trova il numero massimo di caselle che Mohit può colorare di rosso*
 
-> Tutti i quadrati di una scheda $2024 \times 2024$ sono di colore bianco. In una mossa, Mohit può selezionare una riga o una colonna di cui ogni quadrato è bianco, scegliere esattamente 1000 quadrati in questa riga o colonna, e colorarli tutti rossi. Trova il numero massimo di quadrati che Mohit può colorare rosso in un numero finito di mosse.
+> Tutte le caselle di una scacchiera $2024 \times 2024$ sono colorate di bianco. In un singolo movimento, Mohit può scegliere una riga o una colonna in cui ogni casella è bianca, selezionare esattamente 1000 caselle in tale riga o colonna e colorare tutte queste caselle di rosso. Determinare il numero massimo di caselle che Mohit può colorare di rosso in un numero finito di mosse.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2024#q02|src_inmo_2024__Q02]]
 
 
 
@@ -80,9 +93,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Odd primo p divide la somma delle potenze dei numeri interi a, b, c*
+*Un numero primo dispari p divide la somma delle potenze degli interi a, b, c*
 
-> Che $p$ sia un numero primo impar e $a, b, c$ un numero intero in modo che tutti i numeri interi $$a^{2021} + b^{2023},\quad a^{2023} + c^{2021},\quad a^{2025} + c^{2025}$$ siano divisibili da $p$. Provare che $p$ divide ciascuno di $a, b, c$.
+> Sia $p$ un numero primo dispari e siano $a, b, c$ degli interi tali che gli interi
+> $$a^{2021} + b^{2023},\quad a^{2023} + c^{2021},\quad a^{2025} + c^{2025}$$
+> siano tutti divisibili per $p$. Dimostrare che $p$ divide ciascuno di $a, b, c$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2024#q03|src_inmo_2024__Q03]]
 
 
 
@@ -107,11 +129,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione cardinale f su numeri interi positivi; trovare tutti i valori di f(2024)*
+*Funzione cardinale f sugli interi positivi; trovare tutti i valori di f(2024)*
 
-> Un insieme finito $S$ di numeri interi positivi è chiamato cardinale se $S$ contiene l'intero $|S|$; dove $|S|$ indica il numero di elementi distinti in $S$. Lasciate che $f$ sia una funzione dall'insieme di integri positivi a se stesso, in modo tale che per qualsiasi insieme cardinale $S$, il insieme $f(S)$ sia anche cardinale. Qui $f(S)$ indica l'insieme di tutti gli enti che possono essere espressi come $f(a)$ per alcuni $a$ in $S$. Trova tutti i possibili valori di $f(2024)$.
-> 
-> \textit{Nota.} Ad esempio, $\{1, 3, 5\}$ è un insieme cardinale perché ha 3 elementi distinti, e l'insieme contiene 3.
+> Un insieme finito $S$ di numeri interi positivi si dice cardinale se $S$ contiene l'intero $|S|$; dove $|S|$ denota il numero di elementi distinti in $S$. Sia $f$ una funzione dall'insieme dei numeri interi positivi in sé, tale che, per ogni insieme cardinale $S$, anche l'insieme $f(S)$ sia cardinale. Qui $f(S)$ denota l'insieme di tutti gli interi che possono essere espressi come $f(a)$ per qualche $a$ in $S$. Trovare tutti i valori possibili di $f(2024)$.
+>
+> \textit{Nota.} A titolo di esempio, $\{1, 3, 5\}$ è un insieme cardinale perché ha 3 elementi distinti e l'insieme contiene 3.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2024#q04|src_inmo_2024__Q04]]
 
 
 
@@ -136,11 +165,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Compositazione della rotazione attorno a vertici quadrilaterali ciclici; raggio di circolo circolare legato*
+*Composizione di rotazioni attorno ai vertici di un quadrilatero ciclico; limite del raggio della circonferenza circoscritta*
 
-> I punti $A_1, A_2, A_3, A_4$ si trovano sul cerchio $\Gamma$ in ordine contraria al senso orario e $P$ sono un punto nello stesso piano. Per $i \in \{1, 2, 3\}$, $\tau_i$ indichi la rotazione contro il senso orario del piano incentrato su $A_i$, dove l'angolo di rotazione è uguale all'angolo al vertice $A_i$ in $\triangle A_1 A_2 A_3 A_4$. Inoltre, definire $P_i$ come il punto $\tau_{i+2}(\tau_{i+1}(\tau_i(P)))$, dove gli indici sono presi modulo 3 (cioè $\tau_4 = \tau_1, \tau_5 = \tau_2$).
-> 
-> Prove che il raggio del circoncircolo di $\triangle P_1 P_2 P_3$ è al massimo quello di $\Gamma$.
+> Siano i punti $A_1, A_2, A_3, A_4$ posti sulla circonferenza $\Gamma$ in ordine antiorario, e sia $P$ un punto nello stesso piano. Per $i \in \{1, 2, 3\}$, si indichi con $\tau_i$ la rotazione antioraria del piano avente centro in $A_i$, dove l'angolo di rotazione è uguale all'angolo al vertice $A_i$ in $\triangle A_1 A_2 A_3 A_4$. Inoltre, si definisca $P_i$ come il punto $\tau_{i+2}(\tau_{i+1}(\tau_i(P)))$, dove gli indici sono presi modulo 3 (cioè $\tau_4 = \tau_1, \tau_5 = \tau_2$).
+>
+> Dimostrare che il raggio della circonferenza circoscritta a $\triangle P_1 P_2 P_3$ è al più il raggio di $\Gamma$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2024#q05|src_inmo_2024__Q05]]
 
 
 
@@ -168,8 +204,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze A_n e B_n di radicali nidificati; trovare interi positivi con valori di pavimento uguali*
+*Successioni A_n e B_n di radicali annidati; trovare numeri interi positivi con lo stesso valore della parte intera*
 
-> Per ogni numero intero positivo $n \ge 3$, definire $A_n$ e $B_n$ come $$A_n = \sqrt{n^2+1} + \sqrt{n^2+2} + \cdots + \sqrt{n^2+2n-1},$$ $$B_n = \sqrt{n^2+2} + \sqrt{n^2+4} + \cdots + \sqrt{n^2+2n}.$$ Determinare tutti i numeri interi positivi $n \ge 3$ per i quali $\lfloor A_n \rfloor = \lfloor B_n \rfloor$.
-> 
-> Per qualsiasi numero reale $x$, $\lfloor x \rfloor$ indica il numero intero più grande $N$ tale che $N \le x$.
+> Per ogni intero positivo $n \ge 3$, si definiscano $A_n$ e $B_n$ come
+> $$A_n = \sqrt{n^2+1} + \sqrt{n^2+2} + \cdots + \sqrt{n^2+2n-1},$$
+> $$B_n = \sqrt{n^2+2} + \sqrt{n^2+4} + \cdots + \sqrt{n^2+2n}.$$
+> Determinare tutti gli interi positivi $n \ge 3$ per cui vale $\lfloor A_n \rfloor = \lfloor B_n \rfloor$.
+>
+> \textit{Note.} Per ogni numero reale $x$, $\lfloor x \rfloor$ denota il più grande intero $N$ tale che $N \le x$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2024#q06|src_inmo_2024__Q06]]

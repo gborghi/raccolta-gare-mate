@@ -32,11 +32,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference of surface area given difference of cubic volumes*
+*Difference in areas, given difference in volumes of cubes*
 
-> Cube difference The measurements in meters of the sides of two cubes are integers. The difference (positive) in their volumes is 37 m3. How many square meters is the difference (positive) between their surface areas?
+> Difference of Cubes The side lengths, in meters, of two cubes are integers. The (positive) difference of their volumes is 37 m³. By how many square meters is the (positive) difference of their surface areas?
 
-**Answer:** 0042
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q01|src_kangourou_2023_kangourou_squadre_f2__Q01]]
 
 
 
@@ -62,11 +67,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many girls have passed average exams*
+*How many girls got an average grade on the exam?*
 
-> Examination A university examination was taken by 210 students. The average score (out of thirty) reported by the girls is 25, the average score reported by the boys is 20; the average score calculated for all participants is 23. How many girls have passed the exam?
+> The Exam 210 students took part in a university exam. The average grade (out of 30) reported by the girls is 25, that reported by the boys is 20; the average grade calculated across all participants is 23. How many girls took the exam?
 
-**Answer:** 0126
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q02|src_kangourou_2023_kangourou_squadre_f2__Q02]]
 
 
 
@@ -96,11 +105,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Gamme of glues for parallel 7x6x5
+*Grams of glue for a 7x6x5 parallelepiped*
 
-> Amedeo glue has a large number of parallel-piped blocks, each measuring (in centimeters) 2 × 1 × 1. Approach  without leaving empty spaces  and join some of these blocks together to obtain a parallel-piped rectangle measuring (in centimeters) 7 × 6 × 5. For two adhering surfaces, 1 gram of glue is needed per cm2. Every time two surfaces are adhering, you have to stick them together. How many grams of glue do you use to build the parallelepiped?
+> Amedeo's glue has at its disposal a large number of cuboid blocks, each measuring 2 × 1 × 1 centimeters. He joins—without leaving any gaps—and glues together parts of these blocks so as to obtain a rectangular cuboid measuring 7 × 6 × 5 centimeters. To glue two contacting surfaces together, 1 gram of glue is needed per square centimeter. Whenever two surfaces are in contact, he must glue them together. How many grams of glue does he use to construct the cuboid?
 
-**Answer:** 0418
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q03|src_kangourou_2023_kangourou_squadre_f2__Q03]]
 
 
 
@@ -126,11 +140,15 @@ Gamme of glues for parallel 7x6x5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N value in water mixtures*
+*Value n in water mixtures*
 
-> Mixtures One mixture A is 90% water and one mixture B is 54%. 160 litres were taken from mixture B and mixed with n litres of mixture A to produce a new mixture in which the water content is 78%. How much is n?
+> Mixtures: Mixture A consists of 90% water, and mixture B consists of 54% water. 160 liters were taken from mixture B and mixed with n liters of mixture A, yielding a new mixture in which the water percentage is 78%. What is the value of n?
 
-**Answer:** 0320
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q04|src_kangourou_2023_kangourou_squadre_f2__Q04]]
 
 
 
@@ -157,11 +175,16 @@ Gamme of glues for parallel 7x6x5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*greater than six minimum numbers, sum of 2023*
+*Greater than the six minimum numbers, sum 2023*
 
-> The sum of Anna Anna wrote six positive integers all different from each other, summed them up and got 2,023. The largest of the numbers Anna wrote is the smallest one that, under the constraint laid down, allows for such a sum. What's the number?
+> Anna wrote six distinct positive integers, added them together, and got 2,023. The largest of the numbers Anna wrote is the smallest number that, under the stated constraint, makes it possible to obtain that sum. What number is it?
 
-**Answer:** 0340
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q05|src_kangourou_2023_kangourou_squadre_f2__Q05]]
 
 
 
@@ -189,11 +212,16 @@ Gamme of glues for parallel 7x6x5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum straight lines to cover square vertices*
+*Minimum straight lines to cover the vertices of the squares*
 
-> On a huge square sheet of square paper, with 2,023 squares per side, you want to draw lines, none parallel to those that delimit the squares, so that all the vertices of the squares that appear on the sheet are covered by at least one line. What is the smallest number of lines that is sufficient to trace?
+> Graph Paper On an enormous square sheet of graph paper, with 2,023 squares per side, we want to draw straight lines—none of which are parallel to the lines that bound the squares—so that all the vertices of the squares that appear on the sheet are covered by at least one line. What is the smallest number of lines that suffice to draw?
 
-**Answer:** 4046
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q06|src_kangourou_2023_kangourou_squadre_f2__Q06]]
 
 
 
@@ -218,11 +246,15 @@ Gamme of glues for parallel 7x6x5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest of five consecutive, 10-digit product*
+*Greater than five consecutive ones, 10-digit product*
 
-> Ten digits A 10-digit integer is the product of five consecutive integers and is the largest 10-digit integer that enjoys this property. Which is the largest of the five consecutive integers?
+> Ten digits: A 10-digit integer is the product of five consecutive integers and is the largest 10-digit integer with this property. What is the largest of the five consecutive integers?
 
-**Answer:** 0102
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q07|src_kangourou_2023_kangourou_squadre_f2__Q07]]
 
 
 
@@ -249,13 +281,17 @@ Gamme of glues for parallel 7x6x5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PQ length in square partitioned*
+*PQ length in partitioned square*
 
 ![[src_kangourou_2023_kangourou_squadre_f2__prob8.png]]
 
-> The square in the figure is divided into 4 congruent rectangles and a square, all of which have an area of 300 cm2. How long is the PQ segment?
+> Part: The square in the figure is divided into 4 congruent rectangles and one square, all with an area of 300 cm². How many centimetres long is segment PQ?
 
-**Answer:** 0030
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q08|src_kangourou_2023_kangourou_squadre_f2__Q08]]
 
 
 
@@ -281,11 +317,16 @@ Gamme of glues for parallel 7x6x5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum k with 193k+9 perfect square*
+*Minimo k with 193k+9 a perfect square*
 
-> What is the smallest positive integer k such that the number 193 × k + 9 is a perfect square?
+> The sum is a square. What is the smallest positive integer k such that 193 × k + 9 is a perfect square?
 
-**Answer:** 0187
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q09|src_kangourou_2023_kangourou_squadre_f2__Q09]]
 
 
 
@@ -312,11 +353,16 @@ Gamme of glues for parallel 7x6x5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum side intersections 3 red 5 blue*
+*Maximum intersections: 3 red sides, 5 blue sides*
 
-> Angela has this task: on a sheet of paper she must draw three red triangles and five blue triangles on a sheet of paper. The number N of intersection points between different coloured sides must be finite. What is the maximum possible value of N?
+> Intersections: Angela has this task: on a sheet of paper, she must draw 3 red triangles and 5 blue triangles. The number N of intersection points between sides of different colors must be finite. What is the maximum possible value of N?
 
-**Answer:** 0090
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q10|src_kangourou_2023_kangourou_squadre_f2__Q10]]
 
 
 
@@ -343,11 +389,15 @@ Gamme of glues for parallel 7x6x5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Track length, diametrically opposite departures*
+*Track length, diametrically opposite start points*
 
-> Circular track Paul and Gino train to run along a circular track. They start from diametrically opposite points, but run in opposite directions, each at its own constant speed. When they meet for the first time, Paul has traveled 100 meters from the start; when they meet for the second time, Gino has traveled 150 meters from the first meeting point. How long is the track?
+> The Circular Track Paolo and Gino train in running on a circular track. They start from points diametrically opposite each other but run in opposite directions, each at their own constant speed. When they meet for the first time, Paolo has covered 100 meters from the start; when they meet for the second time, Gino has covered 150 meters from the point of the first meeting. How many meters long is the track?
 
-**Answer:** 0350
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q11|src_kangourou_2023_kangourou_squadre_f2__Q11]]
 
 
 
@@ -380,13 +430,17 @@ Gamme of glues for parallel 7x6x5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cost crown smaller proportional diameter*
+*Cost of smaller crown proportional to diameter*
 
 ![[src_kangourou_2023_kangourou_squadre_f2__prob12.png]]
 
-> To manufacture precision machinery, cylindrical crowns of very expensive material are required, all of the same thickness and homogeneity, all with an internal cylinder of 4 cm in diameter, but with an external cylinder of variable diameter. For the larger ones, the outer diameter is 28 cm; the smaller ones weigh half the larger ones. The cost of the crowns is directly proportional to the measurement of the outer diameter; that of one of the largest is 2023 euros. How much does one of the smaller ones cost?
+> The rings To manufacture precision machinery, cylindrical rings made of a very expensive material are required—all of the same thickness and homogeneous, all with an inner cylinder 4 cm in diameter but with an outer cylinder of variable diameter. For the largest ones, the outer diameter is 28 cm; the smallest ones weigh half as much as the largest ones. The cost of the rings is directly proportional to the size of the outer diameter; the cost of one of the largest ones is 2023 euros. How many euros does one of the smallest ones cost?
 
-**Answer:** 1445
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q12|src_kangourou_2023_kangourou_squadre_f2__Q12]]
 
 
 
@@ -415,13 +469,18 @@ Gamme of glues for parallel 7x6x5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to read BANANA in the table*
+*Ways of reading BANANA in the table*
 
 ![[src_kangourou_2023_kangourou_squadre_f2__prob13.png]]
 
-> BANANA How many different ways can the word BANANA be read in the table below, keeping in mind that for each cell read, the next cell must share a side with it and that the same cell can be read multiple times?
+> BANANA In how many different ways can the word BANANA be read in the table shown in the figure, bearing in mind that, for each "read" cell, the next one must share a side with it and that the same cell can be "read" more than once?
 
-**Answer:** 0084
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q13|src_kangourou_2023_kangourou_squadre_f2__Q13]]
 
 
 
@@ -475,7 +534,7 @@ Gamme of glues for parallel 7x6x5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular area ABCD from area triangle FMN*
+*Area of rectangle ABCD minus area of triangle FMN*
 
 ![[src_kangourou_2023_kangourou_squadre_f2__prob14.png]]
 
@@ -503,9 +562,14 @@ Gamme of glues for parallel 7x6x5
 \end{document}
 ```
 
-> The area of the rectangle In the figure, ABCD is a rectangle, F is the midpoint of the side AB, N is the midpoint of the side BC and M is the common point to the straight lines containing one side AB, the other the DN segment. The area of the triangle FMN is 99. What is the area of the rectangle ABCD?
+> Area of the rectangle In the figure, ABCD is a rectangle, F is the midpoint of side AB, N is the midpoint of side BC, and M is the point common to the two lines, one of which contains side AB and the other contains segment DN. The area of triangle FMN is 99. What is the area of rectangle ABCD?
 
-**Answer:** 0264
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q14|src_kangourou_2023_kangourou_squadre_f2__Q14]]
 
 
 
@@ -549,13 +613,18 @@ Gamme of glues for parallel 7x6x5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*M+m minimum possible 100 numbers in line*
+*M+m as minimal as possible, 100 numbers in a line*
 
-> One hundred numbers in line In an alignment of 100 positive integers, we know that each of the numbers other than the first of the alignment and the last is the arithmetic mean of the two adjacent numbers. We also know that one of the 100 numbers is 2.023 and there are no greater ones. For the smallest of the numbers of the alignment there are several possible values: if M is the largest of these possible values and m is the smallest, how much is M + m?
->  
-> A B C D F M N P Q axis 4 cm
-> 
->  
-> Questions and solutions
+> A Sequence of 100 Numbers For a sequence of 100 positive integers, it is known that each number other than the first and the last in the sequence is the arithmetic mean of the two numbers adjacent to it. It is also known that one of the 100 numbers is 2,023 and that none of the numbers is greater than 2,023. For the smallest number in the sequence, there are several possible values: if M is the greatest of these possible values and m is the least, what is the value of M + m?
+>
+> A B C D F M N P Q bar 4 cm
+>
+>
+> Questions and Solutions
 
-**Answer:** 2066
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q15|src_kangourou_2023_kangourou_squadre_f2__Q15]]

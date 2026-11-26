@@ -30,9 +30,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza la cui prima n termini somma a zero e che è periodica con il periodo n; dimostrare che qualche indice iniziale N rende tutte le somme parziali da N non negative*
+*Successione i cui primi n termini hanno somma nulla e che è periodica con periodo n; dimostrare che esiste un certo indice iniziale N tale che tutte le somme parziali a partire da N sono non negative*
 
-> Una sequenza $(a_k)_{k=1}^{\infty}$ ha la proprietà che esiste un numero naturale $n$ tale che $a_1 + a_2 + \cdots + a_n = 0$ e $a_{n+k} = a_k$ per tutti $k$. Prova che esiste un numero naturale $N$ tale che $$\sum_{i=N}^{N+k} a_i \ge 0 \quad \text{for } k = 0, 1, 2, \ldots.$$
+> Una successione $(a_k)_{k=1}^{\infty}$ ha la proprietà che esiste un numero naturale $n$ tale che $a_1 + a_2 + \cdots + a_n = 0$ e $a_{n+k} = a_k$ per ogni $k$. Dimostrare che esiste un numero naturale $N$ tale che
+> $$\sum_{i=N}^{N+k} a_i \ge 0 \quad \text{for } k = 0, 1, 2, \ldots.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1975_r3#q01|src_pol_1975_r3__Q01]]
 
 
 
@@ -55,9 +63,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fine molti segmenti su un tetraedro regolare di bordo 1 che uniscono ogni coppia di vertici da un percorso poligonale; la lunghezza totale può essere inferiore a 1+sqrt(3)?*
+*Un numero finito di segmenti, su un tetraedro regolare di spigolo 1, che uniscono ogni coppia di vertici mediante un percorso poligonale; la lunghezza totale può essere inferiore a 1+√3?*
 
-> Sulla superficie di un tetraedro regolare di lunghezza di bordo $1$ sono dati finitamente molti segmenti in modo tale che ogni due vertici del tetraedro possono essere uniti da una linea poligonale costituita da segmenti dati. La somma delle lunghezze dei segmenti dati può essere inferiore a $1 + \sqrt{3}$?
+> Sulla superficie di un tetraedro regolare di spigolo di lunghezza $1$ sono dati un numero finito di segmenti tali che ogni coppia di vertici del tetraedro può essere unita da una linea poligonale composta dai segmenti dati. La somma delle lunghezze dei segmenti dati può essere minore di $1 + \sqrt{3}$?
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1975_r3#q02|src_pol_1975_r3__Q02]]
 
 
 
@@ -82,9 +97,18 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il più piccolo alfa positivo per il quale qualche beta>0 dà sqrt(1+x)+sqrt(1-x)<=2-x^alpha/beta su [0,1], e il più piccolo beta*
+*Trovare il più piccolo alfa positivo per cui esista un beta>0 tale che su [0,1] valga sqrt(1+x)+sqrt(1-x)<=2-x^alpha/beta, e il più piccolo beta di questo tipo*
 
-> Trova il numero positivo $\alpha$ più piccolo per il quale esiste un numero positivo $\beta$ tale che per tutti $0 \le x \le 1$, $$\sqrt{1+x} + \sqrt{1-x} \le 2 - \frac{x^{\alpha}}{\beta}.$$ per ciascuna di tali $\alpha$ si determina il numero $\beta > 0$ più piccolo per il quale si applica questa condizione.
+> Trovare il più piccolo numero positivo $\alpha$ per cui esiste un numero positivo $\beta$ tale che, per ogni $0 \le x \le 1$,
+> $$\sqrt{1+x} + \sqrt{1-x} \le 2 - \frac{x^{\alpha}}{\beta}.$$
+> Per ciascun $\alpha$ di questo tipo, determina il più piccolo $\beta > 0$ per cui questa condizione vale.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1975_r3#q03|src_pol_1975_r3__Q03]]
 
 
 
@@ -107,9 +131,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un numero naturale ha tutti i numeri decimali tra 1,3,7,9; dimostra che i suoi numeri possono essere riorganizzati per formare un multiple di 7*
+*Un numero naturale ha tutte le cifre decimali appartenenti all'insieme {1,3,7,9}; dimostrare che le sue cifre possono essere riordinate in modo da formare un multiplo di 7*
 
-> Tutte le cifre decimali di qualche numero naturale sono $1, 3, 7$ e $9$. Prova che si possono riordinare i suoi numeri in modo da ottenere un numero divisibile per $7$.
+> Tutte le cifre decimali di un certo numero naturale sono $1, 3, 7$ e $9$. Dimostrare che si possono riorganizzare le sue cifre in modo da ottenere un numero divisibile per $7$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1975_r3#q04|src_pol_1975_r3__Q04]]
 
 
 
@@ -133,9 +164,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Caricare quando un triangolo con un angolo alfa ammette il circondario R e l'inradio r: iff 2R/r >= 1/(sin(alfa/2)(1-sin(alfa/2)))*
+*Caratterizza il caso in cui un triangolo con un angolo alfa ammette raggio circoscritto R e raggio inscritto r: se e solo se 2R/r >= 1/(sin(alpha/2)(1-sin(alpha/2)))*
 
-> Mostrare che è possibile circonscrivere un cerchio di raggio $R$ circa e iscrivere un cerchio di raggio $r$ in un triangolo con un angolo uguale a $\alpha$, se e solo se $$\frac{2R}{r} \ge \frac{1}{\sin \frac{\alpha}{2} \left(1 - \sin \frac{\alpha}{2}\right)}.$$
+> Dimostrare che è possibile circoscrivere un cerchio di raggio $R$ a un certo triangolo con un angolo uguale a $\alpha$, e inscrivere un cerchio di raggio $r$ in tale triangolo, se e solo se
+> $$\frac{2R}{r} \ge \frac{1}{\sin \frac{\alpha}{2} \left(1 - \sin \frac{\alpha}{2}\right)}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1975_r3#q05|src_pol_1975_r3__Q05]]
 
 
 
@@ -159,6 +198,14 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato che S(x)=1-x e T(x)=x/2 su [0,1], una composizione f=g1 o ... O gn di questi soddisfa f  1/2)=1975/2^1975?*
+*Dati S(x)=1-x e T(x)=x/2 su [0,1], una composizione f=g1 o ... o gn di queste funzioni soddisfa f(1/2)=1975/2^1975?*
 
-> All'intervallo $[0,1]$ vengono indicate le funzioni $S(x) = 1 - x$ e $T(x) = x/2$. Esiste una funzione del modulo $f = g_1 \circ g_2 \circ \cdots \circ g_n$, in cui $n \in \mathbb{N}$ e ciascuna $g_k$ è $S(x)$ o $T(x)$, in modo tale che $$f\left(\frac{1}{2}\right) = \frac{1975}{2^{1975}}?$$
+> Sull'intervallo $[0,1]$ sono date le funzioni $S(x) = 1 - x$ e $T(x) = x/2$. Esiste una funzione della forma $f = g_1 \circ g_2 \circ \cdots \circ g_n$, dove $n \in \mathbb{N}$ e ciascun $g_k$ sono o $S(x)$ o $T(x)$, tale che
+> $$f\left(\frac{1}{2}\right) = \frac{1975}{2^{1975}}?$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1975_r3#q06|src_pol_1975_r3__Q06]]

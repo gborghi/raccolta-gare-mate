@@ -50,9 +50,19 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Within days Franco will see you (mcm 13 and 7)*
+*In how many days will Franco see Loretta again (lcm of 13 and 7)*
 
-> Loretta goes to an outpatient clinic every 13 days for treatment. On Thursdays, and only on Thursdays, Franco, Loretta's favourite nurse, serves in the ambulatory. Knowing that today, Thursday, Loretta went to the hospital, in how many days will she see Franco?
+> Loretta
+> goes
+> every
+> 13
+> days
+> to
+> a
+> clinic
+> for
+> treatment.
+> On Thursday, and only on Thursday, Franco, Loretta’s favourite nurse, works in the clinic. Knowing that today, Thursday, Loretta went to the clinic, in how many days will she see Franco again?
 >
 > - **(A)** 14
 > - **(B)** 35
@@ -60,7 +70,11 @@ level: biennio
 > - **(D)** 65
 > - **(E)** 91
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2012_biennio#q01|src_archimede_2012_biennio__Q01]]
 
 
 
@@ -90,9 +104,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Longest side courtyard triangle rectangle isosceles*
+*Longest side of an isosceles right-triangle courtyard*
 
-> The courtyard of Louis' house is shaped like an isosceles rectangle. Knowing that the yard area is 16 m2, how much is the longest side of the yard?
+> Luigi’s courtyard is in the shape of an isosceles right triangle. Knowing that the area of the courtyard is 16 m2, how long is the longest side of the courtyard?
 >
 > - **(A)** 2 m
 > - **(B)** 4 m
@@ -100,7 +114,10 @@ level: biennio
 > - **(D)** 8 m
 > - **(E)** 8 √ 2 m
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2012_biennio#q02|src_archimede_2012_biennio__Q02]]
 
 
 
@@ -130,9 +147,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A circular crown area of regular hexagon*
+*Area of the circular ring of a regular hexagon*
 
-> A regular side hexagon of 2 m is given. Calculate the area of the circular crown bounded by the inscribed circle and the circumscribed circle at the hexagon.
+> A regular hexagon of side 2 m is given. Calculate the area of the circular ring bounded by the inscribed circle and the circumscribed circle of the hexagon.
 >
 > - **(A)** π 2 m2
 > - **(B)** π m2
@@ -140,7 +157,10 @@ level: biennio
 > - **(D)** 2π m2
 > - **(E)** π 9 m2
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2012_biennio#q03|src_archimede_2012_biennio__Q03]]
 
 
 
@@ -179,9 +199,12 @@ level: biennio
 > - **(B)** 4840
 > - **(C)** 4830
 > - **(D)** 4850
-> - **(E)** The data on the problem are not sufficient to determine it
+> - **(E)** the data in the problem are not sufficient to determine it
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2012_biennio#q04|src_archimede_2012_biennio__Q04]]
 
 
 
@@ -217,9 +240,7 @@ level: biennio
 
 *1*
 
-![[src_archimede_2012_biennio__prob5.png]]
-
-> Knowing that the rectangle in the figure is divided by the slanted line into two parts of areas one quadruple the other, calculate the ratio between the dimensions of segments a and b.
+> Knowing that the rectangle in the figure is divided by the slanted line into two parts whose areas are in a ratio of 4 to 1, calculate the ratio between the measures of the segments a and b.
 >
 > - **(A)** 2/3
 > - **(B)** 1/4
@@ -227,7 +248,10 @@ level: biennio
 > - **(D)** 1/2
 > - **(E)** 2/5 a b
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2012_biennio#q05|src_archimede_2012_biennio__Q05]]
 
 
 
@@ -258,9 +282,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit numbers with each permutation divisible by 4*
+*Three-digit numbers with every permutation divisible by 4*
 
-> How many three-digit numbers are all different from 0, so that they're still permuting their digits the number you get is divisible by four?
+> How many three-digit numbers, all of whose digits are different from 0, are there such that, however their digits are permuted, the number obtained is divisible by four?
 >
 > - **(A)** 8
 > - **(B)** 12
@@ -268,7 +292,11 @@ level: biennio
 > - **(D)** 24
 > - **(E)** 48
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2012_biennio#q06|src_archimede_2012_biennio__Q06]]
 
 
 
@@ -301,17 +329,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of friends divided by 1260 figures
+*Maximum number of friends among whom to share 1260 stickers*
 
-> Mark distributes 1,260 figurines among all his friends, which are less than 100, giving each of them the same number of figurines and so he distributes them all. What is the maximum number of friends that Marco can have?
+> Marco distributes 1260 stickers among all his friends, of whom there are fewer than 100, giving each of them the same number of stickers and using all of the stickers. What is the maximum number of friends Marco can have?
 >
 > - **(A)** 70
 > - **(B)** 84
 > - **(C)** 90
 > - **(D)** 94
-> - **(E)** None of the above
+> - **(E)** none of the above
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2012_biennio#q07|src_archimede_2012_biennio__Q07]]
 
 
 
@@ -347,19 +379,21 @@ Maximum number of friends divided by 1260 figures
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to colour hexagonal bricks with three colours*
+*Ways of colouring hexagonal tiles with three colours*
 
-![[src_archimede_2012_biennio__prob8.png]]
-
-> One floor is tiled as shown. How many ways can you color hexagonal bricks in blue, red, and black so that two hexagonal bricks with one side in common never have the same color?
+> A floor is tiled as in the figure. In how many ways can the hexagonal tiles be coloured blue, red and black so that two hexagonal tiles that share a side never have the same colour?
 >
-> - **(A)** No one
+> - **(A)** none
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 6
-> - **(E)** infinitesimal
+> - **(E)** infinitely many
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2012_biennio#q08|src_archimede_2012_biennio__Q08]]
 
 
 
@@ -392,9 +426,12 @@ Maximum number of friends divided by 1260 figures
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of brown males in total pupils*
+*Percentage of brown-haired boys out of all students*
 
-> In one class the blondes make up 40 percent of the total while the rest are brown. Of all the blonde students, 75 percent are female. Knowing that the number of females in the class is equal to the number of males, what is the percentage of brown males out of the total number of students in the class?
+> In a class, blonde students are 40% of the total, while the rest are brown-haired.
+> Among all blonde students, 75% are female. Knowing that in the class the number
+> of females equals the number of males, what is the percentage of brown-haired boys
+> out of the total number of students in the class?
 >
 > - **(A)** 20%
 > - **(B)** 25%
@@ -402,7 +439,10 @@ Maximum number of friends divided by 1260 figures
 > - **(D)** 40%
 > - **(E)** 50%
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2012_biennio#q09|src_archimede_2012_biennio__Q09]]
 
 
 
@@ -434,9 +474,9 @@ Maximum number of friends divided by 1260 figures
 <div class="qlang-split" data-lang="en"></div>
 
 
-*XY distance from diagonal regular hexagonal intersections*
+*Distance XY from intersections of diagonals of a regular hexagon*
 
-> A regular side hexagon of 1 m length is given, the vertices of which, listed in chronological order, are A, B, C, D, E, F. X and Y are the intersections of the AC segment with the BF and BD segments respectively. Calculate the distance between X and Y .
+> A regular hexagon with side length 1 m is given, whose vertices, listed clockwise, are A, B, C, D, E, F. Let X and Y be the intersections of segment AC with segments BF and BD respectively. Calculate the distance between X and Y.
 >
 > - **(A)** 1 2 m
 > - **(B)** √ 3 3 m
@@ -444,7 +484,11 @@ Maximum number of friends divided by 1260 figures
 > - **(D)** 2 √ 3 3 m
 > - **(E)** √ 3 2 m
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2012_biennio#q10|src_archimede_2012_biennio__Q10]]
 
 
 
@@ -476,9 +520,9 @@ Maximum number of friends divided by 1260 figures
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to place pearless fruit between two apples*
+*Ways of arranging fruits with no pear between two apples*
 
-> Charles has six apples and six pears: how many ways can he line up 6 fruits so that between two apples there is never any pear?
+> Carlo has six apples and six pears: in how many ways can he line up 6 fruits so that there is never a pear between two apples?
 >
 > - **(A)** 16
 > - **(B)** 22
@@ -486,7 +530,11 @@ Maximum number of friends divided by 1260 figures
 > - **(D)** 35
 > - **(E)** 39
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2012_biennio#q11|src_archimede_2012_biennio__Q11]]
 
 
 
@@ -519,17 +567,23 @@ Maximum number of friends divided by 1260 figures
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Certain inequality between fractions by a/b<=c/d<=1*
+*Inequality that must hold for fractions given a/b ≤ c/d ≤ 1*
 
-> 4 positive integers a, b, c, d such that a b ≤c d ≤1 are fixed. Which of the following inequalities is certainly true?
+> Four positive integers a, b, c, d are fixed such that a
+> b ≤c
+> d ≤1. Which of the following inequalities is certainly true?
 >
 > - **(A)** a + c b + d ≥a b + c d
 > - **(B)** a + c b + d < a b
 > - **(C)** a + c b + d ≤c d
 > - **(D)** a + c b + d > 1
-> - **(E)** None of the preceding
+> - **(E)** none of the above
 
-**Answer:** C
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2012_biennio#q12|src_archimede_2012_biennio__Q12]]
 
 
 
@@ -566,9 +620,15 @@ Maximum number of friends divided by 1260 figures
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance after 17 jumps with saddle rotations*
+*Distance after 17 jumps with locust rotations*
 
-> A squirrel moves by making jumps of exactly 10 centimeters. His motorcycle follows this pattern: he makes a number of jumps in a given direction, then rotates to his left of 120° and makes, in the new direction, twice the jumps he had made in the previous direction. At this point, turn again 120° to the left and double the number of jumps once again. Knowing that it starts with a single jump in a given direction, how far from the starting point will it be after 17 jumps?
+> A locust moves by making jumps of exactly 10 cm. Its motion follows
+> this pattern: it makes a certain number of jumps in a given direction, then turns
+> to its left by 120° and makes, in the new direction, twice as many jumps as it had
+> made in the previous direction. At this point it turns again by 120° to the left and
+> doubles the number of jumps once more. Knowing that it starts by making a single
+> jump in a given direction, at what distance from the starting point will it be after
+> 17 jumps?
 >
 > - **(A)** 20 cm
 > - **(B)** 20 √ 3 cm
@@ -576,7 +636,11 @@ Maximum number of friends divided by 1260 figures
 > - **(D)** 40 √ 3 cm
 > - **(E)** 50 cm
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2012_biennio#q13|src_archimede_2012_biennio__Q13]]
 
 
 
@@ -612,17 +676,24 @@ Maximum number of friends divided by 1260 figures
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Price increase of petrol by 10%*
+*Increase in petrol price from a 10% increase in oil price*
 
-> As of 22 November 2012, the price of petrol is 35% of the cost of the product, which is in turn composed of several items (oil, refining, distribution costs, etc.); the cost of oil today constitutes 24% of the cost of the product. Given that on 1 January 2013 the price of oil will increase by 10% and the other costs will remain unchanged, how much will the price of gasoline increase on that date?
+> On 22 November 2012 the price of petrol is given for 35% by the cost of the
+> product, which is in turn made up of several items (oil, refining, distribution
+> costs, etc.); the cost of oil today constitutes 24% of the cost of the
+> product.
+> Knowing that on 1 January 2013 the price of oil will increase by 10% and the other costs will remain unchanged, by how much will the price of petrol increase on that date?
 >
 > - **(A)** 10%
-> - **(B)** 2,4%
-> - **(C)** 3,5%
-> - **(D)** 0,84 %
-> - **(E)** None of the preceding
+> - **(B)** 2.4%
+> - **(C)** 3.5%
+> - **(D)** 0.84%
+> - **(E)** none of the above
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2012_biennio#q14|src_archimede_2012_biennio__Q14]]
 
 
 
@@ -653,9 +724,9 @@ Maximum number of friends divided by 1260 figures
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of removing the same paper by reinserting*
+*Probability of drawing the same card again with replacement*
 
-> From a deck of 40 cards one is extracted, which is immediately reinserted into the deck; the deck is then mixed, and a new card is extracted. What is the probability that the new paper is the same as the previous paper?
+> From a deck of 40 cards, one card is drawn, which is immediately put back into the deck; the deck is then shuffled, and a new card is drawn. What is the probability that the new card is the same card drawn previously?
 >
 > - **(A)** 1/1600
 > - **(B)** 1/40
@@ -663,7 +734,10 @@ Maximum number of friends divided by 1260 figures
 > - **(D)** 1/20
 > - **(E)** 1 40·39
 
-**Answer:** B
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2012_biennio#q15|src_archimede_2012_biennio__Q15]]
 
 
 
@@ -715,33 +789,21 @@ Maximum number of friends divided by 1260 figures
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True property in relation to AHC and ABC areas*
+*Which statement must hold when the area ratio equals AC to 2AB*
 
 ![[src_archimede_2012_biennio__prob16.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (6,0);
-  \coordinate (C) at (2.3,3);
-  \coordinate (H) at (2.3,0);
-  \draw (A) -- (B) -- (C) -- cycle;
-  \draw[dashed] (C) -- (H);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above] at (C) {$C$};
-  \node[below] at (H) {$H$};
-\end{tikzpicture}
-\end{document}
-```
-
-> Either ABC is an acutangol triangle and either H on the AB side the foot of height from the C vertex. Suppose the area of the AHC triangle is at that of the ABC triangle as AC is at 2AB. Which of the following is certainly true?
+> Let ABC be an acute-angled triangle, and let H, on the side AB, be the foot of the altitude from the vertex C. Suppose that the area of triangle AHC is to the area of triangle ABC as AC is to 2AB. Which of the following statements is certainly true?
 >
-> - **(A)** ABC is rectangle
-> - **(B)** D CAB = 60°
+> - **(A)** ABC is right-angled
+> - **(B)** d CAB = 60°
 > - **(C)** AB = 2AH
 > - **(D)** AB = AC
-> - **(E)** ABC is equal.
+> - **(E)** ABC is equilateral
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2012_biennio#q16|src_archimede_2012_biennio__Q16]]

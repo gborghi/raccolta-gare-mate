@@ -33,11 +33,14 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To divide the trapezoid into m+n trapezoids of equal area, minimum m+n*
+*Least m+n when a trapezium of bases 1 and 4, cut at height-length 3, is split into m and n equal-area trapeziums*
 
-> A trapezoid is given with long bases 1 and 4, respectively. We divide it into two trapezoids by a cut parallel to the bases, length 3. We now want to divide the two new trapezoids, always by cutting parallel to the bases, into m and n trapezoids, respectively, so that all the m + n trapezoids obtained have the same area. Determine the minimum possible value for m + n and the lengths of the cuts to be made to achieve this minimum value.
+> A trapezium is given, with bases of lengths 1 and 4 respectively. We divide it into two trapeziums by a cut parallel to the bases, of length 3. We now wish to divide the two new trapeziums, again by cuts parallel to the bases, into m and n trapeziums respectively, so that all the m + n trapeziums obtained have the same area. Determine the least possible value of m + n, and the lengths of the cuts to be made in order to achieve that least value.
 
-**Answer:** 15 (cuts of length sqrt2..sqrt15)
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2011#q01|src_cesenatico_2011__Q01]]
 
 
 
@@ -67,9 +70,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Existence of two scales with MCD terms =1 and >1*
+*Two ladders of length n, disjoint, with highest common factor 1 termwise, and two with highest common factor greater than 1*
 
-> A sequence of positive integers a1, a2, . . . , an is called a length scale n if it consists of n consecutive numbers, in ascending order. (a) Demonstrate that for each positive integer n there are two length scales n, with no elements in common, a1, a2, . . . , an e b1, b2, . . . , bn, such that for each i between 1 and n the maximum common divisor between a and b is equal to 1. (b) Demonstrate that for every positive integer n there are two length scales n, with no elements in common, a1, a2, . . . , an e b1, b2, . . . , bn, such that for each i between 1 and n the maximum common divisor between a and b is greater than 1.
+> A sequence of positive integers a1, a2, . . . , an is called a ladder of length n if it consists of n consecutive numbers, in increasing order.
+> (a) Prove that for every positive integer n there exist two ladders of length n, with no element in common, a1, a2, . . . , an and b1, b2, . . . , bn, such that for every i between 1 and n the highest common factor of ai and bi equals 1.
+> (b) Prove that for every positive integer n there exist two ladders of length n, with no element in common, a1, a2, . . . , an and b1, b2, . . . , bn, such that for every i between 1 and n the highest common factor of ai and bi is greater than 1.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_induzione|Induction]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2011#q02|src_cesenatico_2011__Q02]]
 
 
 
@@ -102,11 +113,20 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final number unchanged per parity*
+*If a sequence of moves leaves a single number on the board, that number does not depend on the sequence*
 
-> On a board are written whole numbers, ranging from 1 to 7. It is possible that not all numbers from 1 to 7 are present, and it is also possible that one, some or all numbers are repeated, one or more times. A move consists of choosing one or more numbers on the board, although they are all different, deleting them, and writing in their place the numbers that, together with those deleted, form the whole together {1, 2, 3, 4, 5, 6, 7}. For example, permitted moves are:
-> 
-> • delete a 4 and a 5, and write the numbers 1, 2, 3, 6 and 7 instead; • delete a 1, 2, 3, 4, 5, 6 and 7 without writing anything in their place. Demonstrate that, if you can find a sequence of moves that, starting from the initial situation, leads to having a single number (written only once) on the board, then this number does not depend on the sequence of moves used.
+> On a blackboard some integers are written, between 1 and 7 inclusive. It is possible that not all the numbers from 1 to 7 are present, and it is also possible that one, some, or all of the numbers are repeated, once or more than once.
+> A move consists in choosing one or more numbers present on the blackboard, provided they are all different, erasing them, and writing in their place the numbers which, together with those erased, make up the whole set {1, 2, 3, 4, 5, 6, 7}.
+> For example, allowed moves are:
+> • erase a 4 and a 5, and write in their place the numbers 1, 2, 3, 6 and 7;
+> • erase a 1, a 2, a 3, a 4, a 5, a 6 and a 7, writing nothing in their place.
+> Prove that, if it is possible to find a sequence of moves which, starting from the initial situation, leads to having a single number on the blackboard (written once only), then this number does not depend on the sequence of moves used.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2011#q03|src_cesenatico_2011__Q03]]
 
 
 
@@ -134,11 +154,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*angles and sides*
+*The external-bisector angles are equal if and only if AD + AC = BC + BD*
 
-![[src_cesenatico_2011__prob4.png]]
+> Let ABCD be a convex quadrilateral. Let P be the intersection of the external bisectors of $\widehat{DAC}$ and $\widehat{DBC}$.
+> Prove that $\widehat{APD}$ = $\widehat{BPC}$ if and only if AD + AC = BC + BD.
+> [Note: recall that the external bisector of an angle is the line through the vertex of the angle and perpendicular to the internal bisector (that is, the usual bisector) of the angle itself.]
 
-> Let ABCD be a convex quadrilateral. Both P the intersection of the outer blades of $\widehat{DAC}$ and $\widehat{DBC}$. Show that $\widehat{APD}$ = $\widehat{BPC}$ if and only if AD + AC = BC + BD. [Note: Please note that the outer edge of an angle is the straight line passing through the top of the angle and perpendicular to the inner edge (i.e. the usual edge) of the angle itself.]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[src_cesenatico_2011__prob4.png]]
 
 
 
@@ -164,11 +190,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integres of n^3 = p^2 - p - 1 with p prime*
+*Integer solutions of n3 = p2 −p −1 with p prime*
 
-> Determine all solutions (p, n) of the equation n3 = p2 −p −1 where p is a prime number and n is an integer.
+> Determine all solutions (p, n) of the equation
+> n3 = p2 −p −1
+> where p is a prime number and n is an integer.
 
-**Answer:** (2,1) e (37,11)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2011#q05|src_cesenatico_2011__Q05]]
 
 
 
@@ -195,6 +227,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*4 colours are enough, 3 no*
+*Four colours suffice, and three do not, for the 3-element subsets of an 8-element set*
 
-> If X is equal to {1, 2, 3, 4, 5, 6, 7, 8}. We want to colour, using k colors, all the subset of 3 elements of X so that, however you choose two disjoint elements, they have distinct colors. Demonstrate that: (a) 4 colours are sufficient; (b) 3 colours are not sufficient.
+> Let X = {1, 2, 3, 4, 5, 6, 7, 8}. We wish to colour, using k colours, all the 3-element subsets of X in such a way that, however one chooses two disjoint ones, they have distinct colours.
+> Prove that:
+> (a) 4 colours are sufficient;
+> (b) 3 colours are not sufficient.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2011#q06|src_cesenatico_2011__Q06]]

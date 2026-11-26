@@ -31,11 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare la somma delle distanze quadrate da un punto su una linea*
+*Il punto $F$ sulla retta $\ell$ che rende minima $FA^2 + FB^2$*
 
-> Due punti $A$, $B$ e una linea $\ell$ sono indicati in un piano. Indicare, con la prova, il punto $F$ su $\ell$ in modo tale che $FA^2 + FB^2$ sia un minimo, dove $F$ è il piede della perpendicolare da $F$ a $\ell$.
-> 
-> Presentare una presentazione senza prova per almeno tre punti $A$, $B$, $C$ e $FA^2 + FB^2 + FC^2$.
+> Sono dati in un piano due punti $A$, $B$ e una retta $\ell$. Individuare, con dimostrazione, il punto $F$ su $\ell$ tale che $FA^2 + FB^2$ sia minima, dove $F$ è il piede della perpendicolare da $F$ a $\ell$.
+>
+> Dare una presentazione senza dimostrazione per tre punti $A$, $B$, $C$ e $FA^2 + FB^2 + FC^2$ minima.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1983#q01|src_bmo2_1983__Q01]]
 
 
 
@@ -60,11 +67,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo triangolare di nove punti; circoncidente perpendicolare al lato*
+*Dimostrare che $OA$ è perpendicolare a un lato di $T$*
 
-> Considerate il cerchio a nove punti del triangolo $ABC$, cioè i tre cerchi distinti ognuno dei quali tocca un lato del triangolo $ABC$ internamente e gli altri due esternamente. Entrambi questi cerchi interamente toccanti hanno solo una tangente comune che non è un lato del triangolo $ABC$, e i tre tali tangenti comuni formano un triangolo $T$.
-> 
-> $O$ è il circoncentro del triangolo $ABC$. Prova che $OA$ è perpendicolare a un lato di $T$.
+> Si consideri il cerchio dei nove punti del triangolo $ABC$, cioè le tre circonferenze distinte ciascuna delle quali è tangente internamente a un lato del triangolo $ABC$ ed esternamente agli altri due. Entrambe queste circonferenze tangenti internamente hanno esattamente una tangente comune che non è un lato del triangolo $ABC$, e le tre tali tangenti comuni formano un triangolo $T$.
+>
+> $O$ è il circocentro del triangolo $ABC$. Dimostrare che $OA$ è perpendicolare a un lato di $T$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1983#q02|src_bmo2_1983__Q02]]
 
 
 
@@ -87,9 +101,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre linee nello spazio; segmento di lunghezza costante RS*
+*Il segmento $RS$ ha lunghezza costante*
 
-> $\ell$, $m$, $n$ sono tre linee nello spazio. Né $\ell$ né $m$ sono perpendicolari a $n$. I punti $P$ su $\ell$ e $Q$ su $m$ sono tali che $PQ$ sia perpendicolare a $n$. Il piano attraverso $P$ perpendicolare a $\ell$ incontra $m$ a $R$, e il piano attraverso $Q$ perpendicolare a $m$ incontra $\ell$ a $S$. Provare che $RS$ è di lunghezza costante.
+> $\ell$, $m$, $n$ sono tre rette nello spazio. Né $\ell$ né $m$ è perpendicolare a $n$. I punti $P$ su $\ell$ e $Q$ su $m$ sono tali che $PQ$ è perpendicolare a $n$. Il piano per $P$ perpendicolare a $\ell$ incontra $m$ in $R$, e il piano per $Q$ perpendicolare a $m$ incontra $\ell$ in $S$. Dimostrare che $RS$ ha lunghezza costante.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1983#q03|src_bmo2_1983__Q03]]
 
 
 
@@ -113,9 +134,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza per sei valori reali positivi: somma del tipo ab/(a+b)*
+*Una disuguaglianza fra tre medie armoniche e un prodotto di somme*
 
-> Prova che se $a$, $b$, $c$, $d$, $e$, $f$ sono numeri reali positivi allora $$\frac{ab}{a+b} + \frac{cd}{c+d} + \frac{ef}{e+f} \le \frac{(a+c+e)(b+d+f)}{a+b+c+d+e+f}.$$
+> Dimostrare che, se $a$, $b$, $c$, $d$, $e$, $f$ sono numeri reali positivi, allora
+> $$\frac{ab}{a+b} + \frac{cd}{c+d} + \frac{ef}{e+f} \le \frac{(a+c+e)(b+d+f)}{a+b+c+d+e+f}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1983#q04|src_bmo2_1983__Q04]]
 
 
 
@@ -141,9 +170,19 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi di conteggio di 18 che soddisfano sette condizioni di ordine*
+*Il numero di disposizioni di $1,2,3,4,5,6,7,8$ con quelle sette disuguaglianze*
 
-> Trova il numero di accordi $$a,\ b,\ c,\ d,\ e,\ f,\ g,\ h$$ dei numeri $1,2,3,4,5,6,7,8$ che soddisfano tutte le sette condizioni $$a < b,\ c < d,\ e < f,\ g < h \quad \text{and} \quad b > c,\ d > e,\ f > g.$$
+> Trovare il numero di disposizioni
+> $$a,\ b,\ c,\ d,\ e,\ f,\ g,\ h$$
+> dei numeri $1,2,3,4,5,6,7,8$ che soddisfano tutte e sette le condizioni
+> $$a < b,\ c < d,\ e < f,\ g < h \quad \text{and} \quad b > c,\ d > e,\ f > g.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1983#q05|src_bmo2_1983__Q05]]
 
 
 
@@ -168,9 +207,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di integri positivi (n,k) con (n+1)^k = n!+1*
+*Tutte le coppie $(n,k)$ tali che $(n+1)^k = n! + 1$*
 
-> $n$ e $k$ sono integri positivi. Trova tutte le coppie $(n,k)$ soddisfacenti $$(n+1)^k = n! + 1,$$ che dimostrano di avere l'insieme completo delle soluzioni.
+> $n$ e $k$ sono interi positivi. Trovare tutte le coppie $(n,k)$ che soddisfano
+> $$(n+1)^k = n! + 1,$$
+> dimostrando di avere l'insieme completo delle soluzioni.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1983#q06|src_bmo2_1983__Q06]]
 
 
 
@@ -197,10 +245,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colonia di topi (mn+1): anticetena di dimensione m+1 o catena di dimensione n+1*
+*In una colonia di $(mn+1)$ topi vale (a) oppure (b)*
 
-> In una colonia di topi $(mn+1)$, dimostrare che almeno una delle seguenti affermazioni è vera:
-> 
-> (a) C'è un insieme $A$ di topi $(m+1)$ nessuno dei quali è genitore di nessun altro nel gruppo.
-> 
-> b) Esiste un insieme ordinato $B$ di topi $(n+1)$ $a_1, a_2, \ldots, a_n, a_{n+1}$ in modo tale che $a_{i+1}$ sia il genitore di $a_i$ per ciascun $i = 1, 2, \ldots, n$.
+> In una colonia di $(mn+1)$ topi, dimostrare che almeno una delle affermazioni seguenti è vera:
+>
+> (a) Esiste un insieme $A$ di $(m+1)$ topi, nessuno dei quali è genitore di un altro dell'insieme.
+>
+> (b) Esiste un insieme ordinato $B$ di $(n+1)$ topi $a_1, a_2, \ldots, a_n, a_{n+1}$ tale che $a_{i+1}$ è genitore di $a_i$ per ogni $i = 1, 2, \ldots, n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1983#q07|src_bmo2_1983__Q07]]

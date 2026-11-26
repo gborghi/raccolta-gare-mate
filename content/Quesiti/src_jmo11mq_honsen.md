@@ -29,9 +29,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*m×n colorazione della griglia: ogni cella nera ha parecchi vicini neri; mostrare m,n odd*
+*Colorazione di una griglia m×n: ogni cella nera ha un numero dispari di vicini neri; mostra che m e n sono dispari*
 
-> È data una griglia $m \times n$ di quadrati unitari. Ogni cellula è colorata in bianco o nero soddisfacendo la seguente condizione: per ogni cellula nera, il numero di cellule nere che condividono un bordo con essa è strano. Indicare che sia $m$ che $n$ devono essere pari.
+> È data una griglia $m \times n$ di quadrati unitari. Ogni cella è colorata di nero o di bianco in modo da soddisfare la seguente condizione: per ogni cella nera, il numero di celle nere che condividono un lato con essa è dispari. Dimostrare che sia $m$ sia $n$ devono essere dispari.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jmo11mq_honsen#q01|src_jmo11mq_honsen__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mapa di prodotto digito f(n); trovare tutti gli integri positivi n con f(n)=n*
+*Mappa del prodotto digitale f(n); trova tutti gli interi positivi n tali che f(n)=n*
 
-> Per un intero positivo $n$ scritto in decimale come $n = \overline{a_m a_{m-1} \cdots a_1}$ con $a_m \ne 0$ e $0 \le a_i \le 9$, definire $$f(n) = (a_m + 1)(a_{m-1} + 1) \cdots (a_1 + 1).$$ Trovare tutti gli integri positivi $n$ soddisfacenti $f(n) = n$.
+> Per un numero intero positivo $n$ scritto in base decimale come $n = \overline{a_m a_{m-1} \cdots a_1}$ con $a_m \ne 0$ e $0 \le a_i \le 9$, definisci $$f(n) = (a_m + 1)(a_{m-1} + 1) \cdots (a_1 + 1).$$. Trovare tutti i numeri interi positivi $n$ che soddisfano $f(n) = n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jmo11mq_honsen#q02|src_jmo11mq_honsen__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per i reali non negativi con un ≥b≥c≥0, provare (a+b+c)(a3+b3+c3)≤4(a6+b6+c6); trovare casi di uguaglianza*
+*Per numeri reali non negativi tali che a≥b≥c≥0, dimostrare che (a+b+c)(a³+b³+c³)≤4(a⁶+b⁶+c⁶); determinare i casi di uguaglianza*
 
-> $a, b, c$ siano numeri reali non negativi con $a \ge b \ge c \ge 0$. Prove che $$(a + b + c)(a^3 + b^3 + c^3) \le 4(a^6 + b^6 + c^6),$$ e trova tutte le condizioni in cui l'uguaglianza esiste.
+> Siano $a, b, c$ numeri reali non negativi tali che $a \ge b \ge c \ge 0$. Dimostrare che $$(a + b + c)(a^3 + b^3 + c^3) \le 4(a^6 + b^6 + c^6),$$ e determinare tutte le condizioni in cui vale l'uguaglianza.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jmo11mq_honsen#q03|src_jmo11mq_honsen__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Qualsiasi primo p e m positivo: qualche moltiplo di p ha ≥m zeri consecutivi in decimale*
+*Per ogni numero primo p e ogni m positivo, qualche multiplo di p ha almeno m zeri consecutivi nella rappresentazione decimale*
 
-> Lasciate che $p$ sia un primo e $m$ un intero positivo. Indicare che esiste un intero positivo $n$ tale che la rappresentazione decimale di $p \times n$ contenga almeno $m$ zeri consecutivi.
+> Sia $p$ un numero primo e $m$ un numero intero positivo. Mostrare che esiste un numero intero positivo $n$ tale che la rappresentazione decimale di $p \times n$ contenga almeno $m$ zeri consecutivi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jmo11mq_honsen#q04|src_jmo11mq_honsen__Q04]]
 
 
 
@@ -129,6 +157,13 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli ABC, PQR: condizioni di punto medio e angolo-bisettore; dimostrare AB+AC=PQ+PR*
+*Triangoli ABC, PQR: condizioni sui punti medi e sulle bisettrici; dimostrare che AB+AC=PQ+PR*
 
-> In un piano, i triangoli $ABC$ e $PQR$ soddisfano entrambe le seguenti condizioni:\n(1) Il punto $A$ è il punto medio di $QR$, e il punto $P$ è il punto medio di $BC$.\n(2) Il segmento di linea $QR$ è il bisettore angolare di $\angle BAC$, e il segmento di linea $BC$ è il bisettore angolare di $\angle QPR$.\nProva che $AB + AC = PQ + PR$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> In un piano, i triangoli $ABC$ e $PQR$ soddisfano entrambe le seguenti condizioni:\n(1) Il punto $A$ è il punto medio di $QR$, e il punto $P$ è il punto medio di $BC$.\n(2) Il segmento $QR$ è la bisettrice dell'angolo $\angle BAC$, e il segmento $BC$ è la bisettrice dell'angolo $\angle QPR$.\nDimostrare che $AB + AC = PQ + PR$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jmo11mq_honsen#q05|src_jmo11mq_honsen__Q05]]

@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many brown balls in Elena's 20*
+*How many brown marbles are there among Elena's 20?*
 
-> Elena has 20 balls, each colored with one and only one of the following colors: green, red, blue, brown. 17 are not green, 5 are red, 12 are not blue. How many brown balls are there?
+> Elena has 20 marbles, each colored with one and only one of the following colors: green, red, blue, brown. 17 are not green, 5 are red, and 12 are not blue. How many marbles are brown?
 
-**Answer:** 4
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_insiemi_funzioni|Sets and functions]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_cadet_finale#qc1|src_kangourou_2012_cadet_finale__QC1]]
 
 
 
@@ -57,11 +61,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last digit of the product of the odd numbers between 1 and 2012*
+*Final digit of the product of the odd numbers between 1 and 2012*
 
-> If all odd integers between 1 and 2012 are multiplied by each other, what number does the product end with?
+> If all the odd integers between 1 and 2012 are multiplied together, what digit does the product end in?
 
-**Answer:** 5
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_cadet_finale#qc2|src_kangourou_2012_cadet_finale__QC2]]
 
 
 
@@ -84,11 +93,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many spheres for three non-aligned points and minimum radius*
+*How many spheres for three non-collinear points with minimum radius?*
 
-> Assigned three non-aligned points in space, how many spheres pass through these three points? If you have more than one, how can you determine the radius of the one with the least radius?
+> Given three non-collinear points in space, how many spheres pass through these three points? If more than one sphere passes through them, how can the radius of the sphere with the smallest radius be determined?
 
-**Answer:** infinitely many
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_cadet_finale#qc3|src_kangourou_2012_cadet_finale__QC3]]
 
 
 
@@ -114,13 +127,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*You can get sum 2012 on the exposed faces of the dice*
+*A sum of 2012 can be obtained on the exposed faces of the dice*
 
 ![[src_kangourou_2012_cadet_finale__probc4.png]]
 
-> Peter wants to line up a number of traditional dice (the sum of points on opposite faces is always 7), as the figure shows. He joins two faces together only if the number of points on both faces is equal, and he wants to get a row so that the sum of points on all the faces exposed is 2012. Can he do it, and if so, how many dice does he have to use? (see figure)
+> Pietro wants to line up a certain number of traditional dice (the sum of the dots on opposite faces is always 7), as shown in the figure. Glue two faces together only if the number of dots on the two faces is equal, and he wants to obtain a row such that the sum of the dots on all the exposed faces is 2012. Can he succeed, and if so, how many dice must he use? (see figure)
 
-**Answer:** no
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_cadet_finale#qc4|src_kangourou_2012_cadet_finale__QC4]]
 
 
 
@@ -143,11 +161,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of buttons to know which floor is located*
+*Minimum number of buttons needed to know which floor it is on*
 
-> Maurizio is in a 99-story skyscraper, but he doesn't remember what floor it is. The system to call the elevator is unusual. Each floor has a keypad with buttons from 0 to 99: pressing a button the elevator will reach the floor corresponding to the number shown on the key, but it will be occupied for a time that is not related in any way to the distance travelled. Considering that Maurizio can see through the glass of the door if the elevator is passing through his floor and that the elevator is now on floor 0, what is the minimum number of buttons pressed which will guarantee that he knows which floor he is on?
+> Maurizio is in a 99-story skyscraper, but he doesn't remember which floor he is on. The system for calling the elevator is unusual. On each floor there is a control panel with buttons numbered from 0 to 99: when a button is pressed, the elevator will go to the floor corresponding to the number on the button, but the elevator will be occupied for a period of time that has no connection whatsoever to the distance traveled. Given that Maurizio can see through the glass of the door whether the elevator passes by his floor and that the elevator is currently on floor 0, what is the minimum number of buttons that he must press to be guaranteed of knowing which floor he is on?
 
-**Answer:** 6
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_cadet_finale#qc5|src_kangourou_2012_cadet_finale__QC5]]
 
 
 
@@ -177,6 +199,11 @@ level: kangourou
 
 ![[src_kangourou_2012_cadet_finale__probc6.png]]
 
-> Prove that every polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces that have the same number of edges. Do there exist polyhedra that do not have (at least) three faces with the same number of edges?
+> Prove that every polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces with the same number of edges. Are there polyhedra that do not have (at least) three faces with the same number of edges?
 
-**Answer:** yes
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_cadet_finale#qc6|src_kangourou_2012_cadet_finale__QC6]]

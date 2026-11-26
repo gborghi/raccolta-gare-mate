@@ -37,13 +37,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parallelepiped composed of six bricks*
+*Which box can be built from these six bricks?*
 
 ![[src_kangourou_2021_benjamin__prob1.png]]
 
-> Which of the parallel pipes shown in the answers can be composed using these six identical-sized bricks? A) B) C) D) E)
+> Which of the boxes shown in the answers can be built using these six bricks, identical in size?
+>
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_benjamin#q01|src_kangourou_2021_benjamin__Q01]]
 
 
 
@@ -74,13 +84,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times are two left hands held together*
+*How many times are both clasping hands left hands?*
 
 ![[src_kangourou_2021_benjamin__prob2.png]]
 
-> In this picture, all the children are holding hands. How many times does it happen that both hands that are holding together are left hands? A) 1 B) 2 C) 3 D) 4 E) 5
+> In this picture all the children are holding hands. How many times does it happen that both of the hands that clasp are left hands?
+>
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_benjamin#q02|src_kangourou_2021_benjamin__Q02]]
 
 
 
@@ -111,13 +131,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the addition in the tile puzzle*
+*What is the result?*
 
 ![[src_kangourou_2021_benjamin__prob3.png]]
 
-> By correctly fitting the five puzzle tiles together, you get a rectangle in which you read an addition. What is the result? A) 22 B) 32 C) 41 D) 122 E) 203
+> If the five puzzle tiles are fitted together correctly, one obtains a rectangle in which an addition can be read. What is the result?
+>
+> A) 22
+> B) 32
+> C) 41
+> D) 122
+> E) 203
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_benjamin#q03|src_kangourou_2021_benjamin__Q03]]
 
 
 
@@ -159,14 +189,29 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Path that makes you write the greatest number*
+*Which path lets Lisa write the largest number?*
 
 ![[src_kangourou_2021_benjamin__prob4.png]]
 
-> In the figure, you can see how Lisa put the digits 1 through 9 in a square. Lisa plays like this: she draws a path that connects some digits and then composes the number she gets by transcribing in order the digits she encounters along the path, starting with the one she marked with a star. For example, with the path on the left, she would write the number 42685. Which of the following paths allows Lisa to write the largest number? A) B) C) D) E) 1 2 2 0
+> The picture shows how Lisa entered the digits from 1 to 9 in a square. Lisa plays like this: she draws a path that joins some digits, and then she makes the number obtained by writing, in order, the digits she meets on the path, starting from the one she has marked with a star. For example, with the path on the left she would write the number 42685. Which of the following paths lets Lisa write the largest number?
 >
+> A)
+> B)
+> C)
+> D)
+> E)
+>
+> 1
+> 2
+> 2
+> 0
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_benjamin#q04|src_kangourou_2021_benjamin__Q04]]
 
 
 
@@ -202,21 +247,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number corresponding to the mark on the cylinder*
+*Which number is at the mark indicated by the question mark?*
 
 ![[src_kangourou_2021_benjamin__prob5.png]]
 
-> A tape meter is wrapped around a cylinder as shown in the figure. What number corresponds to the mark indicated by the question mark? A) 53
-> 	
+> A tape measure is wound around a cylinder, as the picture shows. Which number is found at the mark indicated by the question mark?
+>
+> A) 53
 > B) 60
-> 	
 > C) 69
-> 	
 > D) 77
-> 	
 > E) 81
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_benjamin#q05|src_kangourou_2021_benjamin__Q05]]
 
 
 
@@ -252,21 +299,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Letters to be extracted from vessel 4 to write GENIO*
+*Which letter must she take from vase 4?*
 
 ![[src_kangourou_2021_benjamin__prob6.png]]
 
-> Sofia wants to write the word GENIO by extracting a letter from each of these five vessels. What letter should you extract from vessel 4? A) O
-> 	
+> Sofia wants to write the word GENIO by taking one letter from each of these five vases. Which letter must she take from vase 4?
+>
+> A) O
 > B) E
-> 	
 > C) N
-> 	
 > D) G
-> 	
-> E) She can't.
+> E) She cannot do it.
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_benjamin#q06|src_kangourou_2021_benjamin__Q06]]
 
 
 
@@ -301,15 +350,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure that can exit the G opening with translations*
+*Which figure can leave through opening G?*
 
 ![[src_kangourou_2021_benjamin__prob7.png]]
 
-> Suppose that you can move (even several times) a drawn figure on a square sheet but only in the directions indicated by the 4 arrows. Which of the five figures in the drawing can, in the absence of the others, exit the rectangle through the G opening? A) A B) B
-> 	
-> C) C D) D E) E
+> Suppose you may translate a figure drawn on squared paper (more than once, if you like), but only in the directions shown by the 4 arrows. Which of the five figures in the drawing can, if the others are not there, leave the rectangle through the opening G?
+>
+> A) A
+> B) B
+> C) C
+> D) D
+> E) E
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_benjamin#q07|src_kangourou_2021_benjamin__Q07]]
 
 
 
@@ -343,13 +400,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Original shape of the sheet folded twice*
+*Which shape could the original sheet have had?*
 
 ![[src_kangourou_2021_benjamin__prob8.png]]
 
-> Mary had a sheet of paper. She folded it exactly in half and then folded it in half again and got the figure to the right. Of the P, Q and R shapes you see on the left, which could have been the original paper? A) Only P. B) Only Q. C) Only R. D) Only P or Q. E) Any one of the three forms.
+> Maria had a sheet of paper. She folded it exactly in half, then folded it in half again, and obtained the figure on the right. Among the shapes P, Q and R that you see on the left, which could have been the shape of the original sheet?
+>
+> A) Only P.
+> B) Only Q.
+> C) Only R.
+> D) Only P or Q.
+> E) Any one of the three shapes.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_benjamin#q08|src_kangourou_2021_benjamin__Q08]]
 
 
 
@@ -377,11 +444,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sure assertion by taking 20 fruits*
+*Which statement is certainly true?*
 
-> In one box were 20 apples and 20 pears. Carlo took 20 fruits at random from the box and Luca took all the rest. Which of the following is certainly true? A) Carlo took at least one pear. B) Carlo took the same number of apples and pears. C) Carlo took the same number of apples as Luca. D) Carlo took as many pears as the apples that Luca took. E) Carlo took the same number of pears as Luca.
+> In a crate there were 20 apples and 20 pears. Carlo took 20 fruits from the crate at random, and Luca took all those that were left. Which of the following statements is certainly true?
+>
+> A) Carlo took at least one pear.
+> B) Carlo took the same number of apples and of pears.
+> C) Carlo took the same number of apples as Luca.
+> D) Carlo took as many pears as the apples Luca took.
+> E) Carlo took the same number of pears as Luca.
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_benjamin#q09|src_kangourou_2021_benjamin__Q09]]
 
 
 
@@ -441,23 +518,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dani drawing in which the colour is 1/8 of the square*
+*Which drawing is Dani's?*
 
 ![[src_kangourou_2021_benjamin__prob10.png]]
 
-> In a square, Dani has mapped segments with endpoints at a vertex of the square or midpoints of its sides or other previously identified segments. Then he colored one of the figures delimited by the segments and observed that he colored 1/8 of the large square. What's Dani's design? A)
-> 	
+> In a square Dani drew segments whose endpoints were a vertex of the square, or midpoints of its sides, or midpoints of other segments already drawn. He then coloured one of the regions bounded by the segments, and noticed that he had coloured 1/8 of the large square. Which drawing is Dani's?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
-> 	
-> E) vessel 1 N E E G N I O N O E NG O E vessel 2 vessel 3 vessel 4 vessel 5 P Q R
-> 
-> The questions from N. 11 to N. 20 is worth 4 points each.
+> E)
+>
+> Questions 11 to 20 are worth 4 points each.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_benjamin#q10|src_kangourou_2021_benjamin__Q10]]
 
 
 
@@ -488,11 +567,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smaller sum by cutting 5021972970 into three*
+*What is the smallest sum Giulio can have obtained?*
 
-> Giulio wrote the number 5021972970 on a strip of paper; then he cut the strip at two points; thus he got three numbers that he then went to add up. What's the smallest sum that Giulio could have gotten? A) 3244 B) 3444 C) 5172 D) 5217 E) 5444
+> Giulio wrote the number 5021972970 on a strip of paper; then he cut the strip in two places. He thus obtained three numbers, which he then added up. What is the smallest sum Giulio can have obtained?
+>
+> A) 3244
+> B) 3444
+> C) 5172
+> D) 5217
+> E) 5444
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_benjamin#q11|src_kangourou_2021_benjamin__Q11]]
 
 
 
@@ -534,15 +624,30 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of outermost circular path*
+*How many kilometres long is the outermost circular route?*
 
 ![[src_kangourou_2021_benjamin__prob12.png]]
 
-> The map shows the terminals A, B and C of three circular bus lines and some of the places they connect. • Terminal route A - zoo - port - terminal A is 10 km long; • Terminal route B - park - zoo - terminal B is 12 km long; • Terminal route C - port - park - terminal C is 13 km long; • The mixed route on three lines: zoo - park - port - zoo is 15 km long. How long is the circular path along the outermost road shown on the map? A) 18 B) 20
-> 	
-> C) 25 D) 35 E) 50
+> The map shows the termini A, B and C of three circular bus lines, and some places they connect.
+>
+> - The route terminus A – zoo – harbour – terminus A is 10 km long.
+> - The route terminus B – park – zoo – terminus B is 12 km long.
+> - The route terminus C – harbour – park – terminus C is 13 km long.
+> - The mixed route on the three lines, zoo – park – harbour – zoo, is 15 km long.
+>
+> How many kilometres long is the circular route along the outermost road shown on the map?
+>
+> A) 18
+> B) 20
+> C) 25
+> D) 35
+> E) 50
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_benjamin#q12|src_kangourou_2021_benjamin__Q12]]
 
 
 
@@ -578,27 +683,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tile that can't be in the middle of the maze*
+*Which tile cannot stand in the centre?*
 
 ![[src_kangourou_2021_benjamin__prob13.png]]
 
-> Rosa travels through the maze in the figure entering the point indicated by the arrow to the left and leaving the point indicated by the arrow to the right. Which of the following cards cannot be placed in the center of the figure? A)
-> 	
+> Rosa goes through the maze in the picture, entering at the point marked by the arrow on the left and leaving at the point marked by the arrow on the right. Which of the following tiles cannot stand in the centre of the picture?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
-> 	
-> 	
-> 	
-> 	
-> 	
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_benjamin#q13|src_kangourou_2021_benjamin__Q13]]
 
 
 
@@ -636,21 +737,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Number at the top? with sums of 30 in hexagons*
+*What number must go at the vertex marked with a question mark?*
 
 ![[src_kangourou_2021_benjamin__prob14.png]]
 
-> In some vertices of the three hexagons shown in the figure, numbers were inserted. We want to put numbers in the other vertices too so that the sum of the six numbers surrounding each hexagon is 30. What number should be inserted in the vertex marked with the question mark? A) 3
-> 	
+> Numbers have been entered at some vertices of the three hexagons in the picture. We want to enter numbers at the remaining vertices as well, so that the sum of the six numbers around each hexagon is 30. What number must be entered at the vertex marked with a question mark?
+>
+> A) 3
 > B) 4
-> 	
 > C) 5
-> 	
 > D) 6
-> 	
 > E) 7
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_benjamin#q14|src_kangourou_2021_benjamin__Q14]]
 
 
 
@@ -685,17 +788,23 @@ Number at the top? with sums of 30 in hexagons*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*CD length data AB and rectangular areas*
+*How many centimetres long is CD?*
 
 ![[src_kangourou_2021_benjamin__prob15.png]]
 
-> Three rectangles of the same height are joined together as shown in the figure. The numbers written within the rectangles indicate their areas in square centimetres. If the AB segment is 6 cm long, how many centimeters is the CD segment? A) 7
-> 	
-> B) 7,5 C) 8
-> 	
-> D) 8,2 E) 8,5
+> Three rectangles of the same height are placed side by side, as the picture shows. The numbers written inside the rectangles give their areas in square centimetres. If the segment AB is 6 cm long, how many centimetres long is the segment CD?
+>
+> A) 7
+> B) 7,5
+> C) 8
+> D) 8,2
+> E) 8,5
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_benjamin#q15|src_kangourou_2021_benjamin__Q15]]
 
 
 
@@ -764,23 +873,28 @@ Number at the top? with sums of 30 in hexagons*
 <div class="qlang-split" data-lang="en"></div>
 
 
-The color of the sphere? in the spherical pyramid*
+*What colour is the sphere marked with a question mark?*
 
 ![[src_kangourou_2021_benjamin__prob16.png]]
 
-> I built a pyramid on a triangular base overlaying 10 spheres of identical size. Each sphere is coloured with only one of the five colours indicated by the letters A, B, C, D and E; two spheres are exactly the same colour. The following image shows three side faces of the pyramid: What color is the sphere with the question point? In B.C. Zoo Porto Park 10 15 12 13 ? 1 3 4 6 6 1 2 4 9 12 18 22 A B C D 6 cm ?
-> 
+> I built a pyramid with a triangular base by stacking 10 spheres of the same size. Each sphere is coloured with only one of five colours, denoted by the letters A, B, C, D and E; exactly two spheres have the same colour. The picture that follows shows three side faces of the pyramid. What colour is the sphere marked with a question mark?
+>
 > A) A
-> 	
 > B) B
-> 	
 > C) C
-> 	
 > D) D
-> 	
 > E) E
+>
+> A
+> B
+> C
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_benjamin#q16|src_kangourou_2021_benjamin__Q16]]
 
 
 
@@ -818,25 +932,24 @@ The color of the sphere? in the spherical pyramid*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pair of piles that cannot be achieved in turns*
+*Which pair of piles cannot be made?*
 
 ![[src_kangourou_2021_benjamin__prob17.png]]
 
-> Roberto has four white tokens and Vittorio has four grey ones. They take turns pla­
-> cing one of their tokens so as to form two piles of equal height. Roberto 
-> starts the game. Which of the five pairs of piles that you see below cannot be 
-> achieved?
-> A) 	
-> 	
-> B) 	
-> 	
-> C) 	
-> 	
-> D) 	
-> 	
+> Roberto has four white counters and Vittorio has four grey ones. They take turns placing one of their counters so as to form two piles of equal height. Roberto starts. Which of the five pairs of piles you see below cannot be made?
+>
+> A)
+> B)
+> C)
+> D)
 > E)
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_benjamin#q17|src_kangourou_2021_benjamin__Q17]]
 
 
 
@@ -876,21 +989,24 @@ The color of the sphere? in the spherical pyramid*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Combination that cannot be the correct one*
+*Which of the following cannot be the correct combination?*
 
 ![[src_kangourou_2021_benjamin__prob18.png]]
 
-> For the bike, I have a combination lock made up of four gears, each of which shows in order the digits from 0 to 9, as you can tell from the figures. To play, after I had inserted the correct combination, my little brother turned each gear in the same direction and by the same number of clicks. Now the lock shows the combination 6348. Which of the following cannot be the correct combination of my lock? A)
-> 	
+> For my bicycle I have a combination lock made of four wheels, each of which shows the digits from 0 to 9 in order, as one can see from the pictures. For fun, after I had entered the correct combination, my little brother turned every wheel in the same direction and by the same number of clicks. The lock now shows the combination 6348. Which of the following cannot be the correct combination of my lock?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_benjamin#q18|src_kangourou_2021_benjamin__Q18]]
 
 
 
@@ -920,18 +1036,21 @@ The color of the sphere? in the spherical pyramid*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mixture that gives the least dark green*
+*Which mix gives the least dark green?*
 
-> Carla wants to paint the walls of her room green. The green tempera paint bought
-> in the shop is too dark, so she thinks of mixing it with white tempera paint. She makes several
-> test mixtures: which of the following will give the least dark green color?
+> Carla wants to paint the walls of her room green. The green paint she bought in the shop is too dark, so she plans to mix it with white paint. She makes several trial mixes. Which of the following will give the least dark green?
+>
 > A) 1 part green and 2 parts white.
 > B) 2 parts green and 3 parts white.
 > C) 2 parts green and 5 parts white.
 > D) 4 parts green and 7 parts white.
 > E) 4 parts green and 9 parts white.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_benjamin#q19|src_kangourou_2021_benjamin__Q19]]
 
 
 
@@ -997,29 +1116,35 @@ The color of the sphere? in the spherical pyramid*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Section where freight and express trains cross*
+*On which stretch do they meet?*
 
 ![[src_kangourou_2021_benjamin__prob20.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw[thick] (0,0) -- (6,0);
-  \foreach \x/\l in {0/X, 1/A, 2/B, 3/C, 4/D, 5/E, 6/Y} {
-    \filldraw (\x,0) circle (2pt);
-    \node[below] at (\x,0) {$\l$};
-  }
-\end{tikzpicture}
-\end{document}
-```
+> The railway line joining X and Y is double-track.
+>
+> The trains travel on it at constant speed. A goods train takes 180 minutes to cover it, a fast train takes 60 minutes. If at the same moment a goods train leaves X and a fast train leaves Y, on which stretch do they meet?
+>
+> A) On the stretch XA.
+> B) On the stretch AB.
+> C) On the stretch BC.
+> D) On the stretch CD.
+> E) On the stretch DE.
+>
+> X
+> A
+> B
+> C
+> D
+> E
+> Y
+>
+> Questions 21 to 30 are worth 5 points each.
 
-> The railway line connecting X and Y is double track.
->  
-> The trains travel there at constant speed. It takes 180 minutes for a freight train, 60 minutes for a high-speed train. If at the same time a freight train leaves from X and a high-speed train from Y, in which section will they cross? A) In section XA. B) In section AB. C) In section BC. D) In section CD. E) In section DE. D ? E B C A D B D E B A E C D C E A X A B C D E Y
-> 
-> The questions from N. 21 to N. 30 are worth 5 points each.
-
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_benjamin#q20|src_kangourou_2021_benjamin__Q20]]
 
 
 
@@ -1051,13 +1176,22 @@ The color of the sphere? in the spherical pyramid*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Neighbors of Cecilia at the round table*
+*Which two people sit next to Cecilia?*
 
-> Anna, Bob, Cecilia, Dani and Eva are sitting around a round table. Anna is not close to Bob, Dani is close to Eva. Who are the two people sitting next to Cecilia? A) Anna and Bob. B) Bob and Dani.
-> 	
-> C) Dani and Eva. D) Eva and Anna. E) There is insufficient information to establish this.
+> Anna, Bob, Cecilia, Dani and Eva are sitting around a round table. Anna is not next to Bob, and Dani is next to Eva. Which two people are sitting next to Cecilia?
+>
+> A) Anna and Bob.
+> B) Bob and Dani.
+> C) Dani and Eva.
+> D) Eva and Anna.
+> E) The information is not enough to decide.
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_benjamin#q21|src_kangourou_2021_benjamin__Q21]]
 
 
 
@@ -1092,19 +1226,21 @@ The color of the sphere? in the spherical pyramid*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of pancakes with ingredients given
+*What is the most pancakes Maurizio can make?*
 
-> Maurizio asked the chief pastry chef for the pancakes recipe. The ingredients for 100 pancakes are: 25 eggs, 4 liters of milk, 5 kg of flour, 1 kg of butter. Maurizio has 6 eggs, 400 g of flour, 0.5 liters of milk and 200 g of butter. Using this recipe, what is the maximum number of pancakes Maurizio will be able to make? A) 6
-> 	
+> Maurizio asked the head pastry cook for the pancake recipe. The ingredients for 100 pancakes are: 25 eggs, 4 l of milk, 5 kg of flour, 1 kg of butter. Maurizio has 6 eggs, 400 g of flour, 0,5 litres of milk and 200 g of butter. Using this recipe, what is the most pancakes Maurizio will be able to make?
+>
+> A) 6
 > B) 8
-> 	
 > C) 10
-> 	
 > D) 12
-> 	
 > E) 15
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_benjamin#q22|src_kangourou_2021_benjamin__Q22]]
 
 
 
@@ -1140,19 +1276,23 @@ Maximum number of pancakes with ingredients given
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of black teeth after a small wheel turn*
+*Which picture shows the black teeth after one clockwise turn?*
 
 ![[src_kangourou_2021_benjamin__prob23.png]]
 
-> The figure shows a gear consisting of three toothed wheels, each with a black tooth. Which of the figures in the answers shows the correct position of the black teeth after the small wheel has made an entire turn clockwise? A)
-> 	
+> The picture shows a gear made of three toothed wheels, each with one black tooth. Which of the pictures in the answers shows the correct position of the black teeth after the small wheel has made one full turn clockwise?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
-> D) E)
+> D)
+> E)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_benjamin#q23|src_kangourou_2021_benjamin__Q23]]
 
 
 
@@ -1184,19 +1324,22 @@ Maximum number of pancakes with ingredients given
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Heaviest fruit from pairwise weighings*
+*Which fruit is the heaviest?*
 
-> Weigh four fruits in pairs. The apple and the orange weigh as much as the pear and the peach. 
-> The apple and the pear weigh less than the orange with the peach. The pear and the orange weigh 
-> less than the apple with the peach. Which fruit is the heaviest?
-> A) The apple.	
-> 	
-> B) The orange.	
-> C) The peach.	
->           D) The pear.	
-> E) The data are insufficient to determine it.
+> I weigh four fruits in pairs. The apple and the orange weigh as much as the pear and the peach. The apple and the pear weigh less than the orange and the peach. The pear and the orange weigh less than the apple and the peach. Which fruit is the heaviest?
+>
+> A) The apple.
+> B) The orange.
+> C) The peach.
+> D) The pear.
+> E) The information is not enough to decide.
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_benjamin#q24|src_kangourou_2021_benjamin__Q24]]
 
 
 
@@ -1234,21 +1377,24 @@ Maximum number of pancakes with ingredients given
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum squares per symmetrical figure on the four axes*
+*What is the least number of squares that will do it?*
 
 ![[src_kangourou_2021_benjamin__prob25.png]]
 
-> We want to add to the drawing of the colored squares so that we can create a symmetrical figure with respect to each of the four axes of symmetry of the grid. What is the minimum number of squares that allows you to do this? A) 1
-> 	
+> We want to add coloured squares to the drawing so as to make a figure symmetric with respect to each of the four axes of symmetry of the grid. What is the least number of squares that will do it?
+>
+> A) 1
 > B) 9
-> 	
 > C) 12
-> 	
 > D) 13
-> 	
 > E) 21
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_benjamin#q25|src_kangourou_2021_benjamin__Q25]]
 
 
 
@@ -1291,29 +1437,28 @@ Maximum number of pancakes with ingredients given
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of doubloons and diamonds from the true/false answers*
+*What is the sum of the doubloons and the diamonds?*
 
-> To the two questions "How many doubloons and how many diamonds does your friend Blackbeard have?"
-> three pirates each gave one true and one false answer. Their answers were:
-> (1)	
-> He has 8 doubloons and 6 diamonds.
-> (2)	
-> He has 7 doubloons and 4 diamonds.
-> (3)	
-> He has 7 doubloons and 7 diamonds.
-> What is the sum of the number of doubloons and the number of diamonds owned by Blackbeard?
-> A) 11	
-> 	
-> B) 12	
-> 	
-> C) 13	
-> 	
-> D) 14	
-> 	
-> E) 15
+> To the two questions "How many doubloons and how many diamonds does your friend Barbanera have?" three pirates each gave one true answer and one false answer. Their answers were:
 >
+> (1) He has 8 doubloons and 6 diamonds.
+> (2) He has 7 doubloons and 4 diamonds.
+> (3) He has 7 doubloons and 7 diamonds.
+>
+> What is the sum of the number of doubloons and the number of diamonds that Barbanera owns?
+>
+> A) 11
+> B) 12
+> C) 13
+> D) 14
+> E) 15
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_benjamin#q26|src_kangourou_2021_benjamin__Q26]]
 
 
 
@@ -1350,21 +1495,23 @@ Maximum number of pancakes with ingredients given
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Decilitres in the medium bottle on three shelves*
+*How many decilitres does the medium bottle hold?*
 
 ![[src_kangourou_2021_benjamin__prob27.png]]
 
-> Look at the figure: On each of the three shelves, there are a total of 64 deciliters of apple juice. Bottles have three different sizes: large, medium and small. How many deciliters of apple juice does the medium bottle contain? A) 3
-> 	
+> Look at the picture: on each of the three shelves there are 64 decilitres of apple juice in all. The bottles come in three sizes: large, medium and small. How many decilitres of apple juice does the medium bottle hold?
+>
+> A) 3
 > B) 6
-> 	
 > C) 8
-> 	
 > D) 10
-> 	
 > E) 14
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_benjamin#q27|src_kangourou_2021_benjamin__Q27]]
 
 
 
@@ -1400,19 +1547,22 @@ Maximum number of pancakes with ingredients given
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubets with at least one red line on the diagonals*
+*How many of the little cubes have at least one red line?*
 
-> A cube has an edge length of 7 cm and consists of many small cubes with an edge length of 1 cm glued to each other. On each of the faces of the larger cube were drawn the two diagonals with a red marker. How many cubes have at least one face with at least one red line on it? A) 54
-> 	
+> A cube has edges 7 cm long and is made of many little cubes of edge 1 cm glued together. On each face of the large cube the two diagonals have been drawn with a red pen. How many of the little cubes have at least one face on which at least one red line appears?
+>
+> A) 54
 > B) 62
-> 	
 > C) 70
-> 	
 > D) 78
-> 	
 > E) 86
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_benjamin#q28|src_kangourou_2021_benjamin__Q28]]
 
 
 
@@ -1447,22 +1597,22 @@ Maximum number of pancakes with ingredients given
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many even numbers obtained by adding N and the sum of its digits*
+*How many of the numbers thus obtained are even?*
 
-> Lucia transforms the numbers from 1 to 100 following this rule: to each number N she
-> replaces it with the number obtained by adding to N the sum of its digits. Among the numbers
-> thus obtained, how many are even?
-> A) 49	
-	
-> B) 50	
-	
-> C) 51	
-	
-> D) 45	
-	
+> Lucia transforms the numbers from 1 to 100 by this rule: she replaces each number N by the number obtained by adding to N the sum of its digits. Among the numbers thus obtained, how many are even?
+>
+> A) 49
+> B) 50
+> C) 51
+> D) 45
 > E) 55
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_benjamin#q29|src_kangourou_2021_benjamin__Q29]]
 
 
 
@@ -1504,19 +1654,19 @@ Maximum number of pancakes with ingredients given
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of witches given the sum of 36*
+*What is the least possible number of witches at the party?*
 
-> A group of 10 witches and fairies attend a party: each of them is given a card with a number from 1 to 10 printed on it and there are no two participants with the same number. It is well known that fairies always tell the truth, while witches can also lie. Each of them is asked to give the number printed on their card and each of them answers with a number between 1 and 10. The sum of the numbers pronounced is 36. What's the minimum number of witches at the party? A) 1
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
-> E) 7
-> 
-> BENJAMIN Answers
+> A group of 10 fairies and witches is at a party. Each of them is given a ticket printed with a number from 1 to 10, and no two participants have the same number. It is known that fairies always tell the truth, while witches may also lie. Each is asked to say the number printed on her own ticket, and each of them answers with a number between 1 and 10. The sum of the numbers spoken is 36. What is the least possible number of witches at the party?
 >
+> A) 1
+> B) 3
+> C) 4
+> D) 5
+> E) 7
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_benjamin#q30|src_kangourou_2021_benjamin__Q30]]

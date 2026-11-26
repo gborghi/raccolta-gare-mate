@@ -29,11 +29,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle in the configuration of nested isosceles triangles*
+*Angle in a configuration of nested isosceles triangles*
 
-> A $ABC$ isosceles triangle in $C$ and a $A'$ dot on the $AC$ side so that the $AA'B$ triangle is isosceles in $A$ shall be given. Then $B'$ a point on the $BC$ side and $C'$ the intersection point between $AB'$ and $A'B$. Knowing that the $ABB'$, $AB'C$ and $A'BC$ triangles are also isosceles, calculate the value (in degrees) of the angle $A'C'B'$.
+> Let an isosceles triangle $ABC$ with apex at $C$ and a point $A'$ on side $AC$ be given, such that triangle $AA'B$ is isosceles with apex at $A$. Let then $B'$ be a point on side $BC$ and $C'$ the intersection point of $AB'$ and $A'B$. Given that triangles $ABB'$, $AB'C$, and $A'BC$ are also isosceles, calculate the value (in degrees) of angle $A'C'B'$.
 
-**Answer:** 0077
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_a#q01|src_cesenatico_2005_squadre_semifinale_a__Q01]]
 
 
 
@@ -57,11 +61,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum area of two semicircles from fabric 100x50*
+*Maximum area of two fabric semicircles: 100x50*
 
-> From a piece of fabric with length $100\,\text{cm}$ and width $50\,\text{cm}$, two semicircles are to be cut out in such a way as to maximize the amount of fabric used. What is the total area of fabric used?
+> From a piece of fabric measuring $100\,\text{cm}$ in length and $50\,\text{cm}$ in width, two semicircles are to be cut out so as to use as much fabric as possible. What is the total area of the fabric used?
 
-**Answer:** 4263
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_a#q02|src_cesenatico_2005_squadre_semifinale_a__Q02]]
 
 
 
@@ -85,11 +94,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of areas of four triangles in a regular dodecagon*
+*Sum of the areas of four triangles in a regular dodecagon*
 
-> Consider a regular dodecahedron of vertices $A_1A_2\ldots A_{12}$ and side length $11$. Tracing the segments $A_1A_6$, $A_5A_{10}$ and $A_9A_7$ forms four triangles within the dodecahedron. Calculate the sum of the areas of these four triangles.
+> Consider a regular dodecagon with vertices $A_1A_2\ldots A_{12}$ and side length $11$. By drawing the line segments $A_1A_6$, $A_5A_{10}$, and $A_9A_7$, four triangles are formed inside the dodecagon. Calculate the sum of the areas of these four triangles.
 
-**Answer:** 0314
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_a#q03|src_cesenatico_2005_squadre_semifinale_a__Q03]]
 
 
 
@@ -113,11 +127,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordered pairs (c,d) tiled room 546x330*
+*Ordered pairs (c,d) that tile room 546x330*
 
-> A tile-maker wants to cover a rectangular room $546 \times 330$ with rectangular tiles measuring $c \times d$. For how many pairs (orders) of size $(c, d)$ is this possible?
+> A tiler wants to tile a rectangular room $546 \times 330$ with rectangular tiles of size $c \times d$. For how many (ordered) pairs of dimensions $(c, d)$ is this possible?
 
-**Answer:** 0074
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_a#q04|src_cesenatico_2005_squadre_semifinale_a__Q04]]
 
 
 
@@ -140,11 +159,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum integer not to be expressed as 23k+17h (Frobenius)*
+*Maximal integer not expressible as 23k+17h (Frobenius)*
 
-> Find the maximum positive integer that cannot be expressed as $23k + 17h$, with $h, k > 0$.
+> Find the greatest positive integer that cannot be expressed in the form $23k + 17h$, with $h, k > 0$.
 
-**Answer:** 0351
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_a#q05|src_cesenatico_2005_squadre_semifinale_a__Q05]]
 
 
 
@@ -170,11 +193,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples (a,b) with a^4+4b^4+12ab-9 first*
+*Pairs (a,b) such that a^4+4b^4+12ab-9 is prime*
 
-> How many pairs of integers are ordered $(a, b)$ so $$a^4 + 4b^4 + 12ab - 9$$ is a prime number?
+> How many ordered pairs of integers $(a, b)$ are there such that
+> $$a^4 + 4b^4 + 12ab - 9$$
+> is a prime number?
 
-**Answer:** 0004
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_a#q06|src_cesenatico_2005_squadre_semifinale_a__Q06]]
 
 
 
@@ -198,11 +228,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last 2 digits number ways to divide 2005 into 401 teams*
+*Last 2 digits: number of ways to divide 2005 into 401 teams*
 
-> $2005$ participants in a basketball tournament want to divide into $401$ teams, of $5$ players each, to play a tournament. Write the last $2$ digits of the number of different ways they can be divided.
+> I $2005$ participants in a basketball tournament want to divide into $401$ teams, each with $5$ players, to play in a tournament. Write the last $2$ digits of the number of different ways they can divide themselves.
 
-**Answer:** 0076
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_a#q07|src_cesenatico_2005_squadre_semifinale_a__Q07]]
 
 
 
@@ -228,13 +263,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode to go from centre to chessboard edge in n moves*
+*Ways to go from the center to the edge of the chessboard in n moves*
 
 ![[src_cesenatico_2005_squadre_semifinale_a__prob8.png]]
 
-> On a chessboard of the type shown in the figure (but the middle row has $23$ boxes), how many ways are there to go from the middle box to an edge in exactly $n$ moves, moving each time in an adjacent box horizontally or vertically? (see figure)
+> On a chessboard of the type shown in the figure (but the middle row has $23$ squares), how many ways are there to go from the central square to an edge in exactly $n$ moves, moving each time to an adjacent square horizontally or vertically? (see figure)
 
-**Answer:** 8188
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_a#q08|src_cesenatico_2005_squadre_semifinale_a__Q08]]
 
 
 
@@ -258,11 +298,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to distribute 27 candies to three with exactly two types*
+*Ways to distribute 27 candies among three people using exactly two types*
 
-> Andrea, Bernardo and Chiara want to share a pack of candy. The pack contains $9$ strawberry candy, $9$ lemon and $9$ mint. How many ways can the $27$ candies (even in unequal parts) be distributed between the three, so that each has exactly two candies?
+> Andrea, Bernardo, and Chiara want to split a packet of candies among themselves. The packet contains $9$ strawberry candies, $9$ lemon candies, and $9$ mint candies. In how many ways is it possible to distribute the $27$ candies (even in unequal portions) among the three of them so that each person gets candies of exactly two types?
 
-**Answer:** 7104
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_a#q09|src_cesenatico_2005_squadre_semifinale_a__Q09]]
 
 
 
@@ -286,11 +331,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most finite parts of the plane divided by 5 rectangles*
+*Most finished parts of the plane divided by 5 rectangles*
 
-> Rectangular data, how many finite parts can the plane be divided into at most?
+> Previously $5$ rectangles—into at most how many finite parts can they divide the plane?
 
-**Answer:** 0081
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_induzione|Induction]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_a#q10|src_cesenatico_2005_squadre_semifinale_a__Q10]]
 
 
 
@@ -314,11 +364,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining of 3^211 divided by 2^14*
+*Remainder of 3^211 divided by 2^14*
 
 > Calculate the remainder of the division of $3^{3^{3^3}}$ by $2^{14}$.
 
-**Answer:** 8193
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_a#q11|src_cesenatico_2005_squadre_semifinale_a__Q11]]
 
 
 
@@ -341,11 +396,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Large ultra first of 3 digits*
+*Larger ultraprime with 3 digits*
 
-> An ultraprime is a prime number such that, by exchanging its digits, the number obtained remains prime. What is the largest number of $3$ ultraprime digits?
+> An ultraprime is a prime number such that, when its digits are permuted, the resulting number remains prime. What is the largest ultraprime number with $3$ digits?
 
-**Answer:** 0991
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_a#q12|src_cesenatico_2005_squadre_semifinale_a__Q12]]
 
 
 
@@ -369,11 +428,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lesser set of rectangular triangle with center condition*
+*Lesser leg of a right triangle with incenter condition*
 
-> A rectangular triangle is given where the encounter is equidistant from the top of the right angle and the middle point of the hypotenuse. Knowing that the hypotenuse measures $1000$, calculate the minor triangle length.
+> Let a right triangle be given in which the incenter is equidistant from the right-angled vertex and from the midpoint of the hypotenuse. Given that the hypotenuse measures $1000$, calculate the shorter leg of the triangle.
 
-**Answer:** 0500
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_a#q13|src_cesenatico_2005_squadre_semifinale_a__Q13]]
 
 
 
@@ -398,13 +462,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the CAD angle in the quadrilateral with data angles*
+*Measurement of angle CAD in the quadrilateral with given angles*
 
 ![[src_cesenatico_2005_squadre_semifinale_a__prob14.png]]
 
-> The $ABCD$ quadrilateral in the figure has the angles $\angle ABD = 30°$, $\angle DBC = 50°$, $\angle BCA = 60°$ and $\angle ACD = 20°$. What is the angle $\angle CAD$? (see figure)
+> The quadrilateral $ABCD$ in the figure has angles $\angle ABD = 30°$, $\angle DBC = 50°$, $\angle BCA = 60°$, and $\angle ACD = 20°$. What is the measure of angle $\angle CAD$? (see figure)
 
-**Answer:** 0030
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_a#q14|src_cesenatico_2005_squadre_semifinale_a__Q14]]
 
 
 
@@ -428,8 +496,13 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubs crossed by the diagonal of parallel piped 126x60x70*
+*Cubes intersected by the diagonal of a 126x60x70 parallelepiped*
 
-> A parallel piped $126$, $60$ and $70$ side is made of side cubes $1$. How many cubes are traversed inside by the diagonal of the parallelepiped?
+> A parallelepiped with edges $126$, $60$, and $70$ is made up of small cubes with edge length $1$. How many cubes are intersected internally by the diagonal of the parallelepiped?
 
-**Answer:** 0228
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2005_squadre_semifinale_a#q15|src_cesenatico_2005_squadre_semifinale_a__Q15]]

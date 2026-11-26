@@ -31,11 +31,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le funzioni che soddisfano due equazioni funzionali*
+*Trovare tutte le funzioni che soddisfano due equazioni funzionali*
 
-> Determinare tutte le funzioni $f$ definite sull'insieme dei numeri reali positivi, a valori in numeri reali positivi, che soddisfano le seguenti condizioni:
-> (i) $f(xf(y)) = yf(x)$ per ogni numero reale positivo $x, y$;
-> (ii) $f(x) \to 0$ quando $x \to \infty$.
+> Trovare tutte le funzioni $f$ definite sull'insieme dei numeri reali positivi, che assumono valori reali positivi e soddisfano le condizioni: (i) $f(xf(y)) = yf(x)$ per tutti i $x, y$ positivi; (ii) $f(x) \to 0$ quando $x \to \infty$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1983#q01|src_imho_1983__Q01]]
 
 
 
@@ -58,9 +63,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti medi e rette tangenti a due circonferenze complanari*
+*Punti medi e rette tangenti a due cerchi coplanari*
 
-> Siano $A$ uno dei due punti distinti di intersezione tra due circonferenze complanari disuguali $C_1$ e $C_2$ di centri rispettivamente $O_1$ e $O_2$. Una delle tangenti comuni alle circonferenze tocca $C_1$ in $P_1$ e $C_2$ in $P_2$, mentre l'altra tocca $C_1$ in $Q_1$ e $C_2$ in $Q_2$. Sia $M_1$ il punto medio di $P_1Q_1$ e $M_2$ il punto medio di $P_2Q_2$. Si dimostri che $\angle O_1AO_2 = \angle M_1AM_2$.
+> Sia $A$ uno dei due punti di intersezione distinti di due cerchi coplanari $C_1$ e $C_2$, non congruenti, aventi centri rispettivamente $O_1$ e $O_2$. Una delle tangenti comuni ai cerchi tocca $C_1$ in $P_1$ e $C_2$ in $P_2$, mentre l'altra tocca $C_1$ in $Q_1$ e $C_2$ in $Q_2$. Sia $M_1$ il punto medio di $P_1Q_1$ e sia $M_2$ il punto medio di $P_2Q_2$. Dimostrare che $\angle O_1AO_2 = \angle M_1AM_2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1983#q02|src_imho_1983__Q02]]
 
 
 
@@ -83,9 +95,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Si mostri il più grande intero della forma 2bc - b - c senza divisori comuni*
+*Mostra il più grande intero della forma 2bc-b-c privo di divisore comune*
 
-> Siano $a$, $b$ e $c$ interi positivi, a due a due privi di divisori comuni maggiori di 1. Si dimostri che $2abc - ab - bc - ca$ è il più grande intero che non può essere espresso nella forma $xbc + yca + zab$, dove $x$, $y$ e $z$ sono interi non negativi.
+> Siano $a$, $b$ e $c$ numeri interi positivi, tali che nessuna coppia di essi abbia un divisore comune maggiore di 1. Dimostrare che $2abc - ab - bc - ca$ è il più grande numero intero che non può essere espresso nella forma $xbc + yca + zab$, dove $x$, $y$ e $z$ sono numeri interi non negativi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1983#q03|src_imho_1983__Q03]]
 
 
 
@@ -108,9 +127,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Partizionare un insieme in due sottoinsiemi senza triangolo rettangolo*
+*Partizione suddivisa in due sottoinsiemi, evitando il triangolo rettangolo*
 
-> Sia $ABC$ un triangolo equilatero e $\mathcal{E}$ l'insieme di tutti i punti contenuti nei tre segmenti $AB$, $BC$ e $CA$ (inclusi gli estremi $A$, $B$ e $C$). Si determini se, per ogni partizione di $\mathcal{E}$ in due sottoinsiemi, almeno uno dei due contiene i vertici di un triangolo rettangolo. Si giustifichi la risposta.
+> Sia $ABC$ un triangolo equilatero e $\mathcal{E}$ l'insieme di tutti i punti contenuti nei tre segmenti $AB$, $BC$ e $CA$ (inclusi $A$, $B$ e $C$). Determinare se, per ogni partizione di $\mathcal{E}$ in due sottoinsiemi, almeno uno dei due sottoinsiemi contenga i vertici di un triangolo rettangolo. Giustifica la tua risposta.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imho_1983#q04|src_imho_1983__Q04]]
 
 
 
@@ -133,9 +159,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scegliere 1983 interi positivi distinti in progressione aritmetica*
+*Scegli 1983 interi positivi distinti in progressione aritmetica*
 
-> È possibile scegliere $1983$ interi positivi distinti, tutti minori o uguali a $10^5$, in modo che nessuno di essi sia il termine centrale di una progressione aritmetica formata da tre termini consecutivi? Giustificare la risposta.
+> È possibile scegliere $1983$ interi positivi distinti, tutti minori o uguali a $10^5$, tali che nessun insieme di tre di essi costituisca tre termini consecutivi di una progressione aritmetica? Motiva la tua risposta.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1983#q05|src_imho_1983__Q05]]
 
 
 
@@ -160,8 +193,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostrare una disuguaglianza coinvolgente i lati di un triangolo*
+*Dimostrare una disuguaglianza che coinvolge i lati di un triangolo*
 
-> Siano $a$, $b$ e $c$ le lunghezze dei lati di un triangolo. Si dimostri che
+> Siano $a$, $b$ e $c$ le lunghezze dei lati di un triangolo. Dimostrare che
 > $$a^2 b(a - b) + b^2 c(b - c) + c^2 a(c - a) \ge 0.$$
-> Determinare quando si ha l'uguaglianza.
+> Determina quando si verifica l'uguaglianza.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_imho_1983#q06|src_imho_1983__Q06]]

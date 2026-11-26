@@ -30,11 +30,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scatole di 10 e 6 mele per un totale di 38; combinazioni di scatole da contare.*
+*Scatole da 10 e da 6 mele, per un totale di 38 mele; conta le combinazioni di scatole.*
 
-> Ci sono diverse scatole che contengono ciascuna 10 mele e diverse scatole che contengono ciascuna 6 mele. Se il numero totale di mele è di 38, in quanti modi possono essere combinate le scatole?
+> Ci sono diverse scatole, ciascuna contenente 10 mele, e diverse scatole, ciascuna contenente 6 mele. Se il numero totale di mele è 38, in quanti modi si possono combinare le scatole?
 
-**Risposta:** 2
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jmo14yq_yosen#q01|src_jmo14yq_yosen__Q01]]
 
 
 
@@ -58,11 +63,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il CD nel triangolo ABC con il punto D su BC, dati lati e angoli uguali.*
+*Trovare CD nel triangolo ABC, con il punto D su BC, dati i lati e gli angoli uguali.*
 
-> Nel triangolo $ABC$, $D$ deve essere un punto sul segmento $BC$ tale che $AB = AD = 2$, $BD = 1$ e $\angle BAD = \angle CAD$. Trova la lunghezza $CD$.
+> Nel triangolo $ABC$, sia $D$ un punto sul segmento $BC$ tale che $AB = AD = 2$, $BD = 1$ e $\angle BAD = \angle CAD$. Determinare la lunghezza $CD$.
 
-**Risposta:** 3
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jmo14yq_yosen#q02|src_jmo14yq_yosen__Q02]]
 
 
 
@@ -85,9 +95,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 operazioni.
+*Monete casuali gettate sulla scrivania; probabilità che vengano tutte rimosse in 4 operazioni.*
 
-> Alcune monete vengono gettate contemporaneamente su una scrivania. Considerate la seguente operazione: vista dall'alto, rimuovete tutte le monete che sono visibili dall'alto (quele che non sono coperte da altre monete). Pensando a una situazione in cui le monete sono impilate, ripeti questa operazione partendo da un qualche accordo iniziale, fino a quando tutte le monete sono state rimosse. L'operazione viene eseguita ripetutamente. Trova la probabilità che tutte le monete vengano rimosse in un massimo di 4 operazioni.
+> Un certo numero di monete viene lanciato simultaneamente su una scrivania. Si consideri la seguente operazione: osservando dall'alto, si rimuovono tutte le monete visibili dall'alto (quelle non coperte da nessun'altra moneta). Immaginando una situazione in cui le monete sono impilate, si ripeta questa operazione partendo da una certa disposizione iniziale, finché tutte le monete non saranno state rimosse. L'operazione viene eseguita ripetutamente. Si determini la probabilità che tutte le monete vengano rimosse in al massimo 4 operazioni.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jmo14yq_yosen#q03|src_jmo14yq_yosen__Q03]]
 
 
 
@@ -110,9 +127,16 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie di numeri interi positivi (m,n) con 7m+3n=10^2004 e m divide n.*
+*Conta le coppie di interi positivi (m,n) tali che 7m+3n=10^2004 e m divide n.*
 
-> Trova il numero di coppie $(m, n)$ di integri positivi che soddisfano $7m + 3n = 10^{2004}$, in modo che $\dfrac{n}{m}$ sia un numero intero.
+> Trovare il numero di coppie $(m, n)$ di interi positivi che soddisfano $7m + 3n = 10^{2004}$, tali che $\dfrac{n}{m}$ sia un intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jmo14yq_yosen#q04|src_jmo14yq_yosen__Q04]]
 
 
 
@@ -140,9 +164,20 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Strictamente crescente sequenza di interi positivi del 2004; nessun prodotto di due termini è uguale a un altro; ridurre al minimo l'ultimo termine.*
+*Successione strettamente crescente di 2004 interi positivi; nessun prodotto di due termini è uguale a un altro termine; minimizzare l'ultimo termine.*
 
-> $a_1, a_2, \ldots, a_{2004}$ siano numeri interi positivi che soddisfano le seguenti condizioni: \begin{itemize} \item $a_1 < a_2 < \cdots < a_{2004}$. \item Per tutti gli integri positivi separati in coppia $i, j, k$ ciascuno al massimo $2004$, abbiamo sempre $a_i \times a_j \neq a_k$. \end{itemize} Trova il valore minimo possibile di $a_{2004}$.
+> Sia $a_1, a_2, \ldots, a_{2004}$ un insieme di numeri interi positivi che soddisfa le seguenti condizioni:
+> \begin{itemize}
+> \item $a_1 < a_2 < \cdots < a_{2004}$. \item Per qualsiasi insieme di interi positivi $i, j, k$, a due a due distinti, ciascuno al più $2004$, si ha sempre $a_i \times a_j \neq a_k$.
+> \end{itemize}
+> Trovare il valore minimo possibile di $a_{2004}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jmo14yq_yosen#q05|src_jmo14yq_yosen__Q05]]
 
 
 
@@ -167,9 +202,18 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca f(x) soddisfacente f(x)+f(1/(1-x))=1/x per tutte le x non 0 o 1.*
+*Trovare f(x) tale che f(x)+f(1/(1-x))=1/x per ogni x diverso da 0 e da 1.*
 
-> $f(x)$ sia una funzione a valore reale definita per tutti i numeri reali $x$ diversi da $0$ e $1$, soddisfacendo $$f(x) + f\!\left(\frac{1}{1-x}\right) = \frac{1}{x}$$ per tutti i numeri reali $x \neq 0, 1$. Trova $f(x)$.
+> Sia $f(x)$ una funzione a valori reali definita per tutti i numeri reali $x$ diversi da $0$ e $1$, tale che
+> $$f(x) + f\!\left(\frac{1}{1-x}\right) = \frac{1}{x}$$
+> per ogni $x \neq 0, 1$ reale. Determinare $f(x)$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jmo14yq_yosen#q06|src_jmo14yq_yosen__Q06]]
 
 
 
@@ -192,9 +236,16 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area al di fuori del triangolo ABC (laterali 16, 5√5, 9) all'interno della distanza 6 sia da B che da C.*
+*Area esterna al triangolo ABC (lati 16, 5√5, 9) e compresa a distanza 6 sia da B sia da C.*
 
-> Nel piano, il triangolo $ABC$ soddisfa $AB = 16$, $BC = 5\sqrt{5}$, $CA = 9$. Trova l'area della regione che si trova al di fuori del triangolo $ABC$ e la cui distanza da $B$ e distanza da $C$ sono entrambi al massimo $6$.
+> Nel piano, il triangolo $ABC$ soddisfa $AB = 16$, $BC = 5\sqrt{5}$, $CA = 9$. Determinare l'area della regione che giace all'esterno del triangolo $ABC$ e la cui distanza da $B$ e la cui distanza da $C$ sono entrambe al più $6$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jmo14yq_yosen#q07|src_jmo14yq_yosen__Q07]]
 
 
 
@@ -219,9 +270,18 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare il minimo di un'espressione somma di frazioni su valori reali positivi sommati a 1.*
+*Massimizza il minimo di un'espressione costituita da una somma di frazioni, definita sui numeri reali positivi la cui somma è 1.*
 
-> $n$ sia un numero intero positivo. Per i valori positivi $a_1, a_2, \ldots, a_n$ con $a_1 + a_2 + \cdots + a_n = 1$, definire $$A = \frac{a_1}{1 + a_1} + \frac{a_2}{1 + a_1 + a_2} + \cdots + \frac{a_n}{1 + a_1 + a_2 + \cdots + a_n}.$$ Lasciate che $A$ dipenda dalla scelta di $a_1, \ldots, a_n$. Trovare il valore massimo del minimo di $A$ su tutte queste scelte.
+> Sia $n$ un numero intero positivo. Per i numeri reali positivi $a_1, a_2, \ldots, a_n$ con $a_1 + a_2 + \cdots + a_n = 1$, si definisca
+> $$A = \frac{a_1}{1 + a_1} + \frac{a_2}{1 + a_1 + a_2} + \cdots + \frac{a_n}{1 + a_1 + a_2 + \cdots + a_n}.$$
+> Sia $A$ dipendente dalla scelta di $a_1, \ldots, a_n$. Si determini il valore massimo del minimo di $A$ su tutte le scelte di questo tipo.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jmo14yq_yosen#q08|src_jmo14yq_yosen__Q08]]
 
 
 
@@ -244,9 +304,16 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 <div class="qlang-split" data-lang="it"></div>
 
 
-*7 politici, fazioni con condizione di coesistenza; trovare la dimensione massima delle fazioni.*
+*7 politici, fazioni con condizione di coesistenza; trovare la dimensione massima della fazione.*
 
-> Ci sono 7 politici, ognuno appartenente a una o più fazioni. Una fazione è un gruppo di uno o più politici. È dato che per due fazioni esiste sempre un politico che appartiene a entrambe le fazioni o un politico che non appartiene a nessuna di esse. (Si dice che un tale politico sia mediatore tra le due fazioni.)
+> Ci sono 7 politici, ciascuno appartenente a una o più fazioni. Una fazione è un gruppo costituito da uno o più politici. Si assume che, per qualsiasi coppia di fazioni, esista sempre un politico che appartiene a entrambe le fazioni oppure un politico che non appartiene a nessuna delle due. (Un tale politico si dice che media tra le due fazioni.) Determinare il numero massimo possibile di membri in una singola fazione.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jmo14yq_yosen#q09|src_jmo14yq_yosen__Q09]]
 
 
 
@@ -269,9 +336,16 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due operazioni polinomiche applicate al polinomio di grado 2; trovare la costante k nel risultato.*
+*Due operazioni polinomiali applicate a un polinomio di secondo grado; trovare la costante k nel risultato.*
 
-> Per un polinomio $f(x)$, definire l'operazione $A$ come: $f(x) \mapsto a(x-1)^2 + b(x-1) + c$ dove $f(x) = ax^2 + bx + c$, e l'operazione $B$ come: $f(x) \mapsto f(x+1) + (x-1)^3 + (x^2 + x + 2)$. A partire da un polinomio di qualche grado-2, dopo aver applicato le operazioni $A$ e $B$ un certo numero di volte (in qualche ordine), il risultato è $11x^2 - 9x + k$. Trova la costante $k$.
+> Per un polinomio $f(x)$, definire l'operazione $A$ come: $f(x) \mapsto a(x-1)^2 + b(x-1) + c$, dove $f(x) = ax^2 + bx + c$, e l'operazione $B$ come: $f(x) \mapsto f(x+1) + (x-1)^3 + (x^2 + x + 2)$. Partendo da un certo polinomio di secondo grado, dopo aver applicato le operazioni $A$ e $B$ un certo numero di volte (in un certo ordine), il risultato è $11x^2 - 9x + k$. Trovare la costante $k$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jmo14yq_yosen#q10|src_jmo14yq_yosen__Q10]]
 
 
 
@@ -294,9 +368,16 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale convexa con AD=CD, BD=BC e angoli dati; trovare angolo BAD.*
+*Quadrilatero convesso ABCD con AD=CD, BD=BC e angoli dati; determinare l'angolo BAD.*
 
-> Nel quadrilaterale convex $ABCD$, abbiamo $AD = CD$, $BD = BC$, $\angle ADC = 168^\circ$ e $\angle ABC = 66^\circ$. Trova $\angle BAD$.
+> Nel quadrilatero convesso $ABCD$, si hanno $AD = CD$, $BD = BC$, $\angle ADC = 168^\circ$ e $\angle ABC = 66^\circ$. Trovare $\angle BAD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jmo14yq_yosen#q11|src_jmo14yq_yosen__Q11]]
 
 
 
@@ -323,6 +404,17 @@ Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 opera
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di N punti in piano che garantiscono una subsequenza monotone-inclinazione di 2004 punti.*
+*Numero minimo N di punti nel piano che garantisce una sottosuccessione a pendenza monotona di 2004 punti.*
 
-> Trova il numero intero positivo minimo $N$ in modo tale che la seguente affermazione sia valida: per qualsiasi posizionamento di punti $N$ nel piano $xy$ senza 3 collineari e senza 2 che condividono la stessa coordinata $x$, si può sempre scegliere 2004 di questi punti $(x_1, y_1), (x_2, y_2), \ldots, (x_{2004}, y_{2004})$ con $x_1 < x_2 < \cdots < x_{2004}$ in modo tale che sia $$\frac{y_2 - y_1}{x_2 - x_1} < \frac{y_3 - y_2}{x_3 - x_2} < \cdots < \frac{y_{2004} - y_{2003}}{x_{2004} - x_{2003}}$$ o $$\frac{y_2 - y_1}{x_2 - x_1} > \frac{y_3 - y_2}{x_3 - x_2} > \cdots > \frac{y_{2004} - y_{2003}}{x_{2004} - x_{2003}}$$ sia valida.
+> Trovare il minimo intero positivo $N$ tale che valga la seguente affermazione: per qualsiasi disposizione di $N$ punti nel piano $xy$, con nessun tre punti allineati e nessun due punti aventi la stessa coordinata $x$, si possono sempre scegliere 2004 di questi punti $(x_1, y_1), (x_2, y_2), \ldots, (x_{2004}, y_{2004})$ con $x_1 < x_2 < \cdots < x_{2004}$ tali che valga oppure
+> $$\frac{y_2 - y_1}{x_2 - x_1} < \frac{y_3 - y_2}{x_3 - x_2} < \cdots < \frac{y_{2004} - y_{2003}}{x_{2004} - x_{2003}}$$
+> oppure
+> $$\frac{y_2 - y_1}{x_2 - x_1} > \frac{y_3 - y_2}{x_3 - x_2} > \cdots > \frac{y_{2004} - y_{2003}}{x_{2004} - x_{2003}}$$
+> .
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jmo14yq_yosen#q12|src_jmo14yq_yosen__Q12]]

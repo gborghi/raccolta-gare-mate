@@ -36,9 +36,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare 2015^2 meno 2016 volte 2014*
+*Calcola 2015^2 meno 2016 per 2014*
 
-> Che cos' è $2015^2 - 2016 \times 2014$?
+> Che cos'è $2015^2 - 2016 \times 2014$?
 >
 > - **(A)** $-2015$
 > - **(B)** $-1$
@@ -46,7 +46,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $1$
 > - **(E)** $2015$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2015#q01|src_smc_2015__Q01]]
 
 
 
@@ -76,7 +81,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di tutte le soluzioni di 6x = 150/x*
+*Somma di tutte le soluzioni di 6x = 150/x*
 
 > Qual è la somma di tutte le soluzioni dell'equazione $6x = \dfrac{150}{x}$?
 >
@@ -86,7 +91,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $25$
 > - **(E)** $156$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2015#q02|src_smc_2015__Q02]]
 
 
 
@@ -115,9 +125,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Aumento percentuale del costo della benzina per litro per Louise*
+*Aumento percentuale del costo della benzina al litro per Louise*
 
-> Quando Louise ha avuto la sua prima auto, 50 litri di benzina costavano 40 sterline. Quando l'altro giorno si riempì, ha notato che 40 litri di benzina costavano 50 sterline. Per quanto riguarda il prezzo della benzina, che è aumentato di circa la percentuale in questo periodo?
+> Quando Louise ebbe la sua prima auto, 50 litri di benzina costavano 40 sterline. L'altro giorno, quando ha fatto il pieno, ha notato che 40 litri di benzina costavano 50 sterline. Di circa quale percentuale è aumentato il costo della benzina in questo periodo?
 >
 > - **(A)** $50\%$
 > - **(B)** $56\%$
@@ -125,7 +135,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $75\%$
 > - **(E)** $80\%$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2015#q03|src_smc_2015__Q03]]
 
 
 
@@ -156,9 +170,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Frazione dell'area del cerchio più grande all'interno del cerchio più piccolo che passa attraverso il suo centro*
+*Frazione dell'area del cerchio più grande compresa all'interno del cerchio più piccolo che passa per il centro del primo*
 
-> Nel diagramma, il cerchio più piccolo tocca il cerchio più grande e passa anche attraverso il suo centro. Quale frazione della superficie del cerchio più grande è all'interno del cerchio più piccolo?
+> Nel diagramma, il cerchio più piccolo è tangente al cerchio più grande e passa anche per il suo centro. Quale frazione dell'area del cerchio più grande si trova all'interno del cerchio più piccolo?
 >
 > - **(A)** $\dfrac{1}{3}$
 > - **(B)** $\dfrac{1}{4}$
@@ -168,7 +182,11 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2015__q04.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2015#q04|src_smc_2015__Q04]]
 
 
 
@@ -197,9 +215,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di numeri di n, dove n è la media di 17, 23 e 2n*
+*Somma delle cifre di n, dove n è la media di 17, 23 e 2n*
 
-> Il numero intero $n$ è la media dei tre numeri $17$, $23$ e $2n$. Qual è la somma delle cifre di $n$?
+> L'intero $n$ è la media dei tre numeri $17$, $23$ e $2n$. Qual è la somma delle cifre di $n$?
 >
 > - **(A)** $4$
 > - **(B)** $5$
@@ -207,7 +225,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $7$
 > - **(E)** $8$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2015#q05|src_smc_2015__Q05]]
 
 
 
@@ -239,9 +261,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri da 5 a 10 messi in cerchi; la somma dei cerchi toccanti è primo; quale numero è nel cerchio ombroso?*
+*I numeri da 5 a 10 sono collocati nei cerchi; la somma dei cerchi che si toccano è un numero primo; quale numero si trova nel cerchio ombreggiato?*
 
-> I numeri $5, 6, 7, 8, 9, 10$ devono essere posizionati, uno in ciascuno dei cerchi del diagramma, in modo che la somma dei numeri in ciascuna coppia di cerchi toccanti sia un numero primo. Il numero $5$ è inserito nel cerchio superiore. Quale numero è inserito nel cerchio ombroso?
+> I numeri $5, 6, 7, 8, 9, 10$ devono essere collocati, uno in ciascuno dei cerchi nel diagramma, in modo che la somma dei numeri in ciascuna coppia di cerchi adiacenti sia un numero primo. Il numero $5$ è collocato nel cerchio in alto. Quale numero è collocato nel cerchio ombreggiato?
 >
 > - **(A)** $6$
 > - **(B)** $7$
@@ -251,7 +273,12 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2015__q06.png]]
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2015#q06|src_smc_2015__Q06]]
 
 
 
@@ -280,9 +307,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quale delle cinque espressioni a frazione nidificata ha il valore maggiore?*
+*Quale delle cinque espressioni con frazioni annidate ha il valore più grande?*
 
-> Quale delle seguenti ha il più grande valore?
+> Quale dei seguenti ha il valore più grande?
 >
 > - **(A)** $\dfrac{\tfrac{1}{2}}{\tfrac{1}{3}}$
 > - **(B)** $\dfrac{1}{\dfrac{\tfrac{1}{3}}{4}}$
@@ -290,7 +317,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $\dfrac{1}{\dfrac{2}{\tfrac{1}{3}}}$
 > - **(E)** $\dfrac{\tfrac{1}{\tfrac{1}{3}}}{4}$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2015#q07|src_smc_2015__Q07]]
 
 
 
@@ -322,9 +353,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare il numero di modi per piegare la rete a 8 quadrati (6 ombrati) in un cubo*
+*Conta il numero di modi in cui si può piegare un sviluppo di cubo con 8 quadrati (6 ombreggiati) per ottenere un cubo*
 
-> Il diagramma mostra otto piccoli quadrati. Sei di questi quadrati devono essere ombrati in modo che i quadrati ombrati formino la rete di un cubo. In quanti modi diversi si può fare questo?
+> Il diagramma mostra otto piccoli quadrati. Sei di questi quadrati devono essere ombreggiati in modo che i quadrati ombreggiati formino lo sviluppo piatto di un cubo. In quanti modi diversi si può procedere in questo modo?
 >
 > - **(A)** $10$
 > - **(B)** $8$
@@ -334,7 +365,12 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2015__q08.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2015#q08|src_smc_2015__Q08]]
 
 
 
@@ -364,9 +400,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro linee rette disegnate su carta; numero di punti in cui due o più linee si incrociano*
+*Quattro rette tracciate su carta; numero dei punti in cui due o più rette si intersecano*
 
-> Sono disegnate quattro diverse linee rette su un pezzo di carta piatto. Il numero di punti in cui due o più linee si incrociano viene contato. Quale delle seguenti non potrebbe essere il numero di tali punti?
+> Su un foglio di carta piatto vengono tracciate quattro rette distinte. Si conta il numero di punti in cui due o più rette si intersecano. Quale delle seguenti opzioni NON potrebbe rappresentare il numero di tali punti?
 >
 > - **(A)** $1$
 > - **(B)** $2$
@@ -374,7 +410,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $4$
 > - **(E)** $5$
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2015#q09|src_smc_2015__Q09]]
 
 
 
@@ -403,9 +444,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca n tra 1 e 20, dove la somma di 1 a n è uguale alla somma di (n+1) a 20*
+*Trovare n compreso tra 1 e 20, tale che la somma da 1 a n sia uguale alla somma da n+1 a 20*
 
-> Il numero intero positivo $n$ è tra $1$ e $20$. Milly somma tutti gli enti da $1$ a $n$ inclusi. Billy somma tutti gli enti da $n + 1$ a $20$ inclusi. I loro totali sono gli stessi. Qual è il valore di $n$?
+> Il numero intero positivo $n$ si trova tra $1$ e $20$. Milly somma tutti gli interi da $1$ a $n$, inclusi. Billy somma tutti gli interi da $n + 1$ a $20$, inclusi. I loro totali sono uguali. Qual è il valore di $n$?
 >
 > - **(A)** $11$
 > - **(B)** $12$
@@ -413,7 +454,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $14$
 > - **(E)** $15$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2015#q10|src_smc_2015__Q10]]
 
 
 
@@ -443,9 +488,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di altezze distinte di torri costruite da blocchi di altezza di 4 cm, 6 cm o 10 cm*
+*Numero di altezze distinte delle torri costruite con blocchi alti 4 cm, 6 cm o 10 cm*
 
-> Rahid ha un gran numero di blocchi di costruzione cubi. Ogni blocco ha lati lunghi 4 cm, 6 cm o 10 cm. Rahid fa piccole torri della stessa altezza mettendo tre dei blocchi uno sopra l'altro. Quante altezza di torre può costruire?
+> Rahid ha un gran numero di blocchi da costruzione cubici. Ogni blocco ha spigoli di lunghezza 4 cm, 6 cm o 10 cm. Rahid costruisce piccole torri della stessa altezza impilando tre dei blocchi l'uno sull'altro. Quante altezze diverse di torre può ottenere?
 >
 > - **(A)** $6$
 > - **(B)** $8$
@@ -453,7 +498,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $12$
 > - **(E)** $27$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2015#q11|src_smc_2015__Q11]]
 
 
 
@@ -484,9 +534,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo y in termini di alfa e beta per le linee tangenti da un punto a un cerchio inscritto in un triangolo*
+*Angolo y in funzione di alfa e beta per le rette tangenti condotte da un punto a una circonferenza inscritta in un triangolo*
 
-> Un cerchio tocca i lati del triangolo $PQR$ nei punti $S$, $T$ e $U$ come mostrato. Inoltre $\angle PQR = \alpha^\circ$ e $\angle TSU = y^\circ$. Quale delle seguenti indica $y$ in termini di $\alpha$ e $\beta$?
+> Una circonferenza è tangente ai lati del triangolo $PQR$ nei punti $S$, $T$ e $U$, come mostrato. Inoltre, $\angle PQR = \alpha^\circ$ e $\angle TSU = y^\circ$. Quale delle seguenti espressioni fornisce $y$ in funzione di $\alpha$ e $\beta$?
 >
 > - **(A)** $\tfrac{1}{2}(\alpha + \beta)$
 > - **(B)** $180 - \tfrac{1}{2}(\alpha + \beta)$
@@ -496,7 +546,11 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2015__q12.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2015#q12|src_smc_2015__Q12]]
 
 
 
@@ -526,17 +580,22 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho mentito"
+*Giorno in cui sia il Fante di Cuori sia il Fante di Quadri dicono: "Ieri ho mentito"*
 
-> Il Gnuccio dei Cuori dice solo la verità il lunedì, martedì, mercoledì e giovedì. Dice solo bugie in tutti gli altri giorni. Il Colletto dei Diamanti dice solo la verità il venerdì, sabato, domenica e lunedì. Dice solo bugie in tutti gli altri giorni. Un giorno della settimana scorsa, entrambi dissero: "Ieri ho mentito".
+> Il Fante di Cuori dice solo la verità il lunedì, il martedì, il mercoledì e il giovedì. Negli altri giorni dice solo bugie. Il Fante di Quadri dice solo la verità il venerdì, il sabato, la domenica e il lunedì. Negli altri giorni dice solo bugie. Un giorno la settimana scorsa, entrambi dissero: "Ieri ho detto delle bugie". In quale giorno della settimana è successo?
 >
 > - **(A)** Domenica
 > - **(B)** Lunedì
-> - **(C)** Martedì
-> - **(D)** Giovedì
+> - **(C)** martedì
+> - **(D)** giovedì
 > - **(E)** Venerdì
 
-**Risposta:** E
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2015#q13|src_smc_2015__Q13]]
 
 
 
@@ -567,7 +626,7 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il lato sconosciuto di un triangolo con superficie di 88 unità quadrate e due lati 10 e 22*
+*Trovare il lato incognito di un triangolo con area di 88 unità quadrate e due lati di 10 e 22*
 
 > Il triangolo mostrato ha un'area di 88 unità quadrate. Qual è il valore di $y$?
 >
@@ -579,7 +638,11 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 
 ![[src_smc_2015__q14.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2015#q14|src_smc_2015__Q14]]
 
 
 
@@ -608,9 +671,9 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'originale profondità dell'acqua in un vaso cilindrico più grande dopo che un vaso più piccolo è stato spinto verso il basso all'interno*
+*Profondità originale dell'acqua nel vaso cilindrico più grande dopo che il vaso più piccolo è stato spinto all'interno di esso*
 
-> Due vasi hanno forma cilindrica. Il vaso più grande ha un diametro di 20 cm. Il vaso più piccolo ha un diametro di 10 cm e un'altezza di 16 cm. Il vaso più grande è parzialmente riempito di acqua. Poi il vaso vuoto più piccolo, con l'estremità aperta in cima, viene spinto lentamente verso il basso nell'acqua, che scorre sul bordo. Quando il vaso più piccolo viene spinto verso il basso, è mezzo pieno di acqua. Qual era la profondità originale dell'acqua nel vaso più grande?
+> Due vasi hanno forma cilindrica. Il vaso più grande ha un diametro di 20 cm. Il vaso più piccolo ha un diametro di 10 cm e un'altezza di 16 cm. Il vaso più grande è parzialmente pieno d'acqua. Poi il vaso più piccolo, vuoto e con l'apertura rivolta verso l'alto, viene spinto lentamente e completamente sott'acqua; l'acqua trabocca dal suo bordo. Quando il vaso più piccolo è spinto completamente sott'acqua, è pieno d'acqua per metà. Qual era la profondità iniziale dell'acqua nel vaso più grande?
 >
 > - **(A)** $10$ cm
 > - **(B)** $12$ cm
@@ -618,7 +681,11 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(D)** $16$ cm
 > - **(E)** $18$ cm
 
-**Risposta:** C
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2015#q15|src_smc_2015__Q15]]
 
 
 
@@ -648,9 +715,9 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di modi per allineare sei Fnargs (una di ciascuna coppia: rosso/blu, 2/3/4 di teste) da sinistra a destra*
+*Numero di modi in cui si possono allineare da sinistra a destra sei Fnarg (uno per ogni coppia: rosso/blu, 2/3/4 teste)*
 
-> I Fnarg sono rossi o blu e hanno 2, 3 o 4 teste. Un gruppo di sei Fnargs costituito da una forma possibile è allineato in modo tale che non ci siano due vicini immediati dello stesso colore e non abbiano lo stesso numero di teste. Quanti modi ci sono per metterli in fila da sinistra a destra?
+> Gli Fnargs sono o rossi o blu e hanno 2, 3 o 4 teste. Un gruppo di sei Fnargs, composto da uno di ciascuna forma possibile, viene disposto in fila in modo che nessuna coppia di vicini immediati abbia lo stesso colore né lo stesso numero di teste. In quanti modi si possono disporre in fila da sinistra a destra?
 >
 > - **(A)** $12$
 > - **(B)** $24$
@@ -658,7 +725,12 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(D)** $120$
 > - **(E)** $720$
 
-**Risposta:** A
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2015#q16|src_smc_2015__Q16]]
 
 
 
@@ -689,9 +761,9 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Radio di cerchi più piccoli in un diagramma di otto cerchi disposti in coppie concentriche alle angoli di un quadrato*
+*Raggio dei cerchi più piccoli in un diagramma di otto cerchi disposti a coppie concentriche agli angoli di un quadrato*
 
-> Il diagramma mostra otto cerchi di due dimensioni diverse. I cerchi sono disposti in coppie concentriche in modo che i centri formino un quadrato. Ogni cerchio più grande tocca un altro cerchio più grande e due cerchi più piccoli. I cerchi più grandi hanno raggio 1. Qual è il raggio di ogni cerchio più piccolo?
+> Il diagramma mostra otto cerchi di due dimensioni diverse. I cerchi sono disposti in coppie concentriche in modo che i loro centri formino un quadrato. Ogni cerchio più grande è tangente a un altro cerchio più grande e a due cerchi più piccoli. I cerchi più grandi hanno raggio 1. Qual è il raggio di ciascun cerchio più piccolo?
 >
 > - **(A)** $\dfrac{1}{4}$
 > - **(B)** $\dfrac{1}{3}$
@@ -701,7 +773,11 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 
 ![[src_smc_2015__q17.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2015#q17|src_smc_2015__Q17]]
 
 
 
@@ -731,9 +807,9 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più grande intero k il cui quadrato k^2 è un fattore di 10!*
+*Il più grande intero k tale che il quadrato di k, cioè k^2, sia un fattore di 10!*
 
-> Qual è il numero intero più grande $k$ il cui quadrato $k^2$ è un fattore di $10!$?
+> Qual è il più grande intero $k$ il cui quadrato $k^2$ è un fattore di $10!$?
 >
 > - **(A)** $6$
 > - **(B)** $256$
@@ -741,7 +817,12 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(D)** $720$
 > - **(E)** $5040$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2015#q18|src_smc_2015__Q18]]
 
 
 
@@ -772,9 +853,9 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza laterale del più piccolo quadrato in una configurazione di tre quadrati con basi su una linea*
+*Lunghezze dei lati del quadrato più piccolo in una configurazione di tre quadrati con le basi su una retta*
 
-> Tre quadrati sono disposti come mostrato in modo che le loro basi si trovino su una linea retta. Inoltre, gli angoli $Q$ e $R$ si trovano su una linea retta. Il quadrato medio ha lati che sono 1 cm più lunghi dei lati del più piccolo quadrato. Il quadrato più grande ha lati di 50 cm. Quali dei seguenti valori sono possibili per la lunghezza (in cm) dei lati del più piccolo quadrato?
+> Tre quadrati sono disposti come mostrato, in modo che le loro basi giacciano su una linea retta. Inoltre, gli angoli $Q$ e $R$ giacciono su una linea retta. Il quadrato centrale ha i lati lunghi 1 cm più dei lati del quadrato più piccolo. Il quadrato più grande ha i lati lunghi 50 cm. Quali dei seguenti sono i valori possibili per la lunghezza (in cm) dei lati del quadrato più piccolo?
 >
 > - **(A)** $2, 32$
 > - **(B)** $4, 42$
@@ -784,7 +865,11 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 
 ![[src_smc_2015__q19.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2015#q19|src_smc_2015__Q19]]
 
 
 
@@ -813,9 +898,9 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di carta di colore nero quando un cuscinetto di inchiostro quadrato è girato 180 gradi circa l'angolo*
+*Area della carta colorata di nero quando un tampone d'inchiostro quadrato viene ruotato di 180 gradi attorno al proprio angolo*
 
-> Un cuscinetto di inchiostro quadrato ha lati di lunghezza di 1 cm. È ricoperto di inchiostro nero e accuratamente collocato nel mezzo di un pezzo di carta bianca. Il cuscinetto quadrato viene poi girato $180^\circ$ intorno a un angolo. Il blocco viene poi rimosso dalla carta. Quale superficie di carta, in $\text{cm}^2$, è di colore nero?
+> Un tampone d'inchiostro quadrato ha i lati lunghi 1 cm. È ricoperto di inchiostro nero e viene posizionato con cura al centro di un foglio di carta bianca. Il tampone quadrato viene poi ruotato di $180^\circ$ attorno a uno dei suoi angoli. Successivamente, il tampone viene rimosso dal foglio. Quale area di carta, in $\text{cm}^2$, risulta colorata di nero?
 >
 > - **(A)** $\pi + 2$
 > - **(B)** $2\pi - 1$
@@ -823,7 +908,11 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(D)** $2\pi - 2$
 > - **(E)** $\pi + 1$
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2015#q20|src_smc_2015__Q20]]
 
 
 
@@ -854,9 +943,9 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza dell'AP in un triangolo XYZ con linee attraverso un punto parallelo ai lati*
+*Lunghezza di AP in un triangolo XYZ con rette passanti per un punto e parallele ai lati*
 
-> Il diagramma mostra un triangolo $XYZ$. I lati $XY$, $YZ$ e $XZ$ hanno lunghezze rispettivamente $2$, $3$ e $4$. Le linee $AMB$, $PMQ$ e $SMT$ sono disegnate in parallelo ai lati $YZ$, $XZ$ e $XY$, rispettivamente, dove $A$, $P$, $S$ sono sul lato $XY$ e $B$, $Q$, $T$ sono sul lato $XZ$. Inoltre $M$ è lo stesso punto su ciascuna di queste linee. Qual è la lunghezza di $AP$?
+> Il diagramma mostra un triangolo $XYZ$. I lati $XY$, $YZ$ e $XZ$ hanno lunghezze rispettivamente pari a $2$, $3$ e $4$. Le rette $AMB$, $PMQ$ e $SMT$ sono tracciate parallelamente ai lati $YZ$, $XZ$ e $XY$ rispettivamente, dove $A$, $P$, $S$ si trovano sul lato $XY$ e $B$, $Q$, $T$ si trovano sul lato $XZ$. Inoltre, $M$ è lo stesso punto su ciascuna di queste rette. Qual è la lunghezza di $AP$?
 >
 > - **(A)** $\dfrac{10}{11}$
 > - **(B)** $\dfrac{11}{12}$
@@ -866,7 +955,11 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 
 ![[src_smc_2015__q21.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2015#q21|src_smc_2015__Q21]]
 
 
 
@@ -896,9 +989,9 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta di f(2015) dove f(x) = x + sqrt(x^2+1) + 1/(x - sqrt(x^2+1))*
+*Valore di f(2015), dove f(x) = x + sqrt(x^2+1) + 1/(x - sqrt(x^2+1))*
 
-> Let $f(x) = x + \sqrt{x^2 + 1} + \dfrac{1}{x - \sqrt{x^2 + 1}}$. Qual è il valore di $f(2015)$?
+> Sia $f(x) = x + \sqrt{x^2 + 1} + \dfrac{1}{x - \sqrt{x^2 + 1}}$. Qual è il valore di $f(2015)$?
 >
 > - **(A)** $-1$
 > - **(B)** $0$
@@ -906,7 +999,12 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(D)** $\sqrt{2016}$
 > - **(E)** $2015$
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2015#q22|src_smc_2015__Q22]]
 
 
 
@@ -936,9 +1034,9 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più grande fattore primo della somma di tutti i 24 numeri a quattro cifre formati da quattro diversi numeri non zero*
+*Il più grande fattore primo della somma di tutti i 24 numeri di quattro cifre formati da quattro cifre diverse non nulle*
 
-> Date quattro diverse cifre non zero, è possibile formare $24$ diversi numeri a quattro cifre contenenti ognuna di queste quattro cifre. Qual è il più grande fattore primo della somma dei numeri $24$?
+> Dati quattro diversi numeri decimali non nulli, è possibile formare $24$ numeri di quattro cifre diversi, ciascuno dei quali contiene tutte e quattro queste cifre. Qual è il più grande fattore primo della somma dei $24$ numeri?
 >
 > - **(A)** $23$
 > - **(B)** $93$
@@ -946,7 +1044,12 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(D)** $101$
 > - **(E)** $113$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2015#q23|src_smc_2015__Q23]]
 
 
 
@@ -976,9 +1079,9 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le carte N più grandi (integer 1-25) che possono essere posizionate in una riga in modo che ogni coppia adiacente condivide un fattore primo*
+*Il maggior numero N di carte (interi da 1 a 25) che si possono disporre in fila in modo che ogni coppia adiacente abbia un fattore primo in comune*
 
-> Peter ha 25 schede, ciascuna stampata con un numero intero diverso da $1$ a $25$. Desidera posizionare le carte $N$ in una singola riga in modo che i numeri su ogni coppia di carte adiacenti condividano un fattore primo in comune. Qual è il valore più grande di $N$ per il quale questo è possibile?
+> Peter ha 25 carte, ciascuna stampata con un numero intero diverso compreso tra $1$ e $25$. Vuole disporre $N$ carte in una singola riga in modo che i numeri su ogni coppia di carte adiacenti abbiano un fattore primo in comune. Qual è il valore massimo di $N$ per cui ciò è possibile?
 >
 > - **(A)** $16$
 > - **(B)** $18$
@@ -986,7 +1089,12 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(D)** $22$
 > - **(E)** $24$
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2015#q24|src_smc_2015__Q24]]
 
 
 
@@ -1016,9 +1124,9 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta di f(500) per una funzione moltiplicativa con f(10)=14 e f(40)=20*
+*Valore di f(500) per una funzione moltiplicativa tale che f(10)=14 e f(40)=20*
 
-> Una funzione $f$, definita sull'insieme di integri positivi, è tale che $f(xy) = f(x) + f(y)$ per tutti $x$ e $y$. È dato che $f(10) = 14$ e $f(40) = 20$. Qual è il valore di $f(500)$?
+> Una funzione $f$, definita sull'insieme degli interi positivi, è tale che $f(xy) = f(x) + f(y)$ per ogni $x$ e $y$. Si sa che $f(10) = 14$ e $f(40) = 20$. Qual è il valore di $f(500)$?
 >
 > - **(A)** $29$
 > - **(B)** $30$
@@ -1026,4 +1134,9 @@ Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho
 > - **(D)** $49$
 > - **(E)** $50$
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2015#q25|src_smc_2015__Q25]]

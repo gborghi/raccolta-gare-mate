@@ -36,13 +36,18 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of squares to move to form a large square.*
+*Minimum number of small squares to move in order to form a large square.*
 
-> Mathias arranged 16 squares identical to the figure. He proposes to Mathilde to form a large square with these 16 squares. How many squares does Mathilde have to move, at least, to form a large square?
+> Mathias has arranged 16 identical small squares as in the figure. He proposes to Mathilde that they use these 16 small squares to form one large square. At minimum, how many small squares must Mathilde move in order to form a large square?
 
 ![[src_bocconi_finaleint_2010_g1__q01.png]]
 
-**Answer:** 4
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q01|src_bocconi_finaleint_2010_g1__Q01]]
 
 
 
@@ -68,13 +73,18 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete the year dominoes so that adjacent boxes show the same figure.*
+*Complete the year's dominoes so that adjacent tiles show the same number.*
 
-> Dominique uses a game of six dominos all different from each other. The two boxes of each domain shall each contain the digits $0$, $1$ or $2$. Dominique has placed all the dominoes on the table so that two boxes (of different dominoes) touching each other always return the same figure. Complete the figure.
+> Dominique uses a set of six dominoes, all of which are different from one another. Each of the two halves of every domino bears the digit $0$, $1$, or $2$. Dominique has arranged all the dominoes on the table so that two halves (from different dominoes) that touch each other always bear the same digit. Complete the figure.
 
 ![[src_bocconi_finaleint_2010_g1__q02.png]]
 
-**Answer:** completed figure: row 1: 2|2 2|0 0; row 2: 2 ... 0; row 3: 1 1|1 1|0
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q02|src_bocconi_finaleint_2010_g1__Q02]]
 
 
 
@@ -100,13 +110,18 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete the star disks so that four aligned disks contain the numbers 1 to 4.*
+*Complete the discs of the star so that four aligned discs contain the numbers from 1 to 4.*
 
-> Complete the empty disks in this figure so that four aligned disks always contain the four numbers from $1$ to $4$.
+> Complete the empty discs in this figure so that four discs in a line always contain the four numbers from $1$ to $4$.
 
 ![[src_bocconi_finaleint_2010_g1__q03.png]]
 
-**Answer:** figure: star completed with the numbers from 1 to 4
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q03|src_bocconi_finaleint_2010_g1__Q03]]
 
 
 
@@ -132,13 +147,18 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of faces to be glued by joining two excavators to minimize surface area.*
+*Number of faces to glue by joining two hexahedra so as to minimize the surface area.*
 
-> Each of these two objects consists of six cubes of$1$ centimetres of grain that have been assembled. After rotating and moving them, these two objects are glued together so that the surface of the newly obtained solid is minimal. How many faces do you have to glue? Two contact faces shall both be glue-spatched and only the faces to be glued shall be glue-spatched.
+> Each of these two objects consists of six small cubes with an edge length of $1$ centimetres that have been assembled. After possibly rotating and moving them, these two objects are glued together so that the surface area of the new solid obtained is minimal. How many faces must be coated with glue? Both of the two faces in contact must be coated with glue, and only the faces to be glued must be coated.
 
 ![[src_bocconi_finaleint_2010_g1__q04.png]]
 
-**Answer:** 12
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q04|src_bocconi_finaleint_2010_g1__Q04]]
 
 
 
@@ -164,13 +184,18 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum number of doors so that each room has exactly three doors and you can get out.
+*Minimum number of doors so that each room has exactly three doors and one can exit.*
 
-> Here's the plant from Archie Tekte's house. Archie wants to have exactly three doors in each of the five rooms, and at least one door in the house to let you out. How many doors does Archie have to have at least? Note: You must be able to access all the rooms in the house.
+> Here is the floor plan of Archie Tekte's house. Archie wants exactly three doors in each of the five rooms, and at least one of the doors in the house must lead out of the house. What is the minimum number of doors Archie must provide? Note: all the rooms in the house must be accessible.
 
 ![[src_bocconi_finaleint_2010_g1__q05.png]]
 
-**Answer:** 8
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q05|src_bocconi_finaleint_2010_g1__Q05]]
 
 
 
@@ -196,9 +221,14 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 
 *Maximum score by forming squares and triangles with 12 matches.*
 
-> Mathias placed identical matches on his desk to form at least a square and at least a triangle. Count the squares and triangles of all sizes that appear. Each plotted triangle is $2$ points and each plotted square is $5$ points. What's the maximum score Mathias can score? Each end of a match is in contact with the end of another match or with the ends of more than one match, and two matches never cross.
+> Mathias has arranged $12$ identical matches on his desk so as to form at least one square and at least one triangle. All squares and triangles of all sizes that appear are counted. Each drawn triangle is worth $2$ points, and each drawn square is worth $5$ points. What is the highest score Mathias can achieve? Each end of a match is in contact with the end of another match or with the ends of several other matches, and no two matches ever cross.
 
-**Answer:** 17
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q06|src_bocconi_finaleint_2010_g1__Q06]]
 
 
 
@@ -224,13 +254,18 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum end result on the operation wheel starting from a number between 1 and 9.*
+*The maximum final result obtained by going around the wheel of operations starting from a number between 1 and 9.*
 
-> Mathias chooses a number between $1$ and $9$ ($1$ and $9$ included). Start from any wheel box and apply the operation of this box to the number you have chosen. It then runs the wheel in the direction of the arrow and then performs the other five operations. For example, if you have selected $8$ and the box $+8$, run $8 + 8 = 16$; $16 \times 3 = 48$; $48 : 6 = 8$; $8 \times 5 = 40$; $40 + 9 = 49$; $49 + 2 = 51$. The division by $6$ must necessarily give an integer result in order for the calculation to be valid. What's the greatest end result Mathias can get? The wheel operations are $+9$, $+2$, $+8$, $\times 3$, $: 6$, $\times 5$.
+> Mathias chooses a number between $1$ and $9$ (including $1$ and $9$). He starts from any cell on the wheel and applies the operation of that cell to the number he has chosen. He then travels around the wheel in the direction of the arrow, performing the other five operations in succession. For example, if he has chosen $8$ and the cell $+8$, he will perform $8 + 8 = 16$; $16 \times 3 = 48$; $48 : 6 = 8$; $8 \times 5 = 40$; $40 + 9 = 49$; $49 + 2 = 51$. Division by $6$ must necessarily yield an integer result for the calculation to be valid. What is the largest final result Mathias can obtain? The operations on the wheel are $+9$, $+2$, $+8$, $\times 3$, $: 6$, $\times 5$.
 
 ![[src_bocconi_finaleint_2010_g1__q07.png]]
 
-**Answer:** 72
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q07|src_bocconi_finaleint_2010_g1__Q07]]
 
 
 
@@ -256,13 +291,18 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fill the six disks of the star with the numbers 1 to 6 giving the total of the links.*
+*Fill the six discs of the star with the numbers from 1 to 6, given the totals of the connections.*
 
-> The six disks of this star contain the six numbers from $1$ to $6$. Next to each disk is written the sum of the numbers connected directly to that disk by a segment. Complete the star by writing the numbers on the disks. The sums indicated are $11$, $11$, $17$, $8$, $9$, $15$.
+> The six discs of this star contain the six numbers from $1$ to $6$. Next to each disc, the sum of the numbers directly connected to that disc by a line segment has been written. Complete the star by writing the numbers in the discs. The sums indicated are $11$, $11$, $17$, $8$, $9$, $15$.
 
 ![[src_bocconi_finaleint_2010_g1__q08.png]]
 
-**Answer:** figure: discs 1, 2, 4, 5, 6, 3 (sums 11, 11, 17, 8, 9, 15)
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q08|src_bocconi_finaleint_2010_g1__Q08]]
 
 
 
@@ -286,11 +326,16 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Finding the mysterious number common to four additions with hidden digits.*
+*Find the mysterious number common to four addition problems with hidden digits.*
 
-> Mathilde wrote to Mathias four mysterious additions: $? \times 2 + 17$, $? + 11 \times 7$, $? + 18 \times 7$, $? + 23 \times 7$, where each question point always represents the same positive number and each asterisk represents all different numbers; the four additions all yield the same result. Mathilde found the number represented by the question mark. It's your turn!
+> Mathilde wrote four mysterious addition problems to Mathias: $? \times 2 + 17$, $? + 11 \times 7$, $? + 18 \times 7$, $? + 23 \times 7$, where each question mark always represents the same positive number and each asterisk represents digits that are all different; all four addition problems yield the same result. Mathilde found the number represented by the question mark. Now it's your turn!
 
-**Answer:** 2 solutions: 7; 17
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q09|src_bocconi_finaleint_2010_g1__Q09]]
 
 
 
@@ -316,13 +361,18 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Count the true uncrossed quadrilaterals as shown in Figure 1*
+*Count the true non-intersecting quadrilaterals that are entirely drawn in the figure.*
 
-> How many real uncrossed quadrilaterals are shown in the figure? Note: a true quadrilateral does not have three aligned vertices.
+> How many true, non-crossing quadrilaterals are entirely drawn in the figure? Note: a true quadrilateral does not have three collinear vertices.
 
 ![[src_bocconi_finaleint_2010_g1__q10.png]]
 
-**Answer:** 25
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q10|src_bocconi_finaleint_2010_g1__Q10]]
 
 
 
@@ -348,13 +398,18 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of ways to write 1.7. in boxes without adjacent boxes differing by 3.*
+*Number of ways to write 1..7 in the boxes such that adjacent boxes do not differ by 3.*
 
-> Write the seven numbers from $1$ to $7$ in the boxes in the figure (one number per box). Two numbers in boxes having a common side, in whole or in part, must not have a difference of $3$. How many ways can you complete the figure?
+> Write the seven numbers from $1$ to $7$ in the boxes in the figure (one number per box). Two numbers in boxes that share a side, wholly or partly, must not have a difference equal to $3$. In how many ways can the figure be completed?
 
 ![[src_bocconi_finaleint_2010_g1__q11.png]]
 
-**Answer:** 384
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q11|src_bocconi_finaleint_2010_g1__Q11]]
 
 
 
@@ -378,11 +433,16 @@ Minimum number of doors so that each room has exactly three doors and you can ge
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of sides of a polygon of Pogo decomposable into rectangular triangles 30-60-90.*
+*Maximum number of sides of a Pogo polygon that can be decomposed into 30-60-90 right triangles.*
 
-> Pogo's polygons are convex. They can be cut into rectangular triangles whose sharp angles measure $30^\circ$ and $60^\circ$. What is the maximum number of sides of a Pogo polygon?
+> Pogo polygons are convex. They can be cut into right triangles whose acute angles measure $30^\circ$ and $60^\circ$. What is the maximum number of sides of a Pogo polygon?
 
-**Answer:** 12
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q12|src_bocconi_finaleint_2010_g1__Q12]]
 
 
 
@@ -406,11 +466,16 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of odd box filled to 64% with 2 cm thickness cubes.*
+*Odd-numbered box volume, 64% filled with 2-cm-edge cubes.*
 
-> A odd box is a rectangular parallel-piped whose three beams measure odd integers of centimeters. It shall be filled with as many cubes as possible, the length of which shall be two centimetres, and the cubes shall be arranged in parallel with those of the box. What's the volume of the box, knowing that the cubes occupy the$64\%$?
+> An odd box is a right rectangular parallelepiped whose three edges measure odd whole numbers of centimeters. It is filled with as many cubes as possible, each with an edge two centimeters long, with the edges of the cubes parallel to those of the box. What is the volume of the box, given that the cubes occupy $64\%$ of it?
 
-**Answer:** 7 solutions: 525, 7425, 8325, 8925, 11625, 15225, 26325
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q13|src_bocconi_finaleint_2010_g1__Q13]]
 
 
 
@@ -436,13 +501,18 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cut the gray surface of seven circles and squares into two equal parts with a straight line.*
+*Cut the grey surface of seven circles and squares into two equal parts with a single straight line.*
 
-> Each of the seven dwarfs laid an apple on a flat table. These apples are identical and, seen from above, arranged as in the figure. The square is regular, the side of a square and the radius of a circle are the same length. Each circle is centered on a vertex of the quadrature. Snow White wants to divide the whole (the gray surface of the figure) into two equal parts (surfaces). Retrieve this straight cut, knowing that the stretch must pass through a node (vertical) of the squaring.
+> Each of the seven dwarfs has placed an apple on a flat table. These apples are identical and, viewed from above, are arranged as in the figure. The grid is regular; the side length of a small square and the radius of a circle are equal. Each circle is centered at a vertex of the grid. Snow White wants to divide the whole thing (the grey area in the figure) into two equal parts (areas). She finds this straight-line cut, knowing that the line segment must pass through a node (vertex) of the grid.
 
 ![[src_bocconi_finaleint_2010_g1__q14.png]]
 
-**Answer:** 7 solutions (see figures)
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q14|src_bocconi_finaleint_2010_g1__Q14]]
 
 
 
@@ -468,13 +538,18 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Select and scan numbers in a table minimizing the product of the five numbers selected.*
+*Select and check numbers in a table, minimizing the product of the five selected numbers.*
 
-> In this table, in each row, two numbers are chosen, of which the other three are chosen; then in each column, a number is chosen, of which all the others are chosen. They've chosen so many numbers in all, five numbers that they're never barred. What is the product of the five numbers that you can choose from?
+> In this table, in each row, two numbers are chosen and the other three are crossed out; then, in each column, one number is chosen and all the others are crossed out. Thus, in total, five numbers have been chosen that are never crossed out. What is the minimum product of the five numbers that can be chosen in this way?
 
 ![[src_bocconi_finaleint_2010_g1__q15.png]]
 
-**Answer:** 3024
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q15|src_bocconi_finaleint_2010_g1__Q15]]
 
 
 
@@ -500,13 +575,18 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Finding the multiplier of a cyclic sequence with digit removal or multiplication operations.*
+*Find the multiplicative factor of a cyclic sequence using digit-removal or multiplication operations.*
 
-> In the sense of a clock's hands, one moves from one number to the next: $\bullet$ by removing one digit from it (if it has at least two), without changing the order of the others when they are more than one; $\bullet$ or by multiplying it by an integer factor, always the same. What's the multiplier? All numbers are integers (not zeros), their writing never begins with $0$. In the figure, two given boxes contain $20$ and $10$.
+> In the direction of the hands of a clock, one moves from one number to the next: $\bullet$ by removing one digit from it (if it has at least two), without changing the order of the other digits when there is more than one; $\bullet$ or by multiplying it by an integer factor, always the same one. What is the multiplicative factor? All the numbers are integers (non-zero), and their notation never begins with $0$. In the figure, two given boxes contain $20$ and $10$.
 
 ![[src_bocconi_finaleint_2010_g1__q16.png]]
 
-**Answer:** 10 solutions: 205, 206, 207, 208, 209, 255, 256, 257, 258, 259
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q16|src_bocconi_finaleint_2010_g1__Q16]]
 
 
 
@@ -530,11 +610,16 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Determining nine digits of the 2002-2010 range in a sequence generated by iterated substitutions.*
+*Determine nine digits of rank 2002–2010 in a sequence generated by iterated substitutions.*
 
-> Your share of$2$. It iteratively replaces all $2$ with $210$, all $1$ with $20$, all $0$ with $1$. It is obtained by $2$, $210$, $210201$, $210201210120$, $210201210120210201202101\ldots$. By convention, from left to right, the number of rank $0$ is $2$, that of rank $1$ is $1$, that of rank $2$ is $0$, that of rank $3$ is $2$, that of rank $4$ is $0$, etc. What are the nine digits of the ranks from $2002$ to $2010$ included?
+> Sue starts from $2$. Iteratively performs the substitutions of all $2$ with $210$, of all $1$ with $20$, and of all $0$ with $1$. Obtains $2$, $210$, $210201$, $210201210120$, $210201210120210201202101\ldots$. By convention, from left to right, the digit of rank $0$ is $2$, that of rank $1$ is $1$, that of rank $2$ is $0$, that of rank $3$ is $2$, that of rank $4$ is $0$, etc. What are the nine digits of the ranks from $2002$ to $2010$ inclusive?
 
-**Answer:** 020121012
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_induzione|Induction]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q17|src_bocconi_finaleint_2010_g1__Q17]]
 
 
 
@@ -558,8 +643,13 @@ Maximum number of sides of a polygon of Pogo decomposable into rectangular trian
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diameter of the large circle of the ant, triangle data and circles of 1 mm diameter.*
+*Diameter of the large ant circle, given the triangle and small circles with a diameter of 1 mm.*
 
-> The two circles, the triangle, and the great circle represent an ant's two eyes, nose, and head, respectively. Each of the two circles is tangent to the other circle and the great circle. The two circles have the same radius. The triangle has three equal sides and its vertices are on the circles. The three sides of the triangle and the diameters of the two circles all measure $1$ millimetres. What is the diameter of the great circle in millimeters? A value approximating the nearest cent of a millimeter shall be given, taking, if necessary, $1{,}414$ for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$; $2{,}646$ for $\sqrt{7}$; $3{,}317$ for $\sqrt{11}$.
+> The two small circles, the triangle, and the large circle represent, respectively, the two eyes, the nose, and the head of an ant. Each of the two small circles is tangent to the other small circle and to the large circle. The two small circles have the same radius. The triangle has three equal sides, and its vertices lie on the small circles. The three sides of the triangle and the diameters of the two small circles all measure $1$ millimetres. What is the diameter of the large circle, in millimetres? An approximate value rounded to the nearest hundredth of a millimetre will be given, taking, if necessary, $1{,}414$ for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$; $2{,}646$ for $\sqrt{7}$; $3{,}317$ for $\sqrt{11}$.
 
-**Answer:** 2,03
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2010_g1#q18|src_bocconi_finaleint_2010_g1__Q18]]

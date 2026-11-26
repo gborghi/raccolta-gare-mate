@@ -34,17 +34,19 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nature of roots of x^2+bx+c=0 with c<0*
+*Nature of the roots of x2 + bx + c = 0 when c < 0*
 
-> In the equation x2 + bx + c = 0 we know that c < 0. Then surely:
+> In the equation x2 + bx + c = 0 it is known that c < 0. Then, certainly:
 >
-> - **(A)** The equation has no real roots.
-> - **(B)** The equation has two coinciding real roots.
-> - **(C)** The equation has a positive real root and a negative real root.
-> - **(D)** The equation has two positive real roots,
-> - **(E)** The equation has two negative real roots.
+> - **(A)** the equation has no real roots,
+> - **(B)** the equation has two equal real roots,
+> - **(C)** the equation has one positive real root and one negative real root,
+> - **(D)** the equation has two positive real roots,
+> - **(E)** the equation has two negative real roots.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2014_triennio#q02|src_archimede_2014_triennio__Q02]]
 
 
 
@@ -72,11 +74,18 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Acute parallelogram angle with perimeter and area*
+*Acute angle of a parallelogram with perimeter and area*
 
-> A parallelogram with a perimeter of P = 8 cm has an area of A = 4 √ 2 cm2. What's your sharp angle? (A) 30°, (B) 45°, (C) 60°, (D) such a parallelogram does not exist, (E) the angle cannot be uniquely determined from the data provided.
+> A parallelogram with perimeter P = 8 cm has area A = 4
+> √
+> 2 cm2. How large is its acute angle?
+> (A) 30°, (B) 45°, (C) 60°, (D) such a parallelogram does not exist,
+> (E) the angle is not uniquely determined by the given data.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+[[Quesiti/src_archimede_2014_triennio#q03|src_archimede_2014_triennio__Q03]]
 
 
 
@@ -104,11 +113,18 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unallocated surfaces, sum of powers of 2*
+*Undistributed sesterzi, sum of powers of 2*
 
-> Thirteen friends meet for a board game. The game provides for each participant to be allocated a sixth, so that the first player receives a sixth and each subsequent player receives a number of sixths equal to twice that assigned to the previous player. Knowing that there are a total of 10,000 sesterces, how many sesterces will remain undistributed? (A) 0, (B) 32, (C) 205, (D) 951, (E) 1809.
+> Thirteen friends meet for a board game.
+> The game provides that each participant is given some sesterzi, so that the first player receives
+> one sesterzio and each subsequent player receives a number of sesterzi equal to double
+> those assigned to the previous player. Knowing that there are 10000
+> sesterzi in total, how many sesterzi will remain undistributed?
+> (A) 0, (B) 32, (C) 205, (D) 951, (E) 1809.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_archimede_2014_triennio#q04|src_archimede_2014_triennio__Q04]]
 
 
 
@@ -141,11 +157,24 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is between five expressions and an integer*
+*Which of five expressions and an integer*
 
-> Which of these numbers is an integer? (A) 0,002 · 100 + √ 11025, (B) 32 · 3 · 1,6, (C) (8, 2)2 −(1, 8)2, (D) ( √ 2 + 1)2, (E) 34 1,02 + 5 6√0,0001.
+> Which of these numbers is an integer?
+> (A) 0.002 · 100 +
+> √
+> 11025, (B) 32 · 3 · 1.6, (C) (8.2)2 −(1.8)2,
+> (D) (
+> √
+> 2 + 1)2, (E)
+> 34
+> 1.02 +
+> 5
+> 6√0.0001.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2014_triennio#q06|src_archimede_2014_triennio__Q06]]
 
 
 
@@ -182,11 +211,16 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Red area near the triangular center of radius*
+*Ratio of the red area near the centroid to the triangle*
 
-> Consider an equilateral triangle T, and it's called G its barycenter. All points inside the triangle whose distance from G is less than or equal to the distance from any of the three vertices shall be colored red. What is the ratio between the red area and the T area? (A) 1 3, (B) 1 4, (C) 2 3, (D) √ 3 9 , (E) √ 3 3 .
+> Consider an equilateral triangle T, and let G be its centroid. Colour red all interior points of the triangle whose distance from G is less than or equal to the distance from any of the three vertices. What is the ratio of the red area to the area of T?
+> (A) 1/3, (B) 1/4, (C) 2/3, (D) √3/9, (E) √3/3.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2014_triennio#q07|src_archimede_2014_triennio__Q07]]
 
 
 
@@ -221,11 +255,25 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of sum of roots minus sum of reciprocals, symmetric eq.*
+*Value of the sum of roots minus the sum of reciprocals, symmetric equation*
 
-> Knowing that the equation 2x4 + 5x3 −21x2 + 5x + 2 = 0 has 4 real solutions a, b, c, d, how much is a + b + c + d −  1 a + 1 b + 1 c + 1 d? (A) −7, (B) 21 5 , (C) 10 21, (D) 5 2, (E) 0.
+> Knowing that the equation 2x4 + 5x3 −21x2 + 5x + 2 = 0 has 4 real solutions a, b, c, d,
+> what is a + b + c + d −
+>  1
+> a + 1
+> b + 1
+> c + 1
+> d
+> ?
+> (A) −7, (B) 21
+> 5 , (C) 10
+> 21, (D) 5
+> 2, (E) 0.
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_simmetria|Using symmetry]]
+[[Quesiti/src_archimede_2014_triennio#q08|src_archimede_2014_triennio__Q08]]
 
 
 
@@ -254,9 +302,13 @@ level: triennio
 
 *Value of x^3+1/x^3 given x+1/x=5*
 
-> If x plus 1 x is equal to 5, how much is x3 plus 1 x3? (A) 105, (B) 110, (C) 115, (D) 120, (E) 125.
+> If x + 1/x = 5, what is x^3 + 1/x^3?
+> (A) 105, (B) 110, (C) 115, (D) 120, (E) 125.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2014_triennio#q12|src_archimede_2014_triennio__Q12]]
 
 
 
@@ -282,11 +334,17 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of n for a polynomial to have an integer solution*
+*Value of n for which the polynomial has an integer solution*
 
-> The positive integer n is such that the polynomial 1 −2x + 3x2 −4x3 + 5x4 −· · −2014x2013 + nx2014 has at least one integer solution. How much is n? (A) 1, (B) 2, (C) 2014, (D) 2015, (E) none of the above.
+> The positive integer n is such that the polynomial
+> 1 −2x + 3x2 −4x3 + 5x4 −· · −2014x2013 + nx2014
+> has at least one integer solution. What is the value of n?
+> (A) 1, (B) 2, (C) 2014, (D) 2015, (E) none of the above.
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2014_triennio#q15|src_archimede_2014_triennio__Q15]]
 
 
 
@@ -334,13 +392,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rage ex-circumference inscribed in a rectangular triangle*
+*Radius of the excircle of a right triangle*
 
-![[src_archimede_2014_triennio__prob16.png]]
+> Let ABC be a right triangle whose legs measure AC = 2m and BC = 1m. Consider the circle tangent to the hypotenuse and to the lines containing AC and BC, external to triangle ABC: what is its radius r in m?
+> (A) 1+√5/2, (B) √5, (C) 3+√5/2, (D) 5, (E) 2+√5/2.
+> A
+> r
+> B
+> C
 
-> Whether ABC is a right triangle whose cathetes measure AC =2m and BC =1m. Consider the tangent circumference of the hypotenuse and the lines containing AC and BC, outside the triangle ABC: how much is its radius r in m? (A) 1+ √ 5 2 , (B) √ 5, (C) 3+ √ 5 2 , (D) 5, (E) 2+ √ 5 2 . A r B C
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2014_triennio#q16|src_archimede_2014_triennio__Q16]]
 
 
 
@@ -373,11 +438,15 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of a regular side tetrahedron 6√2*
+*Volume of a regular tetrahedron with side 6√2*
 
-> Simone has a regular tetrahedron-shaped fortune teller, whose faces have sides 6 √ 2 cm long. What is the volume of the tetrahedron in cm3? (A) 36, (B) 36 √ 2, (C) 72, (D) 72 √ 2, (E) 72 √ 3
+> Simone has a lucky charm in the shape of a regular tetrahedron, whose faces have sides of length 6√2 cm. What is the volume of the tetrahedron in cm³?
+> (A) 36, (B) 36√2, (C) 72, (D) 72√2, (E) 72√3
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2014_triennio#q17|src_archimede_2014_triennio__Q17]]
 
 
 
@@ -404,11 +473,18 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spieces of a face-counting polyester*
+*Counting the edges of a polyhedron from the number of faces*
 
-> An artist has made a stone sculpture in the shape of a strange polyhedron. The surface of the sculpture is made up of 31 triangular faces, 18 quadrangular faces, 11 pentagonal faces and 7 hexagonal faces. How many beads does polyhedron have? (A) 65, (B) 94, (C) 100, (D) 123, (E) 131.
+> An artist has made a stone sculpture in the shape of a strange
+> polyhedron.
+> The surface of the sculpture is made up of 31 triangular faces, 18 quadrilateral faces, 11 pentagonal faces and 7 hexagonal faces. How many edges does the
+> polyhedron have?
+> (A) 65, (B) 94, (C) 100, (D) 123, (E) 131.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+[[Quesiti/src_archimede_2014_triennio#q18|src_archimede_2014_triennio__Q18]]
 
 
 
@@ -449,9 +525,14 @@ level: triennio
 
 *Probability of not getting wet for three days in a row*
 
-> It often happens this season that when Luke leaves school it rains: this happens with a probability of 2.5. For this reason Luke feels it appropriate to take an umbrella with him, but sometimes he forgets it; the probability that Luke forgets the umbrella in a single day is 12. What are the odds that for three days in a row, Luke never bathes on his way home from school? (A) less than 16, (B) between 16 and 13, (C) between 13 and 12, (D) between 12 and 2, (E) greater than 5. 6.
+> In this season it often happens that when Luca leaves school it rains: this happens with probability 2/5. For this reason Luca thinks it is wise to take an umbrella with him, but sometimes he forgets it; the probability that on a single day Luca forgets the umbrella is 1/2. What is the probability that for three consecutive days Luca never gets wet, during the return from school?
+> (A) less than 1/6, (B) between 1/6 and 1/3, (C) between 1/3 and 1/2,
+> (D) between 1/2 and 2/3, (E) greater than 5/6.
 
-**Answer:** D
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2014_triennio#q19|src_archimede_2014_triennio__Q19]]
 
 
 
@@ -525,34 +606,27 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length DF in an equilateral triangle divided into two areas*
+*Length of DF where two area-bisectors of an equilateral triangle meet*
 
 ![[src_archimede_2014_triennio__prob20.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=5]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (1,0);
-  \coordinate (C) at (0.5,0.866);
-  \coordinate (D) at (0.1464,0.2537);
-  \coordinate (E) at (0.8536,0.2537);
-  \coordinate (F) at (0.3536,0.6124);
-  \coordinate (G) at (0.7071,0);
-  \draw (A) -- (B) -- (C) -- cycle;
-  \draw (D) -- (E);
-  \draw (G) -- (F);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above] at (C) {$C$};
-  \node[left] at (D) {$D$};
-  \node[right] at (E) {$E$};
-  \node[above left] at (F) {$F$};
-  \node[below] at (G) {$G$};
-\end{tikzpicture}
-\end{document}
-```
+> An equilateral triangle ABC of side 1 m is divided into two parts of equal area by the segment DE parallel to AB, as in the figure; likewise, it is divided into two parts of equal area by the segment GF parallel to BC. How many metres long is the segment DF?
+> (A) (
+> √
+> 2 −1), (B)
+> √
+> 2
+> 2 , (C) (1 −
+> √
+> 3
+> 2 ), (D)
+> √
+> 3
+> 3 , (E) 1
+> 2.
 
-> An ABC equilateral triangle of 1 m side is divided into two equal area parts by the DE segment parallel to AB, as shown in Figure; likewise, it is divided into two equal area parts by the GF segment parallel to BC. How long is the DF segment? (A) ( √ 2 −1), (B) √ 2 2 , (C) (1 − √ 3 2 ), (D) √ 3 3 , (E) 1 2. F B C A E G D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
 
-**Answer:** A
+[[Quesiti/src_archimede_2014_triennio#q20|src_archimede_2014_triennio__Q20]]

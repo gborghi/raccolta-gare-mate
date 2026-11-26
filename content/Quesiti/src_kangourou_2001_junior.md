@@ -37,9 +37,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible values of the sum of 3 dice*
+*How many different sums of the top faces of three dice*
 
-> I'm simultaneously throwing three dice and adding up the dots on their upper faces. What are the different possible values of that sum?
+> I throw three dice at the same time and add the pips that appear on their top faces. How many different possible values does that sum have?
 >
 > - **(A)** 18
 > - **(B)** 17
@@ -47,7 +47,10 @@ level: kangourou
 > - **(D)** 15
 > - **(E)** 14.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_junior#q01|src_kangourou_2001_junior__Q01]]
 
 
 
@@ -81,19 +84,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of A in the row*
+*Which statement about A's place in the line is true*
 
-> Students A, B, C, D, E, and F are in the Indian queue. We know that: 1) D is between E and F; 2) C is between D and E; 3) B is between C and D; 4) A is between B and C. Which of the following statements is true?
+> Students A, B, C, D, E and F are arranged in single file. It is known that: 1) D is between E and F; 2) C is between D and E; 3) B is between C and D; 4) A is between B and C. Which of the following statements is true?
 >
-> Kangourou 15 March 2001. Junior class. Page N. 2
+> Kangourou 15 March 2001. Junior category. Page no.
+> 2
 >
-> - **(A)** A is at one end (right or left) of the row
-> - **(B)** A is the second from one of the ends
-> - **(C)** A is the third from one of the ends
-> - **(D)** Such a provision is not possible.
-> - **(E)** This provision is possible, but the position of A cannot be determined uniquely.
+> - **(A)** A is at one end (right or left) of the line
+> - **(B)** A is second from one of the ends
+> - **(C)** A is third from one of the ends
+> - **(D)** such an arrangement is not possible
+> - **(E)** such an arrangement is possible, but A's position cannot be determined uniquely.
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_junior#q02|src_kangourou_2001_junior__Q02]]
 
 
 
@@ -123,9 +130,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diagonal length d of the polygon*
+*The length of a diagonal that splits a polygon*
 
-> One of the diagonals d divides a polygon of 31 cm perimeter into two polygons of 21 cm and 30 cm perimeter respectively. So the length of d is
+> One of the diagonals d splits a polygon of perimeter 31 cm into two polygons of perimeter 21 cm and 30 cm respectively. Then the length of d is
 >
 > - **(A)** 5 cm
 > - **(B)** 10 cm
@@ -133,7 +140,10 @@ level: kangourou
 > - **(D)** 20 cm
 > - **(E)** cannot be determined without further information.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_junior#q03|src_kangourou_2001_junior__Q03]]
 
 
 
@@ -167,11 +177,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubes to be added to form a cube*
+*Fewest unit cubes to add so as to form a cube containing the solid*
 
 ![[src_kangourou_2001_junior__prob4.png]]
 
-> The solid shown in the figure on the side is made up of unit side cubes. What is the minimum number of unit-side cubes to be added to form a cube containing the initial solid? (Existing cubes cannot be moved).
+> The solid shown in the figure beside it is made of unit cubes. What is the smallest number of unit cubes that must be added to form a cube containing the original solid? (The existing cubes cannot be moved.)
 >
 > - **(A)** 49
 > - **(B)** 60
@@ -179,7 +189,10 @@ level: kangourou
 > - **(D)** 110
 > - **(E)** 125.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_junior#q04|src_kangourou_2001_junior__Q04]]
 
 
 
@@ -210,17 +223,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True claim with MCD(m,35)>10*
+*Which statement about m is certainly true*
 
-> m is a positive integer such that GCD (m, 35) > 10. Which of the following is certainly true?
+> m is a positive integer such that HCF(m, 35) > 10. Which of the following statements is certainly true?
 >
 > - **(A)** the decimal representation of m has at least three digits
-> - **(B)** m is a multiple of 35.
+> - **(B)** m is a multiple of 35
 > - **(C)** m is divisible by 15
-> - **(D)** 35 is a multiple of m.
-> - **(E)** m is divisible by 5 or by 7, but not by both Note: GCD (a, b) indicates the maximum common divisor between a and b.
+> - **(D)** 35 is a multiple of m
+> - **(E)** m is divisible by 5 or by 7, but not by both. Note: HCF(a, b) denotes the highest common factor of a and b.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_junior#q05|src_kangourou_2001_junior__Q05]]
 
 
 
@@ -253,11 +270,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum firefighters for 11 squares*
+*Fewest matches to add so as to obtain exactly 11 squares*
 
 ![[src_kangourou_2001_junior__prob6.png]]
 
-> Find the minimum number of matches you need to add to the figure so you get exactly 11 squares.
+> Find the smallest number of matches that must be added to the figure so as to obtain exactly 11 squares.
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -265,7 +282,10 @@ level: kangourou
 > - **(D)** 5
 > - **(E)** 6.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_junior#q06|src_kangourou_2001_junior__Q06]]
 
 
 
@@ -295,17 +315,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Primes less than 2001 with digit sum 2*
+*Primes less than 2001 whose digits sum to 2*
 
-> How many prime numbers less than 2001 have a digit sum equal to 2?
+> How many primes less than 2001 are there whose digits sum to 2?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
-> - **(E)** more than four. Kangourou 15 March 2001. Junior Category. Page N. 3
+> - **(E)** more than four. Kangourou 15 March 2001. Junior category. Page no. 3
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_junior#q07|src_kangourou_2001_junior__Q07]]
 
 
 
@@ -357,7 +381,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the polygon with right angles*
+*The perimeter of the polygon in the figure*
 
 ![[src_kangourou_2001_junior__prob8.png]]
 
@@ -381,7 +405,7 @@ level: kangourou
 \end{document}
 ```
 
-> The perimeter of the polygon depicted on the side (the three angles indicated are right angles) is:
+> The perimeter of the polygon shown beside it (the three angles indicated are right angles) is
 >
 > - **(A)** 38 cm
 > - **(B)** 41 cm
@@ -389,7 +413,10 @@ level: kangourou
 > - **(D)** 50 cm
 > - **(E)** 59 cm.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_junior#q08|src_kangourou_2001_junior__Q08]]
 
 
 
@@ -420,9 +447,9 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number with 0 and 1 divisible by 225*
+*How many digits the smallest multiple of 225 written with only 0 and 1 has*
 
-> How many digits does the decimal representation of the smallest positive integer that can be written using only the digits 0 and 1, and that is divisible by 225 contain?
+> How many digits are there in the decimal representation of the smallest positive integer that can be written using only the digits 0 and 1, and that is divisible by 225?
 >
 > - **(A)** 10
 > - **(B)** 11
@@ -430,7 +457,11 @@ level: kangourou
 > - **(D)** 13
 > - **(E)** 14.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_junior#q09|src_kangourou_2001_junior__Q09]]
 
 
 
@@ -462,19 +493,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Cutting a ring to free them
+*Whether cutting one ring frees them all*
 
 ![[src_kangourou_2001_junior__prob10.png]]
 
-> By cutting off a single ring, can you free them all?
+> By cutting a single ring, is it possible to free them all?
 >
-> - **(A)** Yes, by cutting A
-> - **(B)** Yes, by cutting B
-> - **(C)** Yes, by cutting C
-> - **(D)** Yes, by cutting D
-> - **(E)** no. The questions from N. 11 to N. 20 are worth 4 points each.
+> - **(A)** yes, by cutting A
+> - **(B)** yes, by cutting B
+> - **(C)** yes, by cutting C
+> - **(D)** yes, by cutting D
+> - **(E)** no. Questions 11 to 20 are worth 4 points each
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_junior#q10|src_kangourou_2001_junior__Q10]]
 
 
 
@@ -505,9 +539,9 @@ Cutting a ring to free them
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values of d with a+b=cd and a+b+c=12*
+*How many different values d can take*
 
-> a, b, c and d are positive integers such that a + b = c d and a + b + c = 12. How many different possible values can d assume?
+> a, b, c and d are positive integers such that a + b = c d and a + b + c = 12. How many different possible values can d take?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -515,7 +549,11 @@ Cutting a ring to free them
 > - **(D)** 5
 > - **(E)** 6.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_junior#q11|src_kangourou_2001_junior__Q11]]
 
 
 
@@ -546,19 +584,22 @@ Cutting a ring to free them
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure of the angle x in figure*
+*The measure of the angle x in the figure*
 
 ![[src_kangourou_2001_junior__prob12.png]]
 
-> What's the size of the angle "x" in the figure?
+> What is the measure of the angle "x" in the figure?
 >
 > - **(A)** 30°
 > - **(B)** 35°
 > - **(C)** 40°
 > - **(D)** 45°
-> - **(E)** 50°. Kangourou 15 March 2001. Junior class. Page N. 4
+> - **(E)** 50°. Kangourou 15 March 2001. Junior category. Page no. 4
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_junior#q12|src_kangourou_2001_junior__Q12]]
 
 
 
@@ -582,11 +623,14 @@ Cutting a ring to free them
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Late hours in one week*
+*How many hours a clock that loses X minutes every Y hours will lose in a week*
 
-> A clock lags by X minutes every Y hours. How many hours, in terms of X and Y, will that clock be delayed in a week?
+> A clock loses X minutes every Y hours. How many hours, in terms of X and Y, will that clock lose in a week?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_junior#q13|src_kangourou_2001_junior__Q13]]
 
 
 
@@ -619,13 +663,9 @@ Cutting a ring to free them
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Francs left to Gaspare*
+*How many francs Gaspare has left after the free bars*
 
-> Gaspare had 400 francs and had to buy 100 bars of chocolate at
-> a cost of 4 francs each. At the supermarket he discovered that for every 6 bars of
-> chocolate that he had in the cart, a new bar was added
-> free of charge at the checkout. How many francs were left to Gaspare on leaving the
-> supermarket, knowing that besides the chocolate he bought nothing else?
+> Gaspare had 400 francs and had to buy 100 bars of chocolate at a cost of 4 francs each. In the supermarket he discovered that for every 6 bars of chocolate he had in the trolley, a new bar was added free at the till. How many francs does Gaspare have left on leaving the supermarket, given that besides the chocolate he bought nothing else?
 >
 > - **(A)** 52
 > - **(B)** 56
@@ -633,7 +673,10 @@ Cutting a ring to free them
 > - **(D)** 64
 > - **(E)** 68.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_junior#q14|src_kangourou_2001_junior__Q14]]
 
 
 
@@ -678,7 +721,7 @@ Cutting a ring to free them
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of areas of the two triangles removed*
+*The sum of the areas of the two triangles that were removed*
 
 ![[src_kangourou_2001_junior__prob15.png]]
 
@@ -692,15 +735,18 @@ Cutting a ring to free them
 \end{document}
 ```
 
-> Two triangles have been removed from a rectangle (see figure). The remaining trapezoid has an area of 30 cm2 and its major base is twice the minor. What is the sum of the areas of the two triangles that have been removed?
+> Two triangles have been removed from a rectangle (see the figure). The remaining trapezium has area 30 cm² and its longer base is twice the shorter one. What is the sum of the areas of the two triangles that were removed?
 >
-> - **(A)** 10 cm2
-> - **(B)** 12 cm2
-> - **(C)** 15 cm2
-> - **(D)** 18 cm2
+> - **(A)** 10 cm²
+> - **(B)** 12 cm²
+> - **(C)** 15 cm²
+> - **(D)** 18 cm²
 > - **(E)** 20 cm².
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2001_junior#q15|src_kangourou_2001_junior__Q15]]
 
 
 
@@ -732,9 +778,9 @@ Cutting a ring to free them
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of the thirsty Desiree camel*
+*The weight of the camel Desirée when she is thirsty*
 
-> Whenever the Desirée camel is thirsty, 84 percent of its body is made up of water. After drinking, its weight reaches 800 kg and water makes up 85 percent of its weight. What's the weight of the Desirée camel when it's thirsty?
+> Whenever the camel Desirée is thirsty, 84% of her body consists of water. After drinking, her weight reaches 800 kg and water makes up 85% of her weight. What is the weight of the camel Desirée when she is thirsty?
 >
 > - **(A)** 672 kg
 > - **(B)** 680 kg
@@ -742,7 +788,10 @@ Cutting a ring to free them
 > - **(D)** 720 kg
 > - **(E)** 750 kg.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_junior#q16|src_kangourou_2001_junior__Q16]]
 
 
 
@@ -773,9 +822,9 @@ Cutting a ring to free them
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of children with a product age 1664*
+*How many children, given the product of their ages*
 
-> The product of the ages of my children (in years) is 1664. The youngest is half the age of the oldest and there are no twins. How many kids do I have?
+> The product of my children's ages (in years) is 1664. The youngest is half as old as the eldest, and there are no twins. How many children do I have?
 >
 > - **(A)** 2
 > - **(B)** 3
@@ -783,7 +832,11 @@ Cutting a ring to free them
 > - **(D)** 5
 > - **(E)** 6.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_junior#q17|src_kangourou_2001_junior__Q17]]
 
 
 
@@ -839,7 +892,7 @@ Cutting a ring to free them
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relation between areas S4 and S1 in the trapezoid*
+*The area S4 in terms of S1*
 
 ![[src_kangourou_2001_junior__prob18.png]]
 
@@ -865,17 +918,18 @@ Cutting a ring to free them
 \end{document}
 ```
 
-> Trapezoid ABCD is divided by its diagonals into four triangles with areas S₁, S₂, S₃, S₄ (see figure). If S₂ = 3 ⋅ S₁, then
+> The trapezium ABCD is divided by its diagonals into four triangles of area S1, S2, S3, S4 (see the figure). If S2 = 3 ⋅ S1, then
 >
-> - **(A)** S₄ = 3 ⋅ S₁
-> - **(B)** S₄ = 4 ⋅ S₁
-> - **(C)** S₄ = 6 ⋅ S₁
-> - **(D)** S₄ = 9 ⋅ S₁
-> - **(E)** S₄ = 12 ⋅ S₁
->
-> . . Y₁₆₈X (E) 14X 5Y (D) 5Y 14X (C) 2X 5Y (B) 5Y 2X ) A ( Kangourou 15 March 2001. Junior Category. Page N. 5
+> - **(A)** S4 = 3 ⋅ S1
+> - **(B)** S4 = 4 ⋅ S1
+> - **(C)** S4 = 6 ⋅ S1
+> - **(D)** S4 = 9 ⋅ S1
+> - **(E)** S4 = 12 ⋅ S1. . Y 168X (E) 14X 5Y (D) 5Y 14X (C) 2X 5Y (B) 5Y 2X ) A ( Kangourou 15 March 2001. Junior category. Page no. 5
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_junior#q18|src_kangourou_2001_junior__Q18]]
 
 
 
@@ -907,11 +961,9 @@ Cutting a ring to free them
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number not obtainable with alternating signs*
+*Which number cannot be obtained by replacing the asterisks with plus or minus*
 
-> In the expression 2 * 4 * 6 * 8 * 10 * 12 * 14 each asterisk can be
-> replaced by the " + " sign or the " – " sign. Which number cannot be the result
-> of any of these expressions?
+> In the expression 2 * 4 * 6 * 8 * 10 * 12 * 14, each asterisk may be replaced by the sign "+" or the sign "–". Which number cannot be the result of any of these expressions?
 >
 > - **(A)** 0
 > - **(B)** 4
@@ -919,7 +971,11 @@ Cutting a ring to free them
 > - **(D)** 48
 > - **(E)** 30.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_junior#q19|src_kangourou_2001_junior__Q19]]
 
 
 
@@ -950,17 +1006,21 @@ Cutting a ring to free them
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n given the remainder of 999:n*
+*The remainder of 2001 divided by n*
 
-> In division 999: n, where n is a natural number of two digits (significant), the remainder is 3. Then the remainder of the division 2001 : n is
+> In the division 999 : n, where n is a two-digit natural number (with significant digits), the remainder is 3. Then the remainder of the division 2001 : n is
 >
 > - **(A)** 3
 > - **(B)** 5
 > - **(C)** 6
 > - **(D)** 7
-> - **(E)** 9. The questions from N. 21 to N. 30 are worth 5 points each.
+> - **(E)** 9. Questions 21 to 30 are worth 5 points each
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_junior#q20|src_kangourou_2001_junior__Q20]]
 
 
 
@@ -994,9 +1054,9 @@ Cutting a ring to free them
 <div class="qlang-split" data-lang="en"></div>
 
 
-Candies eaten by Cristina
+*How many sweets Cristina ate from the box*
 
-> In a box of candy, there were 31 candies. On the first day, Cristina ate three-quarters of the total of the candy that Paul had just eaten by taking it out of that box. On the second day, Cristina ate 2/3 of the total of the candies Paul had just eaten on the second day (always taken from the same box). By the end of the second day, the box was empty. How many candy did Cristina eat out of that box?
+> A box of sweets contained 31 sweets. On the first day Cristina ate 3/4 of the total of the sweets that Paolo had just eaten, taking them from that box. On the second day Cristina ate 2/3 of the total of the sweets just eaten by Paolo on the second day (again taken from the same box). At the end of the second day the box was empty. How many sweets did Cristina eat from that box?
 >
 > - **(A)** 9
 > - **(B)** 10
@@ -1004,7 +1064,10 @@ Candies eaten by Cristina
 > - **(D)** 13
 > - **(E)** 15.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_junior#q21|src_kangourou_2001_junior__Q21]]
 
 
 
@@ -1056,7 +1119,7 @@ Candies eaten by Cristina
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of q as a function of p and c*
+*The value of q in terms of p and c*
 
 ![[src_kangourou_2001_junior__prob22.png]]
 
@@ -1081,9 +1144,12 @@ Candies eaten by Cristina
 \end{document}
 ```
 
-> A right triangle ABC as in the figure, with AB = c, AX = p and XC = q, represents a terrain. Jenny and Vicky walk at the same speed in opposite directions on the edge of the ground, both starting at the same moment from position X. The two girls meet in B. What's the value of q as a function of p and c?
+> A right-angled triangle ABC, as in the figure, with AB = c, AX = p and XC = q, represents a piece of land. Jenny and Vicky walk at the same speed in opposite directions along the edge of the land, both starting at the same moment from position X. The two girls meet at B. What is the value of q in terms of p and c?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_junior#q22|src_kangourou_2001_junior__Q22]]
 
 
 
@@ -1148,35 +1214,55 @@ Candies eaten by Cristina
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total 102 empty boxes given*
+*How many boxes there are in all, if 102 are empty*
 
-> I have 11 large boxes: some of them contain 8 medium boxes each, some of the medium boxes contain 8 small boxes each. If the empty boxes (of varying size) are 102, how many boxes are there in total (regardless of size)? (A) 102     (B) 64      (C) 118     (D) 115        (E) cannot be answered. .
->  
+> I have 11 large boxes: some of them contain 8 medium boxes each, and some of the medium boxes in turn contain 8 small boxes each. If the empty boxes (of various sizes) are 102, how many boxes are there in all (regardless of size)?
+> (A) 102
+> (B) 64
+> (C) 118
+> (D) 115
+> (E) it is not possible to answer.
+> .
+>
 > (E)
->         
+>
 > 2
->  
+>
 > (D)
->          
+>
 > 2
->  
+>
 > (C)
->  
->           
-> 2 (B)
->  
->           
+>
 > 2
->  
-> (A) 2 2 c-p
->  
-> c p c
->  
-> c p c p pc c p + + + + +
-> 
-> Kangourou 15 March 2001. Junior class. Page N. 6
+> (B)
+>
+> 2
+>
+> (A)
+> 2
+> 2
+> c-p
+>
+> c
+> p
+> c
+>
+> c
+> p
+> c
+> p
+> pc
+> c
+> p
+>
+> Kangourou 15 March 2001. Junior category. Page no.
+> 6
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_junior#q23|src_kangourou_2001_junior__Q23]]
 
 
 
@@ -1206,7 +1292,7 @@ Candies eaten by Cristina
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Units digit of the sum of powers*
+*The units digit of a*
 
 > Let a = 1997 1998 + 1998 1999 + 1999 2000 + 2000 2001. The units digit of a is
 >
@@ -1216,7 +1302,11 @@ Candies eaten by Cristina
 > - **(D)** 4
 > - **(E)** 5.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_junior#q24|src_kangourou_2001_junior__Q24]]
 
 
 
@@ -1244,13 +1334,17 @@ Candies eaten by Cristina
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the PQR triangle in the cube*
+*The area of triangle PQR*
 
 ![[src_kangourou_2001_junior__prob25.png]]
 
-> ABCDEFGH is a cube with side 2 cm. P, Q and R are the midpoints of AD, GH and BF respectively. What is the area of the PQR triangle?
+> ABCDEFGH is a cube of side 2 cm. P, Q and R are the midpoints of AD, GH and BF respectively. What is the area of triangle PQR?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_junior#q25|src_kangourou_2001_junior__Q25]]
 
 
 
@@ -1297,7 +1391,7 @@ Candies eaten by Cristina
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Segments 5 cm long in the grid*
+*How many segments of length 5 cm can be drawn on the grid*
 
 ![[src_kangourou_2001_junior__prob26.png]]
 
@@ -1313,7 +1407,7 @@ Candies eaten by Cristina
 \end{document}
 ```
 
-> In the side grid, the distance between two adjacent points is 1 cm both horizontally and vertically. Join two points to form a 5 cm long segment. How many of these segments can be traced in the grid?
+> In the grid beside it, the distance between two adjacent points is 1 cm, both horizontally and vertically. Join two points so as to form a segment 5 cm long. How many such segments can be drawn on the grid?
 >
 > - **(A)** 10
 > - **(B)** 12
@@ -1321,7 +1415,11 @@ Candies eaten by Cristina
 > - **(D)** 34
 > - **(E)** 36.
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_junior#q26|src_kangourou_2001_junior__Q26]]
 
 
 
@@ -1351,9 +1449,9 @@ Candies eaten by Cristina
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers decreasing by 14 times*
+*How many integers shrink by a factor of 14 when the units digit is deleted*
 
-> We delete the units digit of a positive integer and notice that the number decreases by 14 times. How many integers have this property?
+> We delete the units digit of a positive integer and notice that the number decreases by a factor of 14. How many integers have this property?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -1361,7 +1459,10 @@ Candies eaten by Cristina
 > - **(D)** 3
 > - **(E)** 4.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2001_junior#q27|src_kangourou_2001_junior__Q27]]
 
 
 
@@ -1393,11 +1494,11 @@ Candies eaten by Cristina
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A-B value with square and semicircles*
+*The value of A minus B*
 
 ![[src_kangourou_2001_junior__prob28.png]]
 
-> If A is the area of the square (with side 4) and B is the total area of the six semicircles as shown in the figure, then the value of A – B is
+> If A is the area of the square (of side 4) and B is the total area of the six semicircles as in the figure, then the value of A – B is
 >
 > - **(A)** 8
 > - **(B)** 16 – 3π
@@ -1405,7 +1506,10 @@ Candies eaten by Cristina
 > - **(D)** 16 – 8π + 2√5 π
 > - **(E)** 16 – 4π + √5 π.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2001_junior#q28|src_kangourou_2001_junior__Q28]]
 
 
 
@@ -1437,9 +1541,9 @@ Candies eaten by Cristina
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ways to tile 2x8 with dominoes*
+*Ways to tile a 2 by 8 floor with 1 by 2 tiles*
 
-> How many different ways can a rectangular floor of size 2 × 8 be tiled using rectangular tiles of size 1 × 2 (without overlapping)?
+> In how many different ways can a rectangular floor of size 2 × 8 be tiled, using rectangular tiles of size 1 × 2 (without overlaps)?
 >
 > - **(A)** 16
 > - **(B)** 21
@@ -1447,7 +1551,11 @@ Candies eaten by Cristina
 > - **(D)** 32
 > - **(E)** 34.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** E
+[[Quesiti/src_kangourou_2001_junior#q29|src_kangourou_2001_junior__Q29]]
 
 
 
@@ -1479,14 +1587,18 @@ Candies eaten by Cristina
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Compositions of 30 into three positive integers*
+*Ways to write 30 as a sum of three strictly positive integers*
 
-> How many different ways can the number 30 be decomposed as the sum of three strictly positive integers? (Two breakdowns are equal if they differ only in the order of the addends.)
+> In how many different ways can the number 30 be written as a sum of three strictly positive integers? (Two decompositions are the same if they differ only in the order of the summands.)
 >
 > - **(A)** 105
 > - **(B)** 75
 > - **(C)** 81
 > - **(D)** 362
-> - **(E)** 101
+> - **(E)** 101. . cm 3 2 (E) cm 3 2 (D) cm 2 3 3 (C) cm 3 3 (B) cm 2 3 A) ( 2 2 2 2 2 1 Answers, Junior category, contest of 15 March 2001
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2001_junior#q30|src_kangourou_2001_junior__Q30]]

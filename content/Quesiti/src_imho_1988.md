@@ -33,13 +33,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circonferenze complanari, perpendicolari, luogo del punto medio*
+*Cerchi coplanari, perpendicolari, luogo geometrico del punto medio*
 
-> Siano date due circonferenze complanari di raggi $R$ e $r$ ($R > r$) con lo stesso centro. Sia $P$ un punto fisso sulla circonferenza minore e $B$ un punto variabile sulla circonferenza maggiore. La retta $BP$ incontra nuovamente la circonferenza maggiore nel punto $C$. La perpendicolare $l$ alla retta $BP$ nel punto $P$ incontra nuovamente la circonferenza minore nel punto $A$. (Se $l$ è tangente alla circonferenza nel punto $P$, allora $A = P$.)
-> 
+> Si considerino due circonferenze coplanari aventi raggi $R$ e $r$ ($R > r$) e lo stesso centro. Sia $P$ un punto fisso sulla circonferenza più piccola e $B$ un punto variabile sulla circonferenza più grande. La retta $BP$ incontra nuovamente la circonferenza più grande nel punto $C$. La perpendicolare $l$ a $BP$ condotta in $P$ incontra nuovamente la circonferenza più piccola nel punto $A$. (Se $l$ è tangente alla circonferenza in $P$, allora $A = P$.)
+>
 > (i) Determinare l'insieme dei valori di $BC^2 + CA^2 + AB^2$.
-> 
-> (ii) Determinare il luogo dei punti medi di $BC$.
+>
+> (ii) Determinare il luogo geometrico del punto medio di $BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1988#q01|src_imho_1988__Q01]]
 
 
 
@@ -70,17 +77,24 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Famiglia di sottoinsiemi con condizioni sull'intersezione e sulla copertura degli elementi*
+*Famiglia di sottoinsiemi con condizioni di intersezione e di copertura degli elementi*
 
-> Sia $n$ un intero positivo e siano $A_1, A_2, \ldots, A_{2n+1}$ sottoinsiemi di un insieme $B$. Si supponga che
-> 
-> (a) Ogni $A_i$ ha esattamente $2n$ elementi,
-> 
-> (b) Ogni $A_i \cap A_j$ ($1 \le i < j \le 2n+1$) contiene esattamente un elemento, e
-> 
-> (c) Ogni elemento di $B$ appartiene a almeno due tra gli $A_i$.
-> 
-> Per quali valori di $n$ si può assegnare a ogni elemento di $B$ uno dei numeri $0$ e $1$ in modo che $A_i$ abbia esattamente $n$ dei suoi elementi a cui è stato assegnato $0$?
+> Sia $n$ un numero intero positivo e siano $A_1, A_2, \ldots, A_{2n+1}$ sottoinsiemi di un insieme $B$. Si supponga che
+>
+> (a) ciascun $A_i$ abbia esattamente $2n$ elementi,
+>
+> (b) ciascun $A_i \cap A_j$ ($1 \le i < j \le 2n+1$) contenga esattamente un elemento, e
+>
+> (c) ogni elemento di $B$ appartenga ad almeno due degli $A_i$.
+>
+> Per quali valori di $n$ si può assegnare a ogni elemento di $B$ uno dei numeri $0$ e $1$ in modo che a $A_i$ siano assegnati $0$ esattamente su $n$ dei suoi elementi?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1988#q02|src_imho_1988__Q02]]
 
 
 
@@ -110,16 +124,23 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazioni funzionali sugli interi positivi, contare i punti fissi*
+*Equazioni funzionali sugli interi positivi: conta i punti fissi*
 
-> Una funzione $f$ è definita sugli interi positivi da
+> Una funzione $f$ è definita sugli interi positivi mediante
 > $$f(1) = 1, \quad f(3) = 3,$$
 > $$f(2n) = f(n),$$
 > $$f(4n+1) = 2f(2n+1) - f(n),$$
 > $$f(4n+3) = 3f(2n+1) - 2f(n),$$
-> per ogni intero positivo $n$.
-> 
-> Determinare il numero degli interi positivi $n$, minori o uguali a $1988$, per i quali vale che $f(n) = n$.
+> per tutti gli interi positivi $n$.
+>
+> Determinare il numero di interi positivi $n$, minori o uguali a $1988$, per i quali vale $f(n) = n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1988#q03|src_imho_1988__Q03]]
 
 
 
@@ -144,11 +165,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disuguaglianza della somma implica unione di intervalli di lunghezza totale 1988*
+*La disuguaglianza delle somme dà l'unione di intervalli di lunghezza totale 1988*
 
-> Si dimostri che l'insieme dei numeri reali $x$ che soddisfano la disuguaglianza
+> Dimostrare che l'insieme dei numeri reali $x$ che soddisfano la disuguaglianza
 > $$\sum_{k=1}^{70} \frac{k}{x-k} \ge \frac{5}{4}$$
-> è un'unione di intervalli disgiunti la cui somma delle lunghezze è $1988$.
+> è una unione di intervalli disgiunti, la cui somma delle lunghezze è $1988$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1988#q04|src_imho_1988__Q04]]
 
 
 
@@ -171,9 +199,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo rettangolo, i punti di incontro degli incentri con i lati, disuguaglianza sull'area*
+*Triangolo rettangolo, la retta degli incentri incontra i lati, disuguaglianza sull'area*
 
-> Il triangolo $ABC$ è rettangolo in $A$, e $D$ è il piede dell'altezza condotta da $A$. La retta che congiunge gli incentri dei triangoli $ABD$ e $ACD$ interseca i lati $AB$ e $AC$ rispettivamente nei punti $K$ e $L$. Siano $S$ e $T$ le aree dei triangoli $ABC$ e $AKL$ rispettivamente. Si dimostri che $S \ge 2T$.
+> $ABC$ è un triangolo rettangolo in $A$, e $D$ è il piede dell'altezza condotta da $A$. La retta che unisce gli incentri dei triangoli $ABD$, $ACD$ interseca i lati $AB$, $AC$ nei punti $K$, $L$ rispettivamente. $S$ e $T$ denotano le aree dei triangoli $ABC$ e $AKL$ rispettivamente. Dimostrare che $S \ge 2T$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1988#q05|src_imho_1988__Q05]]
 
 
 
@@ -198,8 +233,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ab+1 divide a²+b², il quoziente è un quadrato perfetto*
+*ab+1 divide a²+b²; il quoziente è un quadrato perfetto*
 
-> Siano $a$ e $b$ numeri interi positivi tali che $ab + 1$ divide $a^2 + b^2$. Si dimostri che
+> Siano $a$ e $b$ numeri interi positivi tali che $ab + 1$ divida $a^2 + b^2$. Dimostrare che
 > $$\frac{a^2 + b^2}{ab + 1}$$
 > è il quadrato di un numero intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1988#q06|src_imho_1988__Q06]]

@@ -31,11 +31,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many n in -2023..2023 with 1+4n multiple of 5*
+*For how many integers n between −2023 and 2023 is it true that 1 + 4 × n is a multiple of 5?*
 
-> Multiple of 5 For how many integers n between -2023 and 2023 is it true that 1 + 4 × n is a multiple of 5?
+> Multiple of 5
+>
+> For how many integers n between −2023 and 2023 is it true that 1 + 4 × n is a multiple of 5?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0809
+[[Quesiti/src_kangourou_2023_junior_squadre#q01|src_kangourou_2023_junior_squadre__Q01]]
 
 
 
@@ -61,11 +68,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of perimeter of two similar triangles*
+*What is the sum of their perimeters?*
 
-> Perimeter Two triangles are similar but not congruent. For each of the two sides, two sides have lengths of 12 and 18. How much is the sum of their perimeter?
+> The perimeters
+>
+> Two triangles are similar, but not congruent. For each of the two, two of the sides have lengths 12 and 18. What is the sum of their perimeters?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0095
+[[Quesiti/src_kangourou_2023_junior_squadre#q02|src_kangourou_2023_junior_squadre__Q02]]
 
 
 
@@ -95,11 +109,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of three-digit MEDI numbers*
+*What is the sum of all the MEDIUM numbers?*
 
-> Average Number For each 3-digit integer (therefore with the hundreds digit other than 0), consider the five numbers that are obtained by exchanging its digits (for example, for the number 120, the five numbers to be considered are: 102, 210, 201, 012 and 021; instead for the number 121 are: 211, 211, 121, 112 and 112, in this case not all distinct and one equal to the number considered). The number in question shall be said to be MEDIO if it is the average of the other five. How much is the sum of all the MID numbers?
+> Medium number
+>
+> For every 3-digit integer (so with the hundreds digit different from 0), consider the five numbers obtained by permuting its digits (for example, for the number 120, the five numbers to consider are: 102, 210, 201, 012 and 021; for the number 121, instead, they are: 211, 211, 121, 112 and 112, in this case not all distinct and one equal to the number considered). The number considered will be called MEDIUM if it is the mean of the other five. What is the sum of all the MEDIUM numbers?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 7992
+[[Quesiti/src_kangourou_2023_junior_squadre#q03|src_kangourou_2023_junior_squadre__Q03]]
 
 
 
@@ -126,14 +147,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cards removed given probability four aces*
+*How many cards were removed from the pack?*
 
 > Four aces
-> From a deck of 52 playing cards, some are removed, but none of the four aces, which therefore
-> remain in the deck. At this point, the probability that, by drawing 4 cards from those remaining, the
-> four aces are drawn is 1/1,001. How many cards have been removed from the deck?
+>
+> From a pack of 52 playing cards some are removed, but none of the four aces, which therefore remain in the pack. At this point the probability that, on drawing 4 cards from those that remain, one draws precisely the four aces is 1/1.001. How many cards were removed from the pack?
 
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0038
+[[Quesiti/src_kangourou_2023_junior_squadre#q04|src_kangourou_2023_junior_squadre__Q04]]
 
 
 
@@ -159,11 +184,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum n/10 with 2023 cubes ending in 1*
+*What is the greatest possible value of n/10?*
 
-> For the cube of a positive integer n, we know that there are exactly 2,023 natural numbers less than or equal to n whose cube ends with the number 1. What's the maximum possible value for n/10?
+> The cube
+>
+> Of a positive integer n, it is known that there are exactly 2.023 natural numbers less than or equal to n whose cube ends with the digit 1. What is the greatest possible value of n/10?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 2023
+[[Quesiti/src_kangourou_2023_junior_squadre#q05|src_kangourou_2023_junior_squadre__Q05]]
 
 
 
@@ -192,11 +224,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Now given the motion of the spider on the watch*
+*At what time?*
 
-> The spider On a bell tower there is a large traditional circular clock. Moving at a constant speed on its edge, at 06:00 a spider sets out in an anti-clockwise direction corresponding to the tip of the hour hand, reaches the tip of the minute hand, reverses the direction of travel and reaches, moving now clockwise, for the second time the tip of the minute hand after 20 minutes from the first time. What time is it? (Write the answer using only 4 digits, without the two dots: for example at 07:56 write 0756.)
+> The spider
+>
+> On a bell tower there is a large traditional circular clock. Moving at constant speed on its rim, at 06:00 a spider sets off anticlockwise at the tip of the hour hand, reaches the tip of the minute hand, reverses direction and reaches, now moving clockwise, the tip of the minute hand for the second time 20 minutes after the first time. At what time? (Write the answer using only 4 digits, without the colon: for example, for 07:56 write 0756.)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** 0626
+[[Quesiti/src_kangourou_2023_junior_squadre#q06|src_kangourou_2023_junior_squadre__Q06]]
 
 
 
@@ -259,41 +297,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length FE squared with AG, GF*
+*How long is the segment FE?*
 
 ![[src_kangourou_2023_junior_squadre__prob7.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.6]
-  \coordinate (A) at (0,3);
-  \coordinate (B) at (0,0);
-  \coordinate (C) at (3,0);
-  \coordinate (D) at (3,3);
-  \coordinate (E) at (9,0);
-  \coordinate (F) at (3,2);
-  \coordinate (G) at (2.25,2.25);
-  \draw (A) -- (B) -- (E) -- cycle;
-  \draw (B) -- (C) -- (D) -- (A);
-  \draw (B) -- (D);
-  \node[above left] at (A) {$A$};
-  \node[below left] at (B) {$B$};
-  \node[below] at (C) {$C$};
-  \node[above right] at (D) {$D$};
-  \node[below right] at (E) {$E$};
-  \node[right] at (F) {$F$};
-  \node[below right] at (G) {$G$};
-  \fill (G) circle (1.5pt);
-  \fill (F) circle (1.5pt);
-\end{tikzpicture}
-\end{document}
-```
+> The segment FE
+>
+> Look at the picture. ABCD is a square, the segment AG is 81 long and the segment GF is 27 long. How long is the segment FE?
 
-> The segment FE Observe the figure. ABCD is a square, segment AG is 81 and segment GF is 27. How long is the segment FE?
->  
-> F G D B A C E
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0216
+[[Quesiti/src_kangourou_2023_junior_squadre#q07|src_kangourou_2023_junior_squadre__Q07]]
 
 
 
@@ -319,13 +336,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*3-digit number with the most distinct divisors*
+*What is the value of n?*
 
-> Distinct divisors 
-> Among the (positive) three-digit integers, only one, let's call it n, has the largest number of divisors 
-> all different from each other. What is n?
+> Distinct divisors
+>
+> Among the (positive) three-digit integers, only one, let us call it n, has the greatest number of divisors all different from one another. What is the value of n?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0840
+[[Quesiti/src_kangourou_2023_junior_squadre#q08|src_kangourou_2023_junior_squadre__Q08]]
 
 
 
@@ -352,14 +374,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different sequences by deleting letters from ANCONA*
+*How many different strings of letters can be obtained?*
 
 > ANCONA
-> By deleting at least one letter, but not all, from the word ANCONA, and leaving unchanged the order
-> of the remaining letters, how many different sequences of letters can be obtained? (For example, A,
-> NCO, ACOA are three of these sequences.)
+>
+> By deleting at least one letter, but not all, from the word ANCONA, and leaving the order of the remaining letters unchanged, how many different strings of letters can be obtained? (For example, A, NCO, ACOA are three of these strings.)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0057
+[[Quesiti/src_kangourou_2023_junior_squadre#q09|src_kangourou_2023_junior_squadre__Q09]]
 
 
 
@@ -384,11 +410,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Less than 6 consecutive, maximum 10-digit product*
+*What is the smallest of the six consecutive integers?*
 
-> Six consecutive integers A 10-digit integer is the product of six consecutive positive integers and is the largest 10-digit integer that enjoys this property. Which is the smallest of the six consecutive integers?
+> Six consecutive integers
+>
+> A 10-digit integer is the product of six consecutive positive integers and is the largest 10-digit integer with this property. What is the smallest of the six consecutive integers?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0043
+[[Quesiti/src_kangourou_2023_junior_squadre#q10|src_kangourou_2023_junior_squadre__Q10]]
 
 
 
@@ -414,13 +446,22 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer pairs 10xy-x^2-9y^2=2023*
+*For how many ordered pairs (x, y) of integers is the equality satisfied?*
 
-> An equality 
-> For how many (ordered) pairs (x, y) of relative integers is the equality  
-> 10xy – x2 – 9y2 = 2023 satisfied?
+> An equality
+>
+> For how many ordered pairs (x, y) of integers is the equality
+>
+> 10xy – x2 – 9y2 = 2023
+>
+> satisfied?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0012
+[[Quesiti/src_kangourou_2023_junior_squadre#q11|src_kangourou_2023_junior_squadre__Q11]]
 
 
 
@@ -446,13 +487,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n/100 divisible by 75 with 75 divisors*
+*What is the value of n / 100?*
 
-> Divisible by 75 
-> There exist positive integers divisible by 75 that have exactly 75 (positive) divisors. Let n be the 
-> smallest of them. What is the value of n / 100?
+> Divisible by 75
+>
+> There exist positive integers divisible by 75 that have exactly 75 (positive) divisors. Let n be the smallest of them. What is the value of n / 100?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0324
+[[Quesiti/src_kangourou_2023_junior_squadre#q12|src_kangourou_2023_junior_squadre__Q12]]
 
 
 
@@ -481,17 +527,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tiles bought today given discount conditions*
+*How many tiles did I buy today?*
 
 > The tiles
-> On the base price of 50 cents for a tile, a hardware store applies a 5% discount
-> to those who buy fewer than 36, a 12% discount to those who buy a number between 36 and 55
-> (included), a 20% discount to those who buy at least 56. Yesterday I bought some of these tiles and
-> I got a 5% discount; today I bought more and I got a 12% discount. If I had
-> bought today's ones together with yesterday's ones, I would have gotten a 20% discount, saving 3
-> euros and 90 cents. How many tiles did I buy today?
+>
+> On the base price of 50 cents for a tile, a hardware shop gives a 5% discount to anyone who buys fewer than 36, a 12% discount to anyone who buys a number between 36 and 55 (inclusive), and a 20% discount to anyone who buys at least 56. Yesterday I bought some of these tiles and got a 5% discount; today I bought some more and got a 12% discount. If I had bought today's together with yesterday's, I would have got a 20% discount, saving 3 euros and 90 cents. How many tiles did I buy today?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0045
+[[Quesiti/src_kangourou_2023_junior_squadre#q13|src_kangourou_2023_junior_squadre__Q13]]
 
 
 
@@ -518,14 +564,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum euros obtainable from the account*
+*How many euros can Cesare come to obtain from the account, at most?*
 
 > The withdrawal
-> In Cesare's bank account there are 250 euros. On that account Cesare can make transactions as many times as he wants,
-> but without going into the red and only in two ways: withdraw 150 euros or deposit 99. At this moment
-> Cesare has no other money available. How many euros can he manage to obtain at most from the account?
+>
+> In Cesare's bank account there are 250 euros. On that account Cesare may operate as many times as he likes, but without going into the red and only in two ways: withdraw 150 euros or deposit 99. At the moment Cesare has no other money available. How many euros can he come to obtain from the account, at most?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0249
+[[Quesiti/src_kangourou_2023_junior_squadre#q14|src_kangourou_2023_junior_squadre__Q14]]
 
 
 
@@ -575,31 +625,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*T whole triangle area, data AB,AC,ADC*
+*What is it?*
 
 ![[src_kangourou_2023_junior_squadre__prob15.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.35]
-  \coordinate (A) at (9,12);
-  \coordinate (B) at (0,0);
-  \coordinate (C) at (14,0);
-  \coordinate (D) at (9,0);
-  \draw[thick] (A) -- (B) -- (C) -- cycle;
-  \draw[dashed] (A) -- (D);
-  \node[above] at (A) {$A$};
-  \node[below left] at (B) {$B$};
-  \node[below right] at (C) {$C$};
-  \node[below] at (D) {$D$};
-  \fill (D) circle (3pt);
-\end{tikzpicture}
-\end{document}
-```
+> The area of T
+>
+> The sides AB and AC of an acute-angled triangle T measure 15 and 13 cm respectively. Let D be the foot of the altitude drawn from the vertex A to the side BC; the area of the triangle ADC is 30 cm2. Given that the area of T is expressed by a whole number of square centimetres, what is it?
 
-> The area of T I sides AB and AC of an acutangol T triangle are 15 and 13 cm respectively. Given that D is the foot of the altitude drawn from vertex A to side BC, the area of the ADC triangle is 30 cm2. Knowing that the area of T is expressed by an integer number of square centimeters, what is it?
-> 
->  
-> Questions and solutions
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0084
+[[Quesiti/src_kangourou_2023_junior_squadre#q15|src_kangourou_2023_junior_squadre__Q15]]

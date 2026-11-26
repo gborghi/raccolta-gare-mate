@@ -32,13 +32,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le minoranze (10 centesimi) a pagare 23 reais utilizzando banconote di 10 reais*
+*Numero minimo di monete (10 centavos) per pagare 23 reais usando banconote da 10 reais*
 
-> Laurinha aveva nel suo portafoglio solo 10 banconote reali e 10 centoville. Ha pagato 23 reais con il minor numero possibile di monete. Quante monete ha usato?
-> 
+> Nel portafoglio di Laurinha c'erano solo banconote da 10 reais e monete da 10 centavos. Ha pagato 23 reais usando il minor numero possibile di monete. Quante monete ha usato?
+>
 > (A) 3 \quad (B) 6 \quad (C) 10 \quad (D) 23 \quad (E) 30
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f1#q01|src_obm_2012_n1_f1__Q01]]
 
 
 
@@ -63,13 +68,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Computo $0.1^2 + 0.2^2$*
+*Calcola $0.1^2 + 0.2^2$*
 
-> Possiamo dire che $0.1^{2}+0.2^{2}$ è uguale
-> 
+> Possiamo dire che $0.1^{2}+0.2^{2}$ è uguale a
+>
 > (A) $\dfrac{1}{20}$ \quad (B) $\dfrac{1}{10}$ \quad (C) $\dfrac{1}{5}$ \quad (D) $\dfrac{1}{4}$ \quad (E) $\dfrac{1}{2}$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f1#q02|src_obm_2012_n1_f1__Q02]]
 
 
 
@@ -95,13 +104,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare interi positivi il cui più grande divisore proprio è 9*
+*Conta gli interi positivi il cui più grande divisore proprio è 9*
 
-> Quanti numeri interi positivi hanno 9 come loro più grande divisore oltre al numero stesso?
-> 
-> (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 9 \quad (E) infinitamente molti
+> Quanti numeri interi positivi hanno 9 come loro divisore massimo diverso dal numero stesso?
+>
+> (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 9 \quad (E) infiniti
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f1#q03|src_obm_2012_n1_f1__Q03]]
 
 
 
@@ -128,15 +142,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perimetro di esagono tagliato in triangolo, due rettangoli, parallelo*
+*Perimetro di un esagono tagliato in un triangolo, due rettangoli e un parallelogramma*
 
-> Carla tagliò un esagono (visto a sinistra) in quattro parti come mostrato: un triangolo, due rettangoli e un parallelo. Le misure di queste cifre sono indicate in centimetri. Qual è il perimetro dell'esagono? (Nota: il perimetro di una figura è la lunghezza totale della linea che confina la figura.)
-> 
+> Carla ha tagliato un esagono (raffigurato a sinistra) in quattro parti, come mostrato: un triangolo, due rettangoli e un parallelogramma. Le misure di queste figure sono espresse in centimetri. Qual è il perimetro dell'esagono? (Nota: il perimetro di una figura è la lunghezza totale della linea che delimita la figura.)
+>
 > (A) 15 cm \quad (B) 18 cm \quad (C) 26 cm \quad (D) 39 cm \quad (E) 81 cm
 
 ![[src_obm_2012_n1_f1__q04.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n1_f1#q04|src_obm_2012_n1_f1__Q04]]
 
 
 
@@ -161,13 +179,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
+*Distanza rimanente per Paulinho quando la sorella arriva con 20 minuti di anticipo*
 
-> Paulinho e sua sorella lasciano casa allo stesso tempo per andare a scuola. Paulinho guida una bicicletta a 18 chilometri all'ora e sua sorella guida una moto. Sua sorella arriva 20 minuti prima di Paulinho. In quel momento, quanti chilometri deve ancora percorrere Paulinho?
-> 
+> Paulinho e sua sorella escono di casa nello stesso momento per andare a scuola. Paulinho va in bicicletta a 18 chilometri all'ora, mentre sua sorella va in motocicletta. Sua sorella arriva 20 minuti prima di Paulinho. In quel momento, quanti chilometri deve ancora percorrere Paulinho?
+>
 > (A) 6 \quad (B) 8 \quad (C) 9 \quad (D) 15 \quad (E) 18
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f1#q05|src_obm_2012_n1_f1__Q05]]
 
 
 
@@ -193,13 +215,18 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di scatole di 20 pillole per un anno intero (dosaggio Mon/ Wed/ Fr)*
+*Confezioni minime da 20 compresse, sufficienti per un intero anno (dosaggio lunedì/mercoledì/venerdì)*
 
-> Ricardo prende una pillola il lunedì, mercoledì e venerdì, ogni settimana. Le pillole sono vendute in scatole di 20 unità ciascuno. Qual è il numero minimo di scatole che deve comprare per avere abbastanza per un anno intero?
-> 
+> Ricardo prende una pillola il lunedì, il mercoledì e il venerdì, ogni settimana. Le pillole sono vendute in confezioni da 20 unità ciascuna. Qual è il numero minimo di confezioni che deve acquistare per averne abbastanza per un anno intero?
+>
 > (A) 5 \quad (B) 6 \quad (C) 7 \quad (D) 8 \quad (E) 9
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f1#q06|src_obm_2012_n1_f1__Q06]]
 
 
 
@@ -226,15 +253,19 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Differenza nei perimetri di due pezzi tagliati da carta di griglia*
+*Differenza tra i perimetri di due pezzi ricavati da carta a quadretti*
 
-> Juliana tagliava un foglio quadrato, rappresentato lateralmente, lungo la linea spessa in due pezzi con diversi perimetri. Qual è la differenza tra questi perimetri?
-> 
+> Juliana ha tagliato, lungo la linea spessa, in due pezzi con perimetri diversi, un foglio di carta quadrato rappresentato di lato. Qual è la differenza tra questi perimetri?
+>
 > (A) 5 cm \quad (B) 9 cm \quad (C) 18 cm \quad (D) 34 cm \quad (E) 36 cm
 
 ![[src_obm_2012_n1_f1__q07.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n1_f1#q07|src_obm_2012_n1_f1__Q07]]
 
 
 
@@ -259,13 +290,17 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tutta la lunghezza del giro data alle distanze fino a metà e un terzo di marchio*
+*Lunghezza totale del giro, data la distanza dai segni della metà e del terzo*
 
-> Esmeralda sta camminando su una pista accanto a un lago. Ha camminato 300 metri e ha raggiunto la metà della pista. Poi ha camminato 200 metri di più e ha raggiunto il punto che è un terzo della lunghezza della pista dalla fine (cioè i due terzi dal punto di partenza). Ogni giro completo intorno alla pista corrisponde a quanti chilometri?
-> 
+> Esmeralda sta camminando lungo un percorso circolare accanto a un lago. Ha percorso 300 metri e ha raggiunto il punto a metà del percorso. Poi ha percorso altri 200 metri e ha raggiunto il punto che si trova a un terzo della lunghezza del percorso a partire dalla fine (cioè al punto corrispondente ai due terzi della lunghezza a partire dall'inizio). Quanti chilometri corrispondono a ogni giro completo intorno al percorso?
+>
 > (A) 3 \quad (B) 4 \quad (C) 6 \quad (D) 8 \quad (E) 8
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f1#q08|src_obm_2012_n1_f1__Q08]]
 
 
 
@@ -295,17 +330,22 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fill 2×3 tabella con numeri interi positivi distinti in modo che ogni prodotto di riga sia 210*
+*Compila una tabella 2×3 con numeri interi positivi distinti in modo che il prodotto di ciascuna riga sia 210*
 
-> Nella tabella $2 \times 3$ di seguito, scriviamo un intero positivo in ogni cella in modo che il prodotto dei numeri in ogni riga sia uguale a 210, e tutti e sei i numeri della tabella sono distinti. In quanti modi si può farlo?
-> 
+> Nella tabella $2 \times 3$ qui sotto, scriviamo un numero intero positivo in ogni cella in modo che il prodotto dei numeri in ciascuna riga sia uguale a 210 e che tutti e sei i numeri presenti nella tabella siano distinti. In quanti modi è possibile farlo?
+>
 > $$\begin{array}{|c|c|c||c|}\hline & & & 210 \\ \hline & & & 210 \\ \hline\end{array}$$
-> 
-> (A) 6 \quad (B) 12 \quad (C) 60 \quad (D) 120 \quad (E) infinitamente molti
+>
+> (A) 6 \quad (B) 12 \quad (C) 60 \quad (D) 120 \quad (E) infiniti
 
 ![[src_obm_2012_n1_f1__q09.png]]
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f1#q09|src_obm_2012_n1_f1__Q09]]
 
 
 
@@ -332,15 +372,19 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la lunghezza FP dopo il riposizionamento della linea di divisione per igualizzare le aree*
+*Trovare la lunghezza FP dopo aver riposizionato la linea di divisione per equalizzare le aree*
 
-> João e Maria hanno ereditato un terreno a forma di poligono $ABCDEF$. Una linea retta originariamente separava la terra in due aree disuguali. Hanno deciso di riposizionare la linea divisoria, mantenendola perpendicolare alla linea $DE$, spostandola in un nuovo punto $P$, in modo che le due aree diventino uguali. Dato che gli angoli di $B$, $D$, $E$ e $F$ sono angoli rettangolari, e utilizzando le misurazioni mostrate nella figura (in metri), si trova la lunghezza $FP$ in metri.
-> 
+> João e Maria hanno ereditato un lotto di terreno a forma di poligono $ABCDEF$. In origine, una linea retta divideva il terreno in due aree disuguali. Hanno deciso di riposizionare la linea di separazione, mantenendola perpendicolare alla linea $DE$, spostandola in un nuovo punto $P$, in modo che le due aree diventassero uguali. Dato che gli angoli in $B$, $D$, $E$ e $F$ sono angoli retti, e utilizzando le misure indicate nella figura (in metri), determina la lunghezza $FP$ in metri.
+>
 > (A) 5 \quad (B) 10 \quad (C) 12 \quad (D) 20 \quad (E) 20
 
 ![[src_obm_2012_n1_f1__q10.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n1_f1#q10|src_obm_2012_n1_f1__Q10]]
 
 
 
@@ -365,13 +409,17 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Peso dell'acquisto di Juquinha dato tre indizi di sistema di equazioni*
+*Peso dell'acquisto di Juquinha, dati tre indizi sotto forma di sistemi di equazioni*
 
-> In un negozio di attrezzatura, vengono venduti vari prodotti in base al peso. Un chiodo, cinque bulloni e due noci pesano 24 grammi. Due chiodi, cinque bulloni e quattro noci pesano 44 grammi. Cinque chiodi, 32 bulloni e cinque noci pesano 200 g. Juquinha ha comprato 12 chiodi, 32 bulloni e cinque noci. Quanto pesava l'acquisto?
-> 
+> In un negozio di ferramenta, vari prodotti vengono venduti a peso. Un chiodo, cinque bulloni e due dadi pesano 24 g. Due chiodi, cinque bulloni e quattro dadi pesano 44 g. Cinque chiodi, 32 bulloni e cinque dadi pesano 200 g. Juquinha ha comprato 12 chiodi, 32 bulloni e cinque dadi. Quanto pesava il suo acquisto?
+>
 > (A) 200 g \quad (B) 208 g \quad (C) 256 g \quad (D) 272 g \quad (E) 280 g
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2012_n1_f1#q11|src_obm_2012_n1_f1__Q11]]
 
 
 
@@ -397,13 +445,18 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximi pezzi di torta rettangolare con 7 tagli dritti paralleli ai lati*
+*Numero massimo di pezzi di torta rettangolare ottenuti con 7 tagli rettilinei paralleli ai lati*
 
-> Suzana ha una torta a forma di rettangolo e vuole tagliarla in pezzi più piccoli facendo 7 tagli dritti, ognuno parallelo a uno dei lati del rettangolo. Separa i pezzi solo dopo che tutti i tagli sono stati fatti. Qual è il numero massimo di pezzi che può ottenere?
-> 
+> Suzana ha una torta di forma rettangolare e vuole tagliarla in pezzi più piccoli facendo 7 tagli rettilinei, ciascuno parallelo a uno dei lati del rettangolo. Separa i pezzi solo dopo che tutti i tagli sono stati eseguiti. Qual è il numero massimo di pezzi che può ottenere?
+>
 > (A) 9 \quad (B) 11 \quad (C) 13 \quad (D) 17 \quad (E) 19
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n1_f1#q12|src_obm_2012_n1_f1__Q12]]
 
 
 
@@ -438,17 +491,27 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Percentuale di utenti di internet 55+ che utilizzano LinkedIn, data tabella e tabella delle torte*
+*Percentuale di utenti di Internet di età pari o superiore a 55 anni che utilizzano LinkedIn, in base alla tabella e al grafico a torta forniti*
 
-> Gli utenti di Internet di età pari o superiore a 18 anni sono stati intervistati sull'utilizzo di 4 social network. Sono stati suddivisi in gruppi di età; la percentuale di utilizzo di ciascuna rete all'interno di ciascun gruppo è indicata nella tabella:
-> 
-> Gruppo d'età, Facebook, Twitter, LinkedIn, Google, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non usare, non
-> 
-> Le proporzioni di utenti di internet di età pari o superiore a 18 anni in ciascun gruppo di età sono indicate anche in un grafico di piatti (55 anni o più: 20\%; 45-54: 19\%; 35--44: 21\%; 25--34: 23\%; 18--24: 17\%). Tra tutti gli utenti di Internet di 18 anni o più, quale è la percentuale di coloro che hanno 55 anni o più E utilizzano LinkedIn?
-> 
+> È stato somministrato un sondaggio agli utenti di Internet di età pari o superiore a 18 anni riguardo al loro utilizzo di 4 social network. Gli utenti sono stati suddivisi in fasce d'età; nella tabella è riportata la percentuale di coloro che utilizzano ciascun social network all'interno di ogni fascia:
+>
+> | Age group | Facebook | Twitter | LinkedIn | Google$+$ | Do not use |
+> |-----------|----------|---------|----------|-----------|------------|
+> | 55 or older | 20\% | 12\% | 32\% | 16\% | 20\% |
+> | 45 to 54 | 19\% | 17\% | 25\% | 17\% | 22\% |
+> | 35 to 44 | 21\% | 19\% | 17\% | 20\% | 23\% |
+> | 25 to 34 | 23\% | 22\% | 13\% | 19\% | 23\% |
+> | 18 to 24 | 17\% | 30\% | 13\% | 28\% | 12\% |
+>
+> Le proporzioni degli utenti di Internet di età pari o superiore a 18 anni in ciascuna fascia d'età sono riportate anche in un grafico a torta (55 anni o più: 20%; 45-54: 19%; 35-44: 21%; 25-34: 23%; 18-24: 17%). Tra tutti gli utenti di Internet di età pari o superiore a 18 anni, qual è la percentuale di coloro che hanno 55 anni o più E utilizzano LinkedIn?
+>
 > (A) $32\%+20\%$ \quad (B) $32\%-20\%$ \quad (C) $32\%\times 20\%$ \quad (D) $32\%\div 20\%$ \quad (E) $\dfrac{32\%+20\%}{2}$
 
-**Risposta:** C
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f1#q13|src_obm_2012_n1_f1__Q13]]
 
 
 
@@ -474,13 +537,18 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare la frazione M×A×T×E×M / (A×T×E×C×A) con lettere a cifre distinte*
+*Massimizza la frazione M×A×T×E×M / (A×T×E×C×A) con lettere cifra distinte*
 
-> Nell'espressione $\dfrac{M \times A \times T \times E \times M}{A \times T \times E \times C \times A}$, le lettere diverse rappresentano cifre diverse e le lettere uguali rappresentano cifre uguali. Qual è il valore massimo possibile di questa espressione?
-> 
+> Nell'espressione $\dfrac{M \times A \times T \times E \times M}{A \times T \times E \times C \times A}$, lettere diverse rappresentano cifre diverse e lettere uguali rappresentano cifre uguali. Qual è il valore massimo possibile di questa espressione?
+>
 > (A) 38 \quad (B) 96 \quad (C) 108 \quad (D) 576 \quad (E) 648
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f1#q14|src_obm_2012_n1_f1__Q14]]
 
 
 
@@ -506,13 +574,18 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Min somma di numeri attraenti (1,3,13,31) per esprimere 2012*
+*Somma minima dei numeri attraenti (1,3,13,31) per esprimere 2012*
 
-> Per Mariazinha, ci sono esattamente quattro numeri che lei ritiene *attraenti*: 1, 3, 13 e 31. Qualsiasi altro numero è *attraente* solo se può essere espresso come somma contenente almeno uno di ciascuno dei quattro numeri attraenti (la ripetizione di ciascuno è consentita). Ad esempio, $1+3+13+31=48$, quindi 48 è attraente. Almeno quanti numeri attraenti devono essere sommati per dimostrare che il 2012 è attraente?
-> 
+> Per Mariazinha, ci sono esattamente quattro numeri che considera *attraenti*: 1, 3, 13 e 31. Qualsiasi altro numero è *attraente* solo se può essere espresso come somma che contiene almeno una volta ciascuno dei quattro numeri attraenti (è consentita la ripetizione di ciascuno). Ad esempio, $1+3+13+31=48$, quindi 48 è attraente. Quanti numeri attraenti devono essere sommati, come minimo, per dimostrare che 2012 è attraente?
+>
 > (A) 68 \quad (B) 70 \quad (C) 72 \quad (D) 100 \quad (E) 2012
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_backward|Backward]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n1_f1#q15|src_obm_2012_n1_f1__Q15]]
 
 
 
@@ -538,13 +611,18 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Percentuale di famiglie con cani e gatti dati di sovrapposizione*
+*Percentuale di famiglie che hanno sia gatti sia cani, sulla base dei dati di sovrapposizione*
 
-> In Cajamirins, il 20% delle famiglie ha gatti (anche se meno hanno anche cani), e il 25% delle famiglie che hanno gatti hanno anche cani. Si sa anche che il 20% delle famiglie non ha un cane. Quante famiglie hanno entrambe le specie come animali domestici?
-> 
+> A Cajamirins, il 20% delle famiglie ha dei gatti (anche se meno famiglie hanno anche dei cani), e il 25% delle famiglie che hanno dei gatti ha anche dei cani. Si sa inoltre che il 20% delle famiglie non ha cani. Quale percentuale di famiglie ha entrambe le specie come animali domestici?
+>
 > (A) 5 \quad (B) 10 \quad (C) 20 \quad (D) 25 \quad (E) 50
 
-**Risposta:** A
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2012_n1_f1#q16|src_obm_2012_n1_f1__Q16]]
 
 
 
@@ -570,13 +648,18 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Righe di fragole e jabuticaba consumate in turno (≤5 ciascuno)*
+*File di fragole e jabuticabas mangiate a turno (non più di 5 di ciascuna)*
 
-> Rosinha ha raccolto diverse fragole e jabuticabas, al massimo 5 di ciascuna specie. Lei vuole mangiare 5 di ciascuna specie, mangiandole in serie alternate, a partire dalle fragole e finendo con i jabuticabas (ad esempio: 3 fragole, poi 2 jabuticabas, poi 2 fragole, poi 3 jabuticabas). Lei forma una fila con i frutti prima di mangiarli in ordine. Quante diverse righe può formare?
-> 
+> Rosinha ha raccolto diverse fragole e jabuticabas, al massimo 5 di ciascun tipo. Vuole mangiare 5 fragole e 5 jabuticabas, mangiandole in sequenze alternate, partendo dalle fragole e finendo con le jabuticabas (per esempio: 3 fragole, poi 2 jabuticabas, poi 2 fragole, poi 3 jabuticabas). Prima di mangiarle in ordine, dispone i frutti in una riga. Quante righe diverse di questo tipo può formare?
+>
 > (A) 13 \quad (B) 14 \quad (C) 15 \quad (D) 16 \quad (E) 20
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n1_f1#q17|src_obm_2012_n1_f1__Q17]]
 
 
 
@@ -604,15 +687,20 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero più grande segnalato sulla linea dato esattamente tre sono moltipli di 4*
+*Il numero contrassegnato più grande sulla riga in cui esattamente tre numeri sono multipli di 4*
 
-> Nella riga numerica seguente, i punti segnano alcuni interi positivi superiori a 93 e inferiori a 112. Esattamente tre dei numeri segnalati sono moltiplicati di 4. Qual è il più grande dei numeri segnati?
-> 
+> Sulla retta numerica sottostante, i puntini indicano alcuni numeri interi positivi maggiori di 93 e minori di 112. Esattamente tre dei numeri indicati sono multipli di 4. Qual è il più grande dei numeri indicati?
+>
 > (A) 100 \quad (B) 102 \quad (C) 104 \quad (D) 106 \quad (E) 108
 
 ![[src_obm_2012_n1_f1__q18.png]]
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f1#q18|src_obm_2012_n1_f1__Q18]]
 
 
 
@@ -640,15 +728,20 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Diversi arrangiamenti di scrivania vuota rettangolare per 30 studenti*
+*Diverse disposizioni rettangolari di banchi cava per 30 studenti*
 
-> In una classe, l'insegnante disponeva delle scrivanie per formare una grande scrivania rettangolare con un buco rettangolare al centro (come mostrato). Ad esempio, utilizzando piccole scrivanie di uguale dimensione, si può formare una grande scrivania con 10 piccole scrivanie sul perimetro. In quanti modi diversi l'insegnante può organizzare tutti i 30 scrivania degli studenti in una formazione rettangolare così vuota, in modo che ciascuno dei 30 studenti possa sedersi a un piccolo scrivania sul perimetro?
-> 
+> In un'aula, l'insegnante dispose i banchi in modo da formare un unico grande banco rettangolare con un foro rettangolare al centro (come mostrato). Ad esempio, utilizzando banchi piccoli tutti della stessa dimensione, si può formare un grande banco con 10 banchi piccoli sul perimetro. In quanti modi diversi l'insegnante può disporre tutti i 30 banchi degli studenti in tale formazione rettangolare cava, in modo che ciascuno dei 30 studenti possa sedersi a un banco piccolo sul perimetro?
+>
 > (A) 3 \quad (B) 6 \quad (C) 7 \quad (D) 8 \quad (E) 15
 
 ![[src_obm_2012_n1_f1__q19.png]]
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f1#q19|src_obm_2012_n1_f1__Q19]]
 
 
 
@@ -676,12 +769,17 @@ La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il valore più piccolo del cerchio centrale quando quattro segmenti a 3 cerchi hanno somme uguali*
+*Valore più piccolo del cerchio centrale quando le somme di quattro segmenti di tre cerchi sono uguali*
 
-> Nella figura, ci sono 4 segmenti di linea, ognuno attraversando 3 cerchi. I cerchi sono etichettati con i numeri da 1 a 9 (ciascuno utilizzato esattamente una volta), in modo che la somma dei tre numeri su ogni segmento sia la stessa per tutti e quattro i segmenti. Qual è il numero più piccolo che può essere scritto nel cerchio centrale (il cerchio condiviso da tutti e quattro i segmenti)?
-> 
+> Nella figura ci sono 4 segmenti di retta, ciascuno dei quali passa per 3 cerchi. I cerchi sono etichettati con i numeri da 1 a 9 (ciascun numero usato esattamente una volta), in modo che la somma dei tre numeri su ciascun segmento sia la stessa per tutti e quattro i segmenti. Qual è il numero più piccolo che può essere scritto nel cerchio centrale (il cerchio comune a tutti e quattro i segmenti)?
+>
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
 ![[src_obm_2012_n1_f1__q20.png]]
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n1_f1#q20|src_obm_2012_n1_f1__Q20]]

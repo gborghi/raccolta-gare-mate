@@ -32,9 +32,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova numeri interi x,y,z che soddisfano due equazioni simultanee*
+*Interi $x$, $y$, $z$ con somma $4018$ e somma dei quadrati uguale a $x + y + 1$*
 
-> Trova tutti gli integri $x$, $y$ e $z$ in modo tale che $$x^2 + y^2 + z^2 = x + y + 1$$ e $$x + y + z = 4018.$$
+> Trovare tutti gli interi $x$, $y$ e $z$ tali che
+> $$x^2 + y^2 + z^2 = x + y + 1$$
+> e
+> $$x + y + z = 4018.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2010#q01|src_bmo1_2010__Q01]]
 
 
 
@@ -57,9 +67,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo attraverso quattro punti con due accordi paralleli*
+*Dimostrare che $BC = DF$*
 
-> I punti $A$, $B$, $C$, $D$ e $E$ si trovano, in tale ordine, su un cerchio e le linee $AB$ e $ED$ sono parallele. La linea attraverso $D$ parallela a $AC$ incontra $BE$ a $F$. Prova che $BC = DF$.
+> I punti $A$, $B$, $C$, $D$ ed $E$ stanno, in quest'ordine, su una circonferenza e le rette $AB$ ed $ED$ sono parallele. La retta per $D$ parallela ad $AC$ incontra $BE$ in $F$. Dimostrare che $BC = DF$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2010#q02|src_bmo1_2010__Q02]]
 
 
 
@@ -82,9 +99,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ordine dei problemi di esame BMO e punteggio massimo*
+*Quante sequenze di sei voti non crescenti, ciascuno da $0$ a $10$*
 
-> Isaac prova tutte e sei le domande su un articolo di Olimpiade in ordine. Ogni domanda è contrassegnata su una scala da $0$ a $10$. In una domanda successiva non ottiene mai più punteggi che in una domanda precedente. Quante diverse possibili sequenze di sei segni ci sono?
+> Isaac affronta, nell'ordine, tutti e sei i quesiti di un foglio di olimpiade. Ciascun quesito è valutato su una scala da $0$ a $10$. Non ottiene mai in un quesito successivo un voto maggiore di quello di un quesito precedente. Quante sequenze diverse di sei voti sono possibili?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2010#q03|src_bmo1_2010__Q03]]
 
 
 
@@ -107,9 +131,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi con condizione di bisettore tangente e perpendicolare comune*
+*Dimostrare che $BC = 2AF$*
 
-> Due cerchi, di radii diversi, con centri a $B$ e $C$, che si toccano esternamente a $A$. Un tangente comune, non attraverso $A$, tocca il primo cerchio a $D$ e il secondo a $E$. La linea che attraversa $A$ perpendicolare a $DE$ incontra $BC$ a $F$. Prova che $BC = 2AF$.
+> Due circonferenze, di raggi diversi, con centri in $B$ e in $C$, sono tangenti esternamente in $A$. Una tangente comune, che non passa per $A$, tocca la prima circonferenza in $D$ e la seconda in $E$. La retta per $A$ perpendicolare a $DE$ incontra $BC$ in $F$. Dimostrare che $BC = 2AF$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2010#q04|src_bmo1_2010__Q04]]
 
 
 
@@ -132,9 +163,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzioni su reali che soddisfano un'equazione funzionale*
+*Funzioni reali tali che $f(x)f(y) = f(x+y) + f(x-y)$*
 
-> Trovare tutte le funzioni $f$, definite sui numeri reali e assumendo valori reali, che soddisfano $f(x)f(y) = f(x+y) + f(x-y)$ per tutti i numeri reali $x$ e $y$.
+> Trovare tutte le funzioni $f$, definite sui numeri reali e a valori reali, che soddisfano $f(x)f(y) = f(x+y) + f(x-y)$ per tutti i numeri reali $x$ e $y$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2010#q05|src_bmo1_2010__Q05]]
 
 
 
@@ -157,6 +195,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mapa del tesoro: basta scavare in un solo luogo*
+*Il tesoro è in un solo punto intero, dati $x^2 + y$ e $x + y^2$*
 
-> Il lunghissimo John Silverman ha catturato una mappa del tesoro di Adam McBones. Adamo ha sepolto il tesoro al punto $(x, y)$ con coordinate interi (non necessariamente positive). Ha indicato sulla mappa i valori di $x^2 + y$ e $x + y^2$, e questi valori sono entrambi numeri interi. Dimostra che Long John deve scavare in un solo posto per trovare il tesoro.
+> Long John Silverman ha sottratto una mappa del tesoro ad Adam McBones. Adam ha sepolto il tesoro nel punto $(x, y)$ a coordinate intere (non necessariamente positive). Sulla mappa ha indicato i valori di $x^2 + y$ e di $x + y^2$, ed entrambi i valori sono interi. Dimostrare che Long John deve scavare in un solo posto per trovare il tesoro.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2010#q06|src_bmo1_2010__Q06]]

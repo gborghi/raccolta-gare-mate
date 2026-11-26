@@ -33,11 +33,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Year of birth with sum of figures equal to age in 2017*
+*Year of birth whose digit sum equals the age in 2017*
 
-> IBERNOT Philip J. Frege, for friends Fry, is a guy who works as a pizza delivery boy in New York. On New Year's Eve 1999, he was ordered to deliver pizzas to the cryogenics lab. Arriving there, he finds no one, but he sees a note saying that Dr. Hercule Zoup's son in 2017 will celebrate a number of years that will coincide with the sum of the figures for his year of birth. Fry, curious, wonders how old Hercules' son will be, but falling into a capsule he stays hibernated for 1000 years before he can solve the mystery.
+> IBERNATED Philip J. Frege, known to his friends as Fry, is a young man who works as a pizza delivery driver in New York. On the evening of New Year's Eve in 1999, he receives an order to deliver some pizzas to the cryogenics laboratory. When he arrives at the location, he finds no one there, but he sees a note saying that Dr. Hercule Zoup's son will, in 2017, celebrate an age that will be equal to the sum of the digits of his birth year. Curious, Fry wonders how old Hercule's son will be, but he falls into a capsule and remains frozen for 1,000 years before he can solve the riddle.
 
-**Answer:** 0023
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_femminile#q01|src_squadre_2018_femminile__Q01]]
 
 
 
@@ -63,11 +66,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of natural mcm dividers from 1 to 30*
+*Number of divisors of the LCM of the natural numbers from 1 to 30*
 
-> FRY RIVAL wakes up in 2999. When he opens his eyes he realizes that he is in a lab with a strange being with only one eye who asks him a burning question: Consider the smallest number divisible by all natural numbers from 1 to 30. How many of his positive divisors are there?
+> THE AWAKENING Fry wakes up in 2999. Opening his eyes, he realizes he is in a laboratory with a strange one-eyed being that blasts him with a question: "Consider the smallest number divisible by all natural numbers from 1 to 30. How many positive divisors does it have?" Surprised, Fry can't answer.
 
-**Answer:** 7680
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_femminile#q02|src_squadre_2018_femminile__Q02]]
 
 
 
@@ -110,7 +117,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diameter x circle inscribed in triangle isosceles*
+*Diameter × incircle of an isosceles triangle*
 
 ![[src_squadre_2018_femminile__prob3.png]]
 
@@ -125,9 +132,14 @@ level: squadre
 \end{document}
 ```
 
-> Not receiving any answer, Liela Turinga - so called the girl with only one eye - analyzing Fry, proposes to him the job of farmhand. Fry's not here and he's trying to escape from the cryogenics center. When you get to the back of the building, you find a locked door. Someone on the side wall has drawn an isosceles triangle of base 400 mm and side 290 mm and two equal circles tangent to each other and tangent, each at the base and one side of the triangle. On one of the circles is shown a diameter with an x above it. You want to see that the code is exactly the x in mm? With a memory effort, Fry remembers the geometry lessons taken at school and, though mistaken, after a while, manages to decipher the correct code. What is it?
+> TOWARDS FREEDOM Receiving no response, Liela Turinga—that's the name of the one-eyed girl—analyzes Fry and offers him the job of errand boy. Fry isn't having it and tries to escape from the cryogenics center. When he reaches the back of the facility, he finds a code-locked door. Someone on the adjacent wall has drawn an isosceles triangle with a base of 400 mm and a side of 290 mm, and two identical circles that are tangent to each other and each tangent to the base and to one of the sides of the triangle. On one of the circles, a diameter is marked with an X above it. Could it be that the code is exactly the value of x in mm? With an effort of memory, Fry recalls the geometry lessons he had at school and, even though he gets it wrong, after a while manages to guess the correct code. What is it?
 
-**Answer:** 0120
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_femminile#q03|src_squadre_2018_femminile__Q03]]
 
 
 
@@ -157,11 +169,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Six-by-six chessboard routes with movements in the upper right corner*
+*Paths on a 6x6 board with moves toward the top-right corner*
 
-> While on the run, Fry swaps a suicide booth for an old phone booth and gets in line, meeting Beuler, a robot who works as an employee. To pass the time, Beuler is solving a game reported on an advertising manifesto: given a 6 6  chessboard with a pedal placed on the bottom left box, how many paths exist that lead the pedal into the upper right corner and can only make moves that move the pedal from the box in which it is located to one of the three adjacent boxes with the one starting in its top up right?
+> BEULER'S GAME 1 During the escape, Fry mistakes a suicide booth for an old telephone booth and joins a queue, where he meets Beuler, a robot who works as a "folder". To pass the time, Beuler is solving a game featured on an advertisement poster: given a 6×6 chessboard with a pawn on the bottom-left square, how many paths are there that move the pawn to the top-right corner, if only moves are allowed that shift the pawn from its current square to one of the three squares adjacent to the starting square at its top-right corner?
 
-**Answer:** 1683
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_femminile#q04|src_squadre_2018_femminile__Q04]]
 
 
 
@@ -203,7 +219,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of diagonal squares of the faces of a rhombohedron*
+*Sum of the squares of the diagonals of the faces of a rhombohedron*
 
 ![[src_squadre_2018_femminile__prob5.png]]
 
@@ -220,9 +236,12 @@ level: squadre
 \end{document}
 ```
 
-> Beuler claims to hate humans, but Fry likes him and decides to help him by proposing to move in with him. Beuler's apartment is a rombohedron, i.e. a parallelepiped whose six faces are all rhombohedrons. To prevent law enforcement from detecting Fry (provided with the identification chip), Beuler must place a metal bar on all the diagonals of the faces of the rogues that form his apartment. If the spikes of your house measure 18 m, what is the sum of the squares of lengths in m of all the necessary metal bars?
+> ROOMMATES Beuler claims to hate human beings, but he likes Fry and decides to help him by suggesting that Fry come and live at his place. Beuler's apartment is a rhombohedron—that is, a parallelepiped whose six faces are all rhombi. To prevent law enforcement from detecting Fry (who lacks an identification chip), Beuler must install a metal bar along every diagonal of the faces of the rhombi that make up his apartment. If the edges of his house measure 18 m, what is the sum of the squares of the lengths, in meters, of all the metal bars required?
 
-**Answer:** 7776
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_femminile#q05|src_squadre_2018_femminile__Q05]]
 
 
 
@@ -249,11 +268,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Added flower map with equal probability of same seed*
+*Flower cards added with the same probability and the same suit*
 
-> You see, Fry, Beuler, to live in the 31st century, you have to know a little math. Let's play a game. Look at that. I have four cards, two hearts and two spikes. Calculate the probability of catching two cards of the same seed. Now I'm adding a number of flower cards. If the probability of catching two cards from the same seed has not changed, how many cards have I added? Fry tries to answer when, without thinking about it, he takes a straw from the fridge and attaches it to Beuler's head... which goes tilted and starts singing Blowin in the Wind. What was the answer to Beuler's riddle?
+> MAGNETIC EFFECTS "Look, Fry..." Beuler says, "...to live in the 31st century, you've got to know a bit of math. Let's play a game. Watch. I have 4 cards—two hearts and two spades. Calculate the probability of drawing two cards of the same suit. Now I'll add a certain number of clubs. If the probability of drawing two cards of the same suit hasn't changed, how many cards have I added?" Fry tries to answer when, without thinking, he detaches a magnet from the fridge and sticks it on Beuler's head... and Beuler glitches out and starts singing "Blowin' in the Wind." What was the answer to Beuler's riddle?
 
-**Answer:** 0005
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_femminile#q06|src_squadre_2018_femminile__Q06]]
 
 
 
@@ -286,11 +308,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers after 2018 entries of 15*
+*Sum of the digits of the number after 2018, entries of 15*
 
-> Liela can find Fry. She confides to him that she wants to quit her oppressive job and that her dream is to travel in space. They begin a search to see if there is a descendant of Fry in New York in the year 3000 who can help them and, in fact, it's the scientist Hubert Fredholm, a distant pro-pro-pro-pro-nephew of Fry. The only problem is that a scientist's civic number, in the 3000s, is always masked by a mathematical operation. On the Fredholm file is the series of numbers 16, 1156, 111556, ... obtained by inserting the number 15 among the digits of the previous number. If n is the number obtained after the 2018th entry and ( ) S m is the sum of the digits of the number m, then the citizen of Fredholm is ( ) S n.
+> Distant Relatives Liela manages to find Fry. She confides in him that she wants to quit her oppressive job and that her dream is to travel through space. They begin a search to find out whether, in New York in the year 3000, there is a descendant of Fry who could help them—and indeed there is one: the scientist Hubert Fredholm, Fry's very distant great-great-great-grandnephew. The only snag is that, in the year 3000, a scientist's house number is always disguised as a mathematical operation. On Fredholm's file is the sequence of numbers 16, 1156, 111556, … obtained by inserting the number 15 in the middle of the digits of the preceding number. If n is the number obtained after the 2018th insertion and S(m) is the sum of the digits of the number m, then Fredholm's house number is S(n).
 
-**Answer:** 6058
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_femminile#q07|src_squadre_2018_femminile__Q07]]
 
 
 
@@ -320,11 +346,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of marks + to obtain 1 from 1..2018 with max additions*
+*Put plus signs between numbers to get 1 from 1..2018 with a maximum number of additions*
 
-> PLANAR EXPRESS Hubert Fredholm is a professor of "quantum neutron mathematics" at Martian University and a senior member of the Academy of Professors. He's a great inventor and he's the one who designed all the robots on Earth. Hubert is the owner of the intergalactic transportation agency Planar Express. Hubert proposes to Fry, Liela and Beuler to become his employees, but only if they can solve a problem. Hubert writes the numbers from 1 to 2018 leaving a space between them and writing a   at the bottom. Now it asks to fill the space between two numbers with a   or a   so as to get as the final result of  operation 1, but to do so with as many   as possible. Fry's desperate, and Liela's about to crack something. It's a good thing Beuler has the solution. What number of characters will make Fry a factor of 3000?
+> PLANAR EXPRESS Hubert Fredholm is a professor of "quantum neutron mathematics" at the Martian University and the most senior member of the Academy of Professors. He is a great inventor, and it was his design that was used to build all of Earth's robots. Hubert is the owner of the intergalactic transport agency Planar Express. Hubert offers Fry, Liela, and Beuler jobs as his employees—but only if they can solve a problem. Hubert writes the numbers from 1 to 2018, leaving a space between them and writing a "=" at the end. He now asks them to fill the space between two numbers with a "+" sign or a "−" sign so that the final result of the operation is 1, but to do it with as many "+" signs as possible. Fry is desperate, and Liela is about to smash something. Fortunately, Beuler has the solution. How many "+" signs will it take to turn Fry into a delivery boy in 3000?
 
-**Answer:** 1425
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_estremalita|Extremal principle]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_femminile#q08|src_squadre_2018_femminile__Q08]]
 
 
 
@@ -362,13 +392,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Given that it changes, number most likely at the third launch*
+*Since it changes, the number with the highest probability will come up on the third throw*
 
-> HALBERT CONWAY The Planar Express has been joined by Halbert Conway, who runs it as if it were his own, taking care of the financial and personnel administration. Its characteristics are pennelry, order, punctuality, compliance with rules and regulations, planning and economics. He loves dice games and has a six-sided electronic dice that, reset, has the first six positive integers on the six faces and, after each roll, halves the even values if an even number is released, increases the value of each of the six faces of one if an odd number is released. Halbert asked Beuler to calculate which number n has the highest probability of exiting at the third launch and which is this probability a b reduced to minimum terms. (Give the answer 1000n to b   .)
-> 
+> HALBERT CONWAY Halbert Conway has joined Planar Express; he runs it as if it were his own, handling financial administration and personnel matters. His distinctive traits are meticulousness, orderliness, punctuality, respect for rules and regulations, planning, and thrift. He loves dice games and has a six-sided electronic die that, when reset, has the first six positive integers on its six faces; after each roll, if an even number comes up, it halves the values on the even faces, and if an odd number comes up, it increases the value on each of the six faces by one. Halbert has asked Beuler to calculate which number n has the highest probability of coming up on the third roll and what that probability is, with b reduced to lowest terms. (As your answer, give 1000n a b   .)
+>
 > 3
 
-**Answer:** 3011
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_femminile#q09|src_squadre_2018_femminile__Q09]]
 
 
 
@@ -413,11 +447,15 @@ level: squadre
 
 *Distance with polynomial roots, a^8+b^8*
 
-> In the 3000s there is a space police called the "Squad of Sunset" who, when a human reaches 160 years of age, captures him and transports him to a specific planet-host, then makes him live his last years in a simulated reality. Since Professor Fredholm was born in 2841, he is 159 years old but declares 150 to avoid capture. Unfortunately, the deception is discovered. Fry decides to use one of the professor's inventions, the Sniffoscope, a telescope capable of sniffing the smell of anything in any part of the universe. The Sniffoscope detects the smell of old age on a planet 8 8 to b
->  
-> Parsec from the earth, where a and b are the roots of the polynomial 2 5 x x   . How many parsecs will Fry, Liela and Beuler have to travel to recover Professor Fredholm and all the elderly confined to the hospice planet?
+> THE TWILIGHT SQUAD In the year 3000, there exists a space police force called the "Twilight Squad" which, if a human being reaches the age of 160, captures that person and transports them to a special retirement-planet, after which they spend their final years in a simulated reality. Since Professor Fredholm was born in 2841, he is 159 years old but claims to be 150 in order to avoid being captured. Unfortunately, the deception is discovered. Fry decides to use one of the professor's inventions, the "Sniffoscope"—a telescope capable of sniffing the smell of anything anywhere in the universe. The Sniffoscope detects the "smell of old age" on a planet that is 8 8 a b  away
+>
+> parsecs from Earth, where a and b are the roots of the polynomial 2 5 x x   . How many parsecs will Fry, Liela, and Beuler have to travel to rescue Professor Fredholm and all the elderly people confined on the hospice planet?
 
-**Answer:** 3791
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2018_femminile#q10|src_squadre_2018_femminile__Q10]]
 
 
 
@@ -511,13 +549,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordered pairs of symptoms with transient implication*
+*Ordered pairs of symptoms with transitive implication*
 
 ![[src_squadre_2018_femminile__prob11.png]]
 
-> The Planar Express team has been joined by John Zornberg, a longtime friend of Professor Fredholm. It's an alien from the planet Decapod 10, resembling a large lobster. Fry's hired him as medical director. His skills were crucial when, on arriving for a delivery on the third planet Cese-Na-Tic, an infection was discovered. Zornberg managed to map the disease's symptoms as follows: he introduced the notation P Q  to indicate that those with symptom P also have symptom Q. Then he determined all the symptoms of the disease and called them A, B, C, D, E, F, G, H, I, L, M and N. Finally, he determined the following fundamental links: A B  , B C  , C D  , D E  , E A  , C F  , F G  , G H  , H I  , I G  , L A  , L M  , L N  , N L  , M L  and noted that, knowing that P Q  and Q R  , he knows that P R  too. To rule out the terrible disease, it was necessary to calculate all ordered pairs of different symptoms P and Q among the 12 listed, such as P Q  . How many of these couples are ordered?
+> THE TEAM IS GROWING: John Zornberg, an old friend of Professor Fredholm, has joined the Planar Express team. He is an alien from the planet Decapod 10, resembling a large lobster. Fry recruited him as medical officer. His expertise proved essential when, after arriving on the third planet Cese-Na-Tic to make a delivery, it was discovered that there was an infection. Zornberg managed to map the symptomatology of the disease as follows: he introduced the notation P Q  to indicate that anyone with symptom P also has symptom Q. Then he identified all the symptoms of the disease and named them A, B, C, D, E, F, G, H, I, L, M, and N. Finally, he determined the following fundamental connections: A B  , B C  , C D  , D E  , E A  , C F  , F G  , G H  , H I  , I G  , L A  , L M  , L N  , N L  , M L  , and he noted that, knowing that P Q  and Q R  , one also knows that P R  . To eradicate the terrible disease, it was necessary to calculate all ordered pairs of distinct symptoms P and Q from among the 12 listed, such that P Q  . How many such ordered pairs are there?
 
-**Answer:** 0082
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_femminile#q11|src_squadre_2018_femminile__Q11]]
 
 
 
@@ -566,11 +608,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*False term index in the modified Fibonacci sequence*
+*Incorrect term index in the modified Fibonacci sequence*
 
-> Amy Weil is a student at Martian University who Professor Fredholm hired because she has her own blood type. She's a pretty weird girl and often a little shallow. Yesterday, while doing exercises in preparation for an exam, he considered the Fibonacci sequence (0 1 to , 1 1 to , 2 1 n n n n a a   ) and decided to write the first elements in order. Unfortunately, at some point, instead of typing the correct term, he incorrectly increased it by 1. Since then, he's done the math correctly and decided to stop once he wrote the number 1830. Conway, immediately aware of the error, immediately gave her the index of the wrongly calculated term. What clue did you give?
+> SPATIAL ERRORS Amy Weil is a student at Mars University whom Professor Fredholm hired because she has the same blood type as he does. She is a rather odd girl and often a bit superficial. Yesterday, while doing exercises in preparation for an exam, she considered the Fibonacci sequence (a₀ = 0, a₁ = 1, aₙ₊₂ = aₙ₊₁ + aₙ) and decided to write down the first terms in order. Unfortunately, at a certain point, instead of writing the correct term, she erroneously increased it by 1. From that point on, she no longer made any calculation errors and decided to stop once she had written the number 1830. Conway, immediately noticing the error, promptly pointed out to her the index of the term that had been calculated incorrectly. Which index did he point out?
 
-**Answer:** 0004
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2018_femminile#q12|src_squadre_2018_femminile__Q12]]
 
 
 
@@ -603,11 +650,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial volume of parallel piped that becomes cube*
+*Initial volume of a parallelepiped that becomes a cube*
 
-> The members of Planar Express visit Amy's parents, Leo and Inez, who want to build a New Mars Vegas. The idea is to take the rudder built on a sheltered ground, a structure in the shape of a paralelepiped, and to restructure it by increasing the three dimensions by 2 m, 3 m and 4 m so as to increase the volume of the structure by 3 3447 m and make it a cube. Liela, along with a group of eco-feminists, tries to resist and ends up saving a little bloodsucker on the brink of extinction. What you'll find is that the little leech is an alien who wants to destroy humanity. Fortunately, Fry's intervention settled things. Coming back from Mars, Beuler asks himself: What was the initial volume of the quarry before the restructuring in 3 m?
+> NEW MARS VEGAS I The members of Planar Express visit Amy, Leo, and Inez's parents, who want to build a New Mars Vegas. The idea is to take the ruin built on protected land—a parallelepipedal structure—and renovate it by increasing its three dimensions by 2 m, 3 m, and 4 m, so as to increase the structure's volume by 3 3447 m and turn it into a cube. Liela, together with a group of ecofeminists, tries to oppose this and ends up saving a small, endangered leech. What will be discovered is that the small leech is an alien who wants to destroy humanity. Fortunately, Fry's intervention sets things right. Setting off again from Mars, Beuler wonders, "What was the initial volume of the ruin before the renovation by 3 m?"
 
-**Answer:** 5814
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2018_femminile#q13|src_squadre_2018_femminile__Q13]]
 
 
 
@@ -638,11 +689,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of candidates among delegations with declarations*
+*Maximum number of sincere ones among delegations with statements*
 
-> The SMULLYAN Fry Planet and the Planar Express are about to make a delivery to the Smullyan Planet. Liela has already warned Fry about the inhabitants of the planet belonging to two religious factions: the erov who are always sincere and oslaf who are always lying. When the mayor arrives, he introduces himself and says, "I'm a ..." Unfortunately, a gust of wind prevented Fry from hearing his voice. At this point, various groups of inhabitants are present to collect the goods: the first group consists of two inhabitants, each declaring: lthe other is an oslaf. Next comes a delegation of three inhabitants who declare each other the other two belong to the erov group, then comes a group of four people who declare each other: the other three in the group are oslaf. And so on until the last delegation of 50 inhabitants. Each group made up of n inhabitants declared that the other n-1s are oslaf if n is equal, erov if n is odd. Beuler asks Fry if he knows how many erov, at most, he may have met.
+> PLANET SMULLYAN Fry and the Planar Express are about to make a delivery on the planet Smullyan. Liela has already warned Fry about the planet's inhabitants, who belong to two religious factions: the "erov," who are always truthful, and the "oslaf," who always lie. On arrival, the mayor appears and introduces himself by saying, "I am a …" Unfortunately, a gust of wind prevented Fry from hearing his voice. At this point, various groups of inhabitants come forward to collect the goods: the first group consists of two inhabitants, and each declares, "The other one is an oslaf." Next, a delegation of three inhabitants arrives; each declares, "The other two belong to the group of erov." Then a group of four people arrives, and each declares, "The other three in the group are oslaf." And so on, all the way to the final delegation of 50 inhabitants. Every group consisting of n inhabitants has declared that the other n-1 are "oslaf" if n is even, and "erov" if n is odd. Beuler asks Fry whether he knows how many "erov" he could have met at most.
 
-**Answer:** 0650
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_femminile#q14|src_squadre_2018_femminile__Q14]]
 
 
 
@@ -671,11 +726,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*8x8 chessboard routes with right-hand moves*
+*Paths on an 8x8 chessboard with moves to the right/up/down*
 
-> BEULERS GAME 2 Traveling on the Planar Express is boring and Beuler, having nothing else to do, sets out to invent games on the chessboard. The last solution was to place a pedal on the bottom left-hand box of a chessboard 8 8  and to calculate how many paths there are that lead the pedal into the bottom right-hand corner box, and to make only moves that move the pedal from one of the three boxes to the right-hand column and immediately upper row, or in the same row, or immediately lower row. What number did you find?
+> BEULER'S GAME 2 Journeys on the Planar Express are boring, and Beuler, having nothing else to do, starts inventing games on the chessboard. The latest one he solved involved placing a pawn on the bottom-left square of an 8×8 chessboard and calculating how many paths exist that take the pawn to the bottom-right corner square, with the only allowed moves being those that move the pawn from one square to one of three squares located in the column to its right and in the row immediately above, or in the same row, or in the row immediately below. What number did he find?
 
-**Answer:** 0127
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_femminile#q15|src_squadre_2018_femminile__Q15]]
 
 
 
@@ -720,18 +779,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle area with beam and condition AD=BD+DC*
+*Area of a triangle with an angle bisector and the condition AD=BD+DC*
 
 ![[src_squadre_2018_femminile__prob16.png]]
 
-> Professor Fredholm sends an expedition to investigate the dimensional opening that suddenly appeared in space. The computer shows an opening in the ABC space in the shape of an acute triangle. If D is the second point of intersection of the intersection of the angle ˆ BAC with the circumscribed circumference, 26 km AB  , 30 km AC  and AD BD DC   , what is the size of the area ABC to be inspected (in 2 km) ?
->  
->  
->  
-> 
-> 4
+> Fractures in Space Professor Fredholm sends an expedition to investigate the dimensional opening that has suddenly appeared in space. The computer shows an opening in ABC space shaped like an acute-angled triangle. If D is the second point of intersection of the bisector of angle BAC with the circumcircle, AB = 26 km, AC = 30 km, and AD = BD + DC, what is the area of ABC to be inspected (in km²)? 4
 
-**Answer:** 0336
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_femminile#q16|src_squadre_2018_femminile__Q16]]
 
 
 
@@ -761,11 +819,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 10 distinct digits divisible by 11111*
+*10-digit numbers with distinct digits divisible by 11111*
 
-> Mordalia has become Liela's pet. It was saved on a near-extinction planet when it was discovered to devour anything by turning it into dark matter, used as fuel for spacecraft. Fry discovered that when Mordalia feeds on math books, the fuel lasts much longer. Now we need to refuel for the next trip. Fry approaches Mordalia and hands him a book from which he reads: How many are the ten-digit numbers all divisible by 11111? For all the answer, the little one devours the book producing a large amount of dark matter. What answer would Fry read to the problem if Mordalia hadn't swallowed the book?
+> MORDAGLIA Mordaglia has become Liela's pet. It was rescued on a planet nearing extinction when it was discovered that it devours anything, turning it into dark matter used as fuel for spaceships. Fry discovered that when Mordaglia feeds on math books, the fuel lasts much longer. Now it's necessary to refuel for the next trip. Fry approaches Mordaglia and holds out a book, from which he reads: "How many ten-digit numbers, all with distinct digits, are divisible by 11111?" In response, the little creature devours the book, producing a large amount of dark matter. What answer to the problem would Fry have read if Mordaglia hadn't devoured the book?
 
-**Answer:** 3456
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_femminile#q17|src_squadre_2018_femminile__Q17]]
 
 
 
@@ -807,13 +870,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length EF with equilateral triangles outside quadrilateral*
+*EF length with equilateral triangles external to a quadrilateral*
 
 ![[src_squadre_2018_femminile__prob18.png]]
 
-> Ignoring Professor Fredholm's orders, Liela takes the Planar Express shuttle to a demolition derby to settle a score with a guy who offended her. But now he has to return to Earth and calculate the shortest trajectory. I'll show you the position on the screen. The on-board computer, perhaps due to a malfunction due to the shots received, draws an ABCD quadrilateral. Liela observes that there is a point P inside it where ADP and BCP are equilateral triangles. By constructing the equilateral triangles ABE and DCF externally to the quadrilateral , the onboard computer indicates that the Earth is at point F and the Planar Express is at point E . The computer reports only the data 20 AD  light years, 21 DC  light years and ˆ 90 FDP  . With this data, will Liela be able to calculate the length of EF (in light years) to get everyone home?
+> Trajectories in Space Ignoring Professor Fredholm's orders, Liela takes the Planar Express shuttle to a demolition derby to settle the score with a guy who had insulted her. Now, however, she must return to Earth and calculate the shortest trajectory. She projects the position onto the screen. The on-board computer, perhaps due to a malfunction caused by the impacts it has sustained, draws a quadrilateral ABCD. Liela notes that inside it there is a point P such that ADP and BCP are equilateral triangles. By constructing the equilateral triangles ABE and DCF externally to the quadrilateral, the on-board computer indicates that Earth is at point F and the Planar Express is at E. The computer reports only the data: AD = 20 light-years, DC = 21 light-years, and ∠FDP = 90°. With these data, will Liela be able to calculate the length of EF (in light-years) in order to get everyone home?
 
-**Answer:** 0058
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_femminile#q18|src_squadre_2018_femminile__Q18]]
 
 
 
@@ -842,11 +909,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Compositions of 14 with last odd term*
+*Compositions of 14 with an odd last term*
 
-> Many characters have arrived in the future thanks to technology that separates the heads from the rest of the body and keeps them alive and active indefinitely in transparent cylindrical containers. Most of these containers are housed inside the Museum of Tests, where politicians, athletes, actors, UMI presidents and all kinds of famous figures of the twentieth century and beyond are to be found. The Museum is able to guarantee the survival of as many heads as the compositions of 14 in which the last term (the one on the right) is odd. A composition of an integer n is an ordered list of positive integers whose sum is n. For example , number 3 admits the following four compositions: (3) , (1;2) , (2;1) and (1;1;1) .
+> THE MUSEUM OF HEADS Many people have arrived in the future thanks to a technology that makes it possible to separate heads from the rest of the body and to preserve them, alive and active, indefinitely inside transparent cylindrical containers. Most of these containers are gathered inside the Museum of Heads, where one can find politicians, athletes, actors, UMI presidents, and all sorts of famous figures from the twentieth century and beyond. The Museum is able to ensure the survival of as many heads as there are compositions of 14 in which the last term (the one on the far right) is odd. A composition of an integer n is an ordered list of positive integers whose sum is n. For example, the number 3 has the following four compositions: (3), (1;2), (2;1), and (1;1;1).
 
-**Answer:** 5461
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_femminile#q19|src_squadre_2018_femminile__Q19]]
 
 
 
@@ -875,11 +946,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Routes on a 6x6 chessboard with no return to the boxes visited*
+*Paths on a 6x6 chessboard with no return to visited squares*
 
-> Back from Mars, Beuler is devoting himself to his favorite pastime. Given a 6 6  chessboard with a pedal placed on the box at the bottom left, how many paths exist that lead the pedal into the box at the top right corner and can only make moves that move the pedal from a box to one of the three neighbours with it up, right or down, without being able to return to boxes already crossed? Now trained for these problems, Beuler solves the puzzle in seconds. What solution did you come up with?
+> BEULER'S GAME 3 On his return from Mars, Beuler turns to his favorite pastime. Given a 6×6 chessboard with a pawn on the bottom-left square, how many paths are there that move the pawn to the top-right corner square, if only moves are allowed that shift the pawn from one square to one of the three squares adjacent to it—above, to the right, or below—but the pawn may not return to squares it has already passed through? Now accustomed to such problems, Beuler solves the puzzle in a few seconds. What solution did he find?
 
-**Answer:** 7776
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_femminile#q20|src_squadre_2018_femminile__Q20]]
 
 
 
@@ -944,11 +1019,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coefficients a,b,c of degrees 11,12,13 in product of polynomials*
+*Coefficients a, b, c of degrees 11, 12, 13 in a product of polynomials*
 
-> A musical motif resembling a call is storming the earth. No one knows what it is, but Fry has to find out. A terrible spaceship is crushing the planets in search of something. Beuler, using his positronic brain, manages to translate music into the polynomial 2 3 4 5 2 3 4 5 6 7 ( ) (1 ))  1 ) p                                                                                                  The music will stop if you can eliminate the terms degree 11 , 12 and 13 of ( ) p x . Beuler sets the calculation by writing 11 12 13 ( ) ( ) p x ax bx cx    , but how much are a , b and c ? (Give the answer to b c ).
+> SPATIAL SOUNDS A musical motif resembling a call is tormenting the Earth. No one knows what it is, but Fry must find out. A terrible spacecraft is shattering planets in search of something. Using his positronic brain, Beuler manages to translate the music into the polynomial p(x) = 2 3 4 5 2 3 4 5 6 7 ( ) (1 )(1 )(1 ). The music will cease if it is possible to eliminate the terms of degree 11, 12, and 13 of p(x). Beuler sets up the calculation by writing p(x) = ax^11 + bx^12 + cx^13, but what are the values of a, b, and c? (Give a + b + c as your answer.)
 
-**Answer:** 0124
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2018_femminile#q21|src_squadre_2018_femminile__Q21]]
 
 
 
@@ -978,13 +1057,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of tetrahedron with triangle development 60-50-50*
+*Volume of tetrahedron with triangular net 60-50-50*
 
 ![[src_squadre_2018_femminile__prob22.png]]
 
-> The container of a Decapod 10 food supply is shaped like a tetrahedron. To protect it from space travel, Amy made a triangle whose sides measure 60 m, 50 m and 50 m which is exactly the development of the total surface area of the container. What 's the volume in 3 meters ?
+> A Problematic Delivery The container for a food supply for Decapod 10 is tetrahedral in shape. To protect it from space travel, Amy has created a triangle with sides measuring 60 m, 50 m, and 50 m; this triangle is exactly the net of the container's total surface area. What volume does it occupy in 3 m?
 
-**Answer:** 1984
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_femminile#q22|src_squadre_2018_femminile__Q22]]
 
 
 
@@ -1023,11 +1106,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum on products of non-zero digits, energy power*
+*Sum of non-zero digits of products, energy power*
 
-> A terrible alien monster has managed to sneak up on the Planar Express and is devouring all the members of the team. Fry realizes that in order to defeat the monster and bring his friends back to life, he will have to solve a very difficult problem. The alien will die only if hit with a power energy radius of 500 1 (2 ) 6 i P i  , where ( ) P n is the product of the non-zero digits of the natural number n. What power will the Planar Express crew save?
+> MURDER ON THE PLANAR EXPRESS A terrible alien monster has managed, by deception, to board the Planar Express and is devouring all the members of the team. Fry realizes that, to defeat the monster and bring his friends back to life, he will have to solve a very difficult problem. The alien will die only if struck by an energy beam with a power equal to 500 1 (2 ) 6 i P i  , where ( ) P n is the product of the non-zero digits of the natural number n. Which power will save the crew of the Planar Express?
 
-**Answer:** 7406
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_femminile#q23|src_squadre_2018_femminile__Q23]]
 
 
 
@@ -1065,22 +1153,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum area of parallel-piped shadow 20x40x60*
+*Maximum shaded area of a 20x40x60 parallelepiped*
 
 ![[src_squadre_2018_femminile__prob24.png]]
 
-> The Last Egg Fry discovers that he has telepathic powers and understands that he must defeat the Dark Forces and save the last encyclopedic egg, an extinct species that has evolved to include the DNA of all living species. The egg is a rectangular parallel-piped with 20 mm, 40 mm and 60 mm beads. To protect it, the Planar Express must find out what the maximum possible area of the shadow of the parallel piped projected by the sun on a screen is (consider the sun's rays all parallel). To buy time, Professor Fredholm invents a button that can transport a person ten seconds back in time. Thanks to this finding, Fry is able to defeat the Dark Forces. Fry and Liela decide to get married and face the next space adventure together.
->  
->  
-> 
->  
->  
->  
->  
-> 
->  
-> The women's national finals (5 May 2018)
->  
-> GREAT solutions
+> The Last Egg: Fry discovers that he has telepathic powers and realizes that he must defeat the Dark Forces and save the last egg of the Encyklopods, a species now extinct that, through evolution, incorporated the DNA of all living species. The egg is a rectangular parallelepiped with edge lengths of 20 mm, 40 mm, and 60 mm. To protect it, the Planar Express must determine the maximum possible area of the shadow cast by the parallelepiped on a screen by the sun (assume that all solar rays are parallel). To gain time, Professor Fredholm invents a button that can send a person ten seconds back in time. Thanks to this invention, Fry manages to defeat the Dark Forces. Fry and Liela decide to get married and face the upcoming space adventures together. WOMEN'S TEAM MATH COMPETITION – NATIONAL FINAL (May 5, 2018)
+>
+> Solution Grid
 
-**Answer:** 2800
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_femminile#q24|src_squadre_2018_femminile__Q24]]

@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per un primo impar p, dimostrare che ci sono unici interi positivi x,y con x^2=y(y+p) e trovarli.*
+*Unici interi positivi $x, y$ tali che $x^2 = y(y + p)$, per $p$ primo dispari*
 
-> $p$ sia un numero primo impar. Prove che esistono unici integri positivi $x, y$ come $x^2 = y(y + p)$, e fornisca le formule per $x$ e $y$ in termini di $p$.
+> Sia $p$ un numero primo dispari. Dimostrare che esistono unici interi positivi $x, y$ tali che $x^2 = y(y + p)$, e dare le formule di $x$ e di $y$ in funzione di $p$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1992#q01|src_bmo2_1992__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza che limita una somma di reciprocità di somme a tre termini tra due espressioni.*
+*Una doppia disuguaglianza su somme di reciproci*
 
-> Lasciate che $a, b, c, d$ siano numeri reali positivi. Provare che $$\frac{12}{a+b+c+d} \le \frac{1}{a+b} + \frac{1}{a+c} + \frac{1}{a+d} + \frac{1}{b+c} + \frac{1}{b+d} + \frac{1}{c+d} \le \frac{3}{4}\left(\frac{1}{a} + \frac{1}{b} + \frac{1}{c} + \frac{1}{d}\right).$$
+> Siano $a, b, c, d$ numeri reali positivi. Dimostrare che
+> $$\frac{12}{a+b+c+d} \le \frac{1}{a+b} + \frac{1}{a+c} + \frac{1}{a+d} + \frac{1}{b+c} + \frac{1}{b+d} + \frac{1}{c+d} \le \frac{3}{4}\left(\frac{1}{a} + \frac{1}{b} + \frac{1}{c} + \frac{1}{d}\right).$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1992#q02|src_bmo2_1992__Q02]]
 
 
 
@@ -82,9 +97,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un triangolo il cui radio di circonferenza soddisfa AB^2+AC^2=BC^2-R^2; dimostrare che gli angoli sono determinati in modo unico e trovarli.*
+*Gli angoli sono determinati se $AB^2 + AC^2 = BC^2 - R^2$*
 
-> Il circoncircolo del triangolo $ABC$ ha un raggio $R$ soddisfacente $$AB^2 + AC^2 = BC^2 - R^2.$$ Prove che gli angoli del triangolo sono determinati in modo unico, e indicare i valori per gli angoli.
+> La circonferenza circoscritta al triangolo $ABC$ ha un raggio $R$ che soddisfa
+> $$AB^2 + AC^2 = BC^2 - R^2.$$
+> Dimostrare che gli angoli del triangolo sono determinati in modo unico, e indicarne i valori.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1992#q03|src_bmo2_1992__Q03]]
 
 
 
@@ -121,18 +145,27 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Comunità nanna con tre tipi di amicizia (uno di ciascuno per nano), connessa; dimostrare che il conteggio è pari >2 e che per isolare un gruppo i conteggi distrutti dei tre tipi sono tutti pari o tutti odd.*
+*Il numero di nani è pari e maggiore di 2; le amicizie distrutte sono tutte pari o tutte dispari*
 
-> La vita sociale dei nani nel *Land Under the Mountain* si basa sulla "visita" che ha le sue regole dei nani. Due nani possono visitarsi solo se si conoscono, ma ci sono tre livelli di amicizia.
-> 
-> Gli amici possono visitarsi e parlare per quanto desiderano, ma devono rimanere sulla soglia, non attraversando mai la soglia.
-> 
-> Gli amici possono superare la soglia reciproca, e anche condividere una tazza di tè, ma non devono mai rimanere per cena.
-> 
-> Gli amici possono visitare l'altro e rimanere quanto vogliono, condividendo birra, cena e una chiacchierata vicino al fuoco.
-> 
-> Ogni nano ha esattamente un amico di ogni tipo, e la comunità è strutturata in modo che ogni coppia di nani sia legata da una catena di conoscenze di vari tipi in modo che $A$ conosca qualcuno, che conosce qualcuno, che conosce qualcuno, $\ldots$, che conosce $B$.
-> 
-> (i) dimostrare che il numero di nani deve essere pari superiore a $2$ e che, corrispondendo a ciascuna pari $n > 2$, può esistere una tale comunità di nani $n$.
-> 
-> (ii) Gli orchi malvagi vogliono isolare un gruppo di nani dal resto della comunità. Per fare questo devono distruggere un certo insieme di amicizie. Supponiamo che abbiano successo distruggendo $$F_d \text{ doorstep friendships}, \quad F_t \text{ tea friendships}, \quad F_s \text{ supper friendships},$$ e che tutte queste amicizie debbano essere distrutte per isolare quel gruppo. Prove che $F_d, F_t, F_s$ dovrebbe essere tutto pari o tutto impar.
+> La vita sociale dei nani nella *Terra sotto la Montagna* si basa sulle «visite», che hanno regole nane proprie. Due nani possono farsi visita solo se si conoscono, ma ci sono tre gradi di amicizia.
+>
+> Gli amici di *soglia* possono farsi visita e parlare quanto vogliono, ma devono restare sulla soglia, senza varcarla.
+>
+> Gli amici da *tè* possono varcare la soglia l'uno dell'altro, e anche condividere una tazza di tè, ma non devono mai restare a cena.
+>
+> Gli amici da *cena* possono farsi visita e restare quanto vogliono, condividendo birra, cena e una chiacchierata accanto al fuoco.
+>
+> Ciascun nano ha esattamente un amico di ciascun tipo, e la comunità è organizzata in modo che ogni coppia $A, B$ di nani sia collegata da una catena di conoscenze di vario tipo, così che $A$ conosce qualcuno, che conosce qualcuno, che conosce qualcuno, $\ldots$, che conosce $B$.
+>
+> (i) Dimostrare che il numero di nani deve essere un numero pari maggiore di $2$ e che, in corrispondenza di ogni $n > 2$ pari, può esistere una tale comunità di $n$ nani.
+>
+> (ii) Gli orchi malvagi vogliono isolare un gruppo di nani dal resto della comunità. Per farlo devono distruggere un certo insieme di amicizie. Si supponga che ci riescano distruggendo
+> $$F_d \text{ doorstep friendships}, \quad F_t \text{ tea friendships}, \quad F_s \text{ supper friendships},$$
+> e che tutte queste amicizie debbano essere distrutte per isolare quel gruppo. Dimostrare che $F_d, F_t, F_s$ dovrebbero essere o tutti pari o tutti dispari.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1992#q04|src_bmo2_1992__Q04]]

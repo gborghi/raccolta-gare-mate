@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che ogni intero positivo è 'gaudy' (ha multipli a partire dal 2008)*
+*Dimostrare che ogni numero intero positivo è "gaudy" (ha molteplici inizianti con 2008)*
 
-> Chiamiamo un intero positivo *gaudy* se ha un multiple le cui prime quattro cifre decimali sono $2008$. Ad esempio, $7$ è gaudy perché $200858$ è un multiple di $7$ e inizia con $2008$ (nota che $200858 = 28694 \times 7$). Prove che ogni intero positivo è goody.
+> Chiamiamo *gaudy* un numero intero positivo se possiede un multiplo i cui primi quattro digit decimali sono $2008$. Ad esempio, $7$ è gaudy perché $200858$ è un multiplo di $7$ e inizia con $2008$ (si noti che $200858 = 28694 \times 7$). Dimostrare che ogni numero intero positivo è gaudy.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n3_f3#q01|src_obm_2008_n3_f3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Segmento che copre 3n di 6n punti colorati su una linea*
+*Segmento che comprende 3n punti colorati su 6n disposti su una retta*
 
-> Su una linea c'è un insieme $S$ di punti $6n$. Di questi, $4n$ sono scelti a caso e colorati in blu; i restanti $2n$ sono colorati in verde. Dimostrare che esiste un segmento contenente esattamente $3n$ punti di $S$, di cui $2n$ blu e $n$ verde.
+> Su una retta c'è un insieme $S$ di $6n$ punti. Di questi, $4n$ vengono scelti a caso e colorati di blu; i restanti $2n$ vengono colorati di verde. Dimostrare che esiste un segmento che contiene esattamente $3n$ punti di $S$, di cui $2n$ sono blu e $n$ sono verdi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n3_f3#q02|src_obm_2008_n3_f3__Q02]]
 
 
 
@@ -80,9 +94,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di espressione razionale simmetrica sotto vincolo x+y+z=xy+yz+zx*
+*Valore minimo dell'espressione razionale simmetrica sotto il vincolo x+y+z=xy+yz+zx*
 
-> $x, y, z$ siano numeri reali che soddisfino $x + y + z = xy + yz + zx$. Trova il valore minimo di $$\frac{x}{x^2+1} + \frac{y}{y^2+1} + \frac{z}{z^2+1}.$$
+> Sia $x, y, z$ un insieme di numeri reali che soddisfano $x + y + z = xy + yz + zx$. Determinare il valore minimo di
+> $$\frac{x}{x^2+1} + \frac{y}{y^2+1} + \frac{z}{z^2+1}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2008_n3_f3#q03|src_obm_2008_n3_f3__Q03]]
 
 
 
@@ -105,9 +127,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale ciclico: OP perpendicolare al CD attraverso riflessi di angolo bisector*
+*Quadrilatero ciclico: OP perpendicolare a CD tramite riflessioni lungo le bisettrici degli angoli*
 
-> Che $ABCD$ sia un quadrilaterale ciclico, e che $r$ e $s$ siano i riflessi della linea $AB$ attraverso i bisettori interni degli angoli $\angle CAD$ e $\angle CBD$, rispettivamente. Il $P$ è l'intersezione di $r$ e $s$, e il $O$ è il circoncentro di $ABCD$. Provare che $OP$ è perpendicolare a $CD$.
+> Sia $ABCD$ un quadrilatero ciclico, e siano $r$ e $s$ le riflessioni della retta $AB$ rispetto alle bisettrici interne degli angoli $\angle CAD$ e $\angle CBD$, rispettivamente. Sia $P$ l'intersezione di $r$ e $s$, e sia $O$ il circocentro di $ABCD$. Dimostrare che $OP$ è perpendicolare a $CD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2008_n3_f3#q04|src_obm_2008_n3_f3__Q04]]
 
 
 
@@ -130,9 +159,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di f: Z+→Z+ che soddisfa f(a·f(n))=b·n per tutte le n*
+*Esistenza di f: Z+→Z+ tale che f(a·f(n))=b·n per ogni n*
 
-> Prova che per tutti gli enti $a > 1$ e $b > 1$ esiste una funzione $f$ dai numeri interi positivi ai numeri interi positivi in modo tale che $f(a \cdot f(n)) = b \cdot n$ per ogni intero positivo $n$.
+> Dimostrare che per qualsiasi coppia di interi $a > 1$ e $b > 1$ esiste una funzione $f$ dagli interi positivi agli interi positivi tale che $f(a \cdot f(n)) = b \cdot n$ per ogni intero positivo $n$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|method_casework]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n3_f3#q05|src_obm_2008_n3_f3__Q05]]
 
 
 
@@ -155,6 +191,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre massimo di parole profetiche di lunghezza 10 in una parola binaria di lunghezza 10000*
+*Numero massimo di parole profetiche di lunghezza 10 in una parola binaria di lunghezza 10000*
 
-> Il profeta venuso Zabruberson inviò ai suoi discepoli una parola di lettere $10000$, ciascuna lettera essendo A o E: la parola Zabrubica *. I suoi seguaci consideravano, per ogni $1 \le k \le 10000$, ogni parola formata da $k$ lettere consecutive della Parola Zabrubica come una parola profetica ** di lunghezza $k$. È noto che ci sono al massimo $7$ parole profetiche di lunghezza $3$. Determinare il numero massimo di parole profetiche di lunghezza $10$.
+> Il profeta venusiano Zabruberson inviò ai suoi discepoli una parola di $10000$ lettere, ciascuna delle quali era o A o E: la *Parola Zabrubica*. I suoi seguaci consideravano, per ogni $1 \le k \le 10000$, ogni parola formata da $k$ lettere consecutive della Parola Zabrubica come una *parola profetica* di lunghezza $k$. È noto che esistono al massimo $7$ parole profetiche di lunghezza $3$. Determinare il numero massimo di parole profetiche di lunghezza $10$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n3_f3#q06|src_obm_2008_n3_f3__Q06]]

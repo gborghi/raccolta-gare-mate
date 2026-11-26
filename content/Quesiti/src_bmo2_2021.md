@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra che ogni intero positivo ha un buon multiplo*
+*Ogni intero positivo ha un multiplo *buono**
 
-> Un intero positivo $n$ è chiamato *buono* se esiste un insieme di divisori di $n$ i cui membri sommano a $n$ e includono 1. Prove che ogni intero positivo ha un multiple che è buono.
+> Un intero positivo $n$ si dice *buono* se esiste un insieme di divisori di $n$ i cui elementi sommano a $n$ e comprendono 1. Dimostrare che ogni intero positivo ha un multiplo che è buono.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2021#q01|src_bmo2_2021__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tiling quadrato di lato n con a×a e b×b piastrelle*
+*Eliza può ricoprire un altro quadrato di lato $n$ con un solo tipo di mattonella*
 
-> Eliza ha una grande collezione di piastrelle $a \times a$ e $b \times b$ in cui $a$ e $b$ sono integri positivi. Lei organizza alcune di queste piastrelle, senza sovrapposizioni, per formare un quadrato di lunghezza laterale $n$. Provare che può coprire un altro quadrato di lunghezza laterale $n$ utilizzando solo uno dei suoi due tipi di piastrelle.
+> Eliza ha una grande collezione di mattonelle $a \times a$ e $b \times b$, dove $a$ e $b$ sono interi positivi. Ne dispone alcune, senza sovrapposizioni, a formare un quadrato di lato $n$. Dimostrare che può ricoprire un altro quadrato di lato $n$ usando solo uno dei suoi due tipi di mattonella.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2021#q02|src_bmo2_2021__Q02]]
 
 
 
@@ -83,13 +97,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*AI e KD si incontrano su un circoncircolo attraverso un punto di angolo rettangolo K*
+*$AI$ e $KD$ si incontrano su $\Gamma$*
 
-> Che $ABC$ sia un triangolo con $AB > AC$. Il suo circoncircolo è $\Gamma$ e il suo incentro è $I$. Il punto di contatto dell'incircolo di $ABC$ con $BC$ è $D$.
-> 
-> $K$ sia il punto su $\Gamma$ in modo tale che $\angle AKI$ sia un angolo retto.
-> 
-> Prove che $AI$ e $KD$ si incontrano su $\Gamma$.
+> Sia $ABC$ un triangolo con $AB > AC$. La sua circonferenza circoscritta è $\Gamma$ e il suo incentro è $I$. Sia $D$ il punto di contatto dell'incerchio di $ABC$ con $BC$.
+>
+> Sia $K$ il punto su $\Gamma$ tale che $\angle AKI$ sia un angolo retto.
+>
+> Dimostrare che $AI$ e $KD$ si incontrano su $\Gamma$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2021#q03|src_bmo2_2021__Q03]]
 
 
 
@@ -112,6 +133,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di numeri interi nuovi più piccoli; sequenza spostata copre tutti gli enti interi una volta*
+*La successione $a_i - i$ contiene ogni intero esattamente una volta*
 
-> Matteo scrive una sequenza $a_1, a_2, a_3, \ldots$ di numeri interi positivi. Ogni $a_n$ è il numero intero positivo più piccolo, diverso da tutti i termini precedenti della sequenza, in modo tale che la media dei termini $a_1, a_2, \ldots, a_n$ è un numero intero. Provare che la sequenza definita da $a_i - i$ per $i = 1, 2, 3, \ldots$ contiene ogni numero intero esattamente una volta.
+> Matthew scrive una successione $a_1, a_2, a_3, \ldots$ di interi positivi. Ogni $a_n$ è il minimo intero positivo, diverso da tutti i termini precedenti della successione, tale che la media dei termini $a_1, a_2, \ldots, a_n$ sia un intero. Dimostrare che la successione definita da $a_i - i$ per $i = 1, 2, 3, \ldots$ contiene ogni intero esattamente una volta.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_2021#q04|src_bmo2_2021__Q04]]

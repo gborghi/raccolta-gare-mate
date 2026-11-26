@@ -27,23 +27,25 @@ level: MEMO gara a squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** dimostrazione — soluzione ufficiale nel Solution Booklet
-**Fonte risposta:** [soluzione ufficiale PDF p.18](https://www.memo2025.de/media/MEMO-2025-SolutionBooklet.pdf#page=18)
-**Fonte:** [apri PDF p.1](https://www.memo2025.de/media/MEMO_2025_T_en.pdf#page=1) · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
+**Fonte risposta:** soluzione ufficiale PDF p.18
+**Fonte:** apri PDF p.1 · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bob and the vending machine*
+*Bob and the granola bar dispenser*
 
-> Bob has $n$ coins with integer values
+> Bob has $n$ coins with integer values.
 > $$c_1\ge c_2\ge\cdots\ge c_n>0.$$
-> He is standing in front of a vending machine that offers $n$ candy bars with positive integer costs $b_1, b_2, \dots, b_n$. Bob notices that for every $i \in \{1, \dots, n\}$, it holds that
+> They are standing in front of a vending machine that offers $n$ chocolate bars with positive whole prices $b_1, b_2, \dots, b_n$. Bob notes that for each $i\in\{1,\dots,n\}$, it holds true that
 > $$b_1+b_2+\cdots+b_i\ge c_1+c_2+\cdots+c_i.$$
-> Furthermore, the total value of Bob's coins equals the sum of the costs of all the candy bars. The candy bars can be purchased in any order. In order to buy the $i$-th candy bar, Bob has to insert coins of total value at least $b_i$. However, the machine does not give him back any change.
-> Prove that Bob can buy at least half of the candy bars.
+> Furthermore, the total value of Bob's coins equals the sum of the prices of all the bars. The bars can be bought in any order. To buy the $i$-th bar, Bob must insert coins with a total value of at least $b_i$; however, the vending machine does not give change. Prove that Bob can buy at least half of the bars.
 
-**Answer:** proof — official solution in the Solution Booklet
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_memo_2025_team#q01|src_memo_2025_team__Q01]]
 
 
 
@@ -61,8 +63,8 @@ level: MEMO gara a squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** solo $f(x)=\frac1x$
-**Fonte risposta:** [soluzione ufficiale PDF p.21](https://www.memo2025.de/media/MEMO-2025-SolutionBooklet.pdf#page=21)
-**Fonte:** [apri PDF p.1](https://www.memo2025.de/media/MEMO_2025_T_en.pdf#page=1) · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
+**Fonte risposta:** soluzione ufficiale PDF p.21
+**Fonte:** apri PDF p.1 · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -70,11 +72,14 @@ level: MEMO gara a squadre
 
 *Functional equation on the positive reals*
 
-> Let $\mathbb R^+$ be the set of positive real numbers. Determine all functions $f : \mathbb R^+ \to \mathbb R^+$ such that for all numbers $x, y \in \mathbb R^+$, we have
+> Let $\mathbb R^+$ be the set of positive real numbers. Determine all functions $f:\mathbb R^+\to\mathbb R^+$ such that for every $x, y\in\mathbb R^+$, the following holds
 > $$f(xy)+f(x)=f(y)f\bigl(xf(y)\bigr)+f(x)f(y),$$
-> and there exists at most one number $a \in \mathbb R^+$ such that $f(a) = 1$.
+> and such that there exists at most one number $a\in\mathbb R^+$ with $f(a)=1$.
 
-**Answer:** only $f(x)=\frac1x$
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_memo_2025_team#q02|src_memo_2025_team__Q02]]
 
 
 
@@ -93,8 +98,8 @@ level: MEMO gara a squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1979
-**Fonte risposta:** [soluzione ufficiale PDF p.24](https://www.memo2025.de/media/MEMO-2025-SolutionBooklet.pdf#page=24)
-**Fonte:** [apri PDF p.1](https://www.memo2025.de/media/MEMO_2025_T_en.pdf#page=1) · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
+**Fonte risposta:** soluzione ufficiale PDF p.24
+**Fonte:** apri PDF p.1 · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -104,10 +109,12 @@ level: MEMO gara a squadre
 
 ![[src_memo_2025_team__prob3.png]]
 
-> A *snake* in an $n \times n$ grid is a path composed of straight line segments between centres of adjacent cells, going through the centres of all the $n^2$ grid cells, which visits each cell exactly once. Here two grid cells are considered to be adjacent if they share an edge. Note that all pieces of the snake path are parallel to grid lines. The figure shows an example of a snake in a $4 \times 4$ grid. This snake makes nine $90^\circ$ turns, marked by small black squares.
-> Let us now consider a snake through the 2025 cells of a $45 \times 45$ grid. What is the maximum possible number of $90^\circ$ turns that such a snake can make?
+> A *snake* in a $n\times n$ grid is a path made up of line segments connecting the centers of adjacent cells; it passes through the centers of all $n^2$ cells in the grid, visiting each cell exactly once. Two cells are considered adjacent if they share a side. Note that all segments of the snake are parallel to the grid lines. The figure shows an example of a snake in a $4\times4$ grid: this snake makes nine $90^\circ$ turns, marked by small black squares. Consider now a snake that traverses the 2025 cells of a $45\times45$ grid. What is the maximum possible number of $90^\circ$ turns that such a snake can make?
 
-**Answer:** 1979
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_memo_2025_team#q03|src_memo_2025_team__Q03]]
 
 
 
@@ -126,22 +133,23 @@ level: MEMO gara a squadre
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $k=100\binom{n}{2}$
 **Nota:** Per $n=1$ la formula dà $k=0$, mentre il testo chiede un intero positivo.
-**Fonte risposta:** [soluzione ufficiale PDF p.27](https://www.memo2025.de/media/MEMO-2025-SolutionBooklet.pdf#page=27)
-**Fonte:** [apri PDF p.1](https://www.memo2025.de/media/MEMO_2025_T_en.pdf#page=1) · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
+**Fonte risposta:** soluzione ufficiale PDF p.27
+**Fonte:** apri PDF p.1 · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The tolls of Laplandia*
+*Tolls in Lapland*
 
-> Let $n$ be a positive integer. In the province of Laplandia there are $100n$ cities, each two connected by a direct road, and each of these roads has a toll station collecting a positive amount of toll revenue. For each road, the revenue of its toll station is split equally between the two cities at the ends of the road (meaning that each of the two cities receives half of the income). For each city, the total toll revenue is given by the sum of the revenues it receives from the $100n - 1$ toll stations on its roads.
-> According to a new law, the revenues of some of the toll stations will be collected by the federal government instead of by the adjacent cities. The governor of Laplandia is allowed to choose those toll stations. The mayors of the cities demand that for each city, the sum of the remaining revenues it receives from the other toll stations after this change is at least $99\%$ of its former total toll revenue.
-> Find the largest positive integer $k$, depending on $n$, such that the governor can always choose $k$ toll stations for the federal government to collect the toll revenue, while satisfying the demand of the city mayors.
+> Let $n$ be a positive integer. In the province of Laplandia, there are $100n$ towns, and every two of them are connected by a direct road; on each road, there is a toll booth that collects a positive toll. For each road, the toll collected at the booth is divided equally between the two towns at the ends of the road (that is, each of the two towns receives half of the collected amount). For each town, the total revenue it receives is the sum of the revenues it receives from the $100n-1$ toll booths on its roads. Under a new law, the revenues from some toll booths will be collected by the federal government instead of by the adjacent towns. The governor of Laplandia can choose which toll booths. The mayors request that, for each town, the sum of the revenues it continues to receive from the other toll booths after the change be at least $99\%$ of its previous total revenue. Determine the largest positive integer $k$, in terms of $n$, such that the governor can always choose $k$ toll booths whose revenues go to the federal government while satisfying the mayors' request.
 
-**Answer:** $k=100\binom{n}{2}$
+**Note:** For $n=1$, the formula yields $k=0$, whereas the text asks for a positive integer.
 
-**Note:** For $n=1$ the formula gives $k=0$, whereas the statement asks for a positive integer.
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_memo_2025_team#q04|src_memo_2025_team__Q04]]
 
 
 
@@ -157,18 +165,21 @@ level: MEMO gara a squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel Solution Booklet
-**Fonte risposta:** [soluzione ufficiale PDF p.29](https://www.memo2025.de/media/MEMO-2025-SolutionBooklet.pdf#page=29)
-**Fonte:** [apri PDF p.2](https://www.memo2025.de/media/MEMO_2025_T_en.pdf#page=2) · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
+**Fonte risposta:** soluzione ufficiale PDF p.29
+**Fonte:** apri PDF p.2 · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parallelogram and reflection in a tangent*
+*Parallelogram and symmetric with respect to a tangent*
 
-> Let $ABC$ be an acute triangle with $AB < AC$. Denote by $D$ the foot of the perpendicular from $A$ to $BC$. Let $E$ be the point such that $ABEC$ is a parallelogram. Let $M$ be a point inside triangle $ABC$ such that $MB = MC$. Let $F$ be the reflection of point $D$ across the tangent to the circumcircle of triangle $ADM$ at point $M$. Prove that $AF = DE$.
+> Let $ABC$ be an acute-angled triangle with $AB<AC$. Let $D$ be the foot of the perpendicular from $A$ to $BC$. Let $E$ be the point such that $ABEC$ is a parallelogram. Let $M$ be a point inside triangle $ABC$ such that $MB=MC$. Let $F$ be the reflection of point $D$ with respect to the tangent at $M$ to the circumcircle of triangle $ADM$. Prove that $AF=DE$.
 
-**Answer:** proof — official solution in the Solution Booklet
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_memo_2025_team#q05|src_memo_2025_team__Q05]]
 
 
 
@@ -184,18 +195,21 @@ level: MEMO gara a squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel Solution Booklet
-**Fonte risposta:** [soluzione ufficiale PDF p.33](https://www.memo2025.de/media/MEMO-2025-SolutionBooklet.pdf#page=33)
-**Fonte:** [apri PDF p.2](https://www.memo2025.de/media/MEMO_2025_T_en.pdf#page=2) · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
+**Fonte risposta:** soluzione ufficiale PDF p.33
+**Fonte:** apri PDF p.2 · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lines RF and SE meeting on ω*
+*Rectilinear RF and SE that meet on ω*
 
-> Let $ABC$ be an acute triangle with an interior point $D$ such that $\angle BDC = 180^\circ - \angle BAC$. The lines $BD$ and $AC$ intersect at the point $E$, and the lines $CD$ and $AB$ intersect at the point $F$. The points $P \ne E$ and $Q \ne F$ lie on the line $EF$ so that $BP = BE$ and $CQ = CF$. Assume that the segments $AP$ and $AQ$ intersect the circumcircle $\omega$ of $ABC$ at the points $R \ne A$ and $S \ne A$, respectively. Prove that the lines $RF$ and $SE$ intersect on $\omega$.
+> Let $ABC$ be an acute-angled triangle with an interior point $D$ such that $\angle BDC=180^\circ-\angle BAC$. The lines $BD$ and $AC$ intersect at the point $E$, and the lines $CD$ and $AB$ intersect at the point $F$. The points $P\ne E$ and $Q\ne F$ lie on the line $EF$ such that $BP=BE$ and $CQ=CF$. The line segments $AP$ and $AQ$ intersect the circumcircle $\omega$ of $ABC$ at the points $R\ne A$ and $S\ne A$, respectively. Prove that the lines $RF$ and $SE$ intersect on $\omega$.
 
-**Answer:** proof — official solution in the Solution Booklet
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_memo_2025_team#q06|src_memo_2025_team__Q06]]
 
 
 
@@ -211,18 +225,21 @@ level: MEMO gara a squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** dimostrazione — soluzione ufficiale nel Solution Booklet
-**Fonte risposta:** [soluzione ufficiale PDF p.36](https://www.memo2025.de/media/MEMO-2025-SolutionBooklet.pdf#page=36)
-**Fonte:** [apri PDF p.2](https://www.memo2025.de/media/MEMO_2025_T_en.pdf#page=2) · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
+**Fonte risposta:** soluzione ufficiale PDF p.36
+**Fonte:** apri PDF p.2 · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Divisors of n²+n+1 in three sets with equal product*
+*Divisors of n²+n+1 grouped into three groups with the same product*
 
-> Let $n$ be a positive integer such that the *sum* of positive divisors of $n^2 + n + 1$ is divisible by 3. Prove that it is possible to partition the set of positive divisors of $n^2 + n + 1$ into three sets such that the *product* of all elements in each set is the same.
+> Let $n$ be a positive integer such that the *sum* of the positive divisors of $n^2+n+1$ is divisible by 3. Prove that it is possible to partition the set of positive divisors of $n^2+n+1$ into three sets in such a way that the *product* of all the elements in each set is the same.
 
-**Answer:** proof — official solution in the Solution Booklet
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_memo_2025_team#q07|src_memo_2025_team__Q07]]
 
 
 
@@ -240,17 +257,18 @@ level: MEMO gara a squadre
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** sì, l'affermazione è sempre vera
-**Fonte risposta:** [soluzione ufficiale PDF p.38](https://www.memo2025.de/media/MEMO-2025-SolutionBooklet.pdf#page=38)
-**Fonte:** [apri PDF p.2](https://www.memo2025.de/media/MEMO_2025_T_en.pdf#page=2) · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
+**Fonte risposta:** soluzione ufficiale PDF p.38
+**Fonte:** apri PDF p.2 · Middle European Mathematical Olympiad 2025, Chemnitz (testi ufficiali e Solution Booklet)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Iterates of a polynomial and number of divisors*
+*Iteration of a polynomial and number of divisors*
 
-> Determine whether the following statement is true for every polynomial $P$ of degree at least 2 with nonnegative integer coefficients:
-> There exists a positive integer $m$ such that for infinitely many positive integers $n$ the number $P^n(m)$ has more than $n$ distinct positive divisors.
-> *Remark.* Here $P^n$ denotes $P$ applied $n$ times, this means $P^n(x)=\underbrace{P(P(\dots P}_{n\text{ times}}(x)\dots))$.
+> Determine whether the following statement is true for every polynomial $P$ of degree at least 2 with non-negative integer coefficients: there exists a positive integer $m$ such that, for infinitely many positive integers $n$, the number $P^n(m)$ has more than $n$ distinct positive divisors. *Remark.* Here $P^n$ denotes $P$ applied $n$ times, that is, $P^n(x)=\underbrace{P(P(\dots P}_{n\text{ times}}(x)\dots))$.
 
-**Answer:** yes, the statement is always true
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_memo_2025_team#q08|src_memo_2025_team__Q08]]

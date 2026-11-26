@@ -30,11 +30,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutti gli interi positivi a,b,c tali che (a-1)(b-1)(c-1) divide abc-1*
+*Interi 1 < a < b < c per cui (a−1)(b−1)(c−1) divide abc−1*
 
-> Determinare tutti gli interi a, b, c con 1 < a < b < c tali che
+> Trovare tutti gli interi a, b, c con 1 < a < b < c tali che
 > (a −1)(b −1)(c −1)
-> sia un divisore di abc −1.
+> è un divisore di abc −1.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_imo_1992#q01|src_imo_1992__Q01]]
 
 
 
@@ -63,16 +69,22 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le f con f(x^2+f(y))=y+f(x)^2*
-f(x² + f(y)) = y + f(x)²*
+*Funzioni reali con una relazione spezzata dall'estrazione*
 
-> Sia R l'insieme di tutti i numeri reali. Determinare tutte le funzioni f : R → R tali che
+> Sia R l'insieme di tutti i numeri reali. Trovare tutte le funzioni f : R →R
+> tali che
 > f
 > ³
-> x² + f(y)
+> x2 + f(y)
 > ´
-> = y + (f(x))²
-> per ogni x, y ∈ R.
+> = y + (f(x))2
+> per tutti gli x, y ∈R.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_imo_1992#q02|src_imo_1992__Q02]]
 
 
 
@@ -103,18 +115,15 @@ f(x² + f(y)) = y + f(x)²*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Più piccolo n di archi colorati che forzano un triangolo monocolore*
+*Il più piccolo n di spigoli colorati che costringe a un triangolo monocromatico*
 
-> Si considerino nove punti nello spazio, di cui non quattro complanari. Ogni coppia
-> di punti è congiunta da uno spigolo (cioè un segmento) e ogni spigolo è
-> colorato di blu o di rosso oppure lasciato senza colore. Determinare il minimo valore di
-> n tale che, ogni volta che esattamente n spigoli sono colorati, l'insieme degli spigoli
-> colorati contiene necessariamente un triangolo con tutti i lati dello stesso
-> colore.
-> 33rd International Mathematical Olympiad
-> Secondo giorno - Mosca - 15 luglio 1992
-> Tempo: 41
-> 2 ore
+> Si considerino nove punti nello spazio, nessuno dei quali sia complanare a quattro altri. Ogni coppia di punti è unita da un arco (ossia un segmento di retta), e ciascun arco è o colorato di blu o colorato di rosso o lasciato non colorato. Si determini il più piccolo valore di n tale che, ogni volta che esattamente n archi siano colorati, l'insieme degli archi colorati contenga necessariamente un triangolo i cui lati siano tutti dello stesso colore. 33ª Olimpiade Internazionale di Matematica, Secondo Giorno - Mosca - 15 luglio 1992 Tempo limite: 4 ore e 12 minuti
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_grafi|Teoria dei grafi]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1992#q03|src_imo_1992__Q03]]
 
 
 
@@ -137,9 +146,16 @@ f(x² + f(y)) = y + f(x)²*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Find the locus of P with incircle tangent and midpoint condition
+*Locus of vertices of triangles with a given incircle and a given midpoint on the tangent*
 
-> In the plane $C$ a circle, $l$ a straight tangent to the circle $C$, and $M$ a point on $l$. Find the geometric location of all $P$ points with the following property: there are two points $Q$, $R$ on $l$ such that $M$ is the middle point of $QR$ and $C$ is the circle inscribed in the $PQR$ triangle.
+> In the plane let $C$ be a circle, $l$ a line tangent to the circle $C$, and $M$ a point on $l$. Find the locus of all points $P$ with the following property: there exist two points $Q$, $R$ on $l$ such that $M$ is the midpoint of $QR$ and $C$ is the incircle of triangle $PQR$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1992#q04|src_imo_1992__Q04]]
 
 
 
@@ -163,9 +179,17 @@ Find the locus of P with incircle tangent and midpoint condition
 <div class="qlang-split" data-lang="en"></div>
 
 
-Bound point-set size by product of projection sizes
+*The square of the size of a point set is at most the product of the sizes of its projections*
 
-> Whether $S$ a finite set of points in three-dimensional space. The sets consisting of the orthogonal projections of the points of $S$ on the plane $yz$, $xz$ and $xy$ are $S_x$, $S_y$, $S_z$ respectively. Show that $$|S|^2 \le |S_x| \cdot |S_y| \cdot |S_z|$$ where $|A|$ denotes the number of elements of the finite set $A$.
+> Let $S$ be a finite set of points in three-dimensional space. Let $S_x$, $S_y$, $S_z$ be the sets consisting of the orthogonal projections of the points of $S$ onto the $yz$-plane, the $xz$-plane and the $xy$-plane, respectively. Prove that
+> $$|S|^2 \le |S_x| \cdot |S_y| \cdot |S_z|$$
+> where $|A|$ denotes the number of elements of the finite set $A$.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_disuguaglianze|Classical inequalities]], [[method_doppio_conteggio|Double counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1992#q05|src_imo_1992__Q05]]
 
 
 
@@ -191,10 +215,16 @@ Bound point-set size by product of projection sizes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n^2 as sum of k positive squares, bounds*
+*How many squares of positive integers can sum to n²*
 
-> For each positive integer $n$, $S(n)$ is defined as the maximum integer such that, for each positive integer $k$ with $1 \le k \le S(n)$, $n^2$ can be written as the sum of $k$ squares of positive integers.
-> 
-> (a) Demonstrate that $S(n) \le n^2 - 14$ for each $n \ge 4$.
-> 
+> For every positive integer $n$, $S(n)$ is defined to be the largest integer such that, for every positive integer $k$ with $1 \le k \le S(n)$, $n^2$ can be written as a sum of $k$ squares of positive integers.
+>
+> (a) Prove that $S(n) \le n^2 - 14$ for every $n \ge 4$.
+>
 > (b) Find a specific value of $n$ for which $S(n) = n^2 - 14$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_induzione|Induction]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_1992#q06|src_imo_1992__Q06]]

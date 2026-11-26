@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro circoncenti di subtriangoli di quadrilaterali convexi sono conciclici*
+*I quattro circocentri dei sottotriangoli di un quadrilatero convesso sono concyclici*
 
-> Che $ABCD$ sia un quadrilaterale converso nel piano e che $O_1, O_2, O_3, O_4$ siano rispettivamente i circoncenti dei triangoli $BCD$, $CDA$, $DAB$ e $ABC$. Supponiamo che questi quattro circoncentri siano separati in coppia. Prove che questi quattro punti si trovano su un cerchio comune.
+> Sia $ABCD$ un quadrilatero convesso nel piano, e siano $O_1, O_2, O_3, O_4$ i centri delle circonferenze circoscritte ai triangoli $BCD$, $CDA$, $DAB$ e $ABC$, rispettivamente. Si supponga che questi quattro centri delle circonferenze circoscritte siano a due a due distinti. Dimostrare che questi quattro punti giacciono su una circonferenza comune.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2021_n3_fx#q01|src_obm_2021_n3_fx__Q01]]
 
 
 
@@ -58,13 +65,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max cellule marcate in tabella 2×3n con restrizione di adiacenza; configurazioni di conteggio*
+*Max ha contrassegnato le celle in una scacchiera 2×3n con vincolo di adiacenza; conta le configurazioni*
 
-> $n$ sia un numero intero positivo. Su una tabella $2 \times 3n$, segniamo alcune celle in modo che ogni cella (segnalata o meno) sia adiacente ad un massimo di altre due celle segnalate distinte. Due cellule sono *adiacenti* quando sono distinte e condividono almeno un vertice in comune (cioè sono vicine orizzontalmente, verticalmente o diagonalmente); una cellula non è adiacente a se stessa.
-> 
-> a) Qual è il numero massimo possibile di cellule contrassegnate?
-> 
-> (b) Per questo massimo, in quanti modi possiamo contrassegnare le cellule? Le configurazioni distinte che possono essere ottenute l'una dall'altra mediante rotazione o riflessione sono considerate le stesse.
+> Sia $n$ un numero intero positivo. Su una scacchiera $2 \times 3n$, marchiamo alcune caselle in modo che ogni casella (marcata o meno) sia adiacente a non più di due altre caselle marcate distinte. Due caselle sono *adiacenti* quando sono distinte e hanno almeno un vertice in comune (ossia sono vicine orizzontalmente, verticalmente o diagonalmente); una casella non è adiacente a se stessa.
+>
+> (a) Qual è il numero massimo possibile di celle contrassegnate?
+>
+> (b) Per questo massimo, in quanti modi possiamo contrassegnare le celle? Configurazioni distinte che possono essere ottenute l'una dall'altra mediante rotazione o riflessione sono considerate identiche.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2021_n3_fx#q02|src_obm_2021_n3_fx__Q02]]
 
 
 
@@ -89,11 +103,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti i k positivi e irrationali a>1 in modo che il piano a^n) sia il quadrato perfetto meno k per tutti i grandi n*
+*Trovare tutti i k positivi e gli a irrazionali maggiori di 1 tali che, per tutti gli n grandi, floor(a^n) sia uguale a un quadrato perfetto meno k*
 
-> Trova tutti gli integri positivi $k$ per i quali esiste un numero irrazionale $a > 1$ e un intero positivo $N$ in modo tale che $\lfloor a^n \rfloor$ sia un quadrato perfetto meno $k$, per ogni intero $n$ con $n > N$.
-> 
-> *Osservazione: * $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$.
+> Trovare tutti gli interi positivi $k$ per i quali esistono un numero irrazionale $a > 1$ e un intero positivo $N$ tali che $\lfloor a^n \rfloor$ sia un quadrato perfetto meno $k$, per ogni intero $n$ con $n > N$.
+>
+> *Osservazione:* $\lfloor x \rfloor$ denota il più grande intero minore o uguale a $x$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2021_n3_fx#q03|src_obm_2021_n3_fx__Q03]]
 
 
 
@@ -120,13 +141,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il più piccolo reale appartenente a ogni set framed (limitato, chiuso sotto (a-b) ^2)*
+*Trovare il numero reale più piccolo appartenente a ogni insieme incorniciato (limitato, chiuso rispetto a (a-b)^2)*
 
-> Un insieme $X$ di numeri reali, finiti o infiniti, si chiama *limitato* quando esiste un $M$ reale tale che $|x| \le M$ per tutti $x \in X$. Ad esempio, $A = [-3, n]$ e $B = \{2^k : k \in \mathbb{Z}_{\ge 0}\} = \{1, 2, 4, 8, \ldots\}$ sono limitati (prendendo $M \ge n$ e $M \ge 1$, rispettivamente). D'altra parte, $C = \mathbb{Z}$ e $D = \mathbb{R}_{\ge 0}$ non sono dilimitati.
-> 
-> Un insieme $A$ di numeri reali viene chiamato *framed* quando è limitato e, per tutti i diversi $a, b \in A$, abbiamo $(a - b)^2 \in A$.
-> 
-> Qual è il numero reale più piccolo che appartiene a ogni insieme framed?
+> Un insieme $X$ di numeri reali, finiti o infiniti, si dice *limitato* quando esiste un numero reale $M$ tale che $|x| \le M$ per ogni $x \in X$. Ad esempio, $A = [-3, n]$ e $B = \{2^k : k \in \mathbb{Z}_{\ge 0}\} = \{1, 2, 4, 8, \ldots\}$ sono limitati (prendendo rispettivamente $M \ge n$ e $M \ge 1$). D'altra parte, $C = \mathbb{Z}$ e $D = \mathbb{R}_{\ge 0}$ non sono limitati.
+>
+> Un insieme $A$ di numeri reali è detto *incorniciato* quando è limitato e, per tutti gli $a, b \in A$ distinti, si ha $(a - b)^2 \in A$.
+>
+> Qual è il più piccolo numero reale che appartiene a ogni insieme incorniciato?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2021_n3_fx#q04|src_obm_2021_n3_fx__Q04]]
 
 
 
@@ -150,9 +178,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i triples di enti interi non negativi che soddisfano a2+b2+c2=abc+1*
+*Trovare tutte le terne di interi non negativi che soddisfano a²+b²+c²=abc+1*
 
-> Determinare tutti i triples di integri non negativi $(a, b, c)$ in modo tale che $$a^2 + b^2 + c^2 = abc + 1.$$
+> Determinare tutte le triple di interi non negativi $(a, b, c)$ tali che
+> $$a^2 + b^2 + c^2 = abc + 1.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2021_n3_fx#q05|src_obm_2021_n3_fx__Q05]]
 
 
 
@@ -175,6 +211,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N-gon bicentrico: cerchio tangente ai circoncircoli dei triangoli di intersezione semicircolare*
+*Poligono n-gono bicentrico: cerchio tangente ai cerchi circoscritti ai triangoli formati dall'intersezione con il semicerchio*
 
-> $n \ge 5$ sia un numero intero. Il poligono $P = A_1 A_2 \cdots A_n$ è *bicentrico*, cioè ha sia un cerchio inciso che un cerchio circonscritto. Definire $A_{i+n} = A_i$ per tutti $i$ (tutti gli indici sono presi modulo $n$). Supponiamo che per ogni $i$, $1 \le i \le n$, i semicircoli sui segmenti $A_{i-1}A_i$ e $A_i A_{i+1}$ (come diametri, disegnati sullo stesso lato) si incontrino al punto $B_i$. $\omega_i$ sia il circoncircolo del triangolo $B_i A_i A_{i+1}$. Prova che esiste un cerchio tangente contemporaneamente a tutti i cerchi $n$ $\omega_i$, $1 \le i \le n$.
+> Sia $n \ge 5$ un numero intero. Il poligono $P = A_1 A_2 \cdots A_n$ è *bicentrico*, cioè possiede sia una circonferenza inscritta sia una circonferenza circoscritta. Si definisca $A_{i+n} = A_i$ per tutti gli $i$ (tutti gli indici sono presi modulo $n$). Si supponga che, per ogni coppia $i$, $1 \le i \le n$, i semicerchi costruiti sui segmenti $A_{i-1}A_i$ e $A_i A_{i+1}$ come diametri, tracciati sullo stesso lato, si intersecano nel punto $B_i$. Sia $\omega_i$ la circonferenza circoscritta al triangolo $B_i A_i A_{i+1}$. Si dimostri che esiste una circonferenza tangente simultaneamente a tutti i $n$ cerchi $\omega_i$, $1 \le i \le n$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2021_n3_fx#q06|src_obm_2021_n3_fx__Q06]]

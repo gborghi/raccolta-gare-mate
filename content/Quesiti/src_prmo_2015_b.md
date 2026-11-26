@@ -30,11 +30,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Viaggio a piedi e ritorno; trovare ore per camminare in entrambe le direzioni*
+*A piedi all'andata e a cavallo al ritorno in 13/4 ore; a cavallo in entrambi i sensi in 5/2 ore. Quanto a piedi in entrambi i sensi*
 
-> Un uomo cammina una certa distanza e ritorna in $3\frac{1}{4}$ ore; può andare in entrambe le direzioni in $2\frac{1}{2}$ ore. Quante ore gli ci vorrebbero per camminare in entrambe le direzioni?
+> Un uomo percorre a piedi un certo tratto e torna a cavallo in $3\frac{1}{4}$ ore; potrebbe fare entrambi i tratti a cavallo in $2\frac{1}{2}$ ore. Quante ore gli occorrerebbero per fare entrambi i tratti a piedi?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 
 **Risposta:** 4
+
+[[Quesiti/src_prmo_2015_b#q01|src_prmo_2015_b__Q01]]
 
 
 
@@ -58,11 +64,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due quadratici condividono una radice comune; trovare k*
+*Due equazioni di secondo grado con parametro k hanno esattamente una radice in comune: valore di k*
 
-> Le equazioni $x^2 - 4x + k = 0$ e $x^2 + kx - 4 = 0$, dove $k$ è un numero reale, hanno esattamente una radice comune. Qual è il valore di $k$?
+> Le equazioni $x^2 - 4x + k = 0$ e $x^2 + kx - 4 = 0$, dove $k$ è un numero reale, hanno esattamente una radice in comune. Qual è il valore di $k$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 3
+
+[[Quesiti/src_prmo_2015_b#q02|src_prmo_2015_b__Q02]]
 
 
 
@@ -86,11 +98,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieri interi positivi a,b con a+b=a/b+b/a; trovare a2+b2*
+*Interi positivi con a + b = a/b + b/a: valore di a^2 + b^2*
 
-> I numeri interi positivi $a$ e $b$ sono tali da $a + b = a/b + b/a$. Qual è il valore di $a^2 + b^2$?
+> Interi positivi $a$ e $b$ sono tali che $a + b = a/b + b/a$. Qual è il valore di $a^2 + b^2$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 2
+
+[[Quesiti/src_prmo_2015_b#q03|src_prmo_2015_b__Q03]]
 
 
 
@@ -114,11 +132,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*segmenti di linea con entrambi i punti di fine a vertici cubi; conteggio*
+*Quanti segmenti hanno entrambi gli estremi nei vertici di un cubo dato*
 
-> Quanti segmenti di linea hanno entrambi i loro punti di fine situati alle vertici di un determinato cubo?
+> Quanti segmenti hanno entrambi gli estremi nei vertici di un dato cubo?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 28
+
+[[Quesiti/src_prmo_2015_b#q04|src_prmo_2015_b__Q04]]
 
 
 
@@ -142,11 +166,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio a coefficiente intero non zero divisibile per n per tutte le n positive; trovare P(0)*
+*Polinomio non nullo a coefficienti interi, divisibile per n in ogni intero positivo n: valore in 0*
 
-> $P(x)$ sia un polinomio non zero con coefficienti interi. Se $P(n)$ è divisibile per $n$ per ogni intero positivo $n$, qual è il valore di $P(0)$?
+> Sia $P(x)$ un polinomio non nullo a coefficienti interi. Se $P(n)$ è divisibile per $n$ per ogni intero positivo $n$, qual è il valore di $P(0)$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
 **Risposta:** 0
+
+[[Quesiti/src_prmo_2015_b#q05|src_prmo_2015_b__Q05]]
 
 
 
@@ -170,11 +200,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N a due cifre la cui somma di inversione di cifre è un quadrato perfetto; contare*
+*Interi di due cifre tali che il numero più il suo inverso è un quadrato perfetto*
 
-> Quanti numeri interi positivi a due cifre $N$ hanno la proprietà che la somma di $N$ e il numero ottenuto invertendo l'ordine dei numeri di $N$ è un quadrato perfetto?
+> Quanti interi positivi di due cifre $N$ hanno la proprietà che la somma di $N$ e del numero ottenuto invertendo l'ordine delle cifre di $N$ è un quadrato perfetto?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
 **Risposta:** 8
+
+[[Quesiti/src_prmo_2015_b#q06|src_prmo_2015_b__Q06]]
 
 
 
@@ -198,11 +234,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa della funzione a numeri pari E(1) + E(2)+...+E(100)*
+*Somma delle cifre pari, da 1 a 100*
 
-> $E(n)$ indichi la somma dei numeri pari di $n$. Per esempio, $E(1243) = 2 + 4 = 6$. Qual è il valore di $E(1) + E(2) + \cdots + E(100)$?
+> Sia $E(n)$ la somma delle cifre pari di $n$. Per esempio, $E(1243) = 2 + 4 = 6$. Qual è il valore di $E(1) + E(2) + \cdots + E(100)$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
 **Risposta:** 400
+
+[[Quesiti/src_prmo_2015_b#q07|src_prmo_2015_b__Q07]]
 
 
 
@@ -228,13 +270,19 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Parte rotta di piastra circolare; punto medio di corda e arco; radio*
+*Piatto circolare rotto, corda di 24 cm e freccia di 6 cm: raggio in centimetri*
 
-> La figura seguente mostra un pezzo rotto di una piastra circolare di vetro. $C$ è il punto medio di $AB$ e $D$ è il punto medio di arco $AB$. Dato che $AB = 24$ cm e $CD = 6$ cm, quale è il raggio della piastra in centimetri? (La cifra non è indicata in scala.)
+> La figura qui sotto mostra un pezzo rotto di un piatto circolare di vetro. $C$ è il punto medio di $AB$, e $D$ è il punto medio dell'arco $AB$. Sapendo che $AB = 24$ cm e $CD = 6$ cm, qual è il raggio del piatto in centimetri? La figura non è in scala.
 
 ![[src_prmo_2015_b__q08.png]]
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
 **Risposta:** 15
+
+[[Quesiti/src_prmo_2015_b#q08|src_prmo_2015_b__Q08]]
 
 
 
@@ -258,11 +306,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo retto con lati interi e un lato 12; perimetro massimo*
+*Massimo perimetro di un triangolo rettangolo a lati interi con un lato di lunghezza 12*
 
-> Qual è il più grande perimetro possibile di un triangolo rettangolo con lunghezze laterali interi se uno dei lati ha lunghezza 12?
+> Qual è il massimo perimetro possibile di un triangolo rettangolo con lati di lunghezza intera, se uno dei lati ha lunghezza 12?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 84
+
+[[Quesiti/src_prmo_2015_b#q09|src_prmo_2015_b__Q09]]
 
 
 
@@ -286,11 +340,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2×3 e 3×4 rettangoli in un quadrato senza sovrapposizione; superficie quadrata minima*
+*Rettangoli 2×3 e 3×4 dentro un quadrato, lati paralleli, senza sovrapposizioni: minima area del quadrato*
 
-> Un rettangolo $2 \times 3$ e un rettangolo $3 \times 4$ sono contenuti in un quadrato senza sovrapposizioni in alcun punto interno, e i lati del quadrato sono paralleli ai lati dei due rettangoli dati. Qual è la più piccola area possibile del quadrato?
+> Un rettangolo $2 \times 3$ e un rettangolo $3 \times 4$ sono contenuti in un quadrato senza sovrapporsi in alcun punto interno, e i lati del quadrato sono paralleli ai lati dei due rettangoli. Qual è la minima area possibile del quadrato?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 
 **Risposta:** 25
+
+[[Quesiti/src_prmo_2015_b#q10|src_prmo_2015_b__Q10]]
 
 
 
@@ -314,11 +374,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due equazioni lineari in a,b,c; trovare a2-b2+c2*
+*Due equazioni lineari in a, b, c: valore di a^2 − b^2 + c^2*
 
-> $a$, $b$, $c$ siano numeri reali come $a - 7b + 8c = 4$ e $8a + 4b - c = 7$. Qual è il valore di $a^2 - b^2 + c^2$?
+> Siano $a$, $b$, $c$ numeri reali tali che $a - 7b + 8c = 4$ e $8a + 4b - c = 7$. Qual è il valore di $a^2 - b^2 + c^2$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 1
+
+[[Quesiti/src_prmo_2015_b#q11|src_prmo_2015_b__Q11]]
 
 
 
@@ -342,11 +408,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo ABCD con punto P su AD, angolo BPC=90°; somma dei raggi incircoli*
+*Rettangolo 8 per 20, punto su un lato con angolo retto: somma di tre raggi inscritti*
 
-> In rettangolo $ABCD$, $AB = 8$ e $BC = 20$. $P$ sia un punto su $AD$ tale che $\angle BPC = 90^\circ$. Se $r_1$, $r_2$, $r_3$ sono i raggi degli incircoli dei triangoli $APB$, $BPC$ e $CPD$, qual è il valore di $r_1 + r_2 + r_3$?
+> Nel rettangolo $ABCD$, $AB = 8$ e $BC = 20$. Sia $P$ un punto di $AD$ tale che $\angle BPC = 90^\circ$. Se $r_1$, $r_2$, $r_3$ sono i raggi delle circonferenze inscritte dei triangoli $APB$, $BPC$ e $CPD$, qual è il valore di $r_1 + r_2 + r_3$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 8
+
+[[Quesiti/src_prmo_2015_b#q12|src_prmo_2015_b__Q12]]
 
 
 
@@ -370,11 +442,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
+*Ogni uomo balla con quattro donne e ogni donna con tre uomini; nove uomini. Quante donne*
 
-> In una festa, ogni uomo ballava con esattamente quattro donne e ogni donna ballava con esattamente tre uomini. Nove uomini hanno partecipato alla festa. Quante donne hanno partecipato alla festa?
+> A una festa ogni uomo ha ballato con esattamente quattro donne e ogni donna ha ballato con esattamente tre uomini. Alla festa c'erano nove uomini. Quante donne c'erano?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 12
+
+[[Quesiti/src_prmo_2015_b#q13|src_prmo_2015_b__Q13]]
 
 
 
@@ -398,11 +476,17 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*3^x+2^x=985 e 3^y-2^y=473; trovare xy*
+*3^x + 2^x = 985 e 3^y − 2^y = 473: valore di xy*
 
 > Se $3^x + 2^x = 985$ e $3^y - 2^y = 473$, qual è il valore di $xy$?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
 **Risposta:** 48
+
+[[Quesiti/src_prmo_2015_b#q14|src_prmo_2015_b__Q14]]
 
 
 
@@ -425,9 +509,15 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo prodotto di 3 numeri primi distinti x,y,z uguale al numero di numeri*
+*Massimo intero prodotto di tre primi distinti, di cui due sono cifre e il terzo è legato alle cifre delle decine e delle unità*
 
-> Che $n$ sia il numero intero più grande che è il prodotto di esattamente 3 numeri primi distinti, $x$, $y$ e $z$, dove $x$, $y$ e $z$ sono il numero di decine e di cifre unità.
+> Sia $n$ il massimo intero che è il prodotto di esattamente tre primi distinti, $x$, $y$ e $z$, dove $x$, $y$ e $z$ sono il numero delle cifre delle decine e delle unità.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_prmo_2015_b#q15|src_prmo_2015_b__Q15]]
 
 
 
@@ -451,11 +541,17 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti medi di un triangolo acuto D,E,F; condizioni di angolo; angolo di ricerca ADF*
+*Triangolo acutangolo, tre punti medi e angoli uguali: misura di un angolo*
 
-> Nel triangolo a angolo acuto $ABC$, $D$ deve essere il punto medio di $BC$. $E$ sia il punto medio di $AC$. $F$ sia il punto medio di $AB$. Supponiamo $\angle BAE = 40^\circ$. Se $\angle DAE = \angle DFE$, qual è la magnitudine di $\angle ADF$ in gradi?
+> Nel triangolo acutangolo $ABC$, sia $D$ il punto medio di $BC$. Sia $E$ il punto medio di $AC$. Sia $F$ il punto medio di $AB$. Si supponga che $\angle BAE = 40^\circ$. Se $\angle DAE = \angle DFE$, qual è la misura di $\angle ADF$ in gradi?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
 **Risposta:** 40
+
+[[Quesiti/src_prmo_2015_b#q16|src_prmo_2015_b__Q16]]
 
 
 
@@ -481,11 +577,21 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Espressione P con a+b+c=0; trovare P*
+*a + b + c = 0: valore di una somma di tre frazioni*
 
-> Che $a$, $b$, $c$ siano tali da definire $a + b + c = 0$ e $$P = \frac{a^2}{2a^2 + bc} + \frac{b^2}{2b^2 + ca} + \frac{c^2}{2c^2 + ab}$$. Qual è il valore di $P$?
+> Siano $a$, $b$, $c$ tali che $a + b + c = 0$ e
+>
+> $$P = \frac{a^2}{2a^2 + bc} + \frac{b^2}{2b^2 + ca} + \frac{c^2}{2c^2 + ab}$$
+>
+> sia definito. Qual è il valore di $P$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 1
+
+[[Quesiti/src_prmo_2015_b#q17|src_prmo_2015_b__Q17]]
 
 
 
@@ -509,11 +615,17 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsieme di {1,...,100} senza due elementi sommati a 125; dimensione massima*
+*Sottoinsieme dei primi 100 interi positivi in cui due elementi non sommano a 125: massima cardinalità*
 
-> Un sottogruppo $B$ dell'insieme dei primi 100 interi positivi ha la proprietà che non due elementi di $B$ sommano a 125. Qual è il numero massimo possibile di elementi in $B$?
+> Un sottoinsieme $B$ dell'insieme dei primi 100 interi positivi ha la proprietà che due elementi di $B$ non sommano mai a 125. Qual è il massimo numero possibile di elementi di $B$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
 **Risposta:** 62
+
+[[Quesiti/src_prmo_2015_b#q18|src_prmo_2015_b__Q18]]
 
 
 
@@ -537,11 +649,17 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro cifre decrescenti consecutive; somma dei rimanenti mod 37*
+*Interi di quattro cifre consecutive decrescenti: somma dei resti possibili nella divisione per 37*
 
-> Le cifre di un intero positivo $n$ sono quattro numeri interi consecutivi in ordine decrescente quando vengono letti da sinistra a destra. Qual è la somma dei possibili rimanenti quando $n$ è diviso per 37?
+> Le cifre di un intero positivo $n$ sono quattro interi consecutivi in ordine decrescente, letti da sinistra a destra. Qual è la somma dei resti possibili quando $n$ è diviso per 37?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 217
+
+[[Quesiti/src_prmo_2015_b#q19|src_prmo_2015_b__Q19]]
 
 
 
@@ -565,8 +683,14 @@ Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo omega all'interno di Omega tangente a P; diametro XY tangente a omega; YZ=2PZ; angolo di ricerca PYX*
+*Due circonferenze tangenti internamente, il centro della maggiore fuori dalla minore, un diametro tangente: misura di un angolo*
 
-> Il cerchio $\omega$ tocca internamente il cerchio $\Omega$ a $P$. Il centro $O$ di $\Omega$ si trova fuori di $\omega$. Il diametro $XY$ deve essere di $\Omega$ che è anche tangente a $\omega$. Supponiamo $PY > PX$. Lasciate che $PY$ si incroci $\omega$ a $Z$. Se $YZ = 2PZ$, qual è la magnitudine di $\angle PYX$ in gradi?
+> La circonferenza $\omega$ tocca internamente la circonferenza $\Omega$ in $P$. Il centro $O$ di $\Omega$ è esterno a $\omega$. Sia $XY$ un diametro di $\Omega$ che è anche tangente a $\omega$. Si supponga che $PY > PX$. La retta $PY$ interseca $\omega$ in $Z$. Se $YZ = 2PZ$, qual è la misura di $\angle PYX$ in gradi?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 15
+
+[[Quesiti/src_prmo_2015_b#q20|src_prmo_2015_b__Q20]]

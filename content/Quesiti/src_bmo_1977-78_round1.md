@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare il punto P all'interno del triangolo massimizzando il prodotto delle distanze verso i lati*
+*Il punto $P$ che rende massimo il prodotto $PL \cdot PM \cdot PN$*
 
-> Determinare il punto $P$ all'interno di un triangolo $ABC$ per il quale il prodotto $PL \cdot PM \cdot PN$ è un massimo, dove $L$, $M$, $N$ sono i piedi delle perpendicolari da $P$ a $BC$, $CA$ e $AB$ rispettivamente.
+> Determinare il punto $P$ interno a un triangolo $ABC$ per cui il prodotto $PL \cdot PM \cdot PN$ è massimo, dove $L$, $M$, $N$ sono i piedi delle perpendicolari da $P$ rispettivamente a $BC$, $CA$, $AB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1977-78_round1#q01|src_bmo_1977-78_round1__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove non razionale con denominatore ≤100 ha blocco decimale 167 in dieci cifre consecutive*
+*Nessun razionale con denominatore $q \leq 100$ ha il blocco $167$ in dieci cifre consecutive*
 
-> Prova che non esiste un numero razionale $\dfrac{p}{q}$, con denominatore $q \leq 100$, la cui espansione decimale contiene il blocco di cifre consecutive $167$ in dieci cifre consecutive.
+> Dimostrare che non esiste un numero razionale $\dfrac{p}{q}$, con denominatore $q \leq 100$, il cui sviluppo decimale contenga il blocco di cifre consecutive $167$ in dieci cifre consecutive.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1977-78_round1#q02|src_bmo_1977-78_round1__Q02]]
 
 
 
@@ -80,9 +94,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra che la sequenza u_n ha una sola soluzione con u_1 < u_2*
+*Una sola successione di interi con $u_1 < u_2$ e quella relazione*
 
-> Mostrare che esiste una sola e unica sequenza $\{u_n\}$ di integri come $u_1 < u_2$ e $$u_n^2 + 1 = u_{n-1} \cdot u_{n+1} \quad \text{for all } n > 1.$$
+> Dimostrare che esiste una e una sola successione $\{u_n\}$ di interi tale che $u_1 < u_2$ e
+> $$u_n^2 + 1 = u_{n-1} \cdot u_{n+1} \quad \text{for all } n > 1.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1977-78_round1#q03|src_bmo_1977-78_round1__Q03]]
 
 
 
@@ -107,11 +129,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove le altitudini di tetraedro concomitanti se i bordi opposti sono perpendicolari*
+*Le quattro altezze concorrono se e solo se ogni spigolo è perpendicolare allo spigolo opposto*
 
-> Un'altitudine di un tetraedro è una linea attraverso un vertice perpendicolare alla faccia opposta.
-> 
-> Prova che le quattro altitudini di un tetraedro sono simultanee se e solo se ogni bordo del tetraedro è perpendicolare al suo bordo opposto.
+> Un'altezza di un tetraedro è una retta per un vertice perpendicolare alla faccia opposta.
+>
+> Dimostrare che le quattro altezze di un tetraedro concorrono se e solo se ogni spigolo del tetraedro è perpendicolare allo spigolo opposto.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1977-78_round1#q04|src_bmo_1977-78_round1__Q04]]
 
 
 
@@ -136,11 +165,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*All'interno di un cubo di 15 unità, trovare almeno 6 punti con sfera di raggio unitario che copra tutti*
+*In una sfera di raggio unitario ci sono almeno 6 dei punti dati*
 
-> All'interno di un cubo di 15 unità laterali ci sono 11000 punti dati.
-> 
-> Prove che esiste una sfera di raggio unitario all'interno della quale ci sono almeno 6 dei punti dati.
+> Dentro un cubo di lato 15 unità ci sono 11000 punti dati.
+>
+> Dimostrare che esiste una sfera di raggio unitario dentro la quale ci sono almeno 6 dei punti dati.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1977-78_round1#q05|src_bmo_1977-78_round1__Q05]]
 
 
 
@@ -165,8 +201,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra che 2cosθ è polinomio in 2cos(θ/n); prova la razionalità o l'irrazionalità*
+*$2\cos k\theta$ è un polinomio in $2\cos\theta$, e se $k$ è razionale il valore è uno di quei numeri o è irrazionale*
 
-> Mostra che se $k$ è un intero non zero, $2\cos k\theta$ è un polinomio in $2\cos\theta$ di grado $k$ in $2\cos\theta$.
-> 
-> Quindi o altrimenti dimostrare che se $k$ è razionale allora $2\cos k\theta$ è uguale a uno dei numeri $0, \pm 1, \pm 2$, o è irrazionale.
+> Dimostrare che se $k$ è un intero non nullo, $2\cos k\theta$ è un polinomio in $2\cos\theta$ di grado $k$ in $2\cos\theta$.
+>
+> Dedurre, o dimostrare altrimenti, che se $k$ è razionale allora $2\cos k\theta$ o è uguale a uno dei numeri $0, \pm 1, \pm 2$, o è irrazionale.
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1977-78_round1#q06|src_bmo_1977-78_round1__Q06]]

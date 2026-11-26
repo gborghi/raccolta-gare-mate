@@ -34,14 +34,21 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le rette sole attraverso punti del reticolo nel piano*
+*Conta le rette soleggiate che passano per i punti a coordinate intere nel piano*
 
-> Una retta nel piano si dice *soleggiata* se non è parallela all'asse $x$, all'asse $y$ né alla retta $x + y = 0$.
-> 
-> Sia $n \ge 2$ un intero dato. Determinare tutti gli interi non negativi $k$ tali che esistano $n$ rette distinte nel piano soddisfacenti entrambe le seguenti condizioni:
-> 
-> - per ogni coppia di interi positivi $a$ e $b$ tali che $a + b \le n + 1$, il punto $(a, b)$ appartiene almeno a una delle rette; e
+> Una retta nel piano si dice *soleggiata* se **non** è parallela a nessuna delle seguenti: l'asse $x$, l'asse $y$ e la retta $x + y = 0$.
+>
+> Sia $n \ge 2$ un intero dato. Determinare tutti gli interi non negativi $k$ tali che esistano $n$ rette distinte nel piano che soddisfino entrambe le seguenti condizioni:
+>
+> - per tutti gli interi positivi $a$ e $b$ tali che $a + b \le n + 1$, il punto $(a, b)$ appartiene ad almeno una delle rette; e
 > - esattamente $k$ delle $n$ rette sono soleggiate.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imho_2025#q01|src_imho_2025__Q01]]
 
 
 
@@ -68,13 +75,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Retta tangente passante per l'ortocentro in una configurazione con due circonferenze*
+*Tangente passante per l'ortocentro nella configurazione a due cerchi*
 
-> Siano $\Omega$ e $\Gamma$ due circonferenze di centri rispettivi $M$ e $N$, tali che il raggio di $\Omega$ sia minore del raggio di $\Gamma$. Siano $\Omega$ e $\Gamma$ due circonferenze che si intersecano in due punti distinti $A$ e $B$. La retta $MN$ interseca $\Omega$ nei punti $C$ e $D$, in modo che i punti $C$, $M$, $N$ e $D$ siano allineati in quest'ordine. Sia $P$ il circocentro del triangolo $ACD$. La retta $AP$ interseca nuovamente $\Omega$ nel punto $E \ne A$. La retta $AP$ interseca nuovamente $\Gamma$ nel punto $F \ne A$. Sia $H$ l'ortocentro del triangolo $PAB$.
-> 
-> Si dimostri che la retta passante per $H$ e parallela a $AP$ è tangente alla circonferenza circoscritta al triangolo $BEF$.
-> 
-> (Il *ortocentro* di un triangolo è il punto di intersezione delle sue altezze.)
+> Siano $\Omega$ e $\Gamma$ cerchi con centri rispettivamente in $M$ e $N$, tali che il raggio di $\Omega$ sia minore del raggio di $\Gamma$. Si supponga che i cerchi $\Omega$ e $\Gamma$ si intersecano in due punti distinti, $A$ e $B$. La retta $MN$ interseca $\Omega$ nei punti $C$ e $D$, in modo che i punti $C$, $M$, $N$ e $D$ giacciano sulla retta in tale ordine. Sia $P$ il circocentro del triangolo $ACD$. La retta $AP$ interseca nuovamente $\Omega$ nel punto $E \ne A$. La retta $AP$ interseca nuovamente $\Gamma$ nel punto $F \ne A$. Sia $H$ l'ortocentro del triangolo $PAB$.
+>
+> Dimostrare che la retta passante per $H$ e parallela a $AP$ è tangente alla circonferenza circoscritta al triangolo $BEF$.
+>
+> (L'*ortocentro* di un triangolo è il punto di intersezione delle sue altezze.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2025#q02|src_imho_2025__Q02]]
 
 
 
@@ -101,13 +115,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare la più piccola costante c per le funzioni bonza sugli interi positivi*
+*Trovare la costante c più piccola per le funzioni bonza sugli interi positivi*
 
 > Sia $\mathbb{N}$ l'insieme degli interi positivi. Una funzione $f\colon \mathbb{N} \to \mathbb{N}$ si dice *bonza* se
 > $$f(a) \mid b^a - f(b)^{f(a)}$$
-> per ogni intero positivo $a$ e $b$.
-> 
-> Determinare il più piccolo numero reale costante $c$ tale che $f(n) \le cn$ per ogni funzione bonza $f$ e per ogni intero positivo $n$.
+> per tutti gli interi positivi $a$ e $b$.
+>
+> Determinare la più piccola costante reale $c$ tale che $f(n) \le cn$ per tutte le funzioni bonza $f$ e per tutti gli interi positivi $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2025#q03|src_imho_2025__Q03]]
 
 
 
@@ -134,13 +155,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare il primo termine della successione definita dai tre più grandi divisori propri*
+*Trovare il primo termine della successione definita dai tre maggiori divisori propri*
 
-> Un divisore proprio di un numero intero positivo $N$ è un divisore positivo di $N$ diverso da $N$ stesso.
-> 
-> La successione infinita $a_1, a_2, \ldots$ è costituita da interi positivi, ciascuno dei quali ha almeno tre divisori propri. Per ogni $n \ge 3$, l'intero $a_{n+1}$ è la somma dei tre più grandi divisori propri di $a_n$.
-> 
-> Determinare tutti i possibili valori di $a_1$.
+> Un *divisore proprio* di un numero intero positivo $N$ è un divisore positivo di $N$ diverso da $N$ stesso.
+>
+> La successione infinita $a_1, a_2, \ldots$ è costituita da numeri interi positivi, ciascuno dei quali ha almeno tre divisori propri. Per ogni $n \ge 3$, il numero intero $a_{n+1}$ è la somma dei tre divisori propri più grandi di $a_n$.
+>
+> Determinare tutti i valori possibili di $a_1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2025#q04|src_imho_2025__Q04]]
 
 
 
@@ -172,18 +200,25 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco Inkosulty: determinare tutti i valori di lambda per cui Alice ha una strategia vincente*
+*Gioco di Inkosulty: trova tutte le lambda per la strategia vincente di Alice*
 
-> Alice e Bazza giocano al *gioco dell'inkosulty*, un gioco a due giocatori le cui regole dipendono da un numero reale positivo $\lambda$, noto a entrambi i giocatori. Al turno $n$-esimo del gioco (che inizia con $n = 1$) avviene quanto segue:
-> 
+> Alice e Bazza stanno giocando al *gioco dell'inkosulty*, un gioco a due giocatori le cui regole dipendono da un numero reale positivo $\lambda$ noto a entrambi i giocatori. Al $n$-esimo turno del gioco (partendo da $n = 1$) accade quanto segue:
+>
 > - Se $n$ è dispari, Alice sceglie un numero reale non negativo $x_n$ tale che
 > $$x_1 + x_2 + \cdots + x_n \le \lambda n.$$
 > - Se $n$ è pari, Bazza sceglie un numero reale non negativo $x_n$ tale che
 > $$x_1^2 + x_2^2 + \cdots + x_n^2 \le n.$$
-> 
-> Se un giocatore non riesce a scegliere un numero adatto $x_n$, il gioco termina e l'altro giocatore vince. Se il gioco prosegue all'infinito, nessun giocatore vince. Tutti i numeri scelti sono noti a entrambi i giocatori.
-> 
-> Determinare tutti i valori di $\lambda$ per cui Alice ha una strategia vincente e tutti quelli per cui Bazza ha una strategia vincente.
+>
+> Se un giocatore non riesce a scegliere un numero $x_n$ adatto, il gioco termina e l'altro giocatore vince. Se il gioco continua all'infinito, nessun giocatore vince. Tutti i numeri scelti sono noti a entrambi i giocatori.
+>
+> Determina tutti i valori di $\lambda$ per cui Alice ha una strategia vincente e tutti quelli per cui Bazza ha una strategia vincente.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2025#q05|src_imho_2025__Q05]]
 
 
 
@@ -208,8 +243,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero minimo di tessere per coprire ogni quadratino riga e colonna in una scacchiera 2025x2025*
+*Numero minimo di tasselli per coprire ogni quadrato unitario di riga e colonna in una griglia 2025x2025*
 
-> Si consideri una griglia $2025 \times 2025$ di quadratini unitari. Matilda desidera posizionare sulla griglia alcuni tesseri rettangolari, eventualmente di diverse dimensioni, in modo che ogni lato di ciascun tessero giaccia su una linea della griglia e che ogni quadratino unitario sia coperto da al più un tessero.
-> 
-> Determinare il numero minimo di piastrelle che Matilda deve posizionare in modo tale che, per ogni riga e per ogni colonna della griglia, esattamente un quadratino unitario non sia coperto da alcuna piastrella.
+> Si consideri una griglia $2025 \times 2025$ di quadrati unitari. Matilda desidera collocare sulla griglia alcune tessere rettangolari, eventualmente di dimensioni diverse, in modo che ciascun lato di ogni tessera giaccia su una linea della griglia e ogni quadrato unitario sia coperto da al più una tessera.
+>
+> Determinare il numero minimo di tessere che Matilda deve collocare affinché, per ogni riga e per ogni colonna della griglia, vi sia esattamente un quadrato unitario non coperto da alcuna tessera.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2025#q06|src_imho_2025__Q06]]

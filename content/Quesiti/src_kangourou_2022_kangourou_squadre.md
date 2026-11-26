@@ -35,11 +35,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fixed process number difference max-min digits*
+*Which number is it?*
 
-> The difference Choose four non-equal digits, form the largest and smallest number (both positive integers) and calculate the difference between the two (for example, if you chose the digits 0, 7, 2 and 1, you should calculate 7.210 - 127 = 7.083). Repeat the operation with the four digits of the number you have obtained (if it is less than four digits, put the necessary zeros in front) and proceed as follows. From a certain point onwards, you'll always get the same number. What kind?
+> The difference
+>
+> Choose four digits, not all equal to one another, form with them the largest number and the smallest (both positive integers) and calculate the difference between the two (for example, if you chose the digits 0, 7, 2 and 1, you would have to calculate 7.210 – 127 = 7.083). Repeat the operation with the four digits of the number you have obtained (if it were a number with fewer than four digits, put the necessary zeros in front) and continue in this way. From a certain moment on you will always obtain one and the same number. Which?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 6174
+[[Quesiti/src_kangourou_2022_kangourou_squadre#q01|src_kangourou_2022_kangourou_squadre__Q01]]
 
 
 
@@ -84,33 +91,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of strips of a square given black perimeter*
+*Into how many strips is the square divided?*
 
 ![[src_kangourou_2022_kangourou_squadre__prob2.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.2]
-  \fill[gray!40] (0,0) rectangle (1,3);
-  \fill[black] (1,0) rectangle (2,3);
-  \fill[gray!40] (2,0) rectangle (3,3);
-  \draw[thick] (0,0) rectangle (3,3);
-  \draw[thick] (1,0) -- (1,3);
-  \draw[thick] (2,0) -- (2,3);
-\end{tikzpicture}
-\end{document}
-```
+> The striped square
+>
+> A square is divided into an odd number of vertical strips, all of the same width and coloured, in alternate strips, grey and black. The number of grey strips is one greater than that of the black strips (see the example with 3 strips in the picture). It is known that the fraction of the perimeter of the square that bounds the whole of the black strips is ripartito in un numero dispari di strisce verticali tutte of the whole perimeter. Into how many strips is the square divided?
 
-> The striped square  
-> A square is divided into an odd number of vertical strips all of the same width 
-> and colored, in alternating strips, gray and black. The number of gray strips is one greater 
-> than that of the black strips (see the example with 3 strips in the figure). It is known that the fraction of 
-> the perimeter of the square that borders all the black strips is 
-> 
->  of the entire perimeter. Into how many 
-> strips is the square divided?
-
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** 0025
+[[Quesiti/src_kangourou_2022_kangourou_squadre#q02|src_kangourou_2022_kangourou_squadre__Q02]]
 
 
 
@@ -138,11 +131,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number 5 digits with digit 1 shifted, triple*
+*What number do you obtain?*
 
-> The triple C is a single positive five-digit integer that enjoys this property: by placing the digit 1 after its five digits, you get a number that is triple what you get by placing the digit 1 before its five digits. Find this five-digit number and subtract the tens of thousands. What number do you get?
+> The triple
+>
+> There is only one positive five-digit integer with this property: putting the digit 1 after its five digits, one obtains a number that is three times the one obtained by putting the digit 1 before its five digits. Find this five-digit number and remove the tens-of-thousands digit. What number do you obtain?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 2857
+[[Quesiti/src_kangourou_2022_kangourou_squadre#q03|src_kangourou_2022_kangourou_squadre__Q03]]
 
 
 
@@ -173,13 +173,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of box given gift tape*
+*What is the height of the box in millimetres?*
 
 ![[src_kangourou_2022_kangourou_squadre__prob4.png]]
 
-> The gift in the picture shows a gift package tied with a ribbon. The box is in the shape of a rectangular parallelepiped: the length and width of the base differ by 5.5 cm, the height is shorter by 5 cm than the smaller of the two dimensions of the base. The part of the tape used for the knot and the bow is a total length of 47 cm and the total length of the tape is 162 cm. What is the height of the box in millimetres?
+> The present
+>
+> In the picture you see a present tied with a ribbon. The box has the shape of a rectangular parallelepiped: the length and the width of the base differ by 5,5 cm, and the height is 5 cm shorter than the smaller of the two dimensions of the base. The part of the ribbon used for the knot and the bow is 47 cm long in all, and the total length of the ribbon is 162 cm. What is the height of the box in millimetres?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** 0105
+[[Quesiti/src_kangourou_2022_kangourou_squadre#q04|src_kangourou_2022_kangourou_squadre__Q04]]
 
 
 
@@ -207,11 +213,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum n with three divisions for 7 remaining 1 then 0*
+*What is the largest integer n from which Anna could have started?*
 
-> Divide 7 Anna divides a positive integer n by four digits by 7 and gets the remainder 1. Then divide the coefficient by 7 and you get the remainder of 1. Divide this new quotient by 7 and the rest is still 1. Now divide this last quotient by 7 and you get the remaining 0. What is the largest whole n that Anna could have started from?
+> Divided by 7
+>
+> Anna divides a positive four-digit integer n by 7 and obtains remainder 1. She then divides the quotient by 7 and again obtains remainder 1. She divides this new quotient by 7 and the remainder is again 1. Now she divides this last quotient by 7 and obtains remainder 0. What is the largest integer n from which Anna could have started?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 9661
+[[Quesiti/src_kangourou_2022_kangourou_squadre#q05|src_kangourou_2022_kangourou_squadre__Q05]]
 
 
 
@@ -242,14 +255,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value n because 1/n multiplied by 2022*
+*What must n be?*
 
-> The denominator. If we add the denominator to the numerator and the denominator of the 1/3 fraction, we get 4/6 = 2/3 which is twice the fraction from which we started. If we want the fraction 1/n to be multiplied by 2022, by performing a similar operation, how much should n be? C V
-> 
->  
-> 2
+> The denominator
+>
+> If to the numerator and the denominator of the fraction 1/3 we add the denominator, we obtain 4/6 = 2/3, which is twice the fraction we started from. If we want, by carrying out an analogous operation, the fraction 1/n to be multiplied by 2022, what must n be?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 4043
+[[Quesiti/src_kangourou_2022_kangourou_squadre#q06|src_kangourou_2022_kangourou_squadre__Q06]]
 
 
 
@@ -276,15 +292,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Edges of a truncated pyramid with 2022 faces*
+*How many edges must it have?*
 
 ![[src_kangourou_2022_kangourou_squadre__prob7.png]]
 
 > The edges
-> In the figure you see a truncated pyramid that has 6 faces and 12 edges. Imagine a
-> truncated pyramid with 2022 faces: how many edges must it have?
+>
+> In the picture you see a frustum of a pyramid that has 6 faces and 12 edges. Imagine a frustum of a pyramid with 2022 faces: how many edges must it have?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 6060
+[[Quesiti/src_kangourou_2022_kangourou_squadre#q07|src_kangourou_2022_kangourou_squadre__Q07]]
 
 
 
@@ -312,11 +332,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum diameter sum of a 2022-sided polygon*
+*What is the value of this sum?*
 
-> A positive integer is written at each of the vertices and at the center of a regular polygon of 2022 sides. The 2023 numbers written are all different from each other and, when the pairs of opposite vertices (i.e. aligned with the center) vary, the sum of the three aligned numbers (in the two vertices and in the center) is always the same and is the least possible with these presuppositions. What is the value of this sum?
+> Numbers in a line
+>
+> At each of the vertices and at the centre of a regular polygon with 2022 sides a positive integer has been written. The 2023 numbers written are all different from one another and, as the pairs of opposite vertices vary (that is, vertices aligned with the centre), the sum of the three aligned numbers (at the two vertices and at the centre) is always the same and is the smallest possible on these assumptions. What is the value of this sum?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 2026
+[[Quesiti/src_kangourou_2022_kangourou_squadre#q08|src_kangourou_2022_kangourou_squadre__Q08]]
 
 
 
@@ -348,13 +375,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Folding rectangle area with angle 30°*
+*How many square centimetres is the area of the rectangle ABCD?*
 
 ![[src_kangourou_2022_kangourou_squadre__prob9.png]]
 
-> As suggested by the figure, a rectangular strip of paper ABCD is folded so that point A overlaps point C. We call E the point on the AB side from which the fold starts. If the angle measures 30° and the area of the triangle ECB is 15 cm2, how many square centimetres is the area of the rectangle ABCD?
+> The area
+>
+> As the picture suggests, a rectangular strip of paper ABCD is folded so that the point A lies on top of the point C. Call E the point of the side AB from which the fold starts. If the angle 
+>  measures 30° and the area of the triangle ECB is 15 cm2, how many square centimetres is the area of the rectangle ABCD?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0090
+[[Quesiti/src_kangourou_2022_kangourou_squadre#q09|src_kangourou_2022_kangourou_squadre__Q09]]
 
 
 
@@ -380,11 +415,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes of Bruno between three speeds*
+*How many minutes does Bruno need to cover the whole path?*
 
-> Three friends, Ada is riding her bike, Bruno is running, Carla is walking. Ada's speed is twice that of Bruno who, in turn, is twice that of Carla. If they leave together to make the same journey and Carla arrives an hour after Ada, how many minutes does it take Bruno to cover the entire journey?
+> Three friends
+>
+> Ada goes by bicycle, Bruno runs, Carla walks. Ada's speed is twice Bruno's, which in turn is twice Carla's. If they set off together to cover the same path and Carla arrives one hour after Ada, how many minutes does Bruno need to cover the whole path?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0040
+[[Quesiti/src_kangourou_2022_kangourou_squadre#q10|src_kangourou_2022_kangourou_squadre__Q10]]
 
 
 
@@ -438,36 +479,23 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ACB angle with M,N points and MCN angle 40°*
+*How many degrees does the angle measure?*
 
 ![[src_kangourou_2022_kangourou_squadre__prob11.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.4]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (5,0);
-  \coordinate (C) at (4,3);
-  \pgfmathsetmacro{\AC}{sqrt((4-0)^2+(3-0)^2)}
-  \pgfmathsetmacro{\BC}{sqrt((4-5)^2+(3-0)^2)}
-  \coordinate (N) at (\AC,0);
-  \pgfmathsetmacro{\Mx}{5-\BC}
-  \coordinate (M) at (\Mx,0);
-  \draw[thick] (A) -- (B) -- (C) -- cycle;
-  \draw (C) -- (M);
-  \draw (C) -- (N);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above right] at (C) {$C$};
-  \node[below] at (M) {$M$};
-  \node[below] at (N) {$N$};
-\end{tikzpicture}
-\end{document}
-```
+> The angle
+>
+> In the triangle ABC in the picture the side AB is longer than each of the other two. M and N are two points on the side AB such that AN is as long as AC and BM is as long as BC. The angle Nel triangolo ABC in figura il lato AB è più lungo di ciascuno 
+> degli altri due. M e N sono due punti sul lato AB tali che AN sia 
+> lungo quanto AC e BM sia lungo quanto BC. L’angolo 
+> 	 
+>  measures 40 degrees. How many degrees does the angle  measure?
 
-> The angle In the ABC triangle in the figure the side AB is longer than either of the other two. M and N are two points on the AB side such that AN is as long as AC and BM is as long as BC. The angle MCN is 40 degrees. How many degrees is the angle ACB?
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0100
+[[Quesiti/src_kangourou_2022_kangourou_squadre#q11|src_kangourou_2022_kangourou_squadre__Q11]]
 
 
 
@@ -494,11 +522,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 10..9999 with strictly increasing digits*
+*How many integers between 10 and 9999 have their digits arranged in strictly increasing order?*
 
-> How many integers are there between 10 and 9999 whose digits are arranged in a strictly increasing order? (Two-digit numbers are NOT to be thought of as 4-digit numbers whose first two digits are 0, e.g. 23 is acceptable)
+> Strictly increasing
+>
+> How many integers between 10 and 9999 have their digits arranged in strictly increasing order? (Two-digit numbers are NOT to be thought of as four-digit numbers whose first two digits are 0; for example 23 is acceptable.)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0246
+[[Quesiti/src_kangourou_2022_kangourou_squadre#q12|src_kangourou_2022_kangourou_squadre__Q12]]
 
 
 
@@ -546,34 +581,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length ED in partitioned right triangle*
+*How long is ED?*
 
 ![[src_kangourou_2022_kangourou_squadre__prob13.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.045]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (75,0);
-  \coordinate (C) at (0,100);
-  \coordinate (D) at (48,36);
-  \coordinate (E) at (0,36);
-  \draw[thick] (A) -- (B) -- (C) -- cycle;
-  \draw (E) -- (D);
-  \draw (A) -- (D);
-  \draw (0,4) -- (4,4) -- (4,0);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above left] at (C) {$C$};
-  \node[left] at (E) {$E$};
-  \node[right] at (D) {$D$};
-\end{tikzpicture}
-\end{document}
-```
+> Triangles
+>
+> In the picture you see a right-angled triangle ABC divided into three right-angled triangles EDC, EDA and ABD. If AB measures 75 and AC measures 100, how long is ED?
 
-> Triangles In the figure you see a right triangle ABC divided into three right triangles EDC, EDA and ABD. If AB measures 75 and AC measures 100, how much does ED measure?
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0048
+[[Quesiti/src_kangourou_2022_kangourou_squadre#q13|src_kangourou_2022_kangourou_squadre__Q13]]
 
 
 
@@ -600,11 +620,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to distribute 16 tokens in 6 bags
+*In how many different ways can she do it?*
 
-> Tokens Marta must distribute 16 identical tokens in 6 different bags so that at least two tokens end up in each bag. How many different ways can you do that? (Two ways are different if the contents of at least one bag are different.)
+> Counters
+>
+> Marta has to distribute 16 counters, all equal to one another, in 6 bags, all different from one another, so that at least two counters end up in each bag. In how many different ways can she do it? (Two ways are different if the contents of at least one and the same bag are different.)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0126
+[[Quesiti/src_kangourou_2022_kangourou_squadre#q14|src_kangourou_2022_kangourou_squadre__Q14]]
 
 
 
@@ -664,29 +691,17 @@ How to distribute 16 tokens in 6 bags
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side side squares in semicircle*
+*How long is the side of the side squares?*
 
 ![[src_kangourou_2022_kangourou_squadre__prob15.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.5]
-  \pgfmathsetmacro{\R}{sqrt(5)}
-  \draw[thick] (-\R,0) -- (\R,0);
-  \draw[thick] (\R,0) arc(0:180:\R);
-  \draw[thick] (-1,0) -- (1,0) -- (1,2) -- (-1,2) -- cycle;
-  \draw[thick] (-2,0) -- (-1,0) -- (-1,1) -- (-2,1) -- cycle;
-  \draw[thick] (1,0) -- (2,0) -- (2,1) -- (1,1) -- cycle;
-\end{tikzpicture}
-\end{document}
-```
+> The side squares
+>
+> The picture shows a semicircle that holds three squares, each of which has one side on the diameter and at least one vertex on the semicircle. The midpoint of the base side of the central one is the midpoint of the diameter; the other two squares are placed symmetrically against the central one. If the side of the central square measures 2.100, how long is the side of the side squares?
 
-> The side squares The figure shows a semicircle that houses three squares, each of which has one side on the diameter and at least one vertex on the semicircle. The middle point of the base side of the central side is the middle point of the diameter; the other two squares are adjacent in a symmetrical position to the central side. If the side of the center square is 2,100, how big is the side of the side squares?
->  
-> A N M V V V A B C D E
-> 
-> 3
->  
-> Questions and solutions
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 1050
+[[Quesiti/src_kangourou_2022_kangourou_squadre#q15|src_kangourou_2022_kangourou_squadre__Q15]]

@@ -31,11 +31,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number to be entered in 3x2005=2004+2006+...*
+*Number to be inserted in 3x2005=2004+2006+...*
 
-> 3x2005 = 2004 + 2006 + … . Which of the following numbers do you need to substitute for the dots to make the equality? A) 2005        B) 2006        C) 2007        D) 2008        E) 2009
+> 3×2005 = 2004 + 2006 + …. Which of the following numbers must you
+> What should be put in place of the dots to make the equality hold?
+> A) 2005        B) 2006        C) 2007        D) 2008        E) 2009
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q01|src_kangourou_2006_benjamin__Q01]]
 
 
 
@@ -66,13 +72,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Biggest 10-digit number by placing sheets side by side*
+*The largest number with 10 digits, by joining small sheets together*
 
 ![[src_kangourou_2006_benjamin__prob2.png]]
 
-> Look at the figure: six numbers are written on as many sheets. By placing all six sheets side by side, you can form ten-digit numbers. Which one's the biggest? A) 9 876 543 210          B) 4 130 975 682          C) 3 097 568 241 D) 7 568 413 092          E) 7 685 413 092
+> Observe the figure: six numbers are
+> Written on as many little slips of paper. By putting all six slips together, you can form ten-digit numbers. Which one is the largest?
+> A) 9 876 543 210          B) 4 130 975 682          C) 3 097 568 241
+> D) 7 568 413 092          E) 7 685 413 092
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q02|src_kangourou_2006_benjamin__Q02]]
 
 
 
@@ -104,11 +117,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many houses along the avenue with civic numbers
+*How many houses along the avenue with house numbers?*
 
-> As we walk down Kangtown's main avenue, we notice that each house is assigned a (and only one) civic number, odd to those on the left, even to those on the right. On the left side, the numbers go from 1 to 39; on the right side, they go from 2 to 34. How many houses are along the avenue? A) 8 B) 36 C) 37 D) 38 E) 73
+> As we walk along the main avenue of Kangtown, we observe that each house is assigned one (and only one) house number: the numbers on the left side are odd, while those on the right side are even. On the left side, the numbers range from 1 to 39; on the right side, they range from 2 to 34. How many houses are there along the avenue?
+> A) 8
+> B) 36
+> C) 37
+> D) 38
+> E) 73
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q03|src_kangourou_2006_benjamin__Q03]]
 
 
 
@@ -141,13 +164,22 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cost of a ball from price combinations*
+*Cost of a ball for price combinations*
 
 ![[src_kangourou_2006_benjamin__prob4.png]]
 
-> At a sportswear store in Stockholm, the combinations of items shown have these prices. You can also buy each item individually. How many crowns does one of those footballs cost? A) 100 B) 200 C) 300 D) 400 E) 500
+> In a sports goods store in Stockholm, the illustrated combinations of items have these prices. You can also buy each item individually. How many kronor is one of those footballs?
+> A) 100
+> B) 200
+> C) 300
+> D) 400
+> E) 500
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q04|src_kangourou_2006_benjamin__Q04]]
 
 
 
@@ -190,31 +222,23 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Half of a cent*
+*The Goal of a Cent*
 
 > Half of a cent is
-> A) 0.5
-> B) 0.002
-> C) 0.005
-> D) 0.02
-> E) 0.05
-> 5
-> 7
-> 2
-> 68
-> 41
-> 309
-> 500 crowns
-> 1200 crowns
-> Benjamin_06.qxp  20/02/2006  23.56  Page 10
-> 
-> Pag. 
-> Pag. 11
-> 11
-> Kang 2006
-> Kang 2006
+> A) 0,5
+> B) 0,002
+> C) 0,005
+> D) 0,02
+> E) 0,05
+> 5 7 2 68 41 309 500 kroner 1200 kroner Benjamin_06.qxp 20/02/2006 23.56 Page 10
+>
+> Pag. Pag. 11 11 Kang 2006 Kang 2006
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q05|src_kangourou_2006_benjamin__Q05]]
 
 
 
@@ -240,13 +264,17 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure with a 150 degree angle of the clock hands*
+*Figure with a hand angle of 150 degrees*
 
 ![[src_kangourou_2006_benjamin__prob6.png]]
 
 > Choose the figure in which the smaller of the two angles formed by the two hands of the clock measures 150°.
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q06|src_kangourou_2006_benjamin__Q06]]
 
 
 
@@ -272,13 +300,18 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum value of the difference with digits to be inserted*
+*Minimum value of the difference, with digits to be entered*
 
-> Each time the symbol ∇ appears in the expression
-> 4∇2∇−13∇∇, a digit must be inserted (not necessarily always the same one); depending on the digits inserted, the resulting difference can take different values. What is the smallest of these values?
+> Whenever the symbol ∇ appears in the expression
+> 4∇2∇−13∇∇: a digit must be entered (not necessarily always the same); depending on the digits entered, the resulting difference can take different values. What is the smallest of these values?
 > A) 3629        B) 3530     C) 2720           D) 2621          E) 2603
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q07|src_kangourou_2006_benjamin__Q07]]
 
 
 
@@ -305,13 +338,19 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Writing methods 2006 by following arrows*
+*Ways of Writing 2006 Following the Arrows*
 
 ![[src_kangourou_2006_benjamin__prob8.png]]
 
-> Look at the figure. In how many ways can we write the number 2006 by following the arrows? A) 5           B) 6           C) 7           D) 8           E) 9
+> Observe the figure. In how many ways can we write the number 2006 by following the arrows?
+> A) 5           B) 6           C) 7           D) 8           E) 9
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q08|src_kangourou_2006_benjamin__Q08]]
 
 
 
@@ -361,7 +400,7 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure obtained by folding the regular hexagon*
+*Figure obtained by folding a regular hexagon*
 
 ![[src_kangourou_2006_benjamin__prob9.png]]
 
@@ -382,9 +421,19 @@ How many houses along the avenue with civic numbers
 \end{document}
 ```
 
-> The figure shows a sheet of paper shaped like a regular hexagon. It is folded so that the three vertices indicated with a dot go exactly to the center of the hexagon and the others remain standing. What figure do you get? A) a six-pointed star B) a dodecagon C) a hexagon D) a square E) a triangle
+> The figure shows a sheet of paper that has the
+> It is in the shape of a regular hexagon. It is folded so that the three vertices marked with a dot go exactly to the center of the hexagon and the others remain fixed. What shape is obtained?
+> A) a six-pointed star
+> B) a dodecagon
+> C) a hexagon
+> D) a square
+> E) a triangle
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q09|src_kangourou_2006_benjamin__Q09]]
 
 
 
@@ -431,33 +480,30 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Paint for white part after removal of cubes*
+*Varnish for the white part after removing the cubes*
 
 ![[src_kangourou_2006_benjamin__prob10.png]]
 
-> It takes 9 kilograms of paint to cover the entire surface of a cube. We remove 8 small cubes from the cube, as indicated in the figure.
-> How many kilograms of paint are needed to paint the remaining white part?
->
-> (A) 1.5
-> (B) 2
-> (C) 2.5
-> (D) 3
-> (E) 4.5
->
+> 9 kilograms of paint are needed to paint the entire surface of a cube. We remove 8 small cubes from the cube, as shown in the figure. How many kilograms of paint are needed to paint the part that remains white?
+> A) 1,5
+> B) 2
+> C) 2,5
+> D) 3
+> E) 4,5
 > A)
 > B)
 > C)
 > D)
 > E)
-> 2
-> Benjamin_06.qxp  20/02/2006  23.56  Pagina 11
-> 
-> Page
-> Page 12
-> Kang 2006
-> Questions 11 to 20 are worth 4 points each
+> 2 Benjamin_06.qxp 20/02/2006 23.56 Page 11
+>
+> Page Page 12 12 Kang 2006 Kang 2006 Questions 11 to 20 are each worth 4 points.
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q10|src_kangourou_2006_benjamin__Q10]]
 
 
 
@@ -493,13 +539,23 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the star with circles and square*
+*Perimeter of the star with circles and a square*
 
 ![[src_kangourou_2006_benjamin__prob11.png]]
 
-> The "star" in the figure features four circles, a square, and four triangles. The triangles are equilateral; the circles are equal, they touch each other without overlapping and they touch the sides of the square. If the radius of each circle is five centimeters, how much in centimeters does the perimeter of the "star" measure? A) 40 B) 80 C) 120 D) 160 E) 240
+> In the "star" in the figure, four appear
+> Circles, a square, and four triangles. The triangles are equilateral; the circles are equal, touch without overlapping, and touch the sides of the square. If the radius of each circle is 5 centimeters, what is the perimeter of the "star" in centimeters?
+> A) 40
+> B) 80
+> C) 120
+> D) 160
+> E) 240
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q11|src_kangourou_2006_benjamin__Q11]]
 
 
 
@@ -524,11 +580,16 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference sum of first 1000 even and odd*
+*Difference between the sum of the first 1000 even numbers and the sum of the first 1000 odd numbers*
 
-> Consider only integers greater than 0. What is the difference between the sum of the first 1000 even numbers and the sum of the first 1000 odd numbers? A) 1                B) 200             C) 500           D) 1000           E) 2000
+> Consider only integers greater than 0. What is the difference between the sum of the first 1000 even numbers and the sum of the first 1000 odd numbers?
+> A) 1                B) 200             C) 500           D) 1000           E) 2000
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q12|src_kangourou_2006_benjamin__Q12]]
 
 
 
@@ -561,13 +622,23 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Run the track so that the die returns to the starting position*
+*Turn the knob so that the nut returns to its initial position*
 
 ![[src_kangourou_2006_benjamin__prob13.png]]
 
-> A die is in the position indicated in the figure. How many complete turns of the track will it take for the die, rotating each time by one face, to return to the exact starting position? (a) 1 (b) 2 (c) 3 (d) 4 (e) cannot be determined
+> A die is in the position shown in the figure. How many complete laps around the "track" will be needed for the die, turning by one face each time, to return exactly to its starting position?
+> A) 1   
+> B) 2
+> C) 3
+> D) 4    
+> E) cannot be determined
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q13|src_kangourou_2006_benjamin__Q13]]
 
 
 
@@ -600,13 +671,20 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Color of the square at the bottom right*
+*Color of the small square in the bottom right corner*
 
 ![[src_kangourou_2006_benjamin__prob14.png]]
 
-> The square in the figure is divided into 10 x 10 squares. We color each of them by assigning the same color to all the squares that are on the same line parallel to the highlighted diagonal; we use the five colors available in the following order: red, yellow, blue, green, black, red, yellow, blue, ... and so on (see figure). What color will be assigned to the square in the lower right corner? A) red B) yellow C) blue D) green E) black
+> The square in the figure is divided
+> In 10 x 10 small squares. Let's color each of them by assigning the same color to all the small squares that lie on the same line parallel to the highlighted diagonal; let's use the five available colors in the following order: red, yellow, blue, green, black, red, yellow, blue, ... and so on (see figure). What color will be assigned to the small square in the bottom-right corner?
+> A) red B) yellow C) blue D) green E) black
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q14|src_kangourou_2006_benjamin__Q14]]
 
 
 
@@ -664,42 +742,19 @@ How many houses along the avenue with civic numbers
 
 *Time for two trains to be 140 km apart again*
 
-> Along a double-track railway line two trains travel
-> towards each other, one at a constant speed of 80 km/h, the other at a
-> R
-> G
-> B
-> V N
-> R
-> G
-> B
-> V N
-> R
-> B
-> V N
-> R
-> V N
-> R
-> N
-> R
-> R
-> ?
-> Benjamin_06.qxp  20/02/2006  23.56  Page 12
-> 
-> Pag. 
-> Pag. 13
-> 13
-> Kang 2006
-> Kang 2006
-> constant speed of 60 km/h. At this moment they are 140 km apart. After
-> how much time, after they have crossed, will their distance again
-> be 140 km, if they continue to travel at the same speed?
-> A) 1 hour      
-> B) 2 hours         C) an hour and a half         
-> D) two and a half hours          
+> Along a double-track railway line, two trains are traveling toward each other: one at a constant speed of 80 km/h, the other at R G B V N R G B V N R B V N R V N R N R R ? Benjamin_06.qxp 20/02/2006 23.56 Page 12
+>
+> Page Page 13 13 On 2006 On 2006 at a constant speed of 60 km/h. At this moment, they are 140 km apart. How long after they have passed each other will their distance be 140 km again, if they continue traveling at the same speed?
+> A) 1 hour
+> B) 2 hours C) an hour and a half
+> D) two and a half hours
 > E) half an hour
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q15|src_kangourou_2006_benjamin__Q15]]
 
 
 
@@ -729,11 +784,22 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the alternate operation sequence*
+*Result of the sequence of alternating operations*
 
-> What is the result of the sequence of operations shown in the box? A) 111111111 B) 1010101010 C) 100000000 D) 999999999 E) 0
+> What is the result of the sequence of operations?
+> Indicate in the box?
+> A) 111111111
+> B) 1010101010
+> C) 100000000
+> D) 999999999
+> E) 0
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q16|src_kangourou_2006_benjamin__Q16]]
 
 
 
@@ -764,11 +830,21 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to colour cube 3 faces blue 3 red*
+*Ways to color a cube with 3 blue faces and 3 red faces*
 
-> You have a cube and you want to color three faces blue and three faces red. How many different ways can you do that? (Two cubes are differently coloured if, however one is turned, the other cannot be obtained.) A) 1 B) 2 C) 3 D) 4 E) 5
+> There is a cube, and you want to color three of its faces blue and three red. In how many different ways can you do this? (Two cubes are considered to be colored differently if, no matter how you rotate one of them, you cannot obtain the other.)
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q17|src_kangourou_2006_benjamin__Q17]]
 
 
 
@@ -801,13 +877,23 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter region highlighted in the circle*
+*Perimeter of the highlighted region within the circle*
 
 ![[src_kangourou_2006_benjamin__prob18.png]]
 
-> The diameter AB of the circle in the figure is 10 cm. What is the perimeter of the region highlighted if the smaller rectangles in the figure are all the same? A) 8 cm B) 16 cm C) 20 cm D) 25 cm E) 30 cm
+> The diameter AB of the circle in the figure measures
+> 10 cm. What is the perimeter of the highlighted region if the smaller rectangles in the figure are all the same?
+> A) 8 cm
+> B) 16 cm
+> C) 20 cm
+> D) 25 cm
+> E) 30 cm
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q18|src_kangourou_2006_benjamin__Q18]]
 
 
 
@@ -840,11 +926,21 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of cuts for whole pieces all different*
+*Number of cuts for entirely different segments*
 
-> I had a 15-meter long rope. By cutting it properly, I obtained pieces that were a whole number of meters in length. The number of pieces is as large as possible, consistent with the fact that there are not two of the same length. How many cuts did I make? A) 3 B) 4 C) 5 D) 6 E) 15.
+> I had a rope 15 meters long. By cutting it appropriately, I obtained pieces whose lengths were whole numbers of meters. The number of pieces was as large as possible, subject to the condition that no two pieces had the same length. How many cuts did I make?
+> A) 3
+> B) 4
+> C) 5
+> D) 6
+> E) 15.
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q19|src_kangourou_2006_benjamin__Q19]]
 
 
 
@@ -895,35 +991,17 @@ How many houses along the avenue with civic numbers
 
 *Order of the five points on segment OE*
 
-> A segment OE is 2006 meters long. On it we identify three
-> points A, B, C so that the segments OA and BE measure 1111 meters and the
-> length of OC is 70% of that of OE. Starting from the endpoint O,
-> in what order are the five points located?
-> A) OABCE      B) OACBE      C) OCBAE      D) OBCAE      E) OBACE
-> 1111111111
-> -111111111
-> +11111111
-> -1111111
-> +111111
-> -11111
-> +1111
-> -111
-> +11
-> -1
-> ---------------
-> ?   
-> A
-> B
-> Benjamin_06.qxp  20/02/2006  23.56  Page 13
-> 
-> Page 
-> Page 14
-> 14
-> Kang 2006
-> Kang 2006
-> Questions from No. 21 to No. 30 are worth 5 points each
+> An OE segment is 2006 meters long. On it, we identify three points A, B, and C such that the segments OA and BE measure 1111 meters, and the length of OC is 70% of the length of OE. Starting from the endpoint O, in what order are the five points arranged?
+> A) OABCE B) OACBE C) OCBAE D) OBCAE E) OBACE
+> 1111111111 -111111111 +11111111 -1111111 +111111 -11111 +1111 -111 +11 -1 --------------- ? A B Benjamin_06.qxp 20/02/2006 23.56 Page 13
+>
+> Page Page 14 14 Kang 2006 Kang 2006 Questions 21 to 30 are each worth 5 points.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q20|src_kangourou_2006_benjamin__Q20]]
 
 
 
@@ -961,13 +1039,24 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of each triangle from parallelogram and rhombus*
+*Perimeter of each triangle formed by a parallelogram and a rhombus*
 
 ![[src_kangourou_2006_benjamin__prob21.png]]
 
-> In Figures 1 and 2 two quadrilaterals are represented, each constructed by approaching the same two equal isosceles triangles: the first is a parallelogram, the second a rhombus. The perimeter of the parallelogram is 3 centimeters longer than the perimeter of each triangle; instead, the perimeter of the rhombus is 7 centimeters longer than that of each triangle. So the perimeter of each triangle is in centimeters, A) 3 B) 7 C) 11 D) 13 E) 16
+> In Figures 1 and 2, two are shown
+> Quadrilaterals, each formed by joining the same two congruent isosceles triangles: the first is a parallelogram, and the second is a rhombus. The perimeter of the parallelogram is 3 centimetres longer than the perimeter of each triangle; whereas the perimeter of the rhombus is 7 centimetres longer than that of each triangle. Then the perimeter of each triangle is, in centimetres,
+> A) 3
+> B) 7
+> C) 11
+> D) 13
+> E) 16
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q21|src_kangourou_2006_benjamin__Q21]]
 
 
 
@@ -1003,13 +1092,24 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A-B routes on the six bridges once (Euler)*
+*A-B paths over the six bridges, each only once (Euler)*
 
 ![[src_kangourou_2006_benjamin__prob22.png]]
 
-> A river runs through a city and there are two islets; there are also six bridges as shown in the figure next to it. How many different routes allow you to go from point A to point B by crossing each bridge once and only once? A) 0 B) 2 C) 4 D) 6 E) more than 6
+> A river runs through a city, and there are
+> Two small islands; there are also six bridges, as shown in the figure beside. How many different routes are there that allow one to go from point A to point B, crossing each bridge exactly once?
+> A) 0          
+> B) 2          
+> C) 4         
+> D) 6          
+> E) more than 6
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q22|src_kangourou_2006_benjamin__Q22]]
 
 
 
@@ -1038,17 +1138,19 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triple in which one number is equidistant from the other two*
+*A triangle in which one number is equidistant from the other two*
 
-> Consider a half-line with origin O and a point A on it:
-> if the distance in centimetres of A from O is a, we will say that a represents the point A. Which of the following sets of three numbers represents three
-> points of the half-line one of which has the same distance from each of the other two?
+> Consider a ray with origin O and a point A on it: if the distance in centimetres from A to O is a, we will say that a represents point A. Which of the following sets of three numbers represents three points on the ray, one of which is the same distance from each of the other two?
 > A) 1/3; 1/4; 1/5    
 > B) 12; 21; 32     
-> C) 0.3; 0.7; 1.3     
-> D) 1/8; 9/80; 1/10     E) none of the preceding
+> C) 0,3; 0,7; 1,3     
+> D) 1/8; 9/80; 1/10 E) none of the above
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q23|src_kangourou_2006_benjamin__Q23]]
 
 
 
@@ -1101,39 +1203,27 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gray fraction of the three-stripe flag*
+*Grey band of the three-stripe flag*
 
 ![[src_kangourou_2006_benjamin__prob24.png]]
 
-> A flag consists of three stripes of equal width, divided respectively into two equal parts, three equal parts, and four equal parts, as shown in the figure. What fraction of the flag's surface area is shaded gray?
+> A flag consists of three strips of the same
+> widths, each divided respectively into two equal parts, three equal parts, and four equal parts, as you can see in the figure. What fraction of the flag's area is colored grey?
+> A) 
+> B) 
+> C)             D)  
+> E)  
+> Figure 1 Figure 2
 >
-> (A)
-> (B)
-> (C)
-> (D)
-> (E)
+> 2 1 3 2 5 3 7 4 9 5 Benjamin_06.qxp 20/02/2006 23.56 Page 14
 >
-> Figure 1
-> Figure 2
->  
-> 2
-> 1
-> 3
-> 2
-> 5
-> 3
-> 7
-> 4
-> 9
-> 5
-> Benjamin_06.qxp  20/02/2006  23.56  Pagina 14
-> 
-> Page
-> Page 15
-> Kang 2006
-> Kang 2006
+> Pag. Pag. 15 15 Kang 2006 Kang 2006
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q24|src_kangourou_2006_benjamin__Q24]]
 
 
 
@@ -1168,14 +1258,16 @@ How many houses along the avenue with civic numbers
 
 ![[src_kangourou_2006_benjamin__prob25.png]]
 
-> Bianca builds grids of toothpicks
-> by enlarging each time the grid already present
-> with the addition of new toothpicks, according
-> to the pattern illustrated in the figure. How many toothpicks will Bianca have to add to the 30th
-> grid to obtain the 31st?
+> Bianca builds toothpick grids.
+> Each time, expanding the grid that already exists by adding new toothpicks, according to the pattern shown in the figure. How many toothpicks will Bianca have to add to the 30th grid to obtain the 31st grid?
 > A) 124            B) 148             C) 61               D) 254            E) 120
 
-**Answer:** A
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q25|src_kangourou_2006_benjamin__Q25]]
 
 
 
@@ -1225,7 +1317,7 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum points to be removed to avoid equilateral triangles*
+*Minimum number of points to remove to avoid equilateral triangles*
 
 ![[src_kangourou_2006_benjamin__prob26.png]]
 
@@ -1246,9 +1338,20 @@ How many houses along the avenue with civic numbers
 \end{document}
 ```
 
-> What is the smallest number of points that you can remove from the figure shown next to you so that there are not three left that are the vertices of any equilateral triangle? A) 2 B) 3 C) 4 D) 5 E) 6
+> What is the smallest number of points that is sufficient?
+> Remove from the figure shown beside, so that three are not left that are the vertices of some equilateral triangle?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q26|src_kangourou_2006_benjamin__Q26]]
 
 
 
@@ -1279,11 +1382,20 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equal distribution of coins between Aldo and Bruno*
+*An equal split of the coins between Aldo and Bruno*
 
-> At one camp, Aldo and Bruno set a fire to cook their food, using 15 pieces of the same wood: 8 were brought by Aldo and 7 by Bruno. Carlo asks if he can use the same fire to cook and rewards his friends with 30 coins, all of the same value. The fair way to divide coins between Aldo and Bruno is: A) 22 to Aldo and 8 to Bruno. B) 20 to Aldo and 10 to Bruno. C) 15 to Aldo and 15 to Bruno. D) 16 to Aldo and 14 to Bruno. E) 18 to Aldo and 12 to Bruno.
+> At a campsite, Aldo and Bruno are building a fire to cook their food, using 15 identical pieces of wood: 8 were brought by Aldo and 7 by Bruno. Carlo asks to be allowed to use the same fire to cook and rewards his friends with 30 coins, all of the same value. The fair way to divide the coins between Aldo and Bruno is:
+> A) 22 to Aldo and 8 to Bruno.
+> B) 20 to Aldo and 10 to Bruno.
+> C) 15 for Aldo and 15 for Bruno.
+> D) 16 for Aldo and 14 for Bruno.
+> E) 18 for Aldo and 12 for Bruno.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q27|src_kangourou_2006_benjamin__Q27]]
 
 
 
@@ -1324,23 +1436,24 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parity of M and T with M(A - T + A) odd*
+*Parity of M and T with M(A-T+A) odd*
 
-> The letters M, A, and T represent integers. You know that the expression M × (A − T + A) yields an odd number. Which of the following statements is true?
+> The letters M, A, and T represent three integers each. You know that the expression M × (A - T + A) yields an odd number. Which of the following statements is true?
+> A) Both M and T are even numbers.
+> B) Both M and T are odd numbers.
+> C) Of the two numbers M and T, one is even and the other is odd.
+> D) M is odd; T could be either even or odd.
+> E) M is even; T could be either even or odd.
+> 1a 2a 3a Benjamin_06.qxp 20/02/2006 23.56 Page 15
 >
-> (A) Both M and T are even numbers.
-> (B) Both M and T are odd numbers.
-> (C) Of the two numbers M, T, one is even and the other is odd.
-> (D) M is odd, T could be either even or odd.
-> (E) M is even, T could be either even or odd.
-> 
-> Page
-> Page 16
-> 16
-> Kang 2006
-> Kang 2006
+> Pag. Pag. 16 16 Kang 2006 Kang 2006
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q28|src_kangourou_2006_benjamin__Q28]]
 
 
 
@@ -1371,13 +1484,19 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Letter in place of the question mark on the cube*
+*A letter in place of the question mark on the cube*
 
 ![[src_kangourou_2006_benjamin__prob29.png]]
 
-> Six letters are written on the faces of a cube. The figure shows two possible plane developments of that cube, the second of which omits some letters. What letter should be written in place of the question mark? A) A) B) B) C) C) D) E) It is not possible to say with certainty.
+> Six letters are written on the faces of a cube. The figure shows two possible net representations of that cube; in the second one, some letters have been omitted. Which letter should be written in place of the question mark?
+> A) A              B) B              C) C              D) E
+> E) It cannot be said with certainty.
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q29|src_kangourou_2006_benjamin__Q29]]
 
 
 
@@ -1415,18 +1534,18 @@ How many houses along the avenue with civic numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Underlined numbers exactly 2 times between 1 and 2006*
+*Numbers underlined exactly twice between 1 and 2006*
 
-> On the board are written all natural numbers from 1 to 2006.
-> First, we underline all numbers divisible by 2, then all divisible by 3, and finally all divisible by 4.
-> Some numbers will be underlined more than once.
-> How many numbers will be underlined exactly 2 times?
+> All natural numbers from 1 to 2006 are written on the blackboard. First, we underline all numbers divisible by 2, then all numbers divisible by 3, and finally all numbers divisible by 4. Some numbers will be underlined more than once. How many numbers will be underlined exactly twice?
+> A) 1003             B) 1002        C) 501           D) 334              E) 167
+> D B C E F A F D ? Benjamin_06.qxp 20/02/2006 23.56 Page 16
 >
-> (A) 1003 (B) 1002 (C) 501 (D) 334 (E) 167
-> 
->  
-> 1
-> Benjamin Category
-> For students in first or second year of middle school
+>
+> 1 Benjamin Category for students in the first or second year of junior high school
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_benjamin#q30|src_kangourou_2006_benjamin__Q30]]

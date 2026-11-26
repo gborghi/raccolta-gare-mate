@@ -33,13 +33,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum laces purchased by Silvia*
+*Minimo laces bought by Silvia*
 
-> Five girls, including Silvia, bought some hair laces. It is known that: - there are no two of them who have bought the same number of laces; - the number of laces bought by any three of them is greater than that bought by the other two.
-> 
-> What is the minimum number of laces that Silvia could have bought? Justify your answer.
+> Five girls, including Silvia, bought some hair ties. It is known that:
+> - no two of them bought the same number of ties;
+> - the number of ties bought by any three of them is greater than the number bought by the remaining two.
+>
+> What is the minimum number of ties Silvia could have bought? Justify your answer.
 
-**Answer:** 5
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_junior_finale#qj1|src_kangourou_2005_junior_finale__QJ1]]
 
 
 
@@ -65,13 +71,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*B+I+N+O in multiplication of UN x 6 = BIO*
+*B+I+N+O in the multiplication UN x 6 = BIO*
 
-> In the indicated multiplication, in addition to $6$, two integers, $UN$ and $BIO$, composed using the digits $2, 3, 4, 5, 7$ as a whole, were used. If different letters represent different digits, how much is $B + I + N + O$?
-> 
+> In the indicated multiplication, in addition to $6$, two integers, $UN$ and $BIO$, were used; these integers were formed using the digits $2, 3, 4, 5, 7$ in total. If different letters represent different digits, what is the value of $B + I + N + O$?
+>
 > $$UN \times 6 = BIO$$
 
-**Answer:** 16
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_junior_finale#qj2|src_kangourou_2005_junior_finale__QJ2]]
 
 
 
@@ -104,7 +115,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To divide the regular hexagon into 8 equal parts*
+*Divide a regular hexagon into 8 equal parts*
 
 ![[src_kangourou_2005_junior_finale__probj3.png]]
 
@@ -116,9 +127,13 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure you see a regular hexagon. Can you divide it into 8 parts of equal shape and size? In the case of a negative answer, you must give reasons; in the case of an affirmative answer, explain directly on the figure the subdivision you propose, together with any clarifications you deem appropriate. (see figure)
+> In the figure, you see a regular hexagon. Can you divide it into $8$ parts of equal shape and size? If the answer is no, you must provide a justification; if the answer is yes, illustrate directly on the figure the division you propose, accompanied by any clarifications you deem appropriate. (see figure)
 
-**Answer:** Yes
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_junior_finale#qj3|src_kangourou_2005_junior_finale__QJ3]]
 
 
 
@@ -141,11 +156,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of expansion coefficients of (2x-y+z) ^8*
+*Sum of the coefficients in the expansion of (2x-y+z)^8*
 
-> What is the algebraic sum of all the coefficients (each with its own sign) of the expansion of $(2x - y + z)^8$?
+> What is the algebraic sum of all the coefficients (each with its own sign) in the expansion of $(2x - y + z)^8$?
 
-**Answer:** 256
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2005_junior_finale#qj4|src_kangourou_2005_junior_finale__QJ4]]
 
 
 
@@ -171,13 +190,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of the factorials is not a square but it is divided by 50!*
+*Product of the factorials, not a square, but it divided by 50!*
 
-> For every positive integer $n$, the "factorial of $n$" — denoted by the symbol $n!$ — is the product of all integers from $1$ to $n$ inclusive, each considered once and only once (thus we have $1! = 1$, $2! = 2$, $3! = 6$, $4! = 24$ and so on). Show that the product
+> For each positive integer $n$, the "factorial of $n$"—denoted by the symbol $n!$—is defined as the product of all integers from $1$ to $n$ inclusive, each considered exactly once (thus we have $1! = 1$, $2! = 2$, $3! = 6$, $4! = 24$, and so on). Show that the product
 > $$1! \times 2! \times \cdots \times 99! \times 100!$$
-> of the factorials of the first $100$ positive integers is not a perfect square, but its quotient by $50!$ is.
+> of the factorials of the first $100$ positive integers is not a perfect square, but its quotient by $50!$ is a perfect square.
 
-**Answer:** proof
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_junior_finale#qj5|src_kangourou_2005_junior_finale__QJ5]]
 
 
 
@@ -224,7 +248,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Greek cross on a 7x7 chessboard without corners*
+*Greek cross on a 7x7 checkerboard with no corners*
 
 ![[src_kangourou_2005_junior_finale__probj6.png]]
 
@@ -247,8 +271,13 @@ level: kangourou
 \end{document}
 ```
 
-> Consider a chessboard $7 \times 7$ from which the $4$ corner boxes have been removed; call **Greek cross** any configuration of $5$ of its boxes arranged in a cross so that each box has at least one side in common with another box of the cross (so each cross has $4$ equal arms each made up of one box). Show that it is possible to arrange $45$ integers (not necessarily all of them different from each other) on the remaining $45$ boxes, one per box, so that the total sum of these integers is negative, but the sum of the numbers corresponding to the boxes covered by any Greek cross is positive.
-> 
-> (Hint: identify a conveniently small set $S$ of boxes with the property that each Greek cross covers at least one box belonging to $S$.)
+> Consider a chessboard $7 \times 7$ from which the $4$ corner squares have been removed; call a **Greek cross** any configuration of $5$ of its squares arranged in the shape of a cross such that each square shares at least one side with another square of the cross (so each cross has $4$ arms of equal length, each consisting of a single square). Prove that it is possible to place $45$ integers (not necessarily all distinct) on the $45$ remaining squares, one integer per square, in such a way that the total sum of these integers is negative, but the sum of the numbers corresponding to the squares covered by any Greek cross is positive.
+>
+> (Hint: identify a suitably small $S$ set of squares with the property that every Greek cross covers at least one square belonging to $S$.)
 
-**Answer:** proof
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_junior_finale#qj6|src_kangourou_2005_junior_finale__QJ6]]

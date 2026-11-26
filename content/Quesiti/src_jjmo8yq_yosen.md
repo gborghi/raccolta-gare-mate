@@ -29,9 +29,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un numero a due cifre rimane a 3 cifre dopo essere moltiplicato per 7 due volte*
+*Un numero a due cifre rimane a tre cifre dopo essere stato moltiplicato per 7 due volte*
 
-> C'è un intero positivo a due cifre. Quando viene moltiplicato per $7$, diventa un numero a tre cifre. Quando viene moltiplicato di nuovo per $7$, è ancora un numero a tre cifre. Quanti valori sono possibili per il numero intero originale?
+> Esiste un numero intero positivo di due cifre. Quando viene moltiplicato per $7$, diventa un numero di tre cifre. Quando viene di nuovo moltiplicato per $7$, rimane comunque un numero di tre cifre. Quanti valori sono possibili per il numero intero originale?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo8yq_yosen#q01|src_jjmo8yq_yosen__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scegli una carta per costume in modo che la somma sia multiplo di 7*
+*Scegli una carta per ogni seme in modo che la somma sia un multiplo di 7*
 
-> Ci sono le schede di spade $4$ etichettate con i numeri $1, 2, 3, 4$ (una ciascuna), le schede di cuore $6$ etichettate con i numeri $1, 2, 3, \ldots, 6$ (una ciascuna) e le schede di diamante $8$ etichettate con i numeri $1, 2, 3, \ldots, 8$ (una ciascuna). Quando una carta viene scelta da ciascuna combinazione, per un totale di carte $3$, in quanti modi può essere fatta la scelta in modo che la somma dei numeri sulle carte $3$ scelte sia un multiple di $7$?
+> Ci sono $4$ carte di picche contrassegnate dai numeri $1, 2, 3, 4$ (una per ciascuna), $6$ carte di cuori contrassegnate dai numeri $1, 2, 3, \ldots, 6$ (una per ciascuna), e $8$ carte di quadri contrassegnate dai numeri $1, 2, 3, \ldots, 8$ (una per ciascuna). Quando si sceglie una carta per ogni seme, per un totale di $3$ carte, in quanti modi si può effettuare la scelta in modo che la somma dei numeri sulle $3$ carte scelte sia un multiplo di $7$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo8yq_yosen#q02|src_jjmo8yq_yosen__Q02]]
 
 
 
@@ -81,11 +95,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato con punti di divisione interna; trovare lunghezza BV*
+*Quadrato con punti di divisione interni; trovare la lunghezza BV*
 
-> C'è un quadrato $ABCD$ con lunghezza laterale $3$. $P$ sia il punto di divisione $AB$ nel rapporto $2:1$. $Q, R$ siano i punti che dividono $CD$ nei rapporti $1:2$ e $2:1$ rispettivamente. $S, T$ siano i punti che dividono $DA$ nei rapporti $1:2$ e $2:1$ rispettivamente. Il $U$ è l'intersezione della linea $PR$ e della linea $QT$, e il $V$ è l'intersezione della linea $SU$ e della linea $BC$. Trova la lunghezza del segmento $BV$.
+> C'è un quadrato $ABCD$ con lato di lunghezza $3$. Sia $P$ il punto che divide $AB$ nel rapporto $2:1$. Siano $Q, R$ i punti che dividono $CD$ nei rapporti $1:2$ e $2:1$ rispettivamente. Siano $S, T$ i punti che dividono $DA$ nei rapporti $1:2$ e $2:1$ rispettivamente. Sia $U$ l'intersezione della retta $PR$ con la retta $QT$, e sia $V$ l'intersezione della retta $SU$ con la retta $BC$. Determinare la lunghezza del segmento $BV$.
 
 ![[src_jjmo8yq_yosen__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo8yq_yosen#q03|src_jjmo8yq_yosen__Q03]]
 
 
 
@@ -108,9 +129,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*M a tre cifre, n differente in una cifra, n multiple di m*
+*m e n a tre cifre, che differiscono per una cifra, n multiplo di m*
 
-> Esistono numeri interi positivi a tre cifre $m, n$ in modo tale che $m$ e $n$ differiscono esattamente in una cifra (nella stessa posizione). Inoltre, $n$ è un multiple di $m$. Quante coppie $(m, n)$ sono possibili?
+> Esistono numeri interi positivi di tre cifre $m, n$ tali che $m$ e $n$ differiscono per esattamente una cifra (nella stessa posizione). Inoltre, $n$ è un multiplo di $m$. Quante coppie $(m, n)$ sono possibili?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo8yq_yosen#q04|src_jjmo8yq_yosen__Q04]]
 
 
 
@@ -133,9 +161,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio di coppie con sqrt(2)n < m, dato il conteggio per m<sqrt(2)n<2m*
+*Conta le coppie per cui sqrt(2)n < m, dato il conteggio per m<sqrt(2)n<2m*
 
-> È noto che il numero di coppie $(m, n)$ di integri positivi al massimo $100$ soddisfa $m < \sqrt{2}\,n < 2m$ è esattamente $2958$. Quante coppie $(m, n)$ di integri positivi al massimo $100$ soddisfano $\sqrt{2}\,n < m$?
+> È noto che il numero di coppie $(m, n)$ di interi positivi al più $100$ che soddisfano $m < \sqrt{2}\,n < 2m$ è esattamente $2958$. Quante coppie $(m, n)$ di interi positivi al più $100$ soddisfano $\sqrt{2}\,n < m$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo8yq_yosen#q05|src_jjmo8yq_yosen__Q05]]
 
 
 
@@ -158,9 +193,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scala di equilibrio: rimuovere i pesi dalla vasca inferiore fino a che non siano bilanciati e svuotati*
+*Bilancia a due piatti: rimuovi i pesi dal piatto inferiore finché la bilancia non è in equilibrio e il piatto non è vuoto*
 
-> C'è una scala di equilibrio. Sul pannello sinistro ci sono pesi di massa $22, 24, 26, 28$ (uno ciascuno) e sul pannello destro ci sono pesi di massa $23, 25, 27, 29$ (uno ciascuno). La padella la cui massa totale dei pesi su di essa è più grande punta verso il basso; quando i totali sono uguali, la scala si bilancia. A ogni momento, un peso viene rimosso dalla padella che è attualmente inclinata verso il basso; questo viene ripetuto fino a quando la scala si bilancia. In quanti modi si possono effettuare le rimozioni in modo che, al momento in cui le bilanci della bilancia sono state eliminate tutte le pesate?
+> C'è una bilancia a due piatti. Sul piatto sinistro ci sono pesi di massa $22, 24, 26, 28$ (uno per tipo), e sul piatto destro ci sono pesi di massa $23, 25, 27, 29$ (uno per tipo). Il piatto sul quale la massa totale dei pesi è maggiore scende; quando le masse totali sono uguali, la bilancia resta in equilibrio. Ad ogni istante, da un piatto si rimuove un peso, precisamente da quello che in quel momento è abbassato; si ripete l'operazione finché la bilancia non torna in equilibrio. In quanti modi si possono effettuare le rimozioni affinché, nel momento in cui la bilancia torna in equilibrio, tutti i pesi siano stati rimossi?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo8yq_yosen#q06|src_jjmo8yq_yosen__Q06]]
 
 
 
@@ -185,11 +227,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Eptagone regolare con punti segnati; angolo di ricerca PTS*
+*Eptagono regolare con punti segnati; trova l'angolo PTS*
 
-> C' è un heptagone regolare $ABCDEFG$ con lunghezza laterale $1$. I punti $P, Q, R, S$ si trovano rispettivamente sui segmenti $AB, BC, CD, EF$ e soddisfano $BP = CQ = DR = FS = \frac{1}{3}$. Il segmento $T$ è l'intersezione del segmento $PR$ e del segmento $QS$. Trova la misura di $\angle PTS$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Esiste un eptagono regolare $ABCDEFG$ con lato di lunghezza $1$. I punti $P, Q, R, S$ giacciono rispettivamente sui segmenti $AB, BC, CD, EF$ e soddisfano $BP = CQ = DR = FS = \frac{1}{3}$. Sia $T$ l'intersezione del segmento $PR$ e del segmento $QS$. Determinare la misura di $\angle PTS$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
 ![[src_jjmo8yq_yosen__q07.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo8yq_yosen#q07|src_jjmo8yq_yosen__Q07]]
 
 
 
@@ -219,11 +268,22 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riempire la griglia 3x4 con 1-12 per preservare le relazioni riga/colonna della griglia di riferimento*
+*Riempi una griglia 3x4 con numeri da 1 a 12, preservando le relazioni tra righe e colonne della griglia di riferimento*
 
-> A sinistra è una griglia di righe $4$ e colonne $3$, e a destra è una griglia di righe $3$ e colonne $4$. La griglia sinistra è riempita di numeri come mostrato di seguito, riga per riga: $1,2,3$ / $4,5,6$ / $7,8,9$ / $10,11,12$. La griglia destra è inizialmente vuota. In ogni cella della griglia destra scrivere un intero tra $1$ e $12$ inclusi, in modo che si applichino le seguenti due condizioni: \begin{itemize} \item Se $n$ e $m$ sono scritte nella stessa riga della griglia destra, allora nella griglia sinistra $n$ è anche scritto nella stessa riga come $m$. \item Se $n$ e $m$ sono scritte nella stessa colonna della griglia destra, nella griglia sinistra $n$ è anche scritta nella stessa colonna di $m$. Quanti possibili risultati del riempimento ci sono? (Nota: un numero può essere scritto due o più volte nella griglia destra, e alcuni numeri non devono essere scritti affatto.)
+> A sinistra c'è una griglia di $4$ righe e $3$ colonne, e a destra c'è una griglia di $3$ righe e $4$ colonne. La griglia di sinistra è riempita di numeri come mostrato di seguito, riga per riga: $1,2,3$ / $4,5,6$ / $7,8,9$ / $10,11,12$. La griglia di destra è inizialmente vuota. In ogni cella della griglia di destra scrivi un numero intero compreso tra $1$ e $12$, inclusi, in modo che valgano le due condizioni seguenti:
+> \begin{itemize}
+> \item Se $n$ e $m$ sono scritti nella stessa riga della griglia di destra, allora nella griglia di sinistra anche $n$ è scritto nella stessa riga di $m$. \item Se $n$ e $m$ sono scritti nella stessa colonna della griglia di destra, allora nella griglia di sinistra anche $n$ è scritto nella stessa colonna di $m$.
+> \end{itemize}
+> Quanti risultati possibili ci sono per il riempimento? (Nota: un numero può essere scritto due o più volte nella griglia di destra, e alcuni numeri non devono essere scritti affatto.)
 
 ![[src_jjmo8yq_yosen__q08.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo8yq_yosen#q08|src_jjmo8yq_yosen__Q08]]
 
 
 
@@ -246,9 +306,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta n<=999 con somma di 9n uguale a 27*
+*Conta i numeri n ≤ 999 tali che la somma delle cifre di 9n sia uguale a 27*
 
-> Per un intero positivo $n$, $S(n)$ indica la somma delle cifre di $n$. Trova il numero di integri positivi $n$ al massimo $999$ che soddisfano $S(9n) = 27$.
+> Sia $n$ un numero intero positivo; indichiamo con $S(n)$ la somma delle cifre di $n$. Determinare il numero di numeri interi positivi $n$ non superiori a $999$ che soddisfano $S(9n) = 27$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo8yq_yosen#q09|src_jjmo8yq_yosen__Q09]]
 
 
 
@@ -271,9 +338,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Multiinsiemi possibili di 30 punteggi quando ciascuno dei 3 problemi è risolto da 10*
+*Possibili insiemi multipli di 30 punteggi quando ciascuno dei 3 problemi viene risolto da 10*
 
-> Trenta studenti hanno fatto un test composto da problemi $3$. Risolvere correttamente i problemi vale rispettivamente $1$ punti, $2$ punti e $4$ punti, e una risposta errata vale $0$ punti. Dato che, nei risultati dei test, ciascuno dei problemi $3$ è stato risolto correttamente da studenti $10$, quante possibilità ci sono per la raccolta dei punteggi $30$ degli studenti? (Le collezioni che differiscono solo nell'ordine dei punteggi sono considerate uguali.)
+> Trenta studenti hanno sostenuto un test composto da $3$ problemi. Risolvere correttamente i problemi vale rispettivamente $1$ punti, $2$ punti e $4$ punti, mentre una risposta errata vale $0$ punti. Dato che, nei risultati del test, ciascuno dei $3$ problemi è stato risolto correttamente da esattamente $10$ studenti, quante possibilità ci sono per l'insieme dei punteggi dei $30$ studenti? (Gli insiemi che differiscono solo per l'ordine dei punteggi sono considerati identici.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo8yq_yosen#q10|src_jjmo8yq_yosen__Q10]]
 
 
 
@@ -296,9 +370,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triplici ordinati (a,b,c) <=2010 con a+b+c un multiple di ciascuno*
+*Terne ordinate (a,b,c) ≤ 2010 tali che a+b+c sia multiplo di ciascuno dei tre numeri*
 
-> Quanti triples $(a, b, c)$ di numeri interi positivi al massimo $2010$ esistono tali che $a + b + c$ sia un multiple di ciascuno di $a$, $b$ e $c$? (I tre numeri in cui i tre numeri figurano in ordini diversi vengono contati come distinti.)
+> Quante triple $(a, b, c)$ di interi positivi non superiori a $2010$ esistono tali che $a + b + c$ sia multiplo di ciascuno di $a$, $b$ e $c$? (Le triple in cui i tre numeri compaiono in ordini diversi sono considerate distinte.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo8yq_yosen#q11|src_jjmo8yq_yosen__Q11]]
 
 
 
@@ -321,6 +402,13 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Espresso il circonradio del triangolo APQ attraverso due radii, angolo A=60*
+*Esprimi il circoraggio del triangolo APQ in funzione di due inradii, con angolo A=60*
 
-> C'è un triangolo $ABC$ con $\angle BAC = 60^\circ$. I bisettori di $\angle ABC$ e $\angle ACB$ incontrano la parte $AC$ e $AB$ rispettivamente ai punti $P$ e $Q$. Il $r_1$ deve essere il raggio del triangolo $ABC$ e il $r_2$ deve essere il raggio del triangolo $APQ$. Esprimere il radio circundante del triangolo $APQ$ in termini di $r_1$ e $r_2$.
+> C'è un triangolo $ABC$ con $\angle BAC = 60^\circ$. Le bisettrici di $\angle ABC$ e $\angle ACB$ intersecano i lati $AC$ e $AB$ nei punti $P$ e $Q$, rispettivamente. Sia $r_1$ il raggio inradiato del triangolo $ABC$ e sia $r_2$ il raggio inradiato del triangolo $APQ$. Esprimi il raggio circunradiato del triangolo $APQ$ in funzione di $r_1$ e $r_2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo8yq_yosen#q12|src_jjmo8yq_yosen__Q12]]

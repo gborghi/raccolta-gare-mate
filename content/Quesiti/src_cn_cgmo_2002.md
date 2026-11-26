@@ -29,9 +29,15 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i numeri interi positivi n divisioni 2003n+2002*
+*Trovare tutti gli interi positivi n tali che 2 divide 2003n + 2002*
 
-> Trova tutti gli integri positivi $n$ in modo tale che $2$ divida $2003n + 2002$. (Possibile da Wu Weichao)
+> Trovare tutti gli interi positivi $n$ tali che $2$ divide $2003n + 2002$. (proposto da Wu Weichao)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+
+[[Quesiti/src_cn_cgmo_2002#q01|src_cn_cgmo_2002__Q01]]
 
 
 
@@ -58,13 +64,19 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Programmazione del campo estivo: accordi di servizio con condizione di unicità*
+*Per n = 3 esiste una disposizione, e n è dispari*
 
-> Le ragazze parteciparono a un campo estivo. C'erano tre ragazze che dovevano essere al servizio ogni giorno. Quando il campo estivo è terminato, è stato scoperto che due delle ragazze studenti $3n$ avevano solo una volta di servizio nello stesso giorno.
-> 
-> (1) Quando $n = 3$, esiste un accordo che soddisfi il requisito di cui sopra? Prova la tua conclusione.
-> 
-> (2) Prove che $n$ è un numero odd.
+> $3n$ ($n$ è un intero positivo) studentesse hanno partecipato a un campo estivo. Ogni giorno tre studentesse erano di turno. Al termine del campo estivo si è constatato che due qualunque delle $3n$ studentesse erano state di turno insieme esattamente una volta.
+>
+> (1) Per $n = 3$, esiste una disposizione che soddisfa la richiesta precedente? Dimostrare la conclusione.
+>
+> (2) Dimostrare che $n$ è dispari.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+
+[[Quesiti/src_cn_cgmo_2002#q02|src_cn_cgmo_2002__Q02]]
 
 
 
@@ -87,9 +99,15 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i numeri interi positivi k per l'esistenza triangolare attraverso l'ineguaglianza*
+*Tutti gli interi positivi k tali che la disuguaglianza forza a, b e c a essere i lati di un triangolo*
 
-> Trovare tutti i numeri interi positivi $k$ in modo tale che per tutti i numeri positivi $a$, $b$ e $c$ che soddisfano l'ineguaglianza $k(ab + bc + ca) > 5(a^2 + b^2 + c^2)$, debba esistere un triangolo con $a$, $b$ e $c$ come lunghezze dei suoi tre lati rispettivamente. (Posizionato da Qian Zhanwang)
+> Trovare tutti gli interi positivi $k$ tali che, per qualunque numeri positivi $a$, $b$ e $c$ che soddisfano la disuguaglianza $k(ab + bc + ca) > 5(a^2 + b^2 + c^2)$, esista necessariamente un triangolo avente $a$, $b$ e $c$ come lunghezze dei tre lati rispettivamente. (proposto da Qian Zhanwang)
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_cn_cgmo_2002#q03|src_cn_cgmo_2002__Q03]]
 
 
 
@@ -114,11 +132,17 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circoli che si intersecano: prova l'uguaglianza del rapporto AH/HF = CD/CF*
+*AH/HF = CD/CF*
 
-> I cerchi $O_1$, $O_2$ si incrociano a due punti $B$ e $C$, e $BC$ è il diametro del cerchio $O_1$. Costruire una linea tangente del cerchio $O_1$ a $C$ e un cerchio intersezionante $O_2$ ad un altro punto $A$. Unire $AB$ al cerchio di intersezione $O_1$ al punto $E$, poi unire $CE$ e estendere al cerchio di intersezione $O_2$ al punto $F$. Supponiamo che $H$ sia un punto arbitrario sul segmento $AF$. Estendere $HE$ e estenderlo per incrociare il cerchio $O_1$ al punto $G$, e estendere la linea $HG$ per incrociare l'estensione della linea $AC$ al punto $D$. Prova: $$\frac{AH}{HF} = \frac{CD}{CF}.$$ (postato da Xiong Bin)
+> Le circonferenze $O_1$ e $O_2$ si intersecano in due punti $B$ e $C$, e $BC$ è il diametro della circonferenza $O_1$. Si costruisca la tangente alla circonferenza $O_1$ in $C$, che interseca la circonferenza $O_2$ in un altro punto $A$. Si congiunga $AB$, che interseca la circonferenza $O_1$ nel punto $E$; si congiunga poi $CE$ e lo si prolunghi fino a intersecare la circonferenza $O_2$ nel punto $F$. Sia $H$ un punto arbitrario del segmento $AF$. Si prolunghi $HE$ fino a intersecare la circonferenza $O_1$ nel punto $G$, e si prolunghi la retta $HG$ fino a intersecare il prolungamento della retta $AC$ nel punto $D$. Dimostrare che
+> $$\frac{AH}{HF} = \frac{CD}{CF}.$$
+> (proposto da Xiong Bin)
 
-![[src_cn_cgmo_2002__q04.png]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[src_cn_cgmo_2002__Q04.png]]
 
 
 
@@ -141,9 +165,17 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza della somma di permutazione: dimostra il limite inferiore (n-1)/(n+2)*
+*La somma dei reciproci delle somme di termini consecutivi della permutazione supera (n−1)/(n+2)*
 
-> Supponiamo che $P_1, P_2, \ldots, P_n$ ($n \ge 2$) sia una permutazione arbitraria di $1, 2, \ldots, n$. Prove che $$\frac{1}{P_1 + P_2} + \frac{1}{P_2 + P_3} + \cdots + \frac{1}{P_{n-2} + P_{n-1}} + \frac{1}{P_{n-1} + P_n} > \frac{n-1}{n+2}.$$ (posato da Qiu Zonghu)
+> Sia $P_1, P_2, \ldots, P_n$ ($n \ge 2$) una permutazione arbitraria di $1, 2, \ldots, n$. Dimostrare che
+> $$\frac{1}{P_1 + P_2} + \frac{1}{P_2 + P_3} + \cdots + \frac{1}{P_{n-2} + P_{n-1}} + \frac{1}{P_{n-1} + P_n} > \frac{n-1}{n+2}.$$
+> (proposto da Qiu Zonghu)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
+
+[[Quesiti/src_cn_cgmo_2002#q05|src_cn_cgmo_2002__Q05]]
 
 
 
@@ -166,9 +198,15 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di integri positivi (x,y) con x^y = y^(x-y)*
+*Tutte le coppie di interi positivi (x, y) che soddisfano x^y = y^{x−y}*
 
-> Trova tutte le coppie di integri positivi $(x, y)$ che soddisfano $x^y = y^{x-y}$. (Possibile da Pan Chengbiao)
+> Trovare tutte le coppie di interi positivi $(x, y)$ che soddisfano $x^y = y^{x-y}$. (proposto da Pan Chengbiao)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_cn_cgmo_2002#q06|src_cn_cgmo_2002__Q06]]
 
 
 
@@ -193,11 +231,15 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perimetro del triangolo orizzonte alla metà del perimetro del triangolo acuto*
+*Il perimetro del triangolo delle altezze non supera la metà del perimetro di ABC*
 
-> Un triangolo acuto $ABC$ ha rispettivamente tre altitudini $AD$, $BE$ e $CF$. Prova che il perimetro del triangolo $DEF$ non è superiore alla metà del perimetro del triangolo $ABC$. (Posizionato da Qi Jianxin)
+> Un triangolo acutangolo $ABC$ ha le tre altezze $AD$, $BE$ e $CF$ rispettivamente. Dimostrare che il perimetro del triangolo $DEF$ non supera la metà del perimetro del triangolo $ABC$. (proposto da Qi Jianxin)
 
-![[src_cn_cgmo_2002__q07.png]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+
+[[src_cn_cgmo_2002__Q07.png]]
 
 
 
@@ -222,8 +264,12 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare il numero di permutazioni distinte da proiezioni a 8 punti*
+*Il valore massimo del numero di permutazioni distinte ottenute proiettando otto punti su rette orientate*
 
-> Supponiamo che $A_1, A_2, \ldots, A_8$ siano otto punti presi arbitrariamente su un piano. Per una linea diretta $l$ presa arbitrariamente sul piano, le proiezioni di $A_1, A_2, \ldots, A_8$ sulla linea $l$ sono $P_1, P_2, \ldots, P_8$ secondo la direzione della linea $l$. Abbiamo una permutazione per $1, 2, \ldots, 8$, vale a dire, $i_1, i_2, i_3, i_4, i_5, i_6, i_7, i_8$. Supponiamo che dopo che questi otto punti sono proiettati su ogni linea diretta sul piano, otteniamo il numero di diverse permutazioni come $N_8 = N(A_1, \ldots, A_8)$. Trova il valore massimo di $N_8$. (Posizionato da Su Chun)
+> Siano $A_1, A_2, \ldots, A_8$ otto punti presi arbitrariamente su un piano. Per una retta orientata $l$ presa arbitrariamente sul piano, le proiezioni di $A_1, A_2, \ldots, A_8$ sulla retta $l$ sono $P_1, P_2, \ldots, P_8$ secondo la direzione della retta $l$. Si ottiene una permutazione di $1, 2, \ldots, 8$, ossia $i_1, i_2, i_3, i_4, i_5, i_6, i_7, i_8$. Si supponga che, dopo aver proiettato questi otto punti su ogni retta orientata del piano, il numero delle permutazioni distinte ottenute sia $N_8 = N(A_1, \ldots, A_8)$. Trovare il valore massimo di $N_8$. (proposto da Su Chun)
 
-![[src_cn_cgmo_2002__q08.png]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+
+[[src_cn_cgmo_2002__Q08.png]]

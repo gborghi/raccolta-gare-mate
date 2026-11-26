@@ -22,18 +22,22 @@ level: Purple Comet Middle School
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0005
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.1](https://purplecomet.org/files/2025MSSolutions.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2025MS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.1
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequence going back and forth between 1 and 7*
+*A sequence that runs back and forth between 1 and 7: the 2025th term*
 
-> The first 20 terms of a sequence are $1, 2, 3, 4, 5, 6, 7, 6, 5, 4, 3, 2, 1, 2, 3, 4, 5, 6, 7, 6$, where the terms keep going back and forth between 1 and 7. Find the 2025th term of the sequence.
+> The first 20 terms of a sequence are $1, 2, 3, 4, 5, 6, 7, 6, 5, 4, 3, 2, 1, 2, 3, 4, 5, 6, 7, 6$: the terms continue to go back and forth between 1 and 7. Determine the 2025th term of the sequence.
+
+**Topic:** [[topic_funzionali|Functional equations and sequences]]
 
 **Answer:** 0005
+
+[[Quesiti/src_purple_comet_2025_ms#q01|src_purple_comet_2025_ms__Q01]]
 
 
 
@@ -51,20 +55,24 @@ level: Purple Comet Middle School
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0032
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.1](https://purplecomet.org/files/2025MSSolutions.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2025MS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.1
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grey diagonals in a 5×5 grid*
+*A 5×5 grid with the diagonal squares shaded, total shaded area 18: the area of the white squares*
+
+> In the $5\times5$ grid of squares in the figure, the squares on the diagonals are shaded grey. The total area of the shaded squares is 18. Determine the total area of the white, unshaded squares.
 
 ![[src_purple_comet_2025_ms__prob2.png]]
 
-> The $5 \times 5$ grid of squares shown below has its diagonal squares shaded grey. The total area of the shaded squares is 18. Find the total area of the white squares that are not shaded.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
 
 **Answer:** 0032
+
+[[Quesiti/src_purple_comet_2025_ms#q02|src_purple_comet_2025_ms__Q02]]
 
 
 
@@ -80,18 +88,22 @@ level: Purple Comet Middle School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0096
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.1](https://purplecomet.org/files/2025MSSolutions.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2025MS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.1
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two digits 2 and one digit 5*
+*Positive integers below 10000 with exactly two digits equal to 2 and exactly one digit equal to 5*
 
-> Find the number of positive integers less than 10,000 that contain exactly two digits equal to 2 and exactly one digit equal to 5, such as 2025.
+> Determine how many positive integers less than 10000 contain exactly two digits equal to 2 and exactly one digit equal to 5, such as 2025.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0096
+
+[[Quesiti/src_purple_comet_2025_ms#q03|src_purple_comet_2025_ms__Q03]]
 
 
 
@@ -109,20 +121,24 @@ level: Purple Comet Middle School
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0044
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.2](https://purplecomet.org/files/2025MSSolutions.pdf#page=2)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2025MS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.2
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangles in a 4×4 grid of points*
+*Rectangles, squares included, with vertices at distinct points of a 4×4 grid*
+
+> Determine how many rectangles, squares included, have their four vertices at four distinct points of the $4\times4$ grid in the figure.
 
 ![[src_purple_comet_2025_ms__prob4.png]]
 
-> Find the number of rectangles (including squares) whose four vertices are four distinct points in the following $4 \times 4$ grid.
+**Topic:** [[topic_combinatoria|Combinatorics]]
 
 **Answer:** 0044
+
+[[Quesiti/src_purple_comet_2025_ms#q04|src_purple_comet_2025_ms__Q04]]
 
 
 
@@ -138,18 +154,22 @@ level: Purple Comet Middle School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0048
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.2](https://purplecomet.org/files/2025MSSolutions.pdf#page=2)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2025MS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.2
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Running and cycling*
+*Tarisa runs 12 kilometres in 80 minutes; Pam cycles the same route 6 kilometres per hour faster. How many minutes does Pam take*
 
-> Tarisa ran at a constant speed to complete a 12-kilometer route in 80 minutes. Pam rode her bike along the same route going 6 kilometers per hour faster than Tarisa ran. Find the number of minutes it took Pam to complete the 12 kilometers.
+> Tarisa ran at a constant speed and completed a 12-kilometre course in 80 minutes. Pam cycled the same route at a speed 6 kilometres per hour greater than Tarisa's running speed. Determine how many minutes Pam took to cover the 12 kilometres.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** 0048
+
+[[Quesiti/src_purple_comet_2025_ms#q05|src_purple_comet_2025_ms__Q05]]
 
 
 
@@ -165,18 +185,22 @@ level: Purple Comet Middle School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1145578899
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.2](https://purplecomet.org/files/2025MSSolutions.pdf#page=2)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2025MS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.2
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Digit product equal to 10!*
+*The smallest ten-digit positive integer whose digits multiply to 10!*
 
-> Find the least ten-digit positive integer such that the product of its digits is $10!$.
+> Determine the smallest ten-digit positive integer such that the product of its digits is $10!$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 1145578899
+
+[[Quesiti/src_purple_comet_2025_ms#q06|src_purple_comet_2025_ms__Q06]]
 
 
 
@@ -192,18 +216,22 @@ level: Purple Comet Middle School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0726
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.3](https://purplecomet.org/files/2025MSSolutions.pdf#page=3)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2025MS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.3
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mean of three expressions*
+*The arithmetic mean of a, b and c is 22: the mean of three quadratic expressions in them*
 
-> The arithmetic mean of the real numbers $a$, $b$, and $c$ is 22. Find the arithmetic mean of the numbers $ab+\frac{c^2}{2}$, $bc+\frac{a^2}{2}$, and $ca+\frac{b^2}{2}$.
+> The arithmetic mean of the real numbers $a$, $b$ and $c$ is 22. Determine the arithmetic mean of the numbers $ab+\frac{c^2}{2}$, $bc+\frac{a^2}{2}$ and $ca+\frac{b^2}{2}$.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** 0726
+
+[[Quesiti/src_purple_comet_2025_ms#q07|src_purple_comet_2025_ms__Q07]]
 
 
 
@@ -221,20 +249,26 @@ level: Purple Comet Middle School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0228
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.3](https://purplecomet.org/files/2025MSSolutions.pdf#page=3)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2025MS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.3
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equation in primes*
+*Primes p, q and r with pqr + 2025 = 3(pq + qr + rp): the value of p + q + r*
 
-> Let $p$, $q$, and $r$ be prime numbers such that
-> $$pqr + 2025 = 3(pq + qr + rp).$$
-> Find $p+q+r$.
+> Let $p$, $q$ and $r$ be prime numbers such that
+>
+> $$pqr+2025=3(pq+qr+rp).$$
+>
+> Determine $p+q+r$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0228
+
+[[Quesiti/src_purple_comet_2025_ms#q08|src_purple_comet_2025_ms__Q08]]
 
 
 
@@ -252,20 +286,24 @@ level: Purple Comet Middle School
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1728
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.4](https://purplecomet.org/files/2025MSSolutions.pdf#page=4)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2025MS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.4
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Right triangle with AD = DE*
+*A 75-100-125 right triangle, altitude to the hypotenuse, and a point doubling that altitude: area of the small triangle*
+
+> The right triangle $\triangle ABC$ has sides $AB=75$, $AC=100$ and $BC=125$. The point $D$ lies on $\overline{BC}$ and the point $E$ lies on $\overline{AC}$, so that $\overline{AD}\perp\overline{BC}$ and $AD=DE$. Determine the area of $\triangle ADE$.
 
 ![[src_purple_comet_2025_ms__prob9.png]]
 
-> Right triangle $\triangle ABC$ has sides $AB = 75$, $AC = 100$, and $BC = 125$. Point $D$ lies on $\overline{BC}$ and point $E$ lies on $\overline{AC}$ such that $\overline{AD} \perp \overline{BC}$ and $AD = DE$. Find the area of $\triangle ADE$.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
 
 **Answer:** 1728
+
+[[Quesiti/src_purple_comet_2025_ms#q09|src_purple_comet_2025_ms__Q09]]
 
 
 
@@ -281,18 +319,22 @@ level: Purple Comet Middle School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 75685094
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.4](https://purplecomet.org/files/2025MSSolutions.pdf#page=4)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2025MS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.4
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cryptarithm GEOMETRY*
+*Cryptarithm GEO − MET + RY = 0, distinct digits: the greatest possible value of GEOMETRY*
 
-> The equation $\mathbf{GEO} - \mathbf{MET} + \mathbf{RY} = 0$ shows that zero equals a three-digit integer subtracted from a three-digit integer plus a two-digit integer, where each different letter represents a distinct decimal digit. Find the maximum possible value of the eight-digit number GEOMETRY.
+> The equality $\mathbf{GEO}-\mathbf{MET}+\mathbf{RY}=0$ means that zero equals a three-digit integer minus a three-digit integer plus a two-digit integer, where different letters represent distinct decimal digits. Determine the greatest possible value of the eight-digit number GEOMETRY.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 75685094
+
+[[Quesiti/src_purple_comet_2025_ms#q10|src_purple_comet_2025_ms__Q10]]
 
 
 
@@ -308,18 +350,22 @@ level: Purple Comet Middle School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0440
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.4](https://purplecomet.org/files/2025MSSolutions.pdf#page=4)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2025MS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.4
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Factorial not divisible by 7^72*
+*The largest positive integer n such that n! is not divisible by 7^72*
 
-> Find the greatest positive integer $n$ such that $n!$ is not divisible by $7^{72}$.
+> Determine the largest positive integer $n$ such that $n!$ is not divisible by $7^{72}$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0440
+
+[[Quesiti/src_purple_comet_2025_ms#q11|src_purple_comet_2025_ms__Q11]]
 
 
 
@@ -336,19 +382,24 @@ level: Purple Comet Middle School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0126
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.5](https://purplecomet.org/files/2025MSSolutions.pdf#page=5)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2025MS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.5
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equation with cube roots*
+*The positive real x satisfying 2∛(1 + x/2) + ∛(1 − x) = 3*
 
-> Find the positive real number $x$ for which
+> Determine the positive real number $x$ for which
+>
 > $$2\sqrt[3]{1+\frac{x}{2}}+\sqrt[3]{1-x}=3.$$
 
+**Topic:** [[topic_algebra|Algebra]]
+
 **Answer:** 0126
+
+[[Quesiti/src_purple_comet_2025_ms#q12|src_purple_comet_2025_ms__Q12]]
 
 
 
@@ -364,18 +415,22 @@ level: Purple Comet Middle School
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0108
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.5](https://purplecomet.org/files/2025MSSolutions.pdf#page=5)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2025MS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.5
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four circles*
+*Four circles of radii r, 3r, 5r and 7r with total area 189: the difference between the largest and the smallest area*
 
-> There is a positive real number $r$ such that the combined areas of four circles with radii $r$, $3r$, $5r$, and $7r$ is 189. Find the difference between the areas of the largest and the smallest of the four circles.
+> There exists a positive real number $r$ such that the sum of the areas of four circles of radii $r$, $3r$, $5r$ and $7r$ is 189. Determine the difference between the area of the largest and that of the smallest of the four circles.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
 
 **Answer:** 0108
+
+[[Quesiti/src_purple_comet_2025_ms#q13|src_purple_comet_2025_ms__Q13]]
 
 
 
@@ -391,18 +446,22 @@ level: Purple Comet Middle School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0007
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.6](https://purplecomet.org/files/2025MSSolutions.pdf#page=6)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2025MS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.6
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Divisibility of polynomials in n*
+*The largest positive integer n such that (n² − n + 1)² + n(n − 1)² divides n⁵ − 2100*
 
-> Find the greatest positive integer $n$ such that $(n^2 - n + 1)^2 + n(n-1)^2$ divides $n^5 - 2100$.
+> Determine the largest positive integer $n$ such that $(n^2-n+1)^2+n(n-1)^2$ divides $n^5-2100$.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** 0007
+
+[[Quesiti/src_purple_comet_2025_ms#q14|src_purple_comet_2025_ms__Q14]]
 
 
 
@@ -418,18 +477,22 @@ level: Purple Comet Middle School
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0025
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.6](https://purplecomet.org/files/2025MSSolutions.pdf#page=6)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2025MS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.6
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three cards in arithmetic progression*
+*Three cards drawn from 1 to 12: the probability they can be arranged in arithmetic progression, as m + n*
 
-> Twelve cards are numbered 1 to 12. Three of these cards are selected at random without replacement. The probability that the three cards can be placed in some order so that their numbers form an arithmetic sequence is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.
+> Twelve cards are numbered from 1 to 12. Three of them are drawn at random, without replacement. The probability that the three cards can be arranged in an order in which their numbers form an arithmetic progression is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
 
 **Answer:** 0025
+
+[[Quesiti/src_purple_comet_2025_ms#q15|src_purple_comet_2025_ms__Q15]]
 
 
 
@@ -447,20 +510,26 @@ level: Purple Comet Middle School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0394
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.6](https://purplecomet.org/files/2025MSSolutions.pdf#page=6)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2025MS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.6
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum of a quadratic expression*
+*The greatest value of a quadratic expression in three reals, written as m/n: 10m + n*
 
-> Let $x$, $y$, and $z$ be real numbers. Then the maximum possible value of
+> Let $x$, $y$ and $z$ be real numbers. The greatest possible value of
+>
 > $$(x+1)(4y+1)+(2y+1)(6z+1)+(3z+1)(2x+1)-(x+2y+3z)^2$$
-> can be written as $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $10m+n$.
+>
+> can be written as $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $10m+n$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]], [[topic_algebra|Algebra]]
 
 **Answer:** 0394
+
+[[Quesiti/src_purple_comet_2025_ms#q16|src_purple_comet_2025_ms__Q16]]
 
 
 
@@ -476,18 +545,22 @@ level: Purple Comet Middle School
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0054
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.7](https://purplecomet.org/files/2025MSSolutions.pdf#page=7)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2025MS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.7
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Points with exactly one integer coordinate*
+*Points of the segment from (0, 0, 0) to (18, 24, 30) with exactly one integer coordinate*
 
-> In 3-dimensional coordinate space let $A = (0,0,0)$ and $B = (18,24,30)$. Find the number of points on the line segment $\overline{AB}$ with the property that exactly 1 of the 3 coordinates of the point is integer valued, such as $(0.75, 1, 1.25)$.
+> In three-dimensional space, let $A=(0,0,0)$ and $B=(18,24,30)$. Determine how many points of the segment $\overline{AB}$ have exactly one of their three coordinates an integer, such as $(0.75, 1, 1.25)$.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0054
+
+[[Quesiti/src_purple_comet_2025_ms#q17|src_purple_comet_2025_ms__Q17]]
 
 
 
@@ -503,18 +576,22 @@ level: Purple Comet Middle School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0066
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.7](https://purplecomet.org/files/2025MSSolutions.pdf#page=7)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2025MS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.7
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of reciprocals equal to 1/2*
+*Positive integers m and n with m − n = 18 and a sum of five reciprocals equal to 1/2: the value of m + n*
 
-> There are positive integers $m$ and $n$ such that $m - n = 18$ and $\frac16+\frac17+\frac18+\frac1m+\frac1n=\frac12$. Find $m+n$.
+> There exist positive integers $m$ and $n$ such that $m-n=18$ and $\frac16+\frac17+\frac18+\frac1m+\frac1n=\frac12$. Determine $m+n$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0066
+
+[[Quesiti/src_purple_comet_2025_ms#q18|src_purple_comet_2025_ms__Q18]]
 
 
 
@@ -532,20 +609,24 @@ level: Purple Comet Middle School
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0101
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.8](https://purplecomet.org/files/2025MSSolutions.pdf#page=8)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2025MS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.8
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coloured vertices of two pentagons*
+*Ten vertices of two disjoint pentagons coloured 3 red, 4 white and 3 blue: the probability that no side joins two red vertices or two blue vertices, as m + n*
+
+> The ten vertices of two disjoint pentagons are coloured at random so that there are 3 red vertices, 4 white and 3 blue. The probability that no side of the two pentagons joins two red vertices or two blue vertices is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
 
 ![[src_purple_comet_2025_ms__prob19.png]]
 
-> The ten vertices of two disjoint pentagons are randomly colored so that there are 3 red vertices, 4 white vertices, and 3 blue vertices. The probability that no side of either pentagon connects two red vertices or two blue vertices is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.
+**Topic:** [[topic_probabilita|Probability and statistics]]
 
 **Answer:** 0101
+
+[[Quesiti/src_purple_comet_2025_ms#q19|src_purple_comet_2025_ms__Q19]]
 
 
 
@@ -561,15 +642,19 @@ level: Purple Comet Middle School
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0116
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · [soluzione ufficiale PDF p.8](https://purplecomet.org/files/2025MSSolutions.pdf#page=8)
-**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2025MS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2025/1>) · soluzione ufficiale PDF p.8
+**Fonte:** apri PDF p.4 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sphere and rectangular solid*
+*A 12×16×20 cuboid and a sphere through one face and the centre of the opposite face: total length of the edges inside the sphere*
 
-> A rectangular solid measures $12 \times 16 \times 20$. Let $A$ and $B$ be the opposite $12 \times 16$ rectangular faces. Sphere $S$ passes through the four vertices of face $A$ and the midpoint of face $B$. Find the total length of the parts of the edges of the rectangular solid that lie inside sphere $S$.
+> A rectangular parallelepiped measures $12\times16\times20$. Let $A$ and $B$ be the two opposite faces $12\times16$. The sphere $S$ passes through the four vertices of the face $A$ and through the centre of the face $B$. Determine the total length of the parts of the edges of the parallelepiped that lie inside the sphere $S$.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
 
 **Answer:** 0116
+
+[[Quesiti/src_purple_comet_2025_ms#q20|src_purple_comet_2025_ms__Q20]]

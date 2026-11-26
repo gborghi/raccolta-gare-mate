@@ -38,9 +38,12 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of a2-a1 in arithmetic progression*
+*Value of a2−a1 in an arithmetic progression*
 
-> A sequence of 6 numbers a1, a2, a3, a4, a5, a6 has been chosen so that a2 −a1 = a3 −a2 = a4 −a3 = a5 −a4 = a6 −a5. Knowing that a1 + a2 + a3 = 11 and a4 + a5 + a6 = 32, indicate what the value of a2 − a1 is.
+> A sequence of 6 numbers a1, a2, a3, a4, a5, a6 is chosen so that
+> a2 −a1 = a3 −a2 = a4 −a3 = a5 −a4 = a6 −a5.
+> Knowing that a1 +a2 +a3 = 11 and
+> a4+a5+a6 =32, indicate what the value of a2 −a1 is.
 >
 > - **(A)** 8 3
 > - **(B)** 5 3
@@ -48,7 +51,10 @@ level: triennio
 > - **(D)** 7 3
 > - **(E)** 4 3
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2023_triennio#q01|src_archimede_2023_triennio__Q01]]
 
 
 
@@ -82,17 +88,25 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Any statements on powers of 3 are true*
+*Which of the four statements about x = 3(94) and y = 27(93) are true*
 
-> Given the numbers x = 3(94) and y = 27(93), consider the following 4 statements: (1) x is a perfect square; (2) x·y is a perfect square and cube; (3) y is a perfect square; (4) x is a divisor of y. Of the four above, which is true?
+> Given the numbers x = 3(94) and y = 27(93), consider the following 4 statements:
+> (1) x is a perfect square;
+> (2) x·y is a perfect square and a perfect cube;
+> (3) y is a perfect square;
+> (4) x is a divisor of y.
+> Of the 4 statements above, which are true?
 >
-> - **(A)** la (4)
-> - **(B)** la (2)
-> - **(C)** la (1) e la (2)
-> - **(D)** All four .
-> - **(E)** None of them.
+> - **(A)** statement (4)
+> - **(B)** statement (2)
+> - **(C)** statement (1) and statement (2)
+> - **(D)** all 4
+> - **(E)** none
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2023_triennio#q02|src_archimede_2023_triennio__Q02]]
 
 
 
@@ -126,7 +140,7 @@ level: triennio
 
 *Angle A with B eleven times C in the triangle*
 
-> In an ABC triangle, be D a point on the BC side such that AC = CD. Knowing that AD = DB and that the angle  B is 11 times  C, the width of the angle bA is. . .
+> In triangle ABC, let D be a point on side BC such that AC = CD. Knowing that AD = DB and that the angle "B is 11 times "C, the measure of angle bA is . . .
 >
 > - **(A)** 128°
 > - **(B)** 129°
@@ -134,7 +148,10 @@ level: triennio
 > - **(D)** 130°
 > - **(E)** 132°
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2023_triennio#q03|src_archimede_2023_triennio__Q03]]
 
 
 
@@ -165,9 +182,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times are the tips perpendicular in a day*
+*How many times are the hands perpendicular in a day*
 
-> How many times, over the course of a day (from midnight to midnight) are the hour and minute clock (with a common 12-hour dial) perpendicular?
+> How many times, over the course of a day (from midnight to the next midnight),
+> are the hour hand and the minute hand of a clock (with a common 12-hour dial)
+> positioned perpendicularly?
 >
 > - **(A)** 44
 > - **(B)** 48
@@ -175,7 +194,10 @@ level: triennio
 > - **(D)** 22
 > - **(E)** 46
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2023_triennio#q04|src_archimede_2023_triennio__Q04]]
 
 
 
@@ -209,9 +231,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to arrange 8 blocks of coloured notebooks*
+*Ways of arranging 8 coloured notebooks in blocks*
 
-> Barbara wants to tidy up a shelf in her bookstore, where there are two green notebooks, three blue, two yellow and one red. He wants to arrange them so that notebooks of the same color are all next to each other, with no other colors in between. How many ways can Barbara line up her eight notebooks from left to right on the shelf?
+> Barbara wants to tidy up a shelf in her bookcase, where there are 2 green notebooks, 3 blue, 2 yellow and 1 red.
+> She wants to arrange them so that the notebooks of the same colour are all next to each other, with no other colours in between. In how many ways can Barbara arrange, from left to right, her 8 notebooks in a row on the shelf?
 >
 > - **(A)** 360
 > - **(B)** 144
@@ -219,7 +242,11 @@ level: triennio
 > - **(D)** 96
 > - **(E)** 576
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2023_triennio#q05|src_archimede_2023_triennio__Q05]]
 
 
 
@@ -255,9 +282,15 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What an expression and certainly positive given inequalities*
+*Which expression is certainly positive given the inequalities*
 
-> We know that a < b < c < d are real numbers other than 0 and that 1 b < 1 a < 1 d < 1 c . Which of the following is definitely positive?
+> It is known that a < b < c < d are real numbers different from 0 and that
+> 1
+> b < 1
+> a < 1
+> d < 1
+> c .
+> Which of the following quantities is certainly positive?
 >
 > - **(A)** −a −2b −4c + 3d
 > - **(B)** 2a −b + 3c + 2d
@@ -265,7 +298,11 @@ level: triennio
 > - **(D)** −a + 3b + 4c + 5d
 > - **(E)** a + 2b + 3c + 4d
 
-**Answer:** C
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_casework|Case analysis]], [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2023_triennio#q06|src_archimede_2023_triennio__Q06]]
 
 
 
@@ -300,9 +337,13 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of wages per 301 inhabitants in a circle*
+*Minimum number of pages among 301 people in a circle*
 
-> On an island, every inhabitant can be a knight, who always tells the truth, or a cunning man, who always lies, or a payman, free to lie or tell the truth. According to the island's laws, if more than 10 people gather, there must be at least one knight among them. One day, 301 inhabitants are arranged in a circle and each shouts, "There's a knight and a con man near me". How much is the minimum wage among the 301 people in a circle?
+> On an island, each inhabitant can be a knight, who always tells the truth, or a rogue, who always lies, or a page, free to lie or tell the truth.
+> By the laws of the island, if more than 10 people gather, there must be at least
+> one knight among them. One day, 301 inhabitants are arranged in a circle and each one exclaims:
+> "next to me there is a knight and a rogue". What is, at minimum, the number of
+> pages among the 301 people in the circle?
 >
 > - **(A)** 4
 > - **(B)** 0
@@ -310,7 +351,11 @@ level: triennio
 > - **(D)** 2
 > - **(E)** 1
 
-**Answer:** D
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2023_triennio#q07|src_archimede_2023_triennio__Q07]]
 
 
 
@@ -351,11 +396,14 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Billboard edge point for bouncing*
+*Point on the billiard cushion to pocket with bounces*
 
-![[src_archimede_2023_triennio__prob8.png]]
-
-> Francesco plays on a billiards player measuring 280 × 140 cm. The ball is located in the center of the pool and Francis wants to send it into the hole in the B corner with a trajectory similar to that traced in the figure (the ball bounces forming equal angles with each edge). How many centimeters from A does it take to hit the AB shore to make the trajectory? A B C D
+> Francesco plays on a billiard table of dimensions 280 × 140 cm.
+> The ball is at the centre of the table and Francesco wants to send it into the pocket in corner B along a trajectory like the one drawn in the figure (the ball bounces forming equal angles with each cushion). How many cm from A must he strike the cushion AB to realise the trajectory?
+> A
+> B
+> C
+> D
 >
 > - **(A)** 56
 > - **(B)** 64
@@ -363,7 +411,11 @@ level: triennio
 > - **(D)** 70
 > - **(E)** 42
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2023_triennio#q08|src_archimede_2023_triennio__Q08]]
 
 
 
@@ -396,7 +448,8 @@ level: triennio
 
 *Sequences of 5 integers with abcde+15=0*
 
-> Indicate how many are the ordered sequences of 5 integers (a, b, c, d, e) such that a b c d e + 15 = 0.
+> Indicate how many ordered sequences of 5 integers (a, b, c, d, e) satisfy
+> a b c d e + 15 = 0.
 >
 > - **(A)** 375
 > - **(B)** 400
@@ -404,7 +457,11 @@ level: triennio
 > - **(D)** 320
 > - **(E)** 250
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2023_triennio#q09|src_archimede_2023_triennio__Q09]]
 
 
 
@@ -438,9 +495,13 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trip colours with 4 blue multipliers (4 colours)*
+*Colourings of the strip with multiples of 4 blue (4 colours)*
 
-> Gabriele has a square strip of paper, with side squares of 1 centimeter, length 2023 cm. He wants to mark every inch height, from 0 to 2023, with one of his 4 colored pinheads (red, yellow, green and blue). It will make sure that the multiples of 4, including 0, are all marked in blue and that there are no nearby tiles of the same color. How many different ways will Gabriele be able to achieve the coloring?
+> Gabriele has a gridded strip of paper, with squares of side 1 centimetre,
+> 2023 cm long. He wants to mark each centimetre tick, from 0 to 2023, with one
+> of his 4 coloured pens (red, yellow, green and blue). He will make sure that the multiples
+> of 4, including 0, are all marked blue and that there are no adjacent ticks of the same
+> colour. In how many different ways can Gabriele carry out the colouring?
 >
 > - **(A)** 27 · 21505
 > - **(B)** 27 · 25505
@@ -448,7 +509,11 @@ level: triennio
 > - **(D)** 27 · 18505
 > - **(E)** 27 · 36505
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2023_triennio#q10|src_archimede_2023_triennio__Q10]]
 
 
 
@@ -481,9 +546,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of the game ending 4 to 2*
+*Probability that the match ends 4–2*
 
-> Thomas and Claudia challenge each other by throwing a coin several times: each time he heads out, Thomas makes a point, when he crosses out, Claudia makes a point. As soon as one of the two gets to four, the game is over. What is the probability that the game ends on a score of 4 to 2 (for either of the two)?
+> Tommaso and Claudia challenge each other by tossing a coin several times: each time heads comes up Tommaso scores a point, and each time tails comes up Claudia scores a point. As soon as one of the two reaches 4, the match ends. What is the probability that the match ends with a score of 4–2 (for either of the two)?
 >
 > - **(A)** 15/32
 > - **(B)** 11/32
@@ -491,7 +556,11 @@ level: triennio
 > - **(D)** 3/8
 > - **(E)** 5/16
 
-**Answer:** E
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2023_triennio#q11|src_archimede_2023_triennio__Q11]]
 
 
 
@@ -542,11 +611,29 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ACT angle with tangent parallel to one side*
+*Angle ACT with tangent parallel to a side*
 
-![[src_archimede_2023_triennio__prob12.png]]
-
-> In the triangle ABC, the angles have these amplitudes: bA = 52°,  B = 57°,  C = 71°. The straight t, parallel to the side BC, is tangent to the circumference circumscribed to the triangle at a point T of the arc AB. What is the width of the angle  ACT ? B C t T A B C T t
+> In triangle ABC, the angles have these measures:
+> bA = 52°,
+> “
+> B = 57°,
+> “
+> C = 71°.
+> The line t, parallel
+> to side BC, is tangent to the circumcircle of the
+> triangle at a point T on the arc ˜
+> AB.
+> What is the measure of angle ’
+> ACT ?
+> B
+> C
+> t
+> T
+> A
+> B
+> C
+> T
+> t
 >
 > - **(A)** 6°
 > - **(B)** 8°
@@ -554,7 +641,10 @@ level: triennio
 > - **(D)** 10°
 > - **(E)** 9°
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2023_triennio#q12|src_archimede_2023_triennio__Q12]]
 
 
 
@@ -588,9 +678,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of returning to the pit after 6 random steps*
+*Probability of returning to the burrow after 6 random steps*
 
-> A turtle occasionally takes a walk, starting from its own lair. The pass is made up of one metre straight sections, each in a random direction between North, South, West, East. What are the odds that after a six-meter walk, the turtle will find itself in the ditch again?
+> A turtle sometimes takes a walk, starting from its burrow.
+> The walk is made up of straight segments of one metre, each time in a random direction among North, South, West, East. What is the probability that, after a walk of 6 metres, the turtle is back at the burrow?
 >
 > - **(A)** 1/8
 > - **(B)** 13/128
@@ -598,7 +689,11 @@ level: triennio
 > - **(D)** 9/128
 > - **(E)** 25/256
 
-**Answer:** E
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2023_triennio#q13|src_archimede_2023_triennio__Q13]]
 
 
 
@@ -629,9 +724,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-scaled triangles with vertices of 21 regular zones*
+*Scalene triangles with vertices of a regular 21-gon*
 
-> Considering a regular polygon P of 21 sides, determine how many non-scaling triangles can be constructed using three vertices of the polygon P.
+> Consider a regular polygon P with 21 sides. Determine how many scalene triangles can be constructed using three vertices of the polygon P.
 >
 > - **(A)** 210
 > - **(B)** 231
@@ -639,7 +734,11 @@ level: triennio
 > - **(D)** 189
 > - **(E)** 203
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2023_triennio#q14|src_archimede_2023_triennio__Q14]]
 
 
 
@@ -671,9 +770,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squares crossed by the diagonal of the rectangle 78x114*
+*Squares crossed by the diagonal of a 78×114 rectangle*
 
-> After drawing a rectangle measuring 78 × 114 cm, Chiara divides it into 78·114 = 8892 squares of 1 cm2, then draws a diagonal of the rectangle. How many squares do you cross from the diagonal?
+> After drawing a rectangle with dimensions 78 × 114 cm, Chiara divides it
+> into 78·114 = 8892 1 cm2 squares, then draws a diagonal of the rectangle.
+> How many squares are crossed by the diagonal?
 >
 > - **(A)** 114
 > - **(B)** 186
@@ -681,7 +782,11 @@ level: triennio
 > - **(D)** 162
 > - **(E)** 192
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2023_triennio#q15|src_archimede_2023_triennio__Q15]]
 
 
 
@@ -721,11 +826,16 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of four arcs curved quadrilateral in the square*
+*Area of a curvilinear quadrilateral from four arcs in the square*
 
-![[src_archimede_2023_triennio__prob16.png]]
-
-> The square ABCD has sides equal to 1 dm. How many dm2 does the area of the curved quadrilateral EFGH, bounded by the arcs of 4 circumferences whose centers are the vertices of ABCD, measure? F G H E F G H
+> Square ABCD has side equal to 1 dm. How many dm2 is the area of the curvilinear quadrilateral EFGH, bounded by the arcs of 4 circles whose centres are the vertices of ABCD?
+> F
+> G
+> H
+> E
+> F
+> G
+> H
 >
 > - **(A)** 3π− √ 3 16
 > - **(B)** π− √ 3 4
@@ -733,4 +843,7 @@ level: triennio
 > - **(D)** 1+ π 3 − √ 3
 > - **(E)** 2 − √ 3 311
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2023_triennio#q16|src_archimede_2023_triennio__Q16]]

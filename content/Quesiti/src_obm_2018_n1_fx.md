@@ -35,15 +35,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato di quattro rettangoli congruenti; trovare lunghezze laterali*
+*Quadrato formato da quattro rettangoli congruenti; trovare le lunghezze dei lati*
 
-> Un quadrato è formato da quattro rettangoli congruenti e da un quadrato più piccolo all'interno, come mostrato nella figura. I rettangoli, in grigio, hanno ciascuno un perimetro di 24 cm.
-> 
-> a) Quanti centimetri è il lato del quadrato più grande?
-> 
-> b) Considerare i casi in cui il lato del quadrato interno è un numero intero di centimetri. Quante misure di questo tipo ci sono?
+> Un quadrato è formato da quattro rettangoli congruenti e da un quadrato più piccolo all'interno di esso, come mostrato nella figura. I rettangoli, in grigio, hanno ciascuno un perimetro di 24 cm.
+>
+> a) Quanti centimetri misura il lato del quadrato più grande?
+>
+> b) Si considerino i casi in cui il lato del quadrato interno è un numero intero di centimetri. Quante misure di questo tipo ci sono?
 
 ![[src_obm_2018_n1_fx__q01.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_obm_2018_n1_fx#q01|src_obm_2018_n1_fx__Q01]]
 
 
 
@@ -76,19 +83,26 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze interi: ogni termine è restante mod 9 del prodotto di due precedenti*
+*Successioni di interi: ogni termine è il resto, modulo 9, del prodotto dei due termini precedenti*
 
-> Considerate sequenze di numeri interi che hanno le seguenti due proprietà:
-> 
-> i) I primi due termini sono indicati.
-> 
-> ii) Ogni termine a decorrere dal terzo è il resto della divisione per 9 del prodotto dei due termini precedenti.
-> 
-> a) Qual è il ventesimo termine della sequenza $2, 3, \ldots$?
-> 
-> b) Qual è il termine $2018$ della sequenza $1, 2, \ldots$?
-> 
-> c) Presenta due sequenze il cui termine $2018$ è uguale a 1.
+> Si considerino successioni di interi che possiedono le seguenti due proprietà:
+>
+> i) I primi due termini sono dati.
+>
+> ii) Ogni termine a partire dal terzo è il resto della divisione per 9 del prodotto dei due termini precedenti.
+>
+> a) Qual è il 20º termine della successione $2, 3, \ldots$?
+>
+> b) Qual è il termine $2018$-esimo della successione $1, 2, \ldots$?
+>
+> c) Presenta due successioni il cui $2018$-esimo termine è uguale a 1.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2018_n1_fx#q02|src_obm_2018_n1_fx__Q02]]
 
 
 
@@ -121,19 +135,26 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pablo paga l'albergo ogni giorno utilizzando una catena di 7 collegamenti d'oro*
+*Pablo paga l'oste ogni giorno usando una catena di 7 anelli d'oro*
 
-> Pablo era in viaggio per una mina lontana e arrivò in un ostello dove voleva rimanere per una settimana. Non aveva soldi con sé, ma aveva una catena con 7 anelli d'oro che offriva al padrone dell'ospedale come pagamento per alloggio e cibo. Al proprietario dell'ostella piaceva l'offerta e disse che avrebbe addebitato un collegamento al giorno. Pablo pensò per un po' e disse che se riuscisse a tagliare alcuni anelli della catena, sarebbe stato in grado di effettuare il pagamento giornaliero e alla fine di 7 giorni, l'albergo sarebbe stato in grado di riassemblare l'intera catena.
-> 
+> Pablo stava viaggiando verso una miniera lontana e arrivò in una locanda dove voleva rimanere per una settimana. Non aveva denaro con sé, ma aveva una catena con 7 anelli d'oro che offrì al locandiere come pagamento per alloggio e cibo. Al locandiere piacque l'offerta e disse che avrebbe addebitato 1 anello al giorno. Pablo ci pensò un po' e disse che, se fosse riuscito a tagliare alcuni anelli della catena, avrebbe potuto effettuare il pagamento giornaliero e, al termine dei 7 giorni, il locandiere sarebbe stato in grado di rimontare la catena completa.
+>
 > (Immagina una catena di anelli d'oro come mostrato nella figura.)
-> 
-> a) dimostrare che Pablo poteva effettuare il pagamento di un collegamento al giorno tagliando solo un collegamento della catena. Si noti che può dare al proprietario degli alloggi alcuni link e il proprietario degli alloggi può restituirgli i cambi utilizzando i link precedentemente ricevuti.
-> 
-> Anni dopo Pablo tornò nella stessa locanda, ma ora non aveva più soldi. Questa volta, invece di sette legami, aveva una catena con 21 legami d'oro. La negoziazione con l'albergo si svolse nello stesso modo e Pablo dovette pagare 1 collegamento al giorno; al termine di 3 settimane (21 giorni), l'albergo poteva riassemblare l'intera catena.
-> 
-> b) Qual è il numero minimo di collegamenti che Pablo deve tagliare per effettuare il pagamento giornaliero?
+>
+> a) Dimostrare che Pablo potrebbe effettuare il pagamento di 1 anello al giorno tagliando soltanto 1 anello della catena. Si noti che può dare all'oste alcuni anelli e che l'oste può restituirgli il resto usando gli anelli ricevuti in precedenza.
+>
+> Anni dopo, Pablo tornò nella stessa locanda; ora, però, non aveva denaro. Questa volta, invece di 7 anelli, aveva una catena con 21 anelli d'oro. La trattativa con l'oste avvenne nello stesso modo e Pablo dovette pagare 1 anello al giorno; alla fine di 3 settimane (21 giorni), l'oste poté rimontare la catena completa.
+>
+> b) Qual è il numero minimo di anelli che Pablo dovrebbe tagliare per ottenere il pagamento giornaliero?
 
 ![[src_obm_2018_n1_fx__q03.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2018_n1_fx#q03|src_obm_2018_n1_fx__Q03]]
 
 
 
@@ -164,17 +185,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di passaggio della palla tra quattro giocatori; quanti lanci dopo n passi ritornano a Ana*
+*Gioco di passaggio della palla tra quattro giocatori: quante lanci, dopo n passaggi, tornano ad Ana?*
 
-> Ana, Bruno, Célia e Dirce sono in un parco e decidono di giocare con una palla. Ogni bambino che riceve la palla la passa ad un altro. I diversi modi in cui Ana può passare la palla sono:
-> 
-> a) Tre lanci? Ad esempio, Ana lancia a Bruno, che lancia a Dirce, che lancia di nuovo a Ana.
-> 
-> b) 4 lanci? Ad esempio, Ana lancia a Bruno, che lo rimette a Ana, che lo lancia a Célia, che lo riporta ad Ana.
-> 
+> Ana, Bruno, Célia e Dirce sono in un parco e decidono di giocare con una palla. Ogni bambino che riceve la palla la passa a un altro. I diversi modi in cui Ana può passare la palla sono:
+>
+> a) 3 lanci? Per esempio, Ana lancia a Bruno, che lancia a Dirce, che rilancia ad Ana.
+>
+> b) 4 lanci? Per esempio, Ana lancia a Bruno, che rilancia ad Ana, che lancia a Célia, che lo rimanda ad Ana.
+>
 > c) 10 lanci?
-> 
-> In quanti modi distinti la palla può tornare a Ana dopo ciascuno dei seguenti lanci totali?
+>
+> In quanti modi distinti la palla può tornare da Ana dopo ciascuno dei seguenti numeri totali di lanci?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2018_n1_fx#q04|src_obm_2018_n1_fx__Q04]]
 
 
 
@@ -206,14 +234,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n ×n ×n cubo di unità di cubetti: rosso che si diffonde quotidianamente dal vertice; numerazione*
+*Cubo n×n×n composto da cubi unitari: il rosso si diffonde giornalmente a partire dal vertice; numerazione*
 
-> Un cubo $n \times n \times n$ è formato da cubetti unitari e ha, inizialmente, un cubo unitario rosso ad esattamente uno dei suoi vertici. Ogni giorno a partire dal giorno 2, i cubetti unitari che sono vicini (comparta una faccia) dei cubetti rossi diventano anche rossi e sono numerati con il numero del giorno. Ad esempio, il cubo $2 \times 2 \times 2$: il giorno 1, ha un cubo rosso (numerato 1); il giorno 2, ha quattro cubbi rossi (numerati 1 e tre numerati 2); il giorno 3, ha sette cubbi (uno numerato 1, tre numerati 2, tre numerati 3); il giorno 4, tutti e otto i cubbi sono rossi e numerati. Per rappresentare la numerazione finale possiamo usare le griglie $n$ ciascuna rappresentando uno strato del cubo. Per il cubo $2 \times 2 \times 2$ sopra gli strati sono: $$\begin{array}{|c|c|}\hline 1 & 2 \\ \hline 2 & 3 \\ \hline\end{array} \qquad \begin{array}{|c|c|}\hline 2 & 3 \\ \hline 3 & 4 \\ \hline\end{array}$$
-> 
-> a) Nella figura che segue, abbiamo i quattro strati del cubo $4 \times 4 \times 4$ e i cubi numerati 1 e 2 sono indicati. Copia queste 4 griglie nel tuo libretto di risposte e compila il numero di ciascun cubo unitario.
-> 
-> b) In un cubo $10 \times 10 \times 10$, quanti cubetti unitari del lato 1 sono numerati 7? E quanti sono i 13?
-> 
-> c) In un cubo $n \times n \times n$, quale numero appare più spesso nella numerazione dei cubetti unitari? (La risposta può dipendere da $n$.)
+> Un cubo $n \times n \times n$ è formato da cubi unitari e, inizialmente, presenta un cubo unitario rosso esattamente in uno dei suoi vertici. Ogni giorno a partire dal giorno 2, i cubi unitari adiacenti (che condividono una faccia) ai cubi rossi diventano anch'essi rossi e vengono numerati con il numero del giorno. Ad esempio, il cubo $2 \times 2 \times 2$: il giorno 1 ha un cubo rosso (numerato 1); il giorno 2 ha quattro cubi rossi (uno numerato 1 e tre numerati 2); il giorno 3 ha sette cubi (uno numerato 1, tre numerati 2, tre numerati 3); il giorno 4, tutti e otto i cubi sono rossi e numerati. Per rappresentare la numerazione finale, possiamo utilizzare griglie $n$, ciascuna delle quali rappresenta uno strato del cubo. Per il cubo $2 \times 2 \times 2$ sopra, gli strati sono:
+> $$\begin{array}{|c|c|}\hline 1 & 2 \\ \hline 2 & 3 \\ \hline\end{array} \qquad \begin{array}{|c|c|}\hline 2 & 3 \\ \hline 3 & 4 \\ \hline\end{array}$$
+>
+> a) Nella figura che segue, sono presenti i quattro strati del cubo $4 \times 4 \times 4$ e sono indicati i cubi numerati 1 e 2. Copia queste 4 griglie nel tuo quaderno delle risposte e inserisci il numero di ciascun cubetto unitario.
+>
+> b) In un cubo $10 \times 10 \times 10$, quanti cubetti di lato 1 sono numerati 7? E quanti sono numerati 13?
+>
+> c) In un cubo $n \times n \times n$, quale numero compare più spesso nella numerazione dei cubi unitari? (La tua risposta potrebbe dipendere da $n$.)
 
 ![[src_obm_2018_n1_fx__q05.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2018_n1_fx#q05|src_obm_2018_n1_fx__Q05]]

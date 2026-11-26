@@ -33,13 +33,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsiemi di prime n naturali con metà di somma uguale*
+*Quando $S_n$ si spezza in due o tre sottoinsiemi di somma uguale*
 
-> Per ogni intero positivo $n$, $S_n$ indica l'insieme composto dai primi numeri naturali $n$, cioè $S_n = \{1, 2, 3, \ldots, n-1, n\}$.
-> 
-> (i) Per quali valori di $n$ è possibile esprimere $S_n$ come l'unione di due sottoinsiemi non vuoti dissociati in modo che gli elementi dei due sottoinsiemi abbiano somme uguali?
-> 
-> (ii) Per quali valori di $n$ è possibile esprimere $S_n$ come l'unione di tre sottoinsiemi non vuoti dissociati in modo che gli elementi dei tre sottoinsiemi abbiano somme uguali?
+> Per ogni intero positivo $n$, sia $S_n$ l'insieme dei primi $n$ numeri naturali, cioè $S_n = \{1, 2, 3, \ldots, n-1, n\}$.
+>
+> (i) Per quali valori di $n$ è possibile esprimere $S_n$ come unione di due sottoinsiemi non vuoti e disgiunti in modo che gli elementi dei due sottoinsiemi abbiano somme uguali?
+>
+> (ii) Per quali valori di $n$ è possibile esprimere $S_n$ come unione di tre sottoinsiemi non vuoti e disgiunti in modo che gli elementi dei tre sottoinsiemi abbiano somme uguali?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1999#q01|src_bmo2_1999__Q01]]
 
 
 
@@ -62,9 +69,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Essagono circostato intorno al cerchio; linee simultanee attraverso vertici opposti*
+*Dimostrare che $PY$, $QZ$, $RX$ concorrono*
 
-> Il $ABCDEF$ deve essere un esagono (che potrebbe non essere regolare), che circonscrive un cerchio $S$. Il cerchio $S$ tocca rispettivamente $AB$, $CD$, $EF$ ai loro punti di mezzo $P$, $Q$, $R$. Che $X$, $Y$, $Z$ siano rispettivamente i punti di contatto di $S$ con $BC$, $DE$ e $FA$. Prove che $PY$, $QZ$, $RX$ sono simultanei.
+> Sia $ABCDEF$ un esagono (non necessariamente regolare) circoscritto a una circonferenza $S$. (Cioè $S$ è tangente a ciascuno dei sei lati dell'esagono.) La circonferenza $S$ tocca $AB$, $CD$, $EF$ nei loro punti medi $P$, $Q$, $R$ rispettivamente. Siano $X$, $Y$, $Z$ i punti di contatto di $S$ con $BC$, $DE$, $FA$ rispettivamente. Dimostrare che $PY$, $QZ$, $RX$ concorrono.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_1999#q02|src_bmo2_1999__Q02]]
 
 
 
@@ -88,9 +102,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*P,q,r non negativi che soddisfano p+q+r=1 implicano disuguaglianza*
+*Dimostrare che $7(pq + qr + rp) \le 2 + 9pqr$*
 
-> I valori reali non negativi $p$, $q$ e $r$ soddisfano $p + q + r = 1$. Provare che $$7(pq + qr + rp) \le 2 + 9pqr.$$
+> Numeri reali non negativi $p$, $q$ e $r$ soddisfano $p + q + r = 1$. Dimostrare che
+> $$7(pq + qr + rp) \le 2 + 9pqr.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1999#q03|src_bmo2_1999__Q03]]
 
 
 
@@ -117,10 +139,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri del modulo 3^n+1; divisibilità della somma digitali per 10*
+*Quanto può essere piccola la somma delle cifre di $3^n + n + 1$, e può valere 1999?*
 
-> Considerate tutti i numeri del modulo $3^n + n + 1$, dove $n$ è un intero positivo.
-> 
+> Si considerino tutti i numeri della forma $3^n + n + 1$, dove $n$ è un intero positivo.
+>
 > (i) Quanto può essere piccola la somma delle cifre (in base 10) di un tale numero?
-> 
-> (ii) Un tale numero può avere la somma delle sue cifre (in base 10) pari al 1999?
+>
+> (ii) Un tale numero può avere la somma delle cifre (in base 10) uguale a 1999?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_1999#q04|src_bmo2_1999__Q04]]

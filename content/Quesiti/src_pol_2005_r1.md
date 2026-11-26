@@ -32,9 +32,21 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Risolvere un sistema simmetrico di tre equazioni reali.
+*Sistema di tre equazioni quadratiche: x^2 = yz+1, y^2 = zx+2, z^2 = xy+4*
 
-> Risolvere in numeri reali il sistema $$x^2 = yz + 1$$ $$y^2 = zx + 2$$ $$z^2 = xy + 4.$$
+> Risolvere nei numeri reali il sistema
+>
+> $$x^2 = yz + 1$$
+>
+> $$y^2 = zx + 2$$
+>
+> $$z^2 = xy + 4.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2005_r1#q01|src_pol_2005_r1__Q01]]
 
 
 
@@ -57,9 +69,15 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti n>1 per i quali la somma dei quadrati è una potenza di un primo.*
+*Interi n > 1 per cui la somma dei quadrati da 4 fino a n^2 è una potenza di un primo*
 
-> Trova tutti gli enti $n > 1$ per i quali $2^2 + 3^2 + \cdots + n^2$ è una potenza di un primo.
+> Trovare tutti gli interi $n > 1$ per cui $2^2 + 3^2 + \cdots + n^2$ è una potenza di un primo.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2005_r1#q02|src_pol_2005_r1__Q02]]
 
 
 
@@ -82,9 +100,15 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un triangolo acuto, con un piede di altitudine e un'ulteriore proiezione, dimostrare due linee perpendicolari.*
+*Triangolo acutangolo, proiezioni e un punto che divide DE nel rapporto AD:DB: due rette sono perpendicolari*
 
-> In un angolo acuto $ABC$ punto $D$ è la proiezione di $C$ su $AB$, e $E$ è la proiezione di $D$ su $BC$. Il punto $F$ è preso sul segmento $DE$ in modo che $EF : FD = AD : DB$. Prove che le linee $CF$ e $AE$ sono perpendicolari.
+> In un triangolo acutangolo $ABC$ il punto $D$ è la proiezione di $C$ su $AB$, e $E$ è la proiezione di $D$ su $BC$. Sul segmento $DE$ si prende un punto $F$ in modo che $EF : FD = AD : DB$. Dimostrare che le rette $CF$ e $AE$ sono perpendicolari.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2005_r1#q03|src_pol_2005_r1__Q03]]
 
 
 
@@ -109,9 +133,19 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il più grande valore possibile di un'espressione con due sequenze limitate.*
+*Massimo di una somma di prodotti x_i y_i, con coordinate in [0, 1] e somme limitate da a e da b*
 
-> Sono dati un numero naturale $n$ e numeri reali positivi $a$ e $b$. Trova il valore più grande possibile dell'espressione $$x_1 y_1 + x_2 y_2 + \cdots + x_n y_n,$$ dove $x_i, y_i$ sono numeri dell'intervallo $[0, 1]$ in modo tale che $x_1 + x_2 + \cdots + x_n \le a$ e $y_1 + y_2 + \cdots + y_n \le b$.
+> Sono dati un numero naturale $n$ e numeri reali positivi $a$ e $b$. Trovare il massimo valore possibile dell'espressione
+>
+> $$x_1 y_1 + x_2 y_2 + \cdots + x_n y_n,$$
+>
+> dove $x_i, y_i$ sono numeri dell'intervallo $[0, 1]$ tali che $x_1 + x_2 + \cdots + x_n \le a$ e $y_1 + y_2 + \cdots + y_n \le b$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2005_r1#q04|src_pol_2005_r1__Q04]]
 
 
 
@@ -134,9 +168,15 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale ciclico; due triangoli hanno uguali inradi, dimostrate che anche gli altri due lo fanno.*
+*Quadrilatero inscritto: se i triangoli ABC e BCD hanno cerchi inscritti di raggio uguale, lo stesso vale per CDA e DAB*
 
-> Un quadrilaterale $ABCD$ è inserito in un cerchio e le incircoli dei triangoli $ABC$ e $BCD$ hanno uguali radii. Prove che anche gli incircoli dei triangoli $CDA$ e $DAB$ hanno uguali raggi.
+> Un quadrilatero $ABCD$ è inscritto in una circonferenza, e le circonferenze inscritte dei triangoli $ABC$ e $BCD$ hanno raggi uguali. Dimostrare che anche le circonferenze inscritte dei triangoli $CDA$ e $DAB$ hanno raggi uguali.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2005_r1#q05|src_pol_2005_r1__Q05]]
 
 
 
@@ -161,9 +201,19 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Decidere se una sequenza infinita di numeri interi positivi può soddisfare una ricorrenza reciproca.*
+*Esiste una successione infinita di interi positivi con 1/a_n = 1/a_{n+1} + 1/a_{n+2}?*
 
-> Determinare se esiste una sequenza infinita $a_0, a_1, a_2, \ldots$ di integri positivi che soddisfa $$\frac{1}{a_n} = \frac{1}{a_{n+1}} + \frac{1}{a_{n+2}}$$ per tutti $n \in \mathbb{N}$.
+> Stabilire se esiste una successione infinita $a_0, a_1, a_2, \ldots$ di interi positivi che soddisfi
+>
+> $$\frac{1}{a_n} = \frac{1}{a_{n+1}} + \frac{1}{a_{n+2}}$$
+>
+> per ogni $n \in \mathbb{N}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2005_r1#q06|src_pol_2005_r1__Q06]]
 
 
 
@@ -186,9 +236,15 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre sfere tangenti in coppia toccano un piano; trovare i raggi dal triangolo dei punti di contatto.*
+*Tre sfere a due a due tangenti esternamente, appoggiate a un piano nei vertici di un triangolo di lati a, b, c: trovare i raggi*
 
-> Tre sfere sono in coppia tangenti esternamente e toccano un piano nei punti $A, B, C$. Dato che $BC = a, CA = b, AB = c$, trovare i raggi delle sfere.
+> Tre sfere sono a due a due tangenti esternamente e toccano un piano nei punti $A, B, C$. Sapendo che $BC = a, CA = b, AB = c$, trovare i raggi delle sfere.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2005_r1#q07|src_pol_2005_r1__Q07]]
 
 
 
@@ -211,9 +267,15 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lampi su un cerchio con blocchi di k; trovare k per il quale tutti possono essere spenti.*
+*n lampade su una circonferenza, tutte accese: per quali k, rovesciando k lampade consecutive, si possono spegnere tutte*
 
-> Su un cerchio ci sono lampade $n$, ognuna delle quali può essere accesa o spenta. Si esegue una sequenza di operazioni: in ogni operazione si selezionano le lampade successive $k$ e si cambia lo stato di ciascuna di esse. Inizialmente tutte le lampade sono accese. Per un dato numero intero positivo $n$, trovare tutti i numeri interi positivi $k$ per i quali si possono spegnere tutte le lampade.
+> Su una circonferenza ci sono $n$ lampade, ciascuna accesa o spenta. Si esegue una sequenza di operazioni: a ogni operazione si scelgono $k$ lampade consecutive e si cambia lo stato di ciascuna. All'inizio tutte le lampade sono accese. Per un intero positivo dato $n$, trovare tutti gli interi positivi $k$ per cui si possono spegnere tutte le lampade.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2005_r1#q08|src_pol_2005_r1__Q08]]
 
 
 
@@ -238,9 +300,19 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le a reali in modo che una data sequenza di ricorrenze sia 8-periodico.*
+*Per quali reali a la successione definita da una frazione lineare, a partire da radice di 3, ha periodo 8*
 
-> Determinare tutti i numeri reali $a$ in modo tale che la sequenza $(x_n)$ data da $$x_0 = \sqrt{3}, \quad x_{n+1} = \frac{1 + a x_n}{a - x_n} \quad \text{for } n = 0, 1, 2, \ldots$$ soddisfi la condizione $x_{n+8} = x_n$ per tutti $n \ge 0$.
+> Determinare tutti i numeri reali $a$ tali che la successione $(x_n)$ data da
+>
+> $$x_0 = \sqrt{3}, \quad x_{n+1} = \frac{1 + a x_n}{a - x_n} \quad \text{for } n = 0, 1, 2, \ldots$$
+>
+> soddisfi $x_{n+8} = x_n$ per ogni $n \ge 0$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2005_r1#q09|src_pol_2005_r1__Q09]]
 
 
 
@@ -263,9 +335,15 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre sottoinsiemi casuali di un n-set; trovare la dimensione più probabile della loro intersezione.*
+*Tre sottoinsiemi casuali di un insieme di n elementi: numero più probabile di elementi dell'intersezione*
 
-> Sono stati scelti a caso tre sottoinsiemi $A, B, C$ di un dato set $n$-elemento $X$. Si presume che ognuno dei sottoinsiemi $2^n$ di $X$ sia equiprobabile. Trova il numero più probabile di elementi dell'insieme $A \cap B \cap C$.
+> Si sono scelti a caso tre sottoinsiemi $A, B, C$ di un dato insieme $X$ di $n$ elementi. Si assume che ciascuno dei $2^n$ sottoinsiemi di $X$ sia equiprobabile. Trovare il numero più probabile di elementi dell'insieme $A \cap B \cap C$.
+
+**Topic:** [[topic_probabilita|Probabilità e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2005_r1#q10|src_pol_2005_r1__Q10]]
 
 
 
@@ -288,9 +366,15 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo inciso in un quadrilaterale convexo; perpendicolare attraverso l'intersezione di diagonali dà segmenti uguali.*
+*Quadrilatero circoscritto, incentro non sulla diagonale AC: la perpendicolare a BD per il loro incrocio taglia AI e CI in punti equidistanti*
 
-> Un cerchio con il centro $I$ è inserito in un quadrilaterale converso $ABCD$, dove $I$ non si trova su $AC$. Le diagonali $AC$ e $BD$ si intersecano a $E$. La linea attraverso $E$ perpendicolare a $BD$ incontra rispettivamente le linee $AI$ e $CI$ a $P$ e $Q$. Prove che $PE = EQ$.
+> Una circonferenza di centro $I$ è inscritta in un quadrilatero convesso $ABCD$, e $I$ non giace su $AC$. Le diagonali $AC$ e $BD$ si incontrano in $E$. La retta per $E$ perpendicolare a $BD$ incontra le rette $AI$ e $CI$ in $P$ e $Q$ rispettivamente. Dimostrare che $PE = EQ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2005_r1#q11|src_pol_2005_r1__Q11]]
 
 
 
@@ -313,6 +397,12 @@ Risolvere un sistema simmetrico di tre equazioni reali.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Settima iterazione di 2^x; mostra g(3)-g(0) è divisibile da g(2)-g(0).*
+*Settima iterata di 2^x: g(3) − g(0) è divisibile per g(2) − g(0)*
 
-> Considerate le funzioni $f(x) = 2^x$ e $g(x) = f(f(f(f(f(f(f(x)))))))$ (la settima iterazione di $f$). Indicare che il numero $g(3) - g(0)$ è divisibile per $g(2) - g(0)$.
+> Si considerino le funzioni $f(x) = 2^x$ e $g(x) = f(f(f(f(f(f(f(x)))))))$, la settima iterata di $f$. Dimostrare che il numero $g(3) - g(0)$ è divisibile per $g(2) - g(0)$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2005_r1#q12|src_pol_2005_r1__Q12]]

@@ -32,11 +32,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I piedi dei ceviani sono le altitudini se i rapporti dati sostengono*
+*I piedi delle ceviane sono altezze se e solo se i rapporti dati valgono*
 
-> In un triangolo acuto $ABC$, i punti $D$, $E$, $F$ si trovano rispettivamente sui lati $BC$, $CA$, $AB$ in modo tale che $$\frac{CD}{CE} = \frac{CA}{CB},\quad \frac{AE}{AF} = \frac{AB}{AC},\quad \frac{BF}{BD} = \frac{BC}{BA}.$$ dimostri che $AD$, $BE$, $CF$ sono le altitudini di $ABC$.
+> In un triangolo acuto $ABC$, i punti $D$, $E$, $F$ si trovano sui lati $BC$, $CA$, $AB$ rispettivamente in modo che
+> $$\frac{CD}{CE} = \frac{CA}{CB},\quad \frac{AE}{AF} = \frac{AB}{AC},\quad \frac{BF}{BD} = \frac{BC}{BA}.$$
+> Dimostrare che $AD$, $BE$, $CF$ sono le altezze di $ABC$.
 
 ![[src_rmo_2002__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2002#q01|src_rmo_2002__Q01]]
 
 
 
@@ -60,9 +68,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi l'equazione $(x^2+x-2)^4+(2x^2-x-1)^4=27(x^2-1)^4$*
+*Risolvi l'equazione $(x^2+x-2)^4+(2x^2-x-1)^4=27(x^2-1)^4$*
 
-> Risolvere la seguente equazione per $x$ reale: $$(x^2 + x - 2)^4 + (2x^2 - x - 1)^4 = 27(x^2 - 1)^4.$$
+> Risolvi la seguente equazione rispetto a $x$ reale:
+> $$(x^2 + x - 2)^4 + (2x^2 - x - 1)^4 = 27(x^2 - 1)^4.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2002#q02|src_rmo_2002__Q02]]
 
 
 
@@ -85,9 +101,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra abc divide l'espansione di (a+b+c)^n*
+*Mostra come abc divide lo sviluppo di (a+b+c)^n*
 
-> $a, b, c$ siano integri positivi in modo tale che $a$ divida $b^5$, $b$ divida $c^5$ e $c$ divida $a^5$. Provare che $abc$ divide $(a + b + c)^{31}$.
+> Siano $a, b, c$ numeri interi positivi tali che $a$ divide $b^5$, $b$ divide $c^5$ e $c$ divide $a^5$. Dimostrare che $abc$ divide $(a + b + c)^{31}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2002#q03|src_rmo_2002__Q03]]
 
 
 
@@ -115,11 +138,21 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integri 1..10 suddivisi in due collezioni con condizioni di partizione*
+*Gli interi da 1 a 10 vengono suddivisi in due insiemi con condizioni di partizione*
 
-> Supponiamo che i numeri interi $1, 2, 3, \ldots, 10$ siano divisi in due collette disjointe $a_1, a_2, a_3, a_4, a_5$ e $b_1, b_2, b_3, b_4, b_5$ in modo tale che $$a_1 < a_2 < a_3 < a_4 < a_5,$$ $$b_1 > b_2 > b_3 > b_4 > b_5.$$ (i) Mostri che il numero più grande in qualsiasi coppia $\{a_j, b_j\}$, $1 \le j \le 5$, è almeno $6$.
-> 
-> (ii) Indicare che $|a_1 - b_1| + |a_2 - b_2| + |a_3 - b_3| + |a_4 - b_4| + |a_5 - b_5| = 25$ per ciascuna di tali partizioni.
+> Supponiamo che gli interi $1, 2, 3, \ldots, 10$ siano suddivisi in due insiemi disgiunti, $a_1, a_2, a_3, a_4, a_5$ e $b_1, b_2, b_3, b_4, b_5$, in modo tale che
+> $$a_1 < a_2 < a_3 < a_4 < a_5,$$
+> $$b_1 > b_2 > b_3 > b_4 > b_5.$$
+> (i) Dimostrare che il numero maggiore in ogni coppia $\{a_j, b_j\}$, $1 \le j \le 5$, è almeno $6$.
+>
+> (ii) Dimostrare che $|a_1 - b_1| + |a_2 - b_2| + |a_3 - b_3| + |a_4 - b_4| + |a_5 - b_5| = 25$ per ogni partizione di tal genere.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2002#q04|src_rmo_2002__Q04]]
 
 
 
@@ -144,11 +177,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo diviso da archi quadrilaterali convexi; prova ABCD ciclico*
+*Cerchio diviso da archi di quadrilatero convesso; dimostrare che ABCD è ciclica*
 
-> La circonferenza di un cerchio è divisa in otto archi da un quadrilaterale convex $ABCD$, con quattro archi all'interno del quadrilaterale e i quattro rimanenti all'esterno. Le lunghezze degli archi all'interno del quadrilaterale sono indicate da $p, q, r, s$ in direzione contraria al senso dell'orologio partendo da un certo arco. Supponiamo $p + r = q + s$. Provare che $ABCD$ è un quadrilaterale ciclico.
+> La circonferenza di un cerchio viene suddivisa in otto archi da un quadrilatero convesso $ABCD$; quattro archi giacciono all'interno del quadrilatero e i restanti quattro all'esterno di esso. Le lunghezze degli archi che giacciono all'interno del quadrilatero sono indicate con $p, q, r, s$ in senso antiorario, partendo da un certo arco. Si supponga $p + r = q + s$. Dimostrare che $ABCD$ è un quadrilatero ciclico.
 
 ![[src_rmo_2002__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2002#q05|src_rmo_2002__Q05]]
 
 
 
@@ -172,9 +212,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricercare la doppia disuguaglianza con somma di tipo armonico*
+*Dimostrazione di una doppia disuguaglianza che coinvolge una somma di tipo armonico*
 
-> Per qualsiasi numero naturale $n > 1$, dimostrare la disuguaglianza: $$\frac{1}{2} < \frac{1}{n^2+1} + \frac{2}{n^2+2} + \frac{3}{n^2+3} + \cdots + \frac{n}{n^2+n} < \frac{1}{2} + \frac{1}{2n}.$$
+> Per ogni numero naturale $n > 1$, dimostra la disuguaglianza:
+> $$\frac{1}{2} < \frac{1}{n^2+1} + \frac{2}{n^2+2} + \frac{3}{n^2+3} + \cdots + \frac{n}{n^2+n} < \frac{1}{2} + \frac{1}{2n}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2002#q06|src_rmo_2002__Q06]]
 
 
 
@@ -199,6 +247,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri a,b,c,d che soddisfano due condizioni*
+*Trovare tutti gli interi a, b, c, d che soddisfano due condizioni*
 
-> Trova tutti gli enti $a, b, c, d$ che soddisfano le seguenti relazioni: (i) $1 \le a \le b \le c \le d$; (ii) $ab + cd = a + b + c + d + 3$.
+> Trovare tutti gli interi $a, b, c, d$ che soddisfano le seguenti relazioni: (i) $1 \le a \le b \le c \le d$; (ii) $ab + cd = a + b + c + d + 3$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2002#q07|src_rmo_2002__Q07]]

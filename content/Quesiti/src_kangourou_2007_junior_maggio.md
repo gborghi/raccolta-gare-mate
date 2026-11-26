@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max numbers chosen without a sum that is a multiple of 3*
+*Maximum number of chosen numbers with no sum that is a multiple of 3*
 
-> Consider the integers from $1$ to $25$ included. You want to pick a few so that the sum of any two of those you choose is not a multiple of $3$. How many numbers can you pick?
+> Consider the integers from $1$ to $25$, inclusive. You want to choose some of them so that the sum of any two of the chosen numbers is not a multiple of $3$. What is the maximum number of numbers you can choose?
 
-**Answer:** 10
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_junior_maggio#qj1|src_kangourou_2007_junior_maggio__QJ1]]
 
 
 
@@ -59,13 +64,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shorter route on the cone surface*
+*Shortest path on the surface of the cone*
 
 ![[src_kangourou_2007_junior_maggio__probj2.png]]
 
-> In a straight circular cone the radius of the base circle is $3$ cm and the generatrix $6$ cm. An ant wants to climb the lateral surface of the cone from point $A$ on the base circle to the middle point of the opposite generator $BC$ (see figure). What is the shortest route an ant can take?
+> In a right circular cone, the radius of the base circle is $3$ cm, and the slant height is $6$ cm. An ant wants to climb up the lateral surface of the cone from point $A$ on the base circle to the midpoint $BC$ of the opposite slant height (see figure). What is the length of the shortest path the ant can take?
 
-**Answer:** 3*sqrt5 cm
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_junior_maggio#qj2|src_kangourou_2007_junior_maggio__QJ2]]
 
 
 
@@ -89,11 +98,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers whose ab square ends in ab (automorphic)*
+*Numbers whose square ends in ab (automorphic numbers)*
 
-> The square of a 2-digit number $\overline{ab}$ ends with the same digits $\overline{ab}$. How many and what numbers have this property?
+> The square of a two-digit number $\overline{ab}$ ends with the same digits $\overline{ab}$. How many numbers have this property, and which ones are they?
 
-**Answer:** two: 25 and 76
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_junior_maggio#qj3|src_kangourou_2007_junior_maggio__QJ3]]
 
 
 
@@ -117,11 +131,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Winning strategy in the 52 card game
+*The winning strategy in the 52-card game*
 
-> I have $52$ cards on each of which a positive integer is indicated and the sum of all the numbers is an odd number. I play with a friend like this: after you put all the cards in a row on the table, you remove a card at one end of the row and then you move the hand to the other one who does the same thing; you iterate until there are no more cards on the table. In the end, each player adds the numbers written on the cards he has chosen; the winner is the one whose cards' numbers have the greater sum. Is there a winning strategy for whoever starts the game? If yes, indicate one, if not, provide a reason.
+> I have $52$ cards, each of which bears a positive integer, and the sum of all the numbers indicated is an odd number. I play with a friend in this way: after laying all the cards out in a row on the table, one player removes a card from one end of the row and then passes the turn to the other player, who does the same; this continues until no cards remain on the table. At the end, for each player, the numbers written on the cards they have chosen are added together; the player whose cards have the greater sum of numbers wins. Is there a winning strategy for the player who starts the game? If so, give one such strategy; if not, provide a justification.
 
-**Answer:** yes
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_junior_maggio#qj4|src_kangourou_2007_junior_maggio__QJ4]]
 
 
 
@@ -150,9 +169,13 @@ Winning strategy in the 52 card game
 
 ![[src_kangourou_2007_junior_maggio__probj5.png]]
 
-> Seven circles placed in sequence are tangent to two non-parallel lines and are externally tangent, the first to the second, the second to the third, and so on. If the radius of the smallest is $r$ and that of the largest is $R$, what is the radius of the third?
+> Seven circles arranged in sequence are tangent to two non-parallel lines and are externally tangent to one another: the first to the second, the second to the third, and so on. If the radius of the smallest circle is $r$ and that of the largest is $R$, what is the radius of the third circle?
 
-**Answer:** (R/r)^(1/3) r
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_junior_maggio#qj5|src_kangourou_2007_junior_maggio__QJ5]]
 
 
 
@@ -178,6 +201,11 @@ Winning strategy in the 52 card game
 
 *Number of porous subsets of {1..10}*
 
-> A set $S$ of positive natural numbers is called "porous" if it is empty or does not contain three consecutive integers. How many porous subsets of the $\{1, 2, 3, \ldots, 10\}$ set are there?
+> A set $S$ of positive natural numbers is called "porous" if it is empty or does not contain three consecutive integers. How many porous subsets does the set $\{1, 2, 3, \ldots, 10\}$ have?
 
-**Answer:** 504
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_junior_maggio#qj6|src_kangourou_2007_junior_maggio__QJ6]]

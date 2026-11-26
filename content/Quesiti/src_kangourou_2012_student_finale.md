@@ -28,9 +28,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spheres passing through three non-aligned points in space*
+*Spheres through three non-collinear points in space*
 
-> Assigned three non-aligned points in space, how many spheres pass through these three points? If more than one can pass, how can the radius of the smallest be determined?
+> Given three non-collinear points in space, how many spheres pass through these three points? If more than one can pass through them, how can one determine the radius of the one with the smaller radius?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
+[[Quesiti/src_kangourou_2012_student_finale#q01|src_kangourou_2012_student_finale__Q01]]
 
 
 
@@ -54,11 +60,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Row of dice with the sum of exposed faces equal to 2012*
+*A row of dice with the sum of the exposed faces equal to 2012*
 
 ![[src_kangourou_2012_student_finale__prob2.png]]
 
-> Peter wants to line up a number of traditional dice (the sum of points on opposite faces is always 7), as the figure shows. He glues two faces together only if the number of points on both faces is equal, and it wants to get a row so that the sum of points on all the faces exposed is $2012$. Can he do it, and if so, how many dice does he have to use? (see figure)
+> Pietro wants to line up a certain number of traditional dice (the sum of the dots on opposite faces is always 7), as shown in the figure. He glues two faces together only if the number of dots on the two faces is equal, and he wants to end up with a row such that the sum of the dots on all the exposed faces is $2012$. Can he succeed? If so, how many dice must he use? (see figure)
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_student_finale#q02|src_kangourou_2012_student_finale__Q02]]
 
 
 
@@ -81,9 +93,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colors of 20 tiles with sum rule*
+*Colorings of 20 tiles with a sum rule*
 
-> Twenty tiles are numbered with integers from $1$ to $20$. We want to colour each tile of a single color, white or black, so that the following rule is observed: if two (different) tiles of numbers $m$ and $n$ have the same color and $m + n < 21$, then the tile numbered $m + n$ must also have that color. How many different ways can we assign colors?
+> Twenty tiles are numbered with the integers from $1$ to $20$. We want to color each tile with a single color, either white or black, so that the following rule is obeyed: if two (distinct) tiles with numbers $m$ and $n$ have the same color and $m + n < 21$, then the tile with number $m + n$ must also have that color. In how many different ways can we assign the colors?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_student_finale#q03|src_kangourou_2012_student_finale__Q03]]
 
 
 
@@ -108,11 +127,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Each polyhedron has two faces with the same number of edges*
+*Every polyhedron has two faces with the same number of edges*
 
 ![[src_kangourou_2012_student_finale__prob4.png]]
 
-> Show that each polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces having the same number of edges. Are there any polyhedra that don't have three faces with the same number of edges?
+> Prove that every polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces with the same number of edges. Are there polyhedra that do not have three faces with the same number of edges?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
+[[Quesiti/src_kangourou_2012_student_finale#q04|src_kangourou_2012_student_finale__Q04]]
 
 
 
@@ -135,9 +161,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Subset with sum a multiple of n among n integers*
+*Subset whose sum is a multiple of n among n integers*
 
-> Prove that, however $n \geq 1$ positive integers are assigned, it is always possible to choose some of them so that their sum is a multiple of $n$.
+> Prove that, regardless of how $n \geq 1$ positive integers are assigned, it is always possible to choose some of them so that their sum is a multiple of $n$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_student_finale#q05|src_kangourou_2012_student_finale__Q05]]
 
 
 
@@ -159,6 +192,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Infinite family of nearly disjoint uncountable subsets*
+*Infinite family of pairwise almost-disjoint subsets*
 
-> We denote by $\mathbb{N}$ the set of positive integers. It is known that the set of subsets of $\mathbb{N}$ cannot be given a bi-univocal correspondence with $\mathbb{N}$, but can be given a bi-univocal correspondence with any (non-trivial) interval of the real axis. Let's say that two infinite subsets of $\mathbb{N}$ are "almost disjoint" if they have at most a finite number of elements in common. Prove that there exists an infinite set that cannot be biunivocal with $\mathbb{N}$, the elements of which are subsets of $\mathbb{N}$ pairwise almost disjoint.
+> We denote by $\mathbb{N}$ the set of positive integers. It is known that the set of subsets of $\mathbb{N}$ cannot be put in one-to-one correspondence with $\mathbb{N}$, but can be put in one-to-one correspondence with any (non-trivial) interval of the real line. We say that two infinite subsets of $\mathbb{N}$ are "almost disjoint" if they have at most a finite number of elements in common. Prove that there exists an infinite set that cannot be put in one-to-one correspondence with $\mathbb{N}$, and whose elements are pairwise almost-disjoint subsets of $\mathbb{N}$.
+
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
+[[Quesiti/src_kangourou_2012_student_finale#q06|src_kangourou_2012_student_finale__Q06]]

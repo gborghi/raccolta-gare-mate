@@ -33,11 +33,14 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minutes on the pitch per player, 16 out of 11
+*Minutes on the field per player, 16 out of 11*
 
-> A team of 16 people takes part in a sporting tournament. The rules stipulate that 11 players per team are always present on the pitch and that, during each match (during 90 minutes), all 16 members of each team must play the same number of minutes. How many minutes will each player be on the field during the game? (A) less than 57 (B) between 57 and 60 (C) between 60 and 63 (D) between 63 and 66 (E) more than 66
+> A team of 16 people takes part in a sports tournament. The rules provide that there are always 11 players per team on the field and that, during each match (whose duration is 90 minutes), the 16 members of each team must all play the same number of minutes. For how many minutes will each player be on the field during the match?
+> (A) less than 57 (B) between 57 and 60 (C) between 60 and 63 (D) between 63 and 66 (E) more than 66
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2016_triennio#q01|src_archimede_2016_triennio__Q01]]
 
 
 
@@ -69,9 +72,9 @@ Minutes on the pitch per player, 16 out of 11
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Disambiguations of 4 keypads*
+*Derangements of 4 keyrings*
 
-> Four friends have grown tired of their keys and decide to redistribute them, so that each of them has one different from the one he had before. How many different ways can keys be exchanged?
+> Four friends have grown tired of their keyrings and decide to redistribute them, so that each of them has a different one from the one they had before. In how many different ways can they exchange the keyrings?
 >
 > - **(A)** 9
 > - **(B)** 11
@@ -79,7 +82,11 @@ Minutes on the pitch per player, 16 out of 11
 > - **(D)** 10
 > - **(E)** 8
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2016_triennio#q02|src_archimede_2016_triennio__Q02]]
 
 
 
@@ -109,9 +116,9 @@ Minutes on the pitch per player, 16 out of 11
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum two-digit MCD with product 600000*
+*Greatest common divisor of two numbers with product 600000*
 
-> The product of two natural numbers is 600000. What can be their maximum common divider?
+> The product of two natural numbers is 600000. What can be, at most, their greatest common divisor?
 >
 > - **(A)** 100
 > - **(B)** 3000
@@ -119,7 +126,10 @@ Minutes on the pitch per player, 16 out of 11
 > - **(D)** 200
 > - **(E)** 600
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2016_triennio#q03|src_archimede_2016_triennio__Q03]]
 
 
 
@@ -154,17 +164,21 @@ Minutes on the pitch per player, 16 out of 11
 <div class="qlang-split" data-lang="en"></div>
 
 
-The winner of the contest
+*Who wins the game of halving an even number*
 
-> Alberto, Barbara, Carlo and Daria are playing a game. At the beginning, with a lottery, each is assigned a number: to Alberto 2101 + 2121 + 2180, to Barbara 2100 + 2202 + 2400, to Carlo 2101 + 2109, to Daria 2100 + 2108. Then several rounds are played: in each round, each player halves their number (if it is even), or exits the game (if it is odd). The winner is the last person out of the game (most players may win ex aequo). Who will win the challenge?
+> Alberto, Barbara, Carlo and Daria take part in a game. At the start, by a draw, each of them is assigned a number: Alberto gets 2101 + 2121 + 2180, Barbara 2100 + 2202 + 2400, Carlo 2101 + 2109, and Daria 2100 + 2108. Then several rounds take place: in each round, each player halves their number (if it is even), or leaves the game (if it is odd). Whoever leaves the game last wins (it may be that more than one player ties for the win). Who will win the contest?
 >
-> - **(A)** It 's only Alberto .
-> - **(B)** Albert and Charles
-> - **(C)** Just Barbara .
-> - **(D)** Charles and Daria
+> - **(A)** only Alberto
+> - **(B)** Alberto and Carlo
+> - **(C)** only Barbara
+> - **(D)** Carlo and Daria
 > - **(E)** Barbara and Daria
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2016_triennio#q04|src_archimede_2016_triennio__Q04]]
 
 
 
@@ -196,9 +210,9 @@ The winner of the contest
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three pairs of different coloured knitted or crocheted fabrics*
+*Three pairs with differently coloured jerseys*
 
-> Six people (two in a red shirt, two in a blue shirt, two in a yellow shirt), to play briscola, want to divide themselves into three teams of two people each. In how many ways can they divide, so that the two in each team have different colored jerseys?
+> Six people (two wearing a red jersey, two wearing a light-blue jersey, two wearing a yellow jersey), to play briscola, want to divide themselves into three teams of two people each. In how many ways can they make the division, so that the two in each team have jerseys of different colours?
 >
 > - **(A)** 24
 > - **(B)** 8
@@ -206,7 +220,10 @@ The winner of the contest
 > - **(D)** 4
 > - **(E)** 15
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2016_triennio#q05|src_archimede_2016_triennio__Q05]]
 
 
 
@@ -241,17 +258,21 @@ The winner of the contest
 <div class="qlang-split" data-lang="en"></div>
 
 
-*x-y between races with n and n2 participants*
+*What can be said for certain about x −y*
 
-> Each year the team competition of the Grammar Olympics takes place. A rule requires each team to be made up of as many members as the participating teams that year. In addition, it has been noted that each year the number of participating teams increases exactly by 1. By indicating with x the total number of people participating in the 2016 race and with y the number of people participating in the 2000 race, what can be safely said about the value of x −y?
+> Every year the team contest of the Grammar Olympics is held. A rule requires that each team be made up of as many members as there are teams taking part that year. It has also been observed that each year the number of participating teams increases by exactly 1. Letting x be the total number of people taking part in the 2016 contest and y the number of people taking part in the 2000 contest, what can be said for certain about the value of x −y?
 >
-> - **(A)** Which is divisible by 32.
-> - **(B)** That's a perfect square.
-> - **(C)** That's a prime number.
-> - **(D)** Which is divisible by 101
-> - **(E)** Which is odd.
+> - **(A)** that it is divisible by 32
+> - **(B)** that it is a perfect square
+> - **(C)** that it is a prime number
+> - **(D)** that it is divisible by 101
+> - **(E)** that it is odd
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2016_triennio#q06|src_archimede_2016_triennio__Q06]]
 
 
 
@@ -290,9 +311,11 @@ The winner of the contest
 <div class="qlang-split" data-lang="en"></div>
 
 
-*network points marked/submitted*
+*points from goals scored/conceded*
 
-> A football tournament involves only 4 teams, called A, B, C, D. Each team plays a match each day, and during the tournament, each team meets each other precisely once. After the first two days, Team A suffered 1 net and scored 3, Team B scored 4 net without suffering, Team C scored 1 net without suffering, Team D suffered 7 net without scoring. Taking into account that 3 points are earned for each win, 1 point for each draw and no points in the event of defeat, indicate how many points, respectively, the teams A, B, C, D (in this order) have scored in the first two days.
+> In a football tournament only 4 teams, called A, B, C, D, take part.
+> Each day, each team plays a match and, during the tournament, each
+> team meets every other team exactly once. After the first two days, team A has conceded 1 goal and scored 3, team B has scored 4 goals without conceding any, team C has scored 1 goal without conceding any, team D has conceded 7 goals without scoring any. Taking into account that 3 points are gained for each win, 1 point for each draw and no points in case of defeat, indicate how many points teams A, B, C, D have achieved, respectively, in the first two days (in this order).
 >
 > - **(A)** 4, 6, 1, 0
 > - **(B)** 4, 4, 2, 0
@@ -300,7 +323,11 @@ The winner of the contest
 > - **(D)** 1, 6, 4, 0
 > - **(E)** 3, 4, 4, 0
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2016_triennio#q07|src_archimede_2016_triennio__Q07]]
 
 
 
@@ -333,11 +360,11 @@ The winner of the contest
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region consisting of 4 arcs radius 1*
+*Area of the region formed by 4 arcs of radius 1*
 
-![[src_archimede_2016_triennio__prob9.png]]
-
-> The figure on this side is made up of 4 arcs with congruent circumferences of radius 1. What is the area of the shaded region?
+> The figure on the right is made up of 4 congruent arcs
+> of circles with radius 1. What is the area of the shaded
+> region?
 >
 > - **(A)** 3 −π/4
 > - **(B)** 1 + π/2
@@ -345,7 +372,10 @@ The winner of the contest
 > - **(D)** 2 + π/4
 > - **(E)** 4 −π/2
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2016_triennio#q09|src_archimede_2016_triennio__Q09]]
 
 
 
@@ -379,9 +409,10 @@ The winner of the contest
 <div class="qlang-split" data-lang="en"></div>
 
 
-Common days off of Romeo and Juliet
+*Common free days of Romeo and Giulietta*
 
-> Romeo is off work every Sunday (and no other day). Giulietta works on a cruise ship: she stays at sea for 10 days, then has two days off before boarding again for another 10 days, and so on. Today, Wednesday, November 23, 2016, Giulietta is ashore and will disembark tomorrow. How many days will Romeo and Juliet be able to spend together until November 23, 2017?
+> Romeo is free from work every Sunday (and no other day). Giulietta
+> works on a cruise ship: she stays at sea for 10 days, then has two free days before boarding again for another 10 days, and so on. Today, Wednesday 23 November 2016, Giulietta is on land and will board tomorrow. How many days can Romeo and Giulietta spend together until 23 November 2017?
 >
 > - **(A)** 9
 > - **(B)** 8
@@ -389,7 +420,11 @@ Common days off of Romeo and Juliet
 > - **(D)** 7
 > - **(E)** 5
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2016_triennio#q10|src_archimede_2016_triennio__Q10]]
 
 
 
@@ -418,9 +453,9 @@ Common days off of Romeo and Juliet
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most large prime factor of 3^12-1*
+*Largest prime factor of 3^12-1*
 
-> What's the largest prime factor of 312 minus 1?
+> What is the largest prime factor of 3^12 − 1?
 >
 > - **(A)** 73
 > - **(B)** 36 + 1
@@ -428,7 +463,10 @@ Common days off of Romeo and Juliet
 > - **(D)** 13
 > - **(E)** 949
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2016_triennio#q11|src_archimede_2016_triennio__Q11]]
 
 
 
@@ -458,9 +496,10 @@ Common days off of Romeo and Juliet
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability sum of red dice equal to blue dice*
+*Probability that the sum of the red dice equals the blue die*
 
-> Two red dice and one blue dice are thrown. What is the probability that the sum of the red dice scores is equal to the blue dice score?
+> Two red game dice and one blue die are thrown. What is the probability
+> that the sum of the scores of the red dice equals the score of the blue die?
 >
 > - **(A)** 1/12
 > - **(B)** 2/27
@@ -468,7 +507,10 @@ Common days off of Romeo and Juliet
 > - **(D)** 1/18
 > - **(E)** 5/72
 
-**Answer:** E
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2016_triennio#q12|src_archimede_2016_triennio__Q12]]
 
 
 
@@ -498,7 +540,7 @@ Common days off of Romeo and Juliet
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum root comparison n/(n-1)*
+*Comparison of roots n/(n-1), smallest*
 
 > Which of these numbers is the smallest?
 >
@@ -508,7 +550,11 @@ Common days off of Romeo and Juliet
 > - **(D)** √ 2017 2016
 > - **(E)** √ 2020 2019
 
-**Answer:** E
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2016_triennio#q13|src_archimede_2016_triennio__Q13]]
 
 
 
@@ -546,11 +592,9 @@ Common days off of Romeo and Juliet
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Agreement of the APC angle with the outer angle*
+*Angle APC with an exterior angle*
 
-![[src_archimede_2016_triennio__prob14.png]]
-
-> Given a circumference γ with a centre O and a diameter AB of 12 cm, either C is a point of γ such that A OC = 60°, and either P is a point on the extension of the diameter AB, on the part of B, such that OD = DP (where D is the point of dintersection between PC and γ between C and P). What is the width of the angle A  PC?
+> A circle γ with centre O and diameter AB of length 12 cm is given. Let C be a point on γ such that ∠AOC = 60°, and let P be a point on the extension of the diameter AB, on the side of B, such that OD = DP (where D is the point of intersection of PC and γ between C and P). What is the measure of angle ∠APC?
 >
 > - **(A)** 15°
 > - **(B)** 45° 2
@@ -558,7 +602,11 @@ Common days off of Romeo and Juliet
 > - **(D)** 18°
 > - **(E)** 24° O A B 60° C D P
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2016_triennio#q14|src_archimede_2016_triennio__Q14]]
 
 
 
@@ -590,9 +638,9 @@ Common days off of Romeo and Juliet
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiple years of 12 but not of 60*
+*Multiples of 12 but not of 60*
 
-> Observing the calendar, Chiara realized that the current year 2016 has a peculiarity: place x = 2016 the number of the year, then x + 1 is multiple of 1, x + 2 is multiple of 2, x + 3 is multiple of 3 and x + 4 is multiple of 4, but x + 5 is not multiple of 5. How many other positive integers, smaller than 2016, have the same peculiarity?
+> Observing the calendar, Chiara noticed that the current year 2016 has a particular feature: setting x = 2016 as the year number, then x + 1 is a multiple of 1, x + 2 is a multiple of 2, x + 3 is a multiple of 3 and x + 4 is a multiple of 4, but x + 5 is not a multiple of 5. How many other positive integers, less than 2016, have the same feature?
 >
 > - **(A)** 141
 > - **(B)** 83
@@ -600,7 +648,10 @@ Common days off of Romeo and Juliet
 > - **(D)** 134
 > - **(E)** 149
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2016_triennio#q15|src_archimede_2016_triennio__Q15]]
 
 
 
@@ -635,9 +686,9 @@ Common days off of Romeo and Juliet
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Blink of the circumference of the beam and medium arc*
+*Radius of a circle from an angle bisector and a mean arc*
 
-> Given an EFG triangle, both C and the circumference to it circumscribed. We indicate with X the point of intersection (other than F) of the intersection of the angle E FG with the circumference C and with Y the middle point of the arc EG containing F. Knowing that FX is 12 and FY is 5, how much does the radius of the circumference C measure?
+> Given a triangle EFG, let C be the circle circumscribed about it. Let X be the point of intersection (different from F) of the bisector of angle EFG with the circle C and let Y be the midpoint of the arc EG containing F. Knowing that FX = 12 and FY = 5, what is the radius of the circle C?
 >
 > - **(A)** 9
 > - **(B)** 13/2
@@ -645,7 +696,11 @@ Common days off of Romeo and Juliet
 > - **(D)** 8
 > - **(E)** 11/2
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2016_triennio#q16|src_archimede_2016_triennio__Q16]]
 
 
 
@@ -677,9 +732,10 @@ Common days off of Romeo and Juliet
 <div class="qlang-split" data-lang="en"></div>
 
 
-Part of the perimeter closer to A than to C
+*Part of the perimeter closer to A than to C*
 
-> The sides of an ABC triangle are: AC = BC = 10 cm, AB = 12 cm. How many centimetres does the perimeter part of ABC consist of points for which the distance from A is less than the distance from C?
+> The side lengths of triangle ABC are: AC = BC = 10 cm, AB = 12 cm.
+> How many cm does the part of the perimeter of ABC formed by the points for which the distance from A is less than the distance from C measure?
 >
 > - **(A)** 27/2
 > - **(B)** 16
@@ -687,7 +743,11 @@ Part of the perimeter closer to A than to C
 > - **(D)** 25/2
 > - **(E)** 40/3
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2016_triennio#q17|src_archimede_2016_triennio__Q17]]
 
 
 
@@ -720,9 +780,9 @@ Part of the perimeter closer to A than to C
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A quadrilateral area ABCD double of BEDF*
+*Area of ABCD when BEDF has area 18 cm²*
 
-> For the convex quadrilateral ABCD, the dimensions of the sides AB, BC, CD and DA are known, which are in the order of 4, 9, 6 and 11 cm. If the median points of the sides AB and CD are indicated by E and F, it is also known that the area of the BEDF quadrilateral is 18 cm2. How many cm2 is the area of the quadrilateral ABCD?
+> Of the convex quadrilateral ABCD, the lengths of the sides AB, BC, CD and DA are known; they are, in order, 4, 9, 6 and 11 cm. Letting E and F denote the midpoints of the sides AB and CD, it is also known that the area of the quadrilateral BEDF is 18 cm². How many cm² is the area of the quadrilateral ABCD?
 >
 > - **(A)** 27
 > - **(B)** 36
@@ -730,7 +790,11 @@ Part of the perimeter closer to A than to C
 > - **(D)** more than 50
 > - **(E)** a value between 40 and 50
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2016_triennio#q19|src_archimede_2016_triennio__Q19]]
 
 
 
@@ -767,14 +831,21 @@ Part of the perimeter closer to A than to C
 <div class="qlang-split" data-lang="en"></div>
 
 
-*find n*
+*Value of n when the coefficient of xn−2 is 67*
 
-> Given the integers n and k, with 1 ≤k ≤n, we define a polynomial, of degree n −1, as follows: p(x) = (x + 1)(x + 2)...(x + n) (x + k) . For example, if it was n = 5 and k = 2, we would have p(x) = (x + 1)(x + 3)(x + 4)(x + 5). Suppose that, for a certain choice of n and k, the coefficient of xn−2 in the polynomial p(x) is equal to 67. What is the value of n in that case?
+> Given integers n and k, with 1 ≤k ≤n, we define a polynomial, of degree n −1, as follows:
+> p(x) = (x + 1)(x + 2)...(x + n)
+> (x + k).
+> For example, if n were 5 and k were 2, one would have p(x) = (x + 1)(x + 3)(x + 4)(x + 5). Suppose that, for a certain choice of n and k, the coefficient of xn−2 in the polynomial p(x) is equal to 67. What, in that case, is the value of n?
 >
 > - **(A)** 68
 > - **(B)** 10
 > - **(C)** 12
 > - **(D)** 11
-> - **(E)** 69 T2 Italian Mathematical Union PROJECT OLIMPIADES OF MATHEMATICS Ministry of Education, University and Research Higher Normal School The Archimedean Games - Triennio competition 23 November 2016 • The test consists of 20 problems. Each question shall be followed by five replies indicated by the letters (A), (B), (C), (D) and (E): one of these answers is correct and the other four are incorrect. • Every correct answer is worth 5 points, every wrong answer is worth 0 points, every problem left unanswered is worth 1 point. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. You have 110 minutes to run the test. Good work and good fun! Name of the class: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+> - **(E)** 69
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2016_triennio#q20|src_archimede_2016_triennio__Q20]]

@@ -35,15 +35,22 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum area of folded strip 3cm*
+*Minimum area of folded strip 3 cm*
 
 ![[src_cesenatico_1997__prob1.png]]
 
-> A strip of paper with distant parallel edges $3$ cm is folded so that part of it is partially overlaid with the remaining part (see figure).
-> 
-> What is the minimum area of the shaded area?
-> 
+> A strip of paper with parallel edges spaced $3$ cm apart is folded so that one part of it partially overlaps the remaining part (see figure).
+>
+> What is the minimum area of the shaded region?
+>
 > (see figure)
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_1997#q01|src_cesenatico_1997__Q01]]
 
 
 
@@ -76,19 +83,26 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*f unusual and periodic with symmetrical conditions*
+*f odd and periodic due to symmetry conditions*
 
 ![[src_cesenatico_1997__prob2.png]]
 
-> Whether $f$ is a real function of a real variable that verifies the conditions
-> 
+> Let $f$ be a real-valued function of a real variable that satisfies the conditions
+>
 > $$\text{(i)}\quad f(10 + x) = f(10 - x)$$
-> 
+>
 > $$\text{(ii)}\quad f(20 + x) = -f(20 - x)$$
-> 
-> for each real value of $x$. It is shown that $f$ is **disappears** and **periodic**.
-> 
-> Please note that $f$ is said to be odd if $f(-x) = -f(x)$ for each $x$; $f$ is said to be periodic if $T > 0$ exists such that $f(x + T) = f(x)$ for each $x$.
+>
+> for every real value of $x$. Prove that $f$ is **odd** and **periodic**.
+>
+> Recall that $f$ is said to be odd if $f(-x) = -f(x)$ for every $x$; $f$ is said to be periodic if there exists $T > 0$ such that $f(x + T) = f(x)$ for every $x$.
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_cesenatico_1997#q02|src_cesenatico_1997__Q02]]
 
 
 
@@ -118,15 +132,23 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coloring squares with square/diagonal conditions*
+*Coloring small squares with square/diagonal conditions*
 
 ![[src_cesenatico_1997__prob3.png]]
 
-> Consider the infinite quadrant in the figure, where all squares have sides $1$. Is it possible to colour some of the squares in black so that both of the following properties are satisfied?
-> 
-> - For every natural number $n$, the square with vertices in $O$ and side $n$ (with sides parallel to the axes) has a number of black squares greater than the number of white squares. - On each infinite diagonal of squares parallel to the one shown in the figure, there is at most a finite number of black squares.
-> 
+> Consider the infinite quadrant in the figure, where all the small squares have side length $1$. Is it possible to color some of the small squares black so that both of the following properties hold?
+>
+> - For every natural number $n$, the square with vertex at $O$ and side length $n$ (with sides parallel to the axes) has more black small squares than white small squares.
+> - On every infinite diagonal of small squares parallel to the one shown in the figure, there are at most a finite number of black small squares.
+>
 > (see figure)
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_1997#q03|src_cesenatico_1997__Q03]]
 
 
 
@@ -153,13 +175,20 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of AB-beam tetrahedron and S projection*
+*Volume of the tetrahedron with edge AB and projection S*
 
 ![[src_cesenatico_1997__prob4.png]]
 
-> either $ABCD$ a generic tetrahedron of which the length $a$ of the $AB$ beam and the $S$ area of the tetrahedron projection on a plane perpendicular to the rectum for $A$ and $B$ are known.
-> 
+> Let $ABCD$ be a generic tetrahedron for which the length $a$ of the edge $AB$ and the area $S$ of the projection of the tetrahedron onto a plane perpendicular to the line through $A$ and $B$ are known.
+>
 > Determine the volume of the tetrahedron.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_1997#q04|src_cesenatico_1997__Q04]]
 
 
 
@@ -188,15 +217,22 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum MCD d_n by converting digits of n*
+*Maximum MCD d_n by permuting the digits of n*
 
-> Whether $X$ is the set of natural numbers or based on ten is not written with a single number repeated several times. For each $n \in X$ we define $A_n$ as the set of numbers obtained by permuting in all possible ways the digits of $n$ and $d_n$ being the maximum common divisor of all numbers of $A_n$. For example, if $n = 1230$,
-> 
+> Let $X$ be the set of natural numbers that, in base ten, are not written using a single digit repeated multiple times. For each $n \in X$, define $A_n$ as the set of numbers obtained by permuting the digits of $n$ in all possible ways, and let $d_n$ be the greatest common divisor of all the numbers in $A_n$. For example, if $n = 1230$,
+>
 > $$A_{1230} = \{1230,\, 1203,\, 1320,\, 1302,\, 1023,\, 1032,\, 2130,\, 2103,\, 2310,\, 2301,\, 2013,\, 2031,\ldots\}$$
-> 
-> and $d_{1230} = 3$ ($1$ and $3$ are first among them).
-> 
-> The maximum possible value of $d_n$ shall be determined.
+>
+> and $d_{1230} = 3$ ($1$ and $3$ are coprime).
+>
+> Determine the maximum possible value of $d_n$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_1997#q05|src_cesenatico_1997__Q05]]
 
 
 
@@ -225,12 +261,19 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum cost incurred by rail/air traveller*
+*Minimum expenditure for traveling salesperson, rail/air*
 
 ![[src_cesenatico_1997__prob6.png]]
 
-> A traveller must arrange a trip that allows him to visit all the cities represented in the scheme, starting at $A$ and returning to $A$. The continuous lines represent the railway links between the various cities, and the drawn lines represent the air links. A train ticket from a city to a directly connected city costs $100\,000$ lire, while that plane costs $300\,000$ lire.
-> 
-> What is the minimum expense that the traveller must bear?
-> 
+> A traveling salesman must plan a trip that will allow him to visit all the cities shown in the diagram, starting at $A$ and returning to $A$. The solid lines represent railway connections between the various cities, while the dashed lines represent air connections. A railway ticket from one city to a city directly connected to it costs $100\,000$ lire, whereas an air ticket costs $300\,000$ lire.
+>
+> What is the minimum expense the traveling salesman must incur?
+>
 > (see figure)
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_1997#q06|src_cesenatico_1997__Q06]]

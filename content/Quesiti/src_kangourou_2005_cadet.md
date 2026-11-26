@@ -30,11 +30,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes in half of a third of a quarter of a day*
+*How many minutes half of a third of a quarter of a day lasts*
 
-> How many minutes is half a third of a quarter of a day? A) 20         B) 30        C) 60           D) 120           E) 150
+> How many minutes does half of a third of a quarter of a day last?
+> A) 20
+> B) 30
+> C) 60
+> D) 120
+> E) 150
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2005_cadet#q01|src_kangourou_2005_cadet__Q01]]
 
 
 
@@ -63,13 +71,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Form length of path on cubic surface*
+*The length of the path the ant took*
 
 ![[src_kangourou_2005_cadet__prob2.png]]
 
-> The figure shows a cube with an edge of 12 cm. An ant moves on the surface of the cube from vertex A to vertex B along the trajectory shown in the figure. The length of the path taken by the ant is A) 40 cm B) 48 cm C) 50 cm D) 60 cm E) impossible to determine
+> In the figure a cube is shown whose edge measures 12 cm. An ant moves on the surface of the cube from the vertex A to the vertex B along the path shown in the figure. The length of the path the ant took is
+> A) 40 cm
+> B) 48 cm
+> C) 50 cm
+> D) 60 cm
+> E) impossible to determine
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2005_cadet#q02|src_kangourou_2005_cadet__Q02]]
 
 
 
@@ -99,11 +115,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Papers after five cuts in 10*
+*How many pieces of paper she has at the end*
 
-> Anna cuts a sheet of paper into 10 pieces. Then she takes one of these pieces and cuts it back into 10 pieces and goes on like this three more times (that's a total of 5 times). How many pieces of paper does she end up with? A) 40 B) 45 C) 46 D) 47 E) 50
+> Anna cuts a sheet of paper into 10 pieces. Then she takes one of these pieces and cuts it again into 10 pieces, and she goes on like this for another three times (that is, 5 times in all). How many pieces of paper does she have at the end?
+> A) 40
+> B) 45
+> C) 46
+> D) 47
+> E) 50
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** C
+[[Quesiti/src_kangourou_2005_cadet#q03|src_kangourou_2005_cadet__Q03]]
 
 
 
@@ -131,11 +155,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Percentage of students with bicycles and rollerblades
+*What percentage of the students have both a bicycle and rollerblades*
 
-> 50% of students at the Sobieski School have a bicycle. 30% of them have rollerblades. What percentage of students at the Sobieski School have both bicycles and rollerblades? A) 80% B) 40% C) 25%       D) 20%       E) 15%
+> 50% of the students of Sobieski School have a bicycle. Of these, 30% have rollerblades. What percentage of the students of Sobieski School have both a bicycle and rollerblades?
+> A) 80%
+> B) 40%
+> C) 25%
+> D) 20%
+> E) 15%
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2005_cadet#q04|src_kangourou_2005_cadet__Q04]]
 
 
 
@@ -164,13 +196,21 @@ Percentage of students with bicycles and rollerblades
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum kangaroo movements 2 per row and column*
+*The fewest kangaroos that must change cell*
 
 ![[src_kangourou_2005_cadet__prob5.png]]
 
-> There are eight kangaroos in the drawing boxes on the right. Find the minimum number of kangaroos you need to move to another box if you want every row and column of the table to contain exactly 2 kangaroos. A) 0            B) 1           C)  2         D) 3        E) 4
+> There are 8 kangaroos in the cells of the drawing on the right. Find the smallest number of kangaroos that you need to have change cell if you want every row and every column of the table to contain exactly 2 kangaroos.
+> A) 0
+> B) 1
+> C) 2
+> D) 3
+> E) 4
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2005_cadet#q05|src_kangourou_2005_cadet__Q05]]
 
 
 
@@ -203,18 +243,28 @@ Percentage of students with bicycles and rollerblades
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle A with relations between angles of the triangle*
+*How many degrees the angle at A measures*
 
-> In triangle ABC, the angle at A is three times the angle at B and half the angle at C. How many degrees does the angle at A measure?
+> In a triangle ABC the angle at A measures three times the angle at B and half the angle at C. How many degrees does the angle at A measure?
+> A) 30
+> B) 36
+> C) 54
+> D) 60
+> E) 72
+> B
+> A
+> Cadet_05_D.qxp  21/02/2005  16.10  Page 16
 >
-> (A) 30 (B) 36 (C) 54 (D) 60 (E) 72
-> 
 > Page
 > Page 17
+> 17
 > Kang 2005
 > Kang 2005
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2005_cadet#q06|src_kangourou_2005_cadet__Q06]]
 
 
 
@@ -245,11 +295,19 @@ Percentage of students with bicycles and rollerblades
 <div class="qlang-split" data-lang="en"></div>
 
 
-Ice cream servings with three girls and two boys
+*How many portions of ice cream would have been eaten*
 
-> Two girls and three boys ate a total of 16 servings of ice cream. Every boy ate twice as much as every girl. How many servings of ice cream would three girls and two boys have eaten with the same passion for ice cream? A) 12 B) 13 C) 14 D) 16 E) 17
+> Two girls and three boys ate 16 portions of ice cream in all. Each boy ate twice as much as each girl. How many portions of ice cream would have been eaten by three girls and two boys with the same fondness for ice cream?
+> A) 12
+> B) 13
+> C) 14
+> D) 16
+> E) 17
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2005_cadet#q07|src_kangourou_2005_cadet__Q07]]
 
 
 
@@ -282,13 +340,21 @@ Ice cream servings with three girls and two boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of floor of a room with perpendicular walls*
+*The area of the floor of the room*
 
 ![[src_kangourou_2005_cadet__prob8.png]]
 
-> The drawing represents the floor of a room. Adjacent walls are perpendicular to each other. The letters a and b represent the length of the walls to which they are attached. What's the floor area of the room? A) 8a + 2b B) b2 - a2 C) 3ab - a2 D) 3ab + a2 E) 3ab
+> The drawing shows the plan of a room. Adjacent walls are perpendicular to one another. The letters a and b stand for the length of the walls they are placed beside. What is the area of the floor of the room?
+> A) 8a + 2b
+> B) b2 - a2
+> C) 3ab - a2
+> D) 3ab + a2
+> E) 3ab
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2005_cadet#q08|src_kangourou_2005_cadet__Q08]]
 
 
 
@@ -319,11 +385,19 @@ Ice cream servings with three girls and two boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of poles with first single and then paired crows*
+*How many posts there are in the garden*
 
-> The ravens that live in my garden all rose up in flight; then each crow perched on a different pole, except one that unfortunately found no free poles. After a while, they moved and now they're perched on the poles in pairs and one pole is free. How many poles are in my garden? A) 2 B) 3 C) 4 D) 5 E) 6
+> The crows that live in my garden all took flight; then each crow perched on a different post, except one which unfortunately found no free posts. After a while they moved, and now they are perched on the posts in pairs and one post is left free. How many posts are there in my garden?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2005_cadet#q09|src_kangourou_2005_cadet__Q09]]
 
 
 
@@ -355,11 +429,21 @@ Ice cream servings with three girls and two boys
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum KANGOUROU number with increasing code *
+*The greatest number one can obtain for the word KANGOUROU*
 
-> The sequence of 7 letters AGKNORU (in alphabetical order) is associated with a sequence of 7 digits all different from each other, arranged in increasing order. Each chosen sequence is a code, respecting which a number is associated with the word KANGOUROU. What is the maximum number that can be obtained for the word KANGOUROU by changing the eligible codes? A) 987654321 B) 987654354 C) 536478679 D) 536479879 E) 536454859 Questions from N. 11 to N. 20 are worth 4 points each.
+> To the sequence of 7 letters AGKNORU (in alphabetical order) a sequence of 7 digits, all different from one another, placed in increasing order, is associated. Each sequence chosen is a code, according to which the word KANGOUROU is associated with a number. What is the greatest number that can be obtained for the word KANGOUROU as the allowed codes vary?
+> A) 987654321
+> B) 987654354
+> C) 536478679
+> D) 536479879
+> E) 536454859
+> Questions 11 to 20 are worth 4 points each
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** D
+[[Quesiti/src_kangourou_2005_cadet#q10|src_kangourou_2005_cadet__Q10]]
 
 
 
@@ -424,7 +508,7 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Target score inversely proportional to area*
+*What a hit in region C is worth*
 
 ![[src_kangourou_2005_cadet__prob11.png]]
 
@@ -448,29 +532,29 @@ Maximum KANGOUROU number with increasing code *
 \end{document}
 ```
 
-> Consider the target in the figure: the score
-> that can be obtained is inversely proportional to the area of the region hit. If a hit
-> in region B is worth 10 points, a hit in the
-> region C is worth 
+> Consider the target in the figure: the score one can obtain is inversely proportional to the area of the region hit. If a hit in region B is worth 10 points, a hit in region C is worth
 > A) 5 points
 > B) 8 points
 > C) 16 points
 > D) 20 points
-> E) 24 points 
+> E) 24 points
 > b
 > D
 > C
 > B
 > A
 > Cadet_05_D.qxp  21/02/2005  16.10  Page 17
-> 
-> Pag. 
-> Pag. 18
+>
+> Page
+> Page 18
 > 18
 > Kang 2005
 > Kang 2005
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2005_cadet#q11|src_kangourou_2005_cadet__Q11]]
 
 
 
@@ -500,18 +584,19 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Contribution to cover trip expenses*
+*The contribution each must make*
 
-> A group of classmates is planning a trip. If
-> each contributed 14 euros to the travel expenses, they would have
-> 4 euros less than needed; if instead each of them contributed
-> 16 euros, they would have 6 euros left over. What must each one's contribution be in order to collect exactly the amount needed for the trip? 
+> A group of classmates is planning a trip. If each contributed 14 euros to the travel expenses, they would have 4 euros less than needed; if instead each of them contributed 16 euros, 6 euros would be left over. What must each person's contribution be in order to collect exactly the amount needed for the trip?
 > A) 14.40 euros
-> B) 14.60 euros      C) 14.80 euros
+> B) 14.60 euros
+> C) 14.80 euros
 > D) 15.00 euros
 > E) 15.20 euros
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2005_cadet#q12|src_kangourou_2005_cadet__Q12]]
 
 
 
@@ -559,7 +644,7 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length AB on a grid with Pythagorean theorem*
+*How many metres long AB is*
 
 ![[src_kangourou_2005_cadet__prob13.png]]
 
@@ -577,9 +662,18 @@ Maximum KANGOUROU number with increasing code *
 \end{document}
 ```
 
-> On a grid of square mesh such as the one shown in the figure, two wires are stretched connecting node A with node C and the other with node B. If AC is 3 meters long, how many meters is AB? A) 5 B) C) 13/3 D) E) another number
+> On a grid of square meshes like the one in the figure, two wires are stretched that join the node A, one to the node C and the other to the node B. If AC is 3 m long, how many metres long is AB?
+> A) 5
+> B)
+> C) 13/3
+> D)
+> E) another number
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2005_cadet#q13|src_kangourou_2005_cadet__Q13]]
 
 
 
@@ -611,11 +705,20 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Work days of the guardian until Sunday rest*
+*How many working days pass until the next Sunday off*
 
-> A guard works four days straight and rests the fifth. Today is a day of rest and it is Sunday: what is the number of working days (for the keeper) that run from today to the first Sunday which will again be a day of rest for the keeper? A) 35 B) 30 C) 28 D) 24 E) 7
+> A guard works 4 consecutive days and rests on the fifth. Today is a day of rest and it is Sunday: what is the number of working days (for the guard) that pass from today to the first Sunday that will again be a day of rest for the guard?
+> A) 35
+> B) 30
+> C) 28
+> D) 24
+> E) 7
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2005_cadet#q14|src_kangourou_2005_cadet__Q14]]
 
 
 
@@ -640,13 +743,16 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is not a net of a cube*
+*Which of the following is not the net of a cube*
 
 ![[src_kangourou_2005_cadet__prob15.png]]
 
 > Which of the following is not the net of a cube?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2005_cadet#q15|src_kangourou_2005_cadet__Q15]]
 
 
 
@@ -693,10 +799,9 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Water height in the bucket after 20 l/m2 of rain*
+*How high the water level is in the bucket*
 
-> Last night it rained heavily: 20 liters of rain per square meter fell. How high is the water level in the bucket
-> that I had left, empty and not upside down, in the garden?
+> Last night it rained heavily: 20 litres of rain fell per square metre. How high is the water level in the bucket I had left, empty and not upside down, in the garden?
 > A) 2 mm
 > B) 5 mm
 > C) 1 cm
@@ -714,14 +819,17 @@ Maximum KANGOUROU number with increasing code *
 > D)
 > E)
 > Cadet_05_D.qxp  21/02/2005  16.10  Page 18
-> 
-> Pag. 
-> Pag. 19
+>
+> Page
+> Page 19
 > 19
 > Kang 2005
 > Kang 2005
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_stima|Estimation and approximation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2005_cadet#q16|src_kangourou_2005_cadet__Q16]]
 
 
 
@@ -755,13 +863,21 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle x between equilateral triangle and pentagon*
+*How many degrees the angle marked x measures*
 
 ![[src_kangourou_2005_cadet__prob17.png]]
 
-> An equilateral triangle and a regular pentagon, partially overlapping, are shown in the figure; in particular, one of the sides of the triangle lies on the same straight line as one of the sides of the pentagon. What is the degree of the angle marked with x? A) 136 B) 132 C) 128 D) 124 E) more information is needed
+> In the figure an equilateral triangle and a regular pentagon are shown, partly overlapping; in particular, one of the sides of the triangle lies on the same line as one of the sides of the pentagon. How many degrees does the angle marked x measure?
+> A) 136
+> B) 132
+> C) 128
+> D) 124
+> E) more information is needed
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2005_cadet#q17|src_kangourou_2005_cadet__Q17]]
 
 
 
@@ -791,11 +907,20 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible sum of two numbers with difference 987*
+*Which number can be their sum*
 
-> Clemente chose two integers, one three-digit and one two-digit. Their difference is 987. Which of the following numbers can be their sum? A) 1005          B) 1008 C) 1009 D) 1010 E) 1013
+> Clemente has chosen two integers, one of three digits and one of two digits. Their difference is 987. Which of the following numbers can be their sum?
+> A) 1005
+> B) 1008
+> C) 1009
+> D) 1010
+> E) 1013
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2005_cadet#q18|src_kangourou_2005_cadet__Q18]]
 
 
 
@@ -834,13 +959,21 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Track length on n semicirculars*
+*How long the trace of the pen is*
 
 ![[src_kangourou_2005_cadet__prob19.png]]
 
-> In the figure we have a number of equal circumferences: their centers are aligned and they are pairwise tangent (externally). Starting from the first circle to the left, we alternate the upper and lower semicircles with the pen until we reach the rightmost point in the last circle. What is the length of the pen track, if the number of circles is n and the distance between the outermost points of the first and last is d? A) dn B) πdn C) 2πdn D) πd /2 E) πd
+> In the figure we have a certain number of equal circles: their centres are aligned and they are pairwise tangent (externally). Starting from the first circle on the left, we trace with the pen alternately the upper and lower semicircles, until we reach the rightmost point of the last circle. How long is the trace of the pen, if the number of circles is n and the distance between the farthest points of the first and of the last is d?
+> A) dn
+> B) πdn
+> C) 2πdn
+> D) πd / 2
+> E) πd
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2005_cadet#q19|src_kangourou_2005_cadet__Q19]]
 
 
 
@@ -874,11 +1007,21 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unusual numbers less than 100 with length 3*
+*How many positive odd numbers less than 100 have length 3*
 
-> Let n be a natural number greater than 1: we call length of n the number of factors that appear in the decomposition of n as a product of prime numbers. For example, the length of the number 90=2x3x3x5 is 4. How many odd positive numbers less than 100 have length 3? A) 3 B) 4 C) 5 D) 7 E) other answer to questions from N. 21 al N. 30 is worth 5 points each.
+> Let n be a natural number greater than 1: we call the length of n the number of factors that appear in the factorisation of n as a product of prime numbers. For example, the length of the number 90 = 2x3x3x5 is 4. How many positive odd numbers less than 100 have length 3?
+> A) 3
+> B) 4
+> C) 5
+> D) 7
+> E) another answer
+> Questions 21 to 30 are worth 5 points each
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2005_cadet#q20|src_kangourou_2005_cadet__Q20]]
 
 
 
@@ -944,7 +1087,7 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangle area DBEF with two rectangles*
+*The area of the rectangle DBEF*
 
 ![[src_kangourou_2005_cadet__prob21.png]]
 
@@ -960,8 +1103,7 @@ Maximum KANGOUROU number with increasing code *
 \end{document}
 ```
 
-> The figure shows two rectangles ABCD and DBEF. If AB and AD measure
-> 4 cm and 3 cm respectively, what is the area of rectangle DBEF?
+> In the figure two rectangles ABCD and DBEF are shown. If AB and AD measure 4 cm and 3 cm respectively, what is the area of the rectangle DBEF?
 > A) 10 cm2
 > B) 12 cm2
 > C) 13 cm2
@@ -984,14 +1126,17 @@ Maximum KANGOUROU number with increasing code *
 > 3 cm
 > 4 cm
 > Cadet_05_D.qxp  21/02/2005  16.10  Page 19
-> 
-> Pag. 
-> Pag. 20
+>
+> Page
+> Page 20
 > 20
 > Kang 2005
 > Kang 2005
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2005_cadet#q21|src_kangourou_2005_cadet__Q21]]
 
 
 
@@ -1021,11 +1166,21 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum of the largest with an average of 10 of 10 integers*
+*Maximum of the greatest with an average of 10 out of 10 whole numbers*
 
-> The arithmetic mean of 10 different positive integers is 10. What is the maximum value of the largest of these 10 numbers? A) 10 B) 45 C) 50 D) 55 E) 91
+> The arithmetic mean of 10 distinct positive integers is 10. What is the maximum possible value of the largest of these 10 numbers?
+> A) 10
+> B) 45
+> C) 50
+> D) 55
+> E) 91
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_cadet#q22|src_kangourou_2005_cadet__Q22]]
 
 
 
@@ -1059,9 +1214,18 @@ Maximum KANGOUROU number with increasing code *
 
 *Wine remaining after three substitutions with water*
 
-> There's 64 liters of wine in a barrel. Let's replace 16 liters of wine with 16 liters of water: let's say the two substances mix evenly and the volume of the mixture is the sum of the two volumes. Now we replace 16 liters of the mixture with 16 liters of water: we wait for the two substances to mix and then we repeat the operation again. In the end, how many liters of wine (obviously mixed with water) are left in the barrel? A) 30 B) 24 C) 16 D) 27 E) 48
+> There are 64 liters of wine in a barrel. We replace 16 liters of wine with 16 liters of water: let's assume the two substances mix uniformly and that the volume of the mixture is the sum of the two volumes. Now we replace 16 liters of the mixture with 16 liters of water: we wait for the two substances to mix and repeat the operation once more. In the end, how many liters of wine (obviously mixed with water) remain in the barrel?
+> A) 30
+> B) 24
+> C) 16
+> D) 27
+> E) 48
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2005_cadet#q23|src_kangourou_2005_cadet__Q23]]
 
 
 
@@ -1096,13 +1260,24 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of ten angles on five lines through P*
+*Sum of the ten angles on five lines through P*
 
 ![[src_kangourou_2005_cadet__prob24.png]]
 
-> Five different lines pass through the same point P and two points are fixed on each of them, different from P and opposite to P: the five triangles shown in the figure are obtained by conveniently joining the ten points in question. How many degrees does the sum of the ten angles shown in the figure measure? A) 300 B) 450 C) 360 D) 600 E) 720
+> Five distinct lines pass through a single
+> Point P, and on each of them two points are fixed—points different from P and on opposite sides of P: the five triangles in the figure are obtained by joining the ten points in question in an appropriate manner. How many degrees is the sum of the ten angles highlighted in the figure?
+> A) 300
+> B) 450
+> C) 360
+> D) 600
+> E) 720
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_cadet#q24|src_kangourou_2005_cadet__Q24]]
 
 
 
@@ -1138,11 +1313,26 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A claim that the alternating liar cannot make*
+*A statement that the alternating liar cannot make*
 
-> Carlo is a strange guy: every single day he lies or always tells the truth, alternating his behavior with the changing of the days. Today he made four of the following five statements. Which one couldn't he have made? A) The number of my friends is a prime number. B) I have as many male friends as female friends. C) My name is Carlo. D) I tell the truth every day of my life. E) Among my friends and my female friends, three are older than me.
+> Carlo is a strange sort: on every single day, either he always thinks or he always tells the truth, alternating his behavior depending on the day. Today, he made 4 of the following 5 statements. Which one can he not have made?
+> A)
+> The number of my friends is a prime number.
+> B)
+> I have as many male friends as female friends.
+> C)
+> My name is Carlo.
+> D)
+> I tell the truth every day of my life.
+> E)
+> Among my male and female friends, three are older than me.
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_cadet#q25|src_kangourou_2005_cadet__Q25]]
 
 
 
@@ -1180,22 +1370,24 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two-digit numbers between 10 and 99 that are more than tripled when digits are swapped*
+*Numbers between 10 and 99 more than tripled by swapping digits*
 
-> How many positive integers between 10 and 99 become more than tripled when their digits are swapped?
+> How many positive integers between 10 and 99 have their value more than tripled when their digits are swapped?
+> A) 6
+> B) 10
+> C) 15
+> D) 22
+> E) 33 
+> P Cadet_05_D.qxp 21/02/2005 16.10 Page 20
 >
-> (A) 6
-> (B) 10
-> (C) 15
-> (D) 22
-> (E) 33
-> 
-> Page
-> Page 21
-> Kang 2005
-> Kang 2005
+> Pag. Pag. 21 21 Kang 2005 Kang 2005
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_cadet#q26|src_kangourou_2005_cadet__Q26]]
 
 
 
@@ -1226,19 +1418,22 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the shaded region hexagon with two arcs*
+*Shaded area: hexagon with two arcs*
 
 ![[src_kangourou_2005_cadet__prob27.png]]
 
-> The figure represents a regular hexagon with side 2 and two circular arcs of
-> radius 2, each having its center at a vertex of the hexagon. What is the measure (in square units) of the shaded region?
+> The figure shows a regular hexagon with side length 2 and two circular arcs of radius 2, each arc having its center at a vertex of the hexagon. What is the area (in square units) of the shaded region?
 > A)
 > B) 
 > C) 
 > D) 
 > E)
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_cadet#q27|src_kangourou_2005_cadet__Q27]]
 
 
 
@@ -1279,13 +1474,24 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coordinate particle after two hours of travel*
+*Coordinates of the particle after two hours of travel*
 
 ![[src_kangourou_2005_cadet__prob28.png]]
 
-> A particle moves in the quadrant illustrated in the figure with the following law. In the first minute it goes from the origin to the coordinate point (1,0). Then it continues to follow the path indicated in the figure by the arrows (forward and backward from the x-axis to the y-axis and vice versa), moving, parallel to the axes, always at the same speed: every minute it travels a unit of movement. What are the coordinates of the point reached by the particle after exactly two hours? A) (10,0) B) (1,11) C) (10,11) D) (2,10) E) (11,11)
+> A particle moves in the quadrant.
+> Illustrated in the figure by the following law. In the first minute, it goes from the origin to the point with coordinates (1,0). Then it continues to follow the path indicated in the figure by the arrows (back and forth between the x-axis and the y-axis, and vice versa), moving parallel to the axes at the same speed throughout: each minute, it covers a displacement of one unit. What are the coordinates of the point reached by the particle after exactly two hours?
+> A) (10,0)
+> B) (1,11)
+> C) (10,11)
+> D) (2,10)
+> E) (11,11)
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_cadet#q28|src_kangourou_2005_cadet__Q28]]
 
 
 
@@ -1315,11 +1521,22 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the product of six numbers (divisibility)*
+*Product of six numbers (divisibility)*
 
-> One of the following numbers is the result of operation 333 x 743 x 710 x 352 x 745 x 298. What kind? A) 13727978688124880 B) 13727978688124800 C) 12727978688123000 D) 12727978688124800 E) 14727978688124836
+> One of the following numbers is the result of the operation.
+> 333 x 743 x 710 x 352 x 745 x 298. Which one?
+> A) 13727978688124880
+> B) 13727978688124800
+> C) 12727978688123000
+> D) 12727978688124800 
+> E) 14727978688124836
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_cadet#q29|src_kangourou_2005_cadet__Q29]]
 
 
 
@@ -1381,8 +1598,21 @@ Maximum KANGOUROU number with increasing code *
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum attempts for combination lock
+*Maximum attempts for a combination lock*
 
-> Piero has a three-digit combination lock. He forgot the code, but he knows that the three digits are all different from each other and that the first is the square of the ratio of the second and third digits. How many attempts will Piero have to make to open the lock? A) 1 B) 2 C) 3 D) 4 E) 8 π −2 3 4 π + 2 3 4 π + 3 2 π − 3 2 π − 3 4 0 1 2 3 x 1 2 3 y Cadet_05_D.qxp 21/02/2005 16.10
+> Piero has a three-digit combination padlock. He has forgotten the code, but he knows that all three digits are different from one another and that the first digit is the square of the ratio of the second digit to the third digit. What is the maximum number of attempts Piero will have to make to open the padlock?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 8 
+> π −2 3 4 π
+> + 2
+> 3 4 π + 3 2 π − 3 2 π − 3 4 0 1 2 3 x 1 2 3 y Cadet_05_D.qxp 21/02/2005 16.10 Page 21
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_cadet#q30|src_kangourou_2005_cadet__Q30]]

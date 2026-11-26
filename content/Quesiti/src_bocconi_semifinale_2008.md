@@ -32,13 +32,17 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Accounting squares in a grid drawing*
-
-> How many squares can you count on the drawing?
+*Squares that can be counted in a grid drawing*
+> How many squares can be counted in the drawing?
 
 ![[src_bocconi_semifinale_2008__q01.png]]
 
-**Answer:** 10
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2008#q01|src_bocconi_semifinale_2008__Q01]]
 
 
 
@@ -62,11 +66,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Guess a number from a disordered comparison*
+*Guessing a number from disordered comparisons*
 
-> Mary must guess a whole number that Luke chose in great secrecy. Here's the information that it collects, out of order, disorderly: The number to be found is smaller than 39; larger than 25; smaller than 29; larger than 23; smaller than 31; larger than 27 and smaller than 35. What's the number that Luca thought of?
+> Maria has to guess an integer that Luca has chosen in strict secrecy. Here is the information she gathers, bit by bit and in a disorganized way: The number to be found is less than 39; greater than 25; less than 29; greater than 23; less than 31; greater than 27 and less than 35. What number did Luca have in mind?
 
-**Answer:** 28
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2008#q02|src_bocconi_semifinale_2008__Q02]]
 
 
 
@@ -90,11 +99,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-€0.60 and €0.80 franc with fixed total *
+*0.60- and 0.80-euro stamps with a fixed total*
 
-> Carla sent her friend Milena a package with a birthday present. For shipping expenses, it only put stamps of $0{,}60$ Euro and $0{,}80$ Euro on the package for a total value of $6{,}60$ Euro. Carla used less than $10$ stamps overall. How many stamps from $0{,}80$ Euro did you use?
+> Carla sent a package to her friend Milena, with a birthday gift inside. To cover the postage costs, she put only stamps worth $0{,}60$ euros and $0{,}80$ euros on the package, for a total value of $6{,}60$ euros. In total, Carla used fewer than $10$ stamps. How many stamps worth $0{,}80$ euros did she use?
 
-**Answer:** 6
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2008#q03|src_bocconi_semifinale_2008__Q03]]
 
 
 
@@ -118,11 +132,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Keys pressed on the calculator to obtain 2008*
+*Keys pressed on a calculator to get 2008*
 
-> This calculator has only two keys: the $\text{``-1''}$ key (minus 1) and the $\text{``3''}$ key (section 3). When switched on, the number $2008$ appears on the screen. How many times do you have to press the $\text{``-1''}$ and $\text{``3''}$ keys to read the $\text{``1''}$ result on the screen?
+> This calculator has only two keys: the $\text{``-1''}$ key (minus 1) and the $\text{``3''}$ key (divide by 3). When it is turned on, the number $2008$ appears on the screen. At minimum, how many times in total must the $\text{``-1''}$ and $\text{``3''}$ keys be pressed in order to be able to read the result $\text{``1''}$ on the screen?
 
-**Answer:** 13
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_backward|Working backwards]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2008#q04|src_bocconi_semifinale_2008__Q04]]
 
 
 
@@ -148,13 +167,18 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Connecting digits from 1 to 7 in the path on a graph*
+*Connect the numbers from 1 to 7 in a path on a graph*
 
-> Look what a strange fish Desiderio found among his old toys! On the squares, the numbers from 1 to 7 are shown. Desiderio notes that those figures that are directly connected by a line (straight or curved) are never consecutive (such as, for example, 1 and 2 or 5 and 4). Enter the numbers from $1$ to $5$.
+> Look at the strange fish Desiderio found among his old toys! The numbers from 1 to 7 are marked on the scales. Desiderio notices that the figures directly connected by a line (straight or curved) are never consecutive (such as 1 and 2 or 5 and 4, for example). Place the numbers from $1$ to $5$.
 
 ![[src_bocconi_semifinale_2008__q05.png]]
 
-**Answer:** Top 2 7 4 6 1, bottom 5 3
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2008#q05|src_bocconi_semifinale_2008__Q05]]
 
 
 
@@ -180,13 +204,18 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of washed cube obtained from 4x4x4 cube*
+*Weight of the washed cube derived from a 4x4x4 cube*
 
-> This large cube is made up of $4 \times 4 \times 4$ cubes glued together. Starting from the three faces visible, we crossed the cube from one side to the other, lifting entire rows of cubes (in the direction indicated by the arrows). If this washing cube weighs $10$ grams, what is the weight of the 'washing cube' (i.e. the remaining cubes)?
+> This large cube is made up of $4 \times 4 \times 4$ small cubes glued together. Starting from the three visible faces, we went through the cube from one side to the other, removing entire rows of small cubes (in the direction indicated by the arrows). If this hollowed-out cube weighs $10$ grams, what is the weight of the "hollowed-out cube" (that is, of the small cubes that remain)?
 
 ![[src_bocconi_semifinale_2008__q06.png]]
 
-**Answer:** 440
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2008#q06|src_bocconi_semifinale_2008__Q06]]
 
 
 
@@ -209,11 +238,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular perimeter with 200 squares equal to area 4*
+*Perimeter of a rectangle with 200 equal squares each having an area of 4*
 
-> The base of a rectangle is twice its height. We can divide this rectangle into $200$ equal squares each having an area of $4 \text{ cm}^2$. What is the perimeter of the rectangle?
+> The base of a rectangle is twice its height. We can divide this rectangle into $200$ equal squares, each with an area of $4 \text{ cm}^2$. What is the perimeter of the rectangle?
 
-**Answer:** 120
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2008#q07|src_bocconi_semifinale_2008__Q07]]
 
 
 
@@ -237,11 +270,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of three digits with property of multiples*
+*A three-digit number with the property of being a multiple*
 
-> The number $55$ has the following properties: if you subtract 1 from it, you get a multiple of 9; if you add 1 to it, you get a multiple of 8. What is the smallest three-digit number that has the same properties?
+> The number $55$ has the following properties: if 1 is subtracted from it, the result is a multiple of 9; if 1 is added to it, the result is a multiple of 8. What is the smallest three-digit number that has the same properties?
 
-**Answer:** 127
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2008#q08|src_bocconi_semifinale_2008__Q08]]
 
 
 
@@ -265,11 +303,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of non-cubic parallel-piped with area 448*
+*Volume of a non-cube parallelepiped with an area of 448*
 
-> Surely you have considered two equal rectangular parallel pipes, each with a total area of $448 \text{ cm}^2$. A rectangular (non-cubic) parallelepiped with a total area of $448 \text{ cm}^2$ can also be obtained. What would be the volume of this cube?
+> You have certainly considered two identical rectangular parallelepipeds, each of which has a total surface area of $448 \text{ cm}^2$. It is also possible to obtain a rectangular parallelepiped (not a cube) with a total surface area of $448 \text{ cm}^2$. What would the volume of this cube be?
 
-**Answer:** $512 \text{ cm}^3$
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2008#q09|src_bocconi_semifinale_2008__Q09]]
 
 
 
@@ -293,11 +336,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Decipher an operation with symbols instead of digits*
+*Decipher an operation using symbols in place of digits*
 
-> What figures are behind the symbols of this equality? $\heartsuit\heartsuit\heartsuit - \clubsuit\clubsuit + \diamondsuit\heartsuit + \spadesuit\clubsuit = 1234$
+> What numbers lie hidden behind the symbols in this equation? $\heartsuit\heartsuit\heartsuit - \clubsuit\clubsuit + \diamondsuit\heartsuit + \spadesuit\clubsuit = 1234$
 
-**Answer:** $\heartsuit=2;\; \clubsuit=9;\; \diamondsuit=1;\; \spadesuit=0$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2008#q10|src_bocconi_semifinale_2008__Q10]]
 
 
 
@@ -321,11 +369,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum time to form chain of 10 rings*
+*Minimum time to form a chain of 10 rings*
 
-> A blacksmith has $5$ separate pieces of chain, each consisting of two rings inserted into each other. It takes a blacksmith a quarter of an hour to open a ring and a quarter of an hour to close it. How long does it take, at least, to form a single-piece chain of $10$ rings (closed)?
+> A blacksmith has $5$ separate chain links, each consisting of two rings threaded through one another. The blacksmith takes a quarter of an hour to open a ring and a quarter of an hour to close it. At minimum, how much time does the blacksmith need to form a single-piece chain of $10$ rings (closed)?
 
-**Answer:** 90 minutes
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2008#q11|src_bocconi_semifinale_2008__Q11]]
 
 
 
@@ -351,9 +404,14 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 *Positive divisors of the number obtained by inserting zero between two digits*
 
-> Let's start with a two-digit number. If we put a zero between its two digits, we get a three digit number. Now let's subtract the initial two-digit number from the three-digit number. The result is divisible by a positive number. How many different values can this positive number take (including $\text{``}1\text{''}$)?
+> Let's start with a two-digit number. If we insert a zero between its two digits, we get a three-digit number. Now let's subtract the original two-digit number from the three-digit number. The result is divisible by a certain positive number. How many different values can this positive number take (including the value $\text{``}1\text{''}$)?
 
-**Answer:** 58
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2008#q12|src_bocconi_semifinale_2008__Q12]]
 
 
 
@@ -379,13 +437,18 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode to move on the grid by avoiding traps*
+*Ways to move on the grid while avoiding traps*
 
-> An ant moves on this square mesh pattern to go from $D$ to $A$, following the shortest path. However, you must avoid the trap depicted in the picture in black at all costs. How many different ways can you make this move? Note: the ant moves only on horizontal and vertical segments (tracks).
+> An ant moves across this square-grid diagram to go from point $D$ to point $A$, following the shortest path. However, it must at all costs avoid the trap shown in black in the figure. In how many different ways can it make this move? Note: the ant moves only along the horizontal and vertical line segments (dashes).
 
 ![[src_bocconi_semifinale_2008__q13.png]]
 
-**Answer:** 84
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2008#q13|src_bocconi_semifinale_2008__Q13]]
 
 
 
@@ -409,11 +472,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total square area with decoupages of rectangles*
+*Total area of a square with decoupage of rectangles*
 
-> In a square sheet, the side of which measures an integer of centimetres greater than or equal to 3, the largest possible number of rectangles of cm $2$ per cm $3$ shall be cut. If one or more pieces remain, what is their total area? Note: the question allows for more than one solution. We have to point them all out.
+> On a square sheet whose side measures an integer number of centimeters greater than or equal to 3, the greatest possible number of rectangles measuring $2$ cm by $3$ cm is cut out. If one or more pieces remain, what is their total area? Note: the problem has multiple solutions. All of them must be stated.
 
-**Answer:** $1 - 3 - 4 \text{ cm}^2$
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2008#q14|src_bocconi_semifinale_2008__Q14]]
 
 
 
@@ -437,11 +505,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five-horse seats on a chessboard with constraints*
+*Placements of five horses on a chessboard with constraints*
 
-> When in a race there are only two horses, there are three possible placements: two in which there is a start and one in which the two horses arrive at equal merit. This is the race is between three horses, there are the following possible placements: six where there is no equality, six where two horses are equal (being the third in front or behind them) and one where the three horses are all equal. When five horses race, how many possible places are there?
+> When there are only two horses in a race, there are three possible placings: two in which there is a tie, and one in which the two horses finish level. In a race involving three horses, the following placings are possible: six in which there is no tie, six in which two horses are level (with the third either ahead of or behind them), and one in which all three horses are level. When five horses race, how many possible placings are there?
 
-**Answer:** 541
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2008#q15|src_bocconi_semifinale_2008__Q15]]
 
 
 
@@ -467,10 +540,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum odd number greater than 1 on rectangular tiles*
+*Smallest odd number greater than 1 in rectangular tiling*
 
-> We have rectangular tiles measuring, respectively, $7$ and $10$ centimetres in width and length. The figure illustrates how the smallest square surface that can contain three tiles can also contain one more. What is the minimum odd number (greater than 1) such that the smallest square surface that can contain this number of tiles cannot contain even one more?
+> We have rectangular tiles whose width and length measure $7$ and $10$ centimeters, respectively. The figure illustrates how the smallest square region that can contain three tiles can also contain one more tile. What is the smallest odd number greater than 1 such that the smallest square region that can contain this number of tiles cannot also contain one more tile?
 
 ![[src_bocconi_semifinale_2008__q16.png]]
 
-**Answer:** 9
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2008#q16|src_bocconi_semifinale_2008__Q16]]

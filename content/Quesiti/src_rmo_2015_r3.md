@@ -30,11 +30,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi; il punto medio della corda d'arco si trova sul secondo cerchio*
+*Due cerchi; il punto medio dell'arco-corde giace sul secondo cerchio*
 
-> Due cerchi $\Gamma$ e $\Sigma$, con centri $O$ e $O'$, rispettivamente, sono tali che $O'$ si trova su $\Gamma$. Il $A$ deve essere un punto sul $\Sigma$ e $M$ il punto medio del segmento $AO'$. Se $B$ è un punto su $\Sigma$ diverso da $A$ in modo tale che $AB$ sia parallelo a $OM$, indicare che il punto medio di $AB$ si trova su $\Gamma$.
+> Due cerchi $\Gamma$ e $\Sigma$, con centri rispettivamente $O$ e $O'$, sono tali che $O'$ giace su $\Gamma$. Sia $A$ un punto su $\Sigma$ e $M$ il punto medio del segmento $AO'$. Se $B$ è un punto su $\Sigma$ diverso da $A$ tale che $AB$ è parallelo a $OM$, dimostrare che il punto medio di $AB$ giace su $\Gamma$.
 
 ![[src_rmo_2015_r3__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2015_r3#q01|src_rmo_2015_r3__Q01]]
 
 
 
@@ -57,9 +63,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrati di polinomi quadratici in AP implicano a,b interi*
+*I quadrati di un polinomio quadratico in progressione aritmetica implicano che a,b siano interi*
 
-> Che $P(x) = x^2 + ax + b$ sia un polinomio quadratico dove $a$ e $b$ sono numeri reali. Supponiamo che $P(-1)^2$, $P(0)^2$, $P(1)^2$ sia una progressione aritmetica degli enti. Provare che $a$ e $b$ sono numeri interi.
+> Sia $P(x) = x^2 + ax + b$ un polinomio di secondo grado in cui $a$ e $b$ sono numeri reali. Si supponga che $P(-1)^2$, $P(0)^2$, $P(1)^2$ sia una progressione aritmetica di interi. Dimostrare che $a$ e $b$ sono interi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2015_r3#q02|src_rmo_2015_r3__Q02]]
 
 
 
@@ -82,9 +95,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Infinitamente molti tripli interi che soddisfano $x^2+y^2=z^{2^l}$ per tutti $l$*
+*Infiniti terne di interi che soddisfano $x^2+y^2=z^{2^l}$ per tutti gli $l$*
 
-> Mostrare che ci sono infinitamente molti triples $(x, y, z)$ di numeri interi come $x^2 + y^2 = z^{2^l}$ per tutti $l$.
+> Dimostrare che esistono infiniti terne $(x, y, z)$ di interi tali che $x^2 + y^2 = z^{2^l}$ per ogni $l$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2015_r3#q03|src_rmo_2015_r3__Q03]]
 
 
 
@@ -107,9 +127,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare sottoinsiemi di 3 elementi di 36 punti di cerchio con spazi uguali, senza due adiacenti o antipodi*
+*Conta i sottoinsiemi di 3 elementi formati da 36 punti circolari equispaziati, tali che nessun paio di punti sia adiacente né antipodale*
 
-> Supponiamo che 36 oggetti siano posizionati lungo un cerchio a distanze uguali. In quanti modi si possono scegliere tre oggetti tra di loro in modo che nessuno dei tre oggetti scelti sia adiacente o diametralmente opposto?
+> Supponiamo che 36 oggetti siano disposti lungo una circonferenza a distanze uguali. In quanti modi si possono scegliere 3 oggetti tra questi, in modo che nessuna coppia dei tre oggetti scelti sia adiacente né diametralmente opposta?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2015_r3#q04|src_rmo_2015_r3__Q04]]
 
 
 
@@ -134,11 +161,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con circoncircolo e incentro; PIRQ della gabbia implica equilaterale*
+*Triangolo con circonferenza circoscrita e incentro; il deltoidale PIRQ implica l'equilateralità*
 
-> Il $ABC$ deve essere un triangolo con circoncircolo $\Gamma$ e incentro $I$. I bisettori di angolo interno di $\angle A$, $\angle B$ e $\angle C$ devono incontrare $\Gamma$ rispettivamente in $A'$, $B'$ e $C'$. In $P$ $AA'$ e in $Q$ $AC$ si intersecano. Lasciate che $BB'$ si incroci $AC$ in $R$. Supponiamo che il quadrilaterale $PIRQ$ sia un aquilone; cioè $IP = IR$ e $QP = QR$. Prova che $ABC$ è un triangolo equilaterale.
+> Sia $ABC$ un triangolo con circonferenza circoscritta $\Gamma$ e incentro $I$. Siano le bisettrici interne degli angoli di $\angle A$, $\angle B$ e $\angle C$ a intersecare $\Gamma$ rispettivamente in $A'$, $B'$ e $C'$. Sia $B'C'$ a intersecare $AA'$ in $P$, e $AC$ in $Q$. Sia $BB'$ a intersecare $AC$ in $R$. Si supponga che il quadrilatero $PIRQ$ sia un deltoide; cioè, $IP = IR$ e $QP = QR$. Dimostrare che $ABC$ è un triangolo equilatero.
 
 ![[src_rmo_2015_r3__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2015_r3#q05|src_rmo_2015_r3__Q05]]
 
 
 
@@ -161,6 +195,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Infinitamente molti reali positivi non integrali con $a(a-3\{a\})$ intero*
+*Infiniti numeri reali positivi non interi con $a(a-3\{a\})$ intero*
 
-> Mostrare che ci sono infinitamente molti numeri reali positivi $a$ che non sono interi tali che $a(a - 3\{a\})$ è un intero. (Qui $\{a\}$ indica la parte frazionaria di $a$. Ad esempio $\{1.5\} = 0.5$; $\{-3.4\} = 0.6$.)
+> Dimostrare che esistono infiniti numeri reali positivi $a$ non interi tali che $a(a - 3\{a\})$ è un numero intero. (Qui $\{a\}$ denota la parte frazionaria di $a$. Ad esempio $\{1.5\} = 0.5$; $\{-3.4\} = 0.6$.)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2015_r3#q06|src_rmo_2015_r3__Q06]]

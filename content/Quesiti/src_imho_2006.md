@@ -31,11 +31,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto nel triangolo interno con angolo e condizione di uguaglianza*
+*Punto all'interno di un triangolo con condizione di angolo e uguaglianza*
 
 > Sia $ABC$ un triangolo con incentro $I$. Un punto $P$ interno al triangolo soddisfa
 > $$\angle PBA + \angle PCA = \angle PBC + \angle PCB.$$
-> Si dimostri che $AP \ge AI$, e che l'uguaglianza ha luogo se e solo se $P = I$.
+> Dimostrare che $AP \ge AI$, e che l'uguaglianza vale se e solo se $P = I$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2006#q01|src_imho_2006__Q01]]
 
 
 
@@ -60,11 +67,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Diagonali di un 2006-ago regolare: massimo numero di triangoli isosceli nella scomposizione*
+*Diagonali di un 2006-gono regolare: massimo numero di triangoli isosceli nella dissezione*
 
-> Sia $P$ un 2006-ago regolare. Una diagonale di $P$ si dice buona se i suoi estremi dividono il bordo di $P$ in due parti, ciascuna delle quali è composta da un numero dispari di lati di $P$. I lati di $P$ si dicono anch'essi buoni.
-> 
-> Sia $P$ stato suddiviso in triangoli da 2003 diagonali, nessuna delle quali ha punti interni in comune con un'altra all'interno di $P$. Si determini il massimo numero di triangoli isosceli con due lati buoni che potrebbero comparire in tale configurazione.
+> Sia $P$ un poligono regolare di 2006 lati. Una diagonale di $P$ si dice buona se le sue estremità dividono il bordo di $P$ in due parti, ciascuna delle quali è composta da un numero dispari di lati di $P$. Anche i lati di $P$ sono detti buoni.
+>
+> Supponiamo che $P$ sia stato suddiviso in triangoli mediante 2003 diagonali, nessuna coppia delle quali abbia un punto in comune all'interno di $P$. Determinare il numero massimo di triangoli isosceli aventi due lati buoni che potrebbero comparire in una tale configurazione.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imho_2006#q02|src_imho_2006__Q02]]
 
 
 
@@ -89,11 +103,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare il minimo numero reale M per un'ineguaglianza algebrica in a, b, c*
+*Trovare il valore minimo reale di M per una disequazione algebrica in a, b, c*
 
-> Determinare il minimo numero reale $M$ tale che la disuguaglianza
+> Determinare il numero reale minimo $M$ tale che la disuguaglianza
 > $$\left|ab(a^2 - b^2) + bc(b^2 - c^2) + ca(c^2 - a^2)\right| \le M(a^2 + b^2 + c^2)^2$$
 > sia verificata per tutti i numeri reali $a$, $b$ e $c$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2006#q03|src_imho_2006__Q03]]
 
 
 
@@ -117,10 +138,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le coppie di interi che soddisfano un'equazione diofantea esponenziale*
+*Coppie di interi (x, y) con 1 + 2^x + 2^{2x+1} = y²*
 
 > Determinare tutte le coppie $(x, y)$ di interi tali che
 > $$1 + 2^x + 2^{2x+1} = y^2.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_imho_2006#q04|src_imho_2006__Q04]]
 
 
 
@@ -143,9 +171,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un polinomio iterato ha al più n punti fissi interi*
+*Il polinomio iterato ha al più n punti fissi interi*
 
-> Sia $P(x)$ un polinomio di grado $n > 1$ a coefficienti interi e sia $k$ un numero intero positivo. Si consideri il polinomio $Q(x) = P(P(\ldots P(P(x)) \ldots))$, in cui $P$ compare $k$ volte. Si dimostri che vi sono al più $n$ numeri interi $t$ tali che $Q(t) = t$.
+> Sia $P(x)$ un polinomio di grado $n > 1$ a coefficienti interi, e sia $k$ un numero intero positivo. Si consideri il polinomio $Q(x) = P(P(\ldots P(P(x)) \ldots))$, in cui $P$ compare $k$ volte. Dimostrare che esistono al più $n$ numeri interi $t$ tali che $Q(t) = t$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2006#q05|src_imho_2006__Q05]]
 
 
 
@@ -168,6 +203,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma delle aree massime dei triangoli sui lati è almeno il doppio dell'area del poligono*
+*La somma delle aree dei triangoli massimi sui lati è almeno il doppio dell'area del poligono*
 
-> Assegnare a ciascun lato $b$ di un poligono convesso $P$ l'area massima di un triangolo che ha $b$ come lato e sia contenuto in $P$. Si dimostri che la somma delle aree così assegnate ai lati di $P$ è almeno il doppio dell'area di $P$.
+> Assegna a ciascun lato $b$ di un poligono convesso $P$ l'area massima di un triangolo che ha $b$ come lato e è contenuto in $P$. Dimostrare che la somma delle aree assegnate ai lati di $P$ è almeno il doppio dell'area di $P$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2006#q06|src_imho_2006__Q06]]

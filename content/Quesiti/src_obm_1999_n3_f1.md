@@ -31,13 +31,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Capacità del camion: i mattoni contati con sacchi di sabbia*
+*Capacità del camion: mattoni forniti in base al numero di sacchi di sabbia*
 
-> Un piccolo camion può trasportare 50 sacchi di sabbia o 400 mattoni. Se sono già stati caricati 32 sacchi di sabbia, quante mattoni possono ancora essere caricati?
-> 
+> Un piccolo camion può trasportare 50 sacchi di sabbia oppure 400 mattoni. Se sono già stati caricati 32 sacchi di sabbia, quanti mattoni si possono ancora caricare?
+>
 > A) 132 \quad B) 144 \quad C) 146 \quad D) 148 \quad E) 152
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1999_n3_f1#q01|src_obm_1999_n3_f1__Q01]]
 
 
 
@@ -63,13 +67,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ospiti alberghieri: massimo non si mangia più di tre carni*
+*Ospiti dell'hotel: massimo, nessuno mangia nessuna delle tre carni*
 
-> Un hotel ha 100 ospiti. 30 mangiano carne di maiale, 60 mangiano pollo e 80 mangiano carne bovina. Qual è il numero massimo di persone che non mangiano nessuno di questi tre tipi di carne?
-> 
+> In un hotel ci sono 100 ospiti. 30 mangiano maiale, 60 mangiano pollo e 80 mangiano manzo. Qual è il numero massimo di persone che non mangiano nessuno di questi tre tipi di carne?
+>
 > A) 10 \quad B) 20 \quad C) 30 \quad D) 40 \quad E) 50
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n3_f1#q02|src_obm_1999_n3_f1__Q02]]
 
 
 
@@ -95,13 +104,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Grasshopper che salta lungo una linea, raggiunge il punto 5m da A*
+*Locusta che salta lungo una linea, raggiungi il punto a 5 m da A*
 
-> Un agaro è esattamente 1 metro sopra il punto $A$ su una linea. Si trova al punto $A$ e vuole raggiungere il punto $B$ sulla stessa linea, in modo che $B$ sia a 5 metri di distanza da $A$, saltando esattamente 9 passi. In quanti modi può farlo?
-> 
+> Una cavalletta si trova esattamente a 1 metro sopra il punto $A$ su una linea. Si trova sul punto $A$ e vuole raggiungere il punto $B$ sulla stessa linea, in modo che $B$ disti 5 metri da $A$, saltando esattamente 9 passi. In quanti modi può farlo?
+>
 > A) 16 \quad B) 18 \quad C) 24 \quad D) 36 \quad E) 48
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n3_f1#q03|src_obm_1999_n3_f1__Q03]]
 
 
 
@@ -127,13 +141,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Radici di quadratico: trovare a-b dati prodotti e condizioni di somma*
+*Radici di un'equazione quadratica: trovare a-b dati i vincoli sul prodotto e sulla somma*
 
-> Data la $a \neq b$, $b \neq 0$, e sapendo che le radici dell'equazione $x^2 + ax + b = 0$ sono esattamente $a$ e $b$, allora $a - b$ è uguale:
-> 
+> Dati $a \neq b$, $b \neq 0$ e sapendo che le radici dell'equazione $x^2 + ax + b = 0$ sono esattamente $a$ e $b$, allora $a - b$ è uguale a:
+>
 > A) 0 \quad B) 1 \quad C) 2 \quad D) 3 \quad E) 4
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1999_n3_f1#q04|src_obm_1999_n3_f1__Q04]]
 
 
 
@@ -160,15 +179,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo ABCD diviso in quattro rettangoli più piccoli, area*
+*Il rettangolo ABCD è diviso in quattro rettangoli più piccoli: determina l'area*
 
-> Un rettangolo $ABCD$ è diviso in quattro rettangoli più piccoli come mostrato nella figura. Le aree di tre di esse sono mostrate. Qual è l'area del rettangolo $ABCD$?
-> 
+> Un rettangolo $ABCD$ è diviso in quattro rettangoli più piccoli, come mostrato nella figura. Sono indicate le aree di tre di essi. Qual è l'area del rettangolo $ABCD$?
+>
 > A) 80 \quad B) 84 \quad C) 86 \quad D) 88 \quad E) 91
 
 ![[src_obm_1999_n3_f1__q05.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1999_n3_f1#q05|src_obm_1999_n3_f1__Q05]]
 
 
 
@@ -194,13 +217,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Palla di calcio: contare le cuciture dai pentagoni e dagli esagoni*
+*Pallone da calcio: conta le cuciture dei pentagoni e degli esagoni*
 
-> Una palla da calcio è fatta di 32 pezzi di pelle. 12 di essi sono pentagoni regolari e gli altri 20 sono esagoni regolari. I lati dei pentagoni sono uguali ai lati degli esagoni, e ogni pezzo è cucito agli altri lungo i lati condivisi. Ogni cucitura unisce due lati di due pezzi. Quante cuciture sono fatte nella fabbricazione di una palla da calcio?
-> 
+> Un pallone da calcio è realizzato con 32 pezzi di cuoio. 12 di essi sono pentagoni regolari e gli altri 20 sono esagoni regolari. I lati dei pentagoni sono uguali ai lati degli esagoni, e ogni pezzo è cucito agli altri lungo i lati condivisi. Ogni cucitura unisce due lati di due pezzi. Quante cuciture vengono fatte nella fabbricazione di un pallone da calcio?
+>
 > A) 60 \quad B) 64 \quad C) 90 \quad D) 120 \quad E) 180
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n3_f1#q06|src_obm_1999_n3_f1__Q06]]
 
 
 
@@ -226,13 +254,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Retro più grande meno radice più piccola di un dato quadratico*
+*Radice maggiore meno radice minore della quadratica data*
 
-> La differenza tra la radice più grande e la radice più piccola dell'equazione $(2x - 45)^2 - (x - 21)^2 = 0$ è:
-> 
+> La differenza tra la radice maggiore e la radice minore dell'equazione $(2x - 45)^2 - (x - 21)^2 = 0$ è:
+>
 > A) 2 \quad B) 3 \quad C) 4 \quad D) 5 \quad E) 6
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1999_n3_f1#q07|src_obm_1999_n3_f1__Q07]]
 
 
 
@@ -258,13 +291,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valori interi di x che rendono (x+99)/(x+19) un intero*
+*Valori interi di x per cui (x+99)/(x+19) è un numero intero*
 
-> Quanti valori interi di $x$ sono tali che $\dfrac{x+99}{x+19}$ sia un intero?
-> 
+> Quanti valori interi di $x$ esistono tali che $\dfrac{x+99}{x+19}$ sia un numero intero?
+>
 > A) 5 \quad B) 10 \quad C) 20 \quad D) 30 \quad E) 40
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1999_n3_f1#q08|src_obm_1999_n3_f1__Q08]]
 
 
 
@@ -289,13 +327,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Range di x soddisfacente cos x = 1/4 con 0 < x < 90*
+*Insieme dei valori di x tali che cos x = 1/4, con 0 < x < 90*
 
 > Se $0^\circ < x < 90^\circ$ e $\cos x = \dfrac{1}{4}$, allora $x$ si trova tra:
-> 
+>
 > A) $0^\circ$ e $30^\circ$ \quad B) $30^\circ$ e $45^\circ$ \quad C) $45^\circ$ e $60^\circ$ \quad D) $60^\circ$ e $75^\circ$ \quad E) $75^\circ$ e $90^\circ$
 
-**Risposta:** D
+**Topic:** [[topic_trigonometria|Trigonometria]]
+**Abilita:** [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1999_n3_f1#q09|src_obm_1999_n3_f1__Q09]]
 
 
 
@@ -321,13 +363,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La spesa di Pedro in quattro negozi, trovare l'importo iniziale*
+*Pedro spende in quattro negozi: determina l'importo iniziale*
 
-> Pedro lasciò casa e andò a quattro negozi, ognuno in un quartiere diverso. In ogni negozio spendeva la metà di quello che aveva più 2,00$. At the end he had $$\,8.00$. Quanto aveva Pedro quando se n'è andato?
-> 
+> Pedro uscì di casa e andò in quattro negozi, ciascuno in un quartiere diverso. In ciascun negozio spese la metà di quanto aveva più $\mathrm{R}\$\,2.00$. At the end he had $\mathrm{R}\$\,8.00$. Quanto aveva Pedro quando uscì di casa?
+>
 > A) $\mathrm{R}\$\,220{,}00$ \quad B) $\mathrm{R}\$\,204{,}00$ \quad C) $\mathrm{R}\$\,196{,}00$ \quad D) $\mathrm{R}\$\,188{,}00$ \quad E) $\mathrm{R}\$\,180{,}00$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1999_n3_f1#q10|src_obm_1999_n3_f1__Q10]]
 
 
 
@@ -355,13 +402,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione f(f(n)))=16 con soluzioni pieziose f, conteggiamento*
+*Equazione f(f(f(n)))=16 con f a tratti, conta le soluzioni*
 
-> Per ogni numero naturale $n$ definiamo la funzione $f$ da: $$f(n) = \begin{cases} \dfrac{n}{2} & \text{if } n \text{ is even,} \\ 3n+1 & \text{if } n \text{ is odd.} \end{cases}$$ Il numero di soluzioni dell'equazione $f(f(f(n))) = 16$ è:
-> 
+> Per ogni numero naturale $n$ definiamo la funzione $f$ nel modo seguente:
+> $$f(n) = \begin{cases} \dfrac{n}{2} & \text{if } n \text{ is even,} \\ 3n+1 & \text{if } n \text{ is odd.} \end{cases}$$
+> Il numero di soluzioni dell'equazione $f(f(f(n))) = 16$ è:
+>
 > A) 2 \quad B) 3 \quad C) 4 \quad D) 5 \quad E) 6
 
-**Risposta:** C
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1999_n3_f1#q11|src_obm_1999_n3_f1__Q11]]
 
 
 
@@ -387,13 +441,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Restante di 11111...1 (1999 cifre) diviso per 7*
+*Resto della divisione di 11111...1 (1999 cifre) per 7*
 
-> Il numero $N = \underbrace{11111\ldots1}_{1999\text{ digits}}$ è composto da cifre del 1999, tutte uguali a 1. Qual è il residuo della divisione di $N$ per 7?
-> 
+> Il numero $N = \underbrace{11111\ldots1}_{1999\text{ digits}}$ è composto da 1999 cifre, tutte uguali a 1. Qual è il resto della divisione di $N$ per 7?
+>
 > A) 1 \quad B) 2 \quad C) 4 \quad D) 5 \quad E) 6
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1999_n3_f1#q12|src_obm_1999_n3_f1__Q12]]
 
 
 
@@ -419,13 +478,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Side ABCD quadrato 40cm, circolo circonscritto tangente a corda*
+*Quadrato ABCD con lato di 40 cm, circonferenza circoscritta tangente alla corda*
 
-> Un quadrato $ABCD$ ha un lato di 40 cm. Un cerchio contiene i vertici $A$ e $B$ ed è tangente a lato $CD$. Qual è il raggio di questo cerchio?
-> 
+> Un quadrato $ABCD$ ha il lato di 40 cm. Un cerchio contiene i vertici $A$ e $B$ ed è tangente al lato $CD$. Qual è il raggio di questo cerchio?
+>
 > A) 20 cm \quad B) 22 cm \quad C) 24 cm \quad D) 25 cm \quad E) 28 cm
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1999_n3_f1#q13|src_obm_1999_n3_f1__Q13]]
 
 
 
@@ -451,13 +515,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti di angoscia sull'incircolo di un triangolo, il rapporto d'arco dà angolo*
+*Punti di tangenza sull'incirconferenza del triangolo; il rapporto degli archi dà l'angolo*
 
-> I punti $S$, $T$ e $U$ sono i punti di tangenza del cerchio del triangolo $PQR$ inscritto sui lati $RQ$, $RP$ e $PQ$ rispettivamente. Dato che le lunghezze dell'arco soddisfano $TU : ST : US = 5 : 8 : 11$, trovare il rapporto $\angle TPU : \angle SRT : \angle UQS$.
-> 
+> I punti $S$, $T$ e $U$ sono i punti di tangenza del cerchio inscritto nel triangolo $PQR$ sui lati $RQ$, $RP$ e $PQ$, rispettivamente. Dato che le lunghezze degli archi soddisfano $TU : ST : US = 5 : 8 : 11$, determina il rapporto $\angle TPU : \angle SRT : \angle UQS$.
+>
 > A) $7:4:1$ \quad B) $8:5:2$ \quad C) $7:3:2$ \quad D) $11:8:5$ \quad E) $9:5:1$
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1999_n3_f1#q14|src_obm_1999_n3_f1__Q14]]
 
 
 
@@ -483,13 +552,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integra x che forma un triangolo acuto con lati 12, 10, x*
+*Numero intero x tale che i lati 12, 10, x formino un triangolo acutangolo*
 
-> Per quanti valori interi di $x$ esiste un triangolo con lati 12, 10 e $x$ angolato acuto?
-> 
+> Per quanti valori interi di $x$ esiste un triangolo acutangolo con lati 12, 10 e $x$?
+>
 > A) 9 \quad B) 10 \quad C) 12 \quad D) 16 \quad E) 18
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1999_n3_f1#q15|src_obm_1999_n3_f1__Q15]]
 
 
 
@@ -515,13 +589,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di regione dilimitata da due accordi e arco in un cerchio unitario*
+*Area della regione delimitata da due corde e un arco nel cerchio unitario*
 
-> In un cerchio di raggio 1, l'arc $AB$ misura $70^\circ$ e l'arc $BC$ misura $40^\circ$. L'area della regione delimitata da accordi $AB$ e $AC$ e da archi $BC$ è:
-> 
+> In un cerchio di raggio 1, l'arco $AB$ misura $70^\circ$ e l'arco $BC$ misura $40^\circ$. L'area della regione delimitata dalle corde $AB$ e $AC$ e dall'arco $BC$ è:
+>
 > A) $\pi/8$ \quad B) $\pi/9$ \quad C) $\pi/10$ \quad D) $\pi/12$ \quad E) $\pi/14$
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1999_n3_f1#q16|src_obm_1999_n3_f1__Q16]]
 
 
 
@@ -547,13 +626,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto di reticola più vicino alla linea y = (101/3)x - 4 attraverso l'origine*
+*Punto del reticolo più vicino alla retta y = (101/3)x - 4 passante per l'origine*
 
-> La linea $r$ attraversa i punti $(0, 4)$ e $(7, 7)$. Tra i seguenti punti, quale è il punto più vicino alla linea $r$?
-> 
+> La retta $r$ passa per i punti $(0, 4)$ e $(7, 7)$. Tra i punti sottostanti, quale è il più vicino alla retta $r$?
+>
 > A) $(1999, 858)$ \quad B) $(1999, 859)$ \quad C) $(1999, 860)$ \quad D) $(1999, 861)$ \quad E) $(1999, 862)$
 
-**Risposta:** D
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1999_n3_f1#q17|src_obm_1999_n3_f1__Q17]]
 
 
 
@@ -579,13 +663,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare coppie di numeri interi positivi (x,y) con 2x+3y=101*
+*Conta le coppie di numeri interi positivi (x,y) tali che 2x+3y=101*
 
-> Quante coppie $(x, y)$ di integri positivi soddisfano l'equazione $2x + 3y = 101$?
-> 
+> Quante coppie $(x, y)$ di interi positivi soddisfano l'equazione $2x + 3y = 101$?
+>
 > A) 13 \quad B) 14 \quad C) 15 \quad D) 16 \quad E) 17
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n3_f1#q18|src_obm_1999_n3_f1__Q18]]
 
 
 
@@ -611,13 +700,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi 10-1000 con cifre rigorosamente in aumento*
+*Conta gli interi da 10 a 1000 con cifre strettamente crescenti*
 
-> Quanti numeri interi tra 10 e 1000 hanno le loro cifre in ordine rigorosamente crescente? (Per esempio, 47 e 126 sono di questo tipo; 52 e 566 non lo sono.)
-> 
+> Quanti numeri interi compresi tra 10 e 1000 hanno le cifre in ordine strettamente crescente? (Ad esempio, 47 e 126 sono di questo tipo; 52 e 566 non lo sono.)
+>
 > A) 90 \quad B) 98 \quad C) 112 \quad D) 118 \quad E) 120
 
-**Risposta:** E
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n3_f1#q19|src_obm_1999_n3_f1__Q19]]
 
 
 
@@ -642,13 +736,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La malattia del serbatoio uccide i pesci gialli; ritrovare la percentuale di mortalità*
+*La malattia della vasca dei pesci uccide i pesci gialli; determina la percentuale di mortalità*
 
-> In una vasca di pesce ci sono 100 pesci: 90 gialli e 10 rossi. Una misteriosa malattia uccise molti pesci gialli, ma nessun rosso. Dopo che la malattia è stata controllata, è stato verificato che nel serbatoio $75\%$ i pesci erano gialli. Circa quale percentuale dei pesci gialli morì?
-> 
+> In un acquario ci sono 100 pesci: 90 sono gialli e 10 sono rossi. Una malattia misteriosa ha ucciso molti pesci gialli, ma nessun pesce rosso. Dopo che la malattia è stata contenuta, si è verificato che nell'acquario $75\%$ dei pesci erano gialli. Approssimativamente, quale percentuale dei pesci gialli è morta?
+>
 > A) 15\% \quad B) 37\% \quad C) 50\% \quad D) 67\% \quad E) 84\%
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1999_n3_f1#q20|src_obm_1999_n3_f1__Q20]]
 
 
 
@@ -673,13 +771,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il rapporto di età di Maria nel 1996 e nel 2002*
+*Determinare l'età attuale di Maria, dato il rapporto tra le età nel 1996 e nel 2002*
 
-> Il 12/6/1999, Pedro e Maria celebrano i loro compleanni. Lo stesso giorno del 1996, l'età di Pedro era $\frac{3}{4}$ dell'età di Maria. Nello stesso giorno del 2002, l'età di Pedro sarà uguale a quella di Maria quando aveva 20 anni. Quanti anni ha oggi Maria?
-> 
+> Il 12/6/1999, Pedro e Maria festeggiano i loro compleanni. Lo stesso giorno nel 1996, l'età di Pedro era $\frac{3}{4}$ dell'età di Maria. Lo stesso giorno nel 2002, l'età di Pedro sarà uguale all'età che Maria aveva quando aveva 20 anni. Quanti anni ha Maria oggi?
+>
 > A) 30 \quad B) 31 \quad C) 33 \quad D) 34 \quad E) 34
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1999_n3_f1#q21|src_obm_1999_n3_f1__Q21]]
 
 
 
@@ -705,13 +807,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Geometria del punto medio in quadrato: area AEF triangolare in percentuale*
+*Geometria del punto medio nel quadrato: area del triangolo AEF in percentuale*
 
-> Nel quadrato $ABCD$, il punto $E$ è il punto medio di $BC$ e il punto $F$ su $CD$ è tale che l'angolo $\angle AEF$ sia un angolo retto. Circa quale percentuale della superficie del quadrato rappresenta il triangolo $AEF$?
-> 
+> Nel quadrato $ABCD$, il punto $E$ è il punto medio di $BC$, e il punto $F$ su $CD$ è tale che l'angolo $\angle AEF$ è retto. Approssimativamente, che percentuale dell'area del quadrato rappresenta il triangolo $AEF$?
+>
 > A) 28\% \quad B) 31\% \quad C) 34\% \quad D) 36\% \quad E) 39\%
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1999_n3_f1#q22|src_obm_1999_n3_f1__Q22]]
 
 
 
@@ -738,15 +845,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Terra triangolare retta divisa da parete parallele, trovare lunghezza BM*
+*Terreno a forma di triangolo rettangolo diviso da un muro parallelo; determinare la lunghezza di BM*
 
-> Due fratelli hanno ereditato terra $ABC$ a forma di triangolo rettangolo con angolo retto a $A$ e con gamba $AB = 84\,\text{m}$. Hanno deciso di dividere il terreno in due parti di superficie uguale con un muro $MN$ parallelo a $AC$, come mostrato nella figura seguente. Selezionare l'opzione più vicina alla lunghezza del segmento $BM$.
-> 
-> A) 55 m^quad B) 57 m^quad C) 59 m^quad D) 61 m^quad E) 63 m
+> Due fratelli hanno ereditato il terreno $ABC$, a forma di triangolo rettangolo con l'angolo retto in $A$ e con il cateto $AB = 84\,\text{m}$. Hanno deciso di dividere il terreno in due parti di uguale area mediante un muro $MN$ parallelo a $AC$, come mostrato nella figura sottostante. Selezionare l'opzione più vicina alla lunghezza del segmento $BM$.
+>
+> A) 55 m \quad B) 57 m \quad C) 59 m \quad D) 61 m \quad E) 63 m
 
 ![[src_obm_1999_n3_f1__q23.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1999_n3_f1#q23|src_obm_1999_n3_f1__Q23]]
 
 
 
@@ -771,13 +882,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Total di cifre quando si scrivono 2^1999 e 5^1999 fianco a fianco*
+*Cifre totali quando si scrivono 2^1999 e 5^1999 uno accanto all'altro*
 
-> Le rappresentazioni decimali di $2^{1999}$ e $5^{1999}$ sono scritte fianco a fianco. Il numero totale di cifre scritte è:
-> 
-> A) 1999 B) 2000 C) 2001 D) 3998 E) 3999
+> Le rappresentazioni decimali di $2^{1999}$ e $5^{1999}$ sono scritte una accanto all'altra. Il numero totale di cifre scritte è:
+>
+> A) 1999 \quad B) 2000 \quad C) 2001 \quad D) 3998 \quad E) 3999
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1999_n3_f1#q24|src_obm_1999_n3_f1__Q24]]
 
 
 
@@ -803,10 +918,15 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Min tira dalla scatola per garantire 10 palle dello stesso colore*
+*Min estrae dalla scatola per garantire 10 palline dello stesso colore*
 
-> Una scatola contiene 100 palle di diversi colori. Di questi, 30 sono rossi, 30 sono verdi, 30 sono blu, e tra i restanti 10, alcuni sono bianchi e altri neri. Qual è il numero minimo di palle che deve essere estratto dalla scatola, senza vedere il loro colore, per essere sicuro di avere almeno 10 palle dello stesso colore?
-> 
-> A) 31 Quad B) 33 Quad C) 35 Quad D) 37 Quad E) 38
+> In una scatola ci sono 100 palline di colori diversi. Di queste, 30 sono rosse, 30 sono verdi, 30 sono blu, e tra le restanti 10, alcune sono bianche e alcune sono nere. Qual è il numero minimo di palline che bisogna estrarre dalla scatola, senza vedere il loro colore, per essere certi di avere almeno 10 palline dello stesso colore?
+>
+> A) 31 \quad B) 33 \quad C) 35 \quad D) 37 \quad E) 38
 
-**Risposta:** E
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n3_f1#q25|src_obm_1999_n3_f1__Q25]]

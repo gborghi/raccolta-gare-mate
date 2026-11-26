@@ -30,11 +30,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i riempimenti di griglia a lettere distinte 2x2 fino alla rotazione/riflessione*
+*Conta le compilazioni distinte di una griglia di lettere 2x2, a meno di rotazione/riflessione*
 
-> Ogni cella di una griglia $2 \times 2$ è riempita con esattamente una lettera scelta da $A$, $B$, $C$. Due celle che condividono un bordo devono contenere lettere diverse. Una cellula può ricevere una lettera anche se le cellule adiacenti usano la stessa lettera in altre posizioni; l'unico vincolo è che ogni coppia di cellule adiacenti ai bordi ha lettere diverse. Due riempimenti sono considerati uguali se uno può essere ottenuto dall'altro mediante rotazione o riflessione della griglia. Trova il numero di riempimenti distinti.
+> Ogni cella di una griglia $2 \times 2$ viene riempita con esattamente una lettera scelta tra $A$, $B$, $C$. Due celle che condividono un lato devono contenere lettere diverse. Una cella può ricevere una lettera anche se le celle adiacenti usano la stessa lettera in altre posizioni; l'unico vincolo è che ogni coppia di celle adiacenti per lato abbia lettere diverse. Due riempimenti si considerano identici se uno può essere ottenuto dall'altro mediante una rotazione o una riflessione della griglia. Determinare il numero di riempimenti distinti.
 
-**Risposta:** 18
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo20yq_yosen#q01|src_jjmo20yq_yosen__Q01]]
 
 
 
@@ -58,11 +63,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie prime (p,q) con p<=q in modo tale che pq divida 15(p-1)(q-1)*
+*Conta le coppie di numeri primi (p,q) con p<=q tali che pq divida 15(p-1)(q-1)*
 
-> $(p, q)$ sia una coppia di numeri primi con $p \le q$ tale che $pq$ divida $15(p-1)(q-1)$. Trova il numero di tutte le coppie $(p, q)$.
+> Sia $(p, q)$ una coppia di numeri primi con $p \le q$ tale che $pq$ divida $15(p-1)(q-1)$. Determinare il numero di tutte le coppie $(p, q)$ di questo tipo.
 
-**Risposta:** 31
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo20yq_yosen#q02|src_jjmo20yq_yosen__Q02]]
 
 
 
@@ -88,13 +98,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono inciso in cerchio con rettangolo BCDE e AB=EA=6; trovare raggio*
+*Pentagono inscritto in una circonferenza, con il rettangolo BCDE e AB=EA=6; trovare il raggio*
 
-> Un pentagono $ABCDE$ è inserito in un cerchio. Il quadrilaterale $BCDE$ è un rettangolo che soddisfa $BC = DE - 1$ e $AB = EA = 6$. Trova il raggio del cerchio. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Un pentagono $ABCDE$ è inscritto in una circonferenza. Il quadrilatero $BCDE$ è un rettangolo che soddisfa $BC = DE - 1$ e $AB = EA = 6$. Determinare il raggio della circonferenza. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
 ![[src_jjmo20yq_yosen__q03.png]]
 
-**Risposta:** 9
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo20yq_yosen#q03|src_jjmo20yq_yosen__Q03]]
 
 
 
@@ -118,11 +133,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo AB=5,BC=7,CA=6 con punti ceviani; circoncircolo di BDF tangente a EF*
+*Triangolo AB=5, BC=7, CA=6 con punti delle ceviane; circonferenza circoscritta a BDF tangente a EF*
 
-> Nel triangolo $ABC$ con $AB = 5$, $BC = 7$, $CA = 6$, $D$, $E$, $F$ siano punti sui lati $BC$, $CA$ e $AB$ rispettivamente (non coincidendo con nessun vertice). Il quadrilaterale $ABDE$ ha un cerchio circoscritto e il quadrilaterale $BCEF$ ha anche un cerchio circoscritto. Il cerchio circonscritto del triangolo $BDF$ è tangente al segmento di linea $EF$. Trova la lunghezza $EF$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Nel triangolo $ABC$ con $AB = 5$, $BC = 7$, $CA = 6$, siano $D$, $E$, $F$ dei punti appartenenti rispettivamente ai lati $BC$, $CA$, $AB$ (non coincidenti con alcun vertice). Il quadrilatero $ABDE$ ha una circonferenza circoscritta, e anche il quadrilatero $BCEF$ ha una circonferenza circoscritta. La circonferenza circoscritta al triangolo $BDF$ è tangente al segmento $EF$. Determinare la lunghezza $EF$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-**Risposta:** \dfrac{75}{37}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo20yq_yosen#q04|src_jjmo20yq_yosen__Q04]]
 
 
 
@@ -146,11 +166,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*45x45 griglia, 2022 cellule nere; massimo n garantendo tutto nero n×n sottogriglia*
+*Griglia 45x45, 2022 celle nere; n massimo che garantisce una sottogriglia n×n interamente nera*
 
-> C'è una griglia $45 \times 45$ di quadrati unitari. Esattamente le cellule $2022$ devono essere colorate di nero. Trova il numero intero massimo $n$ in modo tale che, indipendentemente dal modo in cui le celle $2022$ sono scelte, esista sempre una sottogrida contiguale $n \times n$ (formata da righe consecutive $n$ e colonne consecutive $n$ della griglia originale) in cui ogni cella è colorata in nero.
+> C'è una griglia di $45 \times 45$ quadrati unitari. Esattamente $2022$ celle devono essere colorate di nero. Determinare il massimo intero $n$ tale che, qualunque sia la scelta delle $2022$ celle, esista sempre una sottogriglia contigua $n \times n$ (formata da $n$ righe consecutive e da $n$ colonne consecutive della griglia originale) in cui ogni cella è colorata di nero.
 
-**Risposta:** 22
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo20yq_yosen#q05|src_jjmo20yq_yosen__Q05]]
 
 
 
@@ -176,13 +201,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre triangoli rettangolari in cascata formano il pentagono dell'area 23; trovare FD*
+*Tre triangoli retti in cascata formano un pentagono di area 23; trova FD*
 
-> I triangoli rettangolari $ABC$, $ADE$, $EFG$ hanno angoli rettangolari rispettivamente $C$, $E$ e $G$, e sono disposti in modo da condividere vertici come mostrato nella figura seguente (la figura è una piramide in 3D con l'etichetta $B$, $D$ e $F$, $G$). Il pentagono $ABDGE$ ha superficie $23$ e $AB = 8$. Dato che $FD > DG$, trovare la lunghezza $FD$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> I triangoli rettangoli $ABC$, $ADE$, $EFG$ hanno angoli retti rispettivamente in $C$, $E$, $G$, e sono disposti in modo da condividere i vertici come mostrato nella figura sottostante (la figura è una piramide dall'aspetto tridimensionale con $B$, $D$ e $F$, $G$ etichettati). Il pentagono $ABDGE$ ha area $23$, e $AB = 8$. Dato che $FD > DG$, determina la lunghezza $FD$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
 ![[src_jjmo20yq_yosen__q06.png]]
 
-**Risposta:** 2+\sqrt{2}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo20yq_yosen#q06|src_jjmo20yq_yosen__Q06]]
 
 
 
@@ -206,11 +236,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare 5 volte dei numeri interi non negativi che sommano fino al 2022 senza che nessuno sia divisibile per 3*
+*Conta le 5-tuple di interi non negativi la cui somma è 2022 e in cui nessun elemento è divisibile per 3*
 
-> Trova il numero di 5 tupli $(a, b, c, d, e)$ di enti interi non negativi che soddisfano $a + b + c + d + e = 2022$ in modo tale che nessuno di $a, b, c, d, e$ sia divisibile da $3$. (Il numero intero $0$ non è considerato divisibile da $3$ ai fini di questo problema.)
+> Trovare il numero di 5-tuple $(a, b, c, d, e)$ di interi non negativi che soddisfano $a + b + c + d + e = 2022$ in modo che nessuno di $a, b, c, d, e$ sia divisibile per $3$. (Ai fini di questo problema, l'intero $0$ non si considera divisibile per $3$.)
 
-**Risposta:** 500149500
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo20yq_yosen#q07|src_jjmo20yq_yosen__Q07]]
 
 
 
@@ -236,13 +271,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri tutti e 8 i valori
+*Assegna i valori da 1 a 8 a 20 blocchi di un cubo forato 3x3x3, in modo che ciascuna faccia esterna mostri tutti e 8 i valori*
 
-> Considerate un solido costituito da cubi unitari $20$ (blocchi $1 \times 1 \times 1$), ottenuto da un cubo $3 \times 3 \times 3$ rimuovendo il blocco centrale e tutti e sei i blocchi che condividono una faccia con esso (così vengono rimossi i blocchi $7$). Assegna un numero intero da $\{1, 2, 3, 4, 5, 6, 7, 8\}$ a ciascuno dei blocchi $20$ rimanenti, utilizzando ogni numero intero esattamente una volta. Per ciascuna delle sei facce esterne del solido, i blocchi $8$ visibili su tale faccia devono ricevere tutti i diversi enti $8$. Due incarichi sono considerati diversi se differiscono in almeno un blocco. Trova il numero di incarichi validi.
+> Si consideri un solido composto da $20$ cubi unitari ($1 \times 1 \times 1$ blocchi), ottenuto da un cubo $3 \times 3 \times 3$ rimuovendo il blocco centrale e tutti e sei i blocchi ad esso connessi per una faccia (pertanto vengono rimossi $7$ blocchi). Si assegni a ciascuno dei $20$ blocchi rimanenti un intero appartenente a $\{1, 2, 3, 4, 5, 6, 7, 8\}$, utilizzando ciascun intero esattamente una volta. Per ciascuna delle sei facce esterne del solido, i $8$ blocchi visibili su quella faccia devono ricevere tutti i $8$ interi distinti. Due assegnazioni si considerano diverse se differiscono almeno su un blocco. Determinare il numero di assegnazioni valide.
 
 ![[src_jjmo20yq_yosen__q08.png]]
 
-**Risposta:** 80640
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo20yq_yosen#q08|src_jjmo20yq_yosen__Q08]]
 
 
 
@@ -266,11 +306,16 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta n<=2022 che ammette un multiplo con esattamente una cifra a 0, tutti gli altri 2*
+*Conteggio dei n≤2022 che ammettono un multiplo con esattamente una cifra 0 e tutte le altre cifre 2*
 
-> Trova il numero di interi positivi $n \le 2022$ per i quali esiste un intero positivo divisibile da $n$, ha esattamente una cifra uguale a $0$ e tutte le altre cifre uguali a $2$.
+> Trovare il numero degli interi positivi $n \le 2022$ per i quali esiste un intero positivo divisibile per $n$, che ha esattamente una cifra uguale a $0$ e tutte le altre cifre uguali a $2$.
 
-**Risposta:** 1700
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo20yq_yosen#q09|src_jjmo20yq_yosen__Q09]]
 
 
 
@@ -294,11 +339,16 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Anello di 103 quadrati; A si muove pezzo per c o d, B per a o b; conteggio (a,b,c,d)*
+*Anello di 103 caselle; A sposta il pezzo per c o d, B per a o b; conta (a,b,c,d)*
 
-> $a, b, c, d$ siano numeri interi che soddisfino $0 < a < b < c < d < 163$. Considerate i quadrati $103$ disposti in un anello (circolo), con un quadrato etichettato $S$ e il quadrato passo uno in senso contrario all'orologio da $S$ etichettato $G$. Un token inizia a $S$. I giocatori $A$ e $B$ si alternano, a partire da $A$:\n- Al turno di $A$: spostare il token in senso orario di $c$ o $d$ quadrati.\n- Al turno di $B$: spostare il token in senso orario di $a$ o $b$ quadrati.\nL'obiettivo del giocatore $B$ è quello di avere il token a terra su $G$ immediatamente dopo uno dei movimenti di $B$. Trova il numero di 4 doppi $(a, b, c, d)$ per i quali il giocatore $B$ può sempre raggiungere l'obiettivo in finite mosse, indipendentemente dalle scelte del giocatore $A$.
+> Siano $a, b, c, d$ gli interi che soddisfano $0 < a < b < c < d < 163$. Si considerino $103$ caselle disposte a anello (in cerchio), con una casella contrassegnata da $S$ e la casella situata a un passo in senso antiorario rispetto a $S$ contrassegnata da $G$. Un segnalino parte da $S$. I giocatori $A$ e $B$ si alternano nei turni, iniziando con $A$:\n- Al turno di $A$: spostare il segnalino in senso orario di $c$ o $d$ caselle.\n- Al turno di $B$: spostare il segnalino in senso orario di $a$ o $b$ caselle.\nL'obiettivo del giocatore $B$ è far sì che il segnalino atterri su $G$ immediatamente dopo uno dei movimenti di $B$. Determinare il numero di 4-tuple $(a, b, c, d)$ per cui il giocatore $B$ può sempre raggiungere l'obiettivo in un numero finito di mosse, indipendentemente dalle scelte del giocatore $A$.
 
-**Risposta:** 515100
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo20yq_yosen#q10|src_jjmo20yq_yosen__Q10]]
 
 
 
@@ -322,11 +372,16 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles AB=AC con punto interno simile a Brocard P; trovare BC*
+*Triangolo isoscele AB=AC con punto interno P di tipo Brocard; trovare BC*
 
-> Lasciate che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$, e lasciate che $P$ sia un punto interno soddisfacente $\angle PAB = \angle PBC = \angle PCA$. Se le superfici dei triangoli $PAB$ e $PCA$ sono rispettivamente $4$ e $1$, si trova la lunghezza $BC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Sia $ABC$ un triangolo isoscele con $AB = AC$, e sia $P$ un punto interno che soddisfa $\angle PAB = \angle PBC = \angle PCA$. Se le aree dei triangoli $PAB$ e $PCA$ sono rispettivamente $4$ e $1$, determina la lunghezza $BC$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-**Risposta:** \sqrt{26}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo20yq_yosen#q11|src_jjmo20yq_yosen__Q11]]
 
 
 
@@ -352,10 +407,15 @@ Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri t
 <div class="qlang-split" data-lang="it"></div>
 
 
-*edificio di corridoio a 3 piani, con 40 camere al piano; al massimo robot senza due incontri sui corridoi*
+*Edificio a corridoi con 3 piani e 40 stanze per piano; numero massimo di robot, senza che due di essi si incontrino nei corridoi*
 
-> Un edificio ha i piani $3$, ognuno dei quali contiene stanze $40$ disposte lungo un corridoio, come mostrato nella figura (le stanze sono rappresentate da punti $\bullet$ e dai corridoi che collegano le stanze adiacenti per segmenti di linea). In ogni stanza può essere posto al massimo un robot. A ogni robot inserito viene assegnato esattamente un corridoio (orlo) collegato alla sua stanza. Tutti i robot si muovono contemporaneamente lungo il corridoio assegnato alla stanza all'altra estremità e si fermano contemporaneamente. Durante questo movimento, nessun robot può occupare la stessa posizione contemporaneamente (cioè non devono incontrarsi), e le stanze in cui arrivano i robot devono essere tutte distinte. $N$ è il numero massimo di robot che possono essere posizionati in conformità di queste condizioni. Quando i robot $N$ sono posizionati, trovare il numero di modi validi per posizionare i robot $N$ e assegnare a ciascuno un corridoio. (I robot sono considerati indistinguibili.)
+> Un edificio ha $3$ piani, ciascuno dei quali contiene $40$ stanze disposte lungo un corridoio, come mostrato nella figura (le stanze sono rappresentate da punti $\bullet$ e i corridoi che collegano le stanze adiacenti da segmenti di retta). In ciascuna stanza si può collocare al massimo un robot. A ciascun robot collocato viene assegnato esattamente un corridoio (spigolo) collegato alla sua stanza. Successivamente, tutti i robot si muovono simultaneamente lungo il corridoio assegnato verso la stanza all'altra estremità e si fermano simultaneamente. Durante questo movimento, non due robot possono occupare la stessa posizione nello stesso istante (cioè non devono incontrarsi), e le stanze in cui i robot arrivano devono essere tutte distinte. Sia $N$ il numero massimo di robot che si possono collocare soddisfacendo queste condizioni. Quando vengono collocati $N$ robot, determinare il numero di modi validi per collocare i $N$ robot e assegnare a ciascuno un corridoio. (I robot si considerano indistinguibili.)
 
 ![[src_jjmo20yq_yosen__q12.png]]
 
-**Risposta:** 12544
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo20yq_yosen#q12|src_jjmo20yq_yosen__Q12]]

@@ -31,13 +31,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rational intervals boxed with empty intersection*
+*Rational intervals enclosed with empty intersection*
 
-> For $a < b$ rational numbers, the set, which we will denote with $R[a; b]$, is said to be ** rational closed interval** if it contains only the rational numbers between $a$ and $b$, $a$ and $b$ included. Show or refute the following statement:
-> 
-> 'If $\{A_n\} = \{R[a_n; b_n]\}$ ($n = 1, 2, \ldots$) is a sequence of closed, rational and boxed intervals (i.e. $A_{n+1} \subseteq A_n$ for each $n$), then the intersection of $A_n$ cannot be empty.'
+> For $a < b$ rational numbers, the set, which we will denote by $R[a; b]$, is called a **closed rational interval** if it contains exactly all the rational numbers between $a$ and $b$, inclusive, and between $a$ and $b$, inclusive. Prove or refute the following statement:
+>
+> If $\{A_n\} = \{R[a_n; b_n]\}$ ($n = 1, 2, \ldots$) is a sequence of rational, nested closed intervals (that is, $A_{n+1} \subseteq A_n$ for every $n$), then the intersection of the $A_n$ cannot be empty.
 
-**Answer:** False
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2025_student_finale#qs1|src_kangourou_2025_student_finale__QS1]]
 
 
 
@@ -61,11 +65,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many ways 270 as consecutive integers*
+*In how many ways can 270 be expressed as the sum of consecutive integers?*
 
-> How many different ways can $270$ be obtained by adding consecutive positive integers?
+> In how many different ways can $270$ be obtained by adding consecutive positive integers?
 
-**Answer:** 7
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2025_student_finale#qs2|src_kangourou_2025_student_finale__QS2]]
 
 
 
@@ -90,13 +99,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*longer than the diameter?*
+*Longer than the diameter?*
 
 ![[src_kangourou_2025_student_finale__probs3.png]]
 
-> Two points on the circumference of a circle $\Gamma$ are endpoints of an arc $\delta$ of another circle. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$?
+> Two points on the circumference of a circle $\Gamma$ are the endpoints of an arc $\delta$ of another circle. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$?
 
-**Answer:** Yes
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2025_student_finale#qs3|src_kangourou_2025_student_finale__QS3]]
 
 
 
@@ -123,15 +136,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Strategy selected red/green decks of cards*
+*Strategy chosen: red/green card decks*
 
-> My friend and I play the following game. On a table there are four sets of $7$ cards each, of which $4$ are red and $3$ are green, randomly mixed. Each player plays with a deck, different from the other's deck, and catches a random card from it. The four decks assign different scores to the player depending on whether they extract a red or a green card: specifically, the first deck assigns $6$ points and $2$ points respectively to red and green card extraction, the second deck $5$ points and $5$ points, the third deck $4$ points and $7$ points, the fourth deck $3$ points and $3$ points. Of course, the one with the highest score wins.
-> 
-> (a) If I can choose a deck first and my friend has to fish one of the remaining three decks at random (and we both still have to play), which deck should I choose?
-> 
-> (b) If we can both choose the deck to play with (and the choice must be made before playing), should I be the first or the second to choose?
+> My friend and I play the following game. On a table, there are four packets of $7$ cards each; of these, $4$ are red and $3$ are green, mixed randomly. Each player plays with a deck different from the other player's deck and draws one card at random from it. The four decks assign different scores to the player depending on whether they draw a red card or a green card: specifically, the first deck awards $6$ points and $2$ points for drawing a red card and a green card, respectively; the second deck awards $5$ points and $5$ points; the third deck awards $4$ points and $7$ points; the fourth deck awards $3$ points and $3$ points. Naturally, the one who achieves the highest score wins.
+>
+> a) If I can choose a deck first and my friend instead has to randomly draw one of the remaining three decks (and we both still have to play), which deck should I choose?
+>
+> b) If we can both choose the deck we'll play with (and the choice must be made before playing), is it better for me to be the first or the second to choose?
 
-**Answer:** a) third b) second
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2025_student_finale#qs4|src_kangourou_2025_student_finale__QS4]]
 
 
 
@@ -157,13 +174,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n distinct integers each divided by the sum of other n-1*
+*In distinct interiors, each divides the sum of the other n-1*
 
-> Show or refute the following statement.
-> 
-> 'For each $n \geq 3$ there are $n$ integers all different from each other such that each of them divides the sum of the remaining $n - 1$.'
+> Prove or refute the following statement.
+>
+> For every integer $n \geq 3$, there exist $n$ distinct integers such that each of them divides the sum of the remaining $n - 1$.
 
-**Answer:** true
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2025_student_finale#qs5|src_kangourou_2025_student_finale__QS5]]
 
 
 
@@ -187,8 +209,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of choices of 10 elements with increasing distances*
+*Number of selections of 10 elements with increasing distances*
 
-> Consider the ordered set $S = (1, 2, \ldots, n)$ of the first $n$ positive integers and be $n$ large enough to achieve the following. You want to select an ordered subset of $S$ (i.e. you inherit the order from $S$) of $10$ such elements that the second is at least $1$ away from the first, the third is at least $2$ away from the second, the fourth is at least $3$ away from the third and so on until the tenth is at least $9$ away from the ninth. Note: the distance between a number chosen and the previous number chosen is not required to increase as the number chosen increases; for example, the second could be $5$ away from the first and the third could be $2$ away from the second. If $n$ is eligible, how many different choices are possible?
+> Consider the ordered set $S = (1, 2, \ldots, n)$ of the first $n$ positive integers, and let $n$ be sufficiently large to enable the following. We wish to select an ordered subset of $S$ (that is, one that inherits the order from that of $S$) having $10$ elements such that the second is at least $1$ away from the first, the third is at least $2$ away from the second, the fourth is at least $3$ away from the third, and so on up to the tenth, which must be at least $9$ away from the ninth. Note: it is not required that the distance between a chosen number and the previously chosen number increase as the chosen number increases; for example, the second might be $5$ away from the first, and the third might be $2$ away from the second. As $n$ varies (within the admissible range), how many different choices are possible?
 
-**Answer:** (n-36)!/((n-46)!10!)
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2025_student_finale#qs6|src_kangourou_2025_student_finale__QS6]]

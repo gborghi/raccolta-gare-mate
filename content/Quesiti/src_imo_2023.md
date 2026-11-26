@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Compounds n with divisible by +1+di+2*
+*Composite n > 1 whose ordered divisors each divide the sum of the next two*
 
-> Determine all $n > 1$ integers that satisfy the following property: if $d_1, d_2, \ldots, d_k$ are all positive divisors of $n$ with $1 = d_1 < d_2 < \cdots < d_k = n$, then $d_i$ divides $d_{i+1} + d_{i+2}$ by each $1 \leq i \leq k-2$.
+> Determine all composite integers $n > 1$ that satisfy the following property: if $d_1, d_2, \ldots, d_k$ are all the positive divisors of $n$ with $1 = d_1 < d_2 < \cdots < d_k = n$, then $d_i$ divides $d_{i+1} + d_{i+2}$ for every $1 \leq i \leq k-2$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_2023#q01|src_imo_2023__Q01]]
 
 
 
@@ -56,11 +63,18 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Omega tangent in P meets BS on the visor*
+*The tangent to ω at P meets BS on the internal bisector of angle BAC*
 
-> Whether $ABC$ is an acute triangle with $AB < AC$. Whether $\Omega$ the circumscribed circumference of $ABC$. Whether $S$ is the middle point of the $CB$ arc of $\Omega$ containing $A$. The perpendicular from $A$ to $BC$ meets $BS$ in $D$ and meets $\Omega$ again in $E \neq A$. The line for $D$ parallel to $BC$ meets the line $BE$ in $L$. Whether $\omega$ the circumference circumscribed at the $BDL$ triangle. Be $P \neq B$ the second intersection point of $\omega$ with $\Omega$.
-> 
-> Demonstrate that the tangent to $\omega$ in $P$ meets the line $BS$ on the inner beam of $\angle BAC$.
+> Let $ABC$ be an acute triangle with $AB < AC$. Let $\Omega$ be the circumcircle of $ABC$. Let $S$ be the midpoint of the arc $CB$ of $\Omega$ containing $A$. The perpendicular from $A$ to $BC$ meets $BS$ at $D$ and meets $\Omega$ again at $E \neq A$. The line through $D$ parallel to $BC$ meets the line $BE$ at $L$. Let $\omega$ be the circumcircle of triangle $BDL$. Let $P \neq B$ be the second point of intersection of $\omega$ with $\Omega$.
+>
+> Prove that the tangent to $\omega$ at $P$ meets the line $BS$ on the internal bisector of $\angle BAC$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_2023#q02|src_imo_2023__Q02]]
 
 
 
@@ -87,9 +101,20 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Successes with P(an) = an+1...an+k monic polynomial*
+*Sequences of positive integers given by a monic polynomial with non-negative coefficients*
 
-> For each integer $k \geq 2$, determine all the infinite sequences of positive integers $a_1, a_2, \ldots$ for which there exists a $P$ polynomial of the form $$P(x) = x^k + c_{k-1}x^{k-1} + \cdots + c_1 x + c_0,$$ where $c_0, c_1, \ldots, c_{k-1}$ are nonnegative integers, such that $$P(a_n) = a_{n+1} a_{n+2} \cdots a_{n+k}$$ for each integer $n \geq 1$.
+> For every integer $k \geq 2$, determine all infinite sequences of positive integers $a_1, a_2, \ldots$ for which there exists a polynomial $P$ of the form
+> $$P(x) = x^k + c_{k-1}x^{k-1} + \cdots + c_1 x + c_0,$$
+> where $c_0, c_1, \ldots, c_{k-1}$ are non-negative integers, such that
+> $$P(a_n) = a_{n+1} a_{n+2} \cdots a_{n+k}$$
+> for every integer $n \geq 1$.
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_2023#q03|src_imo_2023__Q03]]
 
 
 
@@ -114,9 +139,18 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Demonstrate a2023>=3034 (roots of sums and reciprocal)*
+*A sequence of integer quadratic means of distinct positive reals is at least 3034 at n = 2023*
 
-> $x_1, x_2, \ldots, x_{2023}$ are real positive numbers with two to two distinct ones such that $$a_n = \sqrt{(x_1 + x_2 + \cdots + x_n)\left(\frac{1}{x_1} + \frac{1}{x_2} + \cdots + \frac{1}{x_n}\right)}$$ is an integer for each $n = 1, 2, \ldots, 2023$. Show that $a_{2023} \geq 3034$.
+> Let $x_1, x_2, \ldots, x_{2023}$ be pairwise distinct positive real numbers such that
+> $$a_n = \sqrt{(x_1 + x_2 + \cdots + x_n)\left(\frac{1}{x_1} + \frac{1}{x_2} + \cdots + \frac{1}{x_n}\right)}$$
+> is an integer for every $n = 1, 2, \ldots, 2023$. Prove that $a_{2023} \geq 3034$.
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_2023#q04|src_imo_2023__Q04]]
 
 
 
@@ -143,13 +177,18 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-Japanese triangle, max k red circles on ninja path
+*The longest guaranteed run of red circles on a ninja path in a Japanese triangle*
 
-![[src_imo_2023__prob5.png]]
+> Let $n$ be a positive integer. A *Japanese triangle* consists of $1 + 2 + \cdots + n$ circles arranged in an equilateral triangular shape, so that for every $i = 1, 2, \ldots, n$, the $i$th row contains exactly $i$ circles, exactly one of which is coloured red. A *ninja path* in a Japanese triangle is a sequence of $n$ circles obtained by starting from the top row, then repeatedly descending from a circle to one of the two circles immediately below it, and ending in the bottom row.
+>
+> As a function of $n$, find the largest integer $k$ such that in every Japanese triangle there exists a ninja path containing at least $k$ red circles.
 
-> It should be a positive integer. A Japanese *triangle* is composed of $1 + 2 + \cdots + n$ circles arranged in an equilateral triangular shape, so that for each $i = 1, 2, \ldots, n$, the $i$-eighth row contains exactly $i$ circles, exactly one of which is colored red. A *ninja path* in a Japanese triangle is a sequence of $n$ circles obtained starting from the top line, then descending repeatedly from a circle to one of the two circles immediately below it, and ending in the bottom line.
-> 
-> For $n$, find the largest integer $k$ such that in every Japanese triangle there is a ninja path containing at least $k$ red circles.
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_2023#q05|src_imo_2023__Q05]]
 
 
 
@@ -178,10 +217,19 @@ Japanese triangle, max k red circles on ninja path
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three circles pass through two common points*
+*Three circumcircles through a scalene interior triangle pass through two common points*
 
-> Whether $ABC$ is an equilateral triangle. They are $A_1, B_1, C_1$ internal points of $ABC$ such as $BA_1 = A_1C$, $CB_1 = B_1A$, $AC_1 = C_1B$, and $$\angle BA_1C + \angle CB_1A + \angle AC_1B = 480^\circ.$$ They are $BC_1$ and $CB_1$ meeting in $A_2$, $CA_1$ and $AC_1$ meeting in $B_2$, and $AB_1$ and $BA_1$ meeting in $C_2$.
-> 
-> Demonstrate that if the $A_1B_1C_1$ triangle is slender, then the three circumferences surrounding the $AA_1A_2$, $BB_1B_2$ and $CC_1C_2$ triangles all pass through two common points.
-> 
-> *(Note: a scalene triangle is a triangle in which no side has the same length as the others.)*
+> Let $ABC$ be an equilateral triangle. Let $A_1, B_1, C_1$ be interior points of $ABC$ such that $BA_1 = A_1C$, $CB_1 = B_1A$, $AC_1 = C_1B$, and
+> $$\angle BA_1C + \angle CB_1A + \angle AC_1B = 480^\circ.$$
+> Let $BC_1$ and $CB_1$ meet at $A_2$, $CA_1$ and $AC_1$ meet at $B_2$, and $AB_1$ and $BA_1$ meet at $C_2$.
+>
+> Prove that if triangle $A_1B_1C_1$ is scalene, then the three circumcircles of triangles $AA_1A_2$, $BB_1B_2$ and $CC_1C_2$ all pass through two common points.
+>
+> *(Note: a scalene triangle is a triangle in which no side has the same length as another.)*
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_2023#q06|src_imo_2023__Q06]]

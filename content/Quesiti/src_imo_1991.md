@@ -36,17 +36,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prodotto limitato dei rapporti tra distanza incentro-vertice e bisettrice*
+*Prodotto limitato dei rapporti tra incentro e vertice rispetto alle bisettrici*
 
-> Dato un triangolo ABC, sia I il centro della sua circonferenza inscritta.
-> Le bisettrici interne degli angoli A, B, C incontrano i lati opposti in
-> A′, B′, C′ rispettivamente. Si dimostri che
-> 1
-> 4 <
-> AI · BI · CI
-> AA′ · BB′ · CC′ ≤
-> 8
-> 27.
+> Dato un triangolo ABC, sia I il centro della sua circonferenza inscritta. Le bisettrici interne degli angoli A, B, C incontrano i lati opposti rispettivamente nei punti A′, B′, C′. Dimostrare che 1/4 < AI · BI · CI / (AA′ · BB′ · CC′) ≤ 8/27.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_imo_1991#q01|src_imo_1991__Q01]]
 
 
 
@@ -71,12 +69,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Totativi equamente spaziati implicano n primo o potenza di 2*
+*I totativi equispaziati implicano che n sia primo o una potenza di 2*
 
-> Sia n > 6 un intero e siano a1, a2, . . . , ak tutti i numeri naturali
-> minori di n e primi con n. Se
-> a2 −a1 = a3 −a2 = · · = ak −ak−1 > 0,
-> si dimostri che n è un numero primo oppure una potenza di 2.
+> Sia n > 6 un numero intero e siano a1, a2, ..., ak tutti i numeri naturali minori di n e coprimi con n. Se a2 − a1 = a3 − a2 = ... = ak − ak−1 > 0, dimostrare che n deve essere o un numero primo o una potenza di 2.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_1991#q02|src_imo_1991__Q02]]
 
 
 
@@ -103,13 +104,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Più piccolo n che forza cinque numeri a due a due coprimi in un sottoinsieme*
+*n minimo che implica cinque numeri a due a due coprimi in un sottoinsieme*
 
-> Sia S = {1, 2, 3, ..., 280}. Determinare il più piccolo intero n tale che ogni sottoinsieme di S formato da n elementi contenga cinque numeri a due a due primi tra loro.
->
-> Secondo giorno
-> 18 luglio 1991
-> Tempo a disposizione: 4½ ore
+> Sia S = {1, 2, 3, . . . , 280}. Determinare il più piccolo intero n tale che ogni sottoinsieme di S costituito da n elementi contenga cinque numeri coprimi a due a due. Secondo giorno, 18 luglio 1991. Tempo limite: 4 ore e 12 minuti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Principio di estremalita]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1991#q03|src_imo_1991__Q03]]
 
 
 
@@ -133,11 +136,17 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Label graph edges so each vertex has gcd 1*
+*Edge labels of a connected graph so that the gcd at each vertex is 1*
 
-> Whether $G$ is a connected graph with $k$ vertices. Demonstrate that it is possible to label beads with the numbers $1, 2, \ldots, k$ so that, for each vertex belonging to two or more beads, the maximum common divisor of the numbers with which those beads are labeled is $1$.
-> 
-> [A graph is a set of points, called vertices, together with a set of vertices that connect certain pairs of distinct vertices. Each pair of vertices $u$, $v$ belongs to at most one beam. The graph $G$ is connected if, for each pair of distinct vertices $x$, $y$, there is a succession of vertices $x = v_0, v_1, v_2, \ldots, v_m = y$ such that each pair $v_i, v_{i+1}$ (with $0 \leq i < m$) is joined by a beam of $G$.]
+> Let $G$ be a connected graph with $k$ edges. Prove that it is possible to label the edges with the numbers $1, 2, \ldots, k$ in such a way that, for every vertex belonging to two or more edges, the greatest common divisor of the numbers with which those edges are labelled is equal to $1$.
+>
+> [A graph is a set of points, called vertices, together with a set of edges joining certain pairs of distinct vertices. Each pair of vertices $u$, $v$ belongs to at most one edge. The graph $G$ is connected if, for every pair of distinct vertices $x$, $y$, there exists a sequence of vertices $x = v_0, v_1, v_2, \ldots, v_m = y$ such that each pair $v_i, v_{i+1}$ (with $0 \leq i < m$) is joined by an edge of $G$.]
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_1991#q04|src_imo_1991__Q04]]
 
 
 
@@ -159,9 +168,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interior point gives an angle at most 30 degrees*
+*At least one of the angles PAB, PBC, PCA is at most 30°*
 
-> Whether $ABC$ a triangle and $P$ an internal point at $ABC$. Demonstrate that at least one of the angles $\angle PAB$, $\angle PBC$, $\angle PCA$ is less than or equal to $30°$.
+> Let $ABC$ be a triangle and $P$ a point inside $ABC$. Prove that at least one of the angles $\angle PAB$, $\angle PBC$, $\angle PCA$ is less than or equal to $30°$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1991#q05|src_imo_1991__Q05]]
 
 
 
@@ -186,6 +201,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Construct bounded sequence with separation condition for a>1*
+*A bounded sequence whose terms are separated by a power of the index gap*
 
-> An infinite sequence $x_0, x_1, x_2, \ldots$ of real numbers is said to be finite if there exists a constant $C$ such that $|x_i| \leq C$ for each $i \geq 0$. Given a real number $a > 1$, construct a finite sequence $x_0, x_1, x_2, \ldots$ such that $$|x_i - x_j| \cdot |i - j|^a \geq 1$$ for each pair of distinct nonnegative integers $i$, $j$.
+> An infinite sequence $x_0, x_1, x_2, \ldots$ of real numbers is called bounded if there exists a constant $C$ such that $|x_i| \leq C$ for every $i \geq 0$. Given a real number $a > 1$, construct an infinite bounded sequence $x_0, x_1, x_2, \ldots$ such that
+> $$|x_i - x_j| \cdot |i - j|^a \geq 1$$
+> for every pair of distinct non-negative integers $i$, $j$.
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_1991#q06|src_imo_1991__Q06]]

@@ -29,11 +29,15 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riferazione incrociata al problema 1 del livello 2 (dichiarazione non presente in queste pagine).*
+*Riferimento incrociato al Problema 1 del Livello 2 (l'enunciato non è in queste pagine).*
 
-> Vedi il problema 1 del livello 2.
+> Vedi il Problema 1 del Livello 2.
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f1#q01|src_obm_1998_n3_f1__Q01]]
 
 
 
@@ -56,11 +60,15 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cross-reference al problema 2 del livello 2 (dichiarazione non presente in queste pagine).*
+*Riferimento incrociato al Problema 2 del Livello 2 (l'enunciato non è in queste pagine).*
 
 > Vedi il problema 2 del livello 2.
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f1#q02|src_obm_1998_n3_f1__Q02]]
 
 
 
@@ -83,11 +91,15 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cross-reference al problema 5 del livello 2 (dichiarazione non presente in queste pagine).*
+*Riferimento incrociato al Problema 5 del Livello 2 (l'enunciato non è in queste pagine).*
 
 > Vedi il problema 5 del livello 2.
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f1#q03|src_obm_1998_n3_f1__Q03]]
 
 
 
@@ -110,11 +122,15 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riferazione incrociata al problema 6 del livello 2 (dichiarazione non presente in queste pagine).*
+*Riferimento incrociato al Problema 6 del Livello 2 (l'enunciato non è in queste pagine).*
 
-> Cfr. il problema 6 del livello 2.
+> Vedi il problema 6 del livello 2.
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f1#q04|src_obm_1998_n3_f1__Q04]]
 
 
 
@@ -137,11 +153,15 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cross-reference al problema 15 del livello 2 (dichiarazione non presente in queste pagine).*
+*Riferimento incrociato al Problema 15 del Livello 2 (l'enunciato non è in queste pagine).*
 
 > Vedi il problema 15 del livello 2.
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f1#q05|src_obm_1998_n3_f1__Q05]]
 
 
 
@@ -174,21 +194,25 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolare la radice quadrata del decimale ripetitivo 0,4444...*
+*Calcola la radice quadrata del numero decimale periodico 0,4444...*
 
 > $\sqrt{0{,}4444\ldots} =$
-> 
+>
 > A) $0{,}2222\ldots$
-> 
+>
 > B) $0{,}3333\ldots$
-> 
+>
 > C) $0{,}4444\ldots$
-> 
+>
 > D) $0{,}5555\ldots$
-> 
+>
 > E) $0{,}6666\ldots$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f1#q06|src_obm_1998_n3_f1__Q06]]
 
 
 
@@ -211,11 +235,15 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riferazione incrociata al problema 8 del livello 2 (dichiarazione non presente in queste pagine).*
+*Riferimento incrociato al Problema 8 del Livello 2 (l'enunciato non è in queste pagine).*
 
-> Cfr. il problema 8 del livello 2.
+> Vedi il problema 8 del livello 2.
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f1#q07|src_obm_1998_n3_f1__Q07]]
 
 
 
@@ -249,21 +277,26 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero massimo di lati di un poligono convex i cui angoli interni sono tutti inferiori a 160 gradi (e non possono essere uguali a 160).*
+*Numero massimo di lati di un poligono convesso i cui angoli interni sono tutti minori di 160 gradi (e non possono essere uguali a 160).*
 
-> Tutti gli angoli interni di un poligono converso sono inferiori a (non possono essere uguali a) $160^\circ$. Il numero di lati di questo poligono è, al massimo, uguale a:
-> 
+> Tutti gli angoli interni di un poligono convesso sono minori di (non possono essere uguali a) $160^\circ$. Il numero di lati di questo poligono è, al massimo, uguale a:
+>
 > A) 14
-> 
+>
 > B) 15
-> 
+>
 > C) 16
-> 
+>
 > D) 17
-> 
+>
 > E) 18
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1998_n3_f1#q08|src_obm_1998_n3_f1__Q08]]
 
 
 
@@ -296,21 +329,25 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La media aritmetica di sei numeri è 4; dopo l'aggiunta di un settimo numero la media diventa 5. Trova il numero aggiunto.*
+*La media aritmetica di sei numeri è 4; dopo aver aggiunto un settimo numero, la media diventa 5. Trovare il numero aggiunto.*
 
 > La media aritmetica di sei numeri è $4$. Quando aggiungiamo un settimo numero, la nuova media è $5$. Il numero che è stato aggiunto è:
-> 
+>
 > A) 5
-> 
+>
 > B) 6
-> 
+>
 > C) 8
-> 
+>
 > D) 10
-> 
+>
 > E) 11
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f1#q09|src_obm_1998_n3_f1__Q09]]
 
 
 
@@ -333,11 +370,15 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riferazione incrociata al problema 19 del livello 2 (dichiarazione non presente in queste pagine).*
+*Riferimento incrociato al Problema 19 del Livello 2 (l'enunciato non è in queste pagine).*
 
 > Vedi il problema 19 del livello 2.
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f1#q10|src_obm_1998_n3_f1__Q10]]
 
 
 
@@ -371,21 +412,26 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Su una calcolatrice, la chiave A mappa da x a 1/x e la chiave 2 è doppia; a partire da 2, viene digitata la sequenza ABABAB...AB (998 tasti). Trova il numero risultante.*
+*Su una calcolatrice, il tasto A associa a x il valore 1/x e il tasto 2 raddoppia; partendo da 2, si digita la sequenza ABABAB...AB (998 pressioni di tasti). Determinare il numero risultante.*
 
-> Su una calcolatrice, la chiave $A$ trasforma il numero $x$ sul display in $\dfrac{1}{x}$ e la chiave $2$ moltiplica per $2$ il numero sul display. Se il numero $2$ è sul display e digitamo la sequenza ABABABAB...AB (total di $998$ tastiere), il numero che apparirà sul display è uguale a:
-> 
+> Su una calcolatrice, il tasto $A$ trasforma il numero $x$ visualizzato in $\dfrac{1}{x}$, e il tasto $2$ moltiplica per $2$ il numero visualizzato. Se sul display compare il numero $2$ e digitiamo la sequenza ABABABAB...AB (per un totale di $998$ pressioni di tasti), il numero che apparirà sul display sarà uguale a:
+>
 > A) $1$
-> 
+>
 > B) $2^{498}$
-> 
+>
 > C) $2^{500}$
-> 
+>
 > D) $2^{499}$
-> 
+>
 > E) $2^{501}$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1998_n3_f1#q11|src_obm_1998_n3_f1__Q11]]
 
 
 
@@ -419,21 +465,26 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Un numero intero n è "buono" quando 4n+1 è un multiple di 5. Conteggi i numeri buoni tra 500 e 1000.*
+*Un numero intero n è "buono" quando 4n+1 è un multiplo di 5. Conta i numeri buoni compresi tra 500 e 1000.*
 
-> Un intero $n$ è buono quando $4n + 1$ è un multiple di $5$. Quanti numeri buoni ci sono tra $500$ e $1000$?
-> 
+> Un numero intero $n$ è buono quando $4n + 1$ è un multiplo di $5$. Quanti numeri buoni ci sono tra $500$ e $1000$?
+>
 > A) 50
-> 
+>
 > B) 51
-> 
+>
 > C) 100
-> 
+>
 > D) 101
-> 
+>
 > E) 102
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f1#q12|src_obm_1998_n3_f1__Q12]]
 
 
 
@@ -467,21 +518,26 @@ Un numero intero n è "buono" quando 4n+1 è un multiple di 5. Conteggi i numeri
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un insieme di punti nello spazio in cui due punti distinti sono a distanza 1, trovare il numero massimo di punti.*
+*In un insieme di punti nello spazio tali che due punti distinti qualsiasi siano a distanza 1, determinare il numero massimo di punti.*
 
-> In un insieme di punti nello spazio, la distanza tra due punti diversi è uguale a $1$. Il numero massimo di punti che questo insieme può avere è:
-> 
+> In un insieme di punti nello spazio, la distanza tra due punti distinti qualsiasi è uguale a $1$. Il numero massimo di punti che questo insieme può avere è:
+>
 > A) 2
-> 
+>
 > B) 3
-> 
+>
 > C) 4
-> 
+>
 > D) 6
-> 
+>
 > E) 8
 
-**Risposta:** C
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1998_n3_f1#q13|src_obm_1998_n3_f1__Q13]]
 
 
 
@@ -514,21 +570,25 @@ Un numero intero n è "buono" quando 4n+1 è un multiple di 5. Conteggi i numeri
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se x uomini fanno x bundles in x secondi, quanti secondi ci vogliono y uomini per fare y bundles?*
+*Se x uomini producono x pacchi in x secondi, quanti secondi impiegano y uomini a produrre y pacchi?*
 
-> Se gli uomini $x$ fanno $x$ bundles in $x$ secondi, in quanti secondi gli uomini $y$ faranno $y$ bundles?
-> 
+> Se $x$ uomini fanno $x$ fasci in $x$ secondi, in quanti secondi $y$ uomini faranno $y$ fasci?
+>
 > A) $y$
-> 
+>
 > B) $x$
-> 
+>
 > C) $\dfrac{x^2}{y}$
-> 
+>
 > D) $\dfrac{y^2}{x}$
-> 
+>
 > E) $\dfrac{y}{x}$
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1998_n3_f1#q14|src_obm_1998_n3_f1__Q14]]
 
 
 
@@ -561,21 +621,25 @@ Un numero intero n è "buono" quando 4n+1 è un multiple di 5. Conteggi i numeri
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il prezzo della pizza è proporzionale all'area; una pizza di 20 cm di diametro costa R\$3,60. Trova il prezzo di una pizza di 30 cm di diametro.*
+*Il prezzo della pizza è proporzionale all'area; una pizza con diametro di 20 cm costa R$ 3,60. Determinare il prezzo di una pizza con diametro di 30 cm.*
 
-> Entrate in un ristorante per mangiare pizza e vi aspettate di pagare un importo proporzionale alla quantità di cibo ordinato. Se una pizza di $20\,\text{cm}$ diametro costa R\$ $3{,}60$, how much should you expect to pay for another one of the same flavor with $30\,\text{cm}$ diametro?
-> 
+> Entri in un ristorante per mangiare la pizza e ti aspetti di pagare un importo proporzionale alla quantità di cibo ordinata. Se una pizza di diametro $20\,\text{cm}$ costa R\$ $3{,}60$, how much should you expect to pay for another one of the same flavor with $30\,\text{cm}$ di diametro?
+>
 > A) R\$ $5{,}40$
-> 
+>
 > B) R\$ $5{,}80$
-> 
+>
 > C) R\$ $6{,}60$
-> 
+>
 > D) R\$ $7{,}50$
-> 
+>
 > E) R\$ $8{,}10$
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f1#q15|src_obm_1998_n3_f1__Q15]]
 
 
 
@@ -609,21 +673,26 @@ Il prezzo della pizza è proporzionale all'area; una pizza di 20 cm di diametro 
 <div class="qlang-split" data-lang="it"></div>
 
 
-La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}. Trova il valore massimo di f ((x).*
+*La funzione f associa a ogni numero reale x l'elemento minore dell'insieme {x+1, (15-x)/2}. Determinare il valore massimo di f(x).*
 
-> La funzione $f$ associa a ogni numero reale $x$ il più piccolo elemento del set $\left\{x+1,\ \dfrac{15-x}{2}\right\}$. Il valore massimo di $f(x)$ è:
-> 
+> La funzione $f$ associa a ogni numero reale $x$ l'elemento minimo dell'insieme $\left\{x+1,\ \dfrac{15-x}{2}\right\}$. Il valore massimo di $f(x)$ è:
+>
 > A) $4$
-> 
+>
 > B) $5$
-> 
+>
 > C) $\dfrac{11}{2}$
-> 
+>
 > D) $\dfrac{16}{3}$
-> 
+>
 > E) $\dfrac{19}{4}$
 
-**Risposta:** D
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1998_n3_f1#q16|src_obm_1998_n3_f1__Q16]]
 
 
 
@@ -656,21 +725,25 @@ La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due radio vendute a prezzi uguali, una con profitto del 25% e una con perdita del 25%; trovare il risultato netto sul capitale investito.*
+*Due radio vendute allo stesso prezzo: una con un utile del 25% e l'altra con una perdita del 25%; determinare il risultato netto sul capitale investito.*
 
-> Ho venduto due radio a prezzi uguali. Su una di esse ho ottenuto un profitto di $25\%$ sul prezzo di acquisto, e sull'altra una perdita di $25\%$. Per quanto riguarda il capitale investito:
-> 
-> A) Non avevo né profitto né perdita
-> 
-> B) Ho ottenuto un profitto di $6{,}25\%$
-> 
-> C) Ho ottenuto un profitto di $16\%$
-> 
-> D) Ho perso $6{,}25\%$
-> 
-> E) Ho perso $16\%$
+> Ho venduto due radio allo stesso prezzo. Su una di esse ho realizzato un profitto di $25\%$ rispetto al prezzo di acquisto, e sull'altra una perdita di $25\%$. Rispetto al capitale investito:
+>
+> A) Non ho avuto né profitto né perdita
+>
+> B) Ho realizzato un profitto di $6{,}25\%$
+>
+> C) Ho realizzato un profitto di $16\%$
+>
+> D) Ho subito una perdita di $6{,}25\%$
+>
+> E) Ho subito una perdita di $16\%$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f1#q17|src_obm_1998_n3_f1__Q17]]
 
 
 
@@ -711,25 +784,33 @@ La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro persone fanno dichiarazioni sulla risposta a un problema; trovare il numero massimo che possa essere simultaneamente vero.*
+*Quattro persone fanno delle affermazioni riguardo alla soluzione di un problema; determina il numero massimo di tali affermazioni che possono essere vere contemporaneamente.*
 
-> Per quanto riguarda la risposta a un problema, Maurício, Paulo, Eduardo e Carlos hanno fatto le seguenti dichiarazioni:
-> 
-> - Maurício: è superiore a $5$. - Paulo: è superiore a $10$. E' un numero primo. - Carlos: è maggiore di$12$.
-> 
-> Tra le affermazioni di cui sopra, quante possono essere vere?
-> 
+> Riguardo alla soluzione di un problema, Maurício, Paulo, Eduardo e Carlos hanno fatto le seguenti dichiarazioni:
+>
+> - Maurício: È maggiore di $5$.
+> - Paulo: È maggiore di $10$.
+> - Eduardo: È un numero primo.
+> - Carlos: È maggiore di $12$.
+>
+> Tra le affermazioni sopra elencate, quante, al massimo, possono essere vere?
+>
 > A) $0$
-> 
+>
 > B) $1$
-> 
+>
 > C) $2$
-> 
+>
 > D) $3$
-> 
+>
 > E) $4$
 
-**Risposta:** D
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n3_f1#q18|src_obm_1998_n3_f1__Q18]]
 
 
 
@@ -763,21 +844,26 @@ La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i valori reali di x che soddisfano sqrt(x) + sqrt(1/x) <= 2.*
+*Trovare i valori reali di x che soddisfano sqrt(x) + sqrt(1/x) <= 2.*
 
 > I valori reali di $x$ che soddisfano la disuguaglianza $\sqrt{x} + \sqrt{\dfrac{1}{x}} \le 2$ sono:
-> 
+>
 > A) $-1 \le x \le 1$
-> 
+>
 > B) $x = 1$
-> 
+>
 > C) $x \le 1$
-> 
+>
 > D) $x \ge 1$
-> 
+>
 > E) $x \le 2$
 
-**Risposta:** B
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1998_n3_f1#q19|src_obm_1998_n3_f1__Q19]]
 
 
 
@@ -815,25 +901,30 @@ La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizionare due A, due B e due C in una tabella 2x3, una per ogni cella, in modo che nessuna colonna contenga due lettere uguali; contare gli arrangiamenti.*
+*Colloca due A, due B e due C in una tabella 2x3, una lettera per cella, in modo che nessuna colonna contenga due lettere uguali; conta le disposizioni.*
 
-> In quanti modi può un posto nella tabella sotto due lettere $A$, due lettere $B$ e due lettere $C$, una in ogni cella, in modo che non ci siano due lettere uguali nella stessa colonna?
-> 
-> \cominciare{tikzpicture}\disegnare (0,0) griglia (3,2);\finire{tikzpicture}
-> 
+> In quanti modi si possono collocare nella tabella sottostante due lettere $A$, due lettere $B$ e due lettere $C$, una in ogni cella, in modo che non ci siano due lettere uguali nella stessa colonna?
+>
+> \begin{tikzpicture}\draw (0,0) grid (3,2);\end{tikzpicture}
+>
 > A) $12$
-> 
+>
 > B) $24$
-> 
+>
 > C) $36$
-> 
+>
 > D) $48$
-> 
+>
 > E) $64$
 
 ![[src_obm_1998_n3_f1__q20.png]]
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1998_n3_f1#q20|src_obm_1998_n3_f1__Q20]]
 
 
 
@@ -867,21 +958,26 @@ La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}.
 <div class="qlang-split" data-lang="it"></div>
 
 
-Un viaggiatore deve camminare un'ora tra nord e est a 30 gradi da est, ma erroneamente cammina un'ora tra ovest e nord a 30 gradi da nord; trova l'angolo da nord della direzione che deve prendere ora.*
+*Un viaggiatore dovrebbe camminare per un'ora tra nord ed est, con un angolo di 30 gradi rispetto a est, ma per errore cammina per un'ora tra ovest e nord, con un angolo di 30 gradi rispetto a nord; determina l'angolo, rispetto a nord, della direzione che deve prendere ora.*
 
-> Un viaggiatore deve camminare per un'ora in direzione tra nord e est, facendo $30^\circ$ con est. Ha sbagliato e camminato per un'ora in direzione tra ovest e nord, formando $30^\circ$ con nord. Per raggiungere la sua destinazione, ora deve prendere una direzione che faccia con il nord un angolo di:
-> 
+> Un viaggiatore dovrebbe camminare per un'ora in una direzione compresa tra nord ed est, formando $30^\circ$ con est. Ha sbagliato e ha camminato per un'ora in una direzione compresa tra ovest e nord, formando $30^\circ$ con nord. Per raggiungere la sua destinazione, ora deve prendere una direzione che forma con nord un angolo di:
+>
 > A) $0^\circ$
-> 
+>
 > B) $30^\circ$
-> 
+>
 > C) $45^\circ$
-> 
+>
 > D) $60^\circ$
-> 
+>
 > E) $90^\circ$
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1998_n3_f1#q21|src_obm_1998_n3_f1__Q21]]
 
 
 
@@ -914,21 +1010,25 @@ Un viaggiatore deve camminare un'ora tra nord e est a 30 gradi da est, ma errone
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I traghetti impiegano 25 minuti e lanciano 15 minuti da Rio a Niteroi; scoprire quando il traghetto che partì alle 10h01 viene superato dal lancio che partì alle 10h07.*
+*I traghetti impiegano 25 minuti e i motoscafi 15 minuti da Rio a Niteroi; determina quando il traghetto partito alle 10:01 viene superato dal motoscafo partito alle 10:07.*
 
-> I traghetti partono da Rio a Niterói in $25$ minuti e i lanci fanno il viaggio in $15$ minuti. A che ora il traghetto che partì da Rio alle 10:01 è stato superato dal lancio che ha lasciato Rio alle 10:07?
-> 
+> I traghetti impiegano $25$ minuti per andare da Rio a Niterói, mentre i motoscafi compiono il tragitto in $15$ minuti. A che ora il traghetto partito da Rio alle 10h01min viene superato dal motoscafo partito da Rio alle 10h07min?
+>
 > A) 10h 15min
-> 
+>
 > B) 10h 16min
-> 
+>
 > C) 10h 17min
-> 
-> D) 10 ore 18 minuti
-> 
-> E) 10 ore e 20 minuti
+>
+> D) 10h 18min
+>
+> E) 10h 20min
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1998_n3_f1#q22|src_obm_1998_n3_f1__Q22]]
 
 
 
@@ -951,11 +1051,15 @@ Un viaggiatore deve camminare un'ora tra nord e est a 30 gradi da est, ma errone
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riferazione incrociata al problema 17 del livello 2 (dichiarazione non presente in queste pagine).*
+*Riferimento incrociato al Problema 17 del Livello 2 (l'enunciato non è in queste pagine).*
 
-> Cfr. il problema 17 del livello 2.
+> Vedi il Problema 17 del Livello 2.
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_1998_n3_f1#q23|src_obm_1998_n3_f1__Q23]]
 
 
 
@@ -989,21 +1093,26 @@ Un viaggiatore deve camminare un'ora tra nord e est a 30 gradi da est, ma errone
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare la somma delle radici reali di x^3 + 3x^2 + 3x - 1 = 0.*
+*Trovare la somma delle radici reali dell'equazione x^3 + 3x^2 + 3x - 1 = 0.*
 
 > La somma delle radici reali di $x^3 + 3x^2 + 3x - 1 = 0$ è:
-> 
+>
 > A) $-3$
-> 
+>
 > B) $1 - \sqrt[3]{2}$
-> 
+>
 > C) $1$
-> 
+>
 > D) $\sqrt[3]{2} - 1$
-> 
+>
 > E) $3$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_1998_n3_f1#q24|src_obm_1998_n3_f1__Q24]]
 
 
 
@@ -1037,18 +1146,23 @@ Un viaggiatore deve camminare un'ora tra nord e est a 30 gradi da est, ma errone
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato un cubo, considera i 27 punti formati da vertici, punti di bordo, centri facciali e il centro del cubo; conta le linee che passano attraverso tre di questi punti.*
+*Dato un cubo, si considerino i 27 punti costituiti dai vertici, dai punti medi degli spigoli, dai centri delle facce e dal centro del cubo; si contino le rette che passano per tre di questi punti.*
 
-> Considerando un cubo, si considera l'insieme dei punti $27$ formati dalle vertici di questo cubo, i punti medi dei suoi bordi, i centri delle sue facce e il centro del cubo. Quante linee passano attraverso tre di questi punti?
-> 
+> Dato un cubo, si consideri l'insieme di $27$ punti costituito dai vertici di questo cubo, dai punti medi dei suoi spigoli, dai centri delle sue facce e dal centro del cubo. Quante rette passano per tre di questi punti?
+>
 > A) $49$
-> 
+>
 > B) $54$
-> 
+>
 > C) $63$
-> 
+>
 > D) $81$
-> 
+>
 > E) $108$
 
-**Risposta:** A
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_1998_n3_f1#q25|src_obm_1998_n3_f1__Q25]]

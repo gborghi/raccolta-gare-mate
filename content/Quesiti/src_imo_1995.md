@@ -34,9 +34,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Si dimostri che AM, DN, XY sono concorrenti nella configurazione delle circonferenze di diametro doppio*
+*Prove AM, DN, XY concorrenti nella configurazione dei cerchi a due diametri*
 
-> Siano A, B, C, D quattro punti distinti su una retta, in quest'ordine. Le circonferenze di diametri AC e BD si intersecano nei punti X e Y. La retta XY incontra BC in Z. Sia P un punto sulla retta XY diverso da Z. La retta CP interseca la circonferenza di diametro AC nei punti C e M, mentre la retta BP interseca la circonferenza di diametro BD nei punti B e N. Si dimostri che le rette AM, DN ed XY sono concorrenti.
+> Siano A, B, C, D quattro punti distinti allineati, in tale ordine. Le circonferenze aventi come diametri AC e BD si intersecano nei punti X e Y. La retta XY incontra BC nel punto Z. Sia P un punto della retta XY diverso da Z. La retta CP interseca la circonferenza avente come diametro AC nei punti C e M, e la retta BP interseca la circonferenza avente come diametro BD nei punti B e N. Dimostrare che le rette AM, DN, XY sono concorrenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1995#q01|src_imo_1995__Q01]]
 
 
 
@@ -65,9 +72,9 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostrare che la somma di 1/(a^3(b+c)) è almeno 3/2 se abc=1*
+*Una disuguaglianza per reali positivi di prodotto 1, con formula spezzata*
 
-> Siano a, b, c numeri reali positivi tali che abc = 1. Si dimostri che
+> Siano a, b, c numeri reali positivi tali che abc = 1. Dimostrare che
 > 1
 > a3(b + c) +
 > 1
@@ -75,6 +82,12 @@ level: IMO
 > 1
 > c3(a + b) ≥3
 > 2.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_imo_1995#q02|src_imo_1995__Q02]]
 
 
 
@@ -104,13 +117,13 @@ level: IMO
 
 *Determinare n con aree dei punti uguali a ri+rj+rk*
 
-> Determinare tutti gli interi n > 3 per cui esistono n punti A1, . . . , An
-> nel piano, di cui non tre allineati, e numeri reali r1, . . . , rn tali che
-> per 1 ≤i < j < k ≤n l'area di △AiAjAk sia ri + rj + rk.
-> 36th International Mathematical Olympiad
-> Secondo giorno - Toronto - 20 luglio 1995
-> Tempo: 41
-> 2 ore
+> Determinare tutti gli interi n > 3 per cui esistono n punti A1, ..., An nel piano, tali che nessun tre siano allineati, ed esistono numeri reali r1, ..., rn tali che, per 1 ≤ i < j < k ≤ n, l'area del triangolo △AiAjAk sia ri + rj + rk. 36ª Olimpiade Internazionale di Matematica - Secondo giorno - Toronto - 20 luglio 1995 - Tempo limite: 4 ore e 12 minuti
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imo_1995#q03|src_imo_1995__Q03]]
 
 
 
@@ -133,9 +146,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum x0 for cyclic positive-real recurrence sequence*
+*Maximum x_0 of a positive cycle satisfying a reciprocal recurrence*
 
-> Find the maximum value of $x_0$ for which there exists a sequence $x_0, x_1, \ldots, x_{1995}$ of positive real numbers with $x_0 = x_{1995}$, such that for $i = 1, \ldots, 1995$: $$x_{i-1} + \frac{2}{x_{i-1}} = 2x_i + \frac{1}{x_i}.$$
+> Find the maximum value of $x_0$ for which there exists a sequence $x_0, x_1, \ldots, x_{1995}$ of positive real numbers with $x_0 = x_{1995}$, such that for $i = 1, \ldots, 1995$:
+> $$x_{i-1} + \frac{2}{x_{i-1}} = 2x_i + \frac{1}{x_i}.$$
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_disuguaglianze|Classical inequalities]], [[method_ricorsione|Recursion]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_1995#q04|src_imo_1995__Q04]]
 
 
 
@@ -159,9 +179,17 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-In the case of the equation, the following equation is used: *Hexagon inequality AG+GB+GH+DH+HE>=CF*
+*A path through an interior segment of a convex hexagon is at least as long as a diagonal*
 
-> Whether $ABCDEF$ is a convex hexagon with $AB = BC = CD$ and $DE = EF = FA$, such as $\angle BCD = \angle EFA = \pi/3$. Suppose $G$ and $H$ are points within the hexagon such as $\angle AGB = \angle DHE = 2\pi/3$. Show that $$AG + GB + GH + DH + HE \geq CF.$$
+> Let $ABCDEF$ be a convex hexagon with $AB = BC = CD$ and $DE = EF = FA$, such that $\angle BCD = \angle EFA = \pi/3$. Suppose that $G$ and $H$ are points in the interior of the hexagon such that $\angle AGB = \angle DHE = 2\pi/3$. Prove that
+> $$AG + GB + GH + DH + HE \geq CF.$$
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1995#q05|src_imo_1995__Q05]]
 
 
 
@@ -183,6 +211,12 @@ In the case of the equation, the following equation is used: *Hexagon inequality
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Count p-element subsets of 1..2p with p-divisible sum*
+*How many p-element subsets of {1,...,2p} have sum divisible by an odd prime p*
 
-> Whether $p$ is an odd prime number. How many $A$ subsets of $p$ elements of $\{1, 2, \ldots, 2p\}$ exist that the sum of the elements of $A$ is divisible by $p$?
+> Let $p$ be an odd prime. How many subsets $A$ of $p$ elements of $\{1, 2, \ldots, 2p\}$ are there such that the sum of the elements of $A$ is divisible by $p$?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_1995#q06|src_imo_1995__Q06]]

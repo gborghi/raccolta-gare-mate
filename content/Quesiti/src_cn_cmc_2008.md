@@ -32,13 +32,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta minima della funzione razionale su metà linea*
+*Valore minimo della funzione razionale sulla semiretta*
 
-> Il valore minimo di $f(x) = \frac{5-4x+x^2}{2-x}$ per $x \in (-\infty, 2)$ è ( ).
-> 
+> Il valore minimo di $f(x) = \frac{5-4x+x^2}{2-x}$ per $x \in (-\infty, 2)$ è (  ).
+>
 > (A) 0 \quad (B) 1 \quad (C) 2 \quad (D) 3
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2008#q01|src_cn_cmc_2008__Q01]]
 
 
 
@@ -64,13 +69,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Intervallo di parametro a in modo che B sia un sottoinsieme di A*
+*Intervallo del parametro a tale che B sia un sottoinsieme di A*
 
-> Per esempio, $A = [-2, 4)$, $B = \{x \mid x^2 - ax - 4 < 0\}$. Se $B \subseteq A$, allora l'intervallo di $a$ è ( ).
-> 
+> Siano $A = [-2, 4)$, $B = \{x \mid x^2 - ax - 4 < 0\}$. Se $B \subseteq A$, allora l'intervallo di $a$ è (  ).
+>
 > (A) $[-1, 2)$ \quad (B) $[1, 2]$ \quad (C) $[0, 3]$ \quad (D) $[0, 3)$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2008#q02|src_cn_cmc_2008__Q02]]
 
 
 
@@ -96,13 +106,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di partite atteso in partita di ping-pong*
+*Numero atteso di partite in un incontro di ping-pong*
 
-> $A$ e $B$ giocano a ping-pong, con l'accordo che il vincitore riceverà 1 punto e il perdente 0 punti; la partita termina appena uno dei giocatori è in vantaggio di 2 punti o il numero di partite raggiunge i sei. Supponiamo che le probabilità di $A$ e $B$ di vincere un gioco siano rispettivamente $\frac{2}{3}$ e $\frac{1}{3}$, e ciascuna partita sia indipendente. Poi l'aspettativa $E\xi$ per il numero di giochi $\xi$ è ( ).
-> 
+> $A$ e $B$ stanno giocando a ping-pong, con l'accordo che il vincitore otterrà 1 punto e il perdente 0 punti; l'incontro termina non appena uno dei giocatori è in vantaggio di 2 punti o il numero di giochi raggiunge sei. Supponiamo che le probabilità che $A$ e $B$ vincano un gioco siano rispettivamente $\frac{2}{3}$ e $\frac{1}{3}$, e che ogni gioco sia indipendente. Allora la media $E\xi$ del numero di giochi $\xi$ è (  ).
+>
 > (A) $\dfrac{241}{81}$ \quad (B) $\dfrac{266}{81}$ \quad (C) $\dfrac{374}{81}$ \quad (D) $\dfrac{670}{243}$
 
-**Risposta:** B
+**Topic:** [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2008#q03|src_cn_cmc_2008__Q03]]
 
 
 
@@ -128,13 +143,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di volume di tre cubi a bordi interi con superficie totale data*
+*Somma dei volumi di tre cubi a spigoli interi con area superficiale totale data*
 
-> Dati tre cubetti con lunghezze di bordi interi, se la somma delle loro superfici è di 564 cm$^2$, allora la somma dei loro volumi è ( ).
-> 
+> Dati tre cubi con lunghezze dei spigoli intere, se la somma delle loro aree superficiali è 564 cm$^2$, allora la somma dei loro volumi è (  ).
+>
 > (A) 764 cm$^3$ o 586 cm$^3$ \quad (B) 764 cm$^3$ \quad (C) 386 cm$^3$ \quad (D) 586 cm$^3$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2008#q04|src_cn_cmc_2008__Q04]]
 
 
 
@@ -162,13 +182,20 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di soluzioni razionali a un sistema simmetrico*
+*Numero di soluzioni razionali di un sistema simmetrico*
 
-> Il numero di soluzioni razionali del sistema di equazioni $$\begin{cases} x + y + z = 0, \\ xyz + z = 0, \\ xy + yz + xz + y = 0 \end{cases}$$ è ( ).
-> 
-> (A) 1 \quad (B) 2 \quad (C) 3 \quad
+> Il numero di soluzioni razionali del sistema di equazioni
+> $$\begin{cases} x + y + z = 0, \\ xyz + z = 0, \\ xy + yz + xz + y = 0 \end{cases}$$
+> è (  ).
+>
+> (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2008#q05|src_cn_cmc_2008__Q05]]
 
 
 
@@ -194,13 +221,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Intervallo del rapporto trigonometrico quando i lati formano una sequenza geometrica*
+*Intervallo del rapporto trigonometrico quando i lati formano una successione geometrica*
 
-> Supponiamo che i lati $a, b, c$ di $\triangle ABC$, corrispondenti rispettivamente agli angoli $A, B, C$, costituiscano una sequenza geometrica. Quindi l'intervallo di $\dfrac{\sin A \cos C - \cos B}{\sin B \cos C - \cos B}$ è ( ).
-> 
+> Supponiamo che i lati $a, b, c$ di $\triangle ABC$, corrispondenti rispettivamente agli angoli $A, B, C$, costituiscano una progressione geometrica. Allora l'insieme di partenza di $\dfrac{\sin A \cos C - \cos B}{\sin B \cos C - \cos B}$ è (  ).
+>
 > (A) $(0, +\infty)$ \quad (B) $\left(0, \dfrac{\sqrt{5}+1}{2}\right)$ \quad (C) $\left(\dfrac{\sqrt{5}-1}{2}, \dfrac{\sqrt{5}+1}{2}\right)$ \quad (D) $\left(\dfrac{\sqrt{5}-1}{2}, +\infty\right)$
 
-**Risposta:** C
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2008#q06|src_cn_cmc_2008__Q06]]
 
 
 
@@ -224,11 +256,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova a+b per la funzione lineare iterata con data settima iterata*
+*Trovare a+b per una funzione lineare iterata con la settima iterata data*
 
-> Se $f(x) = ax + b$, con $a, b$ numeri reali; $f_1(x) = f(x)$, $f_{n+1}(x) = f(f_n(x))$, $n = 1, 2, \ldots$ Se $f_7(x) = 128x + 381$, $a + b = $ ________.
+> Sia $f(x) = ax + b$, con $a, b$ numeri reali; $f_1(x) = f(x)$, $f_{n+1}(x) = f(f_n(x))$, $n = 1, 2, \ldots$ Se $f_7(x) = 128x + 381$, allora $a + b = $ ________.
 
-**Risposta:** 5
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2008#q07|src_cn_cmc_2008__Q07]]
 
 
 
@@ -252,11 +289,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il parametro così minimo della funzione trigonometrica è uguale a -1/2*
+*Trovare il parametro a in modo che il minimo della funzione trigonometrica sia uguale a -1/2*
 
-> Supponiamo che il minimo di $f(x) = \cos 2x - 4a(1 + \cos x)$ sia $-\dfrac{1}{2}$. Poi $a = $ ________.
+> Supponiamo che il minimo di $f(x) = \cos 2x - 4a(1 + \cos x)$ sia $-\dfrac{1}{2}$. Allora $a = $ ________.
 
-**Risposta:** $-2+\sqrt{3}$
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2008#q08|src_cn_cmc_2008__Q08]]
 
 
 
@@ -280,11 +322,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio delle assegnazioni di 24 volontari a 3 scuole con numeri positivi distinti*
+*Conta le assegnazioni di 24 volontari a 3 scuole con numeri positivi distinti*
 
-> 24 volontari saranno assegnati a tre scuole. La regola è che ogni scuola accetterà almeno un volontario e tutte le scuole accetteranno un numero diverso di volontari. Poi ci sono ________ modi diversi di assegnare i volontari.
+> Ventiquattro volontari saranno assegnati a tre scuole. La regola è che ciascuna scuola accoglierà almeno un volontario e che tutte le scuole accoglieranno un numero diverso di volontari. Allora ci sono ________ modi diversi di assegnare i volontari.
 
-**Risposta:** 222
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2008#q09|src_cn_cmc_2008__Q09]]
 
 
 
@@ -310,11 +357,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il termine generale della sequenza data relazione che coinvolge la somma parziale*
+*Trovare il termine generale della successione data una relazione che coinvolge la somma parziale*
 
-> $S_n$ indichi la somma dei primi termini $n$ in una sequenza di numeri $\{a_n\}$, soddisfacendo $$S_n + a_n = \frac{n-1}{n(n+1)}, \quad n = 1, 2, \ldots$$.
+> Sia $S_n$ la somma dei primi $n$ termini di una successione numerica $\{a_n\}$, tale che
+> $$S_n + a_n = \frac{n-1}{n(n+1)}, \quad n = 1, 2, \ldots$$
+> Allora $a_n = $ ________.
 
-**Risposta:** $\dfrac{1}{2^n} - \dfrac{1}{n(n+1)}$
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2008#q10|src_cn_cmc_2008__Q10]]
 
 
 
@@ -341,11 +395,19 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca f(2008) data f(0)=2008 e due disuguaglianze funzionali*
+*Trovare f(2008) dato f(0)=2008 e due disuguaglianze funzionali*
 
-> Supponiamo che $f(x)$ sia definito su $\mathbf{R}$, soddisfacendo $f(0) = 2008$, e per qualsiasi $x \in \mathbf{R}$: $$f(x+2) - f(x) \le 3 \times 2^x,$$ $$f(x+6) - f(x) \ge 63 \times 2^x.$$ Poi $f(2008) = $ ________.
+> Supponiamo che $f(x)$ sia definito su $\mathbf{R}$, soddisfi $f(0) = 2008$, e che per ogni $x \in \mathbf{R}$:
+> $$f(x+2) - f(x) \le 3 \times 2^x,$$
+> $$f(x+6) - f(x) \ge 63 \times 2^x.$$
+> Allora $f(2008) = $ ________.
 
-**Risposta:** $2^{2008} + 2007$
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2008#q11|src_cn_cmc_2008__Q11]]
 
 
 
@@ -369,11 +431,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area della superficie del tetraedro mai toccata da sfere in movimento libero*
+*Area della superficie del tetraedro mai toccata da una sfera in movimento libero*
 
-> Supponiamo che una palla di raggio 1 si muova liberamente all'interno di un tetraedro regolare con lunghezza di bordo $4\sqrt{6}$. Quindi l'area della superficie interna del contenitore che la palla non può mai toccare è ________.
+> Supponiamo che una sfera di raggio 1 si muova liberamente all'interno di un tetraedro regolare con lato di lunghezza $4\sqrt{6}$. Allora l'area della superficie interna del contenitore che la sfera non potrà mai toccare è ________.
 
-**Risposta:** $72\sqrt{3}$
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2008#q12|src_cn_cmc_2008__Q12]]
 
 
 
@@ -397,9 +464,17 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-Prove l'identità dell'intersezione di x di x e della linea tangente attraverso l'origine.
+*Dimostra l'identità relativa all'ascissa all'intersezione con l'asse x di |sin x| e alla retta tangente passante per l'origine*
 
-> È noto che la curva $f(x) = |\sin x|$ intercetta la linea $y = kx$ ($k > 0$) in esattamente tre punti, la coordinata massima $x$ di questi punti essendo $a$. Provare che $$\frac{\cos a}{\sin a - a\cos a} = \frac{1 - a^2}{4a}.$$
+> È noto che la curva $f(x) = |\sin x|$ interseca la retta $y = kx$ ($k > 0$) in esattamente tre punti, e che la coordinata $x$ massima di tali punti è $a$. Dimostrare che
+> $$\frac{\cos a}{\sin a - a\cos a} = \frac{1 - a^2}{4a}.$$
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2008#q13|src_cn_cmc_2008__Q13]]
 
 
 
@@ -424,11 +499,17 @@ Prove l'identità dell'intersezione di x di x e della linea tangente attraverso 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi la disuguaglianza logaritmica che coinvolge il polinomio di grado-12*
+*Risolvi la disequazione logaritmica che coinvolge un polinomio di grado 12*
 
-> Risolvere la disuguaglianza $$\log_2(x^{12} + 3x^{10} + 5x^8 + 3x^6 + 1) < 1 + \log_2(x^4 + 1).$$
+> Risolvi la disequazione
+> $$\log_2(x^{12} + 3x^{10} + 5x^8 + 3x^6 + 1) < 1 + \log_2(x^4 + 1).$$
 
-**Risposta:** $\left(-\sqrt{\dfrac{-1+\sqrt{5}}{2}},\, \sqrt{\dfrac{-1+\sqrt{5}}{2}}\right)$
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2008#q14|src_cn_cmc_2008__Q14]]
 
 
 
@@ -453,8 +534,15 @@ Prove l'identità dell'intersezione di x di x e della linea tangente attraverso 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area minima del triangolo con vertice sulla parabola e cerchio inciso*
+*Area minima del triangolo con vertice sulla parabola e cerchio inscritto*
 
-> Come mostra la figura, $P$ è un punto in movimento sulla parabola $y^2 = 2x$, i punti $B$, $C$ sono sull'asse $y$ e il cerchio $(x-1)^2 + y^2 = 1$ è tangente internamente a $\triangle PBC$. Trova il valore minimo della superficie di $\triangle PBC$.
+> Come mostrato nella figura, $P$ è un punto mobile sulla parabola $y^2 = 2x$; i punti $B$, $C$ giacciono sull'asse $y$, e il cerchio $(x-1)^2 + y^2 = 1$ è tangente internamente a $\triangle PBC$. Determinare il valore minimo dell'area di $\triangle PBC$.
 
 ![[src_cn_cmc_2008__q15.png]]
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2008#q15|src_cn_cmc_2008__Q15]]

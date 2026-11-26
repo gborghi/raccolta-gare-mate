@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le circonferenze circoscritte ai triangoli BMR e CNR si incontrano su BC*
+*Le circonferenze circoscritte a BMR e CNR si incontrano su BC*
 
-> Sia $ABC$ un triangolo acutangolo con $AB \neq AC$. La circonferenza di diametro $BC$ interseca i lati $AB$ e $AC$ rispettivamente nei punti $M$ e $N$. Sia $O$ il punto medio del lato $BC$. Le bisettrici degli angoli $\angle BAC$ e $\angle MON$ si intersecano in $R$. Si dimostri che le circonferenze circoscritte ai triangoli $BMR$ e $CNR$ hanno un punto in comune che giace sul lato $BC$.
+> Sia $ABC$ un triangolo acutangolo con $AB \neq AC$. La circonferenza avente come diametro $BC$ interseca i lati $AB$ e $AC$ rispettivamente nei punti $M$ e $N$. Si indichi con $O$ il punto medio del lato $BC$. Le bisettrici degli angoli $\angle BAC$ e $\angle MON$ si intersecano in $R$. Dimostrare che le circonferenze circoscritte ai triangoli $BMR$ e $CNR$ hanno un punto comune che giace sul lato $BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2004#q01|src_imho_2004__Q01]]
 
 
 
@@ -57,8 +64,15 @@ level: IMO
 
 *Polinomio con radici reali che soddisfa relazioni funzionali*
 
-> Determinare tutti i polinomi $f$ con coefficienti reali tali che, per ogni numero reale $a, b, c$ tale che $ab + bc + ca = 0$, valgano le seguenti relazioni:
+> Trovare tutti i polinomi $f$ a coefficienti reali tali che, per tutti i numeri reali $a, b, c$ tali che $ab + bc + ca = 0$, valgano le seguenti relazioni:
 > $$f(a - b) + f(b - c) + f(c - a) = 2f(a + b + c).$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2004#q02|src_imho_2004__Q02]]
 
 
 
@@ -89,17 +103,23 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricoprire rettangoli m×n con otomini a forma di forchetta*
+*Ricopertura di rettangoli m×n con esomini esagonali a forma di gancio*
 
-> Si definisca un "gancio" come una figura composta da sei quadratini unitari, come mostrato nella figura qui sotto, oppure qualunque altra figura ottenuta applicando rotazioni e riflessioni a questa figura.
-> 
-> Determinare tutti i rettangoli $m \times n$ che possono essere ricoperti senza buchi e senza sovrapposizioni da grimaldelli in modo che
+> Si definisca un "gancio" come una figura composta da sei quadrati unitari, come mostrato nella figura sottostante, oppure come una qualsiasi delle figure ottenute applicando rotazioni e riflessioni a questa figura.
+>
+> Determinare tutti i rettangoli $m \times n$ che possono essere coperti senza interstizi e senza sovrapposizioni con ganci in modo tale che
 > \begin{itemize}
-> \item il rettangolo sia ricoperto senza buchi e senza sovrapposizioni
-> \item nessuna parte di un grimaldello copra area esterna al rettangolo.
+> \item il rettangolo è coperto senza lacune e senza sovrapposizioni \item nessuna parte di un gancio copre aree esterne al rettangolo.
 > \end{itemize}
 
 ![[src_imho_2004__q03.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2004#q03|src_imho_2004__Q03]]
 
 
 
@@ -124,11 +144,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali positivi come lati di un triangolo da una disuguaglianza somma-inverso*
+*Numeri reali positivi come lati di un triangolo a partire dalla disuguaglianza sulla somma dei reciproci*
 
 > Sia $n \geq 3$ un numero intero. Siano $t_1, t_2, \ldots, t_n$ numeri reali positivi tali che
 > $$n^2 + 1 > (t_1 + t_2 + \cdots + t_n)\left(\frac{1}{t_1} + \frac{1}{t_2} + \cdots + \frac{1}{t_n}\right).$$
-> Si dimostri che $t_i, t_j, t_k$ sono lunghezze dei lati di un triangolo per ogni $i, j, k$ con $1 \leq i < j < k \leq n$.
+> Dimostrare che $t_i, t_j, t_k$ sono le lunghezze dei lati di un triangolo per tutti gli $i, j, k$ con $1 \leq i < j < k \leq n$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2004#q04|src_imho_2004__Q04]]
 
 
 
@@ -153,11 +180,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero ciclico se e solo se AP=CP tramite bisettrici angolari*
+*Quadrilatero ciclico se e solo se AP=CP tramite le bisettrici degli angoli*
 
-> In un quadrilatero convesso $ABCD$ la diagonale $BD$ non biseca gli angoli $ABC$ e $CDA$. Il punto $P$ si trova all'interno di $ABCD$ e soddisfa
-> $$\angle PBC = \angle DBA \quad \text{and} \quad \angle PDC = \angle BDA.$$.
-> Si dimostri che $ABCD$ è un quadrilatero ciclico se e solo se $AP = CP$.
+> In un quadrilatero convesso $ABCD$, la diagonale $BD$ non biseca gli angoli $ABC$ e $CDA$. Il punto $P$ giace all'interno di $ABCD$ e soddisfa
+> $$\angle PBC = \angle DBA \quad \text{and} \quad \angle PDC = \angle BDA.$$
+> Dimostrare che $ABCD$ è un quadrilatero ciclico se e solo se $AP = CP$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2004#q05|src_imho_2004__Q05]]
 
 
 
@@ -180,6 +214,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutti gli n con un multiplo alternato*
+*Trovare tutti gli n che hanno un multiplo alternato*
 
-> Chiamiamo *alternante* un intero positivo tale che ogni due cifre consecutive nella sua rappresentazione decimale abbiano parità diversa. Determinare tutti gli interi positivi $n$ tali che $n$ abbia un multiplo alternante.
+> Chiamiamo *alternante* un numero intero positivo se, nella sua rappresentazione decimale, ogni due cifre consecutive hanno parità diversa. Determinare tutti i numeri interi positivi $n$ tali che $n$ abbia un multiplo alternante.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_casework|method_casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2004#q06|src_imho_2004__Q06]]

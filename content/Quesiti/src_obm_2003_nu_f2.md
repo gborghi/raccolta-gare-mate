@@ -29,9 +29,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
+*Le rette tangente e perpendicolare alla parabola tracciano un'iperbole*
 
-> Si deve indicare una parabola e un punto $A$ al di fuori di essa. Per ogni punto $P$ della parabola, $t$ è la tangente della parabola a $P$ e $r$ la linea parallela all'asse della parabola attraverso $P$. La perpendicolare a $t$ attraverso $A$ incontra $r$ a $Q$. Prove che, poiché $P$ varia sulla parabola, $Q$ traccia un iperbola.
+> Siano dati una parabola e un punto $A$ esterno ad essa. Per ogni punto $P$ sulla parabola, sia $t$ la tangente alla parabola in $P$ e sia $r$ la retta parallela all'asse della parabola che passa per $P$. La perpendicolare a $t$ condotta per $A$ incontra $r$ in $Q$. Dimostrare che, al variare di $P$ sulla parabola, $Q$ descrive un'iperbole.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2003_nu_f2#q01|src_obm_2003_nu_f2__Q01]]
 
 
 
@@ -59,13 +66,21 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomi complessi-coefficienti di coprime: dipendenza e identità funzionale*
+*Polinomi a coefficienti complessi coprimi: dipendenza e identità funzionale*
 
-> $p, q \in \mathbb{C}[x]$ siano polinomi copriemi (cioè\ senza fattore non costante comune) con coefficienti complessi. Supponiamo che esistano 4 vettori $(a,b) \in \mathbb{C}^2$, due per due linealmente indipendenti (sopra $\mathbb{C}$), in modo tale che $ap + bq$ sia il quadrato di un polinomio in $\mathbb{C}[x]$.
-> 
-> a) dimostrare che $p$ e $q$ sono costanti.
-> 
-> b) Prove che non esistono polinomi non costanti $r, s, t, u \in \mathbb{C}[x]$ come $f = \dfrac{r}{s}$, $g = \dfrac{t}{u}$ e $$f^2 = g(g-1)(g-a), \quad a \in \mathbb{C},\; a \neq 0,\; a \neq 1.$$
+> Siano $p, q \in \mathbb{C}[x]$ polinomi coprimi (ossia privi di un fattore comune non costante) a coefficienti complessi. Si supponga che esistano 4 vettori $(a,b) \in \mathbb{C}^2$, linearmente indipendenti a due a due (su $\mathbb{C}$), tali che $ap + bq$ sia il quadrato di un polinomio in $\mathbb{C}[x]$.
+>
+> (a) Dimostrare che $p$ e $q$ sono costanti.
+>
+> (b) Dimostrare che non esistono polinomi non costanti $r, s, t, u \in \mathbb{C}[x]$ tali che $f = \dfrac{r}{s}$, $g = \dfrac{t}{u}$, e
+> $$f^2 = g(g-1)(g-a), \quad a \in \mathbb{C},\; a \neq 0,\; a \neq 1.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2003_nu_f2#q02|src_obm_2003_nu_f2__Q02]]
 
 
 
@@ -92,11 +107,20 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta matrici di ordine 4 su Z/(p) il cui quadrato è l'identità*
+*Conta le matrici di ordine 4 su Z/(p) il cui quadrato è la matrice identità*
 
-> $p > 2$ sia un numero primo. $X_p$ sia l'insieme di tutte le matrici quadrate $A$ con coefficienti in $\mathbb{Z}/(p)$ e di ordine $4$ in modo tale che $$A^2 = I : \quad X_p = \left\{ A \in (\mathbb{Z}/(p))^{4 \times 4} \mid A^2 = I \right\}.$$ calcoli il numero di elementi di $X_p$.
-> 
-> **Remark.** $\mathbb{Z}/(p) = \{0, 1, 2, \ldots, p-1\}$ è il campo finito con elementi $p$. L'aggiunta e il prodotto sono definiti modulo $p$; ad esempio, in $\mathbb{Z}/(7)$, $4 + 5 = 2$ e $4 \cdot 5 = 6$.
+> Sia $p > 2$ un numero primo. Sia $X_p$ l'insieme di tutte le matrici quadrate $A$ a coefficienti in $\mathbb{Z}/(p)$ e di ordine $4$ tali che
+> $$A^2 = I : \quad X_p = \left\{ A \in (\mathbb{Z}/(p))^{4 \times 4} \mid A^2 = I \right\}.$$
+> Calcola il numero di elementi di $X_p$.
+>
+> **Osservazione.** $\mathbb{Z}/(p) = \{0, 1, 2, \ldots, p-1\}$ è il campo finito con $p$ elementi. La addizione e il prodotto sono definiti modulo $p$; per esempio, in $\mathbb{Z}/(7)$, $4 + 5 = 2$ e $4 \cdot 5 = 6$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2003_nu_f2#q03|src_obm_2003_nu_f2__Q03]]
 
 
 
@@ -123,11 +147,20 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Caricare la morte onesta attraverso l'uguaglianza di probabilità condizionata*
+*Caratterizza il dado onesto tramite uguaglianza di probabilità condizionate*
 
-> Abbiamo un dado con sei facce, non necessariamente giusto. Lo rotoliamo tre volte e otteniamo risultati $a$, $b$, $c$. Prove che $P(a = c \mid a = b) \ge P(a = c \mid a \neq b)$, con uguaglianza se e solo se il dado è giusto.
-> 
-> **Remark.** $P(a = c \mid a = b)$ è la probabilità condizionale $$P(a = c \mid a = b) = \frac{P(a = b \text{ and } a = c)}{P(a = b)}.$$ Un dado è giusto se la probabilità di ciascuna faccia è $\dfrac{1}{6}$.
+> Abbiamo un dado a 6 facce, non necessariamente equilibrato. Lo lanciamo tre volte e otteniamo i risultati $a$, $b$, $c$. Dimostrare che $P(a = c \mid a = b) \ge P(a = c \mid a \neq b)$, con uguaglianza se e solo se il dado è equilibrato.
+>
+> **Osservazione.** $P(a = c \mid a = b)$ è la probabilità condizionata
+> $$P(a = c \mid a = b) = \frac{P(a = b \text{ and } a = c)}{P(a = b)}.$$
+> Un dado è equo se la probabilità di ciascuna faccia è $\dfrac{1}{6}$.
+
+**Topic:** [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2003_nu_f2#q04|src_obm_2003_nu_f2__Q04]]
 
 
 
@@ -154,11 +187,20 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 <div class="qlang-split" data-lang="it"></div>
 
 
-*C-infinity funzioni lacunarie chiuse con aggiunta e prodotto*
+*Funzioni lacunari C-infinito chiuse rispetto alla somma e al prodotto*
 
-> Una funzione $f : (-1,1) \to \mathbb{R}$ della classe $C^\infty$ viene chiamata *lacunaria* se esiste un intero positivo $n$ e polinomi $P_j \in \mathbb{R}[t]$, $0 \le j \le n$, con $P_n$ non identicamente zero, in modo tale che $$\sum_{j=0}^{n} P_j(t) f^{(j)}(t) = 0 \quad \text{for all } t \in (-1,1).$$ dimostri che se $f$ e $g$ sono lacunarie allora $f + g$ e $f \cdot g$ sono anche lacunarie.
-> 
-> **Remarchi.** Definimmo $f^{(m)} = f$ per $m \ge 0$ (che significa $f^{(0)} = f$), e $(f^{(m)})' = f^{(m+1)}$.
+> Una funzione $f : (-1,1) \to \mathbb{R}$ di classe $C^\infty$ è detta *lacunare* se esistono un intero positivo $n$ e dei polinomi $P_j \in \mathbb{R}[t]$, $0 \le j \le n$, con $P_n$ non identicamente nullo, tali che
+> $$\sum_{j=0}^{n} P_j(t) f^{(j)}(t) = 0 \quad \text{for all } t \in (-1,1).$$
+> Dimostrare che, se $f$ e $g$ sono lacunari, allora anche $f + g$ e $f \cdot g$ sono lacunari.
+>
+> **Osservazioni.** Definiamo $f^{(m)} = f$ per $m \ge 0$ (il che significa $f^{(0)} = f$), e $(f^{(m)})' = f^{(m+1)}$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2003_nu_f2#q05|src_obm_2003_nu_f2__Q05]]
 
 
 
@@ -186,8 +228,18 @@ Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Limitazione inferiore sulla traccia di A^k per matrice con voci in [0,1]*
+*Limite inferiore della traccia di A^k per matrici i cui elementi appartengono a [0,1]*
 
-> $A = (a_{ij})_{1 \le i,j \le n}$ sia una matrice $n \times n$ tale che $a_{ij} \in [0,1]$ per tutte le $i, j$, e $$|(G, J)| = \left\| a_{ij} \right\| \ge \frac{99}{100} \cdot n^2.$$ dimostri che $$\operatorname{tr}(A^k) \ge \left(\frac{9}{10}\right)^k n, \quad \text{for all } k \ge 2.$$
-> 
-> Se $B = (b_{ij})_{1 \le i,j \le n}$ è una matrice quadrata, allora $\operatorname{tr}(B) = \displaystyle\sum_{i=1}^{n} b_{ii}$ indica la traccia di $B$.
+> Sia $A = (a_{ij})_{1 \le i,j \le n}$ una matrice $n \times n$ tale che $a_{ij} \in [0,1]$ per ogni $i, j$, e
+> $$|(G, J)| = \left\| a_{ij} \right\| \ge \frac{99}{100} \cdot n^2.$$
+> Dimostrare che
+> $$\operatorname{tr}(A^k) \ge \left(\frac{9}{10}\right)^k n, \quad \text{for all } k \ge 2.$$
+>
+> **Osservazione.** Se $B = (b_{ij})_{1 \le i,j \le n}$ è una matrice quadrata, allora $\operatorname{tr}(B) = \displaystyle\sum_{i=1}^{n} b_{ii}$ denota la traccia di $B$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2003_nu_f2#q06|src_obm_2003_nu_f2__Q06]]

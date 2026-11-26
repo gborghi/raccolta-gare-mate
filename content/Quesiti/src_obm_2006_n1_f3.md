@@ -39,19 +39,26 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze di spostamento a due cifre: trovare termini, ultimo termine, periodo*
+*Due sequenze di scorrimento delle cifre: trovare i termini, l'ultimo termine, il periodo*
 
-> Considerate le seguenti sequenze.
-> 
-> $S_1$: $12345678,\ 81234567,\ 78123456,\ \ldots$, in cui la cifra di unità di un termine diventa la cifra più sinistra del termine successivo (la cifra di unità si sposta in avanti).
-> 
-> $S_2$: $123456789,\ 912345678,\ 891234567,\ \ldots$, in cui la cifra unità di un termine diventa la cifra più sinistra del termine successivo, e la cifra decina di un termine diventa la seconda cifra dalla sinistra del termine successivo.
-> 
-> (a) Trovare il quinto termine di $S_1$ e il quarto termine di $S_2$.
-> 
-> b) La sequenza $S_1$ ha i termini $2006$. Qual è l'ultimo termine?
-> 
-> c) La sequenza $S_3$ termina quando si ripete il primo termine. Quanti termini $S_3$ ha?
+> Si considerino le seguenti sequenze.
+>
+> $S_1$: $12345678,\ 81234567,\ 78123456,\ \ldots$, in cui la cifra delle unità di un termine diventa la cifra più a sinistra del termine successivo (la cifra delle unità viene spostata all'inizio).
+>
+> $S_2$: $123456789,\ 912345678,\ 891234567,\ \ldots$, in cui la cifra delle unità di un termine diventa la cifra più a sinistra del termine successivo, e la cifra delle decine di un termine diventa la seconda cifra da sinistra del termine successivo.
+>
+> (a) Trova il quinto termine di $S_1$ e il quarto termine di $S_2$.
+>
+> (b) La successione $S_1$ ha $2006$ termini. Qual è l'ultimo termine?
+>
+> (c) La successione $S_3$ termina quando il primo termine si ripete. Quanti termini ha $S_3$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n1_f3#q01|src_obm_2006_n1_f3__Q01]]
 
 
 
@@ -78,13 +85,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Aggregazione aritmetica dei criptogrammi: trovare il valore di ogni simbolo*
+*Addizione crittoaritmetica: trova il valore di ogni simbolo*
 
-> Nell'aggiunta di seguito, ogni simbolo rappresenta una cifra unica e diversi simboli rappresentano diversi numeri.
-> 
+> Nell'addizione qui sotto, ciascun simbolo rappresenta una cifra unica e simboli diversi rappresentano cifre diverse.
+>
 > $$\begin{array}{r} \square\,\triangle \\ +\quad\triangle\,\odot \\ \hline \odot\,\square\,\triangle \end{array}$$
-> 
-> Determinare il valore di ciascun simbolo; cioè trovare questi valori e dimostrare che non esistono altre possibilità.
+>
+> Determinare il valore di ciascun simbolo; vale a dire, trova questi valori e dimostrare che non esistono altre possibilità.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n1_f3#q02|src_obm_2006_n1_f3__Q02]]
 
 
 
@@ -115,17 +129,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto di scorciatura: contare i punteggi distinti con 2 frecce, quindi i partecipanti con 3 frecce*
+*Punteggio al bersaglio da freccette: conta i punteggi distinti con 2 freccette, poi i partecipanti con 3 freccette*
 
-> Un arciere tira frecce al bersaglio mostrato a destra. I numeri indicano il punteggio ottenuto in ogni regione colpita da una freccia (se la freccia colpisce esattamente una linea, il punteggio è il minore delle due regioni adiacenti). Si noti che la regione rettangolare punta $0$ punti.
-> 
-> L'obiettivo ha regioni circolari concentriche con punteggi $1$, $2$, $3$, $4$, $5$ dal cerchio più esterno al cerchio più interno (con il rettangolo di valore $0$).
-> 
-> (a) In una competizione, ogni partecipante spara frecce $2$. Quanti punti totali possono essere ottenuti?
-> 
-> b) In un'altra gara, ogni partecipante sparerà frecce $3$. Curiosamente, non ci sono stati rapporti e tutti i punteggi possibili sono stati raggiunti. Quanti partecipanti c'erano in questa competizione?
+> Un arciere scocca frecce verso il bersaglio mostrato a destra. I numeri indicano il punteggio ottenuto in ciascuna zona colpita da una freccia (se la freccia colpisce esattamente una linea, il punteggio è quello della zona adiacente con il valore più basso tra le due). Si noti che la zona rettangolare vale $0$ punti.
+>
+> Il bersaglio presenta regioni circolari concentriche valutate $1$, $2$, $3$, $4$, $5$, dal cerchio più esterno a quello più interno (con il rettangolo che vale $0$).
+>
+> (a) In una competizione, ogni partecipante scocca $2$ frecce. Quante punteggi totali diversi si possono ottenere?
+>
+> (b) In un'altra competizione, ogni partecipante scocca $3$ frecce. Curiosamente, non ci sono stati pareggi e sono stati raggiunti tutti i punteggi possibili. Quanti partecipanti c'erano in questa competizione?
 
 ![[src_obm_2006_n1_f3__q03.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n1_f3#q03|src_obm_2006_n1_f3__Q03]]
 
 
 
@@ -154,15 +175,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Vincenti collineari massimi di un 12-gon; dimostrare l'ottimalità*
+*Vertici collineari massimi di un dodiciagono; dimostrare l'ottimalità*
 
-> Tra i poligoni con lati $5$, il numero massimo di vertici collineari (legati su una singola linea retta) è di tre, come mostrato nella figura.
-> 
-> Qual è il numero massimo di vertici collineari che un poligono con lati $12$ può avere?
-> 
-> \textbf{Nota:} oltre a disegnare un $12$-gon con il numero massimo di vertici collineari, ricorda di mostrare che nessun altro $12$-gon può avere più vertici collineari di questo.
+> Tra i poligoni con $5$ lati, il numero massimo di vertici allineati (situati su una stessa retta) è tre, come mostrato nella figura.
+>
+> Qual è il numero massimo di vertici allineati che un poligono con $12$ lati può avere?
+>
+> \textbf{Note:} oltre a tracciare un $12$-gono con il numero massimo di vertici allineati, ricorda di dimostrare che nessun altro $12$-gono può avere più vertici allineati di questo.
 
 ![[src_obm_2006_n1_f3__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n1_f3#q04|src_obm_2006_n1_f3__Q04]]
 
 
 
@@ -196,12 +224,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piani scorrevoli sulla griglia: movimenti minimi per scambiare due pezzi circolari e due pezzi quadrati*
+*Pezzi che scivolano sulla griglia: numero minimo di mosse per scambiare due pezzi circolari e due pezzi quadrati*
 
-> Partendo dalla tavola mostrata nella Figura 1, con quattro pezzi  due pezzi grigie circolari e due pezzi quadrati neri  Esmeraldinho inventò il seguente gioco:
-> 
-> \begin{itemize} \item Inizialmente i pezzi vengono posizionati sulla lavagna come mostrato alla Figura 1. \item L'obiettivo del gioco è, dopo un certo numero di mosse, scambiare le posizioni dei pezzi, raggiungendo la situazione mostrata nella Figura 2. \item Ogni movimento consiste nel spostare uno o più quadrati tra i quattro pezzi verso l'alto, verso il basso, verso la sinistra o verso la destra; tuttavia, un pezzo non può \emph{jump over} alcun pezzo che alla fine si trova nel suo percorso, né occupare un quadrato dove c'è già un pezzo. Ad esempio, il pezzo segnato \textbf{A} può essere spostato solo nei quadrati evidenziati nel piccolo diagramma. \item Movimenti di cerchi e quadrati alternati. La partita inizia con una mossa di uno dei quadrati. # Finire #
-> 
-> Determinare il numero minimo di mosse necessarie per finire la partita. Mostrate, passo dopo passo, come spostare i pezzi con questo numero di mosse, e dimostrate che non è possibile finire la partita con meno mosse.
+> Partendo dalla tavola mostrata nella Figura 1, con quattro pezzi — due pezzi circolari grigi e due pezzi quadrati neri — Esmeraldinho ha inventato il seguente gioco:
+>
+> \begin{itemize}
+> \item Inizialmente i pezzi vengono disposti sulla scacchiera come mostrato nella Figura 1. \item L'obiettivo del gioco è, dopo un certo numero di mosse, scambiare le posizioni dei pezzi, raggiungendo la situazione mostrata nella Figura 2. \item Ogni mossa consiste nel spostare uno dei quattro pezzi di una o più caselle verso l'alto, verso il basso, a sinistra o a destra; tuttavia, un pezzo non può \emph{saltare oltre} alcun pezzo che si trovi eventualmente sul suo percorso, né occupare una casella in cui c'è già un pezzo. Ad esempio, il pezzo contrassegnato con \textbf{A} può essere spostato solo nelle caselle evidenziate nel piccolo diagramma. \item Le mosse dei cerchi e dei quadrati si alternano. Il gioco inizia con una mossa di uno dei quadrati.
+> \end{itemize}
+>
+> Determinare il numero totale minimo di mosse necessarie per terminare la partita. Mostra, passo dopo passo, come spostare i pezzi con questo numero di mosse, e dimostrare che non è possibile terminare la partita con meno mosse.
 
 ![[src_obm_2006_n1_f3__q05.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n1_f3#q05|src_obm_2006_n1_f3__Q05]]

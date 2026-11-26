@@ -33,13 +33,20 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioca su k-gon regolare con numeri interi; trova tutti i k dove B vince sempre*
+*Partita su k-gono regolare con numeri interi; trova tutti i valori di k per cui B vince sempre*
 
-> $k$ sia un numero intero con $k \ge 3$. Usando un normale $k$-gon, i giocatori $A$ e $B$ giocano il seguente gioco. Si ripete quanto segue:
-> 
-> $A$ scrive un intero da $1$ a $100$ su una faccia bianca del normale $k$-gon (una non ancora utilizzata); $B$ scrive, sulla stessa faccia, se quel intero è un quadrato perfetto o meno.
-> 
-> Il punteggio è basato sulle facce del normale $k$-gon: se esistono tre vertici del $k$-gon che formano un triangolo di uguale occhio in modo che tutte e tre le facce corrispondenti abbiano lo stesso valore scritto da $B$, allora $B$ vince; altrimenti $A$ vince. Trova tutti i valori di $k$ in modo che, indipendentemente dalle scelte di $A$, $B$ possa sempre garantire una vittoria.
+> Sia $k$ un numero intero tale che $k \ge 3$. Utilizzando un poligono regolare $k$-gono, i giocatori $A$ e $B$ giocano il seguente gioco. Si ripete quanto segue:
+>
+> $A$ scrive un numero intero compreso tra $1$ e $100$ su una faccia vuota del poligono regolare $k$-gono (una non ancora utilizzata); $B$ scrive, sulla stessa faccia, se quel numero intero è un quadrato perfetto oppure no.
+>
+> Il punteggio si basa sulle facce del poligono regolare $k$-gono: se esistono tre vertici del poligono $k$-gono che formano un triangolo isoscele tale che tutte e tre le facce corrispondenti abbiano lo stesso valore scritto da $B$, allora $B$ vince; altrimenti vince $A$. Trovare tutti i valori di $k$ tali che, indipendentemente dalle scelte di $A$, $B$ possa sempre garantirsi la vittoria.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo16mq_honsen#q01|src_jjmo16mq_honsen__Q01]]
 
 
 
@@ -62,9 +69,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*5 persone, tutte somme di età in coppia distinte; trovare la differenza minima di età tra il più anziano e il più giovane*
+*5 persone, con tutte le somme delle età di coppie distinte; trovare la differenza di età minima tra la persona più anziana e quella più giovane*
 
-> Ci sono persone $5$. Le età di ciascuna coppia di persone $2$ sono state calcolate; tutte le somme in coppia $\binom{5}{2} = 10$ si sono rivelate essere numeri interi positivi distinti. Trova il valore minimo possibile della differenza di età tra la persona più anziana e la persona più giovane.
+> Ci sono $5$ persone. Sono state calcolate le età di ciascuna coppia di $2$ persone; tutti i $\binom{5}{2} = 10$ somme a coppie sono risultati essere interi positivi distinti. Determinare il valore minimo possibile della differenza di età tra la persona più anziana e quella più giovane.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo16mq_honsen#q02|src_jjmo16mq_honsen__Q02]]
 
 
 
@@ -87,9 +101,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con quadrilaterali conciclici; dimostrare che quattro punti associati sono conciclici*
+*Triangolo con quadrilatero ciclico; dimostrare che quattro punti associati sono concyclici*
 
-> Che $\triangle ABC$ sia un triangolo con $AB \ne AC$. I punti $D$ e $E$ siano punti rispettivamente sui lati $AB$ e $AC$ (esclusi i punti finali) in modo tale che i quattro punti $B$, $C$, $D$ e $E$ si trovino su un cerchio comune. La linea $F$ deve essere l'intersezione della linea $DE$ e della linea $BC$. Il $G$ deve essere l'intersezione della linea $AF$ con il circoncircolo di $\triangle ABC$ diverso da $A$. $H$ sia un punto del segmento $DE$ e $I$ sia l'intersezione della linea $AH$ con il circoncircolo di $\triangle ABC$ diverso da $A$. Provare che i quattro punti $F$, $G$, $H$, $I$ sono conciclici. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Sia $\triangle ABC$ un triangolo con $AB \ne AC$. Siano $D$ e $E$ punti sui lati $AB$ e $AC$ rispettivamente (esclusi gli estremi) tali che i quattro punti $B$, $C$, $D$, $E$ giacciano su una circonferenza comune. Sia $F$ l'intersezione della retta $DE$ con la retta $BC$. Sia $G$ l'intersezione della retta $AF$ con la circonferenza circoscritta a $\triangle ABC$, diversa da $A$. Sia $H$ un punto sul segmento $DE$, e sia $I$ l'intersezione della retta $AH$ con la circonferenza circoscritta a $\triangle ABC$, diversa da $A$. Dimostrare che i quattro punti $F$, $G$, $H$, $I$ sono conciclici. (Qui $XY$ denota la lunghezza del segmento $XY$.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo16mq_honsen#q03|src_jjmo16mq_honsen__Q03]]
 
 
 
@@ -116,13 +137,20 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*operazione della scheda nera con divisori; dimostra che il numero iniziale riappare*
+*Operazione alla lavagna con divisori; dimostrare che il numero iniziale riappare*
 
-> $k$ sia un numero intero con $k \ge 2$, e $A = 2^k - 1$. In primo luogo, scrivere un intero positivo $I$ su una lavagna soddisfacente $I \le \dfrac{A}{2}$. Ripeti quindi la seguente operazione $k - 1$ volte:
-> 
-> **Operazione: ** Se il numero intero attualmente scritto sulla scheda è $n$, cancellatelo e scrivete il più grande divisore odd di $A - n$.
-> 
-> Prova che, compreso il numero iniziale, $I$ appare sulla lavagna almeno due volte.
+> Sia $k$ un numero intero con $k \ge 2$, e sia $A = 2^k - 1$. Innanzitutto, scrivi sulla lavagna un numero intero positivo $I$ che soddisfi $I \le \dfrac{A}{2}$. Poi ripeti l'operazione seguente $k - 1$ volte:
+>
+> **Operazione:** Se il numero attualmente scritto sulla lavagna è $n$, cancellalo e scrivi il più grande divisore dispari di $A - n$.
+>
+> Dimostrare che, includendo il numero iniziale, $I$ compare sulla lavagna almeno due volte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo16mq_honsen#q04|src_jjmo16mq_honsen__Q04]]
 
 
 
@@ -145,6 +173,13 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In circolo i punti tangenti e i punti di mezzo definiscono le linee; dimostrare la concordanza di AX, BY, CZ*
+*I punti di tangenza con l'incirconcentro e i punti medi definiscono delle rette; dimostrare la concorrenza di AX, BY, CZ*
 
-> Il $\omega$ è l'incircolo di $\triangle ABC$ e $A'$, $B'$, $C'$ sono i punti in cui $\omega$ è tangente ai lati $BC$, $CA$ e $AB$ rispettivamente. Le linee $B_1$ e $C_1$ siano punti ai lati $CA$ e $AB$ (o le loro estensioni) in modo tale che le linee $B'C_1$, $C'A_1$, $A'B_1$ soddisfino determinate condizioni di parallele. Più precisamente: i punti $6$ $B_1$, $C_1$, $A_1$ siano definiti sui lati $BC$, $CA$, $AB$ rispettivamente in modo che tutte le linee $B_1C_1$, $C_1A_1$, $A_1B_1$ siano parallele rispettivamente a $BC$, $CA$ e $AB$. Linea $B'C'$ incontra la linea $AB$ a $X$; linea $C'A'$ incontra la linea $BC$ a $Y$; linea $A'B'$ incontra la linea $CA$ a $Z$. Prove che le tre linee $AX$, $BY$ e $CZ$ sono simultanee.
+> Sia $\omega$ l'incircoscrizione di $\triangle ABC$, e siano $A'$, $B'$, $C'$ i punti in cui $\omega$ è tangente ai lati $BC$, $CA$, $AB$ rispettivamente. Siano $B_1$ e $C_1$ punti sui lati $CA$ e $AB$ (o sulle loro estensioni) tali che le rette $B'C_1$, $C'A_1$, $A'B_1$ soddisfino certe condizioni di parallelismo. Più precisamente: siano i punti $6$, $B_1$, $C_1$, $A_1$ definiti sui lati $BC$, $CA$, $AB$ rispettivamente, in modo che tutte le rette $B_1C_1$, $C_1A_1$, $A_1B_1$ siano parallele rispettivamente a $BC$, $CA$, $AB$. La retta $B'C'$ incontra la retta $AB$ in $X$; la retta $C'A'$ incontra la retta $BC$ in $Y$; la retta $A'B'$ incontra la retta $CA$ in $Z$. Dimostrare che le tre rette $AX$, $BY$, $CZ$ sono concorrenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo16mq_honsen#q05|src_jjmo16mq_honsen__Q05]]

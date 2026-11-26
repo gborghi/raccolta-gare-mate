@@ -40,17 +40,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time in Rome when dinner was served (time zones)*
+*What time was it in Rome when dinner was served?*
 
-> (2 points) When in Rome it's 13:00, in Mexico City it's 6:00. During the flight that took off at 14:00 from Rome to Mexico City, dinner was served exactly halfway through the flight. When the plane landed, the airport clock showed 18:00. What time was it in Rome when dinner was served? A) 16:00 B) 17:50
->  
+> (2 points) When it is 13:00 in Rome, it is 6:00 in Mexico City. During the flight that took off at 14:00 from Rome bound for Mexico City, dinner was served exactly halfway through the flight. When the plane landed, the airport clock read 18:00. What time was it in Rome when dinner was served?
+>
+> A) 16:00
+> B) 17:50
 > C) 18:30
->  
 > D) 19:30
->  
 > E) 19:50
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q01|src_kangourou_2022_benjamin_semifinale__Q01]]
 
 
 
@@ -83,15 +87,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many side cubes 1cm in the large cube*
+*How many of these 1 cm cubes are there?*
 
 ![[src_kangourou_2022_benjamin_semifinale__prob2.png]]
 
-> (3 points) In the figure you can see a large-format cube approaching a 3 cm side cube, 4 cubes each on a 2 cm side and several other cubes, each on a 1 cm side, without leaving holes. How many of these 1 cm side cubes are there? A) 26
->  
-> B) 36 C) 48 D) 66 E) 82
+> (3 points) In the picture you see a large cube formed by placing together a cube of side 3 cm, 4 cubes each of side 2 cm and several other cubes, each of side 1 cm, without leaving any gaps. How many of these 1 cm cubes are there?
+>
+> A) 26
+> B) 36
+> C) 48
+> D) 66
+> E) 82
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q02|src_kangourou_2022_benjamin_semifinale__Q02]]
 
 
 
@@ -123,13 +135,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which stamps give the correct spelling*
+*Which of the five do so?*
 
 ![[src_kangourou_2022_benjamin_semifinale__prob3.png]]
 
-> (3 points) Palloni Gonfiati has ordered a stamp bearing his name. The figure shows five stamps that were delivered to her, but, by mistake, not all of them in contact with the paper provide the desired writing, which is precisely Palloni Gonfiati. Which of the five do? A) Only 5. B) Only 1. C) Only 2 and 5. D) Only 3 and 4. E) Only 4 and 5.
+> (3 points) The firm Palloni Gonfiati ordered a stamp with its name. The picture shows five stamps that were delivered to it, but, by a mistake, not all of them, when pressed on the paper, give the wanted wording, which is precisely "Palloni Gonfiati". Which of the five do so?
+>
+> A) Only 5.
+> B) Only 1.
+> C) Only 2 and 5.
+> D) Only 3 and 4.
+> E) Only 4 and 5.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q03|src_kangourou_2022_benjamin_semifinale__Q03]]
 
 
 
@@ -170,20 +192,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times do the hands form a right angle 6-12*
+*How many times do the hands form a right angle?*
 
 ![[src_kangourou_2022_benjamin_semifinale__prob4.png]]
 
-> (4 points) Between 6:00 a.m. and 12:00 p.m. on the same day, how many times do the hands of a traditional clock form a right angle? A) 12
->  
-> B) 11 C) 10 D) 6
->  
+> (4 points) Between 6:00 and 12:00 on the same day, how many times do the hands of a traditional clock form a right angle?
+>
+> A) 12
+> B) 11
+> C) 10
+> D) 6
 > E) 5
->  
->  
-> 1 2 3 4 5
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q04|src_kangourou_2022_benjamin_semifinale__Q04]]
 
 
 
@@ -219,19 +245,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*End product unit number of numbers 2021-2029*
+*What is the units digit of this number?*
 
-> (4 points) Sandra wrote on a sheet each of the whole numbers from 2021 to 2029. Samuel, who has a calculator at his disposal, chooses two at random, eliminates them, and replaces them with their product. He proceeds on the eight numbers remaining the same way, getting seven and so on, until there is only one number left on the sheet. What is the units digit of this number? A) 0
->  
+> (4 points) Sandra wrote on a sheet each of the integers from 2021 to 2029. Samuele, who has a calculator, chooses two of them at random, crosses them out and replaces them with their product. He proceeds in the same way with the eight numbers left, obtaining seven, and so on, until only one number is left on the sheet. What is the units digit of this number?
+>
+> A) 0
 > B) 2
->  
 > C) 4
->  
 > D) 6
->  
 > E) 8
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q05|src_kangourou_2022_benjamin_semifinale__Q05]]
 
 
 
@@ -262,15 +291,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unordered pairs of parallel edges in a cube*
+*How many distinct unordered pairs of parallel edges are there in a cube?*
 
-> (4 points) How many different pairs of (unordered) parallel edges are there in a cube? A) 6
->  
+> (4 points) How many distinct unordered pairs of parallel edges are there in a cube?
+>
+> A) 6
 > B) 8
->  
-> C) 12 D) 16 E) 18
+> C) 12
+> D) 16
+> E) 18
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q06|src_kangourou_2022_benjamin_semifinale__Q06]]
 
 
 
@@ -301,19 +337,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Supplementary fertiliser for a lawn from 25 to 30 metres*
+*Which of the following numbers is closest to that extra amount, in kilograms?*
 
-> (5 points) To fertilise a square lawn with a side of 25 metres, 60 kg of fertiliser are needed. Which
-> of the following numbers is closest to the quantity, expressed in kilograms, of supplementary fertiliser
-> needed to fertilise in the same way a square lawn with a side of 30 metres?
+> (5 points) To fertilise a square lawn of side 25 metres, 60 kg of fertiliser are needed. Which of the following numbers is closest to the extra amount, in kilograms, of fertiliser needed to fertilise in the same way a square lawn of side 30 metres?
+>
 > A) 10
-> 
 > B) 12
 > C) 15
 > D) 20
 > E) 30
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q07|src_kangourou_2022_benjamin_semifinale__Q07]]
 
 
 
@@ -373,31 +411,30 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many correct statements about Ada and Bice running*
+*How many of the following statements are correct?*
 
 ![[src_kangourou_2022_benjamin_semifinale__prob8.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=2]
-  \draw[thick] (0,0) -- (1,0) -- (1,1) -- (0,1) -- cycle;
-  \fill[red] (0,0) circle (2pt) node[below left] {A};
-  \fill[red] (1,0) circle (2pt) node[below right] {B};
-  \fill[red] (1,1) circle (2pt) node[above right] {C};
-  \fill[red] (0,1) circle (2pt) node[above left] {D};
-\end{tikzpicture}
-\end{document}
-```
-
-> (5 points) In the figure you see a square on the edge of which Ada and Bice train to run, each without ever moving in the same direction, but we don't know if it's in the same direction or in the opposite direction. They run for many laps each at a constant speed, but Ada's is four times Bice's. Right now Ada is at vertex A while Bice is at vertex B. How many of the following statements are correct? Ada and Bice will never be together at vertex B. Ada and Bice will never be together at vertex C. Ada and Bice will never be together at vertex D. - Sometimes Ada and Bice will be together at vertex A. Ada and Bice can't be together except at one of the vertices. A) 0 (none)
->  
+> (5 points) In the picture you see a square, on the edge of which Ada and Bice are training by running, each without ever changing direction, but we do not know whether in the same direction or in opposite directions. They run for many laps, each at constant speed, but Ada's speed is four times Bice's. At this moment Ada is at vertex A while Bice is at vertex B. How many of the following statements are correct?
+>
+> - Ada and Bice will never be together at vertex B.
+> - Ada and Bice will never be together at vertex C.
+> - Ada and Bice will never be together at vertex D.
+> - Sometimes Ada and Bice will be together at vertex A.
+> - Ada and Bice cannot be together except at one of the vertices.
+>
+> A) 0 (none)
 > B) 1
->  
-> C) 3 D) 4
->  
+> C) 3
+> D) 4
 > E) 5 (all)
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q08|src_kangourou_2022_benjamin_semifinale__Q08]]
 
 
 
@@ -434,19 +471,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most likely number of people who knew the answer*
+*Which of the following numbers is most likely to be the number of those who knew the correct answer?*
 
-> (6 points) To a multiple-choice Kangourou question like this, with 5 options for the answer, 10,000 students answered. Of these, some were able to determine the correct answer based on their knowledge, others guessed by choosing completely at random from the five proposals. The correct answers were 3,000. Which of the following is more likely to be the number of people who knew the correct answer? A) 3.000 B) 2.500
->  
+> (6 points) 10.000 students answered a multiple-choice Kangourou question like this one, with 5 options for the answer. Of these, some were able to determine the correct answer from their knowledge; the others guessed, choosing entirely at random among the 5 proposals. The answers that turned out correct were 3.000. Among the following numbers, which is most likely to be the number of those who knew the correct answer?
+>
+> A) 3.000
+> B) 2.500
 > C) 1.500
->  
 > D) 1.250
->  
 > E) 1.000
->  
+>
 > Open-ended questions
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q09|src_kangourou_2022_benjamin_semifinale__Q09]]
 
 
 
@@ -471,11 +512,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remainder of (number×10) divided by 6 with number=2 mod 6*
+*What remainder do you get?*
 
-> (4 points) If an integer divided by 6 gives a remainder of 2, what remainder is obtained by multiplying that number by 10 and dividing the result always by 6?
+> (4 points) If an integer divided by 6 leaves remainder 2, what remainder do you get by multiplying that number by 10 and dividing the result obtained, again by 6?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0002
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q10|src_kangourou_2022_benjamin_semifinale__Q10]]
 
 
 
@@ -502,11 +548,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between oases A and B with two camels*
+*How many kilometres apart are the two oases?*
 
-> (5 points) In the desert, two oases A and B are at the end of a long straight track. A camel leaves from A to B at the same time as another camel leaves from B to A; the two camels travel along the track at constant speed, one at 4 km/h, the other at 2 km/h. After an hour of meeting, the fastest camel reaches its destination. How many kilometers apart are the two oases?
+> (5 points) In the desert, two oases A and B are at the ends of a long straight track. A camel sets off from A bound for B at the same moment as another camel sets off from B bound for A; the two camels travel along the track at constant speed, one at 4 km an hour, the other at 2 km an hour. One hour after they have met, the faster camel reaches its destination. How many kilometres apart are the two oases?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0012
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q11|src_kangourou_2022_benjamin_semifinale__Q11]]
 
 
 
@@ -535,13 +585,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Kilometers to be traveled with gasoline in the tank*
+*How many more kilometres can the car travel?*
 
 ![[src_kangourou_2022_benjamin_semifinale__prob12.png]]
 
-> (5 points) In the figure, see the indicator of the amount of gasoline in the tank of a car. When full, the tank contains 60 litres of gasoline and the car consumes 8 litres of gasoline every 100 kilometers. With the gas now in the tank, how many kilometers can the car go?
+> (5 points) In the picture you see the gauge of the amount of petrol in a car's tank. When it is full, the tank holds 60 litres of petrol and the car uses 8 litres of petrol every 100 kilometres. With the petrol now in the tank, how many more kilometres can the car travel?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0250
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q12|src_kangourou_2022_benjamin_semifinale__Q12]]
 
 
 
@@ -566,11 +620,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Digits of the quotient of 111...999 divided by 111*
+*How many digits does the quotient of that division have?*
 
 > (6 points) The number 111.222.333.444.555.666.777.888.999 (each of the digits from 1 to 9 appears exactly 3 times) is divisible by 111. How many digits does the quotient of that division have?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0025
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q13|src_kangourou_2022_benjamin_semifinale__Q13]]
 
 
 
@@ -618,35 +677,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the angle a+b from the figure*
+*How many degrees does the angle a + b measure?*
 
 ![[src_kangourou_2022_benjamin_semifinale__prob14.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.5]
-  \draw[thick] (0,-1.5) -- (0,1.5);
-  \draw[thick] (-1.5,0) -- (1.5,0);
-  \draw[thick] (0,0) -- ({1.4*cos(72)},{1.4*sin(72)});
-  \draw[thick] (0,0) -- ({1.4*cos(54)},{1.4*sin(54)});
-  \draw[thick] (0,0) -- ({1.4*cos(36)},{1.4*sin(36)});
-  \draw[thick] (0,0) -- ({1.4*cos(330)},{1.4*sin(330)});
-  \draw[thick] (0,0) -- ({1.4*cos(210)},{1.4*sin(210)});
-  \node at ({0.7*cos(81)},{0.7*sin(81)}) {$a$};
-  \node at ({0.7*cos(63)},{0.7*sin(63)}) {$a$};
-  \node at ({0.7*cos(45)},{0.7*sin(45)}) {$a$};
-  \node at ({0.9*cos(18)},{0.9*sin(18)}) {$2a$};
-  \node at ({0.8*cos(345)},{0.8*sin(345)}) {$b$};
-  \node at ({0.8*cos(300)},{0.8*sin(300)}) {$2b$};
-  \node at ({0.8*cos(240)},{0.8*sin(240)}) {$2b$};
-  \node at ({0.7*cos(150)},{0.7*sin(150)}) {$4b$};
-\end{tikzpicture}
-\end{document}
-```
+> (6 points) The picture shows some angles and their measures in degrees. How many degrees does the angle a + b measure?
 
-> (6 points) The figure shows some angles and their measurements in degrees. How many degrees does the angle a + b measure?
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0048
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q14|src_kangourou_2022_benjamin_semifinale__Q14]]
 
 
 
@@ -675,11 +716,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many cherries did Donatella eat in total
+*Exactly how many did she eat?*
 
-> (6 points) Donatella bought 756 cherries and made several bags of them all containing the same number of cherries, without leaving any left over. She kept one for herself and gave the others to her friends. Donatella ate all her cherries right away. Then three of her friends gave her, each, exactly one-quarter the number of cherries they had in their bag. After eating these too, Donatella ate more than 150 cherries altogether - exactly how many?
+> (6 points) Donatella bought 756 cherries and made several bags, all containing the same number of cherries, with none left over. She kept one for herself and gave the others to her friends. Donatella immediately ate all her cherries. Then three of her friends each gave her a number of cherries exactly equal to a quarter of those that were in their bag at the start. After she had eaten these too, Donatella had eaten more than 150 cherries in all: exactly how many?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0189
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q15|src_kangourou_2022_benjamin_semifinale__Q15]]
 
 
 
@@ -735,40 +781,17 @@ How many cherries did Donatella eat in total
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the ABC angle between two regular hexagons*
+*How many degrees does the marked angle ABC measure?*
 
 ![[src_kangourou_2022_benjamin_semifinale__prob16.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.2]
-  \draw[thick, fill=yellow!70]
-    ({-0.5+cos(240)},{-0.866+sin(240)}) --
-    ({-0.5+cos(300)},{-0.866+sin(300)}) --
-    ({-0.5+cos(0)},{-0.866+sin(0)}) --
-    ({-0.5+cos(60)},{-0.866+sin(60)}) --
-    ({-0.5+cos(120)},{-0.866+sin(120)}) --
-    ({-0.5+cos(180)},{-0.866+sin(180)}) -- cycle;
-  \draw[thick, fill=yellow!70]
-    ({0.866+cos(30)},{0.5+sin(30)}) --
-    ({0.866+cos(90)},{0.5+sin(90)}) --
-    ({0.866+cos(150)},{0.5+sin(150)}) --
-    ({0.866+cos(210)},{0.5+sin(210)}) --
-    ({0.866+cos(270)},{0.5+sin(270)}) --
-    ({0.866+cos(330)},{0.5+sin(330)}) -- cycle;
-  \draw (0.1,0) -- (0.1,0.1) -- (0,0.1);
-  \fill (0,-1.732) circle (1.5pt) node[below] {$A$};
-  \fill (1.732,1) circle (1.5pt) node[right] {$B$};
-  \fill (0,0) circle (1.5pt) node[below right] {$C$};
-  \draw[thick] (0,-1.732) -- (0,0) -- (1.732,1);
-  \draw[red, thick] (1.732,1) +({cos(210)*0.2},{sin(210)*0.2}) arc[start angle=210, end angle=240, radius=0.2];
-\end{tikzpicture}
-\end{document}
-```
+> (7 points) The picture shows two congruent regular hexagons that have only one vertex in common. Two of the sides that meet at that vertex are perpendicular. How many degrees does the marked angle ABC measure?
 
-> (7 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that vertex are perpendicular. How many degrees does the indicated angle ABC measure?
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0015
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q16|src_kangourou_2022_benjamin_semifinale__Q16]]
 
 
 
@@ -808,11 +831,16 @@ How many cherries did Donatella eat in total
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ways to sit in a car with constraints*
+*In how many different ways can they take their seats in the car?*
 
-> (7 points) Five people must board a car which has five seats, two in front and three in the back. Only one of them can drive, two of the other four cannot sit next to each other, while the other two are not bound. How many different ways can they get in the car? (Two ways are to be considered different if at least one of the car seats is occupied by different persons.) a a 2a b 2b 2b 4b V P A B C
+> (7 points) Five people have to get into a car that has five seats, two in front and three behind. Only one of them can drive; two of the other four cannot sit next to each other, while there are no constraints on the remaining two. In how many different ways can they take their seats in the car? (Two ways are to be regarded as different if at least one of the seats in the car is occupied by different people.)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0016
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q17|src_kangourou_2022_benjamin_semifinale__Q17]]
 
 
 
@@ -843,10 +871,13 @@ How many cherries did Donatella eat in total
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of operations to reach 2022 from 1*
+*What is the least number of operations that suffice to reach 2022?*
 
-> (8 points) A small calculator can only perform four optional operations on a number that is assigned: subtract 1, divide by 2, multiply by 3, add 4. Starting from number 1 and running in sequence one at a time operations like these on the results obtained step by step, what is the minimum number of operations that are sufficient to reach 2022? (For example, to reach 6 it takes and only 3: 1 × 3 + 4 − 1.)
->  
-> D D D 0002 0012 0250 0025 0048 0189 0015 0016 0009
+> (8 points) A small calculating machine can carry out only four operations, to be chosen, on a number that is given to it: subtract 1, divide by 2, multiply by 3, add 4. Starting from the number 1 and carrying out, one at a time in sequence, operations such as these on the results obtained along the way, what is the least number of operations that suffice to reach 2022? (For example, to reach 6, 3 are needed and suffice: 1 × 3 + 4 − 1.)
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0009
+[[Quesiti/src_kangourou_2022_benjamin_semifinale#q18|src_kangourou_2022_benjamin_semifinale__Q18]]

@@ -30,11 +30,15 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i numeri "buoni" in un dato insieme*
+*Tutti i numeri buoni nell'insieme {11, 13, 15, 17, 19}*
 
-> Diciamo che un intero positivo $n$ è "buono" se c'è una permutazione $(a_1, a_2, \ldots, a_n)$ di $1, 2, \ldots, n$ tale che $a_k + k$ è un quadrato perfetto per tutti $1 \le k \le n$. Determinare tutti i numeri buoni del set $\{11, 13, 15, 17, 19\}$.
+> Diciamo che un intero positivo $n$ è «buono» se esiste una permutazione $(a_1, a_2, \ldots, a_n)$ di $1, 2, \ldots, n$ tale che $a_k + k$ è un quadrato perfetto per ogni $1 \le k \le n$. Determinare tutti i numeri buoni nell'insieme $\{11, 13, 15, 17, 19\}$.
 
-**Risposta:** 13, 15, 17, 19
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_cn_cgmo_2004#q01|src_cn_cgmo_2004__Q01]]
 
 
 
@@ -59,11 +63,16 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare la somma di tre frazioni in reali positivi*
+*Il valore minimo dell'espressione in a, b e c*
 
-> $a$, $b$ e $c$ siano numeri reali positivi. Determinare il valore minimo di $$\frac{a+3c}{a+2b+c} + \frac{4b}{a+b+2c} - \frac{8c}{a+b+3c}.$$
+> Siano $a$, $b$ e $c$ numeri reali positivi. Determinare il valore minimo di
+> $$\frac{a+3c}{a+2b+c} + \frac{4b}{a+b+2c} - \frac{8c}{a+b+3c}.$$
 
-**Risposta:** -17+12\sqrt{2}
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+
+[[Quesiti/src_cn_cgmo_2004#q02|src_cn_cgmo_2004__Q02]]
 
 
 
@@ -86,9 +95,15 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coperta un triangolo obtusso inserito nel cerchio unitario con triangolo retto a uguale occhio*
+*Il triangolo ottusangolo si può coprire con un triangolo rettangolo isoscele di ipotenusa √2 + 1*
 
-> Che $ABC$ sia un triangolo obtusso inserito in un cerchio di raggio 1. Prove che il triangolo $ABC$ può essere coperto da un triangolo rettangolare con ipotenusa $\sqrt{2}+1$.
+> Sia $ABC$ un triangolo ottusangolo inscritto in una circonferenza di raggio 1. Dimostrare che il triangolo $ABC$ si può coprire con un triangolo rettangolo isoscele di ipotenusa $\sqrt{2}+1$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+
+[[Quesiti/src_cn_cgmo_2004#q03|src_cn_cgmo_2004__Q03]]
 
 
 
@@ -112,11 +127,15 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta le mani di valore 2004 da un mazzo di 32 carte con jokers*
+*Il numero di mani di valore 2004*
 
-> Un mazzo di 32 carte ha 2 giocatori diversi ognuno dei quali è numerato 0. Ci sono 10 carte rosse numerate da 1 a 10 e allo stesso modo per le carte blu e verdi. Uno sceglie una serie di carte dal mazzo. Se si sceglie una carta numerata $k$, il valore della carta è $2^k$ e il valore della mano è la somma dei valori delle carte in mano. Determinare il numero di mani con il valore 2004.
+> Un mazzo di 32 carte ha 2 jolly diversi, ciascuno numerato 0. Ci sono 10 carte rosse numerate da 1 a 10, e analogamente per le carte blu e verdi. Si sceglie un certo numero di carte dal mazzo. Se si sceglie una carta numerata $k$, allora il valore della carta è $2^k$, e il valore della mano è la somma dei valori delle carte in mano. Determinare il numero di mani di valore 2004.
 
-**Risposta:** 1006009
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_cn_cgmo_2004#q04|src_cn_cgmo_2004__Q04]]
 
 
 
@@ -140,11 +159,15 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il lambda massimo con restrizione di disuguaglianza sui valori positivi*
+*Il massimo valore della costante λ tale che u + v + w ≥ λ*
 
-> Determinare il valore massimo della costante $\lambda$ in modo tale che $u + v + w \ge \lambda$, dove $u$, $v$ e $w$ sono numeri reali positivi che soddisfano $u\sqrt{vw} + v\sqrt{wu} + w\sqrt{uv} \ge 1$.
+> Determinare il valore massimo della costante $\lambda$ tale che $u + v + w \ge \lambda$, dove $u$, $v$ e $w$ sono numeri reali positivi che soddisfano $u\sqrt{vw} + v\sqrt{wu} + w\sqrt{uv} \ge 1$.
 
-**Risposta:** \sqrt{3}
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalità]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_cn_cgmo_2004#q05|src_cn_cgmo_2004__Q05]]
 
 
 
@@ -169,11 +192,15 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La proiezione di EF su BC è costante per il cerchio attraverso A,E,D,F*
+*La lunghezza della proiezione di EF su BC non dipende dalle posizioni di E e F*
 
-> Date un triangolo acuto $ABC$ con $O$ come suo centro circundante. Linea $AO$ e lato $BC$ si incontrano a $D$. I punti $E$ e $F$ si trovano rispettivamente sui lati $AB$ e $AC$, in modo tale che i punti $A$, $E$, $D$ e $F$ si trovino su un cerchio. Prove che la lunghezza della proiezione del segmento di linea $EF$ sul lato $BC$ non dipende dalle posizioni di $E$ e $F$.
+> Dato un triangolo acutangolo $ABC$ con circocentro $O$. La retta $AO$ e il lato $BC$ si incontrano in $D$. I punti $E$ ed $F$ stanno rispettivamente sui lati $AB$ e $AC$, in modo che i punti $A$, $E$, $D$ e $F$ stiano su una circonferenza. Dimostrare che la lunghezza della proiezione del segmento $EF$ sul lato $BC$ non dipende dalle posizioni di $E$ e $F$.
 
-![[src_cn_cgmo_2004__q06.png]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+
+[[src_cn_cgmo_2004__Q06.png]]
 
 
 
@@ -196,9 +223,15 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri interi della forma ip+jq con i+j<=n, p,q coprimo*
+*Il numero di interi della forma ip + jq con i e j interi non negativi e i + j ≤ n*
 
-> Lasciate che $p$, $q$ siano due integri positivi coprimi, e lasciate che $n$ sia un intero non negativo. Determinare il numero di integri che possono essere scritti nella forma $ip + jq$, dove $i$ e $j$ sono integri non negativi con $i + j \le n$.
+> Siano $p$ e $q$ due interi positivi coprimi, e sia $n$ un intero non negativo. Determinare il numero di interi che si possono scrivere nella forma $ip + jq$, dove $i$ e $j$ sono interi non negativi con $i + j \le n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_cn_cgmo_2004#q07|src_cn_cgmo_2004__Q07]]
 
 
 
@@ -222,8 +255,12 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massime croci non sovrapposti in scacchi da 10x11 meno angoli*
+*Il massimo numero di croci non sovrapposte che si possono porre su una scacchiera 10 × 11*
 
-> Quando i quadrati di unità nei quattro angoli vengono rimossi da un quadrato di tre per tre, la forma rimanente viene chiamata croce. Qual è il numero massimo di croci non sovrapposti posizionati all'interno del confine di una scacchiera $10 \times 11$? (Ogni croce copre esattamente cinque unità quadrate sulla tabella.)
+> Quando si tolgono i quadrati unitari ai quattro angoli di un quadrato tre per tre, la forma che resta si chiama croce. Qual è il massimo numero di croci non sovrapposte che si possono porre entro il bordo di una scacchiera $10 \times 11$? (Ogni croce copre esattamente cinque quadrati unitari della scacchiera.)
 
-**Risposta:** 15
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione / parità]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_cn_cgmo_2004#q08|src_cn_cgmo_2004__Q08]]

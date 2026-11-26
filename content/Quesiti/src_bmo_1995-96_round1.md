@@ -31,9 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie quadrate perfette a quattro cifre che differiscono di una su due cifre*
+*Trovare tutte le coppie di quadrati perfetti a quattro cifre che differiscono di una cifra.*
 
-> Considerate la coppia di numeri interi positivi a quattro cifre $$(M, N) = (3600, 2500).$$ Si noti che $M$ e $N$ sono entrambi quadrati perfetti, con cifre uguali in due posti e cifre diverse nelle altre due posizioni. Inoltre, quando le cifre differiscono, la cifra di $M$ è esattamente una maggiore della cifra corrispondente di $N$. Trova tutte le coppie di interi positivi a quattro cifre $(M, N)$ con queste proprietà.
+> Si consideri la coppia di interi positivi di quattro cifre
+> $$(M, N) = (3600, 2500).$$
+> Si noti che $M$ e $N$ sono entrambi quadrati perfetti, hanno cifre uguali in due posizioni e cifre diverse nelle altre due posizioni. Inoltre, quando le cifre differiscono, la cifra in $M$ è esattamente una in più rispetto alla cifra corrispondente in $N$. Si determinino tutte le coppie di interi positivi di quattro cifre $(M, N)$ che possiedono queste proprietà.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_1995-96_round1#q01|src_bmo_1995-96_round1__Q01]]
 
 
 
@@ -60,9 +69,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolo f  1996) dato f  1) = 1996 e condizione somma ricorrente*
+*Calcola f(1996) dato f(1)=1996 e una condizione di somma ricorsiva*
 
-> Una funzione $f$ è definita sull'insieme di tutti gli integri positivi e soddisfa $$f(1) = 1996$$ e $$f(1) + f(2) + \cdots + f(n) = n^2\, f(n) \quad \text{for all } n > 1.$$ Calcola il valore esatto di $f(1996)$.
+> Una funzione $f$ è definita sull'insieme di tutti gli interi positivi e soddisfa
+> $$f(1) = 1996$$
+> e
+> $$f(1) + f(2) + \cdots + f(n) = n^2\, f(n) \quad \text{for all } n > 1.$$
+> Calcola il valore esatto di $f(1996)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_1995-96_round1#q02|src_bmo_1995-96_round1__Q02]]
 
 
 
@@ -87,11 +107,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove CO perpendicolare al PQ utilizzando un cerchio attraverso A, O, B*
+*Dimostrare che CO è perpendicolare a PQ utilizzando la circonferenza passante per A, O, B*
 
-> Lasciate che $ABC$ sia un triangolo a angolo acuto, e lasciate che $O$ sia il suo circoncentro. Il cerchio attraverso $A$, $O$ e $B$ si chiama $S$. Le linee $CA$ e $CB$ incontrano di nuovo il cerchio $S$ rispettivamente a $P$ e $Q$. Prova che le linee $CO$ e $PQ$ sono perpendicolari.
-> 
-> (Dato qualsiasi triangolo $XYZ$, il suo circoncentro è il centro del cerchio che attraversa i tre vertici $X$, $Y$ e $Z$.)
+> Sia $ABC$ un triangolo acutangolo, e sia $O$ il suo circocentro. La circonferenza passante per $A$, $O$ e $B$ è detta $S$. Le rette $CA$ e $CB$ incontrano nuovamente la circonferenza $S$ rispettivamente nei punti $P$ e $Q$. Dimostrare che le rette $CO$ e $PQ$ sono perpendicolari.
+>
+> (Dato un qualsiasi triangolo $XYZ$, il suo circocentro è il centro della circonferenza che passa per i tre vertici $X$, $Y$ e $Z$.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_1995-96_round1#q03|src_bmo_1995-96_round1__Q03]]
 
 
 
@@ -116,9 +143,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determina tutte le n con q(n) > q(n+1) dove q(n) = piano(n/piano(sqrt n))*
+*Determinare tutti gli n tali che q(n) > q(n+1), dove q(n)=floor(n/floor(sqrt n)).*
 
-> Per qualsiasi numero reale $x$, $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$. Definire la funzione $q$ sui numeri interi positivi con $$q(n) = \left\lfloor \frac{n}{\lfloor \sqrt{n} \rfloor} \right\rfloor \quad \text{for } n = 1, 2, 3, \ldots$$ Determinare tutti i numeri interi positivi $n$ per i quali $q(n) > q(n+1)$.
+> Per ogni numero reale $x$, si indichi con $\lfloor x \rfloor$ il più grande intero minore o uguale a $x$. Si definisca la funzione $q$ sugli interi positivi mediante
+> $$q(n) = \left\lfloor \frac{n}{\lfloor \sqrt{n} \rfloor} \right\rfloor \quad \text{for } n = 1, 2, 3, \ldots$$
+> Si determinino tutti gli interi positivi $n$ per cui vale $q(n) > q(n+1)$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_1995-96_round1#q04|src_bmo_1995-96_round1__Q04]]
 
 
 
@@ -143,6 +179,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova 4(a^3+b^3) >= (a+b)^3 e 9(a^3+b^3+c^3) >= (a+b+c)^3*
+*Dimostrare che 4(a^3+b^3) >= (a+b)^3 e 9(a^3+b^3+c^3) >= (a+b+c)^3*
 
-> $a$, $b$ e $c$ siano numeri reali positivi. (i) Prove che $4(a^3 + b^3) \ge (a + b)^3$. (ii) Prove che $9(a^3 + b^3 + c^3) \ge (a + b + c)^3$.
+> Siano $a$, $b$ e $c$ numeri reali positivi. (i) Dimostrare che $4(a^3 + b^3) \ge (a + b)^3$. (ii) Dimostrare che $9(a^3 + b^3 + c^3) \ge (a + b + c)^3$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_1995-96_round1#q05|src_bmo_1995-96_round1__Q05]]

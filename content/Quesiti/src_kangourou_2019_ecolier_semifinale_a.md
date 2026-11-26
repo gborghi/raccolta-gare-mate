@@ -31,12 +31,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of digits of a number <45 with digit sum 12*
+*Numbers less than 45 with a digit sum of 12, when multiplied*
 
-> The product of the digits 
-> The sum of the digits of a number less than 45 is 12. What is the product of its digits?
+> Product of the digits. The sum of the digits of a number less than 45 is 12. What is the product of its digits?
 
-**Answer:** 0027
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q01|src_kangourou_2019_ecolier_semifinale_a__Q01]]
 
 
 
@@ -65,11 +69,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum M-N between bags of candy*
+*Massimo M-N among bags of candies*
 
-> Four bags contain a total of 100 candies. They are lined up (left to right) from the fullest to the emptiest; the one on the left contains 42 candies, the one on the right contains 7 and no bag contains the same number of candies as another. If M is the number of candies in the second left-hand bag and N is the number of candies in the second right-hand bag, how much can M - N be worth at most?
+> Candies: Four bags contain a total of 100 candies. They are arranged (from left to right) from the fullest to the emptiest; the leftmost bag contains 42 candies, the rightmost contains 7, and no bag contains the same number of candies as any other. If M is the number of candies in the second bag from the left and N is the number of candies in the second bag from the right, what is the maximum possible value of M – N?
 
-**Answer:** 0031
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q02|src_kangourou_2019_ecolier_semifinale_a__Q02]]
 
 
 
@@ -97,11 +106,14 @@ level: kangourou
 
 *Maximum number of exact weighings with given weights*
 
-> The balance 
-> I have a two-pan balance and some weights, one for each of these sizes: 1, 2, 5, 10 and 50 grams. 
-> What is the maximum number of exact weighings I can do?
+> The balance scale: I have a two-pan balance and weights, one for each of these masses: 1, 2, 5, 10, and 50 grams. What is the maximum number of exact weighings I can perform?
 
-**Answer:** 0055
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q03|src_kangourou_2019_ecolier_semifinale_a__Q03]]
 
 
 
@@ -128,11 +140,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ways to arrange 4 cards of 2019*
+*Ways of arranging 4 cardboard cards from 2019*
 
-> Rita has 4 numbered cards on each of which is one of the four digits of 2019 and the figure 9 is underlined, so as not to confuse it with 6. In how many ways can she arrange the cards if you want to get a four-digit number with significant digits (i.e. one that cannot be written using only three digits)?
+> Numbered Cards: Rita has 4 cards, and on each card is written one of the four digits of 2019; the digit 9 is underlined so that it is not confused with 6. In how many ways can she arrange the cards if she wants to obtain a four-digit significant number (that is, a number that cannot be written using only three digits)?
 
-**Answer:** 0018
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q04|src_kangourou_2019_ecolier_semifinale_a__Q04]]
 
 
 
@@ -158,11 +175,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cat residue meters when the dog arrives*
+*Cat's remaining meters when the dog arrives*
 
-> My dog and my cat are in the garden, the first 100 meters from the door, the second 80 meters. I called them, and they rushed to the door. The dog runs twice as fast as the cat. When the dog arrived at the door, how many meters did the cat still have to cover?
+> Dog and Cat My dog and my cat are in the garden: the dog is 100 meters from the front door, and the cat is 80 meters away. I called them, and they rushed running to the door. The dog runs twice as fast as the cat. When the dog reached the door, how many meters did the cat still have to cover?
 
-**Answer:** 0030
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q05|src_kangourou_2019_ecolier_semifinale_a__Q05]]
 
 
 
@@ -190,11 +211,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Palindrome 4 digits from palindrome 3 digits plus 2019*
+*A 4-digit palindrome from a 3-digit palindrome plus 2019*
 
-> Added to 2019 A palindrome number is a number equal to the number that you get by reading its digits from right to left. For example, 8, 44, 131, 2002 are palindromic numbers whereas 2019 is not. There's a 3-digit palindrome number that added to 2019 gives a palindrome number: find this 4-digit palindrome number.
+> Added to 2019: A palindromic number is a number that is equal to the number obtained by reading its digits from right to left. For example, 8, 44, 131, and 2002 are palindromic numbers, whereas 2019 is not. There exists a three-digit palindromic number that, when added to 2019, yields a palindromic number: find this four-digit palindromic number.
 
-**Answer:** 2332
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q06|src_kangourou_2019_ecolier_semifinale_a__Q06]]
 
 
 
@@ -219,11 +245,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest of the three numbers with sum 2019*
+*The largest of the three numbers whose sum is 2019*
 
-> Three integers The sum of three positive integers is 2019. If you subtract the same number from each of them, you get the numbers 931, 721 and 301. What is the largest of the three numbers?
+> Three integers: The sum of three positive integers is 2019. If the same number is subtracted from each of them, the resulting numbers are 931, 721, and 301. What is the largest of the three numbers that were added?
 
-**Answer:** 0953
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q07|src_kangourou_2019_ecolier_semifinale_a__Q07]]
 
 
 
@@ -249,11 +279,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Members of the smaller gorilla family
+*Smallest members of the gorilla family*
 
-> In a forest in the Congo, there are three mountain gorilla families, 44 of them together. The smallest family has seven fewer members than the largest and four fewer than the middle family. How many members are there in the smallest family?
+> In the Forest In a forest in Congo, three families of mountain gorillas live: altogether, there are 44 gorillas. The smallest family has 7 fewer members than the largest family and 4 fewer than the middle-sized family. How many members are there in the smallest family?
 
-**Answer:** 0011
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q08|src_kangourou_2019_ecolier_semifinale_a__Q08]]
 
 
 
@@ -279,11 +313,15 @@ Members of the smaller gorilla family
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total kilometres travelled by Mario (ascent descent)*
+*Total kilometers traveled by Mario (ascend and descend)*
 
-> In three hours Mario went up to a shelter and without stopping he went down the valley. He went up at an average speed of 4 km/h and down at 12 km/h. How many kilometres, in total, did Mario walk there and back?
+> The refuge In three hours, Mario climbed to a refuge and, without stopping, descended to the valley. He climbed at an average speed of 4 km/h and descended at 12 km/h. How many kilometers did Mario walk in total, going and returning?
 
-**Answer:** 0018
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q09|src_kangourou_2019_ecolier_semifinale_a__Q09]]
 
 
 
@@ -313,13 +351,18 @@ Members of the smaller gorilla family
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of cells C2 C3 D3 in the grid 2/5/10*
+*Sum cells C2, C3, and D3 in grid 2/5/10*
 
 ![[src_kangourou_2019_ecolier_semifinale_a__prob10.png]]
 
-> The grid Insert in each of the empty cells of this grid a number chosen between 2, 5 and 10 so that the sum of the numbers in each row and column is 22. What's the sum of the numbers you put in cells C2, C3 and D3?
+> The Grid: In each of the empty cells of this grid, enter a number chosen from 2, 5, and 10 so that the sum of the numbers in each row and each column is 22. What is the sum of the numbers you have entered in cells C2, C3, and D3?
 
-**Answer:** 0017
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q10|src_kangourou_2019_ecolier_semifinale_a__Q10]]
 
 
 
@@ -348,9 +391,14 @@ Members of the smaller gorilla family
 
 *Ways of dividing 50 apples with constraints*
 
-> Alice, Bianca and Claudia want to split 50 apples (without cutting them) so that Alice gets at least 14, Bianca gets at least 9, and Claudia gets 12 or 15. How many different ways can they do that?
+> The three girls, Alice, Bianca, and Claudia, want to divide 50 apples among themselves (without cutting them) so that Alice gets at least 14, Bianca gets at least 9, and Claudia gets either 12 or 15. In how many different ways can they do this?
 
-**Answer:** 0029
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q11|src_kangourou_2019_ecolier_semifinale_a__Q11]]
 
 
 
@@ -379,9 +427,14 @@ Members of the smaller gorilla family
 
 *Minutes in which the digit 5 appears on the clock*
 
-> Digital clock A digital clock indicates the time in 24-hour format: for example, if it is 4:20 p.m., it indicates 16:20. Over the course of a full day (24 hours), for how many minutes does the digit 5 appear on the clock?
+> The digital clock A digital clock displays the time in 24-hour format: for example, if it is 4:20 p.m., it displays 16:20. Over the course of a full day (24 hours), for how many minutes does the digit "5" appear on the clock?
 
-**Answer:** 0450
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q12|src_kangourou_2019_ecolier_semifinale_a__Q12]]
 
 
 
@@ -410,11 +463,16 @@ Members of the smaller gorilla family
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tickets sold for each boy*
+*Total tickets sold per boy*
 
-> Lottery 5 boys and 6 girls have to sell 100 tickets of a lottery. The boys share a portion of the tickets equally among themselves (but not all); the girls do the same with the remainder of the tickets. This information does not determine the total number of tickets sold by the boys, because you can find different situations: for each of them you find the number of tickets sold by each of the boys. How much is the sum of the numbers you found?
+> The lottery: 5 boys and 6 girls must sell 100 lottery tickets. The boys divide a portion of the tickets equally among themselves (but not all of them); the girls do the same with the remaining portion of the tickets. This information does not determine the total number of tickets sold by the boys, because different situations can arise: for each of them, find the number of tickets sold by each of the boys. What is the sum of the numbers you have found?
 
-**Answer:** 0024
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q13|src_kangourou_2019_ecolier_semifinale_a__Q13]]
 
 
 
@@ -441,11 +499,16 @@ Members of the smaller gorilla family
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum difference between consecutive numbers selected*
+*Maximum difference between chosen consecutive numbers*
 
-> 100 numbers Mattia randomly selects 100 whole numbers all different from each other, each greater than 0 (and different from 0) and less than 2019 (and different from 2019) and puts them in increasing order. What is the maximum value of the difference between one of the numbers chosen and the one preceding it in the order?
+> 100 numbers: Mattia randomly chooses 100 distinct integers, each greater than 0 (and not equal to 0) and less than 2019 (and not equal to 2019), and arranges them in ascending order. What is the maximum possible value of the difference between one of the chosen numbers and the number that precedes it in the order?
 
-**Answer:** 1919
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q14|src_kangourou_2019_ecolier_semifinale_a__Q14]]
 
 
 
@@ -475,6 +538,11 @@ Members of the smaller gorilla family
 
 *How many legs does a gurocan have?*
 
-> The gurocan is a fantastic animal that all the kids in the schools of Kanguria know well. Some of them were asked: How many legs do fourteen cats, one chicken and seventeen gurocans have in total? Carlo answered 108, Linda 130, Maria 164, Nina 196 and Oliviero 262. One of them answered correctly. So how many legs does a gurocan have?
+> The gurocan The gurocan is a fantastic animal that all the schoolchildren of Kanguria know well. Some of them were asked: how many legs in total do fourteen cats, one chicken, and seventeen gurocans have? Carlo answered 108, Linda 130, Maria 164, Nina 196, and Oliviero 262. One of them answered correctly. So how many legs does a gurocan have?
 
-**Answer:** 0012
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q15|src_kangourou_2019_ecolier_semifinale_a__Q15]]

@@ -35,13 +35,22 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco con stringhe binarie: trovare il numero minimo di whiteboard per vincere B*
+*Gioco delle stringhe binarie: trova il numero minimo di lavagne necessario affinché B vinca*
 
-> Lasciate che $n$ e $k$ siano integri positivi con $n > k$. I giocatori A e B giocano il seguente gioco. Trova il più piccolo intero positivo $m$ in modo che B possa sempre vincere. (B viene informato dei valori di $n$ e $k$ all'inizio della partita.)
-> 
-> - A sceglie una stringa binaria $n$ a cifre $X$, e scrive sulla lavagna tutte le stringhe binarie che possono essere ottenute da $X$ volando esattamente $k$ cifre. - B vede le stringhe sulla lavagna, poi scrive i numeri $m$ sulla lavagna. - B vince se $X$ è tra i numeri scritti sulla lavagna.
-> 
-> Qui una stringa binaria $n$-cifre è una sequenza di simboli $n$ ognuno uguale a $0$ o $1$. Ad esempio, le stringhe binarie $3$ a cifre sono $000, 001, 010, 011, 100, 101, 110, 111$, dando stringhe $8$ in totale.
+> Siano $n$ e $k$ numeri interi positivi tali che $n > k$. I giocatori A e B giocano il seguente gioco. Determinare il più piccolo numero intero positivo $m$ tale che B possa vincere sempre. (All'inizio del gioco, a B vengono comunicati i valori di $n$ e $k$.)
+>
+> - A sceglie una stringa binaria di $n$ cifre $X$ e scrive sulla lavagna tutte le stringhe binarie che si possono ottenere da $X$ capovolgendo esattamente $k$ cifre.
+> - B vede le stringhe sulla lavagna, poi scrive $m$ numeri sulla lavagna bianca.
+> - B vince se $X$ è tra i numeri scritti sulla lavagna.
+>
+> Qui, una stringa binaria di $n$ cifre è una sequenza di $n$ simboli, ciascuno dei quali è uguale a $0$ o a $1$. Ad esempio, le stringhe binarie di $3$ cifre sono $000, 001, 010, 011, 100, 101, 110, 111$, il che dà in totale $8$ stringhe.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2017#q01|src_selection_camp_2017__Q01]]
 
 
 
@@ -66,11 +75,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo, incentro, piede perpendicolare: linee XD e AM si incontrano su gamma*
+*Circocentro, incentro, piede della perpendicolare: le rette XD e AM si incontrano su Gamma*
 
-> Il triangolo $ABC$ deve soddisfare $AB \neq AC$. Che $\Gamma$ sia il circoncircolo del triangolo $ABC$ e che $I$ sia il suo incentro. Il $M$ deve essere il punto medio del lato $BC$ e il $D$ deve essere il piede della perpendicolare da $I$ al lato $BC$. La linea che attraversa $I$ perpendicolare alla linea $AI$ incontra i lati $AB$ e $AC$ rispettivamente a $F$ e $E$. Il $X$ deve essere il secondo punto di intersezione (diversi da $A$) del circoncircolo del triangolo $AEF$ con $\Gamma$. Provare che le linee $XD$ e $AM$ si incontrano su $\Gamma$.
-> 
+> Sia il triangolo $ABC$ tale che $AB \neq AC$. Sia $\Gamma$ la circonferenza circoscritta al triangolo $ABC$ e sia $I$ il suo incentro. Sia $M$ il punto medio del lato $BC$, e sia $D$ il piede della perpendicolare condotta da $I$ al lato $BC$. La retta passante per $I$ e perpendicolare alla retta $AI$ incontra i lati $AB$ e $AC$ rispettivamente nei punti $F$ e $E$. Sia $X$ il secondo punto d'intersezione (diverso da $A$) tra la circonferenza circoscritta al triangolo $AEF$ e $\Gamma$. Dimostrare che le rette $XD$ e $AM$ si incontrano su $\Gamma$.
+>
 > (Qui $UV$ indica la lunghezza del segmento $UV$.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2017#q02|src_selection_camp_2017__Q02]]
 
 
 
@@ -97,11 +113,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le k in modo tale che la somma delle potenze k-th sia uguale (somma)^{r_n} per tutte le n*
+*Trovare tutti i k tali che la somma delle potenze k-esime sia uguale a (somma)^{r_n} per ogni n*
 
-> Lasciate che $a_1, a_2, \ldots$ e $r_1, r_2, \ldots$ siano sequenze di numeri interi positivi. Trova tutti gli integri positivi $k$ in modo tale che esistano sequenze che soddisfano:
-> 
-> - $a_1 < a_2 < a_3 < \cdots$; - Per ogni numero intero positivo $n$, $$a_1^k + a_2^k + \cdots + a_n^k = (a_1 + a_2 + \cdots + a_n)^{r_n}.$$
+> Siano $a_1, a_2, \ldots$ e $r_1, r_2, \ldots$ successioni di interi positivi. Determinare tutti gli interi positivi $k$ tali che esistano tali successioni che soddisfino:
+>
+> - $a_1 < a_2 < a_3 < \cdots$;
+> - Per ogni numero intero positivo $n$,
+> $$a_1^k + a_2^k + \cdots + a_n^k = (a_1 + a_2 + \cdots + a_n)^{r_n}.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2017#q03|src_selection_camp_2017__Q03]]
 
 
 
@@ -126,11 +151,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles, incentro, riflessione: si trova sul circoncircolo di BDE*
+*Triangolo isoscele, incentro, riflessione: giace sulla circonferenza circoscritta a BDE*
 
-> Il triangolo $ABC$ deve soddisfare $AB = AC \neq BC$ e $I$ deve essere il suo incentro. La linea $BI$ incontra il lato $AC$ a $D$. La linea attraverso $D$ perpendicolare a $AC$ incontra la linea $AI$ a $E$. Prova che il riflesso di $I$ sulla linea $AC$ si trova sul circoncircolo del triangolo $BDE$.
-> 
-> (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Sia il triangolo $ABC$ tale che $AB = AC \neq BC$, e sia $I$ il suo incentro. La retta $BI$ incontra il lato $AC$ in $D$. La retta passante per $D$ e perpendicolare a $AC$ incontra la retta $AI$ in $E$. Dimostrare che la riflessione di $I$ rispetto alla retta $AC$ giace sulla circonferenza circoscritta al triangolo $BDE$.
+>
+> (Qui $XY$ denota la lunghezza del segmento $XY$.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2017#q04|src_selection_camp_2017__Q04]]
 
 
 
@@ -153,9 +185,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Vertici di n-gon regolari 3 colori unici per colore: esiste un triangolo con arcobaleno e isosceles*
+*Vertici degli n-goni regolari tricromati in modo dispari per ciascun colore: esiste un triangolo isoscele arcobaleno*
 
-> $n$ sia un numero intero $\ge 5$ che sia coprimo a $6$. I vertici di un normale $n$-gon sono colorati con $3$ colori in modo tale che per ogni colore il numero di vertici di quel colore sia strano. Prove che si possono scegliere le vertici $3$ del normale $n$-gon formando un triangolo di uguali stelle le cui tre vertici hanno tutti colori diversi.
+> Sia $n$ un numero intero $\ge 5$ coprimo con $6$. I vertici di un $n$-gono regolare sono colorati con $3$ colori in modo che, per ciascun colore, il numero di vertici di quel colore sia dispari. Dimostrare che si possono scegliere $3$ vertici del $n$-gono regolare in modo che essi formino un triangolo isoscele i cui tre vertici abbiano tutti colori diversi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2017#q05|src_selection_camp_2017__Q05]]
 
 
 
@@ -179,9 +218,17 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni a valore reale che soddisfano un'equazione funzionale massima*
+*Trovare tutte le funzioni a valori reali che soddisfano un'equazione funzionale del massimo*
 
-> Trova tutte le funzioni $f$ definite sui reali assumendo valori reali quali $f(0) \neq 0$ e, per tutti i numeri reali $x, y$, $$f(x+y)^2 = 2f(x)f(y) + \max\{f(x^2) + f(y^2),\, f(x^2 + y^2)\}.$$
+> Trovare tutte le funzioni $f$ definite sui numeri reali e a valori reali tali che $f(0) \neq 0$ e, per tutti i numeri reali $x, y$,
+> $$f(x+y)^2 = 2f(x)f(y) + \max\{f(x^2) + f(y^2),\, f(x^2 + y^2)\}.$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2017#q06|src_selection_camp_2017__Q06]]
 
 
 
@@ -204,9 +251,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le coppie di numeri interi positivi (n,k) con n^4+10n^2+2^k un quadrato perfetto*
+*Trovare tutte le coppie di interi positivi (n,k) tali che n^4+10n^2+2^k sia un quadrato perfetto*
 
-> Trova tutte le coppie di integri positivi $(n, k)$ in modo tale che $n^4 + 10n^2 + 2^k$ sia un quadrato perfetto.
+> Trovare tutte le coppie di interi positivi $(n, k)$ tali che $n^4 + 10n^2 + 2^k$ sia un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2017#q07|src_selection_camp_2017__Q07]]
 
 
 
@@ -231,9 +285,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di numeri interi positivi con termine superiore alla media dei prossimi termini del 2016: dilimitato sopra*
+*Successione di interi positivi in cui un termine supera la media dei successivi 2016 termini: limitata superiormente*
 
-> Che $a_1, a_2, \ldots$ sia una sequenza di interi positivi che soddisfi, per ogni intero positivo $n$, $$a_n > \frac{a_{n+1} + a_{n+2} + \cdots + a_{2n}}{n + 2016}.$$ Prove che esiste una costante reale positiva $C$ tale che $a_n < C$ per tutti gli interi positivi $n$.
+> Sia $a_1, a_2, \ldots$ una successione di interi positivi tale che, per ogni intero positivo $n$,
+> $$a_n > \frac{a_{n+1} + a_{n+2} + \cdots + a_{2n}}{n + 2016}.$$
+> Dimostrare che esiste una costante reale positiva $C$ tale che $a_n < C$ per tutti gli interi positivi $n$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2017#q08|src_selection_camp_2017__Q08]]
 
 
 
@@ -267,17 +330,24 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rete traghetti su n isole: dimostrare che una delle isole è eventualmente collegata a tutte le altre*
+*Rete di traghetti su n isole: dimostrare che almeno un'isola è in definitiva collegata a tutte le altre*
 
-> $n \ge 3$ sia un numero intero. Un paese ha $n$ isole. Inizialmente, la Società IMO gestisce rotte bidirezionali di traghetti tra alcune coppie di isole distinte in modo che le due isole siano collegate (possibilmente tramite isole intermedi). All'inizio di ogni anno, la Società IMO aggiorna le sue rotte di traghetto come segue:
-> 
-> (1) Scegliere due isole distinte $X$ e $Y$ in modo tale che un traghetto abbia operato tra di loro nell'anno precedente. (2) Cancellare la rotta di traghetto tra $X$ e $Y$. (3) Per ciascuna isola $Z \neq X, Y$ in modo tale che un traghetto abbia operato tra esattamente uno di $\{X, Z\}$ e $\{Y, Z\}$ nell'anno precedente, aggiungere una nuova rotta di traghetto tra $Z$ e l'altro di $X, Y$. (4) Nessuna altra rotta di traghetti viene aggiunta o cancellata.
-> 
-> La selezione di $X$ e $Y$ nella fase (1) deve soddisfare in ogni momento la seguente condizione:
-> 
+> Sia $n \ge 3$ un numero intero. Un paese ha $n$ isole. Inizialmente, la IMO Company gestisce rotte di traghetto bidirezionali tra alcune coppie di isole distinte, in modo che qualsiasi coppia di isole sia collegata (eventualmente tramite isole intermedie). All'inizio di ogni anno, la IMO Company aggiorna le proprie rotte di traghetto nel modo seguente:
+>
+> (1) Scegli due isole distinte $X$ e $Y$ tali che l'anno precedente fosse attivo un traghetto tra di esse. (2) Annulla la linea di traghetto tra $X$ e $Y$. (3) Per ciascuna isola $Z \neq X, Y$ tale che l'anno precedente un traghetto fosse attivo tra esattamente una delle isole $\{X, Z\}$ e $\{Y, Z\}$, aggiungi una nuova linea di traghetto tra $Z$ e l'altra delle isole $X, Y$. (4) Non vengono aggiunte né annullate altre linee di traghetto.
+>
+> La selezione di $X$ e $Y$ nello step (1) deve soddisfare la seguente condizione in ogni momento:
+>
 > Condizione: per ogni sottoinsieme non vuoto $\mathcal{S}$ di isole con $|\mathcal{S}| \le n-1$, almeno uno di $X, Y$ è in $\mathcal{S}$ e l'altro non lo è.
-> 
-> Prove che esiste un anno e un'isola in modo tale che in quell'anno un traghetto opera tra quell'isola e ogni altra isola.
+>
+> Dimostrare che esistono un anno e un'isola tali che, in quell'anno, un traghetto opera tra quell'isola e ogni altra isola.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_grafi|Grafi]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2017#q09|src_selection_camp_2017__Q09]]
 
 
 
@@ -301,9 +371,17 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti n>=3: per qualsiasi 2n reali con ≠a_k=1, scegliere x_k=pm1 limitando due somme*
+*Trovare tutti gli n≥3: per qualsiasi coppia di 2n numeri reali tali che |a_k|+|b_k|=1, scegli x_k=±1 in modo da delimitare due somme*
 
-> Trovare tutti i numeri interi positivi $n \ge 3$ in modo tale che si verifichi quanto segue: per qualsiasi numero reale $2n$ $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n$ soddisfacente $|a_k| + |b_k| = 1$ per $k = 1, 2, \ldots, n$, si possono scegliere numeri reali $x_1, x_2, \ldots, x_n$ con $|x_k| = 1$ per $k = 1, 2, \ldots, n$ in modo tale che $$\left|\sum_{k=1}^n x_k a_k\right| + \left|\sum_{k=1}^n x_k b_k\right| \le 1.$$
+> Trovare tutti gli interi positivi $n \ge 3$ tali che valga quanto segue: per qualsiasi insieme di $2n$ numeri reali $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n$ che soddisfano $|a_k| + |b_k| = 1$ per $k = 1, 2, \ldots, n$, si possono scegliere numeri reali $x_1, x_2, \ldots, x_n$ con $|x_k| = 1$ per $k = 1, 2, \ldots, n$ in modo che
+> $$\left|\sum_{k=1}^n x_k a_k\right| + \left|\sum_{k=1}^n x_k b_k\right| \le 1.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2017#q10|src_selection_camp_2017__Q10]]
 
 
 
@@ -326,9 +404,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i f su interi positivi con f(m) + f(n) -mn non zero e numero intero del rapporto*
+*Trovare tutte le funzioni f sugli interi positivi tali che f(m)+f(n)-mn sia diverso da zero e il rapporto sia un intero*
 
-> Trova tutte le funzioni $f$ definite sui numeri interi positivi che assumono valori interi positivi in modo tale che per qualsiasi numero intero positivo $m, n$, si abbia $f(m) + f(n) - mn \neq 0$ e $\dfrac{mf(m) + nf(n)}{f(m) + f(n) - mn}$ è un numero intero.
+> Trovare tutte le funzioni $f$ definite sugli interi positivi e a valori in gli interi positivi tali che, per ogni coppia di interi positivi $m, n$, si abbia $f(m) + f(n) - mn \neq 0$ e $\dfrac{mf(m) + nf(n)}{f(m) + f(n) - mn}$ sia un numero intero.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2017#q11|src_selection_camp_2017__Q11]]
 
 
 
@@ -351,6 +436,13 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterali convex con angoli, bisettori, punto medio e circoncircolo uguali: PQ perp AC*
+*Quadrilatero convesso con angoli uguali, bisettrici, punto medio e circonferenza circoscritta: PQ perp AC*
 
-> Il $ABCD$ deve essere un quadrilaterale converso con $\angle ABC = \angle ADC < 90^\circ$. I bisettori angolari di $\angle ABC$ e $\angle ADC$ incontrano la linea $AC$ rispettivamente in punti distinti $E$ e $F$ e si incontrano a punto $P$. Let $M$ essere il punto medio del segmento $AC$, e let $\omega$ essere il circoncircolo del triangolo $BPD$. La linea $BM$ incontra di nuovo $\omega$ a un punto $X \neq B$ e la linea $DM$ incontra di nuovo $\omega$ a un punto $Y \neq D$. Se le linee $XE$ e $YF$ si incontrano al punto $Q$, dimostrare che le linee $PQ$ e $AC$ sono perpendicolari.
+> Sia $ABCD$ un quadrilatero convesso con $\angle ABC = \angle ADC < 90^\circ$. Le bisettrici degli angoli di $\angle ABC$ e $\angle ADC$ intersecano la retta $AC$ nei punti distinti $E$ e $F$, rispettivamente, e si intersecano tra loro nel punto $P$. Sia $M$ il punto medio del segmento $AC$, e sia $\omega$ la circonferenza circoscritta al triangolo $BPD$. La retta $BM$ incontra nuovamente $\omega$ nel punto $X \neq B$, e la retta $DM$ incontra nuovamente $\omega$ nel punto $Y \neq D$. Se le rette $XE$ e $YF$ si intersecano nel punto $Q$, dimostrare che le rette $PQ$ e $AC$ sono perpendicolari.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2017#q12|src_selection_camp_2017__Q12]]

@@ -31,9 +31,18 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimostra una disuguaglianza telescopica per reali non negativi*
+*Prova di una disuguaglianza telescopica per numeri reali non negativi*
 
-> $a_1$, $a_2$, $\ldots$, $a_n$ siano $n$ numeri reali non negativi. Prove che $$\frac{1}{1+a_1} + \frac{a_1}{(1+a_1)(1+a_2)} + \cdots + \frac{a_1 a_2 \cdots a_{n-1}}{(1+a_1)(1+a_2)\cdots(1+a_n)} \le 1.$$ (posato da Ai Yinghua)
+> Siano $a_1$, $a_2$, $\ldots$, $a_n$ i numeri reali non negativi $n$. Dimostrare che
+> $$\frac{1}{1+a_1} + \frac{a_1}{(1+a_1)(1+a_2)} + \cdots + \frac{a_1 a_2 \cdots a_{n-1}}{(1+a_1)(1+a_2)\cdots(1+a_n)} \le 1.$$
+> (proposto da Ai Yinghua)
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cgmo_2012#q01|src_cn_cgmo_2012__Q01]]
 
 
 
@@ -61,11 +70,18 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove le equazioni di angolo e di rapporto per due cerchi tangenti esternamente*
+*Dimostra le uguaglianze tra rapporti e angoli per due cerchi tangenti esternamente*
 
-> Come mostrato nella figura, i cerchi $\Gamma_1$ e $\Gamma_2$ sono tangenti esternamente al punto $T$. I punti $A$ e $E$ sono sul cerchio $\Gamma_1$, le linee $AB$ e $DE$ sono tangenti al cerchio $\Gamma_2$ rispettivamente sui punti $B$ e $D$. Le linee $AE$ e $BD$ si incontrano al punto $P$. Provare che (1) $\dfrac{AB}{AT} = \dfrac{ED}{ET}$; (2) $\angle ATP + \angle ETP = 180^\circ$. (Posizionato da Xiong Bin)
+> Come mostrato nella figura, i cerchi $\Gamma_1$ e $\Gamma_2$ sono tangenti esternamente nel punto $T$. I punti $A$ e $E$ giacciono sul cerchio $\Gamma_1$; le rette $AB$ e $DE$ sono tangenti al cerchio $\Gamma_2$ rispettivamente nei punti $B$ e $D$. Le rette $AE$ e $BD$ si incontrano nel punto $P$. Dimostrare che (1) $\dfrac{AB}{AT} = \dfrac{ED}{ET}$; (2) $\angle ATP + \angle ETP = 180^\circ$. (proposto da Xiong Bin)
 
 ![[src_cn_cgmo_b11_w209__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cgmo_2012#q02|src_cn_cgmo_2012__Q02]]
 
 
 
@@ -88,9 +104,16 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi (a,b) con condizione di divisore comune*
+*Trovare tutte le coppie di interi (a,b) con la condizione del divisore comune*
 
-> Trova tutte le coppie di integri $(a, b)$ che soddisfano la seguente condizione: esiste un intero $d \ge 2$ tale che $a^n + b^n + 1$ sia divisibile da $d$ per qualsiasi intero positivo $n$. (Possibile da Chen Yonggao)
+> Trovare tutte le coppie di interi $(a, b)$ che soddisfano la seguente condizione: esiste un intero $d \ge 2$ tale che $a^n + b^n + 1$ è divisibile per $d$ per ogni intero positivo $n$. (proposto da Chen Yonggao)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cgmo_2012#q03|src_cn_cgmo_2012__Q03]]
 
 
 
@@ -115,11 +138,18 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo inciso tangente ai lati; prova uguaglianza angolare*
+*Cerchio inscritto tangente ai lati; dimostrare l'uguaglianza degli angoli*
 
-> Come mostrato nella figura. 5-1, il cerchio inscritto $O$ di $\triangle ABC$ è tangente ai lati $AB$ e $AC$ rispettivamente ai punti $D$ e $E$. E $O$ è il centro circundante di $\triangle BCE$. Prove che $\angle ODB = \angle OEC$. (postato da Zhu Huawei)
+> Come mostrato nella Fig. 5-1, il cerchio inscritto $O$ di $\triangle ABC$ è tangente ai lati $AB$ e $AC$ nei punti $D$ e $E$, rispettivamente. Inoltre, $O$ è il circocentro di $\triangle BCE$. Dimostrare che $\angle ODB = \angle OEC$. (proposto da Zhu Huawei)
 
 ![[src_cn_cgmo_b11_w217__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cgmo_2012#q05|src_cn_cgmo_2012__Q05]]
 
 
 
@@ -143,11 +173,16 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximi città n con due compagnie aeree che forzano l'utilizzo di entrambe*
+*Numero massimo di città n con due compagnie aeree che impongono l'uso di entrambe*
 
-> Ci sono città ($n \ge 2$) e due compagnie aeree in un paese. Tra due città, esiste esattamente un volo a due vie che li collega e che è gestito da una delle due compagnie. Una matematica femminile pianifica un percorso di viaggio, in modo che inizia e finisca nella stessa città, attraversa almeno altre due città e ogni città del percorso viene visitata una volta. Scopre che, ovunque inizi e qualunque sia la rotta che sceglie, deve prendere voli di entrambe le compagnie. Trova il valore massimo di $n$. (Posizionato da Liang Yingde)
+> In un paese ci sono $n$ città ($n \ge 2$) e due compagnie aeree. Tra due città qualsiasi c'è esattamente un volo di andata e ritorno che le collega, operato da una delle due compagnie. Una matematica progetta un itinerario di viaggio tale che inizi e termini nella stessa città, passi attraverso almeno altre due città e ciascuna città dell'itinerario venga visitata una sola volta. Scopre che, indipendentemente da dove inizi e da quale itinerario scelga, deve prendere voli di entrambe le compagnie. Determinare il valore massimo di $n$. (proposto da Liang Yingde)
 
-**Risposta:** 4
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cgmo_2012#q06|src_cn_cgmo_2012__Q06]]
 
 
 
@@ -171,8 +206,13 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta k in {0,...2012} con C(2012,k) divisibile per 2012*
+*Conteggia k in {0,...,2012} tale che C(2012,k) sia divisibile per 2012*
 
-> Trova il numero di integri $k$ nell'insieme $\{0, 1, 2, \ldots, 2012\}$ in modo tale che il numero di combinazione $\binom{2012}{k}$ sia un multiple di $2012$. (Posizionato da Wang Bin)
+> Trovare il numero di interi $k$ nell'insieme $\{0, 1, 2, \ldots, 2012\}$ tali che il numero combinatorio $\binom{2012}{k}$ sia un multiplo di $2012$. (proposto da Wang Bin)
 
-**Risposta:** 1498
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cgmo_2012#q08|src_cn_cgmo_2012__Q08]]

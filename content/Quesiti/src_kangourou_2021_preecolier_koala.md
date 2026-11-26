@@ -31,13 +31,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure made with 3 equal sticks supported*
+*Which figure did he make?*
 
 ![[src_kangourou_2021_preecolier_koala__prob1.png]]
 
-> John rested on a table three equal black sticks. Without breaking them or bending them, he made one of the figures you see. Which one? (see figure)
+> Giovanni laid 3 equal black sticks on a table. Without breaking them and without bending them, he made one of the figures you see. Which one? (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_preecolier_koala#q01|src_kangourou_2021_preecolier_koala__Q01]]
 
 
 
@@ -68,19 +72,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between the heights of two fungi*
+*What is the difference between their heights?*
 
 ![[src_kangourou_2021_preecolier_koala__prob2.png]]
 
-> The image shows two mushrooms. What's the difference between their heights?
+> The picture shows 2 mushrooms. What is the difference between their heights?
+>
+> (see the picture)
 >
 > - **(A)** 4
 > - **(B)** 5
 > - **(C)** 6
 > - **(D)** 11
-> - **(E)** 17 (see figure)
+> - **(E)** 17
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_preecolier_koala#q02|src_kangourou_2021_preecolier_koala__Q02]]
 
 
 
@@ -105,13 +115,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The longest of the five paths shown
+*Which is the longest of the paths shown?*
 
 ![[src_kangourou_2021_preecolier_koala__prob3.png]]
 
-> Which is the longest of the five routes shown in the 5 figures? (see figure)
+> Which is the longest of the paths shown in the 5 pictures? (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_preecolier_koala#q03|src_kangourou_2021_preecolier_koala__Q03]]
 
 
 
@@ -136,13 +150,17 @@ The longest of the five paths shown
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Point at which to drill four overlapping squares*
+*At which of them must Michele make the hole?*
 
 ![[src_kangourou_2021_preecolier_koala__prob4.png]]
 
-> Four squares of identical paper are positioned as shown. Michele wants to practice a hole that crosses all four squares, but he can only do so at one of the five points indicated. In which of them should Michele practice the drill? (see figure)
+> Four identical squares of paper are placed as shown. Michele wants to make a hole that goes through all four squares, but he can do it only at one of the five points marked. At which of them must Michele make the hole? (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_preecolier_koala#q04|src_kangourou_2021_preecolier_koala__Q04]]
 
 
 
@@ -167,13 +185,17 @@ The longest of the five paths shown
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Image of the shirt as seen in the mirror*
+*Which of these pictures does she see in the mirror?*
 
 ![[src_kangourou_2021_preecolier_koala__prob5.png]]
 
-> Isabella wears this shirt and stands in front of a mirror. Which of these images does she see in the mirror? (see figure)
+> Isabella is wearing this T-shirt and stands in front of a mirror. Which of these pictures does she see in the mirror? (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_preecolier_koala#q05|src_kangourou_2021_preecolier_koala__Q05]]
 
 
 
@@ -204,19 +226,23 @@ The longest of the five paths shown
 <div class="qlang-split" data-lang="en"></div>
 
 
-The tallest of the five colorful towers.
+*Which tower is the tallest?*
 
 ![[src_kangourou_2021_preecolier_koala__prob6.png]]
 
-> The pink tower is taller than the blue tower but lower than the green tower. The silver tower is taller than the green tower. What's the tallest tower?
+> The pink tower is taller than the blue tower but shorter than the green tower. The silver tower is taller than the green tower. Which tower is the tallest?
 >
 > - **(A)** The pink tower.
 > - **(B)** The green tower.
 > - **(C)** The blue tower.
 > - **(D)** The silver tower.
-> - **(E)** It's impossible to decide.
+> - **(E)** It is impossible to decide.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_preecolier_koala#q06|src_kangourou_2021_preecolier_koala__Q06]]
 
 
 
@@ -247,19 +273,25 @@ The tallest of the five colorful towers.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many hold hands with their right hand*
+*How many of them are holding another child's hand with the right hand?*
 
 ![[src_kangourou_2021_preecolier_koala__prob7.png]]
 
-> These kids are in line. Some are turning to you and others are turning their backs on you. How many boys and girls hold another boy's hand with their right hand?
+> These children are in a line. Some are facing you and others have their backs to you. How many of the boys and girls are holding another child's hand with the right hand?
+>
+> (see the picture)
 >
 > - **(A)** 2
 > - **(B)** 3
 > - **(C)** 4
 > - **(D)** 5
-> - **(E)** 6 (see figure)
+> - **(E)** 6
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_preecolier_koala#q07|src_kangourou_2021_preecolier_koala__Q07]]
 
 
 
@@ -284,13 +316,17 @@ The tallest of the five colorful towers.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Kangourou constellation with stars summing to 20
+*Which constellation is Kangourou?*
 
 ![[src_kangourou_2021_preecolier_koala__prob8.png]]
 
-> In these constellations each star is denoted by a number instead of a name. The numbers that denote the stars in the constellation Kangourou are all greater than 3 and their sum is 20. What is the constellation Kangourou? (see figure)
+> In these constellations each star is marked with a number instead of a name. The numbers marking the stars in the Kangourou constellation are all greater than 3, and their sum is 20. Which constellation is Kangourou? (see the picture)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_preecolier_koala#q08|src_kangourou_2021_preecolier_koala__Q08]]
 
 
 
@@ -321,19 +357,25 @@ Kangourou constellation with stars summing to 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pieces of tape after cutting*
+*How many pieces of ribbon did he obtain in the end?*
 
 ![[src_kangourou_2021_preecolier_koala__prob9.png]]
 
-> Edward cut a tape as shown in the figure. How many pieces of tape did he get?
+> Edoardo cut a ribbon as shown in the picture. In the end, how many pieces of ribbon did he obtain?
+>
+> (see the picture)
 >
 > - **(A)** 9
 > - **(B)** 10
 > - **(C)** 11
 > - **(D)** 12
-> - **(E)** 13 (see figure)
+> - **(E)** 13
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_preecolier_koala#q09|src_kangourou_2021_preecolier_koala__Q09]]
 
 
 
@@ -364,19 +406,25 @@ Kangourou constellation with stars summing to 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cat's arrival point after 20 metres on the wall*
+*At which point does he arrive?*
 
 ![[src_kangourou_2021_preecolier_koala__prob10.png]]
 
-> Ronron's cat is walking on a wall. He starts from point B and follows the direction of the arrows shown in the image. At what point does he arrive after walking exactly 20 meters?
+> The cat Ronron walks along a wall. He starts at point B and follows the direction of the arrows shown in the picture. At which point does he arrive after walking exactly 20 metres?
 >
-> - **(A)** In A
-> - **(B)** In B
-> - **(C)** In C
-> - **(D)** In D
-> - **(E)** In E (see figure)
+> (see the picture)
+>
+> - **(A)** At A
+> - **(B)** At B
+> - **(C)** At C
+> - **(D)** At D
+> - **(E)** At E
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_preecolier_koala#q10|src_kangourou_2021_preecolier_koala__Q10]]
 
 
 
@@ -407,19 +455,25 @@ Kangourou constellation with stars summing to 20
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum number of flowers purchased to match the vessels
+*What is the least number of flowers Giulia can have bought?*
 
 ![[src_kangourou_2021_preecolier_koala__prob11.png]]
 
-> In the picture, you can see the two flower pots that Julia had on the balcony. Today Julia bought other flowers and added them to the two pots, without taking away the flowers that were already there: now in each of the two pots, for each type of flower, there is the same number of flowers. What is the minimum number of flowers that Julia could have bought?
+> The picture shows the two vases of flowers that Giulia had on the balcony. Today Giulia bought more flowers and added them to the two vases, without removing the flowers that were already there: now, in each of the two vases, there is the same number of flowers of each kind. What is the least number of flowers Giulia can have bought?
+>
+> (see the picture)
 >
 > - **(A)** 2
 > - **(B)** 4
 > - **(C)** 6
 > - **(D)** 8
-> - **(E)** 10 (see figure)
+> - **(E)** 10
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_preecolier_koala#q11|src_kangourou_2021_preecolier_koala__Q11]]
 
 
 
@@ -450,19 +504,25 @@ Minimum number of flowers purchased to match the vessels
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Word hidden by the code 3B 1D 4D 2B*
+*Which word does the code hide?*
 
 ![[src_kangourou_2021_preecolier_koala__prob12.png]]
 
-> Using the table in the figure, Tom can encode some words. For example, the word PIZZA has the code «2A 4A 1C 1C 2B». Which word does the code «3B 1D 4D 2B» hide?
+> Using the table in the picture, Tom can encode some words. For example, the word PIZZA has the code "2A 4A 1C 1C 2B". Which word does the code "3B 1D 4D 2B" hide?
+>
+> (see the picture)
 >
 > - **(A)** MARE
 > - **(B)** MESI
 > - **(C)** MALE
 > - **(D)** MIRA
-> - **(E)** MELA (see figure)
+> - **(E)** MELA
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_preecolier_koala#q12|src_kangourou_2021_preecolier_koala__Q12]]
 
 
 
@@ -487,13 +547,17 @@ Minimum number of flowers purchased to match the vessels
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure obtained by joining two shapes*
+*Which of the five figures can you obtain?*
 
 ![[src_kangourou_2021_preecolier_koala__prob13.png]]
 
-> Which of the five figures can you get by joining these two shapes? (see figure)
+> Which of the five figures can you obtain by placing these two shapes together? (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_preecolier_koala#q13|src_kangourou_2021_preecolier_koala__Q13]]
 
 
 
@@ -522,9 +586,9 @@ Minimum number of flowers purchased to match the vessels
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many points less than Angela has Chiara totalled
+*How many points fewer than Angela did Chiara score?*
 
-> Kangball is played like football, but each goal is worth 2 points. In one game, Chiara scored 5 goals and Angela nine. How many points less than Angela has Chiara totalled?
+> Kangball is played like football, but each goal is worth 2 points. In a match Chiara scored 5 goals and Angela 9. How many points fewer than Angela did Chiara score?
 >
 > - **(A)** 4
 > - **(B)** 6
@@ -532,7 +596,11 @@ How many points less than Angela has Chiara totalled
 > - **(D)** 10
 > - **(E)** 12
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_preecolier_koala#q14|src_kangourou_2021_preecolier_koala__Q14]]
 
 
 
@@ -557,13 +625,17 @@ How many points less than Angela has Chiara totalled
 <div class="qlang-split" data-lang="en"></div>
 
 
-Which is Eva's house on the map
+*Which house is Eva's?*
 
 ![[src_kangourou_2021_preecolier_koala__prob15.png]]
 
-> The picture shows the five homes of five friends and their school. The school is the biggest building in the photo. To go to school, Doris and Ali pass by Leo's house. Eva passes in front of Chloe's house. What's Eva's house? (see figure)
+> The picture shows the five houses of five friends and their school. The school is the largest building in the photo. To go to school, Doris and Ali pass Leo's house. Eva passes Cloe's house. Which house is Eva's? (see the picture)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_preecolier_koala#q15|src_kangourou_2021_preecolier_koala__Q15]]
 
 
 
@@ -592,9 +664,9 @@ Which is Eva's house on the map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total leaves remaining on the two branches*
+*How many leaves were left in all on the two twigs?*
 
-> A kangaroo had cut off two branches for breakfast. There were 10 leaves on each branch. The kangaroo ate only a few leaves from the first branch; from the second branch he ate as many leaves as were left on the first. How many leaves, in total, did the two twigs have?
+> A kangaroo had broken off two twigs for breakfast. On each twig there were 10 leaves. The kangaroo ate only some of the leaves on the first twig; from the second twig it ate as many leaves as were left on the first. How many leaves were left in all on the two twigs?
 >
 > - **(A)** 15
 > - **(B)** 5
@@ -602,7 +674,11 @@ Which is Eva's house on the map
 > - **(D)** 8
 > - **(E)** 10
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_preecolier_koala#q16|src_kangourou_2021_preecolier_koala__Q16]]
 
 
 
@@ -627,13 +703,17 @@ Which is Eva's house on the map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Form not used by Mara in construction*
+*Which shape did Mara not use?*
 
 ![[src_kangourou_2021_preecolier_koala__prob17.png]]
 
-> Mara built the figure shown alongside using four of the following five shapes. Which shape did Mara not use? (see figure)
+> Mara built the figure beside using four of the five shapes that follow. Which shape did Mara not use? (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_preecolier_koala#q17|src_kangourou_2021_preecolier_koala__Q17]]
 
 
 
@@ -658,13 +738,17 @@ Which is Eva's house on the map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fruits left after the little witch's transformations*
+*What will she have left?*
 
 ![[src_kangourou_2021_preecolier_koala__prob18.png]]
 
-> A little witch has fun transforming fruits. Every time she has 3 apples she transforms them into 1 banana. Every time she has 3 bananas she transforms them into 1 apple. If she starts with 4 apples and 5 bananas, what will she have left when she reaches the point where she can no longer make transformations? (see figure)
+> A little witch enjoys transforming fruit. Whenever she has 3 apples she turns them into 1 banana. Whenever she has 3 bananas she turns them into 1 apple. If she starts with 4 apples and 5 bananas, what will she have left when she reaches the point of being unable to transform any more? (see the picture)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_preecolier_koala#q18|src_kangourou_2021_preecolier_koala__Q18]]
 
 
 
@@ -695,19 +779,25 @@ Which is Eva's house on the map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the same box as paper 4*
+*Which number can be on a card in the same box as the card 4?*
 
 ![[src_kangourou_2021_preecolier_koala__prob19.png]]
 
-> We put the five numbered cards you see below in the two boxes. The sum of the card numbers in the first box is equal to the sum of the card numbers in the second. What's the number of a card that's in the same box as the card 4?
+> We have put into the two boxes the five numbered cards you see below. The sum of the numbers on the cards in the first box equals the sum of the numbers on the cards in the second. Which number can be on a card that is in the same box as the card 4?
 >
-> - **(A)** Just the 3.
-> - **(B)** Just the 5.
-> - **(C)** Just the 6.
-> - **(D)** Just the 5 or the 6.
-> - **(E)** It is impossible to determine (see figure)
+> (see the picture)
+>
+> - **(A)** Only 3
+> - **(B)** Only 5
+> - **(C)** Only 6
+> - **(D)** Only 5 or 6
+> - **(E)** It is impossible to determine.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_preecolier_koala#q19|src_kangourou_2021_preecolier_koala__Q19]]
 
 
 
@@ -732,13 +822,17 @@ Which is Eva's house on the map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Positions of black teeth after a small wheel turn*
+*In which positions will the two black teeth be?*
 
 ![[src_kangourou_2021_preecolier_koala__prob20.png]]
 
-> The image shows a gear consisting of two toothed wheels, each with one and only one black tooth. In what positions will the two black teeth be found after the small toothed wheel has completed a complete turn? (see figure)
+> The picture shows a gear made of two toothed wheels, each with one and only one black tooth. In which positions will the two black teeth be after the small toothed wheel has made one full turn? (see the picture)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_preecolier_koala#q20|src_kangourou_2021_preecolier_koala__Q20]]
 
 
 
@@ -767,9 +861,9 @@ Which is Eva's house on the map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Duration of the performance of the dance in pairs*
+*How many minutes does their performance last?*
 
-> Three girls and two boys participate in a dance performance. Every girl dances with every guy for exactly a minute and a half and every moment on the dance floor there's a couple and only one. How long does their performance last?
+> Three girls and two boys take part in a dance performance. Each girl dances with each boy for exactly a minute and a half, and at every moment there is one and only one couple on the dance floor. How many minutes does their performance last?
 >
 > - **(A)** 6
 > - **(B)** 8
@@ -777,7 +871,11 @@ Which is Eva's house on the map
 > - **(D)** 9
 > - **(E)** 10
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_preecolier_koala#q21|src_kangourou_2021_preecolier_koala__Q21]]
 
 
 
@@ -808,19 +906,25 @@ Which is Eva's house on the map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of cookie trays for the dish*
+*What is the least number of trays?*
 
 ![[src_kangourou_2021_preecolier_koala__prob22.png]]
 
-> Each participant in a cooking contest prepared a cookie tray like the one shown. What's the minimum number of cookie trays to make the dish below?
+> Each contestant in a cooking competition prepared a tray of biscuits like the one shown. What is the least number of trays of biscuits that lets one make the plate below?
+>
+> (see the picture)
 >
 > - **(A)** 5
 > - **(B)** 1
 > - **(C)** 3
 > - **(D)** 2
-> - **(E)** 4 (see figure)
+> - **(E)** 4
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_preecolier_koala#q22|src_kangourou_2021_preecolier_koala__Q22]]
 
 
 
@@ -849,9 +953,9 @@ Which is Eva's house on the map
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pieces of fruit eaten by Kangie in two weeks*
+*How many pieces of fruit does Kangie eat in two weeks?*
 
-> On Mondays, Wednesdays and Fridays, Kangaroo Kangie eats only apples. On Tuesdays and Thursdays, he only eats mangoes. He eats either 2 apples or 3 mangoes a day. He doesn't eat fruit on Saturday and Sunday. How many pieces of fruit does Kangie eat in two weeks?
+> On Monday, Wednesday and Friday the kangaroo Kangie eats only apples. On Tuesday and Thursday he eats only mangoes. He eats either 2 apples or 3 mangoes a day. On Saturday and Sunday he eats no fruit. How many pieces of fruit does Kangie eat in two weeks?
 >
 > - **(A)** 16
 > - **(B)** 18
@@ -859,7 +963,11 @@ Which is Eva's house on the map
 > - **(D)** 12
 > - **(E)** 24
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_preecolier_koala#q23|src_kangourou_2021_preecolier_koala__Q23]]
 
 
 
@@ -890,11 +998,11 @@ Which is Eva's house on the map
 <div class="qlang-split" data-lang="en"></div>
 
 
-It's a shelf that the puzzle can't fit on.
+*On which shelf did he certainly not put the puzzle?*
 
 ![[src_kangourou_2021_preecolier_koala__prob24.png]]
 
-> Saverio has five toys: a ball, a teddy bear, a train, a puzzle, and a car. He put them, one for each shelf, in a shelf with five shelves. The ball is higher than the teddy bear and lower than the car. The train is on the shelf just above the ball. On which shelf did he definitely not place the puzzle?
+> Saverio has five toys: a ball, a teddy bear, a train, a puzzle and a toy car. He put them, one on each shelf, on a set of shelves with five shelves. The ball is higher than the teddy bear and lower than the toy car. The train is on the shelf immediately above the ball. On which shelf did he certainly not put the puzzle?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -902,4 +1010,8 @@ It's a shelf that the puzzle can't fit on.
 > - **(D)** 4
 > - **(E)** 5
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_preecolier_koala#q24|src_kangourou_2021_preecolier_koala__Q24]]

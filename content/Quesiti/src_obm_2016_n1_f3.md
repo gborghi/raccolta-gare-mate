@@ -29,9 +29,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bissettori d'angolo, condizioni parallele; dimostrare AB=AC dalla collinearità*
+*Bisettrici degli angoli, condizioni di parallelismo; dimostrare che AB=AC a partire dalla collinearità*
 
-> Lasciate che $ABC$ sia un triangolo. Le linee $r$ e $s$ sono rispettivamente i bisettori interni di $\angle ABC$ e $\angle BCA$. I punti $E$ su $r$ e $D$ su $s$ sono tali da $AD \parallel BE$ e $AE \parallel CD$. Le linee $BD$ e $CE$ si incontrano a $F$. Indicare che se i punti $A$, $F$, $E$ sono collineari, allora $AB = AC$.
+> Sia $ABC$ un triangolo. Le rette $r$ e $s$ sono le bisettrici interne di $\angle ABC$ e $\angle BCA$, rispettivamente. I punti $E$ su $r$ e $D$ su $s$ sono tali che $AD \parallel BE$ e $AE \parallel CD$. Le rette $BD$ e $CE$ si incontrano in $F$. Dimostrare che, se i punti $A$, $F$, $E$ sono allineati, allora $AB = AC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2016_n1_f3#q01|src_obm_2016_n1_f3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nello più piccolo: ogni n punto di coordinate interi ha due con distanza quadrata divisibile entro il 2016*
+*Minimo n: per qualsiasi insieme di n punti a coordinate intere, due di essi hanno distanza al quadrato divisibile per 2016*
 
-> Trova il più piccolo $n$ in modo che qualsiasi insieme di punti $n$ nel piano cartesiano, tutti con coordinate interi, contenga due punti la cui distanza quadrata è un multiple di $2016$.
+> Trovare il più piccolo $n$ tale che ogni insieme di $n$ punti nel piano cartesiano, tutti a coordinate intere, contenga due punti la cui distanza al quadrato sia un multiplo di $2016$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n1_f3#q02|src_obm_2016_n1_f3__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco a due giocatori che sostituiscono i numeri con k di cifre binarie; contare le posizioni perdenti*
+*Gioco a due giocatori in cui si sostituiscono i numeri con numeri che differiscono per k cifre binarie; conta le posizioni perdenti*
 
-> $N_0$ sia un intero positivo fisso. Alberto e Beraldo giocano il seguente gioco a partire da $N_0$: eseguono alternativamente la seguente operazione  data un numero $n$, sostituendolo con un numero $m$ in modo tale che $m < n$ e, nelle loro rappresentazioni di base-$2$, $m$ e $n$ differiscono esattamente in $\ell$ cifre per alcuni $\ell$ con $1 \le \ell \le k$. Il giocatore che non può muoversi perde. Diciamo che un giocatore che riceve $n$ ha una strategia vincente se può sempre scegliere una mossa che porta alla vittoria indipendentemente dal gioco dell'avversario; altrimenti diciamo che perde. Prove che per ogni intero positivo $N$, il numero di interi non negativi perdenti inferiori a $2^N$ è massimo $2^N - \lfloor \log_2(\lfloor N/1 \rfloor) \rfloor$. (Osservazione: $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$. Ad esempio, $\lfloor 3.14 \rfloor = 3$, $\lfloor 2 \rfloor = 2$, $\lfloor -4.6 \rfloor = -5$.)
+> Sia $N_0$ un intero positivo fisso. Alberto e Beraldo giocano il seguente gioco partendo da $N_0$: eseguono a turno l'operazione seguente — dato un numero $n$, lo si sostituisce con un numero $m$ tale che $m < n$ e, nelle loro rappresentazioni in base $2$, $m$ e $n$ differiscono in esattamente $\ell$ cifre per un certo $\ell$ con $1 \le \ell \le k$. Perde il giocatore che non può muoversi. Diciamo che un giocatore che riceve $n$ ha una strategia vincente se può sempre scegliere una mossa che porti alla vittoria indipendentemente dalle mosse dell'avversario; altrimenti diciamo che perde. Dimostrare che, per ogni intero positivo $N$, il numero di interi non negativi perdenti minori di $2^N$ è al più $2^N - \lfloor \log_2(\lfloor N/1 \rfloor) \rfloor$. (Osservazione: $\lfloor x \rfloor$ denota il più grande intero minore o uguale a $x$. Ad esempio, $\lfloor 3.14 \rfloor = 3$, $\lfloor 2 \rfloor = 2$, $\lfloor -4.6 \rfloor = -5$.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n1_f3#q03|src_obm_2016_n1_f3__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottoinsieme massimo di {1,...2016} senza due elementi diversi di 1, 2 o 6*
+*Sottoinsieme massimale di {1,...,2016} in cui nessun due elementi differiscono di 1, 2 o 6*
 
-> Qual è il maggior numero di interi positivi inferiori o uguali a $2016$ che possiamo scegliere in modo che nessuno dei due numeri scelti differisca da $1$, $2$ o $6$?
+> Qual è il numero massimo di interi positivi minori o uguali a $2016$ che possiamo scegliere in modo che nessuna coppia dei numeri scelti abbia una differenza pari a $1$, $2$ o $6$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n1_f3#q04|src_obm_2016_n1_f3__Q04]]
 
 
 
@@ -133,13 +161,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza polinomica da ricorrenza; dimostrare valore negativo per tutte le n, quindi contare tali interi*
+*Successione polinomiale ricavata da una relazione di ricorrenza; dimostrare che il valore è negativo per ogni n, poi contare tali interi*
 
-> Considera il polinomio $P_1(x) = 4x^2 + 12x - 3015$ di grado-$2$. Definire la sequenza dei polinomi per $P_{n+1}(x) = \frac{P_n(x)^2}{2016}$ per ogni intero $n \ge 1$.
-> 
-> a) Prove che esiste un numero reale $r$ tale da $P_n(r) < 0$ per ogni intero positivo $n$.
-> 
-> b) Determinare il numero di integri $m$ tale che $P_n(m) < 0$ per infiniti integri positivi $n$.
+> Si consideri il polinomio di grado $2$ $P_1(x) = 4x^2 + 12x - 3015$. Si definisca la successione di polinomi mediante $P_{n+1}(x) = \frac{P_n(x)^2}{2016}$ per ogni intero $n \ge 1$.
+>
+> (a) Dimostrare che esiste un numero reale $r$ tale che $P_n(r) < 0$ per ogni numero intero positivo $n$.
+>
+> (b) Determina il numero degli interi $m$ tali che $P_n(m) < 0$ per infiniti interi positivi $n$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2016_n1_f3#q05|src_obm_2016_n1_f3__Q05]]
 
 
 
@@ -162,6 +197,13 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterali convexi non ciclici; i circoncenti dei quadrilaterali bisettori e il punto dell'asse radicale sono collineari*
+*Quadrilatero convesso non ciclico; i centri della circonferenza circoscritta dei quadrilateri delle bisettrici e il punto dell'asse radicale sono allineati*
 
-> Il $ABCD$ deve essere un quadrilaterale convex, non ciclico, senza lati paralleli. Le linee $AB$ e $CD$ si incontrano a $L$. $M \ne L$ sia il secondo punto di intersezione dei circoncircoli dei triangoli $ADL$ e $BCL$. I bisettori interni di $ABCD$ determinano un quadrilatero ciclico convex con circumcenter $I$, e i bisettori esterni di $ABCD$ determinano un quadrilatero ciclico con convex con circumcenter $J$. Provare che $I$, $J$ e $M$ sono collineari.
+> Sia $ABCD$ un quadrilatero convesso, non ciclico, privo di lati paralleli. Le rette $AB$ e $CD$ si incontrano in $L$. Sia $M \ne L$ il secondo punto d'intersezione delle circonferenze circoscritte ai triangoli $ADL$ e $BCL$. Le bisettrici interne di $ABCD$ determinano un quadrilatero convesso ciclico avente centro della circonferenza circoscritta $I$, e le bisettrici esterne di $ABCD$ determinano un quadrilatero convesso ciclico avente centro della circonferenza circoscritta $J$. Dimostrare che $I$, $J$ e $M$ sono allineati.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2016_n1_f3#q06|src_obm_2016_n1_f3__Q06]]

@@ -30,11 +30,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimuovere 10 cifre da un numero lungo per massimizzare il valore rimanente*
+*Rimuovi 10 cifre da un numero lungo per massimizzare il valore residuo*
 
-> Rimuovere 10 cifre dal numero $12345123451234512345$ in modo che il numero rimanente sia il più grande possibile.
+> Rimuovi 10 cifre dal numero $12345123451234512345$ in modo che il numero rimanente sia il più grande possibile.
 
-**Risposta:** 5512345512345
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n1_f2#q01|src_obm_1999_n1_f2__Q01]]
 
 
 
@@ -61,13 +66,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Domenica consecutiva in quattro mesi di un anno non bisestivo*
+*Domeniche consecutive in quattro mesi di un anno non bisestile*
 
-> Si sa che tre mesi consecutivi di un determinato anno non bisestile hanno esattamente quattro domeniche.
-> 
+> È noto che, in un determinato anno non bisestile, ciascuno dei tre mesi consecutivi ha esattamente quattro domeniche.
+>
 > a) Questi mesi possono essere gennaio, febbraio e marzo?
-> 
-> b) Può essere agosto, settembre e ottobre?
+>
+> b) Possono essere agosto, settembre e ottobre?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n1_f2#q02|src_obm_1999_n1_f2__Q02]]
 
 
 
@@ -97,15 +109,23 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli equalaterali che condividono le vertici ABC ed EFG; trovare il perimetro e la frazione dell'area ombreggiata*
+*I triangoli equilateri ABC ed EFG condividono i vertici; trovare il perimetro dell'area ombreggiata e la frazione*
 
-> Nella figura, i triangoli $ABC$ e $EFG$ sono equilaterali. Il perimetro del triangolo $ABC$ è $132\,\text{cm}$ e, inoltre, $$AE = EC,\quad BD = DC,\quad EF = FC,\quad DG = GE.$$
-> 
-> a) Qual è il perimetro della regione ombrosa?
-> 
-> b) Quale frazione dell'area del triangolo $ABC$ rappresenta l'area oscurata?
+> Nella figura, i triangoli $ABC$ e $EFG$ sono equilateri. Il perimetro del triangolo $ABC$ è $132\,\text{cm}$ e, inoltre,
+> $$AE = EC,\quad BD = DC,\quad EF = FC,\quad DG = GE.$$
+>
+> a) Qual è il perimetro della regione ombreggiata?
+>
+> b) Quale frazione dell'area del triangolo $ABC$ rappresenta l'area ombreggiata?
 
 ![[src_obm_1999_n1_f2__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_1999_n1_f2#q03|src_obm_1999_n1_f2__Q03]]
 
 
 
@@ -129,11 +149,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Distribuire le monete in scatole in modo che qualsiasi importo di 1127 reais possa essere pagato con scatole esatte
+*Distribuisci le monete nelle casse in modo che qualsiasi importo da 1 a 127 reais possa essere pagato utilizzando esattamente le casse necessarie*
 
-> Pedro distribuì 127 monete di 1 rea in sette scatole e mise una etichetta su ciascuna di esse indicando il numero di monete in quella scatola. Questa distribuzione è stata effettuata in modo tale che qualsiasi importo da $\$1.00$ to $\$127.00$ possa essere versato tramite la consegna di alcune scatole (senza modifica). Come ha fatto Pedro?
+> Pedro distribuì 127 monete da 1 real in sette scatole e mise un'etichetta su ciascuna, indicante il numero di monete contenute in quella scatola. La distribuzione fu effettuata in modo tale che qualsiasi importo compreso tra $\$1.00$ to $\$127.00$ potesse essere pagato consegnando solo alcune scatole (senza dare il resto). Come fece Pedro?
 
-**Risposta:** 1, 2, 4, 8, 16, 32, 64
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n1_f2#q04|src_obm_1999_n1_f2__Q04]]
 
 
 
@@ -166,15 +191,26 @@ Distribuire le monete in scatole in modo che qualsiasi importo di 1127 reais pos
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Costruzione con 1000 piani: trovare i piani serviti da tutti e quattro gli ascensori, e esattamente da quattro*
+*Edificio di 1000 piani: trova i piani serviti da tutti e quattro gli ascensori e da esattamente quattro ascensori*
 
-> Un edificio molto alto ha $1000$ piani, senza contare il piano terra. Dal piano terra partono cinque ascensori:
-> 
-> - L'ascensore si ferma ad ogni piano. - Sosta di ascensore $B$ a piani multipli di $5$: $0, 5, 10, 15, \ldots$ - Sosta di ascensore $C$ a piani multipli di $7$: $0, 7, 14, 21, \ldots$ - Sosta di ascensore $D$ a piani multipli di $17$: $0, 17, 34, 51, \ldots$ - Sosta di ascensore $E$ a piani multipli di $23$: $0, 23, 46, 69, \ldots$
-> 
-> a) dimostrare che, escludendo il piano terra, non vi è piano in cui si fermano tutti e cinque gli ascensori.
-> 
-> b) Determinare il numero di piani in cui si fermano esattamente quattro ascensori.
+> Un edificio molto alto ha $1000$ piani, escludendo il piano terra. Dal piano terra partono cinque ascensori:
+>
+> - L'ascensore $A$ si ferma a ogni piano.
+> - L'ascensore $B$ si ferma ai piani che sono multipli di $5$: $0, 5, 10, 15, \ldots$
+> - L'ascensore $C$ si ferma ai piani che sono multipli di $7$: $0, 7, 14, 21, \ldots$
+> - L'ascensore $D$ si ferma ai piani che sono multipli di $17$: $0, 17, 34, 51, \ldots$
+> - L'ascensore $E$ si ferma ai piani che sono multipli di $23$: $0, 23, 46, 69, \ldots$
+>
+> a) Dimostrare che, escludendo il piano terra, non esiste alcun piano in cui si fermino tutti e cinque gli ascensori.
+>
+> b) Determina il numero di piani in cui si fermano esattamente quattro ascensori.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_1999_n1_f2#q05|src_obm_1999_n1_f2__Q05]]
 
 
 
@@ -206,16 +242,21 @@ Distribuire le monete in scatole in modo che qualsiasi importo di 1127 reais pos
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il tavolo quadrato più piccolo a piastrelle da un pezzo simile a L-tromino*
+*Trovare il più piccolo quadrato che possa essere piastrellato con un pezzo simile a un tromino a L*
 
-> Trova la tabella quadrata più piccola che possa essere piastrellata utilizzando pezzi della seguente forma:
-> 
+> Trovare il tavolo quadrato più piccolo che si possa rivestire con tasselli della forma seguente:
+>
 > $$\begin{array}{|c|c|}\hline\phantom{X} & \phantom{X} \\ \hline \phantom{X} & \\\cline{1-1}\end{array}$$
-> 
-> (Un tromino a forma di L di 3 unità quadrate disposte in una L.)
-> 
-> \textit{Note:} Tiling significa coprire completamente, senza pezzi sovrapposti, in modo che nessun pezzo si estenda al di fuori del tavolo.
+>
+> (Un tromino a forma di L composto da 3 quadrati unitari disposti a L.)
+>
+> \textit{Nota:} Il piastrellamento significa ricoprire completamente, senza sovrapporre i pezzi, in modo che nessun pezzo sporgano all'esterno del tavolo.
 
 ![[src_obm_1999_n1_f2__q06.png]]
 
-**Risposta:** 10 \times 10
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_1999_n1_f2#q06|src_obm_1999_n1_f2__Q06]]

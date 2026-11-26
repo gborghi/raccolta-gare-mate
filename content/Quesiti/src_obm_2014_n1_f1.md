@@ -35,13 +35,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Orologio analogo: contare quante volte le due mani puntano in una determinata configurazione in un intervallo*
+*Orologio analogico: conta quante volte le due lancette assumono una data configurazione nell'arco di un determinato periodo*
 
-> Ogni orologio analogo ha almeno due mani: una per mostrare l'ora e l'altra per mostrare il minuto. Joaozinho osserva che queste mani sono talvolta molto distanti e talvolta molto vicine, come nella figura. Quante volte, tra le ore $5$ e $7$ minuti di una mattina e $7$ ore della mattina del giorno successivo, si verifica la configurazione?
-> 
+> Ogni orologio analogico ha almeno due lancette: una per indicare le ore e l'altra per indicare i minuti. Joaozinho nota che queste lancette a volte sono molto distanti tra loro e a volte molto vicine, come nella figura. Quante volte, tra le $5$ ore e le $7$ minuti di una mattina e le $7$ ore della mattina del giorno successivo, si verifica tale configurazione?
+>
 > (A) $40$ \quad (B) $44$ \quad (C) $45$ \quad (D) $46$ \quad (E) $47$
 
 ![[src_obm_2014_n1_f1__q01.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n1_f1#q01|src_obm_2014_n1_f1__Q01]]
 
 
 
@@ -69,13 +78,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato tagliato a metà e a metà unito in un rettangolo; rapporto di perimetri*
+*Quadrato tagliato a metà e le due metà unite a formare un rettangolo; rapporto dei perimetri*
 
-> Janaina tagliò in due una foglia quadrata di carta e le unì, facendoli coincidere lungo i loro lati più lunghi, ottenendo un rettangolo. Qual è il rapporto tra il perimetro del quadrato e quello del rettangolo?
-> 
+> Janaina ha tagliato a metà un foglio di carta quadrato e ha unito le due metà, facendole coincidere lungo i lati più lunghi, ottenendo così un rettangolo. Qual è il rapporto tra il perimetro del quadrato e il perimetro del rettangolo?
+>
 > (A) $1{:}1$ \quad (B) $4{:}5$ \quad (C) $2{:}3$ \quad (D) $3{:}4$ \quad (E) $1{:}2$
 
 ![[src_obm_2014_n1_f1__q02.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n1_f1#q02|src_obm_2014_n1_f1__Q02]]
 
 
 
@@ -102,11 +119,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La minore differenza positiva tra un numero a cinque cifre e un numero a quattro cifre con tutte e nove cifre distinte*
+*La più piccola differenza positiva tra un numero di cinque cifre e un numero di quattro cifre, con tutte e nove le cifre distinte*
 
-> Qual è la più piccola differenza positiva tra un intero positivo con cinque cifre e un intero positivo con quattro cifre, con tutte le nove cifre distinte?
-> 
+> Qual è la più piccola differenza positiva tra un numero intero positivo di cinque cifre e un numero intero positivo di quattro cifre, in cui le nove cifre sono tutte distinte?
+>
 > (A) $13$ \quad (B) $19$ \quad (C) $29$ \quad (D) $29$ \quad (E) $36$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n1_f1#q03|src_obm_2014_n1_f1__Q03]]
 
 
 
@@ -133,11 +159,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Problema di composizione di classe / rapporto con rapporti di scelta multipla*
+*Problema di composizione/rapporto delle classi con rapporti a scelta multipla*
 
-> In una classe di sesto anno ci sono ragazzi e ragazze; il numero di ragazzi supera il numero di ragazze di una determinata quantità. Qual è il rapporto tra il numero di ragazze e il numero di ragazzi in questa classe?
-> 
+> In una classe del sesto anno ci sono ragazzi e ragazze; il numero dei ragazzi supera quello delle ragazze di una certa quantità. Qual è il rapporto tra il numero delle ragazze e il numero dei ragazzi in questa classe?
+>
 > (A) $23$ \quad (B) $13{:}34$ \quad (C) $3{:}5$ \quad (D) $3{:}8$ \quad (E) $1{:}2$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2014_n1_f1#q04|src_obm_2014_n1_f1__Q04]]
 
 
 
@@ -166,13 +201,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro quadrati uguali a 20 cm impilati da angolo a centro; superficie della figura risultante*
+*Quattro quadrati uguali di 20 cm, impilati con gli angoli rivolti verso il centro; area della figura risultante*
 
-> Esmeralda ha quattro fogli quadrati uguali di carta, ciascuno con lato $20$ cm. Si incolla un foglio su un altro in modo che l'uno copra la metà dell'altro, come nelle figure $1$ e $2$. Continua a incollare in questo modo, unendo i quattro fogli, come nelle figure $3$ e $4$. Qual è la superficie della figura $4$?
-> 
+> Esmeralda ha quattro fogli di carta quadrati uguali, ciascuno con lato di $20$ cm. Incolla un foglio sopra l'altro in modo che uno copra metà dell'altro, come nelle figure $1$ e $2$. Continua a incollare in questo modo, unendo i quattro fogli, come nelle figure $3$ e $4$. Qual è l'area della figura $4$?
+>
 > (A) $1200\text{ cm}^2$ \quad (B) $1300\text{ cm}^2$ \quad (C) $1400\text{ cm}^2$ \quad (D) $1500\text{ cm}^2$ \quad (E) $1600\text{ cm}^2$
 
 ![[src_obm_2014_n1_f1__q05.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n1_f1#q05|src_obm_2014_n1_f1__Q05]]
 
 
 
@@ -205,15 +249,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Carte da 1 a 2014 di colore giallo/verde/nero ciclicamente; quali dichiarazioni sono vere*
+*Le carte da 1 a 2014 sono colorate ciclicamente di giallo/verde/nero; quali affermazioni sono vere?*
 
-> Ana allinea le carte $2014$ e le numerizza da $1$ a $2014$. Poi, a partire dal primo, le colora con i colori giallo, verde e nero, uno per uno, sempre in questo ordine. Considerate le seguenti affermazioni:
-> 
-> I) Il numero delle carte è lo stesso per i tre colori. II) [nota II] III) [nota III]
-> 
+> Ana allinea $2014$ carte e le numera da $1$ a $2014$. Poi, partendo dalla prima, le colora con i colori giallo, verde e nero, uno per volta, sempre in questo ordine. Si considerino le seguenti affermazioni:
+>
+> I) Il numero di carte è lo stesso per i tre colori. II) [dichiarazione II] III) [dichiarazione III]
+>
 > Quali affermazioni sono vere?
-> 
+>
 > (A) Solo I \quad (B) Solo II \quad (C) Solo III \quad (D) Solo I e II \quad (E) Solo II e III
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n1_f1#q06|src_obm_2014_n1_f1__Q06]]
 
 
 
@@ -241,13 +294,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*15 monete di 25 e 10 centesimi per un determinato importo; scegliere l'equazione corretta*
+*15 monete da 25 e 10 centavos che danno in totale una certa somma; scegli l'equazione corretta*
 
-> Wagner ha monete $15$, alcune di $25$ centavo e altre di $10$ centavo. $x$ sia il numero delle monete $25$-centavo. Quale delle equazioni qui sotto permette di trovare questo numero?
-> 
+> Wagner ha $15$ monete: alcune del valore di $25$ centavos e altre del valore di $10$ centavos. Sia $x$ il numero di monete da $25$ centavos. Quale delle equazioni seguenti consente di trovare questo numero?
+>
 > (A) $5x+10(15-x)=27$ \quad (B) $25x+10(15-x)=270$ \quad (C) $x+(15-x)=27$
-> 
+>
 > (D) $5x+10(15-x)=54$ \quad (E) $5x+2(15-x)=135$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n1_f1#q07|src_obm_2014_n1_f1__Q07]]
 
 
 
@@ -274,11 +335,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Campare una scala di 18 gradini per 2 secondi e poi per 1 secondi, scendere; passi minimi da calcare*
+*Salire una scala di 18 gradini a due a due e poi a uno a uno, scendendo; numero minimo di gradini calpestati*
 
-> Ana sale una scala con scalini $18$. Si arrampicano due gradini alla volta, saltando ogni volta un passo; poi si arrampicano uno dopo l'altro. Scendiando, scende gli stessi gradini. Considerando le condizioni descritte, qual è il minimo numero di gradini che Ana deve percorrere per arrivare all'ultimo gradino di scala?
-> 
+> Ana sale una scala composta da $18$ gradini. Sale salendo due gradini alla volta, saltando un gradino ogni volta; poi sale i gradini rimanenti uno per uno. Scendendo, percorre gli stessi gradini. Tenendo conto delle condizioni descritte, qual è il numero minimo di gradini su cui Ana deve poggiare il piede per raggiungere l'ultimo gradino salendo la scala?
+>
 > (A) $3$ \quad (B) $4$ \quad (C) $5$ \quad (D) $6$ \quad (E) $12$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n1_f1#q08|src_obm_2014_n1_f1__Q08]]
 
 
 
@@ -309,15 +379,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tabella delle tariffe dirette tra cinque città; costo minimo per visitare tutte*
+*Tabella delle tariffe dirette tra cinque città; costo minimo per visitarle tutte*
 
-> La tabella indica il prezzo in reais dei biglietti per viaggi tra cinque città $A$, $B$, $C$, $D$, $E$. Si noti che il prezzo di andare e di tornare tra due città diverse è diverso. Pablo vuole visitare tutte le città, spendendo il minimo possibile. Il tavolo è:
-> 
+> La tabella riporta il prezzo, in reais, dei biglietti per gli spostamenti tra cinque città $A$, $B$, $C$, $D$, $E$. Si noti che il prezzo per andare e il prezzo per tornare tra due città distinte sono diversi. Pablo vuole visitare tutte le città spendendo il meno possibile. La tabella è:
+>
 > $$\begin{array}{c|ccccc} & A & B & C & D & E \\ \hline A & - & 3 & 1 & 2 & 5 \\ B & 2 & - & 2 & 1 & 4 \\ C & 1 & 3 & - & 2 & 1 \\ D & 2 & 5 & 4 & - & 3 \\ E & 5 & 2 & 1 & 4 & - \end{array}$$
-> 
+>
 > Quanto spenderà Pablo?
-> 
-> (A) $4$ reais \quad (B) $5$ reais \quad (C) $6$ reais \quad (D) $9$ reais \quad (E) $11$ reais
+>
+> (A) $4$ reali \quad (B) $5$ reali \quad (C) $6$ reali \quad (D) $9$ reali \quad (E) $11$ reali
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n1_f1#q09|src_obm_2014_n1_f1__Q09]]
 
 
 
@@ -344,11 +423,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Acquisto di 20 penne e 20 matite in due negozi con promozioni; quanto si può risparmiare
+*Acquistare 20 penne e 20 matite in due negozi con promozioni: quanto si può risparmiare?*
 
-> Joana, per acquistare penne $20$ e matite $20$, ha confrontato i prezzi in due negozi. Nel negozio A ogni penna costa $4$ reais e ogni matita $5$ reais; nel negozio B ogni penna costa $6$ reais e ogni matita $3$ reais. Ogni negozio ha una promozione. Comprando con la scelta migliore tra comprare solo al negozio A o solo al negozio B, quanto può risparmiare?
-> 
-> (A) nulla (B) R\$\,6{,}00 \quad (C) R\$\,8{,}00 \quad (D) R\$\,10{,}00 \quad (E) R\$\,12{,}00
+> Joana, per comprare $20$ penne e $20$ matite, ha confrontato i prezzi di due negozi. Nel negozio A ogni penna costa $4$ reais e ogni matita $5$ reais; nel negozio B ogni penna costa $6$ reais e ogni matita $3$ reais. Ogni negozio ha una promozione. Acquistando scegliendo l'opzione migliore tra comprare solo nel negozio A o solo nel negozio B, quanto può risparmiare?
+>
+> (A) niente \quad (B) R\$\,6{,}00 \quad (C) R\$\,8{,}00 \quad (D) R\$\,10{,}00 \quad (E) R\$\,12{,}00
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n1_f1#q10|src_obm_2014_n1_f1__Q10]]
 
 
 
@@ -376,13 +464,21 @@ Acquisto di 20 penne e 20 matite in due negozi con promozioni; quanto si può ri
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo diviso in tre segmenti simultanei; date le aree 24, 18, 8; area totale*
+*Rettangolo suddiviso da tre segmenti concorrenti; aree date: 24, 18, 8; trovare l'area totale*
 
-> Il rettangolo della figura è stato diviso in diverse regioni tramite tre segmenti simultanei, uno dei quali è una diagonale del rettangolo e gli altri paralleli ai lati. I numeri indicano le superfici, in $\text{m}^2$, di alcune regioni; i valori indicati sono $24$, $18$ e $8$. Qual è l'area del rettangolo originale?
-> 
+> Il rettangolo della figura è stato suddiviso in diverse regioni mediante tre segmenti concorrenti, uno dei quali è una diagonale del rettangolo e gli altri sono paralleli ai lati. I numeri indicano le aree, in $\text{m}^2$, di alcune regioni; i valori mostrati sono $24$, $18$ e $8$. Qual è l'area del rettangolo originale?
+>
 > (A) $40\text{ m}^2$ \quad (B) $65\text{ m}^2$ \quad (C) $75\text{ m}^2$ \quad (D) $80\text{ m}^2$ \quad (E) $100\text{ m}^2$
 
 ![[src_obm_2014_n1_f1__q11.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n1_f1#q11|src_obm_2014_n1_f1__Q11]]
 
 
 
@@ -408,11 +504,19 @@ Acquisto di 20 penne e 20 matite in due negozi con promozioni; quanto si può ri
 <div class="qlang-split" data-lang="it"></div>
 
 
-Tre pittori dipingono tre pareti di 60 m a velocità diverse, aiutandosi a vicenda; tempo totale
+*Tre pittori dipingono tre pareti di 60 m ciascuna a velocità diverse, aiutandosi a vicenda; tempo totale*
 
-> Manuel, Antonio e Joaquim iniziano a dipingere, nello stesso istante, tre pareti uguali di $60$ metri di lunghezza, una parete ciascuno. Nei primi minuti di lavoro, Manuel dipinge i metri $2$, gli metri Antonio $3$ e Joaquim $5$. Quando ciascuno finisce la sua parte, va immediatamente ad aiutare gli altri, fino a quando tutti e tre insieme finiscono tutto il lavoro, mantenendo lo stesso ritmo fino alla fine. Quanto tempo hanno impiegato per completare il lavoro?
-> 
+> Manuel, Antonio e Joaquim iniziano a dipingere, nello stesso istante, tre pareti uguali di $60$ metri di lunghezza, una parete ciascuno. Nei primi $10$ minuti di lavoro, Manuel dipinge $2$ metri, Antonio $3$ metri e Joaquim $5$ metri. Non appena ciascuno finisce la propria parte, va subito ad aiutare gli altri, finché tutti e tre insieme non completano tutto il lavoro, mantenendo lo stesso ritmo fino alla fine. Quanto tempo hanno impiegato per finire il lavoro?
+>
 > (A) $3$ ore \quad (B) $4$ ore \quad (C) $5$ ore \quad (D) $6$ ore \quad (E) $7$ ore
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2014_n1_f1#q12|src_obm_2014_n1_f1__Q12]]
 
 
 
@@ -439,11 +543,20 @@ Tre pittori dipingono tre pareti di 60 m a velocità diverse, aiutandosi a vicen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare numeri interi positivi a quattro cifre distinte la cui somma è di 7*
+*Conta gli interi positivi con quattro cifre distinte la cui somma è 7*
 
-> Il numero $2014$ ha quattro cifre distinte la cui somma è $7$. Quanti integri positivi hanno queste proprietà?
-> 
+> Il numero $2014$ ha quattro cifre distinte la cui somma è $7$. Quanti numeri interi positivi hanno queste proprietà?
+>
 > (A) $12$ \quad (B) $16$ \quad (C) $18$ \quad (D) $20$ \quad (E) $23$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n1_f1#q13|src_obm_2014_n1_f1__Q13]]
 
 
 
@@ -470,11 +583,20 @@ Tre pittori dipingono tre pareti di 60 m a velocità diverse, aiutandosi a vicen
 <div class="qlang-split" data-lang="it"></div>
 
 
-Rosa distribuisce tra i nipoti; 10 restano, poi 22, distribuisce infine 240; quantità ottenute ciascuno
+*Rosa distribuisce tra i nipoti; ne restano 10, poi 22, infine distribuisce 240; quantità ricevuta da ciascuno*
 
-> Rosa decise di distribuire $250$ reais tra i suoi nipoti, dando la stessa quantità completa (senza centavos) a ciascuno, ma vide che $10$ reais sarebbero rimasti. Poi ha deciso di dare una quantità maggiore a ciascuno, ma allora $22$ reais sarebbe rimasto. Pertanto ha deciso di distribuire solo $240$ reais. Quanto guadagnava ogni nipote?
-> 
-> (A) $5$ reais \quad (B) $10$ reais \quad (C) $12$ reais \quad (D) $15$ reais \quad (E) $20$ reais
+> Rosa decise di distribuire $250$ reais tra i suoi nipoti, dando a ciascuno la stessa quantità intera (senza centavos), ma si accorse che sarebbero rimasti $10$ reais. Poi decise di dare a ciascuno una quantità maggiore, ma in tal caso sarebbero rimasti $22$ reais. Pertanto decise di distribuire solo $240$ reais. Quanto ha ricevuto ciascun nipote?
+>
+> (A) $5$ reali \quad (B) $10$ reali \quad (C) $12$ reali \quad (D) $15$ reali \quad (E) $20$ reali
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n1_f1#q14|src_obm_2014_n1_f1__Q14]]
 
 
 
@@ -502,13 +624,21 @@ Rosa distribuisce tra i nipoti; 10 restano, poi 22, distribuisce infine 240; qua
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato diviso in quattro regioni etichettate A,B,C,D; due delle quali hanno superficie uguale*
+*Un quadrato suddiviso in quattro regioni etichettate A, B, C, D; quali due hanno area uguale?*
 
-> Il quadrato laterale è stato diviso in quattro regioni, rappresentate dalle lettere $A$, $B$, $C$, $D$. Due di loro hanno la stessa area. Quali due?
-> 
+> Il quadrato sul lato è stato suddiviso in quattro regioni, rappresentate dalle lettere $A$, $B$, $C$, $D$. Due di esse hanno la stessa area. Quali due?
+>
 > (A) $A$ e $B$ \quad (B) $A$ e $C$ \quad (C) $A$ e $D$ \quad (D) $B$ e $C$ \quad (E) $B$ e $D$
 
 ![[src_obm_2014_n1_f1__q15.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n1_f1#q15|src_obm_2014_n1_f1__Q15]]
 
 
 
@@ -535,11 +665,20 @@ Rosa distribuisce tra i nipoti; 10 restano, poi 22, distribuisce infine 240; qua
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale minimo *
+*Gioco delle biglie: Adao ha perso 5, Bernardo ha perso 4, Carlos le ha guadagnate; totale minimo*
 
-> Adao, Bernardo e Carlos hanno giocato a marmi. Adao ha perso i marmi $5$, Bernardo ha perso $4$, e Carlos ha guadagnato tutti i marmi che gli altri hanno perso. Ricordando che con i marmi $5$ una persona può giocare, qual è la quantità minima di marmi nel gioco?
-> 
+> Adao, Bernardo e Carlos hanno giocato a biglie. Adao ha perso $5$ biglie, Bernardo ne ha perse $4$, e Carlos ha guadagnato tutte le biglie perse dagli altri. Ricordando che con $5$ biglie si può giocare, qual è la quantità minima di biglie nel gioco?
+>
 > (A) $11$ \quad (B) $13$ \quad (C) $19$ \quad (D) $29$ \quad (E) $33$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n1_f1#q16|src_obm_2014_n1_f1__Q16]]
 
 
 
@@ -566,11 +705,20 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Classe completa, gli studenti rivendicano 24 o altri numeri; alcuni mentono, altri dicono la verità; studenti totali*
+*In una classe completa, gli studenti dichiarano 24 o altri numeri; alcuni mentono, altri dicono la verità; numero totale di studenti*
 
-> In una classe completa, l'insegnante chiede quanti studenti hanno studiato per l'esame. Molti studenti rispondono. Quelli che hanno studiato dicono la verità; quelli che non hanno studiato mentono. Se$32$dice la verità, quanti studenti ci sono nella stanza?
-> 
+> In una classe al completo, l'insegnante chiede quanti studenti hanno studiato per il compito in classe. Diversi studenti rispondono. Coloro che hanno studiato dicono la verità; coloro che non hanno studiato mentono. Se $32$ ha detto la verità, quanti studenti ci sono nella stanza?
+>
 > (A) $38$ \quad (B) $40$ \quad (C) $42$ \quad (D) $44$ \quad (E) $55$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n1_f1#q17|src_obm_2014_n1_f1__Q17]]
 
 
 
@@ -598,13 +746,21 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Regione grigia come unione di rettangolari uguali senza lacune/sovrapposizioni; trovare zona grigia*
+*Regione grigia come unione di rettangoli uguali senza interstizi né sovrapposizioni; trovare l'area grigia*
 
-> La regione grigia nella figura è l'unione di rettangoli uguali, senza lacune né sovrapposizioni. La linea tracciata è indicata nella figura. Qual è l'area della regione grigia?
-> 
+> La regione grigia nella figura è l'unione di rettangoli congruenti, senza interstizi né sovrapposizioni. Nella figura è indicata la linea tratteggiata. Qual è l'area della regione grigia?
+>
 > (A) $6\text{ cm}^2$ \quad (B) $6{,}5\text{ cm}^2$ \quad (C) $7\text{ cm}^2$ \quad (D) $7{,}5\text{ cm}^2$ \quad (E) $8\text{ cm}^2$
 
 ![[src_obm_2014_n1_f1__q18.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n1_f1#q18|src_obm_2014_n1_f1__Q18]]
 
 
 
@@ -631,11 +787,20 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tutti i numeri a quattro cifre distinte ordinati; maggiore differenza positiva tra i vicini*
+*Tutti i numeri con quattro cifre distinte sono ordinati; massima differenza positiva tra numeri consecutivi*
 
-> Juca fece un elenco di tutti i numeri interi positivi con quattro cifre distinte, in ordine crescente. Poi fece un'altra lista delle differenze positive tra tutte le coppie di numeri vicini. Nella seconda lista, quale era il numero più grande che Juca scrisse?
-> 
+> Juca ha stilato un elenco di tutti i numeri interi positivi con quattro cifre distinte, in ordine crescente. Poi ha stilato un altro elenco delle differenze positive tra tutte le coppie di numeri consecutivi. Nel secondo elenco, qual è stato il numero più grande che Juca ha scritto?
+>
 > (A) $25$ \quad (B) $36$ \quad (C) $47$ \quad (D) $103$ \quad (E) $105$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n1_f1#q19|src_obm_2014_n1_f1__Q19]]
 
 
 
@@ -664,10 +829,19 @@ Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Blocco rettangolare di 6 cubi neri e 6 bianchi; identificare la vista da dietro*
+*Blocco rettangolare composto da 6 cubi neri e 6 cubi bianchi; identifica la vista dal retro*
 
-> La figura a destra mostra un blocco rettangolare assemblato con sei piccoli cubetti neri e sei piccoli cubetti bianchi, tutti della stessa dimensione. Quale delle figure di seguito mostra lo stesso blocco visto da dietro?
-> 
-> A) Quad (B) Quad (C) Quad (D) Quad (E)
+> La figura a destra mostra un parallelepipedo composto da sei piccoli cubi neri e sei piccoli cubi bianchi, tutti della stessa dimensione. Quale delle figure sottostanti mostra lo stesso parallelepipedo visto da dietro?
+>
+> (A) \quad (B) \quad (C) \quad (D) \quad (E)
 
 ![[src_obm_2014_n1_f1__q20.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n1_f1#q20|src_obm_2014_n1_f1__Q20]]

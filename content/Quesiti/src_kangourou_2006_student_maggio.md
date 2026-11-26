@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of absolute values on numbered circle*
+*Minimum sum of absolute values on a numbered circle*
 
-> Let's denote with $n$ an integer greater than 1 and assume that $n$ points of a circle are numbered from 1 to $n$ in a completely random order. For each pair (not ordered) of adjacent points the absolute value of the difference of the two corresponding numbers is taken into account; all the absolute values thus obtained are therefore added. What is the minimum value of this sum?
+> Let $n$ denote an integer greater than 1, and suppose that $n$ points on a circle are numbered from 1 to $n$ in completely random order. For each (unordered) pair of adjacent points, consider the absolute value of the difference between the two corresponding numbers; then sum all the absolute values thus obtained. What is the minimum possible value of this sum?
 
-**Answer:** 2n-2
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_student_maggio#qs1|src_kangourou_2006_student_maggio__QS1]]
 
 
 
@@ -58,11 +63,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*p+q product of at least three integers >1 (first consecutive)*
+*p+q is the product of at least three integers >1 (consecutive primes)*
 
-> They are $p$ and $q$ two prime numbers, different from each other and both different from 2, such that there is no prime number strictly between $p$ and $q$. Is it true that $p + q$ is the product of at least three positive integers greater than 1 (not necessarily different from each other)? If the answer is yes, it gives a reason, if the answer is no, it gives a counterexample.
+> Let $p$ and $q$ be two distinct prime numbers, both different from 2, such that there is no prime number strictly between $p$ and $q$. Is it true that $p + q$ is the product of at least three positive integers greater than 1 (not necessarily distinct)? If the answer is yes, provide a justification; if the answer is no, find a counterexample.
 
-**Answer:** yes
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_student_maggio#qs2|src_kangourou_2006_student_maggio__QS2]]
 
 
 
@@ -88,13 +98,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Longer and shorter diagonal difference in the 9-gon
+*Difference between the longer and shorter diagonals in the nonagon*
 
 ![[src_kangourou_2006_student_maggio__probs3.png]]
 
-> Consider, in a regular polygon of 9 sides, the lengths of the longest and the shortest diagonals. If the side of the polygon is 1 centimeter, how much is the difference between these two lengths?
+> In a regular nonagon, consider the lengths of the longest diagonals and of the shortest diagonals. If the side of the polygon measures 1 centimeter, what is the difference between these two lengths?
 
-**Answer:** 1 cm
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_student_maggio#qs3|src_kangourou_2006_student_maggio__QS3]]
 
 
 
@@ -123,17 +138,21 @@ Longer and shorter diagonal difference in the 9-gon
 <div class="qlang-split" data-lang="en"></div>
 
 
-*blue points on the circumferences*
+*Blue points on circles*
 
-> All points on a plane are colored either red or blue and there's at least one red dot and at least one blue dot. Consider the two configurations proposed below.
-> 
-> a. Each circumference of radius one centimeter lying on the plane contains exactly one blue dot.
-> 
-> b. Each circumference of radius one centimeter lying on the plane contains exactly two blue dots.
-> 
-> Is it possible that a)? Is it possible that b)? Reason for your answers.
+> All points in a plane are colored either red or blue, and there is at least one red point and at least one blue point. Consider the two configurations proposed below.
+>
+> a. Every circle of radius 1 centimeter lying in the plane contains exactly one blue point.
+>
+> b. Every circle of radius 1 centimeter lying in the plane contains exactly two blue points.
+>
+> Is it possible for a) to occur? Is it possible for b) to occur? Justify your answers.
 
-**Answer:** a no, b yes
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_student_maggio#qs4|src_kangourou_2006_student_maggio__QS4]]
 
 
 
@@ -158,9 +177,13 @@ Longer and shorter diagonal difference in the 9-gon
 
 *E=N?*
 
-> Four $a, b, c, d$ integers, with $a$ non-zero, are chosen so that the $E$ set of positive integers $n$ such that $an + b$ divides $cn + d$ is not finite. Can the set $E$ be different from the set $\mathbb{N}$ of positive integers? Justify your answer.
+> Four integers $a, b, c, d$, with $a$ non-zero, are chosen so that the set $E$ of positive integers $n$ such that $an + b$ divides $cn + d$ is not finite. Can the set $E$ be different from the set $\mathbb{N}$ of positive integers? Justify the answer.
 
-**Answer:** no
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_student_maggio#qs5|src_kangourou_2006_student_maggio__QS5]]
 
 
 
@@ -186,10 +209,15 @@ Longer and shorter diagonal difference in the 9-gon
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numerization of triangular network numbers with rhomboid movements*
+*Resetting numbers on a triangular grid with diamond moves*
 
 ![[src_kangourou_2006_student_maggio__probs6.png]]
 
-> An equilateral triangle of the side $n$ ($n$ integer greater than 1) is divided into $n^2$ small equilateral triangles using segments parallel to the sides, as suggested by the figure. All points on the network (vertices of triangles) thus made are initially associated with the number 0, except for the four points marked with $\bullet$, to which the number 1 is associated. We want to make sure that all of the above points, including the last four, end up being associated with the number 0 after performing a finite number of moves, each of which is exclusively of the following type: add 1 or $-1$ simultaneously to each of the numbers at the four vertices of any rhombus that is formed by the union of two of the $n^2$ equilateral triangles small. For what values of $n$ can the project be implemented (and with what strategy)? (see figure)
+> An equilateral triangle with side $n$ ($n$ is an integer greater than 1) is divided into $n^2$ "small" equilateral triangles using line segments parallel to the sides, as suggested by the figure. Initially, the number 0 is associated with all points of the grid (the vertices of the triangles) thus formed, except for the four points marked with $\bullet$, to which the number 1 is associated. We want to ensure that all the aforementioned points, including these last four, end up associated with the number 0 after performing a finite number of moves, each move being exclusively of the following type: add 1 or $-1$ simultaneously to each of the numbers at the four vertices of any rhombus formed by joining two of the $n^2$ "small" equilateral triangles. For which values of $n$ is it possible to carry out the plan (and by what strategy)? (see figure)
 
-**Answer:** only odd n
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_student_maggio#qs6|src_kangourou_2006_student_maggio__QS6]]

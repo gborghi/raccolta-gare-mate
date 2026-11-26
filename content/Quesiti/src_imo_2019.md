@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Z->Z with f(2a)+2f(b)=f(f(a+b))*
+*Functions on the integers with f(2a) + 2f(b) = f(f(a+b))*
 
-> It is $\mathbb{Z}$ the set of integers. Determine all functions $f : \mathbb{Z} \to \mathbb{Z}$ such that, for all integers $a$ and $b$, $$f(2a) + 2f(b) = f(f(a+b)).$$
+> Let $\mathbb{Z}$ be the set of integers. Determine all functions $f : \mathbb{Z} \to \mathbb{Z}$ such that, for all integers $a$ and $b$,
+> $$f(2a) + 2f(b) = f(f(a+b)).$$
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_2019#q01|src_imo_2019__Q01]]
 
 
 
@@ -56,11 +63,18 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*P,Q,P1,Q1 conical in the triangle*
+*Four points constructed from a triangle are concyclic*
 
-> In the $ABC$ triangle, the point $A_1$ lies on the $BC$ side and the point $B_1$ lies on the $AC$ side. $P$ and $Q$ points on the $AA_1$ and $BB_1$ segments respectively, such that $PQ$ is parallel to $AB$. Whether $P_1$ is a point on the $PB_1$ line such that $B_1$ is located between $P$ and $P_1$, and $\angle PP_1C = \angle BAC$. Similarly, $Q_1$ is a point on the $QA_1$ line such that $A_1$ is close to $Q$ and $Q_1$, and $\angle CQ_1Q = \angle CBA$.
-> 
-> To demonstrate that $P$, $Q$, $P_1$ and $Q_1$ are complicated.
+> In triangle $ABC$, the point $A_1$ lies on the side $BC$ and the point $B_1$ lies on the side $AC$. Let $P$ and $Q$ be points on the segments $AA_1$ and $BB_1$, respectively, such that $PQ$ is parallel to $AB$. Let $P_1$ be a point on the line $PB_1$ such that $B_1$ lies strictly between $P$ and $P_1$, and $\angle PP_1C = \angle BAC$. Likewise, let $Q_1$ be a point on the line $QA_1$ such that $A_1$ lies strictly between $Q$ and $Q_1$, and $\angle CQ_1Q = \angle CBA$.
+>
+> Prove that the points $P$, $Q$, $P_1$ and $Q_1$ are concyclic.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_2019#q02|src_imo_2019__Q02]]
 
 
 
@@ -87,13 +101,20 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Social network 2019 users, friendship events*
+*A social network can be reduced so that each user has at most one friend*
 
-> A social network has $2019$ users, some of whom are friends. Whenever the user $A$ is a friend of the user $B$, $B$ is also a friend of $A$. Events of the following type may occur repeatedly, one at a time:
-> 
-> Three users $A$, $B$ and $C$ such that $A$ is a friend of both $B$ and $C$, but $B$ and $C$ are not friends, change their friendship states so that $B$ and $C$ become friends, but $A$ is no longer a friend of $B$ and is no longer a friend of $C$. All other states of friendship remain unchanged.
-> 
-> Initially, $1010$ users each have $1009$ friends and $1009$ users each have $1010$ friends. Demonstrate that there is a sequence of such events after which each user is friends with at most one other user.
+> A social network has $2019$ users, some pairs of whom are friends. Whenever user $A$ is a friend of user $B$, $B$ is also a friend of $A$. Events of the following type may occur repeatedly, one at a time:
+>
+> Three users $A$, $B$ and $C$ such that $A$ is a friend of both $B$ and $C$, but $B$ and $C$ are not friends, change their friendship states so that $B$ and $C$ become friends, but $A$ is no longer a friend of $B$ and no longer a friend of $C$. All other friendship states remain unchanged.
+>
+> Initially, $1010$ users each have $1009$ friends and $1009$ users each have $1010$ friends. Prove that there exists a sequence of such events after which each user is a friend of at most one other user.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_2019#q03|src_imo_2019__Q03]]
 
 
 
@@ -117,9 +138,17 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples (k,n) with k!=(2^n-1)(2^n-2)...*
+*Pairs (k, n) for which k! equals a product of terms 2^n − 2^j*
 
-> Find all positive integers $(k, n)$ pairs such as $$k! = (2^n - 1)(2^n - 2)(2^n - 4) \cdots (2^n - 2^{n-1}).$$
+> Find all pairs $(k, n)$ of positive integers such that
+> $$k! = (2^n - 1)(2^n - 2)(2^n - 4) \cdots (2^n - 2^{n-1}).$$
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_2019#q04|src_imo_2019__Q04]]
 
 
 
@@ -146,13 +175,20 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bank of Bath currency, mean value L(C)*
+*The average number of moves before Harry's coins all show T*
 
-> The Bank of Bath issues coins with a $H$ on one side and a $T$ on the other. Harry has$n$of these coins lined up from left to right. He repeatedly performs the following operation: if there are exactly $k > 0$ coins showing $H$, then the $k$-eighth coin turns left; otherwise, all coins show $T$ and stops. For example, if $n = 3$ the process starting from the $THT$ configuration is $THT \to HHT \to HTT \to TTT$, which stops after three operations.
-> 
-> (a) Show that for each initial configuration, Harry stops after a finite number of operations.
-> 
-> (b) For each initial configuration $C$, be $L(C)$ the number of operations before Harry stops. For example, $L(THT) = 3$ and $L(TTT) = 0$. Determine the mean value of $L(C)$ over all possible initial configurations $2^n$.
+> The Bank of Bath issues coins with an $H$ on one side and a $T$ on the other. Harry has $n$ of these coins arranged in a row from left to right. He repeatedly performs the following operation: if there are exactly $k > 0$ coins showing $H$, then he flips the $k$th coin from the left; otherwise, all the coins show $T$ and he stops. For example, if $n = 3$ the process starting from the configuration $THT$ is $THT \to HHT \to HTT \to TTT$, which stops after three operations.
+>
+> (a) Show that, for every initial configuration, Harry stops after a finite number of operations.
+>
+> (b) For every initial configuration $C$, let $L(C)$ be the number of operations before Harry stops. For example, $L(THT) = 3$ and $L(TTT) = 0$. Determine the average value of $L(C)$ over all $2^n$ possible initial configurations $C$.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_2019#q05|src_imo_2019__Q05]]
 
 
 
@@ -177,8 +213,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*DI and PQ meet on a straight line for A perp AI*
+*DI and PQ meet on the line through A perpendicular to AI*
 
-> Whether $I$ the center of the inscribed circle of the acutangol triangle $ABC$ with $AB \neq AC$. The circle inscribed $\omega$ of $ABC$ is tangent to the sides $BC$, $CA$ and $AB$ respectively in $D$, $E$ and $F$. The straight line passing through $D$ perpendicular to $EF$ meets $\omega$ again in $R$. The $AR$ line is again $\omega$ in $P$. The circumferences circumscribed to the $PCE$ and $PBF$ triangles meet again in $Q$.
-> 
-> Show that the lines $DI$ and $PQ$ meet on the straight line passing by $A$ perpendicular to $AI$.
+> Let $I$ be the incentre of the acute triangle $ABC$ with $AB \neq AC$. The incircle $\omega$ of $ABC$ is tangent to the sides $BC$, $CA$ and $AB$ at $D$, $E$ and $F$ respectively. The line through $D$ perpendicular to $EF$ meets $\omega$ again at $R$. The line $AR$ meets $\omega$ again at $P$. The circumcircles of triangles $PCE$ and $PBF$ meet again at $Q$.
+>
+> Prove that the lines $DI$ and $PQ$ meet on the line through $A$ perpendicular to $AI$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_2019#q06|src_imo_2019__Q06]]

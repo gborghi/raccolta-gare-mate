@@ -35,13 +35,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The mother of the daughter of the mother of the mother
+*Who is the mother of the daughter of the mother of Anna's mother?*
 
-> Who's the mother of Anna's mother's mother's daughter? One of Anna's sisters. B) One of Anna's grandchildren. C) Anna's mother.
-> 	
-> One of Anna's aunts. E) One of Anna's grandmothers.
+> Who is the mother of the daughter of the mother of Anna's mother?
+>
+> A) One of Anna's sisters.
+> B) One of Anna's granddaughters.
+> C) Anna's mother.
+> D) One of Anna's aunts.
+> E) One of Anna's grandmothers.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2020_junior_marzo#q01|src_kangourou_2020_junior_marzo__Q01]]
 
 
 
@@ -72,11 +80,22 @@ The mother of the daughter of the mother of the mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*certain assertion*
+*Which statement is certainly true?*
 
-> Five different boxes of candy were emptied into one basket. Now, in this basket, there are 102 candies. Which of the following is certainly true? A) There were at least 20 candies in each box. B) At least one of the boxes contained more than 21 candies. C) At least one of the boxes contained less than 21 candies. D) There were more than 21 candies in each box. E) One of the boxes contained exactly 21 candies.
+> Five different boxes of sweets were emptied into a single basket. The basket now holds 102 sweets. Which of the following statements is certainly true?
+>
+> A) Every box held at least 20 sweets.
+> B) At least one box held more than 21 sweets.
+> C) At least one box held fewer than 21 sweets.
+> D) Every box held more than 21 sweets.
+> E) One of the boxes held exactly 21 sweets.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_junior_marzo#q02|src_kangourou_2020_junior_marzo__Q02]]
 
 
 
@@ -106,15 +125,21 @@ The mother of the daughter of the mother of the mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Least of 4 consecutive integers with sum 2*
+*What is the smallest of four consecutive integers summing to 2?*
 
-> The sum of four consecutive integers is 2. What's the least of these numbers? A) – 3 B) – 2
-> 	
-> C) – 1 D) 0
-> 	
+> The sum of four consecutive integers is 2. What is the smallest of these numbers?
+>
+> A) – 3
+> B) – 2
+> C) – 1
+> D) 0
 > E) 1
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_junior_marzo#q03|src_kangourou_2020_junior_marzo__Q03]]
 
 
 
@@ -152,21 +177,23 @@ The mother of the daughter of the mother of the mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Full rings formed by stripes of a shirt*
+*How many complete rings do the stripes now form?*
 
 ![[src_kangourou_2020_junior_marzo__prob4.png]]
 
-> There are seven horizontal lines on Henry's shirt. When you tie it properly, these lines close in seven rings around its chest, as shown in the figure to the left. This morning Henry, in a hurry, tied his shirt wrong and now his front looks is what appears in the figure to the right. How many complete rings are now formed by the lines? A) 0
-> 	
+> Enrico's shirt has seven horizontal stripes. When he buttons it properly, these stripes close into seven rings around his chest, as the picture on the left shows. This morning Enrico, in a hurry, buttoned his shirt wrongly, and the front now looks like the picture on the right. How many complete rings do the stripes now form?
+>
+> A) 0
 > B) 1
-> 	
 > C) 2
-> 	
 > D) 3
-> 	
 > E) 6
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2020_junior_marzo#q04|src_kangourou_2020_junior_marzo__Q04]]
 
 
 
@@ -208,14 +235,32 @@ The mother of the daughter of the mother of the mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cifters in two additions of two-digit numbers*
+*What is the result of the addition on the right?*
 
-> The figure outlines two additions in which the addends are two-digit positive integers. Each letter denotes a digit and different letters denote different digits. What is the result of the right addition? A) 79
-> 	
-> B) 158 C) 869 D) 1418 E) 7979 A B + C D 7 9 A D + C D + A B + C B ? = =
+> The figure sketches two additions whose summands are positive two-digit integers. Each letter stands for a digit, and different letters stand for different digits. What is the result of the addition on the right?
 >
+> A) 79
+> B) 158
+> C) 869
+> D) 1418
+> E) 7979
+>
+> A B +
+> C D
+> 7 9
+> A D +
+> C D +
+> A B +
+> C B
+> ?
+> =
+> =
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_junior_marzo#q05|src_kangourou_2020_junior_marzo__Q05]]
 
 
 
@@ -263,29 +308,24 @@ The mother of the daughter of the mother of the mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum area of triangle on point grid*
+*What is the least area of such a triangle?*
 
 ![[src_kangourou_2020_junior_marzo__prob6.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.7]
-  \draw[step=1cm] (0,0) grid (5,4);
-  \fill (1,3) circle (3pt);
-  \fill (2,3) circle (3pt);
-  \fill (4,2) circle (3pt);
-  \fill (2,1) circle (3pt);
-\end{tikzpicture}
-\end{document}
-```
-
-> In the grid in the figure, formed by adjoining squares all of side 1, four points are highlighted in bold. Among the triangles that have three of these four points as vertices, what is the area of the triangle with minimum area? A) 1/2 B) 1
-> 	
-> C) 3/2 D) 2
-> 	
+> In the grid in the picture, made by placing squares of side 1 side by side, four points are marked in bold. Among the triangles that have three of these four points as vertices, what is the area of the triangle of least area?
+>
+> A) 1/2
+> B) 1
+> C) 3/2
+> D) 2
 > E) 5/2
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2020_junior_marzo#q06|src_kangourou_2020_junior_marzo__Q06]]
 
 
 
@@ -318,19 +358,21 @@ The mother of the daughter of the mother of the mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles before cutting 3 squares diagonally*
+*How many triangles were there before the three squares were cut?*
 
-> Mary had 10 pieces of paper: some were squares, the remaining triangles. She cut three squares, each along one of the diagonals. Now if she counts the vertices of the pieces of paper she has, she gets 42. How many triangles did she have before cutting the three squares? A) 8
->  	
+> Maria had 10 pieces of paper: some were squares, the rest triangles. She cut three squares, each along one of the diagonals. If she now counts the vertices of the pieces she has, she gets 42. How many triangles did she have before cutting the three squares?
+>
+> A) 8
 > B) 7
->  	
 > C) 6
-> 	
 > D) 5
-> 	
 > E) 4
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2020_junior_marzo#q07|src_kangourou_2020_junior_marzo__Q07]]
 
 
 
@@ -365,13 +407,23 @@ The mother of the daughter of the mother of the mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Six-piece cut rod length*
+*How long was the rod Martino sawed?*
 
 ![[src_kangourou_2020_junior_marzo__prob8.png]]
 
-> By sawing a single wooden stick, Martino obtained six and arranged them as shown in the bold segments in the figure. The vertices of the quadrilateral formed by the four shortest rods are each the middle point of one of the sides of the quadrilateral which has as vertices the ends of the two longest rods; these measure one 120 cm and the other 80 cm. What was the length, in centimeters, of the stick that Martino cut? A) 300 B) 370 C) 400 D) 410 E) 450
+> By sawing a single wooden rod, Martino got six pieces and arranged them as the bold segments in the picture show. Each vertex of the quadrilateral formed by the four shorter rods is the midpoint of one side of the quadrilateral whose vertices are the ends of the two longer rods; one of these measures 120 cm and the other 80 cm. What was the length, in centimetres, of the rod Martino sawed?
+>
+> A) 300
+> B) 370
+> C) 400
+> D) 410
+> E) 450
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_junior_marzo#q08|src_kangourou_2020_junior_marzo__Q08]]
 
 
 
@@ -404,13 +456,23 @@ The mother of the daughter of the mother of the mother
 <div class="qlang-split" data-lang="en"></div>
 
 
-Distance on the broken sign between three cities
+*What distance was written on the broken sign?*
 
 ![[src_kangourou_2020_junior_marzo__prob9.png]]
 
-> The shortest road connecting Atown to Cetown runs through Betown. Along the path from Atown to Cetown are in order, but on opposite sides of the road, the two road signs depicted in the figure. What distance was written on the broken sign? A) 1 km B) 2 km C) 3 km D) 4 km E) 5 km
+> The shortest road from Atown to Cetown passes through Betown. Along the way from Atown to Cetown the two road signs shown in the picture stand in that order, but on opposite sides of the road. What distance was written on the broken sign?
+>
+> A) 1 km
+> B) 2 km
+> C) 3 km
+> D) 4 km
+> E) 5 km
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_junior_marzo#q09|src_kangourou_2020_junior_marzo__Q09]]
 
 
 
@@ -448,21 +510,25 @@ Distance on the broken sign between three cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the central cell with sums given*
+*Which number goes in the centre cell?*
 
 ![[src_kangourou_2020_junior_marzo__prob10.png]]
 
-> In each of the nine cells in the figure a number must be inserted so that 40 is the sum of the numbers inserted in the 8 cells arranged on the circumference and 13 is the sum of the numbers inserted in each triple of aligned cells (a cell is always the central one). What number should be entered in the central cell? A) 3
-> 	
+> A number is to be entered in each of the nine cells in the picture so that the numbers in the 8 cells arranged on the circle add up to 40, and the numbers in every line of three cells add up to 13 (one cell is always the centre one). Which number goes in the centre cell?
+>
+> A) 3
 > B) 5
-> 	
 > C) 8
-> 	
 > D) 10
-> 	
-> (E) 12 Questions from N. 11 al N. 20 is worth 4 points each.
+> E) 12
+>
+> Questions 11 to 20 are worth 4 points each.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2020_junior_marzo#q10|src_kangourou_2020_junior_marzo__Q10]]
 
 
 
@@ -496,12 +562,21 @@ Distance on the broken sign between three cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Effective day to start the 18-day visit*
+*On which day should Elena start her visit?*
 
-> Elena has to spend 18 consecutive days with her grandmother. She knows that Grandma has a habit of making cookies that she likes every Tuesday, Saturday and Sunday. On what day of the week should she start her visit to her grandmother? A) Monday B) Tuesday C) Friday D) Saturday E) Sunday Atown 3 km Betown 1 km Atown 6 km Betown 2 km ?
+> Elena has to spend 18 consecutive days at her grandmother's. She knows that her grandmother bakes biscuits, of which Elena is very fond, every Tuesday, every Saturday and every Sunday. On which day of the week should she start her visit to her grandmother?
 >
+> A) Monday
+> B) Tuesday
+> C) Friday
+> D) Saturday
+> E) Sunday
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_junior_marzo#q11|src_kangourou_2020_junior_marzo__Q11]]
 
 
 
@@ -532,13 +607,22 @@ Distance on the broken sign between three cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number cannot be abcd with ab=2cd*
+*Which number cannot be the product abcd?*
 
-> Four integers a, b, c, d are such that ab = 2cd. Which of the following numbers is certainly not the abcd product of the four numbers? A) 50
-> 	
-> B) 100 C) 200 D) 450 E) 800
+> Four integers a, b, c, d are such that ab = 2cd. Which of the following numbers is certainly not the product abcd of the four numbers?
+>
+> A) 50
+> B) 100
+> C) 200
+> D) 450
+> E) 800
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_junior_marzo#q12|src_kangourou_2020_junior_marzo__Q12]]
 
 
 
@@ -574,19 +658,22 @@ Distance on the broken sign between three cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers between 2010 and 2099 whose split gives a square*
+*For how many numbers from 2010 to 2099 is that product a square?*
 
-> If the symbol of multiplication is inserted between the second and third digits of the number 2020, it graphically obtains 20 × 20: the result of the product thus indicated is a perfect square. For how many numbers between 2010 and 2099 does the same thing happen? A) 1
-> 	
+> If the multiplication sign is inserted between the second and the third digit of the number 2020, one obtains, as a picture, 20 × 20: the product thus indicated is a perfect square. For how many numbers between 2010 and 2099 does the same thing happen?
+>
+> A) 1
 > B) 2
-> 	
 > C) 3
-> 	
 > D) 4
-> 	
 > E) 5
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_junior_marzo#q13|src_kangourou_2020_junior_marzo__Q13]]
 
 
 
@@ -620,19 +707,23 @@ Distance on the broken sign between three cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance of the common vertex of 6 equal-area triangles*
+*How far is the shared vertex from the bottom side?*
 
 ![[src_kangourou_2020_junior_marzo__prob14.png]]
 
-> The figure shows a square of area 81 m2, divided into six triangles all of the same area that have one of the vertices in common. How many meters is this vertex from the bottom side of the square? A) 3
-> 	
+> The picture shows a square of area 81 m2, divided into six triangles of equal area that share one vertex. How many metres is that vertex from the bottom side of the square?
+>
+> A) 3
 > B) 5
-> 	
-> C) 5,5 D) 6
-> 	
+> C) 5,5
+> D) 6
 > E) 7,5
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_junior_marzo#q14|src_kangourou_2020_junior_marzo__Q14]]
 
 
 
@@ -664,17 +755,22 @@ Distance on the broken sign between three cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of 9x+27y given 17x+51y=102*
+*What is 9x + 27y?*
 
-> If 17x plus 51y is 102, what's 9x plus 27y worth? A) 54
-> 	
+> If 17x + 51y = 102, what is 9x + 27y?
+>
+> A) 54
 > B) 36
-> 	
 > C) 34
-> 	
-> D) 18 E) The problem data are insufficient to answer.
+> D) 18
+> E) The information given is not enough to answer.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2020_junior_marzo#q15|src_kangourou_2020_junior_marzo__Q15]]
 
 
 
@@ -713,27 +809,21 @@ Distance on the broken sign between three cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of dinghies at the start after transfers*
+*How many dinghies were there at the start?*
 
-> Some dinghies go down a river, all carrying the same number of people. 
-> At a point A of the river one of the dinghies is no longer usable: the people who were 
-> on it are distributed among the remaining dinghies and in this way each of the 
-> remaining dinghies finds itself with one more person than at the start. Shortly after, 
-> another three dinghies are no longer usable: the people who were on them are 
-> distributed among the remaining dinghies and in this way each of the remaining dinghies 
-> finds itself with five more people than there were after the transfer 
-> carried out at point A. How many dinghies were there at the start?
-> A) 7	
-	
-> B) 9	
-	
-> C) 10	
-	
-> D) 12	
-	
+> Some dinghies are going down a river, all carrying the same number of people. At a point A on the river one of the dinghies can no longer be used: the people who were on it are shared among the remaining dinghies, and each of those then has one more person than at the start. A little later, three further dinghies can no longer be used: the people who were on them are shared among the remaining dinghies, and each of those then has five more people than it had after the transfer at point A. How many dinghies were there at the start?
+>
+> A) 7
+> B) 9
+> C) 10
+> D) 12
 > E) 15
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_junior_marzo#q16|src_kangourou_2020_junior_marzo__Q16]]
 
 
 
@@ -779,34 +869,28 @@ Distance on the broken sign between three cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Overall size measurement of the fourth figure of rectangles*
+*How many centimetres is the measurement marked with a question mark?*
 
 ![[src_kangourou_2020_junior_marzo__prob17.png]]
 
-> The four figures you see on the right can be 
-> formed by placing side by side the two different rectangles that 
-> you see below. For the first three, one of the overall size measurements in centimetres is given. 
-> How many centimetres is the overall size measurement 
-> of the fourth, indicated with 
-> the question mark? 
-> A) 50	
-> 	
-> B) 52	
-> 	
-> C) 54	
->     
-> D) 72	
-> 	
+> The four figures on the right can be made by placing side by side the two different rectangles shown below. For the first three, one of the overall measurements, in centimetres, is given. How many centimetres is the overall measurement of the fourth, marked with a question mark?
+>
+> A) 50
+> B) 52
+> C) 54
+> D) 72
 > E) 58
+>
 > 40 cm
 > 32 cm
 > 18 cm
 > ? cm
-> 
-> 70°
-> ?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_junior_marzo#q17|src_kangourou_2020_junior_marzo__Q17]]
 
 
 
@@ -843,21 +927,23 @@ Distance on the broken sign between three cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle formed by two squares in an equilateral triangle*
+*What is the size of the angle marked with a question mark?*
 
 ![[src_kangourou_2020_junior_marzo__prob18.png]]
 
-> The figure shows an equilateral triangle containing two squares: one side of one of the two and a vertex of the other are contained on two sides of the triangle, and the degree of one of the angles that have been formed is indicated. What is the degree measurement of the angle indicated by the question mark? A) 25
-> 	
+> The picture shows an equilateral triangle containing two squares: one side of one of them, and a vertex of the other, lie on two of the sides of the triangle, and the size in degrees of one of the angles formed is marked. What is the size in degrees of the angle marked with a question mark?
+>
+> A) 25
 > B) 30
-> 	
 > C) 35
-> 	
 > D) 45
-> 	
 > E) 50
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2020_junior_marzo#q18|src_kangourou_2020_junior_marzo__Q18]]
 
 
 
@@ -893,19 +979,21 @@ Distance on the broken sign between three cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distributor to which Luca must stop once*
+*How many kilometres from the sign is the station where he must stop?*
 
-> Luke's car uses 1 liter of gasoline to travel 10 km and has a tank that can hold 40 of them. Luca started a 520 km journey with 14 liters of gasoline in the tank. After traveling 55 km, he encounters a sign indicating the distances in kilometres, starting from the sign, of the five following gasoline distributors: 35, 45, 55, 75 and 95. Luca wants to stop just once to get gasoline. How many kilometres away is the distributor at which he will have to stop? A) 35
-> 	
+> Luca's car uses 1 litre of petrol to travel 10 km, and its tank holds 40 litres. Luca started a journey of 520 km with 14 litres of petrol in the tank. After travelling 55 km he comes to a sign giving the distances in kilometres, from the sign, of the next five petrol stations: 35, 45, 55, 75 and 95. Luca wants to stop only once for petrol. How many kilometres from the sign is the station where he must stop?
+>
+> A) 35
 > B) 45
-> 	
 > C) 55
-> 	
 > D) 75
-> 	
 > E) 95
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_junior_marzo#q19|src_kangourou_2020_junior_marzo__Q19]]
 
 
 
@@ -938,13 +1026,24 @@ Distance on the broken sign between three cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-Probability that a 9-digit number is divisible by 18
+*What is the probability that the number is divisible by 18?*
 
-> If you randomly order the digits from 1 to 9 (each taken once) to form a nine-digit integer, what is the probability that the resulting number is divisible by 18? A) 1/2 B) 4/9
-> 	
-> C) 5/9 D) 1/3 E) 3/4 Questions from N. 21 to N. 30 are worth 5 points each.
+> If the digits from 1 to 9 are arranged completely at random, each used once, to form a nine-digit integer, what is the probability that the number obtained is divisible by 18?
+>
+> A) 1/2
+> B) 4/9
+> C) 5/9
+> D) 1/3
+> E) 3/4
+>
+> Questions 21 to 30 are worth 5 points each.
 
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_junior_marzo#q20|src_kangourou_2020_junior_marzo__Q20]]
 
 
 
@@ -976,15 +1075,22 @@ Probability that a 9-digit number is divisible by 18
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Isosceles triangle perimeter with side 30 and ratio 3/5*
+*What is the perimeter of the triangle?*
 
-> One side of an isosceles triangle is 30 cm long. On the other two sides, one is three fifths the length of the other. What is the perimeter of the triangle in centimeters? A) Certainly 66.
-> 	
-> B) Certainly 70. C) Certainly 74.
-> 	
-> D) Certainly 78 . E) The data in the problem are insufficient to determine it.
+> One side of an isosceles triangle is 30 cm long. Of the other two sides, one is 3/5 of the other. What is the perimeter of the triangle, in centimetres?
+>
+> A) Certainly 66.
+> B) Certainly 70.
+> C) Certainly 74.
+> D) Certainly 78.
+> E) The information given is not enough to decide.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2020_junior_marzo#q21|src_kangourou_2020_junior_marzo__Q21]]
 
 
 
@@ -1021,19 +1127,21 @@ Probability that a 9-digit number is divisible by 18
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance from the point where the hare turns*
+*How many kilometres from the finish did the hare notice its mistake?*
 
-> The hare and the turtle challenge each other on a five-kilometer straight path. The speed of the hare is five times that of the turtle, and each keeps its speed constant. They start from the same point at the same moment but, by mistake, the hare runs in a direction perpendicular to the path, which the turtle takes in correctly. When the hare notices the error, it turns and runs in a straight line to the point of arrival, which it reaches at the same time as the turtle. How many kilometers from the point of arrival is the point where the hare realized the error? A) 11
-> 	
+> The hare and the tortoise race on a straight course of 5 km. The hare's speed is 5 times the tortoise's, and each keeps a constant speed. They start from the same point at the same moment but, by mistake, the hare runs in a direction perpendicular to the course, which the tortoise follows correctly. When the hare notices the mistake, it turns and runs straight towards the finish, which it reaches at the same moment as the tortoise. How many kilometres from the finish is the point where the hare noticed the mistake?
+>
+> A) 11
 > B) 12
-> 	
 > C) 13
-> 	
 > D) 14
-> 	
 > E) 15
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_junior_marzo#q22|src_kangourou_2020_junior_marzo__Q22]]
 
 
 
@@ -1058,11 +1166,15 @@ Probability that a 9-digit number is divisible by 18
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Logical deduction on cardboard/blue figures*
+*What is known about the triangles and the squares?*
 
-> On a table there are some triangles and some squares. Some of these figures are blue and some are red, some of these figures are cardboard and some are metal. We know that:
+> On a table there are some triangles and some squares. Some of these shapes are blue and the others are red; some of these shapes are made of cardboard and the others of metal. It is known that:
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2020_junior_marzo#q23|src_kangourou_2020_junior_marzo__Q23]]
 
 
 
@@ -1087,13 +1199,23 @@ Probability that a 9-digit number is divisible by 18
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of overlap of two 3x9 rectangles*
+*What is the area of the overlap?*
 
 ![[src_kangourou_2020_junior_marzo__prob24.png]]
 
-> 24. Two identical rectangles measuring 3 cm × 9 cm are partially overlapping as shown in the figure. How many square centimetres is the area of the region where they overlap? A) 12 B) 13,5 C) 14 D) 15 E) 16
+> Two identical rectangles measuring 3 cm × 9 cm overlap in part, as the picture shows. How many square centimetres is the area of the region where they overlap?
+>
+> A) 12
+> B) 13,5
+> C) 14
+> D) 15
+> E) 16
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_junior_marzo#q24|src_kangourou_2020_junior_marzo__Q24]]
 
 
 
@@ -1119,13 +1241,24 @@ Probability that a 9-digit number is divisible by 18
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum for the fifth face of a square pyramid*
+*What is the sum on the fifth face?*
 
 ![[src_kangourou_2020_junior_marzo__prob25.png]]
 
-> 25. The five vertices of a square base pyramid were randomly numbered from 1 to 5. For each (triangular) face, the sum of the numbers assigned to its JUNIOR three vertices was calculated: for four of the faces the sums are 7, 8, 9 and 10. What's the sum for the fifth face? A) 11 B) 12 C) 13 D) 14 E) 15
+> The five vertices of a pyramid with a square base have been numbered at random from 1 to 5. For each triangular face, the sum of the numbers on its three vertices has been calculated: for four of the faces the sums are 7, 8, 9 and 10. What is the sum for the fifth face?
+>
+> A) 11
+> B) 12
+> C) 13
+> D) 14
+> E) 15
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_junior_marzo#q25|src_kangourou_2020_junior_marzo__Q25]]
 
 
 
@@ -1149,11 +1282,22 @@ Probability that a 9-digit number is divisible by 18
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Small cubes with exactly one painted face*
+*At most how many little cubes have exactly one face painted?*
 
-> 26. A large cube is obtained by assembling 64 identical cubes. Three of the faces of the large cube are painted. For how many of the small cubes, at most, can exactly one face be painted? A) 27 B) 28 C) 32 D) 34 E) 40 1 6 3
+> A large cube is made by assembling 64 identical little cubes. Three faces of the large cube are painted. For at most how many of the little cubes can exactly one face be painted?
+>
+> A) 27
+> B) 28
+> C) 32
+> D) 34
+> E) 40
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_junior_marzo#q26|src_kangourou_2020_junior_marzo__Q26]]
 
 
 
@@ -1196,31 +1340,27 @@ Probability that a 9-digit number is divisible by 18
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the grey cell with equal sums*
+*What number goes in the grey cell?*
 
 ![[src_kangourou_2020_junior_marzo__prob27.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.0]
-  \fill[gray!40] (0,0) rectangle (1,1);
-  \draw (0,0) grid (4,4);
-  \node at (0.5,3.5) {1};
-  \node at (2.5,3.5) {6};
-  \node at (3.5,3.5) {3};
-  \node at (1.5,2.5) {2};
-  \node at (2.5,2.5) {2};
-  \node at (3.5,2.5) {8};
-  \node at (1.5,1.5) {7};
-  \node at (3.5,1.5) {4};
-  \node at (2.5,0.5) {7};
-\end{tikzpicture}
-\end{document}
-```
+> A number is to be entered in each cell of the square grid in the picture so that the sum of the numbers in a row or a column is always the same, whichever row or column one takes. Some numbers have already been entered. What number goes in the grey cell?
+>
+> A) 5
+> B) 6
+> C) 7
+> D) 8
+> E) 9
+>
+> 2 2 8
+> 7 4
+> 7
 
-> 27. In each of the cells of the square grid in the figure a number must be inserted so that, the sum of the numbers appearing in each row and each column is always the same. Some numbers have already been entered. What number should you put in the gray cell? 7 A) 5 B) 6 C) 7 D) 8 E) 9
-
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_junior_marzo#q27|src_kangourou_2020_junior_marzo__Q27]]
 
 
 
@@ -1244,11 +1384,22 @@ Probability that a 9-digit number is divisible by 18
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Who lost on the second day at arm wrestling*
+*Who lost on the second day?*
 
-> 28. Aldo, Bruno and Carlo challenge each other for several days in a row at arm wrestling. Each day two of them meet while the third rests, waiting to face the winner on the following day. The challenge lasts several days and, at its end, it turns out that Aldo played 10 times, Bruno 15 and Carlo 17. Who lost on the second day? A) Certainly Aldo. B) Certainly Bruno. C) Certainly Carlo. D) Either Aldo or Bruno could have lost. E) Either Bruno or Carlo could have lost. Kangourou 2020
+> Aldo, Bruno and Carlo arm-wrestle for several days in a row. Each day two of them meet, while the third rests and waits to face the winner the next day. The contest lasts several days and, at the end, Aldo has played 10 times, Bruno 15 and Carlo 17. Who lost on the second day?
+>
+> A) Certainly Aldo.
+> B) Certainly Bruno.
+> C) Certainly Carlo.
+> D) It could have been either Aldo or Bruno.
+> E) It could have been either Bruno or Carlo.
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2020_junior_marzo#q28|src_kangourou_2020_junior_marzo__Q28]]
 
 
 
@@ -1273,13 +1424,23 @@ Probability that a 9-digit number is divisible by 18
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angle at the base of 4 equal isosceles triangles*
+*What would that common base angle be, in degrees?*
 
 ![[src_kangourou_2020_junior_marzo__prob29.png]]
 
-> 29. Look at the figure. A zigzag line starts at the end A of a semicircle diameter and ends at the end B after exactly four peaks on the semicircle. The four triangles that the line forms with the diameter are all isosceles. If, unlike what happens in the figure, all their angles at the base were the same size, how much would that size be in degrees? A) 60 B) 72 C) 75 D) 80 E) None of the above is the correct value.
+> Look at the picture. A zigzag line starts at the endpoint A of the diameter of a semicircle and ends at the endpoint B after exactly four peaks on the semicircle. The four triangles that the line forms with the diameter are all isosceles. If, unlike what happens in the picture, all their base angles had the same size, what would that size be in degrees?
+>
+> A) 60
+> B) 72
+> C) 75
+> D) 80
+> E) none of the above
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_junior_marzo#q29|src_kangourou_2020_junior_marzo__Q29]]
 
 
 
@@ -1303,8 +1464,19 @@ Probability that a 9-digit number is divisible by 18
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of digits of the smallest of 8 integers divisible by last digit*
+*What is the sum of the digits of the smallest of these eight integers?*
 
-> 30. Eight consecutive three-digit positive integers are such that each of them is divisible by its last digit. How much is the sum of the digits of the smallest of these eight integers? JUNIOR A) 10 B) 11 C) 12 D) 13 E) 14
+> Eight consecutive positive three-digit integers are such that each of them is divisible by its last digit. What is the sum of the digits of the smallest of these eight integers?
+>
+> A) 10
+> B) 11
+> C) 12
+> D) 13
+> E) 14
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_junior_marzo#q30|src_kangourou_2020_junior_marzo__Q30]]

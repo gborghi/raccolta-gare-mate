@@ -39,19 +39,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many perfect squares < 100 are also perfect cubes*
+*How many perfect squares less than 100 are also perfect cubes?*
 
-> (Points 2) How many positive integers that are perfect squares of a number less than 100 are also perfect cubes? A) 4
-> 	
-> B) 3
-> 	
-> C) 2
-> 	
-> D) 1
-> 	
+> (Point 2) How many positive integers that are perfect squares of a number less than 100 are also perfect cubes?
+> A) 4	
+>
+> B) 3	
+>
+> C) 2	
+>
+> D) 1	
+>
 > E) 0
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q01|src_kangourou_2019_benjamin_semif__Q01]]
 
 
 
@@ -83,11 +88,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many angles identical to epsilon the plane is distributed*
+*Into how many angles identical to epsilon is the plane divided?*
 
-> (Points 3) By tracing in a plane 5 half-lines all originating in the same point O, we divided the plane itself into 5 angles α, β, γ, δ, ε, all different from each other. Other plane distributions can be obtained by placing together (with vertex at point O) 3 angles identical to α, or 4 identical to β, or 5 identical to γ, or 6 identical to δ. In how many angles identical to ε can the plane be divided? A) 12 B) 15 C) 18 D) 20 E) 24
+> (Point 3) By drawing 5 rays in a plane, all having their origin at the same point O, we have divided the plane itself into 5 angles α, β, γ, δ, ε, all of which are different from one another. Other divisions of the plane can be obtained by placing side by side (with vertex at point O) 3 angles identical to α, or 4 angles identical to β, or 5 angles identical to γ, or 6 angles identical to δ. Into how many angles identical to ε can the plane be divided?
+> A) 12	 	
+> B) 15	 	
+> C) 18	 	
+> D) 20	 	
+> E) 24
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q02|src_kangourou_2019_benjamin_semif__Q02]]
 
 
 
@@ -124,20 +139,21 @@ level: kangourou
 
 *Which room is in the center of the corridor (constraints)*
 
-> (3 points) The five rooms of an amateur chess and bridge club all face the same side of a 
-> corridor: besides the chess room and the bridge room, there are a library, a bar and a dining room. 
-> It is known that the library is adjacent to the chess room but not to the bar, the dining room is adjacent both to the 
-> bridge room and to the bar, and that the latter is not at either of the two ends of the corridor. Which room 
-> is located in the center of the corridor?
-> A) The library	
-	
-> B) The chess room	
-	
+> (Point 3) The five rooms of an amateur chess and bridge club all face the same side of a corridor: besides the chess room and the bridge room, there is a library, a bar, and a dining room. It is known that the library borders the chess room but not the bar, that the dining room borders both the bridge room and the bar, and that the bar is not at either end of the corridor. Which room is located in the middle of the corridor?
+> A) The library
+>
+> B) The Chess Room
+>
 > C) The dining room
-> D) The bridge room	 	
+> D) The bridge room
 > E) The bar
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q03|src_kangourou_2019_benjamin_semif__Q03]]
 
 
 
@@ -183,7 +199,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which polygon cannot be detached with a cut*
+*Which polygon cannot be detached by a cut?*
 
 ![[src_kangourou_2019_benjamin_semif__prob4.png]]
 
@@ -195,17 +211,23 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 4) From a cardboard we carved a seven-sided polygon like the one shown in the figure. Now, with a single straight cut, we want to separate from this polygon another polygon (like this one, not regular or even convex) with a different number of sides. Which of the following polygons can't be detached? A) A pentagon
-> 	
+> (Point 4) From a piece of cardboard, we cut out a 7-sided polygon like the one shown in the figure. Now, with a single straight cut, we want to detach from this polygon another polygon (like this one—neither regular nor convex) having a different number of sides. Which of the following polygons cannot be detached?
+> A) A pentagon
+>
 > B) A hexagon
-> 	
+>
 > C) An octagon
-> 	
+>
 > D) A decagon
-> 	
-> E) None of the above answers is correct
+>
+> E) None of the preceding answers is correct
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q04|src_kangourou_2019_benjamin_semif__Q04]]
 
 
 
@@ -238,17 +260,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many A+B values with A869B divisible by 12*
+*How many values of A+B are there such that A869B is divisible by 12?*
 
-> (Points 4) A and B are two digits such that the integer A869B is divisible by 12. How many different values of the sum A + B can be? A) 4
-> 	
-> B) 6
-> 	
-> C) 8
-> 	
-> D) 10 E) 12
+> (Point 4) A and B are two digits such that the integer A869B is divisible by 12. How many different values can the sum A + B have?
+> A) 4	
+>
+> B) 6	
+>
+> C) 8	
+>
+> D) 10	 	
+> E) 12
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q05|src_kangourou_2019_benjamin_semif__Q05]]
 
 
 
@@ -293,7 +322,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of the four angular numbers in the grid*
+*Minimum sum of the four angle numbers in the grid*
 
 ![[src_kangourou_2019_benjamin_semif__prob6.png]]
 
@@ -306,11 +335,20 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 4) In each of the unshaded cells of the grid in the figure, one and only one integer from 1 to 8 was written and all these integers were used. The four sums of the numbers in the two rows and in the two columns at the edges of the grid are all equal to each other. What is the minimum possible value for the sum of the four numbers in the corner cells? A) 9
-> 	
-> B) 10 C) 11 D) 12 E) 16
+> (Point 4) In each of the unshaded cells of the grid in the figure, exactly one integer from 1 to 8 has been written, and all these integers have been used. The four sums of the numbers in the two rows and the two columns at the edges of the grid are all equal to one another. What is the minimum possible value of the sum of the four numbers in the corner cells?
+> A) 9	
+>
+> B) 10	 	
+> C) 11	 	
+> D) 12	 	
+> E) 16
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q06|src_kangourou_2019_benjamin_semif__Q06]]
 
 
 
@@ -343,13 +381,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of days for which the second proposal is suitable*
+*Minimum number of days for which the second option is worthwhile*
 
-> (Points 5) Maria is looking for work and has to consider two different salary proposals: the first proposal provides a fixed daily wage of EUR 100 for each working day; the second one provides a wage that increases by EUR 10 per working day, starting the first day with EUR 50 and continuing the second with EUR 60 and so on. How many days at least do you have to work for the second proposal to be more advantageous? A) 9
-> 	
-> B) 10 C) 11 D) 12 E) 20
+> (Point 5) Maria is looking for work and has to evaluate two different salary offers: the first offer provides a fixed daily wage of 100 euros for each day worked; the second offers a wage that increases by 10 euros for each day worked, starting at 50 euros on the first day and continuing at 60 euros on the second day, and so on. What is the minimum number of days she needs to work for the second offer to become more advantageous?
+> A) 9	
+>
+> B) 10	 	
+> C) 11	 	
+> D) 12	 	
+> E) 20
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q07|src_kangourou_2019_benjamin_semif__Q07]]
 
 
 
@@ -385,13 +431,21 @@ level: kangourou
 
 *Number in third place with sums of consecutive squares*
 
-> (Points 5) The integers from 1 to 17 included have been aligned so that the sum of two consecutive numbers is always a perfect square, that the number in the first place is greater than the number in the last (and of course in the alignment each one appears only once). What number is in the third position of the alignment? A) 14 B) 13 C) 4
-> 	
-> D) 3
-> 	
+> (Point 5) The integers from 1 to 17 inclusive have been arranged in a sequence such that the sum of any two consecutive numbers is always a perfect square, the number in the first position is greater than the one in the last position (and, of course, in the sequence each number appears exactly once). Which number is in the third position in the sequence?
+> A) 14	 	
+> B) 13	 	
+> C) 4	
+>
+> D) 3	
+>
 > E) 1
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q08|src_kangourou_2019_benjamin_semif__Q08]]
 
 
 
@@ -447,7 +501,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many different hexagonal decoration with coloured triangles*
+*How many different hexagon patterns with colored little triangles?*
 
 ![[src_kangourou_2019_benjamin_semif__prob9.png]]
 
@@ -464,20 +518,26 @@ level: kangourou
 \end{document}
 ```
 
-> (Points 6) By placing six equal equilateral triangles side by side, you get a regular hexagon. Assume that the starting equilateral triangles are each divided into three (equal) small triangles with one vertex in the center of the equilateral triangle, of which two are grey and one is white (see figure). Suppose that they are brought together so that along each of the conjunction sides of the equilateral triangles there are always small triangles of the same colour. How many different hexagonal decorations could you get? A) 6
-> 	
-> B) 5
-> 	
-> C) 4
-> 	
-> D) 3
-> 	
-> E) 2
-> 	
-> 	
+> (Point 6) By joining six identical equilateral triangles, a regular hexagon is formed. Suppose each of the initial equilateral triangles is divided into three (identical) small triangles with one vertex at the center of the equilateral triangle, two of which are grey and one white (see figure). Suppose you join them in such a way that, along each of the sides where the equilateral triangles meet, small triangles of the same colour always appear. How many different "decorations" of hexagons could you obtain?
+> A) 6	
+>
+> B) 5	
+>
+> C) 4	
+>
+> D) 3	
+>
+> E) 2	
+>
+>
 > Open-ended questions
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q09|src_kangourou_2019_benjamin_semif__Q09]]
 
 
 
@@ -504,13 +564,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Digit in the 2019th position of the sequence 20189102...*
+*The digit in the 2019th position of the sequence 20189102...*
 
-> (4 points) By placing the numbers 2018 and 9102 alternately side by side, one can obtain a sequence of digits as long as one wishes:
-> 20189102201891022018910220189102201891022018910220189102…
-> What is the digit that is found in the 2019th position of this sequence (if one starts with 2018)?
+> (Point 4) By alternately adjoining the numbers 2018 and 9102, one can obtain a sequence of digits of any desired length: 20189102201891022018910220189102201891022018910220189102… What is the digit in the 2019th position of this sequence (if one starts with 2018)?
 
-**Answer:** 63
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q10|src_kangourou_2019_benjamin_semif__Q10]]
 
 
 
@@ -535,12 +598,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of M two-digit number with M×k=2331*
+*Value of M: a two-digit number such that M*k=2331*
 
-> (5 points) Davide wrote a positive integer M with two (significant) digits. He noticed that, by multi­
-> plying it by another positive integer smaller than M, he obtains the number 2331. What is the value of M ?
+> (Point 5) Davide has written a positive two-digit (significant) integer M. He has noticed that, when he multiplies M by another positive integer smaller than M, he gets the number 2331. What is the value of M?
 
-**Answer:** 63
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q11|src_kangourou_2019_benjamin_semif__Q11]]
 
 
 
@@ -567,11 +634,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers at the vertices of the lower face of the cube*
+*Sum of the numbers at the vertices of the bottom face of the cube*
 
-> Luisa wrote some numbers at the vertices of a cube. If you count the sum of the numbers that are in the vertices of the face you see on the right, you get 14, if you count the numbers that are in the vertices of the face you see on the left, you get 22; if you count the numbers that are in the vertices of the top face, you get 18. What is the sum of the numbers at the vertices of the bottom face?
+> (Question 5) Luisa has written some numbers at the vertices of a cube. If she calculates the sum of the numbers at the vertices of the face she sees on the right, she gets 14; if she calculates the sum of the numbers at the vertices of the face she sees on the left, she gets 22; if she calculates the sum of the numbers at the vertices of the top face, she gets 18. What is the sum of the numbers at the vertices of the bottom face?
 
-**Answer:** 18
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q12|src_kangourou_2019_benjamin_semif__Q12]]
 
 
 
@@ -597,11 +669,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many minutes to fill the tank with 10 taps*
+*How many minutes to fill the tank with 10 taps?*
 
-> (Points 6) A tank can be filled with 10 taps. One of them can fill it in 1 day; two of the remaining can fill it each in 12 hours, three of the remaining can fill it each in 8 hours and the remaining 4 can fill it each in 6 hours. If all the taps are opened simultaneously, how many minutes are necessary (and sufficient) to fill the tank?
+> (Point 6) A tank can be filled by 10 taps. One of them can fill it in 1 day; two of the remaining taps can each fill it in 12 hours, 3 of the remaining taps can each fill it in 8 hours, and the remaining 4 can each fill it in 6 hours. If all the taps are opened simultaneously, how many minutes are needed (and sufficient) to fill the tank?
 
-**Answer:** 48
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q13|src_kangourou_2019_benjamin_semif__Q13]]
 
 
 
@@ -625,12 +701,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest integer that is not even, not a square, not prime, not a multiple of 3*
+*Smallest integer that is not odd, not a perfect square, not prime, not a multiple of 3*
 
-> (6 points) What is the smallest positive integer that is not even, is not a perfect square, is not a 
-> prime number and is not a multiple of 3?
+> (Point 6) What is the smallest positive integer that is not even, is not a perfect square, is not a prime number, and is not a multiple of 3?
 
-**Answer:** 35
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q14|src_kangourou_2019_benjamin_semif__Q14]]
 
 
 
@@ -658,11 +737,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which card has not been drawn (residues mod 3,4,5)*
+*Which card was not drawn (remainders mod 3, 4, 5)*
 
-> From the same deck of seven cards, each numbered with a different number from 1 to 7, Alice, Bianca, and Carla each take two cards. They find that both of Alice's cards give the same remainder when she divides by 3, both of Bianca's cards give the same remainder when she divides by 4, and both of Carla's cards give the same remainder when she divides by 5. What card hasn't been drawn? Give 9999 as an answer if you think it's impossible to establish for sure.
+> (Point 6) From the same deck of 7 cards, each numbered with a different number from 1 to 7, Alice, Bianca, and Carla each draw two cards. They find that both cards drawn by Alice leave the same remainder when divided by 3, both cards drawn by Bianca leave the same remainder when divided by 4, and both cards drawn by Carla leave the same remainder when divided by 5. Which card was not drawn? Give 9999 as the answer if you think it is impossible to determine this with certainty.
 
-**Answer:** 4
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q15|src_kangourou_2019_benjamin_semif__Q15]]
 
 
 
@@ -689,9 +773,13 @@ level: kangourou
 
 *Perimeter of rectangle R divided into 4 rectangles*
 
-> (Points 7) A rectangle R is divided by two straight lines into 4 rectangles. It is known that three of the perimeters of these rectangles are 11 cm, 16 cm and 19 cm and that the perimeter of the fourth is neither the smallest nor the largest. How many centimeters does the perimeter of the R rectangle measure ?
+> (Point 7) A rectangle R is divided by two straight lines into 4 rectangles. It is known that three of the perimeters of these rectangles are 11 cm, 16 cm, and 19 cm, and that the perimeter of the fourth is neither the smallest nor the largest. How many centimetres is the perimeter of rectangle R?
 
-**Answer:** 30
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q16|src_kangourou_2019_benjamin_semif__Q16]]
 
 
 
@@ -741,7 +829,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum counters on the 21-gon with all different distances*
+*Maximum number of pawns on the 21-gon, with all distances different*
 
 ![[src_kangourou_2019_benjamin_semif__prob17.png]]
 
@@ -766,12 +854,14 @@ level: kangourou
 \end{document}
 ```
 
-> (7 points) In the figure you see a regular polygon with 21 sides. Andrea has many counters
-> that he wants to place on the vertices of this polygon in such a way that, for every pair of
-> vertices covered by counters, the distances between the vertices are all different. What is the maximum number of counters
-> he can place?
+> (Point 7) In the figure, you can see a regular polygon with 21 sides. Andrea has many pawns and wants to place them on the vertices of this polygon in such a way that, for every pair of vertices occupied by pawns, all the distances between the vertices are different. What is the maximum number of pawns he can place?
 
-**Answer:** 5
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q17|src_kangourou_2019_benjamin_semif__Q17]]
 
 
 
@@ -806,10 +896,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mother/Mother ratio between the same number of years*
+*Relationship eta mamma/Mara over the same number of years*
 
-> Today is the birthday of Mara and her mother: her mother's age is five times Mara's and a number of years ago it was even seven times Mara's. Between the same number of years, dividing the age of the mother by that of Mara, what number will be obtained?
-> 
+> (Point 8) Today is Mara's birthday and her mother's birthday too: the mother's age is five times Mara's age, and a certain number of years ago, it was even seven times Mara's age. In the same number of years, if you divide the mother's age by Mara's age, what number will you get?
+>
 > 0001 0063 0018 0048 0035 0004 0030 0005 0004
 
-**Answer:** 4
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_benjamin_semif#q18|src_kangourou_2019_benjamin_semif__Q18]]

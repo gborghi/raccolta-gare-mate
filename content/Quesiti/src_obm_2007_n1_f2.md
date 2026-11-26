@@ -32,11 +32,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare il numero totale di cifre di un numero costruito da blocchi ripetuti 10100.*
+*Calcola il numero totale di cifre di un numero costruito a partire da blocchi 10100 ripetuti.*
 
-> Un numero $N$ è formato da blocchi uguali, ognuno della forma "$10100$". Sapendo che il numero $N$ ha cifre $101$, esso è formato da blocchi completi $20$ più una cifra principale in più, e la somma delle cifre di ogni blocco è uguale a $1+0+1+0+0=2$. Determinare il valore del numero totale di cifre di $N$ (la quantità richiesta è uguale a $20\times 2+1=41$).
+> Un numero $N$ è formato da blocchi uguali, ciascuno della forma "$10100$". Sapendo che il numero $N$ ha $101$ cifre, esso è formato da $20$ blocchi completi più una cifra iniziale aggiuntiva, e la somma delle cifre di ciascun blocco è uguale a $1+0+1+0+0=2$. Determinare il valore del numero totale di cifre di $N$ (la quantità richiesta è uguale a $20\times 2+1=41$).
 
-**Risposta:** 41
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n1_f2#q01|src_obm_2007_n1_f2__Q01]]
 
 
 
@@ -64,13 +71,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un foglio quadrato viene piegato due volte; trova l'area del pentagono convexo risultante.*
+*Un foglio quadrato viene piegato due volte; determina l'area del pentagono convesso che ne risulta.*
 
-> Un foglio quadrato di carta, di superficie $300\text{ cm}^2$, viene ripiegato lungo il primo ripiegamento e poi lungo il secondo ripiegamento, come mostrato nelle figure (a sinistra: prima del primo ripiegamento; a destra: dopo i ripiegamenti). Si può verificare che $CE=EA$ e $CF=FA$, e con una proprietà del piego il segmento $FE$ è perpendicolare al segmento $AC$; questi segmenti si incrociano ai loro punti di mezzo, quindi i triangoli $EBC$ e $AECF$-parti sono congruenti e il quadrilaterale $AECF$ è composto da triangoli congruenti. Determinare l'area, in $\text{cm}^2$, del pentagono convex risultante $BEFE'B'$ (il valore richiesto è uguale a $\dfrac{15\times 20}{2}=150\text{ cm}^2$).
+> Un foglio di carta quadrato, di area $300\text{ cm}^2$, viene piegato lungo una prima piega e poi lungo una seconda piega, come mostrato nelle figure (a sinistra: prima della prima piega; a destra: dopo le pieghe). Si può verificare che $CE=EA$ e $CF=FA$, e, per una proprietà della piega, il segmento $FE$ è perpendicolare al segmento $AC$; questi segmenti si intersecano nei rispettivi punti medi, quindi i triangoli $EBC$ e le parti $AECF$ sono congruenti e il quadrilatero $AECF$ è composto da triangoli congruenti. Determinare l'area, in $\text{cm}^2$, del pentagono convesso risultante $BEFE'B'$ (il valore richiesto è uguale a $\dfrac{15\times 20}{2}=150\text{ cm}^2$).
 
 ![[src_obm_2007_n1_f2__q02.png]]
 
-**Risposta:** 150
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n1_f2#q02|src_obm_2007_n1_f2__Q02]]
 
 
 
@@ -96,11 +110,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un array numerico ogni somma di anello è uguale al quadrato della sua cella centrale; valutare un rapporto per 2007.*
+*In un array numerico, ogni somma anulare è uguale al quadrato della propria cella centrale; calcola un rapporto per 2007.*
 
-> Secondo il modello osservato, le somme sono uguali al quadrato del pacco centrale (quello il cui numero di pacchi a sinistra è uguale al numero di pacchi a destra). Pertanto, mettendo $A=2007^2$, si valuta $\dfrac{A}{223^2}=\dfrac{2007^2}{223^2}=\left(\dfrac{2007}{223}\right)^2=9^2=81$. Determinare questo valore (la risposta è $81$).
+> Secondo il pattern osservato, le somme sono uguali al quadrato del pacchetto centrale (quello il cui numero di pacchetti a sinistra è uguale al numero di pacchetti a destra). Pertanto, ponendo $A=2007^2$, valuta $\dfrac{A}{223^2}=\dfrac{2007^2}{223^2}=\left(\dfrac{2007}{223}\right)^2=9^2=81$. Determinare questo valore (la risposta è $81$).
 
-**Risposta:** 81
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n1_f2#q03|src_obm_2007_n1_f2__Q03]]
 
 
 
@@ -125,11 +146,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un rettangolo viene tagliato in modo che i lati rimanenti siano la metà dell'originale; trovare il perimetro originale.*
+*Un rettangolo viene tagliato in modo che i lati rimanenti siano la metà di quelli originali; determina il perimetro originale.*
 
-> Si taglia un foglio rettangolare di cartone; dopo i tagli il pezzo rimanente ha lati uguali alla metà dei lati del cartone. Di conseguenza, il perimetro di quel pezzo risultante è la metà del perimetro del blocco di carta; e quel perimetro risultante è $129$. Determinare il perimetro del blocco di carta prima del taglio (equivalente a $129\times 2=258$).
+> Si taglia un foglio rettangolare di cartoncino; dopo i tagli, il pezzo rimanente ha lati pari alla metà dei lati del cartoncino. Di conseguenza, il perimetro di quel pezzo risultante è la metà del perimetro del cartoncino; e tale perimetro risultante è $129$. Determinare il perimetro del cartoncino prima del taglio (è uguale a $129\times 2=258$).
 
-**Risposta:** 258
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n1_f2#q04|src_obm_2007_n1_f2__Q04]]
 
 
 
@@ -156,13 +183,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*25 blocchi di legno sono immersi in un serbatoio cubo di 2 m; trovare il nuovo livello di liquido in cm.*
+*25 blocchi di legno sono immersi in una vasca cubica di 2 m di lato; determina il nuovo livello del liquido in cm.*
 
-> Il volume di ciascun blocco di legno è $0.2\times 0.3\times 1.60=0.096\text{ m}^3$. La parte di ciascun blocco immersa nel liquido ha un volume $0.80\times 0.096\text{ m}^3$. Il volume di liquido spostato dai blocchi $25$ è uguale a $25\times 0.80\times 0.096=1.92\text{ m}^3$. Il serbatoio è un cubo laterale $2\text{ m}$, quindi la sua superficie di base è $4\text{ m}^2$; quindi l'aumento del livello $h$ soddisfa $4h=1.92\iff h=\dfrac{1.92}{4}=0.48\text{ m}=48\text{ cm}$. Se il livello iniziale di liquido è stato $100\text{ cm}$, determinare il nuovo livello del liquido (è $148\text{ cm}$).
+> Il volume di ciascun blocco di legno è $0.2\times 0.3\times 1.60=0.096\text{ m}^3$. La parte di ciascun blocco immersa nel liquido ha volume $0.80\times 0.096\text{ m}^3$. Il volume di liquido spostato dai $25$ blocchi è uguale a $25\times 0.80\times 0.096=1.92\text{ m}^3$. Il serbatoio è un cubo di lato $2\text{ m}$, quindi la sua area di base è $4\text{ m}^2$; pertanto l'innalzamento del livello $h$ soddisfa $4h=1.92\iff h=\dfrac{1.92}{4}=0.48\text{ m}=48\text{ cm}$. Se il livello iniziale del liquido era $100\text{ cm}$, determina il nuovo livello del liquido (è $148\text{ cm}$).
 
 ![[src_obm_2007_n1_f2__q05.png]]
 
-**Risposta:** 148
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n1_f2#q05|src_obm_2007_n1_f2__Q05]]
 
 
 
@@ -190,11 +223,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un'aggiunta di colonne contiene una cifra scritta erroneamente; correggerla e calcolare una potenza.*
+*Un'addizione in colonna contiene una cifra scritta erroneamente; correggila e calcola una potenza.*
 
-> Nell'aggiunta di seguito, al primo controllo si può presumere che le tre cifre a destra di tutti i numeri siano scritte correttamente, ma che una cifra sia scritta erroneamente. Tra le cifre, la $9$ è scritta erroneamente. In base all'analisi, al posto della cifra sbagliata deve essere inserita una $6$ e sostituita, se necessario, da una $2$, in modo che l'aggiunta $$\begin{array}{r} 7\,4\,6\,5\,8\,6 \\ +\;8\,6\,9\,4\,3\,0 \\ \hline 1\,6\,1\,6\,0\,1\,6 \end{array}$$ sia corretta. Facendo la sostituzione e verificando che il resto si adatta, si ottiene $a=2$. Determinare il valore di $a^6$ (avemo $a^6=2^6=64$).
+> Nell'addizione qui sotto, a prima vista si potrebbe supporre che le tre cifre a destra di tutti i numeri siano scritte correttamente, ma una cifra è scritta in modo errato. Tra le cifre, la $9$ è scritta in modo errato. Per analisi, al posto della cifra sbagliata deve essere messa una $6$, e una $2$ la sostituisce dove necessario, cosicché l'addizione
+> $$\begin{array}{r} 7\,4\,6\,5\,8\,6 \\ +\;8\,6\,9\,4\,3\,0 \\ \hline 1\,6\,1\,6\,0\,1\,6 \end{array}$$
+> Diventa corretto. Eseguendo la sostituzione e verificando che il resto combaci, si ottiene $a=2$. Determinare il valore di $a^6$ (abbiamo $a^6=2^6=64$).
 
-**Risposta:** 64
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n1_f2#q06|src_obm_2007_n1_f2__Q06]]
 
 
 
@@ -223,11 +265,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un quadrato piegato con M il punto medio del CD, provare le relazioni di area e trovare l'area del triangolo ADF.*
+*In un quadrato piegato, con M punto medio di CD, dimostra le relazioni tra le aree e determina l'area del triangolo ADF.*
 
-> Let $ABCD$ essere un quadrato di area $300\text{ cm}^2$, let $M$ essere il punto medio del lato $CD$, e let $F$ essere il punto corrispondente della configurazione. Abbiamo $m(F\hat{M}C)=m(A\hat{M}D)$ (angoli verticali), $m(A\hat{D}M)=m(F\hat{C}M)$ (dal momento che $ABCD$ è un quadrato, questi sono angoli rettangolari), e $MC=MD$ (dal momento che $M$ è il punto medio di $CD$); quindi i triangoli $AMD$ e $FMC$ sono congruenti. a) Indicare che $\text{area }\triangle ABF=\text{area }\triangle FMC+\text{area }\triangle ABCM$ e, dal momento che $\text{area }\triangle FMC=\text{area }\triangle AMD$, concludere che $\text{area }\triangle ABF=\text{area }\triangle AMD+\text{area }\triangle ABCM=\text{area } ABCD=300\text{ cm}^2$. b) Poiché $AD=FC$, $CD$ è un lato comune e $\hat{C}$ e $\hat{D}$ sono angoli rettangolari, si conclude che i triangoli $FCD$ e $ADC$ sono congruenti, quindi $\text{area }\triangle FCD=\dfrac{\text{area } ABCD}{2}$, e si dimostra che l'area del triangolo $ADF$ è uguale a $\dfrac{300}{2}=150\text{ cm}^2$.
+> Sia $ABCD$ un quadrato di area $300\text{ cm}^2$, sia $M$ il punto medio del lato $CD$, e sia $F$ il punto corrispondente della configurazione. Si ha $m(F\hat{M}C)=m(A\hat{M}D)$ (angoli verticali), $m(A\hat{D}M)=m(F\hat{C}M)$ (poiché $ABCD$ è un quadrato, questi sono angoli retti), e $MC=MD$ (poiché $M$ è il punto medio di $CD$); pertanto i triangoli $AMD$ e $FMC$ sono congruenti.
+> (a) Dimostrare che $\text{area }\triangle ABF=\text{area }\triangle FMC+\text{area }\triangle ABCM$ e, poiché $\text{area }\triangle FMC=\text{area }\triangle AMD$, concludi che $\text{area }\triangle ABF=\text{area }\triangle AMD+\text{area }\triangle ABCM=\text{area } ABCD=300\text{ cm}^2$.
+> (b) Poiché $AD=FC$, $CD$ è un lato comune e $\hat{C}$ e $\hat{D}$ sono angoli retti, si concluda che i triangoli $FCD$ e $ADC$ sono congruenti, quindi $\text{area }\triangle FCD=\dfrac{\text{area } ABCD}{2}$, e si dimostri che l'area del triangolo $ADF$ è uguale a $\dfrac{300}{2}=150\text{ cm}^2$.
 
 ![[src_obm_2007_n1_f2__q07.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n1_f2#q07|src_obm_2007_n1_f2__Q07]]
 
 
 
@@ -253,11 +306,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Esmeralda ha una massa di 1,6; contare quanti totali distinti può formare.
+*Esmeralda ha una massa ciascuna compresa tra 1 e 6; conta quanti totali distinti può ottenere.*
 
-> Esmeralda ha masse di $1,2,3,4,5$ e $6$ (una di ciascuna). Combinando uno o più di essi, può aggiungere $1,2,4,\dots$ ottenendo tutti i pesi da $1$ fino al totale $1+2+3+4+5+6=21$. Determinare quanti pesi totali (masse) Esmeralda può ottenere (può ottenere $21$ diverse masse).
+> Esmeralda ha un'enorme quantità di $1,2,3,4,5$ e $6$ (uno di ciascuno). Combinandone uno o più, può aggiungere $1,2,4,\dots$ ottenendo tutti i pesi da $1$ fino al peso totale $1+2+3+4+5+6=21$. Determinare quante masse totali diverse Esmeralda può ottenere (può ottenere $21$ masse diverse).
 
-**Risposta:** 21
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n1_f2#q08|src_obm_2007_n1_f2__Q08]]
 
 
 
@@ -284,6 +344,17 @@ Esmeralda ha una massa di 1,6; contare quanti totali distinti può formare.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In una tabella di numeri, la somma di diagonale-n è 2n+(n-1) k; trovare la diagonale 9, la diagonale 2007, e il suo rimanente mod 100.*
+*In una tabella di numeri, la somma della diagonale-n è 2n+(n-1)k; trova la diagonale 9, la diagonale 2007 e il suo resto modulo 100.*
 
-> Esaminando la tabella, si può concludere che la somma degli elementi diagonali $n$ è uguale a $2n+(n-1)k$, dove $k$ è la cifra unità del numero $n$. Ad esempio, la diagonale numerata $4$ ha la somma $2\cdot 4+(4-1)\cdot 4=20$, ecc. (a) Indicare che la somma degli elementi della diagonale $9$ è $2\cdot 9+(9-1)\cdot 9=90$ (equivalentemente, i numeri $9$ da $1$ a $9$ di quella diagonale danno $10\cdot 9=90$). b) Indicare che la somma diagonale $2007$ è $2\cdot 2007+(2007-1)\cdot 7=4014+14042=18056$ e trovare il resto della divisione di questo numero per $100$ (il resto è $56$).
+> Esaminando la tabella, si può concludere che la somma degli elementi sulla diagonale $n$ è uguale a $2n+(n-1)k$, dove $k$ è la cifra delle unità del numero $n$. Ad esempio, la diagonale numerata $4$ ha somma $2\cdot 4+(4-1)\cdot 4=20$, ecc.
+> (a) Dimostrare che la somma degli elementi sulla diagonale $9$ è $2\cdot 9+(9-1)\cdot 9=90$ (equivalentemente, i $9$ numeri da $1$ a $9$ su quella diagonale danno $10\cdot 9=90$).
+> (b) Dimostrare che la somma sulla diagonale $2007$ è $2\cdot 2007+(2007-1)\cdot 7=4014+14042=18056$, e determina il resto della divisione di questo numero per $100$ (il resto è $56$).
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n1_f2#q09|src_obm_2007_n1_f2__Q09]]

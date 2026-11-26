@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pairi numerici naturali in cui (x+1)/y e (y+1)/x sono naturali*
+*Coppie di numeri naturali tali che (x+1)/y e (y+1)/x siano numeri naturali*
 
-> Trova tutte le coppie $(x, y)$ di numeri naturali in modo tale che i numeri $\frac{x+1}{y}$ e $\frac{y+1}{x}$ siano naturali.
+> Trovare tutte le coppie $(x, y)$ di numeri naturali tali che i numeri $\frac{x+1}{y}$ e $\frac{y+1}{x}$ siano naturali.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1995_r1#q01|src_pol_1995_r1__Q01]]
 
 
 
@@ -60,7 +67,18 @@ level: Olimpiade Polacca Round 1
 
 *Sistema ciclico di equazioni con valori assoluti, intero positivo n≥2*
 
-> Per un intero positivo $n \ge 2$, risolvere il seguente sistema di equazioni: $$x_1(n) = x_2(n) + |x_3(n) - 1| \cdot |x_n(n) - 1|,$$ $$x_2(n) = x_3(n) + |x_4(n) - 1| \cdot |x_1(n) - 1|,$$ $$\vdots$$ $$x_n(n) = x_1(n) + |x_2(n) - 1| \cdot |x_{n-1}(n) - 1|.$$
+> Per un intero positivo $n \ge 2$, risolvere il seguente sistema di equazioni:
+> $$x_1(n) = x_2(n) + |x_3(n) - 1| \cdot |x_n(n) - 1|,$$
+> $$x_2(n) = x_3(n) + |x_4(n) - 1| \cdot |x_1(n) - 1|,$$
+> $$\vdots$$
+> $$x_n(n) = x_1(n) + |x_2(n) - 1| \cdot |x_{n-1}(n) - 1|.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1995_r1#q02|src_pol_1995_r1__Q02]]
 
 
 
@@ -83,9 +101,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterali ciclici con a2+b2+c2+d2=8R2: angolo retto o diagonali perpendicolari*
+*Quadrilatero ciclico con a²+b²+c²+d²=8R²: angolo retto o diagonali perpendicolari*
 
-> Un quadrilaterale con lati $a, b, c, d$ è inserito in un cerchio di raggio $R$. Prova che se $a^2 + b^2 + c^2 + d^2 = 8R^2$, allora o nessuno degli angoli del quadrilaterale è giusto, o le sue diagonali sono perpendicolari.
+> Un quadrilatero con lati $a, b, c, d$ è inscritto in una circonferenza di raggio $R$. Dimostrare che, se $a^2 + b^2 + c^2 + d^2 = 8R^2$, allora oppure i suoi angoli non sono tutti retti, oppure le sue diagonali sono perpendicolari.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1995_r1#q03|src_pol_1995_r1__Q03]]
 
 
 
@@ -108,9 +133,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*19 studenti, 5 olimpiadi, tre in coppia comuni; due olimpiadi in comune ≥7*
+*19 studenti, 5 olimpiadi, tre a coppie in comune; due olimpiadi condividono ≥7*
 
-> In ciascuna scuola 19 studenti partecipano a cinque diverse Olimpiadi. In ciascuna olimpiada partecipano almeno 19 studenti, ma nessuno degli studenti partecipa a più di tre olimpiadi. Prova che se ogni tre Olimpiadi hanno un partecipante comune, allora ci sono almeno due Olimpiadi con almeno 7 partecipanti comuni.
+> In ciascuna scuola, 19 studenti partecipano a cinque olimpiadi diverse. In ciascuna olimpiade partecipano almeno 19 studenti, ma nessuno studente partecipa a più di tre olimpiadi. Dimostrare che, se ogni tre olimpiadi hanno un partecipante in comune, allora ci sono almeno due olimpiadi che hanno almeno 7 partecipanti in comune.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1995_r1#q04|src_pol_1995_r1__Q04]]
 
 
 
@@ -135,9 +167,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equivalenza di due condizioni sui risultati positivi a, b*
+*Equivalenza di due condizioni sui numeri reali positivi a, b*
 
-> Prove che le seguenti due condizioni per i numeri positivi $a, b$ sono equivalenti: (i) $\sqrt{a} + 1 > \sqrt{b}$, (ii) per ogni $x > \frac{1}{x-1}$, abbiamo $ax > b$.
+> Dimostrare che le seguenti due condizioni sui numeri positivi $a, b$ sono equivalenti: (i) $\sqrt{a} + 1 > \sqrt{b}$, (ii) per ogni $x > \frac{1}{x-1}$, si ha $ax > b$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1995_r1#q05|src_pol_1995_r1__Q05]]
 
 
 
@@ -160,9 +199,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ceviani dal punto interno; somma espressa a+b+c come prodotto*
+*Ceviane da un punto interno; esprimi la somma a+b+c come prodotto*
 
-> $P$ sia un punto all'interno di un triangolo $ABC$. I raggi $AP$, $BP$, $CP$ si intersecano rispettivamente a $BC$, $CA$, $AB$, $B'$ e $C'$. Set $a = AP/PA'$, $b = BP/PB'$, $c = CP/PC'$. Esprimere il prodotto della somma $a + b + c$.
+> Sia $P$ un punto all'interno di un triangolo $ABC$. I raggi $AP$, $BP$, $CP$ intersecano rispettivamente $BC$, $CA$, $AB$ in $A'$, $B'$, $C'$. Si pongano $a = AP/PA'$, $b = BP/PB'$, $c = CP/PC'$. Esprimi il prodotto della somma $a + b + c$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1995_r1#q06|src_pol_1995_r1__Q06]]
 
 
 
@@ -186,11 +232,17 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di una funzione differenziabile f tale che 2f·f'=0 oppure |2f·f'|≤1*
+*Esistenza di una f derivabile tale che 2f·f'=0 oppure |2f·f'|≤1*
 
-> (a) Esiste una funzione differenziabile $f : \mathbb{R} \to \mathbb{R}$, non identicamente uguale a $0$, tale che $2f(x) \cdot f'(x) = 0$ per ogni numero reale $x$?
->
-> (b) Esiste una funzione differenziabile $f : \mathbb{R} \to \mathbb{R}$, non identicamente uguale a $0$, tale che $-1 \le 2f(x) \cdot f'(x) \le 1$ per ogni numero reale $x$?
+> (a) Esiste una funzione derivabile $f : \mathbb{R} \to \mathbb{R}$, non identicamente uguale a $0$, tale che $2f(x) \cdot f'(x) = 0$ per ogni $x$ reale?
+> (b) Esiste una funzione differenziabile $f : \mathbb{R} \to \mathbb{R}$, non identicamente uguale a $0$, tale che $-1 \le 2f(x) \cdot f'(x) \le 1$ per ogni $x$ reale?
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1995_r1#q07|src_pol_1995_r1__Q07]]
 
 
 
@@ -214,9 +266,17 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piramida n-gon regolare: prova sin2α − sin2β ≥ tan2(π/n)*
+*Piramide regolare a n-gono: dimostrare che sin²α − sin²β ≥ tan²(π/n)*
 
-> In una piramide regolare con un normale $n$-gon come base, una faccia laterale e la base formano un angolo $\alpha$, mentre un bordo laterale e il bordo base formano un angolo $\beta$. Provare che $$\sin^2 \alpha - \sin^2 \beta \ge \tan^2 \frac{\pi}{n}.$$
+> In una piramide regolare avente come base un $n$-gono regolare, una faccia laterale e la base formano un angolo $\alpha$, mentre un spigolo laterale e lo spigolo di base formano un angolo $\beta$. Dimostrare che
+> $$\sin^2 \alpha - \sin^2 \beta \ge \tan^2 \frac{\pi}{n}.$$
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1995_r1#q08|src_pol_1995_r1__Q08]]
 
 
 
@@ -239,9 +299,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*a+b=1, a^b e b^a razionale implica a e b razionale*
+*a+b=1, a^b e b^a razionali implica che a e b siano razionali*
 
-> $a$ e $b$ siano numeri reali positivi con la somma $1$. Se $a^b$ e $b^a$ sono razionali, dimostrare che lo sono anche $a$ e $b$.
+> Siano $a$ e $b$ numeri reali positivi la cui somma è $1$. Se $a^b$ e $b^a$ sono razionali, dimostrare che anche $a$ e $b$ lo sono.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1995_r1#q09|src_pol_1995_r1__Q09]]
 
 
 
@@ -264,9 +331,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre coppie di raggi provenienti da punti collineari formano quadrilaterali; due tangenti implicano una terza tangente*
+*Tre coppie di raggi provenienti da punti collineari formano quadrilateri; due tangenti implicano la terza tangente*
 
-> Tre punti distinti sono indicati su una linea $k$. Da ciascuno di questi punti disegniamo una coppia di raggi in modo che tutti i raggi siano sullo stesso lato di $k$. Ogni due di queste tre coppie di raggi formano un quadrilaterale. Prova che se due di questi quadrilaterali sono tangenti, allora anche il terzo.
+> Sono dati tre punti distinti su una retta $k$. Da ciascuno di questi punti tracciamo una coppia di semirette in modo che tutte le semirette si trovino sullo stesso lato di $k$. Ogni coppia di queste tre coppie di semirette individua un quadrilatero. Dimostrare che, se due di questi quadrilateri sono tangenti, allora anche il terzo lo è.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1995_r1#q10|src_pol_1995_r1__Q10]]
 
 
 
@@ -289,9 +363,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Differenza attesa tra i più grandi e i più piccoli tra m tratti da {1,...,n}*
+*Differenza attesa tra il valore massimo e il valore minimo tra m estrazioni da {1,…,n}*
 
-> $n > m > 1$ siano numeri razionali. Tracciamo a caso $m$ numeri distinti dal set $\{1, 2, \ldots, n\}$. Trova il valore atteso della differenza tra il più grande e il più piccolo dei numeri tratti.
+> Siano $n > m > 1$ numeri razionali. Si estraggono a caso $m$ numeri distinti dall'insieme $\{1, 2, \ldots, n\}$. Determinare il valore atteso della differenza tra il massimo e il minimo dei numeri estratti.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1995_r1#q11|src_pol_1995_r1__Q11]]
 
 
 
@@ -316,6 +397,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza ricorrente; dimostrare che tutte le somme parziali sono inferiori a 1*
+*Successione ricorsiva; dimostrare che tutte le somme parziali sono minori di 1*
 
-> La sequenza $(x_n)$ viene data da $$x_1 = \frac{1}{2}, \qquad x_n = \frac{2n-3}{2n}\, x_{n-1} \text{ for all } n \ge 2.$$ Prove che per tutti $n \in \mathbb{N}$ contiene $x_1 + x_2 + \cdots + x_n < 1$.
+> La successione $(x_n)$ è data da
+> $$x_1 = \frac{1}{2}, \qquad x_n = \frac{2n-3}{2n}\, x_{n-1} \text{ for all } n \ge 2.$$
+> Dimostrare che per ogni $n \in \mathbb{N}$ vale $x_1 + x_2 + \cdots + x_n < 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1995_r1#q12|src_pol_1995_r1__Q12]]

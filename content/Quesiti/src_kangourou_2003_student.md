@@ -35,11 +35,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many carriages is the train made of*
+*How many carriages the train is made of*
 
-> On the train journey to Mirabilandia, Lisa sits in the seventh carriage from the train's head, while Marco sits in the sixth carriage from the tail; Marco is closer than Lisa to the train's head and among their carriages there is another carriage. How many carriages is the train made of? (a) 15 (b) 14 (c) 13 (d) 10 (e) indefinite reply
+> On the train journey to Mirabilandia, Lisa is sitting in the seventh carriage from the front of the train, while Marco is sitting in the sixth carriage from the rear; Marco is closer than Lisa to the front of the train, and between their carriages there is another carriage. How many carriages is the train made of?
+> A) 15
+> B) 14
+> C) 13
+> D) 10
+> E) the answer is indeterminate
 
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_student#q01|src_kangourou_2003_student__Q01]]
 
 
 
@@ -69,13 +77,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure area bounded by elastic (3 circles)*
+*The area of the figure bounded by the elastic band*
 
 ![[src_kangourou_2003_student__prob2.png]]
 
-> The area of the square in Figure 1 is a; we call b the area of each of the circles in Figures 1 and 2. In Figure 2, the three aligned circles are enclosed by a rubber band. If the elastic is shortened so that it is in tension, without changing the position of the three circles, what is the area of the figure bounded by the elastic? A) 3b B) 2a+b C) a+2b D) 3a E) a+b
+> The area of the square in figure 1 is "a"; we call "b" the area of each of the circles in figures 1 and 2. In figure 2, the three circles in a line are enclosed by an elastic band. If the elastic band is shortened so that it is taut, without changing the position of the three circles, what is the area of the figure bounded by the elastic band?
+> A) 3b
+> B) 2a+b
+> C) a+2b
+> D) 3a
+> E) a+b
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_student#q02|src_kangourou_2003_student__Q02]]
 
 
 
@@ -105,11 +121,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sphere volume correction with diameter instead of radius*
+*What one should do with the result to reach the correct answer*
 
-> Andrea calculated the volume of a sphere, but, in applying the known formula, he mistakenly used the diameter instead of the radius. What should he do with the result to get the right answer? A) Divide it by two B) Divide it by four. C) Divide it by six. D) Divide it by eight. E) Divide it by 16. n+2003        n+2003
+> Andrea has worked out the volume of a sphere, but, in applying the well-known formula, he used the diameter by mistake instead of the radius. What should he do with the result obtained, in order to reach the correct answer?
+> A) Divide it by two
+> B) Divide it by four.
+> C) Divide it by six.
+> D) Divide it by eight.
+> E) Divide it by sixteen.
+> n+2003
+> n+2003
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_student#q03|src_kangourou_2003_student__Q03]]
 
 
 
@@ -136,15 +162,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Simplification of powers 2^(n+2003)+2^(n+2003)*
+*The value of the expression*
 
 > 2
-> + 2           = 
+> + 2           =
 > n+2004               2n+4006             2n+4006                  2n+2003                 n+2003
-> A) 2             B)  2
-> C) 4                D)  4                 E) 4
+> A) 2
+> B) 2
+> C) 4
+> D) 4
+> E) 4
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_student#q04|src_kangourou_2003_student__Q04]]
 
 
 
@@ -181,24 +213,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which combination uniquely determines the triangle*
+*For which combination the triangle ABC is uniquely determined*
 
-> For which of the following combinations of sides and angles does a uniquely determined triangle ABC exist?
+> For which of the following combinations of sides and angles does there exist a triangle ABC that is uniquely determined?
 > A) AB = 11cm, BC = 19cm, CA = 7cm
-> B) AB = 11cm, BC = 6cm, ? BAC (i.e. measure of angle BAC) = 63°
+> B) AB = 11cm, BC = 6cm, ? BAC (that is, the size of the angle BAC) = 63°
 > C) AB = 11cm, CA = 7cm, ? CBA = 128°
 > D) AB = 11cm, ? BAC = 63°, ? CBA = 128°
 > E) None of the above.
 > Fig. 1
 > Fig. 2
-> 
-> Pag. 
-> Pag. 29
+>
+> Page
+> Page 29
 > 29
 > Kang 2003
 > Kang 2003
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_student#q05|src_kangourou_2003_student__Q05]]
 
 
 
@@ -229,11 +264,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Students promoted in 2003 from secondary education*
+*How many students the school passed in 2003*
 
-> The average number of students promoted by a particular school in the four years 1999 to 2002 was 325 students per year, while in the five years 1999 to 2003 the average was 20% higher. How many students were promoted from the school in 2003? A)  650 B)  600 C)  455 D)  390 E)  345
+> The average of the students passed by a certain school, in the four years 1999–2002, was 325 students a year, while in the five years 1999–2003 the average was 20% higher. How many students were passed by the school in 2003?
+> A) 650
+> B) 600
+> C) 455
+> D) 390
+> E) 345
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_student#q06|src_kangourou_2003_student__Q06]]
 
 
 
@@ -260,11 +303,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most likely value of difference of two dice*
+*The most likely value of the absolute difference of the two scores*
 
-> Let's draw two dice (with the faces numbered 1 to 6, as usual), look at the scores on the upper faces and calculate the difference. What is the most likely value for the absolute value of that difference? A) All numbers between 0 and 5 are equally likely B) 0 C) 1 D) 2 E) 3
+> We throw two dice (with the faces numbered from 1 to 6, as usual), look at the scores shown on the upper faces and work out their difference. What is the most likely value for the absolute value of that difference?
+> A) All the numbers from 0 to 5 are equally likely
+> B) 0
+> C) 1
+> D) 2
+> E) 3
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_student#q07|src_kangourou_2003_student__Q07]]
 
 
 
@@ -294,11 +346,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values of m for a single common point of curve/parabola*
+*The set of values of m for which the curves meet at exactly one point*
 
-> The set of all the values of the parameter m for which the curves of equations x2+y2 = 1 and y = x2+m have exactly one point in common is A) {-5/4, -1, 1} B) {-5/4, 1} C) {-1, 1} D) {-5/4} E) {1}
+> The set of all values of the parameter m for which the curves of equations x2+y2 = 1 and y = x2 + m have exactly one point in common is
+> A) {-5/4, -1, 1}
+> B) {-5/4, 1}
+> C) {-1, 1}
+> D) {-5/4}
+> E) {1}
 
+**Topic:** [[topic_geometria_analitica|Analytic geometry]], [[topic_algebra|Algebra]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_student#q08|src_kangourou_2003_student__Q08]]
 
 
 
@@ -329,13 +390,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to cover a chessboard with dominoes
+*How many distinct ways there are to cover the white squares with dominoes*
 
 ![[src_kangourou_2003_student__prob9.png]]
 
-> How many distinct ways are there to cover all the white squares on the chessboard in the figure, using the usual 1 x 2 dominoes? A) 8 B) 16 C) 32 D) 64 E) 128
+> How many distinct ways are there of covering all the white squares of the chessboard in the figure, using the usual 1 x 2 dominoes?
+> A) 8
+> B) 16
+> C) 32
+> D) 64
+> E) 128
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_student#q09|src_kangourou_2003_student__Q09]]
 
 
 
@@ -369,13 +439,24 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number that cannot appear (numerical triangle)*
+*Which number cannot appear in the shaded cell*
 
 ![[src_kangourou_2003_student__prob10.png]]
 
-> We build a numerical triangle by putting a whole number greater than 1 in each box, following the instructions below. Which of the following numbers cannot appear in the shadow box? Instructions A) 60 B) 88 C) 90 D) 100 E) 154 Questions from N. 11 to N. 20 are worth four points.
+> We build a number triangle by placing in each cell an integer greater than 1, following the instructions shown below. Which of the following numbers cannot appear in the shaded cell?
+> Instructions
+> A) 60
+> B) 88
+> C) 90
+> D) 100
+> E) 154
+> Questions 11 to 20 are worth 4 points
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_student#q10|src_kangourou_2003_student__Q10]]
 
 
 
@@ -419,31 +500,31 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of 5e+12f+13g (distances to the sides)*
+*The value of the expression 5e + 12f + 13g*
 
 ![[src_kangourou_2003_student__prob11.png]]
 
-> Let ABC be a triangle and let D be a point inside
-> the triangle, having distances e, f , g from the sides as
-> in the figure (which highlights the measurements of the sides). 
-> What is the value of the expression 5e + 12f + 13g?
-> A)  120
-> B)  90
-> C)  60
-> D)  30
-> E)  It is not possible to determine the value without further information on the
-> position of D.
+> Let ABC be a triangle and let D be a point inside the triangle, at distances e, f, g from the sides as in the figure (which shows the lengths of the sides). What is the value of the expression 5e + 12f + 13g?
+> A) 120
+> B) 90
+> C) 60
+> D) 30
+> E) It is not possible to determine the value without further information about the position of D.
 > X
 > Y
 > X x Y
-> 
-> Pag. 
-> Pag. 30
+>
+> Page
+> Page 30
 > 30
 > Kang 2003
 > Kang 2003
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_student#q11|src_kangourou_2003_student__Q11]]
 
 
 
@@ -474,18 +555,20 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of two white seagulls being adjacent*
+*The probability that the two white gulls are next to each other*
 
-> Two white seagulls and eight grey seagulls fly over a river.
-> Suddenly they land on one of the river banks, arranging themselves in a straight
-> line in random order. What is the probability that the two white seagulls are next to each other?
+> Two white gulls and eight grey gulls are flying over a river. Suddenly they land on one of the banks of the river, lining up in a straight line in random order. What is the probability that the two white gulls are next to each other?
 > A) 1/5
 > B) 1/6
 > C) 1/7
 > D) 1/8
 > E) 1/9
 
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_student#q12|src_kangourou_2003_student__Q12]]
 
 
 
@@ -512,11 +595,18 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nested root expression value 1+2003×2005*
+*The missing statement, with options from 2000 to 2004*
 
-> A) 2000 B) 2001 C) 2002 D) 2003 E) 2004
+> A) 2000
+> B) 2001
+> C) 2002
+> D) 2003
+> E) 2004
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_student#q13|src_kangourou_2003_student__Q13]]
 
 
 
@@ -547,11 +637,20 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Acute triangle area of 12,13,15*
+*The area of the acute triangle*
 
-> 12, 13 and 15 are the lengths (not necessarily in this order) of two sides of an acute triangle and the height relative to the third side. Determine the area of the triangle. (a) 168 (b) 80 (c) 84 (d) 6 (e) the area is not uniquely determined
+> 12, 13 and 15 are the lengths (not necessarily in this order) of two sides of an acute triangle and of the altitude to the third side. Find the area of the triangle.
+> A) 168
+> B) 80
+> C) 84
+> D) 6
+> E) the area is not uniquely determined
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_student#q14|src_kangourou_2003_student__Q14]]
 
 
 
@@ -581,11 +680,19 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many terms of seventh powers between 5^21 and 2^49*
+*How many terms of the sequence lie strictly between 521 and 249*
 
-> A computer prints the list of the seventh powers of the natural numbers, namely the sequence 17, 27, 37, ... and so on. How many terms in this sequence are strictly understood between the numbers 521 and 249? A)  13 B)  8 C)  5 D)  3 E)  2
+> A computer prints the list of the seventh powers of the natural numbers, that is the sequence 17, 27, 37, ... etc. How many terms of this sequence lie strictly between the numbers 521 and 249?
+> A) 13
+> B) 8
+> C) 5
+> D) 3
+> E) 2
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_student#q15|src_kangourou_2003_student__Q15]]
 
 
 
@@ -615,11 +722,20 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max n of two digits with 10^n + 1 multiple of 101*
+*The greatest possible value of n*
 
-> Now, since 10^n+1 is a multiple of 101 and n is a two-digit number, what's the maximum possible value for n? A) 92 B) 94 C)  96 D)  98 E) 99
+> Given that 10n +1 is a multiple of 101 and n is a two-digit number, what is the greatest possible value of n?
+> A) 92
+> B) 94
+> C) 96
+> D) 98
+> E) 99
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_student#q16|src_kangourou_2003_student__Q16]]
 
 
 
@@ -650,13 +766,21 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region shaded by two squares*
+*The area of the shaded region*
 
 ![[src_kangourou_2003_student__prob17.png]]
 
-> The figure shows two squares, with sides of 2 m and 1 m respectively. What's the area of the shaded region? A) 1 m2 B) 2 m2 C) 2√2 m2 D) 4 m2 E) Depends on the position of the two squares
+> The figure shows two squares, with sides of length 2 m and 1 m respectively. What is the area of the shaded region?
+> A) 1 m2
+> B) 2 m2
+> C) 2         m2
+> D) 4 m2
+> E) It depends on the position of the two squares
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_student#q17|src_kangourou_2003_student__Q17]]
 
 
 
@@ -681,12 +805,20 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum 100^2-99^2+...+2^2-1^2*
+*The value of the alternating sum*
 
-> The sum   1002 - 992 + 982 - …  + 22 - 12 is equal to
-> A) 2002;         B) 2020;           C) 4040;            D) 5050;            E) 8008
+> The sum 1002 - 992 + 982 - … + 22 - 12 is equal to
+> A) 2002
+> B) 2020
+> C) 4040
+> D) 5050
+> E) 8008
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_student#q18|src_kangourou_2003_student__Q18]]
 
 
 
@@ -742,13 +874,13 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of a^3+1/a^3 given a+1/a*
+*The value of the expression, given that a > 0*
 
-> Knowing that a > 0 and                      , what is the value of                  ? 
-> A) 4 
+> Given that a > 0 and , what is the value of ?
+> A) 4
 > B) 3
 > C) 6
-> D) 5 
+> D) 5
 > E) 6
 > 2005
 > 2003
@@ -771,14 +903,18 @@ How to cover a chessboard with dominoes
 > a
 > a
 > ?
-> 
-> Pag. 
-> Pag. 31
+>
+> Page
+> Page 31
 > 31
 > Kang 2003
 > Kang 2003
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_student#q19|src_kangourou_2003_student__Q19]]
 
 
 
@@ -813,13 +949,23 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of disjoint regions in inscribed polygons*
+*How many disjoint regions lie inside the last polygon*
 
 ![[src_kangourou_2003_student__prob20.png]]
 
-> So let's first draw an equilateral triangle, then let's draw the circle circumscribed about it; now let's circumscribe a square about this circle, and circumscribe another circle about the square; about this new circle let's circumscribe a regular pentagon, and so on. We repeat this construction, with new circumferences and new regular polygons (each having one side more than the previous one) until we trace the regular polygon of 16 sides. How many segregated regions are contained within the last polygon? A) 232 B) 240 C) 248 D) 264 E) 272 Questions from N. 21 al N. 30 is worth 5 points.
+> We first draw an equilateral triangle, then we draw the circle circumscribed about it; now we circumscribe a square about this circle, and about the square we circumscribe another circle; about this new circle we circumscribe a regular pentagon, and so on. We repeat this construction, with new circles and new regular polygons (each having one side more than the previous one) until we draw the regular polygon with 16 sides. How many disjoint regions are there inside the last polygon?
+> A) 232
+> B) 240
+> C) 248
+> D) 264
+> E) 272
+> Questions 21 to 30 are worth 5 points
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_student#q20|src_kangourou_2003_student__Q20]]
 
 
 
@@ -851,13 +997,22 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solutions of f(f(f(x)))=0 from the graph*
+*The set of all solutions of f(f(f(x))) = 0*
 
 ![[src_kangourou_2003_student__prob21.png]]
 
-> The graph of the function f, illustrated by the figure, consists of a segment and two semirettes. What is the set of all solutions of the equation f (f (f (x)))=0? A) {-4, 0} B) {-8, -4, 0} C) {-12, -8, -4, 0} D) Empty set E) {-16, -12, -8, -4, 0}
+> The graph of the function f, shown in the figure, consists of a segment and two half-lines. What is the set of all solutions of the equation f(f(f(x))) = 0?
+> A) {-4, 0}
+> B) {-8, -4, 0}
+> C) {-12, -8, -4, 0}
+> D) The empty set
+> E) {-16, -12, -8, -4, 0}
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_insiemi_funzioni|Sets and functions]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_student#q21|src_kangourou_2003_student__Q21]]
 
 
 
@@ -888,11 +1043,20 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum x whole on circumference*
+*The smallest possible value of x*
 
-> A point P(x, r) belongs to the circle with center (2,2) and radius r. Now, knowing that r > 2 and both x and r are positive integers, what's the smallest possible value for x? A) 1 B) 2 C) 4 D) 6 E) 8
+> A point P(x, r) lies on the circle with centre (2, 2) and radius r. Given that r > 2 and that both x and r are positive integers, what is the smallest possible value of x?
+> A) 1
+> B) 2
+> C) 4
+> D) 6
+> E) 8
 
+**Topic:** [[topic_geometria_analitica|Analytic geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_student#q22|src_kangourou_2003_student__Q22]]
 
 
 
@@ -922,17 +1086,20 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Properties of S=A+B+(A-B)+(A+B) with primes*
+*What one can say about S*
 
-> Suppose that A> B>1, and that B is a positive integer such that A, B, A-B,
-> A+B are all prime numbers. Then S=A+B+(A-B)+(A+B)
+> Suppose that A > B > 1, and that B is a positive integer such that A, B, A−B, A+B are all prime numbers. Then S = A+B+(A−B)+(A+B)
 > A) is even
 > B) is a multiple of 3
 > C) is a multiple of 5
 > D) is a multiple of 7
 > E) is a prime number
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_student#q23|src_kangourou_2003_student__Q23]]
 
 
 
@@ -978,11 +1145,32 @@ How to cover a chessboard with dominoes
 <div class="qlang-split" data-lang="en"></div>
 
 
-Price that maximizes profit
+*The selling price that maximises the profit*
 
-> The sales manager of a department store must determine the price of a sweater. A market survey revealed the following: if the price is 75 euros, 100 people will buy the sweater; every time the price increases by 5 euros, the number of buyers decreases by 20 units, and every time the price decreases by 5 euros, 20 more sweaters are sold. The cost of the sweaters for the department store is 30 euros each. What is the selling price (in euro) that maximizes profit? A) 80 B) 50 C) 75 D) 70 E) 65 -7 -4 -3 4 4 2
+> The sales manager of a department store must set the price of a jumper. A market survey has given him the following data: if the price is 75 euros, the jumper will be bought by 100 people; every time the price increases by 5 euros, the number of buyers decreases by 20, while every time the price decreases by 5 euros, 20 more jumpers are sold. The cost of the jumpers to the department store is 30 euros each. What is (in euros) the selling price that maximises the profit?
+> A) 80
+> B) 50
+> C) 75
+> D) 70
+> E) 65
+> -7
+> -4
+> -3
+> 4
+> 4
+> 2
+>
+> Page
+> Page 32
+> 32
+> Kang 2003
+> Kang 2003
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_student#q24|src_kangourou_2003_student__Q24]]
 
 
 
@@ -1051,7 +1239,7 @@ Price that maximizes profit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction area of triangle APM in the rectangle*
+*What fraction of the area of ABCD is covered by triangle APM*
 
 ![[src_kangourou_2003_student__prob25.png]]
 
@@ -1090,9 +1278,18 @@ Price that maximizes profit
 \end{document}
 ```
 
-> In an ABCD rectangle, P, Q and R are the midpoints of the sides BC, CD and AD, respectively, and M is the midpoint of the QR segment. What fraction of the area of ABCD is covered by the APM triangle? A) 1/4 B) 1/6 C) 3/8 D) 1/3 E) 5/16
+> In a rectangle ABCD, let P, Q and R be the midpoints of the sides BC, CD and AD respectively, and let M be the midpoint of the segment QR. What fraction of the area of ABCD is covered by triangle APM?
+> A) 1/4
+> B) 1/6
+> C) 3/8
+> D) 1/3
+> E) 5/16
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_student#q25|src_kangourou_2003_student__Q25]]
 
 
 
@@ -1125,12 +1322,12 @@ Price that maximizes profit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Term a_2003 of the periodic sequence*
+*The value of a2003*
 
-> The sequence (an) is defined as follows:  
+> The sequence (an) is defined as follows:
 > a0 = 4
 > a1 = 6
-> an+1 = (an) / (an-1) , with n > 1.  
+> an+1 = (an) / (an-1), with n > 1.
 > Then a2003 is equal to:
 > A) 3/2
 > B) 2/3
@@ -1138,7 +1335,11 @@ Price that maximizes profit
 > D) 1/4
 > E) 1/6
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_student#q26|src_kangourou_2003_student__Q26]]
 
 
 
@@ -1172,13 +1373,22 @@ Price that maximizes profit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ACF triangle area in the rectangle*
+*The area of triangle ACF*
 
 ![[src_kangourou_2003_student__prob27.png]]
 
-> ABCD is a rectangle, where AB = 16, BC = 12. ACE is a right triangle with a right angle in C and CE = 15. If F is the intersection point of AE and CD, then the area of the ACF triangle is A) 75 B) 80 C) 96 D) 72 E) 48
+> ABCD is a rectangle, in which AB = 16, BC = 12. ACE is a right-angled triangle with the right angle at C and CE = 15. If F is the point of intersection of AE and CD, then the area of triangle ACF is
+> A) 75
+> B) 80
+> C) 96
+> D) 72
+> E) 48
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_student#q27|src_kangourou_2003_student__Q27]]
 
 
 
@@ -1209,11 +1419,20 @@ Price that maximizes profit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different results for the sum of 12 cube vectors*
+*How many different results Pietro can obtain*
 
-> By associating a direction with it, Peter transforms each edge of a cube into a vector of equal length; thus adding up all 12 vectors thus obtained. How many different results can Peter achieve in this way (using all possible choices on the directions)? A) 25 B) 27 C) 64 D) 100 E) 125
+> By assigning it a direction, Pietro turns every edge of a cube into a vector of the same length; he then adds all the 12 vectors so obtained. How many different results can Pietro obtain in this way (making every possible choice of the directions)?
+> A) 25
+> B) 27
+> C) 64
+> D) 100
+> E) 125
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_student#q28|src_kangourou_2003_student__Q28]]
 
 
 
@@ -1242,11 +1461,20 @@ Price that maximizes profit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of disjoint segments in the hexagon*
+*How many pairs of mutually external segments there are*
 
-> Let's consider the six vertices of a regular hexagon, and all the segments that connect any two of these points. We call two of these segments "disjoint" if they have nothing in common (including the extremes). How many pairs of "disjoint" segments are there? A) 26 B) 28 C) 30 D) 34 E) 36
+> Consider the 6 vertices of a regular hexagon, and all the segments that join any two of these points. We call two of these segments "external to each other" if they have no point in common (endpoints included). How many pairs of "mutually external" segments are there?
+> A) 26
+> B) 28
+> C) 30
+> D) 34
+> E) 36
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_student#q29|src_kangourou_2003_student__Q29]]
 
 
 
@@ -1289,8 +1517,31 @@ Price that maximizes profit
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial f (x^2-1) given f (x^2+1)*
+*Which polynomial f(x2 − 1) is*
 
-> If f is a polynomial such that f (x2 + 1) = x4 + 4x2 . So f (x2 - 1) is the polynomial A) x4 - 4x2 B) x4 C) x4 + 4x2 - 4 D) x4 - 4 E) None of the previous answers is correct A B C D P Q R M A D E B C F
+> Let f be a polynomial such that f(x2 + 1) = x4 + 4x2. Then f(x2 − 1) is the polynomial
+> A) x4 − 4x2
+> B) x4
+> C) x4 + 4x2 − 4
+> D) x4 − 4
+> E) none of the above
+> A
+> B
+> C
+> D
+> P
+> Q
+> R
+> M
+> A
+> D
+> E
+> B
+> C
+> F
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_student#q30|src_kangourou_2003_student__Q30]]

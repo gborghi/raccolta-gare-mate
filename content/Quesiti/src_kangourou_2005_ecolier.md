@@ -31,11 +31,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many holes remain after covering half*
+*How many holes remain after half coverage?*
 
-> There are eight holes in Matthew's garden. The gardener covers half of each hole with stones. How many holes are there in that garden after the gardener's job? A) 0               B) 4              C) 8              D) 16             E) 837
+> In Matteo's garden, there are 8 holes. The gardener covers half of each hole with stones. How many holes are there in that garden after the gardener has done the work?
+> A) 0               B) 4              C) 8              D) 16             E) 837
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q01|src_kangourou_2005_ecolier__Q01]]
 
 
 
@@ -59,11 +64,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Months containing day 30*
+*Months containing the 30th*
 
-> How many months in a solar year contain the 30th day? A) 6               B) 7              C) 9              D) 11              E) 12
+> In a solar year, how many months contain the 30th day?
+> A) 6               B) 7              C) 9              D) 11              E) 12
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q02|src_kangourou_2005_ecolier__Q02]]
 
 
 
@@ -94,13 +104,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum kangaroo movements 2 per row and column*
+*Minimum kangaroo moves: 2 per row and column*
 
 ![[src_kangourou_2005_ecolier__prob3.png]]
 
-> There are eight kangaroos in the boxes on the right. Find the minimum number of kangaroos you need to move to another box if you want each row and column in the table to contain exactly 2 kangaroos. A) 4               B) 3              C) 2              D) 1 E) 0
+> There are 8 kangaroos in the boxes in the figure on the right. Find the minimum number of kangaroos whose boxes you need to swap in order for each row and each column of the table to contain exactly 2 kangaroos.
+> A) 4               B) 3              C) 2              D) 1
+> E) 0
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q03|src_kangourou_2005_ecolier__Q03]]
 
 
 
@@ -129,11 +146,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum trips to fill tank by losing goal*
+*Minimum trips to fill the tub while losing the target*
 
-> Daniel wants to fill a water tank for his turtle. The tank is filled with the contents of 4 buckets. Daniel fills the bucket at a tap, but every time he travels from the tap to the tank with the bucket full, he loses half the contents. What is the minimum number of trips, from the tap to the tank, that will allow Daniel to fill the tank? A) 4               B) 5              C) 6              D) 7              E) 8
+> Daniele wants to fill a tank with water for his turtle. The tank is filled by the contents of 4 buckets. Daniele fills the bucket at a fountain, but with each trip from the fountain to the tank with the bucket full, he loses half of the contents. What is the minimum number of trips from the fountain to the tank that will allow Daniele to fill the tank?
+> A) 4               B) 5              C) 6              D) 7              E) 8
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q04|src_kangourou_2005_ecolier__Q04]]
 
 
 
@@ -166,19 +188,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tigers leaving the scene (5-file)*
+*Tigers leaving the scene (files of 5)*
 
-> In a circus, after the trainer's first crack of the whip, the tigers
-> arrange themselves in 3 rows: in each row there are exactly 4 tigers. The trainer wants that, at the second crack of the whip, the tigers arrange themselves in complete rows of 5 tigers each and that as many tigers as possible remain on stage. How many tigers will have to leave the stage?
+> In a circus, after the trainer's first whip crack, the tigers line up in 3 rows, with exactly 4 tigers in each row. The trainer wants that, at the second whip crack, the tigers should form complete rows of 5 tigers each and that as many tigers as possible remain on stage. How many tigers will have to leave the stage?
 > A) 1                B) 2              C) 3              D) 4              E) 5
-> Ecolier_05_D.qxp  21/02/2005  15.54  Pagina 5
-> 
-> Pag.
-> Pag. 6
-> Kang 2005
-> Kang 2005
+> Ecolier_05_D.qxp 21/02/2005 15.54 Page 5
+>
+> Pag. Pag. 6 Kang 2005 Kang 2005
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q05|src_kangourou_2005_ecolier__Q05]]
 
 
 
@@ -203,11 +225,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of children with a brother and a sister*
+*Minimum number of children with siblings*
 
-> Each child (male or female) of Mr. and Mrs. Rossi has at least one brother and one sister and the number of the Rossi's children is the smallest that allows this to occur. How many children do Mr. and Mrs. Rossi have? A) 2             B) 3              C) 4               D) 5               E) 6
+> Each child (male or female) of Mr. and Mrs. Rossi has at least one brother and one sister, and the number of children of Mr. and Mrs. Rossi is the smallest number that allows this circumstance to occur. How many children do Mr. and Mrs. Rossi have?
+> A) 2             B) 3              C) 4               D) 5               E) 6
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q06|src_kangourou_2005_ecolier__Q06]]
 
 
 
@@ -266,9 +293,16 @@ level: kangourou
 \end{document}
 ```
 
-> Elisabeth had a rectangular chocolate tablet made of 1 cm x 1 cm squares. She ate some of these squares and the piece of chocolate that remains has the shape of the figure. How many squares are left? A) 66               B) 64              C) 62 D) 60               E) 58
+> Elisabetta had a rectangular tablet of
+> Chocolate made up of 1 cm x 1 cm squares. Some of these squares have been eaten, and the piece of chocolate that remains is shaped as shown in the figure. How many squares are left?
+> A) 66               B) 64              C) 62             
+> D) 60               E) 58
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q07|src_kangourou_2005_ecolier__Q07]]
 
 
 
@@ -295,11 +329,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squares eaten without the initial size*
+*Small squares eaten with no initial dimensions*
 
-> Re-read the previous question. Now let's ask you, how many square chocolates did Elizabeth eat? A) 6 B) 10 C) 12 D) 17 E) it is not possible to know the questions from N. 9 al N. 16 is worth 4 points each.
+> Reread the previous question. Now we ask you: how many small chocolate squares did Elisabetta eat?
+> A) 6               B) 10              C) 12             D) 17           
+> E) It's impossible to know.
+> Questions 9 to 16 are each worth 4 points.
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q08|src_kangourou_2005_ecolier__Q08]]
 
 
 
@@ -330,11 +371,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which vehicle can cross the bridge*
+*Which motor vehicle can cross the bridge?*
 
-> Two road signs are located at the foot of a bridge. They indicate the maximum width, 325 cm, and the maximum weight, 4300 kg, permitted for a vehicle to cross that bridge. Which of the following cars is allowed to cross that bridge? A) A width of 315 cm and a weight of 4307 kg. B) A width of 330 cm and a weight of 4250 kg. C) A width of 325 cm and weight of 4400 kg. D) A width of 322 cm and a weight of 4298 kg. E) None of the above.
+> Two road signs are located at the entrance to a bridge. They indicate the maximum width, 325 cm, and the maximum weight, 4300 kg, permitted for a vehicle that must cross that bridge. Which of the following motor vehicles is authorized to cross that bridge?
+> A) One long one, 315 cm, weighing 4307 kg.
+> B) One long one, 330 cm, weighing 4250 kg.
+> C) One long one, 325 cm, weighing 4400 kg.
+> D) One long one, 322 cm, weighing 4298 kg.
+> E) None of the above.
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q09|src_kangourou_2005_ecolier__Q09]]
 
 
 
@@ -371,25 +421,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Even number with digit conditions*
+*Even number with conditions on the digits*
 
-> Among the 5 numbers listed below, the one I chose is even; all
-> the digits that form it are different from one another; the hundreds digit
-> is double the units digit; the tens digit is greater than the
-> hundreds digit. Which number did I choose?
+> Among the 5 numbers listed below, the one I chose is even; all the digits that make it up are different from one another; the hundreds digit is twice the units digit; the tens digit is greater than the hundreds digit. Which number did I choose?
 > A) 1246       B) 3874         C) 4683          D) 4894             E) 8462
-> 8 cm
-> 11 cm
-> 4 cm
-> 6 cm
-> Ecolier_05_D.qxp  21/02/2005  15.54  Pagina 6
-> 
-> Pag.
-> Pag. 7
-> Kang 2005
-> Kang 2005
+> 8 cm 11 cm 4 cm 6 cm Ecolier_05_D.qxp 21/02/2005 15.54 Page 6
+>
+> Pag. Pag. 7 Kang 2005 Kang 2005
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q10|src_kangourou_2005_ecolier__Q10]]
 
 
 
@@ -420,11 +464,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum segments to divide rectangle into squares*
+*Minimum number of segments to divide a rectangle into squares*
 
-> On a piece of paper, you draw a rectangle 17 cm x 13 cm that I want to divide into squares of 1 cm side. I have a 20 cm long ruler. What is the minimum number of segments I need to trace to reach my goal? A) 24 B) 28 C) 30 D) 32 E) 220
+> On a sheet of paper, a rectangle measuring 17 cm by 13 cm is drawn; I want to divide it into squares with sides 1 cm long. I have a ruler 20 cm long. What is the minimum number of line segments I need to draw to achieve this?
+> A) 24
+> B) 28
+> C) 30
+> D) 32
+> E) 220
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q11|src_kangourou_2005_ecolier__Q11]]
 
 
 
@@ -452,13 +505,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which can be the third part of the cut square*
+*What can be the third part of the cut square?*
 
 ![[src_kangourou_2005_ecolier__prob12.png]]
 
-> A square sheet of paper was cut into three parts. Two of these are on the right. Which of the following can be the third? A)            B)          C)              D)                 E)
+> A square sheet of paper was cut into three pieces. Two of these are shown on the right. Which of the following could be the third?
+> A)            B)          C)              D)                 E)
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q12|src_kangourou_2005_ecolier__Q12]]
 
 
 
@@ -484,11 +542,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pieces cut from 15 to 23*
+*How many pieces are cut when going from 15 to 23?*
 
-> There were 15 pieces of paper. After some were cut into three pieces, the pieces of paper became 23. How many pieces of paper were cut? A) 1              B) 2              C) 3              D) 4             E) 5
+> There were 15 pieces of paper. After some of them were cut into 3 parts, the number of pieces of paper became 23. How many pieces of paper were cut?
+> A) 1              B) 2              C) 3              D) 4             E) 5
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q13|src_kangourou_2005_ecolier__Q13]]
 
 
 
@@ -515,11 +578,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Midway bench number between 24 and 66*
+*Bench number halfway between 24 and 66*
 
-> Three men, far apart, walk along an alleyway with numbered benches at regular intervals. At the same time, the three of them sit down to rest. The first man sits on bench number 66, the third man on bench number 24, and the second man halfway between the two. What is the number of the bench on which the second man sits? A) 33              B) 35              C) 42              D) 45             E) 48
+> Three men, spaced far apart from one another, are walking along an avenue that has numbered benches at regular intervals. At the same moment, all three sit down to rest. The first man sits on bench number 66, the third man on bench number 24, and the second man halfway between the two. What is the number of the bench on which the second man sits?
+> A) 33              B) 35              C) 42              D) 45             E) 48
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q14|src_kangourou_2005_ecolier__Q14]]
 
 
 
@@ -549,13 +617,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle position after 2005 seconds*
+*Position of the triangle after 2005 seconds*
 
 ![[src_kangourou_2005_ecolier__prob15.png]]
 
-> Peter rotates a triangle clockwise by one position per second (note the figure, where the initial position P, the one after 1 second and the one after 2 seconds are represented in the order). What will be the position of the triangle after 2005 seconds? A)               B)              C)               D)              E)
+> Pietro rotates a triangle clockwise by
+> a position at the second (observe the figure, in which the initial position P, the position after 1 second, and the position after 2 seconds are shown in that order). What will the position of the triangle be after 2005 seconds?
+> A)               B)              C)               D)              E)
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q15|src_kangourou_2005_ecolier__Q15]]
 
 
 
@@ -592,21 +667,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*False statement about cats and dogs with fears*
+*False claim about cats and dogs with fears*
 
-> In the house there are two cats, Tiny and Tony, and two dogs, Dim and Dill. Tiny is afraid of both dogs, while Tony is afraid of Dim, but not of Dill.
->
-> Which statement (about these cats and dogs) is false?
->
-> A) Every cat is afraid of at least one dog.
+> In the house there are two cats, Tiny and Tony, and two dogs, Dim and Dill. Tiny is afraid of both dogs, while Tony is afraid of Dim but not of Dill. Which statement (referring to these cats and these dogs) is false?
+> A) Every cat is afraid of some dog.
 > B) There is a cat that is not afraid of at least one dog.
-> C) There is a dog that frightens both cats.
-> D) Every dog frightens at least one cat.
-> E) There is a dog that does not frighten either of the two cats.
-> 
-> Questions 17 to 24 are worth 5 points each.
+> C) There's a dog that scares both cats.
+> D) Every dog scares at least one cat.
+> E) There is a dog that doesn't scare either of the two cats.
+> P 1 2 ... Ecolier_05_D.qxp 21/02/2005 15.54 Page 7
+>
+> Questions 17 to 24 are each worth 5 points.
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q16|src_kangourou_2005_ecolier__Q16]]
 
 
 
@@ -637,11 +714,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum lift travel with a capacity of 150 kg*
+*Minimum elevator travel with a load capacity of 150 kg*
 
-> The maximum capacity of an elevator is 150 kilograms. Four friends must use it to reach the tenth floor from the ground floor: three of them weigh 80 kilograms each, while the fourth weighs 60 kilograms. What is the minimum number of elevator trips to take the four friends to the desired floor? A) 1 B) 2 C) 3 D) 4             E) 7
+> The maximum capacity of an elevator is 150 kilograms. Four friends need to use it to get from the ground floor to the tenth floor: three of them each weigh 80 kilograms, while the fourth weighs 60 kilograms. What is the minimum number of upward trips the elevator must make to get all four friends to the desired floor?
+> A) 1       
+> B) 2        
+> C) 3          
+> D) 4             E) 7
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q17|src_kangourou_2005_ecolier__Q17]]
 
 
 
@@ -682,7 +768,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different rectangles with 14 matches*
+*Different rectangles made with 14 matches*
 
 ![[src_kangourou_2005_ecolier__prob18.png]]
 
@@ -694,9 +780,19 @@ level: kangourou
 \end{document}
 ```
 
-> There is only one rectangle that you can make using 6 matches, the one shown in the figure. How many different rectangles by size can you make using (for each) 14 matches? (All matches are the same length.) A) 2 B) 3 C) 4 D) 6 E) 8
+> There is only one rectangle you can make.
+> using 6 matches, the one shown in the figure. How many different-sized rectangles can you form using 14 matches for each one? (All the matches are the same length.)
+> A) 2       
+> B) 3         
+> C) 4          
+> D) 6             E) 8
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q18|src_kangourou_2005_ecolier__Q18]]
 
 
 
@@ -727,11 +823,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many games did Edward win at cards?
+*How many card games has Edoardo won?*
 
-> Edward, Susanna and Teresa are playing cards. At the end of each match, the winner gains 3 points, the second-placed 1 point while the third-placed does not gain points. After four games, Susanna has 4 points and Teresa has 3. How many games has Edward won? A) 1 B) 2 C) 3 D) all four E) it is not possible to know.
+> Edoardo, Susanna, and Teresa are playing cards. At the end of each game, the winner gets 3 points and the second-place finisher gets 1 point.
+> Meanwhile, the third-place finisher earns no points. After four matches, Susanna has 4 points and Teresa has 3. How many matches has Edoardo won?
+> A) 1       
+> B) 2        
+> C) 3          
+> D) all 4
+> E) It's impossible to know.
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q19|src_kangourou_2005_ecolier__Q19]]
 
 
 
@@ -761,18 +868,19 @@ How many games did Edward win at cards?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of each flowerbed in a 24x28 garden*
+*Perimeter of each garden flowerbed: 24x28*
 
 ![[src_kangourou_2005_ecolier__prob20.png]]
 
-> The figure on the side shows a rectangular garden with dimensions 24 meters by 28
-> meters. The gardener has made six flowerbeds
-> rectangular of identical dimensions (colored in gray in the figure). What is the perimeter
-> of each flowerbed?
+> The figure alongside shows a rectangular garden measuring 24 meters by 28 meters. The gardener has created six rectangular flowerbeds of identical size (colored gray in the figure). What is the perimeter of each flowerbed?
 > A) 28 m               B) 30 m              C) 32 m
 > D) 34 m               E) 36 m
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q20|src_kangourou_2005_ecolier__Q20]]
 
 
 
@@ -810,18 +918,19 @@ How many games did Edward win at cards?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of two numbers with difference 989*
+*Sum of two numbers with a difference of 989*
 
-> Libor has chosen two positive integers, one with three digits and one with two digits. Their difference is 989. What is their sum?
+> Libor has chosen two positive integers, one three-digit and one two-digit. Their difference is 989. What is their sum?
+> A) 1000       B) 1001         C) 1009           D) 1010             E) 2005
+> Pag. Pag. 8 Kang 2005 Kang 2005 28 m 24 m Ecolier_05_D.qxp 21/02/2005 15.54 Page 8
 >
-> (A) 1000 (B) 1001 (C) 1009 (D) 1010 (E) 2005
-> 
-> Page
-> Page 9
-> Kang 2005
-> Kang 2005
+> Pag. Pag. 9 Kang 2005 Kang 2005
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q21|src_kangourou_2005_ecolier__Q21]]
 
 
 
@@ -857,13 +966,23 @@ How many games did Edward win at cards?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum exchanges for rearranging five cards*
+*Minimum number of swaps to reorder five cards*
 
 ![[src_kangourou_2005_ecolier__prob22.png]]
 
-> Five cards, numbered 1 to 5, are lined up on the table in the order 5, 1, 4, 3, 2. You have to place the cards in the order 1, 2, 3, 4, 5 by making only moves of the following type: each move consists of exchanging two cards. What is the minimum number of moves that will allow you to perform the operation? A) 2 B) 3 C) 4 D) 5 E) 6
+> Five cards, numbered from 1 to 5, are
+> They are arranged on the table in the order 5, 1, 4, 3, 2. You must arrange the cards in the order 1, 2, 3, 4, 5 by making only moves of the following type: each move consists of swapping two cards with each other. What is the minimum number of moves that will allow you to accomplish this?
+> A) 2       
+> B) 3         
+> C) 4          
+> D) 5             
+> E) 6
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q22|src_kangourou_2005_ecolier__Q22]]
 
 
 
@@ -891,13 +1010,20 @@ How many games did Edward win at cards?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which cube allows the given net*
+*Which cube has the given net?*
 
 ![[src_kangourou_2005_ecolier__prob23.png]]
 
-> Only one of the following cubes admits the net shown on the right. Which one? A)                 B)                   C) D)                            E)
+> Only one of the following cubes admits a net.
+> Presented on the right. Which one?
+> A)                 B)                   C)     
+> D)                            E)
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q23|src_kangourou_2005_ecolier__Q23]]
 
 
 
@@ -936,6 +1062,13 @@ How many games did Edward win at cards?
 
 *Minimum sum of 100 integers with product 100*
 
-> The product of 100 integers greater than zero is equal to 100. What is the minimum value that the sum of these numbers can have? A) 100 B) 110 C) 118 D) 127 E) 199 5 1 4 3 2 1 2 3 4 5 Ecolier_05_D.qxp 21/02/2005 15.54 Page 9
+> The product of 100 integers greater than zero is equal to 100. What is the minimum possible value of the sum of these numbers?
+> A) 100       B) 110          C) 118         D) 127             E) 199
+> 5 1 4 3 2 1 2 3 4 5 Ecolier_05_D.qxp 21/02/2005 15.54 Page 9
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_ecolier#q24|src_kangourou_2005_ecolier__Q24]]

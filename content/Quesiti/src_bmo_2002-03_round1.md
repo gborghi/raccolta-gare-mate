@@ -31,9 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i numeri contenuti in un numero specifico grande*
+*Trovare le cifre contenute in un numero grande specifico*
 
-> Dato che $$N = 2022327994814814600943000000,$$ determina le cifre contenute in $N$, cioè trovare quale dei numeri $0, 1, \ldots, 9$ appare nella rappresentazione decimale di $N$.
+> Dato che
+> $$N = 2022327994814814600943000000,$$
+> determina le cifre che $N$ contiene, cioè trova quali delle cifre $0, 1, \ldots, 9$ compaiono nella rappresentazione decimale di $N$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2002-03_round1#q01|src_bmo_2002-03_round1__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Incircolare il punto tangente e perpendicolare; dimostrare che BX è un diametro*
+*Punto di tangenza dell'incirconferenza e perpendicolare; dimostrare che BX è un diametro*
 
-> Il triangolo $ABC$, dove $AB < AC$, ha un incircolo che tocca $BC$ a $S$. La perpendicolare da $B$ a $AS$ incontra la linea $AS$ al punto $P$. $X$ sia il punto di $AC$ in modo tale che $PX \parallel BC$. Indicare che $BX$ è il diametro dell'incircolo.
+> Il triangolo $ABC$, dove $AB < AC$, ha un'incirconferenza che tocca $BC$ nel punto $S$. La perpendicolare condotta da $B$ a $AS$ incontra la retta $AS$ nel punto $P$. Sia $X$ il punto su $AC$ tale che $PX \parallel BC$. Dimostrare che $BX$ è un diametro dell'incirconferenza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2002-03_round1#q02|src_bmo_2002-03_round1__Q02]]
 
 
 
@@ -82,9 +98,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza simmetrica data la somma dei quadrati equivale a uno*
+*Dimostrare la disuguaglianza simmetrica data la somma dei quadrati uguale a uno*
 
-> $x, y, z$ siano numeri reali positivi come $x^2 + y^2 + z^2 = 1$. Provare che $$x^2 y^2 + y^2 z^2 + z^2 x^2 \leq \frac{1}{3}.$$
+> Siano $x, y, z$ numeri reali positivi tali che $x^2 + y^2 + z^2 = 1$. Dimostrare che
+> $$x^2 y^2 + y^2 z^2 + z^2 x^2 \leq \frac{1}{3}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2002-03_round1#q03|src_bmo_2002-03_round1__Q03]]
 
 
 
@@ -108,11 +132,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il maggior numero di punti rossi sulla griglia senza triangolo rettangolo allineato all'asse*
+*Numero massimo di punti rossi sulla griglia senza triangoli retti allineati agli assi*
 
-> $n$ sia un numero intero superiore a 1. Considera una griglia rettangolare $n \times n$ di punti nel piano. Alcuni $k$ di questi punti sono colorati in rosso in modo tale che nessun punto rosso sia il vertice di un triangolo rettangolare i cui lati sono paralleli ai lati della griglia. Determinare il valore massimo di $k$.
+> Sia $n$ un numero intero maggiore di 1. Si consideri una griglia rettangolare di punti nel piano, di dimensioni $n \times n$. Alcuni $k$ di questi punti sono colorati di rosso in modo tale che nessun punto rosso sia vertice di un triangolo rettangolo i cui due lati siano paralleli ai lati della griglia. Determinare il valore massimo di $k$.
 
-**Risposta:** 2n
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2002-03_round1#q04|src_bmo_2002-03_round1__Q04]]
 
 
 
@@ -136,6 +165,14 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni a numeri interi positivi per l'equazione diofantina di potenza fattoriale*
+*Trovare tutte le soluzioni in numeri interi positivi dell'equazione diofantina a potenza fattoriale*
 
-> Trova tutte le soluzioni in numeri interi positivi $a, b$ all'equazione $$a! + b! = a^b + b^a.$$
+> Trovare tutte le soluzioni negli interi positivi $a, b$ dell'equazione
+> $$a! + b! = a^b + b^a.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2002-03_round1#q05|src_bmo_2002-03_round1__Q05]]

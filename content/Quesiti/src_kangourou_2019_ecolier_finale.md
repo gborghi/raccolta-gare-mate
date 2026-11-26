@@ -36,9 +36,14 @@ level: kangourou
 
 ![[src_kangourou_2019_ecolier_finale__probe1.png]]
 
-> In the drawing you see two squares, each with side $3$ cm, joined at vertex $C$. An ant starts from point $A$ and travels along the edge of the figure following the path $ABCDEFCGA$. The ant repeats the path several times. After traveling a distance of $2019$ cm, the ant gets tired and stops at the vertex where it is at that moment. Which letter denotes it?
+> In the drawing, you see two squares, each with a side of $3$ cm, joined at vertex $C$. An ant starts at point $A$ and travels along the edge of the figure following the path $ABCDEFCGA$. The ant repeats the path several times. After traveling a distance of $2019$ cm, the ant gets tired and stops at the vertex where it is at that moment. Which letter denotes it?
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_ecolier_finale#qe1|src_kangourou_2019_ecolier_finale__QE1]]
 
 
 
@@ -61,11 +66,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ada's jam biscuits before the 3-for-5 exchanges*
+*Ada's Jam Biscotti Before the 3-vs-5 Swaps*
 
-> Ada had $40$ biscuits: some chocolate, the others jam. She agreed with Cecilia as follows: for $3$ chocolate biscuits given to Cecilia, she received $5$ jam biscuits from Cecilia. Now Ada has $52$ biscuits, all jam. How many jam biscuits did she have before the exchange?
+> Ada had $40$ biscuits: some chocolate, the others jam. She agreed with Cecilia as follows: for $3$ chocolate biscuits handed over to Cecilia, she received from Cecilia $5$ jam biscuits. Now Ada has $52$ biscuits, all of them jam. How many jam biscuits did Ada have before the exchange?
 
-**Answer:** 22
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_finale#qe2|src_kangourou_2019_ecolier_finale__QE2]]
 
 
 
@@ -90,9 +99,12 @@ level: kangourou
 
 *Obtaining 2021 from 0 with ±2019, ×2019, :2019*
 
-> Last New Year I received a strange calculator as a gift: it can only add or subtract $2019$ to the number shown on the screen, or it can multiply or divide it by $2019$. Right now the screen shows the number $0$. By performing some of these operations in sequence, one at a time, can I obtain the number $2021$ as a result? Justify your answer if it is negative; if it is affirmative, indicate the shortest sequence of operations that allows you to obtain the result.
+> Last New Year I received a strange calculator as a gift: it can only add $2019$ to the number on the screen, subtract $2019$ from it, or multiply or divide it by $2019$. Right now the screen shows the number $0$. By performing some of these operations in sequence, one at a time, can I obtain the number $2021$ as a result? If the answer is no, justify it; if it is yes, give the shortest sequence of operations that yields the result.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
 **Answer:** yes: +2019, +2019, :2019, +2019
+[[Quesiti/src_kangourou_2019_ecolier_finale#qe3|src_kangourou_2019_ecolier_finale__QE3]]
 
 
 
@@ -115,11 +127,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between the sum of even numbers up to 2020 and odd numbers up to 2019*
+*Difference between the sum of even numbers up to 2020 and the sum of odd numbers up to 2019*
 
-> Dario summed all odd integers starting from $1$ and ending with $2019$; Paola summed all even integers starting from $2$ and ending with $2020$. Cristina calculated the difference between the number obtained by Paola and the one obtained by Dario. What number did Cristina obtain?
+> Dario added all the odd integers starting from $1$ and ending at $2019$; Paola added all the even integers starting from $2$ and ending at $2020$. Cristina calculated the difference between the number obtained by Paola and the number obtained by Dario. What number did Cristina obtain?
 
-**Answer:** 1010
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_finale#qe4|src_kangourou_2019_ecolier_finale__QE4]]
 
 
 
@@ -145,9 +161,14 @@ level: kangourou
 
 *Carla's number: 1N1 minus N equals 14789*
 
-> Carla wrote a positive integer. Aldo rewrote Carla's number, putting the digit $1$ before and after it (for example, if Carla had written $27$, Aldo would have written $1271$). The difference between Aldo's number and Carla's is $14789$. What number did Carla write?
+> Carla wrote a positive integer. Aldo rewrote Carla's number, placing the digit $1$ before it and after it (for example, if Carla had written $27$, Aldo would have written $1271$). The difference between Aldo's number and Carla's number is $14789$. What number did Carla write?
 
-**Answer:** 532
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_finale#qe5|src_kangourou_2019_ecolier_finale__QE5]]
 
 
 
@@ -173,10 +194,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of swaps to reorder 4 2 3 9 8 1 7 5 6*
+*Minimum number of swaps to sort 4 2 3 9 8 1 7 5 6*
 
 ![[src_kangourou_2019_ecolier_finale__probe6.png]]
 
-> Every day a teacher rearranges the $9$ volumes of a small class encyclopedia, so that the numbers denoting the volumes are in increasing order from left to right. To do this, he takes two volumes in the wrong position (one in his right hand and the other in his left) and swaps them. Today he found the books in the order shown in the figure ($4\ 2\ 3\ 9\ 8\ 1\ 7\ 5\ 6$). What is the minimum number of swaps the teacher must make to rearrange the volumes?
+> Every day, a teacher rearranges the $9$ volumes of a small class encyclopedia so that the numbers denoting the volumes are in ascending order from left to right. To do this, the teacher takes two volumes that are in the wrong positions (one in the right hand and the other in the left hand) and swaps them. Today, the teacher found the books in the order shown in the figure ($4\ 2\ 3\ 9\ 8\ 1\ 7\ 5\ 6$). What is the minimum number of swaps the teacher must make to put the volumes in order?
 
-**Answer:** 4
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_finale#qe6|src_kangourou_2019_ecolier_finale__QE6]]

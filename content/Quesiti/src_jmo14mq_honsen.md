@@ -29,9 +29,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Non n rende 2n^2+1, 3n^2+1, 6n^2+1 tutti i quadrati*
+*Non esiste n positivo per cui 2n²+1, 3n²+1 e 6n²+1 sono tutti quadrati*
 
-> Mostrare che non esiste un intero positivo $n$ tale che $2n^2+1$, $3n^2+1$ e $6n^2+1$ siano tutti quadrati perfetti.
+> Dimostrare che non esiste un intero positivo $n$ tale che $2n^2+1$, $3n^2+1$ e $6n^2+1$ siano tutti quadrati perfetti.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_jmo14mq_honsen#q01|src_jmo14mq_honsen__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni reali con f(xf(x) + f(y))=f(x) ^2+y*
+*Trovare tutte le funzioni reali tali che f(xf(x)+f(y))=f(x)^2+y*
 
-> Che $f(x)$ sia una funzione a valore reale definita sui numeri reali in modo tale che, per tutti i numeri reali $x$ e $y$, $$f\left(x f(x) + f(y)\right) = \left(f(x)\right)^2 + y$$ sia valida. Trova tutte le funzioni possibili $f(x)$.
+> Sia $f(x)$ una funzione a valori reali definita sui numeri reali tale che, per tutti i numeri reali $x$ e $y$,
+> $$f\left(x f(x) + f(y)\right) = \left(f(x)\right)^2 + y$$
+> vale. Determinare tutte le possibili funzioni $f(x)$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jmo14mq_honsen#q02|src_jmo14mq_honsen__Q02]]
 
 
 
@@ -79,9 +94,15 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piani perpendicolari; bisettore incontra cerchio, prova angolo bisettato*
+*Piani perpendicolari; la bisettrice incontra la circonferenza, dimostrare che l'angolo è bisecato*
 
-> nello spazio, ci sono due piani reciprocamente perpendicolari $\pi_1$ e $\pi_2$. Se $A$ e $B$ sono due punti distinti sulla linea di intersezione di $\pi_1$ e $\pi_2$, e se $C$ è un punto che si trova su $\pi_2$ ma non su $\pi_1$. Il $P$ deve essere l'intersezione del bisettore di $\angle BCA$ con $AB$, e $S$ deve essere il cerchio di $\pi_1$ con $AB$ come diametro. Indicare che, per qualsiasi piano $\pi_3$ contenente $CP$, se $D$ e $E$ indicano i punti di intersezione di $\pi_3$ con $S$, allora $CP$ è il bisettore di $\angle DCE$.
+> Nello spazio, vi sono due piani mutuamente perpendicolari, $\pi_1$ e $\pi_2$. Siano $A$ e $B$ due punti distinti sulla retta di intersezione di $\pi_1$ e $\pi_2$, e sia $C$ un punto che giace su $\pi_2$ ma non su $\pi_1$. Sia $P$ l'intersezione della bisettrice di $\angle BCA$ con $AB$, e sia $S$ la circonferenza in $\pi_1$ avente $AB$ come diametro. Dimostrare che, per ogni piano $\pi_3$ contenente $CP$, se $D$ e $E$ denotano i punti di intersezione di $\pi_3$ con $S$, allora $CP$ è la bisettrice di $\angle DCE$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jmo14mq_honsen#q03|src_jmo14mq_honsen__Q03]]
 
 
 
@@ -106,9 +127,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza della somma per i reali positivi con a+b+c=1*
+*Dimostrare la disuguaglianza delle somme per numeri reali positivi con a+b+c=1*
 
-> Per i numeri reali positivi $a$, $b$, $c$ che soddisfano $a + b + c = 1$, dimostrare che $$\frac{1+a}{1-a} + \frac{1+b}{1-b} + \frac{1+c}{1-c} \le 2\left(\frac{b}{a} + \frac{c}{b} + \frac{a}{c}\right).$$ (Non è necessario indicare le condizioni per l'uguaglianza.)
+> Per numeri reali positivi $a$, $b$, $c$ che soddisfano $a + b + c = 1$, dimostrare che
+> $$\frac{1+a}{1-a} + \frac{1+b}{1-b} + \frac{1+c}{1-c} \le 2\left(\frac{b}{a} + \frac{c}{b} + \frac{a}{c}\right).$$
+> Non è necessario enunciare le condizioni di uguaglianza.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jmo14mq_honsen#q04|src_jmo14mq_honsen__Q04]]
 
 
 
@@ -131,6 +161,13 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Grafico cubico: ciclo di Hamilton differente da quello dato e il suo inverso*
+*Grafo cubico: ciclo hamiltoniano diverso da quello dato e dal suo inverso*
 
-> Su una certa isola, ogni città è collegata da strade ad esattamente altre tre città. Nel viaggio dell'anno scorso, il viaggiatore ha lasciato una certa città, visitato ogni città dell'isola esattamente una volta e tornato nella città di partenza. Quest'anno, il viaggiatore desidera fare un viaggio che, partendo dalla stessa città, visita di nuovo ogni città dell'isola esattamente una volta e ritorna lì. Tuttavia, il viaggiatore vuole evitare sia l'ordine esatto dello scorso anno che l'ordine che è semplicemente il suo contrario. Mostrate che è possibile.
+> Su una certa isola, ogni paese è collegato da strade a esattamente tre altri paesi. Nel viaggio dell'anno scorso, il viaggiatore è partito da un certo paese, ha visitato ogni paese dell'isola esattamente una volta ed è tornato al paese di partenza. Quest'anno, il viaggiatore desidera intraprendere un viaggio che, partendo dallo stesso paese, visiti di nuovo ogni paese dell'isola esattamente una volta e lo riporti al paese di partenza. Tuttavia, il viaggiatore vuole evitare sia lo stesso identico ordine dell'anno scorso sia l'ordine che ne è semplicemente l'inverso. Dimostrare che ciò è possibile.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jmo14mq_honsen#q05|src_jmo14mq_honsen__Q05]]

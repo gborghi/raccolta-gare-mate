@@ -32,13 +32,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare numeri interi positivi inferiori a 1.000.000 il cui cubo perfetto termina con la cifra 1*
+*Conta gli interi positivi minori di 1.000.000 il cui cubo perfetto termina con la cifra 1*
 
-> Quanti integri positivi inferiori a $1{,}000{,}000$ esistono i cui cubetti perfetti finiscono in $1$?
-> 
+> Quanti numeri interi positivi minori di $1{,}000{,}000$ hanno cubi perfetti che terminano con $1$?
+>
 > A) $1{,}000$ \quad B) $10{,}000$ \quad C) $50{,}000$ \quad D) $100{,}000$ \quad E) $500{,}000$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n2_f1#q01|src_obm_2000_n2_f1__Q01]]
 
 
 
@@ -64,13 +69,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di lattine di palma che si inseriscono in una scatola di legno*
+*Numero di lattine di cuore di palma che stanno in una cassa di legno*
 
-> Una fabbrica imballa le scatole di cuore di palma in scatole di cartone cubo con lato $20\text{ cm}$, in modo che possano essere trasportate in scatole di legno larghe $80\text{ cm}$, lunghe $120\text{ cm}$ e alte $60\text{ cm}$. Il numero di lattine che si inseriscono in ciascuna scatola è:
-> 
+> Una fabbrica confeziona le lattine di cuore di palma in scatole di cartone cubiche con lato $20\text{ cm}$, in modo che possano essere trasportate in casse di legno larghe $80\text{ cm}$, lunghe $120\text{ cm}$ e alte $60\text{ cm}$. Il numero di lattine che entrano in ciascuna cassa è:
+>
 > A) $576$ \quad B) $4{,}608$ \quad C) $2{,}304$ \quad D) $720$ \quad E) $144$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n2_f1#q02|src_obm_2000_n2_f1__Q02]]
 
 
 
@@ -98,15 +108,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizione della bandiera sul marciapiede destro dopo che il marciapiede sinistro ruota leggermente*
+*Posizione della bandiera sull'ingranaggio destro dopo che l'ingranaggio sinistro ha ruotato leggermente*
 
-> Juliano posizionò una piccola bandiera grigia su ciascun equipaggiamento, come mostrato nella figura seguente. Le marce sono uguali e quando la marce sinistra ruota un po', la sua bandiera si sposta dalla posizione indicata alla posizione verticale della bandiera bianca. In questa condizione, quale delle seguenti opzioni mostra la possibile posizione della bandiera sul marchio destro?
-> 
-> (Le opzioni da A a E mostrano posizioni di bandiera diverse sul marciapiede destro.)
+> Juliano ha collocato una piccola bandiera grigia su ciascun ingranaggio, come mostrato nella figura sottostante. Gli ingranaggi sono identici e, quando l'ingranaggio di sinistra ruota leggermente, la sua bandiera si sposta dalla posizione indicata alla posizione della bandiera bianca eretta. In questa condizione, quale delle opzioni sottostanti mostra la posizione possibile della bandiera sull'ingranaggio di destra?
+>
+> (Le opzioni da A a E mostrano diverse posizioni della bandiera sull'ingranaggio destro.)
 
 ![[src_obm_2000_n2_f1__q03.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2000_n2_f1#q03|src_obm_2000_n2_f1__Q03]]
 
 
 
@@ -137,18 +152,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Puzzle logico: identificare chi ha pagato l'ingresso al museo*
+*Puzzle logico: individua chi ha pagato l'ingresso al museo*
 
-> Quattro amici vogliono visitare un museo e uno di loro decide di pagare tutti i biglietti di ingresso. Nasce una discussione:
-> 
-> $-$ Non sono stato io, dice Benjamim. $\quad$ $-$ È stato Carlos, dice Mário.
-> $-$ È stato Mário, dice Carlos. $\quad$ $-$ Mário non ha pagato, dice Pedro.
-> 
+> Quattro amici vogliono visitare un museo e uno di loro decide di pagare tutti i biglietti d'ingresso. Appare un indizio:
+>
+> $-$ Non sono stato io, dice Benjamim. $\quad$ $-$ È stato Carlos, dice Mário. $-$ È stato Mário, dice Carlos. $\quad$ $-$ Mário non ha pagato, dice Pedro.
+>
 > Solo uno di loro sta mentendo. Chi ha pagato l'ingresso al museo?
-> 
+>
 > A) Mário \quad B) Pedro \quad C) Benjamim \quad D) Carlos
 
-**Risposta:** B
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n2_f1#q04|src_obm_2000_n2_f1__Q04]]
 
 
 
@@ -178,13 +197,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Effetto sulle medie della classe dopo il trasferimento dell'ultimo allievo dalla classe A alla classe B*
+*Effetto sulle medie di classe dopo il trasferimento dell'ultimo studente dalla Classe A alla Classe B*
 
-> Gli studenti $61$ approvati in un concorso, i cui punteggi erano tutti distinti, sono stati suddivisi in due gruppi in base al loro ranking: i primi $31$ sono stati classificati nella classe A e i prossimi $30$ nella classe B. Le medie di entrambe le classi nella competizione sono state quindi calcolate. Successivamente, fu deciso di trasferire l'ultimo studente della classe A alla classe B. Quale delle seguenti affermazioni è certamente vero?
-> 
-> A) La media della classe A è migliorata, ma la classe B è peggiorata. B) La media della classe A è peggiorata, ma la classe B è migliorata. C) Le medie di entrambe le classi sono migliorate. D) Le medie di entrambe le classi sono peggiorate. E) Le medie delle classi possono migliorare o peggiorare, a seconda dei punteggi dei candidati.
+> Gli $61$ studenti ammessi tramite una gara, i cui punteggi erano tutti diversi, furono suddivisi in due gruppi in base alla loro classifica: i primi $31$ furono inseriti nella Classe A e i successivi $30$ nella Classe B. Successivamente, furono calcolate le medie di entrambe le classi nella gara. In seguito, si decise di trasferire nella Classe B lo studente che occupava l'ultimo posto nella Classe A. Quale delle seguenti affermazioni è certamente vera?
+>
+> A) La media della Classe A è migliorata, ma quella della Classe B è peggiorata.
+> B) La media della Classe A è peggiorata, ma quella della Classe B è migliorata.
+> C) Le medie di entrambe le classi sono migliorate.
+> D) Le medie di entrambe le classi sono peggiorate.
+> E) Le medie delle classi possono migliorare o peggiorare, a seconda dei punteggi dei candidati.
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n2_f1#q05|src_obm_2000_n2_f1__Q05]]
 
 
 
@@ -210,13 +238,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova angolo A nel triangolo ABC dato angolo C e angolo bisector-altitudine*
+*Trovare l'angolo A nel triangolo ABC, dati l'angolo C e l'angolo della bisettrice-altezza*
 
-> Nel triangolo $ABC$, l'angolo $\hat{C} = 60^\circ$ e il bisettore dell'angolo $\hat{B}$ costituiscono un angolo di $70^\circ$ con l'altitudine dal vertice $A$. La misura dell'angolo $\hat{A}$ è:
-> 
+> Nel triangolo $ABC$, l'angolo $\hat{C} = 60^\circ$ e la bisettrice dell'angolo $\hat{B}$ formano un angolo di $70^\circ$ con l'altezza relativa al vertice $A$. La misura dell'angolo $\hat{A}$ è:
+>
 > A) $50^\circ$ \quad B) $30^\circ$ \quad C) $40^\circ$ \quad D) $80^\circ$ \quad E) $70^\circ$
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2000_n2_f1#q06|src_obm_2000_n2_f1__Q06]]
 
 
 
@@ -244,15 +277,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area oscurata all'interno del rettangolo dell'area 12*
+*Area ombreggiata all'interno di un rettangolo di area 12*
 
-> Se l'area del rettangolo mostrato è $12$, quale è l'area della figura ombrata?
-> 
+> Se l'area del rettangolo mostrato è $12$, qual è l'area della figura ombreggiata?
+>
 > A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $8$
 
 ![[src_obm_2000_n2_f1__q07.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2000_n2_f1#q07|src_obm_2000_n2_f1__Q07]]
 
 
 
@@ -278,13 +316,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
+*È il momento che Alberto superi per la prima volta Beatriz sull'ippodromo circolare*
 
-> Alberto, Beatriz e Carlos corrono su una pista circolare. Tutti iniziano nello stesso momento e luogo, ognuno a velocità costante. Alberto e Beatriz corrono nella direzione opposta a Carlos. Correndo nella direzione opposta, Carlos incontra prima Alberto, e poi $90$ secondi dopo la partenza Carlos incontra Beatriz esattamente $15$ secondi dopo. Quanti secondi ci vogliono per superare Beatriz per la prima volta?
-> 
+> Alberto, Beatriz e Carlos corrono su una pista circolare. Partono tutti nello stesso momento e dallo stesso punto, ciascuno a velocità costante. Alberto e Beatriz corrono in direzione opposta rispetto a Carlos. Correndo in direzione opposta, Carlos incontra per primo Alberto, e poi, $90$ secondi dopo l'inizio, Carlos incontra Beatriz esattamente $15$ secondi più tardi. Quanti secondi occorrono perché Alberto superi Beatriz per la prima volta?
+>
 > A) $105$ \quad B) $630$ \quad C) $1{,}050$ \quad D) $1{,}575$ \quad E) non determinato
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n2_f1#q08|src_obm_2000_n2_f1__Q08]]
 
 
 
@@ -309,13 +352,17 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo EAF in cui DEFG è un quadrato al di fuori del pentagono regolare ABCDE*
+*Angolo EAF, dove DEFG è un quadrato esterno al pentagono regolare ABCDE*
 
 > $DEFG$ è un quadrato costruito all'esterno del pentagono regolare $ABCDE$. Qual è la misura dell'angolo $\widehat{EAF}$?
-> 
+>
 > A) $9^\circ$ \quad B) $12^\circ$ \quad C) $15^\circ$ \quad D) $18^\circ$ \quad E) $21^\circ$
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2000_n2_f1#q09|src_obm_2000_n2_f1__Q09]]
 
 
 
@@ -341,13 +388,18 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Two-digit integers equal to twice the product of their digits*
+*Numeri interi a due cifre uguali al doppio del prodotto delle loro cifre*
 
 > Quanti numeri interi a due cifre sono uguali al doppio del prodotto delle loro cifre?
-> 
+>
 > A) $0$ \quad B) $1$ \quad C) $2$ \quad D) $3$ \quad E) $4$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n2_f1#q10|src_obm_2000_n2_f1__Q10]]
 
 
 
@@ -373,13 +425,18 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*100° moltiplo positivo di 7 o 8 in ordine crescente*
+*Il 100° multiplo positivo di 7 o 8 in ordine crescente*
 
-> Scrivi in ordine crescente tutti i numeri interi positivi che sono multipli di $7$ o $8$ (o entrambi), ottenendo $7, 8, 14, 16, \ldots$ Il numero scritto è:
-> 
+> Scrivi in ordine crescente tutti gli interi positivi che sono multipli di $7$ o di $8$ (o di entrambi), ottenendo $7, 8, 14, 16, \ldots$ Il numero $100^\text{th}$ scritto è:
+>
 > A) $406$ \quad B) $376$ \quad C) $392$ \quad D) $384$ \quad E) $400$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n2_f1#q11|src_obm_2000_n2_f1__Q11]]
 
 
 
@@ -405,13 +462,18 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di carte da rimuovere per garantire tre uguali numeri più piccoli*
+*Numero minimo di carte da rimuovere per garantire tre somme delle cifre più piccole uguali*
 
-> Una casella contiene carte $900$ numerate da $100$ a $999$. Le carte vengono tirate a caso (senza sostituzione) e la somma delle loro cifre viene registrata. Qual è il numero minimo di carte che deve essere rimosso dalla scatola per garantire che le tre carte sorte abbiano le stesse somme digitali?
-> 
+> Una scatola contiene $900$ carte numerate da $100$ a $999$. Le carte vengono estratte a caso (senza reinserimento) e si registra la somma delle loro cifre. Qual è il numero minimo di carte che devono essere rimosse dalla scatola affinché si possa garantire che le tre carte estratte abbiano la stessa somma delle cifre?
+>
 > A) $51$ \quad B) $52$ \quad C) $53$ \quad D) $54$ \quad E) $55$
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n2_f1#q12|src_obm_2000_n2_f1__Q12]]
 
 
 
@@ -437,13 +499,18 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Che espressione è sempre più grande per i numeri reali positivi x e y*
+*Quale espressione è sempre la più grande per numeri reali positivi x e y?*
 
-> Se $x$ e $y$ sono numeri reali positivi, quale dei seguenti è sempre il più grande?
-> 
+> Se $x$ e $y$ sono numeri reali positivi, quale delle seguenti opzioni è sempre la più grande?
+>
 > A) $x + y$ \quad B) $x^2 + y^2$ \quad C) $(x + y)^2$ \quad D) $x^2 + y(x + y)$ \quad E) $\dfrac{x^2 + y^2}{x + y}$
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n2_f1#q13|src_obm_2000_n2_f1__Q13]]
 
 
 
@@ -471,15 +538,20 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area di intersezione di triangolo e quadrato su rete unità*
+*Area di intersezione tra un triangolo e un quadrato sulla griglia unitaria*
 
 > Nella figura, le distanze orizzontali tra i punti orizzontali consecutivi e le distanze verticali tra i punti verticali consecutivi sono tutte uguali a $1$. L'area della regione comune al triangolo e al quadrato è:
-> 
+>
 > A) $\dfrac{9}{10}$ \quad B) $\dfrac{15}{16}$ \quad C) $\dfrac{8}{9}$ \quad D) $\dfrac{11}{12}$ \quad E) $\dfrac{14}{15}$
 
 ![[src_obm_2000_n2_f1__q14.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2000_n2_f1#q14|src_obm_2000_n2_f1__Q14]]
 
 
 
@@ -509,13 +581,22 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Compari a/b e (a+1)/(b+1) dati 0 < a/b < 1*
+*Confronta a/b e (a+1)/(b+1) sapendo che 0 < a/b < 1*
 
-> $a$ e $b$ siano numeri reali positivi come $\dfrac{a}{b} < 1$. Allora:
-> 
-> A) $\dfrac{a+1}{b+1}$ = $\dfrac{a}{b}$. B) $\dfrac{a+1}{b+1}$ è uguale a $\dfrac{a}{b} + 1$. C) $\dfrac{a+1}{b+1}$ è inferiore a $\dfrac{a}{b}$. D) $\dfrac{a+1}{b+1}$ è maggiore di $\dfrac{a}{b}$ ma inferiore a $1$. E) $\dfrac{a+1}{b+1}$ può essere inferiore a $\dfrac{a}{b}$.
+> Siano $a$ e $b$ numeri reali positivi tali che $\dfrac{a}{b} < 1$. Allora:
+>
+> A) $\dfrac{a+1}{b+1}$ è uguale a $\dfrac{a}{b}$.
+> B) $\dfrac{a+1}{b+1}$ è uguale a $\dfrac{a}{b} + 1$.
+> C) $\dfrac{a+1}{b+1}$ è minore di $\dfrac{a}{b}$.
+> D) $\dfrac{a+1}{b+1}$ è maggiore di $\dfrac{a}{b}$ ma minore di $1$.
+> E) $\dfrac{a+1}{b+1}$ può essere minore di $\dfrac{a}{b}$.
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n2_f1#q15|src_obm_2000_n2_f1__Q15]]
 
 
 
@@ -541,13 +622,18 @@ E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-5 ogni turno
+*Gioco di Nim: mossa vincente del primo giocatore con 1000 bastoncini, si pescano 1-5 bastoncini a turno*
 
-> In un gioco per due giocatori, i giocatori prendono alternativamente $1, 2, 3, 4$, o $5$ bastoni da una pila che inizia a contenere $1000$ bastoni. Il giocatore che prende l'ultimo bastone vince. Quanti bastoni deve prendere il primo giocatore per garantire una vittoria?
-> 
-> A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) Nessuno; il primo giocatore non può garantire una vittoria.
+> In un gioco per due giocatori, i giocatori, a turno, prendono $1, 2, 3, 4$ o $5$ bastoncini da un mucchio che inizialmente contiene $1000$ bastoncini. Vince il giocatore che prende l'ultimo bastoncino. Quanti bastoncini deve prendere il primo giocatore per assicurarsi la vittoria?
+>
+> A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) Nessuna; il primo giocatore non può garantire la vittoria.
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n2_f1#q16|src_obm_2000_n2_f1__Q16]]
 
 
 
@@ -575,15 +661,20 @@ Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare rettangoli con A e B come vertici su una griglia 9x9*
+*Conta i rettangoli che hanno sia A sia B come vertici su una griglia 9x9*
 
-> Quanti rettangoli contengono entrambi i punti $A$ e $B$ come vertici, con tutti i vertici all'intersezione delle linee orizzontali $9$ con le linee verticali $9$ mostrate nella figura?
-> 
+> Quanti rettangoli contengono entrambi i punti $A$ e $B$ come vertici, con tutti i vertici situati agli incroci delle $9$ rette orizzontali con le $9$ rette verticali mostrate nella figura?
+>
 > A) $3$ \quad B) $4$ \quad C) $7$ \quad D) $2$ \quad E) $5$
 
 ![[src_obm_2000_n2_f1__q17.png]]
 
-**Risposta:** E
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2000_n2_f1#q17|src_obm_2000_n2_f1__Q17]]
 
 
 
@@ -609,13 +700,18 @@ Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di figli di Emir Abdel Aziz con vincoli doppi/tripli*
+*Numero di figli di Emir Abdel Aziz con vincoli di gemelli/trigemini*
 
-> L'emiro Abdel Aziz divenne famoso per molte ragioni. Ha avuto $39$ figli, compresi i suoi discendenti; lo storico Ahmed Aab afferma: tutti i suoi figli erano gemelli (nati in coppia), tranne $39$; erano anche triplici (nati in tre), tranne $39$. Il numero dei figli dell' emir è:
-> 
+> L'Emiro Abdel Aziz divenne famoso per molte ragioni. Ebbe $39$ figli, compresi i suoi discendenti; lo storico Ahmed Aab afferma che tutti i suoi figli erano gemelli (nati a coppie), tranne $39$; erano anche trigemini (nati a tre a tre), tranne $39$. Il numero di figli dell'Emiro è:
+>
 > A) $75$ \quad B) $48$ \quad C) $51$ \quad D) $1{,}050$ \quad E) $111$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2000_n2_f1#q18|src_obm_2000_n2_f1__Q18]]
 
 
 
@@ -641,13 +737,18 @@ Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tempo di viaggio da Iracimimirm a Salvador con ingorghi in movimento*
+*Tempo di percorrenza da Iracimimirm a Salvador con ingorgo in movimento*
 
-> Dall'Iracimimirm al Salvador lungo la Strada di Coconut è $60\text{ km}$. A $11{:}00$, un incidente provoca un ingorghi che si estende $15\text{ km}$ in direzione di Salvador e si muove a $4\text{ km/h}$. Lasciamo Iracimimirm a $11{:}00$, viaggiando a $60\text{ km/h}$; nella zona di jam la nostra velocità scende a $6\text{ km/h}$. A che ora arriviamo a Salvador?
-> 
+> Da Iracimimirm a Salvador lungo la Strada delle Noci di Cocco ci sono $60\text{ km}$. A $11{:}00$, un incidente causa un ingorgo che si estende per $15\text{ km}$ in direzione di Salvador e si sposta a $4\text{ km/h}$. Lasciamo Iracimimirm alle $11{:}00$, viaggiando a $60\text{ km/h}$; nella zona dell'ingorgo la nostra velocità scende a $6\text{ km/h}$. Circa a che ora arriviamo a Salvador?
+>
 > A) $10\text{h}43\text{min}$ \quad B) $10\text{h}17\text{min}$ \quad C) $10\text{h}48\text{min}$ \quad D) $10\text{h}53\text{min}$ \quad E) $11\text{h}01\text{min}$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2000_n2_f1#q19|src_obm_2000_n2_f1__Q19]]
 
 
 
@@ -675,12 +776,17 @@ Gioco di NIM: la mossa vincente del primo giocatore con 1000 bastoni, disegna 1-
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2000° numero in sequenza che riempie le celle bianche della tabella di fila in crescita*
+*2000° numero nella sequenza che riempie le celle bianche della tabella a riga crescente*
 
-> Si inseriscono numeri in ordine crescente nelle celle bianche (non ombrate) di una tabella, riempendole come mostrato (le prime righe hanno $1, 2, 3, \ldots$ celle bianche; ad esempio, il numero $9$ scritto è $14$). Qual è il numero $2000$ in questa sequenza?
-> 
+> Mettiamo i numeri in ordine crescente nelle celle bianche (non ombreggiate) di una tabella, riempiendole come mostrato (le prime righe hanno $1, 2, 3, \ldots$ celle bianche; per esempio, il $14$-esimo numero scritto è il $9$-esimo). Qual è il $2000$-esimo numero di questa sequenza?
+>
 > A) $3931$ \quad B) $3933$ \quad C) $3935$ \quad D) $3937$ \quad E) $3939$
 
 ![[src_obm_2000_n2_f1__q20.png]]
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2000_n2_f1#q20|src_obm_2000_n2_f1__Q20]]

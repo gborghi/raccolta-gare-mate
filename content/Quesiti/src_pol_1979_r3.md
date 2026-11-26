@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme di rimanenti distinti: divisibilità per n*
+*Insieme dei resti distinti: divisibilità per n*
 
-> Si deve dare un insieme $\{r_1, r_2, \ldots, r_n\}$ di numeri naturali che danno restanti distinti quando diviso da un numero naturale $n$. Prova che se $k \ge n/2$, allora per ogni numero intero $n$ esistono indici $i$ e $j$ (non necessariamente distinti) in modo tale che $r_i + r_j - n$ sia divisibile da $n$.
+> Sia dato un insieme $\{r_1, r_2, \ldots, r_n\}$ di numeri naturali che danno resti distinti quando vengono divisi per un numero naturale $n$. Dimostrare che, se $k \ge n/2$, allora per ogni numero intero $n$ esistono indici $i$ e $j$ (non necessariamente distinti) tali che $r_i + r_j - n$ è divisibile per $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1979_r3#q01|src_pol_1979_r3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro linee di faccia tetraedro concomitanti se i prodotti di lati opposti sono uguali*
+*Quattro rette delle facce di un tetraedro sono concorrenti se e solo se i prodotti dei lati opposti sono uguali*
 
-> Prove che le quattro linee che uniscono i vertici di un tetraedro con gli incentri delle facce opposte hanno un punto comune se e solo se i tre prodotti delle lunghezze dei bordi opposti sono uguali.
+> Dimostrare che le quattro rette che uniscono i vertici di un tetraedro ai centri degli incentri delle facce opposte hanno un punto comune se e solo se i tre prodotti delle lunghezze degli spigoli opposti sono uguali.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1979_r3#q02|src_pol_1979_r3__Q02]]
 
 
 
@@ -80,9 +94,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Probabilità di esatti successi k in n test indipendenti*
+*Probabilità di esattamente k successi in n prove indipendenti*
 
-> Un esperimento consiste nell'esecuzione di test indipendenti $n$. La prova $i$-è riuscita con probabilità pari a $p_i$. La probabilità di successo dei test $k$ è $p_k$. Provare che $$\sum_{k=0}^{n} k p_k = \sum_{i=1}^{n} p_i.$$
+> Un esperimento consiste nel condurre $n$ prove indipendenti. La $i$-esima prova ha successo con probabilità pari a $p_i$. Sia $p_k$ la probabilità che esattamente $k$ prove abbiano successo. Dimostrare che
+> $$\sum_{k=0}^{n} k p_k = \sum_{i=1}^{n} p_i.$$
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1979_r3#q03|src_pol_1979_r3__Q03]]
 
 
 
@@ -106,9 +128,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza in [1,A] con limite di rapporto implica sequenza in [1,A]*
+*Una successione in [1,A] con limite del rapporto implica una successione in [1,A]*
 
-> $A > 1$ e $B > 1$ siano numeri reali e $(a_n)$ una sequenza di numeri nell'intervallo $[1, AB]$. Prove che esiste una sequenza $(s_n)$ di numeri nell'intervallo $[1, A]$ tale che $$\frac{a_m}{s_m} \le B \cdot \frac{a_n}{s_n} \quad \text{for all } m, n = 1, 2, \ldots$$
+> Siano $A > 1$ e $B > 1$ numeri reali e $(a_n)$ una successione di numeri nell'intervallo $[1, AB]$. Dimostrare che esiste una successione $(s_n)$ di numeri nell'intervallo $[1, A]$ tale che
+> $$\frac{a_m}{s_m} \le B \cdot \frac{a_n}{s_n} \quad \text{for all } m, n = 1, 2, \ldots$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1979_r3#q04|src_pol_1979_r3__Q04]]
 
 
 
@@ -131,9 +161,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il prodotto dei lati quadrilaterali inseriti nel cerchio unitario non supera 4*
+*Il prodotto dei lati di un quadrilatero inscritto nella circonferenza unitaria non supera 4*
 
-> Provare che il prodotto dei lati di un quadrilaterale inserito in un cerchio di raggio 1 non supera il 4.
+> Dimostrare che il prodotto dei lati di un quadrilatero inscritto in una circonferenza di raggio 1 non supera 4.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1979_r3#q05|src_pol_1979_r3__Q05]]
 
 
 
@@ -157,6 +194,14 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio di grado n>1 con n radici distinte: la somma dei valori derivati reciproci è zero*
+*Polinomio di grado n>1 con n radici distinte: la somma dei valori della derivata dei reciproci è nulla*
 
-> Un polinomio $w$ di grado $n > 1$ ha $n$ radici distinte $x_1, x_2, \ldots, x_n$. Provare che: $$\frac{1}{w'(x_1)} + \frac{1}{w'(x_2)} + \cdots + \frac{1}{w'(x_n)} = 0.$$
+> Un polinomio $w$ di grado $n > 1$ ha $n$ radici distinte $x_1, x_2, \ldots, x_n$. Dimostrare che:
+> $$\frac{1}{w'(x_1)} + \frac{1}{w'(x_2)} + \cdots + \frac{1}{w'(x_n)} = 0.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1979_r3#q06|src_pol_1979_r3__Q06]]

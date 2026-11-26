@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo con lati interi il cui perimetro è numericamente uguale all'area; trovare n*
+*Rettangolo con lati interi il cui perimetro è numericamente uguale all'area; trova n*
 
-> Un rettangolo che non è quadrato ha lati con lunghezze interi, misurate in centimetri. Se il suo perimetro è $c$ centimetri e la sua superficie è $c$ centimetri quadrati, determinare $n$ il numero di tali rettangoli.
+> Un rettangolo che non è un quadrato ha lati di lunghezza intera, misurata in centimetri. Se il suo perimetro è di $c$ centimetri e la sua area è di $c$ centimetri quadrati, determina $n$, il numero di tali rettangoli.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n3_f2#q01|src_obm_2013_n3_f2__Q01]]
 
 
 
@@ -56,11 +63,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Massimo numero di vescovi non attaccanti su scacchi 8x8
+*Numero massimo di alfieri non attaccanti a vicenda su una scacchiera 8x8*
 
-> Un *bishop* è un pezzo di scacchi che può muovere diagonalmente qualsiasi numero di quadrati in qualsiasi direzione. Nella figura seguente sono indicate le possibili direzioni di movimento del vescovo da un determinato quadrato della lavagna. Diciamo che due vescovi si attaccano quando uno è su un quadrato raggiungibile dall'altro in una sola mossa. Qual è il numero massimo di vescovi che può essere posto su una lavagna in modo tale che non ci siano due vescovi che si attaccano a vicenda?
+> Un *alfiere* è una pedina degli scacchi che può muoversi in diagonale di qualsiasi numero di caselle in qualsiasi direzione. Nella figura sottostante sono indicate le possibili direzioni di movimento dell'alfiere da una data casella della scacchiera. Diciamo che due alfieri *si attaccano* a vicenda quando uno si trova su una casella raggiungibile dall'altro in una singola mossa. Qual è il numero massimo di alfieri che si possono collocare su una scacchiera $8 \times 8$ in modo che nessun due alfieri si attacchino a vicenda?
 
 ![[src_obm_2013_n3_f2__q02.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n3_f2#q02|src_obm_2013_n3_f2__Q02]]
 
 
 
@@ -89,9 +103,22 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare la somma che coinvolge 1/(n(n+1)) per trovare A+B*
+*Valuta la somma che coinvolge 1/(n(n+1)) per trovare A+B*
 
-> Si osserva che $$\frac{1}{n(n+1)} = \frac{1}{n} - \frac{1}{n+1}.$$ Così possiamo calcolare la serie $$\sum_{n=2}^{\infty} \frac{1}{n(n+1)} = \frac{1}{1 \cdot 2} + \frac{1}{2 \cdot 3} + \frac{1}{3 \cdot 4} + \cdots = \left(1 - \frac{1}{2}\right) + \left(\frac{1}{2} - \frac{1}{3}\right) + \left(\frac{1}{3} - \frac{1}{4}\right) + \cdots = 1.$$ Sapendo che $\displaystyle\sum_{n=1}^{\infty} \frac{1}{n^2} = 1 + \frac{1}{4} + \frac{1}{9} + \cdots = \frac{\pi^2}{6}$, il valore di $$\sum_{n=1}^{\infty} \frac{1}{n(n+1)^2} = \frac{1}{1 \cdot 2^2} + \frac{1}{2 \cdot 3^2} + \frac{1}{3 \cdot 4^2} + \cdots$$ è della forma $A - \dfrac{\pi^2}{B}$, dove $A$ e $B$ sono interi positivi. Determinare il valore di $A + B$.
+> Si noti che
+> $$\frac{1}{n(n+1)} = \frac{1}{n} - \frac{1}{n+1}.$$
+> Pertanto, possiamo calcolare la serie
+> $$\sum_{n=2}^{\infty} \frac{1}{n(n+1)} = \frac{1}{1 \cdot 2} + \frac{1}{2 \cdot 3} + \frac{1}{3 \cdot 4} + \cdots = \left(1 - \frac{1}{2}\right) + \left(\frac{1}{2} - \frac{1}{3}\right) + \left(\frac{1}{3} - \frac{1}{4}\right) + \cdots = 1.$$
+> Sapendo che $\displaystyle\sum_{n=1}^{\infty} \frac{1}{n^2} = 1 + \frac{1}{4} + \frac{1}{9} + \cdots = \frac{\pi^2}{6}$, il valore di
+> $$\sum_{n=1}^{\infty} \frac{1}{n(n+1)^2} = \frac{1}{1 \cdot 2^2} + \frac{1}{2 \cdot 3^2} + \frac{1}{3 \cdot 4^2} + \cdots$$
+> è della forma $A - \dfrac{\pi^2}{B}$, dove $A$ e $B$ sono interi positivi. Determinare il valore di $A + B$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Telescoping]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n3_f2#q03|src_obm_2013_n3_f2__Q03]]
 
 
 
@@ -114,9 +141,16 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximo divisore comune dei prodotti di tutti i sottoinsiemi di 15 elementi di {1,...,20}*
+*Massimo divisore comune dei prodotti di tutti i sottoinsiemi a 15 elementi di {1,...,20}*
 
-> $A = \{1, 2, 3, \ldots, 20\}$ sia l'insieme dei primi 20 integri positivi. Per ogni sottoinsieme $X$ di 15 elementi di $A$, calcoliamo il prodotto $p(X)$ dei suoi elementi. Per esempio, $p(\{1, 2, 3, \ldots, 15\}) = 1 \cdot 2 \cdot 3 \cdots 15 = 15!$. Qual è il più grande divisore comune a tutti i prodotti $p(X)$ ottenuti da tutti i $\binom{20}{15}$ sottoinsiemi di 15 elementi di $A$?
+> Sia $A = \{1, 2, 3, \ldots, 20\}$ l'insieme dei primi 20 numeri interi positivi. Per ciascun sottoinsieme $X$ di 15 elementi di $A$, calcoliamo il prodotto $p(X)$ dei suoi elementi. Ad esempio, $p(\{1, 2, 3, \ldots, 15\}) = 1 \cdot 2 \cdot 3 \cdots 15 = 15!$. Qual è il più grande divisore comune a tutti i prodotti $p(X)$ ottenuti da tutti i sottoinsiemi $\binom{20}{15}$ di 15 elementi di $A$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n3_f2#q04|src_obm_2013_n3_f2__Q04]]
 
 
 
@@ -139,9 +173,16 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perimetro del triangolo ortico di ABC con lati 13,14,15; trovare a+b*
+*Perimetro del triangolo ortico di ABC con lati 13, 14, 15; trova a+b*
 
-> Si può dimostrare che per un triangolo acuto $ABC$, il triangolo $DEF$ con $D$, $E$, $F$ che sono rispettivamente i piedi delle altitudini dai lati $BC$, $CA$ e $AB$ riduce al minimo il perimetro tra tutti i triangoli iscritti in $ABC$. Il triangolo $DEF$ è chiamato il triangolo ortico ** di $ABC$. Se $AB = 13$, $BC = 14$ e $CA = 15$, il perimetro del triangolo ortico può essere scritto come $\dfrac{a}{b}$, dove $a$ e $b$ sono integri positivi copri. Determinare il valore di $a + b$.
+> Si può dimostrare che, per un triangolo acuto $ABC$, il triangolo $DEF$ con $D$, $E$, $F$ rispettivamente come piedi delle altezze relative ai lati $BC$, $CA$ e $AB$, minimizza il perimetro tra tutti i triangoli inscritti in $ABC$. Il triangolo $DEF$ è chiamato *triangolo ortico* di $ABC$. Se $AB = 13$, $BC = 14$ e $CA = 15$, il perimetro del triangolo ortico può essere espresso come $\dfrac{a}{b}$, dove $a$ e $b$ sono interi positivi coprimi. Determinare il valore di $a + b$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n3_f2#q05|src_obm_2013_n3_f2__Q05]]
 
 
 
@@ -164,9 +205,16 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrato inciso in un cerchio di raggio 30; acordo AM incontra la diagonale BD a P; AM=50, trovare AP*
+*Il quadrilatero ABCD è inscritto in una circonferenza di raggio 30; la corda AM interseca la diagonale BD nel punto P; AM=50, si determini AP*
 
-> Il quadrato $ABCD$ è inserito in un cerchio di raggio $30$. L'accordo $AM$ taglia la diagonale $BD$ al punto $P$. Se $AM = 50$, trovare il valore di $AP$.
+> Il quadrato $ABCD$ è inscritto in una circonferenza di raggio $30$. La corda $AM$ interseca la diagonale $BD$ nel punto $P$. Se $AM = 50$, determina il valore di $AP$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n3_f2#q06|src_obm_2013_n3_f2__Q06]]
 
 
 
@@ -189,9 +237,16 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di modi di tessitura di una tabella da 1x112 con tessitura da 1x7 e 1x8*
+*Numero di modi per rivestire una tavola 1x112 con tessere 1x7 e 1x8*
 
-> Per coprire una lavagna di dimensioni $1 \times 112$, possiamo utilizzare heptomino gialle di dimensioni $1 \times 7$ e ottomino rosse di dimensioni $1 \times 8$. In quanti modi possiamo coprire completamente la lavagna?
+> Per coprire una tavola di dimensioni $1 \times 112$, possiamo usare eptomini gialli di dimensioni $1 \times 7$ e ottomini rossi di dimensioni $1 \times 8$. In quanti modi possiamo coprire interamente la tavola?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n3_f2#q07|src_obm_2013_n3_f2__Q07]]
 
 
 
@@ -222,7 +277,20 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 
 *Numero di quadrupli reali ordinati (x,y,z,w) che soddisfano il sistema cubico ciclico*
 
-> Determinare il numero di quadrupli ordinati $(x, y, z, w)$ di numeri reali tali che $$\begin{cases} -x^3 = y + z + w \\ -y^3 = z + w + x \\ -z^3 = w + x + y \\ -w^3 = x + y + z \end{cases}$$
+> Determinare il numero di quadruple ordinate $(x, y, z, w)$ di numeri reali tali che
+> $$\begin{cases}
+> -x^3 = y + z + w \\
+> -y^3 = z + w + x \\
+> -z^3 = w + x + y \\
+> -w^3 = x + y + z
+> \end{cases}$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n3_f2#q08|src_obm_2013_n3_f2__Q08]]
 
 
 
@@ -247,6 +315,15 @@ Massimo numero di vescovi non attaccanti su scacchi 8x8
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N più piccolo del modo che B sia divisibile per 3^n, dove la somma 1+1/2+...+1/2013=A/B in termini più bassi*
+*Il più grande n tale che B sia divisibile per 3^n, dove la somma 1+1/2+...+1/2013=A/B in forma irriducibile*
 
-> Scriviamo la somma delle reciprocità dei numeri interi da $1$ a $2013$ come la frazione irriducibile $\dfrac{A}{B}$, cioè $$1 + \frac{1}{2} + \frac{1}{3} + \cdots + \frac{1}{2013} = \frac{A}{B}, \qquad \gcd(A,B) = 1.$$ Qual è il numero intero più grande $n$ tale che $B$ sia divisibile da $3^n$?
+> Scriviamo la somma dei reciproci degli interi da $1$ a $2013$ come frazione irriducibile $\dfrac{A}{B}$, cioè,
+> $$1 + \frac{1}{2} + \frac{1}{3} + \cdots + \frac{1}{2013} = \frac{A}{B}, \qquad \gcd(A,B) = 1.$$
+> Qual è il più grande intero $n$ tale che $B$ sia divisibile per $3^n$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n3_f2#q09|src_obm_2013_n3_f2__Q09]]

@@ -29,9 +29,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre quadratici condividono uno zero comune; trovare i polinomi*
+*Tre polinomi di secondo grado hanno uno zero in comune; determina i polinomi*
 
-> $\alpha$ sia lo zero comune dei tre polinomi $x^2 + ax + b$, $x^2 + x + ab$ e $ax^2 + x + b$. (In questo modo $\alpha^2 + a\alpha + b = 0$, $\alpha^2 + \alpha + ab = 0$ e $a\alpha^2 + \alpha + b = 0$.) Trova tutti questi polinomi, cioè\ trova tutti i valori di $a$ e $b$.
+> Sia $\alpha$ lo zero comune dei tre polinomi $x^2 + ax + b$, $x^2 + x + ab$ e $ax^2 + x + b$. (Pertanto $\alpha^2 + a\alpha + b = 0$, $\alpha^2 + \alpha + ab = 0$ e $a\alpha^2 + \alpha + b = 0$.) Trovare tutti tali polinomi, cioè trovare tutti i valori di $a$ e $b$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2012_mumbai#q01|src_rmo_2012_mumbai__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Divisibilità per 169 di un quadratico in n*
+*Divisibilità per 169 di un polinomio quadratico in n*
 
-> $n$ sia un numero naturale. Prova che $169$ divide $21n^2 + 89n + 44$ se e solo se $13$ divide $n^2 + 3n + 51$.
+> Sia $n$ un numero naturale. Dimostrare che $169$ divide $21n^2 + 89n + 44$ se e solo se $13$ divide $n^2 + 3n + 51$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2012_mumbai#q02|src_rmo_2012_mumbai__Q02]]
 
 
 
@@ -80,11 +94,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi un'equazione esponenziale che coinvolge parti di pavimento e frazioni*
+*Risolvi un'equazione esponenziale che coinvolge la parte intera e la parte frazionaria*
 
-> Risolvi l'equazione $2^{\lfloor x \rfloor} + \{x\} = \dfrac{5\cdot 2^{2\lfloor x \rfloor}}{2^{2\lfloor x \rfloor} - 11}$, dove $\lfloor x \rfloor$ indica la parte integrale di $x$ e $\{x\}$ indica la sua parte frazionaria.
+> Risolvi l'equazione $2^{\lfloor x \rfloor} + \{x\} = \dfrac{5\cdot 2^{2\lfloor x \rfloor}}{2^{2\lfloor x \rfloor} - 11}$, dove $\lfloor x \rfloor$ denota la parte intera di $x$ e $\{x\}$ ne denota la parte frazionaria.
 
-**Risposta:** $x = 14/5$
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2012_mumbai#q03|src_rmo_2012_mumbai__Q03]]
 
 
 
@@ -108,11 +127,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove un rapporto di prodotto tra i segmenti utilizzando un angolo retto e un angolo perpendicolare*
+*Dimostra una relazione tra prodotti di segmenti utilizzando un angolo retto e una perpendicolare*
 
-> Il $AEB$ deve essere tale che $\angle AEB = 90^\circ$ e il $ED$ deve essere perpendicolare a $AB$. Prove che $AD \cdot DB = HD \cdot CD$, cioè che $\dfrac{AD}{CD} = \dfrac{HD}{DB}$, dove i punti $C$, $E$, $H$, $D$ sono come nella figura di accompagnamento (con $\angle DAH = \angle BCD$ e $\angle DAH = \angle CDB$ in modo che i triangoli $ADH$ e $CDB$ siano simili).
+> Sia $AEB$ tale che $\angle AEB = 90^\circ$ e sia $ED$ perpendicolare a $AB$. Dimostrare che $AD \cdot DB = HD \cdot CD$, cioè che $\dfrac{AD}{CD} = \dfrac{HD}{DB}$, dove i punti $C$, $E$, $H$, $D$ sono come nella figura allegata (con $\angle DAH = \angle BCD$ e $\angle DAH = \angle CDB$ in modo che i triangoli $ADH$ e $CDB$ siano simili).
 
 ![[src_rmo_2012_mumbai__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2012_mumbai#q04|src_rmo_2012_mumbai__Q04]]
 
 
 
@@ -136,11 +161,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli con una prima e un'equazione reciproca*
+*Trovare tutte le terne che comprendono un numero primo e un'equazione reciproca*
 
-> Trovare tutti i triples $(a, b, c)$ di numeri interi positivi in modo che $a$ sia un primo, $1 \le a \le b \le c$, e $$\frac{1}{a} + \frac{2}{b} + \frac{3}{c} = 1.$$
+> Find all triples $(a, b, c)$ of positive integers such that $a$ is a prime, $1 \le a \le b \le c$, and $$\frac{1}{a} + \frac{2}{b} + \frac{3}{c} = 1.$$
 
-**Risposta:** $(a,b,c)\in\{(2,5,30),(2,6,18),(2,7,14),(2,8,12),(2,10,10),(3,4,18),(3,6,9)\}$
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2012_mumbai#q05|src_rmo_2012_mumbai__Q05]]
 
 
 
@@ -164,11 +194,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa alternata ponderata su tutti i sottogruppi di un insieme di 10 elementi*
+*Somma alternata ponderata su tutti i sottoinsiemi di un insieme di 10 elementi*
 
-> Per un sottogruppo non vuoto $A$ di $S = \{1, 2, \ldots, 10\}$, definire $w(A)$ organizzando gli elementi di $A$ in ordine decrescente e quindi aggiungendo e sottrattandoli alternatamente, a partire dall'aggiunta (si aggiunge l'elemento più grande). $\mathrm{WSUM}$ sia la somma di $w(A)$ su tutti i sottoinsiemi non vuoti $A$ di $S$. Mostra che $\mathrm{WSUM} = 70656$.
+> Per un sottoinsieme non vuoto $A$ di $S = \{1, 2, \ldots, 10\}$, si definisca $w(A)$ disponendo gli elementi di $A$ in ordine decrescente e poi sommando e sottraendo alternativamente tali elementi, partendo dalla somma (si somma l'elemento più grande). Sia $\mathrm{WSUM}$ la somma di $w(A)$ su tutti i sottoinsiemi non vuoti $A$ di $S$. Si dimostri che $\mathrm{WSUM} = 70656$.
 
-**Risposta:** $70656$
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2012_mumbai#q06|src_rmo_2012_mumbai__Q06]]
 
 
 
@@ -193,13 +228,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La potenza di un punto e di triangoli simili dà un angolo di 100 gradi*
+*La potenza di un punto e i triangoli simili danno un angolo di 100 gradi*
 
-> Nella configurazione data, $O$, $E$, $X$ sono collineari, $A$, $B$, $C$, $D$ si trovano su un cerchio, e i triangoli $OCX$ e $CEX$ sono simili in modo che $XC/XO = XE/XC$, cioè $XC^2 = XO\cdot XE$; anche $XC^2 = XB\cdot XA$, quindi $XB\cdot XA = XE\cdot XO$ e così $O$, $A$, $B$, $E$ sono conciclici. Date $\angle OAB = 180^\circ - \angle OEB = 40^\circ$, dimostrare che $\angle AOB = 180^\circ - 2\,\angle OAB = 100^\circ$.
+> Nella configurazione data, $O$, $E$, $X$ sono allineati, $A$, $B$, $C$, $D$ giacciono su una circonferenza, e i triangoli $OCX$ e $CEX$ sono simili, cosicché $XC/XO = XE/XC$, cioè $XC^2 = XO\cdot XE$; inoltre $XC^2 = XB\cdot XA$, quindi $XB\cdot XA = XE\cdot XO$ e così $O$, $A$, $B$, $E$ sono conciclici. Dato $\angle OAB = 180^\circ - \angle OEB = 40^\circ$, si dimostri che $\angle AOB = 180^\circ - 2\,\angle OAB = 100^\circ$.
 
 ![[src_rmo_2012_mumbai__q07.png]]
 
-**Risposta:** $\angle AOB = 100^\circ$
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2012_mumbai#q07|src_rmo_2012_mumbai__Q07]]
 
 
 
@@ -222,6 +261,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimostra una disuguaglianza per due frazioni con un vincolo reciproco*
+*Dimostrare una disuguaglianza per due frazioni sotto un vincolo di reciprocità*
 
-> $x = 2a$, $y = 2b$, $z = 2c$ con $a, b, c > 1$ che soddisfi $\dfrac{1}{a} + \dfrac{1}{b} + \dfrac{1}{c} = 1$. Provare che $$\frac{1}{(a-1)(b-1)(c-1)} + \frac{8}{(a+1)(b+1)(c+1)} \le \frac{1}{4}.$$
+> Let $x = 2a$, $y = 2b$, $z = 2c$ with $a, b, c > 1$ satisfying $\dfrac{1}{a} + \dfrac{1}{b} + \dfrac{1}{c} = 1$. Prove that $$\frac{1}{(a-1)(b-1)(c-1)} + \frac{8}{(a+1)(b+1)(c+1)} \le \frac{1}{4}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2012_mumbai#q08|src_rmo_2012_mumbai__Q08]]

@@ -29,11 +29,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three larger Matteo numbers (product = sum of digits)*
+*The three greatest Matteo numbers*
 
-> We call a "Matteo number" a four-digit number such that the product of the first two digits is equal to the sum of the last two. For example $1990$ is a Matteo number ($1 \times 9 = 9+0$), as are $2351$ or $5387$. What are the three greatest Matteo numbers?
+> We call a "Matteo number" a four-digit number such that the product of the first two digits equals the sum of the last two. For example $1990$ is a Matteo number ($1 \times 9 = 9+0$), as are $2351$ or $5387$. What are the three greatest Matteo numbers?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** 9299, 9190, 9181
+[[Quesiti/src_kangourou_2005_benjamin_finale#qb1|src_kangourou_2005_benjamin_finale__QB1]]
 
 
 
@@ -58,13 +61,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Excess area of undefined land*
+*By how many square metres the marked-out piece is larger than intended*
 
 ![[src_kangourou_2005_benjamin_finale__probb2.png]]
 
-> A geometer had to delimit a portion of land so as to obtain a square with side $2005$ m. The first bounded side is perpendicular to the second and the second to the third, but, by mistake, they measure in the order $2005$ m, $2006$ m, $2007$ m (i.e. the side measuring $2005$ m is the opposite of the side measuring $2007$ m). If the fourth side of the polygon is plotted by joining the two remaining free vertices, how many square meters is the delimited portion larger than expected?
+> A surveyor was to mark out a piece of land so as to obtain a square of side $2005$ m. The first side marked out is perpendicular to the second, and the second to the third, but, by mistake, they measure in order $2005$ m, $2006$ m, $2007$ m (that is, the side that measures $2005$ m is opposite the one that measures $2007$ m). If the fourth side of the polygon is drawn by joining the two vertices left free, by how many square metres is the piece marked out larger than intended?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** 4011 m2
+[[Quesiti/src_kangourou_2005_benjamin_finale#qb2|src_kangourou_2005_benjamin_finale__QB2]]
 
 
 
@@ -87,11 +93,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining cards to be examined at one*
+*How many answer sheets would be left at one in the afternoon*
 
-> Before the optical reader was used, Kangourou's response cards were examined by hand. A human proofreader examined an average of $2$ cards per minute. At eleven o'clock in the morning of a certain day he had examined half the cards assigned to him for that day. At noon he had examined two thirds of them. If he had never stopped and continued at the same pace, how many sheets would he have left to examine at one o'clock that afternoon?
+> Before the optical reader was used, the Kangourou answer sheets were examined by hand. A human marker examined on average $2$ sheets a minute. At eleven in the morning of a given day he had examined half of the sheets assigned to him for that day. At noon he had examined two thirds of them. If he had never stopped and had gone on at the same rate, how many sheets would he have had left to examine at one in the afternoon of that day?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** 120
+[[Quesiti/src_kangourou_2005_benjamin_finale#qb3|src_kangourou_2005_benjamin_finale__QB3]]
 
 
 
@@ -119,13 +128,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum laces purchased by Silvia*
+*The fewest hair ribbons Silvia can have bought*
 
-> Five girls, including Silvia, bought some hair laces. It is known that: - there are no two of them who have bought the same number of laces; - the number of laces bought by three of them is greater than that bought by the other two.
-> 
-> What is the minimum number of laces that Silvia could have bought? Justify your answer.
+> Five girls, including Silvia, bought some hair ribbons. It is known that:
+> - no two of them bought the same number of ribbons;
+> - the number of ribbons bought by any three of them is greater than that bought by the remaining two.
+>
+> What is the smallest number of ribbons Silvia can have bought? Justify the answer.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
 **Answer:** 5
+[[Quesiti/src_kangourou_2005_benjamin_finale#qb4|src_kangourou_2005_benjamin_finale__QB4]]
 
 
 
@@ -153,15 +168,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of draws to empty an urn (variations +/-1)*
+*The smallest number of draws enough to empty the urn*
 
-> In an urn there are $35$ balls. We perform successive draws following this procedure rigorously:
+> In an urn there are $35$ balls. We carry out successive draws, following this procedure strictly:
 > - at the first draw one ball is taken;
-> - at every subsequent draw (including the last) one more ball or one fewer ball must be taken compared to the previous draw.
-> 
-> What is the minimum number of draws sufficient for the urn to remain empty? Motivate your answer.
+> - at every following draw (the last included) one more ball or one fewer than at the previous draw must be taken.
+>
+> What is the smallest number of draws enough for the urn to be left empty? Justify the answer.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** 9
+[[Quesiti/src_kangourou_2005_benjamin_finale#qb5|src_kangourou_2005_benjamin_finale__QB5]]
 
 
 
@@ -194,7 +213,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dividing a regular hexagon into 8 equal parts*
+*Whether the hexagon can be split into 8 equal parts*
 
 ![[src_kangourou_2005_benjamin_finale__probb6.png]]
 
@@ -206,6 +225,9 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure you see a regular hexagon. Can you divide it into $8$ parts of the same shape and size? If the answer is no, you must justify it; if the answer is yes, illustrate the division you propose directly on the figure. (see figure)
+> In the figure you see a regular hexagon. Can you split it into $8$ parts of equal shape and size? If the answer is no, you must justify it; if the answer is yes, show the split you propose directly on the figure. (see the figure)
 
-**Answer:** Yes
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Answer:** Si
+[[Quesiti/src_kangourou_2005_benjamin_finale#qb6|src_kangourou_2005_benjamin_finale__QB6]]

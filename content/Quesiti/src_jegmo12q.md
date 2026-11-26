@@ -31,9 +31,18 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie prime (p,q) con p≤q che rende una frazione un numero intero*
+*Coppie di primi p ≤ q per cui (p² − 3q + q²)/(p+q) è intero*
 
-> Trova tutte le coppie $(p, q)$ di numeri primi con $p \le q$ in modo tale che $$\frac{p^2 - 3q + q^2}{p + q}$$ sia un numero intero.
+> Trovare tutte le coppie $(p, q)$ di numeri primi con $p \le q$ tali che
+> $$\frac{p^2 - 3q + q^2}{p + q}$$
+> sia un intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Analisi accurata per casi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_jegmo12q#q01|src_jegmo12q__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il centro di PQ si trova sul circoncircolo di ABC; collinearità dell'ortocentro*
+*Il punto medio di PQ giace sulla circonferenza circoscrita di ABC; collinearità dell'ortocentro*
 
-> Il $ABC$ deve essere un triangolo acuto con il centro orto $H$. Prendi un punto $P$ (diverso da $H$) sul circoncircolo di $\triangle AHB$, e un punto $Q$ (diverso da $H$) sul circoncircolo di $\triangle AHC$, in modo tale che $P$, $H$, $Q$ siano collineari in questo ordine. Indicare che il punto medio del segmento $PQ$ si trova sul circoncircolo di $\triangle ABC$.
+> Sia $ABC$ un triangolo acutangolo con ortocentro $H$. Si prenda un punto $P$ (diverso da $H$) sulla circonferenza circoscritta a $\triangle AHB$, e un punto $Q$ (diverso da $H$) sulla circonferenza circoscritta a $\triangle AHC$, in modo che $P$, $H$, $Q$ siano allineati in questo ordine. Dimostrare che il punto medio del segmento $PQ$ giace sulla circonferenza circoscritta a $\triangle ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jegmo12q#q02|src_jegmo12q__Q02]]
 
 
 
@@ -85,13 +101,20 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizionare le carte n2 sulla griglia n×n in modo che le carte adiacenti abbiano valori di coprime*
+*Posiziona n² carte su una griglia n×n in modo che le carte adiacenti abbiano valori coprimi*
 
-> $n \ge 2$ sia un numero intero. Ci sono carte $n^2$ etichettate $1, 2, \ldots, n^2$. Per ogni numero intero $i$ con $1 \le i \le n^2$, la scheda $i$ ha il numero $\left\lfloor \dfrac{n^2}{i} \right\rfloor$ scritto su di essa. Desideriamo inserire una carta in ogni cella di una griglia $n \times n$ (una carta per cella) in modo tale che la seguente condizione soddisfi:
-> 
-> Per due cellule che condividono un lato, i due numeri scritti sulle schede posizionate in quelle cellule sono coprim.
-> 
-> Trova tutti i valori di $n$ per i quali esiste un tale sistema.
+> Sia $n \ge 2$ un numero intero. Ci sono $n^2$ carte etichettate con $1, 2, \ldots, n^2$. Per ogni numero intero $i$ tale che $1 \le i \le n^2$, sulla carta $i$ è scritto il numero $\left\lfloor \dfrac{n^2}{i} \right\rfloor$. Vogliamo collocare una carta in ciascuna cella di una griglia $n \times n$ (una carta per cella) in modo che valga la seguente condizione:
+>
+> Per qualsiasi coppia di celle che condividono un lato, i due numeri scritti sulle carte collocate in quelle celle sono coprimi.
+>
+> Trova tutti i valori di $n$ per cui esiste una tale disposizione.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jegmo12q#q03|src_jegmo12q__Q03]]
 
 
 
@@ -118,11 +141,20 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza a_{n+1}=a_n·a_n; dimostrare a_n=a_1 per tutti gli integri positivi n*
+*Successione a_{n+1}=a_n·⌊a_n⌋; dimostrare che a_n=a_1 per tutti gli interi positivi n*
 
-> Una sequenza di numeri reali positivi $a_1, a_2, \ldots$ soddisfa $$a_{n+1} = a_n \cdot \lfloor a_n \rfloor$$ per tutti i numeri interi positivi $n$. Prova che $a_n = a_1$ vale per tutti gli integri positivi $n$.
-> 
-> (Qui, per un numero reale $r$, $\lfloor r \rfloor$ indica il numero intero più grande inferiore o uguale a $r$. Ad esempio, $\lfloor 3.14 \rfloor = 3$ e $\lfloor 5 \rfloor = 5$.)
+> Una successione di numeri reali positivi $a_1, a_2, \ldots$ soddisfa
+> $$a_{n+1} = a_n \cdot \lfloor a_n \rfloor$$
+> per tutti gli interi positivi $n$. Dimostrare che $a_n = a_1$ vale per tutti gli interi positivi $n$.
+>
+> (Qui, per un numero reale $r$, $\lfloor r \rfloor$ denota il più grande intero minore o uguale a $r$. Ad esempio, $\lfloor 3.14 \rfloor = 3$ e $\lfloor 5 \rfloor = 5$.)
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jegmo12q#q04|src_jegmo12q__Q04]]
 
 
 
@@ -152,10 +184,19 @@ level: JEGMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di cellule nere iniziali per riempire tutta la griglia 10×10 diffondendo*
+*Numero minimo di celle nere iniziali per riempire l'intera griglia 10×10 tramite propagazione*
 
-> C'è una griglia $10 \times 10$ di cellule, alcune delle quali sono inizialmente di colore nero e il resto di colore bianco. Considerate la seguente operazione: scegliete una cella bianca che soddisfi almeno una delle due condizioni riportate di seguito e coloratela di colore nero.
-> 
-> La cella direttamente sopra e la cella direttamente sotto esistono e sono entrambi neri. \item La cella direttamente a sinistra e la cella direttamente a destra esistono e sono entrambi neri. # Finire #
-> 
-> Quando è possibile rendere tutte le cellule nere ripetendo questa operazione finitamente molte volte, trovare il numero minimo di cellule che devono essere inizialmente di colore nero.
+> C'è una griglia di $10 \times 10$ celle, alcune delle quali sono inizialmente colorate di nero e le restanti di bianco. Si consideri la seguente operazione: scegliere una cella bianca che soddisfi almeno una delle due condizioni seguenti e colorarla di nero.
+>
+> \begin{itemize}
+> \item La cella direttamente sopra e la cella direttamente sotto esistono entrambe e sono entrambe nere. \item La cella direttamente a sinistra e la cella direttamente a destra esistono entrambe e sono entrambe nere.
+> \end{itemize}
+>
+> Quando è possibile rendere nere tutte le celle ripetendo questa operazione un numero finito di volte, determinare il numero minimo di celle che devono essere colorate di nero inizialmente.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jegmo12q#q05|src_jegmo12q__Q05]]

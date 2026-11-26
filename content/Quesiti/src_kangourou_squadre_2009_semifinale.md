@@ -38,11 +38,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting results of 6 red and 5 green balls in box*
+*Count of outcomes for 6 red balls and 5 green balls in a box*
 
-> Do you have a decent target? As in the question "Have you a good aim?" of the semi-final, you have 11 balls: 6 red, indistinguishable from each other, and 5 green, indistinguishable from each other. Now there are two boxes open, one white and one black, in which attempts to throw the balls: some (possibly none) will go into a box, some (possibly none) into the other, some (possibly none) will end up out. How many different possible outcomes ? (For example: one outcome is 3 green balls and 2 red balls in the white box, no green and 2 red balls in the black box, the others out, a different outcome is 3 green balls and 2 red balls in the black box, no green and 2 red balls in the white box, the others out.)
+> Do you have decent aim? As in the question “Do you have good aim?” from the semi-final, you have 11 balls: 6 colored red and indistinguishable from one another, and 5 colored green and indistinguishable from one another. Now two boxes are open—one white and one black—and you try to throw the balls into them: some (possibly none) will go into one box, others (possibly none) into the other, and still others (possibly none) will end up outside. How many different possible outcomes are there? (For example: one outcome is “3 green balls and 2 red balls in the white box, no green balls and 2 red balls in the black box, the rest outside”; a different outcome is “3 green balls and 2 red balls in the black box, no green balls and 2 red balls in the white box, the rest outside”.)
 
-**Answer:** 0042
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_squadre_2009_semifinale#q01|src_kangourou_squadre_2009_semifinale__Q01]]
 
 
 
@@ -74,9 +79,13 @@ level: squadre
 
 *Percentage of perfect squares between 1 and 10000*
 
-> The circuit has some regular pentagons and some squares available; the sides of these polygons are all the same length. By placing them alternating pentagons and squares, so that one side of a pentagon matches another side of a square and vice versa, you want to make a closed circuit on a plane: the construction of the ring must proceed as shown in the figure. Assuming it is possible to build it, how many polygons will the closed circuit consist of? (Write 0000 if you can't build it.)
+> The Circuit You have some regular pentagons and some squares at your disposal; all the sides of these polygons are of the same length. By joining them together, alternating pentagons and squares so that one side of a pentagon coincides with one side of a square and vice versa, you want to form a closed circuit while remaining in one plane: the construction of the ring must proceed as indicated in the figure. Assuming it is possible to construct it, how many polygons will make up the closed circuit? (Write 0000 if it is not possible to construct it.)
 
-**Answer:** 0001
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2009_semifinale#q02|src_kangourou_squadre_2009_semifinale__Q02]]
 
 
 
@@ -111,22 +120,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flag disc beam with cross (similarity)*
+*Radius of the flag disc with a cross (analogy)*
 
 ![[src_kangourou_squadre_2009_semifinale__prob3.png]]
 
-> The flag with the circle
-> In the figure (which is not to scale) you see a flag
-> rectangular colored white and gray whose horizontal sides
-> are 240 cm long and whose vertical sides are
-> 150 cm long. On the flag there is a white cross with
-> arms with parallel sides whose measurements are determined as
-> indicated in the figure. At the center of the cross is centered a
-> gray disk; on its circumference lie the vertices of the
-> two gray isosceles triangles, upper and lower. How many
-> centimeters is the radius of the disk?
+> The Flag with the Circle In the figure (which is not to scale), you can see a rectangular flag colored white and gray, with horizontal sides 240 cm long and vertical sides 150 cm long. On the flag appears a white cross with arms whose sides are parallel; the dimensions of the cross are as indicated in the figure. Centered in the middle of the cross is a gray disc; on its circumference lie the vertices of the two gray isosceles triangles, the upper one and the lower one. How many centimeters long is the radius of the disc?
 
-**Answer:** 0027
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_squadre_2009_semifinale#q03|src_kangourou_squadre_2009_semifinale__Q03]]
 
 
 
@@ -162,24 +167,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the white cross in the flag*
+*Area of the white cross on the flag*
 
 ![[src_kangourou_squadre_2009_semifinale__prob4.png]]
 
-> The flag without the circle
-> In the figure (which is not to scale) you see a flag
-> rectangular colored white and gray whose horizontal
-> sides are 240 cm long and whose vertical sides are
-> 150 cm long. On the flag there appears a white cross with
-> arms with parallel sides whose measurements are determined as
-> indicated in the figure (exactly as in the previous
-> question, but now the circle is no longer there). What is in
-> square centimeters the area of the white cross?
-> ATTENTION: do not report in the answer the units
-> digit (for example, if the answer were 10123, you should
-> report only 1012)
+> The flag without the circle In the figure (which is not to scale), you can see a rectangular flag colored white and grey, with horizontal sides 240 cm long and vertical sides 150 cm long. On the flag appears a white cross with arms whose sides are parallel; the dimensions of the cross are determined as indicated in the figure (exactly as in the previous question, but now the circle is no longer present). What is the area of the white cross in square centimetres? WARNING: do not include the units digit in your answer (for example, if the answer were 10123, you should report only 1012).
 
-**Answer:** 2157
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_squadre_2009_semifinale#q04|src_kangourou_squadre_2009_semifinale__Q04]]
 
 
 
@@ -211,19 +209,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of pieces on a connected 8x8 board*
+*Maximum number of pieces on a connected 8x8 chessboard*
 
-> The chessboard
-> You have available an 8 × 8 chessboard (like the one used for checkers or chess) and 50 pieces.
-> You want to arrange the pieces on the chessboard so that:
-> 1) each piece lies exactly inside some square and there is no more than one in each square;
-> 2) pairs of squares occupied by pieces do not have sides in common (though they may have a vertex
+> The Chessboard You have an 8 × 8 chessboard (like the one used in checkers or chess) and 50 pieces at your disposal. You want to arrange the pieces on the board so that:
+> 1) each piece must lie exactly inside some square, and no more than one piece may be in any given square;
+> 2) pairs of squares occupied by pieces should not share any sides (although they may share a vertex
 > in common);
-> 3) from any square left free one can reach every other free square, only by moving
-> vertically or horizontally onto other free squares, without jumping over pieces.
-> What is the maximum number of pieces that you can place on the chessboard?
+> 3) from any remaining empty cell, every other empty cell can be reached only by passing through
+> Vertically or horizontally onto other empty squares, without jumping over pieces. What is the maximum number of pieces you can place on the chessboard?
 
-**Answer:** 0021
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_squadre_2009_semifinale#q05|src_kangourou_squadre_2009_semifinale__Q05]]
 
 
 
@@ -249,14 +249,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nights lived by her mother before Martina (leap)*
+*Nights experienced by Mom before Martina (leap years)*
 
-> Before Martina
-> Martina was born on May 9 of last year at noon. Her mother was born on May 9 of
-> 1983, also at noon. How many nights did Martina's mother live before Martina was born
-> Martina?
+> Before Martina, Martina was born at noon on May 9 of last year. Her mother was born at noon on May 9, 1983, also at noon. How many nights did Martina's mother live before Martina was born?
 
-**Answer:** 9132
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2009_semifinale#q06|src_kangourou_squadre_2009_semifinale__Q06]]
 
 
 
@@ -284,15 +285,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Vertices encountered by the diagonals of a 350x210 rectangle*
+*Vertices met by the diagonals of a 350x210 rectangle*
 
-> The graph paper
-> On a sheet of graph paper, that is, where there is a grid of squares one millimeter on a
-> side, a rectangle measuring 350 × 210 millimeters is highlighted, with its sides parallel to the lines
-> already present on the sheet and its vertices coinciding with vertices of the squares. How many vertices of squares
-> does each of the diagonals of this rectangle meet?
+> Graph paper: On a sheet of graph paper—that is, paper bearing a grid of squares one millimeter on a side—a rectangle measuring 350 × 210 millimeters is highlighted, with its sides parallel to the lines already present on the sheet and its vertices coinciding with the vertices of the squares. How many square vertices do the diagonals of this rectangle each meet?
 
-**Answer:** 0071
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_squadre_2009_semifinale#q07|src_kangourou_squadre_2009_semifinale__Q07]]
 
 
 
@@ -319,15 +321,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle divided by cevian into two equal perimeter*
+*A triangle divided by a cevian into two parts of equal perimeter*
 
-> The divided triangle
-> The sides of a triangle are 40, 50 and 60 centimetres long. By drawing a segment with one endpoint at the
-> vertex corresponding to the smallest angle and the other endpoint on the opposite side, the triangle is divided
-> into two triangles that have the same perimeter. How many centimetres long is the shorter of the two
-> segments into which that side is divided?
+> Subdivided triangle The sides of a triangle are 40, 50, and 60 centimeters long. By drawing a line segment with one endpoint at the vertex opposite the smallest angle and the other endpoint on the opposite side, the triangle is divided into two triangles with the same perimeter. How many centimeters long is the shorter of the two segments into which that side is divided?
 
-**Answer:** 0015
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_squadre_2009_semifinale#q08|src_kangourou_squadre_2009_semifinale__Q08]]
 
 
 
@@ -353,14 +355,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of people with a male/female ratio of 0.24*
+*Minimum number of people, male/female ratio 0.24*
 
-> Males and females
-> In a room there are some people: if the number of males is divided by the number of
-> females, exactly 0.24 is obtained. It is known that the number of people present is the smallest that
-> can determine that ratio. How many people are there in that room?
+> Males and Females In a room, there are some people: if the number of males is divided by the number of females, the result is exactly 0.24. It is known that the total number of people present is the smallest number that can yield that ratio. How many people are in that room?
 
-**Answer:** 0031
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2009_semifinale#q09|src_kangourou_squadre_2009_semifinale__Q09]]
 
 
 
@@ -389,13 +392,13 @@ level: squadre
 
 *Even/odd probability with proportional loaded dice*
 
-> The loaded dice
-> Two identical dice (each with faces numbered from 1 to 6, as usual) are loaded: when rolling either
-> one of them, the face with the number 1 can never come up and the probability that one of the
-> remaining faces comes up is proportional to the number shown on the face. When rolling them, how many chances out of
-> 100 are there that one of the faces shows an even number and the other an odd number?
+> The Tweaked Dice Two identical dice (each with faces numbered from 1 to 6, as usual) are rigged: when either one is rolled, the face showing the number 1 can never come up, and the probability that one of the remaining faces comes up is proportional to the number on that face. When they are rolled, what is the probability, out of 100, that one face shows an even number and the other shows an odd number?
 
-**Answer:** 0048
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_squadre_2009_semifinale#q10|src_kangourou_squadre_2009_semifinale__Q10]]
 
 
 
@@ -423,15 +426,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Kilometre chips with only two distinct digits*
+*Kilometre posts with only two distinct digits*
 
-> Kilometric milestones
-> Two cities A and B are connected by a railway 999 kilometers long. Along the railway, spaced
-> one kilometer apart, there are milestones that indicate the distance from A and from B in that order, of the type
-> [0, 999] (in A), [1, 998], [2, 997], … , [998, 1], [999, 0] (in B).
-> How many of these milestones host two and no more than two different digits among them?
+> Kilometre markers Two cities, A and B, are connected by a railway 999 kilometres long. Along the railway, at one-kilometre intervals, there are markers indicating the distances from A and from B, in that order, of the form [0, 999] (at A), [1, 998], [2, 997], …, [998, 1], [999, 0] (at B). How many of these markers bear two, and no more than two, distinct digits?
 
-**Answer:** 0040
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2009_semifinale#q11|src_kangourou_squadre_2009_semifinale__Q11]]
 
 
 
@@ -461,13 +465,14 @@ level: squadre
 
 *Denominator of the telescopic product (1-2/k)*
 
-> A product of 98 factors
-> Express the value of the following product
-> (1 – 2/3) × (1 – 2/4) × (1 – 2/5) ×…× (1 – 2/99) × (1 – 2/100)
-> as a fraction whose numerator and denominator are positive integers and which is reduced to
-> lowest terms. Write the denominator of the fraction.
+> A product of 98 factors. Express the value of the following product (1 – 2/3) × (1 – 2/4) × (1 – 2/5) × … × (1 – 2/99) × (1 – 2/100) as a fraction whose numerator and denominator are positive integers and which is in lowest terms. Write the denominator of the fraction.
 
-**Answer:** 4950
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2009_semifinale#q12|src_kangourou_squadre_2009_semifinale__Q12]]
 
 
 
@@ -511,23 +516,22 @@ level: squadre
 
 ![[src_kangourou_squadre_2009_semifinale__prob13.png]]
 
-> The grid
-> The one in the figure is an irregular grid in some of whose cells
-> numbers already appear. You must fill in the remaining cells
-> using only integers from 1 to 9 inclusive (one per cell) and
-> respecting all the following rules:
-> - the gray cells must contain only odd numbers,
-> the white ones only even numbers;
-> - no number may appear more than once in a
-> same row;
-> - no number may appear more than once in a
+> The Grid The grid shown in the figure is an irregular grid, and some of its cells already contain numbers. You must fill in the remaining cells using only integers from 1 to 9 inclusive (one number per cell) and observing all of the following rules:
+> - The gray cells must contain only odd numbers,
+> White ones only even numbers;
+> - No number can appear more than once in a
+> same line;
+> - No number can appear more than once in a
 > same column;
-> - in every row and every column in which the arrow appears, the
-> sum of the numbers starting from the cell with the arrow, in the direction indicated by the arrow,
-> must be equal to the number indicated in the cell preceding the arrow.
-> Which number must you enter in the cell indicated by the question mark?
+> - in every row and in every column in which the arrow appears, the
+> The sum of the numbers starting from the cell with the arrow, in the direction indicated by the arrow, must equal the number shown in the cell preceding the arrow. Which number must you enter in the cell indicated by the question mark?
 
-**Answer:** 0009
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_squadre_2009_semifinale#q13|src_kangourou_squadre_2009_semifinale__Q13]]
 
 
 
@@ -559,20 +563,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Faces and edges of an antiprism with square bases*
+*Faces and edges of a square-based antiprism*
 
-> The antiprism
-> We call an antiprism a solid with the following properties:
-> • it has two square bases that lie on parallel planes;
-> • the center of each base lies on the perpendicular drawn from the center of the other and each side of
-> each base is parallel to a diagonal of the other;
-> • the lateral faces are triangles obtained by joining each vertex of each base with the
-> two vertices of the other closest to it.
-> How many faces (including the bases) and how many edges does an antiprism have? Write in order first the
-> number of faces, then that of the edges (for example, if the faces were 6 and the edges 11,
-> write 0611).
+> Antiprism We call an antiprism a solid with the following properties: • it has two square bases lying in parallel planes; • the center of each base lies on the perpendicular drawn from the center of the other base, and each side of each base is parallel to a diagonal of the other base; • the lateral faces are triangles formed by joining each vertex of each base to the two vertices of the other base closest to it. How many faces (including the bases) and how many edges does an antiprism have? Write, in order, first the number of faces and then the number of edges (for example, if there were 6 faces and 11 edges, write 0611).
 
-**Answer:** 1016
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_squadre_2009_semifinale#q14|src_kangourou_squadre_2009_semifinale__Q14]]
 
 
 
@@ -606,25 +605,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last digit of 2^2009+3^2009+5^2009+7^2009*
+*The last digit of 2^2009 + 3^2009 + 5^2009 + 7^2009*
 
 > A fraction to be simplified
->  
-> What is the value of the fraction (1001+1003+1005+...+1997+1999)/(1+3+5+...+997+999)?
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
->  
-> A
-> 
->  
-> Kangourou of Mathematics 2009 Kangourou team cup - final Mirabilandia, 10 May 2009
+>
+> What is the value of the fraction 1001+1003+1005+...+1997+1999 over 1+3+5+...+997+999? A
+>
+>
+> Kangaroo Mathematics Competition 2009 Kangaroo Team Cup - Final, Mirabilandia, 10 May 2009
 
-**Answer:** 0007
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_squadre_2009_semifinale#q15|src_kangourou_squadre_2009_semifinale__Q15]]

@@ -33,13 +33,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Problema della parola età: Neto aveva la metà dell'età di suo nonno alla fine del 1994; la somma degli anni di nascita è di 3844; trovare l'età di Neto nel 2006.*
+*Problema verbale sull'età: alla fine del 1994, Neto aveva la metà dell'età di suo nonno; la somma degli anni di nascita è 3844; si determini l'età di Neto nel 2006.*
 
-> Alla fine del 1994, Neto aveva metà dell'età di suo nonno. La somma degli anni di nascita di entrambi è di 3844. Quanti anni avrà Neto nel 2006?
-> 
-> A) 55 \quad (B) 56 \quad (C) 60 \quad (D) 62 \quad (E) 108
+> Alla fine del 1994, Neto aveva la metà degli anni di suo nonno. La somma degli anni di nascita dei due è 3844. Quanti anni compirà Neto nel 2006?
+>
+> (A) 55 \quad (B) 56 \quad (C) 60 \quad (D) 62 \quad (E) 108
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n3_f1#q01|src_obm_2006_n3_f1__Q01]]
 
 
 
@@ -67,13 +73,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare somme distinte di coppie di numeri distinti da {1,2,...,2006}.*
+*Conta le somme distinte di coppie di numeri distinti tratti da {1,2,...,2006}.*
 
-> Quanti risultati diversi possiamo ottenere sommando le coppie di numeri distinti dall'insieme $\{1, 2, \ldots, 2006\}$?
-> 
+> Quanti risultati diversi si possono ottenere sommando coppie di numeri distinti appartenenti all'insieme $\{1, 2, \ldots, 2006\}$?
+>
 > (A) 2006 \quad (B) 2007 \quad (C) 4009 \quad (D) 4011 \quad (E) 4012
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n3_f1#q02|src_obm_2006_n3_f1__Q02]]
 
 
 
@@ -100,11 +113,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colonia Amoeba a partire da giallo+rosso; ogni ameba si divide quotidianamente, ogni figlia conserva indipendentemente il colore o diventa rossa. 1/2; trovare la probabilità di un giallo esatto dopo i giorni del 2006.*
+*Colonia di amebe inizialmente gialla+rossa; ogni ameba si divide ogni giorno, ciascuna figlia mantiene il colore in modo indipendente oppure diventa rossa con probabilità 1/2; trovare la probabilità che dopo 2006 giorni ci sia esattamente un'ameba gialla.*
 
-> Una colonia di amebe ha inizialmente una ameba gialla e una ameba rossa. Ogni giorno ogni ameba si divide in due amebe identiche. Ogni ameba ha lo stesso colore del suo genitore con probabilità $\frac{1}{2}$ e il rosso con probabilità $\frac{1}{2}$. Dopo i giorni del 2006, qual è la probabilità che la colonia abbia esattamente un'ameba gialla?
-> 
+> Una colonia di amebe inizialmente comprende un'ameba gialla e un'ameba rossa. Ogni giorno, ciascuna ameba si divide in due amebe identiche. Ciascuna ameba risulta dello stesso colore del proprio genitore con probabilità $\frac{1}{2}$ e rossa con probabilità $\frac{1}{2}$. Dopo 2006 giorni, qual è la probabilità che la colonia abbia esattamente un'ameba gialla?
+>
 > (A) $\dfrac{1}{2^{2006}}$ \quad (B) $\dfrac{1}{2006}$ \quad (C) $\dfrac{1}{2007}$ \quad (D) $\dfrac{1}{2006 \cdot 2007}$ \quad (E) $\dfrac{2006}{2007}$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n3_f1#q03|src_obm_2006_n3_f1__Q03]]
 
 
 
@@ -132,13 +154,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre quadrati incollati dai loro vertici l'uno all'altro e a due bastoni verticali; trovare angolo x.*
+*Tre quadrati incollati per i vertici l'uno all'altro e a due bastoni verticali; determina l'angolo x.*
 
-> Come mostra la figura, tre quadrati sono incollati tra loro e a due bastoni verticali. Qual è la misura dell'angolo $x$?
-> 
+> Tre quadrati sono incollati tra loro e a due bastoni verticali per i loro vertici, come mostra la figura. Qual è la misura dell'angolo $x$?
+>
 > (A) $39^\circ$ \quad (B) $41^\circ$ \quad (C) $43^\circ$ \quad (D) $44^\circ$ \quad (E) $46^\circ$
 
 ![[src_obm_2006_n3_f1__q04.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n3_f1#q04|src_obm_2006_n3_f1__Q04]]
 
 
 
@@ -165,11 +195,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due reali non-zero distinte a,b con a-b=a/b; trovare un possibile valore di a/b+1/b-ab.*
+*Due numeri reali distinti e non nulli a, b tali che a−b=a/b; trova un valore possibile di a/b+1/b−ab.*
 
-> I due numeri reali distinti $a$ e $b$ non sono zero e soddisfano $a - b = \dfrac{a}{b}$. Indicare l'alternativa che mostra uno dei possibili valori di $\dfrac{a}{b} + \dfrac{1}{b} - ab$.
-> 
+> I due numeri reali distinti $a$ e $b$ sono diversi da zero e soddisfano $a - b = \dfrac{a}{b}$. Indica l'alternativa che mostra uno dei possibili valori di $\dfrac{a}{b} + \dfrac{1}{b} - ab$.
+>
 > (A) $-2$ \quad (B) $-\dfrac{1}{2}$ \quad (C) $\dfrac{1}{3}$ \quad (D) $\dfrac{1}{2}$ \quad (E) $2$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n3_f1#q05|src_obm_2006_n3_f1__Q05]]
 
 
 
@@ -198,13 +237,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizionare i numeri 4,5,6,7,8,9 in spazi che formano tre numeri a due cifre in ordine rigorosamente decrescente; ordini di conteggio.*
+*Colloca le cifre 4, 5, 6, 7, 8, 9 negli spazi per formare tre numeri di due cifre in ordine strettamente decrescente; conta le disposizioni.*
 
-> In quanti modi possiamo posizionare, in ogni spazio di sotto, uno dei numeri 4, 5, 6, 7, 8, 9 in modo che i due numeri di ogni coppia di spazi consecutivi formino numeri a due cifre e, in ogni membro, i numeri soddisfino l'ineguaglianza indicata?
-> 
+> In quanti modi possiamo collocare, in ciascuno degli spazi sottostanti, una delle cifre 4, 5, 6, 7, 8, 9 in modo che le due cifre di ciascuna coppia di spazi consecutivi formino numeri di due cifre e che, in ciascun membro, i numeri soddisfino la disuguaglianza indicata?
+>
 > $\_\_ > \_\_ > \_\_$
-> 
+>
 > (A) 100 \quad (B) 120 \quad (C) 240 \quad (D) 480 \quad (E) 720
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n3_f1#q06|src_obm_2006_n3_f1__Q06]]
 
 
 
@@ -231,11 +279,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare quale espressione monomiale non può essere uguale a 24 per i numeri interi positivi adatti a,b,c.*
+*Identifica quale espressione monomia non può essere uguale a 24 per opportuni interi positivi a, b, c.*
 
-> Quale espressione di seguito non può rappresentare il numero 24 per i valori interi positivi convenienti di $a$, $b$ e $c$?
-> 
+> Quale delle seguenti espressioni non può rappresentare il numero 24 per valori convenienti e interi positivi di $a$, $b$ e $c$?
+>
 > (A) $ab^3$ \quad (B) $a^2b^3$ \quad (C) $a^cb^c$ \quad (D) $ab^2c^3$ \quad (E) $a^4b^c$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n3_f1#q07|src_obm_2006_n3_f1__Q07]]
 
 
 
@@ -262,11 +319,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per quanti valori di a è 2a^2+2a+19 non primo.*
+*Per quanti valori di a il numero 2a^2+2a+19 non è primo?*
 
 > Per quanti valori di $a$ $2a^2 + 2a + 19$ non è un numero primo?
-> 
+>
 > (A) 50 \quad (B) 37 \quad (C) 9 \quad (D) 5 \quad (E) 1
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n3_f1#q08|src_obm_2006_n3_f1__Q08]]
 
 
 
@@ -298,9 +364,9 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali positivi a,b,c sommando a 1 e essendo lati di un triangolo; scegliere l'insieme corretto di disuguaglianze.*
+*Numeri reali positivi a, b, c la cui somma è 1 e che sono i lati di un triangolo; scegliere il sistema di disuguaglianze corretto.*
 
-> $a$, $b$ e $c$ siano numeri reali positivi la cui somma è 1. Supponiamo che $a$, $b$ e $c$ siano le misure dei lati di un triangolo. Allora...
+> Siano $a$, $b$ e $c$ numeri reali positivi la cui somma è 1. Si supponga che $a$, $b$ e $c$ siano le misure dei lati di un triangolo. Allora
 >
 > - **(A)** $0 < |a - b| < \dfrac{1}{2}$ e $0 < |b - c| < \dfrac{1}{2}$ e $0 < |c - a| < \dfrac{1}{2}$
 > - **(B)** $a < \dfrac{1}{2}$ e $b < \dfrac{1}{2}$ e $c < \dfrac{1}{2}$
@@ -308,7 +374,14 @@ level: OBM Nível 3
 > - **(D)** $a \le \dfrac{1}{3}$ e $b \le \dfrac{1}{3}$ e $c \le \dfrac{1}{3}$
 > - **(E)** $a \ge \dfrac{1}{3}$ e $b \ge \dfrac{1}{3}$ e $c \ge \dfrac{1}{3}$
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_obm_2006_n3_f1#q09|src_obm_2006_n3_f1__Q09]]
 
 
 
@@ -335,11 +408,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di 9 reali, primi 20, ultimi 4, ogni termine dal terzo in poi è la media aritmetica di tutti i precedenti; trova il secondo termine.*
+*Successione di 9 numeri reali, primo termine 20, ultimo termine 4; a partire dal terzo, ciascun termine è la media aritmetica di tutti i termini precedenti; trovare il secondo termine.*
 
-> Una sequenza ha 9 numeri reali, il primo 20 e l'ultimo 4. Ogni termine della sequenza, a partire dal terzo, è la media aritmetica di tutti i precedenti. Qual è il secondo termine della sequenza?
-> 
+> Una successione comprende 9 numeri reali; il primo è 20 e l'ultimo è 4. Ogni termine della successione, a partire dal terzo, è la media aritmetica di tutti i termini precedenti. Qual è il secondo termine della successione?
+>
 > (A) $-8$ \quad (B) 0 \quad (C) 4 \quad (D) 14 \quad (E) 200
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n3_f1#q10|src_obm_2006_n3_f1__Q10]]
 
 
 
@@ -368,13 +450,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i tripli reali (x,y,z) soddisfacendo x(x+y+z) = 2005, y(x+y+z) = 2006, z(x+y+z) = 2007.*
+*Conta i triple reali (x,y,z) che soddisfano x(x+y+z)=2005, y(x+y+z)=2006, z(x+y+z)=2007.*
 
-> Quanti triples di numeri reali $x$, $y$, $z$ soddisfano il sistema di seguito? $$\begin{cases} x(x + y + z) = 2005 \\ y(x + y + z) = 2006 \\ z(x + y + z) = 2007 \end{cases}$$
-> 
-> (A) Nessuna (B) 1 (C) 2 (D) 3 (E) 2006
+> Quante terne di numeri reali $x$, $y$, $z$ soddisfano il sistema seguente?
+> $$\begin{cases} x(x + y + z) = 2005 \\ y(x + y + z) = 2006 \\ z(x + y + z) = 2007 \end{cases}$$
+>
+> (A) Nessuno \quad (B) 1 \quad (C) 2 \quad (D) 3 \quad (E) 2006
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n3_f1#q11|src_obm_2006_n3_f1__Q11]]
 
 
 
@@ -401,11 +491,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Arnaldo ha quadrati blu 2x2, gialli 2x2, verdi 3x3; assemblare un quadrato più grande utilizzando almeno tre di ciascuno; ridurre al minimo il numero totale.*
+*Arnaldo ha quadrati blu 2x2, gialli 2x2 e verdi 3x3; componi un quadrato più grande usando almeno tre di ciascun tipo; minimizza il numero totale.*
 
-> Arnaldo ha diversi quadrati di vari colori: quadrati blu $2 \times 2$, quadrati gialli $2 \times 2$ e quadrati verdi $3 \times 3$. Vuole assemblare un quadrato più grande in modo che appaiano almeno tre di ciascuna specie. Qual è il numero minimo di quadrati che potrà usare?
-> 
+> Arnaldo ha diversi quadrati di vari colori: $2 \times 2$ quadrati blu, $2 \times 2$ quadrati gialli e $3 \times 3$ quadrati verdi. Vuole comporre un quadrato più grande in modo che compaiano almeno tre quadrati di ciascun tipo. Qual è il numero minimo di quadrati che potrà utilizzare?
+>
 > (A) 3 \quad (B) 6 \quad (C) 7 \quad (D) 8 \quad (E) 9
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2006_n3_f1#q12|src_obm_2006_n3_f1__Q12]]
 
 
 
@@ -435,15 +534,23 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*x,y razionale; dato (x - y√2006)/(4 - y√2006) è razionale, determina il prodotto xy.*
+*x,y razionali; dato che (x - y√2006)/(4 - y√2006) è razionale, determina il prodotto xy.*
 
-> $x$ e $y$ siano numeri razionali. Sapendo che $\dfrac{x - y\sqrt{2006}}{4 - y\sqrt{2006}}$ è anche un numero razionale, quanto può essere il prodotto $xy$?
+> Siano $x$ e $y$ numeri razionali. Sapendo che anche $\dfrac{x - y\sqrt{2006}}{4 - y\sqrt{2006}}$ è un numero razionale, a quanto può ammontare il prodotto $xy$?
 >
 > - **(A)** Può essere uguale a 20, ma può anche assumere altri valori.
-> - **(B)** Può essere pari a 20, ma può anche assumere altri valori. (Può essere uguale a 20, ma può anche assumere altri valori.)
+> - **(B)** Può essere uguale a 20, ma può anche assumere altri valori. (Può essere uguale a 20, ma può anche assumere altri valori.)
 > - **(C)** 1
 > - **(D)** 6
-> - **(E)** Non si può determinare.
+> - **(E)** Non può essere determinato.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n3_f1#q13|src_obm_2006_n3_f1__Q13]]
 
 
 
@@ -470,11 +577,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque classi inserite una per una con una media corrente sempre un numero intero; classi 71,76,80,82,91; ritrovare l'ultima inserita.*
+*Cinque voti vengono inseriti uno alla volta, con la media corrente sempre intera; i voti sono 71, 76, 80, 82, 91; determina quale è stato inserito per ultimo.*
 
-> Il professore Piraldo ha applicato un test ai suoi cinque studenti e, dopo averli corretti, ha inserito i voti in una scheda elettronica che calcola automaticamente la media mentre i voti vengono inseriti ogni volta. Ha notato che, entrando nei voti, la media calcolata dalla scheda di calcolo era sempre un numero intero. I voti, nell'ordine in cui sono stati inseriti, sono stati 71, 76, 80, 82 e 91, ma non necessariamente in questo ordine. Qual era l'ultimo anno di classe in cui Piraldo era entrato?
-> 
+> Il professor Piraldo ha somministrato un test ai suoi cinque studenti e, dopo averli corretti, ha inserito i voti in un foglio di calcolo elettronico che calcola automaticamente la media ogni volta che vengono inseriti i voti. Ha notato che, man mano che inseriva i voti, la media calcolata dal foglio di calcolo era sempre un numero intero. I voti, nell'ordine in cui sono stati inseriti, erano 71, 76, 80, 82 e 91, ma non necessariamente in questo ordine. Qual è stato l'ultimo voto inserito da Piraldo?
+>
 > (A) 71 \quad (B) 76 \quad (C) 80 \quad (D) 82 \quad (E) 91
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n3_f1#q14|src_obm_2006_n3_f1__Q14]]
 
 
 
@@ -504,15 +620,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo arbitrario ABC, equilaterale ACD e AEB; F,G punti di mezzo di EA e AC; trovare rapporto BD/FG.*
+*ABC triangolo arbitrario, ACD e AEB equilateri; F, G sono i punti medi di EA e AC; trovare il rapporto BD/FG.*
 
-> Nella figura che segue, $ABC$ è un triangolo arbitrario e $ACD$ e $AEB$ sono triangoli equilaterali. Se $F$ e $G$ sono rispettivamente i punti intermedi di $EA$ e $AC$, il rapporto $\dfrac{BD}{FG}$ è:
-> 
+> Nella figura che segue, $ABC$ è un triangolo arbitrario e $ACD$ e $AEB$ sono triangoli equilateri. Se $F$ e $G$ sono rispettivamente i punti medi di $EA$ e $AC$, il rapporto $\dfrac{BD}{FG}$ è:
+>
 > (A) $\dfrac{1}{2}$ \quad (B) $1$ \quad (C) $\dfrac{3}{2}$ \quad (D) $2$ \quad (E) Dipende dalle misure dei lati di $ABC$.
 
 ![[src_obm_2006_n3_f1__q15.png]]
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n3_f1#q15|src_obm_2006_n3_f1__Q15]]
 
 
 
@@ -539,11 +662,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero intero positivo x è un multiple del 2006 con sqrt(x) tra il 2005 e il 2007; contare possibili x.*
+*L'intero positivo x è un multiplo di 2006 e la radice quadrata di x è compresa tra 2005 e 2007; determina il numero di valori possibili di x.*
 
-> Il numero intero positivo $x$ è un multiple del 2006 e $\sqrt{x}$ è tra il 2005 e il 2007. Qual è il numero dei valori possibili di $x$?
-> 
+> L'intero positivo $x$ è un multiplo di 2006 e $\sqrt{x}$ è compreso tra 2005 e 2007. Qual è il numero di valori possibili di $x$?
+>
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n3_f1#q16|src_obm_2006_n3_f1__Q16]]
 
 
 
@@ -571,13 +703,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due semicircoli, diametro PS (misura 1) e QR paralleli a PS; semicircolo più piccolo tangente a PS a O; trovare area ombreggiata.*
+*Due semicerchi, diametro PS (misura 1) e QR parallelo a PS; il semicerchio più piccolo è tangente a PS in O; determinare l'area ombreggiata.*
 
-> Nella figura abbiamo due semicircoli di diametri $PS$, di misura 1, e $QR$, paralleli a $PS$. Inoltre, il semicircolo più piccolo è tangente a $PS$ a $O$. Qual è l'area illuminata?
-> 
+> Nella figura abbiamo due semicerchi di diametri $PS$, di misura 1, e $QR$, paralleli a $PS$. Inoltre, il semicerchio più piccolo è tangente a $PS$ in $O$. Qual è l'area evidenziata (ombreggiata)?
+>
 > (A) $2\pi - 2$ \quad (B) $3\pi$ \quad (C) $\pi$ \quad (D) $4$ \quad (E) $2\pi - 4$
 
 ![[src_obm_2006_n3_f1__q17.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n3_f1#q17|src_obm_2006_n3_f1__Q17]]
 
 
 
@@ -614,17 +754,30 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A partire da (2048,1024), operazione (a,b) ->((3a+b)/4,(a+3b)/4); tra le cinque coppie elencate che sono disponibili.*
+*Partendo da (2048,1024), operazione (a,b)->((3a+b)/4,(a+3b)/4); tra le cinque coppie elencate, quali sono ottenibili.*
 
-> Partendo dalla coppia $(2048, 1024)$, possiamo applicare, quante volte vogliamo, l'operazione che trasforma la coppia $(a, b)$ nella coppia $\left(\dfrac{3a+b}{4}, \dfrac{a+3b}{4}\right)$; quindi, tra le seguenti coppie:
+> Partendo dalla coppia $(2048, 1024)$, possiamo applicare, quante volte vogliamo, l'operazione che trasforma la coppia $(a, b)$ nella coppia $\left(\dfrac{3a+b}{4}, \dfrac{a+3b}{4}\right)$; poi, tra le seguenti coppie:
 >
-> 1) $(1664, 1408)$ 2) $(1540, 1532)$ 3) $(1792, 1282)$ 4) $(1537, 1535)$ 5) $(1546, 1526)$
+> 1) $(1664, 1408)$
+> 2) $(1540, 1532)$
+> 3) $(1792, 1282)$
+> 4) $(1537, 1535)$
+> 5) $(1546, 1526)$
 >
 > - **(A)** Si possono ottenere solo le coppie 1 e 2.
 > - **(B)** Solo la coppia 4 non può essere ottenuta.
-> - **(C)** Non è possibile ottenere solo la coppia 3.
+> - **(C)** Solo la coppia 3 non può essere ottenuta.
 > - **(D)** Si possono ottenere solo le coppie 4 e 5.
-> - **(E)** Esistono più di due coppie che non si possono ottenere.
+> - **(E)** Esistono più di due coppie che non possono essere ottenute.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n3_f1#q18|src_obm_2006_n3_f1__Q18]]
 
 
 
@@ -651,11 +804,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*13x17 griglia numerata prima da righe e poi ri-numerata da colonne; celle di conteggio dove i due numeri coincidono.*
+*Griglia 13x17 numerata prima per righe e poi rinumerata per colonne; conta le celle in cui i due numeri coincidono.*
 
-> In una griglia rettangolare di 13 righe e 17 colonne posizionamo i numeri in ogni cella nel seguente modo: prima, numeriamo le celle della prima riga in ordine crescente, da sinistra a destra, con i numeri 1, 2, ..., 17; poi numeriamo le celle della seconda riga, anche da sinistra a destra, in ordine crescente, con i numeri 18, 19, ..., 34, e procediamo in modo analogo con le altre righe, in modo che i numeri della prima colonna sono, da cima a fondo, 1, 18, 35, ecc. Dopo aver numerato tutte le celle, ripetiamo la numerazione, ora per colonne: numeriamo le celle della prima colonna, dall'alto verso il basso, in ordine crescente, con i numeri 1, 2, ..., 13; poi numeriamo le celle della seconda colonna, anche dall'alto verso il basso, in ordine crescente, con i numeri 14, 15, ..., 26, e procediamo in modo analogo con le altre colonne. In questo modo, ogni cella finisce con due numeri. In quante cellule coincidono i due numeri?
-> 
+> In una griglia rettangolare di 13 righe e 17 colonne, inseriamo dei numeri in ciascuna cella nel modo seguente: per prima cosa, numeriamo le celle della prima riga in ordine crescente, da sinistra a destra, con i numeri 1, 2, ..., 17; poi numeriamo le celle della seconda riga, sempre da sinistra a destra, in ordine crescente, con i numeri 18, 19, ..., 34, e procediamo analogamente con le altre righe, cosicché i numeri della prima colonna siano, dall'alto verso il basso, 1, 18, 35, ecc. Dopo aver numerato tutte le celle, rifacciamo la numerazione, ora per colonne: numeriamo le celle della prima colonna, dall'alto verso il basso, in ordine crescente, con i numeri 1, 2, ..., 13; poi numeriamo le celle della seconda colonna, sempre dall'alto verso il basso, in ordine crescente, con i numeri 14, 15, ..., 26, e procediamo analogamente con le altre colonne. In questo modo, ogni cella finisce per avere due numeri. In quante celle i due numeri coincidono?
+>
 > (A) 2 \quad (B) 3 \quad (C) 4 \quad (D) 5 \quad (E) 6
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n3_f1#q19|src_obm_2006_n3_f1__Q19]]
 
 
 
@@ -684,13 +846,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Altino (1,5 m di altezza) contro una parete di notte, lampada sopra 4 m postata a 10 m dalla parete; scegliere il grafico dell'altezza dell'ombra della parete f(x) contro la distanza x.*
+*Altino (1,5 m di altezza) contro un muro di notte; una lampada in cima a un palo alto 4 m, a 10 m dal muro; scegli il grafico dell'altezza f(x) dell'ombra sul muro in funzione della distanza x.*
 
-> Altino si appoggia a un alto muro, durante la notte. La strada in cui si trova Altino è illuminata da una lampada sopra un palo alto 4 metri, situato a 10 metri dal muro. Altino, alto un metro e mezzo, è in direzione del muro. L'altezza di $f(x)$ deve essere l'altezza, in metri, dell'ombra di Altino prodotta dalla lampada sul muro quando Altino è a una distanza di $x$ metri dal muro. Quale alternativa rappresenta meglio il grafico di $f(x)$?
-> 
-> (A), (B), (C), (D), (E)  vedere figura.
+> Altino è appoggiato a un muro alto, di notte. La strada in cui si trova Altino è illuminata da una lampada posta in cima a un palo alto 4 metri, situato a 10 metri dal muro. Altino, alto un metro e mezzo, è rivolto verso il muro. Sia $f(x)$ l'altezza, in metri, dell'ombra di Altino proiettata dal lampada sul muro quando Altino si trova a una distanza di $x$ metri dal muro. Quale alternativa rappresenta meglio il grafico di $f(x)$?
+>
+> (A), (B), (C), (D), (E) — vedi la figura.
 
 ![[src_obm_2006_n3_f1__q20.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n3_f1#q20|src_obm_2006_n3_f1__Q20]]
 
 
 
@@ -720,15 +891,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Camera quadrata di 4 m laterali completamente di piastrelle con tappeti uguali a 1 m per 2 m; contare il numero di piastrelle (tre mostrate).*
+*Stanza quadrata con lato di 4 m, interamente rivestita con tappeti identici di 1 m per 2 m; conta il numero di rivestimenti (ne sono mostrati tre).*
 
-> Il pavimento di una stanza ha la forma di un quadrato laterale di 4 m. In quanti modi possiamo coprire completamente la stanza con tappeti uguali di dimensioni di 1 m per 2 m? Ecco tre modi per farlo.
-> 
+> Il pavimento di una stanza ha la forma di un quadrato di lato 4 m. In quanti modi si può coprire interamente la stanza con tappeti uguali di dimensioni 1 m per 2 m? Di seguito mostriamo tre modi per farlo.
+>
 > (A) 27 \quad (B) 30 \quad (C) 34 \quad (D) 36 \quad (E) 52
 
 ![[src_obm_2006_n3_f1__q21.png]]
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n3_f1#q21|src_obm_2006_n3_f1__Q21]]
 
 
 
@@ -756,13 +934,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti A,B nel piano alfa a distanza 8; linee di conteggio di alfa a distanza 2 da A e a distanza 2 da B.*
+*I punti A, B giacciono nel piano alfa e distano 8 l'uno dall'altro; conta le rette del piano alfa che distano 2 da A e 2 da B.*
 
-> Due punti $A$ e $B$ di un piano $\alpha$ sono a una distanza di 8 unità. Quante linee del piano $\alpha$ sono a distanza di 2 unità da $A$ e a distanza di 2 unità da $B$?
-> 
+> Due punti $A$ e $B$ di un piano $\alpha$ distano 8 unità. Quante rette del piano $\alpha$ distano 2 unità da $A$ e 2 unità da $B$?
+>
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n3_f1#q22|src_obm_2006_n3_f1__Q22]]
 
 
 
@@ -789,11 +974,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Tra i prodotti 2161 0·2160, 1·2159, ..., 2160·0, contare quanti sono i multipli di 2160.
+*Tra i 2161 prodotti 0,2160, 1,2159, ..., 2160,0, conta quanti sono multipli di 2160.*
 
-> Considerate i prodotti 2161 $0 \cdot 2160$, $1 \cdot 2159$, $2 \cdot 2158$, $\ldots$, $2160 \cdot 0$. Quanti di loro sono moltiplicati di 2160?
-> 
+> Si considerino i 2161 prodotti $0 \cdot 2160$, $1 \cdot 2159$, $2 \cdot 2158$, $\ldots$, $2160 \cdot 0$. Quanti di essi sono multipli di 2160?
+>
 > (A) 2 \quad (B) 3 \quad (C) 12 \quad (D) 13 \quad (E) 2161
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n3_f1#q23|src_obm_2006_n3_f1__Q23]]
 
 
 
@@ -821,13 +1015,20 @@ Tra i prodotti 2161 0·2160, 1·2159, ..., 2160·0, contare quanti sono i multip
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il minimo sui numeri reali x,y,z di sqrt(x^2+1)+sqrt((y-x)^2+4)+sqrt((z-y)^2+1)+sqrt((10-z)^2+9).*
+*Trovare il minimo, sull'insieme dei numeri reali x, y, z, di sqrt(x^2+1)+sqrt((y-x)^2+4)+sqrt((z-y)^2+1)+sqrt((10-z)^2+9).*
 
-> Qual è il valore più piccolo che l'espressione $\sqrt{x^2 + 1} + \sqrt{(y - x)^2 + 4} + \sqrt{(z - y)^2 + 1} + \sqrt{(10 - z)^2 + 9}$ può assumere, quando $x$, $y$ e $z$ sono reali?
-> 
+> Qual è il valore minimo che l'espressione $\sqrt{x^2 + 1} + \sqrt{(y - x)^2 + 4} + \sqrt{(z - y)^2 + 1} + \sqrt{(10 - z)^2 + 9}$ può assumere, dove $x$, $y$ e $z$ sono numeri reali?
+>
 > (A) 7 \quad (B) 13 \quad (C) $4 + \sqrt{109}$ \quad (D) $3 + \sqrt{2} + \sqrt{90}$ \quad (E) $\sqrt{149}$
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n3_f1#q24|src_obm_2006_n3_f1__Q24]]
 
 
 
@@ -855,10 +1056,18 @@ Tra i prodotti 2161 0·2160, 1·2159, ..., 2160·0, contare quanti sono i multip
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unità di cubo tagliata in quattro regioni per due piani (uno attraverso i bordi AB,CD, l'altro attraverso AE,DF); trovare il volume(s) della più grande regione(s).*
+*Un cubo unitario viene suddiviso in quattro regioni da due piani (uno passante per i lati AB e CD, l'altro passante per i lati AE e DF); determinare il volume o i volumi della o delle regioni più grandi.*
 
-> Un cubo di bordo 1 è tagliato in quattro regioni da questi due piani: uno contiene i bordi $AB$ e $CD$, e l'altro contiene i bordi $AE$ e $DF$. Qual è (sono) il volume delle regioni più grandi?
-> 
+> Un cubo di spigolo 1 viene suddiviso in quattro regioni da questi due piani: uno contiene gli spigoli $AB$ e $CD$, e l'altro contiene gli spigoli $AE$ e $DF$. Qual è (quali sono) il (i) volume(i) della (delle) regione(i) più grande(i)?
+>
 > (A) $\dfrac{1}{4}$ \quad (B) $\dfrac{1}{3}$ \quad (C) $\dfrac{\sqrt{2}}{4}$ \quad (D) $\dfrac{3}{8}$ \quad (E) $\dfrac{1}{2}$
 
 ![[src_obm_2006_n3_f1__q25.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n3_f1#q25|src_obm_2006_n3_f1__Q25]]

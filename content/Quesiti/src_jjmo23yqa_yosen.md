@@ -30,11 +30,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*GCD più piccolo di due numeri interi positivi sommati fino al 2025*
+*Il massimo MCD di due interi positivi la cui somma è 2025*
 
-> Trova il valore più grande possibile di $\gcd(m, n)$, dove $m$ e $n$ sono interi positivi che soddisfano $m + n = 2025$.
+> Trovare il più grande valore possibile di $\gcd(m, n)$, dove $m$ e $n$ sono interi positivi che soddisfano $m + n = 2025$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
 **Risposta:** 675
+
+[[Quesiti/src_jjmo23yqa_yosen#q01|src_jjmo23yqa_yosen__Q01]]
 
 
 
@@ -60,13 +67,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Allegare numeri interi positivi distinti a 8 punti su 6 linee in modo che ogni linea somma a 10*
+*Assegna numeri interi positivi distinti a 8 punti situati su 6 rette in modo che la somma sui punti di ciascuna retta sia 10*
 
-> Come mostrato nella figura, ci sono 6 righe e 8 punti (marcati con $\bullet$). Assegna a ciascun punto un numero intero positivo distinto (non necessariamente consecutivo). Conteggi il numero di modi per farlo in modo tale che, per ciascuna delle 6 righe, la somma dei numeri interi nei 3 punti che si trovano su quella linea sia uguale a $10$. Le assegnazioni che si differenziano per rotazione o riflessione della figura sono conteggiate come diverse.
+> Come mostrato nella figura, ci sono 6 rette e 8 punti (contrassegnati con $\bullet$). Assegna un numero intero positivo distinto a ciascun punto (non necessariamente consecutivi). Conta il numero di modi per farlo tali che, per ciascuna delle 6 rette, la somma dei numeri interi associati ai 3 punti che giacciono su quella retta sia uguale a $10$. Le assegnazioni che differiscono per una rotazione o una riflessione della figura sono considerate diverse.
 
 ![[src_jjmo23yqa_yosen__q02.png]]
 
-**Risposta:** 36
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo23yqa_yosen#q02|src_jjmo23yqa_yosen__Q02]]
 
 
 
@@ -92,13 +104,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la lunghezza BD in triangolo con circoncircolo, ceviano e linea parallela*
+*Trovare la lunghezza di BD nel triangolo con circonferenza circoscritta, ceviana e retta parallela*
 
-> Il triangolo $ABC$ ha $AC = 5$. Il punto $D$ si trova sul lato $BC$ (esclusi i punti terminali) con $CD = 4$. $E$ sia la seconda intersezione della linea $AD$ con il circoncircolo del triangolo $ABC$ (cioè l'intersezione diversa da $A$). $F$ sia l'intersezione della linea attraverso $D$ parallela a $BE$ con lato $AB$. Se si dà $DE = 3$ e $DF = 2$, si trova la lunghezza del segmento $BD$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Il triangolo $ABC$ ha $AC = 5$. Il punto $D$ giace sul lato $BC$ (escludendo gli estremi) con $CD = 4$. Sia $E$ il secondo punto d'intersezione della retta $AD$ con la circonferenza circoscritta al triangolo $ABC$ (ossia l'intersezione diversa da $A$). Sia $F$ l'intersezione della retta passante per $D$ e parallela a $BE$ con il lato $AB$. Dati $DE = 3$ e $DF = 2$, determinare la lunghezza del segmento $BD$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
 ![[src_jjmo23yqa_yosen__q03.png]]
 
-**Risposta:** \frac{18}{7}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo23yqa_yosen#q03|src_jjmo23yqa_yosen__Q03]]
 
 
 
@@ -124,13 +141,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per tessere una figura di 48 triangoli unitari con esagoni regolari unitari*
+*Conta i modi per rivestire una figura composta da 48 triangoli unitari con esagoni regolari unitari*
 
-> Considera una figura composta da triangoli equilaterali $48$ di lunghezza laterale $1$, disposti come indicato (formando una forma esagonale regolare più grande). Conteggi il numero di modi di tessitura di questa figura con esagoni regolari non sovrapposti di lunghezza laterale $1$ (ciascuno composto da 6 triangoli unitari), in modo che ogni triangolo unitario sia coperto da esattamente un esagono. Le filatiche che differiscono per rotazione o riflessione dell'intera figura sono contate come diverse.
+> Si consideri una figura composta da $48$ triangoli equilateri di lato $1$, disposti come mostrato (formando una forma esagonale regolare più grande). Si conti il numero di modi per rivestire questa figura con esagoni regolari non sovrapposti di lato $1$ (ciascuno composto da 6 triangoli unitari), in modo che ogni triangolo unitario sia coperto da esattamente un esagono. I rivestimenti che differiscono per una rotazione o una riflessione dell'intera figura sono considerati diversi.
 
 ![[src_jjmo23yqa_yosen__q04.png]]
 
-**Risposta:** 24
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo23yqa_yosen#q04|src_jjmo23yqa_yosen__Q04]]
 
 
 
@@ -154,11 +176,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le caselle non vuote rimanenti dopo operazioni di divisione 50^25 a partire da una casella*
+*Conta le caselle non vuote rimanenti dopo 50^25 operazioni di suddivisione a partire da una sola casella*
 
-> C'è una scatola contenente pietre $50^{25}$. Si ripete la seguente operazione: scegliere una scatola non vuota, rimuovere le sue pietre una per una, inserendo ogni pietra in una scatola (vuota) appena creata; quindi scartare la scatola originale (ora vuota). Dopo aver eseguito l'operazione $50^{25}$ in totale, quante scatole non vuote rimangono?
+> C'è una scatola che contiene $50^{25}$ pietre. Si ripete la seguente operazione: si sceglie una scatola non vuota, si rimuovono le sue pietre una per una e si colloca ciascuna pietra in una scatola nuova (vuota) creata appositamente; poi si scarta la scatola originale (ora vuota). Dopo aver eseguito questa operazione per un totale di $50^{25}$ volte, quante scatole non vuote rimangono?
 
-**Risposta:** 10 \cdot 50^{12} - 1
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo23yqa_yosen#q05|src_jjmo23yqa_yosen__Q05]]
 
 
 
@@ -182,11 +209,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare triplici interi che soddisfano due equazioni con il limite 80000*
+*Conta i triple di interi che soddisfano due equazioni, con limite 80000*
 
-> Trova il numero di triples di numeri interi $(a, b, c)$ con $1 \le a, b, c \le 80000$ che soddisfano sia $a + b^2 + c^3 = b(c+1)^2$ che $2b = a + c$.
+> Trovare il numero di triple di interi $(a, b, c)$ con $1 \le a, b, c \le 80000$ che soddisfano sia $a + b^2 + c^3 = b(c+1)^2$ sia $2b = a + c$.
 
-**Risposta:** 80197
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo23yqa_yosen#q06|src_jjmo23yqa_yosen__Q06]]
 
 
 
@@ -210,11 +242,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca BD/DC dati quattro sub-area triangolari formate da due ceviani*
+*Trovare BD/DC dati quattro sottodomini triangolari formati da due ceviane*
 
-> Nel triangolo $ABC$, i punti $D$, $E$, $F$ si trovano rispettivamente sui lati $BC$, $CA$ e $AB$. I cevi $BE$ e $CF$ si intersecano al punto $P$. Le superfici dei triangoli $AFD$, $FPD$, $PED$, $EAD$ sono rispettivamente $10$, $7$, $5$ e $13$. Trova $\dfrac{BD}{DC}$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Nel triangolo $ABC$, i punti $D$, $E$, $F$ giacciono rispettivamente sui lati $BC$, $CA$, $AB$. Le ceviane $BE$ e $CF$ si intersecano nel punto $P$. Le aree dei triangoli $AFD$, $FPD$, $PED$, $EAD$ sono rispettivamente $10$, $7$, $5$, $13$. Determinare $\dfrac{BD}{DC}$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-**Risposta:** \frac{5}{6}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo23yqa_yosen#q07|src_jjmo23yqa_yosen__Q07]]
 
 
 
@@ -238,11 +275,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più piccolo n in modo che la media di tutte le carte n-3 sia un intero dato la media di qualsiasi n-4 è un intero*
+*Minimo n tale che la media di qualsiasi insieme di n-3 carte sia un numero intero, dato che la media di qualsiasi insieme di n-4 carte è un numero intero*
 
-> Se $n$ è un numero intero maggiore di $1$. Un numero intero è scritto su ciascuna delle carte $n$. Supponiamo che si verifichi la seguente condizione: indipendentemente dalle carte $n - 4$ scelte (dalle carte $n$), la media dei numeri interi su tali carte è un numero intero. Trova il valore più piccolo di $n$ per il quale è necessariamente vero anche che: non importa quali schede $n - 3$ siano scelte, la media dei numeri interi su tali schede è anche un intero.
+> Sia $n$ un numero intero maggiore di $1$. Su ciascuna delle $n$ carte è scritto un numero intero. Si supponga che valga la seguente condizione: qualunque siano le $n - 4$ carte scelte (tra le $n$ carte), la media dei numeri interi scritti su quelle carte è un numero intero. Determinare il valore minimo di $n$ per cui vale necessariamente anche la seguente affermazione: qualunque siano le $n - 3$ carte scelte, anche la media dei numeri interi scritti su quelle carte è un numero intero.
 
-**Risposta:** 36
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo23yqa_yosen#q08|src_jjmo23yqa_yosen__Q08]]
 
 
 
@@ -266,11 +308,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il CD in quadrilaterali ciclici con intersezione diagonale e punti collineari*
+*Trovare CD in un quadrilatero ciclico con intersezione delle diagonali e punti collineari*
 
-> Il quadrilaterale $ABCD$ è inserito in un cerchio con $AB = 7$ e $BC = 6$. Il $E$ deve essere l'intersezione delle diagonali $AC$ e $BD$. La linea $BE$ incontra nuovamente il cerchio al punto $F$. I tre punti $A$, $D$, $F$ sono collineari e $AF = 11$, $DF = 7$. Trova la lunghezza del segmento $CD$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Il quadrilatero $ABCD$ è inscritto in una circonferenza con $AB = 7$ e $BC = 6$. Sia $E$ l'intersezione delle diagonali $AC$ e $BD$. La retta $BE$ incontra nuovamente la circonferenza nel punto $F$. I tre punti $A$, $D$, $F$ sono allineati, e $AF = 11$, $DF = 7$. Determinare la lunghezza del segmento $CD$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-**Risposta:** \frac{63}{8}
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo23yqa_yosen#q09|src_jjmo23yqa_yosen__Q09]]
 
 
 
@@ -300,15 +347,22 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le matrici di permutazione 30x30 valide che soddisfano le condizioni di finestra di riga e di connettività*
+*Conta le matrici di permutazione 30x30 valide che soddisfano le condizioni relative alla finestra di riga e alla connettività*
 
-> Considera una griglia $30 \times 30$ in cui esattamente $30$ le celle sono di colore nero, con esattamente una cella nera in ogni riga e ogni colonna. La cella dell'angolo superiore sinistro è di colore nero ed è etichettata $W_1$. Leggere le celle nere da sinistra a destra e da cima a fondo, etichettarle $W_1, W_2, \ldots, W_{30}$. Tutte le seguenti condizioni devono essere soddisfatte:
-> 
-> - $W_1, W_2, \ldots, W_{30}$ sono integri separati in coppia tra $1$ e alcuni legati. - Per ogni $1 \le i \le n$, i numeri interi $W_i$ e $W_{i+1}$ (indici mod $30$, quindi $W_{31} = W_1$) condividono un lato comune sulla griglia. - Per ciascuna $1 \le n \le 30$, $C_n$ indica il centro della cella etichettata $W_n$; quindi $C_1, C_2, \ldots, C_{30}$ si trova all'interno del confine formato dalle celle nere della colonna (o riga) di $n$.
-> 
-> Contare il numero di modi per colorare una configurazione del genere. I colori collegati a rotazione o riflessione sono considerati diversi.
+> Si consideri una griglia $30 \times 30$ in cui esattamente $30$ celle sono colorate di nero, con esattamente una cella nera in ogni riga e in ogni colonna. La cella d'angolo in alto a sinistra è nera ed è etichettata con $W_1$. Leggendo le celle nere da sinistra a destra e dall'alto in basso, etichettale con $W_1, W_2, \ldots, W_{30}$. Devono essere soddisfatte tutte le seguenti condizioni:
+>
+> - $W_1, W_2, \ldots, W_{30}$ sono interi distinti a due a due compresi tra $1$ e un certo limite.
+> - Per ogni $1 \le i \le n$, gli interi $W_i$ e $W_{i+1}$ (indici modulo $30$, quindi $W_{31} = W_1$) condividono un lato nella griglia.
+> - Per ogni $1 \le n \le 30$, si indichi con $C_n$ il centro della cella etichettata con $W_n$; allora $C_1, C_2, \ldots, C_{30}$ giacciono nell'interno del bordo formato dalle celle nere della colonna (o della riga) $n$-esima.
+>
+> Conta il numero di modi per colorare una tale configurazione. Le colorazioni che sono correlate da rotazione o riflessione sono conteggiate come diverse.
 
-**Risposta:** 1136
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo23yqa_yosen#q10|src_jjmo23yqa_yosen__Q10]]
 
 
 
@@ -337,15 +391,21 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di punteggio complessivo per lo studente A in condizioni di dominio su lo studente B*
+*Punteggio totale minimo per lo studente A, nelle condizioni di dominanza date rispetto allo studente B*
 
-> $a_1, a_2, \ldots, a_7$ sia una permutazione dei numeri interi $1, 2, \ldots, 7$. Gli studenti A e B provano ciascuno 7 problemi numerati $1$ attraverso $7$; per il problema $i$, uno studente guadagna $a_i$ punti se lo risolvono e $0$ punti altrimenti. Supponiamo che le seguenti due condizioni si applichino a ogni sottoinsieme di problemi che A e B potrebbero risolvere:
-> 
-> - Se A risolve più problemi di B, allora il punteggio totale di A è maggiore del punteggio totale di B. - Se A e B risolvono lo stesso numero di problemi, e tra i problemi risolti da esattamente uno di essi quello con il più grande indice è risolto da A, allora il punteggio totale di A è maggiore del punteggio totale di B.
-> 
-> Trova il valore minimo possibile del punteggio totale di A (cioè $\sum_{i \in S} a_i$ dove $S$ è l'insieme dei problemi risolti da A).
+> Sia $a_1, a_2, \ldots, a_7$ una permutazione degli interi $1, 2, \ldots, 7$. Gli studenti A e B tentano ciascuno 7 problemi numerati da $1$ a $7$; per il problema $i$, uno studente ottiene $a_i$ punti se lo risolve e $0$ punti altrimenti. Si supponga che le seguenti due condizioni valgano per ogni sottoinsieme di problemi che A e B potrebbero risolvere ciascuno:
+>
+> - Se A risolve più problemi di B, allora il punteggio totale di A è maggiore del punteggio totale di B.
+> - Se A e B risolvono lo stesso numero di problemi, e tra i problemi risolti da esattamente uno dei due, quello con l'indice più grande è risolto da A, allora il punteggio totale di A è maggiore del punteggio totale di B.
+>
+> Trova il valore minimo possibile del punteggio totale di A (cioè $\sum_{i \in S} a_i$, dove $S$ è l'insieme dei problemi che A risolve).
 
-**Risposta:** 62
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo23yqa_yosen#q11|src_jjmo23yqa_yosen__Q11]]
 
 
 
@@ -371,10 +431,15 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i risultati favorevoli del torneo per 1003 giocatori a tavola rotonda, trovare il rapporto frazione mod*
+*Conta i risultati favorevoli del torneo per 1003 giocatori a una tavola rotonda, trova il rapporto mod frazione*
 
-> I giocatori di shogi si siedono intorno a una tavola rotonda. Nel torneo, ogni giocatore gioca contro ogni altro giocatore esattamente una volta, tranne che un giocatore designato non gioca nessuna partita (cioè, $1002$ giocatori ogni giocare $1002$ partite e $1$ giocatore gioca $0$ partite). Un gruppo di $3$ o più giocatori è chiamato un **buono gruppo** se i giocatori possono essere organizzati in un cerchio in modo tale che ogni giocatore batte il prossimo in senso orario, e nessun giocatore batte il unico due posizioni in senso orario.
-> 
-> Per ogni numero intero $m \ge 3$, $f(m)$ deve essere il numero minimo di vittorie sufficiente a garantire che tra i giocatori esista un buon gruppo di dimensioni esatte $m$. $N$ sia il numero totale di assegnazioni dei risultati del torneo (cioè, per ogni partita, scegliendo un vincitore) in modo tale che $f(m) \le m$ per ogni $m \ge 3$. Trova il valore di $\dfrac{N}{1003!} \pmod{\dfrac{1}{5^{197}}}$, dove $1003! = 1 \times 2 \times \cdots \times 1003$.
+> $1003$ i giocatori di shogi siedono attorno a un tavolo rotondo. Nel torneo, ciascun giocatore affronta ogni altro giocatore esattamente una volta, tranne un giocatore designato che non disputa alcuna partita (ossia $1002$ giocatori disputano ciascuno $1002$ partite e $1$ giocatori disputano $0$ partite). Un gruppo di $3$ o più giocatori è detto **gruppo buono** se i giocatori possono essere disposti in cerchio in modo che ciascun giocatore batta quello successivo in senso orario, e nessun giocatore batta quello due posizioni più avanti in senso orario.
+>
+> Per ogni intero $m \ge 3$, si ponga $f(m)$ come il numero minimo di vittorie sufficiente a garantire l'esistenza di un gruppo buono di dimensione esattamente $m$ tra i giocatori. Si ponga $N$ come il numero totale di assegnazioni dei risultati del torneo (ossia, per ogni partita, la scelta di un vincitore) tali che $f(m) \le m$ per ogni $m \ge 3$. Si determini il valore di $\dfrac{N}{1003!} \pmod{\dfrac{1}{5^{197}}}$, dove $1003! = 1 \times 2 \times \cdots \times 1003$.
 
-**Risposta:** \frac{1206}{5^{197}}
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo23yqa_yosen#q12|src_jjmo23yqa_yosen__Q12]]

@@ -57,35 +57,41 @@ level: TFJM²
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bomba con serratura di combinazione: sequenza più breve di clic su una ruota che attraversano tutte le combinazioni*
+*Esplosivo con lucchetto a combinazione: sequenza minima di clic su una singola ruota che attraversa tutte le combinazioni*
 
-> L'agente 1234 deve disattivare una bomba protetta da una serratura combinata.
-> 
-> La serratura è costituita da ruote indipendenti $r \ge 2$. Ogni ruota è costituita da incisioni $n \ge 2$ numerate da $0$ a $n-1$. L'agente può girare una ruota con un punto (un clic), ma, nel farlo, la ruota può muoversi solo in una sola direzione: $0 \to 1 \to \cdots \to n-1 \to 0$. La serratura è inizialmente in posizione $0\ldots0$.
-> 
-> Se l'agente riesce a visualizzare la combinazione corretta, la bomba viene disattivata automaticamente. Inoltre, poiché la serratura è rudimentale, la bomba tiene traccia di tutte le combinazioni già visualizzate in precedenza; quindi, se la combinazione corretta è già stata visualizzata in precedenza, la posizione $0\ldots0$ inclusa, l'esplosione è già stata attivata.
-> 
-> Dal momento che l'agente non conosce la combinazione, il suo unico obiettivo è trovare una sequenza di movimenti che passa attraverso tutte le combinazioni possibili almeno una volta.
-> 
-> Ad esempio, se $n=3$ e $r=2$, l'agente prova ogni combinazione con la sequenza $00 \to 10 \to 11 \to 21 \to 22 \to 02 \to 12 \to 00$. Una sequenza non può essere $01 \to 11 \to 21 \to 01$ poiché la combinazione $01$ è ripetuta, né $01 \to 21$ poiché le ruote non possono avanzare di due clic contemporaneamente.
-> 
-> **(1) ** In questa domanda supponiamo $n=10$ e $r=3$. E' possibile che l'agente possa disattivare la bomba con certezza? In caso contrario, qual è il numero massimo di combinazioni verificabili?
-> 
-> **(2) ** Rivedere la questione nel caso generale in cui si suppone solo $n \ge 2$ e $r \ge 2$.
-> 
-> **(3) ** Rivedi la domanda (2) se l'agente non può mai girare la stessa ruota due volte di seguito.
-> 
-> **(4) ** Lasciate $2 \le d \le r-1$. Rivedi la domanda (2) se l'agente non può girare una ruota che è tra le ultime ruote girate $d$ (la domanda precedente corrisponde a $d=1$).
-> 
-> **(5) ** Lasciate $2 \le k \le r$. Rivisitare la domanda (2) se, invece di girare una ruota alla volta, l'agente le gira $k$ in una volta, ciascuna a un punto (senza passare attraverso una combinazione intermedia). Per esempio, se $n=10$, $r=3$ e $k=2$, l'agente può iniziare la sua sequenza di movimenti con $000 \to 011 \to 112 \to 213 \to \cdots$
-> 
-> **(6) ** Lasciate $2 \le k \le r$. Rivisitare la domanda (2) se, invece di girare una ruota alla volta, l'agente ne gira $k$ contemporaneamente: la prima per una notta, la seconda per 2, e così via fino alla $k$-th per $k$ (senza passare attraverso una combinazione intermedia). Ad esempio, se $n=10$, $r=3$ e $k=2$, l'agente può iniziare la sua sequenza di movimenti con $000 \to 012 \to 222 \to 342 \to \cdots$
-> 
-> **(7) ** In questa domanda, supponiamo $n=10$. Let $m \ge 2$. L'agente 1234 ha scoperto che la bomba ha un difetto di fabbricazione, e la combinazione è un multiple di$m$. Cerca quindi sequenze di movimenti che passano attraverso diverse combinazioni che sono multipli di $m$, facendo al contempo il minor numero di movimenti possibile. Rivedere le domande precedenti in questo quadro. Si può iniziare trattando la domanda (2) per i valori $m = 10, 2, 3, 4$.
-> 
-> **(8) ** Proporre e esplorare altre direzioni di ricerca.
+> Agente 1234 deve disinnescare una bomba protetta da un lucchetto a combinazione.
+>
+> Il lucchetto è costituito da $r \ge 2$ ruote indipendenti. Ogni ruota è formata da $n \ge 2$ tacche numerate da $0$ a $n-1$. L'agente può ruotare una ruota di una tacca (un clic), ma, mentre lo fa, la ruota può muoversi solo in un'unica direzione: $0 \to 1 \to \cdots \to n-1 \to 0$. Il lucchetto è inizialmente nella posizione $0\ldots0$.
+>
+> Se l'agente riesce a visualizzare la combinazione corretta, la bomba viene automaticamente disinnescata. Inoltre, poiché il lucchetto è rudimentale, la bomba tiene traccia di tutte le combinazioni già visualizzate in precedenza; così, se la combinazione corretta è già stata visualizzata in precedenza, inclusa la posizione $0\ldots0$, l'esplosione è già stata innescata.
+>
+> Poiché l'agente non conosce la combinazione, il suo unico obiettivo è trovare una sequenza di movimenti che attraversi tutte le combinazioni possibili almeno una volta.
+>
+> Ad esempio, se $n=3$ e $r=2$, l'agente testa ogni combinazione con la sequenza $00 \to 10 \to 11 \to 21 \to 22 \to 02 \to 12 \to 00$. Una sequenza non può essere $01 \to 11 \to 21 \to 01$ poiché la combinazione $01$ è ripetuta, né $01 \to 21$ poiché le ruote non possono avanzare di due clic alla volta.
+>
+> **1.** In questo quesito, si supponga $n=10$ e $r=3$. È possibile che l'agente disinneschi la bomba con certezza? In caso contrario, qual è il numero massimo di combinazioni testabili?
+>
+> **2.** Si riprenda il quesito nel caso generale in cui si supponga solo $n \ge 2$ e $r \ge 2$.
+>
+> **3.** Si riprenda il quesito (2) se l'agente non può mai ruotare due volte di seguito la stessa ruota.
+>
+> **4.** Sia $2 \le d \le r-1$. Si riprenda il quesito (2) se l'agente non può ruotare una ruota che si trova tra le ultime $d$ ruote ruotate (il quesito precedente corrisponde a $d=1$).
+>
+> **5.** Sia $2 \le k \le r$. Si riprenda il quesito (2) se, invece di ruotare una ruota alla volta, l'agente ruota $k$ ruote contemporaneamente, ciascuna di una tacca (senza passare attraverso una combinazione intermedia). Ad esempio, se $n=10$, $r=3$ e $k=2$, l'agente può iniziare la sua sequenza di movimenti con $000 \to 011 \to 112 \to 213 \to \cdots$
+>
+> **6.** Sia $2 \le k \le r$. Si riprenda il quesito (2) se, invece di ruotare una ruota alla volta, l'agente ruota $k$ ruote contemporaneamente: la prima di una tacca, la seconda di 2, e così via fino alla $k$-esima di $k$ (senza passare attraverso una combinazione intermedia). Ad esempio, se $n=10$, $r=3$ e $k=2$, l'agente può iniziare la sua sequenza di movimenti con $000 \to 012 \to 222 \to 342 \to \cdots$
+>
+> **7.** In questo quesito, si supponga $n=10$. Sia $m \ge 2$. L'agente 1234 ha appreso che la bomba ha un difetto di fabbricazione, e la combinazione è un multiplo di $m$. Cerca quindi sequenze di movimenti che attraversino diverse combinazioni che siano multipli di $m$, facendo il minor numero possibile di movimenti. Si riprendano i quesiti precedenti in questo quadro. Si può iniziare trattando il quesito (2) per i valori $m = 10, 2, 3, 4$.
+>
+> **8.** Proporre ed esplorare altri orientamenti di ricerca.
 
 ![[src_tfjm_2021__q01.png]]
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_tfjm_2021#q01|src_tfjm_2021__Q01]]
 
 
 
@@ -134,33 +140,39 @@ level: TFJM²
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di eliminazione dei token per due giocatori su una riga utilizzando set di compensazione; analizzare le strategie vincenti e la periodicità*
+*Gioco a due giocatori di eliminazione di gettoni su una fila, con insiemi di scarti; analisi di strategie vincenti e periodicità*
 
 > Baptiste e Carole giocano il gioco della battaglia in fila.
-> 
-> Baptiste e Carole hanno ognuno una fila di token $n \ge 1$, numerati da $1$ a $n$. A ciascuno di essi viene assegnato un insieme di numeri interi, chiamato un insieme di compensazioni. Scriviamo $B$ per l'insieme di compensazioni di Baptiste e $C$ per Carole.
-> 
-> Baptiste e Carole suonano a turno, a partire da Baptiste. A sua volta, Baptiste deve eliminare uno dei token rimanenti dell'avversario, numerato $j$; per farlo sceglie un offset $j-i$ nel suo set $B$, quindi Carole deve eliminare uno dei token di Baptiste numerato $i$, scegliendo un offset $j-i$ nel suo set $C$. Se uno dei due giocatori non può più giocare, ha perso e il suo avversario ha vinto.
-> 
-> Ad esempio, se $n=4$, $B=\{0,1\}$ e $C=\{-1,0\}$, è possibile giocare e è illustrato nella figura 1. Le cellule di Baptiste sono nella fila superiore, di Carole nella fila inferiore (in arancione).
-> 
-> Una strategia vincente per un giocatore è la scelta, per ogni possibile configurazione di gioco, di una mossa da giocare. Diciamo che un giocatore ha una strategia vincente se, giocando la sua strategia, può vincere la partita indipendentemente dal modo in cui il suo avversario gioca.
-> 
-> In tutta questa domanda supponiamo che $B=C$. Per quale Battista ha una strategia vincente? Studiare in particolare il caso $B=C=\{-1,0,1\}$ e il caso $B=C=\{0,1\}$.
-> 
-> **(2) ** Lasciate $-n \le k \le n$. Supponiamo $B=\{-n,-n+1,\ldots,n-1,n\}$ e $C=\{-n,-n+1,\ldots,k-1,k+1,\ldots,n-1,n\}$ (Carole è privato dell'offset $k$). - Chi vince? Ripensare la questione se è Baptiste che è privato dell'offset $k$.
-> 
-> **(3) ** Rivisitare la domanda precedente considerando invece altre serie $B$ e $C$. Si possono considerare $B=\{0,1\}$, $C=\{-1,0\}$; oppure invece $B=\{x,y\}$, $C=\{-x,-y\}$ con $x$ e $y$ due integri distinti; o più in generale il caso in cui $B$ e $C$ siano simmetrici, ovvero: $-k$ è in $C$ se e solo se $k$ è in $B$.
-> 
-> **(4) ** Fix $B$, $C$, e lasciare $(u_n)_{n\in\mathbb{N}}$ essere la sequenza in cui $u_n$ equivale $1$ se Baptiste vince la partita nella configurazione con celle $n$, e $0$ altrimenti. Descrivere le possibili sequenze $(u_n)$. In particolare, questa sequenza è sempre periodica da un certo rango? Tra le sequenze che alla fine sono periodiche, quali periodi sono possibili?
-> 
-> Arthur, che guarda le partite, le trova troppo lunghe. Propone di modificare la regola: a sua volta, un giocatore elimina uno dei suoi token rimanenti, numerato $i$, così come tutti i token rimanenti dell'avversario il cui numero $j$ è tale che $j-i$ sia nel suo insieme di compensazioni. Può succedere che un giocatore elimini tutti i token rimanenti dell'avversario; allora quel giocatore non può più giocare, ha perso, e il suo avversario ha vinto.
-> 
-> **(5) ** Rivisitare le domande precedenti con questa nuova regola.
-> 
-> **(6) ** Proporre e studiare altre direzioni di ricerca.
+>
+> Baptiste e Carole hanno ciascuno una fila di $n \ge 1$ gettoni, numerati da $1$ a $n$. A ciascuno di loro è assegnato un insieme di interi, detto insieme di scarti. Scriviamo $B$ per l'insieme di scarti di Baptiste e $C$ per quello di Carole.
+>
+> Baptiste e Carole giocano a turno, iniziando con Baptiste. Al suo turno, Baptiste deve eliminare uno dei gettoni rimanenti dell'avversario, numerato $j$; per farlo sceglie uno scarto $j-i$ nel suo insieme $B$, poi Carole deve eliminare uno dei gettoni di Baptiste numerato $i$, scegliendo uno scarto $j-i$ nel suo insieme $C$. Se uno dei due giocatori non può più giocare, ha perso e il suo avversario ha vinto.
+>
+> Ad esempio, se $n=4$, $B=\{0,1\}$ e $C=\{-1,0\}$, una partita è possibile ed è illustrata in Figura 1. Le celle di Baptiste sono nella riga superiore, quelle di Carole nella riga inferiore (in arancione).
+>
+> Una strategia vincente per un giocatore è la scelta, per ogni possibile configurazione di gioco, di un movimento da giocare. Si dice che un giocatore abbia una strategia vincente se, giocando la sua strategia, può vincere la partita qualunque sia il modo in cui gioca il suo avversario.
+>
+> **1.** In tutto questo quesito si supponga $B=C$. Per quali $n$ Baptiste ha una strategia vincente? Studiare in particolare il caso $B=C=\{-1,0,1\}$ e il caso $B=C=\{0,1\}$.
+>
+> **2.** Sia $-n \le k \le n$. Si supponga $B=\{-n,-n+1,\ldots,n-1,n\}$ e $C=\{-n,-n+1,\ldots,k-1,k+1,\ldots,n-1,n\}$ (Carole è privata dello scarto $k$). Chi vince? Si riprenda il quesito se è Baptiste a essere privato dello scarto $k$.
+>
+> **3.** Si riprenda il quesito precedente considerando invece altri insiemi $B$ e $C$. Si può considerare $B=\{0,1\}$, $C=\{-1,0\}$; oppure $B=\{x,y\}$, $C=\{-x,-y\}$ con $x$ e $y$ due interi distinti; oppure, più in generale, il caso in cui $B$ e $C$ siano simmetrici, cioè $-k$ sia in $C$ se e solo se $k$ è in $B$.
+>
+> **4.** Si fissino $B$, $C$, e sia $(u_n)_{n\in\mathbb{N}}$ la successione tale che $u_n$ sia $1$ se Baptiste vince la partita nella configurazione con $n$ celle, e $0$ altrimenti. Descrivere le possibili successioni $(u_n)$. In particolare, questa successione è sempre periodica da un certo indice in poi? Tra le successioni che sono periodiche da un certo punto in poi, quali periodi sono possibili?
+>
+> Arthur, che osserva le partite, le trova troppo lunghe. Propone di modificare la regola: al suo turno, un giocatore elimina uno dei suoi gettoni rimanenti, numerato $i$, nonché tutti i gettoni rimanenti dell'avversario il cui numero $j$ è tale che $j-i$ sia nel suo insieme di scarti. Può accadere che un giocatore elimini tutti i gettoni rimanenti dell'avversario; allora quel giocatore non può più giocare, ha perso e il suo avversario ha vinto.
+>
+> **5.** Si riprendano i quesiti precedenti con questa nuova regola.
+>
+> **6.** Proporre e studiare altre direzioni di ricerca.
 
 ![[src_tfjm_2021__q02.png]]
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti / monovarianti]], [[method_simmetria|Sfruttamento della simmetria]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_tfjm_2021#q02|src_tfjm_2021__Q02]]
 
 
 
@@ -217,31 +229,47 @@ level: TFJM²
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Schedule di pizzaiolo singoli n pizze (una alla volta) per essere pronte vicino all'orario 0; ridurre al minimo la penalità totale ponderata di anticipo/trasto*
+*Pianificazione di n pizze da parte di un solo pizzaiolo, per minimizzare la penalità di anticipo e di ritardo*
 
-> Perrine ha chiesto a Yohann, un esperto pizzaiolo, di preparare le pizze per il torneo.
-> 
-> Perrine desidera che le pizze $n \ge 1$ siano pronte il più vicino possibile alla fine della giornata, data $0$. Ogni pizza $i \in \{1,2,\ldots,n\}$ ha un tempo di preparazione specifico $d_i \in \mathbb{R}_+^*$ e una priorità $p_i \in \mathbb{R}_+^*$. Yohann può iniziare a preparare le pizze a partire da una data $-d$ dove $d \in \mathbb{R}_+^*$. Tuttavia, può preparare solo una pizza alla volta, e non può preparare diverse in una volta (senza pausa).
-> 
-> L'obiettivo della preparazione delle pizze è quello di essere pronte esattamente alla data $0$, Yohann cerca di ridurre al minimo la pena totale, calcolata come segue: - Per una pizza $i \in \{1,2,\ldots,n\}$ che è in ritardo, la pena è la durata del ritardo moltiplicata per $p_i$. - Per una pizza $i \in \{1,2,\ldots,n\}$ che è anticipata, la pena è la durata dell'anticipo moltiplicata per $p_i$.
-> 
-> La figura 2 presenta una possibile pianificazione della preparazione di Yohann con pizze $d=4$ e $4$ di rispettive durate di preparazione $1,2,3,2,1$ e rispettive priorità $10,20,30,40$. La sanzione totale di Yohann per questa organizzazione è $10\times 3 + 20\times 2 + 30\times 1 + 40\times 2.5 = 200$.
-> 
-> **(1) ** Supponiamo $d=0$. Che pena minima può ottenere Yohann? Uno suppone quindi per il resto che $d>0$.
-> 
-> Qual è la pena minima che Yohann può ottenere quando: - (a) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=1$ e $p_i=1$? - b) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=1$? - (c) per tutti i $i \in \{1,2,\ldots,n\}$, $p_i=1$?
-> 
-> **(3) ** Lasciate $0 < d_0 \le d$ e $0 < q < \frac{1}{2}$. Qual è la pena minima che Yohann può ottenere quando: - (a) per tutti $i \in \{1,2,\ldots,n\}$, $d_i=\frac{d_0}{2^i}$ e $p_i=q^i$? - (b) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=\frac{d_0}{2^i}$ e $p_i=\frac{1}{2^i}$? - (c) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=i$ e $p_i=1$?
-> 
-> **(4) ** Supponiamo che Yohann abbia il tempo di preparare tutte le pizze prima della data $-d$ (cioè $d_1+d_2+\cdots+d_n \le d$). Qual è la pena minima che Yohann può ottenere quando: - (a) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=1$? - (b) per tutti i $i \in \{1,2,\ldots,n\}$, $p_i=1$?
-> 
-> In questa interrogazione, Yohann ha un potenziale numero infinito di pizze, ma prepara solo la prima. Supponiamo che, qualunque sia il numero $n$ di pizze che prepara, $d_1+d_2+\cdots+d_n \le d$, e che le sanzioni diminuiscano, con $p_i$ una funzione diminuente $g:\mathbb{N}\to\mathbb{R}_+^*$. Calcolare con la massima precisione la pena minima che Yohann può garantire a se stesso in funzione di $n$. Che cosa accade per le altre funzioni decrescenti $g:\mathbb{N}\to\mathbb{R}_+^*$?
-> 
-> In caso di pizzaiolo, rivedere le domande (2) e (4).
-> 
-> **(7) ** Proporre e esplorare altre direzioni di ricerca.
+> Perrine ha chiamato Yohann, un pizzaiolo esperto, per preparare pizze per il torneo.
+>
+> Perrine desidera che $n \ge 1$ pizze siano pronte il più vicino possibile alla fine della giornata, data $0$. Ogni pizza $i \in \{1,2,\ldots,n\}$ ha un tempo di preparazione specifico $d_i \in \mathbb{R}_+^*$ e una priorità $p_i \in \mathbb{R}_+^*$. Yohann può iniziare a preparare le pizze da una data $-d$, dove $d \in \mathbb{R}_+^*$. Tuttavia, può preparare solo una pizza alla volta e non può prepararne diverse contemporaneamente (nessuna pausa).
+>
+> L'obiettivo delle pizze è essere pronte esattamente alla data $0$; Yohann cerca di minimizzare la penalità totale, calcolata come segue:
+> - Per una pizza $i \in \{1,2,\ldots,n\}$ in ritardo, la penalità è la durata del ritardo moltiplicata per $p_i$.
+> - Per una pizza $i \in \{1,2,\ldots,n\}$ in anticipo, la penalità è la durata dell'anticipo moltiplicata per $p_i$.
+>
+> La Figura 2 presenta una possibile pianificazione di preparazione per Yohann con $d=4$ e $4$ pizze di durate di preparazione rispettivamente $1,2,3,2,1$ e priorità rispettivamente $10,20,30,40$. La penalità totale di Yohann per questa organizzazione è $10\times 3 + 20\times 2 + 30\times 1 + 40\times 2.5 = 200$.
+>
+> **1.** Supponiamo $d=0$. Qual è la penalità minima che Yohann può ottenere? Si supponga poi per il resto che $d>0$.
+>
+> **2.** Qual è la penalità minima che Yohann può ottenere quando:
+> - (a) per ogni $i \in \{1,2,\ldots,n\}$, $d_i=1$ e $p_i=1$?
+> - (b) per ogni $i \in \{1,2,\ldots,n\}$, $d_i=1$?
+> - (c) per ogni $i \in \{1,2,\ldots,n\}$, $p_i=1$?
+>
+> **3.** Sia $0 < d_0 \le d$ e $0 < q < \frac{1}{2}$. Qual è la penalità minima che Yohann può ottenere quando:
+> - (a) per ogni $i \in \{1,2,\ldots,n\}$, $d_i=\frac{d_0}{2^i}$ e $p_i=q^i$?
+> - (b) per ogni $i \in \{1,2,\ldots,n\}$, $d_i=\frac{d_0}{2^i}$ e $p_i=\frac{1}{2^i}$?
+> - (c) per ogni $i \in \{1,2,\ldots,n\}$, $d_i=i$ e $p_i=1$?
+>
+> **4.** Supponiamo che Yohann abbia il tempo di preparare tutte le pizze prima della data $-d$ (cioè, $d_1+d_2+\cdots+d_n \le d$). Qual è la penalità minima che Yohann può ottenere quando:
+> - (a) per ogni $i \in \{1,2,\ldots,n\}$, $d_i=1$?
+> - (b) per ogni $i \in \{1,2,\ldots,n\}$, $p_i=1$?
+>
+> **5.** In questo intero quesito, Yohann ha potenzialmente un numero infinito di pizze, ma ne prepara solo le prime $n$. Supponiamo che, qualunque sia il numero $n$ di pizze che prepara, $d_1+d_2+\cdots+d_n \le d$, e che le penalità diminuiscano, con $p_i$ una funzione decrescente $g:\mathbb{N}\to\mathbb{R}_+^*$. Si stima il più precisamente possibile la penalità minima che Yohann può garantire a se stesso come funzione di $n$. Cosa accade per altre funzioni decrescenti $g:\mathbb{N}\to\mathbb{R}_+^*$?
+>
+> **6.** Si riprendano i quesiti (2) e (4) nel caso in cui vi siano $m$ pizzaioli.
+>
+> **7.** Si propongano e si esplorino altre direzioni di ricerca.
 
 ![[src_tfjm_2021__q03.png]]
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_tfjm_2021#q03|src_tfjm_2021__Q03]]
 
 
 
@@ -290,33 +318,39 @@ level: TFJM²
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare le monete di cioccolato contraffatte (di massa diversa) con un equilibrio di due pannelli; pesi minimi nel peggiore dei casi in base a varie informazioni*
+*Identificare monete di cioccolato contraffatte (di massa diversa) con una bilancia a due piatti; pesate minime nel caso peggiore sotto varie informazioni*
 
-> Malo, un noto apprendista di cioccolato, a volte sbaglia la ricetta delle monete di cioccolato.
-> 
-> Malo ha preparato i pezzi di cioccolato $n \in \mathbb{N}^*$ e li ha già avvolti prima di rendersi conto che un pezzo di cioccolato non ha la massa giusta: è troppo piccolo o troppo grande, ma non sappiamo quale, né la differenza di massa. Tutti gli altri pezzi hanno la stessa massa.
-> 
-> L'unica cosa che distingue i pezzi difettosi dai buoni è la loro massa: tutti i pezzi buoni hanno la stessa massa e un pezzo difettoso ha una massa diversa.
-> 
-> Malo chiede a Marie, la cioccolateria, aiuto per identificare i pezzi difettosi tra i buoni. Purtroppo ha a sua disposizione solo un equilibrio di due pannelli che non è molto preciso: indica solo quale è la pannella più pesante. L'equilibrio è così impreciso che ha bisogno anche di piccole masse di massa $1$.
-> 
-> **(1) ** Supponiamo che tutti i pezzi difettosi abbiano una massa tra $1-\varepsilon$ e $1+\varepsilon$. Trovare una condizione su $\varepsilon$ tale che, se Marie mette rigorosamente più pezzi e masse su una pentola che sull'altra, allora la bilancia sarà sempre inclinata verso il lato con più pezzi e masse. Nel resto del problema, ci mettiamo in questo caso.
-> 
-> Per cominciare, supponiamo $k=1$: un singolo pezzo è difettoso. Inoltre, gli ingredienti rimasti ci permettono di sapere se il pezzo difettoso è più pesante o più leggero di quelli veri.
-> 
-> Malo pensa di ricordare quale pezzo è difettoso. In termini di $n$, qual è il numero minimo di pesi che Marie ha bisogno per verificare se ha ragione?
-> 
-> Malo non ha idea di quale pezzo sia difettoso. In termini di $n$, qual è il numero minimo di pesi di cui Marie ha bisogno per sapere con certezza quale è difettoso? La sua strategia deve funzionare, qualunque sia il pezzo difettoso.
-> 
-> La domanda (2) e (3) sono riviste se Marie non dispone di massa.
-> 
-> **(5) ** Rivedere le domande da (2) a (4) se gli ingredienti non permettono di determinare se il pezzo difettoso è più pesante o più leggero. Per la domanda (2), Malo pensa di sapere quale pezzo è difettoso e più pesante (Marie vuole solo verificare che sia il pezzo difettoso, ma non necessariamente che sia effettivamente più pesante).
-> 
-> **(6) ** Rivedere le domande da (2) a (4) nel caso di un numero arbitrario $k > \frac{n}{2}$ di pezzi difettosi, se questi sono tutti più pesanti dei pezzi buoni e hanno tutti la stessa massa (rispetto al vincolo della domanda (1)). Per la domanda (2), Malo pensa di ricordare esattamente quali sono i pezzi difettosi. Si può iniziare con $k=2$.
-> 
-> **(7) ** Rivedi il problema in altri casi. Ad esempio, si può supporre che esistano due modelli di pezzi difettosi, rispettivamente $1+\varepsilon$ e $1-\varepsilon$ (dove $\varepsilon>0$ è abbastanza piccolo da rispettare la limitazione della domanda (1)). Si può anche interessare al caso in cui i pezzi possano avere qualsiasi massa (sempre rispettando la domanda (1)), o posizionarsi nel caso in cui Marie non conosca $k$.
+> Malo, un apprendista cioccolatiere rinomato, a volte sbaglia la ricetta delle monete di cioccolato.
+>
+> Malo ha preparato $n \in \mathbb{N}^*$ pezzi di cioccolato e li ha già avvolti prima di rendersi conto che uno di essi non ha la massa giusta: è troppo piccolo o troppo grande, ma non sappiamo quale né la differenza di massa. Tutti gli altri pezzi hanno la stessa massa.
+>
+> L'unica cosa che distingue i pezzi difettosi da quelli buoni è la loro massa: tutti i pezzi buoni hanno la stessa massa e un pezzo difettoso ha una massa diversa.
+>
+> Malo si rivolge a Marie, la cioccolatiera, per chiedere aiuto nell'identificare i pezzi difettosi tra quelli buoni. Purtroppo, dispone solo di una bilancia a due piatti non molto precisa: indica solo quale piatto è più pesante. La bilancia è così imprecisa che Marie ha anche bisogno di piccole masse di massa $1$.
+>
+> **1.** Supponiamo che tutti i pezzi difettosi abbiano una massa compresa tra $1-\varepsilon$ e $1+\varepsilon$. Trovare una condizione su $\varepsilon$ tale che, se Marie mette strettamente più pezzi e masse su un piatto che sull'altro, la bilancia si inclinerà sempre verso il lato con più pezzi e masse. Nel resto del problema, ci poniamo in questo caso.
+>
+> Per iniziare, supponiamo $k=1$: un solo pezzo è difettoso. Inoltre, gli ingredienti rimanenti permettono di sapere se il pezzo difettoso è più pesante o più leggero dei veri.
+>
+> **2.** Malo pensa di ricordare quale pezzo è difettoso. In funzione di $n$, qual è il numero minimo di pesate che Marie deve fare per verificare se ha ragione?
+>
+> **3.** Malo non ha idea di quale pezzo sia difettoso. In funzione di $n$, qual è il numero minimo di pesate che Marie deve fare per sapere con certezza quale sia il pezzo difettoso? La sua strategia deve funzionare qualunque sia il pezzo difettoso.
+>
+> **4.** Si riprendano i quesiti (2) e (3) se Marie non dispone di masse.
+>
+> **5.** Si riprendano i quesiti da (2) a (4) se gli ingredienti non permettono di determinare se il pezzo difettoso è più pesante o più leggero. Per il quesito (2), Malo pensa di sapere quale pezzo è difettoso e più pesante (Marie vuole solo verificare che sia il pezzo difettoso, ma non necessariamente che sia effettivamente più pesante).
+>
+> **6.** Si riprendano i quesiti da (2) a (4) nel caso di un numero arbitrario $k > \frac{n}{2}$ di pezzi difettosi, se questi sono tutti più pesanti dei pezzi buoni e tutti della stessa massa (rispettando il vincolo del quesito (1)). Per il quesito (2), Malo pensa di ricordare esattamente quali sono i pezzi difettosi. Si può iniziare con $k=2$.
+>
+> **7.** Si riprenda il problema negli altri casi. Ad esempio, si può supporre che esistano due modelli di pezzi difettosi, di masse rispettivamente $1+\varepsilon$ e $1-\varepsilon$ (dove $\varepsilon>0$ è sufficientemente piccolo da rispettare il vincolo del quesito (1)). Si può anche essere interessati al caso in cui i pezzi possano avere qualsiasi massa (sempre rispettando il quesito (1)), oppure porsi nel caso in cui Marie non conosca $k$.
 
 ![[src_tfjm_2021__q04.png]]
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_conteggio|Conteggio combinatorio]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_tfjm_2021#q04|src_tfjm_2021__Q04]]
 
 
 
@@ -375,43 +409,49 @@ level: TFJM²
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I signori feudali possedono castelli in un regno; zone d'influenza attraverso le regioni più vicine; nemici giurati e signori machiavelli; analizzano le configurazioni tra regni segmento/disco/quadrato*
+*Signori feudali possiedono castelli in un regno; zone di influenza tramite regioni di punti più vicini; nemici giurati e signori machiavelliani; analisi delle configurazioni nei regni segmento/disco/quadrato*
 
-> Nel Medioevo, i signori condividevano il controllo su alcuni regni.
-> 
-> Il regno del Cile è rappresentato da un segmento di lunghezza $1$, e ogni signore $s$ ha un castello che è un punto $c_s$ di questo segmento. Due signori non possono avere il loro castello nello stesso punto. La zona d'influenza del signore $s$ è composta da tutti i punti $x$ del regno che sono strettamente più vicini a $c_s$ che a qualsiasi altro castello. La potenza $p_s$ di un signore è la lunghezza della sua zona di influenza.
-> 
-> La figura 5 illustra una possibile distribuzione dei signori $4$ nel regno del Cile. La zona d'influenza di lord $s_1$ è il segmento blu.
-> 
-> Lasciate che sia un signore. Per un altro signore $s$, scrivete $a(t,s)$ per il potere che $t$ avrebbe se il signore $s$ fosse rimosso dal regno. Noi diciamo che$s$ è un nemico giurato di$t$ se, per ogni altro signore $s'$, $a(t,s) \ge a(t,s')$. Un signore può avere diversi nemici giurati.
-> 
-> Ad esempio, nella distribuzione illustrata nella figura 5, il signore $s_1$ ha giurato nemico $s_2$, $s_2$ ha giurato nemico $s_1$, $s_3$ ha giurato nemico $s_2$ e $s_4$ ha giurato nemico $s_3$.
-> 
-> Si dice che un signore sia machiavelliano se ha il più grande potere tra tutti i signori, ma senza essere un nemico giurato di nessun signore.
-> 
-> Quali sono tutti gli integri $n \ge 2$ in modo che, con i signori $n$ nel regno del Cile, ci possa essere un signore machiavelliano?
-> 
-> Non lontano dal regno del Cile, altri due regni sono condivisi allo stesso modo: il regno dell'Uruguay, sotto forma di disco, e il regno del Suriname, sotto forma di quadrato. In questi due regni (a parte il Cile), la zona di influenza di un signore $s$ con castello al punto $c_s$ è l'insieme di tutti i punti $x$ che sono strettamente più vicini a $c_s$ che a qualsiasi altro castello. La potenza $p_s$ di un signore è l'area della sua zona di influenza. La nozione di signore machiavelliano è definita nello stesso modo in questo contesto.
-> 
-> La figura 6 illustra la possibile distribuzione dei signori nei regni. La zona d'influenza di lord $s$ è, in ogni caso, la zona blu.
-> 
-> Quali sono tutti gli enti $n$ in modo che, con $n$ signori nel regno dell'Uruguay, ci possa essere un signore machiavelliano? E nel regno del Surinam?
-> 
-> Si dice che un signore sia un vassallo se è un nemico giurato di tutti gli altri signori.
-> 
-> Per ciascuno dei tre regni, quali sono tutti gli enti $n \ge 2$ in modo tale che possa esserci una configurazione di $n$ machiavelli?
-> 
-> Diciamo che una configurazione di signori in un regno è $k$-equilibrata se ogni signore ha esattamente $k$ nemici giurati, e ogni signore è il nemico giurato di esattamente $k$ signori.
-> 
-> **(5) ** Per ciascuno dei tre regni, quali sono i numeri interi $k \ge 1$ in modo che esista una configurazione $k$-equilibrata?
-> 
-> Per ciascuno dei tre regni, quali sono i numeri interi $n \ge 2$ in modo che esista una configurazione di signori $n$ in cui nessun paio di signori sono nemici giurati l'uno dell'altro?
-> 
-> **(7) ** Fissa il numero $n \ge 2$ di signori e, per ogni signore $s$, un insieme $E_s$ di altri signori. Per ciascuno dei tre regni, determinare per quali assegnazioni $E_s$ esiste una configurazione per la quale i nemici giurati di $s$ sono esattamente gli elementi di $E_s$.
-> 
-> **(8) ** Proporre e esplorare altre direzioni di ricerca; può essere utile, ad esempio, continuare a studiare questi tre regni, o determinare se esistono altri regni con proprietà interessanti rispetto alle domande precedenti.
+> Nel Medioevo, i signori condividono il controllo su alcuni regni.
+>
+> Il regno del Cile è rappresentato da un segmento di lunghezza $1$, e ogni signore $s$ ha un castello che è un punto $c_s$ di questo segmento. Due signori non possono avere il loro castello nello stesso punto $c_s$. La zona di influenza del signore $s$ consiste di tutti i punti $x$ del regno che sono strettamente più vicini a $c_s$ che a qualsiasi altro castello. Il potere $p_s$ di un signore è la lunghezza della sua zona di influenza.
+>
+> La Figura 5 illustra una possibile distribuzione di $4$ signori nel regno del Cile. La zona di influenza del signore $s_1$ è il segmento blu.
+>
+> Sia $t$ un signore. Per un altro signore $s$, indichiamo con $a(t,s)$ il potere che $t$ avrebbe se il signore $s$ fosse rimosso dal regno. Diciamo che $s$ è un nemico giurato di $t$ se, per ogni altro signore $s'$, $a(t,s) \ge a(t,s')$. Un signore può avere diversi nemici giurati.
+>
+> Ad esempio, nella distribuzione illustrata nella Figura 5, il signore $s_1$ ha come nemico giurato $s_2$, $s_2$ ha come nemico giurato $s_1$, $s_3$ ha come nemico giurato $s_2$, e $s_4$ ha come nemico giurato $s_3$.
+>
+> Un signore è detto machiavelliano se ha strettamente il maggiore potere tra tutti i signori, ma senza essere nemico giurato di alcun signore.
+>
+> **2.** Quali sono tutti gli interi $n \ge 2$ tali che, con $n$ signori nel regno del Cile, possa esserci un signore machiavelliano?
+>
+> Non lontano dal regno del Cile, altri due regni sono condivisi allo stesso modo: il regno dell'Uruguay, nella forma di un disco, e il regno del Suriname, nella forma di un quadrato. In questi due regni (oltre al Cile), la zona di influenza di un signore $s$ con castello nel punto $c_s$ è l'insieme di tutti i punti $x$ che sono strettamente più vicini a $c_s$ che a qualsiasi altro castello. Il potere $p_s$ di un signore è l'area della sua zona di influenza. La nozione di signore machiavelliano è definita nello stesso modo in questo contesto.
+>
+> La Figura 6 illustra una possibile distribuzione di signori nei regni. La zona di influenza del signore $s$ è, in ciascun caso, la zona blu.
+>
+> **3.** Quali sono tutti gli interi $n$ tali che, con $n$ signori nel regno dell'Uruguay, possa esserci un signore machiavelliano? E nel regno del Suriname?
+>
+> Un signore è detto vassallo se è nemico giurato di tutti gli altri signori.
+>
+> **4.** Per ciascuno dei tre regni, quali sono tutti gli interi $n \ge 2$ tali che può esserci una configurazione di $n$ signori machiavelliani?
+>
+> Diciamo che una configurazione di signori in un regno è $k$-bilanciata se ogni signore ha esattamente $k$ nemici giurati, e ogni signore è nemico giurato di esattamente $k$ signori.
+>
+> **5.** Per ciascuno dei tre regni, quali sono gli interi $k \ge 1$ tali che esiste una configurazione $k$-bilanciata?
+>
+> **6.** Per ciascuno dei tre regni, quali sono gli interi $n \ge 2$ tali che esiste una configurazione di $n$ signori in cui nessun paio di signori è nemico giurato l'uno dell'altro?
+>
+> **7.** Fisso il numero $n \ge 2$ di signori e, per ciascun signore $s$, un insieme $E_s$ di altri signori. Per ciascuno dei tre regni, determinare per quali assegnazioni $E_s$ esiste una configurazione per cui i nemici giurati di $s$ sono esattamente gli elementi di $E_s$.
+>
+> **8.** Proporre e esplorare altre direzioni di ricerca; può essere utile, ad esempio, continuare a studiare questi tre regni, o determinare se esistono altri regni con proprietà interessanti rispetto alle precedenti domande.
 
 ![[src_tfjm_2021__q05.png]]
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_tfjm_2021#q05|src_tfjm_2021__Q05]]
 
 
 
@@ -478,43 +518,57 @@ level: TFJM²
 <div class="qlang-split" data-lang="it"></div>
 
 
-Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relazioni vicine; ogni mossa lungo un bordo costa 1; ridurre al minimo il costo totale di trasferimento*
+*Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relazioni di vicinato; ogni spostamento lungo un arco costa 1; minimizzare il costo totale di trasferimento*
 
-> Ogni anno il comitato organizzativo del TFJM$^2$ viene parzialmente rinnovato. I volontari del comitato organizzatore dell'anno in corso ricevono borse TFJM$^2$.
-> 
-> Il comitato organizzativo di Louis per l'anno 2020 era composto da volontari $b_1 \ge 4$ numerati $L_1, L_2, L_3, \cdots, L_{b_1}$. Tra questi volontari c'era anche Anais, che è il numero $L_1$. Il comitato organizzativo per l'anno 2021 è composto da volontari $b_2 \ge 4$ $A_1, A_2, A_3, \cdots, A_{b_2}$. Tra questi volontari c'è Louis, che è il numero $A_1$. Oltre a Anais e Louis, gli unici membri di entrambi i comitati sono $L_2 = A_{b_2}$ e $A_2 = L_{b_1}$.
-> 
-> Alcuni volontari sono vicini: - Anais ha $b_2$ vicini che sono membri del suo comitato, cioè $A_1, A_2, \ldots, A_{b_2}$. - Louis ha $b_1$ vicini che sono membri del suo comitato, cioè $L_1, L_2, \ldots, L_{b_1}$. - per $2 < i < b_1$, il volontario $L_i$ ha $3$ vicini: $L_{i-1}$, $L_{i+1}$ e Louis. - Per $2 < i < b_2$, il volontario $A_i$ ha $3$ vicini: $A_{i-1}$, $A_{i+1}$ e Anais. - Il volontario $A_2 = L_{b_1}$ ha $4$ vicini: $A_3$, $A_1$, $L_{b_1-1}$ e Louis. - Il volontario $A_{b_2} = L_2$ ha $4$ vicini: $L_3$, $L_1$, $A_{b_2-1}$ e Anais.
-> 
-> Ad esempio, se Louis aveva $b_1=5$ volontari tra cui Anais, e Anais aveva $b_2=4$ volontari tra cui Louis, allora le relazioni sono rappresentate come nella Figura 7.
-> 
-> Quest'anno, il postino ha ricevuto cattive istruzioni e un totale di sacchetti $N$ TFJM$^2$ arrivano agli indirizzi del comitato di Louis secondo la seguente distribuzione: - ogni membro del comitato di Louis, tranne Louis, riceve un pacchetto $1$ fatto di sacchetti $j_1$; - Louis riceve i restanti sacchetti $N - j_1 b_1$.
-> 
-> Vogliono trasmettere le borse al comitato di Anais. Anais desidera che tutti i volontari del suo comitato abbiano esattamente $1$ pacchetto di sacchetti $j_2$ (eccetto lei stessa), e conserverà i rimanenti sacchetti $N - b_2 j_2$ per i partecipanti.
-> 
-> Ogni borsa può essere spostata successivamente tra i volontari vicini, ma ogni mossa comporta un costo di $1$. Quindi il costo totale è il numero totale di volte che una borsa è stata spostata tra due vicini.
-> 
-> La figura 8 illustra un esempio di una scelta di trasferimenti con $j_1=6$, $j_2=7$, $b_1=5$ e $b_2=4$. I numeri delle borse sono inizialmente rappresentati in arancione. Questa scelta di trasferimenti consiste nel effettuare il trasferimento di sacchetti lungo le frecce arancione, poi lungo la freccia blu scuro, e infine nel effettuare il trasferimento di sacchetti lungo le frecce blu chiaro. Il numero di sacchetti spostati ad ogni trasferimento è scritto accanto alla freccia corrispondente. Una volta effettuati i trasferimenti, il numero di borse di ciascun volontario, indicato in blu, è in effetti quello previsto. Il costo totale di tali trasferimenti è $b_1 \times j_1 + N + b_2 \times j_2 = 5\times 6 + 100 + 4\times 7 = 158$.
-> 
-> Louis e Anais, tuttavia, vogliono ridurre al minimo i costi e questa scelta di trasferimenti non sembra essere la migliore. Scriviamo $C_{\min}$ per il minor costo totale possibile scegliendo i trasferimenti effettuati.
-> 
-> **(1) ** Nell'esempio della figura 8, per $N=100$, $b_1=5$, $b_2=4$, $j_1=6$, $j_2=7$, qual è il costo totale minimo possibile $C_{\min}$?
-> 
-> Per il momento, supponiamo che Louis e Anais siano generosi l'uno come l'altro e donino lo stesso numero di sacchetti ai volontari del loro comitato, in modo che $j_1 = j_2 = j$.
-> 
-> **(2) ** Supponiamo in questa domanda che il numero di borse date ai partecipanti sia ogni volta zero, cioè $N \ge 2\max(b_1 j_1, b_2 j_2)$. Per quali valori (s) di $b_1$, $b_2$ e $N$ si può garantire un costo di esattamente $C=N$?
-> 
-> **(3) ** Non supponiamo più che $N \ge 2\max(b_1 j_1, b_2 j_2)$. In termini di $N$, $b_1$, $b_2$ e $j$, quali sono i valori possibili del costo totale $C$?
-> 
-> **(4) ** Infatti, il numero di borse distribuite ai volontari non cambia di anno in anno. Louis aveva quindi dato pacchetti di sacchetti $j_1 = b_2$ a ciascuno dei suoi volontari, e Anais desidera che ciascuno dei suoi volontari abbia sacchetti $j_2 = b_1$. In questo contesto, rivedere la domanda precedente.
-> 
-> Louis e Anais desiderano spendere il meno possibile e avere un bilancio equilibrato, in modo che $C_{\min} = N$ mentre $N \ge 2\max(b_1 j_1, b_2 j_2)$. Per quali valori di $C_{\min}$ è possibile?
-> 
-> L'organizzazione del TFJM crea legami e esistono infatti ulteriori contatti diretti tra i volontari dei due comitati. Per $N \ge 2\max(b_1 j_1, b_2 j_2)$, in termini di $b_1$, $b_2$, $j_1$ e $j_2$, tra quali volontari è più saggio stabilire questi nuovi contatti $k$ in modo che $C_{\min}$ sia il più piccolo possibile? Si può iniziare trattando il caso $k=1$.
-> 
-> **(7) ** Proporre e esplorare altre direzioni di ricerca.
+> Ogni anno, il comitato organizzatore di TFJM $^2$ viene parzialmente rinnovato. I volontari del comitato organizzatore dell'anno corrente ricevono i sacchetti TFJM $^2$.
+>
+> Il comitato organizzatore di Louis per il 2020 era composto da $b_1 \ge 4$ volontari numerati $L_1, L_2, L_3, \cdots, L_{b_1}$. Tra questi volontari c'era Anais, che è il numero $L_1$. Il comitato organizzatore per il 2021 è composto da $b_2 \ge 4$ volontari $A_1, A_2, A_3, \cdots, A_{b_2}$. Tra questi volontari c'è Louis, che è il numero $A_1$. A parte Anais e Louis, gli unici membri appartenenti a entrambi i comitati sono $L_2 = A_{b_2}$ e $A_2 = L_{b_1}$.
+>
+> Certi volontari sono vicini:
+> - Anais ha $b_2$ vicini che sono i membri del suo comitato, vale a dire $A_1, A_2, \ldots, A_{b_2}$.
+> - Louis ha $b_1$ vicini che sono i membri del suo comitato, vale a dire $L_1, L_2, \ldots, L_{b_1}$.
+> - Per $2 < i < b_1$, il volontario $L_i$ ha $3$ vicini: $L_{i-1}$, $L_{i+1}$ e Louis.
+> - Per $2 < i < b_2$, il volontario $A_i$ ha $3$ vicini: $A_{i-1}$, $A_{i+1}$ e Anais.
+> - Il volontario $A_2 = L_{b_1}$ ha $4$ vicini: $A_3$, $A_1$, $L_{b_1-1}$ e Louis.
+> - Il volontario $A_{b_2} = L_2$ ha $4$ vicini: $L_3$, $L_1$, $A_{b_2-1}$ e Anais.
+>
+> Ad esempio, se Louis avesse $b_1=5$ volontari inclusa Anais, e Anais avesse $b_2=4$ volontari incluso Louis, allora le relazioni sono rappresentate come nella Figura 7.
+>
+> Quest'anno, il postino ha ricevuto istruzioni errate e un totale di $N$ sacchetti TFJM $^2$ arrivano agli indirizzi del comitato di Louis secondo la seguente distribuzione:
+> - ogni membro del comitato di Louis, tranne Louis, riceve $1$ pacco composto da $j_1$ sacchetti;
+> - Louis riceve i restanti $N - j_1 b_1$ sacchetti.
+>
+> Vogliono trasmettere i sacchetti al comitato di Anais. Anais desidera che tutti i volontari del suo comitato abbiano ciascuno esattamente $1$ pacco di $j_2$ sacchetti (tranne lei stessa), e conserverà i restanti $N - b_2 j_2$ sacchetti per i partecipanti.
+>
+> Ogni sacchetto può essere spostato successivamente tra volontari vicini, ma ogni spostamento comporta un costo di $1$. Così il costo totale è il numero totale di volte in cui un sacchetto è stato spostato tra due vicini.
+>
+> La Figura 8 illustra un esempio di scelta di trasferimenti con $j_1=6$, $j_2=7$, $b_1=5$ e $b_2=4$. I numeri di sacchetti iniziali sono rappresentati in arancione. Questa scelta di trasferimenti consiste nell'eseguire i trasferimenti di sacchetti lungo le frecce arancioni, poi lungo la freccia blu scuro, e infine effettuare un trasferimento di sacchetti lungo le frecce azzurre. Il numero di sacchetti spostati a ogni trasferimento è scritto accanto alla freccia corrispondente. Una volta effettuati i trasferimenti, il numero di sacchetti di ciascun volontario, indicato in blu, è effettivamente quello atteso. Il costo totale per questi trasferimenti è $b_1 \times j_1 + N + b_2 \times j_2 = 5\times 6 + 100 + 4\times 7 = 158$.
+>
+> Louis e Anais tuttavia vogliono minimizzare i costi e questa scelta di trasferimenti non sembra essere la migliore. Scriviamo $C_{\min}$ per il minimo costo totale possibile scegliendo i trasferimenti di sacchetti effettuati.
+>
+> **1.** Nell'esempio della Figura 8, per $N=100$, $b_1=5$, $b_2=4$, $j_1=6$, $j_2=7$, qual è il minimo costo totale possibile $C_{\min}$?
+>
+> Per il momento, si supponga che Louis e Anais siano altrettanto generosi l'uno con l'altro e diano lo stesso numero di sacchetti $j$ ai volontari dei loro comitati, in modo che $j_1 = j_2 = j$.
+>
+> **2.** Si supponga in questa domanda che il numero di sacchetti dati ai partecipanti sia ogni volta zero, cioè $N \ge 2\max(b_1 j_1, b_2 j_2)$. Per quali valori di $b_1$, $b_2$ e $N$ si può garantire un costo di esattamente $C=N$?
+>
+> **3.** Non si supponga più che $N \ge 2\max(b_1 j_1, b_2 j_2)$. In termini di $N$, $b_1$, $b_2$ e $j$, quali sono i valori possibili del costo totale $C$?
+>
+> **4.** In realtà, il numero di sacchetti distribuiti ai volontari non cambia da un anno all'altro. Louis aveva dunque dato pacchi di $j_1 = b_2$ sacchetti a ciascuno dei suoi volontari, e Anais desidera che ciascuno dei suoi volontari abbia $j_2 = b_1$ sacchetti. Si riprenda la domanda precedente in questo quadro.
+>
+> **5.** Louis e Anais desiderano spendere il meno possibile e avere un bilancio equilibrato, in modo che $C_{\min} = N$ mentre $N \ge 2\max(b_1 j_1, b_2 j_2)$. Per quali valori di $C_{\min}$ è possibile?
+>
+> **6.** L'organizzazione di TFJM $^2$ crea legami e ci sono in realtà $k$ contatti diretti aggiuntivi possibili tra i volontari dei due comitati. Per $N \ge 2\max(b_1 j_1, b_2 j_2)$, in termini di $b_1$, $b_2$, $j_1$ e $j_2$, tra quali volontari è più ragionevole stabilire questi $k$ nuovi contatti in modo che $C_{\min}$ sia il più piccolo possibile? Si può iniziare trattando il caso $k=1$.
+>
+> **7.** Proporre ed esplorare altre direzioni di ricerca.
 
 ![[src_tfjm_2021__q06.png]]
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalita]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_tfjm_2021#q06|src_tfjm_2021__Q06]]
 
 
 
@@ -571,39 +625,47 @@ Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relaz
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco combinatorio frog/lilia d'acqua su un grafico: Antoine protegge un lilia e Benoit ne affonda uno ogni volta (infinitamente); Antoine vince se la rana può raggiungere infinitamente molti lilia sopravvissuti; analizzare chi vince su vari stagni*
+*Gioco combinatorio rana/giglio su un grafo: Antoine protegge un giglio e Benoit ne affonda uno a turno (all’infinito); Antoine vince se la rana può raggiungere infiniti gigli sopravvissuti; analizzare chi vince su vari stagni*
 
-> Viva la rana libera!
-> 
-> Una rana salta da lilia a lilia su un lago infinito. Antoine e Benoit giocano su questo stagno.
-> 
-> Le lampadine sono rappresentate da punti blu; la rana può saltare da una lampadina a un'altra lampadina collegata ad essa da una linea.
-> 
-> Le regole del gioco sono le seguenti. Antoine inizia proteggendo un lampadino. Poi Benoit affonda un lampadino diverso da quello protetto da Antoine. Poi Antoine protegge un secondo lirio che non è già stato affondato, poi Benoit affonda un nuovo lirio che non è uno di quelli protetti da Antoine, e così via.
-> 
-> Antoine e Benoit suonano a loro volta un numero infinito di volte, Antoine durante i turni $1,3,5,\ldots$ e Benoit durante i turni $2,4,6,\ldots$ Una volta che ognuno ha suonato un numero infinito di volte, un numero infinito di pad di lilia sono stati affondati, un numero infinito sono stati protetti, e possono rimanere zero, uno, diversi, o un numero infinito di pad di lilia che non sono stati affondati.
-> 
-> Antoine vince se riesce a mettere la rana su un lampadino non affondato da cui la rana può raggiungere un numero infinito di altri lampadini saltando solo su lampadini vicini che non sono stati affondati. Altrimenti Benoit vince.
-> 
-> Una strategia per un giocatore è una regola che, per ogni configurazione del gioco, associa una mossa al gioco. Diciamo che un giocatore ha una strategia vincente se può, giocando con questa strategia, vincere la partita in qualunque modo il giocatore possa giocare.
-> 
-> Un esempio di gioco è illustrato nella figura 9, dove le lampadine di un stesso colore sono unite da una linea. Su una linea retta completa, Benoit vince questa partita perché, qualunque sia la padella di lilia su cui si colloca la rana, può raggiungere solo un numero finito di padelli di lilia, poiché i padelli di lilia protetti sono tutti isolati.
-> 
-> **(1) ** Determina, in termini di $k$, se Antoine o Benoit hanno una strategia vincente nel lago con le righe $k$ illustrate dalla figura 11. Si può iniziare studiando i casi $k=1$ e $k=2$.
-> 
-> **(2) ** Determina, per ciascuno degli stagni illustrati nella figura 12, se Antoine o Benoit hanno una strategia vincente.
-> 
-> Ora supponiamo che, una volta che Antoine e Benoit hanno suonato un numero infinito di volte, tutti i pad di lilia che non sono stati protetti da Antoine sono affondati. Nell'esempio presentato all'inizio sulla linea retta completa, Antoine ha quindi ancora perso poiché le lamelle protette sono tutte isolate. Rivedere le domande (1) e (2) in questo quadro.
-> 
-> Antoine e Benoit decidono di cambiare le regole del gioco: Antoine non colloca più la rana dopo la partita, ma prima del suo primo giro. Supponiamo che il corrispondente lampadino sia automaticamente protetto. - a) Rivisitare le domande (1) e (2) con questa nuova regola, studiando tutte le posizioni iniziali possibili della rana per ciascun stagno. - (b) Rivedere alla domanda (3) nello stesso modo.
-> 
-> C'è un stagno tale che Antoine abbia una strategia vincente per la regola della domanda (2) ma Benoit abbia una strategia vincente per la regola della domanda (3)? E l'inverso? Più in generale, confrontate tra di loro le regole delle domande (2), (3), (4a) e (4b): per ogni sottoinsieme di queste quattro regole, esiste un stagno tale che Antoine abbia una strategia vincente per ogni regola del sottoinsieme, ma Benoit abbia una strategia vincente per ogni regola?
-> 
-> Invece di giocare a turno, Antoine gioca ora le mosse$A$, poi Benoit gioca le mosse$B$, poi Antoine di nuovo le mosse$A$, e così via. Rivedere le domande (1) e (2) con questa nuova regola per i diversi valori di $A$ e $B$.
-> 
-> **(7) ** Studiare altri stagni e trovare criteri e risultati generali per determinare la persona che ha la strategia vincente.
+> Lunga vita alle rane libere!
+>
+> Una rana salta da un giglio a un altro su uno stagno infinito. Antoine e Benoit giocano su questo stagno.
+>
+> I gigli sono rappresentati da punti blu; la rana può saltare da un giglio a un altro giglio collegato ad esso da una linea.
+>
+> Le regole del gioco sono le seguenti. Antoine inizia proteggendo un giglio. Poi Benoit affonda un giglio diverso da quello protetto da Antoine. Poi Antoine protegge un secondo giglio che non sia già stato affondato, poi Benoit affonda un nuovo giglio che non sia uno di quelli protetti da Antoine, e così via.
+>
+> Antoine e Benoit giocano a turno un numero infinito di volte, Antoine durante i turni $1,3,5,\ldots$ e Benoit durante i turni $2,4,6,\ldots$ Una volta che ciascuno ha giocato un numero infinito di volte, un numero infinito di gigli è stato affondato, un numero infinito è stato protetto, e possono rimanere zero, uno, diversi o un numero infinito di gigli che non sono stati affondati.
+>
+> Antoine vince se può posizionare la rana su un giglio non affondato da cui la rana può raggiungere un numero infinito di altri gigli saltando solo su gigli vicini che non sono stati affondati. Altrimenti Benoit vince.
+>
+> Una strategia per un giocatore è una regola che, per ogni configurazione del gioco, associa un movimento da giocare. Si dice che un giocatore abbia una strategia vincente se può, giocando questa strategia, vincere il gioco qualunque sia il modo in cui l’altro giocatore gioca.
+>
+> Un esempio di gioco è illustrato dalla Figura 9, dove i gigli di uno stesso colore sono uniti da una linea. Su una retta completa, è Benoit a vincere questo gioco perché, qualunque sia il giglio su cui la rana è posizionata, può raggiungere solo un numero finito di gigli, poiché i gigli protetti sono tutti isolati.
+>
+> **1.** Determinare, in funzione di $k$, se Antoine o Benoit ha una strategia vincente nello stagno con $k$ righe illustrato dalla Figura 11. Si può iniziare studiando i casi $k=1$ e $k=2$.
+>
+> **2.** Determinare, per ciascuno degli stagni illustrati nella Figura 12, se Antoine o Benoit ha una strategia vincente.
+>
+> **3.** Ora supponiamo che, una volta che Antoine e Benoit abbiano giocato un numero infinito di volte, tutti i gigli che non sono stati protetti da Antoine siano affondati. Nell’esempio presentato all’inizio sulla retta completa, Antoine ha quindi comunque perso poiché i gigli protetti sono tutti isolati. Si riprendano le domande (1) e (2) in questo quadro.
+>
+> **4.** Antoine e Benoit decidono di cambiare le regole del gioco: Antoine non posiziona più la rana dopo il gioco, ma prima del suo primo turno. Supponiamo che il giglio corrispondente sia automaticamente protetto.
+> - (a) Si riprendano le domande (1) e (2) con questa nuova regola studiando tutte le possibili posizioni iniziali della rana per ogni stagno.
+> - (b) Si riprenda la domanda (3) nello stesso modo.
+>
+> **5.** Esiste uno stagno tale che Antoine abbia una strategia vincente per la regola della domanda (2) ma Benoit abbia una strategia vincente per la regola della domanda (3)? E l’inverso? Più in generale, confrontare tra loro le regole delle domande (2), (3), (4a) e (4b): per ogni sottoinsieme di queste quattro regole, esiste uno stagno tale che Antoine abbia una strategia vincente per ciascuna regola del sottoinsieme, ma Benoit abbia una strategia vincente per ciascuna altra regola?
+>
+> **6.** Invece di giocare a turno, Antoine ora gioca $A$ mosse, poi Benoit gioca $B$ mosse, poi Antoine di nuovo $A$ mosse, e così via. Si riprendano le domande (1) e (2) con questa nuova regola per diversi valori di $A$ e $B$.
+>
+> **7.** Studiare altri stagni e trovare criteri e risultati generali per determinare la persona che ha la strategia vincente.
 
 ![[src_tfjm_2021__q07.png]]
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+[[Quesiti/src_tfjm_2021#q07|src_tfjm_2021__Q07]]
 
 
 
@@ -662,40 +724,46 @@ Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relaz
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rigged reality TV: i partecipanti hanno classifiche di preferenza che determinano le eliminazioni sequenziali; un obiettivo (X,Y) significa che Y vince quando X viene eliminato per primo; determinare quando è realizzabile una lista di obiettivi, con strutture di ciclo*
+*Televisione truccata: le preferenze determinano le eliminazioni sequenziali; un obiettivo (X,Y) significa che Y vince quando X viene eliminato per primo; si chiede quando una lista di obiettivi è realizzabile, con strutture cicliche.*
 
-> - Televisione truccata.
-> 
-> Denis e' il direttore tecnico di un reality show.
-> 
-> Lo spettacolo si svolge come segue: i partecipanti $n \ge 3$ competono in un evento sportivo, e il perdente viene eliminato. Il primo giocatore eliminato sceglie un giocatore che è anche eliminato, che a sua volta sceglie un giocatore da eliminare, e così via finché non rimane solo uno. Quel giocatore viene poi dichiarato vincitore.
-> 
-> Ciò che gli spettatori non sanno è che Denis prepara prima di ogni spettacolo una tabella di preferenze: distribuisce prima dello spettacolo a ogni partecipante un ranking degli altri partecipanti. Quando un partecipante viene eliminato, decide sempre di eliminare il partecipante, tra quelli rimasti, che è classificato più basso nella sua tabella.
-> 
-> Ad esempio, con la tabella delle preferenze illustrata nella Figura 13, se Loulou viene eliminato nell'evento sportivo, allora Fifi viene eliminato dopo, e Riri vince.
-> 
-> La direzione non può prevedere chi perderà l'evento sportivo e chi sarà quindi il primo eliminato.
-> 
-> Il direttore artistico invia quindi a Denis un elenco di obiettivi. Un obiettivo è una coppia $(X,Y)$ di partecipanti. Diciamo che un obiettivo è soddisfatto se il partecipante $Y$ vince lo spettacolo quando il partecipante $X$ è il primo eliminato. Si dice che un obiettivo $(X,Y)$ sia realizzabile se esiste una tabella di preferenze tale che $(X,Y)$ sia un obiettivo soddisfatto.
-> 
-> Denis deve trovare una tabella di preferenze in modo tale da soddisfare tutti gli obiettivi dell'elenco. Se esiste una tabella di preferenze del genere, si dice che l'elenco degli obiettivi sia realizzabile.
-> 
-> Ad esempio, la tabella delle preferenze presentata nella figura 13 soddisfa tutti gli obiettivi dell'elenco degli obiettivi presentati nella figura 14.
-> 
-> **(1) ** Per uno spettacolo composto solo da $n=3$ candidati, quali sono gli obiettivi realizzabili?
-> 
-> Per un dato elenco di obiettivi, diciamo che un insieme di partecipanti $k \ge 2$ forma un ciclo $k$ se i partecipanti possono essere numerati $P_1, P_2, \cdots, P_k$ in modo che l'obiettivo di $P_1$ è $P_2$, quello di $P_2$ è $P_3$, \ldots, e quello di $P_k$ è $P_1$.
-> 
-> **(2) ** Supponiamo che i partecipanti $n$ formino un ciclo $n$ per l'elenco di obiettivi di Denis. L'elenco degli obiettivi è realizzabile?
-> 
-> In questa domanda, Denis dispone di un elenco di obiettivi per i partecipanti e ha il diritto di sommare gli altri partecipanti e di scegliere i loro obiettivi. È sempre possibile per Denis trovare una tabella di preferenze per i partecipanti $n+N$ che realizzi l'elenco degli obiettivi, se Denis può scegliere $N$? E se si limita a $N \le n$? To $N \le 1$? To $N=0$?
-> 
-> **(5) ** Supponiamo che, tra i partecipanti $n=a+b$, $a$ formino un ciclo $a$ e $b$ formino un ciclo $b$ per l'elenco di obiettivi di Denis. L'elenco degli obiettivi è realizzabile? Si può iniziare con il trattamento dei casi $a=2$ e $a=b$.
-> 
-> In quali condizioni è possibile realizzare un elenco arbitrario di obiettivi? Si può iniziare con il trattamento di $a=2$ e $a=b$.
-> 
-> Dopo anni di presentazione dello show, Denis si è ritirato, in modo che la tabella delle preferenze rimanga sempre la stessa. Lo spettacolo è continuato con gli stessi partecipanti per diversi anni, in modo che ogni candidato ha perso l'evento sportivo almeno una volta. Alice, che conosce gli arcani dello show e ha visto tutte le repliche, cerca di dedurre la tabella delle preferenze. In termini di $n$, ci sono tabelle di preferenze che può determinare completamente? Se sì, per quale cosa è possibile?
-> 
-> **(8) ** Proporre e studiare altre direzioni di ricerca.
+> **Televisione truccata.**
+>
+> Denis è il direttore tecnico di un reality show truccato.
+>
+> Lo show si svolge come segue: $n \ge 3$ partecipanti competono in un evento sportivo, e il perdente viene eliminato. Il primo giocatore eliminato sceglie un giocatore che è anch'egli eliminato, il quale a sua volta sceglie un giocatore da eliminare, e così via finché ne resta uno solo. Quel giocatore viene allora dichiarato vincitore.
+>
+> Ciò che gli spettatori non sanno è che Denis prepara prima di ogni show una tabella di preferenze: distribuisce prima dello show a ciascun partecipante una classifica degli altri partecipanti. Quando un partecipante viene eliminato, decide sempre di eliminare il partecipante, tra quelli rimasti, che è classificato più in basso nella sua tabella.
+>
+> Ad esempio, con la tabella di preferenze illustrata nella Figura 13, se Loulou viene eliminato nell'evento sportivo, allora Fifi viene eliminato subito dopo, e Riri vince.
+>
+> La direzione non può prevedere chi perderà l'evento sportivo, e chi di conseguenza sarà il primo eliminato.
+>
+> Il direttore artistico invia quindi a Denis una lista di obiettivi. Un obiettivo è una coppia $(X,Y)$ di partecipanti. Si dice che un obiettivo è soddisfatto se il partecipante $Y$ vince lo show quando il partecipante $X$ è il primo eliminato. Un obiettivo $(X,Y)$ è detto realizzabile se esiste una tabella di preferenze tale che $(X,Y)$ sia un obiettivo soddisfatto.
+>
+> Denis deve trovare una tabella di preferenze tale che tutti gli obiettivi della lista siano soddisfatti. Se esiste una tale tabella di preferenze, allora si dice che la lista di obiettivi è realizzabile.
+>
+> Ad esempio, la tabella di preferenze presentata nella Figura 13 soddisfa tutti gli obiettivi della lista di obiettivi presentata nella Figura 14.
+>
+> **1.** Per uno show composto da soli $n=3$ candidati, quali sono le liste di obiettivi realizzabili?
+>
+> Per una data lista di obiettivi, si dice che un insieme di $k \ge 2$ partecipanti forma un $k$-ciclo se i partecipanti possono essere numerati $P_1, P_2, \cdots, P_k$ in modo che l'obiettivo di $P_1$ sia $P_2$, quello di $P_2$ sia $P_3$, \ldots, e quello di $P_k$ sia $P_1$.
+>
+> **2.** Supponiamo che gli $n$ partecipanti formino un $n$-ciclo per la lista di obiettivi di Denis. La lista di obiettivi è realizzabile?
+>
+> **3.** e **4.** In questa domanda, Denis ha una lista di obiettivi per $n$ partecipanti ed ha il diritto di aggiungere fino a $N$ altri partecipanti e di scegliere i loro obiettivi. È sempre possibile per Denis trovare una tabella di preferenze per gli $n+N$ partecipanti che realizzi la lista di obiettivi, se Denis può scegliere $N$? E se si limita a $N \le n$? A $N \le 1$? A $N=0$?
+>
+> **5.** Supponiamo che, tra gli $n=a+b$ partecipanti, $a$ formino un $a$-ciclo e $b$ formino un $b$-ciclo per la lista di obiettivi di Denis. La lista di obiettivi è realizzabile? Si può iniziare trattando i casi $a=2$ e $a=b$.
+>
+> **6.** In quale condizione una lista arbitraria di obiettivi è realizzabile? Si può iniziare trattando $a=2$ e $a=b$.
+>
+> **7.** Dopo anni di presentazione dello show, Denis è andato in pensione, in modo che la tabella di preferenze resti sempre la stessa. Lo show è continuato con gli stessi partecipanti per diversi anni, in modo che ciascun candidato abbia perso l'evento sportivo almeno una volta. Alice, che conosce gli arcani dello show e ha visto tutte le repliche, cerca di dedurre la tabella di preferenze. In termini di $n$, esistono tabelle di preferenze che lei può determinare completamente? Se sì, per quali è possibile?
+>
+> **8.** Proporre e studiare altre direzioni di ricerca.
 
 ![[src_tfjm_2021__q08.png]]
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_casework|Analisi per casi]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_tfjm_2021#q08|src_tfjm_2021__Q08]]

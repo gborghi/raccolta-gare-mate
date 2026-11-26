@@ -33,13 +33,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sbarazzare i numeri pari da 1 a 2011; contare i restanti e contare quelli scritti solo con i numeri 0 e 1.*
+*Cancella i numeri pari da 1 a 2011; conta quelli rimanenti e conta quelli scritti solo con le cifre 0 e 1.*
 
-> Esmeralda scrisse sulla lavagna la sequenza di tutti gli enti da $1$ a $2011$. Poi ha cancellato tutti i numeri pari della lista.
-> 
-> a) Quanti numeri sono rimasti?
-> 
-> b) Tra i numeri rimanenti, quanti sono stati scritti utilizzando solo i numeri $0$ e $1$?
+> Esmeralda ha scritto sulla lavagna la sequenza di tutti gli interi da $1$ a $2011$. Poi ha cancellato tutti i numeri pari presenti nell'elenco.
+>
+> a) Quante cifre sono rimaste?
+>
+> b) Dei numeri rimanenti, quanti sono stati scritti utilizzando solo le cifre $0$ e $1$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n1_f3#q01|src_obm_2011_n1_f3__Q01]]
 
 
 
@@ -61,9 +68,15 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di piccoli cubetti uguali da aggiungere a un cubo rosso di 2 cm per ottenere un cubo di volume (12/5)^3.*
+*Numero minimo di piccoli cubi uguali da aggiungere a un cubo rosso di 2 cm per ottenere un cubo di volume (12/5)^3.*
 
-> Abbiamo un cubo rosso con bordo $2$ cm. Qual è il numero minimo di piccoli cubetti uguali che dobbiamo unire a quello rosso per ottenere un cubo di volume $\left(\frac{12}{5}\right)^3$ cm$^3$?
+> Abbiamo un cubo rosso con spigolo di $2$ cm. Qual è il numero minimo di cubetti uguali che dobbiamo unire a quello rosso per ottenere un cubo di volume $\left(\frac{12}{5}\right)^3$ cm$^3$?
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f3#q02|src_obm_2011_n1_f3__Q02]]
 
 
 
@@ -93,13 +106,23 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Numeri * "Chapa": tutte le cifre non zeri e la somma dei quadrati di cifre è un quadrato perfetto; trovare il più grande chapa a 2 cifre e se esiste un chapa a 2011 cifre.*
+*Numeri 'Chapa': tutti i digit sono diversi da zero e la somma dei quadrati dei digit è un quadrato perfetto; determina il più grande numero Chapa di due cifre e stabilisci se esiste un numero Chapa di 2011 cifre.*
 
-> Diciamo che un intero positivo è un *chapa* quando è formato solo da numeri non zero e la somma dei quadrati di tutti i suoi numeri è anche un quadrato perfetto. Ad esempio: - il numero $2115522$ è un chapa, dal momento che $2^2 + 1^2 + 1^2 + 5^2 + 5^2 + 2^2 + 2^2 = 8^2$ e tutti i suoi numeri sono non zero (diferenti da zero); - il numero $403$ non è un chapa, perché, anche se $4^2 + 0^2 + 3^2 = 5^2$, uno dei numeri di $403$ è zero (igual a zero); - il numero $12$ non è un chapa, perché $1^2 + 2^2 = 5$ e $5$ non è un quadrato perfetto.
-> 
-> a) Qual è il più grande intero positivo a due cifre che è un chapa?
-> 
-> b) Esiste un numero intero positivo con cifre $2011$ che è un chapa? Giustifica la tua risposta.
+> Diciamo che un numero intero positivo è una *chapa* quando è formato solo da cifre non nulle e la somma dei quadrati di tutte le sue cifre è anch'essa un quadrato perfetto. Ad esempio:
+> - il numero $2115522$ è una chapa, poiché $2^2 + 1^2 + 1^2 + 5^2 + 5^2 + 2^2 + 2^2 = 8^2$ e tutte le sue cifre sono diverse da zero;
+> - il numero $403$ non è una chapa, perché, sebbene $4^2 + 0^2 + 3^2 = 5^2$, uno dei cifre di $403$ è zero (uguale a zero);
+> - Il numero $12$ non è una chapa, perché $1^2 + 2^2 = 5$ e $5$ non sono un quadrato perfetto.
+>
+> a) Qual è il più grande numero intero positivo di due cifre che è una chapa?
+>
+> b) Esiste un numero intero positivo con $2011$ cifre che sia un chapa? Giustifica la tua risposta.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f3#q03|src_obm_2011_n1_f3__Q03]]
 
 
 
@@ -128,15 +151,22 @@ Numeri * "Chapa": tutte le cifre non zeri e la somma dei quadrati di cifre è un
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadro di area 64 con centro O; OA=OC=2, AB=CD=4 e una catena di segmenti perpendicolari; trovare aree di ABCO trapezoide e BCDE quadrilaterale.*
+*Quadrato di area 64 con centro O; OA=OC=2, AB=CD=4 e una catena di segmenti perpendicolari; trovare le aree del trapezio ABCO e del quadrilatero BCDE.*
 
-> Nella figura, $O$ è il centro del quadrato, $OA = OC = 2$, $AB = CD = 4$, $\overline{CD}$ è perpendicolare a $\overline{OC}$, che è perpendicolare a $\overline{OA}$, che è perpendicolare a $\overline{AB}$. La superficie del quadrato è $64$ cm$^2$.
-> 
-> a) Calcolare la superficie del trapezzo $ABCO$.
-> 
-> b) Calcolare l'area del quadrilaterale $BCDE$.
+> Nella figura, $O$ è il centro del quadrato; $OA = OC = 2$, $AB = CD = 4$, $\overline{CD}$ è perpendicolare a $\overline{OC}$, che è perpendicolare a $\overline{OA}$, che è perpendicolare a $\overline{AB}$. L'area del quadrato è $64$ cm$^2$.
+>
+> a) Calcola l'area del trapezio $ABCO$.
+>
+> b) Calcola l'area del quadrilatero $BCDE$.
 
 ![[src_obm_2011_n1_f3__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n1_f3#q04|src_obm_2011_n1_f3__Q04]]
 
 
 
@@ -163,10 +193,17 @@ Numeri * "Chapa": tutte le cifre non zeri e la somma dei quadrati di cifre è un
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Su una tavola 3x3 compila 1 a 9 in modo che delle 8 somme (3 righe, 3 colonne, 2 diagonali) esattamente 3 siano moltipli di 3; e decide se nessuna può essere un moltiplo di 3.*
+*Su una scacchiera 3x3, inserisci i numeri da 1 a 9 in modo che, delle 8 somme (3 righe, 3 colonne, 2 diagonali), esattamente 3 siano multipli di 3; e decidi se nessuna di esse può essere un multiplo di 3.*
 
-> Su una tabella $3 \times 3$ scriviamo i numeri da $1$ a $9$, uno in ogni cella. In questo modo si formano somme $8$ dei tre numeri in ogni riga, in ogni colonna e in ciascuna delle due diagonali, e si contano quanti di queste somme sono moltipli di $3$. Ad esempio, nella tabella laterale è mostrata una tabella in cui ci sono esattamente $3$ somme che sono multipli di $3$ (sono indicate le tre somme che sono multipli di $3$).
-> 
-> a) Completare una tabella in modo che esattamente $3$ delle somme $8$ siano moltipli di $3$.
-> 
-> b) È possibile che nessuna delle somme $8$ sia un multiple di $3$? Ricorda che devi giustificare la tua risposta.
+> Su una scacchiera $3 \times 3$ scriviamo i numeri da $1$ a $9$, uno in ogni cella. In questo modo formiamo $8$ somme, quelle dei tre numeri in ogni riga, in ogni colonna e in ciascuna delle due diagonali, e contiamo quante di queste somme siano multipli di $3$. Ad esempio, nella scacchiera qui accanto è mostrato un tabuleiro in cui ci sono esattamente $3$ somme multiple di $3$ (vengono indicate le tre somme multiple di $3$).
+>
+> a) Completa una tabella in modo che esattamente $3$ delle $8$ somme siano multipli di $3$.
+>
+> b) È possibile che nessuna delle somme $8$ sia un multiplo di $3$? Ricorda che devi giustificare la tua risposta.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f3#q05|src_obm_2011_n1_f3__Q05]]

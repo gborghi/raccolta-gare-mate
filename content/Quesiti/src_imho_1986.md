@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostrare che ab−1 non è un quadrato perfetto per qualche coppia nell'insieme*
+*Mostra che ab-1 non è un quadrato perfetto per qualche coppia nell'insieme*
 
-> Sia $d$ un qualsiasi intero positivo diverso da $2$, $5$ e $13$. Si dimostri che è possibile trovare due interi distinti $a$ e $b$ nell'insieme $\{2, 5, 13, d\}$ tali che $ab - 1$ non sia un quadrato perfetto.
+> Sia $d$ un qualsiasi intero positivo diverso da $2$, $5$ o $13$. Dimostrare che si possono trovare $a$, $b$ distinti nell'insieme $\{2, 5, 13, d\}$ tali che $ab - 1$ non sia un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1986#q01|src_imho_1986__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se una sequenza di rotazioni ritorna alla posizione iniziale, allora il triangolo è equilatero*
+*La sequenza di rotazione che torna all'inizio implica un triangolo equilatero*
 
-> Siano dato un triangolo $A_1 A_2 A_3$ e un punto $P_0$ nel piano. Definiamo $A_s = A_{s-3}$ per ogni $s \ge 4$. Costruiamo un insieme di punti $P_1$, $P_2$, $P_3$, $\ldots$ tali che $P_{k+1}$ sia l'immagine di $P_k$ mediante una rotazione di centro $A_{k+1}$ e angolo $120^\circ$ in senso orario (per ogni $k = 0, 1, 2, \ldots$). Si dimostri che se $P_{1986} = P_0$, allora il triangolo $A_1 A_2 A_3$ è equilatero.
+> Nel piano sono dati un triangolo $A_1 A_2 A_3$ e un punto $P_0$. Definiamo $A_s = A_{s-3}$ per tutti gli $s \ge 4$. Costruiamo un insieme di punti $P_1$, $P_2$, $P_3$, $\ldots$, in modo che $P_{k+1}$ sia l'immagine di $P_k$ mediante una rotazione di centro $A_{k+1}$ e angolo $120^\circ$ in senso orario (per $k = 0, 1, 2, \ldots$). Dimostrare che, se $P_{1986} = P_0$, allora il triangolo $A_1 A_2 A_3$ è equilatero.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1986#q02|src_imho_1986__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Operazione con interi su un pentagono con numero negativo termina*
+*L'operazione intera a pentagono con un numero negativo termina*
 
-> A ciascun vertice di un pentagono regolare viene assegnato un numero intero in modo che la somma dei cinque numeri sia positiva. Se tre vertici consecutivi sono etichettati rispettivamente con i numeri $x$, $y$, $z$ e se il numero assegnato al quarto vertice consecutivo è $y < 0$, allora è consentita l’operazione seguente: i numeri $x$, $y$, $z$ vengono sostituiti rispettivamente con $x + y$, $-y$, $z + y$. Tale operazione viene ripetuta finché almeno uno dei cinque numeri è negativo. Si dimostri che questa procedura termina necessariamente dopo un numero finito di passi.
+> A ciascun vertice di un pentagono regolare viene assegnato un numero intero in modo tale che la somma di tutti e cinque i numeri sia positiva. Se a tre vertici consecutivi vengono assegnati rispettivamente i numeri $x$, $y$, $z$ e $y < 0$, allora è ammessa la seguente operazione: i numeri $x$, $y$, $z$ vengono sostituiti rispettivamente con $x + y$, $-y$, $z + y$. Tale operazione viene eseguita ripetutamente finché almeno uno dei cinque numeri è negativo. Determinare se questa procedura giunga necessariamente a termine dopo un numero finito di passi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_invarianti|method_invarianti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1986#q03|src_imho_1986__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Luogo del vertice X del triangolo che scivola intorno a un n-agono regolare*
+*Luogo geometrico del vertice X di un triangolo che scorre attorno a un poligono regolare a n lati*
 
-> Siano $A$ e $B$ vertici consecutivi di un poligono regolare di $n$ lati ($n \ge 5$) nel piano, con centro in $O$. Un triangolo $XYZ$, congruente a e inizialmente sovrapposto a $OAB$, si muove nel piano in modo tale che i vertici $Y$ e $Z$ descrivano l'intero perimetro del poligono, mentre $X$ rimane sempre all'interno del poligono. Si determini il luogo descritto dal punto $X$.
+> Siano $A$, $B$ vertici adiacenti di un $n$-gono regolare ($n \ge 5$) nel piano, avente centro in $O$. Un triangolo $XYZ$, congruente a $OAB$ e inizialmente coincidente con esso, si muove nel piano in modo tale che $Y$ e $Z$ descrivano ciascuno l'intera frontiera del poligono, mentre $X$ rimane all'interno del poligono. Determinare il luogo geometrico di $X$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1986#q04|src_imho_1986__Q04]]
 
 
 
@@ -134,14 +162,19 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le funzioni definite sui numeri reali nonnegativi che soddisfano l'equazione funzionale*
+*Trovare tutte le funzioni definite sui numeri reali non negativi che soddisfano l'equazione funzionale*
 
-> Determinare tutte le funzioni $f$, definite sui numeri reali non negativi e a valori in numeri reali non negativi, tali che:
+> Trovare tutte le funzioni $f$, definite sui numeri reali non negativi e a valori in numeri reali non negativi, tali che:
 > \begin{itemize}
-> \item[(i)] $f(xf(y))f(y) = f(x+y)$ per ogni $x, y \ge 0$,
-> \item[(ii)] $f(2) = 0$,
-> \item[(iii)] $f(x) \ne 0$ per $0 \le x < 2$.
+> \item[(i)] $f(xf(y))f(y) = f(x+y)$ per tutti gli $x, y \ge 0$, \item[(ii)] $f(2) = 0$, \item[(iii)] $f(x) \ne 0$ per $0 \le x < 2$.
 > \end{itemize}
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1986#q05|src_imho_1986__Q05]]
 
 
 
@@ -164,6 +197,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colorare i punti a coordinate intere in modo che le rette parallele agli assi differiscano al più di 1*
+*Colora i punti a coordinate intere in modo che le rette parallele agli assi differiscano al più di 1*
 
-> Si consideri un insieme finito di punti nel piano, ciascuno con coordinate intere. Si dimostri che è sempre possibile colorare alcuni dei punti dell'insieme di rosso e gli altri di bianco in modo tale che, per ogni retta $L$ parallela a uno degli assi coordinati, la differenza (in valore assoluto) tra il numero di punti bianchi e quello di punti rossi appartenenti a $L$ non sia maggiore di $1$.
+> Si ha a disposizione un insieme finito di punti nel piano, ciascuno con coordinate intere. È sempre possibile colorare di rosso alcuni dei punti dell'insieme e di bianco i restanti in modo che, per ogni retta $L$ parallela a uno dei due assi coordinati, la differenza (in valore assoluto) tra il numero di punti bianchi e il numero di punti rossi su $L$ non sia superiore a $1$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_grafi|Grafi]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1986#q06|src_imho_1986__Q06]]

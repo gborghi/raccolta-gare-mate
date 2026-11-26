@@ -40,11 +40,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*find the one from December 25*
+*Find the one for December 25th*
 
-> By re-analysing divisibility by 3, we get that x1 and y1 must also be divisible by 3, and so the equation can be further simplified by dividing by 9. If we do this, we'll get to the point where the equation comes down to the form 3 · 6682005 = x2n + y2n. But again, this equation is only possible if xn and yn are divisible by 3, and so x2 n + y2 n is divisible by 9. But since 3 · 6682005 is not divisible by 9, such an equation has no solutions.
+> Re-examining divisibility by 3, we find that x1 and y1 must also be divisible by 3, and therefore the equation can be simplified again by dividing by 9. Proceeding in this way, we will reach the point where the equation reduces to the form 3 · 6682005 = x2 n + y2 n. But again, this equation is possible only if xn and yn are divisible by 3, and hence x2 n + y2 n is divisible by 9. However, since 3 · 6682005 is not divisible by 9, such an equation has no solutions.
 
-**Answer:** -3 degrees
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_cesenatico_2004#q01|src_cesenatico_2004__Q01]]
 
 
 
@@ -70,13 +75,18 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Location of tangent points of pairs of circumferences between two lines*
+*Locus of the points of tangency of pairs of circles between two lines*
 
 ![[src_cesenatico_2004__prob2.png]]
 
-> 2. Given in the plane two parallel lines r, s and two points P, Q with P ∈r and Q ∈s, are considered pairs of circumferences (CP, CQ), the first tangent a r in P and the second tangent a s in Q, which are also tangents externally to each other, at a point we call T. Determine the location of these T-points by varying all possible pairs of circumferences. Solution: The location sought is the union of the open segment PQ and the part of the circumference of the diameter PQ that lies outside the strip bounded by r and s. Each circumference can be tangent to its respective straight line in two ways: in one case it intersects the strip S between the two lines, in the other it does not intersect it at all. In both cases the centre of circumference (resp. OP, OQ) is located along the perpendicular
+> 2. In the plane, given two parallel lines r and s and two points P and Q, with P ∈ r and Q ∈ s, consider pairs of circles (CP, CQ), the first tangent to r at P and the second tangent to s at Q, and also externally tangent to each other at a point we call T. Determine the locus of such points T as all possible pairs of circles vary. Solution: The required locus is the union of the open segment PQ and the part of the circle having PQ as diameter that lies outside the strip bounded by r and s. Each circle can be tangent to its respective line in two ways: in one case it intersects the strip S between the two lines; in the other case it does not intersect it at all. In both cases, the center of the circle (resp. OP, OQ) lies along the perpendi
 
-**Answer:** union of the segment PQ and an arc of the circle with diameter PQ
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2004#q02|src_cesenatico_2004__Q02]]
 
 
 
@@ -99,11 +109,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*20052004 and 20042005 are the sum of two positive perfect squares?*
+*Are 20052004 and 20042005 the sum of two positive perfect squares?*
 
-> 3. (a) Determine whether 20052004 is the sum of two positive perfect squares. (b) Determine whether 20042005 is the sum of two positive perfect squares. Solution: (a) 20052004 and sum of two positive perfect squares. Note that 52 = 32 + 42 and that 20052004 = 52m2, where m = 51001 4011002. Multiplying the first ratio by m2 gives 20052004 = (5m) 2 = (3m) 2 + (4m) 2: (b) 20042005 is not the sum of two positive perfect squares. It should be noted first that 20042005 = 32005 6682005 and is divisible by 3. Looking at the rest of the division by 3 of the square of an integer x, you can see that if x is divisible by 3 it's 0, whereas if it's not, and then x is equal to 3k 1, then x2 is equal to 9k2 6.
+> 3. (a) Determine whether 20052004 is the sum of two positive perfect squares. (b) Determine whether 20042005 is the sum of two positive perfect squares. Solution: (a) 20052004 is the sum of two positive perfect squares. Note that 5² = 3² + 4² and that 20052004 = 5²m², where m = 5¹⁰⁰¹ 4011002. Multiplying the first relation by m² gives 20052004 = (5m)² = (3m)² + (4m)². (b) 20042005 is not the sum of two positive perfect squares. First, note that 20042005 = 3²⁰⁰⁵ 668²⁰⁰⁵ is divisible by 3. Checking the remainder upon division by 3 of the square of an integer x, one sees that if x is divisible by 3, the remainder is 0; whereas if x is not divisible by 3, and hence x = 3k ± 1, then x² = 9k² ± 6.
 
-**Answer:** (a) yes, (b) no
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2004#q03|src_cesenatico_2004__Q03]]
 
 
 
@@ -132,11 +146,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*who has a winning strategy*
+*Who has a winning strategy*
 
-> Antonio and Bernardo play the following game: two piles of tokens are given, one with m tokens and the other with n tokens. Each player chooses one of the following moves in turn: • take a token from one of the stacks; • take a token from each of the stacks; • move a token from one stack to another. He loses those who can't move. Let's start with Antonio. Determine, depending on m and n, whether one of the two players has a winning strategy and, if so, specify which player it is.
+> Antonio and Bernardo play the following game: two piles of tokens are given, one containing m tokens and the other containing n tokens. Each player, in turn, chooses one of the following moves: • take one token from one of the piles; • take one token from each of the piles; • move one token from one pile to the other. The player who can no longer move loses. Antonio goes first. Determine, in terms of m and n, whether one of the two players has a winning strategy, and if so, specify which player it is.
 
-**Answer:** Antonio if at least one of m,n is odd; Bernardo if both are even
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2004#q04|src_cesenatico_2004__Q04]]
 
 
 
@@ -165,11 +183,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real successions broken down in two by partial sums*
+*Statement on real sequences decomposed into two with partial sums*
 
-> Determine whether the following statement is true or false: For each succession x1, x2, x3, ... of real numbers greater than or equal to zero there are two successions a1, a2, a3, ... e b1, b2, b3, ... of real numbers greater than or equal to zero such that • xn = an + bn for each n; • a1 + ... + an ≤n for infinite values of n; • b1 + ... + bn ≤n for infinite values of n, possibly different from the previous ones.
+> Determine whether the following statement is true or false: “For every sequence x1, x2, x3, ... of real numbers greater than or equal to zero, there exist two sequences a1, a2, a3, ... and b1, b2, b3, ... of real numbers greater than or equal to zero such that • xn = an + bn for every n; • a1 + ... + an ≤ n for infinitely many values of n; • b1 + ... + bn ≤ n for infinitely many values of n, possibly different from the preceding ones.”
 
-**Answer:** true
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_cesenatico_2004#q05|src_cesenatico_2004__Q05]]
 
 
 
@@ -249,7 +272,7 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*to show that xyz = x+y+z+2*
+*Prove that xyz = x + y + z + 2*
 
 ![[src_cesenatico_2004__prob6.png]]
 
@@ -279,6 +302,14 @@ level: nazionale
 \end{document}
 ```
 
-> Let P be an interior point in an ABC triangle. The AP, BP and CP lines intersect the sides of ABC in A′, B′ and C′ respectively. By placing x = AP PA′, y = BP PB′, z = CP PC′, prove that xyz = x + y + z + 2.         A B C P C′ A′ E B′ D G F
+> Let P be a point inside triangle ABC. The lines AP, BP
+> The lines e, CP intersect the sides of ABC at A′, B′, and C′ respectively. Setting x = AP/PA′, y = BP/PB′, z = CP/PC′, prove that xyz = x + y + z + 2.
+>
+> A B C P C′ A′ E B′ D G F
 
-**Answer:** identity proved
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2004#q06|src_cesenatico_2004__Q06]]

@@ -38,17 +38,20 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equal journeys for two sand-carrying lorries*
+*Equal trips for two trucks hauling the sand*
 
-> A pile of sand can be transported in 4 journeys by loading up to one bus or, alternatively, in 12 journeys by loading up to another smaller one. If we can use both trucks at full load, and we want both to make the same number of trips, how many trips will each truck have to make to carry all the sand?
+> A pile of sand can be hauled in 4 trips by loading one truck to capacity or, alternatively, in 12 trips by loading another, smaller truck to capacity. If we can use both trucks fully loaded, and we want both to make the same number of trips, how many trips must each truck make to haul all the sand?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
-> - **(E)** The data is insufficient.
+> - **(E)** the data are insufficient.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2001_2livello#q01|src_archimede_2001_2livello__Q01]]
 
 
 
@@ -79,9 +82,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n turns to measure the circuit by error <30 m*
+*Minimum n of laps to measure the circuit with error <30 m*
 
-> You want to measure the length of an automobile circuit using a car that has the initially zero meter and that only measures kilometers and not hundreds of meters. What is the minimum such that, by looking only at how much the meter marks at the end of the eighth lap, the rider can know the length of the circuit with an error of less than 30 metres?
+> The length of a motor racing circuit is to be measured using a car whose odometer is initially zeroed and which measures only kilometres and not hundreds of metres. What is the minimum n such that, looking only at what the odometer shows at the end of the n-th lap, the driver can know the length of the circuit with an error of less than 30 metres?
 >
 > - **(A)** 0 < n ≤10
 > - **(B)** 10 < n ≤20
@@ -89,7 +92,10 @@ level: 2 livello
 > - **(D)** 30 < n ≤40
 > - **(E)** 40 < n ≤50.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2001_2livello#q02|src_archimede_2001_2livello__Q02]]
 
 
 
@@ -122,19 +128,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the grey region in the triangle isosceles rectangle*
+*Area of the grey region in the isosceles right triangle*
 
-![[src_archimede_2001_2livello__prob3.png]]
-
-> In the side-drawn isosceles rectangle, each side was divided into five equal parts. Determine the area of the region highlighted in gray with the knowledge that each catheter is 50 cm long.
+> In the isosceles right triangle drawn in the figure, each side has been divided into five equal parts. Find the area of the region highlighted in grey, given that each leg is 50 cm long.
 >
-> - **(A)** 9 cm2
-> - **(B)** 50 cm2
-> - **(C)** 90 cm2
-> - **(D)** 18 √ 26 cm2
-> - **(E)** None of the previous ones.
+> - **(A)** 9 cm²
+> - **(B)** 50 cm²
+> - **(C)** 90 cm²
+> - **(D)** 18 √ 26 cm²
+> - **(E)** none of the above.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_2livello#q03|src_archimede_2001_2livello__Q03]]
 
 
 
@@ -164,17 +172,19 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of areas between hexagons P3 and P1 inscribed*
+*Area ratio of hexagons P3 and P1*
 
-> Let P1 be a regular hexagon. P2 is the new hexagon obtained by joining the midpoints of the consecutive sides of P1. In the same way, a new hexagon P3 is obtained by starting from P2. What is the ratio of the area of P3 to that of P1?
+> Let P1 be a regular hexagon. Let P2 be the new hexagon obtained by joining the midpoints of consecutive sides of P1. Proceed in the same way from P2, obtaining a new hexagon P3. What is the ratio of the area of P3 to that of P1?
 >
 > - **(A)** 1 4
 > - **(B)** 7 16
 > - **(C)** 9 16
 > - **(D)** 3 4
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_archimede_2001_2livello#q04|src_archimede_2001_2livello__Q04]]
 
 
 
@@ -205,17 +215,20 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Identify the names of the three boys from the statements*
+*The three boys' names from their statements*
 
-> Three boys say, respectively: Our names are Andrea, Bruno, Carlo; Our names are Andrea, Carlo, Daniel; Our names are Bruno, Daniel, Enrico. Knowing that each of them said one wrong name and two right ones, what are the names of the three?
+> Three boys say, respectively: "Our names are Andrea, Bruno, Carlo"; "Our names are Andrea, Carlo, Daniele"; "Our names are Bruno, Daniele, Enrico". Given that each of them stated one wrong name and two correct ones, what are the three called?
 >
-> - **(A)** Andrew, Charles and Henry
-> - **(B)** Andrea, Bruno and Daniel
-> - **(C)** I'm not going to lie to you.
-> - **(D)** Bruno, Carlo and Daniel
-> - **(E)** The data is insufficient to answer.
+> - **(A)** Andrea, Carlo, Enrico
+> - **(B)** Andrea, Bruno, Daniele
+> - **(C)** Bruno, Daniele, Enrico
+> - **(D)** Bruno, Carlo, Daniele
+> - **(E)** the data are insufficient to answer.
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2001_2livello#q05|src_archimede_2001_2livello__Q05]]
 
 
 
@@ -245,9 +258,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the sum of A+B+C+D with AC×BC=DDD*
+*Sum A+B+C+D with AC×BC=DDD*
 
-> If A, B, C, D are distinct digits and, using the usual decimal writing, you have AC × BC = DDD, what is the sum A + B + C + D?
+> If A, B, C, D represent distinct digits and, using the usual decimal notation, AC × BC = DDD, what is the value of the sum A + B + C + D?
 >
 > - **(A)** 9
 > - **(B)** 13
@@ -255,7 +268,10 @@ This is the sum of A+B+C+D with AC×BC=DDD*
 > - **(D)** 19
 > - **(E)** 21.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2001_2livello#q06|src_archimede_2001_2livello__Q06]]
 
 
 
@@ -285,17 +301,20 @@ This is the sum of A+B+C+D with AC×BC=DDD*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Location of points with distance from B twice that from A*
+*Locus of points twice as far from B as from A*
 
-> A and B are two points in space. The sum of the points in space whose distance from B is twice that from A is
+> Let A and B be two points in space. The set of points in space whose distance from B is twice that from A is
 >
-> - **(A)** A plan
-> - **(B)** a circumference
+> - **(A)** a plane
+> - **(B)** a circle
 > - **(C)** a spherical surface
 > - **(D)** the lateral surface of a cone
 > - **(E)** the lateral surface of a cylinder.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+[[Quesiti/src_archimede_2001_2livello#q07|src_archimede_2001_2livello__Q07]]
 
 
 
@@ -326,9 +345,9 @@ This is the sum of A+B+C+D with AC×BC=DDD*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Probability that Lorenzo is healthy given the positive test*
+*Probability that Lorenzo is healthy given a positive test*
 
-> In one country, one percent of the population suffers from a disease. The test to find out if you're infected is wrong in 1 percent of cases. Lorenzo is tested and found to be ill. What are the odds that he's healthy?
+> In a country, one percent of the population is affected by a certain disease. The test to find out whether one is infected is wrong in one percent of cases. Lorenzo takes the test and is found to be ill. What is the probability that he is healthy?
 >
 > - **(A)** 99 10000
 > - **(B)** 1 100
@@ -336,7 +355,10 @@ Probability that Lorenzo is healthy given the positive test*
 > - **(D)** 1 2
 > - **(E)** 99 100.
 
-**Answer:** D
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2001_2livello#q08|src_archimede_2001_2livello__Q08]]
 
 
 
@@ -367,9 +389,11 @@ Probability that Lorenzo is healthy given the positive test*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sufficient condition because x^y > y^x*
+*A sufficient condition for x^y > y^x*
 
-> They're x, y are positive real numbers. Which of the following conditions is sufficient to ensure that xy > yx?
+> Let x and y be positive real numbers.
+> Which of the following conditions is sufficient to guarantee that
+> xy > yx?
 >
 > - **(A)** 1 < x < y
 > - **(B)** 1 < y < x
@@ -377,7 +401,10 @@ Probability that Lorenzo is healthy given the positive test*
 > - **(D)** x < y < 1
 > - **(E)** y < x < 1.
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+[[Quesiti/src_archimede_2001_2livello#q09|src_archimede_2001_2livello__Q09]]
 
 
 
@@ -409,17 +436,20 @@ Probability that Lorenzo is healthy given the positive test*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of white ball extraction at second extraction*
+*Probability of drawing a white ball on the second draw*
 
-> One box contains three white balls and two black balls. Mark extracts a ball and puts it back in the box by adding another ball of the same color. At this point he extracts a new ball from the box. What is the probability that the latter is white?
+> A box contains 3 white balls and 2 black balls. Marco draws a ball and puts it back into the box, adding another ball of the same colour. He then draws a new ball from the box. What is the probability that this last ball is white?
 >
 > - **(A)** 1 2
 > - **(B)** 7 12
 > - **(C)** 3 5
 > - **(D)** 2 3
-> - **(E)** None of the previous ones. Problems with a numerical answer  8 points
+> - **(E)** none of the above. Numerical-answer problems – 8 points
 
-**Answer:** C
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2001_2livello#q10|src_archimede_2001_2livello__Q10]]
 
 
 
@@ -445,11 +475,15 @@ Probability that Lorenzo is healthy given the positive test*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate of volume of regular tetrahedron and ABPQ tetrahedron*
+*Ratio of the volume of a regular tetrahedron to the volume of tetrahedron ABPQ*
 
-> In a regular tetrahedron of vertices A, B, C, D, we use P and Q to indicate the centers of the two faces that have the AB joint. What is the ratio of the volume of the initial tetrahedron to that of the tetrahedron whose vertices are points A, B, P and Q?
+> In a regular tetrahedron with vertices A, B, C, D, let P and Q be the centres of the two faces that share the edge AB. What is the ratio of the volume of the initial tetrahedron to that of the tetrahedron with vertices A, B, P and Q?
 
-**Answer:** 9
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_2livello#q11|src_archimede_2001_2livello__Q11]]
 
 
 
@@ -473,11 +507,15 @@ Probability that Lorenzo is healthy given the positive test*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n>200 sum of 5, 6 and 7 consecutive integers*
+*Smallest n>200 that is the sum of 5, 6 and 7 consecutive integers*
 
-> Both the smallest positive integer > 200 that can be written as either the sum of 5 consecutive integers or as the sum of 6 consecutive integers and 7 consecutive integers. How much is n?
+> Let n be the smallest positive integer > 200 that can be written both as the sum of 5 consecutive integers
+> and as the sum of 6 consecutive integers and of 7 consecutive integers. What is the value of n?
 
-**Answer:** 315
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2001_2livello#q12|src_archimede_2001_2livello__Q12]]
 
 
 
@@ -503,11 +541,15 @@ Probability that Lorenzo is healthy given the positive test*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the BEF triangle with two outer equilaters to the square*
+*Area of triangle BEF with two equilateral triangles external to the square*
 
-> Consider an ABCD square of 16 meters side. On two consecutive sides AB and BC, the two equilateral triangles ABE and BCF are constructed externally relative to the square. What is the area of the BEF triangle expressed in square metres?
+> Consider a square ABCD with side 16 metres. On two consecutive sides AB and BC, construct, externally to the square, the two equilateral triangles ABE and BCF. What is the area of triangle BEF, expressed in square metres?
 
-**Answer:** 64
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_2livello#q13|src_archimede_2001_2livello__Q13]]
 
 
 
@@ -530,11 +572,13 @@ Probability that Lorenzo is healthy given the positive test*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum slings of a dice per sum ≥48 with prob >50%*
+*Minimum number of dice rolls for a sum ≥48 with probability >50%*
 
-> What is the minimum number of throws of a 6-sided dice to be made to have a probability greater than 50% that the sum of all scores obtained is greater than or equal to 48?
+> What is the minimum number of rolls of a 6-sided die that must be performed to have a probability greater than 50% that the sum of all the scores obtained is greater than or equal to 48?
 
-**Answer:** 14
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+[[Quesiti/src_archimede_2001_2livello#q14|src_archimede_2001_2livello__Q14]]
 
 
 
@@ -560,9 +604,13 @@ Probability that Lorenzo is healthy given the positive test*
 
 *Algebraic sum of the coefficients of a polynomial*
 
-> What is the algebraic sum of the coefficients of the polynomial (x21 + 4x2 −3)2001 −(x21 + 4x2 + 3)667 + x21 + 4x2?
+> What is the algebraic sum of the coefficients of the polynomial
+> (x21 + 4x2 −3)2001 −(x21 + 4x2 + 3)667 + x21 + 4x2?
 
-**Answer:** 5
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2001_2livello#q15|src_archimede_2001_2livello__Q15]]
 
 
 
@@ -590,9 +638,19 @@ Probability that Lorenzo is healthy given the positive test*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Demonstrate that the HMK triangle is equilateral (angle 60°)*
+*Prove that triangle HMK is equilateral (60° angle)*
 
-> Whether ABC is a triangle such that the angle of ACB = 60°. Both M the midpoint of the side AB and H and K are the feet of heights starting from B and A respectively. Prove that the HMK triangle is equilateral.
+> PROOF EXERCISE
+> Let ABC be a triangle such that the angle
+> d
+> ACB = 60°. Let M be the midpoint of side AB and let H and K be the feet of the altitudes from B and A respectively.
+> Prove that triangle HMK is equilateral.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_2livello#q16|src_archimede_2001_2livello__Q16]]
 
 
 
@@ -618,8 +676,14 @@ Probability that Lorenzo is healthy given the positive test*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*All whole solutions of a3+b3=91*
+*All integer solutions of a³+b³=91*
 
-> Demonstratory Exercise Determine all solutions (a, b) with a, b integers relative to the equation a3 + b3 = 91.
+> PROOF EXERCISE
+> Determine all solutions (a, b), with a, b integers, of the equation
+> a3 + b3 = 91.
 
-**Answer:** (6,-5),(-5,6),(3,4),(4,3)
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2001_2livello#q17|src_archimede_2001_2livello__Q17]]

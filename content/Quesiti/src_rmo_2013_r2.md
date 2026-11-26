@@ -30,9 +30,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Non ci sono soluzioni interi per (x^5-1)/(x-1)=y^2+1*
+*Non esistono soluzioni intere per (x^5-1)/(x-1)=y^2+1*
 
-> Provare che non esistono numeri naturali $x$ e $y$, con $x > 1$, in modo tale che $$\frac{x^5 - 1}{x - 1} = y^2 + 1.$$
+> Dimostrare che non esistono numeri naturali $x$ e $y$, con $x > 1$, tali che
+> $$\frac{x^5 - 1}{x - 1} = y^2 + 1.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2013_r2#q01|src_rmo_2013_r2__Q01]]
 
 
 
@@ -55,9 +63,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con altitudine, circoncentro e collinearietà tangente*
+*Collinearità di triangolo, altezza, circocentro e retta tangente*
 
-> In un triangolo $ABC$, $AD$ è l'altitudine da $A$ a $BC$ e $H$ è l'ortocentro. Il $K$ deve essere il centro del cerchio che attraversa $D$ e tangente a $BH$ al punto $H$. Provare che $DK$ bisecta $AC$.
+> In un triangolo $ABC$, $AD$ è l'altezza condotta da $A$ a $BC$ e $H$ è l'ortocentro. Sia $K$ il centro della circonferenza passante per $D$ e tangente a $BH$ in $H$. Dimostrare che $DK$ biseca $AC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2013_r2#q02|src_rmo_2013_r2__Q02]]
 
 
 
@@ -82,9 +97,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cambiamenti di segno nel 2013^2+2014^2+...+n^2 per essere uguali a 9999*
+*Cambi di segno in 2013^2+2014^2+...+n^2 per risultare uguali a 9999*
 
-> Considerare l'espressione $$2013^2 + 2014^2 + 2015^2 + \cdots + n^2.$$ Prove che esiste un numero naturale $n > 2013$ per il quale si può cambiare un numero appropriato di segni più a segni meno nell'espressione di cui sopra per rendere l'espressione risultante uguale a $9999$.
+> Si consideri l'espressione
+> $$2013^2 + 2014^2 + 2015^2 + \cdots + n^2.$$
+> Dimostrare che esiste un numero naturale $n > 2013$ tale che, modificando un numero opportuno di segni più in segni meno nell'espressione sopra indicata, si può ottenere un'espressione il cui valore è uguale a $9999$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2013_r2#q03|src_rmo_2013_r2__Q03]]
 
 
 
@@ -107,9 +131,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo di kit con angolo di 90 gradi, proprietà del bisettore angolare*
+*Triangolo del cerchio volante con angolo di 90 gradi, proprietà della bisettrice dell'angolo*
 
-> Il $ABC$ deve essere un triangolo con $\angle A = 90^\circ$ e $AB = AC$. Il punto $D$ e il punto $E$ devono essere punti del segmento $BC$ in modo tale che $BD : DE : EC = 1 : 2 : \sqrt{3}$. Dimostra che $\angle DAE = 45^\circ$.
+> Sia $ABC$ un triangolo con $\angle A = 90^\circ$ e $AB = AC$. Siano $D$ e $E$ dei punti sul segmento $BC$ tali che $BD : DE : EC = 1 : 2 : \sqrt{3}$. Dimostrare che $\angle DAE = 45^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2013_r2#q04|src_rmo_2013_r2__Q04]]
 
 
 
@@ -133,9 +164,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di disuguaglianza del perimetro laterale di un poligono*
+*Disuguaglianza della somma dei perimetri dei lati di un poligono*
 
-> Che $n \ge 3$ sia un numero naturale e che $P$ sia un poligono con lati $n$. Il $a_1, a_2, \ldots, a_n$ è la lunghezza dei lati di $P$ e il $p$ è il suo perimetro. Provare che $$\frac{a_1}{p - a_1} + \frac{a_2}{p - a_2} + \cdots + \frac{a_n}{p - a_n} < 2.$$
+> Sia $n \ge 3$ un numero naturale e sia $P$ un poligono con $n$ lati. Siano $a_1, a_2, \ldots, a_n$ le lunghezze dei lati di $P$ e sia $p$ il suo perimetro. Dimostrare che
+> $$\frac{a_1}{p - a_1} + \frac{a_2}{p - a_2} + \cdots + \frac{a_n}{p - a_n} < 2.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2013_r2#q05|src_rmo_2013_r2__Q05]]
 
 
 
@@ -158,6 +197,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Posizioni di bilanci ponderate contando le disuguaglianze T(100)>T(99)*
+*Posizionamenti delle bilance a bracci, disuguaglianza nel conteggio T(100)>T(99)*
 
-> $n \ge 3$ sia un numero naturale, $T(n)$ indichi il numero di modi in cui possiamo posizionare $n$ oggetti di pesi $1, 2, \ldots, n$ su un equilibrio in modo tale che la somma dei pesi in ogni pannello sia uguale. Prove che $T(100) > T(99)$.
+> Sia $n \ge 3$ un numero naturale; sia $T(n)$ il numero di modi in cui possiamo disporre $n$ oggetti di pesi $1, 2, \ldots, n$ su una bilancia in modo che la somma dei pesi su ciascun piatto sia uguale. Dimostrare che $T(100) > T(99)$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2013_r2#q06|src_rmo_2013_r2__Q06]]

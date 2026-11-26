@@ -39,13 +39,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which vowel remains in box 2*
+*Which vowel remains in box 2?*
 
 ![[src_kangourou_2008_junior_marzo__prob1.png]]
 
-> There are 5 frames (numbered 1 to 5), each containing some vowels as shown in the figure. By appropriately removing some vowels from some boxes, it is possible to make sure that each box contains only one vowel, and that different boxes contain different vowels. What's the vowel left in box number two? A) A B) E C) I D) O E) U
+> There are 5 boxes (numbered from 1 to 5), each containing some vowels as shown in the figure. By appropriately removing some vowels from some of the boxes, it is possible to ensure that each box ends up containing only one vowel and that different boxes contain different vowels. Which vowel remains in box number 2?
+> A) A
+> B) E
+> C) I
+> D) O
+> E) U
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q01|src_kangourou_2008_junior_marzo__Q01]]
 
 
 
@@ -77,11 +86,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First year with total children > parent*
+*First year in which the total age of the children > the father's age*
 
-> The first of March is an important day for the Rossi family: the father and his three children all celebrate their birthdays. On March 1, 2008, the father turned 30 years old and the sum of the ages of the three children was 15 years. On 1 March of which year will the sum of the ages of the three children exceed the father's age for the first time? (Suppose a person's age is always rounded down to an integer.) A) 2013 B) 2014 C) 2015 D) 2016 E) 2017
+> March 1st is an important day for the Rossi family: the father and his three children all celebrate a birthday. On March 1st, 2008, the father turned 30, and the sum of the ages of the three children was 15 years. On March 1st of which year will the sum of the ages of the three children first exceed the father's age? (Assume that a person's age is always rounded down to the nearest whole number.)
+> A) 2013    
+> B) 2014   
+> C) 2015    
+> D) 2016        E) 2017
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q02|src_kangourou_2008_junior_marzo__Q02]]
 
 
 
@@ -108,13 +125,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Writing in the reverse mirror*
+*Text seen in an inverted mirror*
 
 ![[src_kangourou_2008_junior_marzo__prob3.png]]
 
-> To celebrate the arrival of the New Year, Alfredo wore a T-shirt with the writing on the front. He then stood in front of a mirror, upside down on his hands with his feet up. His friend Nicholas stands beside him, standing (on his feet) and looking in the mirror. What writing does Nicholas see in the mirror?
+> To celebrate the arrival of the new year, Alfredo put on a T-shirt with writing on the front. He then stood in front of a mirror, balancing on his hands with his head down and his feet up in the air. His friend Nicola is beside him, standing (on his own feet) and looking at the mirror. What inscription does Nicola see in the mirror?
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q03|src_kangourou_2008_junior_marzo__Q03]]
 
 
 
@@ -175,49 +196,30 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many among A..E are different from 6*
+*How many of A..E are different from 6?*
 
 > The numbers A, B, C, D, E are defined as follows
-> A = 2−(−4),    B = (−2)(−3),    C = 2−8,    D = 0−(−6)   and    E = (−12):(−2)
-> How many of them are different from 6 ?
+> A = 2−(−4), B = (−2)(−3), C = 2−8, D = 0−(−6), and E = (−12):(−2). How many of them are different from 6?
 > A) 0
 > B) 1
 > C) 2
 > D) 4
 > E) 5
-> I
-> E
-> I
-> U
-> E
-> I
-> E
-> U
-> O
-> A
-> E
-> I
-> O
-> U
-> 1
-> 2
-> 3
-> 4
-> 5
+> I E I U E I E U O A E I O U 1 2 3 4 5
 > A)
 > B)
 > C)
 > D)
 > E)
-> Testi_08.qxp  9-03-2008  14:56  Page 22
-> 
-> Pag. 
-> Pag. 23
-> 23
-> Kang 2008
-> Kang 2008
+> Testi_08.qxp 9-03-2008 14:56 Page 22
+>
+> Pag. Pag. 23 23 Kang 2008 Kang 2008
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q04|src_kangourou_2008_junior_marzo__Q04]]
 
 
 
@@ -263,7 +265,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the AB segment (Pitagora)*
+*Length of segment AB (Pythagoras)*
 
 ![[src_kangourou_2008_junior_marzo__prob5.png]]
 
@@ -281,9 +283,20 @@ level: kangourou
 \end{document}
 ```
 
-> The four squares in the figure all have side 1. What 's the length of the AB segment ? (a) 5 (b) (c) (d) (e) None of the above.
+> The four squares in the figure all have a side length of 1. What is the
+> Length of segment AB?
+> A) 5
+> B) 
+> C) 
+> D)  
+> E) None of the above.
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q05|src_kangourou_2008_junior_marzo__Q05]]
 
 
 
@@ -311,7 +324,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum letters to remove for alphabetical order*
+*Minimum number of letters to remove in alphabetical order*
 
 > What is the minimum number of letters of the word KANGOUROU that must be removed so that the remaining letters are in alphabetical order?
 > A) 1
@@ -320,7 +333,11 @@ level: kangourou
 > D) 4
 > E) 5
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q06|src_kangourou_2008_junior_marzo__Q06]]
 
 
 
@@ -354,13 +371,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Digit corresponding to K in OK+KO=WOW*
+*The digit corresponding to K in OK+KO=WOW*
 
 ![[src_kangourou_2008_junior_marzo__prob7.png]]
 
-> In the box, each letter is represented by one and only one digit and vice versa, each digit in play is represented by one and only one letter. What is the number corresponding to the letter K? A) 0 B) 1 C) 2 D) 8 E) 9
+> In the box, each letter corresponds to exactly one.
+> digit, and conversely, each digit in play is represented by exactly one letter. What digit corresponds to the letter K?
+> A) 0
+> B) 1
+> C) 2
+> D) 8
+> E) 9
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q07|src_kangourou_2008_junior_marzo__Q07]]
 
 
 
@@ -390,11 +418,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial rectangular perimeter (sizes Tom/Jerry)*
+*Perimeter of the initial rectangle (Tom/Jerry cuts)*
 
-> Tom and Jerry each have a rectangle. The two rectangles are the same. Everyone cuts their own. Tom gets two rectangles each with a perimeter of 40 cm, Jerry gets two rectangles each with a perimeter of 50 cm. What was the perimeter of the initial rectangles? A) 40 cm B) 50 cm C) 60 cm D) 80 cm         E) 100 cm
+> Tom and Jerry each have a rectangle. The two rectangles are identical. Each of them cuts their own rectangle. Tom ends up with two rectangles, each with a perimeter of 40 cm; Jerry ends up with two rectangles, each with a perimeter of 50 cm. What was the perimeter of the initial rectangles?
+> A) 40 cm
+> B) 50 cm
+> C) 60 cm
+> D) 80 cm E) 100 cm
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q08|src_kangourou_2008_junior_marzo__Q08]]
 
 
 
@@ -424,13 +460,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which are not planar developments of the cut cube*
+*Which are not planar developments of the cut cube?*
 
 ![[src_kangourou_2008_junior_marzo__prob9.png]]
 
-> A face of a cube is cut along its two diagonals. Which of the following is not a development plan of such a cube? A) 1 and 3 B) 1 and 5 C) 3 and 4 D) 3 and 5         E) 2 e 4
+> One face of a cube is cut along its two diagonals. Which of the following are not net diagrams of this cube?
+> A) 1 e 3
+> B) 1 e 5
+> C) 3 e 4
+> D) 3 e 5         E) 2 e 4
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q09|src_kangourou_2008_junior_marzo__Q09]]
 
 
 
@@ -482,11 +526,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many more tests per average 4/5*
+*How many more tests for an average of 4/5?*
 
-> In my classroom, math tests are made up of five questions. In the first test I took, I only answered one of the five questions correctly. If from now on I prepare very well so that I can always answer every question correctly, how many tests do I have to take to get an average of four out of five correct answers? A) 2 B) 3 C) 4 D) 5 E) 6 √5 √5 + √2 √13 B A O K + K O = ------ W O W 1 2 3 4 5 Texts_08.qxp 9-03-2008 14:56 Page 23
+> In my class, math tests consist of five questions. On the first test I took, I answered only one of the five questions correctly. If from now on I prepare very well so that I can always answer each question correctly, how many more tests do I need to take to achieve an average of four correct answers out of five?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
+> √5 √5 + √2 √13 B A O K + K O = -----W O W 1 2 3 4 5 Testi_08.qxp 9-03-2008 14:56 Page 23
+>
+> Page Page 24 24 Kang 2008 Kang 2008 Questions 11 to 20 are each worth 4 points.
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q10|src_kangourou_2008_junior_marzo__Q10]]
 
 
 
@@ -515,11 +571,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Sum of age of three older cousins
+*Summa and the three older cousins*
 
-> Seven cousins were born on the same day, but in seven consecutive years. Adding the ages of the three youngest today, we get 42. What is the sum of the present ages of the three oldest? A) 51 B) 54 C) 57 D) 60 E) 63
+> Seven cousins were born on the same day, but in seven consecutive years. If we add up the ages of the three youngest today, we get 42. What is the sum of the current ages of the three oldest?
+> A) 51
+> B) 54
+> C) 57
+> D) 60
+> E) 63
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q11|src_kangourou_2008_junior_marzo__Q11]]
 
 
 
@@ -553,11 +618,21 @@ Sum of age of three older cousins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of cards from the first wise man (parity)*
+*Sum of the cards in the first trial (equal)*
 
-> A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first wise man, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is even". How much is the sum of the numbers shown on the cards the first wise man read? A) 10 B) 12 C) 6 D) 9 E) 15
+> A box contains seven cards numbered from 1 to 7. Two sages draw cards at random from the box: the first draws three, and the second draws two from the remaining ones; the last two stay in the box. After looking only at the numbers written on the cards he drew, the first sage says to the second: "I am certain that the sum of the numbers on your cards is even." What is the value of the sum of the numbers on the cards drawn by the first sage?
+> A) 10
+> B) 12
+> C) 6
+> D) 9
+> E) 15
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q12|src_kangourou_2008_junior_marzo__Q12]]
 
 
 
@@ -587,11 +662,21 @@ Sum of age of three older cousins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of addends for sum 100*
+*Minimum number of addends for a sum of 100*
 
-> You only have the numbers 3, 8, 13, 18, 23, 28, 33, 48, 53, 68. What is the minimum number of them whose sum is exactly 100? A) 5 B) 3 C) 4 D) 6 E) It is impossible to obtain 100
+> You only have the numbers 3, 8, 13, 18, 23, 28, 33, 48, 53, 68 available. What is the minimum number of these numbers whose sum is exactly 100?
+> A) 5
+> B) 3
+> C) 4            
+> D) 6
+> E) It is impossible to get 100
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q13|src_kangourou_2008_junior_marzo__Q13]]
 
 
 
@@ -620,11 +705,20 @@ Sum of age of three older cousins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many digits 9 in product 99×n*
+*How many 9s are there in the product 99*n?*
 
-> Let n be the whole number 999...999, where only the digit 9 appears for 2008 times. How many times does the digit 9 appear in product 99 n? A) 2007 B) 2006 C) 2008 D) 2 E) 1
+> Let n be the integer 999…999, in which the digit “9” appears exactly 2008 times. How many times does the digit “9” appear in the product 99 n?
+> A) 2007  
+> B) 2006     
+> C) 2008  
+> D) 2   
+> E) 1
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q14|src_kangourou_2008_junior_marzo__Q14]]
 
 
 
@@ -657,13 +751,23 @@ Sum of age of three older cousins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*HG length (parallel chords in a circle)*
+*HG length (parallel cords on the circumference)*
 
 ![[src_kangourou_2008_junior_marzo__prob15.png]]
 
-> Look at the figure. The ABCD rectangle intersects the circle at points E, F, G, H. In meters, AE's length is 4, EF's length is 5, and DH's length is 3. How much is the length of HG in meters? A) 6 B) 22/3 C) 20/3 D) 8 E) A value different from the previous ones.
+> Observe the figure. Rectangle ABCD intersects the
+> Circumference at points E, F, G, H. In metres, the length of AE is 4, the length of EF is 5, and the length of DH is 3. What is the length of HG, in metres?
+> A) 6 
+> B) 22/3
+> C) 20/3
+> D) 8    
+> E) A value different from the preceding ones.
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q15|src_kangourou_2008_junior_marzo__Q15]]
 
 
 
@@ -692,11 +796,20 @@ Sum of age of three older cousins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of difference in digits of 2-digit numbers*
+*Sum the digits of two-digit numbers*
 
-> For every two-digit number, we subtract the units digit from the tens digit. How much is the sum of all these differences? A) 90 B) 100 C) 55 D) 45 E) 30
+> For each two-digit number, we subtract the units digit from the tens digit. What is the sum of all these differences?
+> A) 90
+> B) 100
+> C) 55
+> D) 45
+> E) 30
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q16|src_kangourou_2008_junior_marzo__Q16]]
 
 
 
@@ -752,44 +865,26 @@ Sum of age of three older cousins
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the shaded part between two regular hexagons*
+*Shaded region between two regular hexagons*
 
 ![[src_kangourou_2008_junior_marzo__prob17.png]]
 
 > The two hexagons shown in the figure are
-> regular and the area of the parallelogram is 1.
-> What is the area of the shaded part?
+> Regular, and the area of the parallelogram is 1. What is the area of the shaded part?
 > A) 
 > B) 
 > C) 
 > D) 
 > E) 12
-> 23
-> 7
-> 12
-> 3
-> 7
-> 17
-> 36
-> 1
-> 2
-> A
-> B
-> C
-> D
-> H
-> E
-> G
-> F
-> Testi_08.qxp  9-03-2008  14:56  Page 24
-> 
-> Pag. 
-> Pag. 25
-> 25
-> Kang 2008
-> Kang 2008
+> 23 7 12 3 7 17 36 1 2 A B C D H E G F Testi_08.qxp 9-03-2008 14:56 Page 24
+>
+> Pag. Pag. 25 25 Kang 2008 Kang 2008
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q17|src_kangourou_2008_junior_marzo__Q17]]
 
 
 
@@ -819,11 +914,20 @@ Sum of age of three older cousins
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum cancellable digits from 2008...2008 sum 2008
+*Maximum cancellable figures from 2008...2008 total 2008*
 
-> The number 20082008...2008 is made up of 1000 digits. I want to delete some of them, so that the sum of the remaining digits is 2008. How many can I erase? A) 260 B) 564 C) 500 D)601 E) 746
+> The number 20082008…2008 consists of 1000 digits. I want to delete some of them in such a way that the sum of the remaining digits is 2008. What is the maximum number I can delete?
+> A) 260
+> B) 564
+> C) 500
+> D)601
+> E) 746
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q18|src_kangourou_2008_junior_marzo__Q18]]
 
 
 
@@ -854,13 +958,22 @@ Maximum cancellable digits from 2008...2008 sum 2008
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PBC angle measurement (chain of angles)*
+*Measure angle PBC (angle chain)*
 
 ![[src_kangourou_2008_junior_marzo__prob19.png]]
 
-> Look at the figure. We know that AB = AC, that PQ is perpendicular to AB, that the BPC angle measures 120 degrees and the ABP angle measures 50 degrees. What is the degree of PBC angle? A) 5 B) 10 C) 15 D) 20 E) 25
+> Observe the figure. It is known that AB = AC, that PQ is perpendicular to AB, that angle BPC measures 120 degrees, and that angle ABP measures 50 degrees. What is the measure, in degrees, of angle PBC?
+> A) 5   
+> B) 10 
+> C) 15      
+> D) 20   
+> E) 25
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q19|src_kangourou_2008_junior_marzo__Q19]]
 
 
 
@@ -893,15 +1006,19 @@ Maximum cancellable digits from 2008...2008 sum 2008
 
 *Real pairs with sum=product=ratio*
 
-> How many (ordered) pairs of real numbers are there such that the sum of the two numbers, the product of the two numbers and the ratio of the first to the second number are all equal to each other?
+> How many (ordered) pairs of real numbers are there such that the sum of the two numbers, the product of the two numbers, and the ratio of the first number to the second number are all equal?
 > A) 0
 > B) 1
 > C) 2
 > D) 4
 > E) 8 
-> Questions from No. 21 to No. 30 are worth 5 points each
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q20|src_kangourou_2008_junior_marzo__Q20]]
 
 
 
@@ -932,11 +1049,21 @@ Maximum cancellable digits from 2008...2008 sum 2008
 <div class="qlang-split" data-lang="en"></div>
 
 
-*6 digit numbers with digit = sum of two previous ones*
+*6-digit numbers where a digit equals the sum of the two preceding digits*
 
-> For an integer of 6 significant digits (in decimal representation), consider the following property: each digit from the third onwards is the sum of the two digits that precede it (count the digits from left to right). How many numbers have this property? A) 3 B) 1 C) 2 D) 4 E) 6
+> For an integer with 6 significant digits (in decimal representation), consider the following property: each digit from the third onward is the sum of the two digits that precede it (count the digits from left to right). How many numbers have this property?
+> A) 3
+> B) 1
+> C) 2
+> D) 4
+> E) 6
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q21|src_kangourou_2008_junior_marzo__Q21]]
 
 
 
@@ -966,16 +1093,21 @@ Maximum cancellable digits from 2008...2008 sum 2008
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Small cubes with at least two faces of different colors*
+*Cubes with at least two faces of different colors*
 
-> A large cube, built by putting together 27 small cubes, has three faces painted red and the other three painted blue. How many of the small cubes have at least two faces painted in different colors?
+> A large cube, constructed by joining 27 small cubes together, has three faces painted red and the other three painted blue. How many of the small cubes have at least two faces painted different colors?
 > A) 13
 > B) 12
 > C) 14
 > D) 16
-> E) It depends on how the colors were assigned to the faces of the large cube.
+> E) It depends on how the colors have been assigned to the faces of the large cube.
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q22|src_kangourou_2008_junior_marzo__Q22]]
 
 
 
@@ -1019,31 +1151,24 @@ Maximum cancellable digits from 2008...2008 sum 2008
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of k from k! factorized*
+*Value of k from k! factored*
 
-> For every positive integer n greater than or equal to 2 we set
-> n ! = 1.2.3. ... .(n-1). n.
-> It is known that for an integer k we have   k ! = 215 . 36 . 53 . 72 . 11 . 13. 
-> What is the value of k?
+> For every positive integer n greater than or equal to 2, we define n! = 1 × 2 × 3 × ... × (n−1) × n. It is known that, for an integer k, k! = 2^15 × 3^6 × 5^3 × 7^2 × 11 × 13. What is the value of k?
 > A) 13
 > B) 14
 > C) 15
 > D) 16
 > E) 17
-> A
-> Q
-> B
-> C
-> P
-> Testi_08.qxp  9-03-2008  14:56  Page 25
-> 
-> Pag. 
-> Pag. 26
-> 26
-> Kang 2008
-> Kang 2008
+> A Q B C P Testi_08.qxp 9-03-2008 14:56 Page 25
+>
+> Pag. Pag. 26 26 Kang 2008 Kang 2008
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q23|src_kangourou_2008_junior_marzo__Q23]]
 
 
 
@@ -1077,21 +1202,24 @@ Maximum cancellable digits from 2008...2008 sum 2008
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of highlighted arc (three tangent circles)*
+*Length of highlighted arc (three mutually tangent circles)*
 
 ![[src_kangourou_2008_junior_marzo__prob24.png]]
 
-> The figure shows three circles
-> tangent externally two by two; the radii are as
-> indicated. How long is the arc of the circle of
-> radius 1 highlighted in bold?
+> In the figure, three circles a are shown
+> Tangent externally at corresponding points; the radii are as indicated. How long is the arc of the circle of radius 1 that is marked in bold?
 > A) 
 > B) 
 > C) 
 > D) 
 > E)
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q24|src_kangourou_2008_junior_marzo__Q24]]
 
 
 
@@ -1128,13 +1256,23 @@ Maximum cancellable digits from 2008...2008 sum 2008
 <div class="qlang-split" data-lang="en"></div>
 
 
-*B+D value on the net of the octahedron*
+*B+D value on the development of the octahedron*
 
 ![[src_kangourou_2008_junior_marzo__prob25.png]]
 
-> The eight equilateral triangles adjacent to each other as shown in the figure form a plane net of a regular octahedron. Each triangle is distinguished by a number or a letter. Each of the five letters indicates one and only one between the numbers 2, 4, 6, 7 and 8 and different letters indicate different numbers, so that the resulting octahedron has this property: when the vertices vary, the sum of the numbers on the four faces that meet at a vertex is always the same. How much is the sum of B+D? A) 6 B) 7 C) 8 D) 9 E) 10
+> The eight equilateral triangles placed side by side as in the figure constitute a planar net of a regular octahedron. Each of the triangles is marked with a number or a letter. Each of the five letters denotes one and only one of the numbers 2, 4, 6, 7, and 8, and different letters denote different numbers, so that the resulting octahedron has the following property: as the vertices vary, the sum of the numbers written on the four faces meeting at a vertex is always the same. What must the value of B+D be?
+> A) 6
+> B) 7
+> C) 8
+> D) 9
+> E) 10
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q25|src_kangourou_2008_junior_marzo__Q25]]
 
 
 
@@ -1164,11 +1302,21 @@ Maximum cancellable digits from 2008...2008 sum 2008
 <div class="qlang-split" data-lang="en"></div>
 
 
-Product of the two divisors of 3^32-1 between 75 and 85
+*The product of the two divisors of 3^32-1 between 75 and 85*
 
-> The number 3^32 - 1 has exactly two divisors (integers) both greater than 75 and less than 85. What is the product of these two divisors? A) 5852 B) 6560 C) 6804 D) 6888 E) 6972
+> The number 332 – 1 has exactly two (integer) divisors, both greater than 75 and less than 85. What is the product of these two divisors?
+> A) 5852
+> B) 6560 
+> C) 6804
+> D) 6888
+> E) 6972
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q26|src_kangourou_2008_junior_marzo__Q26]]
 
 
 
@@ -1232,15 +1380,26 @@ Product of the two divisors of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Figure forming the white spheres (8-pyramid)*
+*What figure do the white spheres form (8-piramid)?*
 
 ![[src_kangourou_2008_junior_marzo__prob27.png]]
 
-> A 3-pyramid is formed by the superposition of the 3 planes of spheres (all equal to each other) shown in the figure. Similarly, for every positive integer n, an n-pyramid can be made. Consider an 8-pyramid and assume that all its outer spheres are painted black and all others are painted white (a sphere is considered external when it is in contact with the regular tetrahedron circumscribed about the pyramid). What shape do the white-painted spheres form? A) A 3-pyramid B) A 4-pyramid C) A 5-pyramid D) A 6-pyramid E) A 7-pyramid 2π 3 3π 2 π 2 5π 3 5π 4 2 3 1 ? A B C 5 D 9 3 E Texts_08.qxp 9-03-2008 14:56 Page 26
-> 
-> Pag. Pag. 27 27 Kang 2008 Kang 2008
+> A 3-pyramid is formed by the
+> Superposition of the 3 "planes" of spheres (all of which are identical to one another) indicated in the figure. Similarly, for every positive integer n, an n-pyramid can be constructed. Consider an 8-pyramid and suppose that all of its outer spheres are painted black and all the others white (a sphere is considered "outer" when it is in contact with the regular tetrahedron circumscribed about the pyramid). What figure do the spheres painted white form?
+> A) A 3-pyramid
+> B) A 4-pyramid
+> C) A 5-pyramid
+> D) A 6-pyramid
+> E) A 7-pyramid
+> 2π 3 3π 2 π 2 5π 3 5π 4 2 3 1 ? A B C 5 D 9 3 E Testi_08.qxp 9-03-2008 14:56 Page 26
+>
+> Page Page 27 27 Kang 2008 Kang 2008
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q27|src_kangourou_2008_junior_marzo__Q27]]
 
 
 
@@ -1280,7 +1439,7 @@ Product of the two divisors of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum diagonals without points in common (4x4)*
+*Maximum number of diagonals with no common points (4x4)*
 
 ![[src_kangourou_2008_junior_marzo__prob28.png]]
 
@@ -1292,9 +1451,19 @@ Product of the two divisors of 3^32-1 between 75 and 85
 \end{document}
 ```
 
-> Look at the figure. A square 4x4 is broken down into 16 squares 1x1. What is the maximum number of diagonals of the individual 1x1 squares that can be drawn, if you want different diagonals to have no points in common (not even the points at the ends)? A) 8 B) 9 C) 10 D) 11 E) 12
+> Observe the figure. A 4x4 square is divided into 16 1x1 squares. What is the maximum number of diagonals of the individual 1x1 squares that can be drawn if we want different diagonals to have no points in common (not even the endpoints)?
+> A) 8
+> B) 9
+> C) 10
+> D) 11
+> E) 12
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q28|src_kangourou_2008_junior_marzo__Q28]]
 
 
 
@@ -1327,11 +1496,21 @@ Product of the two divisors of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many jump sequences 1m/3m by 10m*
+*How many 1m/3m jump sequences per 10m?*
 
-> The kangaroo Kang can only move by jumping and can only jump one meter or three meters. Kang wants to move ten meters straight. How many possible jump sequences allow it to do so? (Consider two different sequences in different order, such as {1,3,3,3} and {3,3,3,1}). A) 28 B) 26 C) 35 D) 55 E) 56
+> Kang the kangaroo can move only by hopping, and can only hop distances of one meter or three meters. Kang wants to travel ten meters in a straight line. How many possible sequences of hops will enable this? (Consider two sequences that are differently ordered as distinct, such as {1,3,3,3} and {3,3,3,1}).
+> A) 28
+> B) 26
+> C) 35
+> D) 55
+> E) 56
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q29|src_kangourou_2008_junior_marzo__Q29]]
 
 
 
@@ -1387,28 +1566,21 @@ Product of the two divisors of 3^32-1 between 75 and 85
 
 ![[src_kangourou_2008_junior_marzo__prob30.png]]
 
-> In the figure, ABCD is a square with side length 1, and the circular arcs are each centered at one of the square's vertices, with endpoints at the adjacent vertices. What is the length of segment PQ?
+> In the figure, ABCD is a square with side length 1 and
+> The circular arcs are each centered at one of the vertices of the square, with their endpoints at the adjacent vertices. How long is segment PQ?
+> A) 
+> B) 
+> C) 
+> D) 
+> E) √3 - 1
+> √3 3 √5 - √2 3 4 2 - √2 A B C D Q P Testi_08.qxp 9-03-2008 14:56 Page 27
 >
-> (A)
-> (B)
-> (C)
-> (D)
-> (E) √3 - 1
-> √3
-> 3
-> √5 - √2
-> 3
-> 4
-> 2 - √2
 >
-> A    B
-> C    D
-> Q    P
-> 
->  
-> 1
-> Kangaroo Mathematics 2008
-> Junior Category
-> For students in second or third year of secondary school
+> 1 Kangourou de Mathématiques 2008 Junior Category For students in the second or third year of upper secondary school
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_junior_marzo#q30|src_kangourou_2008_junior_marzo__Q30]]

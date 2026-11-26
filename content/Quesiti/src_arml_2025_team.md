@@ -20,18 +20,21 @@ level: ARML Team Round
 > Sunny e Moonbeam si trovano ai due estremi di un sentiero rettilineo lungo 1 miglio. Partono nello stesso istante camminando l'una verso l'altro lungo il sentiero. Sunny cammina a 4 miglia orarie e Moonbeam a 3 miglia orarie. Si incontrano nel punto $A$ e proseguono ciascuno nella propria direzione. Nel punto $B$ Sunny torna indietro e comincia a camminare nella stessa direzione di Moonbeam. Arrivano entrambi all'estremità del sentiero nello stesso istante. Calcolare la lunghezza in miglia di $AB$.
 
 **Risposta:** $\frac{2}{21}$
-**Fonte risposta:** [elenco risposte ufficiale](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=3) · [soluzione ufficiale PDF p.4](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=4)
-**Fonte:** [apri PDF p.2](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=2) · arml.com (ARML Competition 2025, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.4
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2025, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sunny and Moonbeam on the trail*
+*Sunny and Moonbeam on the path*
 
-> Sunny and Moonbeam are at the two ends of a straight 1-mile walking trail. They begin walking toward each other along the trail at the same time. Sunny walks at 4 miles per hour, and Moonbeam walks at 3 miles per hour. They meet at point $A$ and continue their respective walks. At point $B$, Sunny turns around and starts walking in the same direction as Moonbeam. They both reach the end of the trail at the same time. Compute the number of miles in $AB$.
+> Sunny and Moonbeam are at the two ends of a straight path 1 mile long. They start at the same instant walking towards each other along the path. Sunny walks at 4 miles per hour and Moonbeam at 3 miles per hour. They meet at point $A$ and each continues in their own direction. At point $B$ Sunny turns back and begins walking in the same direction as Moonbeam. They both arrive at the end of the path at the same instant. Calculate the length in miles of $AB$.
+>
+> **Answer:** $\frac{2}{21}$
+> **Answer source:** official answer list · official solution PDF p.4
 
-**Answer:** $\frac{2}{21}$
+[[Quesiti/src_arml_2025_team#q01|src_arml_2025_team__Q01]]
 
 
 
@@ -47,18 +50,20 @@ level: ARML Team Round
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1000
-**Fonte risposta:** [elenco risposte ufficiale](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=3) · [soluzione ufficiale PDF p.4](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=4)
-**Fonte:** [apri PDF p.2](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=2) · arml.com (ARML Competition 2025, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.4
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2025, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square between two diamonds*
+*Quadrato tra due rombi*
 
-> A square is circumscribed about the graph of $|x| + |y| = 20$ and is inscribed in the graph of $|x| + |y| = 25$. Compute the area of this square.
+> A square is circumscribed about the graph of $|x|+|y|=20$ and is inscribed in the graph of $|x|+|y|=25$. Calculate the area of this square.
 
-**Answer:** 1000
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_arml_2025_team#q02|src_arml_2025_team__Q02]]
 
 
 
@@ -74,8 +79,8 @@ level: ARML Team Round
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0494
-**Fonte risposta:** [elenco risposte ufficiale](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=3) · [soluzione ufficiale PDF p.5](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=5)
-**Fonte:** [apri PDF p.2](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=2) · arml.com (ARML Competition 2025, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.5
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2025, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -83,9 +88,11 @@ level: ARML Team Round
 
 *Tangents and cotangents*
 
-> Suppose that $\triangle ABC$ has $\tan A + \tan B = 2025$ and $\cot A + \cot B = 1976$. Given that $\sqrt{\tan C} = q\sqrt{r}$, where $q$ is a rational number and $r$ is a squarefree integer, compute $r$.
+> Suppose that in triangle $\triangle ABC$ we have $\tan A+\tan B=2025$ and $\cot A+\cot B=1976$. Knowing that $\sqrt{\tan C}=q\sqrt r$, where $q$ is a rational number and $r$ is an integer without square factors, calculate $r$.
 
-**Answer:** 0494
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_arml_2025_team#q03|src_arml_2025_team__Q03]]
 
 
 
@@ -101,18 +108,20 @@ level: ARML Team Round
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0005
-**Fonte risposta:** [elenco risposte ufficiale](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=3) · [soluzione ufficiale PDF p.5](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=5)
-**Fonte:** [apri PDF p.2](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=2) · arml.com (ARML Competition 2025, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.5
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2025, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubics symmetric about a point*
+*Cubic curves symmetric about a point*
 
-> Consider the cubic polynomials $p(x) = x^3 + 7x^2 + 14x + 8$ and $q(x) = ax^3 + bx^2 + cx + d$. Suppose that the graphs of $y = p(x)$ and $y = q(x)$ are symmetric across the point $(4, 5)$. Compute the unique real solution to the equation $q(x) + 130 = 0$.
+> Consider the cubic polynomials $p(x)=x^3+7x^2+14x+8$ and $q(x)=ax^3+bx^2+cx+d$. Suppose that the graphs of $y=p(x)$ and $y=q(x)$ are symmetric about the point $(4,5)$. Find the unique real solution of the equation $q(x)+130=0$.
 
-**Answer:** 0005
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_arml_2025_team#q04|src_arml_2025_team__Q04]]
 
 
 
@@ -126,18 +135,21 @@ level: ARML Team Round
 > Lo sport dello *llama slabber* richiede, per ogni partita, quattro giocatori di una stessa squadra. Per ogni coppia di partite giocate da una squadra in una stagione, le due partite devono avere esattamente due giocatori in comune, e nessuna coppia di giocatori può giocare insieme in più di due partite. Sia $G$ il massimo numero di partite che una squadra può giocare in una stagione e sia $P$ il minimo numero di giocatori di cui una squadra ha bisogno per giocare $G$ partite in una stagione. Calcolare la coppia ordinata $(G,P)$.
 
 **Risposta:** $(7, 7)$
-**Fonte risposta:** [elenco risposte ufficiale](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=3) · [soluzione ufficiale PDF p.6](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=6)
-**Fonte:** [apri PDF p.2](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=2) · arml.com (ARML Competition 2025, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.6
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2025, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Llama slabber*
+*The “llama slabber”*
 
-> The sport of llama slabber requires four players from a team for each game. For any two games that a team plays in a season, they must use exactly two of the same players in both games, and no two players can play together in more than two games. Let $G$ be the maximum number of games that a team can play in a season, and let $P$ be the minimum number of players that a team needs in order to play $G$ games in a season. Compute the ordered pair $(G, P)$.
+> The sport of *llama slabber* requires, for each match, four players from the same team. For every pair of matches played by a team in a season, the two matches must have exactly two players in common, and no pair of players can play together in more than two matches. Let $G$ be the maximum number of matches that a team can play in a season and let $P$ be the minimum number of players that a team needs to play $G$ matches in a season. Compute the ordered pair $(G,P)$.
+>
+> **Answer:** $(7, 7)$
+> **Answer source:** official answer list · official solution PDF p.6
 
-**Answer:** $(7, 7)$
+[[Quesiti/src_arml_2025_team#q05|src_arml_2025_team__Q05]]
 
 
 
@@ -153,8 +165,8 @@ level: ARML Team Round
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** $1+\sqrt{2}+\sqrt{3}$
-**Fonte risposta:** [elenco risposte ufficiale](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=3) · [soluzione ufficiale PDF p.6](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=6)
-**Fonte:** [apri PDF p.2](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=2) · arml.com (ARML Competition 2025, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.6
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2025, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -162,9 +174,11 @@ level: ARML Team Round
 
 *Isosceles triangles*
 
-> Let $\triangle ABC$ be isosceles with $AB = 1$. Suppose that there is exactly one point $C'$ on $\overleftrightarrow{BC}$, distinct from $B$ and $C$, such that $\triangle ABC'$ is also isosceles. Compute the sum of all distinct possible lengths $AC$.
+> Let $\triangle ABC$ be an isosceles triangle with $AB=1$. Suppose that there exists exactly one point $C'$ on the line $\overleftrightarrow{BC}$, distinct from $B$ and $C$, such that $\triangle ABC'$ is also isosceles. Compute the sum of all possible distinct lengths of $AC$.
 
-**Answer:** $1+\sqrt{2}+\sqrt{3}$
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_arml_2025_team#q06|src_arml_2025_team__Q06]]
 
 
 
@@ -180,18 +194,20 @@ level: ARML Team Round
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\frac{329}{2048}$
-**Fonte risposta:** [elenco risposte ufficiale](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=3) · [soluzione ufficiale PDF p.7](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=7)
-**Fonte:** [apri PDF p.2](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=2) · arml.com (ARML Competition 2025, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.7
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2025, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Silas and Marnie's coins*
+*Silas's and Marnie's coins*
 
-> Silas lines up 12 fair coins and flips each of them. Marnie then removes any coin that shows the same face as one or both of its neighbors. Compute the probability that at most one coin remains.
+> Silas lines up 12 fair coins and tosses them all. Marnie then removes every coin showing the same face as at least one of its neighbouring coins. Calculate the probability that at most one coin remains.
 
-**Answer:** $\frac{329}{2048}$
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+[[Quesiti/src_arml_2025_team#q07|src_arml_2025_team__Q07]]
 
 
 
@@ -213,24 +229,26 @@ level: ARML Team Round
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\frac{52}{315}$
-**Fonte risposta:** [elenco risposte ufficiale](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=3) · [soluzione ufficiale PDF p.8](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=8)
-**Fonte:** [apri PDF p.2](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=2) · arml.com (ARML Competition 2025, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.8
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2025, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The unfair die*
+*The loaded die*
 
-> An unfair die has faces labeled 1 through 6 like a standard die, where the face $k$ appears with probability $p_k$. Suppose that:
+> A loaded die has faces numbered 1 to 6 like a normal die; face $k$ comes up with probability $p_k$. Suppose that:
 >
-> - Each of $p_1, p_4, p_5, p_6$ is at least $\frac{1}{7}$, and $p_2 = p_3 = \frac{1}{6}$.
-> - The expected value of a single roll matches that of a fair die.
-> - The expected value of the square of a single roll matches that of a fair die.
+> - each of $p_1,p_4,p_5,p_6$ is at least $\frac17$, and $p_2=p_3=\frac16$;
+> - the expected value of a single throw equals that of a fair die;
+> - the expected value of the square of a single throw equals that of a fair die.
 >
-> Compute the least possible value of $p_1$.
+> Find the minimum possible value of $p_1$.
 
-**Answer:** $\frac{52}{315}$
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+[[Quesiti/src_arml_2025_team#q08|src_arml_2025_team__Q08]]
 
 
 
@@ -253,25 +271,27 @@ level: ARML Team Round
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0083
-**Fonte risposta:** [elenco risposte ufficiale](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=3) · [soluzione ufficiale PDF p.9](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=9)
-**Fonte:** [apri PDF p.2](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=2) · arml.com (ARML Competition 2025, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.9
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2025, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triples of residues*
+*Terne di residui*
 
-> For each prime $p$, let $U_p$ denote the set of ordered triples $(a, b, c) \in \{1, 2, \ldots, p\}^3$ for which
+> For every prime $p$, let $U_p$ be the set of ordered triples $(a,b,c)\in\{1,2,\ldots,p\}^3$ for which
 >
-> - there exists an integer $x$ for which $p$ divides $x^2 - a$,
-> - there exists an integer $y$ for which $p$ divides $y^3 - b$,
-> - there exists an integer $z$ for which $p$ divides $z^5 - c$, and
-> - $p$ divides $a + b + c$.
+> - there exists an integer $x$ such that $p$ divides $x^2-a$,
+> - there exists an integer $y$ such that $p$ divides $y^3-b$,
+> - there exists an integer $z$ such that $p$ divides $z^5-c$, and
+> - $p$ divides $a+b+c$.
 >
-> Compute the least prime $p$ for which $|U_p| > 2025$.
+> Compute the smallest prime $p$ for which $|U_p|>2025$.
 
-**Answer:** 0083
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_arml_2025_team#q09|src_arml_2025_team__Q09]]
 
 
 
@@ -287,15 +307,17 @@ level: ARML Team Round
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** $5\sqrt{11}$
-**Fonte risposta:** [elenco risposte ufficiale](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=3) · [soluzione ufficiale PDF p.9](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=9)
-**Fonte:** [apri PDF p.2](https://arml3.com/wp-content/uploads/2026/03/ARML-2025-Contest.pdf#page=2) · arml.com (ARML Competition 2025, American Regions Mathematics League)
+**Fonte risposta:** elenco risposte ufficiale · soluzione ufficiale PDF p.9
+**Fonte:** apri PDF p.2 · arml.com (ARML Competition 2025, American Regions Mathematics League)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trisectors and circumcircle*
+*Trisettrici e circonferenza circoscritta*
 
-> The trisectors of $\angle A$ in $\triangle ABC$ intersect the circumcircle of the triangle at points $D$ and $E$ so that the points $A$, $B$, $D$, $E$, and $C$ lie on the circumcircle in this order. Given that $AB = 4$, $AD = 16$, and $AC = 14$, compute $BC$.
+> The trisectors of angle $\angle A$ of triangle $\triangle ABC$ intersect the circumscribed circle of the triangle at points $D$ and $E$, so that the points $A$, $B$, $D$, $E$ and $C$ lie on the circle in this order. Given that $AB=4$, $AD=16$ and $AC=14$, calculate $BC$.
 
-**Answer:** $5\sqrt{11}$
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_arml_2025_team#q10|src_arml_2025_team__Q10]]

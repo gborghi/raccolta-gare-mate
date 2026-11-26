@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum area of a quadrilateral of sides 1,4,7,8*
+*Maximum area of a quadrilateral with sides 1, 4, 7, 8*
 
-> The sides of a quadrilateral measure $1, 4, 7, 8$. What can its area be, at most?
+> The sides of a quadrilateral measure $1, 4, 7, 8$. What is the maximum possible area of the quadrilateral?
 
-**Answer:** 18
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_finale#q01|src_kangourou_2018_student_finale__Q01]]
 
 
 
@@ -57,11 +61,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cards are discarded given probability 1/1001 of the 4 aces*
+*How many cards are discarded given the probability of 1/1001 for the four aces*
 
-> From a standard 52-card deck, Chiara discarded some cards, making sure all four aces remained in the remaining deck. Now extract four cards randomly from this reduced deck. If the probability of drawing exactly the four aces is $\frac{1}{1001}$, how many cards did she throw away?
+> From a standard 52-card deck, Chiara discarded some cards, making sure that all four aces remained in the remaining deck. She now draws four cards at random from this reduced deck. If the probability of drawing exactly the four aces is $\frac{1}{1001}$, how many cards did she throw away?
 
-**Answer:** 38
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_student_finale#q02|src_kangourou_2018_student_finale__Q02]]
 
 
 
@@ -85,11 +94,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Show that the solution of x^5+x=10 is irrational
+*Prove that the solution to x^5 + x = 10 is irrational*
 
-> It already considers that the $x^5 + x = 10$ equation admits only one solution (real positive). It shows that such a solution is not a rational number (i.e. it cannot be expressed as a quotient of two integers).
+> Consider the fact that the equation $x^5 + x = 10$ has a unique positive real solution to be already proven. Prove that this solution is not a rational number (that is, it cannot be expressed as the quotient of two integers).
 
-**Answer:** irrational (proof)
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_student_finale#q03|src_kangourou_2018_student_finale__Q03]]
 
 
 
@@ -113,11 +127,16 @@ Show that the solution of x^5+x=10 is irrational
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Demonstrate that a 20-digit number with 11 ones is not a square*
+*Prove that a 20-digit number containing 11 ones is not a perfect square*
 
-> Show that a 20-digit (decimal) integer whose first 11 digits (left) are all $``1"$ cannot be a perfect square.
+> Prove that an integer with 20 decimal digits, all of whose first 11 digits (from the left) are $``1"$, cannot be a perfect square.
 
-**Answer:** not a square (proof)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_student_finale#q04|src_kangourou_2018_student_finale__Q04]]
 
 
 
@@ -141,11 +160,16 @@ Show that the solution of x^5+x=10 is irrational
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Demonstrate the existence of a circle with exactly n lattice points*
+*Prove the existence of a circle with exactly n lattice points*
 
-> Imagine the plane as a square sheet (all with the same side length) boundless in every direction and call **node** each vertex of each square. Prove that for every $n$ there exists a circle containing exactly $n$ nodes inside.
+> Imagine the plane as an unbounded grid of squares (all of the same side length) extending in every direction, and call each vertex of each square a **node**. Prove that for every $n$ there exists a circle containing exactly $n$ nodes inside it.
 
-**Answer:** it always exists (proof)
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_finale#q05|src_kangourou_2018_student_finale__Q05]]
 
 
 
@@ -171,10 +195,15 @@ Show that the solution of x^5+x=10 is irrational
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Characterize convex equilateral rhombic polygons*
+*Characterize convex rhomboid equilateral polygons*
 
 ![[src_kangourou_2018_student_finale__prob6.png]]
 
-> Call **rhombic** every convex equilateral polygon if it is possible to tile it with a finite number of rhombi having the same side as the polygon. Characterize in the most explicit way possible all convex equilateral rhombic polygons.
+> Call a convex equilateral polygon **rhomboidal** if it is possible to tile it with a finite number of rhombi having the same side length as the polygon. Characterize, as explicitly as possible, all rhomboidal convex equilateral polygons.
 
-**Answer:** sides parallel in pairs
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_student_finale#q06|src_kangourou_2018_student_finale__Q06]]

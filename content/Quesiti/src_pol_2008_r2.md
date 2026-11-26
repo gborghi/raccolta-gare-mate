@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza maggiore di una sequenza di numeri interi consecutivi di forma totale x^3+2y^2.*
+*Massima lunghezza di una sequenza di interi consecutivi, ciascuno della forma x^3 + 2y^2*
 
-> Trova la lunghezza più grande possibile di una sequenza di numeri interi consecutivi che sono tutti espressi nella forma $x^3 + 2y^2$ per alcuni numeri interi $x, y$.
+> Trovare la massima lunghezza possibile di una successione di interi consecutivi che siano tutti esprimibili nella forma $x^3 + 2y^2$ per qualche coppia di interi $x, y$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2008_r2#q01|src_pol_2008_r2__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono converso con condizioni di angolo uguale; dimostrare AS perpendicolare a CD dove S è l'intersezione delle diagonali BD e CE.*
+*Pentagono convesso con quattro coppie di angoli uguali: la retta AS è perpendicolare a CD*
 
-> Un pentagono convexo $ABCDE$ è tale che $\angle ABD = \angle ACE$, $\angle ACB = \angle ACD$, $\angle ADC = \angle ADE$ e $\angle ADB = \angle AEC$. Le diagonali $BD$ e $CE$ si intersecano a $S$. Prova che $AS$ è perpendicolare a $CD$.
+> Un pentagono convesso $ABCDE$ è tale che $\angle ABD = \angle ACE$, $\angle ACB = \angle ACD$, $\angle ADC = \angle ADE$ e $\angle ADB = \angle AEC$. Le diagonali $BD$ e $CE$ si intersecano in $S$. Dimostrare che $AS$ è perpendicolare a $CD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2008_r2#q02|src_pol_2008_r2__Q02]]
 
 
 
@@ -79,9 +91,16 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le funzioni f: R->R che soddisfano un'equazione funzionale.*
+*Funzioni reali che soddisfano un'equazione con f(f(x)−y) e f(f(y)−f(−x))*
 
-> Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano $$f(f(x) - y) = f(x) + f(f(y) - f(-x)) + x \quad \text{for all real } x, y.$$
+> Trovare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano
+>
+> $$f(f(x) - y) = f(x) + f(f(y) - f(-x)) + x \quad \text{for all real } x, y.$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali e successioni]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2008_r2#q03|src_pol_2008_r2__Q03]]
 
 
 
@@ -104,9 +123,15 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Su una scheda di n x n di numeri interi che sommano a 0, una mossa riduce un quadrato del suo numero di vicini e aumenta ogni vicino di 1; decidere se qualche n>=2 permette sempre di zerizzare tutte le voci.*
+*Scacchiera n×n di interi di somma 0: una mossa diminuisce una casella del numero dei vicini e aumenta i vicini di 1. Per qualche n si arriva sempre a tutti zeri?*
 
-> In ogni quadrato di una tabella $n \times n$ c'è un intero tale che la somma di tutti gli enti nella tabella è $0$. Una mossa consiste nel scegliere un quadrato e diminuire il numero in esso per il numero di quadrati vicini (al fianco), aumentando al contempo i numeri in ciascuno dei quadrati vicini di $1$. Determina se c'è un $n \ge 2$ per il quale possiamo sempre trasformare tutti i numeri interi in zero in finite mosse.
+> In ogni casella di una scacchiera $n \times n$ c'è un intero, e la somma di tutti gli interi della scacchiera è $0$. Una mossa consiste nello scegliere una casella e diminuire il numero che vi sta del numero delle caselle vicine per un lato, aumentando di $1$ il numero di ciascuna casella vicina. Stabilire se esiste un $n \ge 2$ per cui, qualunque sia la disposizione iniziale, si possono ottenere tutti zeri in un numero finito di mosse.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2008_r2#q04|src_pol_2008_r2__Q04]]
 
 
 
@@ -130,9 +155,17 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC con AC=BC, punto D su AB con AD<DB, E riflessione di A in CD; dimostrare l'identità del rapporto.*
+*Triangolo isoscele, D su AB con AD < DB, E simmetrico di A rispetto a CD: un rapporto di lunghezze*
 
-> In un triangolo $ABC$ con $AC = BC$, il punto $D$ sul lato $AB$ è tale che $AD < DB$ e $E$ siano il riflesso di $A$ in $CD$. Provare che $$\frac{AC}{CD} = \frac{BE}{BD - AD}.$$
+> In un triangolo $ABC$ con $AC = BC$, il punto $D$ sul lato $AB$ è tale che $AD < DB$, e $E$ è il simmetrico di $A$ rispetto a $CD$. Dimostrare che
+>
+> $$\frac{AC}{CD} = \frac{BE}{BD - AD}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2008_r2#q05|src_pol_2008_r2__Q05]]
 
 
 
@@ -155,6 +188,12 @@ level: Olimpiade Polacca Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per n non divisibile per 3, mostrare che c'è un intero positivo m tale che ogni intero >= m è la somma digitali di qualche moltiplo di n.*
+*Se n non è divisibile per 3, da un certo punto in poi ogni intero è la somma delle cifre di un multiplo di n*
 
-> Se $n$ è un intero positivo non divisibile da $3$, indicare che esiste un intero positivo $m$ in modo tale che ogni intero non inferiore a $m$ sia la somma di cifre di qualche multiplo di $n$.
+> Se $n$ è un intero positivo non divisibile per $3$, dimostrare che esiste un intero positivo $m$ tale che ogni intero non minore di $m$ è la somma delle cifre di qualche multiplo di $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2008_r2#q06|src_pol_2008_r2__Q06]]

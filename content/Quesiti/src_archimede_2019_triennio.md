@@ -36,9 +36,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordering the sides from the heights of a triangle*
+*Ordering the sides from the altitudes of a triangle*
 
-> In the DEF triangle, the heights (known, respectively, from the vertices D, E and F) measure, in the order, 84, 80 and 81 meters. Indicating with d, and f, the lengths of the sides EF, FD, DE respectively, which of these inequalities is correct?
+> In triangle DEF, the altitudes (from vertices D, E and F, respectively) measure, in order, 84, 80 and 81 metres. Denoting by d, e, f the lengths, respectively, of the sides EF, FD, DE, which of these inequalities is correct?
 >
 > - **(A)** e < f < d
 > - **(B)** d < f < e
@@ -46,7 +46,10 @@ level: triennio
 > - **(D)** f < e < d
 > - **(E)** e < d < f
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+[[Quesiti/src_archimede_2019_triennio#q01|src_archimede_2019_triennio__Q01]]
 
 
 
@@ -78,9 +81,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Price of sweater if VAT goes from 22% to 25%*
+*Selling price of the sweater if VAT rises from 22% to 25%*
 
-> The sale price of an asset is obtained by increasing the actual amount of a certain percentage, called VAT (a tax, which is then paid to the tax). In a shop, the selling price of a sweater is 61,00 and, including VAT, at 22%. If VAT were to rise to 25%, what would the selling price of the sweater become?
+> The selling price of a good is obtained by increasing the actual amount by a certain percentage, called VAT (a tax, which is then paid to the tax authorities).
+> In a shop, the selling price of a sweater is 61, 00 e, including VAT at 22%. If VAT were to rise to 25%, what would the selling price of the sweater become?
 >
 > - **(A)** 62, 50 e
 > - **(B)** 64, 00 e
@@ -88,7 +92,9 @@ level: triennio
 > - **(D)** 62, 10 e
 > - **(E)** 62, 00 e
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2019_triennio#q02|src_archimede_2019_triennio__Q02]]
 
 
 
@@ -122,9 +128,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of tiles compatible with jumps of 3,4,5,6*
+*Number of tiles compatible with jumps of 3, 4, 5, 6*
 
-> Catherine is jumping along a row of bricks. Starting from the first, with jumps of 3 bricks at a time (i.e., jumps on the 4th, 7th, 10th, and so on), it reaches the last; it turns back and, with jumps of 4 bricks at a time, returns to the first; it turns again and, with jumps of 5 bricks, reaches the last brick again; it turns again and, with jumps of 6 bricks returns again to the first. Which of the following could be the number of bricks in the row?
+> Caterina is jumping along a row of tiles. Starting from the first, with jumps of 3 tiles at a time (that is, she jumps onto the 4th, the 7th, the 10th, and so on), she arrives at the last; she turns back and, with jumps of 4 tiles at a time, returns to the first; she turns again and, with jumps of 5 tiles, arrives once more at the last tile; she turns again and, with jumps of 6 tiles, returns once more to the first. Which of the following could be the number of tiles in the row?
 >
 > - **(A)** 391
 > - **(B)** 271
@@ -132,7 +138,10 @@ level: triennio
 > - **(D)** 270
 > - **(E)** 360
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2019_triennio#q03|src_archimede_2019_triennio__Q03]]
 
 
 
@@ -164,9 +173,12 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two men's currency with two terms of exchange*
+*Coins of two men under two exchange conditions*
 
-> Two men have coins. If the first one takes 3 out of the second, then he'll have as many as the second one would have. But if the second takes 1 from the first, then it's going to have three times as much as the first. How many coins do the two men have in total?
+> Two men have coins.
+> If the first took 3 from the second,
+> then he would have as many as would remain to the second. If, instead, the second took 1 from the first, then he would have three times as many as would remain to the first.
+> How many coins do the two men have in total?
 >
 > - **(A)** 14
 > - **(B)** 18
@@ -174,7 +186,9 @@ level: triennio
 > - **(D)** 13
 > - **(E)** 16
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2019_triennio#q04|src_archimede_2019_triennio__Q04]]
 
 
 
@@ -205,9 +219,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value x+y of the sum of two powers equal to zero*
+*Value of x+y from the sum of two even powers equal to zero*
 
-> The real numbers x and y verify the equality (6x −5y) 4 + (4y −3) 6 = 0. What's the value of x plus y?
+> The real numbers x and y satisfy the equality
+> (6x −5y)4 + (4y −3)6 = 0.
+> What is the value of x + y?
 >
 > - **(A)** 1
 > - **(B)** 10/7
@@ -215,7 +231,10 @@ level: triennio
 > - **(D)** 13/9
 > - **(E)** 11/8
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2019_triennio#q05|src_archimede_2019_triennio__Q05]]
 
 
 
@@ -247,9 +266,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Estimate of product mcm 2160 and odd MCD*
+*Estimate the least common multiple from the product 2160 and an odd greatest common divisor*
 
-> The product of two natural numbers is 2160. Their maximum common divisor is odd and greater than 1. Indicating with m the minimum common multiple of two numbers, we have:
+> The product of two natural numbers is 2160. Their greatest common divisor is odd and greater than 1.
+> Denoting by m the least common multiple of the two numbers, we have:
 >
 > - **(A)** m < 200
 > - **(B)** 200 < m < 400
@@ -257,7 +277,10 @@ level: triennio
 > - **(D)** 600 < m < 800
 > - **(E)** m > 800
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2019_triennio#q06|src_archimede_2019_triennio__Q06]]
 
 
 
@@ -288,9 +311,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sides of regular polygon containing triangle with angle 54*
+*Number of sides of the regular polygon containing a right triangle with a 54° angle*
 
-> The three vertices of a right triangle having an angle of 54° are also vertices of a regular polygon having...
+> The three vertices of a right triangle with an angle of 54° are also vertices of a regular polygon having...
 >
 > - **(A)** 12 sides
 > - **(B)** 25 sides
@@ -298,7 +321,11 @@ level: triennio
 > - **(D)** 24 sides
 > - **(E)** 16 sides
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2019_triennio#q07|src_archimede_2019_triennio__Q07]]
 
 
 
@@ -330,7 +357,8 @@ level: triennio
 
 *Maximum number of right angles in a convex decagon*
 
-> A convex decagon has 10 interior corners. How many of them, at most, can be right?
+> A convex decagon has 10 interior angles.
+> At most how many of them can be right angles?
 >
 > - **(A)** 5
 > - **(B)** 3
@@ -338,7 +366,10 @@ level: triennio
 > - **(D)** 2
 > - **(E)** 6
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+[[Quesiti/src_archimede_2019_triennio#q08|src_archimede_2019_triennio__Q08]]
 
 
 
@@ -367,7 +398,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiple perfect squares of 7 between 1 and 6000*
+*Perfect squares that are multiples of 7 between 1 and 6000*
 
 > How many multiples of 7, between 1 and 6000, are squares of integers?
 >
@@ -377,7 +408,10 @@ level: triennio
 > - **(D)** 11
 > - **(E)** 122
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2019_triennio#q09|src_archimede_2019_triennio__Q09]]
 
 
 
@@ -411,7 +445,8 @@ level: triennio
 
 *Measure DA in a cyclic quadrilateral with a right angle*
 
-> The quadrilateral ABCD is inscribed in a circumference. You know that the angle in A is straight and that AB is 24, BC is 20, CD is 15. What's the size of DA?
+> Quadrilateral ABCD is inscribed in a circle. It is known that the angle at A is right and that AB = 24, BC = 20, CD = 15.
+> What is the measure of DA?
 >
 > - **(A)** 11
 > - **(B)** 27
@@ -419,7 +454,11 @@ level: triennio
 > - **(D)** 19
 > - **(E)** 7
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2019_triennio#q10|src_archimede_2019_triennio__Q10]]
 
 
 
@@ -452,9 +491,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability sum 10 with normal and special dice*
+*Probability of a sum of 10 with a normal die and a special die*
 
-> Mark has two dice. One of the two is a normal dice game, with faces numbered from 1 to 6. The other is a special dice instead, which has two faces with the number 3, one face with the number 4 and three faces with the number 6. So if you put the two dice together, what's the probability that the sum of the two numbers that came out is equal to 10?
+> Marco has two dice.
+> One of the two is a normal game die, with faces numbered from 1 to 6. The other is instead a special die, which has two faces with the number 3, one face with 4 and three faces with 6. Throwing the two dice together, what is the probability that the sum of the two numbers showing is equal to 10?
 >
 > - **(A)** 2/9
 > - **(B)** 1/18
@@ -462,7 +502,10 @@ level: triennio
 > - **(D)** 1/6
 > - **(E)** 1/12
 
-**Answer:** C
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2019_triennio#q11|src_archimede_2019_triennio__Q11]]
 
 
 
@@ -499,9 +542,16 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of KQ in a rectangular trapezoid with similar triangles*
+*Measure KQ in a right trapezoid with similar triangles*
 
-> A PQRS rectangular trapezoid is assigned, with right angles in P and S, where PQ > RS and PS = 2 RS = 62/5. Whether K is the point on the PS side such that PK = 8. Knowing that \ SKR = \ PQR, what will be the size of KQ?
+> A right trapezoid PQRS is given, with right angles at P and S, where
+> PQ > RS
+> and
+> PS = 2 RS = 62/5.
+> Let K be the point on side PS such that PK = 8.
+> Given that \
+> SKR = \
+> PQR, what is the measure of KQ?
 >
 > - **(A)** 17
 > - **(B)** 13
@@ -509,7 +559,11 @@ level: triennio
 > - **(D)** 16
 > - **(E)** 20
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2019_triennio#q12|src_archimede_2019_triennio__Q12]]
 
 
 
@@ -540,9 +594,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sitting modes for 6 people with two couples adjacent*
+*Ways to seat 6 people with two adjacent pairs*
 
-> Romeo, Juliet, Helena, Paris, Achilles, Ulysses are sitting on a bench. Juliet wants to sit next to Romeo and Elena next to Paris. How many ways can the six be arranged from right to left, to satisfy them?
+> Romeo, Giulietta, Elena, Paride, Achille, Ulisse sit on a bench. Giulietta wants to sit next to Romeo and Elena next to Paride. In how many ways
+> can the six be arranged from right to left so as to satisfy her?
 >
 > - **(A)** 720
 > - **(B)** 120
@@ -550,7 +605,11 @@ level: triennio
 > - **(D)** 96
 > - **(E)** 180
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2019_triennio#q13|src_archimede_2019_triennio__Q13]]
 
 
 
@@ -584,9 +643,13 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sets of 2 or 3 conditional hashtags*
+*Sets of 2 or 3 hashtags with a conditional constraint*
 
-> Each post posted on the Instagram page of the Mathematics Olympics must have 2 or 3 hashtags, chosen from among 10 predefined hashtags. Page administrators follow this rule: if a post has the hashtag #ItaMO, there must also be #cese2020(they are two of the 10 hashtags). How many ways can you choose the set of hashtags to include in a post?
+> Every post published on the Instagram page of the Mathematics Olympiads must
+> have 2 or 3 hashtags, chosen from 10 preset hashtags. The page administrators follow
+> this rule: if a post contains the hashtag “#ItaMO”, it must also contain “#cese2020”
+> (these are two of the 10 hashtags). In how many ways can the set of hashtags to be
+> inserted in a post be chosen?
 >
 > - **(A)** 120
 > - **(B)** 93
@@ -594,7 +657,11 @@ level: triennio
 > - **(D)** 90
 > - **(E)** 129
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2019_triennio#q14|src_archimede_2019_triennio__Q14]]
 
 
 
@@ -634,17 +701,22 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of knights around table of 10 with alternate phrases*
+*Number of knights among 10 people with alternating statements*
 
-> Around a table there are 10 people, each of whom can be either a knight or a con man. Whenever a knight speaks, the sentence he pronounces is true; whenever a cunning man speaks, the sentence he pronounces is false. One of them pronounces the following sentence: on my right sits a knight and on my left sits a con man. His right-hand neighbour declares: "To my left sits a knight, and to my right a robber". His right-hand neighbor says, "To my right is a knight seated, and to my left is a thief seated". And so on and so forth, the phrases alternate, until the tenth person, who says: "On my left sits a knight and on my right sits a crook". It can be concluded that, out of the 10 people present, the total number of knights...
+> Around a table there are 10 people, each of whom is either a knight or a knave. Whenever a knight speaks, the sentence is true; whenever a knave speaks, the sentence is false. One of them says: "On my right sits a knight and on my left sits a knave". The person on their right declares: "On my left sits a knight and on my right sits a knave". The person on the right of that one states: "On my right sits a knight and on my left sits a knave". And so on, the statements alternate, until the tenth person, who states: "On my left sits a knight and on my right sits a knave".
+> It can be concluded that, among the 10 people present, the total number of knights...
 >
-> - **(A)** It could be 0, 2, 4, 6, or even 8, but not 10.
-> - **(B)** It could be 0, 2 or 4, but not 6, 8 or 10.
-> - **(C)** It could be 0, 2, 4 or even 6, but not 8 or 10.
-> - **(D)** It could be 2, 4 or 6, but not 0, 8 or 10.
-> - **(E)** It 's definitely five .
+> - **(A)** it is possible that it is 0, 2, 4, 6 or even 8, but not 10
+> - **(B)** it is possible that it is 0, 2 or 4, but not 6, 8 or 10
+> - **(C)** it is possible that it is 0, 2, 4 or even 6, but not 8 or 10
+> - **(D)** it is possible that it is 2, 4 or 6, but not 0, 8 or 10
+> - **(E)** it is certainly 5
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2019_triennio#q15|src_archimede_2019_triennio__Q15]]
 
 
 
@@ -677,11 +749,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A'B'C' triangle perimeter by squares on an equilateral triangle*
+*Perimeter of triangle A′B′C′ from squares on an equilateral triangle*
 
-![[src_archimede_2019_triennio__prob16.png]]
-
-> On the sides of the equilateral triangle ABC, which have a length of 1, three squares are constructed, as shown in the figure. What is the perimeter of the triangle A′B′C′?
+> On the sides of the equilateral triangle ABC, which have length 1, three squares are constructed, as in the figure.
+> What is the perimeter of triangle A′B′C′ ?
 >
 > - **(A)** 3 p 4 + √ 3
 > - **(B)** 6
@@ -689,7 +760,11 @@ level: triennio
 > - **(D)** 3 2 √ 3
 > - **(E)** 3 2 + 3 4 √ 3 A A′ A′′ B B′ B′′ C C′ C′′
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2019_triennio#q16|src_archimede_2019_triennio__Q16]]
 
 
 
@@ -720,9 +795,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of 24 by throwing 4 dice*
+*Probability of product 24 when rolling 4 dice*
 
-> Carla throws, all together, four dice, with faces numbered from 1 to 6. What is the probability that the product of the four numbers is 24?
+> Carla rolls, all together, 4 game dice, with faces numbered from 1 to 6
+> What is the probability that the product of the 4 numbers rolled is 24?
 >
 > - **(A)** 5/162
 > - **(B)** 7/324
@@ -730,7 +806,11 @@ level: triennio
 > - **(D)** 13/324
 > - **(E)** 5/144
 
-**Answer:** D
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2019_triennio#q17|src_archimede_2019_triennio__Q17]]
 
 
 
@@ -767,11 +847,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the rectangle inscribed with the figure to the heart*
+*Area of the rectangle circumscribing the heart-shaped figure*
 
-![[src_archimede_2019_triennio__prob18.png]]
-
-> The administrators of the Instagram page of the Mathematics Olympics realized that the icon corresponding to the i like received is heart-shaped, consisting of a square and two semicircles built on consecutive sides. The figure can be inscribed in a rectangle with the sides parallel to the diagonals of the square, as here next to it. Since the square has a side of 1 cm, how many cm2 does the area of the rectangle measure?
+> The administrators of the Instagram page of the Mathematics Olympiads noticed that the icon corresponding to the received “likes” is heart-shaped, made up of a square and two semicircles constructed on consecutive sides. The figure can be inscribed in a rectangle with sides parallel to the diagonals of the square, as shown here alongside. Knowing that the square has side 1 cm, how many cm2 is the area of the rectangle?
 >
 > - **(A)** 3 √ 2 −2
 > - **(B)** 3+ √ 2 2
@@ -779,7 +857,11 @@ level: triennio
 > - **(D)** 3+2 √ 2 4
 > - **(E)** 5 4 + √ 2
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2019_triennio#q18|src_archimede_2019_triennio__Q18]]
 
 
 
@@ -811,17 +893,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*False claim on holes and protrusions of a puzzle nxn*
+*False statement about holes and protrusions of a square puzzle with n pieces per side*
 
-> Let's consider a square-shaped puzzle, with n pieces on each side. Each piece has 4 sides and on each side there can be either a hole or a protrusion, or it can be flat (when it is on the edge). Which of the following is false?
+> Consider a square puzzle with n pieces along each side. Each piece has 4 sides, and on each side there may be either a hole or a protrusion, or it may be flat (when it lies on the edge). Which of the following statements is false?
 >
-> - **(A)** If the total number of pieces is multiple of 21, then the number of holes must also be multiple of 21.
-> - **(B)** The total number of holes is equal to the number of protrusions.
-> - **(C)** If the total number of pieces is 25 times, the number of holes must also be 25 times.
-> - **(D)** The total number of outbursts is multiple 4.
-> - **(E)** If the total number of pieces is odd, the number of pieces that do not have flat sides must also be odd.
+> - **(A)** if the total number of pieces is a multiple of 21, the number of holes must also be a multiple of 21.
+> - **(B)** the total number of holes is equal to the number of protrusions.
+> - **(C)** if the total number of pieces is a multiple of 25, the number of holes must also be a multiple of 25.
+> - **(D)** the total number of protrusions is a multiple of 4.
+> - **(E)** if the total number of pieces is odd, the number of pieces that have no flat sides must also be odd.
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2019_triennio#q19|src_archimede_2019_triennio__Q19]]
 
 
 
@@ -856,14 +942,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*DFE angle with cyclic FEPO quadrilateral*
+*Measure of angle DFE when quadrilateral FEPO is cyclic*
 
-> Given a DEF triangle, the octahedron in E, is O the center of circumference to it circumscribed. Since P is the point at which the outgoing beam from E intersects the DF side, it is known that the convex quadrilateral FEPO is inscrutable in a circumference. Knowing that \ EDF = 52°, what is the width of the angle \ DFE?
+> Given a triangle DEF, obtuse at E, let O be the center of its circumcircle. Let P be the point at which the angle bisector from E meets side DF; it is known that the convex quadrilateral FEPO can be inscribed in a circle.
+> Given that \
+> EDF = 52°, what is the measure of the angle \
+> DFE?
 >
 > - **(A)** 24°
 > - **(B)** 22°
 > - **(C)** 26°
 > - **(D)** 30°
-> - **(E)** 28° Italian Mathematical Union Olympic Project of Mathematics Ministry of Education, University and Research The Archimedean Games - Triennial Competition 21 November 2019 • The test consists of 20 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). Only one of these answers is correct. • Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded. • For each of the problems, type the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections are not allowed. • Completely list your month of birth, gender, class. Write the other information required in the STANDARD next to the arrows, with the utmost care and precision. The use of calculators or communication tools shall not be permitted. You have 110 minutes. - Good work. Good work. Name → COGNOM → Year of birth → Month of birth GEN FEB MAR APR MAG GIU LUG AGO SEVEN OTT NEW DAY of birth → Gender F M Class 3 4 5 Section → GROUP of the respondents T2 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+> - **(E)** 28°
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2019_triennio#q20|src_archimede_2019_triennio__Q20]]

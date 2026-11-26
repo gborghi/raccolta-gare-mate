@@ -31,11 +31,17 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza aritmetica con due condizioni lineari; trovare il primo termine.*
+*Successione aritmetica con due condizioni lineari; trovare il primo termine.*
 
-> [Test paper A, problema 1] Supponiamo che la sequenza aritmetica $\{a_n\}$ soddisfi $a_{2021}=a_{20}+a_{21}=1$. Quindi il primo termine $a_1$ è ______.
+> [Compito d'esame A, Problema 1] Si supponga che la successione aritmetica $\{a_n\}$ soddisfi $a_{2021}=a_{20}+a_{21}=1$. Allora il primo termine $a_1$ è ______.
 
-**Risposta:** a_1=\dfrac{1981}{4001}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q01|src_cn_cmc-first-round_2021__Q01]]
 
 
 
@@ -61,11 +67,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Set A={1,2,m}, B={a^2}, C=A∪B con la somma 6; trovare il prodotto degli elementi di C.*
+*Sia A={1,2,m}, B={a^2}, C=A∪B con somma 6; trova il prodotto degli elementi di C.*
 
-> [Test paper A, problema 2] Data l'insieme $A=\{1,2,m\}$, $m$ è reale. Il modulo di calcolo deve essere il seguente: Se la somma di tutti gli elementi di $C$ è $6$, il prodotto di tutti gli elementi di $C$ è ______.
+> [Compito d'esame A, Problema 2] Dato l'insieme $A=\{1,2,m\}$, $m$ è reale. Siano $B=\{a^2\mid a\in A\}$, $C=A\cup B$. Se la somma di tutti gli elementi di $C$ è $6$, allora il prodotto di tutti gli elementi di $C$ è ______.
 
-**Risposta:** -8
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q02|src_cn_cmc-first-round_2021__Q02]]
 
 
 
@@ -91,11 +104,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Relazione funzionale f(x)=f(1)x+f(2)/x-1; minimo su (0,∞).*
+*Relazione funzionale f(x)=f(1)x+f(2)/x-1; minimo in (0,∞).*
 
-> [Test Paper A, Problem 3] Supponiamo che la funzione $f(x)$ soddisfi: per qualsiasi numero reale non zero $x$, c'è $$f(x)=f(1)\cdot x+\frac{f(2)}{x}-1.$$ Quindi il minimo di $f(x)$ su $(0,+\infty)$ è ______.
+> [Compito d'esame A, Problema 3] Si supponga che la funzione $f(x)$ soddisfi: per ogni numero reale non nullo $x$, vale $$f(x)=f(1)\cdot x+\frac{f(2)}{x}-1.$$. Allora il minimo di $f(x)$ su $(0,+\infty)$ è ______.
 
-**Risposta:** \sqrt{3}-1
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q03|src_cn_cmc-first-round_2021__Q03]]
 
 
 
@@ -121,11 +141,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*f(x)=cos x+log_2 x con f(a)=f(2a); trovare f(2a)-f(4a).*
+*f(x)=cos x+log_2 x con f(a)=f(2a); trova f(2a)-f(4a).*
 
-> [Test paper A, problema 4] Supponiamo $f(x)=\cos x+\log_2 x\ (x>0)$. Se un numero reale positivo $a$ soddisfa $f(a)=f(2a)$, il valore di $f(2a)-f(4a)$ è ______.
+> [Compito d'esame A, Problema 4] Si supponga $f(x)=\cos x+\log_2 x\ (x>0)$. Se il numero reale positivo $a$ soddisfa $f(a)=f(2a)$, allora il valore di $f(2a)-f(4a)$ è ______.
 
-**Risposta:** -3 \text{ oppure } -1
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_casework|Casework]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q04|src_cn_cmc-first-round_2021__Q04]]
 
 
 
@@ -151,11 +178,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con AB=1, AC=2, B-C=2π/3; area di ricerca.*
+*Triangolo con AB=1, AC=2, B-C=2π/3; trovare l'area.*
 
-> [Test paper A, problema 5] In $\triangle ABC$, $AB=1$, $AC=2$, $B-C=\dfrac{2\pi}{3}$. Quindi la superficie di $\triangle ABC$ è ______.
+> [Compito d'esame A, Esercizio 5] In $\triangle ABC$, $AB=1$, $AC=2$, $B-C=\dfrac{2\pi}{3}$. Allora l'area di $\triangle ABC$ è ______.
 
-**Risposta:** \dfrac{5\sqrt{3}}{14}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q05|src_cn_cmc-first-round_2021__Q05]]
 
 
 
@@ -180,9 +214,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Parabola y^2=2px, la tangente passante per P incontra l'asse y in Q; dati |FP|=2,|FQ|=1 trova OP·OQ.*
+*Parabola y²=2px, la retta tangente in P interseca l'asse y in Q; dati |FP|=2, |FQ|=1, si determini OP·OQ.*
 
-> [Paper di prova A, problema 6] In un sistema di coordinate rettangolare piatto $xOy$, il focus della parabola $\Gamma:y^2=2px\ (p>0)$ è $F$. Fare una linea tangente a $\Gamma$ che attraversa il punto $P$ (diverso da $O$) su $\Gamma$ e che incroci l'asse $y$ al punto $Q$. Se $|FP|=2$, $|FQ|=1$, allora il prodotto di punti dei vettori $\overrightarrow{OP}$ e $\overrightarrow{OQ}$ è ______.
+> [Compito d'esame A, Problema 6] In un sistema di coordinate cartesiane nel piano $xOy$, il fuoco della parabola $\Gamma:y^2=2px\ (p>0)$ è $F$. Si tracci una retta tangente a $\Gamma$ che passi per il punto $P$ (diverso da $O$) appartenente a $\Gamma$; tale retta interseca l'asse $y$ nel punto $Q$. Se $|FP|=2$, $|FQ|=1$, allora il prodotto scalare dei vettori $\overrightarrow{OP}$ e $\overrightarrow{OQ}$ è ______.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q06|src_cn_cmc-first-round_2021__Q06]]
 
 
 
@@ -208,11 +251,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cube die lanciato tre volte; probabilità \a1-a2 del + del a2-a3 del + del a3-a1 del = 6.*
+*Un dado a forma di cubo viene lanciato tre volte; probabilità che |a1-a2|+|a2-a3|+|a3-a1|=6.*
 
-> [Test Paper A, Problem 7] Un dado cubo pari viene lanciato tre volte, e i numeri rivolti verso l'alto sono $a_1,a_2,a_3$ in ordine. Quindi la probabilità di evento $|a_1-a_2|+|a_2-a_3|+|a_3-a_1|=6$ è ______.
+> [Compito d'esame A, Problema 7] Si lancia tre volte un dado cubico equilibrato, e i numeri che compaiono in cima sono, in ordine, $a_1,a_2,a_3$. Allora la probabilità dell'evento $|a_1-a_2|+|a_2-a_3|+|a_3-a_1|=6$ è ______.
 
-**Risposta:** \dfrac{1}{4}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q07|src_cn_cmc-first-round_2021__Q07]]
 
 
 
@@ -237,9 +287,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le frazioni ridotte r=p/q in (0,1) con pq diviso 3600.*
+*Conta le frazioni ridotte r=p/q in (0,1) tali che pq divida 3600.*
 
-> [Test paper A, problema 8] Dato il numero razionale $r=\dfrac{p}{q}\in(0,1)$, $p,q$ sono integri positivi copriemi e $pq$ divide $3600$. Il numero di tali numeri razionali $r$ è ______.
+> [Compito d'esame A, Problema 8] Dato il numero razionale $r=\dfrac{p}{q}\in(0,1)$, $p,q$ sono interi positivi coprimi, e $pq$ divide $3600$. Il numero di tali numeri razionali $r$ è ______.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q08|src_cn_cmc-first-round_2021__Q08]]
 
 
 
@@ -267,9 +326,16 @@ level: China Mathematical Competition (First Round)
 
 *Ricorrenza complessa z_{n+1}=conj(z_n)(1+z_n i), z_1=√3/2; trovare z_2021.*
 
-> [Test Paper A, Problem 9] (16 punti) Lasciate che la sequenza complessa $\{z_n\}$ soddisfi $$z_1=\frac{\sqrt{3}}{2},\quad z_{n+1}=\overline{z_n}(1+z_n\mathrm{i})\quad(n=1,2,\ldots),$$ dove $\mathrm{i}$ è l'unità immaginaria. Trova il valore di $z_{2021}$.
+> [Compito d'esame A, Esercizio 9] (16 punti) Sia $\{z_n\}$ una successione complessa che soddisfa $$z_1=\frac{\sqrt{3}}{2},\quad z_{n+1}=\overline{z_n}(1+z_n\mathrm{i})\quad(n=1,2,\ldots),$$, dove $\mathrm{i}$ è l'unità immaginaria. Determinare il valore di $z_{2021}$.
 
-**Risposta:** z_{2021}=\dfrac{\sqrt{3}}{2}+\left(\dfrac{1}{2}+\dfrac{1}{2^{2^{2020}}}\right)\mathrm{i}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q09|src_cn_cmc-first-round_2021__Q09]]
 
 
 
@@ -294,9 +360,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Grafica y=(x+1)/(DagaxDagax+1) ha tre punti collineari con abcissa sum 0; intervallo di pendenza.*
+*Il grafico di y=(x+1)/(|x|+1) presenta tre punti collineari la cui somma delle ascisse è 0; intervallo di variazione della pendenza.*
 
-> [Test Paper A, Problem 10] (20 punti) Nel sistema di coordinate rettangolari a piano, il grafico della funzione $y=\dfrac{x+1}{|x|+1}$ ha tre punti diversi sulla linea $l$, e la somma delle abscisse di questi tre punti è $0$. Trova l'intervallo dei valori della pendenza di $l$.
+> [Compito d'esame A, Problema 10] (20 punti) Nel sistema di coordinate cartesiane del piano, il grafico della funzione $y=\dfrac{x+1}{|x|+1}$ presenta tre punti distinti che giacciono sulla retta $l$, e la somma delle ascisse di questi tre punti è $0$. Determinare l'insieme dei valori del coefficiente angolare di $l$.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_casework|Casework]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q10|src_cn_cmc-first-round_2021__Q10]]
 
 
 
@@ -324,13 +399,20 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cube edge 2; P1, P2, P3 su incircoli di tre facce; min e max di P1P2 π+ P2P3 π+ P3P1 π.*
+*Spigolo del cubo 2; P1, P2, P3 sugli incircoli di tre facce; minimo e massimo di |P1P2|+|P2P3|+|P3P1|.*
 
-> [Test Paper A, Problem 11] (20 punti) La lunghezza del bordo del cubo $ABCD-EFGH$ è $2$. Prendere qualsiasi punto $P_1$ sull'incircolo di quadrato $ABFE$, prendere qualsiasi punto $P_2$ sull'incircolo di quadrato $BCGF$ e prendere qualsiasi punto $P_3$ sull'incircolo di quadrato $EFGH$. Trova il minimo e il massimo di $|P_1P_2|+|P_2P_3|+|P_3P_1|$.
+> [Esercizio A, Problema 11] (20 punti) Il lato del cubo $ABCD-EFGH$ misura $2$. Si prenda un punto qualsiasi $P_1$ sull'incirconferenza del quadrato $ABFE$, un punto qualsiasi $P_2$ sull'incirconferenza del quadrato $BCGF$ e un punto qualsiasi $P_3$ sull'incirconferenza del quadrato $EFGH$. Si determinino il minimo e il massimo di $|P_1P_2|+|P_2P_3|+|P_3P_1|$.
 
 ![[src_cn_cmc-first-round_2021__q11.png]]
 
-**Risposta:** \text{min } 3\sqrt{2}-3,\ \text{max } 3\sqrt{6}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q11|src_cn_cmc-first-round_2021__Q11]]
 
 
 
@@ -356,11 +438,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A1-1: A={1,2,3}, B e C definiti con 2x+y; somma degli elementi di B∩C.*
+*A1-1: A={1,2,3}, B e C definiti tramite 2x+y; somma degli elementi di B∩C.*
 
-> [Test Paper A1, Problema 1] Supponiamo che $A=\{1,2,3\}$, $B=\{2x+y\mid x,y\in A,\ x<y\}$, $C=\{2x+y\mid x,y\in A,\ x>y\}$. Quindi la somma di tutti gli elementi di $B\cap C$ è ______.
+> [Compito d'esame A1, Problema 1] Si supponga che $A=\{1,2,3\}$, $B=\{2x+y\mid x,y\in A,\ x<y\}$, $C=\{2x+y\mid x,y\in A,\ x>y\}$. Allora la somma di tutti gli elementi di $B\cap C$ è ______.
 
-**Risposta:** 12
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q12|src_cn_cmc-first-round_2021__Q12]]
 
 
 
@@ -388,9 +477,16 @@ level: China Mathematical Competition (First Round)
 
 *A1-2: vettori a=(1+2^m,1-2^m), b=(4^m-3,4^m+5); minimo di a·b.*
 
-> [Test Paper A1, Problema 2] Dato che i vettori $\vec{a}=(1+2^m,1-2^m)$, $\vec{b}=(4^m-3,4^m+5)$, supponiamo che $m$ sia reale. In questo caso il minimo del prodotto dotto $\vec{a}\cdot\vec{b}$ è ______.
+> [Compito d'esame A1, Problema 2] Dati i vettori $\vec{a}=(1+2^m,1-2^m)$, $\vec{b}=(4^m-3,4^m+5)$, si supponga che $m$ sia reale. Allora il minimo del prodotto scalare $\vec{a}\cdot\vec{b}$ è ______.
 
-**Risposta:** -6
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q13|src_cn_cmc-first-round_2021__Q13]]
 
 
 
@@ -416,11 +512,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A1-3: radici di A, B di x^2-10x+6=0; trovare cos C.*
+*A1-3: tan A, tan B sono le radici di x^2-10x+6=0; trova cos C.*
 
-> [Test Paper A1, Problem 3] In $\triangle ABC$, $\tan A$ e $\tan B$ sono le due radici dell'equazione $x^2-10x+6=0$. Il valore di $\cos C$ è quindi ______.
+> [Elaborato d'esame A1, Problema 3] In $\triangle ABC$, $\tan A$ e $\tan B$ sono le due radici dell'equazione $x^2-10x+6=0$. Allora il valore di $\cos C$ è ______.
 
-**Risposta:** \dfrac{\sqrt{5}}{5}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q14|src_cn_cmc-first-round_2021__Q14]]
 
 
 
@@ -446,11 +549,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A1-4: iperbola x^2/a^2 - y^2/b^2=1, linea di inclinazione π/4 attraverso un vertice e (2,3); eccentricità.*
+*A1-4: iperbola x^2/a^2 - y^2/b^2=1, retta di inclinazione π/4 passante per un vertice e per il punto (2,3); eccentricità.*
 
-> [Test Paper A1, Problem 4] Nel sistema di coordinate rettangolari a piano, data l'iperbola $\Gamma:\dfrac{x^2}{a^2}-\dfrac{y^2}{b^2}=1\ (a,b>0)$, una linea con angolo di inclinazione $\dfrac{\pi}{4}$ passa attraverso un vertice di $\Gamma$ e un altro punto $(2,3)$ su di essa. Quindi l'escentricità di $\Gamma$ è ______.
+> [Compito d'esame A1, Problema 4] Nel sistema di coordinate cartesiane del piano, data l'iperbole $\Gamma:\dfrac{x^2}{a^2}-\dfrac{y^2}{b^2}=1\ (a,b>0)$, una retta avente angolo di inclinazione $\dfrac{\pi}{4}$ passa per un vertice di $\Gamma$ e per un altro punto $(2,3)$ appartenente a essa. Allora l'eccentricità di $\Gamma$ è ______.
 
-**Risposta:** 2
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q15|src_cn_cmc-first-round_2021__Q15]]
 
 
 
@@ -476,11 +586,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A1-5: sequenza a_1=1, a_n=1/(4a_{n-1}) +1/n; trovare a_100.*
+*A1-5: successione a_1=1, a_n=1/(4a_{n-1})+1/n; trovare a_100.*
 
-> [Paper di prova A1, problema 5] Lasciate che la sequenza $\{a_n\}$ soddisfi $a_1=1$, $a_n=\dfrac{1}{4a_{n-1}}+\dfrac{1}{n}\ (n\ge 2)$. Quindi il valore di $a_{100}$ è ______.
+> [Compito d'esame A1, Esercizio 5] Sia la successione $\{a_n\}$ tale che $a_1=1$, $a_n=\dfrac{1}{4a_{n-1}}+\dfrac{1}{n}\ (n\ge 2)$. Allora il valore di $a_{100}$ è ______.
 
-**Risposta:** \dfrac{101}{200}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q16|src_cn_cmc-first-round_2021__Q16]]
 
 
 
@@ -506,11 +623,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A1-6: piramide regolare P-ABCD con lato base=altezza, G centroide del viso PBC; seno di angolo tra AG e base.*
+*A1-6: piramide regolare P-ABCD con lato di base uguale all'altezza, G baricentro della faccia PBC; seno dell'angolo tra AG e la base.*
 
-> [Paper di prova A1, problema 6] La lunghezza laterale della base e l'altezza della piramide regolare $P-ABCD$ siano uguali. Il punto $G$ è il centroide del viso $\triangle PBC$. Quindi il seno dell'angolo tra la linea $AG$ e la base $ABCD$ è ______.
+> [Compito d'esame A1, Problema 6] Sia $P-ABCD$ la lunghezza del lato di base e l'altezza di una piramide regolare, e siano uguali tra loro. Il punto $G$ è il baricentro della faccia $\triangle PBC$. Allora il seno dell'angolo tra la retta $AG$ e la base $ABCD$ è ______.
 
-**Risposta:** \dfrac{\sqrt{38}}{19}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q17|src_cn_cmc-first-round_2021__Q17]]
 
 
 
@@ -536,11 +660,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A1-7: conteggi permutazioni di 1.21 con a_i_a_21 con condizione non diminuente.*
+*A1-7: conta le permutazioni di 1..21 con la condizione che |a_i-a_21| sia non decrescente.*
 
-> [Test Paper A1, Problem 7] Si può dire che $a_1,a_2,\ldots,a_{21}$ sia una permutazione di $1,2,\ldots,21$, soddisfacendo $$|a_{20}-a_{21}|\ge|a_{19}-a_{21}|\ge|a_{18}-a_{21}|\ge\cdots\ge|a_1-a_{21}|.$$ Il numero di tali permutazioni è ______.
+> [Compito d'esame A1, Problema 7] Sia $a_1,a_2,\ldots,a_{21}$ una permutazione di $1,2,\ldots,21$, che soddisfa $$|a_{20}-a_{21}|\ge|a_{19}-a_{21}|\ge|a_{18}-a_{21}|\ge\cdots\ge|a_1-a_{21}|.$$. Il numero di tali permutazioni è ______.
 
-**Risposta:** 3070
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q18|src_cn_cmc-first-round_2021__Q18]]
 
 
 
@@ -566,11 +697,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A1-8: valori reali positivi x,y con a∈[0,x],b∈[0,y], a^2+y^2=2, b^2+x^2=1, ax+by=1; max di x+y.*
+*A1-8: numeri reali positivi x,y con a∈[0,x], b∈[0,y], a^2+y^2=2, b^2+x^2=1, ax+by=1; massimo di x+y.*
 
-> [Paper di prova A1, problema 8] I numeri reali positivi $x,y$ soddisfano la seguente condizione: esistono $a\in[0,x]$, $b\in[0,y]$ in modo tale che $$a^2+y^2=2,\quad b^2+x^2=1,\quad ax+by=1.$$ Quindi il massimo di $x+y$ è ______.
+> [Compito d'esame A1, Problema 8] I numeri reali positivi $x,y$ soddisfano la seguente condizione: esistono $a\in[0,x]$, $b\in[0,y]$ tali che $$a^2+y^2=2,\quad b^2+x^2=1,\quad ax+by=1.$$ Allora il massimo di $x+y$ è ______.
 
-**Risposta:** \sqrt{5}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q19|src_cn_cmc-first-round_2021__Q19]]
 
 
 
@@ -596,11 +734,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A1-9: f(x) = 9:12-log_3 <c_11, a<b<c con f(a) 2f(b) = 2f(c); trovare ac/b.*
+*A1-9: f(x)=|2-log_3 x|, a<b<c con f(a)=2f(b)=2f(c); trovare ac/b.*
 
-> [Paper di prova A1, problema 9] (16 punti) Data la funzione $f(x)=|2-\log_3 x|$, i numeri reali positivi $a,b,c$ soddisfano $a<b<c$ e $f(a)=2f(b)=2f(c)$. Trova il valore di $\dfrac{ac}{b}$.
+> [Compito d'esame A1, Problema 9] (16 punti) Dato la funzione $f(x)=|2-\log_3 x|$, i numeri reali positivi $a,b,c$ soddisfano $a<b<c$ e $f(a)=2f(b)=2f(c)$. Determinare il valore di $\dfrac{ac}{b}$.
 
-**Risposta:** 9
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q20|src_cn_cmc-first-round_2021__Q20]]
 
 
 
@@ -626,11 +771,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A1-10: (z^2+az+b) ((z^2+az+2b)=0 ha quattro radici che formano un quadrato unitario; trova la somma dei moduli.*
+*A1-10: (z^2+az+b)(z^2+az+2b)=0 ha quattro radici che formano un quadrato di lato 1; trovare la somma dei moduli.*
 
-> [Test paper A1, problema 10] (20 punti) Supponiamo $a,b\in\mathbb{R}$. Se l'equazione $$(z^2+az+b)(z^2+az+2b)=0$$ circa $z$ ha quattro radici complesse reciprocamente diverse $z_1,z_2,z_3,z_4$ e i loro punti corrispondenti nel piano complesso sono esattamente quattro vertici di un quadrato con lunghezza laterale $1$, allora trovare il valore di $|z_1|+|z_2|+|z_3|+|z_4|$.
+> [Compito d'esame A1, Esercizio 10] (20 punti) Si supponga $a,b\in\mathbb{R}$. Se l'equazione $$(z^2+az+b)(z^2+az+2b)=0$$ in $z$ ha quattro radici complesse tutte distinte tra loro $z_1,z_2,z_3,z_4$ e i punti corrispondenti nel piano complesso sono esattamente i quattro vertici di un quadrato di lato $1$, allora si determini il valore di $|z_1|+|z_2|+|z_3|+|z_4|$.
 
-**Risposta:** \sqrt{6}+2\sqrt{2}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q21|src_cn_cmc-first-round_2021__Q21]]
 
 
 
@@ -656,11 +808,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A1-11: ellisse x^2/2+y^2=1, foci F1, F2, P nel primo quadrante, estensioni di PF1,PF2 incontrano l'ellisse a Q1,Q2; massimo di r1-r2 (radi di cerchio).*
+*A1-11: ellisse x^2/2+y^2=1, fuochi F1,F2, P nel primo quadrante, le prolungazioni di PF1,PF2 incontrano l'ellisse in Q1,Q2; massimo di r1-r2 (raggi delle cerchie inscritte).*
 
-> [Paper di prova A1, problema 11] (20 punti) In un sistema di coordinate rettangolare piano $xOy$, i foci sinistro e destro dell'ellisse $\Gamma:\dfrac{x^2}{2}+y^2=1$ sono rispettivamente $F_1,F_2$. Il $P$ deve essere un punto del $\Gamma$ nel primo quadrante e le estensioni di $PF_1$ e $PF_2$ si intersecano rispettivamente con $\Gamma$ nei punti $Q_1,Q_2$. Il $r_1,r_2$ deve essere il raggio di radii degli incircoli di $\triangle PF_1Q_2$ e $\triangle PF_2Q_1$, rispettivamente. Trova il massimo di $r_1-r_2$.
+> [Compito d'esame A1, Problema 11] (20 punti) In un sistema di coordinate cartesiane nel piano $xOy$, i fuochi sinistro e destro dell'ellisse $\Gamma:\dfrac{x^2}{2}+y^2=1$ sono rispettivamente $F_1,F_2$. Sia $P$ un punto appartenente a $\Gamma$ nel primo quadrante, e le rette estese di $PF_1$, $PF_2$ intersecano $\Gamma$ nei punti $Q_1,Q_2$, rispettivamente. Siano $r_1,r_2$ i raggi degli incircoli di $\triangle PF_1Q_2$, $\triangle PF_2Q_1$, rispettivamente. Determinare il massimo di $r_1-r_2$.
 
-**Risposta:** \dfrac{1}{3}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q22|src_cn_cmc-first-round_2021__Q22]]
 
 
 
@@ -684,9 +843,17 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A2-1: sequenza geometrica con a1-a2=3, a1-a3=2; rapporto comune.*
+*A2-1: progressione geometrica con a1-a2=3, a1-a3=2; ragione.*
 
-> [Test Paper A2, Problema 1] Supponiamo che la sequenza geometrica $\{a_n\}$ soddisfi $a_1-a_2=3$, $a_1-a_3=2$. Quindi il rapporto comune di $\{a_n\}$ è ______.
+> [Compito d'esame A2, Problema 1] Si supponga che la successione geometrica $\{a_n\}$ soddisfi $a_1-a_2=3$, $a_1-a_3=2$. Allora il rapporto di ragione di $\{a_n\}$ è ______.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q23|src_cn_cmc-first-round_2021__Q23]]
 
 
 
@@ -714,9 +881,16 @@ level: China Mathematical Competition (First Round)
 
 *A2-2: massimo di f(x)=2sin^2 x - tan^2 x.*
 
-> [Papero di prova A2, problema 2] Il massimo di $f(x)=2\sin^2 x-\tan^2 x$ è ______.
+> [Compito d'esame A2, Problema 2] Il massimo di $f(x)=2\sin^2 x-\tan^2 x$ è ______.
 
-**Risposta:** 3-2\sqrt{2}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q24|src_cn_cmc-first-round_2021__Q24]]
 
 
 
@@ -742,11 +916,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A2-3: complesso z_n ricorrenza z_{n+1}=conj(z_n)·i^n, z_1=3+2i; trovare z_99+z_100.*
+*A2-3: successione ricorsiva complessa z_n, z_{n+1}=conj(z_n)·i^n, z_1=3+2i; trovare z_99+z_100.*
 
-> [Paper di prova A2, problema 3] I numeri complessi $z_1,z_2,\ldots,z_{100}$ soddisfano $z_1=3+2\mathrm{i}$, $z_{n+1}=\overline{z_n}\cdot\mathrm{i}^n\ (n=1,2,\ldots,99)$, con $\mathrm{i}$ come unità immaginaria. Il valore di $z_{99}+z_{100}$ è quindi ______.
+> [Compito d'esame A2, Problema 3] I numeri complessi $z_1,z_2,\ldots,z_{100}$ soddisfano $z_1=3+2\mathrm{i}$, $z_{n+1}=\overline{z_n}\cdot\mathrm{i}^n\ (n=1,2,\ldots,99)$, con $\mathrm{i}$ come unità immaginaria. Allora il valore di $z_{99}+z_{100}$ è ______.
 
-**Risposta:** -5+5\mathrm{i}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q25|src_cn_cmc-first-round_2021__Q25]]
 
 
 
@@ -772,11 +953,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A2-4: scegli 3 dei 6 vertici di un esagono regolare; probabilità due sono a distanza √3.*
+*A2-4: scegliere 3 dei 6 vertici di un esagono regolare; probabilità che due di essi siano a distanza √3.*
 
-> [Paper di prova A2, problema 4] Selezionare a caso tre vertici tra i sei vertici di un esagono regolare con lunghezza laterale $1$. Quindi la probabilità che due dei tre vertici siano a una distanza di $\sqrt{3}$ è ______.
+> [Compito d'esame A2, Esercizio 4] Si scelgono a caso tre vertici tra i sei vertici di un esagono regolare di lato $1$. Allora la probabilità che due dei tre vertici siano a distanza $\sqrt{3}$ è ______.
 
-**Risposta:** 1
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q26|src_cn_cmc-first-round_2021__Q26]]
 
 
 
@@ -802,11 +990,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A2-5: complesso z1=3+2i, z_{n+1}=conj(z_n)·i^n; trovare z99+z100.*
+*A2-5: complessi z1=3+2i, z_{n+1}=conj(z_n)·i^n; trovare z99+z100.*
 
-> [Paper di prova A2, problema 5] I numeri complessi $z_1,z_2,\ldots,z_{100}$ soddisfano $z_1=3+2\mathrm{i}$, $z_{n+1}=\overline{z_n}\cdot\mathrm{i}^n\ (n=1,2,\ldots,99)$, con $\mathrm{i}$ come unità immaginaria. Il valore di $z_{99}+z_{100}$ è quindi ______.
+> [Compito d'esame A2, Problema 5] I numeri complessi $z_1,z_2,\ldots,z_{100}$ soddisfano $z_1=3+2\mathrm{i}$, $z_{n+1}=\overline{z_n}\cdot\mathrm{i}^n\ (n=1,2,\ldots,99)$, con $\mathrm{i}$ come unità immaginaria. Allora il valore di $z_{99}+z_{100}$ è ______.
 
-**Risposta:** -5+5\mathrm{i}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q27|src_cn_cmc-first-round_2021__Q27]]
 
 
 
@@ -834,9 +1029,16 @@ level: China Mathematical Competition (First Round)
 
 *A2-6: f(x) su R, f(x)=2^x-x su [0,1), f(x)+f(x+1)=1, a=log_2 3; trovare f(a)+f(2a)+f(3a).*
 
-> La funzione $f(x)$ con dominio $\mathbb{R}$ soddisfa: quando $x\in[0,1)$, $f(x)=2^x-x$, e per qualsiasi numero reale $x$, c'è $f(x)+f(x+1)=1$. Denotare $a=\log_2 3$, e quindi il valore dell'espressione $f(a)+f(2a)+f(3a)$ è ______.
+> [Elaborato d'esame A2, Problema 6] La funzione $f(x)$, avente come dominio $\mathbb{R}$, soddisfa la seguente condizione: quando $x\in[0,1)$, $f(x)=2^x-x$, e per ogni numero reale $x$, esiste $f(x)+f(x+1)=1$. Si indichi con $a=\log_2 3$; allora il valore dell'espressione $f(a)+f(2a)+f(3a)$ è ______.
 
-**Risposta:** \dfrac{17}{16}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q28|src_cn_cmc-first-round_2021__Q28]]
 
 
 
@@ -862,11 +1064,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A2-7: sottoinsiemi A di S={1..10} con A∩{1,2,3}≠ e A∪{4,5,6}≠S; conteggio.*
+*A2-7: sottoinsiemi A di S={1..10} tali che A∩{1,2,3}≠∅ e A∪{4,5,6}≠S; conta.*
 
-> [Test Paper A2, Problema 7] Supponiamo che l'insieme $S=\{1,2,3,\ldots,10\}$ e il sottogruppo $A$ di $S$ soddisfi $$A\cap\{1,2,3\}\ne\varnothing,\quad A\cup\{4,5,6\}\ne S.$$ Il numero di tali sottogruppi è di ______.
+> [Compito d'esame A2, Problema 7] Si supponga che l'insieme $S=\{1,2,3,\ldots,10\}$ e il sottoinsieme $A$ di $S$ soddisfino $$A\cap\{1,2,3\}\ne\varnothing,\quad A\cup\{4,5,6\}\ne S.$$ Il numero di tali sottoinsiemi è ______.
 
-**Risposta:** 888
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q29|src_cn_cmc-first-round_2021__Q29]]
 
 
 
@@ -891,9 +1100,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A2-8: due cerchi unitari centrati a (2,1) e (10,11); linea attraverso O che taglia archi uguali; somma delle pendici.*
+*A2-8: due cerchi unitari centrati in (2,1) e (10,11); retta passante per O che interseca archi uguali; somma delle pendenze.*
 
-> [Paper di prova A2, problema 8] In un sistema di coordinate rettangolare piano $xOy$, $\Gamma_1$ è un cerchio unitario centrato a $(2,1)$ e $\Gamma_2$ è un cerchio unitario centrato a $(10,11)$. Fare una linea $l$ attraverso l'origine $O$ in modo che $l$ abbia due intersezioni con ciascuna delle $\Gamma_1$ e $\Gamma_2$, dividendo $\Gamma_1$ e $\Gamma_2$ in quattro archi, e due di questi quattro archi sono di uguale lunghezza. La somma delle pendenti di tutte le linee $l$ che soddisfano le condizioni è di ______.
+> [Compito d'esame A2, Problema 8] In un sistema di coordinate cartesiane nel piano, $xOy$, $\Gamma_1$ è un cerchio unitario con centro in $(2,1)$ e $\Gamma_2$ è un cerchio unitario con centro in $(10,11)$. Si tracci una retta $l$ passante per l'origine $O$ in modo che $l$ abbia due punti d'intersezione con ciascuno di $\Gamma_1$ e $\Gamma_2$, dividendo $\Gamma_1$ e $\Gamma_2$ in quattro archi, e due di questi quattro archi abbiano la stessa lunghezza. La somma dei coefficienti angolari di tutte le rette $l$ che soddisfano le condizioni è ______.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q30|src_cn_cmc-first-round_2021__Q30]]
 
 
 
@@ -918,9 +1136,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A2-9: triangolo ABC con AB=1, AC=2, cos B + sin C = 1; trovare lunghezza di BC.*
+*A2-9: triangolo ABC con AB=1, AC=2, cos B + sin C = 1; trovare la lunghezza di BC.*
 
-> [Paper di prova A2, problema 9] (16 punti) È noto che $\triangle ABC$ soddisfa $AB=1$, $AC=2$ e $\cos B+\sin C=1$. Trova la lunghezza del lato $BC$.
+> [Compito d'esame A2, Problema 9] (16 punti) È noto che $\triangle ABC$ soddisfa $AB=1$, $AC=2$ e $\cos B+\sin C=1$. Determinare la lunghezza del lato $BC$.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q31|src_cn_cmc-first-round_2021__Q31]]
 
 
 
@@ -946,11 +1173,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A2-10: ellisse, Vertice A-asse maggiore, Vertice B-asse minore, Foco F; P,Q simmetrico con FP·FQ+FA·FB=EAS AB-EAS^2; prova F sull'estensione di AO e trova intervallo di eccentricità.*
+*A2-10: ellisse, A vertice sull'asse maggiore, B vertice sull'asse minore, F fuoco; P, Q simmetrici con FP·FQ+FA·FB=|AB|^2; dimostrare che F giace sulla prolungazione di AO e determinare l'intervallo di eccentricità.*
 
-> [Test Paper A2, Problem 10] (20 marks) In un sistema di coordinate retangolare piano $xOy$, data l'ellisse $$\Gamma:\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}=1\quad(a>b>0),$$, $A$ sia uno dei vertici del suo asse maggiore, $B$ sia uno dei vertici del suo asse minore e $F$ sia uno dei suoi foci. È noto che esistono due punti $P$ e $Q$ su $\Gamma$ che sono simmetrici circa $O$ in modo tale che $$\overrightarrow{FP}\cdot\overrightarrow{FQ}+\overrightarrow{FA}\cdot\overrightarrow{FB}=|AB|^2.$$ (1) Prove che il punto focale $F$ si trova sull'estensione di $AO$; (2) trova l'intervallo di eccentricità di $\Gamma$.
+> [Compito d'esame A2, Problema 10] (20 punti) In un sistema di coordinate cartesiane nel piano $xOy$, data l'ellisse $$\Gamma:\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}=1\quad(a>b>0),$$, si indichi con $A$ uno dei vertici del suo asse maggiore, con $B$ uno dei vertici del suo asse minore e con $F$ uno dei suoi fuochi. È noto che esistono due punti $P$ e $Q$ su $\Gamma$, simmetrici rispetto a $O$, tali che $$\overrightarrow{FP}\cdot\overrightarrow{FQ}+\overrightarrow{FA}\cdot\overrightarrow{FB}=|AB|^2.$$ (1) Dimostrare che il fuoco $F$ giace sulla prolungazione di $AO$; (2) determinare l'intervallo di variazione dell'eccentricità di $\Gamma$.
 
-**Risposta:** e\in\left[\dfrac{3}{4},\dfrac{-1+\sqrt{37}}{6}\right]
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q32|src_cn_cmc-first-round_2021__Q32]]
 
 
 
@@ -976,11 +1210,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A2-11: f(x)=x^3+ax^2+bx, three reals x1≤x2≤x3 with x1+1≤x2≤x3-1 and equal values; min of |a|+2|b|.*
+*A2-11: f(x)=x^3+ax^2+bx, tre soluzioni reali x1≤x2≤x3 tali che x1+1≤x2≤x3-1 e valori uguali; minimo di |a|+2|b|.*
 
-> [Test Paper A2, Problem 11] (20 marks) Let $a,b$ be real numbers and function $f(x)=x^3+ax^2+bx$. If there exist three real numbers $x_1,x_2,x_3$ satisfying $x_1+1\le x_2\le x_3-1$ and $f(x_1)=f(x_2)=f(x_3)$. Find the minimum of $|a|+2|b|$.
+> [Compito d'esame A2, Esercizio 11] (20 punti) Siano $a,b$ numeri reali e $f(x)=x^3+ax^2+bx$ una funzione. Se esistono tre numeri reali $x_1,x_2,x_3$ tali che $x_1+1\le x_2\le x_3-1$ e $f(x_1)=f(x_2)=f(x_3)$. Determinare il minimo di $|a|+2|b|$.
 
-**Risposta:** \sqrt{3}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q33|src_cn_cmc-first-round_2021__Q33]]
 
 
 
@@ -1005,11 +1246,17 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B-1: sequenza aritmetica d≠0, a_2021=a_20+a_21; trovare a_1/d.*
+*B-1: successione aritmetica con d≠0, a_2021=a_20+a_21; trovare a_1/d.*
 
-> [Paper di prova B, problema 1] Data la sequenza aritmetica $\{a_n\}$ con differenza comune $d\ne 0$ e $a_{2021}=a_{20}+a_{21}$, il valore di $\dfrac{a_1}{d}$ è ______.
+> [Compito d'esame B, Problema 1] Dato la successione aritmetica $\{a_n\}$ con ragione $d\ne 0$ e $a_{2021}=a_{20}+a_{21}$, allora il valore di $\dfrac{a_1}{d}$ è ______.
 
-**Risposta:** 1981
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q34|src_cn_cmc-first-round_2021__Q34]]
 
 
 
@@ -1034,11 +1281,17 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B-2: z1=1+2i, z2=m+3i, z1·conj(z2) puramente immaginario; trovare z1+z2 in tempo.*
+*B-2: z1=1+2i, z2=m+3i, z1·conj(z2) puramente immaginario; trovare |z1+z2|.*
 
-> [Test Paper B, Problem 2] Supponiamo che $m$ sia un numero reale, e numeri complessi $z_1=1+2\mathrm{i}$, $z_2=m+3\mathrm{i}$, dove $\mathrm{i}$ è l'unità immaginaria. Se $z_1\cdot\overline{z_2}$ è puramente immaginario, il valore di $|z_1+z_2|$ è ______.
+> [Compito d'esame B, Problema 2] Sia $m$ un numero reale, e siano $z_1=1+2\mathrm{i}$, $z_2=m+3\mathrm{i}$ numeri complessi, dove $\mathrm{i}$ è l'unità immaginaria. Se $z_1\cdot\overline{z_2}$ è puramente immaginario, allora il valore di $|z_1+z_2|$ è ______.
 
-**Risposta:** 5\sqrt{2}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q35|src_cn_cmc-first-round_2021__Q35]]
 
 
 
@@ -1064,11 +1317,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B-3: intervallo di y=sin^2 x+√3 sinx cosx su [π/4,π/2].*
+*B-3: intervallo di variazione di y=sin²x+√3 sinx cosx su [π/4,π/2].*
 
-> [Test paper B, problema 3] L'intervallo di $y=\sin^2 x+\sqrt{3}\sin x\cos x$ quando $\dfrac{\pi}{4}\le x\le\dfrac{\pi}{2}$ è ______.
+> [Compito d'esame B, Problema 3] L'insieme dei valori di $y=\sin^2 x+\sqrt{3}\sin x\cos x$ quando $\dfrac{\pi}{4}\le x\le\dfrac{\pi}{2}$ è ______.
 
-**Risposta:** \left[1,\dfrac{3}{2}\right]
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q36|src_cn_cmc-first-round_2021__Q36]]
 
 
 
@@ -1093,11 +1353,17 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B-4: dominio (-∞,0)∪,∞), f(x) = f(1)x^2+f(2)x-1)/x; somma di zeri.*
+*B-4: dominio (-∞,0)∪(0,∞), f(x)=(f(1)x^2+f(2)x-1)/x; somma degli zeri.*
 
-> [Test Paper B, Problema 4] Supponiamo che il dominio della funzione $f(x)$ sia $D=(-\infty,0)\cup(0,+\infty)$ e che ci sia $f(x)=\dfrac{f(1)\cdot x^2+f(2)\cdot x-1}{x}$ per qualsiasi $x\in D$. Quindi la somma di tutti gli zero di $f(x)$ è ______.
+> [Compito d'esame B, Problema 4] Si supponga che il dominio della funzione $f(x)$ sia $D=(-\infty,0)\cup(0,+\infty)$ e che per ogni $x\in D$ esista $f(x)=\dfrac{f(1)\cdot x^2+f(2)\cdot x-1}{x}$. Allora la somma di tutti gli zeri di $f(x)$ è ______.
 
-**Risposta:** -4
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q37|src_cn_cmc-first-round_2021__Q37]]
 
 
 
@@ -1124,9 +1390,15 @@ level: China Mathematical Competition (First Round)
 
 *B-5: a,b,c>1 con (a^2 b)^{log_a c}=a·(ac)^{log_a b}; trovare log_c(ab).*
 
-> [Test paper B, problema 5] Supponiamo che $a,b,c>1$ e $(a^2 b)^{\log_a c}=a\cdot(ac)^{\log_a b}$ siano soddisfatti. Il valore di $\log_c(ab)$ è quindi ______.
+> [Compito d'esame B, Problema 5] Si supponga che $a,b,c>1$ e $(a^2 b)^{\log_a c}=a\cdot(ac)^{\log_a b}$ siano soddisfatti. Allora il valore di $\log_c(ab)$ è ______.
 
-**Risposta:** 2
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q38|src_cn_cmc-first-round_2021__Q38]]
 
 
 
@@ -1154,9 +1426,16 @@ level: China Mathematical Competition (First Round)
 
 *B-6: triangolo ABC, AB=1, AC=2, cosB=2sinC; lunghezza di BC.*
 
-> [Test paper B, problema 6] In $\triangle ABC$, $AB=1$, $AC=2$ e $\cos B=2\sin C$. Quindi la lunghezza del lato $BC$ è ______.
+> [Composizione d'esame B, Problema 6] In $\triangle ABC$, $AB=1$, $AC=2$ e $\cos B=2\sin C$. Allora la lunghezza del lato $BC$ è ______.
 
-**Risposta:** \dfrac{\sqrt{2}+\sqrt{14}}{2}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q39|src_cn_cmc-first-round_2021__Q39]]
 
 
 
@@ -1182,11 +1461,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B-7: parabola y=ax^2-3x+3 e y^2=2px simmetrica circa y=x+m; trovare il prodotto apm.*
+*B-7: parabola y=ax^2-3x+3 e y^2=2px simmetriche rispetto a y=x+m; trovare il prodotto apm.*
 
-> [Test Paper B, Problem 7] In un sistema di coordinate rettangolare piano $xOy$, il grafico della parabola $y=ax^2-3x+3\ (a\ne 0)$ e quello della parabola $y^2=2px\ (p>0)$ sono simmetrici rispetto alla linea $y=x+m$. Quindi il prodotto dei numeri reali $a,p,m$ è ______.
+> [Compito d'esame B, Problema 7] In un sistema di coordinate cartesiane nel piano $xOy$, il grafico della parabola $y=ax^2-3x+3\ (a\ne 0)$ e il grafico della parabola $y^2=2px\ (p>0)$ sono simmetrici rispetto alla retta $y=x+m$. Allora il prodotto dei numeri reali $a,p,m$ è ______.
 
-**Risposta:** -3
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q40|src_cn_cmc-first-round_2021__Q40]]
 
 
 
@@ -1211,9 +1497,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B-8: permutazione casuale di 1,10; probabilità che sia 9 che 12 appariscano tra i prodotti a_i a_{i+1}.*
+*B-8: permutazione casuale di 1..10; probabilità che sia 9 sia 12 compaiano tra i prodotti a_i a_{i+1}.*
 
-> [Test Paper B, Problema 8] $a_1,a_2,\ldots,a_{10}$ sia una permutazione casuale di $1,2,\ldots,10$. Quindi la probabilità che sia $9$ che $12$ appaiano nei numeri $9$ $a_1a_2,a_2a_3,\ldots,a_9a_{10}$ è ______.
+> [Bozza d'esame B, Problema 8] Sia $a_1,a_2,\ldots,a_{10}$ una permutazione casuale di $1,2,\ldots,10$. Allora la probabilità che sia $9$ sia $12$ compaiano nei $9$ numeri $a_1a_2,a_2a_3,\ldots,a_9a_{10}$ è ______.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q41|src_cn_cmc-first-round_2021__Q41]]
 
 
 
@@ -1239,11 +1534,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B-9: sequenza a1=a2=a3, b_n=a_n+a_{n+1}+a_{n+2} rapporto geometrico 3; trovare a_100.*
+*B-9: successione a1=a2=a3, b_n=a_n+a_{n+1}+a_{n+2}, rapporto geometrico 3; trovare a_100.*
 
-> [Test paper B, problema 9] (16 punti) La sequenza $\{a_n\}$ soddisfa $a_1=a_2=a_3$. Se $\{b_n\}$ è una sequenza geometrica con rapporto comune $3$, trovare il valore di $a_{100}$.
+> [Elaborato d'esame B, Problema 9] (16 punti) La successione $\{a_n\}$ soddisfa $a_1=a_2=a_3$. Sia $$b_n=a_n+a_{n+1}+a_{n+2}\ (n\in\mathbb{N}_+).$$ Se $\{b_n\}$ è una successione geometrica con ragione $3$, determina il valore di $a_{100}$.
 
-**Risposta:** a_{100}=\dfrac{3^{100}+10}{13}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q42|src_cn_cmc-first-round_2021__Q42]]
 
 
 
@@ -1269,11 +1571,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B-10: grafico Γ di y=1/|x|; P nel primo quadrante, Q nel secondo quadrante, PQ tangente alla parte di Γ nel secondo quadrante in Q; min di |PQ|.*
+*B-10: Γ, grafico di y=1/|x|; P nel primo quadrante, Q nel secondo quadrante, PQ tangente a una parte di Γ nel secondo quadrante in Q; minimo di |PQ|.*
 
-> [Test Paper B, Problem 10] (20 marks) In un sistema di coordinate rettangolare piano $xOy$, il grafico della funzione $y=\dfrac{1}{|x|}$ è $\Gamma$. I punti $P,Q$ su $\Gamma$ devono soddisfare: $P$ è nel primo quadrante, $Q$ è nel secondo quadrante e la linea $PQ$ è tangente alla parte di $\Gamma$ nel secondo quadrante al punto $Q$. Trova il minimo di $|PQ|$.
+> [Compito d'esame B, Problema 10] (20 punti) In un sistema di coordinate cartesiane nel piano $xOy$, il grafico della funzione $y=\dfrac{1}{|x|}$ è $\Gamma$. Siano i punti $P,Q$ su $\Gamma$ tali che: $P$ si trova nel primo quadrante, $Q$ si trova nel secondo quadrante, e la retta $PQ$ è tangente alla parte di $\Gamma$ situata nel secondo quadrante nel punto $Q$. Determinare il minimo di $|PQ|$.
 
-**Risposta:** 2
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q43|src_cn_cmc-first-round_2021__Q43]]
 
 
 
@@ -1298,9 +1607,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B-11: piramide regolare P-A1A2...An, centro di base O, punto medio di A1An B; dimostrare una relazione e confrontare (1/n)ΣcosAiPB con sinα sinβ.*
+*B-11: piramide regolare P-A1A2...An, O centro della base, B punto medio di A1An; dimostrare una relazione e confrontare (1/n)Σcos∠AiPB con sinα sinβ.*
 
-> [Test Paper B, Problem 11] (20 marks) Nella piramide regolare $P-A_1A_2\cdots A_n\ (n\ge 3)$, $O$ è il centro della base del poligono laterale $n$ e $B$ è il punto medio del bordo $A_1A_n$. (1) Prove che $PO^2\sin\dfrac{\pi}{n}+PA_1^2\cos^2\dfrac{\pi}{n}=PB^2$; (2) Per la piramide regolare $P-A_1A_2\cdots A_n$, l'angolo formato dal bordo laterale e dalla base sia $\alpha$ e l'angolo formato dalla faccia laterale e dalla base sia $\beta$. Provare a determinare la relazione di magnitudine tra $\dfrac{1}{n}\sum_{i=1}^{n}\cos\angle A_iPB$ e $\sin\alpha\sin\beta$, e poi provarlo.
+> [Elaborato d'esame B, Problema 11] (20 punti) Nella piramide regolare $P-A_1A_2\cdots A_n\ (n\ge 3)$, $O$ è il centro del poligono regolare di $n$ lati $A_1A_2\cdots A_n$ che costituisce la base, e $B$ è il punto medio del lato $A_1A_n$. (1) Dimostrare che $PO^2\sin\dfrac{\pi}{n}+PA_1^2\cos^2\dfrac{\pi}{n}=PB^2$; (2) Per la piramide regolare $P-A_1A_2\cdots A_n$, si indichi con $\alpha$ l'angolo formato dal lato laterale e dalla base, e con $\beta$ l'angolo formato dalla faccia laterale e dalla base. Si cerchi di determinare la relazione di grandezza tra $\dfrac{1}{n}\sum_{i=1}^{n}\cos\angle A_iPB$ e $\sin\alpha\sin\beta$, e poi la si dimostri.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q44|src_cn_cmc-first-round_2021__Q44]]
 
 
 
@@ -1325,11 +1643,17 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B1-1: f pari su R, f(1)=2, f(2)=3; trovare f(f(-1)).*
+*B1-1: f è dispari su R, f(1)=2, f(2)=3; trovare f(f(-1)).*
 
-> [Test Paper B1, Problema 1] Supponiamo che $f(x)$ sia una funzione strana con dominio $\mathbb{R}$. Se $f(1)=2$, $f(2)=3$, allora il valore di $f(f(-1))$ è ______.
+> [Elaborato d'esame B1, Problema 1] Sia $f(x)$ una funzione dispari il cui dominio è $\mathbb{R}$. Se $f(1)=2$, $f(2)=3$, allora il valore di $f(f(-1))$ è ______.
 
-**Risposta:** -3
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q45|src_cn_cmc-first-round_2021__Q45]]
 
 
 
@@ -1354,11 +1678,17 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B1-2: z=1+i+m/(1+i) con parti reali e immaginarie positive; gamma di m.*
+*B1-2: z=1+i+m/(1+i) con parti reale e immaginaria positive; intervallo di m.*
 
-> [Test Paper B1, Problema 2] $m$ sia un numero reale. Se le parti reali e immaginarie del complesso $z=1+\mathrm{i}+\dfrac{m}{1+\mathrm{i}}$, con $\mathrm{i}$ l'unità immaginaria, sono superiori a zero, allora l'intervallo di $m$ è ______.
+> [Elaborato d'esame B1, Problema 2] Sia $m$ un numero reale. Se le parti reale e immaginaria del numero complesso $z=1+\mathrm{i}+\dfrac{m}{1+\mathrm{i}}$, con $\mathrm{i}$ che rappresenta l'unità immaginaria, sono maggiori di zero, allora l'insieme dei valori di $m$ è ______.
 
-**Risposta:** -2<m<2
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q46|src_cn_cmc-first-round_2021__Q46]]
 
 
 
@@ -1386,9 +1716,16 @@ level: China Mathematical Competition (First Round)
 
 *B1-3: A={1,2,3}, B={4x-y}, C={4x+y}; somma degli elementi di B∩C.*
 
-> [Paper di prova B1, problema 3] Supponiamo $A=\{1,2,3\}$, $B=\{4x-y\mid x,y\in A\}$, $C=\{4x+y\mid x,y\in A\}$. Quindi la somma di tutti gli elementi di $B\cap C$ è ______.
+> [Compito d'esame B1, Esercizio 3] Si supponga che $A=\{1,2,3\}$, $B=\{4x-y\mid x,y\in A\}$, $C=\{4x+y\mid x,y\in A\}$. Allora la somma di tutti gli elementi di $B\cap C$ è ______.
 
-**Risposta:** 18
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q47|src_cn_cmc-first-round_2021__Q47]]
 
 
 
@@ -1414,11 +1751,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B1-4: parabola y^2=2px, linea di inclinazione π/4 incontra Γ a P(3,2) e Q; area del triangolo OPQ.*
+*B1-4: parabola y^2=2px, retta di inclinazione π/4 interseca Γ nei punti P(3,2) e Q; area del triangolo OPQ.*
 
-> [Paper di prova B1, problema 4] In un sistema di coordinate rettangolare piano $xOy$, data la parabola $\Gamma:y^2=2px\ (p>0)$, una linea con angolo di inclinazione $\dfrac{\pi}{4}$ si interseca con $\Gamma$ al punto $P(3,2)$ e con un altro punto $Q$. Quindi la superficie di $\triangle OPQ$ è ______.
+> [Compito d'esame B1, Problema 4] In un sistema di coordinate cartesiane nel piano $xOy$, data la parabola $\Gamma:y^2=2px\ (p>0)$, una retta con angolo di inclinazione $\dfrac{\pi}{4}$ interseca $\Gamma$ nel punto $P(3,2)$ e in un altro punto $Q$. Allora l'area di $\triangle OPQ$ è ______.
 
-**Risposta:** \dfrac{4}{3}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q48|src_cn_cmc-first-round_2021__Q48]]
 
 
 
@@ -1444,11 +1788,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B1-5: sequenza a1=2, a_{n+1}=(n+1) a_n-n; formula del termine generale.*
+*B1-5: successione a1=2, a_{n+1}=(n+1)a_n-n; formula del termine generale.*
 
-> La sequenza $\{a_n\}$ soddisfa $a_1=2$ e $a_{n+1}=(n+1)a_n-n$, $n=1,2,\ldots$. Quindi la formula del termine generale di $\{a_n\}$ è ______.
+> [Scheda d'esame B1, Problema 5] La successione $\{a_n\}$ soddisfa $a_1=2$ e $a_{n+1}=(n+1)a_n-n$, $n=1,2,\ldots$. Allora la formula del termine generale di $\{a_n\}$ è ______.
 
-**Risposta:** a_n=n!+1
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q49|src_cn_cmc-first-round_2021__Q49]]
 
 
 
@@ -1474,11 +1825,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B1-6: piramide quadrata destra P-ABCD, centroide G di facciata laterale PBC; V1=volume PABG, V2=volume PADG; trovare V1/V2.*
+*B1-6: piramide quadrata retta P-ABCD, G baricentro della faccia laterale PBC; V1=vol PABG, V2=vol PADG; determinare V1/V2.*
 
-> [Paper di prova B1, problema 6] Nella piramide quadrata destra $P-ABCD$, il punto $G$ è il centroide della faccia laterale $\triangle PBC$. $V_1,V_2$ siano rispettivamente i volumi dei tetraedri $PABG$ e $PADG$. In questo caso il valore di $\dfrac{V_1}{V_2}$ è ______.
+> [Compito d'esame B1, Problema 6] Nella piramide quadrata retta $P-ABCD$, il punto $G$ è il baricentro della faccia laterale $\triangle PBC$. Siano $V_1,V_2$ i volumi dei tetraedri $PABG$ e $PADG$, rispettivamente. Allora il valore di $\dfrac{V_1}{V_2}$ è ______.
 
-**Risposta:** \dfrac{1}{2}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q50|src_cn_cmc-first-round_2021__Q50]]
 
 
 
@@ -1506,9 +1864,16 @@ level: China Mathematical Competition (First Round)
 
 *B1-7: α,β≥0, α+β≤2π; minimo di sinα+2cosβ.*
 
-> [Test Paper B1, problema 7] Supponiamo $\alpha,\beta\ge 0$, $\alpha+\beta\le 2\pi$. Il minimo di $\sin\alpha+2\cos\beta$ è quindi ______.
+> [Composizione d'esame B1, Esercizio 7] Si supponga che $\alpha,\beta\ge 0$, $\alpha+\beta\le 2\pi$. Allora il minimo di $\sin\alpha+2\cos\beta$ è ______.
 
-**Risposta:** \sqrt{5}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q51|src_cn_cmc-first-round_2021__Q51]]
 
 
 
@@ -1534,11 +1899,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B1-8: contare le permutazioni di 1.21 con a_i_a_21 non diminuendo condizione.*
+*B1-8: conta le permutazioni di 1..21 con la condizione che |a_i-a_21| sia non decrescente.*
 
-> [Test Paper B1, Problema 8] Che $a_1,a_2,\ldots,a_{21}$ sia una permutazione di $1,2,\ldots,21$, soddisfacendo $$|a_{20}-a_{21}|\ge|a_{19}-a_{21}|\ge|a_{18}-a_{21}|\ge\cdots\ge|a_1-a_{21}|.$$ Il numero di tali permutazioni è ______.
+> [Compito d'esame B1, Esercizio 8] Sia $a_1,a_2,\ldots,a_{21}$ una permutazione di $1,2,\ldots,21$, tale che $$|a_{20}-a_{21}|\ge|a_{19}-a_{21}|\ge|a_{18}-a_{21}|\ge\cdots\ge|a_1-a_{21}|.$$ Il numero di tali permutazioni è ______.
 
-**Risposta:** 3070
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q52|src_cn_cmc-first-round_2021__Q52]]
 
 
 
@@ -1564,11 +1936,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B1-9: angolo tra a,b è π/3, \aquoquoquoquoquoquo, \bquoquo, \aquo, \aquo, \bquo sequenza aritmetica; trovare \aquo: \bquo: \bquo.*
+*B1-9: l'angolo tra a e b è π/3; |a|, |b|, |a+b| formano una progressione aritmetica; determina |a|:|b|:|a+b|.*
 
-> [Test Paper B1, Problem 9] (16 marks) Supponiamo che l'angolo incluso tra i vettori non zero $\vec{a}$ e $\vec{b}$ nel piano sia $\dfrac{\pi}{3}$. Se $|\vec{a}|,|\vec{b}|,|\vec{a}+\vec{b}|$ forma una sequenza aritmetica in ordine, trova il valore di $|\vec{a}|:|\vec{b}|:|\vec{a}+\vec{b}|$.
+> [Elaborato d'esame B1, Problema 9] (16 punti) Si supponga che l'angolo compreso tra i vettori non nulli $\vec{a}$ e $\vec{b}$ nel piano sia $\dfrac{\pi}{3}$. Se $|\vec{a}|,|\vec{b}|,|\vec{a}+\vec{b}|$ formano una successione aritmetica in ordine, si determini il valore di $|\vec{a}|:|\vec{b}|:|\vec{a}+\vec{b}|$.
 
-**Risposta:** 3:5:7
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q53|src_cn_cmc-first-round_2021__Q53]]
 
 
 
@@ -1594,11 +1973,18 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B1-10: f(x) = lain2-log_3 < c) con f(a) 2f(b) = 2f(c); minimo di ac/b.*
+*B1-10: f(x)=|2-log_3 x|, a<b<c con f(a)=2f(b)=2f(c); minimo di ac/b.*
 
-> [Paper di prova B1, problema 10] (20 punti) Data la funzione $f(x)=|2-\log_3 x|$, i numeri reali positivi $a,b,c$ soddisfano $a<b<c$ e $f(a)=2f(b)=2f(c)$. Trova il minimo di $\dfrac{ac}{b}$.
+> [Esame scritto B1, Esercizio 10] (20 punti) Data la funzione $f(x)=|2-\log_3 x|$, i numeri reali positivi $a,b,c$ soddisfano $a<b<c$ e $f(a)=2f(b)=2f(c)$. Determinare il minimo di $\dfrac{ac}{b}$.
 
-**Risposta:** 9
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q54|src_cn_cmc-first-round_2021__Q54]]
 
 
 
@@ -1624,8 +2010,15 @@ level: China Mathematical Competition (First Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*B1-11: ellisse x^2/2+y^2=1, foci F1, F2, P nel primo quadrante, estensioni di PF1,PF2 incontrano l'ellisse a Q1,Q2; massimo di y1-y2.*
+*B1-11: ellisse x^2/2+y^2=1, fuochi F1,F2, P nel primo quadrante, le rette estese di PF1 e PF2 incontrano l'ellisse in Q1,Q2; massimo di y1-y2.*
 
-> [Paper di prova B1, problema 11] (20 punti) In un sistema di coordinate rettangolare piano $xOy$, i foci sinistro e destro dell'ellisse $\Gamma:\dfrac{x^2}{2}+y^2=1$ sono rispettivamente $F_1,F_2$. Il $P$ deve essere un punto sul $\Gamma$ nel primo quadrante e le estensioni di $PF_1$, $PF_2$ si intersecano $\Gamma$ rispettivamente nei punti $Q_1(x_1,y_1)$ e $Q_2(x_2,y_2)$. Trova il massimo di $y_1-y_2$.
+> [Compito d'esame B1, Esercizio 11] (20 punti) In un sistema di coordinate cartesiane nel piano $xOy$, i fuochi sinistro e destro dell'ellisse $\Gamma:\dfrac{x^2}{2}+y^2=1$ sono rispettivamente $F_1,F_2$. Sia $P$ un punto appartenente a $\Gamma$ nel primo quadrante, e le rette che prolungano $PF_1$ e $PF_2$ intersecano $\Gamma$ nei punti $Q_1(x_1,y_1)$ e $Q_2(x_2,y_2)$, rispettivamente. Determinare il massimo di $y_1-y_2$.
 
-**Risposta:** \dfrac{2\sqrt{2}}{3}
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-first-round_2021#q55|src_cn_cmc-first-round_2021__Q55]]

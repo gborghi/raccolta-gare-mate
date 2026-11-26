@@ -33,11 +33,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trapezoidal area given diagonal triangular areas*
+*What is the area of the trapezium?*
 
-> A trapezoid is divided by its two diagonals into four triangles. If 5 and 125 are the areas of the two of these triangles that share one of their sides with one of the parallel sides of the trapezoid, what is the area of the trapezoid?
+> A trapezium
+>
+> A trapezium is divided by its two diagonals into four triangles. If 5 and 125 are the areas of the two of these triangles that share one of their sides with one of the parallel sides of the trapezium, what is the area of the trapezium?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0180
+[[Quesiti/src_kangourou_2023_junior_squadre_f2#q01|src_kangourou_2023_junior_squadre_f2__Q01]]
 
 
 
@@ -63,11 +70,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer whose square is a 6-digit palindrome*
+*What is it?*
 
-> Palindrome An integer of at least two digits is called a palindrome if it coincides with the number obtained by reading its digits from right to left: for example 313 is palindrome, but 133 is not. There is only one integer (positive) whose square is a six-digit palindrome number: what is it?
+> Palindrome
+>
+> An integer of at least two digits is called a palindrome if it coincides with the number obtained by reading its digits from right to left: for example 313 is a palindrome, but 133 is not. There is only one (positive) integer whose square is a six-digit palindrome: what is it?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0836
+[[Quesiti/src_kangourou_2023_junior_squadre_f2#q02|src_kangourou_2023_junior_squadre_f2__Q02]]
 
 
 
@@ -94,13 +107,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triangles in the figure*
+*How many triangles can be seen in the picture on the right?*
 
 ![[src_kangourou_2023_junior_squadre_f2__prob3.png]]
 
-> The triangles How many triangles can you see in the figure to the right?
+> The triangles
+>
+> How many triangles can be seen in the picture on the right?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 0125
+[[Quesiti/src_kangourou_2023_junior_squadre_f2#q03|src_kangourou_2023_junior_squadre_f2__Q03]]
 
 
 
@@ -131,11 +151,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max-min difference alignments of 4 digits*
+*What is the difference between the greatest and the least of the numbers represented by the 4-digit strings that we can obtain?*
 
-> By adding up the digits, the alignment 22222222221111111111 is composed of ten digits 2 followed by as many digits 1. We pick a pair of adjacent digits and replace them with their sum: We get a 19-digit alignment, like 2222222223111111111 or 2422222221111111111. We perform this operation from time to time on every alignment we get, with the restriction that the pair of digits we operate on provides a single digit sum, thus reducing the number of digits of the alignment by 1 at a time. What's the difference between the largest and the smallest of the numbers represented by the four-digit alignments that we can get?
+> Adding the digits
+>
+> The string 22222222221111111111 is made up of ten digits 2 followed by as many digits 1. We choose a pair of adjacent digits and replace it with their sum: we obtain a string of 19 digits, for example 2222222223111111111 or 2422222221111111111. We carry out this operation each time on every string we obtain, with the constraint that the pair of digits we operate on gives a one-digit sum, thus reducing by 1 each time the number of digits of the string. What is the difference between the greatest and the least of the numbers represented by the 4-digit strings that we can obtain?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 3996
+[[Quesiti/src_kangourou_2023_junior_squadre_f2#q04|src_kangourou_2023_junior_squadre_f2__Q04]]
 
 
 
@@ -161,11 +188,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of 4 digits with numerical conditions*
+*What is the largest four-digit integer such that the sum of its digits coincides both with the two-digit number formed by its first two digits and with the product of the other two?*
 
-> What is the largest integer of four digits so that the sum of its digits is equal to both the two-digit number of its first two digits and the product of the other two?
+> A 4-digit number
+>
+> What is the largest four-digit integer such that the sum of its digits coincides both with the two-digit number formed by its first two digits and with the product of the other two?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 1863
+[[Quesiti/src_kangourou_2023_junior_squadre_f2#q05|src_kangourou_2023_junior_squadre_f2__Q05]]
 
 
 
@@ -191,11 +225,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Longest side DC or ED in the right pentagon*
+*What is the length of the longer of the two sides DC and ED?*
 
-> The perimeter of an ABCDE pentagon measures 4,172 and all sides have integer lengths. The sides AE and BC are 2,023 long and the angles in A, B and D are straight. What is the length of the longest between the two sides DC and ED?
+> The pentagon
+>
+> The perimeter of a pentagon ABCDE measures 4.172 and all the sides have integer lengths. The sides AE and BC are 2.023 long and the angles at A, B and D are right angles. What is the length of the longer of the two sides DC and ED?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Answer:** 0045
+[[Quesiti/src_kangourou_2023_junior_squadre_f2#q06|src_kangourou_2023_junior_squadre_f2__Q06]]
 
 
 
@@ -225,11 +265,22 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Algebraic sum of numbers with digits 0,1,2*
+*What result did he obtain?*
 
-> Digits 0, 1, 2 Giorgio wrote, aligning them in increasing order, all positive integers up to 2021 including those in which no digits other than 0, 1, 2 appear. He then alternated the signs + and –, starting from the sign +, in front of the written numbers: his alignment thus begins with 1 – 2 + 10 – 11 + 12 – .... Finally, he executed (correctly) the algebraic sum indicated by the alignment. What result did he get?
+> Digits 0, 1, 2
+>
+> Giorgio wrote, lining them up in increasing order, all the positive integers up to and including 2021 in which no digits other than 0, 1, 2 appear. He then alternated the signs "+" and "−", starting with the sign "+", in front of the numbers written: his line therefore begins with
+>
+> 1 – 2 + 10 – 11 + 12 – ….
+>
+> Finally he carried out (correctly) the algebraic sum indicated by the line. What result did he obtain?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 1011
+[[Quesiti/src_kangourou_2023_junior_squadre_f2#q07|src_kangourou_2023_junior_squadre_f2__Q07]]
 
 
 
@@ -256,11 +307,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum matches won for 99% rounded*
+*What is the smallest number of matches you must have won for your statement to be correct?*
 
-> You've played some games: you haven't won all of them, but you can say you've won 99% of them if you're asked to round (as usual) the percentage of those you've won to the nearest integer. What's the smallest number of games you have to win to make your claim correct?
+> Matches won
+>
+> You have played some matches: you have not won them all, but you can say you have won 99% of them if you are asked to round (in the usual way) the percentage of those you have won to the nearest integer. What is the smallest number of matches you must have won for your statement to be correct?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0066
+[[Quesiti/src_kangourou_2023_junior_squadre_f2#q08|src_kangourou_2023_junior_squadre_f2__Q08]]
 
 
 
@@ -288,11 +346,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Groups of 5 couples without siblings together*
+*How many different groups of five pairs can be formed with this constraint?*
 
-> To compete in a tournament, ten boys must be divided into five pairs. Among them, however, there are two pairs of brothers, and it is not desirable for two brothers to be in pairs together. How many different groups of five pairs can be formed under this constraint? (Two groups of pairs shall be considered different if they differ by at least one pair.)
+> The tournament
+>
+> To take part in a tournament, ten boys are to be divided into 5 pairs. Among them, however, there are two pairs of brothers, and one does not want two brothers to be paired together. How many different groups of five pairs can be formed with this constraint? (Two groups of pairs are to be regarded as different if they differ in at least one pair.)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0750
+[[Quesiti/src_kangourou_2023_junior_squadre_f2#q09|src_kangourou_2023_junior_squadre_f2__Q09]]
 
 
 
@@ -319,11 +384,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fewer than 6 consecutive products in the given form*
+*What is the smallest of the six consecutive integers?*
 
-> Six consecutive integers The product of six consecutive positive integers is a 12-digit number of the form abb cdd cdd abb, where the digits a, b, c and d are, in appropriate order, consecutive digits. Which is the smallest of the six consecutive integers?
+> Six consecutive integers
+>
+> The product of six consecutive positive integers is a 12-digit number of the form
+>
+> abb cdd cdd abb,
+>
+> where the digits a, b, c and d are themselves, in a suitable order, consecutive digits. What is the smallest of the six consecutive integers?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0074
+[[Quesiti/src_kangourou_2023_junior_squadre_f2#q10|src_kangourou_2023_junior_squadre_f2__Q10]]
 
 
 
@@ -352,11 +427,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n with side Qn greater than 2022*
+*What is the smallest value of n such that the length of the side of Qn exceeds 2022?*
 
-> The squares A Q0 square with side 3 is covered by a Q1 square (different from Q0) whose sides each contain a Q0 vertex. The same is done by covering Q1 with a Q2 square (different from Q1) whose sides each contain a Q1 vertex. This is done several times following this rule until you get a Qn square. If the squares after Q0 are chosen appropriately, what is the smallest value of n such that the length of the Qn side exceeds 2022?
+> The squares
+>
+> A square Q0 of side 3 is covered by a square Q1 (different from Q0) whose sides each contain a vertex of Q0. The same thing is done by covering Q1 with a square Q2 (different from Q1) whose sides each contain a vertex of Q1. One proceeds in this way several times, keeping to this rule, until a square Qn is obtained. If the squares after Q0 are chosen suitably, what is the smallest value of n such that the length of the side of Qn exceeds 2022?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** 0019
+[[Quesiti/src_kangourou_2023_junior_squadre_f2#q11|src_kangourou_2023_junior_squadre_f2__Q11]]
 
 
 
@@ -383,11 +465,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many of the first 2023 Fibonacci numbers leave a remainder of 2 mod 3
+*How many of the first 2023 terms of the Fibonacci sequence leave remainder 2 when they are divided by 3?*
 
-> Fibonacci The sequence of integers called di Fibonacci is defined as follows: the first two terms are both 1, from the third to the next each term is the sum of the two preceding it. How many of the first 2023 terms in the Fibonacci sequence leave a remainder of 2 when divided by 3?
+> Fibonacci
+>
+> The sequence of integers called the Fibonacci sequence is defined as follows: the first two terms are both 1, and from the third onwards every term is the sum of the two that precede it. How many of the first 2023 terms of the Fibonacci sequence leave remainder 2 when they are divided by 3?
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0759
+[[Quesiti/src_kangourou_2023_junior_squadre_f2#q12|src_kangourou_2023_junior_squadre_f2__Q12]]
 
 
 
@@ -415,11 +504,18 @@ How many of the first 2023 Fibonacci numbers leave a remainder of 2 mod 3
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum paths of a pawn on an 8x8 chessboard*
+*How many different paths require the least possible number of moves?*
 
-> A pawn is placed in the first upper left-hand square of a chessboard 8 × 8 (square (1, 1)) and must reach the last lower right-hand square of the chessboard (square (8, 8)). Each move consists of moving the pawn from each square in which it is to an adjacent square, that is, it shares a side with it. How many different routes require as few moves as possible?
+> The piece
+>
+> A piece is placed in the first cell at the top left of an 8 × 8 chessboard (cell (1, 1)) and must reach the last cell at the bottom right of the chessboard (cell (8, 8)). Each move consists in moving the piece from whatever cell it is in to an adjacent cell, that is, one that shares a side with it. How many different paths require the least possible number of moves?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 3432
+[[Quesiti/src_kangourou_2023_junior_squadre_f2#q13|src_kangourou_2023_junior_squadre_f2__Q13]]
 
 
 
@@ -447,11 +543,18 @@ How many of the first 2023 Fibonacci numbers leave a remainder of 2 mod 3
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of second common terms progressions*
+*What is the sum of all these possible second common terms?*
 
-> Arithmetic progressions On two arithmetic progressions with integer common difference, only the following information is available. One has common difference 76, the other has initial term 20, the first common term of both is 95. Depending on the missing information, several possibilities for the second common term are open. What is the sum of all these possible second common terms?
+> Arithmetic progressions
+>
+> About two arithmetic progressions with integer common difference, only the following information is available. One has common difference 76, the other has first term 20, and the first term common to both is 95. Depending on the missing information, several possibilities open for the second common term. What is the sum of all these possible second common terms?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 9994
+[[Quesiti/src_kangourou_2023_junior_squadre_f2#q14|src_kangourou_2023_junior_squadre_f2__Q14]]
 
 
 
@@ -482,11 +585,15 @@ How many of the first 2023 Fibonacci numbers leave a remainder of 2 mod 3
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many friends does the mayor have?
+*How many friends does the mayor have?*
 
-> There are 2,023 people living in a village, and one of them is the mayor. Whatever two residents other than the mayor are chosen, they have a different number of friends among the villagers (it is understood that, among the friends of a resident, he himself must be excluded and that, if A is a friend of B, B is a friend of A). How many friends does the mayor have? (Write 9999 if you believe the answer is not uniquely determined.)
-> 
->  
-> Questions and solutions
+> The mayor
+>
+> In a town 2.023 people live, and one of them is the mayor. However one chooses two inhabitants different from the mayor, they have a different number of friends among the inhabitants of the town (it is understood that, among the friends of an inhabitant, he himself is to be excluded, and that if A is a friend of B, B is a friend of A). How many friends does the mayor have? (Write 9999 if you think the answer is not uniquely determined.)
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 1011
+[[Quesiti/src_kangourou_2023_junior_squadre_f2#q15|src_kangourou_2023_junior_squadre_f2__Q15]]

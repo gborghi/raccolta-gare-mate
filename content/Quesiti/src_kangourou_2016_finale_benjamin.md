@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*product and sum with the same units digit; possible figures*
+*Product and sum with the same combined digit; possible digits*
 
-> Two integers are such that their product and their sum have the same last digit (i.e. that of the units). Of the ten digits, what can be the last digit of the sum?
+> Two integers are such that their product and their sum have the same final digit (that is, the units digit). Among the ten digits, which digits can be the final digit of the sum?
 
-**Answer:** 0,2,4
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_finale_benjamin#qb1|src_kangourou_2016_finale_benjamin__QB1]]
 
 
 
@@ -59,13 +64,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*side of the largest triangle*
+*Side of the larger triangle*
 
 ![[src_kangourou_2016_finale_benjamin__probb2.png]]
 
-> Look at the figure. All the triangles you can see are equilateral: the sides of the black one (the smallest one) are $2$ cm long, the sides of the gray ones are all $5$ cm long. How long are the sides of the largest triangle (the one that contains them all)? As the figure suggests, the sides of grey triangles and black triangles that have vertices in common are on the same straight line. (see figure)
+> Observe the figure. All the triangles you can see are equilateral: the sides of the black one (the smallest) are $2$ cm long, and the sides of the grey ones are all $5$ cm long. How long are the sides of the largest triangle (the one that contains all of them)? As the figure suggests, the sides of the grey triangles and of the black triangle that share vertices lie on the same straight line. (see figure)
 
-**Answer:** 19
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_finale_benjamin#qb2|src_kangourou_2016_finale_benjamin__QB2]]
 
 
 
@@ -88,11 +97,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*bridge days added to holidays*
+*Bridge days added to public holidays*
 
-> In the strange republic of Kang the year is divided into the same months as ours, with the same length, but the holidays are those whose number is divisible by $6$ or is a prime number: the others are working days. If every "bridge" day were also added to the holidays, that is, a working day preceded and followed by a holiday, how many more holidays would there be in each year? (Remember that $1$ is not a prime number.)
+> In the strange Republic of Kang, the year is divided into the same months as ours, of the same length, but the holidays are the days whose number is divisible by $6$ or is a prime number; the rest are working days. If every "bridge day"—that is, a working day preceded and followed by a holiday—were also added to the holidays, how many more holiday days would there be each year? (Remember that $1$ is not a prime number.)
 
-**Answer:** 23 o 24
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_finale_benjamin#qb3|src_kangourou_2016_finale_benjamin__QB3]]
 
 
 
@@ -119,13 +132,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which one is better?*
+*Which one is advisable?*
 
-> To be promoted, a Fox student must take a closed-answer test, answering all questions correctly. You can choose between two envelopes: - envelope A containing $5$ questions, each with $2$ answers, - envelope B containing $2$ questions, each with $6$ answers.
-> 
-> Fox is unprepared and thinks he's answering questions at random. To try to get promoted, should he choose envelope A or envelope B?
+> To be promoted, student Fox must take a closed-response test and answer all questions correctly. They can choose between two envelopes:
+> - Envelope A, which contains $5$ questions, each with $2$ answers,
+> - Envelope B, which contains $2$ questions, each with $6$ answers.
+>
+> Fox is unprepared and thinks he'll answer the questions at random. To try to get promoted, should he choose envelope A or envelope B?
 
-**Answer:** envelope A
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_finale_benjamin#qb4|src_kangourou_2016_finale_benjamin__QB4]]
 
 
 
@@ -149,11 +168,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2016m network circular park, plant every 8m, same type every 64m*
+*Circular park, network 2016 m, planting every 8 m, same type every 64 m*
 
-> A circular park is surrounded by a fence of $2016$ meters. Each $8$ meters of fence has a plant and each $64$ meters the plants are of the same type. How many different types of plants can be along the fence at most?
+> A circular park is surrounded by a fence that is $2016$ metres long. Every $8$ metres of fence, there is a plant, and every $64$ metres, the plants are of the same type. What is the maximum number of different types of plants along the fence?
 
-**Answer:** 4
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_finale_benjamin#qb5|src_kangourou_2016_finale_benjamin__QB5]]
 
 
 
@@ -176,8 +200,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*frozen 2 kang with 2 euro*
+*Gelato 2, with 2 euros*
 
-> The currency of Kangland is the kang. In Kangcity, the eurokang exchange rate works like this: you get $1$ kang by paying $1{,}20$ euro, you get $1$ euro by paying $1$ kang and proportionally if you exchange lower-value coins. In both currencies, the minimum value coin is that of a cent; any amount of money can be changed and the result of the change, if not expressed by an integer of cents, is rounded up to the nearest cent. I'm in Kangcity and I only have euros. Is there a (legal) way to buy a $2$ kang ice cream with only $2$ euros? If yes, what is the minimum number of exchanges that I can make?
+> The currency of Kanglandia is the kang. In Kangcity, the euro–kang exchange rate works like this: you get $1$ kangs by paying $1{,}20$ euros, you get $1$ euros by paying $1$ kangs, and proportionally if you exchange currencies of lower value. In both currencies, the smallest-denomination coin is the one-cent coin; you can exchange any amount of money, and if the result of the exchange cannot be expressed as a whole number of cents, it is rounded up to the nearest cent. I am in Kangcity and I have only euros. Is there a (lawful) way to buy an ice cream that costs $2$ kangs while spending only $2$ euros? If so, what is the minimum number of exchanges that will allow me to do it?
 
-**Answer:** yes, 40
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_finale_benjamin#qb6|src_kangourou_2016_finale_benjamin__QB6]]

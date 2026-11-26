@@ -33,11 +33,20 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-Question with multiple replies from February 2005 No.1
+*Multiple-choice question, February 2005, No. 1*
 
-> Edward went on vacation to the city of Altanbulat. His plane, on its way, departed from Milan at 13:00 and arrived in Altanbulat at 9:00 the following day (local time). The return flight instead departed from Altanbulat at 9:00 and landed at 15:00 on the same day in Milan (again, all times indicated are according to the local time zone). Assuming that the two journeys had the same actual duration, what is the time zone difference between Italy and Altanbulat?
-> 
-> **(A)** Less than three hours **(B)** more than three hours, but less than six **(C)** more than six hours, but less than nine **(D)** more than nine hours **(E)** cannot be determined.
+> Edoardo went on vacation to the city of Altanbulat. On the outward journey, his plane departed from Milan at 13:00 and arrived in Altanbulat at 9:00 the following day (local time). The return flight, however, departed from Altanbulat at 9:00 and landed in Milan at 15:00 on the same day (again, all times indicated are in local time zones). Assuming that the two journeys had the same actual duration, what is the time zone difference between Italy and Altanbulat?
+>
+> **(A)** Less than three hours
+> **(B)** More than three hours but less than six
+> **(C)** More than six hours but less than nine
+> **(D)** More than nine hours
+> **(E)** It cannot be determined.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_febbraio_2005#q01|src_febbraio_2005__Q01]]
 
 
 
@@ -68,19 +77,24 @@ Question with multiple replies from February 2005 No.1
 <div class="qlang-split" data-lang="en"></div>
 
 
-Question with multiple answers February 2005 No.2
+*Multiple-choice question, February 2005, No. 2*
 
-> $a$, $b$, $c$ are three positive real numbers such as $a + b + c = 1$. Which of the following conditions is equivalent to requiring $a$, $b$, $c$ to be the dimensions of the sides of a non-degenerate triangle?
-> 
+> $a$, $b$, $c$ are three positive real numbers such that $a + b + c = 1$. Which of the following conditions is equivalent to requiring that $a$, $b$, $c$ be the side lengths of a non-degenerate triangle?
+>
 > **(A)** $0 < |b - a| < \dfrac{1}{2}$, $0 < |c - b| < \dfrac{1}{2}$, $0 < |c - a| < \dfrac{1}{2}$
-> 
+>
 > **(B)** $a < \dfrac{1}{2}$, $b < \dfrac{1}{2}$, $c < \dfrac{1}{2}$
-> 
+>
 > **(C)** $a + b < \dfrac{1}{2}$, $b + c < \dfrac{1}{2}$, $c + a < \dfrac{1}{2}$
-> 
+>
 > **(D)** $a \leq \dfrac{1}{3}$, $b \leq \dfrac{1}{3}$, $c \leq \dfrac{1}{3}$
-> 
-> **(E) ** none of the above.
+>
+> **(E)** none of the above.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_febbraio_2005#q02|src_febbraio_2005__Q02]]
 
 
 
@@ -114,13 +128,27 @@ Question with multiple answers February 2005 No.2
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three integers a,b,c measuring the sides of a non-degenerating triangle*
+*Three positive numbers a, b, c are the side lengths of a non-degenerate triangle*
 
-> Five friends each make the following statements: "Even if you choose one of us, the other four lie". "Even if you choose one of us, the other four are telling the truth". - "No matter who you choose, there's someone else who tells the truth". - "There's one of us like everyone else is telling the truth". - "One of us is like everyone else".
-> 
-> Which of the following can be inferred from the foregoing?
-> 
-> **(A) ** Exactly 1 is telling the truth. **(B) ** Exactly 2 are telling the truth. Exactly 3 are telling the truth. Exactly four are telling the truth. **(E) ** It is not possible to determine the number of people who are telling the truth.
+> Five friends make the following statements, respectively:
+> - "Whichever one of us is chosen, the other 4 are lying."
+> - "Whichever one of us is chosen, the other 4 are telling the truth."
+> - "Whichever one of us is chosen, there is another one who is telling the truth."
+> - "There is one of us such that every other one is telling the truth."
+> - "There is one of us such that every other one is lying."
+>
+> Which of the following statements can be deduced from the preceding ones?
+>
+> **(A)** Exactly 1 is telling the truth.
+> **(B)** Exactly 2 are telling the truth.
+> **(C)** Exactly 3 are telling the truth.
+> **(D)** Exactly 4 are telling the truth.
+> **(E)** It is not possible to determine the number of those who are telling the truth.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_febbraio_2005#q03|src_febbraio_2005__Q03]]
 
 
 
@@ -144,11 +172,17 @@ Question with multiple answers February 2005 No.2
 <div class="qlang-split" data-lang="en"></div>
 
 
-*dado, three gifts*
+*given, three regagli*
 
-> How many polynomials $p(x)$ of second degree, with integer coefficients and with 2 integer roots, such as $p(8) = 17$? (Note: remember that integers can be positive, negative or zero.)
-> 
-> **(A) ** 1 **(B) ** 2 **(C) ** 3 **(D) ** a finite number greater than 3 **(E) ** infinite.
+> How many $p(x)$ quadratic polynomials with integer coefficients and two integer roots are there such that $p(8) = 17$? (Note: recall that integers can be positive, negative, or zero.)
+>
+> **(A)** 1 **(B)** 2 **(C)** 3 **(D)** a finite number greater than 3 **(E)** infinitely many.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_febbraio_2005#q04|src_febbraio_2005__Q04]]
 
 
 
@@ -171,11 +205,16 @@ Question with multiple answers February 2005 No.2
 <div class="qlang-split" data-lang="en"></div>
 
 
-*above the parameter*
+*supremum of the parameter*
 
-> $\overline{AB}$ and $\overline{CD}$ are two segments, both long 4, having the mean point $M$ in common and $\widehat{BMD} = 60°$. We indicate with $X$ the sum of all but the points that are more than 1 away from at least one of the two segments. What is the surface area of $X$?
-> 
+> $\overline{AB}$ and $\overline{CD}$ are two line segments, both 4 units long, having the common midpoint $M$ and such that $\widehat{BMD} = 60°$. Let $X$ denote the set of all and only those points that are at a distance of at most 1 from at least one of the two segments. What is the area of $X$?
+>
 > **(A)** $8 - \dfrac{4}{3}\sqrt{3}$ **(B)** $16 - \dfrac{8}{3}\sqrt{3}$ **(C)** $16 - \dfrac{4}{3}\sqrt{3} + \pi$ **(D)** $16 - \dfrac{8}{3}\sqrt{3} + 2\pi$ **(E)** $8 + 2\pi$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_febbraio_2005#q05|src_febbraio_2005__Q05]]
 
 
 
@@ -199,11 +238,17 @@ Question with multiple answers February 2005 No.2
 <div class="qlang-split" data-lang="en"></div>
 
 
-Party with three girls and three boys around a round table
+*A party with three girls and three boys around a round table*
 
-> At a party, three girls and three boys randomly sit at a round table. What are the odds that there aren't two people of the same sex sitting next to each other?
-> 
+> At a party, three girls and three boys casually sit down at a round table. What is the probability that no two people of the same sex sit next to each other?
+>
 > **(A)** $\dfrac{1}{6}$ **(B)** $\dfrac{1}{10}$ **(C)** $\dfrac{3}{20}$ **(D)** $\dfrac{1}{12}$ **(E)** $\dfrac{11}{36}$.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_febbraio_2005#q06|src_febbraio_2005__Q06]]
 
 
 
@@ -227,11 +272,17 @@ Party with three girls and three boys around a round table
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of solutions of the equation with absolute value*
+*Maximum number of solutions of an absolute value equation*
 
-> If the real parameter $a$ varies, what is the maximum number of solutions for the equation $\bigl||x - 1| - 4\bigr| + x = a$?
-> 
-> **(A) ** 1 **(B) ** 2 **(C) ** 3 **(D) ** 4 **(E) ** may have an infinite number of them.
+> As the real parameter $a$ varies, what is the maximum number of solutions to the equation $\bigl||x - 1| - 4\bigr| + x = a$?
+>
+> **(A)** 1 **(B)** 2 **(C)** 3 **(D)** 4 **(E)** It can have infinitely many.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_febbraio_2005#q07|src_febbraio_2005__Q07]]
 
 
 
@@ -316,11 +367,16 @@ Party with three girls and three boys around a round table
 \end{document}
 ```
 
-> Given a unit-side cube (see figure), consider the plane to which the $\overline{AB}$ and $\overline{CD}$ pins belong and the plane to which the $\overline{AE}$ and $\overline{FD}$ pins belong. These two planes cut the cube into four parts. What is the maximum volume of these parts?
-> 
+> Given a cube of unit side length (see figure), consider the plane containing edges $\overline{AB}$ and $\overline{CD}$, and the plane containing edges $\overline{AE}$ and $\overline{FD}$. These two planes cut the cube into four parts. What is the greatest of the volumes of these parts?
+>
 > **(A)** $\dfrac{1}{4}$ **(B)** $\dfrac{1}{3}$ **(C)** $\dfrac{\sqrt{2}}{4}$ **(D)** $\dfrac{3}{8}$ **(E)** $\dfrac{1}{2}$.
-> 
+>
 > (see figure)
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_febbraio_2005#q08|src_febbraio_2005__Q08]]
 
 
 
@@ -344,11 +400,17 @@ Party with three girls and three boys around a round table
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real numbers a,b positive integers and maximum of maximum*
+*Real numbers a, b, positive integers, and the maximum of the maximum*
 
-> Alberto and Barbara are playing with a dice. After a while, they realize that the dice are tricked, and that the number 1 comes out more often than the other 5 numbers (which instead remain unlikely). So they decide that when it comes out 1, that shot is canceled and it's fired again. If you keep rolling the dice until you get 2 valid rolls, what is the probability that the sum of the 2 valid rolls is 8?
-> 
+> Alberto and Barbara are playing with a die. After a while, they realize that the die is rigged and that the number 1 comes up more often than the other 5 numbers (which, however, remain equally likely). They therefore decide that when 1 comes up, that roll is voided and the die is rolled again. If they keep rolling the die until they get 2 valid rolls, what is the probability that the sum of the two valid numbers that come up is 8?
+>
 > **(A)** $\dfrac{3}{25}$ **(B)** $\dfrac{1}{6}$ **(C)** $\dfrac{1}{5}$ **(D)** $\dfrac{6}{25}$ **(E)** $\dfrac{1}{4}$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_febbraio_2005#q09|src_febbraio_2005__Q09]]
 
 
 
@@ -372,11 +434,17 @@ Party with three girls and three boys around a round table
 <div class="qlang-split" data-lang="en"></div>
 
 
-It's a game of chips, a winning strategy.
+*Token-based game, winning strategy*
 
-> They are $a$, $b$ positive integers prime to each other. What is the maximum value that the maximum common divisor between $(a + b)^2$ and $a - b$ can assume?
-> 
-> **(A) ** 3 **(B) ** 4 **(C) ** 16 **(D) ** 32 **(E) ** may be large as desired.
+> Let $a$ and $b$ be positive integers that are coprime. What is the maximum value that the greatest common divisor of $(a + b)^2$ and $a - b$ can take?
+>
+> **(A)** 3 **(B)** 4 **(C)** 16 **(D)** 32 **(E)** It can be arbitrarily large.
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_febbraio_2005#q10|src_febbraio_2005__Q10]]
 
 
 
@@ -398,9 +466,15 @@ It's a game of chips, a winning strategy.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies between 1 and 2005 with equal number of divisors*
+*Integers between 1 and 2005 inclusive with an even number of divisors*
 
-> How many integers between 1 and 2005 (included) have an odd number of even digits?
+> How many integers between 1 and 2005 (inclusive) have an odd number of even digits?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_febbraio_2005#q11|src_febbraio_2005__Q11]]
 
 
 
@@ -421,9 +495,14 @@ It's a game of chips, a winning strategy.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*volume of similar triangles*
+*Volume of similar triangles*
 
-> $ABC$ is a triangle with $AC = BC$ and $\widehat{ACB} < 60°$. Two points on the sides of $A'$ and $B'$ and $AC$ are $AA' = BB' = AB$ respectively. Whether $C'$ the intersection of $\overline{AA'}$ with $\overline{BB'}$. Knowing that $AC' = AB'$ and $BC' = BA'$, how much is the angle width in degrees $\widehat{ACB}$?
+> $ABC$ is a triangle with $AC = BC$ and $\widehat{ACB} < 60°$. Let $A'$ and $B'$ be two points on sides $BC$ and $AC$, respectively, such that $AA' = BB' = AB$. Let $C'$ be the intersection of $\overline{AA'}$ and $\overline{BB'}$. Given that $AC' = AB'$ and $BC' = BA'$, what is the measure in degrees of angle $\widehat{ACB}$?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_febbraio_2005#q12|src_febbraio_2005__Q12]]
 
 
 
@@ -446,7 +525,12 @@ It's a game of chips, a winning strategy.
 
 *diagonal and ordering*
 
-> On a chessboard $75 \times 75$ the rows and columns are numbered from 1 to 75. Clear wants to put a pad in every box that has an equal coordinate and the other multiple of 3. How many pawns will he have on the chessboard?
+> On a chessboard $75 \times 75$, the rows and columns are numbered from 1 to 75. Chiara wants to place a piece in exactly those squares where one coordinate is even and the other is a multiple of 3. How many pieces will she have in total on the chessboard?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_febbraio_2005#q13|src_febbraio_2005__Q13]]
 
 
 
@@ -467,9 +551,14 @@ It's a game of chips, a winning strategy.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Differences between entry centres and tangent segments*
+*Differences between entry centers and tangent segments*
 
-> Two $C_1$ and $C_2$ centers $A$ and $B$ are tangent externally in $T$. either $BD$ a tangent segment to $C_1$ in $D$ and $TC$ the tangent segment to both in $T$ with $C \in BD$. If $AT$ is 80 and $BT$ is 90 length, what is the length of $CD$?
+> Two circles $C_1$ and $C_2$ with centers $A$ and $B$ are externally tangent at $T$. Let $BD$ be a line segment tangent to $C_1$ at $D$, and let $TC$ be the line segment tangent to both at $T$ with $C \in BD$. If $AT$ is 80 units long and $BT$ is 90 units long, what is the length of $CD$?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_febbraio_2005#q14|src_febbraio_2005__Q14]]
 
 
 
@@ -491,9 +580,15 @@ It's a game of chips, a winning strategy.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordered pairs (x,y) of positive integers and the ratio x+y(x+y) = 2005*
+*Ordered pairs (x,y) of positive integers and the relation x+y(x+y)=2005*
 
-> How many ordered pairs of positive integers $(x,\, y)$ and $y$ satisfy the $xy + 5(x + y) = 2005$ relationship?
+> How many ordered pairs $(x,\, y)$ of positive integers $x$ and $y$ satisfy the relation $xy + 5(x + y) = 2005$?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_febbraio_2005#q15|src_febbraio_2005__Q15]]
 
 
 
@@ -514,9 +609,14 @@ It's a game of chips, a winning strategy.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Question No 16 of the Committee on Budgets
+*Question, February 2005, No. 16*
 
-> Either $ABC$ a rectangular triangle in $A$, with $AB > AC$; or $AH$ the height relative to the hypotenuse. On the $BC$ straight $D$ shall be taken such that $H$ is the mean point of $BD$; and then $E$ the foot of the perpendicular led from $C$ to $AD$. Show that $EH = AH$.
+> Let $ABC$ be a right triangle in $A$, with $AB > AC$; let $AH$ be the altitude corresponding to the hypotenuse. On the line $BC$, take $D$ such that $H$ is the midpoint of $BD$; then let $E$ be the foot of the perpendicular drawn from $C$ to $AD$. Prove that $EH = AH$.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_febbraio_2005#q16|src_febbraio_2005__Q16]]
 
 
 
@@ -541,13 +641,18 @@ Question No 16 of the Committee on Budgets
 <div class="qlang-split" data-lang="en"></div>
 
 
-Question No 17 of the Council in February 2005
+*Question, February 2005, No. 17*
 
-> Determine all pairs of positive integers $(m,\, n)$ and $n$ such that:
-> 
+> Determine all pairs $(m,\, n)$ of positive integers $m$ and $n$ such that
+>
 > $$\frac{3^m + 3}{2^n + 2^{n-1}}$$
-> 
-> It's a whole number.
+>
+> is an integer.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_febbraio_2005#q17|src_febbraio_2005__Q17]]
 
 
 
@@ -573,6 +678,12 @@ Question No 17 of the Council in February 2005
 
 > [problem not present in the document]
 
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_febbraio_2005#q18|src_febbraio_2005__Q18]]
+
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra"></span>
@@ -592,9 +703,14 @@ Question No 17 of the Council in February 2005
 <div class="qlang-split" data-lang="en"></div>
 
 
-Question No 19 of the Committee on Budgets
+*Question, February 2005, No. 19*
 
 > [problem not present in the document]
+
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_febbraio_2005#q19|src_febbraio_2005__Q19]]
 
 
 
@@ -615,9 +731,14 @@ Question No 19 of the Committee on Budgets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles and angles with two lines in a given side square*
+*Triangles and angles formed by two lines in a square of given side length*
 
 > [problem not present in the document]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_febbraio_2005#q20|src_febbraio_2005__Q20]]
 
 
 
@@ -638,9 +759,14 @@ Question No 19 of the Committee on Budgets
 <div class="qlang-split" data-lang="en"></div>
 
 
-Question No 21 of February 2005
+*Question, February 2005, No. 21*
 
 > [problem not present in the document]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_febbraio_2005#q21|src_febbraio_2005__Q21]]
 
 
 
@@ -662,9 +788,15 @@ Question No 21 of February 2005
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (x,d) of positive integers and the ratio x+d(x+d) = 2005*
+*Pairs (x,d) of positive integers and the relation x+d(x+d)=2005*
 
 > [problem not present in the document]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_febbraio_2005#q22|src_febbraio_2005__Q22]]
 
 
 
@@ -686,8 +818,11 @@ Question No 21 of February 2005
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ratio of the areas*
+*ratio of areas*
 
 > [problem not present in the document]
 
-**Answer:** 36/350 (i.e. 36 in the numerator of the reduced fraction)
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_febbraio_2005#q23|src_febbraio_2005__Q23]]

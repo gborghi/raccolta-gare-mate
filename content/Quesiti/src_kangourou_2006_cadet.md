@@ -43,7 +43,11 @@ level: kangourou
 > D) 126
 > E) 12
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_cadet#q01|src_kangourou_2006_cadet__Q01]]
 
 
 
@@ -72,11 +76,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The most likely event in the rolling of a die
+*The most likely event when rolling a die*
 
-> Let's throw a die with faces numbered 1 to 6. Which of the following is most likely? The output of a number A) less than 5 B) odd C) divisible by 3 D) greater than 3 E) even
+> We roll a (unbiased) die with faces numbered from 1 to 6. Which of the following events is most likely? The outcome being a number
+> A) less than 5
+> B) odd
+> C) divisible by 3
+> D) greater than 3
+> E) pair
 
-**Answer:** A
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_cadet#q02|src_kangourou_2006_cadet__Q02]]
 
 
 
@@ -110,9 +123,18 @@ The most likely event in the rolling of a die
 
 ![[src_kangourou_2006_cadet__prob3.png]]
 
-> The O-point is the center of the regular pentagon in the figure. What percentage of the pentagon is shaded? A) 10% B) 20% C) 25% D) 30% E) 40%
+> Point O is the center of the regular pentagon in the figure. What percentage of the pentagon is shaded?
+> A) 10%
+> B) 20%
+> C) 25%
+> D) 30%
+> E) 40%
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_cadet#q03|src_kangourou_2006_cadet__Q03]]
 
 
 
@@ -142,11 +164,20 @@ The most likely event in the rolling of a die
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of grandchildren from grandmother's cake*
+*Number of grandchildren from Grandma's little cakes*
 
-> One grandmother tells her grandchildren, "If I made two cakes for each of you, I would have enough dough left to make exactly three more cakes. But I can't make three cakes for each of you, because I wouldn't have dough for the last two cakes". How many grandchildren does that grandmother have? A) 6 B) 5 C) 4 D) 3 E) 2
+> A grandmother says to her grandchildren, "If I were to make 2 little cakes for each of you, I'd have enough batter left to make exactly 3 more little cakes. But I can't make 3 little cakes for each of you, since I wouldn't have enough batter for the last 2 little cakes." How many grandchildren does that grandmother have?
+> A) 6
+> B) 5
+> C) 4
+> D) 3
+> E) 2
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_cadet#q04|src_kangourou_2006_cadet__Q04]]
 
 
 
@@ -176,11 +207,21 @@ The most likely event in the rolling of a die
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the triangle on square sheet*
+*Area of a triangle on graph paper*
 
-> The figure represents a square sheet on which a triangle is drawn. If the side of each square is 1 centimetre, the area of the triangle is (in square centimetres) A) 25.5 B) 25.75 C) 26.25 D) 28 E) 24.7
+> The figure depicts a grid paper sheet.
+> on which a triangle is drawn. If each small square has a side length of 1 centimeter, the area of the triangle is (in square centimeters)
+> A) 25,5
+> B) 25,75
+> C) 26,25       
+> D) 28 
+> E) 24,7
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_cadet#q05|src_kangourou_2006_cadet__Q05]]
 
 
 
@@ -220,25 +261,21 @@ The most likely event in the rolling of a die
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Centiliters remaining in the bottle after pouring*
+*Centiliters remaining in the small bottle after pouring*
 
-> A 1/3 liter bottle is filled to 3/4 of its capacity. How many centiliters of liquid will it contain after pouring out 20 centiliters into a glass?
-> (A) 24.5 (B) 7.5 (C) 5 (D) 13 (E) 0 (i.e., it will be empty)
-> Page
-> Page 17
-> 17
-> Kang 2006
-> Kang 2006
-> O
-> Cadet_06bis.qxp  20/02/2006  23.52  Page 17
-> 
-> Page
-> Page 18
-> 18
-> Kang 2006
-> Kang 2006
+> A small bottle holding 1/3 of a liter is three-quarters full. How many centiliters of liquid will it contain after 20 centiliters have been poured into a glass?
+> A) 24,5          B) 7,5 
+> C) 5        D) 13
+> E) 0 (i.e., it will be empty)
+> Pag. Pag. 17 17 Kang 2006 Kang 2006 O Cadet_06bis.qxp 20/02/2006 23.52 Page 17
+>
+> Pag. Pag. 18 18 Kang 2006 Kang 2006
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_cadet#q06|src_kangourou_2006_cadet__Q06]]
 
 
 
@@ -272,9 +309,19 @@ The most likely event in the rolling of a die
 
 *Students who participated in both competitions*
 
-> A survey of 2006 students in Milan highlighted that last year 1500 of them participated in the mathematics competition "Kangourou" and 1200 in the literary competition "Young Writers". If only 6 of the students interviewed did not participate in any competition, how many participated in both competitions? A) 300 B) 500 C) 600 D) 700 E) 1000
+> A survey of 2,006 students in Milan revealed that last year, 1,500 of them took part in the "Kangourou" mathematics competition, and 1,200 took part in the "Young Writers" literature competition. If only 6 of the students surveyed did not take part in any competition, how many, then, took part in both competitions?
+> A) 300
+> B) 500
+> C) 600
+> D) 700
+> E) 1000
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_cadet#q07|src_kangourou_2006_cadet__Q07]]
 
 
 
@@ -303,11 +350,20 @@ The most likely event in the rolling of a die
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total surface area of the two-cubic solid*
+*Total surface area of the solid with two cubes*
 
-> The solid in the figure consists of two cubes. The smallest, whose side is 1 centimeter long, is entirely resting on the upper face of the larger cube whose side measures 3 centimeters. What is the total surface area of the solid measured in square centimetres? A) 56 B) 58 C) 60 D) 62 E) 64
+> The solid in the figure is made up of two cubes. The smaller cube, whose side is 1 centimeter long, rests entirely on the top face of the larger cube, whose side measures 3 centimeters. What is the total surface area of the solid, in square centimeters?
+> A) 56 
+> B) 58 
+> C) 60
+> D) 62 
+> E) 64
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_cadet#q08|src_kangourou_2006_cadet__Q08]]
 
 
 
@@ -336,11 +392,20 @@ The most likely event in the rolling of a die
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum perimeter of triangle with two sides of 7 and one-third of an integer*
+*Maximum perimeter of a triangle with two sides of length 7 and an integer third side*
 
-> Two sides of a triangle (not degenerate) measure 7 centimeters each. The length of the third side is an integer of centimeters. How many centimeters can the perimeter of the triangle be measured at most? A) 14 B) 15 C) 21 D) 27 E) 28
+> Two sides of a (non-degenerate) triangle each measure 7 centimeters. The length of the third side is a whole number of centimeters. What is the maximum possible perimeter of the triangle in centimeters?
+> A) 14
+> B) 15
+> C) 21
+> D) 27
+> E) 28
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_cadet#q09|src_kangourou_2006_cadet__Q09]]
 
 
 
@@ -371,11 +436,22 @@ The most likely event in the rolling of a die
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of girls with distinct friendships
+*Maximum number of girls with distinct friendships*
 
-> There are 21 students in a class and there are no two girls who are friends with the same number of boys in the class. How many girls can be in that class at most? A) 13 B) 10 C) 9 D) 12 E) 11 Questions from N. 11 to N. 20 are worth 4 points each.
+> In a class there are 21 students, and in that class there are no two girls who are friends with the same number of boys in the class. What is the maximum number of girls that can be in that class?
+> A) 13
+> B) 10
+> C) 9
+> D) 12
+> E) 11
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_cadet#q10|src_kangourou_2006_cadet__Q10]]
 
 
 
@@ -403,16 +479,20 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What the pencil case is like based on the logical conditions*
+*How is the case made from logical conditions?*
 
-> My pencil case is of a single color: if it is blue, it is round; if it is square, it is red; it is blue or yellow; if it is yellow, it is square; it is square or round. What is my pencil case like?
+> My pencil case is a single color: if it's blue, it's round; if it's square, it's red; it's blue or yellow; if it's yellow, it's square; it's square or round. What is my pencil case like?
 > A) red and square  
-> B) red and round    
+> B) red and round  
 > C) square and blue  
-> D) blue and round
+> D) blue and round  
 > E) yellow and round
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_cadet#q11|src_kangourou_2006_cadet__Q11]]
 
 
 
@@ -443,11 +523,20 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Price of the tent as a percentage of contributions*
+*Tent price based on percentages of contributions*
 
-> Andrea, Bruno, and Carlo combined their savings to buy a tent for camping. Carlo contributed 60% of the price, Andrea contributed 40% of the remaining share. Bruno added the missing 30 euros. What was the price in euros for the tent? A) 50 B) 60 C) 125 D) 150 E) 200
+> Andrea, Bruno, and Carlo pooled their savings to buy a camping tent. Carlo contributed 60% of the price, and Andrea contributed 40% of the remaining share. Bruno added the missing 30 euros. What was the price of the tent, in euros?
+> A) 50 
+> B) 60 
+> C) 125 
+> D) 150 
+> E) 200
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_cadet#q12|src_kangourou_2006_cadet__Q12]]
 
 
 
@@ -487,13 +576,22 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seconds to watch the second train parade*
+*Seconds to watch the second train pass by*
 
-> Two trains of the same length are travelling to a meeting Cadet_06bis.qxp 20/02/2006 23.52 Page 18
-> 
-> on a dual-track line, the first at 100 km/h and the second at 120 km/h. When they cross, from a window of the second train, a passenger observes that it takes exactly six seconds for the first train to completely slide in front of them. In how many seconds does a passenger on the first train see the second train parade in front of him? A) 5 B) 6 C) between 6 and 7 D) 7 E) more than 7
+> Two trains of the same length are traveling towards each other Cadet_06bis.qxp 20/02/2006 23.52 Page 18
+>
+> Page 19 19 In 2006 In 2006, on a double-track line, one train is going at 100 km/h and the other at 120 km/h. When they pass each other, from a window of the second train a passenger observes that it takes exactly 6 seconds for the first train to pass completely in front of him. In how many seconds does a passenger in the first train see the second train pass in front of him?
+> A) 5     
+> B) 6 
+> C) between 6 and 7 D) 7
+> E) more than 7
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_cadet#q13|src_kangourou_2006_cadet__Q13]]
 
 
 
@@ -525,9 +623,18 @@ Maximum number of girls with distinct friendships
 
 *Number of blue aliens on STAR 1*
 
-> An alien convoy crosses space aboard the starship STAR 1. They're three different colors: green, purple and blue. The greens have two tentacles, the lilacs have three, and the blues have five. The greens are as many as the lilacs and the blues are 10 more than the greens. Together they have 250 tentacles. How many blue aliens travel on STAR 1? A) 15 B) 20 C) 25 D) 30 E) 40
+> A delegation of aliens is traveling through space aboard the STAR 1 spaceship. They come in three different colors: green, lilac, and blue. The green ones have two tentacles, the lilac ones have three, and the blue ones have five. There are as many green aliens as lilac ones, and there are 10 more blue aliens than green ones. Together, they have 250 tentacles. How many blue aliens are traveling on STAR 1?
+> A) 15
+> B) 20
+> C) 25
+> D) 30
+> E) 40
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_cadet#q14|src_kangourou_2006_cadet__Q14]]
 
 
 
@@ -559,11 +666,20 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of jumps to cover 997 metres*
+*Minimum number of jumps to cover 997 meters*
 
-> When the Kangaroo Jumpy pushes with his left leg, he jumps 2 meters; when he pushes with his right, he jumps 4 meters; finally, when he pushes with both legs, he jumps 7 meters. What's the minimum number of jumps sufficient for Jumpy to cover an exact distance of 997 meters? A) 146 B) 145 C) 144 D) 143 E) 142
+> When the kangaroo Jumpy pushes off with its left leg, it jumps 2 meters; when it pushes off with its right leg, it jumps 4 meters; finally, when it pushes off with both legs, it jumps 7 meters. What is the minimum number of jumps sufficient for Jumpy to cover a distance of exactly 997 meters?
+> A) 146
+> B) 145
+> C) 144
+> D) 143
+> E) 142
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_cadet#q15|src_kangourou_2006_cadet__Q15]]
 
 
 
@@ -590,11 +706,18 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of the large white square in the rectangle*
+*The side of the large white square within the rectangle*
 
-> A rectangle is divided into 7 squares. The side of the stacked gray squares on the right measures 8. How big is the side of the great white square? A) 15 B) 18        C) 20 D) 24           E) 30
+> A rectangle is divided into 7 squares. The side length of the gray squares arranged in a column on the right is 8. What is the side length of the large white square?
+> A) 15
+> B) 18        C) 20
+> D) 24           E) 30
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_cadet#q16|src_kangourou_2006_cadet__Q16]]
 
 
 
@@ -622,11 +745,20 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number increases by 500% to square*
+*Which number, when increased by 500%, is squared?*
 
-> What number increases 500% when you square it? A) 6 B) 10 C) 7 D) 8 E) 5
+> Which number increases by 500% when squared?
+> A) 6
+> B) 10
+> C) 7
+> D) 8
+> E) 5
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_cadet#q17|src_kangourou_2006_cadet__Q17]]
 
 
 
@@ -652,11 +784,17 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-congruent isosceles triangles area 1 side 2*
+*Non-congruent isosceles triangles with area 1 and side length 2*
 
-> How many isosceles triangles (no two congruent) of area 1 have a side of length 2? A) 0                B) 1                C) 2                D) 3                E) 4
+> How many isosceles triangles (no two of which are congruent) with area 1 have a side of length 2?
+> A) 0                B) 1                C) 2                D) 3                E) 4
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_cadet#q18|src_kangourou_2006_cadet__Q18]]
 
 
 
@@ -702,28 +840,22 @@ Maximum number of girls with distinct friendships
 
 *Missing sum on the sides of the pebble hexagon*
 
-> At each vertex of the hexagon shown in the figure there was a certain number of pebbles; on each side, the sum of the pebbles that were present at the two adjacent vertices is reported. What is the missing sum?
->
+> At each of the vertices of the hexagon shown in the figure, there was a certain number of pebbles; on each side, the sum of the pebbles at the two adjacent vertices is indicated. What is the value of the missing sum?
 > A) 3
 > B) 4
 > C) 5
-> D) 6
+> D) 6 
 > E) 7
+> 8 5 7 10 11 ? Cadet_06bis.qxp 20/02/2006 23.52 Page 19
 >
-> 8
-> 5
-> 7
-> 10
-> 11
-> ?
-> 
-> Page
-> Page 20
-> 20
-> Kang 2006
-> Kang 2006
+> Pag. Pag. 20 20 Kang 2006 Kang 2006
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_cadet#q19|src_kangourou_2006_cadet__Q19]]
 
 
 
@@ -756,11 +888,22 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum routes from A to B avoiding obstacles*
+*Shortest paths from A to B while avoiding obstacles*
 
-> The figure shows a square divided into 25 squares, each of which is marked with the centre; 3 obstacles are marked with a thicker line. We want to go from A to B by going from one center to another only by vertical and/or horizontal lines, avoiding obstacles and the shortest path. How many routes from A to B meet all these conditions? A) 6 B) 8 C) 9 D) 11 E) 12 Questions from N. 21 to N. 30 are worth 5 points each.
+> The figure shows a square divided into 25 small squares, each of which has its center marked; three obstacles are marked with a thicker line. We want to go from A to B, moving from one center to another only along vertical and/or horizontal lines, avoiding the obstacles and taking the shortest route. How many paths from A to B satisfy all these conditions?
+> A) 6
+> B) 8
+> C) 9
+> D) 11
+> E) 12
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_cadet#q20|src_kangourou_2006_cadet__Q20]]
 
 
 
@@ -790,9 +933,17 @@ Maximum number of girls with distinct friendships
 
 *Divisibility of the sum of two integers given the product*
 
-> If the product of two integers is 25.32.5.73, then their sum A) could be divisible by 3 B) could be divisible by 5 C) could be divisible by 49 D) could be divisible by 8 E) can never be divisible by 8, nor by 5, nor by 49, nor by 3.
+> If the product of two integers is equal to 25.32.5.73, then their sum
+> A) could be divisible by 3 B) could be divisible by 5
+> C) could be divisible by 49 D) could be divisible by 8
+> E) can never be divisible by 8, nor by 5, nor by 49, nor by 3
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_cadet#q21|src_kangourou_2006_cadet__Q21]]
 
 
 
@@ -821,11 +972,21 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value a+b+ab with a^2b+ab^2=30*
+*Find the value of a+b+ab given that a^2b+ab^2=30*
 
-> If a and b are two positive integers such that a 2b +ab 2=30 then a +b +ab is A) 13 B) 10 C) 17 D) 31 E) 11
+> If a and b are two positive integers such that a²b + ab² = 30, then a + b + ab equals
+> A) 13
+> B) 10
+> C) 17
+> D) 31
+> E) 11
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_cadet#q22|src_kangourou_2006_cadet__Q22]]
 
 
 
@@ -852,15 +1013,17 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which anagram can appear in the second strip*
+*Which anagram can appear in the second strip?*
 
-> On the first strip you see 11 cards, each with two letters. On the
-> second you see the same cards arranged in a different order. Which of
-> the following writings can appear in the second row of the second strip of cards? 
-> A) ANJAMKILIOR       B) RLIIMKOJNAA            C) JANAMKILIRO
-> D) ANMAIKOLIRJ       E) RAONJMILIKA
+> On the first strip, you see 11 cards, each with two letters. On the second strip, you see the same cards arranged differently. Which of the following inscriptions could appear in the second row of the second strip of cards?
+> A) ANJAMKILIOR B) RLIIMKOJNAA C) JANAMKILIRO
+> D) ANMAIKOLIRJ E) RAONJMILIKA
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_cadet#q23|src_kangourou_2006_cadet__Q23]]
 
 
 
@@ -942,35 +1105,45 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First digit of the minimum number with sum 2006*
+*First digit of the smallest number whose digits sum to 2006*
 
-> What is the first digit of the smallest positive integer the sum of whose digits is 2006? A) 1 B) 3 C) 5 D) 6 E) 8 M I S S I S S I P P I K
->  
+> What is the first digit of the smallest positive integer whose digit sum is 2006?
+> A) 1
+> B) 3
+> C) 5
+> D) 6
+> E) 8
+> M I S S I S S I P P I K
+>
 > I
->  
+>
 > L
->  
+>
 > I
->  
+>
 > M
->  
+>
 > A
->  
+>
 > N
->  
+>
 > J
->  
+>
 > A
->  
+>
 > R
->  
+>
 > O P S I S I M I S S P I
->  
+>
 > A B Cadet_06bis.qxp 20/02/2006 23.52 Page 20
-> 
-> Pag. 21 21 Kang 2006 Kang
+>
+> Pag. Pag. 21 21 Kang 2006 Kang 2006
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_cadet#q24|src_kangourou_2006_cadet__Q24]]
 
 
 
@@ -1000,11 +1173,21 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum socks to be extracted for 7 pairs paired*
+*Minimum number of socks to be removed for 7 paired pairs*
 
-> Mother washed Gianni's socks - five pairs of black, 10 pairs of brown, and 15 pairs of gray - and asked him to put them away after pairing them for color. But Gianni put them all mixed up in a box. Now Gianni has to go on a seven-day camping trip: what is the minimum number of socks he can get out of the box, even in the dark, to make sure he has at least seven pairs of socks well matched? A) 16 B) 14 C) 35 D) 37 E) 18
+> Mom washed Gianni's socks—5 pairs black, 10 pairs brown, and 15 pairs gray—and asked him to put them away after pairing them by color. Instead, Gianni put all of them mixed together in a box. Now Gianni has to set off for a 7-day camp: what is the minimum number of socks he needs to draw from the box, even in the dark, to be sure he has at least 7 well-matched pairs of socks?
+> A) 16
+> B) 14
+> C) 35
+> D) 37
+> E) 18
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_cadet#q25|src_kangourou_2006_cadet__Q25]]
 
 
 
@@ -1041,11 +1224,21 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum E(1)+...+E(99) of odd numbers*
+*Sum E(1)+...+E(99) of the odd digits*
 
-> Denote by E(n) the sum of the odd digits of the number n. For example E(7)=7, E(2)=0 and E(3245)=8. What is E(1)+E(2)+E(3)+...+E(99)? A) 300 B) 400 C) 450 D) 500 E) 550
+> Let E(n) denote the sum of the odd digits of the number n. For example, E(7)=7, E(2)=0, and E(3245)=8. What is the value of E(1)+E(2)+E(3)+…+E(99)?
+> A) 300   
+> B) 400
+> C) 450
+> D) 500
+> E) 550
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_cadet#q26|src_kangourou_2006_cadet__Q26]]
 
 
 
@@ -1075,11 +1268,20 @@ Maximum number of girls with distinct friendships
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many times faster by increasing by 6 m/s
+*How many times faster, increasing by 6 m/s*
 
-> Piero cycles from a point P to a point Q at a constant speed. If it increased its speed by 3 meters per second, it would reach Q three times faster (that is, taking a third of the time). How many times faster would you get to Q if it increased its speed by 6 meters per second? A) 4 B) 5 C) 6 D) 4,5 E) 8
+> Piero cycles from point P to point Q at a constant speed. If his speed were increased by 3 meters per second, he would reach Q three times faster (that is, in one third of the time). How many times faster would he reach Q if his speed were increased by 6 meters per second?
+> A) 4
+> B) 5
+> C) 6
+> D) 4,5
+> E) 8
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2006_cadet#q27|src_kangourou_2006_cadet__Q27]]
 
 
 
@@ -1110,11 +1312,21 @@ How many times faster by increasing by 6 m/s
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ways to arrange cars with S closer than T*
+*Ways of coupling cars with S closer than T*
 
-> A locomotive pulls a train of five cars, S, T, U, V and W. In how many ways can the cars be arranged if the locomotive is to be closer to car S than to car T? A) 120 B) 60 C) 48 D) 30 E) 10
+> A locomotive is pulling a train of 5 carriages: S, T, U, V, and W. In how many ways can the carriages be arranged if the locomotive must always be closer to carriage S than to carriage T?
+> A) 120
+> B) 60
+> C) 48
+> D) 30
+> E) 10
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2006_cadet#q28|src_kangourou_2006_cadet__Q28]]
 
 
 
@@ -1149,11 +1361,22 @@ How many times faster by increasing by 6 m/s
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum rotation to return the initial pentagon*
+*Minimum number of rotations to restore the initial pentagon*
 
-> In the figure a regular pentagon OABCD is represented and the pentagons obtained from it are obtained by first making a centre O rotation leading to the OD side overlapping to the OA side (and OA to OD'), then a centre O rotation leading to the OA side overlapping to the OD' side (and OD' to OA''). Continuing this way, what is the minimum number of rotations sufficient to bring the pentagon back to its original position? A) 6 B) 10 C) 12 D) 15 E) 20
+> A pentagon is shown in the figure.
+> Consider OABCD and the pentagons obtained from it by first performing a rotation about O that brings side OD to coincide with side OA (and OA to coincide with OD'), then performing a rotation about O that brings side OA to coincide with side OD' (and OD' to coincide with OA''). Continuing in this way, what is the minimum number of rotations sufficient to return the pentagon to its initial position?
+> A) 6
+> B) 10
+> C) 12
+> D) 15
+> E) 20
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2006_cadet#q29|src_kangourou_2006_cadet__Q29]]
 
 
 
@@ -1194,16 +1417,19 @@ How many times faster by increasing by 6 m/s
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of a−b between sums of squares and products*
+*a-b value between sums of squares and products*
 
-> What is the value of a - b, if
-> a = 1² + 2² + 3² + … + 2005² and
-> b = 1×3 + 2×4 + 3×5 + … + 2004×2006?
-> (A) 2000 (B) 2004 (C) 2005 (D) 2006 (E) 0
-> 
->  
-> 1
-> Cadet Category
-> For students in third middle school or first year of high school
+> What is the value of a-b, if
+> a = 12 + 22 + 32 + … + 20052 e b = 1x3 + 2x4 + 3x5 + … + 2004x2006?
+> A) 2000          B) 2004          C) 2005           D) 2006          E) 0
+> A B C D A'' D' 1 2 O Cadet_06bis.qxp 20/02/2006 23.52 Page 21
+>
+>
+> 1 Cadet Category For students in the third year of junior high school or the first year of upper secondary school
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2006_cadet#q30|src_kangourou_2006_cadet__Q30]]

@@ -28,9 +28,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Limite di xy + yz + zx - 2xyz per numeri reali non negativi che sommano a 1*
+*Limite di xy+yz+zx-2xyz per numeri reali non negativi la cui somma è 1*
 
-> Si dimostri che $0 \leq yz + zx + xy - 2xyz \leq \dfrac{7}{27}$, dove $x$, $y$ e $z$ sono numeri reali non negativi tali che $x + y + z = 1$.
+> Dimostrare che $0 \leq yz + zx + xy - 2xyz \leq \dfrac{7}{27}$, dove $x$, $y$ e $z$ sono numeri reali non negativi tali che $x + y + z = 1$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1984#q01|src_imo_1984__Q01]]
 
 
 
@@ -58,15 +64,21 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare gli interi positivi con condizioni di divisibilità modulo potenze di 7*
+*Trovare numeri interi positivi che soddisfino condizioni di divisibilità modulo potenze di 7*
 
-> Determinare una coppia di interi positivi $a$ e $b$ tali che:
-> 
+> Trovare una coppia di numeri interi positivi $a$ e $b$ tale che:
+>
 > (i) $ab(a + b)$ non è divisibile per $7$;
-> 
+>
 > (ii) $(a + b)^7 - a^7 - b^7$ è divisibile per $7^7$.
-> 
-> Giustificare la risposta.
+>
+> Giustifica la tua risposta.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_1984#q02|src_imo_1984__Q02]]
 
 
 
@@ -88,9 +100,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*punto con lo stesso colore sulla sua circonferenza*
+*punto con lo stesso colore sul suo cerchio*
 
-> Nel piano sono dati due punti distinti $O$ e $A$. Per ogni punto $X$ del piano, diverso da $O$, si indichi con $a(X)$ la misura dell'angolo tra $OA$ e $OX$ in radianti, misurato in senso antiorario da $OA$ ($0 \leq a(X) < 2\pi$). Sia $C(X)$ la circonferenza di centro $O$ e raggio di lunghezza $OX + a(X)/OX$. Ogni punto del piano è colorato con uno dei colori di un insieme finito. Si dimostri che esiste un punto $Y$ tale che $a(Y) > 0$ e il cui colore compare sulla circonferenza della circonferenza $C(Y)$.
+> Nel piano sono dati due punti distinti $O$ e $A$. Per ogni punto $X$ del piano, diverso da $O$, si indichi con $a(X)$ la misura, in radianti, dell'angolo tra $OA$ e $OX$, misurato in verso antiorario a partire da $OA$ ($0 \leq a(X) < 2\pi$). Sia $C(X)$ il cerchio avente centro in $O$ e raggio di lunghezza $OX + a(X)/OX$. Ogni punto del piano è colorato con uno di un numero finito di colori. Dimostrare che esiste un punto $Y$ per il quale $a(Y) > 0$ in modo che il suo colore compaia sulla circonferenza del cerchio $C(Y)$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1984#q03|src_imo_1984__Q03]]
 
 
 
@@ -112,9 +130,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circonferenza tangente al diametro AB se e solo se BC parallelo a AD*
+*Cerchio tangente sul diametro AB se e solo se BC è parallela ad AD*
 
-> Sia $ABCD$ un quadrilatero convesso tale che la retta $CD$ sia tangente alla circonferenza avente $AB$ come diametro. Si dimostri che la retta $AB$ è tangente alla circonferenza avente $CD$ come diametro se e solo se le rette $BC$ e $AD$ sono parallele.
+> Sia $ABCD$ un quadrilatero convesso tale che la retta $CD$ sia tangente alla circonferenza avente per diametro $AB$. Dimostrare che la retta $AB$ è tangente alla circonferenza avente per diametro $CD$ se e solo se le rette $BC$ e $AD$ sono parallele.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1984#q04|src_imo_1984__Q04]]
 
 
 
@@ -139,11 +163,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Limite del rapporto tra somma delle diagonali e perimetro di un poligono convesso*
+*Legare il rapporto tra somma diagonale e perimetro di un poligono convesso*
 
-> Sia $d$ la somma delle lunghezze di tutte le diagonali di un poligono piano convesso con $n$ vertici ($n > 3$), e sia $p$ il suo perimetro. Si dimostri che
+> Sia $d$ la somma delle lunghezze di tutte le diagonali di un poligono convesso piano con $n$ vertici ($n > 3$), e sia $p$ il suo perimetro. Dimostrare che
 > $$n - 3 < \frac{2d}{p} < \left[\frac{n}{2}\right]\left[\frac{n+1}{2}\right] - 2,$$
-> dove $[x]$ indica il massimo intero non superiore a $x$.
+> dove $[x]$ denota il più grande intero non superiore a $x$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_imo_1984#q05|src_imo_1984__Q05]]
 
 
 
@@ -165,6 +196,12 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Interi dispari con ad=bc e somme potenze di due implicano a=1*
+*Gli interi dispari con ad=bc e somme che sono potenze di due implicano a=1*
 
-> Siano $a$, $b$, $c$ e $d$ interi dispari tali che $0 < a < b < c < d$ e $ad = bc$. Si dimostri che se $a + d = 2^k$ e $b + c = 2^m$ per alcuni interi $k$ e $m$, allora $a = 1$.
+> Siano $a$, $b$, $c$ e $d$ numeri interi dispari tali che $0 < a < b < c < d$ e $ad = bc$. Dimostrare che, se $a + d = 2^k$ e $b + c = 2^m$ per alcuni numeri interi $k$ e $m$, allora $a = 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_1984#q06|src_imo_1984__Q06]]

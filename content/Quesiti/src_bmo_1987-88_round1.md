@@ -31,9 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni reali di un'equazione a radice quadrata incastonata*
+*Tutte le soluzioni reali di quell'equazione, con la radice non negativa*
 
-> Trova tutte le soluzioni reali $x$ dell'equazione $$\sqrt{x + 1972098 - 1988\sqrt{x + 1974081 - 1988\sqrt{x + 980409}}} + \sqrt{x + 1974081 - 1988\sqrt{x + 980409}} = 1$$ dove $\sqrt{\phantom{x}}$ indica la radice quadrata non negativa.
+> Trovare tutte le soluzioni reali $x$ dell'equazione
+> $$\sqrt{x + 1972098 - 1988\sqrt{x + 1974081 - 1988\sqrt{x + 980409}}} + \sqrt{x + 1974081 - 1988\sqrt{x + 980409}} = 1$$
+> dove $\sqrt{\phantom{x}}$ indica la radice quadrata non negativa.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1987-88_round1#q01|src_bmo_1987-88_round1__Q01]]
 
 
 
@@ -57,9 +66,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni a valore reale su numeri naturali che soddisfano f(x+y) = f(x)f(y)*
+*Tutte le funzioni a valori reali su $D$ che soddisfano $f(x + y) = f(x)\,f(y)$*
 
-> Trovare tutte le funzioni a valore reale $f$ definite sul set $D$ dei numeri naturali $x \ge 10$ e soddisfare l'equazione funzionale $$f(x + y) = f(x)\,f(y)$$ per tutti $x, y \in D$.
+> Trovare tutte le funzioni $f$ a valori reali definite sull'insieme $D$ dei numeri naturali $x \ge 10$ e che soddisfano l'equazione funzionale
+> $$f(x + y) = f(x)\,f(y)$$
+> per tutti gli $x, y \in D$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1987-88_round1#q02|src_bmo_1987-88_round1__Q02]]
 
 
 
@@ -84,9 +101,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca una coppia di integri unica r, n con 0<n<200 che soddisfa due disuguaglianze frazioni*
+*Una coppia di interi $r$, $n$ con $0 < n < 200$ che soddisfa quelle disuguaglianze, e è unica*
 
-> Trovare una coppia di integri $r$, $n$ tale che $0 < n < 200$ e $$\frac{r}{n} < \frac{51}{80} < \frac{r+1}{n}, \qquad \frac{r}{n+1} < \frac{51}{80} < \frac{r+1}{n+1}.$$ Inoltre dimostrare che esiste esattamente una coppia di tali $r$, $n$.
+> Trovare una coppia di interi $r$, $n$ tale che $0 < n < 200$ e
+> $$\frac{r}{n} < \frac{51}{80} < \frac{r+1}{n}, \qquad \frac{r}{n+1} < \frac{51}{80} < \frac{r+1}{n+1}.$$
+> Dimostrare anche che esiste esattamente una tale coppia $r$, $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1987-88_round1#q03|src_bmo_1987-88_round1__Q03]]
 
 
 
@@ -109,9 +135,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I piedi perpendicolari da ortocentro a bisettori angolari sono collineari con il punto medio di BC*
+*$PQ$ passa per il punto medio di $BC$*
 
-> Il triangolo $ABC$ ha l'ortocentro $H$. I piedi delle perpendicolari da $H$ ai bisettieri interni ed esterni dell'angolo $BAC$ (non angolo retto) sono $P$ e $Q$. Provare che $PQ$ passa attraverso il punto medio di $BC$.
+> Il triangolo $ABC$ ha ortocentro $H$. I piedi delle perpendicolari da $H$ alle bisettrici interna ed esterna dell'angolo $BAC$ (che non è retto) sono $P$ e $Q$. Dimostrare che $PQ$ passa per il punto medio di $BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1987-88_round1#q04|src_bmo_1987-88_round1__Q04]]
 
 
 
@@ -138,9 +171,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove recursively defined d(n,m) sono sempre numeri interi*
+*Tutti i $d(n, m)$ sono interi*
 
-> I numeri $d(n, m)$ con $m$, $n$ enti, $0 \le m \le n$, sono definiti da $$d(n, 0) = d(n, n) = 1 \quad \text{for all } n \ge 0$$ e $$m\,d(n, m) = m\,d(n-1, m) + (2n - m)\,d(n-1, m-1)$$ per $0 < m < n$. Provare che tutti i $d(n, m)$ sono numeri interi.
+> I numeri $d(n, m)$ con $m$, $n$ interi, $0 \le m \le n$, sono definiti da
+> $$d(n, 0) = d(n, n) = 1 \quad \text{for all } n \ge 0$$
+> e
+> $$m\,d(n, m) = m\,d(n-1, m) + (2n - m)\,d(n-1, m-1)$$
+> per $0 < m < n$. Dimostrare che tutti i $d(n, m)$ sono interi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1987-88_round1#q05|src_bmo_1987-88_round1__Q05]]
 
 
 
@@ -168,8 +212,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Indicare il valore minimo positivo di (x2+y2)/y soggetto alla restrizione quadratica è 1/2*
+*Il minimo valore positivo di quella frazione è $\dfrac{1}{2}$*
 
-> Indicare che il valore minimo positivo di $$\frac{x^2 + y^2}{y},$$ dove $x$, $y$ sono numeri reali, in modo che $$7x^2 + 3xy + 3y^2 = 1,$$ sia $\dfrac{1}{2}$.
+> Dimostrare che il minimo valore positivo di
+> $$\frac{x^2 + y^2}{y},$$
+> dove $x$, $y$ sono numeri reali tali che
+> $$7x^2 + 3xy + 3y^2 = 1,$$
+> è $\dfrac{1}{2}$.
 
-**Risposta:** \frac{1}{2}
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1987-88_round1#q06|src_bmo_1987-88_round1__Q06]]

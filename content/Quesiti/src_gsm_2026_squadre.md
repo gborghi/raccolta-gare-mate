@@ -29,11 +29,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Knights and liars in the square*
+*Knights and knaves in a square: at most how many knights*
 
-> On the island of knights and knaves, a knight always tells the truth; a knave always lies. In a square there are ten thousand people. When asked, "How many of you are knights?", three thousand answer, "We are all ten thousand knights," three thousand say, "We are all ten thousand knaves," and four thousand say, "There are four thousand knights present." What is the maximum possible number of knights?
+> On the island of knights and knaves, a knight always tells the truth; a knave always lies. In a square there are ten thousand people. Asked «How many of you are knights?», three thousand reply «All ten thousand of us are knights», three thousand «All ten thousand of us are knaves», four thousand «The knights here are four thousand». What is the greatest possible number of knights?
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 4000
+
+[[Quesiti/src_gsm_2026_squadre#q01|src_gsm_2026_squadre__Q01]]
 
 
 
@@ -56,11 +62,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability that two dice show face 1 visible*
+*Probability that two dice showing a side face of 1 have the same top number*
 
-> I roll an unbiased die and cover the number shown on the upper face. He rolls another identical die and does the same. On both dice, a side face with a single dot is visible. What is the probability that the same number appeared on both dice? [Give the answer as the probability multiplied by 10000.]
+> I roll a fair die and cover the number on the top face. He rolls another identical die and does the same. On both dice a side face with the single pip is visible. What is the probability that the same number came up on both dice? [Give as the answer the probability multiplied by 10000.]
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 2500
+
+[[Quesiti/src_gsm_2026_squadre#q02|src_gsm_2026_squadre__Q02]]
 
 
 
@@ -83,11 +95,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the covered numbers in a 4×4 magic square*
+*Sum of the numbers covered by five letters in a 4×4 magic square*
 
-> A 4×4 magic square contains all the numbers from 1 to 16. Some of them are covered by letters. What are the numbers covered by the five letters? [Give as answer the sum of the found numbers.]
+> A 4×4 magic square contains all the numbers from 1 to 16. Some are covered by letters. What are the numbers covered by the five letters? [Give as the answer the sum of the numbers found.]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 0033
+
+[[Quesiti/src_gsm_2026_squadre#q03|src_gsm_2026_squadre__Q03]]
 
 
 
@@ -110,11 +128,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio AO''/O''M'' on parallel diameters*
+*The ratio AO''/O''M'' on parallel diameters, times 1000*
 
-> Circle with center O, points A and B diametrically opposite. M is the midpoint of OA; parallel lines through M, O, and B, with b tangent. Find the value of (AO''/O''M'') × 1000.
+> Circle with centre O, points A and B diametrically opposite. M the midpoint of OA; parallel lines through M, O, B, with b tangent. The ratio AO''/O''M'' multiplied by 1000.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** 1931
+
+[[Quesiti/src_gsm_2026_squadre#q04|src_gsm_2026_squadre__Q04]]
 
 
 
@@ -137,11 +161,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum radius of the larger circumference*
+*Least radius of the circle Maggiore around six circles of radius 1 m*
 
-> Inside the larger circumference, six other circumferences are drawn, all tangent to the larger one, all with radius 1 m, not intersecting each other. What is the minimum length in cm of the radius of the larger one?
+> Inside the circle Maggiore six further circles are drawn, all tangent to Maggiore, all of radius 1 m, not cutting one another. What is the least length, in cm, of the radius of Maggiore?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** 0300
+
+[[Quesiti/src_gsm_2026_squadre#q05|src_gsm_2026_squadre__Q05]]
 
 
 
@@ -164,11 +194,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer rectangles with perimeter 34*
+*Integer-sided rectangles of perimeter 34 m with the longer side more than twice the shorter*
 
-> How many different rectangles can be constructed with a perimeter of 34 m such that the sides, in m, have positive integer lengths and the longer sides have length greater than twice the shorter sides?
+> How many different rectangles of perimeter 34 m can be built so that the sides, in m, have positive integer lengths and the longer sides are longer than twice the shorter sides?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 0005
+
+[[Quesiti/src_gsm_2026_squadre#q06|src_gsm_2026_squadre__Q06]]
 
 
 
@@ -191,11 +227,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest k such that k × 117 is a perfect square and less than 10000*
+*Largest integer k such that k times 117 is a perfect square below 10000*
 
-> Let n be the sum of the numbers 53 and 64. What is the largest integer that, when multiplied by n, produces a perfect square less than 10000?
+> Let n be the sum of the numbers 53 and 64. What is the largest integer which, multiplied by n, yields a perfect square less than 10000?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 0052
+
+[[Quesiti/src_gsm_2026_squadre#q07|src_gsm_2026_squadre__Q07]]
 
 
 
@@ -218,11 +260,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability that the hare is three squares from the finish line*
+*Probability of finishing the Game of the Goose within three rolls, times 10000*
 
-> In the game of Goose (63 squares, moving backward if overshooting the goal), the piece is three squares before the finish line. Probability of reaching the goal in at most three dice rolls, multiplied by 10000.
+> In the Game of the Goose (63 squares; you move back if you pass the finish) the piece is three squares before the finish. Probability of getting there in at most three rolls, multiplied by 10000.
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 4212
+
+[[Quesiti/src_gsm_2026_squadre#q08|src_gsm_2026_squadre__Q08]]
 
 
 
@@ -245,11 +293,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Positions of a robot that does not change direction after South*
+*Positions of a robot that cannot change direction after South*
 
-> A robot moves 1 m in N,E,S,W but cannot change direction after South. It starts from the center of a 20 m square. How many positions after 8 m?
+> A robot moves 1 m in the directions N, E, S, W but cannot change direction after South. It starts from the centre of a square 20 m across. How many positions after 8 m?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 0081
+
+[[Quesiti/src_gsm_2026_squadre#q09|src_gsm_2026_squadre__Q09]]
 
 
 
@@ -272,11 +326,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Calzini tricolore in tre cassetti*
+*Tricolour socks in three drawers: how many to draw for a pair of each colour*
 
-> 2026 socks of each of three colors, placed in 3 drawers such that each drawer contains at least two socks of each color, and for each drawer, the number of socks of one color is always less than the sum of the socks of the other two colors. What is the maximum number of socks that can be drawn from a random drawer to guarantee having at least one pair (two socks) of each color?
+> 2026 socks of each of the three colours, in 3 drawers, at least two of each colour in each drawer, and the number of one colour in a drawer is always less than the sum in the other two. How many socks must one draw, at most, from a random drawer to have a pair of each colour?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 2026
+
+[[Quesiti/src_gsm_2026_squadre#q10|src_gsm_2026_squadre__Q10]]
 
 
 
@@ -313,11 +373,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum path along the eight edges of a pyramid*
+*Shortest path along all eight edges of a right square pyramid*
 
-> Right pyramid with square base, side length 214 m, height equal to the side length. Find the shortest path that traverses all eight edges, without necessarily returning to the northern vertex.
+> A right pyramid with square base, side 214 m, height equal to the side. The shortest path that traverses all eight edges, without necessarily returning to the north corner.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** 2118
+
+[[Quesiti/src_gsm_2026_squadre#q12|src_gsm_2026_squadre__Q12]]
 
 
 
@@ -354,11 +420,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-similar triangles with integer angles*
+*Triangles with integer angles, one dividing the others, no two similar*
 
-> How many triangles with integer interior angles (in degrees) are there such that one angle measure divides the other two, at most, and no two are similar?
+> How many triangles are there with integer interior angles (in degrees) in which one measure divides the others, at most, with no two similar?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** 0258
+
+[[Quesiti/src_gsm_2026_squadre#q14|src_gsm_2026_squadre__Q14]]
 
 
 
@@ -381,11 +453,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Valid formation lists (closure under union and intersection)*
+*Lists of lawful line-ups closed under union and intersection*
 
-> Three-player formations closed under union and intersection, with empty and full sets always allowed. How many valid formation lists are there?
+> Line-ups of three players closed under union and intersection, with the empty set and the full set always lawful. How many lists of lawful line-ups are there?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 0029
+
+[[Quesiti/src_gsm_2026_squadre#q15|src_gsm_2026_squadre__Q15]]
 
 
 
@@ -408,11 +486,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of relevant primes between 10 and 100*
+*Sum of the relevant primes between 10 and 100*
 
-> An integer >9 is relevant if, with n the tens digit and m the units digit, it can be written as a sum of m distinct primes in at least 1 and at most n ways. Sum of the relevant primes between 10 and 100.
+> An integer greater than 9 is relevant if, with n the tens digit and m the units digit, it can be written as a sum of m distinct primes in at least 1 and at most n ways. Sum of the relevant primes between 10 and 100.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 **Answer:** 0335
+
+[[Quesiti/src_gsm_2026_squadre#q16|src_gsm_2026_squadre__Q16]]
 
 
 
@@ -435,11 +519,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability ratio of last to second-to-last in the competition*
+*Ratio of the last contestant's winning probability to the penultimate one's, times 100*
 
-> Ninety contestants, two games on an urn numbered 1 to 4. The ratio of the winning probabilities of the last and second-to-last contestants, multiplied by 100.
+> Ninety contestants, two games on an urn holding 1..4. Ratio of the winning probabilities of the last and of the penultimate, multiplied by 100.
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 0066
+
+[[Quesiti/src_gsm_2026_squadre#q17|src_gsm_2026_squadre__Q17]]
 
 
 
@@ -462,11 +552,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the central octagon in a star*
+*Area of the central octagon in an eight-pointed star*
 
-> Square with side length 182 cm; midpoints connected to opposite vertices: an eight-pointed star, with a regular octagon at the center. Find the area in cm².
+> A square of side 182 cm, midpoints joined to the opposite vertices: an eight-pointed star, an octagon at the centre. Area in cm2.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 **Answer:** 5520
+
+[[Quesiti/src_gsm_2026_squadre#q18|src_gsm_2026_squadre__Q18]]
 
 
 
@@ -489,11 +585,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*4-digit codes decipherable into three letters*
+*Four-digit codes that decode with certainty as three letters*
 
-> Cipher A=1..Z=26 without spaces. How many four-digit codes are deciphered with certainty as three letters?
+> A cipher A=1..Z=26 with no spaces. How many four-digit codes decode with certainty as three letters?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 **Answer:** 2781
+
+[[Quesiti/src_gsm_2026_squadre#q19|src_gsm_2026_squadre__Q19]]
 
 
 
@@ -516,11 +618,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest M with 4 digits not a pentalytic value*
+*Largest four-digit M that is not a value of any pentadic polynomial*
 
-> Pentalic polynomial: five distinct integer roots. Find the greatest four-digit integer M such that P(x) = M has no integer solutions for any such polynomial P with integer coefficients.
+> Pentadic polynomial: five distinct integer roots. The largest four-digit integer M such that P(x)=M has no integer solutions, for every such P with integer coefficients.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 **Answer:** 9998
+
+[[Quesiti/src_gsm_2026_squadre#q20|src_gsm_2026_squadre__Q20]]
 
 
 
@@ -543,8 +651,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum A2+B4+...+Z52 of linear sequences*
+*Sum A2+B4+...+Z52 of linear recurrences*
 
-> 26 recursive sequences A to Z (A Fibonacci-1, B Fibonacci, ...). What is the value of A2 + B4 + C6 + ... + Z52?
+> 26 recurrences A..Z (A is Fibonacci minus 1, B is Fibonacci, ...). What is the value of A2+B4+C6+...+Z52?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 **Answer:** 2764
+
+[[Quesiti/src_gsm_2026_squadre#q21|src_gsm_2026_squadre__Q21]]

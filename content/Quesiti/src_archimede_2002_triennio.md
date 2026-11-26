@@ -36,15 +36,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many AB numbers with 12xAB = 21xBA*
+*How many two-digit numbers AB satisfy 12xAB = 21xBA*
 
-> In some cases, pairs of two-digit numbers have the same product of the two numbers read backwards (e.g. 13 × 62 = 31 × 26). How many numbers of two digits AB (A and B are the decimal digits) such that 12 × AB = 21 × BA?
+> In some cases, pairs of two-digit numbers have the same product of the two numbers read in reverse (for example 13 × 62 = 31 × 26). How many two-digit numbers AB (A and B are decimal digits) satisfy 12 × AB = 21 × BA?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
 > - **(E)** 9.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_triennio#q01|src_archimede_2002_triennio__Q01]]
 
 
 
@@ -73,15 +78,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage increase to recover the original price*
+*Percentage increase needed to recover the original price*
 
-> A commodity was discounted by 20% of its original price. What percentage must be increased to recover the original price?
+> A commodity was discounted by 20% of its original price. By what percentage must it be increased to recover the original price?
 >
 > - **(A)** 16%
 > - **(B)** 20%
 > - **(C)** 25%
 > - **(D)** 50%
 > - **(E)** 60%.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2002_triennio#q02|src_archimede_2002_triennio__Q02]]
 
 
 
@@ -109,7 +119,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of the data numbers is not rational*
+*Which of the given numbers is not rational*
 
 > Which of the following numbers is not rational?
 >
@@ -118,6 +128,11 @@ level: triennio
 > - **(C)** √0, 49
 > - **(D)** 1000,5
 > - **(E)** 10000,1.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2002_triennio#q08|src_archimede_2002_triennio__Q08]]
 
 
 
@@ -149,15 +164,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of two data objects density and weight difference*
+*Volume of two objects given the densities and the weight difference*
 
-> Two identical objects, made of two different materials, have the same volume, but the first weighs 242 g more than the second. Knowing that the material of which the first object is made has a density of 8,9 g/cm3 and the material of which the second object is made has a density of 7,8 g/cm3, what is the volume of each of the objects?
+> Two homogeneous objects, made of two different materials, have the same volume, but the first weighs 242 g more than the second. Given that the material of the first object has density 8.9 g/cm³ and that of the second has density 7.8 g/cm³, what is the volume of each object?
 >
-> - **(A)** 120 cm3
-> - **(B)** 150 cm3
-> - **(C)** 220 cm3
-> - **(D)** 300 cm3
-> - **(E)** the data provided are insufficient.
+> - **(A)** 120 cm³
+> - **(B)** 150 cm³
+> - **(C)** 220 cm³
+> - **(D)** 300 cm³
+> - **(E)** the data given are insufficient.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2002_triennio#q09|src_archimede_2002_triennio__Q09]]
 
 
 
@@ -190,15 +211,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remains and divisibility by 7*
+*Number of diners from remainders and divisibility by 7*
 
-> The manager of a 600-seat restaurant does not remember how many people he served at a large lunch. But remember, if you wanted to put them in tables of 3, you would have exactly one left out, and the same thing happened if you put them in tables of 4, 5, or 6. Instead, by placing them in tables of seven, none of them were left out. How many were the diners?
+> The director of a restaurant with a capacity of 600 seats does not remember how many people he served at a large collective lunch. He does remember, however, that if he were to seat them in tables of 3, exactly one would be left out, and the same thing happened when seating them in tables of 4, 5 or 6. Instead, when seating them in tables of 7, none were left out. How many diners were there?
 >
 > - **(A)** 61
 > - **(B)** 121
 > - **(C)** 175
 > - **(D)** 301
 > - **(E)** 574.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_triennio#q10|src_archimede_2002_triennio__Q10]]
 
 
 
@@ -230,15 +257,24 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For which integers a/b + c/d = (a+c)/(b+d)*
+*Positive integers for which a/b + c/d equals (a+c)/(b+d)*
 
-> For which positive integers a, b, c, d can we have a b + c d = a + c b + d?
+> For which positive integers a, b, c, d can one have a
+> b + c
+> d = a + c
+> b + d?
 >
-> - **(A)** When a b = c d
-> - **(B)** where a2 = cb2
+> - **(A)** when a b = c d
+> - **(B)** when ad2 = cb2
 > - **(C)** when b · d = b + d
-> - **(D)** Never
-> - **(E)** I always do.
+> - **(D)** never
+> - **(E)** always.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2002_triennio#q11|src_archimede_2002_triennio__Q11]]
 
 
 
@@ -267,15 +303,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of first digit less than second digit*
+*Probability that the first die scores less than the second*
 
-> Two dice are thrown; the probability that the score of the first dice is narrowly less than that of the second dice is:
+> Two dice are thrown; the probability that the score of the first die is strictly less than that of the second is:
 >
 > - **(A)** 1 6
 > - **(B)** 1 3
 > - **(C)** 5 12
 > - **(D)** 1 2
 > - **(E)** 7 12.
+
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_triennio#q12|src_archimede_2002_triennio__Q12]]
 
 
 
@@ -321,30 +363,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A grey area with a tangent arc in an equilateral triangle*
+*Grey figure area with tangent arc in an equilateral triangle*
 
-![[src_archimede_2002_triennio__prob13.png]]
-
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.4]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (3,0);
-  \coordinate (C) at (1.5,2.598);
-  \fill[gray!60] (A) -- (C) -- (B) arc (30:150:1.732) -- cycle;
-  \draw[thick] (A) -- (B) -- (C) -- cycle;
-  \draw[thick] (B) arc (30:150:1.732);
-\end{tikzpicture}
-\end{document}
-```
-
-> Knowing that the equilateral triangle in the figure has side 3 and that the arc of circumference is tangent on two sides, what is the area of the figure in gray?
+> Knowing that the equilateral triangle in the figure has side 3 and that the arc of the circle is tangent to two sides, what is the area of the grey figure?
 >
 > - **(A)** √ 3 −π 6
 > - **(B)** π − √ 3
 > - **(C)** 2 √ 3 −π
 > - **(D)** √ 3 + π 6
 > - **(E)** 3 √ 3 −π.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2002_triennio#q13|src_archimede_2002_triennio__Q13]]
 
 
 
@@ -374,15 +407,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of two females giving birth to twins*
+*Probability of two females in a twin birth*
 
-> The percentage of females born in the twin parts is 48.5%. Assuming that in twin parts the probability of two births being of different sex is 33 percent, what is the probability of two females being born in a twin birth?
+> The percentage of females born in twin births is 48.5%. Assuming that in twin births the probability that the two newborns are of different sex is 33%, what is the probability that two females are born in a twin birth?
 >
 > - **(A)** 32%
 > - **(B)** 33%
-> - **(C)** 33,33%
+> - **(C)** 33.33%
 > - **(D)** 35%
 > - **(E)** 50%.
+
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2002_triennio#q14|src_archimede_2002_triennio__Q14]]
 
 
 
@@ -413,15 +452,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Second target speed for an overall average of 30 km/h*
+*Speed on the second half for an overall average of 30 km/h*
 
-> A cyclist wants to ride a stretch of road. Halfway through the route he realizes that he has travelled only at an average of 15 km/h; he then decides to accelerate so that he can travel the entire route at the most dignified average of 30 km/h. How fast should the second half of the route go?
+> A cyclist wants to cover a stretch of road. Halfway along, he realizes that he has been travelling at an average of only 15 km/h; he therefore decides to speed up so as to cover the whole stretch at the more respectable average of 30 km/h. At what speed must he cover the second half of the route?
 >
-> - **(A)** a 40 km/h
-> - **(B)** a 45 km/h
-> - **(C)** a 60 km/h
-> - **(D)** He can 't do it .
-> - **(E)** depending on the length of the road.
+> - **(A)** at 40 km/h
+> - **(B)** at 45 km/h
+> - **(C)** at 60 km/h
+> - **(D)** he cannot manage it
+> - **(E)** it depends on the length of the stretch of road.
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2002_triennio#q15|src_archimede_2002_triennio__Q15]]
 
 
 
@@ -454,15 +498,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many true statements on consecutive odd numbers*
+*How many true statements about consecutive odd numbers*
 
-> How many of the following statements about natural numbers are true? (i) If any two consecutive odd numbers are taken, at least one is prime. (ii) If any three consecutive odd numbers are taken, at least two are prime. (iii) If any four consecutive odd numbers are taken, at least one is not prime. (iv) If any five consecutive odd numbers are taken, at least two are not prime.
+> How many of the following statements about the natural numbers are true? (i) Given any two consecutive odd numbers, at least one is prime. (ii) Given any three consecutive odd numbers, at least two are prime. (iii) Given any four consecutive odd numbers, at least one is not prime. (iv) Given any five consecutive odd numbers, at least two are not prime.
 >
-> - **(A)** None of them .
-> - **(B)** One .
+> - **(A)** none
+> - **(B)** one
 > - **(C)** two
 > - **(D)** three
-> - **(E)** Four of them.
+> - **(E)** four.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2002_triennio#q16|src_archimede_2002_triennio__Q16]]
 
 
 
@@ -493,15 +543,23 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which trunk is not geometrical progression*
+*Which triple is not a geometric progression*
 
-> In the following list, a single set of numbers cannot represent terms of a geometric progression (the terms are not necessarily consecutive). What's with the tern?
+> In the following list, only one triple of numbers cannot represent terms
+> of a geometric progression (the terms are not necessarily consecutive).
+> Which is this triple?
 >
 > - **(A)** 3; 6; 96
 > - **(B)** 3; 1; 1 81
 > - **(C)** 3; 3,3; 3,993
 > - **(D)** 3; 6; 48
 > - **(E)** 3; 5; 9.
+
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2002_triennio#q18|src_archimede_2002_triennio__Q18]]
 
 
 
@@ -530,15 +588,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of digits in the square of a large number*
+*Sum of digits of the square of a large number*
 
-> The sum of the digits in the square of 999 999 999 999 999 999 995 is:
+> The sum of the digits of the square of 999 999 999 999 999 995 is:
 >
 > - **(A)** 150
 > - **(B)** 160
 > - **(C)** 170
 > - **(D)** 180
 > - **(E)** 190.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2002_triennio#q20|src_archimede_2002_triennio__Q20]]
 
 
 
@@ -572,15 +636,26 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of high school pupils by class fractions*
+*Number of students in the school from fractions of classes*
 
-> In a science high school there are less than 1000 students, of whom 230 attend the three-year classes; the second-year pupils are 13 46 of all remaining pupils; furthermore, if 10 more pupils were enrolled in the first one, then the first-year pupils would become 2 5 of the total. The number of pupils at the school is:
+> In a scientific high school there are fewer than 1000 students, of whom 230 attend the
+> senior classes; the students who attend the second class are the 13
+> 46 of all the
+> remaining; moreover, if 10 more students were enrolled in the first, then the first-year
+> students would become the 2
+> 5 of the total. The number of students in the school is:
 >
 > - **(A)** 500
 > - **(B)** 590
 > - **(C)** 625
 > - **(D)** 700
 > - **(E)** 825.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2002_triennio#q22|src_archimede_2002_triennio__Q22]]
 
 
 
@@ -614,15 +689,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many knights out of four inhabitants from the answers*
+*How many knights among four inhabitants, from their answers*
 
-> On an island of thieves (who always lie) and knights (who always tell the truth) an explorer meets four locals, and asks them what kind of people they are. The answers he gets are as follows: (i) We're all four of the thieves; (ii) No, there's only one knight among us; (iii) No, there's exactly two; (iv) I'm a knight. How many of the four are knights?
+> On an island of knaves (who always lie) and knights (who always tell the truth), an explorer meets four inhabitants and asks them what kind they are. The answers he receives are: (i) "all four of us are knaves"; (ii) "no, there is only one knight among us"; (iii) "no, there are exactly two"; (iv) "I am a knight". How many of the four are knights?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
-> - **(E)** There's no way to deduce that.
+> - **(E)** it cannot be deduced.
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2002_triennio#q23|src_archimede_2002_triennio__Q23]]
 
 
 
@@ -652,15 +733,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*There are tetrahedra with equilateral base and rational volume*
+*Whether tetrahedra with an equilateral base and rational volume exist*
 
-> It is well known that the area of an equilateral triangle on the unit side cannot be expressed as a rational number (i.e. as a ratio of integers). Are there tetrahedra that have this triangle as their basis and whose volume is expressed as a rational number?
+> It is well known that the area of an equilateral triangle of unit side cannot be expressed as a rational number (that is, as a ratio of integers). Do there exist tetrahedra that have this triangle as their base and whose volume is expressed as a rational number?
 >
-> - **(A)** There are none.
-> - **(B)** There are infinitesimal numbers.
-> - **(C)** Only the regular tetrahedron
-> - **(D)** only tetrahedra with a height of 6 √ 3
-> - **(E)** Only if the tetrahedron is straight.
+> - **(A)** none exist
+> - **(B)** infinitely many
+> - **(C)** only the regular tetrahedron
+> - **(D)** only the tetrahedra with height equal to 6 √ 3
+> - **(E)** only if the tetrahedron is right.
+
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2002_triennio#q24|src_archimede_2002_triennio__Q24]]
 
 
 
@@ -690,12 +776,18 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum amount not payable with coins of 8 and 11*
+*Largest amount that cannot be paid with coins of 8 and 11*
 
-> LOrue is a currency that has only two coins, 8 and 11 cents. What is the maximum amount that cannot be paid exactly?
+> Orue is a currency that has only two coins, of 8 and of 11 cents. What is the largest amount that cannot be paid exactly?
 >
 > - **(A)** 58 cents
 > - **(B)** 61 cents
 > - **(C)** 87 cents
-> - **(D)** There are arbitrarily large figures that are not exactly payable
-> - **(E)** None of the above answers are correct.
+> - **(D)** there exist arbitrarily large amounts that cannot be paid exactly
+> - **(E)** none of the previous answers is correct.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2002_triennio#q25|src_archimede_2002_triennio__Q25]]

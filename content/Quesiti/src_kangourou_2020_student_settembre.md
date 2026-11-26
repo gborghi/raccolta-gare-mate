@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Units digit of the minimum n such that 7n has 2021 digits*
+*What is the units digit of n?*
 
 > Let $n$ be the smallest positive integer such that the number $7 \times n$ has $2021$ digits. What is the units digit of $n$?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 9
+[[Quesiti/src_kangourou_2020_student_settembre#q01|src_kangourou_2020_student_settembre__Q01]]
 
 
 
@@ -64,17 +69,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Special position numbers in the grid 2020x2020*
+*Which of the three statements about a special position are true?*
 
-> We fill out a square grid $2020 \times 2020$ by inserting the first $2020^2$ positive integers, one per box: if it happens that one of the numbers inserted is the largest of all those in its row and the smallest of all those in its column, let's say that number is in a special position **** relative to the way we filled the grid. Discuss, justifying the answer, the truth or falsity of each of the following three statements:
-> 
-> (a) there is at least one special number for each method of filling the grid;
-> 
-> (b) there is at least one special number for some method of filling the grid;
-> 
-> (c) for each method of filling the grid there is at most a special number.
+> We fill a square grid $2020 \times 2020$ by entering the first $2020^2$ positive integers, one per cell. If one of the numbers entered is the largest of all those in its row and the smallest of all those in its column, we say that number is in a **special position** relative to the way the grid was filled. For each of the following three statements, say whether it is true or false, and give a reason.
+>
+> a) For every way of filling the grid there is at least one special number.
+>
+> b) For some way of filling the grid there is at least one special number.
+>
+> c) For every way of filling the grid there is at most one special number.
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** a)F b)V c)V
+[[Quesiti/src_kangourou_2020_student_settembre#q02|src_kangourou_2020_student_settembre__Q02]]
 
 
 
@@ -98,11 +108,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer pairs (x,y) with x^2+7y=xy*
+*How many ordered pairs of integers satisfy the equation?*
 
-> How many pairs $(x, y)$ of integers (not necessarily positive) such that $x^2 + 7y = xy$?
+> How many ordered pairs $(x, y)$ of integers (not necessarily positive) are there such that $x^2 + 7y = xy$?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 6
+[[Quesiti/src_kangourou_2020_student_settembre#q03|src_kangourou_2020_student_settembre__Q03]]
 
 
 
@@ -126,11 +141,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Comparison between 129^29 and 4095^17
+*Which of the two numbers is the greater?*
 
-> Which of the two numbers $129^{29}$ and $4095^{17}$ is greater?
+> Which of the two numbers $129^{29}$ and $4095^{17}$ is the greater?
 
-**Answer:** the second
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Answer:** il secondo
+[[Quesiti/src_kangourou_2020_student_settembre#q04|src_kangourou_2020_student_settembre__Q04]]
 
 
 
@@ -155,11 +175,17 @@ Comparison between 129^29 and 4095^17
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alignment of M,N,P in the triangle with inclination*
+*Prove that M, N and P are collinear.*
 
 ![[src_kangourou_2020_student_settembre__prob5.png]]
 
-> A center circumference $I$ is inscribed in a triangle $ABC$: denotes with $D$ and $E$ its tangent points on the sides $BC$ and $AC$ respectively. Also denote with $M$ and $N$ the mean points of $BC$ and $AB$ respectively and with $P$ the intersection between the connecting line $A$ with $I$ and the connecting line $D$ with $E$. It shows that $M$, $N$ and $P$ are aligned.
+> A circle with centre $I$ is inscribed in a triangle $ABC$. Denote by $D$ and $E$ its points of tangency with the sides $BC$ and $AC$ respectively. Also denote by $M$ and $N$ the midpoints of $BC$ and $AB$ respectively, and by $P$ the intersection of the line joining $A$ to $I$ with the line joining $D$ to $E$. Prove that $M$, $N$ and $P$ are collinear.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+[[Quesiti/src_kangourou_2020_student_settembre#q05|src_kangourou_2020_student_settembre__Q05]]
 
 
 
@@ -189,14 +215,19 @@ Comparison between 129^29 and 4095^17
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Boundedness of sums of cubes of a sequence converging to 0*
+*Is the statement true or false?*
 
-> **Preliminary note:** a sequence of real numbers $\{c_i\}_{i \in \mathbb{N}}$ is said to converge to $0$ if it happens that, for every real number $\varepsilon > 0$, there exists an index $i_0$ such that, for every $i > i_0$, one has $|c_i| < \varepsilon$.
-> 
-> Decide whether the following statement is true or false, justifying the answer.
-> 
-> "Let $\{c_i\}_{i \in \mathbb{N}}$ be a sequence of real numbers converging to $0$ such that one has $|c_1 + c_2 + \cdots + c_n| < 2$ for every $n \in \mathbb{N}$. Then there exists $M > 0$ such that one has $|c_1^3 + c_2^3 + \cdots + c_n^3| < M$ for every $n \in \mathbb{N}$."
-> 
-> (It may be useful to know that, once a positive number $a$ is fixed, there exists a number $M = M(a)$ such that one has $1 + \frac{1}{2^a} + \frac{1}{3^a} + \cdots + \frac{1}{n^a} < M$ for every $n \in \mathbb{N}$ if and only if $a > 1$.)
+> **Preliminary remark.** A sequence of real numbers $\{c_i\}_{i \in \mathbb{N}}$ is said to converge to $0$ if, for every real number $\varepsilon > 0$, there is an index $i_0$ such that, for every $i > i_0$, one has $|c_i| < \varepsilon$.
+>
+> Decide whether the following statement is true or false, and give a reason.
+>
+> "Let $\{c_i\}_{i \in \mathbb{N}}$ be a sequence of real numbers converging to $0$ such that $|c_1 + c_2 + \cdots + c_n| < 2$ for every $n \in \mathbb{N}$. Then there exists $M > 0$ such that $|c_1^3 + c_2^3 + \cdots + c_n^3| < M$ for every $n \in \mathbb{N}$."
+>
+> (It may help to know that, once a positive number $a$ is fixed, there is a number $M = M(a)$ such that $1 + \frac{1}{2^a} + \frac{1}{3^a} + \cdots + \frac{1}{n^a} < M$ for every $n \in \mathbb{N}$ if and only if $a > 1$.)
 
-**Answer:** FALSE
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+**Answer:** FALSA
+[[Quesiti/src_kangourou_2020_student_settembre#q06|src_kangourou_2020_student_settembre__Q06]]

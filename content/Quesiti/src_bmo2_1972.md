@@ -33,9 +33,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Allegare i numeri alle vertici del poligono regolare con restrizioni di adiacenza*
+*Numeri sui vertici di un poligono regolare con $2^n$ vertici*
 
-> Mostrare come assegnare ai vertici di un poligono regolare con vertici $2^n$ numeri in modo che (a) vengano utilizzate solo le cifre 1 e 2 (b) ogni numero abbia cifre $n$ (c) ogni vertice abbia un numero diverso e (d) i vertici vicini abbiano numeri diversi in un solo e solo luogo di una cifra.
+> Mostrare come assegnare ai vertici di un poligono regolare con $2^n$ vertici dei numeri tali che
+> (a) si usino solo le cifre 1 e 2
+> (b) ciascun numero abbia $n$ cifre
+> (c) ciascun vertice abbia un numero diverso, e
+> (d) vertici vicini abbiano numeri che differiscono in una e una sola posizione.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1972#q01|src_bmo2_1972__Q01]]
 
 
 
@@ -60,9 +71,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove il limite inferiore 2 per la somma ciclica S di quattro valori reali positivi*
+*Dimostrare che $S$ non è minore di 2, e le condizioni per $S = 4$*
 
-> $a, b, c, d$ sono numeri positivi e $$S = \frac{a+b}{a+b+c} + \frac{b+c}{b+c+d} + \frac{c+d}{c+d+a} + \frac{d+a}{d+a+b}.$$ Provare che $S$ non è inferiore a 2, e ottenere le condizioni necessarie per $S = 4$.
+> $a, b, c, d$ sono numeri positivi e
+> $$S = \frac{a+b}{a+b+c} + \frac{b+c}{b+c+d} + \frac{c+d}{c+d+a} + \frac{d+a}{d+a+b}.$$
+> Dimostrare che $S$ non è minore di 2, e ottenere condizioni necessarie per $S = 4$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1972#q02|src_bmo2_1972__Q02]]
 
 
 
@@ -85,9 +105,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova n quando ogni due sconosciuti condividono lo stesso numero di amici e il numero di amicizia è 5*
+*Ciascuno ha lo stesso numero di amici; se è 5, trovare $n$*
 
-> Ci sono persone $n$ presenti in una riunione. Ogni due persone sono o amiche l'una dell'altra o estranee l'una all'altra. Non ci sono due amici che abbiano un amico in comune. Ogni sconosciuto ha lo stesso numero di amici in riunione. Prove che ogni persona abbia lo stesso numero di amici alla riunione. Se questo numero è 5, trova $n$.
+> A una riunione sono presenti $n$ persone. Ogni due persone sono o amiche fra loro o estranee fra loro. Due amici non hanno un amico in comune. Ogni due estranei hanno lo stesso numero di amici alla riunione. Dimostrare che ciascuna persona ha lo stesso numero di amici alla riunione. Se questo numero è 5, trovare $n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo2_1972#q03|src_bmo2_1972__Q03]]
 
 
 
@@ -112,6 +139,15 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i punti P con la somma ponderata delle distanze uguale a k per abc*
+*Punti $P$ tali che $a \cdot PA + b \cdot PB + c \cdot PC = k \cdot abc$ quando $k = 1$*
 
-> Quando $k = 1$ trovi tutti i punti $P$ nello spazio in modo tale che $$a \cdot PA + b \cdot PB + c \cdot PC = k \cdot abc,$$ dove $a, b, c$ sono le lunghezze dei lati $BC$, $CA$, $AB$ del triangolo $ABC$, e prova il risultato. Qual è l' effetto di alterare $k$?
+> Quando $k = 1$, trovare tutti i punti $P$ dello spazio tali che
+> $$a \cdot PA + b \cdot PB + c \cdot PC = k \cdot abc,$$
+> dove $a, b, c$ sono le lunghezze dei lati $BC$, $CA$, $AB$ del triangolo $ABC$, e dimostrare il risultato. Che effetto ha cambiare $k$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_1972#q04|src_bmo2_1972__Q04]]

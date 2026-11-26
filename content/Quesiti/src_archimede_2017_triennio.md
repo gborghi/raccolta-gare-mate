@@ -37,7 +37,7 @@ level: triennio
 
 *Pairs (m,n) with m^n = 2^24*
 
-> How many pairs of positive integers (m, n) are such that mn = 224?
+> How many pairs of positive integers (m, n) satisfy m^n = 2^24?
 >
 > - **(A)** 2
 > - **(B)** 8
@@ -45,7 +45,10 @@ level: triennio
 > - **(D)** 6
 > - **(E)** 4
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2017_triennio#q01|src_archimede_2017_triennio__Q01]]
 
 
 
@@ -77,9 +80,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*over two years*
+*In how many years will it be double?*
 
-> Six years ago, Anna was five times as old as her son, Mario. Now, instead, it's three times Mario's age. How many years from now will Anna be twice as old as Mario?
+> Six years ago, Anna’s age was five times her son Mario’s age.
+> Now, instead, it is three times Mario’s age. In how many years will Anna’s age be double Mario’s age?
 >
 > - **(A)** 8
 > - **(B)** 6
@@ -87,7 +91,10 @@ level: triennio
 > - **(D)** 9
 > - **(E)** 12
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2017_triennio#q02|src_archimede_2017_triennio__Q02]]
 
 
 
@@ -118,9 +125,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of decimal places of H = factor sums*
+*Tens digit of H = sum of factorials*
 
-> With the symbol n! the product of positive integers from 1 to n, for example: 4! = 1 · 2 · 3 · 4. Let's say the number H is equal to 1. + 2! + 3! + 4! + ... + 2016! + 2017! (a sum with 2017 pluses). What's the number of tens of H?
+> With the symbol n! we denote the product of the positive integers from 1 to n, for example:
+> 4! = 1 · 2 · 3 · 4. Consider the number H = 1! + 2! + 3! + 4! + ... + 2016! + 2017!
+> (a sum with 2017 terms). What is the tens digit of H?
 >
 > - **(A)** 5
 > - **(B)** 7
@@ -128,7 +137,10 @@ level: triennio
 > - **(D)** 3
 > - **(E)** 6
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2017_triennio#q03|src_archimede_2017_triennio__Q03]]
 
 
 
@@ -162,17 +174,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number of knights*
+*Number of knights seated at the circular table*
 
-> Around a round table are six people, each of whom can be either a knight (who always tells the truth) or a cunning man (who always lies). Each of the people present says: Considering my two neighbors and the person sitting right in front of me, exactly two of these three people are cunning. How many knights are there at the table?
+> Six people are seated around a circular table, each of whom may be either a knight (who always tells the truth) or a knave (who always lies). Each of them states: “Considering my two neighbors and the person sitting directly opposite me, exactly two of these three people are knaves.” How many knights, in all, are seated at the table?
 >
-> - **(A)** No one
+> - **(A)** none
 > - **(B)** 1
 > - **(C)** 3
 > - **(D)** 4
-> - **(E)** the information provided is insufficient to establish it;
+> - **(E)** the information given is not sufficient to determine it
 
-**Answer:** A
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2017_triennio#q04|src_archimede_2017_triennio__Q04]]
 
 
 
@@ -231,37 +247,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*FGEH quadrilateral area with equilateral triangles*
+*Area of quadrilateral FGEH built on a square with two equilateral triangles*
 
 ![[src_archimede_2017_triennio__prob5.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=2]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (2,0);
-  \coordinate (C) at (2,2);
-  \coordinate (D) at (0,2);
-  \coordinate (E) at (1,1.732);
-  \coordinate (F) at (1,0.268);
-  \draw (A)--(B)--(C)--(D)--cycle;
-  \draw (A)--(C);
-  \draw (B)--(D);
-  \draw (A)--(E)--(B);
-  \draw (C)--(F)--(D);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above right] at (C) {$C$};
-  \node[above left] at (D) {$D$};
-  \node[above] at (E) {$E$};
-  \node[below] at (F) {$F$};
-  \node[left] at (0.634,1) {$H$};
-  \node[right] at (1.366,1) {$G$};
-\end{tikzpicture}
-\end{document}
-```
-
-> In the figure next to this, ABCD is a side square equal to 2 cm and the triangles ABE and CDF are equilateral. How many cm2 is the area of the FGEH quadrilateral?
+> In the figure alongside, ABCD is a square of side 2 cm and the triangles ABE and CDF are equilateral. How many cm2 is the area of the quadrilateral FGEH?
 >
 > - **(A)** 8 √ 3 4
 > - **(B)** 2 √ 3 3
@@ -269,7 +259,11 @@ level: triennio
 > - **(D)** 2 √ 3 3 −1
 > - **(E)** 1 2
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2017_triennio#q05|src_archimede_2017_triennio__Q05]]
 
 
 
@@ -302,17 +296,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Replacement of beverage to obtain 50% juice*
+*Replacing soda to obtain 50% juice*
 
-> A 33 cl bottle of an orange drink is 75% water and 25% orange juice. Enrica wants to replace some of the beverage in this bottle with orange juice, so as to get a new beverage that is 50% orange juice. How many cl of the original drink should Enrica replace with orange juice?
+> A 33 cl bottle of orange soda is 75% water and 25% orange juice. Enrica wants to replace some of the soda in this bottle with orange juice, so as to obtain a new soda that is 50% orange juice. How many cl of the initial soda must Enrica replace with orange juice?
 >
-> - **(A)** 8,25
+> - **(A)** 8.25
 > - **(B)** 10
-> - **(C)** 9, 75
+> - **(C)** 9.75
 > - **(D)** 12
 > - **(E)** 11
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2017_triennio#q06|src_archimede_2017_triennio__Q06]]
 
 
 
@@ -351,7 +348,15 @@ level: triennio
 
 *false statement*
 
-> So LMN is a triangle and P is a point on the MN side. Let's say you have \ MLP = \ LNP and \ NLP = \ LMP. Which of the following is false?
+> Let LMN be a triangle and let P be a point on side MN. Suppose that
+> \
+> MLP = \
+> LNP
+> and
+> \
+> NLP = \
+> LMP.
+> Which of the following statements is false?
 >
 > - **(A)** LN > LP
 > - **(B)** MN · LP > LM · LN
@@ -359,7 +364,10 @@ level: triennio
 > - **(D)** LM < MN
 > - **(E)** MP · NP = LP 2
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2017_triennio#q09|src_archimede_2017_triennio__Q09]]
 
 
 
@@ -389,9 +397,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*after several minutes*
+*Minutes until the clock hands are first aligned and opposite*
 
-> At 12:00 p.m. the hours and minutes of a clock are overlapping. After how many minutes, for the first time, will they be aligned and opposite?
+> At 12:00:00 the hour hand and the minute hand of a clock coincide. After how many minutes, for the first time, will they be aligned and opposite?
 >
 > - **(A)** about 30
 > - **(B)** about 98
@@ -399,7 +407,10 @@ level: triennio
 > - **(D)** about 33
 > - **(E)** about 34
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2017_triennio#q10|src_archimede_2017_triennio__Q10]]
 
 
 
@@ -431,9 +442,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-The odds of Silvia winning after 5 to 4-1
+*Probability that Silvia wins after 4-1*
 
-> Silvia and Luigi challenge each other by throwing a dice several times. Every time an even number comes out, Silvia makes a point, every time an odd number comes out, she makes a point. The first player to score five points wins the game. After five pitches, Silvia has a 4-1 lead. What are the odds of Silvia winning the game?
+> Silvia and Luigi challenge each other by rolling a die many times. Each time an even number comes up, Silvia scores a point; when an odd number comes up, Luigi scores a point. The game is won by the player who reaches 5 points first. After 5 throws, Silvia is ahead 4 to 1. What is the probability that it is Silvia who wins the game?
 >
 > - **(A)** 4/5
 > - **(B)** 5/6
@@ -441,7 +452,10 @@ The odds of Silvia winning after 5 to 4-1
 > - **(D)** 3/4
 > - **(E)** 15/16
 
-**Answer:** E
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2017_triennio#q11|src_archimede_2017_triennio__Q11]]
 
 
 
@@ -482,17 +496,21 @@ The odds of Silvia winning after 5 to 4-1
 <div class="qlang-split" data-lang="en"></div>
 
 
-*possible location of Gerardo*
+*Possible position of Gerardo's rating if he can reach at most the semifinals*
 
-> A score is calculated for each chess player each month, derived from their results and made public, indicating their skill level at that time. Gerardo is about to start a chess tournament with 64 participants, which takes place in direct elimination (first the 32nd of the final, then the 16th, then the eighth, etc.): whoever wins a match passes the round, the other is eliminated (in case of a deal, the match is repeated). The previous edition of the tournament was very lavish with surprises: in each match the player with the highest score always won. Before the draw of the table (which occurs randomly among all participants), Gerardo informs himself about the other players present (who all have different scores) and concludes that, if everything should go again as in the previous edition, he could at most reach the semi-finals. It follows that, among the participants in the tournament, Gerardo's score...
+> Every month a rating is calculated for each chess player, based on his results and made public, which indicates his level of skill at that time. Gerardo is about to start a chess tournament with 64 players, played by single elimination (first the round of 32, then the round of 16, then the round of 8, and so on): the winner of a game goes through, the other is eliminated (if the game is drawn, it is replayed). The previous edition of the tournament was very short on surprises: in every game the player with the higher rating always won. Before the bracket is drawn (which is done at random among all the participants), Gerardo finds out about the other players taking part (who all have different ratings) and concludes that, if things were again to go as in the previous edition, he could at best reach the semifinals. It follows that, among the participants in the tournament, Gerardo's rating...
 >
-> - **(A)** may be located in any position after 32a.
-> - **(B)** can be found in any position from 32a to 48a (included)
-> - **(C)** may be located in any position prior to 50a
-> - **(D)** may be located in any position prior to 49a
-> - **(E)** can be found in any position from 34a to 49a (included)
+> - **(A)** may be in any position after the 32nd
+> - **(B)** may be in any position from the 32nd to the 48th (inclusive)
+> - **(C)** may be in any position before the 50th
+> - **(D)** may be in any position before the 49th
+> - **(E)** may be in any position from the 34th to the 49th (inclusive)
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2017_triennio#q13|src_archimede_2017_triennio__Q13]]
 
 
 
@@ -527,11 +545,9 @@ The odds of Silvia winning after 5 to 4-1
 <div class="qlang-split" data-lang="en"></div>
 
 
-The manufacturer shall provide the manufacturer with the following information:
+*side*
 
-![[src_archimede_2017_triennio__prob14.png]]
-
-> A square ABCD of 2 cm on the side shall be inscribed in a circumference. Four rectangles are inscribed in the circular segments bounded by the sides of the square. How many centimeters must each side of such rectangles measure so that they are squares?
+> A square ABCD with side length 2 cm is inscribed in a circle. In the circular segments bounded by the sides of the square, 4 rectangles are inscribed. How many cm must each side of such rectangles measure so that they are squares?
 >
 > - **(A)** √ 2/4
 > - **(B)** 1/3
@@ -539,7 +555,11 @@ The manufacturer shall provide the manufacturer with the following information:
 > - **(D)** 2/5
 > - **(E)** 1/4
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2017_triennio#q14|src_archimede_2017_triennio__Q14]]
 
 
 
@@ -571,9 +591,10 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First remaining first by deleting digits*
+*Primes that remain prime when digits are deleted*
 
-> How many prime numbers are such that, if you delete from them any group of even non-consecutive digits (without deleting all of them) and you read the remaining digits in the order in which they are located, you still get a prime number? (Remember that 1 is not a prime number.)
+> How many prime numbers are there such that, if any group of digits — even non-consecutive ones (but not all of them) — is deleted from them and the remaining digits are read in the order in which they occur, the result is still a prime number?
+> (Recall that 1 is not a prime number.)
 >
 > - **(A)** 8
 > - **(B)** 10
@@ -581,7 +602,10 @@ The manufacturer shall provide the manufacturer with the following information:
 > - **(D)** 7
 > - **(E)** 3
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2017_triennio#q15|src_archimede_2017_triennio__Q15]]
 
 
 
@@ -616,11 +640,9 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*7x7 grid squares containing the central box*
+*Grid squares in a 7×7 grid containing the central cell*
 
-![[src_archimede_2017_triennio__prob16.png]]
-
-> Taking a grid 7×7, consider the possible squares (from 1×1 to 7 × 7) obtained from the union of one or more grid boxes. How many of these squares contain the central box of the grid?
+> Given a 7×7 grid, consider the possible squares (from 1×1 to 7×7) obtained by the union of one or more cells of the grid. How many of these squares contain the central cell of the grid?
 >
 > - **(A)** 50
 > - **(B)** 30
@@ -628,7 +650,11 @@ The manufacturer shall provide the manufacturer with the following information:
 > - **(D)** 42
 > - **(E)** 28
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2017_triennio#q16|src_archimede_2017_triennio__Q16]]
 
 
 
@@ -659,9 +685,10 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequence of peers in position 2017*
+*Digit in position 2017 in the sequence of even numbers*
 
-> Carolina begins to write all positive integers even, one after the other: 246810121416... What figure will occupy the 2017th position?
+> Carolina begins writing all the positive even integers one after another:
+> 246810121416... Which digit will occupy the 2017th position?
 >
 > - **(A)** 8
 > - **(B)** 7
@@ -669,7 +696,11 @@ The manufacturer shall provide the manufacturer with the following information:
 > - **(D)** 5
 > - **(E)** 1
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2017_triennio#q17|src_archimede_2017_triennio__Q17]]
 
 
 
@@ -701,9 +732,9 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial coefficients +-1, p(2)=11 to find p(3)*
+*Polynomial with coefficients ±1, p(2)=11, find p(3)*
 
-> In a polynomial of 5°degree p(x) = ax5 + bx4 + cx3 + dx2 + ex + f, each of the coefficients a, b, c, d, e, f is 1 or −1. Knowing that you have p(2) = 11, what's the value of p(3)?
+> A polynomial of degree 5, p(x) = ax^5 + bx^4 + cx^3 + dx^2 + ex + f, has each of the coefficients a, b, c, d, e, f equal to 1 or −1. Given that p(2) = 11, what is the value of p(3)?
 >
 > - **(A)** 178
 > - **(B)** 244
@@ -711,7 +742,11 @@ The manufacturer shall provide the manufacturer with the following information:
 > - **(D)** 142
 > - **(E)** 196
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2017_triennio#q18|src_archimede_2017_triennio__Q18]]
 
 
 
@@ -747,14 +782,21 @@ The manufacturer shall provide the manufacturer with the following information:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area ABCD rectangle from double angle and area CPT*
+*Area of rectangle ABCD given the doubled angle and the area of triangle CPT*
 
-> Given an ABCD rectangle, P is an inner point on the CD side. The AP line intersects the BC line at point T. Given M the midpoint of the BC side, it is known that \ APM = 2 [ ATC. Since the area of the CPT triangle is 10 cm2, what is the area of the ABCD rectangle?
+> Given a rectangle ABCD, let P be an interior point of side CD. The line AP intersects the line BC at the point T. Let M be the midpoint of side BC. It is known that
+> \
+> APM = 2 [
+> ATC. Given that the area of triangle CPT is 10 cm², what is the area of rectangle ABCD?
 >
-> - **(A)** 90 cm2
-> - **(B)** 120 cm2
-> - **(C)** 60 cm2
-> - **(D)** 80 cm2
-> - **(E)** 160 cm2 T2 Italian Mathematical Union PROJECT OLIMPIAD OF MATHEMATICS Ministry of Education, University and Research The Archimedes Games - Triennial competition 23 November 2017 • The test consists of 20 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). One of these answers is correct, the other four are wrong. • Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. You have 110 minutes to run the test. Good work and good fun! Name of the applicant and date of birth: e-mail (optional): 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+> - **(A)** 90 cm²
+> - **(B)** 120 cm²
+> - **(C)** 60 cm²
+> - **(D)** 80 cm²
+> - **(E)** 160 cm²
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2017_triennio#q20|src_archimede_2017_triennio__Q20]]

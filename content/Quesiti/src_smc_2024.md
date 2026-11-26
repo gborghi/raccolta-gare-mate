@@ -35,9 +35,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due quinti della decimale ricorrente 0,25 (con 5 ricorrenti)*
+*Due quinti del numero decimale periodico 0,25 (con 5 che si ripete)*
 
-> Quali sono i due quinti del decimale ricorrente $0.2\overline{5}$?
+> Qual è i due quinti del numero decimale periodico $0.2\overline{5}$?
 >
 > - **(A)** $0.1$
 > - **(B)** $0.01$
@@ -45,7 +45,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $0.10$
 > - **(E)** $0.\overline{10}$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2024#q01|src_smc_2024__Q01]]
 
 
 
@@ -74,9 +78,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre di duecenti (≈0,0000018 m) in una lega (≈4800 m)*
+*Numero di twip (≈0,0000018 m) in una lega (≈4800 m)*
 
-> Un *twip* è un'unità di lunghezza molto breve, derivata da unità imperiali, ed è uguale a circa 0,0000018 metri. Una lega ** è un'unità di lunghezza pari a circa 4800 metri. Quante squadre ci sono in una lega?
+> Un *twip* è un'unità di lunghezza molto breve, derivata dalle unità imperiali, e corrisponde a circa 0,0000018 metri. Una *lega* è un'unità di lunghezza lunga, pari a circa 4800 metri. All'incirca quanti twip ci sono in una lega?
 >
 > - **(A)** $270\,000\,000$
 > - **(B)** $27\,000\,000$
@@ -84,7 +88,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $270\,000$
 > - **(E)** $27\,000$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2024#q02|src_smc_2024__Q02]]
 
 
 
@@ -114,9 +122,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due dadi standard impilati con 9 volti visibili che sommano a 33; trovare la somma su volti che toccano*
+*Due dadi standard impilati, con 9 facce visibili che sommano a 33; trova la somma sulle facce a contatto*
 
-> Su un tavolo vengono posizionati due dadi standard, uno sopra l'altro, in modo che solo nove delle facce dei dadi possano essere viste. Le facce che toccano hanno lo stesso numero. La somma dei numeri sui volti visibili è di 33. Qual e' la somma dei numeri sui volti che toccano?
+> Due dadi standard vengono posizionati su un tavolo, uno sopra l'altro, in modo che si possano vedere solo nove delle facce dei dadi. Le facce a contatto hanno lo stesso numero. La somma dei numeri sulle facce visibili è 33. Qual è la somma dei numeri sulle facce a contatto?
 >
 > - **(A)** $1$
 > - **(B)** $2$
@@ -124,7 +132,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $4$
 > - **(E)** $6$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2024#q03|src_smc_2024__Q03]]
 
 
 
@@ -154,9 +167,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con angoli x°, 7x°, x2°  trovare l'angolo più grande*
+*Triangolo con angoli x°, 7x°, x²° — determina l'angolo più grande*
 
-> Le dimensioni dei tre angoli in un triangolo, in gradi, sono $x$, $7x$ e $x^2$. Qual è la dimensione dell'angolo più grande?
+> Le misure, in gradi, dei tre angoli di un triangolo sono $x$, $7x$ e $x^2$. Qual è la misura del più grande angolo?
 >
 > - **(A)** $10^\circ$
 > - **(B)** $18^\circ$
@@ -164,7 +177,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $120^\circ$
 > - **(E)** $121^\circ$
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2024#q04|src_smc_2024__Q04]]
 
 
 
@@ -193,7 +211,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di cifre in 45 × 55 calcolato correttamente*
+*Numero di cifre in 4⁵ × 5⁵ calcolato correttamente*
 
 > Quando $4^5 \times 5^5$ viene calcolato correttamente, quante cifre ci sono nella risposta?
 >
@@ -203,7 +221,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $16$
 > - **(E)** $20$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2024#q05|src_smc_2024__Q05]]
 
 
 
@@ -235,9 +257,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Meno numero di bordi di un poliedro solido con una faccia ottagonale*
+*Numero minimo di spigoli di un poliedro convesso con una faccia ottagonale*
 
-> Una faccia di un poliedro solido è un ottagono. Qual è il più piccolo numero possibile di bordi che il solido possa avere?
+> Una faccia di un poliedro solido è un ottagono. Qual è il numero minimo possibile di spigoli che il solido potrebbe avere?
 >
 > - **(A)** $9$
 > - **(B)** $10$
@@ -247,7 +269,12 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2024__q06.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2024#q06|src_smc_2024__Q06]]
 
 
 
@@ -277,7 +304,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fattore primo più basso di 35 − 1*
+*Il più grande fattore primo di 3⁵ − 1*
 
 > Qual è il più grande fattore primo di $3^5 - 1$?
 >
@@ -287,7 +314,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $29$
 > - **(E)** $23$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2024#q07|src_smc_2024__Q07]]
 
 
 
@@ -316,9 +348,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimuovi una espressione da {4x, 8x, 12x, 16x, 20x} in modo che la media dei quattro rimanenti sia 11x*
+*Rimuovi un'espressione da {4x, 8x, 12x, 16x, 20x} in modo che la media delle quattro rimanenti sia 11x*
 
-> In queste espressioni $x$ non è zero. Quando una di queste espressioni viene rimossa, la media delle altre quattro è $11x$. Quale espressione viene rimossa?
+> Nelle seguenti espressioni, $x$ è diverso da zero. Quando una di queste espressioni viene rimossa, la media delle quattro rimanenti è $11x$. Quale espressione viene rimossa?
 >
 > - **(A)** $4x$
 > - **(B)** $8x$
@@ -326,7 +358,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $16x$
 > - **(E)** $20x$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2024#q08|src_smc_2024__Q08]]
 
 
 
@@ -356,9 +392,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cento cifre del più grande numero palindromico di 6 cifre divisibile per 18*
+*Cifra delle centinaia del più grande numero palindromo di 6 cifre divisibile per 18*
 
-> Un numero palindromico è quello in cui i numeri leggono lo stesso avanti e indietro, come 123 321. Qual è il centinaio di cifre del più grande numero palindromico di sei cifre divisibile per 18?
+> Un numero palindromo è un numero le cui cifre restano le stesse letta da sinistra a destra o da destra a sinistra, come 123 321. Qual è la cifra delle centinaia del più grande numero palindromo di sei cifre divisibile per 18?
 >
 > - **(A)** $9$
 > - **(B)** $7$
@@ -366,7 +402,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $3$
 > - **(E)** $1$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2024#q09|src_smc_2024__Q09]]
 
 
 
@@ -396,9 +437,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di fattori a due cifre del 2024 (= 23 × 11 × 23)*
+*Numero di fattori a due cifre di 2024 (= 2³ × 11 × 23)*
 
-> La fattorizzazione primaria del 2024 è $2^3 \times 11 \times 23$. Quanti numeri a due cifre sono fattori del 2024?
+> La scomposizione in fattori primi di 2024 è $2^3 \times 11 \times 23$. Quanti numeri a due cifre sono divisori di 2024?
 >
 > - **(A)** $2$
 > - **(B)** $4$
@@ -406,7 +447,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $7$
 > - **(E)** $8$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2024#q10|src_smc_2024__Q10]]
 
 
 
@@ -436,9 +482,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
+*Quale espressione è un quadrato perfetto per ogni numero intero positivo n?*
 
-> Quale delle seguenti espressioni è un numero quadrato per ogni intero positivo $n$?
+> Quale delle seguenti espressioni è un quadrato perfetto per ogni numero intero positivo $n$?
 >
 > - **(A)** $n + 1$
 > - **(B)** $n(n + 2) + 1$
@@ -446,7 +492,12 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $n(n+1)(n+2)(n+3) + 1$
 > - **(E)** $n(n+1)(2n+3(n+4)+1)$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2024#q11|src_smc_2024__Q11]]
 
 
 
@@ -476,17 +527,22 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro numeri primi a due cifre che utilizzano tutti i numeri non a zero tranne 5; trovare la loro somma*
+*Quattro numeri primi a due cifre che utilizzino tutte le cifre non nulle tranne il 5; determina la loro somma*
 
-> $p$, $q$, $r$ e $s$ sono numeri primi a due cifre che tra loro utilizzano tutti i numeri non zero tranne 5. Qual è il valore di $p + q + r + s$?
+> $p$, $q$, $r$ e $s$ sono numeri primi a due cifre che, nel loro insieme, utilizzano tutte le cifre non nulle tranne il 5. Qual è il valore di $p + q + r + s$?
 >
 > - **(A)** $220$
 > - **(B)** $210$
 > - **(C)** $200$
 > - **(D)** $190$
-> - **(E)** ulteriori informazioni necessarie
+> - **(E)** servono ulteriori informazioni
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2024#q12|src_smc_2024__Q12]]
 
 
 
@@ -517,9 +573,9 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piramida numerica parzialmente completata con le voci 1 e 10 della riga superiore 2024 e inferiore; trovare il mattone marcato*
+*Piramide numerica parzialmente completata, con 2024 in cima e 1 e 10 nella riga inferiore; trova il mattone contrassegnato*
 
-> Il diagramma mostra una piramide numerica parzialmente completata. Se completato correttamente, il numero di un mattone sopra la riga inferiore dovrebbe essere la somma dei numeri dei due mattoni su cui si poggia. Quale numero dovrebbe apparire sul mattone segnato '?'?
+> Il diagramma mostra una piramide numerica parzialmente completata. Una volta completata correttamente, il numero su qualsiasi mattoncino al di sopra della riga inferiore dovrebbe essere la somma dei numeri sui due mattoncini su cui poggia. Quale numero dovrebbe comparire sul mattoncino contrassegnato con '?'?
 >
 > - **(A)** $176$
 > - **(B)** $617$
@@ -529,7 +585,11 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 
 ![[src_smc_2024__q13.png]]
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2024#q13|src_smc_2024__Q13]]
 
 
 
@@ -559,9 +619,9 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le cifre P, Q, R, S, T sono 15 in un certo ordine; PRT e QRS sono entrambi numeri primi a 3 cifre; trovare R*
+*Le cifre P, Q, R, S, T sono 1, 2, 3, 4, 5 in qualche ordine; PRT e QRS sono entrambi numeri primi di tre cifre; trova R*
 
-> $P$, $Q$, $R$, $S$ e $T$ sono le cifre 1, 2, 3, 4 e 5 in un certo ordine. "$PRT$" e "$QRS$" sono entrambi numeri primi a tre cifre. Quale cifra è $R$?
+> $P$, $Q$, $R$, $S$ e $T$ sono le cifre 1, 2, 3, 4 e 5 in qualche ordine. '$PRT$' e '$QRS$' sono entrambi numeri primi di tre cifre. Quale cifra è $R$?
 >
 > - **(A)** $1$
 > - **(B)** $2$
@@ -569,7 +629,12 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $4$
 > - **(E)** $5$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2024#q14|src_smc_2024__Q14]]
 
 
 
@@ -600,9 +665,9 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due quadrati JKLM e NKPO che condividono angolo K; NL = 10 cm, area ombrata 62 cm2; trovi KN*
+*Due quadrati JKLM e NKPO che condividono il vertice K; NL = 10 cm, area ombreggiata 62 cm²; trovare KN*
 
-> Il diagramma mostra due quadrati, $JKLM$ e $NKPO$. La lunghezza di $NL$ è di 10 cm. La zona ombrata ha una superficie di 62 cm $^2$. Qual è la lunghezza di $KN$ in cm?
+> Il diagramma mostra due quadrati, $JKLM$ e $NKPO$. La lunghezza di $NL$ è 10 cm. La regione ombreggiata ha un'area di 62 cm$^2$. Qual è la lunghezza di $KN$ in cm?
 >
 > - **(A)** $3$
 > - **(B)** $\sqrt{18}$
@@ -612,7 +677,11 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 
 ![[src_smc_2024__q15.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2024#q15|src_smc_2024__Q15]]
 
 
 
@@ -644,9 +713,9 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pintura 3 di 8 porte blu (2×4 griglie) rosse: almeno una per fila e almeno due angoli rossi*
+*Pitturazione di 3 su 8 porte blu (griglia 2×4) in rosso: almeno una per riga e almeno due angoli rossi*
 
-> Una serie di armadi contenenti otto porte blu identiche è disposta in una griglia $2 \times 4$ come mostrato. Un decoratore di fabbrica desidera dipingere rosso tre delle porte in modo tale che almeno una porta in ogni riga sia dipinta di rosso e almeno due dei quattro angoli siano dipinti di rosso. Quanti modi ci sono per farlo?
+> Un insieme di armadietti, ciascuno dotato di otto porte blu identiche, è disposto in una griglia $2 \times 4$ come mostrato. Un decoratore di fabbrica desidera dipingere di rosso tre delle porte in modo che almeno una porta in ogni riga sia dipinta di rosso e almeno due dei quattro angoli siano dipinti di rosso. In quanti modi è possibile farlo?
 >
 > - **(A)** $12$
 > - **(B)** $24$
@@ -656,7 +725,12 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 
 ![[src_smc_2024__q16.png]]
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2024#q16|src_smc_2024__Q16]]
 
 
 
@@ -686,9 +760,9 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sacco di 4 palle rosse/bianche; P( entrambe disegnate in rosso) = 1/6; trovare P( entrambe disegnate in bianco)*
+*Sacchetto contenente 4 palline rosse/bianche; P(entrambe estratte rosse) = 1/6; trovare P(entrambe estratte bianche)*
 
-> Un sacchetto contiene quattro palle, ognuna di cui è di colore rosso o bianco. Se una palla viene tirata a caso e non sostituita, allora un'altra viene tirata a caso, la probabilità che entrambe le palle siano rosse è $\frac{1}{6}$. Qual è la probabilità che entrambe le palle siano bianche?
+> Un sacchetto contiene quattro palline, ciascuna delle quali è di colore rosso o bianco. Se si estrae a caso una pallina e non la si reimmette nel sacchetto, poi se ne estrae a caso un'altra, la probabilità che entrambe le palline siano rosse è $\frac{1}{6}$. Qual è la probabilità che entrambe le palline siano bianche?
 >
 > - **(A)** $\frac{1}{2}$
 > - **(B)** $\frac{1}{6}$
@@ -696,7 +770,12 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $\frac{1}{3}$
 > - **(E)** $0$
 
-**Risposta:** E
+**Topic:** [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2024#q17|src_smc_2024__Q17]]
 
 
 
@@ -727,9 +806,9 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi concentrici divisi da linee radiali in 14 pezzi uguali; il raggio del cerchio interno è 1; trovare il raggio esterno meno 1*
+*Due cerchi concentrici divisi da linee radiali in 14 parti uguali; il raggio del cerchio interno è 1; trovare il raggio esterno meno 1*
 
-> Il diagramma mostra due cerchi concentrici divisi da linee radiali in 14 pezzi di superficie uguale. Il raggio del cerchio più piccolo è di 1. Qual è la lunghezza, $s$, di una linea radial esterna?
+> Il diagramma mostra due cerchi concentrici suddivisi da linee radiali in 14 settori di uguale area. Il raggio del cerchio più piccolo è 1. Qual è la lunghezza, $s$, di una linea radiale esterna?
 >
 > - **(A)** $\sqrt{14} - 1$
 > - **(B)** $\sqrt{14} - 2$
@@ -739,7 +818,11 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 
 ![[src_smc_2024__q18.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2024#q18|src_smc_2024__Q18]]
 
 
 
@@ -769,17 +852,22 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque amici hanno distribuito carte 112; dedurre quali carte ciascuna persona detiene dai suoi punteggi*
+*Cinque amici hanno distribuito le carte da 1 a 12; dedurre quali carte possiede ciascuno in base ai loro punteggi*
 
-> A cinque amici vengono distribuite due carte ciascuna da un insieme di dodici carte. Le carte sono numerate da 1 a 12 inclusive. A loro volta, gli amici dichiarano la somma dei valori delle loro due carte. Paolo fa 4, Quinn fa 11, Romy fa 16, Stephen fa 19 e Thomas fa 20. Quale delle seguenti affermazioni è vera?
+> A cinque amici vengono distribuite due carte ciascuno da un mazzo di dodici carte. Le carte sono numerate da 1 a 12, inclusi entrambi gli estremi. A turno, gli amici dichiarano la somma dei valori delle proprie due carte. Paolo totalizza 4, Quinn totalizza 11, Romy totalizza 16, Stephen totalizza 19 e Thomas totalizza 20. Quale delle seguenti affermazioni è vera?
 >
 > - **(A)** Paolo ha la carta 2
-> - **(B)** Quinn ha la carta 3 .
+> - **(B)** Quinn ha la carta 3
 > - **(C)** Romy ha la carta 5
 > - **(D)** Thomas ha la carta 11
 > - **(E)** Stephen ha la carta 7
 
-**Risposta:** C
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2024#q19|src_smc_2024__Q19]]
 
 
 
@@ -809,9 +897,9 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valore massimo di y dato 1/x + 1/y = 1/20 con x, y integri positivi*
+*Valore massimo di y data l'equazione 1/x + 1/y = 1/20, con x e y interi positivi*
 
-> $x$ e $y$ siano integri positivi come $\frac{1}{x} + \frac{1}{y} = \frac{1}{20}$. Qual è il valore massimo possibile di $y$?
+> Siano $x$ e $y$ numeri interi positivi tali che $\frac{1}{x} + \frac{1}{y} = \frac{1}{20}$. Qual è il valore massimo possibile di $y$?
 >
 > - **(A)** $40$
 > - **(B)** $60$
@@ -819,7 +907,12 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $420$
 > - **(E)** $480$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2024#q20|src_smc_2024__Q20]]
 
 
 
@@ -849,9 +942,9 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2×3 griglia di numeri incrociati utilizzando cifre 19 una volta ogni volta; Across: multiple di 9, a quadrato; Down: multiple di 11, multiple di 13 e 19; trovare il numero non utilizzato*
+*Griglia da cruci-numero 2×3 in cui le cifre da 1 a 9 compaiono una sola volta ciascuna; Orizzontali: multiplo di 9, un quadrato; Verticali: multiplo di 11, multiplo di 13 e 19; trova la cifra non utilizzata*
 
-> Una crociverba deve essere compilata con i numeri da 1 a 9, ognuno utilizzato esattamente una volta. Gli indizi sono: Across  1. Un multiple di 9; 3. Un quadrato. In basso  1. Un multiple di 11; 2. Un multiple di 13 e di 19. Quale cifra non viene usata?
+> Un cruciverba deve essere compilato con le cifre da 1 a 9, ciascuna delle quali va usata esattamente una volta. Gli indizi sono: Orizzontali — 1. Un multiplo di 9; 3. Un quadrato. Verticali — 1. Un multiplo di 11; 2. Un multiplo di 13 e di 19. Quale cifra non viene usata?
 >
 > - **(A)** $9$
 > - **(B)** $8$
@@ -859,7 +952,12 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $3$
 > - **(E)** $2$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2024#q21|src_smc_2024__Q21]]
 
 
 
@@ -890,9 +988,9 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo FGH diviso in 4 triangoli più piccoli con aree 4, 8, 12, 8; area di ricerca del triangolo IKH*
+*Il triangolo FGH è suddiviso in 4 triangoli più piccoli con aree 4, 8, 12, 8; trovare l'area del triangolo IKH*
 
-> Come mostrato nel diagramma, il triangolo $FGH$ è diviso in quattro triangoli più piccoli che hanno rispettivamente aree 4, 8, 12 e 8. Qual è l'area del triangolo $IKH$?
+> Come mostrato nel diagramma, il triangolo $FGH$ è suddiviso in quattro triangoli più piccoli le cui aree sono rispettivamente 4, 8, 12 e 8. Qual è l'area del triangolo $IKH$?
 >
 > - **(A)** $4$
 > - **(B)** $5$
@@ -902,7 +1000,11 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 
 ![[src_smc_2024__q22.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2024#q22|src_smc_2024__Q22]]
 
 
 
@@ -933,9 +1035,9 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perimetro della "tiglia del cappello" di Einstein, fatta di pezzi congruenti con superficie 8√3*
+*Perimetro della 'piastrella cappello' di Einstein composta da pezzi a deltoide congruenti con area 8√3*
 
-> L'aereo può essere ripiegato utilizzando la "taglia del cappello" mostrata qui. Questa piastrella può essere suddivisa in otto comete congruenti. L'area della piastrella è $8\sqrt{3}$. Qual è il perimetro della piastrella?
+> Il piano può essere piastrellato utilizzando la 'piastrella cappello' mostrata qui. Questa piastrella può essere suddivisa in otto deltoidi congruenti. L'area della piastrella è $8\sqrt{3}$. Qual è il perimetro della piastrella?
 >
 > - **(A)** $8 + 12\sqrt{3}$
 > - **(B)** $16 + 6\sqrt{3}$
@@ -945,7 +1047,11 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 
 ![[src_smc_2024__q23.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2024#q23|src_smc_2024__Q23]]
 
 
 
@@ -975,7 +1081,7 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale f(x) + f(1/(1-x)) = 24x; trovare f(3)*
+*Equazione funzionale f(x) + f(1/(1-x)) = 24x; trova f(3)*
 
 > Una funzione $f$ soddisfa l'equazione $f(x) + f\!\left(\dfrac{1}{1-x}\right) = 24x$ per tutti i valori reali di $x$ tranne $x = 0$ e $x = 1$. Qual è il valore di $f(3)$?
 >
@@ -985,7 +1091,12 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 > - **(D)** $48$
 > - **(E)** $50$
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2024#q24|src_smc_2024__Q24]]
 
 
 
@@ -1017,9 +1128,9 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre semicircoli sovrapposti ciascuno dell'area 24; centri X, Y, Z con ZXY = 30°; trovare superficie ombrata totale*
+*Tre semicerchi sovrapposti, ciascuno di area 24; centri X, Y, Z con ∠ZXY = 30°; determinare l'area totale ombreggiata*
 
-> Tre semicircoli, ciascuno della zona 24, si sovrappongono come mostrato nel diagramma. I centri degli archi sono $X$, $Y$ e $Z$ e $\angle ZXY = 30^\circ$. Qual è la superficie totale delle regioni ombrose?
+> Tre semicerchi, ciascuno con area 24, si intersecano come mostrato nel diagramma. I centri degli archi sono $X$, $Y$ e $Z$ e $\angle ZXY = 30^\circ$. Qual è l'area totale delle regioni ombreggiate?
 >
 > - **(A)** $12$
 > - **(B)** $6\sqrt{3}$
@@ -1029,4 +1140,9 @@ Quale espressione è un quadrato perfetto per ogni numero intero positivo n?
 
 ![[src_smc_2024__q25.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2024#q25|src_smc_2024__Q25]]

@@ -50,31 +50,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tiles 2×1 at most on a 36-square region*
+*How many tiles of this kind can you place in the region at most?*
 
 ![[src_kangourou_2022_student_finale__probs1.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.5]
-  % Staircase pyramid: 6 rows (1,3,5,7,9,11 squares top to bottom) = 36 total
-  \foreach \i in {0,...,10} { \draw (\i,0) rectangle (\i+1,1); }
-  \foreach \i in {1,...,9}  { \draw (\i,1) rectangle (\i+1,2); }
-  \foreach \i in {2,...,8}  { \draw (\i,2) rectangle (\i+1,3); }
-  \foreach \i in {3,...,7}  { \draw (\i,3) rectangle (\i+1,4); }
-  \foreach \i in {4,...,6}  { \draw (\i,4) rectangle (\i+1,5); }
-  \draw (5,5) rectangle (6,6);
-  % 2x1 tile legend
-  \draw (8.5,5) rectangle (9.5,6);
-  \draw (9.5,5) rectangle (10.5,6);
-  \node at (9.5,4.5) {\small $2{\times}1$};
-\end{tikzpicture}
-\end{document}
-```
+> In the picture you see a region of the plane obtained by placing 36 little squares, all equal to one another, side by side, and a tile obtained by placing side by side two little squares identical to those of the region. How many tiles of this kind can you place in the region at most so that each covers exactly two little squares of the region and they do not overlap (not even partly)? You may use the picture to show how to place the tiles, but remember that you must also justify why you cannot place a greater number. (see the picture)
 
-> In the figure, you see a region of the plane obtained by joining 36 squares all equal to each other and a tile obtained by joining two squares identical to those of the region. How many tiles of this type can you have at most in the region so that each one covers exactly two squares of the region and does not overlap (even partially)? You can use the figure to indicate how to arrange the tiles, but remember that you also have to justify why you can't place a larger number. (see figure)
-
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 15
+[[Quesiti/src_kangourou_2022_student_finale#qs1|src_kangourou_2022_student_finale__QS1]]
 
 
 
@@ -100,13 +87,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*reds=greens*
+*Prove that the sum of the lengths of the red sides of the octagon equals the sum of the lengths of the green sides.*
 
 ![[src_kangourou_2022_student_finale__probs2.png]]
 
-> Two congruent squares, one with a red and the other with a green edge, are arranged in the plane so that their intersection is an octagon (the centers of the two squares may not coincide). Show that the sum of the lengths of the red sides of the octagon coincides with the sum of the lengths of the green sides. (see figure)
+> Two congruent squares, one with a red border and the other with a green border, are placed in the plane so that their intersection is an octagon (the centres of the two squares need not coincide). Prove that the sum of the lengths of the red sides of the octagon equals the sum of the lengths of the green sides. (see the picture)
 
-**Answer:** proof
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+**Answer:** dimostrazione
+[[Quesiti/src_kangourou_2022_student_finale#qs2|src_kangourou_2022_student_finale__QS2]]
 
 
 
@@ -130,11 +122,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*two equal digits*
+*Prove that this number you have obtained has at least two equal digits.*
 
-> Consider the number $20232022$ in decimal notation; remove its first digit from the right (the units digit) and add it to the number obtained from the remaining digits. Proceed in this way until you obtain a 10-digit number. Prove that this number you have obtained has at least two equal digits.
+> Consider the number $20232022$ in decimal notation; remove its first digit from the right (the units digit) and add it to the number obtained from the digits that remain. Proceed in this way until you obtain a number of 10 digits. Prove that this number you have obtained has at least two equal digits.
 
-**Answer:** proof
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Answer:** dimostrazione
+[[Quesiti/src_kangourou_2022_student_finale#qs3|src_kangourou_2022_student_finale__QS3]]
 
 
 
@@ -185,39 +182,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of pentagon points at a distance >1 from a vertex*
+*Determine the area of the region.*
 
 ![[src_kangourou_2022_student_finale__probs4.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=2]
-  % Regular pentagon ABCDE, circumradius ~ 0.8507, side 1
-  \coordinate (A) at (0, 0.8507);
-  \coordinate (B) at (-0.8090, 0.2629);
-  \coordinate (C) at (-0.5, -0.6882);
-  \coordinate (D) at (0.5, -0.6882);
-  \coordinate (E) at (0.8090, 0.2629);
-  \draw (A) -- (B) -- (C) -- (D) -- (E) -- cycle;
-  \node[above] at (A) {$A$};
-  \node[left]  at (B) {$B$};
-  \node[below left]  at (C) {$C$};
-  \node[below right] at (D) {$D$};
-  \node[right] at (E) {$E$};
-  % Circular arcs of radius 0.5 at each vertex (interior angle 108 deg)
-  \draw[blue, dashed] (A) +(-36:0.5)  arc[start angle=-36,  end angle=-144, radius=0.5];
-  \draw[blue, dashed] (B) +(36:0.5)   arc[start angle=36,   end angle=-72,  radius=0.5];
-  \draw[blue, dashed] (C) +(108:0.5)  arc[start angle=108,  end angle=0,    radius=0.5];
-  \draw[blue, dashed] (D) +(180:0.5)  arc[start angle=180,  end angle=72,   radius=0.5];
-  \draw[blue, dashed] (E) +(144:0.5)  arc[start angle=144,  end angle=36,   radius=0.5];
-  \node at (0.05, 0.0) {$F$};
-\end{tikzpicture}
-\end{document}
-```
+> Determine the area of the region that is the locus of the points inside a regular pentagon of side 1 that are at a distance greater than 1 from at least one of the vertices. (see the picture)
 
-> Determine the area of the region where the interior points of a regular pentagon with side 1 are more than 1 distance from at least one of the vertices. (see figure)
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** √3/2 - π/3
+[[Quesiti/src_kangourou_2022_student_finale#qs4|src_kangourou_2022_student_finale__QS4]]
 
 
 
@@ -269,39 +244,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Axis of a segment with max (chebyshev distance) metric*
+*Describe the perpendicular bisector of the segment with endpoints (−1, 0) and (1, 0) under the new notion of distance.*
 
 ![[src_kangourou_2022_student_finale__probs5.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.2]
-  \draw[->] (-2.2,0) -- (2.2,0) node[right] {$x$};
-  \draw[->] (0,-2.2) -- (0,2.2) node[above] {$y$};
-  \node[below left] at (0,0) {$O$};
-  \fill (-1,0) circle (2pt) node[below] {$(-1,0)$};
-  \fill  (1,0) circle (2pt) node[below] {$(1,0)$};
-  % Upper shaded triangle
-  \fill[blue!20] (0,1) -- (-1,2) -- (1,2) -- cycle;
-  \draw (0,1) -- (-1,2) -- (1,2) -- cycle;
-  % Lower shaded triangle
-  \fill[blue!20] (0,-1) -- (-1,-2) -- (1,-2) -- cycle;
-  \draw (0,-1) -- (-1,-2) -- (1,-2) -- cycle;
-  % Dashed rectangles (Chebyshev balls)
-  \draw[red,  dashed, thick] (0,-1) rectangle (2,1);
-  \draw[blue, dashed, thick] (-2,-1) rectangle (0,1);
-  % Line labels
-  \node[above left]  at (-1,2)  {$y-1=-x$};
-  \node[above right] at (1,2)   {$y-1=x$};
-  \node[below left]  at (-1,-2) {$y+1=x$};
-  \node[below right] at (1,-2)  {$y+1=-x$};
-\end{tikzpicture}
-\end{document}
-```
+> In the plane equipped with a Cartesian coordinate system $Oxy$ with equal units on the axes, we introduce a new notion of distance: the distance of the point $(x, y)$ from the point $(a, b)$ is the greater of the numbers $|x-a|$ and $|y-b|$ (which may coincide). The perpendicular bisector of a segment is defined, with respect to this new notion of distance, in the usual way, that is, as the locus of the points equidistant from the endpoints of the segment. Describe the perpendicular bisector of the segment with endpoints $(-1, 0)$ and $(1, 0)$ with respect to the new notion of distance (NOT with respect to the Euclidean distance). (see the picture)
 
-> In the plane with a monometric orthogonal cartesian system $Oxy$, we introduce a new notion of distance: the distance from the point $(x, y)$ to the point $(a, b)$ is the largest of the numbers $|x-a|$ and $|y-b|$ (which may coincide). The axis of a segment is defined, in relation to this new concept of distance, in the usual way, that is, as the place of the points equidistant from the ends of the segment. Describe the axis of the $(-1, 0)$ and $(1, 0)$ extreme segment with respect to the new concept of distance (NOT with respect to Euclidean distance). (see figure)
-
-**Answer:** description of locus
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_insiemi_funzioni|Sets and functions]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+**Answer:** descrizione luogo
+[[Quesiti/src_kangourou_2022_student_finale#qs5|src_kangourou_2022_student_finale__QS5]]
 
 
 
@@ -325,8 +279,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-negative integers as a union of disjoint translates of A0*
+*Prove that it is possible.*
 
-> Prove that it is possible to express the set of non-negative integers as a union $\bigcup_{n=0}^{\infty} A_n$, where the $A_n$ are two-to-two disjoint subsets, each consisting of infinite elements, and such that, for each $n \geq 1$, $A_n$ is obtained by adding the same constant, dependent on $n$, to each element of $A_0$.
+> Prove that it is possible to express the set of the non-negative integers as a union $\bigcup_{n=0}^{\infty} A_n$, where the $A_n$ are pairwise disjoint subsets, each made up of infinitely many elements, and such that, for every $n \geq 1$, $A_n$ can be obtained by adding one and the same constant, depending on $n$, to every element of $A_0$.
 
-**Answer:** proof
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_insiemi_funzioni|Sets and functions]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Answer:** dimostrazione
+[[Quesiti/src_kangourou_2022_student_finale#qs6|src_kangourou_2022_student_finale__QS6]]

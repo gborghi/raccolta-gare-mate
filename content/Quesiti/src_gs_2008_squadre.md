@@ -32,11 +32,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rider meal price reports*
+*Reports on the prices of knights' meals*
 
-> If it's A, B, D, and E wearing those colors, the rest is completed in 2 ways 2-3. If they are A (or E), B and D, the rest is completed in 1 way 4-5. If they are A, B (or D) and E, the rest is completed in 3 ways.
+> If A, B, D, and E are the ones wearing those colors, the rest can be completed in 2 ways: 2-3. If it's A (or E), B, and D, the rest can be completed in 1 way: 4-5. If it's A, B (or D), and E, the rest can be completed in 3 ways.
 
-**Answer:** 13.60
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2008_squadre#q01|src_gs_2008_squadre__Q01]]
 
 
 
@@ -59,11 +64,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Members of two choirs with a common part*
+*Members of the two choirs sharing a part*
 
-> 2 . Therefore ≥ 199 and the value 199 ` and actually obtained conpk = 1 2 + 1 2 1 199. Solution of problem 5 (Lethal Cocktail) 2·45+1·40+1·0 4 = 32.5 Solution of problem 6 (Tadfield Zoo, I) The situation ` and outlined by matrix A B C D E yellow blue X green X X red X X X X
+> 2. Hence, n ≥ 199, and the value 199 can indeed be obtained with pk = 1/2 + 1/2 1/199. Solution to Problem 5 (Lethal Cocktail) 2·45+1·40+1·0 4 = 32.5 Solution to Problem 6 (At Tadfield Zoo, I) The situation is schematized by the matrix A B C D E yellow blue X X green X X X red X X X
 
-**Answer:** 2745
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2008_squadre#q02|src_gs_2008_squadre__Q02]]
 
 
 
@@ -87,11 +96,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiple number of another with the same digits*
+*A number that is a multiple of another number and has the same digits*
 
-> 3. The required area ` eA(1 + 32 + 34) = 91A = 7735 m2. Solution to problem 17 (Tadfield Zoo, II) The situation ` and always outlined by the matrix A B C D E yellow(1) blue (2) X X green (2) X X red (3) X X X Lodio for red and that for green are independent. At least two of these must be worn. The cases are (4 4 ) +
+> 3. The required area is A(1 + 32 + 34) = 91A = 7735 m². Solution to Problem 17 (At Tadfield Zoo, II) The situation is always represented schematically by the matrix A B C D E yellow (1) blue (2) X X green (2) X X X red (3) X X X The aversion to red and the aversion to green are independent. At least two of these must be worn. The cases are (4 4 ) +
 
-**Answer:** 2475
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2008_squadre#q03|src_gs_2008_squadre__Q03]]
 
 
 
@@ -117,13 +131,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of stones subject to weight restrictions*
+*Minimum number of stones with weight constraint*
 
-> Ligur, the head of the underground quarry, must carry $100\,\text{t}$ of stones, each weighing less than $1\,\text{t}$, from the quarry to a deposit. Only one truck with a maximum capacity of $1\,\text{t}$ is available. The truck always travels without further loading, in the sense that, for each trip, no stone can be added without exceeding the maximum range.
-> 
-> What is the maximum number of trips from the quarry to the warehouse that the truck will have to make to transport all the stones?
+> Ligur, the head of the underground quarry, must have $100\,\text{t}$ stones, each weighing less than $1\,\text{t}$, transported from the quarry to a depot. He has only one truck with a maximum load capacity of $1\,\text{t}$. The truck is always at its maximum load capacity—that is, on each trip, no additional stone can be added without exceeding the maximum load capacity.
+>
+> What is the maximum possible number of trips from the quarry to the depot that the truck will have to make to transport all the stones?
 
-**Answer:** 199
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2008_squadre#q04|src_gs_2008_squadre__Q04]]
 
 
 
@@ -146,11 +165,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Medium weighted lethal cocktail*
+*Media pesata cocktail letale*
 
-> If they're A and E, the rest is completed in three ways.
+> If they are A and E, the rest can be completed in 3 ways.
 
-**Answer:** 32.5
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2008_squadre#q05|src_gs_2008_squadre__Q05]]
 
 
 
@@ -178,11 +201,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*T-shirts for monkeys at the zoo (I)*
+*Color Monkey T-Shirts at the Zoo (I)*
 
-> If they're B and D, the rest you can't complete 8-9. If they're B (or D) and E, the rest is completed in 1 way 10-11. If they are A and B (or D), the rest is completed in 1 mode 3.
-> 
+> If they are B and D, the rest can't be completed.
+> 8-9. If they are B (or D) and E, the rest can be completed in 1 way. 10-11. If they are A and B (or D), the rest can be completed in 1 way. 3
+>
 > The total is 2 + 1 × 2 + 2 × 3 + 3 + 0 + 2 × 1 + 2 × 1 = 17
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2008_squadre#q06|src_gs_2008_squadre__Q06]]
 
 
 
@@ -226,7 +257,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Point of the trapezoid farthest from the diagonal meeting*
+*The vertex of the trapezoid farthest from the intersection of the diagonals*
 
 ![[src_gs_2008_squadre__prob7.png]]
 
@@ -247,11 +278,15 @@ level: squadre
 \end{document}
 ```
 
-> In Tadfield, the *Divine Quad* is a square in the shape of a rectangular trapezoid with the parallel sides of length $66\,\text{m}$ and $84\,\text{m}$ and the side perpendicular to these of length $135\,\text{m}$. On the floor of the square are drawn the diagonal of the trapezoid. The four segments from the meeting point of the diagonals towards each corner of the square are called *paths of ecstasy*.
-> 
-> What is the length in centimeters of the path of the longest ecstasy?
+> In Tadfield, the Divine Quad is a rectangular-trapezoid-shaped square whose parallel sides have lengths $66\,\text{m}$ and $84\,\text{m}$, and whose side perpendicular to these has length $135\,\text{m}$. The diagonals of the trapezoid are drawn on the square's floor. The four line segments from the intersection point of the diagonals to each of the square's corners are called the paths of ecstasy.
+>
+> What is the length, in centimeters, of the longest path of ecstasy?
 
-**Answer:** 89.04
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2008_squadre#q07|src_gs_2008_squadre__Q07]]
 
 
 
@@ -276,13 +311,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total cylinder surface area*
+*Total surface area of the cylinder*
 
-> In front of the Ell woodworkers' laboratory, a structure formed by a letter **L** is erected, obtained with a cut and an adhesive: taking a high wooden cylinder $6\,\text{m}$ with a base diameter of $2\,\text{m}$, it is cut into two equal parts by sealing it with a single cut, inclined by $45^\circ$ with respect to the axis of the cylinder; then the two sections are joined making them perfectly coincide to form the **L**. The **L** in front of the laboratory is completely painted with phosphorescent paint.
-> 
+> In front of the Ell wood artists' workshop stands a structure shaped like an **L**, created by cutting and gluing: starting with a wooden cylinder $6\,\text{m}$ in height and with a base diameter of $2\,\text{m}$, it is cut into two equal parts by sawing it with a single cut inclined at $45^\circ$ relative to the cylinder's axis; then the two sections are joined, fitting them together perfectly to form the **L**. The **L** in front of the workshop is painted entirely with phosphorescent paint.
+>
 > What is the area covered by the paint in $\text{dm}^2$, including the bases?
 
-**Answer:** 4398
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2008_squadre#q08|src_gs_2008_squadre__Q08]]
 
 
 
@@ -307,13 +346,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of points of the star*
+*Sum of the vertex angles of the star*
 
-> Adam draws a five-pointed star, joining five points with five segments. Four angles at the ends are given the same width; the width of the angle at the other ends is $12^\circ$.
-> 
-> What is the width in degrees of one of the four angles at the same point?
+> Adam draws a five-pointed star by joining five points with five line segments. Four of the angles at the points are of the same measure; the measure of the angle at the point that is different from the others is $12^\circ$.
+>
+> What is the measure, in degrees, of one of the four equal angles at the points?
 
-**Answer:** 42
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2008_squadre#q09|src_gs_2008_squadre__Q09]]
 
 
 
@@ -338,13 +381,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Long side difference of folded sheet*
+*Difference on the long side of the folded sheet*
 
-> Pepper takes a sheet, folds it in half on the long side and cuts it along the fold. Take one of the two sides, fold it in two on the long side and cut it along the fold. Repeat the same operation three more times (five cuts in total), and you get a sheet size $62\,\text{mm} \times 88\,\text{mm}$.
-> 
-> How much could he measure the long side of the sheet from which he had begun? How much could he at least measure? Give the difference between the two measurements in millimetres as an answer.
+> Pepper takes a sheet of paper, folds it in half lengthwise, and cuts it along the fold. They take one of the two halves, fold it in half lengthwise, and cut it along the fold. They repeat the same operation three more times (five cuts in total), and end up with a small sheet measuring $62\,\text{mm} \times 88\,\text{mm}$.
+>
+> What was the maximum possible length of the long side of the sheet they started with? What was the minimum possible length? Give as the answer the difference between the two measurements, in millimetres.
 
-**Answer:** 2320
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2008_squadre#q10|src_gs_2008_squadre__Q10]]
 
 
 
@@ -371,15 +418,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the letter W with Pick's theorem*
+*Area of the W-shaped region with Pick's theorem*
 
 ![[src_gs_2008_squadre__prob11.png]]
 
-> Wensleydale took a sheet, folded it in half on the long side. He marked three points on the folded sheet: the point $X$ halfway on the fold, and the two points $A$ and $B$ to $2\,\text{cm}$ from the fold on each of the folded sides. He then made two cuts: one along the $XA$ segment, the other from $B$, parallel to the first cut, so as to reach the top. When he unfolded the sheet, he realized he had a V. He made another equal and overlaid them on an isosceles triangle where the side different from the other two is $4\,\text{cm}$ to get a W.
-> 
-> What is the area of W in $\text{cm}^2$?
+> Wensleydale took a sheet $12\,\text{cm} \times 8\,\text{cm}$ and folded it in half along its long side. He marked three points on the folded sheet: point $X$ at the midpoint of the fold, and points $A$ and $B$, each $2\,\text{cm}$ from the fold on each of the folded sides. He then made two cuts: one along the segment $XA$, and the other starting at $B$, parallel to the first cut, so that it reached the vertex. When he unfolded the sheet, he realized he had produced a V. He made another identical V and superimposed them on an isosceles triangle in which the side different from the other two is $4\,\text{cm}$ long, to obtain a W.
+>
+> What is the area of the W in $\text{cm}^2$?
 
-**Answer:** 104
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2008_squadre#q11|src_gs_2008_squadre__Q11]]
 
 
 
@@ -405,13 +456,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exponent n making a square a power of 2*
+*Exponent n that makes a power of 2 a square*
 
-> Brian is looking for some integer $n$ such that the sum $2^{2008} + 2^{3599} + 2^n$ becomes a perfect square.
-> 
+> Brian is looking for some integer $n$ such that the sum $2^{2008} + 2^{3599} + 2^n$ is a perfect square.
+>
 > What is the largest integer $n$ that Brian can find?
 
-**Answer:** 5188
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2008_squadre#q12|src_gs_2008_squadre__Q12]]
 
 
 
@@ -434,9 +490,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of separate birthdays*
+*Probability of distinct birthdays*
 
-> What's the probability that Adam, Pepper, Wensleydale and Brian's birthdays fall on four different days of the week? The sum of the numerator and denominator of the fraction obtained after simplifying all the common factors shall be given as the answer.
+> What is the probability that the birthdays of Adam, Pepper, Wensleydale, and Brian fall on 4 different days of the week? State as the answer the sum of the numerator and denominator of the fraction obtained after simplifying all common factors.
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2008_squadre#q13|src_gs_2008_squadre__Q13]]
 
 
 
@@ -461,11 +524,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum n of 4 digits with a given shape square*
+*Maximum n of 4 digits with a square of given shape*
 
-> Newton Pulsifer is trying to determine a four-digit combination to open a lock box. After torturing the witch, who owned the coffin, Newton discovered that the combination is a perfect square with the penultimate digit 5.
-> 
-> What's the largest four-digit number that could be the combination Newton was looking for?
+> Newton Pulsifer is trying to determine a four-digit combination to open the lock on a chest. After torturing the witch who owns the chest, Newton has discovered that the combination is a perfect square whose second-to-last digit is 5.
+>
+> What is the largest four-digit number that can be the combination Newton is looking for?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2008_squadre#q14|src_gs_2008_squadre__Q14]]
 
 
 
@@ -491,13 +561,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number between 1000 and 9999 with digits other than the multiples of 1792*
+*A number between 1000 and 9999 whose digits are different from the multiples of 1792*
 
-> The Metatron explained to Aziraphale that it must look for the predestined newborn in those hospital rooms whose 4-digit numbers have the property that, by substituting any way for up to 3 digits, you never get a positive multiple of $1792$.
-> 
-> Write the difference between the smallest and the largest of the numbers of rooms where Aziraphale must search for the predestinate.
+> Metatron explained to Aziraphale that he must look for the predestined newborn in those hospital rooms whose four-digit numbers have the property that, by replacing at most 3 digits in any way, one never obtains a positive multiple of $1792$.
+>
+> Write the difference between the smallest and the largest of the room numbers in which Aziraphale must look for the predestined one.
 
-**Answer:** 7858
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2008_squadre#q15|src_gs_2008_squadre__Q15]]
 
 
 
@@ -523,13 +598,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of enclosures inscribed between avenues*
+*Area of inscribed circumferences between the small paths*
 
-> Tadfield's public garden is bounded by two alleys that move away from the entrance forming an angle of $60^\circ$ between them. Within the garden there are 3 circular ponds, one of which is tangent to the other two; each avenue passes tangentially to each pond. The first pond occupies an area of $85\,\text{m}^2$.
-> 
+> The public garden in Tadfield is bounded by two paths that diverge from the entrance, forming an angle of $60^\circ$ with each other. Inside the garden, there are 3 circular ponds, one of which is tangent to the other two; each path passes tangentially to each pond. The first pond covers an area of $85\,\text{m}^2$.
+>
 > What is the area occupied by the three ponds in $\text{m}^2$?
 
-**Answer:** 7735
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2008_squadre#q16|src_gs_2008_squadre__Q16]]
 
 
 
@@ -555,13 +635,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*T-shirts for monkeys (II) counting*
+*Colors of monkey T-shirts (II) count*
 
-> Sylvier had actually bought 1 yellow shirt, 2 blue, 2 green and 3 red, leaving them in the room of the five monkeys.
-> 
-> In how many ways could the monkeys Albert, Berto, Sure, Derto, and Erto have worn the shirts, given their color aversions?
+> Sylvier had indeed bought 1 yellow T-shirt, 2 blue ones, 2 green ones, and 3 red ones, leaving them in the room of the five monkeys.
+>
+> In how many ways could the monkeys Alberto, Berto, Certo, Derto, and Erto have worn the T-shirts, taking their aversions to colors into account?
 
-**Answer:** 17
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2008_squadre#q17|src_gs_2008_squadre__Q17]]
 
 
 
@@ -590,17 +675,21 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shorter course on the cylinder surface*
+*Shortest path on the surface of the cylinder*
 
 ![[src_gs_2008_squadre__prob18.png]]
 
-> An ant is in the center of the circle at the top of the**L** in front of the Ell lab. Another is in the center of the other circle on **L**.
-> 
-> How long in millimeters is the shortest path that allows one ant to reach the other?
-> 
+> One ant is at the center of the circle at the top of the **L** in front of the Ell laboratory. Another is at the center of the other circle on the **L**.
+>
+> How many millimeters long is the shortest path that allows one ant to reach the other?
+>
 > (see figure)
 
-**Answer:** 6000
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2008_squadre#q18|src_gs_2008_squadre__Q18]]
 
 
 
@@ -625,13 +714,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three-digit number with a power of 14 to 30 digits*
+*Three-digit number with a 14th power having 30 digits*
 
 > To pass the time, Warlock calculates the fourteenth power of a positive integer and gets $114197726928752863294965276721$.
-> 
-> What's the positive integer that Warlock raised to the 14th power?
+>
+> What is the positive integer that Warlock raised to the fourteenth power?
 
-**Answer:** 119
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2008_squadre#q19|src_gs_2008_squadre__Q19]]
 
 
 
@@ -658,15 +751,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of megaliths per given length*
+*Maximum number of megaliths over a given length*
 
 ![[src_gs_2008_squadre__prob20.png]]
 
-> In the large plain south of Tadfield, two parallel white lines, at a distance of $240\,\text{cm}$, are drawn in plaster to form a long strip of land $20\,\text{km}$. Within the strip are laid megaliths (large stones) all of which are equal and are said to have been left by the Knights of the Apocalypse as a warning. All the megaliths have the same straight prism shape, each $3\,\text{m}$ high. Each base is in the shape of a rectangular trapezoid: the parallel sides are $58\,\text{cm}$ and $128\,\text{cm}$, the perpendicular side to these is $240\,\text{cm}$. The megaliths are laid so that the major bases of the trapezium are all aligned on one of the two white lines and the oblique sides of the trapezium are parallel to each other. A megalite fell, spinning on the oblique side of the base and now, on the ground, the nearby megalite barely slips. In fact, there's always enough distance between two megaliths so that if a megalith falls spinning on the oblique side, it doesn't touch the nearby megalith.
-> 
-> What is the maximum possible number of megaliths on the strip in the great plain?
+> On the vast plain south of Tadfield, two parallel white chalk lines are drawn, $240\,\text{cm}$ apart, forming a strip of land $20\,\text{km}$ long. Within the strip, identical megaliths (large stones) are laid—it is said that they were left by the Horsemen of the Apocalypse as a warning. All the megaliths have the same right-prism shape, each $3\,\text{m}$ high. Each base is a right trapezoid: the parallel sides measure $58\,\text{cm}$ and $128\,\text{cm}$, and the side perpendicular to these measures $240\,\text{cm}$. The megaliths are laid so that the longer bases of the trapezoids are all aligned on one of the two white lines and the non-parallel sides of the trapezoids are parallel to one another. One megalith has fallen, rotating on the non-parallel side of its base, and now, on the ground, it just grazes the adjacent megalith. In fact, there is always enough distance between two megaliths so that, if a megalith falls while rotating on its non-parallel side, it does not touch the adjacent megalith.
+>
+> What is the maximum possible number of megaliths laid on the strip in the vast plain?
 
-**Answer:** 4808
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2008_squadre#q20|src_gs_2008_squadre__Q20]]
 
 
 
@@ -694,15 +791,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following table shows the number of players in the table:
+*Position-swapping configurations (poker)*
 
-> Ten supernatural entities, tired of playing dice with the universe, decide to play poker. Sitting around a round table, they agree that, at midnight, they will all rise to sit down following strictly this rule: each entity will be able to sit back in its previous seat or in one of the two adjacent seats.
-> 
-> How many possible configurations of the game table, other than the initial one, after all entities have risen and resettled?
-> 
-> [N.B. Two configurations which differ only in one rotation shall be considered the same for the purposes of counting.]
+> 10 supernatural entities, tired of playing dice with the universe, decide to play poker. Seated around a round table, they agree that, halfway through the evening, they will all stand up and sit back down in strict accordance with this rule: each entity may sit back down in the seat it occupied previously or in one of the two adjacent seats.
+>
+> How many possible configurations of the gaming table, different from the initial one, are there after all the entities have stood up and sat back down?
+>
+> [N.B. Two configurations that differ only by a rotation are to be regarded as the same for the purposes of counting.]
 
-**Answer:** 122
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2008_squadre#q21|src_gs_2008_squadre__Q21]]
 
 
 
@@ -732,17 +834,22 @@ The following table shows the number of players in the table:
 <div class="qlang-split" data-lang="en"></div>
 
 
-Shortest path triangular billiards with bounces
+*Triangular billiards: shortest path with bounces*
 
 ![[src_gs_2008_squadre__prob22.png]]
 
-> Crowley and Aziraphale play pool on a triangular pool with three sides of equal length $2\,\text{m}$ and a hole in each corner. They play with a ball and the rules are as follows: you place the ball in front of a hole and you hit it so that it bounces as many times as you want, but at least twice against one of the banks, and you end it in the hole in front of which the ball was placed.
-> 
-> What is the length in centimetres of the minimum path that can be used to send the ball properly into the hole?
-> 
-> [N.B. Consider yourself ball and pointed holes, the ball on the same point of the hole and players as powerful as it can serve.]
+> Crowley and Aziraphale play billiards on a triangular billiard table with the three cushions all of length $2\,\text{m}$ and a pocket at each corner. They play with one ball and follow these rules: the ball is placed in front of a pocket and struck so that it bounces as many times as desired—but at least twice off one of the cushions—and ends up in the pocket in front of which the ball was placed.
+>
+> What is the length in centimetres of the shortest path by which the ball can be sent into the pocket correctly?
+>
+> [N.B. Treat the ball and the pockets as point-like; consider the ball to be at exactly the same point as the pocket; and assume the players are as powerful as needed.]
 
-**Answer:** 0916
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2008_squadre#q22|src_gs_2008_squadre__Q22]]
 
 
 
@@ -766,11 +873,16 @@ Shortest path triangular billiards with bounces
 <div class="qlang-split" data-lang="en"></div>
 
 
-*T-shirts for monkeys (III) counting*
+*T-shirt colors: monkeys (III) count*
 
-> In how many ways could the monkeys Albert, Berto, Sure, Derto and Erto have worn the shirts that Sylvier had bought if they had no aversion to any color?
+> In how many ways could the monkeys Alberto, Berto, Certo, Derto, and Erto have worn the T-shirts that Sylvier had bought, if they had not been averse to any color?
 
-**Answer:** 440
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2008_squadre#q23|src_gs_2008_squadre__Q23]]
 
 
 
@@ -810,12 +922,29 @@ Shortest path triangular billiards with bounces
 <div class="qlang-split" data-lang="en"></div>
 
 
-Prophecy by Agnes Nutter, true/false and divisibility
+*Prophecy of Agnes Nutter, True/False and Divisibility*
 
-> Agnes Nutter's prophecy made it possible to determine exactly what the year would have been. of the events of the Apocalypse. In the prophecy, Agnes declared that the Apocalypse would occur before 10,000 C.E. and that the following indications were definitely false or true:
-> 
-> 1. Equal sentences are always true. 2. The next two sentences are both false. 3. If I subtract the number of true sentences from $N$, we get a power of 2. 4. If I take the number of the first false sentence from $N$, you get a multiple of 3. 5. The two sentences before this are both true. 6. The first six sentences have at least five false ones. 7. The number of divisors of $N$ is given by the number of false sentences. 8. Subtracting to $N$ the number of the first false sentence after this one, you get a power of 3. 9. The last seven sentences have more false than true sentences. 10. True sentences are more than false. 11. There's five false sentences in a row. 12. If I add the number of the last true sentence to $N$, we get a multiple of 7. 13. The last three sentences are either all true or all false.
-> 
-> What was the year of Agnes Nutter's prophecy?
+> Agnes Nutter's prophecy made it possible to determine precisely which year $N$ AD would be the year of the events of the Apocalypse. In the prophecy, Agnes stated that the Apocalypse would occur before 10000 AD and that the following clues were certainly false or true:
+>
+> 1. Even-numbered sentences are always true.
+> 2. The next two sentences are both false.
+> 3. If I subtract the number of true sentences from $N$, I get a power of 2.
+> 4. If I subtract the number of the first false sentence from $N$, I get a multiple of 3.
+> 5. The two sentences preceding this one are both true.
+> 6. Among the first 6 sentences, at least 5 are false.
+> 7. The number of divisors of $N$ is given by the number of false sentences.
+> 8. If I subtract from $N$ the number of the first false sentence after this one, I get a power of 3.
+> 9. Among the last 7 sentences, there are more false sentences than true ones.
+> 10. There are more true sentences than false ones.
+> 11. There are 5 consecutive false sentences.
+> 12. If I add the number of the last true sentence to $N$, I get a multiple of 7.
+> 13. The last 3 sentences are all true or all false.
+>
+> What year did Agnes Nutter's prophecy indicate?
 
-**Answer:** 2053
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2008_squadre#q24|src_gs_2008_squadre__Q24]]

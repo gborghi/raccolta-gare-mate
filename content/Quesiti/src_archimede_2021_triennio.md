@@ -36,15 +36,22 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles with two vertices of the same colour on the circumference*
+*Triangles with two vertices of the same colour on a circle*
 
-> Along a circumference are marked four red dots, three green dots, two yellow dots, one blue dots. How many triangles can be obtained by choosing two vertices of the same color and a third of a different color?
+> On a circle there are four red points, three green points, two yellow points and one blue point. How many
+> triangles can be obtained by choosing two vertices of the same colour and the third vertex of a different colour?
 >
 > - **(A)** 56
 > - **(B)** 60
 > - **(C)** 72
 > - **(D)** 65
 > - **(E)** 54
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2021_triennio#q01|src_archimede_2021_triennio__Q01]]
 
 
 
@@ -74,15 +81,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum value of 5-3/x with zero factor product*
+*Maximum value of 5 − 3/x given a product of factors equal to zero*
 
-> Knowing that (3x + 2) ((7 −4x) ((4x + 7) = 0, what is the maximum value of 5 −3 x?
+> Knowing that (3x + 2)(7 − 4x)(4x + 7) = 0, what can be, at most, the value of
+> 5 − 3/x ?
 >
 > - **(A)** 23/7
 > - **(B)** 35/4
 > - **(C)** 22/3
 > - **(D)** 19/2
 > - **(E)** 47/7
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2021_triennio#q02|src_archimede_2021_triennio__Q02]]
 
 
 
@@ -114,15 +127,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Knights and thieves in the mail at the post office*
+*Knights and liars in lines at the post office*
 
-> On an island where only knights (who always tell the truth) and crooks (who always tell the lies) live, the post office is quite crowded. There are four lines at the gates: one with 11 people, one with 12, one with 13 and one with 14 people. Each of the present (except the first three in each row) says this sentence: Among the people in front of me in my row there are at least three thieves. How many knights are there at the post office?
+> On the island where only knights (who always tell the truth) and liars (who always lie) live, the post office is quite crowded. There are four lines at the counters: one with 11 people, one with 12, one with 13 and one with 14 people. Each of those present (except the first three in each line) says this sentence: “among the people in front of me in my line there are at least three liars”. How many knights are there in total at the post office?
 >
 > - **(A)** 25
 > - **(B)** 32
 > - **(C)** 38
-> - **(D)** It is not possible to establish
+> - **(D)** it cannot be determined
 > - **(E)** 42
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2021_triennio#q03|src_archimede_2021_triennio__Q03]]
 
 
 
@@ -151,7 +170,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What a power product and a perfect square*
+*Which product of powers is a perfect square*
 
 > Which of the following is the square of an integer?
 >
@@ -160,6 +179,12 @@ level: triennio
 > - **(C)** 777 · 1417 · 2213
 > - **(D)** 779 · 1416 · 2213
 > - **(E)** 779 · 1412 · 2216
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2021_triennio#q04|src_archimede_2021_triennio__Q04]]
 
 
 
@@ -189,15 +214,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of two comrades ending up in the same classroom*
+*Probability that two classmates end up in the same room*
 
-> Mira and Dino, fellow gamblers, are enrolled in the Games of Archimedes. The 49 participants are drawn, 35 in one room and 14 in another. What are the odds that Mira and Dino end up in the same room?
+> Mira and Dino, deskmates, are enrolled in the Giochi di Archimede. The 49 participants are randomly assigned, 35 to one room and 14 to another. What is the probability that Mira and Dino end up in the same room?
 >
 > - **(A)** 9/16
 > - **(B)** 1/2
 > - **(C)** 7/12
 > - **(D)** 8/15
 > - **(E)** 5/8
+
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2021_triennio#q05|src_archimede_2021_triennio__Q05]]
 
 
 
@@ -227,15 +258,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies n with n^6+3n^5 multiple of 49, sum of two*
+*Positive integers n with n^6 + 3n^5 divisible by 49; sum of the 4th and 7th such numbers in increasing order.*
 
-> Consider the positive integers n such that n6 + 3n5 is a multiple of 49. Assuming you have these values in ascending order, indicate the sum between the 4° and the 7° of these numbers.
+> Consider the positive integers n such that n^6 + 3n^5 is a multiple of 49. Assuming these values of n are arranged in increasing order, indicate the sum of the 4th and 7th of these numbers.
 >
 > - **(A)** 77
 > - **(B)** 74
 > - **(C)** 88
 > - **(D)** 70
 > - **(E)** 81
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2021_triennio#q06|src_archimede_2021_triennio__Q06]]
 
 
 
@@ -264,15 +301,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hexagon perimeter circumscribed at one circumference*
+*Perimeter of a hexagon circumscribed about a circle*
 
-> The ABCDEF axis is bounded by a circumference. Its sides AB, BC, CD and EF measure 27 m, 25 m, 19 m and 29 m respectively. What is the perimeter of the hexagon?
+> An hexagon ABCDEF is circumscribed about a circle. Its sides AB, BC, CD, EF measure, respectively,
+> 27 m, 25 m, 19 m, 29 m. What is the perimeter of the hexagon?
 >
 > - **(A)** 150 m
 > - **(B)** 146 m
 > - **(C)** 148 m
 > - **(D)** 152 m
 > - **(E)** 154 m
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_triennio#q07|src_archimede_2021_triennio__Q07]]
 
 
 
@@ -334,7 +377,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PQR triangular area from sub-triangular areas with cevial*
+*Area of triangle PQR from areas of sub-triangles with cevians*
 
 ![[src_archimede_2021_triennio__prob8.png]]
 
@@ -361,13 +404,25 @@ level: triennio
 \end{document}
 ```
 
-> In the PQR triangle, the points S and T belong, in order, to the sides PQ and QR. Given the intersection of the RS and PT segments, the areas of the PIR, RIT and SIP triangles measure 5 mm2, 10 mm2 and 1 mm2 respectively. What is the area of the PQR triangle? P Q R S T I
+> In triangle PQR, points S and T belong, in order, to sides PQ and QR. Let I be the intersection point of segments RS and PT. The areas of triangles PIR, RIT and SIP measure respectively 5 mm2, 10 mm2 and 1 mm2. What is the area of triangle PQR?
+> P
+> Q
+> R
+> S
+> T
+> I
 >
 > - **(A)** 36 mm2
 > - **(B)** 30 mm2
 > - **(C)** 24 mm2
 > - **(D)** 27 mm2
 > - **(E)** 32 mm2
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_triennio#q08|src_archimede_2021_triennio__Q08]]
 
 
 
@@ -397,15 +452,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values of k with a polynomial having a double root of the other*
+*Values of k for which the polynomial has a double root of the other*
 
-> Consider real k such that the polynomial p(x) = x2 −(k + 1)x + (3k + 1) has a root that is twice the other. Indicate the sum of all these values k.
+> Consider the real values of k such that the polynomial p(x) = x2 −(k + 1)x + (3k + 1) has a root that is double of the other. Indicate the sum of all these values of k.
 >
 > - **(A)** 19/2
 > - **(B)** 9
 > - **(C)** 17/4
 > - **(D)** 23/2
 > - **(E)** 19/4
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2021_triennio#q09|src_archimede_2021_triennio__Q09]]
 
 
 
@@ -436,15 +497,23 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Infinite words on A,B avoiding certain letters*
+*Infinite words over A and B avoiding certain triples of letters*
 
-> Emanuela writes words using only the letters A and B, respecting these conditions: each word cannot contain any of the sequences of three consecutive letters AAA, BBB, ABB, BBA. How many words of infinite length (i.e. continuing unlimitedly to the right) could Emmanuel write?
+> Emanuela writes words using only the letters A and B, respecting these conditions: each word cannot
+> contain any of the sequences of three consecutive letters AAA, BBB, ABB, BBA. How many are the words of
+> infinite length (that is, which continue indefinitely to the right) that Emanuela could write?
 >
 > - **(A)** 2
 > - **(B)** 3
-> - **(C)** None of them.
-> - **(D)** Endless
+> - **(C)** none
+> - **(D)** infinite
 > - **(E)** 4
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2021_triennio#q10|src_archimede_2021_triennio__Q10]]
 
 
 
@@ -476,15 +545,24 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Adm angle in parallelogram with conic points*
+*Angle ADM in a parallelogram with concyclic points*
 
-> In an ABCD parallelogram where bA = 76°, M is a point on the AB side and N is a point on the BC side such that MC = CD and DM = MN. The points C, D, M, N belong to the same circumference. What is the width of the angle \ ADM ?
+> In a parallelogram ABCD where ∠A = 76°, let M be a point on side AB and N a point on side BC such that
+> MC = CD and DM = MN.
+> The points C, D, M, N belong to the same circle. What is the measure
+> of the angle ∠
+> ADM?
 >
 > - **(A)** 38°
 > - **(B)** 30°
 > - **(C)** 27°
 > - **(D)** 36°
 > - **(E)** 33°
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_triennio#q11|src_archimede_2021_triennio__Q11]]
 
 
 
@@ -516,10 +594,16 @@ level: triennio
 
 *Function with two symmetries, sum of values*
 
-> The real-valued function f satisfies the equations f(x) = f(2021 −x) and f(x + 10) = f(2010 −x), for any real number x. If we know that f(3) + f(4) + f(5) + f(6) = 6, what is the value of f(16) + f(17) + f(18) ?
+> A real-valued function f satisfies the equalities f(x) = f(2021 − x) and f(x + 10) = f(2010 − x), for any real number x. Knowing that f(3) + f(4) + f(5) + f(6) = 6, what is the value of f(16) + f(17) + f(18)?
 >
 > - **(A)** 18
 > - **(B)** 8/3
-> - **(C)** It is not possible to establish
+> - **(C)** cannot be determined
 > - **(D)** 9/2
-> - **(E)** 18/5 1302 Italian Mathematical Union Olympic Mathematics Project Ministry of Education The Archimedean Games - Triennial Competition 2 December 2021  The test consists of 12 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). One of these answers is correct, the other four are wrong.  Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded.  For each of the problems, the corresponding letter to the correct answer must be transcribed in the grid below. Cancellations or corrections on the grid are not permitted. No calculator or communication device shall be used during the test. The time you have is 60 minutes. Good work and good fun! COGNOME COGNOME CLASS date of birth: email address: RESPONSES TO PROBLEMS: 1 2 3 4 5 6 7 8 9 10 11 12 The games of Archimedes 2021 GARA TREENNIO   CODE PROVA: 1302
+> - **(E)** 18/5
+
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2021_triennio#q12|src_archimede_2021_triennio__Q12]]

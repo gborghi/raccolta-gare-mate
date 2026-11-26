@@ -51,7 +51,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*area of the ADE triangle (parallelogram)*
+*Area of triangle ADE (parallelogram)*
 
 ![[src_kangourou_2007_benjamin_maggio__probb1.png]]
 
@@ -75,9 +75,13 @@ level: kangourou
 \end{document}
 ```
 
-> If the parallelogram $ABCD$ has an area $7 \ \text{cm}^2$, and the triangle $EBC$ has an area $2 \ \text{cm}^2$, what is the area of the triangle $ADE$ in the figure? (see figure)
+> If the parallelogram $ABCD$ has area $7 \ \text{cm}^2$, and the triangle $EBC$ has area $2 \ \text{cm}^2$, what is the area of the triangle $ADE$ in the figure? (see figure)
 
-**Answer:** 1,5 cm^2
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_benjamin_maggio#qb1|src_kangourou_2007_benjamin_maggio__QB1]]
 
 
 
@@ -102,13 +106,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum coins for triangles and squares*
+*Minimum coins for triangle and square*
 
 ![[src_kangourou_2007_benjamin_maggio__probb2.png]]
 
-> You can place 15 equal coins on a table so that they form an equilateral triangle (see figure), but you can't do that so that they form a square (one coin is missing). What's the minimum number of coins you can use to form both a triangle and a square?
+> You can place 15 identical coins on a table so that they "form an equilateral triangle" (see figure), but you cannot do so that they "form a square" (one coin is missing). What is the minimum number of coins with which you can form both a triangle and a square?
 
-**Answer:** 36
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_benjamin_maggio#qb2|src_kangourou_2007_benjamin_maggio__QB2]]
 
 
 
@@ -132,11 +140,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of male pupils (91 handshakes)*
+*Number of male students (91 handshakes)*
 
-> In a classroom where there are at least two males and two females, each boy shakes each girl's hand once. A total of 91 handshakes were made. If males are fewer than females, how many male students are in that class?
+> In a class with at least two boys and two girls, each boy shakes hands with each girl once. In total, 91 handshakes have taken place. If there are fewer boys than girls, how many male students are there in that class?
 
-**Answer:** 7
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_benjamin_maggio#qb3|src_kangourou_2007_benjamin_maggio__QB3]]
 
 
 
@@ -169,17 +182,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining molecule type (reactions with invariant)*
+*Type of molecule remaining (reactions with invariant)*
 
-> By reacting with each other, three types of $X$, $Y$ and $\text{Anti-X}$ molecules behave as follows: - if a molecule of $X$ meets one of $Y$, a molecule of $\text{Anti-X}$ is formed that replaces them; - if a molecule of $\text{Anti-X}$ meets one of $Y$, a molecule of $X$ is formed that replaces them; - if a molecule of $X$ and one of $\text{Anti-X}$ meet, they explode, disappear and release energy.
-> 
-> Of course, no molecule reacts with molecules of the same type!
-> 
-> Four $X$ molecules, two $Y$ and five $\text{Anti-X}$ react with each other in such a way that one molecule is eventually left. Can we guess which type it is?
-> 
-> [Caution: if you are positive, you must show that no other result can be obtained; otherwise, you must indicate two procedures each of which allows one molecule to be produced and the two molecules produced are different].
+> When they react with one another, three types of molecules, $X$, $Y$, and $\text{Anti-X}$, behave as follows:
+> - if a molecule of $X$ meets a molecule of $Y$, a molecule of $\text{Anti-X}$ is formed, replacing them;
+> - if a molecule of $\text{Anti-X}$ meets a molecule of $Y$, a molecule of $X$ is formed, replacing them;
+> - if a molecule of $X$ and a molecule of $\text{Anti-X}$ meet, they explode, disappear, and release energy.
+>
+> Naturally, no molecule reacts with molecules of the same type!
+>
+> Four molecules of $X$, two of $Y$, and five of $\text{Anti-X}$ react with one another in such a way that in the end only a single molecule remains. Can we guess what type it is?
+>
+> [Attention: if you answer in the affirmative, you must show that no other result can be obtained; otherwise, you must specify two procedures, each of which allows a single molecule to be produced, and the two molecules produced must be different].
 
-**Answer:** Anti-X
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_benjamin_maggio#qb4|src_kangourou_2007_benjamin_maggio__QB4]]
 
 
 
@@ -207,13 +228,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles of perimeter 27 with distinct whole sides*
+*Triangles with perimeter 27 and distinct integer sides*
 
-> The professor of technical education asked to build a perimeter triangle with the following requirements: - the sides must measure an integer number of centimetres, - the dimensions of the sides must be three numbers all different from each other.
-> 
-> How many different triangles can his pupils give him, if you consider two triangles equal when for each side of one of the two there is a side of the other that has the same size?
+> The technical education teacher asked that a triangle with perimeter $27 \ \text{cm}$ be constructed, subject to these requirements:
+> - the sides must measure a whole number of centimetres,
+> - the side lengths must be three numbers, all different from one another.
+>
+> How many different triangles can his pupils hand in to him, if two triangles are considered identical when, for each side of one of them, there is a side of the other with the same length?
 
-**Answer:** 12
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_benjamin_maggio#qb5|src_kangourou_2007_benjamin_maggio__QB5]]
 
 
 
@@ -237,8 +265,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many candies (combinations 3 = double 2)*
+*How many candies (combinations of 3 = double of 2)*
 
-> I have candies all different from each other in my pocket, and the number of ways I can choose three is twice the number of ways I can choose two. How many candies do I have in my pocket?
+> I have all sorts of different candies in my pocket, and the number of ways I can choose three of them is twice the number of ways I can choose two of them. How many candies do I have in my pocket?
 
-**Answer:** 8
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_benjamin_maggio#qb6|src_kangourou_2007_benjamin_maggio__QB6]]

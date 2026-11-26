@@ -30,11 +30,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il divisore più piccolo che dà il rimanente 114*
+*Minimo divisore che dà resto 114*
 
-> Quando $2001$ è diviso da un certo intero positivo $n$, il rimanente è $114$. Tra tali $n$, trova il più piccolo. Si noti che $n > 114$.
+> Quando $2001$ viene diviso per un certo intero positivo $n$, il resto è $114$. Tra tali $n$, trova il più piccolo. Si noti che $n > 114$.
 
-**Risposta:** 629
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jmo11yq_yosen#q01|src_jmo11yq_yosen__Q01]]
 
 
 
@@ -59,11 +64,18 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'insieme di 5 quadrati congruenti confezionati in rettangolo 8 x 7*
+*Lato di 5 quadrati congruenti impacchettati in un rettangolo 8×7*
 
-> All'interno di un rettangolo di altezza $8$ e larghezza $7$, sono imballati cinque quadrati congruenti come mostrato nella figura seguente. Trova la lunghezza di un lato di uno dei quadrati.
+> All'interno di un rettangolo di altezza $8$ e larghezza $7$, cinque quadrati congruenti sono disposti a pacchetto come mostrato nella figura sottostante. Determinare la lunghezza del lato di uno dei quadrati.
 
 ![[src_jmo11yq_yosen__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jmo11yq_yosen#q02|src_jmo11yq_yosen__Q02]]
 
 
 
@@ -87,11 +99,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sottosette di 1..2001 con somma impar*
+*Sottoinsiemi di 1..2001 con somma dispari*
 
-> Dalle cifre naturali $2001$ $1, 2, 3, \ldots, 2001$ vengono scelte diverse cifre contemporaneamente. Quanti modi ci sono per sceglierne in modo che la somma totale dei numeri scelti sia strana? Per convenzione, quando nessun numero è scelto, la somma è $0$; inoltre, è consentito scegliere tutti i numeri $2001$.
+> Dai $2001$ numeri naturali $1, 2, 3, \ldots, 2001$, si scelgono più numeri tutti insieme. In quanti modi si possono scegliere affinché la somma totale dei numeri scelti sia dispari? Per convenzione, quando non si sceglie alcun numero la somma è $0$; inoltre, è consentito scegliere tutti i $2001$ numeri.
 
-**Risposta:** 2^{2000}
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jmo11yq_yosen#q03|src_jmo11yq_yosen__Q03]]
 
 
 
@@ -114,9 +131,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Radiale del triangolo AFE con triangolo equilaterale inciso*
+*Raggio inscritto del triangolo AFE con triangolo equilatero inscritto*
 
-> C'è un triangolo equilaterale $ABC$ con lunghezza laterale $a$. I punti $D, E, F$ si trovano rispettivamente sui lati $BC, CA, AB$ e il triangolo $DEF$ è un triangolo equilaterale con lunghezza laterale $b$ (dove $b < a$). Trova il raggio del cerchio del triangolo $AFE$.
+> Esiste un triangolo equilatero $ABC$ con lato di lunghezza $a$. I punti $D, E, F$ giacciono rispettivamente sui lati $BC, CA, AB$, e il triangolo $DEF$ è un triangolo equilatero con lato di lunghezza $b$ (dove $b < a$). Determinare il raggio della circonferenza inscritta nel triangolo $AFE$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jmo11yq_yosen#q04|src_jmo11yq_yosen__Q04]]
 
 
 
@@ -140,11 +164,18 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-Somma dei poteri del 2001 mod 13
+*Il resto di 1^2001 + … + 2001^2001 nella divisione per 13*
 
-> Trova il rimanente quando $1^{2001} + 2^{2001} + 3^{2001} + \cdots + 2000^{2001} + 2001^{2001}$ è diviso da $13$.
+> Trovare il resto della divisione di $1^{2001} + 2^{2001} + 3^{2001} + \cdots + 2000^{2001} + 2001^{2001}$ per $13$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
 **Risposta:** 0
+
+[[Quesiti/src_jmo11yq_yosen#q05|src_jmo11yq_yosen__Q05]]
 
 
 
@@ -167,9 +198,16 @@ Somma dei poteri del 2001 mod 13
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maxima distanza dal punto fisso alla linea PQ con superficie quadrilaterale fissa*
+*Distanza massima dal punto fisso alla retta PQ con area del quadrilatero fissa*
 
-> Sul piano delle coordinate si trovano l'origine $O(0,0)$ e il punto $A(1,0)$. Il punto $P$ si muove lungo la metà $x = 0,\ y \ge 1$ e il punto $Q$ si muove lungo la metà $x = 1,\ y \ge 1$, in modo tale che l'area del quadrilaterale $OAQP$ sia sempre $2$. Trova il valore massimo possibile della distanza dal punto $B\left(\frac{1}{4}, 0\right)$ alla linea $PQ$. Qui, la distanza da $B$ alla linea $PQ$ significa la lunghezza della perpendicolare scesa da $B$ alla linea $PQ$.
+> Nel piano cartesiano si trovano l'origine $O(0,0)$ e il punto $A(1,0)$. Il punto $P$ si muove lungo il semiretta $x = 0,\ y \ge 1$, e il punto $Q$ si muove lungo il semiretta $x = 1,\ y \ge 1$, in modo che l'area del quadrilatero $OAQP$ sia sempre $2$. Determinare il valore massimo possibile della distanza tra il punto $B\left(\frac{1}{4}, 0\right)$ e la retta $PQ$. Qui, la distanza tra $B$ e la retta $PQ$ indica la lunghezza della perpendicolare abbassata da $B$ sulla retta $PQ$.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jmo11yq_yosen#q06|src_jmo11yq_yosen__Q06]]
 
 
 
@@ -199,13 +237,18 @@ Somma dei poteri del 2001 mod 13
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare quadrati latini 4x4 con condizione di blocco 2x2*
+*Conta i quadrati latini 4x4 con condizione dei blocchi 2x2*
 
-> Fare una griglia di celle $4 \times 4$ e scrivere in cifre da $1$ a $4$, quattro di ciascuna (una cifra per cella), fatte salve le seguenti tre condizioni: (i) In ogni riga, $1, 2, 3, 4$ appaiono ciascuna esattamente una volta. (ii) In ogni colonna, $1, 2, 3, 4$ appaiono esattamente una volta. (iii) Quando l'intera griglia è divisa in quattro parti con le linee in grasso come illustrato nella figura seguente (i quattro blocchi $2 \times 2$), ciascuna parte contiene $1, 2, 3, 4$ esattamente una volta. Quanti sono questi modi di scrivere in cifre?
+> Crea una griglia di celle $4 \times 4$ e inserisci al suo interno le cifre da $1$ a $4$, quattro volte ciascuna (una cifra per cella), rispettando le seguenti tre condizioni: (i) in ogni riga, ciascuna $1, 2, 3, 4$ compare esattamente una volta; (ii) in ogni colonna, ciascuna $1, 2, 3, 4$ compare esattamente una volta; (iii) quando l'intera griglia viene suddivisa in quattro parti dalle linee in grassetto come mostrato nella figura sottostante (i quattro blocchi $2 \times 2$), ciascuna parte contiene ciascuna $1, 2, 3, 4$ esattamente una volta. Quante sono le modalità possibili per inserire le cifre in questo modo?
 
 ![[src_jmo11yq_yosen__q07.png]]
 
-**Risposta:** 288
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jmo11yq_yosen#q07|src_jmo11yq_yosen__Q07]]
 
 
 
@@ -230,9 +273,18 @@ Somma dei poteri del 2001 mod 13
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rede reali comuni di due equazioni polinomiche*
+*Radici reali comuni di due equazioni polinomiali*
 
-> Trova tutti i numeri reali $x$ che soddisfano contemporaneamente entrambe le seguenti equazioni: $$x^5 + 2x^4 - x^3 - 5x^2 - 10x + 5 = 0$$ $$x^6 + 4x^5 + 3x^4 - 6x^3 - 20x^2 - 15x + 5 = 0$$
+> Trovare tutti i numeri reali $x$ che soddisfano simultaneamente entrambe le seguenti equazioni:
+> $$x^5 + 2x^4 - x^3 - 5x^2 - 10x + 5 = 0$$
+> $$x^6 + 4x^5 + 3x^4 - 6x^3 - 20x^2 - 15x + 5 = 0$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jmo11yq_yosen#q08|src_jmo11yq_yosen__Q08]]
 
 
 
@@ -255,9 +307,16 @@ Somma dei poteri del 2001 mod 13
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'angolo BAC dato AB=CD e il bisettore d'angolo*
+*Trovare l'angolo BAC sapendo che AB=CD e che è data la bisettrice dell'angolo*
 
-> In un triangolo $ABC$ con $\angle ABC = 2\,\angle ACB$, $D$ deve essere l'intersezione del bisettore di $\angle BAC$ con il lato $BC$. Quando $AB = CD$, quanti gradi è $\angle BAC$? Qui, la lunghezza di un segmento $XY$ è indicata da $XY$.
+> In un triangolo $ABC$ con $\angle ABC = 2\,\angle ACB$, sia $D$ l'intersezione della bisettrice di $\angle BAC$ con il lato $BC$. Quando $AB = CD$, quanti gradi vale $\angle BAC$? Qui, la lunghezza di un segmento $XY$ è indicata con $XY$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jmo11yq_yosen#q09|src_jmo11yq_yosen__Q09]]
 
 
 
@@ -281,11 +340,16 @@ Somma dei poteri del 2001 mod 13
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Regioni tagliate di 10 piani in posizione generale*
+*Regioni tagliate da 10 piani in posizione generale*
 
-> Nel spazio ci sono $10$ piani distinti. Ogni $2$ dei piani condivide esattamente una linea, ogni $3$ dei piani condivide esattamente un punto e nessun $4$ dei piani ha un punto comune. In quante parti dividono gli aerei $10$ lo spazio?
+> Nello spazio ci sono $10$ piani distinti. Ogni $2$ insieme di piani condivide esattamente una retta, ogni $3$ insieme di piani condivide esattamente un punto, e nessun $4$ insieme di piani ha un punto in comune. In quante parti questi $10$ piani dividono lo spazio?
 
-**Risposta:** 176
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jmo11yq_yosen#q10|src_jmo11yq_yosen__Q10]]
 
 
 
@@ -308,9 +372,16 @@ Somma dei poteri del 2001 mod 13
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare n a 3 cifre con S(6n) >= 12 S(n)*
+*Conta i numeri n di tre cifre tali che S(6n) >= 12 S(n)*
 
-> Per un intero positivo $n$, $S(n)$ indica la somma dei divisori positivi di $n$. Quanti numeri interi positivi a tre cifre $n$ soddisfano $S(6n) \ge 12\,S(n)$?
+> Per un numero intero positivo $n$, si indichi con $S(n)$ la somma dei divisori positivi di $n$. Quanti numeri interi positivi di tre cifre $n$ soddisfano $S(6n) \ge 12\,S(n)$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jmo11yq_yosen#q11|src_jmo11yq_yosen__Q11]]
 
 
 
@@ -336,6 +407,13 @@ Somma dei poteri del 2001 mod 13
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Min S per una griglia 5x9 sommata a 1 con blocchi 2x3 delimitati*
+*Min S per griglia 5x9 con somma pari a 1 e blocchi 2x3 delimitati*
 
-> C'è una griglia di cellule $5 \times 9$. In ogni cella si scrive un numero reale non negativo (un numero reale $\ge 0$), in modo che siano soddisfatte le seguenti condizioni: (i) La somma totale dei numeri reali scritti $45$ è $1$. (ii) Tuttavia, se sulla griglia è posta una cornice rettangolare $2 \times 3$ (orientata verticalmente o orizzontalmente, in qualsiasi posizione allineata), la somma dei numeri $6$ all'interno è al massimo $S$. Trova il valore minimo del numero reale $S$ per il quale esiste un tale modo di scrivere i numeri.
+> C'è una griglia di $5 \times 9$ celle. In ciascuna cella scriviamo un numero reale non negativo (un numero reale $\ge 0$), in modo che siano soddisfatte le seguenti condizioni: (i) La somma totale dei $45$ numeri reali scritti è $1$. (ii) Tuttavia, qualunque $2 \times 3$ cornice rettangolare venga posta sulla griglia (orientata verticalmente o orizzontalmente, in qualsiasi posizione allineata), la somma dei $6$ numeri al suo interno è al più $S$. Determinare il valore minimo del numero reale $S$ per cui esiste un tale modo di scrivere i numeri.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jmo11yq_yosen#q12|src_jmo11yq_yosen__Q12]]

@@ -33,13 +33,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di movimenti di cavaliere per raggiungere qualsiasi quadrato su una lavagna 5x5*
+*Mosse minime del Cavallo per raggiungere qualsiasi casella su una scacchiera 5x5*
 
-> A Joao piace verificare le proprietà del cavaliere d' scacchi su una tavola. In uno dei suoi esperimenti, Jo\~ao colloca un cavaliere nel quadrato inferiore sinistro della tavola $5 \times 5$. Qual è il numero minimo di mosse che il cavaliere deve fare per raggiungere qualsiasi quadrato della tavola $5 \times 5$?
-> 
-> *Nota:* Il cavaliere si muove in una forma $L$: due quadrati in una direzione e poi un quadrato in una direzione perpendicolare, come illustrato nella figura.
+> A João piace verificare le proprietà del cavallo degli scacchi su una scacchiera $5 \times 5$. In uno dei suoi esperimenti, João posiziona un cavallo nella casella in basso a sinistra della scacchiera $5 \times 5$. Qual è il numero minimo di mosse che il cavallo deve compiere per poter raggiungere qualsiasi casella della scacchiera $5 \times 5$?
+>
+> *Nota:* Il cavallo si muove a forma di $L$: due caselle in una direzione e poi una casella in direzione perpendicolare, come illustrato nella figura.
 
 ![[src_obm_2012_n2_f2__q01.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n2_f2#q01|src_obm_2012_n2_f2__Q01]]
 
 
 
@@ -64,9 +71,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca a meno b data reale non-zero a,b che soddisfa due uguaglianza congiunte*
+*Trovare a meno b, dati a e b reali non nulli che soddisfano due uguaglianze congiunte*
 
-> Dati numeri reali non zero $a$ e $b$ in modo tale che $$\frac{1}{a} + \frac{1}{b} = \frac{a-4}{2012} = ab = 4024,$$ qual è il valore di $a - b$?
+> Dati numeri reali non nulli $a$ e $b$ tali che
+> $$\frac{1}{a} + \frac{1}{b} = \frac{a-4}{2012} = ab = 4024,$$
+> Qual è il valore di $a - b$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n2_f2#q02|src_obm_2012_n2_f2__Q02]]
 
 
 
@@ -89,9 +105,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riduzione da 1 a 100 con operazioni iterate; trovare l'ultimo numero rimanente*
+*Ridurre da 1 a 100 tramite operazioni iterate; trovare l'ultimo numero rimasto*
 
-> Zoroastro ha scritto i numeri $1, 2, \ldots, 100$ in una scatola nera. Eseguirà operazioni per ridurre la quantità di numeri finché non rimarrà solo uno. La prima operazione consiste nel scegliere da questa casella due numeri $a$ e $b$ e sostituirli con $a + b - 1$. La seconda operazione consiste nel scegliere due numeri $a$ e $b$ e sostituirli con $a + b - 2$. In generale, dopo le operazioni $k$ la nuova operazione è: scegliere due numeri $a$ e $b$ e sostituirli da $a + b - (k+1)$. Determina quale numero rimarrà alla fine.
+> Zoroastro ha scritto i numeri $1, 2, \ldots, 100$ in una casella nera. Eseguirà delle operazioni per ridurre la quantità di numeri finché ne resterà uno solo. La prima operazione consiste nel scegliere due numeri qualsiasi, $a$ e $b$, dalla casella e nel sostituirli con $a + b - 1$. La seconda operazione consiste nel scegliere due numeri qualsiasi, $a$ e $b$, e nel sostituirli con $a + b - 2$. In generale, dopo $k$ operazioni, la nuova operazione è: scegliere due numeri qualsiasi, $a$ e $b$, e sostituirli con $a + b - (k+1)$. Determinare quale numero resterà alla fine.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n2_f2#q03|src_obm_2012_n2_f2__Q03]]
 
 
 
@@ -113,9 +136,15 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La minima n per la somma dell'angolo interno del poligono superiore a 2012 gradi*
+*Minimo n per cui la somma degli angoli interni di un poligono è superiore a 2012 gradi*
 
-> Qual è il valore più piccolo di $n$ per il quale un poligono con lati $n$ ha la somma dei suoi angoli interni più grandi di $2012^\circ$?
+> Qual è il valore minimo di $n$ per cui un poligono con $n$ lati ha la somma dei suoi angoli interni maggiore di $2012^\circ$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n2_f2#q04|src_obm_2012_n2_f2__Q04]]
 
 
 
@@ -140,11 +169,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i percorsi di formiche da A a B sulla griglia evitando quattro vertici interni*
+*Conta i percorsi delle formiche da A a B sulla griglia, evitando quattro vertici interni*
 
-> Una formica deve camminare lungo le linee nere della figura di seguito dal vertice $A$ al vertice $B$. Sapendo che il vertice $B$ è solo un quadrato verso la destra superiore del vertice $A$, e che la formica non può passare attraverso i vertici del piccolo quadrato interno, determinare il numero di percorsi diversi la formica può prendere.
+> Una formica deve percorrere le linee nere della figura sottostante dal vertice $A$ al vertice $B$. Sapendo che il vertice $B$ si trova a appena un quadrato in alto a destra rispetto al vertice $A$, e che la formica non può passare attraverso i vertici del piccolo quadrato interno, determina il numero di percorsi diversi che la formica può seguire.
 
 ![[src_obm_2012_n2_f2__q05.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n2_f2#q05|src_obm_2012_n2_f2__Q05]]
 
 
 
@@ -167,9 +203,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Palindromi nella base 10: trovare tutti i due cifre ab con ab+ba e ab×ba entrambi i palindromi*
+*Palindromi in base 10: trova tutti i numeri di due cifre ab tali che sia ab+ba sia ab*ba siano palindromi*
 
-> Un numero è un *palindromo* quando la sequenza di cifre che si legge da sinistra a destra è la stessa che si legge da destra a sinistra. Ad esempio, $12321$ è un palindromo. Determinare tutti i numeri a due cifre $\overline{ab}$ (in base 10) in modo tale che $\overline{ab} + \overline{ba}$ e $\overline{ab} \times \overline{ba}$ siano entrambi palindromi. Ad esempio, $12 + 21 = 33$ e $12 \times 21 = 252$ mostrano che il numero $12$ soddisfa queste condizioni.
+> Un numero è un *palindromo* quando la sequenza delle cifre letta da sinistra a destra è identica a quella letta da destra a sinistra. Ad esempio, $12321$ è un palindromo. Determinare tutti i numeri di due cifre $\overline{ab}$ (in base 10) tali che $\overline{ab} + \overline{ba}$ e $\overline{ab} \times \overline{ba}$ siano entrambi palindromi. Ad esempio, $12 + 21 = 33$ e $12 \times 21 = 252$ mostrano che il numero $12$ soddisfa queste condizioni.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n2_f2#q06|src_obm_2012_n2_f2__Q06]]
 
 
 
@@ -192,9 +235,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area del triangolo AEC dato rettangolo ABCD e triangolo equilaterale esterno CED*
+*Area del triangolo AEC dati il rettangolo ABCD e il triangolo equilatero esterno CED*
 
-> Il $ABCD$ deve essere un rettangolo tale che $AD = 6$ e $DC = 8$. Costruire un triangolo equilaterale $CED$ tale che $C$, $A$ e $B$ si trovino nello stesso semiplano determinato dalla linea $CD$. Determinare l'area del triangolo $AEC$.
+> Sia $ABCD$ un rettangolo tale che $AD = 6$ e $DC = 8$. Costruisci un triangolo equilatero $CED$ tale che $C$, $A$ e $B$ giacciano nello stesso semipiano determinato dalla retta $CD$. Determinare l'area del triangolo $AEC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n2_f2#q07|src_obm_2012_n2_f2__Q07]]
 
 
 
@@ -219,9 +269,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei numeri esadesimali (1)_16 a (100)_16 valutati nella base 10*
+*Somma dei numeri esadecimali da (1)_16 a (100)_16, valutata in base 10*
 
-> Sul pianeta *Hexaterra*, la base più utilizzata è l'esadecimale (base 16) invece del decimale (base 10). Nella base 16, le lettere $A, B, C, D, E, F$ vengono usate come cifre (in ordine crescente). Per esempio, $(10)_{16} = 10 \times 16 + 1 = 176$, $(AB)_{16} = 10 \times 16 + 11 = 176$, $(F0E)_{16} = 15 \times 16^2 + 0 \times 16 + 14 = 3854$. Determinare il valore della somma $$(1)_{16} + (2)_{16} + \cdots + (D)_{16} + (E)_{16} + (F)_{16} + (10)_{16} + \cdots + (100)_{16}$$ nella base 10.
+> Sul pianeta *Hexaterra*, la base più utilizzata è quella esadecimale (base 16) invece di quella decimale (base 10). In base 16, le lettere $A, B, C, D, E, F$ vengono usate come cifre (in ordine crescente). Così, ad esempio, $(10)_{16} = 10 \times 16 + 1 = 176$, $(AB)_{16} = 10 \times 16 + 11 = 176$, $(F0E)_{16} = 15 \times 16^2 + 0 \times 16 + 14 = 3854$. Determinare il valore della somma
+> $$(1)_{16} + (2)_{16} + \cdots + (D)_{16} + (E)_{16} + (F)_{16} + (10)_{16} + \cdots + (100)_{16}$$
+> in base 10.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2012_n2_f2#q08|src_obm_2012_n2_f2__Q08]]
 
 
 
@@ -244,6 +303,13 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le rotte di Hamilton che non attraversano 20 città su un cerchio*
+*Conta i percorsi hamiltoniani non incrocianti attraverso 20 città disposte su una circonferenza*
 
-> Ci sono 20 città segnate su un cerchio. Un mercante vuole viaggiare attraverso tutte le 20 città, visitando ciascuna città esattamente una volta, passando tra le città attraverso segmenti a linea retta. Sapendo che questi segmenti di linea (passati tra città consecutive sulla rotta) non devono mai incrociarsi tra loro, determinano il numero di modi in cui il commerciante può stabilire la sua rotta.
+> Sul cerchio sono segnate 20 città. Un mercante vuole attraversare tutte e 20 le città, visitandone ciascuna esattamente una volta, e spostarsi tra le città lungo segmenti di retta. Sapendo che questi segmenti di retta (percorsi tra città consecutive sul percorso) non devono mai intersecarsi tra loro, determinare il numero di modi in cui il mercante può stabilire il proprio percorso.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n2_f2#q09|src_obm_2012_n2_f2__Q09]]

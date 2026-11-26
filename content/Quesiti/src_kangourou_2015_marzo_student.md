@@ -36,18 +36,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Angela's age in months when Carlotta was born*
+*And Angela is X months old when Carlotta is born*
 
-> Angela was born in 1997, her little sister Carlotta in 2001. When Carlotta was born
-> Angela's age, in months, certainly was
-> A) less than 48.	 	
-> 	
-> B) between 47 and 61.	              
-> C) between 35 and 49.	 	
-> D) greater than 48.            
+> Angela was born in 1997; her younger sister Carlotta was born in 2001. When Carlotta was born, Angela's age in months was certainly
+> A) less than 48.
+>
+> B) ranging between 47 and 61.
+> C) ranging from 35 to 49.
+> D) greater than 48.
 > E) between 36 and 60.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q01|src_kangourou_2015_marzo_student__Q01]]
 
 
 
@@ -80,17 +83,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Estimating the number of ants in Italy*
+*Estimate of the number of ants in Italy*
 
-> In Italy, it is estimated that there are about 500,000 ants per individual. If the Italian population is about 60 million individuals, how many ants are there in Italy? A) 3 × 106
-> 	
-> B) 3 × 107
-> 	
-> C) 3 × 1010 D) 3 × 1012
-> 	
+> In Italy, it is estimated that there are about 500,000 ants for each person. If the Italian population is around 60 million people, approximately how many ants are there in Italy?
+> A) 3 × 106	
+>
+> B) 3 × 107	
+>
+> C) 3 × 1010           
+> D) 3 × 1012	
+>
 > E) 3 × 1013
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q02|src_kangourou_2015_marzo_student__Q02]]
 
 
 
@@ -121,17 +130,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many solutions has 2^(2x) = 4^(x+1)*
+*How many solutions does 2^(2x)=4^(x+1) have?*
 
-> How many solutions does the equation 2^(2x) = 4^(x+1) have? A) 0
-> 	
-> (B) Infinite (C) 2
-> 	
-> D) 1
-> 	
+> How many solutions does the equation 22x = 4x + 1 have?
+> A) 0	
+>
+> B) Infinite
+> C) 2	
+>
+> D) 1	
+>
 > E) 3
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q03|src_kangourou_2015_marzo_student__Q03]]
 
 
 
@@ -167,13 +182,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which pie chart matches the column chart*
+*Which pie chart corresponds to the bar chart?*
 
 ![[src_kangourou_2015_marzo_student__prob4.png]]
 
-> Diana drew the column graph in the figure to represent the quantity of each of the 4 species of trees her class catalogued during a botanical excursion. James thinks, instead, that the relationship between the different species is best seen with a pie chart. Of the following pie charts, which one should James draw? A) B) C) D) E)
+> Diana drew the bar chart in the figure to represent the quantity of each of the 4 tree species that her class catalogued during a botanical excursion. Giacomo, however, thinks that the relationship between the different species is better shown by a pie chart. Of the following pie charts, which one should Giacomo draw?
+>         A)	 	
+>          B)		
+>          C)		
+>         D)	 	
+>         E)
 
-**Answer:** A
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q04|src_kangourou_2015_marzo_student__Q04]]
 
 
 
@@ -203,12 +227,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Total sum 2001-2031 divided by 31
+*Total of whole numbers 2001–2031 divided by 31*
 
-> Let's add up the 31 integers from 2001 to 2031 inclusive and divide the sum by 31. What is the result? A) 2012 B) 2013 C) 2015 D) 2016 E) 2496
+> We add the 31 integers from 2001 to 2031 inclusive and divide the sum by 31. What result do we get?
+> A) 2012		
+> B) 2013		
+> C) 2015		
+> D) 2016		
+> E) 2496
 >
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q05|src_kangourou_2015_marzo_student__Q05]]
 
 
 
@@ -245,21 +278,27 @@ Total sum 2001-2031 divided by 31
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many figures can be drawn in a single stretch*
+*How many figures can be drawn in a single stroke*
 
 ![[src_kangourou_2015_marzo_student__prob6.png]]
 
-> Look at the figures drawn here: how many of them can be drawn in a single movement, without pulling the pen off the sheet and without moving twice on the same segment or arc of a circle? (It is permissible to go back to the same point). A) 0
-> 	
-> B) 1
-> 	
-> C) 2
-> 	
-> D) 3
-> 	
+> Look at the figures drawn here: how many of them can be drawn in a single motion, without lifting the pen from the paper and without tracing the same line segment or circular arc twice? (It is allowed to pass over the same point again.)
+> A) 0	
+>
+> B) 1	
+>
+> C) 2	
+>
+> D) 3	
+>
 > E) 4
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q06|src_kangourou_2015_marzo_student__Q06]]
 
 
 
@@ -299,21 +338,27 @@ Total sum 2001-2031 divided by 31
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many holes*
+*How many holes?*
 
 ![[src_kangourou_2015_marzo_student__prob7.png]]
 
-> A square sheet of paper such as that in the figure is folded along the dashed lines so as to reduce it to a small square of area 1/9 of the starting one. In this square, a corner is cut and the sheet is stretched again. How many holes (wholly surrounded by paper) are there on the sheet? A) 0
-> 	
-> B) 1
-> 	
-> C) 2
-> 	
-> D) 4
-> 	
+> A square sheet of paper like the one in the figure is folded along the dashed lines so that it is reduced to a small square whose area is 1/9 of the original area. One corner is cut off from this small square, and then the sheet is unfolded again. How many holes (entirely surrounded by paper) are there on the sheet?
+> A) 0	
+>
+> B) 1	
+>
+> C) 2	
+>
+> D) 4	
+>
 > E) 9
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q07|src_kangourou_2015_marzo_student__Q07]]
 
 
 
@@ -348,13 +393,22 @@ Total sum 2001-2031 divided by 31
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Paper form for lateral surface of truncated cone*
+*Form a letter for the lateral surface of a frustum of a cone*
 
 ![[src_kangourou_2015_marzo_student__prob8.png]]
 
-> A glass is shaped like a truncated cone (see figure). We want to cut out colored paper to cover the side surface of the glass. What shape, among those shown in the following figures, must the paper have if we want it to cover the entire surface without overlapping and without any areas where the paper overlaps itself? A) B) C) D) E)
+> A glass has the shape of a truncated cone (see figure). We want to cut out some colored paper to cover the lateral surface of the glass. Among the shapes shown in the following figures, what shape must the paper have if we want it to cover the entire surface without overhanging and without any areas where the paper overlaps itself?
+>          A)		
+>          B)		
+>          C)		
+>          D)		
+>          E)
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q08|src_kangourou_2015_marzo_student__Q08]]
 
 
 
@@ -395,18 +449,26 @@ Total sum 2001-2031 divided by 31
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total amount of the loan.
+*relationship*
 
 ![[src_kangourou_2015_marzo_student__prob9.png]]
 
-> The diameters of three semicircles are the sides of a right triangle. The areas of the semicircles are X cm2, Y cm2 and Z cm2, in the order shown in the figure. Which of the following reports must necessarily be verified? A) X + Y < Z
-> 	
-> B) √ X + √ Y = √ Z C) X + Y = Z
-> 	
-> D) X 2 + Y 2 = Z 2 E) X 2 + Y 2 = Z ⇒ X Y Z
+> The diameters of three semicircles are the sides of a right-angled triangle. The areas of the semicircles are X cm², Y cm², and Z cm², in the order shown in the figure. Which of the following relationships must necessarily hold?
+> A) X + Y < Z	
+>
+> B) √ X + √ Y = √ Z
+> C) X + Y = Z	
+>
+> D) X 2 + Y 2 = Z 2
+> E) X 2 + Y 2 = Z
+> ⇒ X Y Z
 >
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q09|src_kangourou_2015_marzo_student__Q09]]
 
 
 
@@ -441,19 +503,26 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eligible values for acute angles of a convex quadrilateral*
+*Admissible values: acute angles of a convex quadrilateral*
 
-> The list of all eligible values for the number of acute angles of a convex quadrilateral is one of the following: which? A) 0, 1, 2.
-> 	
-> B) 0, 1, 2, 3.
-> 	
-> C) 0, 1, 2, 3, 4.
-> 	
-> D) 0, 1, 3.
-> 	
-> E) 1, 2, 3. The questions from N. 11 to N. 20 is worth 4 points each.
+> The list of all admissible values for the number of acute angles in a convex quadrilateral is one of the following: which one?
+> A) 0, 1, 2.	
+>
+> B) 0, 1, 2, 3.	
+>
+> C) 0, 1, 2, 3, 4.	
+>
+> D) 0, 1, 3.	
+>
+> E) 1, 2, 3.
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q10|src_kangourou_2015_marzo_student__Q10]]
 
 
 
@@ -481,16 +550,20 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of root of expression with 2015*
+*Root value of expression with 2015*
 
-> What is the value of √ (2015 + 2015) + (2015 - 2015) + (2015 x 2015) + (2015 : 2015)  ? 
+> What is the value of √(2015 + 2015) + (2015 - 2015) + (2015 x 2015) + (2015 : 2015)?
 > A) √ 2015	
 > B) 2015		
 > C) 2016		
 > D) 2017		
 > E) 4030
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q11|src_kangourou_2015_marzo_student__Q11]]
 
 
 
@@ -525,19 +598,25 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parts of the plane divided by x-axis and two parabolas*
+*Parts of the plane separated by the x-axis and two parabolas*
 
-> How many parts is the Cartesian plane divided by the union of the x-axis and the graphs of the functions f (x) = 2 - x 2 and g (x) = x 2 - 1 ? A) 7
-> 	
-> B) 8
-> 	
-> C) 9
-> 	
-> D) 10
-> 	
+> Into how many regions is the Cartesian plane divided by the union of the x-axis and the graphs of the functions f(x) = 2 - x² and g(x) = x² - 1?
+> A) 7	
+>
+> B) 8	
+>
+> C) 9	
+>
+> D) 10	
+>
 > E) 11
 
-**Answer:** D
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q12|src_kangourou_2015_marzo_student__Q12]]
 
 
 
@@ -572,17 +651,24 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number in the question mark*
+*Number at the question mark*
 
 ![[src_kangourou_2015_marzo_student__prob13.png]]
 
-> Elda wants to write in each of the empty circles in the figure an integer such that each number is the sum of the two numbers adjacent to it. What number should you put in the circle with the question mark? A) -5
-> 	
-> B) -16 C) -8 D) -3
-> 	
-> E) She can't do it
+> Elda wants to write an integer in each of the empty circles in the figure such that each number is the sum of the two numbers adjacent to it. What number should she put in the circle marked with a question mark?
+> A) -5	
+>
+> B) -16	 	
+> C) -8             
+> D) -3	
+>
+> E) They can't manage it
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q13|src_kangourou_2015_marzo_student__Q13]]
 
 
 
@@ -616,19 +702,24 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*e=b, a+b=d, e-d=b: the largest*
+*e=b, a+b=d, e-d=b: the larger one*
 
-> These are the five positive integers, different from each other, a, b, c, d, e. We know that c: e = b, a + b = d, e - d = b. Which is the largest of the five integers? A) a
-> 	
-> B) b
-> 	
-> C) c
-> 	
-> D) d
-> 	
+> Five distinct positive integers, a, b, c, d, and e, are given. It is known that c : e = b, a + b = d, and e - d = b. Which of the five integers is the largest?
+> A) a	
+>
+> B) b	
+>
+> C) c	
+>
+> D) d	
+>
 > E) e
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q14|src_kangourou_2015_marzo_student__Q14]]
 
 
 
@@ -660,15 +751,22 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*average of six*
+*average of the six*
 
-> The geometric mean of n numbers is defined as the n-th root of the product of n numbers. If the geometric mean of two triples of numbers is 3 and 12, what is the geometric mean of the set formed by all six numbers? A) 4
-> 	
-> B) 6
-> 	
-> C) 15/2 D) 15/6 E) 36
+> The geometric mean of n numbers is defined as the n-th root of the product of the n numbers. If the geometric means of two triples of numbers are 3 and 12, what is the geometric mean of the set consisting of all six numbers?
+> A) 4	
+>
+> B) 6	
+>
+> C) 15/2	 	
+> D) 15/6	 	
+> E) 36
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q15|src_kangourou_2015_marzo_student__Q15]]
 
 
 
@@ -701,18 +799,25 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*first actual encounter*
+*First spring encountered*
 
-> If one reads the following five statements in the given order, i.e. starting with A), what is the first true statement one encounters? A) C) is true
-> 	
-> B) A) is true
-> 	
-> C) E) is false D) B) is false
-> 	
+> If one reads the following five statements in the order given, that is, starting from the
+> A), what is the first true statement it encounters?
+> A) “C) is true”
+>
+> B) “A) is true”
+>
+> C) "E) is false"
+> D) “B) is false”
+>
 > E) “1 + 1 = 2”
 >
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q16|src_kangourou_2015_marzo_student__Q16]]
 
 
 
@@ -746,9 +851,18 @@ This is the total amount of the loan.
 
 *price ratio*
 
-> A car salesman bought and sold two cars. Compared to the purchase prices, it resold the first one at a price above 40% and the second one at a price above 60%. The total revenue for the two cars was 54% more than the sum of the purchase prices. What is the ratio of the prices paid by the dealer for the first and second cars? A) 2:3 B) 20:27 C) 3:7 D) 7:12 E) The information is not sufficient to answer.
+> A car dealer bought and resold two cars. Compared with the purchase prices, the dealer resold the first car at a price 40% higher than its purchase price and the second car at a price 60% higher than its purchase price. The total revenue from the two cars was 54% higher than the sum of the purchase prices. What is the ratio of the prices the dealer paid for the first and second cars?
+> A) 2:3	 	
+> B) 20:27	
+> C) 3:7	 	
+> D) 7:12            
+> E) The information is insufficient to respond.
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q17|src_kangourou_2015_marzo_student__Q17]]
 
 
 
@@ -803,7 +917,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*product of the radii*
+*product of rays*
 
 ![[src_kangourou_2015_marzo_student__prob18.png]]
 
@@ -827,11 +941,19 @@ This is the total amount of the loan.
 \end{document}
 ```
 
-> The diagram shows three concentric circles and two of their diameters, mutually orthogonal. The areas of the three shaded areas are equal to each other, and the radius of the smallest circle is 1. What is the product of the radii of the three circles? A) √ 6 B) 3
-> 	
-> C) 2√3 D) 2√2 E) 6
+> The diagram shows three concentric circles and two of their diameters that are orthogonal to each other. The areas of the three shaded regions are equal, and the radius of the smallest circle is 1. What is the product of the radii of the three circles?
+> A) √ 6 	 	
+> B) 3	
+>
+> C) 
+> D) 2√2	 	
+> E) 6
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q18|src_kangourou_2015_marzo_student__Q18]]
 
 
 
@@ -867,19 +989,25 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many distinct colours*
+*How many distinct colors?*
 
-> In a basket there are 2015 beads, numbered from 1 to 2015. The colour of a bead depends on the sum of the digits of the number attributed to it: all and only the beads which have the same number as the sum of the digits have the same colour. How many distinct colours are the beads of the basket? A) 10
-> 	
-> B) 27
-> 	
-> C) 28
-> 	
-> D) 29
-> 	
+> In a basket there are 2015 marbles, numbered from 1 to 2015. The color of a marble depends on the sum of the digits of the number assigned to it: all and only the marbles whose digit sum is the same have the same color. How many distinct colors do the marbles in the basket come in?
+> A) 10	
+>
+> B) 27	
+>
+> C) 28	
+>
+> D) 29	
+>
 > E) 2015
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q19|src_kangourou_2015_marzo_student__Q19]]
 
 
 
@@ -918,19 +1046,27 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*face indicated*
+*Indicated face*
 
 ![[src_kangourou_2015_marzo_student__prob20.png]]
 
-> A traditional die has numbers on opposite faces whose sum is 7. Two identical dice were drawn as shown in the figure. What number can appear on the right face indicated by the arrow, not visible in the figure? A) Only 5.
-> 	
-> (B) Only two. C) 2 or 5.
-> 	
-> D) 1, 2, 3 or 5.
-> 	
-> E) 2, 3 o 5. The questions from N. 21 al N. 30 is worth 5 points each.
+> On a traditional die, opposite faces show numbers that add up to 7. Two identical dice have been placed side by side as in the figure. What number can appear on the face on the right indicated by the arrow—a face that is not visible in the figure?
+> A) Only 5.
+>
+> B) Solo 2.
+> C) 2 or 5.
+>
+> D) 1, 2, 3 o 5.	
+>
+> E) 2, 3 o 5.
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q20|src_kangourou_2015_marzo_student__Q20]]
 
 
 
@@ -993,14 +1129,25 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of all 100 numbers in the Pythagorean table*
+*Sum of all 100 numbers in the multiplication table*
 
 ![[src_kangourou_2015_marzo_student__prob21.png]]
 
-> Here next to you is the Pythagorean table of numbers from 1 to 10. What is the sum of all the hundred numbers on the Pythagorean table? A) 1000 B) 2025 C) 2500 D) 3025 E) 5500 3√ 3 -------- 2 X 1 2 3 10 1 2 10 . . . . . . . . . . . . 10 20 100 10 20 30 . . . . . . . . . 1 2 3 2 4 6
+> Next to this, you will find the multiplication table for the numbers from 1 to 10. What is the sum of all the hundred numbers that appear in the multiplication table?
+> A) 1000		
+> B) 2025		
+> C) 2500
+> D) 3025		
+> E) 5500
+> 3√ 3 -------- 2 X 1 2 3 10 1 2 10 . . . . . . . . . . . . 10 20 100 10 20 30 . . . . . . . . . 1 2 3 2 4 6
 >
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q21|src_kangourou_2015_marzo_student__Q21]]
 
 
 
@@ -1038,21 +1185,27 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which is straight and the y-axis*
+*Which line is the y-axis?*
 
 ![[src_kangourou_2015_marzo_student__prob22.png]]
 
-> The curve in the figure is described by the equation (x2 + y2 - 2x)2 = 2 (x2 + y2). Then four lines are drawn, indicated by a, b, c, d. Which of these represents the y-axis? A) a
-> 	
-> B) b
-> 	
-> C) c
-> 	
-> D) d
-> 	
-> E) None of the above.
+> The curve in the figure is described by the equation (x² + y² - 2x)² = 2(x² + y²). Four straight lines, labeled a, b, c, and d, are then drawn. Which of them represents the y-axis?
+> A) a	
+>
+> B) b	
+>
+> C) c	
+>
+> D) d 	
+>
+> E) None of those in the figure.
 
-**Answer:** A
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q22|src_kangourou_2015_marzo_student__Q22]]
 
 
 
@@ -1086,11 +1239,21 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*likelihood of Lia winning*
+*Probability that Lia will win*
 
-> Bea has a classic dice, with the numbers 1, 2, 3, 4, 5 and 6 on the six faces. Lia, on the other hand, has a special die that shows 2 on three of its faces and 5 on the other three. Both dice are equal, which means that the probability of a face coming out is the same for all faces. The game states that, when Bea and Lia throw their dice, the one with the highest score wins, while if the scores are equal, there is a tie. At each throw, what's the probability that Lia wins? A) 1/3 B) 7/18 C) 7/12 D) 1/2 E) A different value from the previous ones.
+> Bea has a standard die, with the numbers 1, 2, 3, 4, 5, and 6 on its six faces. Lia, on the other hand, has a special die on which 2 appears on three of the faces and 5 on the other three. Both dice are fair, meaning the probability of any given face landing face up is the same for all faces. In the game, when Bea and Lia roll their dice, the one who gets the higher score wins; if the scores are equal, it's a draw. For each roll, what is the probability that Lia wins?
+> A) 1/3	 	
+> B) 7/18	 	
+> C) 7/12	 	
+> D) 1/2
+> E) A value different from the preceding ones.
 
-**Answer:** E
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q23|src_kangourou_2015_marzo_student__Q23]]
 
 
 
@@ -1126,17 +1289,23 @@ This is the total amount of the loan.
 
 *how many*
 
-> How many different regular polygons exist such that the measure, in degrees, of their angles is an integer? A) 17
-> 	
-> B) 18
-> 	
-> C) 22
-> 	
-> D) 25
-> 	
+> How many different regular polygons are there such that the measure, in degrees, of their angles is an integer?
+> A) 17	
+>
+> B) 18	
+>
+> C) 22	
+>
+> D) 25	
+>
 > E) 60
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q24|src_kangourou_2015_marzo_student__Q24]]
 
 
 
@@ -1170,19 +1339,25 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 3 digits as the sum of 9 distinct powers of 2*
+*3-digit numbers as the sum of 9 distinct powers of 2*
 
-> How many different positive numbers of three significant digits can be obtained as the sum of exactly nine distinct powers of 2 ? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> How many different positive numbers with three significant figures can be obtained as the sum of exactly nine distinct powers of 2?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q25|src_kangourou_2015_marzo_student__Q25]]
 
 
 
@@ -1219,17 +1394,23 @@ This is the total amount of the loan.
 
 *how many*
 
-> Let's consider all ABC right triangles at B, with AB of length 20 and such that all their sides have integer length. How many distinct triangles exist with these properties? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> Consider all right-angled triangles ABC with the right angle at B, where AB has length 20 and all their sides have integer lengths. How many distinct triangles with these properties exist?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 6
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q26|src_kangourou_2015_marzo_student__Q26]]
 
 
 
@@ -1298,7 +1479,7 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*report areas*
+*area ratio*
 
 ![[src_kangourou_2015_marzo_student__prob27.png]]
 
@@ -1334,10 +1515,20 @@ This is the total amount of the loan.
 \end{document}
 ```
 
-> In the rectangle ABCD drawn in Figure, M1 is the midpoint of DC, M2 is the midpoint of AM1, M3 is the midpoint of BM2 and M4 is the midpoint of CM3. What is the ratio between the area of the quadrilateral M1M2M3M4 and that of the rectangle ABCD? A) 7/16 B) 3/16 C) 7/32 D) 9/32 E) 1/5
+> In the rectangle ABCD drawn in the figure, M1 is the midpoint of DC, M2 is the midpoint of AM1, M3 is the midpoint of BM2, and M4 is the midpoint of CM3. What is the ratio of the area of quadrilateral M1M2M3M4 to the area of rectangle ABCD?
+> A) 7/16	 	
+> B) 3/16
+> C) 7/32	 	
+> D) 9/32	 	
+> E) 1/5
 >
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q27|src_kangourou_2015_marzo_student__Q27]]
 
 
 
@@ -1374,17 +1565,22 @@ This is the total amount of the loan.
 
 *blue rectangles*
 
-> On a board are blue rectangles and red rectangles. Exactly seven of the rectangles are squares. The number of red rectangles is the number of blue squares plus 3, and that of red squares is that of blue rectangles plus 2. How many blue rectangles are on the board? A) 1
-> 	
-> B) 3
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
+> On a blackboard, blue rectangles and red rectangles are drawn. Exactly 7 of the rectangles are squares. The number of red rectangles is the number of blue squares plus 3, and the number of red squares is the number of blue rectangles plus 2. How many blue rectangles are there on the blackboard?
+> A) 1	
+>
+> B) 3	
+>
+> C) 5	
+>
+> D) 6	
+>
 > E) 10
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q28|src_kangourou_2015_marzo_student__Q28]]
 
 
 
@@ -1422,19 +1618,25 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number of the last*
+*Number of the last one*
 
-> 96 members of a mathematics club stand in a circle and start counting. One starts by saying 1, his neighbor says 2, the next 3 and so on, continuing along the circle always in the same direction. Every person who says an even number leaves the circle, and the ones left start the second round starting from 97, of course. They keep going until there's only one person left. What's the number that this person said in the first round? A) 1
-> 	
-> B) 17
-> 	
-> C) 33
-> 	
-> D) 65
-> 	
+> 96 members of a mathematics enthusiasts' club stand in a circle and begin counting. One starts by saying 1, their neighbor says 2, the next says 3, and so on, continuing around the circle in the same direction all the time. Everyone who says an even number leaves the circle, and those remaining start the second round, obviously beginning with 97. They go on like this until only one person is left. What number did this person say in the first round?
+> A) 1	
+>
+> B) 17	
+>
+> C) 33	
+>
+> D) 65	
+>
 > E) 95
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q29|src_kangourou_2015_marzo_student__Q29]]
 
 
 
@@ -1485,34 +1687,25 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*common digit*
+*common figure*
 
-> Roberto and Guglielmo replace the letters in the word KANGAROO with digits,
-> to form an 8-digit number divisible by 11. Each of them replaces identical letters with the same digit and different letters with different digits.
-> In doing so, Guglielmo writes the largest possible multiple of 11 he can form, and Roberto the smallest, but in both cases the same letter is replaced by the same digit.
-> What is this digit?
+> Roberto and Guglielmo replace the letters in the word KANGAROO with digits so as to obtain an 8-digit significant-number that is a multiple of 11. Each of the two replaces equal letters with equal digits and different letters with different digits. In doing so, Guglielmo writes the largest multiple of 11 he can obtain, and Roberto writes the smallest one; but in both cases the same letter is replaced by the same digit. What is this digit?
+> A) 0	
 >
-> A) 0
-> 	
 > B) 3	
-> 	
+>
 > C) 4	
-> 	
+>
 > D) 5	
-> 	
+>
 > E) 6
-> SCIENTIFIC COMMITTEE
-> of Kangaroo Mathematics
-> Prof. A. Arosio (University of Parma)
-> Ms. L. Capelli (Liguria Regional Directorate)
-> Ms. S. De Stefano (University of Milano)
-> Prof. G. L. Forti (University of Milano)
-> Prof. M. Gobbino (University of Pisa)
-> Prof. A. Lissoni (Kangourou Italia)
-> Ms. E. Maluta (Politecnico di Milano)
-> Ms. A. Rossi (Leonardo High School, Brescia)
-> Prof. C. Zanco (University of Milano)
-> 
+> Scientific Committee of Kangourou della Matematica Prof. A. Arosio (University of Parma) Prof. L. Capelli (Regional Directorate of Liguria) Prof. S. De Stefano (University of Milan) Prof. G. L. Forti (University of Milan) Prof. M. Gobbino (University of Pisa) Prof. A. Lissoni (Kangourou Italia) Prof. E. Maluta (Politecnico di Milano) Prof. A. Rossi (Liceo Leonardo di Brescia) Prof. C. Zanco (University of Milan)
+>
 > STUDENT STRING 2015
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2015_marzo_student#q30|src_kangourou_2015_marzo_student__Q30]]

@@ -29,9 +29,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nessuna funzione continua asimptotica alla funzione di conteggio primario*
+*Nessuna funzione continua asintotica alla funzione di conteggio dei numeri primi*
 
-> $\pi(x)$ indica il numero di numeri primi positivi inferiori o uguali a $x$, per $x \in \mathbb{R}$. Indicare che non esiste una funzione continua $f : [0, +\infty) \to \mathbb{R}$ che soddisfi $\lim_{t \to \infty}(f(x) - \pi(x)) = 0$.
+> Sia $\pi(x)$ il numero di numeri primi positivi minori o uguali a $x$, per $x \in \mathbb{R}$. Dimostrare che non esiste alcuna funzione continua $f : [0, +\infty) \to \mathbb{R}$ che soddisfi $\lim_{t \to \infty}(f(x) - \pi(x)) = 0$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2025_nu_fx#q01|src_obm_2025_nu_fx__Q01]]
 
 
 
@@ -65,13 +72,27 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze integrali; infinite N e M con condizioni di rapporto*
+*Successioni di interi; infiniti N e M con condizioni sul rapporto*
 
-> Determinare se esistono numeri interi $a, b, c, d$ in modo che le sequenze $(a_n)_{n \ge 0}$ e $(\beta_n)_{n \ge 0}$ definite da $$a_0 = \beta_0 = 0;$$ $$a_1 = \beta_1 = 1;$$ $$a_{n+2} = a\, a_{n+1} + b\, a_n \text{ for } n \ge 0;$$ $$\beta_{n+2} = c\, \beta_{n+1} + d\, \beta_n \text{ for } n \ge 0;$$ soddisfino $\beta_n \ne 0$ per tutti i $n \ge 1$ e entrambe le seguenti condizioni:
-> 
-> (i) Esistono infiniti numeri naturali $N$ tali che $$1 - \frac{1}{2^{2025}} < \left|\frac{a_N}{\beta_N}\right| < 1 + \frac{1}{2^{2025}}.$$
-> 
-> (ii) Esistono infinitamente molti numeri naturali $M$ talmente che $$\left|\frac{a_M}{\beta_M}\right| > 2^{2025}.$$
+> Determinare se esistano interi $a, b, c, d$ tali che le successioni $(a_n)_{n \ge 0}$ e $(\beta_n)_{n \ge 0}$ definite da
+> $$a_0 = \beta_0 = 0;$$
+> $$a_1 = \beta_1 = 1;$$
+> $$a_{n+2} = a\, a_{n+1} + b\, a_n \text{ for } n \ge 0;$$
+> $$\beta_{n+2} = c\, \beta_{n+1} + d\, \beta_n \text{ for } n \ge 0;$$
+> soddisfa $\beta_n \ne 0$ per tutti gli $n \ge 1$, e entrambe le seguenti condizioni:
+>
+> (i) Esistono infiniti numeri naturali $N$ tali che
+> $$1 - \frac{1}{2^{2025}} < \left|\frac{a_N}{\beta_N}\right| < 1 + \frac{1}{2^{2025}}.$$
+>
+> (ii) Esistono infiniti numeri naturali $M$ tali che
+> $$\left|\frac{a_M}{\beta_M}\right| > 2^{2025}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2025_nu_fx#q02|src_obm_2025_nu_fx__Q02]]
 
 
 
@@ -102,13 +123,24 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Elementi di modulo minimo sotto mappe lineari invertibili su R^2*
+*Elementi a modulo minimo sotto applicazioni lineari invertibili su R^2*
 
-> Dato un insieme non vuoto $X \subset \mathbb{R}^k$, $k \in \{2, 3\}$, diciamo che $q$ è di ** modulo minimo ** in $X$ se $q \in X$ e $|q| \le |p|$ per tutti $p \in X$.
-> 
-> (a) Che $A : \mathbb{R}^2 \to \mathbb{R}^2$ sia una trasformazione lineare invertibile, e che $$\Lambda = A(\mathbb{Z}^2) = \{A(x,y) \mid x, y \in \mathbb{Z}\}.$$ Supponga che $u$ abbia modulo minimo in $\Lambda \setminus \{(0,0)\}$ e $v$ abbia modulo minimo in $\Lambda \setminus \{tu \mid t \in \mathbb{R}\}$. Prove che $\Lambda = \{ku + mv \mid k, m \in \mathbb{Z}\}$.
-> 
-> b) Che $B : \mathbb{R}^2 \to \mathbb{R}^2$ sia una trasformazione lineare invertibile, e che $$\Gamma = B(\mathbb{Z}^3) = \{B(x,y,z) \mid x, y, z \in \mathbb{Z}\}.$$ Supponga che $u$ abbia un modulo minimo in $\Gamma \setminus \{(0,0)\}$, $v$ abbia un modulo minimo in $\Gamma \setminus \{tu \mid t \in \mathbb{R}\}$ e $w$ abbia un modulo minimo in $\Gamma \setminus \{tu + sv \mid t, s \in \mathbb{R}\}$. Prove che $\Gamma = \{ku + mv + nw \mid k, m, n \in \mathbb{Z}\}$.
+> Dato un insieme non vuoto $X \subset \mathbb{R}^k$, $k \in \{2, 3\}$, si dice che $q$ ha **modulo minimo** in $X$ se $q \in X$ e $|q| \le |p|$ per ogni $p \in X$.
+>
+> (a) Sia $A : \mathbb{R}^2 \to \mathbb{R}^2$ una trasformazione lineare invertibile, e sia
+> $$\Lambda = A(\mathbb{Z}^2) = \{A(x,y) \mid x, y \in \mathbb{Z}\}.$$
+> Supponiamo che $u$ abbia modulo minimo in $\Lambda \setminus \{(0,0)\}$ e che $v$ abbia modulo minimo in $\Lambda \setminus \{tu \mid t \in \mathbb{R}\}$. Dimostrare che $\Lambda = \{ku + mv \mid k, m \in \mathbb{Z}\}$.
+>
+> (b) Sia $B : \mathbb{R}^2 \to \mathbb{R}^2$ una trasformazione lineare invertibile, e sia
+> $$\Gamma = B(\mathbb{Z}^3) = \{B(x,y,z) \mid x, y, z \in \mathbb{Z}\}.$$
+> Supponiamo che $u$ abbia modulo minimo in $\Gamma \setminus \{(0,0)\}$, che $v$ abbia modulo minimo in $\Gamma \setminus \{tu \mid t \in \mathbb{R}\}$, e che $w$ abbia modulo minimo in $\Gamma \setminus \{tu + sv \mid t, s \in \mathbb{R}\}$. Dimostrare che $\Gamma = \{ku + mv + nw \mid k, m, n \in \mathbb{Z}\}$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_obm_2025_nu_fx#q03|src_obm_2025_nu_fx__Q03]]
 
 
 
@@ -131,9 +163,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Matrici che soddisfano AB=P(A) implicano A invertibile e AB=BA*
+*Le matrici che soddisfano AB=P(A) implicano che A sia invertibile e che AB=BA*
 
-> Lasciate che $A, B \in M(n, \mathbb{C})$, cioè $A, B$ siano matrici $n \times n$ con voci in $\mathbb{C}$, e lasciate che $P \in \mathbb{C}[X]$ sia un polinomio non costante tale che $P(0) \ne 0$ e $AB = P(A)$. Prova che la matrice $A$ è invertibile e che $A$ e $B$ viaggiano (cioè $AB = BA$).
+> Siano $A, B \in M(n, \mathbb{C})$, cioè $A, B$, matrici $n \times n$ a coefficienti in $\mathbb{C}$, e sia $P \in \mathbb{C}[X]$ un polinomio non costante tale che $P(0) \ne 0$ e $AB = P(A)$. Dimostrare che la matrice $A$ è invertibile e che $A$ e $B$ commutano (ossia $AB = BA$).
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2025_nu_fx#q04|src_obm_2025_nu_fx__Q04]]
 
 
 
@@ -158,11 +197,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze di termini positivi: divergenza e convergenza delle serie*
+*Successioni di termini positivi: divergenza e convergenza delle serie*
 
-> (a) Che la serie $(a_n)_{n \ge 1}$ sia una sequenza diminuente di termini positivi in modo tale che la serie $\sum_{n=1}^{\infty} \frac{a_n}{n}$ diverga. Prove che per ogni sequenza in aumento $(n_k)_{k \ge 1}$ di numeri interi positivi con $\frac{n_{k+1}}{n_k}$ limitato, la serie $\sum_{k=1}^{\infty} a_{n_k}$ diverge.
-> 
-> b) Che il $(a_n)_{n \ge 1}$ sia una sequenza di termini positivi tale che la serie $\sum_{n=1}^{\infty} \frac{a_n}{n}$ converga. Prove che esiste una sequenza crescente $(n_k)_{k \ge 1}$ di integri positivi con $\lim_{k \to \infty} \frac{n_{k+1}}{n_k} = 1$ tale da far convergere la serie $\sum_{k=1}^{\infty} a_{n_k}$.
+> (a) Sia $(a_n)_{n \ge 1}$ una successione decrescente di termini positivi tale che la serie $\sum_{n=1}^{\infty} \frac{a_n}{n}$ diverga. Dimostrare che, per ogni successione crescente $(n_k)_{k \ge 1}$ di interi positivi con $\frac{n_{k+1}}{n_k}$ limitata, la serie $\sum_{k=1}^{\infty} a_{n_k}$ diverge.
+>
+> (b) Sia $(a_n)_{n \ge 1}$ una successione di termini positivi tale che la serie $\sum_{n=1}^{\infty} \frac{a_n}{n}$ converga. Dimostrare che esiste una successione crescente $(n_k)_{k \ge 1}$ di interi positivi con $\lim_{k \to \infty} \frac{n_{k+1}}{n_k} = 1$ tale che la serie $\sum_{k=1}^{\infty} a_{n_k}$ converga.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2025_nu_fx#q05|src_obm_2025_nu_fx__Q05]]
 
 
 
@@ -191,8 +237,19 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Möbius mappe su (-1,1) via tanh; trovare il fattore minimo di contrazione*
+*Applicazioni di Möbius su (-1,1) tramite tanh; trovare il fattore di contrazione minimo*
 
-> (a) Che $g : \mathbb{R} \to (-1, 1)$ sia la bijezione data da $$g(x) = \tanh(x) = \frac{e^{2x} - 1}{e^{2x} + 1}.$$ Data $r \in [0, 1)$, dimostri che esiste $\lambda(r) \in [0, 1)$ con la seguente proprietà: per ogni funzione razionale $$f(x) = \frac{ax + b}{cx + d}$$ con $a, b, c, d$ numeri reali e $|d| > |c|$ tale che $f((-1,1)) \subset (-r, r)$, abbiamo $|(g^{-1} \circ f \circ g)(x)| \le \lambda(r)$ per tutti $x \in \mathbb{R}$.
-> 
-> b) Determinare il minimo $\lambda = \lambda(r)$ possibile nella parte (a).
+> (a) Sia $g : \mathbb{R} \to (-1, 1)$ la biiezione data da
+> $$g(x) = \tanh(x) = \frac{e^{2x} - 1}{e^{2x} + 1}.$$
+> Dato $r \in [0, 1)$, dimostrare che esiste $\lambda(r) \in [0, 1)$ con la seguente proprietà: per ogni funzione razionale
+> $$f(x) = \frac{ax + b}{cx + d}$$
+> Con $a, b, c, d$ numeri reali e $|d| > |c|$ tali che $f((-1,1)) \subset (-r, r)$, si ha $|(g^{-1} \circ f \circ g)(x)| \le \lambda(r)$ per ogni $x \in \mathbb{R}$.
+>
+> (b) Determina il più piccolo $\lambda = \lambda(r)$ possibile nella parte (a).
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2025_nu_fx#q06|src_obm_2025_nu_fx__Q06]]

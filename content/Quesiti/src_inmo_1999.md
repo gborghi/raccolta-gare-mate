@@ -29,9 +29,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto con bisettore angolare e condizione del perimetro del punto medio*
+*Triangolo acuto con bisettrice dell'angolo e condizione sul perimetro relativa al punto medio*
 
-> I punti $D$, $E$, $F$ sono prelevati sui lati $BC$, $CA$, $AB$ di un triangolo acuto angolato $ABC$ in modo tale che $AD \perp BC$, $AE = BC$ e $CF$ bisecci $\angle C$. Supponiamo che $CF$ soddisfi $AD$ a $M$ e $DE$ a $N$ in modo tale che $FM = 2$, $MN = 1$ e $NC = 3$. Trova il perimetro di $\triangle ABC$.
+> I punti $D$, $E$, $F$ sono presi sui lati $BC$, $CA$, $AB$ di un triangolo acutangolo $ABC$ in modo che $AD \perp BC$, $AE = BC$ e $CF$ siano le bisettrici di $\angle C$. Si supponga che $CF$ incontri $AD$ in $M$ e $DE$ in $N$ in modo che $FM = 2$, $MN = 1$ e $NC = 3$. Determinare il perimetro di $\triangle ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1999#q01|src_inmo_1999__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Campo rettangolare di pulizia del villaggio con lati interi e parti uguali del 1998*
+*Campo rettangolare per la pulizia del villaggio, con lati interi e 1998 parti uguali*
 
-> In un villaggio nel 1998 persone si sono offerte volontarie per pulire, per una fiera, un campo rettangolare con lati interi e perimetro pari a 3996 piedi. A tal fine, il campo è stato diviso in parti uguali nel 1998. Se ogni parte ha un'area interiore, trova la lunghezza e la larghezza del campo.
+> In un villaggio, 1998 persone si sono offerte volontarie per ripulire, in vista di una fiera, un campo rettangolare con lati interi e perimetro pari a 3996 piedi. A tale scopo, il campo è stato diviso in 1998 parti uguali. Se ciascuna parte aveva un'area intera, determina la lunghezza e la larghezza del campo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1999#q02|src_inmo_1999__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomi non costanti p(x) e q(x) con coefficienti interi che soddisfano p(x)q(x) = x^4 + 2x + 1*
+*Polinomi non costanti p(x) e q(x) a coefficienti interi tali che p(x)q(x) = x^4 + 2x + 1*
 
-> Prova che non esistono polinomi non costanti $p(x)$ e $q(x)$ con coefficienti interi come $p(x)q(x) = x^4 + 2x + 1$.
+> Dimostrare che non esistono polinomi non costanti $p(x)$ e $q(x)$ a coefficienti interi tali che $p(x)q(x) = x^4 + 2x + 1$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1999#q03|src_inmo_1999__Q03]]
 
 
 
@@ -105,9 +126,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli equalaterali inscritti in cerchi concentrici disuguaglianza per punti arbitrari*
+*Disuguaglianza per i triangoli equilateri inscritti in cerchi concentrici e per punti arbitrari*
 
-> I triangoli equilaterali $ABC$ e $A_1B_1C_1$ sono inseriti rispettivamente in cerchi concentrici $\Gamma$ e $\Gamma_1$. Se $P$ e $P_1$ sono punti arbitrari rispettivamente su $\Gamma$ e $\Gamma_1$, dimostrare che $$P_1A^2 + P_1B^2 + P_1C^2 = PA_1^2 + PB_1^2 + PC_1^2.$$
+> I triangoli equilateri $ABC$ e $A_1B_1C_1$ sono inscritti rispettivamente nelle circonferenze concentriche $\Gamma$ e $\Gamma_1$. Se $P$ e $P_1$ sono punti arbitrari su $\Gamma$ e $\Gamma_1$ rispettivamente, dimostrare che
+> $$P_1A^2 + P_1B^2 + P_1C^2 = PA_1^2 + PB_1^2 + PC_1^2.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1999#q04|src_inmo_1999__Q04]]
 
 
 
@@ -134,9 +163,20 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro diversi interi positivi A, B, C con tre quadratici tutti con radici reali o non reali*
+*Quattro numeri interi positivi distinti A, B, C, con tre equazioni quadratiche tutte aventi radici reali o tutte aventi radici non reali*
 
-> Mostrare che tra qualsiasi numero positivo distinto si possono scegliere tre, ad esempio $A$, $B$, $C$, in modo tale che le tre equazioni quadratiche $$Bx^2 + x + C = 0$$ $$Cx^2 + x + A = 0$$ $$Ax^2 + x + B = 0$$ abbiano tutte radici reali o tutte radici non reali.
+> Dimostrare che, tra quattro numeri positivi distinti qualsiasi, si possono scegliere tre, diciamo $A$, $B$, $C$, tali che le tre equazioni quadratiche
+> $$Bx^2 + x + C = 0$$
+> $$Cx^2 + x + A = 0$$
+> $$Ax^2 + x + B = 0$$
+> oppure hanno tutte radici reali, oppure hanno tutte radici non reali.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1999#q05|src_inmo_1999__Q05]]
 
 
 
@@ -159,6 +199,13 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Split set {1,2,...,4n} in sottosette disconnessi di quattro elementi con somma di elementi uguale*
+*Suddividi l'insieme {1,2,...,4n} in sottoinsiemi disgiunti di quattro elementi, ciascuno con la stessa somma degli elementi*
 
-> Per quali integri positivi $n$ può essere diviso l'insieme $\{1, 2, \ldots, 4n\}$ in $n$ disgiunti sottoinsiemi di quattro elementi $\{a, b, c, d\}$ in modo che in ciascuno di essi $a = \frac{b+c+d}{3}$?
+> Per quali interi positivi $n$ l'insieme $\{1, 2, \ldots, 4n\}$ può essere suddiviso in $n$ sottoinsiemi disgiunti di quattro elementi $\{a, b, c, d\}$ in modo che in ciascuno di essi $a = \frac{b+c+d}{3}$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_1999#q06|src_inmo_1999__Q06]]

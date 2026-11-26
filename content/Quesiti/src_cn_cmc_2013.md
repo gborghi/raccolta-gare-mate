@@ -30,11 +30,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa degli elementi del set B derivati dal set A*
+*Somma degli elementi nell'insieme B derivato dall'insieme A*
 
-> Dato $A = \{2, 0, 1, 3\}$, lasciate $B = \{x \mid -x \in A,\ 2 - x^2 \notin A\}$. La somma degli elementi di $B$ è quindi $\underline{\qquad}$.
+> Dato $A = \{2, 0, 1, 3\}$, si ponga $B = \{x \mid -x \in A,\ 2 - x^2 \notin A\}$. Allora la somma degli elementi in $B$ è $\underline{\qquad}$.
 
-**Risposta:** -5
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc_2013#q01|src_cn_cmc_2013__Q01]]
 
 
 
@@ -58,11 +63,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Produzione di aree triangolari per punti paraboli con condizione di prodotto dotto*
+*Prodotto delle aree dei triangoli per i punti della parabola con condizione di prodotto scalare*
 
-> In un sistema di coordinate rettangolare piatto $xOy$, i punti $A$, $B$ sono sulla parabola $y^2 = 4x$, soddisfacendo $\overrightarrow{OA} \cdot \overrightarrow{OB} = -4$, e il punto $F$ è il punto focale della parabola. Poi $S_{\triangle OFA} \cdot S_{\triangle OFB} = \underline{\qquad}$.
+> In un sistema di coordinate cartesiane nel piano $xOy$, i punti $A$, $B$ giacciono sulla parabola $y^2 = 4x$, soddisfacendo $\overrightarrow{OA} \cdot \overrightarrow{OB} = -4$, e il punto $F$ è il fuoco della parabola. Allora $S_{\triangle OFA} \cdot S_{\triangle OFB} = \underline{\qquad}$.
 
-**Risposta:** 2
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2013#q02|src_cn_cmc_2013__Q02]]
 
 
 
@@ -86,11 +96,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca un'identità trigonometrica data nel triangolo*
+*Trovare tan A dati gli identità trigonometriche in un triangolo*
 
-> Supponiamo che in $\triangle ABC$ abbiamo $\sin A = 10\sin B\sin C$, $\cos A = 10\cos B\cos C$. Poi $\tan A = \underline{\qquad}$.
+> Supponiamo che in $\triangle ABC$ abbiamo $\sin A = 10\sin B\sin C$, $\cos A = 10\cos B\cos C$. Allora $\tan A = \underline{\qquad}$.
 
-**Risposta:** 11
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2013#q03|src_cn_cmc_2013__Q03]]
 
 
 
@@ -112,9 +127,15 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Radio di sfera di piramide triangolare regolare*
+*Raggio della sfera inscritta nella piramide triangolare regolare*
 
-> Supponiamo che il lato della base e l'altezza della piramide triangolare regolare $P\text{-}ABC$ siano $1$ e $\sqrt{2}$, rispettivamente. Il raggio di radius della sfera della piramide è $\underline{\qquad}$.
+> Supponiamo che il lato della base e l'altezza della piramide triangolare regolare $P\text{-}ABC$ siano rispettivamente $1$ e $\sqrt{2}$. Allora il raggio della sfera inscritta nella piramide è $\underline{\qquad}$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2013#q04|src_cn_cmc_2013__Q04]]
 
 
 
@@ -138,11 +159,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massimo di ab per funzioni lineari con valori limitati su [0,1]*
+*Massimo di ab per funzione lineare con valori limitati su [0,1]*
 
-> $a$, $b$ siano numeri reali e $f(x) = ax + b$ soddisfa $|f(x)| \le 1$ per qualsiasi $x \in [0, 1]$. In questo caso, il massimo di $ab$ è $\underline{\qquad}$.
+> Siano $a$, $b$ numeri reali, e $f(x) = ax + b$ soddisfa $|f(x)| \le 1$ per ogni $x \in [0, 1]$. Allora il massimo di $ab$ è $\underline{\qquad}$.
 
-**Risposta:** \frac{1}{4}
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2013#q05|src_cn_cmc_2013__Q05]]
 
 
 
@@ -166,11 +192,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Probabilità di almeno due numeri adiacenti tra cinque scelti da 1 a 20*
+*Probabilità che, scegliendo cinque numeri da 1 a 20, ce ne siano almeno due adiacenti*
 
-> Prendi a caso cinque numeri diversi da $1, 2, \ldots, 20$. Quindi la probabilità che ci siano almeno due numeri adiacenti tra loro è $\underline{\qquad}$.
+> Estrai a caso cinque numeri diversi da $1, 2, \ldots, 20$. Allora la probabilità che tra essi ci siano almeno due numeri adiacenti è $\underline{\qquad}$.
 
-**Risposta:** \frac{232}{323}
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2013#q06|src_cn_cmc_2013__Q06]]
 
 
 
@@ -194,11 +225,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Range di x che soddisfa l'equazione con radici quadrate incastonate*
+*Intervallo di x che soddisfa l'equazione con radici quadrate annidate*
 
-> Supponiamo che i numeri reali $x$, $y$ soddisfino $x - 4\sqrt{y} = 2\sqrt{x - y}$. Poi l'intervallo di $x$ è $\underline{\qquad}$.
+> Supponiamo che i numeri reali $x$, $y$ soddisfino $x - 4\sqrt{y} = 2\sqrt{x - y}$. Allora l'insieme immagine di $x$ è $\underline{\qquad}$.
 
-**Risposta:** \{0\} \cup [4, 20]
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2013#q07|src_cn_cmc_2013__Q07]]
 
 
 
@@ -222,11 +258,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le sequenze a nove termini con rapporti consecutivi prescritti e prodotto unitario*
+*Contare le successioni di nove termini con rapporti consecutivi prescritti e prodotto uguale a 1*
 
-> Supponiamo che la sequenza $\{a_n\}$ sia composta da nove termini che soddisfano: per qualsiasi $i$ ($1 \le i \le 8$), $b_i = \dfrac{a_{i+1}}{a_i} \in \left\{-\dfrac{1}{2},\ 1,\ 2\right\}$ e $\displaystyle\prod_{i=1}^{8} b_i = 1$. Il numero di sequenze $\{b_i\}$ ($1 \le i \le 8$) che soddisfano le condizioni indicate è $\underline{\qquad}$.
+> Supponiamo che la successione $\{a_n\}$ sia composta da nove termini che soddisfano: per ogni $i$ ($1 \le i \le 8$), $b_i = \dfrac{a_{i+1}}{a_i} \in \left\{-\dfrac{1}{2},\ 1,\ 2\right\}$ e $\displaystyle\prod_{i=1}^{8} b_i = 1$. Il numero di successioni $\{b_i\}$ ($1 \le i \le 8$) che soddisfano le condizioni date è $\underline{\qquad}$.
 
-**Risposta:** 491
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc_2013#q08|src_cn_cmc_2013__Q08]]
 
 
 
@@ -250,9 +291,17 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove il limite inferiore esponenziale per la sequenza positiva con condizione di crescita parziale della somma*
+*Dimostrare una limitazione inferiore esponenziale per una successione positiva con condizione di crescita della somma parziale*
 
-> (16 punti) Supponiamo che la sequenza dei numeri positivi $\{x_n\}$ soddisfi $S_n \ge 2S_{n-1}$, $n = 2, 3, \ldots$, dove $S_n = x_1 + \cdots + x_n$. Prova che esiste una costante $C > 0$, tale che $$x_n \ge C \cdot 2^n,\quad n = 1, 2, \ldots$$
+> (16 punti) Si supponga che la successione di numeri positivi $\{x_n\}$ soddisfi $S_n \ge 2S_{n-1}$, $n = 2, 3, \ldots$, dove $S_n = x_1 + \cdots + x_n$. Dimostrare che esiste una costante $C > 0$ tale che
+> $$x_n \ge C \cdot 2^n,\quad n = 1, 2, \ldots$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc_2013#q09|src_cn_cmc_2013__Q09]]
 
 
 
@@ -277,6 +326,15 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Relazione tra il segmento QR e l'asse semi minore b per la configurazione dell'ellisse*
+*Relazione tra il segmento QR e l'asse semiminore b per la configurazione ellittica*
 
-> (25 marchi) Se si considera un'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ ($a > b > 0$) in un sistema di coordinate rettangolare piatto $xOy$, $A_1$, $A_2$, $F_1$, $F_2$ siano i suoi punti di fine sinistra e destra, rispettivamente i foci sinistra e destra, e $P$ sia qualsiasi punto dell'ellisse diverso da $A_1$, $A_2$. Supponiamo che ci siano punti $Q$, $R$ che soddisfano $$\overrightarrow{QA_1} \cdot \overrightarrow{PA_1} = \overrightarrow{QA_2} \cdot \overrightarrow{PA_2},\quad \overrightarrow{RF_1} \cdot \overrightarrow{PF_1} = \overrightarrow{RF_2} \cdot \overrightarrow{PF_2}.$$ Trovare e dimostrare la relazione tra la lunghezza del segmento $QR$ e $b$.
+> (25 punti) Dato un'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ ($a > b > 0$) in un sistema di coordinate cartesiane piane $xOy$, siano $A_1$, $A_2$, $F_1$, $F_2$ rispettivamente i suoi estremi sinistro e destro e i suoi fuochi sinistro e destro, e sia $P$ un punto qualsiasi sull'ellisse diverso da $A_1$, $A_2$. Si supponga che esistano i punti $Q$, $R$ tali che
+> $$\overrightarrow{QA_1} \cdot \overrightarrow{PA_1} = \overrightarrow{QA_2} \cdot \overrightarrow{PA_2},\quad \overrightarrow{RF_1} \cdot \overrightarrow{PF_1} = \overrightarrow{RF_2} \cdot \overrightarrow{PF_2}.$$
+> Trovare e dimostrare la relazione tra la lunghezza del segmento $QR$ e $b$.
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2013#q10|src_cn_cmc_2013__Q10]]

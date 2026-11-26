@@ -34,16 +34,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of 0+1+2+3+4-3-2-1-0*
+*The value of the sum*
 
-> What is the value of  0+1+2+3+4-3-2-1-0 = ?
+> What is the value of 0+1+2+3+4-3-2-1-0 = ?
 > A) 0
 > B) 2
 > C) 4
 > D) 10
-> E)16
+> E) 16
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_ecolier#q01|src_kangourou_2003_ecolier__Q01]]
 
 
 
@@ -73,13 +76,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number continuing the sequence (subtractions)*
+*Which number continues the sequence*
 
 ![[src_kangourou_2003_ecolier__prob2.png]]
 
-> Which number will continue the sequence? A) 7 B) 17 C) 6 D) 10 E) 8
+> Which number will continue the sequence?
+> A) 7
+> B) 17
+> C) 6
+> D) 10
+> E) 8
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_ecolier#q02|src_kangourou_2003_ecolier__Q02]]
 
 
 
@@ -109,11 +120,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Color of the 27th kangaroo (cycle 5)*
+*The colour of the 27th kangaroo*
 
-> Sofia draws kangaroos, coloring them in this order: one blue, then one green, then one red, then one black, then one yellow, then again one blue, one green, one red, one black and so on... What color will the 27th kangaroo be? A) blue B) yellow C) red D) black E) green
+> Sofia draws kangaroos, colouring them in this order: a blue one, then a green one, then a red one, then a black one, then a yellow one, then again a blue one, a green one, a red one, a black one, and so on … What colour will the 27th kangaroo be?
+> A) blue
+> B) yellow
+> C) red
+> D) black
+> E) green
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_ecolier#q03|src_kangourou_2003_ecolier__Q03]]
 
 
 
@@ -144,13 +163,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Image with three quarters of hearts*
+*In which picture exactly three quarters of the objects are hearts*
 
 ![[src_kangourou_2003_ecolier__prob4.png]]
 
-> In just one of the following images exactly three quarters of all objects are hearts. What image are we talking about ? A) B) C) D) E)
+> In only one of the following pictures exactly three quarters of all the objects are hearts. Which picture are we talking about?
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_ecolier#q04|src_kangourou_2003_ecolier__Q04]]
 
 
 
@@ -179,11 +206,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Hours and minutes of sleep by Martino
+*How long Martino slept*
 
-> Anna falls asleep at 9:30 p.m. and wakes up at 6:45. Her brother Martino slept an hour and 50 minutes more. How many hours and minutes did Martino sleep? A) 30 h 5 min B) 11 h 35 min C) 11 h 5 min D) 9 h 5 min E) 8 h 35 min
+> Anna falls asleep at 21:30 and gets up at 6:45. Her brother Martino slept 1 hour and 50 minutes longer. For how many hours and minutes did Martino sleep?
+> A) 30 h 5 min
+> B) 11 h 35 min
+> C) 11 h 5 min
+> D) 9 h 5 min
+> E) 8 h 35 min
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_ecolier#q05|src_kangourou_2003_ecolier__Q05]]
 
 
 
@@ -236,7 +271,7 @@ Hours and minutes of sleep by Martino
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance BC from AC, BD, AD*
+*The distance BC*
 
 ![[src_kangourou_2003_ecolier__prob6.png]]
 
@@ -252,9 +287,12 @@ Hours and minutes of sleep by Martino
 \end{document}
 ```
 
-> In the figure the distances are: AC=10m,
-> BD=15m, AD=22m. Find the distance BC.
-> A) 1m;    B) 2m;   C) 3m;      D) 4m;    E) 5m
+> In the figure the distances are: AC=10m, BD=15m, AD=22m. Find the distance BC.
+> A) 1m
+> B) 2m
+> C) 3m
+> D) 4m
+> E) 5m
 > A
 > B
 > C
@@ -264,13 +302,16 @@ Hours and minutes of sleep by Martino
 > 13
 > 11
 > ?
-> 
-> Pag. 
-> Pag. 6
+>
+> Page
+> Page 6
 > Kang 2003
 > Kang 2003
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_ecolier#q06|src_kangourou_2003_ecolier__Q06]]
 
 
 
@@ -300,11 +341,19 @@ Hours and minutes of sleep by Martino
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many apples did Mark pick?
+*How many apples Mark the hedgehog gathered*
 
-> Mark the hedgehog complained to his friends: "If I had picked twice as many apples as I did, I would now have 24 more apples than I have now". How many apples did Mark pick? A)  48 B)  24 C)  42 D)  12 E)  36
+> Mark the hedgehog complained to his friends: "If I had gathered twice as many apples as I actually gathered, I would now have 24 apples more than I have now." How many apples did Mark gather?
+> A) 48
+> B) 24
+> C) 42
+> D) 12
+> E) 36
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_ecolier#q07|src_kangourou_2003_ecolier__Q07]]
 
 
 
@@ -340,24 +389,22 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of gerberas from the flower proportions*
+*The number of gerberas grown in the garden*
 
 ![[src_kangourou_2003_ecolier__prob8.png]]
 
-> The table alongside shows the proportions between the quantities of different types of flowers
-> that are present in the botanical garden.
-> Stefano asked the gardener and discovered that
-> there are 35 azaleas, 50 irises and 85 roses in the
-> garden. What is the number of gerberas
-> cultivated in the garden?
-> A)  95
-> B)  100
-> C)  105
-> D)  110
-> E)  115
-> Questions from No. 9 to No. 16 are worth 4 points each
+> The table alongside shows the proportions among the quantities of different types of flowers that are present in the botanical garden. Stefano asked the gardener and found that there are 35 azaleas, 50 irises and 85 roses in the garden. What is the number of gerberas grown in the garden?
+> A) 95
+> B) 100
+> C) 105
+> D) 110
+> E) 115
+> Questions 9 to 16 are worth 4 points each
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_ecolier#q08|src_kangourou_2003_ecolier__Q08]]
 
 
 
@@ -391,22 +438,21 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Blue small cubes inside the brick*
+*How many blue cubes Cristina used*
 
 ![[src_kangourou_2003_ecolier__prob9.png]]
 
-> Cristina built the "brick" in the figure using
-> small cubes of the same size, each colored entirely
-> red or entirely blue. The outer surface of the "brick" is
-> completely red, but all the small cubes used for the inside
-> are blue. How many blue small cubes did Cristina use?
-> A)  12
-> B)  24
-> C)  36
-> D)  40
-> E)  48
+> Cristina built the "brick" in the figure using cubes of the same size, each coloured entirely red or entirely blue. The outer surface of the "brick" is completely red, but all the cubes used for the inside are blue. How many blue cubes did Cristina use?
+> A) 12
+> B) 24
+> C) 36
+> D) 40
+> E) 48
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_ecolier#q09|src_kangourou_2003_ecolier__Q09]]
 
 
 
@@ -434,11 +480,19 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reverse starting number*
+*The number one started from*
 
-> I have a number in mind: I subtract from it 203, then I add to the result 2003 and I get 20003. What number did I start from? A)  23 B)  17797 C)  18203 D)  21803 E)  22209
+> I have a number in mind: I subtract 203 from it, then I add 2003 to the result, thus obtaining 20003. What number did I start from?
+> A) 23
+> B) 17797
+> C) 18203
+> D) 21803
+> E) 22209
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_ecolier#q10|src_kangourou_2003_ecolier__Q10]]
 
 
 
@@ -477,27 +531,28 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cost of a basketball*
+*How many euros a basketball costs*
 
-> Simonetta wants to buy some basketballs, all the same as each other. If
-> she bought five balls, she would have 10 euros left in her wallet. If she bought seven, she would have to ask for a loan of 22 euros. How many euros does one
-> basketball cost?
-> A)  11
-> B)  16
-> C)  22
-> D)  26
-> E)  32
+> Simonetta wants to buy basketballs, all equal to one another. If she bought five balls, she would have 10 euros left in her purse. If she bought seven, she would have to borrow 22 euros. How many euros does one basketball cost?
+> A) 11
+> B) 16
+> C) 22
+> D) 26
+> E) 32
 > azaleas
 > irises
 > roses
 > gerberas
-> 
-> Page 
+>
+> Page
 > Page 7
 > Kang 2003
 > Kang 2003
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_ecolier#q11|src_kangourou_2003_ecolier__Q11]]
 
 
 
@@ -530,21 +585,21 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shape of the third brick of the rectangular parallelepiped*
+*The shape of the third brick*
 
 ![[src_kangourou_2003_ecolier__prob12.png]]
 
-> Fiorella built a rectangular parallelepiped
-> using 3 "bricks" of irregular shape, each formed
-> by placing 4 equal small cubes side by side (see the figure). Two of these "bricks" can be seen in the figure. What shape
-> does the third "brick" have (indicated by a dashed line)?
+> Fiorella built a rectangular parallelepiped using 3 "bricks" of irregular shape, each formed by placing 4 equal cubes side by side (see the figure). Two of these "bricks" can be seen in the figure. What shape does the third "brick" have (shown by hatching)?
 > A)
 > B)
 > C)
 > D)
 > E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_ecolier#q12|src_kangourou_2003_ecolier__Q12]]
 
 
 
@@ -576,13 +631,21 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area covered by the letter N*
+*The area covered by the letter N*
 
 ![[src_kangourou_2003_ecolier__prob13.png]]
 
-> Since the sides of each square are 1 cm long, what is the area of the surface covered by the letter N in the figure? A) 14 cm2 B) 15 cm2 C) 16 cm2 D) 17 cm2 E) 18 cm2
+> Given that the sides of each little square are 1 cm long, what is the area of the surface covered by the letter N in the figure?
+> A) 14 cm2
+> B) 15 cm2
+> C) 16 cm2
+> D) 17 cm2
+> E) 18 cm2
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2003_ecolier#q13|src_kangourou_2003_ecolier__Q13]]
 
 
 
@@ -613,11 +676,20 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of digits on a digital clock*
+*The greatest digit-sum Matteo can find on the clock*
 
-> Matthew enjoys calculating the sum of the digits he reads on his digital clock (for example, if the clock shows 21:17, then Matthew finds 11). What is the maximum sum he can find? A) 24 B) 36 C) 19 D) 25 E) 23
+> Matteo enjoys working out the sum of the digits he reads on his digital clock (for example, if the clock shows 21:17, then Matteo finds 11). What is the greatest sum he can find?
+> A) 24
+> B) 36
+> C) 19
+> D) 25
+> E) 23
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_ecolier#q14|src_kangourou_2003_ecolier__Q14]]
 
 
 
@@ -648,11 +720,20 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Students with brother and sister (inclusion-exclusion)*
+*How many students have both a brother and a sister*
 
-> There are 29 students in a class. Students who have at least one sister are 12, those who have at least one brother are 18. Tina, Roberto, and Anna are the only children. How many students in that class have both a brother and a sister? (A) None (B) 1 (C) 3 (D) 4 (E) 6
+> In a class there are 29 pupils. The students who have at least one sister are 12, those who have at least one brother are 18. Tina, Roberto and Anna are only children. How many students in that class have both a brother and a sister?
+> A) none
+> B) 1
+> C) 3
+> D) 4
+> E) 6
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_ecolier#q15|src_kangourou_2003_ecolier__Q15]]
 
 
 
@@ -699,7 +780,7 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triangular tiles for the room*
+*How many slabs are needed to pave the room*
 
 ![[src_kangourou_2003_ecolier__prob16.png]]
 
@@ -711,23 +792,23 @@ How many apples did Mark pick?
 \end{document}
 ```
 
-> We have a triangular room each of
-> whose sides measures 6 m and some triangular marble tiles
-> each of whose sides measures 1 m.
-> How many of these tiles are needed to pave the room?
+> We have a triangular room, each of whose sides measures 6 m, and some triangular marble slabs, each of whose sides measures 1 m. How many of these slabs are needed to pave the room?
 > A) 6
 > B) 36
 > C) 120
 > D) 35
-> E) 18 
-> 
-> Page 
+> E) 18
+>
+> Page
 > Page 8
 > Kang 2003
 > Kang 2003
-> Questions from No. 17 to No. 24 are worth 5 points each
+> Questions 17 to 24 are worth 5 points each
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_ecolier#q16|src_kangourou_2003_ecolier__Q16]]
 
 
 
@@ -757,11 +838,20 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pages in a book with 35 digits*
+*How many pages the little book has*
 
-> A small book is such that to number all its pages, you must use a total of 35 digits. How many pages does it have? A) 12 B) 15 C)  22 D)  28 E)  35
+> A little book is such that, to number all its pages, one must use 35 digits in all. How many pages does it have?
+> A) 12
+> B) 15
+> C) 22
+> D) 28
+> E) 35
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_ecolier#q17|src_kangourou_2003_ecolier__Q17]]
 
 
 
@@ -791,18 +881,19 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Puppy/teddy bear price ratio*
+*Which statement about the prices is correct*
 
-> In a toy store the price for one puppy and three teddy bears is
-> the same as for three puppies and two teddy bears. All puppies have the
-> same price and all teddy bears have the same price. Therefore:
-> A) a puppy is twice as expensive as a teddy bear 
-> B) a teddy bear is twice as expensive as a puppy
-> C) puppies and teddy bears have the same price
-> D) a teddy bear is three times as expensive as a puppy
-> E) none of the previous statements is correct
+> In a toy shop the price of one little dog and three teddy bears is the same as that of three little dogs and two teddy bears. All the little dogs have the same price and all the teddy bears have the same price. Then:
+> A) a little dog is twice as expensive as a teddy bear
+> B) a teddy bear is twice as expensive as a little dog
+> C) little dogs and teddy bears have the same price
+> D) a teddy bear is three times as expensive as a little dog
+> E) none of the above
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2003_ecolier#q18|src_kangourou_2003_ecolier__Q18]]
 
 
 
@@ -835,13 +926,21 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What box is obtained from cutting*
+*Which little house was obtained from the cut-out*
 
 ![[src_kangourou_2003_ecolier__prob19.png]]
 
-> The figure on the side was drawn on a single face of a non-transparent sheet of paper and then cut out to make a little house. Which of the little houses below is the one so obtained? A) B) C) D) E)
+> The figure alongside was drawn on one side only of a sheet of paper that is not transparent, and then cut out to build a little house. Which of the little houses below is the one so obtained?
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_ecolier#q19|src_kangourou_2003_ecolier__Q19]]
 
 
 
@@ -876,22 +975,25 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many large sweets did he buy*
+*How many large sweets Clemente bought*
 
-> There are 3 types of sweets: large, medium and small. Each large sweet
-> costs 4 euros, each medium one 2 euros and each small one 1 euro. Clemente buys 10 sweets, at least one of each type, and pays 16 euros. How many large sweets did Clemente purchase?
+> There are 3 types of sweets: large, medium and small. Each large sweet costs 4 euros, each medium one 2 euros and each small one 1 euro. Clemente buys 10 sweets, at least one of each type, and pays 16 euros. How many large sweets did Clemente buy?
 > A) 3
 > B) 2
 > C) 1
 > D) 0
-> E) it cannot be determined
-> 
-> Pag. 
-> Pag. 9
+> E) it cannot be established
+>
+> Page
+> Page 9
 > Kang 2003
 > Kang 2003
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2003_ecolier#q20|src_kangourou_2003_ecolier__Q20]]
 
 
 
@@ -924,13 +1026,21 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tiny black bars in the barcode*
+*The number of thin black bars*
 
 ![[src_kangourou_2003_ecolier__prob21.png]]
 
-> A barcode consists of 17 black and white bars (of course alternating: the first bar and the last bar are necessarily black). Black bars are of two types: wide or thin. The number of white bars is greater by 3 than the number of wide black bars. So the number of thin black bars is A) 1 B) 2 C) 3 D) 4 E) 5
+> A barcode is formed from 17 black and white bars (obviously alternating: the first bar and the last are necessarily black). The black bars are of two types: wide or thin. The number of white bars is 3 greater than the number of wide black bars. Then the number of thin black bars is
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
 
-**Answer:** VOIDED
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
+**Answer:** ANNULLATO
+[[Quesiti/src_kangourou_2003_ecolier#q21|src_kangourou_2003_ecolier__Q21]]
 
 
 
@@ -962,13 +1072,21 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which two objects make up the shaded part*
+*Which two objects were used for the shaded part*
 
 ![[src_kangourou_2003_ecolier__prob22.png]]
 
-> The shaded part of the drawing was made using two objects between those below. What are the two objects? A) 1+3 B) 2+4 C) 2+3 D) 1+4 E) 3+4
+> The shaded part of the drawing was made using two of the objects below. Which are the two objects?
+> A) 1+3
+> B) 2+4
+> C) 2+3
+> D) 1+4
+> E) 3+4
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2003_ecolier#q22|src_kangourou_2003_ecolier__Q22]]
 
 
 
@@ -1000,11 +1118,19 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many liars in the group (answers 1,2,3,4)*
+*How many liars there really are in the group*
 
-> In one country everyone knows each other: some of them always lie, while others always tell the truth. We meet a group of four people from this country and we ask each of them, how many of you are liars? We get the following four different answers: 1, 2, 3, 4. How many really lie in that group of people? A) 0 B) 1 C) 2 D) 3 E) 4
+> In a country everyone knows everyone else: some of them always lie, while the others always tell the truth. We meet a group of 4 people from this country and ask each of them: how many liars are there among you? We obtain the following 4 different answers: 1, 2, 3, 4. How many liars are there really in that group of people?
+> A) 0
+> B) 1
+> C) 2
+> D) 3
+> E) 4
 
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_ecolier#q23|src_kangourou_2003_ecolier__Q23]]
 
 
 
@@ -1039,10 +1165,23 @@ How many apples did Mark pick?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Digits of the product of A (2003 units) by 2003
+*How many digits the product has*
 
-> Let's indicate with A the number 11111...1111 formed from 2003 digits all equal to 1. Let's multiply A by 2003. How many digits does this number have? A) 2003 B) 2004 C) 2005 D) 2006 E ) 2008 1 2 3 4
-> 
-> Answers commented at elementary Ecolier level IV and V
+> Let A be the number 11111...1111 formed from 2003 digits all equal to 1. Multiply A by 2003. How many digits does the number we obtain have?
+> A) 2003
+> B) 2004
+> C) 2005
+> D) 2006
+> E) 2008
+> 1
+> 2
+> 3
+> 4
+>
+> Commented answers, Écolier level
+> Fourth and fifth year of primary school
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2003_ecolier#q24|src_kangourou_2003_ecolier__Q24]]

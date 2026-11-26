@@ -33,11 +33,14 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value in bullion paid with Gnallucci coins*
+*Value in fufignezi paid with Gnallucci coins*
 
-> In the village of Gnallucci circulate four coins: dobloni, zecchini, taleri and fufignezi. A double is worth as much as a duck plus a log and a ponytail. Two doubles are worth a duck plus three tallies and five sparrows. A guy like that walks into a store with a hammer and walks out with a dresser. How much did he pay? (A) 1, (B) 2, (C) 3, (D) 4, (E) 5.
+> In the country of Gnallucci there are four coins: dobloni, zecchini, talleri and fufignezi. One doblone is worth as much as one zecchino plus one tallero and one fufignezo. Two dobloni are worth as much as one zecchino plus three talleri and five fufignezi. A man enters a shop with one zecchino and leaves with one tallero. In fufignezi, how much did he pay?
+> (A) 1, (B) 2, (C) 3, (D) 4, (E) 5.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2014_biennio#q01|src_archimede_2014_biennio__Q01]]
 
 
 
@@ -66,17 +69,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Products of periodic numbers (1,3)·(0,3)*
+*Product of the repeating decimals (1, ¯3) and (0, ¯3)*
 
-> How much is (1, ̄3) · (0, ̄3)?
+> What is (1, ¯3) · (0, ¯3)?
 >
 > - **(A)** 0, 4
 > - **(B)** 0, 4¯3
 > - **(C)** 0, ¯4
 > - **(D)** 13 33
-> - **(E)** None of the above.
+> - **(E)** none of the above.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2014_biennio#q02|src_archimede_2014_biennio__Q02]]
 
 
 
@@ -103,11 +109,18 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Return time with time zone between two cities
+*Return time with time zone between two cities*
 
-> Paperopolis is four hours' drive from Topolinia. Paperino leaves Paperopoli at 4 a.m., local time, and, due to the time zone, arrives in Topolinia at noon. What time does he get back to Paperopoli if he leaves two hours later? (A) 12 noon; (B) 2 pm; (C) 3 pm; (D) 4 pm; (E) depends on the time of lunch in Topolinia.
+> Paperopoli is 4 hours' travel from Topolinia. Paperino leaves Paperopoli at 4
+> in the morning, local time, and, because of the time zone, arrives in Topolinia at
+> lunchtime (local). At what time does he return to Paperopoli if he leaves again two hours later?
+> (A) At 12, (B) at 14, (C) at 15, (D) at 16,
+> (E) it depends on the time at which they have lunch in Topolinia.
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_2014_biennio#q03|src_archimede_2014_biennio__Q03]]
 
 
 
@@ -163,31 +176,16 @@ Return time with time zone between two cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Opposite vertical distance of parallelogram from triangles*
+*Distance between opposite vertices of a parallelogram from triangles*
 
-![[src_archimede_2014_biennio__prob4.png]]
+> A parallelogram is constructed by gluing four equilateral triangles of side 10 cm as shown in the figure. How many cm apart are the opposite vertices $A$ and $B$?
+> (A) 25, (B) √675, (C) √700, (D) √825, (E) 30.
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (A) at (0,0);
-  \coordinate (P1) at (1,1.732);
-  \coordinate (P2) at (2,0);
-  \coordinate (P3) at (3,1.732);
-  \coordinate (P4) at (4,0);
-  \coordinate (B) at (5,1.732);
-  \draw (A)--(P4)--(B)--(P1)--cycle;
-  \draw (P1)--(P2)--(P3)--(P4);
-  \draw (P2)--(P3);
-  \node[left] at (A) {$A$};
-  \node[right] at (B) {$B$};
-\end{tikzpicture}
-\end{document}
-```
 
-> A parallelogram is constructed by gluing four equilateral triangles of side 10 cm as shown in the figure. How many centimetres apart are the opposite vertices A and B? (A) 25, (B) √ 675, (C) √ 700, (D) √ 825, (E) 30. B A
-
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2014_biennio#q04|src_archimede_2014_biennio__Q04]]
 
 
 
@@ -214,11 +212,17 @@ Return time with time zone between two cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which statement is true if a^2bc=1 with integers*
+*Which statement is true if a^2bc = 1 with integers*
 
-> The numbers a, b, and c are relative integers. We know that a2bc is equal to 1. Which of the following is certainly true? (A) a = 1 e b = 1, (B) a = −1 e c = 1, (C) b2ac = 1, (D) a2b2 = 1, (E) a ̸= 1.
+> The numbers a, b and c are integers.
+> It is known that a^2bc = 1.
+> Which of the following statements is certainly true?
+> (A) a = 1 and b = 1, (B) a = −1 and c = 1, (C) b^2ac = 1, (D) a^2b^2 = 1, (E) a ≠ 1.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2014_biennio#q05|src_archimede_2014_biennio__Q05]]
 
 
 
@@ -245,11 +249,14 @@ Return time with time zone between two cities
 <div class="qlang-split" data-lang="en"></div>
 
 
-You will be working as a manager with salary constraints
+*Workers per manager from salary constraints*
 
-> In a certain company each manager receives a salary four times that of each worker. The total cost of paying the salaries of all employees is equal to six times the total cost of the salaries of all managers. How many workers are there for each manager? (A) 5, (B) 6, (C) 20, (D) 24, (E) 30.
+> In a certain company, every manager receives a salary equal to four times that of every worker. The total cost that the company incurs in paying the salaries of all employees is equal to six times the total cost of the salaries of all managers. How many workers are there per each manager?
+> (A) 5, (B) 6, (C) 20, (D) 24, (E) 30.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+[[Quesiti/src_archimede_2014_biennio#q06|src_archimede_2014_biennio__Q06]]
 
 
 
@@ -277,11 +284,15 @@ You will be working as a manager with salary constraints
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum bags in the dealer with 5 coins*
+*Maximum number of marbles in the dispenser with 5 coins*
 
-> At Luna Park, there is a seed distributor with two buttons and a container: the first button puts 16 seed into the container, the second increases the number of seed in the container by 50%. By entering a coin, you can press any of the two buttons. If the container is initially empty, how many bags can you get into the container with 5 coins? (A) 70, (B) 80, (C) 88, (D) 96, (E) 108.
+> At the amusement park there is a marble dispenser with two buttons and a container: the first button puts 16 marbles into the container, the second increases the number of marbles in the container by 50%. By inserting a coin, you can press either of the two buttons. If the container is initially empty, what is the maximum number of marbles that can be put into the container with 5 coins?
+> (A) 70, (B) 80, (C) 88, (D) 96, (E) 108.
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_backward|Working backwards]]
+[[Quesiti/src_archimede_2014_biennio#q07|src_archimede_2014_biennio__Q07]]
 
 
 
@@ -320,11 +331,30 @@ You will be working as a manager with salary constraints
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability that three people will say the same word
+*Probability that three people say the same word*
 
-> Agata, Nina and Leo decide that at Via! each of them will say (accidentally) BIM, or BUM, or BAM. What's the probability that all three of them will say the same thing? (A) Less than 12, (B) between 12 and 10, (C) between 10 and 18, (D) between 18 and 16, (E) more than 16.
+> Agata, Nina and Leo decide that at “Go!”
+> each of them will say (at random) BIM,
+> or BUM, or BAM. What is the probability that all three say the same
+> thing?
+> (A) Less than
+> 1
+> 12, (B) between
+> 1
+> 12 and
+> 1
+> 10, (C) between
+> 1
+> 10 and 1
+> 8, (D) between 1
+> 8 and 1
+> 6, (E) more than 1
+> 6.
 
-**Answer:** C
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2014_biennio#q08|src_archimede_2014_biennio__Q08]]
 
 
 
@@ -349,11 +379,15 @@ The probability that three people will say the same word
 <div class="qlang-split" data-lang="en"></div>
 
 
-*External area within 1 cm of a regular pentagon*
+*Exterior area within 1 cm of a regular pentagon*
 
-> A regular pentagon of 1 cm side is given; how many cm2 is the area of the set of points in the plane that are outside the pentagon and at most 1 cm away from it? (A) (5 + π), (B) (3/2 + 2π), (C) 7, (D) 8, (E) 3π.
+> A regular pentagon with side 1 cm is given; what is the area, in cm2, of the set of points in the plane that are exterior to the pentagon and are at most 1 cm from it?
+> (A) (5 + π), (B) (3/2 + 2π), (C) 7, (D) 8, (E) 3π.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2014_biennio#q09|src_archimede_2014_biennio__Q09]]
 
 
 
@@ -381,11 +415,15 @@ The probability that three people will say the same word
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of matches in the pool tournament in pairs*
+*Number of matches in a pairs billiards tournament*
 
-> Eight players, four of whom are defenders and four are attackers, organize a pool tournament. Each possible attacking-defensive pair plays once and only once against every other possible attacking-defensive pair. How many meetings will they have in all? (A) 24, (B) 36, (C) 48, (D) 72, (E) 144.
+> Eight players, four of whom are defenders and four attackers, organise a billiards tournament. Every possible defender-attacker pair plays exactly once against every other possible defender-attacker pair. How many matches will there be in total?
+> (A) 24, (B) 36, (C) 48, (D) 72, (E) 144.
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2014_biennio#q10|src_archimede_2014_biennio__Q10]]
 
 
 
@@ -412,11 +450,16 @@ The probability that three people will say the same word
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Prime dividers of abcabc number with abc prime*
+*Prime divisors of the number abcabc with abc prime*
 
-> A prime number of three digits is given whose digits are, in the order: a, b, c. How many prime divisors has the six-digit number whose writing is abcabc? [Remember that 1 is not a prime number.] A, 1, B, 2, C, 3, D, 4, E, 5.
+> A three-digit prime number whose digits are, in order: a, b, c, is given. How many prime divisors does the six-digit number whose writing is abcabc have?
+> [Recall that 1 is not a prime number.]
+> (A) 1, (B) 2, (C) 3, (D) 4, (E) 5.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2014_biennio#q11|src_archimede_2014_biennio__Q11]]
 
 
 
@@ -464,25 +507,15 @@ The probability that three people will say the same word
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A square grey area divided into 9 squares*
+*Grey area in a square divided into 9 small squares*
 
-![[src_archimede_2014_biennio__prob12.png]]
+> The square in the figure is divided into 9 congruent small squares. Knowing that the side of the large square measures L, calculate the area highlighted in grey.
+> (A) 11/108 L^2, (B) 1/9 L^2, (C) 5/54 L^2, (D) 1/12 L^2, (E) 13/81 L^2.
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.2]
-  \fill[gray!50] (1,1) -- (1.6667,1) -- (2,1.5) -- (2,2) -- (1,2) -- cycle;
-  \draw (0,0) rectangle (3,3);
-  \draw (1,0)--(1,3); \draw (2,0)--(2,3);
-  \draw (0,1)--(3,1); \draw (0,2)--(3,2);
-  \draw (1,0)--(3,3);
-\end{tikzpicture}
-\end{document}
-```
 
-> The square in the figure is divided into 9 congruent squares. Knowing that the side of the large square measures L, calculate the area highlighted in gray. (A) 11 108L2, (B) 1 9L2, (C) 5 54L2, (D) 1 12L2, (E) 13 81L2.
-
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2014_biennio#q12|src_archimede_2014_biennio__Q12]]
 
 
 
@@ -507,9 +540,12 @@ The probability that three people will say the same word
 
 *Number of digits of 20^10*
 
-> How many digits does the number 2010 have? (A) 10, (B) 11, (C) 13, (D) 14, (E) 15.
+> How many digits does the number 2010 have?
+> (A) 10, (B) 11, (C) 13, (D) 14, (E) 15.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_archimede_2014_biennio#q13|src_archimede_2014_biennio__Q13]]
 
 
 
@@ -555,24 +591,24 @@ The probability that three people will say the same word
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area between three tangent circumferences two to two*
+*Area between three mutually tangent circles*
 
-![[src_archimede_2014_biennio__prob14.png]]
+> Three circles are given, all with radius 1 cm and tangent to each other pairwise as in the figure.
+> Calculate the area in cm2
+> of the part between the three circles, highlighted in
+> grey in the figure.
+> (A) (
+> √
+> 3 −π
+> 2 ), (B)
+> √
+> 3, (C) 3, (D) π
+> 2 , (E) π.
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \fill[gray!50] (1,0) arc (0:60:1) arc (240:300:1) arc (120:180:1) -- cycle;
-  \draw (0,0) circle (1);
-  \draw (2,0) circle (1);
-  \draw (1,1.732) circle (1);
-\end{tikzpicture}
-\end{document}
-```
 
-> Three circles are given, each 1 cm in radius and tangent two to two as shown in the figure. Calculate the area in cm2 of the part between the three circumferences, highlighted in gray in the figure. (A) ( √ 3 −π 2 ), (B) √ 3, (C) 3, (D) π 2 , (E) π.
-
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2014_biennio#q14|src_archimede_2014_biennio__Q14]]
 
 
 
@@ -602,11 +638,15 @@ The probability that three people will say the same word
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum elevator route by visiting all floors*
+*Longest route of the lift visiting all floors*
 
-> A traveling student wakes up in the morning and, from his seven-story hotel room (beyond the ground floor), takes the elevator to the ground floor and has breakfast. However, very sleepy, he repeatedly presses the wrong button and visits all the other floors (excluding his own) exactly once, before finally reaching the ground floor. Knowing your room isn't on the ground floor, how far down the elevator is it? (A) 29 floors, (B) 28 floors, (C) 27 floors, (D) 26 floors, (E) 25 floors.
+> A student on a trip wakes up in the morning and, from his room in a seven-storey hotel (apart from the ground floor), goes down in the lift to the ground floor to have breakfast. However, very sleepy, he repeatedly presses the wrong button and visits exactly once all the other floors (excluding his own), before finally arriving at the ground floor. Knowing that his room is not on the ground floor, what is the maximum distance the lift travels?
+> (A) 29 floors, (B) 28 floors, (C) 27 floors, (D) 26 floors, (E) 25 floors.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+[[Quesiti/src_archimede_2014_biennio#q15|src_archimede_2014_biennio__Q15]]
 
 
 
@@ -658,10 +698,18 @@ The probability that three people will say the same word
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area sown by rope fixed to the corner of the house*
+*Area sown with a rope fixed at the corner of the house*
 
-![[src_archimede_2014_biennio__prob16.png]]
+> Francesco wants to sow an area of the garden of his house, which has the shape shown in the figure (house in grey and garden in white all around). To do this, he ties a 2 m rope to the corner A of the house, stretches it and, moving its end, draws the perimeter of the area to be sown. How many m2 will Francesco sow?
+> (A) 2π + √3, (B) 15/4 π − √3/2, (C) 31/12π + √3/2,
+> (D) 9/4π, (E) 4π − √3/2 −1.
+> 1 m
+> 1 m
+> 2 m
+> 3 m
+> A
 
-> Francesco wants to sow an area of his house's garden, which has the shape shown in the figure (grey house and white garden all around). To do this, attach a 2 m rope to the A corner of the house, the curtain and, moving the end, draw the perimeter of the area to be sown. How many square meters will Francesco plant? (A) 2π + √ 3, (B) 15 4 π − √ 3 2 , (C) 31 12π + √ 3 2 , (D) 9 4π, (E) 4π − √ 3 2 −1. 1 m 1 m 2 m 3 m A
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2014_biennio#q16|src_archimede_2014_biennio__Q16]]

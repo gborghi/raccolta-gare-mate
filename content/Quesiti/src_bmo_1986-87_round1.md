@@ -33,11 +33,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Soluzioni integrali di due equazioni diofantine*
+*Tutte le soluzioni intere di quelle due equazioni*
 
-> (a) Trovare, con prova, tutte le soluzioni integrali di $$a^3 + b^3 = 9.$$
-> 
-> b) Trova, con prova, tutte le soluzioni integrali di $$35a^4 + 46a^2b^2 + 13b^4 = 9.$$
+> (a) Trovare, con dimostrazione, tutte le soluzioni intere di
+> $$a^3 + b^3 = 9.$$
+>
+> (b) Trovare, con dimostrazione, tutte le soluzioni intere di
+> $$35a^4 + 46a^2b^2 + 13b^4 = 9.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1986-87_round1#q01|src_bmo_1986-87_round1__Q01]]
 
 
 
@@ -60,9 +69,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto sul lato del triangolo, prova proprietà del bisettore angolare*
+*Dimostrare che $AD + DB = BC$*
 
-> In un triangolo $ABC$, $\angle BAC = 100^\circ$ e $AB = AC$. Un punto $D$ è scelto sul lato $AC$ in modo che $\angle ABD = \angle CBD$. Prove che $AD + DB = BC$.
+> Nel triangolo $ABC$, $\angle BAC = 100^\circ$ e $AB = AC$. Si sceglie un punto $D$ sul lato $AC$ in modo che $\angle ABD = \angle CBD$. Dimostrare che $AD + DB = BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1986-87_round1#q02|src_bmo_1986-87_round1__Q02]]
 
 
 
@@ -89,11 +105,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il valore limite del prodotto di due somme di coefficienti binomiali*
+*Il valore di quel limite quando $n \to \infty$*
 
-> Trova, con prova, il valore di $$\lim_{n \to \infty} \left(\sum_{r=0}^{n} \binom{2r}{r} \frac{1}{4^r}\right)^{-1} \sum_{r=0}^{n-1} \binom{2r}{r} \frac{1}{4^r}$$ come $n \to \infty$.
-> 
-> Qui $\dbinom{2r}{r}$ indica un coefficiente binomio.
+> Trovare, con dimostrazione, il valore di
+> $$\lim_{n \to \infty} \left(\sum_{r=0}^{n} \binom{2r}{r} \frac{1}{4^r}\right)^{-1} \sum_{r=0}^{n-1} \binom{2r}{r} \frac{1}{4^r}$$
+> quando $n \to \infty$.
+>
+> Qui $\dbinom{2r}{r}$ indica un coefficiente binomiale.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Metodo telescopico]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1986-87_round1#q03|src_bmo_1986-87_round1__Q03]]
 
 
 
@@ -118,9 +143,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio con dati dati; prova P(N)=N+51 implica N=26*
+*Se $P(N) = N + 51$, allora $N = 26$*
 
-> Che $P(x)$ sia qualsiasi polinomio con coefficienti interi tali che $$P(21) = 17, \quad P(32) = -247, \quad P(37) = 33.$$ dimostri che se $P(N) = N + 51$ per un certo numero intero $N$, allora $N = 26$.
+> Sia $P(x)$ un polinomio qualunque a coefficienti interi tale che
+> $$P(21) = 17, \quad P(32) = -247, \quad P(37) = 33.$$
+> Dimostrare che se $P(N) = N + 51$ per qualche intero $N$, allora $N = 26$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1986-87_round1#q04|src_bmo_1986-87_round1__Q04]]
 
 
 
@@ -143,9 +177,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circoli su BE e CF come diametri che si incontrano all'altitudine da A*
+*Le circonferenze di diametro $BE$ e $CF$ si intersecano sull'altezza da $A$*
 
-> Una linea parallela al lato $BC$ di un triangolo acuto $ABC$ taglia il lato $AB$ a $F$ e il lato $AC$ a $E$. Prova che i cerchi di $BE$ e $CF$ come diametri si intersecano sull'altitudine del triangolo tracciato da $A$ perpendicolare a $BC$.
+> Una retta parallela al lato $BC$ di un triangolo acutangolo $ABC$ seca il lato $AB$ in $F$ e il lato $AC$ in $E$. Dimostrare che le circonferenze di diametro $BE$ e $CF$ si intersecano sull'altezza del triangolo tracciata da $A$ perpendicolarmente a $BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1986-87_round1#q05|src_bmo_1986-87_round1__Q05]]
 
 
 
@@ -171,11 +212,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il massimo di xyz sul prodotto di quattro fattori*
+*Il massimo di quella frazione per $x$, $y$, $z$ positivi*
 
-> Trova, con prova, il valore massimo di $$\frac{xyz}{(1+x)(x+y)(y+z)(z+16)}$$ per i numeri reali positivi $x$, $y$, $z$.
+> Trovare, con dimostrazione, il massimo valore di
+> $$\frac{xyz}{(1+x)(x+y)(y+z)(z+16)}$$
+> per numeri reali positivi $x$, $y$, $z$.
 
-**Risposta:** $\dfrac{1}{256}$
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1986-87_round1#q06|src_bmo_1986-87_round1__Q06]]
 
 
 
@@ -198,6 +246,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di un intero positivo x che rende la espressione triangolare di un numero divisibile per 2^n*
+*Esiste un intero positivo $x$ tale che $2^n$ divide $\tfrac{1}{2}x(x+1) - k$*
 
-> Prova che se $n$ e $k$ sono interi positivi allora esiste un intero positivo $x$ tale che $\tfrac{1}{2}x(x+1) - k$ sia divisibile da $2^n$.
+> Dimostrare che se $n$ e $k$ sono interi positivi qualunque allora esiste un intero positivo $x$ tale che $\tfrac{1}{2}x(x+1) - k$ sia divisibile per $2^n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1986-87_round1#q07|src_bmo_1986-87_round1__Q07]]

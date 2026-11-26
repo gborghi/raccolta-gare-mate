@@ -30,9 +30,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza infinita di numeri interi distinti senza cifra 0*
+*Successione infinita di interi distinti privi della cifra 0*
 
-> Mostrare che se $(a_n)$ è una sequenza infinita di numeri interi positivi distinti, nessuno dei quali contiene la cifra $0$ nell'espansione decimale, allora $$\sum_{i=1}^{\infty} \frac{1}{a_i} < 29.$$
+> Dimostrare che, se $(a_n)$ è una successione infinita di interi positivi distinti, nessuno dei quali contiene la cifra $0$ nella propria espansione decimale, allora
+> $$\sum_{i=1}^{\infty} \frac{1}{a_i} < 29.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1971_r3#q01|src_pol_1971_r3__Q01]]
 
 
 
@@ -55,9 +63,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo della tavola della piscina: la palla riflette i tempi finiti senza colpire il vertice*
+*Triangolo da biliardo: la palla si riflette un numero finito di volte senza colpire il vertice*
 
-> Un tavolo da biliardo ha la forma di un triangolo i cui angoli sono in rapporto razionale. Una palla posizionata in un punto interno del tavolo viene colpita da un bastone. La palla riflette dai lati del triangolo secondo la legge del riflesso. Prova che la palla si muoverà solo lungo un numero finito di segmenti. (Si presume che la palla non raggiunga le vertici del triangolo.)
+> Un tavolo da biliardo ha la forma di un triangolo i cui angoli sono in rapporto razionale. Una palla, posta in un punto interno del tavolo, viene colpita da una stecca. La palla si riflette sui lati del triangolo secondo la legge della riflessione. Dimostrare che la palla si muoverà solo lungo un numero finito di segmenti. (Si assume che la palla non raggiunga i vertici del triangolo.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1971_r3#q02|src_pol_1971_r3__Q02]]
 
 
 
@@ -80,9 +95,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sifre con serrature distribuite tra i membri del comitato*
+*Cassaforte con serrature distribuite tra i membri del comitato*
 
-> Una cassaforte è protetta da un certo numero di serrature. Undici membri del comitato hanno le chiavi di alcune serrature. Qual è il numero minimo di serrature necessario affinché ogni sei membri del comitato possano aprire la cassaforte, ma non cinque membri possono farlo? Come dovrebbero essere distribuite le chiavi tra i membri del comitato se il numero di serrature è il più piccolo?
+> Una cassaforte è protetta da diverse serrature. Undici membri del comitato possiedono le chiavi di alcune delle serrature. Qual è il numero minimo di serrature necessario affinché ogni gruppo di sei membri del comitato possa aprire la cassaforte, ma nessun gruppo di cinque membri vi riesca? Come si devono distribuire le chiavi tra i membri del comitato se il numero di serrature è minimo?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1971_r3#q03|src_pol_1971_r3__Q03]]
 
 
 
@@ -105,9 +127,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieri interi positivi x,y,z che soddisfano x^y + y^z = z^x, dimostrare min(x,y) >= n*
+*Numeri interi positivi x, y, z tali che x^y + y^z = z^x; dimostrare che min(x,y) >= n*
 
-> Prove che se i numeri interi positivi $x, y, z$ soddisfano l'equazione $x^y + y^z = z^x$, allora $\min\{x, y\} \ge n$.
+> Dimostrare che, se gli interi positivi $x, y, z$ soddisfano l'equazione $x^y + y^z = z^x$, allora $\min\{x, y\} \ge n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1971_r3#q04|src_pol_1971_r3__Q04]]
 
 
 
@@ -130,9 +159,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*A più piccola tale che la somma di dieci numeri successivi sia almeno A*
+*Il più grande A tale che la somma di dieci numeri consecutivi sia almeno A*
 
-> Trovare il più grande intero $A$ in modo tale che per qualsiasi permutazione dei numeri naturali non superiore a $100$, la somma di circa dieci numeri successivi sia almeno $A$.
+> Trovare il più grande intero $A$ tale che, per qualsiasi permutazione dei numeri naturali non superiori a $100$, la somma di dieci numeri consecutivi qualsiasi sia almeno $A$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1971_r3#q05|src_pol_1971_r3__Q05]]
 
 
 
@@ -159,8 +195,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tetraedro regolare: quattro punti di superficie con distanza reciproca >1/2*
+*Tetraedro regolare: quattro punti sulla superficie con distanza mutua >1/2*
 
-> Si dà un tetraedro regolare con lunghezza del bordo unitario. Prova che: (a) sulla superficie $S$ del tetraedro esistono quattro punti, in modo tale che la distanza da qualsiasi punto della superficie $S$ non superi $1/2$. b) Non esistono tre punti con questa proprietà.
-> 
-> La distanza tra due punti sulla superficie $S$ è definita come la lunghezza della linea poligonale più corta che attraversa $S$ e collega i due punti.
+> È dato un tetraedro regolare con spigolo di lunghezza unitaria. Dimostrare che:
+> (a) Esistono quattro punti sulla superficie $S$ del tetraedro tali che la distanza da qualsiasi punto della superficie $S$ non superi $1/2$.
+> (b) Non esistono tre punti con questa proprietà.
+>
+> La distanza tra due punti sulla superficie $S$ è definita come la lunghezza della linea poligonale più breve che passa per $S$ e congiunge i due punti.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1971_r3#q06|src_pol_1971_r3__Q06]]

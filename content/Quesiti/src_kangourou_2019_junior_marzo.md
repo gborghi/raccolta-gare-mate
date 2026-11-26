@@ -36,9 +36,18 @@ level: kangourou
 
 *Value of 20x19+20+19*
 
-> 20 x 19 + 20 + 19 = A) 389 B) 399 C) 409 D) 419 E) 429
+> 20 x 19 + 20 + 19 =
+> A) 389	 	
+> B) 399	 	
+> C) 409	 	
+> D) 419	 	
+> E) 429
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q01|src_kangourou_2019_junior_marzo__Q01]]
 
 
 
@@ -75,22 +84,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Written SHAVE as seen in the mirror after 180 degrees of rotation*
+*The word SHAVE seen in the mirror after a 180-degree rotation*
 
-> I'm in a barber's lounge in London and looking at the mirror in front of my chair I read on a sign, hung on the opposite wall, the word SHAVE. What kind of writing do I see when I turn my chair 180 degrees? A)
-> 	
-> 	
-> B)
-> 	
-> 	
-> C)
-> 	
-> D)
-> 	
-> 	
+> I'm in the salon of a barber in London, and looking at the mirror in front of my barber's chair, I read the word SHAVE (meaning "shaving" in English") on a sign hanging on the opposite wall. What inscription will I see if I turn the chair through 180 degrees?
+> A) 	
+>
+>
+> B) 	
+>
+>
+> C)	
+>
+> D) 	
+>
+>
 > E)
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q02|src_kangourou_2019_junior_marzo__Q02]]
 
 
 
@@ -123,19 +137,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many different results by adding three dice*
+*How many different results are there when adding three dice?*
 
-> Throw three regular dice at once and add up the outcomes: how many different results are possible? A) 14
-> 	
-> B) 15
-> 	
-> C) 16
-> 	
-> D) 17
-> 	
+> Roll three standard dice at the same time and add up the numbers that come up: how many different outcomes are possible?
+> A) 14	
+>
+> B) 15	
+>
+> C) 16	
+>
+> D) 17	
+>
 > E) 18
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q03|src_kangourou_2019_junior_marzo__Q03]]
 
 
 
@@ -163,11 +182,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which operation from the smallest result*
+*Which operation gives the smallest result?*
 
-> Which of the following results is the smallest? A)       x B)       : C)√     x D)      + E)       -
+> Which of the results of the following operations is the smallest?
+> A)       x		
+> B)       :	 	
+> C)√     x	
+> D)      +	 	
+> E)       -
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q04|src_kangourou_2019_junior_marzo__Q04]]
 
 
 
@@ -201,19 +229,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to get in and out of two different doors out of five*
+*In how many ways can one enter and exit through two different doors out of five?*
 
-> A room has five doors: from each of them you can either enter or exit. If you want to go in and out of two different doors, how many ways can you do that? A) 25
-> 	
-> B) 20
-> 	
-> C) 16
-> 	
-> D) 15
-> 	
+> A room has five doors: through each of them, you can both enter and exit. If you want to enter and exit through two different doors, in how many ways can you do that?
+> A) 25	
+>
+> B) 20	
+>
+> C) 16	
+>
+> D) 15	
+>
 > E) 10
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q05|src_kangourou_2019_junior_marzo__Q05]]
 
 
 
@@ -247,21 +281,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum weight of the lightest object (three distinct weights sum 97)*
+*Maximum weight of the lightest object (three distinct weights totaling 97)*
 
-> Three objects each weigh an integer number of kilograms, but have pairwise 
-> different weights. Altogether they weigh 97 kilograms. How many kilograms can the 
-> lightest object weigh at most?
+> Three objects each weigh a whole number of kilograms, but no two of them have the same weight. Together they weigh 97 kilograms. What is the maximum possible weight of the lightest object?
 > A) 1	
-> 	
+>
 > B) 30	
-> 	
+>
 > C) 31 	 	
 > D) 32	
-> 	
+>
 > E) 33
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q06|src_kangourou_2019_junior_marzo__Q06]]
 
 
 
@@ -341,7 +378,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True relationship between alpha and beta angles in the 3x3 square*
+*True relationship between angles alpha and beta in the 3x3 square*
 
 ![[src_kangourou_2019_junior_marzo__prob7.png]]
 
@@ -359,10 +396,20 @@ level: kangourou
 \end{document}
 ```
 
-> The square in the side figure is obtained by placing 9 identical small squares side by side and is divided into three angular sectors. α and β are the measurements in degrees of two of the three angles thus identified. Which of the following equations is true? (A) α = β B) β = 30° C) α + β = 60° D) 2β + α = 90° E) None. 1---- 2 SHAVE SHAV E E E VAHS EVAH S and V A H S 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8
+> The square in the figure beside is formed by joining 9 identical small squares and is divided into three angular sectors. α and β are the degree measures of two of the three angles thus formed. Which of the following equalities is true?
+> A) α = β		
+> B) β = 30°	
+> C) α + β = 60° 	
+> D) 2β + α = 90° 	 	
+> E) None.
+> 1---- 2 SHAVE SHAV E E VAHS EVAH S E V A H S 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8 1---- 2 1---- 8
 >
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q07|src_kangourou_2019_junior_marzo__Q07]]
 
 
 
@@ -397,21 +444,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In which I draw the shaded and maximum area*
+*In which figure is the shaded area the largest?*
 
 ![[src_kangourou_2019_junior_marzo__prob8.png]]
 
-> A square has been partially shaded in the five different ways listed in the figures. In which of the drawings is the area of the shaded part the largest? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> A square has been partially shaded in the five different ways listed in the figures. In which of the drawings is the area of the shaded part greatest?
+> A)	
+>
+> B) 	
+>
+> C)	
+>
+> D) 	
+>
 > E)
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q08|src_kangourou_2019_junior_marzo__Q08]]
 
 
 
@@ -442,13 +494,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of syrup for making two litres of beverage*
+*Proportion of syrup for preparing two liters of beverage*
 
-> A beverage should be packaged by mixing raspberry syrup with water in a ratio of 1: 7. A half-liter bottle is full of raspberry syrup. What fraction of the contents of that bottle will be used to make two liters of beverage? A) 1/4 B) 1/2
-> 	
-> C) 2/7 D) 4/7 E) 1
+> A beverage is to be prepared by mixing raspberry syrup and water in a 1:7 ratio. A half-liter bottle is full of raspberry syrup. What fraction of the contents of that bottle will need to be used to prepare two liters of the beverage?
+> A) 1/4	 	
+> B) 1/2	
+>
+> C) 2/7	 	
+> D) 4/7	 	
+> E) 1
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q09|src_kangourou_2019_junior_marzo__Q09]]
 
 
 
@@ -483,13 +543,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The numbers hidden in the three plates sum 57263*
+*What digits hidden in the three license plates add up to 57263?*
 
 ![[src_kangourou_2019_junior_marzo__prob10.png]]
 
-> Three five-digit numbers were each written on a plate. The figure shows how the plates and figures that remain visible are overlapped. You know the sum of the three numbers is 57263. What are the hidden numbers? A) 0, 2 and 2. B) 2, 4 and 9. C) 2, 7 and 8. D) 5, 7 and 8. E) None of the preceding three. The questions from N. 10 to N. 20 are worth 4 points each.
+> Three five-digit numbers were each written on a plate. The figure shows how the plates are superimposed and which digits remain visible. It is known that the sum of the three numbers is 57263. What are the hidden digits?
+> A) 0, 2 e 2.	
+> B) 2, 4 e 9.	
+> C) 2, 7 and 8.
+> D) 5, 7 e 8.	
+> E) None of the preceding triples.
+> Questions 10 to 20 are each worth 4 points.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q10|src_kangourou_2019_junior_marzo__Q10]]
 
 
 
@@ -521,15 +592,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Measurement of CBE square angle and equilateral triangle
+*Measure the angle CBE of a square and an equilateral triangle*
 
-> The vertices of a square are, clockwise, A, B, C and D. The vertices of an equilateral triangle are, in a clockwise direction, A, B and C, where A and C are the same vertices as the square. What is the measure in degrees of the angle CBE ? A) 30
-> 	
-> B) 45
-> 	
-> C) 135 D) 145 E) 150
+> The vertices of a square, in clockwise order, are A, B, C, and D. The vertices of an equilateral triangle, in clockwise order, are A, B, and C, where A and C are the same vertices as those of the square. What is the measure, in degrees, of angle CBE?
+> A) 30	
+>
+> B) 45	
+>
+> C) 135	 	
+> D) 145	 	
+> E) 150
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q11|src_kangourou_2019_junior_marzo__Q11]]
 
 
 
@@ -559,11 +637,21 @@ Measurement of CBE square angle and equilateral triangle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum value of a/b+c/d with distinct integers 1-10*
+*Minimum value of a/b + c/d with distinct integers from 1 to 10*
 
-> The numbers a, b, c and d are four different integers between 1 and 10, extremes included. What is the smallest possible value for the expression (a/b) + (c/d)? A) 2/10 B) 3/19 C) 14/45 D) 29/90 E) 25/72
+> The numbers a, b, c, and d are four distinct integers between 1 and 10, inclusive. What is the smallest possible value of the expression (a / b) + (c / d)?
+> A) 2/10	 	
+> B) 3/19	 	
+> C) 14/45	
+> D) 29/90	
+> E) 25/72
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q12|src_kangourou_2019_junior_marzo__Q12]]
 
 
 
@@ -596,13 +684,22 @@ Measurement of CBE square angle and equilateral triangle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of the sides of the white rectangle in the flag*
+*Ratio of the sides of the white rectangle on the flag*
 
 ![[src_kangourou_2019_junior_marzo__prob13.png]]
 
-> The flag of Kanglandia is rectangular, its sides are in a ratio of 3:5, and it is divided into four rectangles of equal area, as shown in the figure. What is the ratio of the sides of the white rectangle? A) 1 : 3 B) 1 : 4 C) 2 : 7 D) 3 : 10 E) 4 : 15
+> The flag of Kanglandia is rectangular; its sides are in the ratio 3:5, and it is divided into four rectangles of equal area, as shown in the figure. What is the ratio of the side lengths of the white rectangle?
+> A) 1 : 3	 	
+> B) 1 : 4	 	
+> C) 2 : 7	 	
+> D) 3 : 10	
+> E) 4 : 15
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q13|src_kangourou_2019_junior_marzo__Q13]]
 
 
 
@@ -644,18 +741,25 @@ Measurement of CBE square angle and equilateral triangle
 
 *Total length of the triathlon course*
 
-> Triathlon is a discipline that requires three trials: swimming, running, and cycling. Three-quarters of the total distance to be covered shall be cycled, one-fifth of the total distance covered shall be covered on foot and 2 km shall be covered by swimming. How many kilometers is the entire route? A) 10
-> 	
-> B) 20
-> 	
-> C) 38
-> 	
-> D) 40
-> 	
-> E) 60            
+> Triathlon is a discipline that requires completing three events: swimming, running, and cycling. One must cycle for three-quarters of the total distance to be covered, run for one-fifth of the total distance, and the swimming segment is 2 km long. How many kilometers long is the entire course?
+> A) 10	
+>
+> B) 20	
+>
+> C) 38	
+>
+> D) 40	
+>
+> E) 60
+>
+> \pm
 >
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q14|src_kangourou_2019_junior_marzo__Q14]]
 
 
 
@@ -693,21 +797,27 @@ Measurement of CBE square angle and equilateral triangle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to tile the figure with L tiles*
+*In how many ways can the figure be tiled with L-shaped tiles?*
 
 ![[src_kangourou_2019_junior_marzo__prob15.png]]
 
-> A 3 x 2 rectangle can be tiled with L tiles like this in the two different ways that we show you on the side. How many different ways can you tile, with tiles of the same type, the figure you see below? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> A 3 x 2 rectangle can be tiled with L-shaped tiles like this in the two different ways shown to you on the side. In how many different ways can the figure you see below be tiled with tiles of the same type?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 48
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q15|src_kangourou_2019_junior_marzo__Q15]]
 
 
 
@@ -745,13 +855,20 @@ Measurement of CBE square angle and equilateral triangle
 
 ![[src_kangourou_2019_junior_marzo__prob16.png]]
 
-> The ABC triangle in the figure is divided by the three segments DE, EF and FC into four triangles all of the same area. If AD is 21 centimetres, how many centimetres does BD measure? A) 38
-> 	
-> B) 36,75 C) 35
-> 	
-> D) 33.6 E) There is not enough data to answer.
+> In the figure, triangle ABC is divided by the three line segments DE, EF, and FC into four triangles, all of which have the same area. If AD measures 21 cm, how many centimeters does BD measure?
+> A) 38	
+>
+> B) 36,75		
+> C) 35	
+>
+> D) 33,6
+> E) There is insufficient data to respond.
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q16|src_kangourou_2019_junior_marzo__Q16]]
 
 
 
@@ -784,19 +901,24 @@ Measurement of CBE square angle and equilateral triangle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A+B value with sum of AAABBBB digits equal to AB*
+*Value A+B, where the sum of the digits of AAABBBB equals AB*
 
-> A and B are two digits and adding the seven digits of the AAABBBB sequence gives the number of two digits AB. How much is A + B ? A) 8
-> 	
-> B) 9
-> 	
-> C) 10
-> 	
-> D) 11
->  	
+> A and B are two digits, and when the seven digits of the sequence AAABBBB are added together, the result is the two-digit number AB. What is the value of A + B?
+> A) 8	
+>
+> B) 9	
+>
+> C) 10	
+>
+> D) 11	
+>
 > E) 12
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q17|src_kangourou_2019_junior_marzo__Q17]]
 
 
 
@@ -843,7 +965,7 @@ Measurement of CBE square angle and equilateral triangle
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the contour of the figure with three circles*
+*Perimeter length of the figure with three circles*
 
 ![[src_kangourou_2019_junior_marzo__prob18.png]]
 
@@ -860,9 +982,18 @@ Measurement of CBE square angle and equilateral triangle
 \end{document}
 ```
 
-> The figure we're showing you is made by partially overlapping three circles all with a radius of one centimeter. Their three centers are aligned and the circumference of the median passes through the centers of the other two. How many centimetres does the contour line of the figure measure? A) 10π / 3 B) 5π / 3 C) 2π / √3 D) 2π√3 E) 4π
+> The figure we are showing you is obtained by partially overlaying three circles, all with a radius of one centimeter. Their three centers are collinear, and the circumference of the middle circle passes through the centers of the other two. How many centimeters long is the perimeter of the figure?
+> A) 10π / 3	
+> B) 5π / 3	
+> C) 2π / √3	
+> D) 2π√3		
+> E) 4π
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q18|src_kangourou_2019_junior_marzo__Q18]]
 
 
 
@@ -898,19 +1029,25 @@ Measurement of CBE square angle and equilateral triangle
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of boxes with identical apples and distinct pears
+*Maximum number of boxes with identical apples and distinct pears*
 
-> Some boxes contain apples and pears: the number of apples is the same for all boxes, while there are no two boxes that contain the same number of pears. In total there are 60 apples and also 60 pears. How many can the boxes be at most? A) 20
-> 	
-> B) 15
-> 	
-> C) 12
-> 	
-> D) 10
-> 	
+> Some boxes contain apples and pears: the number of apples is the same in all the boxes, while no two boxes contain the same number of pears. In total, there are 60 apples and also 60 pears. What is the maximum possible number of boxes?
+> A) 20	
+>
+> B) 15	
+>
+> C) 12	
+>
+> D) 10	
+>
 > E) 6
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q19|src_kangourou_2019_junior_marzo__Q19]]
 
 
 
@@ -956,7 +1093,7 @@ Maximum number of boxes with identical apples and distinct pears
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the square inscribed in the semicircular*
+*Area of the square inscribed in the semicircle*
 
 ![[src_kangourou_2019_junior_marzo__prob20.png]]
 
@@ -970,11 +1107,21 @@ Maximum number of boxes with identical apples and distinct pears
 \end{document}
 ```
 
-> The figure shows a square having two vertices on a semicircle and the other two on the diameter of the same semicircle, which is 2 cm long. How many square centimetres is the area of the square? A) 4 / 5 B) π / 4 C) 1 D) 4 / 3 E) 2 / √3
-> 
-> The questions from N. 20 to N. 30 are worth 5 points each.
+> The figure shows a square whose two vertices lie on a semicircle and the other two on the diameter of that same semicircle, which is 2 cm long. How many square centimetres is the area of the square?
+> A) 4 / 5	 	
+> B) π / 4	 	
+> C) 1
+> D) 4 / 3	 	
+> E) 2 / √3
+>
+> Questions 20 to 30 are each worth 5 points.
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q20|src_kangourou_2019_junior_marzo__Q20]]
 
 
 
@@ -1016,21 +1163,26 @@ Maximum number of boxes with identical apples and distinct pears
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which side is used to form the edge in the development of the octahedron*
+*Which face forms the edge in the net of the octahedron?*
 
 ![[src_kangourou_2019_junior_marzo__prob21.png]]
 
-> In the figure you can see the development of an octahedron and the reconstituted octahedron. In development, five of the sides of triangles that make up the faces are numbered. When the octahedron is reconstituted, the side denoted by x combines to form an edge together with one of the numbered sides: which? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> In the figure, you can see the net of an octahedron and the reassembled octahedron. In the net, five of the sides of the triangles that make up the faces are numbered. When the octahedron is reassembled, the side denoted by x contributes to forming an edge together with one of the numbered sides: which one?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q21|src_kangourou_2019_junior_marzo__Q21]]
 
 
 
@@ -1064,19 +1216,24 @@ Maximum number of boxes with identical apples and distinct pears
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance of A from the centre of the rotating disc*
+*Distance of A from the center of the rotating disk*
 
-> Two points A and B are marked on a circle rotating at a constant speed. A is 3 cm farther from the center of the disk than B and rotates at a speed that is two and a half times that of B. How far is A from the center of the disk? A) 10
-> 	
-> B) 9
-> 	
-> C) 8
-> 	
-> D) 6
-> 	
+> Two points, A and B, are marked on a circle that rotates at a constant speed. A is 3 cm farther from the center of the disk than B is, and A rotates at a speed that is two and a half times B's speed. How many centimeters is A from the center of the disk?
+> A) 10	
+>
+> B) 9	
+>
+> C) 8	
+>
+> D) 6	
+>
 > E) 5
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q22|src_kangourou_2019_junior_marzo__Q22]]
 
 
 
@@ -1109,11 +1266,21 @@ Maximum number of boxes with identical apples and distinct pears
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which triple does not appear in sequence 1..99 in groups of 3*
+*Which triplet does not appear in the sequence 1..99 in groups of 3?*
 
-> The integers 1 to 99 are written one after the other in increasing order, leaving no spaces between them. The sequence thus obtained is divided every three digits, thus obtaining a sequence of ordered triples of digits, as suggested below: 123456789101112...979899! (123) (456) (789) (101) (112) … (979) (899). Which of the following does not appear in the sequence of triples? A) (222) B) (444) C) (464) D) (646) E) (888)
+> The integers from 1 to 99 are written one after another in ascending order, with no spaces between them. The sequence thus obtained is divided into groups of three digits each, yielding a sequence of ordered triples of digits, as suggested below: 123456789101112…979899 ! (123) (456) (789) (101) (112) … (979) (899). Which of the following does not appear in the sequence of triples?
+> A) (222)		
+> B) (444)		
+> C) (464)		
+> D) (646)		
+> E) (888)
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q23|src_kangourou_2019_junior_marzo__Q23]]
 
 
 
@@ -1146,19 +1313,25 @@ Maximum number of boxes with identical apples and distinct pears
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many planes pass through three but not four vertices of a cube*
+*How many planes pass through three but not four vertices of a cube?*
 
-> How many different planes pass through three, but not four, vertices of a cube? A) 1
-> 	
-> B) 2
-> 	
-> C) 4
-> 	
-> D) 8
-> 	
+> How many distinct planes pass through three but not four vertices of a cube?
+> A) 1	
+>
+> B) 2	
+>
+> C) 4	
+>
+> D) 8	
+>
 > E) 12
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q24|src_kangourou_2019_junior_marzo__Q24]]
 
 
 
@@ -1196,17 +1369,25 @@ Maximum number of boxes with identical apples and distinct pears
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which vertices can the flea be found after 2019 jumps*
+*At which vertices can the flea be found after 2019 jumps?*
 
 ![[src_kangourou_2019_junior_marzo__prob25.png]]
 
-> The geometric figure you see on the side is obtained by combining eight segments each of the eight vertices of the outer octagon with each of the eight vertices of the inner octagon. A flea that is now on the A-denoted vertex can only jump from one vertex to an adjacent one. Which of the vertices P, Q, R, S, T can it be found after 2019 jumps? A) Only in P, R or S. B) In all but R. C) Only in Q.
-> 	
+> The geometric figure you see beside is obtained by joining, with eight line segments, each of the eight vertices of the outer octagon to each of the eight vertices of the inner octagon. A flea that is now at the vertex marked A can jump only from one vertex to an adjacent one. At which of the vertices P, Q, R, S, T can it end up after 2019 jumps?
+> A) Only in P, R, or S.
+> B) In all except R.
+> C) Only in Q.
+>
 > D) Only in T.
-> 	
-> E) None of them.
+>
+> E) In none.
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q25|src_kangourou_2019_junior_marzo__Q25]]
 
 
 
@@ -1254,20 +1435,27 @@ Maximum number of boxes with identical apples and distinct pears
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many values of A with B=2A+1, C=2B+1 and palindrome numbers*
+*How many values of A are there such that B=2A+1, C=2B+1, and the digits are palindromic?*
 
-> Of three positive integers A, B and C we know that each has three significant digits and that for each of them the first and last digits coincide. We also know that B = 2A + 1 and C = 2B + 1. How many different values can A assume? A) 0
-> 	
-> B) 1
-> 	
-> C) 2
-> 	
-> D) 3
-> 	
-> E) More than 3. 1 5 4 3 2 x A P Q R S T
+> Of three positive integers A, B, and C, it is known that each has three significant digits and that, for each of them, the first and last digits are the same. It is also known that B = 2A + 1 and C = 2B + 1. How many different values can A take?
+> A) 0	
+>
+> B) 1	
+>
+> C) 2	
+>
+> D) 3	
+>
+> E) More than 3.
+> 1 5 4 3 2 x A P Q R S T
 >
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q26|src_kangourou_2019_junior_marzo__Q26]]
 
 
 
@@ -1307,19 +1495,25 @@ Maximum number of boxes with identical apples and distinct pears
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of 4 integers at vertices with divisibility constraints*
+*Minimum sum of 4 integers at the vertices with divisibility constraints*
 
-> Each vertex of a square is assigned a positive integer so as to respect the following rules: • for each side, one of the two numbers assigned to its ends is a multiple of the other; • for each diagonal, neither of the two numbers assigned to its ends is a multiple of the other. What's the smallest possible value for the sum of the four numbers? A) 12
-> 	
-> B) 24
-> 	
-> C) 30
-> 	
-> D) 35
-> 	
+> A positive integer is assigned to each vertex of a square in such a way that the following rules are satisfied: • for each side, one of the two numbers assigned to its endpoints is a multiple of the other; • for each diagonal, neither of the two numbers assigned to its endpoints is a multiple of the other. What is the smallest possible value of the sum of the four numbers?
+> A) 12	
+>
+> B) 24	
+>
+> C) 30	
+>
+> D) 35	
+>
 > E) 60
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q27|src_kangourou_2019_junior_marzo__Q27]]
 
 
 
@@ -1355,19 +1549,25 @@ Maximum number of boxes with identical apples and distinct pears
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum items to be deleted per perfect square product*
+*Minimum number of elements to delete for a perfect square product*
 
-> What is the smallest number of elements that must be deleted from the set of integers {10, 20, 30, 40, 50, 60, 70, 80, 90} if the product of the remaining numbers is to be a perfect square? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> What is the smallest number of elements that must simply be removed from the set of integers {10, 20, 30, 40, 50, 60, 70, 80, 90} if we want the product of the remaining numbers to be a perfect square?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q28|src_kangourou_2019_junior_marzo__Q28]]
 
 
 
@@ -1408,19 +1608,26 @@ Maximum number of boxes with identical apples and distinct pears
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PQR triangle area built on extensions*
+*Area of triangle PQR constructed on extensions*
 
 ![[src_kangourou_2019_junior_marzo__prob29.png]]
 
-> The figure shows an ABC triangle of area S. Let D be the midpoint of BC; three points P, Q, R were marked on the extensions of the segments BA, DA and CA respectively so that AP is twice AB, AQ is triple AD and AR is quadruple AC. What is the area of the PQR triangle? A) S
-> 	
-> B) 2S
-> 	
-> C) 3S
-> 	
-> D) S/2 E) 0 (i.e. P, Q, R are aligned).
+> The figure shows triangle ABC with area S. Let D be the midpoint of BC. On the extensions of segments BA, DA, and CA, three points P, Q, and R have been marked, respectively, such that AP is twice AB, AQ is three times AD, and AR is four times AC. What is the area of triangle PQR?
+> A) S	
+>
+> B) 2S	
+>
+> C) 3S	
+>
+> D) S/2	 	
+> E) 0 (i.e., P, Q, R are collinear).
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q29|src_kangourou_2019_junior_marzo__Q29]]
 
 
 
@@ -1462,17 +1669,24 @@ Maximum number of boxes with identical apples and distinct pears
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities of N of 4 digits with a 3-digit number divided by N*
+*How many 4-digit numbers N have a 3-digit number that divides N?*
 
-> How many positive integers N of four significant digits are such that if one digit of N is deleted, the remaining three digit number is a divisor of N ? A) 5
-> 	
-> B) 9
-> 	
-> C) 14
-> 	
-> D) 19
-> 	
-> E) 23 A R Q P C D B
+> How many positive integers N with four significant digits are such that, if one digit of N is deleted, the resulting three-digit number is a divisor of N?
+> A) 5	
+>
+> B) 9	
+>
+> C) 14	
+>
+> D) 19	
+>
+> E) 23
+> A R Q P C D B
 >
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_junior_marzo#q30|src_kangourou_2019_junior_marzo__Q30]]

@@ -30,11 +30,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*numeri a 3 cifre uguali a centinaia e unità di cifra*
+*Numeri di tre cifre con cifra delle centinaia e cifra delle unità uguali*
 
-> Considerate i numeri naturali a 3 cifre da $100$ a $999$. Tra questi, quanti numeri, come $202$ o $999$, hanno la cifra centinaia uguale alla cifra di unità?
+> Si considerino i numeri naturali di tre cifre compresi tra $100$ e $999$. Tra questi, quanti numeri, come $202$ o $999$, hanno la cifra delle centinaia uguale alla cifra delle unità?
 
-**Risposta:** 90
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jmo12yq_yosen#q01|src_jmo12yq_yosen__Q01]]
 
 
 
@@ -58,11 +63,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coppie da 1,14 con differenza assoluta non superiore a 3*
+*Coppie da 1..14 con differenza assoluta al più pari a 3*
 
-> Tra i numeri interi tra $1$ e $14$ inclusi, scegliere due numeri distinti. Quante coppie di due numeri esistono tali che il valore assoluto della loro differenza sia al massimo $3$? Qui, scegliere i due numeri in entrambi gli ordini è considerato come la stessa coppia.
+> Tra gli interi compresi tra $1$ e $14$, inclusi, scegli due numeri distinti. Quante coppie di due numeri ci sono tali che il valore assoluto della loro differenza è al più $3$? Qui, scegliere i due numeri in un ordine qualsiasi si considera come la stessa coppia.
 
-**Risposta:** 36
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jmo12yq_yosen#q02|src_jmo12yq_yosen__Q02]]
 
 
 
@@ -86,11 +96,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*numeri a 5 cifre con cifre di {1,2,3} divisibili per 3*
+*Numeri di 5 cifre con cifre in {1,2,3} divisibili per 3*
 
-> Considerate i numeri naturali a 5 cifre in cui ogni cifra è uno di $1, 2, 3$. Tra questi numeri naturali, quanti in totale sono divisibili per $3$?
+> Si considerino i numeri naturali di 5 cifre in cui ciascuna cifra è uno degli elementi di $1, 2, 3$. Tra questi numeri naturali, quanti in totale sono divisibili per $3$?
 
-**Risposta:** 81
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jmo12yq_yosen#q03|src_jmo12yq_yosen__Q03]]
 
 
 
@@ -113,11 +128,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rapporto di volume di ottaedro regolare a tetraedro regolare*
+*Rapporto di volume tra ottaedro regolare e tetraedro regolare*
 
-> Quante volte il volume di un tetraedro regolare con lunghezza di bordo $1$ è il volume di un ottaedro regolare con lunghezza di bordo $1$?
+> Quante volte il volume di un tetraedro regolare con spigolo di lunghezza $1$ è il volume di un ottaedro regolare con spigolo di lunghezza $1$?
 
-**Risposta:** 4
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jmo12yq_yosen#q04|src_jmo12yq_yosen__Q04]]
 
 
 
@@ -140,9 +159,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova m dove (m-2) ^2 e m^2-1 sono coppie di cambio di numeri*
+*Trovare m tale che (m-2)^2 e m^2-1 siano coppie di scambio delle cifre*
 
-> $m$ sia un numero naturale. Sia $(m-2)^2$ che $m^2-1$ sono numeri naturali a 3 cifre, e scambiando la cifra di centinaia e la cifra di unità di uno di essi si ottiene l'altro. Trova tutti i valori possibili di $m$.
+> Sia $m$ un numero naturale. Sia $(m-2)^2$ che $m^2-1$ sono numeri naturali di tre cifre, e scambiando la cifra delle centinaia con la cifra delle unità di uno di essi si ottiene l'altro. Determinare tutti i valori possibili di $m$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jmo12yq_yosen#q05|src_jmo12yq_yosen__Q05]]
 
 
 
@@ -166,9 +192,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare un'espressione in due reali positivi*
+*Il minimo di x+y+2/(x+y)+1/(2xy) per reali positivi*
 
-> Per i numeri reali positivi $x, y$, trovare il valore minimo della seguente espressione: $$x+y+\frac{2}{x+y}+\frac{1}{2xy}.$$
+> Per i numeri reali positivi $x, y$, trovare il valore minimo dell'espressione seguente:
+> $$x+y+\frac{2}{x+y}+\frac{1}{2xy}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_jmo12yq_yosen#q06|src_jmo12yq_yosen__Q06]]
 
 
 
@@ -193,9 +227,18 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeratore di frazione ridotta della somma fattoriale, mod 2002*
+*Numeratore della frazione ridotta della somma dei fattoriali, mod 2002*
 
-> Esprimere la seguente espressione come una singola frazione irriducibile (una frazione che non può essere ridotta ulteriormente). Quando il suo numeratore è diviso per $2002$, trova il rimanente. Qui, per un numero naturale $n$, $n!$ indica $1\times 2\times\cdots\times(n-1)\times n$.
+> Esprimi la seguente espressione come un'unica frazione irriducibile (una frazione che non può essere ulteriormente semplificata). Quando il suo numeratore viene diviso per $2002$, determina il resto.
+> $$\frac{2}{3!}+\frac{3}{4!}+\cdots+\frac{11}{12!}$$
+> Qui, per un numero naturale $n$, $n!$ denota $1\times 2\times\cdots\times(n-1)\times n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jmo12yq_yosen#q07|src_jmo12yq_yosen__Q07]]
 
 
 
@@ -218,9 +261,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Find angolo BAC dato bisector e AB+CD=AC*
+*Trovare l'angolo BAC dato la bisettrice e AB+CD=AC*
 
-> C'è un triangolo $ABC$. Il $D$ deve essere l'intersezione del bisettore di $\angle BAC$ con il lato $BC$. Abbiamo $\angle BAC : \angle BCA = 2 : 3$, e inoltre $AB + CD = AC$. Trova la misura di $\angle BAC$ in gradi. Qui, per due punti $X, Y$, la lunghezza del segmento $XY$ è indicata da $XY$.
+> C'è un triangolo $ABC$. Sia $D$ l'intersezione della bisettrice di $\angle BAC$ con il lato $BC$. Si ha $\angle BAC : \angle BCA = 2 : 3$, e inoltre $AB + CD = AC$. Determinare la misura di $\angle BAC$ in gradi. Qui, per due punti $X, Y$, la lunghezza del segmento $XY$ è indicata con $XY$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jmo12yq_yosen#q08|src_jmo12yq_yosen__Q08]]
 
 
 
@@ -244,9 +294,17 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le soluzioni di numeri interi di un'equazione diofantina quadrata*
+*Quante coppie di interi soddisfano xy^2 + xy + x^2 − 2y − 1 = 0*
 
-> Quante coppie di integri $x, y$ soddisfano l'equazione $$xy^2 + xy + x^2 - 2y - 1 = 0?$$
+> Quante coppie di interi $x, y$ soddisfano l'equazione
+> $$xy^2 + xy + x^2 - 2y - 1 = 0?$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata per casi]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_jmo12yq_yosen#q09|src_jmo12yq_yosen__Q09]]
 
 
 
@@ -269,9 +327,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre massimo di 3 cicli in un round robin da 14 giocatori*
+*Numero massimo di 3-cicli in un girone all'italiana a 14 giocatori*
 
-> Quando le persone $14$ giocano a un torneo rotondo di shogi (ogni persona gioca esattamente una partita contro ciascuna delle altre persone $13$), quante "cicli a tre vie" (sansukumi) possono esserci al massimo? Qui, un "ciclo a tre vie" significa un insieme di persone $3$ che soddisfano la seguente condizione: tra queste persone $3$, i risultati sono tali che ciascuna delle $3$ ha esattamente una vittoria e una sconfitta. Supponiamo che nessuna partita finisca in pareggio.
+> Quando $14$ persone disputano un torneo all'italiana di shogi (ciascuna persona gioca esattamente una partita contro ciascuna delle altre $13$ persone), al massimo quante "cicli a tre" (sansukumi) possono esserci? Qui, un "ciclo a tre" indica un insieme di $3$ persone che soddisfa la seguente condizione: tra queste $3$ persone, i risultati sono tali che ciascuna delle $3$ ha esattamente una vittoria e una sconfitta. Si supponga che nessuna partita termini in parità.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jmo12yq_yosen#q10|src_jmo12yq_yosen__Q10]]
 
 
 
@@ -303,9 +368,9 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colore 7 settori di un disco con 4 colori, rotazioni equivalenti*
+*Colora 7 settori di un disco con 4 colori, rotazioni equivalenti*
 
-> Una faccia di un disco è suddivisa in settori congruenti $7$. Ci sono le matite $4$ di colore: rosso, blu, giallo e verde. Usando questi, vogliamo colorare ogni settore con un colore. Lo stesso colore può essere utilizzato più volte e non è necessario utilizzare tutti i colori $4$, ma due settori adiacenti devono essere colorati con colori diversi. Quanti tipi di colorazione ci sono? Qui, due colori del disco che possono essere ottenuti l'uno dall'altro mediante rotazione sono considerati come lo stesso colore.
+> Una faccia di un disco è divisa in $7$ settori congruenti. Ci sono $4$ matite colorate: rosse, blu, gialle e verdi. Utilizzandole, vogliamo colorare ciascun settore con un colore. Lo stesso colore può essere usato più volte, non è necessario usare tutti i $4$ colori, ma due settori adiacenti devono essere colorati con colori diversi. Quante sono le modalità di colorazione? Qui, due colorazioni del disco che possono essere ottenute l'una dall'altra mediante una rotazione sono considerate la stessa colorazione.
 
 ```tikz
 \begin{tikzpicture}
@@ -315,6 +380,13 @@ level: JMO Yosen
 }
 \end{tikzpicture}
 ```
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jmo12yq_yosen#q11|src_jmo12yq_yosen__Q11]]
 
 
 
@@ -348,12 +420,20 @@ level: JMO Yosen
 
 *Equazione funzionale sui razionali; risolvere f(x)=2002*
 
-> Una funzione $f(x)$ è definita per ogni numero razionale e assume valori razionali e soddisfa le seguenti condizioni $(1)$, $(2)$, $(3)$.
-> 
+> Una funzione $f(x)$ è definita per ogni numero razionale e assume valori razionali, e soddisfa le seguenti condizioni $(1)$, $(2)$, $(3)$.
+>
 > $(1)$ $f(0) = 2,\ f(1) = 3$.
-> 
-> $(2)$ Per qualsiasi numero razionale $x$ e per qualsiasi numero intero $n$, il seguente vale: $$f(x+n) - f(x) = n\{f(x+1) - f(x)\}.$$
-> 
-> $(3)$ Per qualsiasi numero razionale non zero $x$, il valore seguente è: $$f(x) = f\left(\frac{1}{x}\right).$$
-> 
-> In queste condizioni, trovare tutti i numeri razionali $x$ che soddisfano $f(x) = 2002$.
+>
+> $(2)$ Per ogni numero razionale $x$ e per ogni intero $n$, vale quanto segue:
+> $$f(x+n) - f(x) = n\{f(x+1) - f(x)\}.$$
+>
+> $(3)$ Per ogni numero razionale non nullo $x$, vale quanto segue:
+> $$f(x) = f\left(\frac{1}{x}\right).$$
+>
+> In queste condizioni, determinare tutti i numeri razionali $x$ che soddisfano $f(x) = 2002$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jmo12yq_yosen#q12|src_jmo12yq_yosen__Q12]]

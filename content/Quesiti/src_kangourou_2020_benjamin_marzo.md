@@ -37,13 +37,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum packaging of eggs for 24 muffins*
+*Minimum number of egg packs for 24 muffins*
 
-> Michele wants to make 24 muffins for his birthday party. Two eggs are needed to make six muffins. The eggs are sold in packs of six. What's the minimum number of egg packs that Michele can buy? A) 1 B) 2 C) 3
-> 	
-> D) 4 E) 8
+> Michele wants to make 24 muffins for his birthday party. To make 6 muffins, two eggs are needed. Eggs are sold in packs of 6. What is the minimum number of packs of eggs that Michele needs to buy?
+> A) 1	
+>                B) 2	 	 	
+>  C) 3	
+>
+> D) 4	
+>               E) 8
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q01|src_kangourou_2020_benjamin_marzo__Q01]]
 
 
 
@@ -78,21 +86,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of the five road signs is incorrect*
+*Which of the five road signs is incorrect?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob2.png]]
 
-> Going from Atown to Betown, Betta passes the five road signs you see below. They're all correct except for one: Which one? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> Walking from Atown to Betown, Betta passes in front of the five road signs you see below. All of them are correct except one: which one?
+> A) 	
+>
+>  B) 	
+>
+>  C) 	
+>
+> D) 	
+>
 > E)
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q02|src_kangourou_2020_benjamin_marzo__Q02]]
 
 
 
@@ -127,19 +140,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which image exchanges the white and gray of the square*
+*Which image swaps the whites and greys of the square?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob3.png]]
 
-> The square in the figure consists of white and gray squares. Which of the following pictures is the same square where the white squares were exchanged for the gray squares? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D) E)
+> The square in the figure is made up of small white and grey squares. Which of the following images represents the same square in which the white squares have been swapped with the grey ones?
+> A) 	
+>
+>  B) 	
+>
+>  C) 	
+>
+> D)	
+>              E)
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q03|src_kangourou_2020_benjamin_marzo__Q03]]
 
 
 
@@ -172,19 +191,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which piece completes the mosaic*
+*Which piece completes the mosaic?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob4.png]]
 
-> Which of the following pieces completes the mosaic here? A)
-> 	
-> B)
-> 	
-> C) D)
-> 	
+> Which of the following pieces completes the mosaic on the side here?
+> A) 	
+>
+> B) 	
+>
+> C)
+> D) 	
+>
 > E)
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q04|src_kangourou_2020_benjamin_marzo__Q04]]
 
 
 
@@ -231,22 +256,30 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What the two letters F look like reflected*
+*What do the two F letters look like when reflected?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob5.png]]
 
-> Flora reflects the letter F relative to the two segments you see in the figure on the side. What will the two reflected letters look like? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
-> (e) Atown 2 km Betown 9 km Atown 3 km Betown 8 km Atown 5 km Betown 6 km Atown 8 km Betown 3 km Atown 9 km Betown 4 km
+> Flora is the reflection of the letter F with respect to the two line segments you see in the figure beside it. How will the two reflected letters appear?
+> A) 	
+>
+>  B) 	
+>
+>  C) 	
+>
+> D)	
+>
+> E)
+> Atown 2 km Betown 9 km
+>
+> Atown 3 km Betown 8 km Atown 5 km Betown 6 km Atown 8 km Betown 3 km Atown 9 km Betown 4 km
 >
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q05|src_kangourou_2020_benjamin_marzo__Q05]]
 
 
 
@@ -277,11 +310,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number of rings is not achievable with chains 5 and 7*
+*Which number of rings cannot be obtained with chains of 5 and 7?*
 
-> Luigi has several chains, some made up of five rings, others of seven. By joining them together, but without breaking them, Luigi can form chains with a greater number of rings, but he cannot form a chain with A) 10 rings. B) 12 rings. C) 13 rings. D) 14 rings. E) 15 rings.
+> Luigi has several chains—some made up of 5 links, others of 7. By joining them together without breaking them, Luigi can form chains with a greater number of links, but he cannot form a chain with
+> A) 10 rings.
+> B) 12 rings.
+> C) 13 rings.
+> D) 14 rings.
+> E) 15 rings.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q06|src_kangourou_2020_benjamin_marzo__Q06]]
 
 
 
@@ -315,19 +358,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many of the 10 pieces Maria cut (22 pieces total)
+*How many of the 10 pieces did Maria cut? (22 pieces in total)*
 
-> Mary has 10 pieces of paper. She cuts a few, each in five parts. After doing that, Mary has 22 pieces of paper in all. How many of the first 10 pieces of paper did she cut? A) 3
-> 	
-> B) 7
-> 	
-> C) 2
-> 	
-> D) 8
-> 	
+> Maria has 10 pieces of paper. She cuts some of them, each into five parts. After doing that, Maria has 22 pieces of paper in total. How many of the initial 10 pieces of paper did she cut?
+> A) 3	
+>
+> B) 7	
+>
+> C) 2	
+>
+> D) 8	
+>
 > E) 6
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q07|src_kangourou_2020_benjamin_marzo__Q07]]
 
 
 
@@ -365,21 +413,27 @@ How many of the 10 pieces Maria cut (22 pieces total)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many blue regions in the colour of the circle*
+*How many blue regions in the coloring of the circle?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob8.png]]
 
-> Ada colors each region into which the circle you see is divided by either red or yellow or blue, so that regions that touch each other receive different colors. Ada colors the outermost region blue; after the entire drawing has been colored, how many regions are blue? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> Ada colors each region into which the circle you see on the side is divided either red, yellow, or blue, making sure that touching regions get different colors. Ada colors the outermost region blue; after the whole drawing has been colored, how many regions are colored blue?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q08|src_kangourou_2020_benjamin_marzo__Q08]]
 
 
 
@@ -414,19 +468,24 @@ How many of the 10 pieces Maria cut (22 pieces total)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of apples to be moved to match the baskets*
+*Minimum number of apples to move to equalize the baskets*
 
-> I have four baskets containing 1, 4, 6 and 9 apples. I want to move some apples from one basket to another so that in the end each basket contains the same number of apples. What's the minimum number of apples I can move to achieve my goal? A) 3
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
+> I have four baskets containing 1, 4, 6, and 9 apples. I want to move some apples from one basket to another so that, in the end, each basket contains the same number of apples. What is the minimum number of apples I need to move to achieve my goal?
+> A) 3	
+>
+> B) 4	
+>
+> C) 5	
+>
+> D) 6	
+>
 > E) 7
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q09|src_kangourou_2020_benjamin_marzo__Q09]]
 
 
 
@@ -460,13 +519,23 @@ How many of the 10 pieces Maria cut (22 pieces total)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Where dog and cat meet (triple speed)*
+*At what point do the dog and the cat meet (triple speed)?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob10.png]]
 
-> A dog and cat move through the park following the path depicted in the picture by the thick black line. The dog starts from P, the cat from Q, and the dog's speed is three times that of the cat. Where will they meet? A) In A. B) In B. C) In C. D) In D. E) In E. The questions from N. 11 to N. 20 are worth 4 points each.
+> A dog and a cat move through the park along the path shown in the figure by the thick black line. The dog starts at P, the cat starts at Q, and the dog's speed is three times the cat's speed. At what point will they meet?
+> A) In A.
+> B) In B.
+> C) In C.
+> D) In D.
+> E) In E.
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q10|src_kangourou_2020_benjamin_marzo__Q10]]
 
 
 
@@ -519,22 +588,29 @@ How many of the 10 pieces Maria cut (22 pieces total)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number at the place of the question mark (circles 1-10)*
+*Number in place of the question mark (circles 1–10)*
 
 ![[src_kangourou_2020_benjamin_marzo__prob11.png]]
 
-> The numbers 1 to 10 must each be written in one of the circles in the figure. The numbers in two adjacent circles must have the same sum as the numbers in the two circles diametrically opposite them. Some numbers have already been entered. What number shall be inserted in the place of the question mark? A) 3
-> 	
-> B) 4
-> 	
-> C) 6
-> 	
-> D) 7
-> 	
-> E) 8 A B C D E P Q 10 1 ? 9 5 2
+> The numbers from 1 to 10 must each be written in one of the small circles in the figure. The numbers in two adjacent circles must have the same sum as the numbers in the two circles diametrically opposite them. Some numbers have already been placed. Which number should be placed in place of the question mark?
+> A) 3	
+>
+> B) 4	
+>
+> C) 6	
+>
+> D) 7	
+>
+> E) 8
+> A B C D E P Q 10 1 ? 9 5 2
 >
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q11|src_kangourou_2020_benjamin_marzo__Q11]]
 
 
 
@@ -565,11 +641,20 @@ How many of the 10 pieces Maria cut (22 pieces total)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How long has Trello been out (clock head-down)*
+*How long was Trello down (clock upside down)?*
 
-> In the cave of the Trello bat, there's a digital clock hanging properly. When Trello comes out of the cave, he sees written on the clock [time]. Before dawn he comes home, hangs upside down and still sees written on the clock [time]. How long has Trello been out of the cave? A) 3 hours and 28 minutes. B) 3 hours and 40 minutes. C) 3 hours and 42 minutes. D) 4 hours and 18 minutes. E) 5 hours and 42 minutes.
+> In Bat Trello's cave, there is a digital clock hung up correctly. When Trello comes out of the cave, they see something written on the clock. Before dawn, they go back inside, hang themselves upside down, and still see something written on the clock. How long was Trello out of the cave?
+> A) 3 hours and 28 minutes.
+> B) 3 hours and 40 minutes.
+> C) 3 hours and 42 minutes.
+> D) 4 hours and 18 minutes.
+> E) 5 hours and 42 minutes.
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q12|src_kangourou_2020_benjamin_marzo__Q12]]
 
 
 
@@ -600,15 +685,22 @@ How many of the 10 pieces Maria cut (22 pieces total)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What statement do the liar and the truthful one make*
+*What claim do the liar and the sincere person make?*
 
-> Two friends are meeting. One of the two always lies, while the other always tells the truth. Both make one of the following statements: Which? A) I'm telling the truth.
-> 	
-> B) You're telling the truth. C) We're both telling the truth. D) I always lie.
-> 	
-> E) Only one of us is telling the truth.
+> Two friends meet. One of them always lies, while the other always tells the truth. Both make one of the following statements: which one?
+> A) I am telling the truth.
+>
+> B) You are telling the truth.
+> C) We're both telling the truth.
+> D) I always lie.
+>
+> E) One and only one of us is telling the truth.
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q13|src_kangourou_2020_benjamin_marzo__Q13]]
 
 
 
@@ -643,21 +735,26 @@ How many of the 10 pieces Maria cut (22 pieces total)
 <div class="qlang-split" data-lang="en"></div>
 
 
-What cube could Mary have built?
+*Which cube could Maria have built (10/9/8 small cubes)?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob14.png]]
 
-> Maria has exactly 10 white cubes, 9 gray cubes and 8 black cubes, all the same size. She glues them all together and gets a bigger cube. Which of the cubes pictured below may be the one built by Mary? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> Maria has exactly 10 white cubes, 9 grey cubes, and 8 black cubes, all of the same size. She glues them all together and gets a larger cube. Which of the cubes shown below could be the one Maria built?
+> A)	
+>
+> B)	
+>
+> C)	
+>
+> D)	
+>
 > E) None.
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q14|src_kangourou_2020_benjamin_marzo__Q14]]
 
 
 
@@ -688,13 +785,22 @@ What cube could Mary have built?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of the five X-Y routes is the shortest*
+*Which of the five X-Y routes is the shortest?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob15.png]]
 
-> The figures show five routes from X to Y pointed out with a thick line: which is the shortest? A) B) C) D) E)
+> The figures show five routes from X to Y, indicated by a thick line: which one is the shortest?
+> A) 	
+>              B) 	
+>            C)	
+>          D) 	
+>        E)
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q15|src_kangourou_2020_benjamin_marzo__Q15]]
 
 
 
@@ -730,19 +836,25 @@ What cube could Mary have built?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum moves to bring 9 tokens of the same colour (slide 3)*
+*Minimum moves to get 9 tokens of the same color (spin 3)*
 
-> Nine tokens are black on one face and white on the other. At first all tokens are set with their black face facing up. You have to turn three tokens every move. What's the minimum number of moves you can take to get all the tokens to the same color? It's mandatory to make at least one move. A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> The new tokens are black on one side and white on the other. At the beginning, all of them are arranged with the black side facing up. On each move, you must flip three tokens. What is the minimum number of moves required to make all the tokens the same color? You must make at least one move.
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q16|src_kangourou_2020_benjamin_marzo__Q16]]
 
 
 
@@ -789,22 +901,28 @@ What cube could Mary have built?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which shape cannot be obtained with the two pieces of wire*
+*Which shape cannot be achieved with the two pieces of wire?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob17.png]]
 
-> George has two identical pieces of wire shaped like the one shown here. Which of the following shapes cannot George obtain by attaching the two pieces of iron wire? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
-> E) X Y X Y X Y X Y X Y
+> Giorgio has two identical pieces of wire with the shape shown here beside. Which of the following shapes cannot be obtained by joining the two pieces of wire together?
+> A)	
+>
+> B)	
+>
+> C)	
+>
+> D)	
+>
+> E)
+> X Y X Y X Y X Y X Y
 >
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q17|src_kangourou_2020_benjamin_marzo__Q17]]
 
 
 
@@ -839,23 +957,23 @@ What cube could Mary have built?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many hectograms of paint for the solid made of four boxes*
+*How many hectograms of paint for the solid made up of four boxes?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob18.png]]
 
-> Four identical boxes, in the shape of a rectangular 
-> parallelepiped, are glued together to form the solid you see in 
-> the figure. To paint the entire outer surface of each 
-> box, one hectogram of paint is needed. How many hectograms of paint 
-> are needed to paint the entire outer surface of the solid in the figure? 
-> A) 2.5	 	
+> Four identical rectangular parallelepiped-shaped boxes are glued together to form the solid shown in the figure. Painting the entire outer surface of each box requires one decagram of paint. How many decagrams of paint are needed to paint the entire outer surface of the solid shown in the figure?
+> A) 2,5	 	
 > B) 3	
-> 	
-> C) 3.25	 	
-> D) 3.5	 	
+>
+> C) 3,25	 	
+> D) 3,5	 	
 > E) 4
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q18|src_kangourou_2020_benjamin_marzo__Q18]]
 
 
 
@@ -894,21 +1012,27 @@ What cube could Mary have built?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What number is Franca in the friendship graph*
+*Which number represents Franca in the friendship graph?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob19.png]]
 
-> The figure summarizes the friendship relationships of six girls: Arianna, Beatrice, Clelia, Diana, Elizabeth and Franca. Each number represents one of the girls and each segment connecting two numbers represents a friendship relationship between the two girls corresponding to the numbers. Clelia, Diana and Franca each have four friends. Beatrice is friends only with Clelia and Diana. Which number represents Franca? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> The figure summarizes the friendship relationships among six girls: Arianna, Beatrice, Clelia, Diana, Elisabetta, and Franca. Each number represents one of the girls, and each line segment connecting two numbers represents a friendship relationship between the two girls corresponding to those numbers. Clelia, Diana, and Franca each have 4 friends. Beatrice is friends only with Clelia and Diana. Which number represents Franca?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q19|src_kangourou_2020_benjamin_marzo__Q19]]
 
 
 
@@ -950,24 +1074,30 @@ What cube could Mary have built?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure represents the three vessels seen from above*
+*Which figure represents the three vessels as seen from above?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob20.png]]
 
-> Mara poured the same amount of liquid into three vessels shaped like a rectangular parallelepiped (the shape of a shoe box). Viewed from the front, the three vessels appear to be of the same size, but the liquid has reached different levels in each. Which of the following can represent the three vessels seen from above? A)
-> 	
-> 	
-> B)
-> 	
-> 	
-> C)
-> 	
-> D)
-> 	
-> 	
-> E) Questions from N. 21 to N. 30 are worth 5 points each.
+> Mara poured the same amount of liquid into three right rectangular parallelepiped-shaped vessels (the shape of a shoebox). Seen from the front, the three vessels appear to be the same size, but in each one the liquid has reached a different level. Which of the following figures could represent the three vessels seen from above?
+> A)	
+>
+>
+> B)	
+>
+>
+> C)	
+>
+> D)	
+>
+>
+> E)
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q20|src_kangourou_2020_benjamin_marzo__Q20]]
 
 
 
@@ -1009,30 +1139,28 @@ What cube could Mary have built?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure shows the pylon seen from above*
+*Which figure shows the lattice from above?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob21.png]]
 
-> Which of the following figures represents the pylon on the 
-> right seen from above? 
+> Which of the following figures represents the lattice truss on the right here, viewed from above?
 > A)	
-> 	
+>
 >    B)	
-> 	
+>
 >     C)	
-> 	
+>
 > D)	
-> 	
+>
 >    E)
-> 1
-> 2
-> 3
-> 4
-> 5
-> 6
+> 1 2 3 4 5 6
 >
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q21|src_kangourou_2020_benjamin_marzo__Q21]]
 
 
 
@@ -1069,17 +1197,25 @@ What cube could Mary have built?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance from the lower side of the middle square*
+*Distance from the lower side of the intermediate square*
 
 ![[src_kangourou_2020_benjamin_marzo__prob22.png]]
 
-> Look at the figure: In a large square, whose side is known, three smaller squares are drawn. The distance of the lower side of the smallest and the largest of the three from the lower side of the large square is known. How many centimeters from the bottom of the large square is the bottom of the middle square? A) 17
-> 	
-> B) 17,5 C) 18
-> 	
-> D) 18,5 E) 19
+> Observe the figure: inside a large square whose side length is known, three smaller squares are drawn. The distances from the lower side of the smallest and of the largest of the three squares to the lower side of the large square are known. How many centimeters is the lower side of the middle square from the lower side of the large square?
+> A) 17	
+>
+> B) 17,5	 	
+> C) 18	
+>
+> D) 18,5	 	
+> E) 19
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q22|src_kangourou_2020_benjamin_marzo__Q22]]
 
 
 
@@ -1114,19 +1250,24 @@ What cube could Mary have built?
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many years since the kangaroos beat their father in the polls?
+*How many years until the baby kangaroos outvote their father?*
 
-> A kangaroo father lives with his three children: all four were born on the same day of the year. Each issue is decided by a vote, and each family member has a number of votes equal to their age in years. Today the father is 36 years old and the children are 13, 6 and 4 years old, so the father wins every vote. How many years do the kangaroos have to wait for it to happen that, if they agree, they can beat their father on the ballot? A) 5
-> 	
-> B) 6
-> 	
-> C) 7
-> 	
-> D) 13
-> 	
+> A kangaroo father lives with his three children: all four were born on the same day of the year. On every issue, they decide by voting, and each family member has a number of votes equal to their age in years. Today the father is 36 years old, and the children are 13, 6, and 4 years old: so the father wins every vote. How many years must the little kangaroos wait for it to be possible that, if they agree among themselves, they can beat their father in a vote?
+> A) 5	
+>
+> B) 6	
+>
+> C) 7	
+>
+> D) 13	
+>
 > E) 14
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q23|src_kangourou_2020_benjamin_marzo__Q23]]
 
 
 
@@ -1161,19 +1302,25 @@ How many years since the kangaroos beat their father in the polls?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which collection balances the third balance*
+*Which collection balances the third scale?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob24.png]]
 
-> Look at the balances in the figure: two are in balance. Which of the collections of objects contained in the answers is sure to balance the third one? A)
-> 	
-> B)
-> 	
-> C) D)
-> 	
+> Observe the scales in the figure: two of them are in equilibrium. Which of the collections of objects given in the answer choices would certainly make it possible to balance the third one as well?
+> A)	
+>
+> B)	
+>
+> C)
+> D)	
+>
 > E)
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q24|src_kangourou_2020_benjamin_marzo__Q24]]
 
 
 
@@ -1209,13 +1356,23 @@ How many years since the kangaroos beat their father in the polls?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which combination of ice cream and decoration is NOT possible*
+*Which ice cream-decoration combination is NOT possible?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob25.png]]
 
-> Ten boys order a ball of ice cream each. They order four vanilla balls, three chocolate balls, two lemon balls and a strawberry ball. On top of each ice cream is a decoration chosen from a box containing 4 umbrellas, 3 cherries, 2 wafers and 1 chocolate and the choice is made so that each ice cream, once decorated, can be distinguished from each other. Which of the following combinations is NOT possible? A) Chocolate ice cream with wafers. B) Lemon ice cream with umbrella. C) Vanilla ice cream with umbrella. D) Strawberry ice cream with cherry. E) Vanilla ice cream with chocolate.
+> Ten boys each order one scoop of ice cream. In total, they order 4 scoops of vanilla, 3 scoops of chocolate, 2 scoops of lemon, and one scoop of strawberry. On top of each ice cream is a topping chosen from a box containing 4 little umbrellas, 3 cherries, 2 wafers, and 1 chocolate candy; the choices are made so that, once decorated, each ice cream can be distinguished from each of the others. Which of the following combinations is NOT possible?
+> A) Chocolate ice cream with wafers.
+> B) Lemon gelato with a tiny umbrella.
+> C) Vanilla gelato with a little umbrella.
+> D) Strawberry gelato with cherry.
+> E) Vanilla gelato with a chocolate candy.
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q25|src_kangourou_2020_benjamin_marzo__Q25]]
 
 
 
@@ -1249,19 +1406,25 @@ How many years since the kangaroos beat their father in the polls?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most consecutive cute numbers (central digit > sum of others)*
+*Maximum number of consecutive nice numbers (central digit > sum of the other digits)*
 
-> We call a three-digit number (significant) cute if the central digit is greater than the sum of the other two. How many consecutive cute numbers can there be at most? A) 5
-> 	
-> B) 6
-> 	
-> C) 7
-> 	
-> D) 8
-> 	
+> We call a 3-digit (significant) number "cute" if the middle digit is greater than the sum of the other two digits. What is the maximum number of consecutive cute numbers that can exist?
+> A) 5	
+>
+> B) 6	
+>
+> C) 7	
+>
+> D) 8	
+>
 > E) 9
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q26|src_kangourou_2020_benjamin_marzo__Q26]]
 
 
 
@@ -1300,20 +1463,26 @@ How many years since the kangaroos beat their father in the polls?
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many matches has Mauro to play (15 total)
+*How many more matches does Mauro still have to play? (15 in total)*
 
-> In a chess tournament, Mauro has to play 15 games. At some point in the tournament, he won half of the games played, lost a third and drew two. How many games does Mauro have to play? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
-> E) 6 22 cm 15 cm 28 cm ?
+> In a chess tournament, Mauro has to play 15 games. At a certain point in the tournament, he had won half of the games he had played, lost a third of them, and drawn two. How many more games does Mauro still have to play?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
+> E) 6
+> 22 cm 15 cm 28 cm ?
 >
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q27|src_kangourou_2020_benjamin_marzo__Q27]]
 
 
 
@@ -1353,21 +1522,26 @@ How many matches has Mauro to play (15 total)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers to be written in place of a,b,c in the folded sheet*
+*Numbers to be written in place of a, b, c on the folded sheet*
 
 ![[src_kangourou_2020_benjamin_marzo__prob28.png]]
 
-> Victor has a square sheet of paper divided into nine equal squares. He's going to fold it as the figure shows, overlaying the squares horizontally and then vertically, so that eventually the gray square remains visible at the top. Before folding it, he wants to write the numbers 1 through 9, each in a square, so that when the square is folded, the numbers are in increasing order from the number 1 visible at the top. What numbers should he write instead of a, b, c? A) a = 6, b = 4, c = 8
-> 	
-> B) a = 4, b = 6, c = 8
-> 	
-> C) a = 5, b = 7, c = 9
-> 	
-> D) a = 4, b = 5, c = 7
-> 	
+> Vittorio has a square sheet of paper divided into nine equal small squares. He intends to fold it as shown in the figure, first folding the small squares horizontally and then vertically, so that in the end the gray small square remains visible at the top. Before folding it, he wants to write the numbers from 1 to 9, one in each small square, so that when the square is folded, the numbers appear in ascending order starting with the number 1 visible at the top. Which numbers must he write instead of a, b, c?
+> A) a = 6, b = 4, c = 8	
+>
+> B) a = 4, b = 6, c = 8	
+>
+> C) a = 5, b = 7, c = 9	
+>
+> D) a = 4, b = 5, c = 7	
+>
 > E) a = 6, b = 4, c = 7
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q28|src_kangourou_2020_benjamin_marzo__Q28]]
 
 
 
@@ -1406,21 +1580,27 @@ How many matches has Mauro to play (15 total)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many glue drops in the sphere pyramid*
+*How many drops of glue in the pyramid of small spheres?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob29.png]]
 
-> Daniel builds the pyramid of spheres you see in the figure (the four side faces are identical). The base is made up of 3×3 spheres, the intermediate plane is made up of 2×2 spheres and at the top is a sphere. He puts a drop of glue at each point of contact between two spheres. How many glue drops did Daniel use? A) 20
-> 	
-> B) 24
-> 	
-> C) 28
-> 	
-> D) 32
-> 	
+> Daniele builds the pyramid of small spheres that you see in the figure (the four side faces are identical). The base consists of 3×3 small spheres, the middle layer consists of 2×2 small spheres, and at the top there is one small sphere. He puts a drop of glue at each point where two small spheres touch: how many drops of glue does Daniele use in total?
+> A) 20	
+>
+> B) 24	
+>
+> C) 28	
+>
+> D) 32	
+>
 > E) 36
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q29|src_kangourou_2020_benjamin_marzo__Q29]]
 
 
 
@@ -1471,18 +1651,26 @@ How many matches has Mauro to play (15 total)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which way to go to visit each island once*
+*In which direction should you move to visit each island once?*
 
 ![[src_kangourou_2020_benjamin_marzo__prob30.png]]
 
-> In the figure, you can see a map showing some islands and how they are connected by bridges. A postman wants to visit every island exactly once. He started from the island marked with P and would like to end on the island marked with A. He just reached the black island in the center of the map. Which way does he have to go to complete his round? A) To the north.
-> 	
-> B) To the east.
-> 	
-> C) To the south.
-> 	
-> D) To the west. E) There is no path to fulfill the postman's wish. 1 a b c A W S E N P
-> 
-> Answers
+> In the figure, you see a map showing some islands and how they are connected by bridges. A postman wants to visit each island exactly once. He set off from the island labeled P and would like to end up on the island labeled A. He has just reached the black island at the center of the map. In which direction must he move in order to complete his circuit?
+> A) North side.
+>
+> B) East side
+>
+> C) Towards the South.
+>
+> D) West-facing.
+> E) No path makes it possible to fulfill the postman's wish.
+> 1 a b c A W S E N P
+>
+> Responses
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_benjamin_marzo#q30|src_kangourou_2020_benjamin_marzo__Q30]]

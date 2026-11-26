@@ -37,17 +37,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*6 digit palindrome numbers divisible by 33*
+*Six-digit palindromes divisible by 33*
 
-> How many numbers of 6 digits divisible by 33 are palindromes, that is, they stay the same if read from right to left?
+> How many 6-digit numbers divisible by 33 are palindromes, that is, remain the same if read from right to left?
 >
 > - **(A)** 30
 > - **(B)** 33
 > - **(C)** 300
 > - **(D)** 333
-> - **(E)** None of the above.
+> - **(E)** none of the above.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2021_2livello#q01|src_archimede_2021_2livello__Q01]]
 
 
 
@@ -79,11 +83,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle with median AC=AM, length AC*
+*Triangle with AC=AM median, length AC*
 
-![[src_archimede_2021_2livello__prob2.png]]
-
-> From a triangle of vertices A, B, C we know that AB = 5, BC = 4 and AC = AM, where M is the middle point of the side BC. How much is the length of the AC side?
+> A triangle with vertices A, B, C is given such that AB = 5, BC = 4 and AC = AM, where M is the midpoint of side BC. What is the length of side AC?
 >
 > - **(A)** 4
 > - **(B)** √ 17
@@ -91,7 +93,10 @@ level: 2 livello
 > - **(D)** 2 √ 5
 > - **(E)** √ 21
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_2livello#q02|src_archimede_2021_2livello__Q02]]
 
 
 
@@ -120,7 +125,7 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the sum of the amounts reported in the report.
+*Digit sum of 2021 + (102021 + 21)2*
 
 > What is the sum of the digits of the number 2021 + (102021 + 21)2?
 >
@@ -128,9 +133,12 @@ This is the sum of the amounts reported in the report.
 > - **(B)** 30
 > - **(C)** 37
 > - **(D)** 42
-> - **(E)** A number greater than 100.
+> - **(E)** a number greater than 100.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2021_2livello#q03|src_archimede_2021_2livello__Q03]]
 
 
 
@@ -170,7 +178,9 @@ This is the sum of the amounts reported in the report.
 
 *Equation with roots, distinct values of c*
 
-> They shall be integers a, b, c, each between 1 and 2021 (extremes included), satisfying the √a + √ b = q a + c √ b equation. What are the possible distinct values of c?
+> Let a, b, c be integers, each between 1 and 2021 (inclusive), satisfying the equation
+> √a + √b = q√(a + c)√b.
+> How many distinct possible values of c are there?
 >
 > - **(A)** 130
 > - **(B)** 132
@@ -178,7 +188,11 @@ This is the sum of the amounts reported in the report.
 > - **(D)** 1936
 > - **(E)** 2025
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2021_2livello#q04|src_archimede_2021_2livello__Q04]]
 
 
 
@@ -209,9 +223,9 @@ This is the sum of the amounts reported in the report.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial with p(α) =β and p(β) =α, sum of α+β*
+*Polynomial with p(α)=β and p(β)=α, sum α+β*
 
-> In studying the polynomial p(x) = x2 + 2x −6, Enrica discovered two distinct real numbers α and β such that p(α) = β and p(β) = α. How much is α + β?
+> While studying the polynomial p(x) = x2 + 2x −6, Enrica discovered two distinct real numbers α and β such that p(α) = β and p(β) = α. What is α + β?
 >
 > - **(A)** −3
 > - **(B)** −2 √ 2
@@ -219,7 +233,11 @@ This is the sum of the amounts reported in the report.
 > - **(D)** 2
 > - **(E)** 6
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2021_2livello#q05|src_archimede_2021_2livello__Q05]]
 
 
 
@@ -253,9 +271,9 @@ This is the sum of the amounts reported in the report.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbered horses and horsemen, possible values of horses*
+*Numbered liars and knights, possible values for the number of liars*
 
-> Participants in a gathering of thieves (who always lie) and knights (who always tell the truth) are numbered from 1 to 2021. Each of them states: At least the groups of participants of which I am a member and which contain exactly two knights can be formed, where i is the number assigned to the person speaking. What are the possible values for the number of thieves at the convention?
+> The participants at a convention of liars (who always lie) and knights (who always tell the truth) are numbered from 1 to 2021. Each of them says: “It is possible to form at least i triples of participants of which I am part and that contain exactly two knights”, where i is the number assigned to the person speaking. How many are the possible values for the number of liars present at the convention?
 >
 > - **(A)** 1
 > - **(B)** 3
@@ -263,7 +281,11 @@ This is the sum of the amounts reported in the report.
 > - **(D)** 2021
 > - **(E)** 2022
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2021_2livello#q06|src_archimede_2021_2livello__Q06]]
 
 
 
@@ -297,19 +319,21 @@ This is the sum of the amounts reported in the report.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangle, bisector, ratio (AB/BC) ^2*
+*Right triangle, angle bisector, value of ( AB BC )2*
 
-![[src_archimede_2021_2livello__prob7.png]]
-
-> Let ABC be a right triangle in B. Both H is the foot of height from B and D is the intersection between the angle of the angle in A and the side of BC. Let's say HD is perpendicular to BC. How much is (AB BC) 2?
+> Let ABC be a triangle right-angled at B. Let H be the foot of the altitude from B, and let D be the intersection of the bisector of the angle at A with the side BC. Suppose that HD is perpendicular to BC. What is the value of ( AB BC )2?
 >
 > - **(A)** √ 5 2
 > - **(B)** √ 5−1 2
 > - **(C)** √ 5
 > - **(D)** √ 5+1 2
-> - **(E)** Such a configuration cannot be achieved.
+> - **(E)** such a configuration cannot be realized.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_2livello#q07|src_archimede_2021_2livello__Q07]]
 
 
 
@@ -344,9 +368,12 @@ This is the sum of the amounts reported in the report.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Stripe of 8 boxes, operations, combinations obtained*
+*Eight-cell strip, operations, achievable combinations*
 
-> Little Boole has drawn a strip of eight boxes, each of which can be written as either a 0 or a 1. Initially each box contains a 0. For each move, Boole performs one of the following operations: (a) replace each 0 with a 1 and each 1 with a 0; (b) choose three consecutive boxes and only in these boxes replace each 0 with a 1 and vice versa. How many different combinations of 0 and 1 can Boole get?
+> Little Boole has drawn a strip of 8 cells, each of which can contain either a 0 or a 1. Initially every cell contains a 0. On each move, Boole performs one of the following operations:
+> (a) replaces every 0 with a 1 and every 1 with a 0;
+> (b) chooses three consecutive cells and, only in these, replaces every 0 with a 1 and vice versa.
+> How many different combinations of 0 and 1 can Boole obtain?
 >
 > - **(A)** 25
 > - **(B)** 26
@@ -354,7 +381,11 @@ This is the sum of the amounts reported in the report.
 > - **(D)** 28 −2
 > - **(E)** 28
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2021_2livello#q08|src_archimede_2021_2livello__Q08]]
 
 
 
@@ -387,9 +418,12 @@ This is the sum of the amounts reported in the report.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equation with fractional part, according to floor value*
+*Equation with fractional part, second floor value*
 
-> For every non-negative real x, we define x as the whole of x, or the largest integer less or equal to x, and {x} = x −x as the fractional part of x. Whether p is a positive real non-entire solution of the {zz} = 2021{z}. What is the second smallest possible value of p?
+> For every non-negative real x, define ⌊x⌋ as the integer part of x, that is, the greatest
+> integer less than or equal to x, and {x} = x −⌊x⌋ as the fractional part of x.
+> Let p be a positive non-integer real solution of the equation {z⌊z⌋} = 2021{z}. What is the second
+> smallest possible value of ⌊p⌋?
 >
 > - **(A)** 2021
 > - **(B)** 2022
@@ -397,7 +431,11 @@ This is the sum of the amounts reported in the report.
 > - **(D)** 4042
 > - **(E)** 4043
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2021_2livello#q09|src_archimede_2021_2livello__Q09]]
 
 
 
@@ -428,9 +466,9 @@ This is the sum of the amounts reported in the report.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Terms with 2^a+2^b+2^c divider of 8^a+8^b+8^c*
+*Triples with 2^a+2^b+2^c dividing 8^a+8^b+8^c*
 
-> Determine the number of ordered tern (a,b,c) of non-negative integers such that each of the numbers 2a, 2b, 2c is less than 10000 and that the number 2a + 2b + 2c is a divisor of 8a + 8b + 8c.
+> Determine the number of ordered triples (a,b,c) of non-negative integers such that each of the numbers 2^a, 2^b, 2^c is less than 10000 and such that the number 2^a + 2^b + 2^c is a divisor of 8^a + 8^b + 8^c.
 >
 > - **(A)** 14
 > - **(B)** 50
@@ -438,7 +476,11 @@ This is the sum of the amounts reported in the report.
 > - **(D)** 72
 > - **(E)** 86
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2021_2livello#q10|src_archimede_2021_2livello__Q10]]
 
 
 
@@ -476,20 +518,21 @@ This is the sum of the amounts reported in the report.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equilateral triangle, point with angle 60°, minimum area*
+*Least area of AXY when angle APB is 60°*
 
-![[src_archimede_2021_2livello__prob11.png]]
-![[src_archimede_2021_2livello__prob11b.png]]
-
-> Either ABC is an equilateral triangle on the unit side and either P is a point on the opposite side of the straight AB relative to the point C, such that the angle \ APB measures 60°. Suppose that the angular bisector \ APB intersects the segments AB and AC at points X and Y, respectively. What is the minimum possible value for the area of the AXY triangle ?
+> Let ABC be an equilateral triangle of unit side, and let P be a point on the opposite side of the line AB from the point C, such that the angle \ APB measures 60°. Suppose that the bisector of the angle \ APB intersects the segments AB and AC at the points X and Y, respectively. What is the least possible value of the area of triangle AXY?
 >
 > - **(A)** 1 3 √ 3
 > - **(B)** 1 2 √ 3
 > - **(C)** √ 3 12
 > - **(D)** √ 3 8
-> - **(E)** None of the above.
+> - **(E)** none of the above.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_disuguaglianze|Classical inequalities]], [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_2livello#q11|src_archimede_2021_2livello__Q11]]
 
 
 
@@ -521,17 +564,21 @@ This is the sum of the amounts reported in the report.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Six-fold with sum of 168 cubes, remaining form 6*
+*Remainder on division by 6 of the sextuples with a3+b3+c3+d3+e3+f3 = 168*
 
-> Both N the number of ordered six-times of integers (a,b,c,d,e,f) such that a3+b3+c3+d3+e3+f3 = 168 and −2021202120219 < abcdef < 2021202120219, where abcdef is the product of the six integers. Which of the following is the remainder of N in division by 6?
+> Let N be the number of ordered sextuples of integers (a,b,c,d,e,f) such that a3+b3+c3+d3+e3+f3 = 168 and −2021202120219 < abcdef < 2021202120219, where abcdef is the product of the six integers. Which of the following is the remainder of N on division by 6?
 >
 > - **(A)** 0
 > - **(B)** 1
 > - **(C)** 2
 > - **(D)** 3
-> - **(E)** 4 Problems with numerical answer  5 points
+> - **(E)** 4
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2021_2livello#q12|src_archimede_2021_2livello__Q12]]
 
 
 
@@ -560,11 +607,18 @@ This is the sum of the amounts reported in the report.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers with specular properties, counting up to 3 digits*
+*Numbers with a mirror property, counting up to 3 digits*
 
-> The number 144 is very particular in that it enjoys the specular property: not only is it true that 144 = 122 (i.e. it is a perfect square), but it is also true that 441 = 212, that is, by inverting the order of its digits you get precisely the square of the number obtained by inverting the digits of its square root. The number 100 also has the property of speculation, as does the number 1, whereas the number 49 does not. How many positive integers with a maximum of three digits have the speculative property?
+> The number 144 is very special in that it has the mirror property: not only is it true that
+> 144 = 122 (that is, it is a perfect square), but it is also true that 441 = 212, that is, reversing the order
+> of its digits gives precisely the square of the number obtained by reversing the digits of its square root. The number 100 also has the mirror property, as does the number 1,
+> while the number 49 does not. How many positive integers with at most 3 digits have the mirror property?
 
-**Answer:** 12
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2021_2livello#q13|src_archimede_2021_2livello__Q13]]
 
 
 
@@ -591,11 +645,18 @@ This is the sum of the amounts reported in the report.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grided cabbage, possible values of n*
+*Grasshopper on a grid, possible values of n*
 
-> A slide moves on the plane and from the coordinate point (x,y) it can jump at its choice either over (x + y,y) or over (x,x + y). Started from a coordinate point (n.9) with positive integer n, but does not recall the value of n. He just knows that after a number of moves it came in (2021, 2050). What are the possible values of n?
+> A grasshopper moves on the plane and from the point with coordinates (x,y) can jump, at its choice, either to
+> (x + y,y) or to (x,x + y). It started from a point with coordinates (n,9) with n a positive integer, but
+> it does not remember the value of n. It only knows that after a certain number of moves it arrived at (2021, 2050).
+> How many possible values of n are there?
 
-**Answer:** 3
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_backward|Working backwards]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2021_2livello#q14|src_archimede_2021_2livello__Q14]]
 
 
 
@@ -627,11 +688,18 @@ This is the sum of the amounts reported in the report.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangle, projections, cycles and squares*
+*Rectangle, projections, cyclicity and square*
 
-![[src_archimede_2021_2livello__prob15.png]]
+> PROOF EXERCISE
+> Let ABCD be a rectangle and let E be an arbitrary point, different from C, on side DC. Let H be the projection of E onto diagonal AC and let K be the projection of C onto the ray AE.
+> (a) Prove that K lies on the circumcircle of ABCD and that the quadrilateral CKEH is cyclic, i.e. inscribable in a circle.
+> (b) Prove that $\angle CKB + \angle CKH = 90°$.
+> (c) Prove that K, H, B are collinear if and only if ABCD is a square.
 
-> DEMOSTRATIVE EXERCISE Whether ABCD is a rectangle and whether E is an arbitrary point other than C on the DC side. Both H the projection of E on the AC diagonal and K the projection of C on the AE semicircle. (a) Demonstrate that K lies on the circumference circumscribed at ABCD and that the quadrilateral CKEH is cyclic, i.e. inscrutable in a circumference. (b) Show that \ CKB + \ CKH = 90°. (c) Demonstrate that K, H, B are aligned if and only if ABCD is a square.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2021_2livello#q15|src_archimede_2021_2livello__Q15]]
 
 
 
@@ -670,9 +738,30 @@ This is the sum of the amounts reported in the report.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Succession by fraction, interruption and rationality*
+*Succession with fractional part, termination and rationality*
 
-> DIMOSTRATIVE EXERCISE Ambra constructs a sequence of numbers, starting from a positive real number x0, as follows: given the first term xn, the next term is xn+1 = n 1 − 1 xn or , where {α} represents the fractional part of α, that is, the difference between α and the maximum integer less than or equal to α. As soon as Ambra gets a term equal to 0, it interrupts the sequence. (a) Demonstrate that if the starting number x0 is of the form p q, where p and q are positive integers, sooner or later the sequence stops. (b) Show that if the sequence is interrupted, then the starting point x0 was of the form p q, where p and q are positive integers.
+> PROOF EXERCISE
+> Ambra constructs a sequence of numbers, starting from a positive real number x0, in the following way: given the n-th term xn, the next term is xn+1 =
+> n
+> 1 −
+> 1
+> xn
+> o
+> , where {α} represents
+> the fractional part of α, i.e. the difference between α and the greatest integer less than or equal
+> to α. As soon as Ambra obtains a term equal to 0, she stops the sequence.
+> (a) Prove that if the starting number x0 is of the form p
+> q, where p and q are positive integers,
+> sooner or later the sequence stops.
+> (b) Prove that, if the sequence stops, then the starting point x0 was of the form
+> p
+> q, where p and q are positive integers.
+
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_induzione|Induction]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2021_2livello#q16|src_archimede_2021_2livello__Q16]]
 
 
 
@@ -714,8 +803,29 @@ This is the sum of the amounts reported in the report.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Spiral grid, forcing to be reached, finite number*
+*Spiral grid, reachable treasure chests, finite number*
 
-![[src_archimede_2021_2livello__prob17.png]]
+> PROOF EXERCISE
+> . . .
+> A treasure map consists of a map of an island
+> (infinitely extended in all directions) overlaid with a square grid. The grid squares are
+> numbered in a spiral as in the figure.
+> The pirates have hidden their treasure by dividing it into
+> chests that they have buried in some of the squares, those
+> “numbered with those n that enclose within themselves the instructions for reaching them from square 1”. With this phrase
+> the pirates mean the following: writing the number
+> n in base ten, let a1, . . . , ak be its digits, read from
+> left to right; in square n there is a chest with
+> part of the treasure if (and only if) it can be reached starting from square 1 by making a1 steps in a certain direction (North, South, West or East), a2
+> steps in a certain direction (possibly the same as before), . . . and finally ak steps in one of
+> the 4 directions.
+> For example: in square 12 there is a chest, because starting from 1 and making 1 step towards North
+> and 2 steps towards East one arrives exactly at 12. In square 1, instead, there is no chest, because
+> in whatever direction one makes a step starting from 1, one ends up in a square different from 1.
+> Prove that there is only a finite number of squares in which a chest is buried.
 
-> It 's a demonstration exercise . . . A treasure map consists of a map of an island (infinitely extended in all directions) to which a square grid is overlaid. The grid boxes are numbered in a spiral as shown in the figure. The pirates have hidden their treasure by dividing it into forcibles who have buried it in some of the boxes, those numbered with the n containing the directions to reach them from box 1. By this phrase, pirates mean the following: by writing the number n in base ten, we call it a1, . . . , with its digits, read from left to right; in box n, there is a forcer with part of the treasure if (and only if) it can be reached starting from box 1 and taking steps in a certain direction (North, South, West or East), a2 steps in a certain direction (possibly the same as before). . . And finally, we move in one of the four directions. For example, in box 12 there's a forcer, because starting from 1 and taking 1 step north and 2 steps east you get right into 12. In box 1, on the other hand, there's no forcing, because in any direction you take a step from 1, you end up in a box other than 1. Demonstrate that there are only a finite number of boxes in which a forcer is buried.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2021_2livello#q17|src_archimede_2021_2livello__Q17]]

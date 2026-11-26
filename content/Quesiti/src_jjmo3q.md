@@ -29,9 +29,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di quattro numeri a quattro cifre*
+*La somma 6789 + 7896 + 8967 + 9678*
 
-> effettuare il seguente calcolo: $$6789 + 7896 + 8967 + 9678.$$
+> Eseguire il calcolo seguente:
+> $$6789 + 7896 + 8967 + 9678.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_jjmo3q#q01|src_jjmo3q__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Divisioni che lasciano il rimanente 11 sia per 197 che per 290*
+*Divisori che lasciano resto 11 sia per 197 sia per 290*
 
-> Trova tutti i numeri interi positivi che lasciano un residuo di $11$ quando dividono $197$, e lasciano anche un residuo di $11$ quando dividono $290$.
+> Trovare tutti gli interi positivi che, dividendo $197$, lasciano resto $11$, e che, dividendo $290$, lasciano resto $11$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo3q#q02|src_jjmo3q__Q02]]
 
 
 
@@ -99,9 +113,9 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area quadrilaterale formata da due mediani*
+*Area del quadrilatero formato da due mediane*
 
-> Nel triangolo $OAB$ di superficie $6$, $P$ e $Q$ siano rispettivamente i punti medi dei lati $OA$ e $OB$. $G$ sia il punto di intersezione di $PB$ e $QA$. Trova l'area del quadrilaterale $OPGQ$.
+> Nel triangolo $OAB$ di area $6$, siano $P$ e $Q$ i punti medi dei lati $OA$ e $OB$, rispettivamente. Sia $G$ il punto di intersezione di $PB$ e $QA$. Determinare l'area del quadrilatero $OPGQ$.
 
 ```tikz
 \begin{tikzpicture}[scale=1.2]
@@ -124,6 +138,12 @@ level: JJMO
 \end{tikzpicture}
 ```
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo3q#q03|src_jjmo3q__Q03]]
+
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
@@ -144,9 +164,15 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Combinazione lineare di due equazioni in tre reales*
+*Il valore di 9x − 4y − 7z date due equazioni lineari*
 
-> Lasciate che i numeri reali $x, y, z$ soddisfino $2x + 3y - z = 9$ e $5x + 4y - 3z = 20$. Trova il valore di $9x - 4y - 7z$.
+> Siano $x, y, z$ numeri reali che soddisfano $2x + 3y - z = 9$ e $5x + 4y - 3z = 20$. Trovare il valore di $9x - 4y - 7z$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_jjmo3q#q04|src_jjmo3q__Q04]]
 
 
 
@@ -169,9 +195,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gli stessi numeri di cifre nella base dieci e nella base cinque*
+*Stesso numero di cifre in base dieci e in base cinque*
 
-> Nella base dieci, $110$ è scritto come $420$ nella base cinque, che è anche un numero a cifre $3$. In questo modo, quanti numeri interi positivi in totale hanno lo stesso numero di cifre quando sono scritti in base dieci come quando sono scritti in base cinque?
+> In base dieci, $110$ si scrive come $420$ in base cinque, ed è anche un numero a $3$ cifre. In questo modo, quanti interi positivi in totale hanno lo stesso numero di cifre quando sono scritti in base dieci e quando sono scritti in base cinque?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo3q#q05|src_jjmo3q__Q05]]
 
 
 
@@ -196,11 +229,18 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triangoli da una griglia di punti 3x3*
+*Conta i triangoli in una griglia di punti 3x3*
 
-> Considerare i punti $9$ disposti come nella figura seguente, spaziati ugualmente sia orizzontalmente che verticalmente (un array $3 \times 3$ di punti). Tra questi, quanti triangoli si possono ottenere unendo $3$ dei punti? Ad esempio, come mostrato in basso a sinistra, scegliere i punti $3$ e collegarli dà un triangolo; tuttavia, come mostrato in basso a destra, scegliere i punti $3$ che si trovano su una singola linea retta non dà un triangolo. Si noti che i numeri che coincidono sotto traduzione o riflessione sono contati come triangoli distinti.
+> Si considerino $9$ punti disposti come nella figura sottostante, equidistanti sia orizzontalmente sia verticalmente (una disposizione a griglia di punti, di tipo $3 \times 3$). Tra questi, quanti triangoli si possono ottenere unendo $3$ dei punti? Ad esempio, come mostrato a sinistra qui sotto, scegliendo $3$ punti e congiungendoli si ottiene un triangolo; tuttavia, come mostrato a destra qui sotto, scegliendo $3$ punti che giacciono su una stessa retta non si ottiene un triangolo. Si noti che le figure che coincidono per traslazione o riflessione sono conteggiate come triangoli distinti.
 
 ![[src_jjmo3q__q06.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_jjmo3q#q06|src_jjmo3q__Q06]]
 
 
 
@@ -223,9 +263,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Completare la griglia 3x3 così ogni prodotto di riga e colonna è 2005*
+*Completa una griglia 3x3 in modo che il prodotto di ogni riga e di ogni colonna sia 2005*
 
-> Riempire ogni cella di una griglia $3 \times 3$ con un intero positivo in modo da soddisfare la seguente condizione: il prodotto dei tre numeri di ogni colonna è $2005$, e il prodotto dei tre numeri di ogni riga è anche $2005$. In quanti modi si può compiere un tale riempimento con integri positivi? Si noti che i riempimenti che coincidono sotto rotazione o riflessione sono ancora contati come distinti.
+> Riempi ogni cella di una griglia $3 \times 3$ con un numero intero positivo in modo che sia soddisfatta la seguente condizione: il prodotto dei tre numeri in ciascuna colonna è uguale a $2005$, e anche il prodotto dei tre numeri in ciascuna riga è uguale a $2005$. In quanti modi si può effettuare una tale compilazione con numeri interi positivi? Si noti che le compilazioni che coincidono per rotazione o riflessione vengono comunque conteggiate come distinte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo3q#q07|src_jjmo3q__Q07]]
 
 
 
@@ -248,9 +295,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo da due bisettori angolari in un triangolo*
+*Angolo formato da due bisettrici angolari in un triangolo*
 
-> In triangolo $ABC$, $\angle ABC = 70^\circ$ e $\angle ACB = 50^\circ$. I bisettori di $\angle ABC$ e $\angle ACB$ devono incontrare i lati $AC$ e $AB$ rispettivamente nei punti $D$ e $E$. Trova la misura di $\angle AED$.
+> Nel triangolo $ABC$, $\angle ABC = 70^\circ$ e $\angle ACB = 50^\circ$. Siano P i punti di intersezione delle bisettrici di $\angle ABC$ e $\angle ACB$ con i lati $AC$ e $AB$, rispettivamente nei punti $D$ e $E$. Determinare la misura di $\angle AED$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo3q#q08|src_jjmo3q__Q08]]
 
 
 
@@ -273,9 +327,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Multiplici a quattro cifre di 7 con cifre da 1 a 6*
+*Quanti numeri naturali di 4 cifre, scelte tra 1–6, sono multipli di 7*
 
-> Tra i numeri naturali $4$ di cifre ognuno dei cui numeri è uno di $1, 2, 3, 4, 5, 6$, quanti sono i multipli di $7$?
+> Tra i numeri naturali di $4$ cifre ciascuna delle quali è una tra $1, 2, 3, 4, 5, 6$, quanti sono multipli di $7$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_jjmo3q#q09|src_jjmo3q__Q09]]
 
 
 
@@ -298,9 +359,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio AR:RC per il punto interno con angoli e rapporti dati*
+*Rapporto AR:RC per un punto interno con angoli e rapporti dati*
 
-> Il $P$ deve essere un punto all'interno del triangolo $ABC$ tale che $\angle APB = \angle APC = 130^\circ$ e $PB : PC = 2 : 3$. sui lati $AB$ e $AC$, rispettivamente, prendere i punti $Q$ e $R$ in modo tale che $\angle APQ = \angle APR = 80^\circ$. Dato che $AQ : QB = 4 : 3$, trovare $AR : RC$.
+> Sia $P$ un punto nell'interno del triangolo $ABC$ tale che $\angle APB = \angle APC = 130^\circ$ e $PB : PC = 2 : 3$. Sui lati $AB$ e $AC$, rispettivamente, si prendano i punti $Q$ e $R$ tali che $\angle APQ = \angle APR = 80^\circ$. Dato che $AQ : QB = 4 : 3$, si determini $AR : RC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo3q#q10|src_jjmo3q__Q10]]
 
 
 
@@ -341,23 +409,32 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Inserimento del vuoto: numero minimo che costringe una sottrazione senza prestito*
+*Completamento: conteggio minimo che impone una sottrazione senza prestiti*
 
-> Riempire i vuoti $\boxed{\text{(a)}}$ e $\boxed{\text{(h)}}$ con numeri.
-> 
-> **Problema.** Trovare il più piccolo $N$ in modo tale che, se si sceglie $N$ integri distinti dagli integri tra $0$ e $999$ inclusivi, allora ci devono sempre essere due di loro la cui differenza può essere calcolata mediante sottrazione senza alcun prestito.
-> 
-> **Soluzione.** Qui di seguito, un "numero a $3$" significa una catena di tre cifre, ciascuna da $0$ a $9$. Ogni numero intero da $0$ a $99$ è scritto con i zeri di punta, in modo che tutti i numeri interi da $0$ a $999$ siano considerati numeri a cifre $3$; ad esempio, $87$ è considerato numero a cifre $3$ $087$.
-> 
-> Il numero di numeri $3$ di cui la somma digitali è uguale a $13$ è $\boxed{\text{(a)}}$. Per tale numero $A$, una delle seguenti tre affermazioni è esatta:
-> 
-> (1) la cifra di unità di $A$ è al massimo $\boxed{\text{(b)}}$ e la sua cifra decimale è almeno $\boxed{\text{(c)}}$; (2) la cifra decimale di $A$ è al massimo $\boxed{\text{(b)}}$ e la sua cifra di centinaia è almeno $\boxed{\text{(c)}}$; (3) la cifra di centinaia di $A$ è al massimo $\boxed{\text{(b)}}$ e la sua cifra di unità è almeno $\boxed{\text{(c)}}$.
-> 
-> Nel caso (1), diciamo che un numero $3$ a numeri numerici derivante dalla seguente procedura è * dominato da * $A$: - Aumentare la cifra di centinaia di $A$ di $1$ in un tempo fino a che la somma delle centinaia e delle cifre di unità diventa $9$; dopo di che, diminuire le cifre di unità di $1$ in un tempo fino a che non diventa $9$. - Aumentare le centinaia di cifre di $A$ di $1$ alla volta fino a che la somma delle decine e centinaia di cifre non diventi $9$ (non eseguire questo passaggio se la somma delle decine e centinaia di cifre di $A$ è già $9$); quindi diminuire le decine di cifre di $1$ alla volta fino a che non diventi $9$.
-> 
-> Allo stesso modo, nel caso (2) eseguire la procedura con "unità" sostituite da "cenni", "cenni" da "cento" e "cento" da "unità"; nel caso (3) con "unità" sostituite da "cento", "cenni" da "unità" e "cento" da "cenni".
-> 
-> Ad esempio, $439$ è dominato da $\boxed{\text{(d)}}$, e $143$ è dominato da $\boxed{\text{(e)}}$, $\boxed{\text{(f)}}$, $\boxed{\text{(g)}}$. Ragionando allo stesso modo, si scopre che ogni numero $3$ è dominato da un certo numero $3$ di cui la somma digitale è $13$. D'altra parte, quando vengono sottratte due numeri distinti con la stessa somma $13$, si verifica necessariamente un prestito. Pertanto il valore minimo richiesto è $\boxed{\text{(h)}}$.
+> Compila gli spazi vuoti da $\boxed{\text{(a)}}$ a $\boxed{\text{(h)}}$ con dei numeri.
+>
+> **Problema.** Trovare il più piccolo $N$ tale che, se si scelgono $N$ interi distinti tra gli interi compresi tra $0$ e $999$, allora debbano sempre esistere due di essi la cui differenza possa essere calcolata per sottrazione senza alcuna prestito.
+>
+> **Soluzione.** Nel seguito, un 'numero a $3$ cifre' indica una stringa di tre cifre, ciascuna compresa tra $0$ e $9$. Ogni intero compreso tra $0$ e $99$ viene scritto con zeri iniziali, cosicché tutti gli interi compresi tra $0$ e $999$ siano considerati numeri a $3$ cifre; ad esempio, $87$ è considerato il numero a $3$ cifre $087$.
+>
+> Il numero di numeri di $3$ cifre la cui somma delle cifre è uguale a $13$ è $\boxed{\text{(a)}}$. Per un tale numero $A$, esattamente una delle tre seguenti affermazioni è vera:
+>
+> (1) La cifra delle unità di $A$ è al più $\boxed{\text{(b)}}$ e la sua cifra delle decine è almeno $\boxed{\text{(c)}}$; (2) La cifra delle decine di $A$ è al più $\boxed{\text{(b)}}$ e la sua cifra delle centinaia è almeno $\boxed{\text{(c)}}$; (3) La cifra delle centinaia di $A$ è al più $\boxed{\text{(b)}}$ e la sua cifra delle unità è almeno $\boxed{\text{(c)}}$.
+>
+> Nel caso (1), diciamo che un numero a $3$ cifre che emerge nella procedura seguente è *dominato da* $A$:
+> - Aumenta di volta in volta di $1$ la cifra delle centinaia di $A$ finché la somma della cifra delle centinaia e della cifra delle unità non diventa $9$; successivamente, diminuisci di volta in volta di $1$ la cifra delle unità finché non diventa $9$.
+> - Aumenta di $1$ alla volta la cifra delle centinaia di $A$ finché la somma delle cifre delle decine e delle centinaia non diventa $9$ (non eseguire questo passaggio se la somma delle cifre delle decine e delle centinaia di $A$ è già $9$); successivamente, diminuisci di $1$ alla volta la cifra delle decine finché non diventa $9$.
+>
+> Analogamente, nel caso (2) si esegua la procedura sostituendo 'unità' con 'decine', 'decine' con 'centinaia' e 'centinaia' con 'unità'; nel caso (3) si esegue la procedura sostituendo 'unità' con 'centinaia', 'decine' con 'unità' e 'centinaia' con 'decine'.
+>
+> Ad esempio, $439$ è dominato da $\boxed{\text{(d)}}$, e $143$ è dominato da $\boxed{\text{(e)}}$, $\boxed{\text{(f)}}$, $\boxed{\text{(g)}}$. Ragionando allo stesso modo, si scopre che ogni numero a $3$ cifre è dominato da qualche numero a $3$ cifre la cui somma delle cifre è $13$. D'altra parte, quando si sottraggono due numeri distinti che hanno la stessa somma delle cifre $13$, si verifica necessariamente un prestito. Pertanto, il valore minimo richiesto è $\boxed{\text{(h)}}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo3q#q11|src_jjmo3q__Q11]]
 
 
 
@@ -380,6 +457,13 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tripli di punti positivi distinti con prodotto pari a 12 volte la somma*
+*Terne di numeri positivi distinti il cui prodotto è uguale a 12 volte la loro somma*
 
-> Quante serie di tre diversi integri positivi hanno il prodotto pari a $12$ volte la loro somma? Qui, gli insiemi che differiscono solo nell'ordine dei numeri, come $\{3, 6, 18\}$ e $\{6, 3, 18\}$, sono considerati uguali e contati come uno.
+> Quante sono le terne di tre numeri interi positivi distinti il cui prodotto è uguale a $12$ volte la loro somma? Qui, le terne che differiscono solo nell'ordine dei numeri, come $\{3, 6, 18\}$ e $\{6, 3, 18\}$, sono considerate identiche e vengono conteggiate come una sola.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo3q#q12|src_jjmo3q__Q12]]

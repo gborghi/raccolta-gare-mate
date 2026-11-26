@@ -35,11 +35,20 @@ level: China Mathematical Competition (Complementary Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Elisse con foci B0, B1 lati di taglio triangolare; la costruzione di arco iterata produce punti conciclici*
+*Ellisse con fuochi B0, B1 che interseca i lati del triangolo; la costruzione iterata degli archi produce punti concyclici*
 
-> Supponiamo un'ellisse con i punti $B_0$ e $B_1$ come i foci intercettano il lato $AB_i$ di $\triangle AB_0B_1$ a $C_i$ ($i = 0, 1$). Prendendo un punto arbitrario $P_0$ sulla linea di estensione di $AB_0$, tracciare un arco $\widehat{P_0Q_0}$ con $B_0$, $B_0P_0$ rispettivamente come centro e raggio, intercettando la linea di estensione di $C_1B_0$ a $Q_0$. Tracciare un arco $\widehat{Q_0P_1}$ con $C_1$, $C_1Q_0$ rispettivamente come centro e raggio, intercettando la linea di estensione di $B_1A$ a $P_1$. Tracciare un arco $\widehat{P_1Q_1}$ con $B_1$, $B_1P_1$ rispettivamente come centro e raggio, intercettando la linea di estensione di $C_0B_1$ a $Q_1$. Tracciare un arco $\widehat{Q_1P_0'}$ con $C_0$, $C_0Q_1$ rispettivamente come centro e raggio, intercettando la linea di estensione di $AB_0$ a $P_0'$. Prove che (1) $P_0'$ e $P_0$ coincidono e che gli archi $\widehat{P_0Q_0}$ e $\widehat{Q_1P_0'}$ sono tangenti tra loro a $P_0$; (2) i punti $P_0$, $Q_0$, $Q_1$, $P_1$ sono conciclici.
+> Sia data un'ellisse i cui fuochi sono i punti $B_0$ e $B_1$, la quale interseca il lato $AB_i$ di $\triangle AB_0B_1$ nel punto $C_i$ ($i = 0, 1$). Preso un punto arbitrario $P_0$ sulla retta di prolungamento di $AB_0$, si tracci l'arco $\widehat{P_0Q_0}$ avente per centro $B_0$ e raggio $B_0P_0$, che interseca la retta di prolungamento di $C_1B_0$ nel punto $Q_0$. Si tracci l'arco $\widehat{Q_0P_1}$ avente per centro $C_1$ e raggio $C_1Q_0$, che interseca la retta di prolungamento di $B_1A$ nel punto $P_1$. Si tracci l'arco $\widehat{P_1Q_1}$ avente per centro $B_1$ e raggio $B_1P_1$, che interseca la retta di prolungamento di $C_0B_1$ nel punto $Q_1$. Si tracci l'arco $\widehat{Q_1P_0'}$ avente per centro $C_0$ e raggio $C_0Q_1$, che interseca la retta di prolungamento di $AB_0$ nel punto $P_0'$. Si dimostri che (1) $P_0'$ e $P_0$ coincidono, e che gli archi $\widehat{P_0Q_0}$ e $\widehat{Q_1P_0'}$ sono tangenti tra loro in $P_0$; (2) i punti $P_0$, $Q_0$, $Q_1$, $P_1$ sono conciclici.
 
 ![[src_cn_b07_w54__q01.png]]
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-complementary-test_2006#q01|src_cn_cmc-complementary-test_2006__Q01]]
 
 
 
@@ -67,15 +76,20 @@ level: China Mathematical Competition (Complementary Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Min pezzi da rimuovere dalla lavagna 7x8 per rompere tutti i gruppi 5 in fila*
+*Minimi pezzi da rimuovere dalla scacchiera 7x8 per spezzare tutti i gruppi di 5 in fila*
 
-> Dato un scacchiere $7 \times 8$ come si vede nella figura, 56 pezzi sono posizionati sulla tavola con ciascun quadrato contenente esattamente un pezzo. Se due pezzi si trovano in un lato o in un vertice comune, vengono chiamati "connessi". Si dice che un gruppo di 5 pezzi abbia la proprietà A, se questi pezzi sono collegati ordinatamente in una linea (orizzontale, verticale o diagonale).
-> 
-> Qual è il numero minimo di pezzi da rimuovere dalla lavagna per garantire che nessun gruppo di 5 pezzi sulla lavagna abbia la proprietà A? Devi provare la tua risposta.
+> Dato un $7 \times 8$ scacchiere come mostrato nella figura, sul tabellone vengono collocati 56 pezzi, e ogni casella contiene esattamente un pezzo. Se due pezzi condividono un lato o un vertice, si dicono "connessi". Si dice che un gruppo di 5 pezzi abbia la Proprietà A se tali pezzi sono connessi in modo ordinato lungo una linea (orizzontale, verticale o diagonale).
+>
+> Qual è il numero minimo di pezzi da rimuovere dal tabellone per garantire che non esista sul tabellone alcun gruppo di 5 pezzi dotato della Proprietà A? Devi dimostrare la tua risposta.
 
 ![[src_cn_b07_w62__q02.png]]
 
-**Risposta:** 11
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-complementary-test_2006#q02|src_cn_cmc-complementary-test_2006__Q02]]
 
 
 
@@ -102,8 +116,16 @@ level: China Mathematical Competition (Complementary Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-Risolvere un sistema di quattro equazioni simmetriche di potenza-somma in x,y,z,w*
+*Risolvere un sistema di quattro equazioni simmetriche delle somme di potenze in x, y, z, w*
 
-> Risolvi il seguente sistema di equazioni. $$\begin{cases} x - y + z - w = 2, \\ x^2 - y^2 + z^2 - w^2 = 6, \\ x^3 - y^3 + z^3 - w^3 = 20, \\ x^4 - y^4 + z^4 - w^4 = 66. \end{cases}$$
+> Risolvi il seguente sistema di equazioni.
+> $$\begin{cases} x - y + z - w = 2, \\ x^2 - y^2 + z^2 - w^2 = 6, \\ x^3 - y^3 + z^3 - w^3 = 20, \\ x^4 - y^4 + z^4 - w^4 = 66. \end{cases}$$
 
-**Risposta:** $(x,y,z,w)$: $(3,2,1,0)$, $(3,0,1,2)$, $(1,2,3,0)$, $(1,0,3,2)$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-complementary-test_2006#q03|src_cn_cmc-complementary-test_2006__Q03]]

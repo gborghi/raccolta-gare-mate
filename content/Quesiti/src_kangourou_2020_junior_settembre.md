@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum distance between two points touching the y axis*
+*How long is the shortest path that touches the y-axis?*
 
-> In the Cartesian plane, how long is the shortest path linking the $(808, 808)$ point to the $(404, -808)$ point by touching the $y$ axis at least once?
+> In the coordinate plane, how long is the shortest path that joins the point $(808, 808)$ to the point $(404, -808)$ and touches the $y$-axis at least once?
 
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 2020
+[[Quesiti/src_kangourou_2020_junior_settembre#q01|src_kangourou_2020_junior_settembre__Q01]]
 
 
 
@@ -58,11 +63,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Units digit of the minimum n such that 7n has 2021 digits*
+*What is the units digit of n?*
 
 > Let $n$ be the smallest positive integer such that the number $7 \times n$ has $2021$ digits. What is the units digit of $n$?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 9
+[[Quesiti/src_kangourou_2020_junior_settembre#q02|src_kangourou_2020_junior_settembre__Q02]]
 
 
 
@@ -92,17 +102,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Special position numbers in the grid 2020x2020*
+*Which of the three statements about a special position are true?*
 
-> We fill out a square grid $2020 \times 2020$ by inserting the first $2020^2$ positive integers, one per box: if it happens that one of the numbers inserted is the largest of all those in its row and the smallest of all those in its column, let's say that number is in a special position **** relative to the way we filled the grid. Discuss, justifying the answer, the truth or falsity of each of the following three statements:
-> 
-> (a) there is at least one special number for each method of filling the grid;
-> 
-> (b) there is at least one special number for some method of filling the grid;
-> 
-> (c) for each method of filling the grid there is at most a special number.
+> We fill a square grid $2020 \times 2020$ by entering the first $2020^2$ positive integers, one per cell. If one of the numbers entered is the largest of all those in its row and the smallest of all those in its column, we say that number is in a **special position** relative to the way the grid was filled. For each of the following three statements, say whether it is true or false, and give a reason.
+>
+> a) For every way of filling the grid there is at least one special number.
+>
+> b) For some way of filling the grid there is at least one special number.
+>
+> c) For every way of filling the grid there is at most one special number.
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** a)F b)V c)V
+[[Quesiti/src_kangourou_2020_junior_settembre#q03|src_kangourou_2020_junior_settembre__Q03]]
 
 
 
@@ -126,11 +141,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Convex polygons on 2020 points that contain p*
+*Are there more polygons that contain p, or more that do not?*
 
-> On a circle, $2020$ points are marked, all distinct from one another. Consider all possible convex polygons (that is, non-self-intersecting polygons whose interior angles all measure less than $180°$) whose vertices are some of the marked points. Let $p$ be any one of the marked points. Are there more polygons that contain $p$ or more that do not contain it, or are there equal numbers?
+> On a circle, $2020$ points are marked, all distinct from one another. Consider every possible convex polygon (that is, a polygon that does not cross itself and whose interior angles all measure less than $180°$) whose vertices are some of the marked points. Let $p$ be any one of the marked points. Are there more polygons that contain $p$, or more that do not contain it, or are there equally many?
 
-**Answer:** those that contain p
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Answer:** contengono p
+[[Quesiti/src_kangourou_2020_junior_settembre#q04|src_kangourou_2020_junior_settembre__Q04]]
 
 
 
@@ -154,11 +174,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer pairs (x,y) with x^2+7y=xy*
+*How many ordered pairs of integers satisfy the equation?*
 
-> How many pairs $(x, y)$ of integers (not necessarily positive) such that $x^2 + 7y = xy$?
+> How many ordered pairs $(x, y)$ of integers (not necessarily positive) are there such that $x^2 + 7y = xy$?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 6
+[[Quesiti/src_kangourou_2020_junior_settembre#q05|src_kangourou_2020_junior_settembre__Q05]]
 
 
 
@@ -182,8 +207,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alignment of M,N,P in the triangle with incircle*
+*Prove that M, N and P are collinear.*
 
 ![[src_kangourou_2020_junior_settembre__prob6.png]]
 
-> A circle with center $I$ is inscribed in a triangle $ABC$: denote by $D$ and $E$ its points of tangency with the sides $BC$ and $AC$ respectively. Denote furthermore by $M$ and $N$ respectively the midpoints of $BC$ and $AB$ and by $P$ the intersection between the line joining $A$ with $I$ and the one joining $D$ with $E$. Prove that $M$, $N$ and $P$ are collinear.
+> A circle with centre $I$ is inscribed in a triangle $ABC$. Denote by $D$ and $E$ its points of tangency with the sides $BC$ and $AC$ respectively. Also denote by $M$ and $N$ the midpoints of $BC$ and $AB$ respectively, and by $P$ the intersection of the line joining $A$ to $I$ with the line joining $D$ to $E$. Prove that $M$, $N$ and $P$ are collinear.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+[[Quesiti/src_kangourou_2020_junior_settembre#q06|src_kangourou_2020_junior_settembre__Q06]]

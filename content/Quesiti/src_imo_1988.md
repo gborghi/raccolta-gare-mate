@@ -36,16 +36,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare i valori di BC² + CA² + AB² e luogo del punto medio di BC*
+*Trovare i valori di BC2+CA2+AB2 e il luogo geometrico del punto medio di BC*
 
-> Siano date due circonferenze complanari di raggi R e r (con R > r) aventi lo stesso centro.
-> Sia P un punto fisso sulla circonferenza minore e B un punto variabile sulla circonferenza maggiore.
-> La retta BP incontra nuovamente la circonferenza maggiore in C.
-> La retta l perpendicolare a BP in P incontra nuovamente la circonferenza minore in A.
-> (Se l è tangente alla circonferenza nel punto P, allora si pone A = P.)
->
-> (i) Determinare l'insieme dei valori di BC² + CA² + AB².
-> (ii) Determinare il luogo dei punti medi del segmento BC.
+> Si considerino due cerchi coplanari di raggi R e r (R > r) aventi lo stesso centro. Sia P un punto fisso sul cerchio più piccolo e B un punto variabile sul cerchio più grande. La retta BP incontra nuovamente il cerchio più grande in C. La retta l, perpendicolare a BP in P, incontra nuovamente il cerchio più piccolo in A. (Se l è tangente al cerchio in P, allora A = P.) (i) Determinare l'insieme dei valori di BC² + CA² + AB². (ii) Determinare il luogo geometrico del punto medio di BC.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1988#q01|src_imo_1988__Q01]]
 
 
 
@@ -76,18 +75,21 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*in quali casi gli elementi possono essere etichettati in modo equilibrato con 0/1*
+*Quando gli elementi possono essere etichettati 0/1 in modo uniforme?*
 
-> Sia n un intero positivo e siano A1, A2, . . . , A2n+1 sottoinsiemi di un insieme B.
-> Supponiamo che
+> Sia n un numero intero positivo e siano A1, A2, ..., A2n+1 sottoinsiemi di un insieme B. Si supponga che
 > (a)
-> ogni Ai abbia esattamente 2n elementi,
+> Ogni Ai ha esattamente 2n elementi,
 > (b)
-> ogni Ai ∩Aj (1 ≤i < j ≤2n + 1) contenga esattamente un elemento, e
+> Ogni Ai ∩ Aj (1 ≤ i < j ≤ 2n + 1) contiene esattamente un elemento, e
 > (c)
-> ogni elemento di B appartenga ad almeno due degli Ai.
-> Per quali valori di n si può assegnare a ogni elemento di B uno dei numeri
-> 0 e 1 in modo che a esattamente n elementi di ciascun Ai sia assegnato lo 0?
+> Ogni elemento di B appartiene ad almeno due degli Ai. Per quali valori di n si può assegnare a ogni elemento di B uno dei numeri 0 e 1 in modo che ad Ai venga assegnato 0 esattamente per n dei suoi elementi?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione / parita]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1988#q02|src_imo_1988__Q02]]
 
 
 
@@ -130,29 +132,19 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutti gli interi positivi n≤1988 tali che f(n)=n, dove f è definita ricorsivamente.*
+*Conta i n≤1988 tali che f(n)=n, con f definita ricorsivamente*
 
-> Una funzione f è definita sugli interi positivi da
-> f(1)
-> =
-> 1,
-> f(3) = 3,
-> f(2n)
-> =
-> f(n),
-> f(4n + 1)
-> =
-> 2f(2n + 1) −f(n),
-> f(4n + 3)
-> =
-> 3f(2n + 1) −2f(n),
-> per ogni intero positivo n.
-> Determinare quanti sono gli interi positivi n, minori o uguali a 1988, per
-> cui f(n) = n.
-> 
-> XXIX Olimpiade Internazionale di Matematica
-> Canberra, Australia
-> Giorno II
+> Una funzione f è definita sugli interi positivi mediante
+> f(1) = 1, f(3) = 3, f(2n) = f(n), f(4n + 1) = 2f(2n + 1) − f(n), f(4n + 3) = 3f(2n + 1) − 2f(n), per tutti gli interi positivi n. Determinare il numero di interi positivi n, minori o uguali a 1988, per cui f(n) = n.
+>
+> 29ª Olimpiade Internazionale di Matematica Canberra, Australia Giorno II
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_1988#q03|src_imo_1988__Q03]]
 
 
 
@@ -182,16 +174,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'insieme delle soluzioni di una disuguaglianza è costituito da intervalli la cui lunghezza totale è 1988*
+*L'insieme delle soluzioni della disuguaglianza è costituito da intervalli la cui lunghezza totale è 1988*
 
-> Si dimostri che l'insieme dei numeri reali x che soddisfano la disuguaglianza
-> 70
-> X
-> k=1
-> k
-> x −k ≥5
-> 4
-> è unione di intervalli disgiunti la cui somma delle lunghezze è 1988.
+> Dimostrare che l'insieme dei numeri reali x che soddisfano la disuguaglianza 70 X k=1 k x −k ≥5 4 è una unione di intervalli disgiunti, la cui somma delle lunghezze è 1988.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1988#q04|src_imo_1988__Q04]]
 
 
 
@@ -217,12 +209,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Si dimostri che l'area S è maggiore o uguale a 2T*
+*Dimostrare che l'area S >= 2T*
 
-> ABC è un triangolo rettangolo in A, e D è il piede dell'altezza uscente da A.
-> La retta che congiunge gli incentri dei triangoli ABD, ACD interseca
-> i lati AB, AC nei punti K, L rispettivamente. Siano S e T le aree dei
-> triangoli ABC e AKL rispettivamente. Si dimostri che S ≥2T.
+> ABC è un triangolo rettangolo in A, e D è il piede dell'altezza condotta da A. La retta che unisce i centri incircoscritti dei triangoli ABD e ACD interseca i lati AB e AC nei punti K e L rispettivamente. S e T denotano le aree dei triangoli ABC e AKL rispettivamente. Dimostrare che S ≥ 2T.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_imo_1988#q05|src_imo_1988__Q05]]
 
 
 
@@ -247,9 +243,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se (a² + b²)/(ab + 1) è un intero, allora è un quadrato perfetto (salto di Vieta)*
+*Se ab+1 divide a²+b², il quoziente è un quadrato; formula spezzata*
 
-> Siano a e b interi positivi tali che ab + 1 divide a2 + b2. Si dimostri che
+> Siano a e b interi positivi tali che ab + 1 divide a2 + b2. Dimostrare che
 > a2 + b2
 > ab + 1
 > è il quadrato di un intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_imo_1988#q06|src_imo_1988__Q06]]

@@ -69,34 +69,30 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*true statements*
+*How many of the following statements are correct?*
 
 ![[src_kangourou_2022_student_semifinale__prob1.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw (0,0) -- (2,0) -- (2,2) -- (0,2) -- cycle;
-  \fill[red] (0,0) circle (3pt) node[below left] {A};
-  \fill[red] (2,0) circle (3pt) node[below right] {B};
-  \fill[red] (2,2) circle (3pt) node[above right] {C};
-  \fill[red] (0,2) circle (3pt) node[above left] {D};
-\end{tikzpicture}
-\end{document}
-```
-
-> (2 points) In the figure you see a square on the edge of which Ada and Bice train to run, each without ever changing direction, but we don't know if it's in the same direction or in the opposite direction. They run for many laps each at a constant speed, but Ada's is three times Bice's. Right now Ada is at vertex A while Bice is at vertex B. How many of the following statements are correct? Ada and Bice will never be together at vertex B. Ada and Bice will never be together at vertex C. Ada and Bice will never be together at vertex D. - Sometimes Ada and Bice will be together at vertex A. Ada and Bice can't be together except at one of the vertices. A) 0 (none)
->  
+> (2 points) In the picture you see a square, on the edge of which Ada and Bice are training by running, each without ever changing direction, but we do not know whether in the same direction or in opposite directions. They run for many laps, each at constant speed, but Ada's speed is three times Bice's. At this moment Ada is at vertex A while Bice is at vertex B. How many of the following statements are correct?
+>
+> - Ada and Bice will never be together at vertex B.
+> - Ada and Bice will never be together at vertex C.
+> - Ada and Bice will never be together at vertex D.
+> - Sometimes Ada and Bice will be together at vertex A.
+> - Ada and Bice cannot be together except at one of the vertices.
+>
+> A) 0 (none)
 > B) 1
->  
 > C) 3
->  
->  
 > D) 4
->  
 > E) 5 (all)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_student_semifinale#q01|src_kangourou_2022_student_semifinale__Q01]]
 
 
 
@@ -131,17 +127,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*estimation of who knew the correct answer*
+*Which of the following numbers is most likely to be the number of those who knew the correct answer?*
 
-> (3 points) To a closed answer question by Kangourou like this, with 5 options for the answer, 10,000 students answered. Of these, some have been able to determine the correct answer based on their knowledge, others have tried to guess by choosing quite randomly from the five proposals. The correct answers were 3,000. Which of the following is more likely to be the number of people who knew the correct answer? A) 3.000 B) 2.500
->  
+> (3 points) 10.000 students answered a multiple-choice Kangourou question like this one, with 5 options for the answer. Of these, some were able to determine the correct answer from their knowledge; the others guessed, choosing entirely at random among the 5 proposals. The answers that turned out correct were 3.000. Among the following numbers, which is most likely to be the number of those who knew the correct answer?
+>
+> A) 3.000
+> B) 2.500
 > C) 1.500
->  
 > D) 1.250
->  
 > E) 1.000
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_student_semifinale#q02|src_kangourou_2022_student_semifinale__Q02]]
 
 
 
@@ -177,17 +177,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit number with the last digit shifted to the head, sum*
+*How many of the following numbers could be the result?*
 
-> (3 points) Simona writes an integer of four digits, then removes its last digit and moves it to the head of the number (for example, if the number written was 1030 it would get 0103). Now Simona sums up the two numbers thus obtained: how many of the following numbers 1221, 8612, 4322, 13859 could be the result? A) 0 (none)
->  
+> (3 points) Simona writes a four-digit integer, then takes its last digit and moves it to the front of the number (for example, if the number written were 1030 she would obtain 0103). Now Simona adds the two numbers thus obtained: how many of the following numbers could be the result?
+>
+> 1221, 8612, 4322, 13859
+>
+> A) 0 (none)
 > B) 1
->  
-> C) 2 D) 3
->  
+> C) 2
+> D) 3
 > E) 4 (all)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_student_semifinale#q03|src_kangourou_2022_student_semifinale__Q03]]
 
 
 
@@ -223,15 +230,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*max rectangular area*
+*What is the greatest possible value of the area of each of the two rectangles, as the two radii vary?*
 
 ![[src_kangourou_2022_student_semifinale__prob4.png]]
 
-> (4 points) In the figure you see a square divided into two gray rectangles and two squares. The two rectangles are congruent and inside each of the two squares is inscribed a circle. In each of the squares, the outside of the circle is painted black. The area of the region in black is 20(4 – π). With a configuration like this, what is the maximum value of the area of each of the two rectangles as the two radii vary? A) 40 B) 40√2
->  
-> C) 20 D) 40 / π E) None of the proposed numbers.
+> (4 points) In the picture you see a square divided into two grey rectangles and two squares. The two rectangles are congruent, and inside each of the two squares a circle is inscribed. In each of the squares, the part outside the circle is painted black. The area of the black region is 20(4 – π). With a configuration like this, what is the greatest possible value of the area of each of the two rectangles, as the two radii vary?
+>
+> A) 40
+> B) 40√2
+> C) 20
+> D) 40 / π
+> E) None of the numbers proposed.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_student_semifinale#q04|src_kangourou_2022_student_semifinale__Q04]]
 
 
 
@@ -277,29 +292,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*external edge length*
+*How long is the outer boundary of the figure highlighted by the thickened black arcs?*
 
 ![[src_kangourou_2022_student_semifinale__prob5.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[line width=1pt]
-  \draw (1,0) circle (1);
-  \draw (-1,0) circle (1);
-  \draw (0,1) circle (1);
-  \draw (0,-1) circle (1);
-  \node at (0.15,-0.2) {$K$};
-\end{tikzpicture}
-\end{document}
-```
+> (4 points) The picture shows four circles of radius 1 with exactly one point in common to all of them. How long is the outer boundary of the figure highlighted by the thickened black arcs?
+>
+> A) 3π
+> B) 3π/2
+> C) 8π/3
+> D) 4π
+> E) 11π/5
 
-> (4 points) The figure shows four circles of radius 1 with exactly one point in common with all of them. How long is the outer edge of the figure highlighted by the thickened black arcs? A) 3π
->  
-> B) 3π/2 C) 8π/3
->  
-> D) 4π E) 11π/5
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_student_semifinale#q05|src_kangourou_2022_student_semifinale__Q05]]
 
 
 
@@ -332,13 +341,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of a*
+*What is the sum of the possible values of the parameter a?*
 
-> (4 points) What is the sum of the possible values of the parameter a corresponding to which the two equations x2 + ax + 2022 = 0 and x2 + 2022x + a = 0 have at least one real solution in common? A) – 4045 B) – 1 C) 0
->  
-> D) 1 E) 5
+> (4 points) What is the sum of the possible values of the parameter a for which the two equations
+>
+> x2 + ax + 2022 = 0 and x2 + 2022x + a = 0
+>
+> have at least one real solution in common?
+>
+> A) – 4045
+> B) – 1
+> C) 0
+> D) 1
+> E) 5
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_student_semifinale#q06|src_kangourou_2022_student_semifinale__Q06]]
 
 
 
@@ -371,13 +393,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Find n *
+*What is the value of n?*
 
-> (5 points) Anna and Ernesto play as follows. On the table there are n cards numbered from 1 to n. Anna turns one and then Ernesto turns another. The resulting numbers are then multiplied: if the product is an even number Anna wins, if it is an odd number Ernesto wins. It is known that the probability that Anna wins is 74%. How much is n? A) 8
->  
-> (B) 12 C) 20 D) 25 E) None of the above.
+> (5 points) Anna and Ernesto play as follows. On the table there are n face-down cards numbered from 1 to n. Anna turns one over and then Ernesto turns over another. The numbers obtained are then multiplied: if the product is an even number Anna wins, if it is an odd number Ernesto wins. It is known that Anna's probability of winning is 74%. What is the value of n?
+>
+> A) 8
+> B) 12
+> C) 20
+> D) 25
+> E) None of the previous values.
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_student_semifinale#q07|src_kangourou_2022_student_semifinale__Q07]]
 
 
 
@@ -419,24 +450,28 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*for how many a1 is constant*
+*For how many values of a1 is the sequence constant?*
 
-> (5 points) A sequence {a1, a2, a3, ...} of real numbers is defined inductively as follows: an+1 = an2 an2−2022 an+1 for n = 1, 2, ... . For how many values of a1 is the sequence constant?
->  
-> A) Infinite
->  
+> (5 points) A sequence {a1, a2, a3, …} of real numbers is defined inductively as follows:
+>
+> a n+1 =
+> a n2
+> a n2−2022 a n+ 1 for n = 1, 2, … .
+>
+> For how many values of a1 is the sequence constant?
+>
+> A) Infinitely many
 > B) 4
->  
 > C) 3
->  
 > D) 2
->  
 > E) 1
->  
->  
-> K
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_student_semifinale#q08|src_kangourou_2022_student_semifinale__Q08]]
 
 
 
@@ -481,21 +516,31 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*true statements*
+*How many of the following statements are true?*
 
-> Six people A, B, C, D, E, F are in a room. Each of them has five hats at her disposal and must put one on the head of every other person she is not a friend of. Keep in mind that if X is Y's friend, then vice versa is also true. At operations completed, the number of hats on the heads of different people is: 3 on A, 1 on B, 2 on C, 4 on D, 2 on E, 0 (none) on F. How many of the following statements are true? - C and E are friends; - F is friend of all; - A is friend of B and F; - D is friend of F; - B is not friend of A; - C is friend of B and A. A) 2
->  
+> (6 points) Six people A, B, C, D, E, F are in a room. Each of them has five hats available and must put one on the head of every other person of whom he or she is not a friend. Bear in mind that if X is a friend of Y, the converse also holds. When the operations are finished, the numbers of hats on the heads of the various people are: 3 on A, 1 on B, 2 on C, 4 on D, 2 on E, 0 (none) on F. How many of the following statements are true?
+>
+> - C and E are friends;
+> - F is a friend of everyone;
+> - A is a friend of B and of F;
+> - D is a friend of F;
+> - B is not a friend of A;
+> - C is a friend of B and of A.
+>
+> A) 2
 > B) 3
->  
 > C) 4
->  
 > D) 5
->  
 > E) 6
->  
+>
 > Open-ended questions
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_student_semifinale#q09|src_kangourou_2022_student_semifinale__Q09]]
 
 
 
@@ -541,30 +586,17 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two regular hexagons with perpendicular sides, angle ABC*
+*How many degrees does the marked angle ABC measure?*
 
 ![[src_kangourou_2022_student_semifinale__prob10.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.2, line width=0.8pt]
-  \filldraw[fill=yellow!60, draw=black]
-    (0,0) -- (0,-1) -- (-0.866,-1.5) -- (-1.732,-1) -- (-1.732,0) -- (-0.866,0.5) -- cycle;
-  \filldraw[fill=yellow!60, draw=black]
-    (0,0) -- (1,0) -- (1.5,0.866) -- (1,1.732) -- (0,1.732) -- (-0.5,0.866) -- cycle;
-  \draw (0,-0.15) -- (0.15,-0.15) -- (0.15,0);
-  \draw[thick] (0,-1) -- (1.5,0.866);
-  \node[below] at (0,-1) {$A$};
-  \node[right] at (1.5,0.866) {$B$};
-  \node[below right] at (0.05,-0.05) {$C$};
-  \draw (1.35,0.866) arc[start angle=180, end angle=218, radius=0.15];
-\end{tikzpicture}
-\end{document}
-```
+> (4 points) The picture shows two congruent regular hexagons that have only one vertex in common. Two of the sides that meet at that vertex are perpendicular. How many degrees does the marked angle ABC measure?
 
-> (4 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that vertex are perpendicular. How many degrees does the indicated angle ABC measure?
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 15
+[[Quesiti/src_kangourou_2022_student_semifinale#q10|src_kangourou_2022_student_semifinale__Q10]]
 
 
 
@@ -592,11 +624,16 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum steps from 1 to 2022*
+*What is the least number of operations that suffice to reach 2022?*
 
-> (5 points) A small calculator can only perform four optional operations on a number that is assigned: subtract 1, divide by 2, multiply by 3, add 4. Starting from number 1 and running in sequence one at a time operations like these on the results obtained, what is the minimum number of operations that are sufficient to reach 2022? (For example, to reach 6 it takes and only 3: 1 × 3 + 4 − 1.)
+> (5 points) A small calculating machine can carry out only four operations, to be chosen, on a number that is given to it: subtract 1, divide by 2, multiply by 3, add 4. Starting from the number 1 and carrying out, one at a time in sequence, operations such as these on the results obtained along the way, what is the least number of operations that suffice to reach 2022? (For example, to reach 6, 3 are needed and suffice: 1 × 3 + 4 − 1.)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 9
+[[Quesiti/src_kangourou_2022_student_semifinale#q11|src_kangourou_2022_student_semifinale__Q11]]
 
 
 
@@ -624,15 +661,16 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*edge equal to interior*
+*How many fair rectangles are there, if any exist?*
 
-> (5 points) We call a rectangle with integer dimensions m × n fair if the following happens:
-> when it is divided into mn unit squares, the squares that lie along the edge are as many
-> as the remaining ones (that is, those that lie strictly inside). How many fair
-> rectangles are there, if any exist? (An m × n rectangle is to be considered identical to the n × m rectangle; if you believe that there
-> are infinitely many fair rectangles, answer 9999.)
+> (5 points) We call a rectangle of integer dimensions m × n fair if the following happens: when it is divided into mn squares of unit side, the squares that lie along the border are as many as the remaining ones (that is, those that lie strictly inside). How many fair rectangles are there, if any exist? (A rectangle m × n is to be regarded as the same as the rectangle n × m; if you think there are infinitely many fair rectangles, answer 9999.)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 2
+[[Quesiti/src_kangourou_2022_student_semifinale#q12|src_kangourou_2022_student_semifinale__Q12]]
 
 
 
@@ -657,11 +695,16 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples (x,y) with x²+y and x+y² both squared*
+*For how many ordered pairs (x, y) of positive integers does it happen that both the integers x2 + y and x + y2 are perfect squares?*
 
-> (6 points) For how many pairs (x, y) of positive integers does it happen that both integers x² + y and x + y² are perfect squares? (Write 9999 if you think there are infinite pairs.)
+> (6 points) For how many ordered pairs (x, y) of positive integers does it happen that both the integers x2 + y and x + y2 are perfect squares? (Write 9999 if you think there are infinitely many pairs.)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0
+[[Quesiti/src_kangourou_2022_student_semifinale#q13|src_kangourou_2022_student_semifinale__Q13]]
 
 
 
@@ -691,17 +734,19 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last non-zero decimal digit of 1/5^2022*
+*What is the last decimal digit other than 0 of the number?*
 
-> (6 points) What is the last decimal digit different from 0 of the number 
+> (6 points) What is the last decimal digit other than 0 of the number
+>
 > 1
-> 52022 ?  
->  
-> A 
-> B 
-> C
+> 52022 ?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 4
+[[Quesiti/src_kangourou_2022_student_semifinale#q14|src_kangourou_2022_student_semifinale__Q14]]
 
 
 
@@ -732,18 +777,24 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum S(T)*
+*What is the sum of all the numbers S(T)?*
 
-> (6 points) For an ordered triple of integers T = {a, b, c} let S(T) = a + b + c. As all
-> ordered triples of integers T = {a, b, c} vary such that
+> (6 points) For an ordered triple of integers T = {a, b, c}, set S(T) = a + b + c. As all the ordered triples of integers T = {a, b, c} such that
 >
 > a4 + b4 = 28 + 2bc
-> and
->  2ab = 7 + c4,
 >
-> what is the sum of all the numbers S(T)?
+> and
+>
+> 2ab = 7 + c4
+>
+> vary, what is the sum of all the numbers S(T)?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0
+[[Quesiti/src_kangourou_2022_student_semifinale#q15|src_kangourou_2022_student_semifinale__Q15]]
 
 
 
@@ -769,13 +820,16 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers ABCDABCDABCD divisible by 2022*
+*How many 12-digit integers of the form ABCDABCDABCD are divisible by 2022?*
 
-> (7 points) Every positive integer of 4 digits in decimal notation has the form ABCD, where
-> the digits indicated by the letters may not be distinct and the digit A is different from 0. How many
-> 12-digit integers of the form ABCDABCDABCD are divisible by 2022?
+> (7 points) Every positive 4-digit integer in decimal notation has the form ABCD, where the digits indicated by the letters need not be distinct and the digit A is different from 0. How many 12-digit integers of the form ABCDABCDABCD are divisible by 2022?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 13
+[[Quesiti/src_kangourou_2022_student_semifinale#q16|src_kangourou_2022_student_semifinale__Q16]]
 
 
 
@@ -802,14 +856,16 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*min sum |coeff|*
+*What is the least possible value of s(P) as P varies in the set P?*
 
-> (7 points) Denote by P the set of polynomials with integer coefficients that have among their roots
-> the number 1 + √2 + √3 and such that their degree is as low as possible. For a polynomial P, denote
-> by s(P) the sum of the absolute values of the coefficients of P. What is the minimum possible value for s(P)
-> as P varies in P?
+> (7 points) Denote by P the set of polynomials with integer coefficients that have among their roots the number 1 + √2 + √3 and whose degree is as low as possible. For a polynomial P, denote by s(P) the sum of the absolute values of the coefficients of P. What is the least possible value of s(P) as P varies in the set P?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 33
+[[Quesiti/src_kangourou_2022_student_semifinale#q17|src_kangourou_2022_student_semifinale__Q17]]
 
 
 
@@ -845,10 +901,13 @@ Find n *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many*
+*How many perfectone numbers are there?*
 
-> (8 points) Let's say a positive integer n is perfectone if it equals the square of the number of its divisors (positive integers, 1 and n included): for example, 4, which has three divisors, is not perfectone. How many perfectone numbers are there?
->  
-> 15 9 2 0 4 0 13 33 2
+> (8 points) We say that a positive integer n is perfectone if it coincides with the square of the number of its divisors (positive integers, 1 and n included): for example 4, which has three divisors, is not perfectone. How many perfectone numbers are there?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 2
+[[Quesiti/src_kangourou_2022_student_semifinale#q18|src_kangourou_2022_student_semifinale__Q18]]

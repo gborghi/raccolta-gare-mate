@@ -37,13 +37,19 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of L-tetramins that can be placed without overlapping in a 6x5 chessboard.*
+*Maximum number of L tetrominoes that can be placed without overlapping on a 6x5 grid.*
 
-> 1 - QUADRAMINIES (coefficient 1) Mathias has a rectangular chessboard of $6 \times 5$ boxes and a set of identical pieces with the shape represented in gray in the figure (a tetrammaton in L). How many pieces can Mathias put inside the chessboard without overlapping? Note: You can rotate the pieces.
+> 1 - I QUADRAMINI (coefficient 1)
+> Mathias has a rectangular chessboard with $6 \times 5$ squares and a set of identical pieces having the shape shown in grey in the figure (an L tetromino). What is the maximum number of pieces Mathias can place inside the chessboard without overlaps? Note: the pieces can be rotated.
 
 ![[src_bocconi_finaleint_2009_g1__q01.png]]
 
-**Answer:** 6
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q01|src_bocconi_finaleint_2009_g1__Q01]]
 
 
 
@@ -68,11 +74,17 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Initial number of seeds, derived from a ratio between three times the dates and the remaining seeds.*
+*Initial number of marbles, derived from a relationship between three times the dates and half of the remainder.*
 
-> Mathias had more than 20 but less than 30. He gives a number to Mathilde and says, "I'll add three times the number of balls I just gave you and half the number of balls I have left. The result is exactly the same as the number of balls I had before I gave it to him. How many balls did Mathias have before I gave it to him?
+> 2 - THE BALLS (coefficient 2)
+> Mathias had more than 20 marbles but fewer than 30. He gave a certain number to Mathilde and said to her, "I'm adding three times the number of marbles I just gave you and half the number of marbles I have left. The result is exactly equal to the number of marbles I had before I gave them to you." How many marbles did Mathias have before he gave any to her?
 
-**Answer:** 25
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q02|src_bocconi_finaleint_2009_g1__Q02]]
 
 
 
@@ -97,11 +109,17 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*37th succession number obtained by adding the digits and multiplying by 7.*
+*The 37th term of the sequence obtained by adding the digits and multiplying by 7.*
 
-> 3 - MATHILDE's ETA (coefficient 3) Mathilde is 11 years old today, her younger brother is 7 and her mother 37. Mathilde writes her age: 11. Add the digits to this number, then multiply the result by 7 and write the result of the multiplication: 14. Then it starts again from the last number written: add the digits of this number, then multiply the result by 7 and write the result of the multiplication: 35. The first three numbers written are 11, 14, and 35. What number would Mathilde write?
+> 3 - MATHILDE'S AGE (coefficient 3)
+> Today Mathilde is 11 years old, her little brother is 7, and her mother is 37. Mathilde writes her age: 11. She adds the digits of this number, then multiplies the result by 7 and writes the result of the multiplication: 14. She then starts over from the last number she wrote: she adds the digits of this number, then multiplies the result by 7 and writes the result of the multiplication: 35. The first three numbers written are 11, 14, and 35. What will be the $37^\circ$ number that Mathilde will write?
 
-**Answer:** 119
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q03|src_bocconi_finaleint_2009_g1__Q03]]
 
 
 
@@ -126,11 +144,17 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum side of a square containing without overlap two rectangles of data.*
+*The minimum side length of a square that contains two given rectangles without overlap.*
 
-> 4 - SEARCH THE SQUARE (coefficient 4) Two rectangles of size $5\text{ cm} \times 6\text{ cm}$ and $3\text{ cm} \times 4\text{ cm}$ are arranged within a square, without overlapping. What is the minimum size of the side of the square?
+> 4 - FIND THE SQUARE (coefficient 4)
+> Two rectangles with dimensions $5\text{ cm} \times 6\text{ cm}$ and $3\text{ cm} \times 4\text{ cm}$ are arranged inside a square, without overlapping. What is the minimum length of the side of the square?
 
-**Answer:** 8 cm
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q04|src_bocconi_finaleint_2009_g1__Q04]]
 
 
 
@@ -160,9 +184,17 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 *Complete a self-referential sentence with two digits so that it is true.*
 
-> 5 - AUTHORREFERENCE (coefficient 5) Complete the sentence in the box with the help of digits to make it true: $$1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18$$ In this box, the number of digits \ldots\ and 3 times the number of digits \ldots
+> 5 - SELF-REFERENCE (coefficient 5)
+> Complete the sentence written in the box using numbers so that it is true:
+> $$1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18$$
+> In this box, the number of digits \ldots\ is 3 times greater than the number of digits \ldots. Enter the two digits on the answer sheet.
 
-**Answer:** 1 e 3
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q05|src_bocconi_finaleint_2009_g1__Q05]]
 
 
 
@@ -189,13 +221,19 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five sums on the segments are five consecutive numbers.
+*Place 5, 6, 7, 9 on the free vertices of the star (with 3 fixed) so that the five sums along the segments are five consecutive numbers.*
 
-> 6 - THE STAR (coefficient 6) Place the numbers 5, 6, 7 and 9 on the four vertices of the star other than the one where the 3 is already placed (see figure). For each of the five segments, the sum of the two numbers at its ends is calculated. The five numbers thus obtained must be five consecutive numbers.
+> 6 - THE STAR (coefficient 6)
+> Place the numbers 5, 6, 7, and 9 on the four vertices of the star other than the one where 3 is already placed (see figure). For each of the five line segments, calculate the sum of the two numbers at its ends. The five numbers thus obtained must be five consecutive numbers.
 
 ![[src_bocconi_finaleint_2009_g1__q06.png]]
 
-**Answer:** 2 solutions (e.g. with 3 at the top: 5 and 6 at the top on the sides, 7 and 9 at the bottom); the five sums are five consecutive numbers
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q06|src_bocconi_finaleint_2009_g1__Q06]]
 
 
 
@@ -220,11 +258,17 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Small number written only with digits 4 and 6 (at least one of each) divisible by 4 or 6.*
+*The smallest number written using only the digits 4 and 6 (with at least one of each) that is divisible by both 4 and 6.*
 
-> 7 - CON 4 E 6 (coefficient 7) What is the smallest number that is written solely with 4 and 6 digits (at least one of each), and such that divisions of this number by 4 and 6 give both integers?
+> 7 - WITH 4 AND 6 (coefficient 7)
+> What is the smallest number that is written using only the digits 4 and 6 (with at least one of each digit) and such that the divisions of this number by 4 and by 6 both yield integer results?
 
-**Answer:** 4464
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q07|src_bocconi_finaleint_2009_g1__Q07]]
 
 
 
@@ -251,13 +295,19 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of columns on a nine-point grid without three columns of the same colour at the vertices of an equilateral triangle.*
+*Maximum number of pawns on a 9-vertex lattice such that no three pawns of the same color occupy the vertices of an equilateral triangle.*
 
-> 8 - NO Equivalent Triangle (coefficient 8) On each of the 9 vertices of the grid, either a white or a black pivot can be placed or the space can be left empty. Never place three same-colored poles at the vertices of the same equilateral triangle, whatever its size and orientation. A white stone and has already been placed (see figure). Place as many pawns as possible.
+> 8 - WITHOUT AN EQUILATERAL TRIANGLE (coefficient 8)
+> At each of the 9 vertices of the lattice, one can place either a white pawn or a black pawn, or leave the spot empty. One must never place three pawns of the same color at the vertices of the same equilateral triangle, regardless of its size or orientation. One white pawn has already been placed (see figure). Place as many pawns as possible.
 
 ![[src_bocconi_finaleint_2009_g1__q08.png]]
 
-**Answer:** configuration shown in the figure (maximum number of pawns)
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q08|src_bocconi_finaleint_2009_g1__Q08]]
 
 
 
@@ -282,11 +332,17 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum sum of points visible on the faces of a cube 3x3x3 made up of 27 dice.*
+*Minimum sum of the visible points on the faces of a 3x3x3 cube made up of 27 dice.*
 
-> 9 - The DADI Cube (coefficient 9) A cube $3 \times 3 \times 3$ is formed by assembling 27 identical dice. The faces of a dice carry all the digits from 1 to 6, and the sum of the points on two opposite faces is always 7. What is the minimum sum of all points visible on the surface of the cube?
+> 9 - THE DICE CUBE (coefficient 9)
+> A cube $3 \times 3 \times 3$ is formed by assembling 27 identical dice. Each face of a die bears all the numbers from 1 to 6, and the sum of the dots on two opposite faces is always 7. What is the minimum possible sum of all the dots visible on the surface of the cube?
 
-**Answer:** 90
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q09|src_bocconi_finaleint_2009_g1__Q09]]
 
 
 
@@ -311,11 +367,17 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of moves (turn 7 glasses at a time) to bring all 9 glasses to the drying stage.*
+*Minimum number of moves (turn 7 glasses at a time) to get all 9 glasses upright.*
 
-> 10 - The BICKING GAME (coefficient 10) There are nine glasses on a table. One and drunk, eight are down. One move consists of turning seven glasses (any glass can be turned backwards or backwards). At least, how many moves do you have to play to get all the glasses drunk?
+> 10 - THE GLASS GAME (coefficient 10)
+> There are nine glasses on a table. One is upright, and eight are inverted. A move consists of flipping seven glasses (any glass can be flipped from upright to inverted or from inverted to upright). At minimum, how many moves must be made for all the glasses to be upright?
 
-**Answer:** 4
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q10|src_bocconi_finaleint_2009_g1__Q10]]
 
 
 
@@ -342,13 +404,19 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total minimum length of cut to reconstitute a whole side square from a rectangle cut into two pieces.*
+*Minimum total cut length needed to reassemble a square with integer side length from a rectangle cut into two pieces.*
 
-> 11 - FROM RETHANGEL TO SQUADER (coefficient 11) Cut the rectangle along the seven points. All segments of the cut have length integers of centimeters. By sliding the two pieces thus obtained, without flipping them over, one can reconstruct, without holes or overlapping, a square whose side measures an integer of centimeters. What is the total length of the cut, at least in cm? Note: the figure does not respect the proportions.
+> 11 - FROM RECTANGLE TO SQUARE (coefficient 11)
+> Cut out the rectangle along the seven dotted lines. All the segments of the cut have lengths that are whole numbers of centimeters. By sliding the two pieces thus obtained, without turning them over, one can reassemble, with no gaps or overlaps, a square whose side measures a whole number of centimeters. What is the minimum total length of the cut, in cm? Note: the figure is not drawn to scale.
 
 ![[src_bocconi_finaleint_2009_g1__q11.png]]
 
-**Answer:** 31 cm
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q11|src_bocconi_finaleint_2009_g1__Q11]]
 
 
 
@@ -373,11 +441,17 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the region reachable by a dog tied with a 3 m rope to a top of a 1 m side hexagonal fold.*
+*The area of the region reachable by a dog tied with a 3-m rope to a vertex of a hexagonal doghouse with sides 1 m long.*
 
-> 12 - The dog (coefficient 12) The base of Julien's dog's dog and a regular hexagon whose side measures 1 meter. The cat is closed and the dog is tied to the outside of the cat to a figure top with a 3-meter long rope. What, in square metres, is the area of the region that the dog can reach outside its litter? The exact answer is given using $\pi$ if necessary.
+> 12 - THE DOGHOUSE (coefficient 12)
+> The base of Julien's doghouse is a regular hexagon with sides measuring 1 meter. The doghouse is enclosed, and the dog is tied to a vertex of the figure outside the doghouse with a 3-meter-long rope. What is the area, in square meters, of the region that the dog can reach outside its doghouse? The exact answer is to be given, using $\pi$ if necessary.
 
-**Answer:** $3\pi$ m$^2$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q12|src_bocconi_finaleint_2009_g1__Q12]]
 
 
 
@@ -402,11 +476,17 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of a triangle known by two conditions of reciprocal coverage with a side square of 4 cm.*
+*Area of a triangle known from the two conditions of mutual covering with a square of side 4 cm.*
 
-> 13 - DOUBLE COVER (coefficient 13) By placing a square of 4 cm on a triangle, up to two thirds of the triangle surface can be covered. By placing the triangle on the square, you can cover up to three quarters of the square's surface. What is the area of the triangle, in cm$^2$?
+> 13 - DOUBLE COVERAGE (coefficient 13)
+> By placing a square with sides 4 cm long on a triangle, it is possible to cover up to two-thirds of the triangle's area. By placing the triangle on the square, it is possible to cover up to three-quarters of the square's area. What is the area of the triangle, in cm$^2$?
 
-**Answer:** 18 cm$^2$
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q13|src_bocconi_finaleint_2009_g1__Q13]]
 
 
 
@@ -431,11 +511,17 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Finding all two-digit simplifiable fractions a/b by (erroneously) deleting the common denominator, such as 49/98=4/8.*
+*Find all two-digit fractions a/b that can be (incorrectly) simplified by canceling the common digit, such as 49/98=4/8.*
 
-> 14 - Simplified fractions (coefficient 14) Mathias has just invented a new method for simplifying fractions. To simplify the $\frac{49}{98}$ fraction, you simply delete the figure that appears on the numerator and denominator, i.e. 9: you get $\frac{4}{8}$, which is exactly equal to $\frac{49}{98}$. What other fractions of the form $\frac{a}{b}$ (where $a$ and $b$ are two-digit numbers, with a numerical value of nothing in common, and $a < b$) can Mathias correctly simplify with his method?
+> 14 - SIMPLIFIED FRACTIONS (coefficient 14)
+> Mathias has just invented a new method for simplifying fractions. To simplify the fraction $\frac{49}{98}$, he simply cancels the digit that appears in both the numerator and the denominator—that is, the 9—and thus obtains $\frac{4}{8}$, which is exactly equal to $\frac{49}{98}$. Which other fractions of the form $\frac{a}{b}$ (where $a$ and $b$ are two-digit numbers with a non-zero common digit, and $a < b$) can Mathias correctly simplify using his method?
 
-**Answer:** $\frac{16}{64}$, $\frac{19}{95}$, $\frac{26}{65}$ (3 solutions)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q14|src_bocconi_finaleint_2009_g1__Q14]]
 
 
 
@@ -460,11 +546,17 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of different cubes drawing a diagonal on each of the six faces.*
+*Maximum number of distinct cubes by drawing a diagonal on each of the six faces.*
 
-> 15 - CUBI (coefficient 15) Mathias has a large number of identical white cubes. On each face of each of them draw a diagonal. How many different cubes do you get?
+> 15 - THE CUBES (coefficient 15)
+> Mathias has a large number of identical white cubes. On each face of each cube, he draws a diagonal. What is the maximum number of different cubes he will end up with?
 
-**Answer:** 8
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q15|src_bocconi_finaleint_2009_g1__Q15]]
 
 
 
@@ -489,11 +581,17 @@ Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five s
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability that an ant, after 7 random movements on the tips of a cube, has passed through all 8 vertices
+*The probability that, after 7 random moves along the edges of a cube, an ant has passed through all 8 vertices.*
 
-> 16 - The shape in the cube (coefficient 16) An ant starts from a vertex of a cube. Each shift consists of moving from one vertex to another along a cube's axis. At each vertex, for the next move, the ant chooses one of three possible spikes at random. The subsequent choices are independent of each other. Immediately after the seventh shift, what is the probability that the ant has passed through the eight vertices of the cube (counting the start)? It will respond in the form of an irreducible fraction.
+> 16 - THE ANT IN THE CUBE (coefficient 16)
+> An ant starts at a vertex of a cube. Each move consists of going from one vertex to another along an edge of the cube. At each vertex, for the next move, the ant randomly chooses one of the three possible edges. Subsequent choices are independent of one another. Immediately after the seventh move, what is the probability that the ant has visited all eight vertices of the cube (including the starting vertex)? The answer should be given as an irreducible fraction.
 
-**Answer:** $\frac{2}{243}$
+**Topic:** [[topic_probabilita|Probability]], [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q16|src_bocconi_finaleint_2009_g1__Q16]]
 
 
 
@@ -520,13 +618,19 @@ The probability that an ant, after 7 random movements on the tips of a cube, has
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of large and small radii in the blade of tangent circle arcs, with integer radii in mm.*
+*Ratio of the large radius to the small radius in the heraldic shield formed by tangent circular arcs, with radii given in mm.*
 
-> 17 - BLASON (coefficient 17) The Maths-Chateau blade has an axis of vertical symmetry. The four circle arcs have the same radius. Set one after the other, a small bow and a large bow form exactly a quarter of a circle. The tangent to the large arc perpendicular to the horizontal segment and the small arc tangent to each end of this segment. All tangent and contact points are perfect. The radii of the two circles measure an integer number of millimeters. What's the relationship between the largest and the smallest? It will respond in the form of an irreducible fraction.
+> 17 - THE COAT OF ARMS (coefficient 17)
+> The coat of arms of Maths-Chateau has a vertical axis of symmetry. The four circular arcs have the same radius. When placed one after another, a small arc and a large arc together form exactly a quarter of a circle. The tangent to the large arc is perpendicular to the horizontal segment, and the small arc is tangent to each end of this segment. All points of tangency and contact are perfect. The radii of the two circles measure a whole number of millimetres. What is the ratio of the largest to the smallest? The answer should be given as an irreducible fraction.
 
 ![[src_bocconi_finaleint_2009_g1__q17.png]]
 
-**Answer:** $\frac{39}{20}$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q17|src_bocconi_finaleint_2009_g1__Q17]]
 
 
 
@@ -553,10 +657,16 @@ The probability that an ant, after 7 random movements on the tips of a cube, has
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To arrange the numbers from 2 to 16 in the triangle discs with the same sum on the 9 lines and vertices a<b<c.*
+*Arrange the numbers from 2 to 16 on the discs of the triangle so that the sums are equal along the 9 lines and the vertices satisfy a<b<c.*
 
-> 18 - DA 2 A 16 (coefficient 18) Place all the numbers from 2 to 16, because only one per disk. The sum of the numbers on each of the nine lines drawn must always be the same. At the vertices of the triangle, the numbers must be placed so that $a < b < c$.
+> 18 - DA 2 TO 16 (coefficient 18)
+> Place all the numbers from 2 to 16, with exactly one number per disc. The sum of the numbers on each of the 9 drawn lines must always be the same. At the vertices of the triangle, the numbers must be placed so that $a < b < c$.
 
 ![[src_bocconi_finaleint_2009_g1__q18.png]]
 
-**Answer:** 2 solutions
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2009_g1#q18|src_bocconi_finaleint_2009_g1__Q18]]

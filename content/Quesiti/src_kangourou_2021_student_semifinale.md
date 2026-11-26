@@ -41,17 +41,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*one single true statement in euro of Lisa*
+*Which statement is certainly false?*
 
-> (2 points) If of the following three statements
->  
-> (a) Lisa has more than 2021 euros (b) Lisa has less than 2021 euros (c) Lisa has at least 1 euro one and only one is true, which of the following claims is definitely false? A) Lisa has 2021 euros.
->  
-> B) Lisa has no euro.
->  
-> C) Lisa has a thousand euros. (D) Claim (c) is false. E) The statement c) is true.
+> (2 points) If, of the following three statements
+>
+> a) "Lisa has more than 2021 euros"
+> b) "Lisa has fewer than 2021 euros"
+> c) "Lisa has at least 1 euro"
+>
+> exactly one is true, which of the following statements is certainly false?
+>
+> A) Lisa has 2021 euros.
+> B) Lisa has no euros at all.
+> C) Lisa has 1000 euros.
+> D) Statement c) is false.
+> E) Statement c) is the true one.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_student_semifinale#q01|src_kangourou_2021_student_semifinale__Q01]]
 
 
 
@@ -85,19 +95,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2021 as the sum of five integers with digits 3 and 5*
+*How many digits 3 are there in all in the five numbers?*
 
-> (3 points) Julius wants to write 2021 as the sum of five positive integers that have no digits other than 3 and 5. How many digits of 3 are there in all five numbers? A) 2
->  
+> (3 points) Giulio wants to write 2021 as a sum of five positive integers that have no digits other than 3 and 5. How many digits 3 are there in all in the five numbers?
+>
+> A) 2
 > B) 3
->  
 > C) 4
->  
 > D) 5
->  
 > E) 6
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_student_semifinale#q02|src_kangourou_2021_student_semifinale__Q02]]
 
 
 
@@ -132,19 +145,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequential sub-sets with perfect square sum*
+*How many such subsets K are there?*
 
-> Consider the set S = {1, 2, 3, ..., 29, 30}. Denote by K a subset {a, b, c} of three different elements of S. How many K subsets of S are such that a + b + c is a perfect square, b = a + 1 and c = b + 1? A) 0
->  
+> (3 points) Consider the set S = {1, 2, 3, ..., 29, 30}. Denote by K a subset {a, b, c} of three different elements of S. How many subsets K of S are there such that a + b + c is a perfect square, b = a + 1 and c = b + 1?
+>
+> A) 0
 > B) 1
->  
 > C) 2
->  
 > D) 3
->  
 > E) 4
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_student_semifinale#q03|src_kangourou_2021_student_semifinale__Q03]]
 
 
 
@@ -185,26 +201,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference of areas of circular annuli of regular polygons*
+*What is the difference A2021 − A2020?*
 
-> (4 points) Let An denote the area of the circular annulus bounded by the two circles,
-> inscribed in and circumscribed about a regular polygon with n sides, each of length 1.
-> What is the value of the difference A2021 − A2020?
-> A) 
-> 
->    
-> B) 
-> 
->  
-> C) 
-> 
->  
-> D) 
-> 
->  
+> (4 points) Denote by An the area of the annulus bounded by the two circles, the incircle and the circumcircle of a regular polygon with n sides, each of length 1. What is the difference A2021 − A2020?
+>
+> A) ?
+> 
+> B) ?
+> 
+> C) ?
+> 
+> D) ?
+> 
 > E) 0
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_student_semifinale#q04|src_kangourou_2021_student_semifinale__Q04]]
 
 
 
@@ -242,19 +257,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-The following table shows the results of the calculations:
+*For how many of the starting integers do the two boys obtain different final results?*
 
-> (4 points) Peter rounded all positive integers less than 10,000 to tens, then rounded the numbers to hundreds, and finally rounded the final results to thousands. Instead, Paul rounded directly to the thousands all positive integers less than 10,000. For how many of the starting integers do the two boys get different end results? Rounding is to be understood in the usual sense: for example, for rounding to tens, 10 and 13 are rounded to 10, 15 and 17 to 20. A) 0
->  
+> (4 points) Pietro rounded to the nearest ten all the positive integers less than 10000, then rounded the numbers obtained to the nearest hundred, and finally rounded those last results to the nearest thousand. Paolo, instead, rounded straight to the nearest thousand all the positive integers less than 10000. For how many of the starting integers do the two boys obtain different final results?
+>
+> Rounding is meant in the usual sense: for example, when rounding to the nearest ten, 10 and 13 are rounded to 10, and 15 and 17 to 20.
+>
+> A) 0
 > B) 55
->  
 > C) 110
->  
 > D) 550
->  
 > E) 1100
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_student_semifinale#q05|src_kangourou_2021_student_semifinale__Q05]]
 
 
 
@@ -290,20 +310,22 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solution of the equation in (x^3-76) given x=5*
+*Which of the following numbers certainly solves the same equation?*
 
-> (4 points) Knowing that, for a suitable set of real numbers a, b, c, the equation a(x3 – 76)8 + b(x3 – 76)4 + c = 0 admits the solution x = 5, which of the following numbers definitely solves the same equation? A) 125
->  
-> B) – 5
->  
-> C) – 4
->  
+> (4 points) Given that, for a suitable triple of real numbers a, b, c, the equation a(x3 – 76)8 + b(x3 – 76)4 + c = 0 has the solution x = 5, which of the following numbers certainly solves the same equation?
+>
+> A) 125
+> B) –5
+> C) –4
 > D) 4
->  
->  
 > E) 3
 
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_student_semifinale#q06|src_kangourou_2021_student_semifinale__Q06]]
 
 
 
@@ -341,26 +363,28 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of diameters impossible*
+*Which of the previous statements is false?*
 
-> (5 points) Using high-precision instruments, from a single square with a side of 10 cm one can
-> cut out some circles such that, adding their diameters in centimetres, one obtains
-> i)  20.  
-> j)  15.  
-> h)  10 π. 
->  
-> k)  2021. 
-> Which of the previous statements is false? 
-> A) The i). 
->  
-> B) The j). 
->  
-> C) The h). 
->  
-> D) The k). 
->            E) None.
+> (5 points) Using instruments of high precision, from a single square of side 10 cm one can cut out some circles such that, adding their diameters in centimetres, one obtains
+>
+> i) 20.
+> j) 15.
+> h) 10 π.
+> k) 2021.
+>
+> Which of the previous statements is false?
+>
+> A) i).
+> B) j).
+> C) h).
+> D) k).
+> E) None.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_student_semifinale#q07|src_kangourou_2021_student_semifinale__Q07]]
 
 
 
@@ -397,19 +421,24 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*External edge union of four circles for K*
+*How long is the outer boundary of the figure?*
 
 ![[src_kangourou_2021_student_semifinale__prob8.png]]
 
-> (five points) Four distinct radius 1 circles all pass through a common point K, as shown in the figure. How long is the outer edge of the figure formed by the union of the four circles? A)   π
->  
+> (5 points) Four distinct circles of radius 1 all pass through a common point K, as the picture shows. How long is the outer boundary of the figure formed by the union of the four circles?
+>
+> A) ?
+>  π
 > B) 3π
->  
 > C) 4π
->  
-> D) 6π E) Depends on how the circumferences are arranged.
+> D) 6π
+> E) It depends on how the circles are arranged.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_student_semifinale#q08|src_kangourou_2021_student_semifinale__Q08]]
 
 
 
@@ -444,15 +473,22 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum L of the 1xL rectangle divided by area constraints*
+*What is the smallest possible value of L?*
 
-> (6 points) A rectangle of dimension 1×L is divided into four rectangles by two segments parallel to one of the sides. Of these four rectangles, one has area at least 2 and each of the others has area at least 1. What's the smallest possible value for L? A) 5 B) 6 C) 3√3 + 1 D) 4√3 E) A value different from the previous ones
->  
->  
->  
-> Open-ended questions
+> (6 points) A rectangle of dimensions 1×L is divided into four rectangles by two segments, each parallel to one of the sides. Of these four rectangles, one has area at least 2 and each of the others has area at least 1. What is the smallest possible value of L?
+>
+> A) 5
+> B) 6
+> C) 3√3 + 1
+> D) 4√3
+> E) A value different from the previous ones
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_student_semifinale#q09|src_kangourou_2021_student_semifinale__Q09]]
 
 
 
@@ -483,19 +519,17 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Advancement of point P of the track*
+*How many centimetres does the point P advance relative to the ground?*
 
 ![[src_kangourou_2021_student_semifinale__prob10.png]]
 
-> (4 points) The figure schematizes the side of a tracked vehicle whose wheels have a radius
-> of 1/π meters with a distance between centers of 3 meters. The
-> lower part of the track is in contact with a
-> regular flat ground and P denotes the point at the middle
-> of the currently upper part of the track. If the
-> vehicle advances by 20 centimeters, by how many
-> centimeters does point P advance, relative to the ground?
+> (4 points) The picture sketches the side of a tracked vehicle whose wheels have radius 1/π metres, with 3 metres between the centres. The lower part of the track is in contact with flat, even ground, and P denotes the point halfway along the part of the track that is currently on top. If the vehicle advances 20 centimetres, how many centimetres does the point P advance relative to the ground?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0040
+[[Quesiti/src_kangourou_2021_student_semifinale#q10|src_kangourou_2021_student_semifinale__Q10]]
 
 
 
@@ -525,13 +559,16 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*maximum block of black with distinct white blocks*
+*How many counters are in the largest possible block of consecutive black counters?*
 
-> (5 points) We have 90 tokens, half of which are black and the other half white. We want to align them so that the blocks of consecutive white tokens are as many as possible and that no pair of these blocks have the same number of tokens. What is the number of tokens in the largest possible block of consecutive black tokens?
->  
-> P K
+> (5 points) We have 90 counters, half of them black and the other half white. We want to line them up so that the blocks of consecutive white counters are as many as possible, and so that no two of these blocks have the same number of counters. What is the number of counters in the largest possible block of consecutive black counters?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0038
+[[Quesiti/src_kangourou_2021_student_semifinale#q11|src_kangourou_2021_student_semifinale__Q11]]
 
 
 
@@ -563,13 +600,21 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last four digits 0/1 alignment without repeated blocks*
+*What are the last four digits of Tommaso's string?*
 
-> (5 points) Using only the digits 0 and 1, Thomas constructs an alignment of more than five digits starting with 1001 and satisfying the following conditions:
->  
-> (a) there are no two identical blocks of five consecutive digits, disjoint or partially overlapping; (b) the alignment ends when neither of the two digits can be added without breaching condition (a). What are the last four digits of Thomas's alignment? Write 9999 if you believe they are not uniquely determined.
+> (5 points) Using only the digits 0 and 1, Tommaso builds a string of more than five digits that starts with 1001 and satisfies these conditions:
+>
+> a) there are no two identical blocks of five consecutive digits, whether disjoint or partly overlapping;
+> b) the string ends when it is not possible to add either of the two digits without breaking condition a).
+>
+> What are the last four digits of Tommaso's string? Write 9999 if you think they are not uniquely determined.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 1001
+[[Quesiti/src_kangourou_2021_student_semifinale#q12|src_kangourou_2021_student_semifinale__Q12]]
 
 
 
@@ -594,11 +639,16 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining by dividing by 5 the product of the 5-digit numbers*
+*What remainder do you get?*
 
-> (6 points) If you multiply all the positive integers of 5 digits that are not divisible by 5 and divide by 5 the result, what remainder do you get?
+> (6 points) If you multiply together all the positive 5-digit integers that are not divisible by 5, and divide the result by 5, what remainder do you get?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0001
+[[Quesiti/src_kangourou_2021_student_semifinale#q13|src_kangourou_2021_student_semifinale__Q13]]
 
 
 
@@ -632,11 +682,21 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum gap between the two balances with 2021 items*
+*What is the greatest difference that might appear between the two weights?*
 
-> (6 points) We have two precision balances that give the weight in grams of the objects placed on the respective plates: we zero them. We align 2021 objects in order of non-increasing weight and place one object at a time, starting from the first, on one of the two balances in accordance with the following rules: • one must never remove from either of the two balances an object previously placed; • at each step, if the weight indicated by the two balances is the same one can place the object of the turn on either of the two, otherwise it must be placed on the balance indicating the lesser weight. If each object weighs an integer (positive) of grams and their total weight is 4040 grams, when we have placed all 2021 objects, what is the biggest difference that could arise between the two indicated weights?
+> (6 points) We have two precision scales that give the weight in grams of the objects placed on their pans: we set them to zero. We line up 2021 objects in non-increasing order of weight and place one object at a time, starting from the first, on one of the two scales, keeping to the following rules:
+>
+> - an object once placed on either scale must never be removed;
+> - at each step, if the weights shown by the two scales are the same, the next object may be placed on either of them; otherwise it must be placed on the scale that shows the smaller weight.
+>
+> If each object weighs a positive integer number of grams and their total weight is 4040 grams, once all 2021 objects have been placed, what is the greatest difference that might appear between the two weights shown?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0000
+[[Quesiti/src_kangourou_2021_student_semifinale#q14|src_kangourou_2021_student_semifinale__Q14]]
 
 
 
@@ -666,15 +726,20 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many primes of the form (m^2+m+1)/n*
+*How many primes of that form are there?*
 
-> (6 points) How many prime numbers are there of the form
-> 
->  
-> 
-> where m and n are positive integers? (Write 9999 if you believe they are infinite).
+> (6 points) How many primes are there of the form
+>
+> 
+>
+> where m and n are positive integers? (Write 9999 if you think there are infinitely many.)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 9999
+[[Quesiti/src_kangourou_2021_student_semifinale#q15|src_kangourou_2021_student_semifinale__Q15]]
 
 
 
@@ -725,31 +790,18 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of n for rooms visited near 2021*
+*What is n?*
 
 ![[src_kangourou_2021_student_semifinale__prob16.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=2]
-  \draw[thick] (0,0) -- (3,0) -- (1.5,2.598) -- cycle;
-  \draw[thick] (0.5,0.866) -- (2.5,0.866);
-  \draw[thick] (1.0,1.732) -- (2.0,1.732);
-  \draw[thick] (1,0) -- (1.5,0.866);
-  \draw[thick] (2,0) -- (2.5,0.866);
-  \draw[thick] (0.5,0.866) -- (1.0,1.732);
-  \draw[thick] (1.5,0.866) -- (2.0,1.732);
-  \draw[thick] (1,0) -- (0.5,0.866);
-  \draw[thick] (2,0) -- (1.5,0.866);
-  \draw[thick] (1.5,0.866) -- (1.0,1.732);
-  \draw[thick] (2.5,0.866) -- (2.0,1.732);
-\end{tikzpicture}
-\end{document}
-```
+> (7 points) An equilateral triangle of side n is divided into equilateral triangles of side 1 according to the pattern suggested by the picture, which shows the case n = 3. Imagine that each small triangle is a room, and that in every wall it shares with an adjacent room there is a door. By choosing the starting room suitably, the greatest number of rooms that can be visited, passing only once through each room visited, is as close as possible to 2021. What is n?
 
-> (7 points) An equilateral triangle of side n is divided into equilateral triangles of side 1 according to the pattern suggested by the figure, in which case n = 3 is represented. Imagine that each small triangle represents a room and that in each of its walls shared with an adjacent room, there is a door. By selecting appropriately the room from which to depart, the maximum number of rooms that can be visited by passing through each visited room only once is as close as possible to 2021. How much is n?
-
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0045
+[[Quesiti/src_kangourou_2021_student_semifinale#q16|src_kangourou_2021_student_semifinale__Q16]]
 
 
 
@@ -782,13 +834,18 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length AB with two tangent circles at an angle of 60 degrees*
+*How long is AB?*
 
 ![[src_kangourou_2021_student_semifinale__prob17.png]]
 
-> (7 points) The figure shows two externally tangent circumferences inserted into an angle of 60° and both tangents to the rays delimiting the angle: M and N are the two tangent points to the horizontal ray. The lines for A and B are parallel and tangent to the small and the large circle respectively. The radius of the small circle is √12. If AM is 3 how long is AB?
+> (7 points) The picture shows two circles, tangent externally, placed in an angle of 60° and both tangent to the rays that bound the angle: M and N are the two points of tangency with the horizontal ray. The lines through A and through B are parallel, and tangent to the small circle and the large circle respectively. The radius of the small circle is √12. If AM is 3 long, how long is AB?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0027
+[[Quesiti/src_kangourou_2021_student_semifinale#q17|src_kangourou_2021_student_semifinale__Q17]]
 
 
 
@@ -825,14 +882,13 @@ The following table shows the results of the calculations:
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of requests for the product of triples out of 98 numbers*
+*What is the smallest number of questions you need to ask?*
 
-> (8 points) 98 numbers are arranged on a circumference, each equal to 1 or -1 (without excluding that they are all equal to each other). You want to know their product without being able to see them: for the purpose you can ask, for as many triples as you want, the product of the numbers that form a triple of consecutive numbers (regardless of how they appear on the circumference). What's the smallest number of questions you can ask?
->  
-> Answers
->  
-> 0040 0038 1001 0001 0000 9999 0045 0027 0098
->  
-> M N B O A
+> (8 points) On a circle, 98 numbers are placed, each equal to 1 or to −1 (it is not ruled out that they are all equal). You want to know their product without being able to see them: to that end you may ask, for as many triples as you like, the product of the numbers that form a triple of consecutive numbers (as they appear on the circle). What is the smallest number of questions that suffices?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0098
+[[Quesiti/src_kangourou_2021_student_semifinale#q18|src_kangourou_2021_student_semifinale__Q18]]

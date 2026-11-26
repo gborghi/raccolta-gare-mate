@@ -29,9 +29,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N più piccolo in modo che 33N abbia tutte le cifre uguali a 7; trovare la somma di N*
+*Il più piccolo N tale che 33N abbia tutte le cifre uguali a 7; determina la somma delle cifre di N*
 
-> $N$ sia il numero intero positivo più piccolo in modo tale che $N \times 33$ produca un numero i cui numeri sono tutti uguali a $7$. Trova la somma delle cifre di $N$.
+> Sia $N$ il più piccolo intero positivo tale che $N \times 33$ dia come risultato un numero i cui cifre siano tutte uguali a $7$. Determinare la somma delle cifre di $N$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n2_f2#q01|src_obm_2010_n2_f2__Q01]]
 
 
 
@@ -56,11 +63,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I triangoli retti ABC e ABD condividono l'ipotenuza AB; trovare l'area del triangolo ABE*
+*I triangoli rettangoli ABC e ABD hanno in comune l'ipotenusa AB; trova l'area del triangolo ABE*
 
-> Nella figura, i triangoli $ABC$ e $ABD$ sono rettangolari rispettivamente a $C$ e $D$. Dato che $AC = 15$ cm, $AB = 16$ cm e $BD = 12$ cm, si trova l'area, in $\text{cm}^2$, del triangolo $ABE$, dove $E$ è il punto di intersezione di $AD$ e $BC$.
+> Nella figura, i triangoli $ABC$ e $ABD$ sono rettangoli rispettivamente in $C$ e $D$. Dato che $AC = 15$ cm, $AB = 16$ cm e $BD = 12$ cm, determina l'area, in $\text{cm}^2$, del triangolo $ABE$, dove $E$ è il punto di intersezione di $AD$ e $BC$.
 
 ![[src_obm_2010_n2_f2__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2010_n2_f2#q02|src_obm_2010_n2_f2__Q02]]
 
 
 
@@ -83,9 +97,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Real p,q soddisfa due quadratici con pq≠1; trovare (pq+p+1)/q*
+*I numeri reali p, q soddisfano due equazioni quadratiche con pq≠1; trova (pq+p+1)/q*
 
-> $p, q$ siano numeri reali che soddisfano le relazioni $2p^2 - 3p - 1 = 0$, $q^2 + 3q - 2 = 0$ e $pq \neq 1$. Trova il valore di $\dfrac{pq + p + 1}{q}$.
+> Sia $p, q$ un insieme di numeri reali che soddisfano le relazioni $2p^2 - 3p - 1 = 0$, $q^2 + 3q - 2 = 0$ e $pq \neq 1$. Determinare il valore di $\dfrac{pq + p + 1}{q}$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2010_n2_f2#q03|src_obm_2010_n2_f2__Q03]]
 
 
 
@@ -108,9 +129,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Billeti da lotteria 100999; premio = somma di cifre; biglietti minimi per garantire il super-premi*
+*Biglietti della lotteria da 100 a 999; premio = somma delle cifre; numero minimo di biglietti per garantire il superpremio*
 
-> In una città, il sindaco ha organizzato una lotteria con biglietti numerati da $100$ a $999$. Il premio per ciascun biglietto è determinato dalla somma dei numeri del numero del biglietto. Per garantire che nessuno riceva più di tre premi, è stato stabilito che chi prende tre biglietti con pari importi ha diritto a un super premio. Qual è il numero minimo di biglietti che un cittadino deve acquistare per essere sicuro di ricevere un super premio?
+> In una città, il sindaco ha organizzato una lotteria con biglietti numerati da $100$ a $999$. Il premio per ciascun biglietto è determinato dalla somma delle cifre del numero del biglietto. Per assicurarsi che nessuno riceva più di tre premi, è stato stabilito che chi estrae tre biglietti con somme uguali ha diritto a un superpremio. Qual è il numero minimo di biglietti che un cittadino deve acquistare per essere certo di ricevere un superpremio?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n2_f2#q04|src_obm_2010_n2_f2__Q04]]
 
 
 
@@ -135,9 +163,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integer r,s; quadratico con radici interi; contare i possibili valori di ̊r−s di*
+*Interi r, s; quadratica con radici intere; conta i valori possibili di |r−s|*
 
-> $r$ e $s$ siano numeri interi. È noto che l'equazione quadratica $$x^2 - (r + s)x + rs + 2010 = 0$$ ha due soluzioni integrali. Quanti sono i valori possibili di $|r - s|$?
+> Siano $r$ e $s$ numeri interi. È noto che l'equazione quadratica
+> $$x^2 - (r + s)x + rs + 2010 = 0$$
+> Ha due soluzioni intere. Quante sono le possibili valori di $|r - s|$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n2_f2#q05|src_obm_2010_n2_f2__Q05]]
 
 
 
@@ -164,13 +201,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Count legal 2×2010 bicolori che evitano il monocromatico L-tromino*
+*Conta le 2×2010 colorazioni a due colori legali che evitano il tromino a L monocolore*
 
-> Joãozinho vuole colorare una lavagna $2 \times 2010$ con due colori $A$ e $B$. Un colore è chiamato \emph{legal} se non è possibile trovare un tromino L (tromino a forma di L), come nella figura seguente, con tutti i suoi quadrati dello stesso colore. Determina il numero di coloranti legali.
-> 
-> (Un L-tromino è costituito da tre quadrati unitari che formano una forma L, come illustrato).
+> Joãozinho vuole colorare una tavola $2 \times 2010$ con due colori $A$ e $B$. Una colorazione si dice \emph{legale} se non è possibile trovare un tromino a L (un tromino a forma di L), come nella figura sottostante, con tutte le sue caselle dello stesso colore. Determinare il numero di colorazioni legali.
+>
+> (Un tromino a L è costituito da tre quadrati unitari disposti a forma di L, come illustrato.)
 
 ![[src_obm_2010_n2_f2__q06.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n2_f2#q06|src_obm_2010_n2_f2__Q06]]
 
 
 
@@ -195,9 +239,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie prime m<n con 2m+n, m+2n, m+n−18 tutte prime*
+*Trovare tutte le coppie di numeri primi m<n tali che 2m+n, m+2n e m+n−18 siano tutti numeri primi*
 
-> Trova tutti i numeri primi $m$ e $n$ in modo tale che $0 < m < n$ e i tre numeri $$2m + n, \quad m + 2n, \quad m + n - 18$$ siano anche primi.
+> Trovare tutti i numeri primi $m$ e $n$ tali che $0 < m < n$ e i tre numeri
+> $$2m + n, \quad m + 2n, \quad m + n - 18$$
+> Sono anche primi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2010_n2_f2#q07|src_obm_2010_n2_f2__Q07]]
 
 
 
@@ -220,9 +273,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri a due cifre uguali alla loro somma di immagine inversa a cifre essendo un quadrato perfetto*
+*Numeri a due cifre uguali alla somma della loro immagine ottenuta invertendo le cifre, con tale somma che è un quadrato perfetto*
 
-> Chiamiamo l'immagine di un numero naturale a due cifre il numero ottenuto invertendo l'ordine delle sue cifre. Ad esempio, l'immagine di $34$ è $43$. Quali numeri a due cifre, aggiunti alla loro immagine, danno un quadrato perfetto?
+> Chiamiamo \emph{immagine} di un numero naturale a due cifre il numero ottenuto invertendo l'ordine delle sue cifre. Ad esempio, l'immagine di $34$ è $43$. Quali numeri a due cifre, sommati alla loro immagine, danno un quadrato perfetto?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2010_n2_f2#q08|src_obm_2010_n2_f2__Q08]]
 
 
 
@@ -245,6 +305,13 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC con bisettori angolari che si incontrano a I; AI=BC e angolo ICA=2·angolo IAC; trovare angolo ABC*
+*Triangolo ABC con le bisettrici degli angoli concorrenti in I; AI=BC e l'angolo ICA=2·l'angolo IAC; determinare l'angolo ABC*
 
-> I bisettori interni degli angoli $\hat{A}$ e $\hat{C}$ del triangolo $ABC$ si incontrano al punto $I$. È noto che $AI = BC$ e $m(\hat{ICA}) = 2\,m(\hat{IAC})$. Trova la misura dell'angolo $\hat{ABC}$.
+> Le bisettrici interne degli angoli $\hat{A}$ e $\hat{C}$ del triangolo $ABC$ si incontrano nel punto $I$. Si sa che $AI = BC$ e $m(\hat{ICA}) = 2\,m(\hat{IAC})$. Determinare la misura dell'angolo $\hat{ABC}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2010_n2_f2#q09|src_obm_2010_n2_f2__Q09]]

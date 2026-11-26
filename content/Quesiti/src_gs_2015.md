@@ -32,7 +32,7 @@ level: squadre
 > Voce fuori campo Che cosa risponde Anna?
 
 **Risposta:** 1424
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -43,13 +43,9 @@ level: squadre
 ![[src_gs_2015__prob1.png]]
 
 > The Spanish Inquisition
-> An elementary school classroom.
-> Teacher: You've worn me out, Macchele. Now, as a punishment, write your first name and surname 75 times in capital letters on the sheet.
-> Anna (whispering): This is Spanish Inquisition stuff. (She writes quickly, lifts the pen from the sheet as few times as possible, never retraces the same straight stroke. She proudly produces the sheet with ANNA MACCHELE written on it, all capital letters, separate from one another, as many times as the teacher required.)
-> Teacher (angry): Since you were so quick, count how many times you lifted the pen from the sheet from when you started writing to when you finished.
-> Voice-over: What does Anna answer?
+> An elementary school classroom. Teacher: You've worn me out, Macchele. Now, as punishment, write your first and last name in capital letters 75 times on the sheet of paper. Anna (whispering): This is something out of the Spanish Inquisition. (She writes quickly, lifting the pen from the paper as few times as possible, never rewriting the same straight stroke. Proudly, she produces the sheet with "ANNA MACCHELE"—all capital letters, each separate from the others—written as many times as the teacher requested.) Teacher (angrily): Since you did it so quickly, count how many times you lifted the pen from the paper from the moment you started writing until you finished. Off-screen voice: What does Anna reply?
 
-**Answer:** 1424
+[[Quesiti/src_gs_2015#q01|src_gs_2015__Q01]]
 
 
 
@@ -78,23 +74,23 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0028
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exchange office*
+*Exchange Office*
 
 ![[src_gs_2015__prob2.png]]
 
-> Exchange office
-> An exchange office before opening to the public. John is preparing the exchange rates between all the following currencies: ARS, AUD, BRL, CAD, CHF, CNY, CZK, DKK, EGP, EUR, GBP, HKD, HUF, IDR, ILS, INR, JPY, MXN, NOK, NZD, PHP, PLN, RUB, SAR, SEK, SGD, TRY, USD, ZAR. He has prepared a square table to enter all the rates; at the top of each column and beside each row there is the name of a currency. He has already written 1 in all the cells on the main diagonal, for the exchange of a currency with itself.
-> Eric (looking at the cells of the table): You're well on the way. Now you only need five more rates.
-> John (looking at Eric in amazement): Nonsense! The minimum number needed to be able to complete the table is much larger.
-> Voice-over: What is the minimum number John is referring to?
+> Exchange Office
+> Foreign Exchange Office before opening to the public. John is preparing the exchange rates between all of the following currencies: ARS, AUD, BRL, CAD, CHF, CNY, CZK, DKK, EGP, EUR, GBP, HKD, HUF, IDR, ILS, INR, JPY, MXN, NOK, NZD, PHP, PLN, RUB, SAR, SEK, SGD, TRY, USD, ZAR. He has prepared a square table to enter all the exchange rates; at the top of each column and to the side of each row is the name of a currency. He has already written 1 in all the cells on the main diagonal for exchanging a currency for itself. Eric (looking at the cells in the table): You're making good progress. Now you just have five more exchange rates left. John (looking at Eric in surprise): Nonsense! The minimum number needed to complete the table is much larger. Off-screen voice: What is the minimum number John is referring to?
 
-**Answer:** 0028
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2015#q02|src_gs_2015__Q02]]
 
 
 
@@ -132,31 +128,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1342
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The origin of species (logical version)*
+*The Origin of Species*
 
 ![[src_gs_2015__prob3.png]]
 
-> The origin of species (logical version)
-> On an island two biologists in white coats walk towards a row of 2015 parrots.
-> Darwin: On this island there are only two species of parrots: normal parrots and intelligent parrots. A normal parrot always repeats exactly the last sentence said; an intelligent parrot always tells the truth.
-> Boole: Are these parrots in the row normal or intelligent?
-> Darwin: I don't know. Let's try asking them. (Turning to the parrots) He (pointing at Boole) wants to ask each of you the same question.
-> Boole (to the parrots): How many of the parrots beside you are normal?
-> First parrot in the row: Exactly one of the parrots beside me is normal.
-> Second parrot in the row: Exactly one of the parrots beside me is normal.
-> ...
-> Two-thousand-and-fifteenth parrot in the row: Exactly one of the parrots beside me is normal.
-> Darwin: Every parrot said that exactly one of the parrots beside it is normal: half are intelligent and half are normal.
-> Boole: That's impossible! There is an odd number of them in total! You're wrong, we don't know exactly how many intelligent ones there are. But I have computed the maximum possible number of intelligent parrots and also the minimum possible number.
-> Voice-over: What is the difference between the larger and the smaller of the two numbers Boole computed?
+> The Origin of Species (Logical Version)
+> On an island, two biologists in lab coats are heading toward a row of 2015 parrots. Darwin: On this island, there are only two species of parrots: ordinary parrots and intelligent parrots. An ordinary parrot always repeats exactly the last sentence that was spoken; an intelligent parrot always tells the truth. Boole: Are these parrots in the row ordinary or intelligent? Darwin: I don't know. Let's try asking them. (To the parrots) He (pointing to Boole) wants to ask each of you the same question. Boole (to the parrots): How many of the parrots beside you are ordinary? First parrot in the row: Exactly one of the parrots beside me is ordinary. Second parrot in the row: Exactly one of the parrots beside me is ordinary. ... Two thousand fifteenth parrot in the row: Exactly one of the parrots beside me is ordinary. Darwin: Each parrot said that exactly one of the parrots beside it is ordinary: half are intelligent and half are ordinary. Boole: That's impossible! In total, there's an odd number of them! You're wrong—we don't know exactly how many are intelligent. But I've calculated both the maximum possible number of intelligent parrots and the minimum possible number. Off-screen voice: What is the difference between the largest and the smallest of the two numbers Boole calculated?
 
-**Answer:** 1342
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2015#q03|src_gs_2015__Q03]]
 
 
 
@@ -190,30 +178,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0154
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dr. House (numerical version)*
+*Dr. House*
 
 ![[src_gs_2015__prob4.png]]
 
-> Dr. House (numerical version)
-> A parapsychology office, two people in white coats, one blindfolded; the other has a third man sit down at a table in the middle of the room.
-> Dr. Gregory (to the seated man): Now you will write a three-digit number with different digits, using only the digits 0, 1, 2 and 3. But it must be written so that the digits appear in decreasing order!
-> Dr. James (blindfolded, speaking to the seated man): Stay calm, we don't want to hurt you.
-> Dr. Gregory (violently banging a stick on the table): NO! 123 IS NOT GOOD! The digits must be in decreasing order!
-> The seated man erases 123 and writes another number.
-> Dr. Gregory: Good! Now write it again next to it.
-> Dr. James (to the seated man): You now have a six-digit number in front of you. Divide it by the current year, 2015. What remainder do you get?
-> Seated man: The remainder is 0.
-> Dr. James (sweating): I know what the quotient is.
-> Dr. Gregory (hugging James): Fantastic!
-> Voice-over: What is the quotient?
+> Dr. House (digital version)
+> Parapsychology laboratory; two people in lab coats—one is blindfolded—the other seats a third man in front of a table in the middle of the room. Dr. Gregory (to the seated man): Now you will write a three-digit number using only the digits 0, 1, 2, and 3. But it must be written so that the digits appear in descending order! Dr. James (blindfolded, speaking to the seated man): Stay calm—we don't want to hurt you. Dr. Gregory (striking the table violently with a stick): NO! 123 WON'T DO! The digits must be in descending order! The seated man erases 123 and writes another number. Dr. Gregory: Good! Now write it again beside it. Dr. James (to the seated man): You now have a six-digit number in front of you. Divide it by the current year, 2015. What's the remainder? Seated man: The remainder is 0. Dr. James (sweating): I know what the quotient is. Dr. Gregory (hugging James): Fantastic! Voice-over: What's the quotient?
 
-**Answer:** 0154
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2015#q04|src_gs_2015__Q04]]
 
 
 
@@ -241,26 +222,23 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5332
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The ministry of silly calculations*
+*The Ministry of Stupid Calculations*
 
 ![[src_gs_2015__prob5.png]]
 
-> The ministry of silly calculations
-> A room in a ministry; a clerk is writing groups of four digits on a sheet. A colleague comes in.
-> Clerk: I've finished my work for today.
-> Colleague: What did you have to do?
-> Clerk: Write all the permutations of 2015 (including those with 0 as the leftmost digit) because the minister wants to know the sum of all these numbers.
-> Colleague: What sum did you get?
-> Clerk: I'll compute that during the coming month.
-> Voice-over: What sum will he compute? [Write the first four digits from the left of the result.]
+> The Ministry of Stupid Calculations
+> A ministry office; an employee is writing groups of four digits on a sheet of paper. A colleague comes in. Employee: I'm done with today's work. Colleague: What were you supposed to do? Employee: Write all the permutations of 2015—including those with 0 as the leftmost digit—because the minister wants to know the sum of all these numbers. Colleague: What sum did you get? Employee: I'll calculate that over the coming month. Off-screen voice: What sum will he calculate? [Write the first four digits from the left of the result.]
 
-**Answer:** 5332
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2015#q05|src_gs_2015__Q05]]
 
 
 
@@ -284,21 +262,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0480
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Robinson Crusoe (geometric version)*
+*Robinson Crusoe*
 
 ![[src_gs_2015__prob6.png]]
 
 > Robinson Crusoe (geometric version)
-> On a deserted beach, a man draws a regular hexagon in the sand. Starting from it he draws six equilateral triangles, each with a side coinciding with a side of the hexagon and lying outside the hexagon; he thus obtains a 6-pointed star. Still drawing with his foot, he draws segments joining pairs of consecutive vertices of the star lying outside the hexagon, obtaining a new hexagon, larger than the previous one. Finally, he joins all the vertices of the initial (smaller) hexagon to the centre of that hexagon.
-> Voice-over: What is the product of the number of equilateral triangles in the figure drawn in the sand and the number of non-equilateral triangles in it?
+> On a deserted beach, a man draws a regular hexagon in the sand. Starting from this, he draws six equilateral triangles, each having one side coinciding with a side of the hexagon and lying outside the hexagon; this gives him a six-pointed star. Still drawing with his foot, he draws line segments connecting pairs of consecutive vertices of the star that lie outside the hexagon, thereby obtaining a new hexagon, larger than the previous one. Finally, he connects all the vertices of the initial hexagon (the smaller one) to the center of that hexagon. Voice-over: What is the product of the number of equilateral triangles in the figure drawn in the sand and the number of non-equilateral triangles in the same figure?
 
-**Answer:** 0480
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2015#q06|src_gs_2015__Q06]]
 
 
 
@@ -324,7 +304,7 @@ level: squadre
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2003
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -335,13 +315,12 @@ level: squadre
 ![[src_gs_2015__prob7.png]]
 
 > Scientific sketch
-> A secret laboratory; two scientists in white coats look at the blackboard. On the blackboard is written: a\_0 = 1/2, a\_(n+1) = (a\_n − 1)/(a\_n + 1) for n in N.
-> First scientist: It's the definition of a sequence by recursion.
-> Second scientist: I bet a\_2015 is positive.
-> First scientist: You're on! I bet as many euros as the absolute value of its integer part.
-> Voice-over: Who wins the bet and how much does he win? [Write 1 as the first digit if the first scientist wins the bet, 2 otherwise. Use the remaining three digits for the sum in euros won.]
+> Secret laboratory: two scientists in lab coats are looking at a blackboard. On the blackboard it is written: a_0 = 1/2, a_(n+1) = (a_n − 1)/(a_n + 1) for n in N. First scientist: It's the definition of a sequence by recursion. Second scientist: I bet a_(2015) is positive. First scientist: I'm in! I'll bet as many euros as the absolute value of its integer part. Off-screen voice: Who wins the bet, and how much do they win? [Write 1 as the first digit if the first scientist wins the bet; otherwise, write 2. Use the remaining three digits to indicate the amount won in euros.]
 
-**Answer:** 2003
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2015#q07|src_gs_2015__Q07]]
 
 
 
@@ -365,22 +344,24 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 2000
-**Fonte risposta:** soluzione ufficiale, [PDF p.9](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=9)
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte risposta:** soluzione ufficiale, PDF p.9
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2001: A Space Odyssey (arithmetical version)*
+*2001: A Space Odyssey*
 
 ![[src_gs_2015__prob8.png]]
 
-> 2001: A Space Odyssey (arithmetical version)
-> A transparent cube is seen floating in outer space, with R. Strauss's Also sprach Zarathustra in the background: a rod, entirely inside the cube, joins two diametrically opposite vertices. A hand appears from deep space, holding a circular saw; it makes no noise because it is in deep space. It strikes an extremely violent straight blow that passes through a vertex of the cube and, moving perpendicularly to the rod, cuts it in two.
-> Voice-over: What is 1000 times the ratio between the longer and the shorter part of the cut rod?
+> 2001: A Space Odyssey (Arithmetic Version)
+> A transparent cube is seen floating in outer space; in the background is R. Strauss's Also Sprach Zarathustra: a rod, entirely inside the cube, connects two diametrically opposite vertices. A hand appears from deep space and grips a rotary saw; it makes no sound because it is in deep space. A very violent linear blow vibrates through one vertex of the cube and, moving perpendicular to the rod, cuts the rod in two. Off-screen voice: What is the value of 1000 times the ratio of the longest part to the shortest part of the cut rod?
 
-**Answer:** 2000
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2015#q08|src_gs_2015__Q08]]
 
 
 
@@ -407,27 +388,24 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0729
-**Fonte risposta:** soluzione ufficiale, [PDF p.9](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=9)
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte risposta:** soluzione ufficiale, PDF p.9
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Breaking news*
+*Breaking the News*
 
 ![[src_gs_2015__prob9.png]]
 
-> Breaking news
-> TV news. The caption BREAKING NEWS scrolls along the bottom.
-> Newsreader: A mathematician has found a way to use all the digits from 1 to 9, each exactly once, in the expression
-> √ABC = D + E + F + G + H + I
-> so that it is correct.
-> The caption ABC means 100 × A + 10 × B + C scrolls along the bottom.
-> Newsreader: We are interviewing him to find out which number he wrote under the root.
-> Voice-over: Which number did he write under the root?
+> Breaking the News
+> News bulletin. Below, the text "BREAKING NEWS" scrolls. Announcer: A mathematician has found a way to use all the digits from 1 to 9, each exactly once, in the expression √ABC = D + E + F + G + H + I so that the expression is correct. Below, the text "ABC means 100 × A + 10 × B + C" scrolls. Announcer: We're interviewing him to find out what number he wrote under the radical sign. Off-screen voice: What number did he write under the radical sign?
 
-**Answer:** 0729
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2015#q09|src_gs_2015__Q09]]
 
 
 
@@ -450,21 +428,23 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 2018
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cast Away (probabilistic version)*
+*Cast Away*
 
 ![[src_gs_2015__prob10.png]]
 
 > Cast Away (probabilistic version)
-> A regular polygon with 2016 sides is seen floating on the calm sea.
-> Voice-over: If three distinct vertices of it are chosen at random, what is the probability that they form a right triangle? [Answer with the sum of the numerator and denominator of the fraction in lowest terms.]
+> A regular polygon with 2016 sides is seen floating on calm sea. Voice-over: Three distinct vertices of it are chosen at random—what is the probability that they form a right-angled triangle? [Answer by giving the sum of the numerator and denominator of the fraction reduced to lowest terms.]
 
-**Answer:** 2018
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2015#q10|src_gs_2015__Q10]]
 
 
 
@@ -502,25 +482,23 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0475
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Young Frankenstein (numerical version)*
+*Frankenstein Junior*
 
 ![[src_gs_2015__prob11.png]]
 
-> Young Frankenstein (numerical version)
-> A castle on a peak, the wind whistles, the wolves howl. In a huge room a noblewoman is talking to the Official Wrapper (O.W.).
-> Duchess: At the masked ball I will give a present to every guest. O.W., you must wrap the presents for all the guests. I want a third of them small, a third medium and a third large. My butler will show you the sheets of wrapping paper and explain how to do it. He has always done it.
-> Butler (hidden behind a column, talking to himself): I have always wrapped the presents for the guests. I'll make the O.W. pay for this. (He steps forward and addresses the O.W.) Here are the sheets: there are 50 small ones, 199 medium ones and 250 large ones. Each parcel can be wrapped with paper of the same size (for example, a small parcel with small paper) or of a larger size (for example, a small parcel with large paper), never of a smaller size (for example, a large parcel with medium paper).
-> Duchess (to the O.W.): I will pay you 2 € for each present wrapped with paper of the same size, 1 € for each parcel wrapped with paper not of its size, and I will give you nothing for each unwrapped present. I forgot: there will be 300 guests.
-> The Duchess leaves the hall. With signs of revenge on his face, the butler steals a sheet of paper from the O.W.'s stock every time the O.W. wraps a present. The O.W. sees what the butler is doing and adopts the best strategy to earn as much money as possible, just as the butler adopts the best one to make him earn less.
-> Voice-over: How many euros does the O.W. receive for his work?
+> Frankenstein Junior (digital version)
+> A castle on a peak; the wind whistles, and the wolves howl. In a huge room, a noblewoman is speaking to the Official Wrapper (O.W.). Duchess: At the masquerade ball, I will give a gift to each guest. O.W., you must wrap the gifts for all the guests. I want a third to be small, a third medium, and a third large. My butler will show you the sheets of gift wrap and explain how to do it. He has always done it. Butler (hidden behind a column, talking to himself): I have always wrapped the gifts for the guests myself. I'll make the O.W. pay for it. (He steps forward and addresses the O.W.) Here are the sheets: there are 50 small ones, 199 medium ones, and 250 large ones. Each package can be wrapped with paper of the same size (for example, a small package with small paper) or with larger paper (for example, a small package with large paper), but never with smaller paper (for example, a large package with medium paper). Duchess (to the O.W.): I will pay you 2 euros for each gift wrapped in paper of the same size, 1 euro for each package wrapped in paper of a different size, and I won't give you anything for each unwrapped gift. I forgot: I will have 300 guests. The Duchess leaves the hall. With the marks of vengeance on his face, the butler steals one sheet of paper from the O.W.'s supply each time the O.W. wraps a gift. The O.W. sees what the butler is doing and adopts the best strategy for making more money, just as the butler adopts the best strategy for making him earn less. Voice-over: How many euros does the O.W. receive for his work?
 
-**Answer:** 0475
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2015#q11|src_gs_2015__Q11]]
 
 
 
@@ -544,7 +522,7 @@ level: squadre
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0254
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -555,13 +533,12 @@ level: squadre
 ![[src_gs_2015__prob12.png]]
 
 > Mathematical sketch
-> Two mathematicians in front of a blackboard. On the blackboard is written:
-> f(0) = 0, f(1) = 1, f(2n) = f(n), f(2n + 1) = f(n) + f(n + 1) for n in N, n > 0.
-> Terry: It's the recursive definition of Dijkstra's fusc function.
-> Graham: It allows one to list the positive rational numbers without repetitions, taking r\_m = f(m)/f(m + 1) for m a positive integer.
-> Voice-over: For which m is r\_m = 7/8?
+> Two mathematicians in front of a blackboard. On the blackboard it is written: f(0) = 0, f(1) = 1, f(2n) = f(n), f(2n + 1) = f(n) + f(n + 1) for n in N, n > 0. Terry: This is the recursive definition of Dijkstra's fusc function. Graham: It makes it possible to list the positive rational numbers without repetition, by taking r_m = f(m)/f(m + 1) for positive integer m. Off-screen voice: For which m is r_m = 7/8?
 
-**Answer:** 0254
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2015#q12|src_gs_2015__Q12]]
 
 
 
@@ -593,30 +570,20 @@ level: squadre
 > sapere chi è il colpevole?
 
 **Risposta:** 3022
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The investigations of Inspector Maigret (logical version)*
+*The Investigations of Commissioner Maigret*
 
 ![[src_gs_2015__prob13.png]]
 
-> The investigations of Inspector Maigret (logical version)
-> A very crowded French police station: there are 2015 suspects of a bank robbery; among them is the culprit, and all the suspects know who it is.
-> Maigret: Have we given everyone the serum?
-> Policeman: Yes, chief. And it will last for months. But you know it works badly, by rebound?
-> Maigret: What do you mean?
-> Policeman: If whoever has received it lies one day, then he tells the truth the next day.
-> Maigret: Listen, let's do this: today we ask the question «Who is the culprit?» to some suspects, one at a time. Whoever is questioned must answer, otherwise he gets five years in prison for aiding and abetting. We put everyone in the clink at night. Tomorrow we ask the same question again to whichever suspects we like. And we go on like this until we find the culprit.
-> Policeman: By the way, one of the suspects always tells the truth.
-> Maigret: That's important. Can you tell me who it is?
-> Policeman: No.
-> Maigret: Never mind. Let's begin, because it will take days to finish this investigation.
-> Voice-over: After at least how many questions is Maigret certain to know who the culprit is?
+> The Investigations of Commissioner Maigret (Logical Version)
+> A very crowded French police station: there are 2,015 suspects in a bank robbery; among them is the culprit, and all the suspects know who he is. Maigret: Have we given the serum to everyone? Policeman: Yes, boss. And it will last for months. But do you know that it works badly in a back-and-forth way? Maigret: What do you mean? Policeman: If someone who has received it lies one day, then the next day they tell the truth. Maigret: Listen, here's what we'll do: today we'll ask a few of the suspects, one at a time, "Who is the culprit?" The person being questioned must answer; otherwise, they'll serve five years in prison for aiding and abetting. Let's lock everyone up in cells at night. Tomorrow we'll ask the same question again to whoever among the suspects we want. And we'll keep going like this until we find the culprit. Policeman: By the way, one of the suspects always tells the truth. Maigret: That's important. Can you tell me who it is? Policeman: No. Maigret: Never mind. Let's start, because it will take days to wrap up this investigation. Off-screen voice: After at least how many questions will Maigret be certain of knowing who the culprit is?
 
-**Answer:** 3022
+[[Quesiti/src_gs_2015#q13|src_gs_2015__Q13]]
 
 
 
@@ -645,26 +612,23 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0128
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*When Harry Met Sally (combinatorial version)*
+*Harry, Meet Sally*
 
 ![[src_gs_2015__prob14.png]]
 
-> When Harry Met Sally (combinatorial version)
-> A bar full of people; at a table two friends are talking animatedly.
-> Sally: You're a bastard! You owe me a lot of money and you don't remember how much?
-> Harry: You're right! Let's do this: let's gamble the debt.
-> Harry writes in pencil all the integers from 0 to 16384.
-> Harry: We take turns erasing (the integer part of) half of those still written; I'll pay you in euros the difference between the larger and the smaller of the two numbers left. (Defiantly) You start.
-> With an eraser Sally erases 2^13 of them, then Harry erases 2^12 of the remaining ones, and so on until Harry erases 1. Sally adopts the best strategy to obtain as much money as possible, Harry does the same to pay as little as possible.
-> Voice-over: How many euros will Harry have to pay Sally?
+> Harry, Meet Sally (Combinatorial Version)
+> A bar full of people; at a table, two friends are talking animatedly. Sally: You're a bastard! You owe me a lot of money—and you don't even remember how much? Harry: You're right! Here's what we'll do: let's gamble away the debt. Harry writes down in pencil all the integers from 0 to 16384. Harry: We'll take turns erasing half of (the integer parts of) those that are still written down; I'll pay you in euros the difference between the larger and the smaller of the two numbers left. (In a challenging tone) You start. Using an eraser, Sally erases 2^(13) of them; then Harry erases 2^(12) of the remaining ones, and so on until Harry erases 1. Sally follows the best strategy to get as much money as possible; Harry does the same to pay as little as possible. Voice-over: How many euros will Harry have to pay Sally?
 
-**Answer:** 0128
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2015#q14|src_gs_2015__Q14]]
 
 
 
@@ -686,21 +650,23 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0006
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The Spy Who Loved Me (geometric version)*
+*The Spy Who Loved Me*
 
 ![[src_gs_2015__prob15.png]]
 
-> The Spy Who Loved Me (geometric version)
-> A transparent cube is seen floating in outer space, with the second movement of W. A. Mozart's Piano Concerto No. 21 in the background. A hand appears from deep space, holds a ballpoint pen and marks all the centres of the faces. It then draws the segments joining the centres of adjacent faces, generating a solid inside the cube.
-> Voice-over: What is the ratio between the volume of the cube and the volume of the solid inside?
+> The Spy Who Loved Me (Geometric Version)
+> A transparent cube can be seen floating in outer space; in the background is the second movement of W.A. Mozart's Piano Concerto No. 21. A hand appears from deep space, grips a ballpoint pen, and marks all the centers of the faces. It then draws the connecting line segments between the centers of adjacent faces, creating a solid within the cube. Voice-over: What is the value of the ratio between the volume of the cube and the volume of the solid inside?
 
-**Answer:** 0006
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2015#q15|src_gs_2015__Q15]]
 
 
 
@@ -729,25 +695,23 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0005
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The Good, the Bad and the Ugly (probabilistic version)*
+*The Good, the Ugly, the Bad*
 
 ![[src_gs_2015__prob16.png]]
 
-> The Good, the Bad and the Ugly (probabilistic version)
-> A saloon in the Far West, two cowboys sitting at a table; around them a small crowd of onlookers waiting to see the dead man.
-> Tuco: Look at this coin, Blondie. It has three faces: heads, tails, flame.
-> Blondie: Is it fair?
-> Tuco: Of course! I propose a game: if heads comes up, whoever tossed the coin wins; if tails comes up, he passes the coin to the other; if flame comes up, he tosses again. We go on until one of the two players wins. I start.
-> Blondie (drawing his gun): No, I start.
-> Voice-over: What is Blondie's probability of winning? [Answer with the sum of the numerator and denominator of the fraction in lowest terms.]
+> The Good, the Ugly, the Bad (Probabilistic Version)
+> A saloon in the Wild West; two cowboys sitting at a table; around them, a small cluster of onlookers waiting to see the dead man. Tuco: Look at this coin, Blondie. It has three sides: head, cross, flame. Blondie: Is it balanced? Tuco: Of course! I'll propose a game: if head comes up, the one who flipped the coin wins; if cross comes up, the coin passes to the other; if flame comes up, you flip again. You keep going until one of the two players wins. I'll start. Blondie (drawing his gun): No, I'll start. Off-screen voice: What is Blondie's probability of winning? [Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.]
 
-**Answer:** 0005
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2015#q16|src_gs_2015__Q16]]
 
 
 
@@ -779,22 +743,23 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0011
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Being There (combinatorial version)*
+*Being There*
 
 ![[src_gs_2015__prob17.png]]
 
 > Being There (combinatorial version)
-> A greenhouse with 2601 pots arranged in 51 rows forming a 51 × 51 square, each side facing one of the four cardinal points. A gardener plants a seed in the central pot.
-> Gardener (talking to the pots): From tomorrow, at random, I will plant a seed in every empty pot that borders to the North or to the South a pot already sown, or I will plant one in every empty pot that has a sown pot among the eight pots surrounding it. In the first case I will manage to complete the work in one day, in the second, instead, I will need two days. I will work every day, but in 21 days I will leave you, without working on that day; I'm going away from here. I want to have finished anyway; so on the twentieth day I will not start a job that requires two days to complete.
-> Voice-over: How many different configurations of sown pots can the gardener obtain in the greenhouse when he is about to leave at the end of the 21-day period? [Two configurations are to be considered different if the same pot is empty in one and sown in the other.]
+> A greenhouse containing 2601 pots arranged in 51 rows to form a 51 × 51 square, with each side facing one of the four cardinal directions. A gardener plants a seed in the central pot. Gardener (speaking to the pots): Starting tomorrow, at random, I will plant a seed in every empty pot that borders, to the north or south, a pot that has already been seeded, or I will plant a seed in every empty pot that has a seeded pot among the eight pots surrounding it. In the first case, I will manage to complete the work in one day; in the second case, however, I will need two days. I will work every day, but in 21 days I will leave you, without working that day; I am leaving here. I will want to have finished anyway; therefore, on the twentieth day, I will not start a task that will take me two days to complete. Voice-over: How many different configurations of seeded pots can the gardener achieve in the greenhouse when he is about to leave at the end of the 21-day period? [Two configurations are to be regarded as different if the same pot is empty in one and seeded in the other.]
 
-**Answer:** 0011
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2015#q17|src_gs_2015__Q17]]
 
 
 
@@ -819,7 +784,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0210
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -830,14 +795,12 @@ level: squadre
 ![[src_gs_2015__prob18.png]]
 
 > Mirrors
-> Two mathematicians in front of a blackboard.
-> Michael: I've already told you that an integer is a mirror number if it has at least two digits and has at least one common divisor greater than 1 with the number read backwards.
-> John: There are lots of them: for example, 11, 21, 30, 55.
-> Michael: Sure, sure! But there are no five consecutive mirror numbers.
-> John: That's not true; I've just found the smallest possible sequence of five consecutive ones.
-> Voice-over: What is the largest number of the sequence found by John?
+> Two mathematicians in front of a blackboard. Michael: I've already told you that an integer is a mirror number if it has at least two digits and has at least one common divisor greater than 1 with the number read in reverse. John: There are many of them—for example, 11, 21, 30, 55. Michael: Sure, sure! But there aren't five consecutive mirror numbers. John: That's not true; I've just found the sequence of the five smallest possible consecutive ones. Voice-over: What is the largest number in the sequence found by John?
 
-**Answer:** 0210
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2015#q18|src_gs_2015__Q18]]
 
 
 
@@ -871,7 +834,7 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1175
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -882,15 +845,12 @@ level: squadre
 ![[src_gs_2015__prob19.png]]
 
 > Bingo
-> A bingo hall full of players.
-> Presenter: Today we propose a new game with 81 balls numbered from 0 to 80: by paying one euro, you can choose three numbers whose sum is 80, not necessarily different from one another, in increasing order.
-> Spectator: But how do I put 20, 20 and 40 in increasing order?
-> Presenter (ironically): For our m.a.t.h.e.m.a.t.i.c.a.l player, let us explain that, if he pays one euro, he writes three numbers n, m, k such that n + m + k = 80 and 0 ≤ n ≤ m ≤ k ≤ 80 and takes part in the game; (to the spectator) is that all right? (to everyone) I draw a ball at random from the bag with the 81 balls numbered from 0 to 80. Whoever has written the number drawn wins 10 euros.
-> Spectator: I've written them and paid the euro, but this game is a swindle!
-> The presenter takes a gun and shoots in the direction of the spectator.
-> Voice-over: What is the probability that the spectator, having chosen three numbers at random as required by the rules, wins? [Answer with the sum of the numerator and denominator of the fraction in lowest terms.]
+> The bingo hall is full of players. Presenter: Today we're offering a new game with 81 numbered balls from 0 to 80: for one euro, you can choose three numbers, in ascending order, whose sum is 80—the numbers don't necessarily have to be different from one another. Spectator: But how am I supposed to put 20, 20, and 40 in ascending order? Presenter (ironically): For our m.a.t.h.e.m.a.t.i.c.a.l player, let's explain that, if he pays one euro, he writes down three numbers n, m, k such that n + m + k = 80 and 0 ≤ n ≤ m ≤ k ≤ 80, and then takes part in the game; (to the spectator) Is that okay? (to everyone) I'll randomly draw a ball from the bag containing the 81 numbered balls from 0 to 80. Whoever has written down the number drawn wins 10 euros. Spectator: I wrote them down and paid the euro, but this game is a scam! The presenter takes a gun and fires in the direction of the spectator. Off-screen voice: What is the probability that the spectator wins after choosing three numbers at random as required by the rules? [Answer by giving the sum of the numerator and denominator of the fraction reduced to lowest terms.]
 
-**Answer:** 1175
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2015#q19|src_gs_2015__Q19]]
 
 
 
@@ -914,21 +874,23 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 1176
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Galaxy Song (geometric version)*
+*Galaxy Song*
 
 ![[src_gs_2015__prob20.png]]
 
-> Galaxy Song (geometric version)
-> A cube is seen floating in outer space, with Eric Idle's Galaxy Song in the background. Slowly a part of the cube disappears, namely the part between two distinct parallel planes, each passing through three vertices not lying on the same face, until only a sphere tangent to the two planes is left.
-> Voice-over: Knowing that the main diagonal of the cube is 7056 mm, what is the length in mm of the radius of the sphere?
+> Galaxy Song (Geometric Version)
+> A cube can be seen floating in outer space, with Eric Idle's "Galaxy Song" playing in the background. Slowly, a part of the cube—the part bounded by two distinct parallel planes, each passing through three vertices that are not on the same face—disappears, until only a sphere tangent to the two planes remains. Voice-over: Knowing that the main diagonal of the cube is 7056 mm, what is the length, in mm, of the sphere's radius?
 
-**Answer:** 1176
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2015#q20|src_gs_2015__Q20]]
 
 
 
@@ -951,21 +913,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0046
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*It's...*
+*È. . .*
 
 ![[src_gs_2015__prob21.png]]
 
-> It's...
-> Voice-over: For how many ordered pairs (n, p), with n a positive integer less than or equal to 200 and p a prime number, is the sum p^2 + np the square of an integer?
-> A foot appears and stamps off screen. [Recall that 1 is not a prime number.]
+> Uh... Voice-over: For how many ordered pairs (n, p), where n is a positive integer less than or equal to 200 and p is a prime number, is p^2 + np the square of an integer? A foot stomping off-screen appears. [Recall that 1 is not a prime number.]
 
-**Answer:** 0046
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2015#q21|src_gs_2015__Q21]]
 
 
 
@@ -1007,29 +970,23 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0523
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Post office and pensions*
+*Post Offices and Pensions*
 
 ![[src_gs_2015__prob22.png]]
 
-> Post office and pensions
-> Inside a post office. Six pensioners queue in front of the only open counter.
-> Terry: I'm going to gamble my pension at the slot machines next door.
-> The other pensioners: Me too! Me too!
-> Clerk (behind the counter): I have to close for a few minutes. Take the number corresponding to your position in the queue. (He gives a slip with the number 1 to the first in the queue, a slip with the number 2 to the second, and so on. He goes out.)
-> Terry: Always the same: they don't have the money to pay and they go looking for it around. (Grumbling, he goes to sit with the other pensioners.)
-> The clerk comes back in. The pensioners, seeing him, rush struggling and pushing in front of the counter without using the slip the clerk had given them.
-> Clerk: Calm down! Calm down! (It has no effect.) I propose a game better than the slot machines. If it works, I'll pay everyone their pension three times. If it doesn't, I'll pay nothing.
-> All the pensioners (shouting): YES! YES! YES! YES!
-> Clerk: The game is this: the last one in the queue looks at the number in his pocket. If it is 6, the first phase of the game ends; if it is not 6, the pensioner goes to occupy the position indicated by his number, displacing whoever occupied that position. The person forced to move looks in turn at the number in his pocket. If it is 6, he goes to the end of the queue and the first phase of the game ends; otherwise he goes to occupy the position indicated by his number, thus displacing another pensioner, who must check the number in his pocket, and so on. The game works (and I pay you your pensions three times) exactly if, after the first phase, all the people have taken the correct position, that is the one on their slip.
-> Voice-over: What is the probability that the pensioners get paid? [Answer with the sum of the numerator and denominator of the fraction in lowest terms.]
+> Post offices and pensions
+> Inside a post office. Six pensioners are queuing in front of the only counter that is open. Terry: I'm going to gamble my pension on the slot machines right next door. The other pensioners: Me too! Me too! Clerk (behind the counter): I have to close for a few minutes. Take the number corresponding to your position in the queue. (He gives the first person in the queue a slip with the number 1, the second person a slip with the number 2, and so on. He leaves.) Terry: It's always the same: they don't have the money to pay, so they go around looking for it. (Muttering, he goes and sits down with the other pensioners.) The clerk comes back in. When the pensioners see him, they rush over, trudging and jostling, to get in front of the counter without using the slips the clerk had given them. Clerk: Calm down! Calm down! (It has no effect.) I'm proposing a game that's better than the slot machines. If it works, I'll pay everyone three times their pension. If it doesn't work, I won't pay anything. All the pensioners (shouting): YES! YES! YES! YES! Clerk: Here's the game: the last person in the queue looks at the number they have in their pocket. If it's 6, the first phase of the game ends; if it's not 6, the pensioner goes to take the position indicated by their number, moving the person who was in that position. The person forced to move looks in turn at the number they have in their pocket. If it's 6, they go to the end of the queue and the first phase of the game ends; otherwise, they go to take the position indicated by their number, thereby moving another pensioner, who must then check the number they have in their pocket, and so on. The game works—and I'll pay you three times your pensions—exactly if, after the first phase, everyone has taken the correct position, that is, the one they have on the slip. Off-screen voice: What is the probability that the pensioners will get paid? [Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.]
 
-**Answer:** 0523
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2015#q22|src_gs_2015__Q22]]
 
 
 
@@ -1052,7 +1009,7 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 2560
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1063,11 +1020,12 @@ level: squadre
 ![[src_gs_2015__prob23.png]]
 
 > Roles
-> A school classroom.
-> Teacher: In a triangle ABC, let M be the midpoint of BC and let N be the point on BC such that angle BAN = angle CAM. It is known that 5AB = 8AC.
-> Pupil (to the teacher): Fine! What is the ratio between NB and NC? [Answer with 1000 times the required ratio.]
+> Classroom in a school. Teacher: In triangle ABC, let M be the midpoint of BC and let N be the point on BC such that angle BAN = angle CAM. It is known that 5AB = 8AC. Student (to the teacher): Okay! What is the value of the ratio of NB to NC? [Answer by giving 1000 times the required ratio.]
 
-**Answer:** 2560
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2015#q23|src_gs_2015__Q23]]
 
 
 
@@ -1103,26 +1061,20 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 4668
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2015_6%20marzo%20-%20Gara%20.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2015 (= fairmath.it, Coppa Gauss 2015)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dice philosophy*
+*Philosophy of Dice*
 
 ![[src_gs_2015__prob24.png]]
 
-> Dice philosophy
-> A bar in the suburbs. A small crowd of people, each with at least one book in hand, stands around a table where two customers are about to play dice.
-> Nietzsche: Plato had identified perfection in the five regular solids. Here they are, reproduced in these five dice, each with its faces numbered from 1 up to the number of faces.
-> Kant: That's a trivial observation!
-> Schelling: Enough chatter! Play!
-> Marx: Get those dice rolling.
-> Hegel: Enough synthesis; a bit of thesis and antithesis! Get going with those dice!
-> Kant: I fear they are misinterpreting my imperatives. Let us follow Aristotle: let us exclude the octahedron, the dodecahedron and the icosahedron. (Further, vehement protests from the bystanders.) All right: I've had second thoughts. Let us exclude only the icosahedron.
-> Nietzsche: Then we play like this: we put the other four dice in a bag. You draw two of them, completely at random; I take the two left. Then, at the same time, we roll the dice we have drawn. You win if the sum of the numbers you get rolling your dice is greater than the sum of the numbers I get rolling mine.
-> Kant (showing intellectual superiority): I'm in.
-> Voice-over: What is Kant's probability of winning? [Answer with 10000 times the result.]
+> Philosophy of Dice
+> A bar on the outskirts. A small group of people, each with at least one book in hand, is gathered around a table where two patrons are about to play dice. Nietzsche: Plato had determined perfection in the five regular solids. Here they are reproduced in these five dice, each with faces numbered from 1 up to the number of faces. Kant: That's a trivial observation! Schelling: Enough talk! Play! Marx: Roll those dice. Hegel: Enough with the synthesis; a bit of thesis and antithesis! Get to work with those dice! Kant: I'm afraid they're interpreting my imperatives wrongly. Let's follow Aristotle: let's exclude the octahedron, the dodecahedron, and the icosahedron. (Further, vehement protests from those present.) All right: I've had a change of mind. Let's exclude only the icosahedron. Nietzsche: Then we play like this: let's put the other four dice in a bag. You draw two at complete random; I'll take the remaining two. Then, at the same time, we'll roll the dice we've drawn. You win if the sum of the numbers you get by rolling your dice is greater than the sum of the numbers I get by rolling mine. Kant (demonstrating intellectual superiority): I'm in. Off-screen voice: What is Kant's probability of winning? [Answer by multiplying the result by 10,000.]
 
-**Answer:** 4668
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2015#q24|src_gs_2015__Q24]]

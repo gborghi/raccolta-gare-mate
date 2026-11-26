@@ -41,21 +41,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What photo of the fungus was taken on Tuesday*
+*Which photo of the mushroom was taken on Tuesday?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob1.png]]
 
-> A mushroom grows day by day. Licia photographed it every day from Monday to Friday. Which one of these photos was taken on Tuesday? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> A fungus is growing day by day. Licia photographed it every day from Monday to Friday. Which of her photos was taken on Tuesday?
+> A) 	
+>
+> B) 	
+>
+> C) 	
+>
+> D) 	
+>
 > E)
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q01|src_kangourou_2020_ecolier_marzo__Q01]]
 
 
 
@@ -88,19 +93,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which tile completes the mosaic*
+*Which piece completes the mosaic?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob2.png]]
 
-> Which of the following tiles completes the mosaic on the side? A)
-> 	
-> B)
-> 	
-> C) D)
-> 	
+> Which of the following tiles completes the mosaic on the side?
+> A) 	
+>
+> B) 	
+>
+> C)
+> D) 	
+>
 > E)
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q02|src_kangourou_2020_ecolier_marzo__Q02]]
 
 
 
@@ -127,13 +138,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-What shape does Antonio get by shadowing the results?
+*What shape does Antonio obtain by shading the results 20?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob3.png]]
 
-> In each grid cell you see here next to it, an operation is indicated. Antonio shades all cells containing an operation resulting in 20. Which of the following forms does it take? A)                       B)                       C) D)                         E)
+> In each cell of the grid you see here beside it, an operation is indicated. Antonio shades all the cells that contain an operation whose result is 20. Which of the following shapes does he get?
+> A)                       B)                       C) 	
+>            D)                         E)
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q03|src_kangourou_2020_ecolier_marzo__Q03]]
 
 
 
@@ -168,21 +185,26 @@ What shape does Antonio get by shadowing the results?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which square has the largest gray part*
+*Which square has the larger grey part?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob4.png]]
 
-> The squares in the answers have been partially colored grey. In which of them is the colored part greater? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> The squares in the answers have been partially shaded gray. In which one is the shaded portion larger?
+> A) 	
+>
+> B) 	
+>
+> C) 	
+>
+> D) 	
+>
 > E)
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q04|src_kangourou_2020_ecolier_marzo__Q04]]
 
 
 
@@ -228,22 +250,28 @@ What shape does Antonio get by shadowing the results?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of the last cell on which Sonia lands (+3 per jump)*
+*Number of the last cell Sonia lands on (+3 per jump)*
 
 ![[src_kangourou_2020_ecolier_marzo__prob5.png]]
 
-> Sonia uses chalk to draw on the floor the large table you see on the side, then starts jumping from cell to cell. She starts from cell number 1 and follows this rule: with every new jump, she lands in a cell with a number that is 3 units larger than the cell from which she jumped. What's the number in the last cell she can land on? A) 11
-> 	
-> B) 13
-> 	
-> C) 18
-> 	
-> D) 19
-> 	
-> E) 22 16 + 4 2 × 10 40 : 2 16 −4 28 −8 7 × 3
+> Sonia draws with chalk on the floor the large grid you see on the side, then starts jumping from one cell to another. She starts in cell number 1 and follows this rule: with each new jump, she lands in a cell whose number is 3 units greater than the number of the cell from which she took off. What number is in the last cell she can land on?
+> A) 11	
+>
+> B) 13	
+>
+> C) 18	
+>
+> D) 19	
+>
+> E) 22
+> 16 + 4 2 × 10 40 : 2 16 −4 28 −8 7 × 3
 >
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q05|src_kangourou_2020_ecolier_marzo__Q05]]
 
 
 
@@ -274,13 +302,22 @@ What shape does Antonio get by shadowing the results?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure is composed of the six stickers*
+*What shape is formed by the six stickers?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob6.png]]
 
-> With the six stickers you see on the side, you can make different shapes, but only one of the ones you see below. Which one? A) B) C) D) E)
+> With the six stickers you see on the side, you can make various shapes, but only one of the ones you see below. Which one?
+> A) 	
+> B) 	
+> C) 	
+> D)	
+> E)
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q06|src_kangourou_2020_ecolier_marzo__Q06]]
 
 
 
@@ -316,24 +353,26 @@ What shape does Antonio get by shadowing the results?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which sticker is opposite the duckling on the cube*
+*Which sticker is opposite the duckling on the cube?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob7.png]]
 
-> Giorgio glues six stickers with pictures 
-> of animals, each on one face of a cube.
-> The figure on the side shows the cube in two different positions. Which sticker is on the face opposite the one with the duckling?
+> Giorgio sticks six stickers featuring animal images onto the faces of a cube, one on each face. The figure beside here shows the cube in two different positions. Which sticker is on the face opposite the one with the duckling?
 > A) 	
-> 	
+>
 > B) 	
-> 	
+>
 > C)	
-> 	
+>
 > D) 	
-> 	
+>
 > E)
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q07|src_kangourou_2020_ecolier_marzo__Q07]]
 
 
 
@@ -372,21 +411,27 @@ What shape does Antonio get by shadowing the results?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many tiles of different sizes to cover the grid*
+*How many tiles of different sizes are needed to cover the grid?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob8.png]]
 
-> Francesco has the following tiles: He will use some to cover, completely and without overlapping, the grid you see below. If he wants to use as many tiles of different sizes as possible, how many tiles will Francesco use in all? A) 3
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
-> E) 7 Questions from N. 9 to N. 16 are worth 4 points each.
+> Francesco has the following tiles: He will use some of them to cover, completely and without overlaps, the grid you see below. If he wants to use as many tiles of different sizes as possible, how many tiles will Francesco use in total?
+> A) 3	
+>
+> B) 4	
+>
+> C) 5	
+>
+> D) 6	
+>
+> E) 7
+> Questions 9 to 16 are each worth 4 points.
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q08|src_kangourou_2020_ecolier_marzo__Q08]]
 
 
 
@@ -427,22 +472,28 @@ What shape does Antonio get by shadowing the results?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many red regions in the colour of the circle*
+*How many red regions in the coloring of the circle?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob9.png]]
 
-> Cinzia colours each region into which the circle you see is divided by either red or yellow or blue, so that regions that touch each other receive different colours. Cinzia colours the outermost region red; after the entire drawing has been coloured, how many regions are red? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> Cinzia colors each region into which the circle you see beside it is divided either red, yellow, or blue, making sure that touching regions receive different colors. Cinzia colors the outermost region red; after the whole drawing has been colored, how many regions end up colored red?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 >
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q09|src_kangourou_2020_ecolier_marzo__Q09]]
 
 
 
@@ -479,20 +530,23 @@ What shape does Antonio get by shadowing the results?
 <div class="qlang-split" data-lang="en"></div>
 
 
-What image does Luke see looking at the pyramid from above
+*Which picture does Luca see looking down at the pyramid?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob10.png]]
 
-> Luke looks down at the pyramid you see below.
->          
-> 	
-> A)	B)
-> 	
+> Luca looks down at the pyramid shown below. Which of the pictures beside it does he see?
+>
+> A)
+> B)
 > C)
-> 	
-> D) E) Which of the images here on the side do you see?
+> D)
+> E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q10|src_kangourou_2020_ecolier_marzo__Q10]]
 
 
 
@@ -526,13 +580,23 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many bones reaches the tied dog (leash 11m)*
+*How many bones can the dog on an 11 m lead reach?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob11.png]]
 
-> Notice the picture: Daniel tied his dog to a meter from the corner of a rectangular newsstand with sides measuring 7 m and 5 m. The leash is 11 m long. There are 5 bone-shaped toys in the positions you see in the figure: how many of them can be reached by the dog? A) 1 B) 2 C) 3 D) 4 E) 5
+> Look at the picture. Daniele has tied his dog one metre from the corner of a kiosk whose floor is a rectangle with sides 7 m and 5 m. The lead is 11 m long. There are 5 bone-shaped toys in the positions shown. How many of them can the dog reach?
+>
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q11|src_kangourou_2020_ecolier_marzo__Q11]]
 
 
 
@@ -567,13 +631,23 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many poles for a 10-meter-long fence*
+*How many posts for a fence 10 metres long?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob12.png]]
 
-> Martino builds a fence using poles like this, each one a meter long. In the figure, you see a four-meter-long fence. How many poles will Martino use to build a 10-meter-long fence? A) 22 B) 30 C) 33 D) 40 E) 42
+> Martino is building a fence from posts like the one shown, each one metre long. The picture shows a fence 4 metres long. How many posts will Martino use for a fence 10 metres long?
+>
+> A) 22
+> B) 30
+> C) 33
+> D) 40
+> E) 42
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q12|src_kangourou_2020_ecolier_marzo__Q12]]
 
 
 
@@ -608,19 +682,23 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of steps where rabbit and kangaroo meet*
+*On which step do the rabbit and the kangaroo meet?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob13.png]]
 
-> Look at the ladder in the figure: every time the rabbit goes down three steps, the kangaroo goes up seven steps. What's the number of the steps on which they're meeting? A) 53
-> 	
+> Look at the staircase in the picture. Each time the rabbit goes down 3 steps, the kangaroo goes up 7 steps. What is the number of the step on which they meet?
+>
+> A) 53
 > B) 60
-> 	
-> C) 63 D) 70
-> 	
+> C) 63
+> D) 70
 > E) 73
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q13|src_kangourou_2020_ecolier_marzo__Q13]]
 
 
 
@@ -657,20 +735,21 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which is one of the three initial numbers (sum 50, minus x)*
+*Which number is one of the three original numbers?*
 
-> The sum of three numbers is 50. Cristina subtracts the same secret number from each of the three numbers and gets the numbers 24, 13, and 7. Only one of the following is one of the first three numbers. What kind? A) 9
-> 	
-> B) 11
-> 	
-> C) 13
-> 	
-> D) 17
-> 	
-> E) 23
+> The sum of three numbers is 50. Cristina subtracts one and the same secret number from each of them and gets 24, 13 and 7. Only one of the following is one of the three original numbers. Which one?
 >
+> A) 9
+> B) 11
+> C) 13
+> D) 17
+> E) 23
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q14|src_kangourou_2020_ecolier_marzo__Q14]]
 
 
 
@@ -704,17 +783,23 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is the number in the triangle X of the token crown*
+*Which number ends up in the triangle marked X?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob15.png]]
 
-> Amalia wants to build a crown using 10 copies of the token you see on the right and she wants when two tokens share a side the corresponding numbers match. She has already placed 3 tokens with this criterion. Which number will be in the end of the X-denoted triangle? A) 1 B) 2
-> 	
+> Amalia wants to make a wreath from 10 copies of the token shown on the right, so that whenever two tokens share a side the numbers on that side agree. She has already placed 3 tokens in this way. Which number will end up in the triangle marked X?
+>
+> A) 1
+> B) 2
 > C) 3
-> 	
-> D) 4 E) 5
+> D) 4
+> E) 5
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q15|src_kangourou_2020_ecolier_marzo__Q15]]
 
 
 
@@ -751,25 +836,25 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which combination of matchsticks forms a square*
+*Which combination of sticks makes a square?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob16.png]]
 
-> Guido has two types of matchsticks: short ones, which measure 
-> 1 cm each, and long ones, which measure 3 cm each. 
-> With which of the combinations suggested in the answers 
-> can he build a square, without breaking any matchstick, nor overlapping parts of two matchsticks?
-> A) 5 short and 2 long	
-> 	
-> B) 7 short and 3 long	
-> 	
-> C) 6 short 
-> D) 4 short and 2 long	
-> 	
+> Guido has two kinds of sticks: short ones, each 1 cm long, and long ones, each 3 cm long. With which of the combinations in the answers can he build a square, without breaking any stick and without overlapping parts of two sticks?
+>
+> A) 5 short and 2 long
+> B) 7 short and 3 long
+> C) 6 short
+> D) 4 short and 2 long
 > E) 6 long
-> Questions from No. 17 to No. 24 are worth 5 points each
+>
+> Questions 17 to 24 are worth 5 points each.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q16|src_kangourou_2020_ecolier_marzo__Q16]]
 
 
 
@@ -808,21 +893,23 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of dots on the three faces after rolling the dice*
+*Sum of the pips on the three faces marked with question marks*
 
 ![[src_kangourou_2020_ecolier_marzo__prob17.png]]
 
-> If you look at a standard die, you see that for each of the three pairs of opposite faces, the total number of dots on the two opposite faces is 7. The drawing shows a standard die that was placed in the first box of a six-box strip and then rolled right along the strip. When the die reaches the last box, what will be the total number of dots on the three faces indicated by question marks? A) 6
-> 	
+> On a standard die, the pips on each pair of opposite faces add up to 7. The drawing shows a standard die placed on the first cell of a strip of six cells; it is then rolled to the right along the strip. When the die reaches the last cell, what is the total number of pips on the three faces marked with question marks?
+>
+> A) 6
 > B) 7
-> 	
 > C) 9
-> 	
 > D) 11
-> 	
 > E) 12
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q17|src_kangourou_2020_ecolier_marzo__Q17]]
 
 
 
@@ -885,16 +972,24 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which combination of ice cream and decoration is NOT possible*
+*Which ice-cream and topping cannot occur?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob18.png]]
 
-> Six friends order a ball of ice cream each. They order three vanilla balls, two chocolate balls and a lemon ball. On top of each ice cream is a decoration chosen from a box containing 3 cherries, 2 wafers and 1 chocolate and the choice is made so that each ice cream, once decorated, can be distinguished from each other. Which of the following combinations is NOT possible? A) Chocolate ice cream with cherry. B) Vanilla ice cream with cherry. C) Lemon ice cream with wafers.
-> 	
-> D) Chocolate ice cream with wafers. E) Vanilla ice cream with chocolate. 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 X   
+> Six friends each order one scoop of ice cream. Altogether they order 3 scoops of vanilla, 2 of chocolate and 1 of lemon. On top of each ice cream there is a decoration taken from a box of 3 cherries, 2 wafers and 1 chocolate, chosen so that every decorated ice cream can be told apart from each of the others. Which of the following combinations is NOT possible?
 >
+> A) Chocolate ice cream with a cherry.
+> B) Vanilla ice cream with a cherry.
+> C) Lemon ice cream with a wafer.
+> D) Chocolate ice cream with a wafer.
+> E) Vanilla ice cream with a chocolate.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q18|src_kangourou_2020_ecolier_marzo__Q18]]
 
 
 
@@ -928,22 +1023,27 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Names of the three girls (triples with one correct name)*
+*What are the three girls' names, in order?*
 
-> You must guess the names of three girls sitting on a bench, in the order in which
-> they are sitting. You know that in each of the following triples of names
+> You have to guess the names of three girls sitting on a bench, in the order in which they are sitting. You know that in each of the following triples exactly one name is correct, and it is in the right position.
+>
 > Chiara, Elisa, Rosa
 > Chiara, Laura, Maria
 > Anna, Laura, Rosa
-> only one name is correct and it is in the correct position.
-> What are, in order, the names of the three girls sitting on the bench?
-> A) Anna, Elisa, Maria	
-> B) Anna, Laura, Maria	
+>
+> What are the names of the three girls on the bench, in order?
+>
+> A) Anna, Elisa, Maria
+> B) Anna, Laura, Maria
 > C) Chiara, Laura, Rosa
-> D) Chiara, Elisa, Maria	
+> D) Chiara, Elisa, Maria
 > E) Anna, Laura, Rosa
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q19|src_kangourou_2020_ecolier_marzo__Q19]]
 
 
 
@@ -982,21 +1082,23 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number covered by the circle (sum of triangles and squares)*
+*What number is covered by the circle?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob20.png]]
 
-> The teacher wrote the numbers from 1 to 8 on the board, then covered them with geometric shapes: triangles, squares, and a circle. Adding the four numbers covered by the triangles you get 10, adding the three numbers covered by the squares you get 20; what's the number covered by the circle? A) 3
-> 	
+> The teacher wrote the numbers from 1 to 8 on the board, then covered them with shapes: triangles, squares and one circle. The four numbers under the triangles add up to 10, and the three numbers under the squares add up to 20. What is the number covered by the circle?
+>
+> A) 3
 > B) 4
-> 	
 > C) 5
-> 	
 > D) 6
-> 	
 > E) 7
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q20|src_kangourou_2020_ecolier_marzo__Q20]]
 
 
 
@@ -1034,21 +1136,24 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many other differently coloured parrots*
+*How many other parrots can be coloured differently?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob21.png]]
 
-> Gianna has some pictures of parrots. She only wants to paint the head, tail, and wings of each parrot red, blue, or green so that all three colors appear on each parrot. She colours a parrot's head red, wings green, and tail blue. How many other parrots can you color so they're all different colors? A) 2
-> 	
+> Gianna has some pictures of parrots. She wants to colour only the head, the tail and the wings of each parrot red, blue or green, so that all three colours appear on every parrot. She colours one parrot's head red, its wings green and its tail blue. How many other parrots can she colour so that they are all coloured differently?
+>
+> A) 2
 > B) 4
-> 	
 > C) 5
-> 	
 > D) 6
-> 	
 > E) 9
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q21|src_kangourou_2020_ecolier_marzo__Q21]]
 
 
 
@@ -1081,19 +1186,22 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many teams in the field (5 or 6 members, 43 people)*
+*How many teams are at the camp?*
 
-> Some teams participate in a Kangourou summer camp. Each team is made up of five or six members and there are 43 people in total. How many teams are there on the field? A) 4
-> 	
+> Some teams are taking part in a Kangourou summer camp. Each team has 5 or 6 members, and there are 43 people in all. How many teams are at the camp?
+>
+> A) 4
 > B) 6
-> 	
 > C) 7
-> 	
 > D) 8
-> 	
 > E) 9
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q22|src_kangourou_2020_ecolier_marzo__Q22]]
 
 
 
@@ -1128,21 +1236,23 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which key is not cut into three equal parts of 5 squares*
+*Which key cannot be cut into three different pieces of five squares?*
 
 ![[src_kangourou_2020_ecolier_marzo__prob23.png]]
 
-> Which of the following  keys cannot be cut into three different pieces each composed of five gray squares? A)
-> 	
+> Which of the following "keys" cannot be cut into three pieces, all different from one another, each made up of five grey squares?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q23|src_kangourou_2020_ecolier_marzo__Q23]]
 
 
 
@@ -1176,10 +1286,19 @@ What image does Luke see looking at the pyramid from above
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most of the KAN-ROO+GA results with distinct figures*
+*What is the greatest value of KAN − ROO + GA?*
 
-> Anna replaces the letters in the expression KAN  ROO + GA with digits chosen from 1 to 9: equal letters with equal numbers, different letters with different numbers. Then calculate the result. What's the best result you can get? A) 933 B) 939 C) 941 D) 942 E) 948
-> 
-> Number of replies
+> Anna replaces the letters in the expression KAN – ROO + GA with digits chosen from 1 to 9: the same letter always with the same digit, different letters with different digits. She then works out the value. What is the greatest result she can obtain?
+>
+> A) 933
+> B) 939
+> C) 941
+> D) 942
+> E) 948
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2020_ecolier_marzo#q24|src_kangourou_2020_ecolier_marzo__Q24]]

@@ -37,11 +37,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*residues mod 25 and 15, divisible by 25cl*
+*Number of 25-centilitre bottles, given remainders modulo 25 litres and 15 litres, and bounds on the amount*
 
-> The British Cantorax needs a large amount of magic potion to save his village from the Romans. Parabolix has prepared some of it on its own, and it has to be bottled. She has containers of varying sizes available, but she wants to put the potion in containers all equal to each other. Initially, he tries to use 25-litre containers, but he gets one-litre. Then he tries with the 15-liter containers, but this time they're 6 liters ahead. Finally, he decides to put the potion in 25-centimeter bottles and, of course, manages not to push the potion forward. Knowing that Parabolix produced less than 500 liters of potion and used more than 1,500 bottles, what is the exact number of bottles used?
+> The magic potion
+> The Briton Cantorax needs a large quantity of magic potion to save his village from the Romans. Parabolix has prepared as much as he wants, and has to bottle it. He has containers of various sizes at his disposal, but he wants to put the potion into containers that are all the same. He first tries vessels of 25 litres, but he has 1 litre left over. He then tries vessels of 15 litres, but this time he has 6 litres left over. Finally he decides to put the potion into little bottles of 25 centilitres, and of course he manages to have none left over. Knowing that Parabolix produced less than 500 litres of potion and that he used more than 1500 bottles, what is the exact number of bottles used?
 
-**Answer:** 1704
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2011_finale#q01|src_cesenatico_2011_finale__Q01]]
 
 
 
@@ -69,11 +74,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-The remaining k of the sum 1!+...+2011! This item is intended to provide information on:
+*Remainder k when 1! + 2! + … + 2011! is divided by 576*
 
-> The bardo Assuranceturing has composed a new ballad to celebrate the departure for Britain. Since he loves to overdo it, instead of the classic stanza 44 Galli in line for 6 with the rest of 2 he decided to sing 1!+2!+3!+4!+··+2011! Britons in line for 576 with the rest of the k. Obviously, he's tied up and beaten up before he can finish, and Borelix wonders, who knows what the value of k would have been?
+> The bard's song
+> The bard Assuranceturing has composed a new ballad to celebrate the departure for Britain. Since he loves to overdo things, instead of the classic verse "44 Gauls in rows of 6 with remainder 2" he has decided to sing "1!+2!+3!+4!+··+2011! Britons in rows of 576 with remainder k". He is of course tied up and gagged before he can finish, and Borelix wonders: what would the value of k have been?
 
-**Answer:** 0153
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2011_finale#q02|src_cesenatico_2011_finale__Q02]]
 
 
 
@@ -104,11 +114,20 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*missing copper parts*
+*How many copper pieces Abelix still needs to match one iron ingot; the exchange rates are a broken extraction*
 
-> On the boat to Britannia, when Abelix asks him for information about the type of coins used in his country, Cantorax replies: It's very simple! We have iron bars worth 3 sesterces and 12 plus 4 pieces of zinc. Zinc pieces, on the other hand, are worth 1 piece and 12 pieces of copper. In addition, to make a sester, it takes 12 pieces of bronze or, alternatively, 6 pieces and 12 pieces of copper.  If Abelix already has 18 pieces of bronze, how many pieces of copper does it need to reach the value of an iron barrel?
+> The Britons' coins I
+> On the boat to Britain, when Abelix asks him what sort of coins are used in his land, Cantorax replies: "It's very simple! We have iron ingots worth 3 sesterces and 1
+> 2 plus 4
+> pieces of zinc. Zinc pieces, on the other hand, are worth 1 piece and 1
+> 2 of copper. Moreover, to make one sesterce
+> one needs 12 pieces of bronze or, alternatively, 6 pieces and 1
+> 2 of copper." If Abelix already has 18 pieces of bronze, how many pieces of copper does he still need in order to reach the value of one iron ingot?
 
-**Answer:** 0019
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+
+[[Quesiti/src_cesenatico_2011_finale#q03|src_cesenatico_2011_finale__Q03]]
 
 
 
@@ -138,11 +157,16 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ten-digit lines with five blocks of two prime numbers*
+*Maximum number of distinct orders of 10 legionaries in which each of the five 2-digit blocks is prime*
 
-> The Roman legion threatening the village of Cantorax is organized into many ranks of 10 legionaries each. In each row the legionaries are numbered from 0 to 9 and are one next to the other not necessarily in order. In fact, the centurion is superstitious, and he has demanded that each line be in a different order and that all have the property that by dividing the 10 legionaries of the line into 5 2-digit blocks each and lightening each 2-digit block as if it were a number (it is allowed to write 02, which simply means 2), you get 5 prime numbers. Determine how many legions the legion is made up of.
+> Primes in a line
+> The Roman legion threatening Cantorax's village is organised in many ranks of 10 legionaries each. In each rank the legionaries are numbered from 0 to 9 and stand side by side, not necessarily in order. The centurion is superstitious, and he has insisted that every rank be in a different order and that all of them have the property that, if the 10 legionaries of the rank are divided into 5 blocks of 2 digits each and each block of 2 digits is read as a number (the writing 02 is allowed, and it simply means 2), one obtains 5 prime numbers. Determine the maximum number of ranks the legion can consist of.
 
-**Answer:** 0960
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2011_finale#q04|src_cesenatico_2011_finale__Q04]]
 
 
 
@@ -175,13 +199,16 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular diagonal with cyclic ABPD*
+*Length, in millimetres, of the diagonal of a rectangle with an external equilateral triangle, BC = 45 cm, and ABPD concyclic*
 
-> Meanwhile, in Armorica, a curious symbol, unknown to the Gauls, was found on a menhir. This is formed by an ABCD rectangle and an equilateral CDE triangle constructed externally to the rectangle on the CD side. Parabolix decides to analyze it, and he calls P the center of the triangle. So he finds that the smaller side of BC measures 45 centimeters, and that the ABPD points are on the same circumference. How many millimeters does the diagonal of the rectangle measure? Team competition 2011  National final  Problem texts  1/3
-> 
-> 2/3 Team competition 2011  National final  Problems text
+> A mysterious symbol
+> Meanwhile, in Armorica, a curious symbol, unknown to the Gauls, has been found on a menhir. It consists of a rectangle ABCD and an equilateral triangle CDE built externally to the rectangle on the side CD. Parabolix decides to examine it, and he calls P the centre of the triangle. He thus discovers that the shorter side BC measures 45 centimetres, and that the points A, B, P and D lie on the same circle. How many millimetres long is the diagonal of the rectangle?
 
-**Answer:** 0900
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2011_finale#q05|src_cesenatico_2011_finale__Q05]]
 
 
 
@@ -208,11 +235,16 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*value first day*
+*How many boars Borelix ate on the first day, if each day he eats 1 more than 2/3 of the previous day, and on the ninth day he eats 259*
 
-> In Britain, wild boars are scarce, and so Borelix had to go on a diet: he eats one boar a day more than two-thirds of the number of boars he had eaten the day before. Knowing that on the ninth day of his stay on the island he eats only 259 boars, how many had he eaten on the first day?
+> A strict diet
+> In Britain wild boar are scarce, and so Borelix has had to go on a diet: every day he eats 1 boar more than 2/3 of the number of boars he had eaten the day before. Knowing that on the ninth day of his stay on the island he eats only 259 boars, how many had he eaten on the first day?
 
-**Answer:** 6564
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2011_finale#q06|src_cesenatico_2011_finale__Q06]]
 
 
 
@@ -241,11 +273,16 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eta n<300 with non-divisive digits and property*
+*The age n < 300 whose digits are zeros or do not divide n, and such that n − 7 has only the prime divisors 7 and the first digit of n*
 
-> The birthday of old Math-usa-lemmix The birthday of old Math-usa-lemmix, the most enviable man in the village (because of his wife), little Eallaix turns 7 years old. When the child asks the old man how old he is, he answers, "My age is a positive integer n, less than 300, whose digits are either zero or otherwise do not divide n and such that, if you subtract your age from it, it becomes a number that as prime divisors has only 7 and the first digit of n. What's the age of the old Math-use-lemmix?
+> Old Math-usa-lemmix's birthday
+> On the birthday of the elderly Math-usa-lemmix, the most envied man in the village (on account of his wife), little Eallaix turns 7. When the child asks the old man his age, he replies: "My age is a positive integer n, less than 300, whose digits are either zeros or, in any case, do not divide n, and such that, if you subtract your age from it, it becomes a number whose only prime divisors are 7 and the first digit of n." What is old Math-usa-lemmix's age?
 
-**Answer:** 0203
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2011_finale#q07|src_cesenatico_2011_finale__Q07]]
 
 
 
@@ -273,11 +310,17 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability sum of 7 dice > 24*
+*Probability that the sum of 7 dice is strictly greater than 24; give the first 4 digits after the decimal point*
 
-> An assuranceturing bardo, because he can't sing in public without ending up tied up like a salami, locks himself in his cabin playing dice. If he throws 7 Roman dice (common dice with 6 faces numbered from 1 to 6), what is the probability that the sum of the outcome values is strictly greater than 24? As a response, provide the first four digits after the comma.
+> A symphony of dice
+> The bard Assuranceturing, seeing that he cannot sing in public without ending up tied up like a salami, stays shut in his hut playing dice. If he rolls 7 Roman dice (ordinary dice with 6 faces numbered from 1 to 6), what is the probability that the sum of the values shown is strictly greater than 24?
+> As the answer, give the first 4 digits after the decimal point.
 
-**Answer:** 5000
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2011_finale#q08|src_cesenatico_2011_finale__Q08]]
 
 
 
@@ -308,11 +351,16 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Turned distance from D (cart and decuman)*
+*Distance from D to the turret where the cardo meets the wall; area of PCD is 10000 cubiti2*
 
-> The Roman camp The Roman legion camp in Britannia is a rectangle ABCD of sides BC = 100 cubits and CD = 400 cubits. Unfortunately, due to an error caused by the confusion between British and Roman cubes, the camp was poorly oriented, as the card and the decuman, the two roads that mark the north-south and east-west axes, respectively, start from C and D and are not parallel to the sides of the rectangle. These two roads meet at a point P closer to C than to D and we know that the area of PCD is 10000 cubits2. Also, where the Cardo reaches the perimeter walls, there is a tower. How many cubits away is the tower from point D? (To avoid further damage, all the data on the problem is in Roman cubes.)
+> The Roman camp
+> The camp of the Roman legion in Britain is a rectangle ABCD with sides BC = 100 cubits and CD = 400 cubits. Unfortunately, because of a mix-up between British cubits and Roman cubits, the camp has been badly oriented: the cardo and the decumanus, the two roads that mark the north–south and east–west axes, start from C and from D respectively and are not parallel to the sides of the rectangle. These two roads meet at a point P closer to C than to D, and the area of PCD is 10000 cubiti2. Moreover, where the cardo comes to meet the perimeter walls, a turret stands. How many cubits is the turret from the point D? (To avoid further damage, all the data of the problem are in Roman cubits.)
 
-**Answer:** 0400
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2011_finale#q09|src_cesenatico_2011_finale__Q09]]
 
 
 
@@ -340,11 +388,16 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to pay 2011 bullion with bronze and copper*
+*Ways to pay 2011 iron ingots with bronze pieces and copper pieces only, with no change*
 
-> In Britannia, a strange game played between two teams, using balls, clubs and small arrows, is fashionable. Tickets to the final between Londinium and Cambridge cost 2011 bars. How many different ways, using only pieces of bronze and pieces of copper, can Cantorax pay for a ticket without having to receive the rest?
+> The Britons' coins II
+> In Britain a strange game is in fashion, played between two teams, using balls, bats and little hoops stuck in the ground. The ticket to watch the grand final between Londinium and Cambridges costs 2011 iron ingots. (For the equivalences between the pieces, see Problem 3.) In how many different ways, using only bronze pieces and copper pieces, can Cantorax pay for a ticket without having to receive change?
 
-**Answer:** 4448
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2011_finale#q10|src_cesenatico_2011_finale__Q10]]
 
 
 
@@ -375,11 +428,16 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2 prime and 1 perfect square*
+*Product of the greatest elements of all triples of consecutive integers of which two are prime and one is a perfect square*
 
-> Meanwhile, in Armorica, the old Math-usa-lemmix tells the villagers the tale of Cappuccettix and the bad Roman: ...the mother had given her the basket to bring to the sick Grandmother Galla, full of so many delights: chocolateLatinix, Gallinix and Crostate to the MarmelLatinix. But age plays bad jokes and the watchman no longer remembers exactly how many of these gifts were! All you know is that they were 3 consecutive integers, of which 2 were prime numbers and 1 was a perfect square. Little Leibnix, very clever, suggests to him what all the possible threads of these numbers are. How much is the product of the main elements of all these terns worth?
+> The three delicacies
+> Meanwhile, in Armorica, old Math-usa-lemmix is telling the children of the village the tale of Cappuccettix and the wicked Roman: "...her mother had given her the basket to take to her sick Granny Galla, full of so many delicacies: cioccoLatinix, Gallinix and tarts with MarmelLatinix". But age plays nasty tricks, and the old man no longer remembers precisely how many there were of each of these gifts! He knows only that they were 3 consecutive integers, of which 2 were prime numbers and 1 a perfect square. Little Leibnix, very sharp, suggests to him all the possible triples of such numbers. What is the product of the greatest elements of all these triples?
 
-**Answer:** 0060
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2011_finale#q11|src_cesenatico_2011_finale__Q11]]
 
 
 
@@ -413,13 +471,16 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of wholly yellow fish*
+*Probability that a fish showing a yellow side is completely yellow; give the first 4 digits after the decimal point*
 
-> Fresh fish from Lutezia! The fishing shop in the village of Lessicografix received a particularly poor batch of fish from Lutezia, so much so that these fish are red, yellow, blue, green... But often they are one color on one side and another on the other (while the individual sides are monochrome). The children of the village made fun of him, stealing 13 fish to hide them: 2 red and green, 3 green and blue, 2 yellow and blue, 3 yellow and red, 1 yellow and green and 2 completely yellow. Lessicografix, looking for his fish, sees the yellow side of a fish emerge from a bush not far away: what is the probability that the fish is completely yellow? As a response, provide the first four digits after the comma.
-> 
-> Team competition 2011  National final  Problem texts 3/3 A less difficult mission in Egypt
+> Fresh fish from Lutetia!
+> The fishmonger of the village, Lessicografix, has received a particularly poor consignment of fish from Lutetia, so poor that these fish are red, yellow, blue, green... but often one colour on one side and another on the other (while each single side is of one colour). The children of the village have played a trick on him, stealing 13 fish to hide: 2 red and green, 3 green and blue, 2 yellow and blue, 3 yellow and red, 1 yellow and green, and 2 completely yellow. Lessicografix, looking for his fish, sees the yellow side of a fish poking out of a nearby bush: what is the probability that the fish is completely yellow?
+> As the answer, give the first 4 digits after the decimal point.
 
-**Answer:** 4000
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+
+[[Quesiti/src_cesenatico_2011_finale#q12|src_cesenatico_2011_finale__Q12]]
 
 
 
@@ -447,11 +508,16 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*multiply by 3,4,5 on different bases*
+*Maximum digit-sum of a 1000-digit string, digits 0 to 8, multiple of 3 in base 10, of 4 in base 9 and of 5 in base 11*
 
-> A message from Egypt The code message Numerotris uses to ask friends from Wales to reach him in Egypt is a long sequence of 1000 digits between 0 and 8. To decode it, Parabolix notes that this number, read at base 10 is multiple of 3, read at base 9 is multiple of 4, and read at base 11 is multiple of 5. How much is the sum of the numbers on the paper worth at most?
+> A message from Egypt
+> The coded message by which Numerotris asks his Gaulish friends to join him in Egypt is a long sequence of 1000 digits, each between 0 and 8. To decode it, Parabolix notes that this number, read in base 10, is a multiple of 3, read in base 9 is a multiple of 4, and read in base 11 is a multiple of 5. What is the greatest possible sum of the digits written on the sheet?
 
-**Answer:** 7980
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2011_finale#q13|src_cesenatico_2011_finale__Q13]]
 
 
 
@@ -479,11 +545,17 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*MCD probability = 1 of two divisors of 12!*
+*Probability that Abelix wins, when two divisors of 12! are chosen independently and he wins unless their highest common factor is 1*
 
-> Abelix and Borelix invented a new game to pass the time before leaving for Egypt. Whenever they put out a patrol of Roman soldiers, they ask two of them to choose randomly, each independently, a divisor of 12!; if the two numbers have a maximum common divisor equal to 1, Borelix wins, otherwise Abelix wins. What are the odds of Abelix winning? As a response, provide the first four digits after the comma.
+> Abelix and Borelix's pastime
+> Abelix and Borelix have invented a new game to pass the time before setting off for Egypt. Whenever they put a patrol of Roman soldiers out of action, they ask two of them to choose at random, each independently, a divisor of 12!; if the two numbers have highest common factor equal to 1, Borelix wins, otherwise Abelix wins. What is Abelix's probability of winning?
+> As the answer, give the first 4 digits after the decimal point.
 
-**Answer:** 9834
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2011_finale#q14|src_cesenatico_2011_finale__Q14]]
 
 
 
@@ -513,11 +585,16 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum time broken to two orthogonal lines*
+*Minutes taken by the slowest approach in two orthogonal legs, at 1/4 and 1/8 of a mile per hour, to a ship 1 mile away*
 
-> Near the time of the pennyshell, pirates spotted a ship stationed in the middle of the Mediterranean, a mile away. Tosto, they're going to plunder her. However, in fear that (by chance) it will be populated by the usual Gauls, they proceed with extreme caution. Their approach route consists of two straight lines, orthogonal to each other, the first at 1/4 mile per hour, the second at 1/8 mile per hour. Moreover, of all the routes of this kind, they choose the slowest. How many minutes will it take the pirate ship to intercept each other (where, of course, the usual Gauls are crushing a little bit)?
+> At breakneck speed
+> At about the hour of the afternoon nap, the pirates have sighted a ship lying still in the middle of the Mediterranean, 1 mile away from them. They make straight for it, to plunder it. However, fearing that (to crown their misfortune) it may be populated by the usual Gauls, they advance with extreme caution. Their approach consists of two straight legs, orthogonal to each other, the first at 1/4 of a mile per hour, the second at 1/8 of a mile per hour. Moreover, among all routes of this kind, they choose the slowest. How many minutes will the pirates' ship take to intercept the other (where, of course, the usual Gauls are having a nap)?
 
-**Answer:** 0536
+**Topic:** [[topic_geometria_analitica|Analytic geometry]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2011_finale#q15|src_cesenatico_2011_finale__Q15]]
 
 
 
@@ -548,11 +625,16 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between Cleopatra and snake in trapezoid inscribed*
+*Distance from Cleopatra to the snake, the ends of the shorter base of an isosceles trapezium inscribed in a circle*
 
-> Galli, come from far away. . . ...to suffocate me with hatred, I will be able to show you how a queen dies. To me the serpent!, Cleopatra exclaims as Abelix and the others enter the throne room. However, the Aspide is not within reach: Cleopatra and the serpent are at the extremes of the lower base of an isosceles trapezius. Abelix and Borelix are at the extremes of the major base, which is also the diameter of the circumference into which the trapezoid is inscribed. Knowing that the distance between Abelix and Borelix is 400 cleopasses (a unit of measurement determined by the length of Cleopatra's legs), the distance between Abelix and Cleopatra is 100 cleopasses as that between Borelix and the snake, what is the distance between Cleopatra and the snake?
+> "Gauls, come from afar. . .
+> ...to smother me with hatred, I shall show you how a queen dies. Bring me the snake!", cries Cleopatra when Abelix and the others enter the throne room. But the asp is not within reach: Cleopatra and the snake are at the ends of the shorter base of an isosceles trapezium. Abelix and Borelix are at the ends of the longer base, which is also the diameter of the circle in which the trapezium is inscribed. Knowing that the distance between Abelix and Borelix is 400 cleopassi (a unit of length determined by the length of Cleopatra's legs), and that the distance between Abelix and Cleopatra is 100 cleopassi, as is that between Borelix and the snake, what is the distance between Cleopatra and the snake?
 
-**Answer:** 0350
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2011_finale#q16|src_cesenatico_2011_finale__Q16]]
 
 
 
@@ -583,11 +665,17 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three athletes side by side for the first time*
+*Seconds until Abelix, Velocipedos and Dopatus are side by side again for the first time*
 
-> Fatigue I, Velocipedos from Marathon Abelix and Borelix want to help Cleopatra defeat Julius Caesar, but she doesn't believe them and puts them under the terrible Fatiches. If they overcome them with the grace of the gods, they'll have the Queen's too. Fatica I is a 200-lap race on the track. Abelix, the Greek champion Velocipedos and the Roman champion Dopatus are taking part. On the way, they all start together from the same point on the track, running counter-clockwise at a constant speed. Abelix takes 120 seconds, Velocipedos 75 seconds and Dopatus (who secretly stole and drank some magic potion and will be disqualified after arrival) only 57 seconds. How many seconds from the start will all three athletes be back side by side for the first time?
+> The First Labour: Velocipedos of Marathon
+> Abelix and Borelix want to help Cleopatra defeat Julius Caesar, but she does not believe them and sets them the terrible Labours. If they overcome them with the favour of the gods, they will have the queen's favour too.
+> The First Labour is a running race, 200 laps of the track. Abelix takes part, together with the Greek champion Velocipedos and the Roman champion Dopatus.
+> At the start they all set off together from the same point of the track, running anticlockwise at constant speed. Abelix takes 120 seconds to complete a lap, Velocipedos 75 seconds, and Dopatus (who has secretly stolen and drunk a little of the magic potion, and will be disqualified after the finish) only 57 seconds. How many seconds after the start will the three athletes next be all side by side for the first time?
 
-**Answer:** 3800
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2011_finale#q17|src_cesenatico_2011_finale__Q17]]
 
 
 
@@ -616,11 +704,16 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square-base pyramid cubes (portal)*
+*Maximum number of 5-cleopasso cubes in a pyramid of base 120 and height 120, with apex 131 and 143 from two consecutive base vertices*
 
-> The first pyramid that Cleopatra felt the need for is in fact an immense treasure chest. The pyramid has a square side base of 120 cleopasses and a height of 120 cleopasses. Its summit is not equidistant from the vertices of the base square: in fact, it is located 131 and 143 cleopasses from two consecutive vertices. Within the volume of the pyramid, as many compartments as possible have been created, each of which is cubic in shape and has a side of 5 cleopasses. How many are in all the compartments of Cleopatra's vault?
+> Cleopatra's jewel case
+> The first pyramid Cleopatra felt the need of is in fact an immense jewel case. The pyramid has a square base of side 120 cleopassi and height 120 cleopassi. Its apex is not equidistant from the vertices of the base square: it lies at distances 131 and 143 cleopassi from two consecutive such vertices. Inside the volume of the pyramid the greatest possible number of compartments has been made, each cubic in shape and of side 5 cleopassi. How many compartments are there in all in Cleopatra's jewel case?
 
-**Answer:** 4324
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2011_finale#q18|src_cesenatico_2011_finale__Q18]]
 
 
 
@@ -653,13 +746,17 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of not detecting saboteurs (interrogators)*
+*Probability that Abelix finds none of the 4 saboteurs, stopping when he has found all 4 spies among 44 workers*
 
-> 4 Roman spies and 4 saboteurs of the architect who lost the contract infiltrated the construction site of Numerotris. Abelix has heard of the 4 spies (though he doesn't know who they are) but not the saboteurs and starts questioning all 44 workers at the site in random order. If he finds a spy or a saboteur, he'll find out for sure, but once you find all four, he stops questioning. What's the probability that he won't find out any of the saboteurs? As a response, provide the first four digits after the comma.
-> 
-> 4/3 Team competition 2011  National final  Problem texts
+> Sabotage on the building site
+> On Numerotris's building site 4 Roman spies and 4 saboteurs working for the architect who lost the contract have infiltrated. Abelix has learnt of the 4 spies (though he does not know who they are) but not of the saboteurs, and he begins to question all 44 workers on the site in random order. If he finds a spy or a saboteur he is sure to discover them, but once he has found all 4 spies he stops the questioning. What is the probability that he does not discover even one of the saboteurs?
+> As the answer, give the first 4 digits after the decimal point.
 
-**Answer:** 0142
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+
+[[Quesiti/src_cesenatico_2011_finale#q19|src_cesenatico_2011_finale__Q19]]
 
 
 
@@ -693,11 +790,18 @@ The remaining k of the sum 1!+...+2011! This item is intended to provide informa
 <div class="qlang-split" data-lang="en"></div>
 
 
-It's likely to return to office 73 (shift)
+*Probability of ending up back at office 73 after following the clerks' slips 1000 times; first 4 digits after the decimal point*
 
-> La II Fatica, the house that drives Abelix crazy to overcome one of the Fatica imposed by Cleopatra, must get an A-38 passport issued from office 73, at the palace of the Roman prefect, where the mad bureaucracy forces him to turn from one to the other of the 100 offices there (numbered 1 to 100). In fact, the prefect had previously prepared a day with tickets numbered from 1 to 100 and had one drawn from each office. Whenever Abelix asks an office for a document, the employees explain that he needs another document first, to be obtained at another office whose number they read from the ticket. Abelix regularly starts from asking for the A-38 passport at the 73 office and for a while follows the instructions, but after 1000 times he is discouraged and decides to go to the tough manners with the employees of the office in front of him. What are the odds that I'll end up getting into trouble with the very employees of office 73? As a response, provide the first four digits after the comma.
+> The Second Labour: the house that drives you mad
+> To overcome another of the Labours imposed by Cleopatra, Abelix must get a pass A-38 issued by office 73, in the palace of the Roman prefect, where the mad bureaucracy forces him to go from one to another of the 100 offices there (numbered from 1 to 100). In fact the prefect has previously prepared an urn with slips numbered from 1 to 100, and has had one drawn by each office. Every time Abelix asks an office for a document, the clerks explain that he first needs another document, to be obtained from another office, whose number they read off the slip.
+> Abelix duly starts by asking office 73 for pass A-38, and for a while he follows the directions; but after 1000 times he gets fed up and decides to get rough with the clerks of the office he finds himself in front of. What is the probability that he ends up taking it out precisely on the clerks of office 73?
+> As the answer, give the first 4 digits after the decimal point.
 
-**Answer:** 1100
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2011_finale#q20|src_cesenatico_2011_finale__Q20]]
 
 
 
@@ -733,11 +837,19 @@ It's likely to return to office 73 (shift)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last two whole-digit digits of x^2011*
+*Last two digits of the integer part of x2011, where x is the unique positive real root of x2 −29x −10 = 0*
 
-> Word of order! Like the other high-ranking Roman spies, the infidel Duetrecinquesette has a very powerful portable abacus at his disposal that allows him to make very difficult calculations in a short time. The Romans use it to increase the security of the secret services: before opening up to anyone, the sentry asks them to do very complicated operations to verify if they have the Abacus. Abelix put in two, but the baby's broken. The Rooster then experiments with an elisir of intelligence and tries to infiltrate. Who goes there? The sentry whispers. So Duetrecinquesettete answers Abelix with an unlikely Latin accent. Tell me then: if x is the only positive real solution of x2 −29x −10 = 0, what is x2011 worth? asks the sentinel. Abelix ready answers It's too big a number to say out loud and it's not even whole! The sentry doesn't surprise itself and says, "Then take the whole part and then tell me the last two digits of the number you get. It will be better for you not to be mistaken! What should Abelix answer the sentry?
+> Password!
+> The treacherous Duetrecinquesettete, like the other high-ranking Roman spies, has a very powerful portable abacus that lets him do extremely hard calculations in a short time. The Romans use it to increase the security of the secret services: before opening the door to anyone, the sentry asks them to carry out very complicated operations, to check whether they have the abacus.
+> Abelix has knocked Duetrecinquesettete out, but the abacus is broken. The Gaul then tries an elixir of intelligence and attempts to slip in.
+> "Who goes there!" whispers the sentry. "I'm Duetrecinquesettete," replies Abelix, in an improbable Latin accent. "Tell me, then: if x is the unique positive real solution of x2 −29x −10 = 0, what is x2011?" asks the sentry. Abelix answers at once: "It's too big a number to say out loud, and it ain't even a whole number!" The sentry is not caught out, and replies: "Then take the integer part, and tell me the last two digits of the number you get. It had better be that you don't get it wrong!"
+> What must Abelix answer the sentry?
 
-**Answer:** 0019
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2011_finale#q21|src_cesenatico_2011_finale__Q21]]
 
 
 
@@ -774,11 +886,23 @@ It's likely to return to office 73 (shift)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of spies among workers (cyclical claims)*
+*How many Roman spies are among 11808 workers, from a cyclic pattern of true and false statements about Egyptians and workers*
 
-> Work on Cleopatra's monument has been accelerated and now there are the beauty of 11808 workers, many of whom are feared to have infiltrated Roman spies. When Abelix asks each of the sixteen workers to say what they know, he gets in the order the answers: among us there is at least 1 Egyptian, among us there are at least 2 Egyptians, among us there are less than 3 Egyptians, the construction site workers are at least 4, the construction site workers are at least 5, the construction site workers are less than 6, and continuing the seventh as the first, the eighth as the second and so on, with the difference that the last worker speaks of Egyptians or n workers. Clearly the Egyptians will always tell him the truth while the Roman spies will always lie to him. How many Roman spies are infiltrated as workers? (It is understood that true Egyptians are never spies.)
+> The building site in chaos
+> Work on the construction of Cleopatra's monument has sped up, and there are now fully 11808 workers, among whom it is feared that many Roman spies have infiltrated. When Abelix asks each of the self-styled workers to say what he knows, he obtains, in order, the replies:
+> "among us there is at least 1 Egyptian",
+> "among us there are at least 2 Egyptians",
+> "among us there are fewer than 3 Egyptians",
+> "the workers on the site are at least 4",
+> "the workers on the site are at least 5",
+> "the workers on the site are fewer than 6",
+> and so on, the seventh like the first, the eighth like the second, and so forth, with the difference that the nth worker speaks of n Egyptians or n workers. Clearly the Egyptians will always tell him the truth, while the Roman spies will always lie to him. How many Roman spies have infiltrated as workers? (It is understood that genuine Egyptians are never spies.)
 
-**Answer:** 4723
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2011_finale#q22|src_cesenatico_2011_finale__Q22]]
 
 
 
@@ -808,11 +932,16 @@ It's likely to return to office 73 (shift)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Wall perimeter around pyramids (geodetic)*
+*Perimeter of the wall around a right square pyramid with equilateral faces of side 100, so that the apex is 200 cleopassi away and no less*
 
-> Cleopatra's true pyramid Cleopatra had another pyramid built, this time straight and square, with side faces of equilateral triangles of side 100 cleopasses. The queen demanded that the architects surround the pyramid, located in a perfectly flat desert, with a perimeter wall so that, from any point of the inner wall, Cleopatra could reach the top of the pyramid in 200 cleopasses (but nothing less), walking through the desert and on the surface of the pyramid. What will the perimeter of the wall be calculated in cleopasses?
+> Cleopatra's real pyramid
+> Cleopatra has had another pyramid built, this time a right pyramid with square base, having as lateral faces equilateral triangles of side 100 cleopassi. The queen has required the architects to surround the pyramid, which stands in a perfectly flat desert, with a perimeter wall in such a way that, from any point of the inner wall, Cleopatra can reach the apex of the pyramid in 200 cleopassi (but nothing less), walking on the desert and on the surface of the pyramid. What will the perimeter of the wall be, in cleopassi?
 
-**Answer:** 1047
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2011_finale#q23|src_cesenatico_2011_finale__Q23]]
 
 
 
@@ -847,10 +976,14 @@ It's likely to return to office 73 (shift)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of p(1000) per product (1+x^2i)*
+*Sum of the decimal digits of p(1000), where p is given by a broken product*
 
-> The third and final task imposed on the Gauls by Cleopatra consists in solving the enigma of the venerable Mountain sage. The prodigy Abelix courageously submits to this test as well. The old man bends it carefully, takes the polynomial p(x) = ∏10 i=1(1+x2i) and burns it up and asks how much the sum of the digits in base 10 of p(1000 is worth. How should Abelix respond?
-> 
-> This year's event is the 12th National Final Team event. The problem
+> The Third Labour: the sage of the mountain
+> The third and last Labour imposed on the Gauls by Cleopatra consists in solving the riddle of the venerable Sage of the Mountain. Brave Abelix submits to this trial too. The old man blindfolds him carefully, takes the polynomial p(x) = ∏10
+> i=1(1+x2i) and asks him point-blank for the sum of the base-10 digits of p(1000). How must Abelix reply?
 
-**Answer:** 1024
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2011_finale#q24|src_cesenatico_2011_finale__Q24]]

@@ -30,9 +30,17 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare punti in piano che soddisfino le condizioni di distanza dal triangolo rettangolare*
+*Tutti i punti $D$ che soddisfano quelle uguaglianze*
 
-> Il triangolo $ABC$ è angolato a destra a $C$. Trova tutti i punti $D$ nel piano che soddisfano le condizioni $$AD \cdot BC = BD \cdot AC = \frac{1}{\sqrt{2}} AB \cdot CD .$$
+> Il triangolo $ABC$ è rettangolo in $C$. Trovare tutti i punti $D$ del piano che soddisfano le condizioni
+> $$AD \cdot BC = BD \cdot AC = \frac{1}{\sqrt{2}} AB \cdot CD .$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1983-84_round2#q01|src_bmo_1983-84_round2__Q01]]
 
 
 
@@ -59,13 +67,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tetraedro con bordi uguali; ridurre al minimo l'area del quadrilaterale di sezione trasversale*
+*Il valore di $t$ che rende minima l'area di $MQNP$*
 
-> $ABCD$ è un tetraedro con $DA = DB = DC = d$ e $AB = BC = CA = e$. $M$ e $N$ sono i punti di mezzo di $AB$ e $CD$ rispettivamente. Un piano $p$ passa attraverso $MN$ e taglia $AD$ rispettivamente a $P$ e $BC$ a $Q$.
-> 
-> (i) Provare che $AP/AD = BQ/BC$ (= $t$, per esempio).
-> 
-> ii) Determinare con prova il valore di $t$, espresso in termini di $d$ e $e$, che riduce al minimo l'area del quadrilaterale $MQNP$.
+> $ABCD$ è un tetraedro con $DA = DB = DC = d$ e $AB = BC = CA = e$. $M$ e $N$ sono i punti medi rispettivamente di $AB$ e di $CD$. Un piano $p$ passa per $MN$ e seca $AD$ in $P$ e $BC$ in $Q$.
+>
+> (i) Dimostrare che $AP/AD = BQ/BC$ (= $t$, diciamo).
+>
+> (ii) Determinare, con dimostrazione, il valore di $t$, espresso in funzione di $d$ e $e$, che rende minima l'area del quadrilatero $MQNP$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1983-84_round2#q02|src_bmo_1983-84_round2__Q02]]
 
 
 
@@ -91,9 +106,19 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il massimo e il minimo di cos α + cos β + cos γ con α+β+γ = 4π/3*
+*Massimo e minimo di $\cos\alpha + \cos\beta + \cos\gamma$ se la somma degli angoli è $\frac{4\pi}{3}$*
 
-> Trova, con prova, i valori massimi e minimi di $$\cos\alpha + \cos\beta + \cos\gamma ,$$ dove $\alpha \ge 0$, $\beta \ge 0$, $\gamma \ge 0$ e $$\alpha + \beta + \gamma = \frac{4\pi}{3} .$$
+> Trovare, con dimostrazione, il massimo e il minimo di
+> $$\cos\alpha + \cos\beta + \cos\gamma ,$$
+> dove $\alpha \ge 0$, $\beta \ge 0$, $\gamma \ge 0$ e
+> $$\alpha + \beta + \gamma = \frac{4\pi}{3} .$$
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1983-84_round2#q03|src_bmo_1983-84_round2__Q03]]
 
 
 
@@ -120,9 +145,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova la ricorrenza b_{n+1} = 2c_n per le rappresentazioni complete di potenza binaria*
+*$b_{n+1} = 2c_n$ per $n \ge 1$*
 
-> $b_n$ sia il numero di modi di esprimere il numero intero positivo $n$ come somma di una o più potenze non necessariamente distinte di $2$; qui $1$ ($= 2^0$) è considerato una potenza di $2$. L'ordine delle sommazioni è irrilevante, quindi ad esempio $b_4 = 4$, le espressioni in questione sono $$1+1+1+1 , \quad 1+1+2 , \quad 2+2 , \quad 4 .$$ Chiamare tale espressione *full* se include almeno una somma $2^i$ per $0 \le i \le k$, dove $2^k$ è la somma più grande che vi si verifica. Per esempio, le prime due espressioni di $4$ sono complete, le altre non lo sono. $c_n$ è il numero di espressioni complete per $n$. Provare che $$b_{n+1} = 2c_n$$ per $n \ge 1$.
+> Sia $b_n$ il numero di modi di esprimere l'intero positivo $n$ come somma di una o più potenze di $2$, non necessariamente distinte; qui $1$ ($= 2^0$) si considera una potenza di $2$. L'ordine degli addendi è irrilevante, sicché per esempio $b_4 = 4$, e le espressioni in questione sono
+> $$1+1+1+1 , \quad 1+1+2 , \quad 2+2 , \quad 4 .$$
+> Si chiami *piena* una tale espressione se include almeno un addendo $2^i$ per $0 \le i \le k$, dove $2^k$ è il massimo addendo che vi compare. Per esempio le prime due delle espressioni sopra per $4$ sono piene, le altre no. Sia $c_n$ il numero di espressioni piene per $n$. Dimostrare che
+> $$b_{n+1} = 2c_n$$
+> per $n \ge 1$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1983-84_round2#q04|src_bmo_1983-84_round2__Q04]]
 
 
 
@@ -146,6 +182,14 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio con coefficienti interi approssimativi p/q in intervallo di lunghezza 1/q*
+*Un intervallo di lunghezza $\dfrac{1}{q}$ e un polinomio a coefficienti interi*
 
-> Lasciate che $p$ e $q$ siano integri positivi. Mostrare che esiste un intervallo $I$ di lunghezza $\dfrac{1}{q}$ e un polinomio $P$ con coefficienti interi in modo che, per tutti $x$ in $I$, $$\left| P(x) - \frac{p}{q} \right| \le \frac{1}{q^2} .$$
+> Siano $p$ e $q$ interi positivi. Dimostrare che esiste un intervallo $I$ di lunghezza $\dfrac{1}{q}$ e un polinomio $P$ a coefficienti interi tali che, per ogni $x$ in $I$,
+> $$\left| P(x) - \frac{p}{q} \right| \le \frac{1}{q^2} .$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1983-84_round2#q05|src_bmo_1983-84_round2__Q05]]

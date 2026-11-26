@@ -35,15 +35,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza (lonjura) definita iterando l'operazione di conteggio divisore fino a raggiungere 2; numeri di conteggio di lunghezza 2 e la lunghezza massima in 3..1000*
+*Lunghezza (lonjura) definita iterando l'operazione di conteggio dei divisori finché non si raggiunge 2; conta i numeri di lunghezza 2 e la lunghezza massima in 3..1000*
 
-> Un matematico si diverte con i numeri naturali e i loro divisori positivi. Per ogni intero positivo $n$, esegue la seguente sequenza di operazioni: calcola il numero di divisori positivi di $n$, quindi, dal numero ottenuto, calcola di nuovo il suo numero di divisori positivi, e così via successivamente, fino a ottenere finalmente il numero $2$, punto in cui si ferma. Il *lonjura* di $n$ è definito come il numero di operazioni necessarie per ottenere il numero $2$. Si noti che uno finisce sempre a $2$.
-> 
-> Ad esempio, la lonjura di $12$ è $4$, poiché $12$ ha $6$ divisori positivi $\{1,2,3,4,6,12\}$, $6$ ha $4$ divisori $\{1,2,3,6\}$, $4$ ha $3$ divisori $\{1,2,4\}$, e $3$ ha $2$ divisori $\{1,3\}$. Si noti inoltre che $6$ ha lonjura $3$, $4$ ha lonjura $2$ e $3$ ha lonjura $1$.
-> 
+> Un matematico si diverte con i numeri naturali e i loro divisori positivi. Per ogni numero intero positivo $n$, esegue la seguente sequenza di operazioni: calcola il numero di divisori positivi di $n$, poi, a partire dal numero ottenuto, calcola di nuovo il numero dei suoi divisori positivi, e così via in successione, finché non ottiene infine il numero $2$, momento in cui si ferma. La *lonjura* di $n$ è definita come il numero di operazioni necessarie per ottenere il numero $2$. Si noti che si arriva sempre a $2$.
+>
+> Ad esempio, la lonjura di $12$ è $4$, poiché $12$ ha $6$ divisori positivi $\{1,2,3,4,6,12\}$, $6$ ha $4$ divisori $\{1,2,3,6\}$, $4$ ha $3$ divisori $\{1,2,4\}$, e $3$ ha $2$ divisori $\{1,3\}$. Si noti inoltre che $6$ ha lonjura $3$, $4$ ha lonjura $2$, e $3$ ha lonjura $1$.
+>
 > (a) Quanti numeri da $3$ a $1000$ hanno lonjura $2$?
-> 
-> b) Qual è la maggiore lonjura possibile tra i numeri da $3$ a $1000$?
+>
+> (b) Qual è la lonjura massima possibile tra i numeri da $3$ a $1000$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2021_n2_fx#q01|src_obm_2021_n2_fx__Q01]]
 
 
 
@@ -70,13 +77,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto; A_1 è il punto medio dell'arco principale BC, A_2,A_3 piedi di perpendicolari su AB,AC; dimostrare A_2A_3 bisecte BC e che le tre linee analoghe sono simultanee*
+*Triangolo acuto; A_1 è il punto medio dell'arco maggiore BC, A_2 e A_3 sono i piedi delle perpendicolari condotte su AB e AC; dimostrare che A_2A_3 biseca BC e che le tre rette analoghe sono concorrenti*
 
-> Lasciate che $ABC$ sia un triangolo acuto. Definire $A_1$ come il punto medio dell'arco principale $BC$ del circoncircolo di $ABC$. I piedi $A_2$ e $A_3$ devono essere i piedi delle perpendicolari da $A_1$ alle linee $AB$ e $AC$, rispettivamente. Definire analogamente $B_1$, $B_2$, $B_3$ e $C_1$, $C_2$, $C_3$.
-> 
-> (a) dimostrare che $A_2A_3$ divide $BC$.
-> 
-> b) Indicare che le righe $A_2A_3$, $B_2B_3$ e $C_2C_3$ sono simultanee.
+> Sia $ABC$ un triangolo acutangolo. Si definisca $A_1$ come il punto medio dell'arco maggiore $BC$ della circonferenza circoscritta a $ABC$. Siano $A_2$ e $A_3$ i piedi delle perpendicolari condotte da $A_1$ sulle rette $AB$ e $AC$, rispettivamente. Si definiscano $B_1$, $B_2$, $B_3$ e $C_1$, $C_2$, $C_3$ in modo analogo.
+>
+> (a) Dimostrare che $A_2A_3$ biseca $BC$.
+>
+> (b) Dimostrare che le rette $A_2A_3$, $B_2B_3$ e $C_2C_3$ sono concorrenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2021_n2_fx#q02|src_obm_2021_n2_fx__Q02]]
 
 
 
@@ -99,9 +113,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Round-robin con le squadre del 2021, 3/1/0 segnando; i primi due giocano la finale, l'OBM ha il vantaggio del tiebreak e ha vinto la sua prima partita. Trova il punteggio finale minimo che dà una possibilità alla finale*
+*Torneo all'italiana con le squadre del 2021, punteggio 3/1/0; le prime due disputano la finale, OBM ha l'vantaggio nello spareggio e ha vinto la sua prima partita. Determinare il punteggio finale minimo che lasci aperta la possibilità di arrivare in finale*
 
-> In un campionato di calcio con squadre $2021$, le squadre giocano l'una contro l'altra, tutte giocando esattamente una volta contro ciascuna delle altre. Alla fine di ogni partita, in caso di pareggio, ogni squadra guadagna $1$ punti; altrimenti, il vincitore della partita guadagna $3$ punti e il perdente $0$ punti. Alla fine del campionato, le due squadre con i punteggi più alti disputano la finale. In caso di parità di punti, il risultato della prima partita giocata tra loro decide chi ha il vantaggio; cioè, in qualsiasi parità di punti finali il vincitore testa a testa ha il vantaggio. Il club di calcio OBM ha vinto la sua prima partita, ed è noto che, essendo il campione della precedente edizione, si avvale di qualsiasi pareggio nei punti finali. Qual è il punteggio finale minimo per far sì che l'OBM Football Club abbia qualche possibilità di raggiungere la finale?
+> In un campionato di calcio con $2021$ squadre, le squadre si affrontano tutte tra loro, ciascuna giocando esattamente una volta contro ciascuna delle altre. Al termine di ogni partita, in caso di pareggio, ciascuna squadra ottiene $1$ punti; altrimenti, la squadra vincitrice della partita ottiene $3$ punti e quella sconfitta $0$ punti. Al termine del campionato, le due squadre con il punteggio più alto disputano la finale. In caso di parità di punti, il risultato della prima partita giocata tra loro determina chi ha l'vantaggio; vale a dire che, in caso di qualsiasi parità di punti finali, la squadra vincitrice dello scontro diretto ha l'vantaggio. L'OBM Football Club ha vinto la sua prima partita, ed è noto che, essendo campione dell'edizione precedente, gode dell'vantaggio in caso di qualsiasi parità di punti finali. Qual è il punteggio finale minimo affinché l'OBM Football Club abbia qualche possibilità di raggiungere la finale?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2021_n2_fx#q03|src_obm_2021_n2_fx__Q03]]
 
 
 
@@ -128,13 +149,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo retto ABC (angolo retto a B) con BDEF quadrato inciso; incircoli di CFE ed EDA hanno radii c e b; all'interno del quadrato due cerchi di radio b sono tangenti e due di radio a sono tangenti. Trovare a/c*
+*Triangolo rettangolo ABC (angolo retto in B) con quadrato inscritto BDEF; gli incircoli dei triangoli CFE ed EDA hanno raggi c e b; all'interno del quadrato, due circonferenze di raggio b sono tangenti tra loro e due circonferenze di raggio a sono tangenti tra loro. Determinare a/c*
 
-> Nella figura di seguito abbiamo un triangolo $ABC$, angolato a destra a $B$, e $BDEF$ è un quadrato inciso in questo triangolo. I cerchi inseriti nei triangoli $CFE$ e $EDA$ hanno rispettivamente i raggi $c$ e $b$. All'interno del quadrato sono disegnati due cerchi di raggio $b$ e due cerchi di raggio $a$. I due cerchi di raggio $b$ sono tangenti tra loro e i due cerchi di raggio $a$ sono tangenti tra loro. Ricordate che quando due cerchi sono tangenti, il centro è collineare con il punto di tangenza.
-> 
+> Nella figura sottostante abbiamo un triangolo $ABC$, rettangolo in $B$, e $BDEF$ è un quadrato inscritto in questo triangolo. I cerchi inscritti nei triangoli $CFE$ e $EDA$ hanno raggi rispettivamente pari a $c$ e $b$. All'interno del quadrato sono tracciati due cerchi di raggio $b$ e due cerchi di raggio $a$. I due cerchi di raggio $b$ sono tangenti tra loro, e i due cerchi di raggio $a$ sono tangenti tra loro. Si ricordi che, quando due cerchi sono tangenti, il centro è allineato con il punto di tangenza.
+>
 > Determinare il rapporto $\dfrac{a}{c}$.
 
 ![[src_obm_2021_n2_fx__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2021_n2_fx#q04|src_obm_2021_n2_fx__Q04]]
 
 
 
@@ -165,17 +193,24 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triplici (a,b,c) di numeri interi positivi con a) bbc+1, b) b) c) c) miranhas); determinare tutti*
+*Terne (a,b,c) di interi positivi tali che a|bc+1, b|ca+1, c|ab+1 (miranhas); determinarle tutte*
 
-> Un triplo di integri positivi $(a,b,c)$ è chiamato *miranha* se:
-> 
+> Una terna di interi positivi $(a,b,c)$ è detta *miranha* se:
+>
 > $\bullet$ $a$ divide $bc+1$;
-> 
+>
 > $\bullet$ $b$ divide $ca+1$;
-> 
+>
 > $\bullet$ $c$ divide $ab+1$.
-> 
-> Determina tutti i triplici miranaha.
+>
+> Determinare tutte le triple miranha.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2021_n2_fx#q05|src_obm_2021_n2_fx__Q05]]
 
 
 
@@ -203,10 +238,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per il reale a>=1, A(a)={floor(na)}; supponiamo che ogni intero positivo non in A(a) lasci lo stesso rimanente r mod 2021. Trova tutte le possibili a*
+*Per davvero, se a≥1, A(a)={floor(na)}; supponiamo che ogni intero positivo non appartenente ad A(a) lasci lo stesso resto r modulo 2021. Trovare tutti gli a possibili*
 
-> $\alpha \geq 1$ sia un numero reale. Considera l'insieme $$A(\alpha)=\{\lfloor n\alpha \rfloor \mid n \text{ a positive integer}\}=\{\lfloor \alpha \rfloor, \lfloor 2\alpha \rfloor, \lfloor 3\alpha \rfloor, \lfloor 4\alpha \rfloor, \ldots\}.$$
-> 
-> Supponiamo che tutti i numeri interi positivi che non appartengono all'insieme $A(\alpha)$ lasciano esattamente lo stesso rimanente $r$ quando viene diviso da $2021$, con $0 \leq r < 2021$. Determinare tutti i possibili valori di $\alpha$.
-> 
-> *Osservazione: * il simbolo $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$. Per esempio, se $\alpha=\sqrt{3}$, da $\sqrt{3}=1{,}73\ldots$ abbiamo $\lfloor \sqrt{3} \rfloor=1$, $\lfloor 2\sqrt{3} \rfloor=3$, $\lfloor 3\sqrt{3} \rfloor=5$, $\lfloor 4\sqrt{3} \rfloor=6$ e così via. In questo caso $A(\alpha)=\{1,3,5,6,\ldots\}$.
+> Sia $\alpha \geq 1$ un numero reale. Si consideri l'insieme
+> $$A(\alpha)=\{\lfloor n\alpha \rfloor \mid n \text{ a positive integer}\}=\{\lfloor \alpha \rfloor, \lfloor 2\alpha \rfloor, \lfloor 3\alpha \rfloor, \lfloor 4\alpha \rfloor, \ldots\}.$$
+>
+> Supponiamo che tutti gli interi positivi che non appartengono all'insieme $A(\alpha)$ lascino esattamente lo stesso resto $r$ alla divisione per $2021$, con $0 \leq r < 2021$. Determinare tutti i valori possibili di $\alpha$.
+>
+> *Osservazione:* il simbolo $\lfloor x \rfloor$ denota il più grande intero minore o uguale a $x$. Ad esempio, se $\alpha=\sqrt{3}$, poiché $\sqrt{3}=1{,}73\ldots$, si ha $\lfloor \sqrt{3} \rfloor=1$, $\lfloor 2\sqrt{3} \rfloor=3$, $\lfloor 3\sqrt{3} \rfloor=5$, $\lfloor 4\sqrt{3} \rfloor=6$ e così via. In questo caso $A(\alpha)=\{1,3,5,6,\ldots\}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2021_n2_fx#q06|src_obm_2021_n2_fx__Q06]]

@@ -34,11 +34,21 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riflessi del punto P nei lati del triangolo; incentro, circoncentro, ortocentro*
+*Riflessioni del punto P sui lati del triangolo; incentro, circocentro, ortocentro*
 
-> $ABC$ sia un triangolo in cui nessun angolo è $90^\circ$. Per qualsiasi punto $P$ nel piano del triangolo, $A_1, B_1, C_1$ indichi i riflessi di $P$ rispettivamente nei lati $BC, CA, AB$. Provare le seguenti affermazioni: (a) Se $P$ è l'incentro o un eccentro di $ABC$, allora $P$ è il circoncentro di $A_1B_1C_1$; (b) Se $P$ è il circoncentro di $ABC$, allora $P$ è l'ortocentro di $A_1B_1C_1$; (c) Se $P$ è l'ortocentro di $ABC$, allora $P$ è o l'incentro o un eccentro di $A_1B_1C_1$.
+> Sia $ABC$ un triangolo in cui nessun angolo è $90^\circ$. Per un qualsiasi punto $P$ nel piano del triangolo, si indichi con $A_1, B_1, C_1$ la riflessione di $P$ rispetto ai lati $BC, CA, AB$, rispettivamente. Si dimostrino le seguenti affermazioni:
+> (a) Se $P$ è l'incentro o un excentro di $ABC$, allora $P$ è il circocentro di $A_1B_1C_1$;
+> (b) Se $P$ è il circocentro di $ABC$, allora $P$ è l'ortocentro di $A_1B_1C_1$;
+> (c) Se $P$ è l'ortocentro di $ABC$, allora $P$ è oppure l'incentro oppure un excentro di $A_1B_1C_1$.
 
 ![[src_inmo_2001__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2001#q01|src_inmo_2001__Q01]]
 
 
 
@@ -63,9 +73,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione x2+y2+z2=(x-y)(y-z)(z-x) ha infinite soluzioni interi*
+*L'equazione x²+y²+z² = (x−y)(y−z)(z−x) ha infinite soluzioni intere*
 
-> Mostrare che l'equazione $$x^2 + y^2 + z^2 = (x - y)(y - z)(z - x)$$ ha infinite soluzioni in numeri interi $x, y, z$.
+> Dimostrare che l'equazione
+> $$x^2 + y^2 + z^2 = (x - y)(y - z)(z - x)$$
+> ha infinite soluzioni in interi $x, y, z$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_inmo_2001#q02|src_inmo_2001__Q02]]
 
 
 
@@ -89,9 +108,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)·b^(c+a)·c^(a+b)≤1*
+*Se abc = 1, allora a^{b+c} b^{c+a} c^{a+b} ≤ 1*
 
-> Se $a, b, c$ sono numeri reali positivi come $abc = 1$, dimostrare che $$a^{b+c} \cdot b^{c+a} \cdot c^{a+b} \le 1.$$
+> Se $a, b, c$ sono numeri reali positivi tali che $abc = 1$, dimostrare che
+> $$a^{b+c} \cdot b^{c+a} \cdot c^{a+b} \le 1.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_inmo_2001#q03|src_inmo_2001__Q03]]
 
 
 
@@ -114,9 +141,16 @@ Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)·b^(c+a)·c^(a+b)�
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Da nove numeri interi scegliete quattro con a+b-c-d divisibile per 20; otto numeri interi insufficienti*
+*Da nove interi, scegli quattro tali che a+b-c-d sia divisibile per 20; otto interi non bastano*
 
-> Date nove numeri interi, mostrare che è possibile scegliere, tra loro, quattro numeri interi $a, b, c, d$ in modo tale che $a + b - c - d$ sia divisibile da $20$. Inoltre mostrano che una tale selezione non è possibile se iniziamo con otto numeri interi invece di nove.
+> Dati nove interi qualsiasi, dimostrare che è possibile scegliere, tra essi, quattro interi $a, b, c, d$ tali che $a + b - c - d$ sia divisibile per $20$. Dimostrare inoltre che una tale selezione non è possibile se si parte da otto interi invece che da nove.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2001#q04|src_inmo_2001__Q04]]
 
 
 
@@ -141,11 +175,18 @@ Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)·b^(c+a)·c^(a+b)�
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con punto medio D di BC, condizioni d'angolo; prova AOD equilaterale*
+*Triangolo in cui D è il punto medio di BC, condizioni angolari; dimostrare che AOD è equilatero*
 
-> Che $ABC$ sia un triangolo e $D$ il punto medio di $BC$. Supponiamo $\angle DAB = \angle DCA = 15^\circ$. Inoltre, se $O$ è il circoncentro di $ADC$, dimostrare che il triangolo $AOD$ è equilaterale.
+> Sia $ABC$ un triangolo e $D$ il punto medio di $BC$. Si supponga $\angle DAB = \angle DCA = 15^\circ$. Inoltre, se $O$ è il circocentro di $ADC$, si dimostri che il triangolo $AOD$ è equilatero.
 
 ![[src_inmo_2001__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2001#q05|src_inmo_2001__Q05]]
 
 
 
@@ -170,6 +211,15 @@ Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)·b^(c+a)·c^(a+b)�
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le f:R→R soddisfacenti f:x+y) =f:x)f:y:f:xy)*
+*Trovare tutte le funzioni f:R→R tali che f(x+y)=f(x)f(y)f(xy)*
 
-> $\mathbf{R}$ indichi l'insieme dei numeri reali. Trova tutte le funzioni $f : \mathbf{R} \to \mathbf{R}$ che soddisfano la condizione $$f(x + y) = f(x)f(y)f(xy)$$ per tutte le $x, y \in \mathbf{R}$.
+> Sia $\mathbf{R}$ l'insieme dei numeri reali. Determinare tutte le funzioni $f : \mathbf{R} \to \mathbf{R}$ che soddisfano la condizione
+> $$f(x + y) = f(x)f(y)f(xy)$$
+> per ogni $x, y \in \mathbf{R}$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2001#q06|src_inmo_2001__Q06]]

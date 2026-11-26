@@ -31,11 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri a due e tre cifre i cui quadrati hanno lo stesso conteggio di cifre non zero*
+*Numeri di due e di tre cifre il cui quadrato ha altrettante cifre non nulle*
 
-> (a) Notare che il quadrato di 20 ha lo stesso numero di cifre non zero di 20 stesso. Esiste un numero a due cifre, diverso da 10, 20 o 30, il cui quadrato ha lo stesso numero di cifre non zero del numero originale? Se ne pensate una, trovatela. Se affermi che non esiste, devi dimostrare la tua affermazione.
-> 
-> (b) Esiste un numero a tre cifre diverso da 100, 200, 300 il cui quadrato ha lo stesso numero di cifre non zero del numero originale?
+> (a) Si osservi che il quadrato di 20 ha lo stesso numero di cifre non nulle di 20 stesso. Esiste un numero di due cifre, diverso da 10, 20 o 30, il cui quadrato ha lo stesso numero di cifre non nulle del numero di partenza? Se si ritiene che ne esista uno, lo si trovi. Se si afferma che non ne esiste nessuno, si deve dimostrare l'affermazione.
+>
+> (b) Esiste un numero di tre cifre, diverso da 100, 200 o 300, il cui quadrato ha lo stesso numero di cifre non nulle del numero di partenza?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_1992#q01|src_bmo1_1992__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono ciclico con diagonali paralleli ai lati opposti: deve essere regolare?*
+*Un pentagono ciclico con quelle parallele deve essere regolare?*
 
-> Che il $ABCDE$ sia un pentagono inscritto in un cerchio. Supponiamo che $AC$, $BD$, $CE$, $DA$, $EB$ siano parallele rispettivamente a $AB$, $BC$, $CD$, $DE$, $EA$. Ne consegue che il pentagono deve essere regolare? Giustifica la tua richiesta.
+> Sia $ABCDE$ un pentagono inscritto in una circonferenza. Si supponga che $AC$, $BD$, $CE$, $DA$, $EB$ siano rispettivamente paralleli a $AB$, $BC$, $CD$, $DE$, $EA$. Ne segue che il pentagono deve essere regolare? Giustificare l'affermazione.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_1992#q02|src_bmo1_1992__Q02]]
 
 
 
@@ -83,9 +97,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme di integri positivi in cui il prodotto di tutti è divisibile da ogni elemento*
+*Quattro interi positivi tali che il prodotto di uno divide il prodotto degli altri tre*
 
-> Trova quattro diversi interi positivi in modo tale che il prodotto di uno di essi divida il prodotto dei restanti tre. Puoi trovare un insieme di cinque o più numeri con la stessa proprietà?
+> Trovare quattro interi positivi distinti tali che il prodotto di uno qualunque di essi divida il prodotto degli altri tre. Si può trovare un insieme di cinque o più numeri con la stessa proprietà?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_1992#q03|src_bmo1_1992__Q03]]
 
 
 
@@ -108,9 +129,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare e massimizzare una forma quadrata soggetta a un vincolo lineare*
+*Minimo di $x^2 + 5y^2 + 9z^2$ sul piano $ax + by + cz = 1$*
 
-> Determinare il valore più piccolo di $x^2 + 5y^2 + 9z^2$, dove $x$, $y$, $z$ sono numeri reali soggetti alla condizione $ax + by + cz = 1$ (per determinate costanti). L'espressione ha un valore maggiore soggetto alla condizione? Giustifica la tua richiesta.
+> Determinare il valore minimo di $x^2 + 5y^2 + 9z^2$, dove $x$, $y$, $z$ sono numeri reali soggetti alla condizione $ax + by + cz = 1$ (per costanti date). L'espressione ha un valore massimo sotto quella condizione? Giustificare l'affermazione.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_1992#q04|src_bmo1_1992__Q04]]
 
 
 
@@ -133,6 +161,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione su integri positivi con f(n+1)>f(f(n)); determinare f(1992)*
+*Determinare $f(1992)$ se $f(n+1) > f(f(n))$ per ogni intero positivo $n$*
 
-> Lasciate che $f$ sia una funzione di mappatura dei numeri interi positivi ai numeri interi positivi. Supponiamo che $f(n+1) > f(f(n))$ per tutti gli integri positivi $n$. Determinare $f(1992)$.
+> Sia $f$ una funzione dagli interi positivi agli interi positivi. Si supponga che $f(n+1) > f(f(n))$ per ogni intero positivo $n$. Determinare $f(1992)$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_1992#q05|src_bmo1_1992__Q05]]

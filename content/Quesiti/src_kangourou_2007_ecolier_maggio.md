@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum time for the four digits to appear again
+*Minimum time for the 4 digits to reappear*
 
-> 1) Can you stay with 5 squares? How (or, if not, why not)?
+> 1) Can you end up with 5 squares? How (or, if not, why not)?
 
-**Answer:** 4 hours and 20 minutes
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_ecolier_maggio#qe1|src_kangourou_2007_ecolier_maggio__QE1]]
 
 
 
@@ -59,13 +63,18 @@ Minimum time for the four digits to appear again
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the tilted square carpet*
+*Area of the diagonal of the square carpet*
 
 ![[src_kangourou_2007_ecolier_maggio__probe2.png]]
 
-> 2) Can you end up with only one token? In what way (or, if not possible, why not)?
+> 2) Can you stay with only one token? How (or, if not, why not)?
 
-**Answer:** 5
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_ecolier_maggio#qe2|src_kangourou_2007_ecolier_maggio__QE2]]
 
 
 
@@ -91,13 +100,18 @@ Minimum time for the four digits to appear again
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to choose three pieces per square 3x3*
+*Ways to choose three pieces for a 3x3 square*
 
 ![[src_kangourou_2007_ecolier_maggio__probe3.png]]
 
-> 3) Can you remove all the tokens? How (or, if not, why not)? E6. (22 points) Some of the integers that have 6 as its units digit also have this property: if you move the units digit 6 before the first digit of the number, you get a new number that is the product of the starting number by 4. Find the smallest integer with this property. • Find others. •
+> 3) Can you remove all the tokens? How? (Or, if not, why not?) E6. (22 points) Some of the integers that have 6 as their units digit also have this property: if you move the 6 in the units place to the front of the first digit of the number, you get a new number that is the product of the original number and 4. Find the smallest integer with this property. • Then find others. •
 
-**Answer:** 7
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_ecolier_maggio#qe3|src_kangourou_2007_ecolier_maggio__QE3]]
 
 
 
@@ -121,11 +135,16 @@ Minimum time for the four digits to appear again
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of pupils (65 handshakes)*
+*Number of students (65 handshakes)*
 
-> In a classroom where there are at least two males and two females, each boy shakes each girl's hand once. A total of 65 handshakes were made. How many students (without discriminating between males and females) are in that class?
+> In a class containing at least two boys and two girls, each boy shakes hands with each girl once. In total, 65 handshakes have taken place. How many students are there in that class (without distinguishing between boys and girls)?
 
-**Answer:** 18
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_ecolier_maggio#qe4|src_kangourou_2007_ecolier_maggio__QE4]]
 
 
 
@@ -161,13 +180,24 @@ Minimum time for the four digits to appear again
 
 *Token transformations (parity invariant)*
 
-> You have four round, two triangular and five square tokens. Every time you give me a round and a triangle I give you a square - a square and a triangle I give you a round - a round and a square I give you no tokens
-> 
-> And these are the only chances you have of altering the situation.
-> 
-> Answer the following questions. 1) Can you stay with 5 squares? How (or, if not, why not)? 2) Can you stay with just one token? How (or, if not, why not)? 3) Can you remove all the tokens? How (or, if not, why not)?
+> There are 4 round tokens, 2 triangular tokens, and 5 square tokens. Every time you give me:
+> - one round token and one triangular token, I give you one square token
+> - one square token and one triangular token, I give you one round token
+> - one round token and one square token, I don't give you any token
+>
+> And these are the only ways you have to change the situation.
+>
+> Answer the following questions.
+> 1) Can you end up with 5 square tokens? How? (Or, if not, why not?)
+> 2) Can you end up with only one token? How? (Or, if not, why not?)
+> 3) Can you get rid of all the tokens? How? (Or, if not, why not?)
 
-**Answer:** yes/yes/no
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_ecolier_maggio#qe5|src_kangourou_2007_ecolier_maggio__QE5]]
 
 
 
@@ -194,11 +224,16 @@ Minimum time for the four digits to appear again
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest number that quadruples when moving the 6*
+*The smaller number that quadruples when the 6 is moved*
 
-> Some of the integers that have 6 as their units digit also have this property: if you move the units digit 6 in front of the first digit of the number, you get a new number that is the product of the starting number by 4.
-> 
+> Some of the integers that have 6 as their units digit also have this property: if you move the 6 in the units place to the front of the first digit of the number, you get a new number that is the product of the original number and 4.
+>
 > - Find the smallest integer with this property.
-> - Then find others.
+> - Then find some others.
 
-**Answer:** 153846
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_ecolier_maggio#qe6|src_kangourou_2007_ecolier_maggio__QE6]]

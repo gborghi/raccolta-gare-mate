@@ -31,23 +31,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2047
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The 'Togli il Medico di Torno' association and its apples*
+*The association "Togli il Medico di Torno" has the following rules: a. each member…*
 
 ![[src_squadre_2011_roma__prob1.png]]
 
-> The association ”Togli il Medico di Torno” [roughly: “Keep the Doctor Away”] has the following rules:
-> a. on the day they join, each member eats no apples; then, from the day after joining, eats exactly one apple a day;
-> b. each member, from the day after joining, brings one new person to join every day;
-> c. nobody, apart from the first member, can join unless accompanied by someone who has been a member at least since the day before.
-> The association was born on 1 January 2011, when Mr Fazio founded it and joined as the first member, and since then the rules have been followed to the letter. Say how many apples in total were eaten by the members between 2 and 12 January inclusive.
+> The "Togli il Medico di Torno" association has the following rules: a. on the day each member signs up, that member does not eat apples; thereafter, starting on the day after signing up, the member eats exactly one apple per day; b. starting on the day after signing up, each member brings a new person to sign up every day; c. no one except the first member may sign up unless accompanied by someone who has already been a member for at least one day. The association was founded on January 1, 2011, when Mr. Fazio founded it and signed up as the first member, and since then the rule has been followed to the letter. State the total number of apples eaten by the members between January 2 and January 12, inclusive.
 
-**Answer:** 2047
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2011_roma#q01|src_squadre_2011_roma__Q01]]
 
 
 
@@ -67,19 +66,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0090
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*9 sweets for 7 daughters, Roberta gets every colour*
+*A dad has 9 candies (3 white, 3 red, and 3 green) and wants to distribute them to the…*
 
 ![[src_squadre_2011_roma__prob2.png]]
 
-> A father has 9 sweets (3 white, 3 red and 3 green) and wants to share them among his 7 daughters so that each receives at least one, but Roberta, his favourite daughter, gets at least one of each colour. In how many different ways can he do it?
+> A father has 9 candies (3 white, 3 red, and 3 green) and wants to distribute them among his 7 daughters so that each daughter gets at least one, but so that Roberta, his favorite daughter, gets at least one of each color. In how many different ways can he do this?
 
-**Answer:** 0090
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2011_roma#q02|src_squadre_2011_roma__Q02]]
 
 
 
@@ -97,19 +99,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2002
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest n with n^2 dividing 123,246,124^2 − 123,246,122^2*
+*What is the largest positive integer n such that n^2 divides 123,246,124^2…?*
 
 ![[src_squadre_2011_roma__prob3.png]]
 
-> What is the largest positive integer n such that n^2 divides 123.246.124^2 − 123.246.122^2?
+> What is the largest positive integer n such that n^2 divides 123,246,124^2 − 123,246,122^2?
 
-**Answer:** 2002
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2011_roma#q03|src_squadre_2011_roma__Q03]]
 
 
 
@@ -129,21 +134,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 3840
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Intersection of triangles ABP and BCQ in a square*
+*In square ABCD, let P be the midpoint of CD and Q be the midpoint of DA. What is the area of the intersection of triangles ABP and BCQ?*
 
 ![[src_squadre_2011_roma__prob4.png]]
 
-> In the square ABCD let P be the midpoint of CD and Q the midpoint of DA.
-> figure 1
-> If the area of the square is 14400 cm^2, what is (in cm^2) the area of the intersection of the triangles ABP and BCQ, shaded in grey in the figure?
+> In square ABCD, let P be the midpoint of CD and Q be the midpoint of DA. Figure 1: If the area of the square is 14400 cm², what is the area (in cm²) of the intersection of triangles ABP and BCQ, highlighted in gray in the figure?
 
-**Answer:** 3840
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2011_roma#q04|src_squadre_2011_roma__Q04]]
 
 
 
@@ -162,19 +168,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0060
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangles with integer sides and area 324000 cm^2*
+*How many different rectangles are there whose sides have lengths expressed in centi…*
 
 ![[src_squadre_2011_roma__prob5.png]]
 
-> How many different rectangles are there whose sides have integer length in centimetres and whose area is 324000 cm^2? (N.B. two rectangles are to be considered equal, and therefore counted only once, if they have the same sides, regardless of which is the base and which the height)
+> How many distinct rectangles are there whose sides, measured in centimetres, have integer lengths and whose area is 324000 cm²? (Note: two rectangles are to be regarded as identical—and therefore counted only once—if they have the same sides, regardless of which side is considered the base and which the height.)
 
-**Answer:** 0060
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2011_roma#q05|src_squadre_2011_roma__Q05]]
 
 
 
@@ -197,19 +206,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4372
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rescuing 21 people from the drifting ship Saggezza*
+*The ship Saggezza, due to a malfunction, is drifting with 21 people at…*
 
 ![[src_squadre_2011_roma__prob6.png]]
 
-> The ship Saggezza, because of a breakdown, is drifting with 21 people on board, moving away in uniform rectilinear motion from the floating platform Olimpia at a constant speed of 10 miles per hour. On the platform Olimpia there is only one motorboat, whose maximum speed is 20 miles per hour and which can carry only 3 people besides the pilot. When the motorboat leaves for the first of the 7 rescue trips it will have to make, the distance between the ship Saggezza and the platform Olimpia is 20 miles. How many hours will pass before all 21 passengers can reach safety on the platform Olimpia?
+> Due to a malfunction, the ship Saggezza is drifting with 21 people on board, moving away in uniform rectilinear motion from the floating platform Olimpia at a constant speed of 10 miles per hour. On the Olimpia platform, there is only one motorboat, whose maximum speed is 20 miles per hour and which can carry only 3 people in addition to the pilot. At the moment the motorboat sets off on the first of the 7 rescue trips it will have to make, the distance between the ship Saggezza and the Olimpia platform is 20 miles. How many hours will pass before all 21 passengers can reach the Olimpia platform safely?
 
-**Answer:** 4372
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2011_roma#q06|src_squadre_2011_roma__Q06]]
 
 
 
@@ -229,19 +241,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0929
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangles of area 308 cm^2 with perimeter of at most 3 digits*
+*How many different rectangles are there whose perimeter, expressed in centimetres…*
 
 ![[src_squadre_2011_roma__prob7.png]]
 
-> How many different rectangles are there whose perimeter, in centimetres, is an integer with at most 3 digits, while the area is 308 cm^2? (N.B. two rectangles are to be considered equal, and therefore counted only once, if they have the same sides, regardless of which is the base and which the height)
+> How many distinct rectangles have a perimeter, expressed in centimetres, that is an integer of at most 3 digits, while their area is 308 cm²? (Note: two rectangles are to be regarded as identical and therefore counted only once if they have the same sides, regardless of which side is the base and which is the height.)
 
-**Answer:** 0929
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2011_roma#q07|src_squadre_2011_roma__Q07]]
 
 
 
@@ -267,25 +282,27 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1753
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Prof. Peirone's drunken spiral*
+*When Professor Peirone is drunk, he doesn't sway randomly as…*
 
 ![[src_squadre_2011_roma__prob8.png]]
 
-> Prof. Peirone, when he is drunk, does not walk swaying randomly like all ordinary mortals, but spirals as follows:
-> a) he takes one step forward;
-> b) he turns left (rotating by 90°) then takes 2 steps;
-> c) he turns 90° left again then takes 3 steps;
-> d) he turns 90° left again then takes 4 steps;
-> e . . .) until he has sobered up he keeps turning 90° left and walking in a straight line one step more than he did before turning.
-> He sobers up after 2011 steps. What, at that point, is the square of his distance from the starting point (measured in steps)?
+> When Professor Peirone is drunk, he doesn't sway about randomly like ordinary mortals; instead, he spirals in the following manner:
+> a) takes a step forward;
+> b) turns left (rotating 90°) and then takes 2 steps;
+> c) turns another 90° to the left, then takes 3 steps;
+> d) turns another 90° to the left, then takes 4 steps;
+> e . . .) Until his hangover has worn off, he keeps turning 90° to the left and following a straight path for one extra step more than he did before turning. His hangover wears off after 2011 steps. What is, at that point, the square of his distance from the starting point (measured in steps)?
 
-**Answer:** 1753
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2011_roma#q08|src_squadre_2011_roma__Q08]]
 
 
 
@@ -304,19 +321,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0562
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The value α that no cubic polynomial can take at 31*
+*Find that one and only number α that has the following property: there is no poly…*
 
 ![[src_squadre_2011_roma__prob9.png]]
 
-> Find the unique number α with the following property: there is no third-degree polynomial p(x) such that p(31) = α, p(2) = 11, p(11) = 2 and p(52) = 2011.
+> Find that one and only number α having the following property: there is no cubic polynomial p(x) such that p(31) = α, p(2) = 11, p(11) = 2, and p(52) = 2011.
 
-**Answer:** 0562
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2011_roma#q09|src_squadre_2011_roma__Q09]]
 
 
 
@@ -336,19 +356,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2010
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Subsets with sum divisible by 2011*
+*Find the largest positive integer n that makes the following statement false…*
 
 ![[src_squadre_2011_roma__prob10.png]]
 
-> Find the largest positive integer n that makes the following statement false: ”however a set A of n distinct strictly positive integers is taken, there is always a non-empty subset of A (A itself also counting as a subset of A) such that the sum of the numbers belonging to the subset is divisible by 2011.
+> Find the largest positive integer n for which the following statement is false: "Regardless of which set A of n distinct strictly positive integers is taken, there is always a non-empty subset of A (with A itself also considered a subset of A) such that the sum of the numbers belonging to the subset is divisible by 2011."
 
-**Answer:** 2010
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2011_roma#q10|src_squadre_2011_roma__Q10]]
 
 
 
@@ -368,21 +391,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0117
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The goat Gemmina on the double-cone planet Talikus*
+*After the latest catastrophes to have struck it, the planet Talikus no longer has…*
 
 ![[src_squadre_2011_roma__prob11.png]]
 
-> After the latest catastrophes that hit it, the planet Talikus is no longer spherical: it has become a double cone, that is, the union of two identical cones glued along their bases, each having lateral surface and base area which, in km^2, are 4563π and 1521π respectively.
-> The little goat Gemmina, the last survivor of the planet, is tied to a long rope whose other end is fixed to a point of the equator, that is, of the edge of the base common to the two cones.
-> What is, in kilometres, the minimum length the rope must have for Gemmina to be able to reach every point of the planet?
+> After the latest catastrophes to have befallen it, the planet Talikus is no longer spherical: it has become a double cone—that is, the union of two identical cones joined at their bases—with each cone having a lateral surface area and a base area that, expressed in km², are 4563π and 1521π respectively. Gemmina the goat, the last survivor of the planet, is tied to a long rope whose other end is fixed to a point on the equator—that is, on the edge of the base common to the two cones. What is the minimum length, expressed in kilometers, that this rope must have for Gemmina to be able to reach every point on the planet?
 
-**Answer:** 0117
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2011_roma#q11|src_squadre_2011_roma__Q11]]
 
 
 
@@ -402,21 +426,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 8610
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quadrilateral with midpoints: area of DSTR*
+*In a convex quadrilateral ABCD, the interior angle at B is 105°. Let P, Q, R…*
 
 ![[src_squadre_2011_roma__prob12.png]]
 
-> In a convex quadrilateral ABCD the interior angle at B is 105°. Calling P, Q, R and S the midpoints of the sides AB, BC, CD and DA respectively, let T be the intersection of the segments PR and QS.
-> figure 2
-> Knowing that the triangles APS, BQP and CQR have areas of 1640 cm^2, 2460 cm^2 and 5740 cm^2 respectively, determine the area (again in cm^2) of DSTR.
+> In a convex quadrilateral ABCD, the interior angle at B is 105°. Let P, Q, R, and S be the midpoints of sides AB, BC, CD, and DA, respectively; let T be the intersection of segments PR and QS. Figure 2. Given that triangles APS, BQP, and CQR have areas of 1640 cm², 2460 cm², and 5740 cm², respectively, determine the area (again expressed in cm²) of DSTR.
 
-**Answer:** 8610
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2011_roma#q12|src_squadre_2011_roma__Q12]]
 
 
 
@@ -443,22 +468,22 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1498
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Luca and Claudia's two-pile coin game*
+*Luca and Claudia are competing in a game. On the table there are two piles of coins, the…*
 
 ![[src_squadre_2011_roma__prob13.png]]
 
-> Luca and Claudia play a game. On the table there are two piles of coins, pile A containing 2011 coins and pile B containing 512. The allowed moves are of two types:
-> a. remove at least one coin from pile B (possibly all of them);
-> b. remove at least one coin from pile A (possibly all of them) and, at the same time, if pile A were left with fewer coins than pile B, also remove coins from pile B until it equals A.
-> The two players move in turn and whoever makes the last move loses. Claudia starts. If she has no winning strategy, give ’0’ as the answer. If instead she has one, assuming Claudia moves so as to win, say what is the maximum number of coins she will remove from the table with her first move.
+> Luca and Claudia are playing a game against each other. On the table there are two piles of coins: pile A contains 2011 coins, and pile B contains 512. The allowed moves are of two types: a. remove at least one coin from pile B (possibly all of them); b. remove at least one coin from pile A (possibly all of them) and, at the same time, if pile A would then have fewer coins than pile B, also remove coins from pile B until it has the same number of coins as pile A. The two players take turns, and the player who makes the last move loses. Claudia goes first. If no winning strategy exists for her, indicate '0' as the answer. If, on the other hand, a winning strategy does exist, assuming that Claudia plays in such a way as to win, state what the maximum number of coins she will remove from the table on her first move is.
 
-**Answer:** 1498
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2011_roma#q13|src_squadre_2011_roma__Q13]]
 
 
 
@@ -478,21 +503,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0035
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Systems x^m y^n = 1, x^p y^q = 2011 of degree 144 with no real solutions*
+*How many systems of the type x^m y^n = 1, x^p y^q = 2011 are there (with m, n, p, and q integers…*
 
 ![[src_squadre_2011_roma__prob14.png]]
 
-> How many systems of the form
-> { x^m y^n = 1 ; x^p y^q = 2011 }
-> (with m, n, p and q strictly positive integers) have degree 144 and no real solutions? (remember that the degree of a system is the product of the degrees of the equations composing it)
+> How many systems of the form { x^m y^n = 1 ; x^p y^q = 2011 } (with m, n, p, and q strictly positive integers) have degree 144 and have no real solutions? (Recall that the degree of a system is the product of the degrees of the equations that make it up.)
 
-**Answer:** 0035
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2011_roma#q14|src_squadre_2011_roma__Q14]]
 
 
 
@@ -510,19 +536,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0294
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial of degree 2008 equal to 7 at 3, …, 2010*
+*Let p(x) be a polynomial of degree 2008 such that p(3) = p(4) = ... = p(2010) = 7, while p(2011) = 50/7.…*
 
 ![[src_squadre_2011_roma__prob15.png]]
 
-> Let p(x) be a polynomial of degree 2008 such that p(3) = p(4) = . . . = p(2010) = 7, while p(2011) = 50/7. Compute the sum of the coefficients of the terms of p(x).
+> Let p(x) be a polynomial of degree 2008 such that p(3) = p(4) = ... = p(2010) = 7, while p(2011) = 50/7. Calculate the sum of the coefficients of the terms of p(x).
 
-**Answer:** 0294
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2011_roma#q15|src_squadre_2011_roma__Q15]]
 
 
 
@@ -542,21 +571,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 4420
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parallelogram with angle 60°: area from BCQR*
+*In parallelogram ABCD, the interior angle at C is 60°. Let a point P be taken…*
 
 ![[src_squadre_2011_roma__prob16.png]]
 
-> In the parallelogram ABCD the interior angle at C is 60°. Take a point P on side AD such that 4AP = PD and a point Q on side DC such that 4DQ = QC. Finally let R be the intersection of the segments AQ and BP.
-> figure 3
-> If the area of BCQR is 3553 cm^2, what is (again in cm^2) the area of the parallelogram ABCD?
+> In parallelogram ABCD, the interior angle at C is 60°. Let P be a point on side AD such that 4AP = PD, and let Q be a point on side DC such that 4DQ = QC. Finally, let R be the intersection of segments AQ and BP. Figure 3: If the area of BCQR is 3553 cm², what is the area of parallelogram ABCD (again in cm²)?
 
-**Answer:** 4420
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2011_roma#q16|src_squadre_2011_roma__Q16]]
 
 
 
@@ -575,19 +605,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0013
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Monic polynomial of degree 15 with p(±k) = k^2*
+*Let p(x) be a polynomial of degree 15 having the coefficient of the term of degree ma…*
 
 ![[src_squadre_2011_roma__prob17.png]]
 
-> Let p(x) be a polynomial of degree 15 whose leading coefficient equals 1 and such that p(±k) = k^2 for every k = 0, 1, . . . , 7. Say how many digits the integer part of p(8) − p(−8) has.
+> Let p(x) be a polynomial of degree 15 with leading coefficient 1 such that p(±k) = k^2 for every k = 0, 1, ..., 7. State how many digits the integer part of p(8) − p(−8) has.
 
-**Answer:** 0013
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2011_roma#q17|src_squadre_2011_roma__Q17]]
 
 
 
@@ -606,19 +639,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2500
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum gcd of n^2 and n^2 + 3n + 50*
+*For each positive integer n, let M_n denote the greatest common divisor of n^2…*
 
 ![[src_squadre_2011_roma__prob18.png]]
 
-> For every positive integer n let M\_n be the greatest common divisor of n^2 and n^2 + 3n + 50. As n varies, what is the maximum value M\_n can take?
+> For each positive integer n, let M_n denote the greatest common divisor of n^2 and n^2 + 3n + 50. As n varies, what is the maximum value that M_n can take?
 
-**Answer:** 2500
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2011_roma#q18|src_squadre_2011_roma__Q18]]
 
 
 
@@ -641,19 +677,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2520
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Self-avoiding flea paths from b2 to g7 in 12 jumps*
+*On an 8 × 8 chessboard, the rows are numbered from 1 to 8, and the columns are contra…*
 
 ![[src_squadre_2011_roma__prob19.png]]
 
-> On an 8 × 8 chessboard the rows are numbered from 1 to 8 and the columns are marked with the letters from a to h (exactly as in chess). A flea, initially on square b2, moves by jumping: the only allowed jumps are between two adjacent squares, that is, two distinct squares with a side in common. Determine how many paths taking the flea from square b2 to square g7 consist of exactly 12 jumps and never pass twice through the same square.
+> On an 8 × 8 chessboard, the rows are numbered from 1 to 8 and the columns are labeled with the letters from a to h (exactly as in the game of chess). A flea, initially on square b2, moves by jumping: the only allowed jumps are those between two adjacent squares—that is, two distinct squares sharing a side. Determine how many paths there are that take the flea from square b2 to square g7, consist of exactly 12 jumps, and never visit the same square twice.
 
-**Answer:** 2520
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2011_roma#q19|src_squadre_2011_roma__Q19]]
 
 
 
@@ -675,20 +714,19 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7224
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2011_31%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2011 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Good 8-letter words on A, B, C, D*
+*A word P will be said to be good if it has the following properties: a. it contains only the…*
 
 ![[src_squadre_2011_roma__prob20.png]]
 
-> A word P will be called good if it has the following properties:
-> a. it contains only the letters A, B, C and D;
-> b. each of the letters A, B, C and D appears in P at least once;
-> c. two consecutive letters of P are never equal.
-> How many good 8-letter words are there?
+> A word P will be called good if it has the following properties: a. it contains only the letters A, B, C, and D; b. each of the letters A, B, C, and D appears in P at least once; c. no two consecutive letters in P are ever the same. How many good 8-letter words are there?
 
-**Answer:** 7224
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2011_roma#q20|src_squadre_2011_roma__Q20]]

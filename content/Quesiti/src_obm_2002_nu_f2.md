@@ -29,9 +29,17 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Linea taglia grafico di polinomio di grado-4 a 4 punti spaziati ugualmente*
+*Dimostrare che, per un polinomio di grado 4, quattro intersezioni con una retta ne implicano quattro equispaziate*
 
-> Che $y = P(x)$ sia un polinomio di grado 4. Mostrare che se esiste una linea (in $\mathbb{R}^2$) che interseca il grafico di $P$ a 4 punti, allora esiste una linea che interseca il grafico a 4 punti spaziati ugualmente.
+> Sia $y = P(x)$ un polinomio di grado 4. Dimostrare che, se esiste una retta (in $\mathbb{R}^2$) che interseca il grafico di $P$ in 4 punti, allora esiste una retta che lo interseca in 4 punti equispaziati.
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_obm_2002_nu_f2#q01|src_obm_2002_nu_f2__Q01]]
 
 
 
@@ -54,9 +62,17 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Matrice reale simmetrica con somme di righe 1 e di diagonali non limitate; prova 0 < det A ≤ 1*
+*Dimostrare che il determinante di una tale matrice simmetrica è positivo e al più 1*
 
-> Che $A = (a_{ij})$ sia una matrice simmetrica reale $n \times n$ tale che $a_{ii} = 1$ e $\displaystyle\sum_{j=1}^{n} |a_{ij}| < 2$ per tutti $i \in \{1, 2, \ldots, n\}$. Prove che $0 < \det A \le 1$.
+> Sia $A = (a_{ij})$ una matrice reale simmetrica $n \times n$ tale che $a_{ii} = 1$ e $\displaystyle\sum_{j=1}^{n} |a_{ij}| < 2$ per ogni $i \in \{1, 2, \ldots, n\}$. Dimostrare che $0 < \det A \le 1$.
+
+**Argomento:** [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2002_nu_f2#q02|src_obm_2002_nu_f2__Q02]]
 
 
 
@@ -79,9 +95,17 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieme con intersezioni di grande dimensione e piccole coppie; limite inferiore sulla dimensione dell'unione*
+*Dimostrare una stima sull'unione di insiemi grandi con intersezioni a due a due piccole*
 
-> Si deve $A_1, A_2, \ldots, A_k \subseteq \{1, 2, \ldots, n\}$ essere impostato in modo tale che $|A_i| \ge \dfrac{n}{2}$ e $|A_i \cap A_j| \le \dfrac{n}{4}$ per tutti $i, j$ con $i \ne j$. Prove che $\displaystyle\left|\bigcup_{i=1}^{k} A_i\right| \ge \dfrac{k}{k+1} \cdot n$.
+> Siano $A_1, A_2, \ldots, A_k \subseteq \{1, 2, \ldots, n\}$ insiemi tali che $|A_i| \ge \dfrac{n}{2}$ e $|A_i \cap A_j| \le \dfrac{n}{4}$ per tutti gli $i, j$ con $i \ne j$. Dimostrare che $\displaystyle\left|\bigcup_{i=1}^{k} A_i\right| \ge \dfrac{k}{k+1} \cdot n$.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_doppio_conteggio|Doppio conteggio]], [[method_disuguaglianze|Disuguaglianze]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_obm_2002_nu_f2#q03|src_obm_2002_nu_f2__Q03]]
 
 
 
@@ -105,9 +129,19 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni reali di un'equazione radicale annidata*
+*Determinare tutte le soluzioni reali di un'equazione con tre radici quadrate annidate*
 
-> Trova tutte le soluzioni reali dell'equazione $$x = \sqrt{2 + \sqrt{2 - \sqrt{2 + x}}}.$$
+> Trovare tutte le soluzioni reali dell'equazione
+>
+> $$x = \sqrt{2 + \sqrt{2 - \sqrt{2 + x}}}.$$
+
+**Argomento:** [[topic_algebra|Algebra]]
+
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_obm_2002_nu_f2#q04|src_obm_2002_nu_f2__Q04]]
 
 
 
@@ -134,11 +168,23 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il prodotto del logaritmo iterato definisce a_n; determina la convergenza della somma 1/a_n*
+*Si definisce un prodotto di logaritmi iterati: stabilire se la serie dei reciproci converge*
 
-> Per $x \in \mathbb{R}$, definire $\ln_0(x) = x$, e per ogni $k \in \mathbb{N}$, se $\ln_k(x) > 0$, definire $\ln_{k+1}(x) = \ln(\ln_k(x))$, dove $\ln$ è il logaritmo naturale.
-> 
-> Data una cifra integrale positiva $n$, definire $k(n)$ come la più grande $k$ tale che $\ln_k(n) \ge 1$, e definire $a_n$ come $$a_n = \prod_{j=0}^{k(n)} \ln_j(n) = n \cdot \ln(n) \cdot \ln\ln(n) \cdots \ln_{k(n)}(n).$$ Determinare se la serie $\displaystyle\sum_{n=1}^{\infty} \dfrac{1}{a_n}$ converge o diverge.
+> Per $x \in \mathbb{R}$, si ponga $\ln_0(x) = x$ e, per ogni $k \in \mathbb{N}$, se $\ln_k(x) > 0$, si definisca $\ln_{k+1}(x) = \ln(\ln_k(x))$, dove $\ln$ è il logaritmo naturale.
+>
+> Dato un intero positivo $n$, si definisca $k(n)$ come il massimo $k$ tale che $\ln_k(n) \ge 1$, e si definisca $a_n$ come
+>
+> $$a_n = \prod_{j=0}^{k(n)} \ln_j(n) = n \cdot \ln(n) \cdot \ln\ln(n) \cdots \ln_{k(n)}(n).$$
+>
+> Stabilire se la serie $\displaystyle\sum_{n=1}^{\infty} \dfrac{1}{a_n}$ converge o diverge.
+
+**Argomento:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_induzione|Induzione]]
+
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+
+[[Quesiti/src_obm_2002_nu_f2#q05|src_obm_2002_nu_f2__Q05]]
 
 
 
@@ -161,6 +207,14 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due coniche che si incrociano a 4 punti; le linee tangenti producono un'ellisse o un cerchio tangenti*
+*Dimostrare che le otto tangenti nei quattro punti di intersezione di due ellissi ammettono un'ellisse, o un cerchio, tangente a tutte*
 
-> Considerate due ellissi nel piano $\mathbb{R}^2$ che si incrociano esattamente a 4 punti. A questi 4 punti, disegnare le linee tangenti a entrambe le ellissi, ottenendo 8 linee. Prove che esiste un'ellisse (o cerchio) tangente a tutte e 8 di queste linee.
+> Si considerino due ellissi nel piano $\mathbb{R}^2$ che si intersecano in esattamente 4 punti. In questi 4 punti si traccino le rette tangenti a entrambe le ellissi, ottenendo 8 rette. Dimostrare che esiste un'ellisse (oppure un cerchio) tangente a tutte e 8 queste rette.
+
+**Argomento:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_obm_2002_nu_f2#q06|src_obm_2002_nu_f2__Q06]]

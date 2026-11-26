@@ -32,13 +32,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n with 2016 = root of the sum of the cubes of the first n integers*
+*n-con 2016 = the root of the sum of the cubes of the first n integers*
 
-> For a certain value of n, 2016 can be expressed as the square root
-> of the sum of the cubes of the first n positive integers. What is n? Explain how you
-> determined it.
+> For a certain value of n, 2016 can be expressed as the square root of the sum of the cubes of the first n positive integers. What is the value of n? Explain how you determined it.
 
-**Answer:** 63
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_student_finale#qs1|src_kangourou_2016_student_finale__QS1]]
 
 
 
@@ -65,15 +68,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Additional holidays by adding bridge days, year 3000 days*
+*Additional holidays when bridge days are included; 3000 days per year*
 
-> In the strange republic of Kang, years last 3000 days, numbered
-> from 1 to 3000. Holidays are those whose number is divisible by 6 or is a
-> prime number: the others are working days. If to the holidays there were also added
-> every "bridge" day, that is a working day preceded and followed by a holiday,
-> how many more holidays would there be in each year?
+> In the strange Republic of Kang, years last 3000 days, numbered from 1 to 3000. Holiday days are those whose number is divisible by 6 or is a prime number; the others are working days. If every "bridge day"—that is, a working day preceded and followed by a holiday—were also added to the holiday days, how many more holiday days would there be in each year?
 
-**Answer:** 2
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_student_finale#qs2|src_kangourou_2016_student_finale__QS2]]
 
 
 
@@ -97,11 +100,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coordinates of one vertex of the cube given three vertices*
+*Coordinates of a vertex of a cube given three vertices*
 
-> With respect to an assigned system of orthogonal Cartesian axes in space, the coordinates of three vertices of a cube are $(4,0,3)$, $(6,4,1)$ and $(2,8,5)$. Determine, as quickly as you can, the coordinates (with respect to the same system) of one of the remaining vertices of the cube.
+> Relative to a given system of orthogonal Cartesian axes in space, the coordinates of three of the vertices of a cube are $(4,0,3)$, $(6,4,1)$, and $(2,8,5)$. Determine, in the quickest way you can, the coordinates (with respect to the same system) of one of the remaining vertices of the cube.
 
-**Answer:** (0,4,7)
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_student_finale#qs3|src_kangourou_2016_student_finale__QS3]]
 
 
 
@@ -127,9 +135,14 @@ level: kangourou
 
 *Sum of the inverses of the products over all subsets*
 
-> Consider the set of the first $2016$ positive integers: to each of its non-empty subsets the inverse of the product of the numbers composing it is associated (e.g. if the subset is $\{99, 105, 2001\}$ it associates $\dfrac{1}{99 \cdot 105 \cdot 2001}$). What is the sum of all the numbers you get by varying all the possible non-empty subsets?
+> Consider the set of the first $2016$ positive integers: for each of its non-empty subsets, associate the reciprocal of the product of the numbers that make up the subset (for example, if the subset is $\{99, 105, 2001\}$, associate $\dfrac{1}{99 \cdot 105 \cdot 2001}$). What is the sum of all the numbers you obtain as all possible non-empty subsets vary?
 
-**Answer:** 2016
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_student_finale#qs4|src_kangourou_2016_student_finale__QS4]]
 
 
 
@@ -177,7 +190,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most parallelogram area ratio over regular hexagon*
+*Maximum ratio of the area of a parallelogram to that of a regular hexagon*
 
 ![[src_kangourou_2016_student_finale__probs5.png]]
 
@@ -203,9 +216,14 @@ level: kangourou
 \end{document}
 ```
 
-> A parallelogram is inscribed in a regular hexagon (i.e. its vertices are points on some side of the hexagon) and the centers (of symmetry) of the two polygons coincide. What is the maximum value of the ratio between the area of the parallelogram and the area of the hexagon?
+> A parallelogram is inscribed in a regular hexagon (that is, its vertices are points on some side of the hexagon), and the centers (of symmetry) of the two polygons coincide. What is the maximum possible value of the ratio of the area of the parallelogram to the area of the hexagon?
 
-**Answer:** 2/3
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_student_finale#qs5|src_kangourou_2016_student_finale__QS5]]
 
 
 
@@ -241,20 +259,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Statements on plan tiles (conveyance)*
+*Statements about (convex) plane tilings*
 
 ![[src_kangourou_2016_student_finale__probs6.png]]
 
-> For ** plane tiles ** we mean a family of convex figures (possibly different from each other in shape and size), each comprising its own edge, contained in some circle and containing some circle, such that each point of the plane belongs to some figure, but different figures have in common only points of their edges at most. The figures are called **tiles**.
-> 
-> 1) A polygonal tiles of the plane (i.e. each tiles is a polygon) are assigned. Proves or refutes each of the following statements.
-> 
-> (a) If each circle with a centre at a point $P$ intersects infinite tiles, then $P$ belongs to infinite tiles.
-> 
-> (b) If each tile contains a circle of radius $1$ and a positive number $M$ exists such that each tile is contained in a circle of radius $M$, then each point belongs to a finite number of tiles.
-> 
-> 2) A generic plan tiles are now assigned. Demonstrate or refute the following statement: if each circle centered at a point $P$ intersects infinite tiles, there exists a straight $r$ passing through $P$ such that each segment of $r$ containing $P$ within it intersects infinite tiles.
-> 
-> *N.B. To provide some answers, you can simply trace sufficiently explanatory figures.*
+> By **tiling of the plane** we mean a family of convex figures (possibly differing from one another in shape and size), each including its own boundary, contained in some circle and containing some circle, such that every point of the plane belongs to some figure, but distinct figures share at most only points of their boundaries. The figures are called **tiles**.
+>
+> 1) Suppose a polygonal tiling of the plane is given (that is, each tile is a polygon). Prove or refute each of the following statements.
+>
+> a) If every circle with centre at a point $P$ intersects infinitely many tiles, then $P$ belongs to infinitely many tiles.
+>
+> b) If each tile contains a circle of radius $1$ and there exists a positive number $M$ such that each tile is contained in a circle of radius $M$, then every point belongs to a finite number of tiles.
+>
+> 2) Suppose a generic tiling of the plane is now given. Prove or refute the following statement: if every circle centered at a point $P$ intersects infinitely many tiles, then there exists a line $r$ passing through $P$ such that every segment of $r$ containing $P$ inside it intersects infinitely many tiles.
+>
+> *N.B. To provide some answers, you can simply draw figures that are sufficiently explanatory.*
 
-**Answer:** 1a false, 1b true, 2 false
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_student_finale#qs6|src_kangourou_2016_student_finale__QS6]]

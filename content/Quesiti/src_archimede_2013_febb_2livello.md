@@ -39,9 +39,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of at least one correct answer to 11 questions*
+*Probability of at least one correct answer on 11 questions*
 
-> Matteo has to take a crossword puzzle test with 11 questions. Each question has only one correct answer. The first question has 2 possible answers (A and B), the second question has 3 possible answers (A, B, C), and so on, until the 11th question has 12 possible answers. What is the probability that the random Matteo test will give at least one correct answer?
+> Matteo has to take a multiple-choice test with 11 questions. Each question has only one correct answer. The first question has 2 possible answers (A and B), the second question has 3 possible answers (A, B, C), and so on, up to the eleventh question, which has 12 possible answers. What is the probability that, by doing the test at random, Matteo gives at least one correct answer?
 >
 > - **(A)** 1 12!
 > - **(B)** 1 144
@@ -49,7 +49,11 @@ level: 2 livello
 > - **(D)** 11 12
 > - **(E)** 121 144
 
-**Answer:** D
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2013_febb_2livello#q01|src_archimede_2013_febb_2livello__Q01]]
 
 
 
@@ -82,17 +86,20 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Knights and crooks, total number of knights given Yes*
+*Number of knights given 3000 Yes answers*
 
-> In the Cavaliers Island (who always tell the truth) and the Furfanti Island (who always lie) a survey is conducted among 2013 residents, in which there are three questions: Tifiper team A?, Tifiper team B? and Tifiper team C?. We know that each islander answers all three questions and ticks for one and only one of the three teams. If the answers are "yes" to 3000, how many of the islanders are knights?
+> On the island of knights (who always tell the truth) and knaves (who always lie), a survey is carried out among the 2013 inhabitants, with three questions: "Tifiper team A?", "Tifiper team B?" and "Tifiper team C?". We know that every islander answers all three questions and supports exactly one of the three teams. If the "Yes" answers total 3000, how many of the islanders are knights?
 >
 > - **(A)** 987
 > - **(B)** 1023
 > - **(C)** 1026
 > - **(D)** 2013
-> - **(E)** It cannot be determined from the data provided.
+> - **(E)** it cannot be determined with the data given.
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2013_febb_2livello#q02|src_archimede_2013_febb_2livello__Q02]]
 
 
 
@@ -123,11 +130,22 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parity on polygon vertices, assertion certainly true*
+*Parity on polygon vertices, statement certainly true*
 
-> On the vertices of a polygon with n ≥3 sides are written whole numbers, so that the number written on each vertex has the same parity as the sum of the numbers written on the two adjacent vertices (i.e. if the number on the vertex is equal, also the sum of the numbers appearing on the adjacent vertices is equal, while if the number is odd also the sum is odd). Which of the following is certainly true? (A) There are more even numbers than odd ones. (B) There are more odd numbers than equal. (C) The number of vertices on which an odd number is written is equal. (D) n is multiple of 3. (E) None of the above.
+> On the vertices of a polygon with n ≥ 3 sides are written integers, in such a way that the number
+> written on each vertex has the same parity as the sum of the numbers written on the two adjacent
+> vertices (that is, if the number on the vertex is even, then the sum of the numbers appearing on
+> the adjacent vertices is also even, while if the number is odd then the sum is also odd). Which of
+> the following statements is certainly true?
+> (A) There are more even numbers than odd numbers. (B) There are more odd numbers than even numbers. (C) The number
+> of vertices on which an odd number is written is even. (D) n is a multiple of 3. (E) None of the
+> previous ones.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2013_febb_2livello#q03|src_archimede_2013_febb_2livello__Q03]]
 
 
 
@@ -160,19 +178,20 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A grey area of the coat of arms formed by semicircles*
+*Grey area of a coat of arms formed by semicircles*
 
-![[src_archimede_2013_febb_2livello__prob4.png]]
-
-> Ker draws the coat of arms of his town, Mathlandia, on a square sheet with squares on side 1, obtaining the figure side by side. Knowing that the curved tracts are all semi-circulars, what is the size of the grey area?
+> Ker draws the coat of arms of his city, Mathlandia, on a sheet of squared paper with squares of side 1, obtaining the figure in the figure. Given that the curved strokes are all formed by semicircles, what is the area coloured grey?
 >
 > - **(A)** 12π
 > - **(B)** 8π + 2
 > - **(C)** 12
 > - **(D)** 8
-> - **(E)** None of the above.
+> - **(E)** none of the above.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2013_febb_2livello#q04|src_archimede_2013_febb_2livello__Q04]]
 
 
 
@@ -204,17 +223,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
+*Difference of the trailing zeros of 2000! in base 5 and of 2013! in base 10*
 
-> Let x be the number of zeros that ends in 2000! When it's written in base 5, and y is the number of zeros ending 2013! When it's written at base 10. Calculate x to y. (Remember that the number n!, for a positive integer n, is the product of all positive integers less than or equal to n.)
+> Let x be the number of trailing zeros of 2000! when written in base 5, and let y be the number of trailing zeros of 2013! when written in base 10. Calculate x − y. (Recall that the number n!, for a positive integer n, is the product of all positive integers less than or equal to n.)
 >
 > - **(A)** −2
 > - **(B)** 0
 > - **(C)** 2013
 > - **(D)** 13!
-> - **(E)** None of the above.
+> - **(E)** none of the above.
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2013_febb_2livello#q05|src_archimede_2013_febb_2livello__Q05]]
 
 
 
@@ -244,9 +267,9 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum of ∈ X is equal to x^2+4y^2*
+*Minimum of |x|+2|y| with x^2+4y^2=1*
 
-> So x and y are real numbers such that you have x2 + 4y2 = 1; what is the minimum value of x = 2y + 2y = 1?
+> Let x and y be real numbers such that x2 + 4y2 = 1; what is the minimum value of |x| + 2|y|?
 >
 > - **(A)** 1 2
 > - **(B)** 1
@@ -254,7 +277,11 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 > - **(D)** 1 + √ 2 2
 > - **(E)** 2
 
-**Answer:** B
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2013_febb_2livello#q06|src_archimede_2013_febb_2livello__Q06]]
 
 
 
@@ -286,9 +313,9 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of areas dividing the right angle of the square by three*
+*Ratio of areas when dividing the right angle of a square into three*
 
-> Either ABCD a square within which two segments are plotted dividing the angle in A into three equal angles and the square into two equal triangles and a quadrilateral. What is the relationship between the area of the quadrilateral and that of one of the two triangles?
+> Let ABCD be a square inside which two segments are drawn that divide the angle at A into three equal angles and the square into two equal triangles and a quadrilateral. What is the ratio between the area of the quadrilateral and that of one of the two triangles?
 >
 > - **(A)** √ 3 − 1 √ 3
 > - **(B)** 2 √ 3 −1
@@ -296,7 +323,11 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 > - **(D)** 2
 > - **(E)** 2 √ 3 −2
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2013_febb_2livello#q07|src_archimede_2013_febb_2livello__Q07]]
 
 
 
@@ -327,9 +358,9 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of sub-sets of {1,5,} with an element intersecting*
+*Pairs of subsets of {1..5} with a one-element intersection*
 
-> How many pairs (A, B) of subsets of {1, 2, 3, 4, 5} are ordered such that the intersection between A and B has exactly one element?
+> How many ordered pairs (A, B) of subsets of {1, 2, 3, 4, 5} are there such that the intersection between A and B has exactly one element?
 >
 > - **(A)** 80
 > - **(B)** 280
@@ -337,7 +368,11 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 > - **(D)** 751
 > - **(E)** 405
 
-**Answer:** E
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2013_febb_2livello#q08|src_archimede_2013_febb_2livello__Q08]]
 
 
 
@@ -367,9 +402,9 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial with p(5n-1) = 5^(5n)-1, calculated p(3)*
+*Polynomial with p(5n-1)=5^(5n)-1, calculate p(3)*
 
-> Knowing that the polynomial p is such that, for every integer n, p(5n −1) = 55n −1, how much will p(3) be worth?
+> Knowing that the polynomial p is such that, for every integer n, p(5n −1) = 5^(5n) −1, how much is p(3)?
 >
 > - **(A)** 1023
 > - **(B)** 999
@@ -377,7 +412,11 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 > - **(D)** 242
 > - **(E)** 0
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2013_febb_2livello#q09|src_archimede_2013_febb_2livello__Q09]]
 
 
 
@@ -408,17 +447,21 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum area of quadrilateral side 1,7,5,5*
+*Maximum area of a quadrilateral with sides 1,7,5,5*
 
-> We have a quadrilateral whose sides measure, in the order, 1,7,5,5. How much is your area worth at most?
+> We have a quadrilateral whose sides measure, in order, 1,7,5,5. What is the maximum possible value of its area?
 >
 > - **(A)** 12
 > - **(B)** 6 √ 6
 > - **(C)** 16
 > - **(D)** 20
-> - **(E)** There's no such thing as a quadrilateral.
+> - **(E)** no such quadrilateral exists.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2013_febb_2livello#q10|src_archimede_2013_febb_2livello__Q10]]
 
 
 
@@ -450,9 +493,9 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of reaching 5 in billiards*
+*Probability of reaching 5-all in pool*
 
-> Agnese and Bruno challenge Viviana and Zenone at pool; the teams are very balanced, so for every ball played both teams have a 1/2 chance of scoring a goal. What's the probability of getting 5 even?
+> Agnese and Bruno challenge Viviana and Zenone to a game of pool; the teams are very evenly matched, so for each ball played both teams have probability 1/2 of scoring a goal. What is the probability that the score reaches 5-all?
 >
 > - **(A)** 1 512
 > - **(B)** 252 1024
@@ -460,7 +503,11 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 > - **(D)** 169 512
 > - **(E)** 169 1024
 
-**Answer:** B
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2013_febb_2livello#q11|src_archimede_2013_febb_2livello__Q11]]
 
 
 
@@ -490,17 +537,21 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total pairs ordered by xy=4(y^2+x)*
+*Ordered integer pairs with xy=4(y^2+x)*
 
-> How many pairs of integers (x, y) are such that xy = 4(y2 + x)?
+> How many ordered pairs of integers (x, y) satisfy xy = 4(y2 + x)?
 >
 > - **(A)** 0
 > - **(B)** 1
 > - **(C)** 2
 > - **(D)** 7
-> - **(E)** 14 Problems with a numerical answer  5 points
+> - **(E)** 14 Problemi a risposta numerica – 5 punti
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2013_febb_2livello#q12|src_archimede_2013_febb_2livello__Q12]]
 
 
 
@@ -531,13 +582,15 @@ Zeroes of 2000! Based on 5 and 2013! in base 10, calculate x-y*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Marine battle, minimum hits to hit aircraft carriers 5x1
+*Naval battle, minimum shots to hit 5x1 aircraft carriers*
 
-![[src_archimede_2013_febb_2livello__prob13.png]]
+> In a variant of the naval battle game, Anna places an aircraft carrier (which we can think of as a 5 × 1 rectangle) on a 10 × 10 grid, either vertically or horizontally, without showing it to Jacopo. Jacopo tries to hit the aircraft carrier, saying each time the coordinates of a small square inside the grid. If the square he chose is among those covered by the aircraft carrier, it is hit; otherwise it is missed. How many shots must Jacopo fire at minimum to hit it at least once for sure?
 
-> In a variant of the naval battle game, Anna places an aircraft carrier (which we can think of as a rectangle 5 × 1) in a grid 10 × 10, either vertically or horizontally, without showing it to Jacopo. Jacopo tries to hit the aircraft carrier, telling her again and again the coordinates of a square inside the grid. If the picture you chose is among those covered by the aircraft carrier, this one is hit, otherwise it is missing. How many shots does Jacopo have to shoot at least to hit her for sure at least once?
 
-**Answer:** 20
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2013_febb_2livello#q13|src_archimede_2013_febb_2livello__Q13]]
 
 
 
@@ -564,11 +617,18 @@ Marine battle, minimum hits to hit aircraft carriers 5x1
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Folding length of the paper with the tip at the end of the side*
+*Length of the fold of the paper with the vertex at the midpoint of the side*
 
-> Anacleto just finished eating a chocolate bar, and he starts playing with the paper it was wrapped in, a 360 mm and 300 mm rectangle. He decides to make a single straight fold so that, once the paper is folded, a vertex of the rectangle is exactly halfway along the short side of which it is not extreme. How many millimeters is the fold?
+> Anacleto has just finished eating a chocolate bar, and begins to play with the paper
+> in which it was wrapped, a rectangle with sides 360 mm and 300 mm. He decides to make a single straight fold
+> so that, once the paper is folded, a vertex of the rectangle is exactly at the midpoint
+> of the short side of which it is not an endpoint. How many millimetres is the fold?
 
-**Answer:** 325
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2013_febb_2livello#q14|src_archimede_2013_febb_2livello__Q14]]
 
 
 
@@ -595,9 +655,19 @@ Marine battle, minimum hits to hit aircraft carriers 5x1
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Term (a,b,c) with MCD 1 and reciprocal divisibility of the sides*
+*Triples (a,b,c) with gcd 1 and mutual divisibility of the sides*
 
-> DEMOSTRATIVE EXERCISE Determine all the terms of strictly positive integers (a, b, c) such that - a ≤b ≤c; - MCD (a, b, c) = 1; - a is divisor of b + c, b is divisor of c + a and c is divisor of a + b.
+> PROOF EXERCISE
+> Determine all triples of strictly positive integers (a, b, c) such that
+> - a ≤ b ≤ c;
+> - gcd(a, b, c) = 1;
+> - a divides b + c, b divides c + a and c divides a + b.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2013_febb_2livello#q15|src_archimede_2013_febb_2livello__Q15]]
 
 
 
@@ -627,9 +697,19 @@ Marine battle, minimum hits to hit aircraft carriers 5x1
 <div class="qlang-split" data-lang="en"></div>
 
 
-*for which n returns to the starting point*
+*For which n does it return to the starting point*
 
-> Demonstrative Exercise Be a positive whole. A flea is on the real line and performs a sequence of n jumps of length 1,2,3. . . ,n. The flea can choose the order of the jump lengths and for each jump it can decide whether to jump to the right or to the left. (a) Demonstrate that for n = 2012, the fly can end the jump sequence at the same point from which it started. (b) Demonstrate that for n = 2013 this is not possible. (c) In general, what is the point of departure?
+> PROOF EXERCISE
+> Let n be a positive integer. A flea is on the real line and makes a sequence of n jumps of lengths 1, 2, 3, . . . , n. The flea may choose the order of the jump lengths and for each jump may decide whether to jump to the right or to the left.
+> (a) Prove that for n = 2012 the flea can finish the sequence of jumps at the same point from which it started.
+> (b) Prove that for n = 2013 this is not possible.
+> (c) In general, for which n can it return to the starting point?
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2013_febb_2livello#q16|src_archimede_2013_febb_2livello__Q16]]
 
 
 
@@ -693,41 +773,18 @@ Marine battle, minimum hits to hit aircraft carriers 5x1
 <div class="qlang-split" data-lang="en"></div>
 
 
-*parallel to P bisected and PQ bisected minor base*
+*Two statements about a trapezium that is not a parallelogram*
 
 ![[src_archimede_2013_febb_2livello__prob17.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.8]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (6,0);
-  \coordinate (Q) at (3,9);
-  \coordinate (D) at (1.35,4.05);
-  \coordinate (C) at (4.65,4.05);
-  \coordinate (P) at (3,2.613);
-  \coordinate (X) at (0.871,2.613);
-  \coordinate (Y) at (5.129,2.613);
-  \coordinate (M) at (3,4.05);
-  \draw (A) -- (B) -- (Q) -- cycle;
-  \draw (D) -- (C);
-  \draw (A) -- (C);
-  \draw (B) -- (D);
-  \draw (X) -- (Y);
-  \draw (Q) -- (P);
-  \fill (P) circle (1.5pt);
-  \fill (M) circle (1.5pt);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above] at (Q) {$Q$};
-  \node[left] at (D) {$D$};
-  \node[right] at (C) {$C$};
-  \node[below] at (P) {$P$};
-  \node[left] at (X) {$X$};
-  \node[right] at (Y) {$Y$};
-  \node[above] at (M) {$M$};
-\end{tikzpicture}
-\end{document}
-```
+> PROBLEM TO BE PROVED
+> Let ABCD be a trapezium that is not a parallelogram. Let P be the intersection of the diagonals, and let Q be the intersection of the extensions of the non-parallel sides.
+> (a) Draw the line through P parallel to the bases, and let X and Y be its intersections with the non-parallel sides: prove that XP = YP.
+> (b) Prove that the line PQ meets the shorter base at its midpoint.
 
-> Demonstrative Exercise Whether ABCD is a trapezoid or not a parallelogram. P shall be the meeting point of the diagonal and Q the intersection point of the oblique side extensions. (a) Draw the parallel to the passing bases for the point P and let X and Y be its meeting points with the oblique sides: show that XP = Y P. (b) It is shown that the straight PQ intersects the minor base at its midpoint.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2013_febb_2livello#q17|src_archimede_2013_febb_2livello__Q17]]

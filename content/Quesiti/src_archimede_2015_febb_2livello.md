@@ -39,9 +39,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*x and x+312 palindromes, x of 4 digits, sum of digits of x*
+*x and x+312 are palindromes, x has four digits, sum of the digits of x*
 
-> A natural number is called a palindrome if it is equal to the number obtained by reading the digits of its writing in base ten from right to left (e.g., 68386 and 44 are palindroms, 220 are not). We know that the natural number x and the number x plus 312 are both palindromes; x has four digits, while x plus 312 has five. How much is the sum of the digits of x?
+> A natural number is called a palindrome if it is equal to the number obtained by reading the digits of its base-ten writing from right to left (for example, 68386 and 44 are palindromes, 220 is not). We know that the natural number x and the number x + 312 are both palindromes; x has four digits, while x + 312 has five. What is the sum of the digits of x?
 >
 > - **(A)** 30
 > - **(B)** 31
@@ -49,7 +49,11 @@ level: 2 livello
 > - **(D)** 33
 > - **(E)** 34
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2015_febb_2livello#q01|src_archimede_2015_febb_2livello__Q01]]
 
 
 
@@ -80,11 +84,19 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of 100 terms with mean consecutive values of*
+*Sum of 100 terms with the mean of consecutive terms equal to the index*
 
-> A sequence of a1. . . , a100 of real numbers is such that the arithmetic mean between two consecutive terms is always equal to the index of the second term (e.g., we have a4+a5 2 = 5); what is the sum of the 100 numbers in the sequence? (A) 2550 (B) 5050 (C) 5100 (D) 10100 (E) It cannot be determined: it depends on a1.
+> A sequence $a_1, \ldots, a_{100}$ of real numbers is such that the arithmetic mean between two consecutive terms is always equal to the index of the second term (for example, $\frac{a_4+a_5}{2} = 5$); what is the value of the sum of the 100 numbers in the sequence?
+> (A) 2550 (B) 5050
+> (C) 5100
+> (D) 10100
+> (E) It cannot be determined: it depends on $a_1$.
 
-**Answer:** C
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2015_febb_2livello#q02|src_archimede_2015_febb_2livello__Q02]]
 
 
 
@@ -140,34 +152,11 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PC length with P diagonal intersection of the pentagon*
+*Length of PC in a regular pentagon of side 1*
 
 ![[src_archimede_2015_febb_2livello__prob3.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=2.2]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (1,0);
-  \coordinate (C) at (1.309,0.9511);
-  \coordinate (D) at (0.5,1.5388);
-  \coordinate (E) at (-0.309,0.9511);
-  \coordinate (P) at (0.5,0.3633);
-  \draw (A)--(B)--(C)--(D)--(E)--cycle;
-  \draw (A)--(C);
-  \draw (B)--(E);
-  \foreach \pt in {A,B,C,D,E,P}{\fill (\pt) circle (0.7pt);}
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[right] at (C) {$C$};
-  \node[above] at (D) {$D$};
-  \node[left] at (E) {$E$};
-  \node[below] at (P) {$P$};
-\end{tikzpicture}
-\end{document}
-```
-
-> Either ABCDE is a regular pentagon on side 1 and P is the intersection between the AC and BE diagonals. How big is the PC segment?
+> Let ABCDE be a regular pentagon of side 1, and let P be the intersection of the diagonals AC and BE. What is the length of the segment PC?
 >
 > - **(A)** 1
 > - **(B)** √ 5 2
@@ -175,7 +164,12 @@ level: 2 livello
 > - **(D)** 4( √ 5 −2)
 > - **(E)** None of the above.
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2015_febb_2livello#q03|src_archimede_2015_febb_2livello__Q03]]
 
 
 
@@ -218,11 +212,20 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Form on the keyboard, how many statements on n are true*
+*Ant on a keypad, how many statements about n are true*
 
-![[src_archimede_2015_febb_2livello__prob4.png]]
-
-> An ant walks on a cell phone's numeric keyboard, made up of 10 buttons arranged as shown in the figure. The ant always moves from the button on which it is at an adjacent button horizontally or vertically; it starts from the button 1 and walks for a while on the keyboard, finally stopping on the button 0, which it had never visited before. Consider the number n obtained by concatenating the numbers of the keys on which the ant passed, in the order in which it visited them (for example, the path in the figure would correspond to the number 12580). Say how many of the following four statements are certainly true: - n is not a multiple of 3; - n is not a multiple of 8; - n is composed of an odd number of digits; - n is not a square.
+> An ant walks on the numeric keypad of a mobile phone, consisting of
+> 10 buttons arranged as in the figure. The ant always moves from the button
+> it is on to an adjacent button horizontally or vertically; it starts from button
+> 1 and walks around the keypad for a while, finally stopping on button 0, which
+> it had never visited before. Consider the number n obtained by concatenating
+> the digits of the buttons the ant passed through, in the order in which it visited
+> them (for example, the path in the figure would correspond to the number 12580).
+> Say how many of the following four statements are certainly true:
+> - “n is not a multiple of 3”;
+> - “n is not a multiple of 8”;
+> - “n consists of an odd number of digits”;
+> - “n is not a square”.
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -230,7 +233,11 @@ level: 2 livello
 > - **(D)** 3
 > - **(E)** 4
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2015_febb_2livello#q04|src_archimede_2015_febb_2livello__Q04]]
 
 
 
@@ -263,9 +270,12 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Monic polynomials with MCD and mcm data, p(x)*
+*Monic polynomials with given GCD and LCM, choices of p(x)*
 
-> Two monic polynomials (i.e. with a maximum degree coefficient equal to 1) with integer coefficients p(x) and q(x) are such that their maximum common divisor is (x −1)(x −2), their minimum common multiple is (x −1) 2(x −2) 3(x −3)(x + 1) and the degree of p(x) is less than or equal to the degree of q(x. In how many ways can p ((x) be chosen?
+> Two monic polynomials (that is, with leading coefficient equal to 1) with integer coefficients p(x)
+> and q(x) are such that their greatest common divisor is (x −1)(x −2), their least common
+> multiple is (x −1)2(x −2)3(x −3)(x + 1) and the degree of p(x) is less than or equal to the degree of q(x).
+> In how many ways can p(x) be chosen?
 >
 > - **(A)** 4
 > - **(B)** 5
@@ -273,7 +283,11 @@ level: 2 livello
 > - **(D)** 10
 > - **(E)** 12
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2015_febb_2livello#q05|src_archimede_2015_febb_2livello__Q05]]
 
 
 
@@ -306,17 +320,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of triangle areas of symmetries and hexagons*
+*Ratio of the area of triangle A′B′C′ to that of the hexagon*
 
-> Given a triangle ABC, be A′ the symmetric of A with respect to C, A′′ the symmetric of A with respect to B, B′ the symmetric of B with respect to A, B′′ the symmetric of B with respect to C, C′ the symmetric of C with respect to B and C′′ the symmetric of C with respect to A. Determine the ratio between the A′B′C′ and that of the A′A′′C′C′′B′B′′.
+> Given a triangle ABC, let A′ be the point symmetric to A with respect to C, A′′ the point symmetric to A with respect to B, B′ the point symmetric to B with respect to A, B′′ the point symmetric to B with respect to C, C′ the point symmetric to C with respect to B, and C′′ the point symmetric to C with respect to A. Find the ratio of the area of A′B′C′ to that of the hexagon A′A′′C′C′′B′B′′.
 >
 > - **(A)** 6 13
 > - **(B)** 7 13
 > - **(C)** 3 7
 > - **(D)** 1 2
-> - **(E)** Depends on the starting triangle.
+> - **(E)** it depends on the initial triangle.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2015_febb_2livello#q06|src_archimede_2015_febb_2livello__Q06]]
 
 
 
@@ -347,9 +365,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quaternary with a^2^c^2=b^2^d^2=ab+bc+cd+da=1024*
+*Quadruples with a^2-c^2=b^2-d^2=ab+bc+cd+da=1024*
 
-> For how many quadrants (a, b, c, d) of nonnegative integers are the three expressions a2 −c2, b2 −d2 and ab + bc + cd + da all equal to 1024?
+> For how many quadruples (a, b, c, d) of non-negative integers are the three expressions a2 −c2, b2 −d2 and ab + bc + cd + da all equal to 1024?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -357,7 +375,11 @@ level: 2 livello
 > - **(D)** 9
 > - **(E)** 11
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2015_febb_2livello#q07|src_archimede_2015_febb_2livello__Q07]]
 
 
 
@@ -391,11 +413,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of ABC given square on the hypotenuse and areas of ABE, ACD*
+*Area of ABC given the square on the hypotenuse and the areas of ABE, ACD*
 
-![[src_archimede_2015_febb_2livello__prob8.png]]
-
-> Given the triangle ABC rectangle in A we build on the hypotenuse the square BCDE (with D, E on the opposite side of A versus BC). Knowing that the areas of the triangles ABE and ACD are worth 6 m2 and 27 m2 respectively, what is the area of the triangle ABC worth?
+> Given the right triangle ABC with the right angle at A, we construct the square BCDE on the hypotenuse (with D, E on the side opposite A with respect to BC). Knowing that the areas of triangles ABE and ACD are respectively 6 m2 and 27 m2, what is the area of triangle ABC?
 >
 > - **(A)** 3 √ 2 m2
 > - **(B)** 6 m2
@@ -403,7 +423,11 @@ level: 2 livello
 > - **(D)** 9 √ 2 m2
 > - **(E)** 18 m2
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2015_febb_2livello#q08|src_archimede_2015_febb_2livello__Q08]]
 
 
 
@@ -438,11 +462,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of footing at an angle after 12 diagonal steps*
+*Probability of a pawn being in a corner after 12 diagonal steps*
 
-![[src_archimede_2015_febb_2livello__prob9.png]]
-
-> A pedal is initially located on the central box of a chessboard 5 × 5. One step of the pedina consists of moving in a randomly chosen box between those that have exactly one vertex in common with the box on which it is located. What is the probability that after 12 steps the pawn will be in any corner of the chessboard?
+> A pawn starts on the central square of a 5 × 5 chessboard. A move of the pawn consists of moving to a randomly chosen square among those that have exactly one vertex in common with the square it is on. What is the probability that after 12 moves the pawn is in any of the corners of the chessboard?
 >
 > - **(A)** 1 3
 > - **(B)** 4 25
@@ -450,7 +472,11 @@ level: 2 livello
 > - **(D)** 4 13
 > - **(E)** 1 4
 
-**Answer:** E
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2015_febb_2livello#q09|src_archimede_2015_febb_2livello__Q09]]
 
 
 
@@ -487,9 +513,11 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Special green grass after the kangaroo jumps*
+*Green special stairs after the kangaroos' jumps*
 
-> Caboyara, a famous Australian circus performer, is performing again this year in a big make-up. It 's a spectacular scale with N = p1 · p2 · . . . · p2015 steps, where p1, p2, . . . , p2015 are distinct prime numbers; the steps corresponding to N divisors (including the first and lN-eighth step) are special and are initially illuminated in green. During the show, 2015 mastered kangaroos climb the ladder one after the other; for i = 1, 2, . . . , 2015, the eighth kangaroo jumps steps at a time, starting at the foot of the ladder (jumps step pi, then step 2pi, and so on until it reaches step N). Every time a kangaroo jumps on a special ladder, it changes color: green to red, green to red. How many special steps will be lit up in green at the end of the exhibition?
+> Caboyara, a famous Australian circus performer, performs a great trick this year too. He sets up a spectacular staircase with N = p1 · p2 · . . . · p2015 steps, where p1, p2, . . . , p2015 are distinct prime numbers; the steps corresponding to divisors of N (including the first and the N-th step) are special and are initially lit green.
+> During the show, 2015 trained kangaroos climb the staircase one after another; for i = 1, 2, . . . , 2015, the i-th kangaroo jumps pi steps at a time, starting at the foot of the staircase (jumps to step pi, then to 2pi, and so on until it reaches step N). Each time a kangaroo jumps onto a special step, it changes colour: from green to red, from red to green.
+> How many special steps will be lit green at the end of the show?
 >
 > - **(A)** 22015 −21008
 > - **(B)** 22014
@@ -497,7 +525,11 @@ level: 2 livello
 > - **(D)** 22013
 > - **(E)** 2015 · 21008
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2015_febb_2livello#q10|src_archimede_2015_febb_2livello__Q10]]
 
 
 
@@ -532,9 +564,14 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of passing segments of the 9-agon with one side per triangle*
+*Ways of retracing segments of the 9-gon with one side per triangle*
 
-> John draws a regular 9-axis pencil and connects each of its vertices to the center, drawing a total of 18 segments and thus obtaining nine triangles. It then pencils some of the traced segments, making sure that at the end each of the nine triangles has exactly one penciled side. In how many ways can John choose the whole of the segments to go through? (Note: two sets of segments obtained from each other by rotation or symmetry are to be considered separate.)
+> Giovanni draws a regular 9-gon in pencil and connects each of its vertices to the centre,
+> drawing a total of 18 segments and thereby obtaining nine triangles. He then retraces
+> some of the drawn segments with a pen, so that in the end each of the nine triangles
+> has exactly one side retraced with a pen. In how many ways can Giovanni choose the set
+> of segments to retrace? (Note: two sets of segments that are obtained from one another by
+> rotation or by symmetry are to be considered distinct.)
 >
 > - **(A)** 49
 > - **(B)** 65
@@ -542,7 +579,11 @@ level: 2 livello
 > - **(D)** 76
 > - **(E)** 85
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2015_febb_2livello#q11|src_archimede_2015_febb_2livello__Q11]]
 
 
 
@@ -575,19 +616,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AC length in the cyclic quadrilateral given sides and BD*
+*Length of AC given the sides of ABCD and BD*
 
-![[src_archimede_2015_febb_2livello__prob12.png]]
-
-> Whether ABCD is a quadrilateral such that AB = 24, BC = 20, CD = 15, DA = 7, BD = 25. How long is AC?
+> Let ABCD be a quadrilateral such that AB = 24, BC = 20, CD = 15, DA = 7, BD = 25. How long is AC?
 >
 > - **(A)** 18
 > - **(B)** 14 √ 2
 > - **(C)** 20
 > - **(D)** 21
-> - **(E)** 24 Problems with a numerical answer  5 points
+> - **(E)** 24
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2015_febb_2livello#q12|src_archimede_2015_febb_2livello__Q12]]
 
 
 
@@ -613,11 +656,17 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fourth root of a power sum of 2*
+*Fourth root of a sum of powers of 2*
 
-> How much is 4p 220 + 227 + 231 + 232 + 237 + 240 ?
+> What is the value of
+> 4p
+> 220 + 227 + 231 + 232 + 237 + 240 ?
 
-**Answer:** 1056
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2015_febb_2livello#q13|src_archimede_2015_febb_2livello__Q13]]
 
 
 
@@ -645,11 +694,15 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pulse on 2015 action, first jump to the summit already visited*
+*Flea on a 2015-gon, first jump onto an already-visited vertex*
 
-> A flea is initially located on a top of a regular 2015-sided polygon; it performs a sequence of anti-clockwise jumps: at the first jump it moves from a top (from the initial to the nearest), to the second of three, to the third of five, and so on, so that atn-eighth it starts from a top and lands 2n −1 vertices further up, always in anti-clockwise direction. After how many jumps will it be the first time the fleas land on a summit they've already visited?
+> A flea starts on a vertex of a regular polygon with 2015 sides; it makes a sequence of jumps in the counterclockwise direction: on the first jump it moves by one vertex (from the initial one to the neighbouring one), on the second by three, on the third by five, and so on, so that on the n-th it starts from a vertex and lands 2n − 1 vertices further on, always in the counterclockwise direction. After how many jumps will it first land on a vertex that it had already visited?
 
-**Answer:** 48
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2015_febb_2livello#q14|src_archimede_2015_febb_2livello__Q14]]
 
 
 
@@ -683,9 +736,19 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*winnings with moves -3 or meta*
+*victories with moves -3 or half*
 
-> Camilla has a box containing 2015 graffiti. He takes a positive number n and puts them on Federica's bench, challenging her to the next game. Federica has two types of moves: she can remove 3 graffiti from the pile she has on her bench (if the pile contains at least 3 graffiti), or she can remove half of the graffiti present (if the pile contains an equal number). Federica wins if, with a sequence of moves of the types described above, she manages to remove all the graffiti from her desk. (a) For how many of the 2015 possible values of n can Federica win? (b) The girls change the rules of the game and decide to award the victory to Federica in case she manages to leave a single graffiti on the bench. For how many of the 2015 values can Federica win with the new rules?
+> PROOF EXERCISE
+> Camilla has a box containing 2015 paperclips. She takes a positive number n of them and puts them on Federica's desk, challenging her to the following game. Federica has two types of moves available: she can remove 3 paperclips from the pile on her own desk (if the pile contains at least 3 paperclips), or remove half of the paperclips present (if the pile contains an even number). Federica wins if, with a sequence of moves of the types described above, she manages to remove all the paperclips from her own desk.
+> (a) For how many of the 2015 possible values of n can Federica win?
+> (b) The girls change the rules of the game and decide to award the victory to Federica in the case she manages to leave a single paperclip on the desk.
+> For how many of the 2015 values of n can Federica win under the new rules?
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_backward|Working backwards]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2015_febb_2livello#q15|src_archimede_2015_febb_2livello__Q15]]
 
 
 
@@ -716,11 +779,19 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*cyclicity and similarities*
+*cyclicity and similarity*
 
-![[src_archimede_2015_febb_2livello__prob16.png]]
+> PROOF EXERCISE
+> Let ABCD be a convex quadrilateral such that AB = AC = AD and BC < CD. The bisector of angle
+> BAD intersects CD internally at M and the extension of BC at N. Prove that
+> (a) the quadrilateral ABCM is cyclic;
+> (b) the triangles ANB and ABM are similar.
 
-> Demonstrative Exercise Whether ABCD is a convex quadrilateral such that AB = AC = AD and BC < CD. The intersection of the angle \ BAD intersects internally the CD in M and the BC extension in N. Demonstrate that (a) the ABCM quadrilateral is inscribed in a circumference; (b) the ANB and ABM triangles are similar.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2015_febb_2livello#q16|src_archimede_2015_febb_2livello__Q16]]
 
 
 
@@ -749,6 +820,17 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*value of k and n*
+*values of k and n*
 
-> Demonstrative Exercise Whether n is a positive integer and whether 1 = d1 < d2 < d3 < . . . < dk = n of its positive divisors, ordered by size. We know that k ≥4 and that d2 3 + d2 4 = 2n + 1. (a) Find all possible values of k. (b) Find all possible values of n.
+> PROOF EXERCISE
+> Let n be a positive integer and let 1 = d1 < d2 < d3 < . . . < dk = n be its positive divisors, ordered by size. It is known that k ≥ 4 and that d2
+> 3 + d2
+> 4 = 2n + 1.
+> (a) Find all possible values of k.
+> (b) Find all possible values of n.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2015_febb_2livello#q17|src_archimede_2015_febb_2livello__Q17]]

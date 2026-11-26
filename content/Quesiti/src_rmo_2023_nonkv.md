@@ -29,9 +29,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il più grande intero positivo m in modo che abcd divida tutti (a,b,c,d) in S*
+*Trovare il più grande intero positivo m tale che abcd divida tutti gli (a,b,c,d) in S*
 
-> $\mathbb{N}$ sia l'insieme di tutti gli integri positivi e $S = \{(a, b, c, d) \in \mathbb{N}^4 : a^2 + b^2 + c^2 = d^2\}$. Trova il più grande intero positivo $m$ in modo che $m$ divida $abcd$ per tutti $(a, b, c, d) \in S$.
+> Sia $\mathbb{N}$ l'insieme di tutti gli interi positivi e $S = \{(a, b, c, d) \in \mathbb{N}^4 : a^2 + b^2 + c^2 = d^2\}$. Trovare il più grande intero positivo $m$ tale che $m$ divida $abcd$ per ogni $(a, b, c, d) \in S$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2023_nonkv#q01|src_rmo_2023_nonkv__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Semicircolo con CD a corde variabili; indicazione dell'angolo e delle condizioni del circoncircolo*
+*Semicerchio con corda CD variabile; mostrare l'angolo e le condizioni relative alla circonferenza circoscritta*
 
-> Il $\omega$ deve essere un semicircolo con $AB$ come diametro di confine e il $CD$ deve essere un'accorda variabile del semicircolo di lunghezza costante tale che $C, D$ si trovi all'interno dell'arco $AB$. Il $E$ deve essere un punto del diametro $AB$ in modo tale che $CE$ e $DE$ siano ugualmente incline alla linea $AB$. Prova che a) la misura di $\angle CED$ è una costante; b) il circoncircolo del triangolo $CED$ passa attraverso un punto fisso.
+> Sia $\omega$ un semicerchio avente $AB$ come diametro delimitante, e sia $CD$ una corda variabile del semicerchio di lunghezza costante tale che $C, D$ giacciano all'interno dell'arco $AB$. Sia $E$ un punto sul diametro $AB$ tale che $CE$ e $DE$ siano inclinati in modo uguale rispetto alla retta $AB$. Dimostrare che
+> (a) la misura di $\angle CED$ è una costante;
+> (b) la circonferenza circoscritta al triangolo $CED$ passa per un punto fisso.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2023_nonkv#q02|src_rmo_2023_nonkv__Q02]]
 
 
 
@@ -82,9 +98,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i numeri naturali m e n con condizioni di somma digitali nella base 10*
+*Trovare numeri naturali m e n con condizioni sulla somma delle cifre in base 10*
 
-> Per qualsiasi numero naturale $n$, scritto nella base 10, $s(n)$ indichi la somma di tutte le sue cifre. Trova tutti i numeri naturali $m$ e $n$ in modo tale che $m < n$ e $$(s(n))^2 = m \quad \text{and} \quad (s(m))^2 = n.$$
+> Per ogni numero naturale $n$, scritto in base 10, si indichi con $s(n)$ la somma di tutte le sue cifre. Determinare tutti i numeri naturali $m$ e $n$ tali che $m < n$ e
+> $$(s(n))^2 = m \quad \text{and} \quad (s(m))^2 = n.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2023_nonkv#q03|src_rmo_2023_nonkv__Q03]]
 
 
 
@@ -107,9 +131,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi che si intersecano; bisettori perpendicolari e collinearità dei punti di mezzo*
+*Due cerchi che si intersecano; assi mediali perpendicolari e collinearità dei punti medi*
 
-> Il $\Omega_1, \Omega_2$ deve essere costituito da due cerchi intersezionati con rispettivamente i centri $O_1, O_2$. La linea $l$ interseca $\Omega_1$ nei punti $A, C$ e $\Omega_2$ nei punti $B, D$ in modo tale che $A, B, C, D$ siano collineari in tale ordine. Il bisettore perpendicolare del segmento $AB$ interseca $\Omega_1$ nei punti $P, Q$ e il bisettore perpendicolare del segmento $CD$ interseca $\Omega_2$ nei punti $R, S$ in modo tale che $P, R$ sia sullo stesso lato di $l$. Provare che i punti di mezzo di $PR$, $QS$ e $O_1 O_2$ sono collineari.
+> Siano $\Omega_1, \Omega_2$ due circonferenze incidenti con centri rispettivamente $O_1, O_2$. Sia $l$ una retta che interseca $\Omega_1$ nei punti $A, C$ e interseca $\Omega_2$ nei punti $B, D$, in modo che $A, B, C, D$ siano allineati in tale ordine. Sia l'asse perpendicolare della corda $AB$ a intersecare $\Omega_1$ nei punti $P, Q$, e sia l'asse perpendicolare della corda $CD$ a intersecare $\Omega_2$ nei punti $R, S$, in modo che $P, R$ si trovino sullo stesso lato di $l$. Dimostrare che i punti medi di $PR$, $QS$ e $O_1 O_2$ sono allineati.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2023_nonkv#q04|src_rmo_2023_nonkv__Q04]]
 
 
 
@@ -133,9 +164,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i valori reali positivi a_1,...,a_n che soddisfano un'identità di somma di frazioni*
+*Trovare numeri reali positivi a_1,...,a_n che soddisfino un'identità di somma di frazioni*
 
-> Lasciate che $n > k > 1$ siano numeri interi positivi. Determinare tutti i numeri reali positivi $a_1, a_2, \ldots, a_n$ che soddisfano $$\sum_{i=1}^{n} \sqrt{\frac{k a_i^k}{(k-1)a_i^k + 1}} = \sum_{i=1}^{n} a_i = n.$$
+> Siano $n > k > 1$ numeri interi positivi. Determinare tutti i numeri reali positivi $a_1, a_2, \ldots, a_n$ che soddisfano
+> $$\sum_{i=1}^{n} \sqrt{\frac{k a_i^k}{(k-1)a_i^k + 1}} = \sum_{i=1}^{n} a_i = n.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2023_nonkv#q05|src_rmo_2023_nonkv__Q05]]
 
 
 
@@ -158,6 +197,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*16 punti in griglia 4x4; ogni 7 punti blu contiene un triangolo rettangolare uguale a un'osceles*
+*16 punti in una griglia 4x4; qualsiasi 7 punti blu formano un triangolo rettangolo isoscele*
 
-> Considera un insieme di 16 punti disposti in una formazione quadrata di griglia $4 \times 4$. Dimostra che se uno qualsiasi di questi 7 punti è di colore blu, allora esiste un triangolo rettangolare con uguali ocelli le cui vertici sono tutti blu.
+> Si consideri un insieme di 16 punti disposti in una configurazione a griglia quadrata di $4 \times 4$. Si dimostri che, se 7 qualsiasi di questi punti vengono colorati in blu, allora esiste un triangolo isoscele rettangolo i cui vertici sono tutti blu.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_rmo_2023_nonkv#q06|src_rmo_2023_nonkv__Q06]]

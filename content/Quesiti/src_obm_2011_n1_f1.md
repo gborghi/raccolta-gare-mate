@@ -33,13 +33,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La bolletta per cellulare è divisa tra chiamate, internet, messaggistica*
+*La bolletta del cellulare è suddivisa tra chiamate, internet e messaggistica*
 
-> Nel maggio, l'importo totale della bolletta per il cellulare di Esmeralda era di R\$119.76, without taxes. This amount corresponds to the following items: calls, internet access, and message sending. She spent R\$29.90 per l'accesso a Internet e R\$15.50 per il servizio di spedizione di messaggi. Quanto ha speso per le chiamate?
-> 
+> A maggio, l'importo totale della bolletta del cellulare di Esmeralda era di R$$119.76, without taxes. This amount corresponds to the following items: calls, internet access, and message sending. She spent R\$29,90 per l'accesso a Internet e di R$15,50 per il servizio di invio di messaggi. Quanto ha speso per le chiamate?
+>
 > (A) R\$74.36 \quad (B) R\$74.46 \quad (C) R\$84.36 \quad (D) R\$89.86 \quad (E) R\$104.26
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f1#q01|src_obm_2011_n1_f1__Q01]]
 
 
 
@@ -71,17 +77,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il modo più economico per acquistare 1,2 kg di CHOCOBM
+*Il modo più economico per acquistare 1,2 kg di CHOCOBM*
 
-> In una panetteria, una lattina di 200 g di cacao in polvere CHOCOBM costa R\$3.00, a 400 g can costs R\$5,00 e una lattina di 800 g costa R\$9.00. Lara needs $1.2$ kg of CHOCOBM to make a cake. Among the options below, which is the most economical way to buy $1.2$ kg di CHOCOBM in quella panetteria?
+> In una panetteria, una lattina da 200 g di cacao in polvere CHOCOBM costa R\$3.00, a 400 g can costs R\$5.00, e una lattina da 800 g costa R\$9.00. Lara needs $1.2$ kg of CHOCOBM to make a cake. Among the options below, which is the most economical way to buy $1.2$ al kg di CHOCOBM in quella panetteria?
 >
-> - **(A)** 6 lattine di 200 g
-> - **(B)** 1 lata di 400 g e 1 lata di 800 g
-> - **(C)** 4 lattine di 200 g e 1 lattina di 400 g
-> - **(D)** 2 lattine di 200 g e 1 lattina di 800 g
-> - **(E)** 2 lattine di 200 g e 2 lattine di 400 g
+> - **(A)** 6 lattine da 200 g
+> - **(B)** 1 lattina da 400 g e 1 lattina da 800 g
+> - **(C)** 4 lattine da 200 g e 1 lattina da 400 g
+> - **(D)** 2 lattine da 200 g e 1 lattina da 800 g
+> - **(E)** 2 lattine da 200 g e 2 lattine da 400 g
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f1#q02|src_obm_2011_n1_f1__Q02]]
 
 
 
@@ -114,19 +127,25 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Leggizione di un grafico di variazione dei prezzi alimentari*
+*Leggere un grafico delle variazioni dei prezzi degli alimenti*
 
-> Il grafico mostra una variazione dei prezzi di alcuni prodotti alimentari nel primo semestre di un determinato anno. In base al grafico, quale alternativa può essere affermata con certezza?
+> Il grafico mostra una variazione dei prezzi di alcuni prodotti alimentari nel primo semestre di un certo anno. Sulla base del grafico, quale alternativa si può affermare con certezza?
 >
-> - **(A)** Il mais era sempre più economico del riso o dei fagioli.
-> - **(B)** il prezzo dei fagioli è diminuito solo durante il periodo
-> - **(C)** I fagioli erano sempre più costosi del caffè.
-> - **(D)** Nessun prodotto ha mai avuto lo stesso prezzo.
-> - **(E)** il prodotto con la minore variazione dei prezzi è stato il fagiolo
+> - **(A)** il mais è sempre stato più economico del riso o dei fagioli
+> - **(B)** il prezzo dei fagioli è sceso solo nel corso del periodo
+> - **(C)** i fagioli sono sempre stati più cari del caffè
+> - **(D)** nessun paio di prodotti ha mai avuto lo stesso prezzo
+> - **(E)** il prodotto con la variazione di prezzo più piccola è stato il fagiolo
 
 ![[src_obm_2011_n1_f1__q03.png]]
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n1_f1#q03|src_obm_2011_n1_f1__Q03]]
 
 
 
@@ -154,13 +173,20 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio di date con giorno, mese, ultime due cifre dell'anno*
+*Conteggio delle date con giorno, mese e ultimi due digit dell'anno uguali*
 
-> Una data bella si verifica quando, scritta come $11/11/11$, il mese, il giorno e le ultime due cifre dell'anno sono tutte uguali. Lo scorso anno, questo modello si è verificato su $10/10/10$. Quanti giorni ci sono da $10/10/10$ a $11/11/11$, compresi sia $10/10/10$ che $11/11/11$?
-> 
+> Una bella data si verifica quando, scritta come $11/11/11$, mese, giorno e ultime due cifre dell'anno sono tutti uguali. L'anno scorso, questo schema si è verificato il $10/10/10$. Quanti giorni ci sono da $10/10/10$ a $11/11/11$, includendo sia $10/10/10$ sia $11/11/11$?
+>
 > (A) 396 \quad (B) 398 \quad (C) 400 \quad (D) 402 \quad (E) 404
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f1#q04|src_obm_2011_n1_f1__Q04]]
 
 
 
@@ -190,15 +216,22 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimpiazzare 3 triangoli con 2 quadrati e 1 pentagono su un esagono*
+*Sostituisci 3 triangoli con 2 quadrati e 1 pentagono su un esagono*
 
-> Luana incolla, con nastro adesivo, 6 triangoli equilaterali sui lati di un esagono, come mostrato nella figura, ottenendo un poligono con 12 lati. Se sostituisce 3 dei triangoli con 2 quadrati e 1 pentagono regolare, tutti con lati della stessa dimensione di quelli dell'esagono, con quanti lati avrà il poligono ottenuto ora?
-> 
+> Luana ha incollato, con del nastro adesivo, 6 triangoli equilateri sui lati di un esagono, come mostrato nella figura, ottenendo un poligono con 12 lati. Se sostituisce 3 dei triangoli con 2 quadrati e 1 pentagono regolare, tutti con lati della stessa lunghezza di quelli dell'esagono, quanti lati avrà ora il poligono ottenuto?
+>
 > (A) 14 \quad (B) 16 \quad (C) 17 \quad (D) 18 \quad (E) 25
 
 ![[src_obm_2011_n1_f1__q05.png]]
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n1_f1#q05|src_obm_2011_n1_f1__Q05]]
 
 
 
@@ -225,13 +258,19 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Percentuale di voli cancellati (vulcano e pioggia)*
+*Percentuale di voli cancellati (prima vulcano, poi pioggia)*
 
-> A causa di un'eruzione vulcanica, $10\%$ dei voli da un aeroporto sono stati cancellati. Dei voli rimanenti, $20\%$ sono stati cancellati a causa della pioggia. Qual è la percentuale dei voli totali da tale aeroporto annullati?
-> 
+> A causa di un'eruzione vulcanica, $10\%$ dei voli in partenza da un aeroporto sono stati cancellati. Dei voli rimanenti, $20\%$ sono stati cancellati a causa della pioggia. Quale percentuale del totale dei voli in partenza da quell'aeroporto è stata cancellata?
+>
 > (A) 28\% \quad (B) 30\% \quad (C) 35\% \quad (D) 38\% \quad (E) 70\%
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f1#q06|src_obm_2011_n1_f1__Q06]]
 
 
 
@@ -259,13 +298,20 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre numeri naturali con prodotto 105 e la somma più grande possibile*
+*Tre numeri naturali con prodotto 105 e somma massima possibile*
 
 > Il prodotto di tre numeri naturali è $105$ e la loro somma è la più grande possibile. Qual è questa somma?
-> 
+>
 > (A) 15 \quad (B) 23 \quad (C) 27 \quad (D) 39 \quad (E) 107
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f1#q07|src_obm_2011_n1_f1__Q07]]
 
 
 
@@ -295,15 +341,22 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di rettangolo divisa in 10 quadrati con i lati più piccoli dei numeri interi*
+*Area di un rettangolo suddiviso in 10 quadrati con lati di lunghezza intera minima*
 
-> Il rettangolo nella figura di seguito è diviso in 10 quadrati. Le misure dei lati di tutti i quadrati sono numeri interi positivi e sono i valori più piccoli possibili. L'area di questo rettangolo è:
-> 
+> Il rettangolo nella figura sottostante è suddiviso in 10 quadrati. Le misure dei lati di tutti i quadrati sono numeri interi positivi e rappresentano i valori minimi possibili. L'area di questo rettangolo è:
+>
 > (A) 180 \quad (B) 240 \quad (C) 300 \quad (D) 360 \quad (E) 450
 
 ![[src_obm_2011_n1_f1__q08.png]]
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n1_f1#q08|src_obm_2011_n1_f1__Q08]]
 
 
 
@@ -331,13 +384,20 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre di ragazze in una classe data per il modello di altezza*
+*Numero di ragazze in una classe, dato il modello di classificazione per altezza*
 
-> Una classe di 36 studenti ha altezze diverse. Il più corto tra i ragazzi è più alto di 5 ragazze, il secondo ragazzo più corto è più alto di 6 ragazze, il terzo ragazzo più corto è più alto di 7 ragazze, e così via, fino al ragazzo più alto, che è più alto di tutte le ragazze. Quante ragazze ci sono in questa classe?
-> 
+> In una classe di 36 studenti, tutti hanno altezze diverse. Il più basso tra i ragazzi è più alto di 5 ragazze, il secondo più basso tra i ragazzi è più alto di 6 ragazze, il terzo più basso tra i ragazzi è più alto di 7 ragazze, e così via, fino al ragazzo più alto, che è più alto di tutte le ragazze. Quante ragazze ci sono in questa classe?
+>
 > (A) 12 \quad (B) 14 \quad (C) 16 \quad (D) 18 \quad (E) 20
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f1#q09|src_obm_2011_n1_f1__Q09]]
 
 
 
@@ -364,13 +424,19 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medio di quattro numeri, ognuno aggiunto alla media degli altri tre dà 60,64,68,72*
+*Media di quattro numeri, ciascuno dei quali, sommato alla media degli altri tre, dà 60, 64, 68, 72*
 
-> Esmeralda scelse quattro numeri e, aggiungendo ciascuno alla media aritmetica degli altri tre, ottenne i numeri $60, 64, 68$ e $72$. Qual è la media aritmetica dei quattro numeri che ha scelto inizialmente?
-> 
+> Esmeralda ha scelto quattro numeri e, sommando ciascuno di essi alla media aritmetica degli altri tre, ha ottenuto i numeri $60, 64, 68$ e $72$. Qual è la media aritmetica dei quattro numeri che aveva scelto inizialmente?
+>
 > (A) 30 \quad (B) 31 \quad (C) 32 \quad (D) 33 \quad (E) 66
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n1_f1#q10|src_obm_2011_n1_f1__Q10]]
 
 
 
@@ -397,11 +463,20 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di modi per dare 37 centesimi di cambio in monete da 1,5,10,25 centesimi*
+*Numero di modi per dare 37 centesimi di resto con monete da 1, 5, 10 e 25 centesimi*
 
-> Luca ha comprato una rivista per pagare una banconota di 10,00 euro. In quanti modi può ricevere il cambio di 37 centesimi in monete, se le monete disponibili nella cassa sono di $1, 5, 10$ e $25$ centesimi? Supponiamo che ci siano molte monete di ogni tipo.
-> 
+> Luca ha comprato una rivista pagando con una banconota da R\$9.63 and gave a R\$10,00. In quanti modi può ricevere il resto di 37 centesimi in monete, se le monete disponibili nel cassetto della cassa sono da $1, 5, 10$ e $25$ centavos? Si supponga che ci siano molte monete di ciascun tipo.
+>
 > (A) 10 \quad (B) 12 \quad (C) 15 \quad (D) 24 \quad (E) 30
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f1#q11|src_obm_2011_n1_f1__Q11]]
 
 
 
@@ -431,15 +506,22 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Perimetro di esagono formato da due triangoli equilaterali che si sovrappongono*
+*Perimetro dell'esagono formato da due triangoli equilateri sovrapposti*
 
-> Due triangoli equilaterali di perimetro $36$ cm sono sovrapposti in modo che la loro intersezione costituisca un esagono con coppie di lati paralleli, come illustrato nel disegno. Qual è il perimetro di questo esagono?
-> 
+> Due triangoli equilateri, ciascuno con perimetro di $36$ cm, sono sovrapposti in modo che la loro intersezione formi un esagono con coppie di lati paralleli, come illustrato nel disegno. Qual è il perimetro di questo esagono?
+>
 > (A) 12 cm \quad (B) 16 cm \quad (C) 18 cm \quad (D) 24 cm \quad (E) 36 cm
 
 ![[src_obm_2011_n1_f1__q12.png]]
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2011_n1_f1#q12|src_obm_2011_n1_f1__Q12]]
 
 
 
@@ -466,13 +548,19 @@ Il modo più economico per acquistare 1,2 kg di CHOCOBM
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
+*La posizione d'arrivo di Dido: davanti a un quadruplo di coloro che lo precedono*
 
-> In una gara con i partecipanti del 2011, Dido è arrivato quattro volte prima del numero di persone che sono arrivate prima di lui. In che posto è arrivato Dido?
-> 
+> In una gara con 2011 partecipanti, Dido è arrivato prima di un numero di persone pari al quadruplo di quelle che erano arrivate prima di lui. In quale posizione è arrivato Dido?
+>
 > (A) $20^\circ$ \quad (B) $42^\circ$ \quad (C) $105^\circ$ \quad (D) $403^\circ$ \quad (E) $1005^\circ$
 
-**Risposta:** D
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n1_f1#q13|src_obm_2011_n1_f1__Q13]]
 
 
 
@@ -499,11 +587,20 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 <div class="qlang-split" data-lang="it"></div>
 
 
-*insieri positivi inferiori a 30 con esattamente quattro divisori*
+*Numeri interi positivi minori di 30 con esattamente quattro divisori*
 
-> Quanti integri positivi inferiori a $30$ hanno esattamente quattro divisori?
-> 
+> Quanti numeri interi positivi minori di $30$ hanno esattamente quattro divisori?
+>
 > (A) 9 \quad (B) 10 \quad (C) 11 \quad (D) 12 \quad (E) 13
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f1#q14|src_obm_2011_n1_f1__Q14]]
 
 
 
@@ -533,15 +630,22 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio di superficie dipinta in rosso a bianco di un cubo tagliato in 27 piccoli cubi*
+*Rapporto tra l'area dipinta di rosso e l'area dipinta di bianco di un cubo tagliato in 27 piccoli cubi*
 
-> Un cubo di legno, dipinto in rosso, fu tagliato in 27 cubetti uguali, come nella figura. Alcuni di questi cubetti avevano ancora volti non dipinti (bianchi). Qual è il rapporto tra la superficie totale dipinta in rosso e la superficie totale bianca?
-> 
-> (A) 1:2 \quad B) 1:1 \quad C) 2:1 \quad D) 1:3 \quad E 2:3
+> Un cubo di legno verniciato di rosso è stato segato in 27 piccoli cubi uguali, come nella figura. Alcuni di questi cubi avevano ancora facce non verniciate (bianche). Qual è il rapporto tra l'area totale verniciata di rosso e l'area totale della superficie che è bianca?
+>
+> (A) 1:2 \quad (B) 1:1 \quad (C) 2:1 \quad (D) 1:3 \quad (E) 2:3
 
 ![[src_obm_2011_n1_f1__q15.png]]
 
-**Risposta:** A
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f1#q15|src_obm_2011_n1_f1__Q15]]
 
 
 
@@ -569,13 +673,20 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Possibile numero totale di pezzi dopo tre parti in n pezzi*
+*Numero totale possibile di pezzi dopo tre tagli per ottenere n pezzi*
 
-> Esmeralda strappò un foglio di carta in pezzi $n$ e poi prese una di tali parti e lo strappò anche in pezzi $n$. Non soddisfatta, prese uno di questi ultimi pezzi e lo strappò anche in parti $n$. Quale dei numeri qui sotto potrebbe essere la quantità totale di pezzi ottenuti da Esmeralda?
-> 
+> Esmeralda strappò un foglio di carta in $n$ pezzi e poi prese uno di quei pezzi e lo strappò anch'esso in $n$ pezzi. Non essendo soddisfatta, prese uno di questi ultimi pezzi e lo strappò anch'esso in $n$ pezzi. Quale dei numeri qui sotto potrebbe essere la quantità totale di pezzi ottenuti da Esmeralda?
+>
 > (A) 15 \quad (B) 18 \quad (C) 24 \quad (D) 26 \quad (E) 28
 
-**Risposta:** E
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2011_n1_f1#q16|src_obm_2011_n1_f1__Q16]]
 
 
 
@@ -602,11 +713,20 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conto della cifra 9 in n^2 dove n è 2011 novini*
+*Conteggio delle cifre 9 in n^2, dove n è composto da 2011 nove*
 
-> Il numero $n = 9999\cdots99$ ha i numeri $2011$, tutti uguali a $9$. Quante cifre $9$ ha il numero $n^2$?
-> 
-> (A) nessuno (B) 11 (C) 2010 (D) 2011 (E) 4022
+> Il numero $n = 9999\cdots99$ ha $2011$ cifre, tutte uguali a $9$. Quante cifre $9$ ha il numero $n^2$?
+>
+> (A) nessuno \quad (B) 11 \quad (C) 2010 \quad (D) 2011 \quad (E) 4022
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f1#q17|src_obm_2011_n1_f1__Q17]]
 
 
 
@@ -636,15 +756,22 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei numeri su tre facce cubiche in contatto con la tabella*
+*Somma dei numeri sulle tre facce del cubo a contatto con il tavolo*
 
-> Nel disegno, tre cubetti uguali appoggiati su un tavolo hanno le facce dipinte con i numeri $0, 1, 3, 4, 5$ e $9$. Qual è la somma dei numeri su tutti i volti in contatto con il tavolo?
-> 
+> Nel disegno, tre cubi uguali appoggiati su un tavolo hanno le facce dipinte con i numeri $0, 1, 3, 4, 5$ e $9$. Qual è la somma dei numeri presenti su tutte le facce a contatto con il tavolo?
+>
 > (A) 6 \quad (B) 8 \quad (C) 9 \quad (D) 10 \quad (E) 12
 
 ![[src_obm_2011_n1_f1__q18.png]]
 
-**Risposta:** C
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n1_f1#q18|src_obm_2011_n1_f1__Q18]]
 
 
 
@@ -672,13 +799,20 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'unità della somma 1!+2!+...+2010!+2011!*
+*Cifra delle unità della somma 1!+2!+...+2010!+2011!*
 
-> Rappresentiamo con $n!$ il prodotto di tutti gli integri positivi da $1$ a $n$. Ad esempio, $5! = 1 \times 2 \times 3 \times 4 \times 5$. Calcolare la somma $1! + 2! + 3! + 4! + \cdots + 2010! + 2011!$, qual è la cifra di unità del risultato ottenuto?
-> 
+> Con $n!$ indichiamo il prodotto di tutti gli interi positivi da $1$ a $n$. Ad esempio, $5! = 1 \times 2 \times 3 \times 4 \times 5$. Calcolando la somma $1! + 2! + 3! + 4! + \cdots + 2010! + 2011!$, qual è la cifra delle unità del risultato ottenuto?
+>
 > (A) 1 \quad (B) 3 \quad (C) 4 \quad (D) 7 \quad (E) 9
 
-**Risposta:** B
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2011_n1_f1#q19|src_obm_2011_n1_f1__Q19]]
 
 
 
@@ -705,8 +839,17 @@ Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
 <div class="qlang-split" data-lang="it"></div>
 
 
-Meno numero di biglietti che cambiano di mano in modo che tre ragazze abbiano quantità uguali
+*Numero minimo di note che cambiano di mano affinché tre ragazze abbiano la stessa quantità*
 
-> Esmeralda ha 11 banconote di due reais, Rosa ha 7 banconote di cinque reais e Nelly ha 3 banconote di dieci reais. Qual è il numero più piccolo possibile del totale di banconote che devono cambiare mano in modo che tutte le ragazze finiscano con la stessa quantità?
-> 
+> Esmeralda ha 11 banconote da due reais, Rosa ha 7 banconote da cinque reais e Nelly ha 3 banconote da dieci reais. Qual è il numero minimo possibile di banconote totali che devono cambiare di mano affinché tutte le ragazze abbiano la stessa somma?
+>
 > (A) 5 \quad (B) 6 \quad (C) 7 \quad (D) 8 \quad (E) 9
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2011_n1_f1#q20|src_obm_2011_n1_f1__Q20]]

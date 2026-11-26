@@ -39,13 +39,16 @@ level: triennio
 
 > How many digits does the square of a 10-digit natural number have?
 >
-> - **(A)** less than 25,
-> - **(B)** 40,
-> - **(C)** 50,
-> - **(D)** 60,
-> - **(E)** At least 100.
+> - **(A)** fewer than 25
+> - **(B)** 40
+> - **(C)** 50
+> - **(D)** 60
+> - **(E)** at least 100.
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2010_triennio#q03|src_archimede_2010_triennio__Q03]]
 
 
 
@@ -82,19 +85,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eight-state colours with three impossible colours*
+*Impossible three-colourings of eight states*
 
-![[src_archimede_2010_triennio__prob7.png]]
-
-> Concept imagines a flat, round world, and divides it into eight states, one central and seven around it, as shown in the figure next to it. In addition, each state is given a letter (see figure). He wants to color each state red, or green, or yellow, so that two neighboring states don't have the same color. How many different ways can you do that?
+> Concetta imagines a flat, round world, and divides it into eight states, one in the centre and seven around it, as shown in the figure. She also assigns each state a letter as its name (see the figure). She wants to colour each state red, or green, or yellow, so that two neighbouring states do not have the same colour. In how many different ways can she do this?
 >
-> - **(A)** No one.
-> - **(B)** 2,
-> - **(C)** 4,
-> - **(D)** 5,
+> - **(A)** none
+> - **(B)** 2
+> - **(C)** 4
+> - **(D)** 5
 > - **(E)** 6.
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2010_triennio#q07|src_archimede_2010_triennio__Q07]]
 
 
 
@@ -126,9 +131,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Matches won at the time of classification with points and draws*
+*Wins given the standings with points and draws*
 
-> The math team participates in a championship where each win is worth 3 points, each tie is worth 1 point, and each defeat is worth 0 points. After the first 13 games, the team has 29 points and lost as many matches as it has evened. How many games have you won so far?
+> The mathematics team takes part in a championship in which each win is worth 3
+> points, each draw 1 point and each loss 0 points. After the first 13 matches the team has 29 points and has lost as many matches as it has drawn. How many matches has it won so far?
 >
 > - **(A)** 4,
 > - **(B)** 6,
@@ -136,7 +142,10 @@ level: triennio
 > - **(D)** 9,
 > - **(E)** 11.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2010_triennio#q11|src_archimede_2010_triennio__Q11]]
 
 
 
@@ -167,17 +176,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N values with distinct integer roots of 3x^2+2nx+3*
+*Values of n for which 3x^2+2nx+3 has distinct integer roots*
 
-> For how many distinct values of the natural number n does the equation 3x2 + 2nx + 3 = 0 have two distinct real solutions, and these are both integers?
+> For how many distinct values of the natural number n does the equation 3x2 + 2nx + 3 = 0 have two distinct real solutions, both of them integers?
 >
-> - **(A)** No one.
-> - **(B)** 1,
-> - **(C)** 2,
-> - **(D)** 4,
-> - **(E)** more than five.
+> - **(A)** none
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 4
+> - **(E)** more than 5.
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2010_triennio#q12|src_archimede_2010_triennio__Q12]]
 
 
 
@@ -206,7 +219,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of digits 111222 to 888999 divided by 111*
+*Number of digits of 111222...888999 divided by 111*
 
 > How many digits does the number (111222333444555666777888999)/111 have?
 >
@@ -216,7 +229,10 @@ level: triennio
 > - **(D)** 27,
 > - **(E)** 29.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2010_triennio#q14|src_archimede_2010_triennio__Q14]]
 
 
 
@@ -248,17 +264,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Time for the last km with km on the fastest route
+*Time for the last kilometre when each kilometre is faster*
 
-> An athlete walks 5 km in 16 minutes and 40 seconds. During the route, its speed gradually increases, so that each kilometer is covered in 5 seconds less than the previous one. How long does it take to walk the last mile?
+> An athlete covers 5 km in 16 minutes and 40 seconds. Along the way he steadily increases his speed, so that each kilometre is covered in 5 seconds less than the previous one. How long does he take to cover the last kilometre?
 >
-> - **(A)** Two minutes and 55 seconds,
-> - **(B)** Three minutes,
-> - **(C)** Three minutes and five seconds,
-> - **(D)** 3 minutes and 10 seconds,
-> - **(E)** Three minutes and 15 seconds.
+> - **(A)** 2 minutes and 55 seconds
+> - **(B)** 3 minutes
+> - **(C)** 3 minutes and 5 seconds
+> - **(D)** 3 minutes and 10 seconds
+> - **(E)** 3 minutes and 15 seconds.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2010_triennio#q15|src_archimede_2010_triennio__Q15]]
 
 
 
@@ -288,9 +307,9 @@ Time for the last km with km on the fastest route
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer fields 0-100 with identity between squares*
+*Triples of integers 0–100 with an identity between squares*
 
-> How many distinct ternes (x, y, z), made up of integers between 0 and 100 (extremes included), satisfy (x −y) 2 + (y + z) 2 = (x + y) 2 + (y −z) 2?
+> How many distinct triples (x, y, z), formed by integers between 0 and 100 inclusive, satisfy (x −y)2 + (y + z)2 = (x + y)2 + (y −z)2?
 >
 > - **(A)** 101 · 201,
 > - **(B)** 106,
@@ -298,7 +317,11 @@ Time for the last km with km on the fastest route
 > - **(D)** 104,
 > - **(E)** 51 · 301.
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2010_triennio#q16|src_archimede_2010_triennio__Q16]]
 
 
 
@@ -333,11 +356,12 @@ Time for the last km with km on the fastest route
 <div class="qlang-split" data-lang="en"></div>
 
 
-*EFGH area with equilateral triangles on the sides of the square*
+*Area EFGH with equilateral triangles on the sides of the square*
 
-![[src_archimede_2010_triennio__prob17.png]]
-
-> In the figure below, the square ABCD has a side of 1 m and the triangles ABG, BCH, CDE and DAF are equilateral. How much is the EFGH area?
+> In the figure alongside, the square ABCD has
+> side 1 m and the triangles: ABG, BCH, CDE and
+> DAF are equilateral. What is the area of
+> EFGH?
 >
 > - **(A)** 1 6 m2,
 > - **(B)** 1 4 m2,
@@ -345,7 +369,11 @@ Time for the last km with km on the fastest route
 > - **(D)** (3 √ 3 −5) m2,
 > - **(E)** 1 3 m2.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2010_triennio#q17|src_archimede_2010_triennio__Q17]]
 
 
 
@@ -375,9 +403,9 @@ Time for the last km with km on the fastest route
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perfect squares of at least three digits until 2010·2011*
+*Perfect squares with at least three digits up to 2010·2011*
 
-> How many perfect squares of at least three digits less than or equal to 2010 · 2011?
+> How many perfect squares with at least three digits are less than or equal to 2010 · 2011?
 >
 > - **(A)** 1890,
 > - **(B)** 1910,
@@ -385,7 +413,11 @@ Time for the last km with km on the fastest route
 > - **(D)** 2011,
 > - **(E)** 2110.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2010_triennio#q18|src_archimede_2010_triennio__Q18]]
 
 
 
@@ -421,17 +453,21 @@ Time for the last km with km on the fastest route
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many purple cats between true and false statements*
+*Number of purple cats among truth-tellers and liars*
 
-> Major Tom has landed on a planet populated by purple cats, who always tell the truth, and black cats, who always lie. In the most complete darkness he encounters five cats, who address him as follows. First cat: I am purple; second cat: At least 3 of us are purple, third cat: The first cat is black, fourth cat: At least 3 of us are black, fifth cat: We are all black. How many of the five cats are purple?
+> Major Tom has landed on a planet populated by purple cats, who always tell the truth, and by black cats, who always lie. In complete darkness he meets 5 cats, who address him as follows. First cat: "I am purple"; second cat: "At least 3 of us are purple", third cat: "The first cat is black", fourth cat: "At least 3 of us are black", fifth cat: "We are all black". How many of the 5 cats are purple?
 >
-> - **(A)** No one.
-> - **(B)** 1,
-> - **(C)** 2,
-> - **(D)** 3,
+> - **(A)** none
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
 > - **(E)** 4.
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2010_triennio#q19|src_archimede_2010_triennio__Q19]]
 
 
 
@@ -462,9 +498,9 @@ Time for the last km with km on the fastest route
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five-digit safe combinations with even and divisibility constraints*
+*Five-digit safe combinations with parity and divisibility constraints*
 
-> Valeria must choose the combination of her safe, which must be a five-digit number, all different from zero, divisible by three, and such that of the first four digits (left) two are equal and two are odd. How many chances do you have?
+> Valeria must choose the combination of her safe, which must be a five-digit number, all of whose digits are different from zero, divisible by three, and such that of the first four digits (from left) two are even and two are odd. How many possibilities does she have?
 >
 > - **(A)** 25 · 52,
 > - **(B)** 25 · 52 · 32,
@@ -472,7 +508,11 @@ Time for the last km with km on the fastest route
 > - **(D)** 52 · 34,
 > - **(E)** 210 · 5 · 3.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2010_triennio#q20|src_archimede_2010_triennio__Q20]]
 
 
 
@@ -505,9 +545,9 @@ Time for the last km with km on the fastest route
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Students who fainted after 57 seconds*
+*Students who yawned after 57 seconds*
 
-> At Fairy Tales University, where students are endless and blinking is very contagious, every time a student blinkes, 2 other students blink after 5 seconds (one who has already blinked doesn't do it anymore). Yesterday the Sleeping Beauty (a student) was there and, being very tired, fainted first! How many (including Sleeping Beauty) had fainted after 57 seconds?
+> At the University of Fables, where there are infinitely many students and yawns are very contagious, whenever a student yawns, 2 other students yawn after 5 seconds (those who have already yawned do not do so again). Yesterday Sleeping Beauty (a student) was there and, being very tired, yawned first! How many (including Sleeping Beauty) had yawned after 57 seconds?
 >
 > - **(A)** 2047,
 > - **(B)** 3024,
@@ -515,7 +555,11 @@ Time for the last km with km on the fastest route
 > - **(D)** 4095,
 > - **(E)** 8192.
 
-**Answer:** D
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2010_triennio#q21|src_archimede_2010_triennio__Q21]]
 
 
 
@@ -549,17 +593,21 @@ Time for the last km with km on the fastest route
 <div class="qlang-split" data-lang="en"></div>
 
 
-*State achievable by spells on balls (invariants)*
+*Reachable counts of white and black balls under two spells*
 
-> The Magician Merlin has 7 white and 7 black balls, and can perform two types of spells: the first makes 3 black balls disappear and makes 2 white ones appear (Merlin can only do this if there are at least 3 black balls); the second makes 4 white balls disappear and makes 9 black ones appear (Merlino can only do this if there are at least 4 white balls). After several times casting these spells, it's possible that you'll find yourself with...
+> Wizard Merlin has 7 white balls and 7 black balls, and can cast two kinds of spells: the first makes 3 black balls disappear and 2 white ones appear (Merlin can cast it only if there are at least 3 black balls); the second makes 4 white balls disappear and 9 black ones appear (Merlin can cast it only if there are at least 4 white balls). After casting these spells several times, it is possible that he is left with...
 >
-> - **(A)** Two white balls and 15 black balls.
-> - **(B)** Four white balls and 14 black balls,
-> - **(C)** Three white balls and 11 black balls.
-> - **(D)** Seven white balls and 13 black balls,
-> - **(E)** 10 white balls and 10 black balls.
+> - **(A)** 2 white balls and 15 black ones,
+> - **(B)** 4 white balls and 14 black ones,
+> - **(C)** 3 white balls and 11 black ones,
+> - **(D)** 7 white balls and 13 black ones,
+> - **(E)** 10 white balls and 10 black ones.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2010_triennio#q22|src_archimede_2010_triennio__Q22]]
 
 
 
@@ -613,31 +661,11 @@ Time for the last km with km on the fastest route
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Radio of circumference for P, Q, B with equilateral triangles*
+*Radius of the circle through the centres of two equilateral triangles and the midpoint B*
 
 ![[src_archimede_2010_triennio__prob23.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (A) at (0,2);
-  \coordinate (B) at (0,1);
-  \coordinate (C) at (0,0);
-  \coordinate (D) at (0.866,1.5);
-  \coordinate (E) at (0.866,0.5);
-  \draw (A)--(C);
-  \draw (A)--(D)--(B);
-  \draw (B)--(E)--(C);
-  \node[left] at (A) {$A$};
-  \node[left] at (B) {$B$};
-  \node[left] at (C) {$C$};
-  \node[right] at (D) {$D$};
-  \node[right] at (E) {$E$};
-\end{tikzpicture}
-\end{document}
-```
-
-> In the figure below, AC measures 2 cm, B is the midpoint of AC and the triangles ABD and BCE are equilateral. If P and Q are the centers of ABD and ECB respectively, what is the radius of the passing circumference measured for P, Q and B?
+> In the figure alongside, AC measures 2 cm, B is the midpoint of AC, and triangles ABD and BCE are equilateral. If P and Q are the centres of ABD and BCE respectively, what is the radius of the circle through P, Q and B?
 >
 > - **(A)** √ 3 6 cm,
 > - **(B)** 1 2 cm,
@@ -645,7 +673,12 @@ Time for the last km with km on the fastest route
 > - **(D)** √ 3 3 cm,
 > - **(E)** √ 3 2 cm.
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2010_triennio#q23|src_archimede_2010_triennio__Q23]]
 
 
 
@@ -676,9 +709,9 @@ Time for the last km with km on the fastest route
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of cone cut to a quarter of the height*
+*Volume of a cone cut at a quarter of the height*
 
-> A rectangular circular cone has a volume of 1 m3. The cone shall be cut parallel to the base, at a distance from the top of the cone equal to a quarter of the height of the cone. So you get a new cone; what's its volume?
+> A right circular cone has volume 1 m3. The cone is cut parallel to the base, at a distance from the vertex equal to one quarter of the height of the cone. This produces a new cone; what is its volume?
 >
 > - **(A)** 1 64 m3,
 > - **(B)** 3 64 m3,
@@ -686,7 +719,10 @@ Time for the last km with km on the fastest route
 > - **(D)** 48 64 m3,
 > - **(E)** 63 64 m3.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2010_triennio#q24|src_archimede_2010_triennio__Q24]]
 
 
 
@@ -720,9 +756,9 @@ Time for the last km with km on the fastest route
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Chance of Danilo getting the jersey 8*
+*Probability that Danilo gets jersey 8*
 
-> There are 11 players on a team and 11 shirts numbered from 1 to 11. Players enter the locker room one at a time, in random order. Everyone, as soon as they arrive, chooses a shirt at random, except Danilo who prefers shirt number eight and, if available, chooses that one. What are the odds of Danilo getting his favorite jersey number?
+> In a team there are 11 players and 11 jerseys numbered from 1 to 11. The players enter the changing room one at a time, in random order. Each, as soon as he arrives, chooses a jersey at random, except Danilo who prefers jersey number 8 and, if it is available, chooses that one. What is the probability that Danilo manages to get his preferred jersey number?
 >
 > - **(A)** 4 9,
 > - **(B)** 5 11,
@@ -730,4 +766,8 @@ Time for the last km with km on the fastest route
 > - **(D)** 6 11,
 > - **(E)** 5 9.
 
-**Answer:** D
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2010_triennio#q25|src_archimede_2010_triennio__Q25]]

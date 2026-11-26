@@ -31,11 +31,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riflessi di B,C nell'angolo bisector di A danno lo stesso incentro*
+*Le riflessioni di B e C rispetto alla bisettrice dell'angolo A danno lo stesso incentro*
 
-> Lasciate che $ABC$ sia un triangolo. $B'$ e $C'$ indicano rispettivamente il riflesso di $B$ e $C$ nel bisettore angolare interno di $\angle A$. Indicare che i triangoli $ABC$ e $AB'C'$ hanno lo stesso incentro.
+> Sia $ABC$ un triangolo. Siano $B'$ e $C'$ rispettivamente la riflessione di $B$ e di $C$ rispetto alla bisettrice dell'angolo interno di $\angle A$. Dimostrare che i triangoli $ABC$ e $AB'C'$ hanno lo stesso incentro.
 
 ![[src_rmo_2015_r2__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2015_r2#q01|src_rmo_2015_r2__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio quadratico, P(s) = t, P(t) = s; prova b-st è una radice*
+*Polinomio quadratico, P(s)=t, P(t)=s; dimostrare che b-st è una radice*
 
-> Che $P(x) = x^2 + ax + b$ sia un polinomio quadratico con coefficienti reali. Supponiamo che ci siano numeri reali $s \neq t$ come $P(s) = t$ e $P(t) = s$. Provare che $b - st$ è una radice dell'equazione $x^2 + ax - b - at = 0$.
+> Sia $P(x) = x^2 + ax + b$ un polinomio di secondo grado a coefficienti reali. Si supponga che esistano numeri reali $s \neq t$ tali che $P(s) = t$ e $P(t) = s$. Dimostrare che $b - st$ è una radice dell'equazione $x^2 + ax - b - at = 0$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2015_r2#q02|src_rmo_2015_r2__Q02]]
 
 
 
@@ -83,9 +97,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti gli enti a,b,c con a^2=bc+1, b^2=ca+1*
+*Trovare tutti gli interi a, b, c tali che a^2=bc+1 e b^2=ca+1*
 
-> Trova tutti gli integri $a, b, c$ in modo tale che $a^2 = bc + 1$, $b^2 = ca + 1$.
+> Trovare tutti gli interi $a, b, c$ tali che $a^2 = bc + 1$, $b^2 = ca + 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2015_r2#q03|src_rmo_2015_r2__Q03]]
 
 
 
@@ -108,9 +129,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per scegliere 3 di 32 oggetti su un cerchio, non due adiacenti o diametralmente opposti*
+*Conta i modi di scegliere 3 oggetti tra 32 disposti su una circonferenza, in modo che nessun due siano adiacenti né diametralmente opposti*
 
-> Supponiamo che 32 oggetti siano posizionati lungo un cerchio a distanze uguali. In quanti modi si possono scegliere tre oggetti tra loro in modo che nessuno dei tre oggetti scelti sia adiacente o diametralmente opposto?
+> Supponiamo che 32 oggetti siano disposti lungo una circonferenza a distanze uguali. In quanti modi si possono scegliere 3 oggetti tra questi in modo che nessuna delle due coppie formate dai tre oggetti scelti sia costituita da oggetti adiacenti né da oggetti diametralmente opposti?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2015_r2#q04|src_rmo_2015_r2__Q04]]
 
 
 
@@ -135,11 +163,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi, centro di Sigma su gamma; DE parallelo AC implica AE=AB*
+*Due cerchi, centro di Sigma su Gamma; DE parallela ad AC implica AE=AB*
 
-> Due cerchi $\Gamma$ e $\Sigma$ nel piano si incrociano in due punti distinti $A$ e $B$, e il centro di $\Sigma$ si trova su $\Gamma$. I punti $C$ e $D$ devono essere rispettivamente $\Gamma$ e $\Sigma$ in modo tale che $C$, $B$ e $D$ siano collineari. Il punto $E$ su $\Sigma$ deve essere tale che $DE$ sia parallelo a $AC$. Mostra che $AE = AB$.
+> Due cerchi $\Gamma$ e $\Sigma$ nel piano si intersecano in due punti distinti $A$ e $B$, e il centro di $\Sigma$ giace su $\Gamma$. Siano i punti $C$ e $D$ rispettivamente su $\Gamma$ e $\Sigma$, in modo che $C$, $B$ e $D$ siano allineati. Sia il punto $E$ su $\Sigma$ tale che $DE$ sia parallelo a $AC$. Dimostrare che $AE = AB$.
 
 ![[src_rmo_2015_r2__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2015_r2#q05|src_rmo_2015_r2__Q05]]
 
 
 
@@ -162,6 +197,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca una reale con 4<a<5 tale che a(a-3{a}) sia un intero*
+*Trovare un vero a tale che 4<a<5 e a(a-3{a}) sia un numero intero*
 
-> Trova tutti i numeri reali $a$ in modo tale che $4 < a < 5$ e $a(a - 3\{a\})$ siano un intero. (Qui $\{a\}$ indica la parte frazionaria di $a$. Per esempio $\{1.5\} = 0.5$; $\{-3.4\} = 0.6$.)
+> Trovare tutti i numeri reali $a$ tali che $4 < a < 5$ e $a(a - 3\{a\})$ siano un numero intero. (Qui $\{a\}$ denota la parte frazionaria di $a$. Ad esempio $\{1.5\} = 0.5$; $\{-3.4\} = 0.6$.)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2015_r2#q06|src_rmo_2015_r2__Q06]]

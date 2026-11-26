@@ -30,9 +30,17 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*There is a unique n with an<average of prefixes<=an+1*
+*A unique index at which the average of the first terms lies between two consecutive terms*
 
-> Whether $a_0 < a_1 < a_2 < \cdots$ is an infinite sequence of positive integers. Demonstrate that there is a single integer $n \geq 1$ such that $$a_n < \frac{a_0 + a_1 + \cdots + a_n}{n} \leq a_{n+1}.$$
+> Let $a_0 < a_1 < a_2 < \cdots$ be an infinite sequence of positive integers. Prove that there exists a unique integer $n \geq 1$ such that
+> $$a_n < \frac{a_0 + a_1 + \cdots + a_n}{n} \leq a_{n+1}.$$
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_2014#q01|src_imo_2014__Q01]]
 
 
 
@@ -55,9 +63,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum k with square k×k free of peace towers*
+*Largest k such that every peaceful placement of n rooks leaves an empty k×k square*
 
-> It is $n \geq 2$ a whole. A chessboard $n \times n$ composed of $n^2$ square units shall be considered. A configuration of $n$ towers on this chessboard is said to be **pacific** if each row and column contains exactly one tower. Find the largest positive integer $k$ such that, for each peaceful configuration of $n$ towers, there exists a square $k \times k$ that contains no tower on any of its $k^2$ unit squares.
+> Let $n \geq 2$ be an integer. Consider an $n \times n$ chessboard made up of $n^2$ unit squares. A configuration of $n$ rooks on this chessboard is called **peaceful** if every row and every column contains exactly one rook. Find the largest positive integer $k$ such that, for every peaceful configuration of $n$ rooks, there exists a $k \times k$ square that contains no rook on any of its $k^2$ unit squares.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_2014#q02|src_imo_2014__Q02]]
 
 
 
@@ -82,9 +97,18 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BD tangent to the circle of TSH*
+*BD is tangent to the circumcircle of TSH*
 
-> The convex quadrilateral $ABCD$ has $\angle ABC = \angle CDA = 90°$. The point $H$ is the foot of the perpendicular run from $A$ to $BD$. The points $S$ and $T$ lie on the sides $AB$ and $AD$ respectively, such that $H$ lies within the $SCT$ and $$\angle CHS - \angle CSB = 90°, \qquad \angle THC - \angle DTC = 90°.$$ triangle.
+> The convex quadrilateral $ABCD$ has $\angle ABC = \angle CDA = 90°$. The point $H$ is the foot of the perpendicular from $A$ to $BD$. The points $S$ and $T$ lie on the sides $AB$ and $AD$ respectively, in such a way that $H$ lies inside triangle $SCT$ and
+> $$\angle CHS - \angle CSB = 90°, \qquad \angle THC - \angle DTC = 90°.$$
+> Prove that the line $BD$ is tangent to the circumcircle of triangle $TSH$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_2014#q03|src_imo_2014__Q03]]
 
 
 
@@ -109,7 +133,14 @@ level: IMO
 
 *BM and CN meet on the circumcircle of ABC*
 
-> The $P$ and $Q$ points lie on the $BC$ side of the $ABC$ acute triangle so that $\angle PAB = \angle BCA$ and $\angle CAQ = \angle ABC$. The points $M$ and $N$ lie on the lines $AP$ and $AQ$ respectively, so that $P$ is the mean point of $AM$ and $Q$ is the mean point of $AN$. Demonstrate that the lines $BM$ and $CN$ intersect on the circumference circumscribed at the triangle $ABC$.
+> The points $P$ and $Q$ lie on the side $BC$ of the acute triangle $ABC$ in such a way that $\angle PAB = \angle BCA$ and $\angle CAQ = \angle ABC$. The points $M$ and $N$ lie on the lines $AP$ and $AQ$ respectively, in such a way that $P$ is the midpoint of $AM$ and $Q$ is the midpoint of $AN$. Prove that the lines $BM$ and $CN$ meet on the circumcircle of triangle $ABC$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_2014#q04|src_imo_2014__Q04]]
 
 
 
@@ -132,9 +163,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sharing coins of 1/n value into <=100 groups*
+*Coins of denomination 1/n, total at most 99.5, split into 100 groups of value at most 1*
 
-> For every positive $n$, the Cape Town Bank issues cut coins $\frac{1}{n}$. Given a finite collection of such coins (not necessarily in different cuts) with a total value of at most $99 + \frac{1}{2}$, demonstrate that the collection can be divided into 100 or fewer groups, so that each group has a total value of at most $1$.
+> For every positive integer $n$, the Bank of Cape Town issues coins of denomination $\frac{1}{n}$. Given a finite collection of such coins (not necessarily of different denominations) with total value at most $99 + \frac{1}{2}$, prove that it is possible to divide the collection into 100 or fewer groups so that each group has total value at most $1$.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Method:** [[method_estremalita|Extremal principle]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_2014#q05|src_imo_2014__Q05]]
 
 
 
@@ -159,8 +197,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coloring straight roots without blue region*
+*Colouring at least sqrt(n) lines of a general arrangement so that no finite region is entirely blue*
 
-> A set of lines in the plane is in ** general position** if no pair is parallel and no tern passes through the same point. A set of lines in general position divides the plan into regions, some of which have finite area; these regions are called **finite regions**. Demonstrate that for all $n$ sufficiently large, in any set of $n$ lines in general position it is possible to colour at least $\sqrt{n}$ lines in blue so that no finite region has an entirely blue edge.
-> 
-> **Note:** Results in which $\sqrt{n}$ is replaced by $c\sqrt{n}$ will be evaluated on the basis of the value of the constant $c$.
+> A set of lines in the plane is in **general position** if no pair is parallel and no three pass through the same point. A set of lines in general position divides the plane into regions, some of which have finite area; such regions are called **finite regions**. Prove that for all sufficiently large $n$, in any set of $n$ lines in general position it is possible to colour at least $\sqrt{n}$ lines blue in such a way that no finite region has its entire boundary blue.
+>
+> **Note:** Results in which $\sqrt{n}$ is replaced by $c\sqrt{n}$ will be marked according to the value of the constant $c$.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_analitica|Coordinate geometry]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_2014#q06|src_imo_2014__Q06]]

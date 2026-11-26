@@ -37,9 +37,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer n with √n less than 1 from √101*
+*How many integers n have √n within 1 of √101*
 
-> How many integers n are such that √n differs from √ 101 by less than 1?
+> How many integers n are such that √n differs from √101 by less than 1?
 >
 > - **(A)** 19
 > - **(B)** 21
@@ -47,7 +47,10 @@ level: 2 livello
 > - **(D)** 41
 > - **(E)** 42.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2009_2livello#q01|src_archimede_2009_2livello__Q01]]
 
 
 
@@ -78,9 +81,10 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of rolling solid around one side*
+*Volume of the solid of revolution of the rhombus about a side*
 
-> The perimeter of a rim is 32 cm and each of the two sharp angles measures 30°. How much is the volume of the solid obtained by rotating the shaft around its side?
+> The perimeter of a rhombus is 32 cm and each of the two acute angles measures 30°. What is the volume
+> of the solid obtained by rotating the rhombus about one of its sides?
 >
 > - **(A)** 128 √ 3π
 > - **(B)** 128π
@@ -88,7 +92,11 @@ level: 2 livello
 > - **(D)** 64π
 > - **(E)** 32 √ 3π.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2009_2livello#q02|src_archimede_2009_2livello__Q02]]
 
 
 
@@ -123,7 +131,7 @@ level: 2 livello
 
 *Years between 999 and 9999 with two or more consecutive zeros*
 
-> In the last New Year, glasses with the shape of the number 2009 and lenses instead of the two zeros were very fashionable. In order to make similar glasses, it is necessary that there are two or more consecutive zeros in the number representing the year (e.g. 3500 is fine, 2010 no). How many years between the years 999 and 9999 have two or more consecutive zeros in their writing?
+> In the last New Year, glasses shaped like the number “2009” with the lenses in place of the two zeros were very fashionable. To make similar glasses, the number representing the year must contain two or more consecutive zeros (for example, 3500 is fine, 2010 is not). How many years between the year 999 and the year 9999 contain two or more consecutive zeros in their writing?
 >
 > - **(A)** 171
 > - **(B)** 180
@@ -131,7 +139,11 @@ level: 2 livello
 > - **(D)** 191
 > - **(E)** 200.
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2009_2livello#q03|src_archimede_2009_2livello__Q03]]
 
 
 
@@ -168,17 +180,26 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many sincere people between Luke, Mary, Nicholas, Paola
+*Number of truth-tellers among Luca, Maria, Nicola and Paola*
 
-> At a table, there are four people: Luke, Mary, Nicholas, and Paula. Each of the four always lies, or never lies. Also, they don't like to talk about themselves, but rather about their friends; so much so that when asked who of them always lies, their answers are: Luke: Every girl is always sincere, Maria: Every boy is always a liar, Nicola: There is a girl who always lies, the other girl is always sincere, Paula: One of the boys is always sincere, the other never. Can you tell me how many people at the table are always honest?
+> At a table there are four people: Luca, Maria, Nicola and Paola. Each of the four always lies, or never lies. Moreover they do not like to talk about themselves, but rather about their friends; so much so that, when asked who among them always lies, their answers are:
+> Luca: "every girl is always truthful"
+> Maria: "every boy is always a liar"
+> Nicola: "there is a girl who always lies, the other is always truthful"
+> Paola: "one of the boys is always truthful, the other never".
+> Can you say how many people at the table are always truthful?
 >
-> - **(A)** No one .
+> - **(A)** none
 > - **(B)** 1
 > - **(C)** 2
 > - **(D)** 3
-> - **(E)** I mean, everybody.
+> - **(E)** all.
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2009_2livello#q04|src_archimede_2009_2livello__Q04]]
 
 
 
@@ -221,11 +242,18 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 <div class="qlang-split" data-lang="en"></div>
 
 
-*area of the LMNO square by square symmetrical arcs*
+*Area of square LMNO from arcs symmetric to the square*
 
-![[src_archimede_2009_2livello__prob5.png]]
-
-> A square ABCD of side 1 is inscribed in a circumference γ. The symmetries of the arcs  AB,  BC,  CD,  DA of γ with respect to the sides AB, BC, CD, DA respectively are constructed. Let's say with L, M, N, O the mean points of the arcs thus obtained; how much is the area of LMNO?
+> A square ABCD of side 1 is inscribed in a circle γ. Construct the reflections of the arcs
+> ⌢
+> AB,
+> ⌢
+> BC,
+> ⌢
+> CD,
+> ⌢
+> DA of γ with respect to the sides AB, BC, CD,
+> DA respectively. Let L, M, N, O be the midpoints of the arcs thus obtained; what is the area of LMNO?
 >
 > - **(A)** √ 2 4
 > - **(B)** √ 2 −1
@@ -233,7 +261,11 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 > - **(D)** 1 4
 > - **(E)** 3 −2 √ 2. b c b c b c b c A B C D L M N O γ
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2009_2livello#q05|src_archimede_2009_2livello__Q05]]
 
 
 
@@ -265,17 +297,20 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is deduced from N data change of probability*
+*Deduction about N given a change in probability*
 
-> A ball contains N balls (N > 3) numbered 1 to N. If two balls with non-multiples of 3 and one with a multiple of 3 are removed from the ball, the probability of getting a multiple of 3 by extracting a single ball is less than with the full ball. What can be deduced about N?
+> An urn contains N balls (N > 3) numbered from 1 to N. If two balls bearing numbers that are not multiples of 3, and one bearing a multiple of 3, are removed from the urn, the probability of obtaining a multiple of 3 by drawing a single ball is smaller than it was with the full urn. What can be deduced about N?
 >
-> - **(A)** N is certainly a multiple of 3.
+> - **(A)** N is certainly a multiple of 3
 > - **(B)** N is not a multiple of 3
-> - **(C)** N is certainly odd.
-> - **(D)** N is certainly equal
-> - **(E)** None of the above claims can be deduced.
+> - **(C)** N is certainly odd
+> - **(D)** N is certainly even
+> - **(E)** none of the previous statements can be deduced.
 
-**Answer:** B
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2009_2livello#q06|src_archimede_2009_2livello__Q06]]
 
 
 
@@ -307,9 +342,11 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum n integers without sum or difference divisible by 100*
+*Largest n of integers with neither sum nor difference divisible by 100*
 
-> Determine the largest integer n with this property: there are distinct positive integers a1, . . . If they choose between two distinct ones, their sum and their difference shall be divisible by 100.
+> Determine the largest integer n with this property: there exist n distinct positive integers a1, . . . an
+> such that, whenever two distinct ones are chosen among them, neither their sum nor their difference
+> is divisible by 100.
 >
 > - **(A)** 49
 > - **(B)** 50
@@ -317,7 +354,11 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 > - **(D)** 99
 > - **(E)** 100.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_cassetti|Pigeonhole principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2009_2livello#q07|src_archimede_2009_2livello__Q07]]
 
 
 
@@ -356,11 +397,15 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum route of the thief to touch walls and diamonds*
+*Shortest path of the thief to touch the wall and the diamond*
 
-![[src_archimede_2009_2livello__prob8.png]]
-
-> The tiny but precious Dodecahedron Diamond is located two meters from the south wall and three meters from the west wall of a rectangular room whose north and south walls are four meters long and the east and west walls are three meters long. A thief descends from the ceiling inside the room and touches the floor one meter from the south wall and one meter from the west wall. However, you notice that you must immediately disable the alarm system, cutting at least one line running at a constant ground height along the four perimeter walls of the room. How many meters is the shortest path you have to take to first reach any point on one of the walls, and then the Dodecahedron Diamond?
+> The tiny, but precious, Dodecahedral Diamond is located 2 meters from the south wall and 3 meters
+> from the west wall of a rectangular room whose north and south walls are 4 meters long and those
+> east and west are 3 meters long. A thief descends from the ceiling inside the room and touches the
+> floor at one meter from the south wall and one meter from the west wall. He realizes, however, that he must
+> immediately deactivate the alarm system, cutting at least at one point a wire that runs at constant height
+> above the floor along the four perimeter walls of the room. How many meters is the shortest path he must take to reach first any point of one of the walls,
+> and then the Dodecahedral Diamond?
 >
 > - **(A)** 3 + √ 2
 > - **(B)** 2 + √ 5
@@ -368,7 +413,11 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 > - **(D)** √ 13
 > - **(E)** 2 √ 2.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2009_2livello#q08|src_archimede_2009_2livello__Q08]]
 
 
 
@@ -399,17 +448,21 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quantities n with base 2 representation equal to base 3 of 2n*
+*Positive integers n whose base-2 form matches the base-3 form of 2n*
 
-> How many positive integers n have the property that their representation on base 2 coincides with the representation on base 3 of 2n?
+> How many positive integers n have the property that their representation in base 2 coincides with the representation in base 3 of 2n?
 >
-> - **(A)** No one .
+> - **(A)** none
 > - **(B)** 1
 > - **(C)** 2
-> - **(D)** more than 2, but in finite number
-> - **(E)** infinite.
+> - **(D)** more than 2, but finitely many
+> - **(E)** infinitely many.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2009_2livello#q09|src_archimede_2009_2livello__Q09]]
 
 
 
@@ -441,17 +494,22 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of all zero points after 10 hands*
+*Probability that three card players are all back on zero after ten hands*
 
-> Alberto, Barbara and Carlo are playing cards. In each hand, the winner gains 2 points, while the other two players lose one point each. Initially, everyone has zero points. What's the probability that after 10 hands, they're all zero again?
+> Alberto, Barbara and Carlo are playing cards. At each hand the winner gains 2 points, while each of the other two players loses one point. At the start they all have 0 points. What is the probability that, after 10 hands, they are all back on zero points?
 >
 > - **(A)** 0
 > - **(B)** 1 5
 > - **(C)** 1 3
-> - **(D)** 10 6  310
-> - **(E)** 1 − 2 3 10 .
+> - **(D)** 10 6 310
+> - **(E)** 1 − 2 3 10 .
 
-**Answer:** A
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_archimede_2009_2livello#q10|src_archimede_2009_2livello__Q10]]
 
 
 
@@ -488,17 +546,21 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pages are given identical lists of answers on thieves*
+*Number of pages given identical lists of answers about the knaves*
 
-> There are 2009 inhabitants on Chenonce Island, divided into three clans: the thieves who always lie, the knights who never lie, the pagans who lie one day yes and one day no, independently of each other. One day I ask every single one of the residents how many crooks there are on the island. The first one says: c is at least 1 thief; the second one says: there are at least 2 thieves. . . The 2009th says, "There are at least 2009 thieves". I'm listing the 2009 responses in the order in which they were given. The next day I interview all the inhabitants in the same way (not necessarily in the same order), and I get a list of answers identical to that of the previous day. Knowing there's only one knight on the island, how many pagas are there?
+> On the island of Chenonc’è there are 2009 inhabitants, divided into three clans: the knaves, who always lie, the knights, who never lie, and the pages, who lie one day and not the next, independently of one another. One day I ask each of the inhabitants how many knaves there are on the island. The first says: "there is at least 1 knave"; the second says: "there are at least 2 knaves";. . . the 2009th says: "there are at least 2009 knaves". I write down in a list the sequence of the 2009 answers, in the order in which they were spoken. The next day I question all the inhabitants in the same way (not necessarily in the same order), and I obtain a list of the answers identical to that of the previous day. Knowing that there is only one knight on the island, how many pages are there?
 >
-> - **(A)** No one .
+> - **(A)** none
 > - **(B)** 670
 > - **(C)** 1004
 > - **(D)** 1338
 > - **(E)** 1339.
 
-**Answer:** D
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2009_2livello#q11|src_archimede_2009_2livello__Q11]]
 
 
 
@@ -530,17 +592,22 @@ How many sincere people between Luke, Mary, Nicholas, Paola
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of integers of x^16 + x*
+*Maximum number of integer-coefficient factors of x^16 + x*
 
-> Francis wants to write the polynomial x16 + x as the product of multiple polynomials with integer coefficients, each of at least degree 1. How many factors can you get the most?
+> Francesco wants to write the polynomial x16 + x as a product of several polynomials with integer coefficients, each of degree at least 1. How many factors will he be able ¨ı¿1
+> 2 to obtain at most?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
-> - **(E)** 5. Problems with numerical answer  5 points
+> - **(E)** 5. Numerical-answer problems – 5 points
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2009_2livello#q12|src_archimede_2009_2livello__Q12]]
 
 
 
@@ -566,11 +633,17 @@ Maximum number of integers of x^16 + x*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum k with k squared dividing n!/(n-6)! for each n>6*
+*Largest positive integer k such that k^2 divides n!/(n-6)! for every n > 6*
 
-> Determine the maximum positive integer k such that k2 divides n! (n −6)! for each n > 6.
+> Determine the largest positive integer k such that k^2 divides
+> n!
+> (n −6)! for every n > 6.
 
-**Answer:** 12
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2009_2livello#q13|src_archimede_2009_2livello__Q13]]
 
 
 
@@ -598,9 +671,13 @@ Maximum k with k squared dividing n!/(n-6)! for each n>6*
 
 *First three decimal digits of the sum of powers of x*
 
-> Whether x is the smallest of the two solutions to the equation x2 −4x + 2 = 0. What are the first three digits after the comma in the writing (based 10) of the number x + x2 + x3 + · · + x2009?
+> Let x be the smaller of the two solutions of the equation x2 − 4x + 2 = 0. What are the first three digits after the decimal point in the (base 10) writing of the number x + x2 + x3 + · · + x2009?
 
-**Answer:** 414
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2009_2livello#q14|src_archimede_2009_2livello__Q14]]
 
 
 
@@ -627,11 +704,18 @@ Maximum k with k squared dividing n!/(n-6)! for each n>6*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum c and infinite terms with 2c^2 = a^2 + b^2*
+*Smallest c and infinitely many triples with 2c^2 = a^2 + b^2*
 
-> DEMOSTRATIVE EXERCISE a) What is the minimum positive integer c such that there exists at least one pair (a, b) of distinct positive integers such that 2c2 = a2 + b2? (b) Demonstrate that there are infinitely many (a, b, c) distinct positive integers such that 2c2 = a2 + b2.
+> PROOF EXERCISE
+> a) What is the smallest positive integer c such that there exists at least one pair (a, b) of distinct positive integers
+> such that 2c2 = a2 + b2?
+> b) Prove that there exist infinitely many triples (a, b, c) of distinct positive integers such that 2c2 = a2 + b2.
 
-**Answer:** c=5 (triple (7,1,5))
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2009_2livello#q15|src_archimede_2009_2livello__Q15]]
 
 
 
@@ -690,41 +774,21 @@ Maximum k with k squared dividing n!/(n-6)! for each n>6*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*OMN angle double of ACB and ratio between areas*
+*Two statements about a right-angled triangle and the reflection of A in BC*
 
 ![[src_archimede_2009_2livello__prob16.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.7]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (4,0);
-  \coordinate (C) at (0,5);
-  \coordinate (M) at (2,2.5);
-  \coordinate (N) at (4.878,3.902);
-  \coordinate (H) at (2.439,1.951);
-  \coordinate (O) at (11.111,-8.889);
-  \draw (A)--(B)--(C)--cycle;
-  \draw (M) circle (3.20156);
-  \draw (B)--(O);
-  \draw (N)--(O);
-  \draw[dashed] (A)--(N);
-  \draw[dashed] (M)--(N);
-  \foreach \p in {A,B,C,M,N,H,O}{\fill (\p) circle (2pt);}
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above left] at (C) {$C$};
-  \node[above left] at (M) {$M$};
-  \node[above right] at (N) {$N$};
-  \node[below left] at (H) {$H$};
-  \node[below right] at (O) {$O$};
-\end{tikzpicture}
-\end{document}
-```
+> PROBLEM TO BE PROVED
+>
+> Let ABC be a triangle, right-angled at A, with AC the longer leg. Let M be the midpoint of BC, let N be the reflection of A in the line BC, and let O be the intersection of the line through N perpendicular to MN with the line containing BC.
+> a) Prove that angle OMN is twice angle ACB.
+> b) Prove that the ratio of the areas of MNO and ABC is one quarter of the ratio of the lengths of BC and HM, where H is the foot of the altitude to the hypotenuse of ABC.
 
-> DEMOSTRATIVE EXERCISE A triangle ABC, rectangle A and with AC cathetus major is given; either M is the mean point of BC, N is the symmetrical point of A with respect to BC, or the intersection between the perpendicular to MN passing through N and the straight containing BC. (a) Demonstrate that the OMN angle is twice the ACB angle. (b) Demonstrate that the ratio of the MNO to ABC areas is one quarter of the ratio of the BC to HM lengths, where H is the foot of the height relative to the ABC hypotenuse.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
-**Answer:** proof
+[[Quesiti/src_archimede_2009_2livello#q16|src_archimede_2009_2livello__Q16]]
 
 
 
@@ -752,8 +816,13 @@ Maximum k with k squared dividing n!/(n-6)! for each n>6*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integrations with two rational expressions of both integers*
+*Integers m with two rational expressions both integers*
 
-> Demonstratory Exercise Determine all positive integers m for which both 2 · 5m + 10 3m + 1 and 9m + 1m + 5 are integers.
+> PROOF EXERCISE
+> Determine all positive integers m for which both $\frac{2 \cdot 5^m + 10}{3m + 1}$ and $\frac{9m + 1}{5m + 5}$ are integers.
 
-**Answer:** m=1
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2009_2livello#q17|src_archimede_2009_2livello__Q17]]

@@ -30,10 +30,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il rapporto dei raggî inscritti è uguale al rapporto dei raggî exscritti in un triangolo*
+*Nel triangolo, il rapporto degli inradii è uguale al rapporto degli esradii*
 
-> Sia $M$ un punto sul lato $AB$ del triangolo $\triangle ABC$. Siano $r_1$, $r_2$, $r$ i raggi delle circonferenze inscritte nei triangoli $AMC$, $BMC$ e $ABC$. Siano $q_1$, $q_2$, $q$ i raggi delle circonferenze exinscritte dei medesimi triangoli che giacciono negli angoli $ACB$. Si dimostri che
+> Sia $M$ un punto sul lato $AB$ di $\triangle ABC$. Siano $r_1$, $r_2$, $r$ i raggi delle circonferenze inscritte nei triangoli $AMC$, $BMC$ e $ABC$. Siano $q_1$, $q_2$, $q$ i raggi delle circonferenze escritte sugli stessi triangoli che giacciono nell'angolo $ACB$. Dimostrare che
 > $$\frac{r_1}{q_1} \cdot \frac{r_2}{q_2} = \frac{r}{q}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1970#q01|src_imho_1970__Q01]]
 
 
 
@@ -61,14 +68,21 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rappresentazione di numeri in due basi; confronto dei valori tramite le cifre*
+*Rappresentazione dei numeri in due basi; confronto delle dimensioni tramite le cifre*
 
-> Siano $a$ e $b$ interi maggiori di 1, e siano $a$ e $b$ le basi di due sistemi numerici. Siano $A_{n-1}$ e $A_n$ numeri nel sistema di base $a$; $B_{n-1}$ e $B_n$ sono i numeri nel sistema di base $b$; essi sono legati tra loro come segue:
+> Siano $a$, $b$ numeri interi maggiori di 1, e siano $a$ e $b$ le basi di due sistemi di numerazione. $A_{n-1}$ e $A_n$ sono numeri nel sistema di base $a$; $B_{n-1}$ e $B_n$ sono i numeri nel sistema di base $b$; questi sono correlati come segue:
 > $$A_n = x_n x_{n-1} \cdots x_1 x_0, \quad A_{n-1} = x_{n-1} x_{n-2} \cdots x_1 x_0,$$
 > $$B_n = x_n x_{n-1} \cdots x_1 x_0, \quad B_{n-1} = x_{n-1} x_{n-2} \cdots x_1 x_0,$$
 > $$x_n \neq 0, \quad x_{n-1} \neq 0.$$
-> Si dimostri che
+> Dimostrare che
 > $$\frac{A_{n-1}}{A_n} < \frac{B_{n-1}}{B_n} \text{ if and only if } a > b.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1970#q02|src_imho_1970__Q02]]
 
 
 
@@ -97,17 +111,22 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successione soddisfacente condizione sulla somma; limiti e limite della successione derivata*
+*Successione che soddisfa la condizione sulla somma; limiti e limite della successione derivata*
 
 > I numeri reali $a_0, a_1, a_2, \ldots$ soddisfano la condizione:
 > $$1 = a_0 \le a_1 \le a_2 \le \cdots.$$
->
 > I numeri $b_1, b_2, b_3, \ldots$ sono definiti da
 > $$b_n = \sum_{k=1}^{n} \left(1 - \frac{a_{k-1}}{a_k}\right) \frac{1}{\sqrt{a_k}}.$$
+> (a) Dimostrare che $0 \le b_n < 2$ per tutti gli $n$.
 >
-> (a) Si dimostri che $0 \le b_n < 2$ per ogni $n$.
-> 
-> (b) Dato $c$ con $0 \le c < 2$, si dimostri che esistono numeri $a_0, a_1, a_2, \ldots$ con le proprietà sopra indicate tali che $b_n > c$ per $n$ abbastanza grandi.
+> (b) Dato $c$ con $0 \le c < 2$, dimostrare che esistono numeri $a_0, a_1, a_2, \ldots$ con le proprietà sopra indicate tali che $b_n > c$ per $n$ sufficientemente grandi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1970#q03|src_imho_1970__Q03]]
 
 
 
@@ -132,7 +151,14 @@ level: IMO
 
 *Partizione degli interi positivi in due insiemi con prodotti uguali*
 
-> Determinare l'insieme di tutti gli interi positivi $n$ con la proprietà che l'insieme $\{n, n+1, n+2, n+3, n+4, n+5\}$ può essere suddiviso in due insiemi tali che il prodotto dei numeri di un insieme sia uguale al prodotto dei numeri dell'altro insieme.
+> Trovare l'insieme di tutti gli interi positivi $n$ che godono della proprietà per cui l'insieme $\{n, n+1, n+2, n+3, n+4, n+5\}$ può essere suddiviso in due insiemi tali che il prodotto dei numeri in un insieme sia uguale al prodotto dei numeri nell'altro insieme.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1970#q04|src_imho_1970__Q04]]
 
 
 
@@ -159,9 +185,16 @@ level: IMO
 
 *Tetraedro con angolo retto BDC e piede ortocentrico; dimostrare la disuguaglianza*
 
-> Nel tetraedro $ABCD$, l'angolo $BDC$ è un angolo retto. Si supponga che il piede $H$ della perpendicolare da $D$ al piano $ABC$ sia l'intersezione delle altezze del triangolo $\triangle ABC$. Si dimostri che
+> Nel tetraedro $ABCD$, l'angolo $BDC$ è retto. Si supponga che il piede $H$ della perpendicolare condotta da $D$ al piano $ABC$ sia l'intersezione delle altezze di $\triangle ABC$. Dimostrare che
 > $$(AB + BC + CA)^2 \le 6(AD^2 + BD^2 + CD^2).$$
-> Per quali tetraedri si ha l'uguaglianza?
+> Per quali tetraedri vale l'uguaglianza?
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1970#q05|src_imho_1970__Q05]]
 
 
 
@@ -184,6 +217,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*100 punti in posizione generale; al più il 70% dei triangoli è acutangolo*
+*100 punti in posizione generale; al massimo il 70% dei triangoli è acuto*
 
-> In un piano sono dati 100 punti, nessuna terna dei quali allineata. Si considerino tutti i possibili triangoli aventi questi punti come vertici. Si dimostri che non più di $70\%$ di questi triangoli sono acutangoli.
+> In un piano ci sono 100 punti, nessun tre dei quali sono allineati. Si considerino tutti i triangoli possibili aventi questi punti come vertici. Dimostrare che al più $70\%$ di questi triangoli sono acutangoli.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imho_1970#q06|src_imho_1970__Q06]]

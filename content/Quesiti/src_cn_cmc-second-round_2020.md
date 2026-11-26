@@ -33,11 +33,20 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles con incentro; prova BH perpendicolare QH*
+*Triangolo isoscele con incentro; dimostrare che BH è perpendicolare a QH*
 
-> 40 punti) Come mostrato alla figura 1.1, nelle isosceles $\triangle ABC$, $AB = BC$ e $I$ è il suo incentro. $M$ è il punto medio di $BI$. $P$ si trova sul lato $AC$, soddisfacendo $AP = 3PC$. Il punto $H$ sull'estensione di $PI$ soddisfa $MH \perp PH$. $Q$ è il punto medio dell'arco minore del circoncircolo di $\triangle ABC$. Prove che $BH \perp QH$.
+> (40 punti) Come mostrato nella Fig. 1.1, in un triangolo isoscele $\triangle ABC$, $AB = BC$ e $I$ ne sono l'incentro. $M$ è il punto medio di $BI$. $P$ giace sul lato $AC$, soddisfacendo $AP = 3PC$. Il punto $H$, sull'estensione di $PI$, soddisfa $MH \perp PH$. $Q$ è il punto medio dell'arco minore della circonferenza circoscritta a $\triangle ABC$. Dimostrare che $BH \perp QH$.
 
 ![[src_cn_cmc-second-round_2020__q01.png]]
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-second-round_2020#q01|src_cn_cmc-second-round_2020__Q01]]
 
 
 
@@ -64,11 +73,20 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali non negativi a termine ciclico 2n con vincoli di prodotto-dominato-somma; trovare il minimo della somma totale*
+*Reali non negativi ciclici a 2n termini con vincoli di dominanza del prodotto sulla somma; trovare il minimo della somma totale*
 
-> (40 marchi) Dato il numero intero $n \ge 3$, $a_1, a_2, \ldots, a_{2n}, b_1, b_2, \ldots, b_{2n}$ sia un numero reale non negativo, soddisfacente $a_1 + a_2 + \cdots + a_{2n} = b_1 + b_2 + \cdots + b_{2n} > 0$. E per qualsiasi $i = 1, 2, \ldots, 2n$, c'è $a_i a_{i+2} \ge b_i + b_{i+1}$, dove $a_{2n+1} = a_1$, $a_{2n+2} = a_2$, $b_{2n+1} = b_1$. Trova il minimo di $a_1 + a_2 + \cdots + a_{2n}$.
+> (40 punti) Dato l'intero $n \ge 3$, siano $a_1, a_2, \ldots, a_{2n}, b_1, b_2, \ldots, b_{2n}$ numeri reali non negativi, che soddisfano $a_1 + a_2 + \cdots + a_{2n} = b_1 + b_2 + \cdots + b_{2n} > 0$. E per ogni $i = 1, 2, \ldots, 2n$, esiste $a_i a_{i+2} \ge b_i + b_{i+1}$, dove $a_{2n+1} = a_1$, $a_{2n+2} = a_2$, $b_{2n+1} = b_1$. Determinare il minimo di $a_1 + a_2 + \cdots + a_{2n}$.
 
 ![[src_cn_cmc-second-round_2020__q02.png]]
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-second-round_2020#q02|src_cn_cmc-second-round_2020__Q02]]
 
 
 
@@ -95,11 +113,20 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza simile a Pell; dimostrare che a_n ha un fattore primo congruente a 1 mod 4*
+*Successione di tipo Pell; dimostrare che a_n ha un fattore primo congruente a 1 modulo 4*
 
-> (50 punti) Let $a_1 = 1$, $a_2 = 2$, $a_n = 2a_{n-1} + a_{n-2}$, $n = 3, 4, \ldots$. Prova che per un intero $n \ge 5$, $a_n$ deve avere un fattore primo congruente a 1 modulo 4.
+> (50 punti) Siano $a_1 = 1$, $a_2 = 2$, $a_n = 2a_{n-1} + a_{n-2}$, $n = 3, 4, \ldots$. Dimostrare che, per un intero $n \ge 5$, $a_n$ deve avere un fattore primo congruente a 1 modulo 4.
 
 ![[src_cn_cmc-second-round_2020__q03.png]]
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc-second-round_2020#q03|src_cn_cmc-second-round_2020__Q03]]
 
 
 
@@ -125,11 +152,18 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Grafici di triangolazione di un 20-gon converso; trovare il numero massimo di abbinamenti perfetti*
+*Grafi di triangolazione di un 20-gono convesso; determina il numero massimo di accoppiamenti perfetti*
 
-> (50 marchi) Con un poligono convexo a 20 lati $P$. Dividendo $P$ in 18 triangoli per le sue 17 diagonali non intersezionate all'interno, il grafico risultante è chiamato grafico di triangolazione di $P$. Per qualsiasi grafico di triangolazione $T$ di $P$, i 20 bordi di $P$ e le 17 diagonali aggiunte sono entrambi chiamati bordi di $T$. L'insieme di qualsiasi 10 bordi di $T$ senza punti di fine comuni tra due bordi è chiamato una corrispondenza perfetta di $T$. Quando $T$ prende tutti i grafici di triangolazione di $P$, trova il numero massimo di abbinamenti perfetti di $T$.
+> (50 punti) Sia dato un poligono convesso con 20 lati $P$. Dividendo $P$ in 18 triangoli mediante i suoi 17 diagonali non incidenti all'interno del poligono, il grafo risultante è detto grafo di triangolazione di $P$. Per qualsiasi grafo di triangolazione $T$ di $P$, sia i 20 spigoli di $P$ sia i 17 diagonali aggiunti sono entrambi chiamati spigoli di $T$. L'insieme di 10 spigoli qualsiasi di $T$, in cui non vi siano estremi comuni tra due spigoli qualsiasi, è chiamato accoppiamento perfetto di $T$. Quando $T$ considera tutti i grafi di triangolazione di $P$, determinare il numero massimo di accoppiamenti perfetti di $T$.
 
-**Risposta:** 89
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-second-round_2020#q04|src_cn_cmc-second-round_2020__Q04]]
 
 
 
@@ -154,9 +188,18 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque punti su un cerchio con tre archi uguali; dimostrare che l'angolo PAQ è uguale all'angolo PEQ*
+*Cinque punti su una circonferenza con tre archi uguali; dimostrare che l'angolo PAQ è uguale all'angolo PEQ*
 
-> 40 punti) Come mostrato alla figura 1.1, $A$, $B$, $C$, $D$, $E$ sono cinque punti in ordine sul cerchio $\Omega$, soddisfacendo $\overset{\frown}{ABC} = \overset{\frown}{BCD} = \overset{\frown}{CDE}$. I punti $P$ e $Q$ si trovano rispettivamente sui segmenti $AD$ e $BE$ e $P$ si trovano sul segmento $CQ$. Prove che $\angle PAQ = \angle PEQ$.
+> (40 punti) Come mostrato nella Fig. 1.1, $A$, $B$, $C$, $D$, $E$ sono cinque punti in ordine sulla circonferenza $\Omega$, soddisfacendo $\overset{\frown}{ABC} = \overset{\frown}{BCD} = \overset{\frown}{CDE}$. I punti $P$, $Q$ giacciono rispettivamente sui segmenti $AD$, $BE$, e $P$ giace sul segmento $CQ$. Dimostrare che $\angle PAQ = \angle PEQ$.
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-second-round_2020#q05|src_cn_cmc-second-round_2020__Q05]]
 
 
 
@@ -186,11 +229,18 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Partire {1,...,19} in due sottoinsiemi in modo che la somma di uno sia uguale al prodotto dell'altro*
+*Partiziona {1,...,19} in due sottoinsiemi in modo che la somma di uno sia uguale al prodotto dell'altro*
 
-> (40 punti) Dato che il set $A = \{1, 2, \ldots, 19\}$ non è vuoto, esistono sottosette $S_1$, $S_2$ del set $A$ che soddisfano le seguenti condizioni? (1) $S_1 \cap S_2 = \varnothing$, $S_1 \cup S_2 = A$; (2) $S_1$ e $S_2$ hanno entrambi almeno quattro elementi; (3) la somma di tutti gli elementi di $S_1$ è pari al prodotto di tutti gli elementi di $S_2$. Prova la tua conclusione.
+> (40 punti) Dato l'insieme $A = \{1, 2, \ldots, 19\}$, esistono sottoinsiemi non vuoti $S_1$, $S_2$ dell'insieme $A$ che soddisfano le seguenti condizioni? (1) $S_1 \cap S_2 = \varnothing$, $S_1 \cup S_2 = A$; (2) sia $S_1$ sia $S_2$ hanno almeno quattro elementi; (3) la somma di tutti gli elementi di $S_1$ è uguale al prodotto di tutti gli elementi di $S_2$. Dimostra la tua conclusione.
 
-**Risposta:** Sì
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc-second-round_2020#q06|src_cn_cmc-second-round_2020__Q06]]
 
 
 
@@ -218,11 +268,20 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due sequenze positive di n termini con somme uguali e coppia di prodotto-dominati-somma; trovare somma totale minima*
+*Due successioni positive di n termini con somme uguali e prodotto a coppie che domina la somma; trovare la somma totale minima*
 
-> (50 marchi) Con un numero intero $n \ge 2$, $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n > 0$, soddisfacente $$a_1 + a_2 + \cdots + a_n = b_1 + b_2 + \cdots + b_n$$ e c'è sempre $a_i a_j \ge b_i + b_j$ per qualsiasi $i, j$ $(1 \le i < j \le n)$. Trova il valore minimo di $a_1 + a_2 + \cdots + a_n$.
+> (50 punti) Dato l'intero $n \ge 2$, si ponga $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n > 0$, tale che
+> $$a_1 + a_2 + \cdots + a_n = b_1 + b_2 + \cdots + b_n$$
+> e per ogni $i, j$ $(1 \le i < j \le n)$ esiste sempre $a_i a_j \ge b_i + b_j$. Determinare il valore minimo di $a_1 + a_2 + \cdots + a_n$.
 
-**Risposta:** $2n$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc-second-round_2020#q07|src_cn_cmc-second-round_2020__Q07]]
 
 
 
@@ -248,8 +307,15 @@ level: China Mathematical Competition (Second Round)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie ordinate (a,b) con a^n+b^{n+9} costante mod 13 per tutte le n*
+*Trovare tutte le coppie ordinate (a,b) tali che a^n+b^{n+9} sia costante modulo 13 per ogni n*
 
-> (50 marchi) $a, b$ siano integri positivi non superiori a 12 che soddisfino l'esistenza di una costante $C$ tale che $a^n + b^{n+9} \equiv C \pmod{13}$ sia valida per qualsiasi integro positivo $n$. Trova tutte le coppie ordinate $(a, b)$ che soddisfano le condizioni.
+> (50 punti) Sia $a, b$ un insieme di interi positivi non superiori a 12 tali che esista una costante $C$ per cui $a^n + b^{n+9} \equiv C \pmod{13}$ vale per ogni intero positivo $n$. Determinare tutte le coppie ordinate $(a, b)$ che soddisfano le condizioni.
 
-**Risposta:** $(1,1),(4,4),(10,10),(12,12)$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc-second-round_2020#q08|src_cn_cmc-second-round_2020__Q08]]

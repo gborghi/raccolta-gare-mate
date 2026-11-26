@@ -33,9 +33,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fonzione additiva che scompare al numero 3 e al numero 10; prova f identicamente 0*
+*$f(n) = 0$ per ogni intero positivo $n$*
 
-> Un intero non negativo $f(n)$ è assegnato a ogni intero positivo $n$ in modo tale che siano soddisfatte le seguenti condizioni: (i) $f(mn) = f(m) + f(n)$ per tutti gli integri positivi $m, n$; (ii) $f(n) = 0$ quando la cifra decimale finale (a destra) di $n$ è $3$; e (iii) $f(10) = 0$. Prove che $f(n) = 0$ per tutti i numeri interi positivi $n$.
+> A ogni intero positivo $n$ è assegnato un intero non negativo $f(n)$ in modo che siano soddisfatte le condizioni seguenti:
+> (i) $f(mn) = f(m) + f(n)$ per tutti gli interi positivi $m, n$;
+> (ii) $f(n) = 0$ ogni volta che la cifra decimale finale (a destra) di $n$ è $3$; e
+> (iii) $f(10) = 0$.
+> Dimostrare che $f(n) = 0$ per tutti gli interi positivi $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1976-77_round1#q01|src_bmo_1976-77_round1__Q01]]
 
 
 
@@ -58,9 +69,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo di triangolo: il centro si trova sulla linea centrale che unisce i punti medi di BC e AX*
+*Il centro sta sulla retta per i punti medi di $BC$ e di $AX$*
 
-> I lati $BC$, $CA$ e $AB$ di un triangolo toccano un cerchio rispettivamente a $X$, $Y$ e $Z$. Prova che il centro del cerchio si trova sulla linea retta attraverso i punti di mezzo di $BC$ e di $AX$.
+> I lati $BC$, $CA$, $AB$ di un triangolo toccano una circonferenza rispettivamente in $X$, $Y$, $Z$. Dimostrare che il centro della circonferenza sta sulla retta per i punti medi di $BC$ e di $AX$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1976-77_round1#q02|src_bmo_1976-77_round1__Q02]]
 
 
 
@@ -86,9 +104,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scur-tipo di disuguaglianza e una disuguaglianza simmetrica di sesto grado*
+*Una disuguaglianza per reali non negativi, e una conseguenza per $a$, $b$, $c$*
 
-> (i) Dimostra che se $x$, $y$, $z$ sono numeri reali non negativi, allora $$x(x-y)(x-z) + y(y-z)(y-x) + z(z-x)(z-y) \ge 0.$$ (ii) Dimostra quindi o altrimenti che per tutti i numeri reali $a$, $b$, $c$ $$a^6 + b^6 + c^6 + 3a^2 b^2 c^2 \ge 2(b^3 c^3 + c^3 a^3 + a^3 b^3).$$
+> (i) Dimostrare che se $x$, $y$, $z$ sono numeri reali non negativi, allora
+> $$x(x-y)(x-z) + y(y-z)(y-x) + z(z-x)(z-y) \ge 0.$$
+> (ii) Dedurre, o dimostrare altrimenti, che per tutti i numeri reali $a$, $b$, $c$
+> $$a^6 + b^6 + c^6 + 3a^2 b^2 c^2 \ge 2(b^3 c^3 + c^3 a^3 + a^3 b^3).$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1976-77_round1#q03|src_bmo_1976-77_round1__Q03]]
 
 
 
@@ -113,9 +141,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cubico con radici u,v,w; radici espresse di relative radici cubiche ed esclusi intervalli*
+*Le radici di (1) in funzione di $u, v, w$, e nessun radice in $-1 < x < 3$*
 
-> L'equazione $x^3 + qx + r = 0$, dove $r \ne 0$, ha radici $u, v, w$. Esprimere le radici di $$r^2 x^3 + q^3 x + q^3 = 0 \qquad \ldots\ldots(1)$$ in termini di $u, v, w$ e mostrare che se $u, v, w$ sono reali allora $(1)$ non ha radice nell'intervallo $-1 < x < 3$.
+> L'equazione $x^3 + qx + r = 0$, dove $r \ne 0$, ha radici $u, v, w$. Esprimere le radici di
+> $$r^2 x^3 + q^3 x + q^3 = 0 \qquad \ldots\ldots(1)$$
+> in funzione di $u, v, w$, e dimostrare che se $u, v, w$ sono reali allora $(1)$ non ha radici nell'intervallo $-1 < x < 3$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1976-77_round1#q04|src_bmo_1976-77_round1__Q04]]
 
 
 
@@ -139,9 +176,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-5 sfere uguali su un pentagono regolare; due sfere tangenti si incontrano?
+*$P_1$ e $P_2$ hanno o non hanno un punto in comune?*
 
-> $A_1 A_2 A_3 A_4 A_5$ è un pentagono regolare i cui lati sono di lunghezza $2a$. Per ogni $i = 1, 2, \ldots, 5$, $K_i$ è la sfera con centro $A_i$ e raggio $a$. Le sfere $K_1, K_2, \ldots, K_5$ sono tutte toccate esternamente da ciascuna delle due sfere $P_1$ e $P_2$ anche di raggio $a$. Determinare con la prova e senza tabelle se $P_1$ e $P_2$ hanno o non hanno un punto comune.
+> $A_1 A_2 A_3 A_4 A_5$ è un pentagono regolare i cui lati hanno ciascuno lunghezza $2a$. Per ogni $i = 1, 2, \ldots, 5$, $K_i$ è la sfera di centro $A_i$ e raggio $a$. Le sfere $K_1, K_2, \ldots, K_5$ sono tutte toccate esternamente da ciascuna di due sfere $P_1$ e $P_2$, anch'esse di raggio $a$.
+> Determinare, con dimostrazione e senza tavole, se $P_1$ e $P_2$ hanno o non hanno un punto in comune.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1976-77_round1#q05|src_bmo_1976-77_round1__Q05]]
 
 
 
@@ -165,6 +210,14 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Decomponere 26(x+...+x^n) come somma di polinomi di permutazione; trovare tutti n*
+*Tutti gli $n$ per cui quella decomposizione del polinomio è possibile*
 
-> Il polinomio $26(x + x^2 + x^3 + \cdots + x^n)$, dove $n > 1$, deve essere decomposto in una somma di polinomi, non necessariamente tutti diversi. Ciascuno di questi polinomi deve avere la forma $a_1 x + a_2 x^2 + a_3 x^3 + \cdots + a_n x^n$ dove ogni $a_i$ è uno dei numeri $1, 2, 3, \ldots, n$ e non sono uguali due $a_i$. Trova tutti i valori di $n$ per i quali è possibile questa decomposizione.
+> Il polinomio $26(x + x^2 + x^3 + \cdots + x^n)$, dove $n > 1$, va decomposto in una somma di polinomi, non necessariamente tutti diversi. Ciascuno di questi polinomi deve essere della forma $a_1 x + a_2 x^2 + a_3 x^3 + \cdots + a_n x^n$ dove ogni $a_i$ è uno dei numeri $1, 2, 3, \ldots, n$ e non ci sono due $a_i$ uguali.
+> Trovare tutti i valori di $n$ per cui questa decomposizione è possibile.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1976-77_round1#q06|src_bmo_1976-77_round1__Q06]]

@@ -24,19 +24,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0024
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Odd divisors of 54054 divisible by 3*
+*How many positive odd divisors of 54054 are divisible by 3?*
 
 ![[src_squadre_2018_roma__prob1.png]]
 
 > How many positive odd divisors of 54054 are divisible by 3?
 
-**Answer:** 0024
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_roma#q01|src_squadre_2018_roma__Q01]]
 
 
 
@@ -54,19 +57,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 6930
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cyclic quadrilateral with angles 60° and 90°: total area*
+*Quadrilateral ABCD is inscribed in a circle. We know that ∠DAB = 60°, ∠ABC = 90°, and AB = BC.…*
 
 ![[src_squadre_2018_roma__prob2.png]]
 
-> A quadrilateral ABCD is inscribed in a circle. We know that ∠DAB = 60°, ∠ABC = 90° and AB = BC. We also know that the diagonal AC divides it into two parts, of which the one with smaller area has area 2310. What is the total area of ABCD?
+> Quadrilateral ABCD is inscribed in a circle. We know that ∠DAB = 60°, ∠ABC = 90°, and AB = BC. We also know that the diagonal AC divides the quadrilateral into two parts, one of which has the smaller area, and that area is 2310. What is the total area of ABCD?
 
-**Answer:** 6930
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_roma#q02|src_squadre_2018_roma__Q02]]
 
 
 
@@ -85,19 +91,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0520
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tangential isosceles trapezoid: segment between tangency points*
+*An isosceles trapezoid has an incircle. Its perimeter is 2178…*
 
 ![[src_squadre_2018_roma__prob3.png]]
 
-> An isosceles trapezoid has an inscribed circle. Its perimeter is 2178 and its shorter base 429. What is the length of the segment joining the two points of tangency with the inscribed circle that lie on the legs?
+> An isosceles trapezoid has an incircle. Its perimeter is 2178, and its shorter base is 429. What is the length of the line segment joining the two points where the incircle is tangent to the trapezoid, the points lying on the non-parallel sides?
 
-**Answer:** 0520
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_roma#q03|src_squadre_2018_roma__Q03]]
 
 
 
@@ -116,19 +125,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0989
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Box whose volume grows by 535 and surface by 164*
+*Of the right rectangular parallelepiped P, we know that, by increasing each… by one unit*
 
 ![[src_squadre_2018_roma__prob4.png]]
 
-> Of the rectangular box P we know that, increasing each of its 3 dimensions by one unit, the volume increases by 535 and the total surface area increases by 164. What was the initial total surface area of P?
+> For the right rectangular parallelepiped P, we know that if each of its three dimensions is increased by one unit, the volume increases by 535 and the total surface area increases by 164. What was the total surface area of P initially?
 
-**Answer:** 0989
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_roma#q04|src_squadre_2018_roma__Q04]]
 
 
 
@@ -148,19 +160,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0594
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle 68-110-174: area of PSTQ*
+*The sides of triangle ABC measure AB = 68, BC = 110, and CA = 174. Let P be the point…*
 
 ![[src_squadre_2018_roma__prob5.png]]
 
-> The sides of a triangle ABC measure AB = 68, BC = 110 and CA = 174. Let P be the midpoint of AB, Q the midpoint of BC and R a point outside triangle ABC such that the segments PR and QR are bisected by side AC. What is the area of the quadrilateral PSTQ, where S is the midpoint of PR and T is the midpoint of QR?
+> The sides of triangle ABC measure AB = 68, BC = 110, and CA = 174. Let P be the midpoint of AB, Q be the midpoint of BC, and R be a point outside triangle ABC such that segments PR and QR are bisected by side AC. What is the area of quadrilateral PSTQ, where S is the midpoint of PR and T is the midpoint of QR?
 
-**Answer:** 0594
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_roma#q05|src_squadre_2018_roma__Q05]]
 
 
 
@@ -180,19 +195,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0041
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Incircles of ABC and CDA meeting the diagonal AC*
+*In a convex quadrilateral ABCD, the incircles of triangles ABC and…*
 
 ![[src_squadre_2018_roma__prob6.png]]
 
-> In a convex quadrilateral ABCD, the circles inscribed in triangles ABC and CDA meet the diagonal AC at two points E and F respectively. What is the length of segment EF if AB = 98, BC = 153, CD = 174 and DA = 201?
+> In a convex quadrilateral ABCD, the incircles of triangles ABC and CDA intersect diagonal AC at two points E and F, respectively. What is the length of segment EF if AB = 98, BC = 153, CD = 174, and DA = 201?
 
-**Answer:** 0041
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_roma#q06|src_squadre_2018_roma__Q06]]
 
 
 
@@ -210,19 +228,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5473
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Six-digit odd-digit numbers where each 9 is followed by 1*
+*How many six-digit positive integers are there in which all the digits are odd…*
 
 ![[src_squadre_2018_roma__prob7.png]]
 
-> How many six-digit positive integers are there in which all the digits are odd and every 9 is followed by a 1?
+> How many six-digit positive integers are there in which all digits are odd and every 9 is followed by a 1?
 
-**Answer:** 5473
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_roma#q07|src_squadre_2018_roma__Q07]]
 
 
 
@@ -242,19 +263,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3785
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sharing 2018 sweets among four children*
+*Ada's, Beatrice's, Carlo's, and Dario's dad wants to divide 2018 candies among them…*
 
 ![[src_squadre_2018_roma__prob8.png]]
 
-> The father of Ada, Beatrice, Carlo and Dario wants to share 2018 (identical) sweets among them so that Ada and Carlo receive an odd number. In how many ways can he do it? (If the result has more than 4 digits, give as the result the last four digits of the number)
+> Ada's dad wants to divide 2018 candies (all identical) among Ada, Beatrice, Carlo, and Dario in such a way that Ada and Carlo each receive an odd number of candies. In how many ways can he do this? (If the result has more than 4 digits, give as the result the last four digits of the number.)
 
-**Answer:** 3785
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_roma#q08|src_squadre_2018_roma__Q08]]
 
 
 
@@ -274,19 +298,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6300
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three couples at a round table for 10, ladies not adjacent*
+*Three couples (3 ladies and 3 gentlemen) sit at a round table with 10 seats i…*
 
 ![[src_squadre_2018_roma__prob9.png]]
 
-> Three couples (3 ladies and 3 knights) sit at a round table with 10 places so that two ladies are never seated in neighbouring places. In how many ways can they do so? (two ways are to be considered identical if one is obtained from the other by rotation).
+> Three couples (3 ladies and 3 gentlemen) sit at a round table with 10 seats in such a way that no two ladies ever sit in adjacent seats. In how many ways can they do this? (Two arrangements are considered identical if one can be obtained from the other by rotation.)
 
-**Answer:** 6300
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_roma#q09|src_squadre_2018_roma__Q09]]
 
 
 
@@ -304,19 +331,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0014
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*3600 as a sum of consecutive odd integers*
+*In how many ways can the number 3600 be written as a sum of distinct positive integers…*
 
 ![[src_squadre_2018_roma__prob10.png]]
 
 > In how many ways can the number 3600 be written as a sum of consecutive odd positive integers?
 
-**Answer:** 0014
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_roma#q10|src_squadre_2018_roma__Q10]]
 
 
 
@@ -334,19 +364,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9376
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last 4 digits of 2^(10^2018)*
+*Find the four lowest digits (that is, the thousands, hundreds, tens, and units digits) of 2^(10^(2018)).*
 
 ![[src_squadre_2018_roma__prob11.png]]
 
-> Find the 4 lowest digits (that is, thousands, hundreds, tens and units) of 2^(10^(2018)).
+> Find the four lowest digits (i.e., thousands, hundreds, tens, and units) of 2^(10^(2018)).
 
-**Answer:** 9376
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_roma#q11|src_squadre_2018_roma__Q11]]
 
 
 
@@ -365,19 +398,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 3041
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*P(n + 2) + P(n) = n^4 + 2: find P(10)*
+*For a certain polynomial P, the following property holds: P(n + 2) + P(n) = n^4 + 2 p…*
 
 ![[src_squadre_2018_roma__prob12.png]]
 
-> For a certain polynomial P the following property holds: P(n + 2) + P(n) = n^4 + 2 for every positive integer n. What is P(10)?
+> For a certain polynomial P, the following property holds: P(n + 2) + P(n) = n^4 + 2 for every positive integer n. What is the value of P(10)?
 
-**Answer:** 3041
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2018_roma#q12|src_squadre_2018_roma__Q12]]
 
 
 
@@ -395,19 +431,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0082
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quadrilateral with BC = CD = DA: angle Â*
+*In quadrilateral ABCD, BC = CD = DA. If ∠C = 164° and ∠D = 76°, then what is the measure, in degrees, of ∠A?*
 
 ![[src_squadre_2018_roma__prob13.png]]
 
-> In a quadrilateral ABCD we have BC = CD = DA. If Ĉ = 164° and D̂ = 76°, how large, in degrees, is the angle Â?
+> In quadrilateral ABCD, BC = CD = DA. If ∠C = 164° and ∠D = 76°, then what is the measure, in degrees, of ∠A?
 
-**Answer:** 0082
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_roma#q13|src_squadre_2018_roma__Q13]]
 
 
 
@@ -429,19 +468,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0563
-**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Concurrent lines CM, AN, BO: length of BC*
+*Let triangle ABC be given, and let M be the midpoint of AB and N be the midpoint of…*
 
 ![[src_squadre_2018_roma__prob14.png]]
 
-> Let ABC be a triangle and let M be the midpoint of AB and N the midpoint of the arc BC not containing A of the circle circumscribed about ABC. Moreover, calling D, E and F the points of tangency of the incircle of ABC with the sides BC, AC and AB respectively, let O be the midpoint of the arc DF of the latter circle not containing E. Finally, it is known that the lines CM, AN and BO meet at a point P and that AB = 389 and AC = 563. Compute the length of BC.
+> Let triangle ABC be given, let M be the midpoint of AB, and let N be the midpoint of the arc BC of the circumcircle of ABC that does not contain A. Furthermore, let D, E, and F be the points of tangency of the incircle of ABC with sides BC, AC, and AB, respectively, and let O be the midpoint of the arc DF of this incircle that does not contain E. Finally, it is known that the lines CM, AN, and BO meet at a point P, and that AB = 389 and AC = 563. Calculate the length of BC.
 
-**Answer:** 0563
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_roma#q14|src_squadre_2018_roma__Q14]]
 
 
 
@@ -463,19 +505,22 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1029
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square-root subtraction game*
+*Consider the following game. One starts with a positive integer and, in turns…*
 
 ![[src_squadre_2018_roma__prob15.png]]
 
-> Consider the following game. One starts from a positive integer and, in turn, the two players subtract from the current number n its square root, if n is a perfect square, while if n is not a perfect square they subtract the integer approximating its root, rounded up or down at the player's choice. So, if n = 36 the player must subtract 6, while if n = 40 the player can choose whether to subtract 6 or 7. The player who first reaches the number 0 wins. For how many integers n such that 1 ≤ n ≤ 2018 is the game, with starting number n, favourable to the player who starts?
+> Consider the following game. One starts with a positive integer, and in turn the two players subtract from the current number n its square root if n is a perfect square; if n is not a perfect square, however, they subtract from it the integer that approximates its square root, either by excess or by defect at the player's choice. Thus, if n = 36, then the player must subtract 6; whereas if n = 40, the player can choose whether to subtract 6 or 7. The player who first reaches the number 0 wins. How many integers n with 1 ≤ n ≤ 2018 are there for which the game, starting with n as the initial number, is favorable to the player who goes first?
 
-**Answer:** 1029
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_roma#q15|src_squadre_2018_roma__Q15]]
 
 
 
@@ -496,19 +541,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 4096
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four planes through P cutting a tetrahedron*
+*Let P be a point interior to tetrahedron ABCD, and let Π_1, Π_2, Π_3, and Π_4 be four…*
 
 ![[src_squadre_2018_roma__prob16.png]]
 
-> Let P be a point inside a tetrahedron ABCD and let Π\_1, Π\_2, Π\_3 and Π\_4 be four distinct planes through P, each parallel to a different face of the tetrahedron. These 4 planes divide the tetrahedron into 14 parts. Four of these parts are tetrahedron-shaped and have volumes 1, 64, 125 and 216 respectively. What is the volume of the tetrahedron ABCD?
+> Let P be an interior point of tetrahedron ABCD, and let Π₁, Π₂, Π₃, and Π₄ be four distinct planes passing through P, each parallel to a different face of the tetrahedron. These 4 planes divide the tetrahedron into 14 parts. Four of these parts are tetrahedral in shape and have volumes 1, 64, 125, and 216, respectively. What is the volume of tetrahedron ABCD?
 
-**Answer:** 4096
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_roma#q16|src_squadre_2018_roma__Q16]]
 
 
 
@@ -528,21 +576,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0715
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum over the roots of a quartic*
+*Let α_1, α_2, α_3, and α_4 be the roots of the polynomial p(x) = x^4 + 4x^3 + x^2 − 6x…*
 
 ![[src_squadre_2018_roma__prob17.png]]
 
-> Let α\_1, α\_2, α\_3 and α\_4 be the roots of the polynomial p(x) = x^4 + 4x^3 + x^2 − 6x − 1. Compute the sum:
-> ∑\_(i=1)^4 1/(α\_i^4 − 15α\_i^2 − 10α\_i + 24).
-> Express the result in the form m/n with n and m coprime and give m + n as the answer.
+> Let α₁, α₂, α₃, and α₄ be the roots of the polynomial p(x) = x⁴ + 4x³ + x² − 6x − 1. Calculate the value of the sum: ∑_(i=1)^4 1/(α_i⁴ − 15α_i² − 10α_i + 24). Express the result in the form m/n, where m and n are coprime, and give m + n as the answer.
 
-**Answer:** 0715
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2018_roma#q17|src_squadre_2018_roma__Q17]]
 
 
 
@@ -560,19 +609,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0276
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pyramid whose altitude falls on the orthocentre: length AH*
+*Let ABCD be a triangular-based pyramid such that the foot of the altitude drawn…*
 
 ![[src_squadre_2018_roma__prob18.png]]
 
-> Let ABCD be a pyramid with triangular base such that the foot of the altitude from A to the face BCD, which is acute-angled, falls on its orthocentre H. Let K and L be the feet of the perpendiculars from A to BD and CD respectively. It is known that ∠KAC = 90°, BH = 207 and AL = 460. Find the length of AH.
+> Let ABCD be a triangular pyramid such that the foot of the altitude drawn from A to the face BCD—which is an acute-angled triangle—lies at its orthocenter H. Let K and L be the feet of the perpendiculars drawn from A to BD and CD, respectively. It is given that ∠KAC = 90°, BH = 207, and AL = 460. Find the length of AH.
 
-**Answer:** 0276
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_roma#q18|src_squadre_2018_roma__Q18]]
 
 
 
@@ -592,19 +644,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0029
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sublattices of the divisors of 30*
+*Let A be the set of all divisors of 30, including 1 and 30. State in how many ways…*
 
 ![[src_squadre_2018_roma__prob19.png]]
 
-> Let A be the set of all the divisors of 30, including 1 and 30. Say in how many different ways I can choose a subset B of A containing both 1 and 30 and moreover having the following property: ”if n ∈ B and m ∈ B then gcd(n, m) and lcm(n, m) also belong to B”.
+> Let A be the set of all divisors of 30, including 1 and 30. State in how many different ways I can choose a subset B of A that contains both 1 and 30 and moreover has the following property: "if n ∈ B and m ∈ B, then both GCD(n, m) and LCM(n, m) belong to B".
 
-**Answer:** 0029
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_roma#q19|src_squadre_2018_roma__Q19]]
 
 
 
@@ -623,17 +678,19 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2036
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2018_15%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2018 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tiling a 2 × 10 rectangle with 11 rectangles*
+*The 2 × 10 rectangle in Figure 1 is covered exactly, without overlap…*
 
 ![[src_squadre_2018_roma__prob20.png]]
 
-> The 2 × 10 rectangle in figure 1 is covered exactly, without overlaps, by 11 rectangles with integer sides so that, for each of the 9 internal vertical lines, at least one piece of length 1 is part of the boundary of at least one of the 11 rectangles. An example of an admissible covering is shown in figure 2. In how many ways can this subdivision be made? (two different ways are to be considered distinct even if there is a rigid motion superimposing them)
-> figure 1 figure 2
+> The 2 × 10 rectangle in Figure 1 is exactly covered, without overlaps, by 11 rectangles with integer side lengths, in such a way that, for each of the 9 internal vertical lines, at least one piece of length 1 is part of the boundary of at least one of the 11 rectangles. An example of a valid covering is shown in Figure 2. In how many ways can this subdivision be done? (Two different ways are to be regarded as distinct even if there is a rigid motion that superposes them.) Figure 1 Figure 2
 
-**Answer:** 2036
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_roma#q20|src_squadre_2018_roma__Q20]]

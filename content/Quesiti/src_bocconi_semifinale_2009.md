@@ -32,13 +32,18 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Digits erased from a vertical addition*
+*Digits erased in a vertical addition*
 
-> Some digits in this addition have been erased. Your task is to find them!
+> Some of the digits in this addition have been erased. It's up to you to find them!
 > $$\begin{array}{r} \_\; 8 \\ +\; \_\; 7 \\ \hline 2\;0\;0\;9 \end{array}$$
-> Write down the complete number of the first row.
+> Write the complete number from the first row.
 
-**Answer:** 1283
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q01|src_bocconi_semifinale_2009__Q01]]
 
 
 
@@ -66,15 +71,20 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Travel through the maze with rooms and corridors*
+*Path through a labyrinth with rooms and corridors*
 
-> Francis enters the labyrinth (pictured) at the top left. After visiting all the rooms, you'll exit from the upper right. On his way, he will use the corridors connecting the rooms but he will not be able to go back or pass the same room twice.
-> 
-> Draw the route for Francis.
+> Francesco enters the labyrinth (shown in the figure) at the top left. After visiting all the rooms, he will exit through the room at the top right. Along his route, he will use the corridors that connect the rooms, but he will not be able to go back or pass through the same room twice.
+>
+> Draw Francesco's route.
 
 ![[src_bocconi_semifinale_2009__q02.png]]
 
-**Answer:** (path shown in the solution)
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q02|src_bocconi_semifinale_2009__Q02]]
 
 
 
@@ -105,13 +115,18 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Day of March with odd writing identical to the number*
+*A March day with strange writing identical to a number*
 
-> In March, every morning, Luke writes down the day's number. He writes it in a somewhat odd way: the $1^\circ$ March, writes $11$ (a "1"); the $2$ March, writes $12$ (two "2"); the $10$ March, writes $1110$ (a "1", a "0"); the $11$ March, writes $21$ (two "1"); the $11$ March, writes $21$ (two "1");
-> 
-> What will be the day in March when the strange script used by Luke will be identical to the actual number of days?
+> In March, every morning Luca writes the number of the day. He writes it in a rather odd way: on the $1^\circ$ of March, he writes $11$ (a "1"); on the $2$ of March, he writes $12$ (two "2"s); on the $10$ of March, he writes $1110$ (a "1" and a "0"); on the $11$ of March, he writes $21$ (two "1"s); on the $11$ of March, he writes $21$ (two "1"s);
+>
+> Which day in March will it be on which the strange script used by Luca will be identical to the actual day number?
 
-**Answer:** 22
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q03|src_bocconi_semifinale_2009__Q03]]
 
 
 
@@ -146,11 +161,27 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular subdivision into four parts with letters ABCD*
+*Division of a rectangle into four parts with the letters ABCD*
 
-> Indicate a subdivision of the rectangle into four parts containing (each) the five letters A, B, C, D, E and having the same shape (whether rotated or reversed). $$\begin{array}{|c|c|c|c|c|} \hline A & B & C & A & E \\ \hline D & B & C & E & D \\ \hline B & A & E & D & C \\ \hline C & E & B & A & D \\ \hline \end{array}$$
+> Indicate a division of the rectangle into four parts, each of which contains the five letters A, B, C, D, E and is of the same shape (possibly rotated or reflected).
+> $$\begin{array}{|c|c|c|c|c|}
+> \hline
+> A & B & C & A & E \\
+> \hline
+> D & B & C & E & D \\
+> \hline
+> B & A & E & D & C \\
+> \hline
+> C & E & B & A & D \\
+> \hline
+> \end{array}$$
 
-**Answer:** (division shown in the solution)
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q04|src_bocconi_semifinale_2009__Q04]]
 
 
 
@@ -176,13 +207,18 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Count small or large hairs in the drawing*
+*Count small or large diamonds in the drawing*
 
-> What (small or large) bumps can be counted in the drawing?
+> How many rhombuses (small or large) can be counted in the drawing?
 
 ![[src_bocconi_semifinale_2009__q05.png]]
 
-**Answer:** There are 21 rhombuses in the drawing
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q05|src_bocconi_semifinale_2009__Q05]]
 
 
 
@@ -210,15 +246,20 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Jump on a cube from face to face adjacent*
+*Jump onto an adjacent face-to-face cube*
 
-> The fleas, you know, they jump. Our Mimmy fleas, starting from D, want to get to A. Its characteristic is that it jumps from the center of a face of a cube to that of an adjacent face without ever passing through the same face twice. Besides, Mimi never passes through a face not visible in the drawing.
-> 
-> How many ways can Mimi jump from D to A?
+> Fleas—as is well known—jump. Our flea Mimì, starting from D, wants to get to A. Its characteristic is that it jumps from the center of one face of a cube to the center of an adjacent face without ever passing through the same face twice. Moreover, Mimì never passes through a face that is not visible in the drawing.
+>
+> In how many ways, then, can Mimì jump from D to A?
 
 ![[src_bocconi_semifinale_2009__q06.png]]
 
-**Answer:** 12
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q06|src_bocconi_semifinale_2009__Q06]]
 
 
 
@@ -245,13 +286,19 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Turn card to verify the statement*
+*Cards to flip to verify the claim*
 
-> Each of these cards bears a letter written on one side and a number on the other. Sergio tells his sister Sara that if a card has a "$1$" on one side, it necessarily has a "$A$" on the other. Sara doesn't believe it and decides to check it out for herself.
-> 
-> What cards does Sara have to play to make sure Sergio's statement is true? $$\boxed{1} \quad A \quad 2 \quad Z$$
+> Each of these cards has a letter written on one side and a digit on the other. Sergio tells his sister Sara that if a card has an "$1$" on one side, it must necessarily have an "$A$" on the other. Sara doesn't believe it and decides to check for herself.
+>
+> Which cards must Sara definitely turn over to be sure that Sergio's statement is true?
+> $$\boxed{1} \quad A \quad 2 \quad Z$$
 
-**Answer:** The cards Sara must turn over are 1 and Z
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q07|src_bocconi_semifinale_2009__Q07]]
 
 
 
@@ -277,13 +324,18 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of coloured discs in a square*
+*Greatest number of colored discs in a square*
 
-> Color as many discs as possible in the drawing so that you never have four colored discs at the top of a square (with horizontal or vertical sides). There may be more than one solution, but you just have to point to one.
+> In the drawing, color as many discs as possible so that you never have four colored discs at the vertices of a square (with horizontal or vertical sides). There may be more than one solution; however, it is enough to give one.
 
 ![[src_bocconi_semifinale_2009__q08.png]]
 
-**Answer:** (solution shown in the figure of the solution)
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q08|src_bocconi_semifinale_2009__Q08]]
 
 
 
@@ -311,13 +363,20 @@ Maximum number of coloured discs in a square*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complete the scheme with distinct numbers and equal sums*
+*Complete the diagram with distinct numbers and equal sums*
 
-> Complete the diagram discs in such a way as to comply with the following constraints: - the ten numbers must all be different and less than $20$; - in each small square, the two "cross products" must be equal (e.g. side by side, have $7 \times 6 = 14 \times 3 = 42$).
+> Complete the circles in the diagram so as to satisfy the following constraints:
+> - The ten numbers must all be different and less than $20$;
+> - In each small square, the two "cross products" must be equal (for example, next to it, let them be $7 \times 6 = 14 \times 3 = 42$).
 
 ![[src_bocconi_semifinale_2009__q09.png]]
 
-**Answer:** (solution shown in the figure of the solution)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q09|src_bocconi_semifinale_2009__Q09]]
 
 
 
@@ -341,11 +400,16 @@ Maximum number of coloured discs in a square*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Milena's result by exchanging numbers in Carla's numbers
+*Milena's result from swapping digits in Carla's numbers*
 
-> Carla and Milena always have to do with numbers. Today, Carla writes three three-digit numbers, using only the digits from 1 to 9 once. Milena plays the same three numbers, but obtains the sum by making the sum by exchanging in each of Carla's numbers the number of units with that of the tens (three digits). If Carla's sum is $135$, what will Milena's result be?
+> Carla and Milena always deal with numbers. Today Carla writes three three-digit numbers, using the digits from 1 to 9 exactly once each. Milena plays the same three numbers, but she obtains the sum by swapping, in each of Carla's numbers, the units digit with the tens digit (three digits). If Carla's sum is $135$, what will Milena's result be?
 
-**Answer:** 1566
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Working backwards]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q10|src_bocconi_semifinale_2009__Q10]]
 
 
 
@@ -371,13 +435,18 @@ Milena's result by exchanging numbers in Carla's numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of players in a round-robin chess tournament with a deal*
+*Number of players in a round-robin chess tournament with one draw*
 
-> During the chess tournament organised by PRISTEM, each participant played a match against each of the other players. No one's finished the same. Three players won $4$ matches, the others won $3$ and all the others lost only one match.
-> 
+> During the chess tournament organized by PRISTEM, each participant played one game against each of the other players. No one ended up with an equal record. Three players won $4$ games, the others won $3$ games, and all the others lost only one game.
+>
 > How many players took part in the tournament?
 
-**Answer:** 9
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_doppio_conteggio|Double counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q11|src_bocconi_semifinale_2009__Q11]]
 
 
 
@@ -403,13 +472,18 @@ Milena's result by exchanging numbers in Carla's numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lines drawn by Desiderio dividing flat into regions*
+*Lines drawn by Desiderio that divide the plane into regions*
 
-> Desiderio, on the phone with Angelo, playing with a card and a pen. At the end of the call, he drew several lines dividing the plane into a number of rectangles and illuminated regions. The number of rectangles is exactly twice the number of illuminated regions.
-> 
-> How many lines did Desiderio trace?
+> While talking on the phone with Angelo, Desiderio fiddles with a card and a pen. By the end of the call, he has drawn several straight lines that divide the plane into a certain number of rectangles and illuminated regions. The number of rectangles is exactly twice the number of illuminated regions.
+>
+> How many straight lines did Desiderio draw?
 
-**Answer:** 20 or 21 or 24 or 35
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q12|src_bocconi_semifinale_2009__Q12]]
 
 
 
@@ -435,13 +509,18 @@ Milena's result by exchanging numbers in Carla's numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gray area of the colored disc with three-stringed*
+*Grey area of the colored disc with a cord divided into three*
 
-> Deborah colored (in gray) a disc and decided to color the colored part in gray. The points on the circumference are equidistant from each other. Calculate the area of the gray part, knowing that the total area of the disk is $314 \ \text{cm}^2$ (If necessary: take $3{,}14$ for $\pi$).
+> Debora has colored a disk (in gray) and decides to color the part that is already colored gray. The points on the circumference are equally spaced from one another. Calculate the area of the part colored gray, knowing that the total area of the disk is $314 \ \text{cm}^2$ (If necessary: take $3{,}14$ for $\pi$).
 
 ![[src_bocconi_semifinale_2009__q13.png]]
 
-**Answer:** $157 \ \text{cm}^2$
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q13|src_bocconi_semifinale_2009__Q13]]
 
 
 
@@ -469,13 +548,20 @@ Milena's result by exchanging numbers in Carla's numbers
 <div class="qlang-split" data-lang="en"></div>
 
 
-Box for Jacob's soldiers equal to *
+*Jacob's toy-soldier boxes with equal sums*
 
-> Jacob has 20 soldiers (numbered from $1$ to $20$) and 20 boxes. It wants to arrange its soldiers in certain boxes so that: - all boxes used contain the same number of soldiers; - the sum of the numbers shown on the soldiers in each of the boxes used is always the same.
-> 
+> Jacob has twenty toy soldiers (numbered from $1$ to $20$) and twenty boxes. He wants to arrange his toy soldiers in some of the boxes so that:
+> - all the boxes used contain the same number of toy soldiers;
+> - the sum of the numbers on the toy soldiers contained in each of the boxes used is always the same.
+>
 > How many boxes will Jacob use?
 
-**Answer:** 2 or 5 or 10
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q14|src_bocconi_semifinale_2009__Q14]]
 
 
 
@@ -503,11 +589,16 @@ Box for Jacob's soldiers equal to *
 
 *Ratio between small and large cut diamond pieces*
 
-> The value of a diamond is proportional to the square of its weight. During the cutting operations, a magnificent diamond worth $11.200$ Euro broke in two. The two smallest diamonds, together, are worth $4.200$ Euro less than the big diamond that broke.
-> 
-> What is the ratio of the weights of the two pieces obtained from the large diamond (specifically, the ratio of the weight of the smaller piece to that of the larger piece)? (To give the answer in the form of an irreducible fraction)
+> The value of a diamond is proportional to the square of its weight. During the cutting process, a magnificent diamond worth $11.200$ euros broke in two. Together, the two smaller diamonds are worth $4.200$ euros less than the large diamond that broke.
+>
+> What is the ratio of the weights of the two pieces obtained from the large diamond (specifically, the ratio of the weight of the smaller piece to the weight of the larger piece)? (Give the answer as a fraction in lowest terms)
 
-**Answer:** $\frac{1}{3}$
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q15|src_bocconi_semifinale_2009__Q15]]
 
 
 
@@ -537,17 +628,22 @@ Box for Jacob's soldiers equal to *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parallel dimensions with increasing rectangle of paper*
+*Dimensions of a parallelogram with an increasing paper rectangle*
 
-> For her feast, Clara and Anna's mother gathered a locked sheet in a parallelogram-shaped box for her daughters. They're all full sizes.
-> 
-> The length of the ribbon used around the package (excluding the common flags and knots) is equal to the side of the size of the surface of the gift card (total surface of the parallelogram), expressed in square centimetres.
-> 
-> What are the three dimensions of the package, given in increasing order?
+> For her party, Chiara and Anna's mother gives their daughters a tangled sheet inside a box shaped like a parallelogram. All the dimensions are whole numbers.
+>
+> The length of the ribbon used around the package (not counting the bows and the common knots) is equal to the side corresponding to the area of the wrapping paper (the total area of the parallelogram), expressed in square centimeters.
+>
+> What are the three dimensions of the package, listed in ascending order?
 
 ![[src_bocconi_semifinale_2009__q16.png]]
 
-**Answer:** $(1,4,16)$; $(2,3,14)$; $(2,4,8)$; $(2,5,6)$; $(4,4,4)$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q16|src_bocconi_semifinale_2009__Q16]]
 
 
 
@@ -576,10 +672,18 @@ Box for Jacob's soldiers equal to *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the ABC triangle inscribed in a cube*
+*Area of triangle ABC inscribed in a cube*
 
-> Inscribe a triangle $ABC$ into a cube  whose beam measures $8$ cm  so that: - the point $A$ coincides with a vertex of the cube; - the points $B$ and $C$ are located on the beams of the cube; - the centre of gravity (baricenter) of the triangle coincides with that of the cube.
-> 
-> What is the maximum area of the $ABC$ triangle?
+> Inscribe a triangle $ABC$ in a cube—whose edge measures $8$ cm—so that:
+> - the point $A$ coincides with a vertex of the cube;
+> - the points $B$ and $C$ lie on the edges of the cube;
+> - the centroid of the triangle coincides with the centroid of the cube.
+>
+> What is the maximum area of the triangle $ABC$?
 
-**Answer:** $33{,}94 \ \text{cm}^2$
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_semifinale_2009#q17|src_bocconi_semifinale_2009__Q17]]

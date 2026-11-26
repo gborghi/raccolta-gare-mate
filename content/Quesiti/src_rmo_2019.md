@@ -29,9 +29,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove x è razionale dato x^5 e 20x+19/x sono razionali.*
+*Dimostrare che x è razionale, dato che x^5 e 20x+19/x sono razionali.*
 
-> Supponiamo che $x$ sia un numero reale non zero tale che sia $x^5$ che $20x + \frac{19}{x}$ siano numeri razionali. Prova che $x$ è un numero razionale.
+> Sia $x$ un numero reale non nullo tale che sia $x^5$ sia $20x + \frac{19}{x}$ siano numeri razionali. Dimostrare che $x$ è un numero razionale.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2019#q01|src_rmo_2019__Q01]]
 
 
 
@@ -53,9 +60,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le linee del centroide incontrano il circoncircolo; condizioni di angolo uguale forzano i triangoli equilaterali.*
+*Le rette dei baricentri incontrano la circonferenza circoscritta; le condizioni di uguaglianza degli angoli impongono triangoli equilateri.*
 
-> Let $ABC$ essere un triangolo con circoncircolo $\Omega$ e let $G$ essere il centroide del triangolo $ABC$. Estendere $AG$, $BG$ e $CG$ per raggiungere di nuovo il cerchio $\Omega$ rispettivamente in $A_1$, $B_1$ e $C_1$. Supponiamo $\angle BAC = \angle A_1B_1C_1$, $\angle ABC = \angle A_1C_1B_1$ e $\angle ACB = \angle B_1A_1C_1$. Prove che $ABC$ e $A_1B_1C_1$ sono triangoli equilaterali.
+> Sia $ABC$ un triangolo con circonferenza circoscritta $\Omega$, e sia $G$ il baricentro del triangolo $ABC$. Prolunga $AG$, $BG$ e $CG$ in modo che incontrino nuovamente la circonferenza $\Omega$ rispettivamente in $A_1$, $B_1$ e $C_1$. Supponi $\angle BAC = \angle A_1B_1C_1$, $\angle ABC = \angle A_1C_1B_1$ e $\angle ACB = \angle B_1A_1C_1$. Dimostrare che $ABC$ e $A_1B_1C_1$ sono triangoli equilateri.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2019#q02|src_rmo_2019__Q02]]
 
 
 
@@ -79,9 +92,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimostra una disuguaglianza per i reali positivi con a+b+c=1.*
+*Dimostra una disuguaglianza per numeri reali positivi tali che a+b+c=1.*
 
-> $a, b, c$ siano numeri reali positivi come $a + b + c = 1$. Provare che $$\frac{a}{a^2 + b^3 + c^3} + \frac{b}{b^2 + c^3 + a^3} + \frac{c}{c^2 + a^3 + b^3} \le \frac{1}{5abc}.$$
+> Siano $a, b, c$ numeri reali positivi tali che $a + b + c = 1$. Dimostrare che
+> $$\frac{a}{a^2 + b^3 + c^3} + \frac{b}{b^2 + c^3 + a^3} + \frac{c}{c^2 + a^3 + b^3} \le \frac{1}{5abc}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2019#q03|src_rmo_2019__Q03]]
 
 
 
@@ -107,9 +128,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Estendere un array 3xk utilizzando 1..3k così le somme di fila e le somme di fila di quadrati sono tutte uguali.*
+*Estendi una matrice 3xk utilizzando 1..3k in modo che le somme delle righe e le somme dei quadrati delle righe siano tutte uguali.*
 
-> Considera la seguente matrice $3 \times 2$ formata utilizzando i numeri $1, 2, 3, 4, 5, 6$: $$\begin{pmatrix} a_{11} & a_{12} \\ a_{21} & a_{22} \\ a_{31} & a_{32} \end{pmatrix} = \begin{pmatrix} 1 & 6 \\ 2 & 5 \\ 3 & 4 \end{pmatrix}.$$ Si noti che tutte le somme delle righe sono uguali, ma la somma dei quadrati non è la stessa per ogni riga. Estendere l'archivio di cui sopra ad un'archivio $3 \times k$ $(a_{ij})_{3 \times k}$ per un appropriato $k$, aggiungendo altre colonne, utilizzando i numeri $7, 8, 9, \ldots, 3k$ in modo tale che $$\sum_{j=1}^{k} a_{1j} = \sum_{j=1}^{k} a_{2j} = \sum_{j=1}^{k} a_{3j} \quad \text{and} \quad \sum_{j=1}^{k} (a_{1j})^2 = \sum_{j=1}^{k} (a_{2j})^2 = \sum_{j=1}^{k} (a_{3j})^2.$$
+> Si consideri il seguente array $3 \times 2$ ottenuto utilizzando i numeri $1, 2, 3, 4, 5, 6$:
+> $$\begin{pmatrix} a_{11} & a_{12} \\ a_{21} & a_{22} \\ a_{31} & a_{32} \end{pmatrix} = \begin{pmatrix} 1 & 6 \\ 2 & 5 \\ 3 & 4 \end{pmatrix}.$$
+> Si noti che tutte le somme delle righe sono uguali, ma la somma dei quadrati non è la stessa per ogni riga. Estendi la matrice sopra indicata a una matrice $3 \times k$ $(a_{ij})_{3 \times k}$ per un opportuno $k$, aggiungendo altre colonne, utilizzando i numeri $7, 8, 9, \ldots, 3k$ in modo che
+> $$\sum_{j=1}^{k} a_{1j} = \sum_{j=1}^{k} a_{2j} = \sum_{j=1}^{k} a_{3j} \quad \text{and} \quad \sum_{j=1}^{k} (a_{1j})^2 = \sum_{j=1}^{k} (a_{2j})^2 = \sum_{j=1}^{k} (a_{3j})^2.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2019#q04|src_rmo_2019__Q04]]
 
 
 
@@ -131,9 +162,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il segmento di visualizzazione che unisce i punti medi di EF, i piedi correlati sul DF dà XM perpendicolare a MY.*
+*Mostra il segmento che unisce i punti medi di EF, i piedi corrispondenti su DF danno XM perpendicolare a MY.*
 
-> In un triangolo angolato acuto $ABC$, $H$ deve essere il centro ortografico, e $D$, $E$, $F$ devono essere i piedi delle altitudini da $A$, $B$, $C$ ai lati opposti, rispettivamente. I segmenti $L$, $M$, $N$ siano rispettivamente i punti di mezzo $AH$, $EF$ e $BC$. Le altitudini $X$, $Y$ devono essere piedi di altitudine da $L$, $N$ alla linea $DF$. Prove che $XM$ è perpendicolare a $MY$.
+> In un triangolo acutangolo $ABC$, sia $H$ l'ortocentro, e siano $D$, $E$, $F$ i piedi delle altezze condotte da $A$, $B$, $C$ sui lati opposti, rispettivamente. Siano $L$, $M$, $N$ i punti medi dei segmenti $AH$, $EF$, $BC$, rispettivamente. Siano $X$, $Y$ i piedi delle altezze condotte da $L$, $N$ sulla retta $DF$. Dimostrare che $XM$ è perpendicolare a $MY$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2019#q05|src_rmo_2019__Q05]]
 
 
 
@@ -156,6 +193,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tra 91 numeri interi distinti >1 con >=456 copriemi copriemi, trovate quattro con gcd ciclico in coppia 1.*
+*Tra 91 interi distinti maggiori di 1 che hanno almeno 456 coppie coprime, trova quattro interi tali che il MCD di ciascuna coppia tra loro sia 1 in modo ciclico.*
 
-> Supponiamo che $91$ siano dati integri positivi distinti superiori a $1$ in modo tale che ci siano almeno $456$ coppie tra di esse che sono relativamente prime. Mostrare che si possono trovare quattro numeri interi $a, b, c, d$ tra di loro tali che $\gcd(a, b) = \gcd(b, c) = \gcd(c, d) = \gcd(d, a) = 1$.
+> Siano dati $91$ numeri interi positivi distinti maggiori di $1$, in modo tale che tra essi vi siano almeno $456$ coppie coprime. Dimostrare che si possono trovare quattro numeri interi $a, b, c, d$ tra essi tali che $\gcd(a, b) = \gcd(b, c) = \gcd(c, d) = \gcd(d, a) = 1$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2019#q06|src_rmo_2019__Q06]]

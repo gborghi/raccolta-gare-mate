@@ -28,14 +28,14 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (E)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.2](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=2) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.2](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=2)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.2 · Solutions and Investigations
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prodotto di due numeri con somma 20 e differenza 26.*
+*Prodotto di due numeri la cui somma è 20 e la cui differenza è 26.*
 
 > Qual è il prodotto di due numeri la cui somma è 20 e la cui differenza è 26?
 >
@@ -45,7 +45,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $-46$
 > - **(E)** $-69$
 
-**Risposta:** (E)
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2026#q01|src_smc_2026__Q01]]
 
 
 
@@ -67,16 +70,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (C)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.2](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=2) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.2](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=2)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.2 · Solutions and Investigations
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*4 mele e 5 pere costano £3,20, 5 mele e 4 pere £3,10: costo di una mela più una pera.*
+*4 mele e 5 pere costano £3,20; 5 mele e 4 pere costano £3,10; costo di una mela e di una pera.*
 
-> Alana compra 4 mele e 5 pere per £3,20. Agli stessi prezzi, 5 mele e 4 pere costano £3,10. Quanto costano in totale una mela e una pera?
+> Alana compra 4 mele e 5 pere per 3,20 sterline. Agli stessi prezzi, 5 mele e 4 pere costano 3,10 sterline. Qual è il costo totale di una mela e una pera?
 >
 > - **(A)** 50p
 > - **(B)** 60p
@@ -84,7 +87,10 @@ level: Senior Mathematical Challenge
 > - **(D)** 80p
 > - **(E)** 90p
 
-**Risposta:** (C)
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2026#q02|src_smc_2026__Q02]]
 
 
 
@@ -108,16 +114,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** (B)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.2](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=2) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.2](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=2)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.2 · Solutions and Investigations
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un quadrato e un rombo con un angolo interno di 30° hanno la stessa area: rapporto tra i lati.*
+*Il quadrato e il rombo con un angolo di 30° hanno aree uguali; rapporto delle lunghezze dei lati.*
 
-> Il quadrato e il rombo con un angolo interno di $30^\circ$ della figura hanno la stessa area. Qual è il rapporto tra la lunghezza del lato del quadrato e quella del lato del rombo?
+> Il quadrato e il rombo con angolo interno di $30^\circ$ hanno la stessa area. Qual è il rapporto tra il lato del quadrato e il lato del rombo?
 >
 > - **(A)** $1:1$
 > - **(B)** $1:\sqrt2$
@@ -127,7 +133,10 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2026__q03.png]]
 
-**Risposta:** (B)
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2026#q03|src_smc_2026__Q03]]
 
 
 
@@ -149,14 +158,14 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (D)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.2](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=2) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.2](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=2)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.2 · Solutions and Investigations
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Risolvere 2^x = sqrt(4 sqrt(4 sqrt 4)).*
+*Risolvi 2^x = sqrt(4 sqrt(4 sqrt 4)).*
 
 > $2^x=\sqrt{4\sqrt{4\sqrt4}}$. Qual è il valore di $x$?
 >
@@ -166,7 +175,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac74$
 > - **(E)** $\frac32$
 
-**Risposta:** (D)
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2026#q04|src_smc_2026__Q04]]
 
 
 
@@ -188,16 +200,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_funzionali|Equazioni funzionali]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (A)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.3](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=3) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.3](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=3)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.3 · Solutions and Investigations
+**Fonte:** apri PDF p.3
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successione in cui la media dei primi n termini vale 1/n: millesimo termine.*
+*Successione in cui la media dei primi n termini è 1/n; trovare il 1000° termine.*
 
-> Una successione di numeri ha la proprietà che, per ogni intero positivo $n$, la media dei primi $n$ termini è $\frac1n$. Qual è il 1000° termine della successione?
+> Una successione di numeri ha la proprietà che, per ogni intero positivo $n$, la media dei primi $n$ termini della successione è $\frac1n$. Qual è il 1000-esimo termine di questa successione?
 >
 > - **(A)** 0
 > - **(B)** $\frac1{999}$
@@ -205,7 +217,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac1{1001}$
 > - **(E)** $\frac1{1000000}$
 
-**Risposta:** (A)
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2026#q05|src_smc_2026__Q05]]
 
 
 
@@ -229,16 +244,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** (D)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.3](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=3) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.3](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=3)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.3 · Solutions and Investigations
+**Fonte:** apri PDF p.3
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo di otto quadratini ruotato di 180° attorno a O: rapporto tra i percorsi di P e di R.*
+*Rettangolo composto da otto quadrati unitari, ruotato di 180° attorno a O; rapporto delle distanze percorse da P e R.*
 
-> Il rettangolo $PQRS$ è formato da otto quadrati $1\times1$, come mostrato in figura. Nel punto $O$ si incontrano quattro di questi quadrati. Il rettangolo viene ruotato di $180^\circ$ attorno al punto $O$. Durante la rotazione il punto $P$ percorre una distanza $k$ volte quella percorsa dal punto $R$. Qual è il valore di $k$?
+> Il rettangolo $PQRS$ è formato da otto quadrati 1 per 1, come mostrato nel diagramma. Nel punto $O$, quattro di quei quadrati si incontrano. Il rettangolo viene ruotato di $180^\circ$ attorno al punto $O$. Durante tale rotazione, il punto $P$ percorre una distanza pari a $k$ volte quella percorsa dal punto $R$. Qual è il valore di $k$?
 >
 > - **(A)** $\sqrt2$
 > - **(B)** $\sqrt3$
@@ -248,7 +263,10 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2026__q06.png]]
 
-**Risposta:** (D)
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2026#q06|src_smc_2026__Q06]]
 
 
 
@@ -270,16 +288,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (D)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.3](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=3) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.3](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=3)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.3 · Solutions and Investigations
+**Fonte:** apri PDF p.3
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*50 perline gialle e 25 viola in cinque gruppi da 15: massimo numero di gruppi con più viola che gialle.*
+*50 perline gialle e 25 perline viola in cinque gruppi da 15; massimo di gruppi con più perline viola che gialle.*
 
-> Un sacchetto contiene 50 perline gialle e 25 viola, che devono essere divise in cinque gruppi da 15. Qual è il massimo numero possibile di gruppi con più perline viola che gialle?
+> Una borsa contiene 50 perline gialle e 25 perline viola, che devono essere disposte in cinque gruppi da 15 perline ciascuno. Qual è il numero massimo possibile di gruppi in cui le perline viola sono più numerose delle gialle?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -287,7 +305,10 @@ level: Senior Mathematical Challenge
 > - **(D)** 3
 > - **(E)** 4
 
-**Risposta:** (D)
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2026#q07|src_smc_2026__Q07]]
 
 
 
@@ -309,16 +330,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (B)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.4](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=4) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.4](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=4)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.4 · Solutions and Investigations
+**Fonte:** apri PDF p.4
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più grande intero di 10 cifre tutte diverse divisibile per 7: resto nella divisione per 10.*
+*Il più grande multiplo di 7 formato da 10 cifre, con tutte le cifre diverse; la sua ultima cifra.*
 
-> Il numero $N$ è il più grande intero di 10 cifre, tutte diverse tra loro, divisibile per 7. Qual è il resto della divisione di $N$ per 10?
+> Il numero $N$ è il più grande numero intero di 10 cifre, con tutte le cifre diverse, divisibile per 7. Qual è il resto della divisione di $N$ per 10?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -326,7 +347,10 @@ level: Senior Mathematical Challenge
 > - **(D)** 3
 > - **(E)** 4
 
-**Risposta:** (B)
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2026#q08|src_smc_2026__Q08]]
 
 
 
@@ -348,16 +372,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (B)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.4](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=4) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.4](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=4)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.4 · Solutions and Investigations
+**Fonte:** apri PDF p.4
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riscrittura a→ab, b→a: numero di lettere a nella riga 10.*
+*Riscrittura delle stringhe: a→ab, b→a; numero di a nella riga 10.*
 
-> Si costruisce una stringa di lettere applicando a ogni passo la regola seguente: ogni '$a$' viene sostituita da '$ab$' e ogni '$b$' viene sostituita dalla lettera '$a$'. Alison scrive la lettera '$a$' nella riga 1, poi applica la regola e scrive '$ab$' nella riga 2 e '$aba$' nella riga 3. Quante '$a$' compariranno nella riga 10 se Alison continua ad applicare correttamente la stessa regola?
+> Si crea una stringa di lettere applicando la seguente regola a ogni iterazione: ogni '$a$' viene sostituito con '$ab$', e ogni '$b$' viene sostituito con la lettera '$a$'. Alison scrive la lettera '$a$' nella riga 1, poi applica la regola e scrive '$ab$' nella riga 2, e '$aba$' nella riga 3. Quante '$a$' appariranno nella riga 10 se Alison continuerà ad applicare correttamente la stessa regola?
 >
 > - **(A)** 34
 > - **(B)** 55
@@ -365,7 +389,10 @@ level: Senior Mathematical Challenge
 > - **(D)** 89
 > - **(E)** 128
 
-**Risposta:** (B)
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2026#q09|src_smc_2026__Q09]]
 
 
 
@@ -387,16 +414,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (C)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.4](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=4) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.4](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=4)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.4 · Solutions and Investigations
+**Fonte:** apri PDF p.4
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri di sette cifre con cifre 4, 5, 6 e cifre adiacenti che differiscono di 1.*
+*Numeri di sette cifre composti dalle cifre 4, 5, 6, in cui le cifre adiacenti differiscono di 1.*
 
-> Quanti sono i numeri di sette cifre in cui ogni cifra è 4, 5 oppure 6 e ogni coppia di cifre adiacenti differisce di 1?
+> Quanti numeri di sette cifre esistono tali che ciascuna cifra sia 4, 5 o 6 e ogni coppia di cifre adiacenti differisca di 1?
 >
 > - **(A)** 12
 > - **(B)** 18
@@ -404,7 +431,10 @@ level: Senior Mathematical Challenge
 > - **(D)** 30
 > - **(E)** 32
 
-**Risposta:** (C)
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2026#q10|src_smc_2026__Q10]]
 
 
 
@@ -428,16 +458,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** (C)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.5](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=5) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.5](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=5)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.5 · Solutions and Investigations
+**Fonte:** apri PDF p.5
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sette quadrati unitari a scala; la retta PQ ne dimezza l'area: rapporto MQ:QN.*
+*Sette quadrati unitari disposti a scalinata; la retta PQ ne dimezza l'area; rapporto MQ:QN.*
 
-> Sette quadrati di lato unitario sono accostati lato a lato come in figura. Si traccia il segmento da $P$ a $Q$, dove $Q$ è il punto della retta $MN$ tale che l'area ombreggiata ottenuta sia metà dell'area totale dei sette quadrati. Qual è il rapporto $MQ:QN$?
+> Sette quadrati di lato unitario sono allineati fianco a fianco, come mostrato. Si traccia una linea retta da $P$ a $Q$, dove $Q$ è il punto sulla linea $MN$ tale che l'area ombreggiata così formata sia pari alla metà dell'area totale dei sette quadrati. Qual è il rapporto $MQ:QN$?
 >
 > - **(A)** $1:2$
 > - **(B)** $2:3$
@@ -447,7 +477,10 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2026__q11.png]]
 
-**Risposta:** (C)
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2026#q11|src_smc_2026__Q11]]
 
 
 
@@ -469,16 +502,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (B)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.5](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=5) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.5](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=5)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.5 · Solutions and Investigations
+**Fonte:** apri PDF p.5
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti nei vertici, nei punti medi degli spigoli e nei centri delle facce di un cubo: rette per esattamente 3 punti.*
+*Punti nei vertici, nei punti medi degli spigoli e nei centri delle facce di un cubo; rette che passano esattamente per 3 punti.*
 
-> Un cubo ha un punto segnato in ogni vertice, nel punto medio di ogni spigolo e nel centro di ogni faccia. Quante rette passano per esattamente 3 punti segnati?
+> Un cubo ha un punto in ciascun vertice, nel punto medio di ciascun spigolo e nel punto medio di ciascuna faccia. Quante rette possono passare esattamente per 3 punti?
 >
 > - **(A)** 24
 > - **(B)** 36
@@ -486,7 +519,10 @@ level: Senior Mathematical Challenge
 > - **(D)** 60
 > - **(E)** 72
 
-**Risposta:** (B)
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2026#q12|src_smc_2026__Q12]]
 
 
 
@@ -510,16 +546,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** (E)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.6](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=6) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.6](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=6)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.6 · Solutions and Investigations
+**Fonte:** apri PDF p.6
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangoli equilateri JKL (lato 20) e KMN (lato 26); JQ = NP e angolo QPM retto; PQ = t√3.*
+*Triangoli equilateri JKL (20) e KMN (26); JQ = NP e l'angolo QPM è retto; PQ = t√3.*
 
-> $JKL$ e $KMN$ sono triangoli equilateri di lato rispettivamente 20 e 26. I punti $J$, $K$ e $M$ sono allineati. I punti $P$ su $NM$ e $Q$ su $JK$ sono tali che $JQ$ e $NP$ hanno la stessa lunghezza e l'angolo $QPM$ è retto. La lunghezza di $PQ$ è $t\sqrt3$. Qual è il valore di $t$?
+> $JKL$ e $KMN$ sono triangoli equilateri con lati di lunghezza rispettivamente 20 e 26. I punti $J$, $K$ e $M$ giacciono su una retta. I punti $P$ su $NM$ e $Q$ su $JK$ sono tali che $JQ$ e $NP$ hanno la stessa lunghezza e $QPM$ è un angolo retto. La lunghezza di $PQ$ è $t\sqrt3$. Qual è il valore di $t$?
 >
 > - **(A)** 24
 > - **(B)** 23
@@ -529,7 +565,10 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2026__q13.png]]
 
-**Risposta:** (E)
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2026#q13|src_smc_2026__Q13]]
 
 
 
@@ -551,16 +590,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.6](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=6) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.6](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=6)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.6 · Solutions and Investigations
+**Fonte:** apri PDF p.6
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Segni ± davanti a 1/1, …, 1/6: minimo valore positivo della somma.*
+*Segni ± davanti a 1/1, …, 1/6; valore positivo minimo della somma.*
 
-> Si considerino le espressioni che si ottengono riempiendo ogni $\square$ con un segno $+$ o $-$ in $\square\frac11\square\frac12\square\frac13\square\frac14\square\frac15\square\frac16$. Per esempio, $-\frac11+\frac12-\frac13-\frac14+\frac15+\frac16$, che vale $-\frac{43}{60}$, è una delle $2^6$ espressioni possibili. Tra queste espressioni, qual è il minimo valore positivo possibile?
+> Si considerino le possibili espressioni che si formano quando ciascun $\square$ viene riempito con un segno $+$ o un segno $-$ in $\square\frac11\square\frac12\square\frac13\square\frac14\square\frac15\square\frac16$. Ad esempio, $-\frac11+\frac12-\frac13-\frac14+\frac15+\frac16$, che ha valore $-\frac{43}{60}$, è una delle $2^6$ espressioni possibili. Tra queste espressioni, qual è il più piccolo valore positivo possibile?
 >
 > - **(A)** $\frac1{60}$
 > - **(B)** $\frac1{30}$
@@ -568,7 +607,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac1{10}$
 > - **(E)** $\frac15$
 
-**Risposta:** (C)
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2026#q14|src_smc_2026__Q14]]
 
 
 
@@ -590,16 +632,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (A)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.7](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=7) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.7](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=7)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.7 · Solutions and Investigations
+**Fonte:** apri PDF p.7
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La media di n numeri è n; uno vale 4n, uno n−6, gli altri k: trovare k.*
+*La media di n numeri è n; uno vale 4n, uno vale n−6, gli altri sono tutti uguali a k; trova k.*
 
-> La media di $n$ numeri è $n$, con $n>2$. Uno dei numeri è $4n$ e un altro è $n-6$. Gli altri numeri sono tutti uguali a $k$. Quale di queste espressioni dà $k$ in funzione di $n$?
+> La media di $n$ numeri è $n$, $n>2$. Uno dei numeri è $4n$ e un altro è $n-6$. Gli altri numeri sono tutti uguali a $k$. Quale di queste espressioni dà $k$ in funzione di $n$?
 >
 > - **(A)** $n-3$
 > - **(B)** $n-\frac52$
@@ -607,7 +649,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $n-\frac32$
 > - **(E)** $n-1$
 
-**Risposta:** (A)
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2026#q15|src_smc_2026__Q15]]
 
 
 
@@ -631,26 +676,29 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** (B)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.7](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=7) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.7](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=7)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.7 · Solutions and Investigations
+**Fonte:** apri PDF p.7
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo PQR rettangolo in R con QR = 3√5, RP = 2√5 e angolo QRS = 45°: area di PSR.*
+*Triangolo rettangolo PQR con QR = 3√5, RP = 2√5 e angolo QRS = 45°; area di PSR.*
 
-> Il triangolo $PQR$ è rettangolo in $R$. I lati $QR$ e $RP$ misurano rispettivamente $3\sqrt5$ e $2\sqrt5$, e $\angle QRS=45^\circ$. Qual è l'area del triangolo $PSR$?
+> Il triangolo $PQR$ ha un angolo retto in $R$. Le lunghezze di $QR$ e $RP$ sono rispettivamente $3\sqrt5$ e $2\sqrt5$ e $\angle QRS=45^\circ$. Qual è l'area del triangolo $PSR$?
 >
 > - **(A)** 5
 > - **(B)** 6
 > - **(C)** $3\sqrt5$
-> - **(D)** 7,5
+> - **(D)** 7.5
 > - **(E)** $7\sqrt2$
 
 ![[src_smc_2026__q16.png]]
 
-**Risposta:** (B)
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2026#q16|src_smc_2026__Q16]]
 
 
 
@@ -674,16 +722,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (C)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.8](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=8) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.8](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=8)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.8 · Solutions and Investigations
+**Fonte:** apri PDF p.8
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri da 2 a 8 in un anello di cerchi con l'1, somme adiacenti prime: valori possibili di x.*
+*I numeri da 2 a 8 in un anello di cerchi con il 1; le somme adiacenti sono numeri primi; valori possibili di x.*
 
-> I numeri 2, 3, 4, 5, 6, 7 e 8 devono essere inseriti nei cerchi vuoti in modo che (i) ci sia un numero in ogni cerchio e (ii) la somma dei numeri in ogni coppia di cerchi adiacenti sia un numero primo. Quanti sono i possibili valori di $x$?
+> I numeri 2, 3, 4, 5, 6, 7 e 8 devono essere collocati nei cerchi vuoti in modo che (i) in ogni cerchio ci sia un numero e (ii) la somma dei numeri in ciascuna coppia di cerchi adiacenti sia un numero primo. Quanti valori possibili ci sono per $x$?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -693,7 +741,10 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2026__q17.png]]
 
-**Risposta:** (C)
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2026#q17|src_smc_2026__Q17]]
 
 
 
@@ -715,16 +766,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (A)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.8](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=8) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.8](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=8)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.8 · Solutions and Investigations
+**Fonte:** apri PDF p.8
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*g(x) = x^(1/n): semplificare g(a)·g(b^2)·g(a^3)·…·g(a^(2n−1))·g(b^(2n)).*
+*g(x) = x^(1/n); simplifica g(a)·g(b^2)·g(a^3)·…·g(a^(2n−1))·g(b^(2n)).*
 
-> Sia $g(x)=x^{\frac1n}$, dove $x$, $a$ e $b$ sono numeri reali positivi e $n$ è un intero positivo. Quale delle seguenti è una semplificazione di $g(a)\times g(b^2)\times g(a^3)\times g(b^4)\times\dots\times g(a^{2n-1})\times g(b^{2n})$?
+> Sia $g(x)=x^{\frac1n}$. Ciascuno di $x$, $a$ e $b$ è un numero reale positivo, e $n$ è un numero intero positivo. Quale delle seguenti è una semplificazione di $g(a)\times g(b^2)\times g(a^3)\times g(b^4)\times\dots\times g(a^{2n-1})\times g(b^{2n})$?
 >
 > - **(A)** $a^nb^{n+1}$
 > - **(B)** $a^nb^{n+2}$
@@ -732,7 +783,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $a^{2n}b^{2n+2}$
 > - **(E)** $a^{2n+1}b^{2n+2}$
 
-**Risposta:** (A)
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2026#q18|src_smc_2026__Q18]]
 
 
 
@@ -754,16 +808,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (A)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.9](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=9) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.9](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=9)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.9 · Solutions and Investigations
+**Fonte:** apri PDF p.9
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Interi positivi x con parte intera di √x più parte intera di ∛x uguale a 8.*
+*Interi positivi x tali che floor(√x) + floor(∛x) = 8.*
 
-> Il più grande intero minore o uguale a $x$ si indica con $\lfloor x\rfloor$. Per esempio $\lfloor5{,}8\rfloor=5$ e $\lfloor3\rfloor=3$. Per quanti interi positivi $x$ vale $\lfloor x^{\frac12}\rfloor+\lfloor x^{\frac13}\rfloor=8$?
+> Il più grande intero minore o uguale a $x$ è rappresentato da $\lfloor x\rfloor$. Ad esempio, $\lfloor5.8\rfloor=5$ e $\lfloor3\rfloor=3$. Per quanti interi positivi $x$ vale $\lfloor x^{\frac12}\rfloor+\lfloor x^{\frac13}\rfloor=8$?
 >
 > - **(A)** 9
 > - **(B)** 10
@@ -771,7 +825,10 @@ level: Senior Mathematical Challenge
 > - **(D)** 12
 > - **(E)** 13
 
-**Risposta:** (A)
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2026#q19|src_smc_2026__Q19]]
 
 
 
@@ -795,14 +852,14 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (E)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.9](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=9) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.9](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=9)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.9 · Solutions and Investigations
+**Fonte:** apri PDF p.9
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quale schizzo è il grafico di y = 1 + sin x cos x − sin x − cos x in [0°, 360°].*
+*Quale schizzo rappresenta il grafico di y = 1 + sin x cos x − sin x − cos x sull'intervallo [0°, 360°]?*
 
 > Quale dei seguenti è uno schizzo del grafico di $y=1+\sin x\cos x-\sin x-\cos x$ per $0^\circ\le x^\circ\le360^\circ$?
 >
@@ -814,7 +871,10 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2026__q20.png]]
 
-**Risposta:** (E)
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2026#q20|src_smc_2026__Q20]]
 
 
 
@@ -838,16 +898,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (E)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.10](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=10) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.10](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=10)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.10 · Solutions and Investigations
+**Fonte:** apri PDF p.10
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Formica su un cubo che alterna diagonali di faccia e spigoli: vertice irraggiungibile dopo 81 tratti.*
+*Formica su un cubo: diagonali delle facce e spigoli alternati; il vertice è irraggiungibile dopo 81 segmenti.*
 
-> La figura mostra un cubo di plastica trasparente $PQRSTUVW$. Una formica parte dal vertice $S$ e cammina sulla superficie del cubo pieno. Si muove lungo segmenti rettilinei (il primo verso $Q$, $U$ o $W$), percorrendo alternativamente la diagonale di una faccia e poi uno spigolo. Un esempio di percorso possibile di cinque tratti è $SQRTSW$. Al termine di un percorso di 81 tratti, quale dei seguenti vertici è impossibile che la formica raggiunga?
+> Il diagramma mostra un cubo di plastica trasparente, $PQRSTUVW$. Una formica parte dal vertice $S$ e cammina sulla superficie del solido cubico. Si sposta lungo segmenti di retta (prima verso $Q$, $U$ o $W$), alternando il percorso lungo la diagonale di una faccia e poi lungo un spigolo. Un esempio di possibile percorso composto da cinque segmenti è $SQRTSW$. Al termine di un percorso di 81 segmenti, quale dei seguenti vertici è impossibile che la formica raggiunga?
 >
 > - **(A)** $S$
 > - **(B)** $Q$
@@ -857,7 +917,10 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2026__q21.png]]
 
-**Risposta:** (E)
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2026#q21|src_smc_2026__Q21]]
 
 
 
@@ -881,16 +944,16 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** (D)
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.10](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=10) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.10](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=10)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.10 · Solutions and Investigations
+**Fonte:** apri PDF p.10
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Parco giochi a pentagono regolare con pentagono interno e linee perpendicolari: frazione ombreggiata.*
+*Area giochi pentagonale con un pentagono interno e percorsi perpendicolari; frazione ombreggiata.*
 
-> Come mostrato in figura, un parco giochi ha la forma di un pentagono regolare. Al centro c'è un pentagono regolare più piccolo e, da ogni vertice del pentagono piccolo, parte una linea perpendicolare a un lato. La figura ha simmetria rotazionale di ordine 5. Il lato del pentagono grande misura 10 m e $PQ=RS=2$ m. Quale frazione dell'area del parco giochi è occupata dalla regione ombreggiata?
+> Come mostrato nel diagramma, un'area giochi è costruita a forma di pentagono regolare. Al centro si trova un pentagono regolare più piccolo, con delle rette perpendicolari a ciascun lato in ciascun vertice del pentagono più piccolo. L'ordine di simmetria rotazionale del diagramma è 5. La lunghezza del lato del pentagono più grande è di 10 m, e $PQ=RS=2$ m. Quale frazione dell'area dell'area giochi corrisponde all'area della regione ombreggiata?
 >
 > - **(A)** $\frac35$
 > - **(B)** $\frac58$
@@ -900,7 +963,10 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2026__q22.png]]
 
-**Risposta:** (D)
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2026#q22|src_smc_2026__Q22]]
 
 
 
@@ -916,18 +982,21 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 129
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.11](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=11) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.11](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=11)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.11 · Solutions and Investigations
+**Fonte:** apri PDF p.11
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trapezio isoscele con basi 20 e 26, lati obliqui n interi e diagonale intera: massimo n.*
+*Trapezio isoscele con basi 20 e 26, cateti interi n e diagonale intera; n massimo.*
 
-> Sia $PQRS$ un trapezio con $QP$ parallelo a $RS$, $QP=20$, $RS=26$ e $PS=QR=n$, con $n$ intero positivo. Anche la lunghezza della diagonale $QS$ è un intero positivo. Qual è il massimo valore possibile di $n$?
+> Sia $PQRS$ un trapezio con $QP$ parallelo a $RS$ e con $QP=20$, $RS=26$ e $PS=QR=n$, per un certo intero positivo $n$. Anche la lunghezza della diagonale $QS$ è un intero positivo. Qual è il valore massimo possibile di $n$?
 
-**Risposta:** 129
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2026#q23|src_smc_2026__Q23]]
 
 
 
@@ -945,20 +1014,23 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 140
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.11](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=11) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.11](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=11)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.11 · Solutions and Investigations
+**Fonte:** apri PDF p.11
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato OPQR, S su PQ con PS:SQ = 1:2, T sulla retta SR con angolo TOS retto, area di ORT = 30: area del quadrato.*
+*Quadrato OPQR, S su PQ con PS:SQ = 1:2, T sulla retta SR con l'angolo TOS retto, area ORT = 30; area del quadrato.*
 
-> $OPQR$ è un quadrato. Il punto $S$ sta su $PQ$ e $PS:SQ=1:2$. I punti $S$, $R$ e $T$ sono allineati e l'angolo $TOS$ è retto. L'area del triangolo $ORT$ è 30. Qual è l'area di $OPQR$?
+> $OPQR$ è un quadrato. Il punto $S$ giace su $PQ$ in modo tale che $PS:SQ=1:2$. I punti $S$, $R$ e $T$ giacciono su una retta e l'angolo $TOS$ è un angolo retto. L'area del triangolo $ORT$ è 30. Qual è l'area di $OPQR$?
 
 ![[src_smc_2026__q24.png]]
 
-**Risposta:** 140
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2026#q24|src_smc_2026__Q24]]
 
 
 
@@ -976,17 +1048,20 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 528
-**Fonte risposta:** [UKMT, SMC 2026 Solutions p.12](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=12) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
-**Fonte:** [apri PDF p.12](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=12)
+**Fonte risposta:** UKMT, SMC 2026 Solutions p.12 · Solutions and Investigations
+**Fonte:** apri PDF p.12
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colorare di rosso, bianco o blu i 18 lati unitari di una figura triangolare in modo che ogni triangolino abbia tutti e tre i colori.*
+*Colora di rosso, bianco e blu i 18 spigoli unitari di un diagramma triangolare, in modo che ogni piccolo triangolo abbia tutti e tre i colori.*
 
-> La figura, costruita con triangoli equilateri di lato 1, ha in tutto 18 lati di lunghezza 1. Ogni lato deve essere colorato di rosso, di bianco o di blu. Colorazioni dei lati della figura che si possono sovrapporre mediante una rotazione o una riflessione della figura vanno considerate diverse. Quante figure colorate diverse si possono ottenere, sapendo che ogni triangolo equilatero di lato 1 deve avere lati di tutti e tre i colori?
+> Questo diagramma, costruito a partire da triangoli equilateri di lato 1, presenta in totale 18 spigoli di lunghezza 1. Ogni spigolo deve essere colorato di rosso, bianco o blu. Si noti che colorazioni diverse degli spigoli del diagramma che possono essere portate a coincidere mediante una rotazione o una riflessione del diagramma devono essere considerate colorazioni diverse. Quanti diagrammi colorati diversi si possono ottenere, sapendo che ciascun triangolo equilatero di lato 1 deve avere spigoli di tutti e tre i colori?
 
 ![[src_smc_2026__q25.png]]
 
-**Risposta:** 528
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2026#q25|src_smc_2026__Q25]]

@@ -30,11 +30,17 @@ level: China Mathematical Competition (Extra Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tangente e secante dal punto esterno, prova di uguale angolazione*
+*Tangente e secante da un punto esterno, dimostrazione dell'uguaglianza degli angoli*
 
-> Dal punto $P$, al di fuori di un cerchio, tracciare due tangenti al cerchio che si toccano ai punti $A$ e $B$. Tracciare una linea secante che incrocia il cerchio nei punti $C$ e $D$, con $C$ tra $P$ e $D$. Selezionare il punto $Q$ sull'accordo $CD$ in modo tale che $\angle DAQ = \angle PBC$. Prova che $\angle DBQ = \angle PAC$.
+> Dal punto $P$, esterno a una circonferenza, traccia due tangenti alla circonferenza che la toccano nei punti $A$ e $B$. Traccia una secante che interseca la circonferenza nei punti $C$ e $D$, con $C$ compreso tra $P$ e $D$. Scegli il punto $Q$ sulla corda $CD$ in modo che $\angle DAQ = \angle PBC$. Dimostrare che $\angle DBQ = \angle PAC$.
 
 ![[src_cn_cmc-extra-test_2003__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc-extra-test_2003#q01|src_cn_cmc-extra-test_2003__Q01]]
 
 
 
@@ -58,11 +64,16 @@ level: China Mathematical Competition (Extra Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo a lato intero con parti frazionarie uguali di potenze di 3*
+*Triangolo a lati interi con parti frazionarie uguali delle potenze di 3*
 
-> I tre lati di un triangolo sono numeri interi $l$, $m$, $n$, rispettivamente, soddisfacendo $l > m \ge n$ e $\left\{\frac{3^l}{10^4}\right\} = \left\{\frac{3^m}{10^4}\right\} = \left\{\frac{3^n}{10^4}\right\}$, dove $\{x\} = x - [x]$ e $[x]$ denotano la parte integrale di $x$. Trova il perimetro minimo di un triangolo.
+> Siano $l$, $m$, $n$ i tre lati di un triangolo, rispettivamente interi, che soddisfano $l > m \ge n$ e $\left\{\frac{3^l}{10^4}\right\} = \left\{\frac{3^m}{10^4}\right\} = \left\{\frac{3^n}{10^4}\right\}$, dove $\{x\} = x - [x]$ e $[x]$ denotano la parte intera di $x$. Determinare il perimetro minimo di un tale triangolo.
 
-**Risposta:** 3003
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc-extra-test_2003#q02|src_cn_cmc-extra-test_2003__Q02]]
 
 
 
@@ -85,6 +96,13 @@ level: China Mathematical Competition (Extra Test)
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Figura spaziale con vertici n=q^2+q+1: prova dell'esistenza di quadrilaterali spaziali*
+*Figura nello spazio con n=q^2+q+1 vertici: dimostrare l'esistenza di un quadrilatero nello spazio*
 
-> La figura spaziale è composta da vertici $n$ e linee $l$ che collegano tali vertici, con $n = q^2 + q + 1$, $l \ge \frac{1}{2}(q+1)^2 + 1$, $q \ge 2$, $q \in \mathbb{N}$. Supponiamo che la figura soddisfi le seguenti condizioni: ogni quattro vertici non sono coplanari, ogni vertici è collegato da almeno una linea e c'è un vertici che è collegato da almeno $q + 2$ linee. Prove che esiste un quadrilaterale spaziale nella figura.
+> Sia data una figura nello spazio composta da $n$ vertici e da $l$ spigoli che collegano tali vertici, con $n = q^2 + q + 1$, $l \ge \frac{1}{2}(q+1)^2 + 1$, $q \ge 2$, $q \in \mathbb{N}$. Si supponga che la figura soddisfi le seguenti condizioni: ogni insieme di quattro vertici è non complanare, ogni vertice è collegato da almeno uno spigolo, ed esiste un vertice collegato da almeno $q + 2$ spigoli. Dimostrare che nella figura esiste un quadrilatero nello spazio.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_grafi|Grafi]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_cn_cmc-extra-test_2003#q03|src_cn_cmc-extra-test_2003__Q03]]

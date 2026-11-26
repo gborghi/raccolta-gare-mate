@@ -29,9 +29,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero intero positivo più piccolo non diviso 9 fattoriali*
+*Il più piccolo intero positivo che non divide 9 fattoriale*
 
-> Il numero intero positivo più piccolo che non divide $1 \times 2 \times 3 \times 4 \times 5 \times 6 \times 7 \times 8 \times 9$ è:
+> Il più piccolo intero positivo che non divide $1 \times 2 \times 3 \times 4 \times 5 \times 6 \times 7 \times 8 \times 9$ è:
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2024#q01|src_ioqm_2024__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri odd a quattro cifre con cifre 1,2,3,4 ciascuna una volta*
+*Quanti numeri dispari di quattro cifre usano 1, 2, 3, 4 ciascuno una volta*
 
-> Il numero di numeri odd a quattro cifre con cifre $1, 2, 3, 4$, che si verificano ciascuna esattamente una volta, è:
+> Il numero di numeri dispari di quattro cifre che hanno le cifre $1, 2, 3, 4$, ciascuna esattamente una volta, è:
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_ioqm_2024#q02|src_ioqm_2024__Q02]]
 
 
 
@@ -80,11 +94,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le ultime due cifre di $5^{2024}$*
+*Le ultime due cifre di 5^2024, nello stesso ordine*
 
-> Il numero ottenuto prendendo le ultime due cifre di $5^{2024}$ nello stesso ordine è:
+> Il numero che si ottiene prendendo le ultime due cifre di $5^{2024}$, nello stesso ordine, è:
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
 **Risposta:** 25
+
+[[Quesiti/src_ioqm_2024#q03|src_ioqm_2024__Q03]]
 
 
 
@@ -107,9 +128,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca angolo CAB in ABCD quadrilaterale con angoli dati*
+*Trovare l'angolo CAB nel quadrilatero ABCD con gli angoli dati*
 
-> Il $ABCD$ deve essere un quadrilaterale con $\angle ADC = 70^\circ$, $\angle ACD = 70^\circ$, $\angle ACB = 10^\circ$ e $\angle BAD = 110^\circ$. La misura di $\angle CAB$ (in gradi) è:
+> Sia $ABCD$ un quadrilatero con $\angle ADC = 70^\circ$, $\angle ACD = 70^\circ$, $\angle ACB = 10^\circ$ e $\angle BAD = 110^\circ$. La misura di $\angle CAB$ (in gradi) è:
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2024#q04|src_ioqm_2024__Q04]]
 
 
 
@@ -132,9 +160,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolazione \ab-c per le espressioni simmetriche date in x,y,z*
+*Calcola |ab-c| per le espressioni simmetriche date in x,y,z*
 
-> $a = \frac{x}{y} + \frac{y}{z} + \frac{z}{x}$, $b = \frac{x}{z} + \frac{z}{x} + \frac{y}{x}$ e $c = \left(\frac{x}{y} + \frac{y}{z}\right)\left(\frac{y}{z} + \frac{z}{x}\right)\left(\frac{z}{x} + \frac{x}{y}\right)$. Il valore di $|ab - c|$ è:
+> Sia $a = \frac{x}{y} + \frac{y}{z} + \frac{z}{x}$, sia $b = \frac{x}{z} + \frac{z}{x} + \frac{y}{x}$ e sia $c = \left(\frac{x}{y} + \frac{y}{z}\right)\left(\frac{y}{z} + \frac{z}{x}\right)\left(\frac{z}{x} + \frac{x}{y}\right)$. Il valore di $|ab - c|$ è:
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2024#q05|src_ioqm_2024__Q05]]
 
 
 
@@ -157,9 +192,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare triples (a,b,c) che soddisfano due equazioni di potenza simultanee*
+*Terne reali con a^20 + b^20 + c^20 = a^24 + b^24 + c^24 = 1*
 
-> Trova il numero di triples di numeri reali $(a, b, c)$ tale che $a^{20} + b^{20} + c^{20} = a^{24} + b^{24} + c^{24} = 1$.
+> Trovare il numero di terne di numeri reali $(a, b, c)$ tali che $a^{20} + b^{20} + c^{20} = a^{24} + b^{24} + c^{24} = 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata per casi]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_ioqm_2024#q06|src_ioqm_2024__Q06]]
 
 
 
@@ -182,9 +224,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di tutte le superfici di un cubo con due vertici dati*
+*Somma delle aree possibili di un cubo con due vertici dati*
 
-> Determinare la somma di tutte le superfici possibili di un cubo di cui due vertici sono $(1, 2, 0)$ e $(3, 3, 2)$.
+> Determinare la somma di tutte le aree laterali totali possibili di un cubo due dei cui vertici sono $(1, 2, 0)$ e $(3, 3, 2)$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_ioqm_2024#q07|src_ioqm_2024__Q07]]
 
 
 
@@ -207,9 +256,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le prime due cifre della n più piccola con condizioni di somma di cifre su n e n+1*
+*Primi due digit del più piccolo n che soddisfa le condizioni sulla somma delle cifre di n e di n+1*
 
-> $n$ sia il numero intero più piccolo tale che la somma delle cifre di $n$ sia divisibile da $5$ e la somma delle cifre di $(n+1)$ sia divisibile da $5$. Quali sono le prime due cifre di $n$ nello stesso ordine?
+> Sia $n$ il più piccolo intero tale che la somma delle cifre di $n$ sia divisibile per $5$ e che la somma delle cifre di $(n+1)$ sia divisibile per $5$. Quali sono le prime due cifre di $n$, nello stesso ordine?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2024#q08|src_ioqm_2024__Q08]]
 
 
 
@@ -232,9 +288,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie di movimenti di cavalieri in griglia di numeri interi 5x5*
+*Conta le coppie di mosse a cavallo in una griglia intera 5x5*
 
-> Considera la griglia dei punti $X = \{(m,n) \mid 0 \le m, n \le 4\}$. Diciamo che una coppia di punti $\{(a,b),(c,d)\}$ in $X$ è una coppia di cavallo-movimento se ($c = a \pm 2$ e $d = b \pm 1$) o ($c = a \pm 1$ e $d = b \pm 2$). Il numero di coppie di movimenti di cavallo in $X$ è:
+> Si consideri la griglia di punti $X = \{(m,n) \mid 0 \le m, n \le 4\}$. Diciamo che una coppia di punti $\{(a,b),(c,d)\}$ in $X$ è una coppia a mossa del cavallo se ($c = a \pm 2$ e $d = b \pm 1$) oppure ($c = a \pm 1$ e $d = b \pm 2$). Il numero di coppie a mossa del cavallo in $X$ è:
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2024#q09|src_ioqm_2024__Q09]]
 
 
 
@@ -258,9 +321,17 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta p integrale positiva per un triangolo con un'equazione laterale data*
+*Conta i p interi positivi per il triangolo con l'equazione del lato data*
 
-> Determinare il numero di valori integrali positivi di $p$ per i quali esiste un triangolo con lati $a, b$ e $c$ che soddisfano $$a^2 + (p^2 + 9)b^2 + 9c^2 - 6ab - 6pbc = 0.$$
+> Determinare il numero di valori interi positivi di $p$ per i quali esiste un triangolo con lati $a, b$ e $c$ che soddisfano
+> $$a^2 + (p^2 + 9)b^2 + 9c^2 - 6ab - 6pbc = 0.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2024#q10|src_ioqm_2024__Q10]]
 
 
 
@@ -286,9 +357,19 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca 1/a+1/b+1/c data due equazioni simmetriche*
+*Trovare 1/a+1/b+1/c dati due equazioni simmetriche*
 
-> I numeri reali positivi $a, b, c$ soddisfano: $$\frac{a}{2b+1} + \frac{2b}{3c+1} + \frac{3c}{a+1} = 1$$ $$\frac{1}{a+1} + \frac{1}{2b+1} + \frac{1}{3c+1} = 2$$ Qual è il valore di $\frac{1}{a} + \frac{1}{b} + \frac{1}{c}$?
+> I numeri reali positivi $a, b, c$ soddisfano:
+> $$\frac{a}{2b+1} + \frac{2b}{3c+1} + \frac{3c}{a+1} = 1$$
+> $$\frac{1}{a+1} + \frac{1}{2b+1} + \frac{1}{3c+1} = 2$$
+> Qual è il valore di $\frac{1}{a} + \frac{1}{b} + \frac{1}{c}$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2024#q11|src_ioqm_2024__Q11]]
 
 
 
@@ -311,9 +392,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area del triangolo MAB in quadrato ABCD con trisezione di CD*
+*Area del triangolo MAB nel quadrato ABCD con trisezione di CD*
 
-> Considera un quadrato $ABCD$ di lunghezza laterale $16$. $E, F$ siano punti su $CD$ in modo tale che $CE = EF = FD$. La linea $BF$ e $AE$ si incontrano in $M$. La superficie di $\triangle MAB$ è:
+> Si consideri un quadrato $ABCD$ di lato $16$. Siano $E, F$ punti su $CD$ tali che $CE = EF = FD$. Siano $BF$ e $AE$ le rette che si intersecano in $M$. L'area di $\triangle MAB$ è:
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2024#q12|src_ioqm_2024__Q12]]
 
 
 
@@ -338,9 +426,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il valore di due equazioni date in numeri interi positivi a,b,c con a>c*
+*Trovare il valore delle due equazioni date in numeri interi positivi a, b, c con a>c*
 
-> Tre integri positivi $a, b, c$ con $a > c$ soddisfano le seguenti equazioni: $$ac + b + c = bc + a + 66, \quad a + b + c = 32.$$ Trova il valore di $a$.
+> Tre interi positivi $a, b, c$ con $a > c$ soddisfano le seguenti equazioni:
+> $$ac + b + c = bc + a + 66, \quad a + b + c = 32.$$
+> Trova il valore di $a$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2024#q13|src_ioqm_2024__Q13]]
 
 
 
@@ -363,9 +460,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Particelle a (79,80) dopo 80 passaggi di regola di divisione*
+*Particelle in (79,80) dopo 80 passi della regola di suddivisione*
 
-> Inizialmente, ci sono particelle $3^{80}$ all'origine $(0,0)$. A ogni passo le particelle vengono spostate nei punti al di sopra dell'asse $x$ come segue: se ci sono particelle $n$ in qualsiasi punto $(x,y)$, allora $\left\lfloor \frac{n}{3} \right\rfloor$ di esse vengono spostate a $(x+1,y+1)$, $\left\lfloor \frac{n}{3} \right\rfloor$ a $(x,y+1)$ e il resto a $(x-1,y+1)$. Per esempio, dopo il primo passo, ci sono $3^{79}$ particelle ciascuna a $(1,1)$, $(0,1)$ e $(-1,1)$. Dopo il secondo passo, ci sono particelle $3^{78}$ a $(-2,2)$ e $(2,2)$, $2 \times 3^{78}$ a $(-1,2)$ e $(1,2)$ e $3^{79}$ a $(0,2)$. Dopo i passi $80$, il numero di particelle a $(79,80)$ è:
+> Inizialmente, all'origine $(0,0)$ ci sono $3^{80}$ particelle. A ogni passo, le particelle vengono spostate in punti al di sopra dell'asse $x$ nel modo seguente: se in un qualsiasi punto $(x,y)$ ci sono $n$ particelle, allora $\left\lfloor \frac{n}{3} \right\rfloor$ di esse vengono spostate in $(x+1,y+1)$, $\left\lfloor \frac{n}{3} \right\rfloor$ vengono spostate in $(x,y+1)$ e le rimanenti in $(x-1,y+1)$. Ad esempio, dopo il primo passo, ci sono $3^{79}$ particelle ciascuna in $(1,1)$, $(0,1)$ e $(-1,1)$. Dopo il secondo passo, ci sono $3^{78}$ particelle ciascuna in $(-2,2)$ e $(2,2)$, $2 \times 3^{78}$ particelle ciascuna in $(-1,2)$ e $(1,2)$, e $3^{79}$ particelle in $(0,2)$. Dopo $80$ passi, il numero di particelle in $(79,80)$ è:
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2024#q14|src_ioqm_2024__Q14]]
 
 
 
@@ -388,9 +492,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Meno n in modo che 20 numeri interi consecutivi da n formino triangoli acuti*
+*Il più piccolo n tale che 20 interi consecutivi a partire da n formino triple di triangoli acuti*
 
-> $X$ sia l'insieme composto da venti integri positivi $n, n+2, \ldots, n+38$. Il valore più piccolo di $n$ per il quale tutti i tre numeri $a, b, c \in X$, non necessariamente distinti, formano i lati di un triangolo a angolo acuto è:
+> Sia $X$ l'insieme costituito da venti numeri interi positivi $n, n+2, \ldots, n+38$. Il valore minimo di $n$ per cui tre numeri qualsiasi $a, b, c \in X$, non necessariamente distinti, formano i lati di un triangolo acutangolo è:
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2024#q15|src_ioqm_2024__Q15]]
 
 
 
@@ -413,9 +524,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il numero intero più vicino a f(27)-f(25) per l'equazione funzionale*
+*Trovare l'intero più vicino a f(27)-f(25) per l'equazione funzionale*
 
-> $f : \mathbb{R} \to \mathbb{R}$ sia una funzione che soddisfi la relazione $4f(3-x) + 3f(x) = x^2$ per qualsiasi $x$ reale. Trova il valore di $f(27) - f(25)$ al numero intero più vicino. (Qui $\mathbb{R}$ indica l'insieme dei numeri reali.)
+> Sia $f : \mathbb{R} \to \mathbb{R}$ una funzione che soddisfa la relazione $4f(3-x) + 3f(x) = x^2$ per ogni $x$ reale. Determinare il valore di $f(27) - f(25)$ arrotondato all'intero più vicino. (Qui $\mathbb{R}$ denota l'insieme dei numeri reali.)
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2024#q16|src_ioqm_2024__Q16]]
 
 
 
@@ -438,9 +556,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza PQ dell'accordo parallela a BC attraverso il punto medio del piede d'altitudine*
+*Lunghezza della corda PQ parallela a BC passante per il punto medio del piede dell'altezza*
 
-> Considera un triangolo di parice $ABC$ con lati $BC = 30$, $CA = AB = 20$. Il $D$ deve essere il piede della perpendicolare da $A$ a $BC$ e $M$ deve essere il punto medio di $AD$. Che $PQ$ sia un'accordazione del circoncircolo del triangolo $ABC$, in modo tale che $M$ si trovi su $PQ$ e $PQ$ sia parallela a $BC$. La lunghezza di $PQ$ è:
+> Si consideri un triangolo isoscele $ABC$ con lati $BC = 30$, $CA = AB = 20$. Sia $D$ il piede della perpendicolare condotta da $A$ a $BC$, e sia $M$ il punto medio di $AD$. Sia $PQ$ una corda della circonferenza circoscritta al triangolo $ABC$, tale che $M$ giace su $PQ$ e $PQ$ è parallelo a $BC$. La lunghezza di $PQ$ è:
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2024#q17|src_ioqm_2024__Q17]]
 
 
 
@@ -463,9 +588,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le ultime due cifre di r più grande stampate in determinate condizioni su p,q*
+*Ultime due cifre del più grande r stampato in base alle condizioni date su p,q*
 
-> $p, q$ siano numeri a due cifre, nessuno dei quali dividibile da $10$. Il numero $r$ deve essere di quattro cifre inserendo le cifre di $p$ seguite dalle cifre di $q$ (in ordine). Poiché $p, q$ varia, un computer stampa $r$ sullo schermo se $\gcd(p,q) = 1$ e $p + q$ dividono $r$. Supponiamo che il numero più grande stampato dal computer sia $N$. Determinare il numero formato dalle ultime due cifre di $N$ (nel medesimo ordine).
+> Sia $p, q$ un insieme di numeri di due cifre, nessuno dei quali è divisibile per $10$. Sia $r$ il numero di quattro cifre ottenuto mettendo in successione, nell'ordine, le cifre di $p$ seguite dalle cifre di $q$. Man mano che $p, q$ varia, un computer stampa $r$ sullo schermo se $\gcd(p,q) = 1$ e $p + q$ dividono $r$. Si supponga che il numero più grande stampato dal computer sia $N$. Determinare il numero formato dalle ultime due cifre di $N$ (nello stesso ordine).
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2024#q18|src_ioqm_2024__Q18]]
 
 
 
@@ -489,11 +621,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colore 10 linee tra 5 punti in modo da non esistere un triangolo monocromatico*
+*Colora 10 spigoli tra 5 vertici in modo che non esista alcun triangolo monocolore*
 
-> Considerate cinque punti del piano, senza tre di essi collineari. Ogni coppia di punti tra loro è unita da una linea. In quanti modi possiamo colorare queste linee di rosso o blu, in modo che nessuno dei tre punti formino un triangolo con linee dello stesso colore.
+> Si considerino cinque punti nel piano, tale che nessun tre di essi siano allineati. Ogni coppia di tali punti è unita da una retta. In quanti modi si possono colorare queste rette di rosso o di blu, in modo che nessun tre dei punti formino un triangolo con rette dello stesso colore?
 
-**Risposta:** 12
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2024#q19|src_ioqm_2024__Q19]]
 
 
 
@@ -516,9 +653,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di passi per raggiungere 121 da 11 attraverso moltiplicazione per 2 o sottrazione di 3*
+*Numero minimo di passi per arrivare a 121 partendo da 11, utilizzando solo moltiplicazioni per 2 o sottrazioni di 3*
 
-> Per un numero naturale $n$ è consentito due operazioni: (1) moltiplicare $n$ per $2$ o (2) sottrarre $3$ da $n$. Per esempio, a partire da $8$ si può raggiungere $13$ come segue: $8 \to 16 \to 13$. Hai bisogno di due passi e non puoi farlo in meno di due passi. A partire da $11$, qual è il numero minimo di passi richiesti per raggiungere $121$?
+> Su un numero naturale $n$ sono consentite due operazioni: (1) moltiplicare $n$ per $2$ oppure (2) sottrarre $3$ da $n$. Ad esempio, partendo da $8$, si può raggiungere $13$ nel modo seguente: $8 \to 16 \to 13$. Occorrono due passi e non si può fare in meno di due passi. Partendo da $11$, qual è il numero minimo di passi necessari per raggiungere $121$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2024#q20|src_ioqm_2024__Q20]]
 
 
 
@@ -541,9 +685,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Restante quando n diviso per 100, date le condizioni del pavimento*
+*Resto della divisione di n per 100, data la condizione floor*
 
-> Un numero intero $n$ è tale che $\left\lfloor \frac{n}{9} \right\rfloor$ è un numero a tre cifre con cifre uguali, e $\left\lfloor \frac{n-172}{4} \right\rfloor$ è un numero a cifre $4$ con le cifre $2, 0, 2, 4$ in qualche ordine. Qual è il rimanente quando $n$ è diviso da $100$?
+> Un numero intero $n$ è tale che $\left\lfloor \frac{n}{9} \right\rfloor$ è un numero di tre cifre con cifre uguali, e $\left\lfloor \frac{n-172}{4} \right\rfloor$ è un numero di $4$ cifre le cui cifre sono $2, 0, 2, 4$ in qualche ordine. Qual è il resto della divisione di $n$ per $100$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2024#q21|src_ioqm_2024__Q21]]
 
 
 
@@ -566,9 +717,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova m+n+p per il rapporto AC/AB nel triangolo rettangolo con un dato rapporto BD*
+*Trovare m+n+p per il rapporto AC/AB in un triangolo rettangolo con il rapporto BD dato*
 
-> In un triangolo $ABC$, $\angle BAC = 90^\circ$. $D$ sia il punto di $BC$ in modo tale che $AB + BD = AC + CD$. Supponiamo $BD : DC = 2 : 1$. Se $\frac{AC}{AB} = \frac{m + \sqrt{p}}{n}$, dove $m, n$ sono numeri interi positivi relativamente primi e $p$ è un numero primo, determinare il valore di $m + n + p$.
+> In un triangolo $ABC$, $\angle BAC = 90^\circ$. Sia $D$ il punto su $BC$ tale che $AB + BD = AC + CD$. Si supponga $BD : DC = 2 : 1$. Se $\frac{AC}{AB} = \frac{m + \sqrt{p}}{n}$, dove $m, n$ sono interi positivi coprimi e $p$ è un numero primo, determina il valore di $m + n + p$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2024#q22|src_ioqm_2024__Q22]]
 
 
 
@@ -591,9 +749,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N più piccolo in modo tale che la quarta potenza 1^4,...,14^4 abbia residui distinti mod n*
+*Il più piccolo n tale che le quarte potenze 1^4,...,14^4 abbiano resti distinti modulo n*
 
-> Considerate i quattordici numeri, $1^4, 2^4, \ldots, 14^4$. Il numero naturale più piccolo $n$ tale da lasciare residui distinti quando diviso per $n$ è:
+> Si considerino i quattordici numeri, $1^4, 2^4, \ldots, 14^4$. Il più piccolo numero naturale $n$ tale che essi lascino resti distinti quando vengono divisi per $n$ è:
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2024#q23|src_ioqm_2024__Q23]]
 
 
 
@@ -616,9 +781,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i polinomi di grado 14 in F in modo tale che il prodotto con q(x) = x^3+x+1 rimanga in F*
+*Conta i polinomi di grado 14 in F tali che il loro prodotto con q(x)=x^3+x+1 rimanga in F*
 
-> Considera l'insieme $F$ di tutti i polinomi i cui coefficienti sono nell'insieme $\{0,1\}$. Let $q(x) = x^3 + x + 1$. Il numero di polinomi $p(x)$ in $F$ di grado $14$ tale che il prodotto $p(x)q(x)$ sia anche in $F$ è:
+> Si consideri l'insieme $F$ di tutti i polinomi i cui coefficienti appartengono all'insieme di $\{0,1\}$. Sia $q(x) = x^3 + x + 1$. Il numero di polinomi $p(x)$ in $F$ di grado $14$ tali che il prodotto $p(x)q(x)$ sia anch'esso in $F$ è:
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2024#q24|src_ioqm_2024__Q24]]
 
 
 
@@ -641,9 +813,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca N^2 (quadrato più grande) in un insieme finito di M di quadrati perfetti e 92*
+*Trovare N^2 (il quadrato più grande) nell'insieme finito M di quadrati perfetti e 92*
 
-> Un insieme finito $M$ di interi positivi è costituito da quadrati perfetti distinti e dal numero $92$. La media dei numeri di $M$ è $85$. Se rimuoviamo $92$ da $M$, la media scende a $84$. Se $N^2$ è il più grande quadrato possibile in $M$, qual è il valore di $N$?
+> Un insieme finito $M$ di numeri interi positivi è costituito da quadrati perfetti distinti e dal numero $92$. La media dei numeri in $M$ è $85$. Se rimuoviamo $92$ da $M$, la media scende a $84$. Se $N^2$ è il quadrato più grande possibile in $M$, qual è il valore di $N$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2024#q25|src_ioqm_2024__Q25]]
 
 
 
@@ -666,9 +845,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Suma del pavimento(x) per x reale soddisfacente 16+15x+15x^2=pavimento(x)^3*
+*La somma di ⌊x⌋ per i reali che soddisfano 16+15x+15x² = ⌊x⌋³*
 
 > La somma di $\lfloor x \rfloor$ per tutti i numeri reali $x$ che soddisfano l'equazione $16 + 15x + 15x^2 = \lfloor x \rfloor^3$ è:
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata per casi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_ioqm_2024#q26|src_ioqm_2024__Q26]]
 
 
 
@@ -693,9 +879,18 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Produzione mn in cui l'area del triangolo pedale DEF è m×sqrt(n) per il punto isogonale*
+*Prodotto mn, dove l'area del triangolo pedale DEF è m*sqrt(n) per il punto isogonale*
 
-> In un triangolo $ABC$, un punto $P$ all'interno di $ABC$ è tale che $$\angle BPC - \angle BAC = \angle CPA - \angle CBA = \angle APB - \angle ACB.$$ supponga $\angle BAC = 30^\circ$ e $AP = 12$. Il $D, E, F$ deve essere il piede delle perpendicolari da $P$ a $BC, CA, AB$ rispettivamente. Se $m\sqrt{n}$ è l'area del triangolo $DEF$ dove $m, n$ sono numeri interi con $n$ primo, qual è il valore del prodotto $mn$?
+> In un triangolo $ABC$, un punto $P$ interno a $ABC$ è tale che
+> $$\angle BPC - \angle BAC = \angle CPA - \angle CBA = \angle APB - \angle ACB.$$
+> Supponiamo $\angle BAC = 30^\circ$ e $AP = 12$. Sia $D, E, F$ il piede delle perpendicolari condotte da $P$ a $BC, CA, AB$, rispettivamente. Se $m\sqrt{n}$ è l'area del triangolo $DEF$, dove $m, n$ sono numeri interi con $n$ primo, qual è il valore del prodotto $mn$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2024#q27|src_ioqm_2024__Q27]]
 
 
 
@@ -718,9 +913,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N<30 più piccolo con (n^8+3n^4-4)/2 libero da quadrati*
+*Massimo n<30 con (n^8+3n^4-4)/2 privo di quadrati*
 
-> Trova il più grande intero positivo $n < 30$ in modo che $\frac{1}{2}(n^8 + 3n^4 - 4)$ non sia divisibile per il quadrato di qualsiasi numero primo.
+> Trovare il più grande intero positivo $n < 30$ tale che $\frac{1}{2}(n^8 + 3n^4 - 4)$ non sia divisibile per il quadrato di alcun numero primo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2024#q28|src_ioqm_2024__Q28]]
 
 
 
@@ -743,9 +945,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ultime due cifre del conteggio di divisori di n^2 inferiore a n che non dividono n*
+*Ultime due cifre del numero di divisori di n^2 minori di n che non dividono n*
 
-> Let $n = 2^{19} 3^{12}$. $M$ indica il numero di divisori positivi di $n^2$ che sono inferiori a $n$ ma non dividono $n$. Qual è il numero formato prendendo le ultime due cifre di $M$ (nel medesimo ordine)?
+> Sia $n = 2^{19} 3^{12}$. Sia $M$ il numero dei divisori positivi di $n^2$ che sono minori di $n$ ma non dividerebbero $n$. Qual è il numero ottenuto prendendo le ultime due cifre di $M$ (nello stesso ordine)?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2024#q29|src_ioqm_2024__Q29]]
 
 
 
@@ -768,6 +977,13 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di AC a numero intero nel triangolo rettangolo ABC con perimetro e altitudine BD=12*
+*Intero AC minimo nel triangolo rettangolo ABC con perimetro intero e altezza BD=12*
 
-> $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. La lunghezza dell'altitudine $BD$ è uguale a $12$. Qual è la lunghezza minima possibile di $AC$, dato che $AC$ e il perimetro del triangolo $ABC$ sono numeri interi?
+> Sia $ABC$ un triangolo rettangolo con $\angle B = 90^\circ$. Sia la lunghezza dell'altezza $BD$ uguale a $12$. Qual è la lunghezza minima possibile di $AC$, sapendo che $AC$ e il perimetro del triangolo $ABC$ sono numeri interi?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2024#q30|src_ioqm_2024__Q30]]

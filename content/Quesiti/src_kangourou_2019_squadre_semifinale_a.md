@@ -32,14 +32,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between the 2019th and 2018th terms of N^2-2019N+2019*
+*Difference between the 2019 and 2018 terms of N^2-2019N+2019*
 
-> The substitution
-> If you substitute the numbers N = 1, 2, 3, … into the expression N 2  2019N + 2019 you obtain a sequence
-> of integers. What is the value of the difference between the number in the 2019th position and the one in the 2018-
-> th?
+> Substitution: If you substitute the numbers N = 1, 2, 3, … into the expression N² − 2019N + 2019, you obtain a sequence of integers. What is the difference between the number in the 2019th position and the number in the 2018th position?
 
-**Answer:** 2018
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q01|src_kangourou_2019_squadre_semifinale_a__Q01]]
 
 
 
@@ -67,11 +68,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum litres per minute to prevent the boat from sinking*
+*Minimum litres per minute to keep the boat from sinking*
 
-> The boat A boat travels at a constant speed of 4 kilometers per hour. When it is two kilometers from the coast, it begins to take on water: 32 liters per minute. It can carry up to 150 litres of water without sinking. A pump shall be put into operation immediately to empty at least part of the water taken on board. If the pump is running constantly, how many litres of water at least must it be able to discharge every minute if the boat is to reach shore before sinking?
+> The Boat A boat travels at a constant speed of 4 kilometers per hour. When it is 2 kilometers from the shore, it starts taking on water at a rate of 32 liters per minute. It can take on at most 150 liters of water without sinking. A pump is immediately started to remove at least some of the water that has come aboard. If the pump operates at a constant rate, how many liters of water per minute must it be able to expel at a minimum if the boat is to reach the shore before sinking?
 
-**Answer:** 0027
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q02|src_kangourou_2019_squadre_semifinale_a__Q02]]
 
 
 
@@ -96,11 +101,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum n with n^2+100 divisible by n-5*
+*The maximum n such that n^2+100 is divisible by n-5*
 
-> Plus 100 What is the largest positive integer n such that n2 + 100 is divisible by n - 5?
+> More than one. What is the largest positive integer n such that n² + 100 is divisible by n – 5?
 
-**Answer:** 0130
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q03|src_kangourou_2019_squadre_semifinale_a__Q03]]
 
 
 
@@ -133,13 +143,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Room side given the number of tile sides*
+*Side, given the tile side count*
 
 ![[src_kangourou_2019_squadre_semifinale_a__prob4.png]]
 
-> The room The figure shows you any one of the four corners of the floor of a square room all floored the same way. The tiles are right isosceles triangles or squares, all of the same size. The legs of the corner tiles measure 25 cm. Counting the sides of all tiles, including those at the floor edge, but counting the common sides of two tiles only once, you get 3028. How many centimeters does the side of the room measure?
+> The figure shows you any one of the four corners of the floor of a square room whose entire floor is tiled in the same way. The tiles are either isosceles right triangles or squares, all of which are the same size. The legs of the corner tiles measure 25 cm. If you count the sides of all the tiles, including those along the edge of the floor, but count each side shared by two tiles only once, the result is 3028. How many centimeters long is a side of the room?
 
-**Answer:** 1350
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q04|src_kangourou_2019_squadre_semifinale_a__Q04]]
 
 
 
@@ -165,13 +180,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sides of cells with at least one interior point 25x30*
+*To divide cells with at least one interior point, 25x30*
 
-> At least one interior point 
-> In a 25×30 grid of square cells, how many sides of the cells have at least one point 
-> interior to the grid?
+> At least one interior point: In a 25×30 grid of square cells, how many of the cell edges have at least one point that lies inside the grid?
 
-**Answer:** 1445
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q05|src_kangourou_2019_squadre_semifinale_a__Q05]]
 
 
 
@@ -200,13 +218,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region between two similar octagons*
+*Area of the region between two similar octagons*
 
 ![[src_kangourou_2019_squadre_semifinale_a__prob6.png]]
 
-> The tiled wall A wall is tiled with square tiles of side 30 cm, which have such a decoration that, when 9 of them are approached, two similar (non-regular) octagons are seen. How many square centimeters does the region between the two octagons measure?
+> The Tiled Wall A wall is tiled with square tiles measuring 30 cm on each side; the tiles have a pattern such that, when 9 of them are placed side by side, two similar (non-regular) octagons are visible. How many square centimeters is the region enclosed between the two octagons?
 
-**Answer:** 5600
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q06|src_kangourou_2019_squadre_semifinale_a__Q06]]
 
 
 
@@ -234,12 +256,13 @@ level: squadre
 
 *Original length of the rope (tightrope walker)*
 
-> The tightrope walker  
-> An elastic rope was stretched horizontally between two poles. A tightrope walker began walking 
-> on it and is now at the central point of the rope: the rope has stretched uniformly by 20 cm and its 
-> midpoint has lowered by 90 cm. How many centimetres did the rope originally measure?
+> The Tightrope Walker An elastic rope was stretched horizontally between two poles. A tightrope walker began walking on it and is now at the midpoint of the rope: the rope has stretched uniformly by 20 cm, and its midpoint has dropped by 90 cm. How many centimeters was the rope originally?
 
-**Answer:** 0800
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q07|src_kangourou_2019_squadre_semifinale_a__Q07]]
 
 
 
@@ -272,21 +295,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the sheet with four right triangles*
+*Area of the sheet containing four right-angled triangles*
 
 ![[src_kangourou_2019_squadre_semifinale_a__prob8.png]]
 
-> Four triangles 
-> The figure shows a sheet on which a 
-> region made by placing together 4 isosceles 
-> right triangles is highlighted. The hypotenuse of the smallest is a leg 
-> of the second, the hypotenuse of the second is a leg of the third and 
-> the hypotenuse of the third is a leg of the fourth. Some measurements 
-> are indicated in decimetres, including also the distances of the 
-> region from the edges of the sheet. How many square decimetres is 
-> the area of the sheet?
+> Four Triangles The figure shows a sheet of paper on which a region is highlighted; this region is formed by joining four isosceles right-angled triangles together. The hypotenuse of the smallest triangle is a leg of the second triangle; the hypotenuse of the second triangle is a leg of the third triangle; and the hypotenuse of the third triangle is a leg of the fourth triangle. Some measurements in decimetres are indicated, including the distances from the region to the edges of the sheet. What is the area of the sheet in square decimetres?
 
-**Answer:** 0028
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q08|src_kangourou_2019_squadre_semifinale_a__Q08]]
 
 
 
@@ -312,11 +331,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sides of the polygon with diagonal probability of 0.8*
+*To take part of the polygon with diagonal probability 0.8*
 
-> Convex polygon Choosing at random two vertices of a convex polygon, the probability that they are vertices of a diagonal is 0.8. How many sides does the polygon have?
+> Convex polygon: If two vertices of a convex polygon are chosen at random, the probability that they are the endpoints of a diagonal is 0.8. How many sides does the polygon have?
 
-**Answer:** 0011
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q09|src_kangourou_2019_squadre_semifinale_a__Q09]]
 
 
 
@@ -342,11 +366,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perfect squares < 9200 with units digit 6*
+*Perfect squares <9200 with units digit 6*
 
-> Perfect squares What are the natural numbers less than 9200 that are perfect squares and have 6 as their units digit?
+> Perfect squares: How many natural numbers less than 9200 are perfect squares and have 6 as their units digit?
 
-**Answer:** 0019
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q10|src_kangourou_2019_squadre_semifinale_a__Q10]]
 
 
 
@@ -407,7 +436,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total lengths of 4 segments parallel to AC*
+*Sum of the lengths of 4 segments parallel to AC*
 
 ![[src_kangourou_2019_squadre_semifinale_a__prob11.png]]
 
@@ -441,9 +470,14 @@ level: squadre
 \end{document}
 ```
 
-> The four points K, L, M, N that you see in the drawing marked on the AB side of the ABC triangle are such that the AK segment is congruent to NB and the KL segment is congruent to MN. From each of the four points a parallel segment to AC with the second extreme on the BC side was drawn. What is the sum of the lengths of these four segments, if AC is 8?
+> The Sliced Triangle The four points K, L, M, and N that you see marked on side AB of triangle ABC in the diagram are such that segment AK is congruent to NB and segment KL is congruent to MN. From each of the four points, a segment parallel to AC has been drawn, with its other endpoint on side BC. What is the sum of the lengths of these four segments if AC is 8 units long?
 
-**Answer:** 0016
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q11|src_kangourou_2019_squadre_semifinale_a__Q11]]
 
 
 
@@ -471,11 +505,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Points reached by the flea after 30 jumps*
+*Points reachable by the flea after 30 jumps*
 
-> Flea A square grid is obtained by placing 100×100 identical square cells side by side. A flea is located at the point in the center of the grid (vertex of four cells); it can move by jumping only along the sides of the cells, with jumps as long as one side and with each jump moving away from the starting vertex. After 30 jumps, how many different points could it be at?
+> The Flea A square grid is formed by placing 100×100 identical square cells side by side. A flea is located at the center point of the grid (the vertex common to four cells); it can move by jumping only along the sides of the cells, with jumps equal in length to one side, and with each jump moving away from the starting vertex. After 30 jumps, how many different points could it end up at?
 
-**Answer:** 0120
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q12|src_kangourou_2019_squadre_semifinale_a__Q12]]
 
 
 
@@ -501,11 +540,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume octahedron from the centers of the parallelepiped faces*
+*Volume of the octahedron formed by the centers of the faces of a parallelepiped*
 
-> In a right-angled parallelepiped the centers of the six faces are the vertices of an octahedron. If the dimensions of the parallelepiped are 15 × 10 × 18, what is the volume of the octahedron?
+> The parallelepiped: In a rectangular parallelepiped, the centers of the six faces are the vertices of an octahedron. If the dimensions of the parallelepiped are 15 × 10 × 18, what is the volume of the octahedron?
 
-**Answer:** 0450
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q13|src_kangourou_2019_squadre_semifinale_a__Q13]]
 
 
 
@@ -533,10 +577,14 @@ level: squadre
 
 *Integer points on the segment from (0,0) to (4200,3000)*
 
-> Integer coordinates
-> In the Cartesian plane, consider the segment with endpoints (0, 0) and (4200, 3000). How many of its points, excluding the endpoints, have both coordinates integers?
+> Integer coordinates. In the Cartesian plane, consider the line segment with endpoints (0, 0) and (4200, 3000). Excluding the endpoints, how many points on this segment have both coordinates as integers?
 
-**Answer:** 0599
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q14|src_kangourou_2019_squadre_semifinale_a__Q14]]
 
 
 
@@ -580,15 +628,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Agro number in KANGAROO divisible by 15*
+*The AGRO figure in KANGAROO is divisible by 15*
 
-> AGRO I replaced each letter of the word KANGAROO with a digit from 1 to 9 (equal letters with equal numbers, different letters with different numbers) so that the result is the largest number of 8 digits (of this form) divisible by 15. With the same replacements, what number corresponds to AGRO? A K L M N B C
-> 
+> AGRO I have replaced each letter of the word KANGAROO with a digit from 1 to 9 (identical letters with identical digits, different letters with different digits) so that the resulting number is the largest 8-digit number (of this form) divisible by 15. With the same substitutions, which number corresponds to AGRO? A K L M N B C
+>
 > 1
->  
->  
-> Kangourou of Mathematics 2019 Kangourou Cup for teams Semifinal round A Cervia, 3 May 2019
->  
-> Questions and developments
+>
+>
+> Kangaroo Mathematics Competition 2019 Kangaroo Team Cup Semi-final, Round A, Cervia, 3 May 2019
+>
+> Questions and Solutions
 
-**Answer:** 8635
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_squadre_semifinale_a#q15|src_kangourou_2019_squadre_semifinale_a__Q15]]

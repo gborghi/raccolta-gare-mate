@@ -30,7 +30,13 @@ level: IMO
 
 *Triangolo unico con lati interi consecutivi e angolo doppio*
 
-> Si dimostri che esiste uno e un solo triangolo i cui lati sono numeri interi consecutivi, e tale che uno dei suoi angoli sia il doppio di un altro.
+> Dimostrare che esiste un unico triangolo le cui lunghezze dei lati siano numeri interi consecutivi e in cui uno degli angoli sia il doppio di un altro.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_trigonometria|Tecniche trigonometriche]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1968_all#q01|src_imo_1968_all__Q01]]
 
 
 
@@ -53,9 +59,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare i numeri naturali per cui il prodotto delle cifre è uguale a x² - 10x - 22*
+*Naturali il cui prodotto delle cifre vale x² − 10x − 22*
 
-> Determinare tutti i numeri naturali $x$ tali che il prodotto delle loro cifre (nella notazione decimale) è uguale a $x^2 - 10x - 22$.
+> Trovare tutti i numeri naturali $x$ tali che il prodotto delle loro cifre (in notazione decimale) sia uguale a $x^2 - 10x - 22$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_casework_accurato|Analisi accurata per casi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_imo_1968_all#q02|src_imo_1968_all__Q02]]
 
 
 
@@ -90,7 +103,7 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di soluzioni di un sistema quadrático ciclico tramite discriminante*
+*Numero di soluzioni di un sistema quadratico ciclico tramite il discriminante*
 
 > Si consideri il sistema di equazioni
 > $$ax_1^2 + bx_1 + c = x_2$$
@@ -98,13 +111,20 @@ level: IMO
 > $$\cdots$$
 > $$ax_{n-1}^2 + bx_{n-1} + c = x_n$$
 > $$ax_n^2 + bx_n + c = x_1,$$
-> con incognite $x_1, x_2, \ldots, x_n$, dove $a, b, c$ sono numeri reali e $a \neq 0$. Sia $\Delta = (b-1)^2 - 4ac$. Si dimostri che per questo sistema
-> 
+> con incognite $x_1, x_2, \ldots, x_n$, dove $a, b, c$ sono numeri reali e $a \neq 0$. Si ponga $\Delta = (b-1)^2 - 4ac$. Dimostrare che per questo sistema
+>
 > (a) se $\Delta < 0$, non esiste alcuna soluzione,
-> 
+>
 > (b) se $\Delta = 0$, esiste esattamente una soluzione,
-> 
+>
 > (c) se $\Delta > 0$, esistono più di una soluzione.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1968_all#q03|src_imo_1968_all__Q03]]
 
 
 
@@ -126,9 +146,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ogni tetraedro ha un vertice i cui spigoli formano un triangolo*
+*Ogni tetraedro ha un vertice le cui spigoli formano un triangolo*
 
-> Si dimostri che in ogni tetraedro esiste un vertice tale che i tre spigoli che vi si incontrano hanno lunghezze che possono essere i lati di un triangolo.
+> Dimostrare che in ogni tetraedro esiste un vertice tale che le tre spigoli che vi concorrono hanno lunghezze che sono i lati di un triangolo.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1968_all#q04|src_imo_1968_all__Q04]]
 
 
 
@@ -156,15 +182,21 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Si dimostri che l'equazione funzionale implica f periodica; si dia un esempio*
+*La dimostrazione che l'equazione funzionale implica che f sia periodica; fornire un esempio*
 
 > Sia $f$ una funzione a valori reali definita per tutti i numeri reali $x$ tale che, per qualche costante positiva $a$, l'equazione
 > $$f(x + a) = \frac{1}{2} + \sqrt{f(x) - [f(x)]^2}$$
-> sia verificata per ogni $x$.
-> 
-> (a) Si dimostri che la funzione $f$ è periodica (cioè esiste un numero positivo $b$ tale che $f(x + b) = f(x)$ per ogni $x$).
-> 
-> (b) Per $a = 1$, fornire un esempio di una funzione non costante con le proprietà richieste.
+> vale per tutti gli $x$.
+>
+> (a) Dimostrare che la funzione $f$ è periodica (cioè esiste un numero positivo $b$ tale che $f(x + b) = f(x)$ per tutti gli $x$).
+>
+> (b) Per $a = 1$, fornisci un esempio di funzione non costante con le proprietà richieste.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1968_all#q05|src_imo_1968_all__Q05]]
 
 
 
@@ -188,8 +220,14 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valutare la somma infinita di floor((n + 2^k)/2^(k+1))*
+*Valuta la somma infinita di floor((n+2^k)/2^(k+1))*
 
 > Per ogni numero naturale $n$, si valuti la somma
 > $$\sum_{k=0}^{\infty} \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor = \left\lfloor \frac{n+1}{2} \right\rfloor + \left\lfloor \frac{n+2}{4} \right\rfloor + \cdots + \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor + \cdots$$
-> (Il simbolo $\lfloor x \rfloor$ indica il massimo intero non superiore a $x$.)
+> (Il simbolo $\lfloor x \rfloor$ denota il più grande intero non superiore a $x$.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Somme telescopiche]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_1968_all#q06|src_imo_1968_all__Q06]]

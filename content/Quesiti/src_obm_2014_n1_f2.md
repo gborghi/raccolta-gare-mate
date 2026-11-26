@@ -29,9 +29,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di numeri interi positivi con regola pari/piace; troverete il termine 2014*
+*Successione di numeri interi positivi con regola pari/dispari; trovare il 2014º termine*
 
-> Carolina scrive una sequenza di numeri interi positivi in cui: se un numero è pari, il numero successivo è la metà di esso; se è strano, il numero successivo è sette unità più grande. Il primo numero della sequenza è 10, quindi i primi tre numeri di questa sequenza sono 10, 5, 12, $\ldots$
+> Carolina scrive una successione di numeri interi positivi in cui: se un numero è pari, il numero successivo è la sua metà; se è dispari, il numero successivo è maggiore di sette unità. Il primo numero della successione è 10, quindi i primi tre numeri di questa successione sono 10, 5, 12, $\ldots$ Qual è il 2014º numero di questa successione?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n1_f2#q01|src_obm_2014_n1_f2__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dieci bambini in fila; scambi minimi di vicini per spostare la posizione più alta alla posizione più corta*
+*Dieci bambini in fila; minimo di scambi tra vicini per portare il più alto nella posizione del più basso*
 
-> Dieci bambini formano una linea dalla più corta alla più alta. È noto che in questa linea non ci sono due bambini della stessa altezza. Con qualche movimento, il bambino più alto si muove nella posizione del più corto, usando solo scambi tra bambini vicini. Qual è il numero minimo di scambi di posizioni da effettuare?
+> Dieci bambini si dispongono in fila, dal più basso al più alto. Si sa che in questa fila nessun bambino ha la stessa altezza di un altro. Mediante una certa sequenza di mosse, il bambino più alto si sposta nella posizione del bambino più basso, utilizzando solo scambi tra bambini vicini. Qual è il numero minimo di scambi di posizione che devono essere effettuati?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n1_f2#q02|src_obm_2014_n1_f2__Q02]]
 
 
 
@@ -81,11 +95,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riempire la griglia 5x5 con numeri interi positivi distinti; ridurre al minimo la somma delle celle segnate*
+*Riempi una griglia 5x5 con interi positivi distinti; minimizza la somma delle celle contrassegnate*
 
-> Riempire la tabella con diversi numeri interi positivi, tutti più grandi di zero, in modo che per ciascuno dei cinque quadrati grigi, la somma dei due numeri nella sua riga è uguale alla somma dei due numeri nella sua colonna. Si noti che la somma di una riga non deve essere uguale alla somma di un'altra riga. Trova la somma più piccola possibile dei numeri che possono essere scritti nei tre piccoli quadrati grigi.
+> Compila la tabella con diversi numeri interi positivi, tutti maggiori di zero, in modo che, per ciascuno dei cinque riquadri grigi, la somma dei due numeri presenti nella sua riga sia uguale alla somma dei due numeri presenti nella sua colonna. Si noti che la somma di una riga non deve necessariamente essere uguale alla somma di un'altra riga. Trovare la somma minima possibile dei numeri che si possono scrivere nei tre piccoli riquadri grigi.
 
 ![[src_obm_2014_n1_f2__q03.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n1_f2#q03|src_obm_2014_n1_f2__Q03]]
 
 
 
@@ -110,11 +131,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo ABCD tagliato parallelo ad AD; piezza rotata si adatta; trova area*
+*Rettangolo ABCD tagliato parallelamente ad AD; il pezzo ruotato si adatta; trovare l'area*
 
-> Carla fa un taglio $MN$ parallelo al lato $AD$ nel rettangolo $ABCD$. Poi ruota il rettangolo $AMND$ per ottenere il rettangolo $MBCN$, poiché è possibile far coincidere i lati $CN$ e $AD$, come mostrato nella figura. Se il rettangolo $AMND$ ha $AD = 8$ cm e $AM = 4$ cm, qual è la superficie del rettangolo $ABCD$, in $\mathrm{cm}^2$?
+> Carla pratica un taglio $MN$ parallelo al lato $AD$ nel rettangolo $ABCD$. Successivamente ruota il rettangolo $AMND$ per ottenere il rettangolo $MBCN$, poiché è possibile far coincidere i lati $CN$ e $AD$, come mostrato nella figura. Se il rettangolo $AMND$ ha $AD = 8$ cm e $AM = 4$ cm, qual è l'area del rettangolo $ABCD$, in $\mathrm{cm}^2$?
 
 ![[src_obm_2014_n1_f2__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n1_f2#q04|src_obm_2014_n1_f2__Q04]]
 
 
 
@@ -139,11 +167,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare coppie di integri positivi inferiori a 100 in cui la somma è pari al doppio della differenza*
+*Conta le coppie di numeri interi positivi inferiori a 100 per cui la somma è uguale al doppio della differenza*
 
-> L'insieme $\{18, 54\}$ ha la proprietà che la somma dei suoi elementi, 72, equivale al doppio della loro differenza, 36. Quante serie di due interi positivi, entrambi inferiori a 100, hanno questa proprietà?
-> 
-> *Nota: le serie $\{18, 54\}$ e $\{54, 18\}$ sono uguali.*
+> L'insieme $\{18, 54\}$ ha la proprietà che la somma dei suoi elementi, 72, è uguale al doppio della loro differenza, 36. Quanti insiemi formati da due interi positivi, entrambi minori di 100, hanno questa proprietà?
+>
+> *Nota: gli insiemi $\{18, 54\}$ e $\{54, 18\}$ sono uguali.*
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n1_f2#q05|src_obm_2014_n1_f2__Q05]]
 
 
 
@@ -170,13 +205,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*tabella 3x3 riempita di numeri integri 1-9; quattro sottoprodotti 2x2 meno 100 dati; trovare somma di confine*
+*Tabellone 3x3 riempito con interi da 1 a 9; sono dati quattro prodotti di sottotabelloni 2x2 meno 100; trovare la somma del bordo*
 
-> Juliana scrive nelle cellule di una tavola $3 \times 3$ nove numeri interi da 1 a 9, uno in ogni cellula. Successivamente copia i quattro numeri scritti in ciascuno dei quattro $2 \times 2$ sottotabelloni contenuti nella tabella $3 \times 3$, e annuncia il risultato del prodotto di questi quattro numeri meno 100, come indicato nella figura. I quattro risultati mostrati sono 30, 19, 12 e 21.
-> 
-> Qual è la somma dei numeri scritti nelle celle di confine della lavagna, rappresentate dalle celle grigie della figura?
+> Juliana scrive nelle caselle di una tavola $3 \times 3$ nove interi da 1 a 9, uno per casella. Successivamente copia i quattro numeri scritti in ciascuna delle quattro sottotavole $2 \times 2$ contenute nella tavola $3 \times 3$, e annota il risultato del prodotto di quei quattro numeri meno 100, come indicato nella figura. I quattro risultati mostrati sono 30, 19, 12 e 21.
+>
+> Qual è la somma dei numeri scritti nelle celle di bordo della scacchiera, rappresentate dalle celle grigie nella figura?
 
 ![[src_obm_2014_n1_f2__q06.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n1_f2#q06|src_obm_2014_n1_f2__Q06]]
 
 
 
@@ -201,9 +243,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero 2014: pari, senza cifre ripetute, cifra somma prima; trovare più piccolo e più grande con le stesse proprietà*
+*Numero 2014: pari, nessuna cifra ripetuta, somma delle cifre prima; trova il più piccolo e il più grande con le stesse proprietà*
 
-> Il numero 2014 è pari, non ha cifre ripetute nella sua rappresentazione, e la somma delle sue cifre è un numero primo. a) Qual è il numero intero positivo più piccolo con queste tre proprietà? b) Qual è il numero intero positivo più grande con queste tre proprietà?
+> Il numero 2014 è pari, nella sua rappresentazione non presenta cifre ripetute e la somma delle sue cifre è un numero primo.
+> a) Qual è il più piccolo numero intero positivo che possiede queste tre proprietà?
+> b) Qual è il più grande numero intero positivo che possiede queste tre proprietà?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n1_f2#q07|src_obm_2014_n1_f2__Q07]]
 
 
 
@@ -232,13 +283,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Figura EFGH quadrata scritta in quadrato ABCD con punti di mezzo I, J, K, L; trovare tre aree*
+*Quadrato EFGH inscritto nel quadrato ABCD, con i punti medi I, J, K, L; trovare tre aree*
 
-> Nella figura, abbiamo $AF = 12$ cm e $AE = 16$ cm. I vertici del quadrato $EFGH$ si trovano sui lati del quadrato $ABCD$, e i punti $I$, $J$, $K$, $L$ sono i punti medi dei lati di $EFGH$.
-> 
-> a) Qual è la superficie del quadrato $ABCD$? b) Qual è la superficie del quadrato $EFGH$? c) Qual è la superficie del quadrato grigio all'interno del quadrato $EFGH$?
+> Nella figura, abbiamo $AF = 12$ cm e $AE = 16$ cm. I vertici del quadrato $EFGH$ giacciono sui lati del quadrato $ABCD$, e i punti $I$, $J$, $K$, $L$ sono i punti medi dei lati di $EFGH$.
+>
+> a) Qual è l'area del quadrato $ABCD$?
+> b) Qual è l'area del quadrato $EFGH$?
+> c) Qual è l'area del quadrato grigio all'interno del quadrato $EFGH$?
 
 ![[src_obm_2014_n1_f2__q08.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n1_f2#q08|src_obm_2014_n1_f2__Q08]]
 
 
 
@@ -267,10 +327,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Place +, -, x segni tra i numeri del 2014; contare numeri interi e risultati distinti*
+*Colloca i segni +, -, x tra le cifre di 2014; conta i risultati interi e distinti*
 
-> Mettendo segni $+$, $-$ o $\times$ tra i numeri del 2014 e calcolando il valore dell'espressione, possiamo ottenere risultati diversi. Per esempio, $2 + 0 - 1 \times 4 = -2$, $2 - 0 + 1 \times 4 = 6$.
-> 
-> *Nota: Ricorda che la divisione per zero non è consentita, quindi le espressioni che richiedono questa operazione non sono consentite.*
-> 
-> a) Quale di questi risultati non è un numero intero? b) In quanti modi possiamo mettere i segni tra i numeri? c) Quanti risultati diversi sono possibili?
+> Inserendo i segni $+$, $-$ o $\times$ tra le cifre di 2014 e calcolando il valore dell'espressione, possiamo ottenere risultati diversi. Ad esempio, $2 + 0 - 1 \times 4 = -2$, $2 - 0 + 1 \times 4 = 6$.
+>
+> *Nota: Ricorda che la divisione per zero non è consentita, quindi non sono ammesse le espressioni che richiedono questa operazione.*
+>
+> a) Quali di questi risultati non sono numeri interi?
+> b) In quanti modi possiamo collocare i segni tra le cifre?
+> c) Quanti risultati diversi sono possibili?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n1_f2#q09|src_obm_2014_n1_f2__Q09]]

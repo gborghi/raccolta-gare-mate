@@ -32,11 +32,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colorations of pentagon sides with 3 colours, different consecutive sides*
+*Coloring the sides of a pentagon with 3 colors, such that consecutive sides have different colors*
 
-> The coat of arms of the Arcsenio Lupin family/3 is the cradle of an illustrious family of mathematical thieves. As a child, Archenius enjoyed drawing and coloring the family coat of arms, which is in the shape of a pentagon. In how many ways can the sides of the coat of arms be colored using the colors yellow, blue, and red, so that successive sides have different colors?
+> The family crest of Arcsenio Lupin/3 is the scion of a distinguished family of mathematical thieves. As a child, Arcsenio loved drawing and coloring the family crest, which is pentagonal. In how many ways can the sides of the crest be colored using the colors yellow, blue, and red so that consecutive sides have different colors?
 
-**Answer:** 0030
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_semifinale1#q01|src_squadre_2023_semifinale1__Q01]]
 
 
 
@@ -62,11 +66,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum area of triangle side less than 40 and greater than 101*
+*Maximum area of a triangle with the shorter side 40 and the longer side 101*
 
-> The first to join Lupin's adventures was Jig, a skilled gunfighter and problem solver. For example, while recharging, he determined the maximum area that a triangle can have with the shortest side measuring 40 and the longest side measuring 101. What is it?
+> Maximum area The first to join Lupin/3's adventures was Jig∈N, a skilled gunslinger and puzzle-solver. For example, while reloading, he determined what the maximum area a triangle can have is, given that its shortest side measures 40 and its longest side measures 101. What is it?
 
-**Answer:** 1980
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_semifinale1#q02|src_squadre_2023_semifinale1__Q02]]
 
 
 
@@ -94,11 +102,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square side inscribed in a circle with a large square*
+*A square inscribed in a circle, with a large square*
 
-> To escape from Zenonigata Inspector Zenonigata voted his career to capture Lupin/3. Perhaps this time it did: the Lupin/3 raft (a square on side l) has one side glued to one side of the Zenonigata raft (a larger square, on side 1100). The only possibility for Lupin/3 to escape would be to calculate the length of l, knowing that the circumference circumscribed to the raft of Zenonigata also passes through the two vertices of the raft of Lupin/3 that do not lie on the other raft. Unfortunately for the inspector, Lupin/3 is escaping. How much is it worth?
+> To Escape from Zenonigata Inspector Zenonigata has dedicated his career to capturing Lupin/3. Perhaps this time he has succeeded: Lupin/3's raft (a square with side length ℓ) has one side glued to one side of Zenonigata's raft (a larger square with side length 1100). The only way Lupin/3 could get away with it would be to calculate the length of ℓ, knowing that the circumcircle of Zenonigata's raft also passes through the two vertices of Lupin/3's raft that do not lie on the other raft. Unfortunately for the inspector, Lupin/3 is escaping. What is the value of ℓ?
 
-**Answer:** 0220
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_semifinale1#q03|src_squadre_2023_semifinale1__Q03]]
 
 
 
@@ -128,11 +140,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dispositions numbered 1-9 on a triangular chessboard with constraints*
+*Placements numbered 1–9 on a triangular chessboard with constraints*
 
-> The bank security boxes that Lupin/3 is robbing are arranged like a chessboard 9 (×9) from which all the boxes have been removed tightly above the diagonal that goes from top left to bottom right. Lupin knows that each box contains an integer number of millions of dollars between 1 and 9, extremes included; furthermore, each number appears a different number of times and so that each box contains a number strictly greater than the box underneath (if there is a box) and greater or equal to the box to its left (if there is). How many ways can money be disposed of?
+> Safety deposit boxes The bank's safety deposit boxes that Lupin/3 is robbing are arranged in a 9×9 chessboard pattern (oriented vertically), from which all squares strictly above the diagonal running from the top left to the bottom right have been removed. Lupin knows that each box contains an integer number of millions of dollars ranging from 1 to 9 inclusive; moreover, each number appears a different number of times, and the arrangement is such that each box contains a number strictly greater than that in the box below it (if there is a box below) and greater than or equal to that in the box to its left (if there is one). In how many ways can the money be arranged?
 
-**Answer:** 2880
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_semifinale1#q04|src_squadre_2023_semifinale1__Q04]]
 
 
 
@@ -159,11 +176,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum ab with 2069 number of Frobenius*
+*Minimo ab with Frobenius number 2069*
 
-> Goemetrikon is a skilled samaterai who alternates the reliable katana to solving mathematical questions. The last thing he solved was this: whether a and b are positive integers such that 2069 is the largest number that cannot be written as the sum of a (non-negative) multiple of a and a (non-negative) multiple of b. How much is ab worth, at least? After seeing him at the opera, Lupin/3 wants him in his band.
+> Non-writability: Goemetrikon is a skilled samurai who alternates between his trusted katana and solving math problems. The latest one he solved is as follows: let a and b be positive integers such that 2069 is the largest number that cannot be written as the sum of a (non-negative) multiple of a and a (non-negative) multiple of b. What is the minimum possible value of ab? After seeing him in action, Lupin/3 wants him in his gang.
 
-**Answer:** 2162
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2023_semifinale1#q05|src_squadre_2023_semifinale1__Q05]]
 
 
 
@@ -189,11 +210,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total value of the securities held by the issuer of the securities.
+*Value of 2023^3 - 3*2022^3 + 3*2021^3 - 2020^3*
 
-> Goemetrikon: I will join you if you show that you are not afraid to get your hands dirty. . . I'm not in the business of counting. Could you tell me how much is 20233 −3·20223 +3·20213 −20203?. Lupin/3: Give me a second. . . ». What is the answer to Goemetrikon's question?
+> Goemetrikon getting his hands dirty: "I'll join you if you prove that you're not afraid to get your hands dirty... when doing the calculations. Could you tell me what 20233 −3·20223 +3·20213 −20203 equals?" Lupin/3: "Give me a moment..." What is the answer to Goemetrikon's question?
 
-**Answer:** 0006
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2023_semifinale1#q06|src_squadre_2023_semifinale1__Q06]]
 
 
 
@@ -218,11 +243,15 @@ This is the total value of the securities held by the issuer of the securities.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of mcm(k,8) per k from 1 to 136*
+*Sum of cm(k,8) for k from 1 to 136*
 
-> Lupin/3 falls in love Lupin/3 is in love with the beautiful Fujit ̄o, a thief who has taken him by answering almost instantly to the following question: how much is the sum mcm(1,8)+mcm(2,8)+...+mcm(136,8)?
+> Lupin/3 falls in love. Lupin/3 is in love with the beautiful FujIt¯o, a thief who has enchanted him by answering almost instantly the following question: what is the value of mcm(1,8)+mcm(2,8)+...+mcm(136,8)?
 
-**Answer:** 9776
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2023_semifinale1#q07|src_squadre_2023_semifinale1__Q07]]
 
 
 
@@ -252,13 +281,17 @@ This is the total value of the securities held by the issuer of the securities.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability MCD=1 of three extractions with reintroduction from 1-9*
+*Probability that MCD=1 in three draws with replacement from 1–9*
 
-> If you're looking for a match, Lupin/3 prefers to play this game: extract three balls from a bag containing 9 balls numbered from 1 to 9. Every time he extracts a ball, he marks the number and then puts it back in the bag. If the maximum common divisor (MCD) of these 3 numbers is 1 then the beautiful Fujit ̄o counterexchanges her love, otherwise it is not reciprocated. What's the probability that Lupin/3 will compete in Team 2023  Semifinal 1  Problem Tests  1/2
-> 
-> Is it correlated? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+> Love or No Love? Some people pluck daisy petals to find out whether their love is reciprocated; Lupin/3, however, prefers to rely on this game: he draws three balls from a bag containing 9 balls numbered from 1 to 9. Each time he draws a ball, he records the number and then puts the ball back in the bag. If the greatest common divisor (GCD) of these 3 numbers is 1, then the beautiful FujIt¯o returns his love; otherwise, his love is not reciprocated. What is the probability that Lupin/3 Team Competition 2023 – Semifinal 1 – Problem Statements – 1/2
+>
+> Has it been paid? Respond with the sum of the numerator and denominator of the fraction reduced to its lowest terms.
 
-**Answer:** 1366
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_semifinale1#q08|src_squadre_2023_semifinale1__Q08]]
 
 
 
@@ -286,11 +319,15 @@ This is the total value of the securities held by the issuer of the securities.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequences of 6 0-18 cyclic codes with remaining sum 3 mod 19*
+*Cyclic sequences of 6 codes from 0 to 18 with sum remainder 3 mod 19*
 
-> Six doors in a row Lupin 3 and his gang want to steal the prototype of a new quantum computer. They've got to go through six doors in a row. Each gate has as its access code an integer number between 0 and 18 extremes included. They found that the sum of the codes of two consecutive ports is a number that divided by 19 gives us 3. This property applies to the first and second door, to the second and third door, and so on but also to the sixth and first door. How many sequences of six codes meet these conditions?
+> Lupin/3 and his gang want to steal the prototype of a new quantum computer. They must pass through six gates in sequence. Each gate has an access code that is an integer between 0 and 18, inclusive. They have discovered that the sum of the codes of two consecutive gates is a number that leaves a remainder of 3 when divided by 19. This property holds for the first and second gates, for the second and third, and so on, but also for the sixth and first gates. How many sequences of six codes satisfy these conditions?
 
-**Answer:** 0019
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_semifinale1#q09|src_squadre_2023_semifinale1__Q09]]
 
 
 
@@ -319,11 +356,15 @@ This is the total value of the securities held by the issuer of the securities.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate of central and square diamond areas with 1/3 points*
+*Ratio of central diamond-shaped area to square with points at 1/3*
 
-> Teamwork Lupin/3 has managed to get his hands on the Black Fox's shield where the precious Queen of Africa diamond is housed. The shield is an ABCD square. Jig∈N scrapes the sides of the square, one bullet for each side: A′ on the AB side such that 2AA′ = A′B and, cyclically also B′ on the BC side such that 2BB′ = B′C, similarly C′ and D′. Goemetrikon performs four net cuts along DA′, AB′, BC′ and CD′ thus detaching the central diamond from the rest of the shield. What is the ratio between the diamond area and the initial shield area? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+> Teamwork: Lupin/3 managed to get hold of the Black Fox Shield, in which the precious Queen of Africa diamond is set. The shield is a square ABCD. Jig∈N scores the sides of the square, one projectile per side: A′ on side AB such that 2AA′ = A′B, and cyclically also B′ on side BC such that 2BB′ = B′C, similarly C′ and D′. Goemetrikon makes four clean cuts along DA′, AB′, BC′, and CD′, thereby detaching the central diamond from the rest of the shield. What is the ratio of the area of the diamond to the area of the initial shield? Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.
 
-**Answer:** 0007
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_semifinale1#q10|src_squadre_2023_semifinale1__Q10]]
 
 
 
@@ -360,11 +401,16 @@ This is the total value of the securities held by the issuer of the securities.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of BMF and BSQ triangle areas in tangent configuration*
+*Ratio of the areas of triangles BMF and BSQ in the tangent configuration*
 
-> The discipline of samaterai [⋆] Goemetrikon became a samaterai thanks to iron discipline and questions of geometry. Years ago this was resolved: whether Γ is a circumference of center O, and whether r is a straight tangent to it at point T. A is a point of r distinct from T, and B and C are the intersections of the OA line with Γ such that AB<AC. M is a point on the segment OC and R at the intersection of the straight TM with Γ distinct from T. Finally, let S be a point on the TC-extreme not containing B such that! MAT = " RTS, F a point on the BS segment such that " ATS + " BFT = 180°, and Q the intersection of the BC and RS segments. Knowing that QR RM = 8 13, BS = 33 and TF = 18, determine the ratio of the areas of the BMF and BSQ triangles. Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+> The discipline of samaterai [⋆] Goemetrikon became a samaterai thanks to iron discipline and geometry problems. Years ago, it solved this problem: let Γ be a circle with centre O, and let r be a line tangent to Γ at point T. Let A be a point on r distinct from T, and let B and C be the intersections of line OA with Γ such that AB < AC. Let M be a point on segment OC and R be the intersection of line TM with Γ distinct from T. Finally, let S be a point on the arc with endpoints T and C that does not contain B, such that ! MAT = " RTS; let F be a point on segment BS such that " ATS + " BFT = 180°; and let Q be the intersection of segments BC and RS. Given that QR RM = 8 13, BS = 33, and TF = 18, determine the ratio of the areas of triangles BMF and BSQ. Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.
 
-**Answer:** 3457
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_semifinale1#q11|src_squadre_2023_semifinale1__Q11]]
 
 
 
@@ -396,11 +442,15 @@ This is the total value of the securities held by the issuer of the securities.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Simpson's paradox, minimum ratio of under 50 to MathVillain
+*Simpson's Paradox, the lowest under-50 ratio at MathVillain*
 
-> Did you read that in the cities of MathVillain and EastPonente this year, the syn(use) was stronger than usual? Goemetrikon: Yes, you are. The proportion of patients in MathVillain as a whole was 8%, while in EstPonente it was 10%. Jig∈N: In addition, the proportion of patients under 50 in MathVillain was twice as high as in EastPonente, and the same proportion was also found in the over-50 group. Goemetrikon: How is this possible? Is there a contradiction? Jig∈N: No. Knowing that both cities are young, i.e. the under-50s are at least as many as the over-50s, what is the minimum ratio between the under-50s and the total population of MathVillain? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+> Math illnesses [⋆] Jig∈N: "Have you read that this year in the cities of MathVillain and EstPonente, sin(usitis) has been worse than usual?" Goemetrikon: "Yes. The percentage of people who fell ill out of the total population in MathVillain was 8%, while in EstPonente it was 10%." Jig∈N: "Moreover, among those under 50, the percentage of people who fell ill in MathVillain was twice that in EstPonente, and the same ratio was found in the over-50 group as well." Goemetrikon: "How is that possible? Isn't that a contradiction?" Jig∈N: "No. Knowing that both cities are young—that is, that there are at least as many people under 50 as there are people over 50—what is the minimum ratio of MathVillain residents under 50 to the total population of MathVillain?" Answer by giving the sum of the numerator and denominator of the fraction reduced to lowest terms.
 
-**Answer:** 0009
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_semifinale1#q12|src_squadre_2023_semifinale1__Q12]]
 
 
 
@@ -429,11 +479,15 @@ Simpson's paradox, minimum ratio of under 50 to MathVillain
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Isosceles triangle with BEFM conic points, ACB angle*
+*Isosceles triangle with concyclic points BEFM, angle ACB*
 
-> To design the perfect shot, you have to know the place perfectly. Lupin/3, Jig∈N and Goemetrikon study the map of the museum room from which they will make a famous statue disappear. The room is an ABC isosceles triangle of base AB. The three doors of the room are in M, the middle point of BC, in F, the foot of height relative to B and in E, point on AB such that EB ∼= BM. They also know that B,E,F,M passes a circumference. To avoid video surveillance, it is important to know the width of the ABC angles. How much it 's worth ! The ACB?
+> Museum Heist To plan the perfect heist, one must know the location perfectly. Lupin/3, Jig∈N, and Goemetrikon are studying the map of the museum room from which they will make a famous statue disappear. The room is an isosceles triangle ABC with base AB. The three doors of the room are located at M, the midpoint of BC; at F, the foot of the altitude from B; and at E, a point on AB such that EB ∼= BM. They also know that a circle passes through B, E, F, and M. To manage to evade video surveillance, it is important to know the measures of the angles of ABC. What is the measure of ∠ACB?
 
-**Answer:** 0036
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_semifinale1#q13|src_squadre_2023_semifinale1__Q13]]
 
 
 
@@ -459,11 +513,15 @@ Simpson's paradox, minimum ratio of under 50 to MathVillain
 <div class="qlang-split" data-lang="en"></div>
 
 
-*MCD of all numbers 1^n+...+999^n*
+*GCD of all numbers 1^n+...+999^n*
 
-> The most common combination [⋆] Goemetrikon: Here's the safe! The code that opens it is the maximum common divisor of all numbers of the form 1n +2n +3n +··+999n where n is a positive integer. . . ». Jig∈N: Damn, we don't have time to calculate endless numbers! Lupin 3 is sleeping. What's the code?
+> The Greatest Common Combination [⋆] Goemetrikon: "Here's the safe! The code that opens it is the greatest common divisor of all numbers of the form 1n + 2n + 3n + ·· + 999n, where n is a positive integer...". Jig ∈ N: "Damn, we don't have time to calculate infinitely many numbers!" Lupin/3 grins slyly. What's the code?
 
-**Answer:** 0900
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2023_semifinale1#q14|src_squadre_2023_semifinale1__Q14]]
 
 
 
@@ -491,11 +549,15 @@ Simpson's paradox, minimum ratio of under 50 to MathVillain
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lupin-Jig distance with baricenter and boundary*
+*Lupin-Jig distance with centroid and circumscribed*
 
-> Inspector Zenonigata is convinced he can catch all three thieves. He's in the center of the GJL triangle formed by the three thieves. Goemetrikon and Jig are 79 metres apart, while Goemetrikon and Lupin/3 are 119 metres apart. Goemetrikon jumps like only samaterai can do and lands in the symmetrical, relative to Zenonigata, of its starting point. He realizes that he is (still) on the circumscribed circumference at GJL; he calculates the distance between Lupin and Jig and saves his friends. How many meters do you measure the distance between Lupin and Jig?
+> The Inspector's Leap Inspector Zenonigata is convinced that he will manage to catch all three thieves. He is at the centroid of triangle GJL formed by the three thieves. Goemetrikon and Jig∈N are 79 meters apart, while Goemetrikon and Lupin/3 are 119 meters apart. Goemetrikon leaps as only the samaterai know how, and lands at the point symmetric to his starting point with respect to Zenonigata. He realizes that he is (still) on the circumcircle of GJL; he calculates the distance between Lupin and Jig∈N and gets his friends to safety. How many meters is the distance between Lupin and Jig∈N?
 
-**Answer:** 0101
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_semifinale1#q15|src_squadre_2023_semifinale1__Q15]]
 
 
 
@@ -533,10 +595,14 @@ Simpson's paradox, minimum ratio of under 50 to MathVillain
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nim asymmetric game winning values on 2023 matches*
+*Winning values for the asymmetric Nim game with 2023 matchsticks*
 
-> A game dinner Both Lupin 3 and Fujit love to bet. Now they play each other: if Lupin wins/3, they'll go out to dinner; if Fujito wins, he'll have to give her the huge diamond he just stole. They've got 2023 matches in front of them. Initially Fujit ̄o chooses a positive integer n. Lupin/3 in its turns removes a number of matches between 1 and n extremes included; instead, Fujit ̄o in each turn removes a number of matches between n+1 and 2n extremes included. Start moving Lupin/3. Those who cannot make a move at the start of their shift have lost. Give as a response the sum of the n values that Fujito can choose to be sure of winning. 2023 Team Competition  Semifinal 1  Problem Tests  2/2
-> 
-> Ministry of Education and Merit XXIV National Semifinal Team Competition 1  Friday 5 May 2023 Solutions Nr. The problem
+> A Dinner on a Wager Both Lupin/3 and FujIt¯o love betting. Now they are playing against each other: if Lupin/3 wins, they will go out to dinner; if FujIt¯o wins, he will have to give her the enormous diamond he has just stolen. They have 2023 matches in front of them. Initially, FujIt¯o chooses a positive integer n. On his turns, Lupin/3 removes a number of matches between 1 and n, inclusive; on the other hand, FujIt¯o removes a number of matches between n+1 and 2n, inclusive, on each turn. Lupin/3 goes first. Whoever cannot make any move at the beginning of their turn has lost. As the answer, give the sum of the values of n that FujIt¯o can choose in order to be certain of winning. Team Competition 2023 – Semifinal 1 – Problem Statements – 2/2
+>
+> Ministry of Education and Merit XXIV National Team Competition Semifinal 1 – Friday, 5 May 2023 Solutions No. Problem
 
-**Answer:** 1225
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_semifinale1#q16|src_squadre_2023_semifinale1__Q16]]

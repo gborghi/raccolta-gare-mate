@@ -41,13 +41,22 @@ level: biennio
 
 *Possible values of the sum of 200 dice 2/5*
 
-> Laura was given 200 dice as a gift, of a very special kind: each dice has four faces with the number 2 and two faces with the number 5. Laura's gonna roll the 200 dice all together, then she's gonna sum the 200 numbers that came out. How many possible values can this sum assume?
+> Laura has received as a gift 200 game dice, of a very particular type: each
+> die has four faces with the number 2 and two faces with the 5. Laura is about to throw
+> all 200 dice together, then will add up the 200 numbers that come up. How many
+> are the possible values that this sum can take?
 >
 > - **(A)** 201
 > - **(B)** 1000
 > - **(C)** 601
 > - **(D)** 600
 > - **(E)** 1001
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2015_biennio#q01|src_archimede_2015_biennio__Q01]]
 
 
 
@@ -81,15 +90,22 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Color of 5 adjacent walls with 3 colours*
+*Colouring of 5 adjacent walls with 3 colours*
 
-> John wants to repaint the 5 walls of his room (4 vertical walls plus ceiling). With red paint, yellow paint and blue paint available (which cannot be mixed), he wants to ensure that the adjacent walls (including the ceiling) never have the same color. How many ways can John choose to color the room?
+> Giovanni wants to repaint, each in a single colour, the 5 walls of his room
+> (4 vertical walls plus the ceiling).
+> Having red paint, yellow paint and blue paint available (which cannot be mixed), he wants to make sure that adjacent walls (ceiling included) never have the same colour. In how many ways can Giovanni choose to colour the room?
 >
 > - **(A)** 18
 > - **(B)** 4
 > - **(C)** 12
 > - **(D)** 9
 > - **(E)** 6
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2015_biennio#q02|src_archimede_2015_biennio__Q02]]
 
 
 
@@ -120,15 +136,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Average age of three friends of Enea
+*Average age of Enea's three friends*
 
-> Andrea, Beatrice, Chiara, David, Enea and Frederick are very close friends. Their average age is 14. If three friends of Enea join them, the average age of the entire group becomes 16. What is the average age of Enea's three friends?
+> Andrea, Beatrice, Chiara, Davide, Enea and Federico are very good friends. Their average age is 14 years. If three friends of Enea join them, the average age of the whole group becomes 16 years. What is the average age of Enea's three friends?
 >
 > - **(A)** 16
 > - **(B)** 20
 > - **(C)** 19
 > - **(D)** 17
 > - **(E)** 18
+
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2015_biennio#q03|src_archimede_2015_biennio__Q03]]
 
 
 
@@ -157,15 +178,20 @@ Average age of three friends of Enea
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of units of 3^(8^7)*
+*Units digit of 3^(8^7)*
 
-> What is the number of units of 3(87)?
+> What is the units digit of $3^{(8^7)}$?
 >
 > - **(A)** 1
 > - **(B)** 7
 > - **(C)** 3
 > - **(D)** 9
 > - **(E)** 5
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2015_biennio#q04|src_archimede_2015_biennio__Q04]]
 
 
 
@@ -200,15 +226,26 @@ Average age of three friends of Enea
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum socks for two pairs of different colours*
+*Minimum socks for two matched pairs of different colours*
 
-> Giulio knows that in his drawer there are, all mixed, 20 black socks, 32 blue socks, 44 grays and 24 browns, all of the same shape. He is leaving and wants to bring at least two pairs of well-matched socks, of two different colors (the two socks of each pair must be the same color, but the two pairs must be of different colors). Because it's dark and it can't tell the colours, it takes a bunch of socks. How many socks will you have to pack at least to make sure you're carrying at least two pairs of good pairs of two different colors?
+> Giulio knows that in his drawer there are, all mixed together, 20 black socks, 32 blue socks,
+> 44 grey and 24 brown, all of the same shape. He is leaving and wants to take at least
+> two matched pairs of socks, of two different colours (the two socks in each pair
+> must be the same colour, but the two pairs must be of different colours).
+> Since it is dark and he cannot distinguish the colours, he takes a handful of socks at random.
+> How many socks must he put in his suitcase, at minimum, to be certain of
+> taking at least two matched pairs of two different colours?
 >
 > - **(A)** 77
 > - **(B)** 6
 > - **(C)** 68
 > - **(D)** 48
 > - **(E)** 24
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+[[Quesiti/src_archimede_2015_biennio#q05|src_archimede_2015_biennio__Q05]]
 
 
 
@@ -238,15 +275,20 @@ Average age of three friends of Enea
 <div class="qlang-split" data-lang="en"></div>
 
 
-Number of girls at a cross-dance party
+*Number of girls at a cross-dance party*
 
-> At a party, each boy danced with four different girls and each girl danced with three different boys. Knowing there were nine boys at the party, how many girls?
+> At a party, each boy danced with 4 different girls and each girl danced with 3 different boys. Knowing that there were 9 boys at the party, how many girls were there?
 >
 > - **(A)** 6
 > - **(B)** 10
 > - **(C)** 12
 > - **(D)** 8
 > - **(E)** 16
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+[[Quesiti/src_archimede_2015_biennio#q06|src_archimede_2015_biennio__Q06]]
 
 
 
@@ -276,15 +318,20 @@ Number of girls at a cross-dance party
 <div class="qlang-split" data-lang="en"></div>
 
 
-*DEF triangle area from midpoints in triangle ABC*
+*Area of triangle DEF from midpoints in triangle ABC*
 
-> The area of an ABC triangle is 832 cm2. Let's say D is the middle point of the AB side, E is the middle point of BC and F is the middle point of the AE segment. How many cm2 is the area of the DEF triangle?
+> The area of a triangle ABC is 832 cm². Let D be the midpoint of side AB, E the midpoint of BC, and F the midpoint of the segment AE. What is the area of triangle DEF, in cm²?
 >
 > - **(A)** 78
 > - **(B)** 156
 > - **(C)** 104
 > - **(D)** 124
-> - **(E)** There's not enough data to determine that.
+> - **(E)** the data are not sufficient to determine it
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2015_biennio#q07|src_archimede_2015_biennio__Q07]]
 
 
 
@@ -314,15 +361,21 @@ Number of girls at a cross-dance party
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2015 decimal place of 3/7*
+*2015th decimal digit of 3/7*
 
-> What's the 2015th digit after the decimal comma of 3/7?
+> What is the 2015th digit after the decimal point in the decimal expansion of 3/7?
 >
 > - **(A)** 7
 > - **(B)** 1
 > - **(C)** 5
 > - **(D)** 2
 > - **(E)** 4
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2015_biennio#q08|src_archimede_2015_biennio__Q08]]
 
 
 
@@ -353,15 +406,22 @@ Number of girls at a cross-dance party
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit codes with product of 18 digits*
+*Four-digit codes with digit product 18*
 
-> Carlo forgot his phone's unlock code. All you remember is that the code is made up of four digits and the product of those digits is 18. How many possible codes meet these conditions?
+> Carlo has forgotten his phone unlock code. All he remembers is
+> that the code consists of 4 digits and the product of those digits is 18. How many
+> possible codes satisfy these conditions?
 >
 > - **(A)** 32
 > - **(B)** 36
 > - **(C)** 40
 > - **(D)** 60
 > - **(E)** 24
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2015_biennio#q09|src_archimede_2015_biennio__Q09]]
 
 
 
@@ -392,15 +452,20 @@ Number of girls at a cross-dance party
 <div class="qlang-split" data-lang="en"></div>
 
 
-Sum of the five smallest divisors of 40! of a width of not more than 50 mm
+*Sum of the five smallest divisors of 40! greater than 40*
 
-> Let's put it in forty! The number obtained by multiplying all integers from 1 to 40, that is, 40! = 1 · 2 · 3 · 4 · ... · 38 · 39 · 40. Among the integers greater than 40 that are divisors of 40!, find the five smallest ones and indicate their sum.
+> Let 40! denote the number obtained by multiplying all the integers from 1 to 40, that is 40! = 1 · 2 · 3 · 4 · ... · 38 · 39 · 40. Among the integers greater than 40 that divide 40!, find the five smallest and indicate their sum.
 >
 > - **(A)** 225
 > - **(B)** 215
 > - **(C)** 219
 > - **(D)** 217
 > - **(E)** 223
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2015_biennio#q10|src_archimede_2015_biennio__Q10]]
 
 
 
@@ -437,15 +502,26 @@ Sum of the five smallest divisors of 40! of a width of not more than 50 mm
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum percentage of palm oil from the order of ingredients
+*Maximum percentage of palm oil from the ingredient order*
 
-> On the label with the list of ingredients of a sweetener, you can read: sugar, palm oil, hazelnuts 14%, cocoa, milk 6%. Knowing that the ingredients are arranged in order (no ingredient can be present in greater quantities than another listed above), what is the maximum percentage of palm oil that the dessert could contain?
+> On the label with the list of ingredients of a confectionery product, one can read:
+> sugar,
+> palm oil,
+> hazelnuts 14%,
+> cocoa,
+> milk 6%. Knowing that the ingredients are listed in order (no ingredient can be present in a greater quantity than another listed earlier), what is the maximum percentage of palm oil that the confectionery could contain?
 >
 > - **(A)** 21%
 > - **(B)** 14%
 > - **(C)** 80%
 > - **(D)** 40%
 > - **(E)** 37%
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_2015_biennio#q11|src_archimede_2015_biennio__Q11]]
 
 
 
@@ -478,15 +554,20 @@ Maximum percentage of palm oil from the order of ingredients
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of participants knights and crooks around the table*
+*Number of knights and liars around a table*
 
-> On the island of knights and crooks, knights are always honest and crooks always lie. During a meeting, the audience sits around a large table and everyone says, "The person at my right is a con man". Knowing that there are fewer than 100 knights present, which of the following could be the number of attendees at the meeting?
+> On the island of knights and liars, knights always tell the truth and liars always lie. During a meeting, those present sit around a large table and each says: “the person to my right is a liar”. Knowing that there are fewer than 100 knights among those present, which of the following could be the number of participants at the meeting?
 >
 > - **(A)** 208
 > - **(B)** 85
 > - **(C)** 153
 > - **(D)** 168
 > - **(E)** 205
+
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+[[Quesiti/src_archimede_2015_biennio#q12|src_archimede_2015_biennio__Q12]]
 
 
 
@@ -521,17 +602,22 @@ Maximum percentage of palm oil from the order of ingredients
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Configuration not obtained by reversing rows/columns*
+*A configuration that cannot be obtained by flipping rows/columns*
 
-![[src_archimede_2015_biennio__prob13.png]]
-
-> A grid divided into squares is initially colored as in the figure below. A move consists of choosing a row or column and reversing the color of all the boxes in it. By making 10 moves, which of the following configurations cannot be achieved?
+> A grid divided into small squares is initially coloured as
+> in the figure to the side. A move consists of choosing a row
+> or a column and flipping the colour of every cell in it. After 10 moves, which of the following configurations cannot be obtained?
 >
 > - **(A)**
 > - **(B)**
 > - **(C)**
 > - **(D)**
 > - **(E)**
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_invarianti|Invariants / monovariants]]
+[[Quesiti/src_archimede_2015_biennio#q13|src_archimede_2015_biennio__Q13]]
 
 
 
@@ -562,15 +648,22 @@ Maximum percentage of palm oil from the order of ingredients
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area pentagon with three right angles and given sides*
+*Area of a pentagon with three right angles and given sides*
 
-> In the ABCDE pentagon, the angles in the vertices A, C, and E are straight. It is also known that AB = 15 m, BC = 12 m, CD = 5 m, DE = 20 m. How many square meters is the area of the pentagon?
+> In pentagon ABCDE, the angles at vertices A, C, E are right angles. It is also known that
+> AB = 15 m, BC = 12 m, CD = 5 m, DE = 20 m. What is the area of the
+> pentagon, in m2?
 >
 > - **(A)** 180
 > - **(B)** 210
 > - **(C)** 240
 > - **(D)** 200
 > - **(E)** 270
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2015_biennio#q14|src_archimede_2015_biennio__Q14]]
 
 
 
@@ -625,36 +718,23 @@ Maximum percentage of palm oil from the order of ingredients
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rage of the rope plate and the fragment sachet*
+*Radius of a broken circular plate from a chord and a sagitta*
 
 ![[src_archimede_2015_biennio__prob15.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.18]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (24,0);
-  \coordinate (C) at (12,0);
-  \coordinate (D) at (12,6);
-  \coordinate (O) at (12,-9);
-  \draw[thick] (A) -- (B);
-  \draw (A) arc (143.13:36.87:15);
-  \foreach \p in {A,B,C,D} \fill (\p) circle (0.25);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[below] at (C) {$C$};
-  \node[above] at (D) {$D$};
-\end{tikzpicture}
-\end{document}
-```
-
-> A fragment of an ancient, now broken circular plate, shaped like a figure, was found. C is the middle point of the segment AB, while D is the middle point of the arc AB. Knowing that AB measures 24 centimetres and CD measures 6 centimetres, how many centimetres was the radius of the original plate?
+> A fragment of an ancient circular plate, now broken, has been found, of the shape in the figure. C is the midpoint of the segment AB, while D is the midpoint of the arc AB. Given that AB measures 24 cm and CD measures 6 cm, how many cm was the radius of the original plate?
 >
 > - **(A)** 16
 > - **(B)** 12
 > - **(C)** 18
 > - **(D)** 20
 > - **(E)** 15
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2015_biennio#q15|src_archimede_2015_biennio__Q15]]
 
 
 
@@ -687,12 +767,17 @@ Maximum percentage of palm oil from the order of ingredients
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum colours for balls with the same colour as the multipliers*
+*Maximum colors so each numbered ball matches all its multiples*
 
-> Gianni has 60 balls, numbered 1 to 60. One day, after realizing that he lost the ball n<°1, he decides to color the remaining 59, following this rule: each number must have the same color as all its multiples. Maximum, how many different colors can Gianni use to color the 59 balls?
+> Gianni has 60 balls, numbered from 1 to 60. One day, after realizing that he has lost ball no. 1, he decides to color the remaining 59, following this rule: each number must be the same color as all of its multiples. At most, how many different colors can Gianni use to color the 59 balls?
 >
 > - **(A)** 2
 > - **(B)** 10
 > - **(C)** 8
 > - **(D)** 17
-> - **(E)** 12 T2 Italian Mathematical Union PROJECT OLIMPIADI OF MATHEMATICS Ministry of Education, University and Research Higher Normal School The Games of Archimedes - Gara Biennio 25 November 2015 • The test consists of 16 questions; each question is followed by five answers indicated by the letters (A), (B), (C), (D) and (E). • Only one of these answers is correct, the other four are wrong. Every correct answer is worth 5 points, every wrong answer is worth 0 points, every problem left unanswered is worth 1 point. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. The time you have to do the test is two hours. Good work and good fun! Name of the class: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+> - **(E)** 12
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_grafi|Graph theory]]
+[[Quesiti/src_archimede_2015_biennio#q16|src_archimede_2015_biennio__Q16]]

@@ -31,13 +31,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*To divide the regular hexagon into 8 equal parts*
+*Divide a regular hexagon into 8 equal parts*
 
 ![[src_kangourou_2005_student_finale__probs1.png]]
 
-> In the figure you see a regular hexagon. Can you divide it into eight equal-sized parts? In the case of a negative answer, you must give reasons for this, and in the case of an affirmative answer, explain directly on the figure the subdivision you propose, accompanied by any clarifications you deem appropriate. (see figure)
+> In the figure, you see a regular hexagon. Can you divide it into 8 parts of equal shape and size? If your answer is no, you must give a reason; if your answer is yes, illustrate directly on the figure the division you propose, accompanied by any clarifications you deem appropriate. (see figure)
 
-**Answer:** Yes
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_student_finale#qs1|src_kangourou_2005_student_finale__QS1]]
 
 
 
@@ -60,11 +64,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of expansion coefficients of (2x-y+z) ^8*
+*Sum of the coefficients in the expansion of (2x-y+z)^8*
 
-> What is the algebraic sum of all the coefficients (each with its own sign) of the expansion of $(2x - y + z)^8$?
+> What is the algebraic sum of all the coefficients (each with its own sign) in the expansion of $(2x - y + z)^8$?
 
-**Answer:** 256
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2005_student_finale#qs2|src_kangourou_2005_student_finale__QS2]]
 
 
 
@@ -123,7 +131,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Obtuse angle with incenter and circumcenter symmetric*
+*Obtuse angle with symmetric incenter and circumcenter*
 
 ![[src_kangourou_2005_student_finale__probs3.png]]
 
@@ -160,9 +168,14 @@ level: kangourou
 \end{document}
 ```
 
-> The centers of the inscribed circle and of the circumscribed circle of an obtuse triangle are symmetric with respect to one of its sides. How many degrees does the obtuse angle measure?
+> The centers of the incircle and the circumcircle of an obtuse-angled triangle are symmetric with respect to one of its sides. What is the measure, in degrees, of the obtuse angle?
 
-**Answer:** 108 degrees
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_student_finale#qs3|src_kangourou_2005_student_finale__QS3]]
 
 
 
@@ -186,11 +199,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of the factorials is not a square but it is divided by 50!*
+*Product of the factorials, not a square, but it divided by 50!*
 
-> For every positive integer $n$, the "factorial of $n$" is defined — and denoted by the symbol $n!$ — as the product of all the integers from $1$ to $n$ inclusive, each considered once and only once (thus we have $1! = 1$, $2! = 2$, $3! = 6$, $4! = 24$ and so on). Show that the product $1! \times 2! \times \cdots \times 99! \times 100!$ of the factorials of the first 100 positive integers is not a perfect square, but its quotient by $50!$ is.
+> For each positive integer $n$, the "factorial of $n$"—denoted by the symbol $n!$—is defined as the product of all integers from $1$ to $n$ inclusive, each considered exactly once (thus we have $1! = 1$, $2! = 2$, $3! = 6$, $4! = 24$, and so on). Show that the product $1! \times 2! \times \cdots \times 99! \times 100!$ of the factorials of the first 100 positive integers is not a perfect square, but its quotient by $50!$ is a perfect square.
 
-**Answer:** proof
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2005_student_finale#qs4|src_kangourou_2005_student_finale__QS4]]
 
 
 
@@ -216,13 +234,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Greek cross on a 7x7 chessboard without corners*
+*Greek cross on a 7x7 checkerboard with no corners*
 
 ![[src_kangourou_2005_student_finale__probs5.png]]
 
-> Consider a chessboard $7 \times 7$ from which the 4 corner boxes have been removed; call each configuration of 5 its cross-arranged boxes Greek cross so that each box has at least one side in common with another box of the cross (so each cross has 4 equal arms each consisting of a box). Show that it is possible to have 45 integers (not necessarily all different from each other) on the remaining 45 boxes, one per box, so that the total sum of these integers is negative, but the sum of the numbers corresponding to the boxes covered by any Greek cross is positive. (Suggest: identify a conveniently small $S$ set of boxes with the property that each Greek cross covers at least one box belonging to $S$.)
+> Consider a chessboard $7 \times 7$ from which the 4 corner squares have been removed; call a Greek cross any configuration of 5 of its squares arranged in the shape of a cross such that each square shares at least one side with another square of the cross (so each cross has 4 equal arms, each consisting of a single square). Prove that it is possible to place 45 integers (not necessarily all distinct) on the remaining 45 squares, one integer per square, in such a way that the total sum of these integers is negative, but the sum of the numbers corresponding to the squares covered by any Greek cross is positive. (Hint: identify a suitably small set $S$ of squares with the property that every Greek cross covers at least one square belonging to $S$.)
 
-**Answer:** proof
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2005_student_finale#qs5|src_kangourou_2005_student_finale__QS5]]
 
 
 
@@ -246,8 +269,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Locus of the midpoints between two external circles*
+*Locus of the midpoints between two externally positioned circles*
 
-> There shall be $\alpha$ and $\beta$ two coplanar circles, each external to the circle determined by the other. Describe the locus of the midpoints of the segments $[A, B]$ as the $A$ point in $\alpha$ and the $B$ point in $\beta$ vary.
+> Let $\alpha$ and $\beta$ be two coplanar circles, each lying outside the circle determined by the other. Describe the locus of the midpoints of the segments $[A, B]$ as the point $A$ varies in $\alpha$ and the point $B$ varies in $\beta$.
 
-**Answer:** circular annulus
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2005_student_finale#qs6|src_kangourou_2005_student_finale__QS6]]

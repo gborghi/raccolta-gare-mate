@@ -35,13 +35,22 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Matrici 3x3 circolanti con det=1: entrate razionali infinite, entrate interi finite*
+*Matrici circolanti 3x3 con det=1: le entrate razionali sono infinite, quelle intere sono finite*
 
-> Considera le matrici del modulo $$M = \begin{pmatrix} a & b & c \\ c & a & b \\ b & c & a \end{pmatrix} \qquad \text{with} \quad \det M = 1.$$ Prove che:
-> 
-> (a) Ci sono infinite matrici della forma di cui sopra con tutte le voci $a, b, c$ razionali.
-> 
-> b) Ci sono solo finitamente molte matrici della forma di cui sopra con tutti i numeri interi $a, b, c$.
+> Si considerino matrici della forma
+> $$M = \begin{pmatrix} a & b & c \\ c & a & b \\ b & c & a \end{pmatrix} \qquad \text{with} \quad \det M = 1.$$
+> Dimostrare che:
+>
+> (a) Esistono infiniti matrici della forma sopra indicata i cui elementi sono tutti $a, b, c$ razionali.
+>
+> (b) Esistono solo un numero finito di matrici della forma sopra indicata in cui tutti gli elementi sono $a, b, c$ interi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2021_nu_fx#q01|src_obm_2021_nu_fx__Q01]]
 
 
 
@@ -66,9 +75,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le funzioni C² che soddisfano f(t)²=f(t√2) per ogni t reale*
+*Trovare tutte le funzioni C² che soddisfano f(t)²=f(t√2) per ogni t reale*
 
-> Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ della classe $C^2$ (cioè $f$ è doppio differenziabile con la seconda derivata continua) in modo tale che $$f(t)^2 = f(t\sqrt{2})$$ per ogni reale $t$.
+> Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ di classe $C^2$ (ossia $f$ è due volte derivabile con seconda derivata continua) tali che
+> $$f(t)^2 = f(t\sqrt{2})$$
+> per ogni $t$ reale.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2021_nu_fx#q02|src_obm_2021_nu_fx__Q02]]
 
 
 
@@ -91,9 +109,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi k per il quale piano ((α^n) = m2−k per tutti i grandi n*
+*Trovare tutti gli interi positivi k per cui floor(α^n) = m²−k per tutti gli n grandi*
 
-> Trova tutti i numeri interi positivi $k$ per i quali esiste un numero irrazionale $\alpha > 1$ e un intero positivo $N$ tale che $\lfloor \alpha^n \rfloor$ sia di forma $m^2 - k$ per un certo numero intero $m$, per ogni numero intero $n > N$.
+> Trovare tutti gli interi positivi $k$ per i quali esistono un numero irrazionale $\alpha > 1$ e un intero positivo $N$ tali che $\lfloor \alpha^n \rfloor$ sia della forma $m^2 - k$ per qualche intero $m$, per ogni intero $n > N$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2021_nu_fx#q03|src_obm_2021_nu_fx__Q03]]
 
 
 
@@ -117,9 +142,17 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per n>1 lasciamo k(n) essere l'esponente massimo di potenza perfetta; trovare il limite della media di Cesaro*
+*Per n>1, sia k(n) il massimo esponente di potenza perfetta; trovare il limite della media di Cesàro*
 
-> Per ogni intero $n > 1$, $k(n)$ sia il più grande intero positivo $k$ tale che $n = m^k$ per un intero positivo $m$. Determinazione $$\lim_{n \to \infty} \frac{1}{n} \sum_{j=2}^{n} k(j).$$
+> Per ogni intero $n > 1$, si ponga $k(n)$ come il più grande intero positivo $k$ tale che $n = m^k$ per qualche intero positivo $m$. Determinare
+> $$\lim_{n \to \infty} \frac{1}{n} \sum_{j=2}^{n} k(j).$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2021_nu_fx#q04|src_obm_2021_nu_fx__Q04]]
 
 
 
@@ -142,9 +175,16 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Caracterizzare tutti i tripli reali che sono valori propri di una matrice non negativa 3×3*
+*Caratterizza tutti i triple reali che sono autovalori di una matrice 3×3 a termini non negativi*
 
-> Determinare tutti i tripli $(\lambda_1, \lambda_2, \lambda_3) \in \mathbb{R}^3$ in modo tale che esista una matrice $3 \times 3$ $A_{3 \times 3}$ con entrate reali non negative i cui valori propri sono $\lambda_1, \lambda_2, \lambda_3$.
+> Determinare tutti i tripleti $(\lambda_1, \lambda_2, \lambda_3) \in \mathbb{R}^3$ tali che esista una matrice $3 \times 3$ $A_{3 \times 3}$ a coefficienti reali non negativi le cui autovalori siano $\lambda_1, \lambda_2, \lambda_3$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2021_nu_fx#q05|src_obm_2021_nu_fx__Q05]]
 
 
 
@@ -173,12 +213,19 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Parli di parole bacana definiti ricorrentemente; prove (α,β) bacana se αβ è palindromo*
+*Coppie di parole bacana definite ricorsivamente; dimostrare che (α,β) è bacana se e solo se αβ è un palindromo*
 
-> Difiniamo ricorrentemente **bacana** coppie di parole $(\alpha, \beta)$ sull'alfabeto $\{a, b\}$ come segue: $(\alpha, \beta)$ è una coppia di bacana se e solo se esiste una coppia di bacana $(u, w)$ tale che $(\alpha, \beta) = (u, w)$ o $(\alpha, \beta) = (w, u)$; oppure esiste $c_i \in \{a, b\}$ per tutti $i$, e un intero positivo $n$, tale che $\alpha = c_1 c_2 \ldots c_n$ con $c_{n+1-j} = c_j$ per tutti $1 \le j \le n$.
-> 
-> Diciamo che una parola $c_1 c_2 \ldots c_n$ con $c_i \in \{a, b\}$ è un **palindromo** se $c_{n+1-j} = c_j$ per tutti $1 \le j \le n$.
-> 
-> Prova che $(\alpha, \beta)$ è una coppia di bacana se e solo se la concatenamento $\alpha\beta$ è un palindromo.
-> 
-> *Ricordo: * Siamo d'accordo che la parola vuota (con lettere $0$) è un palindromo. Se le parole $u = a_1 a_2 \ldots a_i$ e $v = b_1 b_2 \ldots b_j$ sono indicate, il simbolo $uv$ indica la loro concatenamento $a_1 a_2 \ldots a_i b_1 b_2 \ldots b_j$.
+> Definiamo ricorsivamente le coppie di parole **bacana** $(\alpha, \beta)$ sull'alfabeto $\{a, b\}$ nel modo seguente: $(\alpha, \beta)$ è una coppia bacana se e solo se esiste una coppia bacana $(u, w)$ tale che $(\alpha, \beta) = (u, w)$ oppure $(\alpha, \beta) = (w, u)$; oppure esistono $c_i \in \{a, b\}$ per tutti gli $i$, e un intero positivo $n$, tali che $\alpha = c_1 c_2 \ldots c_n$ con $c_{n+1-j} = c_j$ per tutti gli $1 \le j \le n$.
+>
+> Diciamo che una parola $c_1 c_2 \ldots c_n$ con $c_i \in \{a, b\}$ è un **palindromo** se $c_{n+1-j} = c_j$ per tutti gli $1 \le j \le n$.
+>
+> Dimostrare che $(\alpha, \beta)$ è una coppia bacana se e solo se la concatenazione $\alpha\beta$ è un palindromo.
+>
+> *Osservazione:* Siamo d'accordo sul fatto che la parola vuota (con $0$ lettere) sia un palindromo. Dati i parole $u = a_1 a_2 \ldots a_i$ e $v = b_1 b_2 \ldots b_j$, il simbolo $uv$ denota la loro concatenazione $a_1 a_2 \ldots a_i b_1 b_2 \ldots b_j$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2021_nu_fx#q06|src_obm_2021_nu_fx__Q06]]

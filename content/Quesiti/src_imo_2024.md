@@ -33,13 +33,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali alpha con somma floor(k·alpha) multipla di n*
+*Alfa reali con somma floor(k·alpha) multipla di n*
 
-> Determinare tutti i numeri reali $\alpha$ tali che, per ogni intero positivo $n$, il numero intero
+> Determinare tutti i numeri reali $\alpha$ tali che, per ogni numero intero positivo $n$, l'intero
 > $$\lfloor \alpha \rfloor + \lfloor 2\alpha \rfloor + \cdots + \lfloor n\alpha \rfloor$$
-> sia multiplo di $n$.
-> 
-> (Nota che $\lfloor z \rfloor$ indica il massimo intero minore o uguale a $z$. Per esempio, $\lfloor -\pi \rfloor = -4$ e $\lfloor 2 \rfloor = \lfloor 2.9 \rfloor = 2$.)
+> sia un multiplo di $n$.
+>
+> (Si noti che $\lfloor z \rfloor$ denota il più grande intero minore o uguale a $z$. Ad esempio, $\lfloor -\pi \rfloor = -4$ e $\lfloor 2 \rfloor = \lfloor 2.9 \rfloor = 2$.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_2024#q01|src_imo_2024__Q01]]
 
 
 
@@ -66,13 +73,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Coppie (a,b) con gcd(a^n+b,b^n+a) costante*
+*Coppie (a,b) con mcd(a^n+b,b^n+a) costante*
 
-> Determinare tutte le coppie $(a, b)$ di interi positivi per cui esistono interi positivi $g$ e $N$ tali che
+> Determinare tutte le coppie $(a, b)$ di interi positivi per le quali esistono interi positivi $g$ e $N$ tali che
 > $$\gcd(a^n + b,\, b^n + a) = g$$
-> sia verificata per ogni intero $n \geq N$.
-> 
-> (Nota che $\gcd(x, y)$ indica il massimo comun divisore degli interi $x$ e $y$.)
+> vale per tutti gli interi $n \geq N$.
+>
+> (Si noti che $\gcd(x, y)$ denota il massimo comune divisore degli interi $x$ e $y$.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_2024#q02|src_imo_2024__Q02]]
 
 
 
@@ -99,13 +113,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successione conta-occorrenze eventualmente periodica*
+*Successione di conteggio delle occorrenze, eventualmente periodica*
 
-> Sia $a_1, a_2, a_3, \ldots$ una successione infinita di interi positivi, e sia $N$ un numero intero positivo. Si supponga che, per ogni $n > N$, $a_n$ sia uguale al numero di volte in cui $a_{n-1}$ compare nella lista $a_1, a_2, \ldots, a_{n-1}$.
-> 
-> Si dimostri che almeno una delle successioni $a_1, a_3, a_5, \ldots$ e $a_2, a_4, a_6, \ldots$ è periodica da un certo punto in poi.
-> 
-> (Una successione infinita $b_1, b_2, b_3, \ldots$ è definitivamente periodica se esistono interi positivi $p$ e $M$ tali che $b_{m+p} = b_m$ per ogni $m \geq M$.)
+> Sia $a_1, a_2, a_3, \ldots$ una successione infinita di interi positivi, e sia $N$ un intero positivo. Si supponga che, per ogni $n > N$, $a_n$ sia uguale al numero di volte in cui $a_{n-1}$ compare nella lista $a_1, a_2, \ldots, a_{n-1}$.
+>
+> Dimostrare che almeno una delle successioni $a_1, a_3, a_5, \ldots$ e $a_2, a_4, a_6, \ldots$ è asintoticamente periodica.
+>
+>  Una successione infinita $b_1, b_2, b_3, \ldots$ è asintoticamente periodica se esistono interi positivi $p$ e $M$ tali che $b_{m+p} = b_m$ per ogni $m \geq M$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_2024#q03|src_imo_2024__Q03]]
 
 
 
@@ -130,11 +151,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo KIL+YPX=180 (incerchio e tangenti)*
+*Angolo KIL+YPX=180 (cerchio e tangenti)*
 
-> Sia $ABC$ un triangolo con $AB < AC < BC$. Siano $I$ e $\omega$ rispettivamente l'incentro e la circonferenza inscritta del triangolo $ABC$. Sia $X$ il punto sulla retta $BC$ diverso da $C$ tale che la retta passante per $X$ parallela a $AC$ sia tangente a $\omega$. Analogamente, sia $Y$ il punto sulla retta $BC$ diverso da $B$ tale che la retta passante per $Y$ parallela a $AB$ sia tangente a $\omega$. Sia $AI$ che interseca nuovamente la circonferenza circoscritta al triangolo $ABC$ nel punto $P \neq A$. Siano $K$ e $L$ i punti medi dei segmenti $AC$ e $AB$, rispettivamente.
-> 
-> Si dimostri che $\angle KIL + \angle YPX = 180^\circ$.
+> Sia $ABC$ un triangolo con $AB < AC < BC$. Siano $I$ e $\omega$, rispettivamente, il centro del cerchio inscritto e il cerchio inscritto del triangolo $ABC$. Sia $X$ il punto sulla retta $BC$ diverso da $C$ tale che la retta passante per $X$ e parallela a $AC$ sia tangente a $\omega$. Analogamente, sia $Y$ il punto sulla retta $BC$ diverso da $B$ tale che la retta passante per $Y$ e parallela a $AB$ sia tangente a $\omega$. Sia $AI$ che interseca nuovamente la circonferenza circoscritta al triangolo $ABC$ nel punto $P \neq A$. Siano $K$ e $L$ i punti medi di $AC$ e $AB$, rispettivamente.
+>
+> Dimostrare che $\angle KIL + \angle YPX = 180^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_2024#q04|src_imo_2024__Q04]]
 
 
 
@@ -161,13 +189,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Turbo la lumaca, minimo n attacchi garantiti*
+*Turbo, la lumaca: minimo n attacchi garantiti*
 
-> Turbo il lumachino gioca un gioco su una scacchiera con $2024$ righe e $2023$ colonne. Ci sono mostri nascosti in $2022$ celle. All'inizio Turbo non sa dove si trovino nessuno dei mostri, ma sa che in ogni riga tranne la prima e l'ultima c'è esattamente un mostro, e che ogni colonna contiene al massimo un mostro.
-> 
-> Turbo effettua una serie di tentativi per passare dalla prima riga all'ultima. In ciascun tentativo, egli sceglie di iniziare da qualsiasi cella della prima riga, quindi si muove ripetutamente su una cella adiacente condividendo un lato comune. (È consentito tornare su una cella precedentemente visitata.) Se raggiunge una cella con un mostro, il tentativo termina e lui viene trasportato nuovamente alla prima riga per iniziare un nuovo tentativo. I mostri non si muovono, e Turbo ricorda se ciascuna cella che ha visitato contenga o meno un mostro. Se raggiunge una qualsiasi cella dell'ultima riga, il tentativo termina e il gioco è finito.
-> 
-> Determinare il valore minimo di $n$ per cui Turbo ha una strategia che garantisce di raggiungere la riga finale entro il tentativo $n$-esimo o in precedenza, indipendentemente dalle posizioni dei mostri.
+> Turbo il lumaca gioca a un gioco su una scacchiera con $2024$ righe e $2023$ colonne. In $2022$ delle caselle si nascondono dei mostri. Inizialmente, Turbo non sa dove si trovino i mostri, ma sa che in ogni riga, tranne la prima e l'ultima, c'è esattamente un mostro, e che ogni colonna contiene al più un mostro.
+>
+> Turbo compie una serie di tentativi per spostarsi dalla prima riga all'ultima. In ciascun tentativo, sceglie di partire da una qualsiasi casella della prima riga e poi si sposta ripetutamente in una casella adiacente che condivide un lato con quella in cui si trova. (Gli è permesso tornare in una casella già visitata.) Se raggiunge una casella con un mostro, il tentativo termina e lui viene riportato nella prima riga per iniziare un nuovo tentativo. I mostri non si muovono, e Turbo ricorda se ciascuna casella che ha visitato contenga o meno un mostro. Se raggiunge una qualsiasi casella dell'ultima riga, il tentativo termina e il gioco finisce.
+>
+> Determina il valore minimo di $n$ per cui Turbo dispone di una strategia che garantisce di raggiungere l'ultima riga al $n$-esimo tentativo o prima, indipendentemente dalla posizione dei mostri.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_2024#q05|src_imo_2024__Q05]]
 
 
 
@@ -194,7 +229,13 @@ level: IMO
 
 *Funzioni aquaesuliane, minimo c valori f(r)+f(-r)*
 
-> Sia $\mathbb{Q}$ l'insieme dei numeri razionali. Una funzione $f : \mathbb{Q} \to \mathbb{Q}$ si dice *aquaesuliana* se vale la seguente proprietà: per ogni $x, y \in \mathbb{Q}$,
+> Sia $\mathbb{Q}$ l'insieme dei numeri razionali. Una funzione $f : \mathbb{Q} \to \mathbb{Q}$ è detta *aquaesuliana* se vale la seguente proprietà: per ogni $x, y \in \mathbb{Q}$,
 > $$f(x + f(y)) = f(x) + y \quad \text{or} \quad f(f(x) + y) = x + f(y).$$
-> 
-> Si dimostri che esiste un intero $c$ tale che per ogni funzione aquaesuliana $f$ esistono al più $c$ numeri razionali distinti della forma $f(r) + f(-r)$ per qualche numero razionale $r$, e si determini il valore più piccolo possibile di $c$.
+>
+> Mostra che esiste un intero $c$ tale che, per ogni funzione aquaesuliana $f$, vi sono al più $c$ numeri razionali distinti della forma $f(r) + f(-r)$ per un certo numero razionale $r$, e determina il valore minimo possibile di $c$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_2024#q06|src_imo_2024__Q06]]

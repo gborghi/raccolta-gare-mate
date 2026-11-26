@@ -34,13 +34,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Espressione con potenze di 2, conteggio di cifre*
+*Espressione con potenze di 2, conta le cifre*
 
-> Eseguendo le operazioni indicate nell'espressione $$\frac{2^{2005}+2^{2005}}{2^{2006}+2^{2005}}\times 2006$$ otteniamo un numero di quattro cifre. Quale delle seguenti cifre è uno di questi numeri?
-> 
-> **A) ** 4 \quad **B) ** 5 \quad **C) ** 6 \quad **D) ** 7 \quad **E) ** 8
+> Eseguendo le operazioni indicate nell'espressione
+> $$\frac{2^{2005}+2^{2005}}{2^{2006}+2^{2005}}\times 2006$$
+> Otteniamo un numero di quattro cifre. Quale delle seguenti è una delle cifre di questo numero?
+>
+> **A)** 4 \quad **B)** 5 \quad **C)** 6 \quad **D)** 7 \quad **E)** 8
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n2_f1#q01|src_obm_2006_n2_f1__Q01]]
 
 
 
@@ -68,15 +75,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due strisce rettangolari di carta che si sovrappongono, trovare il perimetro della figura*
+*Due strisce rettangolari di carta che si sovrappongono: determina il perimetro della figura*
 
-> Sono fornite due strisce rettangolari di carta: una lunga $20\,\text{cm}$ e larga $5\,\text{cm}$, e un'altra lunga $20\,\text{cm}$ e larga $11\,\text{cm}$. Uno è piegato perpendicolare sull'altro per formare la figura mostrata. Il perimetro di questa figura, in centimetri, è:
-> 
-> **A) ** 50 \quad **B) ** 60 \quad **C) ** 80 \quad **D) ** 100 \quad **E) ** 120
+> Sono dati due strisce rettangolari di carta: una lunga $20\,\text{cm}$ e larga $5\,\text{cm}$, e l'altra lunga $20\,\text{cm}$ e larga $11\,\text{cm}$. Una viene piegata sull'altra perpendicolarmente, formando la figura mostrata. Il perimetro di questa figura, in centimetri, è:
+>
+> **A)** 50 \quad **B)** 60 \quad **C)** 80 \quad **D)** 100 \quad **E)** 120
 
 ![[src_obm_2006_n2_f1__q02.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n2_f1#q02|src_obm_2006_n2_f1__Q02]]
 
 
 
@@ -102,13 +114,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero a due cifre, 5 volte la somma di 5 cifre equivale a 6 volte la somma di 6 cifre scambiata*
+*Numero a due cifre: 5 volte la somma delle cifre è uguale a 6 volte la somma delle cifre scambiate*
 
-> Se un numero a due cifre è $5$ moltiplicato per la somma delle sue cifre, il numero formato dallo scambio delle due cifre è $6$ moltiplicato per la somma delle cifre:
-> 
-> **A) ** 3 \quad **B) ** 5 \quad **C) ** 6 \quad **D) ** 4 \quad **E) ** 7
+> Se un numero di due cifre è $5$ volte la somma delle sue cifre, allora il numero ottenuto scambiando le due cifre è $6$ volte la somma delle cifre moltiplicata per:
+>
+> **A)** 3 \quad **B)** 5 \quad **C)** 6 \quad **D)** 4 \quad **E)** 7
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n2_f1#q03|src_obm_2006_n2_f1__Q03]]
 
 
 
@@ -134,13 +151,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due amici che fanno un ciclo in direzioni opposte, trovano il tempo di attesa*
+*Due amici che percorrono in bici un percorso ad anello in direzioni opposte, trovano il tempo di attesa*
 
-> In giro per una pista ciclabile circolare lunga $45\,\text{km}$ si ritorna sempre al punto di partenza dopo aver girato una volta la pista in una sola direzione. Due amici partono dallo stesso punto con velocità costanti di $20\,\text{km/h}$ e $25\,\text{km/h}$, viaggiando in direzioni opposte. Quando si incontrarono per la prima volta, uno stava viaggiando a $20\,\text{km/h}$ e l'altro, che stava viaggiando a $25\,\text{km/h}$, era diminuito a $20\,\text{km/h}$ e poi aumentato a $25\,\text{km/h}$. Quanto tempo deve aspettare l'amico che arriva per primo al punto di partenza?
-> 
-> **A) ** none \quad **B) ** 10 min \quad **C) ** 12 min \quad **D) ** 15 min \quad **E) ** 18 min
+> Intorno a una pista ciclabile circolare lunga $45\,\text{km}$, percorrendola una volta in un'unica direzione si torna sempre al punto di partenza. Due amici partono dallo stesso punto con velocità costanti pari a $20\,\text{km/h}$ e $25\,\text{km/h}$, muovendosi in direzioni opposte. Quando si incontrano per la prima volta, uno stava viaggiando a $20\,\text{km/h}$ e l'altro, che viaggiava a $25\,\text{km/h}$, era sceso a $20\,\text{km/h}$ e poi era salito a $25\,\text{km/h}$. Quanto tempo deve aspettare l'amico che arriva per primo al punto di partenza l'altro?
+>
+> **A)** nessuno \quad **B)** 10 min \quad **C)** 12 min \quad **D)** 15 min \quad **E)** 18 min
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n2_f1#q04|src_obm_2006_n2_f1__Q04]]
 
 
 
@@ -168,15 +190,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles con angolo BAD=30 gradi, trovare angolo x*
+*Triangolo isoscele con angolo BAD=30 gradi; trovare l'angolo x*
 
 > Nella figura, $AB = AC$, $AE = AD$ e l'angolo $BAD = 30^\circ$. Poi l'angolo $x$ misura:
-> 
-> **A) ** $10^\circ$ \quad **B) ** $20^\circ$ \quad **C) ** $15^\circ$ \quad **D) ** $30^\circ$ \quad **E) ** $5^\circ$
+>
+> **A)** $10^\circ$ \quad **B)** $20^\circ$ \quad **C)** $15^\circ$ \quad **D)** $30^\circ$ \quad **E)** $5^\circ$
 
 ![[src_obm_2006_n2_f1__q05.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n2_f1#q05|src_obm_2006_n2_f1__Q05]]
 
 
 
@@ -202,13 +229,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma di tre naturali consecutivi è pari al loro prodotto; trovare la somma*
+*La somma di tre numeri naturali consecutivi è uguale al loro prodotto; trova la somma*
 
-> La somma di tre numeri naturali consecutivi è uguale al prodotto di questi tre numeri. La somma di questi numeri è:
-> 
-> **A) ** 14 \quad **B) ** 15 \quad **C) ** 18 \quad **D) ** 24 \quad **E) ** 36
+> La somma di tre numeri naturali consecutivi è uguale al prodotto di questi tre numeri. La somma di tali numeri è:
+>
+> **A)** 14 \quad **B)** 15 \quad **C)** 18 \quad **D)** 24 \quad **E)** 36
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n2_f1#q06|src_obm_2006_n2_f1__Q06]]
 
 
 
@@ -233,13 +265,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'età di Neto nel 2006 data la sua età nel 1994 e la somma dell'anno di nascita*
+*L'età di Neto nel 2006, data la sua età nel 1994 e la somma dell'anno di nascita*
 
-> Alla fine del 1994, Neto aveva la metà dell'età di sua nonna. La somma degli anni di nascita è $3844$. Nel 2006, Neto sarà:
-> 
-> **A) ** 55 anni \quad **B) ** 56 anni \quad **C) ** 60 anni \quad **D) ** 62 anni \quad **E) ** 105 anni
+> Alla fine del 1994, Neto aveva la metà dell'età di sua nonna. La somma dei loro anni di nascita è $3844$. Nel 2006, Neto avrà:
+>
+> **A)** 55 anni \quad **B)** 56 anni \quad **C)** 60 anni \quad **D)** 62 anni \quad **E)** 105 anni
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n2_f1#q07|src_obm_2006_n2_f1__Q07]]
 
 
 
@@ -266,15 +302,19 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre quadrati che condividono vertici con due basi verticali, trovare angolo x*
+*Tre quadrati che condividono vertici con due basi verticali: trovare l'angolo x*
 
-> Tre quadrati condividono vertici tra loro e con due basi verticali, come mostrato nella figura. Gli angoli mostrati sono $30^\circ$, $126^\circ$ e $75^\circ$. La misura dell'angolo $x$ è:
-> 
-> **A) ** $39^\circ$ \quad **B) ** $41^\circ$ \quad **C) ** $43^\circ$ \quad **D) ** $44^\circ$ \quad **E) ** $46^\circ$
+> Tre quadrati condividono vertici tra loro e con due basi verticali, come mostrato nella figura. Gli angoli indicati sono $30^\circ$, $126^\circ$ e $75^\circ$. La misura dell'angolo $x$ è:
+>
+> **A)** $39^\circ$ \quad **B)** $41^\circ$ \quad **C)** $43^\circ$ \quad **D)** $44^\circ$ \quad **E)** $46^\circ$
 
 ![[src_obm_2006_n2_f1__q08.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n2_f1#q08|src_obm_2006_n2_f1__Q08]]
 
 
 
@@ -300,13 +340,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*espressione integrale non rappresentante 24*
+*Espressione intera che non rappresenta 24*
 
-> Lasciate che $a$, $b$, $c$ siano numeri interi positivi. Tra le opzioni, l'espressione che **non può ** rappresentare il numero $24$ è:
-> 
-> **A) ** $ab^3$ \quad **B) ** $a^3b$ \quad **C) ** $a^4b^3$ \quad **D) ** $ab^2c^3$ \quad **E) ** $a^4b^3c^4$
+> Siano $a$, $b$, $c$ numeri interi positivi. Tra le opzioni, l'espressione che **non può** rappresentare il numero $24$ è:
+>
+> **A)** $ab^3$ \quad **B)** $a^3b$ \quad **C)** $a^4b^3$ \quad **D)** $ab^2c^3$ \quad **E)** $a^4b^3c^4$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n2_f1#q09|src_obm_2006_n2_f1__Q09]]
 
 
 
@@ -334,15 +379,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrati di conteggio costruiti dalla griglia a punti*
+*Conta i quadrati costruibili a partire da una griglia di punti*
 
-> Il numero di quadrati che possono essere costruiti con vertici sui punti della figura seguente (un array $4\times 4$ di punti disposti in modo che ogni riga abbia 4 punti e ci siano 4 righe):
-> 
-> **A) ** 18 \quad **B) ** 14 \quad **C) ** 9 \quad **D) ** 20 \quad **E) ** 10
+> Il numero di quadrati che si possono costruire con i vertici sui punti della figura sottostante (un array $4\times 4$ di punti disposti in modo che ogni riga contenga 4 punti e ci siano 4 righe):
+>
+> **A)** 18 \quad **B)** 14 \quad **C)** 9 \quad **D)** 20 \quad **E)** 10
 
 ![[src_obm_2006_n2_f1__q10.png]]
 
-**Risposta:** A
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2006_n2_f1#q10|src_obm_2006_n2_f1__Q10]]
 
 
 
@@ -372,13 +422,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Puzzle logico: sei amici, due per trasporto, dedurre chi cavalca cosa*
+*Puzzle logico: sei amici, due per mezzo di trasporto, deducono chi utilizza quale mezzo*
 
-> Sei amici pianificano di viaggiare in coppia, ognuno utilizzando un mezzo di trasporto diverso: aereo, treno e auto. Alexandre accompagna Bento. André viaggia in aereo. Dário non usa il treno. Tomás non viaggia in aereo o in treno. Quale delle seguenti affermazioni è corretta?
-> 
-> Bento viaggia in macchina e Carlos viaggia in aereo. Dário e Carlos viaggiano in auto. **C) ** Tomás viaggia in aereo e André viaggia in aereo. **D) ** Alexandre viaggia in treno e Tomás in auto. André viaggia in treno e Alexandre in auto.
+> Sei amici hanno in programma di viaggiare e lo faranno in coppie, con ciascuna coppia che utilizza un mezzo di trasporto diverso: aereo, treno e auto. Alexandre accompagna Bento. André viaggia in aereo. Dário non usa il treno. Tomás non viaggia in aereo né in treno. Quale delle seguenti affermazioni è corretta?
+>
+> **A)** Bento viaggia in auto e Carlos viaggia in aereo.
+> **B)** Dário e Carlos viaggiano in auto.
+> **C)** Tomás viaggia in aereo e André viaggia in aereo.
+> **D)** Alexandre viaggia in treno e Tomás viaggia in auto.
+> **E)** André viaggia in treno e Alexandre viaggia in auto.
 
-**Risposta:** D
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n2_f1#q11|src_obm_2006_n2_f1__Q11]]
 
 
 
@@ -403,13 +462,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio di superficie di triangolo equilaterale a esagono regolare con lo stesso perimetro*
+*Rapporto tra l'area di un triangolo equilatero e l'area di un esagono regolare aventi lo stesso perimetro*
 
-> Un triangolo equilaterale e un esagono regolare hanno lo stesso perimetro. Il rapporto tra l'area del triangolo e l'area dell'esagono è:
-> 
-> **A) ** $\dfrac{1}{2}$ \quad **B) ** $1$ \quad **C) ** $\dfrac{2}{3}$ \quad **D) ** $\dfrac{3}{2}$ \quad **E) ** $\dfrac{1}{3}$
+> Un triangolo equilatero e un esagono regolare hanno lo stesso perimetro. Il rapporto tra l'area del triangolo e l'area dell'esagono è:
+>
+> **A)** $\dfrac{1}{2}$ \quad **B)** $1$ \quad **C)** $\dfrac{2}{3}$ \quad **D)** $\dfrac{3}{2}$ \quad **E)** $\dfrac{1}{3}$
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n2_f1#q12|src_obm_2006_n2_f1__Q12]]
 
 
 
@@ -435,13 +498,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*GCD di tutti i termini della sequenza a_n = n^2 - n*
+*MCD di tutti i termini della successione a_n = n^2 - n*
 
-> Il più grande divisore comune di tutti i termini della sequenza $a_n = n^2 - n$, per $n = 1, 2, 3, \ldots$, è:
-> 
-> **A) ** 2 \quad **B) ** 3 \quad **C) ** 4 \quad **D) ** 5 \quad **E) ** 6
+> Il massimo comune divisore di tutti i termini della successione $a_n = n^2 - n$, per $n = 1, 2, 3, \ldots$, è:
+>
+> **A)** 2 \quad **B)** 3 \quad **C)** 4 \quad **D)** 5 \quad **E)** 6
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n2_f1#q13|src_obm_2006_n2_f1__Q13]]
 
 
 
@@ -466,13 +534,17 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Samuel ha 3 fratelli in più di sorelle; fratelli contano
+*Samuel ha tre fratelli in più delle sorelle; si contano i fratelli e le sorelle*
 
-> Samuel ha tre fratelli in più di sorelle. Il numero di fratelli (fratelli e sorelle) di Samila, sorella di Samuele, è pari al doppio del numero delle sorelle di Samuele. Il numero di figli (ragazzi e ragazze) che i genitori di Samuele hanno è:
-> 
-> **A) ** 10 \quad **B) ** 13 \quad **C) ** 16 \quad **D) ** 17 \quad **E) ** 20
+> Samuel ha tre fratelli in più rispetto alle sorelle. Il numero di fratelli e sorelle di Samila, la sorella di Samuel, è uguale al doppio del numero delle sorelle di Samuel. Il numero di figli (maschi e femmine) che hanno i genitori di Samuel è:
+>
+> **A)** 10 \quad **B)** 13 \quad **C)** 16 \quad **D)** 17 \quad **E)** 20
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n2_f1#q14|src_obm_2006_n2_f1__Q14]]
 
 
 
@@ -500,15 +572,20 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tangramma con 5 triangoli e 1 quadrato, area ombrata*
+*Tangram con 5 triangoli e 1 quadrato: trova l'area ombreggiata*
 
-> La figura di seguito rappresenta un Tangram (un puzzle cinese) formato da triangoli $5$, $1$ parallelo e $1$ quadrato. Dato che l'area del tangramma è $64\,\text{cm}^2$, quale è l'area, in $\text{cm}^2$, della regione ombreggiata?
-> 
-> **A) ** 7.6 \quad **B) ** 8 \quad **C) ** 10.6 \quad **D) ** 12 \quad **E) ** 21.3
+> La figura sottostante rappresenta un Tangram (un rompicapo cinese) costituito da $5$ triangoli, $1$ parallelogrammi e $1$ quadrati. Sapendo che l'area del Tangram è $64\,\text{cm}^2$, qual è l'area, in $\text{cm}^2$, della regione ombreggiata?
+>
+> **A)** 7.6 \quad **B)** 8 \quad **C)** 10.6 \quad **D)** 12 \quad **E)** 21.3
 
 ![[src_obm_2006_n2_f1__q15.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n2_f1#q15|src_obm_2006_n2_f1__Q15]]
 
 
 
@@ -534,13 +611,18 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 <div class="qlang-split" data-lang="it"></div>
 
 
-*João scrive tutti i numeri a 4 cifre utilizzando solo i numeri 1 e 2; trovare somma*
+*João scrive tutti i numeri di 4 cifre usando solo le cifre 1 e 2; trova la somma*
 
-> João scrive tutti i numeri di cifre $4$ utilizzando solo le cifre $1$ e $2$, e poi le aggiunge tutte. Il valore ottenuto è:
-> 
-> **A) ** 2314 \quad **B) ** 3000 \quad **C) ** 1401 \quad **D) ** 2316 \quad **E) ** 1716
+> João scrive tutti i numeri composti da $4$ cifre utilizzando solo le cifre $1$ e $2$, e poi li somma tutti. Il valore ottenuto è:
+>
+> **A)** 2314 \quad **B)** 3000 \quad **C)** 1401 \quad **D)** 2316 \quad **E)** 1716
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n2_f1#q16|src_obm_2006_n2_f1__Q16]]
 
 
 
@@ -574,21 +656,26 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con lati a, b, c sommati a 1; determinare quale disuguaglianza*
+*Triangolo con lati a, b, c la cui somma è 1; determina quale disuguaglianza vale*
 
-> $a$, $b$, $c$ siano numeri reali positivi con $a + b + c = 1$. Se $a$, $b$, $c$ sono le lunghezze laterali di un triangolo, possiamo concludere che:
-> 
-> **A) ** $0 < |a-b| < \frac{1}{2}$ e $0 < |b-c| < \frac{1}{2}$
-> 
+> Siano $a$, $b$, $c$ numeri reali positivi tali che $a + b + c = 1$. Se $a$, $b$, $c$ sono le lunghezzze dei lati di un triangolo, possiamo concludere che:
+>
+> **A)** $0 < |a-b| < \frac{1}{2}$ e $0 < |b-c| < \frac{1}{2}$
+>
 > **B)** $a < \frac{1}{2}$, $b < \frac{1}{2}$, $c < \frac{1}{2}$
-> 
-> **C) ** $a + b < \frac{1}{2}$ e $c < a + b$
-> 
+>
+> **C)** $a + b < \frac{1}{2}$ e $c < a + b$
+>
 > **D)** $a \le \frac{1}{2}$, $b \le \frac{1}{3}$, $c \le \frac{1}{3}$
-> 
+>
 > **E)** $a \ge \frac{1}{3}$, $b \ge \frac{1}{3}$, $c \ge \frac{1}{3}$
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n2_f1#q17|src_obm_2006_n2_f1__Q17]]
 
 
 
@@ -616,13 +703,20 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare soluzioni a numeri interi positivi per il sistema a+b=c^2, a+b+c=30*
+*Conta le soluzioni in numeri interi positivi del sistema a+b=c^2, a+b+c=30*
 
-> Il numero di soluzioni a numeri interi positivi del sistema $$\begin{cases} a + b = c^2 \\ a + b + c = 30 \end{cases}$$ è:
-> 
-> **A) ** 45 \quad **B) ** 23 \quad **C) ** 24 \quad **D) ** 25 \quad **E) ** 72
+> Il numero di soluzioni in numeri interi positivi del sistema
+> $$\begin{cases} a + b = c^2 \\ a + b + c = 30 \end{cases}$$
+> è:
+>
+> **A)** 45 \quad **B)** 23 \quad **C)** 24 \quad **D)** 25 \quad **E)** 72
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n2_f1#q18|src_obm_2006_n2_f1__Q18]]
 
 
 
@@ -648,13 +742,18 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un numero a due cifre chiamato bonito se decine di cifre > unità; contare bonitos*
+*Un numero a due cifre è detto "bonito" se la cifra delle decine è maggiore di quella delle unità; conta i "bonito"*
 
-> Un numero a due cifre con cifre distinte non zero viene chiamato "bonito" (più bello) se la cifra decina è maggiore della cifra di unità. Il numero dei numeri del bonito è:
-> 
-> **A) ** 72 \quad **B) ** 36 \quad **C) ** 35 \quad **D) ** 64 \quad **E) ** 56
+> Un numero di due cifre con cifre non nulle e distinte è detto "bonito" (carino) se la cifra delle decine è maggiore della cifra delle unità. Il numero di numeri bonito è:
+>
+> **A)** 72 \quad **B)** 36 \quad **C)** 35 \quad **D)** 64 \quad **E)** 56
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n2_f1#q19|src_obm_2006_n2_f1__Q19]]
 
 
 
@@ -680,13 +779,18 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Spreadsheet computa media in esecuzione; trova l'ultima nota inserita da Piralão*
+*Il foglio di calcolo calcola la media mobile; trova l'ultima nota inserita da Piralão*
 
-> Il professore Piralão ha applicato un test ai suoi cinque studenti e, dopo averli corretti, ha inserito i voti in una scheda elettronica che calcola automaticamente la media esecutiva dopo aver inserito ogni grado. I voti dei cinque studenti sono, in ordine crescente: $71, 76, 80, 82, 91$. Si è notato che dopo ogni voce la media corrente è sempre un numero intero. L'ultimo anno che ha frequentato Piralão è stato:
-> 
-> **A) ** 71 \quad **B) ** 76 \quad **C) ** 80 \quad **D) ** 82 \quad **E) ** 91
+> Il professor Piralão ha somministrato un test ai suoi cinque studenti e, dopo averli corretti, ha inserito i voti in un foglio di calcolo elettronico che calcola automaticamente la media progressiva dopo l'inserimento di ogni voto. I voti dei cinque studenti, in ordine crescente, sono: $71, 76, 80, 82, 91$. Si è osservato che, dopo ogni inserimento, la media progressiva era sempre un numero intero. L'ultimo voto che Piralão ha inserito è stato:
+>
+> **A)** 71 \quad **B)** 76 \quad **C)** 80 \quad **D)** 82 \quad **E)** 91
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2006_n2_f1#q20|src_obm_2006_n2_f1__Q20]]
 
 
 
@@ -714,13 +818,20 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Semplificare l'espressione radicale annidata*
+*Semplifica l'espressione con radicali annidati*
 
-> Semplificando l'espressione $$\sqrt{2+\sqrt{3}}\cdot\sqrt{2+\sqrt{2+\sqrt{3}}}\cdot\sqrt{2+\sqrt{2+\sqrt{2+\sqrt{3}}}}\cdot\sqrt{2-\sqrt{2+\sqrt{2+\sqrt{3}}}}$$ otteniamo:
-> 
-> **A) ** $\sqrt{2}$ \quad **B) ** $\sqrt{3}$ \quad **C) ** $1$ \quad **D) ** $2+\sqrt{2}$ \quad **E) ** $2+\sqrt{3}$
+> Semplificazione dell'espressione
+> $$\sqrt{2+\sqrt{3}}\cdot\sqrt{2+\sqrt{2+\sqrt{3}}}\cdot\sqrt{2+\sqrt{2+\sqrt{2+\sqrt{3}}}}\cdot\sqrt{2-\sqrt{2+\sqrt{2+\sqrt{3}}}}$$
+> Si ottiene:
+>
+> **A)** $\sqrt{2}$ \quad **B)** $\sqrt{3}$ \quad **C)** $1$ \quad **D)** $2+\sqrt{2}$ \quad **E)** $2+\sqrt{3}$
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n2_f1#q21|src_obm_2006_n2_f1__Q21]]
 
 
 
@@ -746,13 +857,18 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ludmilson fa le pagine di un libro con numeri a 4 cifre utilizzando solo 1 e 2*
+*Ludmilson sfoglia un libro con numeri a 4 cifre composti solo da 1 e 2*
 
-> Ludmilson numerizza le pagine di un libro consecutivamente a partire dalla pagina $2$, utilizzando solo i numeri $1$ e $2$ per scrivere i numeri di pagina $4$-cifre. Il numero di pagine del libro di Ludmilson è:
-> 
-> **A) ** 1701 \quad **B) ** 702 \quad **C) ** 703 \quad **D) ** 704 \quad **E) ** 705
+> Ludmilson numera le pagine di un libro in modo consecutivo a partire dalla pagina $2$, utilizzando solo le cifre $1$ e $2$ per scrivere i numeri di pagina composti da $4$ cifre. Il numero di pagine nel libro di Ludmilson è:
+>
+> **A)** 1701 \quad **B)** 702 \quad **C)** 703 \quad **D)** 704 \quad **E)** 705
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n2_f1#q22|src_obm_2006_n2_f1__Q22]]
 
 
 
@@ -782,11 +898,18 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 
 *Numeri reali x+y+z=0; trovare il valore dell'espressione*
 
-> Che $x$, $y$, $z$ siano numeri reali non zeri come $x + y + z = 0$. Il valore di $$\left(x^2y^2z^2\right)\left(\frac{1}{x^3y^3}+\frac{1}{x^3z^3}+\frac{1}{y^3z^3}\right)$$ è:
-> 
-> **A) ** 0 \quad **B) ** 1 \quad **C) ** 2 \quad **D) ** 3 \quad **E) ** 4
+> Siano $x$, $y$, $z$ numeri reali non nulli tali che $x + y + z = 0$. Il valore di
+> $$\left(x^2y^2z^2\right)\left(\frac{1}{x^3y^3}+\frac{1}{x^3z^3}+\frac{1}{y^3z^3}\right)$$
+> è:
+>
+> **A)** 0 \quad **B)** 1 \quad **C)** 2 \quad **D)** 3 \quad **E)** 4
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2006_n2_f1#q23|src_obm_2006_n2_f1__Q23]]
 
 
 
@@ -812,13 +935,18 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'orologio digitale mostra l'ora fino al minuto più vicino; contare gli schermi a numeri pari*
+*L'orologio digitale mostra l'ora arrotondata al minuto più vicino; conta i display con cifre pari*
 
-> Un orologio digitale mostra l'ora in ore e minuti utilizzando quattro cifre. Ad esempio, a $00{:}00$ sappiamo che è mezzanotte e a $23{:}59$ appare un minuto prima di mezzanotte. Il numero di volte al giorno che tutte e quattro le cifre mostrate sono pari è:
-> 
-> **A) ** 60 \quad **B) ** 105 \quad **C) ** 180 \quad **D) ** 240 \quad **E) ** 56
+> Un orologio digitale mostra l'ora in ore e minuti utilizzando quattro cifre. Ad esempio, alle $00{:}00$ sappiamo che è mezzanotte, e alle $23{:}59$ mostra un minuto prima di mezzanotte. Il numero di volte al giorno in cui tutte e quattro le cifre visualizzate sono pari è:
+>
+> **A)** 60 \quad **B)** 105 \quad **C)** 180 \quad **D)** 240 \quad **E)** 56
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2006_n2_f1#q24|src_obm_2006_n2_f1__Q24]]
 
 
 
@@ -846,12 +974,17 @@ Samuel ha 3 fratelli in più di sorelle; fratelli contano
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC con triangoli equilaterali ACD e AEB; trovare rapporto BD/FG*
+*Triangolo ABC con i triangoli equilateri ACD e AEB; trovare il rapporto BD/FG*
 
-> Nella figura, $ABC$ è un triangolo arbitrario, e $ACD$ e $AEB$ sono triangoli equilaterali. $F$ e $G$ sono i punti di mezzo di $EA$ e $AC$ rispettivamente. Il rapporto $\dfrac{BD}{FG}$ è:
-> 
-> **A) ** $\dfrac{1}{2}$ \quad **B) ** $1$ \quad **C) ** $\dfrac{3}{2}$ \quad **D) ** $2$ \quad **E) ** Dipende dalle lunghezze laterali di $ABC$.
+> Nella figura, $ABC$ è un triangolo arbitrario, mentre $ACD$ e $AEB$ sono triangoli equilateri. $F$ e $G$ sono rispettivamente i punti medi di $EA$ e $AC$. Il rapporto $\dfrac{BD}{FG}$ è:
+>
+> **A)** $\dfrac{1}{2}$ \quad **B)** $1$ \quad **C)** $\dfrac{3}{2}$ \quad **D)** $2$ \quad **E)** Dipende dalle lunghezze dei lati di $ABC$.
 
 ![[src_obm_2006_n2_f1__q25.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2006_n2_f1#q25|src_obm_2006_n2_f1__Q25]]

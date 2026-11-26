@@ -35,11 +35,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of n numbers of 9999...9 (2023 nine) squared minus one*
+*The sum of n instances of 9999...9 (2023 nove) squared minus one*
 
-> 10,000 minions in a row Krull is a supervillain criminal, but with a good spirit... Today he's upset because he thinks he hasn't been able to steal the moon yet! To relax, he likes to think about mathematical problems. He then goes down to his lab and takes 10,000 minions, his trusted assistants, numbered from 1 to 10,000. Then he decides to line them up in such a way that the smallest of the 9999 absolute value differences between the numbers of two consecutive minions is as large as possible. How much is this difference worth?
+> 10,000 Minions in a Line Krull is a super-villain criminal, but has a good heart... Today he's agitated because he thinks he still hasn't managed to steal the moon! To relax, he likes thinking about math problems. So he goes down to his lab and takes 10,000 Minions—his trusted helpers—numbered from 1 to 10,000. Then he decides to line them up in such a way that the smallest of the 9,999 absolute differences between the numbers of two consecutive Minions is as large as possible. What is the value of this difference?
 
-**Answer:** 2043
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2023_femminile#q01|src_squadre_2023_femminile__Q01]]
 
 
 
@@ -70,11 +75,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of ks dividing 2023 by remainder 43*
+*Number of k such that k divides 2023 with a remainder of 43*
 
-> Even the bad guys leave the tip Krull is so bad that, to skip the line at the cafe, he freezes everyone with his freezing beam and then takes the cup of coffee in the hand of the barista out of the scene. So Krull walks away whistling, but not before he puts a circular coin in the tip jar with a radius of 3 cm. The jar is a straight prism with a regular E hexagon on the side of 10 cm. Assuming the coin has fallen flat on the bottom of the barrel, what is the fraction of area of E on which the centre of the coin can land? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+> Even the bad guys leave a tip. Krull is so bad that, to skip the line at the café, he freezes everyone with his freezing beam and then takes the cup of coffee from the barista, who is stunned by the scene. Then Krull walks away whistling, but not before putting a circular coin with radius √3 cm into the tip jar. The jar is a right prism with a regular hexagonal base of side 10 cm. Assuming the coin landed flat on the bottom of the jar, what fraction of the area of E can the center of the coin have landed on? Answer by giving the sum of the numerator and denominator of the fraction in its lowest terms.
 
-**Answer:** 0019
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2023_femminile#q02|src_squadre_2023_femminile__Q02]]
 
 
 
@@ -105,11 +114,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to eat 7 boxes of 7 types in order*
+*Ways of eating: 7 boxes across 7 types in order*
 
-> Minion by Collatz The Dr. Nefarey's experimenting with minions with a new type of triple dimming gas. If you're locked in a room full of this gas, strange things happen. If the minions are even in number, you halve their number, but if they are odd in number, they multiply until they reach three times the initial population, plus one. This is a peculiar behavior, since it seems that at the end of the process there is always a minion alone! Il Dr. Nefarey wants to figure out how many minions you can start from to get to a point where you have exactly 10 minions. For example, if you put 20 minions in the room, the number of minions immediately becomes 10. At this point the professor is trying to find the smallest 10 initial numbers of minions, greater than 10 and different from 20, which allows you to have exactly 10 minions. What's the sum of these 10 numbers?
+> Collatz Minions Dr. Nefarey is experimenting with minions using a new type of tripling-and-halving gas. If they are locked in a room filled with this gas, strange things happen. If the number of minions is even, their number is halved; but if it is odd, they multiply until they reach three times the initial population plus one. It's a peculiar behavior, since it seems that at the end of the process, only a single minion always remains! Dr. Nefarey wants to figure out from which starting numbers of minions he can begin in order to end up with exactly 10 minions at some point. For example, if he puts 20 minions in the room, the number of minions immediately becomes
+> 10. At this point, the professor is trying to find the ten smallest initial Minions numbers that are greater than 10 and
+> Different from 20, which make it possible to have exactly 10 minions. What is the sum of these 10 numbers?
 
-**Answer:** 1716
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_femminile#q03|src_squadre_2023_femminile__Q03]]
 
 
 
@@ -137,11 +152,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ABC angle with orthocenter on AC perpendicular to BH*
+*Angle ABC with orthocenter on AC, perpendicular to BH*
 
-> After discovering that someone has managed to steal Cheope's pyramid, Krull decides it's finally time to steal the moon! But to do so, he needs a loan from the criminal bank. To test the qualities of super-criminal, at the entrance to the bank the guard asks: "What is the sum of all perfect squares, with at least two digits, such that all the digits except the first one on the left are 4?" What does Krull have to answer to get in and talk to the principal?
+> Guard Test After discovering that someone has managed to steal the Great Pyramid of Giza, Krull decides that it's finally time to steal the Moon! To do so, however, he needs a loan from the Crime Bank. To test his supercriminal credentials, at the bank's entrance the guard asks, "What is the sum of all perfect squares with at least two digits, such that all the digits except the first from the left are 4s?" What must Krull answer in order to get in and speak with the manager?
 
-**Answer:** 0045
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_femminile#q04|src_squadre_2023_femminile__Q04]]
 
 
 
@@ -171,11 +190,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value f_2023(2023) with f0=1/(1-x) iterated*
+*Value of f_2023(2023) with f0=1/(1-x) iterated*
 
-> In the waiting room, Krull meets Vector, who managed to steal the pyramid. Curious, he asks him how he did it. Tronfio, Vector replies: "You must imagine two circumferences Γ1 and Γ2 of rays 7 and 41, respectively, tangent externally at point P. Then you take r a tangent line at both circumferences and Q is the tangent point of r with Γ2 (which is different from P). Given that R is the P-distinguished intersection between the PQ straight and Γ1, consider the tangent line at Γ1 in R. You'd know how I did it if you knew how far the straight s is from the center of Γ2!" "Hey, what? And how would it help me understand?" Answer by the distance of s from the center of Γ2.
+> How to Steal a Pyramid In the waiting room, Krull meets Vector, the one who managed to steal the pyramid. Out of curiosity, he asks him how he did it. Puffed up with pride, Vector replies: "You have to imagine two circles Γ1 and Γ2 with radii 7 and 41 respectively, externally tangent at point P. Then take a line r that is tangent to both circles, and let Q be the point of tangency of r with Γ2 (which is different from P). Let R be the intersection of line PQ with Γ1 that is distinct from P; then consider line s, the tangent to Γ1 at R. It would be clear to you how I managed to do it if you knew how far line s is from the center of Γ2!" "Huh? And how would that help me understand it?" Answer with the distance from s to the center of Γ2.
 
-**Answer:** 4045
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2023_femminile#q05|src_squadre_2023_femminile__Q05]]
 
 
 
@@ -204,13 +228,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum k0 equal to k_100 divisible by 533*
+*Minimum k0 such that k_100 is divisible by 533*
 
-> Krull takes Maria, Gaetana and Agnese in his trust so they can infiltrate Vector's house. He welcomes them with some 2023 Team Competition  National Final  Problem Tests  1/3
-> 
-> Welcome snacks: five slices of pizza, four cheese slides and three sugar beets. The four eat everything and no one fastes. How many ways can they do this, knowing that the spices are not broken down into smaller pieces?
+> Welcome snacks: Krull takes Maria, Gaetana, and Agnese into his care so that they can infiltrate Vector's house. He welcomes them with some Team Competition 2023 – National Final – Problem Statements – 1/3
+>
+> Welcome snacks: 5 slices of pizza, 4 small cheese rolls, and 3 zucchini rolls. The four of them eat everything, and no one goes without food. In how many ways can they do this, knowing that the snacks aren't divided into smaller pieces?
 
-**Answer:** 0486
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2023_femminile#q06|src_squadre_2023_femminile__Q06]]
 
 
 
@@ -239,11 +267,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BFGD area in an equilateral triangle with iterated perpendiculars*
+*Area of BFGD in an equilateral triangle with iterated perpendiculars*
 
-> Gaetana and her wall triangle Maria, Gaetana and Agnese are getting bored at Krull's house and then each of them plant a nail in the wall to have fun... The three nails form an ABC triangle. Gaetana, who loves geometry, takes a nice black pennarello and draws the baricenter G of the triangle on the wall, and later also H, the foot of height relative to A and K the foot of the perpendicular to BC led by G. How much is the GK AH report ? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+> Pastime I: Gaetana and Her Wall Triangle Maria, Gaetana, and Agnese are getting bored at Krull's house, so each of them drives a nail into the wall for fun... The three nails form triangle ABC. Gaetana, who loves geometry, takes a nice black marker and draws the centroid G of the triangle on the wall, and subsequently also H, the foot of the altitude corresponding to A, and K, the foot of the perpendicular from G to BC. What is the value of the ratio GK/AH? Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.
 
-**Answer:** 0180
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_femminile#q07|src_squadre_2023_femminile__Q07]]
 
 
 
@@ -270,11 +302,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance G' from the ABG plane in regular tetrahedron*
+*Distance G' from plane ABG in a regular tetrahedron*
 
-> Where does Agnese get the balls? Agnese finds two jars containing explosive particles. He has to take N balls to go play with the sisters, and he realizes that if he takes them all from the first jar, then in the second there will be 23 times the balls left in the first jar; if he takes them all in the second jar, the balls in the first will be 88 times the ones left in the second jar. What's the minimum number of balls Agnese needs?
+> Pastime II: Where does Agnese get the marbles from? Agnese finds two jars containing explosive marbles. She needs to take N marbles to go play with her sisters, and she realizes that if she takes all of them from the first jar, then in the second jar there will be 23 times as many marbles as remain in the first jar; if, on the other hand, she takes all of them from the second jar, the number of marbles in the first jar will be 88 times the number remaining in the second jar. What is the minimum number of marbles Agnese needs?
 
-**Answer:** 0404
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_femminile#q08|src_squadre_2023_femminile__Q08]]
 
 
 
@@ -307,11 +343,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Gnomes answering yes after 1024 nights cell phone machine
+*Gnomes that answer yes after 1024 nights, cellular automaton*
 
-> Maria is a chess lover, and as time goes on, she decides to play the next solitary, hoping it will last a long time... Place four horses at the top of a chessboard 3×3. Then he moves the horses like in chess, from one vertex to another of a sub-angle 2×3 of the chessboard. Initially, n is equal to 0. At each turn, Maria performs the following operations: she moves each of the horses into a box that she can legally reach, chosen at random, independently, with uniform probability: in this operation it is not a problem if two or more horses are in the same box. Increases n by 1. If there are more than one horse in the same box, he removes all but one. If there is only one horse left at the end of a turn, the game is over. What's n worth, on average, when the game's over?
+> Pastime III: Maria and Chess Maria is a chess enthusiast, and to pass the time she decides to play the following solitaire game, hoping it will last a long time... Place four knights at the corners of a 3×3 chessboard. Then move the knights as in chess, from one corner to another of a 2×3 sub-rectangle of the board. Initially, n = 0. On each turn, Maria performs the following operations: she moves each knight to a square that it can legally reach, chosen at random and independently with uniform probability; in this operation, it does not matter if two or more knights end up on the same square. She increments n by 1. If more than one knight ends up on the same square, she removes all but one of them. If, at the end of a turn, only one knight remains, the game ends. On average, what is the value of n when the game ends?
 
-**Answer:** 1013
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_femminile#q09|src_squadre_2023_femminile__Q09]]
 
 
 
@@ -343,9 +383,16 @@ Gnomes answering yes after 1024 nights cell phone machine
 
 *Almost palindromic codes ABxyzCD divided by 10*
 
-> 10000 minions to be divided Krull must divide 10000 minions into groups, so that they perform different tasks. To do this, he decides to use this tricky procedure: first, number them from 1 to 10,000. Then each minion has to take his number a, write it in base 3 and delete the digits 2. Then, if there are more than two digits 1, he must eliminate all the digits to the left of the second 1 starting from the right; the binary number that is obtained is the number of the team (possibly 0) to which that minion will be assigned. For example, the minion 115 = 110213 is assigned to the team 1012 = 5. How many teams will Krull make this way?
+> 10,000 minions to be divided: Krull must divide 10,000 minions into groups so that they carry out different tasks. To do this, he decides to use this odd procedure: first, he numbers them from 1 to 10,000. Then each minion must take its number a, write it in base 3, and erase the digit 2. Then, if there are more than two 1s, it must delete all the digits that are further to the left than the second 1 counting from the right; the binary number obtained is the team number (possibly
+> 0) which will be assigned to that minion. For example, minion 115 = 110213 is assigned to team 1012 = 5.
+> How many teams will Krull thus form?
 
-**Answer:** 4250
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_femminile#q10|src_squadre_2023_femminile__Q10]]
 
 
 
@@ -376,13 +423,17 @@ Gnomes answering yes after 1024 nights cell phone machine
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of filling out the schema with inequalities 6 numbers 1-9*
+*Ways of filling a grid with inequalities: 6 numbers from 1 to 9*
 
 ![[src_squadre_2023_femminile__prob11.png]]
 
-> Since Krull does not read the story of the good night, Gaetana writes on the board the squares of the natural numbers n from 10 to 2023 (so he writes 100,121,...,4092529). Later, Agnes deletes the last three digits (units, tens, and hundreds) of each written number. So Mary rolls over their covers and looking at the numbers that are left, she wonders, how many natural numbers between 1 and 4092 are missing on the board? Part Two: Implementation
+> Bedtime ritual Since Krull doesn't read the bedtime story, to fall asleep Gaetana writes on the blackboard the squares of the natural numbers n from 10 to 2023 (so she writes 100, 121, ..., 4092529). Next, Agnese erases the last three digits (units, tens, and hundreds) of each number written. Then Maria tucks them in, and, observing the numbers that remain, asks herself: how many natural numbers between 1 and 4092 do not appear on the blackboard? Second part: implementation
 
-**Answer:** 0336
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_femminile#q11|src_squadre_2023_femminile__Q11]]
 
 
 
@@ -411,11 +462,15 @@ Gnomes answering yes after 1024 nights cell phone machine
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value f(5) with f(x) = ax3+bx^2+5x-6 and f(a) = f(b) = f(c) = 1*
+*Find the value of f(5), where f(x) = ax^3 + bx^2 + 5x - 6 and f(a) = f(b) = f(c) = 1*
 
-> The three girls will infiltrate Vector's house under the pretext of selling cookies by making him choose between 82 different types. The minions cook them: they prepare 68 biscuits; one of the first type, two of the second type, and so on, up to the 82nd type of biscuit, of which 82 are baked. The packages were obtained by Dr. Nefarey, who, however, misunderstood the phone and took 83 cookies a day. Knowing that each package contains only one type of cookie, and that all cooked cookies are packaged, what is the minimum number of packages that the minions will need to use?
+> A Sweet Start [⋆] The three girls will slip into Vector's house under the pretext of selling cookies, making him choose from 82 different types. The Minions are in charge of baking them: they prepare trays holding 68 cookies each—one tray of the first type, two trays of the second type, and so on, up to the 82nd type of cookie, for which they bake 82 trays. Dr. Nefarey procured the packages, but he misunderstood on the phone and got packages holding 83 cookies each. Knowing that each package contains cookies of only one type and that all the cookies baked are packaged, what is the minimum number of packages the Minions will have to use?
 
-**Answer:** 6049
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2023_femminile#q12|src_squadre_2023_femminile__Q12]]
 
 
 
@@ -447,11 +502,15 @@ Gnomes answering yes after 1024 nights cell phone machine
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of product of first two < 40 plus one square*
+*Probability: product of two primes <40 plus one squared*
 
-> Vector's square house [⋆⋆] Vector's house is built around the pool where his shark lives: it is an ABC triangle with AB = 20m, AC = 23m and BC = 29m. On the BC side the square BCC1B2 is constructed, in the same part of the plane in which the triangle is located. Similarly, CAA1C2 and ABB1A2 are built. The sides of these three squares form the walls of the house. The air conditioning ducts are B1B2 and C1C2; they intersect A1A2, respectively, in P and Q. The line for P perpendicular to AB and the line for Q perpendicular to AC meet in X, the central air intake, from which Krull will have to descend without being seen by Vector. The AX corridor, which passes over the pool, intersects the circumference circumscribed at ABC again in Y (which is finally the exit!). Determine AX ·XY in m2. Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms. 2023 Team Competition  National Final  Problem Tests  2/3
+> Vector's Square House [⋆⋆] Vector's house is built around the pool where his shark lives: it is triangle ABC with AB = 20 m, AC = 23 m, and BC = 29 m. On side BC, the square BCC1B2 is constructed in the same part of the plane as the triangle. Similarly, CAA1C2 and ABB1A2 are constructed. The sides of these three squares form the walls of the house. The air-conditioning ducts are B1B2 and C1C2; they intersect A1A2 at P and Q, respectively. The line through P perpendicular to AB and the line through Q perpendicular to AC meet at X, the central air intake, from which Krull will have to descend without being seen by Vector. The corridor AX, which passes over the pool, meets the circumcircle of ABC again at Y (which is finally the exit!). Determine AX · XY in m². Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms. Team Competition 2023 – National Final – Problem Statements – 2/3
 
-**Answer:** 0071
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_femminile#q13|src_squadre_2023_femminile__Q13]]
 
 
 
@@ -478,11 +537,15 @@ Gnomes answering yes after 1024 nights cell phone machine
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rocket triangle area with orthocenter and conditions*
+*Area of the biscuit-robot triangle with orthocenter and conditions*
 
-> To celebrate the success of the Krull mission, the three girls head to Luna Park. The target shooting stand was built to minimize the area to hit. The table is made up of a series of adjacent squares; the sum of the lengths of their sides is 2023mm and each side has an integer number of mm. Besides, the squares are all different sizes. What is the minimum total area of the table in mm2?
+> Target Shooting To celebrate the success of the mission, Krull and the three little girls go to the funfair. The target-shooting stall has been set up to minimize the area that can be hit. The target board consists of a series of adjacent squares; the sum of the lengths of their sides is 2023 mm, and each side length is an integer number of millimetres. Moreover, all the squares are of different sizes. What is the minimum total area of the board in mm²?
 
-**Answer:** 0138
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_femminile#q14|src_squadre_2023_femminile__Q14]]
 
 
 
@@ -515,11 +578,16 @@ Gnomes answering yes after 1024 nights cell phone machine
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs ordered (a,b) in 1-2023 with mcm=7×MCD*
+*Ordered pairs (a,b) in 1-2023 with lcm=7*gcd*
 
-> A really cute little Kelvin is taking the restrictive beam into the security room, which is a room with mirrored walls. The layout of the room is such an ABCD quadrilateral ! ABC is 90°! CDA = 90°, BCD = 36°, BC = 2,8m and BD = 1,8m. Kelvin is in the A-top and playing with the restricting beam accidentally shoots by pointing at the BC side, parallel to the floor and the beam, after hitting once the BC wall and once the CD wall, returns to the A-point, closing a triangular path and narrowing the failed Kelvin. What is the total length of the radius in cm?
+> A really cute minion named Kelvin is carrying the constricting beam into the security room, which is a room with mirrored walls. The floor plan of the room is a quadrilateral ABCD such that ∠ABC = 90°, ∠CDA = 90°, ∠BCD = 36°, BC = 2.8 m, and BD = 1.8 m. Kelvin is at vertex A, and while playing with the constricting beam, he accidentally fires it aimed at side BC, parallel to the floor; after hitting wall BC once and wall CD once, the beam returns to point A, closing a triangular path and constricting the unsuspecting Kelvin. What is the total length traveled by the beam, in cm?
 
-**Answer:** 9233
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2023_femminile#q15|src_squadre_2023_femminile__Q15]]
 
 
 
@@ -549,11 +617,15 @@ Gnomes answering yes after 1024 nights cell phone machine
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of not seeing all faces given at 4 on the sixth pitch*
+*Probability: not all sides of the die have been seen at 4 on the sixth roll*
 
-> The Army of Minions is building the rocket that will allow Krull to steal the moon. Meanwhile, the minions Stewart, Kelvin and Bob keep the three girls busy. Maria, Gaetana and Agnese are preparing to play the tea ceremony. They are located on the vertices of a triangle of sides AB = 165 cm, BC = 220 cm and AC = 275 cm. The Stewart and Kelvin minions are respectively in S, the foot of the bishop coming out of A, and in K, the foot of height relative to B. Bob arrives a little late, sitting at the foot of the S-height of the ACS triangle; finally everyone can start sipping tea! How far are Bob and Kelvin in centimeters?
+> The Tea Ceremony The Minion Army is building the rocket that will allow Krull to steal the moon. Meanwhile, the Minions Stewart, Kelvin, and Bob are keeping the three little girls occupied. Maria, Gaetana, and Agnese are about to play at having a tea ceremony. They are located at the vertices of a triangle with sides AB = 165 cm, BC = 220 cm, and AC = 275 cm. The Minions Stewart and Kelvin are located at S, the foot of the angle bisector emanating from A, and at K, the foot of the altitude to side B, respectively. Bob arrives a little late and sits on the foot of the altitude to side S in triangle ACS; finally, everyone can start sipping tea! How far apart are Bob and Kelvin, in cm?
 
-**Answer:** 0044
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_femminile#q16|src_squadre_2023_femminile__Q16]]
 
 
 
@@ -580,11 +652,15 @@ Gnomes answering yes after 1024 nights cell phone machine
 <div class="qlang-split" data-lang="en"></div>
 
 
-*CD length with tangents between two circumferences*
+*Length of common tangent segment between two circles*
 
-> I'm not going to be able to tell you what to do. Nefarey knows that the binary complexity c(n) of a natural number n is the minimum number of powers of 2 needed to write n as the sum or difference of powers of 2. For example c(4) = 1 because 4 = 22, c(15) = 2 because 15 = 24 −20 and c(23) = 3 because 23 = 24 +23 −20. To set the trajectory so that the rocket reaches the moon, it must calculate c(1) + c(2) + c(3) +...+ c(2047) + c(2048). What value does it get?
+> Landing Trajectory [⋆] Dr. Nefarey knows that the binary complexity c(n) of a natural number n is the minimum number of powers of 2 required to write n as a sum or difference of powers of 2. For example, c(4) = 1 since 4 = 2², c(15) = 2 since 15 = 2⁴ − 2⁰, and c(23) = 3, indeed 23 = 2⁴ + 2³ − 2⁰. To set the trajectory so that the rocket reaches the Moon, he must calculate c(1)+c(2)+c(3)+...+c(2047)+c(2048). What value does he obtain?
 
-**Answer:** 4032
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_femminile#q17|src_squadre_2023_femminile__Q17]]
 
 
 
@@ -617,13 +693,17 @@ Gnomes answering yes after 1024 nights cell phone machine
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to fill in the inequalities schema 6 numbers 1-9*
+*Ways to fill in the inequalities table: 6 numbers from 1 to 9*
 
 ![[src_squadre_2023_femminile__prob18.png]]
 
-> The dance show of Maria, Gaetana and Agnese takes place in a theatre whose audience is made up of 2022 rows of 2023 seats each. The numbering is particular and repetitive: in the first row the numbers are, in sequence, the first and 2022-th row of the Tartaglia triangle (in this order), in the second row the numbers are, always in sequence and in this order, the second and 2021-th row of the Tartaglia triangle, and so on. So, for every integer j between 1 and 2022, in the j-eighth row the seats were numbered with the j-eighth row and the (2023−j) -eighth row of the Tartaglia triangle. In addition, chairs that are placed in equal positions of an equal row are orange, while chairs in odd positions of an odd row are blue, and the remaining chairs are yellow. What is the difference between the sum of the numbers assigned to the blue seats and the sum of the numbers assigned to the orange seats?
+> Oddly Numbered Seats The dance performance by Maria, Gaetana, and Agnese takes place in a theatre whose auditorium consists of 2022 rows, each containing 2023 seats. The numbering is peculiar and repetitive: in the first row, the numbers are, in sequence, the first and the 2022nd rows of Tartaglia's triangle (in this order); in the second row, the numbers are, again in sequence and in this order, the second and the 2021st rows of Tartaglia's triangle, and so on. Thus, for each integer j between 1 and 2022, in the jth row the seats have been numbered with the jth row and the (2023−j)th row of Tartaglia's triangle. Furthermore, seats that are in even positions in an even row are orange, while seats in odd positions in an odd row are blue, and the rest are yellow. What is the difference between the sum of the numbers assigned to the blue seats and the sum of the numbers assigned to the orange seats?
 
-**Answer:** 0252
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_femminile#q18|src_squadre_2023_femminile__Q18]]
 
 
 
@@ -651,11 +731,15 @@ Gnomes answering yes after 1024 nights cell phone machine
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of three-digit numbers with average permutations equal to itself*
+*Sum three-digit numbers whose average permutation equals itself*
 
-> After recovering the moon, Krull realizes that it may still be time for the ballet of Maria, Gaetana and Agnese. Then try to enter the return code p(10), where p(x) is the polynomial (x−1)9. However, in a hurry it is confused and considers instead f(x), the function obtained by copying the expression of p(x) and replacing each term of the type anxn with annx. How much is f(10), the number actually entered by Krull? Give each other the first four digits of the result.
+> Return code [⋆⋆] After recovering the moon, Krull realizes that he might still make it to the ballet of Maria, Gaetana, and Agnese. So he tries to enter the return code p(10) right away, where p(x) is the polynomial (x−1)9. However, in his haste, he gets confused and instead considers f(x), the function obtained by copying the expression for p(x) and replacing each term of the form anxn with annx. What is f(10), the number actually entered by Krull? Give the first 4 digits of the result.
 
-**Answer:** 2220
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2023_femminile#q19|src_squadre_2023_femminile__Q19]]
 
 
 
@@ -683,11 +767,15 @@ Gnomes answering yes after 1024 nights cell phone machine
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of cube surface accessible by barbed wire*
+*Surface area of a cube reachable by a string attached to a stick*
 
-> Krull's ransom came too late: the ballet is over and Vector has kidnapped the three girls. However, he left a note in which he defines Q(n) as the sum of natural numbers less than or equal to n that have no prime factors in common with n (e.g. Q(1) = 1, Q(5) = 1+2+3+4 and Q(15) = 1+2+4+7+8+11+13+14). Krull must answer the question left by Vector at the end of the note: how many integers n between 1 and 100 are such that Q(n) is a multiple of n?
+> The Krull ransom came too late: the ballet was over, and Vector had kidnapped the three girls. However, he left a note in which he defines Q(n) as the sum of the natural numbers less than or equal to n that have no prime factors in common with n (for example, Q(1) = 1, Q(5) = 1+2+3+4, and Q(15) = 1+2+4+7+8+11+13+14). To ransom the three girls, Krull must answer the question Vector left at the bottom of the note: how many integers n between 1 and 100 are there such that Q(n) is a multiple of n?
 
-**Answer:** 0102
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_femminile#q20|src_squadre_2023_femminile__Q20]]
 
 
 
@@ -723,10 +811,14 @@ Gnomes answering yes after 1024 nights cell phone machine
 <div class="qlang-split" data-lang="en"></div>
 
 
-Probably Solomon and the brothers saved from 3 fish caught
+*Probability that Salomone and his brothers are saved among 3 salmon caught*
 
-> Algebraic celebrations Krull manages to save the girls and send the moon (along with Vector) back to the sky. It's time to celebrate!! What better way than solving a nice algebra problem? If p(x) = x3 −23x2 +ax−b2 is a polynomial with 3 whole roots (not necessarily distinct) such that a,b are two natural numbers, what values can b assume? Give the sum of all possible values as a response. 2023 Team Competition  National Final  Problem Tests  3/3
-> 
-> Ministry of Education and Merit XXIV National Final Team Competition  Saturday 6 May 2023 Solutions Nr. The problem
+> Algebraic Celebrations: Krull manages to save the girls and send the moon (together with Vector) back up to the sky. Time to celebrate!! What better way than to solve a nice algebra problem? If p(x) = x³ − 23x² + ax − b² is a polynomial with 3 integer roots (not necessarily distinct), such that a and b are two natural numbers, what values can b take? Give as the answer the sum of all possible values. Team Competition 2023 – National Final – Problem Statements – 3/3
+>
+> Ministry of Education and Merit XXIV National Team Competition National Final – Saturday, 6 May 2023 Solutions No. Problem
 
-**Answer:** 0319
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_femminile#q21|src_squadre_2023_femminile__Q21]]

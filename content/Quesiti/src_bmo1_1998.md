@@ -33,13 +33,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*5x5 quadrato latino con diagonali; mostra il punteggio subdiagonale non può essere 20*
+*Punteggio massimo in un quadrato $5 \times 5$ con i numeri da 1 a 5*
 
-> Un quadrato $5 \times 5$ è diviso in 25 quadrati di unità. Uno dei numeri $1, 2, 3, 4, 5$ viene inserito in ciascun quadrato di unità in modo tale che ogni riga, ogni colonna e ciascuna delle due diagonali contenga ciascuno dei cinque numeri una sola volta. La somma dei numeri nei quattro quadrati immediatamente sotto la diagonale dall'alto a sinistra a basso a destra si chiama punteggio.
-> 
-> Mostrate che è impossibile che il punteggio sia 20.
-> 
+> Un quadrato $5 \times 5$ è diviso in 25 quadrati unitari. In ciascuno si inserisce uno dei numeri $1, 2, 3, 4, 5$ in modo che ogni riga, ogni colonna e ciascuna delle due diagonali contenga ciascuno dei cinque numeri una e una sola volta. La somma dei numeri nei quattro quadrati immediatamente sotto la diagonale dall'alto a sinistra al basso a destra si chiama punteggio.
+>
+> Dimostrare che il punteggio non può essere 20.
+>
 > Qual è il punteggio più alto possibile?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_1998#q01|src_bmo1_1998__Q01]]
 
 
 
@@ -64,9 +71,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Recurrence mod 100; trovare il resto della somma dei quadrati mod 8*
+*Resto della somma dei quadrati $a_0^2 + \cdots + a_{1998}^2$ divisa per 8*
 
-> Il valore di $a_0 = 19$, $a_1 = 98$. Per $n \ge 1$, definire $a_{n+1}$ come il rimanente di $a_n + a_{n-1}$ diviso per 100. Qual è il rimanente quando $$a_0^2 + a_1^2 + a_2^2 + \cdots + a_{1998}^2$$ è diviso per 8?
+> Sia $a_0 = 19$, $a_1 = 98$. Per $n \ge 1$, si definisca $a_{n+1}$ come il resto di $a_n + a_{n-1}$ nella divisione per 100. Qual è il resto di
+> $$a_0^2 + a_1^2 + a_2^2 + \cdots + a_{1998}^2$$
+> nella divisione per 8?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_1998#q02|src_bmo1_1998__Q02]]
 
 
 
@@ -89,9 +105,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles ABP; mostrare angoli uguali e punto medio*
+*Dimostrare che $\angle APC = \angle ABC$ e che $M$ è il punto medio di $DA$*
 
-> $ABP$ è un triangolo di uguali braccia con $AB = AP$ e $\angle PAB$ acuta. $PC$ è il piede della perpendicolare da $P$ a $AB$, e $C$ è un punto sulla linea $BP$ sul lato $AB$. (Si può supporre che $C$ non sia sulla linea $AB$.) $D$ completa il parallelo $ABCD$. Indicare che $\angle APC = \angle ABC$ e che $M$ è il punto medio di $DA$.
+> $ABP$ è un triangolo isoscele con $AB = AP$ e $\angle PAB$ acuto. $PC$ è il piede della perpendicolare da $P$ ad $AB$, e $C$ è un punto sulla retta $BP$ dal lato di $AB$. (Si può assumere che $C$ non stia sulla retta $AB$.) $D$ completa il parallelogramma $ABCD$. Dimostrare che $\angle APC = \angle ABC$ e che $M$ è il punto medio di $DA$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_1998#q03|src_bmo1_1998__Q03]]
 
 
 
@@ -116,9 +139,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza unica dei numeri interi positivi; mostrare un termine divisibile per 87*
+*Unicità della successione e divisibilità di $a_{1998}$ per 87*
 
-> Indicare che esiste una sequenza unica di integri positivi $(a_n)$ che soddisfa le seguenti condizioni: $$a_1 = 1, \quad a_2 = 2, \quad a_{n+2} = a_n^2 + a_{n+1} \quad \text{for } n = 1, 2, 3, \ldots$$ e che $a_{1998}$ è divisibile da $87$.
+> Dimostrare che esiste un'unica successione di interi positivi $(a_n)$ che soddisfa le condizioni seguenti:
+> $$a_1 = 1, \quad a_2 = 2, \quad a_{n+2} = a_n^2 + a_{n+1} \quad \text{for } n = 1, 2, 3, \ldots$$
+> e che $a_{1998}$ è divisibile per $87$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_1998#q04|src_bmo1_1998__Q04]]
 
 
 
@@ -141,6 +173,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC con punto medio D su BC; trovare angolo BAC con data condizione angolare*
+*Trovare $\angle BAC$ se $D$ è il punto medio di $BC$ e $\angle ADC = \angle BAC$*
 
-> Nel triangolo $ABC$, $D$ è il punto medio di $BC$ e $E$ è il punto più vicino a $AB$. Dato che $\angle ADC = \angle BAC$, trovare $\angle BAC$.
+> Nel triangolo $ABC$, $D$ è il punto medio di $BC$ ed $E$ è il punto di $AB$ più vicino a $C$. Sapendo che $\angle ADC = \angle BAC$, trovare $\angle BAC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_1998#q05|src_bmo1_1998__Q05]]

@@ -30,11 +30,16 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta massima della somma dei rapporti di intersezione su sottoinsiemi ciclici*
+*Valore massimo della somma dei rapporti di intersezione sugli sottoinsiemi ciclici*
 
-> Che $n$ sia un numero intero superiore a due, e che $A_1, A_2, \ldots, A_{2n}$ sia in coppia un sottoinsieme non vuoto di $\{1, 2, \ldots, n\}$. Determinare il valore massimo di $\sum_{i=1}^{2n} \dfrac{|A_i \cap A_{i+1}|}{|A_i| \cdot |A_{i+1}|}$. (Qui, abbiamo impostato $A_{2n+1} = A_1$. Per un insieme $X$, $|X|$ indica il numero di elementi in $X$.)
+> Sia $n$ un numero intero maggiore di due, e siano $A_1, A_2, \ldots, A_{2n}$ sottoinsiemi non vuoti di $\{1, 2, \ldots, n\}$, a due a due distinti. Determinare il valore massimo di $\sum_{i=1}^{2n} \dfrac{|A_i \cap A_{i+1}|}{|A_i| \cdot |A_{i+1}|}$. (Qui, poniamo $A_{2n+1} = A_1$. Per un insieme $X$, si indichi con $|X|$ il numero di elementi in $X$.)
 
-**Risposta:** n
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cgmo_2010#q01|src_cn_cgmo_2010__Q01]]
 
 
 
@@ -59,11 +64,18 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove ED ≥ FD in triangolo a pari stella con configurazione di circoncircolo*
+*Dimostrare che ED ≥ FD in un triangolo isoscele con configurazione di circonferenza circoscritta*
 
-> In triangolo $ABC$, $AB = AC$. Il punto $D$ è il punto medio del lato $BC$. Il punto $E$ si trova al di fuori del cerchio $ABC$ in modo tale che $CE \perp AB$ e $BE = BD$. Il segmento $BE$ deve essere il punto medio del segmento $M$. Il punto $F$ si trova sull'arco minore $AB$ del circoncircolo del triangolo $ABD$ in modo tale che $MF \perp BE$. Prove che $ED \ge FD$.
+> Nel triangolo $ABC$, $AB = AC$. Il punto $D$ è il punto medio del lato $BC$. Il punto $E$ giace all'esterno della circonferenza $ABC$ in modo che $CE \perp AB$ e $BE = BD$. Sia $M$ il punto medio del segmento $BE$. Il punto $F$ giace sull'arco minore $AB$ della circonferenza circoscritta al triangolo $ABD$ in modo che $MF \perp BE$. Dimostrare che $ED \ge FD$.
 
 ![[src_cn_cgmo_b11_w185__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cgmo_2010#q02|src_cn_cgmo_2010__Q02]]
 
 
 
@@ -89,9 +101,19 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di numeri primi e interi che soddisfano tre condizioni modulari*
+*Esistenza di un numero primo e di un numero intero che soddisfano tre condizioni modulari*
 
-> Prove che per ogni dato numero intero positivo $n$ esiste un primo $p$ e un intero $m$ tale che (a) $p \equiv 5 \pmod{6}$; (b) $p \nmid n$; (c) $n \equiv m^2 \pmod{p}$.
+> Dimostrare che, per ogni intero positivo $n$ dato, esistono un numero primo $p$ e un intero $m$ tali che
+> (a) $p \equiv 5 \pmod{6}$;
+> (b) $p \nmid n$;
+> (c) $n \equiv m^2 \pmod{p}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cgmo_2010#q03|src_cn_cgmo_2010__Q03]]
 
 
 
@@ -116,9 +138,18 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza ponderata dei numeri reali su sfera unità*
+*Dimostrazione della disuguaglianza ponderata per i numeri reali sulla sfera unitaria*
 
-> $x_1, x_2, \ldots, x_n$ (dove $n \ge 2$) siano numeri reali con $x_1^2 + x_2^2 + \cdots + x_n^2 = 1$. Provare che $$\sum_{k=1}^{n} \left(1 - \frac{k}{\sum_{i=1}^{n} i x_i^2}\right)^2 \cdot \frac{x_k^2}{k} \le \left(\frac{n-1}{n+1}\right)^2 \sum_{k=1}^{n} \frac{x_k^2}{k}.$$ determina quando la parità è valida.
+> Siano $x_1, x_2, \ldots, x_n$ (dove $n \ge 2$) numeri reali tali che $x_1^2 + x_2^2 + \cdots + x_n^2 = 1$. Dimostrare che
+> $$\sum_{k=1}^{n} \left(1 - \frac{k}{\sum_{i=1}^{n} i x_i^2}\right)^2 \cdot \frac{x_k^2}{k} \le \left(\frac{n-1}{n+1}\right)^2 \sum_{k=1}^{n} \frac{x_k^2}{k}.$$
+> Determinare quando l'uguaglianza vale.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cgmo_2010#q04|src_cn_cgmo_2010__Q04]]
 
 
 
@@ -143,11 +174,18 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Isoceles triangolo acuto, bisector esterno, perpendicolari, provare BC = PF + AK*
+*Triangolo isoscele acuto, bisettrice esterna, perpendicolari, dimostrare che BC = PF + AK*
 
-> Nel triangolo acuto $ABC$ con $AB = AC$, $M$ deve essere il punto medio del lato $BC$. Il bisettore di angolo esterno di $\angle BAC$ incontra il raggio $BC$ a $P$. I punti $K$ e $F$ si trovano sulla riga $PA$ in modo tale che $MF \perp BC$ e $MK \perp PA$. Prove che $BC = PF + AK$.
+> In un triangolo acuto $ABC$ con $AB = AC$, sia $M$ il punto medio del lato $BC$. La bisettrice esterna dell'angolo $\angle BAC$ incontra il raggio $BC$ nel punto $P$. I punti $K$ e $F$ giacciono sulla retta $PA$ in modo che $MF \perp BC$ e $MK \perp PA$. Dimostrare che $BC = PF + AK$.
 
 ![[src_cn_cgmo_b11_w193__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cgmo_2010#q05|src_cn_cgmo_2010__Q05]]
 
 
 
@@ -171,11 +209,16 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massima dimensione di un insieme di permutazioni senza proprietà triple all-between*
+*Dimensione massima di un insieme di permutazioni privo della proprietà di tripla all-between*
 
-> $n$ sia un numero intero superiore o uguale a 1. Per una permutazione $p = (p_1, p_2, \ldots, p_n)$ di $(1, 2, \ldots, n)$, diciamo che $j$ si trova tra $i$ e $k$ se $i < j < k$ o $k < j < i$. (Per esempio, nella permutation $(1, 3, 2, 4)$, $3$ si trova tra $1$ e $4$, e $3$ non si trova tra $1$ e $2$.) Sia $S = \{p^{(1)}, p^{(2)}, \ldots, p^{(m)}\}$ un insieme di $m$ permutations distinte di $(1, 2, \ldots, n)$ in modo tale che tra ogni tre numeri distinti in $\{1, 2, \ldots, n\}$, uno di questi numeri non si trovi tra gli altri due in ogni permutation $p \in S$. Determinare il valore massimo di $m$.
+> Sia $n$ un intero maggiore o uguale a 1. Per una permutazione $p = (p_1, p_2, \ldots, p_n)$ di $(1, 2, \ldots, n)$, si dice che $j$ giace tra $i$ e $k$ se $i < j < k$ oppure $k < j < i$. (Ad esempio, nella permutazione $(1, 3, 2, 4)$, $3$ giace tra $1$ e $4$, e $3$ non giace tra $1$ e $2$.) Sia $S = \{p^{(1)}, p^{(2)}, \ldots, p^{(m)}\}$ un insieme di $m$ permutazioni distinte di $(1, 2, \ldots, n)$ tale che, tra ogni tre numeri distinti in $\{1, 2, \ldots, n\}$, uno di questi numeri non giace tra gli altri due in ogni permutazione $p \in S$. Determinare il valore massimo di $m$.
 
-**Risposta:** $2^{n-1}$
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cgmo_2010#q06|src_cn_cgmo_2010__Q06]]
 
 
 
@@ -199,8 +242,13 @@ level: China Girls' Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Meno dispari n > 5 espressibili come m^2 + k^2 + (k+1)^2 in due modi con termini distinti*
+*Il più piccolo numero dispari n > 5 esprimibile come m^2 + k^2 + (k+1)^2 in due modi con termini distinti*
 
-> Determinare il numero minimo odd $n > 5$ che soddisfa le seguenti condizioni: ci sono interi positivi $m_1, n_1, m_2, n_2$ in modo che $n = m_1^2 + n_1^2 + (n_1 + 1)^2 = m_2^2 + n_2^2 + (n_2 + 1)^2$ e $m_1, n_1, m_2, n_2$ siano tutti diversi tra loro.
+> Determinare il numero dispari minimo $n > 5$ che soddisfa le seguenti condizioni: esistono numeri interi positivi $m_1, n_1, m_2, n_2$ tali che $n = m_1^2 + n_1^2 + (n_1 + 1)^2 = m_2^2 + n_2^2 + (n_2 + 1)^2$ e $m_1, n_1, m_2, n_2$ siano tutti distinti tra loro.
 
-**Risposta:** 261
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cgmo_2010#q07|src_cn_cgmo_2010__Q07]]

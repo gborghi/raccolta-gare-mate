@@ -35,11 +35,18 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cutting square cake into equal parts*
+*Cut a square cake into equal pieces*
 
-> For his birthday, Solomon wants to cut the side-shaped cake into four pieces so that all the pieces are different, either in size or shape. The cuts must follow the lines of the square. Solomon wants an equal number of cherries on each side. **Make a drawing of how to cut it.**
+> For his birthday, Salomone wants to cut the cake shown on the side into four pieces so that all the pieces are different, either in size or in shape. The cuts must follow the lines of the grid. Salomone wants the same number of cherries on each piece. **Indicate his diagram showing how he should cut it.**
 
 ![[src_bocconi_finaleint_2011_g1__q01.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q01|src_bocconi_finaleint_2011_g1__Q01]]
 
 
 
@@ -65,13 +72,18 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Black bags in boxes, maximum by box*
+*Black beads in boxes, maximum per box*
 
-> Bigio has four black and four white balls. It also has four boxes. He puts two balls in each box. Since it's rather disgusting, the number of black beans (noires) that you've indicated on each box is false. We know there's more white balls in the last box on the right than in the last box on the left. Tell me how many black balls you put in each box.
+> Bigio has 4 black marbles and 4 white marbles. He also has 4 boxes. He puts two marbles in each box. Since he's rather mischievous, the number of black marbles he has indicated on each box is incorrect. We know that there are more white marbles in the last box on the right than in the last box on the left. **Say how many black marbles he put in each box.**
 
 ![[src_bocconi_finaleint_2011_g1__q02.png]]
 
-**Answer:** 1120
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q02|src_bocconi_finaleint_2011_g1__Q02]]
 
 
 
@@ -97,13 +109,18 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 <div class="qlang-split" data-lang="en"></div>
 
 
-Order to extract keys from Father Benedict
+*Order for the Extraction of Keys by Father Benedetto*
 
-> Father Benedict put his keys in a box. When the end of a key enters the screwdriver of another key, the latter is locked and cannot be removed from the box. For example, to extract key 7, you need to first extract key 6 that blocks it. Instead, key 2 goes over key 3 and doesn't block it. Similarly, key 6 passes over key 8 and does not block it. If Father Benedict wants all his keys back, in what order should he take them out of the box?
+> Father Benedetto has placed his keys in a box. When the end of one key enters the groove of another key, the latter is locked in place and cannot be removed from the box. For example, to remove key 7, one must first remove key 6, which is blocking it. Key 2, however, passes over key 3 and does not block it. Similarly, key 6 passes over key 8 and does not block it. If Father Benedetto wants to retrieve all his keys, **in what order must he remove them from the box?**
 
 ![[src_bocconi_finaleint_2011_g1__q03.png]]
 
-**Answer:** 83142675
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q03|src_bocconi_finaleint_2011_g1__Q03]]
 
 
 
@@ -129,13 +146,18 @@ Order to extract keys from Father Benedict
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fourth stamp value and adhesives*
+*Determine the value of the fourth stamp and how many to affix*
 
-> The Mathematics Country post offices issue stamps with four different values. No more than two copies of the same stamp shall ever be affixed to an envelope. Three of the stamp values issued are $1c$, $3c$ and $9c$. The fourth value allows you to free up an envelope for any integer total value less than or equal to 80 cents. To send a briefcase of up to 20 grams by fast mail, it must be redeemed at a value of 58 cents. Enter the value of the fourth stamp and write under each stamp how many copies of that stamp are to be affixed to the envelope for that shipment.
+> The post offices of the Country of Mathematics issue stamps with four different denominations. No more than two copies of the same stamp may ever be affixed to an envelope. Three of the denominations of the stamps issued are $1c$, $3c$, and $9c$. The fourth denomination makes it possible to postage-stamp an envelope for any integer total value less than or equal to 80 cents. To send an envelope weighing up to 20 grams by express mail, it must be postage-stamped with a value of 58 cents. **Indicate the value of the fourth stamp, and below each stamp write how many copies of that stamp must be affixed to the envelope for this shipment.**
 
 ![[src_bocconi_finaleint_2011_g1__q04.png]]
 
-**Answer:** 27 cents; 1102 (2011 reversed)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q04|src_bocconi_finaleint_2011_g1__Q04]]
 
 
 
@@ -159,11 +181,16 @@ Order to extract keys from Father Benedict
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum total of four-sided tokens*
+*Maximum total number of four-sided tokens*
 
-> Caso plays with four chips whose faces are numbered from 1 to 8 (one digit per face). Throw the tokens out the first time and you get: $6$, $1$, $4$ and $3$ (the other faces are hidden). He throws them a second time and gets $1$, $3$, $5$ and $7$. Throw them out a third time and you get $3$, $7$, $2$ and $6$. The total of each launch is therefore $14$, $16$ and $18$ respectively. **If you throw them away a fourth time, what is the maximum total you will get? **
+> Caso plays with four tokens whose faces are numbered from 1 to 8 (one digit per face). He tosses the tokens once and gets: $6$, $1$, $4$, and $3$ (the other faces are hidden). He tosses them a second time and gets $1$, $3$, $5$, and $7$. He tosses them a third time and gets $3$, $7$, $2$, and $6$. The total for each toss is therefore, respectively, $14$, $16$, and $18$. **If he tosses them a fourth time, what will be the maximum total he can get?**
 
-**Answer:** 23
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q05|src_bocconi_finaleint_2011_g1__Q05]]
 
 
 
@@ -191,11 +218,16 @@ Order to extract keys from Father Benedict
 
 *Four operations with nine distinct digits*
 
-> Toto had set up four operations, but he stained the result with ink. The first three are right. The fourth is such that the division gives an integer result and the divisor is different from $1$. Enter a digit from 1 to 9 in each box using all nine digits. In each line the figures in each box must be ordered from left to right in descending order.**
+> Toto had set up four operations, but smeared the result of the last one with ink. The first three are correct. The fourth is such that the division yields an integer result and the divisor is different from $1$. **Write a digit from 1 to 9 in each box, using all nine digits. On each line, the digits written in the boxes must be arranged from left to right in descending order.**
 
 ![[src_bocconi_finaleint_2011_g1__q06.png]]
 
-**Answer:** 2
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q06|src_bocconi_finaleint_2011_g1__Q06]]
 
 
 
@@ -220,11 +252,18 @@ Order to extract keys from Father Benedict
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five numbers missing from the Ottavio solid*
+*Five missing numbers on Ottavio's solid*
 
-> The Octavian solid has eight faces, each of which is a triangle. A number from $1$ to $8$ must be written on each face, using all of them. The sum of the numbers written on each quadruple of triangles with a common vertex shall be the same. **Write out the five missing numbers.**
+> Ottavio's solid has eight faces, each of which is a triangle. A number from $1$ to $8$ must be written on each face, using all of them. The sum of the numbers written on each set of four triangles sharing a common vertex must be the same. **Write the five missing numbers.**
 
 ![[src_bocconi_finaleint_2011_g1__q07.png]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q07|src_bocconi_finaleint_2011_g1__Q07]]
 
 
 
@@ -250,13 +289,18 @@ Order to extract keys from Father Benedict
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum scrap with two straight cuts*
+*Maximum offcuts with two straight cuts*
 
-> Augustus has an old shirt that he laid on the table. By making two straight cuts, she cut it into a number of cloth sheets. For example, if he had cut it as shown in the figure he would have got 4 sleeves; the strip the shirt provides two sleeves, as it passes through the openings of the two sleeves and then the two faces of the shirt form two separate pieces. Assuming Augustus is not authorized to move the slices cut between one cut and another or to fold the shirt, how many slices can he get with two slices on straight cuts? Draw these cuts on the figure.**
+> Augusto has an old T-shirt that he has laid out on the table. By making two straight cuts, he has cut it into a certain number of pieces of fabric. For example, if he had cut it as indicated in the figure, he would have obtained 4 pieces; the band of the T-shirt yields two pieces, since it passes through the openings of the two sleeves and therefore the two sides of the T-shirt form two separate pieces. **Assuming that Augusto is not allowed to move the pieces cut between one cut and the next, nor to fold the T-shirt, what is the maximum number of pieces he can obtain with two straight cuts? Draw these cuts on the figure.**
 
 ![[src_bocconi_finaleint_2011_g1__q08.png]]
 
-**Answer:** 7
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q08|src_bocconi_finaleint_2011_g1__Q08]]
 
 
 
@@ -281,11 +325,18 @@ Order to extract keys from Father Benedict
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four pieces of the round Clodovico vase*
+*Four pieces of Clodovico's vase with round shapes*
 
-> Clovis had a beautiful vase (see figure), but he accidentally broke it into four pieces. This vessel was made up of eight motifs, four squares and four rounds. Each of the four pieces contains a square pattern and a round pattern, and the breaks occurred only along the dotted lines. **The lines of breakage of the vessel** are drawn in thicker strips on the figure (front: front, rear: back, left: left, droite: right).
+> Clodovico had a nice vase (see the figure), but he accidentally broke it into four pieces. This vase consisted of eight motifs—four square and four round. Each of the four pieces contains one square motif and one round motif, and the breaks occurred only along the dashed lines. **Draw the vase's break lines in thicker lines on the figure** (avant: front, arrière: back, gauche: left, droite: right).
 
 ![[src_bocconi_finaleint_2011_g1__q09.png]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q09|src_bocconi_finaleint_2011_g1__Q09]]
 
 
 
@@ -309,11 +360,16 @@ Order to extract keys from Father Benedict
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers that Apollonia can read from 323*
+*Numbers that Apollonia can read starting from 323*
 
-> Apollonia is playing a math game. He writes a number, on the side of it he can read the same numbers in different possible order, and so on until he writes $'1'$. For example, it starts by writing $'323'$, then writes $'5'$ on the side, because in $'323'$ it reads the following different $4$ numbers: $2$, $30$, $32$ and $323$ (but not $33$, as it is necessary that the digits that make up the number read are placed next to each other). Then it starts again with $'5'$, in which it can read only the number $5$, then on the side of it it writes $'1'$, and stops. She then wrote three numbers below: $'323'$, $'5'$, $'1'$. Today, playing her game, Apollonia wrote $4$ numbers. **What is the smallest number from which it can be started? **
+> Apollonia is playing a mathematical game. She writes a number; next to it, she can read the same digits in various possible orders, and so on until she writes $'1'$. For example, she starts by writing $'323'$, then writes $'5'$ next to it, because in $'323'$ she reads the following $4$ different numbers: $2$, $30$, $32$, and $323$ (but not $33$, since the digits that make up the number read must be placed one after another). Then she starts over with $'5'$, in which she can read only the number $5$; therefore, next to it she writes $'1'$ and stops. Thus, she has written three numbers in succession: $'323'$, $'5'$, $'1'$. Today, while playing her game, Apollonia has written $4$ numbers. **What is the smallest number she could have started with?**
 
-**Answer:** 1230
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q10|src_bocconi_finaleint_2011_g1__Q10]]
 
 
 
@@ -337,11 +393,16 @@ Order to extract keys from Father Benedict
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum weight of luggage Mr and Mrs Leggeri
+*Minimum baggage weight for Mr. and Mrs. Leggeri*
 
-> When a passenger flies with the airline AIR-MATHS, any kilogram of his personal luggage above a certain weight $P$ shall be taxed. The baggage of Mr and Mrs LEGGERI weighs in all $58$ kilos. LEGGERI baggage had to pay $11 €$ in full. The baggage of Mr and Mrs PESANTI also weighs a total of $58$ kg, but the baggage of Mr and Mrs PESANTI had to pay $20 €$. **What is the minimum weight of $P$ in kilograms? **
+> When a passenger flies with the airline AIR-MATHS, every kilogram of their personal baggage above a certain weight $P$ is subject to a charge. The luggage of Mr. and Mrs. LEGGERI weighs a total of $58$ kilograms. The LEGGERI luggage had to pay $11 €$ in total. The luggage of Mr. and Mrs. PESANTI also weighs a total of $58$ kilograms, but the PESANTI luggage had to pay $20 €$. **What is the minimum weight $P$ in kilograms?**
 
-**Answer:** 18 kilograms
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Inequalities]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q11|src_bocconi_finaleint_2011_g1__Q11]]
 
 
 
@@ -367,13 +428,18 @@ Minimum weight of luggage Mr and Mrs Leggeri
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most bees in the magic hive*
+*Massimo bees in the magical hive*
 
-> The figure represents the section of a hive. At each of the $24$ vertices there are from $1$ to $6$ bees. The bees at the $6$ vertices of each hexagon shall be in different numbers. **What is the maximum number of bees in the hive? **
+> The figure shows a cross-section of a honeycomb. At each of the $24$ vertices, there are from $1$ to $6$ bees. The number of bees at the $6$ vertices of each hexagon must be different. **What is the maximum number of bees in the hive?**
 
 ![[src_bocconi_finaleint_2011_g1__q12.png]]
 
-**Answer:** 92
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q12|src_bocconi_finaleint_2011_g1__Q12]]
 
 
 
@@ -398,11 +464,18 @@ Minimum weight of luggage Mr and Mrs Leggeri
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sharing is shown in 5 parts with overlay*
+*Divide the figure into 5 parts with overlap*
 
-> Divide this figure into five overlapping parts according to the lines of squaring. The overlap of two parts may require one of the two to be overturned.
+> Divide this figure into five parts that can be superimposed according to the grid lines. Superimposing two parts may require one of them to be flipped.
 
 ![[src_bocconi_finaleint_2011_g1__q13.png]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q13|src_bocconi_finaleint_2011_g1__Q13]]
 
 
 
@@ -426,11 +499,16 @@ Minimum weight of luggage Mr and Mrs Leggeri
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum remaining pieces 8x8 chessboard with 3x3 squares
+*Minimum number of pieces remaining on an 8x8 board with 3x3 squares*
 
-> In the game of chess, there's no more than one piece in every cell. At the end of a match the remaining pieces are arranged in such a way that there are exactly four pieces per square $3 \times 3$ on each side of the chessboard $8 \times 8$. **In total, how many pieces are left, at least? **
+> In chess, each square holds at most one piece. At the end of a game, the arrangement of the remaining pieces is such that there are exactly four pieces in each $3 \times 3$ square on each side of the chessboard $8 \times 8$. **In total, what is the minimum number of pieces remaining?**
 
-**Answer:** 22
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q14|src_bocconi_finaleint_2011_g1__Q14]]
 
 
 
@@ -456,13 +534,18 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Surface not crossed by any square segment*
+*Area not intersected by any line segment in a square*
 
-> The figure represents the different apertures of a camera device. We traced all the segments that connect two points of a regular square separated from each other by $7$ units on a contour of a square or sides by measuring $6$ units. **At the centre, what is the area that is not crossed by any segment?** Answer in the form of an irreducible fraction of the total area (that of the $6 \times 6$ square). Careful, the eye can deceive.
+> The figure shows the various apertures of a camera device. We have drawn all the line segments that join two points of a regular grid spaced $7$ units apart on the perimeter of a square or on its sides, which measure $6$ units. **At the center, what is the area that is not intersected by any line segment?** Answer in the form of an irreducible fraction of the total area (that of the square $6 \times 6$). Be careful—the eye can deceive.
 
 ![[src_bocconi_finaleint_2011_g1__q15.png]]
 
-**Answer:** $\frac{101}{315}$
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q15|src_bocconi_finaleint_2011_g1__Q15]]
 
 
 
@@ -488,9 +571,14 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 
 *Maximum regions with 2011 anti-segments in the plan*
 
-> A $AB$ anti-segment is the part of the $AB$ straight (taken on its outer side) of the $[AB]$ segment (taken on that straight side) since that segment is of no length (except when an anti-segment is composed of two hill-shaped halves). If $3$ anti-segments are plotted on a plane, they can divide the plane, at most, into $4$ regions. **In how many regions, at most, can we divide a plan by tracing anti-segments on it $2011$**
+> An anti-segment $AB$ is the part of the straight line $AB$ (taken on its exterior) of the segment $[AB]$ (taken on that line), provided that such a segment has non-zero length (except when an anti-segment consists of two collinear rays). If you draw $3$ anti-segments on a plane, they can divide the plane into at most $4$ regions. **Into at most how many regions can we divide a plane by drawing $2011$ anti-segments on it?**
 
-**Answer:** 2 021 056
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_induzione|Induction]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q16|src_bocconi_finaleint_2011_g1__Q16]]
 
 
 
@@ -514,11 +602,16 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little cubes intersected by a perpendicular diagonal plane of the 2011 cube*
+*Small cubes intersected by a perpendicular plane—diagonal of the cube 2011*
 
-> A large cube $2011 \times 2011 \times 2011$ is composed of $8.132.727.331$ identical small cubes. A plane perpendicular to a diagonal of the cube passes through its center. **How many small cubes does it intersect? **
+> A large cube $2011 \times 2011 \times 2011$ is made up of $8.132.727.331$ identical small cubes. A plane perpendicular to a diagonal of the cube passes through its center. **How many small cubes does it intersect?**
 
-**Answer:** 9 099 271
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q17|src_bocconi_finaleint_2011_g1__Q17]]
 
 
 
@@ -544,10 +637,15 @@ Minimum remaining pieces 8x8 chessboard with 3x3 squares
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Radio ratio small circle and distance centers, owl head*
+*Ratio of the radius of the small circle to the distance between the centers, owl's head*
 
-> The figure represents an owl head, whose eyes are symmetrical relative to the vertical axis. In each eye: $i)$ each side of the quadrilateral is tangent to the small circle; $ii)$ each vertex of the quadrilateral is located on the large circle; $iii)$ the radius of the large circle is $7$ times greater than the distance between the centers of the two circles (note that the figure does not meet this ratio). What is the ratio of the radius of the small circle to the distance between the centers of the two circles in each eye?
+> The figure shows an owl's head, whose eyes are symmetric with respect to the vertical axis. In each eye: $i)$ each side of the quadrilateral is tangent to the small circle; $ii)$ each vertex of the quadrilateral lies on the large circle; $iii)$ the radius of the large circle is $7$ times greater than the distance between the centers of the two circles (note that the figure does not reflect this proportion). **What is the ratio of the radius of the small circle to the distance between the centers of the two circles, in each eye?** Answer in the form of an irreducible fraction.
 
 ![[src_bocconi_finaleint_2011_g1__q18.png]]
 
-**Answer:** $\frac{24}{5}$
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finaleint_2011_g1#q18|src_bocconi_finaleint_2011_g1__Q18]]

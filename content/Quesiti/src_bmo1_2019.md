@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per posizionare cinque moltipli a due cifre di 3 sulla lavagna*
+*Modi di scrivere cinque multipli di $3$ di due cifre che usano ogni cifra una volta*
 
-> Una lista di cinque interi positivi a due cifre è scritta in ordine crescente su una lavagna. Ciascuno dei cinque numeri interi è un multiple di $3$, e ogni cifra $0,1,2,3,4,5,6,7,8,9$ appare esattamente una volta sulla lavagna. In quanti modi si può farlo? Si noti che un numero a due cifre non può iniziare con la cifra $0$.
+> Una lista di cinque interi positivi di due cifre è scritta in ordine crescente su una lavagna. Ciascuno dei cinque interi è un multiplo di $3$, e ciascuna cifra $0,1,2,3,4,5,6,7,8,9$ compare esattamente una volta sulla lavagna. In quanti modi si può fare? Si noti che un numero di due cifre non può cominciare con la cifra $0$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2019#q01|src_bmo1_2019__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine n per il quale esiste un anello di interi n*
+*Quanti $n$ fra $3$ e $2018$ ammettono un $n$-anello*
 
-> Per ogni intero positivo $n \ge 3$, definiamo un $n$-anello come un'arrangiamento circolare di integri positivi $n$ (non necessariamente distinti) in modo tale che il prodotto di ogni tre integri vicini sia $n$. Determinare il numero di integri $n$ nell'intervallo $3 \le n \le 2018$ per i quali è possibile formare un anello $n$.
+> Per ogni intero positivo $n \ge 3$, si definisce un $n$-anello come una disposizione circolare di $n$ interi positivi (non necessariamente distinti) tale che il prodotto di ogni tre interi vicini sia $n$. Determinare il numero di interi $n$ nell'intervallo $3 \le n \le 2018$ per cui è possibile formare un $n$-anello.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2019#q02|src_bmo1_2019__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti i prodotti T da due coppie che differiscono di 9 e 6*
+*Valori possibili del prodotto comune $T$*
 
-> Ares moltiplica due numeri interi che differiscono di $9$. Grace moltiplica due enti che differiscono di $6$. Essi ottengono lo stesso prodotto $T$. Determinare tutti i possibili valori di $T$.
+> Ares moltiplica due interi che differiscono di $9$. Grace moltiplica due interi che differiscono di $6$. Ottengono lo stesso prodotto $T$. Determinare tutti i valori possibili di $T$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2019#q03|src_bmo1_2019__Q03]]
 
 
 
@@ -106,11 +127,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equità d'angolo in semicircolo con linee tangenti che si incontrano*
+*Dimostrare che $\angle EFD = \angle ACD + \angle ECB$*
 
-> Il $\Gamma$ deve essere un semicircolo di diametro $AB$. Il punto $C$ si trova sul diametro $AB$ e i punti $E$ e $D$ si trovano sull'arco $BA$, con $E$ tra $B$ e $D$. Lasciate che i tangenti di $\Gamma$ a $D$ e $E$ si incontrino a $F$. Supponiamo che $\angle ACD = \angle ECB$.
-> 
-> Prove che $\angle EFD = \angle ACD + \angle ECB$.
+> Sia $\Gamma$ una semicirconferenza di diametro $AB$. Il punto $C$ sta sul diametro $AB$ e i punti $E$ e $D$ stanno sull'arco $BA$, con $E$ fra $B$ e $D$. Le tangenti a $\Gamma$ in $D$ e in $E$ si incontrano in $F$. Si supponga che $\angle ACD = \angle ECB$.
+>
+> Dimostrare che $\angle EFD = \angle ACD + \angle ECB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2019#q04|src_bmo1_2019__Q04]]
 
 
 
@@ -133,9 +161,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca le dimensioni di due cilindri simili dati tre somme*
+*Dimensioni di due cilindri simili con somme di altezze, aree e volumi date*
 
-> Due cilindri solidi sono matematicamente simili. La somma delle loro altezze è $1$. La somma delle loro superfici è $8\pi$. La somma dei loro volumi è $2\pi$. Trova tutte le possibilità per le dimensioni di ciascun cilindro.
+> Due cilindri solidi sono matematicamente simili. La somma delle loro altezze è $1$. La somma delle loro aree superficiali è $8\pi$. La somma dei loro volumi è $2\pi$. Trovare tutte le possibilità per le dimensioni di ciascun cilindro.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2019#q05|src_bmo1_2019__Q05]]
 
 
 
@@ -158,6 +193,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Migliore potenza di 10 divisioni dei viaggi di ritorno della formica*
+*La massima potenza di $10$ che divide il numero dei percorsi di Ada*
 
-> Ada la formica inizia a un punto $O$ su un piano. All'inizio di ogni minuto sceglie Nord, Sud, Est o Ovest, e avanza 1 metro in quella direzione. Alla fine del 2018 si ritrova a $O$. Che il numero di viaggi possibili che avrebbe potuto fare sia $n$. Qual è la potenza più alta di $10$ che divide $n$?
+> La formica Ada parte da un punto $O$ di un piano. All'inizio di ogni minuto sceglie nord, sud, est o ovest, e avanza di 1 metro in quella direzione. Alla fine di 2018 minuti si ritrova in $O$. Sia $n$ il numero di percorsi possibili che avrebbe potuto fare. Qual è la massima potenza di $10$ che divide $n$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2019#q06|src_bmo1_2019__Q06]]

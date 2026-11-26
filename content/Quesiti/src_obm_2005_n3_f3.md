@@ -33,11 +33,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prodotti palindromici di numero di punito*
+*Prodotti palindromi di numeri repunit*
 
-> Un numero naturale si chiama palindromo se si legge lo stesso avanti e indietro. Ad esempio, 481184, 131 e 2 sono palindromi.
-> 
-> Trova tutte le coppie di integri positivi $(m, n)$ in modo tale che $$\underbrace{11\!1\ldots1}_{m\text{ ones}}\cdot\underbrace{11\!1\ldots1}_{n\text{ ones}}$$ sia un palindromo.
+> Un numero naturale si dice palindromo se si legge allo stesso modo da sinistra a destra e da destra a sinistra. Ad esempio, 481184, 131 e 2 sono palindromi.
+>
+> Trovare tutte le coppie di interi positivi $(m, n)$ tali che
+> $$\underbrace{11\!1\ldots1}_{m\text{ ones}}\cdot\underbrace{11\!1\ldots1}_{n\text{ ones}}$$
+> è un palindromo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n3_f3#q01|src_obm_2005_n3_f3__Q01]]
 
 
 
@@ -62,9 +71,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La minima costante C nell'inequità di potenza simmetrica per cinque variabili*
+*La più piccola costante C nell'ineguaglianza di potenza simmetrica per cinque variabili*
 
-> Trova il numero reale più piccolo $C$ per il quale l'ineguaglianza $$C\!\left(x_1^{2005}+x_2^{2005}+x_3^{2005}+x_4^{2005}+x_5^{2005}\right)\ge x_1 x_2 x_3 x_4 x_5\left(x_1^{125}+x_2^{125}+x_3^{125}+x_4^{125}+x_5^{125}\right)^{16}$$ si applica a tutti i numeri reali positivi $x_1, x_2, x_3, x_4, x_5$.
+> Trovare il più piccolo numero reale $C$ per cui la disuguaglianza
+> $$C\!\left(x_1^{2005}+x_2^{2005}+x_3^{2005}+x_4^{2005}+x_5^{2005}\right)\ge x_1 x_2 x_3 x_4 x_5\left(x_1^{125}+x_2^{125}+x_3^{125}+x_4^{125}+x_5^{125}\right)^{16}$$
+> Vale per tutti i numeri reali positivi $x_1, x_2, x_3, x_4, x_5$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n3_f3#q02|src_obm_2005_n3_f3__Q02]]
 
 
 
@@ -87,9 +105,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'apparecchio quadrato più grande all'interno di un cubo unitario*
+*Il quadrato più grande inscrivibile in un cubo unitario*
 
-> Diciamo che un quadrato è contenuto in un cubo se tutti i suoi punti si trovano sulle facce o all'interno del cubo. Trova il valore più grande $\ell > 0$ tale che esista un quadrato di lato $\ell$ contenuto in un cubo di lunghezza di bordo $1$.
+> Diciamo che un quadrato è contenuto in un cubo se tutti i suoi punti giacciono sulle facce o nell'interno del cubo. Determinare il valore massimo $\ell > 0$ tale che esista un quadrato di lato $\ell$ contenuto in un cubo di spigolo di lunghezza $1$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n3_f3#q03|src_obm_2005_n3_f3__Q03]]
 
 
 
@@ -112,9 +137,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di prove per garantire la radiooperazione con batterie sconosciute*
+*Numero minimo di prove per garantire che la radio funzioni con batterie sconosciute*
 
-> Abbiamo quattro batterie cariche, quattro non cariche e una radio che richiede due batterie cariche per funzionare. Supponiamo di non sapere quali batterie sono cariche e quali non. Trovare il numero minimo di prove sufficiente a garantire il funzionamento della radio, in cui una prova consiste nel posizionare due batterie nella radio e verificare se funziona.
+> Abbiamo quattro batterie cariche, quattro batterie scariche e una radio che necessita di due batterie cariche per funzionare. Supponiamo di non sapere quali batterie siano cariche e quali scariche. Determinare il numero minimo di prove sufficiente a garantire che la radio funzioni, dove una prova consiste nel inserire due batterie nella radio e nel verificare se questa funziona.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n3_f3#q04|src_obm_2005_n3_f3__Q04]]
 
 
 
@@ -137,9 +169,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le linee di Euler di tre subtriangoli al punto Fermat sono simultanee*
+*Le rette di Eulero dei tre sottotriangoli nel punto di Fermat sono concorrenti*
 
-> Che $ABC$ sia un triangolo acuto e $F$ il suo punto Fermat, cioè il punto interno del triangolo $ABC$ in modo tale che i tre angoli $\widehat{AFB}$, $\widehat{BFC}$ e $\widehat{CFA}$ misurino $120^\circ$. Per ciascuno dei triangoli $ABF$, $ACF$ e $BCF$, tracciare la sua linea di Euler (la linea che unisce il suo circoncentro e il suo centroide). Prove che queste tre linee sono contemporanee.
+> Sia $ABC$ un triangolo acutangolo e $F$ il suo punto di Fermat, cioè il punto interno del triangolo $ABC$ tale che i tre angoli $\widehat{AFB}$, $\widehat{BFC}$ e $\widehat{CFA}$ misurino ciascuno $120^\circ$. Per ciascuno dei triangoli $ABF$, $ACF$ e $BCF$, traccia la sua retta di Eulero (la retta che congiunge il suo circocentro e il suo baricentro). Dimostrare che queste tre rette sono concorrenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n3_f3#q05|src_obm_2005_n3_f3__Q05]]
 
 
 
@@ -164,6 +203,15 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di un intero positivo x con a^x + x  b (mod c)*
+*Esistenza di un intero positivo x tale che a^x + x ≡ b (mod c)*
 
-> Dato un intero positivo $a$ e $c$ e un intero $b$, dimostrare che esiste un intero positivo $x$ tale che $$a^x + x \equiv b \pmod{c},$$, cioè esiste un intero positivo $x$ tale che $c$ divide $a^x + x - b$.
+> Dati gli interi positivi $a$ e $c$ e l'intero $b$, dimostrare che esiste un intero positivo $x$ tale che
+> $$a^x + x \equiv b \pmod{c},$$
+> Cioè, esiste un numero intero positivo $x$ tale che $c$ divide $a^x + x - b$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n3_f3#q06|src_obm_2005_n3_f3__Q06]]

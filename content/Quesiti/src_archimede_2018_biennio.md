@@ -35,7 +35,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Indicate the smallest of five fractions n+1/n*
+*Indicate the smallest among five fractions n+1/n*
 
 > Indicate the smallest of these fractions.
 >
@@ -45,7 +45,10 @@ Indicate the smallest of five fractions n+1/n*
 > - **(D)** 2019 2018
 > - **(E)** 2018 2017
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2018_biennio#q01|src_archimede_2018_biennio__Q01]]
 
 
 
@@ -75,9 +78,9 @@ Indicate the smallest of five fractions n+1/n*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number to be expressed as the sum of squares of two multiples of 3*
+*A number expressible as the sum of the squares of two multiples of 3*
 
-> Which of the following numbers can be obtained by adding the squares of two integers multiplied by 3?
+> Which of the following numbers can be obtained by adding the squares of two integer multiples of 3?
 >
 > - **(A)** 450
 > - **(B)** 300
@@ -85,7 +88,10 @@ Indicate the smallest of five fractions n+1/n*
 > - **(D)** 483
 > - **(E)** 189
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2018_biennio#q02|src_archimede_2018_biennio__Q02]]
 
 
 
@@ -117,9 +123,9 @@ Indicate the smallest of five fractions n+1/n*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Both-faced cubes painted in a 10x10x10 cube*
+*Cubes with two painted faces in a 10x10x10 cube*
 
-> Carla builds a cube by gluing 1000 small cubes all equal (with 10 cubes along each beam). So he painted all the faces of the cube he built red. How many of the initial cubes will have exactly two red faces?
+> Carla builds a cube by gluing together 1000 identical small cubes (with 10 cubes along each edge). She then paints red all the faces of the cube she has built. How many of the initial cubes will have exactly two faces coloured red?
 >
 > - **(A)** 60
 > - **(B)** 120
@@ -127,7 +133,11 @@ Indicate the smallest of five fractions n+1/n*
 > - **(D)** 90
 > - **(E)** 96
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2018_biennio#q03|src_archimede_2018_biennio__Q03]]
 
 
 
@@ -162,9 +172,9 @@ Indicate the smallest of five fractions n+1/n*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of two cards of the same color after trading*
+*Probability of two cards of the same colour after exchanges*
 
-> Both Luca and Claudia have a red and a black card in their hands. Luke takes a random card from Claudia's hand and adds it to his own. At this point, Claudia is catching a card from Luca's hand. What is the probability that each of them will find himself holding two cards of the same color (one with two red cards, one with two black cards)?
+> Luca and Claudia each have a red card and a black card in hand. Luca randomly draws a card from Claudia's hand and adds it to his own. At this point, Claudia draws a card from Luca's hand. What is the probability that each of the two ends up with two cards in hand of the same colour (one with two red cards, one with two black cards)?
 >
 > - **(A)** 3/4
 > - **(B)** 1/4
@@ -172,7 +182,11 @@ Indicate the smallest of five fractions n+1/n*
 > - **(D)** 1/2
 > - **(E)** 1/6
 
-**Answer:** C
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2018_biennio#q04|src_archimede_2018_biennio__Q04]]
 
 
 
@@ -206,11 +220,9 @@ Indicate the smallest of five fractions n+1/n*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the angle x in the figure with data angles*
+*Value of angle x in figure with given angles*
 
-![[src_archimede_2018_biennio__prob5.png]]
-
-> In the figure below, the angles of vertices A, B, D, F, G are shown. The angles of vertices C and E have the same width, indicated by x. What's the value of this x-amplitude?
+> In the figure on the right, the measures of the angles at vertices A, B, D, F, G are indicated. The angles at vertices C and E have the same measure, indicated by x. What is the value of this measure x?
 >
 > - **(A)** 41°
 > - **(B)** 39°
@@ -218,7 +230,10 @@ Indicate the smallest of five fractions n+1/n*
 > - **(D)** 37°
 > - **(E)** 38° A B C D E F G 60° 47° x 50° x 48° 57°
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2018_biennio#q05|src_archimede_2018_biennio__Q05]]
 
 
 
@@ -250,9 +265,9 @@ Indicate the smallest of five fractions n+1/n*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Soldiers between 2000 and 2500 with 1 to 2.7 remaining
+*Soldiers between 2000 and 2500 with remainder 1 for 2..7*
 
-> Caesar has a large number of soldiers, between 2000 and 2500. Try to line them up by two, by three, by four, five, six, seven, but each time one goes up. If you want to arrange them all in different rows of the same length (greater than 1), what should be the minimum length?
+> Cesare owns a large number of soldiers, between 2000 and 2500. He tries to arrange them in rows of 2, 3, 4, 5, 6, 7, but each time one is left over. If he wants to arrange all of them in various rows of the same length (greater than 1), what must be the minimum such length?
 >
 > - **(A)** 19
 > - **(B)** 23
@@ -260,7 +275,10 @@ Soldiers between 2000 and 2500 with 1 to 2.7 remaining
 > - **(D)** 17
 > - **(E)** 13
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2018_biennio#q06|src_archimede_2018_biennio__Q06]]
 
 
 
@@ -297,11 +315,9 @@ Soldiers between 2000 and 2500 with 1 to 2.7 remaining
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length A100A101 in the spiral of rectangular triangles*
+*Length A100A101 in a spiral of right triangles*
 
-![[src_archimede_2018_biennio__prob7.png]]
-
-> Theodore is building a sequence of rectangular triangles, arranged like this on the side. The first is the isosceles triangle A1A2A3, a rectangle in A1, with 1 cm of catheters. The second is A2A3A4, rectangle in A2, where A2A4 is still 1 cm. The third is A3A4A5, rectangle in A3, with A3A5 still 1 cm. The construction goes on as follows: in each triangle AnAn+1An+2, rectangle in An, the catheter AnAn+2 is always 1 cm. How many centimetres will the A100A101 segment measure ?
+> Teodoro is building a sequence of right triangles, arranged as shown here. The first is the isosceles triangle A1A2A3, right-angled at A1, with legs of 1 cm. The second is A2A3A4, right-angled at A2, where A2A4 is still 1 cm. The third is A3A4A5, right-angled at A3, with A3A5 still 1 cm. The construction continues in this way: in each triangle AnAn+1An+2, right-angled at An, the leg AnAn+2 is always 1 cm. How many cm will the segment A100A101 measure?
 >
 > - **(A)** 20
 > - **(B)** 50
@@ -309,7 +325,11 @@ Soldiers between 2000 and 2500 with 1 to 2.7 remaining
 > - **(D)** 10
 > - **(E)** 16 A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2018_biennio#q07|src_archimede_2018_biennio__Q07]]
 
 
 
@@ -341,9 +361,9 @@ Soldiers between 2000 and 2500 with 1 to 2.7 remaining
 <div class="qlang-split" data-lang="en"></div>
 
 
-Probability of empty chair between two girls
+*Probability that the empty seat is between two girls*
 
-> Three girls and a boy have to sit around a table with five chairs, numbered from 1 to 5. To decide their place, each of the four draws one out of five sheets (numbered 1 to 5) by lot. What's the probability that the empty chair will be between two girls?
+> Three girls and one boy must sit around a table with five chairs, numbered from 1 to 5. To decide their place, each of the four draws at random one of five slips (numbered from 1 to 5). What is the probability that the empty chair ends up between two girls?
 >
 > - **(A)** 3/5
 > - **(B)** 2/5
@@ -351,7 +371,10 @@ Probability of empty chair between two girls
 > - **(D)** 3/4
 > - **(E)** 1/2
 
-**Answer:** E
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2018_biennio#q08|src_archimede_2018_biennio__Q08]]
 
 
 
@@ -398,19 +421,20 @@ Probability of empty chair between two girls
 
 *Area of the outer rectangle of a frame*
 
-![[src_archimede_2018_biennio__prob9.png]]
-
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw (0,0) rectangle (5,4);
-  \fill[gray!60] (1,1) rectangle (4,3);
-  \draw (1,1) rectangle (4,3);
-\end{tikzpicture}
-\end{document}
-```
-
-> The larger side of the frame of a picture is 5/4 of the smaller side. The frame is the same thickness on all four sides. In the picture inside the frame (represented by a gray rectangle), the upper side measures 32 cm and the lower side 24. How many cm2 is the area of the rectangle bounded by the outer edge of the frame?
+> ![[src_archimede_2018_biennio__prob9.png]]
+>
+> ```tikz
+> \begin{document}
+> \begin{tikzpicture}
+>   \draw (0,0) rectangle (5,4);
+>   \fill[gray!60] (1,1) rectangle (4,3);
+>   \draw (1,1) rectangle (4,3);
+> \end{tikzpicture}
+> \end{document}
+> ```
+>
+> The longer side of the frame of a picture is 5/4 of the shorter side.
+> The frame has the same thickness on all four sides. In the picture inside the frame (represented by a grey rectangle), the longer side measures 32 cm and the shorter side measures 24 cm. By how many cm2 is the area of the rectangle bounded by the outer edge of the frame?
 >
 > - **(A)** 1440
 > - **(B)** 1200
@@ -418,7 +442,10 @@ Probability of empty chair between two girls
 > - **(D)** 1600
 > - **(E)** 1500
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2018_biennio#q09|src_archimede_2018_biennio__Q09]]
 
 
 
@@ -453,9 +480,9 @@ Probability of empty chair between two girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes of cell phone use during charging*
+*Minutes of phone use during charging*
 
-> A fully charged cell phone must remain charged for 2 hours to fully charge if it is not in use in the meantime. On the other hand, if it is used during charging, half of the energy introduced is consumed immediately and only the remainder accumulates in the battery. Knowing that it took two and a half hours to charge the battery from zero, it is necessary to determine how many minutes the cell phone was used during the charging (whether or not the phone is used, the energy stored in a time interval is assumed to be proportional to its duration).
+> A phone with a completely empty battery must remain charging for 2 hours to recharge completely if it is not in use in the meantime. If it is used during charging, half of the energy introduced is immediately consumed and only the remaining part accumulates in the battery. Knowing that, to recharge the battery from zero, 2 hours and a half were needed, determine for how many minutes the phone was used during charging (it is assumed that, whether the phone is used or not, the energy stored in a time interval is proportional to its duration).
 >
 > - **(A)** 75
 > - **(B)** 60
@@ -463,7 +490,10 @@ Probability of empty chair between two girls
 > - **(D)** 70
 > - **(E)** 72
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2018_biennio#q10|src_archimede_2018_biennio__Q10]]
 
 
 
@@ -494,9 +524,9 @@ Probability of empty chair between two girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangles of isosceles with a major side 2018*
+*Isosceles integer triangles with longest side 2018*
 
-> How many different isosceles triangles, with all sides of full lengths, have one side of length 2018 that is larger than the other two?
+> How many different isosceles triangles, with all sides of integer lengths, have a side of length 2018 that is greater than the other two?
 >
 > - **(A)** 1007
 > - **(B)** 1006
@@ -504,7 +534,11 @@ Probability of empty chair between two girls
 > - **(D)** 1008
 > - **(E)** 1011
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2018_biennio#q11|src_archimede_2018_biennio__Q11]]
 
 
 
@@ -543,11 +577,14 @@ Probability of empty chair between two girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Box number 1500 in the grid without multiples of 11*
+*The cell containing the number 1500 in the grid without multiples of 11*
 
-![[src_archimede_2018_biennio__prob12.png]]
-
-> Mario writes the positive integers in a grid with 7 columns, as shown in the figure. Since he hates the number 11, his list lacks all the multiples of 11. We indicate with (m;n) the box in the row number m (counting from the top) and column number n (counting from the left): for example, box (2; 4) contains the number 12. What box will contain the number 1500?
+> Mario writes the positive integers in a grid with 7
+> columns, as shown in the figure. Since he dislikes the number 11, all multiples of
+> 11 are missing from his list. We denote by (m; n) the cell located in row
+> number m (counting from the top) and in column number
+> n (counting from the left): for example, the cell (2; 4)
+> contains the number 12. In which cell will the number 1500 be contained?
 >
 > - **(A)** (195; 6)
 > - **(B)** (215; 2)
@@ -555,7 +592,11 @@ Probability of empty chair between two girls
 > - **(D)** (194; 3)
 > - **(E)** (193; 6) 1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 23 24 25 ... ... ... ... ... ... ... ... ... ...
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2018_biennio#q12|src_archimede_2018_biennio__Q12]]
 
 
 
@@ -593,17 +634,24 @@ Probability of empty chair between two girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*invariant pair of heads*
+*Whether paired flips can turn TTTTTCCC into CCCCCCTT*
 
-> Clara has eight coins in a row. Some show the face with the head, others with the cross, in this sequence: TTTTTCCC. He plays this game: with each move, he picks two consecutive coins and flips both. Clearly, with some moves of this kind, you would like to get a row of coins arranged in the CCCCCCTT sequence. What can be concluded?
+> Chiara has placed 8 coins in a row. Some show heads (T), others tails (C), in this order:
+> TTTTTCCC.
+> She plays this game: at each move, she chooses two consecutive coins and turns both over. With some moves of this kind, Chiara wants to obtain the order
+> CCCCCCTT.
+> What can one conclude?
 >
-> - **(A)** He can do it with a minimum of three moves.
-> - **(B)** He can do it with a minimum of five moves.
-> - **(C)** He can do it with a minimum of seven moves.
-> - **(D)** He can do it with an even number of moves.
-> - **(E)** He can't do that.
+> - **(A)** she can do it in a minimum of 3 moves.
+> - **(B)** she can do it in a minimum of 5 moves.
+> - **(C)** she can do it in a minimum of 7 moves.
+> - **(D)** she can do it in an even number of moves.
+> - **(E)** she cannot do it.
 
-**Answer:** E
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+[[Quesiti/src_archimede_2018_biennio#q13|src_archimede_2018_biennio__Q13]]
 
 
 
@@ -639,11 +687,12 @@ Probability of empty chair between two girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area four region from P to the midpoints of the quadrilateral*
+*Area of the fourth region from P to the midpoints of the quadrilateral*
 
-![[src_archimede_2018_biennio__prob14.png]]
-
-> From a point P within a convex quadrilateral, the segments connecting it to the midpoints of the sides are plotted. In this way, the quadrilateral is divided into four regions. The figures show the areas of three of these regions. What's the area of the fourth?
+> From a point P inside a convex quadrilateral, the segments joining it to the midpoints of the sides are drawn.
+> In this way, the quadrilateral is divided into four
+> regions. In the figure the areas of three of these
+> regions are indicated. What is the area of the fourth?
 >
 > - **(A)** 32
 > - **(B)** 33
@@ -651,7 +700,11 @@ Probability of empty chair between two girls
 > - **(D)** 31
 > - **(E)** 30 28 ? 23 19 P
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2018_biennio#q14|src_archimede_2018_biennio__Q14]]
 
 
 
@@ -685,9 +738,10 @@ Probability of empty chair between two girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to dispose of 99 non-adjacent coins in Table 2x100*
+*Ways of arranging 99 non-adjacent coins in a 2×100 table*
 
-> Michela drew a rectangular table of size 2 × 100. He wants to have 99 coins, each in a box in the table, so that there are no pairs of boxes with one side in common that are both occupied by one coin. How many different ways can Michela place the 99 coins?
+> Michela has drawn a rectangular table of size 2 × 100.
+> She wants to place 99 coins, each in a cell of the table, so that there are no pairs of cells sharing a side both occupied by a coin. In how many different ways can Michela place the 99 coins?
 >
 > - **(A)** 200
 > - **(B)** 396
@@ -695,7 +749,11 @@ Probability of empty chair between two girls
 > - **(D)** 400
 > - **(E)** 202
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2018_biennio#q15|src_archimede_2018_biennio__Q15]]
 
 
 
@@ -727,14 +785,18 @@ Probability of empty chair between two girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BCD triangle area with height in isosceles triangle*
+*Area of triangle BCD when the altitude from C meets side AB*
 
-> In the isosceles triangle ABC, where AB = BC = 5 cm and AC = 6 cm, the height exiting the C vertex falls at the point D of the side AB. What is the area of the BCD triangle?
+> In the isosceles triangle ABC, where AB = BC = 5 cm and AC = 6 cm, the altitude from vertex C meets side AB at the point D. What is the area of triangle BCD, in cm²?
 >
 > - **(A)** 10 3
 > - **(B)** 56 15
 > - **(C)** 17 5
 > - **(D)** 84 25
-> - **(E)** 24 7 T2 Italian Mathematical Union PROJECT OLIMPIADES OF MATHEMATICS Ministry of Education, University and Research The Games of Archimedes - Competition Biennio 22 November 2018 • The test consists of 16 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). One of these answers is correct, the other four are wrong. • Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. You have 110 minutes to run the test. Good work and good fun! Name of the applicant and date of birth: e-mail (optional): 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+> - **(E)** 24 7
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2018_biennio#q16|src_archimede_2018_biennio__Q16]]

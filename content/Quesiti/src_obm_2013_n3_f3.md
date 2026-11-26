@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Line angenti dal punto esterno, trovare CE in termini di a,b*
+*Tangenti condotte da un punto esterno: determina CE in funzione di a, b*
 
-> Il $\Gamma$ deve essere un cerchio e il $A$ un punto esterno a $\Gamma$. Le linee tangenti a $\Gamma$ che attraversano $A$ toccano $\Gamma$ a $B$ e $C$. $M$ sia il punto medio di $AB$. Il segmento $MC$ incontra di nuovo $\Gamma$ a $D$ e la riga $AD$ incontra di nuovo $\Gamma$ a $E$. Dato che $AB = a$ e $BC = b$, trovare $CE$ in termini di $a$ e $b$.
+> Sia $\Gamma$ una circonferenza e $A$ un punto esterno a $\Gamma$. Le rette tangenti a $\Gamma$ che passano per $A$ toccano $\Gamma$ rispettivamente nei punti $B$ e $C$. Sia $M$ il punto medio di $AB$. Il segmento $MC$ incontra nuovamente $\Gamma$ in $D$, e la retta $AD$ incontra nuovamente $\Gamma$ in $E$. Dati $AB = a$ e $BC = b$, determina $CE$ in funzione di $a$ e $b$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n3_f3#q01|src_obm_2013_n3_f3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco: Arnaldo sceglie da A, Bernaldo sceglie qualsiasi numero intero positivo, riducendo al minimo i divisori di ab
+*Gioco: Arnaldo sceglie da A, Bernaldo sceglie un qualsiasi numero intero positivo, minimizza i divisori di ab*
 
-> Arnaldo e Bernaldo giocano il seguente gioco: data una serie finita fissa $A$ di numeri interi positivi, Arnaldo sceglie un numero $a$ appartenente a $A$ (ma non dice a nessuno quale numero ha scelto). Quindi Bernaldo sceglie qualsiasi numero intero positivo $b$ (che può o non può appartenere a $A$). Arnaldo annuncia quindi solo il numero di divisori positivi del prodotto $ab$. Mostrare che Arnaldo può sempre scegliere $b$ in modo da poter scoprire il numero $a$ scelto da Arnaldo.
+> Arnaldo e Bernaldo giocano al seguente gioco: dato un insieme finito fisso $A$ di numeri interi positivi, Arnaldo sceglie un numero $a$ appartenente a $A$ (ma non dice a nessuno quale numero abbia scelto). Poi Bernaldo sceglie un qualsiasi numero intero positivo $b$ (che può appartenere o meno a $A$). Successivamente Arnaldo annuncia soltanto il numero di divisori positivi del prodotto $ab$. Dimostrare che Arnaldo può sempre scegliere $b$ in modo tale da poter scoprire il numero $a$ scelto da Arnaldo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n3_f3#q02|src_obm_2013_n3_f3__Q02]]
 
 
 
@@ -81,9 +95,18 @@ Gioco: Arnaldo sceglie da A, Bernaldo sceglie qualsiasi numero intero positivo, 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni iniettabili da valori reali non zero che soddisfano un'equazione funzionale*
+*Trovare tutte le funzioni iniettive da numeri reali non nulli che soddisfano un'equazione funzionale*
 
-> Trovare tutte le funzioni iniettrici $f$ dai reali non-zero ai reali non-zero in modo tale che $$f(x+y) \cdot \bigl(f(x) + f(y)\bigr) = f(xy)$$ per tutte le $x, y$ reali e non-zero con $x + y \neq 0$.
+> Trovare tutte le funzioni iniettive $f$ dai numeri reali non nulli ai numeri reali non nulli tali che
+> $$f(x+y) \cdot \bigl(f(x) + f(y)\bigr) = f(xy)$$
+> per tutti gli $x, y$ reali e non nulli con $x + y \neq 0$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_backward|Backward]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n3_f3#q03|src_obm_2013_n3_f3__Q03]]
 
 
 
@@ -106,9 +129,16 @@ Gioco: Arnaldo sceglie da A, Bernaldo sceglie qualsiasi numero intero positivo, 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N più grande con una sequenza di numeri non zero che soddisfa la condizione di divisibilità*
+*Il più grande n con una sequenza di cifre non nulle che soddisfa la condizione di divisibilità*
 
-> Trova il valore più grande di $n$ per il quale esiste una sequenza $(a_1, a_2, \ldots, a_n)$ di cifre non zero (cioè $a_i \in \{1,2,3,4,5,6,7,8,9\}$) tale che per ogni $k$ con $1 \le k \le n$, il numero $k$ di cifre $(a_1 a_2 \cdots a_k)$ formato dai primi numeri $k$ divida il numero $(k+1)$ di cifre $(a_1 a_2 \cdots a_k a_{k+1})$. (Qui $(a_1 a_2 \cdots a_m)$ indica il numero $a_1 \cdot 10^{m-1} + a_2 \cdot 10^{m-2} + \cdots + a_m$.)
+> Trovare il valore massimo di $n$ per cui esiste una successione $(a_1, a_2, \ldots, a_n)$ di cifre non nulle (cioè $a_i \in \{1,2,3,4,5,6,7,8,9\}$) tale che, per ogni $k$ con $1 \le k \le n$, il numero di $k$ cifre $(a_1 a_2 \cdots a_k)$ formato dalle prime $k$ cifre divida il numero di $(k+1)$ cifre $(a_1 a_2 \cdots a_k a_{k+1})$. (Qui $(a_1 a_2 \cdots a_m)$ denota il numero $a_1 \cdot 10^{m-1} + a_2 \cdot 10^{m-2} + \cdots + a_m$.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n3_f3#q04|src_obm_2013_n3_f3__Q04]]
 
 
 
@@ -131,9 +161,16 @@ Gioco: Arnaldo sceglie da A, Bernaldo sceglie qualsiasi numero intero positivo, 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*X irrazionale in (0,1): contare i blocchi di k-cifre distinti in espansione decimale, dimostrare p(k)>=k+1*
+*Irrazionale x in (0,1): conta i blocchi distinti di k cifre nello sviluppo decimale, dimostra p(k)>=k+1*
 
-> Che $x$ sia un numero irrazionale con $0 < x < 1$, e che $x = 0.a_1 a_2 a_3 \cdots$ sia la sua espansione decimale. Per ogni $k \ge 1$, $p(k)$ indica il numero di sequenze distinte di $k$ cifre consecutive nell'espansione decimale di $x$. Prova che $p(k) \ge k+1$ per ogni intero positivo $k$.
+> Sia $x$ un numero irrazionale con $0 < x < 1$, e sia $x = 0.a_1 a_2 a_3 \cdots$ la sua espansione decimale. Per ogni $k \ge 1$, sia $p(k)$ il numero di sequenze distinte di $k$ cifre consecutive nell'espansione decimale di $x$. Dimostrare che $p(k) \ge k+1$ per ogni intero positivo $k$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n3_f3#q05|src_obm_2013_n3_f3__Q05]]
 
 
 
@@ -156,6 +193,13 @@ Gioco: Arnaldo sceglie da A, Bernaldo sceglie qualsiasi numero intero positivo, 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'incircolo dell'ABC tocca i lati; i riflessi del punto di intersezione si trovano in linea attraverso l'incentro e il circoncentro*
+*L'incirconcetto di ABC tocca i lati; i riflessi del punto d'intersezione giacciono sulla retta che passa per l'incentro e il circocentro*
 
-> L'incircolo del triangolo $ABC$ tocca i lati $BC$, $CA$ e $AB$ rispettivamente nei punti $D$, $E$ e $F$. Il punto di intersezione delle linee $AD$ e $BE$ è $P$. I riflessi di $P$ rispetto alle linee $EF$, $FD$ e $DE$ sono rispettivamente $X$, $Y$ e $Z$. Prove che le linee $AX$, $BY$ e $CZ$ hanno un punto comune sulla linea $IO$, dove $I$ è il centro e $O$ è il centro circostante del triangolo $ABC$.
+> L'incircoscritta al triangolo $ABC$ tocca i lati $BC$, $CA$ e $AB$ nei punti $D$, $E$ e $F$ rispettivamente. Sia $P$ il punto di intersezione delle rette $AD$ e $BE$. Le riflessioni di $P$ rispetto alle rette $EF$, $FD$ e $DE$ sono rispettivamente $X$, $Y$ e $Z$. Dimostrare che le rette $AX$, $BY$ e $CZ$ hanno un punto comune che giace sulla retta $IO$, dove $I$ è l'incentro e $O$ è il circocentro del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n3_f3#q06|src_obm_2013_n3_f3__Q06]]

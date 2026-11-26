@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i percorsi zigzag di quadrati bianchi su scacchi 8x8*
+*Conta i percorsi a zigzag formati da caselle bianche su una scacchiera 8x8*
 
-> Si consideri una scacchiera standard $8 \times 8$ costituita da 64 piccoli quadrati colorati nel solito modello, quindi 32 in nero e 32 in bianco. Un percorso in zigzag attraverso il bordo è una raccolta di otto quadrati bianchi, uno in ogni riga, che si incontrano negli angoli. Quanti percorsi zigzag ci sono?
+> Si consideri una scacchiera standard $8 \times 8$ composta da 64 piccoli quadrati colorati secondo il motivo consueto: 32 sono neri e 32 sono bianchi. Un percorso a zig-zag attraverso la scacchiera è un insieme di otto caselle bianche, una per ogni riga, che si toccano agli angoli. Quanti percorsi a zig-zag esistono?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2008-09_round1#q01|src_bmo_2008-09_round1__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le vere x, y, z che soddisfano tre equazioni di prodotto ciclico*
+*Trovare tutti i numeri reali x, y, z che soddisfano tre equazioni di prodotto ciclico*
 
-> Trova tutti i valori reali di $x$, $y$ e $z$ in modo tale che $$(x+1)yz = 12, \quad (y+1)zx = 4 \quad \text{and} \quad (z+1)xy = 4.$$
+> Trovare tutti i valori reali di $x$, $y$ e $z$ tali che
+> $$(x+1)yz = 12, \quad (y+1)zx = 4 \quad \text{and} \quad (z+1)xy = 4.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2008-09_round1#q02|src_bmo_2008-09_round1__Q02]]
 
 
 
@@ -80,9 +95,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova PQ = AC se angolo BAC = 60 gradi in parallelo ABPC*
+*Dimostrare che PQ = AC se e solo se l'angolo BAC = 60 gradi nel parallelogramma ABPC*
 
-> Il $ABPC$ deve essere un parallelo tale che $ABC$ sia un triangolo acuto. Il circoncircolo del triangolo $ABC$ incontra di nuovo la linea $CP$ a $Q$. Prove che $PQ = AC$ se, e solo se, $\angle BAC = 60^\circ$. Il circoncircolo di un triangolo è il cerchio che passa attraverso le sue vertici.
+> Sia $ABPC$ un parallelogramma tale che $ABC$ sia un triangolo acutangolo. La circonferenza circoscritta al triangolo $ABC$ incontra nuovamente la retta $CP$ in $Q$. Dimostrare che $PQ = AC$ se, e solo se, $\angle BAC = 60^\circ$. La circonferenza circoscritta a un triangolo è la circonferenza che passa per i suoi vertici.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2008-09_round1#q03|src_bmo_2008-09_round1__Q03]]
 
 
 
@@ -105,9 +127,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova gli interi positivi n con n+2008 | n²+2008 e n+2009 | n²+2009*
+*Trovare numeri interi positivi n tali che n+2008 | n²+2008 e n+2009 | n²+2009*
 
-> Trova tutti gli integri positivi $n$ in modo tale che entrambi $n + 2008$ dividano $n^2 + 2008$ e $n + 2009$ dividono $n^2 + 2009$.
+> Trovare tutti gli interi positivi $n$ tali che sia $n + 2008$ divida $n^2 + 2008$ sia $n + 2009$ divida $n^2 + 2009$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2008-09_round1#q04|src_bmo_2008-09_round1__Q04]]
 
 
 
@@ -133,9 +162,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine le sequenze periodiche razionali che soddisfano una recidiva*
+*Determinare sequenze periodiche razionali che soddisfano una relazione di ricorrenza*
 
-> Determinare le sequenze $a_0, a_1, a_2, \ldots$ che soddisfano tutte le seguenti condizioni: a) $a_{n+1} = 2a_n^2 - 1$ per ogni numero intero $n \ge 0$, b) $a_0$ è un numero razionale e c) $a_i = a_j$ per alcuni $i, j$ con $i \neq j$.
+> Determinare le successioni $a_0, a_1, a_2, \ldots$ che soddisfano tutte le seguenti condizioni:
+> a) $a_{n+1} = 2a_n^2 - 1$ per ogni intero $n \ge 0$,
+> b) $a_0$ è un numero razionale e
+> c) $a_i = a_j$ per qualche $i, j$ con $i \neq j$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2008-09_round1#q05|src_bmo_2008-09_round1__Q05]]
 
 
 
@@ -159,6 +198,14 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza a3cosA + b3cosB + c3cosC < abc per il triangolo obtuso*
+*Dimostrare la disuguaglianza a³cosA + b³cosB + c³cosC < abc per un triangolo ottusangolo*
 
-> Il triangolo angolato ottuso $ABC$ ha lati di lunghezza $a$, $b$ e $c$ opposti rispettivamente agli angoli $\angle A$, $\angle B$ e $\angle C$. Provare che $$a^3 \cos A + b^3 \cos B + c^3 \cos C < abc.$$
+> Il triangolo ottusangolo $ABC$ ha lati di lunghezza $a$, $b$ e $c$ opposti rispettivamente agli angoli $\angle A$, $\angle B$ e $\angle C$. Dimostrare che
+> $$a^3 \cos A + b^3 \cos B + c^3 \cos C < abc.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2008-09_round1#q06|src_bmo_2008-09_round1__Q06]]

@@ -30,11 +30,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I piedi di altitudine nel triangolo acuto sono collineari con l'intersezione*
+*I piedi delle altezze in un triangolo acutangolo sono allineati con il punto d'incontro*
 
-> Il $ABC$ deve essere un triangolo acuto angolato e $D$, $E$, $F$ devono essere i piedi delle perpendicolari da $A$, $B$, $C$ rispettivamente a $BC$, $CA$, $AB$. Lasciate che le perpendicolari da $F$ a $CB$, $CA$, $AD$, $BE$ si incontrino rispettivamente in $P$, $Q$, $M$ e $N$. Provare che $P$, $Q$, $M$, $N$ sono collineari.
+> Sia $ABC$ un triangolo acutangolo e siano $D$, $E$, $F$ i piedi delle perpendicolari condotte rispettivamente da $A$, $B$, $C$ alle rette $BC$, $CA$, $AB$. Siano $P$, $Q$, $M$, $N$ i punti in cui le perpendicolari condotte da $F$ alle rette $CB$, $CA$, $AD$, $BE$ le intersecano rispettivamente. Dimostrare che $P$, $Q$, $M$, $N$ sono allineati.
 
 ![[src_rmo_2006__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2006#q01|src_rmo_2006__Q01]]
 
 
 
@@ -57,9 +63,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il valore minimo di a+b con condizioni di divisibilità su 11*
+*Trovare il valore minimo di a+b con condizioni di divisibilità per 11*
 
-> Trovare il minimo valore possibile di $a + b$, dove $a$, $b$ sono integri positivi in modo tale che 11 divide $a + 13b$ e 13 divide $a + 11b$.
+> Trovare il valore minimo possibile di $a + b$, dove $a$, $b$ sono interi positivi tali che 11 divide $a + 13b$ e 13 divide $a + 11b$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2006#q02|src_rmo_2006__Q02]]
 
 
 
@@ -83,9 +96,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove le disuguaglianze che comportano la somma delle frazioni per i reali positivi*
+*Dimostrare una disuguaglianza che coinvolge la somma di frazioni per numeri reali positivi*
 
-> Se $a$, $b$, $c$ sono tre numeri reali positivi, dimostrare che $$\frac{a^2+1}{b+c} + \frac{b^2+1}{c+a} + \frac{c^2+1}{a+b} \ge 3.$$
+> Se $a$, $b$, $c$ sono tre numeri reali positivi, dimostrare che
+> $$\frac{a^2+1}{b+c} + \frac{b^2+1}{c+a} + \frac{c^2+1}{a+b} \ge 3.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2006#q03|src_rmo_2006__Q03]]
 
 
 
@@ -108,9 +129,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*6×6 quadrato dissezionato in 9 rettangoli; sempre due congruenti*
+*Quadrato 6×6 suddiviso in 9 rettangoli; ne sono sempre due congruenti*
 
-> Un quadrato $6 \times 6$ è dissezionato in 9 rettangoli con linee parallele ai suoi lati in modo che tutti questi rettangoli abbiano lati interi. Prova che ci sono sempre due rettangoli congruenti.
+> Un quadrato $6 \times 6$ viene suddiviso in 9 rettangoli mediante rette parallele ai suoi lati, in modo che tutti questi rettangoli abbiano i lati interi. Dimostrare che ci sono sempre due rettangoli congruenti.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2006#q04|src_rmo_2006__Q04]]
 
 
 
@@ -135,11 +163,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero tangenziale con ABCD e AB=3CD; trovare inradius*
+*Quadrilatero tangenziale con AB∥CD e AB=3CD; trovare il raggio incircoscritto*
 
-> Il $ABCD$ è un quadrilaterale in cui $AB$ è parallelo a $CD$ e perpendicolare a $AD$; $AB = 3CD$; e la superficie del quadrilaterale è 4. Se si può disegnare un cerchio che tocchi tutti i lati del quadrilaterale, trovare il suo raggio.
+> Sia $ABCD$ un quadrilatero in cui $AB$ è parallelo a $CD$ e perpendicolare a $AD$; $AB = 3CD$; e l'area del quadrilatero è 4. Se si può tracciare una circonferenza tangente a tutti i lati del quadrilatero, determina il suo raggio.
 
 ![[src_rmo_2006__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2006#q05|src_rmo_2006__Q05]]
 
 
 
@@ -162,9 +197,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Infinitamente molti n con n(n+1) come somma di due quadrati in due modi*
+*Infiniti n tali che n(n+1) sia la somma di due quadrati in due modi*
 
-> Dimostra che ci sono infiniti interi positivi $n$ in modo tale che $n(n+1)$ possa essere espressa come la somma di due quadrati positivi in almeno due modi diversi. (Qui $a^2 + b^2$ e $b^2 + a^2$ sono considerati come la stessa rappresentazione.)
+> Dimostrare che esistono infiniti interi positivi $n$ tali che $n(n+1)$ possa essere espresso come somma di due quadrati positivi in almeno due modi diversi. (Qui $a^2 + b^2$ e $b^2 + a^2$ sono considerati come la stessa rappresentazione.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2006#q06|src_rmo_2006__Q06]]
 
 
 
@@ -186,6 +228,12 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale f(xy)=f(x+y) per gli integri ≥4; ritrovare f(9)*
+*Equazione funzionale f(xy)=f(x+y) per interi ≥4; trova f(9)*
 
-> $X$ sia l'insieme di tutti gli integri positivi superiori o uguali a 8 e $f : X \to X$ sia una funzione tale che $f(x + y) = f(xy)$ per tutti $x \ge 4$, $y \ge 4$. Se $f(8) = 9$, determinare $f(9)$.
+> Sia $X$ l'insieme di tutti gli interi positivi maggiori o uguali a 8 e sia $f : X \to X$ una funzione tale che $f(x + y) = f(xy)$ per ogni $x \ge 4$, $y \ge 4$. Se $f(8) = 9$, determina $f(9)$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2006#q07|src_rmo_2006__Q07]]

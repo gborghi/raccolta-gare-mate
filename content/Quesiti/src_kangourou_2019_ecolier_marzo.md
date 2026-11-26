@@ -36,13 +36,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which figure is 17 (bullets and bars)*
+*Which shape is worth 17 (dots and bars)?*
 
 ![[src_kangourou_2019_ecolier_marzo__prob1.png]]
 
-> In the figures you see, each ball is worth 1 and each bar is worth 5, so, for example, the figure on the side is worth 8. Which of the following figures is 17? A)                        B) C) D) E)
+> In the figures you see, each dot is worth 1 and each bar is worth 5: so, for example, the figure beside it is worth 8. Which of the following figures is worth 17?
+> A)                        B) 	
+>             C) 	
+>           D)	
+>        E)
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q01|src_kangourou_2019_ecolier_marzo__Q01]]
 
 
 
@@ -77,19 +85,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-In what order did the three people pass?
+*In what order did the three people pass?*
 
 ![[src_kangourou_2019_ecolier_marzo__prob2.png]]
 
-> Three people walked through a snow-covered meadow with their muddy shoes, leaving the footprints you see in the picture. In what order did they come through? A)
-> 	
-> B)
-> 	
-> C) D)
->       	
-> E)
+> Three people crossed a snowy meadow wearing muddy shoes, leaving the footprints you see in the figure. In what order did they pass by?
+> A) 	
+>
+>    B)	
+>
+>     C)
+> D)	
+>
+>    E)
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q02|src_kangourou_2019_ecolier_marzo__Q02]]
 
 
 
@@ -126,21 +140,27 @@ In what order did the three people pass?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What vehicles are seen when the book is closed*
+*What means can be seen with the book closed?*
 
 ![[src_kangourou_2019_ecolier_marzo__prob3.png]]
 
-> There are two windows on the cover of a children's book on transportation. When you open the cover, you see what shows the figure. What vehicles do you see when the book is closed? A)
-> 	
-> 	
-> B)
-> 	
-> C) D)
-> 	
-> 	
-> E)
+> On the cover of a children's book about means of transport, there are two windows. When the cover is opened, what is shown in the figure appears. What means of transport can be seen when the book is closed?
+> A)	
+>
+>
+>      B)  	 	
+>
+>          C)   
+> D)   	
+>
+>
+>      E)
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q03|src_kangourou_2019_ecolier_marzo__Q03]]
 
 
 
@@ -177,22 +197,27 @@ In what order did the three people pass?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which two-square card can be obtained*
+*Which two-square card can be obtained?*
 
 ![[src_kangourou_2019_ecolier_marzo__prob4.png]]
 
-> From the grid you see in the figure next to her, Catherine cuts a card made of two adjacent squares. Which of the following cards can you obtain? A)
->  	
-> B)
->  	
-> C)
->         
-> D)
->  	
-> E)
+> From the grid shown in the figure beside it, Caterina cuts out a tile made up of two adjacent squares. Which of the following tiles can she obtain?
+> A)	
+>
+>   B)	
+>
+>           C) 	
+>
+> D)	
+>
+>   E) 
 >
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q04|src_kangourou_2019_ecolier_marzo__Q04]]
 
 
 
@@ -231,27 +256,26 @@ In what order did the three people pass?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many hectograms did the whole cake weigh (cut in half)*
+*How many hectograms did the whole cake weigh (cut in half)?*
 
 ![[src_kangourou_2019_ecolier_marzo__prob5.png]]
 
-> As the figure shows, the mother cut a 
-> cake in half, then cut one of the two 
-> halves in half, then again cut one of the two parts 
-> obtained in half, and finally cut one of the two last 
-> slices obtained in half. The smallest slices she ob-
-> tained weigh one hectogram. How many hectograms did the whole cake weigh?
+> As the figure shows, Mom cut a cake in half, then cut one of the two halves in half, then cut one of the two pieces obtained in half, and finally cut one of the two last slices obtained in half. The smallest slices she obtained weigh one decagram each. How many decagrams did the whole cake weigh?
 > A) 6	
-> 	
+>
 > B) 8 	
-> 	
+>
 > C) 12	
-> 	
+>
 > D) 16	
-> 	
+>
 > E) 20
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q05|src_kangourou_2019_ecolier_marzo__Q05]]
 
 
 
@@ -284,19 +308,24 @@ In what order did the three people pass?
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many students if girls are doubles and +8*
+*How many students if the girls are double and +8?*
 
-> In one class, the number of girls is twice the number of boys and exceeds it by 8. How many students are in that class? A) 16
-> 	
-> B) 18
-> 	
-> C) 20
-> 	
-> D) 24
-> 	
+> In a class, the number of girls is twice the number of boys and exceeds it by 8. How many students are there in that class?
+> A) 16	
+>
+> B) 18	
+>
+> C) 20	
+>
+> D) 24	
+>
 > E) 28
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q06|src_kangourou_2019_ecolier_marzo__Q06]]
 
 
 
@@ -333,21 +362,26 @@ How many students if girls are doubles and +8*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many dots per 7 photographs (shared pattern)*
+*How many pins for 7 photos (shared pattern)*
 
 ![[src_kangourou_2019_ecolier_marzo__prob7.png]]
 
-> Linda hung three photographs on a notice board using eight drawing pins, as you can see in the figure. If she had hung 7 of them in the same way, how many pins would she have had to use? A) 14
-> 	
-> B) 16
-> 	
-> C) 18
-> 	
-> D) 22
-> 	
+> Linda has hung 3 photographs on a notice board using 8 drawing pins, as shown in the figure. If she had hung 7 photographs using the same method, how many drawing pins would she have had to use?
+> A) 14	
+>
+> B) 16	
+>
+> C) 18	
+>
+> D) 22	
+>
 > E) 26
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q07|src_kangourou_2019_ecolier_marzo__Q07]]
 
 
 
@@ -386,21 +420,28 @@ How many students if girls are doubles and +8*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many shapes can be obtained by removing a tile*
+*How many shapes can be obtained by removing one tile?*
 
 ![[src_kangourou_2019_ecolier_marzo__prob8.png]]
 
-> In the first figure, you see five square tiles, all of them equal to each other, placed next to each other in a certain way. If you remove a suitably chosen one and leave the others in the position where they are, how many of the following shapes can you get? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
-> E) 5 Questions from N. 9 to N. 16 are worth 4 points each.
+> In the first figure, you can see five square tiles, all identical to one another, placed side by side in a particular arrangement. If you remove one tile chosen appropriately and leave the others in their current positions, how many of the following shapes can you obtain?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
+> E) 5
+> Questions 9 to 16 are each worth 4 points.
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q08|src_kangourou_2019_ecolier_marzo__Q08]]
 
 
 
@@ -459,22 +500,28 @@ How many students if girls are doubles and +8*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How long is the first leap to avoid the wells*
+*How long should the first jump be to avoid the puddles?*
 
 ![[src_kangourou_2019_ecolier_marzo__prob9.png]]
 
-> In the figure you can see an obstacle course: the obstacles are the gray squares representing as many puddles of water. In order to reach the last box, the box indicated by X, the Jump kangaroo must make leaps forward: when landing on a box, it must jump again with as many boxes as are indicated in the box from which it starts (e.g.: 1 means it must land on the next box, 2 means it must jump a box, etc.). How many boxes long must its first jump be if it wants to land in X avoiding all the puddles of water? 2 4 1 h 3 3 h 4 1 4 h 3 h 3 1 h X A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 5
->          
-> E) It cannot avoid all the puddles.
+> In the figure, you see an obstacle course: the obstacles are the grey squares, each representing a puddle of water. To reach the last square, the one marked X, the kangaroo Jump must make forward jumps: when it lands on a square, it must set off again with a jump that covers as many squares as are indicated on the square from which it starts (for example: 1 means it must land on the next square, 2 means it must jump over one square, and so on). How many squares must its first jump cover if it wants to land on X while avoiding all the puddles of water? 2 4 1 h 3 3 h 4 1 4 h 3 h 3 1 h X
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 5	
+>
+> E) It cannot manage to avoid all the puddles.
 >
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q09|src_kangourou_2019_ecolier_marzo__Q09]]
 
 
 
@@ -511,22 +558,27 @@ How many students if girls are doubles and +8*
 <div class="qlang-split" data-lang="en"></div>
 
 
-What the driver sees from the opposite side of the glass
+*What does Guido see from the other side of the glass?*
 
 ![[src_kangourou_2019_ecolier_marzo__prob10.png]]
 
-> Six strips of paper are interwoven and glued to a glass between them; Franca and Guido observe them from opposite sides of the glass. The figure shows you what Franca sees. What does Guido see? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> 	
-> D)
-> 	
-> E)
+> Six strips of paper are braided and glued onto a transparent pane of glass; Franca and Guido observe them from opposite sides of the glass. The figure shows you what Franca sees. What does Guido see?
+> A)	
+>
+>      B) 	
+>
+>             C)     
+>
+>
+>      D)	
+>
+>             E)
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q10|src_kangourou_2019_ecolier_marzo__Q10]]
 
 
 
@@ -565,21 +617,26 @@ What the driver sees from the opposite side of the glass
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total weight of each of the three dogs (balance)*
+*Full weight of each of the three dogs (scales)*
 
 ![[src_kangourou_2019_ecolier_marzo__prob11.png]]
 
-> Look at the scales in the figure where three identical dogs and two weights, one 12 and the other 20 kg, appear. The weight in kilograms of each of the dogs is expressed by an integer. Which one? A) 7
-> 	
-> B) 8
-> 	
-> C) 9
-> 	
-> D) 10
-> 	
+> Observe the scales in the figure, where three identical dogs and two weights appear—one weighing 12 kilograms and the other 20 kilograms. The weight in kilograms of each of the dogs is expressed by an integer. Which integer?
+> A) 7	
+>
+> B) 8	
+>
+> C) 9	
+>
+> D) 10	
+>
 > E) 11
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q11|src_kangourou_2019_ecolier_marzo__Q11]]
 
 
 
@@ -614,19 +671,24 @@ What the driver sees from the opposite side of the glass
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of green beads from 16 blue beads
+*Maximum number of green marbles out of 16 blue marbles*
 
-> Some friends have colored beads and can exchange them according to these rules: for 3 blue beads you can get a red bead, for 2 red beads you can get 5 green beads. Sara has 16 blue beads. How many green beads could she get at most? A) 5
-> 	
-> B) 10
-> 	
-> C) 13
-> 	
-> D) 15
-> 	
+> Some friends have colored marbles and can trade them according to these rules: for 3 blue marbles, you can get one red marble; for 2 red marbles, you can get 5 green marbles. Sara has 16 blue marbles. What is the maximum number of green marbles she could get?
+> A) 5	
+>
+> B) 10	
+>
+> C) 13	
+>
+> D) 15	
+>
 > E) 20
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q12|src_kangourou_2019_ecolier_marzo__Q12]]
 
 
 
@@ -663,17 +725,25 @@ Maximum number of green beads from 16 blue beads
 <div class="qlang-split" data-lang="en"></div>
 
 
-Number in the box ? for a maximum sum with 2,0,1,9*
+*Enter the number in the box? for the maximum sum with 2,0,1,9*
 
 ![[src_kangourou_2019_ecolier_marzo__prob13.png]]
 
-> Stefano has the digits 2, 0, 1 and 9. In each of the boxes in the figure, you must insert one and use all of them. If you want the sum shown to give the greatest possible result, what digit should you enter in the box shown with the question mark? A) 0 or 1.
-> 	
+> Stefano has the digits 2, 0, 1, and 9 at his disposal. In each of the boxes in the figure, he must place one of them, and he must use all of them. If he wants the indicated sum to yield the greatest possible result, which digit must he put in the box marked with a question mark?
+> A) 0 or 1.
+>
 > B) 0 or 2.
-> 	
-> C) Necessarily 0. D) Necessarily 1. E) Necessarily 2.
+>
+> C) Necessarily 0.
+> D) Necessarily 1.
+> E) Necessarily 2.
 
-**Answer:** A
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q13|src_kangourou_2019_ecolier_marzo__Q13]]
 
 
 
@@ -718,10 +788,22 @@ Number in the box ? for a maximum sum with 2,0,1,9*
 
 ![[src_kangourou_2019_ecolier_marzo__prob14.png]]
 
-> A full glass of water weighs 400 grams. The same empty glass weighs 100 grams. How many grams does a glass of half-filled water weigh? A) 150 B) 200 C) 225 D) 300 E) A number different from the previous 12 kg 20 kg + ? 400 g 100 g ?
+> A glass full of water weighs 400 grams. The same glass when empty weighs 100 grams. How many grams does a glass half-filled with water weigh?
+> A) 150	 	
+> B) 200	 	
+> C) 225	      
+> D) 300	  	
+> E) A number different from the preceding ones
+> 12 kg 20 kg
+> + ?
+> 400 g 100 g ?
 >
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q14|src_kangourou_2019_ecolier_marzo__Q14]]
 
 
 
@@ -755,19 +837,24 @@ Number in the box ? for a maximum sum with 2,0,1,9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many kang per apple, pear and banana together*
+*How many in total for apple, pear, and banana together?*
 
-> In Kangland, the currency is the kang. With 5 kang you buy an apple and a pear, with 7 kang an apple and a banana, with 10 kang a pear and a banana. How many kangs does it take to buy an apple, a pear and a banana? A) 8
-> 	
-> B) 9
-> 	
-> C) 10
-> 	
-> D) 11
-> 	
+> In Kanglandia, the currency is the kang. With 5 kang, you can buy one apple and one pear; with 7 kang, one apple and one banana; with 10 kang, one pear and one banana. How many kang are needed to buy one apple, one pear, and one banana?
+> A) 8	
+>
+> B) 9	
+>
+> C) 10	
+>
+> D) 11	
+>
 > E) 12
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q15|src_kangourou_2019_ecolier_marzo__Q15]]
 
 
 
@@ -808,17 +895,24 @@ Number in the box ? for a maximum sum with 2,0,1,9*
 
 *Minimum number of tokens after three operations*
 
-> A strange token-switching machine provides three white tokens if you insert a red token, while it provides two red tokens if you insert a white token. Alice initially has 4 tokens, 3 red and 1 white; whenever she inserts a token, she combines the tokens she has obtained with those she has left. If you perform the operation three times, each time placing a random token among those you have at that time, what is the smallest number of tokens you could find yourself having? A) 7
-> 	
-> B) 6
-> 	
-> C) 8
-> 	
-> D) 5
-> 	
-> E) 9 Questions from N. 17 to N. 24 are worth five points each.
+> A strange token-exchange machine gives three white tokens if a red token is inserted, and gives two red tokens if a white token is inserted. Alice initially has 4 tokens—3 red and 1 white—and each time she inserts a token, she combines the tokens she receives with those she still has. If she performs the operation three times, inserting a randomly chosen token from those she has at the time each time, what is the smallest number of tokens she could end up with?
+> A) 7	
+>
+> B) 6	
+>
+> C) 8	
+>
+> D) 5	
+>
+> E) 9 
+> Questions 17 to 24 are each worth 5 points.
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q16|src_kangourou_2019_ecolier_marzo__Q16]]
 
 
 
@@ -854,21 +948,26 @@ Number in the box ? for a maximum sum with 2,0,1,9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What number represents the star (row sum)*
+*What number does the star represent (row sums)?*
 
 ![[src_kangourou_2019_ecolier_marzo__prob17.png]]
 
-> Each of the symbols disc, star, heart represents a number. For each row, the sum of the numbers represented in the row is indicated on the right. What number is represented by the star? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> Each of the symbols—disc, star, and heart—represents a number. For each row, the sum of the numbers represented in that row is shown on the right. Which number is represented by the star?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q17|src_kangourou_2019_ecolier_marzo__Q17]]
 
 
 
@@ -906,21 +1005,26 @@ Number in the box ? for a maximum sum with 2,0,1,9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many squares make up the frame of a 10x10 painting*
+*How many small squares does the frame of a 10x10 painting have?*
 
 ![[src_kangourou_2019_ecolier_marzo__prob18.png]]
 
-> On a square sheet the figure you see appears: it is a painting of 7 × 7 squares enclosed by a frame of 32 squares. For a painting that occupies 10 × 10 squares, how many squares should the frame consist of? A) 36
-> 	
-> B) 40
-> 	
-> C) 44
-> 	
-> D) 48
-> 	
+> On a grid paper, the figure you see appears: it represents a painting that occupies 7 × 7 squares and is enclosed by a frame made up of 32 squares. For a painting that occupied 10 × 10 squares, how many squares should the frame consist of?
+> A) 36	
+>
+> B) 40	
+>
+> C) 44	
+>
+> D) 48	
+>
 > E) 52
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q18|src_kangourou_2019_ecolier_marzo__Q18]]
 
 
 
@@ -955,19 +1059,25 @@ Number in the box ? for a maximum sum with 2,0,1,9*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of pages if the digit 5 appears 16 times
+*Maximum number of pages if the digit 5 appears 16 times*
 
-> The pages of a booklet are numbered from 1. In total, the number 5 appears 16 times in the numbering. How many pages can a booklet have at most? A) 49
-> 	
-> B) 64
-> 	
-> C) 66
-> 	
-> D) 74
-> 	
+> The pages of a booklet are numbered starting from 1. In total, the digit 5 appears 16 times in the numbering. What is the maximum number of pages the booklet can have?
+> A) 49	
+>
+> B) 64	
+>
+> C) 66	
+>
+> D) 74	
+>
 > E) 80
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q19|src_kangourou_2019_ecolier_marzo__Q19]]
 
 
 
@@ -1011,18 +1121,26 @@ Maximum number of pages if the digit 5 appears 16 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For how many meters does the cat walk along the alley*
+*How many meters does the cat walk along the path?*
 
 ![[src_kangourou_2019_ecolier_marzo__prob20.png]]
 
-> A driveway has the dimensions shown in the figure. A cat walks along the dashed line that is exactly halfway along each straight stretch of the driveway. How many meters does the cat walk? A) 63
-> 	
-> B) 68 C) 69 D) 71
-> 	
-> E) 83 8 m 6 m 20 m 40 m 36 m 28 m
+> A path has the dimensions shown in the figure. A cat walks along the dashed line, which lies exactly halfway along each straight section of the path. How many metres does the cat walk?
+> A) 63	
+>
+> B) 68	
+>         C) 69 
+> D) 71	
+>
+> E) 83
+> 8 m 6 m 20 m 40 m 36 m 28 m
 >
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q20|src_kangourou_2019_ecolier_marzo__Q20]]
 
 
 
@@ -1056,19 +1174,25 @@ Maximum number of pages if the digit 5 appears 16 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many kangaroos out of 15 animals (10 non-lions, 8 non-elephants)*
+*How many kangaroos are there among 15 animals (10 are not lions, 8 are not elephants)?*
 
-> In a zoo there are a total of 15 animals: lions, elephants and kangaroos. Ten are not lions, eight are not elephants. How many kangaroos are there? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 10
-> 	
+> In a zoo, there are a total of 15 animals: lions, elephants, and kangaroos. 10 are not lions, and 8 are not elephants. How many kangaroos are there?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 10	
+>
 > E) 18
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q21|src_kangourou_2019_ecolier_marzo__Q21]]
 
 
 
@@ -1108,17 +1232,25 @@ Maximum number of pages if the digit 5 appears 16 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What is true about the colours of the triangles*
+*Which true statement about the colors of the small triangles?*
 
 ![[src_kangourou_2019_ecolier_marzo__prob22.png]]
 
-> Mary has nine small triangles: three red, three yellow and three blue. By placing them as shown in the figure, she formed a large triangle following this rule: if two small triangles have a side in common, they must be of different colors. In the figure you can see where a red triangle (R), a yellow triangle (G) and two blue triangles (B) are located; the other triangles are numbered. Which of the following statements is true? A) 1 is yellow and 3 is blue.
-> 	
+> Maria has 9 small triangles: 3 red, 3 yellow, and 3 blue. By arranging them as shown in the figure, she formed a large triangle according to this rule: if two small triangles share a side, they must be different colors. In the figure, you can see where a red triangle (R), a yellow triangle (G), and two blue triangles (B) are located; the other triangles are numbered. Which of the following statements is true?
+> A) 1 is yellow and 3 is blue.
+>
 > B) 1 is blue and 2 is red.
->      
-> C) 1 and 3 are both red. D) 5 is red and 2 is yellow. E) 1 and 3 are both yellow.
+>
+> C) 1 and 3 are both red.
+> D) 5 is red and 2 is yellow.
+> E) 1 and 3 are both yellow.
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q22|src_kangourou_2019_ecolier_marzo__Q22]]
 
 
 
@@ -1154,11 +1286,21 @@ Maximum number of pages if the digit 5 appears 16 times
 <div class="qlang-split" data-lang="en"></div>
 
 
-Who ate the cookie (one mind only)
+*Who ate the biscuit (only one, mind you)*
 
-> Aldo, Bruno, Charles, Darius and Henry are five friends: one of them ate a cookie. Aldo says, "I didn't eat the cookie". Bruno says, "I ate the cookie". Charles says, "Henry didn't eat the cookie". Darius says, "I didn't eat the cookie". Henry says, "It was Aldo who ate the cookie". Only one of them isn't telling the truth. Who ate the cookie? (A) Aldo B) Bruno C) Charles D) Darius E) Henry
+> Aldo, Bruno, Carlo, Dario, and Enrico are five friends: one of them ate a biscuit. Aldo says, "I didn't eat the biscuit." Bruno says, "I ate the biscuit." Carlo says, "Enrico didn't eat the biscuit." Dario says, "I didn't eat the biscuit." Enrico says, "It was Aldo who ate the biscuit." Only one of them is not telling the truth. Who ate the biscuit?
+> A) Aldo
+> B) Bruno
+> C) Carlo
+> D) Dario
+> E) Enrico
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q23|src_kangourou_2019_ecolier_marzo__Q23]]
 
 
 
@@ -1212,39 +1354,25 @@ Who ate the cookie (one mind only)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many napkins hung in the manner of figure 1*
+*How many napkins laid out as in Figure 1?*
 
 ![[src_kangourou_2019_ecolier_marzo__prob24.png]]
 
-> Emilio hung out to dry the napkins used in 
-> his restaurant. He started by using two clothespins, 
-> as shown in figure 1. 
-> At a certain point, however, 
-> he realized that the 
-> clothespins he 
-> had would not be enough for him. So he started 
-> hanging the napkins as shown in figure 2. 
-> When the work was finished, he had hung a total of 35 
-> napkins and used 58 clothespins. 
-> How many napkins did he hang in the manner shown in figure 1?
+> Emilio hung up the napkins used in his restaurant to dry. He started by using two clothespins, as shown in Figure 1. At a certain point, however, he realized that the clothespins he had would not be enough. So he began hanging the napkins as shown in Figure 2. When he was done, he had hung a total of 35 napkins and used 58 clothespins. How many napkins did he hang in the way shown in Figure 1?
 > A) 12	
-> 	
+>
 > B) 13	
-> 	
+>
 > C) 21	
-> 	
+>
 > D) 22	
-> 	
+>
 > E) 23 
-> B
-> B
-> G
-> R
-> 5 1 2
-> 4 3
-> e 1
-> Figure 1 
-> Figure 2
+> B B G R 5 1 2 4 3 e 1 Figure 1 Figure 2
 >
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_ecolier_marzo#q24|src_kangourou_2019_ecolier_marzo__Q24]]

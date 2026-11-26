@@ -37,11 +37,18 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*full speed up/down/down*
+*All possible integer speeds vs, vp and vd, in metres per second, on closed 600-metre circuits always covered in 50 seconds*
 
-> An automobile model is tested on some 600-meter-long closed circuits, consisting of up- and down-level tracks. All up and down tracts have the same slope. The tests highlight some curious facts: (a) the speed of the model depends only on the fact that the machine is going up, down or down; calling respectively vs, vp and vd these three speeds, we have vs < vp < vd; (b) vs, vp and vd, expressed in meters per second, are integers; (c) however the circuit is composed (with more or less up and down) the travel time is always 50 seconds. Find all possible values of vs, vp and vd.
+> A model car is tested on some closed circuits 600 metres long, made up of level stretches and of uphill or downhill stretches. All the uphill and downhill stretches have the same gradient. The tests bring out some curious facts:
+> (a) the speed of the model depends only on whether the car is travelling an uphill stretch, a level one or a downhill one; calling these three speeds vs, vp and vd respectively, one has vs < vp < vd;
+> (b) vs, vp and vd, expressed in metres per second, are integers;
+> (c) however the circuit is made up (with more or fewer climbs and descents) the time taken is always 50 seconds.
+> Find all possible values of vs, vp and vd.
 
-**Answer:** (10,12,15),(9,12,18),(8,12,24),(7,12,42)
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2013#q01|src_cesenatico_2013__Q01]]
 
 
 
@@ -97,38 +104,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*to show A'B'=(a-b)/2*
+*Prove that the distance between the points of tangency A′ and B′ equals a broken quotient*
 
-![[src_cesenatico_2013__prob2.png]]
+> In triangle ABC suppose a > b, where a = BC and b = AC. Let M be the midpoint of AB, and let α and β be the incircles of triangles ACM and BCM respectively. Let A′ and B′ be the points of tangency of α and β with CM. Prove that A′B′ = a −b
+> 2
+> .
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.9]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (10,0);
-  \coordinate (C) at (2.6,4.2);
-  \coordinate (M) at (5,0);
-  \coordinate (I1) at (2.551,1.421);
-  \coordinate (I2) at (5.664,1.145);
-  \coordinate (Ap) at (3.785,2.126);
-  \coordinate (Bp) at (4.67,0.577);
-  \draw (A)--(B)--(C)--cycle;
-  \draw (C)--(M);
-  \draw (I1) circle (1.421);
-  \draw (I2) circle (1.145);
-  \fill (Ap) circle (1.5pt) node[above right] {$A'$};
-  \fill (Bp) circle (1.5pt) node[above right] {$B'$};
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above] at (C) {$C$};
-  \node[below] at (M) {$M$};
-  \node at (2.0,1.0) {$\alpha$};
-  \node at (5.7,0.6) {$\beta$};
-\end{tikzpicture}
-\end{document}
-```
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-> In the triangle ABC, let's say we have a > b, where a = BC and b = AC. Both M the median point of AB and α and β are the circumferences inscribed respectively on the ACM and BCM triangles. The tangent points of α and β with CM are then A′ and B′. Show that A′B′ = a −b 2 .
+[[src_cesenatico_2013__prob2.png]]
 
 
 
@@ -154,9 +140,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*there is a balanced 2000 block*
+*There is a run of 2000 consecutive integers with exactly 1000 red and 1000 blue*
 
-> Each whole number is colored with one of two colors, red or blue. We know that for every finite set A of consecutive integers, the absolute value of the difference between the number of red integers and the number of blue integers in the set A is at most 1000. Demonstrate that there is a set of 2000 consecutive integers among which there are exactly 1000 red numbers and 1000 blue numbers.
+> Every integer is coloured with one of two colours, red or blue. We know that, for every finite set A of consecutive integers, the absolute value of the difference between the number of red integers and the number of blue integers in the set A is at most 1000. Prove that there exists a set of 2000 consecutive integers among which there are exactly 1000 red numbers and 1000 blue numbers.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2013#q03|src_cesenatico_2013__Q03]]
 
 
 
@@ -180,11 +172,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In which base 5654 is the power of a prime*
+*In which bases b > 6 the writing 5654 represents a power of a prime*
 
 > In which bases b > 6 does the writing 5654 represent a power of a prime number?
 
-**Answer:** base 7 (2048=2^11)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2013#q04|src_cesenatico_2013__Q04]]
 
 
 
@@ -218,11 +214,24 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*parallelism and competition of three sectors*
+*In an isosceles triangle, EB is parallel to AC, and three lines are concurrent; the angle marks are a broken extraction*
 
-![[src_cesenatico_2013__prob5.png]]
+> Given an isosceles triangle ABC with AB = AC and\
+> BAC < 60o, let D be the point on AC such that\
+> DBC = \
+> BAC, let
+> E be the intersection of the perpendicular bisector of BD with the line through A parallel to BC, and let F be the point on the line AC,
+> on the side of A with respect to C, such that the length of FA is twice the length of AC.
+> Finally, let r be the perpendicular to AB drawn through F, s the perpendicular to AC drawn through E, and t the line
+> BD. Prove that:
+> (a) the lines EB and AC are parallel;
+> (b) the lines r, s and t are concurrent.
 
-> Given an isosceles triangle ABC with AB = AC and \ BAC < 60o, both D the point on AC such that \ DBC = \ BAC, both E the intersection of the BD axis with the straight line parallel to BC passing through A, and F the point on the straight AC, from the side of A with respect to C, such that the length of FA is twice the length of AC. Finally, be r the perpendicular to AB led by F, s the perpendicular to AC led by E, and t the straight BD. Demonstrate that: (a) the EB and AC directions are parallel; (b) the r, s and t directions compete.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[src_cesenatico_2013__prob5.png]]
 
 
 
@@ -254,8 +263,13 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*for which the strategy works*
+*For which n the two magicians have a strategy that always identifies the chosen cell on an n by n board*
 
-> Two magicians perform in the following issue. At first, the first magician locks the second magician in a cabin where he can't see or hear anything. To start the game, the first magician invites Daniel, a member of the audience, to put on each box of a chessboard a white or black board at his discretion. Then he asks Daniel to point him to a box C of his choice. At this point, the first magician chooses a box D (not necessarily different from C) and replaces the pedina on D with one of the other color (white with black or black with white). Then the cabin where the second magician was locked is opened. Looking at the chessboard, the second magician can guess what box C is. Which of the two magicians can implement a strategy that their numbers always succeed?
+> Two magicians perform the following act. At the start the first magician shuts the second magician in a booth where he can neither see nor hear anything. To begin the game, the first magician invites Daniele, a member of the audience, to place on each cell of an n × n board, at his discretion, a white or a black piece. He then asks Daniele to point out to him a cell C of his choice. At this point the first magician chooses a cell D (not necessarily different from C) and replaces the piece on D with one of the other colour (white with black, or black with white).
+> The booth in which the second magician was shut is then opened. By looking at the board, the second magician manages to guess which cell is C. For which n can the two magicians carry out a strategy such that their act always succeeds?
 
-**Answer:** n a power of two
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2013#q06|src_cesenatico_2013__Q06]]

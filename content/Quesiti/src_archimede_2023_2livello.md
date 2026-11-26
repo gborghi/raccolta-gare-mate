@@ -38,9 +38,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coloured 9x10 chessboard, maximum red box size*
+*A 9x10 board coloured, maximum red squares*
 
-> The boxes of a chessboard 9 × 10 are red, green or blue. Each square 3 × 3 of the chessboard contains exactly three red, three green and three blue boxes. How many red boxes are there at most?
+> The squares of a 9 × 10 board are coloured red, green or blue. Every 3 × 3 square of the board contains exactly three red, three green and three blue squares. What is the maximum number of red squares?
 >
 > - **(A)** 32
 > - **(B)** 34
@@ -48,7 +48,11 @@ level: 2 livello
 > - **(D)** 39
 > - **(E)** 40
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2023_2livello#q01|src_archimede_2023_2livello__Q01]]
 
 
 
@@ -80,17 +84,20 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colored bags, 'except' conditions, total bags*
+*Number of marbles, given how many are not yellow, red, or blue*
 
-> In a bag, there are balls of various colors. You know, all but six beans are yellow, all but seven beans are red, all but 10 beans are blue. In addition, there is at least one blue ball and there may also be balls of colours other than yellow, red and blue. How many balls is in the bag?
+> A bag contains marbles of various colours. It is known that all the marbles except 6 are yellow, all the marbles except 7 are red, and all the marbles except 10 are blue. Moreover, there is at least one blue marble, and there may also be marbles of colours other than yellow, red, and blue. How many marbles does the bag contain?
 >
-> - **(A)** It is not possible to determine
+> - **(A)** it cannot be determined
 > - **(B)** 11
 > - **(C)** 12
 > - **(D)** 20
 > - **(E)** 23
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2023_2livello#q02|src_archimede_2023_2livello__Q02]]
 
 
 
@@ -131,19 +138,26 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Heart with two circles and tangents, shaded area*
+*Area of the shaded heart drawn from two circles and tangents*
 
-![[src_archimede_2023_2livello__prob3.png]]
-
-> Alice draws a heart on the mathematical notebook as follows: first she draws two circles of radius 1 cm and centers O1, O2, tangent externally. Called r the common tangent to the two circles passing through the contact point, then choose a point P over r so that you have ÿ O1PO2 = 60° and trace the tangents to the two circles passing through P. What is the area of the heart obtained (i.e. the area shaded in the figure) in cm2? O1 O2 P
+> Alice draws a heart in her mathematics notebook as follows: first she draws two circles of radius 1 cm and centres O1, O2, externally tangent. Let r be the common tangent to the two circles passing through the point of contact; she then chooses a point P on r so that one has ÿ󰍴
+> O1PO2 = 60° and draws the tangents to the two circles
+> passing through P. What is the area of the heart obtained (that is, the shaded area in the figure) in cm²?
+> O1
+> O2
+> P
 >
 > - **(A)** 2 √ 3 + 4 3π
 > - **(B)** √ 3 + π
 > - **(C)** 7 3π
 > - **(D)** 3 2 + 2π
-> - **(E)** None of the above
+> - **(E)** none of the above
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2023_2livello#q03|src_archimede_2023_2livello__Q03]]
 
 
 
@@ -175,17 +189,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*4x4 grid with 1,2,3, sums of rows/columns divisible by 3*
+*Ways to fill a 4 × 4 grid with 1, 2, 3 so that every row and column sum is divisible by 3*
 
-> Marina fills the boxes of a grid of 4 × 4 with the number 1, number 2 or number 3 in each. How many ways are there to fill the grid so that the sum of each row and the sum of each column is divisible by 3?
+> Marina fills the cells of a 4 × 4 grid by writing in each the number 1, the number 2, or the number 3. How many ways are there to fill the grid so that the sum of every row and the sum of every column are divisible by 3?
 >
 > - **(A)** 38 −1
 > - **(B)** 38
 > - **(C)** 2 · 38
 > - **(D)** 39
-> - **(E)** None of the above
+> - **(E)** none of the above
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2023_2livello#q04|src_archimede_2023_2livello__Q04]]
 
 
 
@@ -217,9 +235,11 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two rectangles with a common diagonal, overlapping area*
+*Two rectangles with a common diagonal, overlap area*
 
-> Lucius has two identical rectangular-shaped cards with long sides 6 and 9; he supports them on the table so that they have a diagonal in common but are not precisely overlapping. What is the area of the portion of the first paper that is covered by the second?
+> Lucio has two identical rectangular cards with long sides 6 and 9; he places them on the table
+> so that they have a common diagonal but are not precisely superimposed. What
+> is the area of the portion of the first card that is covered by the second?
 >
 > - **(A)** 27
 > - **(B)** 36
@@ -227,7 +247,11 @@ level: 2 livello
 > - **(D)** 38
 > - **(E)** 39
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2023_2livello#q05|src_archimede_2023_2livello__Q05]]
 
 
 
@@ -260,9 +284,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Owners of 10^2024+1 of the form 10^n+1*
+*Proper divisors of $10^{2024}+1$ of the form $10^n+1$*
 
-> Consider the number N = 1000 . . . 0001 consisting of the number one followed by 2023 zeros, which in turn are followed by the number one. How many proper divisors of N (i.e., the strictly understood divisors between 1 and N) are also written as a digit 1 followed by some positive number of zeros, followed in turn by a digit 1?
+> Consider the number $N = 1000 . . . 0001$ consisting of the digit one followed by 2023 zeros, in turn followed by the digit one. How many proper divisors of $N$ (that is, divisors strictly between 1 and $N$) can also be written as a digit 1 followed by some positive number of zeros, in turn followed by a digit 1?
 >
 > - **(A)** 3
 > - **(B)** 5
@@ -270,7 +294,11 @@ level: 2 livello
 > - **(D)** 14
 > - **(E)** 16
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2023_2livello#q06|src_archimede_2023_2livello__Q06]]
 
 
 
@@ -302,9 +330,10 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rational expression first by four n, sum*
+*Rational expression prime for four n, sum*
 
-> For exactly four integer values of n between 1 and 10, extremes included, the expression n9 + 3n+1n6 + 33n represents a prime number. What is the sum of these four values of n?
+> For exactly four integer values of n between 1 and 10, inclusive, the expression
+> n9 + 3n+1n6 + 33n represents a prime number. What is the sum of these four values of n?
 >
 > - **(A)** 12
 > - **(B)** 16
@@ -312,7 +341,11 @@ level: 2 livello
 > - **(D)** 22
 > - **(E)** 25
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2023_2livello#q07|src_archimede_2023_2livello__Q07]]
 
 
 
@@ -344,17 +377,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cube, plane for 6 mean points, volume between two planes*
+*Volume of the part of a cube of side 10 lying between two planes*
 
-> Given a cube on side 10, let's consider a plane that passes through exactly 6 of the middle points of its vertices; let's call those points A, B, C, D, E, F and let's assume that the sides of the ABCDEF hexagon lie each on one side of the cube. Let's consider a second plane containing the AB segment and perpendicular to the face containing AB. What is the volume of the portion of the cube contained between the two floors?
+> Given a cube of side 10, consider a plane that passes through exactly 6 of the midpoints of its edges; call these points A, B, C, D, E, F and suppose that the sides of the hexagon ABCDEF each lie on a face of the cube. Then consider a second plane containing the segment AB and perpendicular to the face containing AB. What is the volume of the portion of the cube contained between the two planes?
 >
 > - **(A)** 250
 > - **(B)** 1000 3
 > - **(C)** 375
 > - **(D)** 1625 3
-> - **(E)** There is no plan with the required properties.
+> - **(E)** no plane with the required properties exists
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2023_2livello#q08|src_archimede_2023_2livello__Q08]]
 
 
 
@@ -388,9 +425,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Succession numbers, initial pairs with a_2023=9*
+*Digit sequence, initial pairs with a_2023=9*
 
-> The an sequence is constructed as follows: a1, a2 are integers between 1 and 9 (extremes included); for n ≥3, if the sum between an−1 and an−2 consists of a single digit, then that sum is the value of an; if instead an−1 + an−2 has more than one digit, the sum of its digits will be the value of an (e.g., if a4 = 7 and a5 = 8, then a6 = 6 as 7 + 8 = 15 and 1 + 5 = 6). How many possible choices of the pair (a1, a2) do you have if a2023 = 9?
+> The sequence $a_n$ is constructed as follows: $a_1$, $a_2$ are integers between 1 and 9 (inclusive); for $n \ge 3$, if the sum of $a_{n-1}$ and $a_{n-2}$ consists of a single digit, then that sum is the value of $a_n$; if instead $a_{n-1} + a_{n-2}$ has more than one digit, the sum of its digits is the value of $a_n$ (for example, if $a_4 = 7$ and $a_5 = 8$, then $a_6 = 6$ since $7 + 8 = 15$ and $1 + 5 = 6$). How many possible choices are there for the pair $(a_1, a_2)$ such that $a_{2023} = 9$?
 >
 > - **(A)** 1
 > - **(B)** 3
@@ -398,7 +435,11 @@ level: 2 livello
 > - **(D)** 27
 > - **(E)** 81
 
-**Answer:** C
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2023_2livello#q09|src_archimede_2023_2livello__Q09]]
 
 
 
@@ -430,9 +471,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parallelogram, centered beacons, length AM*
+*Parallelogram, angle bisector to midpoint, length AM*
 
-> Either ABCD is a parallelogram such that the bisector coming out of B intersects the CD side at its midpoint M. The BC side is length 6, and the AC diagonal is length 14. Determine the length of AM.
+> ABCD is a parallelogram such that the bisector from B intersects side CD at its midpoint M. Side BC is 6 long, and diagonal AC is 14 long. Determine the length of AM.
 >
 > - **(A)** 2 √ 19
 > - **(B)** 14 −3 √ 3
@@ -440,7 +481,11 @@ level: 2 livello
 > - **(D)** 9
 > - **(E)** 2 √ 22
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2023_2livello#q10|src_archimede_2023_2livello__Q10]]
 
 
 
@@ -474,9 +519,10 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (m,n) whose fraction begins with 3,14*
+*How many fractions m/n with n < 100 begin with 3,14*
 
-> Archimedes well knew that π ≈3,1416 can be approximated by excess from the fraction 22/7 ≈ 3,1429 and that at least the first two digits after the comma are correct. For how many pairs of integers (m, n), with 1 < n < 100, do we have the decimal writing of the fraction m n starting right with 3.14?
+> Archimede knew well that π ≈ 3,1416 can be approximated from above by the fraction 22/7 ≈ 3,1429, and that at least the first two digits after the decimal point are correct. For how many pairs of integers (m, n), with 1 < n < 100, does the decimal expansion of the fraction m
+> n begin precisely with 3,14?
 >
 > - **(A)** 14
 > - **(B)** 21
@@ -484,7 +530,12 @@ level: 2 livello
 > - **(D)** 50
 > - **(E)** None of the above
 
-**Answer:** C
+**Topic:** [[topic_geometria_analitica|Analytic geometry]], [[topic_aritmetica|Arithmetic / number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2023_2livello#q11|src_archimede_2023_2livello__Q11]]
 
 
 
@@ -518,17 +569,21 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dancer/dancer assignments, 13 non-crossing segments*
+*Ways to assign male dancers to female dancers so that 13 segments meet only at endpoints*
 
-> A complicated choreography involves a row of 7 dancers equipsed on a stage plane; in front of that of the dancers there is an identical line, parallel, of as many dancers. The choreographer wants to assign some dancers to each dancer so that, by tracing on stage the segment that unites the position of each dancer to that of the dancers assigned to her, there are no segments that intersect except at the ends. It also wants the total number of segments traced to be 13. How many possible ways of making allocations that satisfy these properties?
+> A complicated choreography has a row of 7 equally spaced female dancers on a flat stage; facing the female dancers' row there is an identical, parallel row of as many male dancers. The choreographer wants to assign some male dancers to each female dancer so that, drawing on the stage the segment that joins the position of each female dancer to that of the male dancers assigned to her, no segments intersect except at their endpoints. She also wants the total number of segments drawn to be 13. How many ways are there to make the assignments that satisfy these properties?
 >
 > - **(A)** 128
 > - **(B)** 343
 > - **(C)** 486
 > - **(D)** 924
-> - **(E)** 1716 Problems with numerical answers  5 points
+> - **(E)** 1716
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2023_2livello#q12|src_archimede_2023_2livello__Q12]]
 
 
 
@@ -556,11 +611,16 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular living room, taken from a distance of 5m, maximum area*
+*Rectangular living room, socket at a distance of 5m, maximum area*
 
-> Philip's living room is rectangular. Filippo noted that if he attaches the vacuum cleaner to the socket near the entrance door he can clean the entire floor: this means that all the floor points are less than 5m away from the wall where the socket is located. What is the maximum value of the living area (in m2)?
+> The living room of Filippo's house has a rectangular floor plan.
+> Filippo noticed that if he attaches the vacuum cleaner to the socket near the entrance door, he manages to clean the whole floor: this means that all points of the floor are at a distance less than 5m from the point on the wall where the socket is located. What is the maximum possible area of the living room (in m2)?
 
-**Answer:** 25
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2023_2livello#q13|src_archimede_2023_2livello__Q13]]
 
 
 
@@ -587,11 +647,16 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2023 people in line, claims on thieves, how many*
+*2023 people in a line, statements about liars, how many*
 
-> On one island there are 2023 Indian people in line, each of whom is a con man or a knight: the knights always tell the truth, while the con men always lie. If they are odd, the person in the eighth position exclaims: There are at least thieves; if they are even, the person in the eighth position exclaims: There are exactly thieves. How many thieves are there?
+> On an island there are 2023 people in a line, each of whom is either a liar or a knight:
+> knights always tell the truth, while liars always lie. If $i$ is odd, the person in position $i$-th exclaims: “There are at least $i$ liars”; if $i$ is even, the person in position $i$-th exclaims: “There are exactly $i$ liars”. How many are the liars?
 
-**Answer:** 1348
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2023_2livello#q14|src_archimede_2023_2livello__Q14]]
 
 
 
@@ -618,9 +683,18 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Isosceles trapezoid, bisectriform, AB=AP with condition*
+*Isosceles trapezium, angle bisectors, AB=AP iff condition*
 
-> Demonstrative Exercise Whether ABCD is an isosceles trapezoid of base major AB such that the angle bisector in D passes through B. Let's say that the intersection of the angle in A intersects the side of BC at the point P. Demonstrate that AB = AP if and only if the biset of ÷ PAD passes through C.
+> PROOF EXERCISE
+> Let ABCD be an isosceles trapezium with longer base AB such that the bisector of the angle at D passes through B. Suppose that the bisector of the angle at A intersects side BC at point P.
+> Prove that AB = AP if and only if the bisector of ÷
+> PAD passes through C.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2023_2livello#q15|src_archimede_2023_2livello__Q15]]
 
 
 
@@ -648,9 +722,19 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Doubly reversible numbers, types 2 and 3*
+*Double-reversible numbers, types 2 and 3*
 
-> A positive integer n is said to be twice reversible of type l if there are two consecutive bases b and b + 1 such that n is represented by numeric palindromes on both base b and base b + 1. For example, 104 is double reversible type 3 because 10410 = 4045 = 2526. (a) Demonstrate that there are no double reversible type 2 numbers. (b) Demonstrate that there are infinitely many double reversibles of type 3.
+> PROOF EXERCISE
+> A positive integer n is said to be double-reversible of type ℓ if there exist two consecutive bases b and b + 1 such that n is represented by palindromic numbers of ℓ digits both in base b and in base b + 1.
+> For example, 104 is double-reversible of type 3 because 10410 = 4045 = 2526.
+> (a) Prove that there are no double-reversible numbers of type 2.
+> (b) Prove that there are infinitely many double-reversible numbers of type 3.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2023_2livello#q16|src_archimede_2023_2livello__Q16]]
 
 
 
@@ -685,6 +769,19 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Labyrinth sets in Table 2n x 2n, perimeter and limits*
+*Labyrinth sets in a 2n x 2n grid, perimeter and bounds*
 
-> DEMOSTRATIVE EXERCISE Given a table 2n×2n, a subset S of its boxes is said to be labyrinthine if it has the following properties: • from each S box it is possible to move to any other S box by moving only from S boxes to adjacent S boxes (horizontal or vertical, i.e. having a side in common with the box of origin); • it is not possible, starting from an S box, to return to the same box by moving only to adjacent S boxes and never crossing the same side twice. (a) Demonstrate that if S is labyrinthine then it cannot have more than 3n2 boxes; (b) Exhibit a set of 12 labyrinthine boxes for n = 2. (c) We call the perimeter of S the number of sides adjacent to at least one S box, but not to two S boxes. If S is labyrinthine and consists of k boxes, how much is its perimeter? (d) Demonstrate that there is no set of 300 labyrinth boxes if n = 10.
+> PROOF EXERCISE
+> Given a 2n×2n grid, a subset S of its cells is called labyrinthine if it has the following properties:
+> • from every cell of S it is possible to move to every other cell of S moving only from cells of S to adjacent cells of S (horizontally or vertically, i.e. having a side in common with the cell of origin);
+> • it is not possible, starting from a cell of S, to return to the same cell moving only towards adjacent cells of S and never crossing the same side twice.
+> (a) Prove that if S is labyrinthine then it cannot have more than 3n2 cells;
+> (b) Exhibit a labyrinthine set of 12 cells for n = 2.
+> (c) We call the perimeter of S the number of sides adjacent to at least one cell of S, but not to two cells of S. If S is labyrinthine and consists of k cells, what is its perimeter?
+> (d) Prove that there does not exist a labyrinthine set of 300 cells if n = 10.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]], [[method_induzione|Induction]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2023_2livello#q17|src_archimede_2023_2livello__Q17]]

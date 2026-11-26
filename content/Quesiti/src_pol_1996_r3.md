@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti gli integri positivi n e r reali in modo tale che 2x^2+2x+1 divida (x+1)^n - r.*
+*Determinare gli interi positivi n e i numeri reali r tali che 2x^2+2x+1 divide (x+1)^n − r*
 
-> Determinare tutti i numeri interi positivi $n$ e i numeri reali $r$ in modo tale che il polinomio $2x^2+2x+1$ divida $(x+1)^n - r$.
+> Determinare tutti gli interi positivi $n$ e i numeri reali $r$ tali che il polinomio $2x^2+2x+1$ divide $(x+1)^n - r$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_1996_r3#q01|src_pol_1996_r3__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto interno del triangolo ABC con angolo PBC = angolo PCA < angolo PAB; linea BP incontra il circoncircolo di nuovo a E, il circoncircolo di APE incontra il CE di nuovo a F; dimostrare che l'APEF è un quadrilaterale convexo e che il rapporto tra la sua area e l'area del triangolo ABP è indipendente da P.*
+*Punto interno di un triangolo con un vincolo sugli angoli: il quadrilatero costruito è convesso e il rapporto delle aree non dipende dal punto*
 
-> $P$ sia un punto interno di un triangolo $ABC$ tale che $\angle PBC = \angle PCA < \angle PAB$. La linea $BP$ interseca nuovamente il circoncircolo del triangolo $ABC$ al punto $E$. Il circoncircolo del triangolo $APE$ si interseca di nuovo con $CE$ a $F$. Prove che $APEF$ è un quadrilaterale convesso e che il rapporto tra la sua superficie e la superficie del triangolo $ABP$ non dipende dalla scelta di $P$.
+> Sia $P$ un punto interno di un triangolo $ABC$ tale che $\angle PBC = \angle PCA < \angle PAB$. La retta $BP$ interseca di nuovo la circonferenza circoscritta al triangolo $ABC$ nel punto $E$. La circonferenza circoscritta al triangolo $APE$ interseca di nuovo $CE$ in $F$. Dimostrare che $APEF$ è un quadrilatero convesso e che il rapporto tra la sua area e l'area del triangolo $ABP$ non dipende dalla scelta di $P$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_1996_r3#q02|src_pol_1996_r3__Q02]]
 
 
 
@@ -84,13 +96,21 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per i positivi a_i e x_i ogni somma a 1, provare 2×sum_{i<j} x_i x_j <= (n-2)/(n-1) + somma a_i x_i^2/(1-a_i), e determinare i casi di uguaglianza.*
+*Numeri positivi di somma 1: dimostrare la disuguaglianza per ogni altra ennupla positiva di somma 1, e determinare i casi di uguaglianza*
 
-> $a_1, a_2, \ldots, a_n$ siano numeri positivi con la somma 1.
-> 
-> (a) Prove che per ogni $x_1, x_2, \ldots, x_n$ positivo con la somma 1 si ritiene che $$2\sum_{i<j} x_i x_j \le \frac{n-2}{n-1} + \sum_{i=1}^{n} \frac{a_i x_i^2}{1-a_i}.$$
-> 
-> b) Nella disuguaglianza sopra indicata, determinare tutti i casi di uguaglianza.
+> Siano $a_1, a_2, \ldots, a_n$ numeri positivi di somma 1.
+>
+> (a) Dimostrare che, per ogni scelta di numeri positivi $x_1, x_2, \ldots, x_n$ di somma 1, vale
+>
+> $$2\sum_{i<j} x_i x_j \le \frac{n-2}{n-1} + \sum_{i=1}^{n} \frac{a_i x_i^2}{1-a_i}.$$
+>
+> (b) Nella disuguaglianza precedente, determinare tutti i casi di uguaglianza.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_pol_1996_r3#q03|src_pol_1996_r3__Q03]]
 
 
 
@@ -112,9 +132,14 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tetraedro ABCD con angolo BAC = angolo ACD e angolo CDB = angolo DBA; dimostrare AB = CD.*
+*Tetraedro con due coppie di angoli uguali: dimostrare che due spigoli sono uguali*
 
-> Supponiamo che un tetraedro $ABCD$ sia tale che $\angle BAC = \angle ACD$ e $\angle CDB = \angle DBA$. Prove che $AB = CD$.
+> Si supponga che un tetraedro $ABCD$ sia tale che $\angle BAC = \angle ACD$ e $\angle CDB = \angle DBA$. Dimostrare che $AB = CD$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_1996_r3#q04|src_pol_1996_r3__Q04]]
 
 
 
@@ -139,9 +164,19 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Con p(k) = minimo primo non diviso k, q(k) = prodotto di tutti i primi più piccoli di p(k) (1 se p(k) =2), x_0=1, x_{n+1}=x_n p(x_n)/q(x_n), determinare tutti n con x_n = 111111.*
+*Successione definita tramite il minimo primo che non divide k: determinare gli indici in cui il termine vale 111111*
 
-> Per un numero naturale $k$, indichiamo con $p(k)$ il numero primo minore che non divide $k$. Difiniamo $q(k)$ come il prodotto di tutti i numeri primi inferiori a $p(k)$ se $p(k) > 2$, e come 1 altrimenti. La sequenza $(x_n)$ è data da $x_0 = 1$ e $$x_{n+1} = \frac{x_n\, p(x_n)}{q(x_n)} \qquad \text{for } n = 0, 1, 2, \ldots.$$ Determina tutti gli integri positivi $n$ in modo tale che $x_n = 111111$.
+> Per un numero naturale $k$, indichiamo con $p(k)$ il più piccolo numero primo che non divide $k$. Definiamo $q(k)$ come il prodotto di tutti i primi minori di $p(k)$ se $p(k) > 2$, e come 1 altrimenti. La successione $(x_n)$ è data da $x_0 = 1$ e
+>
+> $$x_{n+1} = \frac{x_n\, p(x_n)}{q(x_n)} \qquad \text{for } n = 0, 1, 2, \ldots.$$
+>
+> Determinare tutti gli interi positivi $n$ tali che $x_n = 111111$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_1996_r3#q05|src_pol_1996_r3__Q05]]
 
 
 
@@ -164,6 +199,12 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tra le permutazioni f di {1,...,n} con f(i) >= i-1 per tutti i, p_n è la probabilità che una scelta casuale soddisfi anche f(i) <= i+1 per tutti i; determinare tutti n con p_n > 1/3.*
+*Permutazioni di 1, ..., n con f(i) almeno i−1: probabilità che valga anche f(i) al più i+1, e per quali n supera 1/3*
 
-> Considera la raccolta di tutte le permutazioni $f$ del set $\{1, 2, \ldots, n\}$ che soddisfano $f(i) \ge i-1$ per tutte le $i$. $p_n$ sia la probabilità che una permutazione scelta casualmente da questa collezione soddisfi anche $f(i) \le i+1$ per tutti $i$. Determinare tutti i $n$ per i quali $p_n > 1/3$.
+> Si consideri l'insieme di tutte le permutazioni $f$ dell'insieme $\{1, 2, \ldots, n\}$ che soddisfano $f(i) \ge i-1$ per ogni $i$. Sia $p_n$ la probabilità che una permutazione scelta a caso in questo insieme soddisfi anche $f(i) \le i+1$ per ogni $i$. Determinare tutti gli $n$ per cui $p_n > 1/3$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità e statistica]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_1996_r3#q06|src_pol_1996_r3__Q06]]

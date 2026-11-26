@@ -32,9 +32,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi tra 10 e 13000 i cui numeri sono consecutivi e in aumento*
+*Conta gli interi compresi tra 10 e 13000 i cui digit sono consecutivi e crescenti*
 
-> Quanti numeri tra $10$ e $13000$, letti da sinistra a destra, sono formati da cifre consecutive in ordine crescente? Ad esempio, $456$ è uno di questi numeri, ma $7890$ non lo è. (A) $10$ (B) $13$ (C) $18$ (D) $22$ (E) $25$
+> Quanti numeri compresi tra $10$ e $13000$, letti da sinistra a destra, sono formati da cifre consecutive in ordine crescente? Ad esempio, $456$ è uno di questi numeri, ma $7890$ no.
+> (A) $10$ (B) $13$ (C) $18$ (D) $22$ (E) $25$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n3_f1#q01|src_obm_2005_n3_f1__Q01]]
 
 
 
@@ -62,11 +72,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo LMN dove L, M, N sono punti di mezzo dei bordi di un cubo*
+*Angolo LMN, dove L, M, N sono i punti medi degli spigoli di un cubo*
 
-> $L$, $M$ e $N$ sono i punti di mezzo dei bordi del cubo, come mostra la figura. Qual è la misura dell'angolo $L\hat{M}N$? (A) $90^\circ$ (B) $105^\circ$ (C) $120^\circ$ (D) $135^\circ$ (E) $150^\circ$
+> $L$, $M$ e $N$ sono i punti medi dei spigoli del cubo, come mostra la figura. Qual è la misura dell'angolo $L\hat{M}N$?
+> (A) $90^\circ$ (B) $105^\circ$ (C) $120^\circ$ (D) $135^\circ$ (E) $150^\circ$
 
 ![[src_obm_2005_n3_f1__q02.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n3_f1#q02|src_obm_2005_n3_f1__Q02]]
 
 
 
@@ -93,11 +113,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo LRP con tangente PQ a N per circolare attraverso L, M, N e LM=LN*
+*Angolo LRP con PQ tangente in N al cerchio passante per L, M, N e LM = LN*
 
-> Nella figura, la linea $PQ$ tocca a $N$ il cerchio che attraversa $L$, $M$ e $N$. La linea $LM$ taglia la linea $PQ$ a $R$. Se $LM = LN$ e la misura dell'angolo $P\hat{N}L$ è $\alpha$, con $\alpha < 60^\circ$, qual è la misura dell'angolo $L\hat{R}P$? (A) $3\alpha - 180^\circ$ (B) $180^\circ - 2\alpha$ (C) $180^\circ - \alpha$ (D) $90^\circ - \dfrac{\alpha}{2}$ (E) $\alpha$
+> Nella figura, la retta $PQ$ tocca, in $N$, la circonferenza che passa per $L$, $M$ e $N$. La retta $LM$ interseca la retta $PQ$ in $R$. Se $LM = LN$ e la misura dell'angolo $P\hat{N}L$ è $\alpha$, con $\alpha < 60^\circ$, qual è la misura dell'angolo $L\hat{R}P$?
+> (A) $3\alpha - 180^\circ$ (B) $180^\circ - 2\alpha$ (C) $180^\circ - \alpha$ (D) $90^\circ - \dfrac{\alpha}{2}$ (E) $\alpha$
 
 ![[src_obm_2005_n3_f1__q03.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n3_f1#q03|src_obm_2005_n3_f1__Q03]]
 
 
 
@@ -123,9 +152,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova O+B+M dato OBM=240, OB+M=46, O+BM=64*
+*Trovare O+B+M sapendo che OBM=240, OB+M=46, O+BM=64*
 
-> Le lettere $O$, $B$ e $M$ rappresentano numeri interi. Se $O \times B \times M = 240$, $O \times B + M = 46$ e $O + B \times M = 64$, allora $O + B + M$ è uguale a: (A) $19$ (B) $20$ (C) $21$ (D) $24$ (E) $36$
+> Le lettere $O$, $B$ e $M$ rappresentano numeri interi. Se $O \times B \times M = 240$, $O \times B + M = 46$ e $O + B \times M = 64$, allora $O + B + M$ è uguale a:
+> (A) $19$ (B) $20$ (C) $21$ (D) $24$ (E) $36$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n3_f1#q04|src_obm_2005_n3_f1__Q04]]
 
 
 
@@ -151,9 +190,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova la cifra n: un moltiplo di 7 fiancheggiato dal 2004 e un numero di cifre del 2005*
+*Trovare la cifra n: un multiplo di 7 affiancato da 2004 e da un numero di 2005 cifre*
 
-> Esmeralda ha digitato correttamente un multiple di $7$ superiore a un miliardo, con cifre $4010$. Alla sua sinistra ha scritto il numero $2004$ e alla sua destra, $1$, ottenendo nuovi numeri $2004\ldots1$ con una cifra $n$ e $2005$. Qual è il valore di $n$? (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
+> Esmeralda ha digitato correttamente un multiplo di $7$ maggiore di un miliardo, con $4010$ cifre. A sinistra di esso ha scritto il numero $2004$ e a destra di esso, $1$, ottenendo nuovi numeri $2004\ldots1$ con una cifra $n$ e $2005$ cifre. Qual è il valore di $n$?
+> (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n3_f1#q05|src_obm_2005_n3_f1__Q05]]
 
 
 
@@ -181,9 +230,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il valore possibile di y nell'equazione radicale nidificata è uguale a 1*
+*Valore possibile di y nell'equazione a radice annidata pari a 1*
 
-> I numeri interi positivi $x$ e $y$ soddisfano l'equazione $$\sqrt{x + \tfrac{1}{2}\sqrt{y}} - \sqrt{x - \tfrac{1}{2}\sqrt{y}} = 1.$$ Quale delle alternative presenta un possibile valore di $y$? (A) $5$ (B) $6$ (C) $7$ (D) $8$ (E) $9$
+> I numeri interi positivi $x$ e $y$ soddisfano l'equazione
+> $$\sqrt{x + \tfrac{1}{2}\sqrt{y}} - \sqrt{x - \tfrac{1}{2}\sqrt{y}} = 1.$$
+> Quale delle alternative presenta un valore possibile di $y$?
+> (A) $5$ (B) $6$ (C) $7$ (D) $8$ (E) $9$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n3_f1#q06|src_obm_2005_n3_f1__Q06]]
 
 
 
@@ -211,11 +272,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i quadrati distinti della lavagna toccati da un blocco 1x2x3 rotolato attorno a una lavagna 8x8*
+*Conta le caselle distinte della scacchiera toccate da un blocco 1x2x3 rotolato su una scacchiera 8x8*
 
-> Un blocco di dimensioni $1 \times 2 \times 3$ è posizionato su una lavagna $8 \times 8$, come mostra la figura, con una delle sue facce in contatto con l'angolo inferiore sinistro della lavagna. Rotoliamo il blocco, girandolo intorno ai bordi della lavagna finché non ritorna alla posizione da cui ha iniziato. In questo modo il blocco, che ruota sulle sue facce $X$, $Y$ e $Z$, occupa diversi quadrati della lavagna. Quanti quadrati della lavagna erano in contatto con il blocco? (A) $18$ (B) $19$ (C) $20$ (D) $21$ (E) $22$
+> Un blocco di dimensioni $1 \times 2 \times 3$ viene collocato su una tavola $8 \times 8$, come mostra la figura, con una delle sue facce a contatto con l'angolo in basso a sinistra della tavola. Facciamo rotolare il blocco, facendolo girare attorno ai suoi spigoli sulla tavola, finché non torna nella posizione iniziale. In questo modo, il blocco, rotolando sulle sue facce $X$, $Y$ e $Z$, occupa diverse caselle della tavola. Quante caselle diverse della tavola sono state a contatto con il blocco?
+> (A) $18$ (B) $19$ (C) $20$ (D) $21$ (E) $22$
 
 ![[src_obm_2005_n3_f1__q07.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2005_n3_f1#q07|src_obm_2005_n3_f1__Q07]]
 
 
 
@@ -240,9 +311,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Offerta equivalente di acquisto-N-pay-M per acquisto-one-get-second-at-half-price*
+*Offerta equivalente buy-N-pay-M per l'offerta "compra uno, il secondo a metà prezzo"*
 
-> Un negozio di saponi fa una promozione con l'annuncio: "Acquistate uno e prendete un altro a metà prezzo". Un'altra promozione che il negozio potrebbe fare per offrire lo stesso sconto percentuale è: (A) "Prenditi due e paga uno" (B) "Prenditi tre e paga uno" (C) "Prenditi tre e paga due" (D) "Prenditi quattro e paga tre" (E) "Prenditi cinque e paga quattro"
+> Un negozio di saponi lancia una promozione con l'annuncio: "Acquistane uno e prendine un altro a metà prezzo". Un'altra promozione che il negozio potrebbe attuare per offrire lo stesso sconto percentuale è:
+> (A) "Prendi due e paga uno" (B) "Prendi tre e paga uno" (C) "Prendi tre e paga due" (D) "Prendi quattro e paga tre" (E) "Prendi cinque e paga quattro"
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n3_f1#q08|src_obm_2005_n3_f1__Q08]]
 
 
 
@@ -267,9 +347,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Volume stimato di tutto il platino prodotto nella storia per densità e tonnellata*
+*Stima il volume di tutto il platino prodotto nella storia tramite la densità e la tonnellata*
 
-> Il platino è un metallo molto raro, più raro e costoso dell'oro. La densità è $21.45\ \text{g/cm}^3$. Supponiamo che la produzione mondiale di platino negli ultimi anni fosse di circa $110$ tonnellate all'anno, e che prima fosse trascurabile. Indicare l'alternativa il cui volume è più vicino al volume di platino prodotto nella storia umana: (A) una scatola da scarpe (B) una piscina (C) un edificio di dieci piani (D) il Monte Pascoal (E) la Luna
+> Il platino è un metallo molto raro, più raro e più costoso dell'oro. La sua densità è $21.45\ \text{g/cm}^3$. Supponiamo che la produzione mondiale di platino negli ultimi $50$ anni sia stata di circa $110$ tonnellate all'anno, e che prima di allora fosse trascurabile. Indica l'alternativa il cui volume è il più vicino al volume di platino prodotto nella storia dell'umanità:
+> (A) una scatola da scarpe (B) una piscina (C) un edificio di dieci piani (D) il Monte Pascoal (E) la Luna
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n3_f1#q09|src_obm_2005_n3_f1__Q09]]
 
 
 
@@ -297,11 +386,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Costo percorso attraverso tutte e 14 le vertici della rete di fili cubici con diagonali facciali*
+*Cammino più breve che attraversa tutti e 14 i vertici della rete filiforme del cubo con le diagonali delle facce*
 
-> La figura mostra un cubo di bordo $1$ in cui sono stati disegnati tutti i dodici diagonali di faccia. Con questo, è stata creata una rete con vertici $14$ (vertici $8$ del cubo e $6$ centri di facce) e bordi $36$ (le bordi $12$ del cubo e $4$ su ciascuna faccia, il totale $24$ sulle facce $6$). Qual è la lunghezza del percorso più corto, formato dai bordi della rete, che attraversa tutti i vertici $14$? (A) $1 + 6\sqrt{2}$ (B) $4 + 2\sqrt{2}$ (C) $6$ (D) $8 + 6\sqrt{2}$ (E) $12 + 12\sqrt{2}$
+> La figura mostra un cubo con spigolo $1$ in cui sono state tracciate tutte e dodici le diagonali delle facce. In questo modo è stato creato un grafo con $14$ vertici ($8$ vertici del cubo e $6$ centri delle facce) e $36$ spigoli (i $12$ spigoli del cubo e $4$ su ciascuna faccia, per un totale di $24$ sugli $6$ facce). Qual è la lunghezza del percorso più breve, formato da spigoli del grafo, che passa per tutti i $14$ vertici?
+> (A) $1 + 6\sqrt{2}$ (B) $4 + 2\sqrt{2}$ (C) $6$ (D) $8 + 6\sqrt{2}$ (E) $12 + 12\sqrt{2}$
 
 ![[src_obm_2005_n3_f1__q10.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n3_f1#q10|src_obm_2005_n3_f1__Q10]]
 
 
 
@@ -327,9 +426,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero minimo di bordi di un poliedro con faccia esagonale regolare*
+*Numero minimo di spigoli di un poliedro che ha una faccia esagonale regolare*
 
-> Una delle facce di un poliedro è un esagono regolare. Qual è la quantità minima di bordi che questo poliedro può avere? (A) $7$ (B) $9$ (C) $12$ (D) $15$ (E) $18$
+> Una delle facce di un poliedro è un esagono regolare. Qual è il numero minimo di spigoli che questo poliedro può avere?
+> (A) $7$ (B) $9$ (C) $12$ (D) $15$ (E) $18$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n3_f1#q11|src_obm_2005_n3_f1__Q11]]
 
 
 
@@ -355,9 +464,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre massimo di mesi in un anno con cinque domeniche*
+*Numero massimo di mesi in un anno che hanno cinque domeniche*
 
-> In un anno, quante mesi hanno cinque domeniche al massimo? (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
+> In un anno, al massimo, quanti mesi hanno cinque domeniche?
+> (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n3_f1#q12|src_obm_2005_n3_f1__Q12]]
 
 
 
@@ -382,9 +501,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza del CD in triangolo ABC con D su BC, AB=AD=2, BD=1, condizione del bisettore angolare*
+*Lunghezza di CD nel triangolo ABC, con D su BC, AB=AD=2, BD=1, condizione della bisettrice dell'angolo*
 
-> $D$ è un punto appartenente al lato $BC$ del triangolo $ABC$. Sapendo che $AB = AD = 2$, $BD = 1$ e gli angoli $B\hat{A}D$ e $C\hat{A}D$ sono congruenti, la misura del segmento $CD$ è: (A) $\dfrac{3}{2}$ (B) $\dfrac{4}{3}$ (C) $\dfrac{5}{4}$ (D) $\dfrac{6}{5}$ (E) $\dfrac{7}{6}$
+> $D$ è un punto appartenente al lato $BC$ del triangolo $ABC$. Sapendo che $AB = AD = 2$, $BD = 1$ e gli angoli $B\hat{A}D$ e $C\hat{A}D$ sono congruenti, allora la misura del segmento $CD$ è:
+> (A) $\dfrac{3}{2}$ (B) $\dfrac{4}{3}$ (C) $\dfrac{5}{4}$ (D) $\dfrac{6}{5}$ (E) $\dfrac{7}{6}$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n3_f1#q13|src_obm_2005_n3_f1__Q13]]
 
 
 
@@ -410,9 +538,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri 1..12 attorno a un cerchio con somme vicine triangolare; trovare numero opposto 12*
+*I numeri da 1 a 12 disposti in cerchio, con le somme dei numeri vicini che formano un triangolo; trovare il numero opposto a 12*
 
-> Esmeralda adora i numeri triangolari (cioè i numeri $1$, $3$, $6$, $10$, $15$, $21$, $28$, ...), tanto che ha deciso di posizionare i numeri $1$, $2$, $3$, ..., $12$ attorno a un cerchio in modo tale che la somma di ogni coppia di numeri vicini sia un numero triangolare. All'inizio ha lasciato $12$ fuori. Il numero opposto a $12$ nella sua disposizione (il numero originale) è: (A) $1$ (B) $4$ (C) $3$ (D) $6$ (E) $10$
+> Esmeralda adora i numeri triangolari (cioè i numeri $1$, $3$, $6$, $10$, $15$, $21$, $28$, ...), al punto da decidere di disporre i numeri $1$, $2$, $3$, ..., $12$ lungo una circonferenza in modo che la somma di ciascuna coppia di numeri adiacenti sia un numero triangolare. All'inizio ha lasciato fuori $12$. Il numero opposto a $12$ nella sua disposizione (il numero originale) è:
+> (A) $1$ (B) $4$ (C) $3$ (D) $6$ (E) $10$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n3_f1#q14|src_obm_2005_n3_f1__Q14]]
 
 
 
@@ -440,9 +578,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con a_{n+1}=a_{n+2}(a_{n+1}+a_n), data a_5=35 trovare a_4*
+*Successione con a_{n+1}=a_{n+2}(a_{n+1}+a_n); dato a_5=35, trovare a_4*
 
-> I termini $a_n$ di una sequenza di numeri interi positivi soddisfano la relazione $$a_{n+1} = a_{n+2}(a_{n+1} + a_n)\quad\text{for } n = 1, 2, 3, \ldots$$ Se $a_5 = 35$, cosa è $a_4$? (A) $1$ (B) $3$ (C) $5$ (D) $7$ (E) $9$
+> I termini $a_n$ di una successione di numeri interi positivi soddisfano la relazione
+> $$a_{n+1} = a_{n+2}(a_{n+1} + a_n)\quad\text{for } n = 1, 2, 3, \ldots$$
+> Se $a_5 = 35$, qual è $a_4$?
+> (A) $1$ (B) $3$ (C) $5$ (D) $7$ (E) $9$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n3_f1#q15|src_obm_2005_n3_f1__Q15]]
 
 
 
@@ -468,9 +618,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizione per l'aggiunta per la distribuzione per moltiplicazione: a+(bc)=(a+b)(a+c)*
+*Condizione per l'addizione da distribuire rispetto alla moltiplicazione: a+(bc)=(a+b)(a+c)*
 
-> $a$, $b$ e $c$ siano numeri reali. Per la proprietà distributiva della moltiplicazione sull'addizione, è vero che $a \times (b + c) = (a \times b) + (a \times c)$. La distributività dell'addizione sulla moltiplicazione, cioè $a + (b \times c) = (a + b) \times (a + c)$, non è sempre vera, ma si verifica, cioè si verifica, se e solo se: (A) $a = b = c$ o $a + \tfrac{1}{3} = 0$ (B) $a = b = c$ (C) l'uguaglianza non si verifica mai (D) $a + b + c = 1$ o $a = 0$ (E) $a = b = c = 0$
+> Siano $a$, $b$ e $c$ numeri reali. Per la proprietà distributiva della moltiplicazione rispetto all'addizione, vale $a \times (b + c) = (a \times b) + (a \times c)$. La proprietà distributiva dell'addizione rispetto alla moltiplicazione, cioè $a + (b \times c) = (a + b) \times (a + c)$, non è sempre vera, ma si verifica, cioè è soddisfatta, se e solo se:
+> (A) $a = b = c$ o $a + \tfrac{1}{3} = 0$ (B) $a = b = c$ (C) l'uguaglianza non si verifica mai (D) $a + b + c = 1$ o $a = 0$ (E) $a = b = c = 0$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n3_f1#q16|src_obm_2005_n3_f1__Q16]]
 
 
 
@@ -497,11 +657,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio a/b di due aree grigie in una configurazione di cerchi uguali con centri alle vertici di un quadrato*
+*Rapporto a/b di due aree grigie in una configurazione di cerchi uguali i cui centri sono nei vertici di un quadrato*
 
-> Nella figura, i cerchi hanno lo stesso raggio $r$ e i loro centri sono vertici di un quadrato. I cerchi toccano un cerchio di raggio maggiore il cui centro è al centro del quadrato, che ha vertici a... Le aree grigie indicate nella figura sono $a$ e $b$. Il rapporto $\dfrac{a}{b}$ è quindi uguale a: (A) $\dfrac{1}{2}$ (B) $\dfrac{2}{3}$ (C) $1$ (D) $\dfrac{3}{2}$ (E) $2$
+> Nella figura, i cerchi hanno lo stesso raggio $r$ e i loro centri sono vertici di un quadrato. I cerchi toccano un cerchio di raggio maggiore, il cui centro coincide con il centro del quadrato, il quale ha i vertici in... Siano $a$ e $b$ le aree grigie indicate nella figura. Allora il rapporto $\dfrac{a}{b}$ è uguale a:
+> (A) $\dfrac{1}{2}$ (B) $\dfrac{2}{3}$ (C) $1$ (D) $\dfrac{3}{2}$ (E) $2$
 
 ![[src_obm_2005_n3_f1__q17.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n3_f1#q17|src_obm_2005_n3_f1__Q17]]
 
 
 
@@ -527,9 +696,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quanti dei 13 reali non-zero sono negativi dati 22 prodotti in coppia negativa e più positivi*
+*Quanti dei 13 numeri reali non nulli sono negativi, dato che i prodotti a coppie sono 22 e sono negativi e che ci sono più numeri positivi?*
 
-> Tra i tredici numeri reali non zero ci sono più numeri positivi di quelli negativi. Tra i prodotti $\dfrac{13 \times 12}{2} = 78$ di coppie di 13 numeri, $22$ sono negativi. Quanti dei tredici numeri dati sono negativi? (A) $2$ (B) $7$ (C) $8$ (D) $9$ (E) $10$
+> Tra tredici numeri reali non nulli, i numeri positivi sono più numerosi dei numeri negativi. Tra i $\dfrac{13 \times 12}{2} = 78$ prodotti di coppie dei tredici numeri, $22$ sono negativi. Quanti dei tredici numeri dati sono negativi?
+> (A) $2$ (B) $7$ (C) $8$ (D) $9$ (E) $10$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n3_f1#q18|src_obm_2005_n3_f1__Q18]]
 
 
 
@@ -554,9 +733,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*angolo di un parallelo tale che le perpendicolari ai suoi lati formino un altro parallelo con angoli uguali*
+*Angolo di un parallelogramma tale che le perpendicolari ai suoi lati formino un altro parallelogramma con angoli uguali*
 
-> Tracciando quattro linee perpendicolari ai lati di un parallelo, otteniamo una regione delimitata da queste quattro linee che è anche un parallelo. Possiamo affermare che uno degli angoli del parallelogramma originale, in modo che i due parallelogrammi abbiano angoli uguali, è: (A) $30^\circ$ (B) $45^\circ$ (C) $60^\circ$ (D) $75^\circ$ (E) $90^\circ$
+> Tracciando quattro rette perpendicolari ai lati di un parallelogramma, otteniamo una regione delimitata da queste quattro rette, la quale è anch'essa un parallelogramma. Possiamo affermare che uno degli angoli del parallelogramma originale, affinché i due parallelogrammi abbiano angoli uguali, è:
+> (A) $30^\circ$ (B) $45^\circ$ (C) $60^\circ$ (D) $75^\circ$ (E) $90^\circ$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2005_n3_f1#q19|src_obm_2005_n3_f1__Q19]]
 
 
 
@@ -582,9 +770,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
+*Classifica (2+√2)^3(3-√2)^4 + (2-√2)^3(3+√2)^4*
 
-> Il numero $(2 + \sqrt{2})^3(3 - \sqrt{2})^4 + (2 - \sqrt{2})^3(3 + \sqrt{2})^4$ è: (A) un numero intero imparato (B) un numero intero pari (C) un non intero razionale (D) un positivo irrazionale (E) un negativo irrazionale
+> Il numero $(2 + \sqrt{2})^3(3 - \sqrt{2})^4 + (2 - \sqrt{2})^3(3 + \sqrt{2})^4$ è:
+> (A) un numero intero dispari (B) un numero intero pari (C) un numero razionale non intero (D) un numero irrazionale positivo (E) un numero irrazionale negativo
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n3_f1#q20|src_obm_2005_n3_f1__Q20]]
 
 
 
@@ -610,9 +808,19 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ordina tre grandi/esotiche potenze A, B, C per dimensioni*
+*Ordina tre poteri grandi/esotici A, B, C in base alla dimensione*
 
-> Per esempio, $A = 10^{(16/2005)^2}$, $B = 2005^2$ e $C = 2^{\sqrt{2005}}$. Poi: (A) $A < B < C$ (B) $A < C < B$ (C) $B < A < C$ (D) $B < C < A$ (E) $C < A < B$
+> Siano $A = 10^{(16/2005)^2}$, $B = 2005^2$ e $C = 2^{\sqrt{2005}}$. Allora:
+> (A) $A < B < C$ (B) $A < C < B$ (C) $B < A < C$ (D) $B < C < A$ (E) $C < A < B$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n3_f1#q21|src_obm_2005_n3_f1__Q21]]
 
 
 
@@ -638,9 +846,19 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Total time bound over three road segments given average speed ranges*
+*Tempo totale vincolato su tre tratti stradali, dati gli intervalli di velocità media*
 
-> Un pilota copre tre segmenti di strada, rispettivamente $240$ km, $300$ km e $400$ km. Le velocità medie su questi tre segmenti sono comprese tra $40$ km/h, $75$ km/h e $80$ km/h. Possiamo garantire che il tempo totale, in ore, trascorso dal pilota sui tre segmenti sia: (A) almeno $13$ ore (B) almeno $13$ ore e al massimo $18$ ore (C) almeno $14$ ore e al massimo $18$ ore (D) almeno $15$ ore e al massimo $18$ ore (E) almeno $18$ ore
+> Un pilota percorre tre tratti di una strada, di lunghezza rispettivamente pari a $240$ km, $300$ km e $400$ km. Le velocità medie su questi tre tratti sono comprese tra $40$ km/h, $75$ km/h e $80$ km/h. Possiamo garantire che il tempo totale, espresso in ore, impiegato dal pilota nei tre tratti è:
+> (A) almeno $13$ ore (B) almeno $13$ ore e al massimo $18$ ore (C) almeno $14$ ore e al massimo $18$ ore (D) almeno $15$ ore e al massimo $18$ ore (E) almeno $18$ ore
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2005_n3_f1#q22|src_obm_2005_n3_f1__Q22]]
 
 
 
@@ -666,9 +884,19 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare quale coppia NON è 'primanos' (in un AP a tre termini)*
+*Identifica quale coppia NON è 'primanos' (in una progressione aritmetica di 3 termini, tutti primi)*
 
-> Due numeri interi sono chiamati $\textit{primanos}$ quando appartengono a una progressione aritmetica di tre termini primi. Ad esempio, i numeri $41$ e $59$ sono primani, perché appartengono alla progressione aritmetica $(41, 47, 53, 59)$ che contiene solo numeri primi. Tra le alternative di seguito, i due numeri che sono $\textbf{not}$ primanos sono: (A) $7$ e $11$ (B) $13$ e $53$ (C) $41$ e $131$ (D) $31$ e $43$ (E) $23$ e $41$
+> Due numeri interi sono detti $\textit{primanos}$ quando appartengono a una progressione aritmetica composta da tre termini primi. Ad esempio, i numeri $41$ e $59$ sono primani, poiché appartengono alla progressione aritmetica $(41, 47, 53, 59)$ che contiene solo numeri primi. Tra le alternative sottostanti, i due numeri che sono primani $\textbf{not}$ sono:
+> (A) $7$ e $11$ (B) $13$ e $53$ (C) $41$ e $131$ (D) $31$ e $43$ (E) $23$ e $41$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2005_n3_f1#q23|src_obm_2005_n3_f1__Q23]]
 
 
 
@@ -694,9 +922,19 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio/timamento delle sovrapposizioni di mani di orologio entro un giorno (dichiarazione distorta)*
+*Conteggio/tempistica delle sovrapposioni delle lancette dell'orologio nell'arco di una giornata (dichiarazione illeggibile)*
 
-> Un orologio ha le mani per ore, minuti e secondi. Considerando i momenti tra $12$ ore e $1$ seconde e $23$ ore, $59$ minuti e $59$ secondi durante i quali alcune mani si sovrappongono, la risposta è: (A) $1430$ (B) $1438$ (C) $1440$ (D) $1446$ (E) $1452$
+> Un orologio ha lancette per le ore, i minuti e i secondi. Considerando i momenti compresi tra $12$ ore e $1$ secondi e $23$ ore, $59$ minuti e $59$ secondi, durante i quali certe lancette si sovrappongono, la risposta è:
+> (A) $1430$ (B) $1438$ (C) $1440$ (D) $1446$ (E) $1452$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n3_f1#q24|src_obm_2005_n3_f1__Q24]]
 
 
 
@@ -722,6 +960,16 @@ Classifica (2+sqrt2) ^3(3-sqrt2) ^4 + (2-sqrt2) ^3(3+sqrt2) ^4*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre massimo di studenti brasiliani in una classe di 9 con vincoli di raggruppamento (dichiarazione confusa)*
+*Numero massimo di studenti brasiliani in una classe di 9 individui, sotto vincoli di raggruppamento (dichiarazione illeggibile)*
 
-> Un insegnante di inglese dà una lezione privata a una classe di studenti $9$, di cui al massimo due hanno la stessa età. L'insegnante sa che tre studenti della stessa nazionalità e di diverse età possono formare un gruppo, e sceglie gli studenti in modo che al massimo tre di loro abbiano la stessa nazionalità. Quanti studenti brasiliani ci sono nella classe? (A) $1$ (B) $2$ (C) $3$ (D) $4$ (E) $5$
+> Un insegnante di inglese tiene una lezione privata a una classe di $9$ studenti, dei quali al massimo due hanno la stessa età. L'insegnante sa che tre studenti della stessa nazionalità e di età diverse possono formare un gruppo, e sceglie gli studenti in modo che al massimo tre di loro abbiano la stessa nazionalità. Quanti studenti brasiliani ci sono nella classe?
+> (A) $1$ (B) $2$ (C) $3$ (D) $4$ (E) $5$
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2005_n3_f1#q25|src_obm_2005_n3_f1__Q25]]

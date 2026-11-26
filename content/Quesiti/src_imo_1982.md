@@ -33,11 +33,20 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-Definition of the subadditive integer function
+*The value of a nearly additive function at 1982*
 
-> The $f(n)$ function is defined for all positive integers $n$ and takes non-negative integers. In addition, for all $m, n$: $$f(m + n) - f(m) - f(n) = 0 \text{ oppure } 1$$ $f(2) = 0$, $f(3) > 0$, and $f(9999) = 3333$.
-> 
+> The function $f(n)$ is defined for all positive integers $n$ and takes non-negative integer values. Moreover, for all $m, n$:
+> $$f(m + n) - f(m) - f(n) = 0 \text{ or } 1$$
+> $f(2) = 0$, $f(3) > 0$, and $f(9999) = 3333$.
+>
 > Determine $f(1982)$.
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_1982#q01|src_imo_1982__Q01]]
 
 
 
@@ -60,9 +69,16 @@ Definition of the subadditive integer function
 <div class="qlang-split" data-lang="en"></div>
 
 
-Prove three lines through midpoints and reflected touch-points concurrent
+*Reflections of the points of tangency in the angle bisectors are concurrent with the midpoints*
 
-> A non-isosceles triangle $A_1A_2A_3$ with sides $a_1, a_2, a_3$ (where $a_i$ is the opposite side to $A_i$) is given. For each $i = 1, 2, 3$, $M_i$ is the middle point of the $a_i$ side and $T_i$ is the point where the inscribed circle touches the $a_i$ side. The reflection of $T_i$ with respect to the inner beam of the angle $A_i$ shall be indicated by $S_i$. Demonstrate that the directions $M_1S_1$, $M_2S_2$ and $M_3S_3$ are competitors.
+> A non-isosceles triangle $A_1A_2A_3$ is given, with sides $a_1, a_2, a_3$ (where $a_i$ is the side opposite $A_i$). For each $i = 1, 2, 3$, $M_i$ is the midpoint of the side $a_i$ and $T_i$ is the point where the incircle touches the side $a_i$. Let $S_i$ be the reflection of $T_i$ in the internal bisector of the angle $A_i$. Prove that the lines $M_1S_1$, $M_2S_2$ and $M_3S_3$ are concurrent.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1982#q02|src_imo_1982__Q02]]
 
 
 
@@ -91,13 +107,22 @@ Prove three lines through midpoints and reflected touch-points concurrent
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Decreasing sequence sums of squared ratios bounded near 4*
+*A sum of squares of ratios along a non-increasing positive sequence*
 
-> Consider the infinite succession $\{x_n\}$ of positive real numbers with the following properties: $$x_0 = 1, \quad \text{e per ogni } i \geq 0,\ x_{i+1} \leq x_i.$$
-> 
-> (a) Demonstrate that for each such succession there is a $n \geq 1$ such that $$\frac{x_0^2}{x_1} + \frac{x_1^2}{x_2} + \cdots + \frac{x_{n-1}^2}{x_n} \geq 3{,}999.$$
-> 
-> (b) Find such a succession for which $$\frac{x_0^2}{x_1} + \frac{x_1^2}{x_2} + \cdots + \frac{x_{n-1}^2}{x_n} < 4.$$
+> Consider the infinite sequence $\{x_n\}$ of positive real numbers with the following properties:
+> $$x_0 = 1, \quad \text{and for every } i \geq 0,\ x_{i+1} \leq x_i.$$
+>
+> (a) Prove that for every such sequence there exists an $n \geq 1$ such that
+> $$\frac{x_0^2}{x_1} + \frac{x_1^2}{x_2} + \cdots + \frac{x_{n-1}^2}{x_n} \geq 3{,}999.$$
+>
+> (b) Find such a sequence for which
+> $$\frac{x_0^2}{x_1} + \frac{x_1^2}{x_2} + \cdots + \frac{x_{n-1}^2}{x_n} < 4.$$
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]], [[method_telescoping|Telescoping sums]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_1982#q03|src_imo_1982__Q03]]
 
 
 
@@ -124,11 +149,20 @@ Prove three lines through midpoints and reflected touch-points concurrent
 <div class="qlang-split" data-lang="en"></div>
 
 
-Cubic Diophantine equation has at least three integer solutions
+*A cubic equation with one integer solution has at least three, and none for 2891*
 
-> Demonstrate that if $n$ is a positive integer such that the equation $$x^3 - 3xy^2 + y^3 = n$$ has a solution in integers $(x, y)$, then it has at least three such solutions.
-> 
-> Also show that the equation has no solutions in integers when $n = 2891$.
+> Prove that if $n$ is a positive integer such that the equation
+> $$x^3 - 3xy^2 + y^3 = n$$
+> has a solution in integers $(x, y)$, then it has at least three such solutions.
+>
+> Show moreover that the equation has no solutions in integers when $n = 2891$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_1982#q04|src_imo_1982__Q04]]
 
 
 
@@ -153,9 +187,18 @@ Cubic Diophantine equation has at least three integer solutions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Find ratio r making B, M, N hillinear in hexagon*
+*The ratio in which interior points divide two diagonals of a regular hexagon*
 
-> The diagonal $AC$ and $CE$ of the regular hexagon $ABCDEF$ are divided by the interior points $M$ and $N$, respectively, so that $$\frac{AM}{AC} = \frac{CN}{CE} = r.$$ Determine $r$ knowing that $B$, $M$ and $N$ are collinear.
+> The diagonals $AC$ and $CE$ of the regular hexagon $ABCDEF$ are divided by interior points $M$ and $N$, respectively, so that
+> $$\frac{AM}{AC} = \frac{CN}{CE} = r.$$
+> Determine $r$ given that $B$, $M$ and $N$ are collinear.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1982#q05|src_imo_1982__Q05]]
 
 
 
@@ -177,6 +220,12 @@ Cubic Diophantine equation has at least three integer solutions
 <div class="qlang-split" data-lang="en"></div>
 
 
-Path covering square boundary has two close far-apart points
+*A path that comes within 1/2 of every boundary point has two points at most 1 apart along a long arc*
 
-> either $S$ a side square $100$, or $L$ a path within $S$ that does not intersect and is composed of segments $A_0A_1, A_1A_2, \ldots, A_{n-1}A_n$ with $A_0 \neq A_n$. For each $P$ point on the edge of $S$ there shall be a point of $L$ at a distance from $P$ not greater than $\tfrac{1}{2}$. Demonstrate that there are two $X$ and $Y$ points on $L$ such that the distance between $X$ and $Y$ is not greater than $1$, and the length of the part of $L$ between $X$ and $Y$ is not less than $198$.
+> Let $S$ be a square of side $100$, and let $L$ be a path inside $S$ that does not intersect itself and is composed of segments $A_0A_1, A_1A_2, \ldots, A_{n-1}A_n$ with $A_0 \neq A_n$. Suppose that for every point $P$ of the boundary of $S$ there exists a point of $L$ at distance from $P$ no greater than $\tfrac{1}{2}$. Prove that there exist two points $X$ and $Y$ on $L$ such that the distance between $X$ and $Y$ is no greater than $1$, and the length of the part of $L$ between $X$ and $Y$ is no less than $198$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1982#q06|src_imo_1982__Q06]]

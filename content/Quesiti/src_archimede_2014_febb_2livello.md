@@ -38,9 +38,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability that two colored tetrahedra are indistinguishable
+*Probability that two coloured tetrahedra are indistinguishable*
 
-> The faces of two identical regular tetrahedra are colored red, white, green, blue; the colors are chosen randomly, but the four faces of each tetrahedra must all be different colors. What is the probability that after coloring the two tetrahedra are indistinguishable?
+> The faces of two identical regular tetrahedra are coloured red, white, green, blue; the colours are chosen at random, but the four faces of each tetrahedron must all be different colours. What is the probability that after the colouring the two tetrahedra are indistinguishable?
 >
 > - **(A)** 1 4!
 > - **(B)** 2 4!
@@ -48,7 +48,11 @@ The probability that two colored tetrahedra are indistinguishable
 > - **(D)** 1 2
 > - **(E)** 1
 
-**Answer:** D
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2014_febb_2livello#q01|src_archimede_2014_febb_2livello__Q01]]
 
 
 
@@ -78,11 +82,16 @@ The probability that two colored tetrahedra are indistinguishable
 <div class="qlang-split" data-lang="en"></div>
 
 
-*phrases which are necessarily true*
+*necessarily true statement*
 
-> The 60 inhabitants of a village can be of three types: peasants (who always tell the truth), werewolves (who always lie) and black people (who answer as they please). Except for these behaviours, the members of each faction are completely indistinguishable from those of the others. When a visitor arrives, they stand in a circle and each declares that the person to his right is a werewolf. Which of these sentences is necessarily true? (A) There is at least one necromancer. (B) The wolves are at most 20. (C) Farmers are at most 30. (D) Negromants are no more than 40. (E) None of the above.
+> The 60 inhabitants of a village can be of three types: farmers (who always tell the truth), werewolves (who always lie) and witches (who answer as they wish). Apart from these behaviours, members of each faction are completely indistinguishable from those of the others. On the arrival of a visitor they arrange themselves in a circle and each declares that the inhabitant to their right is a werewolf. Which of these statements is necessarily true?
+> (A) There is at least one witch. (B) There are at most 20 werewolves. (C) There are at most 30 farmers. (D) There are no more than 40 witches. (E) None of the above.
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2014_febb_2livello#q02|src_archimede_2014_febb_2livello__Q02]]
 
 
 
@@ -117,9 +126,11 @@ The probability that two colored tetrahedra are indistinguishable
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum side l so that three pizzas are on the table*
+*Minimum side l so that three pizzas fit on the table*
 
-> Three friends enter Giorgio's pizzeria and sit each on one side of a rectangular table; the first sits on one side 70 cm long, the second and the third sit facing each other, on sides length l. The pizzas have a diameter of 30 cm; Giorgio serves the pizza of the first adventurer so that it is tangent to his side of the table at the middle point and the pizzas of the other two so that they are tangent to their respective sides of the table and to the first pizza. What is the minimum value of l (in centimeters) for the three pizzas to sit entirely on the table?
+> Three friends enter Giorgio's pizzeria and sit each at a side of a rectangular table;
+> the first is seated at a side of length 70 cm, the second and the third sit opposite one another,
+> on sides of length l. The pizzas have a diameter of 30 cm; Giorgio serves the first customer's pizza so that it is tangent to his side of the table at the midpoint and the pizzas of the other two so that they are tangent to their respective sides of the table and to the first pizza. What is the minimum value of l (in centimetres) for which the three pizzas can fit entirely on the table?
 >
 > - **(A)** 10 √ 5
 > - **(B)** 20 + 5 √ 5
@@ -127,7 +138,11 @@ The probability that two colored tetrahedra are indistinguishable
 > - **(D)** 30 + 10 √ 5
 > - **(E)** 60
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2014_febb_2livello#q03|src_archimede_2014_febb_2livello__Q03]]
 
 
 
@@ -160,9 +175,11 @@ The probability that two colored tetrahedra are indistinguishable
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Game with the last two digits of 51n+50, numbers available*
+*Game with the last two digits of 51n+50, obtainable numbers*
 
-> David plays the following game: he starts with an integer between 1 and 99 and at each move he replaces the number n he currently has with the number formed by the last two digits of 51n+50 (or only by the last digit, if the last one is 0). How many different numbers can you get in the first 100 moves of a single game?
+> Davide plays the following game: he starts from an integer between 1 and 99 and at each move
+> replaces the number n he currently has with the number formed by the last two digits of 51n+50
+> (or only by the last digit, if the penultimate is 0). What is the maximum number of different numbers he can obtain in the course of the first 100 moves of a single game?
 >
 > - **(A)** 2
 > - **(B)** 4
@@ -170,7 +187,11 @@ The probability that two colored tetrahedra are indistinguishable
 > - **(D)** 99
 > - **(E)** 100
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2014_febb_2livello#q04|src_archimede_2014_febb_2livello__Q04]]
 
 
 
@@ -205,11 +226,24 @@ The probability that two colored tetrahedra are indistinguishable
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True/false statements, how many values can be assumed n*
+*True/false statements; how many values n can take*
 
-> Alexander, Daniel and Manuela discuss a two-digit natural number n. Each of them makes two statements, but since they're all a little short on math, each of them makes a true statement and a false one. Alexander says n is equal. Also, it's a multiple of 3.; Daniel replies: Yes, n is a multiple of 3. Furthermore, the number of units of n is 5.; Manuela says, finally: n is multiple of 5. The sum of its digits is 12. How many values can n assume? (A) There is no such number. (B) 1 (C) 2 (D) 3 (E) 4
+> Alessandro, Daniele and Manuela discuss a two-digit natural number n.
+> Each of them makes two statements, but since they are all a bit weak at mathematics each of them makes one true statement and one false one.
+> Alessandro says: “n is even. Moreover, it is a multiple of 3.”;
+> Daniele replies: “Yes, n is a multiple of 3. Moreover, the units digit of n is 5.”;
+> Manuela finally says: “n is a multiple of 5. The sum of its digits is 12.”.
+> How many values can n take?
+> (A) No such n exists. (B) 1
+> (C) 2
+> (D) 3
+> (E) 4
 
-**Answer:** D
+
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2014_febb_2livello#q05|src_archimede_2014_febb_2livello__Q05]]
 
 
 
@@ -240,17 +274,21 @@ The probability that two colored tetrahedra are indistinguishable
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Powers of 4 that in base 3 use only 0 and at most two 1s*
+*Powers of 4 written in base 3 with only 0 and at most two 1s*
 
-> How many positive integers are powers of 4 and, when written in base 3, use only the digits 0 and 1, with 0 appearing any number of times (including zero times) and 1 appearing at most twice?
+> How many positive integers are a power of 4 and, written in base 3, use only the digits 0 and 1, with 0 used any number of times (including none) and 1 used at most twice?
 >
 > - **(A)** 4
 > - **(B)** 2
 > - **(C)** 1
 > - **(D)** 0
-> - **(E)** Infiniti
+> - **(E)** infinitely many.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2014_febb_2livello#q06|src_archimede_2014_febb_2livello__Q06]]
 
 
 
@@ -286,11 +324,12 @@ The probability that two colored tetrahedra are indistinguishable
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of a single-grid spacecraft footprint*
+*Area of an astronave token on a unit grid*
 
-![[src_archimede_2014_febb_2livello__prob7.png]]
-
-> Alexandra and Luigi play a board game with spaceships on their feet, such as the one shown in gray in the figure on the side. If squares have sides of length 1, what is the surface area of a pedestal?
+> Alessandra and Luigi play a board game
+> whose tokens are astronaves, like the one
+> shown in grey in the figure on the right. If the
+> dashed squares have sides of length 1, what is the area of a token?
 >
 > - **(A)** 2 3
 > - **(B)** √ 3 6
@@ -298,7 +337,11 @@ The probability that two colored tetrahedra are indistinguishable
 > - **(D)** √ 2 8
 > - **(E)** 1 8 + √ 2 12
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Analytic geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2014_febb_2livello#q07|src_archimede_2014_febb_2livello__Q07]]
 
 
 
@@ -337,17 +380,30 @@ The probability that two colored tetrahedra are indistinguishable
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of real terns of the symmetric system x+y+z, etc.*
+*Number of real triples of the symmetric system x+y+z, etc.*
 
-> Given the system       x + y + z = 7 x2 + y2 + z2 = 27 xyz = 5, how many ordered ternes of real numbers (x, y, z) are solution?
+> Given the system
+> 
+> 
+> 
+> 
+> 
+> x + y + z = 7
+> x2 + y2 + z2 = 27
+> xyz = 5,
+> how many ordered triples of real numbers (x, y, z) are solutions?
 >
 > - **(A)** 6
 > - **(B)** 3
 > - **(C)** 2
 > - **(D)** 0
-> - **(E)** The endless.
+> - **(E)** Infinite.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2014_febb_2livello#q08|src_archimede_2014_febb_2livello__Q08]]
 
 
 
@@ -384,9 +440,10 @@ The probability that two colored tetrahedra are indistinguishable
 <div class="qlang-split" data-lang="en"></div>
 
 
-Probability of no collision between five friends in the wheelchair
+*Probability that five friends have no collision on a chairlift*
 
-> Five friends have to get off a five-seater chair and they can do so in three different directions: left, right or right. It is easy to clash with your climbing companions when you get off a chair. For example, if I decide to go straight and someone to my left to go right, we encounter; the same thing happens if I decide to go right and someone to my right goes straight (or left); if someone goes in my same direction, we don't encounter; and so on. If each of the five friends randomly chooses where to go, with a 1/3 probability in each direction, what is the probability that there will be no collisions?
+> Five friends must get off a five-seat chairlift and can do so by going in three different directions: to the left, straight ahead, or to the right.
+> Getting off a chairlift makes it easy to collide with one's fellow riders. For example: if I decide to go straight ahead and someone on my left goes to the right, we collide; the same happens if I decide to go to the right and someone on my right goes straight ahead (or to the left); if instead someone goes in the same direction as me, we do not collide; and so on. If each of the five friends chooses at random where to go, with probability 1/3 for each direction, what is the probability that there are no collisions?
 >
 > - **(A)** 25 27
 > - **(B)** 3 5
@@ -394,7 +451,11 @@ Probability of no collision between five friends in the wheelchair
 > - **(D)** 1 3
 > - **(E)** 7 81
 
-**Answer:** E
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2014_febb_2livello#q09|src_archimede_2014_febb_2livello__Q09]]
 
 
 
@@ -429,7 +490,10 @@ Probability of no collision between five friends in the wheelchair
 
 *Non-zero coefficients of the product of binomials (1+x^3^k)*
 
-> Consider the polynomial p(x) = (1 + x31)(1 + x32)(1 + x33)(1 + x34)(1 + x35)(1 + x39)), and suppose we perform the product, thus obtaining an expression of the type a0 + a1x + a2x2 + . . . + a402x402, where for example a0 = a402 = 1. How many of the coefficients a0, . . . , a402 is different from zero?
+> Consider the polynomial p(x) = (1 + x31)(1 + x32)(1 + x33)(1 + x34)(1 + x35)(1 + x39), and
+> suppose we expand the product, obtaining an expression of the form a0 + a1x + a2x2 +
+> . . . + a402x402, where for example a0 = a402 = 1. How many of the coefficients a0, . . . , a402 are different
+> from zero?
 >
 > - **(A)** 52
 > - **(B)** 56
@@ -437,7 +501,11 @@ Probability of no collision between five friends in the wheelchair
 > - **(D)** 64
 > - **(E)** 376
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2014_febb_2livello#q10|src_archimede_2014_febb_2livello__Q10]]
 
 
 
@@ -470,17 +538,21 @@ Probability of no collision between five friends in the wheelchair
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Different podium scores with 10.8,5 points in 16 races*
+*Distinct championship scores from 16 podiums worth 10, 8 or 5 points*
 
-> A sprinter has played a good championship this year, reaching the podium 16 times. In each race, the first-placed player scores 10 points, the second eight and the third five, while the fourth-placed player is not awarded points. How many different scores did he have to finish the championship with?
+> A kite flyer has had a good championship this year, finishing on the podium 16 times. In each race the winner scores 10 points, second place 8 and third place 5, while from fourth place on no points are awarded. In how many different scores can he have finished the championship?
 >
 > - **(A)** 153
 > - **(B)** 80
 > - **(C)** 78
 > - **(D)** 75
-> - **(E)** None of the above.
+> - **(E)** none of the above.
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casi_conteggio|Counting by cases]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2014_febb_2livello#q11|src_archimede_2014_febb_2livello__Q11]]
 
 
 
@@ -512,17 +584,21 @@ Probability of no collision between five friends in the wheelchair
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ABXY trapezoidal area with parallels and beams*
+*Area of trapezoid ABXY cut by a parallel and two angle bisectors*
 
-> Let ABC be a triangle with sides AB, CA and BC of length 17, 25 and 26 respectively. X and Y are the intersections of the parallel AB passing through C with the beams of $\widehat{CAB}$ and $\widehat{ABC}$ respectively. How much is the area of the ABXY trapezoid ?
+> Let ABC be a triangle with sides AB, CA and BC of lengths 17, 25 and 26 respectively. Let X and Y be the intersections of the line through C parallel to AB with the bisectors of $\widehat{CAB}$ and of $\widehat{ABC}$ respectively. What is the area of trapezoid ABXY?
 >
 > - **(A)** 816
 > - **(B)** 338(1 + √ 2)
 > - **(C)** 784
 > - **(D)** 408
-> - **(E)** It cannot be determined from the available data. Problems with numerical answer  5 points
+> - **(E)** it cannot be determined from the data available.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2014_febb_2livello#q12|src_archimede_2014_febb_2livello__Q12]]
 
 
 
@@ -550,11 +626,17 @@ Probability of no collision between five friends in the wheelchair
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Exponent of the first 2 in product of (5^d-1)*
+*Exponent of the prime 2 in the product of (5^d − 1)*
 
-> What is the exponent of the first 2 in the factorization of the number (5 −1)(55 −1) . . . (55...5 −1) where in each factor an exponent appears a 5 more than in the previous and the last ones appear, as exponents, 2014?
+> What is the exponent of the prime 2 in the factorization of the number
+> (5 − 1)(5^5 − 1) . . . (5^{55...5} − 1)
+> where in each factor there is one more “5” as exponent than in the previous one and in the last one there are, as exponents, 2014?
 
-**Answer:** 4030
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2014_febb_2livello#q13|src_archimede_2014_febb_2livello__Q13]]
 
 
 
@@ -583,13 +665,15 @@ Probability of no collision between five friends in the wheelchair
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Horse on a 3x3 chessboard, 12 moves in the opposite corner*
+*Knight on a 3x3 chessboard, paths in 12 moves to the opposite corner*
 
-![[src_archimede_2014_febb_2livello__prob14.png]]
+> A knight is placed in a corner square of a 3 × 3 chessboard. A move consists of moving the knight to a square reachable by two horizontal steps followed by a vertical step, or two vertical steps followed by a horizontal step. In how many ways is it possible to move it to the opposite corner square, with exactly 12 moves?
 
-> A horse is placed in a corner box of a chessboard 3 × 3. A move consists of moving the horse into an accessible box by two horizontal steps followed by a vertical step, or two vertical steps followed by a horizontal step. How many ways can you move it into the opposite corner box, with exactly 12 moves?
 
-**Answer:** 992
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2014_febb_2livello#q14|src_archimede_2014_febb_2livello__Q14]]
 
 
 
@@ -620,9 +704,23 @@ Probability of no collision between five friends in the wheelchair
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grid colour with row/column constraints, pairs (m,n)*
+*Grid colouring with row/column constraints, pairs (m,n)*
 
-> A grid with m rows and n columns has each box colored in white or black so as to meet the following two conditions: (a) each row contains as many white boxes as black; (b) if a row meets a column in a black box, then that row and that column have the same number of black boxes; similarly, if a row intersects a column in a white box, then that row and that column have the same number of white boxes. Find all possible pairs (m, n) for which such a colour may exist.
+> DEMONSTRATION EXERCISE
+> A grid with m rows and n columns has every cell coloured white or black in such a way as to
+> satisfy the following two conditions:
+> (a) every row contains as many white cells as black cells;
+> (b) if a row meets a column in a black cell, then that row and that column
+> have the same number of black cells; in the same way, if a row intersects a
+> column in a white cell, then that row and that column have the same number
+> of white cells.
+> Find all possible pairs (m, n) for which such a colouring can exist.
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2014_febb_2livello#q15|src_archimede_2014_febb_2livello__Q15]]
 
 
 
@@ -648,9 +746,16 @@ Probability of no collision between five friends in the wheelchair
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Six mean points on a circumference of an equilateral triangle*
+*Six midpoints on a circle if and only if the triangle is equilateral*
 
-> Let ABC be an acute triangle. They are the medians AM, BN and CL, which intersect in the barycenter G. The mean points of AG, BG and CG are M′, N′ and L′ respectively. Show that the six points M, M′, N, N′, L, L′ lie on a circumference if and only if ABC is equilateral.
+> PROOF EXERCISE
+> Let ABC be an acute triangle. Let AM, BN and CL be the medians, intersecting at the centroid G. Let M′, N′ and L′ be the midpoints of AG, BG and CG, respectively. Show that the six points M, M′, N, N′, L, L′ lie on a circle if and only if ABC is equilateral.
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2014_febb_2livello#q16|src_archimede_2014_febb_2livello__Q16]]
 
 
 
@@ -675,6 +780,14 @@ Probability of no collision between five friends in the wheelchair
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs (a,b) with a+1 divided by b-1 and b divided by a^2+a+2*
+*Pairs (a,b) with a+1 dividing b-1 and b dividing a^2+a+2*
 
-> Demonstrative Exercise Find all pairs (a, b) of positive integers such that a + 1 is a divisor of b −1 and b is a divisor of a2 + a + 2.
+> PROOF PROBLEM
+> Find all pairs (a, b) of positive integers such that a + 1 is a divisor of b − 1 and
+> b is a divisor of a2 + a + 2.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2014_febb_2livello#q17|src_archimede_2014_febb_2livello__Q17]]

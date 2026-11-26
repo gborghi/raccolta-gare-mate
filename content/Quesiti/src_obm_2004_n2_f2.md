@@ -31,9 +31,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la somma a+b+c da una moltiplicazione lunga*
+*Trovare la somma delle cifre di a+b+c a partire da una moltiplicazione lunga*
 
-> Nella seguente moltiplicazione, $a$, $b$ e $c$ sono numeri: $$\begin{array}{r} 1\;a\;b \\ \times\quad b\;3 \\ \hline * * * \\ * * * \\ \hline 1\;c\;c\;0\;1 \end{array}$$ Trova $a + b + c$.
+> Nella seguente moltiplicazione, $a$, $b$ e $c$ sono cifre:
+> $$\begin{array}{r} 1\;a\;b \\ \times\quad b\;3 \\ \hline * * * \\ * * * \\ \hline 1\;c\;c\;0\;1 \end{array}$$
+> Trovare $a + b + c$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2004_n2_f2#q01|src_obm_2004_n2_f2__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per ombrare una cella per riga e colonna nella griglia 4x4*
+*Conta i modi per ombreggiare una cella per riga e per colonna in una griglia 4x4*
 
-> In quanti modi possiamo ombrare quattro celle di una griglia $4 \times 4$ in modo che ogni riga e ogni colonna contengano esattamente una cellula ombrata?
+> In quanti modi possiamo ombreggiare quattro celle di una griglia $4 \times 4$ in modo che ogni riga e ogni colonna contenga esattamente una cella ombreggiata?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n2_f2#q02|src_obm_2004_n2_f2__Q02]]
 
 
 
@@ -81,9 +97,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la somma digitali di un'espressione radicale incastonata*
+*Trovare la somma delle cifre di un'espressione a radicale annidato*
 
 > Qual è la somma delle cifre del numero $\sqrt{2004 \times 2002 \times 1998 \times 1996 + 36}$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n2_f2#q03|src_obm_2004_n2_f2__Q03]]
 
 
 
@@ -110,13 +133,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova x così la superficie del poligono delle scale è uguale all'area del triangolo rettangolo*
+*Trovare x in modo che l'area del poligono a scalinata sia uguale all'area del triangolo rettangolo*
 
-> Nella figura, il triangolo $ABC$ è angolato a destra e i lati del poligono (regione ombreggiata) sono paralleli alle gambe del triangolo e coincidono con segmenti lungo quelle gambe. Il lato superiore del triangolo ha le lunghezze $5$ e $10$ contrassegnate (così la gamba orizzontale in alto è uguale a $15$), e $x$ è la lunghezza contrassegnata in basso a destra vicino a $C$.
-> 
-> Trova $x$ tale che l'area del poligono sia uguale all'area del triangolo $ABC$.
+> Nella figura, il triangolo $ABC$ è rettangolo e i lati del poligono (la regione ombreggiata) sono paralleli ai cateti del triangolo e coincidono con i segmenti lungo tali cateti. Sul lato superiore del triangolo sono indicate le lunghezze $5$ e $10$ (così il cateto orizzontale in alto misura $15$), e $x$ è la lunghezza indicata in basso a destra vicino a $C$.
+>
+> Trovare $x$ tale che l'area del poligono sia uguale all'area del triangolo $ABC$.
 
 ![[src_obm_2004_n2_f2__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n2_f2#q04|src_obm_2004_n2_f2__Q04]]
 
 
 
@@ -139,9 +169,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triangoli rettangolari formati da vertici di un normale 20-gon*
+*Conta i triangoli rettangoli formati dai vertici di un 20-gono regolare*
 
-> Un poligono con 20 lati si chiama icosagono. Collegando tre vertici di un icosagono regolare otteniamo triangoli. Quanti di questi triangoli sono triangoli rettangolari?
+> Un poligono con 20 lati è chiamato icosagono. Unendo tre vertici di un icosagono regolare, si ottengono dei triangoli. Quanti di questi triangoli sono triangoli rettangoli?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2004_n2_f2#q05|src_obm_2004_n2_f2__Q05]]
 
 
 
@@ -168,13 +205,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Spartire l'insieme di quadrati perfetti in due gruppi di somma uguale*
+*Dividi l'insieme dei quadrati perfetti in due gruppi con la stessa somma*
 
-> **Problema 1** (parte B)
-> 
-> (a) È possibile dividere l'insieme $\{1^2, 2^2, 3^2, \ldots, 7^2\}$ in due gruppi $A$ e $B$ in modo tale che la somma degli elementi di $A$ sia uguale alla somma degli elementi di $B$? Giustifica la tua risposta.
-> 
-> b) È possibile dividere l'insieme $\{1^2, 2^2, 3^2, \ldots, 9^2\}$ in due gruppi $C$ e $D$ in modo tale che la somma degli elementi di $C$ sia uguale alla somma degli elementi di $D$? Giustifica la tua risposta.
+> **Problema 1** (Parte B)
+>
+> (a) È possibile dividere l'insieme $\{1^2, 2^2, 3^2, \ldots, 7^2\}$ in due gruppi $A$ e $B$ in modo che la somma degli elementi di $A$ sia uguale alla somma degli elementi di $B$? Motiva la tua risposta.
+>
+> (b) È possibile dividere l'insieme $\{1^2, 2^2, 3^2, \ldots, 9^2\}$ in due gruppi $C$ e $D$ in modo che la somma degli elementi di $C$ sia uguale alla somma degli elementi di $D$? Motiva la tua risposta.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n2_f2#q06|src_obm_2004_n2_f2__Q06]]
 
 
 
@@ -204,15 +248,23 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Semplificare la frazione continua; trovare il valore di visualizzazione iniziale della calcolatrice*
+*Semplifica la frazione continua; trova il valore iniziale visualizzato sulla calcolatrice*
 
-> **Problema 2** (parte B)
-> 
-> (a) semplificare l'espressione "$$1 - \dfrac{1}{1 - \dfrac{1}{1 - \dfrac{1}{x}}}.$$"
-> 
-> b) Una calcolatrice ha due chiavi speciali: la chiave $A$ trasforma il numero $x$ attualmente visualizzato sul display in $\dfrac{1}{x}$; la chiave $B$ trasforma $x$ in $1 - x$.
-> 
-> Pedro preme i tasti a turno nell'ordine $A, B, A, B, \ldots$ per un totale di 1000 tastiere. Dopo queste 1000 operazioni, il display ha mostrato il numero $2004$. Quale numero aveva Pedro all'inizio?
+> **Problema 2** (Parte B)
+>
+> (a) Semplifica l'espressione
+> $$1 - \dfrac{1}{1 - \dfrac{1}{1 - \dfrac{1}{x}}}.$$
+>
+> (b) Una calcolatrice ha due tasti speciali: il tasto $A$ trasforma il numero $x$ attualmente visualizzato sul display in $\dfrac{1}{x}$; il tasto $B$ trasforma $x$ in $1 - x$.
+>
+> Pedro preme i tasti in modo alternato nell'ordine $A, B, A, B, \ldots$ per un totale di 1000 pressioni dei tasti. Dopo queste 1000 operazioni, sul display è comparso il numero $2004$. Quale numero aveva Pedro sul display all'inizio?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2004_n2_f2#q07|src_obm_2004_n2_f2__Q07]]
 
 
 
@@ -242,15 +294,23 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piegamento di carta: trovare segmento AB' e lato AD*
+*Piegatura della carta: trova il segmento AB' e il lato AD*
 
-> **Problema 3** (parte B)
-> 
-> Un foglio rettangolare di carta $ABCD$ è stato piegato in modo che il vertice $B$ sia portato a un punto $B'$ sul lato $AD$. La linea pieghevole è $EF$, con $E$ sul lato $AB$ e $F$ sul lato $CD$.
-> 
+> **Problema 3** (Parte B)
+>
+> Un foglio di carta rettangolare $ABCD$ è stato piegato in modo che il vertice $B$ venisse portato in un punto $B'$ sul lato $AD$. La linea di piega è $EF$, con $E$ sul lato $AB$ e $F$ sul lato $CD$.
+>
 > È noto che $AE = 8$, $BE = 17$ e $CF = 3$.
-> 
-> (a) Trovare la lunghezza del segmento $AB'$. b) Trova la lunghezza del lato $AD$.
+>
+> (a) Trova la lunghezza del segmento $AB'$.
+> (b) Determina la lunghezza del lato $AD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2004_n2_f2#q08|src_obm_2004_n2_f2__Q08]]
 
 
 
@@ -278,10 +338,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri giuridici a 4 cifre definiti con la condizione somma di cifre*
+*Conta i numeri legali di 4 cifre definiti dalla condizione sulla somma delle cifre*
 
-> **Problema 4** (parte B)
-> 
-> Un numero a 4 cifre $\overline{abcd}$ è chiamato *legal* se la somma del numero formato dalle sue prime due cifre e il numero formato dalle sue ultime due cifre è uguale al numero formato dalle sue due cifre medie. In altre parole, $\overline{ab} + \overline{cd} = \overline{bc}$ (equivalentemente, $(10a + b) + (10c + d) = 10b + c$). Ad esempio, $2307$ è legale perché $23 + 07 = 30$.
-> 
-> (a) Qual è il numero legale più piccolo di $2307$? (b) Quanti numeri legali di 4 cifre ci sono?
+> **Problema 4** (Parte B)
+>
+> Un numero di 4 cifre $\overline{abcd}$ è detto *legale* se la somma del numero formato dalle sue prime due cifre e del numero formato dalle sue ultime due cifre è uguale al numero formato dalle sue due cifre centrali. In altre parole, $\overline{ab} + \overline{cd} = \overline{bc}$ (equivalentemente, $(10a + b) + (10c + d) = 10b + c$). Ad esempio, $2307$ è legale perché $23 + 07 = 30$.
+>
+> (a) Qual è il più piccolo numero legale maggiore di $2307$?
+> (b) Quanti numeri legali di quattro cifre esistono?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2004_n2_f2#q09|src_obm_2004_n2_f2__Q09]]

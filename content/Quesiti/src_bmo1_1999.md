@@ -31,11 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro bambini di diverse età soddisfano due condizioni di somma quadrata*
+*Età di quattro figli, fra 2 e 16 anni, vincolate da due uguaglianze di quadrati*
 
-> Ho quattro figli. L'età degli anni di ciascun bambino è un numero intero positivo compreso tra 2 e 16 anni e tutte e quattro le età sono diverse. Un anno fa il quadrato dell'età del bambino più grande era uguale alla somma dei quadrati dell'età degli altri tre. Tra un anno la somma dei quadrati delle età del più anziano e del più giovane sarà uguale alla somma dei quadrati degli altri due bambini.
-> 
-> Decidere se queste informazioni sono sufficienti per determinare l'età in modo unico e trovare tutte le possibilità per la loro età.
+> Ho quattro figli. L'età in anni di ciascuno è un intero positivo compreso fra 2 e 16, estremi inclusi, e le quattro età sono distinte. Un anno fa il quadrato dell'età del maggiore era uguale alla somma dei quadrati delle età degli altri tre. Fra un anno la somma dei quadrati delle età del maggiore e del minore sarà uguale alla somma dei quadrati degli altri due.
+>
+> Stabilire se queste informazioni bastano a determinare le età in modo univoco, e trovare tutte le possibilità.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_1999#q01|src_bmo1_1999__Q01]]
 
 
 
@@ -60,9 +67,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio di tangenti costanti mentre P si muove su un cerchio di diametro AB*
+*Il rapporto delle tangenti resta costante al muoversi di $P$*
 
-> Un cerchio ha un diametro $AB$ e $X$ è un punto fisso di $AB$ situato tra $A$ e $B$. Un punto $P$, distinto da $A$ e $B$, si trova sulla circonferenza del cerchio. Prove che $$\frac{\tan \angle APX}{\tan \angle PAX}$$ rimane costante mentre $P$ si muove intorno al cerchio.
+> Una circonferenza ha diametro $AB$ e $X$ è un punto fisso di $AB$, compreso fra $A$ e $B$. Un punto $P$, distinto da $A$ e da $B$, sta sulla circonferenza. Dimostrare che
+> $$\frac{\tan \angle APX}{\tan \angle PAX}$$
+> resta costante al muoversi di $P$ sulla circonferenza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_1999#q02|src_bmo1_1999__Q02]]
 
 
 
@@ -87,9 +103,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare costante positiva c così l'equazione ha esattamente tre soluzioni a numeri interi positivi*
+*Una costante $c$ per cui l'equazione ha esattamente tre soluzioni intere positive*
 
-> Determinare una costante positiva $c$ tale che l'equazione $$xy^2 - y^2 - x + y = c$$ abbia precisamente tre soluzioni $(x, y)$ in numeri interi positivi.
+> Determinare una costante positiva $c$ tale che l'equazione
+> $$xy^2 - y^2 - x + y = c$$
+> abbia esattamente tre soluzioni $(x, y)$ in interi positivi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_1999#q03|src_bmo1_1999__Q03]]
 
 
 
@@ -116,13 +141,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Iterazione di base a cubo a 3 cifre: mostra la convergenza e trova tutti i valori eventuali*
+*Valori possibili di $u_N$ iterando la somma dei cubi delle cifre in base 3*
 
-> Qualsiasi numero intero positivo $n$ può essere scritto in modo unico nella forma di base 3. $c(n)$ indichi la somma dei cubi dei numeri della rappresentazione di base 3 di $n$. Per esempio $c(90) = 1^3 + 0^3 + 0^3 + 1^3 + 0^3 = 2$.
-> 
-> $a$ sia qualsiasi numero intero positivo fisso. Definire $u_1 = a$ e $u_r = c(u_{r-1})$ per $r \ge 2$.
-> 
-> Indicare che esiste un intero positivo $N$ tale che $u_n = u_N$ per tutti $n \ge N$, e determinare tutti i valori possibili che $u_N$ può assumere. È sempre così che $u_N = 1$ o $u_N = 17$?
+> Ogni intero positivo $n$ si scrive in modo unico in base 3. Sia $c(n)$ la somma dei cubi delle cifre della rappresentazione in base 3 di $n$. Per esempio $c(90) = 1^3 + 0^3 + 0^3 + 1^3 + 0^3 = 2$.
+>
+> Sia $a$ un intero positivo fissato. Si definisca $u_1 = a$ e $u_r = c(u_{r-1})$ per $r \ge 2$.
+>
+> Dimostrare che esiste un intero positivo $N$ tale che $u_n = u_N$ per ogni $n \ge N$, e determinare tutti i valori possibili di $u_N$. È sempre vero che $u_N = 1$ oppure $u_N = 17$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_1999#q04|src_bmo1_1999__Q04]]
 
 
 
@@ -149,8 +181,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Objective f con f(f(n)) condizione: mostrare l'esistenza di un unico punto fisso a numeri interi positivi*
+*Esiste $n$ tale che $f(n) = p$*
 
-> Considera tutte le funzioni $f$ dai numeri interi positivi ai numeri interi positivi in modo che (i) per ogni intero positivo $m$, ci sia un intero positivo unico $n$ in modo che $f(n) = m$; (ii) per ogni intero positivo $n$, $f(f(n)) = p$ per qualche intero positivo $p$.
-> 
-> Indicare che esiste un intero positivo $n$ tale che $f(n) = p$.
+> Si considerino tutte le funzioni $f$ dagli interi positivi agli interi positivi tali che
+> (i) per ogni intero positivo $m$ esiste un unico intero positivo $n$ tale che $f(n) = m$;
+> (ii) per ogni intero positivo $n$, $f(f(n)) = p$ per qualche intero positivo $p$.
+>
+> Dimostrare che esiste un intero positivo $n$ tale che $f(n) = p$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_bigezione|Biiezione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_1999#q05|src_bmo1_1999__Q05]]

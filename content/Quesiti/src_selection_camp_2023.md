@@ -33,13 +33,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N più piccolo con progressione aritmetica di divisori distinta-gcd*
+*Massimo n con progressione aritmetica dei divisori a mcd distinto*
 
-> Che $n$ sia un intero positivo con almeno $4$ divisori positivi. $d(n)$ indica il numero di divisori positivi di $n$. Trova tutti i $n$ per i quali esistono $d(n)-1$ integri positivi $a_1, a_2, \dots, a_{d(n)-1}$ che formano una progressione aritmetica e soddisfano la seguente condizione:
-> 
-> Per tutti gli integri $i, j$ con $1 \le i < j \le d(n)-1$, abbiamo $\gcd(a_i, n) \ne \gcd(a_j, n)$.
-> 
-> Qui, per i numeri interi positivi $x, y$, $\gcd(x, y)$ indica il più grande divisore comune di $x$ e $y$.
+> Sia $n$ un numero intero positivo con almeno $4$ divisori positivi. Sia $d(n)$ il numero di divisori positivi di $n$. Determinare tutti gli $n$ per cui esistono $d(n)-1$ numeri interi positivi $a_1, a_2, \dots, a_{d(n)-1}$ che formano una progressione aritmetica e soddisfano la seguente condizione:
+>
+> Per qualsiasi intero $i, j$ con $1 \le i < j \le d(n)-1$, vale $\gcd(a_i, n) \ne \gcd(a_j, n)$.
+>
+> Qui, per gli interi positivi $x, y$, $\gcd(x, y)$ denota il massimo comune divisore di $x$ e $y$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_selection_camp_2023#q01|src_selection_camp_2023__Q01]]
 
 
 
@@ -66,13 +73,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre massimo di piastrelle a celle a forma di L di 2023 sulla lavagna 2023x2023*
+*Numero massimo di tessere a forma di L da 2023 celle su una scacchiera 2023x2023*
 
-> Considerate la piastrella a forma di L mostrata nella figura, costituita da celle $2023$ (un braccio verticale di celle $1012$ e un braccio orizzontale di celle $1012$ che condividono una cella angolare). Su una griglia $2023 \times 2023$, posizionare copie di questa piastrella lungo le celle della griglia in modo che due piastrelle non si sovrappongano. Trova il numero massimo di piastrelle che puoi posizionare.
-> 
-> Qui, le piastrelle possono essere ruotate, ma non devono estendersi oltre la griglia.
+> Si consideri la piastrella a forma di L mostrata nella figura, composta da $2023$ celle (un braccio verticale di $1012$ celle e un braccio orizzontale di $1012$ celle che condividono una cella d'angolo). Su una griglia di $2023 \times 2023$ celle, si collochino copie di questa piastrella lungo le celle della griglia in modo che nessuna due piastrelle si sovrappongano. Si determini il numero massimo di piastrelle che si possono collocare.
+>
+> Qui, le tessere possono essere ruotate, ma non devono estendersi oltre la griglia.
 
 ![[src_selection_camp_2023__q02.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2023#q02|src_selection_camp_2023__Q02]]
 
 
 
@@ -97,11 +111,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N più grande con sequenza reale le cui differenze realizzano potenze di r*
+*Il più grande n per cui esiste una successione reale le cui differenze danno le potenze di r*
 
-> $n$ sia un numero intero con $n \ge 2$. Trova il valore più grande possibile di $n$ per il quale esistono $n$ numeri reali $a_1, a_2, \dots, a_n$ e un numero reale positivo $r \ne 1$ che soddisfa la seguente condizione:
-> 
-> Per ogni intero $k$ con $1 \le k \le \dfrac{n(n-1)}{2}$, esistono interi $i, j$ con $1 \le i < j \le n$ tali che $a_j - a_i = r^k$.
+> Sia $n$ un numero intero tale che $n \ge 2$. Determinare il valore massimo possibile di $n$ per cui esistono $n$ numeri reali $a_1, a_2, \dots, a_n$ e un numero reale positivo $r \ne 1$ che soddisfano la seguente condizione:
+>
+> Per ogni numero intero $k$ con $1 \le k \le \dfrac{n(n-1)}{2}$, esistono numeri interi $i, j$ con $1 \le i < j \le n$ tali che $a_j - a_i = r^k$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2023#q03|src_selection_camp_2023__Q03]]
 
 
 
@@ -126,11 +147,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro punti conciclici tramite costruzione di cerchio tangente a piedi d'altitudine*
+*Quattro punti conciclici tramite costruzione del cerchio tangente sull piede dell'altezza*
 
-> Il $ABC$ è un triangolo acuto e il $F$ è il piede della perpendicolare da $A$ a lato $BC$. Prendi un punto $P$ sul segmento $AF$ (esclusi i punti terminali) e lasci che $D, E$ siano rispettivamente le intersezioni con la linea $BC$ delle linee attraverso $P$ parallele alle linee $AC, AB$. $X, Y$ siano punti, ognuno diverso da tutti $A, B, C$, che si trovano rispettivamente sui circoncircoli dei triangoli $ABD, ACE$, in modo tale che $DA = DX$ e $EA = EY$. Prove che i quattro punti $B, C, X, Y$ si trovano su un cerchio comune.
-> 
-> Qui $XY$ indica la lunghezza del segmento $XY$.
+> Sia $ABC$ un triangolo acutangolo, e sia $F$ il piede della perpendicolare condotta da $A$ sul lato $BC$. Si prenda un punto $P$ sul segmento $AF$ (escludendo gli estremi), e si ponga $D, E$ come l'intersezione con la retta $BC$ delle rette passanti per $P$ e parallele rispettivamente alle rette $AC, AB$. Siano $X, Y$ dei punti, ciascuno diverso da tutti i punti $A, B, C$, giacenti rispettivamente sulle circonferenze circoscritte ai triangoli $ABD, ACE$, in modo che $DA = DX$ e $EA = EY$. Dimostrare che i quattro punti $B, C, X, Y$ giacciono su una circonferenza comune.
+>
+> Qui, $XY$ indica la lunghezza del segmento $XY$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2023#q04|src_selection_camp_2023__Q04]]
 
 
 
@@ -154,9 +182,17 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i razionali q realizzati da f(x+f(y))=f(x)+f(y) con f(z)=qz*
+*Trovare i razionali q realizzati da f(x+f(y))=f(x)+f(y) con f(z)=qz*
 
-> Chiamare una funzione $f$ definita sui numeri reali e assumendo i valori reali una buona funzione se, per tutti i numeri reali $x, y$, $$f(x + f(y)) = f(x) + f(y).$$ Trovare tutti i numeri razionali $q$ che soddisfano la seguente condizione: esiste una buona funzione $f$ e un numero reale $z$ tale che $f(z) = qz$.
+> Si dice buona funzione una funzione $f$ definita sui numeri reali e a valori reali se, per tutti i numeri reali $x, y$,
+> $$f(x + f(y)) = f(x) + f(y).$$
+> Trovare tutti i numeri razionali $q$ che soddisfano la seguente condizione: esiste una funzione buona $f$ e un numero reale $z$ tali che $f(z) = qz$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2023#q05|src_selection_camp_2023__Q05]]
 
 
 
@@ -186,15 +222,23 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Infinitamente molte T il cui multiset di numeri numerici di 1829-moltipli ha 2 valori*
+*Infiniti T il cui multinsieme del numero di cifre dei multipli per 1829 ha 2 valori*
 
-> Per un intero positivo $T$ e un intero $i$ con $1 \le i \le 9$, $d_i(T)$ indichi il numero di occasioni della cifra $i$ quando tutti i multipli di $1829$ da $1$ a $T$ sono scritti nella base dieci. Ad esempio, i multipli di $1829$ da $1$ a $4000$ sono $1829$ e $3658$, quindi $d_8(4000) = 2$.
-> 
-> Prove che esistono infiniti interi positivi $T$ in modo tale che $\{d_1(T), d_2(T), \dots, d_9(T)\}$ sia un insieme composto da esattamente due elementi.
-> 
-> Qui, $\{d_1(T), d_2(T), \dots, d_9(T)\}$ costituito da due elementi significa che entrambe le seguenti condizioni sono valide:
-> 
-> - Esistono integri $i, j$ con $1 \le i, j \le 9$ tali da $d_i(T) \ne d_j(T)$. - Esistono due enti $x, y$ in modo che per ogni intero $i$ con $1 \le i \le 9$, sia $d_i(T) = x$ che $d_i(T) = y$.
+> Sia $T$ un intero positivo e $i$ un intero tale che $1 \le i \le 9$; indichiamo con $d_i(T)$ il numero di occorrenze della cifra $i$ quando tutti i multipli di $1829$ compresi tra $1$ e $T$ vengono scritti in base dieci. Ad esempio, i multipli di $1829$ compresi tra $1$ e $4000$ sono $1829$ e $3658$, quindi $d_8(4000) = 2$.
+>
+> Dimostrare che esistono infiniti interi positivi $T$ tali che $\{d_1(T), d_2(T), \dots, d_9(T)\}$ è un insieme costituito esattamente da due elementi.
+>
+> Qui, $\{d_1(T), d_2(T), \dots, d_9(T)\}$ costituito da due elementi significa che valgono entrambe le seguenti condizioni:
+>
+> - Esistono interi $i, j$ tali che $1 \le i, j \le 9$ e $d_i(T) \ne d_j(T)$.
+> - Esistono due interi $x, y$ tali che, per ogni intero $i$ con $1 \le i \le 9$, vale o $d_i(T) = x$ oppure $d_i(T) = y$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2023#q06|src_selection_camp_2023__Q06]]
 
 
 
@@ -219,11 +263,18 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Max C con somme parziali limitate di una buona sequenza +-1 di lunghezza 2022*
+*Max C con somme parziali limitate di una buona sequenza di ±1 di lunghezza 2022*
 
-> Chiamare una sequenza di termini $2022$, ognuno dei quali è $1$ o $-1$, una buona sequenza. Trova il numero intero più grande $C$ che soddisfa la seguente condizione per ogni buona sequenza $a_1, a_2, \dots, a_{2022}$:
-> 
-> Esistono un intero $k \ge 2$ e un intero $t_1, t_2, \dots, t_k$ con $1 \le t_1 < t_2 < \cdots < t_k \le 2022$ in modo tale che $t_{i+1} - t_i \le 2$ per ogni intero $i$ con $1 \le i \le k-1$, e inoltre $\left| \sum_{i=1}^{k} a_{t_i} \right| \ge C$.
+> Si definisce sequenza buona una successione di $2022$ termini, ciascuno dei quali è $1$ o $-1$. Si determini il più grande intero $C$ che soddisfi la seguente condizione per ogni sequenza buona $a_1, a_2, \dots, a_{2022}$:
+>
+> Esistono un numero intero $k \ge 2$ e numeri interi $t_1, t_2, \dots, t_k$ tali che $1 \le t_1 < t_2 < \cdots < t_k \le 2022$, con la proprietà che $t_{i+1} - t_i \le 2$ per ogni numero intero $i$ tale che $1 \le i \le k-1$, e inoltre $\left| \sum_{i=1}^{k} a_{t_i} \right| \ge C$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2023#q07|src_selection_camp_2023__Q07]]
 
 
 
@@ -256,17 +307,26 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco mod-p da tavolo nero: più grande x per il quale B può bloccare A*
+*Gioco mod-p della lavagna: il valore massimo di x per cui B può bloccare A*
 
-> I giocatori A e B giocano con una lavagna. Inizialmente viene fissato un numero reale positivo $x$.
-> 
-> In primo luogo, A sceglie un primo $p \ge 7$. Successivamente, B sceglie i numeri reali $r_1, r_2 \ge 0$. Poi A sceglie gli integri $s, t$ soddisfa $r_1 < s < r_1 + xp$ e $r_2 < t < r_2 + xp$, e scrive sulla lavagna $0, s, t, st$, ciascun modulo ridotto $p$, in questo ordine. Dopo di che, A esegue ripetutamente, quante volte si desidera, una delle seguenti tre operazioni:
-> 
-> - Fixare un numero intero $m$ con $1 \le m \le p-1$; sostituire ciascuno dei quattro numeri della lavagna con quel numero più $m$, modulo ridotto $p$. - Fixare un numero intero $n$ con $2 \le n \le p-1$; sostituire ciascuno dei quattro numeri sulla lavagna con quel numero volte $n$, modulo ridotto $p$. - sostituire ciascuno dei quattro numeri della lavagna con la sua potenza $(p-2)$-th, modulo ridotto $p$. Tuttavia, questa operazione non può essere eseguita quando almeno uno dei quattro numeri è $0$.
-> 
-> L'obiettivo di A è rendere i numeri sulla lavagna $0, 2, 3, 6$ in ordine. Si noti che se non esistono numeri interi $s, t$ che soddisfano $r_1 < s < r_1 + xp$ e $r_2 < t < r_2 + xp$, A è considerato incapace di raggiungere l'obiettivo.
-> 
-> Trova il più grande valore possibile di $x$ per il quale B può sempre impedire a A di raggiungere l'obiettivo, indipendentemente dalle azioni di A.
+> I giocatori A e B giocano una partita usando una lavagna. Inizialmente viene fissato un numero reale positivo $x$.
+>
+> Innanzitutto, A sceglie un numero primo $p \ge 7$. Successivamente, B sceglie numeri reali $r_1, r_2 \ge 0$. Poi A sceglie numeri interi $s, t$ che soddisfano $r_1 < s < r_1 + xp$ e $r_2 < t < r_2 + xp$, e scrive sulla lavagna $0, s, t, st$, ciascuno ridotto modulo $p$, in questo ordine. Dopodiché, A esegue ripetutamente, quante volte desidera, una qualsiasi delle seguenti tre operazioni:
+>
+> - Fissa un intero $m$ con $1 \le m \le p-1$; sostituisci ciascuno dei quattro numeri sulla lavagna con quel numero più $m$, ridotto modulo $p$.
+> - Fissa un intero $n$ con $2 \le n \le p-1$; sostituisci ciascuno dei quattro numeri sulla lavagna con quel numero moltiplicato per $n$, ridotto modulo $p$.
+> - Sostituisci ciascuno dei quattro numeri sulla lavagna con la sua potenza $(p-2)$, ridotta modulo $p$. Tuttavia, questa operazione non può essere eseguita quando almeno uno dei quattro numeri è $0$.
+>
+> L'obiettivo di A è far sì che i numeri sulla lavagna diventino $0, 2, 3, 6$ in ordine. Si noti che, se non esistono interi $s, t$ che soddisfano $r_1 < s < r_1 + xp$ e $r_2 < t < r_2 + xp$, allora si ritiene che A non sia in grado di raggiungere l'obiettivo.
+>
+> Trovare il valore massimo possibile di $x$ per cui B può sempre impedire ad A di raggiungere l'obiettivo, indipendentemente dalle azioni di A.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2023#q08|src_selection_camp_2023__Q08]]
 
 
 
@@ -289,9 +349,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il punto fisso X si trova sulla linea PQ indipendente da P*
+*Il punto fisso X giace sulla retta PQ indipendentemente da P*
 
-> Il $ABC$ è un triangolo acuto e il $H$ è il piede della perpendicolare da $A$ a lato $BC$. Selezionare un punto $P$ non sulla linea $BC$ in modo tale che il bisettore $k$ di $\angle PBC$ e il bisettore $l$ di $\angle PCB$ si incontrino sul segmento $AH$ (esclusi i suoi punti terminali). $E$ sia l'intersezione di $k$ con la linea $AC$, $F$ sia l'intersezione di $l$ con la linea $AB$ e $Q$ sia l'intersezione di $EF$ con la linea $AH$. Prove che esiste un punto $X$ tale che, indipendentemente dalla scelta di $P$, $X$ si trova sulla linea $PQ$.
+> Sia $ABC$ un triangolo acutangolo e sia $H$ il piede della perpendicolare condotta da $A$ sul lato $BC$. Si scelga un punto $P$ non appartenente alla retta $BC$ tale che la bisettrice $k$ di $\angle PBC$ e la bisettrice $l$ di $\angle PCB$ si incontrino sul segmento $AH$ (escludendo gli estremi). Sia $E$ l'intersezione di $k$ con la retta $AC$, sia $F$ l'intersezione di $l$ con la retta $AB$, e sia $Q$ l'intersezione della retta $EF$ con la retta $AH$. Si dimostri che esiste un punto $X$ tale che, indipendentemente dalla scelta di $P$, $X$ giace sulla retta $PQ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2023#q09|src_selection_camp_2023__Q09]]
 
 
 
@@ -318,13 +385,20 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Min dimensione di set in cui ogni elemento è la somma di k altri*
+*Dimensione minima dell'insieme in cui ogni elemento è la somma di k altri elementi*
 
-> $k$ sia un numero intero con $k \ge 2$. Un insieme $S$ di almeno $k+1$ numeri reali distinti soddisfa la seguente condizione:
-> 
+> Sia $k$ un numero intero tale che $k \ge 2$. Un insieme $S$ di almeno $k+1$ numeri reali distinti soddisfa la seguente condizione:
+>
 > Per ogni elemento $x$ di $S$, esistono $k$ elementi distinti di $S$, tutti diversi da $x$, la cui somma è $x$.
-> 
-> Trova il minimo valore possibile del numero di elementi di $S$.
+>
+> Trovare il valore più piccolo possibile del numero di elementi di $S$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_selection_camp_2023#q10|src_selection_camp_2023__Q10]]
 
 
 
@@ -347,9 +421,16 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre circoncircoli condividono un punto comune*
+*Tre circonferenze circoscritte hanno un punto in comune*
 
-> Il $P$ deve essere un punto all'interno (escluso il confine) di un triangolo acuto $ABC$ in modo tale che la linea $AP$ e la linea $BC$ non siano perpendicolari. $X, Y$ siano rispettivamente i riflessi di $P$ nelle linee $AB, AC$, e $\omega$ sia il circoncircolo del triangolo $AXY$. Supponiamo che un punto $Q$ all'interno (escluso il confine) del triangolo $ABC$ soddisfi $\angle QBC = \angle CAP$ e $\angle QCB = \angle BAP$, e supponiamo che le linee $AQ$ e $\omega$ si incontrino in un punto $R$ diverso da $A$ e $Q$. Prova che il circoncircolo del triangolo $ABC$, il circoncircolo del triangolo $PQR$ e $\omega$ condividono un punto comune.
+> Sia $P$ un punto nell'interno (escludendo il bordo) di un triangolo acuto $ABC$ tale che la retta $AP$ e la retta $BC$ non siano perpendicolari. Siano $X, Y$ le riflessioni di $P$ rispetto alle rette $AB, AC$ rispettivamente, e sia $\omega$ la circonferenza circoscritta al triangolo $AXY$. Si supponga che un punto $Q$, situato nell'interno (escludendo il bordo) del triangolo $ABC$, soddisfi $\angle QBC = \angle CAP$ e $\angle QCB = \angle BAP$, e si supponga che la retta $AQ$ e $\omega$ si incontrino in un punto $R$ diverso da $A$ e da $Q$. Dimostrare che la circonferenza circoscritta al triangolo $ABC$, la circonferenza circoscritta al triangolo $PQR$ e $\omega$ hanno un punto in comune.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_selection_camp_2023#q11|src_selection_camp_2023__Q11]]
 
 
 
@@ -378,12 +459,19 @@ level: CAMP Selection Camp
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Seconda più grande conteggio di buone coppie di città in rete di tunnel*
+*Secondo numero più elevato di buone coppie di città nella rete di tunnel*
 
-> Il regno di Mogura è costituito da città $2023$, con diversi tunnel che collegano ciascuna due città distinte. Ogni tunnel è attraversato in due direzioni e tra due città distinte esiste almeno un tunnel che li collega direttamente. Inoltre, due città distinte possono raggiungere l'una l'altra attraverso una sequenza di tunnel.
-> 
-> Una coppia $\{A, B\}$ di città distinte è definita buona se soddisfa la seguente condizione per ogni città $C$ diversa da $A$ e $B$:
-> 
-> Il $d_{C,A}$ deve essere il numero minimo possibile di tunnel utilizzati durante il viaggio da $C$ a $A$ e il $d_{C,B}$ deve essere il numero minimo possibile di tunnel utilizzati durante il viaggio da $C$ a $B$. È quindi possibile scegliere un percorso $X$ da $C$ a $A$ utilizzando tunnel $d_{C,A}$ e un percorso $Y$ da $C$ a $B$ utilizzando tunnel $d_{C,B}$ in modo che $X$ e $Y$ non condividano tunnel comune.
-> 
-> Trova il secondo valore possibile del numero di buone coppie di città. Qui $\{A, B\}$ e $\{B, A\}$ sono considerati come la stessa coppia.
+> Il regno di Mogura è composto da $2023$ città, ciascuna delle quali è collegata ad altre due città distinte da diversi tunnel. Ogni tunnel è percorribile in entrambe le direzioni, e tra due città distinte qualsiasi c'è al massimo un tunnel che le collega direttamente. Inoltre, due città distinte qualsiasi possono raggiungersi l'una l'altra attraverso una qualche sequenza di tunnel.
+>
+> Una coppia $\{A, B\}$ di città distinte è detta buona se soddisfa la seguente condizione per ogni città $C$ diversa da $A$ e $B$:
+>
+> Sia $d_{C,A}$ il numero minimo possibile di tunnel utilizzati quando si viaggia da $C$ a $A$, e sia $d_{C,B}$ il numero minimo possibile di tunnel utilizzati quando si viaggia da $C$ a $B$. Allora è possibile scegliere un percorso $X$ da $C$ a $A$ utilizzando $d_{C,A}$ tunnel e un percorso $Y$ da $C$ a $B$ utilizzando $d_{C,B}$ tunnel in modo che $X$ e $Y$ non abbiano alcun tunnel in comune.
+>
+> Trovare il secondo valore più grande possibile del numero di coppie valide di città. Qui, $\{A, B\}$ e $\{B, A\}$ sono considerati la stessa coppia.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_selection_camp_2023#q12|src_selection_camp_2023__Q12]]

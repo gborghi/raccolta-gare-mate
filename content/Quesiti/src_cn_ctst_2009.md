@@ -31,11 +31,18 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove CM perpendicolare all'AO in configurazione a cerchio e triangolo*
+*Dimostrare che CM è perpendicolare ad AO nella configurazione cerchio-triangolo*
 
-> Il punto $D$ deve essere un punto sul lato $BC$ del triangolo $ABC$ tale che $\angle CAD = \angle CBA$. Un cerchio con centro $O$ passa attraverso $B$, $D$ e incontra segmenti $AB$, $AD$ rispettivamente a $E$ e $F$. Le linee $BF$ e $DE$ si incontrano al punto $G$. $M$ è il punto medio di $AG$. Prova che $CM \perp AO$.
+> Sia $D$ un punto sul lato $BC$ del triangolo $ABC$ tale che $\angle CAD = \angle CBA$. Una circonferenza avente centro in $O$ passa per $B$ e $D$, e interseca i segmenti $AB$ e $AD$ rispettivamente nei punti $E$ e $F$. Le rette $BF$ e $DE$ si incontrano nel punto $G$. $M$ è il punto medio di $AG$. Dimostrare che $CM \perp AO$.
 
 ![[src_cn_ctst_2009__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_ctst_2009#q01|src_cn_ctst_2009__Q01]]
 
 
 
@@ -63,11 +70,20 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il più grande lambda(n) per la disuguaglianza tra somma dei quadrati e quadrato della somma*
+*Trovare il valore massimo di lambda(n) per la disuguaglianza tra la somma dei quadrati e il quadrato della somma*
 
-> Con un numero intero $n \geq 2$, trovare il più grande $\lambda(n)$ con la seguente proprietà: se una sequenza di numeri reali $a_0, a_1, a_2, \ldots, a_n$ soddisfa $$0 = a_0 \leq a_1 \leq a_2 \leq \cdots \leq a_n,$$ $$a_i \geq \frac{1}{2}(a_{i+1} + a_{i-1}), \quad i = 1, 2, \ldots, n-1,$$, allora $$\left(\sum_{i=1}^{n} a_i\right)^2 \geq \lambda(n) \sum_{i=1}^{n} a_i^2.$$
+> Dato l'intero $n \geq 2$, trova il più grande $\lambda(n)$ con la seguente proprietà: se una successione di numeri reali $a_0, a_1, a_2, \ldots, a_n$ soddisfa
+> $$0 = a_0 \leq a_1 \leq a_2 \leq \cdots \leq a_n,$$
+> $$a_i \geq \frac{1}{2}(a_{i+1} + a_{i-1}), \quad i = 1, 2, \ldots, n-1,$$
+> allora
+> $$\left(\sum_{i=1}^{n} a_i\right)^2 \geq \lambda(n) \sum_{i=1}^{n} a_i^2.$$
 
-**Risposta:** \frac{n(n+1)^2}{4}
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_ctst_2009#q02|src_cn_ctst_2009__Q02]]
 
 
 
@@ -90,9 +106,16 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-Numero di n con p n! - 1 by cp^(2/3)*
+*Numero limitato di n con p | n! - 1 da cp^(2/3)*
 
-> Prova che per qualsiasi numero primo impar $p$, il numero di integri positivi $n$ soddisfa $p \mid n! - 1$ non è superiore a $cp^{\frac{2}{3}}$, dove $c$ è una costante indipendente da $p$. (Posato da Yu Hongbing)
+> Dimostrare che, per ogni numero primo dispari $p$, il numero di interi positivi $n$ che soddisfano $p \mid n! - 1$ non supera $cp^{\frac{2}{3}}$, dove $c$ è una costante indipendente da $p$. (Proposto da Yu Hongbing)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_ctst_2009#q03|src_cn_ctst_2009__Q03]]
 
 
 
@@ -115,9 +138,16 @@ Numero di n con p n! - 1 by cp^(2/3)*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'insieme non vuoto S in [ab,(a+1)(b+1)] rendendo il rapporto del prodotto un quadrato perfetto*
+*Trovare un insieme non vuoto S in [ab,(a+1)(b+1)] tale che il rapporto dei prodotti sia un quadrato perfetto*
 
-> $a$, $b$ siano numeri reali positivi con $b - a \geq 2$. Prove che per due interi distinti $m$, $n$ nell'intervallo $(a, b)$, esiste un insieme non vuoto $S$ costituito da alcuni interi nell'intervallo $[ab, (a+1)(b+1)]$, e che $\frac{\prod_{s \in S} s}{mn(m+n+1)^2}$ è un quadrato di un numero razionale. (Posato da Yu Hongbing)
+> Siano $a$, $b$ numeri reali positivi tali che $b - a \geq 2$. Dimostrare che, per ogni coppia di interi distinti $m$, $n$ nell'intervallo $(a, b)$, esiste un insieme non vuoto $S$ costituito da alcuni interi nell'intervallo $[ab, (a+1)(b+1)]$, e che $\frac{\prod_{s \in S} s}{mn(m+n+1)^2}$ è il quadrato di un numero razionale. (Proposto da Yu Hongbing)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_ctst_2009#q04|src_cn_ctst_2009__Q04]]
 
 
 
@@ -145,13 +175,18 @@ Numero di n con p n! - 1 by cp^(2/3)*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il minimo della somma massima delle colonne in array di numeri interi con vincoli*
+*Trovare il minimo della somma massima delle colonne in un array intero con vincoli*
 
-> Che $m$ sia un numero intero maggiore di $1$, e che $n$ sia un numero odd con $3 \leq n \leq 2m$. Per ogni $1 \leq j \leq n$: $a_{1j}, a_{2j}, \ldots, a_{mj}$ è una permutazione di $1, 2, \ldots, m$; (2) $|a_{i,j} - a_{i,j+1}| \leq 1$ per ogni $1 \leq i \leq m$, $1 \leq j \leq n-1$.
-> 
-> Trova il valore minimo possibile di $M = \max_{j} \sum_{i=1}^{m} a_{ij}$.
+> Sia $m$ un numero intero maggiore di $1$, e sia $n$ un numero dispari con $3 \leq n \leq 2m$. Siano $i$, $j \in \mathbb{N}$, $1 \leq i \leq m$, $1 \leq j \leq n$ tali che: (1) Per ogni $1 \leq j \leq n$: $a_{1j}, a_{2j}, \ldots, a_{mj}$ è una permutazione di $1, 2, \ldots, m$; (2) $|a_{i,j} - a_{i,j+1}| \leq 1$ per ogni $1 \leq i \leq m$, $1 \leq j \leq n-1$.
+>
+> Trovare il valore minimo possibile di $M = \max_{j} \sum_{i=1}^{m} a_{ij}$.
 
-**Risposta:** $(2l+1)m - l^2$ dove $l = \lfloor (n-1)/2 \rfloor$
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_ctst_2009#q05|src_cn_ctst_2009__Q05]]
 
 
 
@@ -174,6 +209,13 @@ Numero di n con p n! - 1 by cp^(2/3)*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*AP di 40 diversi integri positivi contiene uno non di forma 2^k+3^l*
+*Un insieme di 40 distinti interi positivi contiene un elemento che non è della forma 2^k+3^l*
 
-> Prove che in una progressione aritmetica composta da $40$ diversi interi positivi, almeno uno dei numeri non può essere scritto come $2^k + 3^l$, dove $k$, $l$ sono interi non negativi. (Posato da Chen Yonggao)
+> Dimostrare che, in una progressione aritmetica composta da $40$ interi positivi distinti, almeno uno dei numeri non può essere scritto come $2^k + 3^l$, dove $k$ e $l$ sono interi non negativi. (Proposto da Chen Yonggao)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_colorazione|Colorazione]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_ctst_2009#q06|src_cn_ctst_2009__Q06]]

@@ -33,11 +33,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*height of the bottle*
+*How tall the bottle is*
 
-> A cone-shaped bottle rests on its base. It is filled with water until the level of the liquid reaches 8 centimetres measured vertically below the top of the cone. Now, if you turn the bottle around, without changing the amount of water inside, the space left empty at the top of the reversed cone is 2 centimeters high. How high is the bottle?
+> A bottle in the shape of a cone rests on its base. It is filled with water until the level of the liquid reaches 8 centimetres, measured vertically, below the vertex of the cone. If the bottle is now turned upside down, without changing the quantity of water inside it, the space that remains empty in the upper part of the inverted cone is 2 centimetres high.
+> How tall is the bottle?
 
-**Answer:** 1+sqrt(85)
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2018#q01|src_cesenatico_2018__Q01]]
 
 
 
@@ -64,9 +68,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*GS perpendicular to BC*
+*GS is perpendicular to BC*
 
-> Whether ABC is an acutangol triangle, with AB =AC and with barycenter G. Given M the mean point of BC, let's consider the circumference Γ of the center G and the GM radius and denote with N the intersection of Γ with BC other than M. Whether now S is the symmetrical point of A with respect to N, i.e. the point on the AN line such that AN = NS (A  = S). Prove that GS is perpendicular to BC.
+> Let ABC be an acute-angled triangle, with AB ̸= AC and with centroid G. Letting M be the midpoint of BC, consider the circle Γ with centre G and radius GM, and denote by N the intersection of Γ with BC other than M. Let now S be the point symmetric to A with respect to N, that is, the point on the line AN such that AN = NS (A ̸= S).
+> Prove that GS is perpendicular to BC.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2018#q02|src_cesenatico_2018__Q02]]
 
 
 
@@ -97,9 +108,21 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of reverses < 3*
+*The sum of the reciprocals is less than 3; the sum is a broken extraction*
 
-> They're x1, x2, . . . , xn positive integers. Let's assume that, in their decimal writing, none of xi is an extension of another xj. For example, 123 is an extension of 12, and 459 is an extension of 4, but 134 is not an extension of 123. Prove that 1 x1 + · · + 1 xn < 3.
+> Let x1, x2, . . . , xn be positive integers. Suppose that, in their decimal writing, none of the xi is an "extension" of another xj. For example, 123 is an extension of 12, and 459 is an extension of 4, but 134 is not an extension of 123.
+> Prove that
+> 1
+> x1
+> + · · + 1
+> xn
+> < 3.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2018#q03|src_cesenatico_2018__Q03]]
 
 
 
@@ -126,9 +149,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*double first or power first*
+*x is twice a prime, or a power of a prime*
 
-> Let N be an integer greater than 1. We call x the smallest positive integer with the following property: there is a positive integer y narrowly less than x −1 such that x divides N + y. Prove that x is the double of a prime number or a power of a prime number. Note: remember that x is a power of a prime number if there exists a prime p and a positive integer n ≥1 such that x = pn.
+> Let N be an integer greater than 1. Call x the least positive integer with the following property: there exists a positive integer y strictly less than x − 1 such that x divides N + y. Prove that x is twice a prime number, or a power of a prime number.
+> Note: recall that x is a power of a prime number if there exist a prime p and a positive integer n ≥ 1 such that x = pn.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2018#q04|src_cesenatico_2018__Q04]]
 
 
 
@@ -156,11 +186,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of sub-sequences of 6 digits for irrational x*
+*The least number of elements of B(x) as x ranges over the irrationals between 0 and 1*
 
-> Given a real number x between 0 and 1, let 's consider its decimal writing 0, c1c2c3 . . . Let 's call B  x) the sum of the different subsequences of six consecutive digits that appear in the sequence c1c2c3 . . . For example, B(1/22) = {045454, 454545, 545454}. Determine the minimum number of elements of B(x) by varying x between the irrational numbers between 0 and 1 (i.e. those whose decimal development is not finite, n is periodic from a certain point onwards.)
+> Given a real number x between 0 and 1, consider its decimal writing 0, c1c2c3 . . . Call B(x) the set of the distinct subsequences of six consecutive digits that appear in the sequence c1c2c3 . . . For example, B(1/22) = {045454, 454545, 545454}.
+> Determine the least number of elements of B(x) as x ranges over the irrational numbers between 0 and 1 (that is, those whose decimal expansion is neither finite, nor periodic from some point on).
 
-**Answer:** 7
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+[[Quesiti/src_cesenatico_2018#q05|src_cesenatico_2018__Q05]]
 
 
 
@@ -188,6 +223,14 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*concyclic points and intersections on Omega*
+*D, I, P and Q lie on one circle, and CE and BF meet on that circle*
 
-> So ABC is a triangle such that AB is AC and I is its center. Whether Γ the circumference circumscribed at ABC. The lines BI and CI intersect Γ in two new points, marked M and N respectively. Whether D is another point of Γ, lying on the arc BC that does not contain A, and whether E, F, respectively, are the intersections of AD with BI and CI. Finally, P and Q are the intersections of DM with CI and DN with BI, respectively. (i) Demonstrate that points D, I, P and Q lie on the same circumference Ω. (ii) Demonstrate that the EC and BF lines intersect on Ω.
+> Let ABC be a triangle such that AB = AC, and let I be its incentre. Let Γ be the circle circumscribed about ABC. The lines BI and CI meet Γ again at two new points, denoted M and N respectively. Let D be another point of Γ, lying on the arc BC that does not contain A, and let E and F be, respectively, the intersections of AD with BI and with CI. Finally let P and Q be, respectively, the intersections of DM with CI and of DN with BI.
+> (i) Prove that the points D, I, P and Q lie on one and the same circle Ω.
+> (ii) Prove that the lines CE and BF meet on Ω.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[Quesiti/src_cesenatico_2018#q06|src_cesenatico_2018__Q06]]

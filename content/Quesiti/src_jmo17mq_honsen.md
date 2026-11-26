@@ -29,9 +29,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Strategia vincente in un gioco di chiamate di numero fino a n*
+*Valori di n per cui il primo giocatore ha una strategia vincente*
 
-> $n$ sia un numero intero positivo. Due giocatori si alternano dicendo numeri interi tra $1$ e $n$ inclusivi (ogni numero intero può essere detto una volta al massimo). La partita finisce quando non restano numeri interi. Se la somma dei numeri interi indicati dal primo giocatore è divisibile per $3$, il primo giocatore vince; altrimenti il secondo giocatore vince. Trova tutte le $n$ per le quali il primo giocatore ha una strategia vincente.
+> Sia $n$ un intero positivo. Due giocatori, a turno, dicono interi compresi tra $1$ e $n$ inclusi (ogni intero si può dire al più una volta). La partita finisce quando non restano interi. Se la somma degli interi detti dal primo giocatore è divisibile per $3$, vince il primo; altrimenti vince il secondo. Determinare tutti gli $n$ per i quali il primo giocatore ha una strategia vincente.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_casework_accurato|Analisi per casi accurata]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_jmo17mq_honsen#q01|src_jmo17mq_honsen__Q01]]
 
 
 
@@ -56,9 +61,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Caricare le funzioni che soddisfano una doppia disuguaglianza funzionale*
+*Funzioni positive sui reali positivi che soddisfano due condizioni insieme*
 
-> Lasciate che $f$ sia una funzione definita sui valori reali positivi e che prenda valori reali positivi. Trovare tutti tali $f$ soddisfacenti: per ogni coppia di valori reali positivi $x, y$, $$f(x) + f(y) \le \frac{f(x+y)}{2} + \frac{f(x)}{x} + \frac{f(y)}{y} \ge \frac{f(x+y)}{x+y}.$$ (cioè contemporaneamente $f(x)+f(y) \le \dfrac{f(x+y)}{2} + \dfrac{f(x)}{x} + \dfrac{f(y)}{y}$ e $\dfrac{f(x)}{x} + \dfrac{f(y)}{y} \ge \dfrac{f(x+y)}{x+y}$.)
+> Sia $f$ una funzione definita sui reali positivi e a valori reali positivi. Determinare tutte le $f$ tali che, per ogni coppia di reali positivi $x, y$,
+>
+> $$f(x) + f(y) \le \frac{f(x+y)}{2} + \frac{f(x)}{x} + \frac{f(y)}{y} \ge \frac{f(x+y)}{x+y}.$$
+>
+> (cioè, contemporaneamente, $f(x)+f(y) \le \dfrac{f(x+y)}{2} + \dfrac{f(x)}{x} + \dfrac{f(y)}{y}$ e $\dfrac{f(x)}{x} + \dfrac{f(y)}{y} \ge \dfrac{f(x+y)}{x+y}$).
+
+**Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo17mq_honsen#q02|src_jmo17mq_honsen__Q02]]
 
 
 
@@ -81,9 +95,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre circonferenze tangenti a due lati di un triangolo e internamente alla circonferenza circoscritta: le rette dai vertici ai punti di contatto sono concorrenti*
+*Tre rette concorrenti dai punti di tangenza di tre circonferenze*
 
-> Sia $\triangle ABC$ un triangolo e sia $\Gamma$ la sua circonferenza circoscritta. Sia $\Gamma_A$ la circonferenza tangente internamente a $\Gamma$ e tangente ai lati $AB$ e $AC$; sia $\Gamma_B$ la circonferenza tangente internamente a $\Gamma$ e tangente ai lati $AB$ e $BC$; sia $\Gamma_C$ la circonferenza tangente internamente a $\Gamma$ e tangente ai lati $AC$ e $BC$. Siano $P$, $Q$, $R$ rispettivamente i punti di tangenza di $\Gamma_A$, $\Gamma_B$, $\Gamma_C$ con $\Gamma$. Dimostrare che le rette $AP$, $BQ$, $CR$ sono concorrenti.
+> Sia $\triangle ABC$ un triangolo. Sia $\Gamma$ la sua circonferenza circoscritta. Sia $\Gamma_A$ la circonferenza tangente internamente a $\Gamma$ e tangente ai lati $AB$ e $AC$; sia $\Gamma_B$ la circonferenza tangente internamente a $\Gamma$ e tangente ai lati $AB$ e $BC$; sia $\Gamma_C$ la circonferenza tangente internamente a $\Gamma$ e tangente ai lati $AC$ e $BC$. Si indichino i punti di tangenza di $\Gamma_A$, $\Gamma_B$, $\Gamma_C$ con $\Gamma$ rispettivamente con $P$, $Q$, $R$. Dimostrare che le rette $AP$, $BQ$, $CR$ concorrono.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo17mq_honsen#q03|src_jmo17mq_honsen__Q03]]
 
 
 
@@ -106,9 +125,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Band di larghezza sqrt(2) che copre quattro punti del piano*
+*Una banda che contiene quattro punti, se ogni terna sta in una banda della stessa larghezza*
 
-> Nel piano, definire l'insieme di tutti i punti la cui distanza da una data linea è al massimo $\frac{d}{2}$ una "banda di larghezza $d$". Se i punti $A$, $B$, $C$, $D$ sono quattro punti del piano. Supponiamo che per qualsiasi scelta di tre di questi quattro punti, esista una fascia di larghezza $1$ che contiene tutti e tre. Prove che esiste una banda di larghezza $\sqrt{2}$ che contiene tutti e quattro i punti.
+> Nel piano, si chiami insieme di tutti i punti la cui distanza da una retta data è al più $\frac{d}{2}$ una banda di larghezza $d$. Siano $A$, $B$, $C$, $D$ quattro punti del piano. Si supponga che, per qualunque scelta di tre tra questi quattro punti, esista una banda di larghezza $1$ che li contiene tutti e tre. Dimostrare che esiste una banda di larghezza $\sqrt{2}$ che contiene tutti e quattro i punti.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_jmo17mq_honsen#q04|src_jmo17mq_honsen__Q04]]
 
 
 
@@ -133,6 +157,15 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Alfa irrazionale tale che beta in A(alfa) implica che beta/alfa è un intero*
+*Irrazionali per cui un certo rapporto è intero*
 
-> Per un numero reale $r$, $\lfloor r \rfloor$ indica il numero intero più grande non superiore a $r$. Per un numero reale positivo $x$, definire l'insieme $$A(x) = \{\lfloor nx \rfloor \mid n \text{ is a positive integer}\}.$$ Trovare tutti i numeri irrazionali $\alpha > 1$ in modo tale che: ogni volta che $\beta$ è un vero positivo con $A(\alpha) \supset A(\beta)$, il rapporto $\dfrac{\beta}{\alpha}$ è un intero.
+> Per un numero reale $r$, sia $\lfloor r \rfloor$ il massimo intero che non supera $r$. Per un numero reale positivo $x$, si definisca l'insieme
+>
+> $$A(x) = \{\lfloor nx \rfloor \mid n \text{ is a positive integer}\}.$$
+>
+> Determinare tutti i numeri irrazionali $\alpha > 1$ tali che, ogni volta che $\beta$ è un reale positivo con $A(\alpha) \supset A(\beta)$, il rapporto $\dfrac{\beta}{\alpha}$ sia un intero.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo17mq_honsen#q05|src_jmo17mq_honsen__Q05]]

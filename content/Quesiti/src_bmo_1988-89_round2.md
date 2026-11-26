@@ -34,13 +34,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il più piccolo intero positivo a per quadratici con radici in (0,1)*
+*Il minimo intero positivo $a$ per cui esistono due radici distinte in $0 < x < 1$*
 
-> Trova il numero intero positivo più piccolo $a$ con la proprietà:
-> 
-> Esistono numeri interi $b, c$ in modo che l'equazione $$ax^2 - bx + c = 0$$ abbia due radici distinte nell'intervallo $0 < x < 1$.
+> Trovare il minimo intero positivo $a$ con la proprietà seguente:
+>
+> esistono interi $b, c$ tali che l'equazione
+> $$ax^2 - bx + c = 0$$
+> abbia due radici distinte nell'intervallo $0 < x < 1$.
 
-**Risposta:** 5
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1988-89_round2#q01|src_bmo_1988-89_round2__Q01]]
 
 
 
@@ -67,11 +74,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio di righe di 5 A, 5 B, 5 C con ciascuna lettera adiacente alla lettera identica*
+*Il numero di disposizioni in cui ogni lettera è adiacente a una lettera uguale*
 
-> Trovare il numero di diversi arrangiamenti in una riga delle lettere $$A, A, A, A, A, B, B, B, B, B, C, C, C, C, C$$ in modo tale che ogni lettera sia adiacente a una lettera identica.
-> 
-> Indicare se è possibile generizzare il caso delle lettere $n$ che appaiono ciascuna cinque volte.
+> Trovare il numero di disposizioni diverse in fila delle lettere
+> $$A, A, A, A, A, B, B, B, B, B, C, C, C, C, C$$
+> tali che ogni lettera sia adiacente a una lettera identica.
+>
+> Indicare se si può dare una generalizzazione al caso di $n$ lettere ciascuna delle quali compare cinque volte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1988-89_round2#q02|src_bmo_1988-89_round2__Q02]]
 
 
 
@@ -96,9 +112,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca f(n+1) per polinomio di grado n con f(k)=1/(k+1) per k=0,...,n*
+*$f(n+1)$, nel modo più semplice possibile*
 
-> Che $f(x)$ sia un polinomio di grado $n$ tale che $$f(k) = \frac{1}{k+1}, \quad k = 0, 1, 2, \ldots, n.$$ Trova $f(n+1)$, esprimendo il risultato il più semplicemente possibile.
+> Sia $f(x)$ un polinomio di grado $n$ tale che
+> $$f(k) = \frac{1}{k+1}, \quad k = 0, 1, 2, \ldots, n.$$
+> Trovare $f(n+1)$, esprimendo il risultato nel modo più semplice possibile.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Metodo telescopico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1988-89_round2#q03|src_bmo_1988-89_round2__Q03]]
 
 
 
@@ -121,6 +146,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca BM nel triangolo ABC dato BAM e BMC hanno uguali inradii*
+*La lunghezza di $BM$ in funzione di $a, b, c$*
 
-> $M$ è un punto sul lato $AC$ del triangolo $ABC$ in modo tale che i triangoli $BAM$, $BMC$ abbiano scritti cerchi di uguale raggio. Trova la lunghezza di $BM$ in termini di lunghezza $a, b, c$ dei lati del triangolo $ABC$.
+> $M$ è un punto sul lato $AC$ del triangolo $ABC$ tale che i triangoli $BAM$, $BMC$ abbiano incerchi di raggio uguale. Trovare la lunghezza di $BM$ in funzione delle lunghezze $a, b, c$ dei lati del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1988-89_round2#q04|src_bmo_1988-89_round2__Q04]]

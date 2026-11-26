@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-La radice irrazionale comune di due polinomi cubici implica un altro *
+*Una radice irrazionale comune di due polinomi cubici implica un'altra*
 
-> Prova che se due polinomi cubici con coefficienti interi hanno una radice irrazionale in comune, allora hanno un'altra radice irrazionale comune.
+> Dimostrare che, se due polinomi cubici a coefficienti interi hanno una radice irrazionale in comune, allora hanno un'altra radice irrazionale in comune.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1966_r3#q01|src_pol_1966_r3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Soluzione in numeri interi $x^4 + 4y^4 = 2(z^4 + 4u^4)$*
+*Risolvi in numeri interi $x^4 + 4y^4 = 2(z^4 + 4u^4)$*
 
-> Risolvere in numeri interi l'equazione $x^4 + 4y^4 = 2(z^4 + 4u^4)$.
+> Risolvi in numeri interi l'equazione $x^4 + 4y^4 = 2(z^4 + 4u^4)$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1966_r3#q02|src_pol_1966_r3__Q02]]
 
 
 
@@ -80,9 +94,17 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nonneg reals sommati a $\le\frac{1}{2}$: prodotto $(1-x_i)\ge\frac{1}{2}$*
+*Reali non negativi la cui somma è $\le\frac{1}{2}$: prodotto $(1-x_i)\ge\frac{1}{2}$*
 
-> Se i numeri reali non negativi $x_1, x_2, \ldots, x_n$ soddisfano $x_1 + \cdots + x_n \le \frac{1}{2}$, dimostrare che $$( 1 - x_1)(1 - x_2) \cdots (1 - x_n) \ge \frac{1}{2}.$$
+> Se i numeri reali non negativi $x_1, x_2, \ldots, x_n$ soddisfano $x_1 + \cdots + x_n \le \frac{1}{2}$, dimostrare che
+> $$( 1 - x_1)(1 - x_2) \cdots (1 - x_n) \ge \frac{1}{2}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1966_r3#q03|src_pol_1966_r3__Q03]]
 
 
 
@@ -105,9 +127,16 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Suma dei quadrati delle aree di proiezione facciale costante se parallelepiped è cubo*
+*La somma dei quadrati delle aree delle proiezioni sulle facce è costante se e solo se il parallelepipedo è un cubo*
 
-> Prova che la somma dei quadrati delle aree delle proiezioni delle facce di un parallelepiped rettangolare su un piano è la stessa per tutte le posizioni del piano se e solo se il parallelepiped è un cubo.
+> Dimostrare che la somma dei quadrati delle aree delle proiezioni delle facce di un parallelepipedo rettangolo su un piano è la stessa per tutte le posizioni del piano se e solo se il parallelepipedo è un cubo.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1966_r3#q04|src_pol_1966_r3__Q04]]
 
 
 
@@ -130,9 +159,16 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le diagonali $AD$, $BE$, $CF$ area di divisione dell'esagono converso sono simultanee*
+*Le diagonali $AD$, $BE$, $CF$ che bisecano l'area di un esagono convesso sono concorrenti*
 
-> Ogni diagonale $AD$, $BE$, $CF$ di un esagono converso $ABCDEF$ divide l'area dell'esagono. Prova che queste tre diagonali passano attraverso lo stesso punto.
+> Ciascuna delle diagonali $AD$, $BE$, $CF$ di un esagono convesso $ABCDEF$ biseca l'area dell'esagono. Dimostrare che queste tre diagonali passano per lo stesso punto.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1966_r3#q05|src_pol_1966_r3__Q05]]
 
 
 
@@ -155,6 +191,13 @@ La radice irrazionale comune di due polinomi cubici implica un altro *
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tra i sei punti del piano, rapporto tra la distanza più lunga e la distanza più breve $\ge\sqrt{3}$*
+*Tra sei punti nel piano, rapporto tra la distanza più lunga e la distanza più corta $\ge\sqrt{3}$*
 
-> Sul piano si scelgono sei punti. Prova che il rapporto tra la distanza più lunga tra due punti e la distanza più breve è almeno $\sqrt{3}$.
+> Nel piano vengono scelti sei punti. Dimostrare che il rapporto tra la distanza massima tra due punti e la distanza minima è almeno $\sqrt{3}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_pol_1966_r3#q06|src_pol_1966_r3__Q06]]

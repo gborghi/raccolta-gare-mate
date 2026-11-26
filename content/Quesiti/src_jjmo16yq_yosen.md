@@ -32,13 +32,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di triangolo equilaterale divisa da tre linee parallele ai suoi lati*
+*Area di un triangolo equilatero divisa da tre rette parallele ai suoi lati*
 
-> Un triangolo equilaterale $ABC$ è diviso tracciando un segmento di linea parallelo a ciascuno dei tre lati, come mostrato nella figura. I numeri della figura rappresentano le aree dei tre triangoli equilaterali interni formati. Trova l'area del triangolo equilaterale $ABC$.
+> Un triangolo equilatero $ABC$ viene suddiviso tracciando un segmento di retta parallelo a ciascuno dei tre lati, come mostrato nella figura. I numeri presenti nella figura rappresentano le aree dei tre triangoli equilateri interni che si formano. Determinare l'area del triangolo equilatero $ABC$.
 
 ![[src_jjmo16yq_yosen__q01.png]]
 
-**Risposta:** 121
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[skill_manipolazione_algebrica|skill_manipolazione_algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo16yq_yosen#q01|src_jjmo16yq_yosen__Q01]]
 
 
 
@@ -62,11 +67,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi positivi n in modo tale che 109 mod n sia compreso tra 0 e 30*
+*Interi positivi n per cui il resto di 109 diviso per n sta tra 0 e 30*
 
-> Quanti integri positivi $n$ esistono tali che il rimanente quando $109$ è diviso da $n$ sia almeno $0$ e al massimo $30$?
+> Quanti interi positivi $n$ esistono tali che il resto della divisione di $109$ per $n$ sia almeno $0$ e al più $30$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
 **Risposta:** 80
+
+[[Quesiti/src_jjmo16yq_yosen#q02|src_jjmo16yq_yosen__Q02]]
 
 
 
@@ -90,11 +102,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi in cui Taro partecipa esattamente a 6 riunioni su 10 senza vincolo di partecipazione dopo 3 assenze*
+*Conta i modi in cui Taro partecipa esattamente a 6 delle 10 riunioni, con il vincolo di non partecipare dopo 3 assenze*
 
-> Taro ha riunioni di club. Egli assisterà esattamente $6$ di loro. Tuttavia, se è assente per $3$ riunioni consecutive, non è autorizzato ad assistere alla riunione immediatamente dopo tali $3$ assenze consecutive (deve anche mancare quella). In quanti modi può scegliere quali incontri frequentare?
+> Taro ha $10$ riunioni del club. Ne frequenterà esattamente $6$. Tuttavia, se è assente per $3$ riunioni consecutive, non gli è permesso partecipare alla riunione che segue immediatamente tali $3$ assenze consecutive (deve saltare anche quella). In quanti modi può scegliere quali riunioni frequentare?
 
-**Risposta:** 161
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo16yq_yosen#q03|src_jjmo16yq_yosen__Q03]]
 
 
 
@@ -118,11 +135,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i divisori di 5040 che essi stessi hanno esattamente 6 divisori*
+*Quanti divisori positivi di 5040 hanno esattamente 6 divisori*
 
 > Quanti divisori positivi di $5040$ hanno esattamente $6$ divisori?
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
 **Risposta:** 10
+
+[[Quesiti/src_jjmo16yq_yosen#q04|src_jjmo16yq_yosen__Q04]]
 
 
 
@@ -146,11 +170,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di PQRS rettangolare incisa in rettangolo ABCD con FQ:QR=2:3*
+*Area del rettangolo PQRS inscritto nel rettangolo ABCD, con FQ:QR=2:3*
 
-> Nei lati $AB$, $BC$, $CD$, $DA$ del rettangolo $ABCD$ ci sono i punti $P$, $Q$, $R$ e $S$ rispettivamente in modo tale che il quadrilaterale $PQRS$ sia rettangolo. È dato che $AB = 22$, $BC = 23$ e $BQ : QC = 2 : 3$ (dove $XY$ indica la lunghezza del segmento $XY$). Trova l'area del rettangolo $PQRS$.
+> Sui lati $AB$, $BC$, $CD$, $DA$ del rettangolo $ABCD$ si trovano rispettivamente i punti $P$, $Q$, $R$, $S$ tali che il quadrilatero $PQRS$ è un rettangolo. È dato che $AB = 22$, $BC = 23$ e $BQ : QC = 2 : 3$ (dove $XY$ indica la lunghezza del segmento $XY$). Determinare l'area del rettangolo $PQRS$.
 
-**Risposta:** 246
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo16yq_yosen#q05|src_jjmo16yq_yosen__Q05]]
 
 
 
@@ -176,13 +205,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio di piastrelle della regione della griglia a forma incrociata con 12 trombini a forma di L fino alla simmetria*
+*Conta le tassellazioni della regione a griglia a forma di croce con 12 tromini a forma di L, a meno di simmetria*
 
-> In un piano di griglia, collocare le piastrelle $12$ del tipo di tromino a forma di L mostrato (che coprono ciascuna delle unità quadrate $4$ in forma di L) senza sovrapposizione in modo che coprono esattamente la regione a forma incrociata mostrata nella figura. Quanti modi ci sono? (Le piastrelle possono essere ruotate o invertite. Due piastrelle sono considerate uguali se una può essere ottenuta dall'altra mediante rotazione o riflessione dell'intero pannello.)
+> Su un piano a griglia, disponi $12$ tessere del tipo tromino a forma di L mostrato (ciascuna copre $4$ quadrati unitari a forma di L) senza sovrapposizioni, in modo che coprano esattamente la regione a forma di croce mostrata nella figura. Quante sono le possibilità? (Le tessere possono essere ruotate o ribaltate. Due pavimentazioni si considerano identiche se una può essere ottenuta dall'altra mediante rotazione o riflessione dell'intero tabellone.)
 
 ![[src_jjmo16yq_yosen__q06.png]]
 
-**Risposta:** 19
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo16yq_yosen#q06|src_jjmo16yq_yosen__Q06]]
 
 
 
@@ -206,11 +240,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei gradi fortunati di tutti i numeri interi a 3 cifre, dove il grado fortunato conta cambiamenti a una cifra dando moltipli di 7*
+*Somma dei gradi fortunati di tutti gli interi a tre cifre, dove il grado fortunato conta le variazioni a una cifra che danno multipli di 7*
 
-> Per un intero positivo di $3$-cifre $n$, definire il suo \emph{lucky degree} come il numero di $3$-cifre multipli di $7$ che può essere ottenuto da $n$ modificando esattamente una delle sue cifre (la cifra di centinaia non può essere cambiata a $0$). Per esempio, per $n = 777$, i multipli di $7$ raggiungibili con una modifica a singola cifra sono $770$ e $707$, quindi il grado fortunato di $777$ è $2$. Trova la somma dei gradi fortunati di tutti gli enti da $100$ a $999$.
+> Per un numero intero positivo $n$ di $3$ cifre, si definisca il suo \emph{grado di fortuna} come il numero di multipli di $7$ di $3$ cifre che si possono ottenere da $n$ modificando esattamente una delle sue cifre (la cifra delle centinaia non può essere modificata in $0$). Ad esempio, per $n = 777$, i multipli di $7$ raggiungibili con una singola modifica di una cifra sono $770$ e $707$, quindi il grado di fortuna di $777$ è $2$. Si determini la somma dei gradi di fortuna di tutti gli interi da $100$ a $999$.
 
-**Risposta:** 3328
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo16yq_yosen#q07|src_jjmo16yq_yosen__Q07]]
 
 
 
@@ -234,11 +273,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ritrovare tutti i valori interi di a per polinomio ax^2-bx+c soddisfacente P(16)=P(30)=59, P(n)=2018*
+*Trovare tutti i valori interi di a per cui il polinomio ax^2-bx+c soddisfa P(16)=P(30)=59, P(n)=2018*
 
-> Se il numero $a$, $b$, $c$ sono numeri interi. Supponiamo che il polinomio $P(x) = ax^2 - bx + c$ soddisfi $P(16) = 59$, $P(30) = 59$ e $P(n) = 2018$ per un numero intero $n \ge 17$. Trova tutti i valori possibili di $a$.
+> Siano $a$, $b$, $c$ numeri interi. Si supponga che il polinomio $P(x) = ax^2 - bx + c$ soddisfi $P(16) = 59$, $P(30) = 59$ e $P(n) = 2018$ per un certo numero intero $n \ge 17$. Determinare tutti i valori possibili di $a$.
 
-**Risposta:** -70, 341
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo16yq_yosen#q08|src_jjmo16yq_yosen__Q08]]
 
 
 
@@ -262,11 +306,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare colori di 8 cubetti unitari (faccia rosse/gialle) che soddisfano due condizioni di assemblaggio 2x2x2*
+*Conta le colorazioni di 8 cubi unitari (facce rosse/gialle) che soddisfano due condizioni di assemblaggio 2x2x2*
 
-> Ci sono $8$ cubetti unitari. Ogni volto di ogni cubo è dipinto rosso o giallo. Contare il numero di modi per dipingere tutte le facce (cioè assegnare un colore a ciascuna faccia di ciascuno dei cubi $8$) in modo che sia possibile soddisfare simultaneamente entrambe le seguenti condizioni:\n\n(i) I cubi $8$ possono essere assemblati in un cubo $2 \times 2 \times 2$ in modo tale che il grande cubo risultante abbia esattamente $5$ facce rosse e $1$ facce gialla sulla sua superficie.\n\nii) I cubi $8$ possono essere assemblati (possibilmente in un'arrangiamento diverso) in un cubo $2 \times 2 \times 2$ in modo tale che il grande cubo risultante abbia esattamente $1$ facce rosse e $5$ facce gialle sulla sua superficie.\n\nDue dipinti sono considerati uguali se uno può essere ottenuto da un'altra unità di rotazione dei cubi. Due arrangiamenti di montaggio che differiscono solo per rotazione o riflessione dell'intero cubo $2 \times 2 \times 2$ sono considerati uguali.
+> Ci sono $8$ cubi unitari. Ogni faccia di ciascun cubo è dipinta di rosso o di giallo. Conta il numero di modi per dipingere tutte le facce (ossia per assegnare un colore a ciascuna faccia di ciascuno dei $8$ cubi) in modo che entrambe le seguenti condizioni possano essere soddisfatte simultaneamente:  (i) I $8$ cubi possono essere assemblati in un cubo $2 \times 2 \times 2$ tale che il cubo grande risultante abbia esattamente $5$ facce rosse e $1$ facce gialle sulla superficie.  (ii) I $8$ cubi possono essere assemblati (eventualmente in una disposizione diversa) in un cubo $2 \times 2 \times 2$ tale che il cubo grande risultante abbia esattamente $1$ facce rosse e $5$ facce gialle sulla superficie.  Due colorazioni si considerano identiche se una può essere ottenuta dall'altra ruotando uno dei cubi unitari. Due disposizioni di assemblaggio che differiscono solo per una rotazione o una riflessione dell'intero cubo $2 \times 2 \times 2$ si considerano identiche.
 
-**Risposta:** 55
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo16yq_yosen#q09|src_jjmo16yq_yosen__Q09]]
 
 
 
@@ -290,11 +339,16 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-Somma di ab su tutte le coppie di numeri interi positivi (a,b) con a, b e b 360
+*Somma di ab su tutte le coppie di interi positivi (a,b) tali che a | b e b | 360*
 
-> Calcolare la somma di $ab$ su tutte le coppie di integri positivi $(a, b)$ che soddisfano la seguente condizione:\n\nCondizione: $a$ è divisore di $b$, e $b$ è divisore di $360$.
+> Calcola la somma di $ab$ su tutte le coppie di interi positivi $(a, b)$ che soddisfano la seguente condizione:\n\nCondizione: $a$ è un divisore di $b$, e $b$ è un divisore di $360$.
 
-**Risposta:** 624650
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo16yq_yosen#q10|src_jjmo16yq_yosen__Q10]]
 
 
 
@@ -318,11 +372,16 @@ Somma di ab su tutte le coppie di numeri interi positivi (a,b) con a, b e b 360
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di APCQ quadrilaterale in quadrato ABCD con due punti interni P,Q*
+*Area del quadrilatero APCQ nel quadrato ABCD con due punti interni P, Q*
 
-> All'interno del quadrato $ABCD$, ci sono due punti $P$ e $Q$ quali $\angle PAQ = 45^\circ$, $BP \parallel QD$, $AB = 7$, $BP = 3$ e $PQ = 5$. Trova l'area del quadrilaterale $APCQ$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> All'interno del quadrato $ABCD$, ci sono due punti $P$ e $Q$ tali che $\angle PAQ = 45^\circ$, $BP \parallel QD$, $AB = 7$, $BP = 3$ e $PQ = 5$. Determinare l'area del quadrilatero $APCQ$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-**Risposta:** 37/2
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo16yq_yosen#q11|src_jjmo16yq_yosen__Q11]]
 
 
 
@@ -346,8 +405,13 @@ Somma di ab su tutte le coppie di numeri interi positivi (a,b) con a, b e b 360
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum m in modo che due delle stazioni circolari del 2018 possano essere collegate entro m minuti utilizzando treni locali e espressi*
+*Valore minimo di m tale che qualsiasi coppia delle 2018 stazioni circolari possa essere collegata entro m minuti utilizzando treni locali ed espressi*
 
-> La ferrovia JJMO ha una linea circolare con stazioni $2018$ disposte in cerchio. Attualmente, i treni locali (sosta a ogni stazione) corrono in entrambe le direzioni intorno al cerchio, e ogni treno viaggia esattamente $1$ minuto tra le stazioni consecutive. Il presidente prevede di introdurre treni espressi che si fermano solo in un sottogruppo designato di stazioni (eleto dal presidente), viaggiando anche $1$ minuto tra fermate espresse consecutive. Trovare il numero intero positivo minimo $m$ in modo che il presidente possa scegliere le fermate espresse in modo che la seguente condizione sia valida:\n\nCondizione: Per due stazioni distinte $A$ e $B$, è possibile viaggiare da $A$ a $B$ in un massimo di $m$ minuti (i trasferimenti sono consentiti un numero qualsiasi di volte; i tempi di attesa e i tempi di trasferimento sono ignorati).
+> La ferrovia JJMO gestisce una linea circolare con $2018$ stazioni disposte in cerchio. Attualmente, i treni locali (che fermano in ogni stazione) circolano in entrambe le direzioni lungo il percorso circolare, e ogni treno impiega esattamente $1$ minuti tra stazioni consecutive. Il presidente intende introdurre treni espressi che fermano solo in un sottoinsieme designato di stazioni (scelto dal presidente), i quali percorrono anch'essi $1$ minuti tra fermate espresse consecutive. Determinare il minimo intero positivo $m$ tale che il presidente possa scegliere le fermate espresse in modo che valga la seguente condizione:  Condizione: Per qualsiasi coppia di stazioni distinte $A$ e $B$, è possibile spostarsi da $A$ a $B$ in non più di $m$ minuti (sono ammessi cambi un numero qualsiasi di volte; i tempi di attesa e i tempi di cambio vengono trascurati).
 
-**Risposta:** 124
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo16yq_yosen#q12|src_jjmo16yq_yosen__Q12]]

@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum of liters of syrup to be prepared*
+*Maximum litres of syrup that can be prepared*
 
-> (*5 points*) To prepare 4 liters of syrup, exactly 3 liters of water, 1 litre of concentrated juice and 500 grams of sugar are needed. You have 18 liters of water, 5 liters of concentrated juice and 2 kilos of sugar. How many liters of syrup can you make?
+> (*5 points*) To prepare 4 litres of syrup, you need exactly 3 litres of water, 1 litre of concentrated juice, and 500 grams of sugar. You have 18 litres of water, 5 litres of concentrated juice, and 2 kilograms of sugar available. What is the maximum number of litres of syrup you can prepare?
 
-**Answer:** 16
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_ecolier_maggio#qe1|src_kangourou_2009_ecolier_maggio__QE1]]
 
 
 
@@ -89,7 +93,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of cards remaining after removing two*
+*Minimum number of cards left after removing two*
 
 ![[src_kangourou_2009_ecolier_maggio__probe2.png]]
 
@@ -122,11 +126,15 @@ level: kangourou
 \end{document}
 ```
 
-> (*7 points*) 15 cards are shown in the figure.
-> 
-> If a card (other than the first card at the top) disappears from the table, the cards that are in contact with it in the row above must also disappear. He pulled two cards so that the fewest possible cards remained: what is this number? (see figure)
+> (*7 points*) The figure shows 15 cards.
+>
+> If a card (other than the topmost one) disappears from the table, the cards that are in contact with it in the top row must also disappear. Two cards were removed so that the fewest possible cards remained: what is this number? (see figure)
 
-**Answer:** 3
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_ecolier_maggio#qe2|src_kangourou_2009_ecolier_maggio__QE2]]
 
 
 
@@ -174,7 +182,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to place 4 coins on a 4x4 board*
+*How many ways are there to arrange 4 coins on a 4x4 chessboard?*
 
 ![[src_kangourou_2009_ecolier_maggio__probe3.png]]
 
@@ -195,14 +203,19 @@ level: kangourou
 \end{document}
 ```
 
-> (*11 points*) You must place 4 identical coins in as many cells of a $4 \times 4$ board, respecting the following rules:
-> 
-> - in no row and in no column can there be more than one coin;
-> - if there is a coin in a cell, every cell that shares any vertex with it cannot contain coins.
-> 
-> In how many different ways can you carry out the project?
+> (*11 points*) You must place 4 identical coins in 4 corresponding squares on a $4 \times 4$ chessboard, observing the following rules:
+>
+> - No row or column may contain more than one coin;
+> - If a square contains a coin, then no square that shares any vertex with it may contain a coin.
+>
+> In how many different ways can you accomplish the task?
 
-**Answer:** 2
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_ecolier_maggio#qe3|src_kangourou_2009_ecolier_maggio__QE3]]
 
 
 
@@ -225,11 +238,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of labels yet to be prepared*
+*Weight of labels still to be prepared*
 
-> (*14 points*) One company produces chocolates all of the same weight and wants to sell them in packs of 36, 28, 24 or 16. Each pack must bear a label indicating the net weight of the contents; labels indicating 630 grams and other indicating 360 grams have already been prepared. What weights will the labels still have to indicate?
+> (*14 points*) A company produces chocolates all of the same weight and wants to sell them in packs of 36, 28, 24, or 16 pieces. Each pack must have a label showing the net weight of the contents; labels indicating 630 grams and others indicating 360 grams have already been prepared. What weights must the labels that still need to be prepared indicate?
 
-**Answer:** 810,540
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_ecolier_maggio#qe4|src_kangourou_2009_ecolier_maggio__QE4]]
 
 
 
@@ -256,11 +273,15 @@ level: kangourou
 
 *Product of the three numbers of the hexagon (grid)*
 
-> (*18 points*) Place in each of the shaded triangles of the grid in figure one of the six numbers 1, 2, 3, 4, 5, 6, using all of them and making the number appearing in each white triangle the product of the three numbers appearing in the three shaded triangles surrounding it.
-> 
-> What is the product of the three numbers in the shaded triangles that, combined with the white ones, form an hexagon? (see figure)
+> (*18 points*) Place one of the six numbers 1, 2, 3, 4, 5, 6 in each of the shaded triangles in the grid shown in the figure, using all of them, and make sure that the number in each white triangle is the product of the three numbers in the three shaded triangles surrounding it.
+>
+> What is the product of the three numbers in the shaded triangles that, together with the white triangles, form a hexagon? (see figure)
 
-**Answer:** 40
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_ecolier_maggio#qe5|src_kangourou_2009_ecolier_maggio__QE5]]
 
 
 
@@ -285,6 +306,10 @@ level: kangourou
 
 *Minimum time to ferry four boats*
 
-> (*22 points*) Four boats $A$, $B$, $C$, $D$ can cross a river from one bank to the other in two directions; the time taken by each boat does not depend on the direction. The boat $A$ takes 2 minutes to cross, the boat $B$ takes 4, the boat $C$ takes 8 and the boat $D$ takes 16. The four boats are moored together on the left bank, all must be ferried on the right bank and only one boatman is available. A boat may drag at most another boat, but in this case the convoy of the two boats takes the crossing time of the slower boat of the two. Once a crossing has been made, the boatman can return to the starting point only using one of the four boats. Find the minimum time (in minutes) to perform the operation, neglecting the time needed to attach and detach the boats and to transfer from one to the other.
+> (*22 points*) Four boats $A$, $B$, $C$, $D$ can cross a river from one bank to the other in both directions; the time taken by each boat does not depend on the direction. Boat $A$ takes 2 minutes to cross, boat $B$ takes 4 minutes, boat $C$ takes 8 minutes, and boat $D$ takes 16 minutes. The four boats are moored together on the left bank; all of them must be ferried to the right bank, and only one helmsman is available. A boat can tow at most one other boat, but in that case the two-boat convoy takes as long to cross as the slower of the two boats. Once a crossing has been completed, the helmsman can return to the starting point only by using one of the four boats. Find the minimum time (in minutes) that makes the operation possible, ignoring the time needed to attach and detach the boats and to transfer from one boat to another.
 
-**Answer:** 30
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_ecolier_maggio#qe6|src_kangourou_2009_ecolier_maggio__QE6]]

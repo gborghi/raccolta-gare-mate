@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale con angoli dati; prova AB e CD perpendicolari*
+*Quadrilatero ABCD con angoli dati; dimostrare che AB e CD sono perpendicolari*
 
-> Il $ABCD$ deve essere un quadrilaterale con $\angle BAD = 60^\circ$, $\angle BAC = 40^\circ$, $\angle ABD = 80^\circ$, $\angle ABC = 70^\circ$. Prove che le linee $AB$ e $CD$ sono perpendicolari.
+> Sia $ABCD$ un quadrilatero con $\angle BAD = 60^\circ$, $\angle BAC = 40^\circ$, $\angle ABD = 80^\circ$, $\angle ABC = 70^\circ$. Dimostrare che le rette $AB$ e $CD$ sono perpendicolari.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1977_r3#q01|src_pol_1977_r3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circoli e poligoni nidificati; prove che i radii convergono a zero*
+*Cerchi e poligoni annidati; dimostrare che i raggi convergono a zero*
 
-> $n \ge 3$ sia un dato numero intero. Una sequenza $K_0, K_1, K_2, \ldots$ di cerchi e una sequenza $W_1, W_2, \ldots$ di convexe $n$-goni soddisfano $$K_0 \supset W_1 \supset K_1 \supset W_2 \supset K_2 \supset \cdots$$ per tutti $i = 1, 2, \ldots$. Prova che la sequenza dei radii dei cerchi $K_n$ converge a zero.
+> Let $n \ge 3$ be a given integer. A sequence $K_0, K_1, K_2, \ldots$ of circles and a sequence $W_1, W_2, \ldots$ of convex $n$-gons satisfy $$K_0 \supset W_1 \supset K_1 \supset W_2 \supset K_2 \supset \cdots$$ for all $i = 1, 2, \ldots$. Prove that the sequence of the radii of the circles $K_n$ converges to zero.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1977_r3#q02|src_pol_1977_r3__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione di complemento bit su numeri interi binari; input AP dà output non in aumento*
+*Funzione di complemento a bit su interi binari; l'ingresso AP produce un'uscita non crescente*
 
-> Considerate l'insieme $A = \{0, 1, 2, \ldots, 2^n - 1\}$. Una funzione $f: A \to A$ viene data da $$f(x_0 + 2x_1 + 2^2 x_2 + \cdots + 2^{n-1} x_{n-1}) = (1 - x_0) + 2(1 - x_1) + 2^2(1 - x_2) + \cdots + 2^{n-1}(1 - x_{n-1})$$ per ogni sequenza $0$-$1$ $(x_0, x_1, \ldots, x_{n-1})$. Mostrare che se $a_1, a_2, \ldots, a_m$ sono termini consecutivi di una progressione aritmetica, la sequenza $f(a_1), f(a_2), \ldots, f(a_m)$ non aumenta.
+> Consider the set $A = \{0, 1, 2, \ldots, 2^n - 1\}$. A function $f: A \to A$ is given by $$f(x_0 + 2x_1 + 2^2 x_2 + \cdots + 2^{n-1} x_{n-1}) = (1 - x_0) + 2(1 - x_1) + 2^2(1 - x_2) + \cdots + 2^{n-1}(1 - x_{n-1})$$ for every $0$-$1$ sequence $(x_0, x_1, \ldots, x_{n-1})$. Show that if $a_1, a_2, \ldots, a_m$ are consecutive terms of an arithmetic progression, then the sequence $f(a_1), f(a_2), \ldots, f(a_m)$ is not increasing.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1977_r3#q03|src_pol_1977_r3__Q03]]
 
 
 
@@ -103,9 +124,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equazione funzionale h(a+x) = h(a) h(x); prova h(x) = c^x*
+*Equazione funzionale h(a+x)=h(a)h(x); dimostrare che h(x)=c^x*
 
-> Una funzione $h: \mathbb{R} \to \mathbb{R}$ è differenziabile e soddisfa $h(a + x) = h(a) \cdot h(x)$ per tutte le $x$, dove $a$ e $b$ sono dati numeri reali positivi e $b \ne 1$. Supponiamo che $h'(0) > 0$ e la funzione $h'$ sia continua a $x = 0$. Prova che $a = b$ e che esiste un numero reale $c$ tale da $h(x) = c^x$ per tutti $x$.
+> Una funzione $h: \mathbb{R} \to \mathbb{R}$ è derivabile e soddisfa $h(a + x) = h(a) \cdot h(x)$ per ogni $x$, dove $a$ e $b$ sono numeri reali positivi dati e $b \ne 1$. Si supponga che $h'(0) > 0$ e che la funzione $h'$ sia continua in $x = 0$. Dimostrare che $a = b$ e che esiste un numero reale $c$ tale che $h(x) = c^x$ per ogni $x$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1977_r3#q04|src_pol_1977_r3__Q04]]
 
 
 
@@ -128,9 +155,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il poligono converso ha un cerchio circoscritto attraverso tre vertici consecutivi che contengono il poligono*
+*Un poligono convesso ammette una circonferenza circoscritta che passa per tre vertici consecutivi e contiene il poligono*
 
-> Mostrare che per ogni poligono convex c'è un cerchio che attraversa tre vertici consecutivi del poligono e contiene l'intero poligono.
+> Dimostrare che per ogni poligono convesso esiste una circonferenza che passa per tre vertici consecutivi del poligono e contiene l'intero poligono.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1977_r3#q05|src_pol_1977_r3__Q05]]
 
 
 
@@ -153,6 +187,13 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il polinomio (x-a)^k Q(x) con un non-zero ha almeno k+1 coefficienti non-zero*
+*Il polinomio (x-a)^k Q(x), con a non nullo, ha almeno k+1 coefficienti non nulli*
 
-> Considera il polinomio $W(x) = (x - a)^k Q(x)$, dove $a \ne 0$, $Q(x)$ è un polinomio non zero e $k$ è un numero naturale. Prova che $W$ ha almeno $k + 1$ coefficienti non zero.
+> Si consideri il polinomio $W(x) = (x - a)^k Q(x)$, dove $a \ne 0$, $Q(x)$ è un polinomio non nullo, e $k$ è un numero naturale. Si dimostri che $W$ ha almeno $k + 1$ coefficienti non nulli.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1977_r3#q06|src_pol_1977_r3__Q06]]

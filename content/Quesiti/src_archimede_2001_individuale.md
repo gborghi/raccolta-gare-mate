@@ -31,13 +31,14 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*find the missing two sides*
+*Finding the two missing sides*
 
-![[src_archimede_2001_individuale__prob1.png]]
+> An equiangular hexagon has four consecutive sides of lengths, in order, $5$, $3$, $6$ and $7$. Determine the lengths of the other two sides.
 
-> An equilateral hexagon has four consecutive sides of length in the order $5$, $3$, $6$ and $7$. Determine the lengths of the other two sides.
 
-**Answer:** f=8, e=1
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_individuale#q01|src_archimede_2001_individuale__Q01]]
 
 
 
@@ -62,13 +63,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many teams participate*
+*How many teams take part*
 
-> In a basketball tournament, each team faces all the other participating teams exactly twice. The tournament is won by a single team leading the standings with $26$ points, while exactly two teams finish last with $20$ points. How many teams participated in the tournament?
-> 
-> (Remember that in basketball $2$ points are awarded to the winning team and $0$ to the losing team, while it is not possible for a match to end in a draw.)
+> In a basketball tournament, each team plays every other participating team exactly twice. The tournament is won by a single team at the top of the standings with $26$ points, while exactly two teams finish last with $20$ points. How many teams took part in the tournament?
+>
+> (Recall that in basketball, the winning team is awarded $2$ points and the losing team $0$, and it is not possible for a game to end in a tie.)
 
-**Answer:** 12
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_individuale#q02|src_archimede_2001_individuale__Q02]]
 
 
 
@@ -100,19 +104,23 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*positive whole solutions*
+*Positive integer solutions*
 
 > Consider the equation
 > 
 > $$x^{2001} = y^x.$$
 > 
-> (a) Determine all $(x, y)$ pairs of solutions in which $x$ is a prime number and $y$ is a positive integer.
+> (a) Determine all pairs $(x, y)$ of solutions in which $x$ is a prime number and $y$ is a positive integer.
 > 
-> (b) Determine all solutions pairs $(x, y)$ in which $x$ and $y$ are positive integers.
+> (b) Determine all pairs $(x, y)$ of solutions in which $x$ and $y$ are positive integers.
 > 
-> (Remember that$2001 = 3 \cdot 23 \cdot 29$.)
+> (Recall that $2001 = 3 \cdot 23 \cdot 29$.)
 
-**Answer:** 8 pairs; with x prime: (3,3^667),(23,23^87),(29,29^69)
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2001_individuale#q03|src_archimede_2001_individuale__Q03]]
 
 
 
@@ -145,17 +153,24 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of five digits and final zeros of the mcm*
+*sum of five-digit numbers and trailing zeros of the lcm*
 
-> Let's call it monotonous numbers, positive integers such that: - are written using at least two digits; - no digits are zero; - the digits appear in strictly increasing or strictly decreasing order.
+> Call **monotone numbers** the positive integers such that:
+> - they are written using at least two digits;
+> - no digit is zero;
+> - the digits appear in strictly increasing or strictly decreasing order.
 > 
-> (For example, $127$ and $9742$ are monotonous numbers, while $172$, $1224$ and $7320$ are not.)
+> (For example, $127$ and $9742$ are monotone numbers, while $172$, $1224$ and $7320$ are not.)
 > 
-> (a) Calculate the sum of all five-digit monotonous numbers.
+> (a) Calculate the sum of all five-digit monotone numbers.
 > 
-> (b) Determine how many zeros the common minimum multiple of all monotonous numbers ends with (without restrictions on the number of digits).
+> (b) Determine with how many zeros the least common multiple of all monotone numbers (with no constraint on the number of digits) ends.
 
-**Answer:** sum=13999860; the lcm ends in 3 zeros
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2001_individuale#q04|src_archimede_2001_individuale__Q04]]
 
 
 
@@ -180,11 +195,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*to show AT=SB*
+*to prove AT=SB*
 
-![[src_archimede_2001_individuale__prob5.png]]
+> Let $ABC$ be a triangle and let $\omega$ be the circle inscribed in $ABC$. The circle $\omega$ is tangent to side $AB$ at point $T$. Let $D$ be the point of $\omega$ diametrically opposite to $T$, and let $S$ be the point of intersection of the line through $C$ and $D$ with side $AB$. Prove that $AT = SB$.
 
-> If $ABC$ is a triangle and $\omega$ is the circumference inscribed in $ABC$. The circumference $\omega$ is tangent to the side $AB$ in $T$. either $D$ the point of $\omega$ diametrically opposite to $T$, or $S$ the point of intersection of the passing straight line for $C$ and $D$ with the side $AB$. Show that $AT = SB$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2001_individuale#q05|src_archimede_2001_individuale__Q05]]
 
 
 
@@ -212,12 +231,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*settings to turn them all on*
+*configurations that can be switched on all*
 
-> A panel contains $100$ lamps arranged to form a square of $10$ rows and $10$ columns. Some of them are on, some of them are off. The electrical system is such that when pressing the button corresponding to any of the lamps, all the lamps on its column and all those on its line (including the lamp corresponding to the pressed switch) change status (i.e. they turn on or off).
-> 
-> (a) From what configurations, if appropriate, can all lamps be turned on?
-> 
+> A panel contains $100$ lamps, arranged to form a square of $10$ rows and $10$ columns. Some of them are on, the others are off. The electrical system is such that when the button corresponding to any of the lamps is pressed, all the lamps that are in its column and all those that are in its row change state (that is, turn on or off) (including the lamp corresponding to the button pressed).
+>
+> (a) Starting from which configurations, by operating suitably, is it possible to make all the lamps end up on?
+>
 > (b) What is the answer to the previous question if the lamps are $81$, arranged to form a panel of $9$ rows and $9$ columns?
 
-**Answer:** 10x10: from any configuration; 9x9: parity condition on rows/columns
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2001_individuale#q06|src_archimede_2001_individuale__Q06]]

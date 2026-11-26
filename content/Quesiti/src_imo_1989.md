@@ -33,12 +33,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Suddividere l'insieme 1..1989 in 117 sottoinsiemi di 17 elementi ciascuno con la stessa somma*
+*Partiziona l'insieme 1..1989 in 117 sottoinsiemi di 17 elementi, ciascuno con la stessa somma*
 
-> Si dimostri che l'insieme {1, 2, ..., 1989} può essere espresso come unione disgiunta di sottoinsiemi Ai (i = 1, 2, ..., 117) tali che:
->
-> (i) ciascun Ai contiene 17 elementi;
-> (ii) la somma di tutti gli elementi in ciascun Ai è la stessa.
+> Dimostrare che l'insieme {1, 2, ..., 1989} può essere espresso come unione disgiunta dei sottoinsiemi Ai (i = 1, 2, ..., 117) tali che: (i) ciascun Ai contiene 17 elementi; (ii) la somma di tutti gli elementi in ciascun Ai è la stessa.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1989#q01|src_imo_1989__Q01]]
 
 
 
@@ -69,13 +72,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area del triangolo definito dalla bisettrice almeno quattro volte ABC*
+*L'area del triangolo definito dalle bisettrici è almeno quattro volte l'area di ABC*
 
-> In un triangolo acutangolo ABC, la bisettrice interna dell’angolo A incontra nuovamente la circonferenza circoscritta del triangolo in A₁. I punti B₁ e C₁ sono definiti analogamente. Sia A₀ il punto di intersezione della retta AA₁ con le bisettrici esterne degli angoli B e C. I punti B₀ e C₀ sono definiti analogamente. Si dimostri che:
->
-> (i) L’area del triangolo A₀B₀C₀ è il doppio dell’area dell’esagono AC₁BA₁CB₁.
->
-> (ii) L’area del triangolo A₀B₀C₀ è almeno quattro volte l’area del triangolo ABC.
+> In un triangolo ABC acutangolo, la bisettrice interna dell'angolo A incontra nuovamente la circonferenza circoscritta al triangolo nel punto A1. I punti B1 e C1 sono definiti in modo analogo. Sia A0 il punto di intersezione della retta AA1 con le bisettrici esterne degli angoli B e C. I punti B0 e C0 sono definiti in modo analogo. Dimostrare che: (i) l'area del triangolo A0B0C0 è il doppio dell'area dell'esagono AC1BA1CB1; (ii) l'area del triangolo A0B0C0 è almeno quattro volte l'area del triangolo ABC.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_imo_1989#q02|src_imo_1989__Q02]]
 
 
 
@@ -111,23 +117,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Limite per configurazioni con punti equidistanti: k<1/2+sqrt(2n)*
+*Configurazione dei punti equidistanti, vincolo k<1/2+sqrt(2n)*
 
-> Siano n e k interi positivi e sia S un insieme di n punti del piano tale
-> che
-> (i)
-> non vi siano tre punti di S allineati, e
-> (ii)
-> per ogni punto P di S vi siano almeno k punti di S equidistanti da P.
-> Si dimostri che:
-> k < 1
-> 2 +
-> √
-> 2n.
-> 
-> XXX Olimpiade Internazionale di Matematica
-> Braunschweig, Germania
-> Giorno II
+> Siano n e k interi positivi e sia S un insieme di n punti nel piano tale che (i) nessun terno di punti di S sia allineato e (ii) per ogni punto P di S vi siano almeno k punti di S equidistanti da P. Dimostrare che: k < 1/2 + √2n.
+>
+> 30ª Olimpiade Internazionale di Matematica Braunschweig, Germania, Seconda giornata
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imo_1989#q03|src_imo_1989__Q03]]
 
 
 
@@ -163,23 +163,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disuguaglianza sulle distanze in un quadrilatero convesso con punto interno P*
+*Disuguaglianza della distanza per i quadrilateri convessi con punto interno P*
 
-> Sia ABCD un quadrilatero convesso tale che i lati AB, AD, BC soddisfino
-> AB = AD + BC. Esiste un punto P interno al quadrilatero, a distanza
-> h dalla retta CD, tale che AP = h + AD e BP = h + BC. Si dimostri che:
-> 1
-> √
-> h
-> ≥
-> 1
-> √
-> AD
-> +
-> 1
-> √
-> BC
-> .
+> Sia ABCD un quadrilatero convesso tale che i lati AB, AD, BC soddisfino AB = AD + BC. Esiste un punto P all'interno del quadrilatero, a distanza h dalla retta CD, tale che AP = h + AD e BP = h + BC. Dimostrare che: 1/√h ≥ 1/√AD + 1/√BC.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_imo_1989#q04|src_imo_1989__Q04]]
 
 
 
@@ -202,10 +194,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n interi consecutivi nessuno potenza di primo*
+*n interi consecutivi nessuno una potenza di un numero primo*
 
-> Si dimostri che per ogni intero positivo n esistono n interi positivi consecutivi
-> nessuno dei quali è una potenza (con esponente intero) di un numero primo.
+> Dimostrare che, per ogni intero positivo n, esistono n interi positivi consecutivi, nessuno dei quali è una potenza intera di un numero primo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_1989#q05|src_imo_1989__Q05]]
 
 
 
@@ -230,9 +227,12 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Più permutazioni di 1..2n con proprietà P che senza*
+*Più permutazioni di 1..2n con la proprietà P che senza di essa*
 
-> Una permutazione (x1, x2, . . . , xm) dell'insieme {1, 2, . . . , 2n}, dove n è un intero
-> positivo, si dice che ha la proprietà P se |xi −xi+1| = n per almeno un i in
-> {1, 2, . . . , 2n −1}. Si dimostri che, per ogni n, le permutazioni con la
-> proprietà P sono più di quelle senza.
+> Si dice che una permutazione (x1, x2, . . . , xm) dell'insieme {1, 2, . . . , 2n}, dove n è un intero positivo, abbia la proprietà P se |xi − xi+1| = n per almeno un i in {1, 2, . . . , 2n − 1}. Dimostrare che, per ogni n, esistono più permutazioni con la proprietà P che permutazioni senza tale proprietà.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_conteggio|Conteggio combinatorio]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1989#q06|src_imo_1989__Q06]]

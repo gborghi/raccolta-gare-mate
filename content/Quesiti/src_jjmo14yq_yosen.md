@@ -32,11 +32,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i tripli interi con a×b e b×c entrambi pari*
+*Terne di interi tra 1 e 5 per cui a×b e b×c sono entrambi pari*
 
-> Trova quante triples $(a,b,c)$ di numeri interi con $1 \le a,b,c \le 5$ sono tali che sia $a \times b$ che $b \times c$ siano pari.
+> Trovare quante terne $(a,b,c)$ di interi con $1 \le a,b,c \le 5$ sono tali che sia $a \times b$ sia $b \times c$ sono pari.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata per casi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
 
 **Risposta:** 62
+
+[[Quesiti/src_jjmo14yq_yosen#q01|src_jjmo14yq_yosen__Q01]]
 
 
 
@@ -62,11 +69,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza massima del segmento PQ per i punti che vedono AB a 60 e 120 gradi*
+*Lunghezza massima del segmento PQ per i punti che vedono AB con angoli di 60 e 120 gradi*
 
-> Nel piano c'è un segmento $AB$ di lunghezza $10$. Due punti $P,Q$ si muovono nel piano soggetto a $\angle APB = 60^\circ$ e $\angle AQB = 120^\circ$. Trova il valore massimo possibile della lunghezza del segmento $PQ$.
+> Nel piano c'è un segmento $AB$ di lunghezza $10$. Due punti $P,Q$ si muovono nel piano soggetti a $\angle APB = 60^\circ$ e $\angle AQB = 120^\circ$. Determinare il valore massimo possibile della lunghezza del segmento $PQ$.
 
-**Risposta:** \dfrac{20\sqrt{3}}{3}
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo14yq_yosen#q02|src_jjmo14yq_yosen__Q02]]
 
 
 
@@ -94,13 +108,20 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medi di verniciare una griglia 6x6 coperte da una lavagna trasparente dipinta opaca*
+*Modi per dipingere una griglia 6x6 copribile da una tavola trasparente dipinta in modo opaco*
 
-> C'è una griglia di cellule $6 \times 6$, e alcune di queste cellule $36$ sono dipinte in nero. Si prepara una lavagna trasparente della stessa dimensione della griglia e si ottiene una copia della griglia dipinta su questa lavagna. Mettendo questa lavagna della stessa dimensione in una posizione (e orientamento) adatta alla griglia, è stato possibile coprire l'intera figura in modo che le parti dipinte in nero della lavagna e della griglia coincidano e l'intera parte dipinta sia nuovamente coperta di nero. Per quanti modi di dipingere la griglia originale è possibile? Qui, i dipinti che coincidono sotto rotazione o riflessione sono anche considerati come distinti.
+> C'è una griglia di $6 \times 6$ celle, e alcune di queste $36$ celle sono dipinte di nero. Si prepara una tavola trasparente delle stesse dimensioni della griglia, e si ottiene una copia della griglia dipinta su questa tavola. Collocando questa tavola, delle stesse dimensioni, sopra la griglia in una posizione (e con un orientamento) adeguati, è stato possibile coprire l'intera figura in modo che le parti dipinte di nero della tavola e della griglia coincidano e che l'intera parte dipinta sia di nuovo ricoperta di nero. In quanti modi di dipingere la griglia originale ciò è possibile? Qui, le pitture che coincidono per rotazione o riflessione sono considerate distinte anch'esse.
 
 ![[src_jjmo14yq_yosen__q03.png]]
 
-**Risposta:** 32768
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo14yq_yosen#q03|src_jjmo14yq_yosen__Q03]]
 
 
 
@@ -132,11 +153,22 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La maggior parte delle persone ottiene almeno una mela in più dell'arancia*
+*Numero massimo di persone che ricevono almeno un'altra mela rispetto alle arance*
 
-> Ci sono mele $2016$ e arance $2016$ e queste sono distribuite tra le persone $2016$ alle seguenti condizioni: \begin{itemize} \item Ogni frutto deve essere distribuito. Nessuna persona riceve $0$ frutta. Nessuna persona può ricevere in totale più di $4$ pezzi di frutta (comprendendo entrambe le specie). In queste condizioni, qual è il numero massimo possibile di persone che ricevono almeno $1$ più mele che arancione?
+> Ci sono $2016$ mele e $2016$ arance, e queste vengono distribuite tra $2016$ persone alle seguenti condizioni:
+> \begin{itemize}
+> \item Ogni pezzo di frutta deve essere distribuito. \item Nessuna persona riceve $0$ pezzi di frutta. \item Nessuna persona può ricevere in totale più di $4$ pezzi di frutta (contando entrambi i tipi).
+> \end{itemize}
+> In queste condizioni, qual è il numero massimo possibile di persone che ricevono almeno $1$ mele in più rispetto alle arance?
 
-**Risposta:** 1612
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo14yq_yosen#q04|src_jjmo14yq_yosen__Q04]]
 
 
 
@@ -162,11 +194,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca DF con ceviani che triseggono angolo A in tre parti a 45 gradi*
+*Trovare DF con ceviane che trissecano l'angolo A in tre parti da 45 gradi ciascuna*
 
-> Sul lato $BC$ del triangolo $ABC$ ci sono punti $D,E$, con $B,D,E,C$ in questo ordine, in modo che $\angle BAD = \angle DAE = \angle EAC = 45^\circ$. $F$ sia il punto di intersezione del circoncircolo del triangolo $ABE$ con la linea $AC$, diverso da $A$. Date $AC = 3$ e $AD = 1$, si trova la lunghezza del segmento $DF$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Sul lato $BC$ del triangolo $ABC$ vi sono i punti $D,E$, con $B,D,E,C$ disposti in questo ordine, tali che $\angle BAD = \angle DAE = \angle EAC = 45^\circ$. Sia $F$ il punto di intersezione tra la circonferenza circoscritta al triangolo $ABE$ e la retta $AC$, diverso da $A$. Dati $AC = 3$ e $AD = 1$, determina la lunghezza del segmento $DF$. Qui $XY$ denota la lunghezza del segmento $XY$.
 
-**Risposta:** \dfrac{5}{4}
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo14yq_yosen#q05|src_jjmo14yq_yosen__Q05]]
 
 
 
@@ -194,11 +233,20 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare m per i numeri interi positivi con m(m+57)=n(n+57)*
+*Il massimo m per cui m(m+57) = n(n+57) con m, n interi positivi*
 
-> I numeri interi positivi $m,n$ soddisfano $$m(m+57) = n(n+57).$$ Tra tali coppie, trovare il valore massimo possibile di $m$.
+> Gli interi positivi $m,n$ soddisfano
+> $$m(m+57) = n(n+57).$$
+> Tra tali coppie, trovare il massimo valore possibile di $m$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
 **Risposta:** 783
+
+[[Quesiti/src_jjmo14yq_yosen#q06|src_jjmo14yq_yosen__Q06]]
 
 
 
@@ -224,11 +272,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Relazione di ricerca BA:BC data il punto medio della BD e angoli uguali*
+*Trovare il rapporto BA:BC dati il punto medio di BD e angoli uguali*
 
-> Nel triangolo $ABC$ con $AC = 28$, $M$ sia il punto medio del segmento $BD$, dove $D$ è un punto tale che la figura sia determinata come disegnata. È dato che $\angle AMB = \angle CMB$, $AM = 20$ e $CM = 16$. Trova il rapporto $BA : BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Nel triangolo $ABC$ con $AC = 28$, sia $M$ il punto medio del segmento $BD$, dove $D$ è un punto tale che la figura risulta determinata come disegnato. È dato che $\angle AMB = \angle CMB$, $AM = 20$ e $CM = 16$. Determinare il rapporto $BA : BC$. Qui $XY$ denota la lunghezza del segmento $XY$.
 
-**Risposta:** \sqrt{5} : 2
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo14yq_yosen#q07|src_jjmo14yq_yosen__Q07]]
 
 
 
@@ -254,11 +309,18 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il più grande multiple di 37 con tutti i numeri distinti*
+*Il più grande multiplo di 37 con cifre tutte distinte*
 
-> Tra i multipli di $37$ le cui cifre sono tutte distinte, trova il più grande.
+> Tra i multipli di $37$ le cui cifre sono tutte distinte, trovare il più grande.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
 
 **Risposta:** 9876435012
+
+[[Quesiti/src_jjmo14yq_yosen#q08|src_jjmo14yq_yosen__Q08]]
 
 
 
@@ -286,13 +348,20 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i coloranti rosso/blu della piramide a 15 rettangoli con propagazione verso il basso*
+*Conta le colorazioni in rosso/blu della piramide a 15 rettangoli con propagazione verso il basso*
 
-> Sono disposti quindici rettangoli come mostrato nella figura (una piramide con una riga inferiore di rettangoli $5$, quindi righe di $4$, $3$, $2$, $1$ sopra). Ciascuno di questi rettangoli deve essere colorato rosso o blu, a condizione che: ogni volta che un rettangolo che non si trova nella riga inferiore è di colore rosso, i due rettangoli immediatamente sotto di esso devono essere di colore rosso. In quanti modi si può fare questo colorazione?
+> Quindici rettangoli sono disposti come mostrato nella figura (una piramide con una riga inferiore composta da $5$ rettangoli, e poi, sopra, righe di $4$, $3$, $2$, $1$ rettangoli). Ciascuno di questi rettangoli deve essere colorato in rosso o in blu, con la seguente condizione: ogni volta che un rettangolo che non si trova nella riga inferiore viene colorato in rosso, anche i due rettangoli immediatamente sottostanti devono essere colorati in rosso. In quanti modi si può effettuare questa colorazione?
 
 ![[src_jjmo14yq_yosen__q09.png]]
 
-**Risposta:** 365
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo14yq_yosen#q09|src_jjmo14yq_yosen__Q09]]
 
 
 
@@ -320,13 +389,20 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di quadrilaterale non convexa con angolo riflesso a D*
+*Area del quadrilatero non convesso con angolo riflesso in D*
 
-> C'è un quadrilaterale non converso $ABCD$ il cui angolo interno alla verticale $D$ è maggiore di $180^\circ$, con $AB : CD = \sqrt{2} : 1$, $AD = 2$ e $BC = 1$. $E$ sia l'intersezione della linea $BC$ con la linea $AD$, e $F$ sia l'intersezione della linea $AB$ con la linea $CD$. Supponiamo $\angle CED = \angle AFD = 45^\circ$. Trova l'area del quadrilaterale $ABCD$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Esiste un quadrilatero non convesso $ABCD$ il cui angolo interno nel vertice $D$ è maggiore di $180^\circ$, con $AB : CD = \sqrt{2} : 1$, $AD = 2$ e $BC = 1$. Sia $E$ l'intersezione della retta $BC$ con la retta $AD$, e sia $F$ l'intersezione della retta $AB$ con la retta $CD$. Si supponga $\angle CED = \angle AFD = 45^\circ$. Si determini l'area del quadrilatero $ABCD$. Qui $XY$ denota la lunghezza del segmento $XY$.
 
 ![[src_jjmo14yq_yosen__q10.png]]
 
-**Risposta:** \dfrac{3-\sqrt{2}}{2}
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo14yq_yosen#q10|src_jjmo14yq_yosen__Q10]]
 
 
 
@@ -354,13 +430,20 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Min autoincroci del percorso a un tempo su una figura triangolare di 2016 riga*
+*Minimi autointersecamenti del percorso a tratto unico sulla figura triangolare a righe 2016*
 
-> Si consideri la figura ottenuta accumulando le righe $2016$ in cui la riga $k$-th contiene $k$ piccoli triangoli equilaterali che puntano verso il basso disposti in una linea. Partendo dal punto medio del lato più alto e disegnando in un colpo continuo (senza sollevare la penna) in modo che ogni lato di ogni piccolo triangolo che punta verso il basso venga superato esattamente una volta, il percorso si attraversa $T$ volte nel corso del disegno. Trova il valore minimo possibile di $T$.
+> Si consideri la figura ottenuta impilando $2016$ righe, in cui la $k$-esima riga contiene $k$ piccoli triangoli equilateri rivolti verso il basso disposti in linea. Partendo dal punto medio del lato più in alto e tracciando un unico tratto continuo (senza sollevare la penna) in modo che ogni lato di ogni piccolo triangolo rivolto verso il basso venga percorso esattamente una volta, nel corso del disegno il percorso si interseca con se stesso $T$ volte. Si determini il valore minimo possibile di $T$.
 
 ![[src_jjmo14yq_yosen__q11.png]]
 
-**Risposta:** 7559
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_jjmo14yq_yosen#q11|src_jjmo14yq_yosen__Q11]]
 
 
 
@@ -386,8 +469,15 @@ level: JJMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero massimo N di configurazioni di posizionamento delle frecce che concordano sugli obiettivi*
+*Numero massimo N di configurazioni di posizionamento delle frecce che concordano sui bersagli*
 
-> Sul piano delle coordinate $xy$, da ogni punto della griglia $(x,y)$ viene tracciata una freccia che punta verso $(x+1,y)$ o $(x,y+1)$. Ora si consideri di posizionare $2016$ persone, una a ciascuno, su $2016$ punti di reticola distinte che soddisfano $x \ge 0$, $y \ge 0$, $x+y \le 62$. Per un modo fisso di disegnare le frecce, supponiamo che siano state provate diverse posizioni $N$, e che sia stata soddisfatta la seguente condizione: per ogni persona, il punto della griglia che la freccia porta dal punto di quella persona è, attraverso tutte le posizioni $N$, o occupata dalla stessa persona in tutte le $N$ di esse, o non occupata da nessuno in tutte le $N$ di esse. Trova il valore massimo possibile di $N$. Qui un punto reticolo è un punto il cui coordinato $x$ e $y$ sono entrambi numeri interi.
+> Nel piano delle coordinate $xy$, da ogni punto della reticolazione $(x,y)$ si traccia una freccia che punta verso $(x+1,y)$ oppure verso $(x,y+1)$. Ora si consideri di collocare $2016$ persone, una per ciascun punto, su $2016$ punti distinti della reticolazione che soddisfano $x \ge 0$, $y \ge 0$, $x+y \le 62$. Per un modo fisso di tracciare le frecce, si supponga che siano state provate $N$ collocazioni diverse e che valga la seguente condizione: per ogni persona, il punto della reticolazione verso cui punta la freccia uscente dal punto di quella persona è, considerando tutte le $N$ collocazioni, oppure occupato dalla stessa persona in tutte le $N$ di esse, oppure non occupato da nessuno in tutte le $N$ di esse. Si determini il valore massimo possibile di $N$. Qui, un punto della reticolazione è un punto le cui coordinate $x$ e $y$ sono entrambe intere.
 
-**Risposta:** 32!\,16!\,8!\,4!\,2!\,1!
+> [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo14yq_yosen#q12|src_jjmo14yq_yosen__Q12]]

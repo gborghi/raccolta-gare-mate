@@ -33,11 +33,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of digits of the sum of triangular numbers up to 1918*
+*Number of digits in the sum of triangular numbers up to 1918*
 
-> The DOC telephone on the Matryx HOMFLY telephone directory has the number \ DOC: it is equal to (1)+(1+2)+··+(1+2+··+1918). How many digits do you have?
+> DOC's phone number: In the Matryx HOMFLY telephone directory, find the number of DOC: it equals (1)+(1+2)+··+(1+2+··+1918). How many digits does it have?
 
-**Answer:** 0010
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_semifinalea#q01|src_squadre_2018_semifinalea__Q01]]
 
 
 
@@ -65,11 +70,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Separate routes from the centre to the chessboard edge 13x13*
+*Distinct paths from the center to the edge of a 13x13 chessboard*
 
-> He's running away from Matryx Square. He's got to run away on the skateboard from Biffe. Now it's in the center of Hill Valley Square, which is a square chessboard of 13 boxes per side, and it has to reach any box on the edge as quickly as possible, that is, at every step it has to move onto a box that is on a larger square crown (centered at the starting point). Also, not having its own flying skateboard, it can only move between boxes with at least one vertex in common. How many different routes can you take to get out of Biff?
+> Escape from the Square: Matryx must flee on a skateboard from Biff and his henchmen! He is now in the center of Hill Valley Square, which is a square chessboard 13 squares per side; he must reach any square on the edge as quickly as possible—that is, at each step he must move to a square that lies on a larger square ring (centered at the starting point). Moreover, since he doesn't have his flying skateboard, he can move only between squares that share at least one vertex. In how many distinct ways can he escape from Biff?
 
-**Answer:** 2912
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_semifinalea#q02|src_squadre_2018_semifinalea__Q02]]
 
 
 
@@ -100,9 +109,13 @@ level: squadre
 
 *Number of sums b+c of 100 integers, Nmax-2Nmin*
 
-> What a paradox! On the \ DOC board is written a set A of 100 distinct integers. Among his notes to build the time machine, he notes there are exactly N different integers that can be written as b+c, where b,c ∈A. Matryx, however, went back in time and changed some of these numbers, changing the space-time continuum. As a result, even the value of N has changed! If Nmax and Nmin are, respectively, the maximum and minimum values of N obtained in this way, how much is Nmax −2Nmin? Note: b and c can also be the same number.
+> Paradox! On \ DOC's blackboard, a set A of 100 distinct integers is written. Among his notes for building the time machine, he writes: "There are exactly N distinct integers that can be written as b+c, where b,c ∈ A." However, Matryx went into the past and modified some of these numbers, thereby changing the spacetime continuum. Consequently, the value of N has also changed! If Nmax and Nmin are, respectively, the maximum and minimum values of N obtainable in this way, what is the value of Nmax − 2Nmin? Note: b and c can also be the same number.
 
-**Answer:** 4652
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_semifinalea#q03|src_squadre_2018_semifinalea__Q03]]
 
 
 
@@ -134,11 +147,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total number of units of measurement for each unit of measurement.
+*Self-descriptive sequence after 2018 iterations, third term*
 
-> Complicated dashboard On the dashboard of the DeuLerean there is a digital screen that is capable of depicting a sequence of non-negative integers. As soon as \DOC has finished its construction, a sequence consisting of only the number 100 appears. With each time travel, this sequence is replaced by a new one, according to this rule: for every k ≥0, the (k +1)-th term of the new sequence is equal to the number of times the number k appears in the old one. The new sequence is equal to the maximum number that appears in the old sequence, plus one. For example, if the old sequence was (10,2,0,2), the new sequence would be (1,0,2,0,0,0,0,0,0,0,0,0,0,0,1). After 2018 time travel, what is the value of the third number (left) of the sequence displayed?
+> Complicated Dashboard On the dashboard of the DeuLerean, there is a digital screen capable of displaying a sequence of non-negative integers. As soon as DOC has finished its construction, a sequence consisting solely of the number 100 appears. With each time travel, this sequence is replaced by a new one according to the following rule: for every k ≥ 0, the (k + 1)-th term of the new sequence equals the number of times the number k appears in the old sequence. The new sequence has a length equal to the maximum number that appears in the old sequence plus one. For example, if the old sequence were (10,2,0,2), the new one would be (1,0,2,0,0,0,0,0,0,0,1). After 2018 time travels, what is the value of the third number (from the left) in the sequence displayed?
 
-**Answer:** 0001
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2018_semifinalea#q04|src_squadre_2018_semifinalea__Q04]]
 
 
 
@@ -170,11 +188,16 @@ This is the total number of units of measurement for each unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two similar triangles intersecting in the hexagon, side product ratio*
+*Three similar triangles intersecting in a hexagon, ratio of products of sides*
 
-> It's a great Gauss! The rays in the flow geometry always create strange figures, Matryx! says DOC. Today they form two T1 and T2 triangles, with two parallel sides, partially overlapping so as to intersect in an ABCDEF hexagon, whose area is half that of T1, and also the 49 72 of T2. Also AB is 4DE. Now, Matryx, can you tell me how much AB ·CD ·EF BC ·DE ·FA? You write the result as a fraction reduced to the minimum terms, and you answer it by indicating the sum between numerator and denominator.
+> Geometrizing Flow[⋆] "Great Gauss! In the geometrizing flow, the rays always create strange figures, Matryx!" says \ DOC. "Today they form two triangles, T1 and T2, with their sides pairwise parallel and partially overlapping so that they intersect to form a hexagon ABCDEF whose area is half the area of T1 and also 49/72 of the area of T2. Moreover, AB = 4DE. Now, Matryx, can you tell me what the value of AB · CD · EF + BC · DE · FA is?" Write the result as a fraction in lowest terms, and answer by giving the sum of the numerator and the denominator.
 
-**Answer:** 0103
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_semifinalea#q05|src_squadre_2018_semifinalea__Q05]]
 
 
 
@@ -204,13 +227,17 @@ This is the total number of units of measurement for each unit of measurement.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum number of girls dancing conditionally on the MCM
+*Minimum number of girls dancing with condition on MCM*
 
-> Couples at the dance In the rhythmic ceremony Isogonal center there are 2430 boys, numbered from 1 to 2430, and some girls, numbered with positive integers all distinct. If a boy and a girl have respectively the numbers a and b such that mcm(a,b) > mcm(a,2431), then the two will dance together on the notes of Johnny B. Goodel, please.  How beautiful  comments young Lorraine Bayes my number is the smallest among those that allow a girl to dance! Team competition 3018  Semifinal A  Problem texts  1/2
-> 
-> What's your number?
+> Couples at the Dance At the rhythmic ceremony “Incentro Isogonale,” there are 2430 boys, numbered from 1 to 2430, and some girls, numbered with distinct positive integers. If a boy and a girl have numbers a and b, respectively, such that mcm(a,b) > mcm(a,2431), then the two will dance together to the strains of Johnny B. Goodel. “How nice,” comments young Lorraine Bayes, “my number is the smallest among those that allow a girl to dance!” Team Competition 3018 – Semifinal A – Problem Statements – 1/2
+>
+> What number is it?
 
-**Answer:** 0012
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_semifinalea#q06|src_squadre_2018_semifinalea__Q06]]
 
 
 
@@ -238,11 +265,15 @@ Minimum number of girls dancing conditionally on the MCM
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of degree 4 polynomials with a coefficient of oddness in the product*
+*Pairs of degree-4 polynomials with an odd coefficient in the product*
 
-> In 1955 Matryx receives a letter from the old West, which reads: "There are many mines, each indicated by a whole. The DeuLerean is found in the number of unordered pairs of polynomials p(x,q(x) with strictly positive integer coefficients, of degree 4, such that p(1)+q(1) = 26 and that the polynomial (p(x)q(x))7 has exactly an odd coefficient. What mine is this?
+> Riddles from the Past [⋆⋆] In 1955, Matryx receives a letter from DOC in the Old West; it reads as follows: “There are many mines, each indicated by an integer. The DeuLerean is located in the mine corresponding to the number of unordered pairs of polynomials p(x), q(x) with strictly positive integer coefficients, of degree 4, such that p(1) + q(1) = 26 and the polynomial (p(x)q(x))⁷ has exactly one odd coefficient.” Which mine is this?
 
-**Answer:** 8975
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2018_semifinalea#q07|src_squadre_2018_semifinalea__Q07]]
 
 
 
@@ -279,11 +310,16 @@ Minimum number of girls dancing conditionally on the MCM
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pyramid cut in equal volumes, BP/PV ratio*
+*Pyramid divided into equal volumes, BP/PV ratio*
 
-> The theory of future astronauts [⋆⋆] Matryx and \ DOC ended up in ancient Egypt, where to hide the DeuLerean they built a huge straight pyramid based on an ABCD square and V vertex. On the sides V B and V D take two points P and Q respectively with BP PV = DQ QV such that the APQ plane divides the pyramid into two equal-volume rooms. How much is BP PV ? Answer by indicating a+b+2c, where a,b,c are integers such that BP PV = a+ √ b c , and b does not have perfect squares between its divisors.
+> The Theory of Future Astronauts [⋆⋆] Matryx and \ DOC ended up in ancient Egypt, where, in order to hide the DeuLerean, they built a huge right pyramid with square base ABCD and vertex V. On edges VB and VD, they took points P and Q respectively, with BP/PV = DQ/QV, such that the plane APQ divides the pyramid into two chambers of equal volume. What is the value of BP/PV? Answer by giving a+b+2c, where a, b, c are integers such that BP/PV = a + √bc, and b has no perfect squares among its divisors.
 
-**Answer:** 0022
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_semifinalea#q08|src_squadre_2018_semifinalea__Q08]]
 
 
 
@@ -310,11 +346,15 @@ Minimum number of girls dancing conditionally on the MCM
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Intero with 12 dividers and ratio on dividers, number of glasses*
+*Whole number with 12 divisors and a report on the divisors, number of glasses*
 
-> ♪ Whiskey for my n men ♪ ♪ Bu4 Kampen in the saloon. "How many are there?" asks the bartender. I'll just tell you that n is a positive integer with exactly 12 positive divisors 1 = d1 < d2 < ·· < d12 = n, and that dd4−1 = d8(d1 + d2 + d4) . Not wanting to ask any more questions, the bartender prepares a tray of glasses for every opportunity. How many glasses do you fill?
+> Mathematical Outlaws [⋆] "Whiskey for my men!" Booms Bu4 Kampen in the saloon. "And how many are there?" asks the bartender. "I'll only tell you that n is a positive integer with exactly 12 positive divisors, 1 = d1 < d2 < ·· < d12 = n, and that dd4−1 = d8(d1 + d2 + d4)." Not wanting to ask any more questions, for each possible n the bartender prepares a tray with n glasses. How many glasses does he fill?
 
-**Answer:** 1989
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_semifinalea#q09|src_squadre_2018_semifinalea__Q09]]
 
 
 
@@ -344,11 +384,15 @@ Minimum number of girls dancing conditionally on the MCM
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arrows with data angles closed for reflection, minimum number*
+*Arrows with given angles, closed by reflection, minimum number*
 
-> In the wild West, the Indians pierced the DOC's cowboy hat with arrows. The arrows all have the same tip at the center of the hat, and they all have the shape of segments of the same length. Matryx notes that there are three arrows a,b,c such that the angle between a and b is 60°, that between b and c is 60°, that between c and a is 90°. Instead \ DOC, a more skilled mathematician, notes that for each pair of arrows s and t there is also an arrow that is the symmetry of t with respect to the plane perpendicular to s. How many arrows are in the hat, at least?
+> Watch out for the hat [⋆] In the Wild West, the Indians impaled DOC's cowboy hat with arrows. All the arrows have their tips at the same point, in the center of the hat, and they are all line segments of the same length. Matryx notes that there are three arrows, a, b, and c, such that the angle between a and b is 60°, the angle between b and c is 60°, and the angle between c and a is 90°. DOC, however, being a more skilled mathematician, notes that for every pair of arrows s and t, there is also an arrow that is the reflection of t across the plane perpendicular to s. What is the minimum number of arrows in the hat?
 
-**Answer:** 0012
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_semifinalea#q10|src_squadre_2018_semifinalea__Q10]]
 
 
 
@@ -375,11 +419,15 @@ Minimum number of girls dancing conditionally on the MCM
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Recurring succession on basis 3, total gain up to the 2018 edition*
+*Recursive base-3 sequence, total gain up to the 2018 edition*
 
-> The Great Almanac of the Mathematical Olympics [⋆] At every edition of the Mathematical Olympics, starting with the number zero, BiffTauber bets on the winner thanks to the Great Almanac. The gain you get at edition n is an dollar, where a0 = 0, and for each integer n the relationships a3n = an, a3n+1 = an −1, and a3n+2 = an +2 are worth. The 2018 edition is over, Biffrealizza, which, since the beginning of betting, has won a mountain of dollars. How many, exactly?
+> The Great Almanac of the Mathematical Olympiads [⋆] At each edition of the Mathematical Olympiads, starting with edition zero, BiffTauber bets on the winner thanks to the Great Almanac. The win he obtains at edition n is an dollars, where a0 = 0, and for every integer n the relations a3n = an, a3n+1 = an −1, and a3n+2 = an +2 hold. After edition 2018 ends, Biff realizes that, since betting began, he has made a mountain of dollars. Exactly how many?
 
-**Answer:** 4105
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2018_semifinalea#q11|src_squadre_2018_semifinalea__Q11]]
 
 
 
@@ -408,11 +456,16 @@ Minimum number of girls dancing conditionally on the MCM
 <div class="qlang-split" data-lang="en"></div>
 
 
-*4-digit years with thousands >= sum of other digits*
+*Four-digit years where the thousands digit is greater than or equal to the sum of the other digits*
 
-> Time circuits have been damaged by lightning: now the DeuLerean can only reach four-digit years such that the number of thousands is greater or equal to the sum of the other three. Little bad says \ DOC, and quickly calculates how many different years it can travel. What number do you get? It means that a four-digit number has the number of thousands, not nothing.
+> Faulty circuits The time circuits were damaged by a lightning strike: now the DeuLerean can reach only four-digit years in which the thousands digit is greater than or equal to the sum of the other three digits. "No great loss," says \ DOC, and quickly calculates how many different years it can travel to. What number does he find? It is understood that a four-digit number has a non-zero thousands digit.
 
-**Answer:** 0714
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_semifinalea#q12|src_squadre_2018_semifinalea__Q12]]
 
 
 
@@ -441,11 +494,16 @@ Minimum number of girls dancing conditionally on the MCM
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle isosceles rectangle, two tangent circles, value 2000 CE/CB*
+*Right isosceles triangle, two tangent circles, value 2000 CE/CB*
 
-> In 2018 the Hill Valley clock was finally rebuilt: it now consists of an isosceles triangle ABC rectangle in C. The points D and E, respectively on the AC and CB sides, are joined by a segment parallel to AB. There are now two circular clocks, one inscribed on the ADE triangle and one inscribed on the ABE, which touch at a point on the AE segment. How much is 2000· EC CB ?
+> Let's Save the Tower Clock [⋆] In 2018, the Hill Valley clock was finally rebuilt: it now consists of an isosceles right triangle ABC with the right angle at C. Points D and E, lying on sides AC and CB respectively, are joined by a line segment parallel to AB. There are now two circular clocks—one inscribed in triangle ADE and one inscribed in triangle ABE—that touch at a point on segment AE. What is the value of 2000 · CE / CB?
 
-**Answer:** 0343
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_semifinalea#q13|src_squadre_2018_semifinalea__Q13]]
 
 
 
@@ -473,11 +531,16 @@ Minimum number of girls dancing conditionally on the MCM
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural a,b,c with b=a/c and numbers contained, not more than*
+*Natural numbers a, b, c with b = a/c and digits contained, at most*
 
-> To unlock the door of his future home, Jensenfer Paerther must find three natural a,b,c of three, two, and one digit, respectively, with b = a c. In addition, the digits of b are contained in those of a, which is the maximum possible. How much is it worth? The containment of figures is understood by multiplication, i.e. for example 32 is contained in 243 but 33 is not.
+> Quasi-automatic opening To unlock the door of his future home, Jensenfer Paerther must find three natural numbers a, b, c with respectively three, two, and one digit, such that b = a c. Moreover, the digits of b are contained in those of a, and a is the maximum possible. What is the value of a? The containment of digits is understood with multiplicity; that is, for example, 32 is contained in 243, but 33 is not.
 
-**Answer:** 0819
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_semifinalea#q14|src_squadre_2018_semifinalea__Q14]]
 
 
 
@@ -507,11 +570,15 @@ Minimum number of girls dancing conditionally on the MCM
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle with data angles, angular width PAK*
+*Triangle with given angles, magnitude of angle PAK*
 
-> An animal physicist \ DOC left the loyal Eisenstein in an extra-temporal enclosure, which in spatial dimensions is an ABC triangle with angles in A,B,C of 50, 60, 70 degrees respectively. If H is the height foot coming out of B and K the point on AB with AH = AK, a straight fence perpendicular to AB joins K to the BH segment, which intersects in P. Eisenstein, endowed with great physical sense, immediately estimates the amplitude in degrees of \PAK: what value does he find?
+> A formidable physicist DOC has left faithful EisEinstein in an extra-temporal enclosure that, in spatial dimensions, is a triangle ABC with angles at A, B, and C measuring 50°, 60°, and 70° respectively. Let H be the foot of the altitude drawn from B, and let K be the point on AB such that AH = AK; a straight fence perpendicular to AB joins K to segment BH, intersecting it at P. EisEinstein, endowed with a great sense of physics, immediately estimates the measure in degrees of ∠PAK: what value does he find?
 
-**Answer:** 0025
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_semifinalea#q15|src_squadre_2018_semifinalea__Q15]]
 
 
 
@@ -550,10 +617,14 @@ Minimum number of girls dancing conditionally on the MCM
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangle and triangle, quadrilateral area CYXD*
+*Rectangle and triangle, area of quadrilateral CYXD*
 
-> A particular guitar To test the new amplifier of \ DOC Matryx plays a strange guitar: it consists of an ABCD rectangle with AB > BC and an ABP triangle, with P located both in the strip identified by the BC and DA directions and in the semiplane identified by AB that does not contain the CD side. Calling X and Y the intersections of AB with PD and PC respectively, the sum of the areas of the PAX and PBY triangles is 71cm2, while the area of ABCD is 354cm2. How many cm2 is the area of CY XD? Team competition 3018  Semi-final A  Problem tests  2/2
-> 
-> U XIX National Team Semifinal Competition A  Solution  4 May 3018 olimpiadi.dm.unibo.it www.oliforum.it Nr. The problem
+> A Particular Guitar To try the new DOC Matryx amplifier, one plays a strange guitar: it consists of a rectangle ABCD with AB > BC and a triangle ABP, where P lies both in the strip bounded by the lines BC and DA and in the half-plane determined by AB that does not contain side CD. Letting X and Y be the intersections of AB with PD and PC, respectively, the sum of the areas of triangles PAX and PBY is 71 cm², while the area of ABCD is 354 cm². What is the area of CYXD in cm²? Team Competition 3018 – Semifinal A – Problem Texts – 2/2
+>
+> XIX National Team Championship Semifinal A – Solutions – 4 May 3018 olimpiadi.dm.unibo.it www.oliforum.it No. Problem
 
-**Answer:** 0248
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_semifinalea#q16|src_squadre_2018_semifinalea__Q16]]

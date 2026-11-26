@@ -31,9 +31,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova i numeri interi positivi a,b con equazione a2+1, b2+1 prime soddisfacente*
+*Interi positivi a, b tali che a^2+1 e b^2+1 sono primi e vale l'uguaglianza con r*
 
-> Determinare tutti gli integri positivi $a, b$ in modo tale che i numeri $a^2 + 1$ e $b^2 + 1$ siano primi e la seguente uguaglianza $$(a^2 + 1)(b^2 + 1) = (a^2 - 1)(b^2 - 1) + r^2 + 1$$ sia valida.
+> Determinare tutti gli interi positivi $a, b$ tali che i numeri $a^2 + 1$ e $b^2 + 1$ siano primi e valga l'uguaglianza
+>
+> $$(a^2 + 1)(b^2 + 1) = (a^2 - 1)(b^2 - 1) + r^2 + 1$$
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_pol_2002_r3#q01|src_pol_2002_r3__Q01]]
 
 
 
@@ -56,9 +64,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il punto medio del PL, il punto C e il centro circundante del triangolo ABC sono collineari*
+*Due rettangoli di area uguale costruiti fuori da un triangolo: il punto medio di PL, il vertice C e il circocentro sono allineati*
 
-> All'esterno di un triangolo $ABC$ sono costruiti due rettangoli $ACPQ$ e $BKLC$. Supponendo che le superfici di questi rettangoli siano uguali, dimostrare che il punto medio del segmento $PL$, il punto $C$ e il centro circundante del triangolo $ABC$ sono collineari.
+> All'esterno di un triangolo $ABC$ si costruiscono due rettangoli $ACPQ$ e $BKLC$. Se le aree di questi rettangoli sono uguali, dimostrare che il punto medio del segmento $PL$, il punto $C$ e il circocentro del triangolo $ABC$ sono allineati.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_pol_2002_r3#q02|src_pol_2002_r3__Q02]]
 
 
 
@@ -81,9 +95,15 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sostituire due dei tre enti della scheda nera con la somma e la differenza assoluta; raggiungere due zero*
+*Tre interi non negativi: si sostituiscono due di essi con la somma e la differenza assoluta. Si possono ottenere almeno due zeri?*
 
-> Su una lavagna sono scritte tre numeri interi non negativi. Di questi numeri due $k, m$ sono scelti e sostituiti dai numeri $k + m$ e $|k - m|$. Il terzo numero rimane invariato. Con questi tre nuovi numeri procedono in modo simile. L'obiettivo è quello di ottenere almeno due numeri uguali a $0$. Scopri se è possibile.
+> Su una lavagna sono scritti tre interi non negativi. Tra questi numeri se ne scelgono due, $k, m$, e li si sostituisce con i numeri $k + m$ e $|k - m|$. Il terzo resta invariato. Con i tre nuovi numeri si procede allo stesso modo. Lo scopo è ottenere almeno due numeri uguali a $0$. Stabilire se ciò è possibile.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2002_r3#q03|src_pol_2002_r3__Q03]]
 
 
 
@@ -108,9 +128,19 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza della somma ciclica dei valori reali positivi r_1,...,r_n con n≥3*
+*Per n almeno 3 e raggi positivi, la somma ciclica degli inversi di due raggi consecutivi è almeno n diviso la somma dei raggi*
 
-> Prove che per tutti i numeri interi positivi $n \ge 3$ e per tutti i numeri reali positivi $r_1, r_2, \ldots, r_n$ si trova la seguente catena di disuguaglianze $$\sum_{k=1}^{n} \frac{1}{r_{k+1} + r_{k+2}} \ge \frac{n}{\displaystyle\sum_{k=1}^{n} r_k}$$ (dove $r_{n+1} = r_1,\ r_{n+2} = r_2,\ r_{n+3} = r_3,\ r_{n+4} = r_4$).
+> Dimostrare che, per tutti gli interi positivi $n \ge 3$ e per tutti i numeri reali positivi $r_1, r_2, \ldots, r_n$, vale la disuguaglianza
+>
+> $$\sum_{k=1}^{n} \frac{1}{r_{k+1} + r_{k+2}} \ge \frac{n}{\displaystyle\sum_{k=1}^{n} r_k}$$
+>
+> dove $r_{n+1} = r_1,\ r_{n+2} = r_2,\ r_{n+3} = r_3,\ r_{n+4} = r_4$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2002_r3#q04|src_pol_2002_r3__Q04]]
 
 
 
@@ -135,9 +165,19 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sfera, piano, tre punti non collineari con linee tangenti; circosfera piramidale tangente*
+*Tre tangenti a una sfera da punti di un piano, e un punto sulla sfera con rapporti uguali: la sfera circoscritta alla piramide è tangente alla sfera data*
 
-> Sono indicate una sfera $s$ e un piano $\pi$. Sul piano $\pi$ sono indicati tre punti non collineari $A, B, C$. Attraverso ciascuno di questi punti viene costruita una linea tangente a $s$. I punti di contatto di queste linee con $s$ sono indicati rispettivamente da $K, L, M$. Un punto $P$ si trova su $s$ e soddisfa $$\frac{AK}{AP} = \frac{BL}{BP} = \frac{CM}{CP}.$$ Prove che la circosfera della piramide $ABCP$ è tangente a $s$.
+> Sono date una sfera $s$ e un piano $\pi$. Sul piano $\pi$ sono dati tre punti non allineati $A, B, C$. Per ciascuno di questi punti si conduce una retta tangente a $s$. I punti di contatto di queste rette con $s$ si indicano rispettivamente con $K, L, M$. Un punto $P$ giace su $s$ e soddisfa
+>
+> $$\frac{AK}{AP} = \frac{BL}{BP} = \frac{CM}{CP}.$$
+>
+> Dimostrare che la sfera circoscritta alla piramide $ABCP$ è tangente a $s$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+
+[[Quesiti/src_pol_2002_r3#q05|src_pol_2002_r3__Q05]]
 
 
 
@@ -162,6 +202,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza a_1=k+1, a_{n+1}=a_n2-4a_n+1; mostrare termini distinti sono coprime*
+*Successione a_1 = k+1, a_{n+1} = a_n^2 − 4a_n + 1: termini di indici distinti sono coprimi*
 
-> Si dà un intero positivo $k$. La sequenza $(a_n)$ è definita da $$a_1 = k + 1, \quad a_{n+1} = a_n^2 - 4a_n + 1 \quad \text{for } n \ge 1.$$ Mostra che per $m \ne n$ i numeri $a_m, a_n$ sono relativamente primi.
+> È dato un intero positivo $k$. La successione $(a_n)$ è definita da
+>
+> $$a_1 = k + 1, \quad a_{n+1} = a_n^2 - 4a_n + 1 \quad \text{for } n \ge 1.$$
+>
+> Dimostrare che, per $m \ne n$, i numeri $a_m, a_n$ sono coprimi.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_pol_2002_r3#q06|src_pol_2002_r3__Q06]]

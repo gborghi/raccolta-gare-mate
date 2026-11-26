@@ -35,11 +35,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*mediums promoted/received before and after +5*
+*Possible values of N < 40, from the means of those who passed and those who failed, before and after adding 5*
 
-> N < 40 people take part in a math test. Sufficiency is set at 65. The results of the test are as follows: the average of all participants is 66, that of the promoted 71 and that of the rejected 56. However, due to an error in the formulation of a question, all scores are increased by 5. At this point, the average of the promoted becomes 75 and the average of the unpromoted becomes 59. (a) Find all possible values of N. (b) Find all possible values of N if, after the increase, the average of the promoted had become 79 and that of the non-promoted 47.
+> N < 40 people take part in a mathematics test. The pass mark is set at 65. The results of the test are as follows: the mean of all the participants is 66, that of those who passed is 71, and that of those who failed is 56. However, because of an error in the wording of a question, every score is increased by 5. At that point the mean of those who passed becomes 75, and that of those who did not pass becomes 59.
+> (a) Find all possible values of N.
+> (b) Find all possible values of N in the case in which, after the increase, the mean of those who passed had become 79 and that of those who did not pass 47.
 
-**Answer:** (a) 12,24,36; (b) no N
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the wording]]
+
+[[Quesiti/src_cesenatico_2010#q01|src_cesenatico_2010__Q01]]
 
 
 
@@ -67,11 +72,18 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*product and sum of two reds*
+*The product of two red numbers is red, and so is the sum of two red numbers*
 
-> Each natural number, zero included, is coloured in white or red, so that: • there is at least one white number and at least one red number; • the sum between a white number and a red number is white; • the product between a white number and a red number is red. Demonstrate that the product of two red numbers is always a red number and that the sum of two red numbers is always a red number.
+> Every natural number, zero included, is coloured white or red, in such a way that:
+> • there is at least one white number and at least one red number;
+> • the sum of a white number and a red number is white;
+> • the product of a white number and a red number is red.
+> Prove that the product of two red numbers is always a red number, and that the sum of two red numbers is always a red number.
 
-**Answer:** proved (red = multiples of k)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+
+[[Quesiti/src_cesenatico_2010#q02|src_cesenatico_2010__Q02]]
 
 
 
@@ -104,13 +116,22 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total amount of the loan.
+*In a convex quadrilateral with the stated equal angles, angle BCM equals angle DBA; the angle marks are a broken extraction*
 
-![[src_cesenatico_2010__prob3.png]]
+> Let ABCD be a convex quadrilateral such that\
+> CAB = \
+> CDA and\
+> BCA = \
+> ACD. Let M be the midpoint of AB.
+> Prove that\
+> BCM = \
+> DBA.
 
-> Whether ABCD is a convex quadrilateral such that \ CAB = \ CDA and \ BCA = \ ACD. That M the mean of AB shows that \ BCM = \ DBA.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-**Answer:** proved
+[[src_cesenatico_2010__prob3.png]]
 
 
 
@@ -139,13 +160,18 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*divide the two triangles into 4 congruent triangles*
+*Divide triangles ABC and ABD of an acute trapezium into four congruent pairs; the angle marks are a broken extraction*
 
-![[src_cesenatico_2010__prob4.png]]
+> In the trapezium ABCD the sides AB and CD are parallel, and the angles\
+> ABC and\
+> BAD are acute. Prove that it is possible
+> to divide triangle ABC into 4 disjoint triangles X1, . . . , X4 and triangle ABD into 4 disjoint triangles Y1, . . . , Y4
+> such that the triangles Xi and Yi are congruent for every i.
 
-> In the ABCD trapezoid the sides AB and CD are parallel, the angles \ ABC and \ BAD are sharp. Demonstrate that you can divide the ABC triangle into 4 segments of X1, . . . , X4 and the ABD triangle in 4 Y1 disjoint triangles. . . , Y4 such that the Xi and Yi triangles are congruent for each i.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
 
-**Answer:** proved
+[[src_cesenatico_2010__prob4.png]]
 
 
 
@@ -179,13 +205,20 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many non-winning strings*
+*How many of the 1024 binary strings of length 10 are not winning in the Cuccagna solitaire*
 
-> In the village of Cuccagna, you play the following solitaire. Starting from a finite string of zeros and ones, the following moves are allowed: (i) delete two consecutive zeros; (ii) delete three consecutive zeros;
-> 
-> (iii) if within the string is substring 01, this substring may be replaced by 100. Movements (i), (ii) and (iii) must be made one at a time and in succession. You win if you can reduce the string to a two-digit format or less. (For example, starting from 0101 you can win by first using the move (iii) on the final two digits, getting 01100, then playing the move (i) on two of these, and finally the move (ii) on the remaining three zeros: so you get the empty string.)
+> In the land of Cuccagna the following solitaire is played. One starts from a finite string of zeros and ones, and the following moves are allowed:
+> (i) delete two consecutive ones;
+> (ii) delete three consecutive zeros;
+> (iii) if the substring 01 occurs inside the string, one may replace that substring by 100.
+> Moves (i), (ii) and (iii) must be made one at a time, in succession. One wins if one manages to reduce the string to one made up of two digits or fewer.
+> (For example, starting from 0101 one can win by first using move (iii) on the last two digits, obtaining 01100, then playing move (i) on the two ones of this string, and finally move (ii) on the three zeros that remain: one thus obtains the empty string.)
+> Among all the 1024 possible strings of ten digits, how many are there from which it is not possible to win the solitaire?
 
-**Answer:** 1 (the string 1111100000)
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+
+[[Quesiti/src_cesenatico_2010#q05|src_cesenatico_2010__Q05]]
 
 
 
@@ -209,8 +242,11 @@ This is the total amount of the loan.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Infinite primes divided by 2^(n^3+1) -3^(n^2+1) +5^(n+1)*
+*There are infinitely many primes that divide at least one integer of the form 2n3+1 −3n2+1 + 5n+1*
 
-> Demonstrate that there are infinite prime numbers that divide at least one integer of the form 2n3+1 −3n2+1 + 5n+1 with positive integer n.
+> Prove that there are infinitely many primes that divide at least one integer of the form 2n3+1 −3n2+1 + 5n+1, with n a positive integer.
 
-**Answer:** proved
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+
+[[Quesiti/src_cesenatico_2010#q06|src_cesenatico_2010__Q06]]

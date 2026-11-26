@@ -83,7 +83,14 @@ level: kangourou
 \end{document}
 ```
 
-> Four friends live alone, each in a different house from the others. The four of them are never absent at the same time, and they want that if something happens in one's house when he is absent, at least one of the other three, finding himself at home, can step in with the key. They then decide to leave a key to at least one friend who will keep it in his home in a place known to all four of them. What is the minimum number of keys to his own home that each of them must leave to the friends, considering them as a whole? And how are the left keys to be arranged?
+> Four friends live alone, each in a house different from the others'. The four are never all away from home at the same time, and they want that, if something happens in one of their houses while its occupant is away, at least one of the other three, who is at home in their own house, can step in by entering with a key. They therefore decide to leave a key with at least one friend, who will keep it at their own home in a place known to all four. What is the minimum number of keys to their own house that each must leave with their friends, considered as a group? And how should the keys that are left be arranged?
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin_finale#qb1|src_kangourou_2024_benjamin_finale__QB1]]
 
 
 
@@ -107,7 +114,13 @@ level: kangourou
 
 *The meaning of KAB can be deduced from the answer*
 
-> In the strange language of Kangland, the words "yes" and "no" translate into "KAB" and "BAK", but not necessarily in this order. You meet a person you can trust, who knows both Italian and the Kangal language, and you ask them: Is it true that KAB means "yes"? The person answers, "KAB". Can you tell if "KAB" means "yes" or "no"?
+> In the strange language of Kanglandia, the words "yes" and "no" translate to "KAB" and "BAK", but not necessarily in that order. You meet a person you can trust who knows both Italian and the language of Kanglandia, and you ask them: "Is it true that KAB means 'yes'?" The person replies: "KAB". Can you deduce whether "KAB" means "yes" or "no"?
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin_finale#qb2|src_kangourou_2024_benjamin_finale__QB2]]
 
 
 
@@ -130,9 +143,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colorings of 8 objects with adjacent objects of different colours*
+*Colorings of 8 objects with adjacent ones of a different color*
 
-> Eight objects are aligned. They have to be painted four in red, three in blue, and one in yellow, but so that adjacent objects receive different colors. How many different colourings are admissible?
+> Eight objects are arranged in a line. Four of them are to be painted red, three blue, and one yellow, but in such a way that adjacent objects receive different colors. How many different colorings are admissible?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_benjamin_finale#qb3|src_kangourou_2024_benjamin_finale__QB3]]
 
 
 
@@ -155,9 +175,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Are there more reducible or irreducible fractions (1..6)*
+*Are there more reducible fractions or irreducible fractions (1..6)?*
 
-> Consider all possible fractions of value not greater than $1$, in which both the numerator and denominator are integers between $1$ and $6$ included. Are there more reducible fractions or irreducible fractions?
+> Consider all possible fractions with a value not greater than $1$, in which both the numerator and the denominator are integers between $1$ and $6$ inclusive. Are there more reducible fractions or more irreducible fractions?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_benjamin_finale#qb4|src_kangourou_2024_benjamin_finale__QB4]]
 
 
 
@@ -179,9 +206,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum antenna distance from the most distant dwelling (triangle)*
+*Minimum distance from the antenna to the farthest dwelling (triangle)*
 
-> Three dwellings are at the vertices of an isosceles triangle whose sides measure $80$, $80$ and $120$ meters. Using a single antenna, we want to make it possible to receive internet in the three houses. What is, in metres, the minimum distance that the antenna can have from the dwelling that will make it the furthest away?
+> Three houses are located at the vertices of an isosceles triangle whose sides measure $80$, $80$, and $120$ metres. Using a single antenna, the aim is to make it possible to receive internet in all three houses. In metres, what is the minimum distance the antenna can be from the house that will turn out to be the farthest away?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_benjamin_finale#qb5|src_kangourou_2024_benjamin_finale__QB5]]
 
 
 
@@ -204,6 +237,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Because the result of Marco is always 1089
+*Because Marco's result is always 1089*
 
-> Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits, and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, he puts a $0$ in front of this difference, otherwise it remains unchanged. Finally, he adds to the number thus obtained the number he gets by reversing the order of its digits. What is the result? Our question suggests that the outcome does not depend on the number initially chosen by Marco: explain why.
+> Marco tries to carry out the following operations: he chooses a three-digit number whose digits are all different, writes the number obtained by reversing the order of the digits, and calculates the difference between the larger and the smaller of the two numbers. If this difference has only two digits, he prefixes the digit $0$ to this difference; otherwise, he leaves it unchanged. Finally, he adds to the number thus obtained the number he gets by reversing the order of its digits. What result does he obtain? Our question implies that the result does not depend on the number Marco chose initially: explain why.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_benjamin_finale#qb6|src_kangourou_2024_benjamin_finale__QB6]]

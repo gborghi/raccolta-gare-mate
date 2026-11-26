@@ -33,15 +33,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many complete moves with 1000 spins (playing three per pin)*
+*How many complete moves with 1000 pins (three-per-pin game)?*
 
 ![[src_kangourou_2020_ecolier_finale__probe1.png]]
 
-> I'll play the following game with the pins. I place a pin on the table; then, with each subsequent move, I attach the tips of three more pins to the head of each of the pins laid in the previous move, as suggested by the figure. If I have a box containing 1000 pins, how many complete moves can I make, including the one I put the first pin with?
-> 
+> I play the following game with pins. I place one pin on the table; then, on each subsequent move, I bring the points of three other pins close to the heads of each of the pins placed on the previous move, as suggested by the figure. If I have a box containing $1000$ pins, how many complete moves can I make, including the move on which I placed the first pin?
+>
 > (see figure)
 
-**Answer:** 6
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_ecolier_finale#qe1|src_kangourou_2020_ecolier_finale__QE1]]
 
 
 
@@ -65,11 +69,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum four-pen bags with a maximum of two of the same colour*
+*Maximum of 4 pens per pack, with at most two of the same color*
 
-> Luisa has many pens: $29$ red, $13$ blue and $20$ black. She wants to pack bags containing $4$ pens, so that no bag contains more than two pens of the same color. How many bags can she pack?
+> Luisa has many pens: $29$ red, $13$ blue, and $20$ black. She wants to prepare bags, each containing $4$ pens, so that no bag contains more than two pens of the same color. What is the maximum number of bags she can prepare?
 
-**Answer:** 15
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_ecolier_finale#qe2|src_kangourou_2020_ecolier_finale__QE2]]
 
 
 
@@ -92,11 +101,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of books on the shelf (position restrictions)*
+*Minimum number of books on the shelf (position constraints)*
 
-> Many books of different thicknesses are lined up on a shelf. To the left of the thickest book there are $20$ books, to the right of the thinner one there are $22$. Between the thickest book and the thinnest one is the oldest book, different from both. What is the minimum number of books that can be lined up on the shelf?
+> Many books of different thicknesses are arranged on a shelf. To the left of the thickest book, there are $20$ books; to the right of the thinnest book, there are $22$ books. Between the thickest book and the thinnest book is the oldest book, which is different from both. What is the minimum number of books that can be arranged on the shelf?
 
-**Answer:** 23
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_ecolier_finale#qe3|src_kangourou_2020_ecolier_finale__QE3]]
 
 
 
@@ -144,7 +157,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the four Julian numbers (equal sums on the diagonals)*
+*Sum of Giulia's four numbers (equal sums along the diagonals)*
 
 ![[src_kangourou_2020_ecolier_finale__probe4.png]]
 
@@ -169,11 +182,15 @@ level: kangourou
 \end{document}
 ```
 
-> Julia has to write a number in each white circle of the figure next to her. She wants to make sure that the sum of the four numbers she writes is equal to both the sum of the three numbers that will appear in the three circles connected by the dashed line, and the sum of the three numbers that will appear in the three circles connected by the dotted line. How much is the sum of the four numbers that Julia will write?
-> 
+> Giulia must write a number in each white circle in the figure next to this one. She wants the sum of the four numbers she will write to be equal both to the sum of the three numbers that will appear in the three circles connected by the dashed line and to the sum of the three numbers that will appear in the three circles connected by the dotted line. What is the value of the sum of the four numbers Giulia will write?
+>
 > (see figure)
 
-**Answer:** 22
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_ecolier_finale#qe4|src_kangourou_2020_ecolier_finale__QE4]]
 
 
 
@@ -213,7 +230,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fill the 6x6 grid with/without special position number*
+*Fill a 6x6 grid with/without a number in a special position*
 
 ![[src_kangourou_2020_ecolier_finale__probe5.png]]
 
@@ -226,13 +243,20 @@ level: kangourou
 \end{document}
 ```
 
-> Here on the side you see two square grids of $6$ rows and $6$ columns each: you can fill them in many different ways by entering, one for each box, all the integers from $1$ to $36$. If, after filling the grid, it happens that one of the numbers you entered is the largest of all those in its row and at the same time the smallest of all those in its column, you'll say that number is in a special position relative to the way you filled the grid.
-> 
-> Fill the first grid so that there is at least one special position number and the second so that there are no special position numbers.
-> 
-> As long as you fill in the grids (circling the number in a special position in the first one), no explanation is required.
-> 
+> On the side, you see two square grids, each with $6$ rows and $6$ columns: you can fill them in many different ways by placing, one in each cell, all the integers from $1$ to $36$. If, after filling the grid, one of the numbers entered turns out to be the largest among all the numbers in its row and at the same time the smallest among all the numbers in its column, you will say that this number is in a special position relative to the way you filled the grid.
+>
+> Fill the first grid so that there is at least one number in a special position, and fill the second grid so that there are no numbers in special positions.
+>
+> You just need to fill in the grids (by circling in the first grid the number in the special position); no explanations are required.
+>
 > (see figure)
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2020_ecolier_finale#qe5|src_kangourou_2020_ecolier_finale__QE5]]
 
 
 
@@ -279,7 +303,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the numbers of the candles per serving (two cuts)*
+*Sum of the number of candles per portion (two cuts)*
 
 ![[src_kangourou_2020_ecolier_finale__probe6.png]]
 
@@ -303,8 +327,12 @@ level: kangourou
 \end{document}
 ```
 
-> On Rita's birthday cake, $12$ candles are arranged regularly, each marked with its own number (as if they were hours on a clock, as suggested by the figure). Rita makes two distinct straight cuts, which cross the cake completely, and divide it into portions. If each candle is on a single serving and the sum of the numbers on the candles of each serving are all the same, what is the sum of the numbers on the candles of each serving?
-> 
+> On Rita's birthday cake, $12$ candles are arranged regularly, each marked with its number (as if they were the hours on a clock, as suggested by the figure). Rita makes two distinct straight cuts that go completely through the cake and divide it into several pieces. If each candle is on exactly one piece and the sums of the numbers on the candles in each piece are all equal, what is the sum of the numbers on the candles in each piece?
+>
 > (see figure)
 
-**Answer:** 26
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2020_ecolier_finale#qe6|src_kangourou_2020_ecolier_finale__QE6]]

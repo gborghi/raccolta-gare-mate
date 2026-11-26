@@ -30,11 +30,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valore massimo di n-m per un numero a 3 cifre con condizione somma di cifre*
+*Massimo di n meno m scambiando cifra delle centinaia e delle unità*
 
-> Che $n$ sia un intero positivo che non è un multiple di $10$ e la cui cifra di centinaia non è $0$. Quando si scambiano la cifra centinaia e la cifra unità di $n$, il numero intero risultante deve essere $m$. Trova il valore massimo di $n - m$.
+> Sia $n$ un intero positivo che non è multiplo di $10$ e la cui cifra delle centinaia non è $0$. Scambiando la cifra delle centinaia e la cifra delle unità di $n$, sia $m$ l'intero che si ottiene. Trovare il massimo valore di $n - m$.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Risposta:** 792
+[[Quesiti/src_jmo16yq_yosen#q01|src_jmo16yq_yosen__Q01]]
 
 
 
@@ -58,11 +62,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza laterale di un triangolo equilaterale con punto interno e date distanze a piedi*
+*Lato di un triangolo equilatero date le distanze di un punto interno dai lati*
 
-> Che $P$ sia un punto all'interno di un triangolo equilaterale. Le lunghezze delle perpendicolari abbassate da $P$ a ciascun lato sono rispettivamente $1$, $2$ e $3$. Trova la lunghezza laterale di questo triangolo equilaterale.
+> Sia $P$ un punto interno a un triangolo equilatero. Le lunghezze delle perpendicolari abbassate da $P$ sui lati sono rispettivamente $1$, $2$ e $3$. Trovare la lunghezza del lato di questo triangolo equilatero.
 
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** $2\sqrt{7}$
+[[Quesiti/src_jmo16yq_yosen#q02|src_jmo16yq_yosen__Q02]]
 
 
 
@@ -90,11 +98,19 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per riempire la griglia 3 ×4 con 14 in modo che nessun valore si ripeta in nessuna riga o colonna*
+*Modi di riempire una griglia 3×4 con 1–4 senza ripetizioni in riga o in colonna*
 
-> In quanti modi ogni cella di una griglia $3 \times 4$ può essere riempita con uno dei numeri $1, 2, 3, 4$ in modo da soddisfare entrambe le seguenti condizioni? \begin{itemize} \item Lo stesso numero non appare più di una volta in nessuna riga. \item Lo stesso numero non appare più di una volta in nessuna colonna. # Finire #
+> In quanti modi si può riempire ogni casella di una griglia $3 \times 4$ con uno dei numeri $1, 2, 3, 4$, in modo che valgano entrambe le condizioni seguenti?
+> \begin{itemize}
+> \item Lo stesso numero non compare più di una volta in alcuna riga.
+> \item Lo stesso numero non compare più di una volta in alcuna colonna.
+> \end{itemize}
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
 **Risposta:** 36
+[[Quesiti/src_jmo16yq_yosen#q03|src_jmo16yq_yosen__Q03]]
 
 
 
@@ -118,11 +134,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca coppie di numeri interi positivi distinti la cui somma di due è un quadrato perfetto e il cui minimo è minimizzato*
+*Terzine di interi positivi distinti con somma di due qualunque un quadrato, elemento minimo il più piccolo possibile*
 
-> Tra tutti gli insiemi di tre diversi interi positivi in modo tale che la somma di due di essi sia un quadrato perfetto, trovare tutti tali insiemi per i quali l'elemento più piccolo è il più piccolo possibile. Due set sono considerati uguali se contengono gli stessi elementi indipendentemente dall'ordine (ad esempio, $\{1, 2, 3\}$ e $\{3, 2, 1\}$ sono uguali).
+> Tra tutti gli insiemi di tre interi positivi distinti tali che la somma di due qualunque di essi è un quadrato perfetto, determinare tutti gli insiemi per i quali l'elemento più piccolo è il più piccolo possibile. Due insiemi si considerano uguali se contengono gli stessi elementi, indipendentemente dall'ordine (per esempio, $\{1, 2, 3\}$ e $\{3, 2, 1\}$ sono lo stesso).
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Risposta:** $\{41, 80, 104\}$
+[[Quesiti/src_jmo16yq_yosen#q04|src_jmo16yq_yosen__Q04]]
 
 
 
@@ -149,11 +169,21 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli reali che soddisfano un sistema di tre equazioni*
+*Terne di numeri reali che soddisfano un sistema*
 
-> Trova tutti i triples dei numeri reali $(x, y, z)$ che soddisfano il seguente sistema di equazioni: $$x^2 - 3y - z = -8$$ $$y^2 - 5x - z = -12$$ $$z^2 - x - y = 6$$
+> Determinare tutte le terne di numeri reali $(x, y, z)$ che soddisfano il sistema seguente:
+>
+> $$x^2 - 3y - z = -8$$
+>
+> $$y^2 - 5x - z = -12$$
+>
+> $$z^2 - x - y = 6$$
 
+**Argomento:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Risposta:** $(1, 2, 3)$
+[[Quesiti/src_jmo16yq_yosen#q05|src_jmo16yq_yosen__Q05]]
 
 
 
@@ -182,11 +212,20 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per colorare 3×3 grid rosso/blu evitando la monocromatica 2×2 quadrati*
+*Colorazioni rosso-blu di una griglia senza sottogriglia monocromatica del tipo vietato*
 
-> Una griglia $3 \times 3$ ha ogni cella di colore rosso o blu. In quanti modi può essere fatto in modo che: \begin{itemize} \item No $2 \times 2$ sottogrid è interamente rosso. La sottorretto $2 \times 2$ è interamente blu. \end{itemize} I colori che differiscono per rotazione o riflessione sono contati come distinti.
+> Una griglia $3 \times 3$ ha ogni casella colorata di rosso oppure di blu. In quanti modi si può farlo in modo che:
+> \begin{itemize}
+> \item nessuna sottogriglia $2 \times 2$ sia tutta rossa;
+> \item nessuna sottogriglia $2 \times 2$ sia tutta blu.
+> \end{itemize}
+> Colorazioni che differiscono per una rotazione o una riflessione si contano come distinte.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
 **Risposta:** 56
+[[Quesiti/src_jmo16yq_yosen#q06|src_jmo16yq_yosen__Q06]]
 
 
 
@@ -209,9 +248,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triplici di numeri interi a 2 cifre reciprocamente coprimari condividendo condizioni di uguaglianza digitali*
+*Terne di interi a due cifre coprimi a due a due con cifre delle decine e delle unità legate*
 
-> Che $x, y, z$ siano reciprocamente coprime interi positivi a due cifre in modo tale che la decina di $x$ sia pari alla decina di $y$, la decina di unità di $y$ sia pari alla decina di unità di $z$, e la decina di $z$ sia pari alla decina di unità di $x$. Quanti treplici $(x, y, z)$ esistono, contando treplici con lo stesso insieme di valori ma ordinamenti diversi come distinti?
+> Siano $x, y, z$ interi positivi a due cifre, coprimi a due a due, tali che la cifra delle decine di $x$ sia uguale alla cifra delle decine di $y$, la cifra delle unità di $y$ sia uguale alla cifra delle unità di $z$, e la cifra delle decine di $z$ sia uguale alla cifra delle unità di $x$. Quante sono le terne $(x, y, z)$ di questo tipo, contando come distinte le terne con gli stessi valori in ordine diverso?
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_jmo16yq_yosen#q07|src_jmo16yq_yosen__Q07]]
 
 
 
@@ -234,9 +278,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di giorni per Jiro e Saburo per finire di leggere insieme un libro di 120 pagine*
+*Minimo numero di giorni perché Jiro e Saburo finiscano un libro a capitoli*
 
-> C'è un libro. Jiro lo legge a $2$ pagine al giorno, e Saburo lo legge a $3$ pagine al giorno. Tuttavia, quando uno di essi arriva alla fine di un capitolo, si ferma per il giorno anche se non ha letto il numero richiesto di pagine. Il libro ha capitoli $10$ e pagine $120$ in totale. Ogni giorno ogni persona inizia a leggere dalla prima pagina di un nuovo capitolo. Trova il minimo numero possibile di giorni da quando Jiro inizia a leggere fino a quando Saburo finisce di leggere. Si noti che entrambi possono iniziare a leggere nello stesso giorno.
+> C'è un libro. Jiro lo legge a $2$ pagine al giorno, e Saburo lo legge a $3$ pagine al giorno. Però, quando uno dei due arriva alla fine di un capitolo, si ferma per quel giorno anche se non ha letto il numero di pagine previsto. Il libro ha $10$ capitoli e $120$ pagine in tutto. Ogni giorno ciascuno ricomincia dalla prima pagina di un capitolo nuovo. Trovare il minimo numero possibile di giorni che possono passare da quando Jiro inizia a leggere fino a quando Saburo finisce. Si noti che entrambi possono iniziare a leggere lo stesso giorno.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_jmo16yq_yosen#q08|src_jmo16yq_yosen__Q08]]
 
 
 
@@ -260,11 +309,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il circondario comune dei triangoli OBC, OCA, OAB dati lunghezze laterali*
+*Raggio comune delle circonferenze circoscritte a tre triangoli interni*
 
-> Nel triangolo $ABC$ con $BC = 5$, $CA = 7$, $AB = 8$, $O$ sia un punto all'interno del triangolo. Le circondazioni dei triangoli $OBC$, $OCA$ e $OAB$ sono tutte uguali. Trova questo circondario comune.
+> Nel triangolo $ABC$ con $BC = 5$, $CA = 7$, $AB = 8$, sia $O$ un punto interno al triangolo. I raggi delle circonferenze circoscritte ai triangoli $OBC$, $OCA$ e $OAB$ sono uguali. Trovare questo raggio comune.
 
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Risposta:** $\dfrac{35}{\sqrt{759}}$
+[[Quesiti/src_jmo16yq_yosen#q09|src_jmo16yq_yosen__Q09]]
 
 
 
@@ -287,9 +340,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i percorsi di formiche sui bordi del dodecaedro dal vertice X indietro a X*
+*Cammini di una formica sugli spigoli di un dodecaedro regolare*
 
-> Che $X$ sia uno vertex di un dodecaedro regolare. Una formica inizia a $X$, viaggia lungo i bordi del dodecaedro e ritorna a $X$. La formica attraversa ogni vertice esattamente una volta e attraversa ogni bordo al massimo una volta. Conteggi il numero di tali percorsi, dove i percorsi percorsi in senso inverso vengono contati come diversi.
+> Sia $X$ un vertice di un dodecaedro regolare. Una formica parte da $X$, si muove lungo gli spigoli del dodecaedro e torna in $X$. La formica passa per ogni vertice esattamente una volta e percorre ogni spigolo al più una volta. Contare il numero di tali cammini, considerando distinti i cammini percorsi in senso inverso.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_jmo16yq_yosen#q10|src_jmo16yq_yosen__Q10]]
 
 
 
@@ -316,11 +374,21 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la costante minima c per le disuguaglianze funzionali che coinvolgono f ((x,y) sul quadrato unitario*
+*Minima costante che maggiora una somma di valori di f*
 
-> Per i numeri reali $x, y$ con $0 \le x, y \le 1$, definire $$f(x, y) = xy\sqrt{1 - x^2} - x^2 y\sqrt{1 - y^2}.$$ Trovare la costante minima $c$ tale che: per ogni intero $n \ge 2$ e per ogni numero reale $0 \le a_1 < a_2 < \cdots < a_n \le 1$, $$f(a_1, a_2) + f(a_2, a_3) + \cdots + f(a_{n-1}, a_n) < c.$$
+> Per numeri reali $x, y$ con $0 \le x, y \le 1$, si definisca
+>
+> $$f(x, y) = xy\sqrt{1 - x^2} - x^2 y\sqrt{1 - y^2}.$$
+>
+> Trovare la minima costante $c$ tale che, per ogni intero $n \ge 2$ e per tutti i numeri reali $0 \le a_1 < a_2 < \cdots < a_n \le 1$,
+>
+> $$f(a_1, a_2) + f(a_2, a_3) + \cdots + f(a_{n-1}, a_n) < c.$$
 
+**Argomento:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_telescoping|Somme telescopiche]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Risposta:** $\dfrac{1}{3\sqrt{3}}$
+[[Quesiti/src_jmo16yq_yosen#q11|src_jmo16yq_yosen__Q11]]
 
 
 
@@ -343,6 +411,11 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare 20 volte dei numeri interi positivi che soddisfano le condizioni di disuguaglianza dei prodotti*
+*Numero di 20-uple di interi positivi con una disuguaglianza su prodotti*
 
-> $(p_1, p_2, \ldots, p_{10}, q_1, q_2, \ldots, q_{10})$ sia un $20$-topo di integri positivi con $p_1 = q_{10} = 1$, e per ogni $i = 1, 2, \ldots, 9$, la condizione $p_i q_i - p_{i+1} q_{i+1} \ge 1$ è valida. Quanti sono tali "$20$-tupli"?
+> Sia $(p_1, p_2, \ldots, p_{10}, q_1, q_2, \ldots, q_{10})$ una $20$-upla di interi positivi con $p_1 = q_{10} = 1$, e per ogni $i = 1, 2, \ldots, 9$ valga la condizione $p_i q_i - p_{i+1} q_{i+1} \ge 1$. Quante sono tali $20$-uple?
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio combinatorio]], [[method_induzione|Induzione]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_jmo16yq_yosen#q12|src_jmo16yq_yosen__Q12]]

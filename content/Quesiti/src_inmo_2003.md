@@ -29,9 +29,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ceviani in triangolo acuto; DK bisecta angolo EKF*
+*Ceviani in un triangolo acutangolo; DK biseca l'angolo EKF*
 
-> Considera un triangolo acuto $ABC$ e lascia che $P$ sia un punto interno di $ABC$. Supponiamo che le linee $BP$ e $CP$, quando prodotte, soddisfino $AC$ e $AB$ rispettivamente in $E$ e $F$. $D$ sia il punto in cui $AP$ incrocia il segmento di linea $EF$ e $K$ sia il piede di perpendicolare da $D$ a $BC$. Indicare che $DK$ bisecta $\angle EKF$.
+> Si consideri un triangolo acuto $ABC$ e si ponga $P$ come punto interno di $ABC$. Si supponga che le rette $BP$ e $CP$, prolungate, incontrino rispettivamente $AC$ e $AB$ nei punti $E$ e $F$. Si ponga $D$ come il punto in cui $AP$ interseca il segmento $EF$, e si ponga $K$ come il piede della perpendicolare condotta da $D$ su $BC$. Si dimostri che $DK$ biseca $\angle EKF$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2003#q01|src_inmo_2003__Q01]]
 
 
 
@@ -55,9 +62,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le prime p,q e anche n>2 che soddisfano un'equazione somma*
+*Primi p, q e pari n > 2 con una somma geometrica uguale a q² + q + 1*
 
-> Trova tutti i numeri primi $p$ e $q$, e numeri pari $n > 2$, soddisfacendo l'equazione $$p^n + p^{n-1} + \cdots + p + 1 = q^2 + q + 1.$$
+> Trovare tutti i primi $p$ e $q$, e i numeri pari $n > 2$, che soddisfano l'equazione
+> $$p^n + p^{n-1} + \cdots + p + 1 = q^2 + q + 1.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_inmo_2003#q02|src_inmo_2003__Q02]]
 
 
 
@@ -82,9 +97,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quartico ha radice non reale; trovare la somma di tutte le radici non reali*
+*Il polinomio di quarto grado ha radici non reali; trova la somma di tutte le radici non reali*
 
-> Mostrare che per ogni numero reale $a$ l'equazione $$8x^4 - 16x^3 + 16x^2 - 8x + a = 0 \tag{1}$$ ha almeno una radice non reale e trovare la somma di tutte le radici non reali dell'equazione.
+> Dimostrare che, per ogni numero reale $a$, l'equazione
+> $$8x^4 - 16x^3 + 16x^2 - 8x + a = 0 \tag{1}$$
+> ammette almeno una radice non reale e determina la somma di tutte le radici non reali dell'equazione.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2003#q03|src_inmo_2003__Q03]]
 
 
 
@@ -107,9 +131,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i numeri a 7 cifre utilizzando i numeri 5 e 7, divisibili sia per 5 che per 7*
+*Numeri di 7 cifre formati solo da 5 e 7, divisibili per 5 e per 7*
 
-> Trovare tutti i numeri $7$ di cifre formati utilizzando solo i numeri $5$ e $7$, e divisibili sia per $5$ che per $7$.
+> Trovare tutti i numeri di $7$ cifre formati usando solo le cifre $5$ e $7$, e divisibili sia per $5$ sia per $7$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata per casi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_inmo_2003#q04|src_inmo_2003__Q04]]
 
 
 
@@ -134,9 +165,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un triangolo con lati aumentati ha una superficie almeno 3/4 dell'originale*
+*Il triangolo con i lati aumentati ha un'area almeno pari a 3/4 di quella originale*
 
-> Il $ABC$ deve essere un triangolo con lati $a$, $b$, $c$. Considerate un triangolo $A_1B_1C_1$ con lati uguali a $a + \frac{b}{2}$, $b + \frac{c}{2}$, $c + \frac{a}{2}$. Indicare che $$[A_1B_1C_1] \ge \frac{3}{4}[ABC],$$ dove $[XYZ]$ indica l'area del triangolo $XYZ$.
+> Sia $ABC$ un triangolo con lati $a$, $b$, $c$. Si consideri un triangolo $A_1B_1C_1$ i cui lati sono uguali a $a + \frac{b}{2}$, $b + \frac{c}{2}$, $c + \frac{a}{2}$. Dimostrare che
+> $$[A_1B_1C_1] \ge \frac{3}{4}[ABC],$$
+> dove $[XYZ]$ denota l'area del triangolo $XYZ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2003#q05|src_inmo_2003__Q05]]
 
 
 
@@ -159,6 +199,13 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Billeti a nove cifre colorati secondo la regola di variazione in tutti i luoghi; trovare il colore di 123123123*
+*Biglietti a nove cifre colorati secondo la regola delle differenze in ogni posizione; trova il colore di 123123123*
 
-> In una lotteria, i biglietti ricevono numeri a nove cifre utilizzando solo i numeri $1$, $2$, $3$. Sono anche di colore rosso, blu o verde in modo tale che due biglietti i cui numeri differiscono in tutti e nove i posti ricevono colori diversi. Supponiamo che il biglietto con il numero $122222222$ sia rosso e che il biglietto con il numero $222222222$ sia verde. Determinare, con la prova, il colore del biglietto con il numero $123123123$.
+> In una lotteria, ai biglietti vengono assegnati numeri di nove cifre che utilizzano soltanto le cifre $1$, $2$, $3$. I biglietti sono inoltre colorati di rosso, blu o verde in modo tale che due biglietti i cui numeri differiscano in tutte e nove le posizioni abbiano colori diversi. Si supponga che il biglietto con il numero $122222222$ sia rosso e che quello con il numero $222222222$ sia verde. Determinare, con dimostrazione, il colore del biglietto con il numero $123123123$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2003#q06|src_inmo_2003__Q06]]

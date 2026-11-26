@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Almeno tre prime p<200 con p,p+2,p+6,p+8,p+12 tutte prime*
+*Primi $p < 200$ con quattro compagni primi, e l'unico $q$ con cinque*
 
-> Indicare che ci sono almeno tre numeri primi $p$ inferiori a 200 per i quali $p+2$, $p+6$, $p+8$ e $p+12$ sono tutti primi. Indicare inoltre che esiste un solo numero primo $q$ per il quale $q+2$, $q+6$, $q+8$, $q+12$ e $q+14$ sono tutti numeri primi.
+> Dimostrare che esistono almeno tre numeri primi $p$ minori di 200 per cui $p+2$, $p+6$, $p+8$ e $p+12$ sono tutti primi. Dimostrare anche che esiste un solo numero primo $q$ per cui $q+2$, $q+6$, $q+8$, $q+12$ e $q+14$ sono tutti primi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2020#q01|src_bmo1_2020__Q01]]
 
 
 
@@ -56,9 +63,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i possibili valori di a1 in sequenza di numeri interi soddisfacendo la ricorrenza*
+*Valori possibili di $a_1$*
 
-> Una sequenza di integri $a_1, a_2, a_3, \ldots$ soddisfa la relazione: $$4a_{n+1}^2 - 4a_n a_{n+1} + a_n^2 - 1 = 0$$ per tutti gli integri positivi $n$. Quali sono i valori possibili di $a_1$?
+> Una successione di interi $a_1, a_2, a_3, \ldots$ soddisfa la relazione
+> $$4a_{n+1}^2 - 4a_n a_{n+1} + a_n^2 - 1 = 0$$
+> per ogni intero positivo $n$. Quali sono i valori possibili di $a_1$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2020#q02|src_bmo1_2020__Q02]]
 
 
 
@@ -83,11 +99,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi tangenti, la tangente comune incontra le linee; dimostrare che l'AC è perpendicolare a BD*
+*Dimostrare che $AC$ è perpendicolare a $BD$*
 
-> Due cerchi $S_1$ e $S_2$ sono tangenti a $P$. Un tangente comune, non attraverso $P$, tocca $S_1$ a $A$ e $S_2$ a $B$. I punti $C$ e $D$, rispettivamente su $S_1$ e $S_2$, sono al di fuori del triangolo $APB$ e sono tali che $P$ sia sulla linea $CD$.
-> 
-> Prova che $AC$ è perpendicolare a $BD$.
+> Due circonferenze $S_1$ e $S_2$ sono tangenti in $P$. Una tangente comune, che non passa per $P$, tocca $S_1$ in $A$ e $S_2$ in $B$. I punti $C$ e $D$, rispettivamente su $S_1$ e su $S_2$, stanno fuori dal triangolo $APB$ e sono tali che $P$ sta sulla retta $CD$.
+>
+> Dimostrare che $AC$ è perpendicolare a $BD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2020#q03|src_bmo1_2020__Q03]]
 
 
 
@@ -114,13 +137,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2019 Pinguini in coda con regola di divisibilità; contare le posizioni vicino ai biglietti 2 e 33*
+*La coda dei pinguini: chi sta davanti al biglietto 2, e chi sta accanto al 33*
 
-> Ci sono pinguini del 2019 che vagano verso il loro ristorante preferito. Quando arrivano i pinguini, vengono consegnati biglietti numerati in ordine ascendente dal 1 al 2019, e viene detto di unirsi alla coda. Il primo pinguino inizia la coda. Per ciascuna $n > 1$ il numero di biglietto di detenzione del pinguino $n$ trova il più grande $m < n$ che divide $n$ e entra nella coda direttamente dietro il numero di biglietto di detenzione del pinguino $m$. Questo continua fino a quando tutti i pinguini del 2019 sono in coda.
-> 
-> (a) Quanti pinguini sono davanti al pinguino con il biglietto numero 2?
-> 
-> (b) Quali sono i numeri sui biglietti che i pinguini tengono proprio davanti e proprio dietro al pinguino che detiene il biglietto 33?
+> Ci sono 2019 pinguini che si dirigono verso il loro ristorante preferito. Man mano che arrivano, ricevono biglietti numerati in ordine crescente da 1 a 2019 e devono mettersi in coda. Il primo pinguino apre la coda. Per ogni $n > 1$ il pinguino col biglietto numero $n$ trova il massimo $m < n$ che divide $n$ e si mette in coda subito dietro il pinguino col biglietto numero $m$. Si continua finché tutti i 2019 pinguini sono in coda.
+>
+> (a) Quanti pinguini stanno davanti al pinguino col biglietto numero 2?
+>
+> (b) Quali numeri sono sui biglietti dei pinguini subito davanti e subito dietro quello col biglietto 33?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2020#q04|src_bmo1_2020__Q04]]
 
 
 
@@ -143,9 +173,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I bambini intorno al cerchio con dolci; trovare n per il quale l'arrangimento iniziale è perfetto*
+*Per quali $n > 0$ la disposizione iniziale è $\textit{perfect}$*
 
-> Sei bambini sono spaziati uniformemente attorno a un tavolo circolare. Inizialmente, uno ha un mucchio di dolci davanti a sé, mentre gli altri non hanno nulla. Se un bambino ha davanti a sé almeno quattro dolci, può fare la seguente mossa: mangiare un dolce e dare un dolce a ciascuno dei suoi vicini immediati e al bambino direttamente di fronte a loro. Un sistema si chiama $\textit{perfect}$ se vi è una sequenza di movimenti che comporta che ogni bambino abbia davanti a sé lo stesso numero di dolci. Per quali valori di $n$ è perfetta la disposizione iniziale?
+> Sei bambini sono disposti a distanze uguali attorno a un tavolo rotondo. All'inizio uno ha davanti un mucchio di $n > 0$ caramelle e gli altri non ne hanno. Se un bambino ha davanti almeno quattro caramelle, può fare la mossa seguente: mangiarne una e darne una a ciascuno dei vicini immediati e al bambino direttamente di fronte. Una disposizione si dice $\textit{perfect}$ se esiste una successione di mosse al termine della quale ciascun bambino ha davanti lo stesso numero di caramelle. Per quali valori di $n$ la disposizione iniziale è perfetta?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2020#q05|src_bmo1_2020__Q05]]
 
 
 
@@ -171,8 +208,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le buone funzioni che assegnano integri a coppie che soddisfano l'equazione funzionale*
+*Trovare tutte le funzioni $\textit{good}$*
 
-> Una funzione $f$ viene chiamata $\textit{good}$ se assegna un valore intero $f(m,n)$ a ogni coppia ordinata di numeri interi $(m,n)$ in modo tale che per ogni coppia di numeri interi $(m,n)$ abbiamo: $$2f(m,n) = f(m-n, n-m) + m + n = f(m+1,n) + f(m,n+1) - 1.$$
-> 
-> Trova tutte le buone funzioni.
+> Una funzione $f$ si dice $\textit{good}$ se assegna un valore intero $f(m,n)$ a ogni coppia ordinata di interi $(m,n)$ in modo che per ogni coppia di interi $(m,n)$ si abbia:
+> $$2f(m,n) = f(m-n, n-m) + m + n = f(m+1,n) + f(m,n+1) - 1.$$
+>
+> Trovare tutte le funzioni good.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_ricorsione|Ricorsione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_2020#q06|src_bmo1_2020__Q06]]

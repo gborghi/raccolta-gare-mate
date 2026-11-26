@@ -44,24 +44,29 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tile to be inserted for two satisfied equalities*
+*Placeholder to insert for two equalities satisfied*
 
 ![[src_kangourou_2017_ecolier_marzo__prob1.png]]
 
-> Which of the following tiles can be inserted between the tiles you see above so that the two equations are both satisfied? A)
->              	 	
-> B)
-> 	
-> 	
-> C)
-> 	
-> 	
-> D)
-> 	
-> 	
+> Which of the following tiles can be inserted among the tiles you see above so that both equalities are satisfied?
+> A)  	
+>
+> B) 	
+>
+>
+> C) 	
+>
+>
+> D) 	
+>
+>
 > E)
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q01|src_kangourou_2017_ecolier_marzo__Q01]]
 
 
 
@@ -93,13 +98,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many kangaroos are in the park, Gianni sees half.
+*How many kangaroos are there in the park? Gianni sees half of them*
 
 ![[src_kangourou_2017_ecolier_marzo__prob2.png]]
 
-> Gianni looks out the window (see the figure!) and sees half the kangaroos living in the park. How many kangaroos live in the park? A) 3 B) 10 C) 12 D) 15 E) 18
+> Gianni looks out the window (he's observing the figure!) and sees half of the kangaroos that live in the park. How many kangaroos live in the park?
+> A) 3	
+> B) 10	
+> C) 12	
+> D) 15	
+> E) 18
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q02|src_kangourou_2017_ecolier_marzo__Q02]]
 
 
 
@@ -140,21 +154,26 @@ How many kangaroos are in the park, Gianni sees half.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*One visible number overlapping the two sheets*
+*The only number visible when the two sheets are overlaid*
 
 ![[src_kangourou_2017_ecolier_marzo__prob3.png]]
 
-> On two square sheets of transparent paper some areas have been blackened, as shown in the figure. If the two sheets are overlapped with the number table shown in the centre, the numbers below the blackened squares cannot be seen. If you overlay both of them on the table, you can still see only one number: which one? A) 9
-> 	
-> B) 7
-> 	
-> C) 4
-> 	
-> D) 8
-> 	
+> On two sheets of grid paper that are transparent, some squares have been blackened, as shown in the figure. If the two sheets are placed over the number grid shown in the center, the numbers beneath the blackened squares cannot be seen. If both sheets are placed over the grid, only one number can still be seen: which one?
+> A) 9	
+>
+> B) 7	
+>
+> C) 4	
+>
+> D) 8	
+>
 > E) 5
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q03|src_kangourou_2017_ecolier_marzo__Q03]]
 
 
 
@@ -200,22 +219,28 @@ How many kangaroos are in the park, Gianni sees half.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number covered by the panda's nose*
+*Number covered by the panda's snout*
 
 ![[src_kangourou_2017_ecolier_marzo__prob4.png]]
 
-> What number is covered by the panda's nose? A) 16
-> 	
-> B) 18
-> 	
-> C) 20
-> 	
-> D) 24
-> 	
-> E) 28 8–3 =2 =5 5–1 =3 4–2 =5 1+2 =4 5–3 =5 1+1 1 5 9 6 7 2 8 3 4 aa
+> Which number is covered by the panda's snout?
+> A) 16	
+>
+> B) 18	
+>
+> C) 20	
+>
+> D) 24	
+>
+> E) 28
+> 8–3 =2 =5 5–1 =3 4–2 =5 1+2 =4 5–3 =5 1+1 1 5 9 6 7 2 8 3 4 aa
 >
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q04|src_kangourou_2017_ecolier_marzo__Q04]]
 
 
 
@@ -252,19 +277,26 @@ How many kangaroos are in the park, Gianni sees half.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the two numbers covered by the stain (addition)*
+*Sum of the two numbers covered by the stain (addition)*
 
 ![[src_kangourou_2017_ecolier_marzo__prob5.png]]
 
-> The figure shows an addition table in which the sums were done correctly. The chart has been stained. What is the sum of the two numbers in the cells covered by the stain? A) 30
-> 	
-> B) 32
-> 	
-> C) 33 D) 34
-> 	
+> The figure shows an addition table in which the sums have been calculated correctly. The table has been stained. What is the sum of the two numbers in the cells covered by the stain?
+> A) 30	
+>
+> B) 32	
+>
+> C) 33	
+> D) 34	
+>
 > E) 36
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q05|src_kangourou_2017_ecolier_marzo__Q05]]
 
 
 
@@ -302,24 +334,28 @@ How many kangaroos are in the park, Gianni sees half.
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many mirror pieces have exactly four sides?
+*How many pieces of mirror have exactly four sides?*
 
 ![[src_kangourou_2017_ecolier_marzo__prob6.png]]
 
-> That naughty Kangoo hit the mirror too hard and it broke into many pieces. How many of them have exactly four sides?
->        	
-> A) 2
-> 	
-> B) 4
-> 	
-> C) 6
-> 	
-> 	
-> D) 5
-> 	
+> That little rascal Kangoo knocked too hard on the mirror, and it shattered into lots of pieces. How many of those pieces have exactly four sides?
+>
+> A) 2	
+>
+> B) 4	
+>
+> C) 6	
+>
+>
+> D) 5	
+>
 > E) 3
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q06|src_kangourou_2017_ecolier_marzo__Q06]]
 
 
 
@@ -359,25 +395,30 @@ How many mirror pieces have exactly four sides?
 <div class="qlang-split" data-lang="en"></div>
 
 
-The picture of the back of Anna's house
+*Rear view of Anna's house*
 
 ![[src_kangourou_2017_ecolier_marzo__prob7.png]]
 
-> The figure on the right shows the facade of Anna's house. At the back of this house there are three windows and no doors. What figure does Anna see looking at the back of her house? A)
-> 	
-> 	
-> B)
-> 	
-> 	
-> C)
-> 	
-> 	
-> D)
-> 	
-> 	
+> The figure on the right shows the front of Anna's house. At the back, this house has three windows and no doors. Which figure does Anna see when she looks at the back of her house?
+> A) 	
+>
+>
+> B) 	
+>
+>
+> C) 	
+>
+>
+> D) 	
+>
+>
 > E)
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q07|src_kangourou_2017_ecolier_marzo__Q07]]
 
 
 
@@ -418,21 +459,30 @@ The picture of the back of Anna's house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True equality between the options given*
+*True equality among the given options*
 
 ![[src_kangourou_2017_ecolier_marzo__prob8.png]]
 
-> Which of the following equations is true? A)
-> 	
-> B)
-> 	
-> C) D)
-> 	
-> E) 17 13 8 11 +   11    7    2 6
-> 
-> The questions from N. 9 to N. 16 are worth 4 points each.
+> Which of the following equalities is true?
+> A)	
+>
+>   B) 	
+>
+> C)	
+> D)	
+>
+> E) 
+> 17 13 8 11
+>   +   11    7    2
+> 6
+>
+> Questions 9 to 16 are each worth 4 points.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q08|src_kangourou_2017_ecolier_marzo__Q08]]
 
 
 
@@ -468,21 +518,27 @@ The picture of the back of Anna's house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Necklace equivalent to that of six pearls*
+*A necklace equivalent to the one with six pearls*
 
 ![[src_kangourou_2017_ecolier_marzo__prob9.png]]
 
-> The figure on the right shows a necklace with six pearls. Which of the necklaces below represents the same necklace? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> The figure on the right shows a necklace with six pearls. Which of the necklaces drawn below represents the same necklace?
+> A)	
+>
+> B) 	
+>
+> C) 	
+>
+> D) 	
+>
 > E)
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q09|src_kangourou_2017_ecolier_marzo__Q09]]
 
 
 
@@ -516,19 +572,25 @@ The picture of the back of Anna's house
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum packets for 70 balloons (5,10,25)*
+*Minimum number of bags for 70 balloons (5, 10, 25)*
 
-> The balloons are for sale in packets of 5, 10 and 25. Mario purchases exactly 70 balloons. What's the smallest number of packets he can buy? A) 3
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
+> The balloons are sold in packs of 5, 10, and 25. Mario buys exactly 70 balloons. What is the smallest number of packs he could have bought?
+> A) 3	
+>
+> B) 4	
+>
+> C) 5	
+>
+> D) 6	
+>
 > E) 7
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q10|src_kangourou_2017_ecolier_marzo__Q10]]
 
 
 
@@ -565,21 +627,26 @@ The picture of the back of Anna's house
 <div class="qlang-split" data-lang="en"></div>
 
 
-How Roby had folded the sheet given the hole.
+*As Roby had folded the sheet with the hole*
 
 ![[src_kangourou_2017_ecolier_marzo__prob11.png]]
 
-> Roby folded a sheet of paper, then made a single hole in the paper folded in this way; finally, he opened the sheet of paper. See the result in the figure below. How did Roby fold the paper? A)
-> 	
-> B)
-> 	
-> C)
-> 	
-> D)
-> 	
+> Roby folded a sheet of paper, then made a single hole in the folded paper; finally, he unfolded the sheet of paper. See the result in the figure beside. How had Roby folded the sheet of paper?
+> A) 	
+>
+> B) 	
+>
+> C) 	
+>
+> D) 	
+>
 > E)
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q11|src_kangourou_2017_ecolier_marzo__Q11]]
 
 
 
@@ -615,19 +682,25 @@ How Roby had folded the sheet given the hole.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum boys to sign up for six equal teams*
+*Minimum number of kids to enroll for six equal teams*
 
-> A pool has organized a team tournament. First, 13 boys enrolled, then 19 more. Six teams are needed for the tournament, all with the same number of members. If you want all the boys already enrolled to participate, what is the minimum number of boys who still need to sign up so that the six teams can be formed? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> A swimming pool has organized a team tournament. First, 13 boys signed up, then another 19. The tournament requires six teams, all with the same number of members. If all the boys who have already signed up are to take part, what is the minimum number of additional boys who must sign up for the six teams to be formed?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q12|src_kangourou_2017_ecolier_marzo__Q12]]
 
 
 
@@ -689,7 +762,7 @@ How Roby had folded the sheet given the hole.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of a 2x2 square in the 4x4 grid*
+*Maximum sum of a 2x2 square in a 4x4 grid*
 
 ![[src_kangourou_2017_ecolier_marzo__prob13.png]]
 
@@ -717,17 +790,23 @@ How Roby had folded the sheet given the hole.
 \end{document}
 ```
 
-> The figure shows a 4x4 grid: numbers were inserted into each cell. Look in that grid for a 2x2 square so that the sum of the numbers in its four cells is as large as possible. How much is that? A) 11
-> 	
-> B) 12
-> 	
-> C) 13
-> 	
-> D) 14
-> 	
+> The figure shows a 434-square grid: numbers have been placed in each of its cells. In this grid, find the 232-square such that the sum of the numbers in its four cells is as large as possible. What is the value of this sum?
+> A) 11	
+>
+> B) 12	
+>
+> C) 13	
+>
+> D) 14	
+>
 > E) 15
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q13|src_kangourou_2017_ecolier_marzo__Q13]]
 
 
 
@@ -765,20 +844,26 @@ How Roby had folded the sheet given the hole.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum minutes to cook 5 dishes on two ovens*
+*Minimum minutes to cook 5 dishes on two stoves*
 
-> David wants to cook five dishes and has only two ovens. Each meal has a different cooking time: 40, 15, 35, 10 and 45 minutes. What is the minimum number of minutes David needs to finish the job? Note that David cannot take a dish off the heat unless the whole cooking time has elapsed. A) 60
-> 	
-> B) 70
-> 	
-> C) 75
-> 	
-> D) 80
-> 	
-> E) 85
+> Davide wants to cook 5 dishes and has only two stovetops available. Each dish has a cooking time different from that of all the others: 40, 15, 35, 10, and 45 minutes. What is the minimum number of minutes Davide needs to finish the job? Keep in mind that Davide cannot remove a dish from the heat unless the entire cooking time has elapsed.
+> A) 60	
+>
+> B) 70	
+>
+> C) 75	
+>
+> D) 80	
+>
+> E) 85 
 >
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q14|src_kangourou_2017_ecolier_marzo__Q14]]
 
 
 
@@ -814,21 +899,27 @@ How Roby had folded the sheet given the hole.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the circle with the question mark (operation chain)*
+*Number in the circle with the question mark (chain of operations)*
 
 ![[src_kangourou_2017_ecolier_marzo__prob15.png]]
 
-> What number must be written in the circle containing the question mark? A) 10
-> 	
-> B) 11
-> 	
-> C) 12
-> 	
-> D) 13
-> 	
+> What number should be written in the circle containing the question mark?
+> A) 10	
+>
+> B) 11	
+>
+> C) 12	
+>
+> D) 13	
+>
 > E) 14
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q15|src_kangourou_2017_ecolier_marzo__Q15]]
 
 
 
@@ -869,21 +960,27 @@ How Roby had folded the sheet given the hole.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers under the two spots on the plan*
+*Sum of the numbers beneath the two marks on the map*
 
 ![[src_kangourou_2017_ecolier_marzo__prob16.png]]
 
-> The figure shows a construction made of overlapping wooden cubes and a plan of the same construction. For every square of the plan, the number that appears indicates how many cubes are above that square. Two ink stains fell on the plan. What's the sum of the numbers under the stains? A) 5
-> 	
-> B) 4
-> 	
-> C) 6
-> 	
-> D) 3
-> 	
-> E) 7 Questions from N. 17 to N. 24 are worth five points each.
+> The figure shows a structure made of wooden cubes stacked and placed side by side, along with a plan of the same structure. For each square on the plan, the number shown there indicates how many cubes are above that square. Two ink blots have fallen on the plan. What is the sum of the numbers under the blots?
+> A) 5	
+>
+> B) 4	
+>
+> C) 6	
+>
+> D) 3	
+>
+> E) 7
+> Questions 17 to 24 are each worth 5 points.
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q16|src_kangourou_2017_ecolier_marzo__Q16]]
 
 
 
@@ -930,7 +1027,7 @@ How Roby had folded the sheet given the hole.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Squares for doubling the perimeter of a rectangle 1x10*
+*Squares to double the perimeter of a 1x10 rectangle*
 
 ![[src_kangourou_2017_ecolier_marzo__prob17.png]]
 
@@ -945,17 +1042,22 @@ How Roby had folded the sheet given the hole.
 \end{document}
 ```
 
-> A rectangle has sides 1 cm and 10 cm long (as suggested by the figure). By how many squares of side 1 cm must it be extended to obtain a rectangle with double the perimeter? A) 9
-> 	
-> B) 10
-> 	
-> C) 11
-> 	
-> D) 12
-> 	
+> A rectangle has sides measuring 1 cm and 10 cm (as suggested by the figure). By how many 1-cm-sided squares must it be extended to obtain a rectangle with twice the perimeter?
+> A) 9	
+>
+> B) 10	
+>
+> C) 11	
+>
+> D) 12	
+>
 > E) 20
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q17|src_kangourou_2017_ecolier_marzo__Q17]]
 
 
 
@@ -986,15 +1088,23 @@ How Roby had folded the sheet given the hole.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many metres is the train long? (340 m and 110 m)*
+*How many meters long is the train? (340 m and 110 m)*
 
 ![[src_kangourou_2017_ecolier_marzo__prob18.png]]
 
-> How long is the train? A) 55
-> 	
-> B) 115 C) 170 D) 220 E) 230
+> How many meters long is the train?
+> A) 55	
+>
+> B) 115	 	
+> C) 170	 	
+> D) 220	 	
+> E) 230
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q18|src_kangourou_2017_ecolier_marzo__Q18]]
 
 
 
@@ -1051,14 +1161,25 @@ How Roby had folded the sheet given the hole.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Time limit to leave home and arrive at the choir on time
+*Deadline for leaving home and getting to the choir on time*
 
-> The choir rehearsals begin at 5 p.m. and, to get there, Giorgio has to take the bus. He knows that: • he needs 5 minutes to get from his home to the bus stop; • from 6:15 a.m. onwards, the bus passes through that stop every 10 minutes; • the bus journey takes 15 minutes; • he needs another 5 minutes to get from the bus stop to the choir. At what time, at the latest, must he leave his home to be sure to arrive on time for the rehearsal? A) 16:20 B) 16:25 C) 16:30 D) 16:35 E) 16:45 ? +4 -15
->  
+> Choir rehearsals start at 5 p.m., and to get there, Giorgio has to take the bus. He knows that: • it takes him 5 minutes to get from his house to the bus stop; • from 6:15 a.m. onward, the bus passes that stop every 10 minutes; • the bus ride lasts 15 minutes; • it takes him another 5 minutes to get from the bus stop to the choir venue. At what time, at the latest, must he leave his house to be sure of arriving at the rehearsals on time?
+> A) 16:20	
+> B) 16:25	
+> C) 16:30	
+> D) 16:35	
+> E) 16:45
+> ? +4 -15
+>
 > x4 x0 +6 3 4 1 1 3 1 1 340 m 110 m
 >
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q19|src_kangourou_2017_ecolier_marzo__Q19]]
 
 
 
@@ -1093,19 +1214,25 @@ Time limit to leave home and arrive at the choir on time
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to see two newborns without starting with the lion*
+*Ways of looking at two newborns without starting with the lion*
 
-> A giraffe, an elephant, a lion and a bear were born recently at the zoo. Susanna has little time, but she wants to go see two different babies, but not start with the lion. How many different ways can you proceed? A) 3
-> 	
-> B) 7
-> 	
-> C) 8
-> 	
-> D) 9
-> 	
+> At the zoo, a giraffe, an elephant, a lion, and a bear were born recently. Susanna doesn't have much time, but she wants to go and see two different newborns—without starting with the lion. In how many different ways can she proceed?
+> A) 3	
+>
+> B) 7	
+>
+> C) 8	
+>
+> D) 9	
+>
 > E) 12
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q20|src_kangourou_2017_ecolier_marzo__Q20]]
 
 
 
@@ -1141,19 +1268,24 @@ Time limit to leave home and arrive at the choir on time
 <div class="qlang-split" data-lang="en"></div>
 
 
-The guy who ate the most small pizzas.
+*Pizzettes of the boy who ate the most of them*
 
-> Four brothers ate a total of 11 small pizzas. Each of them ate at least one and none of them ate the same number of small pizzas. Three of them ate a total of nine small pizzas and one of them ate exactly three small pizzas. How many small pizzas did the boy who ate the most eat? A) 3
-> 	
-> B) 4
-> 	
-> C) 5
-> 	
-> D) 6
-> 	
+> Four brothers ate a total of 11 small pizzas. Each of them ate at least one, and none of them ate the same number of small pizzas. Three of them ate a total of 9 small pizzas, and one of them ate exactly 3 small pizzas. How many small pizzas did the boy who ate the most eat?
+> A) 3	
+>
+> B) 4	
+>
+> C) 5	
+>
+> D) 6	
+>
 > E) 7
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q21|src_kangourou_2017_ecolier_marzo__Q21]]
 
 
 
@@ -1212,7 +1344,7 @@ The guy who ate the most small pizzas.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many smileys did Lilli hide (neighboring cells)*
+*How many little smiley faces has Lilli hidden (the neighboring ones)?*
 
 ![[src_kangourou_2017_ecolier_marzo__prob22.png]]
 
@@ -1236,23 +1368,22 @@ The guy who ate the most small pizzas.
 \end{document}
 ```
 
-> In the figure you see a table divided into cells: if they have in common 
-> a side or even just a vertex we will say that the two cells are neigh­
-> boring. In some of the cells Lilli drew a smiley       and in 
-> some of the other cells she wrote the total number of smileys that are 
-> in the neighboring cells. Then she covered with small cards all the 
-> cells that do not contain numbers. How many smileys did Lilli hide?
+> In the figure, you see a table divided into cells: if two cells share a side or even just a vertex, we will say that the two cells are adjacent. In some of the cells, Lilli drew a smiley face, and in some of the other cells she wrote the total number of smiley faces that are in the adjacent cells. Then she covered all the cells that do not contain numbers with little cardboard pieces. How many smiley faces did Lilli hide?
 > A) 4	
-> 	
+>
 > B) 5	
-> 	
+>
 > C) 7	
-> 	
+>
 > D) 8	
-> 	
+>
 > E) 11
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q22|src_kangourou_2017_ecolier_marzo__Q22]]
 
 
 
@@ -1287,19 +1418,24 @@ The guy who ate the most small pizzas.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coins received by Enzo (sacks 1 to 10)*
+*Coins that went to Enzo (bags of 1 to 10)*
 
-> There were ten bags on the table, each containing a different number of chocolate coins, from 1 to 10. Grandma gave each of the five grandchildren two bags of coins. Alex has five coins, Ben 7, Claudius 9, and Darius 15. How many chocolate coins did Enzo receive? A) 9
-> 	
-> B) 11
-> 	
-> C) 13
-> 	
-> D) 17
-> 	
+> There were ten bags on the table: each contained a different number of chocolate coins, from 1 to 10. The grandmother gave each of the five grandchildren two bags of coins. So Alex got 5 coins, Ben got 7, Claudio got 9, and Dario got 15. How many chocolate coins did Enzo get?
+> A) 9	
+>
+> B) 11	
+>
+> C) 13	
+>
+> D) 17	
+>
 > E) 19
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q23|src_kangourou_2017_ecolier_marzo__Q23]]
 
 
 
@@ -1341,13 +1477,23 @@ The guy who ate the most small pizzas.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many possible third shapes for the rectangle 12 squares*
+*How many possible third shapes are there for the rectangle made of 12 small squares?*
 
 ![[src_kangourou_2017_ecolier_marzo__prob24.png]]
 
-> Sarah has so many cardboard shapes: each shape is made up of four equal squares. By closely matching three of these shapes (but without overlaps) she constructed a rectangle formed by 12 equal squares. Two of the shapes are the same and have the shape you see on the side. How many of the following shapes can be the third shape? A) none B) one C) two D) three
-> 	
-> E) all 3 3 2 2 1
+> Sara has many cardboard shapes: each shape is made up of four identical small squares. By placing three of these shapes close together properly (but without overlapping them), she has formed a rectangle made up of 12 identical small squares. Two of the shapes are identical and have the shape you see on the side. How many of the shapes below can be the third shape?
+> A) none
+> B) one
+> C) due
+> D) tre
+>
+> E) all of them
+> 3 3 2 2 1
 >
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_ecolier_marzo#q24|src_kangourou_2017_ecolier_marzo__Q24]]

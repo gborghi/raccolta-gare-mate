@@ -30,7 +30,13 @@ level: kangourou
 
 *fair or advantageous, for whom*
 
-> Andrea and Giulio play dice as follows. Together they roll six dice (traditional, fair): if a 3 comes up on at least one die, Andrea earns one euro from Giulio; otherwise, Giulio earns two euros from Andrea. Is it a fair game or is it advantageous for one of the two? In this second possible case, for whom?
+> Andrea and Giulio play a dice game in the following way. Together, they roll six (traditional, fair) dice: if a 3 comes up on at least one die, Andrea wins one euro from Giulio; otherwise, Giulio wins two euros from Andrea. Is it a fair game, or is it advantageous to one of the two? In this second possible case, to whom?
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2023_student_finale#qs1|src_kangourou_2023_student_finale__QS1]]
 
 
 
@@ -55,11 +61,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of liars on an island in 15 regions
+*Maximum number of liars on an island with 15 regions*
 
 ![[src_kangourou_2023_student_finale__probs2.png]]
 
-> One island is divided into 15 regions as shown in the figure. In every region there is one and only one inhabitant who either always tells the truth or always lies. Each resident says, "There is at least one person among my neighbours who lies all the time". What is the maximum possible number of inhabitants who always lie? (Two inhabitants are neighbours when their regions share a segment of their edge, not necessarily an entire side of either one.) (see figure)
+> An island has been divided into 15 regions as shown in the figure. In each region, there lives exactly one inhabitant who either always tells the truth or always lies. Each inhabitant states: "Among my neighbors, there is at least one person who always lies." What is the maximum possible number of inhabitants who always lie? (Two inhabitants are considered neighbors when their regions share a line segment of their boundary—not necessarily an entire side of either region.) (see figure)
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2023_student_finale#qs2|src_kangourou_2023_student_finale__QS2]]
 
 
 
@@ -81,9 +94,15 @@ Maximum number of liars on an island in 15 regions
 <div class="qlang-split" data-lang="en"></div>
 
 
-*There exists a polyhedron with every plane section a triangle*
+*There exists a polyhedron whose every planar section is a triangle*
 
-> Mark claims to have managed to build a polyhedron (not degenerate) such that each of its plane sections is a triangle (possibly degenerate). Can we believe him?
+> Marco claims to have managed to construct a (non-degenerate) polyhedron such that every one of its planar sections is a triangle (possibly degenerate). Can we believe him?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_student_finale#qs3|src_kangourou_2023_student_finale__QS3]]
 
 
 
@@ -106,9 +125,16 @@ Maximum number of liars on an island in 15 regions
 <div class="qlang-split" data-lang="en"></div>
 
 
-Characterizing n with p^2+n divisible by 40, p prime>5*
+*Characterize n such that p^2 + n is divisible by 40, where p is a prime greater than 5*
 
-> If $n$ is an integer with $0 \leq n < 40$ and $p$ a prime number greater than $5$, such that $p^2 + n$ is divisible by $40$. What can be said about $n$?
+> Let $n$ be an integer with $0 \leq n < 40$, and let $p$ be a prime number greater than $5$, such that $p^2 + n$ is divisible by $40$. What can be said about $n$?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student_finale#qs4|src_kangourou_2023_student_finale__QS4]]
 
 
 
@@ -137,7 +163,14 @@ Characterizing n with p^2+n divisible by 40, p prime>5*
 
 ![[src_kangourou_2023_student_finale__probs5.png]]
 
-> Assigned $n$ distinct points in the plane ($n \geq 2$), what can be said, when $n$ varies, about the number of pairs of such points that reach the maximum possible distance?
+> Given $n$ distinct points in the plane ($n \geq 2$), what can be said, as $n$ varies, about the number of pairs of such points that achieve the maximum possible distance?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_student_finale#qs5|src_kangourou_2023_student_finale__QS5]]
 
 
 
@@ -164,4 +197,13 @@ Characterizing n with p^2+n divisible by 40, p prime>5*
 
 *Inequality between sums of squares with non-increasing sequences*
 
-> Let $n$ be a fixed positive integer and $\{a_1, a_2, \ldots, a_n\}$, $\{b_1, b_2, \ldots, b_n\}$ two sequences of non-negative numbers such that $a_1 + a_2 + \cdots + a_k \geq b_1 + b_2 + \cdots + b_k$ for each $k$ between $1$ and $n$ inclusive. Show that it is not necessarily true that $$a_1^2 + a_2^2 + \cdots + a_n^2 \geq b_1^2 + b_2^2 + \cdots + b_n^2,$$ but that this second inequality certainly holds if both sequences are non-increasing.
+> Let $n$ be a fixed positive integer, and let $\{a_1, a_2, \ldots, a_n\}$ and $\{b_1, b_2, \ldots, b_n\}$ be two sequences of non-negative numbers such that $a_1 + a_2 + \cdots + a_k \geq b_1 + b_2 + \cdots + b_k$ for every $k$ between $1$ and $n$ inclusive. Show that it is not necessarily the case that one has
+> $$a_1^2 + a_2^2 + \cdots + a_n^2 \geq b_1^2 + b_2^2 + \cdots + b_n^2,$$
+> But this second inequality certainly holds if both sequences are non-increasing.
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2023_student_finale#qs6|src_kangourou_2023_student_finale__QS6]]

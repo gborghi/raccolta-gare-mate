@@ -39,21 +39,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many marks on the snow pole*
+*How many notches on the snow pole?*
 
-> A pole for measuring the height of snow is 3 meters long and has a mark every 15
-> centimeters starting from the ends (which have no marks). How many marks are on the pole?
+> A pole for measuring snow depth is 3 meters long and has a mark every 15 centimeters starting from the ends (which have no marks). How many marks are there on the pole?
 > A) 20	
-	
+>
 > B) 12	
-	
+>
 > C) 21	
-	
+>
 > D) 15	
-	
+>
 > E) 19
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q01|src_kangourou_2018_cadet_marzo__Q01]]
 
 
 
@@ -83,18 +86,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which word has the same symmetry as MAMMA*
+*Which word has the same symmetry as MAMMA?*
 
-> Writing the word MAMMA vertically, as in the figure, one sees that the word has
-> a symmetry with respect to a vertical line. Which of the following words, written
-> vertically, has the same type of symmetry?
-> A) BOCCE	
-> B) NONNO	
-> C) AVEVA	
+> When the word MAMMA is written vertically, as in the figure, it can be seen that the word exhibits symmetry with respect to a vertical line. Which of the following words, when written vertically, exhibits the same type of symmetry?
+> A) BOCCE
+> B) GRANDPA
+> C) AVEVA
 > D) LATTA
-> E) VUOTI
+> E) EMPTY SPACES
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q02|src_kangourou_2018_cadet_marzo__Q02]]
 
 
 
@@ -126,17 +131,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number to be replaced by asterisk*
+*Number to replace the asterisk*
 
-> If you want it to be true, what number do you have to replace with the asterisk in the equation 2 × 18 × 14 = 6 × * × 7? A) 8
-> 	
-> B) 9
->  	
-> C) 10 D) 12
-> 	
+> If you want it to be true, what number must you substitute for the asterisk in the equation 2 × 18 × 14 = 6 × * × 7?
+> A) 8	
+>
+> B) 9	
+>
+> C) 10    	 	
+> D) 12	
+>
 > E) 15
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q03|src_kangourou_2018_cadet_marzo__Q03]]
 
 
 
@@ -170,19 +181,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Uncle-Alice's report on his sixth birthday*
+*Rapporto eta zio-Alice at the sixth birthday*
 
-> Alice and her uncle were born on the same day: on the day of Alice's fourth birthday, her uncle turns seven times his age. On the day of Alice's sixth birthday, the ratio of her uncle's age to Alice's will be A) 2.
-> 	
-> B) 3.
-> 	
-> C) 4.
-> 	
-> D) 5.
-> 	
+> Alice and her uncle were born on the same day: on the day of Alice's fourth birthday, her uncle is seven times her age. On the day of Alice's sixth birthday, the ratio of the uncle's age to Alice's age will be
+> A) 2.	
+>
+> B) 3.	
+>
+> C) 4.	
+>
+> D) 5.	
+>
 > E) 7.
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q04|src_kangourou_2018_cadet_marzo__Q04]]
 
 
 
@@ -221,19 +237,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many paths of the ball up to lane B*
+*How many paths can the ball take to lane B?*
 
 ![[src_kangourou_2018_cadet_marzo__prob5.png]]
 
-> The screen of an electronic game is shown in the figure. Each ball, falling on the first peg from the upper container, bounces on the peg immediately below to the right or left at random and then proceeds downward bouncing always randomly: in the figure you can see one of the possible paths of a ball. How many different paths can the ball take to get to lane B? A) 2
-> 	
-> B) 3
-> 	
-> C) 4
-> 	
-> D) 5 E) 6
+> The figure shows the screen of an electronic game. Each ball, when it falls from the container at the top onto the first peg, bounces off the peg immediately below it—either to the right or to the left—at random, and from there it moves downward, always bouncing at random: in the figure, you can see one of the possible paths a ball can take. How many different paths can the ball take to reach lane B?
+> A) 2	
+>
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+> E) 6
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q05|src_kangourou_2018_cadet_marzo__Q05]]
 
 
 
@@ -273,20 +296,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the rectangle large by nine rectangles*
+*Perimeter of the large rectangle made up of nine rectangles*
 
 ![[src_kangourou_2018_cadet_marzo__prob6.png]]
 
-> A large rectangle is made up of nine rectangles identical placed side by side as in the figure. If the larger side of each rectangle is 10 cm long, how many centimeters does the perimeter of the larger rectangle measure? A) 40
-> 	
-> B) 48
-> 	
-> C) 76
-> 	
-> D) 81 E) 90 M A M M
+> A large rectangle is made up of nine identical rectangles placed side by side as shown in the figure. If the longer side of each rectangle is 10 cm, how many centimeters is the perimeter of the large rectangle?
+> A) 40	
+>
+> B) 48	
+>
+> C) 76	
+>
+> D) 81 	
+> E) 90
+> M A M M
 >
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q06|src_kangourou_2018_cadet_marzo__Q06]]
 
 
 
@@ -316,11 +346,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-In what month could you have that thought?
+*In which month could one have had that thought?*
 
-> I remember thinking: "Exactly a month ago it was the same day of the week as two days ago." In which of the following months may I have had this thought? A) January B) February C) March D) April E) May
+> I remember thinking, "Exactly a month ago, it was the same day of the week as two days ago." In which of the following months could I have had this thought?
+> A) January
+> B) February
+> C) March
+> D) April
+> E) May
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q07|src_kangourou_2018_cadet_marzo__Q07]]
 
 
 
@@ -380,15 +420,21 @@ In what month could you have that thought?
 \end{document}
 ```
 
-> A rectangle 11 cm long and 7 cm wide contains two circles, each tangent to three of the four sides of the rectangle, as shown in the figure. What is the distance, in centimetres, between the centers of the two circles? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4 E) 5
+> A rectangle measuring 11 cm in length and 7 cm in width contains two circles, each of which is tangent to three of the rectangle's four sides, as shown in the figure. What is the distance, in centimetres, between the centres of the two circles?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4
+> E) 5
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q08|src_kangourou_2018_cadet_marzo__Q08]]
 
 
 
@@ -421,17 +467,23 @@ In what month could you have that thought?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What number is deleted because the sum is 2018*
+*Which number was deleted so that the sum is 2018?*
 
-> The following seven numbers were written on the board: 375, 388, 395, 400, 408, 428, 440. Two were deleted: the sum of the five remaining numbers is 2018. Which of the following is one of the two numbers Samuele deleted? A) 408
-> 	
-> B) 440
-> 	
-> C) 428 D) 375
-> 	
+> The following seven numbers were written on the blackboard: 375, 388, 395, 400, 408, 428, 440. Samuele erased two of them: the sum of the five remaining numbers is 2018. Which of the following is one of the two numbers erased by Samuele?
+> A) 408	
+>
+> B) 440	
+>
+> C) 428 	 	
+> D) 375	
+>
 > E) 395
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q09|src_kangourou_2018_cadet_marzo__Q09]]
 
 
 
@@ -491,7 +543,7 @@ In what month could you have that thought?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length DM dividing the square into equal areas*
+*Length of the diagonal that divides the square into equal areas*
 
 ![[src_kangourou_2018_cadet_marzo__prob10.png]]
 
@@ -517,17 +569,23 @@ In what month could you have that thought?
 \end{document}
 ```
 
-> The side of the ABCD square is 3 cm long. We have marked two points M and N on the AD and AB sides, respectively, so that the CM and BN segments divide the square into three figures with the same area. How long is the DM segment ? A) 0,5
-> 	
-> B) 1
-> 	
-> C) 1,5
-> 	
-> D) 2
-> 	
-> E) 2.5 Questions from N. 11 to N. 20 are worth 4 points each.
+> The side of square ABCD is 3 cm long. On side AD and side AB, respectively, we have marked two points, M and N, such that the line segments CM and BN divide the square into three figures of equal area. How many centimeters long is the line segment DM?
+> A) 0,5	
+>
+> B) 1	
+>
+> C) 1,5	
+>
+> D) 2	
+>
+> E) 2,5 
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q10|src_kangourou_2018_cadet_marzo__Q10]]
 
 
 
@@ -564,21 +622,27 @@ In what month could you have that thought?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of the three digits deleted in multiplication*
+*Sum of the three digits cancelled in the multiplication*
 
 ![[src_kangourou_2018_cadet_marzo__prob11.png]]
 
-> Martha correctly multiplied two two-digit numbers and then, as shown in the figure, deleted three digits. What is the sum of these digits? A) 5
-> 	
-> B) 6
-> 	
-> C) 9
-> 	
-> D) 12
-> 	
+> Marta correctly multiplied two two-digit numbers together and then, as shown in the figure, erased three digits. What is the sum of those digits?
+> A) 5	
+>
+> B) 6	
+>
+> C) 9 	
+>
+> D) 12	
+>
 > E) 14
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q11|src_kangourou_2018_cadet_marzo__Q11]]
 
 
 
@@ -613,19 +677,25 @@ In what month could you have that thought?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of uncolored squares in the rectangle*
+*How many uncolored squares are there in the rectangle?*
 
-> A rectangle is divided into 40 identical squares. The rectangle contains more than one row of squares. Andrea found the center line of squares and colored it. How many squares did he not color? A) 20
-> 	
-> B) 30
-> 	
-> C) 32
-> 	
-> D) 35
-> 	
+> A rectangle is divided into 40 identical small squares. The rectangle contains more than one row of small squares. Andrea found the middle row of squares and colored it. How many squares did Andrea not color?
+> A) 20	
+>
+> B) 30	
+>
+> C) 32	
+>
+> D) 35 	
+>
 > E) 36
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q12|src_kangourou_2018_cadet_marzo__Q12]]
 
 
 
@@ -662,20 +732,25 @@ In what month could you have that thought?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum copies to be weighed for the desired precision*
+*Minimum number of copies to weigh for the desired precision*
 
-> Philip wants to know the weight of a book less than half a gram (i.e. he accepts a measurement that differs from the real one by a maximum of half a gram). However, he has at his disposal a scale which provides a measure with an error of not more than 10 grams. What is the smallest number of identical copies of that book that Philip has to weigh together to be sure he has the desired accuracy? A) 5
-> 	
-> B) 10
-> 	
-> C) 15
-> 	
-> D) 20
-> 	
-> E) 50
+> Filippo wants to determine the weight of a book to within less than half a gram (that is, he is willing to obtain a measurement that differs from the true value by at most half a gram). However, he has access to a scale that gives a measurement with a maximum error of 10 grams. What is the smallest number of identical copies of that book that Filippo must weigh together in order to be certain of obtaining the measurement with the desired precision?
+> A) 5	
+>
+> B) 10	
+>
+> C) 15	
+>
+> D) 20	
+>
+>  E) 50
 >
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q13|src_kangourou_2018_cadet_marzo__Q13]]
 
 
 
@@ -709,15 +784,23 @@ In what month could you have that thought?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Behind which door is the lion with only one true sign
+*Behind which door is the lion with only one real sign?*
 
-> Behind three closed doors there are three rooms: in one there is a lion hidden. A sign on the first door says: "The lion is here"; a sign on the second door says: "The lion is not here"; a sign on the third door says: "2 + 3 = 2 × 3". If only one of the signs is telling the truth, which door is the lion hiding behind? A) The first.
-> 	
-> B) The second.
-> 	
-> C) The third. D) The data on the problem are contradictory. E) There is not enough information to answer.
+> Behind three closed doors there are three rooms: in one of them, a lion is hidden. A sign on the first door says, "The lion is here"; a sign on the second door says, "The lion is not here"; a sign on the third door says, "2 + 3 = 2 × 3". If only one of the signs is true, behind which door is the lion hiding?
+> A) The first one.
+>
+> B) The second one.
+>
+> C) The third.
+> D) The data in the problem are contradictory.
+> E) There is insufficient information to answer.
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q14|src_kangourou_2018_cadet_marzo__Q14]]
 
 
 
@@ -755,21 +838,26 @@ Behind which door is the lion with only one true sign
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the alpha angle in the zigzag line*
+*Measurement of angle alpha in the zigzag line*
 
 ![[src_kangourou_2018_cadet_marzo__prob15.png]]
 
-> Valerio has drawn a zigzag line from one side of a rectangle to the other. As can be seen in the figure, the segments form, between themselves or with the sides of the rectangle, five angles, four of which measure 10, 14, 33 and 26 degrees. How many degrees does the angle a measure? A) 11
-> 	
-> B) 12
-> 	
-> C) 16
-> 	
-> D) 17
-> 	
+> Valerio drew a zigzag line from one side of a rectangle to the opposite side. As can be seen in the figure, the line segments form, either among themselves or with the sides of the rectangle, five angles, four of which measure 10, 14, 33, and 26 degrees. How many degrees does angle a measure?
+> A) 11	
+>
+> B) 12	
+>
+> C) 16	
+>
+> D) 17	
+>
 > E) 33
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q15|src_kangourou_2018_cadet_marzo__Q15]]
 
 
 
@@ -804,19 +892,25 @@ Behind which door is the lion with only one true sign
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which prime is certainly included in the list*
+*Which first one certainly belongs to the list*
 
-> Alice wants to write a list of prime numbers less than 100, using each of the digits 1, 2, 3, 4 and 5 exactly once and without using any other digits. Which prime number is definitely on her list? A) 2
-> 	
-> B) 5
-> 	
-> C) 31
-> 	
-> D) 41
-> 	
+> Alice wants to write a list of prime numbers less than 100, using each of the digits 1, 2, 3, 4, and 5 exactly once and using no other digits. Which prime number must certainly be on her list?
+> A) 2	
+>
+> B) 5	
+>
+> C) 31	
+>
+> D) 41	
+>
 > E) 53
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q16|src_kangourou_2018_cadet_marzo__Q16]]
 
 
 
@@ -851,19 +945,25 @@ Behind which door is the lion with only one true sign
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum days for two consecutive days of sunshine*
+*Minimum days for two consecutive sunny days*
 
-> The advertisement for a hotel on an island in the Caribbean reads: 350 days of sunshine a year! If the advertisement's claim is true, how many days at least is it enough for Gianni Scottato to stay at the hotel in 2018, if he wants to be sure he has two consecutive days of sunshine? A) 17
-> 	
-> B) 21
-> 	
-> C) 31
-> 	
-> D) 32
-> 	
+> The advertisement for a hotel on a Caribbean island reads: "350 sunny days a year!" If the claim in the advertisement is true, for at least how many days must Gianni Scottato stay at the hotel in 2018 if he wants to be certain of having two consecutive sunny days?
+> A) 17	
+>
+> B) 21	
+>
+> C) 31	
+>
+> D) 32	
+>
 > E) 35
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q17|src_kangourou_2018_cadet_marzo__Q17]]
 
 
 
@@ -900,19 +1000,25 @@ Behind which door is the lion with only one true sign
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the rectangle given by the two shaded triangles*
+*Area of the rectangle given the two shaded triangles*
 
 ![[src_kangourou_2018_cadet_marzo__prob18.png]]
 
-> In the drawing a rectangle and a straight line r parallel to its major side are represented. Points A and B belong to r. The sum of the areas of the two shaded triangles is 10 cm2. How many square centimetres does the area of the rectangle measure? A) 18
-> 	
-> B) 20
-> 	
-> C) 22
-> 	
-> D) 24 E) Depends on the position of A and B on r
+> The diagram shows a rectangle and a line r parallel to its longer side. Points A and B lie on r. The sum of the areas of the two shaded triangles is 10 cm². What is the area of the rectangle in square centimetres?
+> A) 18	
+>
+> B) 20	
+>
+> C) 22	
+>
+> D) 24	
+> E) It depends on the positions of A and B on r
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q18|src_kangourou_2018_cadet_marzo__Q18]]
 
 
 
@@ -947,19 +1053,25 @@ Behind which door is the lion with only one true sign
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Missing sum in table 3x3 with integers 1-9*
+*Missing sum in the 3x3 table with integers from 1 to 9*
 
-> James wrote in each box of a 3 × 3 table a different integer from 1 to 9. Then he calculated the sum of the integers in each row and column of the table. Five of the six results (in unspecified order) are 12, 13, 15, 16 and 17. What's the missing sum? A) 17
-> 	
-> B) 16
-> 	
-> C) 15
-> 	
-> D) 14
-> 	
+> Giacomo wrote a different integer from 1 to 9 in each cell of a 3 × 3 table. Then he calculated the sum of the integers in each row and each column of the table. Five of the six results (in unspecified order) are 12, 13, 15, 16, and 17. What is the missing sum?
+> A) 17	
+>
+> B) 16	
+>
+> C) 15	
+>
+> D) 14	
+>
 > E) 13
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q19|src_kangourou_2018_cadet_marzo__Q19]]
 
 
 
@@ -1004,21 +1116,27 @@ Behind which door is the lion with only one true sign
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between the first and second point*
+*Distance between the first and second points*
 
-> Betta scored 11 points on a horizontal line. The sum of the distances between the first point from the left and each of the other points is 2018 cm. The sum of the distances of the second point to the left from each of the other points, including the first point, is 2000 cm. How many centimeters does the distance between the first and second point measure? A) 18
-> 	
-> B) 9
-> 	
-> C) 6
-> 	
-> D) 3
-> 	
-> E) 2 10° 14° 33° 26° α A B r
-> 
-> The questions from N. 21 to N. 30 are worth 5 points each.
+> Betta marked eleven points on a horizontal line. The sum of the distances from the first point on the left to each of the other points is 2018 cm. The sum of the distances from the second point on the left to each of the other points, including the first one, is 2000 cm. How many centimeters is the distance between the first and the second point?
+> A) 18	
+>
+> B) 9	
+>
+> C) 6	
+>
+> D) 3	
+>
+> E) 2
+> 10° 14° 33° 26° α A B r
+>
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q20|src_kangourou_2018_cadet_marzo__Q20]]
 
 
 
@@ -1053,19 +1171,24 @@ Behind which door is the lion with only one true sign
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N value for Amalia to win*
+*Value of N for Amalia to win*
 
-> 130 people voted for the parents' representative on the Institute's board, each for only one of the three candidates: Simone, Carlo and Amalia. At some point in the counting of the ballots the preferences for Simone are 24, for Carlo 29 and for Amalia 37 and the chairman of the polling station notes: If Amalia still receives at least N votes, she wins. How much is N ? A) 13
-> 	
-> B) 14
->  	
-> C) 15
-> 	
-> D) 16
-> 	
+> In the election for the parent representative on the school council, 130 people voted, each for only one of the three candidates: Simone, Carlo, and Amalia. At a certain point during the vote count, Simone has 24 votes, Carlo has 29, and Amalia has 37; the presiding officer of the polling station remarks, "If Amalia gets at least N more votes, she wins." What is the value of N?
+> A) 13	
+>
+> B) 14	
+>
+> C) 15	
+>
+> D) 16	
+>
 > E) 17
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q21|src_kangourou_2018_cadet_marzo__Q21]]
 
 
 
@@ -1102,19 +1225,25 @@ Behind which door is the lion with only one true sign
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Box volume from the development plan*
+*Box volume from the flat pattern*
 
 ![[src_kangourou_2018_cadet_marzo__prob22.png]]
 
-> The figure shows the net of a rectangular-based box and the sum of the measures, in centimetres, of some of its edges. How many cubic centimeters does the volume of the box measure? A) 43
-> 	
-> B) 70
-> 	
-> C) 80 D) 100
-> 	
+> The figure shows the net of a box with a rectangular base and the sum, in centimeters, of the lengths of some of its edges. What is the volume of the box in cubic centimeters?
+> A) 43 	
+>
+> B) 70	
+>
+> C) 80
+> D) 100	
+>
 > E) 1820
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q22|src_kangourou_2018_cadet_marzo__Q22]]
 
 
 
@@ -1152,19 +1281,26 @@ Behind which door is the lion with only one true sign
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in cell x of the edge of the table*
+*Number in cell x on the table border*
 
 ![[src_kangourou_2018_cadet_marzo__prob23.png]]
 
-> Rita wrote a number (relative whole) in each of the cells on the edge of a table 5 × 6. The number written in each cell is equal to the sum of the numbers written in the cells that share a side with it. In the figure, you see two of the numbers she wrote. What number did she write in the cell marked with x? A) 10
-> 	
-> B) 7
-> 	
-> C) 13
-> 	
-> D) – 13 E) – 3
+> Rita wrote a (signed integer) number in each of the cells on the edge of a 5 × 6 table. The number written in each cell is equal to the sum of the numbers written in the cells that share a side with it. In the figure, you can see two of the numbers she wrote. What number did she write in the cell marked x?
+> A) 10 	
+>
+> B) 7 	
+>
+> C) 13 	
+>
+> D) – 13 	 	
+> E) – 3
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q23|src_kangourou_2018_cadet_marzo__Q23]]
 
 
 
@@ -1203,21 +1339,26 @@ Behind which door is the lion with only one true sign
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many metres wide is the pool*
+*How many meters long and wide is the pool?*
 
 ![[src_kangourou_2018_cadet_marzo__prob24.png]]
 
-> Stefano and Giovanni are having a contest. Stefano runs around the pool shown in the figure, while Giovanni swims along the larger side of the pool. Stefano runs three times as fast as Giovanni swims. Giovanni crosses the pool six times by swimming at the same time as Stefano runs around the pool five times. How wide is the pool? A) 25
-> 	
-> B) 30
-> 	
-> C) 35
-> 	
-> D) 40
-> 	
+> Stefano and Giovanni are having a race. Stefano runs around the pool shown in the figure, while Giovanni swims along the longer side of the pool. Stefano runs three times faster than Giovanni swims. In the same time it takes Stefano to run around the pool five times, Giovanni swims across the pool six times. How many meters wide is the pool?
+> A) 25	
+>
+> B) 30	
+>
+> C) 35	
+>
+> D) 40	
+>
 > E) 45
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q24|src_kangourou_2018_cadet_marzo__Q24]]
 
 
 
@@ -1251,19 +1392,24 @@ Behind which door is the lion with only one true sign
 <div class="qlang-split" data-lang="en"></div>
 
 
-How much did Adele spend?
+*How many euros has Adele spent?*
 
-> Adele, Beatrice and Cecilia went shopping. Beatrice spent only 15% of what Cecilia spent, while Adele spent 60% more than Cecilia. All together they spent 55 euros. How much did Adele spend? A) 3
-> 	
-> B) 20
-> 	
-> C) 25
-> 	
-> D) 26
-> 	
+> Adele, Beatrice, and Cecilia went shopping. Beatrice spent only 15% of what Cecilia spent, while Adele spent 60% more than Cecilia. Together, they spent 55 euros. How many euros did Adele spend?
+> A) 3	
+>
+> B) 20	
+>
+> C) 25	
+>
+> D) 26	
+>
 > E) 32
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q25|src_kangourou_2018_cadet_marzo__Q25]]
 
 
 
@@ -1305,14 +1451,24 @@ How much did Adele spend?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular dimensions given the area of the dove*
+*Dimensions of the rectangle given the area of the dove*
 
 ![[src_kangourou_2018_cadet_marzo__prob26.png]]
 
-> By connecting a few nodes of a square grid with segments and arcs of circles, Federica drew the stylized dove you see in the figure and then colored the dove and the rectangular background differently. If the area of the part of the drawing occupied by the dove is 192 cm2, what are the dimensions in centimetres of the two sides of the rectangle? A) 6 × 4 B) 12 × 8 C) 20 × 12 D) 24 × 16 E) 30 × 20 26 cm 7 cm 10 cm x 50 m ?
+> By connecting some nodes of a square-mesh grid with line segments and circular arcs, Federica drew the stylized dove you see in the figure and then colored the dove and the rectangular background differently. If the area of the part of the drawing occupied by the dove is 192 cm², what are the lengths, in centimeters, of the two sides of the rectangle?
+> A) 6 × 4	 	
+> B) 12 × 8		
+> C) 20 × 12	
+> D) 24 × 16	
+> E) 30 × 20
+> 26 cm 7 cm 10 cm x 50 m ?
 >
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q26|src_kangourou_2018_cadet_marzo__Q26]]
 
 
 
@@ -1342,11 +1498,20 @@ How much did Adele spend?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of next jump by average 3.82*
+*Length of the next jump for average 3.82*
 
-> Viola is training for the long jump. Today, the average length of jumps made so far is 3.80 meters. With a new jump of 3.99 m, her average jump has risen to 3.81 m. How long should her next jump be to bring his current average to 3.82 meters? A) 3,97 B) 4,00 C) 4,01 D) 4,03 E) 4,04
+> Viola is training for the long jump. Today, the average length of the jumps she has made so far is 3.80 m. With a new jump measuring 3.99 m, her average has risen to 3.81 m. How long should her next jump be in order to bring her average for today to 3.82 m?
+> A) 3,97	 	
+> B) 4,00	 	
+> C) 4,01	 	
+> D) 4,03	 	
+> E) 4,04
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q27|src_kangourou_2018_cadet_marzo__Q27]]
 
 
 
@@ -1410,7 +1575,7 @@ How much did Adele spend?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the LMN triangle within the equilateral*
+*Area of triangle LMN inside the equilateral triangle*
 
 ![[src_kangourou_2018_cadet_marzo__prob28.png]]
 
@@ -1439,17 +1604,23 @@ How much did Adele spend?
 \end{document}
 ```
 
-> The L, M and N points on the sides of the equilateral triangle ABC are fixed so that ML is perpendicular to AB, NM is perpendicular to BC and LN is perpendicular to CA. The ABC triangle has an area of 36 cm2. How many square centimetres does the area of the LMN triangle measure ? A) 9
-> 	
-> B) 12
-> 	
-> C) 15
-> 	
-> D) 16
-> 	
+> The points L, M, and N seen on the sides of equilateral triangle ABC were fixed so that ML is perpendicular to AB, NM is perpendicular to BC, and LN is perpendicular to CA. Triangle ABC has an area of 36 cm². What is the area of triangle LMN in square centimetres?
+> A) 9	
+>
+> B) 12	
+>
+> C) 15	
+>
+> D) 16	
+>
 > E) 18
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q28|src_kangourou_2018_cadet_marzo__Q28]]
 
 
 
@@ -1496,17 +1667,23 @@ How much did Adele spend?
 
 ![[src_kangourou_2018_cadet_marzo__prob29.png]]
 
-> In dominoes, two tiles are matched correctly if the halves of the two tiles that are in contact contain the same number of points. Six tiles are aligned as shown in the figure. The moves allowed to make sure that they are properly matched are of two types: swapping the position of two tiles (without rotating them) or rotating a tile by 180° (leaving it in the same position as the sequence). What is the minimum number of moves by which you can get all the tiles to be matched correctly? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
-> E) No sequence of moves allows the six tiles to be matched correctly.
+> In dominoes, two tiles are placed correctly next to each other if the halves of the two tiles that are in contact contain the same number of dots. Six tiles are arranged in a line as shown in the figure. The allowed moves for making them adjoin correctly are of two types: swapping the positions of two tiles (without rotating them), or rotating one tile by 180° (leaving it in the same position in the sequence). What is the minimum number of moves required to get all the tiles to adjoin correctly?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
+> E) No sequence of moves makes it possible to correctly bring the six tiles together.
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q29|src_kangourou_2018_cadet_marzo__Q29]]
 
 
 
@@ -1575,7 +1752,7 @@ How much did Adele spend?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the angle at vertex B of the isosceles triangle*
+*Measure of the angle at vertex B of the isosceles triangle*
 
 ![[src_kangourou_2018_cadet_marzo__prob30.png]]
 
@@ -1603,16 +1780,22 @@ How much did Adele spend?
 \end{document}
 ```
 
-> In the figure you see an isosceles triangle ABC of vertex B, on whose equal sides a point K and a point L have been fixed so that the three segments AK, KL and LB are congruent and BK is congruent to AC. How many degrees does the angle in vertex B measure ? A) 30
-> 	
-> B) 35
-> 	
-> C) 36
-> 	
-> D) 40
-> 	
+> In the figure, you see an isosceles triangle ABC with vertex B, on whose legs points K and L have been marked such that the three line segments AK, KL, and LB are congruent to one another and BK is congruent to AC. How many degrees does the angle at vertex B measure?
+> A) 30	
+>
+> B) 35	
+>
+> C) 36	
+>
+> D) 40	
+>
 > E) 44
-> 
+>
 > E E D D C C E D C
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_cadet_marzo#q30|src_kangourou_2018_cadet_marzo__Q30]]

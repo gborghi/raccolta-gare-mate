@@ -30,11 +30,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible 53 people with 11 handshakes each*
+*Whether each guest can shake hands with exactly 11 others*
 
-> There are 53 people at a party. Is it possible that each of them shakes hands with exactly 11 other guests? Justify the answer.
+> 53 people take part in a party. Is it possible that each of them shakes hands with exactly 11 other guests? Justify the answer.
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
 **Answer:** No
+[[Quesiti/src_kangourou_2003_student_finale#qs1|src_kangourou_2003_student_finale__QS1]]
 
 
 
@@ -59,13 +63,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many consecutive odds add up to 1600*
+*How many consecutive odd numbers must be added to obtain 1600*
 
 ![[src_kangourou_2003_student_finale__probs2.png]]
 
-> Starting from $1$, how many consecutive odd numbers must be added to get $1600$?
+> Starting from $1$, how many consecutive odd numbers must one add in order to obtain $1600$?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** 40
+[[Quesiti/src_kangourou_2003_student_finale#qs2|src_kangourou_2003_student_finale__QS2]]
 
 
 
@@ -92,15 +99,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hypotenuse from inradius/exradius*
+*The length of the hypotenuse*
 
 ![[src_kangourou_2003_student_finale__probs3.png]]
 
-> Determine the length of the hypotenuse of a right triangle $T$ knowing:
+> Find the length of the hypotenuse of a right-angled triangle $T$, given:
 > - the radius $r$ of the circle inscribed in $T$;
 > - the radius $R$ of the circle external to $T$, to which the hypotenuse of $T$ and the extensions of the two legs of $T$ are tangent.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** R-r
+[[Quesiti/src_kangourou_2003_student_finale#qs3|src_kangourou_2003_student_finale__QS3]]
 
 
 
@@ -124,11 +134,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of completing an album with 5 stickers*
+*The probability of completing the album*
 
-> A small album holds 4 stickers that are sold individually. Buying five at random, what is the probability (expressed as a number between $0$ and $1$) of completing the album?
+> A small album holds 4 stickers, which are sold singly. Buying five of them at random, what is the probability (expressed by a number between $0$ and $1$) of completing the album?
 
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** 15/64
+[[Quesiti/src_kangourou_2003_student_finale#qs4|src_kangourou_2003_student_finale__QS4]]
 
 
 
@@ -151,11 +165,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Now with overlapping hands*
+*What time it is*
 
-> The dial of a clock only shows the 12 numbers corresponding to the hours; its three hands (hour, first minute, second minute) move continuously. At this moment (we're in the morning) the second hand indicates exactly one of the 12 numbers and in less than half a second, the hour hand and the first minute hand will overlap exactly. What time is it?
+> The face of a clock shows only the 12 numbers corresponding to the hours; its three hands (hours, minutes, seconds) move continuously. At this instant (it is morning) the second hand points exactly at one of the 12 numbers, and in less than half a second the hour hand and the minute hand will coincide exactly. What time is it?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** 9h49'5"
+[[Quesiti/src_kangourou_2003_student_finale#qs5|src_kangourou_2003_student_finale__QS5]]
 
 
 
@@ -179,8 +196,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Locks and keys for access to groups of 4/3*
+*How many padlocks, and how many keys for each examiner*
 
-> An examination committee shall be composed of seven members. The evidence texts shall be kept in a safe which can be closed with two-to-two different locks. How many locks must be used and how many keys must be given to each Commissioner in total if each group of four Commissioners is to be able to open the safe, but no group of three is?
+> An examining board consists of 7 members. The texts of the papers are kept in a safe that can be locked with padlocks, pairwise different from one another. How many padlocks must be used, and how many keys must be given in all to each examiner, if one wants every group of 4 examiners to be able to open the safe, but no group of 3 to be able to?
 
-**Answer:** 35 locks, 20 keys
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Answer:** 35 lucchetti 20 chiavi
+[[Quesiti/src_kangourou_2003_student_finale#qs6|src_kangourou_2003_student_finale__QS6]]

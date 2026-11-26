@@ -31,11 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro bambini di diverse età che soddisfano due condizioni di somma quadrata*
+*Quattro età distinte di bambini che soddisfano due condizioni di somma dei quadrati*
 
-> Ho quattro figli. L'età degli anni di ciascun bambino è un numero intero positivo compreso tra 2 e 16 anni e tutte e quattro le età sono diverse. Un anno fa il quadrato dell'età del bambino più grande era uguale alla somma dei quadrati dell'età degli altri tre. Tra un anno la somma dei quadrati delle età del più anziano e del più giovane sarà uguale alla somma dei quadrati degli altri due bambini.
-> 
-> Decidere se queste informazioni sono sufficienti per determinare l'età in modo unico e trovare tutte le possibilità per la loro età.
+> Ho quattro figli. L'età, in anni, di ciascun figlio è un numero intero positivo compreso tra 2 e 16, inclusi, e le quattro età sono tutte diverse. Un anno fa, il quadrato dell'età del figlio più grande era uguale alla somma dei quadrati delle età degli altri tre. Tra un anno, la somma dei quadrati delle età del figlio più grande e di quello più piccolo sarà uguale alla somma dei quadrati delle età degli altri due figli.
+>
+> Decidi se queste informazioni sono sufficienti per determinare in modo unico le loro età, e individua tutte le possibilità per le loro età.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_1998-99_round1#q01|src_bmo_1998-99_round1__Q01]]
 
 
 
@@ -60,9 +67,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove tan(APX)/tan(PAX) è costante mentre P si muove su un cerchio*
+*Dimostrare che tan(APX)/tan(PAX) è costante mentre P si muove sulla circonferenza*
 
-> Un cerchio ha un diametro $AB$ e $X$ è un punto fisso di $AB$ situato tra $A$ e $B$. Un punto $P$, distinto da $A$ e $B$, si trova sulla circonferenza del cerchio. Prove che, per tutte le posizioni possibili di $P$, $$\frac{\tan \angle APX}{\tan \angle PAX}$$ rimane costante.
+> Un cerchio ha diametro $AB$ e $X$ è un punto fisso di $AB$ che giace tra $A$ e $B$. Un punto $P$, distinto da $A$ e $B$, giace sulla circonferenza del cerchio. Dimostrare che, per tutte le posizioni possibili di $P$,
+> $$\frac{\tan \angle APX}{\tan \angle PAX}$$
+> rimane costante.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_1998-99_round1#q02|src_bmo_1998-99_round1__Q02]]
 
 
 
@@ -87,9 +103,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare costante positiva c così xy^2 - y^2 - x + y = c ha esattamente tre soluzioni interi positive*
+*Trovare una costante positiva c tale che l'equazione xy^2 - y^2 - x + y = c abbia esattamente tre soluzioni in numeri interi positivi*
 
-> Determinare una costante positiva $c$ tale che l'equazione $$xy^2 - y^2 - x + y = c$$ abbia precisamente tre soluzioni $(x, y)$ in numeri interi positivi.
+> Determinare una costante positiva $c$ tale che l'equazione
+> $$xy^2 - y^2 - x + y = c$$
+> abbia esattamente tre soluzioni $(x, y)$ in numeri interi positivi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_1998-99_round1#q03|src_bmo_1998-99_round1__Q03]]
 
 
 
@@ -118,9 +143,22 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'iterazione della somma di cubo di base a 3 cifre raggiunge infine 1, 2 o 17*
+*L'iterazione della somma dei cubi delle cifre in base 3 raggiunge alla fine 1, 2 o 17*
 
-> Qualsiasi numero intero positivo $m$ può essere scritto in modo unico nella forma di base 3 come una stringa di 0's, 1's e 2's (non iniziando con uno zero). Ad esempio, $$98 = (1 \times 81) + (0 \times 27) + (1 \times 9) + (2 \times 3) + (2 \times 1) = (10122)_3.$$ $c(m)$ indichi la somma dei cubi dei numeri della forma base 3 di $m$; quindi, ad esempio $$c(98) = 1^3 + 0^3 + 1^3 + 2^3 + 2^3 = 18.$$ $n$ sia un intero positivo fisso. Definire la sequenza $(u_r)$ con $$u_1 = n \quad \text{and} \quad u_r = c(u_{r-1}) \quad \text{for } r \ge 2.$$ Mostra che esiste un intero positivo $r$ per il quale $u_r = 1$, $2$ o $17$.
+> Qualsiasi numero intero positivo $m$ può essere scritto in modo unico in base 3 come una stringa di 0, 1 e 2 (che non inizia con uno zero). Per esempio,
+> $$98 = (1 \times 81) + (0 \times 27) + (1 \times 9) + (2 \times 3) + (2 \times 1) = (10122)_3.$$
+> Sia $c(m)$ la somma dei cubi delle cifre della rappresentazione in base 3 di $m$; quindi, per esempio
+> $$c(98) = 1^3 + 0^3 + 1^3 + 2^3 + 2^3 = 18.$$
+> Sia $n$ un qualsiasi numero intero positivo fisso. Si definisca la successione $(u_r)$ mediante
+> $$u_1 = n \quad \text{and} \quad u_r = c(u_{r-1}) \quad \text{for } r \ge 2.$$
+> Dimostrare che esiste un numero intero positivo $r$ per cui vale $u_r = 1$, $2$ oppure $17$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_1998-99_round1#q04|src_bmo_1998-99_round1__Q04]]
 
 
 
@@ -147,6 +185,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le p in modo tale che f(1999)=p per una funzione bijectiva con una condizione di ricorrenza*
+*Trovare tutti i p tali che f(1999)=p per una funzione biiettiva con una condizione di ricorrenza*
 
-> Considera tutte le funzioni $f$ dai numeri interi positivi ai numeri interi positivi in modo che (i) per ogni intero positivo $m$, ci sia un intero positivo unico $n$ in modo che $f(n) = m$; (ii) per ogni intero positivo $n$, abbiamo $$f(n+1) \text{ is either } 4f(n) - 1 \text{ or } f(n) - 1.$$ Trovare l'insieme di interi positivi $p$ in modo che $f(1999) = p$ per qualche funzione $f$ con proprietà (i) e (ii).
+> Si considerino tutte le funzioni $f$ dagli interi positivi agli interi positivi tali che (i) per ogni intero positivo $m$, esiste un unico intero positivo $n$ tale che $f(n) = m$; (ii) per ogni intero positivo $n$, si ha
+> $$f(n+1) \text{ is either } 4f(n) - 1 \text{ or } f(n) - 1.$$
+> Trovare l'insieme degli interi positivi $p$ tali che $f(1999) = p$ per qualche funzione $f$ con le proprietà (i) e (ii).
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_1998-99_round1#q05|src_bmo_1998-99_round1__Q05]]

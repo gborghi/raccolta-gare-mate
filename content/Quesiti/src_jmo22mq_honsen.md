@@ -29,9 +29,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tangent a A incontra BC a P; mostrare QR perpendicolare a BC*
+*Due rette sono perpendicolari*
 
-> Lasciate che $ABC$ sia un triangolo. La linea tangente al circoncircolo di $\triangle ABC$ al vertice $A$ incontra la linea $BC$ al punto $P$. I piedi $Q$ e $R$ siano i piedi delle perpendicolari da $P$ alle linee $AB$ e $AC$, rispettivamente. Mostra che la riga $BC$ è perpendicolare alla riga $QR$.
+> Sia $ABC$ un triangolo. La tangente alla circonferenza circoscritta di $\triangle ABC$ nel vertice $A$ incontra la retta $BC$ nel punto $P$. Siano $Q$ e $R$ i piedi delle perpendicolari da $P$ alle rette $AB$ e $AC$ rispettivamente. Dimostrare che la retta $BC$ è perpendicolare alla retta $QR$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo22mq_honsen#q01|src_jmo22mq_honsen__Q01]]
 
 
 
@@ -55,9 +60,17 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni reali che soddisfano un'equazione funzionale*
+*Funzioni che soddisfano un'equazione funzionale*
 
-> Trovare tutte le funzioni $f$ definite su $\mathbb{R}$ e prendere valori reali in modo tale che $$f(f(x+y)f(x-y)) = x^2 - yf(y)$$ tenga per tutti i numeri reali $x, y$.
+> Determinare tutte le funzioni $f$ definite su $\mathbb{R}$ e a valori reali tali che
+>
+> $$f(f(x+y)f(x-y)) = x^2 - yf(y)$$
+>
+> valga per tutti i numeri reali $x, y$.
+
+**Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo22mq_honsen#q02|src_jmo22mq_honsen__Q02]]
 
 
 
@@ -82,11 +95,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutti gli interi positivi n tali che se p | x^n-1 allora p^2 | x^n-1*
+*Interi positivi con una condizione di divisibilità, dato un primo*
 
-> Sia $p$ un numero primo. Determinare tutti gli interi positivi $n$ che soddisfano la seguente condizione:
-> 
-> **Condizione:** Per ogni intero $x$, se $p$ divide $x^n - 1$ allora $p^2$ divide anche $x^n - 1$.
+> Sia $p$ un primo. Determinare tutti gli interi positivi $n$ che soddisfano la condizione seguente.
+>
+> **Condizione:** per ogni intero $x$, se $p$ divide $x^n - 1$ allora anche $p^2$ divide $x^n - 1$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo22mq_honsen#q03|src_jmo22mq_honsen__Q03]]
 
 
 
@@ -109,9 +127,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due triangoli di uguale occhio che condividono l'apice P; punti di mezzo di archi di due cerchi*
+*Il circocentro di un triangolo è il punto medio di un segmento*
 
-> Nel piano, $PAB$ e $PCD$ siano triangoli con $PA = PB$ e $PC = PD$. Supponiamo che $P$, $A$, $C$ siano collineari (in tale ordine) e $B$, $P$, $D$ siano collineari (in tale ordine). $S_1$ sia il circoncircolo di $\triangle PAC$ (passando per $A$ e $C$) e $S_2$ sia il circoncircolo di $\triangle BPD$ (passando per $B$ e $D$), e supponiamo che $S_1$ e $S_2$ si incontrino in due punti distinti $X$ e $Y$. Il $Z$ deve essere il punto medio dell'arco di $S_1$ che non contiene l'altra intersezione, e il $W$ deve essere il punto medio dell'arco di $S_2$ che non contiene l'altra intersezione (cioè $Z$ e $W$ sono i punti medio di archi $XY$ su $S_1$ e $S_2$ rispettivamente, sui lati che non contengono $P$). Qui $ZW$ indica la lunghezza del segmento $ZW$. Mostra che il triangolo $PXY$ ha il suo circoncircolo centrato nel punto medio di $ZW$.
+> Nel piano, siano $PAB$ e $PCD$ triangoli con $PA = PB$ e $PC = PD$. Si supponga che $P$, $A$, $C$ siano allineati (in quest'ordine) e che $B$, $P$, $D$ siano allineati (in quest'ordine). Sia $S_1$ la circonferenza circoscritta a $\triangle PAC$ (passante per $A$ e $C$) e $S_2$ la circonferenza circoscritta a $\triangle BPD$ (passante per $B$ e $D$), e si supponga che $S_1$ e $S_2$ si incontrino in due punti distinti $X$ e $Y$. Sia $Z$ il punto medio dell'arco di $S_1$ che non contiene l'altra intersezione, e $W$ il punto medio dell'arco di $S_2$ che non contiene l'altra intersezione (cioè $Z$ e $W$ sono i punti medi degli archi $XY$ su $S_1$ e $S_2$ rispettivamente, dai lati che non contengono $P$). Qui $ZW$ indica la lunghezza del segmento $ZW$. Dimostrare che il triangolo $PXY$ ha la circonferenza circoscritta centrata nel punto medio di $ZW$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo22mq_honsen#q04|src_jmo22mq_honsen__Q04]]
 
 
 
@@ -140,12 +163,17 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di griglia: trovare tutti i k per i quali A vince in infinite mosse*
+*Interi positivi per cui un giocatore può forzare la vittoria in un gioco sul reticolo*
 
-> $k$ sia un numero intero positivo. I giocatori $A$ e $B$ giocano a un gioco. Inizialmente, un pezzo viene posto all'origine $(0,0)$ del piano $xy$. Con $A$ in primo piano, i due giocatori si alternano a turno secondo le seguenti regole:
-> 
-> **Movimento del giocatore $A$:** Scegli un punto della griglia che non ha ancora un timbro e metti un timbro su di esso. (Non si possono scegliere nuovamente punti di lamella con francobolli).
-> 
-> Movimento del giocatore $B$: ** Spostare il pezzo dalla sua posizione attuale $(x,y)$ a $(x+1,y)$ o $(x,y+1)$, e ripeterlo tra $1$ e $k$ volte totale in turno. Tuttavia, il pezzo non può essere spostato in un punto della griglia che ha già un timbro.
-> 
-> Se $B$ non è in grado di spostare il pezzo (tutti i punti della rete vicini raggiungibili da $B$ sono stampati o $B$ non ha mossa valida), allora $A$ vince. Trova tutti gli enti positivi $k$ per i quali $A$ può garantire una vittoria in un numero finito di giri.
+> Sia $k$ un intero positivo. I giocatori $A$ e $B$ giocano una partita. All'inizio un pezzo è posto nell'origine $(0,0)$ del piano $xy$. Con $A$ che inizia, i due giocatori alternano i turni secondo le regole seguenti.
+>
+> **Mossa del giocatore $A$:** si sceglie un punto del reticolo che non ha ancora un timbro, e vi si pone un timbro. (I punti del reticolo già timbrati non si possono scegliere di nuovo.)
+>
+> **Mossa del giocatore $B$:** si sposta il pezzo dalla posizione attuale $(x,y)$ in $(x+1,y)$ o $(x,y+1)$, e si ripete questo spostamento in tutto tra $1$ e $k$ volte nel turno. Il pezzo non può però essere spostato su un punto del reticolo che ha già un timbro.
+>
+> Se $B$ non può spostare il pezzo (tutti i punti del reticolo vicini raggiungibili da $B$ sono timbrati, oppure $B$ non ha una mossa valida), allora vince $A$. Determinare tutti gli interi positivi $k$ per i quali $A$ può garantire la vittoria in un numero finito di turni.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_jmo22mq_honsen#q05|src_jmo22mq_honsen__Q05]]

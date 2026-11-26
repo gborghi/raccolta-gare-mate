@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*It is appropriate to choose sum 9 or 10 on the dice*
+*It's advisable to roll a sum of 9 or 10 on the dice*
 
-> A friend invites you to play dice like this. You and he repeatedly roll two identical fair dice, with the faces numbered, as usual, from 1 to 6, and calculate the sum of the points. If the sum is 9, one of you wins, if the sum is 10, the other one wins, if the sum is different from 9 and the sum is different from 10, neither of you wins. He lets you choose between 9 and 10, the sum that makes you win, keeping that for himself of the two you didn't. Which one is best for you, and why?
+> (**5 points**) A friend invites you to play dice in the following way. You and he roll two identical, fair dice—numbered, as usual, from 1 to 6—several times, and you calculate the sum of the points obtained. If the sum is 9, one of you two wins; if the sum is 10, the other wins; if the sum is neither 9 nor 10, neither of you wins. He lets you choose, from 9 and 10, the sum that will make you win, while he keeps the other of the two sums—the one you did not choose. Which one should you choose, and why?
 
-**Answer:** 9
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_finale#qj1|src_kangourou_2017_junior_finale__QJ1]]
 
 
 
@@ -57,11 +61,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triples of consecutive odd numbers all prime*
+*Triples of consecutive odd prime numbers*
 
-> (**7 points**) Are there any sets of consecutive odd numbers, each of which is prime? If yes, specify how many; if no, provide a reason.
+> (**7 points**) Do there exist triples of consecutive odd numbers, each of which is prime? If the answer is yes, specify how many there are; if the answer is no, provide a justification.
 
-**Answer:** {3,5,7}
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_junior_finale#qj2|src_kangourou_2017_junior_finale__QJ2]]
 
 
 
@@ -85,11 +94,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flight time with winds going back and forth*
+*Flight time with wind, outbound and return*
 
-> (**11 points**) A scheduled aircraft flies daily from an airport $A$ to an airport $B$ and returns from $B$ to $A$ along the same straight route, always keeping the engines at maximum power. Yesterday there was no wind at all, but today there was a steady wind from $A$ to $B$ throughout the day. Overall, did both flights take the same amount of time today as yesterday? Less time? More time? Justify your answer as you see fit.
+> (**11 points**) A scheduled airliner flies daily from airport $A$ to airport $B$ and returns from $B$ to $A$ along the same straight route, always keeping the engines at their maximum possible power. Yesterday there was no wind at all; today, however, a wind of constant speed blew all day from $A$ toward $B$. Overall, for the two flights combined, did today take the same amount of time as yesterday? Less time? More time? Justify your answer in whatever way you think is most appropriate.
 
-**Answer:** more time
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2017_junior_finale#qj3|src_kangourou_2017_junior_finale__QJ3]]
 
 
 
@@ -113,11 +127,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequences consecutive with a sum of digits divisible by 7*
+*Consecutive sequences whose digit sum is divisible by 7*
 
-> (**14 points**) Are there sequences of (at least two) consecutive positive integers such that the sum of the digits of each number in the sequence is divisible by 7? If yes, how many numbers can there be at most in one of these sequences?
+> (**14 points**) Are there sequences of (at least two) consecutive positive integers such that the sum of the digits of each number in the sequence is divisible by 7? If so, what is the maximum number of numbers that such a sequence can contain?
 
-**Answer:** at most two
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2017_junior_finale#qj4|src_kangourou_2017_junior_finale__QJ4]]
 
 
 
@@ -142,11 +161,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pair diameter and minimum circle of a set*
+*Diametral pair and minimum circle of a set*
 
-> (**18 points**) Whether $S$ is an arbitrary finite set of points in the plane (at least 2): the circle $C$ of minimum radius containing $S$ is known to exist, and is unique (the demonstration of this fact is outside the context of this competition, so it is not required). A $\{a, b\}$ pair of $S$ points is said to be **diametrical** if, however, two $S$ points are chosen, their distance does not exceed the distance between $a$ and $b$. Establish whether it is true (by reasoning the answer) that: - each diametrical pair of $S$ must necessarily lie on the circle that delimits $C$; - there are always circles containing $S$, but not $C$.
+> (**18 points**) Let $S$ be an arbitrary finite set of points in the plane (at least 2): it is known that there exists, and it is unique, the circle $C$ of minimal radius that contains $S$ (the proof of this fact lies outside the scope of this competition, so it is not required). A pair $\{a, b\}$ of points of $S$ is said to be **diametral** if, whatever two points of $S$ are chosen, their distance does not exceed the distance between $a$ and $b$. Determine whether the following is true (giving reasons for the answer):
+> - Every diametral pair of $S$ must necessarily lie on the circumference that bounds $C$;
+> - There are always circles that contain $S$ but do not contain $C$.
 
-**Answer:** No; Yes
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_insiemi_funzioni|Sets and functions]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_finale#qj5|src_kangourou_2017_junior_finale__QJ5]]
 
 
 
@@ -169,8 +194,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cube inscribed in a regular dodecahedron*
+*Cubes inscribable in a regular dodecahedron*
 
-> (**22 points**) How many different cubes can be inscribed in (i.e. have vertices in common with the vertices of) a regular dodecahedron? (Remember that the faces of a regular dodecahedron are regular pentagons.)
+> (**22 points**) How many different cubes can be inscribed in a regular dodecahedron (that is, cubes whose vertices coincide with the vertices of the dodecahedron)? (Recall that the faces of a regular dodecahedron are regular pentagons.)
 
-**Answer:** 5
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2017_junior_finale#qj6|src_kangourou_2017_junior_finale__QJ6]]

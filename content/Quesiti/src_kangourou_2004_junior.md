@@ -33,14 +33,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of (1-2)-(3-4)-...-(99-100)*
+*The value of the expression*
 
-> The value of the expression  (1 −2) −(3 −4) −(5 −6) −... −(99 −100) is
+> The value of the expression (1 − 2) − (3 − 4) − (5 − 6) − ... − (99 − 100) is
 > A) 0
-> B) 49 
-> C) − 48        D) 48         E) 50
+> B) 49
+> C) −48
+> D) 48
+> E) 50
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_telescoping|Telescoping sums]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_junior#q01|src_kangourou_2004_junior__Q01]]
 
 
 
@@ -66,11 +72,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Confetti of other colors*
+*How many pieces of confetti are of other colours*
 
-> You have 2004 confetti (each of one color). Half of them are blue, a quarter are red and a sixth are green. How many confetti are of other colors? A) 167         B) 334        C) 501        D) 1002      E) 1837
+> You have 2004 pieces of confetti (each of only one colour). Half of them are blue, a quarter are red and a sixth are green. How many pieces of confetti are of other colours?
+> A) 167
+> B) 334
+> C) 501
+> D) 1002
+> E) 1837
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_junior#q02|src_kangourou_2004_junior__Q02]]
 
 
 
@@ -94,12 +108,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Edges of a pyramid with 7 faces*
+*How many edges the pyramid has*
 
 > A pyramid has 7 faces. How many edges does it have?
-> A) 7            B) 8            C) 12          D) 14         E) 21
+> A) 7
+> B) 8
+> C) 12
+> D) 14
+> E) 21
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_junior#q03|src_kangourou_2004_junior__Q03]]
 
 
 
@@ -129,13 +150,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of angle in the quadrilateral (BC=AD)*
+*How many degrees the angle A C measures*
 
 ![[src_kangourou_2004_junior__prob4.png]]
 
-> In an ABCD quadrilateral some angles are known (see Figure, where the measurements are given in degrees). We also know that the BC side is as long as the AD side. How many degrees does the angle AC measure? A) 30          B) 50          C) 55          D) 65         E) 70
+> In a quadrilateral ABCD some angles are known (see the figure, where the measures are given in degrees). It is also known that the side BC is as long as the side AD. How many degrees does the angle A C measure?
+> A) 30
+> B) 50
+> C) 55
+> D) 65
+> E) 70
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_junior#q04|src_kangourou_2004_junior__Q04]]
 
 
 
@@ -161,11 +190,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-John's points in ping-pong (system)
+*How many points Giovanni has at this moment*
 
-> Giovanni and Stefano are playing ping-pong. Right now, if Giovanni had five more points, he'd have doubled Stefano's, while if he had seven fewer points, he'd have half Stefano's. How many points does Giovanni have right now? A) 5            B) 7            C) 9           D) 11          E) 15
+> Giovanni and Stefano are playing table tennis. At this moment, if Giovanni had 5 points more he would have twice as many as Stefano, while if he had 7 points fewer he would have half as many as Stefano. How many points does Giovanni have at this moment?
+> A) 5
+> B) 7
+> C) 9
+> D) 11
+> E) 15
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_junior#q05|src_kangourou_2004_junior__Q05]]
 
 
 
@@ -207,13 +244,14 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Nuts to the youngest (proportions)*
+*How many of the walnuts gathered go to the youngest of the three*
 
-> Alessia, Beatrice and Carla have collected a total of 770 nuts
-> and decide to divide them proportionally to their age. According to
-> this criterion, if Alessia were to get 4 nuts, Carla would get 3; if Beatrice were to get 7 nuts, Alessia would get 6. How many nuts of those collected are due to the youngest of the
-> three?
-> A) 264        B) 256       C) 218         D) 198       E) 180
+> Alessia, Beatrice and Carla have gathered 770 walnuts in all and decide to share them in proportion to their ages. On this basis, if Alessia were to get 4 walnuts, Carla would get 3; if Beatrice were to get 7 walnuts, Alessia would get 6. How many of the walnuts gathered go to the youngest of the three?
+> A) 264
+> B) 256
+> C) 218
+> D) 198
+> E) 180
 > Dˆ
 > A
 > B
@@ -223,14 +261,17 @@ John's points in ping-pong (system)
 > 75°
 > 50°
 > ?
-> 
-> Pag. 
-> Pag. 23
+>
+> Page
+> Page 23
 > 23
 > Kang 2004
 > Kang 2004
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_junior#q06|src_kangourou_2004_junior__Q06]]
 
 
 
@@ -257,11 +298,19 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What scale is the map*
+*The scale of the map*
 
-> The floor of a shed is rectangular in shape with sides of 40 meters and 60 meters. The same floor is shown on a map as a rectangle whose perimeter measures (on the map) 100 centimeters. What scale is the map? A) 1:50       B) 1:100       C) 1:150      D) 1:160     E) 1:200
+> The floor of a shed is rectangular in shape, with sides of 40 metres and 60 metres. The same floor is shown on a map as a rectangle whose perimeter measures (on the map) 100 centimetres. On what scale is the map?
+> A) 1:50
+> B) 1:100
+> C) 1:150
+> D) 1:160
+> E) 1:200
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_junior#q07|src_kangourou_2004_junior__Q07]]
 
 
 
@@ -290,11 +339,20 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many biscuits are in the tray*
+*How many biscuits there are on the tray*
 
-> In one tray, among cookies and chocolates, there are 30 sweets in all. If we pick up 12 candies at random from the tray, we find at least one cookie among them; if we pick up 20 candies at random from the tray, we find at least one chocolate in them. How many cookies are in the tray? A) 11           B) 12           C) 19          D) 20         E) 29
+> On a tray, among biscuits and chocolates, there are 30 sweets in all. If we take 12 sweets at random from the tray, we find at least one biscuit among them; if we take 20 sweets at random from the tray, we find at least one chocolate among them. How many biscuits are there on the tray?
+> A) 11
+> B) 12
+> C) 19
+> D) 20
+> E) 29
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_junior#q08|src_kangourou_2004_junior__Q08]]
 
 
 
@@ -332,7 +390,7 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Black ring area/inner circle ratio*
+*The ratio of the area of the black ring to the area of the inner black circle*
 
 ![[src_kangourou_2004_junior__prob9.png]]
 
@@ -346,9 +404,17 @@ John's points in ping-pong (system)
 \end{document}
 ```
 
-> The figure shows a target with three fields. The thickness of the two rings, black and white, is the same and is equal to the radius of the inner black circle. What's the ratio between the black ring area and the inner black circle area? A) 2            B) 3           C) 4            D) 5          E) 6
+> The figure shows a target with 3 regions. The width of the two rings, black and white, is the same and is equal to the radius of the inner black circle. What is the ratio of the area of the black ring to the area of the inner black circle?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_junior#q09|src_kangourou_2004_junior__Q09]]
 
 
 
@@ -377,13 +443,22 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of the bench (half-circles)*
+*How many decimetres high the bench is*
 
 ![[src_kangourou_2004_junior__prob10.png]]
 
-> The figure shows a section of a bench constructed using, as indicated, three half-circular trunks: two of a diameter of 2 decimeters each acting as the base and one of a diameter of 4 decimeters acting as the seat. How many decimeters high is the bench? A) 3 B) C) 2,85 D) E) 2,5 Questions from N. 11 to N. 20 are worth 4 points each.
+> The figure shows a cross-section of a bench built using, as shown, three semicircular half-logs: two of diameter 2 decimetres each as the base and one of diameter 4 decimetres as the seat. How many decimetres high is the bench?
+> A) 3
+> B)
+> C) 2.85
+> D)
+> E) 2.5
+> Questions 11 to 20 are worth 4 points each
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_junior#q10|src_kangourou_2004_junior__Q10]]
 
 
 
@@ -408,11 +483,19 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible product of five choices from 1,2,4*
+*Which of the numbers could be the product obtained*
 
-> Five people choose a number from these three: 1, 2, 4. The five numbers chosen are multiplied together. Only one of the following numbers could be the product obtained: which? A) 100         B) 256        C) 768       D) 2048      E) 4096
+> Five people each choose a number from these three: 1, 2, 4. The five numbers chosen are multiplied together. Only one of the following numbers could be the product obtained: which?
+> A) 100
+> B) 256
+> C) 768
+> D) 2048
+> E) 4096
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_junior#q11|src_kangourou_2004_junior__Q11]]
 
 
 
@@ -470,7 +553,7 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of completing the card grid*
+*In how many different ways one can complete the grid*
 
 ![[src_kangourou_2004_junior__prob12.png]]
 
@@ -487,9 +570,31 @@ John's points in ping-pong (system)
 \end{document}
 ```
 
-> You have 16 cards: 4 blue (B), 4 red (R), 4 yellow (G) and 4 green (V). You want to place them in the square grid shown in the figure, one per cell, so that each row and column of the grid contains a card for each color. You have already started the work as indicated; how many different ways can you complete it? A) 1            B) 2            C) 4           D) 16          E) 128 B R B G V 8 10
+> You have 16 cards: 4 blue (B), 4 red (R), 4 yellow (G) and 4 green (V). You want to place them in the square grid shown in the figure, one in each cell, so that every row and every column of the grid contains one card of each colour. You have already begun the work as shown; in how many different ways can you complete it?
+> A) 1
+> B) 2
+> C) 4
+> D) 16
+> E) 128
+> B
+> R
+> B
+> G
+> V
+> 8
+> 10
+>
+> Page
+> Page 24
+> 24
+> Kang 2004
+> Kang 2004
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_junior#q12|src_kangourou_2004_junior__Q12]]
 
 
 
@@ -515,11 +620,20 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 100-200 with only factors 2 and 3*
+*How many numbers between 100 and 200 have only 2 and/or 3 as prime factors*
 
-> How many numbers between 100 and 200 have their prime factors only the numbers 2 and/or 3? A) 2           B) 3            C) 4           D) 5           E) 6
+> How many numbers between 100 and 200 have among their prime factors only the numbers 2 and/or 3?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_junior#q13|src_kangourou_2004_junior__Q13]]
 
 
 
@@ -553,22 +667,21 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Water height in the submerged can II*
+*What height the water reaches in tank II*
 
 ![[src_kangourou_2004_junior__prob14.png]]
 
-> Observe the figure. In can I, whose base has an area of
-> 2 square decimeters, the water reaches a height of 5 centimeters. Can
-> II, 7 centimeters tall and whose base has an area of 1 square decimeter, is immersed, empty, in can I until it is
-> anchored to the bottom of the latter. At this point some of the water
-> pours into can II. What height does the water reach in can II?
-> (Consider the thickness of the
-> walls of the cans negligible.)
-> A) 1 cm          B) 2 cm
-> C) 3 cm        D) 4 cm
+> Look at the figure. In tank I, whose base has an area of 2 square decimetres, the water reaches a height of 5 centimetres. Tank II, 7 centimetres high and whose base has an area of 1 square decimetre, is immersed, empty, in tank I until it is anchored on the bottom of the latter. At this point some of the water pours into tank II. What height does the water reach in tank II? (Regard the thickness of the walls of the tanks as negligible.)
+> A) 1 cm
+> B) 2 cm
+> C) 3 cm
+> D) 4 cm
 > E) 5 cm
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_junior#q14|src_kangourou_2004_junior__Q14]]
 
 
 
@@ -594,11 +707,19 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unanswered questions given score 87*
+*How many questions were left unanswered*
 
-> A closed response test (such as Kangourou) consists of 20 questions. For each correct answer, 7 points are awarded, while for each wrong answer, 2 points are subtracted. Unsubmitted replies have no effect (0 points of charge). You passed the test and scored 87 points. How many questions have you not answered? A) 2           B) 3            C) 4           D) 5           E) 6
+> A multiple-choice test (like Kangourou) consists of 20 questions. For every correct answer 7 points are awarded, while for every wrong answer 2 are subtracted. Unanswered questions do not count (0 points deducted). You sat the test and scored 87 points. How many questions did you leave unanswered?
+> A) 2
+> B) 3
+> C) 4
+> D) 5
+> E) 6
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_junior#q15|src_kangourou_2004_junior__Q15]]
 
 
 
@@ -624,11 +745,19 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of distances traveled by hands*
+*The ratio of the distances travelled by the tips of the two hands*
 
-> A clock has a traditional dial (12 hours). The hour hand is 4 centimeters long, while the minute hand is 8 centimeters long. What is the ratio between the distances traveled by the tips of the two hands between noon and 3 p.m. on the same day? A) 1:2         B) 1:4         C) 1:6         D) 1:12        E) 1:24
+> A clock has a traditional face (12 hours). The hour hand is 4 centimetres long, while the minute hand is 8 centimetres long. What is the ratio of the distances travelled by the tips of the two hands between noon and 15:00 on the same day?
+> A) 1:2
+> B) 1:4
+> C) 1:6
+> D) 1:12
+> E) 1:24
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_junior#q16|src_kangourou_2004_junior__Q16]]
 
 
 
@@ -671,30 +800,34 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many days did the vacation last (rain)*
+*How many days the holiday lasted*
 
-> The Kangourou family was on vacation in London for a few days. During the vacation, it rained on 15 different days, but:
+> The Kangourou family was on holiday in London for some days. During the holiday, it rained on 15 different days, but:
 > - rainy mornings were always followed by dry afternoons;
 > - rainy afternoons were always preceded by dry mornings;
-> - the dry mornings were 12 in all and the dry afternoons
-> were 13 in all.
-> How many days did the vacation last?
+> - the dry mornings were 12 in all and the dry afternoons were 13 in all.
+> How many days did the holiday last?
 > A) 15
 > B) 16
 > C) 19
-> D) 20         E) 25
-> can II
+> D) 20
+> E) 25
+> tank II
 > 7
 > 5
-> can I
-> 
-> Pag.
-> Pag. 25
+> tank I
+>
+> Page
+> Page 25
 > 25
 > Kang 2004
 > Kang 2004
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_junior#q17|src_kangourou_2004_junior__Q17]]
 
 
 
@@ -722,13 +855,21 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square area with the equilateral dodecagon inscribed*
+*The area of the square in square centimetres*
 
 ![[src_kangourou_2004_junior__prob18.png]]
 
-> The figure shows a square in which an equilateral dodecagon is "inscribed" (the two "arms of the cross" that form the dodecagon are perpendicular to each other). The perimeter of the dodecagon measures 36 centimetres. What is the area of the square, in square centimetres? A) 48          B) 72          C) 108        D) 115,2      E) 144
+> The figure shows a square in which an equilateral dodecagon is "inscribed" (the two "arms of the cross" that form the dodecagon are perpendicular to each other). The perimeter of the dodecagon measures 36 centimetres. What is the area of the square, in square centimetres?
+> A) 48
+> B) 72
+> C) 108
+> D) 115.2
+> E) 144
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_junior#q18|src_kangourou_2004_junior__Q18]]
 
 
 
@@ -759,13 +900,21 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio between the radii of the two circumferences*
+*The ratio of the greater radius to the smaller*
 
 ![[src_kangourou_2004_junior__prob19.png]]
 
-> Look at the figure. The circumference of centre C and centre D meet at points A and B. The angle A C B measures 60 degrees, while the angle A D B measures 90 degrees. What is the ratio between the greater and the lesser of the two radii of the circumferences? A) 4:3         B) C) 3:2        D) E)2:1
+> Look at the figure. The circle with centre C and the one with centre D meet at the points A and B. The angle A B measures 60 degrees, while the angle A B measures 90 degrees. What is the ratio of the greater to the smaller of the two radii of the circles?
+> A) 4:3
+> B)
+> C) 3:2
+> D)
+> E) 2:1
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_junior#q19|src_kangourou_2004_junior__Q19]]
 
 
 
@@ -800,13 +949,23 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many white tiles in the diagonal mosaic*
+*How many white tiles there are*
 
 ![[src_kangourou_2004_junior__prob20.png]]
 
-> A square mosaic of side 2003 is obtained by placing white tiles and gray tiles of side 1. The gray tiles are all only those centered on the diagonals (as in the figure, where the situation is represented for a square of side 7). How many white tiles are there? A) 20022 B) 2002 x 2001 C) 20032 D) 2003 x 2004 E) 20042 Questions from N. 21 to N. 30 are worth 5 points each.
+> A square mosaic of side 2003 is obtained by placing side by side white tiles and grey tiles of side 1. The grey tiles are all and only those centred on the diagonals (as in the figure, where the situation is shown for a square of side 7). How many white tiles are there?
+> A) 20022
+> B) 2002 x 2001
+> C) 20032
+> D) 2003 x 2004
+> E) 20042
+> Questions 21 to 30 are worth 5 points each
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_junior#q20|src_kangourou_2004_junior__Q20]]
 
 
 
@@ -866,14 +1025,11 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times did the climber turn back*
+*How many times the mountaineer turned back*
 
 ![[src_kangourou_2004_junior__prob21.png]]
 
-> A very absent-minded climber crosses a mountain following
-> faithfully the profile shown in figure 1, therefore without ever traveling horizontal stretches. The climber goes from point A to point B,
-> but from time to time he retraces his steps to look for personal belongings that he has lost. The diagram in figure 2 has time
-> t on the x-axis and altitude Q on the y-axis (expressed with respect to the same unit of measure
+> A very absent-minded mountaineer crosses a mountain, following faithfully the profile shown in figure 1, and so never travelling along horizontal stretches. The mountaineer goes from point A to point B, but from time to time he retraces his steps to look for personal belongings he has lost. The diagram in figure 2 has time t on the horizontal axis and height Q on the vertical axis (expressed with respect to the same unit of measu-
 > 1
 > :
 > 3
@@ -896,18 +1052,23 @@ John's points in ping-pong (system)
 > 1
 > Cˆ
 > Dˆ
-> 
-> Pag. 
-> Pag. 26
+>
+> Page
+> Page 26
 > 26
 > Kang 2004
 > Kang 2004
-> of figure 1) and shows, moment by moment, the altitude at which the
-> climber is (at instant 0 he leaves from A while at instant 1 he reaches
-> B). How many times did the climber turn back to look for something?
-> A) 1             B) 2            C) 3           D) 4           E) 5
+> rement as figure 1) and shows, instant by instant, the height at which the mountaineer is (at instant 0 he sets off from A, while at instant 1 he reaches B). How many times did the mountaineer turn back to look for something?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
 
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading of the text]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_junior#q21|src_kangourou_2004_junior__Q21]]
 
 
 
@@ -937,18 +1098,22 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the rhombus from a folded rectangle*
+*The area of the rhombus*
 
 ![[src_kangourou_2004_junior__prob22.png]]
 
-> The rhombus KLMN in the figure is obtained by folding two opposite vertices of a suitable rectangle until they coincide with the
-> midpoint of the diagonal. The shorter of the sides of the
-> rectangle measures
-> . What is the area of the
-> rhombus?
-> A) 3             B)               C) 2           D) 4           E)3
+> The rhombus KLMN in the figure is obtained by folding two opposite vertices of a suitable rectangle until they meet the midpoint of the diagonal. The shorter of the sides of the rectangle measures
+> . What is the area of the rhombus?
+> A) 3
+> B)
+> C) 2
+> D) 4
+> E) 3
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_junior#q22|src_kangourou_2004_junior__Q22]]
 
 
 
@@ -978,11 +1143,20 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in place of 120 after 200 steps (divisors)*
+*Which number is found in place 120*
 
-> We start with 200 numbers all equal to zero written in succession. In the first step, we add 1 to each of the 200 numbers. In the second step we add 1 only to the numbers whose place is a multiple of 2 (i.e. those in even positions). In the third step we add 1 only to the numbers whose place is a multiple of 3 and we proceed according to this law: in the n-th step we add 1 only to the numbers whose place is a multiple of n. After 200 steps, what number do we find in place 120? A) 16          B) 12          C) 8           D) 32          E) 24
+> We start with 200 numbers, all equal to zero, written in a row. At the first pass we add 1 to each of the two hundred numbers. At the second pass we add 1 only to the numbers whose place is a multiple of 2 (that is, to those in an even place). At the third pass we add 1 only to the numbers whose place is a multiple of 3, and we proceed according to this rule: at the nth pass we add 1 only to the numbers whose place is a multiple of n. After 200 passes, what number do we find in place 120?
+> A) 16
+> B) 12
+> C) 8
+> D) 32
+> E) 24
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_junior#q23|src_kangourou_2004_junior__Q23]]
 
 
 
@@ -1013,18 +1187,22 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of diagonals/segment PQ (similar)*
+*The ratio of the length of the diagonals to the length of the segment PQ*
 
 ![[src_kangourou_2004_junior__prob24.png]]
 
-> Observe the figure. It shows a rectangle in which the diagonals and the segment joining a vertex to the midpoint of
-> one of the sides that do not meet there are drawn. What is
-> the ratio between the length of the diagonals and the
-> length of segment PQ?
-> A) it is not possible to answer because it depends on the measurements of the rectangle
-> B) 6            C) 13/3      D) 4           E) 3
+> Look at the figure. It shows a rectangle in which the diagonals are drawn, and the segment that joins a vertex to the midpoint of one of the sides that do not meet there. What is the ratio of the length of the diagonals to the length of the segment PQ?
+> A) it is not possible to answer, because it depends on the measurements of the rectangle
+> B) 6
+> C) 13/3
+> D) 4
+> E) 3
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_junior#q24|src_kangourou_2004_junior__Q24]]
 
 
 
@@ -1067,15 +1245,16 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length AB given the area of the shaded region*
+*The length of the segment AB*
 
 ![[src_kangourou_2004_junior__prob25.png]]
 
-> Those in the figure are circles. The area of the shaded
-> region is 2π. How long is the segment AB?
-> A) 1            B) 2            C) 3           D) 4
-> E) it is not possible to answer because it depends on the
-> radii of the circles
+> Those in the figure are circles. The area of the shaded region is 2π. How long is the segment AB?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) it is not possible to answer, because it depends on the radii of the circles
 > K
 > L
 > M
@@ -1084,14 +1263,17 @@ John's points in ping-pong (system)
 > Q
 > A
 > B
-> 
-> Pag. 
-> Pag. 27
+>
+> Page
+> Page 27
 > 27
 > Kang 2004
 > Kang 2004
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** D
+[[Quesiti/src_kangourou_2004_junior#q25|src_kangourou_2004_junior__Q25]]
 
 
 
@@ -1117,11 +1299,19 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of rolled-up runner (cylinder)*
+*Which number is closest to the length of the runner*
 
-> A rectangular runner is made with a 1 cm thick carpet that, rolled over itself for its entire length, provides a cylinder whose base is (approximately) a circle of 1 meter in diameter. Which of the following numbers is closest to the length of the runner in meters? A) 20         B) 50          C) 75         D) 150         E) 300
+> A rectangular runner is made from a carpet 1 centimetre thick which, rolled up on itself along its whole length, gives a cylinder whose base is (approximately) a circle of diameter 1 metre. Which of the following numbers is closest to the length of the runner, expressed in metres?
+> A) 20
+> B) 50
+> C) 75
+> D) 150
+> E) 300
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_stima|Estimation and approximation]]
 **Answer:** C
+[[Quesiti/src_kangourou_2004_junior#q26|src_kangourou_2004_junior__Q26]]
 
 
 
@@ -1152,13 +1342,21 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trajectory of the P-point (rolling circle)*
+*The path travelled by the point P*
 
 ![[src_kangourou_2004_junior__prob27.png]]
 
-> The figure shows two circles mutually tangent whose radii are in the ratio 1:2. The small circle continuously rolls, without slipping, within the large circle, along the edge of the latter which guides it. Which of the following is the trajectory of point P of the small circle which, at the moment the figure refers to, is at the center of the large circle? A)              B)              C)               D) E)
+> The figure shows two circles tangent to each other, whose radii are in the ratio 1:2. The small circle rolls continuously, without slipping, inside the large circle, along the edge of the latter, which guides it. Which of the following is the path travelled by the point P of the small circle which, at the instant the figure refers to, is at the centre of the large circle?
+> A)
+> B)
+> C)
+> D)
+> E)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_junior#q27|src_kangourou_2004_junior__Q27]]
 
 
 
@@ -1184,11 +1382,20 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many three-digit n with product div 7*
+*How many three-digit integers n not greater than 200 have the product divisible by 7*
 
-> How many integers n of exactly three digits (in decimal form), not more than 200, are such that the product (n + 1)(n + 2)(n + 3) is divisible by 7? A) 43         B) 31          C) 34          D) 24          E) 39
+> How many integers n of exactly three digits (in decimal representation), not greater than 200, are such that the product (n + 1)(n + 2)(n + 3) is divisible by 7?
+> A) 43
+> B) 31
+> C) 34
+> D) 24
+> E) 39
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2004_junior#q28|src_kangourou_2004_junior__Q28]]
 
 
 
@@ -1216,12 +1423,20 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the 2004th position (divisible by 5 or 11)*
+*Which of the remaining numbers is in the 2004th place*
 
-> On the blackboard, all the integers from 1 to 10000 were written in increasing order. Then all and only those numbers that are divisible neither by 5 nor by 11 were erased, obtaining a new sequence. Which among the remaining numbers comes to be in the 2004th position of this new sequence?
-> A) 1000      B) 5000      C) 10000     D) 6545     E) 7348
+> On the blackboard all the integers from 1 to 10000 were written, in increasing order. Then all and only those numbers that are divisible neither by 5 nor by 11 were erased, obtaining a new sequence. Which of the remaining numbers comes to be in the 2004th place of this new sequence?
+> A) 1000
+> B) 5000
+> C) 10000
+> D) 6545
+> E) 7348
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Answer:** E
+[[Quesiti/src_kangourou_2004_junior#q29|src_kangourou_2004_junior__Q29]]
 
 
 
@@ -1252,15 +1467,20 @@ John's points in ping-pong (system)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*10-digit numbers with equal sums in even/odd positions*
+*How many ten-digit numbers satisfy the requirements*
 
-> Determine how many ten-digit numbers satisfy the
-> following requirements: the first digit is 1, all the remaining nine digits are
-> 0 or 1, the sum of the digits in odd positions is equal to the sum
-> of the digits in even positions.
-> A) 29         B) 126         C) 81          D) 32         E) 64
+> Find how many ten-digit numbers satisfy the following requirements: the first digit is 1, all the remaining nine digits are 0 or 1, the sum of the digits in odd places is equal to the sum of the digits in even places.
+> A) 29
+> B) 126
+> C) 81
+> D) 32
+> E) 64
 > P
-> 
->  JUNIOR 2004 SOLUTIONS
+>
+> SOLUTIONS JUNIOR 2004
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Answer:** B
+[[Quesiti/src_kangourou_2004_junior#q30|src_kangourou_2004_junior__Q30]]

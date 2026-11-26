@@ -30,11 +30,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo di ARB taglia AC a X; prova RX perpendicolare BC*
+*La circonferenza circoscritta ad ARB interseca AC in X; dimostrare che RX è perpendicolare a BC*
 
-> Che $ABC$ sia un triangolo a angolo acuto e supponiamo che $\angle ABC$ sia l'angolo più grande del triangolo. Che il $R$ sia il suo circoncentro. Supponiamo che il circoncircolo del triangolo $ARB$ tagli $AC$ di nuovo in $X$. Prova che $RX$ è perpendicolare a $BC$.
+> Sia $ABC$ un triangolo acutangolo e si supponga che $\angle ABC$ sia il suo angolo maggiore. Sia $R$ il suo circocentro. Si supponga che la circonferenza circoscritta al triangolo $ARB$ intersechi nuovamente $AC$ in $X$. Dimostrare che $RX$ è perpendicolare a $BC$.
 
 ![[src_rmo_2014_r3__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2014_r3#q01|src_rmo_2014_r3__Q01]]
 
 
 
@@ -58,9 +64,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le vere x, y tali che x^2+2y^2+1/2 le x(2y+1)*
+*Trovare tutti i numeri reali x, y tali che x^2+2y^2+1/2 ≤ x(2y+1)*
 
-> Trova tutti i numeri reali $x$ e $y$ in modo tale che $$x^2 + 2y^2 + \frac{1}{2} \le x(2y + 1).$$
+> Trovare tutti i numeri reali $x$ e $y$ tali che
+> $$x^2 + 2y^2 + \frac{1}{2} \le x(2y + 1).$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2014_r3#q02|src_rmo_2014_r3__Q02]]
 
 
 
@@ -83,9 +97,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-Nessun numero intero positivo n <2310 con 2310 n 2310-n
+*Non esiste alcun numero intero positivo n<2310 tale che 2310 | n(2310-n)*
 
-> Prova che non esiste un intero positivo $n < 2310$ tale che $n(2310 - n)$ sia un multiple di $2310$.
+> Dimostrare che non esiste alcun numero intero positivo $n < 2310$ tale che $n(2310 - n)$ sia un multiplo di $2310$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2014_r3#q03|src_rmo_2014_r3__Q03]]
 
 
 
@@ -109,9 +130,17 @@ Nessun numero intero positivo n <2310 con 2310 n 2310-n
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i reali positivi x,y,z che soddisfano tre equazioni cicliche*
+*Trovare tutti i numeri reali positivi x, y, z che soddisfano tre equazioni cicliche*
 
-> Trova tutti i numeri reali positivi $x, y, z$ in modo tale che $$2x - 2y + \frac{1}{z} = \frac{1}{2014}, \quad 2y - 2z + \frac{1}{x} = \frac{1}{2014}, \quad 2z - 2x + \frac{1}{y} = \frac{1}{2014}.$$
+> Trovare tutti i numeri reali positivi $x, y, z$ tali che
+> $$2x - 2y + \frac{1}{z} = \frac{1}{2014}, \quad 2y - 2z + \frac{1}{x} = \frac{1}{2014}, \quad 2z - 2x + \frac{1}{y} = \frac{1}{2014}.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2014_r3#q04|src_rmo_2014_r3__Q04]]
 
 
 
@@ -135,11 +164,17 @@ Nessun numero intero positivo n <2310 con 2310 n 2310-n
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il cerchio di BDX si trova sul cerchio di ABX*
+*Il circocentro di BDX giace sulla circonferenza circoscritta a ABX*
 
-> Lasciate che $ABC$ sia un triangolo. Il segmento $X$ deve essere $BC$ in modo tale che $AB = AX$. Raggiungere il circolo $\Gamma$ del triangolo $ABC$ a $D$. Indicare che il circoncentro di $\triangle BDX$ si trova su $\Gamma$.
+> Sia $ABC$ un triangolo. Sia $X$ sul segmento $BC$ in modo che $AB = AX$. Sia $AX$ che incontra nuovamente la circonferenza circoscritta $\Gamma$ del triangolo $ABC$ in $D$. Dimostrare che il circocentro di $\triangle BDX$ giace su $\Gamma$.
 
 ![[src_rmo_2014_r3__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2014_r3#q05|src_rmo_2014_r3__Q05]]
 
 
 
@@ -162,6 +197,13 @@ Nessun numero intero positivo n <2310 con 2310 n 2310-n
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri a 3 cifre n con S(S(n))=2*
+*Conta i numeri n di tre cifre tali che S(S(n))=2*
 
-> Per qualsiasi numero naturale $n$, $S(n)$ indica la somma delle cifre di $n$. Trova il numero di tutti i numeri a 3 cifre $n$ in modo tale che $S(S(n)) = 2$.
+> Per ogni numero naturale $n$, si indichi con $S(n)$ la somma delle cifre di $n$. Determinare il numero di tutti i numeri di tre cifre $n$ tali che $S(S(n)) = 2$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2014_r3#q06|src_rmo_2014_r3__Q06]]

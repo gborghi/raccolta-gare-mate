@@ -35,7 +35,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Include the largest of the five fractions*
+*Indicate the largest of five fractions*
 
 > Indicate the largest of these fractions.
 >
@@ -45,7 +45,10 @@ level: triennio
 > - **(D)** 2019 2012
 > - **(E)** 2025 2018
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2018_triennio#q01|src_archimede_2018_triennio__Q01]]
 
 
 
@@ -76,9 +79,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cubs with at least one face painted in a 10x10x10 cube*
+*Cubes with at least one face painted in a 10x10x10 cube*
 
-> Piero builds a cube by gluing 1000 small cubes all equal (with 10 cubes along each stem). So he paints all the faces of the cube he's built green. How many of the initial cubes will have at least a green face?
+> Piero builds a cube by gluing together 1000 identical small cubes (with 10 cubes along each edge). He then paints green all the faces of the cube he has built. How many of the initial cubes will have at least one face coloured green?
 >
 > - **(A)** 600
 > - **(B)** 384
@@ -86,7 +89,10 @@ level: triennio
 > - **(D)** 488
 > - **(E)** 592
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
+[[Quesiti/src_archimede_2018_triennio#q03|src_archimede_2018_triennio__Q03]]
 
 
 
@@ -116,9 +122,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of squares of two multiples of 3*
+*A number that is the sum of the squares of two multiples of 3*
 
-> Which of the following numbers can be obtained by adding the squares of two integers multiplied by 3?
+> Which of the following numbers can be obtained by adding the squares of two integer multiples of 3?
 >
 > - **(A)** 459
 > - **(B)** 363
@@ -126,7 +132,10 @@ level: triennio
 > - **(D)** 495
 > - **(E)** 549
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2018_triennio#q04|src_archimede_2018_triennio__Q04]]
 
 
 
@@ -161,9 +170,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes of cell phone use while charging (40% consumed)*
+*Cell phone use minutes during charging (40% consumed)*
 
-> A fully charged cell phone must remain charged for 2 hours to fully charge if it is not in use in the meantime. On the other hand, if it is used during charging, 40% of the energy introduced is consumed immediately and only the remaining part is stored in the battery. Knowing that it took two and a half hours to charge the battery from zero, it is necessary to determine how many minutes the cell phone was used during the charging (whether or not the phone is used, the energy stored in a time interval is assumed to be proportional to its duration).
+> A phone with a completely empty battery must remain charging for 2 hours to fully recharge if it is not in use during that time. If it is used during charging, 40% of the energy introduced is immediately consumed and only the remaining part accumulates in the battery. Knowing that it took 2 hours and a half to recharge the battery from zero, determine for how many minutes the phone was used during charging (it is assumed that, whether or not the phone is used, the energy stored in a time interval is proportional to its duration).
 >
 > - **(A)** 72
 > - **(B)** 90
@@ -171,7 +180,10 @@ level: triennio
 > - **(D)** 87
 > - **(E)** 75
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2018_triennio#q05|src_archimede_2018_triennio__Q05]]
 
 
 
@@ -208,11 +220,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length A900A901 in the spiral of rectangular triangles*
+*Length A900A901 in the spiral of right triangles*
 
-![[src_archimede_2018_triennio__prob6.png]]
-
-> Theodore is building a sequence of rectangular triangles, arranged like this on the side. The first is the isosceles triangle A1A2A3, a rectangle in A1, with 1 cm of catheters. The second is A2A3A4, rectangle in A2, where A2A4 is still 1 cm. The third is A3A4A5, rectangle in A3, with A3A5 still 1 cm. The construction goes on as follows: in each triangle AnAn+1An+2, rectangle in An, the catheter AnAn+2 is always 1 cm. How many centimetres will the A900A901 segment measure ?
+> Teodoro is building a sequence of right triangles, arranged as shown here. The first is the isosceles triangle A1A2A3, right-angled at A1, with legs of 1 cm. The second is A2A3A4, right-angled at A2, where A2A4 is still 1 cm. The third is A3A4A5, right-angled at A3, with A3A5 still 1 cm. The construction continues in this way: in each triangle AnAn+1An+2, right-angled at An, the leg AnAn+2 is always 1 cm. How many cm will the segment A900A901 measure?
 >
 > - **(A)** 60
 > - **(B)** 300
@@ -220,7 +230,11 @@ level: triennio
 > - **(D)** 45
 > - **(E)** 150 A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2018_triennio#q06|src_archimede_2018_triennio__Q06]]
 
 
 
@@ -255,17 +269,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of questions collected from the Archimedes score*
+*Number of questions in a collection, from a Giochi di Archimede score*
 
-> To prepare for the Archimedes Games, Constance is trying to solve a collection of questions from previous years' competitions. He leaves 14 blank and answers correctly to 2/3 of the remaining answers (the other answers are wrong). It is therefore noted that, by calculating the scores as in the Archimedes Games, he has thus achieved one point less than he would have obtained by answering all the questions and mistaking precisely half of them. About the number of queries in the collection, we can conclude that it is...
+> To prepare for the Giochi di Archimede, Costanza is trying to solve a collection of questions taken from the contests of past years. She leaves 14 of them blank and answers 2/3 of the remaining ones correctly (the other answers are wrong). She then notices that, scoring as one does in the Giochi di Archimede, she has scored one point less than she would have scored by answering every question and getting exactly half of them wrong. As for the number of questions in the collection, one can conclude that it is...
 >
 > - **(A)** less than 30
-> - **(B)** between 30 and 33 (included)
-> - **(C)** between 34 and 36 (included)
-> - **(D)** between 37 and 40 (included)
-> - **(E)** More than 40
+> - **(B)** between 30 and 33 (inclusive)
+> - **(C)** between 34 and 36 (inclusive)
+> - **(D)** between 37 and 40 (inclusive)
+> - **(E)** greater than 40
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2018_triennio#q07|src_archimede_2018_triennio__Q07]]
 
 
 
@@ -296,9 +313,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the sum of the amounts of the following items: *
+*Sum of the digits of (10^2018+2018)^2*
 
-> Writing the whole number (102018 + 2018)2 by extension uses 4037 digits. What is the sum of all these numbers?
+> Writing out in full the integer (10^2018 + 2018)^2 uses 4037 digits. What is the sum of all these digits?
 >
 > - **(A)** 36
 > - **(B)** 31
@@ -306,7 +323,11 @@ This is the sum of the amounts of the following items: *
 > - **(D)** 51
 > - **(E)** 43
 
-**Answer:** A
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2018_triennio#q08|src_archimede_2018_triennio__Q08]]
 
 
 
@@ -340,11 +361,13 @@ This is the sum of the amounts of the following items: *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*External/internal area report of a frame*
+*Ratio of the outer to inner areas of a frame*
 
-![[src_archimede_2018_triennio__prob9.png]]
-
-> The larger side of the frame of a painting is 8/5 of the smaller side. The frame is the same thickness on all four sides. In the picture inside the frame (represented with a gray rectangle), the major side is double the minor side. What is the relationship between the area of the rectangle bounded by the outer edge of the frame and the area of the frame within the frame?
+> The longer side of the frame of a picture is 8/5 of the shorter side. The frame has the same thickness on all four
+> sides. In the picture inside the frame (represented
+> with a grey rectangle), the longer side is double the
+> shorter side. What is the ratio between the area of the rectangle bounded by the outer edge of the frame and the area of
+> the picture inside the frame?
 >
 > - **(A)** 7/3
 > - **(B)** 20/9
@@ -352,7 +375,9 @@ This is the sum of the amounts of the following items: *
 > - **(D)** 12/5
 > - **(E)** 64/25
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+[[Quesiti/src_archimede_2018_triennio#q09|src_archimede_2018_triennio__Q09]]
 
 
 
@@ -384,9 +409,10 @@ This is the sum of the amounts of the following items: *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Candy of 3 confections of 12 flavors with repeating*
+*Three-sweet favours among 12 flavours with repetition*
 
-> A pastry chef has 12 different-tasting confections in store and wants to pack confectionery containing three confections each, not necessarily of different tastes. How many different candy trucks can you make at most? (two confectioners are to be considered equal if they contain confectionery of the same taste and quantity)
+> A baker has in the shop sweets of 12 different flavours and wants to package favours each containing 3 sweets, not necessarily of different flavours. How many different favours can he make at most?
+> (two favours are to be considered equal if they contain sweets of the same flavours and in the same quantities)
 >
 > - **(A)** 364
 > - **(B)** 320
@@ -394,7 +420,11 @@ This is the sum of the amounts of the following items: *
 > - **(D)** 360
 > - **(E)** 348
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2018_triennio#q10|src_archimede_2018_triennio__Q10]]
 
 
 
@@ -428,11 +458,9 @@ This is the sum of the amounts of the following items: *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region shaded in a rectangle divided into two squares*
+*Shaded region area in a rectangle divided into two squares*
 
-![[src_archimede_2018_triennio__prob11.png]]
-
-> In the figure right next to this, it's a rectangle divided into two equal squares. The sides of each of the two squares are equal to 6 cm. How many cm2 is the total area of the shaded region?
+> In the figure alongside, a rectangle is shown divided into two equal squares. The side of each of the two squares is 6 cm. What is the total area of the shaded region, in cm2?
 >
 > - **(A)** 33
 > - **(B)** 30
@@ -440,7 +468,10 @@ This is the sum of the amounts of the following items: *
 > - **(D)** 27
 > - **(E)** 21
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2018_triennio#q11|src_archimede_2018_triennio__Q11]]
 
 
 
@@ -470,9 +501,9 @@ This is the sum of the amounts of the following items: *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Certain divider of a two-digit number repeated three times*
+*A certain divisor of a two-digit number repeated three times*
 
-> Anna rewrote a two-digit integer three times in a row, thus obtaining a six-digit S number. The number S is definitely divisible by...
+> Anna rewrote an integer of two digits three times in a row, obtaining a six-digit number S. The number S is certainly divisible by...
 >
 > - **(A)** 1111
 > - **(B)** 101
@@ -480,7 +511,10 @@ This is the sum of the amounts of the following items: *
 > - **(D)** 111
 > - **(E)** 1001
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2018_triennio#q12|src_archimede_2018_triennio__Q12]]
 
 
 
@@ -514,9 +548,9 @@ This is the sum of the amounts of the following items: *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rage of tangent circles with common tangents*
+*Common radius of two circles externally tangent to a third, with shared tangents*
 
-> The circumference β is centered at point B and radius 40. The circumferences α and γ, of centers A and C respectively, have the same radius r and are both tangent externally to β. The three centers A, B, C are aligned. Knowing that lines passing through A and tangents to β are also tangents to γ, what can be said about the radius r?
+> The circle β has center at the point B and radius 40. The circles α and γ, with centers A and C respectively, have the same radius r and are both externally tangent to β. The three centers A, B and C are collinear. Given that the lines through A that are tangent to β are also tangent to γ, what can be said about the radius r?
 >
 > - **(A)** r < 72
 > - **(B)** 72 ≤r < 75
@@ -524,7 +558,11 @@ This is the sum of the amounts of the following items: *
 > - **(D)** 78 ≤r < 81
 > - **(E)** r ≥81
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2018_triennio#q13|src_archimede_2018_triennio__Q13]]
 
 
 
@@ -555,9 +593,9 @@ This is the sum of the amounts of the following items: *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of empty seat between boy and girl*
+*Probability that the empty seat is between a boy and a girl*
 
-> Three boys and two girls have to sit around a table with six chairs, numbered from 1 to 6. To decide its place, each of the five draws one out of six sheets (numbered 1 to 6) by lot. What's the probability that the empty chair will be between a boy and a girl?
+> Three boys and two girls must sit around a table with six chairs, numbered 1 to 6. To decide their place, each of the five draws at random one of six slips (numbered 1 to 6). What is the probability that the chair that remains empty is between a boy and a girl?
 >
 > - **(A)** 2/5
 > - **(B)** 1/2
@@ -565,7 +603,10 @@ This is the sum of the amounts of the following items: *
 > - **(D)** 1/3
 > - **(E)** 3/4
 
-**Answer:** C
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+[[Quesiti/src_archimede_2018_triennio#q14|src_archimede_2018_triennio__Q14]]
 
 
 
@@ -604,11 +645,14 @@ This is the sum of the amounts of the following items: *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2018 number box in grid without multiples of 11*
+*The cell containing the number 2018 in a grid with no multiples of 11*
 
-![[src_archimede_2018_triennio__prob15.png]]
-
-> Giulia writes positive integers in a grid with 7 columns, as shown in the figure. Since he hates the number 11, his list lacks all the multiples of 11. Let's use (m;n) to indicate the box in the row number m (counting from the top) and column number n (counting from the left): for example, box (2; 4) contains the number 12. In which box will the 2018 issue be included?
+> Giulia writes the positive integers in a grid with 7
+> columns, as shown in the figure. Since she dislikes the number 11, all multiples of
+> 11 are missing from her list. We denote by (m; n) the cell located in row
+> number m (counting from the top) and in column number
+> n (counting from the left): for example, cell (2; 4)
+> contains the number 12. In which cell will the number 2018 be contained?
 >
 > - **(A)** (289; 2)
 > - **(B)** (263; 1)
@@ -616,7 +660,11 @@ This is the sum of the amounts of the following items: *
 > - **(D)** (262; 4)
 > - **(E)** (288; 2) 1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 23 24 25 ... ... ... ... ... ... ... ... ... ...
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2018_triennio#q15|src_archimede_2018_triennio__Q15]]
 
 
 
@@ -648,9 +696,9 @@ This is the sum of the amounts of the following items: *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*BCD area with median and bisetrical triangle isosceles*
+*Area BCD with median and angle bisector in an isosceles triangle*
 
-> In the isosceles triangle ABC, where AB = AC = 5 cm and BC = 8 cm, the median coming out of vertex B and the bisette coming out of vertex C intersect at point D. What is the area of the BCD triangle?
+> In the isosceles triangle ABC, where AB = AC = 5 cm and BC = 8 cm, the median from vertex B and the angle bisector from vertex C intersect at point D. What is the area of triangle BCD in cm2?
 >
 > - **(A)** 32 7
 > - **(B)** 21 5
@@ -658,7 +706,11 @@ This is the sum of the amounts of the following items: *
 > - **(D)** 4
 > - **(E)** 14 3
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2018_triennio#q16|src_archimede_2018_triennio__Q16]]
 
 
 
@@ -693,17 +745,25 @@ This is the sum of the amounts of the following items: *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many true statements on equation ax^2-bx+a=0*
+*How many of five statements about the equation ax2 −bx + a = 0 are true*
 
-> Consider the equation ax2 −bx + a = 0 in the unknown x, where a and b are positive real numbers. Of the following five statements, how many are true? • If b > 2a, there are two distinct real solutions. • If there are two distinct real solutions, they are positive. • If one solution is 9 times the other, then b > 3a. • Whatever a and b are, there cannot be two distinct whole solutions. • If there are two real solutions, their product is 1.
+> Consider the equation ax2 −bx + a = 0 in the unknown x, where a and b are positive real numbers. Of the following 5 statements, how many are true?
+> • If b > 2a, there are two distinct real solutions.
+> • If there are two distinct real solutions, they are positive.
+> • If one of the solutions is 9 times the other, then b > 3a.
+> • Whatever a and b are, there cannot be two distinct integer solutions.
+> • If there are two real solutions, their product is 1.
 >
 > - **(A)** only 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
-> - **(E)** All five .
+> - **(E)** all 5
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2018_triennio#q17|src_archimede_2018_triennio__Q17]]
 
 
 
@@ -738,11 +798,11 @@ This is the sum of the amounts of the following items: *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area four region from P to the midpoints of the quadrilateral*
+*Area of the fourth region from P to the midpoints of the quadrilateral*
 
-![[src_archimede_2018_triennio__prob18.png]]
-
-> From a point P within a convex quadrilateral, the segments connecting it to the midpoints of the sides are plotted. In this way, the quadrilateral is divided into four regions. The figures show the areas of three of these regions. What's the area of the fourth?
+> From a point P inside a convex quadrilateral, the segments joining it to the midpoints of the sides are drawn.
+> In this way, the quadrilateral is divided into four regions.
+> In the figure, the areas of three of these regions are indicated. What is the area of the fourth?
 >
 > - **(A)** 32
 > - **(B)** 30
@@ -750,7 +810,11 @@ This is the sum of the amounts of the following items: *
 > - **(D)** 31
 > - **(E)** 29 24 33 ? 22 P
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2018_triennio#q18|src_archimede_2018_triennio__Q18]]
 
 
 
@@ -787,17 +851,24 @@ This is the sum of the amounts of the following items: *
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the sum of the values of the derivatives of the derivatives.
+*Whether paired flips can turn CCTTCTTCC into TCTCTCTCT*
 
-> Giovanna placed nine coins in a row. Some show the face with the head, others with the cross, in this sequence: CCTTCTTCC. He plays this game: with each move, he picks two consecutive coins and flips both. Joan, with some moves like this, would like to get a row of coins arranged in the TCTCTCT sequence. What can be concluded?
+> Giovanna has placed 9 coins in a row. Some show heads (T), others tails (C), in this order:
+> CCTTCTTCC.
+> She plays this game: at each move, she chooses two consecutive coins and turns both over. With some moves of this kind, Giovanna wants to obtain the order
+> TCTCTCTCT.
+> What can one conclude?
 >
-> - **(A)** He can't do that.
-> - **(B)** He can do it with a minimum of four moves.
-> - **(C)** He can do it with a minimum of six moves.
-> - **(D)** He can do it with a minimum of eight moves.
-> - **(E)** He can do it with a odd number of moves.
+> - **(A)** she cannot do it.
+> - **(B)** she can do it in a minimum of 4 moves.
+> - **(C)** she can do it in a minimum of 6 moves.
+> - **(D)** she can do it in a minimum of 8 moves.
+> - **(E)** she can do it in an odd number of moves.
 
-**Answer:** A
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+[[Quesiti/src_archimede_2018_triennio#q19|src_archimede_2018_triennio__Q19]]
 
 
 
@@ -834,14 +905,18 @@ This is the sum of the values of the derivatives of the derivatives.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Soldiers remaining after repeated elimination of square positions*
+*Toy soldiers left after repeatedly removing those in square positions*
 
-> Cleopatra is playing with a row of n2 soldiers (where n is an integer greater than 30). First, Cleopatra removes from the line all soldiers whose position corresponds to a square (i.e. the 1°soldier, 4°, 9°, and so on). After completing this procedure, Cleopatra forms a new line with the remaining soldiers and repeats it again removing all the soldiers whose position in the new line corresponds to a square. It goes on this way, always with the same procedure. How many soldiers could have remained when Cleopatra, after completing the aforementioned procedure several times, became tired and stopped playing?
+> Cleopatra is playing with a row of n2 toy soldiers (where n is an integer greater than 30). First, Cleopatra removes from the row every toy soldier whose position is a square (that is, the 1st toy soldier, the 4th, the 9th, and so on). Once this procedure is complete, Cleopatra forms a new row with the toy soldiers that remain and repeats it, again removing every toy soldier whose position in the new row is a square. This continues in the same way, always with the same procedure. How many toy soldiers could be left when Cleopatra, after completing the procedure several times, gets tired and stops playing?
 >
 > - **(A)** 126
 > - **(B)** 132
 > - **(C)** 125
 > - **(D)** 140
-> - **(E)** 120 T2 Italian Mathematical Union PROJECT OLIMPIADES OF MATHEMATICS Ministry of Education, University and Research The Games of Archimedes - Triennio Competition 22 November 2018 • The test consists of 20 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). One of these answers is correct, the other four are wrong. • Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. You have 110 minutes to run the test. Good work and good fun! Name of the applicant and date of birth: e-mail (optional): 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+> - **(E)** 120
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2018_triennio#q20|src_archimede_2018_triennio__Q20]]

@@ -12,569 +12,995 @@ level: TFJM²
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Counting distinct jigsaw-puzzle pieces (unit squares with bumps/hollows on their sides) and characterizing singular puzzles that can be assembled in essentially one way.*
+*Pièces de puzzle carrées, avec une bosse ou un creux sur chaque côté : combien de pièces distinctes, et quels puzzles sont distingués ou singuliers.*
 
-> Puzzles. Nicolas designs puzzle pieces. His pieces are squares of side $1$ cm. On each side of a piece he can either leave the side straight, add a bump, or cut a hollow. There is a single shape of hollow (and hence a single complementary shape of bump). (See Figure 1 for examples of distinct pieces: the left and centre pieces are identical up to a rotation; the centre and right pieces are identical up to a flip, i.e. an axial symmetry.)
-> 
-> 1. How many distinct pieces (see Figure 1) exist if:
->  a) one does not allow rotating or flipping the pieces;
->  b) one allows rotating the pieces but not flipping them;
->  c) one allows rotating and flipping the pieces?
-> 
-> An $m\times n$ puzzle is a puzzle one can assemble, made of $m\times n$ pieces, forming a rectangle of length $m$ cm and width $n$ cm (the pieces being placed side by side, each bump matching a hollow), such that the straight sides lie exactly on the edge of the rectangle. We say that an $m\times n$ puzzle is singular if there is essentially only one way (up to a symmetry of the rectangle) to assemble it, i.e. no exchange of pieces yields the same arrangement.
-> 
-> 2. For which pairs of positive integers $(m,n)$ can one:
->  a) find a singular $m\times n$ puzzle;
->  b) find a non-singular $m\times n$ puzzle?
-> In other words, when can a puzzle fail to be singular, i.e. contain two identical pieces? (Reformulate question 2 if you wish.)
-> 
-> 3. What is the maximum number of pieces that a singular puzzle can contain?
-> 
-> 4. Answer question 2 if one requires the puzzle to be singular.
-> 
-> 5. Let an integer $k\in\mathbb{N}^*$ be fixed. One now allows $k$ shapes of hollow and as many corresponding shapes of bump, each kind of bump fitting only into its complementary hollow. Redo the previous questions.
-> 
-> 6. Propose and study other directions of research.
+> 1. Puzzles
+>
+> Nicolas conçoit des pièces de puzzle. Ses pièces sont des carrés de côté $1$ cm. Sur chaque côté d’une pièce, il peut choisir soit de laisser le bord droit, soit d’ajouter une bosse, soit de tailler un creux. Il n’y a (pour le début du problème) qu’une seule forme de bosse et une seule forme de creux, qui sont complémentaires.
+>
+> Figure 1. Les trois pièces ci-dessus sont distinctes ; les pièces à gauche et au centre sont identiques à rotation près ; les pièces au centre et à droite sont identiques à un retournement (c’est-à-dire une symétrie axiale) près.
+>
+> 1. Combien de pièces distinctes (voir Figure 1) existe-t-il :
+> a) en n’autorisant ni rotation, ni retournement ?
+> b) si on s’autorise à tourner les pièces mais pas à les retourner ?
+> c) si on s’autorise à tourner et à retourner les pièces ?
+>
+> On appelle puzzle de taille $m \times n$ un ensemble de $mn$ pièces qu’il est possible d’assembler, en forme de rectangle de $m$ centimètres de long et $n$ centimètres de large, sans les tourner ni les retourner, de sorte que chaque creux s’emboîte dans une bosse et réciproquement, et que les côtés plats soient uniquement sur le bord du rectangle. On dit qu’un puzzle est distingué lorsqu’il existe une unique façon d’assembler les $mn$ pièces pour former un rectangle $m \times n$ avec les contraintes ci-dessus, à un échange de pièces identiques près.
+>
+> 2. Pour quels couples d’entiers positifs $(m, n)$ peut-on :
+> a) trouver un puzzle distingué de taille $m \times n$ ?
+> b) trouver un puzzle non distingué de taille $m \times n$ ?
+>
+> On dit qu’un puzzle est singulier s’il ne comporte pas deux pièces identiques.
+>
+> 3. Quel est le nombre maximal de pièces que peut contenir un puzzle singulier ?
+>
+> 4. Reprendre la question 2 si l’on impose que le puzzle soit singulier.
+>
+> 5. Soit un entier $k \in \mathbb{N}^{*}$ fixé. On autorise maintenant $k$ formes de creux et autant de formes correspondantes de bosses, de sorte qu’une bosse ne puisse s’encastrer que dans un creux de la forme complémentaire. Reprendre les questions précédentes.
+>
+> 6. Reprendre les questions précédentes si l’on est désormais autorisé à tourner les pièces (mais pas à les retourner).
+>
+> 7. Proposer et étudier d’autres directions de recherche.
 
 ![[src_tfjm_2018__q01.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatoire]], [[topic_aritmetica|Arithmétique / théorie des nombres]]
+**Metodo:** [[method_casework|Analyse par cas]], [[method_conteggio|Dénombrement]], [[method_simmetria|Exploitation de la symétrie]]
+**Abilita:** [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_modellizzazione|Modélisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]], [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
-
-> [!warning] Estratto/tradotto da verificare con la fonte.
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare pezzi di puzzle distinti (quadrati di unità con protuberanze / buche sui loro lati) e caratterizzare puzzle singoli che possono essere assemblati in un modo essenzialmente unico.*
+*Pezzi di puzzle quadrati, con una bozza o un incavo su ogni lato: quanti pezzi distinti, e quali puzzle sono univoci o singolari.*
 
-> Puzzli. Nicolas progetta pezzi di puzzle. I suoi pezzi sono quadrati di lato $1$ cm. Su ciascun lato di un pezzo può lasciare il lato dritto, aggiungere un bump o tagliare un buco. C'è una singola forma di buco (e quindi una singola forma complementare di bump). (Vedi la figura 1 per esempi di pezzi distinti: i pezzi a sinistra e al centro sono identici fino a una rotazione; i pezzi a centro e a destra sono identici fino a una rovescia, cioè una simmetria assiale.)
-> 
-> 1. Quanti pezzi distinti (vedi Figura 1) esistono se: a) non si permette di ruotare o volgere i pezzi; b) si permette di ruotare i pezzi ma non di volgere; c) si permette di ruotare e volgere i pezzi?
-> 
-> Un puzzle $m\times n$ è un puzzle che si può assemblare, fatto di pezzi $m\times n$, formando un rettangolo di lunghezza $m$ cm e larghezza $n$ cm (i pezzi vengono posizionati fianco a fianco, ogni urto corrispondente a un vuoto), in modo che i lati dritti si trovino esattamente sul bordo del rettangolo. Diciamo che un puzzle $m\times n$ è singolare se c'è essenzialmente solo un modo (fino a una simmetria del rettangolo) per assemblarlo, cioè Nessun scambio di pezzi produce la stessa disposizione.
-> 
-> 2. Per quali coppie di integri positivi $(m,n)$ si può: a) trovare un puzzle singolare $m\times n$; b) trovare un puzzle non singolare $m\times n$? In altre parole, quando un puzzle può non essere singolare, cioè contengono due pezzi identici? (Rifigura la domanda 2 se lo desideri.)
-> 
-> 3. Qual è il numero massimo di pezzi che un singolo puzzle può contenere?
-> 
-> 4. Rispondi alla domanda 2 se uno richiede che il puzzle sia singolare.
-> 
-> 5. Si deve fissare un numero intero $k\in\mathbb{N}^*$. Una ora consente $k$ forme di buco e molte forme corrispondenti di bump, ogni tipo di bump che si adatta solo al suo buco complementare. Riprendi le domande precedenti.
-> 
-> 6. Proporre e studiare altre direzioni di ricerca.
+> 1. Puzzle
+>
+> Nicolas progetta pezzi di puzzle. I pezzi sono quadrati di lato $1$ cm. Su ogni lato di un pezzo può lasciare il bordo dritto, aggiungere una bozza, oppure intagliare un incavo. All’inizio del problema c’è una sola forma di bozza e una sola forma di incavo, e sono complementari.
+>
+> Figura 1. I tre pezzi sopra sono distinti; i pezzi a sinistra e al centro coincidono a meno di una rotazione; i pezzi al centro e a destra coincidono a meno di un ribaltamento (cioè di una simmetria assiale).
+>
+> 1. Quanti pezzi distinti esistono (si veda la Figura 1):
+> a) se non si ammettono né rotazioni né ribaltamenti?
+> b) se si possono ruotare i pezzi, ma non ribaltarli?
+> c) se si possono ruotare e ribaltare i pezzi?
+>
+> Si chiama puzzle di taglia $m \times n$ un insieme di $mn$ pezzi che si possono assemblare in un rettangolo lungo $m$ centimetri e largo $n$ centimetri, senza ruotarli né ribaltarli, in modo che ogni incavo si incastri in una bozza e viceversa, e che i lati piatti stiano solo sul bordo del rettangolo. Si dice che un puzzle è univoco se esiste un unico modo di assemblare gli $mn$ pezzi in un rettangolo $m \times n$ con i vincoli sopra, a meno di scambiare pezzi identici.
+>
+> 2. Per quali coppie di interi positivi $(m, n)$ si può:
+> a) trovare un puzzle univoco di taglia $m \times n$?
+> b) trovare un puzzle di taglia $m \times n$ che non è univoco?
+>
+> Si dice che un puzzle è singolare se non contiene due pezzi identici.
+>
+> 3. Qual è il massimo numero di pezzi che può contenere un puzzle singolare?
+>
+> 4. Si riprenda la domanda 2 imponendo che il puzzle sia singolare.
+>
+> 5. Sia fissato un intero $k \in \mathbb{N}^{*}$. Si ammettono ora $k$ forme di incavo e altrettante forme di bozza corrispondenti, così che una bozza si incastri solo in un incavo della forma complementare. Si riprendano le domande precedenti.
+>
+> 6. Si riprendano le domande precedenti se ora è permesso ruotare i pezzi (ma non ribaltarli).
+>
+> 7. Si propongano e si studino altre direzioni di ricerca.
 
-![[src_tfjm_2018__q01.png]]
+[[Quesiti/src_tfjm_2018#q01|src_tfjm_2018__Q01]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Square puzzle pieces with a bump or a hollow on each side: how many distinct pieces, and which puzzles are distinguished or singular.*
+
+> 1. Puzzles
+>
+> Nicolas designs puzzle pieces. His pieces are squares of side $1$ cm. On each side of a piece he may leave the edge straight, add a bump, or cut a hollow. For the start of the problem there is only one shape of bump and one shape of hollow, and they are complementary.
+>
+> Figure 1. The three pieces above are distinct; the left and centre pieces are the same up to rotation; the centre and right pieces are the same up to a flip (that is, an axial symmetry).
+>
+> 1. How many distinct pieces are there (see Figure 1):
+> a) if neither rotation nor flipping is allowed?
+> b) if the pieces may be rotated but not flipped?
+> c) if the pieces may be rotated and flipped?
+>
+> A puzzle of size $m \times n$ is a set of $mn$ pieces that can be assembled into a rectangle $m$ centimetres long and $n$ centimetres wide, without rotating or flipping them, so that every hollow fits a bump and conversely, and so that the flat sides lie only on the boundary of the rectangle. A puzzle is distinguished when there is exactly one way to assemble the $mn$ pieces into an $m \times n$ rectangle under the constraints above, up to exchanging identical pieces.
+>
+> 2. For which pairs of positive integers $(m, n)$ can one:
+> a) find a distinguished puzzle of size $m \times n$?
+> b) find a puzzle of size $m \times n$ that is not distinguished?
+>
+> A puzzle is singular if it does not contain two identical pieces.
+>
+> 3. What is the largest number of pieces a singular puzzle can contain?
+>
+> 4. Answer question 2 under the extra requirement that the puzzle be singular.
+>
+> 5. Fix an integer $k \in \mathbb{N}^{*}$. One now allows $k$ shapes of hollow and as many corresponding shapes of bump, so that a bump fits only a hollow of the complementary shape. Answer the previous questions again.
+>
+> 6. Answer the previous questions again if the pieces may now be rotated (but not flipped).
+>
+> 7. Propose and study other lines of inquiry.
+
+[[Quesiti/src_tfjm_2018#q01|src_tfjm_2018__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_ricorsione,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Comparing f(a,b), the number of Euclidean divisions in the standard Euclidean algorithm, with g(a,b), the minimal number using arbitrary earlier remainders, and finding lexicographically smallest pairs.*
+*Comparaison du nombre de divisions euclidiennes dans l’algorithme d’Euclide et dans une variante où l’on choisit des restes antérieurs.*
 
-> Faster than Euclid? Morgane wants to compute the greatest common divisor (GCD) of two integers $a$ and $b$ with $a\ge b\ge 1$. She uses the classical Euclidean algorithm, where $r(x,y)$ denotes the remainder of the Euclidean division of $x$ by $y$:
-> 
-> 1: $i\leftarrow 0$
-> 2: $(u_{-1},u_0)\leftarrow(a,b)$
-> 3: While $u_i\ge 1$:
-> 4: $\quad i\leftarrow i+1$
-> 5: $\quad u_i\leftarrow r(u_{i-2},u_{i-1})$
-> 6: Return $u_{i-1}$.
-> 
-> For example, to compute the GCD of $a=34$ and $b=21$, Morgane computes successively $u_1=r(34,21)=13$, $u_2=r(21,13)=8$, $u_3=r(13,8)=5$, $u_4=r(8,5)=3$, $u_5=r(5,3)=2$, $u_6=r(3,2)=1$, $u_7=r(2,1)=0$. She then returns $u_6=1$. The value of $i$ at the end of the algorithm is here $f(34,21)=7$. We denote by $f(a,b)$ this number of Euclidean divisions performed to compute the GCD of $a$ and $b$.
-> 
-> We define a lexicographic order on pairs: $(a,b)$ comes strictly before $(a',b')$ if and only if $a<a'$, or $a=a'$ and $b<b'$.
-> 
-> 1. For an integer $k$ fixed in advance, find the smallest pair $(a,b)$ for the lexicographic order such that $f(a,b)=k$.
-> 
-> To save effort, Morgane has another idea: rather than always using the two most recent results $u_{i-2}$ and $u_{i-1}$, she chooses at each step any two earlier values already computed and forms the remainder of the Euclidean division of the larger by the other. She then stops when she finds a value $d$ and has checked $r(a,d)=0$ and $r(b,d)=0$, and affirms that $d$ is the GCD of $a$ and $b$. For example, to compute the GCD of $a=u_{-1}=34$ and $b=u_0=21$, she may compute $u_1=r(34,21)=13$, $u_2=r(21,13)=8$, $u_3=r(13,8)=5$, $u_4=r(21,5)=1$, $u_5=r(34,1)=0$ and $u_6=r(21,1)=0$, and then affirm that $1$ is the GCD of $34$ and $21$.
-> 
-> 2. In the general case, i.e. for all possible pairs $a\ge b\ge 1$, is Morgane's affirmation in such examples correct?
-> 
-> 3. In the general case, is it enough to verify that $r(a,d)=0$ and $r(b,d)=0$ to affirm that $d$ is the GCD of $a$ and $b$?
-> 
-> We write $g(a,b)$ for the minimal number of Euclidean divisions Morgane must perform (in the manner described above) to compute the GCD of $a$ and $b$, including the divisions of $a$ and $b$ by $d$. The example above shows $g(34,21)\le 6$.
-> 
-> 4. Compute $g(34,21)$.
-> 
-> 5. Does there exist an integer $A$ such that one always has $g(a,b)\le f(a,b)+A$? If yes, give the smallest such $A$.
-> 
-> 6. Give a necessary condition and a sufficient condition on the pair $(a,b)$ for $g(a,b)=f(a,b)$.
-> 
-> 7. For which integers $A\ge 1$ does there exist a pair $(a,b)$ such that $g(a,b)+A\le f(a,b)$?
-> 
-> 8. For an integer $k$ fixed, what is the smallest pair $(a,b)$ for the lexicographic order such that $g(a,b)=k$? One may seek to express $a$ as a function of $k$.
-> 
-> 9. Propose and study other directions of research.
+> 2. Plus rapide qu’Euclide ?
+>
+> Morgane veut calculer le plus grand diviseur commun de deux entiers $a$ et $b$, avec $a \geqslant b \geqslant 1$. Elle utilise l’algorithme d’Euclide classique, où l’on note $r(x, y)$ le reste de la division euclidienne de $x$ par $y$ :
+>
+> 1. $i \leftarrow 0$
+> 2. $(u_{-1}, u_0) \leftarrow (a, b)$
+> 3. Tant que $u_i \geqslant 1$ :
+> 4. $i \leftarrow i + 1$
+> 5. $u_i \leftarrow r(u_{i-2}, u_{i-1})$
+> 6. On retourne $u_{i-1}$.
+>
+> Par exemple, pour le PGCD de $a = 34$ et $b = 21$, Morgane calcule successivement $u_1 = r(34, 21) = 13$, $u_2 = r(21, 13) = 8$, $u_3 = r(13, 8) = 5$, $u_4 = r(8, 5) = 3$, $u_5 = r(5, 3) = 2$, $u_6 = r(3, 2) = 1$ et $u_7 = r(2, 1) = 0$. Le PGCD est bien $1$. On note $f(a, b)$ la valeur de $i$ à la fin de l’algorithme, c’est-à-dire le nombre de divisions euclidiennes effectuées. Dans l’exemple, $f(34, 21) = 7$.
+>
+> Un couple $(a, b)$ d’entiers est strictement plus petit qu’un couple $(a', b')$ pour l’ordre lexicographique si $a < a'$, ou si $a = a'$ et $b < b'$.
+>
+> 1. Pour un entier $k$ fixé, quel est le plus petit couple $(a, b)$, pour l’ordre lexicographique, tel que $f(a, b) = k$ ?
+>
+> Plutôt que de n’utiliser que $u_{i-2}$ et $u_{i-1}$ pour calculer $u_i$, Morgane s’autorise à choisir deux valeurs précédentes de la suite $u$ et à prendre le reste de la division euclidienne de l’une par l’autre. Pour calculer $u_i$, elle choisit deux entiers $j_1$ et $j_2$ tels que $-1 \leqslant j_1, j_2 < i$, et pose $u_i = r(u_{j_1}, u_{j_2})$. Elle s’arrête dès qu’il existe un entier $d$ par lequel elle a divisé à la fois $a$ et $b$, avec $r(a, d) = r(b, d) = 0$. Elle affirme alors que $d$ est le PGCD de $a$ et $b$.
+>
+> Par exemple, pour $a = u_{-1} = 34$ et $b = u_0 = 21$, elle peut calculer $u_1 = r(34, 21) = 13$, $u_2 = r(21, 13) = 8$, $u_3 = r(13, 8) = 5$, $u_4 = r(21, 5) = 1$, $u_5 = r(34, 1) = 0$ et $u_6 = r(21, 1) = 0$, puis affirmer que $1$ est le PGCD de $34$ et $21$.
+>
+> 2. Dans le cas général, c’est-à-dire pour tous les entiers $a \geqslant b \geqslant 1$, l’affirmation de Morgane est-elle toujours correcte ?
+>
+> 3. Dans le cas général, suffit-il de vérifier que $r(a, d) = 0$ ou que $r(b, d) = 0$ pour affirmer que $d$ est le PGCD de $a$ et $b$ ?
+>
+> On note $g(a, b)$ le nombre minimal de divisions euclidiennes que Morgane doit effectuer avec cette méthode, y compris les deux divisions de $a$ et de $b$ par $d$. L’exemple ci-dessus montre que $g(34, 21) \leqslant 6$.
+>
+> 4. Calculer $g(34, 21)$.
+>
+> 5. Existe-t-il un entier relatif $A$ tel que l’on ait nécessairement $g(a, b) \leqslant f(a, b) + A$ ? Si oui, donner le plus petit entier $A$ possible.
+>
+> 6. Donner des conditions nécessaires et des conditions suffisantes sur le couple $(a, b)$ pour que $g(a, b) > f(a, b)$, et pour que $g(a, b) \geqslant f(a, b)$.
+>
+> 7. Pour quels entiers $A \geqslant 1$ existe-t-il des entiers $a \geqslant b \geqslant 1$ tels que $g(a, b) + A \leqslant f(a, b)$ ? Et tels que $g(a, b) \times A \leqslant f(a, b)$ ?
+>
+> 8. À $k$ fixé, quel est le plus petit couple $(a, b)$, pour l’ordre lexicographique, tel que $g(a, b) = k$ ? On pourra d’abord chercher à encadrer $a$ en fonction de $k$.
+>
+> 9. Proposer et étudier d’autres directions de recherche.
 
 ![[src_tfjm_2018__q02.png]]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Topic:** [[topic_aritmetica|Arithmétique / théorie des nombres]], [[topic_algebra|Algèbre]]
+**Metodo:** [[method_congruenze|Arithmétique modulaire / congruences]], [[method_ricorsione|Récursion]], [[method_estremalita|Principe d'extrémalité]], [[method_casework|Analyse par cas]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]], [[skill_lettura_attenta|Lecture attentive de l'énoncé]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
-
-> [!warning] Estratto/tradotto da verificare con la fonte.
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Confrontare f(a,b), il numero di divisioni euclidiche nell'algoritmo euclidico standard, con g(a,b), il numero minimo utilizzando residui precedenti arbitrari, e trovare le coppie lessicograficamente più piccole.*
+*Confronto tra il numero di divisioni euclidee nell’algoritmo di Euclide e in una variante che può usare resti precedenti.*
 
-> Più veloce di Euclide? Morgane vuole calcolare il più grande divisore comune (GCD) di due integri $a$ e $b$ con $a\ge b\ge 1$. Essa utilizza l'algoritmo euclidiano classico, dove $r(x,y)$ indica il resto della divisione euclidiana di $x$ da $y$:
-> 
-> 1: $i\leftarrow 0$ 2: $(u_{-1},u_0)\leftarrow(a,b)$ 3: Mentre $u_i\ge 1$: 4: $\quad i\leftarrow i+1$ 5: $\quad u_i\leftarrow r(u_{i-2},u_{i-1})$ 6: Ritorna $u_{i-1}$.
-> 
-> Per esempio, per calcolare il GCD di $a=34$ e $b=21$, Morgane calcola successivamente $u_1=r(34,21)=13$, $u_2=r(21,13)=8$, $u_3=r(13,8)=5$, $u_4=r(8,5)=3$, $u_5=r(5,3)=2$, $u_6=r(3,2)=1$, $u_7=r(2,1)=0$. In seguito restituisce $u_6=1$. Il valore di $i$ alla fine dell'algoritmo è qui $f(34,21)=7$. Indichiamo con $f(a,b)$ questo numero di divisioni euclidiche eseguite per calcolare il GCD di $a$ e $b$.
-> 
-> Difiniamo un ordine lessicografico su coppie: $(a,b)$ precede rigorosamente $(a',b')$ se e solo se $a<a'$, o $a=a'$ e $b<b'$.
-> 
-> 1. Per un numero intero $k$ fissato in anticipo, trovare la coppia $(a,b)$ più piccola per l'ordine lessicografico tale che $f(a,b)=k$.
-> 
-> Per risparmiare sforzi, Morgane ha un'altra idea: invece di usare sempre i due risultati più recenti $u_{i-2}$ e $u_{i-1}$, sceglie ad ogni passo due valori precedenti già calcolati e forma il resto della divisione euclidica del più grande per l'altro. Si ferma poi quando trova un valore $d$ e ha controllato $r(a,d)=0$ e $r(b,d)=0$, e afferma che $d$ è il GCD di $a$ e $b$. Ad esempio, per calcolare il GCD di $a=u_{-1}=34$ e $b=u_0=21$, può calcolare $u_1=r(34,21)=13$, $u_2=r(21,13)=8$, $u_3=r(13,8)=5$, $u_4=r(21,5)=1$, $u_5=r(34,1)=0$ e $u_6=r(21,1)=0$, e quindi affermare che $1$ è il GCD di $34$ e $21$.
-> 
-> 2. Nel caso generale, cioè: per tutte le possibili coppie $a\ge b\ge 1$, l'affermazione di Morgane in tali esempi è corretta?
-> 
-> 3. Nel caso generale, basta verificare che $r(a,d)=0$ e $r(b,d)=0$ per affermare che $d$ è il GCD di $a$ e $b$?
-> 
-> Scriviamo $g(a,b)$ per il numero minimo di divisioni euclidiche che Morgane deve eseguire (nel modo descritto sopra) per calcolare il GCD di $a$ e $b$, comprese le divisioni di $a$ e $b$ da $d$. L'esempio di cui sopra mostra $g(34,21)\le 6$.
-> 
-> 4. Calcolare $g(34,21)$.
-> 
-> 5. Esiste un intero $A$ tale da avere sempre $g(a,b)\le f(a,b)+A$? In caso affermativo, indicare il minimo di tali $A$.
-> 
-> 6. Indicare una condizione necessaria e una condizione sufficiente sulla coppia $(a,b)$ per $g(a,b)=f(a,b)$.
-> 
-> 7. Per quali integri $A\ge 1$ esiste una coppia $(a,b)$ tale che $g(a,b)+A\le f(a,b)$?
-> 
-> 8. Per un numero intero $k$ fisso, quale è la coppia $(a,b)$ più piccola per l'ordine lessicografico tale che $g(a,b)=k$? Si può cercare di esprimere $a$ come funzione di $k$.
-> 
-> 9. Proporre e studiare altre direzioni di ricerca.
+> 2. Più veloce di Euclide?
+>
+> Morgane vuole il massimo comune divisore di due interi $a$ e $b$, con $a \geqslant b \geqslant 1$. Usa l’algoritmo di Euclide classico. Si indica con $r(x, y)$ il resto della divisione euclidea di $x$ per $y$:
+>
+> 1. $i \leftarrow 0$
+> 2. $(u_{-1}, u_0) \leftarrow (a, b)$
+> 3. Finché $u_i \geqslant 1$:
+> 4. $i \leftarrow i + 1$
+> 5. $u_i \leftarrow r(u_{i-2}, u_{i-1})$
+> 6. Si restituisce $u_{i-1}$.
+>
+> Per il MCD di $a = 34$ e $b = 21$ calcola $u_1 = r(34, 21) = 13$, $u_2 = r(21, 13) = 8$, $u_3 = r(13, 8) = 5$, $u_4 = r(8, 5) = 3$, $u_5 = r(5, 3) = 2$, $u_6 = r(3, 2) = 1$ e $u_7 = r(2, 1) = 0$. Il MCD è proprio $1$. Si indica con $f(a, b)$ il valore finale di $i$, cioè il numero di divisioni euclidee eseguite. Nell’esempio, $f(34, 21) = 7$.
+>
+> Una coppia $(a, b)$ di interi è strettamente minore di una coppia $(a', b')$ nell’ordine lessicografico se $a < a'$, oppure se $a = a'$ e $b < b'$.
+>
+> 1. Fissato un intero $k$, qual è la coppia $(a, b)$ minima nell’ordine lessicografico tale che $f(a, b) = k$?
+>
+> Invece di usare solo $u_{i-2}$ e $u_{i-1}$ per calcolare $u_i$, Morgane può scegliere due valori precedenti della successione $u$ e prendere il resto della divisione euclidea dell’uno per l’altro. Per calcolare $u_i$ sceglie due interi $j_1$ e $j_2$ tali che $-1 \leqslant j_1, j_2 < i$, e pone $u_i = r(u_{j_1}, u_{j_2})$. Si ferma appena esiste un intero $d$ per il quale ha diviso sia $a$ sia $b$, con $r(a, d) = r(b, d) = 0$. Afferma allora che $d$ è il MCD di $a$ e $b$.
+>
+> Per $a = u_{-1} = 34$ e $b = u_0 = 21$ può calcolare $u_1 = r(34, 21) = 13$, $u_2 = r(21, 13) = 8$, $u_3 = r(13, 8) = 5$, $u_4 = r(21, 5) = 1$, $u_5 = r(34, 1) = 0$ e $u_6 = r(21, 1) = 0$, e affermare che $1$ è il MCD di $34$ e $21$.
+>
+> 2. In generale, per ogni coppia di interi $a \geqslant b \geqslant 1$, l’affermazione di Morgane è sempre corretta?
+>
+> 3. In generale, basta verificare che $r(a, d) = 0$ oppure che $r(b, d) = 0$ per affermare che $d$ è il MCD di $a$ e $b$?
+>
+> Si indica con $g(a, b)$ il minimo numero di divisioni euclidee che Morgane deve eseguire con questo metodo, comprese le due divisioni di $a$ e di $b$ per $d$. L’esempio mostra che $g(34, 21) \leqslant 6$.
+>
+> 4. Calcolare $g(34, 21)$.
+>
+> 5. Esiste un intero relativo $A$ tale che si abbia necessariamente $g(a, b) \leqslant f(a, b) + A$? In caso affermativo, dare il minimo intero $A$ possibile.
+>
+> 6. Dare condizioni necessarie e condizioni sufficienti sulla coppia $(a, b)$ affinché $g(a, b) > f(a, b)$, e affinché $g(a, b) \geqslant f(a, b)$.
+>
+> 7. Per quali interi $A \geqslant 1$ esistono interi $a \geqslant b \geqslant 1$ tali che $g(a, b) + A \leqslant f(a, b)$? E tali che $g(a, b) \times A \leqslant f(a, b)$?
+>
+> 8. Fissato $k$, qual è la coppia $(a, b)$ minima nell’ordine lessicografico tale che $g(a, b) = k$? Si può cominciare cercando di stimare $a$ in funzione di $k$.
+>
+> 9. Si propongano e si studino altre direzioni di ricerca.
 
-![[src_tfjm_2018__q02.png]]
+[[Quesiti/src_tfjm_2018#q02|src_tfjm_2018__Q02]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Comparing the number of Euclidean divisions in the ordinary Euclidean algorithm with a variant that may use earlier remainders.*
+
+> 2. Faster than Euclid?
+>
+> Morgane wants the greatest common divisor of two integers $a$ and $b$, with $a \geqslant b \geqslant 1$. She uses the ordinary Euclidean algorithm. Write $r(x, y)$ for the remainder of the Euclidean division of $x$ by $y$:
+>
+> 1. $i \leftarrow 0$
+> 2. $(u_{-1}, u_0) \leftarrow (a, b)$
+> 3. While $u_i \geqslant 1$:
+> 4. $i \leftarrow i + 1$
+> 5. $u_i \leftarrow r(u_{i-2}, u_{i-1})$
+> 6. Return $u_{i-1}$.
+>
+> For the gcd of $a = 34$ and $b = 21$ she computes $u_1 = r(34, 21) = 13$, $u_2 = r(21, 13) = 8$, $u_3 = r(13, 8) = 5$, $u_4 = r(8, 5) = 3$, $u_5 = r(5, 3) = 2$, $u_6 = r(3, 2) = 1$ and $u_7 = r(2, 1) = 0$. The gcd is indeed $1$. Write $f(a, b)$ for the final value of $i$, that is, the number of Euclidean divisions performed. In the example, $f(34, 21) = 7$.
+>
+> A pair $(a, b)$ of integers is strictly smaller than a pair $(a', b')$ in lexicographic order if $a < a'$, or if $a = a'$ and $b < b'$.
+>
+> 1. For a fixed integer $k$, what is the lexicographically smallest pair $(a, b)$ such that $f(a, b) = k$?
+>
+> Instead of using only $u_{i-2}$ and $u_{i-1}$ to compute $u_i$, Morgane may choose any two earlier terms of the sequence $u$ and take the remainder of one divided by the other. To compute $u_i$ she chooses integers $j_1$ and $j_2$ with $-1 \leqslant j_1, j_2 < i$, and sets $u_i = r(u_{j_1}, u_{j_2})$. She stops as soon as there is an integer $d$ by which she has divided both $a$ and $b$, with $r(a, d) = r(b, d) = 0$. She then claims that $d$ is the gcd of $a$ and $b$.
+>
+> For $a = u_{-1} = 34$ and $b = u_0 = 21$ she may compute $u_1 = r(34, 21) = 13$, $u_2 = r(21, 13) = 8$, $u_3 = r(13, 8) = 5$, $u_4 = r(21, 5) = 1$, $u_5 = r(34, 1) = 0$ and $u_6 = r(21, 1) = 0$, and then claim that $1$ is the gcd of $34$ and $21$.
+>
+> 2. In general, for every pair of integers $a \geqslant b \geqslant 1$, is Morgane’s claim always correct?
+>
+> 3. In general, is it enough to check that $r(a, d) = 0$ or that $r(b, d) = 0$ in order to claim that $d$ is the gcd of $a$ and $b$?
+>
+> Write $g(a, b)$ for the least number of Euclidean divisions Morgane must perform with this method, including the two divisions of $a$ and of $b$ by $d$. The example shows that $g(34, 21) \leqslant 6$.
+>
+> 4. Compute $g(34, 21)$.
+>
+> 5. Is there an integer $A$ such that $g(a, b) \leqslant f(a, b) + A$ always holds? If so, give the smallest such $A$.
+>
+> 6. Give necessary conditions and sufficient conditions on the pair $(a, b)$ for $g(a, b) > f(a, b)$, and for $g(a, b) \geqslant f(a, b)$.
+>
+> 7. For which integers $A \geqslant 1$ do there exist integers $a \geqslant b \geqslant 1$ with $g(a, b) + A \leqslant f(a, b)$? And with $g(a, b) \times A \leqslant f(a, b)$?
+>
+> 8. For fixed $k$, what is the lexicographically smallest pair $(a, b)$ such that $g(a, b) = k$? One may begin by bounding $a$ in terms of $k$.
+>
+> 9. Propose and study other lines of inquiry.
+
+[[Quesiti/src_tfjm_2018#q02|src_tfjm_2018__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,method_backward,skill_modellizzazione,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*A two-player game placing buildings on n plots by the sea; a building of i floors goes on plot i, floors with a sea view score points, and one analyzes guaranteed advantage and optimal scores under several rule variants.*
+*Immeubles en bord de mer : deux promotrices placent des tours de hauteur imposée, et l’on étudie l’avantage et le score des étages qui voient la mer.*
 
-> View on the sea. In the seaside resort of Vecteur-les-Bains, competition between property developers is fierce. Each wants to build buildings offering the most floors with a view of the sea. There are $n$ locations numbered from $1$ to $n$ (location $1$ is at the seaside, location $n$ farthest from it). Cécile and Eva confront each other to construct buildings. The legislation is very strict: on location $i$ one has the right to build a building of exactly $i$ floors. A floor of a building has a view of the sea if and only if it is strictly higher than every building between it and the sea (see Figure 2).
-> 
-> Cécile builds the first building on the location of her choice, then Eva builds in turn on a remaining location, and so on, until $k$ buildings have been placed. For each building one counts the number of floors with a view of the sea; the score of a player is the sum of the scores of her buildings.
-> 
-> 1. What is the best advantage Cécile can guarantee herself when:
->  a) $k=1,2,3$;
->  b) $k=n,n-1$;
->  c) $k$ arbitrary?
-> 
-> 2. Cécile and Eva now make peace: each seeks to maximize her own score, without worrying about the other's. When a developer can guarantee herself the same score in several ways, she chooses the option that gives the best score to the other.
->  a) What is the greatest score Cécile can guarantee herself? One may begin by studying the same particular values of $k$ as in question 1.
->  b) Same question for Eva.
-> 
-> 3. The legislation changes. Two integers $k_C$ and $k_E$ are now fixed such that $k_C+k_E\le n$. Cécile and Eva play respectively $k_C$ and $k_E$ times, in an order decided by the law. Redo the previous questions when:
->  a) $n=1$, $k_C$ arbitrary and Eva plays after Cécile has placed her $k_C$ buildings;
->  b) $k_C$ and $k_E$ arbitrary, Cécile places her $k_C$ buildings then Eva places her $k_E$ buildings;
->  c) $k_C$ and $k_E$ arbitrary and Cécile chooses the order in which they play.
-> 
-> 4. Because of global warming, the sea level has risen and Vecteur-les-Bains is now an island. The terrain is now a strip of $2n-1$ parcels bordered by the sea on both sides. At distance $k$ from the nearest arm of the sea, one can build a building of size $k$ (see Figure 3). Each floor is separated into $2$ apartments (one facing left and one facing right), and the score is the number of apartments that allow seeing the sea. Redo the previous questions in this setting.
-> 
-> 5. Propose and study other directions of research.
+> 3. Vue sur la mer
+>
+> Dans la station balnéaire de Vecteur-les-Bains, la concurrence entre promoteurs immobiliers fait rage. Chacun veut construire des immeubles offrant le plus d’étages possibles avec vue sur la mer.
+>
+> On fixe deux entiers $n$ et $k$ tels que $1 \leqslant k \leqslant n$. Cécile et Eva s’affrontent pour construire des immeubles sur un terrain de $n$ emplacements, numérotés de $1$ à $n$. L’emplacement $1$ est au bord de la mer, l’emplacement $2$ est juste derrière, et ainsi de suite jusqu’à l’emplacement $n$. Sur l’emplacement $i$, on a uniquement le droit de construire un immeuble d’exactement $i$ étages. Un étage d’un immeuble voit la mer si et seulement si aucun immeuble situé entre lui et la mer n’atteint la hauteur de cet étage (voir Figure 2).
+>
+> Figure 2. Cécile a construit un immeuble sur l’emplacement $5$, et Eva un immeuble sur l’emplacement $3$. Les trois étages de l’immeuble d’Eva ont vue sur la mer, tout comme les deux étages les plus élevés de l’immeuble de Cécile (les trois autres ont la vue bouchée par l’immeuble d’Eva).
+>
+> Cécile place un premier immeuble sur l’emplacement de son choix, puis Eva en place un sur un autre emplacement, puis Cécile, et ainsi de suite jusqu’à ce que $k$ immeubles aient été placés au total. Pour chaque promotrice, le score est le nombre d’étages de ses constructions qui voient la mer, et l’avantage est la différence entre son score et celui de l’autre.
+>
+> 1. Quel est le meilleur avantage que Cécile peut s’assurer lorsque :
+> a) $k = 1, 2, 3$ ?
+> b) $k = n$ et $k = n - 1$ ?
+> c) $k$ est quelconque ?
+>
+> 2. Cécile et Eva ont fait la paix : chacune essaie désormais de maximiser son propre score, sans se préoccuper de celui de l’autre. Lorsqu’une promotrice a plusieurs façons de s’assurer le même score, elle choisit celle qui donne le plus haut score final à l’autre.
+> a) Quel est le plus grand score que Cécile peut s’assurer ? On pourra commencer par les mêmes valeurs particulières de $k$ que dans la question 1.
+> b) Même question pour Eva.
+>
+> 3. La législation change. Deux entiers naturels $k_C$ et $k_E$ sont fixés, avec $k_C + k_E \leqslant n$. Cécile et Eva jouent respectivement $k_C$ et $k_E$ coups, dans un ordre décidé par la loi. Reprendre les questions précédentes lorsque :
+> a) $k_E = 1$, $k_C$ est quelconque, et Eva joue après que Cécile a placé ses $k_C$ immeubles ;
+> b) $k_C$ et $k_E$ sont quelconques, Cécile place ses $k_C$ immeubles puis Eva place ses $k_E$ immeubles ;
+> c) $k_C$ et $k_E$ sont quelconques et Cécile choisit l’ordre dans lequel les deux jouent.
+>
+> 4. À cause du réchauffement climatique, le niveau de la mer a augmenté et Vecteur-les-Bains est devenue une île. Elle est constituée d’une rangée de $2n - 1$ parcelles et elle est bordée par la mer des deux côtés. À une distance $k$ du bras de mer le plus proche, on peut construire un immeuble de taille $k$ (voir Figure 3). Chaque étage est séparé en $2$ appartements (un à gauche et un à droite), et le score d’une promotrice est le nombre d’appartements de ses constructions qui voient la mer. Reprendre les questions précédentes dans ce cadre.
+>
+> Figure 3. Le score de Cécile est $5$ : quatre appartements voient la mer à gauche et un à droite. Celui d’Eva est $3$ : trois appartements voient la mer à droite.
+>
+> 5. Proposer et étudier d’autres directions de recherche.
 
 ![[src_tfjm_2018__q03.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_backward|Backward]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoire]], [[topic_logica|Logique, jeux, stratégies]]
+**Metodo:** [[method_casework|Analyse par cas]], [[method_estremalita|Principe d'extrémalité]], [[method_backward|Raisonnement à rebours]]
+**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_ragionamento_geometrico|Raisonnement géométrique]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
-
-> [!warning] Estratto/tradotto da verificare con la fonte.
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un gioco per due giocatori che colloca gli edifici su n parcelli accanto al mare; un edificio di i piani si svolge su parcello i, pavimenti con punti di punteggio di vista sul mare, e si analizzano vantaggi garantiti e punteggi ottimali sotto diverse varianti di regola.*
+*Palazzi sul mare: due promotrici piazzano torri di altezza fissata, e si studia il vantaggio e il punteggio dei piani che vedono il mare.*
 
-> Vista sul mare. Nella località balneare di Vecteur-les-Bains, la concorrenza tra gli sviluppatori immobiliari è intensa. Ognuno vuole costruire edifici che offrano il maggior numero di piani con vista sul mare. Ci sono località $n$ numerate da $1$ a $n$ (località $1$ si trova sul mare, località $n$ più lontana da esso). Cécile ed Eva si confrontano per costruire edifici. La legislazione è molto rigorosa: in un luogo $i$ si ha il diritto di costruire un edificio di esattamente $i$ piani. Un pavimento di un edificio ha vista sul mare se e solo se è strettamente più alto di ogni edificio che lo separa dal mare (vedere figura 2).
-> 
-> Cécile costruisce il primo edificio sul luogo di sua scelta, poi Eva costruisce a sua volta su un luogo rimanente, e così via, fino a quando non sono stati posizionati gli edifici $k$. Per ogni edificio si conta il numero di piani con vista sul mare; il punteggio di un giocatore è la somma dei punteggi dei suoi edifici.
-> 
-> 1. Qual è il miglior vantaggio che Cécile può garantire se: a) $k=1,2,3$; b) $k=n,n-1$; c) $k$ arbitrario?
-> 
-> 2. Cécile ed Eva ora fanno pace: ognuna cerca di massimizzare il proprio punteggio, senza preoccuparsi dell'altro. Quando uno sviluppatore può garantire a se stesso lo stesso punteggio in diversi modi, sceglie l'opzione che dà il miglior punteggio all'altro. a) Qual è il massimo punteggio che Cécile può garantire a se stessa? Si può iniziare studiando gli stessi valori particolari di $k$ come nella domanda 1. b) La stessa domanda per Eva.
-> 
-> 3. La legislazione cambia. Due integri $k_C$ e $k_E$ sono ora fissati in modo tale che $k_C+k_E\le n$. Cécile ed Eva giocano rispettivamente $k_C$ e $k_E$ volte, in un ordine deciso dalla legge. Risolvi le domande precedenti quando: a) $n=1$, $k_C$ arbitrario e Eva suona dopo che Cécile ha posto i suoi edifici $k_C$; b) $k_C$ e $k_E$ arbitrario, Cécile posiziona i suoi edifici $k_C$ e Eva le posiziona i suoi edifici $k_E$; c) $k_C$ e $k_E$ arbitrario e Cécile sceglie l'ordine in cui giocano.
-> 
-> 4. A causa del riscaldamento globale, il livello del mare è aumentato e Vecteur-les-Bains è ora un'isola. Il terreno è ora una striscia di parcelli $2n-1$ di cui il mare confina da entrambi i lati. A distanza $k$ dal braccio più vicino del mare, si può costruire un edificio di dimensioni $k$ (vedere figura 3). Ogni piano è diviso in appartamenti $2$ (uno rivolto a sinistra e uno a destra), e il punteggio è il numero di appartamenti che consentono di vedere il mare. Riprendi le domande precedenti in questo contesto.
-> 
-> 5. Proporre e studiare altre direzioni di ricerca.
+> 3. Vista sul mare
+>
+> Nella località balneare di Vecteur-les-Bains la concorrenza tra i promotori immobiliari è feroce. Ciascuno vuole palazzi con il maggior numero possibile di piani che vedano il mare.
+>
+> Si fissano due interi $n$ e $k$ tali che $1 \leqslant k \leqslant n$. Cécile ed Eva costruiscono su un terreno di $n$ lotti, numerati da $1$ a $n$. Il lotto $1$ è sul mare, il lotto $2$ è subito dietro, e così via fino al lotto $n$. Sul lotto $i$ si può costruire soltanto un palazzo di esattamente $i$ piani. Un piano vede il mare se e solo se nessun palazzo posto tra esso e il mare raggiunge l’altezza di quel piano (si veda la Figura 2).
+>
+> Figura 2. Cécile ha costruito sul lotto $5$, Eva sul lotto $3$. I tre piani del palazzo di Eva vedono il mare, come i due piani più alti del palazzo di Cécile (gli altri tre sono coperti dal palazzo di Eva).
+>
+> Cécile piazza un primo palazzo sul lotto che sceglie, poi Eva ne piazza uno su un altro lotto, poi di nuovo Cécile, e così via finché non sono stati piazzati $k$ palazzi in tutto. Per ciascuna promotrice il punteggio è il numero di piani delle sue costruzioni che vedono il mare, e il vantaggio è la differenza tra il suo punteggio e quello dell’altra.
+>
+> 1. Qual è il miglior vantaggio che Cécile può garantirsi quando:
+> a) $k = 1, 2, 3$?
+> b) $k = n$ e $k = n - 1$?
+> c) $k$ è arbitrario?
+>
+> 2. Cécile ed Eva hanno fatto la pace: ciascuna cerca ora di massimizzare il proprio punteggio, senza curarsi di quello dell’altra. Se una promotrice ha più modi di garantirsi lo stesso punteggio, sceglie quello che dà all’altra il punteggio finale più alto.
+> a) Qual è il massimo punteggio che Cécile può garantirsi? Si può cominciare dagli stessi valori particolari di $k$ della domanda 1.
+> b) La stessa domanda per Eva.
+>
+> 3. La normativa cambia. Si fissano due interi non negativi $k_C$ e $k_E$, con $k_C + k_E \leqslant n$. Cécile ed Eva giocano rispettivamente $k_C$ e $k_E$ mosse, in un ordine deciso dalla legge. Si riprendano le domande precedenti quando:
+> a) $k_E = 1$, $k_C$ è arbitrario, ed Eva gioca dopo che Cécile ha piazzato i suoi $k_C$ palazzi;
+> b) $k_C$ e $k_E$ sono arbitrari, Cécile piazza i suoi $k_C$ palazzi e poi Eva piazza i suoi $k_E$ palazzi;
+> c) $k_C$ e $k_E$ sono arbitrari e Cécile sceglie l’ordine in cui le due giocano.
+>
+> 4. Per il riscaldamento climatico il livello del mare è salito e Vecteur-les-Bains è diventata un’isola. È formata da una fila di $2n - 1$ lotti ed è bagnata dal mare dai due lati. A distanza $k$ dal braccio di mare più vicino si può costruire un palazzo di taglia $k$ (si veda la Figura 3). Ogni piano è diviso in $2$ appartamenti (uno a sinistra e uno a destra), e il punteggio di una promotrice è il numero di appartamenti delle sue costruzioni che vedono il mare. Si riprendano le domande precedenti in questo quadro.
+>
+> Figura 3. Il punteggio di Cécile è $5$: quattro appartamenti vedono il mare a sinistra e uno a destra. Quello di Eva è $3$: tre appartamenti vedono il mare a destra.
+>
+> 5. Si propongano e si studino altre direzioni di ricerca.
 
-![[src_tfjm_2018__q03.png]]
+[[Quesiti/src_tfjm_2018#q03|src_tfjm_2018__Q03]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Buildings by the sea: two developers place towers of prescribed height, and one studies the advantage and the score of floors with a sea view.*
+
+> 3. Sea view
+>
+> In the seaside resort of Vecteur-les-Bains, property developers compete fiercely. Each wants buildings with as many floors as possible that look out to sea.
+>
+> Fix integers $n$ and $k$ with $1 \leqslant k \leqslant n$. Cécile and Eva build on a plot of $n$ sites, numbered from $1$ to $n$. Site $1$ is on the seafront, site $2$ is just behind it, and so on up to site $n$. On site $i$ one may build a building of exactly $i$ floors, and nothing else. A floor sees the sea if and only if no building between it and the sea reaches the height of that floor (see Figure 2).
+>
+> Figure 2. Cécile has built on site $5$, and Eva on site $3$. All three floors of Eva’s building see the sea, as do the two highest floors of Cécile’s building (the other three are blocked by Eva’s building).
+>
+> Cécile places a first building on a site of her choice, then Eva places one on another site, then Cécile again, and so on until $k$ buildings have been placed in all. For each developer, the score is the number of floors of her buildings that see the sea, and the advantage is the difference between her score and the other’s.
+>
+> 1. What is the best advantage Cécile can guarantee when:
+> a) $k = 1, 2, 3$?
+> b) $k = n$ and $k = n - 1$?
+> c) $k$ is arbitrary?
+>
+> 2. Cécile and Eva have made peace: each now tries to maximise her own score, and does not care about the other’s. If a developer has several ways to guarantee the same score, she chooses the one that gives the other the highest final score.
+> a) What is the greatest score Cécile can guarantee? One may begin with the same special values of $k$ as in question 1.
+> b) The same question for Eva.
+>
+> 3. The law changes. Two natural numbers $k_C$ and $k_E$ are fixed, with $k_C + k_E \leqslant n$. Cécile and Eva play $k_C$ and $k_E$ moves respectively, in an order fixed by the law. Answer the previous questions when:
+> a) $k_E = 1$, $k_C$ is arbitrary, and Eva plays after Cécile has placed her $k_C$ buildings;
+> b) $k_C$ and $k_E$ are arbitrary, Cécile places her $k_C$ buildings and then Eva places her $k_E$ buildings;
+> c) $k_C$ and $k_E$ are arbitrary and Cécile chooses the order in which the two play.
+>
+> 4. Because of global warming the sea has risen, and Vecteur-les-Bains has become an island. It consists of a row of $2n - 1$ plots and is bordered by the sea on both sides. At distance $k$ from the nearer arm of the sea one may build a building of size $k$ (see Figure 3). Each floor is split into $2$ flats (one on the left and one on the right), and a developer’s score is the number of flats of her buildings that see the sea. Answer the previous questions in this setting.
+>
+> Figure 3. Cécile’s score is $5$: four flats see the sea on the left and one on the right. Eva’s score is $3$: three flats see the sea on the right.
+>
+> 5. Propose and study other lines of inquiry.
+
+[[Quesiti/src_tfjm_2018#q03|src_tfjm_2018__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_conteggio,skill_modellizzazione,skill_casework_accurato,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Galettes des rois: n galettes each cut into k parts contain hidden feves with a_1<=...<=a_n feves; given how many feves were already found, decide which galette to pick to maximize (or minimize) the chance of finding a feve, and study useless galettes.*
+*Galettes des rois : sachant combien de parts restent et combien de fèves ont déjà été trouvées, dans quelle galette piocher pour maximiser ou minimiser la probabilité d’en trouver une.*
 
-> Galettes des rois (kings' cakes). At the high school's galette des rois, there are $n$ galettes numbered $1$ to $n$, each cut into $k$ parts, where $k$ and $n$ are strictly positive integers. Guillaume eats at random: arriving, he takes one part of one galette. Each galette may contain fèves (charms) or not. Let $a_i$ be the number of fèves in galette $i$. We suppose $a_1\le a_2\le\cdots\le a_n$.
-> 
-> 1. Compute $\mathbb{P}(L=\ell)$ for any integer $\ell\ge 0$, where $L$ is the number of fèves already found before Guillaume arrives. What is the expectation of $L$?
-> 
-> 2. Taking a part at random in galette $i$, what is the probability that Guillaume finds a fève? How should he proceed to maximize his chances of finding a fève?
-> 
-> Thomas, who has been there from the start, tells Guillaume that $\ell$ fèves have been found up to now, with $0\le\ell\le n-1$.
-> 
-> 3. As a function of $\ell$, which galette should Guillaume choose his part from to have the best chance of finding a fève? What is then the probability that he finds one? Treat the following cases:
->  a) $n=2$;
->  b) $n=3$;
->  c) $\ell=0$;
->  d) $\ell=1$;
->  e) $\ell=n-1$;
->  f) $n,\ell$ arbitrary, but all the galettes contain the same number of parts;
->  g) $k=n$ and $a_i=1$ for all $i$;
->  h) $n,\ell$ arbitrary.
-> 
-> 4. In this question, suppose $a_1<a_2<\cdots<a_n$. We say that a galette $i$ is useless if, whatever the value $\ell$ given by Thomas, galette $i$ is never the galette giving the best chance of finding a fève. As a function of $n$, is it possible that no galette is ever useless? Which galettes are never useless? What are the possible numbers of useless galettes?
-> 
-> 5. Guillaume is very full and now fears that he must at least taste the parts containing the fèves. He now wants the fewest chances possible of finding one. Redo questions 3 and 4 in this setting.
-> 
-> 6. Propose and study other directions of research.
+> 4. Galettes des rois
+>
+> À la galette des rois du lycée, il y a $n$ galettes numérotées de $1$ à $n$, chacune découpée en $k$ parts, où $k$ et $n$ sont deux entiers $\geqslant 1$. Chaque galette contient initialement une seule fève. Guillaume est en retard : quand il arrive, pour tout $1 \leqslant i \leqslant n$, il reste $a_i$ parts dans la galette $i$. On suppose que tous ceux qui ont pris une part l’ont choisie uniformément au hasard dans une des galettes. On note $L$ le nombre de fèves déjà trouvées avant l’arrivée de Guillaume. On suppose $a_1 \leqslant a_2 \leqslant \cdots \leqslant a_n$.
+>
+> 1. Calculer $\mathbb{P}(L = \ell)$ pour tout entier $\ell \geqslant 0$. Quelle est l’espérance de $L$ ?
+>
+> 2. En prenant une part au hasard dans la galette $i$, quelle est la probabilité que Guillaume trouve une fève ? Dans quelle galette doit-il piocher pour maximiser ses chances ?
+>
+> Thomas, présent depuis le début, indique à Guillaume que $\ell$ fèves ont été trouvées, avec $0 \leqslant \ell \leqslant n - 1$.
+>
+> 3. En fonction de $\ell$, dans quelle galette Guillaume doit-il prendre une part pour avoir le plus de chances de trouver une fève ? Quelle est alors cette probabilité ? On pourra traiter les cas suivants :
+> a) $n = 2$ ;
+> b) $n = 3$ ;
+> c) $\ell = 0$ ;
+> d) $\ell = 1$ ;
+> e) $\ell = n - 1$ ;
+> f) $n$ et $\ell$ quelconques, mais toutes les galettes entamées contiennent le même nombre de parts ;
+> g) $k = n$ et $a_i = i$ pour tout $i$ ;
+> h) $n$ et $\ell$ quelconques.
+>
+> 4. On suppose ici $a_1 < a_2 < \cdots < a_n$. Une galette $i$ est inutile si, quelle que soit la valeur $\ell$ donnée par Thomas, la galette $i$ n’est pas celle où Guillaume a le plus de chances de trouver une fève. En fonction de $n$, est-il possible qu’aucune galette ne soit inutile ? Que toutes les galettes sauf une soient inutiles ? Quels sont les nombres possibles de galettes inutiles ?
+>
+> 5. Guillaume a très faim et craint qu’il y ait moins à manger dans les parts qui contiennent une fève. Il veut donc minimiser ses chances d’en trouver une. Reprendre les questions 3 et 4 dans ce cadre.
+>
+> 6. Proposer et étudier d’autres directions de recherche.
 
 ![[src_tfjm_2018__q04.png]]
 
-**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilités et statistique]], [[topic_combinatoria|Combinatoire]]
+**Metodo:** [[method_casework|Analyse par cas]], [[method_conteggio|Dénombrement]]
+**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_stima|Estimation et approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
-
-> [!warning] Estratto/tradotto da verificare con la fonte.
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gallettes des rois: n galettes ciascuna tagliata in k parti contengono febbre nascoste con febbre a_1<=...<=a_n; data la quantità di febbre già trovate, decidete quale galette scegliere per massimizzare (o ridurre al minimo) la possibilità di trovare una febbre, e studiate le galettes inutili.*
+*Galette des rois: note quante fette restano e quante fave sono già state trovate, da quale torta pescare per massimizzare o minimizzare la probabilità di trovarne una.*
 
-> Galettes des rois (torte dei re). Nella galette des rois del liceo, ci sono $n$ galettes numerate $1$ a $n$, ciascuna tagliata in parti $k$, dove $k$ e $n$ sono enti rigorosamente positivi. Guillaume mangia in modo casuale: arrivando, prende una parte di una galette. Ogni galette può contenere o meno fève (incantevoli). $a_i$ è il numero di fève nella galette $i$. Supponiamo $a_1\le a_2\le\cdots\le a_n$.
-> 
-> 1. Calcolare $\mathbb{P}(L=\ell)$ per qualsiasi numero intero $\ell\ge 0$, dove $L$ è il numero di fève già trovate prima dell'arrivo di Guillaume. Quali sono le aspettative di $L$?
-> 
-> 2. Prendendo una parte casuale in galette $i$, qual è la probabilità che Guillaume trovi una fève? Come deve procedere per massimizzare le sue possibilità di trovare una fève?
-> 
-> Thomas, che è stato lì fin dall'inizio, dice a Guillaume che finora sono state trovate fève $\ell$, con $0\le\ell\le n-1$.
-> 
-> 3. In funzione di $\ell$, quale galette deve scegliere Guillaume per avere le migliori possibilità di trovare una fève? Qual è la probabilità che ne troverà una? Trattare i seguenti casi: a) $n=2$; b) $n=3$; c) $\ell=0$; d) $\ell=1$; e) $\ell=n-1$; f) $n,\ell$ arbitrario, ma tutte le galette contengono lo stesso numero di parti; g) $k=n$ e $a_i=1$ per tutte le $i$; h) $n,\ell$ arbitrario.
-> 
-> 4. In questa domanda, supponiamo $a_1<a_2<\cdots<a_n$. Diciamo che una galette $i$ è inutile se, qualunque sia il valore $\ell$ dato da Thomas, la galette $i$ non è mai la galette che dà la migliore possibilità di trovare una fève. Come funzione di $n$, è possibile che nessuna galette sia mai inutile? Quali galettes non sono mai inutili? Quanti sono i possibili numeri di galletti inutili?
-> 
-> 5. Guillaume è molto pieno e ora teme che almeno debba assaggiare le parti contenenti le fève. Ora vuole le minime possibilita' di trovarne uno. Redo domande 3 e 4 in questo contesto.
-> 
-> 6. Proporre e studiare altre direzioni di ricerca.
+> 4. Galette des rois
+>
+> Alla galette des rois del liceo ci sono $n$ torte numerate da $1$ a $n$, ciascuna tagliata in $k$ fette, dove $k$ e $n$ sono interi $\geqslant 1$. Ogni torta contiene all’inizio una sola fava. Guillaume è in ritardo: quando arriva, nella torta $i$ restano $a_i$ fette, per ogni $1 \leqslant i \leqslant n$. Chi ha preso una fetta l’ha scelta in modo uniforme a caso in una delle torte. Si indica con $L$ il numero di fave già trovate prima dell’arrivo di Guillaume. Si suppone $a_1 \leqslant a_2 \leqslant \cdots \leqslant a_n$.
+>
+> 1. Calcolare $\mathbb{P}(L = \ell)$ per ogni intero $\ell \geqslant 0$. Qual è il valore atteso di $L$?
+>
+> 2. Prendendo una fetta a caso nella torta $i$, qual è la probabilità che Guillaume trovi una fava? In quale torta deve pescare per massimizzare le sue possibilità?
+>
+> Thomas, presente fin dall’inizio, dice a Guillaume che sono state trovate $\ell$ fave, con $0 \leqslant \ell \leqslant n - 1$.
+>
+> 3. In funzione di $\ell$, in quale torta Guillaume deve prendere una fetta per avere la massima probabilità di trovare una fava? Qual è allora questa probabilità? Si possono trattare i casi seguenti:
+> a) $n = 2$;
+> b) $n = 3$;
+> c) $\ell = 0$;
+> d) $\ell = 1$;
+> e) $\ell = n - 1$;
+> f) $n$ e $\ell$ arbitrari, ma tutte le torte già iniziate contengono lo stesso numero di fette;
+> g) $k = n$ e $a_i = i$ per ogni $i$;
+> h) $n$ e $\ell$ arbitrari.
+>
+> 4. Si suppone ora $a_1 < a_2 < \cdots < a_n$. Una torta $i$ è inutile se, qualunque sia il valore $\ell$ dato da Thomas, la torta $i$ non è mai quella in cui Guillaume ha la massima probabilità di trovare una fava. In funzione di $n$, può accadere che nessuna torta sia inutile? Che tutte le torte tranne una siano inutili? Quali sono i numeri possibili di torte inutili?
+>
+> 5. Guillaume ha molta fame e teme che nelle fette con la fava ci sia meno da mangiare. Vuole quindi minimizzare la probabilità di trovarne una. Si riprendano le domande 3 e 4 in questo quadro.
+>
+> 6. Si propongano e si studino altre direzioni di ricerca.
 
-![[src_tfjm_2018__q04.png]]
+[[Quesiti/src_tfjm_2018#q04|src_tfjm_2018__Q04]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*King cakes: given how many slices remain and how many beans have already been found, which cake to draw from in order to maximise or minimise the chance of finding one.*
+
+> 4. King cakes
+>
+> At the school king-cake party there are $n$ cakes numbered from $1$ to $n$, each cut into $k$ slices, where $k$ and $n$ are integers $\geqslant 1$. Each cake starts with a single bean. Guillaume is late: when he arrives, $a_i$ slices remain in cake $i$, for every $1 \leqslant i \leqslant n$. Everyone who took a slice chose it uniformly at random from one of the cakes. Write $L$ for the number of beans already found before Guillaume arrives. Assume $a_1 \leqslant a_2 \leqslant \cdots \leqslant a_n$.
+>
+> 1. Compute $\mathbb{P}(L = \ell)$ for every integer $\ell \geqslant 0$. What is the expectation of $L$?
+>
+> 2. If Guillaume takes a slice at random from cake $i$, what is the probability that he finds a bean? From which cake should he draw in order to maximise his chances?
+>
+> Thomas, who has been there from the start, tells Guillaume that $\ell$ beans have been found, with $0 \leqslant \ell \leqslant n - 1$.
+>
+> 3. As a function of $\ell$, from which cake should Guillaume take a slice in order to have the best chance of finding a bean? What is that probability? One may treat the following cases:
+> a) $n = 2$;
+> b) $n = 3$;
+> c) $\ell = 0$;
+> d) $\ell = 1$;
+> e) $\ell = n - 1$;
+> f) $n$ and $\ell$ arbitrary, but every cake that has been started has the same number of slices left;
+> g) $k = n$ and $a_i = i$ for every $i$;
+> h) $n$ and $\ell$ arbitrary.
+>
+> 4. Assume now $a_1 < a_2 < \cdots < a_n$. A cake $i$ is useless if, whatever value $\ell$ Thomas gives, cake $i$ is never the one in which Guillaume has the best chance of finding a bean. As a function of $n$, can it happen that no cake is useless? That every cake but one is useless? What are the possible numbers of useless cakes?
+>
+> 5. Guillaume is very hungry and fears that slices containing a bean have less to eat. He therefore wants to minimise his chance of finding one. Answer questions 3 and 4 in this setting.
+>
+> 6. Propose and study other lines of inquiry.
+
+[[Quesiti/src_tfjm_2018#q04|src_tfjm_2018__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,topic_geometria_analitica,method_trigonometria,method_coordinate,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*A chain of n unit links with the oriented angle at each joint constrained to an interval depending on alpha; describe and compute the area of the set of points reachable by the free end, with variants fixing A_1 and using angles near pi/2.*
+*Chaîne rouillée dont les angles orientés restent dans un intervalle : ensemble des points atteints par l’extrémité libre, et variante avec des angles proches de $\pi/2$.*
 
-> Rolled chain. Let $n\in\mathbb{N}^*$ and $\alpha\in[0,\pi]$. Colin amuses himself with a rolled (stiff) chain. The chain consists of $n$ links $A_0A_1,A_1A_2,\ldots,A_{n-1}A_n$, joined at hinges; each segment $[A_iA_{i+1}]$ has length $1$ for $0\le i\le n-1$ (the segments may cross). The point $A_0$ is fixed. The chain being rolled, the angle at each hinge can take only certain values: for any $1\le i\le n-1$, the oriented angle $\widehat{(A_{i-1}A_i,A_iA_{i+1})}$ must remain in the interval $[-\alpha,\alpha]$ (see Figure 4). We write $\mathcal{B}_\alpha^n$ for the set of points that can be reached by the extremity $A_n$ of the chain.
-> 
-> 1. As a function of $n$ and $\alpha$, what is $\mathcal{B}_\alpha^n$? Treat the following cases:
->  a) $\alpha=\pi$ (the chain not rolled);
->  b) $\alpha=\frac{\pi}{2}$;
->  c) $n=2$;
->  d) $n=3$;
->  e) $n,\alpha$ arbitrary.
-> 
-> 2. Describe $\mathcal{B}_\alpha^n$ as precisely as possible and compute its area in the different cases of question 1.
-> 
-> In questions 3 and 4, suppose also that the point $A_1$ of the chain is fixed, at distance $1$ from $A_0$. We write $\mathcal{C}_\alpha^n$ for the set of points that can be reached by the extremity $A_n$ of the chain.
-> 
-> 3. Describe $\mathcal{C}_\alpha^n$ in the same cases as question 1.
-> 
-> 4. In the same cases, which are the possible values of the oriented angle $\widehat{(A_0A_1,A_1A_n)}$? Is it true that for two points $X$ and $Y$ such that $A_1X=A_1Y$, there exists an arc of circle centred at $A_1$, between $X$ and $Y$, that is entirely included in $\mathcal{C}_\alpha^n$?
-> 
-> 5. Let $\varepsilon\in\left[0,\frac{\pi}{2}\right]$. Suppose the chain rolled, with the angles fairly close to $\frac{\pi}{2}$: more precisely, for any $1\le i\le n-1$, the oriented angle $\widehat{(A_{i-1}A_i,A_iA_{i+1})}$ must remain in $\left[\frac{\pi}{2}-\varepsilon,\frac{\pi}{2}+\varepsilon\right]\cup\left[-\frac{\pi}{2}-\varepsilon,-\frac{\pi}{2}+\varepsilon\right]$. Redo questions 1 to 3 in this case.
-> 
-> 6. Propose and study other directions of research.
+> 5. Chaîne rouillée
+>
+> Soient $n \in \mathbb{N}^{*}$ et $\alpha \in [0, \pi]$. Colin joue avec une chaîne rouillée. La chaîne est une suite de points $A_0, \ldots, A_n$, reliés par des maillons de longueur $1$. Autrement dit, pour tout $0 \leqslant i \leqslant n - 1$, on a $A_i A_{i+1} = 1$ (les segments $[A_i A_{i+1}]$ peuvent se croiser). Elle est fixée en $A_0$. La chaîne étant rouillée, l’angle entre deux maillons consécutifs ne peut prendre que certaines valeurs. Ainsi, pour tout $1 \leqslant i \leqslant n - 1$, l’angle orienté $\left(\overrightarrow{A_{i-1} A_i}, \overrightarrow{A_i A_{i+1}}\right)$ doit rester dans l’intervalle $[-\alpha, \alpha]$ (voir Figure 4). On note $\mathcal{B}_n^{\alpha}$ l’ensemble des points que peut atteindre l’extrémité $A_n$.
+>
+> Figure 4. Chaîne dont les angles sont bloqués entre $-\dfrac{\pi}{4}$ et $\dfrac{\pi}{4}$, avec $n = 6$. Les arcs de cercle représentent les angles possibles pour chaque maillon.
+>
+> 1. En fonction de $n$ et de $\alpha$, a-t-on $A_0 \in \mathcal{B}_n^{\alpha}$ ? On pourra étudier les cas suivants :
+> a) $\alpha = \pi$ (chaîne non rouillée) ;
+> b) $\alpha = \dfrac{\pi}{2}$ ;
+> c) $n = 2$ ;
+> d) $n = 3$ ;
+> e) $n$ et $\alpha$ quelconques.
+>
+> 2. Décrire $\mathcal{B}_n^{\alpha}$ le plus précisément possible et calculer son aire dans les cas de la question 1.
+>
+> Dans les questions 3 et 4, le point $A_1$ est également fixé, à distance $1$ de $A_0$. On note $\mathcal{C}_n^{\alpha}$ l’ensemble des points que peut atteindre l’autre extrémité $A_n$.
+>
+> 3. Décrire $\mathcal{C}_n^{\alpha}$ dans les mêmes cas que pour la question 1.
+>
+> 4. En fonction de $n$ et de $\alpha$, quelles sont les valeurs possibles de l’angle orienté $\left(\overrightarrow{A_0 A_1}, \overrightarrow{A_1 A_n}\right)$ ? Est-il vrai que pour tous points $X, Y \in \mathcal{C}_n^{\alpha}$ tels que $A_1 X = A_1 Y$, il existe un arc de cercle centré en $A_1$, entre $X$ et $Y$, intégralement inclus dans $\mathcal{C}_n^{\alpha}$ ?
+>
+> 5. Soit $\varepsilon \in \left[0, \dfrac{\pi}{2}\right]$. Lassé de sa première chaîne, Colin en trouve une autre, bloquée avec des angles proches de $\dfrac{\pi}{2}$. Plus précisément, pour tout $1 \leqslant i \leqslant n - 1$, l’angle orienté $\left(\overrightarrow{A_{i-1} A_i}, \overrightarrow{A_i A_{i+1}}\right)$ doit rester dans
+> $$I_{\varepsilon} = \left[\dfrac{\pi}{2} - \varepsilon, \dfrac{\pi}{2} + \varepsilon\right] \cup \left[-\dfrac{\pi}{2} - \varepsilon, -\dfrac{\pi}{2} + \varepsilon\right].$$
+> Reprendre les questions 1 à 3 dans ce cadre.
+>
+> 6. Proposer et étudier d’autres directions de recherche.
 
 ![[src_tfjm_2018__q05.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_trigonometria|Trigonométrie]], [[topic_geometria_analitica|Géométrie analytique]]
+**Metodo:** [[method_trigonometria|Techniques trigonométriques]], [[method_coordinate|Méthode des coordonnées]], [[method_casework|Analyse par cas]], [[method_simmetria|Exploitation de la symétrie]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_astrazione|Abstraction / généralisation]], [[skill_casework_accurato|Analyse par cas soigneuse]]
+**Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
-
-> [!warning] Estratto/tradotto da verificare con la fonte.
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una catena di n unità di collegamento con l'angolo orientato a ciascuna articolazione limitato ad un intervallo a seconda dell'alfa; descrivere e calcolare l'area dell'insieme di punti raggiungibile dalla fine libera, con varianti che fissano A_1 e utilizzano angoli vicini a pi/2.*
+*Catena arrugginita i cui angoli orientati restano in un intervallo: insieme dei punti raggiunti dall’estremo libero, e variante con angoli vicini a $\pi/2$.*
 
-> Catenata a rotoli. Let $n\in\mathbb{N}^*$ e $\alpha\in[0,\pi]$. Colin si diverte con una catena rullata. La catena è costituita da $n$ collegamenti $A_0A_1,A_1A_2,\ldots,A_{n-1}A_n$, uniti a bisaglie; ogni segmento $[A_iA_{i+1}]$ ha lunghezza $1$ per $0\le i\le n-1$ (i segmenti possono essere incrociati). Il punto $A_0$ è fissato. Quando la catena è rotolata, l'angolo di ciascuna cerniera può assumere solo determinati valori: per qualsiasi $1\le i\le n-1$, l'angolo orientato $\widehat{(A_{i-1}A_i,A_iA_{i+1})}$ deve rimanere nell'intervallo $[-\alpha,\alpha]$ (vedi figura 4). Scriviamo $\mathcal{B}_\alpha^n$ per l'insieme di punti raggiungibili dall'estremità $A_n$ della catena.
-> 
-> 1. Come funzione di $n$ e $\alpha$, cosa è $\mathcal{B}_\alpha^n$? Trattare i seguenti casi: a) $\alpha=\pi$ (la catena non laminata); b) $\alpha=\frac{\pi}{2}$; c) $n=2$; d) $n=3$; e) $n,\alpha$ arbitrario.
-> 
-> 2. Descrivere il $\mathcal{B}_\alpha^n$ con la massima precisione possibile e calcolare la sua superficie nei diversi casi della domanda 1.
-> 
-> Nella domanda 3 e 4, supponiamo anche che il punto $A_1$ della catena sia fisso, a distanza $1$ da $A_0$. Scriviamo $\mathcal{C}_\alpha^n$ per l'insieme di punti raggiungibili dall'estremità $A_n$ della catena.
-> 
-> 3. Descrivere $\mathcal{C}_\alpha^n$ negli stessi casi della domanda 1.
-> 
-> 4. In questi stessi casi, quali sono i valori possibili dell'angolo orientato $\widehat{(A_0A_1,A_1A_n)}$? E' vero che per due punti $X$ e $Y$, di cui $A_1X=A_1Y$, esiste un arco di cerchio centrato a $A_1$, tra $X$ e $Y$, che è interamente incluso in $\mathcal{C}_\alpha^n$?
-> 
-> 5. Let $\varepsilon\in\left[0,\frac{\pi}{2}\right]$. Supponiamo che la catena sia rotolata, con gli angoli abbastanza vicini a $\frac{\pi}{2}$: più precisamente, per qualsiasi $1\le i\le n-1$, l'angolo orientato $\widehat{(A_{i-1}A_i,A_iA_{i+1})}$ deve rimanere in $\left[\frac{\pi}{2}-\varepsilon,\frac{\pi}{2}+\varepsilon\right]\cup\left[-\frac{\pi}{2}-\varepsilon,-\frac{\pi}{2}+\varepsilon\right]$. Redo domande da 1 a 3 in questo caso.
-> 
-> 6. Proporre e studiare altre direzioni di ricerca.
+> 5. Catena arrugginita
+>
+> Siano $n \in \mathbb{N}^{*}$ e $\alpha \in [0, \pi]$. Colin gioca con una catena arrugginita. La catena è una successione di punti $A_0, \ldots, A_n$, uniti da maglie di lunghezza $1$. In altre parole, $A_i A_{i+1} = 1$ per ogni $0 \leqslant i \leqslant n - 1$ (i segmenti $[A_i A_{i+1}]$ possono incrociarsi). È fissata in $A_0$. Essendo arrugginita, l’angolo tra due maglie consecutive può assumere solo certi valori. Per ogni $1 \leqslant i \leqslant n - 1$, l’angolo orientato $\left(\overrightarrow{A_{i-1} A_i}, \overrightarrow{A_i A_{i+1}}\right)$ deve restare nell’intervallo $[-\alpha, \alpha]$ (si veda la Figura 4). Si indica con $\mathcal{B}_n^{\alpha}$ l’insieme dei punti che può raggiungere l’estremo $A_n$.
+>
+> Figura 4. Catena i cui angoli sono bloccati tra $-\dfrac{\pi}{4}$ e $\dfrac{\pi}{4}$, con $n = 6$. Gli archi di circonferenza indicano gli angoli possibili di ogni maglia.
+>
+> 1. In funzione di $n$ e di $\alpha$, si ha $A_0 \in \mathcal{B}_n^{\alpha}$? Si possono studiare i casi seguenti:
+> a) $\alpha = \pi$ (catena non arrugginita);
+> b) $\alpha = \dfrac{\pi}{2}$;
+> c) $n = 2$;
+> d) $n = 3$;
+> e) $n$ e $\alpha$ arbitrari.
+>
+> 2. Descrivere $\mathcal{B}_n^{\alpha}$ nel modo più preciso possibile e calcolarne l’area nei casi della domanda 1.
+>
+> Nelle domande 3 e 4 anche il punto $A_1$ è fissato, a distanza $1$ da $A_0$. Si indica con $\mathcal{C}_n^{\alpha}$ l’insieme dei punti che può raggiungere l’altro estremo $A_n$.
+>
+> 3. Descrivere $\mathcal{C}_n^{\alpha}$ negli stessi casi della domanda 1.
+>
+> 4. In funzione di $n$ e di $\alpha$, quali sono i valori possibili dell’angolo orientato $\left(\overrightarrow{A_0 A_1}, \overrightarrow{A_1 A_n}\right)$? È vero che per tutti i punti $X, Y \in \mathcal{C}_n^{\alpha}$ tali che $A_1 X = A_1 Y$ esiste un arco di circonferenza centrato in $A_1$, tra $X$ e $Y$, interamente contenuto in $\mathcal{C}_n^{\alpha}$?
+>
+> 5. Sia $\varepsilon \in \left[0, \dfrac{\pi}{2}\right]$. Stanco della prima catena, Colin ne trova un’altra, bloccata con angoli vicini a $\dfrac{\pi}{2}$. Più precisamente, per ogni $1 \leqslant i \leqslant n - 1$ l’angolo orientato $\left(\overrightarrow{A_{i-1} A_i}, \overrightarrow{A_i A_{i+1}}\right)$ deve restare in
+> $$I_{\varepsilon} = \left[\dfrac{\pi}{2} - \varepsilon, \dfrac{\pi}{2} + \varepsilon\right] \cup \left[-\dfrac{\pi}{2} - \varepsilon, -\dfrac{\pi}{2} + \varepsilon\right].$$
+> Si riprendano le domande 1, 2 e 3 in questo quadro.
+>
+> 6. Si propongano e si studino altre direzioni di ricerca.
 
-![[src_tfjm_2018__q05.png]]
+[[Quesiti/src_tfjm_2018#q05|src_tfjm_2018__Q05]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*A rusty chain whose oriented angles stay in an interval: the set of points reached by the free end, and a variant with angles near $\pi/2$.*
+
+> 5. Rusty chain
+>
+> Let $n \in \mathbb{N}^{*}$ and $\alpha \in [0, \pi]$. Colin plays with a rusty chain. The chain is a sequence of points $A_0, \ldots, A_n$, joined by links of length $1$. That is, $A_i A_{i+1} = 1$ for every $0 \leqslant i \leqslant n - 1$ (the segments $[A_i A_{i+1}]$ may cross). It is fixed at $A_0$. Because the chain is rusty, the angle between two consecutive links can take only certain values. For every $1 \leqslant i \leqslant n - 1$, the oriented angle $\left(\overrightarrow{A_{i-1} A_i}, \overrightarrow{A_i A_{i+1}}\right)$ must stay in the interval $[-\alpha, \alpha]$ (see Figure 4). Write $\mathcal{B}_n^{\alpha}$ for the set of points that the free end $A_n$ can reach.
+>
+> Figure 4. A chain whose angles are locked between $-\dfrac{\pi}{4}$ and $\dfrac{\pi}{4}$, with $n = 6$. The circular arcs show the possible angles of each link.
+>
+> 1. As a function of $n$ and $\alpha$, does one have $A_0 \in \mathcal{B}_n^{\alpha}$? One may study the following cases:
+> a) $\alpha = \pi$ (the chain is not rusty);
+> b) $\alpha = \dfrac{\pi}{2}$;
+> c) $n = 2$;
+> d) $n = 3$;
+> e) $n$ and $\alpha$ arbitrary.
+>
+> 2. Describe $\mathcal{B}_n^{\alpha}$ as precisely as possible and compute its area in the cases of question 1.
+>
+> In questions 3 and 4 the point $A_1$ is also fixed, at distance $1$ from $A_0$. Write $\mathcal{C}_n^{\alpha}$ for the set of points that the other end $A_n$ can reach.
+>
+> 3. Describe $\mathcal{C}_n^{\alpha}$ in the same cases as in question 1.
+>
+> 4. As a function of $n$ and $\alpha$, what are the possible values of the oriented angle $\left(\overrightarrow{A_0 A_1}, \overrightarrow{A_1 A_n}\right)$? Is it true that for all points $X, Y \in \mathcal{C}_n^{\alpha}$ with $A_1 X = A_1 Y$, there is a circular arc centred at $A_1$, between $X$ and $Y$, that lies entirely in $\mathcal{C}_n^{\alpha}$?
+>
+> 5. Let $\varepsilon \in \left[0, \dfrac{\pi}{2}\right]$. Tired of his first rusty chain, Colin finds another, locked at angles near $\dfrac{\pi}{2}$. More precisely, for every $1 \leqslant i \leqslant n - 1$ the oriented angle $\left(\overrightarrow{A_{i-1} A_i}, \overrightarrow{A_i A_{i+1}}\right)$ must stay in
+> $$I_{\varepsilon} = \left[\dfrac{\pi}{2} - \varepsilon, \dfrac{\pi}{2} + \varepsilon\right] \cup \left[-\dfrac{\pi}{2} - \varepsilon, -\dfrac{\pi}{2} + \varepsilon\right].$$
+> Answer questions 1 to 3 in this setting.
+>
+> 6. Propose and study other lines of inquiry.
+
+[[Quesiti/src_tfjm_2018#q05|src_tfjm_2018__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,method_backward,method_simmetria,skill_modellizzazione,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*A two-player simultaneous card game with cards 1..2n; under several rules about who reveals first and how the lead passes, determine the number of points each player can guarantee, and study a card-redistribution variant.*
+*Bataille de cartes numérotées : selon qui commence et comment passe la main, combien de points chaque joueur peut s’assurer.*
 
-> Corsair battle. Igor and Sophia decide to modify the rules of the card game battle (war), which they find too dependent on luck. They have a deck of $2n$ cards numbered from $1$ to $2n$, for some $n\in\mathbb{N}^*$. At the start, Igor and Sophia each receive $n$ cards. At each turn, the two players choose at the same time one of their cards and place it on the table; the one who played the card with the higher number marks one point, and then the two played cards are removed.
-> 
-> 1. Igor and Sophia mark points according to the following rules. For each rule, what is the greatest number of points a player can guarantee herself? One may begin by studying small values of $n$.
->  a) Igor reveals first at each turn.
->  b) Sophia reveals first at each turn.
->  c) Igor reveals first at the first turn, then at each turn the player who has just lost reveals first.
->  d) Same thing, but Sophia reveals first at the first turn.
->  e) Igor reveals first at the first turn, then at each turn the player who has just won reveals first.
->  f) Same thing, but Sophia reveals first at the first turn.
-> 
-> 2. For each rule that is not equitable, the two players play, and to avoid ties one adds the following rule: at each turn when a card is played, if there is a tie, the last point is not attributed. Redo question 1 in this setting.
-> 
-> 3. Igor proposes a new distribution of the cards. One plays again with the cards numbered from $1$ to $2n$, but each player changes the initial distribution. Igor then wants to do strictly better than Sophia (that is, have strictly more points than her at the end of the game), but he wants the fewest turns of play possible. With the different rules of question 1, estimate this number of turns.
-> 
-> 4. Propose and study other directions of research.
+> 6. Bataille corsée
+>
+> Igor et Sophia jouent aux cartes. Ils modifient les règles de la bataille. Ils disposent d’un jeu de $2n$ cartes numérotées de $1$ à $2n$, pour un certain $n \in \mathbb{N}^{*}$. Au début, Igor a les cartes impaires et Sophia les cartes paires. La partie dure $n$ tours. À chaque tour, l’un des deux joueurs choisit une de ses cartes, puis l’autre fait de même. Celui qui a joué le numéro le plus élevé marque un point, et les deux cartes sont défaussées.
+>
+> 1. Pour chacune des règles suivantes, quel est le plus grand nombre de points qu’Igor peut s’assurer de marquer ? On pourra commencer par de petites valeurs de $n$.
+> a) Igor commence à chaque tour.
+> b) Sophia commence à chaque tour.
+> c) Igor commence au premier tour ; ensuite, le joueur qui vient de perdre le point commence.
+> d) Même règle, mais Sophia commence au premier tour.
+> e) Igor commence au premier tour ; ensuite, le joueur qui vient de gagner le point commence.
+> f) Même règle, mais Sophia commence au premier tour.
+>
+> 2. Pour rendre le jeu équitable, chaque joueur possède initialement $n$ cartes numérotées de $1$ à $n$. Pour éviter les égalités, le second à jouer n’a pas le droit de jouer la même carte que le premier. Si c’est le dernier tour et qu’il n’a pas le choix, le dernier point n’est pas attribué. Reprendre la question 1 dans ce cadre.
+>
+> 3. Igor propose une nouvelle répartition. On joue de nouveau avec des cartes numérotées de $1$ à $2n$, mais la répartition initiale change. Igor veut être sûr de battre Sophia (avoir strictement plus de points qu’elle à la fin), et il veut que la somme de ses $n$ cartes soit la plus petite possible. Avec les règles de la question 1, estimer cette somme.
+>
+> 4. Proposer et étudier d’autres directions de recherche.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_backward|Backward]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoire]], [[topic_logica|Logique, jeux, stratégies]]
+**Metodo:** [[method_casework|Analyse par cas]], [[method_estremalita|Principe d'extrémalité]], [[method_backward|Raisonnement à rebours]], [[method_simmetria|Exploitation de la symétrie]]
+**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_conteggio_sistematico|Dénombrement systématique]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
-
-> [!warning] Estratto/tradotto da verificare con la fonte.
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un gioco di carte simultaneo per due giocatori con carte 1..2n; secondo diverse regole su chi rivela per primo e come passa il lead, determinare il numero di punti che ogni giocatore può garantire e studiare una variante di ridistribuzione delle carte.*
+*Battaglia con carte numerate: secondo chi inizia e come passa la mano, quanti punti ciascun giocatore può garantirsi.*
 
-> Battaglia del Corsair. Igor e Sophia decidono di modificare le regole della battaglia di carte (guerra), che ritengono troppo dipendenti dalla fortuna. Hanno un mazzo di carte $2n$ numerate da $1$ a $2n$, per alcune $n\in\mathbb{N}^*$. All'inizio, Igor e Sophia ricevono ognuno delle carte $n$. A ogni turno, i due giocatori scelgono contemporaneamente una delle loro carte e la mettono sul tavolo; quella che ha giocato la carta con il numero più alto prende un punto, e poi le due carte giocate vengono rimosse.
-> 
-> 1. Igor e Sophia segnano i punti secondo le seguenti regole. Per ogni regola, quale è il maggior numero di punti che un giocatore può garantire? Si può iniziare studiando piccoli valori di $n$. a) Igor rivela per primo a ogni turno. b) Sophia si rivela prima a ogni turno. c) Igor rivela prima alla prima volta, poi a ogni volta il giocatore che ha appena perso rivela prima. D) La stessa cosa, ma Sophia rivela prima al primo turno. e) Igor rivela prima al primo turno, poi a ogni turno il giocatore che ha appena vinto rivela per primo. f) La stessa cosa, ma Sophia rivela prima al primo turno.
-> 
-> 2. Per ogni regola che non è uguale, i due giocatori giocano, e per evitare legami si aggiunge la seguente regola: a ogni turno quando si gioca una carta, se c'è un pareggio, l'ultimo punto non viene attribuito. Rendi la domanda 1 in questo contesto.
-> 
-> 3. Igor propone una nuova distribuzione delle carte. Si gioca di nuovo con le carte numerate da $1$ a $2n$, ma ogni giocatore cambia la distribuzione iniziale. Igor quindi vuole fare strettamente meglio di Sophia (cioè avere strettamente più punti di lei alla fine della partita), ma vuole il minor numero di giri di gioco possibile. Con le diverse regole della domanda 1, stima questo numero di giri.
-> 
-> 4. Proporre e studiare altre direzioni di ricerca.
+> 6. Battaglia rinforzata
+>
+> Igor e Sophia giocano a carte e modificano le regole della battaglia. Hanno un mazzo di $2n$ carte numerate da $1$ a $2n$, per un certo $n \in \mathbb{N}^{*}$. All’inizio Igor ha le carte dispari e Sophia le carte pari. La partita dura $n$ turni. A ogni turno uno dei due sceglie una delle proprie carte, poi l’altro fa lo stesso. Chi ha giocato il numero più alto segna un punto, e le due carte si scartano.
+>
+> 1. Per ciascuna delle regole seguenti, qual è il massimo numero di punti che Igor può garantirsi? Si può cominciare da piccoli valori di $n$.
+> a) Igor inizia ogni turno.
+> b) Sophia inizia ogni turno.
+> c) Igor inizia il primo turno; poi inizia chi ha appena perso il punto.
+> d) La stessa regola, ma Sophia inizia il primo turno.
+> e) Igor inizia il primo turno; poi inizia chi ha appena vinto il punto.
+> f) La stessa regola, ma Sophia inizia il primo turno.
+>
+> 2. Per rendere il gioco equo, ciascun giocatore ha all’inizio $n$ carte numerate da $1$ a $n$. Per evitare i pareggi, il secondo a giocare non può giocare la stessa carta del primo. Se è l’ultimo turno e non ha scelta, l’ultimo punto non viene assegnato. Si riprenda la domanda 1 in questo quadro.
+>
+> 3. Igor propone una nuova ripartizione. Si gioca di nuovo con carte numerate da $1$ a $2n$, ma la ripartizione iniziale cambia. Igor vuole essere sicuro di battere Sophia (avere alla fine strettamente più punti di lei) e vuole che la somma delle sue $n$ carte sia la più piccola possibile. Con le regole della domanda 1, stimare questa somma.
+>
+> 4. Si propongano e si studino altre direzioni di ricerca.
+
+[[Quesiti/src_tfjm_2018#q06|src_tfjm_2018__Q06]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*A numbered-card battle: according to who starts and how the lead passes, how many points each player can guarantee.*
+
+> 6. A rougher battle
+>
+> Igor and Sophia play cards, and they change the rules of battle. They have a deck of $2n$ cards numbered from $1$ to $2n$, for some $n \in \mathbb{N}^{*}$. At the start Igor has the odd cards and Sophia the even cards. The game lasts $n$ turns. On each turn one player chooses one of his or her cards, then the other does the same. Whoever played the higher number scores a point, and both cards are discarded.
+>
+> 1. For each of the following rules, what is the greatest number of points Igor can guarantee? One may begin with small values of $n$.
+> a) Igor starts every turn.
+> b) Sophia starts every turn.
+> c) Igor starts the first turn; thereafter, the player who has just lost the point starts.
+> d) The same rule, but Sophia starts the first turn.
+> e) Igor starts the first turn; thereafter, the player who has just won the point starts.
+> f) The same rule, but Sophia starts the first turn.
+>
+> 2. To make the game fair, each player starts with $n$ cards numbered from $1$ to $n$. To avoid ties, the second player may not play the same card as the first. If it is the last turn and there is no choice, the last point is not awarded. Answer question 1 in this setting.
+>
+> 3. Igor proposes a new deal. One plays again with cards numbered from $1$ to $2n$, but the initial deal changes. Igor wants to be sure of beating Sophia (of having strictly more points than she does at the end), and he wants the sum of his $n$ cards to be as small as possible. Under the rules of question 1, estimate this sum.
+>
+> 4. Propose and study other lines of inquiry.
+
+[[Quesiti/src_tfjm_2018#q06|src_tfjm_2018__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,topic_geometria_analitica,method_casework,method_congruenze,method_coordinate,method_conteggio,skill_modellizzazione,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*A generalized knight that moves a squares then b squares perpendicular on the infinite board Z^2; determine for which (a,b) all squares are reachable, study the number reachable in k moves, the number on square (0,1), irregular squares, and an intervention-time quantity.*
+*Cavalier de type $(a, b)$ sur l’échiquier $\mathbb{Z}^2$ : cases atteignables, nombre minimal de coups, et cases irrégulières.*
 
-> The stubborn knight. Ada plays chess. She studies the movement of her favourite piece, the knight, on an infinite chessboard (whose squares are indexed by $\mathbb{Z}^2$). More precisely, let $a$ and $b$ be two integers with $0\le a\le b$. Ada studies a piece she calls the knight of type $(a,b)$, which at each turn can move $a$ squares parallel to one axis of the board, then $b$ squares in the other, perpendicular direction. For example, the usual chess knight is the knight of type $(1,2)$. The knight starts from square $(0,0)$.
-> 
-> 1. As a function of $a$ and $b$, can the knight of type $(a,b)$ reach every square of the infinite board? One may consider the following values of $(a,b)$:
->  a) $(1,1)$;
->  b) $(1,2)$;
->  c) $(1,3)$;
->  d) $(2,3)$;
->  e) $(a,b)$ arbitrary.
-> [Footnote: This question is studied in the article "Counting the Number of Squares Reachable in $k$ Knight's Moves", by A. Miller and B. Farnsworth. One may use the result found there but it is recommended to treat the issues of the problem.]
-> 
-> 2. Ada writes $u_k$ for the number of squares of the board reachable in $k$ moves (i.e. for which the minimal number of moves is $k$). Determine the sequence $(u_k)$. How does this sequence behave when $k\to+\infty$? Is it increasing?
-> 
-> 3. In the different cases, what is the number written on square $(0,1)$ (the minimal number of moves to reach it)? Propose an estimate.
-> 
-> 4. Ada says that a square $c$ is regular if, for every square $c'$ neighbouring $c$, the difference between the numbers written on $c$ and on $c'$ is always the same. How many squares are not regular? If this number is finite, estimate it. Otherwise, what is the greatest difference between two neighbouring squares that one can observe infinitely often?
-> 
-> 5. For an integer $n\in\mathbb{N}^*$, Ada writes $B_n$ for the set of squares of the form $(x,y)$ with $x,y\in\mathbb{Z}$ and $|x|,|y|\le n$. The intervention time of a knight in $B_n$ is the largest number written on the squares of $B_n$. For which values of $(a,b)$ is this intervention time in $B_n$ minimal? Ada writes $T_n$ for this value. Estimate $T_n$ as a function of $n$.
-> 
-> 6. Propose and study other directions of research.
+> 7. Le cavalier s’entête
+>
+> Ada étudie les déplacements de sa pièce préférée, le cavalier, sur un échiquier infini dont les cases sont indexées par $\mathbb{Z}^{2}$. Soient $a$ et $b$ deux entiers tels que $0 < a \leqslant b$. Le cavalier de type $(a, b)$ se déplace, à chaque coup, de $a$ cases parallèlement à un axe, puis de $b$ cases dans une direction perpendiculaire. Le cavalier usuel est le cavalier de type $(1, 2)$. Il part de la case $(0, 0)$.
+>
+> 1. En fonction de $a$ et $b$, le cavalier de type $(a, b)$ peut-il atteindre toutes les cases de l’échiquier infini ? On pourra s’intéresser aux valeurs suivantes :
+> a) $(1, 1)$ ;
+> b) $(1, 2)$ ;
+> c) $(1, 3)$ ;
+> d) $(2, 3)$ ;
+> e) $(a, b)$ quelconques.
+>
+> La question b) est étudiée dans l’article *Counting the Number of Squares Reachable in $k$ Knight’s Moves*, de A. Miller et D. Farnsworth. Elle ne sera pas prise en compte dans l’évaluation, mais il est recommandé de la traiter pour comprendre les enjeux du problème.
+>
+> Sur chaque case, Ada écrit le nombre minimal de coups pour s’y rendre depuis $(0, 0)$. Si la case est inatteignable, elle écrit $\infty$. Dans les questions suivantes, on pourra commencer par les cavaliers de la question 1.
+>
+> 2. Ada note $u_k$ le nombre de cases portant le nombre $k$. Encadrer la suite $(u_k)$. Comment se comporte-t-elle quand $k \to +\infty$ ? Est-elle croissante ?
+>
+> 3. Dans les différents cas, que vaut le nombre écrit sur la case $(0, 1)$ ? Proposer un encadrement.
+>
+> 4. Une case $c$ est régulière si, pour toute case $c'$ voisine de $c$, la différence entre les nombres écrits sur $c$ et sur $c'$ vaut exactement $1$. Combien y a-t-il de cases qui ne sont pas régulières ? Si ce nombre est fini, l’estimer. Sinon, quelle est la plus grande différence entre deux cases voisines que l’on peut observer une infinité de fois ?
+>
+> 5. Pour $n \in \mathbb{N}^{*}$, Ada note $B_n$ l’ensemble des cases $(x, y)$ avec $x, y \in \mathbb{Z}$ et $|x|, |y| \leqslant n$. Le temps d’intervention dans $B_n$ d’un cavalier est le plus grand nombre écrit sur les cases de $B_n$. Pour quelles valeurs de $(a, b)$ ce temps est-il minimal ? Ada note $T_n$ cette valeur. Estimer $T_n$ en fonction de $n$.
+>
+> 6. Proposer et étudier d’autres directions de recherche.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_coordinate|Coordinate]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Topic:** [[topic_combinatoria|Combinatoire]], [[topic_aritmetica|Arithmétique / théorie des nombres]], [[topic_geometria_analitica|Géométrie analytique]]
+**Metodo:** [[method_casework|Analyse par cas]], [[method_congruenze|Arithmétique modulaire / congruences]], [[method_coordinate|Méthode des coordonnées]], [[method_conteggio|Dénombrement]]
+**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]], [[skill_casework_accurato|Analyse par cas soigneuse]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]], [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]], [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
-
-> [!warning] Estratto/tradotto da verificare con la fonte.
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un cavaliere generalizzato che muove un quadrato e poi b quadrati perpendicolari sulla tavola infinita Z^2; determinare per quale (a,b) tutti i quadrati sono raggiungibili, studiare il numero raggiungibile in k movimenti, il numero sul quadrato (0,1), quadrati irregolari e una quantità di tempo di intervento.*
+*Cavallo di tipo $(a, b)$ sulla scacchiera $\mathbb{Z}^2$: case raggiungibili, numero minimo di mosse e case irregolari.*
 
-> Il cavaliere testardo. Ada gioca a scacchi. Studia il movimento del suo pezzo preferito, il cavaliere, su una scacchiera infinita (le cui quadrate sono indicizzate da $\mathbb{Z}^2$). Più precisamente, $a$ e $b$ siano due integri con $0\le a\le b$. Ada studia un pezzo che chiama cavaliere di tipo $(a,b)$, che a ogni turno può spostare quadrati $a$ paralleli ad un asse della lavagna, quindi quadrati $b$ nell'altra direzione perpendicolare. Ad esempio, il solito cavaliere di scacchi è il cavaliere di tipo $(1,2)$. Il cavaliere parte dal quadrato $(0,0)$.
-> 
-> 1. Come funzione di $a$ e $b$, il cavaliere del tipo $(a,b)$ può raggiungere ogni quadrato della tavola infinita? Si possono considerare arbitrari i seguenti valori di $(a,b)$: a) $(1,1)$; b) $(1,2)$; c) $(1,3)$; d) $(2,3)$; e) $(a,b)$. [Nota di seguito: Questa domanda è studiata nell'articolo "Contando il numero di quadrati raggiungibili in $k$ Movimenti di Cavaliere", di A. Miller e B. Farnsworth. Si può usare il risultato trovato lì ma si raccomanda di trattare i problemi del problema.]
-> 
-> 2. Ada scrive $u_k$ per il numero di quadrati della scheda raggiungibili in $k$ mosse (cioè per il quale il numero minimo di mosse è $k$). Determinare la sequenza $(u_k)$. Come si comporta questa sequenza quando $k\to+\infty$? Sta aumentando?
-> 
-> 3. Qual è il numero scritto sul quadrato $(0,1)$ (il numero minimo di mosse per raggiungerlo)? Propone una stima.
-> 
-> 4. Ada dice che un quadrato $c$ è regolare se, per ogni quadrato $c'$ vicino $c$, la differenza tra i numeri scritti su $c$ e su $c'$ è sempre la stessa. Quanti quadrati non sono regolari? Se questo numero è finito, calcolalo. Altrimenti, qual è la più grande differenza tra due quadrati vicini che si può osservare infinitamente spesso?
-> 
-> 5. Per un intero $n\in\mathbb{N}^*$, Ada scrive $B_n$ per l'insieme di quadrati della forma $(x,y)$ con $x,y\in\mathbb{Z}$ e $|x|,|y|\le n$. Il tempo di intervento di un cavaliere in $B_n$ è il numero più grande scritto sui quadrati di $B_n$. Per quali valori di $(a,b)$ il tempo di intervento in $B_n$ è minimo? Ada scrive $T_n$ per questo valore. Valutare $T_n$ in funzione di $n$.
-> 
-> 6. Proporre e studiare altre direzioni di ricerca.
+> 7. Il cavallo insiste
+>
+> Ada studia gli spostamenti del suo pezzo preferito, il cavallo, su una scacchiera infinita le cui case sono indicizzate da $\mathbb{Z}^{2}$. Siano $a$ e $b$ due interi tali che $0 < a \leqslant b$. Il cavallo di tipo $(a, b)$ si sposta, a ogni mossa, di $a$ case parallelamente a un asse e poi di $b$ case in una direzione perpendicolare. Il cavallo usuale è quello di tipo $(1, 2)$. Parte dalla casa $(0, 0)$.
+>
+> 1. In funzione di $a$ e $b$, il cavallo di tipo $(a, b)$ può raggiungere tutte le case della scacchiera infinita? Si possono considerare i valori seguenti:
+> a) $(1, 1)$;
+> b) $(1, 2)$;
+> c) $(1, 3)$;
+> d) $(2, 3)$;
+> e) $(a, b)$ arbitrari.
+>
+> La domanda b) è studiata nell’articolo *Counting the Number of Squares Reachable in $k$ Knight’s Moves*, di A. Miller e D. Farnsworth. Non sarà tenuta in conto nella valutazione, ma conviene trattarla per capire i termini del problema.
+>
+> Su ogni casa Ada scrive il minimo numero di mosse per arrivarci da $(0, 0)$. Se la casa non è raggiungibile, scrive $\infty$. Nelle domande seguenti si può cominciare dai cavalli della domanda 1.
+>
+> 2. Ada indica con $u_k$ il numero di case che portano il numero $k$. Stimare la successione $(u_k)$. Come si comporta quando $k \to +\infty$? È crescente?
+>
+> 3. Nei vari casi, quanto vale il numero scritto sulla casa $(0, 1)$? Proporre una stima.
+>
+> 4. Una casa $c$ è regolare se, per ogni casa $c'$ vicina di $c$, la differenza tra i numeri scritti su $c$ e su $c'$ vale esattamente $1$. Quante case non sono regolari? Se questo numero è finito, stimarlo. Altrimenti, qual è la massima differenza tra due case vicine che si può osservare infinite volte?
+>
+> 5. Per $n \in \mathbb{N}^{*}$, Ada indica con $B_n$ l’insieme delle case $(x, y)$ con $x, y \in \mathbb{Z}$ e $|x|, |y| \leqslant n$. Il tempo di intervento di un cavallo in $B_n$ è il massimo numero scritto sulle case di $B_n$. Per quali valori di $(a, b)$ questo tempo è minimo? Ada indica con $T_n$ questo valore. Stimare $T_n$ in funzione di $n$.
+>
+> 6. Si propongano e si studino altre direzioni di ricerca.
+
+[[Quesiti/src_tfjm_2018#q07|src_tfjm_2018__Q07]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*A knight of type $(a, b)$ on the board $\mathbb{Z}^2$: reachable squares, minimal number of moves, and irregular squares.*
+
+> 7. The stubborn knight
+>
+> Ada studies the moves of her favourite piece, the knight, on an infinite chessboard whose squares are indexed by $\mathbb{Z}^{2}$. Let $a$ and $b$ be integers with $0 < a \leqslant b$. A knight of type $(a, b)$ moves, on each turn, $a$ squares parallel to one axis and then $b$ squares in a perpendicular direction. The ordinary knight is the knight of type $(1, 2)$. It starts on the square $(0, 0)$.
+>
+> 1. As a function of $a$ and $b$, can a knight of type $(a, b)$ reach every square of the infinite board? One may look at the following values:
+> a) $(1, 1)$;
+> b) $(1, 2)$;
+> c) $(1, 3)$;
+> d) $(2, 3)$;
+> e) $(a, b)$ arbitrary.
+>
+> Question b) is studied in the article *Counting the Number of Squares Reachable in $k$ Knight’s Moves*, by A. Miller and D. Farnsworth. It will not be taken into account in the marking, but it is recommended, in order to understand what is at stake.
+>
+> On each square Ada writes the least number of moves needed to reach it from $(0, 0)$. If the square cannot be reached, she writes $\infty$. In the following questions one may begin with the knights of question 1.
+>
+> 2. Ada writes $u_k$ for the number of squares labelled $k$. Bound the sequence $(u_k)$. How does it behave as $k \to +\infty$? Is it increasing?
+>
+> 3. In the various cases, what number is written on the square $(0, 1)$? Give a bound.
+>
+> 4. A square $c$ is regular if, for every square $c'$ adjacent to $c$, the numbers written on $c$ and on $c'$ differ by exactly $1$. How many squares are not regular? If that number is finite, estimate it. Otherwise, what is the greatest difference between two adjacent squares that one can observe infinitely often?
+>
+> 5. For $n \in \mathbb{N}^{*}$, Ada writes $B_n$ for the set of squares $(x, y)$ with $x, y \in \mathbb{Z}$ and $|x|, |y| \leqslant n$. The intervention time of a knight in $B_n$ is the greatest number written on a square of $B_n$. For which values of $(a, b)$ is this time minimal? Ada writes $T_n$ for that value. Estimate $T_n$ as a function of $n$.
+>
+> 6. Propose and study other lines of inquiry.
+
+[[Quesiti/src_tfjm_2018#q07|src_tfjm_2018__Q07]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,method_conteggio,method_grafi,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*Scheduling a round-robin tournament of n players in the minimum number of days T(n), with 1/0 scoring; study possible point totals at each rank, the earliest day a player can be sure of being first or k-th, how many players can know their final rank, and the number of possible final rankings.*
+*Championnat aller simple en $T(n)$ journées : totaux de points possibles à chaque rang, et jusqu’à quand le classement final peut rester incertain.*
 
-> Championships with suspense. Let $n\ge 2$ be an integer. Vincent wants to organize a championship with suspense between $n$ players. He wants each player to play in turn against each of the others, so that the final ranking is known as late as possible. A pair never plays twice. We write $T(n)$ for the minimal number of days necessary to organize the tournament.
-> 
-> 1. What is $T(n)$?
-> 
-> Vincent decides on the following rules. The winner of a match marks $1$ point and the loser $0$. At the end of the championship, the players are ranked by decreasing number of points. In case of a tie, one proceeds at random by a draw. Tied players may be ranked in any order.
-> 
-> 2. Let $1\le k\le n$. What is the greatest possible number of points of the player ranked $k$-th in the final ranking? The smallest possible number of points?
-> 
-> Vincent does not want to waste time. In the rest of the problem, suppose the championship is always organized in exactly $T(n)$ days. Although the way of organizing the championship may vary, Vincent likes the suspense over the final ranking to last as long as possible. But he knows it is not always the case.
-> 
-> 3. After $j$ days, a player knows that, whatever the results of the remaining days, he will be first in the final ranking. Estimate the smallest $j$ for which this is possible.
-> 
-> 4. Fix $1\le k\le n$. Redo the previous question with a player who knows he will be ranked $k$-th in the final ranking.
-> 
-> 5. On the last day, $p$ players already know with certainty their final ranking. What is the greatest possible value of $p$? And replacing "on the last day" by "after $j$ days"?
-> 
-> 6. Just before the last day, Vincent makes the list of all possible final rankings, and writes $L$ for the number of these rankings. What is the greatest possible value of $L$? And the smallest?
-> 
-> 7. Propose and study other directions of research, for example considering the possibility of drawn matches that earn $a$ points with $0\le a\le 1$.
+> 8. Championnats avec suspens
+>
+> Soit $n \geqslant 2$ un entier. Vincent veut organiser un championnat entre $n$ joueurs. Chaque joueur affronte tous les autres exactement une fois, et chaque joueur joue au plus une partie par jour. Il note $T(n)$ le nombre minimal de journées nécessaires.
+>
+> 1. Combien vaut $T(n)$ ?
+>
+> Chaque match a un gagnant et un perdant. Le gagnant marque $1$ point et le perdant $0$. À la fin, Vincent classe les joueurs par nombre de points décroissant. En cas d’égalité, un tirage au sort décide : les joueurs à égalité peuvent donc être classés dans n’importe quel ordre.
+>
+> 2. Soit $1 \leqslant k \leqslant n$. Quel est le plus grand nombre de points que peut avoir le $k$-ième du classement final ? Le plus petit ?
+>
+> Dans la suite, le championnat est toujours organisé en exactement $T(n)$ journées (la façon de l’organiser peut varier). Vincent aime que le suspens sur le classement final dure aussi longtemps que possible.
+>
+> 3. Après $j$ journées, un joueur sait que, quels que soient les résultats restants, il sera premier du classement final. Estimer le plus petit $j$ pour lequel c’est possible.
+>
+> 4. On fixe $1 \leqslant k \leqslant n$. Reprendre la question précédente pour un joueur qui sait qu’il sera classé $k$-ième.
+>
+> 5. Juste avant la dernière journée, $p$ joueurs connaissent déjà avec certitude leur classement final. Quelle est la plus grande valeur possible de $p$ ? Et si l’on remplace « avant la dernière journée » par « après $j$ journées » ?
+>
+> 6. Juste avant la dernière journée, Vincent dresse la liste de tous les classements finaux encore possibles, et note $L$ leur nombre. Quelle est la plus grande valeur possible de $L$ ? Et la plus petite ?
+>
+> 7. Proposer et étudier d’autres pistes. On pourra par exemple envisager des matchs nuls, qui rapportent $a$ points avec $0 \leqslant a \leqslant 1$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_grafi|Grafi]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoire]], [[topic_logica|Logique, jeux, stratégies]]
+**Metodo:** [[method_casework|Analyse par cas]], [[method_estremalita|Principe d'extrémalité]], [[method_conteggio|Dénombrement]], [[method_grafi|Théorie des graphes]]
+**Abilita:** [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_modellizzazione|Modélisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
-
-> [!warning] Estratto/tradotto da verificare con la fonte.
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Programmare un torneo di round-robin di n giocatori nel numero minimo di giorni T(n), con punteggio di 1/0; studiare i possibili totali di punti a ciascuna classifica, il primo giorno in cui un giocatore può essere sicuro di essere primo o k-th, quanti giocatori possono conoscere la loro classifica finale, e il numero di possibili classifiche finali.*
+*Campionato all’italiana in $T(n)$ giornate: punteggi possibili a ogni posto, e fino a quando la classifica finale può restare incerta.*
 
-> Campionati con sospensione. $n\ge 2$ sia un numero intero. Vincent vuole organizzare un campionato con sospensione tra i giocatori. Vuole che ogni giocatore giochi a turno contro ciascuno degli altri, in modo che la classifica finale sia conosciuta il più tardi possibile. Una coppia non gioca mai due volte. Scriviamo $T(n)$ per il numero minimo di giorni necessari per organizzare il torneo.
-> 
-> 1. Che cos' è $T(n)$?
-> 
-> Vincent decide sulle seguenti regole. Il vincitore di una partita segna $1$ punti e il perdente $0$ punti. Alla fine del campionato, i giocatori sono classificati per numero decrescente di punti. In caso di pareggio, uno procede a caso con un pareggio. I giocatori pari possono essere classificati in qualsiasi ordine.
-> 
-> 2. Let $1\le k\le n$. Qual è il maggior numero possibile di punti del giocatore classificato $k$-th nella classifica finale? Il minor numero possibile di punti?
-> 
-> Vincent non vuole perdere tempo. Nel resto del problema, supponiamo che il campionato sia sempre organizzato in giorni esatti. Sebbene il modo di organizzare il campionato possa variare, a Vincent piace il sospenso sulla classifica finale per durare il più a lungo possibile. Ma sa che non è sempre così.
-> 
-> 3. Dopo $j$ giorni, un giocatore sa che, qualunque sia il risultato dei giorni rimanenti, sarà il primo nella classifica finale. Calcolare il minimo $j$ per il quale ciò sia possibile.
-> 
-> 4. Risparmiare $1\le k\le n$. Riprendi la domanda precedente con un giocatore che sa che sarà classificato $k$-th nella classifica finale.
-> 
-> 5. L'ultimo giorno, i giocatori $p$ conoscono già con certezza la loro classifica finale. Qual è il massimo valore possibile di $p$? E sostituire "all'ultimo giorno" con "dopo $j$ giorni"?
-> 
-> 6. Poco prima dell'ultimo giorno, Vincent fa la lista di tutte le possibili classifiche finali, e scrive $L$ per il numero di queste classifiche. Qual è il massimo valore possibile di $L$? E il più piccolo?
-> 
-> 7. Proporre e studiare altre direzioni di ricerca, ad esempio considerando la possibilità di disegnare corrispondenze che guadagnino $a$ punti con $0\le a\le 1$.
+> 8. Campionati con il suspense
+>
+> Sia $n \geqslant 2$ un intero. Vincent vuole organizzare un campionato tra $n$ giocatori. Ogni giocatore affronta tutti gli altri esattamente una volta, e ogni giocatore disputa al più una partita al giorno. Si indica con $T(n)$ il minimo numero di giornate necessarie.
+>
+> 1. Quanto vale $T(n)$?
+>
+> Ogni partita ha un vincitore e un perdente. Il vincitore segna $1$ punto e il perdente $0$. Alla fine Vincent classifica i giocatori per numero di punti decrescente. In caso di parità decide un sorteggio: i giocatori a pari punti possono quindi comparire in qualunque ordine.
+>
+> 2. Sia $1 \leqslant k \leqslant n$. Qual è il massimo numero di punti che può avere il $k$-esimo della classifica finale? E il minimo?
+>
+> Nel seguito il campionato è sempre organizzato in esattamente $T(n)$ giornate (il modo di organizzarlo può variare). Vincent vuole che l’incertezza sulla classifica finale duri il più a lungo possibile.
+>
+> 3. Dopo $j$ giornate, un giocatore sa che, qualunque sia l’esito delle giornate restanti, sarà primo. Stimare il minimo $j$ per cui questo è possibile.
+>
+> 4. Si fissi $1 \leqslant k \leqslant n$. Si riprenda la domanda precedente per un giocatore che sa di arrivare $k$-esimo.
+>
+> 5. Appena prima dell’ultima giornata, $p$ giocatori conoscono già con certezza il proprio posto finale. Qual è il massimo valore possibile di $p$? E se si sostituisce «prima dell’ultima giornata» con «dopo $j$ giornate»?
+>
+> 6. Appena prima dell’ultima giornata, Vincent elenca tutte le classifiche finali ancora possibili e indica con $L$ il loro numero. Qual è il massimo valore possibile di $L$? E il minimo?
+>
+> 7. Si propongano e si studino altre piste. Si possono per esempio ammettere i pareggi, che danno $a$ punti con $0 \leqslant a \leqslant 1$.
+
+[[Quesiti/src_tfjm_2018#q08|src_tfjm_2018__Q08]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*A single round-robin in $T(n)$ days: possible point totals at each rank, and how long the final ranking can stay undecided.*
+
+> 8. Championships with suspense
+>
+> Let $n \geqslant 2$ be an integer. Vincent wants to organise a championship among $n$ players. Each player meets every other player exactly once, and each player plays at most one match a day. Write $T(n)$ for the least number of days needed.
+>
+> 1. What is $T(n)$?
+>
+> Every match has a winner and a loser. The winner scores $1$ point and the loser $0$. At the end Vincent ranks the players by decreasing number of points. Ties are broken by lot: tied players may therefore appear in any order.
+>
+> 2. Let $1 \leqslant k \leqslant n$. What is the greatest number of points the $k$-th player in the final ranking can have? The least?
+>
+> From now on the championship is always organised in exactly $T(n)$ days (the schedule may vary). Vincent likes the final ranking to stay in doubt for as long as possible.
+>
+> 3. After $j$ days, one player knows that, whatever the remaining results, he will finish first. Estimate the least $j$ for which this is possible.
+>
+> 4. Fix $1 \leqslant k \leqslant n$. Answer the previous question for a player who knows that he will finish $k$-th.
+>
+> 5. Just before the last day, $p$ players already know their final rank with certainty. What is the greatest possible value of $p$? And if one replaces «before the last day» by «after $j$ days»?
+>
+> 6. Just before the last day, Vincent lists every final ranking that is still possible, and writes $L$ for the number of such rankings. What is the greatest possible value of $L$? And the least?
+>
+> 7. Propose and study other lines of inquiry. One may, for instance, allow draws, which score $a$ points with $0 \leqslant a \leqslant 1$.
+
+[[Quesiti/src_tfjm_2018#q08|src_tfjm_2018__Q08]]
 
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_casework,method_invarianti,method_backward,method_simmetria,skill_modellizzazione,skill_casework_accurato,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
+<div class="qlang-switch" data-default="fr"></div>
 
 
-*A combinatorial game with n torches each lit or off; players alternately toggle one torch but may never repeat a configuration, and the player who cannot move loses; determine winning strategies under cooperative play, a cap of k lit torches, toggling a fixed number per turn, and asymmetric per-player toggle counts.*
+*Jeu d’allumage de torches : on ne peut pas répéter une configuration déjà vue, et l’on cherche qui a une stratégie gagnante.*
 
-> Lighting the fire. Let $n\in\mathbb{N}^*$. Gabrielle and Marie play a game. They have before them $n$ torches, each of which can be lit or extinguished. Initially, all the torches are extinguished. Each in turn, starting with Gabrielle, one of the two players touches a torch, that is, changes the state of that torch: if the torch was extinguished she lights it, and conversely. To make the game interesting, Gabrielle and Marie impose on themselves a constraint: it is forbidden to obtain a configuration already obtained previously (see Figure 5). The first who can no longer play has lost.
-> 
-> 1. (In this question only, Gabrielle and Marie collaborate, and one is not looking for who wins.) Is it possible for Gabrielle and Marie to obtain all the configurations possible with the $n$ torches during a single game? In the case where this is possible, on which configurations can the game end?
-> 
-> 2. From now on, the two players play one against the other. Which of the two has a winning strategy?
-> 
-> 3. Let $1\le k\le n-1$. To avoid getting too hot, the players forbid themselves from having strictly more than $k$ torches lit simultaneously. Redo question 2 in this setting.
-> 
-> 4. The two players must now activate (change the state of) exactly $a$ torches at each turn, for a fixed integer $a$, and may not activate any of the torches that have just changed state. Redo questions 2 and 3 in this setting. One may begin by treating the cases $a=2$ or $a=3$.
-> 
-> 5. Same question, but Gabrielle must now activate $a$ torches per turn, and Marie $b$ torches per turn, for two fixed integers $a$ and $b$.
-> 
-> 6. Propose and study other directions of research.
+> 9. Allumer le feu
+>
+> Soit $n \in \mathbb{N}^{*}$. Gabrielle et Marie ont devant elles $n$ torches, chacune allumée ou éteinte. Au départ, toutes sont éteintes. À son tour, en commençant par Gabrielle, une joueuse active une torche : elle change son état. Il est interdit d’obtenir une configuration déjà obtenue. La première qui ne peut plus jouer a perdu.
+>
+> Figure 5. Début de partie. Au dernier dessin, c’est au tour de Marie. Elle ne peut ni éteindre la première torche ni rallumer la deuxième (on retrouverait une configuration déjà vue), mais elle peut allumer la troisième.
+>
+> Dans la question 1 seulement, les deux joueuses collaborent, et l’on ne cherche pas qui gagne.
+>
+> 1. Peuvent-elles obtenir toutes les configurations possibles des $n$ torches au cours d’une même partie ? Quand c’est possible, sur quelles configurations la partie peut-elle s’achever ?
+>
+> 2. Désormais elles jouent l’une contre l’autre. Laquelle a une stratégie gagnante ?
+>
+> 3. Soit $1 \leqslant k \leqslant n - 1$. Pour ne pas avoir trop chaud, elles s’interdisent d’avoir strictement plus de $k$ torches allumées en même temps. Reprendre la question 2 dans ce cadre.
+>
+> 4. Elles doivent maintenant activer exactement $a$ torches à chaque tour, pour un entier $a$ fixé, sans activer aucune des torches qui viennent de changer d’état. Reprendre les questions 2 et 3. On pourra commencer par $a = 2$ et $a = 3$.
+>
+> 5. Même question, mais Gabrielle active $a$ torches par tour et Marie $b$ torches par tour, pour deux entiers fixés $a$ et $b$.
+>
+> 6. Proposer et étudier d’autres directions de recherche.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoire]], [[topic_logica|Logique, jeux, stratégies]]
+**Metodo:** [[method_casework|Analyse par cas]], [[method_invarianti|Invariants / monovariants]], [[method_backward|Raisonnement à rebours]], [[method_simmetria|Exploitation de la symétrie]]
+**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_astrazione|Abstraction / généralisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
-
-> [!warning] Estratto/tradotto da verificare con la fonte.
 
 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un gioco combinatorio con n torce ogni accesa o spenta; i giocatori alternatamente togliono una torcia ma non possono mai ripetere una configurazione, e il giocatore che non può muoversi perde; determinare le strategie di vincita nel gioco cooperativo, un limite di k torce accese, togliere un numero fisso per turno, e il numero di togliere asimmetrico per giocatore.*
+*Gioco di accensione delle torce: non si può ripetere una configurazione già vista, e si chiede chi ha una strategia vincente.*
 
-> Accendiamo il fuoco. Let $n\in\mathbb{N}^*$. Gabrielle e Marie giocano a un gioco. Hanno davanti loro torce $n$, ognuna delle quali può essere accesa o spenta. Inizialmente, tutte le torce vengono spente. Ogni volta, a partire da Gabrielle, uno dei due giocatori tocca una torcia, cioè cambia lo stato di quella torcia: se la torcia è stata spenta la accende, e viceversa. Per rendere interessante il gioco, Gabrielle e Marie si impongono un vincolo: è proibito ottenere una configurazione già ottenuta in precedenza (vedi Figura 5). Il primo che non può più giocare ha perso.
-> 
-> 1. (Solo in questa domanda, Gabrielle e Marie collaborano, e non si cerca chi vince.) È possibile per Gabrielle e Marie ottenere tutte le configurazioni possibili con le torce $n$ durante una singola partita? Nel caso in cui ciò sia possibile, su quali configurazioni può finire il gioco?
-> 
-> 2. D'ora in poi, i due giocatori giocano l'uno contro l'altro. Chi di loro ha una strategia vincente?
-> 
-> 3. Let $1\le k\le n-1$. Per evitare di diventare troppo caldi, i giocatori si vietano di accendere più di $k$ torce contemporaneamente. Rendi la domanda 2 in questo contesto.
-> 
-> 4. I due giocatori devono ora attivare (cambiare lo stato di) esattamente $a$ torce ad ogni turno, per un numero intero fisso $a$, e non possono attivare nessuna delle torce che hanno appena cambiato stato. Redo le domande 2 e 3 in questo contesto. Si può iniziare con il trattamento dei casi $a=2$ o $a=3$.
-> 
-> 5. La stessa domanda, ma Gabrielle deve ora attivare le torce $a$ per turno, e le torce Marie $b$ per turno, per due integri fissi $a$ e $b$.
-> 
-> 6. Proporre e studiare altre direzioni di ricerca.
+> 9. Accendere il fuoco
+>
+> Sia $n \in \mathbb{N}^{*}$. Gabrielle e Marie hanno davanti $n$ torce, ciascuna accesa o spenta. All’inizio sono tutte spente. Al proprio turno, a cominciare da Gabrielle, una giocatrice attiva una torcia: ne cambia lo stato. È vietato ottenere una configurazione già vista. La prima che non può più giocare ha perso.
+>
+> Figura 5. Inizio di partita. Nell’ultimo disegno tocca a Marie. Non può né spegnere la prima torcia né riaccendere la seconda (si ritroverebbe una configurazione già vista), ma può accendere la terza.
+>
+> Solo nella domanda 1 le due giocano insieme, e non si chiede chi vince.
+>
+> 1. Possono ottenere tutte le configurazioni possibili delle $n$ torce nel corso di una stessa partita? Quando è possibile, su quali configurazioni la partita può chiudersi?
+>
+> 2. Ora giocano l’una contro l’altra. Quale delle due ha una strategia vincente?
+>
+> 3. Sia $1 \leqslant k \leqslant n - 1$. Per non avere troppo caldo, si vietano di avere strettamente più di $k$ torce accese nello stesso momento. Si riprenda la domanda 2 in questo quadro.
+>
+> 4. Devono ora attivare esattamente $a$ torce a ogni turno, per un intero $a$ fissato, senza attivare nessuna delle torce che hanno appena cambiato stato. Si riprendano le domande 2 e 3. Si può cominciare da $a = 2$ e $a = 3$.
+>
+> 5. La stessa domanda, ma Gabrielle attiva $a$ torce per turno e Marie $b$ torce per turno, per due interi fissati $a$ e $b$.
+>
+> 6. Si propongano e si studino altre direzioni di ricerca.
+
+[[Quesiti/src_tfjm_2018#q09|src_tfjm_2018__Q09]]
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*A torch-lighting game: a configuration already seen may not be repeated, and one asks who has a winning strategy.*
+
+> 9. Light the fire
+>
+> Let $n \in \mathbb{N}^{*}$. Gabrielle and Marie have $n$ torches in front of them, each either lit or out. At the start all are out. On her turn, Gabrielle starting, a player activates one torch: she changes its state. It is forbidden to reach a configuration already seen. The first who cannot move loses.
+>
+> Figure 5. The start of a game. In the last picture it is Marie’s turn. She can neither put out the first torch nor relight the second (that would repeat a configuration already seen), but she can light the third.
+>
+> In question 1 only, the two players cooperate, and one does not ask who wins.
+>
+> 1. Can they reach every possible configuration of the $n$ torches in a single game? When this is possible, on which configurations can the game end?
+>
+> 2. They now play against each other. Which of them has a winning strategy?
+>
+> 3. Let $1 \leqslant k \leqslant n - 1$. So as not to get too hot, they forbid themselves from having strictly more than $k$ torches lit at once. Answer question 2 in this setting.
+>
+> 4. They must now activate exactly $a$ torches on each turn, for a fixed integer $a$, and they may not activate any torch that has just changed state. Answer questions 2 and 3. One may begin with $a = 2$ and $a = 3$.
+>
+> 5. The same question, but Gabrielle activates $a$ torches per turn and Marie $b$ torches per turn, for two fixed integers $a$ and $b$.
+>
+> 6. Propose and study other lines of inquiry.
+
+[[Quesiti/src_tfjm_2018#q09|src_tfjm_2018__Q09]]

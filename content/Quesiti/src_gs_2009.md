@@ -38,7 +38,14 @@ level: squadre
 
 *Distance from the top of an antenna with elevation angle*
 
-> The light at the top (points 20) The paranoid robot Marvin is on the edge of the tower A cornice of Megadodo Publications, the publishing house of the 78-meter-high Galactic Guide for Auto Stoppers (G2AS), has just finished the existential discussion with the Frogstar Robot Tank and looks toward the top of the only hill of Ursa Minor B. In fact, you're looking at the light at the top of the antenna on the top of the hill, and to do that, you're raising your head 30 degrees. Knowing that the hill is 856 meters high, the antenna is 6 meters high and Marvin's eyes are 2 meters from the cornice, what is the distance in meters between Marvin's eyes and the top of the antenna?
+> The light on the summit
+> (points 20) The paranoid robot Marvin is on the edge of the parapet of Tower A at Megadodo Publications, the publishing house of The Hitchhiker's Guide to the Galaxy (G2AS), at a height of 78 metres; he has just finished an existential discussion with the Frogstar Robot Tank and is looking toward the summit of the only hill on Ursa Minor B. In fact, he is looking precisely at the light at the top of the antenna on the hilltop: to do so, he raises his head by 30 degrees. Knowing that the hill is 856 m high, the antenna is 6 m high, and Marvin's eyes are 2 m from the parapet, what is the distance in metres between Marvin's eyes and the top of the antenna?
+
+**Topic:** [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2009#q01|src_gs_2009__Q01]]
 
 
 
@@ -68,7 +75,15 @@ level: squadre
 
 *Max attempts for 4 consecutive buttons in a grid*
 
-> The command board (points 20) To activate the Heart of Gold space shuttle command board, made up of 8 rows of 20 buttons each, Zaphod Beeblebrox, the former president of the Galaxy, must press 4 consecutive buttons, in any order, but he doesn't know which ones are, or whether they are arranged horizontally, vertically or diagonally. How many attempts does he have to make to activate the control panel?
+> The control panel
+> (points 20) To activate the control panel of the spacecraft Heart of Gold, which consists of 8 rows of 20 buttons each, Zaphod Beeblebrox, the former President of the Galaxy, must press 4 consecutive buttons in any order, but he does not know which buttons they are, nor whether they are arranged horizontally, vertically, or diagonally. What is the maximum number of attempts he must make to activate the control panel?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2009#q02|src_gs_2009__Q02]]
 
 
 
@@ -97,9 +112,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum time for nine three-way passengers*
+*Minimum time for nine travelers at three counters*
 
-> At the hypergalactic station (points 20) At a hypergalactic station near Arcturus, travellers form a single queue to access the ticket office gates and it is always the one in front of the queue that turns to one of the available gates. Nine travelers are in line, with three gateways in operation; they spend different times, once in front of the gate, to buy their tickets: 4, 6, 9, 11, 15, 36, 38, 40 and 45 minutes. The time taken to complete the purchases was as short as possible under the conditions described. What was the time it took?
+> At the Hypergalactic Station
+> (Point 20) At a hypergalactic station near Arcturus, travelers form a single queue to access the ticket counters, and it is always the person at the front of the queue who approaches one of the available counters. Nine travelers are in the queue, and three counters are in operation; once at a counter, they take different amounts of time to buy their tickets: 4, 6, 9, 11, 15, 36, 38, 40, and 45 minutes. With the conditions described, the time taken to complete the purchasing process was as short as possible. What was the time taken?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2009#q03|src_gs_2009__Q03]]
 
 
 
@@ -129,9 +151,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Years for all the water to be in the cone of a clex hydrometer*
+*Years for all the water to be in the cone of an hourglass*
 
-> Deep Thought Time (points 20) To take into account the processing time required by Deep Thought, to produce the Answer to the Definitive Question about Life, the Universe and the Whole, the Unified Syndicate of Other Thinking Philosophies (SUFAP) has prepared a water clessor consisting of two cones, connected at the vertices. Water fills the bottom cone. The clessandra is turned and the water begins to fall; after 2009 years, the water is exactly half the height of the lower cone. The water keeps falling regularly. After how many years since the SUFAP's clex hydrometer was turned, will the water be all in the bottom cone?
+> The Time of Deep Thought
+> (points 20) To account for the processing time required by Deep Thought to produce the Answer to the Ultimate Question of Life, the Universe, and Everything, the Single Union of Other Thinkers' Philosophies (SUFAP) has set up a water hourglass consisting of two cones joined at their apices. Water fills the lower cone. The hourglass is turned upside down, and the water begins to flow down; after 2009 years, the water is exactly halfway up the lower cone. The water continues to fall at a steady rate. How many years after the SUFAP hourglass was turned upside down will all the water be in the lower cone?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2009#q04|src_gs_2009__Q04]]
 
 
 
@@ -162,9 +191,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum product leaving the sum parity indeterminate*
+*Maximum product that leaves the equality of the sum undetermined*
 
-> Trillian and Arthur's game (points 30) Waiting for Zaphod's return, Trillian and Arthur play this game. Trillian chooses five different numbers between 1, 2, 3, 4, 5, 6 and 7, makes the product of the five and communicates the result to Arthur who must tell her if the sum of the five numbers is even or odd. What's the biggest number Trillian can say so that Arthur can't determine the answer with certainty? (For example, if Trillian said 1680, from the breakdown into prime factors 1680 = 24 × 3 × 5 × 7, Arthur would even understand that the numbers chosen must be 2, 4, 6, 5 and 7; he would therefore know how to answer with certainty that the sum is equal.) Team competition  Problem texts  Pages. 1 di 5
+> The Game of Trillian and Arthur
+> (30 points) While waiting for Zaphod to return, Trillian and Arthur play this game. Trillian chooses five distinct numbers from among 1, 2, 3, 4, 5, 6, and 7, multiplies the five numbers together, and tells Arthur the result; Arthur must then say whether the sum of the five numbers is even or odd. What is the largest number Trillian can state such that Arthur cannot determine the answer with certainty? (For example, if Trillian said 1680, from the prime factorization 1680 = 2^4 × 3 × 5 × 7, Arthur would even realize that the numbers chosen must be 2, 4, 6, 5, and 7; thus, Arthur would be able to answer with certainty that the sum is even.)
+> Team Competition – Problem Statements – Page 1 of 5
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2009#q05|src_gs_2009__Q05]]
 
 
 
@@ -196,9 +233,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hour of a clock with a speed different from three planets*
+*The time shown by a clock with the different speeds of three planets*
 
-> The three clocks (points 30) According to G2AS, in the headquarters of the Galactic Geo-temporal Control, on huge walls, there are clocks that indicate the exact time of many planets. In one corner, there are analog clock ticks, which indicate the time of the only three planets in the universe where the day is divided into 12 hours and 60 minutes: Fallia, Ciceronicus, and Bethselamin. When Trillian looks at the clocks, Fallia's clock is at 7, Bethselamin's is at 11, and Ciceronicus's is at 2. But, as he moves an hour on the Fallia clock, Ciceronicus moves an hour and 20 minutes and, while the Bethsalami clock counts 12 hours, Fallia's clock counts 36. What time will Fallia's clock mark the first time that those of Bethselamin and Ciceronicus will mark the same hour? The answer is given using the first two digits for the hour, the last two digits for the minutes.
+> The Three Clocks
+> (points 30) According to G2AS, in the headquarters of the Geo-Temporal Galactic Control, on enormous walls, there are clocks that show the exact time on many planets. In one corner, there are analog clocks with hands, showing the time on the only three planets in the universe where the day is divided into 12 hours of 60 minutes each: Fallia, Ciceronicus, and Bethselamin. When Trillian looks at the clocks, the clock for Fallia reads 7, the one for Bethselamin reads 11, and the one for Ciceronicus reads 2. But while one hour passes on the Fallia clock, the Ciceronicus clock moves forward by one hour and 20 minutes, and while the Bethselamin clock counts 12 hours, the Fallia clock counts 36 hours. What time will the Fallia clock show the first time the Bethselamin and Ciceronicus clocks show the same time? Give the answer using the first two digits for the hour and the last two digits for the minutes.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2009#q06|src_gs_2009__Q06]]
 
 
 
@@ -225,9 +269,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of polygon obtained by folding a sheet on a diagonal*
+*Area of the polygon obtained by folding a sheet along a diagonal*
 
-> A problem of aesthetics, I (points 30) While discussing aesthetics with the Blagulon Kappa Computer, the paranoid robot Marvin takes a 16 cm and 25 cm rectangular sheet of paper, folds it along a diagonal, then glues the overlapping parts. What is the value in cm2 of the polygon area obtained?
+> A Problem of Aesthetics, I
+> (30 points) While discussing aesthetics with the Blagulon Kappa Computer, the paranoid robot Marvin takes a rectangular sheet of paper measuring 16 cm by 25 cm, folds it along a diagonal, and then glues the overlapping parts together. What is the area, in cm², of the polygon obtained?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2009#q07|src_gs_2009__Q07]]
 
 
 
@@ -257,9 +309,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of at least one blue t-shirt in four*
+*Probability of at least one light-blue T-shirt out of four*
 
-> The humanoid shirts (points 30) Ford Prefect runs to get shirts for the 4 humanoids traveling on the Heart of Gold: Trillian wanted a blue one. There's seven red shirts and eight blue shirts in a drawer, but Ford takes four without looking. What's the probability that at least one is blue? The answer is given by writing the first four digits of the result other than 0.1 and 9, in the order in which they appear. (For example, if the result was 5 7 = 0.714285714 . . . , you should write 7428.)
+> The T-shirts of the humanoids
+> (30 points) Ford Prefect runs to get T-shirts for the 4 humanoids traveling on the Heart of Gold: Trillian wanted a blue one. In a drawer there are 7 red T-shirts and 8 blue T-shirts, but Ford takes four without looking. What is the probability that at least one is blue? Give the answer by writing the first four non-zero, non-1, non-9 digits of the result, in the order in which they appear. (For example, if the result were 5 7 = 0.714285714..., you should write 7428.)
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2009#q08|src_gs_2009__Q08]]
 
 
 
@@ -286,9 +346,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Height of a four-wheel-drive vehicle with one overhead*
+*Height of a decorative objet d'art with four spheres and one on top*
 
-> Slartibartfast overhang (points 40) In Slartibartfast's study, there is a overhang consisting of four 1.2 dm diameter marble balls, locked in a transparent box, with a 2.4 dm square side base without a lid; in the centre, above the four marble balls, a 1.37 dm diameter steel ball is supported. What is the height in mm of the overmobile?
+> Slartibartfast's ornament
+> (points 40) In Slartibartfast's study, there is a decorative object consisting of four marble spheres with a diameter of 1.2 dm, held inside a transparent box with a square base measuring 2.4 dm on each side and no lid; at the center, above the four marble spheres, a steel sphere with a diameter of 1.37 dm rests. What is the height of the decorative object in mm?
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2009#q09|src_gs_2009__Q09]]
 
 
 
@@ -315,9 +383,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of trapezoids from 4 vertices of a regular 33-agon*
+*Number of quadrilateral trapezoids formed by 4 vertices of a regular 33-gon*
 
-> The SCS polygon (points 40) In the hall of Sirius Cybernetics Corporation, a decorative panel consists of a regular polygon of 33 sides inscribed in a circumference. As an exercise, the Marvin robot controls all trapezoids (including parallelograms) that can be generated with 4 of the 33 vertices of the polygon. How many traps have you checked?
+> The SCS polygon
+> (Point 40) In the lobby of the Sirius Cybernetics Corporation, a decorative panel consists of a regular 33-sided polygon inscribed in a circle. As an exercise, the robot Marvin checks all trapezoids (including parallelograms) that can be formed using 4 of the 33 vertices of the polygon. How many trapezoids did Marvin check?
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2009#q10|src_gs_2009__Q10]]
 
 
 
@@ -345,9 +420,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the polygon by folding the sheet on opposite vertices*
+*Area of the polygon by folding the sheet along opposite vertices*
 
-> Aesthetics problem, II (points 40) The Blagulon Kappa Computer, which does not approve of the aesthetic meaning of the Marvin robot, takes a rectangular sheet of paper the same size as the one used in problem 7, to fold it in a completely different way from that of Marvin. In fact, it folds it over two opposite vertices, then glues the overlapping parts. What is the value in cm2 of the polygon area obtained?
+> A Problem of Aesthetics, II
+> (points 40) The Blagulon Kappa Computer, which does not approve of the robot Marvin's aesthetic sense, takes a rectangular sheet of paper of the same dimensions as the one used in Problem 7, in order to fold it in a completely different way from Marvin's. Indeed, it folds the sheet by bringing two opposite vertices together and then glues the overlapping parts. What is the area, in cm², of the polygon obtained?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2009#q11|src_gs_2009__Q11]]
 
 
 
@@ -375,9 +458,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of farmers given the number of couples' disputes*
+*Number of farmers given the number of pairwise disputes*
 
-> The disputes over Damogran (point 40) On one island of Damogran, there are very contentious farmers. Each of these is in dispute with the others on territorial grounds; for this reason they have turned to a justice of the peace who has opened a practice for each dispute. Knowing that the judge has 438,516 practitioners in his office, how many farmers are there on the island? Team competition  Problem texts  Pag. 2 di 5
+> The disputes over Damogran
+> (40 points) On an island in Damogran, there are very quarrelsome farmers. Each of them is in dispute with all the others over territorial matters; for this reason, they have turned to a justice of the peace, who has opened a case file for each dispute. Knowing that the judge has 438,516 case files in his office, how many farmers are there on the island?
+> Team Competition – Problem Statements – Page 2 of 5
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2009#q12|src_gs_2009__Q12]]
 
 
 
@@ -410,9 +501,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Dollars donated to charity by tripling and dividing*
+*Dollars donated to charity with tripling and division*
 
-> One hundred neo-mathematicians from the laboratories of Sirius Cybernetics Corporation have devised a system to win at the Santraginus 5 casino. Hooloovoo, the boss, puts in the three dollar altars with which the group of neo-mathematicians starts playing; every night they play, the group triples the fortune. To avoid suspicion, they play once every two weeks, every Thursday. They started on Thursday 20 March 2008; they stopped yesterday. After returning to Hooloovoo the three dollars he had invested initially, the neo-mathematicians divided the total assets won into equal parts, rounding off to an entire number of dollars, and donated the rest to charity. How much have the Altaris donated to charity?
+> The Charity of Neo-Mathematicians
+> (50 points) A hundred neo-mathematicians from the laboratories of Sirius Cybernetics Corporation devised a system for winning at the casino on Santraginus 5. Hooloovoo, the leader, puts in the 3 Altarian dollars with which the group of neo-mathematicians starts playing; each evening they play, the group triples its capital. To avoid raising suspicions, they play once every two weeks, always on Thursdays. They started on Thursday, March 20, 2008; they stopped yesterday. After returning to Hooloovoo the 3 dollars he had invested at the beginning, the hundred neo-mathematicians divided the total winnings equally, rounding to a whole number of dollars, and donated the remainder to charity. How many Altarian dollars did they donate to charity?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2009#q13|src_gs_2009__Q13]]
 
 
 
@@ -453,9 +552,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Wake time with triples and permutations of digits*
+*Wake-up time with triplications and permutations of digits*
 
-> The awakening on Eadrax (50 points) On the planet Eadrax a day lasts 100 hours, an hour lasts 100 minutes, a minute lasts 100 seconds. In the main square of the capital, on top of a very high tower, there is a large digital clock, clearly visible, divided into 3 frames hh mm ss. With the ability to always see the great digital clock, workers have become very methodical: they wake up, eat and go to bed all at the same time. • They all wake up at the same time between 7 and 8 a.m.; at that precise time, the clock on the big clock displays three distinct numbers. • They all start eating lunch at the same time, when the large digital clock indicates a time which, as a 6-digit number, is exactly three times that of the alarm clock; the three numbers in the clock frames are the same as the alarm clock, but clearly in a different arrangement. • They all go to sleep at the same time when the large digital clock indicates a time which, as a 6-digit number, is exactly three times the time of the start of lunch; again the three numbers in the clock frames are the same as the time of waking up (and lunch), but in a different arrangement. What's the wake-up time? Write down the minutes and seconds.
+> The alarm on Eadrax
+> (50 points) On the planet Eadrax, a day lasts 100 hours, an hour lasts 100 minutes, and a minute lasts 100 seconds. In the main square of the capital, at the top of a very tall tower, there is a large, clearly visible digital clock divided into 3 fields: hh mm ss. Having the opportunity to always see the large digital clock, the workers have become very methodical: they all wake up, eat, and go to bed at the same time all the time. • They all wake up at the same moment between 7 and 8; at that exact moment, the time shown on the large clock has three distinct numbers. • They all start eating lunch at the same moment when the large digital clock indicates a time that, as a 6-digit number, is exactly three times the wake-up time; the three numbers in the clock's fields are the same as those in the wake-up time, but clearly arranged differently. • They all go to bed at the same moment when the large digital clock indicates a time that, as a 6-digit number, is exactly three times the time when lunch began; again, the three numbers in the clock's fields are the same as those at wake-up time (and at lunch time), but arranged differently. What is the wake-up time? Give the answer by writing the minutes and seconds.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2009#q14|src_gs_2009__Q14]]
 
 
 
@@ -494,9 +600,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Circles for at least 4 of 9 columns (geometric configuration)*
+*Circumferences for at least 4 of 9 columns (geometric configuration)*
 
-> The Temples of Magrathea, I (points 50) On Magrathea it is known that in the distant past many temples were built, rectangular in honour of the Sun Soulianis, and circular in honour of the other Sun Rahm. Excavating in an archaeological area, remains of nine columns are unearthed. Archaeologists determine precisely the positions of their centres: 7 are on the perimeter of a large rectangle (100 m by 11.44 m), occupying the 4 vertices plus 3 other points; 6 are on the perimeter of a smaller rectangle (14.3 m by 6 m), occupying the 4 vertices plus 2 other pointsnecessarily 4 of these points belong to both perimeter. The two rectangles have no parallel sides. In addition, it is observed that a long side of the small rectangle has both ends on the perimeter of the large rectangle, one overlapping to a vertex, and the other not. The long side, on the other hand, has both vertices outside the large rectangle. Archaeologists are trying to determine if they have found traces of a circular temple dedicated to the sun Rahm. To find traces of them with a better chance of success, they decide to dig out all those circular grooves that pass through at least four of the nine columns they have already found. Once you have identified the circles that the archaeologists intend to dig, you count for each of the 9 columns how many of these circles it belongs to; you give the sum of the product of those 9 numbers with the sum of those 9 numbers as the answer. Team competition  Problem texts  Pag. 3 di 5
+> The Temples of Magrathea, I
+> (50 points) On Magrathea, it is known that in remote past times many temples were built: rectangular ones in honor of the sun Soulianis, and circular ones in honor of the other sun, Rahm. While excavating an archaeological site, remains of 9 columns are unearthed. The archaeologists determine precisely the positions of their centers: 7 lie on the perimeter of a large rectangle (100 m by 11.44 m), occupying its 4 vertices plus 3 other points; 6 lie on the perimeter of a smaller rectangle (14.3 m by 6 m), occupying its 4 vertices plus 2 other points—necessarily, 4 of these points belong to both perimeters. The two rectangles have no parallel sides. Furthermore, it is observed that one long side of the smaller rectangle has both endpoints on the perimeter of the larger rectangle, one endpoint coinciding with a vertex and the other not. The other long side, however, has both vertices outside the larger rectangle. The archaeologists are trying to determine whether they have found traces of a circular temple dedicated to the sun Rahm. To search for traces with a higher probability of success, they decide to excavate all those circular furrows that pass through at least 4 of the 9 columns they have already found. Once the circumferences that the archaeologists intend to excavate have been identified, for each of the 9 columns, count how many of these circumferences it belongs to; give as the answer the sum of the product of those 9 numbers and the sum of those 9 numbers.
+> Team Competition – Problem Statements – Page 3 of 5
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2009#q15|src_gs_2009__Q15]]
 
 
 
@@ -525,9 +640,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of products divided by 50 coins repeatedly*
+*Maximum sum of products obtained by repeatedly dividing 50 coins*
 
-> The variable cost of a cocktail (50 points) To pay a Pan Galactic Gargle Blaster to the Illegal Bistro, you take 50 Altarian dollars, divide the 50 coins into two heaps, count the coins of each of the two heaps and write the product of the two counts. Then you take one of the heaps with more than one coin and you divide it into two heaps, you count the coins of each heap and you write down the product of the two counts. It goes on until all the heaps are of one coin. All the products are added. You pay the final amount you get (not 50 Altarian dollars). What is the maximum amount that you can pay?
+> The variable cost of a cocktail
+> (50 points) To pay for a Pan Galactic Gargle Blaster at the Illegale Bistro, take 50 Altarian dollars, divide the 50 coins into two piles, count the coins in each of the two piles, and write down the product of the two counts. Then take one of the piles that contains more than one coin and divide it into two piles, count the coins in each pile, and write down the product of the two counts. Continue until all piles contain exactly one coin. Add up all the products. Pay the final sum obtained (not 50 Altarian dollars). What is the maximum sum that might have to be paid?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2009#q16|src_gs_2009__Q16]]
 
 
 
@@ -563,9 +685,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Signal duration ratio between trains in the same/opposite direction*
+*Signal duration ratio between trains traveling in the same/opposite directions*
 
-> On the planet Ursa Minor Beta, there is a very long railway straight with two single tracks where, thanks to a sophisticated computerised system, trains can travel in both directions on each single track. In all the straight lines, no two trains ever travel on the same track. The distance between the two monorails is 1.9 m. Trains travel at constant and predetermined speeds: the most commonly used for fast and normal travel are 295.4 km/h and 147.7 km/h, respectively, when converted into the decimal metric system. Each train has a small antenna at its tip (negligible size) that, when necessary, emits a radio signal. When the antennas of two trains are less than or equal to 749.25 m away they emit a continuous radio signal to signal each other's position. Railway engineers have found that the signal is transmitted for a longer time when two trains are moving in the same direction than when two trains are moving in opposite directions. What is the relationship between the signal transmission time between two trains travelling in the same direction, one travelling at high speed and the other travelling at normal speed, and the signal transmission time between two trains travelling in opposite directions, one travelling at high speed and the other travelling at normal speed? In the answer, you write the ratio multiplied by 100.
+> The Monorails of Ursa Minor Beta
+> (60 points) On the planet Ursa Minor Beta, there is a very long straight railway line with two monorails; thanks to a sophisticated computerized system, trains can travel in both directions on each monorail. Along the entire straight section, no two trains ever travel on the same monorail. The distance between the two monorails is 1.9 m. The trains travel at constant, predetermined speeds: when converted to the metric decimal system, the most commonly used speeds for fast and normal service are 295.4 km/h and 147.7 km/h, respectively. At the front of each train there is a small antenna (of negligible size) that, when necessary, emits a radio signal. When the antennas of two trains are at a distance of 749.25 m or less, they emit a continuous radio signal to indicate their relative positions. Railway engineers have realized that the signal is transmitted for a longer time when two trains are traveling in the same direction than when two trains are traveling in opposite directions. What is the ratio of the signal transmission duration between two trains traveling in the same direction—one at fast speed and the other at normal speed—to the signal transmission duration between two trains traveling in opposite directions—one at fast speed and the other at normal speed? In the answer, write the ratio multiplied by 100.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2009#q17|src_gs_2009__Q17]]
 
 
 
@@ -601,9 +730,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of sinks in a grid regiment 41 files*
+*Number of sincere people in a regiment on a grid of 41 rows*
 
-> The Army of Apparent Contradiction (paragraphs 60) The Army of Apparent Contradiction (ECA) of Altair only enlists persons who are willing to tell the truth or the lie. They have very powerful, almost paradoxical weapons that can annihilate exterminated territories in a single, absurd blow. A regiment of 2009 soldiers is made up of honest and lying men. A colonel (you don't become an ECAC colonel if you don't always tell the truth) orders the 2009 regimental soldiers to take a stand, rectangular in 41 rows. At that point, each soldier exclaims: Among those around me, there is exactly one liar. The colonel checks that the soldiers are perfectly aligned, that around each soldier there are 8 soldiers, excluding those on the sides of the rectangle of survey. As a final check, he asks the soldiers in the front line to declare how many liars they have in line. Each of the soldiers in the front row declares: Next to me, in the front row, there is exactly one liar.Among the 2009 soldiers of the ECA regiment, how many are honest?
+> The Army of Apparent Contradiction
+> (Points: 60) The Army of Apparent Contradiction (ECA) of Altair recruits only people who are willing to always tell the truth or always tell lies. They have extremely powerful, almost paradoxical weapons that can annihilate vast territories in a single, absurd blow. A regiment of 2009 soldiers consists of truth-tellers and liars. A colonel (one does not become a colonel in the ECA unless one always tells the truth) orders the 2009 soldiers of the regiment to form up for inspection in a rectangle with 41 ranks. At that point, each soldier exclaims: "Among those around me, there is exactly one liar." The colonel checks that the soldiers are perfectly aligned and that there are 8 soldiers around each soldier, excluding those on the sides of the inspection rectangle. As a final check, he asks the soldiers in the first rank to state how many liars they have beside them in the rank. Each of the soldiers in the first rank declares: "Beside me, in the first rank, there is exactly one liar." Among the 2009 soldiers of the ECA regiment, how many are truth-tellers?
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2009#q18|src_gs_2009__Q18]]
 
 
 
@@ -630,9 +766,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diameter of the smallest circumference between the columns*
+*Diameter of the smallest circle between the columns*
 
-> The temples of Magrathea, II (points 60) Of all the circular grooves that are planned to be excavated in issue 15, the first to be excavated is that of the smallest circumference. How many centimetres is the diameter of this circumference?
+> The Temples of Magrathea, II
+> (60 points) Of all the circular grooves that are to be dug in Problem 15, the first one to be dug will be the one for the smallest circle. How many cm long is the diameter of this circle?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2009#q19|src_gs_2009__Q19]]
 
 
 
@@ -663,9 +807,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum 2009 operation with functional property*
+*Maximum of n operations 2009 with functional properties*
 
-> Marvin's boredom (points 70) Analyzing himself, the paranoid robot Marvin finds, in the recesses of his digital circuits, an operation between natural numbers with the following properties: a (a + b) = a b a b = b a a 0 = a for natural numbers a, b any. To pass the time, Marvin calculates the value of n 2009 for all n from 1 to 2008. What's the maximum value Marvin calculated? Team competition  Problem texts  Pag. 4 di 5
+> Marvin's Girl
+> (points 70) Analyzing itself, the paranoid robot Marvin finds, in the recesses of its digital circuits, an operation ⊠ on natural numbers with the following properties: a ⊠(a + b) = a ⊠b, a ⊠b = b ⊠a, a ⊠0 = a for any natural numbers a, b. To pass the time, Marvin calculates the value of n ⊠2009 for all n from 1 to 2008. What is the maximum value calculated by Marvin?
+> Team Competition – Problem Statements – Page 4 of 5
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2009#q20|src_gs_2009__Q20]]
 
 
 
@@ -698,9 +851,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of winning in double-headed cross game*
+*Probability of winning the double coin-toss game*
 
-> The game of double head-and-cross (points 70) In Traal's beetles, the game of double head-and-cross, with a coin, is played between two teams of two players. A player from the first team throws the coin: if a cross comes out, he is eliminated from the game; if a head comes out, nothing happens. Now, a player from the other team throws a coin: if he gets a cross, he's eliminated; if he gets a head, he's eliminating one of the players from the first team. The game moves back to the first team and continues as from the beginning. He loses the team that finishes first. What are the odds of the first team winning? The answer is given by writing the first four digits of the result other than 0.1 and 9, in the order in which they appear. (For example, if the result was 5 7 = 0.714285714 . . . , you should write 7428.)
+> The Double Heads and Tails Game
+> (points 70) In the taverns of Traal, the double heads-and-tails game is played with a coin between two teams of two players each. A player from the first team tosses the coin: if tails comes up, that player is eliminated from the game; if heads comes up, nothing happens. Now a player from the other team tosses a coin: if tails comes up, that player is eliminated; if heads comes up, that player eliminates one of the players from the first team. Play then passes back to the first team, and it continues as at the beginning. The team that runs out of players first loses. What is the probability that the first team wins? Give the answer by writing the first four digits of the result that are different from 0, 1, and 9, in the order in which they appear. (For example, if the result were 5 7 = 0.714285714..., one should write 7428.)
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2009#q21|src_gs_2009__Q21]]
 
 
 
@@ -730,9 +890,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n with two balls one triple the other (1..2009)*
+*Minimum n with two balls, one triple of the other (1..2009)*
 
-> The paranormal psychiatrist (points 70) To demonstrate to clients his ultra-psychiatric abilities, Dr. Gag Halfrunt has the patient perform an easy experiment: he tells him to extract a certain number of balls from a box containing 2009 balls, numbered from 1 to 2009. He, speaking to the patient, will make sure that, among the balls extracted, there are at least two that give three times the number of the other. The thing is, Gag always pulls out the least number of balls that assures him he gets the result. What is the minimum number n such that, taken in any case n balls numbered from 1 to 2009, there are two of these with numbers that are one triple the other?
+> The Paranormal Psychiatrist
+> (points 70) To demonstrate his ultra-psychiatric abilities to clients, Dr. Gag Halfrunt has the patient carry out an easy experiment: he tells the patient to draw a certain number of balls from a box containing 2009 balls numbered from 1 to 2009. While speaking to the patient, he will ensure that, among the balls drawn, at least two have numbers such that one is three times the other. The thing is that Gag always has the minimum number of balls drawn that guarantees he will achieve the result. What is the minimum number n such that, no matter which n balls numbered from 1 to 2009 are drawn, two of them have numbers where one is three times the other?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2009#q22|src_gs_2009__Q22]]
 
 
 
@@ -762,9 +929,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Winning move in the board breaking game*
+*A winning move in the tablet-breaking game*
 
-> After drinking three Pan Galactic Gargle Blasters, Ford and Zaphod had the Nutrimatic Food Synthesizer generate a huge rectangular square chocolate table: 9002 columns, each composed of 2009 square chocolate. They decide to play a game: they may splash the box on a top; then, in turn, each of them will break the table (or what is left of it) into two rectangular pieces, along one of the drains between the boxes, eating one of the two parts. Whoever eats the box with the mayonnaise loses. Ford plays first. Which rectangle must eat on the first move to be sure of winning? The answer indicates the number of different pictures from 2009 and 9002 of one of the sides of the piece of chocolate you have to eat.
+> The chocolate bar
+> (points 80) After drinking three Pan Galactic Gargle Blasters, Ford and Zaphod had the Nutrimatic Food Synthesizer generate an enormous rectangular slab of chocolate divided into squares: 9002 columns, each consisting of 2009 chocolate squares. They decide to play a game: they spread mayonnaise on the square at one corner; then, taking turns, each of them will break the slab (or whatever is left of it) into two rectangular pieces along one of the grooves between the squares, eating one of the two parts. The one who eats the square with the mayonnaise loses. Ford plays first. Which rectangle must he eat on his first move to be certain of winning? In your answer, state the number of squares—different from 2009 and 9002—on one of the sides of the piece of chocolate he must eat.
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_backward|Working backwards]], [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2009#q23|src_gs_2009__Q23]]
 
 
 
@@ -802,6 +976,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most teams in the tournament with MCD rule on scores*
+*Maximum number of teams in a tournament with the MCD scoring rule*
 
-> The MCD Championship (points 80) Planets participating in the MCD Galactic Championship tournament must register two teams to the tournament; each team plays once and only once against all teams from the other participating planets, but does not play against the other team from its own planet. MCD is a very special game: this year, it predicts that a match will end when the sum of the points scored by the two teams is 2009, but with one important exception. When the sum reaches 2009, if the scores of the two teams have a maximum common divisor other than 1, the lead team's score is zero and the game continues. Knowing that all matches ended with different scores (2008-1 and 1-2008 are considered equal scores), how many teams could be at most? For more information, you can consult the Galactic Guide for Auto Stoppers, as transcribed by Douglas Adams, to whose heirs belong the rights to the characters and places mentioned and to whose minds go ∞ thanks for the excellent transcription. Team competition  Problem texts  Pag. 5 di 5
+> The MCD Championship
+> (80 points) The planets taking part in the MCD Galactic Championship Tournament must enter two teams in the tournament; each team plays once and only once against all the teams from the other registered planets, but does not play against the other team from its own planet. MCD is a very peculiar game: this year, it provides that a match ends when the sum of the points scored by the two teams is 2009, but with one important exception. When the sum reaches 2009, if the greatest common divisor of the two teams' scores is not 1, the score of the leading team is reset to zero and the match continues. Given that all matches ended with different scores (2008-1 and 1-2008 are considered the same scores), what was the maximum possible number of teams? For more information, one can consult The Hitchhiker's Guide to the Galaxy, as transcribed by Douglas Adams—the rights to the characters and places mentioned belong to Adams's heirs, and ∞ thanks are due to his mind for the excellent transcription.
+> Team Competition – Problem Statements – Page 5 of 5
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2009#q24|src_gs_2009__Q24]]

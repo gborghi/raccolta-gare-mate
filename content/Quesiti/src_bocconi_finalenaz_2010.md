@@ -36,17 +36,22 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 <div class="qlang-split" data-lang="en"></div>
 
 
-Four watches: what time is it now?
+*Four clocks: what time is it now?*
 
-> We're in one of the classrooms where the National Mathematical Games Championships final is taking place between 2 and 3 p.m.
-> 
-> The drawing shows, at this moment, the four watches that are present in the classroom. One is still. Of the three that work, one is behind (less than an hour), another indicates the exact time and another is ahead (less than an hour).
-> 
-> What time is it right now?
+> We are in one of the classrooms where the national final of the "Mathematical Games Championships" is taking place, between 2 and 3 p.m.
+>
+> At this moment, the drawing shows the four clocks in the classroom. One is stopped. Of the three that are working, one is slow (by less than an hour), another shows the exact time, and another is fast (by less than an hour).
+>
+> **What time is it right now?**
 
 ![[src_bocconi_finalenaz_2010__q01.png]]
 
-**Answer:** 14 h 30 m (also 2:30 in the afternoon)
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2010#q01|src_bocconi_finalenaz_2010__Q01]]
 
 
 
@@ -74,15 +79,20 @@ Four watches: what time is it now?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flamme trees to be removed to remove all squares*
+*Matchsticks to remove to eliminate all squares*
 
-> With 12 matches, Lucia built a figure that contains 5 squares: the larger one and 4 smaller ones. If you lift any match, you've got three squares left.
-> 
-> How many matches must he take, at least, because there is none left?
+> With 12 matches, Lucia built a figure that contains 5 squares: one large square and 4 smaller ones. If she removes any one match, 3 squares remain.
+>
+> **At minimum, how many matches must she remove so that none are left?**
 
 ![[src_bocconi_finalenaz_2010__q02.png]]
 
-**Answer:** 3
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_finalenaz_2010#q02|src_bocconi_finalenaz_2010__Q02]]
 
 
 
@@ -108,13 +118,18 @@ Four watches: what time is it now?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Extraordinary numbers readable in the sequence of numbers 1234567*
+*Odd numbers that can be read in the digit sequence 1234567*
 
-> In the sequence of numbers 1234567, twelve even numbers can be read: 2, 4, 6, 12, 14, 56, 234, 456, 1234, 3456, 23456, 123456. As you can see, you can also read numbers with multiple digits, but these should be considered in the same order as they appear in the initial sequence and without "jumping" in the middle of any.
-> 
-> Following the same rules, how many odd numbers can you read?
+> In the digit sequence 1234567, twelve even numbers can be read: 2, 4, 6, 12, 14, 56, 234, 456, 1234, 3456, 23456, 123456. As you can see, numbers with more digits can also be read, but these must be considered in the same order in which they appear in the initial sequence, with none of them skipped in the middle.
+>
+> **Following the same rules, how many odd numbers can be read?**
 
-**Answer:** 16
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2010#q03|src_bocconi_finalenaz_2010__Q03]]
 
 
 
@@ -143,11 +158,18 @@ Four watches: what time is it now?
 
 *The usual decoupage: cut the figure into two equal parts*
 
-> **Show some of the lines drawn so as to divide the figure into two equal parts.**
-> 
-> (Two parts are considered equal if they can be overlapped, possibly by rotating or flipping them.)
+> Highlight some of the dashed lines so as to divide the figure into two equal parts.
+>
+> (Two parts are considered equal if they can be superimposed, possibly by rotating or flipping them.)
 
 ![[src_bocconi_finalenaz_2010__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2010#q04|src_bocconi_finalenaz_2010__Q04]]
 
 
 
@@ -173,13 +195,18 @@ Four watches: what time is it now?
 <div class="qlang-split" data-lang="en"></div>
 
 
-One step towards culture: how many books does the library of Calde have?
+*A Step in Culture: How Many Books Are in the Caldè Library?*
 
-> Calde's library has many books. Edward read about it in 1988; Darius 2010; Patricius 2022. "You're wrong"  judges Nando  and in particular the one who counted the number closest to the right one was wrong by 3, another by 9 and the other by 25.
-> 
-> How many books exactly does Calde's library own?
+> The library in Caldè has many books. Edoardo read some in 1988; Dario in 2010; Patrizio in 2022. "You were wrong," Nando declares—and in particular, the one who came closest to the exact number was off by 3, another by 9, and the other by 25.
+>
+> How many books does the library in Caldè have exactly?
 
-**Answer:** 2013
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2010#q05|src_bocconi_finalenaz_2010__Q05]]
 
 
 
@@ -209,17 +236,22 @@ One step towards culture: how many books does the library of Calde have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 2, 0, 1, 0: how many other numbers of 2, 3, 4 digits?*
+*Digits 2, 0, 1, 0: how many other 2-, 3-, 4-digit numbers?*
 
-> Sergio owns the four tokens that appear in the figure, with which he formed the number 2010. By arranging them differently, it can naturally form other numbers.
-> 
-> **How many other numbers of 2, 3 and 4 digits can it make together? **
-> 
-> Note: A number of 2, 3 or 4 digits cannot start with 0.
+> Sergio has the four tokens shown in the figure, with which he has formed the number 2010. By arranging them differently, he can naturally form other numbers.
+>
+> **How many other 2-digit, 3-digit, and 4-digit numbers can he form in total?**
+>
+> Note: a 2-digit, 3-digit, or 4-digit number cannot begin with 0.
 
 ![[src_bocconi_finalenaz_2010__q06.png]]
 
-**Answer:** 15
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2010#q06|src_bocconi_finalenaz_2010__Q06]]
 
 
 
@@ -244,11 +276,18 @@ One step towards culture: how many books does the library of Calde have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Aligned: place integers 2-8 on segments with sum of 12*
+*Aligned: arrange the integers 2–8 on segments with a sum of 12*
 
-> **Switch the integers from 2 to 8 (consider once and only once) so that the sum of all the numbers on the same segment is always equal to 12. **
+> Place the integers from 2 to 8 (each considered exactly once) so that, at all times, the sum of all the numbers on any single segment is equal to 12.
 
 ![[src_bocconi_finalenaz_2010__q07.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2010#q07|src_bocconi_finalenaz_2010__Q07]]
 
 
 
@@ -274,13 +313,18 @@ One step towards culture: how many books does the library of Calde have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Parallelograms consisting of three beams of parallel lines*
+*Parallelograms formed by three bundles of parallel lines*
 
-> Draw two parallel lines, then three parallel lines in the second direction, and finally four parallel lines in the third direction, different from the previous two.
-> 
-> **In the figure, how many parallelograms at most do you see? **
+> Draw two parallel lines, then three other lines parallel to one another in a second direction, and finally four more lines parallel to one another but in a third direction different from the first two.
+>
+> **In the figure, what is the maximum number of parallelograms you can see?**
 
-**Answer:** 27
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2010#q08|src_bocconi_finalenaz_2010__Q08]]
 
 
 
@@ -306,13 +350,18 @@ One step towards culture: how many books does the library of Calde have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Eleven: an integer equal to 11 times the sum of its digits*
+*Eleven: the number itself equals 11 times the sum of its digits*
 
-> Elena found an integer (which she called "eleven") that is equal to 11 times the sum of its digits.
-> 
-> Who is it?
+> Elena has found an integer (which she called "eleven") that is equal to 11 times the sum of its digits.
+>
+> **Who is it?**
 
-**Answer:** 198
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finalenaz_2010#q09|src_bocconi_finalenaz_2010__Q09]]
 
 
 
@@ -342,17 +391,22 @@ One step towards culture: how many books does the library of Calde have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Balance with true addition*
+*Balance in equilibrium with true addition*
 
-> Look at the balance shown in the figure and ignore the weights of all the elements that make up the balance (of course, even the two plates of the balance  including the upper triangular one  are regularly spaced apart). Each one of them bears a burden.
-> 
-> **Replace the "?" with an integer of kg (if any repeated) chosen between 1, 2, 3, \ldots, $k$, so that the balance is balanced and the addition is accurate.**
-> 
-> In the addition, the two "?" to the second member will be read as a two-digit number; for example $? = 3$ and $? = 2$ is verified because $1 \times 5 = 1 \times 2 \cdot ? + ? = 3 \cdot 2 + 1$.
+> Look at the balance scale shown in the figure and ignore the weights of all the elements that make it up (naturally, the two pans of the balance—including the upper triangular one—are also evenly spaced from one another). Each of them bears a weight.
+>
+> **Replace the "?"s with an integer number of kg (possibly repeated), chosen from 1, 2, 3, \ldots, $k$, so that the balance scale is in equilibrium and the addition is exact.**
+>
+> In the addition, the two "?"s in the second term will be read as a two-digit number; for example, $? = 3$ and $? = 2$ are satisfied because $1 \times 5 = 1 \times 2 \cdot ? + ? = 3 \cdot 2 + 1$.
 
 ![[src_bocconi_finalenaz_2010__q10.png]]
 
-**Answer:** 7+7=14 or 4+8=12
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finalenaz_2010#q10|src_bocconi_finalenaz_2010__Q10]]
 
 
 
@@ -378,13 +432,18 @@ One step towards culture: how many books does the library of Calde have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum cycling distance in three and a half hours*
+*Maximum km by bicycle in three and a half hours*
 
-> John finished a three-and-a-half-hour bike ride. In each one-hour interval, he traveled 12 kilometers.
-> 
-> What is the maximum number of kilometres you could have walked?
+> Giovanni has finished a three-and-a-half-hour bicycle ride. In each 1-hour interval, he covered 12 km.
+>
+> **What is the maximum number of kilometres he could have covered?**
 
-**Answer:** 48
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2010#q11|src_bocconi_finalenaz_2010__Q11]]
 
 
 
@@ -410,13 +469,18 @@ One step towards culture: how many books does the library of Calde have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum+difference+product+coefficient of two integers = 450*
+*Sum+difference+product+quotient of two integers = 450*
 
-> Add the sum, difference (positive), product and quotient of two positive integers.
-> 
-> **If you get 450, what are these two numbers (in ascending order)?**
+> Add the sum, the (positive) difference, the product, and the quotient of two positive integers.
+>
+> **If you get 450, what are these two numbers (written in ascending order)?**
 
-**Answer:** (2, 100) or (4, 72) or (14, 28)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finalenaz_2010#q12|src_bocconi_finalenaz_2010__Q12]]
 
 
 
@@ -442,13 +506,18 @@ One step towards culture: how many books does the library of Calde have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Laura's first figure to earn at least €15*
+*Laura's first digit to earn at least 15 euros*
 
-> At the beginning of the game, Laura and Matteo put on the table eight euros each. The game begins with Laura writing a number chosen between 1 and 6 (included). Then, Matthew adds another and so on (the numbers can also be repeated). Every time Matteo has played, the two friends check whether the numbers written so far form a multiple of 9; if not, Laura takes 5 Euros from the table and the game continues; if it is, Matteo makes what's on the table and the game ends.
-> 
-> What should be the first number Laura writes if she wants to be sure to take at least 15 euros from the table, no matter how Matteo plays?
+> At the beginning of the game, Laura and Matteo each put 8 euros on the table. The game starts with Laura writing a number chosen from 1 to 6 (inclusive). Then Matteo adds another number, and so on (numbers may also be repeated). Each time Matteo has played, the two friends check whether the numbers written so far form a multiple of 9; if they do not, Laura takes 5 euros from the table and the game continues; if they do, Matteo returns whatever is on the table and the game ends.
+>
+> What must be the first number Laura writes if she wants to be sure of taking at least 15 euros from the table, regardless of how Matteo plays?
 
-**Answer:** 2
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2010#q13|src_bocconi_finalenaz_2010__Q13]]
 
 
 
@@ -474,13 +543,18 @@ One step towards culture: how many books does the library of Calde have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Products of consecutive numbers: quantities divisible by 3*
+*Products of consecutive numbers: how many are divisible by 3*
 
-> Multiply in every possible way two different numbers chosen between 1, 2, 3, \ldots, 19, 20 and mark the even results thus obtained. However, if a result has been obtained more than once, it will be scored only once.
-> 
-> **How many of these results are divisible by 3? **
+> Multiply two different numbers chosen from 1, 2, 3, …, 19, 20 in all possible ways, and mark the even results obtained in this way. However, if a result is obtained more than once, it will be marked only once.
+>
+> **How many of these results are divisible by 3?**
 
-**Answer:** 43
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_finalenaz_2010#q14|src_bocconi_finalenaz_2010__Q14]]
 
 
 
@@ -506,13 +580,18 @@ One step towards culture: how many books does the library of Calde have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Salvadanai: single values from sums in pairs marked*
+*Salvadanai: individual values from the recorded pairwise sums*
 
-> Paul has a number of salvadanai, each containing an entire Euro. He then entertains himself by calculating the sum of the Euros contained in each pair of his salvadanai and on a notebook he notes the results obtained: 40, 48, 62, 75, 82, 100, 130 (some of these numbers have been annotated twice because obtained twice).
-> 
-> **In increasing order, the quantities of Euro contained in the various Salvadanian currency units.**
+> Paolo has a certain number of piggy banks, each of which contains a whole number of euros. He then amuses himself by calculating the sum of the euros contained in each pair of his piggy banks and writes down the results in a notebook: 40, 48, 62, 75, 82, 100, 130 (some of these numbers were written down twice because they were obtained twice).
+>
+> **The amounts of euros contained in the different piggy banks, written in ascending order.**
 
-**Answer:** 13, 27, 35, 65, 65
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_finalenaz_2010#q15|src_bocconi_finalenaz_2010__Q15]]
 
 
 
@@ -538,10 +617,15 @@ One step towards culture: how many books does the library of Calde have?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangular garden with double corner enclosure: minimum perimeter*
+*Triangular garden with a double obtuse angle: minimum perimeter*
 
-> Rosi has a triangular garden in which one corner is twice the other, while the third is an octagonal corner. The measurement of the three sides is given by an integer number of meters.
-> 
-> What is the minimum perimeter of Rosi's garden?
+> Rosi has a triangular garden in which one angle is twice another, while the third angle is an obtuse angle. The lengths of the three sides are given in whole meters.
+>
+> **What is the minimum perimeter of Rosi's garden?**
 
-**Answer:** 77
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_finalenaz_2010#q16|src_bocconi_finalenaz_2010__Q16]]

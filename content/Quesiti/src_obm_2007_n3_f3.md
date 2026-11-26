@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che l'iterata a n volte di una quadrata fissa è uguale a zero ha una soluzione reale per ogni n*
+*Dimostrare che, per ogni n, l'n-pla iterata di una quadratica fissa tale che il risultato sia zero ammette una soluzione reale*
 
-> Let $f(x) = x^2 + 2007x + 1$. Prova che per ogni intero positivo $n$, l'equazione $\underbrace{f(f(\ldots(f(x))\ldots))}_{n \text{ times}} = 0$ ha almeno una soluzione reale.
+> Sia $f(x) = x^2 + 2007x + 1$. Dimostrare che, per ogni numero intero positivo $n$, l'equazione $\underbrace{f(f(\ldots(f(x))\ldots))}_{n \text{ times}} = 0$ ammette almeno una soluzione reale.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n3_f3#q01|src_obm_2007_n3_f3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri interi c nel [-2007,2007] per i quali x^2+c è un multiple di 2^2007 per alcuni numeri interi x*
+*Conta gli interi c in [-2007,2007] per cui x^2+c è multiplo di 2^2007 per qualche intero x*
 
-> Per quanti integri $c$, con $-2007 \le c \le 2007$, esiste un intero $x$ tale che $x^2 + c$ sia un multiple di $2^{2007}$?
+> Per quanti interi $c$, con $-2007 \le c \le 2007$, esiste un intero $x$ tale che $x^2 + c$ sia un multiplo di $2^{2007}$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2007_n3_f3#q02|src_obm_2007_n3_f3__Q02]]
 
 
 
@@ -81,11 +95,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che l'insieme di lunghezze laterali e diagonali di un n-gon convex ha almeno valori distinti di pavimento ((n/2)*
+*Dimostrare che l'insieme delle lunghezze dei lati e delle diagonali di un poligono convesso a n lati ha almeno floor(n/2) valori distinti*
 
-> I punti $n$ sono indicati nel piano, che sono le vertici di un poligono converso. Prova che l'insieme di misure dei lati e diagonali del poligono ha almeno $\lfloor n/2 \rfloor$ elementi distinti.
-> 
-> *Rimarca: * $\lfloor x \rfloor$ indica il numero intero più grande che non supera $x$. Per esempio, $\lfloor 2.5 \rfloor = 2$, $\lfloor 3 \rfloor = 3$ e $\lfloor -1.2 \rfloor = -2$.
+> Nel piano sono dati $n$ punti, i quali sono i vertici di un poligono convesso. Dimostrare che l'insieme delle misure dei lati e delle diagonali del poligono contiene almeno $\lfloor n/2 \rfloor$ elementi distinti.
+>
+> *Osservazione:* $\lfloor x \rfloor$ denota il più grande intero non superiore a $x$. Ad esempio, $\lfloor 2.5 \rfloor = 2$, $\lfloor 3 \rfloor = 3$ e $\lfloor -1.2 \rfloor = -2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n3_f3#q03|src_obm_2007_n3_f3__Q03]]
 
 
 
@@ -108,9 +129,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco su una tavola 2007x2007: Arnaldo rimuove 2x2 blocchi, Bernaldo rimuove singoli quadrati; Bernaldo può sempre vincere?
+*Partita su una scacchiera 2007x2007: Arnaldo rimuove blocchi 2x2, Bernaldo rimuove singoli quadrati; Bernaldo può vincere sempre?*
 
-> $2007^2$ piccoli quadrati uguali sono disposti formando una tavola $2007 \times 2007$. Arnaldo e Bernaldo giocano il seguente gioco: ciascuna delle mosse di Arnaldo consiste nel rimuovere 4 piccoli quadrati che formano un quadrato $2 \times 2$. Ogni mossa di Bernaldo consiste nel rimuovere solo un piccolo quadrato. I giocatori giocano alternativamente, con Arnaldo come primo a giocare. Quando Arnaldo non riesce più a fare la sua mossa, Bernaldo prende per sé tutti i piccoli quadrati rimasti sulla lavagna alla fine. Colui che ha più piccoli quadrati vince. E' possibile che Bernaldo vinca, non importa come giochi?
+> $2007^2$ quadratini uguali sono disposti a formare una $2007 \times 2007$ scacchiera. Arnaldo e Bernaldo giocano la seguente partita: ciascuna mossa di Arnaldo consiste nel rimuovere 4 quadratini che formano un $2 \times 2$ quadrato. Ciascuna mossa di Bernaldo consiste nel rimuovere un solo quadratino. I giocatori si alternano, con Arnaldo che muove per primo. Quando Arnaldo non può più compiere la propria mossa, Bernaldo si prende tutti i quadratini che restano sulla scacchiera alla fine. Vince chi ha più quadratini. È possibile che Bernaldo vinca, indipendentemente da come gioca Arnaldo?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2007_n3_f3#q04|src_obm_2007_n3_f3__Q04]]
 
 
 
@@ -133,9 +161,16 @@ Gioco su una tavola 2007x2007: Arnaldo rimuove 2x2 blocchi, Bernaldo rimuove sin
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale convex; se l'angolo POQ è giusto allora il PO divide l'angolo AOD e il QO divide l'angolo AOB*
+*Quadrilatero convesso; se l'angolo POQ è retto, allora PO biseca l'angolo AOD e QO biseca l'angolo AOB*
 
-> Il $ABCD$ deve essere un quadrilaterale convex, $P$ l'intersezione delle linee $AB$ e $CD$, $Q$ l'intersezione delle linee $AD$ e $BC$, e $O$ l'intersezione delle diagonali $AC$ e $BD$. Prove che se $\angle POQ$ è un angolo retto, allora $PO$ è il bisector di $\angle AOD$ e $QO$ è il bisector di $\angle AOB$.
+> Sia $ABCD$ un quadrilatero convesso, $P$ l'intersezione delle rette $AB$ e $CD$, $Q$ l'intersezione delle rette $AD$ e $BC$, e $O$ l'intersezione delle diagonali $AC$ e $BD$. Dimostrare che, se $\angle POQ$ è un angolo retto, allora $PO$ è la bisettrice di $\angle AOD$ e $QO$ è la bisettrice di $\angle AOB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2007_n3_f3#q05|src_obm_2007_n3_f3__Q05]]
 
 
 
@@ -160,8 +195,15 @@ Gioco su una tavola 2007x2007: Arnaldo rimuove 2x2 blocchi, Bernaldo rimuove sin
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reali in cui ogni valore si verifica al massimo due volte tra le differenze in coppia; dimostrare che almeno le differenze di livello ((n/2) si verificano esattamente una volta*
+*Reali in cui ciascun valore compare al più due volte tra le differenze a coppie; dimostrare che almeno floor(n/2) differenze compaiono esattamente una volta*
 
-> Dati i numeri reali $x_1 \le x_2 \le \ldots \le x_n$, supponiamo che ogni numero si verifichi al massimo due volte tra le differenze $x_j - x_i$, $1 \le i < j \le n$. Prove che ci sono almeno $\lfloor n/2 \rfloor$ numeri reali che si verificano esattamente una volta tra tali differenze.
-> 
-> *Ricordo: * nel caso non vi ricordate, nell'esame di ieri $\lfloor x \rfloor$ indica il numero intero più grande che non supera $x$. Per esempio, $\lfloor 2.5 \rfloor = 2$, $\lfloor 3 \rfloor = 3$ e $\lfloor -1.2 \rfloor = -2$.
+> Dati i numeri reali $x_1 \le x_2 \le \ldots \le x_n$, si supponga che, tra le differenze $x_j - x_i$, $1 \le i < j \le n$, ogni numero compaia al più due volte. Dimostrare che esistono almeno $\lfloor n/2 \rfloor$ numeri reali che compaiono esattamente una volta tra tali differenze.
+>
+> *Osservazione:* nel caso non te lo ricordassi, nell'esame di ieri, $\lfloor x \rfloor$ indica il più grande intero che non supera $x$. Ad esempio, $\lfloor 2.5 \rfloor = 2$, $\lfloor 3 \rfloor = 3$ e $\lfloor -1.2 \rfloor = -2$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2007_n3_f3#q06|src_obm_2007_n3_f3__Q06]]

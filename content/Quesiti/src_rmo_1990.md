@@ -29,9 +29,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pigeon hole su sfere dello stesso colore e dimensione in due scatole*
+*65 palline di quattro colori in due scatole: se 5 dello stesso colore ne hanno almeno 2 della stessa misura, allora 3 stanno nella stessa scatola, con lo stesso colore e la stessa misura*
 
-> Due scatole contengono tra di loro 65 palle di diverse dimensioni. Ogni palla è bianca, nera, rossa o gialla. Se si prendono 5 palle dello stesso colore, almeno 2 di esse saranno sempre della stessa dimensione (radio). Prova che ci sono almeno 3 palle nella stessa scatola, dello stesso colore e della stessa dimensione (radio).
+> Due scatole contengono insieme 65 palline di diverse misure. Ogni pallina è bianca, nera, rossa o gialla. Se si prendono 5 palline qualsiasi dello stesso colore, almeno 2 di esse hanno sempre la stessa misura (raggio). Dimostrare che ci sono almeno 3 palline che stanno nella stessa scatola, hanno lo stesso colore e hanno la stessa misura (raggio).
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_rmo_1990#q01|src_rmo_1990__Q01]]
 
 
 
@@ -55,9 +61,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza per i reali positivi: somma delle frazioni ge 3/2*
+*Per a, b, c reali positivi, a/(b+c) + b/(c+a) + c/(a+b) ≥ 3/2*
 
-> Per tutti i numeri reali positivi $a, b, c$ provare che $$\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b} \ge \frac{3}{2}.$$
+> Per tutti i numeri reali positivi $a, b, c$, dimostrare che
+>
+> $$\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b} \ge \frac{3}{2}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_rmo_1990#q02|src_rmo_1990__Q02]]
 
 
 
@@ -80,9 +94,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Papero quadrato piegato in modo che B raggiunga il punto medio M del CD; piega divide BC 3:5*
+*Un quadrato piegato in modo che un vertice cada nel punto medio del lato opposto: la piega divide un lato nel rapporto 5:3*
 
-> Un foglio quadrato di carta $ABCD$ è piegato in modo tale che $B$ ricade sul punto medio $M$ di $CD$. Prove che la piega dividerà $BC$ nel rapporto $5:3$.
+> Un foglio di carta quadrato $ABCD$ viene piegato in modo che $B$ cada nel punto medio $M$ di $CD$. Dimostrare che la piega divide $BC$ nel rapporto $5:3$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_1990#q03|src_rmo_1990__Q03]]
 
 
 
@@ -105,9 +125,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il rimanente quando 2^1990 è diviso per 1990*
+*Il resto di 2^1990 diviso per 1990*
 
-> Trova il rimanente quando $2^{1990}$ è diviso da $1990$.
+> Trovare il resto della divisione di $2^{1990}$ per $1990$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_rmo_1990#q04|src_rmo_1990__Q04]]
 
 
 
@@ -131,9 +157,17 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto P all'interno del triangolo ABC con perimetro 2s: prova s < AP+BP+CP < 2s*
+*P interno a un triangolo di semiperimetro s: s < AP + BP + CP < 2s*
 
-> $P$ è qualsiasi punto all'interno di un triangolo $ABC$. Il perimetro del triangolo $AB + BC + CA = 2s$. Provare che $$s < AP + BP + CP < 2s.$$
+> $P$ è un punto qualsiasi interno a un triangolo $ABC$. Il perimetro del triangolo è $AB + BC + CA = 2s$. Dimostrare che
+>
+> $$s < AP + BP + CP < 2s.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1990#q05|src_rmo_1990__Q05]]
 
 
 
@@ -156,9 +190,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*numero a 50 cifre divisibile per 13; trovare la 26a cifra dato che tutti gli altri sono 1*
+*Numero di 50 cifre, tutte 1 tranne la 26ª, divisibile per 13: trovare quella cifra*
 
-> $N$ è un numero di 50 cifre (scala decimale). Tutte le cifre tranne la 26a cifre (da sinistra) sono 1. Se $N$ è divisibile per 13, trova la 26a cifra.
+> $N$ è un numero di 50 cifre, in base dieci. Tutte le cifre, tranne la 26ª da sinistra, sono 1. Se $N$ è divisibile per 13, trovare la 26ª cifra.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_1990#q06|src_rmo_1990__Q06]]
 
 
 
@@ -181,9 +221,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Donna del censimento deduce le età individuali da due somme di coppie*
+*Le donne di una casa danno solo le somme delle età a due a due: 30, 33, 41, 58, 66, 69. Come si ricavano le età*
 
-> Una censista in servizio ha visitato una casa che le donne detenute ha rifiutato di rivelare le loro singole età, ma ha detto  "non ci dispiace darvi la somma delle età di due donne che potete scegliere". La donna del censimento disse: "In tal caso, per favore, dammi la somma delle età di ogni possibile coppia". Ha dato le somme come segue: 30, 33, 41, 58, 66, 69. La donna censista prese queste cifre e se ne andò felice. Come ha calcolato le singole età delle donne a partire da queste cifre?
+> Una rilevatrice del censimento, in servizio, visita una casa. Le donne che vi abitano non vogliono dire le età singole, ma dicono: «Non ci dispiace darle la somma delle età di due qualunque di noi, a sua scelta». Allora la rilevatrice dice: «In tal caso, mi dia la somma delle età di ogni coppia possibile di voi». Le somme date sono 30, 33, 41, 58, 66 e 69. La rilevatrice annota questi numeri e se ne va contenta. Come ha ricavato, da questi numeri, le età delle donne?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_rmo_1990#q07|src_rmo_1990__Q07]]
 
 
 
@@ -206,6 +252,12 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circumcenter = centroid implica triangolo equilaterale*
+*Se circocentro e baricentro coincidono, il triangolo è equilatero*
 
-> Se il centro circostante e il centroide di un triangolo coincidono, dimostrare che il triangolo deve essere equilaterale.
+> Se il circocentro e il baricentro di un triangolo coincidono, dimostrare che il triangolo è equilatero.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_rmo_1990#q08|src_rmo_1990__Q08]]

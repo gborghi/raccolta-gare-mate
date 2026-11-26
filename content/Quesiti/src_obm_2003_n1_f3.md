@@ -29,9 +29,17 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare numeri interi positivi inferiori a 1000 la cui somma digitali è di 7*
+*Si contano gli interi positivi sotto 1000 con somma delle cifre 7*
 
-> Quanti integri positivi inferiori a $1000$ hanno la somma delle loro cifre uguale a $7$?
+> Quanti interi positivi minori di $1000$ hanno somma delle cifre uguale a $7$?
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+
+[[Quesiti/src_obm_2003_n1_f3#q01|src_obm_2003_n1_f3__Q01]]
 
 
 
@@ -58,13 +66,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza più lunga che termina con 103 dove ogni termine più la somma digitali dà il termine successivo*
+*Ogni termine, sommato alle proprie cifre, dà il successivo: la sequenza più lunga che finisce a 103*
 
-> Considerate le sequenze di numeri interi positivi in modo tale che ogni termine più la somma dei suoi numeri sia uguale al termine seguente. Ad esempio: $6, 12, 15, 21, 24, 30, 33, 39$ è una sequenza in queste condizioni.
-> 
-> Scrivere la sequenza più lunga il cui ultimo termine è $103$ e che soddisfa tali condizioni.
-> 
-> **Nota: ** la sequenza più lunga è quella con il maggior numero di termini.
+> Si considerino le sequenze di interi positivi in cui ogni termine, sommato alla somma delle proprie cifre, è uguale al termine successivo. Per esempio $6, 12, 15, 21, 24, 30, 33, 39$ è una sequenza di questo tipo.
+>
+> Scrivere la sequenza più lunga il cui ultimo termine è $103$ e che soddisfa queste condizioni.
+>
+> **Nota:** la sequenza più lunga è quella con il maggior numero di termini.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
+
+**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_obm_2003_n1_f3#q02|src_obm_2003_n1_f3__Q02]]
 
 
 
@@ -91,13 +107,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Dividere un quadrato di lato 2003 in 6364 quadrati i cui lati sono potenze di 2*
+*Si chiede una suddivisione di un quadrato di lato 2003 in 6364 quadrati di lato potenza di 2*
 
 > I numeri $1, 2, 4, 8, 16, 32, 64, \ldots$ sono potenze di $2$.
-> 
-> Si desidera dividere un quadrato di lato $2003$ in altri quadrati i cui lati sono potenze di $2$.
-> 
-> Indicare un modo per eseguire la divisione e ottenere i quadrati $6364$ i cui lati sono potenze di $2$.
+>
+> Si vuole dividere un quadrato di lato $2003$ in altri quadrati i cui lati sono potenze di $2$.
+>
+> Mostrare un modo per fare la divisione e ottenere $6364$ quadrati i cui lati sono potenze di $2$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+
+**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+
+[[Quesiti/src_obm_2003_n1_f3#q03|src_obm_2003_n1_f3__Q03]]
 
 
 
@@ -126,15 +150,23 @@ Dividere un quadrato di lato 2003 in 6364 quadrati i cui lati sono potenze di 2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*area comune di due quadrati che condividono un centro-vertice; area di quadrato formata da centri di quadrati sui lati di un parallelo*
+*Due quadrati con un centro su un vertice, poi i centri dei quadrati esterni a un parallelogramma*
 
-> a) Due quadrati sono posizionati in modo che il centro del primo sia un vertice del secondo, come mostrato nella figura seguente.
-> 
-> Se il lato del primo quadrato misura $12$ cm, qual è la superficie comune dei due quadrati?
-> 
-> b) Nella figura seguente, il parallelogramma ha lati di misura $12$ cm e $4$ cm e superficie $40$ cm$^2$. I quadrati $P$, $Q$, $R$ e $S$ siano i centri dei quadrati costruiti esternamente sui quattro lati di questo parallelo. Sapendo che il quadrilaterale $PQRS$ è un quadrato, calcola la sua superficie.
+> a) Due quadrati sono disposti in modo che il centro del primo sia un vertice del secondo, come nella figura.
+>
+> Se il lato del primo quadrato misura $12$ cm, qual è l'area comune ai due quadrati?
+>
+> b) Nella figura seguente il parallelogramma ha lati di misura $12$ cm e $4$ cm e area $40$ cm$^2$. Siano $P$, $Q$, $R$ e $S$ i centri dei quadrati costruiti esternamente sui quattro lati di questo parallelogramma. Sapendo che il quadrilatero $PQRS$ è un quadrato, calcolarne l'area.
 
 ![[src_obm_2003_n1_f3__q04.png]]
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_obm_2003_n1_f3#q04|src_obm_2003_n1_f3__Q04]]
 
 
 
@@ -161,10 +193,18 @@ Dividere un quadrato di lato 2003 in 6364 quadrati i cui lati sono potenze di 2*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Construire il perimetro di un rettangolo a partire da bacche di lunghezza intera del 2003 rompendo alcune: una rottura non è sempre sufficiente, due rotture sono sempre sufficienti*
+*Dimostrare che una sola spezzatura non basta sempre, mentre due bastano sempre*
 
-> Vogliamo costruire il perimetro di un rettangolo utilizzando le barre $2003$ le cui misure sono numeri interi positivi. A tal fine occorre a volte spezzare alcune di esse, ma per costruire il rettangolo occorre usare tutte le barre e i pezzi di barre.
-> 
-> a) Mostrare che con una sola interruzione non è sempre possibile costruire il rettangolo.
-> 
-> b) Mostrare che con due intervalli è sempre possibile costruire il rettangolo.
+> Si vuole costruire il perimetro di un rettangolo usando $2003$ aste le cui lunghezze sono interi positivi. A volte bisognerà spezzarne alcune, ma tutte le aste e tutti i pezzi devono essere usati.
+>
+> a) Dimostrare che con una sola spezzatura non è sempre possibile costruire il rettangolo.
+>
+> b) Dimostrare che con due spezzature è sempre possibile.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+
+**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_obm_2003_n1_f3#q05|src_obm_2003_n1_f3__Q05]]

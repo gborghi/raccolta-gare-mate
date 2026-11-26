@@ -24,8 +24,8 @@ level: Coupe Animath Printemps
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2021
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=3)
-**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.3
+**Fonte:** apri PDF p.3 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -38,6 +38,8 @@ level: Coupe Animath Printemps
 > *Qui è richiesta solo la risposta numerica.*
 
 **Risposta:** 2021
+
+[[Quesiti/src_canimath_2026_printemps#q01|src_canimath_2026_printemps__Q01]]
 
 
 
@@ -55,8 +57,8 @@ level: Coupe Animath Printemps
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** $22.5^\circ$
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=4)
-**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.4
+**Fonte:** apri PDF p.3 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -69,6 +71,8 @@ level: Coupe Animath Printemps
 > Quanto misura l'angolo $\widehat{PCB}$?
 
 **Risposta:** $22{,}5^\circ$
+
+[[Quesiti/src_canimath_2026_printemps#q02|src_canimath_2026_printemps__Q02]]
 
 
 
@@ -86,8 +90,8 @@ level: Coupe Animath Printemps
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $n=2$
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.5](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=5)
-**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.5
+**Fonte:** apri PDF p.3 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -100,6 +104,8 @@ level: Coupe Animath Printemps
 > Qual è il più grande valore di $n$ per cui ciò è possibile?
 
 **Risposta:** $n=2$
+
+[[Quesiti/src_canimath_2026_printemps#q03|src_canimath_2026_printemps__Q03]]
 
 
 
@@ -117,8 +123,8 @@ level: Coupe Animath Printemps
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** exactly for $n\geqslant5$
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.6](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=6)
-**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.6
+**Fonte:** apri PDF p.3 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -131,6 +137,8 @@ level: Coupe Animath Printemps
 > Per quali valori di $n$ accade che, qualunque siano i numeri reali scritti da Aline, Emilhan riesca a trovare tre numeri reali a due a due distinti $a$, $b$ e $c$ tra gli $n$ numeri alla lavagna tali che $ab+bc+ca\geqslant0$?
 
 **Risposta:** esattamente per $n\geqslant5$
+
+[[Quesiti/src_canimath_2026_printemps#q04|src_canimath_2026_printemps__Q04]]
 
 
 
@@ -150,8 +158,8 @@ level: Coupe Animath Printemps
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1) 1 number; 2) 2 distinct numbers
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.7](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=7)
-**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.7
+**Fonte:** apri PDF p.3 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -166,6 +174,8 @@ level: Coupe Animath Printemps
 > 2. Determinare il massimo numero di numeri distinti che Maxime ha scritto nella griglia se il pezzo che possiede è il seguente, formato da 2 caselle: un domino (due caselle affiancate).
 
 **Risposta:** 1) 1 numero; 2) 2 numeri distinti
+
+[[Quesiti/src_canimath_2026_printemps#q05|src_canimath_2026_printemps__Q05]]
 
 
 
@@ -183,8 +193,8 @@ level: Coupe Animath Printemps
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(-1,0,1)$ and all its permutations
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.9](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=9)
-**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.9
+**Fonte:** apri PDF p.3 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -197,6 +207,8 @@ level: Coupe Animath Printemps
 > $$\begin{cases}x^2=yz+1,\\ y^2=zx+1,\\ z^2=xy+1.\end{cases}$$
 
 **Risposta:** $(-1,0,1)$ e tutte le sue permutazioni
+
+[[Quesiti/src_canimath_2026_printemps#q06|src_canimath_2026_printemps__Q06]]
 
 
 
@@ -214,8 +226,8 @@ level: Coupe Animath Printemps
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** proof — official solution in the corrigé
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.12](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=12)
-**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.12
+**Fonte:** apri PDF p.3 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -228,6 +240,8 @@ level: Coupe Animath Printemps
 > Dimostrare che le rette $(AP)$, $(QR)$ e $(DE)$ passano per uno stesso punto.
 
 **Risposta:** dimostrazione — soluzione ufficiale nel corrigé
+
+[[Quesiti/src_canimath_2026_printemps#q07|src_canimath_2026_printemps__Q07]]
 
 
 
@@ -247,8 +261,8 @@ level: Coupe Animath Printemps
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2023
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.13](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=13)
-**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.13
+**Fonte:** apri PDF p.4 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -264,6 +278,8 @@ level: Coupe Animath Printemps
 
 **Risposta:** 2023
 
+[[Quesiti/src_canimath_2026_printemps#q08|src_canimath_2026_printemps__Q08]]
+
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria"></span>
@@ -278,8 +294,8 @@ level: Coupe Animath Printemps
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.14](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=14)
-**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.14
+**Fonte:** apri PDF p.4 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -290,6 +306,8 @@ level: Coupe Animath Printemps
 > In una griglia $4\times4$, due delle sedici caselle sono colorate di nero e le altre quattordici di bianco. Determinare il più grande intero positivo $k$ tale che, comunque siano scelte le caselle nere, si possa sempre trovare un rettangolo formato da $k$ caselle intere, con i lati paralleli ai lati della griglia, che non contenga alcuna casella nera.
 
 **Risposta:** 4
+
+[[Quesiti/src_canimath_2026_printemps#q09|src_canimath_2026_printemps__Q09]]
 
 
 
@@ -307,8 +325,8 @@ level: Coupe Animath Printemps
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** proof — official solution in the corrigé
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.15](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=15)
-**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.15
+**Fonte:** apri PDF p.4 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -321,6 +339,8 @@ level: Coupe Animath Printemps
 > Dimostrare che $DX=DY$.
 
 **Risposta:** dimostrazione — soluzione ufficiale nel corrigé
+
+[[Quesiti/src_canimath_2026_printemps#q10|src_canimath_2026_printemps__Q10]]
 
 
 
@@ -342,8 +362,8 @@ level: Coupe Animath Printemps
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.16](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=16)
-**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.16
+**Fonte:** apri PDF p.4 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -361,6 +381,8 @@ level: Coupe Animath Printemps
 
 **Risposta:** 3
 
+[[Quesiti/src_canimath_2026_printemps#q11|src_canimath_2026_printemps__Q11]]
+
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana"></span>
@@ -377,8 +399,8 @@ level: Coupe Animath Printemps
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** proof — official solution in the corrigé
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.17](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=17)
-**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.17
+**Fonte:** apri PDF p.4 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -391,6 +413,8 @@ level: Coupe Animath Printemps
 > Dimostrare che le rette $(AP)$, $(QR)$ e $(DE)$ passano per uno stesso punto.
 
 **Risposta:** dimostrazione — soluzione ufficiale nel corrigé
+
+[[Quesiti/src_canimath_2026_printemps#q12|src_canimath_2026_printemps__Q12]]
 
 
 
@@ -410,8 +434,8 @@ level: Coupe Animath Printemps
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** no: there are only finitely many such $x$
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.18](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=18)
-**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.18
+**Fonte:** apri PDF p.4 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -426,6 +450,8 @@ level: Coupe Animath Printemps
 > *Si ricorda che $\lfloor y\rfloor$ indica la parte intera del reale $y$, cioè il più grande intero minore o uguale a $y$, e che $\{y\}$ indica la parte frazionaria di $y$, cioè $\{y\}=y-\lfloor y\rfloor$.*
 
 **Risposta:** no: le soluzioni sono in numero finito
+
+[[Quesiti/src_canimath_2026_printemps#q13|src_canimath_2026_printemps__Q13]]
 
 
 
@@ -443,8 +469,8 @@ level: Coupe Animath Printemps
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** proof — official solution in the corrigé
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.19](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=19)
-**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.19
+**Fonte:** apri PDF p.4 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -457,6 +483,8 @@ level: Coupe Animath Printemps
 > Dimostrare che $n$ ha almeno 150 cifre nella sua scrittura decimale.
 
 **Risposta:** dimostrazione — soluzione ufficiale nel corrigé
+
+[[Quesiti/src_canimath_2026_printemps#q14|src_canimath_2026_printemps__Q14]]
 
 
 
@@ -474,8 +502,8 @@ level: Coupe Animath Printemps
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4
-**Fonte risposta:** [corrigé commenté ufficiale PDF p.21](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=21)
-**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** corrigé commenté ufficiale PDF p.21
+**Fonte:** apri PDF p.4 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -488,3 +516,5 @@ level: Coupe Animath Printemps
 > Qual è il più grande valore di $n$ tale che, comunque siano collegate le città, esista un ciclo di lunghezza almeno $n$?
 
 **Risposta:** 4
+
+[[Quesiti/src_canimath_2026_printemps#q15|src_canimath_2026_printemps__Q15]]

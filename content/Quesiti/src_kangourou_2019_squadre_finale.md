@@ -32,11 +32,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the fractional telescopic product*
+*Result of the product of fractions in telescoping form*
 
-> What is the result of the following expression 6/3 × 9/6 × 12/9 × ... × (3n + 3)/(3n) × ... × 2019/2016 ?
+> The expression: What is the result of the following expression 6/3 × 9/6 × 12/9 × ... × (3n + 3)/(3n) × ... × 2019/2016?
 
-**Answer:** 0673
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_finale#q01|src_kangourou_2019_squadre_finale__Q01]]
 
 
 
@@ -69,13 +74,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Alpha angle between equally spaced strips*
+*Alpha angle between equally spaced slats*
 
 ![[src_kangourou_2019_squadre_finale__prob2.png]]
 
-> The figure to the right shows a frame made of wooden strips, all of the same thickness; 12 of these are bevelled at one end (symmetrically as the other figure suggests) so that they can be glued to the center of symmetry of the frame, distributing them so that the measurement of the angle between each strip and the one following it (clockwise) is constant. How many degrees does the angle denoted by α measure?
+> The strips: The figure on the right shows a framework made up of wooden strips, all of the same thickness; 12 of these are beveled at one end (symmetrically, as the other figure suggests), so that they can be glued at the center of symmetry of the framework, arranged in such a way that the angle between each strip and the next one (in a clockwise direction) is constant. How many degrees is the angle denoted by α in the figure?
 
-**Answer:** 0015
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_finale#q02|src_kangourou_2019_squadre_finale__Q02]]
 
 
 
@@ -104,11 +113,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lock code from the directions*
+*Lock code from the instructions*
 
-> The lock The code for opening a lock is made up of four different digits. Compared to that code, each of the following four numbers 6427 4271 6412 2671 has two digits in the correct position, one in the incorrect position and one not present. What's the code?
+> The padlock: The code to open a padlock consists of 4 digits, all of which are different from one another. Compared with that code, each of the following four numbers—6427, 4271, 6412, 2671—has two digits in the correct positions, one digit in the wrong position, and one digit that is not present. What is the code?
 
-**Answer:** 6471
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_squadre_finale#q03|src_kangourou_2019_squadre_finale__Q03]]
 
 
 
@@ -170,11 +184,14 @@ level: squadre
 \end{document}
 ```
 
-> From A to B 
-> Look at the cube in the figure. You want to go from A to B by moving along the edges of the 
-> cube without ever passing through the same vertex twice. In how many different ways can you do this?
+> From A to B: Observe the cube in the figure. You want to get from A to B by moving along the edges of the cube without ever passing through the same vertex twice. In how many different ways can you do this?
 
-**Answer:** 0016
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_finale#q04|src_kangourou_2019_squadre_finale__Q04]]
 
 
 
@@ -198,11 +215,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many factors 55 to get 5^55*
+*How many factors 55 to obtain 5^55*
 
-> How many factors of 55 do you have to multiply to get a result of 5 to the power of 55 ?
+> An enormous number: how many factors of 55 must be multiplied together to get 5 raised to the power of 55 as the result?
 
-**Answer:** 0625
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_finale#q05|src_kangourou_2019_squadre_finale__Q05]]
 
 
 
@@ -230,11 +251,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Jumps out of the house after 2019 jumps kangaroo jumps*
+*Jumps from the house after 2019 kangaroo jumps*
 
-> The kangaroo One day a kangaroo makes a northward jump out of his house and returns home with a southward jump; the next day he makes two northward jumps and returns home with two southward jumps; the next day he again makes three northward jumps and returns home with three southward jumps, and so on for a few days. Right now, counting all the jumps he's made since day one, he's made 2019. How many jumps away from home is he?
+> The Kangaroo One day, a kangaroo hops north away from its home and hops back home to the south; the next day, it hops north twice and hops back home to the south twice; the day after that, it hops north three times and hops back home to the south three times, and so on for a few days. Right now, counting all the hops made since the first day, it has made 2019 hops in total. How many hops is it from home?
 
-**Answer:** 0039
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_finale#q06|src_kangourou_2019_squadre_finale__Q06]]
 
 
 
@@ -265,13 +290,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of bags containing the initial*
+*Probability: bag contents equal to the initial one*
 
-> Ada and Bice Ada and Bice have two bags of identical content: one marble for each of the five colors A, B, C, D and E. Ada randomly picks a marble from her bag and inserts it into Bice's, immediately after Bice picks a marble randomly from her bag and inserts it into Ada's. Now the two bags have five marbles each again. What is the probability that the contents of the bags are equivalent to the original? (Write the probability as a fraction of integers p/q reduced to minimum terms and write in the order p and q; for example, if the answer was 7/9, write [0709].)
->  
+> Ada and Bice have two bags with identical contents: one marble of each of the five colors A, B, C, D, and E. Ada randomly takes a marble from her bag and puts it into Bice's bag; immediately afterward, Bice randomly chooses a marble from her bag and puts it into Ada's bag. Now the two bags again each contain 5 marbles. What is the probability that the contents of the bags are the same as the initial contents? (Write the probability as a reduced fraction of integers p/q, and write p and q in that order; for example, if the answer were 7/9, write [0709].)
+>
 > α
 
-**Answer:** 0103
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_squadre_finale#q07|src_kangourou_2019_squadre_finale__Q07]]
 
 
 
@@ -297,11 +326,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of prime factors of 12345*
+*Sum of the prime factors of 12345*
 
-> Prime factors One of the prime factors of 12345 is a number greater than 500. What is the sum of all its prime factors?
+> Prime factors: One of the prime factors of 12345 is a number greater than 500. What is the sum of all its prime factors?
 
-**Answer:** 0831
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_finale#q08|src_kangourou_2019_squadre_finale__Q08]]
 
 
 
@@ -330,13 +364,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the outline of the folded circle*
+*Length of the perimeter of the folded circle*
 
 ![[src_kangourou_2019_squadre_finale__prob9.png]]
 
-> The folded circle A circular segment of a circle of radius 9 is folded inside the circle so that the arc passes through the centre O of the circumference as shown in the figure. Which integer is closest to the length of the outline of the resulting figure that is highlighted with a solid line?
+> The Folded Circle A circular arc segment of a circle with radius 9 is folded inside the circle so that the arc passes through the center O of the circumference, as shown in the figure. Which integer is closest to the perimeter of the resulting figure, which is outlined with a solid line?
 
-**Answer:** 0053
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2019_squadre_finale#q09|src_kangourou_2019_squadre_finale__Q09]]
 
 
 
@@ -362,11 +400,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quite power with 1 or 6 as a unit*
+*Fourth powers with 1 or 6 as the units digit*
 
-> How many of the first thousand perfect fourth powers of positive integers have 1 or 6 as a unit number?
+> Fourth powers: Among the first thousand perfect fourth powers of positive integers, how many have 1 or 6 as the units digit?
 
-**Answer:** 0800
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_finale#q10|src_kangourou_2019_squadre_finale__Q10]]
 
 
 
@@ -394,11 +437,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum number of women in parliament 300 MPs
+*Minimum number of women in parliament: 300 MPs*
 
-> Parliament has 300 members; the four parties represented have exactly 10%, 20%, 25% and 45% of the total. In neither party the difference between the two numbers of elected representatives of both sexes is greater than 1. What is the minimum number of women (or men) who can be present in that parliament?
+> In parliament: A parliament has 300 members of parliament; the four parties represented have, in order, numbers of members of parliament that are exactly 10%, 20%, 25%, and 45% of the total. In none of the parties does the difference between the numbers of elected members of the two sexes exceed 1. What is the minimum number of women (or men) that can be present in that parliament?
 
-**Answer:** 0149
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_squadre_finale#q11|src_kangourou_2019_squadre_finale__Q11]]
 
 
 
@@ -448,7 +496,7 @@ Minimum number of women in parliament 300 MPs
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum diagonals to stiffen a 4x4 grid*
+*Minimal diagonals to stiffen the 4x4 lattice*
 
 ![[src_kangourou_2019_squadre_finale__prob12.png]]
 
@@ -470,9 +518,14 @@ Minimum number of women in parliament 300 MPs
 \end{document}
 ```
 
-> The lattice A lattice is an assembly of bars articulated at their junction points. When its cells are square or rectangular the structure is generally not rigid (see figure) without the addition of diagonal bars. How many diagonal bars, at a minimum, must be added to a 4 × 4 square mesh mesh that contains none to make it rigid?
+> Lattice A lattice is an assembly of bars joined at their connection points. When its cells are square or rectangular, the structure is generally not rigid (see figure) without the addition of diagonal bars. What is the minimum number of diagonal bars that must be added to a 4 × 4 lattice with square cells that contains none, in order for the lattice to be rigid?
 
-**Answer:** 0007
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2019_squadre_finale#q12|src_kangourou_2019_squadre_finale__Q12]]
 
 
 
@@ -499,11 +552,16 @@ Minimum number of women in parliament 300 MPs
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum mean of three consecutive integers divisible by 6!*
+*The minimum mean of three consecutive integers divisible by 6!*
 
-> Average The product of three consecutive positive integers is divisible by 6! = 6 × 5 × 4 × 3 × 2 × 1. What's the smallest possible average for the three numbers?
+> Media The product of three consecutive positive integers is divisible by 6! = 6 × 5 × 4 × 3 × 2 × 1. What is the smallest possible mean of the three numbers?
 
-**Answer:** 0009
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_finale#q13|src_kangourou_2019_squadre_finale__Q13]]
 
 
 
@@ -528,11 +586,16 @@ Minimum number of women in parliament 300 MPs
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For how many n are both n-2019 and n+6000 squares*
+*For as many as n-2019 or n+6000 squares*
 
-> Perfect squares For how many positive integers n does it happen that both n - 2019 and n + 6000 are perfect squares?
+> Perfect squares: For how many positive integers n is both n − 2019 and n + 6000 a perfect square?
 
-**Answer:** 0007
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_finale#q14|src_kangourou_2019_squadre_finale__Q14]]
 
 
 
@@ -581,19 +644,24 @@ Minimum number of women in parliament 300 MPs
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of digits per bracelet of 20 beads*
+*Minimum number of digits per bracelet: 20 beads*
 
 ![[src_kangourou_2019_squadre_finale__prob15.png]]
 
-> Alice Alice composes bracelets of black and white beads, which begin and end with stoppers, following this rule: think of a number, divide it by two and if she gets no remainder she inserts a black bead, if she gets a remainder she inserts a white bead; then she repeats the operation on the quotient she obtained with the previous division and goes on until she gets as quotient 1: at this point she inserts a white bead (and adds the closing stopper). For example, down here you can see the result on the left if you think 5, and the result on the right if you think 6:
->  
-> (the non-circular shape on the left represents the stopper she put on before starting work, the one on the right represents the stopper she put on at the end). Alice has a random number generator that she can ask to provide numbers with a predetermined number of digits (significant). If she wants to be sure she can make a bracelet with at least 20 beads, what is the minimum number of digits she must ask for? O
-> 
+> Alice Alice makes bracelets out of white and black beads, which begin and end with clasps, following this rule: she thinks of a number, divides it by two, and if there is no remainder, she threads a black bead; if there is a remainder, she threads a white bead. Then she repeats the operation on the quotient obtained from the previous division and continues like this until she gets 1 as the quotient: at that point, she threads a white bead (and adds the closing clasp). For example, below, on the left you can see the result if she thinks of 5, and on the right the result if she thinks of 6:
+>
+> (The non-circular shape on the left represents the clip she put on before starting the work; the one on the right represents the clip she put on at the end). Alice has a random number generator that she can ask to provide numbers with a predetermined number of (significant) digits. If she wants to be sure of ending up with a bracelet that has at least 20 beads, what is the minimum number of digits she must request? Or
+>
 > 1
->  
-> Kangourou of Mathematics 2019 Kangourou Cup to teams Final Cervia, 4 May 2019
->  
->  
-> Questions and solutions
+>
+> Kangaroo Mathematics Competition 2019 Kangaroo Team Cup Final, Cervia, 4 May 2019
+>
+>
+> Questions and Solutions
 
-**Answer:** 0007
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2019_squadre_finale#q15|src_kangourou_2019_squadre_finale__Q15]]

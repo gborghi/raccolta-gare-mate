@@ -31,9 +31,18 @@ level: Olympiades Première
 <div class="qlang-split" data-lang="it"></div>
 
 
-Esercizio 1, Q1: logica grafica d'amore su chi ama chi
+*Esercizio 1, Q1: logica del grafo dell'amore su chi ama chi*
 
-> Esercizio 1 (tutti i candidati) - I giochi d'amore. Se Alice non ama Jordan, allora Brenda ama Jordan. Se Brenda ama Jordan, allora Brenda ama Dan. Se Alice ama Jordan, allora Brenda non ama Dan. Brenda ama Jordan, così Brenda ama Dan. Dan ama Alice?
+> Esercizio 1 (tutti i candidati) - I giochi dell'amore. Se Alice non ama Jordan, allora Brenda ama Jordan. Se Brenda ama Jordan, allora Brenda ama Dan. Se Alice ama Jordan, allora Brenda non ama Dan. Brenda ama Jordan, quindi Brenda ama Dan. Dan ama Alice?
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_oprem_2026#q01|src_oprem_2026__Q01]]
 
 
 
@@ -58,9 +67,18 @@ Esercizio 1, Q1: logica grafica d'amore su chi ama chi
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 1, Q2: trucco dell'età, la persona può diventare più giovane*
+*Esercizio 1, Q2: trucco dell'età, una persona può far apparire sé stessa più giovane*
 
-> Esercizio 1 (tutti i candidati) - Ritorno al futuro. Tuo zio ha $54$ anni. Con un trucco si fece $9$ anni più giovane. Più in generale, si consideri una persona di età $ab$ anni, con $a \ge 5$ e $b = 6$. (a) Con quante anni, al massimo, questa persona malvagia può rendersi più giovane con la procedura descritta? b) Può questa persona diventare più giovane di esattamente $30$ anni?
+> Esercizio 1 (tutti i candidati) - Ritorno al futuro. Tuo zio ha $54$ anni. Con un trucco, è diventato più giovane di $9$ anni. Più in generale, si consideri una persona di $ab$ anni, con $a \ge 5$ e $b = 6$. (a) Di quanti anni, al massimo, questa persona birichina può diventare più giovane mediante la procedura descritta? (b) Questa persona può diventare più giovane di esattamente $30$ anni?
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_oprem_2026#q02|src_oprem_2026__Q02]]
 
 
 
@@ -84,9 +102,17 @@ Esercizio 1, Q1: logica grafica d'amore su chi ama chi
 <div class="qlang-split" data-lang="it"></div>
 
 
-Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
+*Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 
-> Esercizio 1 (tutti i candidati) - Informazioni amministrative. Le elezioni di un consiglio sono condotte da persone $4$. Tutti i voti sono validi ed espressi. I risultati ottenuti sono: Johanna ottiene $\frac{1}{4}$ dei voti, Jason $\frac{1}{15}$ dei voti, Jasmine $\frac{3}{20}$ dei voti e Julie $\frac{1}{3}$ dei voti. Chi vince e per quanto si può vincere? Quanti elettori ci possono essere?
+> Esercizio 1 (tutti i candidati) - Intelligenza amministrativa. $4$ persone si candidano alle elezioni di un consiglio. Tutti i voti sono validi e espressi. I risultati ottenuti sono: Johanna ottiene $\frac{1}{4}$ dei voti, Jason ottiene $\frac{1}{15}$ dei voti, Jasmine ottiene $\frac{3}{20}$ dei voti e Julie ottiene $\frac{1}{3}$ dei voti. Chi vince e di quanto si può vincere? Quanti elettori possono esserci?
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_oprem_2026#q03|src_oprem_2026__Q03]]
 
 
 
@@ -112,11 +138,19 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 1, Q4: volume del secchio di frustum, raggio del livello dell'acqua e livello di mezzo riempimento*
+*Esercizio 1, Q4: volume del tronco di cono a forma di secchio, raggio del livello dell'acqua e livello di riempimento a metà*
 
-> Esercizio 1 (tutti i candidati) - La metà non è stupida. Un secchio ha la forma di un cono troncato di piccolo raggio $r$, grande raggio $R > r$ e altezza totale $h$. a) giustificare che il volume totale sia $\mathcal{V} = \frac{\pi h}{3}(r^2 + Rr + R^2)$. b) Si riempie il secchio fino ad un'altezza $x$; $\rho$ sia il numero reale appartenente all'intervallo $[0,h]$ in modo tale che la superficie dell'acqua a questa altezza $x$ sia un disco di raggio $\rho$. Determinare $\rho$ in termini di $x$, $r$, $R$ e $h$. c) Supponiamo che $r = 1$, $R = 1.2$ e $h = 2$. Utilizzando la calcolatrice, indicare un valore approssimativo di $x$ in modo che il secchio sia riempito a metà della sua capacità. Perché non si può limitare la ricerca intorno al valore $x = 1$?
+> Esercizio 1 (tutti i candidati) - La metà non è stupida. Un secchio ha la forma di un tronco di cono di raggio piccolo $r$, raggio grande $R > r$ e altezza totale $h$. (a) Giustifica che il volume totale è $\mathcal{V} = \frac{\pi h}{3}(r^2 + Rr + R^2)$. (b) Si riempie il secchio fino all'altezza $x$; sia $\rho$ il numero reale appartenente all'intervallo $[0,h]$ tale che, a questa altezza $x$, la superficie dell'acqua sia un disco di raggio $\rho$. Determinare $\rho$ in funzione di $x$, $r$, $R$ e $h$. (c) Supponi che $r = 1$, $R = 1.2$ e $h = 2$. Usando la calcolatrice, dà un valore approssimato di $x$ tale che il secchio sia riempito fino a metà della sua capacità. Perché non si può limitare la ricerca attorno al valore $x = 1$?
 
 ![[src_oprem_2026__q04.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_oprem_2026#q04|src_oprem_2026__Q04]]
 
 
 
@@ -143,11 +177,20 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 1, Q5: triomini a piastrella 2^n x 2^n griglie, con cellule rimosse*
+*Esercizio 1, Q5: pavimentazione di griglie 2^n x 2^n con triominò, con celle rimosse*
 
-> Esercizio 1 (tutti i candidati) - Triomini. I seguenti poligoni, costituiti da tre quadrati, sono chiamati triomini. Ci interessano i tessuti per triomino di griglie (o, nelle lettere b) e c), di pezzi di griglie) di formato $a \times b$, dove $a$ indica il loro numero di linee e $b$ il loro numero di colonne. La figura opposta mostra un esempio di tessitura di una griglia in cui si impone $a = 2$ e $b = 6$. Che $n$ sia un intero naturale non zero. (a) È possibile costruire una griglia di formato $2^n \times 2^n$? (b) Si rimuove il quadrato superiore sinistro di tale griglia; è quindi possibile tessere questa griglia così modificata (si parte dalla griglia di dimensioni $n = 1$ e poi $n = 2$ per generalizzare)? c) Indicare che il risultato precedente rimane vero quando si rimuove qualunque delle celle della griglia completa $2^n \times 2^n$ all'inizio.
+> Esercizio 1 (tutti i candidati) - Triominò. I seguenti poligoni, formati da tre quadrati, sono chiamati triominò. Ci interessano le tassellazioni, mediante triominò, di griglie (o, in (b) e (c), di porzioni di griglie) di formato $a \times b$, dove $a$ denota il loro numero di righe e $b$ il loro numero di colonne. La figura a fianco mostra un esempio di tassellazione di una griglia in cui si pone $a = 2$ e $b = 6$. Sia $n$ un numero intero naturale non nullo. (a) È possibile tassellare una griglia di formato $2^n \times 2^n$? (b) Si rimuove il quadrato in alto a sinistra di una tale griglia; è allora possibile tassellare questa griglia così modificata (si parte dalla griglia di dimensioni $n = 1$ e poi $n = 2$ per generalizzare)? (c) Mostrare che il risultato precedente rimane vero quando, all'inizio, si rimuove una qualsiasi delle celle della griglia completa $2^n \times 2^n$.
 
 ![[src_oprem_2026__q05.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_induzione|Induzione]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_oprem_2026#q05|src_oprem_2026__Q05]]
 
 
 
@@ -173,11 +216,18 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 1, Q6: somma armonica H_n, peso binario, H_n mai numero intero per n>=2*
+*Esercizio 1, Q6: somme armoniche H_n, peso binario, H_n non è mai un numero intero per n>=2*
 
-> Esercizio 1 (tutti i candidati) - Somme armoniche. Per $n$ un intero naturale, $n \ge 1$, si calcola la somma (chiamata armonica) $H_n = 1 + \frac{1}{2} + \frac{1}{3} + \cdots + \frac{1}{n}$. Quindi $H_1 = 1$, $H_2 = 1 + \frac{1}{2} = \frac{3}{2}$, $H_3 = 1 + \frac{1}{2} + \frac{1}{3} = \frac{11}{6}$. (a) giustificare tale $H_4 = \frac{25}{12}$. b) Proporre un codice in Python che permetta di ottenere $H_n$ per qualsiasi numero intero naturale $n \ge 1$. (c) Si chiama peso binario la potenza più grande di due apparsi tra i termini da sommare. Quindi il peso binario di $H_2$ è $\frac{1}{2}$, quello di $H_3$ anche; il peso binario di $H_8$ è $\frac{1}{8}$, quello di $H_9, H_{10}, \dots, H_{15}$ anche, ecc. Qual è il peso binario di $H_3$? Of $H_8$? Of $H_{20}$? (d) Si osserva, dopo alcuni tentativi, che i valori di $H_n$ non sembrano mai essere numeri interi non appena $n \ge 2$. dimostrarlo con l'aiuto, in particolare, del peso binario di $H_n$.
+> Esercizio 1 (tutti i candidati) - Somme armoniche. Per $n$ numero intero naturale, $n \ge 1$, si calcola la somma (detta armonica) $H_n = 1 + \frac{1}{2} + \frac{1}{3} + \cdots + \frac{1}{n}$. Pertanto $H_1 = 1$, $H_2 = 1 + \frac{1}{2} = \frac{3}{2}$, $H_3 = 1 + \frac{1}{2} + \frac{1}{3} = \frac{11}{6}$. (a) Giustificare che $H_4 = \frac{25}{12}$. (b) Proporre un codice in linguaggio Python che permetta di ottenere $H_n$ per qualsiasi numero intero naturale $n \ge 1$. (c) Si definisce peso binario la più grande potenza di due che compare tra i termini da sommare. Pertanto il peso binario di $H_2$ è $\frac{1}{2}$, quello di $H_3$ è anch'esso tale; il peso binario di $H_8$ è $\frac{1}{8}$, quello di $H_9, H_{10}, \dots, H_{15}$ è anch'esso tale, ecc. Qual è il peso binario di $H_3$? Di $H_8$? Di $H_{20}$? (d) Si osserva, dopo alcuni tentativi, che i valori di $H_n$ sembrano non essere mai interi non appena $n \ge 2$. Dimostrarlo con l'aiuto, in particolare, del peso binario di $H_n$.
 
-**Risposta:** H_4 = 25/12
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_oprem_2026#q06|src_oprem_2026__Q06]]
 
 
 
@@ -203,11 +253,18 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 2, Q1: primo conteggio pi(n), valori iniziali*
+*Esercizio 2, Q1: funzione pi(n) di conteggio dei numeri primi, valori iniziali*
 
-> Esercizio 2 (traccia generale seguendo la specialità matematica) - Super prime. Ricordiamo che un numero primo è un intero naturale non zero che ha esattamente due divisioni positive distinte: $1$ e se stesso. Quindi $1$ non è primo poiché ha solo $1$ divisore. Ricordiamo anche che esistono infiniti numeri primi, che si possono enumerare; i numeri primi più piccoli sono $2$, indicato $p_1$; poi $3$, indicato $p_2$, e così via. Uno indica quindi $p_n$ il $n$-th numero primo. Uno dà, per esempio, l'elenco ordinato dei primi quindici numeri primi: $p_1 = 2$; $p_2 = 3$; $p_3 = 5$; $p_4 = 7$; $p_5 = 11$; $p_6 = 13$; $p_8 = 19$; $p_9 = 23$; $p_{10} = 29$; $p_{11} = 31$; $p_{12} = 37$; $p_{13} = 41$; $p_{14} = 43$; $p_{15} = 47$. Per ogni intero naturale $n$, si indica $\pi(n)$ il numero di numeri primi inferiori o uguali a $n$. Si osserva che questa notazione, $\pi(n)$ o $\pi_n$, è normale e chiara nel contesto, ma non ha nulla a che fare con la $\pi$ della geometria a piatto. Studio della sequenza $(\pi_n)_{n \ge 0}$. (1) giustificare che $\pi_0 = 0$ e $\pi_3 = 3$. Calcolare $\pi_1$, $\pi_2$, $\pi_6$, $\pi_{47}$ e $\pi_{49}$.
+> Esercizio 2 (percorso generale relativo all'indirizzo matematico) - Numeri primi super. Ricordiamo che un numero primo è un numero intero naturale non nullo che ha esattamente due divisori positivi distinti: $1$ e se stesso. Pertanto $1$ non è primo, poiché ha solo $1$ divisori. Ricordiamo inoltre che esistono infiniti numeri primi, che si possono enumerare; i numeri primi più piccoli sono $2$, denotato con $p_1$; poi $3$, denotato con $p_2$, e così via. Si denota quindi con $p_n$ il $n$-esimo numero primo. A titolo illustrativo, si riporta la lista ordinata dei primi quindici numeri primi: $p_1 = 2$; $p_2 = 3$; $p_3 = 5$; $p_4 = 7$; $p_5 = 11$; $p_6 = 13$; $p_7 = 17$; $p_8 = 19$; $p_9 = 23$; $p_{10} = 29$; $p_{11} = 31$; $p_{12} = 37$; $p_{13} = 41$; $p_{14} = 43$; $p_{15} = 47$. Per ogni numero intero naturale $n$, si denota con $\pi(n)$ il numero di numeri primi minori o uguali a $n$. Si osserva che questa notazione, $\pi(n)$ o $\pi_n$, è consueta e chiara nel contesto, ma non ha nulla a che fare con il $\pi$ della geometria piana. Studio della successione $(\pi_n)_{n \ge 0}$. (1) Giustifica che $\pi_0 = 0$ e $\pi_3 = 3$. Calcola $\pi_1$, $\pi_2$, $\pi_6$, $\pi_{47}$ e $\pi_{49}$.
 
-**Risposta:** pi_0=0, pi_3=3
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_oprem_2026#q07|src_oprem_2026__Q07]]
 
 
 
@@ -231,9 +288,17 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 2, Q2: pi_n è in aumento*
+*Esercizio 2, Q2: pi_n è crescente*
 
-> Esercizio 2 - (2) Dimostra che la sequenza $(\pi_n)_{n \ge 0}$ aumenta, cioè per ogni intero naturale $n$, $\pi_n \le \pi_{n+1}$.
+> Esercizio 2 - (2) Dimostrare che la successione $(\pi_n)_{n \ge 0}$ è crescente, vale a dire che, per ogni numero intero naturale $n$, $\pi_n \le \pi_{n+1}$.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_oprem_2026#q08|src_oprem_2026__Q08]]
 
 
 
@@ -257,9 +322,17 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 2, Q3: pi(p) = pi(q) se non esiste un primo rigorosamente tra p e q*
+*Esercizio 2, Q3: pi(p)=pi(q) se e solo se non esiste alcun numero primo strettamente compreso tra p e q*
 
-> Esercizio 2 - (3) Dimostra che se $p$ e $q$ indicano due integri naturali distinti come $p < q$, allora $\pi_p = \pi_q$ se e solo se non esiste un numero primo $r$ come $p < r \le q$.
+> Esercizio 2 - (3) Dimostrare che, se $p$ e $q$ denotano due interi naturali distinti tali che $p < q$, allora $\pi_p = \pi_q$ se e solo se non esiste alcun numero primo $r$ tale che $p < r \le q$.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_oprem_2026#q09|src_oprem_2026__Q09]]
 
 
 
@@ -283,9 +356,17 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 2, Q4: dimostrare pi_n <= n e trovare casi di uguaglianza*
+*Esercizio 2, Q4: dimostrare che pi_n <= n e individua i casi di uguaglianza*
 
-> Esercizio 2 - (4) Dimostra che per ogni intero naturale $n$, $\pi_n \le n$. Per quale numero intero ((s) $n$ si dispone di $\pi_n = n$?
+> Esercizio 2 - (4) Dimostrare che per ogni numero intero naturale $n$, $\pi_n \le n$. Per quale/i numero/i intero/i $n$ si ha $\pi_n = n$?
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_oprem_2026#q10|src_oprem_2026__Q10]]
 
 
 
@@ -310,9 +391,18 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 2, Q5: sequenza di iterazioni m, pi(m), pi(pi(m)),... per m=5 e m=11*
+*Esercizio 2, Q5: successione delle iterazioni m, pi(m), pi(pi(m)),... per m=5 e m=11*
 
-> Esercizio 2 - Sequenza di iterazioni di $m$ da $n$. Per $m$ un intero naturale, si chiama la sequenza di iterazioni di $m$ da $n$ la sequenza di numeri formata da $m$; il numero di numeri primi inferiori o uguali a $m$; quindi il numero di numeri primi inferiori o uguali a quello; ecc. Così la sequenza di iterazioni di $m$ da $n$ viene scritta $(m;\ \pi(m);\ \pi(\pi(m));\ \pi(\pi(\pi(m)));\ \dots)$. (5) Calcolare i primi termini $7$ della sequenza di iterazioni di $m$ nel caso particolare in cui $m = 5$ e nel caso in cui $m = 11$.
+> Esercizio 2 - Successione delle iterate di $m$ per mezzo di $n$. Per $m$ numero intero naturale, si chiama successione delle iterate di $m$ per mezzo di $n$ la successione di numeri costituita da $m$; dal numero di numeri primi minori o uguali a $m$; poi dal numero di numeri primi minori o uguali a tale numero; ecc. Pertanto, la successione delle iterate di $m$ per mezzo di $n$ si scrive $(m;\ \pi(m);\ \pi(\pi(m));\ \pi(\pi(\pi(m)));\ \dots)$. (5) Calcolare i primi $7$ termini della successione delle iterate di $m$ nel caso particolare in cui $m = 5$, nonché nel caso in cui $m = 11$.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_oprem_2026#q11|src_oprem_2026__Q11]]
 
 
 
@@ -337,9 +427,18 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 2, Q6: la sequenza iterata sta diminuendo e alla fine è costante*
+*Esercizio 2, Q6: la successione delle iterate è decrescente e alla fine costante*
 
-> Esercizio 2 - (6) Dimostra che, in modo generale, la sequenza di iterazioni di un numero intero $m$ diminuisce sempre e diventa costante partendo da un certo grado.
+> Esercizio 2 - (6) Dimostrare che, in generale, la successione delle iterate di un numero intero $m$ è sempre decrescente e diventa costante a partire da un certo indice.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_oprem_2026#q12|src_oprem_2026__Q12]]
 
 
 
@@ -364,9 +463,18 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 2, Q7: di cui 2,3,5,7,11 sono superprimi*
+*Esercizio 2, Q7: quali tra 2, 3, 5, 7, 11 sono superprimi?*
 
-> Esercizio 2 - Super numeri interi primi. Un intero naturale $m$ tale che $m \ge 2$ si dice super primo se, nella sequenza di iterazioni di $m$ da $n$, tutti i suoi termini sono numeri primi. In particolare, un numero intero super primo è stesso primo. (7) Tra i numeri $2$, $3$, $5$, $7$ e $11$, quali sono super prime?
+> Esercizio 2 - Numeri interi super-primi. Un numero intero naturale $m$ tale che $m \ge 2$ è detto super-primo se, nella successione delle iterazioni di $m$ mediante $n$, tutti i suoi termini sono numeri primi. In particolare, un numero intero super-primo è esso stesso primo. (7) Tra i numeri $2$, $3$, $5$, $7$ e $11$, quali sono super-primi?
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_oprem_2026#q13|src_oprem_2026__Q13]]
 
 
 
@@ -390,9 +498,17 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 2, Q8: i superprimi formano una sequenza crescente, dimostrano pi(s_n) = s_n*
+*Esercizio 2, Q8: i super primi formano una successione crescente; dimostrare che pi(s_n)=s_n*
 
-> Esercizio 2 - (8) Si suppone che esistano infinitamente molti integri naturali superprimi non zero. Supponiamo che si costruiscano i più piccoli integri superprimi $s_1 < \cdots < s_n$. Indicare che il super primo più piccolo $s_n$ verifica $\pi(s_n) = s_n$.
+> Esercizio 2 - (8) Si suppone che esistano infiniti numeri interi naturali super-primi non nulli. Si supponga di costruire i più piccoli numeri interi super-primi $s_1 < \cdots < s_n$. Dimostrare che il più piccolo numero super-prime $s_n$ verifica $\pi(s_n) = s_n$.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_oprem_2026#q14|src_oprem_2026__Q14]]
 
 
 
@@ -417,9 +533,18 @@ Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
 <div class="qlang-split" data-lang="it"></div>
 
 
-Esercizio 2, Q9: dare il quinto più piccolo super primo
+*Esercizio 2, Q9: indica la quinta superprima più piccola*
 
-> Esercizio 2 - (9) Date il quinto super primo più piccolo.
+> Esercizio 2 - (9) Indica la quinta superprimo più piccola.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_oprem_2026#q15|src_oprem_2026__Q15]]
 
 
 
@@ -444,9 +569,18 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 2, Q10: disuguaglianza sul prodotto dei primi tra √(N) e N*
+*Esercizio 2, Q10: disuguaglianza sul prodotto di numeri primi compreso tra sqrt(N) e N*
 
-> Esercizio 2 - Comportamento asimptotico della sequenza di superprime. Naturalmente, la sequenza ordinata $(s_n)$ dei numeri primi super tende a $+\infty$, ma si desidera dimostrare che tende molto velocemente all'infinito, nel senso che il quotiente $\left(\frac{s_{n+1}}{s_n}\right)$ tende a $+\infty$. Più esplicitamente, fisseremo un intero naturale non zero $M$, e mostreremo che esiste un grado $n_0$ tale che, per ogni $n \ge n_0$, uno ha $\frac{s_{n+1}}{s_n} \ge M$. Per fare questo, ammettiamo il seguente risultato, che è quindi inutile dimostrare: per ogni intero naturale non zero $N$, si ha $Q_N \le 4^N$, dove $Q_N$ è il prodotto dei numeri primi compresi (nel senso ampio) tra $1$ e $N$. (10) Indicare che per ogni numero intero $N \ge 4^{2(M+1)}$, uno ha $4^{(M+1)\left(\pi(N) - \pi(\sqrt{N})\right)} \le 4^N$. Si può considerare il prodotto dei numeri primi compresi tra $\sqrt{N}$ (non incluso) e $N$.
+> Esercizio 2 - Comportamento asintotico della successione dei superprimi. Naturalmente, la successione ordinata $(s_n)$ dei numeri superprimi tende a $+\infty$, ma si vuole mostrare che tende a infinito molto rapidamente, nel senso che il quoziente $\left(\frac{s_{n+1}}{s_n}\right)$ tende esso stesso a $+\infty$. Più esplicitamente, fissiamo un numero naturale non nullo $M$, e mostreremo che esiste un indice $n_0$ tale che, per ogni $n \ge n_0$, si ha $\frac{s_{n+1}}{s_n} \ge M$. A tal fine, ammettiamo il seguente risultato, che quindi è inutile dimostrare: per ogni numero naturale non nullo $N$, si ha $Q_N \le 4^N$, dove $Q_N$ è il prodotto dei numeri primi compresi (in senso lato) tra $1$ e $N$. (10) Mostrare che per ogni numero intero $N \ge 4^{2(M+1)}$ si ha $4^{(M+1)\left(\pi(N) - \pi(\sqrt{N})\right)} \le 4^N$. Si può considerare il prodotto dei numeri primi compresi tra $\sqrt{N}$ (escluso) e $N$.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_oprem_2026#q16|src_oprem_2026__Q16]]
 
 
 
@@ -471,9 +605,18 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 2, Q11: dedurre il limite superiore pi(N) <= N/(M+1) + sqrt(N)*
+*Esercizio 2, Q11: dedurre la maggiorazione pi(N) <= N/(M+1) + sqrt(N)*
 
-> L'esercizio 2 - (11) Riduce, quindi, che $\pi(N) \le \frac{N}{M+1} + \sqrt{N}$.
+> Esercizio 2 - (11) Si deduca, di conseguenza, che $\pi(N) \le \frac{N}{M+1} + \sqrt{N}$.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_oprem_2026#q17|src_oprem_2026__Q17]]
 
 
 
@@ -498,9 +641,18 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 2, Q12: mostra N/pi(N) >= M per N sufficientemente grande*
+*Esercizio 2, Q12: dimostrare che N/pi(N) >= M per N sufficientemente grande*
 
-> Esercizio 2 - (12) Infine dimostri che per $N$ sufficientemente grande, $\frac{N}{\pi(N)} \ge M$.
+> Esercizio 2 - (12) Mostrare infine che per $N$ sufficientemente grande, $\frac{N}{\pi(N)} \ge M$.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_oprem_2026#q18|src_oprem_2026__Q18]]
 
 
 
@@ -524,9 +676,17 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 2, Q13: conclusione*
+*Esercizio 2, Q13: concludi*
 
-> Esercizio 2 - (13) Conclusione.
+> Esercizio 2 - (13) Concludi.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_oprem_2026#q19|src_oprem_2026__Q19]]
 
 
 
@@ -553,11 +713,20 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 3, Q1: triomino (bis), tessuto di griglia 3x6*
+*Esercizio 3, Q1: triominò (bis), ricopri una griglia 3x6*
 
-> Esercizio 3 (candidato di pista generale NON seguendo la specialità di matematica, e TUTTI i candidati della pista tecnologica) - Triominoes (bis). Ritorniamo qui sulle piastrelle con triomini (cfr. domanda 5 dell'esercizio 1) delle griglie (qui, complete) $a \times b$, rettangolare, eventualmente quadrata, su cui sono poste alcune domande complementari. Si consiglia di disegnare le griglie non con una penna, ma i triomini con una matita. Per aiutarsi, si possono disegnare le griglie già tracciate mostrate di fronte. (1) Rappresentano una piastrella della griglia nel caso in cui $a = 3$ e $b = 6$.
+> Esercizio 3 (candidato del percorso generale CHE NON segue l'indirizzo matematico, e TUTTI i candidati del percorso tecnologico) - Triominò (bis). Torniamo qui alle tassellazioni con triominò (cfr. la domanda 5 dell'esercizio 1) di griglie (qui complete) $a \times b$, rettangolari, eventualmente quadrate, sulle quali vengono poste alcune domande complementari. Si raccomanda di non disegnare le griglie con la penna, ma i triominò con la matita. Per aiutarsi, come bozzetto preliminare, si può disegnare la griglia già tracciata mostrata a fronte. (1) Rappresenta una tassellazione della griglia nel caso in cui $a = 3$ e $b = 6$.
 
 ![[src_oprem_2026__q20.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_oprem_2026#q20|src_oprem_2026__Q20]]
 
 
 
@@ -582,9 +751,18 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 3, Q2: ab divisibile per 3 se possibile; trovare la possibilità di trovare una x una griglia*
+*Esercizio 3, Q2: ab divisibile per 3 se pavabile; trova griglie a x a pavabili*
 
-> Esercizio 3 - (2a) Si suppone che si possa tessere una griglia $a \times a$ (si dice quindi che la griglia di dimensioni $a \times a$ è pavabile). Indicare che il numero intero $a \times a$ è divisibile da $3$. (2b) Trovare le griglie di dimensioni $a \times a$ che siano passabili.
+> Esercizio 3 - (2a) Si suppone che si possa lastricare una griglia $a \times a$ (si dice allora che la griglia di dimensione $a \times a$ è pavabile). Dimostrare che l'intero $a \times a$ è divisibile per $3$. (2b) Trovare le griglie di dimensione $a \times a$ che sono pavabili.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_oprem_2026#q21|src_oprem_2026__Q21]]
 
 
 
@@ -609,9 +787,18 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 3, Q3: condizione su b per una griglia da 2 x b di essere pavable*
+*Esercizio 3, Q3: condizione su b affinché una griglia 2 x b sia pavabile*
 
-> Esercizio 3 - (3) Si suppone $a = 2$. In quali condizioni necessarie e sufficienti per $b$ è possibile utilizzare la griglia di dimensioni $2 \times b$?
+> Esercizio 3 - (3) Si suppone $a = 2$. Sotto quale condizione necessaria e sufficiente su $b$ la griglia di dimensione $2 \times b$ è pavabile?
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_oprem_2026#q22|src_oprem_2026__Q22]]
 
 
 
@@ -638,11 +825,20 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 3, Q4: lavori manuali, taglio/riflessione di una banda 2x16 in una ghirlanda di triomani*
+*Esercizio 3, Q4: lavori manuali, tagliare/riflettere una striscia 2x16 in una ghirlanda di triominò*
 
-> Esercizio 3 - Lavoro manuale. Nelle bande $2 \times 16$ mostrate di fronte, una simmetria di un triomino disegnata in nero rispetto all'asse $\Delta_1$ ha dato il triomino tintato di luce all'altra estremità. Per simmetria di questo nuovo triomino rispetto all'asse $\Delta_2$, poi del nuovo nuovo triomino rispetto al $\Delta_3$, e così via. (4a) Disegnare la copia in scala $1/2$ della banda 1) della dichiarazione, quindi sostituire ogni simmetria con un piano leggero, assicurandosi che i triomino rimangano visibili. Finalmente tagliati i tuoi tratti. Si ottiene una ghirlanda di $8$ triomini identici. - Perché? - Perché? La seconda fascia ne fornisce anche $8$. (4b) Scopri la bande (con la domanda sulla banda $2 \times 16$) seguendo le relative parti complementari.
+> Esercizio 3 - Lavori manuali. Sulle bande $2 \times 16$ mostrate di fronte, una simmetria di un triomino disegnato in nero rispetto all'asse $\Delta_1$ ha prodotto, all'altra estremità, il triomino tinto di chiaro. Per simmetria di questo nuovo triomino rispetto all'asse $\Delta_2$, poi del triomino nuovo-nuovo rispetto a $\Delta_3$, e così via. (4a) Disegna la tua copia in scala $1/2$ della banda 1) dell'enunciato, poi sostituisci ogni simmetria con un piano chiaro, assicurandoti che i triomini restino visibili. Infine taglia lungo le tue linee. Si ottiene una ghirlanda di $8$ triomini identici. Perché? Anche la seconda banda fornisce $8$ di essi. (4b) Scopri il nastro (con la domanda sulla banda $2 \times 16$) seguendo le parti complementari correlate.
 
 ![[src_oprem_2026__q23.png]]
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_oprem_2026#q23|src_oprem_2026__Q23]]
 
 
 
@@ -667,9 +863,18 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 3, Q5: a=5, griglie di piastrelle con b=6, b=9, e b divisibile per 3 con b>=6*
+*Esercizio 3, Q5: a=5, griglie di tessere con b=6, b=9 e b divisibile per 3 con b>=6*
 
-> L'esercizio 3 - (5) Si suppone qui che $a = 5$. Se necessario, si potrà aiutare con i piccoli triomini $16$ a disposizione per le prove su disegno grosso. (5a) Rappresentano un conveniente rivestimento di una griglia quando $b = 6$. (5b) Rappresentano un conveniente rivestimento di una griglia quando $b = 9$. (5c) Si suppone che $b$ dividibile da $3$, $b \ge 6$. Mostrare che si può tessere una griglia di dimensioni $5 \times b$.
+> Esercizio 3 - (5) Qui si suppone che $a = 5$. Se necessario, ci si avvarrà dei $16$ piccoli triominò di cui si dispone per i test sulla bozza. (5a) Rappresentare un rivestimento conveniente di una griglia quando $b = 6$. (5b) Rappresentare un rivestimento conveniente di una griglia quando $b = 9$. (5c) Si suppone che $b$ sia divisibile per $3$, $b \ge 6$. Dimostrare che si può rivestire una griglia di dimensione $5 \times b$.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_oprem_2026#q24|src_oprem_2026__Q24]]
 
 
 
@@ -694,9 +899,18 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esercizio 3, Q6: se a x b può essere eseguito, allora (a+2) x b può essere eseguito*
+*Esercizio 3, Q6: se a x b è pavabile, allora (a+2) x b è pavabile*
 
-> Esercizio 3 - (6) Si suppone che $ab$ sia divisibile da $3$ e che si possa tessere una griglia di dimensioni $a \times b$. Mostrare che si può tessere una griglia di dimensioni $(a + 2) \times b$.
+> Esercizio 3 - (6) Si suppone che $ab$ sia divisibile per $3$ e che si possa piastrellare una griglia di dimensione $a \times b$. Dimostrare che si può piastrellare una griglia di dimensione $(a + 2) \times b$.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_oprem_2026#q25|src_oprem_2026__Q25]]
 
 
 
@@ -721,6 +935,15 @@ Esercizio 2, Q9: dare il quinto più piccolo super primo
 <div class="qlang-split" data-lang="it"></div>
 
 
-Esercizio 3, Q7: completa caratterizzazione, a x b (a,b>=4) pavable if 3
+*Esercizio 3, Q7: caratterizzazione completa: a x b (a,b>=4) è pavabile sse 3 | ab*
 
-> Esercizio 3 - (7) Si suppone $a \ge 4$, $b \ge 4$. Indicare che si può tessere una griglia di dimensioni $a \times b$ se, e solo se, $ab$ è divisibile da $3$. Ridurre le griglie quadrate che si possono piastrellare.
+> Esercizio 3 - (7) Si suppongano $a \ge 4$, $b \ge 4$. Dimostrare che si può lastricare una griglia di dimensione $a \times b$ se, e solo se, $ab$ è divisibile per $3$. Dedurre le griglie quadrate che si possono lastricare.
+
+> [!warning] Estratto/tradotto: da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_oprem_2026#q26|src_oprem_2026__Q26]]

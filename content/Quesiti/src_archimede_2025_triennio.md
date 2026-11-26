@@ -36,9 +36,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*3x3 grid colours with odd number of greens per row/column*
+*Grid colourings 3x3 with an odd number of greens per row/column*
 
-> What convex angle do the two hands of a clock form at 1:20 (assuming they both move at a constant speed)?
+> What convex angle do the two hands of a clock form at 1:20
+> (assuming both move at constant speed)?
 >
 > - **(A)** 75°
 > - **(B)** 80°
@@ -46,7 +47,10 @@ level: triennio
 > - **(D)** 72°
 > - **(E)** 84°
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2025_triennio#q01|src_archimede_2025_triennio__Q01]]
 
 
 
@@ -82,7 +86,7 @@ level: triennio
 
 *Coordinates of the ant after 2025 days of spiral steps*
 
-> Roberta has many colored tickets, each contained in a pocket: 22 are red, 17 are green, 13 are yellow, 20 are blue. He picks up some pockets at random, without opening them (the colours of the tickets are not visible from the outside). How many tickets do you have to take at least to make sure you find at least 3 tickets of one color and 3 tickets of another color (different from the first)?
+> Roberta has many coloured tickets, each contained inside an envelope: it is known that 22 are red, 17 green, 13 yellow, 20 blue. She takes some envelopes at random, without opening them (the colours of the tickets cannot be seen from the outside). How many must she take, at minimum, to be certain of finding at least 3 tickets of one colour and another 3 of a different colour?
 >
 > - **(A)** 29
 > - **(B)** 16
@@ -90,7 +94,11 @@ level: triennio
 > - **(D)** 25
 > - **(E)** 27
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2025_triennio#q02|src_archimede_2025_triennio__Q02]]
 
 
 
@@ -123,7 +131,9 @@ level: triennio
 
 *Maximum distance between two points in a square, distances from the sides*
 
-> Carla, with a lot of patience, is typing out the number 1000300 + 759. How many digits will he have to write in all?
+> Carla, with great patience, is writing out in full the number
+> 1000300 + 759.
+> How many digits will she have to write in total?
 >
 > - **(A)** 959
 > - **(B)** 300
@@ -131,7 +141,10 @@ level: triennio
 > - **(D)** 3059
 > - **(E)** 901
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2025_triennio#q03|src_archimede_2025_triennio__Q03]]
 
 
 
@@ -164,9 +177,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tri-digit integers m with f(m) = f(m-1) +25, sum and product of digits*
+*Three-digit integers m with f(m)=f(m-1)+25, sum and product of digits*
 
-> In the isosceles triangle DEF, where DE = EF, the angle  E is 32°. The height from D and the beam from F intersect at point I. What is the width of the convex angle  DIF ?
+> In the isosceles triangle DEF, where DE = EF, the angle “E is 32°.
+> The altitude from D and the bisector from F intersect at point I.
+> What is the measure of the convex angle ’DIF?
 >
 > - **(A)** 129°
 > - **(B)** 126°
@@ -174,7 +189,10 @@ level: triennio
 > - **(D)** 127°
 > - **(E)** 130°
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2025_triennio#q04|src_archimede_2025_triennio__Q04]]
 
 
 
@@ -206,9 +224,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of first/non-first counts per 100 lines*
+*Sum of counts of primes/non-primes over 100 rows*
 
-> Philip would like to write in decimal form the fraction 8 13 . What number will take the thousandth place after the comma?
+> Filippo would like to write the fraction 8/13 as a decimal number. Which digit will occupy the thousandth place after the decimal point?
 >
 > - **(A)** 6
 > - **(B)** 1
@@ -216,7 +234,11 @@ level: triennio
 > - **(D)** 5
 > - **(E)** 8
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2025_triennio#q05|src_archimede_2025_triennio__Q05]]
 
 
 
@@ -251,9 +273,14 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area triangle AB'C' with symmetries to the center*
+*Area of triangle AB'C' with reflections about the incenter*
 
-> Indicate the sum of all real numbers x for which the equality 2x + 1 · 4x2 −7x −10 · (x3 −2)4 + 1 = 0
+> State the sum of all real numbers x for which the equality
+> 2x + 1 · 4x2 −7x −10
+> (
+> (x3 −2)4 + 1
+> )
+> = 0
 >
 > - **(A)** 0
 > - **(B)** 5 4
@@ -261,7 +288,11 @@ level: triennio
 > - **(D)** 9 4
 > - **(E)** −1 2
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2025_triennio#q06|src_archimede_2025_triennio__Q06]]
 
 
 
@@ -298,9 +329,13 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum of true/false test scores with known consensus responses*
+*Maximum total score of a true/false test with known agreeing answers*
 
-> Elisa drew a pyramid like the one right next to it. In the boxes below, you will write five numbers chosen from 1, 2, 3, 4, 5, 6 (five different numbers, in any order). Then fill in the other boxes by writing in each of them the sum of the two numbers below. What is the difference between the largest number and the smallest number Elisa could write in the box at the top of the pyramid?
+> Elisa has drawn a pyramid like the one shown here.
+> In the boxes at the bottom she will write five numbers chosen from 1, 2, 3, 4, 5, 6 (five different numbers, in any order).
+> Then she will fill in the other boxes by writing in each of them the sum of the two numbers below it.
+> What is the
+> difference between the largest and the smallest number that Elisa could write in the box at the top of the pyramid?
 >
 > - **(A)** 48
 > - **(B)** 36
@@ -308,7 +343,11 @@ level: triennio
 > - **(D)** 42
 > - **(E)** 52
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2025_triennio#q07|src_archimede_2025_triennio__Q07]]
 
 
 
@@ -339,9 +378,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Full sequences of 50 (+1) and 50 (-1) whose partial sums are 0..49*
+*Sequences of 50 (+1) and 50 (-1) whose partial sums touch 0..49*
 
-> How many of the whole numbers from 1 to 2024 are simultaneously multiples of both 21 and 28, but not multiples of 15?
+> How many of the integers from 1 to 2024 are, at the same time, multiples of both 21 and 28, but are not multiples of 15?
 >
 > - **(A)** 20
 > - **(B)** 23
@@ -349,7 +388,11 @@ level: triennio
 > - **(D)** 21
 > - **(E)** 19
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2025_triennio#q08|src_archimede_2025_triennio__Q08]]
 
 
 
@@ -383,7 +426,9 @@ level: triennio
 
 *Value q(4) of the polynomial with roots the squares of the roots of p*
 
-> Julius is looking for integers n such that the absolute value of (n −2)(n −20) is a prime number. What's the sum of all these n numbers?
+> Giulio is looking for the integers n such that the absolute value of
+> (n −2)(n −20)
+> is a prime number. What is the sum of all these numbers n?
 >
 > - **(A)** 36
 > - **(B)** 40
@@ -391,7 +436,11 @@ level: triennio
 > - **(D)** 21
 > - **(E)** 44
 
-**Answer:** A
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2025_triennio#q09|src_archimede_2025_triennio__Q09]]
 
 
 
@@ -424,9 +473,12 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N2 cheese dividers with n=3^14·7^40*
+*Divisors of n^2 with n=3^14·7^40*
 
-> Paola has to reset her cell phone's pin, which consists of a 4-digit sequence (each of which can be any number from 0 to 9). To memorize it, it'll make sure you have exactly two different digits. How many pins does Paola have at her disposal?
+> Paola must reset the pin of her mobile phone, consisting of a sequence of 4 digits
+> (each of which can be any digit from 0 to 9). To memorise it,
+> she will make sure that exactly two different digits appear.
+> How many possible pins does Paola have available?
 >
 > - **(A)** 480
 > - **(B)** 560
@@ -434,7 +486,11 @@ level: triennio
 > - **(D)** 630
 > - **(E)** 720
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2025_triennio#q10|src_archimede_2025_triennio__Q10]]
 
 
 
@@ -486,7 +542,24 @@ level: triennio
 
 *Triangle area given side, median and height*
 
-> In the rectangle ABCD, the points E, F, G, H, I, L divide the sides into 2 or 3 equal parts, as shown in the figure. The areas of the OIL, ODE, OAF triangles (expressed in mm2) are those shown in the figure. How many mm2 is the area of the OGH triangle ? O A B C D E F G H I L 14 17 11 ?
+> In rectangle ABCD, the points E, F, G, H, I, L divide the sides into 2 or 3 equal parts, as in the figure.
+> The areas of triangles OIL, ODE, OAF (expressed in mm2) are those indicated in the figure.
+> What is the area of triangle OGH, in mm2?
+> O
+> A
+> B
+> C
+> D
+> E
+> F
+> G
+> H
+> I
+> L
+> 14
+> 17
+> 11
+> ?
 >
 > - **(A)** 8
 > - **(B)** 12
@@ -494,7 +567,11 @@ level: triennio
 > - **(D)** 11
 > - **(E)** 10
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2025_triennio#q11|src_archimede_2025_triennio__Q11]]
 
 
 
@@ -530,7 +607,7 @@ level: triennio
 
 *Minimum p(-2) of a quartic polynomial with constraints and p(a)>=a^3*
 
-> There are 50 islands in a large lake, numbered from 2 to 51. Two different islands are connected by a bridge if and only if one of the respective numbers divides the other. For each island, its district consists of the island itself and all those from which it can be reached by a series of bridges. How many are in all the districts?
+> In a large lake there are 50 islands, numbered from 2 to 51. Two different islands are connected by a bridge if and only if one of their respective numbers divides the other. For each island, its district consists of the island itself and all those reachable from it via a sequence of bridges. How many districts are there in total?
 >
 > - **(A)** 6
 > - **(B)** 7
@@ -538,7 +615,11 @@ level: triennio
 > - **(D)** 2
 > - **(E)** 5
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2025_triennio#q12|src_archimede_2025_triennio__Q12]]
 
 
 
@@ -578,9 +659,18 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ball-cassette combinations with MCD(a,b)=1*
+*Pairings of balls-drawers with MCD(a,b)=1*
 
-> The circumference ω passes through the vertex D of the rectangle ABCD and is tangent to the sides AB and BC at points P and Q. The AP and CQ segments measure, in the order, 3 m and 4 m. How many m2 does the area of the rectangle ABCD measure ? A B C D P Q ω
+> The circle ω passes through vertex D of rectangle ABCD and is tangent to sides AB and BC at points P and Q.
+> The segments AP and CQ measure, in order, 3 m and 4 m.
+> How many m2 does the area of rectangle ABCD measure?
+> A
+> B
+> C
+> D
+> P
+> Q
+> ω
 >
 > - **(A)** 72
 > - **(B)** 75
@@ -588,7 +678,11 @@ level: triennio
 > - **(D)** 84
 > - **(E)** 81
 
-**Answer:** 3600
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2025_triennio#q13|src_archimede_2025_triennio__Q13]]
 
 
 
@@ -624,9 +718,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A angle of an isosceles triangle with AD+BD=BC*
+*Angle at A of an isosceles triangle with AD+BD=BC*
 
-> Sara wants to take a walk along the edge of a square-shaped park, whose sides measure one kilometer each. Starting from a vertex V, with a coin toss, you randomly choose which direction to go in and walk across an entire side of the square. Every time he reaches a peak, he makes a new coin toss to choose the direction. If the walk is four kilometers, what is the probability that it will end at the very summit V from which it started?
+> Sara wants to take a walk along the edge of a square-shaped park, whose sides measure 1 km each. Starting from a vertex V, she randomly chooses which direction to go by flipping a coin and walks along a whole side of the square. Each time she reaches a vertex, she flips a new coin to choose the direction.
+> If the walk is 4 km long, what is the probability that it ends exactly at the vertex V from which she started?
 >
 > - **(A)** 5/16
 > - **(B)** 1/8
@@ -634,7 +729,11 @@ level: triennio
 > - **(D)** 1/4
 > - **(E)** 3/8
 
-**Answer:** 100
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2025_triennio#q14|src_archimede_2025_triennio__Q14]]
 
 
 
@@ -669,13 +768,23 @@ level: triennio
 
 *Berenice determines the numbers from adjacent sums*
 
-> Alberto and Barbara make an iron-armed race this way: at the beginning they both have 1 point; at each challenge, the winner earns as many points as the opponent has at the time, while the loser maintains the score he had. After a number of challenges, Barbara has 9,000 points. Which of the following could be Alberto's score?
+> Alberto and Barbara have a tug-of-war contest in this way: at the start
+> they both have 1 point; at each challenge, the winner gains as many points as
+> the opponent has at that moment, while the loser keeps the score they had.
+> After a certain number of challenges, Barbara has 9000 points.
+> Which, among the following, could be Alberto's score?
 >
 > - **(A)** 5005
 > - **(B)** 4114
 > - **(C)** 3130
 > - **(D)** 3003
 > - **(E)** 7117
+
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2025_triennio#q15|src_archimede_2025_triennio__Q15]]
 
 
 
@@ -715,15 +824,28 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Height, symmetrical and cyclic, similarity and perpendicularity AP
+*Heights, symmetry and cyclicity, similarity and perpendicularity AP*
 
-> Considered a PQRS trapezoid, where the PQ side is parallel to RS, T is the point of the QS diagonal such that RT is parallel to SP. The areas of the QRT and RST triangles are measured in the order of 6 and 4 m2. How many m2 is the area of the entire PQRS trapezoid ? P Q R S T 6 4
+> Consider a trapezium PQRS, where side PQ is parallel to RS, and let T be the point on diagonal QS such that RT is parallel to SP. The areas of triangles QRT and RST measure, in order, 6 and 4 m². How many m² is the area of the whole trapezium PQRS?
+> P
+> Q
+> R
+> S
+> T
+> 6
+> 4
 >
 > - **(A)** 30
 > - **(B)** 35
 > - **(C)** 32
 > - **(D)** 36
 > - **(E)** 27 311
+
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2025_triennio#q16|src_archimede_2025_triennio__Q16]]
 
 
 
@@ -746,6 +868,12 @@ Height, symmetrical and cyclic, similarity and perpendicularity AP
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total amount of aid granted by the Member State in accordance with Article 107 (1) of the Treaty.
+*mcm(a,b)=n(a+b) and mcm(a,b,c)=n(a+b+c)*
 
-> **[No problem present]** The Archimedes 2025 Triennial Race (28 November 2024) is composed of only 16 problems. Problem 17 does not exist in this document.
+> **[Problem not present]** The Archimede 2025 Senior paper (28 November 2024) consists of only 16 problems. Problem 17 does not exist in this document.
+
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2025_triennio#q17|src_archimede_2025_triennio__Q17]]

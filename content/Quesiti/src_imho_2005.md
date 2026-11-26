@@ -31,7 +31,14 @@ level: IMO
 
 *I punti sui lati del triangolo equilatero formano un esagono convesso con diagonali concorrenti*
 
-> Siano scelti sei punti sui lati di un triangolo equilatero $ABC$: $A_1$, $A_2$ sul lato $BC$; $B_1$, $B_2$ sul lato $CA$; e $C_1$, $C_2$ sul lato $AB$, in modo che siano i vertici di un esagono convesso $A_1A_2B_1B_2C_1C_2$ con lati tutti uguali. Si dimostri che le rette $A_1B_2$, $B_1C_2$ e $C_1A_2$ sono concorrenti.
+> Su i lati di un triangolo equilatero $ABC$ vengono scelti sei punti: $A_1$, $A_2$ su $BC$; $B_1$, $B_2$ su $CA$; e $C_1$, $C_2$ su $AB$, in modo che essi siano i vertici di un esagono convesso $A_1A_2B_1B_2C_1C_2$ con i lati di uguale lunghezza. Dimostrare che le rette $A_1B_2$, $B_1C_2$ e $C_1A_2$ sono concorrenti.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2005#q01|src_imho_2005__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Successione di interi con n-divisibilità; ogni intero compare esattamente una volta*
+*Successione di interi con proprietà di n-divisibilità; ogni intero compare esattamente una volta*
 
-> Sia $a_1, a_2, \ldots$ una successione di interi con infiniti termini positivi e infiniti termini negativi. Si supponga che per ogni numero intero positivo $n$, i numeri $a_1, a_2, \ldots, a_n$ lascino $n$ resti diversi nella divisione per $n$. Si dimostri che ogni intero compare esattamente una volta nella successione.
+> Sia $a_1, a_2, \ldots$ una successione di interi con infiniti termini positivi e infiniti termini negativi. Si supponga che, per ogni intero positivo $n$, i numeri $a_1, a_2, \ldots, a_n$ lascino $n$ resti diversi alla divisione per $n$. Dimostrare che ogni intero compare esattamente una volta nella successione.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2005#q02|src_imho_2005__Q02]]
 
 
 
@@ -80,10 +94,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disuguaglianza per x,y,z ≥ 1 con espressioni frazionarie*
+*Disuguaglianza per x,y,z >= 1 che coinvolge espressioni frazionarie*
 
-> Siano $x, y, z$ numeri reali ciascuno maggiore di $1$. Si dimostri che
+> Siano $x, y, z$ numeri reali, ciascuno maggiore di $1$. Dimostrare che
 > $$\frac{x^5-x^2}{x^5+y^3+z^3}+\frac{y^5-y^2}{y^5+z^3+x^3}+\frac{z^5-z^2}{z^5+x^3+y^3}\ge 0.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2005#q03|src_imho_2005__Q03]]
 
 
 
@@ -107,10 +128,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutti gli interi primi con tutti i termini della successione $a_n = 2^n + 3^n + 6^n - 1$*
+*Trovare tutti gli interi coprimi con tutti i termini della successione $a_n = 2^n + 3^n + 6^n - 1$*
 
-> Determinare tutti gli interi positivi primi con tutti i termini della successione infinita
+> Determinare tutti gli interi positivi coprimi con tutti i termini della successione infinita
 > $$a_n = 2^n + 3^n + 6^n - 1, \quad n \ge 1.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2005#q04|src_imho_2005__Q04]]
 
 
 
@@ -133,9 +161,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le circonferenze circoscritte ai triangoli PQB, EF, AC si incontrano in un punto diverso da P*
+*Le circonferenze circoscritte ai triangoli PQB, EF, AC si intersecano in un punto diverso da P*
 
-> Sia $ABCD$ un quadrilatero convesso fisso con $BC = DA$ e $BC$ non paralleli a $DA$. Siano due punti variabili $E$ e $F$ rispettivamente sui lati $BC$ e $DA$, tali da soddisfare $BE = DF$. Le rette $AC$ e $BD$ si intersecano in $P$, le rette $BD$ e $EF$ si intersecano in $Q$, le rette $EF$ e $AC$ si intersecano in $R$. Si dimostri che le circonferenze circoscritte ai triangoli $PQB$, $QRE$ e $PRA$ hanno un punto in comune diverso da $P$.
+> Sia $ABCD$ un quadrilatero convesso fisso, con $BC = DA$ e $BC$ non paralleli a $DA$. Siano $E$ e $F$ due punti variabili che giacciono rispettivamente sui lati $BC$ e $DA$ e soddisfano $BE = DF$. Le rette $AC$ e $BD$ si incontrano in $P$, le rette $BD$ e $EF$ si incontrano in $Q$, le rette $EF$ e $AC$ si incontrano in $R$. Dimostrare che le circonferenze circoscritte ai triangoli $PQB$, $QRE$ e $PRA$ hanno un punto comune diverso da $P$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2005#q05|src_imho_2005__Q05]]
 
 
 
@@ -158,6 +193,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Competizione di matematica: almeno 2 concorrenti hanno risolto esattamente 5 problemi ciascuno*
+*Gara di matematica: almeno 2 concorrenti hanno risolto esattamente 5 problemi ciascuno*
 
-> In una gara matematica, in cui sono stati proposti $6$ problemi ai partecipanti, ogni coppia di questi problemi è stata risolta da più di $\frac{2}{5}$ dei concorrenti. Inoltre, nessun concorrente ha risolto tutti e $6$ problemi. Si dimostri che ci sono almeno $2$ concorrenti che hanno risolto esattamente $5$ problemi ciascuno.
+> In una competizione matematica, in cui sono stati proposti ai partecipanti $6$ problemi, ogni coppia di questi problemi è stata risolta da più di $\frac{2}{5}$ concorrenti. Inoltre, nessun concorrente ha risolto tutti i $6$ problemi. Dimostrare che esistono almeno $2$ concorrenti che hanno risolto esattamente $5$ problemi ciascuno.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2005#q06|src_imho_2005__Q06]]

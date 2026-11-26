@@ -29,9 +29,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare numeri a otto cifre con somma di numeri pari a 4*
+*Conta i numeri di otto cifre la cui somma delle cifre è uguale a 4*
 
-> Trova il numero di numeri a otto cifre con la somma delle cifre uguale a 4.
+> Trovare il numero di numeri di otto cifre la cui somma delle cifre è uguale a 4.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2013_r3#q01|src_rmo_2013_r3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutti i 4 triples di naturali con a!+b!+c!=3^d*
+*Trovare tutte le 4-tuple di numeri naturali tali che a!+b!+c!=3^d*
 
-> Trovare tutti i quadrupli $(a, b, c, d)$ dei numeri naturali con $a \le b \le c$ e $a! + b! + c! = 3^d$.
+> Trovare tutte le 4-tuple $(a, b, c, d)$ di numeri naturali con $a \le b \le c$ e $a! + b! + c! = 3^d$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2013_r3#q02|src_rmo_2013_r3__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ortocentro di ABD sul cerchio Γ iff sul bisettore perpendicolare di BC*
+*L'ortocentro di ABD giace sulla circonferenza Γ se e solo se giace sull'asse perpendicolare di BC*
 
-> In un triangolo acuto $ABC$ con $AB < AC$, il cerchio $\Gamma$ tocca $AB$ a $B$ e passa attraverso $C$ incrociandosi di nuovo a $AC$ a $D$. Prova che l'ortocentro del triangolo $ABD$ si trova su $\Gamma$ se e solo se si trova sul bisettore perpendicolare di $BC$.
+> In un triangolo acutangolo $ABC$ con $AB < AC$, la circonferenza $\Gamma$ è tangente a $AB$ in $B$ e passa per $C$, intersecando nuovamente $AC$ in $D$. Dimostrare che l'ortocentro del triangolo $ABD$ giace su $\Gamma$ se e solo se giace sulla mediatrice di $BC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2013_r3#q03|src_rmo_2013_r3__Q03]]
 
 
 
@@ -104,9 +125,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che f(x) +2x non è un polinomio di Fermat quando f(0)=1000*
+*Dimostrazioni che f(x)+2x non è un polinomio di Fermat quando f(0)=1000*
 
-> Un polinomio è chiamato \textit{polinomio Fermat} se può essere scritto come la somma dei quadrati di due polinomi con coefficienti interi. Supponiamo che $f(x)$ sia un polinomio di Fermat tale che $f(0) = 1000$. Prova che $f(x) + 2x$ non è un polinomio di Fermat.
+> Un polinomio è detto \textit{polinomio di Fermat} se può essere scritto come somma dei quadrati di due polinomi a coefficienti interi. Sia $f(x)$ un polinomio di Fermat tale che $f(0) = 1000$. Dimostrare che $f(x) + 2x$ non è un polinomio di Fermat.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2013_r3#q04|src_rmo_2013_r3__Q04]]
 
 
 
@@ -129,9 +157,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di triangoli da riflessioni ortocentriche; condizione angolare implica 60°*
+*Sequenza di triangoli ottenuta per riflessioni rispetto all'ortocentro; la condizione angolare implica 60°*
 
-> Che $ABC$ sia un triangolo non rettangolare. Definire una sequenza di triangoli $A_i B_i C_i$, con $i \ge 0$, come segue: $A_0 B_0 C_0$ è il triangolo $ABC$, e, per $i \ge 0$, $A_{i+1}, B_{i+1}, C_{i+1}$ sono rispettivamente i riflessi dell'ortocentro del triangolo $A_i B_i C_i$ nei lati $B_i C_i, C_i A_i, A_i B_i$. Supponiamo che $\angle A_m = \angle A_n$ per alcuni numeri naturali $m, n$ con $m \ne n$. Prove che $\angle A = 60^\circ$.
+> Sia $ABC$ un triangolo non rettangolo. Si definisca una successione di triangoli $A_i B_i C_i$, con $i \ge 0$, nel modo seguente: $A_0 B_0 C_0$ è il triangolo $ABC$, e, per $i \ge 0$, $A_{i+1}, B_{i+1}, C_{i+1}$ sono le riflessioni dell'ortocentro del triangolo $A_i B_i C_i$ rispetto ai lati $B_i C_i, C_i A_i, A_i B_i$, rispettivamente. Si supponga che $\angle A_m = \angle A_n$ per alcuni numeri naturali $m, n$ con $m \ne n$. Si dimostri che $\angle A = 60^\circ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2013_r3#q05|src_rmo_2013_r3__Q05]]
 
 
 
@@ -154,6 +189,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un buon sottoinsieme di n-gon regolare (n primo) ha esattamente quattro elementi*
+*Il buon sottoinsieme di un n-gono regolare (con n primo) ha esattamente quattro elementi*
 
-> Che $n \ge 3$ sia un numero naturale e che $A_1 A_2 \cdots A_n$ sia un poligono regolare. Let $X = \{1, 2, \ldots, n\}$. Un sottoinsieme $\{i_1, i_2, \ldots, i_k\}$ di $X$, con $k \ge 3$ e $i_1 < i_2 < \cdots < i_k$, è chiamato \textit{good subset} se gli angoli del poligono $A_{i_1} A_{i_2} \cdots A_{i_k}$, quando disposti in ordine, sono in progressione aritmetica. Se $n$ è un primo, mostrare che un sottoinsieme buono appropriato di $X$ contiene esattamente quattro elementi.
+> Sia $n \ge 3$ un numero naturale e sia $A_1 A_2 \cdots A_n$ un poligono regolare. Sia $X = \{1, 2, \ldots, n\}$. Un sottoinsieme $\{i_1, i_2, \ldots, i_k\}$ di $X$, con $k \ge 3$ e $i_1 < i_2 < \cdots < i_k$, è detto \textit{sottoinsieme buono} se gli angoli del poligono $A_{i_1} A_{i_2} \cdots A_{i_k}$, disposti in ordine, formano una progressione aritmetica. Se $n$ è un numero primo, dimostrare che un sottoinsieme buono proprio di $X$ contiene esattamente quattro elementi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_rmo_2013_r3#q06|src_rmo_2013_r3__Q06]]

@@ -32,7 +32,7 @@ level: squadre
 > sconsolata.)
 
 **Risposta:** 0200
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -43,11 +43,9 @@ level: squadre
 ![[src_gs_2019__prob1.png]]
 
 > Garlands (Luca Renzi)
-> Fairies, elves, Titania, Oberon and Puck are together in the moonlit glade.
-> Titania: Puck, take this basket full of garlands and share them out among all of us to celebrate this enchanted night. (Puck takes the basket) Give one twentieth of the garlands in the basket to the first fairy; give one nineteenth of the garlands left in the basket to the second fairy; give one eighteenth of the garlands left in the basket to the third fairy; give one seventeenth of the garlands left in the basket to the fourth fairy. Carry on like this with fifteen more fairies. Then give the remaining garlands to Oberon.
-> Oberon (protesting): But there will be very few left. (He is amazed when Puck gives him 10 garlands) But how many garlands were there in the basket at the start? (Titania shakes her head in dismay.)
+> Fate, elves, Titania, Oberon, and Puck are together in the moonlit clearing. Titania: Puck, take this basket full of garlands and distribute them among all of us to celebrate this enchanted night. (Puck takes the basket.) Give one-twentieth of the garlands in the basket to the first fairy; give one-nineteenth of the garlands remaining in the basket to the second fairy; give one-eighteenth of the garlands remaining in the basket to the third fairy; give one-seventeenth of the garlands remaining in the basket to the fourth fairy. Continue like this with fifteen more fairies. Then give the remaining garlands to Oberon. Oberon (protesting): But very few will be left. (He is surprised when Puck gives him 10 garlands.) But how many garlands were there in the basket to begin with? (Titania shakes her head despondently.)
 
-**Answer:** 0200
+[[Quesiti/src_gs_2019#q01|src_gs_2019__Q01]]
 
 
 
@@ -67,7 +65,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8888
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -78,9 +76,12 @@ level: squadre
 ![[src_gs_2019__prob2.png]]
 
 > Oberon gets angry (Sandro Campigotto)
-> Titania: Oberon, what is the sum of all the numbers from 0 to 9999 that are written using only the digits 0 and 1? (Oberon runs off into the wood cursing Puck.)
+> Titania, Oberon, what is the sum of all numbers from 0 to 9999 that are written using only the digits 0 and 1? (Oberon flees into the woods, raging against Puck.)
 
-**Answer:** 8888
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2019#q02|src_gs_2019__Q02]]
 
 
 
@@ -107,25 +108,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0020
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In Athens*
+*To Athens*
 
 ![[src_gs_2019__prob3.png]]
 
 > In Athens (Giuseppe Rosolini)
-> In the main square of Athens.
-> Hippolyta (to Theseus): Do these two black tiles mean anything?
-> Theseus: Yes.
-> Hippolyta: All right, they mean something, but can you also tell me what? I see that one is a square and the other a regular pentagon; one has a side that coincides with a side of the other, that is, the two tiles have sides of equal length.
-> Theseus: Call ABCD the square and DEFGA the regular pentagon. AB and AG are adjacent sides of a regular polygon that will be drawn in the square starting from these two sides.
-> Hippolyta: But how many sides does that polygon have? (Theseus smiles vacantly.)
+> In the central square of Athens. Hippolyta (turning to Theseus): Do these two black tiles have any meaning? Theseus: Yes. Hippolyta: All right, they have a meaning—but can you also tell me what it is? I see that one is square and the other is a regular pentagon; one has a side that matches a side of the other—that is, the two tiles have sides of equal length. Theseus: Call the square ABCD and the regular pentagon DEFGA. AB and AG are adjacent sides of a regular polygon that will be drawn in the square starting from these two sides. Hippolyta: But how many sides does that polygon have? (Theseus smiles vacuously.)
 
-**Answer:** 0020
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2019#q03|src_gs_2019__Q03]]
 
 
 
@@ -148,7 +147,7 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1617
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -159,11 +158,12 @@ level: squadre
 ![[src_gs_2019__prob4.png]]
 
 > The new operation (Matteo Bobbio)
-> Hermia: Look, Lysander, I've found a new operation △ on positive rational numbers, also useful for writing real numbers conveniently. It is defined as follows:
-> a △ b = (ab + 1)/b.
-> It looks complicated: try it! If you compute 1 △ (1 △ (1 △ (1 △ (1 △ (1 △ (1 △ (2 △ 2))))))) and multiply the result by a thousand, what number do you get? (Lysander isn't listening; he is chasing Helena, who shouts the answer as she runs away.)
+> Ermia, look, Lisandro—I've found a new operation △ for positive rational numbers; it's also useful for writing real numbers conveniently. It's defined as a △ b = (ab + 1)/b. It seems complicated—give it a try! If you calculate 1 △ (1 △ (1 △ (1 △ (1 △ (1 △ (1 △ (2 △ 2))))))) and multiply the result by a thousand, what number do you get? (Lisandro isn't listening; he's chasing Elena, while she, fleeing, shouts out the answer.)
 
-**Answer:** 1617
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2019#q04|src_gs_2019__Q04]]
 
 
 
@@ -186,7 +186,7 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0144
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -196,10 +196,13 @@ level: squadre
 
 ![[src_gs_2019__prob5.png]]
 
-> The tragedy (Sandro Campigotto)
-> Quince (preparing the props for the performance of the tragedy of Pyramus and Thisbe): If, in a right triangle ABC, the right angle is at C and the square CDEF has D on BC, E on AB and F on AC, what is the area of the square CDEF, given that AE = 20 cm and EB = 15 cm? (Snout, distracted, bumps into the wall and knocks it down; everyone yells at him.)
+> The Tragedy (Sandro Campigotto)
+> Cotogna (Preparing the material for the performance of the tragedy of Pyramus and Thisbe) In right-angled triangle ABC, with the right angle at C, and square CDEF having D on BC, E on AB, and F on AC, what is the area of square CDEF, given that AE = 20 cm and EB = 15 cm? (Placido, distracted, bumps into the wall and brings it down; everyone curses at him.)
 
-**Answer:** 0144
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2019#q05|src_gs_2019__Q05]]
 
 
 
@@ -230,25 +233,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0534
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cards*
+*Map*
 
 ![[src_gs_2019__prob6.png]]
 
-> Cards (Luca Renzi)
-> Bottom (walking behind the others in the wood): What a strange deck of cards! Each card has a number on each face, not necessarily equal. And if two cards have the same number on one face, the numbers on the other face need not coincide. (Bottom stops and lays all 60 cards of the deck on the grass in front of him, so that he sees only one face of each card: he sees three 1s, three 2s, three 3s, ..., three 19s, three 20s. He doesn't notice that he is being surrounded by the fairies.)
-> Kael: Behind a multiple of 5 there is an even number.
-> Kale: Behind a prime number, if there is a power of 2, it must have an odd exponent.
-> Kail: Behind the powers of 3 there is no 19.
-> Kela: Behind the multiples of 4 there is a number greater than or equal to 7.
-> Puck: Bottom, which cards must you turn over to check that the fairies have told the truth? [Give as the answer the sum of the numbers visible on the cards Bottom must turn over.]
+> Carte (Luca Renzi)
+> Fondo (While walking behind the others in the forest): What a strange deck of cards! Each card has a number on each face—not necessarily the same number on both faces. And if two cards have the same number on one face, the numbers on their other faces don't necessarily match. (Fondo stops and lays all 60 cards in the deck on the grass in front of him, so that he can see only one face of each card: he sees three 1s, three 2s, three 3s, ..., three 19s, three 20s. He doesn't notice that he is being surrounded by the fairies.) Kael: Behind a multiple of 5 there is an even number. Kale: Behind a prime number, if there is a power of 2, its exponent must be odd. Kail: 19 is not behind the powers of 3. Kela: Behind the multiples of 4 there is a number greater than or equal to 7. Puck: Fondo, which cards must you turn over to check that the fairies have told the truth? [Give as the answer the sum of the numbers visible on the cards Fondo must turn over.]
 
-**Answer:** 0534
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2019#q06|src_gs_2019__Q06]]
 
 
 
@@ -270,20 +271,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0373
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First and last*
+*First and Last*
 
 ![[src_gs_2019__prob7.png]]
 
-> First and last (Silvia Sconza)
-> Helena: What is the largest prime number less than 9999 such that every digit in it is a prime number; every number formed by two adjacent digits of it is a prime number; every number formed by three adjacent digits of it is a prime number? (Lysander throws himself into the river.)
+> Firsts and Lasts (Silvia Sconza)
+> Elena, what is the largest prime number less than 9999 such that each digit making it up is a prime number; each number formed by two adjacent digits in the number is a prime number; each number formed by three adjacent digits in the number is a prime number? (Lisandro throws himself into the river.)
 
-**Answer:** 0373
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2019#q07|src_gs_2019__Q07]]
 
 
 
@@ -310,7 +314,7 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0416
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -321,12 +325,12 @@ level: squadre
 ![[src_gs_2019__prob8.png]]
 
 > The replacement (Mattia Fecit)
-> Quince: We have to find a way to replace the wall, otherwise we can't do the scene between Pyramus and Thisbe.
-> Snout: I have an idea! Consider a right triangle with legs of length 12 cm and 5 cm. Let's rotate the triangle about the longer leg and use the resulting solid as the wall.
-> Quince: I have a better idea: let's rotate the triangle about the shorter leg and use the resulting solid as the wall.
-> Voice-over: What is 1000 times the ratio between the volume of the solid obtained by Snout and the volume of the solid obtained by Quince?
+> Cotogna: We need to find a way to replace the wall; otherwise, we won't be able to stage the scene between Pyramus and Thisbe. Placido: I've got an idea! Consider a right-angled triangle with legs measuring 12 cm and 5 cm. Let's rotate the triangle around the longer leg and use the solid obtained as the wall. Cotogna: I've got a better idea: let's rotate the triangle around the shorter leg and use the solid obtained as the wall. Voice-over: What is 1000 times the ratio of the volume of the solid obtained by Placido to the volume of the solid obtained by Cotogna?
 
-**Answer:** 0416
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2019#q08|src_gs_2019__Q08]]
 
 
 
@@ -349,7 +353,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4018
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -360,12 +364,12 @@ level: squadre
 ![[src_gs_2019__prob9.png]]
 
 > Trees (Matteo Bobbio)
-> Titania sees Bottom in the wood and approaches him.
-> Bottom (to himself): But how many trees are there in the wood?
-> Titania (gazing dreamily at Bottom): There are more trees than the digits of the decimal representation of the result of multiplying 5^(4007) by 4^(2019).
-> Voice-over: What is the minimum number of trees in the wood?
+> Titania sees Fondo in the forest and approaches him. Fondo (to himself): But how many trees are there in the forest? Titania (looking at Fondo with dreamy eyes): There are more trees than the digits in the decimal representation of the result of multiplying 5^(4007) by 4^(2019). Offscreen voice: What is the minimum number of trees in the forest?
 
-**Answer:** 4018
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2019#q09|src_gs_2019__Q09]]
 
 
 
@@ -386,21 +390,20 @@ level: squadre
 > saranno state accese entrambe?
 
 **Risposta:** 1577
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The two fairies*
+*The Two Fairies*
 
 ![[src_gs_2019__prob10.png]]
 
-> The two fairies (Alessandro Logar)
-> Titania: Look, Bottom: the two fairies Kael and Kale are switching on their flashing lights. Kael switches the light on for 4 seconds, then off for 2; Kale switches it on for 3 seconds, then off for 5. Now they switch their lights on at the same time.
-> Bottom: In an hour and three quarters, when day breaks, for how many seconds in total will both lights have been on together?
+> The Two Fairies (Alessandro Logar)
+> Titania Guarda, Background: the two fairies, Kael and Kale, turn on their flashing lights. Kael turns the light on for 4 seconds and then turns it off for 2; Kale turns it on for 3 seconds and then turns it off for 5. Now they turn the light on at the same time. Background: In one hour and three quarters, when it is daylight, for how many seconds in total will both lights have been on?
 
-**Answer:** 1577
+[[Quesiti/src_gs_2019#q10|src_gs_2019__Q10]]
 
 
 
@@ -428,23 +431,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3333
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A loaded die*
+*A tampered-with figure*
 
 ![[src_gs_2019__prob11.png]]
 
-> A loaded die (Alessandro Murchio)
-> Titania: Will you play a game with me? Let's use this loaded six-sided die: the probability of an even number coming up is 2019 times the probability of an odd number (1, 3 and 5) coming up; every even number (2, 4 and 6) comes up with the same probability, and likewise for the odd numbers.
-> Bottom: Now that I know how it is loaded, there's no trick any more.
-> Titania (surprised by the clever answer): I roll the die four times and form a number: the result of the first roll is the units digit, the result of the second the tens digit, then the result of the third the hundreds digit, and finally the thousands digit. You win if the number obtained is a multiple of 3.
-> Voice-over: What is the probability that Bottom wins, multiplied by 10000?
+> A Tampered Figure (Alessandro Murchio)
+> Titania: Will you play a game with me? Let's use this rigged six-sided die: the probability of rolling an even number is 2019 times the probability of rolling an odd number (1, 3, and 5); each even number (2, 4, and 6) comes up with the same probability—and so do the odd numbers. Fondo: Now that I know how it's rigged, there's no trick left. Titania (Surprised by the clever answer): I'll roll the die four times and form a number: the result of the first roll will be the units digit, the result of the second roll the tens digit, then the result of the third roll the hundreds digit, and finally the result of the fourth roll the thousands digit. You win if the number you get is a multiple of 3. Off-screen voice: What is the value of the probability that Fondo wins, multiplied by 10000?
 
-**Answer:** 3333
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_probabilita|Probability and statistics]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2019#q11|src_gs_2019__Q11]]
 
 
 
@@ -476,7 +479,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0063
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -487,15 +490,14 @@ level: squadre
 ![[src_gs_2019__prob12.png]]
 
 > Waiting (Mario De Simoni)
-> Flute (playing Thisbe): I am waiting for my beloved Pyramus. While I wait I will fill this floor, made of white square tiles like a chessboard, with positive integers. I stand on a tile and write 1; then I carry on like this:
-> • if the square on my left is empty, I turn left, otherwise I don't turn;
-> • on the adjacent tile in front of me I write the number following the one written on the tile I am standing on;
-> • I step onto that tile.
-> (Slowly, after four steps Flute fills a square with the numbers from 1 to 4; after nine steps she has filled a square with the numbers from 1 to 9)
-> Bottom (offstage, playing Pyramus): My adored Thisbe, I will arrive when you write the odd number n^2 such that the absolute value of the difference between the sums of the numbers written on the tiles of the two diagonals of the board is the largest possible below 2019. (Theseus, Hippolyta and the whole audience burst out laughing.)
-> Hippolyta: What is the number n that Pyramus is referring to? (Theseus stares into space.)
+> Flauto (in the role of Thisbe) I am waiting for my beloved Pyramus. While I wait, I will fill this floor—made of white square checkerboard tiles—with positive integers. I stand on one tile and write 1; then I continue as follows: • if the square to my left is empty, I turn left; otherwise, I do not turn; • I write the next number after the number written on the tile I am on onto the adjacent tile in front of me; • I move onto that tile. (Slowly, after four steps, Flauto fills a square with the numbers from 1 to 4; after nine steps, they have filled a square with the numbers from 1 to 9.) Fondo (offstage, in the role of Pyramus) My beloved Thisbe, I will arrive when you write the odd number n^2 such that the absolute value of the difference between the sums of the numbers written on the tiles of the two diagonals of the checkerboard is as large as possible and less than
+> 2019. (Theseus, Hippolita, and the entire audience burst out laughing.)
+> Ippolita: What is the number n that Pyramus refers to? (Theseus stares into space.)
 
-**Answer:** 0063
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2019#q12|src_gs_2019__Q12]]
 
 
 
@@ -520,7 +522,7 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0137
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -531,9 +533,12 @@ level: squadre
 ![[src_gs_2019__prob13.png]]
 
 > In the bag (Sandro Campigotto)
-> Titania: Let's play a game. I put four blue balls into this bag. You, Puck, put in two red ones; Bottom, put in three yellow ones. (Puck and Bottom do as instructed) Let's shake the bag to mix the balls. Now we draw one ball at a time at random. The winner is whoever first sees all the balls he or she put into the bag drawn. What is the probability that Bottom wins? [Give as the answer the sum of the numerator and denominator of the fraction in lowest terms.]
+> Titania: Let's play a game. I'll put four blue balls in this bag. You, Puck, put in two red ones; Fondo, put in three yellow ones. (Puck and Fondo do as they are instructed.) Let's shake the bag to mix the balls. Now let's draw one ball at a time at random. The first person to see all the balls they put into the bag drawn out wins. What is the probability that Fondo will win? [Give as the answer the sum of the numerator and denominator of the fraction reduced to lowest terms.]
 
-**Answer:** 0137
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2019#q13|src_gs_2019__Q13]]
 
 
 
@@ -565,7 +570,7 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0459
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -575,15 +580,13 @@ level: squadre
 
 ![[src_gs_2019__prob14.png]]
 
-> On the pond (Giuseppe Rosolini)
-> A long closed line floats on the pond, made up of small segments, all of the same length: there are 2019 segments in total.
-> Titania: You see, Bottom. Each of the two endpoints of every segment is joined to an endpoint of another segment; that is how the line stays closed. Three fairies play with the line, hovering in the air and each alighting lightly on one of the 2019 endpoints.
-> Bottom: I see them: one is red, one blue, one yellow.
-> Titania: When they alight, the line moves and forms a triangle whose vertices are the three endpoints where the three fairies have alighted.
-> Bottom: The different (non-degenerate) triangles that can be formed in this way are very many.
-> Titania: Yes. Just tell me the four digits needed to write the number that counts them, listed in increasing order from left to right. [One triangle is different from another exactly when at least one of the sides between two fairies in the first triangle has a different length from the one between the (same) two fairies in the other.]
+> On the Pond (Giuseppe Rosolini)
+> On the pond floats a long closed line made up of small segments, all of equal length: in total, there are 2019 segments.. Titania See, Background. Each of the two ends of every segment is connected to an end of another segment; this is how the line remains closed. Three fairies play with the line, hovering in the air and each lightly alighting on one of the 2019 ends. Background I can see them: one is red, one is blue, one is yellow. Titania When they alight, the line moves and forms a triangle whose vertices are the three ends where the three fairies have alighted. Background There are a great many different (non-degenerate) triangles that can be formed in this way. Titania Yes. Just tell me the four digits needed to write the number that counts them, listed in ascending order from left to right. [A triangle is different from another one precisely when at least one of the sides between two fairies in the first triangle has a different length from the side between the (same) two fairies in the other triangle.]
 
-**Answer:** 0459
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2019#q14|src_gs_2019__Q14]]
 
 
 
@@ -610,20 +613,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0024
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The divided land*
+*The Divided Land*
 
 ![[src_gs_2019__prob15.png]]
 
-> The divided land (Luca Renzi)
-> Titania: Bottom, I need your help to divide the land inside the enclosure to settle elves and fairies there. I want to divide it by drawing only continuous dividing lines that start from a point of the fence and end at another point of the fence, all contained inside it. Each line is drawn taking care that it meets each previously drawn line exactly once, but so as to divide the land into the largest possible number of zones. (Bottom concentrates) In each zone that is also bounded by the fence there will be an elf; in the other zones there will be a fairy, so that the difference between the number of fairies and the number of elves is the smallest possible multiple of 41. (Looking at Bottom with joy) How many furrows must I have drawn?
+> The Divided Land (Luca Renzi)
+> Titania Fondo, I need your help to divide the land inside the enclosure in order to place elves and fairies there. I want to divide it by drawing only continuous dividing lines that start at one point on the enclosure and end at another point on the enclosure, with all of them lying entirely within the enclosure. Each line is drawn with care to ensure that it meets each of the other lines drawn previously exactly once, but in such a way as to divide the land into as many zones as possible. (Fondo concentrates) An elf will be in each zone that is also bounded by the enclosure; a fairy will be in the other zones, so that the difference between the number of fairies and the number of elves is the smallest possible multiple of 41. (Looking at Fondo with joy) How many furrows must I have traced?
 
-**Answer:** 0024
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2019#q15|src_gs_2019__Q15]]
 
 
 
@@ -657,23 +663,23 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 0064
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two colours*
+*Two colors*
 
 ![[src_gs_2019__prob16.png]]
 
-> Two colours (Milo Orlich)
-> Bottom: Your fairies have explained to me that they are inventing two colours, orangellow and blurey, and are experimenting with them. By laying two of these colours one after the other, they are trying to decide which are the best “final results”, possibly even “unpredictable” results! For example, they could arrange that laying first a coat of orangellow and then one of blurey gives blurey, and perhaps that one of blurey followed by one of orangellow gives orangellow instead, or that laying first one of orangellow and then another of orangellow gives blurey... What matters is that the final colour is still one of orangellow and blurey.
-> Titania: I think the most useful effect would be that laying first one colour and then another gives the same effect as reversing the order of the colours.
-> Bottom: It would be more interesting if laying first a colour X and then a colour Y in succession, and then adding a colour Z, gave the same effect as laying first colour X and, after a while, the colour obtained separately on the palette by laying colour Y followed by colour Z.
-> Voice-over: In how many ways can the effect proposed by Titania be achieved? And in how many ways can the effect proposed by Bottom be achieved? [Give as the answer the product of the number answering the first question and the number answering the second question.]
+> Two Colors (Milo Orlich)
+> Fondo: Your fairies have explained to me that they are inventing two colors, arangiallo and bligio, and are experimenting with them. They are trying to decide, by applying two of these colors in succession, which are the best "final results"—possibly even "unpredictable" results! For example, they could arrange it so that, by applying a coat of arangiallo first and then a coat of bligio, bligio is obtained, and perhaps by applying a coat of bligio followed by a coat of arangiallo, arangiallo is obtained instead, or so that, by applying a coat of arangiallo first and then another coat of arangiallo, bligio is obtained . . . The important thing is that the final color is still one of arangiallo and bligio. Titania: I think the most useful effect is that, by applying one color first and then another, the same effect is obtained as would be achieved by reversing the order of the colors. Fondo: It would be more interesting if, by applying color X and color Y in succession first and then adding color Z, the same effect were obtained as would be achieved by applying color X first and, after some time, applying the color obtained separately on the palette by applying color Y followed by color Z. Voice-over: In how many ways can the effect proposed by Titania be achieved? And in how many ways can the effect proposed by Fondo be achieved? [Give as the answer the product of the number that answers the first question and the number that answers the second question.]
 
-**Answer:** 0064
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_funzionali|Functional equations / sequences]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2019#q16|src_gs_2019__Q16]]
 
 
 
@@ -709,24 +715,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2520
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In a row*
+*In a line*
 
 ![[src_gs_2019__prob17.png]]
 
-> In a row (Gabriele Balletti)
-> Titania: Oberon has arranged those ten black balls in a row; in order, starting from the left, they contain the numbers from 1 to 10. Then he sealed them so that the numbers they contain cannot be seen, and went away. They all look the same: (leaving the stage) Puck, my elf, shuffle them. (Puck carries out the order: after the shuffle, the ball in position k, for k = 1, ..., 10, is in position n\_k) (Titania speaks from offstage) Puck, my elf, shuffle them again. (Puck performs the same shuffle as before: in this way the ball that, after the first shuffle and before the second, was in position j, for j = 1, ..., 10, is now in position n\_j) (Titania speaks again from offstage) Puck, my elf, shuffle them again. (Puck performs the same shuffle.)
-> Oberon (offstage, shouting): Puck, where are the ten balls in the row I had prepared? Make sure they are in proper order, or I'll tear you apart!
-> Puck (terrified): What do I do now?
-> Titania (entering): If you always used the same shuffle, you just need to perform that shuffle another... (what she says cannot be heard, because Oberon and the elves come on stage noisily. Puck very quickly performs the same shuffle a fantastic number of times. Oberon opens the ten balls and finds them arranged in increasing order from 1 to 10 starting from the first ball on the left, just as he had prepared them before leaving.)
-> Voice-over: What is the minimum number of shuffles Puck has made, starting from the first one ordered by Titania, to be certain of putting the balls back in the order arranged by Oberon?
+> In Line (Gabriele Balletti)
+> Titania Oberon has arranged those ten black balls in a row; in order from the left, they contain the numbers 1 to 10. Then he sealed them tightly so that the numbers they contain cannot be seen, and he left. They all seem identical: (exiting the stage) Puck, my elf, shuffle them. (Puck carries out the order: after the shuffling, the ball in position k, for k = 1, ..., 10, is in position n_k.) (Titania speaks from offstage) Puck, my elf, shuffle them. (Puck performs the same previous shuffle: in this way, the ball that, after the first shuffle—and before the second shuffle—was in position j, for j = 1, ..., 10, is now in position n_j.) (Titania speaks from offstage again) Puck, my elf, shuffle them. (Puck performs the same shuffle.) Oberon (offstage, shouting): Puck, where are the ten balls in the row I had prepared? Make sure they are in good order; otherwise I'll tear you apart! Puck (terrified): What shall I do now? Titania (entering): If you have always used the same shuffle, all you have to do is perform that shuffle another... (It's not clear what she says because Oberon and the elves enter the stage noisily. Puck very quickly performs the same shuffle a fantastic number of times. Oberon opens the ten balls and finds them arranged in ascending order from 1 to 10 starting with the first ball on the left, just as he had prepared them before leaving.) Offscreen voice: How many shuffles has Puck performed at minimum, starting from the first shuffle ordered by Titania, to be sure of putting the balls back in the order arranged by Oberon?
 
-**Answer:** 2520
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2019#q17|src_gs_2019__Q17]]
 
 
 
@@ -745,20 +750,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0582
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Give me the remainder*
+*Give me the rest*
 
 ![[src_gs_2019__prob18.png]]
 
-> Give me the remainder (Alessandro Logar)
-> Hippolyta: What is the remainder of the division of 123456789101112 by 999? (Theseus looks at the flowers.)
+> Give me the rest (Alessandro Logar)
+> Ippolita: What is the remainder when 123456789101112 is divided by 999? (Theseus looks at the flowers.)
 
-**Answer:** 0582
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2019#q18|src_gs_2019__Q18]]
 
 
 
@@ -779,20 +787,23 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0060
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Oberon's questions*
+*Oberon's Questions*
 
 ![[src_gs_2019__prob19.png]]
 
-> Oberon's questions (Giuseppe Rosolini)
-> Oberon: Titania, you can use these six sticks, all of the same length, one yellow, one blue, one red, one green, one purple and one orange, as the edges of a tetrahedron. How many different tetrahedra can you build?
+> The Questions of Oberon (Giuseppe Rosolini)
+> Oberon Titania, you can use these six sticks, all of the same length—one yellow, one blue, one red, one green, one purple, and one orange—as the edges of a tetrahedron. How many different tetrahedra can you construct?
 
-**Answer:** 0060
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2019#q19|src_gs_2019__Q19]]
 
 
 
@@ -814,20 +825,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0513
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lysander's question*
+*Lisandro's question*
 
 ![[src_gs_2019__prob20.png]]
 
-> Lysander's question (Mattia Fecit)
-> Lysander: Hermia, a positive integer is polite if it is divisible by the sum of its digits. For example, all the numbers from 1 to 10 are polite; 11 is not polite; 12 is polite; 13, 14, 15, 16 and 17 are not polite. Let A, B, C and D be the first four consecutive polite numbers greater than 10. What is D?
+> Lisandro's question (Mattia Fecit)
+> Lisandro Ermia, a positive integer is well-mannered if it is divisible by the sum of its digits. For example, all numbers from 1 to 10 are well-mannered; 11 is not well-mannered; 12 is well-mannered; 13, 14, 15, 16, and 17 are not well-mannered. Let A, B, C, and D be the first four consecutive well-mannered numbers greater than 10. What is the value of D?
 
-**Answer:** 0513
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2019#q20|src_gs_2019__Q20]]
 
 
 
@@ -847,20 +861,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9918
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Theseus's question*
+*Theseus's Question*
 
 ![[src_gs_2019__prob21.png]]
 
-> Theseus's question (Giuseppe Rosolini)
-> Theseus: Hippolyta, considering all positive integers a, b and c less than 10000 such that a^4 + a · b^3 = c^2, what is the maximum value of a + b + c?
+> Theseus's Question (Giuseppe Rosolini)
+> Teseo Ippolita, considering all positive integers a, b, and c less than 10000 such that a^4 + a · b^3 = c^2, what is the maximum value of a + b + c?
 
-**Answer:** 9918
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2019#q21|src_gs_2019__Q21]]
 
 
 
@@ -885,21 +902,24 @@ level: squadre
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0810
-**Fonte risposta:** soluzione ufficiale, [PDF p.12](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=12)
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte risposta:** soluzione ufficiale, PDF p.12
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Demetrius's question*
+*Demetrio's question*
 
 ![[src_gs_2019__prob22.png]]
 
-> Demetrius's question (Giuseppe Rosolini)
-> Demetrius: Helena, consider the pairs of positive even numbers (a, d) with a < d < 100 such that the sequence a, a + d, a + 2d, ..., a + n · d, ..., as n ranges over the natural numbers, contains no squares of natural numbers but contains infinitely many cubes of natural numbers. Among these, take the pairs (a, d) such that the difference d − a is minimal. Which pair (a, d) among the latter has minimal a? [Give the answer by writing, in order, the tens digit of a, the units digit of a, the tens digit of d and the units digit of d.]
+> Demetrio's question (Giuseppe Rosolini)
+> Demetrio Elena, consider the pairs of positive even numbers (a, d) with a < d < 100, such that the sequence a, a + d, a + 2d, ..., a + n · d, ..., as n varies over the natural numbers, contains no squares of natural numbers but contains infinitely many cubes of natural numbers. Among these, take the pairs (a, d) for which the difference d−a is minimal. Which pair (a, d) among these last ones has the smallest a? [Give the answer by indicating, in order, the tens digit of a, the units digit of a, the tens digit of d, and the units digit of d.]
 
-**Answer:** 0810
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2019#q22|src_gs_2019__Q22]]
 
 
 
@@ -928,26 +948,24 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1058
-**Fonte risposta:** soluzione ufficiale, [PDF p.12](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=12)
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte risposta:** soluzione ufficiale, PDF p.12
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*At the end*
+*In the end*
 
 ![[src_gs_2019__prob23.png]]
 
-> At the end (Alessandro Logar)
-> Puck: Dear audience, the play is over, but I still have a problem to suggest: there are four points A, B, C and D in the plane such that
-> • A, B, C lie on a circle C\_1;
-> • A, C, D lie on a circle C\_2;
-> • B, D lie on a circle C\_3.
-> The circles C\_1, C\_2 and C\_3 have no other points in common. The circle C\_1 has radius 20 m, C\_3 has radius 5 m, the length of segment BC is 40 m, the length of segment AB is 20 m. The centre of circle C\_2 is O\_2; call E a point on C\_3. I ask you to find the maximum value d\_1 that the segment O\_2E can take and the minimum possible value d\_2 that the segment O\_2E can take. Tell me what d\_1 − d\_2 is in centimetres.
-> The End
+> In the end (Alessandro Logar)
+> Dear Puck Caro public, the comedy is over, but I still have a problem to propose: there are four points A, B, C, and D such that • A, B, and C lie on a circle C_1; • A, C, and D lie on a circle C_2; • B and D lie on a circle C_3. Circles C_1, C_2, and C_3 have no other points in common. Circle C_1 has a radius of 20 m, C_3 has a radius of 5 m, the length of segment BC is 40 m, and the length of segment AB is 20 m. The center of circle C_2 is O_2; let E be a point on C_3. I ask you to find the maximum value d_1 that segment O_2E can take and the minimum possible value d_2 that segment O_2E can take. Tell me what d_1 − d_2 equals in centimeters. End
 
-**Answer:** 1058
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_probabilita|Probability and statistics]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2019#q23|src_gs_2019__Q23]]
 
 
 
@@ -981,7 +999,7 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7200
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2019_8%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2019 (= fairmath.it, Coppa Gauss 2019)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -992,18 +1010,9 @@ level: squadre
 ![[src_gs_2019__prob24.png]]
 
 > In the dressing room (Simone Muselli)
-> When the play is over, in the dressing room Puck takes a deck of 20 cards of two suits: hearts and spades. Each suit consists of an Ace, a Jack, a King, a Queen and the numbers from 2 to 7. It is a magical day after a magical night; after the deck has been shuffled, the cards begin to speak. For n = 2, 3, 4, 5, 6, 7 speaks:
-> Card marked with the number n: Exactly n cards of my own suit follow me.
-> Then the others speak:
-> Ace of hearts: The cards next to me are of my own suit.
-> Ace of spades: The cards next to me are of my own suit.
-> Jack of hearts: The cards next to me are of my own suit.
-> Jack of spades: The cards next to me are of my own suit.
-> Queen of hearts: The cards next to me are of my own suit.
-> Queen of spades: The cards next to me are of my own suit.
-> King of hearts: The cards next to me are of my own suit.
-> King of spades: The cards next to me are of my own suit.
-> Exactly 2 cards, having the same value, are lying.
-> Voice-over: In how many possible orders can the deck appear?
+> Once the comedy is over, backstage in the dressing room, Puck takes a deck of 20 cards from two suits: hearts and spades. Each suit consists of an Ace, a Jack, a King, a Queen, and the cards numbered 2 through 7. It is a magical day after a magical night; after shuffling the deck, the cards begin to speak: for n = 2, 3, 4, 5, 6, 7, the card marked with the number n speaks: Exactly n cards of my own suit follow me. Then the other Aces speak: Ace of Hearts: The cards attached to me are of my own suit. Ace of Spades: The cards attached to me are of my own suit. Jack of Hearts: The cards attached to me are of my own suit. Jack of Spades: The cards attached to me are of my own suit. Queen of Hearts: The cards attached to me are of my own suit. Queen of Spades: The cards attached to me are of my own suit. King of Hearts: The cards attached to me are of my own suit. King of Spades: The cards attached to me are of my own suit. Exactly 2 cards with the same rank are lying. Off-screen voice: In how many possible orders can the deck appear?
 
-**Answer:** 7200
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2019#q24|src_gs_2019__Q24]]

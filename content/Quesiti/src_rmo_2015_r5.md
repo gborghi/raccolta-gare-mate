@@ -29,9 +29,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri base-10 a 3 cifre con almeno un 5 e un 2 al massimo*
+*Conta i numeri decimali a tre cifre che contengono almeno un 5 e al massimo un 2*
 
-> Determinare il numero di numeri a 3 cifre nella base 10 che hanno almeno un 5 e un 2 al massimo.
+> Determinare il numero di numeri di tre cifre in base 10 che hanno almeno un 5 e al massimo un 2.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2015_r5#q02|src_rmo_2015_r5__Q02]]
 
 
 
@@ -54,9 +61,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio non costante con coefficienti interi positivi, dimostra P(2015) = 0 impossibile*
+*Polinomio non costante a coefficienti interi positivi: dimostrare che P(2015)=0 è impossibile*
 
-> Che $P(x)$ sia un polinomio non costante i cui coefficienti sono numeri interi positivi. Se $P(n)$ divide $P(P(n)) - 2015$ per ogni numero naturale $n$, provare che $P(-2015) = 0$.
+> Sia $P(x)$ un polinomio non costante i cui coefficienti sono numeri interi positivi. Se $P(n)$ divide $P(P(n)) - 2015$ per ogni numero naturale $n$, dimostrare che $P(-2015) = 0$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2015_r5#q03|src_rmo_2015_r5__Q03]]
 
 
 
@@ -79,9 +93,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i numeri a tre cifre (abc)_10 con (abc)_10 = (abc)_b × (acb)_b*
+*Trovare tutti i numeri a tre cifre (abc)_10 tali che (abc)_10 = (abc)_b * (acb)_b*
 
-> Trovare tutti i numeri naturali a tre cifre della forma $(abc)_{10}$ in modo tale che $(abc)_{10} = (abc)_b \cdot (acb)_b$. (Qui $(abc)_{10}$ è il numero nella base 10.)
+> Trovare tutti i numeri naturali di tre cifre della forma $(abc)_{10}$ tali che $(abc)_{10} = (abc)_b \cdot (acb)_b$. (Qui $(abc)_{10}$ è il numero in base 10.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2015_r5#q04|src_rmo_2015_r5__Q04]]
 
 
 
@@ -104,9 +125,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo rettangolo, incentri di subtriangoli da altitudine collineare*
+*Triangolo rettangolo: i centri incircoscritti dei sottotriangoli formati dall'altezza sono allineati*
 
-> Che $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$ e che $BD$ sia l'altitudine da $B$ a $AC$. I segmenti $P$, $Q$, $R$ e $S$ siano rispettivamente gli incentri dei triangoli $DFC$, $DBF$, $DEB$ e $DAE$. Supponiamo che $P$, $Q$, $R$, $S$, $D$ siano collineari. Provare che $P$, $Q$, $R$, $D$ si trovano su un cerchio.
+> Sia $ABC$ un triangolo rettangolo con $\angle B = 90^\circ$ e sia $BD$ l'altezza condotta da $B$ su $AC$. Siano $P$, $Q$, $R$ e $S$ rispettivamente gli incentri dei triangoli $DFC$, $DBF$, $DEB$ e $DAE$. Si supponga che $P$, $Q$, $R$, $S$, $D$ siano allineati. Dimostrare che $P$, $Q$, $R$, $D$ giacciono su una circonferenza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2015_r5#q05|src_rmo_2015_r5__Q05]]
 
 
 
@@ -131,6 +159,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa su triples ordinati di sottoinsiemi, espressa in termini di n*
+*Somma sugli triple ordinate di sottoinsiemi, esprimi in funzione di n*
 
-> $S = \{1, 2, \ldots, n\}$ e $T$ siano l'insieme di tutti i triples ordinati dei sottogruppi di $S$, ad esempio $(A_1, A_2, A_3)$, in modo tale che $A_1 \cup A_2 \cup A_3 = S$. Determinare, in termini di $n$, $$\sum_{(A_1,\, A_2,\, A_3)\, \in\, T} |A_1 \cap A_2 \cap A_3|,$$ dove $|X|$ indica il numero di elementi nell'insieme $X$. (Ad esempio, se $S = \{1, 2, 3\}$ uno degli elementi di $T$ è $A_1 = \{1, 2\}$, $A_2 = \{2, 3\}$, $A_3 = \{3\}$.)
+> Sia $S = \{1, 2, \ldots, n\}$ e sia $T$ l'insieme di tutte le triple ordinate di sottoinsiemi di $S$, diciamo $(A_1, A_2, A_3)$, tali che $A_1 \cup A_2 \cup A_3 = S$. Determina, in termini di $n$,
+> $$\sum_{(A_1,\, A_2,\, A_3)\, \in\, T} |A_1 \cap A_2 \cap A_3|,$$
+> dove $|X|$ denota il numero di elementi nell'insieme $X$. (Ad esempio, se $S = \{1, 2, 3\}$, allora uno degli elementi di $T$ è $A_1 = \{1, 2\}$, $A_2 = \{2, 3\}$, $A_3 = \{3\}$.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2015_r5#q06|src_rmo_2015_r5__Q06]]

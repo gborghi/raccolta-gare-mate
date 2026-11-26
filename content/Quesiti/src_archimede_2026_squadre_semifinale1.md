@@ -36,11 +36,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability that ad+bcd+d^2 is odd with 4 rounds*
+*Probability that ad+bcd+d^2 is odd with 4 throws*
 
-> At the Gaia Fuselli Higher School of Mathematics, Professor Sibilla Riemann, a professor of Divination, gave each student a magical, but equitable, regular tetrahedron-shaped dice with 4 faces numbered from 1 to 4. Each player will have to cast the dice 4 times, marking the results obtained in order by calling them (a,b,c,d), but before starting to cast they will have to predict the value of ad+bcd+d2. Hardy didn't hear a word of the explanation and says, "I'll get a weird value!" What's the probability that Hardy's prediction is correct? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+> At the Scuola Matemagica Superiore
+> Gaia Fuselli
+> Professor Sibilla Riemann, a teacher of Divination, gave each student a magic but fair die, in the shape of a regular tetrahedron with 4 faces numbered from 1 to 4. Each student must throw the die 4 times, recording the results obtained in order, calling them (a,b,c,d), but before starting to throw they must predict the value of ad+bcd+d2.
+> Hardy did not listen to a word of the explanation and says "I will get an odd value!". What is the probability that Hardy's prediction is correct? Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.
 
-**Answer:** 0005
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2026_squadre_semifinale1#q01|src_archimede_2026_squadre_semifinale1__Q01]]
 
 
 
@@ -67,11 +73,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Base B>6 where 61 is divisible by 16*
+*Base B>6 in cui 61 è divisibile per 16*
 
-> So the probability then is P(d odd)·P(a has the same parity as bc) = 1 2 · 1 2 = 1 4 and so the answer is 1 + 4 = 5.
+> La probabilità quindi
+> sarà P(d dispari)·P(a ha la stessa parità di bc) = 1
+> 2 · 1
+> 2 = 1
+> 4 e quindi la risposta è 1+4 = 5.
 
-**Answer:** 0029
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2026_squadre_semifinale1#q02|src_archimede_2026_squadre_semifinale1__Q02]]
 
 
 
@@ -104,13 +117,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*PS distance in regular dodecagon with diagonal intersections*
+*Distance PS in a regular dodecagon with diagonal intersections*
 
-![[src_archimede_2026_squadre_semifinale1__prob3.png]]
+> Tactics lesson
+> Leonardo Franchi
+> The field of Quamditch has the shape of a regular dodecagon. The captain of the Rapportaureo team, Katherine Johnson, wants to try a scheme: given A,B,C,D,E five consecutive vertices of the dodecagon, she puts Henri Perelman at the point P, intersection of the lines AC and BD, and his twin Smale at the point S, intersection of the lines BD and CE. She tells Hardy, the Proof Seeker of the team, that P and C are 1000 bacchette apart, and asks him to calculate the distance (in bacchette) between Perelman and Smale. Hardy does not make a mistake. What does Hardy answer?
+> Gara a Squadre 2026 – Semifinale 1 – Testi dei problemi – 1/6
 
-> The Quamditch field has the shape of a regular dodecagon. The captain of the Rapporteur's team, Katherine Johnson, wants to try out a scheme: called A,B,C,D,E five consecutive vertices of the dodecahedron, puts Henri Perelman in point P, intersection of the AC and BD directions, and his twin Smale in point S, intersection of the BD and CE directions. He tells Hardy, the team's Demonstration Seeker, that P and C are 1000 vertices apart, and asks him to calculate the distance (in vertices) between Perelman and Smale. Hardy's not wrong. What does Hardy say? Team competition 2026  Semifinal 1  Problem tests  1/6
 
-**Answer:** 1732
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_squadre_semifinale1#q03|src_archimede_2026_squadre_semifinale1__Q03]]
 
 
 
@@ -142,11 +160,23 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Destinations from which to return to school with step rules
+*Destinations from which one can return to school under passage rules*
 
-> Gaia Fuselli's secret passages from the Higher Mathematical School, identified by the number 1, cover 100 secret passages (only passages) for as many destinations, numbered 0 and 2 to 100. The Perelman twins know them all and know that destinations 2 to 9 are close enough to the school to allow you to always go back; destination 0 is the dreaded Arctan prison, from which no one has ever left. The other targets follow different rules: if the number x of the destination is prime or ends with zero, there are no secret steps from it to other destinations; otherwise, given the number of units of x, from destination x c is a step to destination x −2u −2. How many destinations (including school) is it possible to return to school from, possibly using more than one secret passage?
+> One-way secret passages
+> Gaia Fuselli
+> From the Scuola Matemagica Superiore, identified by the number 1, 100 secret passages (one-way only)
+> branch out to as many destinations, numbered with 0 and from 2 to 100. The Perelman twins know them all and know that
+> the destinations from 2 to 9 are close enough to the school to always allow a return; the
+> destination 0 is instead the dreaded prison of Arctan, from which no one has ever escaped. The other destinations follow
+> different rules: if the number x of the destination is prime or ends with zero, there are no secret passages from it to other
+> destinations; otherwise, letting u be the units digit of x, from destination x there is a passage to destination
+> x −2u −2. How many are the destinations (school included) from which it is possible to return to school, possibly
+> using more than one secret passage?
 
-**Answer:** 0037
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+[[Quesiti/src_archimede_2026_squadre_semifinale1#q04|src_archimede_2026_squadre_semifinale1__Q04]]
 
 
 
@@ -209,21 +239,53 @@ Destinations from which to return to school with step rules
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary alternate to/9-(a/9)^2 from 1 to 10*
+*Alternating sum of a/9 − (a/9)^2 from 1 to 10*
 
-> Francesco Laganà Hermita, the first in her class, was the first to correctly answer the question posed by Professor Vector, a professor at Aritmanzia. She asked us to use the number tables to calculate
+> The class topper
+> Francesco Laganà
+> Hermita never disappoints: she was the first to answer correctly the question posed by the teacher
+> Vector, a teacher of Aritmanzia. She asked to use the numerological tables to calculate
 >  
-> 1 9 − 1 9 2! −
+> 1
+> 9 −
+> 1
+> 9
+> 2!
+> −
 >  
-> 2 9 − 2 9 2! +
+> 2
+> 9 −
+> 2
+> 9
+> 2!
+> +
 >  
-> 3 9 − 3 9 2! −··+
+> 3
+> 9 −
+> 3
+> 9
+> 2!
+> −··+
 >  
-> 9 9 − 9 9 2! −
+> 9
+> 9 −
+> 9
+> 9
+> 2!
+> −
 >  
-> 10 9 − 10 9 2! . What did Hermit replied? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+> 10
+> 9 −
+> 10
+> 9
+> 2!
+> .
+> What did Hermita answer? Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.
 
-**Answer:** 0091
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_simmetria|Using symmetry]]
+[[Quesiti/src_archimede_2026_squadre_semifinale1#q05|src_archimede_2026_squadre_semifinale1__Q05]]
 
 
 
@@ -254,11 +316,17 @@ Destinations from which to return to school with step rules
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of numbers in squares of nested squares*
+*Sum of numbers in the small squares of nested squares*
 
-> Punishments that count Giuseppe Mascellani Even this time Ron must serve the punishment inflicted by Professor Dolores Unboundrige. Ron patiently takes his book of square scrolls and begins to draw a different square on each scroll. The square Q1 has side 1 square, the square Q2 has side 2, and so on until Q11, which has side 11. Then he starts from the first scroll and in the square Q1 Ron writes 11; in the four squares of Q2 he writes 10; in each square 1×1 contained in Q3 he writes the number 9; and so on until he writes 1 in all the squares of Q11. The treacherous Professor Unboundrige will only be satisfied when Ron tells her the sum of all the numbers in the squares. What number allows Ron to serve his sentence?
+> Punizioni che contano
+> Giuseppe Mascellani
+> Once again Ron must serve the punishment imposed by Prof.ssa Dolores Unboundrige. Ron patiently takes his notebook of gridded parchments and begins to draw on each parchment a different square.
+> The square Q1 has side 1 small square, the square Q2 has side 2, and so on up to Q11, which has side 11. Then he starts again from the first parchment and in the square Q1 Ron writes 11; in the four small squares of Q2 he writes 10; in each 1×1 small square contained in Q3 he writes the number 9; and so on up to writing 1 in all the small squares of Q11. The spiteful Prof.ssa Unboundrige will be satisfied only when Ron tells her the sum of all the numbers written in the small squares. What number allows Ron to serve his sentence?
 
-**Answer:** 1716
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2026_squadre_semifinale1#q06|src_archimede_2026_squadre_semifinale1__Q06]]
 
 
 
@@ -301,11 +369,28 @@ Destinations from which to return to school with step rules
 
 *AG^2 with equilateral triangles on a square*
 
-![[src_archimede_2026_squadre_semifinale1__prob7.png]]
+> The decorated square
+> Pietro Scaglioni
+> Performing the task of Geomanzia, Hardy draws a square ABCD of side 10 millibacchette; Ron constructs
+> two equilateral triangles: ABE inside the square and BCF outside the square. Hermita completes the configuration
+> by adding the equilateral triangle EFG with G on the opposite side of B from EF. The incantation will activate
+> by reciting the value of AG2 (in millibacchette squared). What must the three friends say?
+> A
+> B
+> C
+> D
+> E
+> F
+> G
+> H
+> K
+> J
 
-> The decorated square Pietro Scaglioni By completing the task of Geomancy, Hardy draws an ABCD square of side 10 millibacches; Ron constructs two equilateral triangles: ABE inside the square and BCF outside the square. Hermite completes the configuration by adding the equilateral triangle EFG with G on the opposite side of B to EF. The spell will be triggered by declaring the value of AG2 (in square millibatches). What are the three friends supposed to say? A B C D E F G H K J
 
-**Answer:** 0573
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_squadre_semifinale1#q07|src_archimede_2026_squadre_semifinale1__Q07]]
 
 
 
@@ -333,11 +418,19 @@ Destinations from which to return to school with step rules
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum n with K_n=729 in geometric recursive sequence*
+*Sum n with K_n=729 in recursive geometric sequence*
 
-> Proof of loyalty Giuseppe Mascellani The most evil mathematician ever, The One-who-can-not-be-proved, tests the loyalty of his followers by proposing the following question. Given a positive integer a, it defines K0 = 1 and, for each n ≥0, Kn+1 = Kn +aKn−1 +...+anK0. He then asks to determine the sum of all positive integers n so it's possible that Kn = 729. What must followers say to save lives?
+> Prova di lealtà
+> Giuseppe Mascellani
+> The worst mathematician of all time, He-who-cannot-be-proven, tests the loyalty of his followers by proposing
+> the following question. Given a positive integer a, he defines K0 = 1 and, for every n ≥0, Kn+1 = Kn +aKn−1 +...+anK0.
+> He then asks to determine the sum of all positive integers n for which it is possible that Kn = 729. What must
+> the followers answer, in order to keep their lives?
 
-**Answer:** 0016
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_ricorsione|Recursion]]
+[[Quesiti/src_archimede_2026_squadre_semifinale1#q08|src_archimede_2026_squadre_semifinale1__Q08]]
 
 
 
@@ -371,13 +464,17 @@ Destinations from which to return to school with step rules
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Configurations of tokens with non-growing columns*
+*Token configurations with non-increasing columns*
 
-![[src_archimede_2026_squadre_semifinale1__prob9.png]]
+> Magic-force-4
+> Angelo Giustiniani
+> Ron is waiting for his friend Hardy to challenge him to a game of magic-force-4, a game played with tokens to be inserted into a vertical grid made of 6 columns, in each column at most 7 tokens can be inserted one above the other. While waiting, Ron drops the first token into the leftmost column and it occupies the bottom-left position. When he places a new token, if there is already a token in the position to the left of the token just inserted, then the move is valid. Another valid move is to insert a new token into the leftmost column. Ron can stop whenever he wants. How many configurations can Ron obtain by making only valid moves (remembering that he has already placed a token)?
 
-> Magic-force-4 Angelo Giustiniani Ron is waiting for his friend Hardy to challenge him in a magic-force-4 match, a game that is played with chips to be inserted into a vertical grid made of 6 columns, in each column you can insert up to 7 chips one on top of the other. In the waiting, Ron drops the first token in the first column to the left and this one takes the lower left place. When you put a new token, if there's already a token on the left side of the token you just put in, then the move is valid. Another valid move is to insert a new token in the first column to the left. Ron can stop whenever he wants. How many configurations can Ron get by just making valid moves (remembering that he's already put a token in)?
 
-**Answer:** 1715
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2026_squadre_semifinale1#q09|src_archimede_2026_squadre_semifinale1__Q09]]
 
 
 
@@ -409,13 +506,21 @@ Destinations from which to return to school with step rules
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume of square development cup with hexagons*
+*Square-net cup volume with hexagons*
 
-![[src_archimede_2026_squadre_semifinale1__prob10.png]]
+> Home Cup
+> Luca Lamanna
+> Ron is so excited about the award of the Home Cup that he wants to build a cardboard replica of it.
+> He starts by cutting out the flat net of the cup: a square of side 9 cm on each of whose sides an
+> regular hexagon is constructed, external to the square. Ron then assembles it, making the sides of hexagons that share
+> a vertex coincide and then folding the hexagons inward, along the longer diagonal parallel to the sides of the square. In
+> this way the cup, which has a square hole at the top, is ready. What is its volume (in cm3)?
 
-> House Cup Luca Lamanna Ron is so excited about the House Cup that he wants to build a replica of it. It begins by carving out the flat development of the cup: a 9 cm side square on each side of which a regular hexagon is constructed, outside the square. Ron then assembles it, matching the sides of hexagons that have a vertex in common and then bending the hexagons inwards, along the major diagonal parallel to the sides of the square. This way the cup, which has a square hole at the top, is ready. What is its volume (in cm3)?
 
-**Answer:** 2405
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_squadre_semifinale1#q10|src_archimede_2026_squadre_semifinale1__Q10]]
 
 
 
@@ -442,11 +547,18 @@ Destinations from which to return to school with step rules
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer difference sum of two squares in [-256,256]*
+*Integers that are the difference of the sum of two squares in [-256,256]*
 
-> In the Room of Necessary Conditions there is everything a mathematician needs. Luna Lovegödel was looking for the integers n between −256 and 256, extremes included, which can be written as the difference between the sum of two squares and the sum of two other squares (squares of appropriate integers, also equal). How many different n numbers did Luna find?
+> Stanza delle Condizioni Necessarie
+> Gaia Fuselli
+> In the Room of Necessary Conditions there is everything a mathematician needs. Luna Lovegödel was looking for
+> the integers n between −256 and 256, endpoints included, that can be written as the difference between the sum of two
+> squares and the sum of two other squares (squares of suitable integers, possibly equal). How many different
+> numbers n did Luna find?
 
-**Answer:** 0513
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+[[Quesiti/src_archimede_2026_squadre_semifinale1#q11|src_archimede_2026_squadre_semifinale1__Q11]]
 
 
 
@@ -476,11 +588,21 @@ Destinations from which to return to school with step rules
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colors 18 shields with 13 equal adjacent pairs*
+*Colourings of 18 shields with 13 equal adjacent pairs*
 
-> Challenge on the shields Eugenio Trovarelli It is the day of the long-awaited Quamditch challenge between the team of Rapportaureo and that of Perognesiste, captained by Cedric Villany. Hardy notes that at the end of the racecourse there are 18 shields in a row, each painted with the color of one of the two houses (red or yellow), and that the number of yellow shields is strictly greater than the number of red shields. Before climbing on his broom, Hardy, a little nervous, observes by accident that, of all the adjacent shield pairs, exactly 13 are made up of shields of the same color. How many possible shield colors are there?
+> Challenge on the shields
+> Eugenio Trovarelli
+> It is the day of the long-awaited Quamditch duel between the Rapportaureo team and the Perognesiste team, captained by
+> Cedric Villany. Hardy notices that at the back of the field hang 18 shields in a row, each painted with the colour
+> of one of the two houses (red or yellow), and that the number of yellow shields is strictly greater than the number of
+> red shields. Before climbing onto his broom, Hardy, a bit nervous, glimpses that, among all the pairs of adjacent
+> shields, exactly 13 are formed by shields of the same colour. How many are the possible colourings of the shields?
 
-**Answer:** 2156
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2026_squadre_semifinale1#q12|src_archimede_2026_squadre_semifinale1__Q12]]
 
 
 
@@ -525,13 +647,29 @@ Destinations from which to return to school with step rules
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AED angle amplifier with internal and external screws*
+*Angle AED with internal and external bisectors*
 
-![[src_archimede_2026_squadre_semifinale1__prob13.png]]
+> Pub plan [⋆]
+> Leonardo Franchi
+> 24°
+> 24°
+> 80°
+> 80°
+> 68°
+> 32°
+> A
+> B
+> C
+> D
+> E
+> The room of the pub Tre manici topologici has the shape of a triangle ABC with angles ˆA = 100°, ˆB = 48°, ˆC = 32°. The bar is placed at point E on BC such that \
+> AEB = 112°. Let D be the point on AC that is the foot of the bisector from B, the bartender knows that he can watch the entrance from the angle \
+> AED. What is the measure of the latter (in degrees)?
 
-> Plant of the pub [⋆] Leonardo Franchi 24° 24° 80° 80° 68° 32° A B C D E The pub hall Three topological arms have the triangle-shaped plant ABC with angles ˆA = 100°, ˆB = 48°, ˆC = 32°. The counter shall be placed at point E above BC such that \ AEB = 112°. Since D is the AC point that is the foot of the receiver from B, the bartender knows that she can monitor the entrance from the AED angle. What is the width of the latter (in degrees)?
 
-**Answer:** 0034
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_squadre_semifinale1#q13|src_archimede_2026_squadre_semifinale1__Q13]]
 
 
 
@@ -564,9 +702,20 @@ Destinations from which to return to school with step rules
 
 *Minimum days with heights in arithmetic progression*
 
-> Alessandro Lombardo Pomona Springer, a professor of herbology, cures in a secret greenhouse his precious 2025 mandrake, initially all high 109 nanobucets (nb), that is, a stick. Every day, it waters exactly 101 distinct mandrels. At the end of the day, the mandrels that were watered that day grow by 1 nb, while the others decrease by 1 nb. One day, just before the mandrels were to be watered, Springer decides to arrange the almond pots by arranging them from lowest to highest. When performing this action, it is noticed that all plants have different heights and that the height difference between two consecutive plants remains constant. How many days have passed, at least, since the day she started taking care of the almonds?
+> Precious mandrakes
+> Alessandro Lombardo
+> Pomona Springer, a teacher of Herbology, tends in a secret greenhouse her precious 2025 mandrakes, initially
+> all 109 nanobitches (nb) tall, that is, one itch. Every day she waters exactly 101 distinct mandrakes.
+> At the end of the day the mandrakes that that day were watered grow by 1 nb, while the others shrink by
+> 1 nb. One day, before watering the mandrakes, Prof. Springer decides to order the mandrake pots
+> putting them in order from the shortest to the tallest. In carrying out this action she notices that the plants all
+> have different heights and that the difference in height between two consecutive plants remains constant. How many days have passed,
+> at minimum, since the day she began to take care of the mandrakes?
 
-**Answer:** 2275
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_invarianti|Invariants / monovariants]]
+[[Quesiti/src_archimede_2026_squadre_semifinale1#q14|src_archimede_2026_squadre_semifinale1__Q14]]
 
 
 
@@ -593,11 +742,16 @@ Destinations from which to return to school with step rules
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real root number of p_20 with recurrence p_{n+1}=1-p_n^2*
+*Number of real roots of p_20 with recurrence p_{n+1}=1-p_n^2*
 
-> Denis Tusca Hardy, to communicate in secret with his godfather Sirius Schwarz, agreed to put a password on the twin mirrors. Taking p0(x) = x and pn+1(x) = 1−pn(x) 2 for every natural n, the password is the number of real roots, multiplied, of the polynomial p20(x. What's the password?
+> Radical password [⋆]
+> Denis Tusca
+> Hardy, to communicate in secret with his godfather Sirius Schwarz, agreed to put a password on the twin mirrors. Taking p0(x) = x and pn+1(x) = 1−pn(x)2 for every natural n, the password is the number of real roots, counted with multiplicity, of the polynomial p20(x). What is the password?
 
-**Answer:** 3070
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Method:** [[method_induzione|Induction]], [[method_ricorsione|Recursion]]
+[[Quesiti/src_archimede_2026_squadre_semifinale1#q15|src_archimede_2026_squadre_semifinale1__Q15]]
 
 
 
@@ -638,10 +792,16 @@ Destinations from which to return to school with step rules
 <div class="qlang-split" data-lang="en"></div>
 
 
-*GC+FC with equilateral triangles and circumference Γ*
+*GC+FC con triangoli equilateri e circonferenza Γ*
 
-![[src_archimede_2026_squadre_semifinale1__prob16.png]]
+> Partita di Quamditch
+> Guido Lido
+> In the field of Quamditch, two baskets are placed at C and D and then two referees at A and B, such that ACD and BCD are equilateral but not coincident. The Rapportaureo team (composed of Hardy, Hermita, Ron and Norris) must score in C. However, to score a regular point, the shooter must have a pivot player such that they are aligned with B, form an equilateral triangle with A, and the shooter is closer to the basket C than the pivot. Hardy and Hermita (placed at E and G) are ready to score as shooters, having as pivots respectively Ron and Norris (placed at F and H). We also know that \
+> ABE = 45° and that \
+> ABH = 75°, and E and G are on the same side of C with respect to the line AB. Knowing that EF measures 300 bacchette, determine GC +FC (in bacchette).
 
-> In the Quamditch field two baskets are placed in C and D and then two arbiters in A and B, so that ACD and BCD are equilateral but not coincident. The Rapporteur's team (composed of Hardy, Hermita, Ron and Norris) must score in C. However, to score a regular point the shooter must have a pivot player such that they are aligned with B, form an equilateral triangle with A and the shooter is closer to the basket C of the pivot. Hardy and Hermita (placed in E and G) are ready to score as shooters, with Ron and Norris (placed in F and H) as their pivot respectively. We also know that \ ABE = 45° and that \ ABH = 75°, and E and G are on the same side of C as with straight AB. Knowing that EF measures 300 rods, determine GC +FC (in rods).
 
-**Answer:** 0424
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2026_squadre_semifinale1#q16|src_archimede_2026_squadre_semifinale1__Q16]]

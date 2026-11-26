@@ -33,11 +33,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum ABC with mean divisible permutations of 60*
+*Minimum ABC with mean of permutations divisible by 60*
 
-> Divisible by 60 What is the smallest natural number of three digits ABC, all distinct from each other and different from zero, such that the average of all the numbers that you get by permuting the three digits (ABC included) is an integer divisible by 60?
+> Divisible by 60: What is the smallest three-digit natural number ABC, with all digits distinct from one another and different from zero, such that the mean of all the numbers obtained by permuting the three digits (including ABC) is an integer divisible by 60?
 
-**Answer:** 0127
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre_f2#q01|src_kangourou_2024_junior_squadre_f2__Q01]]
 
 
 
@@ -65,11 +70,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum and minimum length of distribution network*
+*Sum of max and min lengths of the distribution network*
 
-> The net A plot of land square 1 km side is divided into rectangular sections each of which may be 5 m × 20 m or 6 m × 12 m in size. The individual portions are separated by a net and the overall plot is fenced off, always by a net: taking into account all possible layouts, what is the sum between the maximum and minimum length in kilometres of the net as a whole required?
+> The net A square plot of land with sides 1 km long is divided into rectangular portions, each of which can measure either 5 m × 20 m or 6 m × 12 m. The individual portions are separated by a net, and the entire plot is fenced, again with a net: taking all possible divisions into account, what is the sum, in kilometres, of the maximum and minimum lengths of the net required in total?
 
-**Answer:** 0504
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre_f2#q02|src_kangourou_2024_junior_squadre_f2__Q02]]
 
 
 
@@ -95,13 +104,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Subsets without two consecutive elements, at least 2 elem*
+*Subsets with no two consecutive elements, at least 2 elements*
 
-> The subsets  
-> Consider the set {1, 2, …, 9, 10, 11} of the first 11 positive integers. How many of its subsets 
-> with at least two elements do not contain two consecutive numbers?
+> Subsets Consider the set {1, 2, …, 9, 10, 11} of the first 11 positive integers. How many of its subsets have at least two elements and do not contain two consecutive numbers?
 
-**Answer:** 0221
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre_f2#q03|src_kangourou_2024_junior_squadre_f2__Q03]]
 
 
 
@@ -130,11 +142,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of first pair elements (a,b) whole roots*
+*Sum of the first elements of pairs (a,b), integer roots*
 
-> The equation Consider the equation (in the unknown x), dependent on the two parameters a and b, x3 – 10x2 + ax – b = 0. There are ordered pairs (a, b) of strictly positive integers such that the equation has three (real) solutions all of which are strictly positive integers. What is the sum of the first elements of these pairs? (If you believe there are infinite pairs, write 9999).
+> The equation Consider the equation (in the unknown x), depending on the two parameters a and b: x³ – 10x² + ax – b = 0. Are there ordered pairs (a, b) of strictly positive integers such that the equation has three (real) solutions, all of which are strictly positive integers? What is the sum of the first elements of such pairs? (If you think there are infinitely many pairs, write 9999).
 
-**Answer:** 0220
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre_f2#q04|src_kangourou_2024_junior_squadre_f2__Q04]]
 
 
 
@@ -162,9 +179,14 @@ level: squadre
 
 *Maximum score for 10x10 subgrids*
 
-> The grid A competitor has a 10 × 10 square grid. It earns two points for each square subgrid (original grid included) it can identify and one point for each non-square rectangular subgrid it can identify. What is the maximum score it can total?
+> The Grid A competitor has a 10 × 10 square grid at their disposal. They earn two points for each square subgrid (including the original grid) they manage to identify, and one point for each rectangular, non-square subgrid they manage to identify. What is the maximum score they can achieve?
 
-**Answer:** 3410
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre_f2#q05|src_kangourou_2024_junior_squadre_f2__Q05]]
 
 
 
@@ -193,16 +215,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value f(0) McCarthy recursive function*
+*Value of f(0) for McCarthy's recursive function*
 
-> The value at 0
-> Consider the function f defined on the set of non-negative integers, with values in the set
-> of integers, as follows: for n a non-negative integer let
-> f(n) = n – 10 if n > 100,
-> f(n) = f (f(n + 11)) if 0 ≤ n ≤ 100.
-> What is f(0)?
+> The value at 0. Consider the function f defined on the set of non-negative integers, with values in the set of integers, as follows: for a non-negative integer n, set f(n) = n – 10 if n > 100, and f(n) = f(f(n + 11)) if 0 ≤ n ≤ 100. What is the value of f(0)?
 
-**Answer:** 0091
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre_f2#q06|src_kangourou_2024_junior_squadre_f2__Q06]]
 
 
 
@@ -282,7 +304,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangle area ABCD from area triangle EHK*
+*Area of rectangle ABCD minus area of triangle EHK*
 
 ![[src_kangourou_2024_junior_squadre_f2__prob7.png]]
 
@@ -325,12 +347,17 @@ level: squadre
 \end{document}
 ```
 
-> The rectangle In the figure to the right, ABCD is a rectangle, E is the middle point of DC and AF, FG, GB are each 1/3 of AB long. The area of the EHK triangle is 27. What is the area of the rectangle ABCD?
->  
->  
+> The rectangle In the figure on the right, ABCD is a rectangle, E is the midpoint of DC, and AF, FG, and GB are each 1/3 of AB in length. The area of triangle EHK is 27. What is the area of rectangle ABCD?
+>
+>
 > K B C D E F G A H
 
-**Answer:** 0630
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre_f2#q07|src_kangourou_2024_junior_squadre_f2__Q07]]
 
 
 
@@ -356,11 +383,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First four digits max n with n^2+2024n squared*
+*Prime 4-digit max n with n^2+2024n square*
 
-> Perfect square Write the first four digits (from the left) of the largest natural number n such that n^2 + 2024n is a perfect square.
+> Perfect square: Write the first four digits (from the left) of the largest natural number n such that n² + 2024n is a perfect square.
 
-**Answer:** 2550
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre_f2#q08|src_kangourou_2024_junior_squadre_f2__Q08]]
 
 
 
@@ -388,9 +420,14 @@ level: squadre
 
 *Remainder of N (1001 units) divided by 1001*
 
-> The remainder The positive integer N consists of 1,001 digits all equal to 1. What's the remainder of the division of N by 1.001?
+> The remainder: The positive integer N consists of 1,001 digits, all of which are 1. What is the remainder when N is divided by 1,001?
 
-**Answer:** 0100
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre_f2#q09|src_kangourou_2024_junior_squadre_f2__Q09]]
 
 
 
@@ -420,11 +457,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of exactly a visible red face*
+*Probability that exactly one red face is visible*
 
-> The Ada cube adjoins 64 cubes on side 1 to form a cube 4 × 4 × 4 and coats the six outer faces of the resulting cube in red. Then he separates the 64 cubes, randomly picks one of them and throws it on the floor like a dice: what is the probability that, among the faces of the cubes visible after the launch, there is exactly one painting of it in red? (Write one after the other numerator and denominator of the fraction: for example if the answer is 21/23 or 2/123 write in both cases 2123, if it is 1/3 write 0103.)
+> Ada's cube arranges 64 unit cubes so as to form a 4 × 4 × 4 cube, and paints the six outer faces of the resulting cube red. She then separates the 64 cubes, picks one at random, and tosses it onto the floor as one would toss a die: what is the probability that, among the faces of the cubelet visible after the toss, exactly one is painted red? (Write the numerator and denominator of the fraction one after the other: for example, if the answer were 21/23 or 2/123, write 2123 in both cases; if it were 1/3, write 0103.)
 
-**Answer:** 0716
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre_f2#q10|src_kangourou_2024_junior_squadre_f2__Q10]]
 
 
 
@@ -451,14 +493,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of elements in a subset with equal sums 1..100*
+*Minimum number of elements in a subset with sums equal to 1..100*
 
-> Partition  
-> I want to partition the set of the first 100 positive integers into two disjoint subsets so that the 
-> two sums of the integers present in the two subsets coincide and that one of the two has the smallest 
-> possible number of elements. What is this number?
+> Partitioning: I want to partition the set of the first 100 positive integers into two disjoint subsets such that the sums of the integers in the two subsets are equal and one of the two subsets has as few elements as possible. What is this number?
 
-**Answer:** 0030
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre_f2#q11|src_kangourou_2024_junior_squadre_f2__Q11]]
 
 
 
@@ -485,11 +529,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Percentage of area S with respect to area T triangle 3,4,5
+*Percentage of area S relative to area T of the 3-4-5 triangle*
 
-> The dimensions of the sides of a T triangle are 3, 4 and 5. The height and median of this triangle relative to the vertex of the largest angle are sides of the same S triangle. What percentage of the area of T is the area of S?
+> The percentage The side lengths of triangle T are 3, 4, and 5. The altitude and the median of this triangle relative to the vertex of the largest angle are sides of the same triangle S. What percentage of the area of T is the area of S?
 
-**Answer:** 0014
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre_f2#q12|src_kangourou_2024_junior_squadre_f2__Q12]]
 
 
 
@@ -517,11 +566,16 @@ Percentage of area S with respect to area T triangle 3,4,5
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coordinates of cube vertices with first coordinates 0*
+*Cube vertex coordinate with first coordinate 0*
 
-> The vertex Compared to a system of orthogonal (monometric) Cartesian axes fixed for space, the three points (4, 0, 3), (6, 4, 1) and (2, 8, 5) represent three of the vertices of a cube. Only one of the remaining 5 vertices has as its first coordinate 0: what are its coordinates in order? (The coordinates required are all non-negative integers less than 10, so the answer must be [00AB].)
+> Vertex: With respect to a fixed (monometric) orthogonal Cartesian coordinate system for space, the three points (4, 0, 3), (6, 4, 1), and (2, 8, 5) represent three of the vertices of a cube. Only one of the remaining 5 vertices has 0 as its first coordinate: what are its coordinates, in order? (The required coordinates are all non-negative integers less than 10; therefore, the answer must be of the form [00AB].)
 
-**Answer:** 0047
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre_f2#q13|src_kangourou_2024_junior_squadre_f2__Q13]]
 
 
 
@@ -550,11 +604,16 @@ Percentage of area S with respect to area T triangle 3,4,5
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many cards show a white face after 2024 moves
+*How many cards show their white face after 2024 moves?*
 
-> The cards There are 2024 cards, each with a white face and the other gray, numbered from 1 to 2024 with the same number on both faces. Initially, they all show the white face. 2024 moves are performed: for 1 ≤ k ≤ 2024, the k-th move consists of flipping all the cards that have a number divisible by k (since on the first move all the cards are flipped, on the second only the cards that have an even number, and so on). After 2024 moves, how many cards show the white face?
+> The Cards There are 2024 cards; each has one white side and one gray side, and each card is numbered from 1 to 2024, with the same number on both sides. Initially, all cards show the white side. 2024 moves are performed: for 1 ≤ k ≤ 2024, the k-th move consists of flipping exactly those cards that bear a number divisible by k (so on the first move all cards are flipped, on the second only the cards bearing an even number, and so on). After 2024 moves, how many cards show the white side?
 
-**Answer:** 1980
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre_f2#q14|src_kangourou_2024_junior_squadre_f2__Q14]]
 
 
 
@@ -590,12 +649,17 @@ How many cards show a white face after 2024 moves
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remaining original object number, deletions*
+*Initial number of remaining items, deletions*
 
-> There are 2024 objects lined up and numbered from 1 to 2024. First, all objects with odd numbers are deleted: at this point, the remaining objects are again numbered from 1 to 1012 and all objects with odd numbers are deleted. This is done with a new numbering and a new deletion, and so on until there is only one object left. What number did this object initially have?
-> 
-> Kangourou of Mathematics 2024 Junior Cup to teams Final 2 Cervia, 6 May 2024
->  
+> The Object That Remains There are 2024 objects arranged in a line and numbered from 1 to 2024. Initially, all objects bearing an odd number are removed: at this point, the remaining objects are renumbered from 1 to 1012, and all objects that now bear an odd number are removed. This process continues with a new numbering and a new removal, and so on, until only a single object remains. What number did this object have initially?
+>
+> Kangourou de Mathématiques 2024 Junior Team Cup Final 2 Cervia, 6 May 2024
+>
 > Titles and answers
 
-**Answer:** 1024
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2024_junior_squadre_f2#q15|src_kangourou_2024_junior_squadre_f2__Q15]]

@@ -33,13 +33,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nomeri speciali: condizione della somma digitale supera, trovare il più piccolo superiore al 2024*
+*Numeri speciali: la somma delle cifre supera la condizione; trovare il più piccolo che superi 2024*
 
-> Una potenza di 2 è un numero della forma $2^k$ dove $k$ è un intero non negativo. Ad esempio, le tre potenze più piccole di 2 sono $2^0 = 1$, $2^1 = 2$ e $2^2 = 4$. Un numero si chiama potenza di 2 se è potenza di 2. Ad esempio, il 2024 è speciale perché $2^0 + 2 + 0 + 2 + 4 = 8 = 2^3$. Diciamo che un numero $A$ \emph{supera} (batte) un altro quando il primo è maggiore del secondo e la somma delle cifre del primo è maggiore della somma delle cifre del secondo. Ad esempio, il 2029 batte il 2024, perché $2029 > 2024$ e $2 + 0 + 2 + 9 = 13 > 2 + 0 + 2 + 4 = 8$.
-> 
-> a) Qual è il numero intero positivo più piccolo che è speciale e batte il 2024?
-> 
-> b) Qual è il numero intero positivo più piccolo che è speciale e batte la risposta corretta al punto precedente?
+> Una potenza di 2 è un numero della forma $2^k$, dove $k$ è un intero non negativo. Ad esempio, le tre potenze di 2 più piccole sono $2^0 = 1$, $2^1 = 2$ e $2^2 = 4$. Un numero viene definito potenza di 2 se è una potenza di 2. Ad esempio, 2024 è speciale, perché $2^0 + 2 + 0 + 2 + 4 = 8 = 2^3$. Diciamo che un numero $A$ \emph{supera} (batte) un altro quando il primo è maggiore del secondo e la somma delle cifre del primo è maggiore della somma delle cifre del secondo. Ad esempio, 2029 batte 2024, perché $2029 > 2024$ e $2 + 0 + 2 + 9 = 13 > 2 + 0 + 2 + 4 = 8$.
+>
+> a) Qual è il più piccolo numero intero positivo che sia speciale e superi 2024?
+>
+> b) Qual è il più piccolo intero positivo che sia speciale e superi la risposta corretta al quesito precedente?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2024_n1_fx#q01|src_obm_2024_n1_fx__Q01]]
 
 
 
@@ -76,23 +83,30 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piani di scacchi (cavaliere e torre) su tavola 3x3, configurazioni complete*
+*Pezzi degli scacchi (cavallo e torre) su una scacchiera 3x3, configurazioni complete*
 
-> In questo problema usiamo alcuni pezzi del gioco degli scacchi.
-> 
-> - Il \emph{knight} (C) è un pezzo che attacca quadrati che sono 1 movimento in una direzione e 1 quadrato nella direzione perpendicolare. Una proprietà importante è che il cavaliere può saltare sopra i pezzi, cioè può attaccare un quadrato anche se ci sono pezzi tra di esso e il quadrato. Vedi la prima figura qui sotto: abbiamo un cavaliere nell'angolo inferiore sinistro che attacca esattamente 2 quadrati ($\bullet$).
-> 
-> - Il \emph{rook} (T) è un pezzo che attacca tutti i quadrati della stessa riga o colonna come esso. A differenza del cavaliere, la torre non può saltare sopra i pezzi. Nella seconda figura qui sotto, abbiamo una torre che attacca 4 quadrati ($\bullet$).
-> 
-> Quando si collocano alcuni pezzi di scacchi su una tavola $3 \times 3$, diciamo che questa configurazione è \emph{complete} quando ciascuno dei 9 quadrati è occupato da esattamente una parte o viene attaccato da almeno una delle parti. Non è consentito mettere più di un pezzo sulla stessa piazza.
-> 
-> Nel primo esempio di seguito, una configurazione completa con 3 torri. Nella seconda, una configurazione non completa utilizzando 3 torri.
-> 
-> a) Qual è il numero minimo di cavalieri necessario per realizzare una configurazione completa su una tavola $3 \times 3$ utilizzando solo cavalieri? Ricordate di mostrare un esempio con questo numero minimo di cavalieri e di dimostrare che non esiste una configurazione completa con meno cavalieri.
-> 
-> b) Quante diverse configurazioni complete esistono su una tavola $3 \times 3$ che utilizza esattamente una torre e due cavalieri? Le configurazioni ottenute tra loro mediante rotazioni o riflessioni sono considerate diverse. Per esempio, le quattro configurazioni riportate di seguito sono tutte considerate diverse.
+> In questo problema utilizziamo alcuni pezzi del gioco degli scacchi.
+>
+> - Il \emph{cavallo} (C) è un pezzo che attacca le case che si trovano a 1 mossa in una direzione e a 1 casa nella direzione perpendicolare. Una proprietà importante è che il cavallo può saltare sopra i pezzi, cioè può attaccare una casa anche se tra esso e la casa ci sono dei pezzi. Si veda la prima figura qui sotto: abbiamo un cavallo nell'angolo in basso a sinistra che attacca esattamente 2 case ($\bullet$).
+>
+> - La \emph{torre} (T) è un pezzo che attacca tutte le case che si trovano sulla stessa traversa o sulla stessa colonna di essa. A differenza del cavallo, la torre non può saltare sopra i pezzi. Nella seconda figura qui sotto, abbiamo una torre che attacca 4 case ($\bullet$).
+>
+> Quando si posizionano alcuni pezzi degli scacchi su una scacchiera $3 \times 3$, si dice che questa configurazione è \emph{completa} quando ciascuna delle 9 caselle è occupata da esattamente un pezzo oppure è attaccata da almeno uno dei pezzi. Non è consentito posizionare più di un pezzo sulla stessa casella.
+>
+> Nel primo esempio qui sotto, una configurazione completa con 3 torri. Nel secondo, una configurazione non completa con 3 torri.
+>
+> a) Qual è il numero minimo di cavalli necessari per realizzare una configurazione completa su una scacchiera $3 \times 3$ utilizzando soltanto cavalli? Ricorda di mostrare un esempio con questo numero minimo di cavalli e di dimostrare che non esiste alcuna configurazione completa con un numero inferiore di cavalli.
+>
+> b) Quante configurazioni complete distinte esistono su una scacchiera $3 \times 3$ utilizzando esattamente una torre e due cavalli? Le configurazioni che si ottengono l'una dall'altra mediante rotazioni o riflessioni sono considerate diverse. Ad esempio, le quattro configurazioni mostrate di seguito sono tutte considerate distinte.
 
 ![[src_obm_2024_n1_fx__q02.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2024_n1_fx#q02|src_obm_2024_n1_fx__Q02]]
 
 
 
@@ -125,19 +139,26 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Octogono regolare con punti medi e intersezioni, trovare lunghezze e quadrati del segmento*
+*Ottagono regolare con punti medi e intersezioni: trovare le lunghezze dei segmenti e i quadrati*
 
-> Nella figura seguente, $ABCDEFGH$ è un ottagono regolare con lato di 6 cm. I punti $M$ e $N$ sono rispettivamente i punti intermedi di $AB$ e $CD$. Il punto $T$ è l'incrocio delle linee $AB$ e $CD$. In questo modo, $OMTN$ è un quadrato. Inoltre, le lunghezze di $BP$ e $CQ$ sono entrambe di 5 cm. È noto che un ottagono regolare ha angoli interni di $135^\circ$ e tutti i lati di uguale lunghezza.
-> 
-> a) Determinare la lunghezza del segmento $MP$.
-> 
-> b) Determinare il quadrato della lunghezza del segmento $BT$, cioè $BT^2$.
-> 
-> c) Determinare il quadrato della lunghezza del segmento $PQ$, cioè $PQ^2$.
-> 
-> \emph{In questo problema, potresti voler usare il teorema di Pitagora: in un triangolo rettangolo con gambe $a$ e $b$ e ipotenusa $c$ (il lato opposto all'angolo $90^\circ$), la relazione $a^2 + b^2 = c^2$ si mantiene.}
+> Nella figura sottostante, $ABCDEFGH$ è un ottagono regolare con lato di 6 cm. I punti $M$ e $N$ sono rispettivamente i punti medi di $AB$ e $CD$. Il punto $T$ è l'intersezione delle rette $AB$ e $CD$. In questo modo, $OMTN$ è un quadrato. Inoltre, le lunghezze di $BP$ e $CQ$ sono entrambe di 5 cm. Si sa che un ottagono regolare ha angoli interni di $135^\circ$ e tutti i lati di uguale lunghezza.
+>
+> a) Determina la lunghezza del segmento $MP$.
+>
+> b) Determina il quadrato della lunghezza del segmento $BT$, cioè $BT^2$.
+>
+> c) Determina il quadrato della lunghezza del segmento $PQ$, cioè $PQ^2$.
+>
+> \emph{In questo problema, potresti voler utilizzare il teorema di Pitagora: in un triangolo rettangolo con i cateti $a$ e $b$ e l'ipotenusa $c$ (il lato opposto all'angolo $90^\circ$), vale la relazione $a^2 + b^2 = c^2$.}
 
 ![[src_obm_2024_n1_fx__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2024_n1_fx#q03|src_obm_2024_n1_fx__Q03]]
 
 
 
@@ -168,17 +189,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza costruita sostituendo ripetutamente il più grande fattore primo; proprietà e termine iniziale*
+*Successione costruita sostituendo ripetutamente il più grande fattore primo; proprietà e termine iniziale*
 
-> Considera una sequenza il cui primo termine è un intero positivo $N > 1$. Considera la fattorizzazione primaria di $N$ in numeri primi. Se $N$ è una potenza di 2, la sequenza è composta da un singolo termine: $N$. In caso contrario, il secondo termine della sequenza viene ottenuto sostituendo il più grande fattore primo $p$ di $N$ con $p + 1$ nella fattorizzazione. Se il numero risultante non è una potenza di 2, ripetere lo stesso processo con esso: sostituire il fattore primo più grande con il suo valore più 1. Se il numero risultante è una potenza di 2, la sequenza numerica termina. E così via.
-> 
-> Ad esempio, se il primo termine della sequenza è $N = 300 = 2^2 \cdot 3 \cdot 5^2$, dal momento che il fattore primo più grande è $p = 5$, il secondo termine è $2^2 \cdot 3 \cdot (5+1)^2 = 2^2 \cdot 3 \cdot 6^2 = 2^4 \cdot 3^3$. Ripetendo il processo, il fattore primo più grande è ora $p = 3$, quindi il terzo termine è $2^4 \cdot (3+1)^3 = 2^4 \cdot 4^3 = 2^4 \cdot 2^6 = 2^{10}$. Poiché $2^{10}$ è una potenza di 2, la sequenza ha 3 termini: $2^2 \cdot 3 \cdot 5^2$, $2^4 \cdot 3^3$, $2^{10}$.
-> 
-> a) Quali sono i termini della sequenza quando $N = 2 \cdot 3 \cdot 5 \cdot 7 \cdot 11 \cdot 13 \cdot 17 \cdot 19 \cdot 23$?
-> 
-> b) Mostrare che se un primo $p$ lascia il rimanente 1 quando diviso per 3, allora $\frac{p+1}{3}$ è un intero positivo che è anche divisibile per 3.
-> 
-> c) Trovare un valore iniziale $N$ inferiore a $1{,}000{,}000$ (un milione) tale che la sequenza a partire da $N$ abbia esattamente 10 termini.
+> Si consideri una successione il cui primo termine è un numero intero positivo $N > 1$. Si consideri la scomposizione in fattori primi di $N$. Se $N$ è una potenza di 2, la successione è costituita da un unico termine: $N$. Altrimenti, il secondo termine della successione si ottiene sostituendo, nella scomposizione in fattori primi di $N$, il più grande fattore primo $p$ con $p + 1$. Se il numero risultante non è una potenza di 2, si ripete lo stesso procedimento con esso: si sostituisce il più grande fattore primo con il suo valore aumentato di 1. Se il numero risultante è una potenza di 2, la successione numerica termina. E così via, in successione.
+>
+> Ad esempio, se il primo termine della successione è $N = 300 = 2^2 \cdot 3 \cdot 5^2$, poiché il più grande fattore primo è $p = 5$, il secondo termine è $2^2 \cdot 3 \cdot (5+1)^2 = 2^2 \cdot 3 \cdot 6^2 = 2^4 \cdot 3^3$. Ripetendo il processo, il più grande fattore primo è ora $p = 3$, quindi il terzo termine è $2^4 \cdot (3+1)^3 = 2^4 \cdot 4^3 = 2^4 \cdot 2^6 = 2^{10}$. Poiché $2^{10}$ è una potenza di 2, la successione ha 3 termini: $2^2 \cdot 3 \cdot 5^2$, $2^4 \cdot 3^3$, $2^{10}$.
+>
+> a) Quali sono i termini della successione quando $N = 2 \cdot 3 \cdot 5 \cdot 7 \cdot 11 \cdot 13 \cdot 17 \cdot 19 \cdot 23$?
+>
+> b) Dimostrare che, se un numero primo $p$ lascia resto 1 alla divisione per 3, allora $\frac{p+1}{3}$ è un numero intero positivo anch'esso divisibile per 3.
+>
+> c) Trova un valore iniziale $N$ minore di $1{,}000{,}000$ (un milione) tale che la successione che parte da $N$ abbia esattamente 10 termini.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2024_n1_fx#q04|src_obm_2024_n1_fx__Q04]]
 
 
 
@@ -201,6 +229,13 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Campionato di calcio a sei squadre, trovare il minimo massimo punteggio possibile*
+*Campionato di calcio a sei squadre: trova il punteggio massimo minimo possibile*
 
-> Un campionato è giocato tra sei squadre di calcio, con ciascuna squadra che gioca ciascuna delle altre cinque squadre esattamente una volta. Il vincitore di ciascuna partita guadagna 3 punti e il perdente guadagna 0 punti; se la partita termina in pareggio, entrambe le squadre guadagnano 1 punto. È noto che, alla fine del campionato, le sei squadre avevano in coppia punti totali diversi. Qual è il minimo valore possibile per il numero di punti della squadra con più punti?
+> Un campionato si disputa tra sei squadre di calcio, e ciascuna squadra affronta ciascuna delle altre cinque esattamente una volta. La vincitrice di ogni partita ottiene 3 punti, la sconfitta 0 punti; in caso di pareggio, entrambe le squadre ottengono 1 punto. Si sa che, al termine del campionato, i totali di punti delle sei squadre erano tutti diversi tra loro. Qual è il valore minimo possibile del numero di punti della squadra con il maggior numero di punti?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2024_n1_fx#q05|src_obm_2024_n1_fx__Q05]]

@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Buy ice cream from 2 kang for 2 euros, minimum change
+*Buy ice cream for 2 kang with 2 euros—minimum change*
 
-> The currency of Kangland is the kang. In Kangcity, the eurokang exchange rate works like this: you get 1 kang by paying 1.20 euros, you get 1 euro by paying 1 kang and proportionally if you exchange lower-value coins. In both currencies, the minimum value coin is that of a cent; any amount of money can be changed and the result of the change, if not expressed by an integer of cents, is rounded up to the nearest cent. I'm in Kangcity and I only have euros. Is there a (legal) way to buy an ice cream that costs 2 kang with just 2 euros? If yes, what is the minimum number of exchanges that I can make?
+> Kanglandia's currency is the kang. In Kangcity, the euro–kang exchange rate works like this: you get 1 kang by paying 1.20 euros; you get 1 euro by paying 1 kang; and proportionally, the same applies when exchanging coins of lesser value. In both currencies, the smallest-denomination coin is the one-cent coin; you can exchange any amount of money, and if the exchange result cannot be expressed as a whole number of cents, it is rounded up to the nearest cent. I am in Kangcity and have only euros. Is there a (lawful) way to buy an ice cream that costs 2 kang while spending only 2 euros? If so, what is the minimum number of exchanges that will allow me to do this?
 
-**Answer:** yes, 40
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_junior_finale#qj1|src_kangourou_2016_junior_finale__QJ1]]
 
 
 
@@ -61,15 +65,20 @@ Buy ice cream from 2 kang for 2 euros, minimum change
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bust A or B with no more than one error*
+*Envelope A or B with at most one error*
 
-> The Fox student must, to be promoted, make a maximum of one mistake and take a closed-ended test. He can choose between two envelopes:
-> 
-> - envelope A containing 7 questions, each with 2 answers, - envelope B containing 3 questions, each with 6 answers.
-> 
-> Fox is unprepared and thinks he's answering questions at random. If he wants a promotion, should he choose envelope A or envelope B?
+> To be promoted, student Fox must take a closed-response test, making at most one error. They can choose between two envelopes:
+>
+> - Envelope A, which contains 7 questions, each with 2 answers,
+> - Envelope B, which contains 3 questions, each with 6 answers.
+>
+> Fox is unprepared and thinks he'll just guess his answers to the questions. If he wants to be promoted, should he opt for envelope A or envelope B?
 
-**Answer:** envelope B
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_junior_finale#qj2|src_kangourou_2016_junior_finale__QJ2]]
 
 
 
@@ -105,7 +114,7 @@ Buy ice cream from 2 kang for 2 euros, minimum change
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diameter coin B rolling two rounds around A*
+*Diameter of coin B, which rolls two turns around A*
 
 ![[src_kangourou_2016_junior_finale__probj3.png]]
 
@@ -120,9 +129,13 @@ Buy ice cream from 2 kang for 2 euros, minimum change
 \end{document}
 ```
 
-> In the figure, two circular coins are outlined on the edge of each of which there is a notch; the two coins touch each other at the notches. The diameter of coin A, the largest, is 18 mm. If the coin B starts to spin around the coin A, and remains in contact with it at all times, it must make exactly two revolutions around the coin A so that the situation in the figure is repeated for the first time (i.e. the two coins touch again at the notches). Knowing that the diameter of coin B is also an integer of millimeters, what can be said about that length? (see figure)
+> The figure schematically shows two circular coins, each of which has a notch on its rim; the two coins touch at the notches. The diameter of coin A, the larger one, is 18 mm. If coin B starts rotating around coin A while always remaining in contact with it, it must complete exactly two revolutions around A for the situation shown in the figure to reappear for the first time (that is, for the two coins to come into contact again at the notches). Given that the diameter of coin B is also an integer number of millimetres, what can be said about this length? (see figure)
 
-**Answer:** 4 or 12 mm
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_junior_finale#qj3|src_kangourou_2016_junior_finale__QJ3]]
 
 
 
@@ -145,11 +158,15 @@ Buy ice cream from 2 kang for 2 euros, minimum change
 <div class="qlang-split" data-lang="en"></div>
 
 
-Additional holidays by adding bridges, year 3000 days
+*Extra holidays when the long weekends are added—a year of 3000 days*
 
-> In the strange republic of Kang, years last 3,000 days, numbered from 1 to 3,000. Holidays are those whose number is divisible by 6 or is a prime number; the others are working days. If the holidays were to be added to each bridge day, that is, a working day preceded and followed by a holiday, how many more holidays would there be in each year?
+> In the strange Republic of Kang, years last 3000 days, numbered from 1 to 3000. Holidays are the days whose number is divisible by 6 or is a prime number; the others are working days. If every "bridge day"—that is, a working day preceded and followed by a holiday—were also added to the holidays, how many more holidays would there be in each year?
 
-**Answer:** 2
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_junior_finale#qj4|src_kangourou_2016_junior_finale__QJ4]]
 
 
 
@@ -173,11 +190,16 @@ Additional holidays by adding bridges, year 3000 days
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coordinates of one vertex of the cube given three vertices*
+*Coordinates of a vertex of a cube given three vertices*
 
-> With respect to an assigned system of orthogonal Cartesian axes in space, the coordinates of three vertices of a cube are $(4, 0, 3)$, $(6, 4, 1)$ and $(2, 8, 5)$. Determine, as quickly as you can, the coordinates (with respect to the same system) of one of the remaining vertices of the cube.
+> Relative to a given system of orthogonal Cartesian axes in space, the coordinates of three of the vertices of a cube are $(4, 0, 3)$, $(6, 4, 1)$, and $(2, 8, 5)$. Determine, in the quickest way you can, the coordinates (with respect to the same system) of one of the remaining vertices of the cube.
 
-**Answer:** (0,4,7)
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_junior_finale#qj5|src_kangourou_2016_junior_finale__QJ5]]
 
 
 
@@ -225,7 +247,7 @@ Additional holidays by adding bridges, year 3000 days
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most parallelogram area ratio over regular hexagon*
+*Maximum ratio of the area of a parallelogram to that of a regular hexagon*
 
 ![[src_kangourou_2016_junior_finale__probj6.png]]
 
@@ -251,6 +273,11 @@ Additional holidays by adding bridges, year 3000 days
 \end{document}
 ```
 
-> A parallelogram is inscribed in a regular hexagon (i.e. its vertices are points on some side of the hexagon) and the centers (of symmetry) of the two polygons coincide. What is the maximum value of the ratio between the area of the parallelogram and the area of the hexagon?
+> A parallelogram is inscribed in a regular hexagon (that is, its vertices are points on some side of the hexagon), and the centers (of symmetry) of the two polygons coincide. What is the maximum possible value of the ratio of the area of the parallelogram to the area of the hexagon?
 
-**Answer:** 2/3
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_junior_finale#qj6|src_kangourou_2016_junior_finale__QJ6]]

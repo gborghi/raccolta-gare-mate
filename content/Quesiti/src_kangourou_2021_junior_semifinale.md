@@ -44,19 +44,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cross the bridge at night with a flashlight, minimum time*
+*How many minutes will they take at least?*
 
-> (2 points) On their return from an excursion, Anna, Bob, Carla and Doris have to cross a river on a Tibetan bridge, on which no more than two people can pass at a time; it is dark and therefore a flashlight is required for crossing, but they only have one that can accommodate two people and cannot throw it from one side of the river to the other. How many minutes will it take at least to get everyone across if it takes Anna 8 minutes to cross, Bob 7, Carla 5 and Doris 4 and, of course, if two friends cross together, they do it at the slowest speed? A) 24
->  
+> (2 points) On the way back from an outing, Anna, Bob, Carla and Doris have to cross a river on a rope bridge, on which at most two people can go at a time. It is dark, so a torch is needed for the crossing, but they have only one, which can serve two people, and they cannot throw it from one side of the river to the other. How many minutes will they take at least for everyone to get to the other bank, if Anna takes 8 minutes to cross, Bob 7, Carla 5 and Doris 4, and, of course, if two friends cross together they do so at the speed of the slower one?
+>
+> A) 24
 > B) 27
->  
 > C) 28
->  
 > D) 29
->  
 > E) 32
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_junior_semifinale#q01|src_kangourou_2021_junior_semifinale__Q01]]
 
 
 
@@ -92,17 +95,28 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*one single true statement in euro of Lisa*
+*Which statement is certainly false?*
 
-> (3 points) If any of the following three statements
->  
-> (a) Lisa has more than 2021 euros (b) Lisa has less than 2021 euros (c) Lisa has at least 1 euro one and only one is true, which of the following claims is definitely false? A) Lisa has 2021 euros.
->  
-> B) Lisa has no euro.
->  
-> C) Lisa has a thousand euros. (D) Claim (c) is false. E) The statement c) is true.
+> (3 points) If, of the following three statements
+>
+> a) "Lisa has more than 2021 euros"
+> b) "Lisa has fewer than 2021 euros"
+> c) "Lisa has at least 1 euro"
+>
+> exactly one is true, which of the following statements is certainly false?
+>
+> A) Lisa has 2021 euros.
+> B) Lisa has no euros at all.
+> C) Lisa has 1000 euros.
+> D) Statement c) is false.
+> E) Statement c) is the true one.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_junior_semifinale#q02|src_kangourou_2021_junior_semifinale__Q02]]
 
 
 
@@ -137,19 +151,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum speed ratio without overtaking on the road*
+*What is the greatest possible value of that ratio?*
 
-> Carlo likes to run, Sandro likes to ride a bike. They want to train on the same road, 1.5 km long: Sandro leaves at the beginning of the road, Carlo 1 km ahead. They start at the same moment, they go in the same direction, and each one moves at a constant speed. If Sandro doesn't overtake Carlo, how much is the ratio between Sandro's speed and Carlo's speed? A) 3
->  
+> (3 points) Carlo likes running, Sandro likes cycling. They want to train on the same road, 1,5 km long: Sandro starts at the beginning of the road, Carlo 1 km further on. They start at the same moment, go in the same direction, and each moves at constant speed. If Sandro does not overtake Carlo, what is the greatest possible value of the ratio of Sandro's speed to Carlo's?
+>
+> A) 3
 > B) 2
->  
 > C) 1,75
->  
 > D) 1,7
->  
 > E) 1,5
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_junior_semifinale#q03|src_kangourou_2021_junior_semifinale__Q03]]
 
 
 
@@ -182,19 +198,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Units digit of the sum 2+5+8+...+2021*
+*What is the units digit of the sum?*
 
-> (4 points) What is the units digit of the sum 2 + 5 + 8 + ... + 2021? A) 0
->  
+> (4 points) What is the units digit of the sum 2 + 5 + 8 + ... + 2021?
+>
+> A) 0
 > B) 1
->  
 > C) 2
->  
 > D) 3
->  
 > E) 4
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_junior_semifinale#q04|src_kangourou_2021_junior_semifinale__Q04]]
 
 
 
@@ -228,19 +247,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2021 as the sum of five integers with only digits 3 and 5*
+*How many digits 3 are there in all in the five numbers?*
 
-> (4 points) Julius wants to write 2021 as the sum of five positive integers that have no digits other than 3 and 5. How many digits of 3 are there in all five numbers? A) 2
->  
+> (4 points) Giulio wants to write 2021 as a sum of five positive integers that have no digits other than 3 and 5. How many digits 3 are there in all in the five numbers?
+>
+> A) 2
 > B) 3
->  
 > C) 4
->  
 > D) 5
->  
 > E) 6
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_junior_semifinale#q05|src_kangourou_2021_junior_semifinale__Q05]]
 
 
 
@@ -275,19 +297,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sub-sets of S consecutively a,b,c with a perfect square sum*
+*How many such subsets K are there?*
 
-> (4 points) Consider the set S = {1, 2, 3, ..., 29, 30}. Denote by K a subset {a, b, c} of three different elements of S. How many K subsets of S are such that a + b + c is a perfect square, b = a + 1 and c = b + 1? A) 0
->  
+> (4 points) Consider the set S = {1, 2, 3, ..., 29, 30}. Denote by K a subset {a, b, c} of three different elements of S. How many subsets K of S are there such that a + b + c is a perfect square, b = a + 1 and c = b + 1?
+>
+> A) 0
 > B) 1
->  
 > C) 2
->  
 > D) 3
->  
 > E) 4
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_junior_semifinale#q06|src_kangourou_2021_junior_semifinale__Q06]]
 
 
 
@@ -329,18 +354,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Difference between regular circular polygon crown areas n sides*
+*What is the difference A2021 − A2020?*
 
-> (5 points) We denote with an area of the circular crown bounded by two inscribed and circumscribed circumferences to a regular polygon of n sides, each of length 1. What is the difference between A2021 − A2020? A)   B)  
->  
-> C)  
->  
->  
-> D)  
->  
+> (5 points) Denote by An the area of the annulus bounded by the incircle and the circumcircle of a regular polygon with n sides, each of length 1. What is the difference A2021 − A2020?
+>
+> A) ?
+> 
+> B) ?
+> 
+> C) ?
+> 
+> D) ?
+> 
 > E) 0
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_junior_semifinale#q07|src_kangourou_2021_junior_semifinale__Q07]]
 
 
 
@@ -378,19 +410,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*numbers with different output*
+*For how many of the starting integers do the two boys obtain different final results?*
 
-> (5 points) Peter rounded all positive integers less than 10,000 to tens, then rounded the numbers to hundreds, and finally rounded the final results to thousands. Instead, Paul rounded directly to the thousands all positive integers less than 10,000. For how many of the starting integers do the two boys get different end results? Rounding is to be understood in the usual sense: for example, for rounding to tens, 10 and 13 are rounded to 10, 15 and 17 to 20. A) 0
->  
+> (5 points) Pietro rounded to the nearest ten all the positive integers less than 10000, then rounded the numbers obtained to the nearest hundred, and finally rounded those last results to the nearest thousand. Paolo, instead, rounded straight to the nearest thousand all the positive integers less than 10000. For how many of the starting integers do the two boys obtain different final results?
+>
+> Rounding is meant in the usual sense: for example, when rounding to the nearest ten, 10 and 13 are rounded to 10, and 15 and 17 to 20.
+>
+> A) 0
 > B) 55
->  
 > C) 110
->  
 > D) 550
->  
 > E) 1100
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_junior_semifinale#q08|src_kangourou_2021_junior_semifinale__Q08]]
 
 
 
@@ -432,30 +469,28 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of diameters impossible*
+*Which of the previous statements is false?*
 
-> (6 points) Using high-precision instruments, from a single square with a side of 10 cm one can
-> cut out some circles such that, adding their diameters in centimetres, one obtains
-> i)  20.
->  j)  15.
->     h)  10 π.
->  
-> k)  2021.
+> (6 points) Using instruments of high precision, from a single square of side 10 cm one can cut out some circles such that, adding their diameters in centimetres, one obtains
+>
+> i) 20.
+> j) 15.
+> h) 10 π.
+> k) 2021.
+>
 > Which of the previous statements is false?
-> A) The i).
->  
-> B) The j).
->  
-> C) The h).
->  
-> D) The k).
->            E) None.
->  
->  
->  
-> Open-answer questions
+>
+> A) i).
+> B) j).
+> C) h).
+> D) k).
+> E) None.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_junior_semifinale#q09|src_kangourou_2021_junior_semifinale__Q09]]
 
 
 
@@ -483,16 +518,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Slices of pizza eaten between 2/3 and 3/4*
+*How many slices did he eat?*
 
-> (4 points) A pizza was cut into fewer than 10 slices all of the same size. Marco ate 
-> some of them: in total more than 
-> 
->  but less than 
-> 
->  of the whole pizza. How many slices did he eat?
+> (4 points) A pizza was cut into fewer than 10 slices, all of the same size. Marco ate some of them: in all more than  but less than  of the whole pizza. How many slices did he eat?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0005
+[[Quesiti/src_kangourou_2021_junior_semifinale#q10|src_kangourou_2021_junior_semifinale__Q10]]
 
 
 
@@ -524,13 +558,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of strip of paper folded over an equilateral triangle*
+*How many centimetres long is the strip?*
 
 ![[src_kangourou_2021_junior_semifinale__prob11.png]]
 
-> (5 points) A rectangular strip of paper is folded to form the hexagonal shape in the figure, which surrounds an equilateral triangle of 8 cm side (staying attached); the short sides of the strip are welded at the point shown. The short side of the strip measures √ 3 cm. How long is the strip? Welding √3 cm
+> (5 points) A rectangular strip of paper is folded so as to obtain the hexagonal shape in the picture, which borders an equilateral triangle of side 8 cm (lying against it); the short sides of the strip meet at the point shown. The short side of the strip measures √3 cm. How many centimetres long is the strip?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0033
+[[Quesiti/src_kangourou_2021_junior_semifinale#q11|src_kangourou_2021_junior_semifinale__Q11]]
 
 
 
@@ -561,19 +599,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Advancement of point P of the track if the vehicle advances 20cm*
+*How many centimetres does the point P advance relative to the ground?*
 
 ![[src_kangourou_2021_junior_semifinale__prob12.png]]
 
-> (5 points) The figure schematizes the side 
-> of a tracked vehicle whose wheels have a radius 
-> of 1/π meters with a distance between centers of 3 meters. The 
-> lower part of the track is in contact with a 
-> regular flat ground and P denotes the point at the middle 
-> of the currently upper part of the track. If the vehicle advances by 20 centimeters, by how many centimeters 
-> does point P advance, relative to the ground?
+> (5 points) The picture sketches the side of a tracked vehicle whose wheels have radius 1/π metres, with 3 metres between the centres. The lower part of the track is in contact with flat, even ground, and P denotes the point halfway along the part of the track that is currently on top. If the vehicle advances 20 centimetres, how many centimetres does the point P advance relative to the ground?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0040
+[[Quesiti/src_kangourou_2021_junior_semifinale#q12|src_kangourou_2021_junior_semifinale__Q12]]
 
 
 
@@ -630,37 +666,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of rooms to be visited in triangle n=100*
+*What is the greatest number of rooms you can visit?*
 
 ![[src_kangourou_2021_junior_semifinale__prob13.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=2]
-  % Equilateral triangle n=3, subdivided into 9 unit equilateral triangles
-  % Grid points: p(i,j) = (i + j/2, j*sqrt(3)/2) for i+j <= 3, i,j >= 0
+> (6 points) An equilateral triangle of side n = 100 is divided into equilateral triangles of side 1 according to the pattern suggested by the picture, which shows the case n = 3. Imagine that each small triangle is a room, and that in every wall it shares with an adjacent room there is a door. By choosing the starting room suitably, what is the greatest number of rooms you can visit if you may pass only once through each room you visit?
 
-  % Horizontal segments (constant j)
-  \draw (0,0) -- (1,0) -- (2,0) -- (3,0);
-  \draw (0.5,0.866) -- (1.5,0.866) -- (2.5,0.866);
-  \draw (1,1.732) -- (2,1.732);
-
-  % Left-leaning segments (constant i)
-  \draw (0,0) -- (0.5,0.866) -- (1,1.732) -- (1.5,2.598);
-  \draw (1,0) -- (1.5,0.866) -- (2,1.732);
-  \draw (2,0) -- (2.5,0.866);
-
-  % Right-leaning segments (constant i+j)
-  \draw (3,0) -- (2.5,0.866) -- (2,1.732) -- (1.5,2.598);
-  \draw (2,0) -- (1.5,0.866) -- (1,1.732);
-  \draw (1,0) -- (0.5,0.866);
-\end{tikzpicture}
-\end{document}
-```
-
-> (6 points) An equilateral triangle of side n =100 is divided into equilateral triangles of side 1 according to the pattern suggested by the figure, in which case n = 3 is represented. Imagine that each small triangle represents a room and that in each of its walls shared with an adjacent room, there is a door. By choosing appropriately the room to start from, what is the maximum number of rooms you can visit if you can only pass once from each room you visit?
-
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]], [[method_grafi|Graph theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 9901
+[[Quesiti/src_kangourou_2021_junior_semifinale#q13|src_kangourou_2021_junior_semifinale__Q13]]
 
 
 
@@ -687,11 +704,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*maximum block of black with distinct white blocks*
+*How many counters are in the largest possible block of consecutive black counters?*
 
-> (6 points) We have 90 tokens, half of which are black and the other half white. We want to align them so that the consecutive blocks of white tokens are as many as possible and that no pair of these blocks have the same number of tokens. What is the number of tokens in the largest possible block of consecutive black tokens?
+> (6 points) We have 90 counters, half of them black and the other half white. We want to line them up so that the blocks of consecutive white counters are as many as possible, and so that no two of these blocks have the same number of counters. What is the number of counters in the largest possible block of consecutive black counters?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0038
+[[Quesiti/src_kangourou_2021_junior_semifinale#q14|src_kangourou_2021_junior_semifinale__Q14]]
 
 
 
@@ -723,13 +745,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last four digits 0/1 alignment without repeated blocks*
+*What are the last four digits of Tommaso's string?*
 
-> (6 points) Using only the digits 0 and 1, Thomas constructs an alignment of more than five digits starting with 1001 and satisfying the following conditions:
->  
-> (a) there are no two identical blocks of five consecutive digits, disjoint or partially overlapping; (b) the alignment ends when neither of the two digits can be added without breaching condition (a). What are the last four digits of Thomas's alignment? Write 9999 if you believe they are not uniquely determined.
+> (6 points) Using only the digits 0 and 1, Tommaso builds a string of more than five digits that starts with 1001 and satisfies these conditions:
+>
+> a) there are no two identical blocks of five consecutive digits, whether disjoint or partly overlapping;
+> b) the string ends when it is not possible to add either of the two digits without breaking condition a).
+>
+> What are the last four digits of Tommaso's string? Write 9999 if you think they are not uniquely determined.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 1001
+[[Quesiti/src_kangourou_2021_junior_semifinale#q15|src_kangourou_2021_junior_semifinale__Q15]]
 
 
 
@@ -754,12 +784,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Remainder when dividing by 5 the product of the 5-digit numbers*
+*What remainder do you get?*
 
-> (7 points) If you multiply together all the positive integers with 5 digits that are not divisible by 5 and divide
-> the result by 5, what remainder do you get?
+> (7 points) If you multiply together all the positive 5-digit integers that are not divisible by 5, and divide the result by 5, what remainder do you get?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0001
+[[Quesiti/src_kangourou_2021_junior_semifinale#q16|src_kangourou_2021_junior_semifinale__Q16]]
 
 
 
@@ -791,24 +825,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many primes of the form (m^2+m+1)/n*
+*How many primes of that form are there?*
 
-> (7 points) What are the prime numbers of the form
-> 
->  
-> 
+> (7 points) How many primes are there of the form
+>
+> 
+>
+> where m and n are positive integers? (Write 9999 if you think there are infinitely many.)
 
-> where m and n are positive integers? (Write 9999 if you believe they are infinite).
->  
->  
->  
->  
->  
->  
->  
-> P
-
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 9999
+[[Quesiti/src_kangourou_2021_junior_semifinale#q17|src_kangourou_2021_junior_semifinale__Q17]]
 
 
 
@@ -850,16 +880,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length AB with two tangent circles at an angle of 60 degrees*
+*How long is AB?*
 
 ![[src_kangourou_2021_junior_semifinale__prob18.png]]
 
-> (8 points) The figure shows two externally tangent circumferences inserted into an angle of 60° and both tangents to the rays delimiting the angle: M and N are the two tangent points to the horizontal ray. The lines for A and B are parallel and tangent to the small and the large circle respectively. The radius of the small circle is √12. If AM is long 3, how long is AB?
->  
-> Answers
->  
-> 0005 0033 0040 9901 0038 1001 0001 9999 0027
->  
-> M N B O A
+> (8 points) The picture shows two circles, tangent externally, placed in an angle of 60° and both tangent to the rays that bound the angle: M and N are the two points of tangency with the horizontal ray. The lines through A and through B are parallel, and tangent to the small circle and the large circle respectively. The radius of the small circle is √12. If AM is 3 long, how long is AB?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0027
+[[Quesiti/src_kangourou_2021_junior_semifinale#q18|src_kangourou_2021_junior_semifinale__Q18]]

@@ -28,7 +28,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0030
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -38,11 +38,12 @@ level: squadre
 
 ![[src_squadre_2023_femminile_qualif__prob1.png]]
 
-> Sandro Campigotto
-> Teodomiro: On my way here, I was thinking about the ordered pairs (a, b) of integers such that ab = 2023^2.
-> Astragone: How many are there?
+> Sandro Campigotto Teodomiro While I was coming, I was thinking about ordered pairs (a, b) of integers such that ab = 2023^2. Astragone How many are there?
 
-**Answer:** 0030
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q01|src_squadre_2023_femminile_qualif__Q01]]
 
 
 
@@ -73,7 +74,7 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0850
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -83,14 +84,12 @@ level: squadre
 
 ![[src_squadre_2023_femminile_qualif__prob2.png]]
 
-> Giuseppe Rosolini
-> Teodomiro: I've brought you two rectangular sheets.
-> Astragone: What size?
-> Teodomiro: They are all 30 cm × 20 cm. (Astragone spends a few minutes arranging the sheets very carefully on the ground; in the end the two rectangles overlap. The overlapping part is a square) Why have you made a cross with the rectangles?
-> Astragone: It isn't a cross: I have also drawn on the ground the segments joining two neighbouring outer vertices of the rectangles. An octagon has come out, with opposite sides parallel and equal.
-> Teodomiro: How many cm^2 is the area of the octagon?
+> Giuseppe Rosolini Teodomiro: I've brought you two rectangular sheets. Astragone: What dimensions? Teodomiro: They're all 30 cm × 20 cm. (Astragone spends a few minutes arranging the sheets on the ground with great care; in the end, the two rectangles are superimposed. The overlapping part is a square.) Why did you make a cross with the rectangles? Astragone: It's not a cross: I also marked on the ground the line segments connecting two adjacent vertices of the outer rectangles. It came out as an octagon with opposite sides that are parallel and equal. Teodomiro: How many cm² is the area of the octagon?
 
-**Answer:** 0850
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q02|src_squadre_2023_femminile_qualif__Q02]]
 
 
 
@@ -124,7 +123,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0504
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -134,22 +133,12 @@ level: squadre
 
 ![[src_squadre_2023_femminile_qualif__prob3.png]]
 
-> Giuseppe Rosolini
-> Astragone: What shall we do?
-> Teodomiro: Let's wait.
-> Astragone: For whom?
-> Teodomiro: For Godol.
-> Astragone: Will he come?
-> Teodomiro: He said he would come.
-> Astragone: I don't know what to do.
-> Teodomiro: Count to 1000.
-> Astragone: 1-2-3-4-5-6-7
-> Teodomiro (interrupting him): 993
-> Astragone: What are you saying?
-> Teodomiro: Every seven numbers you say, I say how many you still have to count.
-> Astragone: What is the first number I say that is larger than one of those you will have said before?
+> Giuseppe Rosolini Astragone What are we going to do? Teodomiro We'll wait. Astragone Who? Teodomiro Godol. Astragone Will he come? Teodomiro He said he'd come. Astragone I don't know what to do. Teodomiro Count to 1000. Astragone 1-2-3-4-5-6-7 Teodomiro (interrupting him) 993 Astragone What are you saying? Teodomiro For every seven numbers you state, I'll say how many more you have to count. Astragone What's the first number I say that's greater than one of the numbers you'll have said earlier?
 
-**Answer:** 0504
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q03|src_squadre_2023_femminile_qualif__Q03]]
 
 
 
@@ -175,24 +164,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0025
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Additions giving 10 (Sandro Campigotto)*
+*Additions with a Result of 10 (Sandro Campigotto)*
 
 ![[src_squadre_2023_femminile_qualif__prob4.png]]
 
-> Sandro Campigotto
-> Astragone: I was thinking, Dodo?
-> Teodomiro: About what?
-> Astragone: In how many ways can one write an addition of integers greater than 1 that gives 10 as the result, using at least one 2 among the addends?
-> Teodomiro: Does the order matter?
-> Astragone: Of course: 8 + 2 and 2 + 8 are different expressions.
+> Sandro Campigotto Astragone: I was thinking, Dodo? Teodomiro: About what? Astragone: In how many ways can an addition involving integers greater than 1 be written so that the result is 10, with at least one 2 among the addends? Teodomiro: Does the order matter? Astragone: Of course—8 + 2 and 2 + 8 are different ways of writing it.
 
-**Answer:** 0025
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q04|src_squadre_2023_femminile_qualif__Q04]]
 
 
 
@@ -231,26 +218,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0254
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sequences with a peak (Sandro Campigotto)*
+*Sequences with a Peak (Sandro Campigotto)*
 
 ![[src_squadre_2023_femminile_qualif__prob5.png]]
 
-> Sandro Campigotto
-> Astragone: Take the integers from 1 up to n, say 5. Put them in a sequence with a peak.
-> Teodomiro: What is a sequence with a peak?
-> Astragone: I'll explain: there are numbers increasing up to 5, at least one; then there are numbers decreasing from 5, at least one. (Teodomiro is surprised) For example, 2-3-5-4-1 is a sequence with a peak, and so is 1-5-4-3-2. But 3-2-5-4-1 is not a sequence with a peak because the numbers do not increase up to 5, and 5-4-3-2-1 has no peak because there are no rising numbers. Nor does 1-2-3-4-5 have a peak: falling numbers are missing.
-> Teodomiro (looking at what Astragone is writing on the ground): You're using the numbers from 1 to 9.
-> Astragone: Yes, I'm writing the 10 sequences with a peak of the numbers from 1 to 9.
-> Teodomiro: But there aren't 10!
-> Astragone: Of course there are! How many sequences with a peak of the integers from 1 to 9 are there?
+> Sandro Campigotto Astragone: Take the whole numbers from 1 to n—say, 5. Arrange them in a sequence with a peak. Teodomiro: What is a sequence with a peak? Astragone: Let me explain: there are numbers that increase up to 5, at least one; then there are numbers that decrease from 5, at least one. (Teodomiro is surprised.) For example, 2-3-5-4-1 is a sequence with a peak; so is 1-5-4-3-2. But 3-2-5-4-1 is not a sequence with a peak because the numbers don't increase up to 5, and 5-4-3-2-1 has no peak because there are no numbers going up. Nor does 1-2-3-4-5 have a peak: there are no numbers going down. Teodomiro: (Looks at what Astragone is writing on the ground.) You're using the numbers from 1 to 9. Astragone: Yes, I'm writing the 10 sequences with a peak for the numbers from 1 to 9. Teodomiro: But there aren't 10! Astragone: How so? How many are the sequences with a peak for whole numbers from 1 to 9?
 
-**Answer:** 0254
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q05|src_squadre_2023_femminile_qualif__Q05]]
 
 
 
@@ -270,7 +253,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0041
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -280,10 +263,12 @@ level: squadre
 
 ![[src_squadre_2023_femminile_qualif__prob6.png]]
 
-> Carlo Càssola
-> Teodomiro (talking to himself): I wonder what the largest prime factor of the number 48^4 − 22^4 is?
+> Carlo Càssola Teodomiro (Speaking to himself) I wonder what the largest prime factor of 48^4 − 22^4 is?
 
-**Answer:** 0041
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q06|src_squadre_2023_femminile_qualif__Q06]]
 
 
 
@@ -310,7 +295,7 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0072
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -320,10 +305,12 @@ level: squadre
 
 ![[src_squadre_2023_femminile_qualif__prob7.png]]
 
-> Carlo Càssola
-> Astragone: Look! (Teodomiro looks) I have drawn triangle ABC. (He points to the first triangle) Its sides measure AB = 45 cm, BC = 39 cm, CA = 12 cm. Then I drew triangle CAD; (he points to the second triangle) its other two sides measure CD = 39 cm and AD = 45 cm. What is the length of the segment joining B and D? (Teodomiro laughs)
+> Carlo Càssola Astragone Look! (Teodomiro looks) I drew triangle ABC. (Points to the first triangle) Its sides measure AB = 45 cm, BC = 39 cm, and CA = 12 cm. Then I drew triangle CAD; (Points to the second triangle) its other two sides measure CD = 39 cm and AD = 45 cm. What is the length of the line segment joining B and D? (Teodomiro laughs)
 
-**Answer:** 0072
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q07|src_squadre_2023_femminile_qualif__Q07]]
 
 
 
@@ -351,7 +338,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1022
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -361,12 +348,12 @@ level: squadre
 
 ![[src_squadre_2023_femminile_qualif__prob8.png]]
 
-> Sandro Campigotto
-> Teodomiro: I knew that the natural number n is the product of two prime numbers and that, subtracting n from the sum of the divisors of n, one gets 2023. I'd like to know what n is.
-> Astragone: The conditions are not enough, Dodo! There are 59 numbers satisfying the conditions.
-> Teodomiro: But, Gogo, the number n I was thinking of is the largest of them. So what is n? [Give as the answer the first four significant digits of n.]
+> Sandro Campigotto Teodomiro: I knew that the natural number n is the product of two prime numbers and that, when n is subtracted from the sum of the divisors of n, the result is 2023. I would like to know what value n has. Astragone: The conditions aren't enough, Dodo! There are 59 numbers that satisfy the conditions. Teodomiro: But, Gogo, the number n I had in mind is the greatest among them. So what is n? [Give as the answer the first four significant digits of n.]
 
-**Answer:** 1022
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q08|src_squadre_2023_femminile_qualif__Q08]]
 
 
 
@@ -392,21 +379,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0006
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Medians and trisection (Carlo Càssola)*
+*Medians and Trisection (Carlo Càssola)*
 
 ![[src_squadre_2023_femminile_qualif__prob9.png]]
 
-> Carlo Càssola
-> Astragone: In triangle ABC the side AB is 6.7 m long, the side BC is 9 m long, and the altitude from A is 6 m long.
-> Teodomiro: Draw the midpoints of the three sides: M on BC, N on AB and P on AC. On AM take the points D and E such that AD = DE = EM. What is the ratio between the area of triangle ABC and the area of triangle ANE?
+> Carlo Càssola Astragone In triangle ABC, side AB is 6.7 m long, side BC is 9 m long, and the altitude from A is 6 m long. Teodomiro Draw the midpoints of the three sides: M on BC, N on AB, and P on AC. On AM, take points D and E such that AD = DE = EM. What is the ratio of the area of triangle ABC to the area of triangle ANE?
 
-**Answer:** 0006
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q09|src_squadre_2023_femminile_qualif__Q09]]
 
 
 
@@ -438,21 +426,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0253
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The price of the Interius (Simone Muselli)*
+*The price of Interius (Simone Muselli)*
 
 ![[src_squadre_2023_femminile_qualif__prob10.png]]
 
-> Simone Muselli
-> Teodomiro: I still remember when I was presentable and wanted to buy the new Interius. I remember that Maxiclette launched it on the market at a price below the list price, but still above 5/6 of the list price. It kept that price for a year, then moved to the list price. After a year, Maxiclette decided to discount it by more than 16.6% with respect to the list price, returning exactly to the price of the launch year. The incredible thing is that, by company policy, the Interius always has a positive integer price.
-> Astragone: What was, at the very least, the list price of the Interius?
+> Simone Muselli Teodomiro I still remember when I was presentable and wanted to buy the new Interius. I remember that Maxiclette launched it on the market at a price below the list price but still above 5/6 of the list price. It held that price for a year, then switched to the list price. After a year, Maxiclette decided to discount it by more than 16.6% from the list price, returning exactly to the price of the launch year. The incredible thing is that, due to a corporate decision, the Interius always has a positive full price. Astragone What was the list price of the Interius, at a minimum?
 
-**Answer:** 0253
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q10|src_squadre_2023_femminile_qualif__Q10]]
 
 
 
@@ -478,20 +467,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0034
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangles with perimeter equal to area (Carlo Càssola)*
+*Rectangles with Perimeter Equal to Area (Carlo Càssola)*
 
 ![[src_squadre_2023_femminile_qualif__prob11.png]]
 
-> Carlo Càssola
-> Astragone: Among the quadrilaterals with only right angles whose sides, measured in centimetres, have integer length, take those whose perimeter in centimetres is the same number as the area in square centimetres. What are all these areas? [Give as the answer the sum of all the different areas.]
+> Carlo Càssola Astragone Among the quadrilaterals with only right angles, whose sides, measured in centimetres, have integer lengths, choose those for which the perimeter in centimetres is the same number as the area in square centimetres. What are all these areas? [Give as the answer the sum of all the distinct areas.]
 
-**Answer:** 0034
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q11|src_squadre_2023_femminile_qualif__Q11]]
 
 
 
@@ -525,26 +516,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9910
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Keep and erase (Carlo Càssola)*
+*Leave and Delete (Carlo Càssola)*
 
 ![[src_squadre_2023_femminile_qualif__prob12.png]]
 
-> Carlo Càssola
-> Astragone: While waiting, I wrote all the numbers from 1000 up to 10000.
-> Teodomiro: Keep the first number, erase the number that follows it.
-> Astragone: That is, 1001; you could have said so.
-> Teodomiro: Do as I tell you! Now keep the number that follows, erase the two numbers after it.
-> Astragone: That is, 1003 and 1004.
-> Teodomiro: Right! Now keep the number that follows, erase the three numbers after it. Keep the number that follows; erase the four after it. Carry on: each time you leave one number written and erase as many numbers as you erased in the previous step plus one more.
-> Astragone: What is the largest number less than 10000 that remains written on the sheet?
+> Carlo Càssola Astragone While waiting, I wrote all the numbers from 1000 to 10000. Teodomiro Leave the first number, delete the number that follows it. Astragone That is 1001—you could have said so. Teodomiro Do as I tell you! Now leave the next number, delete the two numbers after it. Astragone That is 1003 and 1004. Teodomiro Correct! Now leave the next number, delete the three numbers after it. Leave the next number; delete the four after it. Keep going: each time, leave one number written and delete as many numbers as you deleted in the previous step plus one more. Astragone What are the largest and smallest numbers less than 10000 that remain written on the paper?
 
-**Answer:** 9910
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q12|src_squadre_2023_femminile_qualif__Q12]]
 
 
 
@@ -578,24 +565,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3000
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sides of a triangle (Carlo Càssola)*
+*To Cut a Triangle (Carlo Càssola)*
 
 ![[src_squadre_2023_femminile_qualif__prob13.png]]
 
-> Carlo Càssola
-> Considerable commotion offstage; enter Pucky, loaded with suitcases, with a rope round his neck, and Lozzo, who holds the rope and a whip; he cracks it.
-> Astragone (to Teodomiro): Careful, step back! (Lozzo sees Astragone and Teodomiro and stops. The rope goes taut, holding Pucky back by the neck, and he falls heavily) Is it him?
-> Teodomiro: Who?
-> Astragone: Godol.
-> Po: Let me introduce myself: I am Lozzo. I wanted to ask you: taking at random three positive integers less than 6, pairwise distinct, what is the probability that the chosen numbers are the lengths in metres of the sides of a triangle of non-zero area? [Give as the answer the probability multiplied by 10^4.]
+> Carlo Càssola Considerable commotion offstage; Pucky, laden with suitcases and with a rope around his neck, and Lozzo, who is holding the rope and a whip, enter; Lozzo cracks the whip. Astragone (To Teodomiro) Watch out, get back! (Lozzo sees Astragone and Teodomiro and stops. The rope tightens, holding Pucky by the neck, and Pucky falls heavily.) Is it him? Teodomiro Who? Astragone Godol. Po Let me introduce myself: I am Lozzo. I wanted to ask you: if three distinct positive integers less than 6 are chosen at random, two at a time, what is the probability that the numbers chosen are the lengths in metres of the sides of a triangle with non-zero area? [Give as the answer the probability multiplied by 10^4.]
 
-**Answer:** 3000
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q13|src_squadre_2023_femminile_qualif__Q13]]
 
 
 
@@ -620,22 +605,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 7056
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Inscribed square (Carlo Càssola)*
+*Inscribed Square (Carlo Càssola)*
 
 ![[src_squadre_2023_femminile_qualif__prob14.png]]
 
-> Carlo Càssola
-> Lozzo (to Astragone): In triangle ABC, right-angled at A, inscribe the square ADEF so that the points D and F lie on the legs AB and CA respectively, and E on the hypotenuse. Measure CF and DB.
-> Astragone: CF = 112 cm, DB = 63 cm.
-> Teodomiro: Good! What is the area of ADEF?
+> Carlo Càssola Lozzo (Addressed to Astragone) In right triangle ABC with the right angle at A, inscribe square ADEF so that points D and F lie on the legs AB and CA, respectively, and E lies on the hypotenuse. Measure CF and DB. Astragone: CF = 112 cm, DB = 63 cm. Teodomiro: Well done! What is the area of ADEF?
 
-**Answer:** 7056
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q14|src_squadre_2023_femminile_qualif__Q14]]
 
 
 
@@ -662,7 +647,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1372
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -672,11 +657,12 @@ level: squadre
 
 ![[src_squadre_2023_femminile_qualif__prob15.png]]
 
-> Carlo Càssola
-> Teodomiro (trying not to look at Pucky, talking to himself): What is the power of the factor 7 in the prime factorisation of the factorial 7^7!?
-> Pucky: The factorial of a positive integer n is the product of all positive integers less than or equal to n, right? (Teodomiro nods) [Give as the answer the first four significant digits of the result.]
+> Carlo Càssola Teodomiro (Trying not to look at Pucky, speaking to himself) What is the exponent of the factor 7 in the prime factorization of the factorial 7^7!? Pucky The factorial of a positive integer n is the product of all positive integers less than or equal to n, right? (Teodomiro nods) [Give as the answer the first four significant figures of the result.]
 
-**Answer:** 1372
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q15|src_squadre_2023_femminile_qualif__Q15]]
 
 
 
@@ -706,7 +692,7 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0297
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -716,12 +702,12 @@ level: squadre
 
 ![[src_squadre_2023_femminile_qualif__prob16.png]]
 
-> Giuseppe Rosolini
-> Lozzo (to Teodomiro and Astragone): Take a function such that g(0) = 0, g(1) = 1 and g(n + m) = g(n) ⋅ g(m) for positive numbers n and m. Take also a function such that f(0, m) = 0 and f(n + 1, m) is the product of two sums: the sum 1 + g(m) ⋅ [g(m − f(n, m) − 1) − 1] and the sum 1 + f(n, m).
-> Astragone (writing quickly on the ground): f(2, 0) = 2, f(2, 1) = 0.
-> Lozzo: Of course! But what number is f(235, 532) + f(532, 235)?
+> Giuseppe Rosolini Lozzo (Addressed to Teodomiro and Astragone) Take a function such that g(0) = 0, g(1) = 1, and g(n + m) = g(n) ⋅ g(m) for positive numbers n and m. Also take a function such that f(0, m) = 0 and f(n + 1, m) is the product of two sums: the sum 1 + g(m) ⋅ [g(m − f(n, m) − 1) − 1] and the sum 1 + f(n, m). Astragone (Writes quickly on the ground) f(2, 0) = 2, f(2, 1) = 0. Lozzo Of course! But what number is f(235, 532) + f(532, 235)?
 
-**Answer:** 0297
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q16|src_squadre_2023_femminile_qualif__Q16]]
 
 
 
@@ -744,20 +730,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2820
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Roots of a polynomial (Carlo Càssola)*
+*Roots of a Polynomial (Carlo Càssola)*
 
 ![[src_squadre_2023_femminile_qualif__prob17.png]]
 
-> Carlo Càssola
-> Astragone (walking round Pucky, trying to distract him): If I know that three of the roots of the polynomial x^4 − ax^2 + bx + c are −1, −3 and −4, what are a, b and c? [Give as the answer the value of ab + bc + ac.]
+> Carlo Càssola Astragone (He circles around Pucky, trying to distract him) If I know that three of the roots of the polynomial x^4 − ax^2 + bx + c are −1, −3, and −4, what are the values of a, b, and c? [Give as the answer the value of ab + bc + ac.]
 
-**Answer:** 2820
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q17|src_squadre_2023_femminile_qualif__Q17]]
 
 
 
@@ -794,22 +782,22 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0007
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The carnivorous animal (Luca Renzi)*
+*The Carnivorous Animal (Luca Renzi)*
 
 ![[src_squadre_2023_femminile_qualif__prob18.png]]
 
-> Luca Renzi
-> Lozzo (to Astragone): Put his hat on his head. (Astragone does so, but the hat falls off; Lozzo gets annoyed) Pick up the hat! Put it back on his head; can't you see it has fallen off? (Astragone does so carefully)
-> Pucky (opens his eyes and mouth): ...an island with very strange animals: they are numbered from 1 to 100; they speak, but they only say «yes» or «no»; moreover they always lie... exactly one of them is carnivorous... I want to find out which one... all right, I only ask «Are you carnivorous?» or «Among the animals with a number between n and m (excluding you, if you have one of those numbers) is the carnivorous one present?»
-> Astragone (whispering to Teodomiro): What is the minimum number of questions he must ask to be sure of determining, in any case, the number of the carnivorous animal?
+> Luca Renzi Lozzo (To Astragone): Put the hat on his head. (Astragone does so, but the hat falls off; Lozzo gets annoyed.) Pick up the hat! Put it back on his head—can't you see it's fallen? (Astragone does it carefully.) Pucky (Opens his eyes and mouth): ...an island with very strange animals: they are numbered from 1 to 100; they talk, but they only say "yes" or "no"; moreover, they always lie... exactly one of them is carnivorous... I want to find out which one it is... Okay, I'll just ask, "Are you carnivorous?" or "Among the animals numbered between n and m (excluding you, if you have one of those numbers), is the carnivorous one present?" Astragone (Whispering to Teodomiro): How many questions at minimum must he ask to be sure that, in any case, he will determine the number of the carnivorous animal?
 
-**Answer:** 0007
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q18|src_squadre_2023_femminile_qualif__Q18]]
 
 
 
@@ -855,25 +843,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 1376
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The pendant of tetrahedra (Giuseppe Rosolini)*
+*The Tetrahedron Pendant (Giuseppe Rosolini)*
 
 ![[src_squadre_2023_femminile_qualif__prob19.png]]
 
-> Giuseppe Rosolini
-> Astragone (to Teodomiro): Have you seen the pendant Pucky has round his neck? It is a regular tetrahedron, say with edge ℓ, made up of four regular tetrahedra with half the edge, that is, of length ℓ/2.
-> Teodomiro (studying the pendant closely): And the four tetrahedra rest on a regular octahedron, also with edge ℓ/2.
-> Astragone (they walk round Pucky): Imagine if the octahedron in the pendant were in turn made up of 6 octahedra with edge ℓ/4 resting on regular tetrahedra, also with edge ℓ/4...
-> Teodomiro (walking round faster and faster): Well, I would also decompose each of the 4 tetrahedra with edge ℓ/2 into 4 tetrahedra and an octahedron, each with edge ℓ/4.
-> Astragone (Pucky gets agitated): And if we decomposed each tetrahedron and each octahedron with edge ℓ/4 into tetrahedra and octahedra with edge ℓ/8... (Pucky picks up the suitcases. Lozzo cracks the whip, Pucky moves, they leave the stage)
-> Teodomiro: And if we did it once more, decomposing each tetrahedron and each octahedron with edge ℓ/8 into tetrahedra and octahedra with edge ℓ/16, how many tetrahedra with edge ℓ/16 would there be in the pendant? (They collapse on the ground, out of breath)
+> Giuseppe Rosolini Astragone (To Teodomiro): Have you seen the pendant Pucky has around his neck? It's a regular tetrahedron—let's say with edge length ℓ—made up of four regular tetrahedra with half the edge length, that is, ℓ/2. Teodomiro (Examining the pendant up close): And the four tetrahedra rest on a regular octahedron, also with edge length ℓ/2. Astragone (They circle around Pucky): Can you imagine if the octahedron inside the pendant were in turn made up of 6 octahedra with edge length ℓ/4, resting on regular tetrahedra, also with edge length ℓ/4... Teodomiro (Spinning faster and faster): Well, I'd also break down each of the 4 tetrahedra with edge length ℓ/2 into 4 tetrahedra and an octahedron, each with edge length ℓ/4. Astragone (Pucky is getting restless): And if we broke down each tetrahedron and each octahedron with edge length ℓ/4 into tetrahedra and octahedra with edge length ℓ/8... (Pucky packs his bags. Lozzo cracks the whip; Pucky moves; they exit the stage.) Teodomiro: And if we did it once more—breaking down each tetrahedron and each octahedron with edge length ℓ/8 into tetrahedra and octahedra with edge length ℓ/16—how many tetrahedra with edge length ℓ/16 would there be in the pendant? (They collapse to the ground, out of breath.)
 
-**Answer:** 1376
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q19|src_squadre_2023_femminile_qualif__Q19]]
 
 
 
@@ -897,7 +882,7 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3333
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -907,10 +892,14 @@ level: squadre
 
 ![[src_squadre_2023_femminile_qualif__prob20.png]]
 
-> Sandro Campigotto
-> Astragone: Look, Dodo: I've found a bag with fifteen balls numbered from 1 to 15. If I take out four of them, what is the probability that their sum is a multiple of 3? [Give as the answer the probability multiplied by 10^4.]
+> Sandro Campigotto Astragone Guarda, Dodo: I found a bag with fifteen numbered balls from 1 to
+> 15. If four are drawn, what is the probability?
+> that their sum is a multiple of 3? [Give as the answer the probability multiplied by 10^4.]
 
-**Answer:** 3333
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q20|src_squadre_2023_femminile_qualif__Q20]]
 
 
 
@@ -958,25 +947,19 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0039
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2023_27%20gennaio%20-%20Ga.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2023 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Godol's clock (Silvia Sconza)*
+*Godol's Clock (Silvia Sconza)*
 
 ![[src_squadre_2023_femminile_qualif__prob21.png]]
 
-> Silvia Sconza
-> The boy enters, bows and begins to speak.
-> The boy: Mr Godol has asked me to tell you that he will not come today and to leave you this clock.
-> Teodomiro (taking the clock): The two hands move in jerks.
-> The boy: Yes: the minute hand moves to the next position at the stroke of each minute; the hour hand, when the minute hand passes the mark of the sixtieth minute, jumps to the position of the next hour.
-> Astragone (interrupting): Does the hour hand use only 12 positions?
-> The boy (unruffled): Yes. (He continues) However, the clock beats the minutes in a peculiar way: when the hands show twelve o'clock exactly, after one minute the minute hand moves forward by one minute mark, after another real minute it jumps by two minute marks, after another minute it jumps by three marks, and so on. Mr Godol will come when the two hands of the clock show one o'clock exactly.
-> Teodomiro: You mean that the hour hand is on the one o'clock mark and the minute hand on the mark of the sixtieth minute?
-> The boy: Exactly. (He leaves)
-> Astragone: The hands are on twelve and the clock is ticking. In how many real minutes will the two hands of the clock show one o'clock exactly for the first time?
+> Silvia Sconza Enters. The boy bows and begins to speak. The Boy: Mr. Godol has tasked me with informing you that he will not be coming today and with leaving this clock with you. Teodomiro (Takes the clock): The two hands move in jerks. The Boy: Yes, the minute hand moves to the next position at the stroke of the minute; the hour hand, when the minute hand passes the mark for the sixtieth minute, jumps to the position for the next hour. Astragone (Interrupting): Does the hour hand use only 12 positions? The Boy (Unperturbed): Yes. (Continues:) But the clock strikes the minutes in a peculiar way: when the hands mark twelve o'clock precisely, after one minute the minute hand moves forward by one minute mark; after another real minute it jumps by two minute marks; after another minute it jumps by three marks, and so on. Mr. Godol will come when the two hands of the clock mark one o'clock precisely. Teodomiro: Do you mean that the hour hand is on the one o'clock mark and the minute hand is on the sixtieth-minute mark? The Boy: Exactly. (He leaves.) Astragone: The hands are on twelve, and the clock is ticking. In how many real minutes will the two hands of the clock first mark one o'clock precisely?
 
-**Answer:** 0039
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2023_femminile_qualif#q21|src_squadre_2023_femminile_qualif__Q21]]

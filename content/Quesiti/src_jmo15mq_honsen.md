@@ -29,9 +29,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Flipping 5 in a row monete sulla griglia 17x17 a tutte le code*
+*Capovolgendo monete per ottenere 5 di fila di croci su una griglia 17x17*
 
-> Le monete, ciascuna con una testa (front) e una coda (back) distinguibili, sono disposte in una matrice quadrata $17 \times 17$, tutte posizionate a testa in su. In un'operazione, si lanciano contemporaneamente monete consecutive $5$ in una colonna, monete consecutive $5$ in una riga o monete consecutive $5$ lungo una diagonale. Ripetendo questa operazione un certo numero di volte, è possibile raggiungere lo stato in cui tutte le monete sono in coda?
+> Le monete, ciascuna con un lato testa (fronte) e un lato croce (retro) distinguibili, sono disposte in una griglia quadrata di $17 \times 17$ righe e colonne, tutte con la testa rivolta verso l'alto. In un'operazione, si capovolgono simultaneamente $5$ monete consecutive in una colonna, $5$ monete consecutive in una riga oppure $5$ monete consecutive lungo una diagonale. Ripetendo questa operazione un certo numero di volte, è possibile raggiungere lo stato in cui tutte le monete hanno la croce rivolta verso l'alto?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jmo15mq_honsen#q01|src_jmo15mq_honsen__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I punti di lattice su segmenti di un'orbita polinomica intera periodica sono costanti*
+*I punti del reticolo sui segmenti di un'orbita polinomiale intera periodica sono costanti*
 
-> Lasciate che $P(x,y)$ e $Q(x,y)$ siano polinomi a due variabili con coefficienti interi, e lasciate che $a_0, b_0$ siano interi. Definire le sequenze $a_n, b_n$ da $$a_{n+1}=P(a_n,b_n), \qquad b_{n+1}=Q(a_n,b_n) \qquad (n=0,1,2,\ldots).$$ Supponiamo che $(a_1,b_1)\neq(a_0,b_0)$ ma esiste un intero positivo $k$ con $(a_k,b_k)=(a_0,b_0)$. Dimostrare che il numero di punti del piano che si trovano sul segmento i cui punti terminali sono $(a_n,b_n)$ e $(a_{n+1},b_{n+1})$ e che hanno entrambi i numeri interi $x$ e $y$ non dipende da $n$.
+> Siano $P(x,y)$ e $Q(x,y)$ polinomi a due variabili con coefficienti interi, e siano $a_0, b_0$ numeri interi. Definire le successioni $a_n, b_n$ mediante $$a_{n+1}=P(a_n,b_n), \qquad b_{n+1}=Q(a_n,b_n) \qquad (n=0,1,2,\ldots).$$. Si supponga che $(a_1,b_1)\neq(a_0,b_0)$, ma che esista un numero intero positivo $k$ tale che $(a_k,b_k)=(a_0,b_0)$. Dimostrare che il numero di punti nel piano che giacciono sul segmento avente per estremi $(a_n,b_n)$ e $(a_{n+1},b_{n+1})$ e che hanno sia la coordinata $x$ sia la coordinata $y$ intere non dipende da $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jmo15mq_honsen#q02|src_jmo15mq_honsen__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ineguaglianza a radice cubica per i valori reali positivi che sommano a 1*
+*Disuguaglianza della radice cubica per numeri reali positivi la cui somma è 1*
 
-> $a,b,c$ siano numeri reali positivi che soddisfino $a+b+c=1$. Provare che $$a\sqrt[3]{1+b-c}+b\sqrt[3]{1+c-a}+c\sqrt[3]{1+a-b}\le 1.$$
+> Sia $a,b,c$ un insieme di numeri reali positivi che soddisfano $a+b+c=1$. Dimostrare che $$a\sqrt[3]{1+b-c}+b\sqrt[3]{1+c-a}+c\sqrt[3]{1+a-b}\le 1.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jmo15mq_honsen#q03|src_jmo15mq_honsen__Q03]]
 
 
 
@@ -103,9 +124,15 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conciclicità di X, F, G, H da tangenti e da una sezione di un cerchio*
+*Conciclicità di X, F, G, H a partire da tangenti e da una secante di un cerchio*
 
-> $A,B$ siano due punti su un cerchio $\Gamma$. La tangente di $\Gamma$ a $A$ e la tangente di $\Gamma$ a $B$ si incontrano a un punto $X$. $C,D$ siano due punti su $\Gamma$ in modo tale che $C,D,X$ si trovi su una linea in questo ordine. Supponiamo che la linea $CA$ e la linea $BD$ si incontrino perpendicolare a un punto $F$. Il $G$ è l'intersezione di $CD$ e $AB$, e $H$ è l'intersezione del bisettore perpendicolare di $GX$ con $BD$. Provare che i quattro punti $X,F,G,H$ si trovano su un cerchio.
+> Siano $A,B$ due punti su una circonferenza $\Gamma$. La tangente a $\Gamma$ in $A$ e la tangente a $\Gamma$ in $B$ si incontrano in un punto $X$. Siano $C,D$ due punti su $\Gamma$ tali che $C,D,X$ giacciano su una retta in questo ordine. Si supponga che la retta $CA$ e la retta $BD$ si incontrino perpendicolarmente in un punto $F$. Sia $G$ l'intersezione di $CD$ e $AB$, e sia $H$ l'intersezione della mediatrice di $GX$ con $BD$. Dimostrare che i quattro punti $X,F,G,H$ giacciono su una stessa circonferenza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jmo15mq_honsen#q04|src_jmo15mq_honsen__Q04]]
 
 
 
@@ -128,6 +155,13 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di un incarico senza invidia che non è dominato da un altro*
+*Esistenza di un'assegnazione senza invidia che non è dominata da un'altra*
 
-> Ci sono $10$ subordinati e $10$ posti di lavoro. Per ogni subordinato e per ogni lavoro, due numeri reali, chiamati entusiasmo e capacità di quel subordinato per quel lavoro, sono fissati. Come capo di sezione, lei vuole assegnare esattamente un lavoro a ogni subordinato. Supponiamo che il subordinato $A$ abbia un maggiore entusiasmo per il lavoro $v$ rispetto al lavoro $u$, e inoltre $A$ abbia una maggiore capacità per il lavoro $v$ rispetto al subordinato $B$; quindi, se assegnate $u$ a $A$ e $v$ a $B$, il subordinato $A$ diventa insoddisfatto. Inoltre, se utilizzando un incarico diverso dal tuo è possibile fare in modo che ogni lavoro venga dato a una persona con una maggiore capacità per esso (come nel tuo incarico), allora sei rimproverato dal presidente dell'azienda. Dimostrare che esiste un incarico in cui nessun subordinato è insoddisfatto e che il presidente non ti rimprovera.
+> Ci sono $10$ subordinati e $10$ incarichi. Per ciascun subordinato e per ciascun incarico, vengono fissati due numeri reali, chiamati entusiasmo di quel subordinato per quell'incarico e capacità di quel subordinato per quell'incarico. In qualità di capo sezione, si desidera assegnare esattamente un incarico a ciascun subordinato. Supponiamo che il subordinato $A$ abbia maggiore entusiasmo per l'incarico $v$ che per l'incarico $u$, e inoltre che $A$ abbia maggiore capacità per l'incarico $v$ rispetto al subordinato $B$; allora, se si assegna $u$ a $A$ e $v$ a $B$, il subordinato $A$ diventa insoddisfatto. Inoltre, se, utilizzando un'assegnazione diversa dalla propria, è possibile far sì che ogni incarico venga affidato a una persona con capacità maggiore per quell'incarico (rispetto all'assegnazione propria), allora si viene rimproverati dal presidente dell'azienda. Dimostrare che esiste un'assegnazione in base alla quale nessun subordinato è insoddisfatto e non si viene rimproverati dal presidente.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jmo15mq_honsen#q05|src_jmo15mq_honsen__Q05]]

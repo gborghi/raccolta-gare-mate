@@ -33,15 +33,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Now in San Francisco on arrival of the flight from London*
+*Now in San Francisco, on the arrival of the flight from London*
 
 > A long journey
-> When it is 17:00 in London, it is 09:00 in San Francisco (of the same day). A direct flight
-> London – San Francisco lasts 12 and a half hours. A plane leaves London at 13:05 for a direct flight;
-> what time will it be in San Francisco when the plane arrives? (Write the four digits of the time without the dot,
-> e.g. 1011 for 10.11.)
+> When it is 5:00 p.m. in London, it is 9:00 a.m. in San Francisco (on the same day). A direct flight from London to San Francisco lasts 12 and a half hours. A plane departs from London at 1:05 p.m. on a direct flight; what time will it be in San Francisco when the plane arrives? (Write the four digits of the time without a dot, e.g., 1011 for 10:11.)
 
-**Answer:** 1735
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_squadre_semifinale#q01|src_kangourou_2011_squadre_semifinale__Q01]]
 
 
 
@@ -71,11 +72,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N value with error map scale and price +6%*
+*Value n with map scale error and price +6%*
 
-> What a mistake! Alfredo, a very careless gardener, is assigned to cover with grass a plot of land on which he has a map in scale 1 : n. He calculates the area of his image on the map, multiplies it by n and buys the grass turves that allow him to cover a plot of area equal to the result, spending 14 euros. Once on the spot, he naturally realizes that he needs many more pieces of grass: he goes to buy them, but in the meantime the price has gone up by 6% and he spends 42 euros more than he would have spent if he had bought them together with the first ones. How much is n?
+> What a mistake! Alfredo, a very careless gardener, is tasked with covering a plot of land with turf; he has the map of the plot in a scale of 1:n. He calculates the area of the plot's image on the map, multiplies that by n, and buys the turf rolls needed to cover a plot whose area equals the result obtained, spending 14 euros. Once on site, he naturally realizes that he needs many more turf rolls: he goes and buys them, but in the meantime the price has risen by 6%, and he spends 42 euros more than he would have spent if he had bought them together with the first ones. What is the value of n?
 
-**Answer:** 51
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_squadre_semifinale#q02|src_kangourou_2011_squadre_semifinale__Q02]]
 
 
 
@@ -158,7 +163,7 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure angle X with three squares in the rectangle*
+*Measure angle X using three squares in the rectangle*
 
 ![[src_kangourou_2011_squadre_semifinale__prob3.png]]
 
@@ -216,9 +221,14 @@ level: squadre
 \end{document}
 ```
 
-> Three squares Within a rectangle three squares are arranged as shown in the figure. Some of the angles formed by the various sides present are measured in degrees (the figure is purely indicative, it does not correspond exactly to the measurements declared). What is the value of the measurement in degrees given by X?
+> Three squares
+> Inside a rectangle, 3 squares have been placed as shown in the figure. For some of the angles formed by the various sides present, the measures in degrees are indicated (the figure is purely illustrative and does not exactly reflect the stated measures). What is the measure in degrees indicated by X?
 
-**Answer:** 41
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_squadre_semifinale#q03|src_kangourou_2011_squadre_semifinale__Q03]]
 
 
 
@@ -248,9 +258,14 @@ level: squadre
 
 *Percentage of problems solved by Gigi*
 
-> Carlo and Gigi were assigned some math problems as vacation assignments. The number of problems assigned to Carlo is four times the number of problems assigned to Gigi. When they meet again after the holidays, they find that they have solved the same number of problems, but the percentage of problems Carlo solved is equal to the percentage of problems Gigi did not solve. What's the percentage of problems Gigi solved?
+> Carlo and Gigi
+> Some math problems were assigned to Carlo and Gigi as holiday homework. The number of problems assigned to Carlo is four times the number assigned to Gigi. When they meet again after the holidays, they find that they have solved the same number of problems, but the percentage of problems Carlo solved is equal to the percentage of problems Gigi did not solve. What is the percentage of problems Gigi solved?
 
-**Answer:** 80
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_squadre_semifinale#q04|src_kangourou_2011_squadre_semifinale__Q04]]
 
 
 
@@ -278,16 +293,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cousin's house number (left side, odd numbers)*
+*Cousin's house number (odd numbers on the left side)*
 
-> My cousin and I 
-> On the street where we live, both my cousin and I, there are 17 houses. The houses on the left side are 
-> numbered progressively using all the odd numbers from 1 onward, those on the right side are 
-> numbered progressively using all the even numbers from 2 onward. My house is the last one on the 
-> right side and has the number 12, my cousin's is the last one on the left side. What is the house number 
-> of my cousin?
+> Me and my cousin
+> On the street where both my cousin and I live, there are 17 houses. The houses on the left side are numbered by successively using all the odd numbers starting from 1, and those on the right side are numbered by successively using all the even numbers starting from 2. My house is the last one on the right side and has the number 12; my cousin's house is the last one on the left side. What is my cousin's house number?
 
-**Answer:** 21
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_squadre_semifinale#q05|src_kangourou_2011_squadre_semifinale__Q05]]
 
 
 
@@ -313,11 +328,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum cubes seen simultaneously in the cube 11x11x11*
+*Maximum number of cubes visible simultaneously in an 11x11x11 cube*
 
-> Look at the cube A cube of 11 cm on the side is obtained by approaching cubes of 1 cm on the side. What is the maximum number of these cubes that can be seen simultaneously by a single person?
+> Look at the cube
+> A cube with an edge length of 11 cm is formed by joining together 1-cm cubes. What is the maximum number of these small cubes that a single person can see at the same time?
 
-**Answer:** 331
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_squadre_semifinale#q06|src_kangourou_2011_squadre_semifinale__Q06]]
 
 
 
@@ -343,11 +364,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total numbers are 20 times the sum of the digits*
+*How many integers are 20 times the sum of the digits?*
 
-> How many positive integers, written in decimal notation, are 20 times the sum of their digits? (Write [9999] if you believe there are infinitely many.)
+> Let's add the numbers.
+> How many positive integers, written in decimal notation, are 20 times the sum of their digits? (Write [9999] if you think there are infinitely many.)
 
-**Answer:** 1
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_squadre_semifinale#q07|src_kangourou_2011_squadre_semifinale__Q07]]
 
 
 
@@ -372,12 +399,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the sum 5+10+15+...+300*
+*Sum of 5+10+15+...+300*
 
-> So many addends!  
-> What is the value of the sum 5 + 10 + 15 + … + 295 + 300 ?
+> So many addends! What is the value of the sum 5 + 10 + 15 + … + 295 + 300?
 
-**Answer:** 9150
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_squadre_semifinale#q08|src_kangourou_2011_squadre_semifinale__Q08]]
 
 
 
@@ -404,11 +435,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total figures for the number of articles of the Treaty*
+*Total figures for numbering the articles of the treaty*
 
-> A long treaty A treaty consists of four parts. Its articles are numbered in the first part from 1.1 to 1.59, the second from 2.1 to 2.54, the third from 3.1 to 3.342, and the fourth from 4.1 to 4.10. How many digits in total were written to number all these articles?
+> A long treatise
+> A treaty consists of four parts. Its articles are numbered from 1.1 to 1.59 in the first part, from 2.1 to 2.54 in the second part, from 3.1 to 3.342 in the third part, and from 4.1 to 4.10 in the fourth part. How many digits were written in total to number all these articles?
 
-**Answer:** 1602
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_squadre_semifinale#q09|src_kangourou_2011_squadre_semifinale__Q09]]
 
 
 
@@ -436,11 +473,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in place 2009 in the union of two sequences*
+*Number at position 2009 in the union of two progressions*
 
-> Two progressions Consider the sets of positive integers A ={0, 3, 6, 9, ...} (arithmetic progression with common difference 3 starting from 0) and B = {0, 13, 26, 39, ...} (arithmetic progression with common difference 13 starting from 0). Consider now the set A ∪ B and arrange its elements in ascending order (i.e. A ∪ B = {0, 3, 6, 9, 12, 13, 15, ...}. What number occupies the 2009 position in A ∪ B?
+> Two progressions
+> Consider the sets of positive integers A = {0, 3, 6, 9, …} (an arithmetic progression with common difference 3 starting at 0) and B = {0, 13, 26, 39, …} (an arithmetic progression with common difference 13 starting at 0). Now consider the set A ∪ B and order its elements in ascending order (that is, let A ∪ B = {0, 3, 6, 9, 12, 13, 15, …}). Which number occupies the 2009th position in A ∪ B?
 
-**Answer:** 5220
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_squadre_semifinale#q10|src_kangourou_2011_squadre_semifinale__Q10]]
 
 
 
@@ -468,15 +511,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum distinct integer sums of 10 numbers (one not an integer)*
+*Maximum distinct whole sums of 10 numbers (one of which is not a whole number)*
 
-> Integer results   
-> We are given 10 positive numbers. The only information we have about them is that at least one of 
-> them is not an integer. If they are added in pairs in all possible ways (that is, if two different 
-> ones among them are chosen in all possible ways and added) what is the maximum number of 
-> integer results, all different from each other, that it is possible to obtain?
+> Whole results
+> Ten positive numbers are given. The only information we have about them is that at least one of them is not an integer. If they are added in pairs in all possible ways (that is, if two distinct numbers are chosen in all possible ways and added), what is the maximum number of distinct integer results that can possibly be obtained?
 
-**Answer:** 45
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_squadre_semifinale#q11|src_kangourou_2011_squadre_semifinale__Q11]]
 
 
 
@@ -505,11 +550,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Now meeting cyclist and walker (60 km)*
+*Now: cycling and running meet (60 km)*
 
-> The cyclist and the walker Stefano's house is 60 km from Andrea's. Every Saturday Stefano, a keen cyclist, goes to see Andrea on his bike, leaving at noon, cycling at a steady pace and taking two hours. Today, however, Andrew, who is a good walker, has no time to wait for him. So he decides to go on foot to meet him, leaving at noon. Andrea's speed is also constant and it's 6 km/h. What time will they meet? (Write the time using the digits of a digital clock with no other signs, for example write 1539 to indicate 3 and 39 p.m.)
+> The cyclist and the runner
+> Stefano's house is 60 km from Andrea's. Every Saturday, Stefano, an avid cyclist, goes to visit Andrea by bicycle, setting off at noon, pedaling at a constant speed, and taking two hours. Today, however, Andrea, who is a good walker, doesn't have time to wait for him: so he decides to walk out to meet him, also setting off at noon. Andrea's speed is also constant and is 6 km per hour. What time will they meet? (Write the time using the digits of a digital clock with no other symbols; for example, write 1539 to indicate 3:39 p.m.)
 
-**Answer:** 1340
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_squadre_semifinale#q12|src_kangourou_2011_squadre_semifinale__Q12]]
 
 
 
@@ -536,11 +586,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total matches with 20% teams without wins*
+*Total matches with 20% of teams having no wins*
 
-> The Tournament In a volleyball tournament (where matches cannot end in a draw), each team has played each other twice (home and away). Twenty percent of the teams haven't won a game. How many games were played in total in that tournament?
+> The tournament
+> In a volleyball tournament (where matches cannot end in a draw), each team played twice (home and away) against each of the other teams. 20% of the teams did not win any matches. How many matches were played in total in that tournament?
 
-**Answer:** 20
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_squadre_semifinale#q13|src_kangourou_2011_squadre_semifinale__Q13]]
 
 
 
@@ -572,9 +628,15 @@ level: squadre
 
 *Numbers remaining after repeated deletions (1997 deleted)*
 
-> /deleted numbers The integers from 1 to 2011 included are written in the order: 1, 2, ... , 2011. They are then deleted, in order, the second, fourth, sixth and so on. Then, of the remaining numbers, they are deleted in the order, the third, the sixth, the ninth and so on. Of the remaining numbers, the fourth, eighth, twelfth and so on are now deleted. This criterion continues, increasing the deletion step by one unit over the remaining numbers. The number 1997 has just been deleted: how many numbers are still written?
+> /deleted numbers
+> The integers from 1 to 2011 inclusive are written in order: 1, 2, …, 2011. Then, in order, the second, the fourth, the sixth, and so on are crossed out. Next, from the numbers that remain, the third, the sixth, the ninth, and so on are crossed out in order. From the numbers that remain, the fourth, the eighth, the twelfth, and so on are now crossed out in order. This rule is continued, with the deletion step always increasing by one, applied to the numbers that remain. The number 1997 has just been crossed out: how many numbers are still written?
 
-**Answer:** 673
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_squadre_semifinale#q14|src_kangourou_2011_squadre_semifinale__Q14]]
 
 
 
@@ -610,14 +672,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of books by Elizabeth (novel, poetry, science)*
+*Number of books by Elisabetta (novel, poetry, science)*
 
-> Elisabeth's books She likes to read, so on her birthday she was given books. The genres of books she received were: novel, poetry, science. Three of the books are not novels, four are not books of poetry, five are not science books. How many books did Elizabeth receive as a gift?
-> 
->  
-> Kangourou of Mathematics 2011 Kangourou Team Cup Semifinal round at Cervia, 7 May 2011
->                            
->                        
-> Questions and solutions
+> Elisabetta's books
+> Elisabetta likes reading, so she was given some books for her birthday. The genres of the books she received are: novel, poetry, and science. Three of the books are not novels, four are not poetry books, and five are not science books. How many books did Elisabetta receive as a gift?
+>
+>
+> Kangaroo Mathematics Competition 2011 Team Cup Kangaroo Semifinal Round A Cervia, 7 May 2011
+>
+>
+> Questions and Solutions
 
-**Answer:** 6
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_squadre_semifinale#q15|src_kangourou_2011_squadre_semifinale__Q15]]

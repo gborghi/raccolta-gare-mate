@@ -32,9 +32,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza positiva con ricorrenza non lineare; trovare termini e somme parziali legate*
+*Successione positiva con ricorrenza non lineare; trovare i termini e maggiorare le somme parziali*
 
-> Let $\{a_n\}$ essere una sequenza di numeri reali positivi come $a_1 = \frac{1}{2}$, e per $n \ge 2$, $$a_n^2(a_{n-1}+1) + a_{n-1}^2(a_n+1) - 2a_{n-1}a_n(a_{n-1}+a_n+1) = 0.$$ (1) Trovare $a_n$ per $n \ge 1$. (2) Let $S_n = \sum_{i=1}^n a_i$. Mostra che $\ln\!\left(\frac{n}{2}+1\right) < S_n < \ln(n+1)$.
+> Sia $\{a_n\}$ una successione di numeri reali positivi tale che $a_1 = \frac{1}{2}$, e per $n \ge 2$,
+> $$a_n^2(a_{n-1}+1) + a_{n-1}^2(a_n+1) - 2a_{n-1}a_n(a_{n-1}+a_n+1) = 0.$$
+> (1) Trova $a_n$ per $n \ge 1$. (2) Sia $S_n = \sum_{i=1}^n a_i$. Dimostrare che $\ln\!\left(\frac{n}{2}+1\right) < S_n < \ln(n+1)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_csmo_2021#q01|src_cn_csmo_2021__Q01]]
 
 
 
@@ -57,9 +66,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con AB=BC; dimostrare che l'ortocentro è incentro del triangolo correlato*
+*Triangolo con AB=BC; dimostrare che l'ortocentro è l'incentro del triangolo associato*
 
-> In $\triangle ABC$, $AB = BC$. $O$ e $H$ siano rispettivamente il circondario e l'ortocentro di $\triangle ABC$. $G$ sia il punto medio di $AH$ e $BE$ sia l'altitudine da $B$ a $AC$. Prove che se $OE \parallel BC$, allora $H$ è l'incentro di $\triangle GBC$.
+> In $\triangle ABC$, $AB = BC$. Siano $O$ e $H$ il circocentro e l'ortocentro di $\triangle ABC$, rispettivamente. Sia $G$ il punto medio di $AH$, e sia $BE$ l'altezza condotta da $B$ a $AC$. Dimostrare che, se $OE \parallel BC$, allora $H$ è l'incentro di $\triangle GBC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_csmo_2021#q02|src_cn_csmo_2021__Q02]]
 
 
 
@@ -84,9 +100,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza integrale con somme binomiali ponderate in primo; dimostrare tutti i termini zero*
+*Successione di interi con somme binomiali ponderate da numeri primi; dimostrare che tutti i termini sono nulli*
 
-> Se si dà un primo pari $p$ e una sequenza di numeri interi $\{a_n\}$, $n \ge 0$. Definire la sequenza $$v_n = \sum_{i=0}^n \binom{n}{i} p^i a_i, \quad n \ge 1.$$ Prova: se ci sono infiniti valori di $n$ come $v_n = 0$, allora $v_n = 0$ per tutti $n \ge 0$.
+> Dato un numero primo dispari $p$ e una successione di interi $\{a_n\}$, $n \ge 0$. Definire la successione
+> $$v_n = \sum_{i=0}^n \binom{n}{i} p^i a_i, \quad n \ge 1.$$
+> Dimostrare: se esistono infiniti valori di $n$ tali che $v_n = 0$, allora $v_n = 0$ per tutti gli $n \ge 0$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2021#q03|src_cn_csmo_2021__Q03]]
 
 
 
@@ -111,9 +136,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazioni sul cerchio con cancellazione della catena discendente; trovare numero medio di catene*
+*Permutazioni su cerchio con cancellazione a catena discendente; trovare il numero medio di catene*
 
-> Ci sono punti $n \ge 5$, etichettati $1, 2, \ldots, n$, disposti arbitrariamente su un cerchio. Chiamiamo tale disposizione una permutazione $S$. Per una permutazione $S$, una "catena discendente" è una sequenza in senso orario di punti consecutivi (almeno due) con etichette discendenti che non è una sottocatena di una sequenza più lunga; il "pivot" di una catena discendente è il punto con la più grande etichetta e tutti gli altri punti sono "non pivot". Ad esempio, la permutazione nel senso orario $5, 2, 4, 1, 3$ contiene due catene discendenti $5, 2$ e $4, 1$, dove $5, 4$ sono pivot e $2, 1$ non pivot. Applicare le seguenti operazioni su $S$: prima, trovare tutte le catene discendenti di $S$ e cancellare tutte le catene non pivotanti; poi, se rimane più di un punto, ripetere la ricerca delle catene discendenti e la cancellazione delle catene non pivotanti, e così via, finché non rimane nessuna catena discendente. $G(S)$ sia il numero totale di catene discendenti apparse durante l'intero processo e $A(n)$ sia la media di $G(S)$ su tutte le permutazioni $S$ di $1, 2, \ldots, n$. (1) Trova $A(5)$. (2) Per $n \ge 6$, dimostrare che $\frac{83}{120} + \frac{n-1}{2} \le A(n) \le \frac{101}{120} + \frac{n-1}{2}$.
+> Ci sono $n \ge 5$ punti, etichettati con $1, 2, \ldots, n$, disposti in modo arbitrario su una circonferenza. Tale disposizione viene detta permutazione $S$. Per una permutazione $S$, una "catena discendente" è una sequenza oraria di punti consecutivi (almeno due) con etichette in ordine discendente, che non è una sottocatena di alcuna catena più lunga di questo tipo; il "pivote" di una catena discendente è il punto con l'etichetta più grande, e tutti gli altri punti sono "non pivote". Ad esempio, la permutazione oraria $5, 2, 4, 1, 3$ contiene due catene discendenti $5, 2$ e $4, 1$, dove $5, 4$ sono i pivote e $2, 1$ sono i non pivote. Applicare le seguenti operazioni a $S$: prima, trovare tutte le catene discendenti di $S$ e eliminare tutti i non pivote; poi, se rimangono più di un punto, ripetere il procedimento di ricerca delle catene discendenti e di eliminazione dei non pivote, e così via, finché non rimane alcuna catena discendente. Sia $G(S)$ il numero totale di catene discendenti apparse in tutto il processo, e sia $A(n)$ la media di $G(S)$ su tutte le permutazioni $S$ di $1, 2, \ldots, n$. (1) Determinare $A(5)$. (2) Per $n \ge 6$, dimostrare che $\frac{83}{120} + \frac{n-1}{2} \le A(n) \le \frac{101}{120} + \frac{n-1}{2}$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_csmo_2021#q04|src_cn_csmo_2021__Q04]]
 
 
 
@@ -138,9 +170,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Arrangere i numeri interi 2021 su una linea/circolo con divisibilità consecutiva-43; contare le sequenze valide*
+*Disponi 2021 interi su una linea/un cerchio con divisibilità per 43 tra elementi consecutivi; conta le sequenze valide*
 
-> Per celebrare il 43° anniversario del ripristino delle competizioni matematiche, un amante della matematica organizza i primi interi $2021$ positivi $1, 2, \ldots, 2021$ in una sequenza $\{a_n\}$, in modo tale che qualsiasi numero consecutivo $43$ si somma a un multiple di $43$. (1) Prova che se le due estremità di $\{a_n\}$ sono unite per formare un cerchio, allora tutti i numeri consecutivi $43$ sul cerchio si sommano anche a un multiple di $43$. (2) Determinare il numero di tutte queste sequenze $\{a_n\}$.
+> Per celebrare il 43º anniversario della ripresa delle competizioni matematiche, un appassionato di matematica dispone i primi $2021$ numeri interi positivi $1, 2, \ldots, 2021$ in una successione $\{a_n\}$ tale che la somma di qualsiasi gruppo di $43$ numeri consecutivi sia un multiplo di $43$. (1) Dimostrare che, se le due estremità di $\{a_n\}$ vengono unite a formare un cerchio, allora anche la somma di qualsiasi gruppo di $43$ numeri consecutivi sul cerchio è un multiplo di $43$. (2) Determina il numero di tutte le successioni $\{a_n\}$ di questo tipo.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2021#q05|src_cn_csmo_2021__Q05]]
 
 
 
@@ -165,11 +204,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero ciclico con condizioni di angolo bisector; dimostrare l'uguaglianza del prodotto*
+*Quadrilatero ciclico con condizioni sulle bisettrici degli angoli; dimostrare l'uguaglianza del prodotto*
 
-> Nel quadrilaterale ciclico $ABCD$, $E$ deve essere un punto interno su $BC$, $F$ deve essere un punto su $AE$ e $G$ deve essere un punto sul bisettore esterno di $\angle BCD$, come mostrato nella figura. Prove che $AB \cdot AF = AD \cdot AE$.
+> Nel quadrilatero ciclico $ABCD$, sia $E$ un punto interno su $BC$, sia $F$ un punto su $AE$, e sia $G$ un punto sull'asse bisettrice esterno di $\angle BCD$, in modo che $EG = GF$ e $\angle EAG = \frac{1}{2}\angle BAD$, come mostrato nella figura. Dimostrare che $AB \cdot AF = AD \cdot AE$.
 
 ![[src_cn_csmo_2021__q06.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_csmo_2021#q06|src_cn_csmo_2021__Q06]]
 
 
 
@@ -193,9 +239,17 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove le disuguaglianze relative all'espressione razionale simmetrica alle reciprocità delle differenze*
+*Dimostrare la disuguaglianza che lega un'espressione razionale simmetrica ai reciproci delle differenze*
 
-> Che i valori $a, b, c$ siano positivi reali distinti. Provare che $$\frac{ab+bc+ca}{(a+b)(b+c)(c+a)} < \frac{1}{7}\left(\frac{1}{|a-b|}+\frac{1}{|b-c|}+\frac{1}{|c-a|}\right).$$
+> Siano $a, b, c$ numeri reali positivi distinti. Dimostrare che
+> $$\frac{ab+bc+ca}{(a+b)(b+c)(c+a)} < \frac{1}{7}\left(\frac{1}{|a-b|}+\frac{1}{|b-c|}+\frac{1}{|c-a|}\right).$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_csmo_2021#q07|src_cn_csmo_2021__Q07]]
 
 
 
@@ -221,11 +275,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi (a,b)>1 che soddisfino l'equazione che coinvolge il totiente di Euler*
+*Trovare tutte le coppie di interi (a,b)>1 che soddisfano l'equazione che coinvolge la funzione totiente di Eulero*
 
-> Trova tutte le coppie di integri positivi $(a, b)$ con $a, b > 1$, in modo che $$14\varphi^2(a) - \varphi(ab) + 22\varphi^2(b) = a^2 + b^2,$$, dove $\varphi(n)$ rappresenta il numero di integri positivi inferiori a $n$ e relativamente prime a $n$.
+> Trovare tutte le coppie di interi positivi $(a, b)$ con $a, b > 1$ tali che
+> $$14\varphi^2(a) - \varphi(ab) + 22\varphi^2(b) = a^2 + b^2,$$
+> dove $\varphi(n)$ rappresenta il numero di interi positivi minori di $n$ e coprimi con $n$.
 
-**Risposta:** $(a,b)=(30,6)$
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2021#q08|src_cn_csmo_2021__Q08]]
 
 
 
@@ -251,11 +312,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prima p>=5; residuo di calcolo di una somma ponderata del pavimento modulo p*
+*Primi p>=5; calcola il residuo modulo p della somma ponderata dei piani inferiori*
 
-> $p \ge 5$ sia un numero primo, $M = \{1, 2, \ldots, p-1\}$. Definire $$T = \{(n, x_n) : p \mid (nx_n - 1) \text{ with } n, x_n \in M\}.$$ Trovare il residuo minimo non negativo del modulo $\displaystyle\sum_{(n,x_n)\in T} n\left[\frac{nx_n}{p}\right]$ $p$, dove $[x]$ indica il numero intero più grande inferiore o uguale a $x$.
+> Sia $p \ge 5$ un numero primo, $M = \{1, 2, \ldots, p-1\}$. Si definisca
+> $$T = \{(n, x_n) : p \mid (nx_n - 1) \text{ with } n, x_n \in M\}.$$
+> Si determini il resto non negativo minimo di $\displaystyle\sum_{(n,x_n)\in T} n\left[\frac{nx_n}{p}\right]$ modulo $p$, dove $[x]$ denota il più grande intero minore o uguale a $x$.
 
-**Risposta:** $\frac{p-1}{2}$
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_csmo_2021#q09|src_cn_csmo_2021__Q09]]
 
 
 
@@ -279,9 +347,17 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la disuguaglianza dei reali non negativi sulla sfera unitaria con termini ciclici razionali e produttivi*
+*Dimostrare la disuguaglianza per numeri reali non negativi sulla sfera unitaria con termini ciclici razionali e termini prodotto*
 
-> Date $a, b, c \ge 0$ con $a^2 + b^2 + c^2 \le 1$. Prova: $$\frac{a}{a^2+bc+1}+\frac{b}{b^2+ca+1}+\frac{c}{c^2+ab+1}+3abc < \sqrt{3}.$$
+> Dato $a, b, c \ge 0$ con $a^2 + b^2 + c^2 \le 1$. Dimostrare:
+> $$\frac{a}{a^2+bc+1}+\frac{b}{b^2+ca+1}+\frac{c}{c^2+ab+1}+3abc < \sqrt{3}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_csmo_2021#q10|src_cn_csmo_2021__Q10]]
 
 
 
@@ -306,9 +382,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nomeri del Toro: determinare se il 2021 è qualificato; trovare il conteggio f(n) tra 1..n*
+*Numeri Taurus: determina se il 2021 è idoneo; trova il conteggio f(n) tra 1..n*
 
-> Per un intero positivo $k$, se è possibile rimuovere un numero da $M_k = \{1, 2, \ldots, k\}$ in modo tale che la somma dei numeri $k-1$ rimanenti sia un quadrato perfetto, allora $k$ viene chiamato un "numero Tauro". Ad esempio, $7$ è un numero di Toro, poiché rimuovere $3$ da $\{1,2,3,4,5,6,7\}$ dà la somma $1+2+4+5+6+7 = 5^2$. (1) Determinare con ragionamento se $2021$ sia un numero di Toro. (2) Trova $f(n)$ (in termini di $n$), il numero di numeri di Toro tra $1, 2, \ldots, n$.
+> Per un numero intero positivo $k$, se è possibile rimuovere un numero da $M_k = \{1, 2, \ldots, k\}$ in modo che la somma dei restanti $k-1$ numeri sia un quadrato perfetto, allora $k$ è chiamato "numero Taurus". Ad esempio, $7$ è un numero Taurus, poiché rimuovendo $3$ da $\{1,2,3,4,5,6,7\}$ si ottiene la somma $1+2+4+5+6+7 = 5^2$. (1) Determina, motivando la risposta, se $2021$ è un numero Taurus. (2) Trova $f(n)$ (in funzione di $n$), il numero di numeri Taurus tra $1, 2, \ldots, n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_csmo_2021#q11|src_cn_csmo_2021__Q11]]
 
 
 
@@ -334,11 +417,16 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i rivestimenti ordinati e i rivestimenti non corrispondenti di un insieme di 2n; rapporto connesso*
+*Conteggio delle coperture e delle coperture senza corrispondenza di un insieme di 2n elementi; rapporto di confine*
 
-> $A = \{a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n\}$ deve essere impostato come $2n$ e $B_1, B_2, \ldots, B_m \subseteq A$. Se $\bigcup_{i=1}^m B_i = A$, il doppio ordinato $m$-$(B_1, B_2, \ldots, B_m)$ si chiama copertura ordinata $m$ di $A$. Per un $m$ ordinato che copre $(B_1, B_2, \ldots, B_m)$, se nessun set $B_i$ contiene sia $a_i$ che $b_i$ (per lo stesso indice $i = 1, 2, \ldots, n$), allora è chiamato un "non corrispondente ordinato $m$ di $A$. $k(n,m)$ indichi il numero di coperture ordinate $m$ di $A$ e $a(n,m)$ il numero di coperture ordinate $m$ che non corrispondono. (1) Trova $a(n,m)$ e $k(n,m)$. (2) Per gli integri $m \ge 2$ e $n \ge 1$, supponiamo $\frac{a(n,m)}{k(n,m)} \le \frac{1}{2021}$. Trova il più grande valore possibile di $m$.
+> Sia $A = \{a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n\}$ un insieme $2n$, e sia $B_1, B_2, \ldots, B_m \subseteq A$. Se $\bigcup_{i=1}^m B_i = A$, la n-upla ordinata $m$ $(B_1, B_2, \ldots, B_m)$ è detta copertura ordinata $m$ di $A$. Per una copertura ordinata $m$ $(B_1, B_2, \ldots, B_m)$, se nessun insieme $B_i$ contiene sia $a_i$ sia $b_i$ (per lo stesso indice $i = 1, 2, \ldots, n$), allora essa è detta "copertura ordinata $m$ senza corrispondenze" di $A$. Sia $k(n,m)$ il numero di coperture ordinate $m$ di $A$, e $a(n,m)$ il numero di coperture ordinate $m$ senza corrispondenze. (1) Determinare $a(n,m)$ e $k(n,m)$. (2) Per gli interi $m \ge 2$ e $n \ge 1$, si supponga $\frac{a(n,m)}{k(n,m)} \le \frac{1}{2021}$. Determinare il valore massimo possibile di $m$.
 
-**Risposta:** $m=26$
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_csmo_2021#q12|src_cn_csmo_2021__Q12]]
 
 
 
@@ -363,11 +451,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero ciclico con bisettori angolari e punto medio; prova MF=2MG*
+*Quadrilatero ciclico con bisettrici degli angoli e punto medio; dimostrare che MF=2MG*
 
-> Come mostrato nella figura, nel quadrilaterale ciclico $ABCD$, il bisettore di $\angle BAD$ incontra il lato $BC$ a $E$ e $M$ è il punto medio di $AE$. Il bisettore esterno di $\angle BCD$ attraversa l'estensione di $AD$ a $F$; la linea $MF$ incontra il lato $AB$ a $G$. Se $AB = 2AD$, provare che $MF = 2MG$.
+> Come mostrato nella figura, nel quadrilatero ciclico $ABCD$, la bisettrice di $\angle BAD$ incontra il lato $BC$ in $E$, e $M$ è il punto medio di $AE$. La bisettrice esterna di $\angle BCD$ interseca il prolungamento di $AD$ in $F$; la retta $MF$ incontra il lato $AB$ in $G$. Se $AB = 2AD$, dimostrare che $MF = 2MG$.
 
 ![[src_cn_csmo_2021__q13.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_csmo_2021#q13|src_cn_csmo_2021__Q13]]
 
 
 
@@ -393,11 +488,18 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi dispari (a,b)>1 che soddisfano l'equazione totiente di Euler*
+*Trovare tutte le coppie di interi dispari (a,b)>1 che soddisfano l'equazione della funzione totiente di Eulero*
 
-> Trova tutte le coppie di integri unici $(a, b)$ con $a, b > 1$, in modo tale che $$7\varphi^2(a) - \varphi(ab) + 11\varphi^2(b) = b^2,$$ dove $\varphi(n)$ rappresenta il numero di integri positivi inferiori a $n$ e relativamente primi a $n$.
+> Trovare tutte le coppie di interi dispari $(a, b)$ con $a, b > 1$, tali che
+> $$7\varphi^2(a) - \varphi(ab) + 11\varphi^2(b) = b^2,$$
+> dove $\varphi(n)$ rappresenta il numero di interi positivi minori di $n$ e coprimi con $n$.
 
-**Risposta:** $(a,b)=(15,3)$
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_csmo_2021#q14|src_cn_csmo_2021__Q14]]
 
 
 
@@ -423,8 +525,15 @@ level: China Southeastern Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza con condizione di adiacenza modulare; ridurre al minimo la somma dei quadrati sulle sequenze reali valide*
+*Sequenza con condizione di adiacenza modulare; minimizzare la somma dei quadrati su sequenze reali valide*
 
-> La sequenza di numeri interi $\{z_i\}$ soddisfa: per ogni $i = 1, 2, \ldots$, $z_i \in \{0, 1, \ldots, 9\}$ e $z_i + z_{i+1} \equiv 0 \pmod{10}$. Supponiamo che ci siano $2021$ numeri reali non negativi $x_1, x_2, \ldots, x_{2021}$ che soddisfano $x_i \ge \frac{10-i}{50}$ per tutti $i$, in modo tale che per $k = 1, 2, \ldots, 2021$, $$\sum_{i=1}^k x_i \ge \sum_{i=1}^k \frac{10-i}{50} - z_k.$$ Trovare il minimo valore possibile di $G = \sum_{i=1}^{2021} x_i^2$.
+> La successione di interi $\{z_i\}$ soddisfa: per ogni $i = 1, 2, \ldots$, $z_i \in \{0, 1, \ldots, 9\}$ e $z_i + z_{i+1} \equiv 0 \pmod{10}$. Supponiamo che esistano $2021$ numeri reali non negativi $x_1, x_2, \ldots, x_{2021}$ che soddisfano $x_i \ge \frac{10-i}{50}$ per ogni $i$, in modo tale che, per $k = 1, 2, \ldots, 2021$,
+> $$\sum_{i=1}^k x_i \ge \sum_{i=1}^k \frac{10-i}{50} - z_k.$$
+> Trova il valore minimo possibile di $G = \sum_{i=1}^{2021} x_i^2$.
 
-**Risposta:** $46399.4$
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_csmo_2021#q15|src_cn_csmo_2021__Q15]]

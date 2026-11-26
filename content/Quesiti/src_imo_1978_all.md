@@ -28,9 +28,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare m+n con gli ultimi tre cifre uguali di 1978^m, 1978^n*
+*Minimizza m+n con le ultime tre cifre di 1978^m e 1978^n uguali*
 
-> Siano $m$ e $n$ numeri naturali con $1 \leq m < n$. Nelle rispettive rappresentazioni decimali, le ultime tre cifre di $1978^m$ sono uguali, rispettivamente, alle ultime tre cifre di $1978^n$. Determinare $m$ e $n$ in modo che $m + n$ abbia il valore minimo.
+> Siano $m$ e $n$ numeri naturali tali che $1 \leq m < n$. Nelle loro rappresentazioni decimali, le ultime tre cifre di $1978^m$ sono rispettivamente uguali alle ultime tre cifre di $1978^n$. Determinare $m$ e $n$ in modo che $m + n$ assuma il suo valore minimo.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_1978_all#q01|src_imo_1978_all__Q01]]
 
 
 
@@ -52,9 +58,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Luogo del vertice opposto Q di raggi perpendicolari nella sfera*
+*Luogo geometrico del vertice opposto Q dei raggi perpendicolari nella sfera*
 
-> Sia $P$ un punto fisso interno a una sfera data. Tre raggi mutuamente perpendicolari uscenti da $P$ intersecano la sfera nei punti $U$, $V$ e $W$; sia $Q$ il vertice diagonalmente opposto a $P$ nel parallelepipedo individuato da $PU$, $PV$ e $PW$. Si determini il luogo descritto da $Q$ al variare di tali terne di raggi uscenti da $P$.
+> $P$ è un punto dato all'interno di una sfera data. Tre raggi mutuamente perpendicolari uscenti da $P$ intersecano la sfera nei punti $U$, $V$ e $W$; $Q$ denota il vertice diagonalmente opposto a $P$ nel parallelepipedo determinato da $PU$, $PV$ e $PW$. Si determini il luogo geometrico di $Q$ per tutte le triadi di raggi di tal genere uscenti da $P$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1978_all#q02|src_imo_1978_all__Q02]]
 
 
 
@@ -81,7 +93,7 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare f(240)*
+*Trovare f(240)*
 
 > L'insieme di tutti gli interi positivi è l'unione di due sottoinsiemi disgiunti $\{f(1), f(2), \ldots, f(n), \ldots\}$ e $\{g(1), g(2), \ldots, g(n), \ldots\}$, dove
 > $$f(1) < f(2) < \cdots < f(n) < \cdots,$$
@@ -89,6 +101,12 @@ level: IMO
 > e
 > $$g(n) = f(f(n)) + 1 \quad \text{for all } n \geq 1.$$
 > Determinare $f(240)$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_1978_all#q03|src_imo_1978_all__Q03]]
 
 
 
@@ -111,9 +129,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto medio della corda dei punti di tangenza PQ è il centro della circonferenza inscritta*
+*Il punto medio della corda di tangenza PQ è il centro dell'incircolo*
 
-> Nel triangolo $ABC$, $AB = AC$. Una circonferenza è tangente internamente alla circonferenza circoscritta al triangolo $ABC$ e inoltre tangente ai lati $AB$, $AC$ nei punti $P$, $Q$ rispettivamente. Si dimostri che il punto medio del segmento $PQ$ è l'incentro del triangolo $ABC$.
+> Nel triangolo $ABC$, $AB = AC$. Un cerchio è tangente internamente al cerchio circoscritto al triangolo $ABC$ e inoltre è tangente ai lati $AB$, $AC$ rispettivamente nei punti $P$, $Q$. Dimostrare che il punto medio del segmento $PQ$ è il centro dell'incircolo del triangolo $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1978_all#q04|src_imo_1978_all__Q04]]
 
 
 
@@ -136,10 +161,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*somma da k=1 a n di a_k / k^2 >= somma da k=1 a n di 1/k*
+*la somma di a_k/k^2 è maggiore o uguale della somma di 1/k*
 
-> Siano $\{a_k\}$ ($k = 1, 2, 3, \ldots$) due successioni di interi positivi distinti. Si dimostri che per ogni numero naturale $n$,
+> Sia $\{a_k\}$ ($k = 1, 2, 3, \ldots$) una successione di interi positivi distinti. Dimostrare che, per ogni numero naturale $n$,
 > $$\sum_{k=1}^{n} \frac{a_k}{k^2} \geq \sum_{k=1}^{n} \frac{1}{k}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1978_all#q05|src_imo_1978_all__Q05]]
 
 
 
@@ -161,6 +192,12 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Membro il cui numero è somma/doppio dei membri dello stesso paese*
+*Membro il cui numero è la somma o il doppio dei membri dello stesso paese*
 
-> Un'associazione internazionale ha membri provenienti da sei paesi diversi. L'elenco dei membri contiene 1978 nomi, numerati $1, 2, \ldots, 1978$. Si dimostri che esiste almeno un membro il cui numero è uguale alla somma dei numeri di due membri del suo stesso paese, oppure è il doppio del numero di un membro dello stesso paese.
+> Una società internazionale ha i propri membri provenienti da sei paesi diversi. L'elenco dei membri contiene 1978 nomi, numerati $1, 2, \ldots, 1978$. Dimostrare che esiste almeno un membro il cui numero è la somma dei numeri di due membri del suo stesso paese, oppure è il doppio del numero di un membro del suo stesso paese.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1978_all#q06|src_imo_1978_all__Q06]]

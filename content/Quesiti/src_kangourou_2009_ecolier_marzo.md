@@ -36,11 +36,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For what amount is change needed (coins)*
+*For what amount is the change (coins) needed?*
 
-> You have a five-euro banknote, a two-euro coin and a one-euro coin in your pocket and you must pay one of the following amounts: A) 3 € B) 4 € C) 6 € D) 7 € E) 8 € For which of these must you necessarily wait for change?
+> You have a 5-euro banknote, a 2-euro coin, and a 1-euro coin in your pocket, and you need to pay one of the following amounts.
+> A) 3 €
+> B) 4 €
+> C) 6 €
+> D) 7 €
+> E) 8 €
+> For which of them must you necessarily wait for the rest?
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q01|src_kangourou_2009_ecolier_marzo__Q01]]
 
 
 
@@ -74,13 +84,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many cubes did Anna take away?
+*How many cubes did Anna take away?*
 
 ![[src_kangourou_2009_ecolier_marzo__prob2.png]]
 
-> Using all equal cubes to each other and only leaning them on each other, Charles built a large cube of 3 cubes on each side. To disregard him, his younger sister Anna removed some cubes from the large cube, and Charles kept the structure you see in the picture. How many cubes did Anna take away? A) 6 B) 8 C) 10 D)12 E) 16
+> Using cubes that were all identical and simply placing them one on top of another, Carlo built a large cube with 3 cubes on each side. To tease him, his little sister Anna removed some cubes from the large cube, and Carlo was left with the structure you see in the figure. How many cubes did Anna take away?
+> A) 6
+> B) 8
+> C) 10
+> D)12
+> E) 16
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q02|src_kangourou_2009_ecolier_marzo__Q02]]
 
 
 
@@ -110,9 +129,18 @@ How many cubes did Anna take away?
 
 *Ends of six and a half sticks*
 
-> Four sticks have a total of eight ends. How many ends do six and a half sticks have in all? A) 6 B) 8 C) 12 D) 13 E) 14
+> Four sticks have a total of eight ends. How many ends do six and a half sticks have in total?
+> A) 6
+> B) 8
+> C) 12
+> D) 13
+> E) 14
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q03|src_kangourou_2009_ecolier_marzo__Q03]]
 
 
 
@@ -148,13 +176,23 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum buttons to convert 930 to 806*
+*Minimum number of buttons to turn 930 into 806*
 
 ![[src_kangourou_2009_ecolier_marzo__prob4.png]]
 
-> In the first line of the figure you see the number 930, obtained by illuminating some squares on a screen. Each square can be switched from illuminated to off or vice versa by pressing a button. You want to get the number 806 that appears in the second line: what is the smallest number of buttons you need to press to get the goal? A) 5 B) 6 C) 7 D) 8 E) 9
+> In the first row of the figure, you see the number 930,
+> Obtained by illuminating some small squares on a screen. Each small square can be switched from illuminated to off or vice versa by pressing a button. You want to obtain the number 806 that appears in the second row: what is the smallest number of buttons you need to press to achieve the goal?
+> A) 5
+> B) 6
+> C) 7
+> D) 8
+> E) 9
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q04|src_kangourou_2009_ecolier_marzo__Q04]]
 
 
 
@@ -191,13 +229,24 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times 6 in four rounds with a total of 23*
+*How many times does 6 appear in four throws with a total of 23?*
 
-> Enrica has thrown a die four times. The faces of the die are numbered from 1 to 6 and, adding up the scores on each roll, Enrica has totaled 23. How many times did she get 6? A) 0 B) 1 C) 2 D) 3 E) 4 Texts_09.qxp 15-04-2009 20:23 Page 5
-> 
-> Pag. 6 Kang 2009
+> Enrica rolled a die four times. The faces of the die are numbered from 1 to 6, and by adding up the scores obtained in each roll, Enrica got a total of 23. How many times did she get a 6?
+> A) 0
+> B) 1
+> C) 2
+> D) 3
+> E) 4
+> Testi_09.qxp 15-04-2009 20:23 Page 5
+>
+> Pag. Pag. 6 Kang 2009 Kang 2009
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q05|src_kangourou_2009_ecolier_marzo__Q05]]
 
 
 
@@ -230,13 +279,22 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Line length joining the centers of the leaflets*
+*Length of the line joining the centers of the leaflets*
 
 ![[src_kangourou_2009_ecolier_marzo__prob6.png]]
 
-> Antonio glued 10 rectangular sheets on the table, all of them equal in size, as shown in the figure; the sides of the sheets are 4 and 6 centimeters. On them Antonio drew the line marked in bold, constructed by connecting the centers of the sheets by means of straight lines. How many centimeters is the line traced by Antonio? A) 24 B) 40 C) 46 D) 50 E) 56
+> Antonio has glued 10 rectangular slips, all identical to one another, onto the table in the arrangement shown in the figure; the sides of the slips measure 4 and 6 centimeters. On them, Antonio has drawn the line marked in bold, which is formed by joining the centers of the slips with straight line segments. How many centimeters long is the line drawn by Antonio?
+> A) 24
+> B) 40
+> C) 46
+> D) 50
+> E) 56
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q06|src_kangourou_2009_ecolier_marzo__Q06]]
 
 
 
@@ -273,9 +331,18 @@ How many cubes did Anna take away?
 
 ![[src_kangourou_2009_ecolier_marzo__prob7.png]]
 
-> Peter had a chocolate bar divided into squares. He gave a five-square strip to his brother and a seven-square strip to his sister; the strips were removed from the bar as shown in the figure. How many squares did the chocolate bar initially consist of? A) 20 B) 40 C) 50 D) 60 E) 80
+> Pietro had a chocolate bar divided into small squares. He gave his brother a strip of 5 squares and his sister a strip of 7 squares; the strips were broken off from the bar as shown in the figure. How many squares was the chocolate bar made up of initially?
+> A) 20
+> B) 40
+> C) 50
+> D) 60
+> E) 80
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q07|src_kangourou_2009_ecolier_marzo__Q07]]
 
 
 
@@ -311,13 +378,25 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum colours for the vertices of the cube*
+*Minimum number of colors for the vertices of the cube*
 
 ![[src_kangourou_2009_ecolier_marzo__prob8.png]]
 
-> You have a cube and you want to color each of the vertices by following the rule: two vertices that are at the ends of the same edge must receive different colors. What's the smallest number of colors that allows you to achieve your goal? A) 2 B) 3 C) 4 D) 6 E) 8 Questions from N. 9 to N. 16 are worth 4 points each.
+> There is a cube, and you want to color each of its vertices.
+> Following the rule that two vertices at the ends of the same edge must be given different colors. What is the smallest number of colors that will allow you to achieve your goal?
+> A) 2
+> B) 3
+> C) 4
+> D) 6
+> E) 8
+> Questions 9 to 16 are each worth 4 points.
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q08|src_kangourou_2009_ecolier_marzo__Q08]]
 
 
 
@@ -347,11 +426,20 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many Tuesdays boys=girls*
+*From how many Tuesdays, boys=girls*
 
-> There are currently 25 boys and 19 girls in a dance school. Starting next Tuesday, two boys and three girls will be added every Tuesday. How many Tuesdays will the number of girls be equal to the number of boys? A) 6 B) 5 C) 4 D) 3 E) 2
+> At a dance school, there are currently 25 boys and 19 girls. Starting next Tuesday, 2 boys and 3 girls will be added every Tuesday. After how many Tuesdays will the number of girls equal the number of boys?
+> A) 6
+> B) 5
+> C) 4 
+> D) 3
+> E) 2
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q09|src_kangourou_2009_ecolier_marzo__Q09]]
 
 
 
@@ -400,37 +488,31 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many tick marks on the 10 cm ruler*
+*How many dashes on a 10-cm ruler?*
 
 ![[src_kangourou_2009_ecolier_marzo__prob10.png]]
 
-> The figure represents a ruler exactly 10 centimeters long. The millimeters are indicated
-> by the vertical tick marks. How many of these tick marks are there?
+> The figure shows a ruler that is exactly 10 centimetres long. The millimetres are indicated by vertical dashes. How many of these dashes are there?
 > A) 101
 > B) 95
 > C) 98
 > D) 99
 > E) 100
-> 11.One side of a rectangle is 8 centimeters long and is twice
-> the other side. How many centimeters long is the side of a square that has
-> the same perimeter as the rectangle?
+> 11. One side of a rectangle is 8 centimeters long and is twice as long as the other side. How many centimeters long is the side of a square that has the same perimeter as the rectangle?
 > A) 4
 > B) 6
 > C) 8
 > D) 12
 > E) 24
-> brother
-> sister
-> 1
-> 2
-> Testi_09.qxp  15-04-2009  20:23  Page 6
-> 
-> Pag. 
-> Pag. 7
-> Kang 2009
-> Kang 2009
+> brother sister 1 2 Testi_09.qxp 15-04-2009 20:23 Page 6
+>
+> Pag. Pag. 7 Kang 2009 Kang 2009
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q10|src_kangourou_2009_ecolier_marzo__Q10]]
 
 
 
@@ -453,11 +535,15 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of the square isoperimetric to the rectangle*
+*Area of the isoperimetric square relative to the rectangle*
 
-> 11. Answer B) The perimeter of the rectangle measures () 24482 =+ cm., so the side of the square is 6 cm long.
+> 11. Answer B) The perimeter of the rectangle is () 24482 =+ cm, so the side of the square is 6 cm long.
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q11|src_kangourou_2009_ecolier_marzo__Q11]]
 
 
 
@@ -509,7 +595,7 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many ways to complete Sudoku 4x4*
+*In how many ways can a 4x4 Sudoku be completed?*
 
 ![[src_kangourou_2009_ecolier_marzo__prob12.png]]
 
@@ -529,9 +615,20 @@ How many cubes did Anna take away?
 \end{document}
 ```
 
-> You want to complete the 4 x 4 grid in the figure by entering a number chosen from 1, 2, 3, 4 in each of the remaining boxes. You want to do this so that in every row, in every column and in each of the four 2 x 2 subgrids highlighted, each number appears once and only once. How many different ways can you accomplish your purpose? A) 1 B) 2 C) 4 D) 8 E) It is impossible to achieve what is required.
+> Do you want to complete the 4 x 4 grid in the figure by inserting
+> In each of the remaining empty cells, place a number chosen from 1, 2, 3, 4. You want to do this so that, in each row, each column, and each of the four highlighted 2 x 2 sub-grids, each number appears exactly once. In how many different ways can you achieve your goal?
+> A) 1
+> B) 2
+> C) 4
+> D) 8
+> E) It is impossible to accomplish what is requested.
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q12|src_kangourou_2009_ecolier_marzo__Q12]]
 
 
 
@@ -564,21 +661,23 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two-digit number with the most toothpicks*
+*A two-digit number with more toothpicks*
 
 ![[src_kangourou_2009_ecolier_marzo__prob13.png]]
 
-> The ten digits in the figure are constructed
-> by suitably placing toothpicks all equal to each other. Among the two-digit
-> numbers, I constructed the one that requires
-> the use of the greatest quantity of toothpicks. How many did I use?
+> The ten digits in the figure are constructed.
+> By appropriately joining together toothpicks that are all identical to one another. Among two-digit numbers, I have constructed the one that requires the greatest number of toothpicks to be used. How many toothpicks did I use?
 > A) 10
 > B) 11
 > C) 12
 > D) 13
 > E) 14
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q13|src_kangourou_2009_ecolier_marzo__Q13]]
 
 
 
@@ -608,11 +707,20 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many mushrooms has Bice collected*
+*How many mushrooms has Bice gathered?*
 
-> Anna, Bice and Carla collected a total of seven mushrooms. Each of them collected at least one mushroom, but each collected a different number of mushrooms from each of the other two. Anna collected the least of them all and Carla the most. How many mushrooms did Bice collect? A) 1 B) 2 C) 3 D) 4 E) The situation described cannot have occurred.
+> Anna, Bice, and Carla have collected a total of 7 mushrooms. Each of them has collected at least one mushroom, but each has collected a different number of mushrooms from each of the other two. Anna has collected fewer than all the others, and Carla has collected more than all the others. How many mushrooms has Bice collected?
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) The situation described cannot have occurred.
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q14|src_kangourou_2009_ecolier_marzo__Q14]]
 
 
 
@@ -639,13 +747,18 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What figure of the domino you can't make*
+*Which domino piece can't you make?*
 
 ![[src_kangourou_2009_ecolier_marzo__prob15.png]]
 
-> You have the two dominoes you see in the figure, and you're free to place them side by side as you please. Which of the following figures can't you make?
+> You have the two domino tiles shown in the figure, and you are
+> You're free to combine them however you like. Which of the following figures can't you make?
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q15|src_kangourou_2009_ecolier_marzo__Q15]]
 
 
 
@@ -686,13 +799,22 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What time does the clock go back to*
+*What time does the clock that runs backward show?*
 
-> At 6:15, your digital clock, which at that time marked the exact time, fell to the ground and began to go backwards, yet keeping the exact time. At 19:30, you looked at the clock again. What time did it say? A) 17:00 B) 17:45 C) 18:30 D) 19:00 E) 19:15 1 2 3 4 A B C D E Texts_09.qxp 15-04-2009 20:23 Page 7
-> 
-> The questions from N. 17 to N. 24 are worth five points each.
+> At 6:15, your digital clock, which at that time showed the exact time, fell to the ground and began to run backwards—yet it still kept exact time all along. At 19:30, you looked at the clock again: what time did it indicate?
+> A) 17:00
+> B) 17:45
+> C) 18:30
+> D) 19:00        E) 19:15
+> 1 2 3 4 A B C D E Testi_09.qxp 15-04-2009 20:23 Page 7
+>
+> Questions 17 to 24 are each worth 5 points.
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q16|src_kangourou_2009_ecolier_marzo__Q16]]
 
 
 
@@ -721,11 +843,20 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many different digits in the sum of 1+11+...*
+*How many different digits are there in the sum 1+11+...?*
 
-> You've calculated the following sum 1 + 11 + 111 + ... + 111111111 + 1111111111 which is the sum of the first ten integers that you can write using only the number 1. How many different digits do you see in the result? A) 2 B) 5 C) 8 D)9 E) 10
+> You have calculated the following sum: 1 + 11 + 111 + … + 111111111 + 1111111111; this is the sum of the first ten whole numbers that you can write using only the digit 1. How many digits, all different from one another, appear in the result?
+> A) 2
+> B) 5
+> C) 8
+> D)9
+> E) 10
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q17|src_kangourou_2009_ecolier_marzo__Q17]]
 
 
 
@@ -757,9 +888,18 @@ How many cubes did Anna take away?
 
 *Seconds to exit the viaduct (train)*
 
-> A 180-meter-long train takes five seconds to pass a person. Shortly thereafter, the train enters a 360-meter viaduct. If the speed of the train remains the same, how many seconds pass from the moment the train enters the viaduct to the moment the last carriage leaves? A) 15 B) 10 C) 20 D)30 E) 25
+> A 180-metre-long train takes 5 seconds to pass in front of a person. Shortly afterward, the train enters a 360-metre-long viaduct. If the train's speed remains the same, how many seconds pass from the moment the train enters the viaduct to the moment the last carriages exit it?
+> A) 15
+> B) 10
+> C) 20
+> D)30
+> E) 25
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q18|src_kangourou_2009_ecolier_marzo__Q18]]
 
 
 
@@ -793,22 +933,22 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many houses between Gino and Silvia*
+*How many houses between Gino and Silvia?*
 
 ![[src_kangourou_2009_ecolier_marzo__prob19.png]]
 
-> Gino's and Silvia's houses are on the same side of the same street.
-> Before Gino's house there are
-> another 27 houses, after it there are
-> another 13. Silvia's house instead has as many houses to its left as to its right. How many houses are there between Gino's and
-> Silvia's (without counting theirs)?
+> Gino's and Silvia's houses are on the same side of the same street. Before Gino's house, there are 27 other houses; after it, there are 13 other houses. Silvia's house, however, has as many houses to its left as to its right. How many houses are there between Gino's house and Silvia's house (not counting their houses)?
 > A) 6
 > B) 7
 > C) 8
 > D) 14
 > E) 21
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q19|src_kangourou_2009_ecolier_marzo__Q19]]
 
 
 
@@ -839,11 +979,21 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What code (sum of even numbers = odd)*
+*Which code (sum of even digits = odd)?*
 
-> A secret code is made up of 6 digits; the sum of the digits in even positions is equal to the sum of the digits in odd positions. The code certainly corresponds to one of the following, where the figures indicated with * are unreadable. Which one? A) 81**61 B) 7*727* C) 4*4141 D) 12*9*8    E) 181*2*
+> A secret code consists of 6 digits; the sum of the digits in even positions equals the sum of the digits in odd positions. The code must certainly correspond to one of the following, where the digits indicated by
+> * are illegible. Which one?
+> A) 81**61
+> B) 7*727*
+> C) 4*4141
+> D) 12*9*8    E) 181*2*
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q20|src_kangourou_2009_ecolier_marzo__Q20]]
 
 
 
@@ -888,32 +1038,24 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many stickers did he have in 2006 (Fibonacci)*
+*How many stickers did you have in 2006 (Fibonacci)?*
 
-> Giorgio collects footballer stickers. Each year the number of
-> his stickers is the sum of the numbers of his stickers in the two
-> immediately preceding years. Last year Giorgio had 60 stickers and
-> this year he has 96. How many stickers did he have in 2006?
+> Giorgio collects football player stickers. Each year, the number of his stickers is the sum of the numbers of his stickers in the two immediately preceding years. Last year, Giorgio had 60 stickers, and this year he has 96. How many stickers did he have in 2006?
 > A) 20
 > B) 24
 > C) 36
 > D) 40
 > E) 48
-> Pag. 
-> Pag. 8
-> Kang 2009
-> Kang 2009
-> Gino
-> 27
-> 13
-> Testi_09.qxp  15-04-2009  20:23  Pagina 8
-> 
-> Pag. 
-> Pag. 9
-> Kang 2009
-> Kang 2009
+> Pag. Pag. 8 Kang 2009 Kang 2009 Gino 27 13 Testi_09.qxp 15-04-2009 20:23 Page 8
+>
+> Pag. Pag. 9 Kang 2009 Kang 2009
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_backward|Working backwards]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q21|src_kangourou_2009_ecolier_marzo__Q21]]
 
 
 
@@ -946,11 +1088,22 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Next palindrome number after 15951*
+*Next palindromic number after 15951*
 
-> A palindrome number is a number that remains the same if it is read from right to left instead of from left to right: for example, numbers 101 and 1221 are palindromes, while number 1231 is not. My car's meter now has the palindrome number 15951. How many kilometres will I have to travel to get the next palindrome number? A) 100 B) 110 C) 710 D) 900 E) 1010
+> A palindromic number is a number that remains the same when read from right to left instead of from left to right: for example, the numbers 101 and 1221 are palindromic, whereas the number 1231 is not. The odometer on my car now shows a palindromic number.
+> 15951. How many kilometres will I have to travel for the number to appear?
+> Next palindrome?
+> A) 100
+> B) 110
+> C) 710
+> D) 900
+> E) 1010
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q22|src_kangourou_2009_ecolier_marzo__Q22]]
 
 
 
@@ -1002,15 +1155,30 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which line corresponds to XYYYXX*
+*Which line corresponds to XYYYXX?*
 
 ![[src_kangourou_2009_ecolier_marzo__prob23.png]]
 
-> John drew a line consisting of a few straight segments. At the end of each segment he always turned at right angles, either to the right or to the left with respect to the direction of arrival. At each turn, he recorded on a separate sheet one of the symbols X or Y: one of the two, you don't know which, always indicates that he turned left, the other that he turned right. On the separate sheet is the sequence XYYYXX: which of the following could be the line drawn by John from the point W? 24.In the village of Piedistrani each inhabitant has the left foot longer than one or two numbers compared to the right foot. The shops, however, are like the rest of the world: they sell paired shoes, a right shoe and a left shoe of the same number. To save money, some of Piedistrani's friends decide to get together and buy the shoes together, then pair them together in the way that suits them. In doing so, each one takes two shoes and one of the number 36 and one of the number 45 remain unused. So the minimum possible number of these friends is A) 5 B) 6 C) 7 D) 8 E) 9 W W W W A) B) C) D) E) Texts_09.qxp 15-04-2009 20:23 Page 9
-> 
-> 2009 Ecolier Category For fourth and fifth year students of primary school
+> Giovanni drew a line made up of several straight line segments. At the end of each segment, he always turned at a right angle—either to the right or to the left relative to the direction he had come from. At each change of direction, he recorded one of the symbols X or Y on a separate sheet of paper: one of the two—you don't know which—always indicates that he turned left, and the other indicates that he turned right. On the separate sheet, the sequence XYYYXX appears: among the following, which line might Giovanni have drawn starting from point W? 24. In the country of Piedistrani, every inhabitant has a left foot that is one or two sizes larger than their right foot. The shops, however, are like those in the rest of the world: they sell shoes in pairs, one right shoe and one left shoe of the same size. To save money, some friends from Piedistrani decide to join forces and buy the shoes all together, and then pair them in the way that suits them best. In doing so, each person takes two shoes, and one size 36 shoe and one size 45 shoe remain unused. Then the minimum possible number of these friends is
+> A) 5
+> B) 6
+> C) 7
+> D) 8
+> E) 9
+> A)
+> B)
+> C)
+> D)
+> E)
+> Testi_09.qxp 15-04-2009 20:23 Page 9
+>
+> 2009 Ecolier Category For fourth- and fifth-grade elementary school students
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q23|src_kangourou_2009_ecolier_marzo__Q23]]
 
 
 
@@ -1034,8 +1202,13 @@ How many cubes did Anna take away?
 <div class="qlang-split" data-lang="en"></div>
 
 
-Minimum number of friends (footwear)
+*Minimum number of friends (Piedistrani shoes)*
 
-> 24. Answer A) To go from number 36 to 45 by buying the minimum number of pairs of shoes you will need to have 5 pairs of shoes that differ by two numbers and 1 that differ by a number from the previous one (e.g. shoes no.36,38,40,42,44,45). So we're going to have 12 shoes that, if you discard left foot 36 and right foot 45, will serve five friends.
+> 24. Answer A) To go from size 36 to 45 by buying the minimum number of pairs of shoes, you will need 5 pairs that differ by two sizes and 1 pair that differs by one size from the previous one (for example, shoes in sizes 36, 38, 40, 42, 44, 45). So we will have 12 shoes which, after discarding the left shoe in size 36 and the right shoe in size 45, will serve 5 friends.
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2009_ecolier_marzo#q24|src_kangourou_2009_ecolier_marzo__Q24]]

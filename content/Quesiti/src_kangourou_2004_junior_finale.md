@@ -29,11 +29,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-There are bases where 15x15=321
+*Whether there are bases in which the expression is correct*
 
 > Are there bases in which the expression $15 \times 15 = 321$ is correct?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** base 6
+[[Quesiti/src_kangourou_2004_junior_finale#qj1|src_kangourou_2004_junior_finale__QJ1]]
 
 
 
@@ -57,11 +60,15 @@ There are bases where 15x15=321
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer pairs with x^2+y^2+xy=1*
+*For which pairs of integers the equation holds*
 
-> For which pairs of $(x, y)$ relative integers is $x^2 + y^2 + xy = 1$ true?
+> For which pairs $(x, y)$ of integers is it true that $x^2 + y^2 + xy = 1$?
 
-**Answer:** 6 pairs
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Answer:** 6 coppie
+[[Quesiti/src_kangourou_2004_junior_finale#qj2|src_kangourou_2004_junior_finale__QJ2]]
 
 
 
@@ -84,11 +91,14 @@ There are bases where 15x15=321
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Five numbers from pairwise sums*
+*Which numbers were written on the slips*
 
-> I wrote as many positive integers on five sheets. Adding them two by two in every possible way, I get the following ten results: $17, 20, 28, 14, 36, 28, 25, 31, 39$ and $42$. What numbers did I write?
+> I wrote on 5 slips as many positive integers. Adding them two at a time in every possible way, I obtain the following ten results: $17, 20, 28, 14, 36, 28, 25, 31, 39$ and $42$. Which numbers did I write?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Answer:** 3,11,14,17,25
+[[Quesiti/src_kangourou_2004_junior_finale#qj3|src_kangourou_2004_junior_finale__QJ3]]
 
 
 
@@ -137,7 +147,7 @@ There are bases where 15x15=321
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area ratio A'B'C' / ABC (symmetry)*
+*The ratio of the area of A'B'C' to that of ABC*
 
 ```tikz
 \begin{document}
@@ -164,9 +174,13 @@ There are bases where 15x15=321
 \end{document}
 ```
 
-> Given a triangle $ABC$ right-angled at $C$, consider the points $A'$ the reflection of $A$ with respect to $BC$, $B'$ the reflection of $B$ with respect to $AC$ and $C'$ the reflection of $C$ with respect to $AB$. What is the ratio of the area of $A'B'C'$ to that of $ABC$?
+> Given a triangle $ABC$ right-angled at $C$, consider the points $A'$, the reflection of $A$ in $BC$, $B'$, the reflection of $B$ in $AC$, and $C'$, the reflection of $C$ in $AB$. What is the ratio of the area of $A'B'C'$ to that of $ABC$?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** 3
+[[Quesiti/src_kangourou_2004_junior_finale#qj4|src_kangourou_2004_junior_finale__QJ4]]
 
 
 
@@ -193,15 +207,18 @@ There are bases where 15x15=321
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Configuration with non-negative row/column sums*
+*Whether every row and every column can be made to have a non-negative sum*
 
-> Each cell of a rectangular table consisting of $m$ rows and $n$ columns contains an integer. The allowed moves are:
-> - changing the signs of the elements of an entire row
-> - changing the signs of the elements of an entire column.
-> 
-> Is it true that after a suitable number of these moves, every row consists of elements whose sum is non-negative and likewise every column? Justify.
+> Each cell of a rectangular table formed by $m$ rows and $n$ columns contains an integer. The allowed moves are:
+> - change the signs of the entries of a whole row
+> - change the signs of the entries of a whole column.
+>
+> Is it true that after a suitable number of these moves, every row consists of entries whose sum is not negative, and likewise every column? Justify.
 
-**Answer:** yes
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Answer:** si
+[[Quesiti/src_kangourou_2004_junior_finale#qj5|src_kangourou_2004_junior_finale__QJ5]]
 
 
 
@@ -225,8 +242,12 @@ There are bases where 15x15=321
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Permutation of 1..9 with progressive divisibility*
+*Whether the digits can be permuted so, and whether the permutation is unique*
 
-> Can the $1, 2, 3, 4, 5, 6, 7, 8, 9$ digits be exchanged so that for each $n \in \{1, 2, \ldots, 8, 9\}$ the number formed by the first $n$ digits (from left) is divisible by $n$? If so, is the permutation unique?
+> Is it possible to permute the digits $1, 2, 3, 4, 5, 6, 7, 8, 9$ so that for every $n \in \{1, 2, \ldots, 8, 9\}$ the number formed by the first $n$ digits (starting from the left) is divisible by $n$? If so, is the permutation unique?
 
-**Answer:** 381654729 unique
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Answer:** 381654729 unica
+[[Quesiti/src_kangourou_2004_junior_finale#qj6|src_kangourou_2004_junior_finale__QJ6]]

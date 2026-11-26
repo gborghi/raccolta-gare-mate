@@ -31,9 +31,18 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Real roots of square x^2-p) + 2 square x^2-1) = x*
+*Real roots of a nested-radical equation in a parameter p*
 
-> Find all the real roots of the equation $$\sqrt{x^2 - p + 2\sqrt{x^2 - 1}} = x,$$ where $p$ is a real parameter.
+> Find all real roots of the equation
+> $$\sqrt{x^2 - p + 2\sqrt{x^2 - 1}} = x,$$
+> where $p$ is a real parameter.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imho_1963#q01|src_imho_1963__Q01]]
 
 
 
@@ -63,11 +72,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Luogo di vertici di angoli retti con un lato per A*
+*Luogo dei vertici di angoli retti con un lato per A*
 
-> 1963/6.
->
-> Cinque studenti, A, B, C, D ed E, hanno partecipato a un concorso. Una prima previsione era che i concorrenti si classificassero nell'ordine ABCDE. Questa previsione era molto scarsa: in effetti nessun concorrente ha ottenuto il posto previsto, e nessuna coppia di concorrenti previsti consecutivi si è effettivamente classificata in posizioni consecutive. Una seconda previsione era che i concorrenti si classificassero nell'ordine DAECB. Questa previsione era migliore: esattamente due dei concorrenti hanno ottenuto i posti previsti, e due coppie disgiunte di studenti previsti consecutivi si sono effettivamente classificati in posizioni consecutive. Determinare l'ordine in cui i concorrenti si sono classificati.
+> 1963/6. Cinque studenti, A, B, C, D, E, hanno partecipato a una gara. Una previsione era che i concorrenti si sarebbero classificati nell'ordine ABCDE. Questa previsione era molto scarsa. Infatti nessun concorrente si è classificato nella posizione prevista, e nessuna coppia di concorrenti per i quali era stata prevista una classificazione consecutiva si è effettivamente classificata in modo consecutivo. Una seconda previsione prevedeva che i concorrenti si classificassero nell'ordine DAECB. Questa previsione era migliore. Esattamente due dei concorrenti si sono classificati nelle posizioni previste, e due coppie disgiunte di studenti per i quali era stata prevista una classificazione consecutiva si sono effettivamente classificate in modo consecutivo. Determinare l'ordine in cui i concorrenti si sono classificati.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1963#q02|src_imho_1963__Q02]]
 
 
 
@@ -93,9 +107,15 @@ level: IMO
 
 *provare equilatero*
 
-> In un $n$-agono in cui tutti gli angoli interni sono uguali, le lunghezze di lati consecutivi soddisfano la relazione
-> $$a_1 \geq a_2 \geq \cdots \geq a_n.$$.
-> Si dimostri che $a_1 = a_2 = \cdots = a_n$.
+> In un $n$-gono in cui tutti gli angoli interni sono uguali, le lunghezze dei lati consecutivi soddisfano la relazione
+> $$a_1 \geq a_2 \geq \cdots \geq a_n.$$
+> Dimostrare che $a_1 = a_2 = \cdots = a_n$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1963#q03|src_imho_1963__Q03]]
 
 
 
@@ -122,9 +142,16 @@ level: IMO
 
 *Sistema ciclico di 5 equazioni con parametro y*
 
-> Determinare tutte le soluzioni $x_1, x_2, x_3, x_4, x_5$ del sistema
+> Trovare tutte le soluzioni $x_1, x_2, x_3, x_4, x_5$ del sistema
 > $$\begin{cases} x_5 + x_2 = y x_1 \\ x_1 + x_3 = y x_2 \\ x_2 + x_4 = y x_3 \\ x_3 + x_5 = y x_4 \\ x_4 + x_1 = y x_5, \end{cases}$$
 > dove $y$ è un parametro.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1963#q04|src_imho_1963__Q04]]
 
 
 
@@ -147,9 +174,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-This is the total number of samples taken from the sample.
+*A cosine identity at multiples of π/7*
 
 > Prove that $\cos \dfrac{\pi}{7} - \cos \dfrac{2\pi}{7} + \cos \dfrac{3\pi}{7} = \dfrac{1}{2}$.
+
+**Topic:** [[topic_trigonometria|Trigonometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imho_1963#q05|src_imho_1963__Q05]]
 
 
 
@@ -174,4 +208,11 @@ This is the total number of samples taken from the sample.
 
 *Determinare l'ordine di arrivo dei cinque studenti*
 
-> Cinque studenti, $A$, $B$, $C$, $D$, $E$, hanno partecipato a un concorso. Una previsione era che i concorrenti si classificassero nell'ordine $ABCDE$. Questa previsione fu molto scarsa. In effetti, nessun concorrente si classificò nel posto previsto, e nessuna coppia di concorrenti previsti consecutivi si classificò effettivamente in posizioni consecutive. Una seconda previsione prevedeva che i concorrenti si classificassero nell'ordine $DAECB$. Questa previsione fu migliore. Esattamente due dei concorrenti si classificarono nei posti previsti, e due coppie disgiunte di studenti che erano stati previsti consecutivi si classificarono effettivamente in posizioni consecutive. Determinare l'ordine in cui i concorrenti si classificarono.
+> Cinque studenti, $A$, $B$, $C$, $D$, $E$, hanno partecipato a una gara. Una previsione era che i concorrenti avrebbero concluso la gara nell'ordine $ABCDE$. Questa previsione era molto scarsa. Infatti, nessun concorrente ha concluso la gara nella posizione prevista, e nessuna coppia di concorrenti per i quali era stata prevista una conclusione consecutiva si è effettivamente classificata in modo consecutivo. Una seconda previsione prevedeva che i concorrenti concluserebbero la gara nell'ordine $DAECB$. Questa previsione era migliore. Esattamente due dei concorrenti hanno concluso la gara nelle posizioni previste, e due coppie disgiunte di studenti per i quali era stata prevista una conclusione consecutiva si sono effettivamente classificate in modo consecutivo. Determinare l'ordine in cui i concorrenti hanno concluso la gara.
+
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1963#q06|src_imho_1963__Q06]]

@@ -43,11 +43,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value k for which the polynomial is divisible by 57x-1*
+*Value of k for which the polynomial is divisible by 57x-1*
 
-> Ferb hasn't finished his vacation homework yet. He just lacks to find the value of k for which the polynomial 3 2 167 54 1 kx x x   is divisible by 57 1 x . Phineas decided to wait for Ferb to decide what to do today. Needless to say, after a few seconds, Ferb had the solution. What value did you find?
+> THE LAST ASSIGNMENT (Carlo Càssola) Ferb hasn't finished his holiday homework yet. All he has left to do is find the value of k for which the polynomial 3 2 167 54 –1 kx x x   is divisible by 57 1 x . Phineas has decided to wait for Ferb before deciding what to do today. Needless to say, within a few seconds Ferb had the solution. What value did he find?
 
-**Answer:** 228
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2025_femminile#q01|src_squadre_2025_femminile__Q01]]
 
 
 
@@ -93,11 +96,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of infinite areas of triangles with mean points*
+*Sum of infinite areas of triangles with midpoints*
 
-> What Are We Doing Today? Phineas and Ferb help Baljeet build a portal to Mars. It 's about tracing a triangle on the metal any ABC of area 2 2025 cm . Then you take 1A , midpoint on the AC side , 1B , midpoint on the BC side , and you plot the triangle 1 1A B C . It continues in the same way, constructing 2 A middle point of 1AC and 2 B middle point of 1B C and tracing the triangle 2 2 A B C. By continuing infinitely and supplying the whole with an amount of current equal to the sum of all the areas of all the triangles traced (in 2 cm ), the portal to Mars will be opened. With this invention, Baljeet will win the Science Fair. But how much current will it need to power the portal?
+> What Are We Doing Today? (Carlo Càssola) Phineas and Ferb help Baljeet build a portal to Mars. The task is to draw on a metal surface an arbitrary triangle ABC with an area of 2 2025 cm². Then take 1A, the midpoint of side AC, and 1B, the midpoint of BC, and draw triangle 1 1 A B C. Continue in the same way, constructing 2 A as the midpoint of 1AC and 2 B as the midpoint of 1B C, and drawing triangle 2 2 A B C. If this process is carried on indefinitely and the whole setup is powered by an amount of current equal to the sum of the areas of all the triangles drawn (in 2 cm), the portal to Mars will open. With this invention, Baljeet will win the Science Fair. But how much current will he need to power the portal?
 
-**Answer:** 2700
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2025_femminile#q02|src_squadre_2025_femminile__Q02]]
 
 
 
@@ -122,11 +128,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ball beam inscribed in triangular tetrahedron*
+*Radius of the sphere inscribed in a trirectangular tetrahedron*
 
-> Hey, is that Perry? In the meantime, Dr. Doofenshmirtz is testing his Bicarbonator Volcano with the intention of eroding it to cover the entire city of Danville. Fortunately, Agent P. It's already in action. The Vulcan is a tetrahedron $ABCV$ with $AV = BV = CV = 6\text{ m}$ and $\widehat{AVB} = \widehat{BVC} = \widehat{CVA} = 90^\circ$. Perry has to find a ball to trap inside him to prevent it from erupting. What will be the radius, in millimeters, of the perfectly inscribed sphere in the volcano that will allow Agent P. To save the city?
+> Hey, where's Perry? (Santina De Monte) Meanwhile, Dr. Doofenshmirtz is testing his Volcano Bicarbonator with the intention of making it erupt until it covers the entire city of Danville. Fortunately, Agent P. is already on the case. The volcano is a tetrahedron $ABCV$ with $AV = BV = CV = 6\text{ m}$ and $\widehat{AVB} = \widehat{BVC} = \widehat{CVA} = 90^\circ$. Perry must find a sphere to fit inside it to prevent the eruption. What will be the radius, in millimeters, of the sphere perfectly inscribed in the volcano that will allow Agent P. to save the city?
 
-**Answer:** 1267
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2025_femminile#q03|src_squadre_2025_femminile__Q03]]
 
 
 
@@ -157,11 +167,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Invariant 5x5 grids for 90 degree rotation*
+*5x5 grids invariant under 90-degree rotations*
 
-> STAVOLT SET YOURSELF FUCKED! (Michelangelo Sabatini) Candace is in her room, on the phone with her friend Stacy, when, looking out the window, she sees Phineas and Ferb in the garden building a rocket. She then goes down to her mom's living room to report them, but she's busy: she's coloring square grids. It colours each box either red or green so that, by rotating the grid relative to the central box at an angle of 90,180 or 270 the grid remains colored as if it had not been rotated. Mom won't pay any attention to Candace until she's done. How many grids will it take to build?
+> This Time You've Really Been Caught! (Michelangelo Sabatini) Candace is in her room, on the phone with her friend Stacy, when, leaning out the window, she sees Phineas and Ferb in the garden building a rocket. She then goes down to the living room to tell her mom about them, but Mom is busy: she's coloring 5×5 square grids. She colors each cell either red or green in such a way that, when the grid is rotated about the central cell by an angle of 90°, 180°, or 270°, the grid remains colored as if it hadn't been rotated. Mom won't pay attention to Candace until she's finished. How many grids will have to be made?
 
-**Answer:** 128
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2025_femminile#q04|src_squadre_2025_femminile__Q04]]
 
 
 
@@ -191,11 +205,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers 5 digits with remainder 3 mod 4 and reversed remainder 3 mod 5*
+*5-digit numbers with remainder 3 mod 4 and reversed numbers with remainder 3 mod 5*
 
-> NANI DA GARDINO (Carlo Càssola) The summer and the heat are becoming more and more felt: Phineas and Ferb decide to set up a large beach to invite anyone who wants to have fun. In the meantime, Agent P. He's committed to stopping Doofenshmirtz, who this time wants to eliminate all the garden dwarfs in the world, as he's haunted by bad memories of his childhood. Perry manages to destroy the Sucker by destroying it while it's in operation, so all the dwarves are raining from the sky to the beach. But how many were there? They were as many as the five-digit numbers that give 3 if divided by 4, and when they're written in reverse, they give 3 if divided by 5. How many of the little ones did Doofenshmirtz steal?
+> GARDEN GNOMES (Carlo Càssola) Summer and the heat are making themselves felt more and more: Phineas and Ferb decide to set up a big beach where they can invite anyone who wants to have fun. Meanwhile, Agent P is busy stopping Doofenshmirtz, who this time wants to eliminate all the garden gnomes in the world, since he is tormented by unpleasant memories tied to his childhood. Perry manages to destroy the Gnome-Sucker by destroying it while it's in operation, so all the little gnomes rain down from the sky onto the beach. But how many were there? There were as many as the five-digit numbers that leave a remainder of 3 when divided by 4 and, when written in reverse, leave a remainder of 3 when divided by 5. How many little gnomes did Doofenshmirtz steal?
 
-**Answer:** 5000
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2025_femminile#q05|src_squadre_2025_femminile__Q05]]
 
 
 
@@ -226,11 +244,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum movements to force a monochromatic equilateral triangle*
+*Minimum moves to force a monochromatic equilateral triangle*
 
-> For the first time ever, Phineas and Ferb decide not to do anything. But Candace suspects something and, worried about losing her spy job, decides to provoke her brothers. Phineas challenges Candace to a game. It takes an infinite tessellation covering the plane made of congruent equilateral triangles. With each move, Phineas chooses a vertex of a triangle and Candace can decide whether to color it red or blue. Phineas wins the game if he can color the same three points of the plane that are vertices of any equilateral triangle. Ferb's already calculated that it won't take many moves. What's the minimum number of moves Phineas will need, assuming Candace plays the smartest way possible to keep him from winning?
+> The Best Day of Doing Absolutely Nothing (Michelangelo Sabatini) For the very first time ever, Phineas and Ferb decide to do absolutely nothing. But Candace suspects something and, worried that she might lose her "job" as a spy, decides to provoke her brothers. Phineas challenges Candace to a game. He takes an infinite tiling of the plane made up of congruent equilateral triangles. On each move, Phineas chooses a vertex of a triangle, and Candace can decide whether to color it red or blue. Phineas wins the game if he can get three points in the plane—points that are vertices of some equilateral triangle—colored the same color. Ferb has already calculated that it won't take many moves. What is the minimum number of moves Phineas will need, assuming Candace plays in the smartest possible way to keep him from winning?
 
-**Answer:** 7
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2025_femminile#q06|src_squadre_2025_femminile__Q06]]
 
 
 
@@ -262,11 +284,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure AB with orthocenter circocenter and parallel HO*
+*Triangle AB with orthocenter coinciding with circumcenter and HO parallel*
 
-> The boys are sad because Danville's mini golf is closed, so they decide to build one. For the first hole they construct an ABC triangle with the hole in H orthocentric and the departure in O circocentric of the triangle. Between O and H they place an obstacle but they make HO parallel to AB with a distance of 10 dm. If 22 dm HO , what is AB, always in dm?
+> MINI-GOLF, MAXI-PASSION (Simona Pieri) The kids are sad because the minigolf course in Danville is closed; so they decide to build one. For the first hole, they construct triangle ABC, with the hole at H, the orthocenter, and the starting point at O, the circumcenter of the triangle. Between O and H, they place an obstacle but arrange for HO to be parallel to AB with a distance of 10 dm. If HO = 22 dm, how long is AB, also in dm?
 
-**Answer:** 56
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2025_femminile#q07|src_squadre_2025_femminile__Q07]]
 
 
 
@@ -295,11 +322,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular triangles with 20 rectangles in 4 directions*
+*Right-angled triangles of 20 straight lines in 4 directions*
 
-> The two brothers build a computer that knows everything about everyone to find out what will make their mom happiest as a birthday present. To test it, they ask him how many distinct rectangular triangles form by tracing 20 lines in the Cartesian plane, 5 parallel to the axis of the axes, 5 parallel to the axis of the orders, 5 parallel to the bisector of the first and third quadrants and 5 parallel to the bisector of the second and fourth quadrants. The answer they get is correct. Now they'll be able to find the perfect gift for Mom. What was the response from the supercomputer?
+> THE SUPERCOMPUTER (Simone Bertone) The two brothers build a computer that knows everything about everyone in order to find out what will please their mother most as a birthday gift. To test it, they ask it how many distinct right-angled triangles are formed by drawing 20 lines in the Cartesian plane: 5 parallel to the x-axis, 5 parallel to the y-axis, 5 parallel to the bisector of the first and third quadrants, and 5 parallel to the bisector of the second and fourth quadrants. The answer they get is correct. Now they will be able to find the right gift for their mother. What answer did the supercomputer give?
 
-**Answer:** 500
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2025_femminile#q08|src_squadre_2025_femminile__Q08]]
 
 
 
@@ -328,11 +359,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of left hands with 490 extra handshakes between right hands*
+*Left-handed numbers, with 490 more handshakes among right-handed ones*
 
-> It's Phineas' birthday and his 50 friends decide to throw him a surprise party, recalling with a video the funniest moments they've had up to that point. Candace would like to take over the video to give it to Mom, but a strange beam of Dr. Doofenshmirtz, diverted by Perry, accidentally destroys the video. At the time of the greeting, Phineas notes that in the group of 50 friends, each right hand shakes the other right hand and only the other left, while each left hand shakes the other left hand. Ferb reveals that there were 490 more handshakes between the right hands than there were between the left. How many of Phineas' left friends are there?
+> A Birthday Well Worth Seeing (Michelangelo Sabatini) It's Phineas's birthday, and his 50 friends decide to throw him a surprise party, recreating in a video the funniest moments they've experienced up to that point. Candace would like to seize the video and give it to Mom, but a strange beam from Dr. Doofenshmirtz, deflected by Perry, accidentally destroys the video. At the time of goodbyes, Phineas notices that, within the group of 50 friends, each right-handed person shakes hands with all and only the other right-handed people, while each left-handed person shakes hands with all and only the other left-handed people. Ferb reveals that there were 490 more handshakes among the right-handed people than among the left-handed people. How many of Phineas's friends are left-handed?
 
-**Answer:** 15
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2025_femminile#q09|src_squadre_2025_femminile__Q09]]
 
 
 
@@ -375,11 +409,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n with a_n<1 in geometric progression*
+*Minimum n such that a_n < 1 in a geometric progression*
 
-> In the meantime, Doofenshmirtz decides to use her switch-post-inator to put hair on the bald, removing it from those who have it, so she can sell her new hair regrowth product. To make the machine work, however, it must calculate what is the minimum n so 1 na  where na is the second term of a geometric progression of positive rational with 1 1 a  as the first term and such that   3 1361 32 a  . He didn't deal with Agent P, who intervenes promptly to disrupt his plans. What value would Dr. Doofenshmirtz to implement his evil plan?
+> DIVINE JUSTICE (Simona Pieri) Meanwhile, Doofenshmirtz decides to use his Swap-Places-Inator to put hair on bald heads by taking hair away from those who have it, so that he can sell his new hair-regrowth product. To make the machine work, however, he must calculate the smallest n for which 1 na , where na is the nth term of a geometric progression with a positive common ratio, a first term greater than 1, and such that   3 1361 32 a a . He hadn't reckoned with Agent P, who steps in promptly to thwart his plans. What value would have been of use to Dr. Doofenshmirtz in carrying out his diabolical plan?
 
-**Answer:** 2026
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2025_femminile#q10|src_squadre_2025_femminile__Q10]]
 
 
 
@@ -410,11 +447,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Green balls with the same colour as different*
+*Green balls with the same probability, color the same or different*
 
-> While Phineas, Ferb, and their friends build a spa, Doofenshmirtz adopts a kitten and decides to name it Pelosetto Calzoncino. The latter, however, causes him a series of accidents, including flying the sky with the annuvolinator; Perry is sent to investigate the incident. The agent finds out that the kitten has a box with 45 red balls. Perry, in order to distract the cat, decides to insert a number of green phosphorescent balls into the box so that the probability of extracting two balls of the same color simultaneously is equal to the probability of extracting two balls of a different color. Pelosetto gets hit by the balls and inadvertently fires a beam that destroys the Spa. How many green balls did Perry put in? (Give the sum of the squares of all possible solutions as an answer.)
+> A Day at the Wellness Center (Carlo Càssola) While Phineas, Ferb, and their friends build a spa, Doofenshmirtz adopts a kitten and decides to name it Calzoncino Pelosetto. However, the kitten causes him a series of accidents, including clouding the sky with the Cloudifier; Perry is sent to investigate what happened. The agent discovers that the kitten has a box containing 45 red balls. To distract the cat, Perry decides to put a certain number of phosphorescent green balls into the box so that the probability of drawing two balls of the same color at the same time is equal to the probability of drawing two balls of different colors. Calzoncino Pelosetto is impressed by the balls and inadvertently activates a beam that destroys the spa. How many green balls did Perry put in? (Give as the answer the sum of the squares of all possible solutions.)
 
-**Answer:** 4321
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2025_femminile#q11|src_squadre_2025_femminile__Q11]]
 
 
 
@@ -443,11 +483,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of cows in the pasture forever, grass growing
+*Maximum cows grazing forever, grass growing*
 
-> Nearby grass (Sandro Campigotto) Phineas proposes to turn the grass behind the house into a pasture. After two quick calculations, Ferb concluded that the present grass, plus the one growing daily, would be enough for 100 cows, who could eat for 40 days before all the grass runs out. Phineas then re-calculates and discovers that 90 cows could graze for 65 days. Assuming that each cow eats at the same constant rate and that the grass grows at the same constant rate, what is the maximum number of cows that could graze forever without ever running out of grass?
+> The Grass of the Nearby Meadow (Sandro Campigotto) Phineas suggests turning the meadow behind the house into a pasture. After two quick calculations, Ferb has concluded that the grass that's there now, plus the grass that grows every day, would be enough for 100 cows, which could eat for 40 days before all the grass ran out. Phineas then recalculates and finds that 90 cows could graze for 65 days. Assuming each cow eats at the same constant rate and the grass also grows at a constant rate, what is the maximum number of cows that could graze forever without ever running out of grass?
 
-**Answer:** 74
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2025_femminile#q12|src_squadre_2025_femminile__Q12]]
 
 
 
@@ -503,11 +547,15 @@ Maximum number of cows in the pasture forever, grass growing
 <div class="qlang-split" data-lang="en"></div>
 
 
-*p(14) with functional equation and p(10)=100*
+*p(14) with a functional equation and p(10)=100*
 
-> During an afternoon at the ice cream parlor, Phineas drops his ice cone on Buford's pants, sparking the bull's anger. Buford then decides to challenge Phineas to a chicken tournament. Meanwhile, Doofenshmirtz has built a hypnotizing machine to control people's minds and force them to celebrate his birthday. Only Agent P. It can save humanity! While Doofenshmirtz would like to activate the machine, inserting the value (14) p of a polynomial ( ) p x such that 2 2 ( ) ( ) (2) x p x p x p x   known only as   10 100 p  , Perry deflects the base of the machine by dropping it and destroying it. What value would it have allowed Dr. Doofenshmirtz to see the whole world celebrate his birthday?
+> DOWN WITH BULLIES (Simone Bertone) One afternoon at the ice cream parlor, Phineas drops his ice cream cone onto Buford's pants, unleashing the bully's fury. Buford therefore decides to challenge Phineas to a thumb-wrestling tournament. Meanwhile, Doofenshmirtz has built a hypnotizing machine to control people's minds and force them to celebrate his birthday. Only Agent P can save humanity! While Doofenshmirtz would like to activate the machine by entering the value (14) p of a polynomial ( ) p x such that 2 2 ( ) ( ) (2 ) x p x p x p x   , knowing only that   10 100 p  , Perry unscrews the base of the machine, causing it to plunge and be destroyed. Which value would have allowed Dr. Doofenshmirtz to see the whole world celebrating his birthday?
 
-**Answer:** 200
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2025_femminile#q13|src_squadre_2025_femminile__Q13]]
 
 
 
@@ -547,11 +595,15 @@ Maximum number of cows in the pasture forever, grass growing
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of a cubic polynomial with 3 distinct whole roots*
+*Probability: cubic polynomial with 3 distinct integer roots*
 
-> What's the matter, boys? Hit by one of Doofenshmirtz's rays, Phineas and Ferb lose their creativity. Candace tries to make them recover, subjecting them to various creative stimuli. Desperate, she writes the polynomial 3 2 10 x ax bx    and states that a , b can only be distinct integers with absolute value less than or equal to 7. He asks the two brothers to calculate the probability that the polynomial has 3 distinct whole roots. Something awakens in the subconscious of the two brothers who give the correct answer together. What response did they give to their sister? (Give the sum between numerator and denominator of the fraction reduced to minimum terms.)
+> What's Gotten Into You, Guys? (Santina de Monte) Struck by one of Doofenshmirtz's rays, Phineas and Ferb lose their creativity. Candace tries to help them regain it by exposing them to various creative stimuli. In desperation, she writes the polynomial 3 2 10 x ax bx    and states that a and b can only be distinct integers with an absolute value less than or equal to 7. She asks the two brothers to calculate the probability that the polynomial has 3 distinct integer roots. Something awakens in the subconscious of the two brothers, and together they give the correct answer. What answer did they give their sister? (Give as the result the sum of the numerator and denominator of the fraction reduced to lowest terms.)
 
-**Answer:** 106
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2025_femminile#q14|src_squadre_2025_femminile__Q14]]
 
 
 
@@ -586,11 +638,15 @@ Maximum number of cows in the pasture forever, grass growing
 <div class="qlang-split" data-lang="en"></div>
 
 
-*HCK angle in a rectangular triangle with hinges*
+*Angle HCK in a right-angled triangle with angle bisectors*
 
-> On a rainy day, Phineas and Ferb create a shrink to grow small and play hide-and-seek with their friends. The radius operates by means of a triangular component ABC: a rectangular triangle in C , where the angles ˆ BAC and ˆ ABC intersect BC and AC in P and Q respectively. Called H and K the feet of the perpendiculars from P and Q over AB , the radius that starts from H reaches C and returns to K . What is the angle of HCK ?
+> SMALL IS BEAUTIFUL (Simona Pieri) On a rainy day, Phineas and Ferb build a shrinker so they can become small and play hide-and-seek with their friends. The beam works thanks to a triangular component ABC: a right triangle at C, in which the angle bisectors of ∠BAC and ∠ABC intersect BC and AC at P and Q, respectively. Let H and K be the feet of the perpendiculars from P and Q to AB; the beam starts at H, reaches C, and returns to K. What is the measure of ∠HCK?
 
-**Answer:** 45
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2025_femminile#q15|src_squadre_2025_femminile__Q15]]
 
 
 
@@ -652,11 +708,15 @@ Maximum number of cows in the pasture forever, grass growing
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pyramid volume known volume part removed from the plan*
+*Volume of the pyramid, known volume of the part removed by the plane*
 
-> Phineas and Ferb build pyramids with a triangular base ABC of V vertices capable of creating all kinds of traps. To test it, they test themselves trying to get out of the pyramid. Unfortunately, a transition beam of Doofenshmirtz cuts through the top of the pyramid. If the plane generated by the beam has passed through the points 'A , 'B and 'C belonging to the AV , BV , CV beams respectively , with 1 '2 A V AV  , 1 '3 B V BV  and 1 '4 C V CV  , what is the volume of the ABCV pyramid known that the volume of the 'VA part 'B C removed from the beam is 3 71 m ?
+> ESCAPE FROM THE TOWER: PHINEAS (Simona Pieri) Phineas and Ferb build a triangular-based pyramid ABC with vertex V, capable of creating every kind of trap. To test it, they put themselves to the test by trying to get out of the pyramid. Unfortunately, a cutting beam from Doofenshmirtz cuts off the tip of the pyramid. If the plane generated by the cutting beam passes through the points A', B', and C', which lie on the edges AV, BV, and CV respectively, with 1/2 AV' = AV, 1/3 BV' = BV, and 1/4 CV' = CV, what is the volume of pyramid ABCV, given that the volume of the part VA'B'C' removed by the cutting beam is 71 m³?
 
-**Answer:** 1704
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2025_femminile#q16|src_squadre_2025_femminile__Q16]]
 
 
 
@@ -698,11 +758,16 @@ Maximum number of cows in the pasture forever, grass growing
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Common tangent length PQ at two semicircumferences*
+*Length of the common tangent PQ to two semicircles*
 
-> Candace breaks the cell phone for the second time and Phineas builds him a new one in a special shape. It takes an ABC triangle with sharp angles in B and C , with 10.6 cm AB  and 20.6 cm AC  . It traces the semicircular  of diameter AB that meets the side BC in D and measures that 7 cm BD  . Then trace the semicircular diameter of AC that intersects . It takes the tangent common to the two semicirculars which touches them at points P and Q and places the antenna directly on PQ. The built-in cell phone also has the teleportation function, which will definitely lead Candace to stir up some trouble. How long is the antenna of Candace' s mobile phone in mm?
+> AN AWESOME PHONE (Santina de Monte) Candace breaks her mobile phone yet again, and Phineas builds her a new one with a special shape. He takes triangle ABC with acute angles at B and C, where AB = 10.6 cm and AC = 20.6 cm. He draws semicircle γ with diameter AB, which meets side BC at D, and measures BD = 7 cm. Then he draws semicircle γ′ with diameter AC, which intersects γ. He takes the common tangent to the two semicircles, which touches them at points P and Q, and places the antenna exactly on PQ. The phone that has been built also has a teleportation function… which will surely lead Candace to get into some trouble. How long is Candace's phone's antenna in mm?
 
-**Answer:** 120
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2025_femminile#q17|src_squadre_2025_femminile__Q17]]
 
 
 
@@ -734,11 +799,15 @@ Maximum number of cows in the pasture forever, grass growing
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability Phineas first pitcher in the fourth round*
+*Probability that Phineas is the first pitcher in the fourth inning*
 
-> Finally (Simona Pieri) Candace finally manages to punish Phineas and Ferb, showing her mother the car the boys turned into the flying machine of the future. The two brothers are sent to the school/rehabilitation center Via the smile, where they are brainwashed. So they 're forced to play by rolling a dice in turn with the following rules: The first player to get 6 wins a round . The round continues until one player wins. Whoever loses the round, starts first in the next round. Phineas plays first. At the end of the third round, Candace and Jeremy break into the school to save Phineas and Ferb. Perry wakes up, realizing he's dreamed everything. What's the probability that Phineas was the first to throw the dice at the start of the fourth round? (Give the sum between numerator and denominator of the fraction reduced to minimum terms.)
+> FINALLY (Simona Pieri) Candace finally manages to get Phineas and Ferb punished by showing her mother the machine that the boys have turned into the "Flying Machine of the Future." The two brothers are sent to the school/reform school "Smile Gone," where they are brainwashed. They are then forced to play a game in which they take turns rolling a die, according to the following rules: the player who first gets a 6 wins the round. The round continues until one player wins. The loser of the round goes first in the next turn. Phineas goes first. At the end of the third round, Candace and Jeremy burst into the school to rescue Phineas and Ferb. Perry wakes up and realizes he dreamed it all. What is the probability that Phineas was the first to roll the die at the start of the fourth round? (Give as the result the sum of the numerator and denominator of the fraction reduced to lowest terms.)
 
-**Answer:** 1996
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2025_femminile#q18|src_squadre_2025_femminile__Q18]]
 
 
 
@@ -769,11 +838,15 @@ Maximum number of cows in the pasture forever, grass growing
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of distribution of up to 20 balls with order constraints*
+*Ways of distributing up to 20 balls with ordering constraints*
 
-> Do You Want to Believe or Not? (Sandro Campigotto) Phineas and Ferb decide to modify Dad's ice cream machine to create a winter paradise where they can cool off the hot summer. After snowing the entire garden, they modify the machine to distribute ice cream balls to all their friends. Ferb programs the machine to distribute up to a maximum of 20 ice cream balls at a time, so that the first receives fewer balls than the second (possibly 0) who in turn receives less than a third while the fourth receives more than all. Meanwhile, Doofenshmirtz has built a laser beam to melt all the chocolate in the world. Candace calls Mom, but a moment before her arrival the laser beam melts the snow and ice cream and brings the summer back to Danville. How many different ways could the ice cream machine distribute up to 20 balls?
+> WINTER OR INSTANT? (Sandro Campigotto) Phineas and Ferb decide to modify Dad's ice cream machine to create a winter paradise where they can cool off from the scorching summer. After snowing the entire yard, they modify the machine to dispense scoops of ice cream to all their friends. Ferb programs the machine to dispense up to 20 scoops of ice cream at a time, so that the first person gets fewer scoops than the second (possibly 0), who in turn gets fewer than the third, while the fourth gets more scoops than everyone else. Meanwhile, Doofenshmirtz has built a laser beam to melt all the chocolate in the world. Candace calls Mom, but a moment before Mom arrives, the laser beam melts the snow and the ice creams and brings summer back to Danville. In how many different ways could the ice cream machine have dispensed up to 20 scoops?
 
-**Answer:** 241
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2025_femminile#q19|src_squadre_2025_femminile__Q19]]
 
 
 
@@ -804,11 +877,15 @@ Maximum number of cows in the pasture forever, grass growing
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Catalan numbers, ways to divide a triangle into 10 pieces*
+*Catalan numbers, ways of dividing a triangle into 10 pieces*
 
-> Candace wants to become a supermodel at all costs, but she doesn't know that in the meantime her brothers are creating a line of clothing titled It's always summer. The kids draw beach pairs, starting with a piece of fabric shaped like a triangle rectangle isosceles. They then draw some heights with the following strategy: they first plot the height relative to the base of the great triangle, then they draw one of the heights (always relative to the base) of any of the isosceles triangles in the figure and proceed in this way until they divide the initial triangle into exactly 10 isosceles. The idea is immediately copied by a famous designer and becomes a hit. How many different garments constructed in this way can be made?
+> TOP MODEL FOR A MINUTE (Claudia Manotti) Candace is determined at all costs to become a supermodel, but she doesn't know that in the meantime her siblings are creating a clothing line called "It's Always Summer". The kids design beach sarongs starting from a piece of fabric shaped like an isosceles right triangle. They then draw some altitudes using the following strategy: first, they draw the altitude relative to the base of the large triangle; then they draw one of the altitudes (again relative to the base) of any one of the isosceles right triangles in the figure, and they continue in this way until they have divided the initial triangle into exactly 10 isosceles right triangles. The idea is immediately copied by a famous fashion designer and becomes a success. How many different garments made in this way can be created?
 
-**Answer:** 4862
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2025_femminile#q20|src_squadre_2025_femminile__Q20]]
 
 
 
@@ -863,8 +940,12 @@ Maximum number of cows in the pasture forever, grass growing
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Candace coordinates for the maximum area of the triangle with ellipses*
+*Coordinate Candace per maximum triangle area with ellipse*
 
-> Phineas, Ferb, and Candace discover that the mall will be auditioning to become a pop star. While the boys compose a song, Candace is in line for the audition. During the show the three brothers sing Gitchi-Gitchi-Goo. Imagining the stage as a Cartesian plane, the choreography predicts that Candace will initially be at the point   0.12 C, Phineas at  5.0 P and Ferb at  0.0 F. At each verse of the song only one of the three moves onto the stage (or if he wants to stand still), following as a trajectory lellisse having as fires the other two brothers. At the end of the song Ferb is at the point   1.9 , Phineas at   11.9 and Candace must position himself in any of the points that maximize the area of the triangle formed by the three boys. The record label, seeing the three performing, decides to make money by selling the guys' newly recorded video. But a strange green beam produced by Dr. Seuss's machine. Doofenshmirtz, just destroyed by Agent P., deletes every trace of the video. What coordinates can Candace be at? (Give as a response the product of all possible points of ascises and orders.)
+> POP STAR FOR A DAY (Claudia Manotti) Phineas, Ferb, and Candace discover that auditions to become pop stars will be held at the mall. While the boys compose a song, Candace waits in line for the audition. When the show begins, the three siblings sing “Gitchi-Gitchi-Goo”. Imagining the stage as a Cartesian coordinate plane, the choreography calls for Candace to start at point C(0,12), Phineas at P(5,0), and Ferb at F(0,0). With each verse of the song, only one of the three moves across the stage (or, if they wish, stays still), following as their path the ellipse whose foci are the other two siblings. At the end of the song, Ferb is at point (1,9), Phineas is at (11,9), and Candace must position herself at any of the points that maximize the area of the triangle formed by the three kids. Seeing the trio’s performance, the record executive decides to make money by selling the video the kids have just recorded. But a strange green beam, produced by a machine belonging to Dr. Doofenshmirtz and just destroyed by Agent P., erases all trace of the video. What coordinates might Candace be at? (Give as the answer the product of the abscissas and ordinates of all possible points.)
 
-**Answer:** 216
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2025_femminile#q21|src_squadre_2025_femminile__Q21]]

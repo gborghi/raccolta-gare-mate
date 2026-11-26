@@ -31,9 +31,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riduzione di una frazione a termini più bassi*
+*Ridurre una frazione ai minimi termini*
 
-> Riduzione della frazione $\dfrac{N}{D}$ ai suoi termini più bassi quando $$N = 22448511485348514627$$ $$D = 81188118811881188000$$
+> Ridurre la frazione $\dfrac{N}{D}$ ai minimi termini quando
+> $$N = 22448511485348514627$$
+> $$D = 81188118811881188000$$
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1986#q01|src_bmo1_1986__Q01]]
 
 
 
@@ -56,9 +64,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizioni di tangenza del cerchio; trovare il raggio in termini di r1, r2*
+*Condizioni di tangenza tra cerchi; trovare il raggio in funzione di r1 e r2*
 
-> Un cerchio $S$ di raggio $R$ ha due tangenti paralleli $t_1$ e $t_2$. Un cerchio $S_1$ di raggio $r_1$ tocca $S$ e $t_1$; un cerchio $S_2$ di raggio $r_2$ tocca $S$ e $t_2$; anche $S_1$ tocca $S_2$ e tutti i contatti del cerchio sono esterni. Calcolare $R$ in termini di $r_1$ e $r_2$.
+> Una circonferenza $S$ di raggio $R$ ha due tangenti parallele $t_1$, $t_2$. Una circonferenza $S_1$ di raggio $r_1$ tocca $S$ e $t_1$; una circonferenza $S_2$ di raggio $r_2$ tocca $S$ e $t_2$; inoltre $S_1$ tocca $S_2$ e tutti i contatti tra cerchi sono esterni. Calcolare $R$ in funzione di $r_1$ e $r_2$.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_bmo1_1986#q02|src_bmo1_1986__Q02]]
 
 
 
@@ -83,9 +97,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se 1+m+n/3 è una potenza perfetta, m è un quadrato perfetto*
+*Se $1+m+n/3$ è una potenza perfetta, $m$ è un quadrato perfetto*
 
-> Prova che se $m$, $n$, $r$ sono numeri interi positivi e $$1 + m + n\sqrt{3} = (2 + \sqrt{3})^{2r-1}$$ allora $m$ è un quadrato perfetto.
+> Dimostrare che se $m$, $n$, $r$ sono interi positivi e
+> $$1 + m + n\sqrt{3} = (2 + \sqrt{3})^{2r-1}$$
+> allora $m$ è un quadrato perfetto.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+[[Quesiti/src_bmo1_1986#q03|src_bmo1_1986__Q03]]
 
 
 
@@ -110,9 +132,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*K più grande in modo che a2+b2+c2≥K(a+b+c)2 per i triangoli obtusi*
+*Il più grande K tale che a²+b²+c²≥K(a+b+c)² per triangoli ottusi*
 
-> Trovare, con prova, il più grande numero reale $K$ (indipendente da $a, b, c$) tale che l'ineguaglianza $$a^2 + b^2 + c^2 \ge K(a + b + c)^2$$ sia valida per le lunghezze $a$, $b$, $c$ dei lati di qualsiasi triangolo angolato obtuso.
+> Dimostrare che, per il più grande numero reale $K$ (indipendente da $a, b, c$) tale che l'ineguaglianza
+> $$a^2 + b^2 + c^2 \ge K(a + b + c)^2$$
+> valga per le lunghezze $a$, $b$, $c$ dei lati di qualsiasi triangolo ottusangolo, trovare tale $K$ con dimostrazione.
+
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_bmo1_1986#q04|src_bmo1_1986__Q04]]
 
 
 
@@ -141,9 +171,21 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il numero di permutazioni con due restrizioni di ordine*
+*Trovare il numero di permutazioni con due vincoli di ordinamento*
 
-> Trova, con prova, il numero di permutazioni $$a_1, a_2, \ldots, a_n$$ di $1, 2, \ldots, n$ in modo tale che $$a_i < a_{i+2} \quad \text{for } 1 \le i \le n-2$$ e $$a_i < a_{i+1} \quad \text{for } 1 \le i \le n-3$$ (In una permutazione ogni numero $1, 2, \ldots, n$ appare.)
+> Dimostrare che, con la dimostrazione, il numero di permutazioni
+> $$a_1, a_2, \ldots, a_n$$
+> di $1, 2, \ldots, n$ tali che
+> $$a_i < a_{i+2} \quad \text{for } 1 \le i \le n-2$$
+> e
+> $$a_i < a_{i+1} \quad \text{for } 1 \le i \le n-3$$
+> (In una permutazione ciascuno dei numeri $1, 2, \ldots, n$ compare.)
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+[[Quesiti/src_bmo1_1986#q05|src_bmo1_1986__Q05]]
 
 
 
@@ -166,6 +208,12 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area della sezione trasversale del cubo è uguale all'area della faccia; prova la coplanarità*
+*Sezione di un cubo di area uguale a quella della faccia; dimostrare la coplanarità*
 
-> $AB$, $AC$, $AD$ sono tre bordi di un cubo. $AC$ è prodotto a $E$ in modo che $AE = 2AC$ e $AD$ è prodotto a $F$ in modo che $AF = 3AD$. Prova che l'area della sezione del cubo per qualsiasi piano parallelo a $BEF$ è uguale all'area della sezione del tetraedro $ABEF$ per lo stesso piano.
+> $AB$, $AC$, $AD$ sono tre spigoli di un cubo. $AC$ è prolungato fino a $E$ in modo che $AE = 2AC$ e $AD$ è prolungato fino a $F$ in modo che $AF = 3AD$. Dimostrare che l'area della sezione del cubo da un piano qualsiasi parallelo a $BEF$ è uguale all'area della sezione del tetraedro $ABEF$ dallo stesso piano.
+
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_bmo1_1986#q06|src_bmo1_1986__Q06]]

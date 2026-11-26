@@ -30,11 +30,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare numeri interi a 4 volte con rigide disuguaglianze e differenze limitate*
+*Numero di quadruple di interi da 1 a 9 che soddisfano una condizione*
 
-> Trova il numero di quadrupli $(a, b, c, d)$ di numeri interi da 1 a 9 soddisfacendo $0 < b - a < c - b < d - c$.
+> Trovare il numero di quadruple $(a, b, c, d)$ di interi da 1 a 9 che soddisfano $0 < b - a < c - b < d - c$.
 
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
 **Risposta:** 7
+[[Quesiti/src_jmo21yq_yosen#q01|src_jmo21yq_yosen__Q01]]
 
 
 
@@ -58,11 +62,15 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di interi positivi ≤2011 divisibili per 3 con dati rimanenti*
+*Differenza tra due somme di interi fino a 2011, secondo il resto modulo 3*
 
-> Che $A$ sia la somma di tutti gli integri positivi non superiori al 2011 che lasciano un residuo di 1 quando diviso per 3, e che $B$ sia la somma di tutti gli integri positivi non superiori al 2011 che lasciano un residuo di 2 quando diviso per 3. Trova $A - B$.
+> Sia $A$ la somma di tutti gli interi positivi non superiori a 2011 che danno resto 1 nella divisione per 3, e sia $B$ la somma di tutti gli interi positivi non superiori a 2011 che danno resto 2 nella divisione per 3. Trovare $A - B$.
 
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Risposta:** 1341
+[[Quesiti/src_jmo21yq_yosen#q02|src_jmo21yq_yosen__Q02]]
 
 
 
@@ -85,9 +93,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i primi della forma axbxcxd+exfxg con cifre distinte 1..7*
+*Primi esprimibili con interi positivi distinti al più 7*
 
-> Trova tutti i numeri primi che possono essere espressi come $a \times b \times c \times d + e \times f \times g$ utilizzando diversi interi positivi $a, b, c, d, e, f, g$, ciascuno al massimo 7.
+> Determinare tutti i numeri primi che si possono esprimere come $a \times b \times c \times d + e \times f \times g$ usando interi positivi distinti $a, b, c, d, e, f, g$, ciascuno al più 7.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo21yq_yosen#q03|src_jmo21yq_yosen__Q03]]
 
 
 
@@ -112,11 +125,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il raggio del settore circolare OAB da segmenti di accordi*
+*Raggio di un settore, date alcune lunghezze*
 
-> Nella figura seguente, $O$ è il centro (apex) del settore $OAB$. Abbiamo $AQ = 5$, $BQ = 6$, $OQ = PQ$. Trova la lunghezza del raggio del settore. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Nella figura sotto, $O$ è il centro (vertice) del settore $OAB$. Si ha $AQ = 5$, $BQ = 6$, $OQ = PQ$. Trovare la lunghezza del raggio del settore. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 ![[src_jmo21yq_yosen__q04.png]]
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo21yq_yosen#q04|src_jmo21yq_yosen__Q04]]
 
 
 
@@ -139,9 +157,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dicina cifra del prodotto dei numeri interi ≤2011 che terminano in 3 o 7*
+*Cifra delle decine del prodotto degli interi fino a 2011 che finiscono per 3 o 7*
 
-> Il $X$ deve essere il prodotto di tutti i numeri interi positivi non superiori al 2011 il cui numero unitario è 3 o 7. Trova la decina di $X$.
+> Sia $X$ il prodotto di tutti gli interi positivi non superiori a 2011 la cui cifra delle unità è 3 o 7. Trovare la cifra delle decine di $X$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo21yq_yosen#q05|src_jmo21yq_yosen__Q05]]
 
 
 
@@ -164,9 +187,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca AR in triangolo rettangolo con angolo bisector e condizioni di lunghezza uguale*
+*Una lunghezza in un triangolo, dati punti sui lati*
 
-> Nel triangolo $ABC$ con $\angle ABC = 90^\circ$, i punti $P, Q, R$ si trovano rispettivamente sui lati $BC$, $CA$, $AB$, con $AQ : QC = 2 : 1$, $AR = AQ$, $QP = QR$ e $\angle PQR = 90^\circ$. Con $CP = 1$, trovare $AR$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Nel triangolo $ABC$ con $\angle ABC = 90^\circ$, i punti $P, Q, R$ stanno rispettivamente sui lati $BC$, $CA$, $AB$, con $AQ : QC = 2 : 1$, $AR = AQ$, $QP = QR$ e $\angle PQR = 90^\circ$. Dato $CP = 1$, trovare $AR$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo21yq_yosen#q06|src_jmo21yq_yosen__Q06]]
 
 
 
@@ -189,9 +217,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta 3×3 griglie con numeri interi 19 posizionate una volta che ciascuna soddisfa una condizione di marcatura*
+*Disposizioni di 1–9 in una griglia in cui il secondo massimo dei secondi massimi di colonna è 5*
 
-> Una griglia $3 \times 3$ è riempita con i numeri interi da 1 a 9, ognuno apparendo esattamente una volta (uno per cella). Per ciascuna colonna, è indicato il secondo più grande dei 3 numeri scritti in quella colonna. Si è scoperto che il secondo più grande dei tre numeri segnati era 5. In questo caso, quante disposizioni dei 9 numeri interi sono possibili?
+> Una griglia $3 \times 3$ è riempita con gli interi da 1 a 9, ciascuno esattamente una volta (uno per casella). Per ogni colonna si segna il secondo più grande dei 3 numeri scritti in quella colonna. Il secondo più grande dei tre numeri segnati è risultato 5. In questo caso, quante disposizioni dei 9 interi sono possibili?
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo21yq_yosen#q07|src_jmo21yq_yosen__Q07]]
 
 
 
@@ -214,9 +247,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca un numero intero a 4 cifre P dalle condizioni a 2 cifre sul prodotto di due numeri a 2 cifre*
+*Valore di un prodotto di due interi di due cifre con cifre incrociate*
 
-> Ci sono due numeri interi positivi a 2 cifre $x$ e $y$ in modo tale che la decina di $x$ equivale alla cifra di unità di $y$, e la decina di $y$ equivale alla cifra di unità di $x$. Il numero $P$ è il prodotto di $x$ e $y$; quindi $P$ è un numero a 4 cifre, e il numero formato dalle due cifre inferiori di $P$ (considerato un intero a 2 cifre) è 23 più grande del numero formato dalle due cifre superiori di $P$ (considerato un intero a 2 cifre). Trova il valore di $P$.
+> Ci sono due interi positivi di 2 cifre $x$ e $y$ tali che la cifra delle decine di $x$ è uguale alla cifra delle unità di $y$, e la cifra delle decine di $y$ è uguale alla cifra delle unità di $x$. Sia $P$ il prodotto di $x$ e $y$; allora $P$ è un numero di 4 cifre, e il numero formato dalle due cifre basse di $P$ (visto come intero di 2 cifre) è maggiore di 23 del numero formato dalle due cifre alte di $P$ (visto come intero di 2 cifre). Trovare il valore di $P$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Analisi per casi accurata]]
+[[Quesiti/src_jmo21yq_yosen#q08|src_jmo21yq_yosen__Q08]]
 
 
 
@@ -241,11 +279,16 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le disposizioni di colore di 12 marmi in fila con condizione di adiacenza*
+*Disposizioni di biglie rosse, blu e gialle in cui ogni biglia ha una vicina dello stesso colore*
 
-> I marmi rossi, blu e gialli  12 in totale  sono disposti in una riga orizzontale. Trova il numero di accordi che soddisfano la seguente condizione. Qui vengono considerati anche gli arrangiamenti con 2 o meno colori per i marmi.
-> 
-> **Condizione: ** Per ogni marmo di un dato colore, esiste un marmo dello stesso colore adiacente.
+> Biglie rosse, blu e gialle — 12 in tutto — sono disposte in una fila orizzontale. Trovare il numero di disposizioni che soddisfano la condizione seguente. Si considerano anche le disposizioni in cui le biglie usano 2 colori o meno.
+>
+> **Condizione:** per ogni biglia di un dato colore, ne esiste una dello stesso colore adiacente a essa.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+[[Quesiti/src_jmo21yq_yosen#q09|src_jmo21yq_yosen__Q09]]
 
 
 
@@ -270,9 +313,18 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca min e massimo di f(23)+f(2011) per una funzione che soddisfa una disuguaglianza funzionale*
+*Minimo e massimo di una funzione sugli interi positivi*
 
-> Considera le funzioni $f$ definite sui numeri interi positivi che assumono valori di numeri interi positivi in modo tale che per tutti i numeri interi positivi $x, y$, $$(x + y) f(x) \le x^2 + f(xy) + 110$$ si mantenga. Trova i valori minimi e massimi possibili di $f(23) + f(2011)$.
+> Si considerino le funzioni $f$ definite sugli interi positivi, a valori interi positivi, tali che per qualunque interi positivi $x, y$ valga
+>
+> $$(x + y) f(x) \le x^2 + f(xy) + 110$$
+>
+> Trovare il minimo e il massimo valore possibile di $f(23) + f(2011)$.
+
+**Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo21yq_yosen#q10|src_jmo21yq_yosen__Q10]]
 
 
 
@@ -295,9 +347,14 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*OM:ON per un quadrilaterale tangenziale con incentro O*
+*Una lunghezza in un quadrilatero circoscritto a una circonferenza*
 
-> Il quadrilaterale $ABCD$ è circoscritto intorno a un cerchio centrato a $O$ (il cerchio è tangente a tutti e quattro i lati), con $OA = 5$, $OB = 6$, $OC = 7$, $OD = 8$. Il segmento $M$ deve essere il punto medio del segmento $AC$ e il segmento $N$ deve essere il punto medio del segmento $BD$. Trova $OM : ON$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Il quadrilatero $ABCD$ è circoscritto a una circonferenza di centro $O$ (la circonferenza è tangente a tutti e quattro i lati), con $OA = 5$, $OB = 6$, $OC = 7$, $OD = 8$. Sia $M$ il punto medio del segmento $AC$ e $N$ il punto medio del segmento $BD$. Trovare $OM : ON$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo21yq_yosen#q11|src_jmo21yq_yosen__Q11]]
 
 
 
@@ -321,6 +378,13 @@ level: JMO Yosen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare il rapporto di somme per i reali non negativi sommando a 1*
+*Massimo di un'espressione su reali non negativi*
 
-> $n \ge 2$ sia un numero intero positivo. Per i valori reali non negativi $a_1, \ldots, a_n$ che soddisfano $a_1 + \cdots + a_n = 1$, trovare il valore massimo possibile di $$\left(\sum_{i=1}^{n} i a_i\right)\left(\sum_{i=1}^{n} \frac{a_i}{i}\right)^2.$$
+> Sia $n \ge 2$ un intero positivo. Per reali non negativi $a_1, \ldots, a_n$ che soddisfano $a_1 + \cdots + a_n = 1$, trovare il massimo valore possibile di
+>
+> $$\left(\sum_{i=1}^{n} i a_i\right)\left(\sum_{i=1}^{n} \frac{a_i}{i}\right)^2.$$
+
+**Argomento:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo21yq_yosen#q12|src_jmo21yq_yosen__Q12]]

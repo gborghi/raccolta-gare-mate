@@ -30,10 +30,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le funzioni f:Z→Z tali che f(2a)+2f(b)=f(f(a+b))*
+*Trovare tutte le funzioni f:Z->Z che soddisfano f(2a)+2f(b)=f(f(a+b))*
 
 > Sia $\mathbb{Z}$ l'insieme degli interi. Determinare tutte le funzioni $f : \mathbb{Z} \to \mathbb{Z}$ tali che, per tutti gli interi $a$ e $b$,
 > $$f(2a) + 2f(b) = f(f(a+b)).$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_induzione|Induzione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2019#q01|src_imho_2019__Q01]]
 
 
 
@@ -58,11 +65,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ciclicità di due punti definiti tramite condizioni angolari e parallele in un triangolo*
+*Conciclicità di due punti definita tramite condizioni angolari e di parallelismo nel triangolo*
 
-> Nel triangolo $ABC$, il punto $A_1$ giace sul lato $BC$ e il punto $B_1$ giace sul lato $AC$. Siano $P$ e $Q$ punti rispettivamente sui segmenti $AA_1$ e $BB_1$, tali che $PQ$ sia parallelo a $AB$. Sia $P_1$ un punto sulla retta $PB_1$, tale che $B_1$ giaccia strettamente tra $P$ e $P_1$, e tra $\angle PP_1C = \angle BAC$. Sia $Q_1$ un punto sulla retta $QA_1$, tale che $A_1$ giaccia strettamente tra $Q$ e $Q_1$, e tra $\angle CQ_1Q = \angle CBA$.
-> 
-> Si dimostri che i punti $P$, $Q$, $P_1$ e $Q_1$ sono conciclici.
+> Nel triangolo $ABC$, il punto $A_1$ giace sul lato $BC$ e il punto $B_1$ giace sul lato $AC$. Siano $P$ e $Q$ punti rispettivamente sui segmenti $AA_1$ e $BB_1$, in modo che $PQ$ sia parallelo a $AB$. Sia $P_1$ un punto sulla retta $PB_1$, in modo che $B_1$ giaccia strettamente tra $P$ e $P_1$, e $\angle PP_1C = \angle BAC$. Sia $Q_1$ un punto sulla retta $QA_1$, in modo che $A_1$ giaccia strettamente tra $Q$ e $Q_1$, e $\angle CQ_1Q = \angle CBA$.
+>
+> Dimostrare che i punti $P$, $Q$, $P_1$ e $Q_1$ sono conciclici.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2019#q02|src_imho_2019__Q02]]
 
 
 
@@ -89,13 +103,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cambiamenti nella rete di amicizie; si dimostri che al massimo un amico rimane*
+*Cambiamenti nelle amicizie sui social network; dimostrare che al massimo rimane un amico*
 
-> Una rete sociale ha 2019 utenti, alcuni dei quali sono amici tra loro. Ogni volta che l'utente $A$ è amico dell'utente $B$, anche l'utente $B$ è amico dell'utente $A$. Possono verificarsi ripetutamente, uno alla volta, eventi del seguente tipo:
-> 
-> Tre utenti $A$, $B$ e $C$ tali che $A$ è amico sia di $B$ che di $C$, ma $B$ e $C$ non sono amici, modificano i loro stati di amicizia in modo che $B$ e $C$ siano ora amici, mentre $A$ non è più amico di $B$ e $A$ non è più amico di $C$. Tutti gli altri stati di amicizia rimangono invariati.
-> 
-> Inizialmente, 1010 utenti hanno ciascuno 1009 amici, e 1009 utenti hanno ciascuno 1010 amici. Si dimostri che esiste una sequenza di tali eventi dopo la quale ciascun utente è amico al massimo di un altro utente.
+> Un social network conta 2019 utenti, alcuni dei quali sono amici tra loro. Ogni volta che l'utente $A$ è amico dell'utente $B$, anche l'utente $B$ è amico dell'utente $A$. Possono verificarsi ripetutamente, uno alla volta, eventi del seguente tipo:
+>
+> Tre utenti $A$, $B$ e $C$ tali che $A$ è amico sia di $B$ sia di $C$, ma $B$ e $C$ non sono amici, cambiano il proprio stato di amicizia in modo che ora $B$ e $C$ siano amici, ma $A$ non sia più amico di $B$, e $A$ non sia più amico di $C$. Tutti gli altri stati di amicizia rimangono invariati.
+>
+> Inizialmente, 1010 utenti hanno ciascuno 1009 amici, e 1009 utenti hanno ciascuno 1010 amici. Dimostrare che esiste una sequenza di tali eventi tale che, al termine di essa, ciascun utente sia amico di al più un altro utente.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_grafi|Grafi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2019#q03|src_imho_2019__Q03]]
 
 
 
@@ -119,10 +140,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le coppie (k,n) di interi positivi che soddisfano k^2=(2^n-1)(2^(n-1)-1)...(2^(n+1)-1)*
+*Coppie (k, n) per cui k! è un prodotto di termini 2^n − 2^j*
 
-> Determinare tutte le coppie $(k, n)$ di interi positivi tali che
+> Trovare tutte le coppie $(k, n)$ di interi positivi tali che
 > $$k! = (2^n - 1)(2^n - 2)(2^n - 4) \cdots (2^n - 2^{n-1}).$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_imho_2019#q04|src_imho_2019__Q04]]
 
 
 
@@ -149,13 +177,20 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Problema delle monete della Banca del Bagno: si mostri che il processo termina e si determini la media L(C)=0*
+*Problema delle monete della Bank of Bath: il processo di visualizzazione termina e si trova che la media L(C)=0*
 
-> La Banca del Bath emette monete con un $H$ da un lato e un $T$ dall'altro. Harry ha $n$ di queste monete disposte in una fila da sinistra a destra. Esegue ripetutamente la seguente operazione: se esattamente $k > 0$ monete mostrano $H$, allora capovolge la $k^{\text{th}}$ moneta a partire da sinistra; altrimenti si ferma. Ad esempio, se $n = 3$ il processo partendo dalla configurazione $THT$ sarebbe $THT \to HHT \to HTT \to TTT$, che si arresta dopo tre operazioni.
-> 
-> (a) Si dimostri che, per ogni configurazione iniziale, Harry si ferma dopo un numero finito di operazioni.
-> 
-> (b) Per ciascuna configurazione iniziale $C$, sia $L(C)$ il numero di operazioni effettuate prima che Harry si fermi. Per esempio, $L(THT) = 3$. Determinare il valore medio di $L(C)$ su tutte le $2^n$ possibili configurazioni iniziali $C$.
+> La Banca di Bath emette monete con un $H$ su un lato e un $T$ sull'altro. Harry ha $n$ di queste monete disposte in fila da sinistra a destra. Esegue ripetutamente l'operazione seguente: se ci sono esattamente $k > 0$ monete che mostrano $H$, allora capovolge la $k^{\text{th}}$-ma moneta partendo da sinistra; altrimenti si ferma. Ad esempio, se $n = 3$, il processo che parte dalla configurazione $THT$ sarebbe $THT \to HHT \to HTT \to TTT$, e si fermerebbe dopo tre operazioni.
+>
+> (a) Dimostrare che, per ogni configurazione iniziale, Harry si ferma dopo un numero finito di operazioni.
+>
+> (b) Per ogni configurazione iniziale $C$, sia $L(C)$ il numero di operazioni prima che Harry si fermi. Ad esempio, $L(THT) = 3$. Determinare il valore medio di $L(C)$ sull'insieme di tutte le $2^n$ configurazioni iniziali possibili $C$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_2019#q05|src_imho_2019__Q05]]
 
 
 
@@ -180,8 +215,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le rette DI e PQ si incontrano sull'altezza da A in un triangolo acutangolo con i punti di tangenza della circonferenza inscritta*
+*Le rette DI e PQ si incontrano sull'altezza passante per A in un triangolo acutangolo con i punti di tangenza dell'incircolo*
 
-> Sia $I$ l'incentro del triangolo acutangolo $ABC$ con $AB \neq AC$. La circonferenza inscritta $\omega$ del triangolo $ABC$ è tangente ai lati $BC$, $CA$ e $AB$ nei punti $D$, $E$ e $F$ rispettivamente. La retta passante per $D$ e perpendicolare a $EF$ incontra nuovamente $\omega$ in $R$. La retta $AR$ incontra nuovamente $\omega$ in $P$. Le circonferenze circoscritte ai triangoli $PCE$ e $PBF$ si intersecano nuovamente in $Q$.
-> 
-> Si dimostri che le rette $DI$ e $PQ$ si incontrano sulla retta passante per $A$ e perpendicolare a $AI$.
+> Sia $I$ l'incentro del triangolo acuto $ABC$ con $AB \neq AC$. La circonferenza inscritta $\omega$ di $ABC$ è tangente ai lati $BC$, $CA$ e $AB$ rispettivamente nei punti $D$, $E$ e $F$. La retta passante per $D$ e perpendicolare a $EF$ incontra nuovamente $\omega$ in $R$. La retta $AR$ incontra nuovamente $\omega$ in $P$. Le circonferenze circoscritte ai triangoli $PCE$ e $PBF$ si intersecano nuovamente in $Q$.
+>
+> Dimostrare che le rette $DI$ e $PQ$ si incontrano sulla retta passante per $A$ e perpendicolare a $AI$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2019#q06|src_imho_2019__Q06]]

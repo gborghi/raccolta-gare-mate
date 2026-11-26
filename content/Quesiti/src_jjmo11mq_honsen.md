@@ -32,9 +32,19 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre massimo delle 12 somme/prodotti pari a 1*
+*Numero massimo delle 12 somme/prodotti uguali a 1*
 
-> Ci sono quattro numeri reali positivi distinti $a, b, c, d$. Tra le seguenti 12 espressioni $$a+b,\ a+c,\ a+d,\ b+c,\ b+d,\ c+d,$$ $$ab,\ ac,\ ad,\ bc,\ bd,\ cd,$$ trovi il maggior numero possibile di esse il cui valore è uguale a $1$.
+> Ci sono quattro numeri reali positivi distinti $a, b, c, d$. Tra le seguenti 12 espressioni
+> $$a+b,\ a+c,\ a+d,\ b+c,\ b+d,\ c+d,$$
+> $$ab,\ ac,\ ad,\ bc,\ bd,\ cd,$$
+> trova il numero massimo possibile di esse il cui valore è uguale a $1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo11mq_honsen#q01|src_jjmo11mq_honsen__Q01]]
 
 
 
@@ -64,15 +74,23 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco di versare latte e tè per fare due buoni tè di latte
+*Gioco: versare latte e tè per preparare due buoni tè al latte*
 
-> Una tazza contenente $x$ grammi di latte e $y$ grammi di tè nero si chiama buon tè al latte se $y > 0$ e $\dfrac{y}{x+y} > \dfrac{3}{5}$.
-> 
-> Ora ci sono coppe vuote. Il giocatore A e il giocatore B, con A al primo posto, eseguono alternativamente le seguenti operazioni:
-> 
-> - Operazione A: versare un totale di $60$ grammi di latte in alcune tazze. - L'operazione B: versare un totale di $60$ grammi di tè nero in alcune tazze, scegliere poi una delle tazze $3$ e svuotare il contenuto.
-> 
-> L'obiettivo di B e' quello di rendere due tazze di tè buono allo stesso tempo. Indipendentemente dalle azioni di B, A può continuare a impedire a B di raggiungere questo obiettivo per sempre?
+> Una tazza contenente $x$ grammi di latte e $y$ grammi di tè nero è definita un buon tè al latte se $y > 0$ e $\dfrac{y}{x+y} > \dfrac{3}{5}$.
+>
+> Ora ci sono $3$ tazze vuote. Il giocatore A e il giocatore B, con A che inizia per primo, eseguono a turno le seguenti operazioni:
+>
+> - Operazione di A: versare un totale di $60$ grammi di latte in alcune delle tazze.
+> - Operazione di B: versare un totale di $60$ grammi di tè nero in alcune delle tazze, poi scegliere una delle $3$ tazze e svuotarne il contenuto.
+>
+> L'obiettivo di B è far sì che due tazze siano contemporaneamente dei buoni tè al latte. Indipendentemente dalle azioni di B, A può continuare a impedire a B di raggiungere questo obiettivo per sempre?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo11mq_honsen#q02|src_jjmo11mq_honsen__Q02]]
 
 
 
@@ -96,9 +114,17 @@ Gioco di versare latte e tè per fare due buoni tè di latte
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i triplici interi positivi dal sistema ciclico gcd*
+*Trovare triple di interi positivi a partire da un sistema di MCD ciclico*
 
-> Per gli integri positivi $x, y$, $\gcd(x, y)$ indichi il più grande divisore comune di $x$ e $y$. Trova tutti i triples di numeri interi positivi $(a, b, c)$ soddisfaci $$a = \gcd(b^2+1,\ c^2+1),\quad b = \gcd(c^2+1,\ a^2+1),\quad c = \gcd(a^2+1,\ b^2+1).$$
+> Per gli interi positivi $x, y$, si indichi con $\gcd(x, y)$ il massimo comune divisore di $x$ e $y$. Determinare tutte le triple di interi positivi $(a, b, c)$ che soddisfano
+> $$a = \gcd(b^2+1,\ c^2+1),\quad b = \gcd(c^2+1,\ a^2+1),\quad c = \gcd(a^2+1,\ b^2+1).$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo11mq_honsen#q03|src_jjmo11mq_honsen__Q03]]
 
 
 
@@ -121,9 +147,16 @@ Gioco di versare latte e tè per fare due buoni tè di latte
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Espresso angolo HJK utilizzando angolo BCA nel triangolo acuto*
+*Esprimi l'angolo HJK in termini dell'angolo BCA in un triangolo acuto*
 
-> C'è un triangolo acuto $ABC$ con $AB < AC$, il cui centro ortocentrico e incentrico sono rispettivamente $H$ e $I$. Un punto $J$ sul lato $AB$ e un punto $K$ sul lato $BC$ soddisfano $\angle HIK = 90^\circ$ e $AC = AJ + CK$. Esprimere $\angle HJK$ in termini di $\angle BCA$. Qui $XY$ indica la lunghezza del segmento $XY$.
+> Esiste un triangolo acuto $ABC$ con $AB < AC$, il cui ortocentro e incentro sono rispettivamente $H$ e $I$. Un punto $J$ sul lato $AB$ e un punto $K$ sul lato $BC$ soddisfano $\angle HIK = 90^\circ$ e $AC = AJ + CK$. Esprimi $\angle HJK$ in funzione di $\angle BCA$. Qui, $XY$ denota la lunghezza del segmento $XY$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo11mq_honsen#q04|src_jjmo11mq_honsen__Q04]]
 
 
 
@@ -152,10 +185,19 @@ Gioco di versare latte e tè per fare due buoni tè di latte
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Min sorveglianza totale per sopprimere qualsiasi ribellione di n*
+*Minima sorveglianza totale per sopprimere qualsiasi ribellione di n*
 
-> $n, N$ siano integri positivi con $2n \le N$. Un determinato paese ha $N$ cittadini, e per sopprimere le ribellioni utilizza il seguente metodo:
-> 
-> - Ogni cittadino sorveglia un certo numero di altri cittadini. - Quando alcuni cittadini organizzano una rivolta, ogni cittadino che non si è ribellato può arrestare al massimo uno dei cittadini che sono sotto controllo tra quelli che si sono ribellati. - Se tutti i cittadini che si sono ribellati vengono arrestati, allora quella ribellione è soppressa.
-> 
-> Per tutti i cittadini è stato esaminato il numero di cittadini per ciascun sondaggio e questi numeri sono stati sommati, dando $K$. Inoltre, per ogni ribellione organizzata da cittadini di almeno 1 MSK, esiste sempre un modo per sopprimere tale ribellione. Trova il valore più piccolo possibile che $K$ può assumere. Si noti che anche se il cittadino $A$ sorveglia il cittadino $B$, non è necessariamente il caso che il cittadino $B$ sorvegli il cittadino $A$.
+> Siano $n, N$ numeri interi positivi con $2n \le N$. Un certo paese ha $N$ cittadini e, per reprimere le ribellioni, utilizza il seguente metodo:
+>
+> - Ogni cittadino sorveglia un certo numero degli altri cittadini.
+> - Quando alcuni cittadini organizzano una ribellione, ciascun cittadino che non si è ribellato può arrestare al massimo uno dei cittadini che sorveglia tra quelli che si sono ribellati.
+> - Se tutti i cittadini che si sono ribellati vengono arrestati, allora quella ribellione viene repressa.
+>
+> Per tutti i cittadini, è stato esaminato il numero di cittadini che ciascuno sorveglia e tali numeri sono stati sommati, ottenendo $K$. Inoltre, per qualsiasi ribellione organizzata da al massimo $n$ cittadini, esiste sempre un modo per reprimerla. Determinare il valore minimo possibile che $K$ può assumere. Si noti che, anche se il cittadino $A$ sorveglia il cittadino $B$, non è necessariamente vero che il cittadino $B$ sorveglia il cittadino $A$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo11mq_honsen#q05|src_jjmo11mq_honsen__Q05]]

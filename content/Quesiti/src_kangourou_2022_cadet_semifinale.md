@@ -38,13 +38,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which stamps give the correct spelling*
+*Which of the five do so?*
 
 ![[src_kangourou_2022_cadet_semifinale__prob1.png]]
 
-> (2 points) Palloni Gonfiati has ordered a stamp bearing its name. The figure shows five stamps that were delivered to it, but, by mistake, not all of them in contact with the paper provide the desired writing, which is precisely Palloni Gonfiati. Which of the five do? A) Only 5. B) Only 1. C) Only 2 and 5. D) Only 3 and 4. E) Only 4 and 5.
+> (2 points) The firm Palloni Gonfiati ordered a stamp with its name. The picture shows five stamps that were delivered to it, but, by a mistake, not all of them, when pressed on the paper, give the wanted wording, which is precisely "Palloni Gonfiati". Which of the five do so?
+>
+> A) Only 5.
+> B) Only 1.
+> C) Only 2 and 5.
+> D) Only 3 and 4.
+> E) Only 4 and 5.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q01|src_kangourou_2022_cadet_semifinale__Q01]]
 
 
 
@@ -78,17 +88,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times do the hands form a right angle 6-12*
+*How many times do the hands form a right angle?*
 
 ![[src_kangourou_2022_cadet_semifinale__prob2.png]]
 
-> (3 points) Between 6:00 a.m. and 12:00 p.m. on the same day, how often do the hands of a traditional clock form a right angle? A) 12
->  
-> B) 11 C) 10 D) 6
->  
+> (3 points) Between 6:00 and 12:00 on the same day, how many times do the hands of a traditional clock form a right angle?
+>
+> A) 12
+> B) 11
+> C) 10
+> D) 6
 > E) 5
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q02|src_kangourou_2022_cadet_semifinale__Q02]]
 
 
 
@@ -124,19 +141,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Units digit of final product 2021-2029*
+*What is the units digit of this number?*
 
-> (3 points) Sandra wrote on a sheet each of the whole numbers from 2021 to 2029. Samuel, who has a calculator at his disposal, selects two randomly, eliminates them, and replaces them with their product. He proceeds on the eight numbers remaining in the same way, obtaining seven and so on, until there is only one number left on the sheet. What is the units digit of this number? A) 0
->  
+> (3 points) Sandra wrote on a sheet each of the integers from 2021 to 2029. Samuele, who has a calculator, chooses two of them at random, crosses them out and replaces them with their product. He proceeds in the same way with the eight numbers left, obtaining seven, and so on, until only one number is left on the sheet. What is the units digit of this number?
+>
+> A) 0
 > B) 2
->  
 > C) 4
->  
 > D) 6
->  
 > E) 8
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q03|src_kangourou_2022_cadet_semifinale__Q03]]
 
 
 
@@ -172,24 +192,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Supplementary fertilizer for a lawn from 25 to 30 meters (fraction)*
+*Which of the following numbers is closest to the extra amount of fertiliser needed?*
 
-> (4 points) To fertilize a square lawn with a side of 25 meters, a certain quantity q of
-> fertilizer is needed. Which of the following numbers is closest to the amount of supplementary fertilizer needed
-> to fertilize, in the same way, a square lawn with a side of 30 meters?
+> (4 points) To fertilise a square lawn of side 25 metres, a certain amount q of fertiliser is needed. Which of the following numbers is closest to the extra amount of fertiliser needed to fertilise in the same way a square lawn of side 30 metres?
+>
 > A) q/6
->  
-> B) q/5  
-> C) q/4  
-> D) q/3  
-> E) q/2 
-> 1 
-> 2 
-> 3 
-> 4
-> 5
+> B) q/5
+> C) q/4
+> D) q/3
+> E) q/2
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q04|src_kangourou_2022_cadet_semifinale__Q04]]
 
 
 
@@ -249,31 +266,30 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many correct statements about Ada and Bice running*
+*How many of the following statements are correct?*
 
 ![[src_kangourou_2022_cadet_semifinale__prob5.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \draw[thick] (0,0) -- (3,0) -- (3,3) -- (0,3) -- cycle;
-  \fill[red] (0,0) circle (3pt); \node[below left] at (0,0) {A};
-  \fill[red] (3,0) circle (3pt); \node[below right] at (3,0) {B};
-  \fill[red] (3,3) circle (3pt); \node[above right] at (3,3) {C};
-  \fill[red] (0,3) circle (3pt); \node[above left] at (0,3) {D};
-\end{tikzpicture}
-\end{document}
-```
-
-> (4 points) In the figure you can see a square on the edge of which Ada and Bice train to run, each without ever changing direction, but we don't know whether in the same direction or in the opposite direction. They run for many laps each at a constant speed, but Ada's is four times Bice's. Right now Ada is on vertex A while Bice is on vertex B. How many of the following statements are correct? Ada and Bice will never be together at vertex B. Ada and Bice will never be together at vertex C. Ada and Bice will never be together at vertex D. - Sometimes Ada and Bice will be together at vertex A. Ada and Bice can't be together except at one of the vertices. A) 0 (none)
->  
+> (4 points) In the picture you see a square, on the edge of which Ada and Bice are training by running, each without ever changing direction, but we do not know whether in the same direction or in opposite directions. They run for many laps, each at constant speed, but Ada's speed is four times Bice's. At this moment Ada is at vertex A while Bice is at vertex B. How many of the following statements are correct?
+>
+> - Ada and Bice will never be together at vertex B.
+> - Ada and Bice will never be together at vertex C.
+> - Ada and Bice will never be together at vertex D.
+> - Sometimes Ada and Bice will be together at vertex A.
+> - Ada and Bice cannot be together except at one of the vertices.
+>
+> A) 0 (none)
 > B) 1
->  
-> C) 3 D) 4
->  
+> C) 3
+> D) 4
 > E) 5 (all)
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q05|src_kangourou_2022_cadet_semifinale__Q05]]
 
 
 
@@ -310,15 +326,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum path of the ant on the cylinder*
+*How many centimetres long is the shortest path it can take?*
 
 ![[src_kangourou_2022_cadet_semifinale__prob6.png]]
 
-> (4 points) The straight circular cylinder in the figure is 8 cm high and the base circumference is 12 cm long. The two diameters shown in the two bases are parallel. An ant starts from the A-end of the diameter of the lower base and wants to reach the B-end of the diameter of the upper base, moving on the lateral surface of the cylinder. How many centimeters is the shortest path it can take? A) 8
->  
-> B) 10 C) 14 D) 15 E) 20
+> (4 points) The right circular cylinder in the picture is 8 cm high and the base circumference is 12 cm long. The two diameters shown on the two bases are parallel. An ant starts from the endpoint A of the diameter of the lower base and wants to reach the endpoint B of the diameter of the upper base, moving on the lateral surface of the cylinder. How many centimetres long is the shortest path it can take?
+>
+> A) 8
+> B) 10
+> C) 14
+> D) 15
+> E) 20
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q06|src_kangourou_2022_cadet_semifinale__Q06]]
 
 
 
@@ -353,17 +378,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most likely number of people who knew the answer*
+*Which of the following numbers is most likely to be the number of those who knew the correct answer?*
 
-> A Kangourou multiple-choice question like this, with 5 answer options, was answered by 10,000 students. Of these, some have been able to determine the correct answer based on their knowledge, others tried to guess by choosing completely at random among the five proposals. The correct answers were 3,000. Which of the following is more likely to be the number of people who knew the correct answer? A) 3.000 B) 2.500
->  
+> (5 points) 10.000 students answered a multiple-choice Kangourou question like this one, with 5 options for the answer. Of these, some were able to determine the correct answer from their knowledge; the others guessed, choosing entirely at random among the 5 proposals. The answers that turned out correct were 3.000. Among the following numbers, which is most likely to be the number of those who knew the correct answer?
+>
+> A) 3.000
+> B) 2.500
 > C) 1.500
->  
 > D) 1.250
->  
 > E) 1.000
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q07|src_kangourou_2022_cadet_semifinale__Q07]]
 
 
 
@@ -399,17 +428,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many of the numbers can be the sum (moved digit)*
+*How many of the following numbers could be the result?*
 
-> (5 points) Simona writes an integer of four digits, then removes its last digit and moves it to the front of the number (for example, if the number written was 1030 it would get 0103). Now Simona sums up the two numbers thus obtained: how many of the following numbers 1221, 8612, 4322, 13859 could be the result? A) 0 (none)
->  
+> (5 points) Simona writes a four-digit integer, then takes its last digit and moves it to the front of the number (for example, if the number written were 1030 she would obtain 0103). Now Simona adds the two numbers thus obtained: how many of the following numbers could be the result?
+>
+> 1221, 8612, 4322, 13859
+>
+> A) 0 (none)
 > B) 1
->  
-> C) 2 D) 3
->  
+> C) 2
+> D) 3
 > E) 4 (all)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q08|src_kangourou_2022_cadet_semifinale__Q08]]
 
 
 
@@ -449,18 +485,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Black region area with two inscribed circles*
+*What is the area of the region painted black?*
 
 ![[src_kangourou_2022_cadet_semifinale__prob9.png]]
 
-> (6 points) In the figure you see a square divided into two gray rectangles and two squares. The two rectangles are congruent and inside each of the two squares is inscribed a circle. In each of the squares, the outside of the circle is painted black. The sum of the circle areas is 20π. What is the area of the region painted black? A) 4(5π – 4) B) 20(4 – π) C) 4 + π D) 8π
->  
-> E) 2022(2022 – π) A B
-> 
->  
+> (6 points) In the picture you see a square divided into two grey rectangles and two squares. The two rectangles are congruent, and inside each of the two squares a circle is inscribed. In each of the squares, the part outside the circle is painted black. The sum of the areas of the circles is 20π. What is the area of the region painted black?
+>
+> A) 4(5π – 4)
+> B) 20(4 – π)
+> C) 4 + π
+> D) 8π
+> E) 2022(2022 – π)
+>
 > Open-ended questions
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q09|src_kangourou_2022_cadet_semifinale__Q09]]
 
 
 
@@ -487,11 +530,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between oases A and B with two camels*
+*How many kilometres apart are the two oases?*
 
-> (4 points) In the desert, two oases A and B are at the ends of a long straight track. A camel leaves from A to B at the same time as another camel leaves from B to A; the two camels travel along the track at constant speed, one at 4 km/h, the other at 2 km/h. After an hour of meeting, the fastest camel reaches its destination. How many kilometers apart are the two oases?
+> (4 points) In the desert, two oases A and B are at the ends of a long straight track. A camel sets off from A bound for B at the same moment as another camel sets off from B bound for A; the two camels travel along the track at constant speed, one at 4 km an hour, the other at 2 km an hour. One hour after they have met, the faster camel reaches its destination. How many kilometres apart are the two oases?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 12
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q10|src_kangourou_2022_cadet_semifinale__Q10]]
 
 
 
@@ -515,11 +562,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of digits of the quotient of 111...999 divided by 111*
+*How many digits does the quotient of that division have?*
 
 > (5 points) The number 111.222.333.444.555.666.777.888.999 (each of the digits from 1 to 9 appears exactly 3 times) is divisible by 111. How many digits does the quotient of that division have?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 25
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q11|src_kangourou_2022_cadet_semifinale__Q11]]
 
 
 
@@ -548,11 +599,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many cherries did Donatella eat
+*Exactly how many did she eat?*
 
-> (5 points) Donatella bought 756 cherries and made several bags of them all containing the same number of cherries, without any left over. She kept one for herself and gave the others to her friends. Donatella ate all her cherries right away. So three of her friends gave her, each, exactly a quarter of the number of cherries they had in their bag. After eating these too, Donatella ate more than 150 cherries altogether - exactly how many?
+> (5 points) Donatella bought 756 cherries and made several bags, all containing the same number of cherries, with none left over. She kept one for herself and gave the others to her friends. Donatella immediately ate all her cherries. Then three of her friends each gave her a number of cherries exactly equal to a quarter of those that were in their bag at the start. After she had eaten these too, Donatella had eaten more than 150 cherries in all: exactly how many?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 189
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q12|src_kangourou_2022_cadet_semifinale__Q12]]
 
 
 
@@ -581,13 +637,18 @@ How many cherries did Donatella eat
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measurement of the ABC angle between two regular hexagons*
+*How many degrees does the marked angle ABC measure?*
 
 ![[src_kangourou_2022_cadet_semifinale__prob13.png]]
 
-> (6 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that vertex are perpendicular. How many degrees does the indicated angle ABC measure?
+> (6 points) The picture shows two congruent regular hexagons that have only one vertex in common. Two of the sides that meet at that vertex are perpendicular. How many degrees does the marked angle ABC measure?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 15
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q13|src_kangourou_2022_cadet_semifinale__Q13]]
 
 
 
@@ -614,11 +675,16 @@ How many cherries did Donatella eat
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How to sit in cars with constraints*
+*In how many different ways can they take their seats in the car?*
 
-> (6 points) Five people must board a car which has five seats, two in front and three in the back. Only one of them can drive, two of the other four cannot sit next to each other, while there are no constraints on the remaining two. How many different ways can they get in the car? (Two ways are considered different if at least one of the car seats is occupied by different people.)
+> (6 points) Five people have to get into a car that has five seats, two in front and three behind. Only one of them can drive; two of the other four cannot sit next to each other, while there are no constraints on the remaining two. In how many different ways can they take their seats in the car? (Two ways are to be regarded as different if at least one of the seats in the car is occupied by different people.)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 16
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q14|src_kangourou_2022_cadet_semifinale__Q14]]
 
 
 
@@ -644,11 +710,16 @@ How many cherries did Donatella eat
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unused digit by writing 2022 as a sum of three numbers*
+*Which digit is not used in the sum?*
 
-> (6 points) The number 2022 can be written as the sum of three numbers that in total use 9 of the 10 digits each exactly once. What number is not used in the sum? Write 9999 if you think there's more than one possible answer.
+> (6 points) The number 2022 can be written as a sum of three numbers that together use 9 of the 10 digits, each exactly once. Which digit is not used in the sum? Write 9999 if you think there is more than one possible answer.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 3
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q15|src_kangourou_2022_cadet_semifinale__Q15]]
 
 
 
@@ -680,13 +751,16 @@ How many cherries did Donatella eat
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum operations to reach 2022 from 1*
+*What is the least number of operations that suffice to reach 2022?*
 
-> (7 points) A small calculator can only perform four optional operations on a number that is assigned: subtract 1, divide by 2, multiply by 3, add up 4. Starting from number 1 and running in sequence one at a time operations like these on the results obtained, what is the minimum number of operations that are sufficient to reach 2022? (For example, to reach 6 it takes and only 3: 1 × 3 + 4 − 1.)
->  
-> A B C
+> (7 points) A small calculating machine can carry out only four operations, to be chosen, on a number that is given to it: subtract 1, divide by 2, multiply by 3, add 4. Starting from the number 1 and carrying out, one at a time in sequence, operations such as these on the results obtained along the way, what is the least number of operations that suffice to reach 2022? (For example, to reach 6, 3 are needed and suffice: 1 × 3 + 4 − 1.)
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_backward|Working backwards]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 9
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q16|src_kangourou_2022_cadet_semifinale__Q16]]
 
 
 
@@ -716,17 +790,23 @@ How many cherries did Donatella eat
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pairs m,n with 1/m+1/n=1/3*
+*How many pairs of integers m, n with m ≤ n satisfy the equality?*
 
-> (7 points) How many pairs of integers m, n with m  n satisfy the equality   
+> (7 points) How many pairs of integers m, n with m ≤ n satisfy the equality
+>
 > 1
-> 𝑚+ 
+> m+
 > 1
-> 𝑛= 
+> n=
 > 1
 > 3 ?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 3
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q17|src_kangourou_2022_cadet_semifinale__Q17]]
 
 
 
@@ -763,10 +843,13 @@ How many cherries did Donatella eat
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability of Anna winning
+*What is the value of p?*
 
-> (8 points) Anna and Ernesto play as follows. On the table, there are six cards, numbered from 1 to 6. Anna turns one and then Ernesto turns another. The resulting numbers are then multiplied: if the product is an even number Anna wins, if it is an odd number Ernesto wins. Determine the probability of Anna winning with p/100: how much is p worth?
->  
-> 12 25 189 15 16 3 9 3 80
+> (8 points) Anna and Ernesto play as follows. On the table there are 6 face-down cards, numbered from 1 to 6. Anna turns one over and then Ernesto turns over another. The numbers obtained are then multiplied: if the product is an even number Anna wins, if it is an odd number Ernesto wins. Denote Anna's probability of winning by p/100: what is the value of p?
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 80
+[[Quesiti/src_kangourou_2022_cadet_semifinale#q18|src_kangourou_2022_cadet_semifinale__Q18]]

@@ -34,15 +34,20 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cosino di angolo diidride nella piramide quadrata destra*
+*Coseno dell'angolo diedro nella piramide quadrata retta*
 
-> Data una piramide quadrata destra $P$-$ABCD$ con $\angle APC = 60^\circ$, come mostrato nella figura, il cosino dell'angolo diedro $A$-$PB$-$C$ è $($\quad$)$.
-> 
+> Dato un piramide quadrata retta $P$-$ABCD$ con $\angle APC = 60^\circ$, come mostrato nella figura, il coseno dell'angolo di diedro $A$-$PB$-$C$ è $($\quad$)$.
+>
 > (A) $-\dfrac{1}{2}$ $\quad$ (B) $-\dfrac{1}{3}$ $\quad$ (C) $\dfrac{1}{3}$ $\quad$ (D) $\dfrac{1}{2}$
 
 ![[src_cn_b07_w38__q01.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2007#q01|src_cn_cmc_2007__Q01]]
 
 
 
@@ -68,13 +73,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Intervallo di una soddisfacente disuguaglianza di valore assoluto per tutte le x reali*
+*Intervallo di una soddisfacente disequazione in valore assoluto per ogni x reale*
 
-> Supponiamo che il numero reale $a$ soddisfi: per qualsiasi $x \in \mathbb{R}$, $|2x - a| + |3x - 2a| \ge a^2$. Quindi $a$ si trova in $($\quad$)$.
-> 
+> Supponiamo che il numero reale $a$ soddisfi: per ogni $x \in \mathbb{R}$, $|2x - a| + |3x - 2a| \ge a^2$. Allora $a$ appartiene a $($\quad$)$.
+>
 > (A) $\left[-\dfrac{1}{3},\, \dfrac{1}{3}\right]$ $\quad$ (B) $\left[-\dfrac{1}{4},\, \dfrac{1}{3}\right]$ $\quad$ (C) $[-3,\, 3]$ $\quad$ (D) $\left(-\dfrac{1}{3},\, \dfrac{1}{3}\right)$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2007#q02|src_cn_cmc_2007__Q02]]
 
 
 
@@ -100,13 +110,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Probabilità che a - 2b + 10 > 0 per le palle disegnate con sostituzione*
+*Probabilità che -2b+10 > 0 per le palline estratte con reinserimento*
 
-> Nove palle della stessa dimensione e colore, numerate $1, 2, \ldots, 9$, sono state messe in un pacchetto. Ora $A$ tira una palla dal pacchetto, nota che è di numero $a$, e la rimette indietro. Poi $B$ trae anche una palla dal pacchetto e nota che è di numero $b$. Quindi la probabilità che l'ineguaglianza $a - 2b + 10 > 0$ sia mantenuta è $($\quad$)$.
-> 
+> Nove sfere della stessa dimensione e dello stesso colore, numerate $1, 2, \ldots, 9$, sono state messe in un pacchetto. Ora $A$ estrae una sfera dal pacchetto, osserva che ha il numero $a$ e la rimette nel pacchetto. Poi anche $B$ estrae una sfera dal pacchetto e osserva che ha il numero $b$. Allora la probabilità che la disuguaglianza $a - 2b + 10 > 0$ sia verificata è $($\quad$)$.
+>
 > (A) $\dfrac{52}{81}$ $\quad$ (B) $\dfrac{59}{81}$ $\quad$ (C) $\dfrac{60}{81}$ $\quad$ (D) $\dfrac{61}{81}$
 
-**Risposta:** D
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2007#q03|src_cn_cmc_2007__Q03]]
 
 
 
@@ -132,13 +147,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta di bcos(c)/a nell'equazione funzionale trigonometrica*
+*Valore di bcos(c)/a nell'equazione funzionale trigonometrica*
 
-> Let $f(x) = 3\sin x + 2\cos x + 1$. Se i numeri reali $a$, $b$, $c$ sono tali che $af(x) + bf(x - c) = 1$ sia valido per qualsiasi $x \in \mathbb{R}$, allora $\dfrac{b\cos c}{a}$ è uguale a $($\quad$)$.
-> 
+> Sia $f(x) = 3\sin x + 2\cos x + 1$. Se i numeri reali $a$, $b$, $c$ sono tali che $af(x) + bf(x - c) = 1$ vale per ogni $x \in \mathbb{R}$, allora $\dfrac{b\cos c}{a}$ è uguale a $($\quad$)$.
+>
 > (A) $-\dfrac{1}{2}$ $\quad$ (B) $\dfrac{1}{2}$ $\quad$ (C) $-1$ $\quad$ (D) $1$
 
-**Risposta:** C
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2007#q04|src_cn_cmc_2007__Q04]]
 
 
 
@@ -166,15 +186,20 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Locus del centro del cerchio tangente a due cerchi fissi*
+*Luogo geometrico del centro della circonferenza tangente a due circonferenze fisse*
 
-> Dato che due cerchi fissi con $O_1$ e $O_2$ rispettivamente come loro centri, un cerchio $P$ si muove in modo tale da essere tangente a entrambi. Quindi il locus del centro di $P$ non può essere $($\quad$)$.
-> 
+> Dati due cerchi fissi con $O_1$ e $O_2$ come centri rispettivamente, un cerchio $P$ si muove in modo tale da essere tangente a entrambi. Allora il luogo geometrico del centro di $P$ non può essere $($\quad$)$.
+>
 > (A), (B), (C), (D) sono quattro curve mostrate nella figura.
 
 ![[src_cn_b07_w38__q05.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2007#q05|src_cn_cmc_2007__Q05]]
 
 
 
@@ -200,13 +225,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massima dimensione di unione di due sottoinsiemi disconnessi con condizione di mappatura*
+*Dimensione massima dell'unione di due sottoinsiemi disgiunti con condizione di mappatura*
 
-> Se il $A$ e il $B$ sono due sottogruppi di $\{1, 2, 3, \ldots, 100\}$, soddisfa $|A| = |B|$ e $A \cap B = \emptyset$. Se $a \in A$ implica sempre $2a + 2 \in B$, il massimo di $|A \cup B|$ è $($\quad$)$.
-> 
+> Siano $A$ e $B$ due sottoinsiemi di $\{1, 2, 3, \ldots, 100\}$, tali che valgano $|A| = |B|$ e $A \cap B = \emptyset$. Se $a \in A$ implica sempre $2a + 2 \in B$, allora il massimo di $|A \cup B|$ è $($\quad$)$.
+>
 > (A) $62$ $\quad$ (B) $66$ $\quad$ (C) $68$ $\quad$ (D) $74$
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2007#q06|src_cn_cmc_2007__Q06]]
 
 
 
@@ -230,11 +260,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum somma delle distanze da quattro punti fissi a punti variabili*
+*Somma minima delle distanze da quattro punti fissi a un punto variabile*
 
-> Se si considerano quattro punti fissi $A(-3,\, 0)$, $B(1,\, -1)$, $C(0,\, 3)$, $D(-1,\, 3)$ e un punto variabile $P$ in un sistema di coordinate rettangolari piani, il minimo di $|PA| + |PB| + |PC| + |PD|$ è $\underline{\qquad}$.
+> Dati quattro punti fissi $A(-3,\, 0)$, $B(1,\, -1)$, $C(0,\, 3)$, $D(-1,\, 3)$ e un punto variabile $P$ in un sistema di coordinate cartesiane nel piano, il minimo di $|PA| + |PB| + |PC| + |PD|$ è $\underline{\qquad}$.
 
-**Risposta:** $3\sqrt{2}+2\sqrt{5}$
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2007#q07|src_cn_cmc_2007__Q07]]
 
 
 
@@ -258,8 +293,13 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cosine dell'angolo tra EF e AC data configurazione triangolare*
+*Coseno dell'angolo tra EF e AC nella configurazione del triangolo data*
 
-> Date $\triangle ABC$ e $\triangle AEF$ in modo tale che $B$ sia il punto medio di $EF$, $AE = AC$, $AB = \sqrt{6}$, $CA = \sqrt{3}$ e $\overrightarrow{AB} \cdot \overrightarrow{AC} = 2$. Il cosino dell'angolo tra $\overrightarrow{EF}$ e $\overrightarrow{AC}$ è $\underline{\qquad}$.
+> Dati $\triangle ABC$ e $\triangle AEF$ tali che $B$ sia il punto medio di $EF$, $AE = AC$, $AB = \sqrt{6}$, $CA = \sqrt{3}$ e $\overrightarrow{AB} \cdot \overrightarrow{AC} = 2$. Il coseno dell'angolo tra $\overrightarrow{EF}$ e $\overrightarrow{AC}$ è $\underline{\qquad}$.
 
-**Risposta:** $-\dfrac{1}{3}$
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2007#q08|src_cn_cmc_2007__Q08]]

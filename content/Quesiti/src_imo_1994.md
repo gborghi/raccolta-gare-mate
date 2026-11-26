@@ -29,10 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Media di un sottoinsieme chiuso rispetto alla somma è almeno (n+1)/2*
+*M è il punto medio di BC e O sta su AM con OB perpendicolare ad AB*
 
 > M è il punto medio di BC e O è il punto sulla retta AM tale che
-> OB sia perpendicolare ad AB;
+> OB è perpendicolare ad AB;
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalità]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_imo_1994#q01|src_imo_1994__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*OQ perpendicolare a EF se e solo se QE=QF*
+*Q è un punto arbitrario sul segmento BC, diverso da B e da C*
 
-> Q è un punto arbitrario sul segmento BC diverso da B e C;
+> Q è un punto arbitrario sul segmento BC, diverso da B e da C;
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_imo_1994#q02|src_imo_1994__Q02]]
 
 
 
@@ -87,16 +99,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri con tre 1 in base 2; suriettività di f*
+*Conta i numeri con tre 1 binari; suriettività di f*
 
-> Sia E un punto sulla retta AB e F un punto sulla retta AC tali che E, Q, F siano distinti e allineati.
-> Si dimostri che OQ è perpendicolare a EF se e solo se QE = QF.
->
-> 3. Per ogni intero positivo k, sia f(k) il numero di elementi nell'insieme {k + 1, k + 2, ..., 2k} la cui rappresentazione in base 2 contiene esattamente tre cifre uguali a 1.
->
-> • (a) Si dimostri che, per ogni intero positivo m, esiste almeno un intero positivo k tale che f(k) = m.
->
-> • (b) Si determinino tutti gli interi positivi m per i quali esiste esattamente un k tale che f(k) = m.
+> E giace sulla retta AB e F giace sulla retta AC in modo che E, Q, F siano distinti e allineati. Dimostrare che OQ è perpendicolare a EF se e solo se QE = QF.
+> 3. Per ogni intero positivo k, si ponga f(k) uguale al numero di elementi nell'insieme
+> {k + 1, k + 2, . . . , 2k} la cui rappresentazione in base 2 abbia esattamente tre 1. • (a) Dimostrare che, per ogni intero positivo m, esiste almeno un intero positivo k tale che f(k) = m. • (b) Determina tutti gli interi positivi m per i quali esiste esattamente un k tale che f(k) = m.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1994#q03|src_imo_1994__Q03]]
 
 
 
@@ -121,12 +135,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le coppie (m,n) tali che (n^3+1)/(mn-1) sia intero*
+*Coppie di interi positivi (m, n) per cui una frazione spezzata è intera*
 
 > Determinare tutte le coppie ordinate (m, n) di interi positivi tali che
 > n3 + 1
 > mn −1
 > sia un intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_imo_1994#q04|src_imo_1994__Q04]]
 
 
 
@@ -150,10 +170,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le funzioni f definite in (-1,∞) che soddisfano certe condizioni funzionali e di monotonia*
+*Funzioni da S in S, con S i reali maggiori di −1; il testo si interrompe*
 
 > Sia S l'insieme dei numeri reali strettamente maggiori di −1.
-> Determinare tutte le funzioni f : S → S che soddisfano le due condizioni:
+> Trovare tutte
+> le funzioni f : S →S che soddisfano le due condizioni:
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_imo_1994#q05|src_imo_1994__Q05]]
 
 
 
@@ -176,6 +203,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*condizione di appartenenza al prodotto di primi per insiemi infiniti di numeri primi*
+*Condizione di adesione al prodotto primo per insiemi primi infiniti*
 
-> 6. Si dimostri che esiste un insieme A di interi positivi con la seguente proprietà: per ogni insieme infinito S di numeri primi, esistono due interi positivi m ∈ A e n ∉ A, ognuno dei quali è prodotto di k elementi distinti di S per un certo k ≥ 2.
+> 6. Dimostrare che esiste un insieme A di numeri interi positivi con la seguente proprietà: per ogni insieme infinito S di numeri primi, esistono due numeri interi positivi m ∈ A e n ∉ A tali che ciascuno di essi è il prodotto di k elementi distinti di S, per qualche k ≥ 2.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1994#q06|src_imo_1994__Q06]]

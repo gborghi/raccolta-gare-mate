@@ -31,11 +31,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Highest digit sum on digital watch*
+*The total number is higher on the digital clock*
 
-> Anna and her watch Anna enjoys calculating the sum of the digits that appear on her digital watch: for example, if the clock indicates 21:17, Anna gets 11. What is the highest sum Anna can get?
+> Anna and Her Watch
+> Anna enjoys calculating the sum of the digits that appear on her digital clock: for example, if the clock shows 21:17, Anna gets 11. What is the highest sum Anna can obtain?
 
-**Answer:** 24
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_squadre_finale#q01|src_kangourou_2011_squadre_finale__Q01]]
 
 
 
@@ -61,13 +66,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of skew lines among the edges of a cube*
+*Pairs of skew lines between the edges of a cube*
 
-> The edges of a cube    
-> How many pairs of skew lines (that is, not lying in the same plane) can be formed, 
-> choosing the lines from those on which the edges of a cube lie?
+> The edges of a cube
+> How many pairs of skew lines (that is, lines not lying in the same plane) can be formed by choosing the lines from among those on which the edges of a cube lie?
 
-**Answer:** 24
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_squadre_finale#q02|src_kangourou_2011_squadre_finale__Q02]]
 
 
 
@@ -95,15 +104,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The number PAPA in the cryptarithm A+AP+APP=PQA*
+*PAPA number in the coded sum A+AP+APP=PQA*
 
-> The cryptarithm
-> In the cryptarithm
-> A + AP + APP = PQA
-> the letters A, P and Q each denote a digit; different letters denote different digits. What number is
-> PAPA?
+> The encrypted sum
+> In the cryptarithm A + AP + APP = PQA, the letters A, P, and Q each represent a digit; different letters represent different digits. What number is PAPA?
 
-**Answer:** 5454
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_squadre_finale#q03|src_kangourou_2011_squadre_finale__Q03]]
 
 
 
@@ -132,11 +143,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of tournament players with 100 matches*
+*Number of players in a tournament with 100 matches*
 
-> The tennis tournament A tennis tournament proceeds by direct elimination. Two players face each other: the winner goes on, the loser is eliminated. At each stage the pairings are decided by drawing lots: if, in any stage, the number of players is odd, the last remaining at the end of the lottery automatically proceeds to the next stage. All things considered, to determine the winner, a total of 100 matches must be played. How many players are taking part in the tournament?
+> The tennis tournament
+> A tennis tournament is played on a single-elimination basis. Two players face each other: the winner advances, and the loser is eliminated. At each stage, the pairings are determined by draw: if, at any stage, the number of players is odd, the last player remaining after the draws automatically advances to the next stage. All in all, 100 matches must be played in total to determine the winner. How many players take part in the tournament?
 
-**Answer:** 101
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_squadre_finale#q04|src_kangourou_2011_squadre_finale__Q04]]
 
 
 
@@ -163,14 +180,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Subsets without consecutive numbers (>=2 elements)*
+*Subsets with no consecutive numbers (>=2 elements)*
 
-> &iente consecutive numbers 
-> Let A be the set consisting of the first 11 positive integers, that is, A = {1, 2, 3,…, 10, 11}. How many 
-> subsets of A, consisting of at least two elements, do not contain two consecutive 
-> numbers?
+> &ient of consecutive numbers
+> Let A be the set consisting of the first 11 positive integers, that is, A = {1, 2, 3, …, 10, 11}. How many subsets of A, each containing at least two elements and containing no two consecutive numbers, are there?
 
-**Answer:** 221
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_squadre_finale#q05|src_kangourou_2011_squadre_finale__Q05]]
 
 
 
@@ -196,11 +216,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square root of 6-digit multiple of 27 with digit constraints*
+*6-digit square root, multiple of 27, with digit constraints*
 
-> The perfect square A six-digit integer is a perfect square, it's a multiple of 27, its units digit is 0, and that of the hundreds is 5. What is its square root?
+> The Perfect Square
+> A six-digit integer is a perfect square, is a multiple of 27, has a units digit of 0 and a hundreds digit of 5. What is its square root?
 
-**Answer:** 450
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_squadre_finale#q06|src_kangourou_2011_squadre_finale__Q06]]
 
 
 
@@ -228,15 +254,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible numbers after 9 km on the odometer (digits 1,2)*
+*Possible numbers between 9 km on the odometer (digits 1, 2)*
 
-> Marco's car 
-> The odometer of Marco's car has 6 digits. Marco is driving and notices that right now 
-> his odometer shows a number made up only of the digits 1 and 2, and that the number that 
-> will appear in 9 kilometers will still be made up only of the digits 1 and 2. How many numbers 
-> could appear in 9 kilometers?
+> Marco's car
+> Marco's car's odometer has 6 digits. Marco is driving and notices that at this moment the number shown on his odometer consists only of the digits 1 and 2, and that the number that will appear after 9 kilometers will still consist only of the digits 1 and 2. How many numbers could appear after 9 kilometers?
 
-**Answer:** 16
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_squadre_finale#q07|src_kangourou_2011_squadre_finale__Q07]]
 
 
 
@@ -265,9 +293,15 @@ level: squadre
 
 *7-digit numbers containing block 2011*
 
-> How many positive integers of 7 significant digits (i.e. the first digit of which is not 0) contain the 2011 block of digits as part of their decimal representation (it is understood that the block digits must appear consecutively)?
+> 7-digit numbers
+> How many positive integers with 7 significant digits (i.e., whose first digit is not 0) contain the digit block 2011 as part of their decimal representation (meaning that the digits of the block must appear consecutively)?
 
-**Answer:** 3700
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_squadre_finale#q08|src_kangourou_2011_squadre_finale__Q08]]
 
 
 
@@ -295,11 +329,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes more for Felice than Marco*
+*Felice has a few more minutes than Marco*
 
-> The two runners Two runners, Marco and Felice, must make a common route: Marco from point A to point B, Felice from point B to point A. They start at the same moment and each keeps their speed constant. When Marco is halfway through, Felix has an hour and a half to get there; when Felix is halfway through, Marco has three-quarters of an hour to get there. How many more minutes does it take Felice than Marco to complete the journey?
+> The Two Runners
+> Two runners, Marco and Felice, must cover a common route: Marco goes from point A to point B, and Felice goes from point B to point A. They start at the same instant, and each maintains a constant speed. When Marco is halfway there, Felice still has an hour and a half left to reach the destination; when Felice is halfway there, Marco still has three-quarters of an hour left to reach the destination. By how many minutes does Felice take longer than Marco to complete the route?
 
-**Answer:** 30
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2011_squadre_finale#q09|src_kangourou_2011_squadre_finale__Q09]]
 
 
 
@@ -332,11 +371,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum maid trips with unfavourable elevator*
+*Minimum travel: maid with unfavorable elevator*
 
-> A strange elevator In a 20-story hotel, the first ten are painted green, the ones from the 11th to the 20th are painted red. The hotel does not have stairs and you can only use a strange elevator to change your floor. Anyone entering the elevator on a green floor is sure to be taken to the floor they want. The person entering the elevator on a red floor is taken to a floor of the same colour as the one he selected, but not necessarily to the selected floor; in any case, the elevator changes floor. From whatever floor you call, the elevator will arrive as soon as it is free. A waitress has to go through all the floors, starting with the first and coming back. If the elevator behaves in a way that is most unfavorable to you, what is the minimum number of trips that will allow her to achieve her goal?
+> A strange elevator
+> In a 20-storey hotel, the first ten floors are painted green, and the floors from the eleventh to the twentieth are painted red. The hotel has no stairs, and to change floors one can use only a strange elevator that behaves as follows. Anyone who enters the elevator on a green floor is certain to be taken to the floor they want. Anyone who enters the elevator on a red floor is taken to a floor of the same colour as the one they selected, but not necessarily to the selected floor; in any case, the elevator changes floors. Whenever it is called from any floor, the elevator arrives there as soon as it is free. A maid must visit all the floors, starting from the first floor and returning to it. If the elevator behaves in the way most unfavourable to her, what is the minimum number of trips that will enable her to achieve her goal?
 
-**Answer:** 29
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_squadre_finale#q10|src_kangourou_2011_squadre_finale__Q10]]
 
 
 
@@ -362,11 +407,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest integer that cannot be written as a×b+c with distinct digits*
+*Smallest integer that cannot be written as a*b+c with distinct digits*
 
-> The smallest number What is the smallest integer greater than 1 that cannot be written in the form a × b + c where a, b and c are all distinct digits?
+> The smallest number
+> What is the smallest integer greater than 1 that cannot be written in the form a × b + c, where a, b, and c are digits all different from one another?
 
-**Answer:** 70
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_squadre_finale#q11|src_kangourou_2011_squadre_finale__Q11]]
 
 
 
@@ -393,11 +444,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of grandfather Angelo with conditions of multiples*
+*And Eta, nonno Angelo, with multiple conditions*
 
-> Grandpa Angelo, who is not yet centenarian, today says: "My age (expressed by an integer number of years) in a year will be a multiple of 2, in two years a multiple of 3, in three years a multiple of 4, in four years a multiple of 5." How old is Grandpa Angelo today?
+> &onno Angelo
+> Grandpa Angelo, who isn't a centenarian yet, says today: "My age (expressed as a whole number of years) will be a multiple of 2 in one year, a multiple of 3 in two years, a multiple of 4 in three years, and a multiple of 5 in four years." How old is Grandpa Angelo today?
 
-**Answer:** 61
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_squadre_finale#q12|src_kangourou_2011_squadre_finale__Q12]]
 
 
 
@@ -421,11 +478,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*N value with 2^n = 134217728*
+*Value n such that 2^n=134217728*
 
-> A power of two. You know that 2^n is equal to 134,217,728. What is n ?
+> A power of two
+> You know that 2n = 134,217,728. What is the value of n?
 
-**Answer:** 27
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2011_squadre_finale#q13|src_kangourou_2011_squadre_finale__Q13]]
 
 
 
@@ -453,11 +515,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of two out of three births on the same day of the week*
+*Probability: two out of three born on the same day of the week*
 
-> Birthdays Choosing three different people at random, what is the probability that at least two of them were born on the same day of the week (no matter which)? The result is a number between 0 and 1: write, in order, only its first four decimal digits (i.e. the first four to the right of the decimal point).
+> Full-days
+> If you randomly select three different people, what is the probability that at least two of them were born on the same day of the week (any day)? The result is a number between 0 and 1: write, in order, only its first four decimal digits (that is, the first four digits to the right of the decimal point).
 
-**Answer:** 3877
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2011_squadre_finale#q14|src_kangourou_2011_squadre_finale__Q14]]
 
 
 
@@ -490,19 +558,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Acute angles of the rim by four rectangular triangles*
+*Acute angles of the rhombus formed by four right triangles*
 
 ![[src_kangourou_2011_squadre_finale__prob15.png]]
 
-> The corners of the rim In the figure you see a rim formed by approaching four rectangular triangles between them congruent. How many degrees does each of the sharp corners of the rim measure?
->  
->               
->                                                                                                                             
-> 
->  
->  
-> Kangourou of Mathematics 2011 Kangourou team cup - final by Mirabilandia, 8 May 2011
->  
-> Questions and solutions
+> The angles of the rhombus
+> In the figure, you can see a rhombus formed by joining four congruent right-angled triangles together. How many degrees does each of the acute angles of the rhombus measure? Kangourou della Matematica 2011 Team Kangourou Cup – Final, Mirabilandia, 8 May 2011
+>
+> Questions and Solutions
 
-**Answer:** 60
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2011_squadre_finale#q15|src_kangourou_2011_squadre_finale__Q15]]

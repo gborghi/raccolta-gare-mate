@@ -29,9 +29,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due linee di intersezione si trovano in piani ortogonali; dimostrare l'esistenza di un cerchio i cui punti si trovano tutti sulla linea di intersezione di tali coppie di piani.*
+*Due rette incidenti giacciono in piani ortogonali; dimostrare l'esistenza di una circonferenza i cui punti giacciono tutti sulla retta intersezione di tali coppie di piani.*
 
-> Due linee di intersezione $a$ e $b$ sono indicate in un piano. Considerare tutte le coppie di piani ortogonali $\alpha, \beta$ come $a \subset \alpha$ e $b \subset \beta$. Prove che esiste un cerchio tale che ogni suo punto si trova sulla linea $\alpha \cap \beta$ per alcuni $\alpha$ e $\beta$.
+> In un piano sono date due rette incidenti $a$ e $b$. Si considerino tutte le coppie di piani ortogonali $\alpha, \beta$ tali che $a \subset \alpha$ e $b \subset \beta$. Dimostrare che esiste una circonferenza tale che ciascun suo punto giace sulla retta $\alpha \cap \beta$ per qualche $\alpha$ e $\beta$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1981_r3#q01|src_pol_1981_r3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nel triangolo ABC i bisettori perpendicolari di AB e AC incontrano BC a X e Y; dimostrare BC=XY se B tan C = 3 o = -1.*
+*Nel triangolo ABC, le mediatrici di AB e AC intersecano BC rispettivamente in X e Y; dimostrare che BC = XY se e solo se tan B tan C = 3 oppure tan B tan C = -1.*
 
-> In un triangolo $ABC$, i bisettori perpendicolari dei lati $AB$ e $AC$ si intersecano a $BC$ e $Y$. Prova che $BC = XY$ se e solo se $\tan B \tan C = 3$ o $\tan B \tan C = -1$.
+> In un triangolo $ABC$, le mediatrici dei lati $AB$ e $AC$ intersecano $BC$ rispettivamente in $X$ e in $Y$. Dimostrare che $BC = XY$ se e solo se $\tan B \tan C = 3$ oppure $\tan B \tan C = -1$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1981_r3#q02|src_pol_1981_r3__Q02]]
 
 
 
@@ -80,9 +94,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove una disuguaglianza di prodotto che limita il prodotto di x-alpha^k/(x+alpha^k) al prodotto di (1-alpha^k)/(1+alpha^k).*
+*Prova un'disuguaglianza sul prodotto che maggiora il prodotto di |x-alpha^k|/(x+alpha^k) mediante il prodotto di (1-alpha^k)/(1+alpha^k).*
 
-> Prova che per qualsiasi numero naturale $n$ e numeri reali $\alpha$ e $x$ che soddisfi $\alpha^{n+1} \le x \le 1$ e $0 < \alpha < 1$ si ritiene che $$\prod_{k=1}^{n} \left| \frac{x - \alpha^k}{x + \alpha^k} \right| \le \prod_{k=1}^{n} \frac{1 - \alpha^k}{1 + \alpha^k}.$$
+> Dimostrare che, per ogni numero naturale $n$ e per ogni numero reale $\alpha$ e $x$ tali che $\alpha^{n+1} \le x \le 1$ e $0 < \alpha < 1$, vale che
+> $$\prod_{k=1}^{n} \left| \frac{x - \alpha^k}{x + \alpha^k} \right| \le \prod_{k=1}^{n} \frac{1 - \alpha^k}{1 + \alpha^k}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1981_r3#q03|src_pol_1981_r3__Q03]]
 
 
 
@@ -105,9 +127,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n marcatori ognuno etichettato da un numero intero; se due condividono l'etichetta k, rinominare uno k+1 e l'altro k-1; dimostrare che tutti diventano distinti dopo numerose mosse finite.*
+*n marcatori, ciascuno etichettato da un numero intero; se due condividono l'etichetta k, uno venga rinominato k+1 e l'altro k-1; dimostrare che, dopo un numero finito di mosse, tutti diventano distinti.*
 
-> Su una tabella sono indicati i marcatori $n$, ognuno dei quali è indicato da un numero intero. In qualsiasi momento, se alcuni due marcatori sono indicati con lo stesso numero, diciamo $k$, possiamo rinominare uno di essi con $k + 1$ e l'altro con $k - 1$. Prova che dopo un numero finito di mosse tutti i marcatori saranno indicati con numeri diversi.
+> Su un tavolo ci sono $n$ marcatori, ciascuno dei quali è indicato da un numero intero. In qualsiasi momento, se due marcatori qualsiasi sono indicati dallo stesso numero, diciamo $k$, possiamo rinominare uno di essi con $k + 1$ e l'altro con $k - 1$. Dimostrare che, dopo un numero finito di mosse, tutti i marcatori saranno indicati da numeri diversi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1981_r3#q04|src_pol_1981_r3__Q04]]
 
 
 
@@ -131,9 +160,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di numeri interi (x,y) con x^3 + x^2 y + y^3 = 8(x^2 + xy + y^2 + 1).*
+*Trovare tutte le coppie di interi (x,y) tali che x^3 + x^2 y + y^3 = 8(x^2 + xy + y^2 + 1).*
 
-> Determinare tutte le coppie di integri $(x, y)$ che soddisfano l'equazione $$x^3 + x^2 y + y^3 = 8(x^2 + xy + y^2 + 1).$$
+> Determinare tutte le coppie di interi $(x, y)$ che soddisfano l'equazione
+> $$x^3 + x^2 y + y^3 = 8(x^2 + xy + y^2 + 1).$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1981_r3#q05|src_pol_1981_r3__Q05]]
 
 
 
@@ -157,6 +194,14 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per un tetraedro di volume V con S la somma dei quadrati delle sue lunghezze di bordo, provare V <= S×sqrt(S)/(72×sqrt(3)).*
+*Per un tetraedro di volume V, con S somma dei quadrati delle lunghezze dei suoi spigoli, dimostrare che V <= S*sqrt(S)/(72*sqrt(3)).*
 
-> In un tetraedro di volume $V$ la somma dei quadrati delle lunghezze dei suoi bordi è uguale a $S$. Provare che $$V \le \frac{S\sqrt{S}}{72\sqrt{3}}.$$
+> In un tetraedro di volume $V$, la somma dei quadrati delle lunghezze dei suoi spigoli è uguale a $S$. Dimostrare che
+> $$V \le \frac{S\sqrt{S}}{72\sqrt{3}}.$$
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1981_r3#q06|src_pol_1981_r3__Q06]]

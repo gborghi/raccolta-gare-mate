@@ -29,9 +29,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un triangolo con condizione di angolo bisector implica a^2 = b(b+c)*
+*Se l'angolo in A è il doppio dell'angolo in B, allora a² = b(b+c)*
 
-> In un triangolo $ABC$, $\angle A = 2\angle B$. Prove che $a^2 = b(b + c)$.
+> Nel triangolo $ABC$, $\angle A = 2\angle B$. Dimostrare che $a^2 = b(b + c)$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_inmo_1992#q01|src_inmo_1992__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri reali x,y,z con la somma e la somma delle condizioni di quadrati; mostrare x_i in [1/2,2]*
+*Numeri reali x,y,z con condizioni sulla somma e sulla somma dei quadrati; mostrare che x_i appartiene a [1/2,2]*
 
-> Se i numeri reali $x, y, z$ soddisfano $x + y + z = 4$ e $x^2 + y^2 + z^2 = 6$, indicare che ciascuno di $x, y, z$ si trova nel segmento $\left[\tfrac{1}{2}, 2\right]$. Può $x$ raggiungere uno dei punti finali del segmento?
+> Se i numeri reali $x, y, z$ soddisfano $x + y + z = 4$ e $x^2 + y^2 + z^2 = 6$, dimostrare che ciascuno di $x, y, z$ appartiene al segmento $\left[\tfrac{1}{2}, 2\right]$. $x$ può raggiungere uno qualsiasi degli estremi del segmento?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1992#q02|src_inmo_1992__Q02]]
 
 
 
@@ -79,9 +93,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Restante di 19^92 dopo divisione per 92*
+*Il resto di 19^92 nella divisione per 92*
 
-> Determinare il residuo di $19^{92}$ diviso per $92$.
+> Determinare il resto di $19^{92}$ nella divisione per $92$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_inmo_1992#q03|src_inmo_1992__Q03]]
 
 
 
@@ -104,9 +125,15 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazioni di 1,...,k non estensibili; trovare numero di tali permutazioni*
+*Permutazioni di 1,...,k non estendibili; trovare il numero di tali permutazioni*
 
-> Trova il numero di permutazioni $(p_1, p_2, \ldots, p_6)$ di $1, 2, \ldots, 6$ in modo tale che per qualsiasi $k$, $1 \le k \le 5$, $(p_1, p_2, \ldots, p_k)$ non costituisca una permutazione di $1, 2, \ldots, k$.
+> Determinare il numero di permutazioni $(p_1, p_2, \ldots, p_6)$ di $1, 2, \ldots, 6$ tali che, per ogni $k$ con $1 \le k \le 5$, $(p_1, p_2, \ldots, p_k)$ non formi una permutazione di $1, 2, \ldots, k$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+[[Quesiti/src_inmo_1992#q04|src_inmo_1992__Q04]]
 
 
 
@@ -129,9 +156,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due cerchi; una linea attraverso P li incontra; punto medio di AB, punto medio di XZ coincidono*
+*Due cerchi; una retta passante per P li interseca; il punto medio di AB e il punto medio di XZ coincidono*
 
-> Due cerchi $C_1$ e $C_2$ nel piano si intersecano a due punti $P$ e $Q$. Una linea attraverso $P$ incontra $C_1$ a $A$ e $C_2$ a $B$. Il $Y$ deve essere il punto medio di $AB$ e $QY$ deve incontrare di nuovo i cerchi $C_1$ e $C_2$ rispettivamente a $X$ e $Z$. Indicare che $Y$ è il punto medio di $XZ$.
+> Due circonferenze $C_1$ e $C_2$ nel piano si intersecano nei due punti $P$ e $Q$. Una retta passante per $P$ incontra $C_1$ in $A$ e $C_2$ in $B$. Sia $Y$ il punto medio di $AB$, e sia $QY$ tale che incontri nuovamente le circonferenze $C_1$ e $C_2$ rispettivamente nei punti $X$ e $Z$. Dimostrare che $Y$ è il punto medio di $XZ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1992#q05|src_inmo_1992__Q05]]
 
 
 
@@ -154,9 +188,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio con coefficienti interi che assumono il valore 2 a numeri interi distinti; nessun numero intero b con f(b)=9*
+*Polinomio a coefficienti interi che assume il valore 2 in numeri interi distinti; nessun intero b tale che f(b)=9*
 
-> $f(x)$ sia un polinomio con coefficienti interi in modo che esistano diversi interi $a_1, a_2, \ldots, a_n$ in cui $f$ prende il valore $2$. Indicare che non esiste un numero intero $b$ con $f(b) = 9$.
+> Sia $f(x)$ un polinomio a coefficienti interi tale che esistano interi distinti $a_1, a_2, \ldots, a_n$ per i quali $f$ assume il valore $2$. Dimostrare che non esiste un intero $b$ tale che $f(b) = 9$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_1992#q06|src_inmo_1992__Q06]]
 
 
 
@@ -179,9 +220,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n x n scacchi: contare i modi per posizionare i numeri n^2 in progressione aritmetica in ogni riga e colonna*
+*Scacchiera n x n: conta i modi per disporre in ogni riga e in ogni colonna n^2 numeri in progressione aritmetica*
 
-> Per ogni numero intero $n \ge 3$, trovare il numero di modi in cui si possono posizionare i numeri $1, 2, \ldots, n^2$ nei quadrati di una scacchiera $n \times n$ (uno in ogni quadrato) in modo che i numeri in ogni riga e in ogni colonna formino una progressione aritmetica.
+> Per ogni intero $n \ge 3$, determina il numero di modi in cui si possono collocare i numeri $1, 2, \ldots, n^2$ nelle caselle di una scacchiera $n \times n$ (uno in ogni casella) in modo che i numeri in ogni riga e in ogni colonna formino una progressione aritmetica.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1992#q07|src_inmo_1992__Q07]]
 
 
 
@@ -204,9 +252,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie (m,n) di numeri interi positivi per le quali 2^m + 3^n è un quadrato perfetto*
+*Coppie di interi positivi per cui 2^m + 3^n è un quadrato perfetto*
 
-> Trova tutte le coppie $(m, n)$ di interi positivi per le quali $2^m + 3^n$ è un quadrato perfetto.
+> Trovare tutte le coppie $(m, n)$ di interi positivi per cui $2^m + 3^n$ è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_casework_accurato|Analisi accurata per casi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_inmo_1992#q08|src_inmo_1992__Q08]]
 
 
 
@@ -230,9 +285,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N-gon regolare A_1A_2...A_n; identificazione per le reciprocità dei prodotti dei lati*
+*n-gono regolare A_1A_2...A_n; identità per i reciproci dei prodotti dei lati*
 
-> Trova $n$ in modo che in un normale $n$-gon $A_1 A_2 \ldots A_n$ abbiamo $$\frac{1}{A_1 A_2} = \frac{1}{A_1 A_3} + \frac{1}{A_1 A_4}.$$
+> Trovare $n$ tale che in un $n$-gono regolare $A_1 A_2 \ldots A_n$ si abbia
+> $$\frac{1}{A_1 A_2} = \frac{1}{A_1 A_3} + \frac{1}{A_1 A_4}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_1992#q09|src_inmo_1992__Q09]]
 
 
 
@@ -256,6 +319,14 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni f: R\{0,1} → R che soddisfa un'equazione funzionale*
+*Trovare tutte le funzioni f: R\{0,1} → R che soddisfano un'equazione funzionale*
 
-> Determinare tutte le funzioni $f : \mathbb{R} \setminus \{0, 1\} \to \mathbb{R}$ in modo che per tutte $x$, $$f(x) + f\!\left(\frac{1}{1-x}\right) = \frac{2(1-2x)}{x(1-x)}.$$
+> Determinare tutte le funzioni $f : \mathbb{R} \setminus \{0, 1\} \to \mathbb{R}$ tali che, per ogni $x$,
+> $$f(x) + f\!\left(\frac{1}{1-x}\right) = \frac{2(1-2x)}{x(1-x)}.$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_1992#q10|src_inmo_1992__Q10]]

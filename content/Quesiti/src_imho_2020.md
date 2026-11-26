@@ -31,11 +31,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le bisettrici degli angoli e l'asse di un lato si incontrano in un punto*
+*Le bisettrici degli angoli e la bisettrice perpendicolare si incontrano in un punto*
 
-> Consideriamo il quadrilatero convesso $ABCD$. Il punto $P$ si trova all'interno di $ABCD$. Siano verificate le seguenti uguaglianze tra rapporti:
+> Si consideri il quadrilatero convesso $ABCD$. Il punto $P$ è interno a $ABCD$. Valgono le seguenti uguaglianze dei rapporti:
 > $$\angle PAD : \angle PBA : \angle DPA = 1 : 2 : 3 = \angle CBP : \angle BAP : \angle BPC.$$
-> Si dimostri che le seguenti tre rette si incontrano in un punto: la bisettrice interna dell'angolo $\angle ADP$, la bisettrice interna dell'angolo $\angle PCB$ e l'asse del segmento $AB$.
+> Dimostrare che le seguenti tre rette concorrono in un punto: le bisettrici interne degli angoli $\angle ADP$ e $\angle PCB$, e la mediatrice del segmento $AB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_2020#q01|src_imho_2020__Q01]]
 
 
 
@@ -59,10 +66,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disuguaglianza per reali con somma 1 e a≥b≥c≥d≥0*
+*Disuguaglianza per numeri reali la cui somma è 1, con a≥b≥c≥d≥0*
 
-> I numeri reali $a, b, c, d$ sono tali che $a \ge b \ge c \ge d > 0$ e $a + b + c + d = 1$. Si dimostri che
+> I numeri reali $a, b, c, d$ sono tali che $a \ge b \ge c \ge d > 0$ e $a + b + c + d = 1$. Dimostrare che
 > $$(a + 2b + 3c + 4d) a^a b^b c^c d^d < 1.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2020#q02|src_imho_2020__Q02]]
 
 
 
@@ -89,13 +103,19 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pietre di peso da 1 a 4n divise in due mucchi uguali*
+*Ciottoli di pesi da 1 a 4n suddivisi in due mucchi uguali*
 
-> Sono presenti $4n$ sassolini di peso $1, 2, 3, \ldots, 4n$. Ogni sassolino è colorato con uno dei $n$ colori, e per ciascun colore ci sono esattamente quattro sassolini. Si dimostri che è possibile disporre i sassolini in due mucchi in modo che siano soddisfatte entrambe le seguenti condizioni:
+> Ci sono $4n$ ciottoli di pesi $1, 2, 3, \ldots, 4n$. Ogni ciottolo è colorato in uno dei $n$ colori e ci sono quattro ciottoli per ogni colore. Dimostrare che possiamo disporre i ciottoli in due mucchi in modo che siano soddisfatte entrambe le seguenti condizioni:
 > \begin{itemize}
-> \item I pesi totali dei due mucchi siano uguali.
-> \item Ogni mucchio contenga esattamente due sassolini di ciascun colore.
+> \item I pesi totali di entrambi i mucchi sono uguali. \item Ogni mucchio contiene due ciottoli di ciascun colore.
 > \end{itemize}
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2020#q03|src_imho_2020__Q03]]
 
 
 
@@ -120,11 +140,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funivie su un monte; trovare n in modo che tutte le carte siano uguali*
+*Funicolari su una montagna; trova n in modo che tutte le carte siano uguali*
 
-> Esiste un intero $n > 1$. Esistono $n^2$ stazioni su una pendenza di un monte, tutte a quote diverse. Ognuna delle due compagnie di funivie, $A$ e $B$, gestisce $k$ funivie; ciascuna funivia consente di passare da una stazione a un'altra posta a quota più alta (senza fermate intermedie). Le $k$ funivie della compagnia $A$ hanno $k$ punti di partenza diversi e $k$ punti di arrivo diversi, e una funivia che parte da una quota più alta termina anch'essa a una quota più alta. Le stesse condizioni valgono per $B$. Diciamo che due stazioni sono collegate da una compagnia se si può partire dalla stazione più bassa e raggiungere quella più alta utilizzando una o più funivie della stessa compagnia (non sono consentiti altri spostamenti tra le stazioni).
-> 
-> Determinare il più piccolo intero positivo $k$ per cui si può garantire che esistano due stazioni collegate da entrambe le compagnie.
+> Esiste un numero intero $n > 1$. Sul versante di una montagna ci sono $n^2$ stazioni, tutte a quote diverse. Ciascuna delle due società di funivie, $A$ e $B$, gestisce $k$ funivie; ciascuna funivia consente di spostarsi da una delle stazioni a una stazione più alta (senza fermate intermedie). Le $k$ funivie di $A$ hanno $k$ punti di partenza diversi e $k$ punti di arrivo diversi, e una funivia che parte da una quota più alta arriva anch'essa a una quota più alta. Le stesse condizioni valgono per $B$. Diciamo che due stazioni sono collegate da una società se si può partire dalla stazione più bassa e raggiungere quella più alta utilizzando una o più funivie di quella società (non sono ammessi altri spostamenti tra le stazioni).
+>
+> Determina il più piccolo numero intero positivo $k$ per cui si può garantire che esistano due stazioni collegate da entrambe le società.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_grafi|Grafi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_2020#q04|src_imho_2020__Q04]]
 
 
 
@@ -149,11 +176,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mazzo di carte: la media aritmetica uguaglia la media geometrica sulle coppie*
+*Mazzo di carte: la media aritmetica è uguale alla media geometrica sulle coppie*
 
-> Si ha un mazzo di $n > 1$ carte. Su ciascuna carta è scritto un numero intero positivo. Il mazzo ha la proprietà che la media aritmetica dei numeri su ciascuna coppia di carte è anche la media geometrica dei numeri su qualche insieme di una o più carte.
-> 
-> Per quali $n$ si deduce che i numeri sulle carte sono tutti uguali?
+> È data un mazzo di $n > 1$ carte. Su ciascuna carta è scritto un numero intero positivo. Il mazzo ha la proprietà che la media aritmetica dei numeri su ogni coppia di carte è anche la media geometrica dei numeri su qualche insieme di una o più carte.
+>
+> Per quali $n$ ne consegue che i numeri sulle carte sono tutti uguali?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_2020#q05|src_imho_2020__Q05]]
 
 
 
@@ -184,10 +218,17 @@ level: IMO
 
 *Costante positiva c tale che una retta separi S da ciascun punto*
 
-> Si dimostri che esiste una costante positiva $c$ tale che la seguente affermazione sia vera:
-> 
-> Sia dato un intero $n > 1$, e sia dato un insieme $S$ di $n$ punti nel piano tali che la distanza tra ogni coppia di punti distinti in $S$ sia almeno 1. Si deduce che esiste una retta $\ell$ che separa $S$ in modo tale che la distanza da ogni punto di $S$ alla retta $\ell$ sia almeno $cn^{-1/3}$.
-> 
+> Dimostrare che esiste una costante positiva $c$ tale che la seguente affermazione è vera:
+>
+> Si consideri un numero intero $n > 1$ e un insieme $S$ di $n$ punti nel piano tale che la distanza tra due punti distinti qualsiasi in $S$ sia almeno 1. Ne segue che esiste una retta $\ell$ che separa $S$ tale che la distanza da un punto qualsiasi di $S$ a $\ell$ sia almeno $cn^{-1/3}$.
+>
 > (Una retta $\ell$ separa un insieme di punti $S$ se qualche segmento che congiunge due punti in $S$ interseca $\ell$.)
-> 
-> \textit{Nota.} Risultati più deboli con $cn^{-1/3}$ sostituito da $cn^{-\alpha}$ potranno essere valutati con punteggio in base al valore della costante $\alpha > 1/3$.
+>
+> \textit{Nota.} Risultati più deboli in cui $cn^{-1/3}$ è sostituito da $cn^{-\alpha}$ potranno valere punti a seconda del valore della costante $\alpha > 1/3$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imho_2020#q06|src_imho_2020__Q06]]

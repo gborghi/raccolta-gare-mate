@@ -29,9 +29,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bissettori angolari di due angoli si incontrano sul lato AB*
+*Le bisettrici di due angoli si incontrano sul lato AB*
 
-> Il triangolo $ABC$ soddisfa $AB = AC \neq BC$. Il punto $D$ deve essere un punto all'interno del triangolo $ABC$ tale che $\angle ABD = \angle ACD = 30^\circ$. Indicare che i bisettori angolari di $\angle ACB$ e $\angle ADB$ si intersecano in un punto laterale $AB$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Il triangolo $ABC$ soddisfa $AB = AC \neq BC$. Sia $D$ un punto all'interno del triangolo $ABC$ tale che $\angle ABD = \angle ACD = 30^\circ$. Dimostrare che le bisettrici degli angoli di $\angle ACB$ e $\angle ADB$ si intersecano in un punto situato sul lato $AB$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo17mq_honsen#q01|src_jjmo17mq_honsen__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum n scatole con palle di 10 colori e quantità di colori uguali*
+*Numero minimo n di scatole con palline di 10 colori e somme dei colori uguali*
 
-> Ci sono scatole $n$, ciascuna contenente una palla dipinta in un colore. Le palle usano esattamente $10$ colori in totale, e le palle adiacenti (nelle scatole vicine) hanno colori diversi. Ogni palla ha un numero intero scritto su di essa. È noto che per ogni coppia di colori, la somma dei numeri interi su tutte le palle di quei due colori è uguale (cioè, la somma dei numeri interi su palle di ogni colore è la stessa per tutti i colori $10$). Trova il valore minimo possibile di $n$.
+> Ci sono $n$ scatole, ciascuna contenente una palla dipinta di un unico colore. In totale, le palle utilizzano esattamente $10$ colori, e le palle adiacenti (in scatole vicine) hanno colori diversi. Su ogni palla è scritto un numero intero. Si sa che, per ogni coppia di colori, la somma dei numeri interi scritti su tutte le palle di quei due colori è uguale (cioè, la somma dei numeri interi sulle palle di ciascun colore è la stessa per tutti i $10$ colori). Determinare il valore minimo possibile di $n$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo17mq_honsen#q02|src_jjmo17mq_honsen__Q02]]
 
 
 
@@ -85,13 +99,22 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disuguaglianza tra MCD e minimo e casi di uguaglianza per interi positivi*
+*Disuguaglianza e casi di uguaglianza del MCD minimo per numeri interi positivi*
 
-> Siano $a, b$ interi positivi. Qui $\gcd(x, y)$ indica il massimo comun divisore di $x$ e $y$, e $\min(x, y)$ indica il minore tra $x$ e $y$.
-> 
-> (1) Dimostrare che vale la disuguaglianza $$\min\bigl(\gcd(a,\, b+1),\; \gcd(a+1,\, b)\bigr) \le \frac{\sqrt{4a+5}-1}{2}$$
-> 
-> (2) Trovare tutte le coppie di interi positivi $(a, b)$ per le quali nella disuguaglianza precedente vale l'uguaglianza.
+> Siano $a, b$ numeri interi positivi. Qui $\gcd(x, y)$ denota il massimo comune divisore di $x$ e $y$, e $\min(x, y)$ denota il minore tra $x$ e $y$.
+>
+> (1) Dimostrare che la disuguaglianza
+> $$\min\bigl(\gcd(a,\, b+1),\; \gcd(a+1,\, b)\bigr) \le \frac{\sqrt{4a+5}-1}{2}$$
+> vale.
+>
+> (2) Determinare tutte le coppie di numeri interi positivi $(a, b)$ per cui vale l'uguaglianza nella disuguaglianza sopra.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo17mq_honsen#q03|src_jjmo17mq_honsen__Q03]]
 
 
 
@@ -121,13 +144,22 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di spostamenti ortogonali nel percorso di King-Move Hamiltonian su n ×n griglia*
+*Mosse ortogonali minime nel percorso hamiltoniano a mosse di re su griglia n×n*
 
-> $n \ge 3$ sia un numero intero. Considerate una griglia di quadrati $n \times n$. Si gioca il seguente gioco:
-> 
-> Scegli un quadrato e metti un pezzo su di esso. \item A ogni passo, dal quadrato attualmente occupato dal pezzo, scegli un quadrato adiacente orizzontalmente, verticalmente o diagonalmente che non è ancora stato visitato, e spostare il pezzo lì. Ripetere questa operazione finché non esista un quadrato adiacente non visitato. # Finire #
-> 
-> Quando tutti i quadrati $n^2$ sono stati visitati, trovare il numero minimo possibile di volte che il pezzo si è spostato orizzontalmente o verticalmente (cioè non diagonalmente) durante la partita.
+> Sia $n \ge 3$ un numero intero. Si consideri una griglia di $n \times n$ caselle quadrate. Si gioca il seguente gioco:
+>
+> \begin{itemize}
+> \item Scegli un quadrato e colloca una pedina su di esso. \item Ad ogni passo, partendo dal quadrato attualmente occupato dalla pedina, scegli un quadrato adiacente in orizzontale, in verticale o in diagonale che non sia stato ancora visitato, e sposta la pedina lì. Ripeti questa operazione finché non esiste alcun quadrato adiacente non visitato di questo tipo.
+> \end{itemize}
+>
+> Quando tutti i quadrati $n^2$ sono stati visitati, determina il numero minimo possibile di volte in cui il pezzo si è mosso orizzontalmente o verticalmente (ossia in modo non diagonale) durante la partita.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo17mq_honsen#q04|src_jjmo17mq_honsen__Q04]]
 
 
 
@@ -150,6 +182,13 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Equità di angolo in configurazione con circoncircoli e punti di mezzo*
+*Uguaglianza degli angoli nella configurazione con circonferenze circoscritte e punti medi*
 
-> Che $ABC$ sia un triangolo con $AB \neq AC$. $M$ sia il punto medio del lato $BC$ e $N$ sia il punto medio dell'arco $BC$ (l'arco contenente $A$) del circoncircolo del triangolo $ABC$. Il $H$ deve essere il piede della perpendicolare da $N$ alla linea $AC$. Il $K$ deve essere il punto di intersezione, diverso da $C$, del circoncircolo del triangolo $AMC$ e della linea $CN$. Prove che $\angle AKH = \angle CAM$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Sia $ABC$ un triangolo con $AB \neq AC$. Sia $M$ il punto medio del lato $BC$, e sia $N$ il punto medio dell'arco $BC$ (l'arco che contiene $A$) della circonferenza circoscritta al triangolo $ABC$. Sia $H$ il piede della perpendicolare condotta da $N$ alla retta $AC$. Sia $K$ il punto di intersezione, diverso da $C$, tra la circonferenza circoscritta al triangolo $AMC$ e la retta $CN$. Dimostrare che $\angle AKH = \angle CAM$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo17mq_honsen#q05|src_jjmo17mq_honsen__Q05]]

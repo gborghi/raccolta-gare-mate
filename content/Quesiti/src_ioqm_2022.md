@@ -30,11 +30,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo inciso in cerchio, tangente attraverso B, zona limitata*
+*Triangolo inscritto in una circonferenza, retta tangente in B, area delimitata*
 
-> Un triangolo $ABC$ con $AC = 20$ è inserito in un cerchio $\omega$. Una tangente $t$ a $\omega$ viene tracciata attraverso $B$. La distanza di $t$ da $A$ è 25 e quella da $C$ è 16. Se $S$ indica l'area del triangolo $ABC$, si trova il numero intero più grande non superiore a $S/29$.
+> Un triangolo $ABC$ con $AC = 20$ è inscritto in una circonferenza $\omega$. Si traccia una tangente $t$ a $\omega$ passante per $B$. La distanza di $t$ da $A$ è 25 e quella da $C$ è 16. Se $S$ indica l'area del triangolo $ABC$, determina il più grande intero non superiore a $S/29$.
 
-**Risposta:** 10
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2022#q01|src_ioqm_2022__Q01]]
 
 
 
@@ -60,9 +65,14 @@ level: IOQM
 
 *Parallelogramma ABCD, punto P su AB, Q su AD, trovare AC/AT*
 
-> In un parallelogramma $ABCD$, si prende un punto $P$ sul segmento $AB$ in modo tale che $\frac{AP}{AB} = \frac{61}{2022}$ e un punto $Q$ sul segmento $AD$ in modo tale che $\frac{AQ}{AD} = \frac{61}{2065}$. Se $PQ$ interseca $AC$ a $T$, trovare $\frac{AC}{AT}$ al numero intero più vicino.
+> In un parallelogramma $ABCD$, si prende un punto $P$ sul segmento $AB$ tale che $\frac{AP}{AB} = \frac{61}{2022}$, e si prende un punto $Q$ sul segmento $AD$ tale che $\frac{AQ}{AD} = \frac{61}{2065}$. Se $PQ$ interseca $AC$ in $T$, determina $\frac{AC}{AT}$ arrotondando all'intero più vicino.
 
-**Risposta:** 67
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2022#q02|src_ioqm_2022__Q02]]
 
 
 
@@ -86,11 +96,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trapezoide, bisector interno incontra BC a E, incircolo di ABE tocca AB a M, trovare angolo DAE*
+*Trapezio, la bisettrice interna incontra BC in E, l'incircolo di ABE tocca AB in M, trovare l'angolo DAE*
 
-> In un trapezoide $ABCD$, il bisettore interno dell'angolo $A$ interseca la base $BC$ (o la sua estensione) al punto $E$. Nel triangolo $ABE$ è inciso un cerchio che tocca il lato $AB$ al punto $M$ e il lato $BE$ al punto $P$. Trova l'angolo $DAE$ in gradi, se $AB \cdot MP = 2$.
+> In un trapezio $ABCD$, la bisettrice interna dell'angolo $A$ interseca la base $BC$ (o il suo prolungamento) nel punto $E$. Nel triangolo $ABE$ è inscritta una circonferenza che tocca il lato $AB$ in $M$ e il lato $BE$ nel punto $P$. Determinare l'angolo $DAE$ in gradi, se $AB \cdot MP = 2$.
 
-**Risposta:** 60
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2022#q03|src_ioqm_2022__Q03]]
 
 
 
@@ -114,11 +129,16 @@ level: IOQM
 <div class="qlang-split" data-lang="it"></div>
 
 
-Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4 mosse ciascuna
+*Alice e Bob iterano mappe diverse su M e N, giungono allo stesso numero dopo 4 mosse ciascuno*
 
-> A partire da un numero intero positivo $M$ scritto sulla tavola, Alice gioca il seguente gioco: in ogni mossa, se $x$ è il numero sulla tavola, la sostituisce con $3x + 2$. Allo stesso modo, partendo da un numero intero positivo $N$ scritto sulla tavola, Bob gioca il seguente gioco: in ogni mossa, se $x$ è il numero sulla tavola, lo sostituisce con $2x + 27$. Dato che Alice e Bob raggiungono lo stesso numero dopo aver giocato 4 mosse ciascuno, trovare il valore più piccolo di $M + N$.
+> Partendo da un numero intero positivo $M$ scritto sulla lavagna, Alice gioca al seguente gioco: ad ogni mossa, se $x$ è il numero sulla lavagna, lo sostituisce con $3x + 2$. Analogamente, partendo da un numero intero positivo $N$ scritto sulla lavagna, Bob gioca al seguente gioco: ad ogni mossa, se $x$ è il numero sulla lavagna, lo sostituisce con $2x + 27$. Sapendo che Alice e Bob raggiungono lo stesso numero dopo aver effettuato ciascuno 4 mosse, determina il valore minimo di $M + N$.
 
-**Risposta:** 10
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2022#q04|src_ioqm_2022__Q04]]
 
 
 
@@ -142,11 +162,16 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Meno m in modo che la somma dei quadrati di 11 integri consecutivi da m sia un quadrato perfetto*
+*Il più piccolo m tale che la somma dei quadrati di 11 interi consecutivi a partire da m sia un quadrato perfetto*
 
-> $m$ sia il numero intero positivo più piccolo tale che $m^2 + (m+1)^2 + \cdots + (m+10)^2$ sia il quadrato di un numero intero positivo $n$. Trova $m + n$.
+> Sia $m$ il più piccolo intero positivo tale che $m^2 + (m+1)^2 + \cdots + (m+10)^2$ sia il quadrato di un intero positivo $n$. Determinare $m + n$.
 
-**Risposta:** 95
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2022#q05|src_ioqm_2022__Q05]]
 
 
 
@@ -170,11 +195,18 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I numeri interi positivi a,b con a^3-b^3-ab=25, trovano i più grandi a^2+b^3*
+*Il massimo di a² + b³ se a³ − b³ − ab = 25*
 
-> $a, b$ siano integri positivi che soddisfino $a^3 - b^3 - ab = 25$. Trova il valore più grande possibile di $a^2 + b^3$.
+> Siano $a, b$ interi positivi che soddisfano $a^3 - b^3 - ab = 25$. Trovare il più grande valore possibile di $a^2 + b^3$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata per casi]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
 **Risposta:** 43
+
+[[Quesiti/src_ioqm_2022#q06|src_ioqm_2022__Q06]]
 
 
 
@@ -198,11 +230,16 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie ordinate (a,b) in {10,...,30} con GCD(a,b)=LCM(a,b)-a-b*
+*Conta le coppie ordinate (a,b) in {10,...,30} tali che MCD(a,b)=MCM(a,b)-a-b*
 
-> Trova il numero di coppie ordinate $(a, b)$ in modo tale che $a, b \in \{10, 11, \ldots, 29, 30\}$ e $\gcd(a, b) = \text{lcm}(a, b) - a - b$.
+> Trovare il numero di coppie ordinate $(a, b)$ tali che $a, b \in \{10, 11, \ldots, 29, 30\}$ e $\gcd(a, b) = \text{lcm}(a, b) - a - b$.
 
-**Risposta:** 35
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2022#q07|src_ioqm_2022__Q07]]
 
 
 
@@ -226,11 +263,16 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I primi p e q soddisfano q^2+3p=197p^2+q, scrivono q/p=l+m/n, trovano il massimo l+m+n*
+*I numeri primi p e q soddisfano q^2+3p=197p^2+q; si ponga q/p=l+m/n e si determini il massimo di l+m+n*
 
-> Supponiamo che i numeri primi $p$ e $q$ soddisfino $q^2 + 3p = 197p^2 + q$. Scrivere $\frac{q}{p} = l + \frac{m}{n}$ dove $l, m, n$ sono numeri interi positivi, $m < n$ e $\gcd(m, n) = 1$. Trova il valore massimo di $l + m + n$.
+> Supponiamo che i numeri primi $p$ e $q$ soddisfino $q^2 + 3p = 197p^2 + q$. Scrivere $\frac{q}{p} = l + \frac{m}{n}$ dove $l, m, n$ sono numeri interi positivi, $m < n$ e $\gcd(m, n) = 1$. Trovare il valore massimo di $l + m + n$.
 
-**Risposta:** 32
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2022#q08|src_ioqm_2022__Q08]]
 
 
 
@@ -254,11 +296,16 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con lati 18, x<100, esattamente 35 valori integri validi per il terzo lato*
+*Triangolo con lati 18, x<100, esattamente 35 valori interi validi per il terzo lato*
 
-> Due lati di un triangolo a lato intero hanno lunghezze 18 e $x$ dove $x < 100$. Se ci sono esattamente 35 possibili valori interi $y$ in modo che $18, x, y$ siano i lati di un triangolo non degenerato, trovare il numero di possibili valori interi $x$ può avere.
+> Due lati di un triangolo a lati interi hanno lunghezze 18 e $x$, dove $x < 100$. Se esistono esattamente 35 valori interi possibili $y$ tali che $18, x, y$ siano i lati di un triangolo non degenero, determina il numero di valori interi possibili che $x$ può assumere.
 
-**Risposta:** 82
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2022#q09|src_ioqm_2022__Q09]]
 
 
 
@@ -282,11 +329,16 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*numero a 10 cifre 9876543210, contare i nuovi numeri ottenuti scambiando coppie di cifre adiacenti disgiunte*
+*Numero di 10 cifre 9876543210: conta i nuovi numeri ottenuti scambiando coppie di cifre adiacenti disgiunte*
 
-> Considera il numero di 10 cifre $M = 9876543210$. Ottieniamo un nuovo numero di 10 cifre da $M$ secondo la seguente regola: scegliamo una o più coppie di cifre adiacenti in $M$ e scambiamo le cifre in queste coppie scelte, mantenendo le altre al loro posto, otteniamo $M_1 = 9876543210$. Si noti che qualsiasi numero di coppie (disconseguite) può essere scambiato. Trova il numero di nuovi numeri che si possono ottenere così da $M$.
+> Si consideri il numero di 10 cifre $M = 9876543210$. Da $M$ si ottiene un nuovo numero di 10 cifre secondo la seguente regola: si scelgono una o più coppie di cifre adiacenti disgiunte in $M$ e si scambiano le cifre all'interno di queste coppie scelte, lasciando le altre al loro posto; si ottiene così $M_1 = 9876543210$. Si noti che si possono scambiare quante si vogliono coppie (disgiunte). Determinare il numero di nuovi numeri che si possono ottenere in questo modo a partire da $M$.
 
-**Risposta:** 88
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2022#q10|src_ioqm_2022__Q10]]
 
 
 
@@ -310,11 +362,16 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Diametro AB, C su cerchio, perpendicolare da C incontra il cerchio a D ed E, cerchio centrato a C raggio CD incontra l'omega a P,Q, trovare PQ dato perimetro di PEQ è 24*
+*Diametro AB, C su una circonferenza; la perpendicolare condotta da C interseca la circonferenza nei punti D ed E; la circonferenza avente centro in C e raggio CD interseca omega nei punti P e Q; determinare PQ sapendo che il perimetro di PEQ è 24*
 
-> Il $AB$ deve essere un diametro di un cerchio $\omega$ e il $C$ deve essere un punto su $\omega$, diverso da $A$ e $B$. La perpendicolare di $C$ si interseca tra $\omega$ a $D$ e $\omega$ a $E$ ($E \neq C$). Il cerchio con centro a $C$ e raggio $CD$ si interseca con $\omega$ a $P$ e $Q$. Se il perimetro del triangolo $PEQ$ è 24, si trova la lunghezza del lato $PQ$.
+> Sia $AB$ un diametro di una circonferenza $\omega$ e sia $C$ un punto su $\omega$, diverso da $A$ e da $B$. La perpendicolare condotta da $C$ incontra $\omega$ in $D$ e $\omega$ in $E$ ($E \neq C$). La circonferenza avente centro in $C$ e raggio $CD$ interseca $\omega$ in $P$ e $Q$. Se il perimetro del triangolo $PEQ$ è 24, determina la lunghezza del lato $PQ$.
 
-**Risposta:** 08
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2022#q11|src_ioqm_2022__Q11]]
 
 
 
@@ -338,11 +395,16 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con angoli 60 e 30, trapezio BPQR interno, ritrovare il rapporto di superficie minimo*
+*Triangolo con angoli di 60° e 30°, trapezio isoscele BPQR all'interno; determinare il rapporto minimo delle aree*
 
-> Dato che $\triangle ABC$ con $\angle B = 60^\circ$ e $\angle C = 30^\circ$, $P, Q, R$ devono essere punti sui lati $BA$, $AC$ e $CB$ rispettivamente in modo tale che $BPQR$ sia un trapezio di trapezium con $PQ \parallel BR$ e $BP = QR$. Trova il valore minimo possibile di $\frac{[ABC]}{[BPQR]}$, dove $[S]$ indica l'area di qualsiasi poligono $S$.
+> Dato $\triangle ABC$ con $\angle B = 60^\circ$ e $\angle C = 30^\circ$, siano $P, Q, R$ punti rispettivamente sui lati $BA$, $AC$, $CB$ tali che $BPQR$ sia un trapezio isoscele con $PQ \parallel BR$ e $BP = QR$. Si determini il valore minimo possibile di $\frac{[ABC]}{[BPQR]}$, dove $[S]$ denota l'area di un qualsiasi poligono $S$.
 
-**Risposta:** 03
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2022#q12|src_ioqm_2022__Q12]]
 
 
 
@@ -366,11 +428,16 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC, D su BC con AD=BC, angoli x,y,z in AP, trovare angolo più grande ABC*
+*Triangolo ABC, D su BC con AD=BC, angoli x,y,z in progressione aritmetica, trovare l'angolo ABC più grande*
 
-> Che $ABC$ sia un triangolo e che $D$ sia un punto sul segmento $BC$ tale che $AD = BC$. Supponiamo che $\angle CAD = x^\circ$, $\angle ABC = y^\circ$ e $\angle ACB = z^\circ$ e $x, y, z$ siano in una progressione aritmetica in quell'ordine in cui la differenza comune è positiva. Trovare il più grande valore possibile di $\angle ABC$ in gradi.
+> Sia $ABC$ un triangolo e sia $D$ un punto sul segmento $BC$ tale che $AD = BC$. Si supponga che $\angle CAD = x^\circ$, $\angle ABC = y^\circ$ e $\angle ACB = z^\circ$ e $x, y, z$ siano in progressione aritmetica in tale ordine, con ragione positiva. Determinare il valore massimo possibile di $\angle ABC$ in gradi.
 
-**Risposta:** 59
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2022#q13|src_ioqm_2022__Q13]]
 
 
 
@@ -398,11 +465,20 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri complessi con tre equazioni di somma simmetriche, trovare m+n per x/yz+y/zx+z/xy=m/n*
+*Numeri complessi con tre equazioni di somma simmetrica: trova m+n per x/yz+y/zx+z/xy=m/n*
 
-> Se $x, y, z$ sono numeri interi non zeri con $\gcd(m, n) = 1$, trovi $m + n$.
+> Siano $x, y, z$ numeri complessi tali che
+> $$\frac{x}{y+z} + \frac{y}{z+x} + \frac{z}{x+y} = 9,$$
+> $$\frac{x^2}{y+z} + \frac{y^2}{z+x} + \frac{z^2}{x+y} = 64,$$
+> $$\frac{x^3}{y+z} + \frac{y^3}{z+x} + \frac{z^3}{x+y} = 488.$$
+> Se $\frac{x}{yz} + \frac{y}{zx} + \frac{z}{xy} = \frac{m}{n}$, dove $m, n$ sono interi non nulli con $\gcd(m, n) = 1$, determinare $m + n$.
 
-**Risposta:** 16
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2022#q14|src_ioqm_2022__Q14]]
 
 
 
@@ -428,11 +504,18 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Real x,y con xy=1, trovare il più grande e il più piccolo di un'espressione simmetrica, calcolare T+t*
+*Numeri reali x,y con xy=1: determina il valore massimo e il valore minimo di un'espressione simmetrica, calcola T+t*
 
-> $x, y$ siano numeri reali come $xy = 1$. Se $T + t$ può essere espresso nella forma $\frac{m}{n}$ dove $m, n$ sono numeri interi non zero con $\gcd(m, n) = 1$, trovare il valore di $m + n$.
+> Siano $x, y$ numeri reali tali che $xy = 1$. Siano $T$ e $t$ il valore massimo e il valore minimo dell'espressione
+> $$\frac{(x+y)^2 - (x-y)^2 - 2}{(x+y)^2 + (x-y)^2 - 2}.$$
+> Se $T + t$ può essere espresso nella forma $\frac{m}{n}$, dove $m, n$ sono interi non nulli con $\gcd(m, n) = 1$, determina il valore di $m + n$.
 
-**Risposta:** 25
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2022#q15|src_ioqm_2022__Q15]]
 
 
 
@@ -458,11 +541,18 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Reals a,b,c soddisfa tre equazioni, abc prende due valori razionali, trova r+s+t+u*
+*Trovare i numeri reali a, b, c che soddisfano tre equazioni; abc assume due valori razionali; trova r+s+t+u*
 
-> Lasciate che $a, b, c$ siano reali che soddisfino $$3ab + 2 = 6b, \quad 3bc + 2 = 5c, \quad 3ca + 2 = 4a.$$ Lasciate che $\mathbb{Q}$ denotino l'insieme di tutti i numeri razionali. Poiché il prodotto $abc$ può assumere due valori $\frac{r}{s} \in \mathbb{Q}$ e $\frac{t}{u} \in \mathbb{Q}$, nella forma più bassa, trova $r + s + t + u$.
+> Sia $a, b, c$ un insieme di numeri reali che soddisfano
+> $$3ab + 2 = 6b, \quad 3bc + 2 = 5c, \quad 3ca + 2 = 4a.$$
+> Sia $\mathbb{Q}$ l'insieme di tutti i numeri razionali. Dato che il prodotto $abc$ può assumere due valori, $\frac{r}{s} \in \mathbb{Q}$ e $\frac{t}{u} \in \mathbb{Q}$, in forma irriducibile, si determini $r + s + t + u$.
 
-**Risposta:** 18
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2022#q16|src_ioqm_2022__Q16]]
 
 
 
@@ -486,11 +576,16 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 <div class="qlang-split" data-lang="it"></div>
 
 
-*f(n) = n meno il più grande divisore primo di n, trovare piano(sqrt(N)) dove f(f(N)))=97*
+*f(n)=n meno il più grande divisore primo di n; determina floor(sqrt(N)) sapendo che f(f(f(N)))=97*
 
-> Per un intero positivo $n > 1$, $g(n)$ indichi il più grande divisore primo di $n$ e $f(n) = n - g(n)$. Ad esempio, $g(10) = 5$, $f(10) = 5$ e $g(13) = 1$, $f(13) = 1$. $N$ sia il numero intero positivo più piccolo tale che $f(f(f(N))) = 97$. Trova il numero intero più grande non superiore a $\sqrt{N}$.
+> Per un intero positivo $n > 1$, si indichi con $g(n)$ il più grande divisore primo di $n$ e di $f(n) = n - g(n)$. Ad esempio, $g(10) = 5$, $f(10) = 5$ e $g(13) = 1$, $f(13) = 1$. Si ponga $N$ come il più piccolo intero positivo tale che $f(f(f(N))) = 97$. Determinare il più grande intero non superiore a $\sqrt{N}$.
 
-**Risposta:** 09
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_backward|Backward]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2022#q17|src_ioqm_2022__Q17]]
 
 
 
@@ -516,11 +611,18 @@ Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4
 <div class="qlang-split" data-lang="it"></div>
 
 
-Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
+*Trovare il massimo di m+n per i numeri naturali m,n tali che m+3n-5=2LCM(m,n)-11GCD(m,n)*
 
-> $m, n$ siano numeri naturali in modo tale che $$m + 3n - 5 = 2\,\text{lcm}(m, n) - 11\,\gcd(m, n).$$ trovi il valore massimo possibile di $m + n$.
+> Sia $m, n$ un insieme di numeri naturali tali che
+> $$m + 3n - 5 = 2\,\text{lcm}(m, n) - 11\,\gcd(m, n).$$
+> Trova il valore massimo possibile di $m + n$.
 
-**Risposta:** 70
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_ioqm_2022#q18|src_ioqm_2022__Q18]]
 
 
 
@@ -544,11 +646,16 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*String di n 1s, inserire + segni per sommare a 1000, contare n valido, trovare la somma di numeri di conto*
+*Sequenza di n 1, inserisci segni + per ottenere una somma pari a 1000, conta gli n validi, trova la somma delle cifre del conteggio*
 
-> Considera una stringa di $n$ $1$s. Vogliamo inserire segni $+$ in mezzo in modo che la somma sia di 1000. Per esempio, se $n = 190$, si può mettere $+$ segni in modo da ottenere $11$ novanta volte, e ottenere la somma di 1000. Se $a$ è il numero di integri positivi $n$ per i quali è possibile posizionare segni $+$ per ottenere la somma di 1000, si trova la somma delle cifre di $a$.
+> Si consideri una sequenza di $n$ $1$. Si desidera inserire $+$ segni tra di essi in modo che la somma sia 1000. Per esempio, se $n = 190$, si possono inserire $+$ segni così da ottenere $11$ novanta volte e ottenere la somma 1000. Se $a$ è il numero degli interi positivi $n$ per i quali è possibile inserire $+$ segni in modo da ottenere la somma 1000, allora si determini la somma delle cifre di $a$.
 
-**Risposta:** 09
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_ioqm_2022#q19|src_ioqm_2022__Q19]]
 
 
 
@@ -572,11 +679,16 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti di riferimento di permutazione, trovare il massimo n>=3 per L(n) un quadrato perfetto*
+*Permuta i punti di riferimento, trova il massimo n>=3 tale che L(n) sia un quadrato perfetto*
 
-> Per un intero $n \geq 3$ e per una permutazione $\sigma = (p_1, p_2, \ldots, p_n)$ di $\{1, 2, \ldots, n\}$, diciamo $p_i$ è un punto di riferimento se $2 \leq i \leq n-1$ e $(p_{i-1} - p_i)(p_{i+1} - p_i) > 0$. Per esempio, per $n = 7$, la permutazione $(2, 7, 6, 4, 5, 1, 3)$ ha 4 punti di riferimento: $p_2 = 7$, $p_4 = 4$, $p_5 = 5$ e $p_6 = 1$. Per un dato $n \geq 3$, $L(n)$ indica il numero di permutazioni di $\{1, 2, \ldots, n\}$ con esattamente un punto di riferimento. Trova il massimo $n \geq 3$ per il quale $L(n)$ è un quadrato perfetto.
+> Per un intero $n \geq 3$ e una permutazione $\sigma = (p_1, p_2, \ldots, p_n)$ di $\{1, 2, \ldots, n\}$, diciamo che $p_i$ è un punto di riferimento se $2 \leq i \leq n-1$ e $(p_{i-1} - p_i)(p_{i+1} - p_i) > 0$. Ad esempio, per $n = 7$, la permutazione $(2, 7, 6, 4, 5, 1, 3)$ ha 4 punti di riferimento: $p_2 = 7$, $p_4 = 4$, $p_5 = 5$ e $p_6 = 1$. Per un dato $n \geq 3$, si indichi con $L(n)$ il numero di permutazioni di $\{1, 2, \ldots, n\}$ che hanno esattamente un punto di riferimento. Si determini il massimo $n \geq 3$ per cui $L(n)$ è un quadrato perfetto.
 
-**Risposta:** 03
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2022#q20|src_ioqm_2022__Q20]]
 
 
 
@@ -600,11 +712,16 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ante sul vertice cubo, si muove al vertice adiacente ogni 10 minuti, viaggi di un'ora di ritorno al punto di partenza*
+*Formica sul vertice di un cubo; ogni 10 minuti si sposta al vertice adiacente; i percorsi di un'ora la riportano al punto di partenza*
 
-> Una formica è al vertice di un cubo. Ogni 10 minuti si sposta verso un vertice adiacente lungo un bordo. Se $N$ è il numero di viaggi di un'ora che terminano al vertice di partenza, trovare la somma dei quadrati delle cifre di $N$.
+> Una formica si trova in un vertice di un cubo. Ogni 10 minuti si sposta in un vertice adiacente lungo un'arista. Se $N$ è il numero di percorsi della durata di un'ora che terminano nel vertice di partenza, determina la somma dei quadrati delle cifre di $N$.
 
-**Risposta:** 74
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2022#q21|src_ioqm_2022__Q21]]
 
 
 
@@ -628,11 +745,16 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze binarie amichevoli con n termini, trovare la più piccola n>=2 con F_n>100*
+*Successioni binarie amichevoli con n termini: trova il più piccolo n>=2 tale che F_n>100*
 
-> Una sequenza binaria è una sequenza in cui ogni termine è uguale a 0 o 1. Una sequenza binaria è chiamata amichevole se ogni termine è adiacente ad almeno un termine che è uguale a 1. Ad esempio, la sequenza $0, 1, 1, 0, 0, 1, 1, 1$ è amichevole. $F_n$ indichi il numero di sequenze binarie amichevoli con termini $n$. Trova il numero intero positivo più piccolo $n \geq 2$ tale da $F_n > 100$.
+> Una successione binaria è una successione in cui ogni termine è uguale a 0 o a 1. Una successione binaria si dice amichevole se ogni termine è adiacente ad almeno un termine uguale a 1. Ad esempio, la successione $0, 1, 1, 0, 0, 1, 1, 1$ è amichevole. Sia $F_n$ il numero delle successioni binarie amichevoli con $n$ termini. Determinare il più piccolo intero positivo $n \geq 2$ tale che $F_n > 100$.
 
-**Risposta:** 11
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2022#q22|src_ioqm_2022__Q22]]
 
 
 
@@ -656,11 +778,16 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC, media AD divide angolo BAC in rapporto 1:2, EB perp AB, BE=3, BA=4, trovare il numero intero più vicino a BC*
+*Nel triangolo ABC, la mediana AD divide l'angolo BAC nel rapporto 1:2, EB è perpendicolare ad AB, BE=3, BA=4; determinare l'intero più vicino a BC*
 
-> In un triangolo $ABC$, la media $AD$ divide $\angle BAC$ nel rapporto $1 : 2$. Estendere il $AD$ a $E$ in modo tale che $EB$ sia perpendicolare a $AB$. Dato che $BE = 3$, $BA = 4$, trovare il numero intero più vicino a $BC$.
+> In un triangolo $ABC$, la mediana $AD$ divide $\angle BAC$ nel rapporto $1 : 2$. Prolunga $AD$ fino a $E$ in modo che $EB$ sia perpendicolare a $AB$. Dato che $BE = 3$, $BA = 4$, determina l'intero più vicino a $BC$.
 
-**Risposta:** 29
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_ioqm_2022#q23|src_ioqm_2022__Q23]]
 
 
 
@@ -684,8 +811,13 @@ Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
 <div class="qlang-split" data-lang="it"></div>
 
 
-Distribuire 52 palle identiche in 4 scatole, nessuna scatola vuota, differenze in coppia non multipli di 6*
+*Distribuire 52 palline identiche in 4 scatole, nessuna scatola vuota, le differenze a coppie non siano multipli di 6*
 
-> Il numero $N$ deve essere il numero di modi di distribuire 52 palle identiche in 4 scatole distinguibili in modo tale che nessuna scatola sia vuota e la differenza tra il numero di palle in due delle scatole non sia un multiple di 6. Se $N = 100a + b$, dove $a, b$ sono numeri interi positivi inferiori a 100, trovare $a + b$.
+> Sia $N$ il numero di modi di distribuire 52 palline identiche in 4 scatole distinguibili in modo tale che nessuna scatola sia vuota e la differenza tra il numero di palline in due qualsiasi delle scatole non sia un multiplo di 6. Se $N = 100a + b$, dove $a, b$ sono interi positivi minori di 100, si determini $a + b$.
 
-**Risposta:** 81
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_ioqm_2022#q24|src_ioqm_2022__Q24]]

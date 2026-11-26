@@ -33,13 +33,20 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di una matrice razionale 2019x2019 che soddisfa un'equazione polinomial cubica / quartic*
+*Esistenza di una matrice razionale 2019x2019 che soddisfa un'equazione polinomiale cubica/quartica*
 
-> Lasciate che $I$ e $0$ siano le matrici identiche e quadrate zero, entrambe di dimensione 2019. Esiste una matrice quadrata $A$ con voci razionali e dimensioni 2019 in modo tale che:
-> 
+> Siano $I$ e $0$ la matrice identità e la matrice nulla quadrate, entrambe di dimensione 2019. Esiste una matrice quadrata $A$ a coefficienti razionali e di dimensione 2019 tale che:
+>
 > (a) $A^3 + 6A^2 - 2I = 0$?
-> 
+>
 > (b) $A^4 + 6A^3 - 2I = 0$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2019_nu_f2#q01|src_obm_2019_nu_f2__Q01]]
 
 
 
@@ -70,11 +77,24 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esistenza di una funzione in continua crescita compressa tra successive scale di crescita esponenziale iterata*
+*Esistenza di una funzione continua crescente racchiusa tra scale di crescita esponenziali iterate consecutive*
 
-> Diamo $\exp^{[0]} : \mathbb{R} \to \mathbb{R}$ da $\exp^{[0]}(x) = x$, per tutti $x \in \mathbb{R}$, e definiamo recursivamente, per ogni intero positivo $n$, le funzioni $\exp^{[n]} : \mathbb{R} \to \mathbb{R}$ da $$\exp^{[n]}(x) = e^{\exp^{[n-1]}(x)}, \quad \forall x \in \mathbb{R},$$ dove $e$ indica il numero di Euler. Diamo anche $\log^{[0]} : \mathbb{R} \to \mathbb{R}$ da $\log^{[0]}(x) = x$, per tutti $x \in \mathbb{R}$, e definiamo ricorritivamente, per ogni intero positivo $n$, le funzioni $\log^{[n]} : (\exp^{[n-1]}(0), +\infty) \to \mathbb{R}$ da $$\log^{[n]}(x) = \log(\log^{[n-1]}(x)), \quad \forall x \in (\exp^{[n-1]}(0), +\infty),$$ dove $\log$ è il logaritmo naturale. In altre parole, $\exp^{[n]}$ rappresenta la composizione della funzione esponenziale $n$ volte, e $\log^{[n]}$ rappresenta la composizione della funzione logaritmica $n$ volte, quando tale composizione può essere eseguita.
-> 
-> Prove che esiste una funzione continua e crescente $f : (0, +\infty) \to \mathbb{R}$ tale che per ogni $n \in \mathbb{N}$ abbiamo: $$\lim_{x \to +\infty} \frac{f(x)}{\exp^{[n]}(\log^{[n]}(x) + 1)} = +\infty$$ $$\lim_{x \to +\infty} \frac{f(x)}{\exp^{[n+1]}(\log^{[n+1]}(x) - 1)} = 0.$$
+> Sia $\exp^{[0]} : \mathbb{R} \to \mathbb{R}$ definito da $\exp^{[0]}(x) = x$, per tutti gli $x \in \mathbb{R}$, e si definiscano ricorsivamente, per ogni intero positivo $n$, le funzioni $\exp^{[n]} : \mathbb{R} \to \mathbb{R}$ mediante
+> $$\exp^{[n]}(x) = e^{\exp^{[n-1]}(x)}, \quad \forall x \in \mathbb{R},$$
+> dove $e$ denota il numero di Eulero. Sia inoltre $\log^{[0]} : \mathbb{R} \to \mathbb{R}$ definito da $\log^{[0]}(x) = x$, per ogni $x \in \mathbb{R}$, e si definiscano ricorsivamente, per ogni intero positivo $n$, le funzioni $\log^{[n]} : (\exp^{[n-1]}(0), +\infty) \to \mathbb{R}$ mediante
+> $$\log^{[n]}(x) = \log(\log^{[n-1]}(x)), \quad \forall x \in (\exp^{[n-1]}(0), +\infty),$$
+> dove $\log$ è il logaritmo naturale. In altre parole, $\exp^{[n]}$ rappresenta la composizione della funzione esponenziale $n$ volte, e $\log^{[n]}$ rappresenta la composizione della funzione logaritmica $n$ volte, ogni volta che tale composizione può essere effettuata.
+>
+> Dimostrare che esiste una funzione continua e crescente $f : (0, +\infty) \to \mathbb{R}$ tale che, per ogni $n \in \mathbb{N}$, si ha:
+> $$\lim_{x \to +\infty} \frac{f(x)}{\exp^{[n]}(\log^{[n]}(x) + 1)} = +\infty$$
+> $$\lim_{x \to +\infty} \frac{f(x)}{\exp^{[n+1]}(\log^{[n+1]}(x) - 1)} = 0.$$
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2019_nu_f2#q02|src_obm_2019_nu_f2__Q02]]
 
 
 
@@ -99,9 +119,18 @@ level: OBM Nível Universitário
 <div class="qlang-split" data-lang="it"></div>
 
 
-Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esattamente una soluzione non negativa
+*Un sistema di tre equazioni, ciascuna delle quali ha come membro sinistro la somma di due radici quadrate, ammette esattamente una soluzione non negativa*
 
-> Si devono dare i numeri reali $a$, $b$, $c$. Prova che il sistema di equazioni $$\begin{cases} 2x + y + z = \sqrt{c^2 + x^2} + \sqrt{c^2 + y^2} \\ x + 2y + z = \sqrt{b^2 + x^2} + \sqrt{b^2 + z^2} \\ x + y + 2z = \sqrt{a^2 + x^2} + \sqrt{a^2 + y^2} \end{cases}$$ ha esattamente una soluzione $(x, y, z)$ con $x, y, z \geq 0$.
+> Siano $a$, $b$, $c$ numeri reali dati. Dimostrare che il sistema di equazioni
+> $$\begin{cases} 2x + y + z = \sqrt{c^2 + x^2} + \sqrt{c^2 + y^2} \\ x + 2y + z = \sqrt{b^2 + x^2} + \sqrt{b^2 + z^2} \\ x + y + 2z = \sqrt{a^2 + x^2} + \sqrt{a^2 + y^2} \end{cases}$$
+> Ha esattamente una soluzione $(x, y, z)$ con $x, y, z \geq 0$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2019_nu_f2#q03|src_obm_2019_nu_f2__Q03]]
 
 
 
@@ -125,9 +154,17 @@ Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esatta
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le funzioni f:R->R con f(xf(y) + f(x)) + f(y^2) = f(x) +yf(x+y)*
+*Trovare tutte le funzioni f:R->R tali che f(xf(y)+f(x))+f(y^2)=f(x)+yf(x+y)*
 
-> Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ in modo tale che per tutte le $x, y \in \mathbb{R}$: $$f(x f(y) + f(x)) + f(y^2) = f(x) + y f(x + y).$$
+> Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ tali che, per ogni $x, y \in \mathbb{R}$:
+> $$f(x f(y) + f(x)) + f(y^2) = f(x) + y f(x + y).$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2019_nu_f2#q04|src_obm_2019_nu_f2__Q04]]
 
 
 
@@ -152,9 +189,18 @@ Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esatta
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine l'esponente beta(M,k) nel conteggio asimptotico di moltipli di potenze k-prime con esponenti >= k*
+*Determinare l'esponente beta(M,k) nel conteggio asintotico dei multipli di potenze di k-primi con esponenti >= k*
 
-> Lasciate che $M$, $k$ siano numeri interi positivi. $X_{M,k}$ sia l'insieme dei multipli di numeri della forma $p_1^{a_1} p_2^{a_2} \cdots p_k^{a_k}$ in cui $p_1, p_2, \ldots, p_k$ sono numeri primi in modo tale che $M \leq p_1 < p_2 < \cdots < p_k$ e $a_1, a_2, \ldots, a_k$ siano integri superiori o uguali a $k$. Prove che esistono numeri reali positivi $c(M, k)$ e $\beta(M, k)$ tali da $$\lim_{n \to \infty} \frac{|X_{M,k} \cap \{0, 1, \ldots, n\}|}{n^{\beta(M,k)}} = c(M, k),$$ e determina il valore di $\beta(M, k)$.
+> Siano $M$, $k$ numeri interi positivi. Sia $X_{M,k}$ l'insieme dei multipli di numeri della forma $p_1^{a_1} p_2^{a_2} \cdots p_k^{a_k}$, dove $p_1, p_2, \ldots, p_k$ sono numeri primi tali che $M \leq p_1 < p_2 < \cdots < p_k$ e $a_1, a_2, \ldots, a_k$ sono numeri interi maggiori o uguali a $k$. Dimostrare che esistono numeri reali positivi $c(M, k)$ e $\beta(M, k)$ tali che
+> $$\lim_{n \to \infty} \frac{|X_{M,k} \cap \{0, 1, \ldots, n\}|}{n^{\beta(M,k)}} = c(M, k),$$
+> e determina il valore di $\beta(M, k)$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2019_nu_f2#q05|src_obm_2019_nu_f2__Q05]]
 
 
 
@@ -184,12 +230,20 @@ Un sistema di tre equazioni ognuna con la somma di due radici quadrate ha esatta
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Limite di f n)/n! in cui f(n) conta i disturbi senza cicli a due (amice segreto senza "interruzione")*
+*Limite di f(n)/n!, dove f(n) conta i disordinamenti privi di 2-cicli (amico segreto senza 'jam')*
 
-> In una riunione di amicizia, supponiamo che nessuno sia il proprio amico segreto. Diciamo che due persone $A$ e $B$ hanno un "jam" (marmelada) se esistono due persone $A$ e $B$ in modo tale che $B$ sia l'amico segreto di $A$ e $A$ sia l'amico segreto di $B$. Per ogni numero intero positivo $n$, $f(n)$ è il numero di disegni di amici segreti con $n$ persone che non hanno "jam", cioè $f(n)$ è il numero di permutazioni $\sigma$ di $\{1, 2, \ldots, n\}$ in modo tale che:
-> 
-> $\circ$ $\sigma(i) \neq i$ per tutti $i = 1, 2, \ldots, n$;
-> 
-> $\circ$ non esistono $1 \leq i < j \leq n$ tali da $\sigma(i) = j$ e $\sigma(j) = i$.
-> 
-> Determinare il limite $$\lim_{n \to +\infty} \frac{f(n)}{n!}.$$
+> In un incontro tra amici, supponiamo che nessuno sia il proprio amico segreto. Diciamo che due persone $A$ e $B$ hanno una "jam" (marmelada) se esistono due persone $A$ e $B$ tali che $B$ è l'amico segreto di $A$ e $A$ è l'amico segreto di $B$. Per ogni intero positivo $n$, sia $f(n)$ il numero di disegni di amici segreti con $n$ persone che non hanno alcuna "jam", cioè $f(n)$ è il numero di permutazioni $\sigma$ di $\{1, 2, \ldots, n\}$ tali che:
+>
+> $\circ$ $\sigma(i) \neq i$ per tutti gli $i = 1, 2, \ldots, n$;
+>
+> $\circ$ non esistono $1 \leq i < j \leq n$ tali che $\sigma(i) = j$ e $\sigma(j) = i$.
+>
+> Determinare il limite
+> $$\lim_{n \to +\infty} \frac{f(n)}{n!}.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2019_nu_f2#q06|src_obm_2019_nu_f2__Q06]]

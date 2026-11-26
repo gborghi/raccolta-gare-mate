@@ -30,11 +30,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Line tangenti a cerchio dai punti di mezzo dell'accordo AB*
+*Trovare $\cos\theta$, e le tangenti in $A$ e in $B$ si incontrano sulla retta $BC$*
 
-> O è un punto fuori da un cerchio. Due linee OAB, OCD e O si incontrano al cerchio a A, B, C, D con $A$, $C$, rispettivamente i punti di mezzo di $OB$ e $OD$. Inoltre l'angolo acuto $\theta$ tra le linee è uguale all'angolo acuto a cui ciascuna linea taglia il cerchio. Trova $\cos\theta$ e mostra che le tangenti di $A$, $B$ al cerchio si incontrano sulla linea $BC$.
+> O è un punto esterno a una circonferenza. Due rette OAB, OCD per O incontrano la circonferenza in A, B, C, D, con $A$, $C$ punti medi rispettivamente di $OB$, $OD$. Inoltre l'angolo acuto $\theta$ fra le rette è uguale all'angolo acuto con cui ciascuna retta seca la circonferenza. Trovare $\cos\theta$ e dimostrare che le tangenti in $A$, $B$ alla circonferenza si incontrano sulla retta $BC$.
 
-**Risposta:** \cos\theta = \frac{1}{\sqrt{3}}
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1984-85_round2#q01|src_bmo_1984-85_round2__Q01]]
 
 
 
@@ -57,9 +62,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i primi interi positivi malvagi del 1985 con una somma pari di cifre binarie*
+*La somma dei primi $1985$ interi positivi malvagi*
 
-> Un intero positivo è chiamato male se il numero di $1$s nella sua espansione binaria è pari. Per esempio $18 = (10010)_2$ è malefico. Trova la somma dei primi $1985$ numeri interi positivi cattivi.
+> Un intero positivo si dice malvagio se il numero di $1$ nella sua scrittura binaria è pari. Per esempio $18 = (10010)_2$ è malvagio. Trovare la somma dei primi $1985$ interi positivi malvagi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1984-85_round2#q02|src_bmo_1984-85_round2__Q02]]
 
 
 
@@ -82,9 +94,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove il prodotto di cinque numeri interi positivi consecutivi non è mai un quadrato perfetto*
+*Il prodotto di cinque interi positivi consecutivi non è mai un quadrato perfetto*
 
-> Prova che il prodotto di cinque numeri interi positivi consecutivi non è mai un quadrato perfetto.
+> Dimostrare che il prodotto di cinque interi positivi consecutivi non è mai un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo_1984-85_round2#q03|src_bmo_1984-85_round2__Q03]]
 
 
 
@@ -108,11 +127,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio delle strette di mano con il deputato mongolo alla sessione IMO*
+*Quante strette di mano ha dato il vice del capo della squadra mongola*
 
-> Delegazioni provenienti da 30 paesi hanno partecipato a una sessione della giuria delle Olimpiadi Matematiche Internazionali  i leader e i loro deputati, in totale 60 persone. Durante la sessione alcuni dei partecipanti si sono stretti la mano l'uno all'altro, ma nessun leader ha stretto la mano al suo vice e non due persone hanno stretto la mano più di una volta. Dopo la sessione il leader della squadra mongola chiese a tutti quante volte avevano stretto la mano. Tutti i partecipanti hanno risposto e i numeri che hanno dato erano tutti diversi. Quante volte il vice leader mongolo ha dato la mano?
+> Delegazioni di 30 paesi hanno preso parte a una sessione della giuria delle Olimpiadi Internazionali di Matematica: i capi e i loro vice, 60 persone in tutto. Durante la sessione alcuni partecipanti si sono stretti la mano, ma nessun capo ha stretto la mano al proprio vice e nessuna coppia si è stretta la mano più di una volta. Dopo la sessione il capo della squadra mongola ha chiesto a tutti quante volte avessero stretto la mano. Tutti i partecipanti hanno risposto e i numeri che hanno dato erano tutti diversi. Quante volte ha stretto la mano il vice del capo mongolo?
 
-**Risposta:** 29
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1984-85_round2#q04|src_bmo_1984-85_round2__Q04]]
 
 
 
@@ -137,8 +161,15 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove AB + CD = BC + AD e OH = OD' per la faccia di tetraedro circoscritta*
+*$AB + CD = BC + AD = AC + BD$ e $OH = OD'$*
 
-> $ABCD$ è un tetraedro che ha una circonferenza che attraversa $A$, $B$, $C$, $D$ e un'insfera che tocca ogni faccia triangolare in un punto interno di quella faccia. Le due sfere hanno lo stesso centro $O$. $H$ è l'ortocentro del triangolo $ABC$ e $D'$ è il piede della perpendicolare da $D$ verso il piano di quel triangolo.
-> 
-> Provare che $AB + CD = BC + AD = AC + BD$ e che $OH = OD'$.
+> $ABCD$ è un tetraedro che ha una sfera circoscritta passante per $A$, $B$, $C$, $D$ e una sfera inscritta che tocca ciascuna faccia triangolare in un punto interno di quella faccia. Le due sfere hanno lo stesso centro $O$. $H$ è l'ortocentro del triangolo $ABC$ e $D'$ è il piede della perpendicolare da $D$ al piano di quel triangolo.
+>
+> Dimostrare che $AB + CD = BC + AD = AC + BD$ e che $OH = OD'$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1984-85_round2#q05|src_bmo_1984-85_round2__Q05]]

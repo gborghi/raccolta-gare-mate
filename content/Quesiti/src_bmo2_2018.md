@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo tangente a BC attraverso M incontra AB; dimostra AB = BP = 2BM*
+*Dimostrare che $AB = BP = 2BM$*
 
-> Considera il triangolo $ABC$. Il punto medio di $AC$ è $M$. Il cerchio tangente a $BC$ a $B$ e che attraversa $M$ incontra di nuovo la linea $AB$ a $P$. Prove che $AB = BP = 2BM$.
+> Si consideri il triangolo $ABC$. Il punto medio di $AC$ è $M$. La circonferenza tangente a $BC$ in $B$ e passante per $M$ incontra di nuovo la retta $AB$ in $P$. Dimostrare che $AB = BP = 2BM$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo2_2018#q01|src_bmo2_2018__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Le torte da tavolo circolare; trova n in modo che il Cappellone Pazzo possa costringere Alice a mangiare tutto
+*Per quali $n$ il Cappellaio Matto può costringere Alice a mangiare tutte le torte*
 
-> Ci sono posti $n$ disposti attorno a un tavolo circolare, e ogni posto ha una piccola torta su un piatto. Alice arriva prima, si siede al tavolo e mangia la sua torta (ma non è molto bella). Successivamente arriva il Cappellaio Pazzo, e dice ad Alice che è sicuramente una bella festa del tè, e che deve continuare a cambiare il suo posto, e ogni volta deve mangiare la torta di fronte a lei (se non è stato ancora mangiato). Infatti il Cappellaio Pazzo è molto boss, e dice ad Alice che, per $i = 1, 2, \ldots, n-1$, quando si muove per la $i$-time, deve spostare $a_i$ posti e lui consegna ad Alice la lista di istruzioni $a_1, a_2, \ldots, a_{n-1}$. A Alice non piacciono le torte, e lei è libera di scegliere la direzione in cui muoversi, sia in senso orario che in senso antiorario. Per quali valori di $n$ il Cappellaio Pazzo può costringere Alice a mangiare tutte le torte?
+> Ci sono $n$ posti intorno a un tavolo circolare, e ogni posto ha una tortina su un piatto. Alice arriva per prima, si siede al tavolo e mangia la sua torta (ma non è granché). Poi arriva il Cappellaio Matto e dice ad Alice che è certamente un tè delizioso, e che deve continuare a cambiare posto, e ogni volta deve mangiare la torta che ha davanti (se non è già stata mangiata). In effetti il Cappellaio Matto è molto autoritario, e dice ad Alice che, per $i = 1, 2, \ldots, n-1$, quando si sposta per l'$i$-esima volta, deve spostarsi di $a_i$ posti, e le consegna la lista di istruzioni $a_1, a_2, \ldots, a_{n-1}$. Ad Alice le torte non piacciono, ed è libera di scegliere il verso in cui muoversi, orario o antiorario. Per quali valori di $n$ il Cappellaio Matto può costringere Alice a mangiare tutte le torte?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo2_2018#q02|src_bmo2_2018__Q02]]
 
 
 
@@ -83,9 +97,20 @@ Le torte da tavolo circolare; trova n in modo che il Cappellone Pazzo possa cost
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la somma dei quadrati da m+1 a 2m non è mai un quadrato perfetto*
+*Non esiste un intero positivo $m$ per cui quella somma di quadrati sia un quadrato*
 
-> È noto che, per ogni intero positivo $n$, $$1^2 + 2^2 + \cdots + n^2 = \frac{n(n+1)(2n+1)}{6}$$ e così è un quadrato. Prova che non esiste un intero positivo $m$ tale che $$(m+1)^2 + (m+2)^2 + \cdots + (2m)^2$$ sia quadrato.
+> È noto che, per ogni intero positivo $n$,
+> $$1^2 + 2^2 + \cdots + n^2 = \frac{n(n+1)(2n+1)}{6}$$
+> e dunque è un quadrato. Dimostrare che non esiste un intero positivo $m$ tale che
+> $$(m+1)^2 + (m+2)^2 + \cdots + (2m)^2$$
+> sia un quadrato.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2018#q03|src_bmo2_2018__Q03]]
 
 
 
@@ -114,12 +139,19 @@ Le torte da tavolo circolare; trova n in modo che il Cappellone Pazzo possa cost
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Assorbimento di funzioni con f^2018 interi; domande di esistenza sui valori interi*
+*Esiste una funzione assorbente intera solo in finiti punti, o solo su certi $n_i$?*
 
-> Lasciate che $f$ sia una funzione definita sui numeri reali e assumendo valori reali. Diciamo che $f$ assorbe se $f(x) \le f(y)$ ogni volta che $x \le y$ e $f^{2018}(z)$ è un intero per tutti i numeri reali $z$.
-> 
-> a) Esiste una funzione di assorbimento $f$ tale che $f(x)$ sia un numero intero per solo numerosi valori finiti di $x$?
-> 
-> b) Esiste una funzione di assorbimento $f$ tale che $f(x)$ sia un numero intero solo se $x = n_i$ per alcuni $i$?
-> 
-> *Si noti che se $k$ è un intero positivo e $f$ è una funzione, $f^k$ indica la composizione delle copie $k$ di $f$. Ad esempio $f^2(t) = f(f(t))$ per tutti i numeri reali $t$.*
+> Sia $f$ una funzione definita sui numeri reali e a valori reali. Diciamo che $f$ è assorbente se $f(x) \le f(y)$ ogni volta che $x \le y$ e $f^{2018}(z)$ è un intero per tutti i numeri reali $z$.
+>
+> a) Esiste una funzione assorbente $f$ tale che $f(x)$ sia un intero solo per un numero finito di valori di $x$?
+>
+> b) Esiste una funzione assorbente $f$ tale che $f(x)$ sia un intero solo se $x = n_i$ per qualche $i$?
+>
+> *Si noti che se $k$ è un intero positivo e $f$ è una funzione, allora $f^k$ indica la composizione di $k$ copie di $f$. Per esempio $f^2(t) = f(f(t))$ per tutti i numeri reali $t$.*
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo2_2018#q04|src_bmo2_2018__Q04]]

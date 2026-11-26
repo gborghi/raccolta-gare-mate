@@ -30,9 +30,17 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare 103×103 meno 97×97*
+*Il valore di 103×103 − 97×97*
 
-> Trova il valore di $$103 \times 103 - 97 \times 97.$$
+> Trovare il valore di
+> $$103 \times 103 - 97 \times 97.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_jjmo2q#q01|src_jjmo2q__Q01]]
 
 
 
@@ -54,9 +62,15 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo rettangolo, angolo B superiore a C di 48 gradi*
+*Triangolo rettangolo: l'angolo B supera l'angolo C di 48 gradi*
 
-> C'è un triangolo rettangolo $ABC$ con $\angle A = 90^\circ$. Quando $\angle B$ è $48^\circ$ maggiore di $\angle C$, trovare $\angle B$.
+> C'è un triangolo rettangolo $ABC$ con $\angle A = 90^\circ$. Quando $\angle B$ è $48^\circ$ più grande di $\angle C$, trova $\angle B$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo2q#q02|src_jjmo2q__Q02]]
 
 
 
@@ -78,9 +92,15 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area esterna all'esagono dell'unità entro la distanza 1 di un vertice*
+*Area esterna all'esagono dell'unità, entro distanza 1 da un vertice*
 
-> Nel piano c'è un esagono regolare con lunghezza laterale $1$. Considera la regione costituita da tutti i punti la cui distanza da almeno una delle vertici dell'esagono regolare è massima $1$. $S$ sia l'area della parte di questa regione che si trova al di fuori dell'esagono regolare. Se $T$ è l'area di un esagono regolare con lunghezza laterale $1$, si trova $S - T$. Qui, prendere il rapporto della circonferenza di un cerchio al suo diametro a $\pi$.
+> Nel piano c'è un esagono regolare con lato di lunghezza $1$. Si consideri la regione costituita da tutti i punti la cui distanza da almeno uno dei vertici dell'esagono regolare è al più $1$. Sia $S$ l'area della parte di questa regione che si trova all'esterno dell'esagono regolare. Sia $T$ l'area di un esagono regolare con lato di lunghezza $1$; si determini $S - T$. Qui, si assuma che il rapporto tra la circonferenza di un cerchio e il suo diametro sia $\pi$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo2q#q03|src_jjmo2q__Q03]]
 
 
 
@@ -105,9 +125,18 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sistema di equazioni in numeri interi positivi, trovare n*
+*Sistema di equazioni in numeri interi positivi, trova n*
 
-> $m, n$ sono numeri interi positivi che soddisfano le seguenti condizioni: $$\begin{cases} 3m - 1 = n \\ (n - 7)m = 16 \end{cases}$$ Trova $n$.
+> $m, n$ sono interi positivi che soddisfano le seguenti condizioni:
+> $$\begin{cases} 3m - 1 = n \\ (n - 7)m = 16 \end{cases}$$
+> Trova $n$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo2q#q04|src_jjmo2q__Q04]]
 
 
 
@@ -135,9 +164,21 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Crittografia: IMO più JMO più ampersand termini uguali a JJMO*
+*Crittoaritmetica: IMO più JMO più termini con il simbolo & uguale a JJMO*
 
-> Risolvi il seguente criptaritmo e scrivi il numero corrispondente a $\mathrm{IMO}$. L'aggiunta viene effettuata colonnalmente come mostrato (le cifre di ciascuna riga sono allineate a destra): $$\begin{array}{cccc} & I & M & O \\ & & & \& \\ & J & M & O \\ & & & \& \\ + & & & \& \\ \hline J & J & M & O \end{array}$$ Qui, risolvere un criptaritmo significa determinare la corrispondenza tra lettere e cifre, secondo le condizioni di seguito, in modo che l'uguaglianza di cui sopra sia valida. - ciascuna delle $I, M, O, \&$ corrisponde a una delle cifre $0, 1, 2, \ldots, 9$. La stessa lettera corrisponde alla stessa cifra, e lettere diverse corrisponde a cifre diverse. Pertanto $\mathrm{IMO}$ indica il numero $3$ di cifre formato scrivendo la cifra corrispondente a $I$, la cifra corrispondente a $M$ e la cifra corrispondente a $O$, in tale ordine. - Le prime lettere $I, \&, J$ non corrispondono a $0$. - La cifra corrispondente a $I$ non è necessariamente $1$, e la cifra corrispondente a $O$ non è necessariamente $0$.
+> Risolvi il seguente crittoaritmeto e scrivi il numero corrispondente a $\mathrm{IMO}$. L'addizione viene eseguita per colonne come mostrato (le cifre di ogni riga sono allineate a destra):
+> $$\begin{array}{cccc} & I & M & O \\ & & & \& \\ & J & M & O \\ & & & \& \\ + & & & \& \\ \hline J & J & M & O \end{array}$$
+> Qui, risolvere un crittoaritmeto significa determinare la corrispondenza tra lettere e cifre, secondo le condizioni sottostanti, in modo che la uguaglianza sopra indicata sia verificata.
+> - Ciascuna di $I, M, O, \&$ corrisponde a una delle cifre $0, 1, 2, \ldots, 9$. La stessa lettera corrisponde alla stessa cifra, e lettere diverse corrispondono a cifre diverse. Pertanto $\mathrm{IMO}$ indica il numero di $3$ cifre ottenuto scrivendo, in quest'ordine, la cifra corrispondente a $I$, la cifra corrispondente a $M$ e la cifra corrispondente a $O$.
+> - Le lettere iniziali $I, \&, J$ non corrispondono a $0$.
+> - La cifra corrispondente a $I$ non è necessariamente $1$, e la cifra corrispondente a $O$ non è necessariamente $0$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo2q#q05|src_jjmo2q__Q05]]
 
 
 
@@ -160,9 +201,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gli incantesimi magici trasformano fragole e banane in numeri mirati*
+*Gli incantesimi trasformano fragole e banane nel numero richiesto di unità*
 
-> Un mago può usare due incantesimi, l'incantesimo A e l'incantesimo B. Quando viene utilizzato il carattere A, in quel momento ogni fragola si trasforma contemporaneamente in fragola $1$ e banana $1$, e ogni banana si trasforma contemporaneamente in fragola $1$ e banana $1$. Quando si utilizza l'Espressione B, ogni fragola si trasforma in $1$ banana, e ogni banana si trasforma in $1$ fragola e $1$ banana. Partendo da uno stato con fragole $1$ e banane $1$, utilizzando gli incantesimi A e B un certo numero di volte, il mago vuole raggiungere uno stato con fragole $15$ e banane $877$. Qual è il numero minimo totale di volte che devono essere usate le incantesime?
+> Un mago può usare due incantesimi, l'Incantesimo A e l'Incantesimo B. Quando si usa l'Incantesimo A, in quell'istante ogni fragola si trasforma simultaneamente in $1$ fragola e $1$ banana, e ogni banana si trasforma simultaneamente in $1$ fragola e $1$ banana. Quando si usa l'Incantesimo B, in quell'istante ogni fragola si trasforma in $1$ banana, e ogni banana si trasforma in $1$ fragola e $1$ banana. Partendo da uno stato con $1$ fragole e $1$ banane, usando gli Incantesimi A e B un certo numero di volte, il mago vuole raggiungere uno stato con $15$ fragole e $877$ banane. Qual è il numero totale minimo di volte in cui gli incantesimi devono essere usati?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_backward|Backward]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo2q#q06|src_jjmo2q__Q06]]
 
 
 
@@ -185,9 +233,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Arrangere 8 palle di 3 colori con numero impar di rosso*
+*Disponi 8 sfere di 3 colori con un numero dispari di sfere rosse*
 
-> Tra i modi per organizzare un totale di sfere $8$ dei tre colori rosso, blu e giallo di fila, quante ci sono in cui il numero di sfere rosse utilizzate è strano? Supponiamo che ci siano sufficienti palline di ogni colore, e che ci siano colori che non vengono utilizzati affatto.
+> Tra i modi di disporre in fila un totale di $8$ palline dei tre colori rosso, blu e giallo, quanti sono quelli in cui il numero di palline rosse utilizzate è dispari? Si assuma qui che ci sia una scorta sufficiente di palline di ciascun colore e che alcuni colori possano non essere utilizzati affatto.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo2q#q07|src_jjmo2q__Q07]]
 
 
 
@@ -210,9 +265,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con due ceviani, angoli uguali, trovare BE*
+*Triangolo con due ceviane, angoli uguali, trovare BE*
 
-> C'è un triangolo $ABC$ con $BC = 3$, $CA = 2$, $AB = 4$. Prendi due punti $D, E$ sul lato $AB$, come $AD = 1$ e $\angle ACD = \angle BCE$. Trova la lunghezza del segmento $BE$.
+> C'è un triangolo $ABC$ con $BC = 3$, $CA = 2$, $AB = 4$. Si prendano due punti $D, E$ sul lato $AB$ in modo che $AD = 1$ e $\angle ACD = \angle BCE$. Si determini la lunghezza del segmento $BE$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo2q#q08|src_jjmo2q__Q08]]
 
 
 
@@ -235,9 +297,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre massimo di fazioni incastonate tra 7 politici*
+*Numero massimo di fazioni annidate tra 7 politici*
 
-> Ci sono politici $7$, e ci sono diverse fazioni. Una fazione è un gruppo al quale appartiene almeno un politico. Per quanto riguarda due fazioni, essa sostiene che, se esiste un politico appartenente a entrambe, allora necessariamente una delle due fazioni contiene l'altra. Trova il massimo valore possibile del numero di fazioni. Qui, un gruppo composto solo da persone $1$, e il gruppo composto da tutte le persone $7$, sono considerati anche faczioni.
+> Ci sono $7$ politici e ci sono diverse fazioni. Una fazione è un gruppo a cui appartiene almeno un politico. Per qualsiasi coppia di fazioni vale che, se esiste un politico che appartiene a entrambe, allora necessariamente una delle due fazioni contiene l'altra. Determinare il valore massimo possibile del numero di fazioni. Qui, un gruppo costituito da soli $1$ individui e il gruppo costituito da tutti gli $7$ individui sono considerati anch'essi fazioni.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo2q#q09|src_jjmo2q__Q09]]
 
 
 
@@ -261,9 +330,17 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilaterale con condizioni di punto e angolo diagonali, angolo di ricerca BCD*
+*Quadrilatero con condizioni sul punto della diagonale e sugli angoli: trovare l'angolo BCD*
 
-> Nel quadrilaterale $ABCD$, lasciare che i segmenti $AC$ e $BD$ si incrociano al punto $P$. Inoltre, $$AB = BP = AD, \qquad \angle ABC = \angle BDC, \qquad \angle BCD = \angle CAD$$ attenuare. Trova $\angle BCD$.
+> Nel quadrilatero $ABCD$, siano i segmenti $AC$ e $BD$ incidenti nel punto $P$. Inoltre,
+> $$AB = BP = AD, \qquad \angle ABC = \angle BDC, \qquad \angle BCD = \angle CAD$$
+> valgono. Determinare $\angle BCD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo2q#q10|src_jjmo2q__Q10]]
 
 
 
@@ -306,13 +383,20 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dialogo di riempimento: triples e l'operazione a∗b mod 10*
+*Dialogo a completamento: triple e l'operazione a*b mod 10*
 
-> Riempire i vuoti $\boxed{\text{(a)}}$ fino a $\boxed{\text{(h)}}$. Qui, ciascuno di $\boxed{\text{(a)}}$ e $\boxed{\text{(b)}}$ è un triplo di interi; $\boxed{\text{(c)}}$ e $\boxed{\text{(d)}}$ sono interi positivi a una cifra; $\boxed{\text{(e)}}$, $\boxed{\text{(f)}}$, $\boxed{\text{(h)}}$ sono interi non negativi; e $\boxed{\text{(g)}}$ sono diversi interi.
-> 
-> Per gli integri $a, b$ che sono almeno $0$, $a * b$ indica il rimanente quando $a \times b$ è diviso da $10$. Considera l'operazione che invia un triplo $(a, b, c)$ di enti da $0$ a $9$ al triplo $(a*b,\, b*c,\, c*a)$ di enti da $0$ a $9$. Qui, come in $(2,7,0)$ e $(2,0,7)$, i triples che differiscono solo nell'ordine delle loro voci sono considerati triples distinti. Vogliamo indagare quali triples si possono produrre eseguendo questa operazione esattamente una volta.
-> 
-> Allievo A: "Per esempio, da $(2,3,5)$ possiamo fare $(6,5,0)$. " Insegnante: "Allora, possiamo fare $(3,4,2)$?" Allievo B: "Può essere fatto da $\boxed{\text{(a)}}$ o $\boxed{\text{(b)}}$". Insegnante: "E che mi dici di $(4,3,7)$?" Allievo B: "Hmm... Ah, capisco! Se $(4,3,7)$ può essere fatto da $(a,b,c)$, allora $a*b$ è un multiple di $\boxed{\text{(c)}}$, quindi $(a*b)\cdot(b*c)\cdot(c*a)$ sarebbe un multiple di $\boxed{\text{(c)}}$. "Studente A: "Ma $3$ e $7$ non sono multipli di $\boxed{\text{(c)}}$, quindi non può essere fatto. "Studente B: "Pensando allo stesso modo, in generale un triplo in cui esattamente $\boxed{\text{(d)}}$ delle tre voci è un multiple di $\boxed{\text{(c)}}$ non può essere fatto". Se $(4,3,4)$ può essere fatto da $(a,b,c)$, allora il rimanente di $a^2 b^2 c^2$ dopo la divisione da $5$ è $\boxed{\text{(f)}}$, vero? Ma non c'è un intero il cui quadrato ha un residuo $\boxed{\text{(f)}}$ quando viene diviso da $5$". Studente A: "Poiché gli unici residui possibili quando un intero è quadrato e diviso da $5$ sono $\boxed{\text{(g)}}$, vediamo che ci sono ancora altri triples che non possono essere fatti". Infatti, ogni triplo diverso da quelli che sono stati dimostrati impossibili dalla discussione finora può essere fatto. Allievo A, per favore, verificate questo". Allievo A: (30 minuti dopo) "Fatto!" Allievo B: "In altre parole, il numero totale di triples che può essere prodotto da questa operazione è $\boxed{\text{(h)}}$".
+> Compila gli spazi vuoti da $\boxed{\text{(a)}}$ a $\boxed{\text{(h)}}$. Qui, ciascuno di $\boxed{\text{(a)}}$ e $\boxed{\text{(b)}}$ è una tripla di interi; $\boxed{\text{(c)}}$ e $\boxed{\text{(d)}}$ sono interi positivi a una cifra; $\boxed{\text{(e)}}$, $\boxed{\text{(f)}}$, $\boxed{\text{(h)}}$ sono interi non negativi; e $\boxed{\text{(g)}}$ è costituito da diversi interi.
+>
+> Per gli interi $a, b$ che sono almeno $0$, si indichi con $a * b$ il resto della divisione di $a \times b$ per $10$. Si consideri l'operazione che associa alla tripletta $(a, b, c)$ di interi appartenenti a $0$ e a $9$ la tripletta $(a*b,\, b*c,\, c*a)$ di interi appartenenti a $0$ e a $9$. Qui, come in $(2,7,0)$ e in $(2,0,7)$, le triplette che differiscono solo nell'ordine dei loro elementi sono considerate triplette distinte. Vogliamo indagare quali triplette possano essere ottenute eseguendo questa operazione esattamente una volta.
+>
+> Studente A: "Per esempio, da $(2,3,5)$ possiamo ottenere $(6,5,0)$." Insegnante: "Allora, possiamo ottenere $(3,4,2)$?" Studente B: "Si può ottenere da $\boxed{\text{(a)}}$ o da $\boxed{\text{(b)}}$." Insegnante: "E $(4,3,7)$?" Studente B: "Mmm... ah, ho capito! Se $(4,3,7)$ si può ottenere da $(a,b,c)$, allora $a*b$ è un multiplo di $\boxed{\text{(c)}}$, quindi $(a*b)\cdot(b*c)\cdot(c*a)$ sarebbe un multiplo di $\boxed{\text{(c)}}$." Studente A: "Ma $3$ e $7$ non sono multipli di $\boxed{\text{(c)}}$, quindi non si può fare." Studente B: "Pensando allo stesso modo, in generale non si può ottenere una terna in cui esattamente $\boxed{\text{(d)}}$ delle tre entrate è un multiplo di $\boxed{\text{(c)}}$." Insegnante: "Poco fa ci siamo concentrati sui multipli di $\boxed{\text{(c)}}$, ma si può dire la stessa cosa concentrandosi sui multipli di $\boxed{\text{(e)}}$." Studente B: "Quindi non si può ottenere una terna in cui esattamente $\boxed{\text{(d)}}$ delle tre entrate è un multiplo di $\boxed{\text{(e)}}$." Insegnante: "E allora, che dire di $(4,3,4)$?" Studente A: "Poiché sia il numero dei multipli di $\boxed{\text{(c)}}$ sia il numero dei multipli di $\boxed{\text{(e)}}$ non è $\boxed{\text{(d)}}$, è inevitabile che si possa ottenere." Studente B: "Aspetta un momento. Se $(4,3,4)$ si può ottenere da $(a,b,c)$, allora il resto della divisione di $a^2 b^2 c^2$ per $5$ è $\boxed{\text{(f)}}$, no? Ma non esiste alcun numero intero il cui quadrato, diviso per $5$, dia resto $\boxed{\text{(f)}}$." Studente A: "Poiché gli unici resti possibili quando si eleva al quadrato un numero intero e si divide per $5$ sono $\boxed{\text{(g)}}$, vediamo che ci sono ancora altre terne che non si possono ottenere." Insegnante: "Esattamente. In realtà, ogni terna diversa da quelle per cui la discussione finora ha dimostrato che non si possono ottenere può essere ottenuta. Studente A, per favore, verifica questo." Studente A: (30 minuti dopo) "Fatto!" Studente B: "In altre parole, il numero totale di terne che si possono produrre con questa operazione è $\boxed{\text{(h)}}$." Insegnante: "Esatto."
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo2q#q11|src_jjmo2q__Q11]]
 
 
 
@@ -335,6 +419,13 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nombre di quotienti distinti dividendo 2^2004 per 1..2^2004*
+*Numero di quozienti distinti ottenuti dividendo 2^2004 per i numeri da 1 a 2^2004*
 
-> Dividere $2^{2004}$ per ciascuno di $1, 2, 3, \ldots, 2^{2004}$ e trovare il quotiente e il rimanente in ogni caso. Quanti numeri interi distinti appaiono come quotienti?
+> Dividi $2^{2004}$ per ciascuno di $1, 2, 3, \ldots, 2^{2004}$, e determina il quoziente e il resto in ogni caso. Quanti interi distinti compaiono come quozienti?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo2q#q12|src_jjmo2q__Q12]]

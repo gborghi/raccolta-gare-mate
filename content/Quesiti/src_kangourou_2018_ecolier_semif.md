@@ -35,11 +35,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Animals living in mice and cats after cats eat*
+*Living animals among mice and cats after the cats eat*
 
-> On an island there are exactly 190 mice and 20 cats. After each cat has eaten five mice, how many live animals, mice and cats, remain on the island? A) 90 B) 100 C) 110 D) 95 E) 85
+> (Point 2) On an island, there are exactly 190 mice and 20 cats. After each cat has eaten 5 mice, how many live animals—mice and cats combined—remain on the island?
+> A) 90	 	
+> B) 100		
+> C) 110		
+> D) 95	 	
+> E) 85
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_ecolier_semif#q01|src_kangourou_2018_ecolier_semif__Q01]]
 
 
 
@@ -72,19 +81,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Roberta's age today given condition on future sum*
+*And Roberta's today, a condition on a future sum*
 
-> In one year's time the sum of the ages of Ambrogio, Chiara and Roberta will be 8 years higher than the sum of the ages of Ambrogio and Chiara today. How old is Roberta today? A) 5
-> 	
-> B) 6
-> 	
-> C) 7
-> 	
-> D) 8
-> 	
+> (Point 3) In one year, the sum of Ambrogio's, Chiara's, and Roberta's ages will be 8 years greater than the sum of Ambrogio's and Chiara's ages today. How old is Roberta today?
+> A) 5	
+>
+> B) 6	
+>
+> C) 7	
+>
+> D) 8	
+>
 > E) 11
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_ecolier_semif#q02|src_kangourou_2018_ecolier_semif__Q02]]
 
 
 
@@ -122,22 +136,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*First digit of the largest number with the sticks of 2018*
+*First digit of the maximum number using sticks in 2018*
 
 ![[src_kangourou_2018_ecolier_semif__prob3.png]]
 
-> (3 points) Simone wrote the number 2018 using several identical sticks, as you can see in the figure. Now he reuses all these sticks to write the largest possible number. What is the leftmost digit of this new number?
+> (Point 3) Simone wrote the number 2018 using several identical sticks, as you can see in the figure. Now he reuses all these sticks to write the largest possible number. What is the leftmost digit of this new number?
 > A) 	
-> 	
+>
 > B)	
-> 	
+>
 > C)	
-> 	
+>
 > D)	
-> 	
+>
 > E)
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_ecolier_semif#q03|src_kangourou_2018_ecolier_semif__Q03]]
 
 
 
@@ -173,17 +192,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seconds when two lamps are lit together*
+*Seconds in which two light bulbs are on together*
 
-> (Points 4) A light bulb stays on for 3 seconds, then turns off for 2 seconds, then turns on for 3 seconds, then turns off for 2 seconds and so on. Another light bulb behaves like the previous one, but stays on for 6 seconds and off for 4. At this moment the two lamps are both on. For how many seconds of the next minute, measured from this moment on, will the two bulbs turn on simultaneously? A) 3
-> 	
-> B) 4
-> 	
-> C) 7
-> 	
-> D) 18 E) 24
+> (Point 4) One light bulb stays on for 3 seconds, then off for 2 seconds, then on for 3 seconds, then off for 2 seconds, and so on. Another light bulb behaves like the first one, but stays on for 6 seconds and off for 4 seconds. At this moment, both light bulbs turn on. For how many seconds during the next minute, measured from this moment, will both light bulbs be on at the same time?
+> A) 3	
+>
+> B) 4	
+>
+> C) 7	
+>
+> D) 18	 	
+> E) 24
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_ecolier_semif#q04|src_kangourou_2018_ecolier_semif__Q04]]
 
 
 
@@ -220,17 +246,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Price of the gift item given total expenditure of EUR 25
+*Gift item price, date, total expense of 25 euros*
 
-> A shop offers this promotion: if you buy four items at four different prices, you will get a fifth item of your choice as long as it is lower than the prices of each item purchased. Each item is priced at an integer of EUR and there are items of all prices between EUR 1 and EUR 30. Stefano brought home five items at a cost of 25 euros in total and chose as a gift the one with the highest possible price compared to what he paid. What is the price in euros of the item he received as a gift? A) 2 B) 3
-> 	
-> C) 4
-> 	
-> D) 5
-> 	
+> (Point 4) A store is offering this promotion: if you buy four items whose prices are all different from one another, you will receive a fifth item of your choice, provided its price is lower than each of the prices of the items you bought. Each item has a price that is a whole number of euros, and there are items at every price between 1 and 30 euros. Stefano took five items home, spending a total of 25 euros, and chose as the free item the one with the highest possible price relative to what he paid. What is the price, in euros, of the item he received for free?
+> A) 2 	 	
+> B) 3	
+>
+> C) 4	
+>
+> D) 5	
+>
 > E) 6
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_ecolier_semif#q05|src_kangourou_2018_ecolier_semif__Q05]]
 
 
 
@@ -262,19 +295,21 @@ Price of the gift item given total expenditure of EUR 25
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which six-digit number could Maria not have written*
+*Which six-digit number could Maria not have written?*
 
-> (4 points) Maria has six cards: on three of them the same digit R appears, on two of them the same
-> digit S different from R and on one of them a digit T different from R and from S. By placing them side by side, Maria formed
-> the largest six-digit number she could. You do not know the three digits, but you can be certain that one
-> of the following numbers is not the one written by Maria. Which one?
+> (Point 4) Maria has six cards: on three of them appears the same digit R, on two of them appears the same digit S, different from R, and on one of them appears a digit T, different from both R and S. By placing them next to one another, Maria formed the largest six-digit number she could. You do not know the three digits, but you can be certain that one of the following numbers is not the one Maria wrote. Which one?
 > A) RRRSST
 > B) TRRRSS
 > C) SSRRRT
 > D) RRRSTS
 > E) RRRTSS
 
-**Answer:** D
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_ecolier_semif#q06|src_kangourou_2018_ecolier_semif__Q06]]
 
 
 
@@ -312,7 +347,7 @@ Price of the gift item given total expenditure of EUR 25
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum sum by filling 4x4 with 1 and 3 and binding 2x2*
+*Maximum sum by filling a 4x4 grid with 1s and 3s under a 2x2 constraint*
 
 ![[src_kangourou_2018_ecolier_semif__prob7.png]]
 
@@ -324,9 +359,15 @@ Price of the gift item given total expenditure of EUR 25
 \end{document}
 ```
 
-> (Points 5) In each cell of Table 4 × 4 in Figure 1 or 3 shall be inserted so that in each Table 2 × 2 contained in Table 4 × 4 there are three and no more than three equal numbers. What is the maximum value of the sum of all 16 numbers once entered? A) 42               B) 40            C) 36            D) 33              E) 30
+> (Points 5) In each cell of the 4 × 4 table in the figure, either the number 1 or the number 3 must be placed, ensuring that in each 2 × 2 table contained within the 4 × 4 table, three and no more than three identical numbers appear. What is the maximum possible value of the sum of all 16 numbers once they have been placed?
+> A) 42               B) 40            C) 36            D) 33              E) 30
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_ecolier_semif#q07|src_kangourou_2018_ecolier_semif__Q07]]
 
 
 
@@ -359,20 +400,19 @@ Price of the gift item given total expenditure of EUR 25
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Missing cards for an 11-storey castle having enough for 10*
+*Missing cards for an 11-story castle, even though there are cards for 10*
 
 ![[src_kangourou_2018_ecolier_semif__prob8.png]]
 
-> (5 points) Observe the three card castles in the figure. To build
-> the first one (which is one storey high) two cards are needed, to build
-> the second one (which is two storeys high) 7 cards are needed, to build the
-> third one (which is three storeys high) 15 cards are needed. Giuliana has discovered
-> that she has exactly as many cards as are needed to build
-> a 10-storey castle, but she would like to build an 11-storey
-> castle: how many cards is she missing?
+> (Point 5) Observe the three card castles in the figure. To build the first one (which has only one level), two cards are needed; to build the second one (which has two levels), 7 cards are needed; to build the third one (which has three levels), 15 cards are needed. Giuliana has found that she has exactly as many cards as are needed to build a 10-level castle, but she would like to build an 11-level castle: how many cards are missing?
 > A) 21          B) 23          C) 32           D) 35           E) 37
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_ecolier_semif#q08|src_kangourou_2018_ecolier_semif__Q08]]
 
 
 
@@ -413,24 +453,30 @@ Price of the gift item given total expenditure of EUR 25
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which tile can make up the mosaic shown*
+*Which tile can make up the mosaic shown?*
 
 ![[src_kangourou_2018_ecolier_semif__prob9.png]]
 
-> (Points 6) Look at the figure: a mosaic was made by placing all the same pieces together without overlapping (not even partial) and without leaving holes. Which of the following tiles can be the one repeated in the mosaic? A)
-> 	
-> 	
-> B)
-> 	
-> 	
-> C)
-> 	
-> D)
-> 	
-> 	
-> (e) Open-ended questions
+> (Point 6) Look at the figure: a mosaic has been formed by joining together tiles that are all identical, with no overlaps (not even partial) and with no gaps left. Which of the following tiles could be the one repeated in the mosaic?
+> A)	
+>
+>
+> B)	
+>
+>
+> C)	
+>
+> D)	
+>
+>
+> E) 
+> Open-ended questions
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_ecolier_semif#q09|src_kangourou_2018_ecolier_semif__Q09]]
 
 
 
@@ -463,13 +509,18 @@ Price of the gift item given total expenditure of EUR 25
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of polygons with 41 matches
+*Maximum number of polygons with 41 matches*
 
 ![[src_kangourou_2018_ecolier_semif__prob10.png]]
 
-> The figure shows how, with all matches equal to each other, triangles, squares and pentagons can be constructed. You have 41 matches, all equal to one another. By using them all you want to build as many polygons as possible, but by making sure that each match is part of a single polygon and that there is at least one triangle, square and pentagon. How many polygons can you build, at most?
+> (Point 4) The figure shows how, with matches that are all identical to one another, you can construct triangles, squares, and pentagons. You have 41 matches that are all identical to one another. Using all of them, you want to construct the greatest possible number of polygons chosen from among these, but in such a way that each match is part of only one polygon and that there are at least one triangle, one square, and one pentagon. What is the maximum number of polygons you can construct?
 
-**Answer:** 12
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_ecolier_semif#q10|src_kangourou_2018_ecolier_semif__Q10]]
 
 
 
@@ -495,11 +546,16 @@ Maximum number of polygons with 41 matches
 <div class="qlang-split" data-lang="en"></div>
 
 
-*New sum by swapping two digits between 345 and 921*
+*New sum obtained by swapping two digits between 345 and 921*
 
-> By choosing a digit of the number 345 and a digit of the number 921 and swapping them, Sandra obtained two new numbers whose sum is greater than the sum of the original numbers. How much is the new sum?
+> (Point 4) By choosing one digit from the number 345 and one digit from the number 921 and swapping them, Sandra obtained two new numbers whose sum is greater than the sum of the original numbers. What is the new sum?
 
-**Answer:** 1293
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_ecolier_semif#q11|src_kangourou_2018_ecolier_semif__Q11]]
 
 
 
@@ -524,11 +580,15 @@ Maximum number of polygons with 41 matches
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pipes to open to fill the pool in 6 hours*
+*How many inlets should be opened to fill the pool in 6 hours?*
 
-> (Points 6) A swimming pool is served by 10 water pipes, 9 of the same capacity and one of double capacity. If I only opened the last one, it would take 15 hours to fill the pool. How many other pipes, besides the double-capacity one, should be opened to fill it in six hours?
+> (Point 6) A swimming pool is supplied by 10 water pipes: 9 have the same flow rate, and one has twice the flow rate of the others. If only this latter pipe is opened, it would take 15 hours to fill the pool. How many other pipes, in addition to the one with twice the flow rate, would need to be opened to fill the pool in 6 hours?
 
-**Answer:** 3
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_ecolier_semif#q12|src_kangourou_2018_ecolier_semif__Q12]]
 
 
 
@@ -555,11 +615,16 @@ Maximum number of polygons with 41 matches
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number is left over in the equation with 7 numbers*
+*Which number increases in the equality with 7 numbers?*
 
-> (Points 6) In each of the spaces (denoted by three dots) of the equation ... + ... + ... = ... + ... + ... ... enter one and only one of the seven numbers 1, 3, 4, 5, 7, 11, 15, so that all but one of them are used and the operation is correct. Which number is left over?
+> (Point 6) In each of the spaces (indicated by three dots) in the equation … + … + … = … + … + …, insert one and only one of the seven numbers 1, 3, 4, 5, 7, 11, 15, so that you use all but one of them and make the calculation correct. Which number is left over?
 
-**Answer:** 4
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_ecolier_semif#q13|src_kangourou_2018_ecolier_semif__Q13]]
 
 
 
@@ -587,11 +652,14 @@ Maximum number of polygons with 41 matches
 
 *Vertex points of 4 squares in a 100x60 rectangle*
 
-> (8 points) By placing side by side, without overlapping them, 6,000 squares all equal to each other, one can obtain a
-> rectangle whose base is made up of 100 squares. How many points of such a rectangle are
-> simultaneously vertices of 4 of the 6,000 squares that compose it?
+> (Point 8) By placing 6,000 squares, all of which are identical to one another, side by side without overlapping them, one can obtain a rectangle whose base consists of 100 squares. How many points of this rectangle are simultaneously vertices of 4 of the 6,000 squares that make up the rectangle?
 
-**Answer:** 5841
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_ecolier_semif#q14|src_kangourou_2018_ecolier_semif__Q14]]
 
 
 
@@ -626,15 +694,15 @@ Maximum number of polygons with 41 matches
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum waiting minutes to know the time from the chimes*
+*Maximum waiting time to determine the time from the chimes*
 
-> (Points 8) The clock of a bell tower strikes at the stroke of every hour a number of chimes corresponding to the numerical value of the hour itself (from 1 to 12) and strikes a single chime at the stroke of every quarter of an hour, every half hour and every three quarters of an hour. At night one hears a single chime. Based only on the chimes, how many minutes at most must one wait to know with certainty what time it is?
-> 
-> 0012
-> 1293
-> 0003
-> 0004
-> 5841
-> 0090
+> (Point 8) The clock in a bell tower strikes, at the hour, a number of strokes corresponding to the numerical value of the hour itself (from 1 to 12), and strikes a single stroke at each quarter hour, each half hour, and each three-quarter hour. At night, one stroke can be heard. Based solely on the strokes, at most how many minutes must one wait to know for certain what time it is?
+>
+> 0012 1293 0003 0004 5841 0090
 
-**Answer:** 90
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_ecolier_semif#q15|src_kangourou_2018_ecolier_semif__Q15]]

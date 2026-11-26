@@ -32,11 +32,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Smallest 4-digit number with digit product 40*
+*What number did Mariella write?*
 
-> The smallest Mariella wrote the smallest four-digit integer greater than zero, such that the product of its digits is 40. What number did Mariella write?
+> The smallest
+>
+> Mariella wrote the smallest four-digit integer, greater than zero, such that the product of its digits is 40. What number did Mariella write?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 1158
+[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q01|src_kangourou_2023_ecolier_squadre_f2__Q01]]
 
 
 
@@ -65,17 +72,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time to return home with a stopped clock*
+*At what correct time did I get back home?*
 
-> The time 
-> I am at home. The only clock I have stopped at 13:00. As soon as I noticed it, I 
-> started it again without changing the time and immediately went to a friend's house: I arrived at his place at 
-> 15:00 (correct time) and I left his place at 17:30 (correct time). Now I am back home and my 
-> clock (which in the meantime has been running regularly) shows 17:30. The time I took 
-> on the way there is identical to the time I took on the way back. At what time (correct) did I return home? 
-> (Write the four digits of the time, without the colon.)
+> The time
+>
+> I am at home. The only clock I have stopped at 13:00. As soon as I noticed, I set it going again without changing the time and went straight to a friend's: I arrived at his at 15:00 (correct time) and left him at 17:30 (correct time). Now I am on my way back home and my clock (which in the meantime has been running properly) reads 17:30. The time I took on the way there is the same as the time I took on the way back. At what correct time did I get back home? (Write the four digits of the time, without the colon.)
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 1830
+[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q02|src_kangourou_2023_ecolier_squadre_f2__Q02]]
 
 
 
@@ -101,13 +108,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers 2..2023 divisible only by even numbers*
+*How many integers between 2 and 2023 inclusive are there that, besides by 1, are divisible only by numbers that are even?*
 
-> Divisible only by even numbers  
-> How many integers between 2 and 2023 inclusive are there that, besides 1, are divisible only by numbers 
-> that are even?
+> Divisible only by even numbers
+>
+> How many integers between 2 and 2023 inclusive are there that, besides by 1, are divisible only by numbers that are even?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0010
+[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q03|src_kangourou_2023_ecolier_squadre_f2__Q03]]
 
 
 
@@ -134,11 +146,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Days of the year with digit sum 23*
+*For how many days, from the first to the last day of this year, is the sum of the digits of the date 23?*
 
-> This year, the date of the Kangourou individual race is 16/03/2023: adding up all the digits of this date, you get 17. For how many days, from the first to the last day of this year, is the sum of the digits of the date 23?
+> The digits of the date
+>
+> This year the date of the individual Kangourou contest is 16/03/2023: adding all the digits of this date gives 17. For how many days, from the first to the last day of this year, is the sum of the digits of the date 23?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0012
+[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q04|src_kangourou_2023_ecolier_squadre_f2__Q04]]
 
 
 
@@ -165,15 +184,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cents cost of each Easter egg*
+*How many cents did each egg cost?*
 
 > The Easter egg
-> I gave an Easter egg to each of my 13 friends. Initially I had enough money
-> to buy only 9 eggs, and I would have had 20 cents left over, then my aunt lent me 40 euros:
-> in this way I bought all the eggs I needed and I had 1 euro left over. All the eggs
-> have the same price. How many cents did each egg cost?
+>
+> I gave an Easter egg to each of my 13 friends. At first I had enough money to buy only 9 eggs, and I would have had 20 cents left; then my aunt lent me 40 euros: in this way I bought all the eggs I needed and had 1 euro left. All the eggs have the same price. How many cents did each egg cost?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0980
+[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q05|src_kangourou_2023_ecolier_squadre_f2__Q05]]
 
 
 
@@ -204,13 +225,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Untouched cubes from the 4x4x4 cube drill*
+*How many little cubes were not touched by the drill bit?*
 
 ![[src_kangourou_2023_ecolier_squadre_f2__prob6.png]]
 
-> The pierced cube Luigi obtained a cube by placing 4 × 4 × 4 identical small cubes side by side. He then mounted on a drill a bit with a cross-section smaller than the face of each of the cubes and drilled the cube through from side to side six times, each time parallel to an edge: in the figure the black dots indicate the entry points of the drill. How many cubes haven't been touched by the tip of the drill?
+> The perforated cube
+>
+> Luigi obtained a cube by placing 4 × 4 × 4 identical little cubes side by side. He then fitted a drill with a bit of cross-section smaller than the face of each of the little cubes and with it drilled right through the cube six times, each time parallel to an edge: in the picture the black dots mark the points where the drill entered. How many little cubes were not touched by the drill bit?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 0044
+[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q06|src_kangourou_2023_ecolier_squadre_f2__Q06]]
 
 
 
@@ -237,11 +265,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Andrea's number with 2 on the right and left*
+*What number did Andrea write?*
 
-> To the right and to the left Andrea wrote a two-digit integer, Beatrice wrote the three-digit number you get from Andrea's by placing a 2 to its right, Cecilia wrote the three-digit number you get from Andrea's by placing a 2 to its left. Adding 36 to Cecilia's number, you get the number of Beatrice. What number did Andrea write?
+> On the right and on the left
+>
+> Andrea wrote a two-digit integer, Beatrice wrote the three-digit number obtained from Andrea's by putting a 2 on its right, and Cecilia wrote the three-digit number obtained from Andrea's by putting a 2 on its left. Adding 36 to Cecilia's number gives Beatrice's number. What number did Andrea write?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0026
+[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q07|src_kangourou_2023_ecolier_squadre_f2__Q07]]
 
 
 
@@ -270,11 +304,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Empty tank weight given turbine and consumption*
+*How many kilograms does the empty tank weigh?*
 
-> A tank can hold enough fuel to power a turbine for 40 hours of uninterrupted operation, but no more; after seven hours of operation, the turbine's speed of rotation, and thus fuel consumption, is halved. The turbine started operating at 12:00 today with the tank full and has always been in operation. At 4 p.m., the tank with the remaining fuel weighed 90 kilograms; at 10 p.m., still today, it weighed 72 kilograms. How many kilograms does the empty tank weigh?
+> The tank
+>
+> A tank can hold enough fuel to feed a turbine for 40 hours of uninterrupted running, but no more; after seven hours of running, the speed of rotation of the turbine, and so the fuel consumption, is halved. The turbine began running at 12.00 today with the tank full and has been running ever since. At 16.00 the tank with the fuel left weighed 90 kilograms; at 22.00, still today, it weighed 72 kilograms. How many kilograms does the empty tank weigh?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0012
+[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q08|src_kangourou_2023_ecolier_squadre_f2__Q08]]
 
 
 
@@ -302,11 +342,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers written until first block 999*
+*How many digits will she have written in all at the exact moment she stops?*
 
-> Three 9 digits Mary began to write sequentially one after another, without separating elements, all positive integers: 12345678910111.... She promised to stop as soon as he got the first block of three consecutive 9 digits, i.e. 999 (even without finishing writing the last number). How many digits in total will she have written at the exact moment she stops?
+> Three digits 9
+>
+> Maria began to write in sequence, one after another, without separators, all the positive integers: 12345678910111…. She promised to stop as soon as she had obtained the first block of three consecutive digits 9, that is 999 (even without finishing writing the last number). How many digits will she have written in all at the exact moment she stops?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 2590
+[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q09|src_kangourou_2023_ecolier_squadre_f2__Q09]]
 
 
 
@@ -333,11 +380,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many postcards has Enrica given envelopes
+*How many postcards does Enrica have so far?*
 
-> Enrica is collecting postcards. So far, she has 31 envelopes, each containing at least one card but no more than six. 25 of these envelopes contain at least 2, 17 contain at least 3, 15 at least 4, 9 at least 5 and envelopes containing 6 cards are 6. How many cards does Enrica have, for now?
+> Postcards
+>
+> Enrica collects postcards. So far she has 31 envelopes, each containing at least one postcard but no more than six. 25 of these envelopes contain at least 2, 17 contain at least 3, 15 at least 4, 9 at least 5, and the envelopes that contain 6 postcards are 6. How many postcards does Enrica have so far?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_doppio_conteggio|Double counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0103
+[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q10|src_kangourou_2023_ecolier_squadre_f2__Q10]]
 
 
 
@@ -366,11 +420,18 @@ How many postcards has Enrica given envelopes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum difference between two numbers sum 9999*
+*What is the value of this difference?*
 
-> The difference Cristina wrote a four-digit integer (i.e. not less than 1,000). Aldo also wrote an integer number of four digits: the digits of Aldo's number are the same as those used by Cristina (in a different order), Aldo's number is larger than Cristina's, the sum of the numbers written by Aldo and Cristina is 9999 and the difference between Aldo's number and Cristina's number is the smallest possible in this situation. How much is this difference worth?
+> The difference
+>
+> Cristina wrote a four-digit integer (that is, not less than 1.000). Aldo also wrote a four-digit integer: the digits of Aldo's number are the same ones Cristina used (in a different order), Aldo's number is larger than Cristina's, the sum of the numbers written by Aldo and Cristina is 9999, and the difference between Aldo's number and Cristina's is as small as possible in this situation. What is the value of this difference?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0099
+[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q11|src_kangourou_2023_ecolier_squadre_f2__Q11]]
 
 
 
@@ -396,11 +457,17 @@ How many postcards has Enrica given envelopes
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sandwich price given the purchase of cakes and sandwiches*
+*How many cents is the price of a roll?*
 
-> Yesterday I bought six sandwiches and three slices of cake, today I bought three sandwiches and six slices of cake. All sandwiches have the same price and all cake slices have the same price: a sandwich costs twice as much as a slice of cake. Yesterday I spent 6 euros and 90 cents more than today. How much is a sandwich worth?
+> Cakes and rolls
+>
+> Yesterday I bought six rolls and three slices of cake; today I bought three rolls and six slices of cake. All the rolls have the same price and all the slices of cake have the same price: a roll costs twice as much as a slice of cake. Yesterday I spent 6 euros and 90 cents more than today. How many cents is the price of a roll?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0460
+[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q12|src_kangourou_2023_ecolier_squadre_f2__Q12]]
 
 
 
@@ -427,11 +494,18 @@ How many postcards has Enrica given envelopes
 <div class="qlang-split" data-lang="en"></div>
 
 
-Handshakes with three brothers excluded
+*How many handshakes take place in all?*
 
-> Twenty friends, including three brothers, are at a party. At the end, to greet each other, each shakes hands with each other once and only once, but the three brothers, because they live together, do not shake hands with each other. Overall, how many handshakes are there?
+> Handshakes
+>
+> Twenty friends, including three brothers, are at a party. At the end, to say goodbye, each shakes hands once and only once with each of the others, but the three brothers, since they live together, do not shake hands with one another. How many handshakes take place in all?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0187
+[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q13|src_kangourou_2023_ecolier_squadre_f2__Q13]]
 
 
 
@@ -461,11 +535,18 @@ Handshakes with three brothers excluded
 <div class="qlang-split" data-lang="en"></div>
 
 
-How many of the 26 seats are red
+*How many of the 26 chairs are red?*
 
-> In Arthur's restaurant, every chair is either blue or yellow or red or green or purple. Around a large round table today there are 26 chairs and the 13 guests who have already arrived have sat down so that between them there is always an empty chair. If each occupant were to move two seats clockwise, the new seat he would occupy would be the same color as the one he previously occupied. If each occupant were to move 9 seats in an anti-clockwise direction, the new chair he would occupy would still be the same color as the one he previously occupied. Henry is one of the 13 and his chair is red. How many of the 26 chairs are red?
+> Chairs
+>
+> In Arturo's restaurant every chair is either blue or yellow or red or green or purple. Around a large round table today there are 26 chairs, and the 13 guests who have already arrived have sat down so that between two of them there is always an empty chair. If each occupant moved 2 chairs clockwise, the new chair he would occupy would have the same colour as the one he occupied before. If each occupant moved 9 chairs anticlockwise, again the new chair he would occupy would have the same colour as the one he occupied before. Enrico is one of the 13 and his chair is red. How many of the 26 chairs are red?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0026
+[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q14|src_kangourou_2023_ecolier_squadre_f2__Q14]]
 
 
 
@@ -494,11 +575,14 @@ How many of the 26 seats are red
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Kilometres from A to B given road signs*
+*How many kilometres must Sergio travel to go from A to B?*
 
-> From A to B Traveling from city A to city B, Sergio encounters a road sign that says: 100 km to city B. After 12 km Sergio sees another sign on the other side of the road that says: 100 km to the city A. How many kilometres does Sergio have to travel to get from A to B?
-> 
->  
-> Questions and solutions
+> From A to B
+>
+> Travelling from town A to town B, Sergio comes across a road sign that says: "100 km to town B". After 12 km Sergio sees another sign on the other side of the road that says: "100 km to town A". How many kilometres must Sergio travel to go from A to B?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0188
+[[Quesiti/src_kangourou_2023_ecolier_squadre_f2#q15|src_kangourou_2023_ecolier_squadre_f2__Q15]]

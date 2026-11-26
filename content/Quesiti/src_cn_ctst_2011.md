@@ -31,9 +31,18 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il massimo di M per la disuguaglianza della somma ciclica sulle permutazioni*
+*Trovare il massimo M per la disuguaglianza della somma ciclica sulle permutazioni*
 
-> Date un numero intero $n \ge 3$, trovare il numero reale massimo $M$, in modo tale che per tutti i numeri positivi $x_1, x_2, \ldots, x_n$, esista una permutazione $y_1, y_2, \ldots, y_n$ di $x_1, x_2, \ldots, x_n$ che soddisfa $$\sum_{i=1}^{n} \frac{y_i^2}{y_{i+1}^2 - y_{i+1} y_{i+2} + y_{i+2}^2} \ge M,$$ dove $y_{n+1} = y_1$, $y_{n+2} = y_2$. (Posizionato da Qu Zhenhua)
+> Dato un intero $n \ge 3$, trovare il numero reale massimo $M$ tale che, per qualsiasi numero positivo $x_1, x_2, \ldots, x_n$, esista una permutazione $y_1, y_2, \ldots, y_n$ di $x_1, x_2, \ldots, x_n$ che soddisfi
+> $$\sum_{i=1}^{n} \frac{y_i^2}{y_{i+1}^2 - y_{i+1} y_{i+2} + y_{i+2}^2} \ge M,$$
+> dove $y_{n+1} = y_1$, $y_{n+2} = y_2$. (proposto da Qu Zhenhua)
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_ctst_2011#q01|src_cn_ctst_2011__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove l'esistenza di a in [1, n/k+1] con n ̊ a ̊ a-1)*
+*Dimostra l'esistenza di a in [1, n/k+1] tale che n | a(a-1)*
 
-> Che $n > 1$ sia un numero intero, $k$ sia il numero di fattori primi distinti di $n$. Prova che esiste un numero intero $a$, $1 \le a \le \dfrac{n}{k} + 1$, tale che $n \mid a(a-1)$. (Possibile da Yu Hongbing)
+> Sia $n > 1$ un numero intero, sia $k$ il numero di fattori primi distinti di $n$. Dimostrare che esistono numeri interi $a$, $1 \le a \le \dfrac{n}{k} + 1$ tali che $n \mid a(a-1)$. (proposto da Yu Hongbing)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_ctst_2011#q02|src_cn_ctst_2011__Q02]]
 
 
 
@@ -83,11 +99,18 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Limiti minimi del grafico con vertici 4n, grado massimo 4n, diametro massimo 3*
+*Spigoli minimi di un grafo con 4n vertici, grado massimo 4n, diametro al più 3*
 
-> $4n$ sia il numero di vertice di un grafico semplice $G$ (insieme $n \ge 2$). Se il grado di ciascun vertice non è superiore a $4n$, esiste almeno un vertice con grado $4n$, e esiste un percorso con una lunghezza non superiore a $3$ tra due vertici. Provare che il numero minimo di bordi di $G$ è $\dfrac{7}{2}n^2 - \dfrac{3}{2}n$.
-> 
-> **Remark.** Un percorso tra due vertici distinti $a$ e $b$ con lunghezza $k$ è una sequenza di vertici $a = v_0, v_1, \ldots, v_k = b$ in cui $v_i$ e $v_{i+1}$ ($i = 0, 1, \ldots, k-1$) sono adiacenti. (Possibile da Leng Gangsong)
+> Sia $4n$ il numero di vertici di un grafo semplice $G$ (intero $n \ge 2$). Se il grado di ciascun vertice non è maggiore di $4n$, esiste almeno un vertice di grado $4n$, ed esiste un cammino di lunghezza non superiore a $3$ tra due vertici qualsiasi. Dimostrare che il numero minimo di spigoli di $G$ è $\dfrac{7}{2}n^2 - \dfrac{3}{2}n$.
+>
+> **Osservazione.** Un cammino tra due vertici distinti $a$ e $b$ di lunghezza $k$ è una sequenza di vertici $a = v_0, v_1, \ldots, v_k = b$ in cui $v_i$ e $v_{i+1}$ ($i = 0, 1, \ldots, k-1$) sono adiacenti. (proposto da Leng Gangsong)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_ctst_2011#q03|src_cn_ctst_2011__Q03]]
 
 
 
@@ -112,11 +135,18 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove triangolo JKM isosceles nella configurazione della linea orthocenter-Simson*
+*Dimostrare che il triangolo JKM è isoscele nella configurazione ortocentro-retta di Simson*
 
-> Che $H$ sia l'ortocentro di $\triangle ABC$ angolato acuto. Il $P$ deve essere un punto sull'arco $\widehat{BC}$ del circoncircolo di $\triangle ABC$ (non contenente $A$). $PH$ interseca l'arco $\widehat{AC}$ a $M$. Esiste un punto $K$ su $AB$ tale che la riga $KM$ sia parallela alla riga Simson di $P$ rispetto a $\triangle ABC$. Il punto $Q$ deve essere il punto del circoncircolo in modo tale che $QP \perp BC$; l'accordo $KQ$ incroci $BC$ al punto $J$. Provare che $\triangle JKM$ è uguale. (Posizionato da Xiong Bin)
+> Sia $H$ l'ortocentro di $\triangle ABC$, un triangolo acutangolo. Sia $P$ un punto sull'arco $\widehat{BC}$ della circonferenza circoscritta a $\triangle ABC$ (l'arco che non contiene $A$). $PH$ interseca l'arco $\widehat{AC}$ in $M$. Esiste un punto $K$ su $AB$ tale che la retta $KM$ è parallela alla retta di Simson di $P$ rispetto a $\triangle ABC$. Sia $Q$ il punto sulla circonferenza circoscritta tale che $QP \perp BC$; la corda $KQ$ interseca $BC$ nel punto $J$. Dimostrare che $\triangle JKM$ è isoscele. (proposto da Xiong Bin)
 
 ![[src_cn_ctst_b11_w134__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_ctst_2011#q04|src_cn_ctst_2011__Q04]]
 
 
 
@@ -139,9 +169,16 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Permutazione dei numeri interi positivi: infinito i con lcm(a_i, a_{i+1}) <= 3i/4*
+*Permutazione di interi positivi: infiniti i tali che mcm(a_i, a_{i+1}) <= 3i/4*
 
-> Lasciate che $a_1, a_2, \ldots$ sia una permutazione di tutti gli integri positivi. Prove che esistono infinitamente molti interi positivi $i$, come $(a_i, a_{i+1}) \le \dfrac{3}{4}i$. (Possibile da Chen Yonggao)
+> Sia $a_1, a_2, \ldots$ una permutazione di tutti gli interi positivi. Dimostrare che esistono infiniti interi positivi $i$ tali che $(a_i, a_{i+1}) \le \dfrac{3}{4}i$. (proposto da Chen Yonggao)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_ctst_2011#q05|src_cn_ctst_2011__Q05]]
 
 
 
@@ -166,8 +203,15 @@ level: China National Team Selection Test
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze di punti di interesse: dimostrare che qualsiasi due con punti di fine uguali condividono un'espansione comune*
+*Sequenze di punti interessanti: dimostrare che due qualsiasi sequenze di punti con gli stessi estremi hanno una espansione comune*
 
-> Chiamiamo una sequenza di punti $(A_1, A_2, \ldots, A_n)$ interessante se l'abcissa e l'ordinato di ciascun punto sono interi, le pendenti dei segmenti $OA_1, OA_2, \ldots, OA_n$ sono rigorosamente in aumento ($O$ è l'origine), e l'area di ciascuna $\triangle OA_i A_{i+1}$ ($1 \le i \le n-1$) è uguale a $\dfrac{1}{2}$.
-> 
-> Per una sequenza di punti $(A_1, \ldots, A_n)$, inserendo un punto $A$ adiacente a due punti $A_i, A_{i+1}$ soddisfacendo $\overrightarrow{OA} = \overrightarrow{OA_i} + \overrightarrow{OA_{i+1}}$, possiamo ottenere una nuova sequenza di punti $(A_1, \ldots, A_i, A, A_{i+1}, \ldots, A_n)$. Lasciate che $(A_1, \ldots, A_n)$ e $(B_1, \ldots, B_m)$ siano due sequenze di punti interessanti. Prova che se $A_1 = B_1$ e $A_n = B_m$, si possono espandere entrambe le sequenze di punti a una sequenza di punti comune $(C_1, C_2, \ldots, C_s)$. (Posizionato da Qu Zhenhua)
+> Definiamo interessante una successione di punti $(A_1, A_2, \ldots, A_n)$ se l'ascissa e l'ordinata di ciascun punto sono numeri interi, le pendenze dei segmenti $OA_1, OA_2, \ldots, OA_n$ sono strettamente crescenti ($O$ è l'origine) e l'area di ciascun $\triangle OA_i A_{i+1}$ ($1 \le i \le n-1$) è uguale a $\dfrac{1}{2}$.
+>
+> Per una successione di punti $(A_1, \ldots, A_n)$, inserendo un punto $A$ adiacente a due punti $A_i, A_{i+1}$ che soddisfano $\overrightarrow{OA} = \overrightarrow{OA_i} + \overrightarrow{OA_{i+1}}$, si può ottenere una nuova successione di punti $(A_1, \ldots, A_i, A, A_{i+1}, \ldots, A_n)$. Siano $(A_1, \ldots, A_n)$ e $(B_1, \ldots, B_m)$ due qualunque successioni di punti interessanti. Dimostrare che, se $A_1 = B_1$ e $A_n = B_m$, è possibile espandere entrambe le successioni di punti fino a ottenere una certa successione di punti comune $(C_1, C_2, \ldots, C_s)$. (proposto da Qu Zhenhua)
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_bigezione|Biiezione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_cn_ctst_2011#q06|src_cn_ctst_2011__Q06]]

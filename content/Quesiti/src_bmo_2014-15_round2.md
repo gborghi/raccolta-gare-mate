@@ -31,9 +31,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il 2015° termine di sequenza definita ricorrentemente a partire dal 2014.*
+*Trovare il 2015-esimo termine di una successione definita per ricorrenza a partire da 2014.*
 
-> Il primo termine $x_1$ di una sequenza è $2014$. Ogni termine successivo della sequenza è definito in termini di termine precedente. La formula iterativa è $$x_{n+1} = \frac{(\sqrt{2}+1)x_n - 1}{(\sqrt{2}+1) + x_n}.$$ Trova il $2015$th termine $x_{2015}$.
+> Il primo termine $x_1$ di una successione è $2014$. Ogni termine successivo della successione è definito in funzione del termine precedente. La formula iterativa è
+> $$x_{n+1} = \frac{(\sqrt{2}+1)x_n - 1}{(\sqrt{2}+1) + x_n}.$$
+> Trova il termine $x_{2015}$ di posto $2015$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2014-15_round2#q01|src_bmo_2014-15_round2__Q01]]
 
 
 
@@ -60,13 +69,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prova l'equivalenza: più consigli per ragazzi strani se le classi uniche hanno più ragazzi.*
+*Dimostrazione di equivalenza: i consigli con più ragazzi sono più numerosi se e solo se le classi con un numero dispari di alunni hanno più ragazzi.*
 
-> Nella scuola primaria di Oddesdon ci sono un numero strano di lezioni. Ogni classe contiene un numero impar di allievi. Un allievo da ogni classe sarà scelto per formare il consiglio scolastico. Prove che le seguenti due affermazioni sono logicamente equivalenti.
-> 
-> a) Esistono più modi per formare un consiglio scolastico che comprende un numero impar di ragazzi che di formare un consiglio scolastico che comprende un numero impar di ragazze.
-> 
-> b) Esistono un numero strano di classi che contengono più ragazzi che ragazze.
+> Nella Scuola Primaria di Oddesdon c'è un numero dispari di classi. Ogni classe conta un numero dispari di alunni. Da ciascuna classe sarà scelto un alunno per formare il consiglio scolastico. Dimostrare che le seguenti due affermazioni sono logicamente equivalenti.
+>
+> a) Ci sono più modi per formare un consiglio scolastico che includa un numero dispari di ragazzi rispetto ai modi per formare un consiglio scolastico che includa un numero dispari di ragazze.
+>
+> b) C'è un numero dispari di classi che contengono più ragazzi che ragazze.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2014-15_round2#q02|src_bmo_2014-15_round2__Q02]]
 
 
 
@@ -91,11 +107,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Locus del centro del triangolo AQP come PQ varia è un cerchio attraverso A.*
+*Il luogo geometrico del incentro del triangolo AQP, al variare di PQ, è una circonferenza che passa per A.*
 
-> Due cerchi si toccano internamente a $A$. Un accordo variabile $PQ$ del cerchio esterno tocca il cerchio interno. Prove che il locus dell'incentro del triangolo $AQP$ è un altro cerchio che tocca i circoli dati a $A$.
-> 
-> L'incentro di un triangolo è il centro del cerchio unico che si trova all'interno del triangolo e tocca tutti e tre i lati. Un locus è la raccolta di tutti i punti che soddisfano una determinata condizione.
+> Due cerchi si toccano internamente in $A$. Una corda variabile $PQ$ del cerchio esterno tocca il cerchio interno. Dimostrare che il luogo geometrico del incentro del triangolo $AQP$ è un altro cerchio che tocca i cerchi dati in $A$.
+>
+> L'incentro di un triangolo è il centro dell'unico cerchio che giace all'interno del triangolo e tocca tutti e tre i lati. Un luogo geometrico è l'insieme di tutti i punti che soddisfano una data condizione.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2014-15_round2#q03|src_bmo_2014-15_round2__Q03]]
 
 
 
@@ -126,14 +149,21 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine se esiste un ciclo di 100 punti di coordinate interi.*
+*Determinare se esiste un ciclo di 100 punti a coordinate intere.*
 
-> Dati due punti $P$ e $Q$ con coordinate interi, diciamo che $P$ \emph{sees} $Q$ se il segmento di linea $PQ$ non contiene altri punti con coordinate interi. Un ciclo $n$ è una sequenza di punti $n$ $P_1, P_2, \ldots, P_n$, ciascuno con coordinate interi, in modo tale che siano soddisfatte le seguenti condizioni:
-> 
-> a) $P_i$ vede $P_{i+1}$ per $1 \le i \le n-1$ e $P_n$ $P_1$;
-> 
-> b) Non $P_i$ comprende $P_j$ tranne quelli di cui alla lettera a);
-> 
-> c) Non tre dei punti si trovano sulla stessa linea retta.
-> 
-> Esiste un ciclo $100$?
+> Dati due punti $P$ e $Q$ con coordinate intere, si dice che $P$ \emph{vede} $Q$ se il segmento di retta $PQ$ non contiene altri punti con coordinate intere. Un ciclo-$n$ è una successione di $n$ punti $P_1, P_2, \ldots, P_n$, ciascuno con coordinate intere, tale che valgono le seguenti condizioni:
+>
+> a) $P_i$ vede $P_{i+1}$ per $1 \le i \le n-1$, e $P_n$ vede $P_1$;
+>
+> b) Nessun $P_i$ vede alcun $P_j$ diverso da quelli menzionati in (a);
+>
+> c) Nessun tre dei punti giacciono sulla stessa retta.
+>
+> Esiste un ciclo-$100$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|method_casework]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2014-15_round2#q04|src_bmo_2014-15_round2__Q04]]

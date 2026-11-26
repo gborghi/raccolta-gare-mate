@@ -41,9 +41,9 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total area of the ceded chocolate cube*
+*Total surface area of the chocolate block given away*
 
-> Gabriele, the lover of cubes, bought a magnificent piece of collection: a cube made entirely of chocolate, with 10 cm long beads. Unfortunately, having lost a bet with two of his friends, he'll have to give up two-thirds of the volume of the chocolate block. Gabriele decided to take a smaller cube as his own portion of chocolate, having one of its vertices coinciding with one of the vertices of the purchased chocolate cube and faces parallel to those of the purchased cube. Eventually, he gives the remaining chocolate to his two friends. We use S to indicate the total area of the chocolate block yielded, expressed in cm2. Then you do. . .
+> Gabriele, a lover of cubes, bought a magnificent collectible piece: a cube entirely made of chocolate, with edges 10 cm long. Unfortunately, having lost a bet with two of his friends, he must give away two thirds of the volume of the chocolate block. Gabriele decided to take as his own portion of chocolate a smaller cube, having one of its vertices coincident with one of the vertices of the chocolate cube bought and the faces parallel to those of the bought cube. In the end, he gives the remaining chocolate to the two friends. Let S be the total surface area of the chocolate block given away, expressed in cm2. Then it is. . .
 >
 > - **(A)** 300≤S ≤350
 > - **(B)** 350<S ≤450
@@ -51,7 +51,10 @@ level: 2 livello
 > - **(D)** 550<S ≤650
 > - **(E)** 650<S ≤750.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2011_2livello#q01|src_archimede_2011_2livello__Q01]]
 
 
 
@@ -89,17 +92,26 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of turtles among foxes/ snakes/turtles
+*Most turtles among foxes, snakes and turtles*
 
-> In the forest of the purple tree there are three types of animals that can speak: foxes, snakes, and turtles. The first lies only on rainy days, the second always lies, the third always tells the truth. One day explorer Berny talks to four animals. Their statements, in the order in which they were given, are: A: Today it rains. B: The animal that spoke before me lies. C: Today is serene. D: What spoke before me lies or I am a fox. With how many turtles did Berny speak at most?
+> In the forest of the purple tree there are three kinds of animals that can talk: foxes, snakes and turtles. Foxes lie only on rainy days, snakes always lie, and turtles always tell the truth. One day the explorer Berny talks to four animals. Their statements, given in the order in which they were made, are:
+> A: “It is raining today.”
+> B: “The animal that spoke before me is lying.”
+> C: “It is clear today.”
+> D: “The one who spoke before me is lying, or I am a fox.”
+> What is the maximum number of turtles Berny spoke to?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
-> - **(E)** There's no way to tell.
+> - **(E)** it cannot be determined.
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2011_2livello#q02|src_archimede_2011_2livello__Q02]]
 
 
 
@@ -132,17 +144,21 @@ Maximum number of turtles among foxes/ snakes/turtles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Always true assertion on the coefficient of division of polynomials*
+*Statement always true of a polynomial quotient*
 
-> Julius writes a polynomial P1(x) and another polynomial P2(x), a product of first-degree factors, having a strictly higher degree than the previous one. If you divide P2(x) by P1(x), you get leftover 0. When indicating with Q(x) the quotient of this division, which of the following statements is always true?
+> Giulio writes a polynomial P1(x) and another polynomial P2(x), a product of linear factors, of degree strictly greater than the previous one. Dividing P2(x) by P1(x) gives remainder 0. Letting Q(x) be the quotient of that division, which of the following statements is always true?
 >
 > - **(A)** Q(x) can be a constant
-> - **(B)** If P2(a) = 0, then Q(a) = 0
-> - **(C)** There exists a real number such that P2(a) = Q(a) = 0
-> - **(D)** Q(x) certainly has a lower degree than P1(x)
-> - **(E)** If P1(a) is 0, then Q(a) is 0.
+> - **(B)** if P2(a) = 0, then Q(a) = 0
+> - **(C)** there exists a real number a such that P2(a) = Q(a) = 0
+> - **(D)** Q(x) certainly has degree less than P1(x)
+> - **(E)** if P1(a) = 0, then Q(a) = 0.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2011_2livello#q03|src_archimede_2011_2livello__Q03]]
 
 
 
@@ -172,17 +188,21 @@ Maximum number of turtles among foxes/ snakes/turtles
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of prime of the form n^(n+1) + 1*
+*How many primes of the form n^(n+1) + 1*
 
-> How many prime numbers can be expressed in the form nn+1+1, with n positive integers?
+> How many primes can be expressed in the form nn+1 + 1, with n a positive integer?
 >
 > - **(A)** 0
 > - **(B)** 1
 > - **(C)** 2
-> - **(D)** more than 2, but in finite number
-> - **(E)** infinite.
+> - **(D)** more than 2, but finitely many
+> - **(E)** infinitely many.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2011_2livello#q04|src_archimede_2011_2livello__Q04]]
 
 
 
@@ -216,17 +236,23 @@ Maximum number of turtles among foxes/ snakes/turtles
 <div class="qlang-split" data-lang="en"></div>
 
 
-Chances that Nicola will win at least 4 coins in 5 games
+*Probability that Nicola wins at least 4 coins in five games*
 
-> At a fair there is a very inviting game, because you can participate for free; the winner wins a prize. The prize agreed for the first four matches is one coin, for the fifth it is two coins. Nicola at each game has a 2-3 chance of winning the prize and decides to play 5 games. What are the odds of Nicholas winning at least four coins?
+> At a fair there is a very tempting game, because one may enter for free; whoever wins receives a prize. The agreed prize for each of the first four games is one coin, and for the fifth it is two coins. At each game Nicola has probability 2
+> 3 of winning the prize, and he decides to play 5 games. What is the probability that Nicola wins at least 4 coins?
 >
-> - **(A)** 5 2 3 5
-> - **(B)** 4 2 3 5
-> - **(C)** 3 2 3 5
-> - **(D)** 2 2 3 5
-> - **(E)** 2 3 5 .
+> - **(A)** 5 2 3 5
+> - **(B)** 4 2 3 5
+> - **(C)** 3 2 3 5
+> - **(D)** 2 2 3 5
+> - **(E)** 2 3 5 .
 
-**Answer:** A
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_archimede_2011_2livello#q05|src_archimede_2011_2livello__Q05]]
 
 
 
@@ -268,11 +294,13 @@ Chances that Nicola will win at least 4 coins in 5 games
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arc length of the deleted bars*
+*Length of the arcs of the railing bars*
 
-![[src_archimede_2011_2livello__prob6.png]]
-
-> A blacksmith is building a horizontal iron canvas made up of many vertical bars, parallel to each other, each of which is positioned 18 cm away from the two nearby ones. The blacksmith connects the ends of each pair of adjacent bars to a curved arc-shaped bar located in the bar plane, the highest point of which is 3 √ 3 cm from the straight line (treated in the figure) passing through the upper ends of all bars, and which is perpendicular to the bars themselves. How long is each of the bars used to build the bows?
+> A blacksmith is building a horizontal iron railing made of many vertical bars, parallel to one another, each of which is positioned 18 cm from the 2 neighbouring ones.
+> The blacksmith connects the ends of each pair of adjacent bars with a curved bar in the shape of a circular arc placed in the plane of the bars, whose highest point is 3
+> √
+> 3 cm from the line (dashed in the figure) that passes through the upper ends of all the bars, and which is perpendicular to the bars themselves.
+> How long is each of the small bars used to construct the arcs?
 >
 > - **(A)** 8π( √ 3 −1) cm
 > - **(B)** 6π √ 3 cm
@@ -280,7 +308,11 @@ Chances that Nicola will win at least 4 coins in 5 games
 > - **(D)** 4π √ 3 cm
 > - **(E)** 8π √ 3 cm.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2011_2livello#q06|src_archimede_2011_2livello__Q06]]
 
 
 
@@ -310,9 +342,9 @@ Chances that Nicola will win at least 4 coins in 5 games
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of real solutions distinct from the polynomial of degree 6*
+*Number of distinct real solutions of a degree 6 polynomial*
 
-> How many distinct real solutions are there to the equation x6 + 2x5 + 2x4 + 2x3 + 2x2 + 2x + 1 = 0 ?
+> How many distinct real solutions does the equation x6 + 2x5 + 2x4 + 2x3 + 2x2 + 2x + 1 = 0 have?
 >
 > - **(A)** 0
 > - **(B)** 1
@@ -320,7 +352,11 @@ Chances that Nicola will win at least 4 coins in 5 games
 > - **(D)** 4
 > - **(E)** 6.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2011_2livello#q07|src_archimede_2011_2livello__Q07]]
 
 
 
@@ -352,9 +388,11 @@ Chances that Nicola will win at least 4 coins in 5 games
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 10 different digits with pairs of sums of 9*
+*Numbers with 10 distinct digits with pairs summing to 9*
 
-> How many are the positive integers of 10 digits abcdefghij, with all the different digits and verifying the conditions a + j = b + i = c + h = d + g = e + f = 9 ? Note: a number cannot start with 0.
+> How many positive integers with 10 digits abcdefghij, with all digits distinct and satisfying
+> the conditions a + j = b + i = c + h = d + g = e + f = 9 ?
+> Note: a number cannot begin with 0.
 >
 > - **(A)** 3456
 > - **(B)** 3528
@@ -362,7 +400,11 @@ Chances that Nicola will win at least 4 coins in 5 games
 > - **(D)** 3840
 > - **(E)** 5040.
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2011_2livello#q08|src_archimede_2011_2livello__Q08]]
 
 
 
@@ -395,9 +437,9 @@ Chances that Nicola will win at least 4 coins in 5 games
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance from L with maximum PEQ angle (tangency)*
+*Distance from L that makes angle PEQ as large as possible*
 
-> From a point L two straight roads start forming an acute angle α. Along one of the two roads there are two lamps, positioned in P and Q, such that LP = 40 m and LQ = 90 m. Eva is in E on the other road, and she sees the two lamps at an angle. How far from L is Eva, if $\widehat{PEQ}$ has the maximum width possible?
+> From a point L, two straight roads leave, forming an acute angle α. Along one of the two roads there are two street lamps, placed at P and Q, such that LP = 40 m and LQ = 90 m. Eva is at E on the other road, and sees the two lamps under an angle $\widehat{PEQ}$. How far from L is Eva if $\widehat{PEQ}$ has the greatest possible measure?
 >
 > - **(A)** 40 m
 > - **(B)** 60 m
@@ -405,7 +447,11 @@ Chances that Nicola will win at least 4 coins in 5 games
 > - **(D)** 90 m
 > - **(E)** the distance depends on α.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2011_2livello#q09|src_archimede_2011_2livello__Q09]]
 
 
 
@@ -435,7 +481,7 @@ Chances that Nicola will win at least 4 coins in 5 games
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary of the sixth powers of the solutions of the equation*
+*Sum of the sixth powers of the solutions of the equation*
 
 > What is the sum of the sixth powers of the solutions of the equation x6 −16x4 + 16x2 −1 = 0 ?
 >
@@ -445,7 +491,11 @@ Chances that Nicola will win at least 4 coins in 5 games
 > - **(D)** 6660
 > - **(E)** 6662.
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_ricorsione|Recursion]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2011_2livello#q10|src_archimede_2011_2livello__Q10]]
 
 
 
@@ -477,17 +527,22 @@ Chances that Nicola will win at least 4 coins in 5 games
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Couples (x,y) with x^2-y^2 multiples of 2011 and 2011 dividers*
+*Ordered pairs whose difference of squares is a multiple of 2011 with exactly 2011 divisors*
 
-> x and y are two positive integers such that x2 −y2 is positive, multiple of 2011 and has exactly 2011 positive divisors. How many pairs (x, y) do these conditions occur? Note: 2011 is a prime number
+> x and y are two positive integers such that x2 −y2 is positive, a multiple of 2011, and has exactly 2011 positive divisors. How many ordered pairs (x, y) satisfy these conditions?
+> Note: 2011 is a prime number.
 >
 > - **(A)** 2010
 > - **(B)** 2011
 > - **(C)** 1005
 > - **(D)** 0
-> - **(E)** There are infinitely many of them.
+> - **(E)** infinitely many exist.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2011_2livello#q11|src_archimede_2011_2livello__Q11]]
 
 
 
@@ -520,17 +575,24 @@ Chances that Nicola will win at least 4 coins in 5 games
 <div class="qlang-split" data-lang="en"></div>
 
 
-*True statement on sequence length with sums of the mark*
+*True statement on the length of a sequence with signed consecutive sums*
 
-> It 's x1 . . . xn a finite sequence of real numbers such that: (i) the sum of 7 consecutive terms is always strictly positive; (ii) the sum of 13 consecutive elements is always strictly negative. Which of the following statements is true?
+> Let x1 . . . xn be a finite sequence of real numbers such that:
+> i) the sum of any 7 consecutive terms of it is always strictly positive;
+> ii) the sum of any 13 consecutive elements of it is always strictly negative.
+> Which of the following statements is true?
 >
-> - **(A)** The sequence has a maximum of 18 terms.
-> - **(B)** The sequence can have 19 terms.
-> - **(C)** The sequence has exactly 21 terms.
-> - **(D)** The sequence has at least 18 terms.
-> - **(E)** Arbitrary length sequences that satisfy (i) and (ii) exist . Problems with numerical answer  5 points
+> - **(A)** the sequence has at most 18 terms
+> - **(B)** the sequence can have 19 terms
+> - **(C)** the sequence has exactly 21 terms
+> - **(D)** the sequence has at least 18 terms
+> - **(E)** there exist sequences of arbitrary length that satisfy i) and ii). Numerical-answer problems – 5 points
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2011_2livello#q12|src_archimede_2011_2livello__Q12]]
 
 
 
@@ -556,11 +618,15 @@ Chances that Nicola will win at least 4 coins in 5 games
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-degenerate triangles not congruent by 6 points of importance*
+*Non-congruent non-degenerate triangles from 6 notable points*
 
-> Whether ABC is an equilateral triangle, let's use D, E, F to indicate the midpoints of the sides. How many non-degenerate and non-conforming triangles can be obtained by choosing 3 of the points A, B, C, D, E, F?
+> Let ABC be an equilateral triangle, and let D, E, F be the midpoints of the sides. How many non-degenerate and pairwise non-congruent triangles can be obtained by choosing 3 of the points A, B, C, D, E, F?
 
-**Answer:** 4
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2011_2livello#q13|src_archimede_2011_2livello__Q13]]
 
 
 
@@ -585,11 +651,16 @@ Chances that Nicola will win at least 4 coins in 5 games
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total pairs (x,y) that verify the quartic equation*
+*Integer pairs (x,y) satisfying the quartic equation*
 
-> How many pairs (x, y) of relative integers do you find that y4 −8y2 + 7 = 8x2 −2x2y2 −x4 ?
+> How many ordered pairs (x, y) of integers satisfy the equation
+> y4 −8y2 + 7 = 8x2 −2x2y2 −x4 ?
 
-**Answer:** 4
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2011_2livello#q14|src_archimede_2011_2livello__Q14]]
 
 
 
@@ -614,11 +685,16 @@ Chances that Nicola will win at least 4 coins in 5 games
 <div class="qlang-split" data-lang="en"></div>
 
 
-*All powers of 3 are decimal places*
+*All powers of 3 have an even tens digit*
 
-> Demonstrative Exercise To prove that all powers of 3 have the number of decimal places.
+> PROOF EXERCISE
+> Prove that all powers of 3 have an even tens digit.
 
-**Answer:** proof
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2011_2livello#q15|src_archimede_2011_2livello__Q15]]
 
 
 
@@ -647,13 +723,17 @@ Chances that Nicola will win at least 4 coins in 5 games
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Circumference for A,B,X,Y in the acute triangle*
+*Circle through A', B', X, Y in an acute triangle*
 
-![[src_archimede_2011_2livello__prob16.png]]
+> PROOF EXERCISE
+> Let ABC be an acute triangle, and let D, E be the feet of the altitudes from A, B. Let A′ be the midpoint of AD, B′ the midpoint of BE. CA′ intersects BE at X, CB′ intersects AD at Y.
+> Prove that there exists a circle passing through the points A′, B′, X, Y.
 
-> Exercise to show whether ABC is an acute triangle, and whether D, and feet of heights emanating from A, B. A′ the mean point of AD, B′ the mean point of BE. CA′ intersects BE in X, CB′ intersects AD in Y. Demonstrate that there is a passing circumference for points A′, B′, X, Y.
 
-**Answer:** proof
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2011_2livello#q16|src_archimede_2011_2livello__Q16]]
 
 
 
@@ -683,8 +763,13 @@ Chances that Nicola will win at least 4 coins in 5 games
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of seats in carriages with 2n stations*
+*Minimum number of carriage seats with 2n stations*
 
-> Demonstrative Exercise Be a positive whole. A stop train at 2 stations, including the initial and final stations, numbered in order from 1st to 2nd. It is known that in a certain carriage, for each pair of integers i, j such that 1 ≤i < j ≤2n, exactly one place has been reserved for the route between the i-e-m and that j-e-m stations. Of course, different reservations cannot overlap. Determine, in relation to n, the minimum number of seats that must be available in that carriage in order for the situation described to be possible.
+> PROOF EXERCISE
+> Let n be a positive integer. A train stops at 2n stations, including the initial and final ones, numbered in order from the first to the 2n-th. It is known that in a certain carriage, for every pair of integers i, j such that 1 ≤ i < j ≤ 2n, exactly one seat has been booked for the journey between the i-th and the j-th station. Obviously, different bookings cannot overlap. Determine, as a function of n, the minimum number of seats that must be available in that carriage so that the described situation is possible.
 
-**Answer:** n^2
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+[[Quesiti/src_archimede_2011_2livello#q17|src_archimede_2011_2livello__Q17]]

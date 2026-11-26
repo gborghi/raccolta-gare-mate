@@ -29,11 +29,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What time was the photo taken with four watches*
+*What time was the photo with four watches taken?*
 
-> In one photograph, four clocks appear: one marks 4:45, another 5:05, another marks 5:25, and the last marks 5:40. We know that when the photo was taken, two of them were still, while the other two were marking at the right speed, but one was 20 minutes ahead and the other was 20 minutes behind. What time was the photo taken?
+> In one photograph, four clocks appear: one shows 4:45, another shows 5:05, another shows 5:25, and the last shows 5:40. It is known that, when the photograph was taken, two of the clocks were stopped, while the other two were running at the correct speed—but one was 20 minutes fast and the other was 20 minutes slow. What time was the photograph taken?
 
-**Answer:** 5:05
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_benjamin_finale#qb1|src_kangourou_2012_benjamin_finale__QB1]]
 
 
 
@@ -56,11 +60,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many brown balls in Elena's 20*
+*How many brown marbles are there among Elena's 20?*
 
-> Elena has 20 marbles, each colored with one and only one of the following colors: green, red, blue, brown. 17 are not green; 5 are red; 12 are not blue. How many brown marbles are there?
+> Elena has 20 marbles, each colored with exactly one of the following colors: green, red, blue, brown. 17 are not green; 5 are red; 12 are not blue. How many marbles are brown?
 
-**Answer:** 4
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_insiemi_funzioni|Sets and functions]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_benjamin_finale#qb2|src_kangourou_2012_benjamin_finale__QB2]]
 
 
 
@@ -84,11 +92,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final digit of the product of odd numbers between 1 and 2012*
+*Final digit of the product of the odd numbers between 1 and 2012*
 
-> If all odd integers between $1$ and $2012$ are multiplied by each other, what digit does the product end with?
+> If all the odd integers between $1$ and $2012$ are multiplied together, what digit does the product end in?
 
-**Answer:** 5
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2012_benjamin_finale#qb3|src_kangourou_2012_benjamin_finale__QB3]]
 
 
 
@@ -113,13 +126,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of triangles to cut the kangaroo*
+*Minimum number of triangles to cut out the kangaroo*
 
 ![[src_kangourou_2012_benjamin_finale__probb4.png]]
 
-> The figure, drawn on grid paper, represents a kangaroo. You want to cut it so that you only get triangles. What's the minimum number of triangles you can get? (see figure)
+> The figure, drawn on graph paper, depicts a kangaroo. You want to cut it out so that you end up with only triangles. What is the minimum number of triangles you can get? (see figure)
 
-**Answer:** 6
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_benjamin_finale#qb4|src_kangourou_2012_benjamin_finale__QB4]]
 
 
 
@@ -145,13 +162,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*You can get sum 2012 on the exposed faces of the dice*
+*A sum of 2012 can be obtained on the exposed faces of the dice*
 
 ![[src_kangourou_2012_benjamin_finale__probb5.png]]
 
-> Peter wants to line up a number of traditional dice (the sum of the dots on opposite faces is always 7), as the figure shows you. He glues two faces together only if the number of points on both faces is equal, and he wants to get a row so that the sum of points on all the faces exposed is $2012$. Can he do it, and if so, how many dice does he have to use? (see figure)
+> Pietro wants to line up a certain number of traditional dice (the sum of the dots on opposite faces is always 7), as shown in the figure. He glues two faces together only if the number of dots on the two faces is the same, and he wants to end up with a row such that the sum of the dots on all the visible faces is $2012$. Can he succeed? If so, how many dice must he use? (see figure)
 
-**Answer:** no
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2012_benjamin_finale#qb5|src_kangourou_2012_benjamin_finale__QB5]]
 
 
 
@@ -174,8 +196,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of buttons to know which floor is located*
+*Minimum number of buttons needed to know which floor it is on*
 
-> Maurizio is in a 99-story skyscraper, but he doesn't remember what floor it is. The system to call the elevator is unusual. Each floor has a panel with buttons from 0 to 99: by pressing a button the elevator reaches the floor corresponding to the number shown on the key, but it is occupied, whatever the floor, for the time it takes to travel 99 floors. Considering that Maurizio can see from the glass of the door if the elevator is passing through his floor and that the elevator is now on floor 0, what is the minimum number of buttons pressed which will guarantee that he knows which floor he is on?
+> Maurizio is in a 99-story skyscraper, but he doesn't remember which floor he is on. The system for calling the elevator is unusual. Each floor has a control panel with buttons numbered from 0 to 99: when a button is pressed, the elevator goes to the floor corresponding to the number on the button, but, regardless of the floor, it is occupied for the time needed to travel 99 floors. Given that Maurizio can see through the door glass whether the elevator passes his floor and that the elevator is currently on floor 0, what is the minimum number of buttons that he must press to be guaranteed of knowing which floor he is on?
 
-**Answer:** 6
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2012_benjamin_finale#qb6|src_kangourou_2012_benjamin_finale__QB6]]

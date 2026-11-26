@@ -31,9 +31,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni f che rendono due condizioni di divisibilità/valore equivalenti*
+*Funzioni sugli interi positivi per cui due condizioni sono equivalenti*
 
-> Trovare tutte le funzioni $f$ definite sui numeri interi positivi che assumono valori interi positivi in modo tale che, per tutti i numeri interi positivi $m$ e $n$, le seguenti due condizioni siano equivalenti: - $n \mid m$ (cioè $n$ divide $m$); - $f(m) = f(n)$.
+> Determinare tutte le funzioni $f$ definite sugli interi positivi, a valori interi positivi, tali che per tutti gli interi positivi $m$ e $n$ le due condizioni seguenti siano equivalenti:
+> - $n \mid m$ (cioè $n$ divide $m$);
+> - $f(m) = f(n)$.
+
+**Argomento:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo31hq_honsen#q01|src_jmo31hq_honsen__Q01]]
 
 
 
@@ -60,13 +67,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di griglia: determinare quando Taro può garantire di raggiungere la colonna 1*
+*Caselle iniziali da cui Taro può garantire di portare la pedina all'estremo sinistro*
 
-> $n \ge 2$ sia un numero intero. Si consideri una lavagna $1 \times (2n-1)$ le cui celle sono etichettate $1, 2, \ldots, 2n-1$ da sinistra a destra. Taro (太郎) e Jiro (次郎) giocano il seguente gioco.
-> 
-> In primo luogo, Taro mette una pietra su qualsiasi cellula che scelga. Dopo di che, Jiro e Taro si alternano (Jiro va prima). A turno di ciascun giocatore, quel giocatore sposta la pietra in una cella adiacente (a sinistra o a destra con un passo). Se la pietra si trova in una cella terminale (cellula $1$ o cella $2n-1$), non può essere spostata in quella direzione. L'obiettivo di Taro è quello di spostare la pietra nella cella $1$ (la cella più sinistra); l'obiettivo di Jiro è quello di prevenire questo.
-> 
-> Determina per quali cellule iniziali Taro può garantire di spostare la pietra nella cellula $1$, indipendentemente dal gioco di Jiro.
+> Sia $n \ge 2$ un intero. Si consideri una tavola $1 \times (2n-1)$ le cui caselle sono etichettate $1, 2, \ldots, 2n-1$ da sinistra a destra. Taro (太郎) e Jiro (次郎) giocano la partita seguente.
+>
+> Dapprima Taro pone una pedina su una casella a sua scelta. Poi Jiro e Taro alternano i turni (inizia Jiro). Al proprio turno, il giocatore sposta la pedina su una casella adiacente (un passo a sinistra o a destra). Se la pedina è su una casella estrema (la casella $1$ o la casella $2n-1$), non può essere spostata oltre in quella direzione. Lo scopo di Taro è portare la pedina sulla casella $1$ (la casella più a sinistra); lo scopo di Jiro è impedirlo.
+>
+> Determinare per quali caselle iniziali Taro può garantire di portare la pedina sulla casella $1$, comunque giochi Jiro.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Analisi per casi accurata]]
+[[Quesiti/src_jmo31hq_honsen#q02|src_jmo31hq_honsen__Q02]]
 
 
 
@@ -90,9 +102,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto, punti su lati con BD=CE; prova uguale angolo con punto di circoncircolo*
+*Una relazione da dimostrare in un triangolo acutangolo*
 
-> Lasciate che $\triangle ABC$ sia un triangolo acuto. Il punto $D$ e il punto $E$ devono essere punti rispettivamente sui lati $AB$ e $AC$, soddisfacendo il punto $BD = CE$. $P$ sia un punto sul segmento $DE$ e $Q$ sia un punto sull'arco $BC$ del cerchio circonscritto di $\triangle ABC$ non contenente $A$. Supponiamo che $BP \cdot PC = QD \cdot QE$ e che i punti $A, B, C, D, E, P, Q$ siano tutti distinti. Provare che $$\angle BPC = \angle BAC + \angle EQD.$$
+> Sia $\triangle ABC$ un triangolo acutangolo. Siano $D$ e $E$ punti sui lati $AB$ e $AC$ rispettivamente, che soddisfano $BD = CE$. Sia $P$ un punto sul segmento $DE$, e sia $Q$ un punto sull'arco $BC$ della circonferenza circoscritta a $\triangle ABC$ che non contiene $A$. Si supponga che $BP \cdot PC = QD \cdot QE$ e che i punti $A, B, C, D, E, P, Q$ siano tutti distinti. Dimostrare che
+>
+> $$\angle BPC = \angle BAC + \angle EQD.$$
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo31hq_honsen#q03|src_jmo31hq_honsen__Q03]]
 
 
 
@@ -118,9 +137,20 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza integrale con a_{n+2}>a_{n+1}+a_n in [1,2016]; minimizzare il massimo meno min*
+*Minimo valore possibile di un'espressione su una successione di interi*
 
-> Considera una sequenza di enti $a_1, a_2, \ldots, a_{2021}$ in cui ogni termine soddisfa $1 \le a_i \le 2016$, e per tutti gli indici validi $n$ la disuguaglianza $$a_{n+2} > a_{n+1} + a_n$$ è mantenuta. Trova il valore minimo possibile di $$\max(a_1, a_2, \ldots, a_{2021}) - \min(a_1, a_2, \ldots, a_{2021}).$$
+> Si consideri una successione di interi $a_1, a_2, \ldots, a_{2021}$ in cui ogni termine soddisfa $1 \le a_i \le 2016$, e per tutti gli indici ammessi $n$ vale la disuguaglianza
+>
+> $$a_{n+2} > a_{n+1} + a_n$$
+>
+> Trovare il minimo valore possibile di
+>
+> $$\max(a_1, a_2, \ldots, a_{2021}) - \min(a_1, a_2, \ldots, a_{2021}).$$
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo31hq_honsen#q04|src_jmo31hq_honsen__Q04]]
 
 
 
@@ -143,6 +173,11 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2n×2n griglia di colore bianco/nero; numero finito di 2×2 quadrati tutti neri di 2n−1*
+*Il numero di sottogriglie tutte nere è al più un dato valore*
 
-> $n$ sia un numero intero positivo. Considera una griglia $2n \times 2n$ di quadrati unitari. Ogni cella è di colore bianco o nero. Una cellula bianca viene selezionata, e poi ogni cellula che condivide un lato con quella cellula bianca è di colore nero (cellule che erano già nere rimangono nere); la cellula bianca selezionata stessa è anche di colore nero. Prove che, in qualche condizione della colorazione iniziale, il numero di sottoreti $2 \times 2$ in cui tutte e quattro le celle sono nere è massimo $2n - 1$.
+> Sia $n$ un intero positivo. Si consideri una griglia $2n \times 2n$ di quadrati unitari. Ogni casella è colorata di bianco o di nero. Si sceglie una casella bianca, e poi ogni casella che condivide un lato con quella casella bianca si colora di nero (le caselle già nere restano nere); anche la casella bianca scelta si colora di nero. Dimostrare che, sotto una certa condizione sulla colorazione iniziale, il numero di sottogriglie $2 \times 2$ in cui tutte e quattro le caselle sono nere è al più $2n - 1$.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_jmo31hq_honsen#q05|src_jmo31hq_honsen__Q05]]

@@ -30,9 +30,17 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove una disuguaglianza massima quadrata per le sequenze di somma zero*
+*Dimostrazione di una disuguaglianza a quadrato massimo per sequenze a somma zero*
 
-> Supponiamo che i numeri reali $a_1, a_2, \ldots, a_n$ soddisfino $a_1 + a_2 + \cdots + a_n = 0$. Prova $$\max_{1 \le i \le n} a_i^2 \le \frac{n}{3} \sum_{i=1}^{n-1} (a_i - a_{i+1})^2.$$
+> Supponiamo che i numeri reali $a_1, a_2, \ldots, a_n$ soddisfino $a_1 + a_2 + \cdots + a_n = 0$. Dimostra
+> $$\max_{1 \le i \le n} a_i^2 \le \frac{n}{3} \sum_{i=1}^{n-1} (a_i - a_{i+1})^2.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2006#q01|src_cn_cmo_2006__Q01]]
 
 
 
@@ -56,11 +64,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di valori distinti tra i numeri interi del 2006 con rapporti consecutivi diseguali*
+*Valori distinti minimi tra 2006 interi con rapporti consecutivi disuguali*
 
-> Supponiamo che i numeri interi positivi $a_1, a_2, \ldots, a_{2006}$ (alcuni di essi possono essere uguali) soddisfino la condizione: qualsiasi due di $\frac{a_1}{a_2},\, \frac{a_2}{a_3},\, \ldots,\, \frac{a_{2005}}{a_{2006}}$ sono disuguali. Almeno quanti numeri diversi ci sono in $\{a_1, a_2, \ldots, a_{2006}\}$?
+> Supponiamo che gli interi positivi $a_1, a_2, \ldots, a_{2006}$ (alcuni dei quali potrebbero essere uguali) soddisfino la condizione che due qualsiasi tra $\frac{a_1}{a_2},\, \frac{a_2}{a_3},\, \ldots,\, \frac{a_{2005}}{a_{2006}}$ siano disuguali. Quanti numeri diversi ci sono almeno in $\{a_1, a_2, \ldots, a_{2006}\}$?
 
-**Risposta:** 46
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2006#q02|src_cn_cmo_2006__Q02]]
 
 
 
@@ -85,9 +98,18 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-Prove che una delle due equazioni diofantine ha una soluzione strana
+*Dimostrare che una delle due equazioni diofantinee ammette una soluzione dispari*
 
-> Supponiamo che gli integri positivi $m$, $n$, $k$ soddisfino $mn = k^2 + k + 3$. Prova che almeno una delle seguenti equazioni diofantine $$x^2 + 11y^2 = 4m \quad \text{and} \quad x^2 + 11y^2 = 4n$$ ha una soluzione $(x_0, y_0)$ con $x_0$, $y_0$ essendo numeri odd.
+> Supponiamo che gli interi positivi $m$, $n$, $k$ soddisfino $mn = k^2 + k + 3$. Dimostrare che almeno una delle seguenti equazioni diofantine
+> $$x^2 + 11y^2 = 4m \quad \text{and} \quad x^2 + 11y^2 = 4n$$
+> ammette una soluzione $(x_0, y_0)$ tale che $x_0$, $y_0$ siano numeri dispari.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2006#q03|src_cn_cmo_2006__Q03]]
 
 
 
@@ -110,9 +132,16 @@ Prove che una delle due equazioni diofantine ha una soluzione strana
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove AE + AP = PD in triangolo rettangolo con incircolo*
+*Dimostrare che AE + AP = PD in un triangolo rettangolo con cerchio inscritto*
 
-> $\triangle ABC$ sia un triangolo rettangolare con $\angle ACB = 90^\circ$. Il cerchio $\odot$ di $\triangle ABC$ è tangente a $BC$, $CA$, $AB$ rispettivamente a $D$, $E$ e $F$. $AD$ si interseca con $\odot$ a $P$. $\angle BPC = 90^\circ$. Prove che $AE + AP = PD$.
+> Sia $\triangle ABC$ un triangolo rettangolo con $\angle ACB = 90^\circ$. La circonferenza inscritta $\odot$ di $\triangle ABC$ è tangente a $BC$, $CA$, $AB$ rispettivamente nei punti $D$, $E$, $F$. $AD$ interseca $\odot$ in $P$. $\angle BPC = 90^\circ$. Dimostrare che $AE + AP = PD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2006#q04|src_cn_cmo_2006__Q04]]
 
 
 
@@ -138,11 +167,19 @@ Prove che una delle due equazioni diofantine ha una soluzione strana
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rimostra una disuguaglianza per una sequenza definita ricorrentemente*
+*Dimostrare una disuguaglianza per una successione definita ricorsivamente*
 
-> Una sequenza di numeri reali $\{a_n\}$ soddisfa la condizione che $a_1 = \frac{1}{2}$, $a_{k+1} = -a_k + \frac{1}{2 - a_k}$, $k = 1, 2, \ldots$.
-> 
-> Provare la seguente disuguaglianza: $$\left(\frac{n}{2(a_1 + a_2 + \cdots + a_n)} - 1\right)^n \le \left(\frac{a_1 + a_2 + \cdots + a_n}{n}\right)^n \left(\frac{1}{a_1} - 1\right)\left(\frac{1}{a_2} - 1\right) \cdots \left(\frac{1}{a_n} - 1\right).$$
+> Una successione di numeri reali $\{a_n\}$ soddisfa la condizione che $a_1 = \frac{1}{2}$, $a_{k+1} = -a_k + \frac{1}{2 - a_k}$, $k = 1, 2, \ldots$.
+>
+> Dimostra la seguente disuguaglianza:
+> $$\left(\frac{n}{2(a_1 + a_2 + \cdots + a_n)} - 1\right)^n \le \left(\frac{a_1 + a_2 + \cdots + a_n}{n}\right)^n \left(\frac{1}{a_1} - 1\right)\left(\frac{1}{a_2} - 1\right) \cdots \left(\frac{1}{a_n} - 1\right).$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2006#q05|src_cn_cmo_2006__Q05]]
 
 
 
@@ -166,8 +203,13 @@ Prove che una delle due equazioni diofantine ha una soluzione strana
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum n così condizione di unione costringe tre sottoinsiemi con intersezione non vuota*
+*La condizione di unione con n minimo impone tre sottoinsiemi con intersezione non vuota*
 
-> $X$ deve essere un insieme di 56 elementi. Trovare il numero intero $n$ meno positivo in modo tale che per ogni 15 sottoinsieme di $X$, se l'unione di ogni 7 di questi 15 sottoinsiemi contiene almeno $n$ elementi, allora esistono 3 dei 15 sottoinsiemi la cui intersezione non è vuota.
+> Sia $X$ un insieme di 56 elementi. Determinare il minimo intero positivo $n$ tale che, per qualsiasi insieme di 15 sottoinsiemi di $X$, se l'unione di ciascun gruppo di 7 di questi 15 sottoinsiemi contiene almeno $n$ elementi, allora esistono 3 dei 15 sottoinsiemi la cui intersezione è non vuota.
 
-**Risposta:** 41
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmo_2006#q06|src_cn_cmo_2006__Q06]]

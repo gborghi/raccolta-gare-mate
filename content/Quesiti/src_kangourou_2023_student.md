@@ -40,18 +40,22 @@ level: kangourou
 
 *Value of a numerical expression*
 
-> What is the value of                              ?
+> What is the value of ?
 > A) 1	
-> 	
+>
 > B)	
-> 	
+>
 > C) 	
-> 	
+>
 > D) 	
-> 	
+>
 > E) 49
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2023_student#q01|src_kangourou_2023_student__Q01]]
 
 
 
@@ -84,19 +88,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number of 6 with 5 dice totaling 19*
+*Maximum of 6 with 5 dice totaling 19*
 
-> Throwing five traditional dice, Giulia scores 19 points. What is the maximum number of 6s she may have rolled? A) 0
->        	
-> B) 1
-> 	
-> C) 2
->      	
-> D) 3
-> 	
+> Rolling 5 standard dice, Giulia scores a total of 19 points. What is the maximum number of 6s she could have rolled?
+> A) 0	
+>
+> B) 1	
+>
+> C) 2	
+>
+> D) 3	
+>
 > E) 4
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2023_student#q02|src_kangourou_2023_student__Q02]]
 
 
 
@@ -130,19 +139,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer solutions of the equation with square roots*
+*Complete solutions of equations involving square roots*
 
-> How many whole solutions does the equation √x2 – 45 + √50 – x2 = x – 4 have? A) 0
-> 	
-> B) 1
-> 	
-> C) 2
-> 	
-> D) 3
-> 	
+> How many integer solutions does the equation √x² – 45 + √50 – x² = x – 4 have?
+> A) 0	
+>
+> B) 1	
+>
+> C) 2	
+>
+> D) 3	
+>
 > E) 4
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2023_student#q03|src_kangourou_2023_student__Q03]]
 
 
 
@@ -188,7 +203,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flag colours in 3 stripes with 4 colours, adjacent to each other*
+*Flag colorings with 3 stripes and 4 colors, with different adjacent colors*
 
 ![[src_kangourou_2023_student__prob4.png]]
 
@@ -203,11 +218,20 @@ level: kangourou
 \end{document}
 ```
 
-> Emma has markers in four different colors. She wants to paint the rectangular flag with three stripes in the figure so that each strip is all the same color and adjacent stripes are of different colors. In how many distinct ways can she do it? A) 24
-> 	
-> B) 27 C) 32 D) 36 E) 64
+> Emma has markers in 4 different colors. She wants to paint the rectangular three-stripe flag shown in the figure so that each stripe is entirely one color and adjacent stripes are different colors. In how many distinct ways can she do this?
+> A) 24	
+>
+> B) 27       	
+> C) 32       	
+> D) 36 	 	
+> E) 64
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2023_student#q04|src_kangourou_2023_student__Q04]]
 
 
 
@@ -236,17 +260,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many 2-prime integers (exactly divisors 1,2,n)*
+*How many 2-prime integers (exactly with divisors 1, 2, n)*
 
-> We say that a positive integer n is "2-prime" if it has exactly 3 distinct
-> divisors, precisely 1, 2 and n itself. How many 2-prime integers are there?
+> Let's say that a positive integer n is "2-prime" if it has exactly 3 distinct divisors, namely 1, 2, and n itself. How many 2-prime integers are there?
 > A) 0	
->             	 B) 1	
+>            	 B) 1	
 >             	 C) 2	
 >             	 D) 3	
 >            	 E) 4
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student#q05|src_kangourou_2023_student__Q05]]
 
 
 
@@ -277,13 +304,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of positive integers with x+2^y=2^10*
+*Pairs of positive integers such that x + 2^y = 2^10*
 
-> How many pairs of positive integers x and y satisfy the equation x + 2^y = 2^10 ? A) 2^9 – 1 B) 2^9
-> 	
-> C) 2^9 + 1 D)  2^9 + 2 E) 0
+> How many pairs of positive integers x and y satisfy the equation x + 2y = 210?
+> A) 29 – 1		
+> B) 29	
+>
+> C) 29 + 1	
+> D)  29 + 2	
+> E) 0
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student#q06|src_kangourou_2023_student__Q06]]
 
 
 
@@ -321,20 +357,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hexagon perimeter formed by two equilateral triangles overlapping*
+*Perimeter of a hexagon formed by two superimposed equilateral triangles*
 
 ![[src_kangourou_2023_student__prob7.png]]
 
-> Two equilateral triangles are partially superimposed to form a hexagon with opposite sides two to two parallels. The length of the four sides is known and shown in the figure. What is the perimeter of the hexagon? A) 64
->     	
-> B) 66
->     	
-> C) 68
-> 	
-> D)  70 E) 72
+> Two equilateral triangles are partially superimposed so as to form a hexagon whose opposite sides are parallel in pairs. The lengths of four sides are known and are indicated in the figure. What is the perimeter of the hexagon?
+> A) 64	
+>
+> B) 66	
+>
+> C) 68	
+>
+> D)  70	     	
+> E) 72
 >
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_student#q07|src_kangourou_2023_student__Q07]]
 
 
 
@@ -392,7 +435,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A black-painted area in infinite subdivision of a square*
+*Area painted black in an infinite subdivision of a square*
 
 ![[src_kangourou_2023_student__prob8.png]]
 
@@ -416,13 +459,21 @@ level: kangourou
 \end{document}
 ```
 
-> A square of area 84 is divided into 4 squares and the square in the upper left corner is painted black. The square in the lower right corner is in turn divided into 4 squares, of which the one in the upper left corner is painted black. The process is repeated infinitely many times. In total, what area will the square part that will be painted black have? A) 24 B) 28
->  	
-> C) 31
-> 	
-> D)  35 E) 42
+> A square with an area of 84 is divided into 4 squares, and the square in the top-left corner is painted black. The square in the bottom-right corner is in turn divided into 4 squares, one of which—the one in the top-left corner—is painted black. The process is repeated infinitely many times. In total, what area will the portion of the square that ends up painted black have?
+> A) 24 	         	
+> B) 28	
+>
+> C) 31	
+>
+> D)  35	 	
+> E) 42
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_student#q08|src_kangourou_2023_student__Q08]]
 
 
 
@@ -452,14 +503,18 @@ level: kangourou
 
 *find n*
 
-> The number         can be written as nn for a suitable integer n. What is the value of n?
+> The number can be written as nn for a suitable integer n. What is the value of n?
 > A) 530       	
 > B) 56              	
 > C) 55               	
 > D) 30          	
 > E) 11
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student#q09|src_kangourou_2023_student__Q09]]
 
 
 
@@ -493,21 +548,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Units digit of the product (5^5+1)(5^10+1)(5^15+1)*
+*Number of units of the product (5^5+1)(5^10+1)(5^15+1)*
 
-> What is the units digit in the product 
->  (55 + 1)(510 + 1)(515 + 1)?
+> What is the units digit of the product (55 + 1)(510 + 1)(515 + 1)?
 > A) 1	
->          	
+>
 > B)  2	
->   	
+>
 > C) 4      		
 > D)  5	
->     	
+>
 > E)  6
-> Questions from No. 11 to No. 20 are worth 4 points each
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student#q10|src_kangourou_2023_student__Q10]]
 
 
 
@@ -543,21 +602,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of lengths of the two missing edges of a pyramid*
+*Sum of the lengths of the two missing edges of a pyramid*
 
 ![[src_kangourou_2023_student__prob11.png]]
 
-> A triangular pyramid has all the edges of integer length. Four of these lengths are shown in the diagram. What is the sum of the lengths of the other two edges? A) 9
-> 	
-> B) 10
-> 	
-> C) 11
-> 	
-> D) 12
-> 	
+> A triangular pyramid has all its edges of integer length. Four of these lengths are indicated in the diagram. What is the sum of the lengths of the other two edges?
+> A) 9	
+>
+> B) 10	
+>
+> C) 11	
+>
+> D) 12	
+>
 > E) 13
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_student#q11|src_kangourou_2023_student__Q11]]
 
 
 
@@ -590,19 +654,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of N digits with N!=6!×7!*
+*Sum of numbers from N with N! = 6! * 7!*
 
-> For a positive integer n, the factorial of n, denoted by n!, is defined as the product of all integers from 1 to n. What is the sum of the digits of N if N!=6! × 7! ? A) 1
-> 	
-> B) 2
-> 	
-> C) 4
-> 	
-> D) 8
-> 	
+> For a positive integer n, n factorial, denoted by n!, is defined as the product of all integers from 1 to n. What is the sum of the digits of N if N! = 6! × 7!?
+> A) 1	
+>
+> B) 2	
+>
+> C) 4	
+>
+> D) 8	
+>
 > E) 9
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student#q12|src_kangourou_2023_student__Q12]]
 
 
 
@@ -638,17 +707,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Common point to all graphs of a family of cubics*
+*Common point of all graphs in the cubic family*
 
-> Whatever the choice of the value assigned to the real parameter a, the graphs of the functions ya = x3 + 3x2 + ax + 2a + 4 all pass through the same point of the Cartesian plane. What is the sum of the coordinates of that point? A) 2
-> 	
-> B) 4
-> 	
-> C) 7
-> 	
-> D) 8 E) None of the above.
+> Regardless of the value chosen for the real parameter a, the graphs of the functions y_a = x³ + 3x² + ax + 2a + 4 all pass through the same point in the Cartesian plane. What is the sum of the coordinates of that point?
+> A) 2	
+>
+> B) 4	
+>
+> C) 7	
+>
+> D) 8
+> E) None of the preceding values.
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_student#q13|src_kangourou_2023_student__Q13]]
 
 
 
@@ -691,18 +767,26 @@ level: kangourou
 
 *Value of S with a_k=k+S and sum S*
 
-> The value of the sum of the five numbers assigned, a1, a2, a3, a4, a5, is S. For every k, 1 ≤ k ≤ 5, we have ak= k + S. How much is S worth? A)
-> 	
-> B) –
-> 	
-> (C)  15 D) 15 E) None of the above. 2 4 3 7 15
->  
+> The sum of the five given numbers a1, a2, a3, a4, a5 is S. For each k, 1 ≤ k ≤ 5, we have ak = k + S. What is the value of S?
+> A)	
+>
+> B) –	
+>
+> C) – 15 		
+> D) 15 
+> E) None of the preceding values.
+> 2 4 3 7 15
+>
 > 15
->  
-> (    )
+>
+> ( )
 >
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2023_student#q14|src_kangourou_2023_student__Q14]]
 
 
 
@@ -735,20 +819,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairs of integers with |2m-2023|+|2n-m|<=1*
+*Pairs of integers such that |2m-2023|+|2n-m|<=1*
 
-> How many pairs of integers m and n satisfy the inequality
+> How many pairs of integers m and n satisfy the inequality?
 > |2m – 2023| + |2n – m| ≤ 1?
 > A) 0	
-> 	
+>
 > B) 1	
-> 	
+>
 > C) 2	
-> 	
+>
 > D) 3            	
 > E) 4
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student#q15|src_kangourou_2023_student__Q15]]
 
 
 
@@ -782,17 +871,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of koalas with each animal near a kangaroo
+*Maximum number of koalas with each animal near a kangaroo*
 
-> 23 animals, all kangaroos or koalas, are lined up in a row. Each of them has at least one neighbor who is a kangaroo. What is the maximum number of koalas compatible with this provision? A) 7
-> 	
-> B) 8
-> 	
-> C) 10 D) 11
-> 	
+> 23 animals, all of which are either kangaroos or koalas, are lined up in a row. Each of them has at least one neighbor that is a kangaroo. What is the maximum number of koalas compatible with this arrangement?
+> A) 7	
+>
+> B) 8	
+>
+> C) 10 	 	
+> D) 11 	
+>
 > E) 12
 
-**Answer:** D
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2023_student#q16|src_kangourou_2023_student__Q16]]
 
 
 
@@ -824,17 +920,23 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Little n with an interval containing at least 4 integers*
+*Smaller n with an interval containing at least 4 integers*
 
-> What is the smallest nonnegative integer n such that the interval with endpoints (n + 8)/2 and (2n + 14)/3, endpoints included, contains at least four integers? A) 19
-> 	
-> B) 18
-> 	
-> C) 17
-> 	
-> D) 16 E) None of the above.
+> What is the smallest non-negative integer n such that the interval with endpoints (n + 8)/2 and (2n + 14)/3, inclusive, contains at least four integers?
+> A) 19	
+>
+> B) 18	
+>
+> C) 17	
+>
+> D) 16 
+> E) None of the above.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student#q17|src_kangourou_2023_student__Q17]]
 
 
 
@@ -871,19 +973,25 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*From how many numbers do you start to get 10 by adding the decimal part*
+*How many numbers do you start with to get 10 by adding the decimal parts?*
 
-> When a positive number appears on a computer screen (in decimal notation), pressing an appropriate button adds its decimal part to that number: for example, the number 1,3 is transformed into 1,6. How many different numbers can you start from if you want the result to be exactly 10 by pressing the button no more than four times? A) 3
-> 	
-> B) 7
-> 	
-> C) 8
-> 	
-> D) 12
-> 	
+> When a positive number (in decimal notation) appears on a computer screen, pressing an appropriate key adds its decimal part to that number: for example, the number 1.3 is turned into 1.6. How many different numbers can one start with if one wants the result to be exactly 10 after pressing the key no more than four times in succession?
+> A) 3	
+>
+> B) 7	
+>
+> C) 8	
+>
+> D) 12	
+>
 > E) 16
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student#q18|src_kangourou_2023_student__Q18]]
 
 
 
@@ -940,7 +1048,7 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance of E from side BC in rectangular trapezoid*
+*Distance from E to side BC in a right trapezoid*
 
 ![[src_kangourou_2023_student__prob19.png]]
 
@@ -967,11 +1075,20 @@ Maximum number of koalas with each animal near a kangaroo
 \end{document}
 ```
 
-> The figure shows an ABCD rectangular trapezoid whose base AB measures 120 and whose base CD measures 30. Let E be the point where the diagonals intersect. What is the distance of E from side BC ? A) 22
-> 	
-> B) 23 C) 24 D) 25 E) The measurement depends on the distance between the bases
+> The figure shows a right trapezoid ABCD, in which base AB measures 120 and base CD measures 30. Let E be the point where the diagonals intersect. What is the distance from E to side BC?
+> A) 22	
+>
+> B) 23    		
+> C) 24    		
+> D) 25    		
+> E) The measure depends on the distance between the bases
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_student#q19|src_kangourou_2023_student__Q19]]
 
 
 
@@ -1004,20 +1121,24 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Divisors of 2^20×3^23 that do not divide 2^10×3^20*
+*Divisors of 2^20*3^23 that do not divide 2^10*3^20*
 
-> How many different positive integers are divisors of 220 323, but are not divisors 
-> of 210 320 ?
+> How many different positive integers are divisors of 220,323 but are not divisors of 210,320?
 > A) 13	
-> 	
+>
 > B) 30	
-> 	
+>
 > C) 273	 	
 > D) 400 
-> E) None of the previous values.
-> Questions from No. 21 to No. 30 are worth 5 points each
+> E) None of the preceding values.
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student#q20|src_kangourou_2023_student__Q20]]
 
 
 
@@ -1070,40 +1191,25 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Expression of the function f from a system of functional equations*
+*Expression of the function f from a functional system*
 
-> Two real functions of a real variable, f and g, satisfy, for every real x, both
-> equalities
-> f(x) + 2 g(1 – x) = x2    and    f(1 – x) – g(x) = x2.
-> What is the expression of the function f ?
+> Two real-valued functions of a real variable, f and g, satisfy, for every real x, both equalities f(x) + 2 g(1 – x) = x² and f(1 – x) – g(x) = x². What is the expression for the function f?
 > A) f(x) = x2 –      x + 	
-> 	
+>
 > B)  f(x) = x2 +     x +     
 > C) f(x) = – x2 –      x +  	
-> 	
+>
 > D)  f(x) = x2 – 4x + 5 
-> E) None, such a pair of functions f and g does not exist.
-> A
-> B
-> C
-> D
-> E
-> d
->  4  
->  3
->  4  
->  3
->  4  
->  3
->  2  
->  3
->  2  
->  3
->  2  
->  3
+> E) None; such a pair of functions f and g does not exist.
+> A B C D E d 4 3 4 3 4 3 2 3 2 3 2 3
 >
 
-**Answer:** A
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2023_student#q21|src_kangourou_2023_student__Q21]]
 
 
 
@@ -1138,11 +1244,23 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final placement maximum possible in the special 3 competition*
+*Worst possible final placement in a three-discipline event*
 
-> Thirteen climbers participate in a sport climbing competition involving three different specialties. The final score of each athlete is the product of the placements obtained in each specialty. For example, an athlete who finishes fourth, third and sixth in each of the three specialties will get a score of 72. Of course, the higher the score, the worse the final placement. Anna has already won the first two specialties. Once the last test is completed, what is the worst final placement you can have? A) Second B) Third C) Fourth D) Fifth E) Sixth
+> 13 climbers are taking part in a sport climbing competition that features three different disciplines. Each athlete's final score is the product of their placements in each discipline; no ties are allowed. For example, an athlete who finished fourth, third, and sixth in the three disciplines, respectively, will have a score of
+> 72. Naturally, the higher the score, the worse the final placement. Anna has
+> Already won in the first two special stages. Once the final stage is completed, what is the worst final placing he could end up with?
+> A) Second
+> B) Third
+> C) Thursday
+> D) Fifth
+> E) Sixth
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2023_student#q22|src_kangourou_2023_student__Q22]]
 
 
 
@@ -1180,20 +1298,27 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Configuration of 625,626,627 in a numbered spiral*
+*Configuration of 625, 626, 627 in a numerical spiral*
 
 ![[src_kangourou_2023_student__prob23.png]]
 
-> The integers starting from 1 are arranged in a spiral sequence, as shown in the figure. In which of the following configurations are numbers 625, 626 and 627? A)
-> 	
-> 	
-> B) C) D)
-> 	
-> 	
-> 	
+> Whole numbers starting from 1 are arranged consecutively to form a spiral, as shown in the figure. In which of the following configurations will the numbers 625, 626, and 627 be found?
+> A) 
+>
+>
+> B) 
+> C) 
+> D) 	
+>
+>
+>
 > E)
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2023_student#q23|src_kangourou_2023_student__Q23]]
 
 
 
@@ -1285,28 +1410,34 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which triangle the tetrahedron rests on the coloured face*
+*On which triangle does the tetrahedron rest with its colored face?*
 
 ![[src_kangourou_2023_student__prob24.png]]
 
-> A regular tetrahedron has one colored face and three white faces. The flat figure on the right is a union of triangles congruent to the faces of the tetrahedron. The tetrahedron is placed on the figure so that its colored face overlaps the triangle with the START inscription; it is then rotated along one of its edges so that a face overlaps the adjacent triangle. By iterating the rotations (without ever turning back), on which triangle will the tetrahedron put its colored face again for the first time? A) A
-> 	
-> B) B
-> 	
-> C) C
-> 	
-> D) D
-> 	
+> A regular tetrahedron has one colored face and three white faces. The planar figure on the right is a union of triangles congruent to the faces of the tetrahedron. The tetrahedron is placed on the figure so that its colored face overlaps the triangle bearing the word START; then it is rotated about one of its edges so that one face overlaps the adjacent triangle. By repeating the rotations (never going back), on which triangle will the tetrahedron first place its colored face again?
+> A) A	
+>
+> B) B	
+>
+> C) C	
+>
+> D) D	
+>
 > E) E
->       
-> 10 11 12 13 24            9 2 3 14 23 8 1 4            15 22 7 6 5            16 21 20 19 18 17 ... 627 626 625
->   
-> 626 627 625 625         626 627 625 626
->  
+>
+> 10 11 12 13 24 9 2 3 14 23 8 1 4 15 22 7 6 5 16 21 20 19 18 17 ... 627 626 625
+>
+> 626 627 625 625 626 627 625 626
+>
 > 627 625 626 627 A B C D E START
 >
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_student#q24|src_kangourou_2023_student__Q24]]
 
 
 
@@ -1341,13 +1472,23 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum power of (x-1) dividing a polynomial of 5 degrees*
+*Maximum exponent of (x-1) that divides a degree-5 polynomial*
 
 ![[src_kangourou_2023_student__prob25.png]]
 
-> A stain of ink covered part of the formula assigning a fifth degree polynomial, as shown below. It is well known that the polynomial has 5 roots and that they are all integers, not necessarily distinct. What is the highest power of x  1 dividing the polynomial? A) (x – 1)1 B) (x – 1)2 C) (x – 1)3 D) (x – 1)4 E) (x – 1)5
+> An ink stain has obscured part of the formula that defines a fifth-degree polynomial, as shown in the figure. It is known that the polynomial has 5 roots, all of which are integers—not necessarily distinct. What is the highest power of x – 1 that divides the polynomial?
+> A) (x – 1)1 	
+> B) (x – 1)2	
+> C) (x – 1)3	
+> D) (x – 1)4  	
+> E) (x – 1)5
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2023_student#q25|src_kangourou_2023_student__Q25]]
 
 
 
@@ -1386,21 +1527,27 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the side of the square by segments on the axes*
+*Side length of the square formed by segments on the axes*
 
 ![[src_kangourou_2023_student__prob26.png]]
 
-> The perpendicular bisectors of the sides of a square divide it into four smaller squares. In the square, a circle tangent to the square is drawn at the midpoint of one side. The circle determines on the perpendicular bisectors of the sides the segments of the length indicated in the figure. What's the length of the side of the square? A) 18
-> 	
-> B) 20
-> 	
-> C) 24
-> 	
-> D) 28
-> 	
+> The axes along the sides of a square divide the square into four smaller squares. Inside the square, a circle is drawn that is tangent to the square at the midpoint of one side. On the axes along the sides, the circle determines line segments having the length shown in the figure. What is the length of a side of the square?
+> A) 18	
+>
+> B) 20	
+>
+> C) 24	
+>
+> D) 28	
+>
 > E) 30
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_student#q26|src_kangourou_2023_student__Q26]]
 
 
 
@@ -1431,18 +1578,21 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest integer that divides n^3(n+1)^3...(n+4)^3*
+*Greatest integer divisor of n^3(n+1)^3...(n+4)^3*
 
-> What is the largest integer that divides all numbers of the form 
-> n3 (n + 1)3(n + 2)3(n + 3)3(n + 4)3 , 
-> as the strictly positive integer n varies?
+> What is the greatest integer that divides all numbers of the form n³(n + 1)³(n + 2)³(n + 3)³(n + 4)³, as the strictly positive integer n varies?
 > A) 29 33 		
 > B) 23 33 53 	
 > C) 26 33 53	
 > D) 28 32 53	
 > E) 29 33 53
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student#q27|src_kangourou_2023_student__Q27]]
 
 
 
@@ -1487,17 +1637,23 @@ Maximum number of koalas with each animal near a kangaroo
 
 ![[src_kangourou_2023_student__prob28.png]]
 
-> In each of the hexagons in the figure, an integer between 1 and 11 must be placed so that all these integers are used and do not vary, as the black ball varies, the sum of the numbers in the triple of hexagons surrounding the ball itself. Three of the numbers have already been placed. What number should appear in the hexagon with the question mark? A) 1
-> 	
-> B) 3
-> 	
-> C) 5
-> 	
-> D) 7
-> 	
+> In each of the hexagons in the figure, an integer between 1 and 11 must be placed so that all these integers are used and, as the black dot moves, the sum of the numbers in the triple of hexagons surrounding the dot itself remains unchanged. Three of the numbers have already been placed. Which number must appear in the hexagon with the question mark?
+> A) 1	
+>
+> B) 3	
+>
+> C) 5	
+>
+> D) 7	
+>
 > E) 9
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2023_student#q28|src_kangourou_2023_student__Q28]]
 
 
 
@@ -1543,14 +1699,24 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cub metres of water in vertical and oblique cylinders*
+*Cubic metres of water in vertical and inclined cylinders*
 
 ![[src_kangourou_2023_student__prob29.png]]
 
-> Two identical cylinder tanks contain the same amount of water. One cylinder is in a vertical position while the other is oblique, resting on the first in such a position that the water level is the same in both, the lowest allowing the bottom of the tank to be covered, as shown in the figure. The base of each cylinder is a circle of area 3 p m2. How many cubic meters of water does each tank contain? A) 3√3p B) 6 p C) 9 p D) p E) The information is not sufficient to answer. x5 −11x4 + 34x3 −46x2 + 29x −7 8 6 6 ? 4 11 3 4
+> Two identical cylindrical tanks contain the same amount of water. One cylinder is in a vertical position, while the other is inclined and rests against the first in such a way that the water level is the same in both—the lowest level that still allows the base of the tank to be covered—as shown in the figure. The base of each cylinder is a circle with an area of 3π m². How many cubic metres of water does each tank contain?
+> A) 3√3p		
+> B) 6 p 	 	
+> C) 9 p	 	
+> D)       p         
+> E) The information is insufficient to respond.
+> x5 −11x4 + 34x3 −46x2 + 29x −7 8 6 6 ? 4 11 3 4
 >
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2023_student#q29|src_kangourou_2023_student__Q29]]
 
 
 
@@ -1593,18 +1759,24 @@ Maximum number of koalas with each animal near a kangaroo
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number d in the product of six consecutive integers of 12 digits*
+*The digit d in the product of six consecutive 12-digit integers*
 
-> The product of six consecutive integers is a 12-digit number of the form abb cdd cdd abb, where the digits a, b, c and d are, in appropriate order, consecutive digits. What is the value of the number d ? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
+> The product of six consecutive integers is a 12-digit number of the form abb cdd cdd abb, where the digits a, b, c, and d are, in turn, in an appropriate order, consecutive digits. What is the value of the digit d?
+> A) 1	
+>
+> B) 2	
+>
+> C) 3	
+>
+> D) 4	
+>
 > E) 5
-> 
+>
 > C C B D B A D
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2023_student#q30|src_kangourou_2023_student__Q30]]

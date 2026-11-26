@@ -36,17 +36,22 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca un intero positivo n da due condizioni di condivisione del denaro*
+*Trovare il numero intero positivo n a partire da due condizioni di divisione del denaro*
 
-> Ciascuno di loro ha un gran numero di chili.
-> 
-> Le dice: "Se mi dai 3 sterline, avrò $n$ volte quanto te".
-> 
-> Lei gli dice: "Se mi dai £$n$, avrò 3 volte più di te".
-> 
-> Dato che tutte queste affermazioni sono vere e che $n$ è un intero positivo, quali sono i valori possibili per $n$?
+> Sia Paul che Jenny possiedono un numero intero di sterline.
+>
+> Lui le dice: "Se mi dai 3 sterline, avrò $n$ volte quanto hai tu."
+>
+> Lei gli dice: "Se mi dai $n$ sterline, avrò 3 volte quanto hai tu."
+>
+> Dato che tutte queste affermazioni sono vere e che $n$ è un intero positivo, quali sono i possibili valori di $n$?
 
-**Risposta:** n = 2
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2004-05_round1#q01|src_bmo_2004-05_round1__Q01]]
 
 
 
@@ -69,9 +74,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che la BP divide l'angolo EBC utilizzando piedi e semicircoli perpendicolari*
+*Dimostrare che BP biseca l'angolo EBC utilizzando i piedi delle perpendicolari e il semicerchio*
 
-> Il $ABC$ sia un triangolo acuto angolato e $D$, $E$ siano i piedi delle perpendicolari da $A$, $B$ a $BC$, $CA$ rispettivamente. $P$ è il punto in cui la linea $AD$ incontra il semicircolo costruito verso l'esterno su $BC$. Provare che $BP$ taglia l'angolo $EBC$.
+> Sia $ABC$ un triangolo acutangolo, e siano $D$, $E$ i piedi delle perpendicolari condotte da $A$, $B$ rispettivamente a $BC$, $CA$. Sia $P$ il punto in cui la retta $AD$ incontra il semicerchio costruito all'esterno su $BC$. Dimostrare che $BP$ biseca l'angolo $EBC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2004-05_round1#q02|src_bmo_2004-05_round1__Q02]]
 
 
 
@@ -97,13 +109,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Almeno n in modo che qualsiasi 2-colore di {1,...,n} abbia monocromatica x+y+z=w*
+*Il minimo n tale che ogni colorazione a 2 colori di {1,...,n} abbia una soluzione monocolore di x+y+z=w*
 
-> Determinare il numero intero meno positivo $n$ in modo tale che il seguente sia:
-> 
-> Indipendentemente da come gli elementi di $\{1, 2, \ldots, n\}$ siano colorati in rosso o in blu, ci sono enti $x$, $y$, $z$, $w$ in $\{1, 2, \ldots, n\}$ (non necessariamente distinti) dello stesso colore, come $x + y + z = w$.
+> Determinare il più piccolo intero positivo $n$ tale che valga quanto segue:
+>
+> Indipendentemente da come vengono colorati di rosso o di blu gli elementi di $\{1, 2, \ldots, n\}$, esistono interi $x$, $y$, $z$, $w$ in $\{1, 2, \ldots, n\}$ (non necessariamente distinti) della stessa colorazione tali che $x + y + z = w$.
 
-**Risposta:** 11
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2004-05_round1#q03|src_bmo_2004-05_round1__Q03]]
 
 
 
@@ -127,11 +144,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il minimo termine possibile più grande nella progressione aritmetica di quattro numeri primi distinti*
+*Termine massimo minimo possibile in una progressione aritmetica di quattro numeri primi distinti*
 
-> Determinare il minimo valore possibile del termine più grande in una progressione aritmetica di quattro numeri primi distinti.
+> Determinare il valore minimo possibile del termine più grande in una progressione aritmetica di quattro numeri primi distinti.
 
-**Risposta:** 23
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2004-05_round1#q04|src_bmo_2004-05_round1__Q04]]
 
 
 
@@ -160,12 +182,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La prova S contiene tutti i razionali in (0,1) con proprietà di chiusura*
+*S di Prove contiene tutti i numeri razionali in (0,1), data la chiusura delle proprietà*
 
-> $S$ sia un insieme di numeri razionali con le seguenti proprietà:
-> 
+> Sia $S$ un insieme di numeri razionali con le seguenti proprietà:
+>
 > i) $\frac{1}{2} \in S$;
-> 
-> ii) Se $x \in S$, allora sia $\frac{1}{x+1} \in S$ che $\frac{x}{x+1} \in S$.
-> 
-> Provare che $S$ contiene tutti i numeri razionali nell'intervallo $0 < c < 1$.
+>
+> ii) Se $x \in S$, allora sia $\frac{1}{x+1} \in S$ sia $\frac{x}{x+1} \in S$.
+>
+> Dimostrare che $S$ contiene tutti i numeri razionali nell'intervallo $0 < c < 1$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2004-05_round1#q05|src_bmo_2004-05_round1__Q05]]

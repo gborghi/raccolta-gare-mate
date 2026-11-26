@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca i valori di una scheda scritta sulla lavagna per la seconda volta*
+*Trovare i valori di a scritti sulla lavagna per la seconda volta*
 
-> Alice e Bob lo fanno a turno per scrivere numeri su una lavagna. Alice inizia scrivendo un numero intero $a$ tra $-100$ e $100$ inclusivo sulla lavagna. A ogni turno di Bob scrive il doppio del numero che Alice ha scritto l'ultima volta. Su ogni turno successivo di Alice scrive il numero $45$ inferiore al numero che Bob ha scritto l'ultimo. A un certo punto, il numero $a$ viene scritto sulla lavagna per la seconda volta. Trova i valori possibili di $a$.
+> Alice e Bob si alternano nello scrivere numeri sulla lavagna. Alice inizia scrivendo sulla lavagna un numero intero $a$ compreso tra $-100$ e $100$. In ciascuno dei turni di Bob, egli scrive il doppio del numero che Alice ha scritto l'ultima volta. In ciascuno dei successivi turni di Alice, lei scrive il numero $45$, che è minore del numero che Bob ha scritto l'ultima volta. A un certo punto, il numero $a$ viene scritto sulla lavagna per la seconda volta. Determinare i valori possibili di $a$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2020-21_round1#q01|src_bmo_2020-21_round1__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo isosceles: perimetro numericamente uguale all'area al quadrato*
+*Triangolo isoscele: perimetro numericamente uguale all'area al quadrato*
 
-> Un triangolo ha lunghezze laterali $a$, $a$ e $b$. Il suo perimetro $P$ e superficie $A$. Dato che $b$ e $P$ sono numeri interi e che $P$ è numericamente uguale a $A^2$, trovare tutte le possibili coppie $(a, b)$.
+> Un triangolo ha lati di lunghezza $a$, $a$ e $b$. Ha perimetro $P$ e area $A$. Dato che $b$ e $P$ sono interi, e che $P$ è numericamente uguale a $A^2$, trova tutte le coppie possibili $(a, b)$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2020-21_round1#q02|src_bmo_2020-21_round1__Q02]]
 
 
 
@@ -83,9 +97,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio di sequenze di forme da carta pieghevole n volte*
+*Conta le sequenze di forme derivanti dalla piegatura della carta n volte*
 
-> Un pezzo di carta quadrato è piegato a metà lungo una linea di simmetria. La forma risultante viene poi piegata a metà lungo una linea di simmetria della nuova forma. Questo processo viene ripetuto fino a quando non sono state fatte pieghe $n$, dando una sequenza di forme $n+1$. Se non si fa distinzione tra forme congruenti, si trova il numero di sequenze possibili quando: a) $n = 3$; b) $n = 6$; c) $n = 9$. (Quando $n = 1$ ci sono due possibili sequenze.)
+> Un foglio di carta quadrato viene piegato a metà lungo una retta di simmetria. La figura risultante viene poi piegata a metà lungo una retta di simmetria della nuova figura. Questo processo viene ripetuto finché non sono state effettuate $n$ pieghe, ottenendo una sequenza di $n+1$ figure. Se non distinguiamo le figure congruenti, determina il numero di sequenze possibili quando:
+> (a) $n = 3$;
+> (b) $n = 6$;
+> (c) $n = 9$.
+> (Quando $n = 1$, ci sono due sequenze possibili.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2020-21_round1#q03|src_bmo_2020-21_round1__Q03]]
 
 
 
@@ -110,9 +135,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Crittografia aritmetica: trovare i numeri A, B, D, E nell'equazione base-10*
+*Crittoaritmetica: trova le cifre A, B, D, E nell'equazione in base 10*
 
-> Nell'equazione $$A^{AA} + AA = \text{B,BBC,DED,BEE,BBB,BBE}$$ le lettere A, B, C, D ed E rappresentano differenti cifre base-10 (il lato destro è quindi un numero di sedici cifre e $AA$ è un numero di due cifre). Dato che $C = 9$, trovare A, B, D ed E.
+> Nell'equazione
+> $$A^{AA} + AA = \text{B,BBC,DED,BEE,BBB,BBE}$$
+> le lettere A, B, C, D ed E rappresentano cifre decimali distinte (quindi il membro destro è un numero di sedici cifre e $AA$ è un numero di due cifre). Dato che $C = 9$, determina A, B, D ed E.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_bmo_2020-21_round1#q04|src_bmo_2020-21_round1__Q04]]
 
 
 
@@ -135,9 +169,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo tangente a AC e AB, prova che AD=DP implica BP=AC*
+*Cerchio tangente ad AC e AB: dimostrare che AD=DP implica BP=AC*
 
-> I punti $A$, $B$ e $C$ si trovano su un cerchio $\Gamma$. Il circolo $A$ è tangente a $AC$ a $A$. Si riunisce a $\Gamma$ a $D$ e alla riga $AB$ a $P$. Il punto $P$ si trova tra $B$ e $D$. Prova che se $AD = DP$, allora $BP = AC$.
+> Siano i punti $A$, $B$ e $C$ coniugati su una circonferenza $\Gamma$. La circonferenza $A$ è tangente a $AC$ in $A$. Incontra nuovamente $\Gamma$ in $D$ e la retta $AB$ nuovamente in $P$. Il punto $P$ giace tra $B$ e $D$. Dimostrare che, se $AD = DP$, allora $BP = AC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2020-21_round1#q05|src_bmo_2020-21_round1__Q05]]
 
 
 
@@ -162,11 +203,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integra come somma di due potenze differenti di 2 e due quadrati diversi*
+*Intero come somma di due potenze distinte di 2 e di due quadrati distinti*
 
-> Dato che un intero $n$ è la somma di due potenze differenti di $2$ e anche la somma di due diversi primi di Mersenne, dimostrare che $n$ è la somma di due diversi numeri quadrati.
-> 
-> (Un primo di Mersenne è un numero primo che è uno meno di una potenza di due.)
+> Dato che un numero intero $n$ è la somma di due potenze distinte di $2$ e anche la somma di due numeri primi di Mersenne distinti, dimostrare che $n$ è la somma di due quadrati distinti.
+>
+> (Un numero primo di Mersenne è un numero primo che è minore di una potenza di due di un'unità.)
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2020-21_round1#q06|src_bmo_2020-21_round1__Q06]]
 
 
 
@@ -193,8 +241,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-Gioco di pizzico sulla linea dei numeri: scopri quando Evie garantisce la vittoria
+*Gioco dei ciottoli sulla retta numerica: trova quando Evie garantisce la vittoria*
 
-> Evie e Odette stanno giocando. Tre pietre sono posizionate sulla linea numerica; una a $-2020$, una a $2020$ e una a $n$, dove $n$ è un numero intero tra $-2020$ e $2020$. Lo prendono a turno spostando la pietra più sinistra o la pietra più destra a un numero intero tra le altre due pietre. La partita finisce quando le pietre occupano tre numeri interi consecutivi.
-> 
-> Odette vince se la loro somma è strana; Evie vince se la loro somma è pari. Per quanti valori di $n$ può Evie garantire la vittoria se: (a) Odette viene prima; (b) Evie viene prima?
+> Evie e Odette stanno giocando a un gioco. Tre sassolini vengono posizionati sulla retta numerica: uno in $-2020$, uno in $2020$ e uno in $n$, dove $n$ è un numero intero compreso tra $-2020$ e $2020$. A turno, spostano oppure il sassolino più a sinistra oppure quello più a destra verso un numero intero compreso tra gli altri due sassolini. Il gioco termina quando i sassolini occupano tre numeri interi consecutivi.
+>
+> Odette vince se la loro somma è dispari; Evie vince se la loro somma è pari. Per quanti valori di $n$ Evie può garantirsi la vittoria se:
+> (a) Odette inizia per prima;
+> (b) Evie inizia per prima?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2020-21_round1#q07|src_bmo_2020-21_round1__Q07]]

@@ -30,11 +30,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il cerchio centrato nell'ortocentro taglia uguale i lati del triangolo medio punto*
+*Cerchio centrato sull'ortocentro incontra i lati del triangolo dei punti medi in modo equidistante*
 
-> $H$ è l'ortocentro del triangolo $ABC$. I punti intermedi di $BC$, $CA$, $AB$ sono $A'$, $B'$, $C'$. Un cerchio con centro $H$ taglia i lati del triangolo $A'B'C'$ (prodotto se necessario) in sei punti: $Q_1$, $Q_2$ su $B'C'$, $R_1$, $R_2$ su $C'A'$, $S_1$, $S_2$ su $A'B'$.
-> 
-> Prove che $A'Q_1 = A'Q_2 = B'R_1 = B'R_2 = C'S_1 = C'S_2$.
+> $H$ è l'ortocentro del triangolo $ABC$. I punti medi di $BC$, $CA$, $AB$ sono $A'$, $B'$, $C'$. Un cerchio di centro $H$ incontra i lati del triangolo $A'B'C'$ (prolungati se necessario) in sei punti, $Q_1$, $Q_2$ su $B'C'$, $R_1$, $R_2$ su $C'A'$, $S_1$, $S_2$ su $A'B'$.
+>
+> Dimostrare che $A'Q_1 = A'Q_2 = B'R_1 = B'R_2 = C'S_1 = C'S_2$.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_bmo_1980-81_round1#q01|src_bmo_1980-81_round1__Q01]]
 
 
 
@@ -61,11 +66,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa alternativa di prodotti di numeri interi consecutivi divisibili per m!*
+*Somma alternata di prodotti di interi consecutivi divisibile per m!*
 
-> $m$ e $n$ sono integri positivi. $S_n$ è la somma dei termini $m$ di $$[(n+1)(n+2)] - [(n+1)(n+2)(n+3)] + [(n+1)(n+2)(n+3)(n+4)] - \cdots$$ in cui i termini si alterano in segno e ciascuno, dopo il primo, è il prodotto di numeri interi consecutivi con il numero di numeri interi uno in più rispetto al precedente.
-> 
-> Provare che $S_n$ è divisibile da $m!$, ma non necessariamente da $(m+1)!$.
+> $m$ e $n$ sono interi positivi. $S_n$ è la somma di $m$ termini di
+> $$[(n+1)(n+2)] - [(n+1)(n+2)(n+3)] + [(n+1)(n+2)(n+3)(n+4)] - \cdots$$
+> dove i termini alternano di segno e ciascuno, dopo il primo, è il prodotto di interi consecutivi con il numero di interi uno in più rispetto al precedente.
+>
+> Dimostrare che $S_n$ è divisibile per $m!$ ma non necessariamente per $(m+1)!$.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+[[Quesiti/src_bmo_1980-81_round1#q02|src_bmo_1980-81_round1__Q02]]
 
 
 
@@ -90,11 +103,17 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ribbito al numero di tetraedri tagliati in quadrilaterali da un piano*
+*Limite al numero di tetraedri tagliati in quadrilateri da un piano*
 
-> I punti $n$ sono dati in modo tale che nessuno di essi sia coplanare. Un aereo non attraversa nessuno dei punti $n$.
-> 
-> Prova che non può tagliare più di $\dfrac{n^2(n-2)^2}{64}$ del tetraede (con vertici tra i punti $n$) in quadrilaterali.
+> $n$ punti sono dati in modo che nessun quattro di essi sia coplanare. Un piano non passa per nessuno dei $n$ punti.
+>
+> Dimostrare che non può tagliare più di $\dfrac{n^2(n-2)^2}{64}$ dei tetraedri (con vertici tra i $n$ punti) in quadrilateri.
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_bmo_1980-81_round1#q03|src_bmo_1980-81_round1__Q03]]
 
 
 
@@ -117,9 +136,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il minimo valore positivo di m - <128^> n*
+*Trovare il valore positivo più piccolo di $|128^m - 9^n|$*
 
-> Trova, con prova, il minimo possibile valore positivo di $|128^m - 9^n|$, dove $m$ e $n$ sono interi positivi.
+> Dimostrare che il valore positivo più piccolo di $|128^m - 9^n|$, dove $m$ e $n$ sono interi positivi, è ...
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_bmo_1980-81_round1#q04|src_bmo_1980-81_round1__Q04]]
 
 
 
@@ -148,11 +173,21 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La somma di a_i^k / P_i su diversi interi non-zero è un intero*
+*Somma di a_i^k / P_i su interi non nulli distinti è un intero*
 
-> $a_1, a_2, a_3, \ldots, a_n$ sono diversi numeri interi non zero. $P_k$ è il prodotto dei fattori $(n-1)$ $$(a_1 - a_k),\ (a_2 - a_k),\ \ldots,\ (a_{k-1} - a_k),\ (a_{k+1} - a_k),\ \ldots,\ (a_n - a_k),$$ che escludono il fattore zero $(a_k - a_k)$.
-> 
-> Prova che se $k$ è un intero non negativo, $$\sum_{i=1}^{n} \frac{a_i^k}{P_i}$$ è un intero.
+> $a_1, a_2, a_3, \ldots, a_n$ sono interi non nulli distinti. $P_k$ è il prodotto dei $(n-1)$ fattori
+> $$(a_1 - a_k),\ (a_2 - a_k),\ \ldots,\ (a_{k-1} - a_k),\ (a_{k+1} - a_k),\ \ldots,\ (a_n - a_k),$$
+> escludendo il fattore nullo $(a_k - a_k)$.
+>
+> Dimostrare che se $k$ è un intero non negativo,
+> $$\sum_{i=1}^{n} \frac{a_i^k}{P_i}$$
+> è un intero.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+[[Quesiti/src_bmo_1980-81_round1#q05|src_bmo_1980-81_round1__Q05]]
 
 
 
@@ -179,8 +214,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identità di interpolazione di larghezza: la somma di 1/P_i è un intero*
+*Identità di interpolazione di Lagrange: la somma di 1/P_i è un intero*
 
-> $a_1, a_2, \ldots, a_n$ sono diversi enti non zero. $P_i$ è il prodotto dei fattori $(n-1)$ $(a_j - a_i)$ per tutti $j \neq i$.
-> 
-> Provare che $$\sum_{i=1}^{n} \frac{1}{P_i}$$ è un numero intero.
+> $a_1, a_2, \ldots, a_n$ sono interi non nulli distinti. $P_i$ è il prodotto dei $(n-1)$ fattori $(a_j - a_i)$ per tutti $j \neq i$.
+>
+> Dimostrare che
+> $$\sum_{i=1}^{n} \frac{1}{P_i}$$
+> è un intero.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+[[Quesiti/src_bmo_1980-81_round1#q06|src_bmo_1980-81_round1__Q06]]

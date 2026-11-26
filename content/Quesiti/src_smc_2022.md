@@ -36,9 +36,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Semplificare un'espressione prodotto delle differenze che coinvolge quinte potenze e denominatori di stile fattoriale.*
+*Semplifica un'espressione come prodotto di differenze che coinvolge potenze quinte e denominatori di tipo fattoriale.*
 
-> Quando l'espressione $\frac{(2^5-1)\times(3^5-1)\times(4^5-1)\times(5^5-1)\times(6^5-1)}{(2\times3)\times(3\times4)\times(4\times5)\times(5\times6)}$ è semplificata, quale delle seguenti è ottenuto?
+> Quando l'espressione $\frac{(2^5-1)\times(3^5-1)\times(4^5-1)\times(5^5-1)\times(6^5-1)}{(2\times3)\times(3\times4)\times(4\times5)\times(5\times6)}$ viene semplificata, quale dei seguenti risultati si ottiene?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -46,7 +46,12 @@ level: Senior Mathematical Challenge
 > - **(D)** 5
 > - **(E)** 6
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2022#q01|src_smc_2022__Q01]]
 
 
 
@@ -76,9 +81,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il primo più piccolo che è la somma di cinque diversi primi.*
+*Trovare il numero primo più piccolo che sia la somma di cinque numeri primi distinti.*
 
-> Qual è il primo più piccolo che è la somma di cinque numeri primi diversi?
+> Qual è il più piccolo numero primo che è la somma di cinque numeri primi distinti?
 >
 > - **(A)** 39
 > - **(B)** 41
@@ -86,7 +91,12 @@ level: Senior Mathematical Challenge
 > - **(D)** 47
 > - **(E)** 53
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2022#q02|src_smc_2022__Q02]]
 
 
 
@@ -118,9 +128,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare il numero di parallelo in una figura di esagono regolare divisa in triangoli.*
+*Conta il numero di parallelogrammi in una figura costituita da un esagono regolare suddiviso in triangoli.*
 
-> La figura mostra un esagono regolare. Quanti paralleloogrammi ci sono nella figura?
+> La figura mostra un esagono regolare. Quanti parallelogrammi ci sono nella figura?
 >
 > - **(A)** 2
 > - **(B)** 4
@@ -130,7 +140,12 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2022__q03.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2022#q03|src_smc_2022__Q03]]
 
 
 
@@ -162,9 +177,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due quadrati simmetricamente posizionati dei lati 2 e 5; trovare il rapporto tra l'area del piccolo quadrato e quella della regione ombrata.*
+*Due quadrati disposti simmetricamente, con lati di lunghezza 2 e 5; determinare il rapporto tra l'area del quadrato piccolo e l'area della regione ombreggiata.*
 
-> Il diagramma mostra due quadrati posizionati simmetricamente con lati di lunghezza 2 e 5. Qual è il rapporto tra l'area del piccolo quadrato e quella della regione ombrosa?
+> Il diagramma mostra due quadrati disposti simmetricamente, con lati di lunghezza 2 e 5. Qual è il rapporto tra l'area del quadrato piccolo e l'area della regione ombreggiata?
 >
 > - **(A)** $7:24$
 > - **(B)** $1:3$
@@ -174,7 +189,12 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2022__q04.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2022#q04|src_smc_2022__Q04]]
 
 
 
@@ -204,7 +224,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
+*Valuta la somma di cinque reciproci: 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 
 > Qual è il valore di $\frac{1}{1.01} + \frac{1}{1.1} + \frac{1}{1} + \frac{1}{11} + \frac{1}{101}$?
 >
@@ -214,7 +234,12 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** 3.01
 > - **(E)** 3.1
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2022#q05|src_smc_2022__Q05]]
 
 
 
@@ -244,7 +269,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare l'espressione 4^800 / 8^400.*
+*Valuta l'espressione 4^800 / 8^400.*
 
 > Qual è il valore di $\frac{4^{800}}{8^{400}}$?
 >
@@ -254,7 +279,12 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** $2^{200}$
 > - **(E)** $2^{400}$
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2022#q06|src_smc_2022__Q06]]
 
 
 
@@ -284,9 +314,9 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il numero minimo totale di francobolli quando acquisti francobolli di prima classe (85p) e di seconda classe (66p), uno di ciascun tipo alla volta, quindi il costo totale è un numero intero esatto di sterline.*
+*Trovare il numero totale minimo di francobolli da acquistare, scegliendo ogni volta un francobollo di prima classe (85 pence) e uno di seconda classe (66 pence), uno di ciascun tipo per volta, in modo che il costo totale sia un numero intero esatto di sterline.*
 
-> Nel 2021, un francobollo di prima classe costa 85p e un francobollo di seconda classe 66p. Per comprare un numero esatto di ogni tipo, quale è il numero totale di francobolli più piccolo da acquistare?
+> Nel 2021, un francobollo di prima classe costava 85 pence e un francobollo di seconda classe costava 66 pence. Per acquistare un numero esatto di francobolli di ciascun tipo, qual è il numero totale minimo di francobolli da acquistare?
 >
 > - **(A)** 10
 > - **(B)** 8
@@ -294,7 +324,12 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** 5
 > - **(E)** 2
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2022#q07|src_smc_2022__Q07]]
 
 
 
@@ -326,9 +361,9 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sessangolo esterno regolare della zona 216 con un modello interno; trovare la superficie della regione ombreggiata.*
+*Esagono esterno regolare di area 216 con un motivo interno; determina l'area della regione ombreggiata.*
 
-> Nel diagramma, l'esogono esterno è regolare e ha un'area di 216. Qual è l'area dell'area ombrosa?
+> Nel diagramma, l'esagono esterno è regolare e ha un'area di 216. Qual è l'area della regione ombreggiata?
 >
 > - **(A)** 108
 > - **(B)** 96
@@ -338,7 +373,12 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 
 ![[src_smc_2022__q08.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2022#q08|src_smc_2022__Q08]]
 
 
 
@@ -367,9 +407,9 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolare la distanza percorsa dalla luce in un nanosegondo a velocità 3×10^8 m/s.*
+*Calcola la distanza percorsa dalla luce in un nanosecondo, alla velocità di 3×10^8 m/s.*
 
-> Un nanosegonda luce è la distanza che un fotone può percorrere alla velocità della luce in un miliardo di secondo. La velocità della luce è $3 \times 10^8$ ms$^{-1}$. Quanto è lontano un nanosegondo di luce?
+> Un nanosecondo-luce è la distanza che un fotone può percorrere alla velocità della luce in un miliardesimo di secondo. La velocità della luce è $3 \times 10^8$ ms$^{-1}$. Quanto misura un nanosecondo-luce?
 >
 > - **(A)** 3 cm
 > - **(B)** 30 cm
@@ -377,7 +417,11 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** 30 m
 > - **(E)** 300 m
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2022#q09|src_smc_2022__Q09]]
 
 
 
@@ -407,7 +451,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare il valore di x soddisfacente (1+2x+3x^2)/(3+2x+x^2) = 3.*
+*Trovare il valore di x che soddisfa l'equazione (1+2x+3x^2)/(3+2x+x^2) = 3.*
 
 > Qual è il valore di $x$ nell'equazione $\frac{1+2x+3x^2}{3+2x+x^2} = 3$?
 >
@@ -417,7 +461,12 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** $-2$
 > - **(E)** $-1$
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2022#q10|src_smc_2022__Q10]]
 
 
 
@@ -449,9 +498,9 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un triangolo numerico in cui ogni disco è uguale al prodotto dei due dischi al di sotto e il disco superiore è 2022, trovi n.*
+*In un triangolo numerico in cui ogni disco è uguale al prodotto dei due dischi sottostanti e il disco in cima vale 2022, trova n.*
 
-> Nel triangolo numerico mostrato, ogni disco deve essere riempito di un intero positivo. Ogni disco nella riga superiore o media contiene il numero che è il prodotto dei due numeri immediatamente sotto. Qual è il valore di $n$?
+> Nel triangolo numerico mostrato, ogni disco deve essere riempito con un numero intero positivo. Ogni disco della riga superiore o di quella centrale contiene il numero che è il prodotto dei due numeri immediatamente sottostanti. Qual è il valore di $n$?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -461,7 +510,12 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 
 ![[src_smc_2022__q11.png]]
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2022#q11|src_smc_2022__Q11]]
 
 
 
@@ -491,9 +545,9 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la somma delle cifre del numero intero pari a 6666666^2 - 3333333^2.*
+*Trovare la somma delle cifre dell'intero uguale a 6666666^2 - 3333333^2.*
 
-> Qual è la somma delle cifre del numero intero che è uguale a $6\,666\,666^2 - 3\,333\,333^2$?
+> Qual è la somma delle cifre dell'intero che è uguale a $6\,666\,666^2 - 3\,333\,333^2$?
 >
 > - **(A)** 27
 > - **(B)** 36
@@ -501,7 +555,12 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** 54
 > - **(E)** 63
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2022#q12|src_smc_2022__Q12]]
 
 
 
@@ -531,9 +590,9 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre tappeti (area combinata 90 m^2) coprono un pavimento di 60 m^2; esattamente due strati coprono 12 m^2; trovate l'area coperta da esattamente tre strati.*
+*Tre tappeti (superficie complessiva 90 m²) coprono un pavimento di 60 m²; esattamente due strati coprono 12 m²; determina l'area coperta da esattamente tre strati.*
 
-> Tre tappeti hanno una superficie combinata di $90\text{ m}^2$. Quando sono disposti per coprire completamente un pavimento di superficie $60\text{ m}^2$, l'area coperta da esattamente due strati di tappeto è $12\text{ m}^2$. Qual è l'area del pavimento coperta da esattamente tre strati di tappeto?
+> Tre tappeti hanno un'area complessiva di $90\text{ m}^2$. Quando vengono stesi per coprire interamente un pavimento di area $60\text{ m}^2$, l'area coperta da esattamente due strati di tappeto è $12\text{ m}^2$. Qual è l'area del pavimento coperta da esattamente tre strati di tappeto?
 >
 > - **(A)** $2\text{ m}^2$
 > - **(B)** $6\text{ m}^2$
@@ -541,7 +600,12 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** $10\text{ m}^2$
 > - **(E)** $12\text{ m}^2$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2022#q13|src_smc_2022__Q13]]
 
 
 
@@ -573,9 +637,9 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il KLMN quadrato contiene quadrati nidificati PQRS e TUVW, ottenuti ciascuno dividendo il lato precedente in rapporto 1:2; trovare la frazione ombrata.*
+*Il quadrato KLMN contiene i quadrati annidati PQRS e TUVW, ognuno ottenuto dividendo il lato del quadrato precedente nel rapporto 1:2; determina la frazione ombreggiata.*
 
-> Il diagramma mostra un quadrato $KLMN$. All'interno viene disegnato un secondo quadrato $PQRS$, dove $P$ divide il lato $KL$ nel rapporto $1:2$. Allo stesso modo, un terzo quadrato $TUVW$ è disegnato all'interno di $PQRS$ con $T$ dividendo $PQ$ nel rapporto $1:2$. Quale frazione della superficie di $KLMN$ è ombrata?
+> Il diagramma mostra un quadrato $KLMN$. All'interno di esso è disegnato un secondo quadrato $PQRS$, dove $P$ divide il lato $KL$ nel rapporto $1:2$. Analogamente, all'interno di $PQRS$ è disegnato un terzo quadrato $TUVW$, con $T$ che divide $PQ$ nel rapporto $1:2$. Quale frazione dell'area di $KLMN$ è ombreggiata?
 >
 > - **(A)** $\frac{25}{81}$
 > - **(B)** $\frac{15}{81}$
@@ -585,7 +649,12 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 
 ![[src_smc_2022__q14.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2022#q14|src_smc_2022__Q14]]
 
 
 
@@ -615,9 +684,9 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Corrita di lepre e tartarughe 100 m; quando la lepre finisce la tartaruga è in ritardo di 75 m; la lepre torna indietro; a che distanza si incontrano?*
+*Lepre e tartaruga corrono per 100 m; quando la lepre arriva al traguardo, la tartaruga è 75 m indietro; la lepre torna indietro; a che distanza dal traguardo si incontrano?*
 
-> Il coniglio e la tartaruga avevano una corsa su $100\text{ m}$, in cui entrambi mantenevano velocità costanti. Quando la lepre ha raggiunto la linea di meta, è stata $75\text{ m}$ davanti alla tartaruga. Il coniglio si voltò immediatamente e corse di nuovo verso la linea di partenza. Quanto lontano dalla linea d'arrivo si incontrarono il coniglio e la tartaruga?
+> La lepre e la tartaruga gareggiarono su una distanza di $100\text{ m}$, mantenendo entrambe velocità costanti. Quando la lepre raggiunse il traguardo, era $75\text{ m}$ davanti alla tartaruga. La lepre si voltò subito e corse di nuovo verso la linea di partenza. A che distanza dal traguardo si incontrarono la lepre e la tartaruga?
 >
 > - **(A)** 54
 > - **(B)** 60
@@ -625,7 +694,12 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** $66\frac{2}{3}$
 > - **(E)** 72
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2022#q15|src_smc_2022__Q15]]
 
 
 
@@ -657,19 +731,24 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare quale dei cinque grafici potrebbe essere uno schema della curva sqrt(x) + sqrt(y) = 1.*
+*Individua quale dei cinque grafici potrebbe essere uno schizzo della curva sqrt(x) + sqrt(y) = 1.*
 
-> Quale diagramma potrebbe essere uno schema della curva $\sqrt{x} + \sqrt{y} = 1$?
+> Quale diagramma potrebbe essere uno schizzo della curva $\sqrt{x} + \sqrt{y} = 1$?
 >
-> - **(A)** [Diagramma A]
-> - **(B)** [Diagramma B]
-> - **(C)** [Diagramma C]
-> - **(D)** [Diagramma D]
-> - **(E)** [Diagramma E]
+> - **(A)** [diagramma A]
+> - **(B)** [diagramma B]
+> - **(C)** [diagramma C]
+> - **(D)** [diagramma D]
+> - **(E)** [diagramma E]
 
 ![[src_smc_2022__q16.png]]
 
-**Risposta:** B
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_smc_2022#q16|src_smc_2022__Q16]]
 
 
 
@@ -701,9 +780,9 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Octogono regolare del lato 1 con quattro angoli triangolari equilaterali (lato 1) rimossi; trovare l'area della forma risultante.*
+*Ottagono regolare di lato 1 da cui sono stati rimossi quattro triangoli equilateri agli angoli (lato 1); determina l'area della figura risultante.*
 
-> La forma mostrata è fatta rimuovendo quattro triangoli equilaterali con lunghezza laterale 1 da un ottagono regolare con lunghezza laterale 1. Qual è l'area della forma?
+> La figura mostrata si ottiene rimuovendo quattro triangoli equilateri di lato 1 da un ottagono regolare di lato 1. Qual è l'area della figura?
 >
 > - **(A)** $2 - 2\sqrt{3}$
 > - **(B)** $3 + 2\sqrt{2} - \sqrt{3}$
@@ -713,7 +792,12 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 
 ![[src_smc_2022__q17.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2022#q17|src_smc_2022__Q17]]
 
 
 
@@ -743,7 +827,7 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dati due equazioni simultanee in 3^x e 3^y, trovare il valore di 3^x + 3^y.*
+*Dati due sistemi di equazioni simultanee in 3^x e 3^y, determina il valore di 3^x + 3^y.*
 
 > I numeri $x$ e $y$ sono tali che $3^x + 3^{y+1} = 5\sqrt{3}$ e $3^{x+1} + 3^y = 3\sqrt{3}$. Qual è il valore di $3^x + 3^y$?
 >
@@ -753,7 +837,12 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** $4\sqrt{3}$
 > - **(E)** $5\sqrt{3}$
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2022#q18|src_smc_2022__Q18]]
 
 
 
@@ -783,17 +872,22 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare coppie di numeri reali che soddisfano simultaneamente x^2 - y = 2022 e y^2 - x = 2022.*
+*Conta le coppie di numeri reali che soddisfano simultaneamente x^2 - y = 2022 e y^2 - x = 2022.*
 
 > Quante coppie di numeri reali $(x, y)$ soddisfano le equazioni simultanee $x^2 - y = 2022$ e $y^2 - x = 2022$?
 >
-> - **(A)** infinitamente molti
+> - **(A)** infiniti
 > - **(B)** 1
 > - **(C)** 2
 > - **(D)** 3
 > - **(E)** 4
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2022#q19|src_smc_2022__Q19]]
 
 
 
@@ -825,9 +919,9 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'area di un quadrato inserito all'interno di un quadrante di un cerchio di raggio 10.*
+*Trovare l'area di un quadrato inscritto all'interno di un quadrante di un cerchio di raggio 10.*
 
-> Un quadrato è inscritto all'interno di un quadrante di un cerchio. Il cerchio ha un raggio di 10. Qual è l'area della piazza?
+> Un quadrato è inscritto all'interno di un quadrante di un cerchio. Il cerchio ha raggio 10. Qual è l'area del quadrato?
 >
 > - **(A)** $25\sqrt{2}$
 > - **(B)** 36
@@ -837,7 +931,12 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 
 ![[src_smc_2022__q20.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2022#q20|src_smc_2022__Q20]]
 
 
 
@@ -869,9 +968,9 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Logo con due bordi rette di lunghezza 2, due piccoli semicircoli (diametro 2) e due grandi semicircoli; trovare l'area ombrata.*
+*Logo con due lati rettilinei di lunghezza 2, due piccoli semicerchi (diametro 2) e due grandi semicerchi; determina l'area ombreggiata.*
 
-> Il perimetro di un logo è creato da due bordi verticali dritti, due piccoli semicircoli con diametri orizzontali e due grandi semicircoli. Entrambi i bordi retti e i diametri dei piccoli semicircoli hanno lunghezza 2. Il logo ha simmetria di rotazione come mostrato. Che cos'è la zona ombrosa?
+> Il perimetro di un logo è formato da due spigoli rettilinei verticali, due piccoli semicerchi con diametri orizzontali e due grandi semicerchi. Sia gli spigoli rettilinei sia i diametri dei piccoli semicerchi hanno lunghezza 2. Il logo presenta la simmetria rotazionale mostrata. Qual è l'area ombreggiata?
 >
 > - **(A)** 4
 > - **(B)** $4 - \pi$
@@ -881,7 +980,12 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 
 ![[src_smc_2022__q21.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2022#q21|src_smc_2022__Q21]]
 
 
 
@@ -911,17 +1015,22 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare coppie di integri (x, y) che soddisfano sqrt(x - sqrt(x+23)) = 2×sqrt(2) - y.*
+*Conta le coppie di interi (x, y) che soddisfano sqrt(x - sqrt(x+23)) = 2*sqrt(2) - y.*
 
-> Quante coppie di integri $(x, y)$ soddisfano l'equazione $\sqrt{x - \sqrt{x+23}} = 2\sqrt{2} - y$?
+> Quante coppie di interi $(x, y)$ soddisfano l'equazione $\sqrt{x - \sqrt{x+23}} = 2\sqrt{2} - y$?
 >
 > - **(A)** 0
 > - **(B)** 1
 > - **(C)** 4
 > - **(D)** 8
-> - **(E)** infinitamente molti
+> - **(E)** infiniti
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2022#q22|src_smc_2022__Q22]]
 
 
 
@@ -953,9 +1062,9 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre quadrati (zone 10, 10, 40) con vertici sui lati del triangolo FIL; trovare l'area del triangolo FIL.*
+*Tre quadrati (aree 10, 10, 40) i cui vertici giacciono sui lati del triangolo FIL; determina l'area del triangolo FIL.*
 
-> Tre quadrati $GQOP$, $HJNO$ e $RKMN$ hanno vertici che si trovano sui lati del triangolo $FIL$ come mostrato. I quadrati hanno rispettivamente aree di 10, 10 e 40. Qual è l'area del triangolo $FIL$?
+> Tre quadrati $GQOP$, $HJNO$ e $RKMN$ hanno vertici che giacciono sui lati del triangolo $FIL$, come mostrato. I quadrati hanno aree rispettivamente pari a 10, 10 e 40. Qual è l'area del triangolo $FIL$?
 >
 > - **(A)** 220.5
 > - **(B)** $\frac{11}{2}\sqrt{10}$
@@ -965,7 +1074,12 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 
 ![[src_smc_2022__q23.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2022#q23|src_smc_2022__Q23]]
 
 
 
@@ -995,9 +1109,9 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integra x, y con xy = px + qy (p, q costante positiva); quando y è massimo, trovare l'espressione uguale a y - x.*
+*Interi x, y tali che xy = px + qy (p, q costanti positivi); quando y è massimo, si determini l'espressione uguale a y - x.*
 
-> I numeri $x$, $y$, $p$ e $q$ sono tutti numeri interi. $x$ e $y$ sono variabili e $p$ e $q$ sono costanti e positivi. I quattro integri sono correlati con l'equazione $xy = px + qy$. Quando $y$ prende il suo valore massimo possibile, quale espressione è uguale a $y - x$?
+> I numeri $x$, $y$, $p$ e $q$ sono tutti interi. $x$ e $y$ sono variabili, mentre $p$ e $q$ sono costanti e positive. I quattro interi sono legati dall'equazione $xy = px + qy$. Quando $y$ assume il suo valore massimo possibile, quale espressione è uguale a $y - x$?
 >
 > - **(A)** $pq - 1$
 > - **(B)** $(p-1)(q-1)$
@@ -1005,7 +1119,12 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 > - **(D)** $(p-1)(q+1)$
 > - **(E)** $(p+1)(q+1)$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2022#q24|src_smc_2022__Q24]]
 
 
 
@@ -1037,9 +1156,9 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cartone di bevande (piramide di quattro triangoli congruenti, QP = RS = 4 cm, PR = 10 cm); trovare il volume in cm^3.*
+*Cartone per bevande (piramide formata da quattro triangoli congruenti, QP = RS = 4 cm, PR = 10 cm); determina il volume in cm³.*
 
-> Una scatola di bevande si forma disposendo quattro triangoli congruenti come mostrato. $QP = RS = 4\text{ cm}$ e $PR = 10\text{ cm}$. Qual è il volume della scatola, in cm$^3$?
+> Un cartone per bevande si ottiene disponendo quattro triangoli congruenti come mostrato. $QP = RS = 4\text{ cm}$ e $PR = 10\text{ cm}$. Qual è il volume, in cm$^3$, del cartone?
 >
 > - **(A)** $\frac{10}{3}\sqrt{23}$
 > - **(B)** $\frac{11}{3}\sqrt{10}$
@@ -1049,4 +1168,9 @@ Valutare la somma di cinque reciprocità 1/1.01 + 1/1.1 + 1/1 + 1/11 + 1/101.*
 
 ![[src_smc_2022__q25.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2022#q25|src_smc_2022__Q25]]

@@ -31,19 +31,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 0114
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Opening of the Ratatouille*
+*Opening of Ratatouille. The restaurant "Da Gusteau" has closed; Linguini and Colette have*
 
 ![[src_squadre_2015_recupero__prob1.png]]
 
-> Opening of the Ratatouille. With the restaurant “Gusteau's” closed, Linguini and Colette have opened a new one: “The Ratatouille”. It is a much smaller place, but if well arranged it will suit them. They immediately decide to make some improvements to make it more welcoming. The dining room will be obtained by knocking down the internal partition walls. Once the walls have been knocked down they notice that these formed equilateral triangles ABC, DEF, GHI, where C and F lie on BD, F and I lie on EG, and C and I lie on AH. Moreover AB = 2·FC, DE = 3·FC, GH = 4·FC. Finally, the area of the little room FCI is 3 m^2. How many square metres does the surface of the hexagonal room ABGHDE to be floored measure?
+> Opening of Ratatouille. The restaurant "Da Gusteau" has closed; Linguini and Colette have opened a new one: "Il Ratatouille". It is a much smaller establishment, but if set up properly, it will suit them. They immediately decide to make a few improvements to make it more inviting. The dining room will be created by knocking down the internal partition walls. Once the walls are knocked down, they realize that these walls form equilateral triangles ABC, DEF, and GHI, where C and F lie on BD, F and I lie on EG, and C and I lie on AH. Furthermore, AB = 2·FC, DE = 3·FC, and GH = 4·FC. Finally, the area of the small room FCI is 3 m². How many square metres is the area of the hexagonal room ABGHDE that is to be floored?
 
-**Answer:** 0114
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2015_recupero#q01|src_squadre_2015_recupero__Q01]]
 
 
 
@@ -63,19 +66,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7094
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mathematical pastimes 1*
+*Mathematical Pastimes 1. This morning, Linguini, waiting to open the restaurant…*
 
 ![[src_squadre_2015_recupero__prob2.png]]
 
-> Mathematical pastimes 1. This morning Linguini, while waiting to open the restaurant to customers, whiled away the time by tackling a mathematical question he happened to find in the latest issue of the cookery magazine “At the stove with Gusteau”. Knowing that a, b, c are three positive integers such that a · b = 57 and b · c = 62, what is the sum a^2 + b^2 + c^2?
+> Mathematical Pastimes 1. This morning, while waiting to open the establishment to customers, Linguini passed the time by tackling a math problem he happened to find in the latest issue of the cooking magazine "Ai fornelli con Gusteau". Given that a, b, and c are three positive integers such that a · b = 57 and b · c = 62, what is the value of a^2 + b^2 + c^2?
 
-**Answer:** 7094
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2015_recupero#q02|src_squadre_2015_recupero__Q02]]
 
 
 
@@ -99,19 +105,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2013
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Greedy Emile*
+*The Gluttonous Emile. If it were up to Emile, the pantry at Ratatouille would always be…*
 
 ![[src_squadre_2015_recupero__prob3.png]]
 
-> Greedy Emile. If it were up to Emile, the Ratatouille's pantry would always be empty! So, to restrain his greedy brother, Rémy has devised a trick. Every evening he sets Emile a problem: if he solves it, Rémy serves him a nice piece of delicious cheese from the pantry, otherwise Emile has to make do with the restaurant's leftovers. The latest question is really difficult, and Emile is fed up with leftovers! With your help, perhaps tonight he will get his nice piece of cheese. Here is the question: what is the only natural number n such that n + 12 and n − 77 are both squares of integers?
+> Gluttonous Emile. If it were up to Emile, the pantry in Ratatouille would always be empty! So, to keep his gluttonous brother in check, Rémy has come up with a trick. Every evening, he gives Emile a problem: if Emile solves it, then Rémy will serve him a nice chunk of delicious cheese from the pantry; otherwise, Emile has to make do with the restaurant leftovers. The latest puzzle is really difficult, and Emile is fed up with the leftovers! With your help, maybe tonight he'll get his nice chunk of cheese. Here's the puzzle: what is the only natural number n such that both n + 12 and n − 77 are squares of integers?
 
-**Answer:** 2013
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2015_recupero#q03|src_squadre_2015_recupero__Q03]]
 
 
 
@@ -134,19 +143,22 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 5401
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Everyone out to dinner*
+*Everyone's eating out. In recent years, the procedure for opening a new one has been streamlined*
 
 ![[src_squadre_2015_recupero__prob4.png]]
 
-> Everyone out to dinner. In recent years the procedure for opening a new restaurant has been streamlined, and a survey has shown that, if we denote by f(x) the number of new restaurants opened in Paris x days after the founding of the Club of Restaurateur Rats, this law satisfies the following property: f(x)f(y) − f(xy) = x + y. How many restaurants will have been opened after 5400 days?
+> Everyone's out to dinner. In recent years, the procedure for opening a new restaurant has been streamlined, and a survey has revealed that, if we denote by f(x) the number of new restaurants opened in Paris x days after the founding of the Club of Restaurant Mice, then this function satisfies the following property: f(x)f(y) − f(xy) = x + y. How many restaurants will have been opened after 5400 days?
 
-**Answer:** 5401
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2015_recupero#q04|src_squadre_2015_recupero__Q04]]
 
 
 
@@ -171,19 +183,22 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0924
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The friends arrive*
+*The friends are arriving. Rémy wants to introduce Linguini to his 12 closest friends…*
 
 ![[src_squadre_2015_recupero__prob5.png]]
 
-> The friends arrive. Rémy wants Linguini to meet his 12 dearest friends, but... they all look the same and he is afraid Linguini will get confused. So he has them wear a T-shirt with a nice big number printed on the front: the numbers are all distinct and go from 1 to 12. He has the friends line up in a row with the number on the T-shirt clearly visible, but not at random; rather, using the following criterion: looking only at those with odd numbers, they are arranged in increasing order from left to right; looking only at those with even numbers, they are arranged in increasing order, again from left to right. In how many ways can Rémy line up his friends?
+> The friends are arriving. Rémy wants to introduce Linguini to his 12 closest friends, but... they all look the same, and he's afraid Linguini will get them mixed up. So he has them put on T-shirts with a nice large number printed on the front: the numbers are all different and range from 1 to 12. He arranges the friends all in a single row with the number on their T-shirt clearly visible, but not at random—rather, using the following rule: if you look only at those with odd numbers, they are arranged in ascending order from left to right; if you look only at those with even numbers, they are also arranged in ascending order from left to right. In how many ways can Rémy line up his friends?
 
-**Answer:** 0924
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2015_recupero#q05|src_squadre_2015_recupero__Q05]]
 
 
 
@@ -204,19 +219,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1280
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Happy birthday Emile*
+*Happy birthday, Emile! To celebrate Emile's birthday, Rémy has prepared a*
 
 ![[src_squadre_2015_recupero__prob6.png]]
 
-> Happy birthday Emile. To celebrate Emile's birthday, Rémy has prepared a cake with a triangular base ABC and, to cut the slices, he shows off his mathematical knowledge. The slice meant for Emile has a triangular base of area 80 cm^2 and is obtained by cutting the cake along the segments CQ and QN, where M, N, P, Q are the midpoints of BC, AC, AM, CP respectively. What is the base area of the whole cake, in cm^2?
+> Happy birthday, Emile! To celebrate Emile's birthday, Rémy has prepared a cake with triangular base ABC, and to cut the slices, he shows off his mathematical knowledge. The slice intended for Emile has a triangular base with an area of 80 cm² and is obtained by cutting the cake along the segments CQ and QN, where M, N, P, and Q are the midpoints of BC, AC, AM, and CP, respectively. What is the area of the base of the whole cake, expressed in cm²?
 
-**Answer:** 1280
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2015_recupero#q06|src_squadre_2015_recupero__Q06]]
 
 
 
@@ -239,19 +257,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0005
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A house-number problem*
+*House number issue. Rue des Rats, the street where Ratatouille is located, has…*
 
 ![[src_squadre_2015_recupero__prob7.png]]
 
-> A house-number problem. Rue des rats, the street where the Ratatouille is, has a strange numbering: only four-digit palindromic numbers are used, in increasing order. Rémy knows that restaurants can only have a house number that is a multiple of 17. What is the maximum number of restaurants in Rue des rats? (An integer is palindromic if it coincides with the number read from right to left; for example 1221 is a four-digit palindromic number.)
+> House numbering problem. Rue des Rats, the street where Ratatouille is located, has a strange numbering system: only four-digit palindromic numbers are used, in ascending order. Rémy knows that restaurants can have only a house number that is a multiple of 17. What is the maximum number of restaurants on Rue des Rats? (An integer is palindromic if it is the same when read from right to left; for example, 1221 is a four-digit palindromic number.)
 
-**Answer:** 0005
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2015_recupero#q07|src_squadre_2015_recupero__Q07]]
 
 
 
@@ -272,19 +293,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0240
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mathematical pastimes 2*
+*Mathematical Pastimes 2. Perhaps geometry suits him better, and the problem c…*
 
 ![[src_squadre_2015_recupero__prob8.png]]
 
-> Mathematical pastimes 2. Perhaps geometry suits him better, and the problem Linguini is about to solve is the following: let ABCD be a rhombus with DÂB = 60° and side AB = 6 m. On the line perpendicular to the plane of the rhombus through D take a point V such that VD = 4 m. Compute the distance (in cm) of vertex B from the plane in which triangle AVC lies.
+> Mathematical Pastimes 2. Perhaps geometry suits him better, and the problem that Linguini is about to solve is as follows: let ABCD be a rhombus with ∠DAB = 60° and side AB = 6 m. On the line perpendicular to the plane of the rhombus and passing through D, take a point V such that VD = 4 m. Calculate the distance (in cm) from vertex B to the plane containing triangle AVC.
 
-**Answer:** 0240
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2015_recupero#q08|src_squadre_2015_recupero__Q08]]
 
 
 
@@ -306,19 +330,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0108
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gusteau's secret*
+*Gusteau's secret. Yesterday, Colette decided to cook the roast à la Gusteau…*
 
 ![[src_squadre_2015_recupero__prob9.png]]
 
-> Gusteau's secret. Yesterday Colette decided to cook roast à la Gusteau, consulting the chef's secret recipe book. To her great surprise she found that the cooking time was hidden in a riddle: the ideal cooking time, in minutes, is the largest positive integer equal to 12 times the sum of its digits. What is the cooking time (in minutes) of roast à la Gusteau?
+> Gusteau's Secret. Yesterday, Colette decided to cook the Gusteau roast by consulting the chef's secret recipe book. To her great surprise, she found that the cooking time was hidden by a riddle: the ideal cooking time, in minutes, is the largest positive integer equal to 12 times the sum of its digits. What is the cooking time (in minutes) for the Gusteau roast?
 
-**Answer:** 0108
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2015_recupero#q09|src_squadre_2015_recupero__Q09]]
 
 
 
@@ -337,19 +364,19 @@ level: squadre
 > numero di mele e del numero di pere acquistate da Colette.
 
 **Risposta:** 0560
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*You save at the market*
+*You save money at the market. This morning, Colette went to the market to stock up*
 
 ![[src_squadre_2015_recupero__prob10.png]]
 
-> You save at the market. This morning Colette went to the market to stock up on apples and pears and spent 13.30 euros. An apple costs 15 cents, while a pear costs 28 cents. Colette notices that she has bought more pears than apples. Write the product of the number of apples and the number of pears bought by Colette.
+> You save money at the market. This morning, Colette went to the market to stock up on apples and pears and spent 13.30 euros. An apple costs 15 cents, while a pear costs 28 cents. Colette realizes that she bought more pears than apples. Write the product of the number of apples and the number of pears that Colette bought.
 
-**Answer:** 0560
+[[Quesiti/src_squadre_2015_recupero#q10|src_squadre_2015_recupero__Q10]]
 
 
 
@@ -374,19 +401,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7776
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tablecloth problems*
+*Tablecloth problems. The creative Colette wants to put a new tablecloth on each one*
 
 ![[src_squadre_2015_recupero__prob11.png]]
 
-> Tablecloth problems. Creative Colette wants to put a new tablecloth on each of the restaurant's tables. To save money she buys plain-coloured fabric and decides to make brightly coloured prints on the tablecloths. She has two circular stencils of radii 36 cm and 48 cm which, luckily, are just what she needs. Each tablecloth has the shape of a rectangle ABCD. Letting E be the midpoint of BC, Colette places the smaller stencil so that it is inscribed in triangle AED and the larger one so that it is inscribed in triangle ABE. How many square decimetres of fabric are needed to make the 25 tablecloths?
+> Tablecloth problems. The creative Colette wants to put a new tablecloth on each of the tables in the restaurant. To save money, she buys fabric of a uniform color and decides to create vividly colored prints on the tablecloths. She has at her disposal two circular templates with radii of 36 cm and 48 cm; fortunately, they are just right for her. Each tablecloth is in the shape of a rectangle ABCD. Let E be the midpoint of BC. Colette positions the smaller template so that it is inscribed in triangle AED, and the larger template so that it is inscribed in triangle ABE. How many square decimeters of fabric are needed to make the 25 tablecloths?
 
-**Answer:** 7776
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2015_recupero#q11|src_squadre_2015_recupero__Q11]]
 
 
 
@@ -411,19 +441,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0236
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Hooray for hot chocolate*
+*Yum, chocolate. Gusteau's cookbook titled "Anyone Can Cook…*
 
 ![[src_squadre_2015_recupero__prob12.png]]
 
-> Hooray for hot chocolate. Gusteau's recipe book entitled “Anyone can cook” is very original. In fact, to be able to read some recipes you also need to “know some mathematics”. In one of his famous recipes Gusteau suggests how to prepare an exquisite hot chocolate and gives the quantities for 100 servings. Everything is very clear, but when it comes to indicating how many spoonfuls of sugar must be used he says that this number ABC satisfies the equality ABC = D^2 + E^2 + F^2 + G^2 + H^2 + I^2, where A, B, C, D, E, F, G, H, I are all the digits from 1 to 9, each written exactly once, and ABC means 100 · A + 10 · B + C. How many spoonfuls of sugar must be used?
+> Chocolate. Gusteau's cookbook titled "Anyone Can Cook" is very original. In fact, to be able to read some of the recipes, one also has to "know some math." In one of his famous recipes, Gusteau suggests how to prepare a delicious chocolate drink and gives the measurements for 100 servings. Everything is very clear, but when it comes to specifying how many tablespoons of sugar should be used, he says that the number ABC satisfies the equation ABC = D^2 + E^2 + F^2 + G^2 + H^2 + I^2, where A, B, C, D, E, F, G, H, and I are all the digits from 1 to 9, each written exactly once, and ABC means 100 · A + 10 · B + C. How many tablespoons of sugar should be used?
 
-**Answer:** 0236
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2015_recupero#q12|src_squadre_2015_recupero__Q12]]
 
 
 
@@ -447,21 +480,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0099
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The accountant*
+*The accountant. At the restaurant, the people in charge of the kitchen are Colette and Rémy, men…*
 
 ![[src_squadre_2015_recupero__prob13.png]]
 
-> The accountant. At the restaurant the people in charge of the kitchen are Colette and Rémy, while shy Linguini looks after table service. Unfortunately, though, there is nobody to take care of the Ratatouille's takings... so it is decided to hire an accountant. To choose among the candidates, Rémy asked them to compute the following sum:
-> 1/(2·[√1] + 1) + 1/(2·[√2] + 1) + · · + 1/(2·[√9999] + 1)
-> where [x] denotes the integer part of the real number x. The first to give the correct solution will be hired. What is the correct solution?
+> The Accountant. At the restaurant, Colette and Rémy are in charge of the kitchen, while shy Linguini handles table service. Unfortunately, though, no one is responsible for collecting payment at Ratatouille... so it is decided to hire an accountant. To choose among the candidates, Rémy asked them to calculate the following sum: 1/(2·[√1] + 1) + 1/(2·[√2] + 1) + · · + 1/(2·[√9999] + 1), where [x] represents the integer part of the real number x. The first person to give the correct solution will be hired. What is the correct solution?
 
-**Answer:** 0099
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2015_recupero#q13|src_squadre_2015_recupero__Q13]]
 
 
 
@@ -484,19 +518,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0880
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colette's spices*
+*Colette's spices. Colette has stocked up heavily on chili peppers and zaf…*
 
 ![[src_squadre_2015_recupero__prob14.png]]
 
-> Colette's spices. Colette has laid in a large stock of chilli pepper and saffron. She has decided to decorate a shelf using ten glass jars: every day she fills each jar with chilli or with saffron and puts them in a row on the shelf. Since she likes the colour of saffron, she always makes sure that there are at least two adjacent jars of saffron. Colette also makes sure that the decoration is different every day. After how many days will she be forced to use a decoration for the second time?
+> Colette's Spices. Colette has stocked up heavily on chili peppers and saffron. She has decided to decorate a shelf using ten glass jars: each day, she fills each jar with either chili peppers or saffron and lines the jars up on the shelf. Since she likes the color of saffron, she always makes sure that at least two saffron jars are next to each other. Colette also makes sure that the arrangement is different every day. After how many days will she be forced to use the same arrangement a second time?
 
-**Answer:** 0880
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2015_recupero#q14|src_squadre_2015_recupero__Q14]]
 
 
 
@@ -519,19 +556,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0600
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Clumsy cashier!*
+*Clumsy cashier! The diligent cashier at Ratatouille writes down in the register: you…*
 
 ![[src_squadre_2015_recupero__prob15.png]]
 
-> Clumsy cashier! The Ratatouille's diligent cashier notes all the takings in the register and usually on Sundays he totals the week's takings. Unfortunately he has lost the register, and when Linguini asks him for the sums taken in the last two weeks he is mortified: he only remembers that they were two special numbers m = abab and n = cdcd, four-digit numbers in decimal notation. He had, however, noticed a curiosity: m + n was the square of an integer. What is the largest value of the product a · b · c · d?
+> Clumsy cashier! The diligent cashier at Ratatouille records all cash receipts in the ledger and usually, on Sundays, totals the week's receipts. Unfortunately, he has lost the ledger, and when Luigini asks him for the amounts received over the past two weeks, he is mortified: he only remembers that they were two particular numbers, m = abab and n = cdcd—four-digit numbers in decimal notation. However, he had noticed an oddity: m + n was the square of an integer. What is the greatest value of the product a · b · c · d?
 
-**Answer:** 0600
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2015_recupero#q15|src_squadre_2015_recupero__Q15]]
 
 
 
@@ -553,19 +593,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0210
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Delicacies at the Ratatouille*
+*Delicacies with Ratatouille. Last night, the famous food critic Ego dined at*
 
 ![[src_squadre_2015_recupero__prob16.png]]
 
-> Delicacies at the Ratatouille. Last night the famous food critic Ego dined at the restaurant. The menu of the day listed 7 different specialities with prices (all different) ranging from 3 to 9 euros. Ego had 5 of the 7 available dishes (not necessarily different) brought to him one at a time, and spent exactly 39 euros. In how many different ways can he have been served?
+> Appetizers for Ratatouille. Last night, the famous food critic Ego dined at the restaurant. The daily menu listed 7 different specialties with (all different) prices ranging from 3 to 9 euros. Ego had 5 of the 7 available dishes (not necessarily different ones) brought to him one at a time, and spent exactly 39 euros. In how many different ways could they have been served?
 
-**Answer:** 0210
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2015_recupero#q16|src_squadre_2015_recupero__Q16]]
 
 
 
@@ -586,19 +629,22 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0054
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time for new hires!*
+*It's time for new hires! Colette needs another kitchen helper and for*
 
 ![[src_squadre_2015_recupero__prob17.png]]
 
-> Time for new hires! Colette needs another kitchen helper, and for this reason she sets the would-be “assistant cooks” a geometry test to assess... their eye: let ABC be a right triangle with hypotenuse BC, and let D, E ∈ AB be such that AD = 3, DE = 9, EB = 8, DĈE = AB̂C. What is the area of triangle CDE?
+> It's time for new hires! Colette needs another kitchen helper, and so she subjects prospective "assistant cooks" to a geometry test to assess . . . their visual estimation: let ABC be a right triangle with hypotenuse BC; let D, E ∈ AB such that AD = 3, DE = 9, EB = 8, and ∠DCE = ∠ABC. What is the area of triangle CDE?
 
-**Answer:** 0054
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2015_recupero#q17|src_squadre_2015_recupero__Q17]]
 
 
 
@@ -621,19 +667,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0495
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*At the Ratatouille you eat well and spend little*
+*At Ratatouille, the food is good and prices are low. Last night, someone had dinner at Ratatouille*
 
 ![[src_squadre_2015_recupero__prob18.png]]
 
-> At the Ratatouille you eat well and spend little. Last night a cheerful party of 41 people, made up of men, women and children, dined at the Ratatouille. They paid a total of 160 euros. If each man paid 16 euros, each woman 12 euros, and each group of 3 children dined for 4 euros, we want to know how many men, women and children were in the party, knowing that the number of children is a multiple of 3. Give as the answer the product of the three numbers found.
+> At Ratatouille, the food is good and the price is low. Last night, a cheerful group of 41 people—made up of men, women, and children—had dinner at Ratatouille. They paid a total of 160 euros. If each man paid 16 euros, each woman paid 12 euros, and each group of 3 children had dinner for 4 euros, we want to find out how many men, women, and children were in the group, knowing that the number of children is a multiple of 3. Give as the answer the product of the three numbers found.
 
-**Answer:** 0495
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2015_recupero#q18|src_squadre_2015_recupero__Q18]]
 
 
 
@@ -656,19 +705,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1278
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Chess tournament at the Ratatouille*
+*Chess tournament at Ratatouille. The Ratatouille restaurant has organized “The week*
 
 ![[src_squadre_2015_recupero__prob19.png]]
 
-> Chess tournament at the Ratatouille. The Ratatouille restaurant has organised “Chess week”, inviting its most loyal customers to take part. In the tournament each win is worth 3 points, each draw 1 point and each defeat 0 points. Rémy scored 20 points and suffered no defeats, but it is not known how many games he played. How many ordered sequences of results can Rémy have obtained? [Two possibilities, for example, are: (V, V, P, P, V, V, V, V) and (V, P, V, P, V, P, V, V, P, P), where V denotes a win and P a draw.]
+> Chess tournament at Ratatouille. The Ratatouille restaurant organized "Chess Week," inviting its most loyal customers to take part. In the tournament, each win is worth 3 points, each draw is worth 1 point, and each loss is worth 0 points. Rémy scored a total of 20 points and suffered no losses, but it is unknown how many games he played. How many ordered sequences of results could Rémy have achieved? [Two possibilities, for example, are: (W, W, D, D, W, W, W, W) and (W, D, W, D, W, D, W, W, D, D), where W denotes a win and D denotes a draw.]
 
-**Answer:** 1278
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2015_recupero#q19|src_squadre_2015_recupero__Q19]]
 
 
 
@@ -694,19 +746,22 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0275
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Appointment at the Ratatouille*
+*Meeting at Ratatouille. Yesterday was Tuesday, and Skinner and Ego were at Ratatouille,*
 
 ![[src_squadre_2015_recupero__prob20.png]]
 
-> Appointment at the Ratatouille. Yesterday was Tuesday and Skinner and Ego were at the Ratatouille, but unfortunately Colette, their favourite cook, was not in the kitchen. Colette is a very busy cook and goes to cook at the Ratatouille in person only every 5 days, leaving her apprentice assistant in charge on the other days. Today Ego phoned the restaurant, Colette answered, and he asked her to book a table for the first Friday on which all of them would be there: Skinner, Ego and Colette (cooking), of course! Colette, who knows that Ego comes to the restaurant every 3 days and Skinner every 4 days, promptly replied: “See you as soon as possible, in ... days”. Unfortunately a noise from the kitchen drowned out the number Colette said. What is that number?
+> Meeting at Ratatouille. Yesterday was Tuesday, and Skinner and Ego were at Ratatouille, but unfortunately Colette, their favorite cook, wasn't in the kitchen. Colette is a very busy cook and only goes to cook at Ratatouille in person every 5 days, leaving her apprentice assistant to handle things on the other days. Today Ego called the restaurant; Colette answered and he asked her to reserve a table for the first Friday on which everyone would be there: Skinner, Ego, and Colette—cooking, of course! Colette, who knows that Ego comes to the restaurant every 3 days and Skinner comes every 4 days, promptly replied, "We'll see each other as soon as possible, in . . . days." Unfortunately, a noise from the kitchen drowned out the number Colette said. What is that number?
 
-**Answer:** 0275
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2015_recupero#q20|src_squadre_2015_recupero__Q20]]
 
 
 
@@ -729,21 +784,22 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0042
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gift box!*
+*Gift package! Linguine, to thank Rémy for all the help he gave him, d…*
 
 ![[src_squadre_2015_recupero__prob21.png]]
 
-> Gift box! To thank Rémy for all the help he has given him, Linguini decides to give him a nice present. The box has the shape of a rectangular parallelepiped with dimensions x, y, z (measured in decimetres), and since the box is not very sturdy he decides to reinforce it by running adhesive tape along all the edges. Knowing that
-> xy + xz = 17, xy + yz = 20, xz + yz = 27,
-> how many decimetres of adhesive tape must he use?
+> Gift package! Linguini, to thank Rémy for all the help he has given him, decides to give him a nice gift. The container is shaped like a cuboid with dimensions x, y, z (measured in decimetres), and since the box isn't very sturdy, he decides to reinforce it by running adhesive tape along all the edges. Knowing that xy + xz = 17, xy + yz = 20, and xz + yz = 27, how many decimetres of adhesive tape must he use?
 
-**Answer:** 0042
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2015_recupero#q21|src_squadre_2015_recupero__Q21]]
 
 
 
@@ -765,19 +821,22 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1107
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Let's tidy up the kitchen*
+*Let's tidy up the kitchen. From today on, Colette has insisted that the kitchen be kept strictly…*
 
 ![[src_squadre_2015_recupero__prob22.png]]
 
-> Let's tidy up the kitchen. From today Colette has ordered that the kitchen be kept strictly tidy, otherwise... goodbye Michelin stars! The tea towels that used to be left lying about will from today always have to be put away in the drawers. There are 8 red and 8 green tea towels that must be put away in 8 drawers so that each drawer contains exactly two tea towels. In how many ways can the tea towels be put away?
+> Let's get the kitchen in order. From today on, Colette has insisted that the kitchen be kept strictly tidy—otherwise... goodbye, Michelin stars! The dishcloths that used to be left lying around haphazardly will from now on always have to be put away in drawers. There are 8 red dishcloths and 8 green ones to be placed in 8 drawers so that each drawer contains exactly two dishcloths. In how many ways can the dishcloths be arranged?
 
-**Answer:** 1107
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2015_recupero#q22|src_squadre_2015_recupero__Q22]]
 
 
 
@@ -797,19 +856,19 @@ level: squadre
 > della propria moglie?
 
 **Risposta:** 0066
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A cheerful table*
+*A cheerful group gathered around a table. Twelve couples (husband and wife) are sitting at a table, a…*
 
 ![[src_squadre_2015_recupero__prob23.png]]
 
-> A cheerful table. Twelve couples (husband and wife) are seated at a round table so that all the men are seated next to one another and each woman is seated opposite her own husband on the other side of the table. A woman and a man seated next to each other may swap places. What is the minimum possible number of swaps so that each husband is seated beside his own wife?
+> A cheerful group seated around a table. Twelve couples (husband and wife) are sitting at a round table so that all the men are seated together and each woman is seated opposite her own husband on the other side of the table. A woman and a man sitting next to each other can swap places. What is the minimum possible number of swaps needed for each husband to be sitting next to his own wife?
 
-**Answer:** 0066
+[[Quesiti/src_squadre_2015_recupero#q23|src_squadre_2015_recupero__Q23]]
 
 
 
@@ -830,16 +889,19 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0038
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The grand prize*
+*The Grand Prize. A big rapid-calculation competition at the "Ratatouille" restaurant: dinner…*
 
 ![[src_squadre_2015_recupero__prob24.png]]
 
-> The grand prize. Big quick-calculation contest at the restaurant “Ratatouille”: free dinner for two for the first person to find the smallest integer greater than 1 that is not a power of a prime and whose prime factorisation can be written using only one digit. What is the sum of the digits of that number?
+> The Grand Prize. A big rapid-calculation contest at the "Ratatouille" restaurant: a free dinner for two for the first person to find the smallest integer greater than 1 that is not a power of a prime and whose prime factorization can be written using only one digit. What is the sum of the digits of this number?
 
-**Answer:** 0038
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2015_recupero#q24|src_squadre_2015_recupero__Q24]]

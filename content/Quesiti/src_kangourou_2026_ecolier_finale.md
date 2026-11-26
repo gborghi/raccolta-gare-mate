@@ -30,11 +30,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arrangement of colored tokens on a triangular grid*
+*Arranging colored tokens on a triangular grid*
 
-> We have 5 green tokens, 4 red, 3 yellow, 2 blue, and 1 black. We want to place one token in each cell of the triangular grid such that no two tokens of the same color appear in the same row or column. In how many different ways can we do this?
+> We have 5 green tokens, 4 red tokens, 3 yellow tokens, 2 blue tokens, and 1 black token. We want to place one token in each cell of the triangular grid so that no row and no column contains two tokens of the same color. In how many different ways can we do this?
 
-**Answer:** 1
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2026_ecolier_finale#qe1|src_kangourou_2026_ecolier_finale__QE1]]
 
 
 
@@ -57,11 +62,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Families of 3, 4 or 5 people for a total of 63*
+*Families of 3, 4, or 5 people, totaling 63*
 
-> There are 20 families and in each of them there are 3 or 4 or 5 people and all these cases occur at least once. If altogether there are 63 people, how many families are made up of exactly 4 people?
+> There are 20 families, and each family has 3, 4, or 5 people; all these cases occur at least once. If the total number of people is 63, how many families consist of exactly 4 people?
 
-**Answer:** 1
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2026_ecolier_finale#qe2|src_kangourou_2026_ecolier_finale__QE2]]
 
 
 
@@ -84,11 +93,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three suspects, one tells the truth*
+*Three suspects, one is telling the truth*
 
-> A police commissioner questioned three people A, B, C suspected of having committed a theft. A stated: «I am not the thief, the thief is C». B stated: «The thief is A and C is innocent». C stated: «I am not the thief and B is innocent». The commissioner learns that one of the three told the truth, another said two false things and a third said one true thing and one false thing. Who is the thief?
+> A police commissioner interrogated three people, A, B, and C, suspected of having committed a theft. A stated: "I am not the thief; the thief is C." B stated: "The thief is A, and C is innocent." C stated: "I am not the thief, and B is innocent." The commissioner learns that one of the three told the truth, another told two false things, and the third told one true thing and one false thing. Who is the thief?
 
-**Answer:** C
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2026_ecolier_finale#qe3|src_kangourou_2026_ecolier_finale__QE3]]
 
 
 
@@ -111,11 +124,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Whole bricks for a square-based chimney*
+*Whole bricks for a square-based fireplace*
 
-> On a flat roof, a mason has built a square-based chimney open at both the top and bottom. All four of its faces are 10 cm thick. To build the chimney, the mason used only whole bricks of dimensions (in centimeters) $10\times 10\times 20$. How many bricks did he use?
+> On a flat roof, a mason built a chimney with a square base, open at both the top and the bottom. All four faces of the chimney are 10 cm thick. To build the chimney, the mason used only whole bricks measuring $10\times 10\times 20$ centimeters. How many bricks did he use?
 
-**Answer:** 30
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2026_ecolier_finale#qe4|src_kangourou_2026_ecolier_finale__QE4]]
 
 
 
@@ -138,11 +155,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Age of Giovanni: remainders 3 mod 5 and 2 mod 4*
+*And di Giovanni: remainder 3 mod 5 and 2 mod 4*
 
-> Giovanni is not yet a centenarian: the number of his years divided by 5 gives remainder 3 but divided by 4 gives remainder 2. What are the possible ages of Giovanni?
+> Giovanni is not yet a century old: when his age is divided by 5, the remainder is 3, but when it is divided by 4, the remainder is 2. What are Giovanni's possible ages?
 
-**Answer:** 18, 38, 58, 78, 98
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2026_ecolier_finale#qe5|src_kangourou_2026_ecolier_finale__QE5]]
 
 
 
@@ -165,8 +186,12 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Even triple and operation sum minus 1*
+*Even pair and sum minus 1 operation*
 
-> Three even integers are written on the board. Paolo erases one of them and replaces it with the sum of the other two decreased by 1. He repeats this operation on the new triple. Is it possible, starting from an appropriate triple and after performing several such operations, to obtain the triple $\{2025, 2026, 2027\}$?
+> Three even integers are written on the blackboard: Paolo erases one of them and replaces it with the sum of the other two minus 1. He repeats the operation on the new triple of numbers he obtains. Is it possible that, starting from a suitable triple of numbers and after repeating the operation several times, the triple he obtains is $\{2025, 2026, 2027\}$?
 
-**Answer:** NO
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2026_ecolier_finale#qe6|src_kangourou_2026_ecolier_finale__QE6]]

@@ -33,13 +33,20 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimizzare le tromine L che tessono una griglia con piastrelle L e S*
+*Minimizza le piastrellature con tromini a L di una griglia con tessere L e S*
 
-> Su una griglia $2020 \times 2021$, diverse piastrelle dei due tipi $L$ e $S$ mostrate nella figura sono posizionate lungo le celle in modo che non si sovrappongano e l'intera griglia sia coperta. Trova il minimo valore possibile del numero di piastrelle $L$ utilizzate. Le piastrelle possono essere rotate e riflesse.
-> 
-> Qui $L$ è un tromino a forma di L (tre cellule di unità) e $S$ è un tetromino a forma di S (quattro cellule di unità).
+> Su una griglia $2020 \times 2021$, diverse tessere dei due tipi $L$ e $S$ mostrati nella figura vengono disposte lungo le celle in modo che non si sovrappongano e che l'intera griglia sia coperta. Determinare il valore minimo possibile del numero di tessere $L$ utilizzate. Le tessere possono essere ruotate e riflettute.
+>
+> Qui $L$ è un tromino a forma di L (tre celle unitarie) e $S$ è un tetromino a forma di S (quattro celle unitarie).
 
 ![[src_jjmo18hq_honsen__q01.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo18hq_honsen#q01|src_jjmo18hq_honsen__Q01]]
 
 
 
@@ -64,11 +71,18 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo a pari stelle con piede di altitudine; angolo di ricerca BCD*
+*Triangolo isoscele con piede dell'altezza; trovare l'angolo BCD*
 
-> C'è un triangolo a pari livello $ABC$ con $AB = AC$. Il $H$ deve essere il piede della perpendicolare che viene abbassato da $B$ sulla linea $AC$. Quando un punto $D$ sul segmento $BH$ soddisfa $AB = 2BD$ e $BC = 2CD$, si trova la misura di $\angle BCD$.
-> 
+> Esiste un triangolo isoscele $ABC$ con $AB = AC$. Sia $H$ il piede della perpendicolare abbassata da $B$ sulla retta $AC$. Quando un punto $D$ del segmento $BH$ soddisfa $AB = 2BD$ e $BC = 2CD$, determinare la misura di $\angle BCD$.
+>
 > Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo18hq_honsen#q02|src_jjmo18hq_honsen__Q02]]
 
 
 
@@ -91,9 +105,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tripli con lcm uguale a (ab+bc+ca)/4*
+*Triple con mcm uguale a (ab+bc+ca)/4*
 
-> Trovare tutti i triples $(a,b,c)$ di numeri interi positivi in modo tale che il più piccolo multiplo comune di $a$, $b$, $c$ sia uguale a $\dfrac{ab+bc+ca}{4}$.
+> Trovare tutte le terne $(a,b,c)$ di interi positivi tali che il minimo comune multiplo di $a$, $b$, $c$ sia uguale a $\dfrac{ab+bc+ca}{4}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo18hq_honsen#q03|src_jjmo18hq_honsen__Q03]]
 
 
 
@@ -120,13 +141,20 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di pezzi in modo che ogni cella abbia 2+ pezzi sulle sue diagonali*
+*Pezzi minimi affinché ogni cella abbia 2+ pezzi sulle proprie diagonali*
 
-> C'è una griglia $2020 \times 2020$, e al massimo un pezzo è posto su ogni cella. Trovare il minimo valore possibile del numero di pezzi utilizzati quando i pezzi vengono posizionati in modo che sia soddisfatta la seguente condizione:
-> 
-> Per ogni cella, ci sono almeno $2$ pezzi che si trovano sulle linee diagonali attraverso quella cella.
-> 
-> Qui, si dice che un pezzo della cella nella riga $a$-a dall'alto e nella colonna $b$-a da sinistra si trovi su una linea diagonale della cella nella riga $c$-a dall'alto e nella colonna $d$-a da sinistra quando $|a-c| = |b-d|$ si tiene.
+> C'è una griglia $2020 \times 2020$, e al massimo un pezzo viene collocato in ogni cella. Determinare il valore minimo possibile del numero di pezzi utilizzati quando i pezzi vengono collocati in modo che sia soddisfatta la seguente condizione:
+>
+> Per ogni cella, esistono almeno $2$ pezzi che giacciono sulle diagonali passanti per quella cella.
+>
+> Qui, si dice che un pezzo situato nella cella alla $a$-esima riga partendo dall'alto e alla $b$-esima colonna partendo da sinistra giace su una diagonale della cella alla $c$-esima riga partendo dall'alto e alla $d$-esima colonna partendo da sinistra quando vale $|a-c| = |b-d|$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo18hq_honsen#q04|src_jjmo18hq_honsen__Q04]]
 
 
 
@@ -153,10 +181,17 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Regolare 2020-gon con etichette distinte; mostrare alcuni n soddisfa le disuguaglianze*
+*Poligono regolare a 2020 lati con etichette distinte; mostra che alcuni n soddisfano la disuguaglianza*
 
-> C'è un normale $2020$-gon, e i vertici $1, 2, \ldots, 2020$ sono disposti nel senso orario. Inoltre, separatamente dai numeri delle vertici, un numero intero positivo distinto è assegnato a ciascun vertice (in modo che due vertici non ricevano lo stesso numero intero). Indicare che esiste un numero intero $n$ con $1 \le n \le 2020$ che soddisfa la seguente condizione:
-> 
-> Se i numeri interi assegnati ai vertici $n$, $n+1$, $n+2$ sono rispettivamente $a$, $b$ e $c$, allora $a^2 + b^2 \ge c^2 + n^2 + 3$ è valido.
-> 
-> Qui, vertice $2021$ e vertice $2022$ si riferiscono rispettivamente al vertice $1$ e al vertice $2$.
+> Esiste un $2020$-gono regolare, e i vertici $1, 2, \ldots, 2020$ sono disposti in senso orario. Inoltre, indipendentemente dai numeri dei vertici, a ciascun vertice viene assegnato un intero positivo distinto (cosicché nessun vertice riceva lo stesso intero di un altro). Dimostrare che esiste un intero $n$ tale che $1 \le n \le 2020$ soddisfa la seguente condizione:
+>
+> Se gli interi assegnati ai vertici $n$, $n+1$, $n+2$ sono rispettivamente $a$, $b$, $c$, allora vale $a^2 + b^2 \ge c^2 + n^2 + 3$.
+>
+> Qui, il vertice $2021$ e il vertice $2022$ si riferiscono rispettivamente al vertice $1$ e al vertice $2$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo18hq_honsen#q05|src_jjmo18hq_honsen__Q05]]

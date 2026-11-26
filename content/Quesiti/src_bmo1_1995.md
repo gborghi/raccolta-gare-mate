@@ -29,9 +29,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrati perfetti che finiscono in tre o quattro 4s; nessuno finisce in cinque*
+*Quadrati che terminano con tre, quattro o cinque cifre 4*
 
-> Trova il primo intero positivo il cui quadrato finisce in tre 4's. Trova tutti i numeri interi positivi la cui quadrata termina in quattro 4. Mostrare che nessun quadrato perfetto finisce con cinque quattro.
+> Trovare il primo intero positivo il cui quadrato termina con tre 4. Trovare tutti gli interi positivi il cui quadrato termina con quattro 4. Dimostrare che nessun quadrato perfetto termina con cinque 4.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_1995#q01|src_bmo1_1995__Q01]]
 
 
 
@@ -58,11 +65,20 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area quadrilaterale e l'area di intersezione all'interno di un cubo di lato 2*
-
-> $ABCDEFGH$ è un cubo con lato 2. a) Trova l'area del quadrilaterale $AMHN$, dove $M$ è il punto medio di $BC$ e $N$ è il punto medio di $EF$. b) Il $P$ deve essere il punto medio di $AH$ e il $Q$ il punto medio di $HE$. Lasciate che $AM$ si riunisca a $CP$ a $X$ e $HN$ a $EQ$ a $Y$. Trova la superficie di $XY$.
+*Aree di $AMHN$ e di $XY$ in un cubo di lato 2*
 
 ![[src_bmo1_1995__q02.png]]
+
+> $ABCDEFGH$ è un cubo di lato 2.
+> (a) Trovare l'area del quadrilatero $AMHN$, dove $M$ è il punto medio di $BC$ e $N$ è il punto medio di $EF$.
+> (b) Sia $P$ il punto medio di $AH$ e $Q$ il punto medio di $HE$. Sia $X$ l'intersezione di $AM$ e $CP$, e $Y$ l'intersezione di $HN$ e $EQ$. Trovare l'area di $XY$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_1995#q02|src_bmo1_1995__Q02]]
 
 
 
@@ -88,9 +104,19 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare le espressioni a due e tre variabili nell'intervallo unitario/cubo*
+*Massimo di $x^2 y - y^2 x$ e di un'espressione a tre variabili sul cubo unitario*
 
-> (a) Trova il valore massimo dell'espressione $x^2 y - y^2 x$ quando $0 \le x \le 1$ e $0 \le y \le 1$. b) Trova il valore massimo dell'espressione $$x^2 y + y^2 z + z^2 x - x^2 z - y^2 x - z^2 y$$ quando $0 \le x \le 1$, $0 \le y \le 1$, $0 \le z \le 1$.
+> (a) Trovare il valore massimo dell'espressione $x^2 y - y^2 x$ quando $0 \le x \le 1$ e $0 \le y \le 1$.
+> (b) Trovare il valore massimo dell'espressione
+> $$x^2 y + y^2 z + z^2 x - x^2 z - y^2 x - z^2 y$$
+> quando $0 \le x \le 1$, $0 \le y \le 1$, $0 \le z \le 1$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo1_1995#q03|src_bmo1_1995__Q03]]
 
 
 
@@ -113,9 +139,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*MCN angolare in triangolo rettangolo con bisettori angolari e perpendicolari del piede*
+*Ampiezza dell'angolo $MCN$ in un triangolo rettangolo*
 
-> $ABC$ è un triangolo, angolato a destra a $C$. I bisettori interni degli angoli $BAC$ e $ABC$ incontrano rispettivamente $BC$ e $CA$ a $P$ e $Q$. $M$ e $N$ sono i piedi delle perpendicolari da $P$ e $Q$ a $AB$. Trova l' angolo $MCN$.
+> $ABC$ è un triangolo, rettangolo in $C$. Le bisettrici interne degli angoli $BAC$ e $ABC$ incontrano $BC$ e $CA$ rispettivamente in $P$ e in $Q$. $M$ e $N$ sono i piedi delle perpendicolari da $P$ e da $Q$ ad $AB$. Trovare l'angolo $MCN$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_1995#q04|src_bmo1_1995__Q04]]
 
 
 
@@ -138,6 +171,13 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare ordini di altezza alternati di sette (o otto) nani*
+*Per quanti giorni i sette nani possono andare al lavoro in ordine diverso*
 
-> Le sette nane camminano al lavoro ogni mattina in un unico file. Mentre vanno, cantano la loro famosa canzone, "Alto $-$ basso $-$ alto $-$ basso, è fuori lavoro andiamo". Ogni giorno si allineano in modo che non ci siano tre nani successivamente che aumentino o diminuiscano di altezza. Pertanto, la formazione deve andare su e giù su $\ldots$ o giù su e giù su $\ldots$ Se tutti hanno altezze diverse, per quanti giorni possono andare a lavorare in questo modo se insistono su un ordine diverso ogni giorno? E se anche Biancaneve venisse sempre?
+> I sette nani vanno al lavoro ogni mattina in fila indiana. Lungo la strada cantano la loro famosa canzone: «Alto $-$ basso $-$ alto $-$ basso, si va al lavoro». Ogni giorno si dispongono in modo che tre nani successivi non siano né crescenti né decrescenti in statura. La fila deve quindi andare su-giù-su-giù $\ldots$ oppure giù-su-giù-su $\ldots$. Se hanno tutti stature diverse, per quanti giorni possono andare al lavoro così, se insistono a usare ogni giorno un ordine diverso? E se anche Biancaneve venisse sempre con loro?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_1995#q05|src_bmo1_1995__Q05]]

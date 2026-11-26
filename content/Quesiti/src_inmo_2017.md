@@ -31,11 +31,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Piegato quadrato; il raggio di GCA è uguale alla somma dei raggi di GDF e A'BE*
+*Quadrato piegato; il raggio ininscritto di GCA è uguale alla somma dei raggi ininscritti di GDF e A'BE*
 
-> Nella figura data, $ABCD$ è un foglio quadrato di carta. Si piega lungo $EF$ in modo tale che $A$ vada a un punto $A'$ diverso da $B$ e $C$, sul lato $BC$ e $D$ va a $D'$. La linea $A'D'$ taglia $CD$ in $G$. Indicare che l'inradius del triangolo $GCA'$ è la somma dell'inradius dei triangoli $GD'F$ e $A'BE$.
+> Nella figura data, $ABCD$ è un foglio di carta quadrato. Viene piegato lungo $EF$ in modo che $A$ vada in un punto $A'$ diverso da $B$ e $C$, sul lato $BC$, e che $D$ vada in $D'$. La retta $A'D'$ interseca $CD$ in $G$. Dimostrare che il raggio incircoscritto del triangolo $GCA'$ è la somma dei raggi incircoscritti dei triangoli $GD'F$ e $A'BE$.
 
 ![[src_inmo_2017__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2017#q01|src_inmo_2017__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca le radici di numeri interi di cubo con parametro n*
+*Trovare le radici intere del cubico con parametro n*
 
-> Supponiamo che $n \ge 0$ sia un numero intero e tutte le radici di $x^3 + ax + 4 - (2 \times 2016^n) = 0$ siano numeri interi. Trova tutti i valori possibili di $a$.
+> Supponiamo che $n \ge 0$ sia un numero intero e che tutte le radici di $x^3 + ax + 4 - (2 \times 2016^n) = 0$ siano numeri interi. Determinare tutti i valori possibili di $a$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2017#q02|src_inmo_2017__Q02]]
 
 
 
@@ -85,9 +99,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca triplici (x,a,b) che soddisfino l'equazione frazionaria*
+*Trovare triple (x,a,b) che soddisfano l'equazione della parte frazionaria*
 
-> Trova il numero di triples $(x, a, b)$ dove $x$ è un numero reale e $a, b$ appartiene all'insieme $\{1, 2, 3, 4, 5, 6, 7, 8, 9\}$ in modo tale che $$x^2 - a\{x\} + b = 0,$$ dove $\{x\}$ denota la parte frazionaria del numero reale $x$. (ad esempio $\{1.1\} = 0.1 = \{-0.9\}$.)
+> Trovare il numero di triple $(x, a, b)$ tali che $x$ sia un numero reale e $a, b$ appartengano all'insieme $\{1, 2, 3, 4, 5, 6, 7, 8, 9\}$, con
+> $$x^2 - a\{x\} + b = 0,$$
+> dove $\{x\}$ denota la parte frazionaria del numero reale $x$. (Ad esempio, $\{1.1\} = 0.1 = \{-0.9\}$.)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2017#q03|src_inmo_2017__Q03]]
 
 
 
@@ -110,9 +133,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pentagono converso con angoli uguali e lati interi consecutivi; trovare AB+BC+CD*
+*Pentagono convesso con angoli uguali e lati consecutivi interi; trovare AB+BC+CD*
 
-> Let $ABCDE$ essere un pentagono convex in cui $\angle A = \angle B = \angle C = \angle D = 120^\circ$ e lunghezze laterali sono cinque numeri interi consecutivi in qualche ordine. Trova tutti i valori possibili di $AB + BC + CD$.
+> Sia $ABCDE$ un pentagono convesso in cui $\angle A = \angle B = \angle C = \angle D = 120^\circ$ e le lunghezze dei lati sono cinque interi consecutivi in un certo ordine. Determinare tutti i valori possibili di $AB + BC + CD$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2017#q04|src_inmo_2017__Q04]]
 
 
 
@@ -135,9 +165,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Altitudine perpendicolare ai centri di collegamento delle linee dei subtriangoli*
+*Altezza, piede perpendicolare alla retta che congiunge i centri incircoscritti dei sottotriangoli*
 
-> Il $ABC$ deve essere un triangolo con $\angle A = 90^\circ$ e $AB < AC$. L'altitudine di $AD$ deve essere da $A$ a $BC$. $P$, $Q$ e $I$ indicano rispettivamente gli incentri dei triangoli $ABD$, $ACD$ e $ABC$. Prova che $AI$ è perpendicolare a $PQ$ e $AI = PQ$.
+> Sia $ABC$ un triangolo con $\angle A = 90^\circ$ e $AB < AC$. Sia $AD$ l'altezza condotta da $A$ a $BC$. Siano $P$, $Q$ e $I$ rispettivamente gli incentri dei triangoli $ABD$, $ACD$ e $ABC$. Dimostrare che $AI$ è perpendicolare a $PQ$ e a $AI = PQ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2017#q05|src_inmo_2017__Q05]]
 
 
 
@@ -162,6 +199,15 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integro n che rende x un intero con lati che formano un triangolo di raggio intero*
+*Intero n tale che x sia un intero con lati che formano un triangolo avente raggio inradiato intero*
 
-> Che $n \ge 1$ sia un numero intero e consideri la somma $$x = \sum_{k \ge 0} \binom{n}{2k} 2^{n-2k} \cdot 3^k = \binom{n}{0} 2^n + \binom{n}{2} 2^{n-2} \cdot 3 + \binom{n}{4} 2^{n-4} \cdot 3^2 + \cdots$$ Mostri che $2x - 1$, $2x$, $2x + 1$ formano i lati di un triangolo la cui area e il suo raggio sono anche numeri interi.
+> Sia $n \ge 1$ un numero intero e si consideri la somma
+> $$x = \sum_{k \ge 0} \binom{n}{2k} 2^{n-2k} \cdot 3^k = \binom{n}{0} 2^n + \binom{n}{2} 2^{n-2} \cdot 3 + \binom{n}{4} 2^{n-4} \cdot 3^2 + \cdots$$
+> Dimostrare che $2x - 1$, $2x$, $2x + 1$ sono i lati di un triangolo la cui area e il cui raggio inradiato sono anch'essi numeri interi.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_inmo_2017#q06|src_inmo_2017__Q06]]

@@ -28,9 +28,15 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare angolo BFC in triangolo rettangolo con condizioni bisettori e perpendicolari*
+*Trovare l'angolo BFC in un triangolo rettangolo con le condizioni della bisettrice e della perpendicolare*
 
-> $ABC$ sia un triangolo rettangolo e $D$ un punto su $BC$ tale che $AD \perp BC$. Il bisettore di angolo $\angle DAC$ incontra il segmento $DC$ a $E$. $F$ sia il punto della linea $AE$ in modo tale che $BF \perp AE$. Dato che $\angle BAE = 45^\circ$, trovare la misura di $\angle BFC$.
+> Sia $ABC$ un triangolo rettangolo e $D$ un punto su $BC$ tale che $AD \perp BC$. La bisettrice dell'angolo $\angle DAC$ incontra il segmento $DC$ in $E$. Sia $F$ il punto sulla retta $AE$ tale che $BF \perp AE$. Dato che $\angle BAE = 45^\circ$, determina la misura di $\angle BFC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2020_n2_fx#q01|src_obm_2020_n2_fx__Q01]]
 
 
 
@@ -57,13 +63,20 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova tutte le equazioni su una lavagna dove le cifre cancellate danno due soluzioni integrali*
+*Trovare tutte le equazioni sulla lavagna in cui le cifre cancellate danno due soluzioni intere*
 
 > Su una lavagna si trova il seguente testo:
-> 
+>
 > $$x^2 - 824x + \blacksquare 43 = 0 \text{ has two integer solutions.}$$
-> 
-> Qui $\blacksquare$ rappresenta un certo numero di cifre che sono state cancellate dalla lavagna. Quali sono tutte le possibili equazioni che sono state originariamente scritte sulla lavagna?
+>
+> Qui $\blacksquare$ rappresenta un certo numero di cifre che sono state cancellate dalla lavagna. Quali sono tutte le equazioni che erano state scritte originariamente sulla lavagna?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2020_n2_fx#q02|src_obm_2020_n2_fx__Q02]]
 
 
 
@@ -93,13 +106,22 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il più piccolo x_1 in modo che una sequenza di numeri interi infiniti contenga 2020*
+*Trovare il più piccolo x_1 tale che una successione infinita di interi contenga 2020*
 
-> Considera una sequenza infinita $x_1, x_2, \ldots$ di interi positivi tale che, per ogni intero $n \ge 1$:
-> 
-> \begin{itemize} \item Se $x_n$ è pari, allora $x_{n+1} = \dfrac{x_n}{2}$. \item Se $x_n$ è pari, allora $x_{n+1} = \dfrac{x_n - 1}{2} + 2^{k-1}$, dove $k$ è il numero intero tale che $2^{k-1} \le x_n < 2^k$. # Finire #
-> 
-> Trova il minimo valore possibile di $x_1$ per il quale la sequenza contiene un termine pari a $2020$.
+> Si consideri una successione infinita $x_1, x_2, \ldots$ di interi positivi tale che, per ogni intero $n \ge 1$:
+>
+> \begin{itemize}
+> \item Se $x_n$ è pari, allora $x_{n+1} = \dfrac{x_n}{2}$. \item Se $x_n$ è dispari, allora $x_{n+1} = \dfrac{x_n - 1}{2} + 2^{k-1}$, dove $k$ è l'intero tale che $2^{k-1} \le x_n < 2^k$.
+> \end{itemize}
+>
+> Trovare il valore minimo possibile di $x_1$ per cui la successione contiene un termine uguale a $2020$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2020_n2_fx#q03|src_obm_2020_n2_fx__Q03]]
 
 
 
@@ -128,11 +150,18 @@ level: OBM Nível 2
 
 *Conta i numeri supercilindrici a 4 cifre*
 
-> Un intero positivo è chiamato \textit{cilindrico} se le sue prime e ultime cifre decimali sono uguali e entrambi non sono zero. Ad esempio, $4$ e $4104$ sono cilindrici (dal momento che le loro prime e ultime cifre sono uguali e non zero), ma $10$ non è cilindrica dal momento che la sua ultima cifra è $0$.
-> 
-> Un intero positivo si chiama \textit{supercilindrico} se può essere scritto come la somma di due numeri cilindrici. Ad esempio, $101 = 99 + 2$ e $22 = 11 + 11$ sono supercilindrici, ma $561 = 484 + 77$ non è supercilindrico poiché $484$ non è cilindrico.
-> 
-> Quanti numeri $4$ sono supercilindrici?
+> Un numero intero positivo è detto \textit{cilindrico} se la sua prima e la sua ultima cifra decimale sono uguali e entrambe sono diverse da zero. Ad esempio, $4$ e $4104$ sono cilindrici (poiché la loro prima e la loro ultima cifra sono uguali e diverse da zero), ma $10$ non è cilindrico perché la sua ultima cifra è $0$.
+>
+> Un numero intero positivo è detto \textit{supercilindrico} se può essere scritto come somma di due numeri cilindrici. Ad esempio, $101 = 99 + 2$ e $22 = 11 + 11$ sono supercilindrici, ma $561 = 484 + 77$ non è supercilindrico poiché $484$ non è cilindrico.
+>
+> Quanti numeri di $4$ cifre sono supercilindrici?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2020_n2_fx#q04|src_obm_2020_n2_fx__Q04]]
 
 
 
@@ -155,9 +184,16 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove l'eguaglianza angolare utilizzando circoli di due triangoli in un triangolo acuto*
+*Dimostra l'uguaglianza degli angoli utilizzando le circonferenze circoscritte a due triangoli all'interno di un triangolo acutangolo*
 
-> $ABC$ sia un triangolo acuto con il centro circundante $O$. Il $M$ è il punto medio del $AB$ e $K \ne C$ il secondo punto di intersezione dei circoncircoli dei triangoli $ACK$ e $OMB$. Le linee $CK$ e $OM$ si incontrano a $P$. Prova che $\angle KAP = \angle MCB$.
+> Sia $ABC$ un triangolo acutangolo con circocentro $O$. Sia $M$ il punto medio di $AB$ e sia $K \ne C$ il secondo punto d'intersezione delle circonferenze circoscritte ai triangoli $ACK$ e $OMB$. Le rette $CK$ e $OM$ si incontrano in $P$. Dimostrare che $\angle KAP = \angle MCB$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2020_n2_fx#q05|src_obm_2020_n2_fx__Q05]]
 
 
 
@@ -182,8 +218,15 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova il k per il quale Arnaldo vince un gioco da tavolo a colori 2020x2020*
+*Trovare k per cui Arnaldo vince un gioco da tavolo di colorazione su una griglia 2020x2020*
 
-> $k$ sia un numero intero positivo. Arnaldo e Bernaldo giocano su una tavola $2020 \times 2020$. Inizialmente tutte le celle della lavagna sono vuote. Una mossa consiste nel scegliere una cella vuota e metterci un token blu o rosso. Bernaldo vince se in qualsiasi momento esistono $k$ celle consecutive nella stessa riga o colonna tutte piene di gettoni dello stesso colore. Arnaldo è il primo, e da allora i giocatori si alternano. Arnaldo vince se a un certo punto l'intero tavolo viene riempito senza che Bernaldo vinca.
-> 
-> Trova tutti i valori di $k$ per i quali Arnaldo ha una strategia vincente.
+> Sia $k$ un numero intero positivo. Arnaldo e Bernaldo giocano una partita su una scacchiera di dimensioni $2020 \times 2020$. Inizialmente tutte le caselle della scacchiera sono vuote. Una mossa consiste nel scegliere una casella vuota e collocarvi un gettone blu o rosso. Bernaldo vince se, in qualche momento, esistono $k$ caselle consecutive nella stessa riga o nella stessa colonna, tutte riempite con gettoni dello stesso colore. Arnaldo muove per primo e, da quel momento in poi, i giocatori si alternano. Arnaldo vince se, a un certo punto, l'intera scacchiera viene riempita senza che Bernaldo abbia vinto.
+>
+> Trovare tutti i valori di $k$ per cui Arnaldo ha una strategia vincente.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2020_n2_fx#q06|src_obm_2020_n2_fx__Q06]]

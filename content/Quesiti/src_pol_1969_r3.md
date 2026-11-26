@@ -31,9 +31,18 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I numeri reali soddisfano l'uguaglianza che implica che il quadratico ha radice in (0,1)*
+*I numeri reali soddisfano l'uguaglianza che implica che il polinomio quadratico abbia una radice in (0,1)*
 
-> Prova che se i numeri reali $a, b, c$ soddisfano l'uguaglianza $$\frac{a}{m+2} + \frac{b}{m+1} + \frac{c}{m} = 0$$ per un certo numero positivo $m$, allora l'equazione $ax^2 + bx + c = 0$ ha una radice tra 0 e 1.
+> Dimostrare che, se i numeri reali $a, b, c$ soddisfano l'uguaglianza
+> $$\frac{a}{m+2} + \frac{b}{m+1} + \frac{c}{m} = 0$$
+> Per un certo numero positivo $m$, allora l'equazione $ax^2 + bx + c = 0$ ha una radice compresa tra 0 e 1.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_backward|Backward]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1969_r3#q01|src_pol_1969_r3__Q01]]
 
 
 
@@ -57,9 +66,17 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la somma minima delle deviazioni assolute da numeri reali distinti*
+*Trovare il minimo della somma degli scarti assoluti da numeri reali distinti*
 
-> Date i numeri reali $a_1, a_2, \ldots, a_n$ distinti, trovare il valore minimo della funzione $$y = |x - a_1| + |x - a_2| + \cdots + |x - a_n|, \quad x \in \mathbb{R}.$$
+> Dati numeri reali distinti $a_1, a_2, \ldots, a_n$, determina il valore minimo della funzione
+> $$y = |x - a_1| + |x - a_2| + \cdots + |x - a_n|, \quad x \in \mathbb{R}.$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_pol_1969_r3#q02|src_pol_1969_r3__Q02]]
 
 
 
@@ -84,9 +101,18 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I numeri naturali con qr-ps=1 e p/q<a/b<r/s implicano b≥q+s*
+*I numeri naturali tali che qr-ps=1 e p/q<a/b<r/s implicano b≥q+s*
 
-> Indicare che se i numeri naturali $a, b, p, q, r, s$ soddisfano le condizioni $$qr - ps = 1 \quad \text{and} \quad \frac{p}{q} < \frac{a}{b} < \frac{r}{s},$$ $b \ge q + s$.
+> Dimostrare che, se i numeri naturali $a, b, p, q, r, s$ soddisfano le condizioni
+> $$qr - ps = 1 \quad \text{and} \quad \frac{p}{q} < \frac{a}{b} < \frac{r}{s},$$
+> Poi $b \ge q + s$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_pol_1969_r3#q03|src_pol_1969_r3__Q03]]
 
 
 
@@ -109,9 +135,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Una figura con esattamente n assi di simmetria nello spazio richiede n odd*
+*Una figura che ha esattamente n assi di simmetria nello spazio richiede che n sia dispari*
 
-> Prova che se una figura ha esattamente $n$ assi di simmetria nello spazio, allora $n$ deve essere impar.
+> Dimostrare che, se una figura nello spazio ha esattamente $n$ assi di simmetria, allora $n$ deve essere dispari.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1969_r3#q04|src_pol_1969_r3__Q04]]
 
 
 
@@ -134,9 +167,16 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un ottagono equangolare con lati razionali ha un centro di simmetria*
+*Un ottagono equiangolo con lati razionali ha un centro di simmetria*
 
-> Prova che un ottagono, i cui angoli sono tutti uguali e tutti i lati hanno una lunghezza razionale, ha un centro di simmetria.
+> Dimostrare che un ottagono, il cui angoli sono tutti uguali e i cui lati hanno tutti lunghezza razionale, possiede un centro di simmetria.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_pol_1969_r3#q05|src_pol_1969_r3__Q05]]
 
 
 
@@ -159,6 +199,13 @@ level: Olimpiade Polacca Round 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine quale n permette un poliedro con esattamente n bordi*
+*Determinare quali n consentono l'esistenza di un poliedro con esattamente n spigoli*
 
-> Per quali valori di $n$ esiste un poliedro con bordi $n$?
+> Per quali valori di $n$ esiste un poliedro con $n$ spigoli?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_pol_1969_r3#q06|src_pol_1969_r3__Q06]]

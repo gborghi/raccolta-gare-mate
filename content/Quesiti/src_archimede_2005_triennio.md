@@ -35,17 +35,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies n with n^3+2n^2+n perfect square*
+*Integers n for which n^3+2n^2+n is a perfect square*
 
-> How many positive integers are n such that n3+2n2+n is a perfect square?
+> How many positive integers n are there such that n3+2n2+n is a perfect square?
 >
-> - **(A)** No one.
-> - **(B)** at least 1, but not more than 4,
-> - **(C)** at least 5, but not more than 9,
-> - **(D)** at least 10 but not more than 20,
-> - **(E)** None of the previous ones.
+> - **(A)** none,
+> - **(B)** at least 1, but no more than 4,
+> - **(C)** at least 5, but no more than 9,
+> - **(D)** at least 10 but no more than 20,
+> - **(E)** none of the above.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2005_triennio#q02|src_archimede_2005_triennio__Q02]]
 
 
 
@@ -76,17 +79,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Numbers of 4 digits with initial 1 and three digits equal*
+*Four-digit numbers starting with 1 and with three equal digits*
 
-> How many four-digit numbers have a first digit of 1 and at least three digits equal to each other?
+> How many 4-digit numbers are there whose first digit is 1 and that have at least 3 digits equal to one another?
 >
 > - **(A)** 36,
 > - **(B)** 37,
 > - **(C)** 39,
 > - **(D)** 40,
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casi_conteggio|Counting by cases]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2005_triennio#q04|src_archimede_2005_triennio__Q04]]
 
 
 
@@ -115,17 +122,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Natural numbers n such that n divides n+30*
+*Natural numbers n such that 2n divides n+30*
 
-> How many natural numbers are n such that 2n divides n + 30?
+> How many natural numbers n are there such that 2n divides n + 30?
 >
-> - **(A)** One of them.
+> - **(A)** one,
 > - **(B)** two,
 > - **(C)** three,
 > - **(D)** four,
-> - **(E)** More than four.
+> - **(E)** more than four.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+[[Quesiti/src_archimede_2005_triennio#q06|src_archimede_2005_triennio__Q06]]
 
 
 
@@ -155,9 +165,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies n with n-52 and n+53 perfect squares*
+*Integers n such that n−52 and n+53 are perfect squares*
 
-> How many integers are n such that n −52 and n + 53 are two perfect squares?
+> How many integers n are there such that n − 52 and n + 53 are both perfect squares?
 >
 > - **(A)** 1,
 > - **(B)** 2,
@@ -165,7 +175,11 @@ level: triennio
 > - **(D)** 4,
 > - **(E)** 8.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_probabilita|Probability and statistics]]
+**Method:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2005_triennio#q09|src_archimede_2005_triennio__Q09]]
 
 
 
@@ -196,17 +210,22 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Values of a with 2a^4-4ab+b^2+2=0*
+*Values of a for which 2a^4-4ab+b^2+2=0*
 
-> a and b are two real numbers such that 2a4 −4ab + b2 + 2 = 0 . How many distinct values can you assume at?
+> a and b are two real numbers such that
+> 2a4 −4ab + b2 + 2 = 0 .
+> How many distinct values can a take?
 >
 > - **(A)** 1,
 > - **(B)** 2,
 > - **(C)** 3,
 > - **(D)** 4,
-> - **(E)** there is no pair (a, b) that verifies the condition.
+> - **(E)** there is no pair (a, b) that satisfies the condition.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+[[Quesiti/src_archimede_2005_triennio#q10|src_archimede_2005_triennio__Q10]]
 
 
 
@@ -242,11 +261,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of guessing 10 responses with constraints*
+*Probability of guessing 10 answers with constraints*
 
-> A mathematics competition consists of 10 multiple-choice questions, each with four possible answers marked with the letters A, B, C and D (for each question there is one and only one correct answer). Charles learns that the list of correct answers contains three letters A, three letters B, two letters C, and two letters D. What is the probability that Charles, choosing at random a list that he has
->
-> Does this feature answer all the questions correctly?
+> A mathematics contest consists of 10 multiple-choice questions, each with four possible answers marked with the letters A, B, C and D (for each question there is exactly one correct answer). Carlo finds out that the list of correct answers contains three letters A, three letters B, two letters C and two letters D. What is the probability that Carlo, choosing at random a list that has this characteristic, answers all the questions correctly?
 >
 > - **(A)** 1/26500,
 > - **(B)** 1/25200,
@@ -254,7 +271,11 @@ level: triennio
 > - **(D)** 1/21200,
 > - **(E)** 1/20800.
 
-**Answer:** B
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2005_triennio#q12|src_archimede_2005_triennio__Q12]]
 
 
 
@@ -284,17 +305,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-The actual solutions of ∆x−2 are −4 = 1/ ∆x−3 ∆x−1
+*Real solutions of |x-2|-4=1/|x-3|*
 
-> How many real numbers x solve the equation x −2 bearing −4 ? 1/bearingx −3 bearing
+> How many real numbers x solve the equation |x −2| −4 = 1/|x −3| ?
 >
-> - **(A)** No one.
+> - **(A)** none,
 > - **(B)** 2,
 > - **(C)** 3,
 > - **(D)** 4,
-> - **(E)** More than four.
+> - **(E)** more than four.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2005_triennio#q14|src_archimede_2005_triennio__Q14]]
 
 
 
@@ -327,9 +352,9 @@ The actual solutions of ∆x−2 are −4 = 1/ ∆x−3 ∆x−1
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times does the figure 1 appear from 1 to 2005*
+*How many times does the digit 1 appear from 1 to 2005*
 
-> Andrea did not do the homework and as punishment the teacher assigned him the task of writing all the numbers between 1 and 2005, including extreme numbers (each number must be written only once). How many times will Andrea have to write the number one?
+> Andrea did not do his homework and, as punishment, his teacher assigns him the task of writing in his notebook all the numbers between 1 and 2005, endpoints included (each number must be written only once). How many times will Andrea have to write the digit 1?
 >
 > - **(A)** 1490,
 > - **(B)** 1491,
@@ -337,7 +362,11 @@ The actual solutions of ∆x−2 are −4 = 1/ ∆x−3 ∆x−1
 > - **(D)** 1601,
 > - **(E)** 1610.
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2005_triennio#q16|src_archimede_2005_triennio__Q16]]
 
 
 
@@ -369,17 +398,20 @@ The actual solutions of ∆x−2 are −4 = 1/ ∆x−3 ∆x−1
 <div class="qlang-split" data-lang="en"></div>
 
 
-Girls who lied at a round table
+*Girls who certainly lied at a round table*
 
-> A group of girls and boys, 24 in all, attend a banquet and all sit around a round table. Every girl says, "There's a guy sitting next to me". Knowing that the number of girls is twice that of boys, how many girls have certainly lied?
+> A group of girls and boys, 24 in all, takes part in a banquet and they all sit around a round table. Each girl says: "There is a boy sitting next to me". Given that the number of girls is twice the number of boys, how many girls have certainly lied?
 >
 > - **(A)** 0,
 > - **(B)** 4,
 > - **(C)** 8,
 > - **(D)** 16,
-> - **(E)** the information provided is not sufficient to provide a response.
+> - **(E)** it is not possible to answer on the basis of the data given alone.
 
-**Answer:** A
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2005_triennio#q17|src_archimede_2005_triennio__Q17]]
 
 
 
@@ -409,17 +441,20 @@ Girls who lied at a round table
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Polynomial with p(x+1)-p(x-1)=p(x)*
+*Polynomial satisfying p(x+1)-p(x-1)=p(x)*
 
-> The polynomial p is defined by p(x) = ax2005 + x + b, with a and b real numbers. For what values of a and b do we have that p(x + 1) −p(x −1) = p(x) for every real value of x?
+> The polynomial p is defined by p(x) = ax2005 + x + b, with a and b real numbers. For which values of a and b does p(x + 1) −p(x −1) = p(x) hold for every real value of x?
 >
 > - **(A)** a = 0, b = 2,
-> - **(B)** to any and b = 0,
-> - **(C)** a = 1 and b any,
+> - **(B)** any a and b = 0,
+> - **(C)** a = 1 and any b,
 > - **(D)** a = b = 0,
 > - **(E)** for no values of a and b.
 
-**Answer:** E
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+[[Quesiti/src_archimede_2005_triennio#q18|src_archimede_2005_triennio__Q18]]
 
 
 
@@ -476,41 +511,24 @@ Girls who lied at a round table
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of internal triangle areas PQR and equilateral ABC*
+*Ratio of the areas of triangle PQR and equilateral triangle ABC*
 
 ![[src_archimede_2005_triennio__prob19.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=0.9]
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (5,0);
-  \coordinate (C) at (2.5,4.330);
-  \coordinate (P) at (4,0);
-  \coordinate (Q) at (3,3.464);
-  \coordinate (R) at (1,1.732);
-  \draw (A) -- (B) -- (C) -- cycle;
-  \draw (P) -- (Q) -- (R) -- cycle;
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above] at (C) {$C$};
-  \node[below] at (P) {$P$};
-  \node[above right] at (Q) {$Q$};
-  \node[left] at (R) {$R$};
-  \fill (P) circle (1.2pt); \fill (Q) circle (1.2pt); \fill (R) circle (1.2pt);
-\end{tikzpicture}
-\end{document}
-```
-
-> The ABC triangle in the figure is equilateral and has a side of 5 m. Knowing that AP = 4 m, BQ = 4 m, CR = 3 m, calculate the ratio between the area of the PQR triangle and the area of the ABC triangle.
+> Triangle ABC in the figure is equilateral and has side 5 m. Given that AP = 4 m, BQ = 4 m and CR = 3 m, find the ratio of the area of triangle PQR to the area of triangle ABC.
 >
 > - **(A)** 2 5,
 > - **(B)** 9 25,
 > - **(C)** 11 20,
 > - **(D)** 3 7,
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_archimede_2005_triennio#q19|src_archimede_2005_triennio__Q19]]
 
 
 
@@ -542,9 +560,10 @@ Girls who lied at a round table
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final figure of a_2005 in a recurring sequence*
+*Final digit of a_2005 in a recursive sequence*
 
-> A sequence of numbers a0, a1, a2, . . . , an, . . . has this property: the first two terms are equal to 1: a0 = a1 = 1, and, for every n greater than or equal to one, an+1 = n(an + an−1) (so, for example, a2 = 1(a1 + a0) = 1 · 2 = 2). What figure does 2005 end with?
+> A sequence of numbers a0, a1, a2, . . . , an, . . . has this property: the first two terms are equal to 1: a0 = a1 = 1, and, for every n greater than or equal to one,
+> an+1 = n(an + an−1) (so, for example, a2 = 1(a1 + a0) = 1 · 2 = 2). With which digit does a2005 end?
 >
 > - **(A)** 0,
 > - **(B)** 2,
@@ -552,7 +571,10 @@ Girls who lied at a round table
 > - **(D)** 6,
 > - **(E)** 8.
 
-**Answer:** A
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
+[[Quesiti/src_archimede_2005_triennio#q20|src_archimede_2005_triennio__Q20]]
 
 
 
@@ -586,17 +608,20 @@ Girls who lied at a round table
 <div class="qlang-split" data-lang="en"></div>
 
 
-Colours of balloons purchased by four girls
+*Colors of the balloons bought by four girls*
 
-> Four little girls, Alice, Bianca, Cecilia, and Daniela, decide to buy a head-on balloon from a salesman who only has red and blue balloons. They'll buy the balloon one by one: first Alice, then Bianca, then Cecilia and finally Daniela. Bianca says, "If Alice buys it red, I'll buy it red, too". Cecilia says, "I'll buy it in the same color as Bianca". Daniela says, "If Alice buys it blue, I'll buy it in the same color as Cecilia". Which of the following is certainly true?
+> Four girls, Alice, Bianca, Cecilia and Daniela, decide to buy one balloon each from a seller who has only red and blue balloons. They will buy them one after another: first Alice, then Bianca, then Cecilia and finally Daniela. Bianca says: "If Alice buys a red one, I will buy a red one too". Cecilia says: "I will buy one the same color as Bianca's". Daniela says: "If Alice buys a blue one, I will buy one the same color as Cecilia's". Which of the following statements is certainly true?
 >
-> - **(A)** It's impossible for four girls to buy a red balloon.
-> - **(B)** At least three girls will buy a balloon of the same color,
+> - **(A)** it is impossible for the four girls to buy a red balloon,
+> - **(B)** at least three girls will buy a balloon of the same color,
 > - **(C)** Daniela and Bianca will buy a balloon of the same color,
-> - **(D)** At least two girls will buy a red balloon,
-> - **(E)** None of the above statements are certainly true.
+> - **(D)** at least two girls will buy a red balloon,
+> - **(E)** none of the previous statements is certainly true.
 
-**Answer:** B
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+[[Quesiti/src_archimede_2005_triennio#q21|src_archimede_2005_triennio__Q21]]
 
 
 
@@ -626,17 +651,20 @@ Colours of balloons purchased by four girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ipotency of the triangle rectangle with minimum perimeter*
+*Hypotenuse of the right triangle of least perimeter*
 
-> Between rectangular triangles with an area of 6 m2 the minimum perimeter has the length hypotenuse
+> Among the right triangles of area 6 m², the one of least perimeter has hypotenuse of length
 >
 > - **(A)** 3 m,
 > - **(B)** 3 √ 3 m,
 > - **(C)** 2 √ 6 m,
 > - **(D)** 4 √ 3 m,
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+[[Quesiti/src_archimede_2005_triennio#q22|src_archimede_2005_triennio__Q22]]
 
 
 
@@ -669,9 +697,11 @@ Colours of balloons purchased by four girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Words of 4 letters without M after a B*
+*Four-letter words with no M after a B*
 
-> How many four-letter words (even meaningless) can be written using only the letters A, B, E, M, O so that none of the letters following a B (going from left to right) is an M? (So, for example, ABEB must be counted but OBAM not).
+> How many words (even meaningless ones) of four letters can be written
+> using only the letters A, B, E, M, O so that none of the letters after a B (reading
+> from left to right) is an M? (So, for example, ABEB must be counted but OBAM no).
 >
 > - **(A)** 43 · 5,
 > - **(B)** 42 · 52,
@@ -679,7 +709,11 @@ Colours of balloons purchased by four girls
 > - **(D)** 29,
 > - **(E)** 54.
 
-**Answer:** D
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2005_triennio#q23|src_archimede_2005_triennio__Q23]]
 
 
 
@@ -714,17 +748,22 @@ Colours of balloons purchased by four girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance from the top of a tetrahedron after rotation*
+*Distance of a tetrahedron vertex after a rotation*
 
-> A regular tetrahedron whose beam measures 6 √ 3 cm is resting on a plane p (i.e. a face is contained in p); we indicate with V the vertex that does not belong to p. The tetrahedron shall be rotated 90° by a rotation having the straight axis containing one of the axles resting on p. Calculate how far from plane p is the vertex V after rotation.
+> A regular tetrahedron whose edge measures 6
+> √
+> 3 cm rests on a plane p (that is, one face lies in p); denote by V the vertex that does not belong to p. The tetrahedron is rotated through 90° by a rotation whose axis is the line containing one of the edges that rest on p. Find the distance from the plane p of the vertex V after the rotation.
 >
 > - **(A)** 1 √ 3 cm,
 > - **(B)** 2 3 cm,
 > - **(C)** 3 cm,
 > - **(D)** 3 √ 3 cm,
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2005_triennio#q24|src_archimede_2005_triennio__Q24]]
 
 
 
@@ -757,9 +796,12 @@ Colours of balloons purchased by four girls
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Estimate of a product of equal fractions on odd numbers*
+*Estimating a product of even-to-odd fractions*
 
-> Both x = 2 · 4 · 6 · 2004 · 2006 1 · 3 · 5 · 2003 · 2005 . So, what?
+> Let
+> x = 2 · 4 · 6 · · 2004 · 2006
+> 1 · 3 · 5 · · 2003 · 2005 .
+> Then:
 >
 > - **(A)** x < 4√ 2006,
 > - **(B)** 4√ 2006 < x < 3√ 2006,
@@ -767,4 +809,8 @@ Colours of balloons purchased by four girls
 > - **(D)** √ 2006 < x < 2006,
 > - **(E)** x > 2006.
 
-**Answer:** D
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2005_triennio#q25|src_archimede_2005_triennio__Q25]]

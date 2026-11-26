@@ -31,13 +31,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of circumscribed star belts up to 2001 radius*
+*Number of bounded star belts up to radius 2001*
 
 > **The IMO Confederation** (15 points)
-> 
-> The IMO Confederation is a peaceful alien civilization located in the Asip Galaxy. The galaxy is made up of $n$ groups of stars, each of which forms a circle. The smallest circle (called $I_1$) has a radius of 1 Imoparsec. If a square is circled to it and a circle is circled to it, the second star belt ($I_2$) is found. Similarly starting from $I_2$ you get $I_3$, and then $I_4$, $I_5$, $\ldots$ The last belt is the only one with a greater radius than 2001 Imoparsec. How many are in all the belts?
+>
+> The IMO Confederation is a peaceful alien civilization located in the Asip Galaxy. The galaxy consists of $n$ groups of stars, each of which forms a circle. The smallest circle (called $I_1$) has a radius of 1 Imoparsec. If a square is circumscribed around it and a circle is circumscribed around that square, the second star belt ($I_2$) is found. In a similar manner, starting from $I_2$, $I_3$ is obtained, and then $I_4$, $I_5$, $\ldots$. The last belt is the only one with a radius greater than 2001 Imoparsec. How many belts are there in total?
 
-**Answer:** 0023
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q01|src_cesenatico_2001_squadre__Q01]]
 
 
 
@@ -66,15 +70,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-The position of the planet (24.25) in the order of the planets
+*Position of the planet (24.25) in the ordering of the planets*
 
-> This is the total number of points for each of the following categories:
-> 
-> The confederation's planets are identified by a pair of natural numbers. The capital (the planet of origin of civilization) is $(0,0)$ and the first colonized planet is identified by the pair $(1,0)$, the second by $(0,1)$, the third by $(2,0)$, the fourth by $(1,1)$ and so on. What position does the planet $(24,25)$ occupy in the history of the Imo-colonized planets?
-> 
-> (NB: More formally $(a,b)$ comes before $(c,d)$ if and only if: $a+b < c+d$ or $a+b = c+d$ and $a > c$.)
+> **Toponymy** (20 points)
+>
+> The planets of the Confederation are identified by a pair of natural numbers. The capital (the civilization's home planet) is $(0,0)$, and the first planet to be colonized is identified by the pair $(1,0)$, the second by $(0,1)$, the third by $(2,0)$, the fourth by $(1,1)$, and so on. What position does the planet $(24,25)$ occupy in the history of the planets colonized by the Imo?
+>
+> (NB: More formally, $(a,b)$ comes before $(c,d)$ if and only if: $a+b < c+d$ or $a+b = c+d$ and $a > c$.)
 
-**Answer:** 1250
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q02|src_cesenatico_2001_squadre__Q02]]
 
 
 
@@ -99,13 +108,17 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Equipment of the damaged ship distributable between four ships*
+*Crew of the damaged ship, assignable among four ships*
 
-> **Wretched explorers** (10 points)
-> 
-> Five sunken spaceships are returning home from a voyage of exploration in our galaxy and one of them has just suffered irreparable damage. The crew of this ship is transferred to the other four and when these ships resume their journey each has the same number of people on board. The captain of the ship failing realizes that if his crew had been less numerous it would not have been possible to distribute it among the ships in order to obtain the same result. Since at the start of the voyage the four healthy ships contained 109, 49, 267, and 278 imes, how many crew members were on the wrecked ship?
+> **Clumsy Explorers** (10 points)
+>
+> Five Imesi spaceships are returning home after an exploration voyage through our galaxy, and one of them has just suffered an irreparable breakdown. The crew of this ship is transferred to the other four, and when these ships resume their journey, each has the same number of people aboard. The captain of the damaged ship realizes that if his crew had been smaller, it would not have been possible to distribute it among the ships in such a way as to achieve the same result. Since at the start of the voyage the four healthy ships held 109, 49, 267, and 278 Imesi, how many are the crew members of the damaged ship?
 
-**Answer:** 0409
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q03|src_cesenatico_2001_squadre__Q03]]
 
 
 
@@ -130,13 +143,17 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum perimeter of a triangle with double angle and side 55*
+*Maximum perimeter of a triangle with a double angle and a side of 55*
 
 > **Imontecitorio** (60 points)
-> 
-> The parliament of the confederation has as its base a triangle in which one angle is twice another. All sides of the triangle have integer length and one measures 55 imometri. What can the perimeter of the building be at most?
+>
+> The confederation's parliament is based on a triangle in which one angle is twice another. All sides of the triangle have integer lengths, and one side measures 55 imometers. What is the maximum possible perimeter of the building?
 
-**Answer:** 1540
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q04|src_cesenatico_2001_squadre__Q04]]
 
 
 
@@ -183,7 +200,7 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*DC length in rectangular triangle with whole sides*
+*Length of the hypotenuse in a right triangle with integer sides*
 
 ![[src_cesenatico_2001_squadre__prob5.png]]
 
@@ -204,13 +221,18 @@ The position of the planet (24.25) in the order of the planets
 \end{document}
 ```
 
-> The park** (40 points)
-> 
-> In the park in front of the Parliament there is a rectangular triangle-shaped awning cut in two by the road leading to the entrance to the Senate (see figure). The sides of the hood, the road section $AD$ and the sides $BD$ and $DC$ are of full length and $BC$ measures 40 mm. How many imometers measure $DC$ (write 0 if the data is insufficient to solve the problem)?
-> 
+> **The Park** (40 points)
+>
+> In the park in front of Parliament, there is a flowerbed shaped like a right-angled triangle, split into two parts by the road leading to the Senate entrance (see figure). The sides of the flowerbed, the stretch of road $AD$, and the sides $BD$ and $DC$ have integer lengths, and $BC$ measures 40 imometres. How many imometres does $DC$ measure? (Write 0 if the data are insufficient to solve the problem.)
+>
 > (see figure)
 
-**Answer:** 0020
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q05|src_cesenatico_2001_squadre__Q05]]
 
 
 
@@ -260,39 +282,42 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*exact answer to the numeric crossword*
+*Correct answer to the number crossword*
 
 ![[src_cesenatico_2001_squadre__prob6.png]]
 
-> Other readings**(65 points)
-> 
-> One of the most controversial measures of the Senate this month is a law banning the publication of crosswords. Some student associations have launched the monthly "Contestation" cross-number to protest.
-> 
+> **Strange Laws** (65 points)
+>
+> One of the most contested measures in the Imese Senate is a law prohibiting the publication of crossword puzzles. In protest, some student associations launched the crucinumero in the monthly magazine "Contestazione".
+>
 > (see figure)
-> 
-> The value of the underlying assets shall be the sum of all the assets of the institution.
-> 
-> (1) The exact answer to this game.
-> 
-> (2) It is a prime number, equal to the product of more consecutive primes less 1 (e.g. $5 \times 7 \times 11 - 1$, even if this is not a prime number).
-> 
-> (3) Product of three consecutive numbers (e.g. $4 \times 5 \times 6$).
-> 
+>
+> **Across**
+>
+> (1) The correct answer to this puzzle.
+>
+> (2) It is a prime number equal to the product of several consecutive primes minus 1 (example $5 \times 7 \times 11 - 1$, even though this is not a prime number).
+>
+> (3) The product of three consecutive numbers (example $4 \times 5 \times 6$).
+>
 > (4) It is a prime number.
-> 
-> The manufacturer shall provide the manufacturer with the following information:
-> 
-> (1) Sum of two cubes (of natural numbers, of course).
-> 
-> (2) 4-digit palindrome number power of a prime (a palindrome number is a number that does not change if read from right to left).
-> 
+>
+> **Down**
+>
+> (1) The sum of two cubes (of natural numbers, of course).
+>
+> (2) A 4-digit palindromic number that is a power of a prime (a palindromic number is a number that does not change when read from right to left).
+>
 > (3) It is a prime number.
-> 
-> (4) 3 vertically to the square.
-> 
-> (NB: The answer to any of the definitions can also be a number less than 1000. If one of the answers should be, for example, 13, enter 0013 in the table)
+>
+> (4) The square of 3 down.
+>
+> (NB: The answer to any of the definitions may also be a number less than 1000. If one of the answers were, for example, 13, enter 0013 in the grid.)
 
-**Answer:** 7100
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q06|src_cesenatico_2001_squadre__Q06]]
 
 
 
@@ -318,13 +343,18 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mode of payment 50 with three different banknotes*
+*Ways to pay 50 using three different banknotes*
 
-> This is the total number of subscriptions.
-> 
-> To subscribe to the contest, you must pay 50 shields to the Free Students' Association. In the confederation you can find banknotes of any value from 1 to 100 shields. How many ways can an Imese pay for a contest subscription using three different bills?
+> **Subscriptions** (45 points)
+>
+> To subscribe to "Contestazione", one must pay 50 Scudi to the Liberi Studenti Imesi Association. Within the confederation, banknotes of every denomination from 1 to 100 Scudi can be found. In how many ways can an Imese pay the subscription to "Contestazione" using three different banknotes?
 
-**Answer:** 0184
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q07|src_cesenatico_2001_squadre__Q07]]
 
 
 
@@ -349,13 +379,17 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Decimal figures of the product arcs after 2001 biset movements*
+*Decimal digits of the product arcs after 2001 bisector movements*
 
-> Playing games... (**)
-> 
-> The newspapers are full of articles on loneliness and hobbies. Here's one of them. Starting with three points on a circumference; one move consists of tracing the angles of the triangle detected by the three points and considering the points that these angles intercept on the circumference. Xam begins to play with points that on the circumference identify arcs of length 1, 2 and 3. Xam stops after the 2001 move. How many digits after the comma does the product of the lengths of the three arcs identified by the last points drawn have?
+> **Games...** (25 points)
+>
+> Monthly periodicals are full of columns about solitaire games and pastimes. Here's one. You start with three points on a circle; a move consists of drawing the angle bisectors of the triangle formed by the three points and considering the points where these bisectors intersect the circle. Xam starts playing with points on the circle that determine arcs of lengths 1, 2, and 3. Xam stops after 2001 moves. How many digits appear after the decimal point in the product of the lengths of the three arcs determined by the last points drawn?
 
-**Answer:** 4001
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q08|src_cesenatico_2001_squadre__Q08]]
 
 
 
@@ -382,11 +416,15 @@ The position of the planet (24.25) in the order of the planets
 
 *Maximum number of piles of stones with union and division*
 
-> This appropriation is intended to cover expenditure relating to:
-> 
-> Here's another one. The following operations are permitted: two can be joined and one can be divided into two equal piles (if the number of its stones is equal). Assuming Obob leaves with 3 piles made of 441, 1437, and 327 stones respectively, what is the maximum number of piles he can come up with?
+> **...and Pastimes** (30 points)
+>
+> Here's another one. You start with a certain number of piles of stones, and the following operations are allowed: you can combine two piles, and you can split one pile into two equal piles (if the number of stones in it is even). Suppose Obob starts with 3 piles containing 441, 1437, and 327 stones respectively—what is the maximum number of piles Obob can end up with?
 
-**Answer:** 0735
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q09|src_cesenatico_2001_squadre__Q09]]
 
 
 
@@ -420,21 +458,26 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Most known polynomial term based on 11 for whole roots*
+*Maximum known degree of a base-11 polynomial with integer roots*
 
-> **Ancient civilizations** (60 points)
-> 
-> One of the most important problems of Imese archaeology is the deciphering of the numbers of the Qwghlm civilization, whose writing is quite well known. It is assumed that the Qwghlmians used a base 11 system, having 11 tentacles. A brilliant archaeologist just found a page in an old math book that said:
-> 
-> "Using the Rtennius method [NDR: a well-known Qwghlmian mathematician] we conclude that the roots of the polynomial
-> 
+> **Ancient Civilizations** (60 points)
+>
+> One of the most important problems in Imese archaeology is the decipherment of the numbers of the Qwghlm civilization, whose writing is fairly well known. It is taken for granted that the Qwghlmians used a base-11 system, since they had 11 tentacles. A brilliant archaeologist has just found a page from an old mathematics notebook bearing the following:
+>
+> "Using Rtennio's method [N.B.: a well-known Qwghlmian mathematician], it follows that the roots of the polynomial
+>
 > $$x^4 - \Lambda\Gamma\, x^2 \cdots x + \cdots = 0$$
-> 
-> They're all whole".
-> 
-> The Greek letters represent two different unknown Qwghlmian figures. Calculate the maximum value that the known term can assume.
+>
+> are all integers"
+>
+> The Greek letters represent two different unknown Qwghlmian digits. Calculate the maximum possible value of the constant term.
 
-**Answer:** 3024
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q10|src_cesenatico_2001_squadre__Q10]]
 
 
 
@@ -460,13 +503,18 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum radius of the conical roof covering the house per month*
+*Minimum radius of the conical roof covering the Imese house*
 
-> This is the total amount of the contribution from the Union to the programme.
-> 
-> The typical imesis house is made up of three square chambers of 10 mm side length connected by a triangular-shaped compartment, so that each side of this compartment coincides with one side of one of the chambers. The roof is a straight circular cone. What is the minimum radius that the base of the roof must have to cover the entire house? (Only the full part of the number found is indicated in the answer)
+> **Architecture** (20 points)
+>
+> The typical Ime house consists of three square rooms, each with a side length of 10 imometres, connected by a triangular-shaped space such that each side of this space coincides with a side of one of the rooms. The roof is a right circular cone. What is the minimum radius that the base of the roof must have for the entire house to be covered? (In your answer, state only the integer part of the number found.)
 
-**Answer:** 0013
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q11|src_cesenatico_2001_squadre__Q11]]
 
 
 
@@ -491,13 +539,17 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length less segment on rectangular clock*
+*Shorter length of the segment on a rectangular watch*
 
-> Furniture ** (40 points)
-> 
-> The wall clocks in use in the Confederation are all in the shape of a rectangle having the angle between the $45°$ diagonals. The upper side is parallel to the ground, while the lower side measures 1224 impolite. There is only a long handful of hours that moves like ours and after half a day he has made an exact turn. In the capital, a day lasts 20 hours; at this time it is one quarter and the bidding point identifies a point that divides the main side of the rectangle into two segments. What is the length of the lesser of the two segments?
+> **Furnishings** (40 points)
+>
+> All wall clocks in use in the confederation are rectangular, with the angle between the diagonals equal to $45°$. The longer side is parallel to the ground, while the shorter side measures 1224 imopollici. There is only one long hour hand, which moves like ours and completes exactly one full turn after half a day. In the capital, a day lasts 20 hours; right now it is a quarter past one, and the hand points to a point that divides the longer side of the rectangle into two segments. What is the length of the shorter of the two segments?
 
-**Answer:** 0865
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q12|src_cesenatico_2001_squadre__Q12]]
 
 
 
@@ -522,13 +574,17 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum symbols to represent 2001 (increase or x7)*
+*Minimum number of symbols to represent 2001 (increment or x7)*
 
-> The following is the list of countries in the world which have been granted the right to vote:
-> 
-> Another ancient people that existed before the birth of the confederation represented each number by a sequence of two symbols: $\circ$ and $\triangle$. The $\circ$ symbol at the end of a sequence meant adding a unit, while the $\triangle$ symbol meant multiplying by 7. For example, the sequence $\circ\circ\circ\circ\triangle\circ$ represented the number 29. What is the minimum number of symbols needed to represent the number 2001?
+> **Alternative Civilizations** (30 points)
+>
+> Another ancient people that existed before the birth of the confederation represented each number by a sequence of two symbols: $\circ$ and $\triangle$. The symbol $\circ$ at the end of a sequence meant adding one unit, while the symbol $\triangle$ meant multiplying by 7. For example, the sequence $\circ\circ\circ\circ\triangle\circ$ represented the number 29. What is the minimum number of symbols needed to represent the number 2001?
 
-**Answer:** 0024
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q13|src_cesenatico_2001_squadre__Q13]]
 
 
 
@@ -554,13 +610,18 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bisexual years (sum of figures 7) between 0 and 5000*
+*Leap years (sum of digits = 7) between year 0 and 5000*
 
-> The following table shows the number of calendar days: ** Calendars** (30 points)
-> 
-> In the IMES calendar, even-numbered years are those corresponding to numbers whose sum of digits is 7 (for example, the year 1060 is even-numbered). How many leap years have there been between year zero and year 5000?
+> **Calendar** (30 points)
+>
+> In the Imese calendar, leap years are those corresponding to numbers whose digits sum to 7 (for example, the year 1060 is a leap year). How many leap years have there been between year zero and year 5000?
 
-**Answer:** 0110
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q14|src_cesenatico_2001_squadre__Q14]]
 
 
 
@@ -585,13 +646,17 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum area of rectangular pool with triangular sidewalk*
+*Maximum area of a rectangular pool with a triangular path*
 
-> This is the total amount of the contribution from the Union to the programme.
-> 
-> Confederation president Ocram Itrof wants to make a pool in his villa garden. Because he doesn't like too complicated geometric figures, he decides that his pool will be rectangular, just like his garden is rectangular. In addition, he would like to put a three-lane road around the basin to form a triangle. Considering the width of the alley is negligible, what will be the base area of the pool (in $\text{im}^2$) at most if the garden extends for $3500\ \text{im}^2$?
+> **Casabianca** (30 points)
+>
+> The president of the Ocram Itrof Confederation wants to build a swimming pool in the garden of his villa. Since he does not like overly complicated geometric shapes, he decides that his pool will be rectangular, just as his garden is rectangular. Furthermore, he would like to place around the pool a path made up of three straight sections so as to form a triangle. Assuming the width of the path is negligible, what will be the maximum base area of the pool (in $\text{im}^2$) if the garden covers an area of $3500\ \text{im}^2$?
 
-**Answer:** 0875
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q15|src_cesenatico_2001_squadre__Q15]]
 
 
 
@@ -619,15 +684,20 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage of successive scoring moves with a maximum of 4*
+*Percentage of score trends with at most 4 in a row*
 
-> **Sports competence** (55 points)
-> 
-> Two brothers stationed in orbit around the Earth just watched the fifth set of the Italy-Yugoslavia volleyball game in Imo-Vision, which ended with a score of 15-12 for Yugoslavia. It's a pity, after Sartoretti's five consecutive points, I thought we could get back together, says Oloap, who plays for Italy. *You are wrong*, says Aerdna, *Italy has never won more than 4 points in a row*. Oloap looks at the statistics, sees that throughout the set there were 8 ball changes and he starts to calculate the probability that he is right (calculating the number of all the possible moves of the score, those that would give him reason and getting the percentage by ignoring the decimal digits). What percentage will Oloap find?
-> 
-> NB: A team scores even when they get the ball.
+> **Sports Rivalries** (55 points)
+>
+> Two Imesi brothers in orbit around Earth have just watched, via Imo-vision, the fifth set of the Italy-Yugoslavia volleyball match, which ended with a score of 15-12 in Yugoslavia's favor. "Too bad—after Sartoretti's five consecutive points, I really thought we could come back," says Oloap, who supports Italy. "You're wrong," says Aerdna. "Italy has never scored more than four consecutive points." Oloap looks at the statistics, sees that there were 8 side-outs in the whole set, and starts calculating the probability that he is right (by calculating the number of all possible scoreline developments, those that would support his view, and deriving the percentage while ignoring the decimal places). What percentage will Oloap find?
+>
+> NB: A team also scores a point when it wins a side-out.
 
-**Answer:** 0081
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q16|src_cesenatico_2001_squadre__Q16]]
 
 
 
@@ -652,13 +722,17 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Report of areas of the square field divided by perimeter difference*
+*Ratio of the areas of the square field to the difference of the perimeters*
 
-> This is the total amount of the loan.
-> 
-> Returning from their journey, Aerdna and Oloap inherited a square-shaped field whose side is 100 immutable. The will says that the division of the field must be done by drawing a line that cuts two opposite sides so that the difference in the perimeter of the two sides is 120 immutable. What is the relationship between the area of the largest part and the area of the smallest?
+> **Heritage** (30 points)
+>
+> On their return from their journey, Aerdna and Oloap inherit from a great-uncle a square field whose side is 100 imotavole long. The will states that the field must be divided by drawing a straight line that cuts two opposite sides in such a way that the difference between the perimeters of the two parts is 120 imotavole. What is the ratio of the area of the larger part to the area of the smaller part?
 
-**Answer:** 0004
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q17|src_cesenatico_2001_squadre__Q17]]
 
 
 
@@ -685,11 +759,15 @@ The position of the planet (24.25) in the order of the planets
 
 *Innaig field size given the shared work*
 
-> This is the total amount of the loan amount.
-> 
-> Oloap and Aerdna, having inherited their field from $10000\ \text{imotavole}^2$, decide to plough it by dividing the work in half. They're going to take eight hours each to work both. Wanting to take less time, they ask for help from Innaig, also the owner of a plough, who works at their own pace and is willing to help them if the help is exactly returned by both. In doing so, each of them works six hours to plough all the fields. How large is the field of Innaig?
+> **Mesa Solidarity** (10 points)
+>
+> Oloap and Aerdna, after inheriting their field from $10000\ \text{imotavole}^2$, decide to plow it by splitting the work in half. They expect to spend 8 hours each working together. Since they would like to spend less time, they ask Innaig for help; Innaig also owns a plot to be plowed, works at the same rate as they do, and is willing to help them provided that both of them repay the help exactly. In this way, each of them works 6 hours to plow all the fields. How large is Innaig's field in $\text{imotavole}^2$?
 
-**Answer:** 1250
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q18|src_cesenatico_2001_squadre__Q18]]
 
 
 
@@ -714,13 +792,17 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cost of the car borrowed and shares owned*
+*Cost of the car provided on loan and shares held*
 
-> Loans between friends** (10 points)
-> 
-> Ammac and Olonam would like to buy a limousine, splitting the cost in half, but they currently only have the $\frac{3}{4}$ of the required amount. The generous Ollimac lends to both at zero interest the amount of money each of them needs to complete their quota; in particular, he lends 2 million shields to Olonam. Ammac pledges to buy 10 million shields (all his assets!), plus the amount he borrows from Ollimac. How many million shields does the car cost?
+> **Loans Among Friends** (10 points)
+>
+> Ammac and Olonam would like to buy a car, splitting the cost in half, but at present they possess only $\frac{3}{4}$ of the amount needed. The generous Ollimac lends both of them, at zero interest, the amount each needs to cover their share; in particular, he lends Olonam 2 million scudi. For the purchase, Ammac commits 10 million scudi (all his assets!) in addition to the sum Ollimac has lent him. How many million scudi does the car cost?
 
-**Answer:** 0032
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q19|src_cesenatico_2001_squadre__Q19]]
 
 
 
@@ -749,17 +831,21 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The last four digits of the maximum coefficient of the polynomial*
+*Last four digits of the maximum coefficient of the polynomial*
 
 > **More Archaeology** (45 points)
-> 
-> Thanks also to your help the Qwghlm civilization numbering system has finally been deciphered. Now you can appreciate another problem found by some good archaeologists and translated into our decimal system:
-> 
-> What are the last four digits of the greatest coefficient (in absolute value) of the polynomial
-> 
+>
+> Thanks also to your help, the numbering system of the Qwghlm civilization has finally been deciphered. Now you can appreciate another problem found by some capable archaeologists and translated into our decimal system:
+>
+> "What are the last four digits of the largest coefficient (in absolute value) of the polynomial
+>
 > $$(x-1)(x-2)(x-4)(x-8)(x-16)(x-32)(x-64)\ ?»$$
 
-**Answer:** 1536
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q20|src_cesenatico_2001_squadre__Q20]]
 
 
 
@@ -784,13 +870,17 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Last 4 digits of the fivefold account every 20 years*
+*Last 4 digits of the account, quintupling every 20 years*
 
-> **Generous banks** (25 points)
-> 
-> The Imese economy is subject to a strong devaluation and therefore interest rates are very high. In particular, at current rates of the BCI after 20 years, the amount of a current account is multiplied by five times. Assuming that Ocnarf deposits a shield today and the rates remain the same, what will be the last four digits of the statement that Ocnarf's heirs will be able to read in 40020 years?
+> **Generous Banks** (25 points)
+>
+> The Imese economy is experiencing a severe devaluation, and therefore interest rates are very high. In particular, with the current BCI rates, after 20 years a current account balance will be five times larger. Assuming that today Ocnarf deposits one shield and that the rates remain the same forever, what will be the last four digits of the account statement that Ocnarf's heirs will be able to read in 40020 years?
 
-**Answer:** 3125
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q21|src_cesenatico_2001_squadre__Q21]]
 
 
 
@@ -818,15 +908,20 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of honest polynomials of degree plus five*
+*Number of honest polynomials of degree at most five*
 
-> The following table shows the results of the calculations:
-> 
-> In the textbooks of the Confederation, those polynomials whose coefficients are such integers that the sum of their squares is less than or equal to the degree of the polynomial are called "honest". How many honest polynomials (of a variable) of degree less than or equal to five?
-> 
-> (NB: Non-zero constant polynomials have degree 0 and the polynomial 0 per convention has degree $-\infty$; therefore the latter is not an honest polynomial)
+> **Algebrists Suck** (45 points)
+>
+> In the textbooks of the confederation, polynomials whose coefficients are integers such that the sum of the squares of those coefficients is less than or equal to the degree of the polynomial are called "honest". How many honest polynomials (in one variable) have degree less than or equal to five?
+>
+> (NB: Nonzero constant polynomials have degree 0, and by convention the polynomial 0 has degree $-\infty$; therefore the latter is not an honest polynomial)
 
-**Answer:** 0646
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q22|src_cesenatico_2001_squadre__Q22]]
 
 
 
@@ -854,17 +949,20 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum to which the sum of the months corresponds to the ordinary sum*
+*Minimum a for which the monthly sum coincides with the ordinary sum*
 
-> The following table shows the calculation of the average monthly earnings:
-> 
-> Five operations are taught in primary schools. The fifth, which we will indicate with $\circ$ and call sum imes, is defined on fractions as follows:
-> 
+> **Imesian Arithmetic** (15 points)
+>
+> In Imesian elementary schools, five operations are taught. The fifth, which we will denote by $\circ$ and call the Imesian sum, is defined on fractions as follows:
+>
 > $$\frac{a}{b} \circ \frac{c}{d} = \frac{ac}{ad + bc}.$$
-> 
-> Calculate the smallest positive integer $a$ for which there are three non-zero integers $b$, $c$ and $d$ such that the sum of the months of $\frac{a}{b}$ and $\frac{c}{d}$ coincides with their ordinary sum. You answer 0 if the sum of the months never matches the normal sum when $a$ is a positive integer.
+>
+> Calculate the smallest positive integer $a$ for which there exist three nonzero integers $b$, $c$, and $d$ such that the Imesian sum of $\frac{a}{b}$ and $\frac{c}{d}$ coincides with their ordinary sum. Answer 0 if the Imesian sum never coincides with the ordinary sum when $a$ is a positive integer.
 
-**Answer:** 0000
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q23|src_cesenatico_2001_squadre__Q23]]
 
 
 
@@ -891,15 +989,19 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ordered pairs of 385 divisors with m divisor of n*
+*Ordered pairs of divisors of 385, with m a divisor of n*
 
-> **Schools placed ** (15 points)
-> 
-> A monthly pupil was assigned the following year. It must find all ordered pairs of natural numbers $(m, n)$ so that both $m$ and $n$ are divisors of 385 and $m$ is divisor of $n$. Can you give him a hand and tell him how many?
-> 
-> (NB: 1 and $k$ are considered to be $k$ divisors)
+> **Imese Schoolchildren** (15 points)
+>
+> An Imese schoolchild has been given the following exercise. They must find all ordered pairs of natural numbers $(m, n)$ such that both $m$ and $n$ are divisors of 385 and such that $m$ is a divisor of $n$. Could you give them a hand by telling them how many there are?
+>
+> (NB: 1 and $k$ are considered divisors of $k$)
 
-**Answer:** 0027
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q24|src_cesenatico_2001_squadre__Q24]]
 
 
 
@@ -925,10 +1027,15 @@ The position of the planet (24.25) in the order of the planets
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Third ray tangent fountain with two fountains and avenue*
+*Radius of the third fountain, tangent to two fountains and to the avenue*
 
-> The amount of the loan shall be calculated as follows:
-> 
-> There is a square next to the parliament building with three circular fountains. Two of them have a radius of 52 mm, are tangent externally and tangent to a tree-lined avenue. The third is tangent externally to the first two and the avenue. How many imometers is its radius?
+> **Imometric Art** (25 points)
+>
+> Near the Parliament Building, there is a square with three circular fountains. Two of them have a radius of 52 imometers; they are externally tangent to each other and tangent to a tree-lined avenue. The third is externally tangent to the first two and to the avenue. How many imometers long is its radius?
 
-**Answer:** 0013
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2001_squadre#q25|src_cesenatico_2001_squadre__Q25]]

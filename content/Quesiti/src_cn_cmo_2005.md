@@ -34,9 +34,21 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trig disuguaglianze: simultaneo x esiste se la condizione somma*
+*Disuguaglianze trig: esiste un x simultaneo sse vale la condizione sulla somma*
 
-> Il modulo di misurazione deve essere il modulo di misurazione del modulo di misurazione. Dimostrare l'esistenza di $x \in \mathbb{R}$ in modo tale che le due disuguaglianze $$\cos^2\theta_1 \cos^2\theta_2 - (\sin\theta_1 \sin\theta_2 - x)^2 \geq 0,$$ $$\cos^2\theta_3 \cos^2\theta_4 - (\sin\theta_3 \sin\theta_4 - x)^2 \geq 0$$ si verifichino contemporaneamente se e solo se $$\sum_{i=1}^{4} \sin^2\theta_i \leq 2\left(1 + \prod_{i=1}^{4} \sin\theta_i + \prod_{i=1}^{4} \cos\theta_i\right).$$ (Posizionato da Li Shenghong)
+> Siano $\theta_i \in \left(-\dfrac{\pi}{2}, \dfrac{\pi}{2}\right)$, $i = 1, 2, 3, 4$. Dimostrare che esiste $x \in \mathbb{R}$ tale che le due disuguaglianze
+> $$\cos^2\theta_1 \cos^2\theta_2 - (\sin\theta_1 \sin\theta_2 - x)^2 \geq 0,$$
+> $$\cos^2\theta_3 \cos^2\theta_4 - (\sin\theta_3 \sin\theta_4 - x)^2 \geq 0$$
+> valgono simultaneamente se e solo se
+> $$\sum_{i=1}^{4} \sin^2\theta_i \leq 2\left(1 + \prod_{i=1}^{4} \sin\theta_i + \prod_{i=1}^{4} \cos\theta_i\right).$$
+> (Proposto da Li Shenghong)
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2005#q01|src_cn_cmo_2005__Q01]]
 
 
 
@@ -61,11 +73,18 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo interseca i lati del triangolo; AL, BM, CN contemporaneamente*
+*Il cerchio interseca i lati del triangolo; AL, BM, CN sono concorrenti*
 
-> Un cerchio incrocia i lati $BC$, $CA$, $AB$ di $\triangle ABC$ in due punti per ciascun lato nell'ordine seguente: $(D_1, D_2)$, $(E_1, E_2)$, $(F_1, F_2)$. I segmenti di linea $E_1F_2$ e $E_2F_1$ si incrociano al punto $L$, $F_1D_2$ e $F_2D_1$ si incrociano al punto $M$, $D_1E_2$ e $D_2E_1$ si incrociano al punto $N$. Provare che $AL$, $BM$ e $CN$ sono simultanei. (Posato da Ye Zhonghao)
+> Un cerchio interseca i lati $BC$, $CA$, $AB$ di $\triangle ABC$ in due punti per ciascun lato, nell'ordine seguente: $(D_1, D_2)$, $(E_1, E_2)$, $(F_1, F_2)$. I segmenti di retta $E_1F_2$ e $E_2F_1$ si intersecano nel punto $L$; $F_1D_2$ e $F_2D_1$ si intersecano nel punto $M$; $D_1E_2$ e $D_2E_1$ si intersecano nel punto $N$. Dimostrare che $AL$, $BM$ e $CN$ sono concorrenti. (Proposto da Ye Zhonghao)
 
 ![[src_cn_cmo_2005__q02.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2005#q02|src_cn_cmo_2005__Q02]]
 
 
 
@@ -90,11 +109,18 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rana della piscina circolare: dimostrare che l'equilibrio è raggiunto*
+*Rane nella piscina circolare: dimostrare che si raggiunge l'equilibrio*
 
-> Come illustrato nella figura 3, un pool circolare è diviso in $2n$ ($n \geq 5$) "griglie". Si dice che due griglie siano vicine se hanno un lato comune o un arco. Quando le rane saltano contemporaneamente nelle griglie (con almeno una rane per griglia), si verifica una "erupzione" in una griglia se ci sono almeno tre rane in essa. Dopo un'eruzione in una griglia, una rana salta da quella griglia in ciascuna delle sue griglie vicine. Prova che dopo numerosi passi finiti, la distribuzione delle rane sarà in equilibrio (cioè non si verifica alcuna eruzione). (Posato da Su Chun)
+> Come si vede nella Figura 3, una piscina circolare è divisa in $2n$ ($n \geq 5$) "griglie". Due griglie si dicono vicine se hanno un lato o un arco in comune. Quando le rane saltano simultaneamente nelle griglie (con almeno una rana per griglia), in una griglia si verifica un'"eruzione" se in essa ci sono almeno tre rane. Dopo un'eruzione in una griglia, una rana salta da quella griglia in ciascuna delle griglie vicine. Dimostrare che, dopo un numero finito di passi, la distribuzione delle rane sarà in equilibrio (cioè non si verificherà alcuna eruzione). (Proposto da Su Chun)
 
 ![[src_cn_cmo_2005__q03.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmo_2005#q03|src_cn_cmo_2005__Q03]]
 
 
 
@@ -121,9 +147,20 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricorrenza della sequenza; dimostra l'ineguaglianza per n<=m*
+*Ricorrenza della successione; dimostrare la disuguaglianza per n<=m*
 
-> Let $\{a_n\}$ essere una sequenza tale che $a_1 = \dfrac{21}{16}$ e $$2a_n - 3a_{n-1} = \frac{3}{2^{n+1}}, \quad n \geq 2.$$ Let $m$ essere un intero positivo e $m \geq 2$. Prove che per $n \leq m$, $$\left(a_n + \frac{3}{2^{n+3}}\right)^{\frac{1}{m}}\left(m - \left(\frac{2}{3}\right)^{\frac{n(m-1)}{m}}\right) < \frac{m^2 - 1}{m - n + 1}.$$ (Posato da Zhu Huawei)
+> Sia $\{a_n\}$ una successione tale che $a_1 = \dfrac{21}{16}$ e
+> $$2a_n - 3a_{n-1} = \frac{3}{2^{n+1}}, \quad n \geq 2.$$
+> Sia $m$ un numero intero positivo e $m \geq 2$. Dimostrare che per $n \leq m$,
+> $$\left(a_n + \frac{3}{2^{n+3}}\right)^{\frac{1}{m}}\left(m - \left(\frac{2}{3}\right)^{\frac{n(m-1)}{m}}\right) < \frac{m^2 - 1}{m - n + 1}.$$
+> (Proposto da Zhu Huawei)
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmo_2005#q04|src_cn_cmo_2005__Q04]]
 
 
 
@@ -147,11 +184,16 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*5 punti in rettangolo unitario; triangoli minimi di superficie non più di 1/4*
+*5 punti in un rettangolo unitario; numero minimo di triangoli di area al più 1/4*
 
-> In un rettangolo $ABCD$ (compreso il suo confine) ci sono 5 punti con superficie unitaria tale che nessuno di essi sia collineare. Trova il numero minimo di triangoli con superficie non superiore a $\dfrac{1}{4}$ e vertici scelti da questi 5 punti. (Posato da Leng Gangsong)
+> In un rettangolo $ABCD$ di area unitaria (incluso il suo bordo) vi sono 5 punti tali che nessun tre di essi siano allineati. Determinare il numero minimo di triangoli aventi area non superiore a $\dfrac{1}{4}$ e i cui vertici siano scelti tra questi 5 punti. (Proposto da Leng Gangsong)
 
-**Risposta:** 2
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_cn_cmo_2005#q05|src_cn_cmo_2005__Q05]]
 
 
 
@@ -177,8 +219,15 @@ level: China Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni integrali non negative di 2^x - 3^y×5^z×7^w = 1*
+*Trovare tutte le soluzioni in numeri interi non negativi di 2^x - 3^y*5^z*7^w = 1*
 
-> Trovare tutte le soluzioni di numeri interi non negativi $(x, y, z, w)$ della seguente equazione $$2^x - 3^y \cdot 5^z \cdot 7^w = 1.$$ (Posizionato da Chen Yonggao)
+> Trovare tutte le soluzioni in numeri interi non negativi $(x, y, z, w)$ dell'equazione seguente
+> $$2^x - 3^y \cdot 5^z \cdot 7^w = 1.$$
+> (Proposto da Chen Yonggao)
 
-**Risposta:** $(1,0,0,0),(3,0,1,0),(1,1,0,1),(5,1,1,0)$
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmo_2005#q06|src_cn_cmo_2005__Q06]]

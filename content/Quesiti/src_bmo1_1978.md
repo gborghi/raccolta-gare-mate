@@ -29,9 +29,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto all'interno di un triangolo con distanze perpendicolari uguali di piedi*
+*Punto interno al triangolo con distanze uguali dei piedi delle perpendicolari*
 
-> Determinare con prova il punto $P$ all'interno di un determinato triangolo $ABC$ per il quale il prodotto $PL \cdot PM \cdot PN$ è ridotto al minimo, dove $L$, $M$, $N$ sono i piedi delle perpendicolari da $P$ a $BC$, $CA$ e $AB$ rispettivamente.
+> Dimostrare che, dato un triangolo $ABC$, determinare il punto $P$ interno ad esso per cui il prodotto $PL \cdot PM \cdot PN$ è minimizzato, dove $L$, $M$ e $N$ sono i piedi delle perpendicolari da $P$ a $BC$, $CA$ e $AB$ rispettivamente.
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_bmo1_1978#q01|src_bmo1_1978__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nessuna frazione corretta con denominatore ≤100 ha blocco decimale 167*
+*Nessuna frazione propria con denominatore ≤100 ha il blocco decimale 167*
 
-> Prove che non esiste una frazione corretta $\frac{p}{q}$, con denominatore $q \le 100$, la cui espansione decimale contiene il blocco di cifre consecutive $167$ in tale ordine.
+> Dimostrare che non esiste una frazione propria $\frac{p}{q}$, con denominatore $q \le 100$, la cui espansione decimale contiene il blocco di cifre consecutive $167$ in quest'ordine.
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_bmo1_1978#q02|src_bmo1_1978__Q02]]
 
 
 
@@ -80,9 +92,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza unica di numeri interi che soddisfa u1=1, u1<u2 e ricorrenza di tipo Markov*
+*Sequenza intera unica che soddisfa u1=1, u1<u2 e una ricorrenza di tipo Markov*
 
-> Mostrare che esiste una sola e unica sequenza $\{u_n\}$ di integri come $u_1 = 1$, $u_1 < u_2$ e $$u_n^2 + 1 = u_{n-1} \cdot u_{n+1} \quad \text{for all } n > 1.$$
+> Dimostrare che esiste una e una sola sequenza $\{u_n\}$ di interi tali che $u_1 = 1$, $u_1 < u_2$, e
+> $$u_n^2 + 1 = u_{n-1} \cdot u_{n+1} \quad \text{for all } n > 1.$$
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+[[Quesiti/src_bmo1_1978#q03|src_bmo1_1978__Q03]]
 
 
 
@@ -105,9 +124,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro altitudini di tetraedro contemporanee se ciascun bordo è perpendicolare all'opposto*
+*Quattro altezze di un tetraedro concorrenti se e solo se ogni lato è perpendicolare al lato opposto*
 
-> Prova che le quattro altitudini di un tetraedro sono simultanee se e solo se ogni bordo del tetraedro è perpendicolare al suo bordo opposto.
+> Dimostrare che le quattro altezze di un tetraedro sono concorrenti se e solo se ogni lato del tetraedro è perpendicolare al lato opposto.
+
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_bmo1_1978#q04|src_bmo1_1978__Q04]]
 
 
 
@@ -130,9 +155,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La sfera di raggio unitario all'interno di un cubo di 15 unità contiene 13000 punti dati*
+*Sfera di raggio unitario dentro un cubo di 15 unità contiene 13000 punti dati*
 
-> All'interno di un cubo di unità laterali $15$ ci sono dati $13000$. Prove che esiste una sfera di raggio unitario all'interno della quale ci sono almeno $6$ dei punti dati.
+> All'interno di un cubo di lato $15$ unità vi sono $13000$ punti dati. Dimostrare che esiste una sfera di raggio unitario entro cui vi sono almeno $6$ dei punti dati.
+
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
+[[Quesiti/src_bmo1_1978#q05|src_bmo1_1978__Q05]]
 
 
 
@@ -155,6 +186,12 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Se n è un numero intero non zero allora 2cosnθ polinomio in 2cosθ; conclusione di razionalità*
+*Se n è un intero non nullo, allora 2cos nθ è un polinomio di grado n in 2cosθ; conclusione di razionalità*
 
-> Mostra che se $n$ è un intero non zero, $2\cos n\theta$ è un polinomio del grado $n$th in $2\cos\theta$. In tal modo o in altro modo dimostrare che se $k$ è razionale, allora $\cos k\pi$ è uguale a uno dei numeri $0$, $\pm\frac{1}{2}$, $\pm 1$, o è irrazionale.
+> Dimostrare che se $n$ è un intero non nullo, $2\cos n\theta$ è un polinomio di grado $n$ in $2\cos\theta$. Di conseguenza o in altro modo dimostrare che se $k$ è razionale allora $\cos k\pi$ è uguale a uno dei numeri $0$, $\pm\frac{1}{2}$, $\pm 1$, oppure è irrazionale.
+
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_bmo1_1978#q06|src_bmo1_1978__Q06]]

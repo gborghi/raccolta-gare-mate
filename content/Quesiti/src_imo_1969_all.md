@@ -28,9 +28,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Infiniti valori di a tali che n⁴+a non è mai primo*
+*Infiniti casi in cui n^4+a non è mai primo*
 
-> Si dimostri che esistono infiniti numeri naturali $a$ con la seguente proprietà: il numero $z = n^4 + a$ non è primo per alcun numero naturale $n$.
+> Dimostrare che esistono infiniti numeri naturali $a$ con la seguente proprietà: il numero $z = n^4 + a$ non è primo per alcun numero naturale $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_1969_all#q01|src_imo_1969_all__Q01]]
 
 
 
@@ -54,11 +60,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Zeri in comune di una somma pesata di coseni differiscono per un multiplo di pi greco*
+*Gli zeri comuni della somma del coseno ponderata differiscono di un multiplo di pi*
 
-> Siano $a_1, a_2, \ldots, a_n$ delle costanti reali, $x$ una variabile reale e
+> Sia $a_1, a_2, \ldots, a_n$ una costante reale, $x$ una variabile reale, e
 > $$f(x) = \cos(a_1 + x) + \frac{1}{2}\cos(a_2 + x) + \frac{1}{4}\cos(a_3 + x) + \cdots + \frac{1}{2^{n-1}}\cos(a_n + x).$$
-> noto che $f(x_1) = f(x_2) = 0$, si dimostri che $x_2 - x_1$ è un multiplo razionale di $\pi$.
+> Dato che $f(x_1) = f(x_2) = 0$, dimostrare che $x_2 - x_1$ è un multiplo razionale di $\pi$.
+
+**Topic:** [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1969_all#q02|src_imo_1969_all__Q02]]
 
 
 
@@ -81,9 +93,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizioni su a perché un tetraedro abbia k spigoli di lunghezza a*
+*Condizioni su un tetraedro con k spigoli di lunghezza a*
 
-> Per ciascun valore di $k = 1, 2, 3, 4, 5$, determinare condizioni necessarie e sufficienti sul numero $a > 0$ affinché esista un tetraedro con $k$ spigoli di lunghezza $a$ e gli altri $6 - k$ spigoli di lunghezza $1$.
+> Per ogni valore di $k = 1, 2, 3, 4, 5$, determinare le condizioni necessarie e sufficienti sul numero $a > 0$ affinché esista un tetraedro con $k$ spigoli di lunghezza $a$ e i restanti $6 - k$ spigoli di lunghezza $1$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1969_all#q03|src_imo_1969_all__Q03]]
 
 
 
@@ -105,9 +124,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre circoli tangenti a AB condividono una seconda tangente comune*
+*Tre cerchi tangenti ad AB hanno in comune una seconda tangente comune*
 
-> Sia dato un arco semicircolare $\gamma$ costruito sul diametro $AB$. Sia $C$ un punto sull'arco $\gamma$ diverso da $A$ e da $B$, e sia $D$ il punto medio dell'arco $AC$. Sia infine $M$ il piede della perpendicolare da $D$ alla retta $BC$. Si dimostri che $BM = MA + MC$.
+> Su $AB$, come diametro, viene tracciato un arco semicircolare $\gamma$. $C$ è un punto di $\gamma$ diverso da $A$ e $B$, e $D$ è il punto medio dell'arco $AC$. Sia $M$ il piede della perpendicolare condotta da $D$ alla retta $BC$. Dimostrare che $BM = MA + MC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1969_all#q04|src_imo_1969_all__Q04]]
 
 
 
@@ -129,9 +154,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Almeno (n-3 choose 2) quadrilateri convessi da n punti*
+*Almeno (n-3 su 2) quadrilateri convessi formati da n punti*
 
-> Dati $n > 4$ punti nel piano tali che nessuni tre siano allineati, si dimostri che esistono almeno $\binom{n-3}{2}$ quadrilateri convessi i cui vertici sono quattro dei punti dati $n$.
+> Dati $n > 4$ punti nel piano tali che nessun tre siano allineati, dimostrare che esistono almeno $\binom{n-3}{2}$ quadrilateri convessi i cui vertici siano quattro dei dati $n$ punti.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imo_1969_all#q05|src_imo_1969_all__Q05]]
 
 
 
@@ -155,7 +186,14 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dimostrare una disuguaglianza di forma quadratica con le condizioni di uguaglianza*
+*Dimostrare la disuguaglianza per le forme quadratiche con le condizioni di uguaglianza*
 
-> Si dimostri che per tutti i numeri reali $x_1, x_2, y_1, y_2, z_1, z_2$ con $x_1 > 0$, $x_2 > 0$, $x_1 y_1 - z_1^2 > 0$, $x_2 y_2 - z_2^2 > 0$, vale la seguente disuguaglianza:
+> Dimostrare che, per tutti i numeri reali $x_1, x_2, y_1, y_2, z_1, z_2$ con $x_1 > 0$, $x_2 > 0$, $x_1 y_1 - z_1^2 > 0$, $x_2 y_2 - z_2^2 > 0$, vale la seguente disuguaglianza:
 > $$\frac{8}{(x_1 + x_2)(y_1 + y_2) - (z_1 + z_2)^2} \leq \frac{1}{x_1 y_1 - z_1^2} + \frac{1}{x_2 y_2 - z_2^2}.$$
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1969_all#q06|src_imo_1969_all__Q06]]

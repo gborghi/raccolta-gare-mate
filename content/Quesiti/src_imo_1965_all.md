@@ -30,9 +30,17 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Solves trig inequality with abs value on [0,2pi]*
+*Values of x in [0, 2π] satisfying a cosine inequality*
 
-> Determine all values of $x$ in the $0 \leq x \leq 2\pi$ range that satisfy the inequality $$2\cos x \leq \left|\sqrt{1+\sin 2x} - \sqrt{1-\sin 2x}\right| \leq \sqrt{2}.$$
+> Determine all values of $x$ in the interval $0 \leq x \leq 2\pi$ that satisfy the inequality
+> $$2\cos x \leq \left|\sqrt{1+\sin 2x} - \sqrt{1-\sin 2x}\right| \leq \sqrt{2}.$$
+
+**Topic:** [[topic_trigonometria|Trigonometry]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]], [[method_trigonometria|Trigonometric techniques]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1965_all#q01|src_imo_1965_all__Q01]]
 
 
 
@@ -91,30 +99,22 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Si dimostri che un sistema 3x3 diagonalmente dominante ha solo la soluzione nulla*
+*Dimostrare che un sistema 3x3 diagonalmente dominante ammette solo la soluzione nulla*
 
-> 1965/2.
-> Si consideri il sistema di equazioni
-> a₁₁x₁ + a₁₂x₂ + a₁₃x₃ = 0
-> a₂₁x₁ + a₂₂x₂ + a₂₃x₃ = 0
-> a₃₁x₁ + a₃₂x₂ + a₃₃x₃ = 0
-> nelle incognite x₁, x₂, x₃. I coefficienti soddisfano le seguenti condizioni:
-> (a) a₁₁, a₂₂, a₃₃ sono numeri positivi;
+> 1965/2. Si consideri il sistema di equazioni a11x1 + a12x2 + a13x3 = 0 a21x1 + a22x2 + a23x3 = 0 a31x1 + a32x2 + a33x3 = 0, con incognite x1, x2, x3. I coefficienti soddisfano le condizioni:
+> (a) a11, a22, a33 sono numeri positivi;
 > (b) i coefficienti rimanenti sono numeri negativi;
-> (c) in ogni equazione, la somma dei coefficienti è positiva.
-> Si dimostri che il sistema dato ammette unicamente la soluzione x₁ = x₂ = x₃ = 0.
+> (c) in ciascuna equazione, la somma dei coefficienti è positiva.
+> Dimostrare che il sistema dato ammette unicamente la soluzione x1 = x2 = x3 = 0. 1965/3. Sia dato il tetraedro ABCD i cui spigoli AB e CD hanno lunghezze a e b rispettivamente. La distanza tra le rette sghembe AB e CD è d, e l'angolo tra esse è ω. Il tetraedro ABCD viene diviso in due solidi dal piano ε, parallelo alle rette AB e CD. Il rapporto tra le distanze di ε da AB e da CD è uguale a k. Calcola il rapporto tra i volumi dei due solidi ottenuti. 1965/4. Trovare tutti gli insiemi di quattro numeri reali x1, x2, x3, x4 tali che la somma di uno qualsiasi di essi e il prodotto degli altri tre sia uguale a 2. 1965/5. Si consideri il triangolo ∆OAB con angolo AOB acuto. Per un punto M diverso da O si tracciano le perpendicolari a OA e a OB; i piedi di tali perpendicolari sono rispettivamente P e Q. Il punto di intersezione delle altezze del triangolo ∆OPQ è H. Qual è il luogo geometrico di H se M può variare in (a) il lato AB, (b) l'interno del triangolo ∆OAB?
 >
-> 1965/3.
-> Sia dato il tetraedro ABCD le cui spigoli AB e CD hanno lunghezze a e b rispettivamente. La distanza tra le rette sghembe AB e CD è d, e l’angolo tra esse è ω. Il tetraedro ABCD viene diviso in due solidi da un piano ε parallelo alle rette AB e CD. Il rapporto tra le distanze di ε da AB e da CD è uguale a k. Si calcoli il rapporto tra i volumi dei due solidi ottenuti.
->
-> 1965/4.
-> Trovare tutti gli insiemi di quattro numeri reali x₁, x₂, x₃, x₄ tali che la somma di ciascuno e il prodotto degli altri tre sia uguale a 2.
->
-> 1965/5.
-> Si consideri il triangolo acutangolo OAB con angolo acuto AOB. Da un punto M ≠ O si conducono le perpendicolari a OA e OB, i piedi delle quali sono rispettivamente P e Q. Sia H il punto di incontro delle altezze del triangolo OPQ. Qual è il luogo descritto da H quando M percorre (a) il lato AB, (b) l’interno del triangolo OAB?
-> 
-> 1965/6.
-> In un piano è dato un insieme di n punti (n ≥ 3). Ogni coppia di punti è congiunta da un segmento. Sia d la lunghezza del più lungo di questi segmenti. Chiamiamo diametro dell'insieme ogni segmento che congiunge due punti e ha lunghezza d. Si dimostri che il numero di diametri dell'insieme dato è al più n.
+> 1965/6. In un piano è dato un insieme di n punti (n ≥ 3). Ogni coppia di punti è congiunta da un segmento. Sia d la lunghezza del più lungo di questi segmenti. Definiamo diametro dell'insieme qualsiasi segmento di congiunzione di lunghezza d. Dimostrare che il numero dei diametri dell'insieme dato è al più n.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1965_all#q02|src_imo_1965_all__Q02]]
 
 
 
@@ -136,9 +136,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Volume ratio of tetrahedron cut by plane parallel to skew edges*
+*Ratio of volumes when a tetrahedron is cut by a plane parallel to two skew edges*
 
-> Given the tetrahedron $ABCD$ whose beams $AB$ and $CD$ have lengths $a$ and $b$ respectively. The distance between the straight lines $AB$ and $CD$ is $d$, and the angle between them is $\omega$. The $ABCD$ tetrahedron is divided into two solids by the $\varepsilon$ plane, parallel to the $AB$ and $CD$ lines. The ratio of $\varepsilon$ to $AB$ and $CD$ is equal to $k$. Calculate the ratio of the volumes of the two solids obtained.
+> Given the tetrahedron $ABCD$ whose edges $AB$ and $CD$ have lengths $a$ and $b$ respectively. The distance between the skew lines $AB$ and $CD$ is $d$, and the angle between them is $\omega$. The tetrahedron $ABCD$ is divided into two solids by the plane $\varepsilon$, parallel to the lines $AB$ and $CD$. The ratio of the distances of $\varepsilon$ from $AB$ and from $CD$ equals $k$. Compute the ratio of the volumes of the two solids obtained.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1965_all#q03|src_imo_1965_all__Q03]]
 
 
 
@@ -160,9 +166,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Find four real where each plus product of other three is 2*
+*Four real numbers, each plus the product of the other three, equal to 2*
 
-> Find all sets of four real numbers $x_1, x_2, x_3, x_4$ such that the sum of each of them and the product of the other three is $2$.
+> Find all sets of four real numbers $x_1, x_2, x_3, x_4$ such that the sum of any one of them and the product of the other three equals $2$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_1965_all#q04|src_imo_1965_all__Q04]]
 
 
 
@@ -185,9 +197,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Locus of orthocenter H of pedal triangle OPQ*
+*Locus of the orthocentre of OPQ as M moves*
 
-> Consider the $OAB$ triangle with a sharp angle $AOB$. For a point $M \neq O$ the perpendiculars to $OA$ and to $OB$ shall be drawn, the feet of which are $P$ and $Q$ respectively. The height intersection point of the $OPQ$ triangle is $H$. What is the geometric location of $H$ if $M$ varies on: (a) the side $AB$; (b) the inside of the $OAB$ triangle?
+> Consider the triangle $OAB$ with acute angle $AOB$. From a point $M \neq O$ the perpendiculars to $OA$ and to $OB$ are drawn, with feet $P$ and $Q$ respectively. The intersection of the altitudes of triangle $OPQ$ is $H$. What is the locus of $H$ if $M$ varies on: (a) the side $AB$; (b) the interior of triangle $OAB$?
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1965_all#q05|src_imo_1965_all__Q05]]
 
 
 
@@ -209,6 +228,12 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Prove number of diameters of n-point set is at most n*
+*A set of n points has at most n diameters*
 
-> A set of $n$ points ($n \geq 3$) is given in a plane. Each pair of points is connected by a segment. Whether $d$ the length of the longest of these segments. The diameter of the assembly of any length $d$ link segment is defined. Demonstrate that the number of diameters of the given set is at most $n$.
+> In a plane a set of $n$ points is given ($n \geq 3$). Every pair of points is joined by a segment. Let $d$ be the length of the longest of these segments. A diameter of the set is any joining segment of length $d$. Prove that the number of diameters of the given set is at most $n$.
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1965_all#q06|src_imo_1965_all__Q06]]

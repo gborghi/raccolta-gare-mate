@@ -30,11 +30,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'ultimo numero di pagina del libro di 3 volumi, trova il più grande fattore primo*
+*Tre volumi con numerazione continua: il secondo ha 50 pagine più del primo, il terzo una volta e mezzo il secondo. Massimo fattore primo dell'ultima pagina*
 
-> Un libro viene pubblicato in tre volumi, con le pagine numerate da 1 in poi. I numeri delle pagine sono proseguiti dal primo volume al secondo volume al terzo. Il numero di pagine del secondo volume è 50 volte superiore a quello del primo volume e il numero di pagine del terzo volume è uno e mezzo volte superiore al secondo. La somma dei numeri delle pagine delle prime pagine dei tre volumi è di 1709. Se $n$ è l'ultimo numero di pagina, qual è il più grande fattore primo di $n$?
+> Un libro esce in tre volumi, con le pagine numerate a partire da 1. La numerazione prosegue dal primo volume al secondo e al terzo. Il secondo volume ha 50 pagine più del primo, e il terzo ne ha una volta e mezza il secondo. La somma dei numeri di pagina delle prime pagine dei tre volumi è 1709. Se $n$ è il numero dell'ultima pagina, qual è il massimo fattore primo di $n$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 17
+
+[[Quesiti/src_prmo_2018#q01|src_prmo_2018__Q01]]
 
 
 
@@ -58,11 +64,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Incircolare il raggio in quadrilaterale ABCD, trovare un numero intero più vicino a r*
+*Quadrilatero con AB = AD = 13, BC = CD = 20 e BD = 24: intero più vicino al raggio della circonferenza inscritta*
 
-> In un quadrilaterale $ABCD$, è dato che $AB = AD = 13$, $BC = CD = 20$, $BD = 24$. Se $r$ è il raggio del cerchio iscrivibile nel quadrilaterale, qual è il numero intero più vicino a $r$?
+> In un quadrilatero $ABCD$ si ha $AB = AD = 13$, $BC = CD = 20$, $BD = 24$. Se $r$ è il raggio della circonferenza inscrivibile nel quadrilatero, qual è l'intero più vicino a $r$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 8
+
+[[Quesiti/src_prmo_2018#q02|src_prmo_2018__Q02]]
 
 
 
@@ -86,11 +98,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri a 6 cifre della forma abccba con b pari e divisibile per 7*
+*Numeri di sei cifre della forma abccba con b dispari, divisibili per 7*
 
-> Considerare tutti i numeri a 6 cifre del modulo $abccba$, dove $b$ è pari. Determinare il numero di tutti i numeri a 6 cifre divisibili per 7.
+> Si considerino tutti i numeri di 6 cifre della forma $abccba$, dove $b$ è dispari. Determinare quanti di questi numeri di 6 cifre sono divisibili per 7.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 70
+
+[[Quesiti/src_prmo_2018#q03|src_prmo_2018__Q03]]
 
 
 
@@ -114,11 +132,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le basi valide b>=10 per l'equazione 166x56=8590*
+*L'uguaglianza 166 × 56 = 8590 vale in qualche base b almeno 10: somma dei valori possibili di b*
 
-> L'equazione $166 \times 56 = 8590$ è valida in alcune basi $b \ge 10$ (cioè $1, 6, 6, 5, 8, 9, 0$ sono i numeri di base $b$ nell'equazione di cui sopra). Trova la somma di tutti i valori possibili di $b \ge 10$ che soddisfano l'equazione.
+> L'equazione $166 \times 56 = 8590$ vale in qualche base $b \ge 10$, cioè $1, 6, 6, 5, 8, 9, 0$ sono cifre in base $b$ nell'equazione sopra. Trovare la somma di tutti i valori possibili di $b \ge 10$ che soddisfano l'equazione.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 
 **Risposta:** 12
+
+[[Quesiti/src_prmo_2018#q04|src_prmo_2018__Q04]]
 
 
 
@@ -141,11 +165,16 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trapezio ABCD con incircolo che tocca AB a Q e CD a P, trovare PQ*
+*Trapezio rettangolo con circonferenza inscritta: PC = 36 e QB = 49, trovare PQ*
 
-> Il $ABCD$ deve essere un trapezio in cui $AB \parallel CD$ e $AD \perp AB$. Supponiamo che $ABCD$ abbia un incircolo che tocchi $AB$ a $Q$ e $CD$ a $P$. Poiché $PC = 36$ e $QB = 49$, trovare $PQ$.
+> Sia $ABCD$ un trapezio in cui $AB \parallel CD$ e $AD \perp AB$. Si supponga che $ABCD$ abbia una circonferenza inscritta che tocca $AB$ in $Q$ e $CD$ in $P$. Sapendo che $PC = 36$ e $QB = 49$, trovare $PQ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 84
+
+[[Quesiti/src_prmo_2018#q05|src_prmo_2018__Q05]]
 
 
 
@@ -169,11 +198,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integri a,b,c con a+b-c=1 e a^2+b^2-c^2=-1, trovi la somma di tutti i valori possibili di a^2+b^2+c^2*
+*Interi a, b, c con a + b − c = 1 e a² + b² − c² = −1: somma dei valori possibili di a² + b² + c²*
 
-> Gli integri $a, b, c$ soddisfano $a + b - c = 1$ e $a^2 + b^2 - c^2 = -1$. Qual è la somma di tutti i possibili valori di $a^2 + b^2 + c^2$?
+> Gli interi $a, b, c$ soddisfano $a + b - c = 1$ e $a^2 + b^2 - c^2 = -1$. Qual è la somma di tutti i valori possibili di $a^2 + b^2 + c^2$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 18
+
+[[Quesiti/src_prmo_2018#q06|src_prmo_2018__Q06]]
 
 
 
@@ -197,11 +232,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto P all'interno dell'esagono regolare a distanze di 8,8,16 da tre vertici consecutivi, trovare il numero intero più vicino al circondario*
+*Punto interno a un esagono regolare, a distanze 8, 8 e 16 da tre vertici consecutivi: intero più vicino al raggio circoscritto*
 
-> Un punto $P$ all'interno di un esagono regolare si trova a distanze $8, 8, 16$ unità da tre vertici consecutivi dell'esagono, rispettivamente. Se $r$ è il raggio del cerchio circonscritto dell'esagono, quale è il numero intero più vicino a $r$?
+> Un punto $P$ interno a un esagono regolare dista rispettivamente $8, 8, 16$ unità da tre vertici consecutivi dell'esagono. Se $r$ è il raggio della circonferenza circoscritta all'esagono, qual è l'intero più vicino a $r$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 14
+
+[[Quesiti/src_prmo_2018#q07|src_prmo_2018__Q07]]
 
 
 
@@ -224,11 +265,16 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cordo AB, punto C su un cerchio con angolo ABC=30, punto D su AB con angolo DCO=angolo OCB=20, trovare angolo CDO*
+*Corda, centro interno al triangolo e angoli di 30° e 20°: misura di un angolo in gradi*
 
-> Che $AB$ sia un'accordazione di un cerchio con centro $O$. Il $C$ deve essere un punto del cerchio tale che $\angle ABC = 30^\circ$ e $O$ si trovino all'interno del triangolo $ABC$. $D$ sia un punto su $AB$ tale che $\angle DCO = \angle OCB = 20^\circ$. Trova la misura di $\angle CDO$ in gradi.
+> Sia $AB$ una corda di una circonferenza di centro $O$. Sia $C$ un punto della circonferenza tale che $\angle ABC = 30^\circ$ e che $O$ stia all'interno del triangolo $ABC$. Sia $D$ un punto di $AB$ tale che $\angle DCO = \angle OCB = 20^\circ$. Trovare la misura di $\angle CDO$ in gradi.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 80
+
+[[Quesiti/src_prmo_2018#q08|src_prmo_2018__Q08]]
 
 
 
@@ -252,11 +298,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integri a,b dove a+b è radice di x^2+ax+b=0, valore massimo di b^2*
+*Interi a, b tali che a + b è radice di x² + ax + b = 0: massimo di b²*
 
-> Supponiamo che $a, b$ siano numeri interi e $a + b$ sia una radice di $x^2 + ax + b = 0$. Qual è il valore massimo possibile di $b^2$?
+> Si supponga che $a, b$ siano interi e che $a + b$ sia una radice di $x^2 + ax + b = 0$. Qual è il massimo valore possibile di $b^2$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 
 **Risposta:** 16
+
+[[Quesiti/src_prmo_2018#q09|src_prmo_2018__Q09]]
 
 
 
@@ -280,11 +332,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mediani perpendicolari nel triangolo, mediana da A è 30, trovare (BC^2+CA^2+AB^2)/100*
+*Due mediane perpendicolari e la terza di lunghezza 30: (BC² + CA² + AB²)/100*
 
-> In un triangolo $ABC$, la media da $B$ a $CA$ è perpendicolare alla media da $C$ a $AB$. Se la media da $A$ a $BC$ è 30, determinare $(BC^2 + CA^2 + AB^2)/100$.
+> Nel triangolo $ABC$ la mediana da $B$ a $CA$ è perpendicolare alla mediana da $C$ a $AB$. Se la mediana da $A$ a $BC$ misura 30, determinare $(BC^2 + CA^2 + AB^2)/100$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 24
+
+[[Quesiti/src_prmo_2018#q10|src_prmo_2018__Q10]]
 
 
 
@@ -308,11 +366,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tazze da tè: modi per selezionare 2 senza maniglia e 3 con maniglia = 1200, massimo totale tazze*
+*Tazze con e senza manico: i modi di prenderne due senza e tre con sono 1200. Massimo numero di tazze*
 
-> Ci sono diverse tazze di tè in cucina, alcune con maniglie e le altre senza maniglie. Il numero di modi per scegliere due tazze senza manipo e tre con manipo è esattamente 1200. Qual è il numero massimo possibile di tazze in cucina?
+> In cucina ci sono diverse tazze da tè, alcune con il manico e altre senza. Il numero di modi di scegliere due tazze senza manico e tre con il manico è esattamente 1200. Qual è il massimo numero possibile di tazze in cucina?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 
 **Risposta:** 29
+
+[[Quesiti/src_prmo_2018#q11|src_prmo_2018__Q11]]
 
 
 
@@ -338,11 +402,21 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare 8 tupli in {1,-1}^8 con somma ponderata divisibile per 3*
+*8-uple di ±1 la cui somma pesata con i coefficienti 1, 2, …, 8 è multipla di 3*
 
-> Determinare il numero di 8 doppi $(\epsilon_1, \epsilon_2, \cdots, \epsilon_8)$ in modo tale che $\epsilon_1, \epsilon_2, \cdots \epsilon_8 \in \{1, -1\}$ e $$\epsilon_1 + 2\epsilon_2 + 3\epsilon_3 + \cdots + 8\epsilon_8$$ siano multipli di 3.
+> Determinare il numero di 8-uple $(\epsilon_1, \epsilon_2, \cdots, \epsilon_8)$ tali che $\epsilon_1, \epsilon_2, \cdots \epsilon_8 \in \{1, -1\}$ e
+>
+> $$\epsilon_1 + 2\epsilon_2 + 3\epsilon_3 + \cdots + 8\epsilon_8$$
+>
+> sia un multiplo di 3.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 88
+
+[[Quesiti/src_prmo_2018#q12|src_prmo_2018__Q12]]
 
 
 
@@ -364,9 +438,14 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un triangolo rettangolo a A, l'altitudine e l'angolo bisector da A hanno lunghezze 3 e 4, trovare la lunghezza media*
+*Triangolo rettangolo in A: altezza e bisettrice di lunghezze 3 e 4. Lunghezza della mediana per A*
 
-> In un triangolo $ABC$, angolato a destra a $A$, l'altitudine attraverso $A$ e il bisettore interno di $\angle A$ hanno lunghezze 3 e 4, rispettivamente. Trova la lunghezza della media attraverso $A$.
+> Nel triangolo $ABC$, rettangolo in $A$, l'altezza per $A$ e la bisettrice interna di $\angle A$ misurano rispettivamente 3 e 4. Trovare la lunghezza della mediana per $A$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_prmo_2018#q13|src_prmo_2018__Q13]]
 
 
 
@@ -390,11 +469,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prodotti di cosini, trovare un numero intero più vicino a (2/7)log_2(y/x)*
+*Due prodotti di coseni: intero più vicino a (2/7) log₂(y/x)*
 
-> Se $x = \cos 1^\circ \cos 2^\circ \cos 3^\circ \cdots \cos 89^\circ$ e $y = \cos 2^\circ \cos 6^\circ \cos 10^\circ \cdots \cos 86^\circ$, quale è il numero intero più vicino a $\frac{2}{7} \log_2(y/x)$?
+> Se $x = \cos 1^\circ \cos 2^\circ \cos 3^\circ \cdots \cos 89^\circ$ e $y = \cos 2^\circ \cos 6^\circ \cos 10^\circ \cdots \cos 86^\circ$, qual è l'intero più vicino a $\frac{2}{7} \log_2(y/x)$?
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
 **Risposta:** 19
+
+[[Quesiti/src_prmo_2018#q14|src_prmo_2018__Q14]]
 
 
 
@@ -418,11 +503,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri naturali a,b con 2a-b, a-2b, a+b tutti quadrati perfetti distinti, trovare minimo b*
+*Naturali a, b tali che 2a − b, a − 2b e a + b sono quadrati distinti: minimo di b*
 
-> Che $a$ e $b$ siano numeri naturali in modo tale che $2a - b$, $a - 2b$ e $a + b$ siano tutti quadrati distinti. Qual è il minimo valore possibile di $b$?
+> Siano $a$ e $b$ numeri naturali tali che $2a - b$, $a - 2b$ e $a + b$ siano quadrati distinti. Qual è il minimo valore possibile di $b$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 20
+
+[[Quesiti/src_prmo_2018#q15|src_prmo_2018__Q15]]
 
 
 
@@ -447,11 +538,19 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Differenza di due doppie somme su coppie con somma pari contro pari*
+*Differenza fra due somme su coppie di indici da 1 a 10, secondo che la somma degli indici sia dispari o pari*
 
-> Qual è il valore di $$\sum_{\substack{1 \le i < j \le 10 \\ i+j=\text{odd}}} (i+j) - \sum_{\substack{1 \le i < j \le 10 \\ i+j=\text{even}}} (i+j)\,?$$
+> Qual è il valore di
+>
+> $$\sum_{\substack{1 \le i < j \le 10 \\ i+j=\text{odd}}} (i+j) - \sum_{\substack{1 \le i < j \le 10 \\ i+j=\text{even}}} (i+j)\,?$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 55
+
+[[Quesiti/src_prmo_2018#q16|src_prmo_2018__Q16]]
 
 
 
@@ -474,11 +573,16 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due triangoli che condividono angolo con i lati dati, trovare AC+DF*
+*Due triangoli con un angolo uguale, due lati 17 e 10, differenza dei terzi lati 12: somma di quei lati*
 
-> I triangoli $ABC$ e $DEF$ sono tali da $\angle A = \angle D$, $AB = DE = 17$, $BC = EF = 10$ e $AC - DF = 12$. Che cos' è $AC + DF$?
+> I triangoli $ABC$ e $DEF$ sono tali che $\angle A = \angle D$, $AB = DE = 17$, $BC = EF = 10$ e $AC - DF = 12$. Quanto vale $AC + DF$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
 **Risposta:** 30
+
+[[Quesiti/src_prmo_2018#q17|src_prmo_2018__Q17]]
 
 
 
@@ -502,11 +606,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Integri a,b,c>=4 non tutti uguali soddisfacendo 4abc=(a+3)(b+3)(c+3), trovare a+b+c*
+*Interi a, b, c almeno 4, non tutti uguali, con 4abc = (a+3)(b+3)(c+3): valore di a + b + c*
 
-> Se $a, b, c \ge 4$ sono numeri interi, non tutti uguali, e $4abc = (a+3)(b+3)(c+3)$, qual è il valore di $a + b + c$?
+> Se $a, b, c \ge 4$ sono interi, non tutti uguali, e $4abc = (a+3)(b+3)(c+3)$, qual è il valore di $a + b + c$?
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 16
+
+[[Quesiti/src_prmo_2018#q18|src_prmo_2018__Q18]]
 
 
 
@@ -530,11 +640,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N = 6+66+666+...+666...6 (100 sei), conteggio delle frequenze della cifra 7 in N*
+*Somma 6 + 66 + 666 + … fino a un addendo di cento 6: quante volte compare la cifra 7*
 
-> Lasciate $N = 6 + 66 + 666 + \cdots + 666\cdots 66$, dove ci sono centinaia di 6 nell'ultimo termine nella somma. Quante volte la cifra 7 si verifica nel numero $N$?
+> Sia $N = 6 + 66 + 666 + \cdots + 666\cdots 66$, dove nell'ultimo addendo ci sono cento 6. Quante volte compare la cifra 7 nel numero $N$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
 **Risposta:** 99
+
+[[Quesiti/src_prmo_2018#q19|src_prmo_2018__Q19]]
 
 
 
@@ -558,11 +674,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa di numeri interi positivi n il cui prodotto digitali è uguale a n^2-15n-27*
+*Somma di tutti gli interi positivi n il cui prodotto delle cifre è n² − 15n − 27*
 
-> Determinare la somma di tutti i possibili integri positivi $n$, il prodotto dei quali è uguale a $n^2 - 15n - 27$.
+> Determinare la somma di tutti gli interi positivi $n$ tali che il prodotto delle loro cifre sia uguale a $n^2 - 15n - 27$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 
 **Risposta:** 17
+
+[[Quesiti/src_prmo_2018#q20|src_prmo_2018__Q20]]
 
 
 
@@ -586,11 +708,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Orthocentro H, centroidi G1 G2 G3 di HBC HCA HAB formare un triangolo di area 7, trovare area di ABC*
+*Ortocentro di un triangolo acutangolo e baricentri dei tre triangoli che lo hanno come vertice: area 7, area del triangolo*
 
-> Lasciate che $ABC$ sia un triangolo a angolo acuto e che $H$ sia il suo ortocentro. I centriodi dei triangoli $G_1$, $G_2$ e $G_3$ siano rispettivamente $HBC$, $HCA$ e $HAB$. Se l'area del triangolo $G_1 G_2 G_3$ è di 7 unità, qual è l'area del triangolo $ABC$?
+> Sia $ABC$ un triangolo acutangolo e sia $H$ il suo ortocentro. Siano $G_1$, $G_2$ e $G_3$ i baricentri dei triangoli $HBC$, $HCA$ e $HAB$ rispettivamente. Se l'area del triangolo $G_1 G_2 G_3$ è 7, qual è l'area del triangolo $ABC$?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 63
+
+[[Quesiti/src_prmo_2018#q21|src_prmo_2018__Q21]]
 
 
 
@@ -614,11 +742,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare buoni interi positivi k che la partizione {1,...,20} in sottoinsiemi ogni sommare a k*
+*Interi k per cui {1, …, 20} si partisce in sottoinsiemi propri disgiunti di somma k*
 
-> Un intero positivo $k$ si dice essere \textit{good} se esiste una partizione di $\{1, 2, 3, \ldots, 20\}$ per disgiungere i propri sottoinsiemi in modo tale che la somma dei numeri in ogni sottoinsieme della partizione sia $k$. Quanti numeri ci sono?
+> Un intero positivo $k$ si dice buono se esiste una partizione di $\{1, 2, 3, \ldots, 20\}$ in sottoinsiemi propri disgiunti tale che la somma dei numeri di ciascun sottoinsieme della partizione sia $k$. Quanti numeri buoni ci sono?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 
 **Risposta:** 6
+
+[[Quesiti/src_prmo_2018#q22|src_prmo_2018__Q22]]
 
 
 
@@ -644,11 +778,21 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La più grande n per le disuguaglianze di tipo Cauchy-Schwarz con i denominatori b/29+c/31 ecc..*
+*Massimo intero n per cui una disuguaglianza in a, b, c vale per tutti i reali positivi*
 
-> Qual è il numero intero positivo più grande $n$ tale che $$\frac{a^2}{\dfrac{b}{29}+\dfrac{c}{31}} + \frac{b^2}{\dfrac{c}{29}+\dfrac{a}{31}} + \frac{c^2}{\dfrac{a}{29}+\dfrac{b}{31}} \ge n(a+b+c)$$ tenga per tutti i numeri reali positivi $a, b, c$?
+> Qual è il massimo intero positivo $n$ tale che
+>
+> $$\frac{a^2}{\dfrac{b}{29}+\dfrac{c}{31}} + \frac{b^2}{\dfrac{c}{29}+\dfrac{a}{31}} + \frac{c^2}{\dfrac{a}{29}+\dfrac{b}{31}} \ge n(a+b+c)$$
+>
+> valga per tutti i numeri reali positivi $a, b, c$?
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 
 **Risposta:** 14
+
+[[Quesiti/src_prmo_2018#q23|src_prmo_2018__Q23]]
 
 
 
@@ -672,11 +816,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triangoli non simili con tutti gli angoli interi in gradi, trovare N/100*
+*Triangoli non simili fra loro con angoli interi, in gradi: N/100*
 
-> Se $N$ è il numero di triangoli di forme diverse (cioè non simili) i cui angoli sono tutti enti (in gradi), qual è $N/100$?
+> Se $N$ è il numero di triangoli di forme diverse, cioè non simili, i cui angoli sono tutti interi, in gradi, quanto vale $N/100$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
 **Risposta:** 27
+
+[[Quesiti/src_prmo_2018#q24|src_prmo_2018__Q24]]
 
 
 
@@ -699,9 +849,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*T più piccolo con i rimanenti di un dato insieme diviso per 11,13,15, trovare la somma dei quadrati di cifre*
+*Minimo intero positivo che, diviso per 11, 13 e 15, dà resti in tre insiemi dati: somma dei quadrati delle cifre*
 
-> $T$ sia il numero intero positivo più piccolo che, quando diviso da $11, 13, 15$ lascia i rimanenti rispettivamente nei set $\{7, 8, 9\}$, $\{1, 2, 3\}$ e $\{4, 5, 6\}$. Qual è la somma dei quadrati delle cifre di $T$?
+> Sia $T$ il minimo intero positivo che, diviso per $11, 13, 15$, dà resti negli insiemi $\{7, 8, 9\}$, $\{1, 2, 3\}$ e $\{4, 5, 6\}$ rispettivamente. Qual è la somma dei quadrati delle cifre di $T$?
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+[[Quesiti/src_prmo_2018#q25|src_prmo_2018__Q25]]
 
 
 
@@ -724,9 +880,15 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medi per scegliere 60 quadrati di unità da tavola 11x11 senza due che condividono un lato*
+*Modi di scegliere 60 quadrati unitari su una scacchiera 11×11 senza lati in comune*
 
-> Qual è il numero di modi in cui si possono scegliere 60 quadrati di unità da una scacchiera $11 \times 11$ in modo tale che due quadrati scelti non abbiano un lato in comune?
+> In quanti modi si possono scegliere 60 quadrati unitari da una scacchiera $11 \times 11$ in modo che due quadrati scelti non abbiano un lato in comune?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+[[Quesiti/src_prmo_2018#q26|src_prmo_2018__Q26]]
 
 
 
@@ -750,11 +912,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colour 4x4 scacchi rosso/blu così ogni riga e colonna ha esattamente 2 rosso e 2 blu, contare modi*
+*Colorazioni di una scacchiera 4×4 in rosso e blu, con due rossi e due blu in ogni riga e in ogni colonna*
 
-> Qual è il numero di modi in cui si possono colorare i quadrati di un scacchi $4 \times 4$ con colori rosso e blu in modo tale che ogni riga e ogni colonna abbiano esattamente due quadrati rossi e due quadrati blu?
+> In quanti modi si possono colorare i quadrati di una scacchiera $4 \times 4$ con i colori rosso e blu in modo che ogni riga e ogni colonna abbiano esattamente due quadrati rossi e due blu?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
 
 **Risposta:** 90
+
+[[Quesiti/src_prmo_2018#q27|src_prmo_2018__Q27]]
 
 
 
@@ -778,11 +946,17 @@ level: PRMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-Distribuire 8 cioccolatini distinti tra 3 bambini, ognuno ne ottiene almeno uno con tutti i numeri diversi, trovare la somma digitali di N*
+*8 cioccolatini di marche diverse fra 3 bambini, almeno uno ciascuno e numeri diversi: somma delle cifre del numero di modi*
 
-> Il numero di modi di distribuire 8 cioccolatini di diversi marchi tra 3 bambini è quello di $N$ in modo tale che ogni bambino riceva almeno un cioccolatino e che nessun bambino riceva lo stesso numero di cioccolatini. Trova la somma delle cifre di $N$.
+> Sia $N$ il numero di modi di distribuire 8 cioccolatini di marche diverse fra 3 bambini in modo che ogni bambino ne riceva almeno uno e due bambini non ne ricevano lo stesso numero. Trovare la somma delle cifre di $N$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
 
 **Risposta:** 9
+
+[[Quesiti/src_prmo_2018#q28|src_prmo_2018__Q28]]
 
 
 
@@ -805,11 +979,16 @@ Distribuire 8 cioccolatini distinti tra 3 bambini, ognuno ne ottiene almeno uno 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto D su BC, incentri I1 I2 di ABD ACD, angolo BI1E=60, angolo CI2F*
+*Punto su un lato, incentri dei due triangoli e angolo di 60°: misura dell'angolo corrispondente*
 
-> $D$ sia un punto interno del lato $BC$ di un triangolo $ABC$. Il punto di riferimento è il punto di riferimento di cui all'allegato I del presente regolamento. In $E$ e $F$, rispettivamente, $AI_1$ e $AI_2$ si incontrano $BC$. Se $\angle BI_1 E = 60^\circ$, qual è la misura di $\angle CI_2 F$ in gradi?
+> Sia $D$ un punto interno del lato $BC$ di un triangolo $ABC$. Siano $I_1$ e $I_2$ gli incentri dei triangoli $ABD$ e $ACD$ rispettivamente. $AI_1$ e $AI_2$ incontrano $BC$ in $E$ e $F$ rispettivamente. Se $\angle BI_1 E = 60^\circ$, qual è la misura di $\angle CI_2 F$ in gradi?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
 **Risposta:** 60
+
+[[Quesiti/src_prmo_2018#q29|src_prmo_2018__Q29]]
 
 
 
@@ -833,8 +1012,14 @@ Distribuire 8 cioccolatini distinti tra 3 bambini, ognuno ne ottiene almeno uno 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Polinomio con coefficienti interi non negativi, P(1)=4 P(5)=136, trovare P(3)*
+*Polinomio a coefficienti interi non negativi, P(1) = 4 e P(5) = 136: valore di P(3)*
 
-> $P(x) = a_0 + a_1 x + a_2 x^2 + \cdots + a_n x^n$ sia un polinomio in cui $a_i$ è un intero non negativo per ogni $i \in \{0, 1, 2, 3, \cdots, n\}$. Se $P(1) = 4$ e $P(5) = 136$, qual è il valore di $P(3)$?
+> Sia $P(x) = a_0 + a_1 x + a_2 x^2 + \cdots + a_n x^n$ un polinomio in cui $a_i$ è un intero non negativo per ogni $i \in \{0, 1, 2, 3, \cdots, n\}$. Se $P(1) = 4$ e $P(5) = 136$, qual è il valore di $P(3)$?
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
 **Risposta:** 34
+
+[[Quesiti/src_prmo_2018#q30|src_prmo_2018__Q30]]

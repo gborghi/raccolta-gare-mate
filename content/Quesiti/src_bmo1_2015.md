@@ -31,9 +31,18 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ordina cinque numeri di torri elettriche per dimensioni e giustifica.*
+*Ordinare cinque potenze a torre*
 
-> In ordine crescente di dimensioni, inserire i seguenti numeri e giustificare il proprio ragionamento: $$3^{3^4},\ 3^{4^3},\ 3^{4^4},\ 4^{3^3}\ \text{and}\ 4^{3^4}.$$ Nota che $a^{b^c}$ significa $a^{(b^c)}$.
+> Disporre i numeri seguenti in ordine crescente, e giustificare il ragionamento:
+> $$3^{3^4},\ 3^{4^3},\ 3^{4^4},\ 4^{3^3}\ \text{and}\ 4^{3^4}.$$
+> Si noti che $a^{b^c}$ significa $a^{(b^c)}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2015#q01|src_bmo1_2015__Q01]]
 
 
 
@@ -56,9 +65,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato p^2+a^2=b^2 con p primo maggiore di 3, prova a è un multiple di 12 e 2(p+a+1) è un quadrato perfetto.*
+*Se $p^2 + a^2 = b^2$ e $p$ è primo maggiore di 3, allora $a$ è multiplo di 12*
 
-> Gli integri positivi $p$, $a$ e $b$ soddisfano l'equazione $p^2 + a^2 = b^2$. Prova che se $p$ è un primo superiore a 3, allora $a$ è un multiple di 12 e $2(p+a+1)$ è un quadrato perfetto.
+> Interi positivi $p$, $a$ e $b$ soddisfano l'equazione $p^2 + a^2 = b^2$. Dimostrare che, se $p$ è un primo maggiore di 3, allora $a$ è un multiplo di 12 e $2(p+a+1)$ è un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2015#q02|src_bmo1_2015__Q02]]
 
 
 
@@ -81,9 +97,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta le modalità in cui un team può prenotare sette stanze lungo un corridoio con dieci stanze a lato in modo che non siano adiacenti due stanze riservate sullo stesso lato.*
+*Modi di prenotare sette camere su un corridoio di dieci per lato, senza adiacenze sullo stesso lato*
 
-> Un hotel ha dieci camere lungo ogni lato di un corridoio. Un capo di squadra olimpico desidera prenotare sette stanze sul corridoio in modo che non siano adiacenti due stanze riservate sullo stesso lato del corridoio. In quanti modi si può farlo?
+> Un albergo ha dieci camere su ciascun lato di un corridoio. Un caposquadra di olimpiade vuole prenotare sette camere sul corridoio in modo che due camere prenotate sullo stesso lato non siano adiacenti. In quanti modi si può fare?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo1_2015#q03|src_bmo1_2015__Q03]]
 
 
 
@@ -106,9 +129,16 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Con t=x+x^{-1} un numero intero maggiore di 2 e t_n=x^n+x^{-n}, dimostrare che t_n è sempre un numero intero e determinare n per il quale t divide t_n.*
+*$t_n = x^n + x^{-n}$ è intero, e quando $t$ divide $t_n$*
 
-> Che $x$ sia un numero reale tale che $t = x + x^{-1}$ sia un numero intero superiore a 2. Prove che $t_n = x^n + x^{-n}$ è un intero per tutti i numeri interi positivi $n$. Determinare i valori di $n$ per i quali $t$ divide $t_n$.
+> Sia $x$ un numero reale tale che $t = x + x^{-1}$ sia un intero maggiore di 2. Dimostrare che $t_n = x^n + x^{-n}$ è un intero per ogni intero positivo $n$. Determinare i valori di $n$ per cui $t$ divide $t_n$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2015#q04|src_bmo1_2015__Q04]]
 
 
 
@@ -130,9 +160,15 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un quadrilaterale ciclico con F il punto medio dell'arco AB non contenente C o D, le linee DF,AC si incontrano a P e CF,BD si incontrano a Q; dimostrare che PQ è parallelo ad AB.*
+*Dimostrare che $PQ$ è parallela ad $AB$*
 
-> Che il $ABCD$ sia un quadrilaterale ciclico. Il $F$ deve essere il punto medio dell'arco $AB$ del suo circoncircolo che non contiene $C$ o $D$. Lasciate che le linee $DF$ e $AC$ si incontrino a $P$ e le linee $CF$ e $BD$ si incontrino a $Q$. Prove che le linee $PQ$ e $AB$ sono parallele.
+> Sia $ABCD$ un quadrilatero ciclico. Sia $F$ il punto medio dell'arco $AB$ della circonferenza circoscritta che non contiene $C$ né $D$. Le rette $DF$ e $AC$ si incontrano in $P$ e le rette $CF$ e $BD$ si incontrano in $Q$. Dimostrare che le rette $PQ$ e $AB$ sono parallele.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo1_2015#q05|src_bmo1_2015__Q05]]
 
 
 
@@ -156,6 +192,14 @@ level: BMO Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determina tutte le funzioni f dai numeri interi positivi ai numeri interi positivi in modo tale che 1/a+1/b=1/c implica 1/f(a)+1/f(b)=1/f(c).*
+*Funzioni positive tali che $1/a + 1/b = 1/c$ implica la stessa relazione su $f$*
 
-> Determinare tutte le funzioni $f(n)$ dai numeri interi positivi ai numeri interi positivi che soddisfano la seguente condizione: quando $a$, $b$ e $c$ sono numeri interi positivi come $1/a + 1/b = 1/c$, allora $$1/f(a) + 1/f(b) = 1/f(c).$$
+> Determinare tutte le funzioni $f(n)$ dagli interi positivi agli interi positivi che soddisfano la condizione seguente: ogni volta che $a$, $b$ e $c$ sono interi positivi tali che $1/a + 1/b = 1/c$, allora
+> $$1/f(a) + 1/f(b) = 1/f(c).$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_bmo1_2015#q06|src_bmo1_2015__Q06]]

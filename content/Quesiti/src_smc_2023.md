@@ -35,7 +35,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta di una radice quadrata con denominatore di somma digitali*
+*Valore di una radice quadrata con denominatore costituito dalla somma delle cifre*
 
 > Qual è il valore di $\sqrt{\dfrac{2023}{2+0+2+3}}$?
 >
@@ -45,7 +45,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $19$
 > - **(E)** $21$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2023#q01|src_smc_2023__Q01]]
 
 
 
@@ -84,7 +88,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $\dfrac{3}{10000}$
 > - **(E)** $\dfrac{1}{30000}$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2023#q02|src_smc_2023__Q02]]
 
 
 
@@ -113,17 +121,21 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Effetto sulla superficie della base di scalazione verso l'alto e l'altezza verso il basso*
+*Effetto sull'area della scala con base in aumento e altezza in diminuzione*
 
-> La base di un triangolo è aumentata di $20\%$ e la sua altezza diminuita di $15\%$. Cosa succede alla sua zona?
+> La base di un triangolo viene aumentata di $20\%$ e la sua altezza viene diminuita di $15\%$. Cosa accade alla sua area?
 >
-> - **(A)** Riduce di $3\%$
-> - **(B)** Resta lo stesso .
-> - **(C)** Riduce di $2\%$
+> - **(A)** Diminuisce di $3\%$
+> - **(B)** Rimane uguale
+> - **(C)** Diminuisce di $2\%$
 > - **(D)** Aumenta di $2\%$
 > - **(E)** Aumenta di $5\%$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_smc_2023#q03|src_smc_2023__Q03]]
 
 
 
@@ -153,9 +165,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Velocità media di una gara a tre zampe record*
+*Velocità media di una gara a tre gambe record*
 
-> Nel 2016, il record mondiale per aver completato una gara a tre zampe di 5000 m era di 19 minuti e 6 secondi. E' stato ambientato da Damian Thacker e Luke Symonds a Sheffield. Qual era la loro velocità media approssimativa in km/h?
+> Nel 2016, il record mondiale per il completamento di una gara a tre gambe sui 5000 m era di 19 minuti e 6 secondi. Fu stabilito da Damian Thacker e Luke Symonds a Sheffield. Qual era la loro velocità media approssimativa in km/h?
 >
 > - **(A)** $10$
 > - **(B)** $12$
@@ -163,7 +175,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $18$
 > - **(E)** $25$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[skill_stima|skill_stima]]
+**Abilita:** [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2023#q04|src_smc_2023__Q04]]
 
 
 
@@ -194,9 +211,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area del triangolo che unisce i centri di tre cerchi in contatto*
+*Area del triangolo formato dai centri di tre cerchi tangenti*
 
-> Tre cerchi con radii $2$, $3$ e $3$ si toccano, come mostrato nel diagramma. Qual è l'area del triangolo formato dalla connessione dei centri di questi cerchi?
+> Tre cerchi con raggi $2$, $3$ e $3$ sono tangenti tra loro, come mostrato nel diagramma. Qual è l'area del triangolo formato unendo i centri di questi cerchi?
 >
 > - **(A)** $10$
 > - **(B)** $12$
@@ -206,7 +223,11 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2023__q05.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2023#q05|src_smc_2023__Q05]]
 
 
 
@@ -238,9 +259,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Line di tre celle adiacenti che sommano a un multiple di tre in una griglia 4x4*
+*In una griglia 4x4, righe di tre celle adiacenti la cui somma è un multiplo di tre*
 
-> Quante linee di tre celle adiacenti possono essere scelte da questa griglia, orizzontale, verticale o diagonale, in modo tale che la somma dei numeri nelle tre celle sia un multiple di tre? La griglia contiene i numeri $1$ a $16$ disposti in quattro righe: $1,2,3,4$; $5,6,7,8$; $9,10,11,12$; $13,14,15,16$.
+> Quante righe composte da tre celle adiacenti si possono scegliere in questa griglia, in orizzontale, in verticale o in diagonale, in modo che la somma dei numeri presenti nelle tre celle sia un multiplo di tre? La griglia contiene i numeri da $1$ a $16$ disposti in quattro righe: $1,2,3,4$; $5,6,7,8$; $9,10,11,12$; $13,14,15,16$.
 >
 > - **(A)** $30$
 > - **(B)** $24$
@@ -250,7 +271,12 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2023__q06.png]]
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2023#q06|src_smc_2023__Q06]]
 
 
 
@@ -280,9 +306,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*25° termine di una sequenza di differenza assoluta*
+*25° termine di una successione a differenza assoluta*
 
-> Una sequenza inizia con $2023, 2022, 1, \ldots$. Dopo i primi due termini, ogni termine è la differenza positiva tra i due termini precedenti. Qual è il valore del termine $25$?
+> Una successione inizia con $2023, 2022, 1, \ldots$. Dopo i primi due termini, ogni termine è la differenza positiva tra i due termini precedenti. Qual è il valore del termine $25$-esimo?
 >
 > - **(A)** $2010$
 > - **(B)** $2009$
@@ -290,7 +316,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $2007$
 > - **(E)** $2006$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2023#q07|src_smc_2023__Q07]]
 
 
 
@@ -319,7 +350,7 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Valuta di 99 volte la differenza dei decimali ricorrenti*
+*Valore di 99 volte una differenza di numeri decimali periodici*
 
 > Qual è il valore di $99(0.\dot{4}\dot{9}-0.\dot{4})$?
 >
@@ -329,7 +360,11 @@ level: Senior Mathematical Challenge
 > - **(D)** $2$
 > - **(E)** $1$
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2023#q08|src_smc_2023__Q08]]
 
 
 
@@ -361,9 +396,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero incrociato con quadrati, cubi e potenze*
+*Cruciforma con quadrati, cubi e potenze*
 
-> Un numero incrociato ha i seguenti indizi. Al di là: 1. Un quadrato; 3. Una quarta potenza. In basso: 1. Due volte una quinta potenza; 2. Un cubo. La griglia è un quadrato $3\times3$ con la cella centrale ombrata (bloccata); la cella 1 è in alto a sinistra, la cella 2 è in alto a destra, la cella 3 è in basso a sinistra e la cella superiore al centro è contrassegnata $*$. Se completato correttamente, il numero incrociato viene riempito con quattro numeri a tre cifre. Qual è la cifra $*$?
+> Il crucipuzzle ha i seguenti indizi. Orizzontali: 1. Un quadrato; 3. Una quarta potenza. Verticali: 1. Il doppio di una quinta potenza; 2. Un cubo. La griglia è un quadrato di $3\times3$ caselle, con la cella centrale ombreggiata (bloccata); la cella 1 è in alto a sinistra, la cella 2 è in alto a destra, la cella 3 è in basso a sinistra e la cella centrale della riga superiore è contrassegnata con $*$. Una volta compilato correttamente, il crucipuzzle contiene quattro numeri di tre cifre. Quale cifra è $*$?
 >
 > - **(A)** $0$
 > - **(B)** $1$
@@ -373,7 +408,12 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2023__q09.png]]
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2023#q09|src_smc_2023__Q09]]
 
 
 
@@ -403,9 +443,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quanti di 6,7,8,9,10 dividono la somma delle potenze di due*
+*Quanti tra 6, 7, 8, 9, 10 dividono una somma di potenze di due?*
 
-> Quanti dei numeri $6, 7, 8, 9, 10$ sono fattori della somma $2^{2024}+2^{2023}+2^{2022}$?
+> Quanti dei numeri $6, 7, 8, 9, 10$ sono divisori della somma $2^{2024}+2^{2023}+2^{2022}$?
 >
 > - **(A)** $1$
 > - **(B)** $2$
@@ -413,7 +453,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $4$
 > - **(E)** $5$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2023#q10|src_smc_2023__Q10]]
 
 
 
@@ -443,17 +488,22 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gli avversari tra Wendi, Xander, Yasser e Zoe*
+*Coloro che dicono la verità tra Wendi, Xander, Yasser e Zoe*
 
-> Wendi, Xander, Yasser e Zoe fanno le seguenti dichiarazioni. Wendi: "Xander sta mentendo". Yasser: "Zoe sta dicendo la verità". Xander: "Yasser sta mentendo". Zoe: "Wendi sta dicendo la verità".
+> Wendi, Xander, Yasser e Zoe fanno le seguenti affermazioni. Wendi: "Xander sta mentendo." Yasser: "Zoe dice la verità." Xander: "Yasser sta mentendo." Zoe: "Wendi dice la verità." Quali sono i possibili numeri di persone che dicono la verità?
 >
-> - **(A)** $1$ or $2$
-> - **(B)** $1$ or $3$
+> - **(A)** $1$ o $2$
+> - **(B)** $1$ o $3$
 > - **(C)** $2$
-> - **(D)** $2$ or $3$
+> - **(D)** $2$ o $3$
 > - **(E)** $3$
 
-**Risposta:** B
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2023#q11|src_smc_2023__Q11]]
 
 
 
@@ -483,9 +533,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Potenza massima di 7 diviso 50 fattori*
+*Massima potenza di 7 che divide 50 fattoriale*
 
-> La potenza massima di $7$ che è un fattore di $50!$ è $7^k$ (dove $n!=1\times2\times3\times4\times\ldots\times(n-1)\times n$). Che cos' è $k$?
+> La potenza massima di $7$ che è un fattore di $50!$ è $7^k$ (dove $n!=1\times2\times3\times4\times\ldots\times(n-1)\times n$). Che cos'è $k$?
 >
 > - **(A)** $4$
 > - **(B)** $5$
@@ -493,7 +543,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $7$
 > - **(E)** $8$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2023#q12|src_smc_2023__Q12]]
 
 
 
@@ -524,9 +579,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ratio degli angoli interni in un triangolo all'interno di un pentagono regolare*
+*Rapporto degli angoli interni di un triangolo all'interno di un pentagono regolare*
 
-> $PQRST$ è un pentagono regolare. Il punto $U$ si trova su $ST$ in modo tale che $\angle QPU$ sia un angolo retto. Qual è il rapporto degli angoli interni nel triangolo $PUT$?
+> $PQRST$ è un pentagono regolare. Il punto $U$ giace su $ST$ in modo che $\angle QPU$ sia un angolo retto. Qual è il rapporto tra gli angoli interni del triangolo $PUT$?
 >
 > - **(A)** $1:3:6$
 > - **(B)** $1:2:4$
@@ -536,7 +591,11 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2023__q13.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2023#q13|src_smc_2023__Q13]]
 
 
 
@@ -566,9 +625,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei valori di d per due punti su un cerchio centrato all'origine*
+*Somma dei valori di d per due punti su una circonferenza centrata nell'origine*
 
-> I punti $P\,(d,-d)$ e $Q\,(12-d,2d-6)$ si trovano entrambi sulla circonferenza dello stesso cerchio il cui centro è l'origine. Qual è la somma dei due valori possibili di $d$?
+> I punti $P\,(d,-d)$ e $Q\,(12-d,2d-6)$ giacciono entrambi sulla circonferenza della stessa circonferenza, il cui centro è l'origine. Qual è la somma dei due valori possibili di $d$?
 >
 > - **(A)** $-16$
 > - **(B)** $-4$
@@ -576,7 +635,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $8$
 > - **(E)** $16$
 
-**Risposta:** E
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2023#q14|src_smc_2023__Q14]]
 
 
 
@@ -606,9 +670,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Possibile numero di persone che hanno giocato a entrambe le attività sportive dato il limite di rapporto*
+*Numero possibile di persone che hanno praticato entramri gli sport, dati i vincoli del rapporto*
 
-> Nella classe di studenti di Bethany, il doppio delle persone che hanno giocato a basket è quello di calcio. Il doppio di persone che hanno giocato a calcio sono quelle che non hanno mai giocato. Quale delle seguenti opzioni avrebbe potuto essere il numero di persone che hanno giocato entrambi?
+> Nella classe di Bethany, composta da $30$ studenti, il numero di persone che hanno giocato a basket era il doppio di quello delle persone che hanno giocato a calcio. Il numero di persone che hanno giocato a calcio era il doppio di quello delle persone che non hanno giocato a nessuno dei due sport. Quale delle seguenti opzioni potrebbe essere stato il numero di persone che hanno giocato a entrambi gli sport?
 >
 > - **(A)** $19$
 > - **(B)** $14$
@@ -616,7 +680,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $5$
 > - **(E)** $0$
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2023#q15|src_smc_2023__Q15]]
 
 
 
@@ -646,9 +715,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Possibile numero di persone che hanno giocato a entrambe le attività sportive dato il limite di rapporto*
+*Numero possibile di persone che hanno praticato entramri gli sport, dati i vincoli del rapporto*
 
-> Nella classe di studenti di Bethany, il doppio delle persone che hanno giocato a basket è quello di calcio. Il doppio di persone che hanno giocato a calcio sono quelle che non hanno mai giocato. Quale delle seguenti opzioni avrebbe potuto essere il numero di persone che hanno giocato entrambi?
+> Nella classe di Bethany, composta da $30$ studenti, il numero di persone che hanno giocato a basket era il doppio di quello delle persone che hanno giocato a calcio. Il numero di persone che hanno giocato a calcio era il doppio di quello delle persone che non hanno giocato né a calcio né a basket. Quale delle seguenti opzioni potrebbe essere il numero di persone che hanno giocato sia a calcio sia a basket?
 >
 > - **(A)** $19$
 > - **(B)** $14$
@@ -656,7 +725,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $5$
 > - **(E)** $0$
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2023#q15(1zz9)|src_smc_2023__Q15(1zz9)]]
 
 
 
@@ -686,9 +760,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Possibile numero di persone che hanno giocato a entrambe le attività sportive dato il limite di rapporto*
+*Numero possibile di persone che hanno praticato entramri gli sport, dati i vincoli sul rapporto*
 
-> Nella classe di studenti di Bethany, il doppio delle persone che hanno giocato a basket è quello di calcio. Il doppio di persone che hanno giocato a calcio sono quelle che non hanno mai giocato. Quale delle seguenti opzioni avrebbe potuto essere il numero di persone che hanno giocato entrambi?
+> Nella classe di Bethany, composta da $30$ studenti, il numero di persone che hanno giocato a basket era il doppio di quello delle persone che hanno giocato a calcio. Il numero di persone che hanno giocato a calcio era il doppio di quello delle persone che non hanno giocato a nessuno dei due sport. Quale delle seguenti opzioni potrebbe essere stato il numero di persone che hanno giocato a entrambi gli sport?
 >
 > - **(A)** $19$
 > - **(B)** $14$
@@ -696,7 +770,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $5$
 > - **(E)** $0$
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2023#q15(lehr)|src_smc_2023__Q15(leHr)]]
 
 
 
@@ -727,9 +806,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di sezione trasversale del trapezio di un cubo*
+*Area della sezione trasversale trapezoidale di un cubo*
 
-> $G$ e $H$ sono i punti medi di due bordi adiacenti di un cubo. Si forma una sezione trasversale a forma di trapezio attraverso $G$, $H$ e due altri vertici, come mostrato. La lunghezza del bordo del cubo è $2\sqrt{2}$. Qual è l'area del trapezio?
+> $G$ e $H$ sono i punti medi di due spigoli adiacenti di un cubo. Tagliando attraverso $G$, $H$ e altri due vertici, come mostrato, si ottiene una sezione trasversale a forma di trapezio. La lunghezza dello spigolo del cubo è $2\sqrt{2}$. Qual è l'area del trapezio?
 >
 > - **(A)** $9$
 > - **(B)** $8$
@@ -739,7 +818,11 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2023__q16.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2023#q16|src_smc_2023__Q16]]
 
 
 
@@ -769,9 +852,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*quinta e sesta cifre del più grande numero pandigitale con coppie consecutive non prime*
+*5° e 6° cifra del più grande numero pandigitale con coppie consecutive non prime*
 
-> Il numero $M=124563987$ è il numero più piccolo che utilizza tutte le cifre non zero una volta ogni volta e che ha la proprietà che nessuna delle coppie delle sue cifre consecutive rende un numero primo. Ad esempio, i 5° e 6° cifre di $M$ rendono il numero $63$ che non è primo. $N$ è il numero più grande che utilizza tutte le cifre non zero una volta ogni volta e che ha la proprietà che nessuna delle coppie delle sue cifre consecutive rende un numero primo. Quali sono i 5° e 6° cifre di $N$?
+> Il numero $M=124563987$ è il più piccolo numero che utilizza una sola volta ciascuna delle cifre non nulle e che ha la proprietà che nessuna delle coppie delle sue cifre consecutive formi un numero primo. Ad esempio, la 5ª e la 6ª cifra di $M$ formano il numero $63$, che non è primo. $N$ è il più grande numero che utilizza una sola volta ciascuna delle cifre non nulle e che ha la proprietà che nessuna delle coppie delle sue cifre consecutive formi un numero primo. Quali sono la 5ª e la 6ª cifra di $N$?
 >
 > - **(A)** $6$ e $3$
 > - **(B)** $5$ e $4$
@@ -779,7 +862,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $4$ e $8$
 > - **(E)** $3$ e $5$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2023#q17|src_smc_2023__Q17]]
 
 
 
@@ -809,9 +897,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di soluzioni di una equazione trigonometrica cubica in seno*
+*Numero di soluzioni di un'equazione trigonometrica cubica in seno*
 
-> Quante soluzioni ci sono dell'equazione $1+2\sin X-4\sin^2 X-8\sin^3 X=0$ con $0^\circ<X<360^\circ$?
+> Quante soluzioni ha l'equazione $1+2\sin X-4\sin^2 X-8\sin^3 X=0$ con $0^\circ<X<360^\circ$?
 >
 > - **(A)** $1$
 > - **(B)** $2$
@@ -819,7 +907,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $6$
 > - **(E)** $8$
 
-**Risposta:** C
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2023#q18|src_smc_2023__Q18]]
 
 
 
@@ -849,9 +942,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa dei valori interi di un'espressione razionale*
+*Somma dei valori interi di un'espressione razionale*
 
-> L'espressione $\dfrac{7n+12}{2n+3}$ assume valori interi per alcuni valori interi di $n$. Qual è la somma di tutti questi valori interi dell'espressione?
+> L'espressione $\dfrac{7n+12}{2n+3}$ assume valori interi per alcuni valori interi di $n$. Qual è la somma di tutti i valori interi assunti dall'espressione in tali casi?
 >
 > - **(A)** $4$
 > - **(B)** $8$
@@ -859,7 +952,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $12$
 > - **(E)** $14$
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2023#q19|src_smc_2023__Q19]]
 
 
 
@@ -890,9 +988,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Esprimere q in termini di p e r per incontrare i passeggiatori su un campo angolato retto*
+*Esprimi q in funzione di p e r per gli escursionisti che si incontrano in un campo a angolo retto*
 
-> Il triangolo $LMN$ rappresenta un campo rettangolare con $LM=r$, $LX=p$ e $XN=q$. Jenny e Vicky camminano alla stessa velocità in direzioni opposte lungo il bordo del campo, partendo allo stesso tempo da $X$. Il loro primo incontro si svolgerà a $M$. Quali di queste espressioni forniscono $q$ in termini di $p$ e $r$?
+> Il triangolo $LMN$ rappresenta un campo rettangolo con $LM=r$, $LX=p$ e $XN=q$. Jenny e Vicky camminano alla stessa velocità in direzioni opposte lungo il bordo del campo, partendo contemporaneamente da $X$. Il loro primo incontro avviene in $M$. Quale di queste espressioni fornisce $q$ in funzione di $p$ e $r$?
 >
 > - **(A)** $\dfrac{p}{2}+r$
 > - **(B)** $\sqrt{p^2+r^2}+\dfrac{p}{2}$
@@ -902,7 +1000,11 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2023__q20.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2023#q20|src_smc_2023__Q20]]
 
 
 
@@ -933,9 +1035,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza QX con un semicircolo inserito in un triangolo equilaterale*
+*Lunghezza QX con un semicerchio inscritto in un triangolo equilatero*
 
-> Il triangolo $PQR$ è equilaterale. Un semicircolo con centro $O$ è disegnato con il suo diametro su $PR$ in modo che una estremità sia a $P$ e il bordo curvo tocchi $QR$ a $X$. Il raggio del semicircolo è $\sqrt{3}$. Qual è la lunghezza di $QX$?
+> Il triangolo $PQR$ è equilatero. Si traccia un semicerchio avente centro in $O$ e diametro giacente su $PR$, in modo che un'estremità del diametro sia in $P$ e il bordo curvo tocchi $QR$ in $X$. Il raggio del semicerchio è $\sqrt{3}$. Qual è la lunghezza di $QX$?
 >
 > - **(A)** $\sqrt{3}$
 > - **(B)** $2-\sqrt{3}$
@@ -945,7 +1047,11 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2023__q21.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2023#q21|src_smc_2023__Q21]]
 
 
 
@@ -976,9 +1082,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Che bozza corrisponde a y = sin(arccos x)*
+*Quale disegno corrisponde a y = sin(arccos x)?*
 
-> Quale diagramma potrebbe essere uno schema della curva $y=\sin(\cos^{-1} x)$?
+> Quale diagramma potrebbe essere uno schizzo della curva $y=\sin(\cos^{-1} x)$?
 >
 > - **(A)** grafico A
 > - **(B)** grafico B
@@ -988,7 +1094,11 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2023__q22.png]]
 
-**Risposta:** C
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_analitica|Geometria analitica]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+
+[[Quesiti/src_smc_2023#q22|src_smc_2023__Q22]]
 
 
 
@@ -1018,9 +1128,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di pentagono formata piegando un rettangolo 3:1*
+*Area del pentagono formato piegando un rettangolo in rapporto 3:1*
 
-> La lunghezza di un pezzo di carta rettangolare è tre volte più larga. La carta è piegata in modo che un vertice si trovi sopra il vertice opposto, formando così una forma pentagonale. Qual è l'area del pentagono come frazione dell'area del rettangolo originale?
+> La lunghezza di un foglio di carta rettangolare è tre volte la sua larghezza. Il foglio viene piegato in modo che un vertice venga a trovarsi sopra il vertice opposto, formando così una figura pentagonale. Qual è l'area del pentagono in frazione dell'area del rettangolo originale?
 >
 > - **(A)** $\dfrac{2}{3}$
 > - **(B)** $\dfrac{11}{16}$
@@ -1028,7 +1138,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $\dfrac{13}{18}$
 > - **(E)** $\dfrac{14}{19}$
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2023#q23|src_smc_2023__Q23]]
 
 
 
@@ -1060,9 +1175,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza laterale di un quadrato inciso in un esagono regolare*
+*Lunghezza del lato di un quadrato inscritto in un esagono regolare*
 
-> Un quadrato ha i suoi vertici sui bordi di un esagono regolare. Due dei bordi del quadrato sono paralleli a due bordi dell'esagono, come mostrato nel diagramma. I lati dell'esagono hanno lunghezza $1$. Qual è la lunghezza dei lati del quadrato?
+> Un quadrato ha i vertici sui lati di un esagono regolare. Due dei lati del quadrato sono paralleli a due lati dell'esagono, come mostrato nel diagramma. I lati dell'esagono hanno lunghezza $1$. Qual è la lunghezza dei lati del quadrato?
 >
 > - **(A)** $\dfrac{5}{4}$
 > - **(B)** $3-\sqrt{3}$
@@ -1072,7 +1187,12 @@ level: Senior Mathematical Challenge
 
 ![[src_smc_2023__q24.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2023#q24|src_smc_2023__Q24]]
 
 
 
@@ -1102,9 +1222,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di regione definita da una disuguaglianza polinomica con vincoli*
+*Area della regione definita da una disuguaglianza polinomiale con vincoli*
 
-> Qual è l'area della parte del piano $xy$ all'interno del quale $x^3y^2-x^2y^2-xy^4+xy^3\ge 0$ e $0\le x\le y$?
+> Qual è l'area della parte del piano $xy$ in cui $x^3y^2-x^2y^2-xy^4+xy^3\ge 0$ e $0\le x\le y$?
 >
 > - **(A)** $\dfrac{1}{4}$
 > - **(B)** $\dfrac{1}{2}$
@@ -1112,4 +1232,9 @@ level: Senior Mathematical Challenge
 > - **(D)** $2$
 > - **(E)** $4$
 
-**Risposta:** A
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2023#q25|src_smc_2023__Q25]]

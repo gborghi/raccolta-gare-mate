@@ -41,15 +41,28 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri iscritti: una cifra è la somma di tutte le altre cifre*
+*Numero di iscritti: una cifra è uguale alla somma di tutte le altre cifre*
 
-> Diciamo che un intero positivo è *enrolled* (*enrollado*) se soddisfa entrambe le seguenti condizioni: - Una delle sue cifre e' la somma di tutte le altre.
-> 
-> Ad esempio: - $2013$ è iscritto, poiché $3 = 2 + 0 + 1$. - $220$ è iscritto, poiché $2 = 0 + 2$. - $789$ non è iscritta, poiché nessuna delle sue cifre è uguale alla somma delle restanti. - $22$ non è iscritto, poiché ha solo due cifre (nota che $022$ equivale a $22$, quindi non è iscritto).
-> 
-> a) Qual è il più grande numero iscritto formato da distinti numeri non zero?
-> 
-> b) Quanti numeri a tre cifre sono iscritti?
+> Diciamo che un numero intero positivo è *enrolled* (*enrolado*) se soddisfa entrambe le seguenti condizioni:
+> - Ha tre o più cifre.
+> - Una delle sue cifre è uguale alla somma di tutte le altre.
+>
+> Ad esempio:
+> - $2013$ è iscritto, da $3 = 2 + 0 + 1$.
+> - $220$ è iscritto, da $2 = 0 + 2$.
+> - $789$ non è iscritto, poiché nessuno dei suoi digit è uguale alla somma degli altri.
+> - $22$ non è iscritto, poiché ha solo due cifre (si noti che $022$ è uguale a $22$, quindi non è iscritto).
+>
+> a) Qual è il numero iscritto più grande formato da cifre distinte e non nulle?
+>
+> b) Quanti numeri di iscrizione a tre cifre esistono?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n1_f3#q01|src_obm_2013_n1_f3__Q01]]
 
 
 
@@ -76,13 +89,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di tre pile di monete; l'ultimo giocatore a dividere una pila vince tutte le monete*
+*Gioco dei tre mucchi di monete: l'ultimo giocatore a dividere un mucchio vince tutte le monete*
 
-> Su un tavolo ci sono tre pile di monete: una con $19$, una con $13$ e una con $6$ monete. Ana, Beatriz e Clara decidono di disputare queste monete come segue: in ordine alfabetico dei loro nomi, ognuno sceglie qualsiasi pila e la divide in due pile più piccole. Il giocatore che non può fare una mossa perde la partita (un giocatore non può muoversi quando tutte le pile hanno esattamente $1$ moneta); l'ultimo giocatore a fare una mossa vince tutte le monete.
-> 
-> a) Dopo la prima volta di Clara, quante piume ci saranno sul tavolo?
-> 
+> Su un tavolo ci sono tre mucchi di monete: uno con $19$ monete, uno con $13$ monete e uno con $6$ monete. Ana, Beatriz e Clara decidono di contendersi queste monete nel modo seguente: in ordine alfabetico dei loro nomi, ciascuna sceglie un mucchio qualsiasi e lo divide in due mucchi più piccoli. Il giocatore che non può muovere perde la partita (un giocatore non può muovere quando tutti i mucchi hanno esattamente $1$ monete); l'ultimo giocatore a muovere vince tutte le monete.
+>
+> a) Dopo il primo turno di Clara, quante pile ci saranno sul tavolo?
+>
 > b) Chi prenderà tutte le monete?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n1_f3#q02|src_obm_2013_n1_f3__Q02]]
 
 
 
@@ -113,17 +133,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La carta quadrata piegata a ciascun vertex forma una ruota di pin; trova il rapporto area grigio/bianco e area sovrapposizione*
+*Un foglio quadrato piegato in ciascun vertice forma una girandola; determina il rapporto tra l'area grigia e quella bianca e l'area di sovrapposizione*
 
-> Paulo ha un foglio quadrato $ABCD$ con lato $20$ cm. La parte anteriore del foglio è bianca e la parte posteriore è grigio. Segna il centro $X$ del quadrato $ABCD$ Per realizzare la piega si taglia lungo il segmento $BE$, dove $E$ è il punto medio di un lato, e si piega il tappo triangolare in modo che il punto $B$ incontra il punto $E$ (cioè il vertice $B$ si piega per incontra il centro $X$ della piega). Egli ripete la procedura per ciascuno degli altri tre vertici del quadrato, completando la ruota di pinna (*cata-vento*), come mostrato nella figura.
-> 
-> a) Qual è il rapporto tra la zona grigia e la zona bianca nella figura?
-> 
-> b) Paulo ha poi preso un altro foglio quadrato $XYZW$, identico al foglio $ABCD$, e ha montato un altro pinwheel. Ha ruotato la ruota $XYZW$ per $45^\circ$ e la ha collocata sopra la ruota $ABCD$ in modo che le cifre fossero sovrapposte, come mostrato nella figura di seguito.
-> 
-> Qual è l'area bianca totale della figura combinata?
+> Paulo ha un foglio di carta quadrato $ABCD$ con lato di $20$ cm. La faccia anteriore del foglio è bianca e quella posteriore è grigia. Segna il centro $X$ del quadrato $ABCD$. Per eseguire la piega, taglia lungo il segmento $BE$, dove $E$ è il punto medio di un lato, e piega la linguetta triangolare in modo che il punto $B$ coincida con il punto $E$ (ossia il vertice $B$ viene piegato in modo da coincidere con il centro $X$ della piega). Ripete la procedura per ciascuno degli altri tre vertici del quadrato, completando il cata-vento, come mostrato nella figura.
+>
+> a) Qual è il rapporto tra l'area grigia e l'area bianca nella figura?
+>
+> b) Paulo prese poi un altro foglio quadrato $XYZW$, identico al foglio $ABCD$, e assemblò un altro mulino a vento. Ruotò il mulino a vento $XYZW$ di $45^\circ$ e lo posizionò sopra il mulino a vento $ABCD$ in modo che le figure risultassero sovrapposte, come mostrato nella figura sottostante.
+>
+> Qual è l'area bianca totale della figura composta?
 
 ![[src_obm_2013_n1_f3__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n1_f3#q03|src_obm_2013_n1_f3__Q03]]
 
 
 
@@ -150,13 +177,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza mediante concatenamento di numeri interi consecutivi; cifra unitaria del decimo termine e prima comparsa del 2013*
+*Sequenza ottenuta concatenando interi consecutivi; cifra delle unità del decimo termine e prima comparsa di 2013*
 
-> Considera la sequenza $1,\ 23,\ 456,\ 78910,\ 1112131415,\ \ldots$, costruita con i numeri utilizzati per scrivere i numeri interi positivi a partire da $1$. Il primo termine è il primo intero positivo scritto; il secondo termine è formato dalle cifre dei due numeri interi consecutivi successivi; il terzo termine è formato dalle cifre dei tre numeri interi consecutivi successivi; e così via, ogni termine successivo utilizza un numero intero in più rispetto al precedente.
-> 
-> a) Qual è il numero di unità del decimo termine di questa sequenza? Non dimenticate di giustificare la vostra risposta.
-> 
-> b) In quale termine di questa sequenza appare per la prima volta la stringa di numeri $2013$ (in ordine)? Per esempio, la stringa $121$ appare per la prima volta nel quinto termine, $11\mathbf{121}31415$.
+> Si consideri la successione $1,\ 23,\ 456,\ 78910,\ 1112131415,\ \ldots$, costruita con le cifre utilizzate per scrivere gli interi positivi a partire da $1$. Il primo termine è il primo intero positivo scritto; il secondo termine è formato dalle cifre dei due interi consecutivi successivi; il terzo termine è formato dalle cifre dei tre interi consecutivi successivi; e così via, con ogni termine successivo che utilizza un intero in più rispetto al precedente.
+>
+> a) Qual è la cifra delle unità del decimo termine di questa successione? Non dimenticare di giustificare la tua risposta.
+>
+> b) In quale termine di questa successione compare per la prima volta, in ordine, la stringa di cifre $2013$? Ad esempio, la stringa $121$ compare per la prima volta nel quinto termine, $11\mathbf{121}31415$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n1_f3#q04|src_obm_2013_n1_f3__Q04]]
 
 
 
@@ -187,14 +221,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riempire la griglia 3x3 con numeri interi positivi distinti in modo che due numeri adiacenti si dividano tra loro*
+*Riempi una griglia 3x3 con interi positivi distinti in modo che ogni coppia di numeri adiacenti si divida a vicenda*
 
-> Desideriamo riempire una tabella $3 \times 3$ con $9$ numeri interi positivi distinti in modo tale che due numeri che condividono un lato soddisfino: uno è divisibile dall'altro (cioè, per due voci adiacenti $a$ e $b$, sia $a \mid b$ o $b \mid a$).
-> 
-> Considera la seguente configurazione che soddisfa le condizioni del problema, in cui il numero più grande nella tabella è $25$:
-> 
+> Vogliamo riempire una tabella $3 \times 3$ con $9$ interi positivi distinti tali che due numeri che condividono un lato soddisfino la condizione secondo cui uno è divisibile per l'altro (cioè, per due voci adiacenti qualsiasi $a$ e $b$, vale o $a \mid b$ oppure $b \mid a$).
+>
+> Si consideri la seguente configurazione che soddisfa le condizioni del problema, in cui il numero più grande nella tabella è $25$:
+>
 > $$\begin{array}{|c|c|c|}\hline 8 & 2 & 10 \\ \hline 4 & 20 & 5 \\ \hline 12 & 1 & 25 \\\hline\end{array}$$
-> 
-> a) Presentare un modo per riempire la tabella in modo che il numero più grande che appare sia $22$.
-> 
-> b) Qual è il numero intero positivo più piccolo che può essere il numero più grande che appare nella tabella?
+>
+> a) Presenta un modo per compilare la tabella in modo che il numero più grande che compare sia $22$.
+>
+> b) Qual è il più piccolo numero intero positivo che può essere il numero più grande che compare nella tabella?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f3#q05|src_obm_2013_n1_f3__Q05]]

@@ -40,19 +40,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cube composed of 4 identical bricks*
+*Which of the cubes can he build?*
 
 ![[src_kangourou_2021_ecolier__prob1.png]]
 
-> Henry has the four bricks, identical in size, which you can see in the figure: Which of the cubes shown below can it compose? A) B)
-> 	
+> Enrico has the 4 bricks, identical in size, that you see in the picture. Which of the cubes shown below can he build?
+>
+> A)
+> B)
 > C)
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_ecolier#q01|src_kangourou_2021_ecolier__Q01]]
 
 
 
@@ -86,21 +90,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fish with their snouts towards the ring while stretching the rope*
+*How many fish have their mouths towards the ring?*
 
 ![[src_kangourou_2021_ecolier__prob2.png]]
 
-> If we stretch the rope, how many fish turn out to have their mouths facing the ring? A) 3
-> 	
+> If we pull the rope taut, how many fish have their mouths towards the ring?
+>
+> A) 3
 > B) 5
-> 	
 > C) 6
-> 	
 > D) 7
-> 	
 > E) 8
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_ecolier#q02|src_kangourou_2021_ecolier__Q02]]
 
 
 
@@ -135,21 +141,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result of the addition in the tile puzzle*
+*What is its result?*
 
 ![[src_kangourou_2021_ecolier__prob3.png]]
 
-> By fitting the four puzzle tiles together correctly, you get a rectangle in which you read an addition. What is the result? A) 6
-> 	
+> If the four puzzle tiles are fitted together correctly, one obtains a rectangle in which an addition can be read. What is its result?
+>
+> A) 6
 > B) 15
-> 	
 > C) 18
-> 	
 > D) 24
-> 	
 > E) 33
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_ecolier#q03|src_kangourou_2021_ecolier__Q03]]
 
 
 
@@ -188,20 +196,28 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fragment that is part of the smiling sun*
+*Which fragment is part of her drawing?*
 
 ![[src_kangourou_2021_ecolier__prob4.png]]
 
-> Alessia drew the smiling sun you see here. Which of the following fragments is part of her drawing? A)
-> 	
-> B) C)
-> 	
-> D)
-> 	
-> E) 1 3 + 2
+> Alessia drew the smiling sun you see beside. Which of the following fragments is part of her drawing?
 >
+> A)
+> B)
+> C)
+> D)
+> E)
+>
+> 1
+> 3
+> +
+> 2
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_ecolier#q04|src_kangourou_2021_ecolier__Q04]]
 
 
 
@@ -236,21 +252,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Target with the highest score*
+*Which target is his?*
 
 ![[src_kangourou_2021_ecolier__prob5.png]]
 
-> In the answers, you see the targets hit by five boys during a shooting match with the bow. Riccardo has totaled the highest score: what's his target? A)
->  	
+> In the answers you see the targets hit by five boys in an archery contest. Riccardo scored the highest: which is his target?
+>
+> A)
 > B)
->  	
 > C)
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_ecolier#q05|src_kangourou_2021_ecolier__Q05]]
 
 
 
@@ -286,24 +304,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number at the mark on the tape measure wrapped around the cylinder*
+*Which number is at the mark indicated by the question mark?*
 
 ![[src_kangourou_2021_ecolier__prob6.png]]
 
-> A tape measure is wrapped around a cylinder as
-> shown in the figure. Which number is found at
-> the mark indicated by the question mark?
-> A) 33	
-	
-> B) 42	
-	
-> C) 48	
-	
-> D) 53	
-	
+> A tape measure is wound around a cylinder, as the picture shows. Which number is found at the mark indicated by the question mark?
+>
+> A) 33
+> B) 42
+> C) 48
+> D) 53
 > E) 69
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_ecolier#q06|src_kangourou_2021_ecolier__Q06]]
 
 
 
@@ -337,19 +354,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Gold flame little stars given 20 total and +6*
+*How many stars did the gold firework send out?*
 
-> Daniel exploded a silver fireworks and a gold one at the same time. In all, the two fireworks have produced 20 little stars. The golden firework gave out six more little stars than the silver one. How many little stars did the golden firework give out? A) 9
-> 	
+> Daniele set off a silver firework and a gold one at the same moment. Altogether the two fireworks sent out 20 stars. The gold one sent out 6 more than the silver one. How many stars did the gold firework send out?
+>
+> A) 9
 > B) 10
-> 	
 > C) 12
-> 	
 > D) 13
-> 	
 > E) 15
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_ecolier#q07|src_kangourou_2021_ecolier__Q07]]
 
 
 
@@ -382,13 +401,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight of each white ball from the balance*
+*What is the weight of each white sphere?*
 
 ![[src_kangourou_2021_ecolier__prob8.png]]
 
-> Rossana has some spheres, three different colors. Spheres of the same colour have the same weight. The balances in the figure show the overall weight of some groups of these spheres. What's the weight of each white sphere? A) 3 kg B) 4 kg C) 5 kg D) 6 kg E) 7 kg Questions from N. 9 to N. 16 are worth 4 points each.
+> Rossana has some spheres, of 3 different colours. Spheres of the same colour have the same weight. The scales in the picture show the total weight of some groups of these spheres. What is the weight of each white sphere?
+>
+> A) 3 kg
+> B) 4 kg
+> C) 5 kg
+> D) 6 kg
+> E) 7 kg
+>
+> Questions 9 to 16 are worth 4 points each.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_ecolier#q08|src_kangourou_2021_ecolier__Q08]]
 
 
 
@@ -423,19 +454,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Leaves remaining on the three branches of eucalyptus*
+*How many leaves are left in all on the three branches?*
 
-> A koala ate some leaves from three branches of eucalyptus. Each branch had 20 leaves: the koala from the first branch ate some and from the second branch ate as many leaves as were left on the first. Finally, he ate 2 leaves from the third branch. How many leaves in all are left on the three branches? A) 20
-> 	
+> A koala ate some leaves from three branches of a eucalyptus. Each branch had 20 leaves: from the first branch the koala ate some, and from the second branch it ate as many leaves as were left on the first. Finally it ate 2 leaves from the third branch. How many leaves are left in all on the three branches?
+>
+> A) 20
 > B) 22
-> 	
 > C) 28
-> 	
 > D) 32
-> 	
 > E) 38
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_ecolier#q09|src_kangourou_2021_ecolier__Q09]]
 
 
 
@@ -484,20 +517,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Euro in the cash register at the opening given the ice cream sales*
+*How many euros did Mario have in the till when he opened?*
 
-> This morning, when he opened the store, the ice cream maker Mario had a certain amount of money in the cash register. After selling six ice creams, he had 70 euros in the cash register. Now that he's sold a total of 16 ice creams, he has 120 euros in the cash register. All the ice creams sold had the same price: how many euros did Mario have in the cash register when he opened the store? A) 20
-> 	
-> B) 30
-> 	
-> C) 40
-> 	
-> D) 50
-> 	
-> E) 60 10 9 8 7 10 9 8 7 10 9 8 7 10 9 8 7 10 9 8 7 6 kg 14 kg 10 kg
+> This morning, when he opened the shop, the ice-cream seller Mario had a certain amount of money in the till. After selling 6 ice creams, he had 70 euros in the till. Now that he has sold 16 ice creams in all, he has 120 euros in the till. All the ice creams sold had the same price. How many euros did Mario have in the till when he opened the shop?
 >
+> A) 20
+> B) 30
+> C) 40
+> D) 50
+> E) 60
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_ecolier#q10|src_kangourou_2021_ecolier__Q10]]
 
 
 
@@ -538,23 +572,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Alignment that prevents Gina from grouping
+*Which line should Nina choose?*
 
 ![[src_kangourou_2021_ecolier__prob11.png]]
 
-> Every card in a strange deck of cards shows one of the figures on the right. Nina and Gina play like this: one lines up five cards of the deck on the table and the other tries to match all the cards containing the same figure by making only one exchange between two cards. Which of the following alignments must Nina choose if she wants to prevent Gina from achieving her goal? A)
-> 	
+> Each card in a strange pack shows one of the pictures you find on the right. Nina and Gina play like this: one of them lines up five cards from the pack on the table, and the other must try to bring together all the cards showing the same picture by making only one swap of two cards. Which of the following lines should Nina choose if she wants to stop Gina from reaching her goal?
+>
+> A)
 > B)
->  	
 > C)
-> 	
-> 	
 > D)
-> 	
-> 	
 > E)
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_ecolier#q11|src_kangourou_2021_ecolier__Q11]]
 
 
 
@@ -586,20 +620,23 @@ Alignment that prevents Gina from grouping
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cookie to take from jar 4*
+*Which shape must she take from vase 4?*
 
 ![[src_kangourou_2021_ecolier__prob12.png]]
 
-> Sofia wants to take 5 different cookies from these
-> five jars. She can take only one cookie from each
-> jar. Which cookie must she take from jar 4?
-> A) 	
-> B) 	
-> C) 	
-> D) 	
+> Sofia wants to take 5 different shapes from these five vases. She may take only one shape from each vase. Which shape must she take from vase 4?
+>
+> A)
+> B)
+> C)
+> D)
 > E) She cannot do it.
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_ecolier#q12|src_kangourou_2021_ecolier__Q12]]
 
 
 
@@ -638,21 +675,23 @@ Alignment that prevents Gina from grouping
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final result by combining arrow tokens*
+*What is the final result?*
 
 ![[src_kangourou_2021_ecolier__prob13.png]]
 
-> Look at the figure: in each of the five tokens there's a number with an arrow above it. If the arrows in two adjacent tokens point in opposite directions, we replace these two tokens with a new token where the number is the sum of the two numbers and the arrow is oriented as it was on the larger number, as shown in this example. If we follow this rule, what is the end result? A)
-> 	
+> Look at the picture: on each of the 5 counters there is a number with an arrow above it. If the arrows on two adjacent counters point opposite ways, we replace those two counters by a new counter whose number is the sum of the two numbers and whose arrow points as it did on the larger number, as shown in this example. Going on according to this rule, what is the final result?
+>
+> A)
 > B)
-> 	
 > C)
-> 	
 > D)
-> 	
 > E)
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2021_ecolier#q13|src_kangourou_2021_ecolier__Q13]]
 
 
 
@@ -713,20 +752,21 @@ Alignment that prevents Gina from grouping
 <div class="qlang-split" data-lang="en"></div>
 
 
-Box in which Eva attached the flower
+*In which panel did Eva stick the flower?*
 
-> Eva has the five stickers shown here next to her: she attaches one in each of the five frames of this board so that the star is not in box 5, the fruit is in box 1 or box 2, the flower is adjacent both to the circle and to the triangle. In what frame did Eva attach the flower? A) 1
-> 	
-> B) 2
-> 	
-> C) 3
-> 	
-> D) 4
-> 	
-> E) 5 Vaso 1 Vaso 2 Vaso 5 Vaso 3 Vaso 4 10 20 9 3 7 11 4 15 => 50 48 49 50 49 1 2 3 4 5
+> Eva has the five stickers shown beside. She sticks one in each of the 5 panels of this board, so that the star is not in panel 5, the fruit is in panel 1 or in panel 2, and the flower is next both to the circle and to the triangle. In which panel did Eva stick the flower?
 >
+> A) 1
+> B) 2
+> C) 3
+> D) 4
+> E) 5
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_ecolier#q14|src_kangourou_2021_ecolier__Q14]]
 
 
 
@@ -762,21 +802,23 @@ Box in which Eva attached the flower
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the remaining fire ladder*
+*How many metres long is the remaining ladder?*
 
 ![[src_kangourou_2021_ecolier__prob15.png]]
 
-> On a very high building there are 4 fire ladders, as shown in the figure. For three of the ladders, the corresponding heights in metres are indicated at the top. How long is the remaining ladder? A) 12
-> 	
+> On a very tall building there are 4 fire-escape ladders, as the picture shows. For three of the ladders the corresponding heights in metres are marked at the top. How many metres long is the remaining ladder?
+>
+> A) 12
 > B) 14
-> 	
 > C) 16
-> 	
 > D) 20
-> 	
 > E) 22
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_ecolier#q15|src_kangourou_2021_ecolier__Q15]]
 
 
 
@@ -817,28 +859,26 @@ Box in which Eva attached the flower
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Appearance of the three cups after the tenth move*
+*How will the three cups look after the tenth move?*
 
 ![[src_kangourou_2021_ecolier__prob16.png]]
 
-> Nora has lined up 3 cups on the kitchen table and plays
-> like this: she takes the leftmost cup, turns it upside down and places it
-> to the right of the other two cups. The figure shows the first move.
-> How will the three cups appear after the tenth move?
-> A)	
->  	
-> 	
-> B) 	
-> 	
-> 	
-> C) 
-> D)	
->  	
-> 	
-> E) 
-> Questions from No. 17 to No. 24 are worth 5 points each
+> Nora lined up 3 cups on the kitchen table and plays like this: she takes the leftmost cup, turns it upside down and sets it down to the right of the other two cups. The picture shows the first move. How will the three cups look after the tenth move?
+>
+> A)
+> B)
+> C)
+> D)
+> E)
+>
+> Questions 17 to 24 are worth 5 points each.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2021_ecolier#q16|src_kangourou_2021_ecolier__Q16]]
 
 
 
@@ -877,21 +917,23 @@ Box in which Eva attached the flower
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum modules for three regions with two of 6 trees*
+*What is the least number of modules he must move?*
 
 ![[src_kangourou_2021_ecolier__prob17.png]]
 
-> As you can see in the figure, Luca has a square field with 16 trees and an inner fence, consisting of nine movable modules, divided into four regions: one with 8 trees, two with 3 trees and one with 2 trees. He wants to move some of the modules so as to form exactly three regions, two of which have six trees. What is the minimum number of modules he must move to carry out his plan? A) 2
-> 	
+> As you see in the picture, Luca has a square field with 16 trees and an inner fence, made of nine movable "modules", which mark off four regions: one with 8 trees, two with 3 trees and one with 2 trees. He wants to move some of the modules so as to form exactly three regions, two of them with 6 trees. What is the least number of modules he must move to carry out his plan?
+>
+> A) 2
 > B) 3
-> 	
 > C) 4
-> 	
 > D) 5
-> 	
 > E) 6
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_ecolier#q17|src_kangourou_2021_ecolier__Q17]]
 
 
 
@@ -928,21 +970,23 @@ Box in which Eva attached the flower
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which card to flip for equal sums*
+*Which card?*
 
 ![[src_kangourou_2021_ecolier__prob18.png]]
 
-> I have seven cards: each card has two numbers, each one upside down with respect to the other. At this time, the cards are arranged as shown. I want to make sure that the sum of the numbers on the top line is equal to the sum of the numbers on the bottom line. To achieve my purpose, I just have to flip one of the cards. Which one? A) A
-> 	
+> I have seven cards: each card shows two numbers, each upside down relative to the other. At the moment the cards are arranged as in the picture. I want the sum of the numbers on the upper row to equal the sum of the numbers on the lower row. To achieve this I need only turn one of the cards over. Which one?
+>
+> A) A
 > B) C
-> 	
 > C) D
-> 	
 > D) F
-> 	
 > E) G
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_ecolier#q18|src_kangourou_2021_ecolier__Q18]]
 
 
 
@@ -998,22 +1042,43 @@ Box in which Eva attached the flower
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number in the grey square from adjacent sums*
+*Which number is in the grey square?*
 
 ![[src_kangourou_2021_ecolier__prob19.png]]
 
-> I put one of the numbers from 1 to 9 in each square of the grid below, without repetition. In the figure you see the sums of all the pairs of numbers written in adjacent squares. What number is in the grey square? A) 4
-> 	
-> B) 5
-> 	
-> C) 6
-> 	
-> D) 7
-> 	
-> E) 8 A B C D E F G 48 36 32 ? 15 15 11 3 8 7 9 9
+> I entered in each square of the grid below one of the numbers from 1 to 9, with no repetitions. The picture shows the sums of every pair of numbers written in adjacent squares. Which number is in the grey square?
 >
+> A) 4
+> B) 5
+> C) 6
+> D) 7
+> E) 8
+>
+> A
+> B
+> C
+> D
+> E
+> F
+> G
+> 48
+> 36
+> 32
+> ?
+> 15
+> 15
+> 11
+> 3
+> 8
+> 7
+> 9
+> 9
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_ecolier#q19|src_kangourou_2021_ecolier__Q19]]
 
 
 
@@ -1050,22 +1115,23 @@ Box in which Eva attached the flower
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Balloon certainly hit to total 30*
+*Which balloon did Mia certainly hit?*
 
 ![[src_kangourou_2021_ecolier__prob20.png]]
 
-> Mia throws a series of darts at five balloons. When she hits one she gets the score shown on it. If at the end of the game she has totaled 30 points, which balloon has Mia certainly hit?
-> A) 3	
-	
-> B) 9	
-	
-> C) 13	
-	
-> D) 14	
-	
+> Mia throws a series of darts at five balloons. When she hits one, she scores the number marked on it. If at the end of the game she has scored 30 points, which balloon did Mia certainly hit?
+>
+> A) 3
+> B) 9
+> C) 13
+> D) 14
 > E) 18
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_ecolier#q20|src_kangourou_2021_ecolier__Q20]]
 
 
 
@@ -1100,19 +1166,22 @@ Box in which Eva attached the flower
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of sweets divisible by 2,3,4 with remainder 6 out of 7*
+*How many sweets are in the box?*
 
-> There's less than 50 candies in a box, all the same. The contents of the box can be divided evenly between two, three, or four children; if we wanted to divide it evenly between seven children, they would need exactly six more candies. How many candies are in the box? A) 12
-> 	
+> In a box there are fewer than 50 sweets, all alike. The contents of the box can be shared equally among 2, 3 or 4 children; if we wanted to share them equally among 7 children, exactly 6 more sweets would be needed. How many sweets are in the box?
+>
+> A) 12
 > B) 24
-> 	
 > C) 30
-> 	
 > D) 36
-> 	
 > E) 48
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_ecolier#q21|src_kangourou_2021_ecolier__Q21]]
 
 
 
@@ -1144,13 +1213,23 @@ Box in which Eva attached the flower
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tasks containing apples given the triple weight*
+*Which boxes contain the apples?*
 
 ![[src_kangourou_2021_ecolier__prob22.png]]
 
-> Each of the five boxes in the picture contains either apples or bananas but not both types of fruit. The total weight of all bananas is three times the weight of all apples. Which boxes contain the apples? A) 1 and 2 B) 2 and 3 C) 2 and 4 D) 3 and 4 E) 1 and 4
+> Each of the 5 boxes in the picture contains either apples or bananas, but not both kinds of fruit. The total weight of all the bananas is three times the weight of all the apples. Which boxes contain the apples?
+>
+> A) 1 and 2
+> B) 2 and 3
+> C) 2 and 4
+> D) 3 and 4
+> E) 1 and 4
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2021_ecolier#q22|src_kangourou_2021_ecolier__Q22]]
 
 
 
@@ -1189,21 +1268,23 @@ Box in which Eva attached the flower
 <div class="qlang-split" data-lang="en"></div>
 
 
-Number in the square? with arrows min->max*
+*Which number must be written in the square with the question mark?*
 
 ![[src_kangourou_2021_ecolier__prob23.png]]
 
-> Elena wants to write all the numbers from 1 to 9, one in each of the squares shown beside. As the example of the two numbers already entered by Elena shows, the arrows are directed from smaller to larger. What number should be written in the square with the question mark? A) 2
-> 	
+> Elena wants to write all the numbers from 1 to 9, one in each of the squares shown beside. As the example of the two numbers Elena has already entered shows, the arrows point from the smaller number to the larger number. Which number must be written in the square with the question mark?
+>
+> A) 2
 > B) 3
-> 	
 > C) 4
-> 	
 > D) 6
-> 	
 > E) 8
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2021_ecolier#q23|src_kangourou_2021_ecolier__Q23]]
 
 
 
@@ -1258,40 +1339,20 @@ Number in the square? with arrows min->max*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shapes to put for the balance of the scale*
+*What must he put on the left pan?*
 
 ![[src_kangourou_2021_ecolier__prob24.png]]
 
-> As you can see in the figure, Martino has placed on three scales 
-> some shapes: some are hexagonal        , others square
->       and still others triangular     . Which and how many shapes 
-> must he put on the left pan of the third scale in order
-> for the scale to be in equilibrium?
-> A) One square.		
-> B) Two squares.	
-> C) One hexagonal.	
-> D) One triangular.	
-> E) Two triangular.
-> 3
-> 9
-> 13
-> 14
-> 18
-> 5
-> 2 kg
-> 6 kg
-> 5 kg
-> 7 kg
-> 1
-> 2
-> 3
-> 4
-> 16 kg
-> 7
-> ?
-> 5
-> 
-> ECOLIER Answers 
+> As you see in the picture, Martino has placed some shapes on three scales: some are hexagonal, others square, and others again triangular. Which shapes, and how many, must he put on the left pan of the third scale for the scale to balance?
 >
+> A) One square.
+> B) Two squares.
+> C) One hexagonal.
+> D) One triangular.
+> E) Two triangular.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2021_ecolier#q24|src_kangourou_2021_ecolier__Q24]]

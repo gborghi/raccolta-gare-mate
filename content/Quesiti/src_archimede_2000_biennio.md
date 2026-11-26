@@ -37,17 +37,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total profit after double sale of shelf*
+*Total profit after buying and selling a shelf twice*
 
-> At the flea market a seller sells for 80 euros a shelf he had bought for 70 euros. Then think about it, buy the shelf back for 90 euros and sell it back for 100 euros. How much did you make in the end?
+> At a flea market a seller sells for 80 euros a small shelf that he had bought for 70 euros. He then changes his mind, buys the shelf back for 90 euros and sells it again for 100 euros. How much has he gained in the end?
 >
-> - **(A)** I 've got nothing .
-> - **(B)** 10 Euro
-> - **(C)** This appropriation is intended to cover expenditure relating to:
-> - **(D)** He lost 10 Euros.
-> - **(E)** None of the previous ones.
+> - **(A)** nothing
+> - **(B)** 10 euros
+> - **(C)** 20 euros
+> - **(D)** he lost 10 euros
+> - **(E)** none of the above.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2000_biennio#q01|src_archimede_2000_biennio__Q01]]
 
 
 
@@ -93,30 +96,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rate of areas with an outer radius twice that of the interior*
+*Area ratio when the outer radius is twice the inner one*
 
-![[src_archimede_2000_biennio__prob2.png]]
-
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \fill[gray!60] (0,0) circle (2);
-  \fill[white] (0,0) circle (1);
-  \draw (0,0) circle (2);
-  \draw (0,0) circle (1);
-\end{tikzpicture}
-\end{document}
-```
-
-> In the figure next to the radius of the outer circle and twice that of the inner circle. What is the relationship between the shaded area and the white area inside?
+> In the figure the radius of the outer circle is twice that of the inner circle. What is the ratio of the area of the shaded region to that of the white region inside?
 >
 > - **(A)** 2
 > - **(B)** 3
 > - **(C)** 4
-> - **(D)** depends on the position of the circle
-> - **(E)** None of the previous ones.
+> - **(D)** it depends on the position of the circle
+> - **(E)** none of the above.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2000_biennio#q02|src_archimede_2000_biennio__Q02]]
 
 
 
@@ -145,17 +138,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Arithmetic mean of numbers 1 to 2000*
+*Arithmetic mean of the numbers from 1 to 2000*
 
-> What is the average (arithmetic) of the numbers 1, 2, 3, . . . , 1999, 2000?
+> What is the mean (arithmetic) of the numbers 1, 2, 3, . . . , 1999, 2000?
 >
 > - **(A)** 999
-> - **(B)** 999,5
+> - **(B)** 999.5
 > - **(C)** 1000
-> - **(D)** 1000,5
+> - **(D)** 1000.5
 > - **(E)** 1001.
 
-**Answer:** D
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_2000_biennio#q03|src_archimede_2000_biennio__Q03]]
 
 
 
@@ -184,17 +180,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of 6a given linear relationship in a and b*
+*Value of 6a given a linear relation in a and b*
 
-> How much is 6a if 3a −2 = 2b −1?
+> What is the value of 6a if 3a −2 = 2b −1?
 >
 > - **(A)** 4b + 1
 > - **(B)** 4b + 2
 > - **(C)** 4b + 3
 > - **(D)** 4b + 4
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** B
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2000_biennio#q04|src_archimede_2000_biennio__Q04]]
 
 
 
@@ -223,7 +222,7 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Percentage increase in rectangular area with base and height*
+*Percentage increase in the area of a rectangle with base and height*
 
 > If we increase the length of the base of a rectangle by 30% and that of the height by 50%, the area increases by
 >
@@ -233,7 +232,10 @@ level: biennio
 > - **(D)** 95%
 > - **(E)** 80%.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2000_biennio#q05|src_archimede_2000_biennio__Q05]]
 
 
 
@@ -267,17 +269,19 @@ level: biennio
 
 *Number of axes of symmetry of the figure*
 
-![[src_archimede_2000_biennio__prob6.png]]
-
-> How many axes of symmetry does the figure on the side have?
+> How many axes of symmetry does the figure have?
 >
 > - **(A)** 2
 > - **(B)** 4
 > - **(C)** 6
 > - **(D)** 8
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** E
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2000_biennio#q06|src_archimede_2000_biennio__Q06]]
 
 
 
@@ -309,17 +313,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*An equal number of containers for three quantities of wine*
+*Number of equal containers to ship three quantities of wine*
 
-> Every month a wholesaler ships 24 liters, 32 liters and 40 liters of three different varieties of wine to a retailer using as few containers as possible, all of them equal and completely filled, obviously without mixing different qualities of wine in the same container. How many containers will that shopkeeper get in a year?
+> Every month a wholesaler sends a shopkeeper 24 litres, 32 litres and 40 litres of three different varieties of wine, using the smallest possible number of containers, all identical and completely filled, and of course without mixing different qualities of wine in the same container. How many containers will that shopkeeper receive in a year?
 >
 > - **(A)** 36
 > - **(B)** 72
 > - **(C)** 144
 > - **(D)** 288
-> - **(E)** The data is insufficient.
+> - **(E)** the data are insufficient.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2000_biennio#q07|src_archimede_2000_biennio__Q07]]
 
 
 
@@ -352,11 +359,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region bounded by four semicircles*
+*Area of the region bounded by four semicircles*
 
-![[src_archimede_2000_biennio__prob8.png]]
-
-> How much is the area of the region bounded by the four semicircles of 10 cm diameter shown in the figure?
+> What is the area of the region bounded by the four semicircles of diameter 10 cm shown in the figure?
 >
 > - **(A)** 100 cm2
 > - **(B)** 100π √ 2 cm2
@@ -364,7 +369,10 @@ level: biennio
 > - **(D)** 100π cm2
 > - **(E)** 25π cm2.
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2000_biennio#q08|src_archimede_2000_biennio__Q08]]
 
 
 
@@ -394,9 +402,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Wake-up time given insomnia*
+*Wake-up time given the interval of insomnia*
 
-> Emanuel is suffering from insomnia. One day at 11:11 a.m., he says: "I haven't slept for 53 hours and 53 minutes". What time did you last wake up?
+> Emanuele suffers from insomnia. One day at exactly 11:11 he states: “I have not slept for 53 hours and 53 minutes”. At what time did he wake up last?
 >
 > - **(A)** 5:04
 > - **(B)** 5:18
@@ -404,7 +412,10 @@ level: biennio
 > - **(D)** 6:04
 > - **(E)** 6:18.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2000_biennio#q09|src_archimede_2000_biennio__Q09]]
 
 
 
@@ -436,19 +447,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Summary lengths of the tracts of two concentric hexagons*
+*Total length of the segments of two concentric hexagons*
 
-![[src_archimede_2000_biennio__prob10.png]]
-
-> The side of the smaller hexagon in Figure 1 is 1 and the side of the larger hexagon is 2. What is the sum of the lengths of all the lines drawn?
+> The side of the smaller hexagon in the figure is 1 and that of the larger hexagon is 2. What is the sum of the lengths of all the segments drawn?
 >
 > - **(A)** 18
 > - **(B)** 24
 > - **(C)** 30
 > - **(D)** 36
-> - **(E)** None of the previous ones.
+> - **(E)** none of the above.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2000_biennio#q10|src_archimede_2000_biennio__Q10]]
 
 
 
@@ -481,9 +493,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Distance between pedestrian and cyclist after three hours of running*
+*Distance between the runner and the cyclist after three hours of back-and-forth*
 
-> A pedestrian and a cyclist set off together from city A towards city B 13 km away from A, agreeing to make the spool between A and B without ever stopping. Knowing that every hour the podium runner travels 9 km while the cyclist travels 25 km, what distance will separate the two athletes after three hours from the start of the competition?
+> A runner and a cyclist start together from city A towards city B, which is 13 km from A, with the agreement to shuttle back and forth between A and B without ever stopping. Knowing that every hour the runner covers 9 km while the cyclist covers 25 km, what distance will separate the two athletes after three hours from the start of the competition?
 >
 > - **(A)** 1 km
 > - **(B)** 2 km
@@ -491,7 +503,10 @@ level: biennio
 > - **(D)** 4 km
 > - **(E)** 5 km.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2000_biennio#q11|src_archimede_2000_biennio__Q11]]
 
 
 
@@ -523,9 +538,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Late difference between two cubic deposits given volume*
+*Difference in side length between two cubic storage rooms given volume*
 
-> Tullio's bookstore is a cubic room with a side of 5 m and in recent times has become too small to contain all the storage compartments. So Tullio bought a new one, always cubic in shape, which, replacing the previous one, allowed him to gain 218 square meters of space. How many feet is the side of the new depot longer than the old one?
+> Tullio's library storage room is a cube with side length 5 m and in recent times has become too small to hold all the stock. So Tullio bought a new one, also cubic in shape, which, replacing the previous one, allowed him to gain 218 m3 of space. By how many metres is the side of the new storage room longer than that of the old one?
 >
 > - **(A)** 1 m
 > - **(B)** 2 m
@@ -533,7 +548,10 @@ level: biennio
 > - **(D)** 4 m
 > - **(E)** 5 m.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2000_biennio#q12|src_archimede_2000_biennio__Q12]]
 
 
 
@@ -565,17 +583,20 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Incidence of raw materials on the price of the mascot*
+*Share of raw materials in the mascot's price*
 
-> The price of the mascot of the mathematics Olympics is given by the sum of the price of raw materials and the price of processing. Last year, the mascot cost 10 euros. This year the cost of raw materials has doubled, so the mascot costs €11.80. How much does the price of raw materials affect the final price of the product this year?
+> The price of the mathematics olympiad mascot is the sum of the price of the raw materials and the price of the labour. Last year the mascot cost 10 euros. This year the cost of the raw materials has doubled, and so the mascot costs 11.80 euros. How much do the raw materials account for in the final price of the product this year?
 >
-> - **(A)** Less than EUR 1
-> - **(B)** Between 1 and 2 Euro
-> - **(C)** between EUR 2 and EUR 3
-> - **(D)** between EUR 3 and EUR 4
-> - **(E)** more than EUR 4.
+> - **(A)** less than 1 euro
+> - **(B)** between 1 and 2 euros
+> - **(C)** between 2 and 3 euros
+> - **(D)** between 3 and 4 euros
+> - **(E)** more than 4 euros.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_2000_biennio#q13|src_archimede_2000_biennio__Q13]]
 
 
 
@@ -608,9 +629,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum combinations of locks with two equal digits*
+*Maximum number of combinations for a lock with two equal digits*
 
-> A thief spies Marco as he closes his suitcase with a 3-digit combination lock (each digit goes from 0 to 9). He couldn't see the combination but he could figure out that two consecutive digits are the same and the third is different. What is the maximum number of combinations the thief will have to try to open Mark's suitcase?
+> A thief watches Marco close his suitcase with a 3-digit combination lock (each digit ranges from 0 to 9). He could not see the combination, but he managed to figure out that two consecutive digits are equal and the third is different.
+> What is the maximum number of combinations the thief will have to try to open Marco's suitcase?
 >
 > - **(A)** 180
 > - **(B)** 190
@@ -618,7 +640,11 @@ level: biennio
 > - **(D)** 210
 > - **(E)** 220.
 
-**Answer:** A
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2000_biennio#q14|src_archimede_2000_biennio__Q14]]
 
 
 
@@ -650,9 +676,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of irrigators to cover square garden*
+*Minimum number of sprinklers to cover a square garden*
 
-> A 20-square-meter-wide garden is irrigated with pointed irrigators. Each irrigator waters all points that are more than 10 meters away from it. What is the minimum number of irrigators needed to water the entire garden?
+> A square garden of side 20 meters is watered with point sprinklers.
+> Each sprinkler waters all points that are at most 10 meters from it. What is the minimum number of sprinklers needed to water the whole garden?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -660,7 +687,11 @@ level: biennio
 > - **(D)** 4
 > - **(E)** 5.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2000_biennio#q15|src_archimede_2000_biennio__Q15]]
 
 
 
@@ -692,9 +723,9 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Water poured in parallel piped given the level reached*
+*Water poured into a given parallelepiped to reach a given level*
 
-> If 40 cm3 of water is poured into a rectangular parallel-piped vessel with a 4 cm long base side, the liquid level reaches 5 cm. By pouring an unknown quantity into another rectangular parallel-piped vessel that has that side of the base 6 cm long and the other unchanged, the liquid reaches a level of 15 cm. How many cubic centimeters of water was poured the second time?
+> 40 cm3 of water is poured into a rectangular parallelepiped container having one side of the base 4 cm long, and the liquid level reaches 5 cm. Pouring an unknown quantity into another rectangular parallelepiped container that has that side of the base 6 cm long and the other unchanged, the liquid reaches a level of 15 cm. How many cm3 of water were poured the second time?
 >
 > - **(A)** 180
 > - **(B)** 80
@@ -702,7 +733,10 @@ level: biennio
 > - **(D)** 20
 > - **(E)** 80 9 .
 
-**Answer:** A
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_2000_biennio#q16|src_archimede_2000_biennio__Q16]]
 
 
 
@@ -733,9 +767,10 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of three vertices exaggerating the shape of an equilateral triangle*
+*Probability that three vertices of a hexagon form an equilateral triangle*
 
-> What is the probability that, if three distinct vertices of a regular hexagon are taken at random, they are the vertices of an equilateral triangle?
+> What is the probability that, choosing three distinct vertices of a regular hexagon at random,
+> they are the vertices of an equilateral triangle?
 >
 > - **(A)** 1 4
 > - **(B)** 1 8
@@ -743,7 +778,11 @@ level: biennio
 > - **(D)** 1 10
 > - **(E)** 1 20.
 
-**Answer:** D
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_2000_biennio#q17|src_archimede_2000_biennio__Q17]]
 
 
 
@@ -779,17 +818,25 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Classification of swimming competition with only one true statement*
+*Swimming ranking when only one statement is true*
 
-> Anna, Barbara, Clara and Donatella challenged each other in a bowl swim. There were no ex aequo on arrival. When Anna returns, she says: Chiara arrived before Barbara; Barbara says: Chiara arrived before Anna; Clara says: I came second. Knowing that only one of them told the truth,
+> Anna, Barbara, Chiara and Donatella raced each other in a swim out to the buoy. There were no ties at the finish. On the way back,
+> Anna says: "Chiara finished before Barbara";
+> Barbara says: "Chiara finished before Anna";
+> Chiara says: "I finished second".
+> Knowing that only one of them told the truth,
 >
-> - **(A)** You can only tell who won.
-> - **(B)** You can only tell who came second.
-> - **(C)** You can only tell who came third.
-> - **(D)** You can only tell who came last.
-> - **(E)** the classification position of none can be established.
+> - **(A)** one can say only who won
+> - **(B)** one can say only who came second
+> - **(C)** one can say only who came third
+> - **(D)** one can say only who came last
+> - **(E)** no one's place in the ranking can be determined.
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2000_biennio#q18|src_archimede_2000_biennio__Q18]]
 
 
 
@@ -822,17 +869,21 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tetrahedron CD length of beam given the beams*
+*Length of edge CD of a tetrahedron given its edges*
 
-> In the tomb of Pharaoh Tetrankamon, an emerald, shaped like a tetrahedron (a triangular-based pyramid) was found whose shoots measure in millimeters (54, 32, 29, 27, 20). When you point with A, B, C, D to the vertices of the tetrahedron and you know AB is 54, how many millimeters is CD?
+> In the tomb of Pharaoh Tetrankamon an emerald was found, cut in the shape of a tetrahedron (a pyramid with a triangular base), whose edges measure, in millimetres, 54, 32, 32, 29, 27, 20. Labelling the vertices of the tetrahedron A, B, C, D, and knowing that AB is 54 long, how many millimetres long is CD?
 >
 > - **(A)** 32
 > - **(B)** 29
 > - **(C)** 27
 > - **(D)** 20
-> - **(E)** It's impossible to determine.
+> - **(E)** it cannot be determined.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_2000_biennio#q19|src_archimede_2000_biennio__Q19]]
 
 
 
@@ -865,14 +916,18 @@ level: biennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A statement necessarily true on student percentages*
+*Statement that must be true about student percentages*
 
-> In one school, 60% of the students are male, 90% are minors, and 60% have brown hair. Which of the following claims is necessarily true?
+> In a school, 60% of the students are male, 90% are underage and 60% have brown hair. Which of the following statements is necessarily true?
 >
-> - **(A)** There's at least one older girl.
-> - **(B)** There's at least one girl with brown hair.
-> - **(C)** There's at least one young, brown boy.
-> - **(D)** There are no grown-ups and brown kids.
-> - **(E)** There's at least one blond guy.
+> - **(A)** there is at least one girl who is of age.
+> - **(B)** there is at least one girl with brown hair.
+> - **(C)** there is at least one underage boy with brown hair.
+> - **(D)** there are no boys who are of age and have brown hair.
+> - **(E)** there is at least one blond boy.
 
-**Answer:** C
+
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_2000_biennio#q20|src_archimede_2000_biennio__Q20]]

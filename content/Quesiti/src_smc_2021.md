@@ -35,9 +35,9 @@ level: Senior Mathematical Challenge
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
+*Il 21° compleanno di Cicely fu nel 1939; determina l'anno del suo 100° compleanno.*
 
-> Cicely ebbe il suo compleanno nel 1939. Quando ha fatto il suo compleanno?
+> Cicely ha festeggiato il suo $21^{\text{st}}$ compleanno nel 1939. Quando ha festeggiato il suo $100^{\text{th}}$ compleanno?
 >
 > - **(A)** 2020
 > - **(B)** 2019
@@ -45,7 +45,11 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(D)** 2010
 > - **(E)** 2008
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2021#q01|src_smc_2021__Q01]]
 
 
 
@@ -75,9 +79,9 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza arrotondata alle prime dieci iniziali 0, 10, 10, 20, 30, ...; conteggiamento pari a 40.*
+*La sequenza arrotondata al multiplo di dieci più vicino inizia con 0, 10, 10, 20, 30, …; conta i termini uguali a 40.*
 
-> La sequenza, formata arrotondando ciascuno dei seguenti numeri al decimo più vicino, inizia $0, 10, 10, 20, 30, \ldots$ Quando continua, quanti termini di questa sequenza sono uguali a $40$?
+> La successione, ottenuta arrotondando ciascuno dei seguenti numeri al multiplo di dieci più vicino, inizia con $0, 10, 10, 20, 30, \ldots$. Proseguendola, quanti termini di questa successione sono uguali a $40$?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -85,7 +89,12 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(D)** 4
 > - **(E)** 5
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2021#q02|src_smc_2021__Q02]]
 
 
 
@@ -116,9 +125,9 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due pentagoni regolari congruenti condividono un triangolo; gli angoli segnati sono tutti uguali a x°; trovare x.*
+*Due pentagoni regolari congruenti hanno in comune un triangolo; gli angoli contrassegnati sono tutti uguali a x°; determina x.*
 
-> Il diagramma mostra due pentagoni regolari congruenti e un triangolo. Gli angoli segnati $x^{\circ}$ sono uguali. Qual è il valore di $x$?
+> Il diagramma mostra due pentagoni regolari congruenti e un triangolo. Gli angoli contrassegnati con $x^{\circ}$ sono uguali. Qual è il valore di $x$?
 >
 > - **(A)** 24
 > - **(B)** 30
@@ -128,7 +137,11 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 
 ![[src_smc_2021__q03.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2021#q03|src_smc_2021__Q03]]
 
 
 
@@ -158,9 +171,9 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la somma dei numeri interi positivi k soddisfacente (k ÷ 12) ÷ (15 ÷ k) = 20.*
+*Trovare la somma delle cifre dell'intero positivo k che soddisfa l'equazione (k ÷ 12) ÷ (15 ÷ k) = 20.*
 
-> Il numero intero positivo $k$ è una soluzione dell'equazione $(k \div 12) \div (15 \div k) = 20$. Qual è la somma delle cifre di $k$?
+> L'intero positivo $k$ è una soluzione dell'equazione $(k \div 12) \div (15 \div k) = 20$. Qual è la somma delle cifre di $k$?
 >
 > - **(A)** 15
 > - **(B)** 12
@@ -168,7 +181,12 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(D)** 6
 > - **(E)** 3
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2021#q04|src_smc_2021__Q04]]
 
 
 
@@ -198,9 +216,9 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro numeri primi consecutivi sommano a un primo; trovare il più grande dei quattro numeri primi.*
+*Quattro numeri primi consecutivi hanno una somma che è un numero primo; trova il più grande dei quattro numeri primi.*
 
-> La somma di quattro numeri primi consecutivi è di per sé primo. Qual è il più grande dei quattro numeri primi?
+> La somma di quattro numeri primi consecutivi è essa stessa un numero primo. Qual è il più grande dei quattro numeri primi?
 >
 > - **(A)** 37
 > - **(B)** 29
@@ -208,7 +226,12 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(D)** 13
 > - **(E)** 7
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2021#q05|src_smc_2021__Q05]]
 
 
 
@@ -239,9 +262,9 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I punti P, Q, R su un cerchio con centro O hanno lunghezze di corda PQ:QR:RP = 1:2:3; trovare rapporto tra le aree del settore POQ:QOR:ROP.*
+*I punti P, Q, R, posti su una circonferenza di centro O, hanno corde tali che PQ:QR:RP = 1:2:3; si determini il rapporto tra le aree dei settori POQ:QOR:ROP.*
 
-> Tre punti $P$, $Q$ e $R$ sono posizionati sulla circonferenza di un cerchio con centro $O$. Le lunghezze $PQ$, $QR$ e $RP$ sono nel rapporto $1:2:3$. Quali sono i rapporti delle superfici dei settori $POQ$, $QOR$ e $ROP$?
+> Tre punti $P$, $Q$ e $R$ sono posti sulla circonferenza di un cerchio avente centro $O$. Le lunghezze $PQ$, $QR$ e $RP$ sono in rapporto $1:2:3$. Quali sono i rapporti tra le aree dei settori $POQ$, $QOR$ e $ROP$?
 >
 > - **(A)** $1:1:1$
 > - **(B)** $1:2:3$
@@ -251,7 +274,11 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 
 ![[src_smc_2021__q06.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2021#q06|src_smc_2021__Q06]]
 
 
 
@@ -280,7 +307,7 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine quale delle cinque espressioni di potenza fornite è il più grande.*
+*Determinare quale delle cinque espressioni di potenza date è la più grande.*
 
 > Quale di questi numeri è il più grande?
 >
@@ -290,7 +317,11 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(D)** $5^{2000}$
 > - **(E)** $6^{1000}$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2021#q07|src_smc_2021__Q07]]
 
 
 
@@ -321,19 +352,23 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'area del PQRS quadrilaterale dove PQ = 5, QR = 13, RS = 12 e l'angolo a Q è 90°.*
+*Calcola l'area del quadrilatero PQRS, sapendo che PQ = 5, QR = 13, RS = 12 e che l'angolo in Q è di 90°.*
 
-> Qual è la superficie della regione all'interno del quadrilaterale $PQRS$?
+> Qual è l'area nella regione interna al quadrilatero $PQRS$?
 >
 > - **(A)** 18
 > - **(B)** 24
 > - **(C)** 36
 > - **(D)** 48
-> - **(E)** ulteriori informazioni necessarie
+> - **(E)** servono ulteriori informazioni
 
 ![[src_smc_2021__q08.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2021#q08|src_smc_2021__Q08]]
 
 
 
@@ -363,9 +398,9 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Magnete di frigorifero che mostrano numeri interi 09 divisi in cinque coppie, ciascuna sommando a un moltiplo di 5; contare modi.*
+*Magneti da frigorifero che mostrano gli interi da 0 a 9 suddivisi in cinque coppie, ciascuna delle quali ha come somma un multiplo di 5; conta i modi.*
 
-> Alison ha un insieme di dieci magneti frigoriferi che mostrano i numeri interi da $0$ a $9$ inclusi. In quanti modi diversi può dividere l'insieme in cinque coppie in modo che la somma di ciascuna coppia sia un multiple di $5$?
+> Alison ha un insieme di dieci calamite da frigorifero che mostrano gli interi da $0$ a $9$ inclusi. In quanti modi diversi può dividere l'insieme in cinque coppie in modo che la somma di ciascuna coppia sia un multiplo di $5$?
 >
 > - **(A)** 1
 > - **(B)** 2
@@ -373,7 +408,12 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 > - **(D)** 4
 > - **(E)** 5
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2021#q09|src_smc_2021__Q09]]
 
 
 
@@ -404,9 +444,9 @@ Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
 <div class="qlang-split" data-lang="it"></div>
 
 
-Grafico delle torte di frutta preferite con angolazioni esatte: mela, ciliegio, prugna, rabarba, ricerca di persone minime.
+*Diagramma a torta delle torte alla frutta preferite con angoli esatti: mela 140°, ciliegia 108°, prugna 40°, rabarbaro 72°; determina il numero minimo di persone intervistate.*
 
-> In un sondaggio è stato chiesto alle persone di nominare la loro torta di frutta preferita. Il grafico della torta mostra il risultato. Gli angoli mostrati sono esatti senza arrotondamento. Qual è il numero minimo di persone che avrebbero potuto essere intervistate?
+> In un sondaggio, è stato chiesto alle persone di indicare la loro torta alla frutta preferita. Il diagramma a torta mostra il risultato. Gli angoli indicati sono esatti, senza arrotondamenti. Qual è il numero minimo di persone che potrebbero essere state intervistate?
 >
 > - **(A)** 45
 > - **(B)** 60
@@ -416,7 +456,11 @@ Grafico delle torte di frutta preferite con angolazioni esatte: mela, ciliegio, 
 
 ![[src_smc_2021__q10.png]]
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2021#q10|src_smc_2021__Q10]]
 
 
 
@@ -446,9 +490,9 @@ Grafico delle torte di frutta preferite con angolazioni esatte: mela, ciliegio, 
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Alinta afferma che p primo impar implica che p2 − 2 è anche un primo imparato; trova un valore di contrasemplare di p.*
+*Alinta afferma che un numero primo dispari p implica che anche p² − 2 sia un numero primo dispari; trova un valore di p che costituisca un controesempio.*
 
-> Alinta sostiene che se $p$ è un primo odd allora $p^2 - 2$ è anche un primo odd. Quali dei seguenti valori di $p$ costituiscono un controesempio di questa affermazione?
+> Alinta sostiene che, se $p$ è un numero primo dispari, allora anche $p^2 - 2$ è un numero primo dispari. Quale dei seguenti valori di $p$ costituisce un controesempio a questa affermazione?
 >
 > - **(A)** 3
 > - **(B)** 5
@@ -456,7 +500,12 @@ Grafico delle torte di frutta preferite con angolazioni esatte: mela, ciliegio, 
 > - **(D)** 9
 > - **(E)** 11
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2021#q11|src_smc_2021__Q11]]
 
 
 
@@ -486,9 +535,9 @@ Grafico delle torte di frutta preferite con angolazioni esatte: mela, ciliegio, 
 <div class="qlang-split" data-lang="it"></div>
 
 
-Per quanti numeri interi positivi N dividendo 111 per N lascia il rimanente 6?
+*Per quanti interi positivi N dividendo 111 per N si ottiene resto 6?*
 
-> Per quanti integri positivi $N$ è il rimanente $6$ quando $111$ è diviso da $N$?
+> Per quanti interi positivi $N$ il resto $6$, quando $111$ viene diviso per $N$?
 >
 > - **(A)** 5
 > - **(B)** 4
@@ -496,7 +545,12 @@ Per quanti numeri interi positivi N dividendo 111 per N lascia il rimanente 6?
 > - **(D)** 2
 > - **(E)** 1
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2021#q12|src_smc_2021__Q12]]
 
 
 
@@ -525,9 +579,9 @@ Per quanti numeri interi positivi N dividendo 111 per N lascia il rimanente 6?
 <div class="qlang-split" data-lang="it"></div>
 
 
-Qual è la media degli altri quattro? *
+*Quale dei cinque radicali √2, √18, √200, √32, √8 è la media degli altri quattro?*
 
-> Quale di queste è la media delle altre quattro?
+> Quale di questi è la media degli altri quattro?
 >
 > - **(A)** $\sqrt{2}$
 > - **(B)** $\sqrt{18}$
@@ -535,7 +589,11 @@ Qual è la media degli altri quattro? *
 > - **(D)** $\sqrt{32}$
 > - **(E)** $\sqrt{8}$
 
-**Risposta:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2021#q13|src_smc_2021__Q13]]
 
 
 
@@ -565,9 +623,9 @@ Qual è la media degli altri quattro? *
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2×3 rectangli che non sovrappongono un rettangolo con rapporto laterale 5:4.*
+*Numero minimo di rettangoli 2×3 che piastrellano senza sovrapposizioni un rettangolo con rapporto tra i lati 5:4.*
 
-> Qual è il numero più piccolo di rettangoli, ognuno dei quali misura $2\,\text{cm}$ per $3\,\text{cm}$, che sono necessari per adattarsi senza sovrapposizione per formare un rettangolo i cui lati sono nel rapporto $5:4$?
+> Qual è il numero minimo di rettangoli, ciascuno delle dimensioni $2\,\text{cm}$ per $3\,\text{cm}$, necessari per combinarli senza sovrapposizioni e formare un rettangolo i cui lati sono in rapporto $5:4$?
 >
 > - **(A)** 10
 > - **(B)** 15
@@ -575,7 +633,12 @@ Qual è la media degli altri quattro? *
 > - **(D)** 30
 > - **(E)** 60
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2021#q14|src_smc_2021__Q14]]
 
 
 
@@ -605,9 +668,9 @@ Qual è la media degli altri quattro? *
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre dadi di colore (rosso, blu, giallo) ogni 16 lanciato una volta con un totale di 10; contano risultati diversi.*
+*Tre dadi colorati (rosso, blu, giallo), ciascuno con valori da 1 a 6, lanciati una volta ciascuno con totale 10; si contano i risultati diversi.*
 
-> Tre dadi, ognuno con i numeri $1$ a $6$ sono di colore rosso, blu e giallo rispettivamente. Ogni dado viene lanciato una volta. Il totale dei numeri laminati è $10$. In quanti modi diversi può accadere questo?
+> Tre dadi, ciascuno dei quali mostra numeri da $1$ a $6$, sono colorati rispettivamente di rosso, blu e giallo. Ciascun dado viene lanciato una volta. La somma dei numeri ottenuti è $10$. In quanti modi diversi può verificarsi questa situazione?
 >
 > - **(A)** 36
 > - **(B)** 30
@@ -615,7 +678,12 @@ Qual è la media degli altri quattro? *
 > - **(D)** 24
 > - **(E)** 21
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2021#q15|src_smc_2021__Q15]]
 
 
 
@@ -647,9 +715,9 @@ Qual è la media degli altri quattro? *
 <div class="qlang-split" data-lang="it"></div>
 
 
-*25 punti spaziati ugualmente nella griglia 5×5; O è l'angolo inferiore sinistro; linee di conteggio attraverso O e esattamente un altro punto.*
+*25 punti equidistanti in una griglia 5×5; O è l'angolo in basso a sinistra; conta le rette che passano per O e per esattamente un altro punto.*
 
-> Un array di $25$ punti spaziati ugualmente è disegnato in una griglia quadrata come mostrato. Il punto $O$ si trova nell'angolo inferiore sinistro. Linda vuole disegnare una linea retta attraverso il diagramma che passa attraverso $O$ e esattamente un altro punto. Quante di queste linee può disegnare Linda?
+> Viene disegnato, in una griglia quadrata come mostrato, un insieme di $25$ punti equidistanti. Il punto $O$ si trova nell'angolo in basso a sinistra. Linda vuole tracciare una linea retta attraverso il diagramma che passi per $O$ e per esattamente un altro punto. Quante linee di questo tipo può tracciare Linda?
 >
 > - **(A)** 4
 > - **(B)** 6
@@ -659,7 +727,12 @@ Qual è la media degli altri quattro? *
 
 ![[src_smc_2021__q16.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2021#q16|src_smc_2021__Q16]]
 
 
 
@@ -690,9 +763,9 @@ Qual è la media degli altri quattro? *
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Circolo di raggio r con triangolo a rettangolo con triangolo a pari angolo, un lato corto = diametro; trovare area ombrata.*
+*Cerchio di raggio r con un triangolo isoscele rettangolo, un cateto uguale al diametro; trovare l'area ombreggiata.*
 
-> Un cerchio di raggio $r$ e un triangolo a angolo retto con triangolo uguale sono disegnati in modo tale che uno dei lati più brevi del triangolo sia un diametro del cerchio. Che cos'è la zona ombrosa?
+> Si tracciano un cerchio di raggio $r$ e un triangolo isoscele rettangolo in modo che uno dei cateti del triangolo sia un diametro del cerchio. Qual è l'area ombreggiata?
 >
 > - **(A)** $\frac{r^2}{\sqrt{2}}$
 > - **(B)** $r^2$
@@ -702,7 +775,11 @@ Qual è la media degli altri quattro? *
 
 ![[src_smc_2021__q17.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2021#q17|src_smc_2021__Q17]]
 
 
 
@@ -732,9 +809,9 @@ Qual è la media degli altri quattro? *
 <div class="qlang-split" data-lang="it"></div>
 
 
-Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
+*Scrivi 840 = p!/q! con p, q interi positivi minori di 10; trova p + q.*
 
-> Il numero $840$ può essere scritto come $\dfrac{p!}{q!}$, dove $p$ e $q$ sono numeri interi positivi inferiori a $10$. Qual è il valore di $p + q$? Si noti che $n! = 1 \times 2 \times 3 \times \cdots \times (n-1) \times n$.
+> Il numero $840$ può essere scritto come $\dfrac{p!}{q!}$, dove $p$ e $q$ sono numeri interi positivi minori di $10$. Qual è il valore di $p + q$? Si noti che $n! = 1 \times 2 \times 3 \times \cdots \times (n-1) \times n$.
 >
 > - **(A)** 8
 > - **(B)** 9
@@ -742,7 +819,12 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 > - **(D)** 12
 > - **(E)** 15
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_smc_2021#q18|src_smc_2021__Q18]]
 
 
 
@@ -773,9 +855,9 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo FGH con angoli 60°, 30°, 90° che si sovrappongono triangolo EGH di isosceles rettangolari; trovare il rapporto fra IFG e IEH.*
+*Il triangolo FGH, con angoli di 60°, 30° e 90°, si sovrappone al triangolo rettangolo isoscele EGH; determina il rapporto tra le aree di IFG e IEH.*
 
-> Il diagramma mostra due triangoli che si sovrappongono: il triangolo $FGH$ con angoli interni $60^{\circ}$, $30^{\circ}$ e $90^{\circ}$, e il triangolo $EGH$ che è un triangolo a rettangolare con isosceles. Qual è il rapporto tra la superficie del triangolo $IFG$ e la superficie del triangolo $IEH$?
+> Il diagramma mostra due triangoli che si sovrappongono: il triangolo $FGH$ con angoli interni $60^{\circ}$, $30^{\circ}$ e $90^{\circ}$, e il triangolo $EGH$, che è un triangolo rettangolo isoscele. Qual è il rapporto tra l'area del triangolo $IFG$ e l'area del triangolo $IEH$?
 >
 > - **(A)** $1:1$
 > - **(B)** $1:\sqrt{2}$
@@ -785,7 +867,11 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 
 ![[src_smc_2021__q19.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2021#q19|src_smc_2021__Q19]]
 
 
 
@@ -814,9 +900,9 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dina corre n volte più veloce di Laura, che inizia a s metri di fronte; fino a che punto Dina corre prima di superare?*
+*Dina corre n volte più velocemente di Laura, che parte s metri più avanti; quanta strada percorre Dina prima di superarla?*
 
-> Laura e Dina hanno una corsa. Laura corre a velocità costante e Dina corre $n$ volte più veloce di $n > 1$. Laura inizia $s$ m di fronte a Dina. Che distanza, in metri, Dina corre prima di superare Laura?
+> Laura e Dina fanno una gara di corsa. Laura corre a velocità costante e Dina corre $n$ volte più velocemente, dove $n > 1$. Laura parte $s$ m davanti a Dina. Quanti metri percorre Dina prima di superare Laura?
 >
 > - **(A)** $\dfrac{ns}{n-1}$
 > - **(B)** $ns$
@@ -824,7 +910,11 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 > - **(D)** $\dfrac{ns}{n+1}$
 > - **(E)** $\dfrac{s}{n}$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2021#q20|src_smc_2021__Q20]]
 
 
 
@@ -853,9 +943,9 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato 2^m + 2^k = p e 2^m − 2^k = q, esprimere 2^(m+k) in termini di p e q.*
+*Dati 2^m + 2^k = p e 2^m − 2^k = q, esprimi 2^(m+k) in funzione di p e q.*
 
-> I numeri $m$ e $k$ soddisfano le equazioni $2^m + 2^k = p$ e $2^m - 2^k = q$. Qual è il valore di $2^{m+k}$ in termini di $p$ e $q$?
+> I numeri $m$ e $k$ soddisfano le equazioni $2^m + 2^k = p$ e $2^m - 2^k = q$. Qual è il valore di $2^{m+k}$ in funzione di $p$ e $q$?
 >
 > - **(A)** $\dfrac{p^2 - q^2}{4}$
 > - **(B)** $\dfrac{pq}{2}$
@@ -863,7 +953,11 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 > - **(D)** $\dfrac{(p-q)^2}{4}$
 > - **(E)** $\dfrac{p+q}{p-q}$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2021#q21|src_smc_2021__Q21]]
 
 
 
@@ -895,9 +989,9 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un triangolo con angoli 60°, 45°, 75° incisi in un cerchio di raggio 2; trova la sua superficie.*
+*Triangolo con angoli di 60°, 45°, 75° inscritto in una circonferenza di raggio 2; determina la sua area.*
 
-> Un triangolo con angoli interni $60^{\circ}$, $45^{\circ}$ e $75^{\circ}$ è inserito in un cerchio di raggio $2$. Qual è l'area del triangolo?
+> Un triangolo con angoli interni $60^{\circ}$, $45^{\circ}$ e $75^{\circ}$ è inscritto in una circonferenza di raggio $2$. Qual è l'area del triangolo?
 >
 > - **(A)** $2\sqrt{3}$
 > - **(B)** $4$
@@ -907,7 +1001,12 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 
 ![[src_smc_2021__q22.png]]
 
-**Risposta:** E
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2021#q22|src_smc_2021__Q22]]
 
 
 
@@ -937,9 +1036,9 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il valore minimo di (x2 − 4x + 3)(x2 + 4x + 3) per x reale.*
+*Trovare il valore minimo di (x² − 4x + 3)(x² + 4x + 3) per x reale.*
 
-> $x$ sia un numero reale. Qual è il valore minimo di $(x^2 - 4x + 3)(x^2 + 4x + 3)$?
+> Sia $x$ un numero reale. Qual è il valore minimo di $(x^2 - 4x + 3)(x^2 + 4x + 3)$?
 >
 > - **(A)** $-16$
 > - **(B)** $-9$
@@ -947,7 +1046,12 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 > - **(D)** $9$
 > - **(E)** $16$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_smc_2021#q23|src_smc_2021__Q23]]
 
 
 
@@ -976,9 +1080,9 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Saba, Rayan, Derin completano il compito insieme in 5 minuti; Saba+Derin 7 minuti; Rayan+Derin 15 minuti; trovate tempo per Derin da solo.*
+*Saba, Rayan e Derin completano il compito insieme in 5 min; Saba e Derin impiegano 7 min; Rayan e Derin impiegano 15 min; trova del tempo per Derin da solo.*
 
-> Saba, Rayan e Derin stanno collaborando per completare un compito. Ognuno di essi lavora a un ritmo costante indipendentemente da chiunque altro stia lavorando al compito. Quando tutti e tre lavorano insieme, occorrono $5$ minuti per completare il compito. Quando Saba lavora con Derin, il compito richiede $7$ minuti per completarlo. Quando Rayan lavora con Derin, il compito richiede $15$ minuti per completarlo. Quanti minuti ci vogliono per Derin per completare il compito da solo?
+> Saba, Rayan e Derin stanno collaborando per completare un compito. Ciascuno di loro lavora a un ritmo costante, indipendentemente da chi altro stia lavorando al compito. Quando tutti e tre lavorano insieme, ci vogliono $5$ minuti per completare il compito. Quando Saba lavora con Derin, il compito richiede $7$ minuti per essere completato. Quando Rayan lavora con Derin, il compito richiede $15$ minuti per essere completato. Quanti minuti ci vogliono a Derin per completare il compito da solo?
 >
 > - **(A)** 21
 > - **(B)** 28
@@ -986,7 +1090,11 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 > - **(D)** 48
 > - **(E)** 105
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_smc_2021#q24|src_smc_2021__Q24]]
 
 
 
@@ -1017,9 +1125,9 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cinque segmenti di linea di lunghezza 2, 2, 2, 1, 3 collegano due angoli di un quadrato; trovare l'area ombreggiata.*
+*Cinque segmenti di lunghezza 2, 2, 2, 1, 3 collegano due vertici di un quadrato; determina l'area ombreggiata.*
 
-> Cinque segmenti di linea di lunghezza $2$, $2$, $2$, $1$ e $3$ collegano due angoli di un quadrato come mostrato nel diagramma. Che cos'è la zona ombrosa?
+> Cinque segmenti di lunghezza $2$, $2$, $2$, $1$ e $3$ collegano due vertici di un quadrato, come mostrato nel diagramma. Qual è l'area ombreggiata?
 >
 > - **(A)** 8
 > - **(B)** 9
@@ -1029,4 +1137,8 @@ Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
 
 ![[src_smc_2021__q25.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_smc_2021#q25|src_smc_2021__Q25]]

@@ -29,9 +29,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*gcd operazione sulla lavagna, numero finale non quadrato*
+*L'intero che resta sulla lavagna non è un quadrato perfetto*
 
-> Su una lavagna sono scritti i numeri interi da $1$ a $100$, ognuno esattamente una volta. Ripettivamente eseguiamo la seguente operazione: scegliamo due integri $a, b$ scritti sulla lavagna, li cancelliamo e scriviamo il più grande divisore comune di $a^2 b^2 + 3$ e $a^2 + b^2 + 2$. Mostrate che quando rimane solo un intero sulla lavagna, quel intero non è un quadrato perfetto.
+> Su una lavagna sono scritti gli interi da $1$ a $100$, ciascuno esattamente una volta. Si ripete l'operazione seguente: si scelgono due interi $a, b$ scritti sulla lavagna, li si cancella e si scrive il massimo comun divisore di $a^2 b^2 + 3$ e $a^2 + b^2 + 2$. Dimostrare che, quando sulla lavagna resta un solo intero, quell'intero non è un quadrato perfetto.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_invarianti|Invarianti / monovarianti]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo28mq_honsen#q01|src_jmo28mq_honsen__Q01]]
 
 
 
@@ -54,9 +59,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*le linee BX e CY si incontrano sul circolo di ADE*
+*Due rette si incontrano in un punto di una circonferenza*
 
-> Che $ABC$ sia un triangolo con $AB < AC$. I punti $D$ e $E$ si trovano rispettivamente sui lati $AB$ e $AC$ (non nei punti finali) e soddisfano $CA = CD$ e $BA = BE$. $\omega$ sia il circoncircolo del triangolo $ADE$, e $P$ sia il riflesso di $A$ attraverso la linea $BC$. Il $X$ è l'intersezione della linea $PD$ con $\omega$ diversa da $D$ e il $Y$ è l'intersezione della linea $PE$ con $\omega$ diversa da $E$. Indicare che le linee $BX$ e $CY$ si incontrano in un punto di $\omega$. (Qui $ST$ indica la lunghezza del segmento $ST$.)
+> Sia $ABC$ un triangolo con $AB < AC$. I punti $D$ e $E$ stanno rispettivamente sui lati $AB$ e $AC$ (non negli estremi) e soddisfano $CA = CD$ e $BA = BE$. Sia $\omega$ la circonferenza circoscritta al triangolo $ADE$, e sia $P$ il simmetrico di $A$ rispetto alla retta $BC$. Sia $X$ l'intersezione della retta $PD$ con $\omega$, diversa da $D$, e sia $Y$ l'intersezione della retta $PE$ con $\omega$, diversa da $E$. Dimostrare che le rette $BX$ e $CY$ si incontrano in un punto di $\omega$. (Qui $ST$ indica la lunghezza del segmento $ST$.)
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+[[Quesiti/src_jmo28mq_honsen#q02|src_jmo28mq_honsen__Q02]]
 
 
 
@@ -81,9 +91,18 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-La funzione * su 1,999 con condizioni di iterazione ha un punto fisso*
+*Esiste un elemento fisso per l'iterata di una funzione*
 
-> Let $S = \{1, 2, \ldots, 999\}$. $f$ deve essere una funzione definita su $S$, assumendo valori in $S$, in modo tale che per ogni elemento $n \in S$, $$f^{\,n + f(n) + 1}(n) = f^{\,n f(n)}(n) = n$$ sia valido. Indicare che esiste un elemento $a \in S$ con $f(a) = a$. (Qui $f^{k}(n)$ indica $\underbrace{f(f(\cdots f(n)\cdots))}_{k}$, la composizione a moltiplicazione di $k$ di $f$.)
+> Sia $S = \{1, 2, \ldots, 999\}$. Sia $f$ una funzione definita su $S$ a valori in $S$, tale che per ogni elemento $n \in S$
+>
+> $$f^{\,n + f(n) + 1}(n) = f^{\,n f(n)}(n) = n$$
+>
+> valga. Dimostrare che esiste un elemento $a \in S$ con $f(a) = a$. (Qui $f^{k}(n)$ indica $\underbrace{f(f(\cdots f(n)\cdots))}_{k}$, la composizione $k$ volte di $f$.)
+
+**Argomento:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo28mq_honsen#q03|src_jmo28mq_honsen__Q03]]
 
 
 
@@ -111,9 +130,19 @@ La funzione * su 1,999 con condizioni di iterazione ha un punto fisso*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*nessuna etichettatura di griglia infinita con 1,2,3 soddisfa tutte e tre le condizioni*
+*Non si può riempire una griglia infinita con tre condizioni*
 
-> Lasciate che $n$ sia un intero pari positivo. Considerate una griglia infinita di cellule che si estendono senza limite in tutte le direzioni. Mostrare che è impossibile scrivere uno dei numeri $1, 2, 3$ in ogni cella in modo che tutte le seguenti condizioni siano soddisfatte: \begin{enumerate} \item[(a)) Nessuna delle due celle che condividono un bordo contiene lo stesso numero. \item[(b) In nessun blocco di tre celle consecutive in una riga o colonna (cioè un blocco di celle $3 \times 1$ o $1 \times 3$) i numeri si leggono $1, 2, 3$ in ordine, che si legga dall'alto, dal basso, dalla sinistra o dalla destra. \item[(c) La somma dei numeri scritti in un blocco di celle $n \times n$ è la stessa indipendentemente dalla posizione del blocco. \end{enumere}
+> Sia $n$ un intero positivo dispari. Si consideri una griglia infinita di caselle, illimitata in tutte le direzioni. Dimostrare che è impossibile scrivere uno dei numeri $1, 2, 3$ in ogni casella in modo che valgano tutte le condizioni seguenti:
+> \begin{enumerate}
+> \item[(a)] Due caselle che condividono un lato non contengono lo stesso numero.
+> \item[(b)] In nessun blocco di tre caselle consecutive in una riga o in una colonna (cioè un blocco $3 \times 1$ o $1 \times 3$ di caselle) i numeri si leggono $1, 2, 3$ in ordine, sia che si legga dall'alto, dal basso, da sinistra o da destra.
+> \item[(c)] La somma dei numeri scritti in un blocco $n \times n$ di caselle è la stessa, qualunque sia la posizione del blocco.
+> \end{enumerate}
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione / parità]], [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_casework_accurato|Analisi per casi accurata]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+[[Quesiti/src_jmo28mq_honsen#q04|src_jmo28mq_honsen__Q04]]
 
 
 
@@ -140,6 +169,15 @@ La funzione * su 1,999 con condizioni di iterazione ha un punto fisso*
 <div class="qlang-split" data-lang="it"></div>
 
 
-*trovare tutte le funzioni su coppie con condizioni di impostazione di livello e di spostamento*
+*Funzioni su coppie di interi positivi, con due condizioni*
 
-> $T$ sia un numero intero positivo. Trovare tutte le funzioni $f$, definite su coppie ordinate di integri positivi e assumendo valori di integri positivi, insieme ad integri $C_0, C_1, \ldots, C_T$, soddisfacendo entrambe le seguenti caratteristiche: \begin{itemize} \item Per ogni integro positivo $n$, ci sono esattamente $n$ coppie ordinate $(k, l)$ di integri positivi con $f(k, l) = n$. \item Per ogni $t = 0, 1, \ldots, T$ e ogni coppia ordinata $(k, l)$ di integri positivi, $f(k + t,\, l + T - t) - f(k, l) = C_t$. # Finire #
+> Sia $T$ un intero positivo. Determinare tutte le funzioni $f$, definite su coppie ordinate di interi positivi e a valori interi positivi, insieme a interi $C_0, C_1, \ldots, C_T$, che soddisfano entrambe le condizioni seguenti:
+> \begin{itemize}
+> \item per ogni intero positivo $n$, ci sono esattamente $n$ coppie ordinate $(k, l)$ di interi positivi con $f(k, l) = n$;
+> \item per ogni $t = 0, 1, \ldots, T$ e ogni coppia ordinata $(k, l)$ di interi positivi, $f(k + t,\, l + T - t) - f(k, l) = C_t$.
+> \end{itemize}
+
+**Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Principio di estremalità]]
+**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+[[Quesiti/src_jmo28mq_honsen#q05|src_jmo28mq_honsen__Q05]]

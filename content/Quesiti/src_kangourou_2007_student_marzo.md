@@ -81,15 +81,19 @@ level: kangourou
 \end{document}
 ```
 
-> In the figure, O is the center of the circle and the area of the shaded
-> region is      . What is the area of triangle ABC?
+> In the figure, O is the center of the circle, and the area of the region
+> Shaded is . What is the area of triangle ABC?
 > A)           
 > B) 2       
 > C) 5    
 > D) 4     
 > E)
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q01|src_kangourou_2007_student_marzo__Q01]]
 
 
 
@@ -119,13 +123,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of the second knot at right angles*
+*Position of the second node for a right angle*
 
 ![[src_kangourou_2007_student_marzo__prob2.png]]
 
-> According to some historians, the ancient Egyptians used a rope with two knots to build a right angle. If the length of the rope is 12 meters and one of the knots is at the point X, which is 3 meters from one of the rope heads, how many meters from the other end must the second knot be made to have a right angle in X? A) 3 B) 4 C) 5 D) 6 E) more than 6
+> According to some historians, the ancient Egyptians used a rope with two knots to construct a right angle. If the rope is 12 meters long and one of the knots is at point X, which is 3 meters from one end of the rope, how many meters from the other end must the second knot be placed in order to have a right angle at X?
+> A) 3 B) 4 C) 5 D) 6 E) more than 6
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q02|src_kangourou_2007_student_marzo__Q02]]
 
 
 
@@ -160,9 +169,18 @@ level: kangourou
 
 *How many questions in the questionnaire (80%)*
 
-> For an entrance exam, a student must correctly answer at least 80% of the questions on a questionnaire. So far, Peter has examined 15 questions. He has not answered 5 of them, but he is sure that he has answered the other 10 exactly. If he answers all the remaining questions correctly, he will get exactly 80% of the answers right. How many questions are in the questionnaire? A) 20 B) 25 C) 30 D) 35 E) 40
+> In a university entrance exam, a student must answer at least 80% of the questions on a questionnaire correctly. So far, Pietro has reviewed 15 questions: he has not answered 5 of them, but he is sure that he has answered the other 10 exactly correctly. If he answers all the remaining questions correctly, he will hit exactly 80% correct answers. How many questions are there in the questionnaire?
+> A) 20      
+> B) 25  
+> C) 30
+> D) 35 
+> E) 40
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q03|src_kangourou_2007_student_marzo__Q03]]
 
 
 
@@ -191,11 +209,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many distinct divisors has 10^n*
+*How many distinct divisors does 10^n have?*
 
-> How many distinct divisors does 10^n have, if you also count 1 and 10^n itself? A) n2 + 2n + 1 B) n2 + n + 1 C) n2 - 2n + 1 D) n2 + n E) n2 + 2n
+> How many distinct divisors does 10^n have if 1 and 10^n itself are also counted?
+> A) n² + 2n + 1   
+> B) n² + n + 1    
+> C) n² - 2n + 1   
+> D) n² + n
+> E) n² + 2n
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q04|src_kangourou_2007_student_marzo__Q04]]
 
 
 
@@ -236,28 +264,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Right triangle probability (41-gon)*
+*Probability of a right triangle (41-gon)*
 
-> Three of the vertices of a regular 41-sided polygon are chosen at random; what is the probability that the triangle they determine is a right triangle?
+> If three vertices of a regular 41-sided polygon are chosen at random, what is the probability that the triangle formed by them is a right triangle?
 > A)  3/41 
 > B) 1/41
 > C) 1/2
 > D) 6/41
 > E) None of the above
-> B
-> A
-> C
-> O
-> X
-> Testi_07.qxp  16-04-2007  12:07  Page 28
-> 
-> Pag. 
-> Pag. 29
-> 29
-> Kang 2007
-> Kang 2007
+> B A C O X Testi_07.qxp 16-04-2007 12:07 Page 28
+>
+> Pag. Pag. 29 29 Kang 2007 Kang 2007
 
-**Answer:** E
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q05|src_kangourou_2007_student_marzo__Q05]]
 
 
 
@@ -316,7 +340,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of lengths of the two semicircle routes*
+*Ratio of the lengths of the two semicircular paths*
 
 ![[src_kangourou_2007_student_marzo__prob6.png]]
 
@@ -344,9 +368,18 @@ level: kangourou
 \end{document}
 ```
 
-> The AE segment is divided into 4 equal parts by the ordered points B, C and D. A semicircle of diameter AE is drawn above the AE segment while two semicircles of diameter AD and DE are drawn below the same segment respectively (v. (Figure 1). Consider the path from A to E along the upper semicircle and the path along the junction of the two lower semicircles: what is the ratio of the lengths of the two paths, taken in the order? A) 1:2 B) 2:3 C) 1:1 D) 3:2 E)2:1
+> Segment AE is divided into 4 equal parts by the points B, C, and D, taken in order. Above segment AE, a semicircle with diameter AE is drawn, while below the same segment, two semicircles with diameters AD and DE, respectively, are drawn (see figure). Consider the path from A to E along the upper semicircle and the path along the union of the two lower semicircles: what is the ratio of the lengths of the two paths, taken in that order?
+> A) 1:2
+> B) 2:3
+> C) 1:1
+> D) 3:2
+> E)2:1
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q06|src_kangourou_2007_student_marzo__Q06]]
 
 
 
@@ -375,11 +408,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fraction of the cylinder (common cone/cylinder volume)*
+*Cylinder segment (common volume of cone/cylinder)*
 
-> A cone and a circular cylinder, both of height h and with the bases of radius r, are in such a position that the volume of the portion of the cone contained in the cylinder is exactly half the volume of the cone. What fraction of the volume of the cylinder provides the volume of the part of the cylinder contained in the cone? A) 1/2 B) 1/3 C) 1/4 D) 1/5 E) 1/6
+> A cone and a right circular cylinder, both of height h and with bases of radius r, are positioned such that the volume of the part of the cone contained within the cylinder is exactly half the volume of the cone. What fraction of the volume of the cylinder is the volume of the part of the cylinder contained within the cone?
+> A) 1/2
+> B) 1/3
+> C) 1/4
+> D) 1/5
+> E) 1/6
 
-**Answer:** E
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q07|src_kangourou_2007_student_marzo__Q07]]
 
 
 
@@ -419,18 +461,18 @@ level: kangourou
 ![[src_kangourou_2007_student_marzo__prob8.png]]
 
 > Of the four walls that delimit a tunnel, the two
-> side walls (opposite) are vertical while floor and ceiling are parallel to each other, but not perpendicular to the
-> side walls: consequently the vertical section is not
-> a rectangle, but a parallelogram which, observed from the entrance, has its lowest part on the right. At
-> the middle of the tunnel a bulkhead door is to be built consisting of two sections, upper and lower, openable independently of each other. Looking from the entrance, how should the two
-> sections be hinged?
+> The side walls (opposite each other) are vertical, while the floor and ceiling are parallel to each other but not perpendicular to the side walls; consequently, the vertical cross-section is not a rectangle but a parallelogram that, when viewed from the entrance, has its lower part on the right. In the middle of the tunnel, it is intended to construct a barrier door consisting of two sections—an upper section and a lower section—that can be opened independently of each other. When viewed from the entrance, how should the two sections be hinged?
 > A) Both on the left side.
 > B) Both on the right side.
 > C) The upper one on the left side and the lower one on the right side.
 > D) The upper one on the right side and the lower one on the left side.
-> E) The project cannot be carried out.
+> E) The project is not feasible.
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q08|src_kangourou_2007_student_marzo__Q08]]
 
 
 
@@ -470,28 +512,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many 2-digit numbers with (sum)^2=sum of squares*
+*How many two-digit numbers satisfy (sum)^2 = sum of squares?*
 
-> How many positive integers with two significant digits have the following
-> property: the square of the sum of the digits is equal to the sum of the squares of the digits?
+> How many positive two-digit integers have the following property: the square of the sum of the digits equals the sum of the squares of the digits?
 > A) 4
 > B) 9
 > C) 10
 > D) 11
 > E) 12
-> A
-> B
-> C
-> D
-> Testi_07.qxp  16-04-2007  12:07  Page 29
-> 
-> Pag. 
-> Pag. 30
-> 30
-> Kang 2007
-> Kang 2007
+> A B C D Testi_07.qxp 16-04-2007 12:07 Page 29
+>
+> Page Page 30 30 Kang 2007 Kang 2007
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q09|src_kangourou_2007_student_marzo__Q09]]
 
 
 
@@ -521,13 +558,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x (span, whole sides)*
+*Value of x (web, integer sides)*
 
 ![[src_kangourou_2007_student_marzo__prob10.png]]
 
-> Note the figure: A spider with mathematical skills has woven a spiderweb made up of straight segments, all of whose lengths are whole numbers. What is the value of x? A) 11 B) 13 C) 15 D) 17 E) 19 Questions from N. 11 to N. 20 are worth 4 points each.
+> Observe the figure: a spider with skills
+> Mathematics has woven a web made up of straight line segments, all of whose lengths are whole numbers. What is the value of x?
+> A) 11      B) 13    C) 15        D) 17       E)    19  
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q10|src_kangourou_2007_student_marzo__Q10]]
 
 
 
@@ -557,11 +601,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times a child divides his mother*
+*How many times did the son divide with the mother?*
 
-> Thomas was born on the day his mother turned 20 and so they celebrate their birthday together. If they both live long enough, how many times will Thomas' age (in years) be a divisor of his mother's age? A) 4 B) 5 C) 6 D) 7 E) 8
+> Tommaso was born on the day his mother turned 20, and so they celebrate their birthdays together. If both of them live long enough, how many times will Tommaso's age (in years) be a divisor of his mother's age?
+> A) 4 
+> B) 5
+> C) 6
+> D) 7
+> E) 8
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q11|src_kangourou_2007_student_marzo__Q11]]
 
 
 
@@ -592,11 +646,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Regional area (squares with 2 common vertices)*
+*Regional area (squares sharing 2 vertices)*
 
-> Assigned to a square ABCD of side 1, all squares having at least two vertices in common with ABCD shall be considered. The area of the region of the plane formed by the points belonging to at least one of these squares is A) 5 B) 6 C) 7 D) 8 E) 9
+> Given a square ABCD with side length 1, consider all squares that share at least two vertices with ABCD. The area of the region of the plane formed by the points that belong to at least one of these squares is
+> A) 5 
+> B) 6 
+> C) 7 
+> D) 8 
+> E) 9
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q12|src_kangourou_2007_student_marzo__Q12]]
 
 
 
@@ -625,11 +689,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relation between gamma and alpha angles (percent)*
+*Relationship between gamma and alpha angles (percentages)*
 
-> The measure of angle β is 25% less than the measure of angle γ and 50% more than the measure of angle α. We can deduce that the angle γ is A. 25% more than α B. 50% more than α C. 75% more than α D. 100% more than α E. 125% more than α
+> The measure of angle β is 25% less than the measure of angle γ and 50% greater than the measure of angle α. From this we deduce that the measure of angle γ is
+> A) 25% more than that of α
+> B) 50% more than that of α
+> C) 75% more than that of α
+> D) 100% more than that of α
+> E) 125% more than that of α
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q13|src_kangourou_2007_student_marzo__Q13]]
 
 
 
@@ -660,9 +733,19 @@ level: kangourou
 
 *Value x of the solution (2^x exponential equation)*
 
-> Assigned the equation 2x +1 + 2x = 3y + 2 - 3y , where x and y are integers, the value x of the solution (x, y) is A) 0 B) 3 C) -1 D) 1 E) 2
+> Given the equation 2x + 1 + 2x = 3y + 2 - 3y, where x and y are integers, the value of x in the solution (x, y) is
+> A) 0  
+> B) 3     
+> C) -1   
+> D) 1 
+> E) 2
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q14|src_kangourou_2007_student_marzo__Q14]]
 
 
 
@@ -716,42 +799,31 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the shaded region (two semicircles)*
+*Shaded region (two semicircles)*
 
 ![[src_kangourou_2007_student_marzo__prob15.png]]
 
-> Consider two semicircles drawn as in the figure.
-> The chord CD, of length 4, is parallel to the diameter AB of the
-> larger semicircle and is tangent to the smaller semicircle. The area of the shaded region of the plane in the figure is
+> Consider two semicircles drawn as in the figure. The chord CD, which has length 4, is parallel to the diameter AB of the larger semicircle and is tangent to the smaller semicircle. The area of the shaded region in the plane in the figure is
 > A) π
-> B) 1.5 π
+> B) 1,5 π
 > C) 2 π
 > D) 3 π
-> E) the information is not sufficient to determine it  
-> 16.The sum of five consecutive integers is equal to that of the three consecutive integers immediately following. What is the largest of these eight numbers?
+> E) The information is insufficient to determine it.
+> 16. The sum of five consecutive integers is equal to the sum of the three consecutive integers that immediately follow them. What is the largest of these eight numbers?
 > A) 4 
 > B) 8
 > C) 9
 > D) 11
-> E) none of the indicated values
-> x
-> 9
-> 5
-> 5
-> 17
-> A
-> B
-> C
-> D
-> Testi_07.qxp  16-04-2007  12:07  Page 30
-> 
-> Pag. 
-> Pag. 31
-> 31
-> Kang 2007
-> Kang 2007
+> E) none of the values indicated
+> x 9 5 5 17 A B C D Testi_07.qxp 16-04-2007 12:07 Page 30
+>
+> Pag. Pag. 31 31 Kang 2007 Kang 2007
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q15|src_kangourou_2007_student_marzo__Q15]]
 
 
 
@@ -774,11 +846,15 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Greatest of 8 numbers (5 consecutive = 3 following)*
+*Greater than 8 numbers (5 consecutive = 3 following)*
 
-> 16. Answer D . If x is the first of the integers considered we have 5 x + (1+2+3+4) = 3 x +(5+6+7) so 2x = 8 and the number required is x +7 = 11.
+> 16. Answer D). If x is the first of the integers under consideration, we have 5x + (1+2+3+4) = 3x + (5+6+7); therefore, 2x = 8, and the required number is x + 7 = 11.
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q16|src_kangourou_2007_student_marzo__Q16]]
 
 
 
@@ -811,16 +887,19 @@ level: kangourou
 
 *Knights and liars (at least one liar)*
 
-> An island is inhabited only by knights and liars. All knights always
-> tell the truth and all liars always tell falsehoods. An inhabitant of the island, whom we will denote by A, when asked whether he and another inhabitant of the island,
-> called B, are knights or liars, answers that at least one of the two is a liar. Which of the following statements is true?
-> A) A cannot make such a statement    
-> B) A and B are both liars   
+> An island is inhabited only by knights and liars. All knights always tell the truth, and all liars always lie. An inhabitant of the island, whom we will call A, when asked whether he and another island inhabitant, called B, are knights or liars, replies that at least one of the two is a liar. Which of the following statements is true?
+> A) A cannot make such a claim
+> B) A and B are both liars
 > C) A and B are both knights
-> D) A is a liar and B is a knight 
-> E) A is a knight and B is a liar
+> D) A is a liar and B is a knight
+> E) A is a knight and B is a liar.
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q17|src_kangourou_2007_student_marzo__Q17]]
 
 
 
@@ -853,9 +932,19 @@ level: kangourou
 
 *Points with integer coordinates on the sphere r=3*
 
-> Consider a sphere of radius 3 centered at the origin of an orthogonal three-axis Cartesian system. How many points are on the surface of the sphere that have all integer coordinates? A) 30 B) 24 C) 12 D) 6 E) 3
+> Consider a sphere of radius 3 centered at the origin of an orthogonal system of three Cartesian axes. How many points on the surface of the sphere have all integer coordinates?
+> A) 30
+> B) 24
+> C) 12 
+> D) 6 
+> E) 3
 
-**Answer:** A
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q18|src_kangourou_2007_student_marzo__Q18]]
 
 
 
@@ -880,13 +969,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Graph of the function f piecewise*
+*Graph of the piecewise function f*
 
 ![[src_kangourou_2007_student_marzo__prob19.png]]
 
 > Which of the following is the graph of the function f defined by
 
-**Answer:** D
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q19|src_kangourou_2007_student_marzo__Q19]]
 
 
 
@@ -919,11 +1012,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Lanes swum by Marco (constant speed)*
+*Tanks traversed by Marco (constant speeds)*
 
-> Marco and George go to the pool; they dive together and each swims at a constant speed. At the end of the eighth pool Marco reaches George for the first time and overtakes him; if they stop swimming simultaneously, but at the two opposite ends of the pool, which of the following can be the number of lanes that Marco has swum? A) 36 B) 41 C) 30 D) 40 E) 27 Questions from N. 21 to N. 30 are worth 5 points each.
+> Marco and Giorgio go to the pool; they dive in together, and each of them swims at a constant speed. At the end of the eighth length, Marco reaches Giorgio for the first time and overtakes him; if they stop swimming at the same time but at opposite ends of the pool, which of the following could be the number of lengths Marco has swum?
+> A)  36 
+> B) 41 
+> C) 30 
+> D) 40
+> E) 27
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q20|src_kangourou_2007_student_marzo__Q20]]
 
 
 
@@ -951,12 +1055,16 @@ level: kangourou
 
 *Inverse function g (f(g(x))=x)*
 
-> If   
-> and f (g (x)) = x, then g (x)=
+> If
+> If e f (g (x)) = x, then g (x) =
 > A)                  B)       
-> C)                   D)                 E) another function
+> C) D) E) other function
 
-**Answer:** D
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q21|src_kangourou_2007_student_marzo__Q21]]
 
 
 
@@ -985,17 +1093,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number is not x(x+1) for integer x*
+*Which number is not x(x+1) for integer x?*
 
-> Which of the following numbers cannot be written as              with x
-> an integer?
+> Which of the following numbers cannot be written as with x an integer?
 > A) 870   
 > B) 110  
 > C) 90  
 > D) 60  
 > E) 30
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q22|src_kangourou_2007_student_marzo__Q22]]
 
 
 
@@ -1043,11 +1154,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max ratio number of 3 digits to sum of digits*
+*Maximum ratio of a 3-digit number to the sum of its digits*
 
-> What is the maximum value that the ratio of a three-digit number to the sum of its digits can assume? A) 97 B) 100 C) 101 D) 110 E) none of the above -1 -1 -1 -1 -1 -1 -1 -2 -2 -2 -2 -2 1 1 1 1 1 1 1 1 1 1 1 A B C D E Tests_07.qxp 16-04-2007 12:07 Page 31
+> What is the maximum value that the ratio of a three-digit number to the sum of its digits can take?
+> A) 97 B) 100 C) 101 D) 110 E) none of the above
+> -1 -1 -1 -1 -1 -2 -2 -2 -2 -2 A B C D E Testi_07.qxp 16-04-2007 12:07 Page 31
+>
+> Pag. Pag. 32 32 Kang 2007 Kang 2007
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q23|src_kangourou_2007_student_marzo__Q23]]
 
 
 
@@ -1073,11 +1193,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many values of a such that x^2+ax+2007 has integer roots*
+*How many are such that x^2+ax+2007 has integer roots?*
 
-> How many real a are such that the quadratic equation x^2 + ax + 2007 = 0 has two integer solutions? A) 3 B) 4 C) 6 D) 8 E) None of the other answers are correct
+> How many real values of a are there such that the quadratic equation x² + ax + 2007 = 0 has two integer solutions?
+> A) 3 B) 4 C) 6 D) 8 E) none of the other answers is correct
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q24|src_kangourou_2007_student_marzo__Q24]]
 
 
 
@@ -1106,11 +1232,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-How to exchange gifts without one's own (5 friends)
+*Ways of exchanging gifts without one's own (5 friends)*
 
-> At a party, five friends exchange gifts so that each one makes and receives exactly one gift (and, of course, no one receives their own gift). How many different ways can they do this? A) 5 B) 10 C) 44 D) 50 E) 120
+> At a party, five friends exchange gifts so that each person gives and receives exactly one gift (and, of course, no one receives their own gift). In how many different ways can they do this?
+> A) 5
+> B) 10
+> C) 44
+> D) 50
+> E) 120
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q25|src_kangourou_2007_student_marzo__Q25]]
 
 
 
@@ -1140,11 +1276,22 @@ How to exchange gifts without one's own (5 friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the telescopic sum*
+*Value of the telescoping sum*
 
-> The sum is equal to A) 999/1000 B) 99/100 C) 9/10 D) 9 E) 1
+> The sum
+> is equal to
+> A) 999/1000
+> B) 99/100      
+> C) 9/10      
+> D) 9       
+> E) 1
 
-**Answer:** C
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q26|src_kangourou_2007_student_marzo__Q26]]
 
 
 
@@ -1179,13 +1326,23 @@ How to exchange gifts without one's own (5 friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number 100 cells above (spiral 12345)*
+*Figure 100 cells above (spiral 12345)*
 
 ![[src_kangourou_2007_student_marzo__prob27.png]]
 
-> The sequence numbers 1234512345123451 ... fill the cells on a sheet with a spiral type law, starting from the cell marked (see figure). What digit do you find on the cell that is exactly 100 cells above that shaded one? A) 1 B) 2 C) 3 D) 4 E) 5
+> The digits of the sequence 1234512345123451 … fill the cells on a sheet according to a spiral-type rule, starting from the marked cell (see figure). Which digit ends up in the cell that is exactly 100 cells above the shaded cell?
+> A) 1         
+> B) 2      
+> C) 3       
+> D) 4       
+> E) 5
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q27|src_kangourou_2007_student_marzo__Q27]]
 
 
 
@@ -1217,19 +1374,21 @@ How to exchange gifts without one's own (5 friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Max length of a sequence of spiteful numbers*
+*Maximum length of a sequence of mischievous numbers*
 
-> A positive 5-digit integer is called a "spiteful number" if it cannot
-> be expressed as the product of two integers of 3 digits each. How long can
-> a sequence of consecutive numbers that are all
-> spiteful be at most?
+> A positive five-digit integer is called a "mischievous number" if it cannot be expressed as the product of two three-digit integers. What is the maximum possible length of a sequence of consecutive numbers, all of which are mischievous?
 > A) 11
 > B) 49
 > C) 51
 > D) 101
-> E) a value different from the previous ones
+> E) a value different from the preceding ones
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q28|src_kangourou_2007_student_marzo__Q28]]
 
 
 
@@ -1261,11 +1420,21 @@ How to exchange gifts without one's own (5 friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-*100th element (sum of powers of 3)*
+*Centesimo element (sums of powers of 3)*
 
-> The sequence 1, 3, 4, 9, 10, 12, 13, ... consists of all and only the numbers that are powers of 3 or that can be written as the sum of powers of 3 different from each other, placed in increasing order. What's the hundredth item in the succession? A) 130 B)  981 C) 1234 D) 2401 E) 3100
+> The sequence 1, 3, 4, 9, 10, 12, 13, … consists of all and only the numbers that are powers of 3 or that can be written as the sum of distinct powers of 3, arranged in increasing order. What is the hundredth term of the sequence?
+> A) 130        
+> B)  981    
+> C) 1234     
+> D) 2401    
+> E) 3100
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q29|src_kangourou_2007_student_marzo__Q29]]
 
 
 
@@ -1325,11 +1494,21 @@ How to exchange gifts without one's own (5 friends)
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability of Carlo winning (given in turns)
+*Probability that Carlo wins (dice-based turns)*
 
-> Anna, Linda and Carlo play by throwing a single dice. Anna wins if she gets 1, 2 or 3, Linda wins if she gets 4 or 5, and Carlo only wins if he gets 6. The turn goes from Anna to Linda to Carlo and again to Anna, etc., until one of the players wins. The probability of Carlo winning is A) 1/6 B) 1/8 C) 1/11 D) 1/13 E) 1/18 1 2 3 5 2 3 4 5 4 1 1 2 1 3 5 4 3 2 2 1 5 4 3
-> 
->  
-> 1 Student category For students of the last two years of secondary school
+> Anna, Linda, and Carlo play by rolling a single die. Anna wins if she rolls 1, 2, or 3; Linda wins if she rolls 4 or 5; and Carlo wins only if he rolls 6. Turns cycle from Anna to Linda to Carlo and back to Anna, and so on, until one of the players wins. The probability that Carlo wins is A) 1/6
+> B) 1/8     
+> C) 1/11      
+> D) 1/13  
+> E) 1/18 
+> 1 2 3 5 2 3 4 5 4 1 1 2 1 3 5 4 3 2 2 1 5 4 3 Testi_07.qxp 16-04-2007 12:07 Page 32
+>
+>
+> 1 Student Category For students in the final two years of upper secondary school
 
-**Answer:** D
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2007_student_marzo#q30|src_kangourou_2007_student_marzo__Q30]]

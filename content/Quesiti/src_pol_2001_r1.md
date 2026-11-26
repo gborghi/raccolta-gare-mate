@@ -29,9 +29,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi un'equazione diofantina esponenziale in numeri interi.*
+*Risolvere negli interi x^2000 + 2000^1999 = x^1999 + 2000^2000*
 
-> Risolvere in numeri interi l'equazione $x^{2000} + 2000^{1999} = x^{1999} + 2000^{2000}$.
+> Risolvere negli interi l'equazione $x^{2000} + 2000^{1999} = x^{1999} + 2000^{2000}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+
+[[Quesiti/src_pol_2001_r1#q01|src_pol_2001_r1__Q01]]
 
 
 
@@ -54,9 +60,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'intersezione di Cevian e un parallelo sui lati di un triangolo danno un rapporto uguale.*
+*D su BC, E su AC, rette AD e BE in P, parallelogramma CLPK: i rapporti AE/EL e BD/DK sono uguali*
 
-> I punti $D$ e $E$ si trovano rispettivamente sui lati $BC$ e $AC$ del triangolo $ABC$. Le linee $AD$ e $BE$ si incontrano a $P$. I punti $K$ e $L$ sono presi rispettivamente su $BC$ e $AC$ in modo che $CLPK$ sia un parallelo. Prove che $\frac{AE}{EL} = \frac{BD}{DK}$.
+> I punti $D$ e $E$ giacciono sui lati $BC$ e $AC$ rispettivamente del triangolo $ABC$. Le rette $AD$ e $BE$ si incontrano in $P$. Si prendono i punti $K$ e $L$ su $BC$ e $AC$ rispettivamente, in modo che $CLPK$ sia un parallelogramma. Dimostrare che $\frac{AE}{EL} = \frac{BD}{DK}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2001_r1#q02|src_pol_2001_r1__Q02]]
 
 
 
@@ -81,9 +93,19 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le n>=2 per le quali una disuguaglianza di catena-somma vale per tutti i reali positivi.*
+*Per quali interi n almeno 2 la somma dei prodotti consecutivi non supera (n−1)/n volte la somma dei quadrati, per ogni scelta di numeri positivi*
 
-> Trovare tutti i numeri interi $n \ge 2$ in modo tale che la disuguaglianza $$x_1 x_2 + x_2 x_3 + \cdots + x_{n-1} x_n \le \frac{n-1}{n}\left(x_1^2 + x_2^2 + \cdots + x_n^2\right)$$ sia soddisfatta per tutti i numeri positivi $x_1, x_2, \ldots, x_n$.
+> Trovare tutti gli interi $n \ge 2$ tali che la disuguaglianza
+>
+> $$x_1 x_2 + x_2 x_3 + \cdots + x_{n-1} x_n \le \frac{n-1}{n}\left(x_1^2 + x_2^2 + \cdots + x_n^2\right)$$
+>
+> valga per tutti i numeri positivi $x_1, x_2, \ldots, x_n$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2001_r1#q03|src_pol_2001_r1__Q03]]
 
 
 
@@ -106,9 +128,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Decidere se 65 palle di diametro 1 si inseriscono all'interno di un cubo di bordo 4.*
+*Si possono mettere 65 sfere di diametro 1 in un cubo di spigolo 4? Dimostrare o confutare*
 
-> Provare o respingere: si possono collocare sfere $65$ di diametro $1$ all'interno di un cubo di bordo $4$.
+> Dimostrare o confutare: si possono disporre $65$ sfere di diametro $1$ in un cubo di spigolo $4$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2001_r1#q04|src_pol_2001_r1__Q04]]
 
 
 
@@ -131,9 +159,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Mostra che n^(p^p) + p^p è composto per n>=2 e p primo.*
+*Per ogni intero n almeno 2 e ogni primo p, il numero n^(p^p) + p^p è composto*
 
-> Prova che per tutti i numeri interi $n \ge 2$ e i numeri primi $p$ il numero $n^{p^p} + p^p$ è composto.
+> Dimostrare che, per ogni intero $n \ge 2$ e ogni numero primo $p$, il numero $n^{p^p} + p^p$ è composto.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2001_r1#q05|src_pol_2001_r1__Q05]]
 
 
 
@@ -158,9 +192,19 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Da un + b×sqrt(2001) = (x + y×sqrt(2001))^2000 dimostrare un >= 44b.*
+*Se a + b√2001 è la potenza 2000-esima di x + y√2001, con a, b, x, y interi, allora a è almeno 44b*
 
-> I numeri interi $a, b, x, y$ soddisfano l'uguaglianza $$a + b\sqrt{2001} = \left(x + y\sqrt{2001}\right)^{2000}.$$ Prove che $a \ge 44b$.
+> Gli interi $a, b, x, y$ soddisfano l'uguaglianza
+>
+> $$a + b\sqrt{2001} = \left(x + y\sqrt{2001}\right)^{2000}.$$
+>
+> Dimostrare che $a \ge 44b$.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2001_r1#q06|src_pol_2001_r1__Q06]]
 
 
 
@@ -183,9 +227,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punti D,E sull'ipotenusa con angolo DAE=45°; circoncircolo di ADE incontra le gambe a P,Q; prova BP+CQ=PQ.*
+*Triangolo rettangolo isoscele, D ed E sull'ipotenusa con angolo DAE di 45 gradi: BP + CQ = PQ*
 
-> I punti $D$ e $E$ si trovano sull'ipotenusa $BC$ di un triangolo rettangolo $ABC$ di uguale taglia in modo tale che $\angle DAE = 45^\circ$. Il circoncircolo del triangolo $ADE$ incontra i lati $AB$ e $AC$ di nuovo rispettivamente a $P$ e $Q$. Prova che $BP + CQ = PQ$.
+> I punti $D$ e $E$ giacciono sull'ipotenusa $BC$ di un triangolo rettangolo isoscele $ABC$, in modo che $\angle DAE = 45^\circ$. La circonferenza circoscritta al triangolo $ADE$ incontra di nuovo i lati $AB$ e $AC$ in $P$ e $Q$ rispettivamente. Dimostrare che $BP + CQ = PQ$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+[[Quesiti/src_pol_2001_r1#q07|src_pol_2001_r1__Q07]]
 
 
 
@@ -210,11 +260,17 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per il quale m,n può essere tagliato un rettangolo m x n in copie congruenti di un dato pezzo L.*
+*Per quali interi positivi m, n il rettangolo m×n si può tagliare in pezzi congruenti a quello della figura*
 
-> Per quali integri positivi $m, n$ il rettangolo $m \times n$ può essere tagliato in pezzi congruenti al pezzo mostrato nella figura?
+> Per quali interi positivi $m, n$ il rettangolo $m \times n$ si può tagliare in pezzi congruenti al pezzo mostrato in figura?
 
 ![[src_pol_2001_r1__q08.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2001_r1#q08|src_pol_2001_r1__Q08]]
 
 
 
@@ -237,9 +293,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tra tutti i 12 numeri interi consecutivi uno non può essere scritto come la somma di dieci potenze quattordici.*
+*Fra 12 interi consecutivi ce n'è uno che non è somma di dieci quarte potenze*
 
-> Prova che tra tutti i numeri interi $12$ consecutivi c'è uno che non può essere scritto come la somma di dieci potenze quattordici.
+> Dimostrare che fra $12$ interi consecutivi qualunque ce n'è uno che non si può scrivere come somma di dieci quarte potenze.
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+[[Quesiti/src_pol_2001_r1#q09|src_pol_2001_r1__Q09]]
 
 
 
@@ -262,9 +324,15 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che ogni triangolo ha un punto interno con una proprietà di divisibilità di area/perimetro definita.*
+*Ogni triangolo ha un punto interno tale che ogni retta per esso divide perimetro e area nello stesso rapporto*
 
-> Prova che ogni triangolo $ABC$ contiene un punto interno $P$ con la seguente proprietà: ogni linea che attraversa $P$ divide il perimetro e l'area del triangolo $ABC$ nello stesso rapporto.
+> Dimostrare che ogni triangolo $ABC$ contiene un punto interno $P$ con la proprietà seguente: ogni retta passante per $P$ divide il perimetro e l'area del triangolo $ABC$ nello stesso rapporto.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2001_r1#q10|src_pol_2001_r1__Q10]]
 
 
 
@@ -289,9 +357,19 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n-tuple di integri positivi è ammissibile se ogni k fino a 2 × somma ha una rappresentazione del coefficiente {-2..2}; trovare il massimo della somma.*
+*n-uple ammissibili: ogni intero fino al doppio della somma si scrive con coefficienti in −2, …, 2. Massimo della somma*
 
-> Un $n$-tuple $(c_1, c_2, \ldots, c_n)$ di numeri interi positivi è ammissibile se ogni intero positivo $k$ non superiore a $2(c_1 + c_2 + \cdots + c_n)$ può essere rappresentato nella forma $$k = \sum_{i=1}^{n} a_i c_i, \quad \text{with } a_i \in \{-2, -1, 0, 1, 2\}.$$ Per ogni $n$ si trova il valore massimo possibile di $c_1 + \cdots + c_n$ se $(c_1, \ldots, c_n)$ è ammissibile.
+> Una $n$-upla $(c_1, c_2, \ldots, c_n)$ di interi positivi si dice ammissibile se ogni intero positivo $k$ non superiore a $2(c_1 + c_2 + \cdots + c_n)$ si può scrivere nella forma
+>
+> $$k = \sum_{i=1}^{n} a_i c_i, \quad \text{with } a_i \in \{-2, -1, 0, 1, 2\}.$$
+>
+> Per ogni $n$, trovare il massimo valore possibile di $c_1 + \cdots + c_n$ se $(c_1, \ldots, c_n)$ è ammissibile.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+
+[[Quesiti/src_pol_2001_r1#q11|src_pol_2001_r1__Q11]]
 
 
 
@@ -316,6 +394,16 @@ level: Olimpiade Polacca Round 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze con x0 e \ \x_n=di_{n-1}+1\; trovare il minimo della somma assoluta.*
+*Successioni di interi con x_0 = 0 e |x_n| = |x_{n−1}+1|: minimo del valore assoluto della somma*
 
-> Considerare tutte le sequenze $x_0, x_1, \ldots, x_{2000}$ di numeri interi che soddisfano $$x_0 = 0 \quad \text{and} \quad |x_n| = |x_{n-1} + 1| \text{ for } n = 1, 2, \ldots, 2000.$$ Trovare il valore minimo dell'espressione $|x_1 + x_2 + \cdots + x_{2000}|$.
+> Si considerino tutte le successioni $x_0, x_1, \ldots, x_{2000}$ di interi che soddisfano
+>
+> $$x_0 = 0 \quad \text{and} \quad |x_n| = |x_{n-1} + 1| \text{ for } n = 1, 2, \ldots, 2000.$$
+>
+> Trovare il minimo valore dell'espressione $|x_1 + x_2 + \cdots + x_{2000}|$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_stima|Stima]]
+
+[[Quesiti/src_pol_2001_r1#q12|src_pol_2001_r1__Q12]]

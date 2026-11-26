@@ -34,13 +34,21 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato del lato 12 diviso in 7 rettangoli; identificare e trovare l'area del quadrato evidenziato*
+*Quadrato di lato 12 suddiviso in 7 rettangoli; identifica e calcola l'area del quadrato evidenziato*
 
-> Un quadrato di lato 12 è stato diviso in sette regioni rettangolari non sovrapposte, come mostrato nella figura. Uno di essi ha la verticale $C$, la cui superficie è metà della superficie di ciascuno dei due rettangoli vicini; un altro è un quadrato con la verticale $A$, la cui superficie è metà della superficie di ciascuno dei due rettangoli vicini.
-> 
-> a) Indicare che il quadrilatero evidenziato è quadrato. b) Calcolare l'area del quadrato sottolineato.
+> Un quadrato di lato 12 è stato suddiviso in sette regioni rettangolari non sovrapposte, come mostrato nella figura. Una di esse ha il vertice $C$, e la sua area è pari alla metà dell'area di ciascuno dei due rettangoli adiacenti; un'altra è un quadrato con il vertice $A$, e la sua area è pari alla metà dell'area di ciascuno dei due rettangoli adiacenti.
+>
+> a) Dimostrare che il quadrilatero evidenziato è un quadrato.
+> b) Calcola l'area del quadrato evidenziato.
 
 ![[src_obm_2008_n1_f3__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2008_n1_f3#q01|src_obm_2008_n1_f3__Q01]]
 
 
 
@@ -69,13 +77,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Operazione che sostituisce ciascuna cifra con il suo successore mod 9, eliminando i primi zeri; sequenza e analisi a punto fisso*
+*Operazione che sostituisce ogni cifra con il suo successore modulo 9, eliminando gli zeri iniziali; analisi della sequenza e del punto fisso*
 
-> Esmeralda sceglie qualsiasi numero intero positivo e gli applica la seguente operazione: ciascuna delle sue cifre viene sostituita dal suo successore, ad eccezione della cifra 9, che viene sostituita da 0. Successivamente, tutti gli zeri che appaiono sulla sinistra vengono eliminati. Ad esempio, applicando l'operazione al numero 990003953 si ottiene 1114064 (nota che i due zero sulla sinistra, prodotti dai primi due numeri 9, vengono eliminati).
-> 
-> L'operazione si ripete a tempo indeterminato. Per esempio, partendo da 889, otteniamo la sequenza di numeri $$889,\ 990,\ 1,\ 2,\ 3,\ 4,\ 5,\ 6,\ 7,\ 8,\ 9,\ 0.$$
-> 
-> a) Scrivi la sequenza dei numeri quando il primo numero è 2008. b) dimostrare che, indipendentemente dal numero iniziale, dopo un numero finito di applicazioni dell'operazione di Esmeralda, essa ottiene 0.
+> Esmeralda sceglie un qualsiasi numero intero positivo e applica ad esso l'operazione seguente: ciascuna delle sue cifre viene sostituita dal suo successore, tranne la cifra 9, che viene sostituita da 0. Successivamente, vengono eliminati tutti gli zeri che compaiono all'inizio. Ad esempio, applicando l'operazione al numero 990003953 si ottiene 1114064 (si noti che i due zeri all'inizio, generati dalle prime due cifre 9, vengono eliminati).
+>
+> L'operazione viene ripetuta all'infinito. Ad esempio, partendo da 889, si ottiene la successione di numeri
+> $$889,\ 990,\ 1,\ 2,\ 3,\ 4,\ 5,\ 6,\ 7,\ 8,\ 9,\ 0.$$
+>
+> a) Scrivi la successione di numeri quando il primo numero è 2008.
+> b) Dimostrare che, indipendentemente dal numero di partenza, dopo un numero finito di applicazioni dell'operazione di Esmeralda, lei ottiene 0.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n1_f3#q02|src_obm_2008_n1_f3__Q02]]
 
 
 
@@ -105,15 +122,22 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi di tessitura di una scheda 3×n con 3×1 pezzi; valori specifici e n=15*
+*Contare i modi per ricoprire una tavola 3×n con pezzi 3×1; valori specifici e n=15*
 
-> Il giardo ha pezzi $n$ di dimensioni $3 \times 1$ e vuole usarli per coprire una lavagna $3 \times n$. Per esempio, per $n = 4$ può coprire la lavagna come segue:
+> Jade ha $n$ pezzi di dimensioni $3 \times 1$ e vuole usarli per ricoprire una tavola $3 \times n$. Per esempio, per $n = 4$ può ricoprire la tavola nel modo seguente:
 > 
-> [Si mostra una lavagna $3 \times 4$ coperta da quattro pezzi $3 \times 1$.]
+> [È mostrata una tavola $3 \times 4$ ricoperta da quattro pezzi $3 \times 1$.]
 > 
-> a) Determinare in quanti modi il giardo può produrre un rivestimento per $n = 1, 2, 3, 4, 5, 6, 7$. b) In quanti modi il giardo può coprire la lavagna per $n = 15$?
+> a) Determinare in quanti modi Jade può effettuare un ricoprimento per $n = 1, 2, 3, 4, 5, 6, 7$.
+> b) In quanti modi Jade può ricoprire la tavola per $n = 15$?
 
 ![[src_obm_2008_n1_f3__q03.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+[[Quesiti/src_obm_2008_n1_f3#q03|src_obm_2008_n1_f3__Q03]]
 
 
 
@@ -150,23 +174,30 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'esagono regolare di piastrelle il piano; mostrare il pentagono regolare con condizioni di angolo specifici anche piastrelle il piano*
+*I esagoni regolari tassellano il piano; mostra che anche i pentagoni regolari con una condizione angolare specifica tassellano il piano*
 
-> Prendiamo in considerazione il seguente esagono:
-> 
-> [Si mostra un esagono regolare.]
-> 
-> Con le copie di questo poligono possiamo tessere il piano senza sovrapposizioni, come mostra la seguente figura.
-> 
-> [E' mostrata una piastrella del piano con esagoni regolari.]
-> 
-> a) E' possibile fare delle piastrelle con copie di un pentagono regolare?
-> 
-> *Osservazione: * Un poligono è regolare quando tutti i suoi lati hanno la stessa lunghezza e tutti i suoi angoli interni sono uguali.
-> 
-> b) Il $ABCDE$ deve essere un pentagono con tutti i lati uguali e tale che la misura dell'angolo interno alle vertici $A$ e $B$ sia $m(\hat{A}) = 100^\circ$ e $m(\hat{B}) = 80^\circ$. Mostrare che è possibile tessere il piano con copie di questo pentagono, senza sovrapposizioni.
+> Si consideri il seguente esagono:
+>
+> [È mostrato un esagono regolare.]
+>
+> Con delle copie di questo poligono possiamo ricoprire il piano senza sovrapposizioni, come mostra la figura seguente.
+>
+> [È mostrata una tassellazione del piano con esagoni regolari.]
+>
+> a) È possibile rivestire il piano con copie di un pentagono regolare?
+>
+> *Osservazione:* Un poligono è regolare quando tutti i suoi lati hanno la stessa lunghezza e tutti i suoi angoli interni sono uguali.
+>
+> b) Sia $ABCDE$ un pentagono con tutti i lati uguali e tale che la misura dell'angolo interno nei vertici $A$ e $B$ sia $m(\hat{A}) = 100^\circ$ e $m(\hat{B}) = 80^\circ$. Dimostrare che è possibile tassellare il piano con copie di questo pentagono, senza sovrapposizioni.
 
 ![[src_obm_2008_n1_f3__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n1_f3#q04|src_obm_2008_n1_f3__Q04]]
 
 
 
@@ -192,8 +223,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri di 'Garbosy': multipli positivi le cui prime quattro cifre decimali sono 2008; mostrare 17 è garbosy e tutti i positivi sono*
+*Numeri 'garbosy': multipli positivi i cui primi quattro digit decimali sono 2008; mostra che 17 è garbosy e che tutti i positivi sono*
 
-> Chiamiamo un intero positivo $n$ *garbosy* se ha un multiple la cui quattro cifre principali della sua rappresentazione decimale sono 2008. Ad esempio, 7 è disgustoso perché 200858 è un moltiplo di 7 e inizia con 2008. Si noti che $200858 = 28694 \times 7$.
-> 
-> a) Mostrare che il 17 e' un'imbarazzo. b) Mostrare che ogni numero intero positivo è un'imbarazzo.
+> Chiamiamo *garbosy* un numero intero positivo $n$ se possiede un multiplo il cui primo gruppo di quattro cifre nella rappresentazione decimale è 2008. Ad esempio, 7 è garbosy perché 200858 è un multiplo di 7 e inizia con 2008. Si noti che $200858 = 28694 \times 7$.
+>
+> a) Dimostrare che 17 è garbosy.
+> b) Dimostrare che ogni numero intero positivo è garboso.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_cassetti|Principio dei cassetti]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2008_n1_f3#q05|src_obm_2008_n1_f3__Q05]]

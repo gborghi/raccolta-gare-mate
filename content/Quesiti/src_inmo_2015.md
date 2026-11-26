@@ -29,9 +29,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo rettangolare, incentri, circoncentro sull'ipotenusa*
+*Triangolo rettangolo, incentri, circocentro sull'ipotenusa*
 
-> $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. $BD$ sia l'altitudine da $B$ a $AC$. I segmenti $P$, $Q$ e $I$ siano rispettivamente gli incentri dei triangoli $ABD$, $CBD$ e $ABC$. Indicare che il circoncentro del triangolo $PIQ$ si trova sull'ipotenuza $AC$.
+> Sia $ABC$ un triangolo rettangolo con $\angle B = 90^\circ$. Sia $BD$ l'altezza condotta da $B$ su $AC$. Siano $P$, $Q$ e $I$ gli incentri dei triangoli $ABD$, $CBD$ e $ABC$ rispettivamente. Dimostrare che il circocentro del triangolo $PIQ$ giace sull'ipotenusa $AC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2015#q01|src_inmo_2015__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza della parte non periodica dell'espansione decimale di 1/n*
+*Lunghezza della parte non periodica dello sviluppo decimale di 1/n*
 
-> Per qualsiasi numero naturale $n > 1$, scrivete l'espansione decimale infinita di $1/n$ (ad esempio, scriviamo $1/2 = 0.\overline{49}$ come la sua espansione decimale infinita, non $0.5$). Determinare la lunghezza della parte non periodica dell'espansione decimale (infinita) di $1/n$.
+> Per ogni numero naturale $n > 1$, scrivi lo sviluppo decimale infinito di $1/n$ (ad esempio, scriviamo $1/2 = 0.\overline{49}$ come suo sviluppo decimale infinito, non $0.5$). Determinare la lunghezza della parte non periodica dello sviluppo decimale (infinito) di $1/n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2015#q02|src_inmo_2015__Q02]]
 
 
 
@@ -80,9 +94,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni reali che soddisfano f(x^2+yf(x))=xf(x+y)*
+*Funzioni reali con f(x² + y f(x)) = x f(x+y)*
 
-> Trova tutte le funzioni reali $f$ da $\mathbb{R} \to \mathbb{R}$ che soddisfano la relazione $$f(x^2 + yf(x)) = xf(x + y).$$
+> Trovare tutte le funzioni reali $f$ da $\mathbb{R} \to \mathbb{R}$ che soddisfano la relazione
+> $$f(x^2 + yf(x)) = xf(x + y).$$
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_inmo_2015#q03|src_inmo_2015__Q03]]
 
 
 
@@ -105,9 +127,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-La palla da basket passata tra quattro giocatori, conta i modi in cui la palla ritorna a A dopo sette passaggi
+*Il pallone da basket viene passato tra quattro giocatori: conta in quanti modi il pallone torna ad A dopo sette passaggi*
 
-> Ci sono quattro giocatori di basket $A$, $B$, $C$, $D$. Inizialmente, la palla è con $A$. La palla viene sempre passata da una persona a un'altra. In quanti modi la palla può tornare a $A$ dopo sette passaggi? (Ad esempio $A \to C \to B \to D \to A \to B \to C \to A$ e $A \to D \to A \to D \to A \to B \to C \to A$ sono due modi in cui la palla può tornare a $A$ dopo sette passaggi.)
+> Ci sono quattro giocatori di pallacanestro $A$, $B$, $C$, $D$. Inizialmente, la palla è in possesso di $A$. La palla viene sempre passata da una persona a un'altra persona diversa. In quanti modi la palla può tornare a $A$ dopo sette passaggi? (Ad esempio, $A \to C \to B \to D \to A \to B \to C \to A$ e $A \to D \to A \to D \to A \to B \to C \to A$ sono due modi in cui la palla può tornare a $A$ dopo sette passaggi.)
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2015#q04|src_inmo_2015__Q04]]
 
 
 
@@ -131,9 +160,17 @@ La palla da basket passata tra quattro giocatori, conta i modi in cui la palla r
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale convex ha incircolo iff 1/PE+1/PG=1/PF+1/PH*
+*Il quadrilatero convesso ABCD ha l'incircoscritta se e solo se 1/PE+1/PG=1/PF+1/PH*
 
-> Che $ABCD$ sia un quadrilaterale convex. Lasciate che le diagonali $AC$ e $BD$ si incrociano in $P$. Le altitudini $PE$, $PF$, $PG$ e $PH$ siano rispettivamente le altitudini da $P$ ai lati $AB$, $BC$, $CD$ e $DA$. Indicare che $ABCD$ ha un incircolo se e solo se $$\frac{1}{PE} + \frac{1}{PG} = \frac{1}{PF} + \frac{1}{PH}.$$
+> Sia $ABCD$ un quadrilatero convesso. Siano $AC$ e $BD$ le diagonali che si intersecano in $P$. Siano $PE$, $PF$, $PG$ e $PH$ le altezze condotte da $P$ sui lati $AB$, $BC$, $CD$ e $DA$ rispettivamente. Dimostrare che $ABCD$ ammette un'incirconferenza se e solo se
+> $$\frac{1}{PE} + \frac{1}{PG} = \frac{1}{PF} + \frac{1}{PH}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2015#q05|src_inmo_2015__Q05]]
 
 
 
@@ -157,6 +194,14 @@ La palla da basket passata tra quattro giocatori, conta i modi in cui la palla r
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Da 11 numeri interi quadrati scegliere 6 con due triplici somme uguali mod 12*
+*Da 11 interi quadrati scegli 6 con due somme triple uguali modulo 12*
 
-> Da un insieme di 11 numeri interi quadrati, mostrare che si può scegliere 6 numeri $a^2, b^2, c^2, d^2, e^2, f^2$ in modo che $$a^2 + b^2 + c^2 \equiv d^2 + e^2 + f^2 \pmod{12}.$$
+> Da un insieme di 11 numeri interi quadrati, dimostrare che si possono scegliere 6 numeri $a^2, b^2, c^2, d^2, e^2, f^2$ tali che
+> $$a^2 + b^2 + c^2 \equiv d^2 + e^2 + f^2 \pmod{12}.$$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_inmo_2015#q06|src_inmo_2015__Q06]]

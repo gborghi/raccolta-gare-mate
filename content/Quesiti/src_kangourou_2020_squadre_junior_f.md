@@ -34,16 +34,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum N for k% discount limited to 4 admissions*
+*What is the greatest possible value of N?*
 
 > The discount
-> The management of a museum, to launch a promotional campaign, intends to grant a discount of
-> k% on the entrance ticket price to groups of k people who purchase a
-> cumulative ticket. However, it does not want the amount of the discount to exceed the equivalent of 4 free admissions for
-> each group of people: it must therefore impose the limitation that k does not exceed a certain integer N. What
-> is the largest possible value of N?
+>
+> To launch a promotional campaign, a museum intends to give a discount of k% on the price of an entrance ticket to groups of k people who buy a combined ticket. It does not want the amount of the discount to exceed the equivalent of 4 free entrances for any group of people: it must therefore impose the restriction that k does not exceed a certain integer N. What is the greatest possible value of N?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0020
+[[Quesiti/src_kangourou_2020_squadre_junior_f#q01|src_kangourou_2020_squadre_junior_f__Q01]]
 
 
 
@@ -91,30 +92,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Square of the measurement of BD (similar triangles)*
+*What is the square of the length of BD?*
 
 ![[src_kangourou_2020_junior_finale__prob2.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (A) at (0,0);
-  \coordinate (B) at (4,0);
-  \coordinate (C) at (3,2.5);
-  \coordinate (D) at (1.5,1.25);
-  \draw (A) -- (B) -- (C) -- cycle;
-  \draw (B) -- (D);
-  \node[below left] at (A) {$A$};
-  \node[below right] at (B) {$B$};
-  \node[above right] at (C) {$C$};
-  \node[left] at (D) {$D$};
-\end{tikzpicture}
-\end{document}
-```
+> The square
+>
+> In the triangle in the picture, D is the midpoint of side AC, the angles  and  are equal, and side AB measures 12. What is the square of the length of the segment BD?
 
-> The square In the triangle in Figure D is the midpoint of the AC side, the angles and are equal and the AB side measures 12. What is the square of the size of the BD segment?
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0072
+[[Quesiti/src_kangourou_2020_squadre_junior_f#q02|src_kangourou_2020_squadre_junior_f__Q02]]
 
 
 
@@ -146,11 +137,25 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum competitors (Fibonacci sequences without two 1)*
+*At least how many contestants took part?*
 
-> Competitors A Kangourou competition consisted of 12 numbered questions. The report sent to the manager provided the following two information: - each participant answered all questions; - no participant gave the correct answer to two consecutive questions. The person responsible, without knowing the details but knowing the number of participants, concludes that at least two candidates answered the same way, that is, correctly and incorrectly to the same questions. At least, how many competitors took part in the competition?
+> The contestants
+>
+> A Kangourou contest consisted of 12 numbered questions. The report sent to the person in charge gave these two pieces of information:
+>
+> - every participant answered every question;
+> - no participant gave the right answer to two consecutive questions.
+>
+> The person in charge, without knowing the details but knowing the number of participants, deduces that at least two candidates answered in the same way, that is, correctly on the same questions and wrongly on the same questions.
+>
+> At least how many contestants took part in the contest?
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_cassetti|Pigeonhole principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0378
+[[Quesiti/src_kangourou_2020_squadre_junior_f#q03|src_kangourou_2020_squadre_junior_f__Q03]]
 
 
 
@@ -177,11 +182,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of houses destroyed (average 995.8)*
+*What was the number of the demolished house?*
 
-> On a long street in my town, the houses were numbered, without skipping any number, from first to last. One day one of these houses was torn down. The mean of the remaining numbers then became 995.8. What was the number of the house that was torn down?
+> The demolished house
+>
+> On a long street in my town the houses were numbered, with no number skipped, from the first to the last. One day one of these houses was demolished. The mean of the remaining numbers then became 995,8. What was the number of the demolished house?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 1394
+[[Quesiti/src_kangourou_2020_squadre_junior_f#q04|src_kangourou_2020_squadre_junior_f__Q04]]
 
 
 
@@ -230,33 +242,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Longest length between CD and CE*
+*What is the length of the longer of CD and CE?*
 
 ![[src_kangourou_2020_junior_finale__prob5.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-  \coordinate (B) at (0,4);
-  \coordinate (C) at (0,0);
-  \coordinate (A) at (5,0);
-  \coordinate (D) at (10/3, 4/3);
-  \coordinate (H) at (10/3, 0);
-  \draw (B) -- (C) -- (A) -- (B);
-  \draw (C) -- (D);
-  \draw[dashed] (D) -- (H);
-  \node[above left] at (B) {$B$};
-  \node[below left] at (C) {$C$};
-  \node[below right] at (A) {$A$};
-  \node[right] at (D) {$D$};
-  \node[below] at (H) {$H$};
-\end{tikzpicture}
-\end{document}
-```
+> The longest
+>
+> In a triangle ABC the length of AB is 123, that of BC is 27 and that of CA is 120. Consider the two points D and E that divide side AB into three segments of equal length. What is the length of the longer of the segments CD and CE? (Answer with the nearest integer.)
 
-> In a triangle ABC the measure of AB is 123, that of BC is 27 and that of CA is 120. Consider the two points D and E that divide the AB side into three segments of equal length. What is the length of the longest of the segments CD and CE? (Answer by writing the nearest whole).
-
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0081
+[[Quesiti/src_kangourou_2020_squadre_junior_f#q05|src_kangourou_2020_squadre_junior_f__Q05]]
 
 
 
@@ -283,14 +282,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Birth year of the ancestor (Diophantine system)*
+*In what year was my ancestor born?*
 
 > My ancestor
-> The number of the birth year of one of my ancestors has the following peculiarity: it is divisible by 2, by
-> 3 if you subtract 1 from it, by 5 if you subtract 2 from it, by 7 if you subtract 3 from it and by 11 if you subtract 4 from it. What is
-> the birth year of my ancestor, knowing that he was always a good Christian?
+>
+> The number of the year of birth of one of my ancestors has this peculiarity: it is divisible by 2; by 3 if 1 is subtracted from it; by 5 if 2 is subtracted; by 7 if 3 is subtracted; and by 11 if 4 is subtracted. What is the year of my ancestor's birth, given that he was always a good Christian?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 1522
+[[Quesiti/src_kangourou_2020_squadre_junior_f#q06|src_kangourou_2020_squadre_junior_f__Q06]]
 
 
 
@@ -323,11 +326,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Position of the 90th digit match 5*
+*What is the place, after the decimal point, of the 90th coincidence?*
 
-> Coincidences Consider the number (not whole) obtained by dividing 1990 by 19 and that (also not whole) obtained by dividing 1990 by 17, both written in decimal notation. Imagine then that you are colonising the two numbers (with the two commas in correspondence); if in the same position after the comma both numbers present the figure 5 we say that there is a coincidence. What is the position after the comma of the 90th coincidence? Write 0000 if the 90th coincidence does not occur. A B C D
+> The coincidences
+>
+> Consider the number (not an integer) obtained by dividing 1990 by 19, and the number (also not an integer) obtained by dividing 1990 by 17, both written in decimal notation. Then imagine lining the two numbers up (with the two decimal points corresponding). If in the same place after the decimal point both numbers show the digit 5, we say there is a "coincidence". What is the place, after the decimal point, of the 90th coincidence? Write 0000 if the 90th coincidence does not occur.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 6471
+[[Quesiti/src_kangourou_2020_squadre_junior_f#q07|src_kangourou_2020_squadre_junior_f__Q07]]
 
 
 
@@ -356,13 +366,20 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the square with three parallel lines*
+*What is the area of the square?*
 
 ![[src_kangourou_2020_junior_finale__prob8.png]]
 
-> Three parallels is given a square ABCD. Three parallel lines a, b, c pass through the vertices A, B and C of the square respectively. The distance from a to b is 7, while the distance from b to c is 9. What is the area of the square?
+> Three parallels
+>
+> A square ABCD is given. Three lines a, b, c, parallel to one another, pass through the vertices A, B and C of the square respectively. The distance from a to b is 7, while the distance from b to c is 9. What is the area of the square?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0130
+[[Quesiti/src_kangourou_2020_squadre_junior_f#q08|src_kangourou_2020_squadre_junior_f__Q08]]
 
 
 
@@ -389,14 +406,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of integers n with d(n)×s(n)=96*
+*What is the sum of all such integers n?*
 
 > Divisors
-> For a positive integer n let d(n) denote the number of its divisors and let s(n) denote their sum (for
-> example d(8) = 4 because 8 has 4 divisors (1, 2, 4, 8), while s(8) = 15). Determine the sum of all
-> integers n such that d(n) × s(n) = 96.
+>
+> For a positive integer n, denote by d(n) the number of its divisors and by s(n) their sum (for example d(8) = 4, because 8 has 4 divisors (1, 2, 4, 8), while s(8) = 15). Find the sum of all integers n such that d(n) × s(n) = 96.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0076
+[[Quesiti/src_kangourou_2020_squadre_junior_f#q09|src_kangourou_2020_squadre_junior_f__Q09]]
 
 
 
@@ -423,11 +444,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the flexible numbers AB*
+*What is the sum of all the flexible numbers?*
 
-> Flexible numbers Let's say a two-digit (positive) integer AB is flexible if, when added to (A + B) 2, that is, to the square of the sum of its digits, it gives the resulting number BA. How much is the sum of all the flexible numbers?
+> Flexible numbers
+>
+> We say that a (positive) two-digit number AB is flexible if, when it is added to (A + B)2, that is, to the square of the sum of its digits, the result is the number BA. What is the sum of all the flexible numbers?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0027
+[[Quesiti/src_kangourou_2020_squadre_junior_f#q10|src_kangourou_2020_squadre_junior_f__Q10]]
 
 
 
@@ -456,16 +484,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of the extreme sums of the admissible reorderings of primes*
+*What value do you get?*
 
 > Reordered primes
-> Consider the 9 smallest two-digit (significant) prime integers. A reordering of them is
-> said to be admissible if the difference between the largest and the smallest of two of its consecutive numbers is a
-> power of 2. For each admissible reordering, add the first and the last number of the
-> reordering; then add all the sums thus obtained as all admissible reorderings
-> vary. What value do you get?
+>
+> Consider the 9 smallest two-digit prime integers (with both digits significant). A reordering of them is called admissible if the difference between the greater and the smaller of two consecutive numbers in it is a power of 2. For each admissible reordering, add the first number and the last number of the reordering; then add up all the sums thus obtained as the admissible reordering varies. What value do you get?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0220
+[[Quesiti/src_kangourou_2020_squadre_junior_f#q11|src_kangourou_2020_squadre_junior_f__Q11]]
 
 
 
@@ -491,11 +521,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of six powers of the roots of the equation*
+*What do you get?*
 
-> The roots Consider all solutions of the equation x6 – 16x4 + 16x2 = 1 and raise to the sixth each of them. Then add up the results obtained. How much do you get?
+> The roots
+>
+> Consider all the solutions of the equation x6 – 16x4 + 16x2 = 1, and raise each of them to the sixth power. Then add up the results thus obtained. What do you get?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 6662
+[[Quesiti/src_kangourou_2020_squadre_junior_f#q12|src_kangourou_2020_squadre_junior_f__Q12]]
 
 
 
@@ -525,17 +562,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many times did Martino win in 7 days*
+*How many times did he win in these seven days?*
 
 > At the casino
-> Martino plays in a casino. He has developed a method that consists of playing 5 times in a row
-> one euro the first day, 5 times in a row 5 € the second day, 5 times in a row 25 € the third day, 5 times
-> in a row 125 € the fourth day and so on, continuing to multiply the stake by 5 until the seventh day.
-> If he wins a game, he gets back the stake plus 2 times the stake itself, while if he loses, he loses the
-> stake. No day saw him always win and no day saw him always lose. After 7
-> days of play Martino has earned 22,066 €. How many times did he win in these 7 days?
+>
+> Martino is playing in a casino. He has devised a method: on the first day he plays 1 euro five times in a row, on the second day 5 € five times in a row, on the third day 25 € five times in a row, on the fourth day 125 € five times in a row, and so on, multiplying the stake by 5 up to the seventh day. If he wins a game, he is given back his stake plus twice the stake itself; if he loses, he loses the stake. No day saw him win every time, and no day saw him lose every time. After 7 days of play Martino has gained 22,066 €. How many times did he win in these 7 days?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0015
+[[Quesiti/src_kangourou_2020_squadre_junior_f#q13|src_kangourou_2020_squadre_junior_f__Q13]]
 
 
 
@@ -561,13 +599,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triples {a,b,c} with b the average of a and c*
+*How many such triples are there?*
 
-> The average
-> Let S = {1, 2, 3, …, 100, 101} be the set of the first one hundred and one natural numbers. How many triples {a, b, c}
-> with a < c exist in S such that b = (a + c)/2?
+> The mean
+>
+> Let S = {1, 2, 3, …, 100, 101} be the set of the first one hundred and one natural numbers. How many triples {a, b, c} with a < c are there in S such that b = (a + c)/2?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 2500
+[[Quesiti/src_kangourou_2020_squadre_junior_f#q14|src_kangourou_2020_squadre_junior_f__Q14]]
 
 
 
@@ -603,13 +646,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Plane distance by 3/4 volume of cone*
+*How many centimetres from the base must that plane be?*
 
 ![[src_kangourou_2020_junior_finale__prob15.png]]
 
-> The hat I built a straight circular cone-shaped paper hat, 32 cm high. Now I fold the tip of the cone inside so that the upper edge that remains visible is still a circumference (see figure). How many centimeters must the plane of this circumference be separated from the base plane of the cone if I want the volume of the solid between the base plane and the surface of the overturned hat to be 3/4 of that of the original cone?
-> 
->  
-> Questions and solutions
+> The hat
+>
+> I have made a paper hat in the shape of a right circular cone, 32 cm high. I now push the tip of the cone inwards so that the upper rim that remains visible is still a circle (see the picture). How many centimetres must the plane of this circle be from the base plane of the cone if I want the volume of the solid between the base plane and the surface of the turned-in hat to be 3/4 of that of the original cone?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0016
+[[Quesiti/src_kangourou_2020_squadre_junior_f#q15|src_kangourou_2020_squadre_junior_f__Q15]]

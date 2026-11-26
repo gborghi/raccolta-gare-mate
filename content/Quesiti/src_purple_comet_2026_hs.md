@@ -20,18 +20,20 @@ level: Purple Comet High School
 > Un pomeriggio, in un negozio di mobili, Heather ha comprato una sedia da 100 dollari con uno sconto del 20 per cento e un tavolo da 150 dollari con uno sconto del 30 per cento. Determinare lo sconto percentuale che ha ottenuto complessivamente sugli acquisti del pomeriggio.
 
 **Risposta:** 0026
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.1](https://purplecomet.org/files/2026HSSolutions.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.1
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Overall discount*
+*A 100-dollar chair at 20 per cent off and a 150-dollar table at 30 per cent off: the overall percentage discount*
 
-> One afternoon at a furniture store, Heather bought a 100 dollar chair at a 20 percent discount and a 150 table at a 30 percent discount. Find the percent discount she received on her afternoon's purchases.
+> One afternoon, in a furniture shop, Heather bought a 100-dollar chair at a 20 per cent discount and a 150-dollar table at a 30 per cent discount. Determine the percentage discount she received overall on that afternoon's purchases.
 
 **Answer:** 0026
+
+[[Quesiti/src_purple_comet_2026_hs#q01|src_purple_comet_2026_hs__Q01]]
 
 
 
@@ -47,18 +49,22 @@ level: Purple Comet High School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0012
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.1](https://purplecomet.org/files/2026HSSolutions.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.1
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Primes with at least 50 multiples below 2026*
+*How many primes p divide at least 50 positive integers less than 2026*
 
-> Find the number of prime numbers $p > 0$ such that at least 50 positive integers less than 2026 are divisible by $p$.
+> Determine how many primes $p>0$ are such that at least 50 positive integers less than 2026 are divisible by $p$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0012
+
+[[Quesiti/src_purple_comet_2026_hs#q02|src_purple_comet_2026_hs__Q02]]
 
 
 
@@ -76,20 +82,24 @@ level: Purple Comet High School
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0024
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.1](https://purplecomet.org/files/2026HSSolutions.pdf#page=1)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.1
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Trapezoid inside a square*
+*A square of side 8 with points at distances 1 and 3 from opposite corners: the area of the trapezium*
+
+> The square $ABCD$ has side 8. The points $E$ and $F$ lie on $\overline{AB}$ and $\overline{AD}$ respectively, with $AE=AF=1$, and the points $G$ and $H$ lie on $\overline{BC}$ and $\overline{CD}$ respectively, with $CG=CH=3$, as in the figure. Determine the area of the trapezium $EGHF$.
 
 ![[src_purple_comet_2026_hs__prob3.png]]
 
-> Square $ABCD$ has side length 8. Points $E$ and $F$ are on $\overline{AB}$ and $\overline{AD}$, respectively, with $AE = AF = 1$, and points $G$ and $H$ are on $\overline{BC}$ and $\overline{CD}$, respectively, with $CG = CH = 3$, as shown. Find the area of trapezoid $EGHF$.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
 
 **Answer:** 0024
+
+[[Quesiti/src_purple_comet_2026_hs#q03|src_purple_comet_2026_hs__Q03]]
 
 
 
@@ -105,18 +115,22 @@ level: Purple Comet High School
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0038
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.2](https://purplecomet.org/files/2026HSSolutions.pdf#page=2)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.2
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Mean of the last four*
+*A list of 21 numbers with mean 21, the first 17 with mean 17: the mean of the last 4*
 
-> The mean of a list of 21 numbers is 21. The mean of the first 17 numbers in the list is 17. Find the mean of the last 4 numbers in the list.
+> The mean of a list of 21 numbers is 21. The mean of the first 17 numbers on the list is 17. Determine the mean of the last 4 numbers on the list.
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
 
 **Answer:** 0038
+
+[[Quesiti/src_purple_comet_2026_hs#q04|src_purple_comet_2026_hs__Q04]]
 
 
 
@@ -132,18 +146,22 @@ level: Purple Comet High School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0033
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.2](https://purplecomet.org/files/2026HSSolutions.pdf#page=2)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.2
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four consecutive integers with two prime divisors each*
+*The smallest positive integer n such that n, n+1, n+2 and n+3 each have exactly two distinct prime factors*
 
-> Find the least positive integer $n$ such that $n$, $n + 1$, $n + 2$, and $n + 3$ are each divisible by exactly two different prime numbers.
+> Determine the smallest positive integer $n$ such that $n$, $n+1$, $n+2$ and $n+3$ are each divisible by exactly two distinct primes.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0033
+
+[[Quesiti/src_purple_comet_2026_hs#q05|src_purple_comet_2026_hs__Q05]]
 
 
 
@@ -159,18 +177,22 @@ level: Purple Comet High School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0364
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.3](https://purplecomet.org/files/2026HSSolutions.pdf#page=3)
-**Fonte:** [apri PDF p.1](https://purplecomet.org/files/2026HS_English.pdf#page=1) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.3
+**Fonte:** apri PDF p.1 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Logarithms of sums*
+*The positive integer n for which log₃ of the sum 1 + … + n and log₃ of the sum of squares differ by 5*
 
-> For a given positive integer $n$, let $A = 1 + 2 + 3 + \cdots + n$ and $B = 1^2 + 2^2 + 3^2 + \cdots + n^2$. Find the value of $n$ such that $\log_3 A$ and $\log_3 B$ differ by 5.
+> Given a positive integer $n$, let $A=1+2+3+\cdots+n$ and $B=1^2+2^2+3^2+\cdots+n^2$. Determine the value of $n$ for which $\log_3 A$ and $\log_3 B$ differ by 5.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** 0364
+
+[[Quesiti/src_purple_comet_2026_hs#q06|src_purple_comet_2026_hs__Q06]]
 
 
 
@@ -186,18 +208,22 @@ level: Purple Comet High School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0044
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.3](https://purplecomet.org/files/2026HSSolutions.pdf#page=3)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.3
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2026 as a sum of three squares*
+*2026 as a sum of three positive squares: the greatest possible largest square root*
 
-> One way to write 2026 as the sum of three perfect squares is $1^2 + 27^2 + 36^2$. Find the greatest possible value of $s$, where $q$, $r$, and $s$ are positive integers with $q^2 + r^2 + s^2 = 2026$.
+> One way of writing 2026 as a sum of three perfect squares is $1^2+27^2+36^2$. Determine the greatest possible value of $s$, where $q$, $r$ and $s$ are positive integers with $q^2+r^2+s^2=2026$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0044
+
+[[Quesiti/src_purple_comet_2026_hs#q07|src_purple_comet_2026_hs__Q07]]
 
 
 
@@ -211,18 +237,20 @@ level: Purple Comet High School
 > Un treno che viaggia a velocità costante impiega 15 secondi a oltrepassare un punto del binario e 45 secondi ad attraversare completamente una galleria lunga 600 metri. Determinare la velocità del treno in chilometri orari.
 
 **Risposta:** 0072
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.3](https://purplecomet.org/files/2026HSSolutions.pdf#page=3)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.3
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The train and the tunnel*
+*A train that passes a point in 15 seconds and a 600-metre tunnel in 45 seconds: its speed in kilometres per hour*
 
-> A train traveling at a constant speed takes 15 seconds to pass a point on its track, and 45 seconds to pass completely through a tunnel that is 600 meters long. Find the speed of the train in kilometers per hour.
+> A train travelling at constant speed takes 15 seconds to pass a point on the track and 45 seconds to pass completely through a tunnel 600 metres long. Determine the speed of the train in kilometres per hour.
 
 **Answer:** 0072
+
+[[Quesiti/src_purple_comet_2026_hs#q08|src_purple_comet_2026_hs__Q08]]
 
 
 
@@ -238,18 +266,22 @@ level: Purple Comet High School
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0079
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.3](https://purplecomet.org/files/2026HSSolutions.pdf#page=3)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.3
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Colored paper and stickers*
+*Three sheets of each of three colours, one sticker of each of three colours on each sheet: the probability of all nine combinations, as m + n*
 
-> You have three pieces of red paper, three pieces of white paper, and three pieces of blue paper. You have three black stickers, three yellow stickers, and three purple stickers. You randomly place one sticker onto each piece of paper. The probability that you will end up with all nine possible color combinations is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+> You have three sheets of red paper, three of white paper and three of blue paper. You have three black stickers, three yellow and three purple. You put one sticker at random on each sheet. The probability of obtaining all nine possible colour combinations is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
 
 **Answer:** 0079
+
+[[Quesiti/src_purple_comet_2026_hs#q09|src_purple_comet_2026_hs__Q09]]
 
 
 
@@ -265,18 +297,22 @@ level: Purple Comet High School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0055
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.4](https://purplecomet.org/files/2026HSSolutions.pdf#page=4)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.4
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Savings for a used car*
+*Jacob and Sawyer save for a second-hand car: the fraction of the price paid by Jacob, as m + n*
 
-> Jacob had 25% more in savings than his son Sawyer, and when they pooled their savings, they were 25% short of having the money they needed to purchase the used car they wanted. After working hard for a week, Jacob saved an additional amount, and Sawyer saved an additional amount that was 25% more than the additional amount Jacob saved. Now when they pooled their savings, they had just enough money to purchase the car. The portion of the purchase price of the car that Jacob contributed was $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+> Jacob had 25% more savings than his son Sawyer and, putting their savings together, they were short by 25% of the sum needed to buy the second-hand car they wanted. After a week of hard work, Jacob saved an additional sum, and Sawyer saved an additional sum 25% greater than the sum Jacob saved. Now, putting their savings together, they had exactly the money needed to buy the car. The fraction of the price of the car paid by Jacob is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0055
+
+[[Quesiti/src_purple_comet_2026_hs#q10|src_purple_comet_2026_hs__Q10]]
 
 
 
@@ -294,20 +330,26 @@ level: Purple Comet High School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0169
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.4](https://purplecomet.org/files/2026HSSolutions.pdf#page=4)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.4
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pairings and powers of 63*
+*Pairings of {1, …, 2026}: the highest power of 63 that divides the number of pairings*
 
-> Let $A = \{1, 2, 3, \ldots, 2026\}$. Let $N$ be the number of ways that the 2026 elements of $A$ can be paired into 1013 sets of 2 elements each such as
-> $$\{1, 2\}, \{3, 4\}, \{5, 6\}, \ldots, \{2025, 2026\}.$$
-> Find the greatest integer $n$ such that $63^n$ divides $N$.
+> Let $A=\{1,2,3,\ldots,2026\}$. Let $N$ be the number of ways in which the 2026 elements of $A$ can be partitioned into 1013 pairs, for example
+>
+> $$\{1,2\},\{3,4\},\{5,6\},\ldots,\{2025,2026\}.$$
+>
+> Determine the greatest integer $n$ such that $63^n$ divides $N$.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** 0169
+
+[[Quesiti/src_purple_comet_2026_hs#q11|src_purple_comet_2026_hs__Q11]]
 
 
 
@@ -323,18 +365,22 @@ level: Purple Comet High School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0498
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.5](https://purplecomet.org/files/2026HSSolutions.pdf#page=5)
-**Fonte:** [apri PDF p.2](https://purplecomet.org/files/2026HS_English.pdf#page=2) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.5
+**Fonte:** apri PDF p.2 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Divisors of the product but not of the factors*
+*Positive integers that divide neither 2026² nor 6000², but divide their product*
 
-> Find the number of positive integers that divide neither $2026^2$ nor $6000^2$ but do divide the product $2026^2 \cdot 6000^2$.
+> Determine how many positive integers divide neither $2026^2$ nor $6000^2$, but divide the product $2026^2\cdot 6000^2$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0498
+
+[[Quesiti/src_purple_comet_2026_hs#q12|src_purple_comet_2026_hs__Q12]]
 
 
 
@@ -350,18 +396,22 @@ level: Purple Comet High School
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0136
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.5](https://purplecomet.org/files/2026HSSolutions.pdf#page=5)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.5
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Markers on the number line*
+*Four counters on a number line, each moving left, staying or moving right: the probability of a collision, as m + n*
 
-> One marker is placed at each of the points 1, 2, 3, and 4 along a horizontal number line. Then a shift takes place where each marker either moves one unit to the left, stays where it began, or moves one unit to the right, where the choices for each marker are made randomly and independently of the choices for the other markers. The probability that after the shift there is at least one location with two or more markers is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+> A counter is placed at each of the points 1, 2, 3 and 4 of a horizontal number line. Then a move takes place: each counter moves one unit to the left, or stays where it is, or moves one unit to the right; the choices for each counter are random and independent of those for the others. The probability that after the move there is at least one position with two or more counters is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0136
+
+[[Quesiti/src_purple_comet_2026_hs#q13|src_purple_comet_2026_hs__Q13]]
 
 
 
@@ -377,18 +427,22 @@ level: Purple Comet High School
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0213
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.6](https://purplecomet.org/files/2026HSSolutions.pdf#page=6)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.6
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Region between two circles and a tangent*
+*Two externally tangent circles of radii 6 and 18, and a common external tangent: m + n + p for the area of the bounded region*
 
-> Circles with radii 6 and 18 are externally tangent. The region bounded by the two circles and one of their common external tangents has area $m\sqrt{p} - n\pi$, where $m$, $n$, and $p$ are positive integers, and $p$ is not divisible by the square of any prime. Find $m + n + p$.
+> Two circles of radii 6 and 18 are externally tangent. The region bounded by the two circles and by one of their common external tangents has area $m\sqrt{p}-n\pi$, where $m$, $n$ and $p$ are positive integers and $p$ is not divisible by the square of any prime. Determine $m+n+p$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0213
+
+[[Quesiti/src_purple_comet_2026_hs#q14|src_purple_comet_2026_hs__Q14]]
 
 
 
@@ -404,18 +458,22 @@ level: Purple Comet High School
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0070
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.7](https://purplecomet.org/files/2026HSSolutions.pdf#page=7)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.7
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sine and cosine of the triple angle*
+*A real a with 20 sin a + 21 cos a = 29: m + n for 20 sin 3a + 21 cos 3a*
 
-> Let $a$ be a real number for which $20 \sin a + 21 \cos a = 29$. Then $20 \sin(3a) + 21 \cos(3a) = \frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+> Let $a$ be a real number such that $20\sin a+21\cos a=29$. Then $20\sin(3a)+21\cos(3a)=\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0070
+
+[[Quesiti/src_purple_comet_2026_hs#q15|src_purple_comet_2026_hs__Q15]]
 
 
 
@@ -431,18 +489,22 @@ level: Purple Comet High School
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0288
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.8](https://purplecomet.org/files/2026HSSolutions.pdf#page=8)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.8
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diagonals and perimeter of a rhombus*
+*A rhombus whose diagonals sum to 17/26 of the perimeter: m + n for the cosine of an acute angle*
 
-> The sum of the lengths of the diagonals of a rhombus is $\frac{17}{26}$ times the perimeter of the rhombus. The cosine of the acute internal angles of the rhombus is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+> The sum of the lengths of the diagonals of a rhombus is $\frac{17}{26}$ of the perimeter of the rhombus. The cosine of the acute interior angles of the rhombus is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic and number theory]]
 
 **Answer:** 0288
+
+[[Quesiti/src_purple_comet_2026_hs#q16|src_purple_comet_2026_hs__Q16]]
 
 
 
@@ -456,18 +518,20 @@ level: Purple Comet High School
 > Una piscina può essere riempita con uno qualsiasi di tre rubinetti $A$, $B$ e $C$ che, aperti singolarmente, la riempiono rispettivamente in 2, 3 e 6 ore. Si supponga che, partendo con la piscina vuota, si aprano contemporaneamente i rubinetti $A$ e $B$ e che dopo $k$ minuti, con la piscina parzialmente piena, si apra anche il rubinetto $C$, così che la piscina risulta piena in un tempo totale di 1 ora e 3 minuti. Determinare $k$.
 
 **Risposta:** 0018
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.8](https://purplecomet.org/files/2026HSSolutions.pdf#page=8)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.8
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Three faucets for the pool*
+*Three taps that fill a pool in 2, 3 and 6 hours: after how many minutes the third tap is opened so that the pool is full in 1 hour 3 minutes*
 
-> A swimming pool can be filled using any of three faucets $A$, $B$, and $C$, which when opened individually can fill the pool in 2, 3, and 6 hours, respectively. Suppose that starting when the pool is empty, faucets $A$ and $B$ are opened simultaneously, and after $k$ minutes, when the pool is partially filled, faucet $C$ is opened resulting in the pool being filled in a total of 1 hour and 3 minutes. Find $k$.
+> A swimming pool can be filled by any one of three taps $A$, $B$ and $C$ which, opened on their own, fill it in 2, 3 and 6 hours respectively. Suppose that, starting with the pool empty, taps $A$ and $B$ are opened at the same time, and that after $k$ minutes, with the pool partly full, tap $C$ is also opened, so that the pool is full in a total time of 1 hour and 3 minutes. Determine $k$.
 
 **Answer:** 0018
+
+[[Quesiti/src_purple_comet_2026_hs#q17|src_purple_comet_2026_hs__Q17]]
 
 
 
@@ -483,18 +547,22 @@ level: Purple Comet High School
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0202
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.9](https://purplecomet.org/files/2026HSSolutions.pdf#page=9)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.9
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Centroid in the complex plane*
+*A triangle in the complex plane with vertices 0, z and z² and centroid 17 + 69i: the least possible |z|²*
 
-> In the complex plane, the triangle with vertices at $0$, $z$, and $z^2$ has centroid $17 + 69i$, where $i = \sqrt{-1}$. Find the least possible value of $|z|^2$.
+> In the complex plane, the triangle with vertices $0$, $z$ and $z^2$ has centroid $17+69i$, where $i=\sqrt{-1}$. Determine the least possible value of $|z|^2$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
 
 **Answer:** 0202
+
+[[Quesiti/src_purple_comet_2026_hs#q18|src_purple_comet_2026_hs__Q18]]
 
 
 
@@ -510,18 +578,22 @@ level: Purple Comet High School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0097
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.9](https://purplecomet.org/files/2026HSSolutions.pdf#page=9)
-**Fonte:** [apri PDF p.3](https://purplecomet.org/files/2026HS_English.pdf#page=3) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.9
+**Fonte:** apri PDF p.3 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimal polynomial of a nested radical*
+*The monic integer polynomial of least degree with root √(√3 − √2): the value of p(2)*
 
-> Let $p(x)$ be the polynomial with minimum degree, with integer coefficients, and with leading coefficient equal to 1 such that $\sqrt{\sqrt{3} - \sqrt{2}}$ is a root of $p$. Find $p(2)$.
+> Let $p(x)$ be the polynomial of least degree, with integer coefficients and leading coefficient 1, such that $\sqrt{\sqrt3-\sqrt2}$ is a root of it. Determine $p(2)$.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** 0097
+
+[[Quesiti/src_purple_comet_2026_hs#q19|src_purple_comet_2026_hs__Q19]]
 
 
 
@@ -537,18 +609,22 @@ level: Purple Comet High School
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0040
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.9](https://purplecomet.org/files/2026HSSolutions.pdf#page=9)
-**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.9
+**Fonte:** apri PDF p.4 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Closer to the longest side*
+*A random point in a triangle of sides 17, 19 and 22: the probability it is closer to the longest side than to either of the others, as m + n*
 
-> A point is randomly selected from the inside of a triangle with side lengths 17, 19, and 22. The probability that the point is closer to the longest side of the triangle than to either of the other two sides is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+> A point is chosen at random inside a triangle with sides 17, 19 and 22. The probability that the point is closer to the longest side of the triangle than to each of the other two sides is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
 
 **Answer:** 0040
+
+[[Quesiti/src_purple_comet_2026_hs#q20|src_purple_comet_2026_hs__Q20]]
 
 
 
@@ -564,18 +640,22 @@ level: Purple Comet High School
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0171
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.10](https://purplecomet.org/files/2026HSSolutions.pdf#page=10)
-**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.10
+**Fonte:** apri PDF p.4 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The unbalanced coin*
+*A fair coin and a coin that lands heads 3/5 of the time: after one head, the probability of heads on the second toss, as m + n*
 
-> Bob has two identical-looking coins, but one is a fair coin that is equally likely to come up heads or tails when it is flipped, and the other is an unbalanced coin that comes up heads $\frac{3}{5}$ of the time when it is flipped. Suppose Bob randomly selects one of the coins, flips it, and it comes up heads. The probability that the same coin will come up heads when Bob flips it a second time is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+> Bob has two coins that look the same: one is fair, that is, it lands heads or tails with equal probability when tossed, while the other is biased and lands heads on $\frac35$ of the tosses. Bob chooses one of the coins at random, tosses it, and it lands heads. The probability that the same coin lands heads when Bob tosses it a second time is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
 
 **Answer:** 0171
+
+[[Quesiti/src_purple_comet_2026_hs#q21|src_purple_comet_2026_hs__Q21]]
 
 
 
@@ -593,20 +673,24 @@ level: Purple Comet High School
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3480
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.10](https://purplecomet.org/files/2026HSSolutions.pdf#page=10)
-**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.10
+**Fonte:** apri PDF p.4 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Coloring a 2×4 grid*
+*Colourings of a 2×4 grid in four colours, adjacent cells different, every colour used at least once*
+
+> Each cell of a $2\times4$ grid is coloured red, white, blue or yellow. Determine in how many ways the cells can be coloured so that two cells sharing a side do not have the same colour, and so that each of the four colours is used for at least one cell, as in the example in the figure.
 
 ![[src_purple_comet_2026_hs__prob22.png]]
 
-> Each cell of a $2 \times 4$ grid is colored either red, white, blue, or yellow. Find the number of ways the cells can be colored so that no two cells that share a side have the same color, and each of the four colors is used on at least one cell, such as in the example shown below.
+**Topic:** [[topic_combinatoria|Combinatorics]]
 
 **Answer:** 3480
+
+[[Quesiti/src_purple_comet_2026_hs#q22|src_purple_comet_2026_hs__Q22]]
 
 
 
@@ -622,18 +706,22 @@ level: Purple Comet High School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0112
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.11](https://purplecomet.org/files/2026HSSolutions.pdf#page=11)
-**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.11
+**Fonte:** apri PDF p.4 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Complex root of a quartic*
+*A complex root of x⁴ − 56x + 15 = 0 of the form −a + i√b: a + 10b*
 
-> The equation $x^4 - 56x + 15 = 0$ has a complex solution of the form $-a + i\sqrt{b}$, where $a$ and $b$ are positive integers and $i = \sqrt{-1}$. Find $a + 10b$.
+> The equation $x^4-56x+15=0$ has a complex solution of the form $-a+i\sqrt b$, where $a$ and $b$ are positive integers and $i=\sqrt{-1}$. Determine $a+10b$.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** 0112
+
+[[Quesiti/src_purple_comet_2026_hs#q23|src_purple_comet_2026_hs__Q23]]
 
 
 
@@ -649,18 +737,22 @@ level: Purple Comet High School
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0869
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.11](https://purplecomet.org/files/2026HSSolutions.pdf#page=11)
-**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.11
+**Fonte:** apri PDF p.4 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four tangent spheres*
+*Four pairwise externally tangent spheres of radii 1, 2, 3 and 4: m + n for the volume of the tetrahedron of centres*
 
-> Four mutually externally tangent spheres with centers $A$, $B$, $C$, and $D$ have radii 1, 2, 3, and 4, respectively. There are relatively prime positive integers $m$ and $n$ such that the volume of the tetrahedron (triangular pyramid) $ABCD$ is $\sqrt{\frac{m}{n}}$. Find $m + n$.
+> Four spheres, pairwise externally tangent, with centres $A$, $B$, $C$ and $D$, have radii 1, 2, 3 and 4 respectively. There exist coprime positive integers $m$ and $n$ such that the volume of the tetrahedron (triangular pyramid) $ABCD$ is $\sqrt{\frac{m}{n}}$. Determine $m+n$.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
 
 **Answer:** 0869
+
+[[Quesiti/src_purple_comet_2026_hs#q24|src_purple_comet_2026_hs__Q24]]
 
 
 
@@ -676,18 +768,22 @@ level: Purple Comet High School
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0038
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.12](https://purplecomet.org/files/2026HSSolutions.pdf#page=12) — l'elenco ufficiale dà 38 (probabilità 3/35); il PDF delle soluzioni riporta «Answer: 35» per un refuso: 3/35 dà m+n = 38, verificato anche per enumerazione
-**Fonte:** [apri PDF p.4](https://purplecomet.org/files/2026HS_English.pdf#page=4) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.12 — l'elenco ufficiale dà 38 (probabilità 3/35); il PDF delle soluzioni riporta «Answer: 35» per un refuso: 3/35 dà m+n = 38, verificato anche per enumerazione
+**Fonte:** apri PDF p.4 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Marbles for four friends*
+*Twelve marbles, four of each of three colours, dealt three each: the probability that Alan gets no red and Dora no blue, as m + n*
 
-> Four red, four white, and four blue marbles are randomly distributed to Alan, Beth, Carl, and Dora, so that each person receives three marbles. The probability that Alan does not receive any red marbles and Dora does not receive any blue marbles is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+> Four red marbles, four white and four blue are distributed at random among Alan, Beth, Carl and Dora, so that each receives three marbles. The probability that Alan receives no red marbles and that Dora receives no blue marbles is $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
 
 **Answer:** 0038 — the official answer list gives 38 (probability 3/35); the solutions PDF prints «Answer: 35», a typo: 3/35 gives m+n = 38, also checked by enumeration
+
+[[Quesiti/src_purple_comet_2026_hs#q25|src_purple_comet_2026_hs__Q25]]
 
 
 
@@ -703,18 +799,22 @@ level: Purple Comet High School
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0042
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.13](https://purplecomet.org/files/2026HSSolutions.pdf#page=13)
-**Fonte:** [apri PDF p.5](https://purplecomet.org/files/2026HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.13
+**Fonte:** apri PDF p.5 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum under a product constraint*
+*Positive reals with xy = 16 that minimise 3x + y³: x + y plus that minimum*
 
-> Let $x$ and $y$ be the positive real numbers satisfying $xy = 16$ for which the value of $3x + y^3$ is a minimum. Let $m$ be that minimum value. Find $x + y + m$.
+> Let $x$ and $y$ be the positive real numbers with $xy=16$ for which the value of $3x+y^3$ is least. Let $m$ be that least value. Determine $x+y+m$.
+
+**Topic:** [[topic_algebra|Algebra]]
 
 **Answer:** 0042
+
+[[Quesiti/src_purple_comet_2026_hs#q26|src_purple_comet_2026_hs__Q26]]
 
 
 
@@ -730,18 +830,22 @@ level: Purple Comet High School
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0119
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.13](https://purplecomet.org/files/2026HSSolutions.pdf#page=13)
-**Fonte:** [apri PDF p.5](https://purplecomet.org/files/2026HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.13
+**Fonte:** apri PDF p.5 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sphere between cone and hemisphere*
+*A cone of height 12 and base diameter 10, a hemisphere in the base, and the largest sphere between them: m + n for the radius*
 
-> A right circular cone has height 12 and base diameter 10. A hemisphere is internally tangent to the side of the cone, and the base of the hemisphere lies in the base of the cone so that hemisphere and the base of the cone have the same center. The largest sphere internally tangent to the side of the cone and externally tangent to the hemisphere has radius $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+> A right circular cone has height 12 and base diameter 10. A hemisphere is internally tangent to the lateral surface of the cone, and its base lies in the base of the cone, so that the hemisphere and the base of the cone have the same centre. The largest sphere that is internally tangent to the lateral surface of the cone and externally tangent to the hemisphere has radius $\frac{m}{n}$, where $m$ and $n$ are coprime positive integers. Determine $m+n$.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
 
 **Answer:** 0119
+
+[[Quesiti/src_purple_comet_2026_hs#q27|src_purple_comet_2026_hs__Q27]]
 
 
 
@@ -759,20 +863,26 @@ level: Purple Comet High School
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0084
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.14](https://purplecomet.org/files/2026HSSolutions.pdf#page=14)
-**Fonte:** [apri PDF p.5](https://purplecomet.org/files/2026HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.14
+**Fonte:** apri PDF p.5 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Telescoping sum of roots*
+*A sequence defined by a rationalised expression: the sum of k√a_k from 1 to 119*
 
-> For positive integers $n$, define
-> $$a_n = 1 - \frac{2n^2}{1 + \sqrt{1 + 4n^4}}.$$
-> Evaluate $\sqrt{a_1} + 2\sqrt{a_2} + 3\sqrt{a_3} + \cdots + 119\sqrt{a_{119}}$.
+> For every positive integer $n$, define
+>
+> $$a_n=1-\frac{2n^2}{1+\sqrt{1+4n^4}}.$$
+>
+> Compute $\sqrt{a_1}+2\sqrt{a_2}+3\sqrt{a_3}+\cdots+119\sqrt{a_{119}}$.
+
+**Topic:** [[topic_funzionali|Functional equations and sequences]]
 
 **Answer:** 0084
+
+[[Quesiti/src_purple_comet_2026_hs#q28|src_purple_comet_2026_hs__Q28]]
 
 
 
@@ -790,20 +900,24 @@ level: Purple Comet High School
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0406
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.15](https://purplecomet.org/files/2026HSSolutions.pdf#page=15)
-**Fonte:** [apri PDF p.5](https://purplecomet.org/files/2026HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.15
+**Fonte:** apri PDF p.5 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Piles of colored bricks*
+*Six red, six white and six blue bricks in three piles of six, red only low and blue only high: how many colourings*
+
+> You have six red bricks, six white and six blue. You must arrange them in three side-by-side piles of six bricks each, so that the red bricks lie only in the lower part of the piles and the blue bricks only in the upper part. The figure shows four possible configurations. Determine how many colour configurations can be obtained.
 
 ![[src_purple_comet_2026_hs__prob29.png]]
 
-> You have six red bricks, six white bricks, and six blue bricks. You are to put down the bricks in three side-by-side piles of six bricks each so that stacks of red bricks are only at the bottoms of piles, and stacks of blue bricks are only at the tops of piles. Four possible patterns are shown below. Find the number of possible color patterns you can get.
+**Topic:** [[topic_combinatoria|Combinatorics]]
 
 **Answer:** 0406
+
+[[Quesiti/src_purple_comet_2026_hs#q29|src_purple_comet_2026_hs__Q29]]
 
 
 
@@ -819,15 +933,19 @@ level: Purple Comet High School
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0190
-**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · [soluzione ufficiale PDF p.16](https://purplecomet.org/files/2026HSSolutions.pdf#page=16)
-**Fonte:** [apri PDF p.5](https://purplecomet.org/files/2026HS_English.pdf#page=5) · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
+**Fonte risposta:** [elenco risposte ufficiale](<https://purplecomet.org/index.php/answerlist/2026/2>) · soluzione ufficiale PDF p.16
+**Fonte:** apri PDF p.5 · purplecomet.org (Purple Comet! Math Meet, © Titu Andreescu e Jonathan Kane)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cube and spheres inside a sphere*
+*A cube of edge 8 inside a sphere of radius 9, bottom vertices on the sphere, and two smaller spheres on the top face: m + n for their greatest radius*
 
-> Inside a sphere with radius 9 is a cube with edge length 8. The four vertices of the bottom face of the cube rest against the sphere. Two smaller congruent spheres are externally tangent to each other, are both externally tangent to the top face of the cube, and are internally tangent to the larger sphere. The greatest possible radius of the smaller spheres can be written as $\sqrt{m} - n$, where $m$ and $n$ are positive integers. Find $m + n$.
+> Inside a sphere of radius 9 there is a cube of edge 8. The four vertices of the bottom face of the cube rest on the sphere. Two smaller congruent spheres are externally tangent to each other, both externally tangent to the top face of the cube, and internally tangent to the large sphere. The greatest possible radius of the smaller spheres can be written as $\sqrt m-n$, where $m$ and $n$ are positive integers. Determine $m+n$.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
 
 **Answer:** 0190
+
+[[Quesiti/src_purple_comet_2026_hs#q30|src_purple_comet_2026_hs__Q30]]

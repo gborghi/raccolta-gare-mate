@@ -30,9 +30,17 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Prove numerator p of alternating harmonic sum divisible by 1979*
+*The numerator of an alternating harmonic sum is divisible by 1979*
 
-> If $p$ and $q$ are natural numbers such that $$\frac{p}{q} = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \cdots - \frac{1}{1318} + \frac{1}{1319}.$$ Show that $p$ is divisible by $1979$.
+> Let $p$ and $q$ be natural numbers such that
+> $$\frac{p}{q} = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \cdots - \frac{1}{1318} + \frac{1}{1319}.$$
+> Prove that $p$ is divisible by $1979$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_1979_all#q01|src_imo_1979_all__Q01]]
 
 
 
@@ -57,12 +65,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*bordo superiore e bordo inferiore tutti dello stesso colore*
+*I bordi superiore e inferiore hanno tutti lo stesso colore*
 
-> Nota. Un percorso di n salti è una sequenza di vertici (P₀, ..., Pₙ) tale che
-> (i) P₀ = A, Pₙ = E;
-> (ii) per ogni i, 0 ≤ i ≤ n−1, Pi è diverso da E;
-> (iii) per ogni i, 0 ≤ i ≤ n−1, Pi e Pi+1 sono adiacenti.
+> Nota. Un cammino di n salti è una sequenza di vertici (P0, ..., Pn) tale che (i) P0 = A, Pn = E; (ii) per ogni i, 0 ≤ i ≤ n − 1, Pi è diverso da E; (iii) per ogni i, 0 ≤ i ≤ n − 1, Pi e Pi+1 sono adiacenti.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione / parita]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1979_all#q02|src_imo_1979_all__Q02]]
 
 
 
@@ -84,9 +95,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Fixed point equidistant from two points moving on circles*
+*Two points moving on intersecting circles stay equidistant from a fixed point*
 
-> Two circles in a plane intersect. Be $A$ one of the intersection points. Starting simultaneously from $A$, two points move at constant speed, each along its circumference in the same direction. The two points return to $A$ simultaneously after a full lap. Demonstrate that there is a fixed point $P$ in the plane such that, at any moment, the distances from $P$ to the two moving points are equal.
+> Two circles in a plane intersect. Let $A$ be one of the points of intersection. Starting simultaneously from $A$, two points move at constant speeds, each along its own circle in the same sense. The two points return to $A$ simultaneously after one complete revolution. Prove that there exists a fixed point $P$ in the plane such that, at any instant, the distances from $P$ to the two moving points are equal.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1979_all#q03|src_imo_1979_all__Q03]]
 
 
 
@@ -108,9 +125,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-Find points R maximizing ratio (QP+PA)/QR in plane
+*Points R in a plane maximising (QP+PA)/QR*
 
-> Given a straight (plane) $\pi$, a point $P$ in this plane and a point $Q$ not in $\pi$, find all points $R$ in $\pi$ such that the ratio $\dfrac{QP + PA}{QR}$ is maximum.
+> Given a line (plane) $\pi$, a point $P$ in this plane and a point $Q$ not in $\pi$, find all points $R$ in $\pi$ such that the ratio $\dfrac{QP + PA}{QR}$ is a maximum.
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1979_all#q04|src_imo_1979_all__Q04]]
 
 
 
@@ -133,9 +156,16 @@ Find points R maximizing ratio (QP+PA)/QR in plane
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Find a with nonneg x_k satisfying three power-sum relations*
+*Real a for which a power-sum system has a non-negative solution*
 
-> Find all real numbers $a$ for which there are non-negative real numbers $x_1, x_2, x_3, x_4, x_5$ that satisfy the $$\sum_{k=1}^{5} k x_k = a, \quad \sum_{k=1}^{5} k^3 x_k = a^2, \quad \sum_{k=1}^{5} k^5 x_k = a^3.$$ relationships
+> Find all real numbers $a$ for which there exist non-negative real numbers $x_1, x_2, x_3, x_4, x_5$ satisfying the relations
+> $$\sum_{k=1}^{5} k x_k = a, \quad \sum_{k=1}^{5} k^3 x_k = a^2, \quad \sum_{k=1}^{5} k^5 x_k = a^3.$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_disuguaglianze|Classical inequalities]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_1979_all#q05|src_imo_1979_all__Q05]]
 
 
 
@@ -164,8 +194,19 @@ Find points R maximizing ratio (QP+PA)/QR in plane
 <div class="qlang-split" data-lang="en"></div>
 
 
-*prove formula for count of n-jump paths*
+*Paths of a frog on a regular octagon*
 
-> They are $A$ and $E$ opposite vertices of a regular octagon. A frog starts jumping from the summit. From any vertex of the octagon except $E$, it can jump to any of the two adjacent vertices. When it reaches the summit, the frog stops and stays there. Whether $a_n$ the number of distinct paths of exactly $n$ jumps ending in $E$. Show that $a_{2n-1} = 0$ and $$a_{2n} = \frac{1}{\sqrt{2}}\left(x^{n-1} - y^{n-1}\right), \quad n = 1, 2, 3, \ldots,$$ where $x = 2 + \sqrt{2}$ and $y = 2 - \sqrt{2}$.
-> 
-> *Note.* A $n$ jump path is a sequence of vertices $(P_0, \ldots, P_n)$ such that: (i) $P_0 = A$, $P_n = E$; (ii) for each $i$, $0 \leq i \leq n-1$, $P_i$ is distinct from $E$; (iii) for each $i$, $0 \leq i \leq n-1$, $P_i$ and $P_{i+1}$ are adjacent.
+> Let $A$ and $E$ be opposite vertices of a regular octagon. A frog starts jumping from the vertex $A$. From any vertex of the octagon except $E$, it may jump to either of the two adjacent vertices. When it reaches the vertex $E$, the frog stops and stays there. Let $a_n$ be the number of distinct paths of exactly $n$ jumps ending at $E$. Prove that $a_{2n-1} = 0$ and
+> $$a_{2n} = \frac{1}{\sqrt{2}}\left(x^{n-1} - y^{n-1}\right), \quad n = 1, 2, 3, \ldots,$$
+> where $x = 2 + \sqrt{2}$ and $y = 2 - \sqrt{2}$.
+>
+> *Note.* A path of $n$ jumps is a sequence of vertices $(P_0, \ldots, P_n)$ such that:
+> (i) $P_0 = A$, $P_n = E$;
+> (ii) for every $i$, $0 \leq i \leq n-1$, $P_i$ is distinct from $E$;
+> (iii) for every $i$, $0 \leq i \leq n-1$, $P_i$ and $P_{i+1}$ are adjacent.
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_induzione|Induction]], [[method_ricorsione|Recursion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_1979_all#q06|src_imo_1979_all__Q06]]

@@ -28,9 +28,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*AD+BC=AB*
+*A cyclic quadrilateral with an incircle centred on one side*
 
-> A circle has the centre on the $AB$ side of the cyclic quadrilateral $ABCD$. The other three sides are tangent to the circle. Show that $AD + BC = AB$.
+> A circle has its centre on the side $AB$ of the cyclic quadrilateral $ABCD$. The other three sides are tangent to the circle. Prove that $AD + BC = AB$.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1985#q01|src_imo_1985__Q01]]
 
 
 
@@ -58,15 +64,21 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two-colored set with covrime conditions to the same colour*
+*A two-colouring of {1,...,n-1} forced by two rules is monochrome*
 
-> They are $n$ and $k$ relatively prime natural numbers, with $k < n$. Each number in the $M = \{1, 2, \ldots, n-1\}$ set is coloured in blue or white. This is because:
-> 
-> (i) for each $i \in M$, both $i$ and $n - i$ are the same colour;
-> 
-> (ii) for each $i \in M$, $i \neq k$, both $i$ and $|i - k|$ are the same colour.
-> 
-> Demonstrate that all numbers in $M$ must have the same color.
+> Let $n$ and $k$ be given coprime natural numbers, with $k < n$. Each number in the set $M = \{1, 2, \ldots, n-1\}$ is coloured blue or white. It is given that:
+>
+> (i) for every $i \in M$, both $i$ and $n - i$ have the same colour;
+>
+> (ii) for every $i \in M$, $i \neq k$, both $i$ and $|i - k|$ have the same colour.
+>
+> Prove that all the numbers in $M$ must have the same colour.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_imo_1985#q02|src_imo_1985__Q02]]
 
 
 
@@ -90,11 +102,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Odd-coefficient count inequality for sums of binomial polynomials*
+*The number of odd coefficients does not decrease when binomial expansions are added*
 
-> For each $P(x) = a_0 + a_1 x + \cdots + a_k x^k$ polynomial with integer coefficients, the number of odd coefficients is denoted by $w(P)$. For $i = 0, 1, \ldots$, be $Q_i(x) = (1 + x)^i$. Show that if $i_1, i_2, \ldots, i_n$ are integers such that $0 \leq i_1 < i_2 < \cdots < i_n$, then
-> 
+> For every polynomial $P(x) = a_0 + a_1 x + \cdots + a_k x^k$ with integer coefficients, the number of coefficients that are odd is denoted by $w(P)$. For $i = 0, 1, \ldots$, let $Q_i(x) = (1 + x)^i$. Prove that if $i_1, i_2, \ldots, i_n$ are integers such that $0 \leq i_1 < i_2 < \cdots < i_n$, then
 > $$w(Q_{i_1} + Q_{i_2} + \cdots + Q_{i_n}) \geq w(Q_{i_1}).$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_1985#q03|src_imo_1985__Q03]]
 
 
 
@@ -116,9 +133,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*four-element product is fourth power*
+*A set of 1985 integers with small prime factors has four whose product is a fourth power*
 
-> Given a $M$ set of $1985$ distinct positive integers, none of which has a prime divisor greater than $26$. Show that $M$ contains at least one subset of four distinct elements whose product is the fourth power of an integer.
+> Given a set $M$ of $1985$ distinct positive integers, none of which has a prime divisor greater than $26$. Prove that $M$ contains at least one subset of four distinct elements whose product is the fourth power of an integer.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_1985#q04|src_imo_1985__Q04]]
 
 
 
@@ -140,9 +163,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Prove angle OMB is right in two-circle configuration*
+*The angle OMB is a right angle*
 
-> A circle with a centre $O$ passes through the vertices $A$ and $C$ of the $ABC$ triangle and intersects the segments $AB$ and $BC$ again at distinct points $K$ and $N$, respectively. The circles surrounding the $ABC$ and $KBN$ triangles intersect at exactly two distinct points $B$ and $M$. Show that the $\angle OMB$ angle is a right angle.
+> A circle with centre $O$ passes through the vertices $A$ and $C$ of triangle $ABC$ and meets the segments $AB$ and $BC$ again at distinct points $K$ and $N$, respectively. The circumcircles of triangles $ABC$ and $KBN$ meet at exactly two distinct points $B$ and $M$. Prove that the angle $\angle OMB$ is a right angle.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1985#q05|src_imo_1985__Q05]]
 
 
 
@@ -172,14 +201,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Unique starting value keeping recurrence sequence in (0,1)*
+*Exactly one starting value keeps the sequence strictly increasing and below 1*
 
-> For each real number $x_1$, the sequence $x_1, x_2, \ldots$ is constructed by
-> 
+> For every real number $x_1$, the sequence $x_1, x_2, \ldots$ is constructed by setting
 > $$x_{n+1} = x_n \left( x_n + \frac{1}{n} \right)$$
-> 
-> for each $n \geq 1$. Demonstrate that there is exactly a value of $x_1$ for which
-> 
+> for every $n \geq 1$. Prove that there exists exactly one value of $x_1$ for which
 > $$0 < x_n < x_{n+1} < 1$$
-> 
-> for each $n$.
+> for every $n$.
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_estremalita|Extremal principle]], [[method_ricorsione|Recursion]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_1985#q06|src_imo_1985__Q06]]

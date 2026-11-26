@@ -29,9 +29,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio n≤2017 per il quale un triangolo a angolo retto di uguali dimensioni ha esattamente n punti di reticola sul suo perimetro*
+*Numero di valori di n ≤ 2017 per cui un triangolo isoscele rettangolo ha esattamente n punti a coordinate intere sul suo perimetro*
 
-> Questo problema riguarda i triangoli con vertici a coordinate interi nel solito piano di coordinate $x,y$. Per quanti integri positivi $n \le 2017$ è possibile disegnare un triangolo a rettangolo di isosceles in modo tale che esattamente $n$ i punti sul suo perimetro, compresi tutti e tre i suoi vertici, abbiano coordinate interi?
+> Questo problema riguarda i triangoli i cui vertici hanno coordinate intere nel consueto piano delle coordinate $x,y$. Per quanti interi positivi $n \le 2017$ è possibile tracciare un triangolo isoscele rettangolo tale che esattamente $n$ punti sul suo perimetro, compresi tutti e tre i suoi vertici, abbiano coordinate intere?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+
+[[Quesiti/src_bmo_2016-17_round2#q01|src_bmo_2016-17_round2__Q01]]
 
 
 
@@ -58,11 +65,20 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove la sequenza a_n = somma_{i=1}^{n} piano(n/i) soddisfa a_{n+1}>a_n e a_{n+1}=a_n entrambi infinitamente spesso*
+*Dimostrare che la successione a_n = sum_{i=1}^{n} floor(n/i) soddisfa a_{n+1}>a_n e a_{n+1}=a_n, entrambe le condizioni verificandosi infinite volte*
 
-> $\lfloor x \rfloor$ indichi il numero intero più grande inferiore o uguale al numero reale $x$. Considerare la sequenza $a_1, a_2, \ldots$ definita da $$a_n = \sum_{i=1}^{n} \left\lfloor \frac{n}{i} \right\rfloor$$ per gli integri $n \ge 1$. Prove che $a_{n+1} > a_n$ per infinite $n$, e $a_{n+1} = a_n$ per infinite $n$.
-> 
-> [Questi sono alcuni esempi di utilizzo di $\lfloor\cdot\rfloor$: $\lfloor 2 \rfloor = 2$, $\lfloor 1.7 \rfloor = 1$, $\lfloor -1.7 \rfloor = -2$.]
+> Sia $\lfloor x \rfloor$ il più grande intero minore o uguale al numero reale $x$. Si consideri la successione $a_1, a_2, \ldots$ definita da
+> $$a_n = \sum_{i=1}^{n} \left\lfloor \frac{n}{i} \right\rfloor$$
+> per interi $n \ge 1$. Dimostrare che $a_{n+1} > a_n$ per infiniti $n$, e che $a_{n+1} = a_n$ per infiniti $n$.
+>
+> [Ecco alcuni esempi dell'uso di $\lfloor\cdot\rfloor$: $\lfloor 2 \rfloor = 2$, $\lfloor 1.7 \rfloor = 1$, $\lfloor -1.7 \rfloor = -2$.]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_bmo_2016-17_round2#q02|src_bmo_2016-17_round2__Q02]]
 
 
 
@@ -85,9 +101,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale ciclico: il bisettore angolare dell'angolo ADB incontra l'AC a N; dimostra CD parallelo ad AB se AN=NC*
+*Quadrilatero ciclico ABCD: la bisettrice dell'angolo ADB incontra AC in N; dimostrare che CD è parallelo ad AB se e solo se AN=NC*
 
-> Considerate un quadrilaterale ciclico $ABCD$. Le diagonali $AC$ e $BD$ si incontrano a $T$. Il bisettore di angolo interno di $\angle ADB$ incontra $AC$ a $N$. Prova che $CD$ è parallelo a $AB$ se e solo se $AN = NC$.
+> Si consideri un quadrilatero ciclico $ABCD$. Le diagonali $AC$ e $BD$ si incontrano in $T$. La bisettrice interna dell'angolo $\angle ADB$ incontra $AC$ in $N$. Dimostrare che $CD$ è parallelo a $AB$ se e solo se $AN = NC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_bmo_2016-17_round2#q03|src_bmo_2016-17_round2__Q03]]
 
 
 
@@ -110,6 +133,13 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il codice segreto a 3 cifre di Bobby: trovare le ipotesi minime che Alex deve garantire per imparare il codice
+*Il codice segreto di tre cifre di Bobby: determina il numero minimo di tentativi necessari ad Alex per conoscere con certezza il codice*
 
-> Bobby sceglie un codice segreto a tre cifre. Alex cerca di indovinare dicendo numeri a tre cifre uno alla volta. Dopo ogni ipotesi, Bobby risponde con quante cifre sono $\textit{Full}$ (cifre corrette nella posizione corretta) e quante sono $\textit{Close}$ (cifre corrette ma nella posizione sbagliata). Alex sa che entrambe le risposte sono corrette. Se Alex segue una strategia ottimale, qual e' il minimo numero di ipotesi necessarie per garantire che Alex possa determinare il codice segreto, qualunque sia?
+> Bobby sceglie un codice segreto di 3 cifre. Alex prova a indovinarlo dicendo numeri di 3 cifre uno alla volta. Dopo ogni tentativo, Bobby risponde indicando quante cifre sono $\textit{Full}$ (cifra corretta nella posizione corretta) e quante sono $\textit{Close}$ (cifra corretta ma nella posizione sbagliata). Alex sa che entrambe le risposte sono corrette. Se Alex segue una strategia ottimale, qual è il numero minimo di tentativi necessari per garantire che Alex possa determinare il codice segreto, qualunque esso sia?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_bmo_2016-17_round2#q04|src_bmo_2016-17_round2__Q04]]

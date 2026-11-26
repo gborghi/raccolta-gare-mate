@@ -39,13 +39,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of visible roofs to be painted on the building*
+*How many square metres is the area of the surface to be painted?*
 
 ![[src_kangourou_2022_junior_gara__prob1.png]]
 
-> On the roof of a square-based building there are some buildings, also square-based, two of which have another on the roof always square-based. All the individual buildings are rectangular parallelepipeds. The bases are of four different sizes: 40, 20, 10 and 5 m2. They want to paint all the roofs in dark gray, as the figure suggests. How many square meters is the area to be painted? A) 1.600 B) 2.100 C) 2.150
+> On the roof of a building with a square base some structures are arranged, also with a square base, two of which have another one on the roof, again with a square base. All the individual buildings are parallelepipeds. The bases are of four different sizes: 40, 20, 10 and 5 m2. One wants to paint dark grey, as the picture suggests, all the roofs that remain visible. How many square metres is the area of the surface to be painted?
+>
+> A) 1.600
+> B) 2.100
+> C) 2.150
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_junior_gara#q01|src_kangourou_2022_junior_gara__Q01]]
 
 
 
@@ -74,15 +82,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Side of the square with perimeter equal to the triangle*
+*How long is the side of the square?*
 
-> The perimeter of a square coincides with that of an equilateral triangle on side 12. How big is the side of the square? A) 9
->   
+> The perimeter of a square is the same as that of an equilateral triangle of side 12. How long is the side of the square?
+>
+> A) 9
 > B) 12
->   
 > C) 16
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_junior_gara#q02|src_kangourou_2022_junior_gara__Q02]]
 
 
 
@@ -115,13 +127,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of the path of the ant on the cylinder*
+*How many centimetres long is it?*
 
 ![[src_kangourou_2022_junior_gara__prob3.png]]
 
-> The figure sketches the path of an ant from point A to point B of a cylinder 20 cm high, the base of which has a diameter of 10 cm. The path is highlighted in black on the front (visible) side of the cylinder and in gray on the rear (non-visible). How long is it? A) 15π + 20 B) 20π + 20 C) 10π + 20 E) None of the previous numbers is correct.
+> The picture sketches the path of an ant from a point A to a point B of a cylinder of height 20 cm, whose base has diameter 10 cm. The path is shown in black on the front (visible) part of the cylinder and in grey on the back (not visible) part. How many centimetres long is it?
+>
+> A) 15π + 20
+> B) 20π + 20
+> C) 10π + 20
+> E) none of the previous numbers is correct
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_junior_gara#q03|src_kangourou_2022_junior_gara__Q03]]
 
 
 
@@ -162,19 +183,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many tables for a station with side 9*
+*How many tables are needed to set up a station of side 9?*
 
 ![[src_kangourou_2022_junior_gara__prob4.png]]
 
-> By attaching rectangular tables, all of which are 2 × 1, two meeting rooms have been set up, creating square stations as shown in the figure. Following the same pattern, how many tables do you need to set up a station with side 9? A) 10
->   
+> By placing rectangular tables side by side, all of dimensions 2 × 1, two conference rooms have been set up, creating square stations as the picture shows. Following the same pattern, how many tables are needed to set up a station of side 9?
+>
+> A) 10
 > B) 11
->   
-> C) 12 3 5 9 D) 14
->   
+> C) 12
+> D) 14
 > E) 16
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_junior_gara#q04|src_kangourou_2022_junior_gara__Q04]]
 
 
 
@@ -206,14 +231,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of y with (x+1)(y+1)=77 and x<y*
+*What is the value of y?*
 
-> The numbers x and y are nonnegative integers such that (x + 1)(y + 1) = 77 and x < y. How much is y? A) 6 B) 7
->   
-> C) 10 D) 11 E) The data are insufficient to answer.
+> The numbers x and y are non-negative integers such that (x + 1)(y + 1) = 77 and x < y. What is the value of y?
 >
+> A) 6
+> B) 7
+> C) 10
+> D) 11
+> E) The data are not enough to answer.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_junior_gara#q05|src_kangourou_2022_junior_gara__Q05]]
 
 
 
@@ -245,15 +278,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number with N<N/2, N>2N and N+N^2=0*
+*What number is it?*
 
-> A number is smaller than its half, larger than its double, and, if you add it to its square, the result is 0. What's the number? A) −2 B) −1 C) 0
->   
+> A number is smaller than its half, larger than its double and, if it is added to its square, the result is 0. What number is it?
+>
+> A) −2
+> B) −1
+> C) 0
 > D) 1
->   
-> E) 2 202,2 × 2,022
+> E) 2
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_junior_gara#q06|src_kangourou_2022_junior_gara__Q06]]
 
 
 
@@ -283,13 +322,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of the fraction 202,2x2,022/(20,22x2022)*
+*What is the value of the fraction?*
 
-> What is the value of the fraction ------------------------ ? 20,22 × 2022 A) 0,01 B) 0,1 C) 1
->   
-> D) 10 E) 100
+> What is the value of the fraction ------------------------ ?
+>
+> 20,22 × 2022
+>
+> A) 0,01
+> B) 0,1
+> C) 1
+> D) 10
+> E) 100
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_junior_gara#q07|src_kangourou_2022_junior_gara__Q07]]
 
 
 
@@ -328,21 +377,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Times chart after halving two subjects*
+*Which of these can be the diagram for this week?*
 
 ![[src_kangourou_2022_junior_gara__prob8.png]]
 
-> Nadia is studying four subjects. The diagram you see shows how much time Nadia spent last week studying each subject. This week Nadia has halved the time spent studying two of the subjects, while she has devoted the same time to the other two as last week. Which of these can be the chart for this week? A)
->   
+> Nadia studies four subjects. The diagram you see shows how much time Nadia spent last week studying each subject. This week Nadia halved the time spent studying two of the subjects, while to the other two she devoted the same time as last week. Which of these can be the diagram for this week?
+>
+> A)
 > B)
->   
 > C)
->   
 > D)
->   
 > E)
 
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_junior_gara#q08|src_kangourou_2022_junior_gara__Q08]]
 
 
 
@@ -378,19 +429,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many candidates can already rule out the election*
+*How many of these five candidates can already deduce that they will not be elected president?*
 
-> In an assembly, the president is elected from among five candidates. Each voter has only one vote available. When 90% of the votes were scrutinized the result was as follows: Ada got 14 votes, Bruno 11, Carla 10, Diana 8 and Enrico 2. How many of these five candidates can already deduce that they will not be elected president? A) 1
->   
+> At a meeting a vote is held to elect the president from among 5 candidates. Each voter has only one vote. When 90% of the votes have been counted the result is as follows: Ada has obtained 14 votes, Bruno 11, Carla 10, Diana 8 and Enrico 2. How many of these five candidates can already deduce that they will not be elected president?
+>
+> A) 1
 > B) 2
->   
 > C) 3
->   
 > D) 4
->   
 > E) 5
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_junior_gara#q09|src_kangourou_2022_junior_gara__Q09]]
 
 
 
@@ -428,19 +482,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The area of the square indicated by the question mark*
+*What is the area, in square metres, of the square marked with a question mark?*
 
 ![[src_kangourou_2022_junior_gara__prob10.png]]
 
-> The figure shows five squares, for three of which the area in square metres is indicated, and two rectangular triangles bounded by them. What is the area, in square metres, of the square indicated by the point in question? A) 14
->   
+> The picture shows five squares, for three of which the area in square metres is given, and two right-angled triangles bounded by them. What is the area, in square metres, of the square marked with a question mark?
+>
+> A) 14
 > B) 15
->   
-> C) 16 D) 17
->   
-> (E) 18 Questions from N. 11 al N. 20 is worth 4 points each.
+> C) 16
+> D) 17
+> E) 18
+>
+> Questions 11 to 20 are worth 4 points each.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_junior_gara#q10|src_kangourou_2022_junior_gara__Q10]]
 
 
 
@@ -520,55 +581,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of shaded region with large and small circles*
+*What is the area of the shaded region?*
 
 ![[src_kangourou_2022_junior_gara__prob11.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}
-% 3 big circles (radius 2) each containing 2 small circles (radius 1); all centers collinear
-% Small circles radius 1 at x=0,2,4,6,8,10; big circles radius 2 centered at x=1,5,9
-% Shaded: inside big circle, outside its two small circles
-\begin{scope}
-  \clip (1,0) circle (2);
-  \fill[gray!40] (1,0) circle (2);
-  \fill[white] (0,0) circle (1);
-  \fill[white] (2,0) circle (1);
-\end{scope}
-\begin{scope}
-  \clip (5,0) circle (2);
-  \fill[gray!40] (5,0) circle (2);
-  \fill[white] (4,0) circle (1);
-  \fill[white] (6,0) circle (1);
-\end{scope}
-\begin{scope}
-  \clip (9,0) circle (2);
-  \fill[gray!40] (9,0) circle (2);
-  \fill[white] (8,0) circle (1);
-  \fill[white] (10,0) circle (1);
-\end{scope}
-\draw (1,0) circle (2);
-\draw (5,0) circle (2);
-\draw (9,0) circle (2);
-\draw (0,0) circle (1);
-\draw (2,0) circle (1);
-\draw (4,0) circle (1);
-\draw (6,0) circle (1);
-\draw (8,0) circle (1);
-\draw (10,0) circle (1);
-\end{tikzpicture}
-\end{document}
-```
-
-> The figure shows three large circles and four small ones. Each large circle contains exactly two small circles; the centers of all the circles and all the tangent points between the circumferences that delimit them are aligned on the same straight line. The radius of each small circle measures 1. How much is the shaded area worth? A) π
->   
-> B) 2π
->   
-> C) 3π D) 4π E) 6π 22 3 8 ?
+> The picture shows three large circles and four small ones. Each large circle contains exactly two small circles; the centres of all the circles and all the points of tangency of the circles that bound them lie on one and the same straight line. The radius of each small circle measures 1. What is the area of the shaded region?
 >
+> A) π
+> B) 2π
+> C) 3π
+> D) 4π
+> E) 6π
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_junior_gara#q11|src_kangourou_2022_junior_gara__Q11]]
 
 
 
@@ -606,19 +635,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of paths of the ant from X to Y between hexagons*
+*How many possible paths are there?*
 
 ![[src_kangourou_2022_junior_gara__prob12.png]]
 
-> Look at the figure. An ant leaves the hexagon indicated by X to reach the hexagon indicated by Y. On the route he must visit X and every other hexagon only once and can leave a hexagon only to move to an adjacent one (i.e. one side in common with it). How many routes are there? A) 2
->   
+> Look at the picture. An ant sets off from the hexagon marked X to reach the one marked Y. On the way it must visit once, and only once, every other hexagon, and it may leave a hexagon only to move into an adjacent one (that is, one that has a side in common with it). How many possible paths are there?
+>
+> A) 2
 > B) 3
->   
-> C) 4 D) 5
->   
+> C) 4
+> D) 5
 > E) 6
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_junior_gara#q12|src_kangourou_2022_junior_gara__Q12]]
 
 
 
@@ -651,13 +685,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number which cannot be the sum of the maximum ages*
+*Which of the following numbers certainly cannot be the result?*
 
-> In a group of six people each knows, in addition to their own, the age of each of the others and the six ages are consecutive numbers. If you ask each of them the age of the oldest of the others and add the answers, which of the following numbers can certainly not be the result? A) 95
->   
-> B) 125 C) 167 D) 205 E) 233
+> In a group of six people each knows, besides their own, the age of each of the others, and the six ages are consecutive numbers. If each of them is asked the age of the oldest of the others and the answers obtained are added, which of the following numbers certainly cannot be the result?
+>
+> A) 95
+> B) 125
+> C) 167
+> D) 205
+> E) 233
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_junior_gara#q13|src_kangourou_2022_junior_gara__Q13]]
 
 
 
@@ -689,13 +732,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Objects remaining after subsequent disposal in 2022*
+*How many objects were left at the end?*
 
-> 2022 objects were aligned along a line. It started with eliminating every sixth object (thus the sixth, the twelfth and so on), then eliminated every fifth object of the remaining ones and finally eliminated every fourth object of the remaining ones. How many items are left at the end? A) 0
->   
-> B) 337 C) 674 D) 1011 E) 1348
+> Along a straight line 2022 objects were lined up. One began by eliminating every sixth object (so the sixth, the twelfth, and so on), then every fifth object of those that remained was eliminated, and finally every fourth object of those still remaining was eliminated. How many objects were left at the end?
+>
+> A) 0
+> B) 337
+> C) 674
+> D) 1011
+> E) 1348
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_junior_gara#q14|src_kangourou_2022_junior_gara__Q14]]
 
 
 
@@ -729,15 +780,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grandmother's age with wrong estimates of 1.2,4*
+*What is the grandmother's age?*
 
-> Three grandchildren tried to guess their grandmother's age: one said 75 years, another 78 and the third 81. One of the answers is wrong by 1 year, another by 2 and the remaining by 4 (not necessarily in the order in which they were listed). How old is Grandma? A) 76
->   
+> Three grandchildren tried to guess their grandmother's age: one said 75 years, another 78 and the third 81. One of the answers is wrong by 1 year, another by 2 and the remaining one by 4 (not necessarily in the order in which they were listed). What is the grandmother's age?
+>
+> A) 76
 > B) 77
->   
-> C) 79 D) 80 E) The information is insufficient to answer.
+> C) 79
+> D) 80
+> E) The information is not enough to answer.
 
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_junior_gara#q15|src_kangourou_2022_junior_gara__Q15]]
 
 
 
@@ -770,13 +828,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio AD/DC of the rectangle in 12 rectangles*
+*What is the ratio of the length of side AD to that of side DC?*
 
 ![[src_kangourou_2022_junior_gara__prob16.png]]
 
-> The figure shows a rectangle divided into 12 rectangles all of the same size. What 's the relationship between the length of the AD side and that of the DC side ? A) 8/9 B) 5/6 C) 7/8 D) 2/3 E) 9/8
+> The picture shows a rectangle divided into 12 rectangles, all of the same dimensions. What is the ratio of the length of side AD to that of side DC?
+>
+> A) 8/9
+> B) 5/6
+> C) 7/8
+> D) 2/3
+> E) 9/8
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_junior_gara#q16|src_kangourou_2022_junior_gara__Q16]]
 
 
 
@@ -810,22 +879,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Seconds of delay of the runner compared to the cyclist*
+*With how many seconds' delay relative to the cyclist will the runner have reached the starting point?*
 
-> A cyclist and a runner move on a circular circuit 550 metres long with
-> constant speeds of 10 m/s for the cyclist, of 1 m/s for the runner. They start in opposite directions from
-> the same point of the circuit: when they meet, the cyclist continues his ride,
-> while the runner immediately turns around and starts chasing the cyclist. With how many
-> seconds of delay compared to the cyclist will the runner have reached the starting point?
-> A) 45     
-> B) 50     
-> C) 55     
-> D) 100    
-> E) 505  
-> Y
+> A cyclist and a runner move on a circular circuit 550 metres long, at constant speeds of 10 m/s for the cyclist and 1 m/s for the runner. They set off in opposite directions from the same point of the circuit: when they meet, the cyclist continues his ride, while the runner immediately turns round and sets off in pursuit of the cyclist. With how many seconds' delay relative to the cyclist will the runner have reached the starting point?
 >
+> A) 45
+> B) 50
+> C) 55
+> D) 100
+> E) 505
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_junior_gara#q17|src_kangourou_2022_junior_gara__Q17]]
 
 
 
@@ -857,13 +925,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length of SV with three regions of equal area*
+*How long is the segment SV?*
 
 ![[src_kangourou_2022_junior_gara__prob18.png]]
 
-> The figure shows a PQRS square of side 1; its center is W, while U is the midpoint of side RS. The TW, UW and VW segments divide it into three regions with the same area. How long is the SV segment? A) 1/2       B) 2/3 C) 3/4              D) 4/5 E) 5/6
+> The picture shows a square PQRS of side 1; its centre is W, while U is the midpoint of the side RS. The segments TW, UW and VW divide it into three regions that have the same area. How long is the segment SV?
+>
+> A) 1/2
+> B) 2/3
+> C) 3/4
+> D) 4/5
+> E) 5/6
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_junior_gara#q18|src_kangourou_2022_junior_gara__Q18]]
 
 
 
@@ -904,21 +983,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum number of trees to balance the three paths*
+*What is the least number of trees, suitably planted, after which each of the three paths would have the same number of trees on both of its sides?*
 
 ![[src_kangourou_2022_junior_gara__prob19.png]]
 
-> The picture is a map of a small park; the three lines connecting each of the two opposite sides of the square represent three paths. A tree has already been planted in the middle of the park. What is the minimum number of trees, planted appropriately, each of the three paths would have the same number of trees on both of its sides? Of course, trees must be planted off the trails. A) 1
->   
+> The picture is the map of a small park; the three lines, each connecting two opposite sides of the square, stand for as many paths. A tree is already planted at the centre of the park. What is the least number of trees, suitably planted, after which each of the three paths would have the same number of trees on both of its sides? Of course the trees must be planted off the paths.
+>
+> A) 1
 > B) 2
->   
 > C) 3
->   
 > D) 4
->   
 > E) 5
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_junior_gara#q19|src_kangourou_2022_junior_gara__Q19]]
 
 
 
@@ -956,25 +1038,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*In how many orders can five rings be removed*
+*In how many different orders can it be done?*
 
 ![[src_kangourou_2022_junior_gara__prob20.png]]
 
-> The figure shows a hand: on three fingers there are some 
-> rings, five in total. Wanting to remove all the rings, in how many different 
-> orders is  
-> it possible to do so? (Naturally no ring can "climb over" 
-> another.) 
-> A) 16  
->   
-> B) 20  
->   
-> C) 24    
-> D) 30    
-> E) 45  
-> Questions from No. 21 to No. 30 are worth 5 points each
+> The picture shows a hand: on three fingers there are some rings, five in all. Wanting to take off all the rings, in how many different orders can it be done? (Of course no ring can jump over another.)
+>
+> A) 16
+> B) 20
+> C) 24
+> D) 30
+> E) 45
+>
+> Questions 21 to 30 are worth 5 points each.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_junior_gara#q20|src_kangourou_2022_junior_gara__Q20]]
 
 
 
@@ -1010,19 +1093,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the square R inscribed in the triangle (P=45)*
+*What is the area of the square R?*
 
 ![[src_kangourou_2022_junior_gara__prob21.png]]
 
-> The figure shows two congruent isosceles right triangles, each of which is inscribed with a square. The area of the square P is 45. What is the area of the square R ? A) 35
->   
+> The picture shows two congruent isosceles right-angled triangles, in each of which a square is inscribed. The area of the square P is 45. What is the area of the square R?
+>
+> A) 35
 > B) 40
->   
-> C) 45 D) 50
->   
+> C) 45
+> D) 50
 > E) 60
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_junior_gara#q21|src_kangourou_2022_junior_gara__Q21]]
 
 
 
@@ -1057,15 +1144,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum points for the eight-team tournament winner*
+*How many points can it have obtained, at most?*
 
-> Eight teams participated in a football tournament. Each played each other once and only once, scoring 3 points in a win, 1 point in a draw, 0 points in a loss. The sum of the points scored by the individual teams is 61. A team has won the tournament: how many points can it have scored, at most? A) 21
->   
+> Eight teams took part in a football tournament. Each played against each of the others once and only once, obtaining 3 points for a win, 1 point for a draw and 0 points for a defeat. The sum of the points obtained by the individual teams is 61. One team won the tournament: how many points can it have obtained, at most?
+>
+> A) 21
 > B) 19
->   
-> C) 18 D) 17 E) 16
+> C) 18
+> D) 17
+> E) 16
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_doppio_conteggio|Double counting]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_junior_gara#q22|src_kangourou_2022_junior_gara__Q22]]
 
 
 
@@ -1104,26 +1198,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many pirates were there given the loot*
+*How many pirates were there?*
 
-> Some pirates divided up a loot of 200 gold coins and 600 silver coins. Each leader got 5 gold coins and 10 silver, each sailor 3
->  
-> 1 
->  
-> P
-> R
-> 
-> gold coins and 8 silver, each cabin boy 1 gold coin and 6 silver. How many were the
-> pirates? 
-> A) 50  
->   
-> B) 60  
->   
-> C) 72    
-> D) 80    
+> Some pirates shared out a booty of 200 gold coins and 600 silver coins. Each petty officer got 5 gold coins and 10 silver ones, each sailor 3 gold coins and 8 silver ones, each cabin boy 1 gold coin and 6 silver ones. How many pirates were there?
+>
+> A) 50
+> B) 60
+> C) 72
+> D) 80
 > E) 90
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_junior_gara#q23|src_kangourou_2022_junior_gara__Q23]]
 
 
 
@@ -1162,17 +1251,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Possible distribution of symbols on the cube 2x2x2*
+*Which of the following distributions of the three symbols is possible for a cube that keeps to these rules?*
 
 ![[src_kangourou_2022_junior_gara__prob24.png]]
 
-> The four squares that make up each face of a cube 2 × 2 × 2 must each contain one and only one of the following symbols: a square, a circle, an X. Two squares that have one side in common (even if they lie on an edge) must host different symbols. The figure shows the three visible faces of a cube that obeys these rules. Which of the following three symbol distributions is possible for a cube that complies with these rules? A) 6 circles, 8 squares, 10 X.
->   
-> B) 7 circles, 8 squares, 9 X. C) 5 circles, 8 squares, 11 X.
->   
-> D) 7 circles, 7 squares, 10 X. E) None of them.
+> The four squares that make up each face of a 2 × 2 × 2 cube must each hold one and only one of the following symbols: a square, a circle, an X. Two squares that have a side in common (even if it lies on an edge) must hold different symbols. The picture shows the three visible faces of a cube that keeps to these rules. Which of the following distributions of the three symbols is possible for a cube that keeps to these rules?
+>
+> A) 6 circles, 8 squares, 10 Xs.
+> B) 7 circles, 8 squares, 9 Xs.
+> C) 5 circles, 8 squares 11 Xs.
+> D) 7 circles, 7 squares, 10 Xs.
+> E) None.
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_colorazione|Colouring / parity]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_junior_gara#q24|src_kangourou_2022_junior_gara__Q24]]
 
 
 
@@ -1205,13 +1301,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*What can be deduced from Bruna's question (positive/negative set)*
+*What can I deduce from it?*
 
-> The members of a strange sect are of two types: the positive, who ask only questions to which the correct answer is Yes and the negative, who ask only questions to which the correct answer is No. I met with Alberto and Bruna. Bruna asked me: "Are Alberto and I both negative?" What can I deduce?
->  
-> A) Alberto and Bruna are both positive. B) Alberto and Bruna are both negative. C) Alberto is positive, Bruna is negative. D) Alberto is negative, Bruna is positive. E) I cannot draw any of the above conclusions.
+> The members of a strange sect are of two kinds: the "positives", who ask only questions to which the correct answer is "Yes", and the "negatives", who ask only questions to which the correct answer is "No". I met Alberto and Bruna. Bruna asked me: "Are Alberto and I both negative?" What can I deduce from it?
+>
+> A) Alberto and Bruna are both positive.
+> B) Alberto and Bruna are both negative.
+> C) Alberto is positive, Bruna is negative.
+> D) Alberto is negative, Bruna is positive.
+> E) I cannot draw any of the previous conclusions.
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_junior_gara#q25|src_kangourou_2022_junior_gara__Q25]]
 
 
 
@@ -1246,22 +1351,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Weight in the same group as the 9-hectogram weight*
+*Which of the following weights was in the same group as the 9-hectogram weight?*
 
-> More than a century ago a grocer weighed goods using a two-pan balance 
-> and 12 weights: the lightest weight of 1 hectogram and the others each weighing one hectogram more 
-> than the previous one. The grocer had divided the weights into three groups of four weights 
-> each: the total weight of those in one of the three groups was 41 hectograms, that of the 
-> weights in another group 26 hectograms. Which of the following weights was in the same group as the 
-> 9-hectogram weight? 
-> A) 3 hg   
-> B) 5 hg   
-> C) 7 hg   
-> D) 8 hg   
-> E) 10 hg  
+> More than a century ago a grocer weighed goods using a two-pan balance and 12 weights: the lightest weight of 1 hectogram and the others each one hectogram heavier than the previous one. The grocer had divided the weights into three groups of four weights each: the total weight of those in one of the three groups was 41 hectograms, and that of the weights in another group 26 hectograms. Which of the following weights was in the same group as the 9-hectogram weight?
 >
+> A) 3 hg
+> B) 5 hg
+> C) 7 hg
+> D) 8 hg
+> E) 10 hg
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_junior_gara#q26|src_kangourou_2022_junior_gara__Q26]]
 
 
 
@@ -1296,15 +1401,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the FPD triangle by two squares*
+*How many square centimetres is the area of the triangle FPD?*
 
 ![[src_kangourou_2022_junior_gara__prob27.png]]
 
-> Look at the figure. ABCD and EFGB are two squares whose diagonal lengths are 7 and 10 cm respectively; the point P is the center of the square ABCD. How many square centimetres does the area of the FPD triangle measure ? A) 14,5 B) 15
->   
-> C) 15,75 D) 16,5 E) 17,5 F
+> Look at the picture. ABCD and EFGB are two squares whose diagonals are 7 and 10 cm long respectively; the point P is the centre of the square ABCD. How many square centimetres is the area of the triangle FPD?
+>
+> A) 14,5
+> B) 15
+> C) 15,75
+> D) 16,5
+> E) 17,5
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_junior_gara#q27|src_kangourou_2022_junior_gara__Q27]]
 
 
 
@@ -1338,19 +1452,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number is not a product of the digits of N+1*
+*Which of the following numbers is certainly not the product of the digits of N + 1?*
 
-> The product of the digits of a positive integer N is 20. Which of the following numbers is certainly not the product of the digits of N + 1? A) 40
->  
+> The product of the digits of a positive integer N is 20. Which of the following numbers is certainly not the product of the digits of N + 1?
+>
+> A) 40
 > B) 30
->  
 > C) 25
->   
 > D) 35
->  
 > E) 24
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_junior_gara#q28|src_kangourou_2022_junior_gara__Q28]]
 
 
 
@@ -1378,13 +1495,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Center of the radius circle between five tangents*
+*The question is cut off in the source.*
 
 ![[src_kangourou_2022_junior_gara__prob29.png]]
 
-> The figure shows five circles of centers A, B, C, D, E, each externally tangent to the two adjacent circles, and the convex pentagon whose vertices are the centers of the circles. The lengths of the sides of the pentagon are as follows: AB = 16, BC = 14, CD = 17, DE = 13, AE = 14 (the figure is indicative only, not to scale). What?
+> The picture shows 5 circles with centres A, B, C, D, E, each externally tangent to the two next to it, and the convex pentagon whose vertices are the centres of the circles. The lengths of the sides of the pentagon are as follows: AB = 16, BC = 14, CD = 17, DE = 13, AE = 14 (the picture is only indicative, not to scale). What
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_junior_gara#q29|src_kangourou_2022_junior_gara__Q29]]
 
 
 
@@ -1480,28 +1601,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum diameter of the six hemispheres in the cube*
+*What is the diameter of the hemispheres?*
 
 ![[src_kangourou_2022_junior_gara__prob30.png]]
 
-> The figure shows a cube in which six hemispheres of the same diameter have been excavated, each centered in the center of a face. The diameter of the hemispheres is the maximum that allows the interior of the six hemispheres to be two to two disjoint. If the side of the cube is 2, how much is the diameter of the hemispheres?
->  
+> The picture shows a cube in which six hemispheres have been hollowed out, all of the same diameter, each centred at the centre of a face. The diameter of the hemispheres is the greatest that lets the interiors of the six hemispheres be pairwise disjoint. If the side of the cube measures 2, what is the diameter of the hemispheres?
+>
 > A) 1
->   
 > B) 2
->   
-> C) √2 D) 3/2 E) √3/2
->  
-> 0 1 1 1 2 1 3 1 4 1 5 1 6 1 7 1 8 1 9 2 0 2 1 2 2 2 3 2 4 2 5 2 6 2 7 2 8 2 9 3 0 X A B E E B A C B D B D D D E A A E C B B D D E C C E D A C
->  
-> is the center of the circle with greater radius? A) A
->   
-> B) B
->   
-> C) C
->  
-> D) D
->  
-> E) E A B C D P G
+> C) √2
+> D) 3/2
+> E) √3/2
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_junior_gara#q30|src_kangourou_2022_junior_gara__Q30]]

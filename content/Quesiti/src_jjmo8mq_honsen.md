@@ -29,9 +29,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*N-gon equangolare con angoli 120 o 240 e lati uguali*
+*Poligono equiangolare a n lati con angoli di 120 o 240 gradi e lati uguali*
 
-> $n$ sia un numero intero con $n \ge 3$. Trova tutti $n$ in modo tale che esista un $n$-gon in cui ogni angolo interno sia $120^\circ$ o $240^\circ$ e tutti i cui lati hanno la stessa lunghezza.
+> Sia $n$ un numero intero tale che $n \ge 3$. Determinare tutti gli $n$ per cui esiste un $n$-gono in cui ogni angolo interno è oppure $120^\circ$ oppure $240^\circ$ e tutti i lati hanno la stessa lunghezza.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo8mq_honsen#q01|src_jjmo8mq_honsen__Q01]]
 
 
 
@@ -56,11 +63,18 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La k più piccola così truncando un quadrato perfetto mantiene quadrati*
+*Il più grande k: quindi, troncando un quadrato perfetto, si mantengono i quadrati*
 
-> Trova il più grande intero non negativo $k$ per il quale esiste un intero positivo $n$ che soddisfa la seguente condizione.
-> 
-> Condizione: $n$ è un quadrato perfetto con almeno $k+1$ cifre, e per ogni intero positivo $i$ con $i \le k$, il numero ottenuto da $n$ eliminando le sue ultime cifre $i$ è anche un quadrato perfetto.
+> Trovare il più grande intero non negativo $k$ per il quale esiste un intero positivo $n$ che soddisfa la seguente condizione.
+>
+> Condizione: $n$ è un quadrato perfetto con almeno $k+1$ cifre, e per ogni intero positivo $i$ con $i \le k$, il numero ottenuto da $n$ cancellando le sue ultime $i$ cifre è anch'esso un quadrato perfetto.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo8mq_honsen#q02|src_jjmo8mq_honsen__Q02]]
 
 
 
@@ -83,9 +97,16 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-5 segmenti: 9 triples acuti costringono il decimo a essere un triangolo
+*Cinque segmenti: 9 triple acute costringono il decimo a essere un triangolo*
 
-> Ci sono segmenti di linea $5$. Ci sono $10$ modi per scegliere $3$ di essi, e in $9$ di questi modi i segmenti scelti $3$ possono essere utilizzati come lati di un triangolo acuto. Mostrare che, per il rimanente modo $1$, i segmenti $3$ scelti possono essere utilizzati anche come lati di un triangolo.
+> Ci sono $5$ segmenti di retta. Ci sono $10$ modi per scegliere $3$ di essi, e in $9$ di questi modi i $3$ segmenti scelti possono essere utilizzati come lati di un triangolo acutangolo. Dimostrare che, per il restante $1$ modo, i $3$ segmenti scelti possono essere utilizzati anche come lati di un triangolo.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo8mq_honsen#q03|src_jjmo8mq_honsen__Q03]]
 
 
 
@@ -110,11 +131,18 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conciclicità di A, incentro I e due punti di cerchio P, Q*
+*Conciclicità di A, del centroide I e dei due punti del cerchio P, Q*
 
-> Considerate un triangolo $ABC$. Un cerchio $O$ che attraversa i punti $B$ e $C$ incontra i segmenti $AB$ e $AC$ (esclusi i loro punti terminali) rispettivamente ai punti $D$ e $E$, e $AD + AE = BC$ si ferma. Il punto $I$ deve essere l'incentro del triangolo $ABC$ e le linee $BI$ e $CI$ devono incontrare rispettivamente il cerchio $O$ nei punti $P$ e $Q$ (diversi da $B$ e $C$). Indicare che $A$, $I$, $P$, $Q$ si trovano su un singolo cerchio.
-> 
-> Qui $XY$ indica la lunghezza del segmento $XY$.
+> Si consideri un triangolo $ABC$. Una circonferenza $O$ che passa per i punti $B$ e $C$ interseca i segmenti $AB$ e $AC$ (escludendo gli estremi) nei punti $D$ e $E$ rispettivamente, e vale $AD + AE = BC$. Sia $I$ l'incentro del triangolo $ABC$, e siano le rette $BI$ e $CI$ a intersecare la circonferenza $O$ nei punti $P$ e $Q$ (diversi da $B$ e $C$) rispettivamente. Dimostrare che $A$, $I$, $P$, $Q$ giacciono su una stessa circonferenza.
+>
+> Qui, $XY$ denota la lunghezza del segmento $XY$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo8mq_honsen#q04|src_jjmo8mq_honsen__Q04]]
 
 
 
@@ -143,12 +171,19 @@ level: JJMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disegnare 2 segmenti bianchi e neri che formano un giro con poche traversate*
+*Disegna 2n segmenti bianchi-neri che formano un unico percorso con pochi incroci*
 
-> $n$ sia un numero intero con $n \ge 2$. Su un cerchio ci sono punti bianchi $n$ e punti neri $n$, punti $2n$ in totale. Per questi punti, considerare il disegno di segmenti $2n$ in modo da soddisfare le seguenti condizioni.
-> 
-> (1) Ogni segmento ha un punto bianco e un punto nero come punti di fine.
-> 
-> (2) Seguendo questi segmenti in ordine, si può attraversare ogni punto esattamente una volta e fare un ciclo completo (cioè i segmenti formano un singolo ciclo chiuso attraverso tutti i punti).
-> 
-> Mostrare che, per qualsiasi disposizione dei punti, i segmenti possono essere disegnati in modo tale che il numero di intersezioni tra i segmenti sia massimo $n-1$. Qui, un punto di fine di un segmento non è considerato un incrocio.
+> Sia $n$ un numero intero tale che $n \ge 2$. Su una circonferenza ci sono $n$ punti bianchi e $n$ punti neri, per un totale di $2n$ punti. Per questi punti, si consideri il tracciamento di $2n$ segmenti in modo da soddisfare le seguenti condizioni.
+>
+> (1) Ogni segmento ha come estremi un punto bianco e un punto nero.
+>
+> (2) Seguendo questi segmenti in ordine, si può passare per ogni punto esattamente una volta e compiere un giro completo (cioè i segmenti formano un unico ciclo chiuso che passa per tutti i punti).
+>
+> Dimostrare che, per qualsiasi disposizione dei punti, è possibile tracciare i segmenti in modo che il numero di intersezioni tra i segmenti sia al più $n-1$. Qui, un estremo di un segmento non è considerato un'intersezione.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_jjmo8mq_honsen#q05|src_jjmo8mq_honsen__Q05]]

@@ -36,9 +36,9 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare prezzi individuali*
+*Il commerciante vende due auto; il costo totale d'acquisto è R\$27000, gain R\$750; determina i prezzi individuali*
 
-> Un commerciante acquista due auto per un totale di R$\$27{,}000.00$. He sold the first one at a discount of $10\%$ and the second one at a markup of $5\%$. The overall gain was R$\$750.00$. I prezzi di acquisto delle due vetture erano rispettivamente:
+> Un commerciante acquista due auto per un totale di R$\$27{,}000.00$. He sold the first one at a discount of $10\%$ and the second one at a markup of $5\%$. The overall gain was R$\$750.00$. I prezzi d'acquisto delle due auto erano rispettivamente:
 >
 > - **(A)** R$\$18{,}000.00$ and R$\$12{,}000.00$
 > - **(B)** R$\$13{,}000.00$ and R$\$14{,}000.00$
@@ -46,7 +46,12 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 > - **(D)** R$\$15{,}000.00$ and R$\$12{,}000.00$
 > - **(E)** R$\$18{,}000.00$ and R$\$9{,}000.00$
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n2_f1#q01|src_obm_2002_n2_f1__Q01]]
 
 
 
@@ -78,19 +83,24 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Bolla da biliardo su 5 ×7 tavola colpita a 45°; contare i colpi laterali prima della tasca angolare*
+*Palla da biliardo su un tavolo 5×7, colpita a 45°; conta i colpi laterali prima della buca d'angolo*
 
-> Se dovessi giocare a biliardo su un tavolo rettangolare il cui rapporto larghezza-lunghezza è $5:7$, e spari una palla da un angolo a $45^\circ$ ai lati, quante volte la palla colpisce i lati prima di cadere in una tasca in un angolo?
+> Se giocassi a biliardo su un tavolo rettangolare il cui rapporto tra larghezza e lunghezza è $5:7$, e colpissi una bilia da un angolo con un angolo di incidenza rispetto ai lati pari a $45^\circ$, quante volte la bilia urterebbe i lati prima di cadere in una buca situata in un angolo?
 >
-> - **(A)** $10$ volte
-> - **(B)** $12$ volte
-> - **(C)** $14$ volte
-> - **(D)** $16$ volte
-> - **(E)** $15$ volte
+> - **(A)** volte $10$
+> - **(B)** volte $12$
+> - **(C)** volte $14$
+> - **(D)** volte $16$
+> - **(E)** volte $15$
 
 ![[src_obm_2002_n2_f1__q02.png]]
 
-**Risposta:** A
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2002_n2_f1#q02|src_obm_2002_n2_f1__Q02]]
 
 
 
@@ -119,9 +129,9 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 <div class="qlang-split" data-lang="it"></div>
 
 
-*TV "con 20 poligoni": 20 lungo la diagonale; contare lungo la diagonale per TV a 60 poligoni*
+*Per TV "con 20 poligoni" si intende 20 lungo la diagonale; per la TV a 60 poligoni, contare lungo la diagonale*
 
-> Dire che un televisore "ha 20 poligoni" significa che $20$ piccole piastrelle poligonali si adattano lungo la diagonale dello schermo. Quanti poligoni si adattano lungo la diagonale di un televisore che 'ha 60 poligoni', se ogni piastrella ha la stessa dimensione?
+> Dire che un televisore "ha 20 poligoni" significa che $20$ piccoli tasselli poligonali si dispongono lungo la diagonale dello schermo. Quanti poligoni si dispongono lungo la diagonale di un televisore che "ha 60 poligoni", se ogni tassello ha le stesse dimensioni?
 >
 > - **(A)** $9$
 > - **(B)** $10$
@@ -129,7 +139,11 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 > - **(D)** $20$
 > - **(E)** $30$
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n2_f1#q03|src_obm_2002_n2_f1__Q03]]
 
 
 
@@ -159,9 +173,9 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Diluire due volte il latte di 2000 l con acqua; trovare V in modo che il latte sia uguale al volume dell'acqua*
+*Diluisci due volte 2000 L di latte con acqua; determina V in modo che il volume del latte sia uguale a quello dell'acqua*
 
-> Una fabbrica acquista $2000$ litri di latte puro e poi rimuove un volume $V$ di latte. Il contenitore viene quindi riempito di $2000$ litri di acqua, viene rimosso lo stesso volume $V$ della miscela e viene riempito di nuovo di $2000$ litri di acqua. Nella miscela finale, il volume del latte è uguale al volume dell'acqua. Il volume $V$ (in litri) è:
+> Una fabbrica acquista $2000$ litri di latte puro e poi rimuove un volume $V$ di latte. Successivamente riempie di nuovo il contenitore fino a $2000$ litri con acqua, rimuove lo stesso volume $V$ della miscela e riempie di nuovo fino a $2000$ litri con acqua. Nella miscela finale, il volume di latte è uguale al volume di acqua. Il volume $V$ (in litri) è:
 >
 > - **(A)** $500$ litri
 > - **(B)** $600$ litri
@@ -169,7 +183,12 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 > - **(D)** $800$ litri
 > - **(E)** $875$ litri
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n2_f1#q04|src_obm_2002_n2_f1__Q04]]
 
 
 
@@ -198,17 +217,21 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Pedro e João gara; 2 João passi = 3 Pedro passi; João ha un vantaggio di 60 passi; quanti passi per Pedro per raggiungere*
+*Pedro e João fanno una gara; 2 passi di João corrispondono a 3 passi di Pedro; João parte con 60 passi di vantaggio; quanti passi deve fare Pedro per raggiungerlo?*
 
-> Due fratelli, Pedro e João, decisero di giocare a una gara. Poiché Pedro è più vecchio, ogni passo $2$ di João copre la stessa distanza di quello di Pedro. Per iniziare la gara, a João viene dato un vantaggio di $60$-passaggio prima che inizi Pedro. Dopo quante tappe Pedro raggiunge João?
+> Due fratelli, Pedro e João, hanno deciso di giocare a una gara. Poiché Pedro è più grande, ogni $2$ passi di João coprono la stessa distanza di $3$ passi di Pedro. Per iniziare la gara, a João viene concesso un vantaggio di $60$ passi prima che Pedro parta. Dopo quanti passi Pedro raggiunge João?
 >
-> - **(A)** passi $90$
-> - **(B)** passi $120$
-> - **(C)** passi $150$
-> - **(D)** passi $180$
-> - **(E)** passi $200$
+> - **(A)** $90$ passi
+> - **(B)** $120$ passi
+> - **(C)** $150$ passi
+> - **(D)** $180$ passi
+> - **(E)** $200$ passi
 
-**Risposta:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n2_f1#q05|src_obm_2002_n2_f1__Q05]]
 
 
 
@@ -238,17 +261,22 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La differenza dei quadrati di due numeri interi consecutivi è sempre pari alla loro somma*
+*La differenza dei quadrati di due interi consecutivi è sempre uguale alla loro somma*
 
-> La differenza tra i quadrati di due numeri interi positivi consecutivi è sempre:
+> La differenza tra i quadrati di due interi positivi consecutivi è sempre:
 >
 > - **(A)** un numero primo.
-> - **(B)** un multiple di $4$.
-> - **(C)** pari alla somma di questi due numeri.
+> - **(B)** è un multiplo di $4$.
+> - **(C)** uguale alla somma di quei due numeri.
 > - **(D)** un numero pari.
 > - **(E)** un quadrato perfetto.
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2002_n2_f1#q06|src_obm_2002_n2_f1__Q06]]
 
 
 
@@ -277,9 +305,9 @@ Il commerciante vende due auto; acquisto totale R\$27000, gain R\$750; trovare p
 <div class="qlang-split" data-lang="it"></div>
 
 
-Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
+*Marcelo va a scuola a piedi; quale frazione del percorso è stata compiuta quando scorge la rivista?*
 
-> Marcelo ci vuole esattamente $20$ minuti a piedi da casa sua alla scuola. Un giorno, mentre camminava, notò la rivista Eureka! Se continuava a camminare arrivava a scuola $8$ minuti dopo l'ora di partenza e se tornava a prendere la rivista allo stesso ritmo, arrivava a scuola $10$ minuti in ritardo. Quale frazione del sentiero aveva percorso Marcelo in quel momento?
+> Marcelo impiega esattamente $20$ minuti per andare a piedi da casa a scuola. Un giorno, mentre camminava, si accorse che la rivista Eureka! era stata consegnata a casa sua; se avesse continuato a camminare, sarebbe arrivato a scuola $8$ minuti più tardi dell'orario in cui di solito parte, e se fosse tornato indietro per prendere la rivista mantenendo la stessa andatura, sarebbe arrivato a scuola con $10$ minuti di ritardo. Che frazione del percorso aveva percorso Marcelo in quel momento?
 >
 > - **(A)** $\dfrac{2}{5}$
 > - **(B)** $\dfrac{9}{20}$
@@ -287,7 +315,11 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 > - **(D)** $\dfrac{2}{3}$
 > - **(E)** $\dfrac{9}{10}$
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n2_f1#q07|src_obm_2002_n2_f1__Q07]]
 
 
 
@@ -319,9 +351,9 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scrivere 19 in 3×3 griglia in modo che le somme dei bracci della elica a quattro numeri siano uguali e massime*
+*Scrivi i numeri da 1 a 9 in una griglia 3×3 in modo che le somme delle quattro cifre di ciascun braccio dell'elica siano uguali e massimali*
 
-> Scrivere i numeri interi da $1$ a $9$ in una griglia $3 \times 3$ in modo che la somma dei quattro numeri lungo ogni braccio della "propeller" (come illustrato) sia uguale e il più grande possibile. Qual è la somma massima pari?
+> Scrivi gli interi da $1$ a $9$ in una griglia $3 \times 3$ in modo che le somme dei quattro numeri lungo ciascun braccio dell'"elica" (come illustrato) siano uguali e il più grandi possibile. Qual è questa somma uguale massima?
 >
 > - **(A)** $23$
 > - **(B)** $22$
@@ -331,7 +363,12 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 
 ![[src_obm_2002_n2_f1__q08.png]]
 
-**Risposta:** B
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n2_f1#q08|src_obm_2002_n2_f1__Q08]]
 
 
 
@@ -360,17 +397,21 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Patrícia guida São PauloRio; calcola i risparmi per persona contro il biglietto aereo*
+*Patrícia guida da San Paolo a Rio; calcola il risparmio pro capite rispetto al biglietto aereo*
 
-> Patrícia vive a São Paulo e vuole visitare Rio de Janeiro durante un lungo fine settimana di vacanza. Un biglietto aereo di andata e ritorno costa R$\$580.00$, but Patrícia prefers to travel by car, which gets on average $12$ km per litre of fuel. The fuel price is R$\$1.60$ per litro, e Patrícia stima R$\$48,00$ in road tolls for the round trip (São Paulo–Rio is approximately $450$ per chilometro in una direzione). Ha intenzione di dividere tutte le spese ugualmente con due amici. Prendendo la sua auto invece dell'aereo, ognuno di noi:
+> Patrícia vive a San Paolo e vuole visitare Rio de Janeiro durante un lungo ponte. Un biglietto aereo di andata e ritorno costa R$\$580.00$, but Patrícia prefers to travel by car, which gets on average $12$ km per litre of fuel. The fuel price is R$\$1.60$ al litro, e Patrícia stima R$\$48.00$ in road tolls for the round trip (São Paulo–Rio is approximately $450$ km per tratta). Intende dividere tutte le spese in parti uguali con due amici. Usando la propria auto invece dell'aereo, ciascuna persona:
 >
-> - **(A)** risparmiare R$\$ 20,00$.
-> - **(B)** Spendere R$\$ 2,00$ in più.
-> - **(C)** risparmiare R$\$ 24,00$.
-> - **(D)** spendere lo stesso che l'opzione dell'autobus.
-> - **(E)** risparmiare R$\$ 14,00$.
+> - **(A)** salva R$\$20.00$.
+> - **(B)** spende R$\$2.00$ in più.
+> - **(C)** salva R$\$24.00$.
+> - **(D)** spende quanto l'opzione dell'autobus.
+> - **(E)** salva R$\$14.00$.
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n2_f1#q09|src_obm_2002_n2_f1__Q09]]
 
 
 
@@ -402,9 +443,9 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato diviso in 4 trapezi congruenti riorganizzati in quadrato con buco centrale; frazione di superficie rimossa*
+*Quadrato suddiviso in 4 trapezi congruenti, riorganizzati in un quadrato con un foro centrale; frazione dell'area rimossa*
 
-> Attraverso il disegno di linee, un quadrato può essere diviso in trapezoi congruenti $4$, come mostrato a sinistra. Questi trapezi $4$ sono riorganizzati per formare un quadrato con un buco quadrato al centro, come mostrato a destra. Quale frazione della superficie del quadrato originale è la superficie del buco?
+> Tracciando delle linee, un quadrato può essere diviso in $4$ trapezi congruenti, come mostrato a sinistra. Questi $4$ trapezi vengono riassemblati per formare un quadrato con un foro quadrato al centro, come mostrato a destra. Quale frazione dell'area del quadrato originale è l'area del foro?
 >
 > - **(A)** $\dfrac{1}{9}$
 > - **(B)** $\dfrac{2}{9}$
@@ -414,7 +455,12 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 
 ![[src_obm_2002_n2_f1__q10.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n2_f1#q10|src_obm_2002_n2_f1__Q10]]
 
 
 
@@ -447,21 +493,25 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Grafica a barre dei ricavi dell'impresa; identificare la dichiarazione vera*
+*Grafico a barre dei ricavi aziendali; individua l'affermazione corretta*
 
-> Il grafico a barre di seguito mostra le entrate mensili (in milioni di reais) delle imprese $A$ e $B$ durante il secondo semestre di $2001$.
+> Il grafico a barre sottostante mostra i ricavi mensili (in milioni di reais) delle aziende $A$ e $B$ durante il secondo semestre di $2001$.
 >
 > Sulla base di questo grafico, possiamo affermare che:
 >
-> - **(A)** C'è stato un mese in cui le entrate della società $A$ erano il doppio di quelle della società $B$.
-> - **(B)** Nel mese di luglio la differenza di entrate è stata maggiore di tutte le altre.
-> - **(C)** La società $B$ ha registrato un calo maggiore dei ricavi rispetto alla società $A$ nei due mesi consecutivi.
-> - **(D)** Nel semestre, il fatturato totale di $A$ è stato superiore a quello di $B$.
-> - **(E)** La differenza tra le entrate totali del semestre non ha superato $20$ milioni di reais.
+> - **(A)** C'è stato un mese in cui i ricavi dell'azienda $A$ erano il doppio di quelli dell'azienda $B$.
+> - **(B)** Nel mese di luglio, la differenza nei ricavi è stata maggiore che in tutti gli altri mesi.
+> - **(C)** L'azienda $B$ ha registrato un calo dei ricavi maggiore rispetto all'azienda $A$ in due mesi consecutivi.
+> - **(D)** Nel semestre, il ricavo totale di $A$ è stato superiore a quello di $B$.
+> - **(E)** La differenza tra i ricavi totali del semestre non ha superato $20$ milioni di reais.
 
 ![[src_obm_2002_n2_f1__q11.png]]
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2002_n2_f1#q11|src_obm_2002_n2_f1__Q11]]
 
 
 
@@ -491,9 +541,9 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il prodotto di un milione di numeri naturali è uguale a un milione; trovare la somma massima*
+*Il prodotto di un milione di numeri naturali è uguale a un milione; trova la somma massima*
 
-> Il prodotto di un milione di numeri naturali equivale a un milione. Qual è il valore più grande possibile della somma di questi numeri?
+> Il prodotto di un milione di numeri naturali è uguale a un milione. Qual è il valore massimo possibile della somma di questi numeri?
 >
 > - **(A)** $1{,}000{,}000$
 > - **(B)** $1{,}250{,}002$
@@ -501,7 +551,12 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 > - **(D)** $1{,}999{,}999$
 > - **(E)** $13{,}999{,}432$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2002_n2_f1#q12|src_obm_2002_n2_f1__Q12]]
 
 
 
@@ -531,9 +586,9 @@ Marcelo va a scuola a piedi, che parte del percorso fa quando vede la rivista
 <div class="qlang-split" data-lang="it"></div>
 
 
-Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
+*Promozione lavaggio auto: due prezzi, totale R\$176; numero minimo di clienti*
 
-> Il lavandino auto "Lave Bem" ha una promozione: un semplice lavandino costa R$\$5,00$ and a complete wash costs R$$7.00$. Il giorno della promozione, il fatturato totale è stato di R$\$176,00$. Qual è il numero minimo possibile di clienti che sono stati serviti?
+> L'autolavaggio "Lave Bem" sta conducendo una promozione: un lavaggio semplice costa R$\$5.00$ and a complete wash costs R$\$7.00$. Nel giorno della promozione, il ricavo totale è stato di R$\$176.00$. Qual è il numero minimo possibile di clienti serviti?
 >
 > - **(A)** $23$
 > - **(B)** $24$
@@ -541,7 +596,12 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(D)** $28$
 > - **(E)** $30$
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2002_n2_f1#q13|src_obm_2002_n2_f1__Q13]]
 
 
 
@@ -573,9 +633,9 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrato diviso in 4 trapezi congruenti; riorganizzato in quadrato con buco centrale; area di buco*
+*Quadrato suddiviso in 4 trapezi congruenti; riorganizzato in un quadrato con un foro centrale; area del foro*
 
-> Un quadrato di lato $1$ è diviso in trapeziodi di destra congruenti $4$, come mostrato a sinistra. Le trapezie $4$ sono riorganizzate per formare un quadrato con un buco quadrato al centro, come mostrato a destra. La superficie del buco è uguale a:
+> Un quadrato di lato $1$ viene diviso in $4$ trapezi rettangoli congruenti, come mostrato a sinistra. I $4$ trapezi vengono riassemblati per formare un quadrato con un foro quadrato al centro, come mostrato a destra. L'area del foro è uguale a:
 >
 > - **(A)** $\dfrac{1}{2}$
 > - **(B)** $\dfrac{9}{16}$
@@ -585,7 +645,12 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 
 ![[src_obm_2002_n2_f1__q14.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2002_n2_f1#q14|src_obm_2002_n2_f1__Q14]]
 
 
 
@@ -615,9 +680,9 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare interi positivi inferiori a 900 che sono multipli di 7 che terminano con la cifra 7*
+*Conta gli interi positivi minori di 900 che sono multipli di 7 e terminano con la cifra 7*
 
-> Quanti numeri interi positivi inferiori a $900$ sono multipli di $7$ e terminano nella cifra $7$?
+> Quanti numeri interi positivi minori di $900$ sono multipli di $7$ e terminano con la cifra $7$?
 >
 > - **(A)** $10$
 > - **(B)** $11$
@@ -625,7 +690,12 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(D)** $13$
 > - **(E)** $14$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2002_n2_f1#q15|src_obm_2002_n2_f1__Q15]]
 
 
 
@@ -654,9 +724,9 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con angoli 80° e 40°; trovare angolo acuto tra i bisettori di A e B*
+*Triangolo con angoli di 80° e 40°; trovare l'angolo acuto tra le bisettrici di A e B*
 
-> Nel triangolo $ABC$ con $\widehat{A} = 80^\circ$ e $\widehat{C} = 40^\circ$, la misura dell'angolo acuto formato dai bisettori degli angoli $\widehat{A}$ e $\widehat{B}$ è:
+> Nel triangolo $ABC$ con $\widehat{A} = 80^\circ$ e $\widehat{C} = 40^\circ$, la misura dell'angolo acuto formato dalle bisettrici degli angoli $\widehat{A}$ e $\widehat{B}$ è:
 >
 > - **(A)** $40^\circ$
 > - **(B)** $60^\circ$
@@ -664,7 +734,11 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(D)** $80^\circ$
 > - **(E)** $110^\circ$
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2002_n2_f1#q16|src_obm_2002_n2_f1__Q16]]
 
 
 
@@ -696,9 +770,9 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo ABC su una griglia quadrata di 30 cm; trovare la sua superficie*
+*Triangolo ABC su una griglia quadrata di lato 30 cm; determina la sua area*
 
-> Nella griglia quadrata di seguito con lunghezza laterale $30\,\text{cm}$, l'area del triangolo $ABC$ è:
+> Nella griglia quadrata sottostante con lato di lunghezza $30\,\text{cm}$, l'area del triangolo $ABC$ è:
 >
 > - **(A)** $150\,\text{cm}^2$
 > - **(B)** $100\,\text{cm}^2$
@@ -708,7 +782,12 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 
 ![[src_obm_2002_n2_f1__q17.png]]
 
-**Risposta:** C
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2002_n2_f1#q17|src_obm_2002_n2_f1__Q17]]
 
 
 
@@ -740,9 +819,9 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Linea poligonale AB con modello di scala ripetuta; lunghezza totale con 6 segmenti*
+*Linea poligonale AB con motivo a scalini ripetuto; lunghezza totale con 6 segmenti*
 
-> La linea poligonale $AB$ viene disegnata mantenendo sempre lo stesso modello di ripetizione mostrato nella figura. Ha segmenti $6$ e la sua lunghezza totale è uguale a:
+> La linea poligonale $AB$ viene tracciata mantenendo sempre lo stesso motivo ricorrente mostrato nella figura. Ha $6$ segmenti e la sua lunghezza totale è pari a:
 >
 > - **(A)** $31$
 > - **(B)** $88$
@@ -752,7 +831,12 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 
 ![[src_obm_2002_n2_f1__q18.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n2_f1#q18|src_obm_2002_n2_f1__Q18]]
 
 
 
@@ -782,9 +866,9 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio delle frequenze della cifra 5 in tutti i numeri interi da 100 a 999*
+*Conta le occorrenze del digit 5 in tutti gli interi da 100 a 999*
 
-> Quando si scrivono tutti i numeri interi da $100$ a $999$, quante volte appare la cifra $5$?
+> Scrivendo tutti gli interi da $100$ a $999$, quante volte compare la cifra $5$?
 >
 > - **(A)** $250$
 > - **(B)** $270$
@@ -792,7 +876,12 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(D)** $280$
 > - **(E)** $292$
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n2_f1#q19|src_obm_2002_n2_f1__Q19]]
 
 
 
@@ -822,7 +911,7 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato che xy=2 e x2+y2+x2y2=5, trovi x2/y2+2+y2/x2*
+*Dati xy=2 e x²+y²+x²y²=5, determina x²/y²+2+y²/x²*
 
 > Se $xy = 2$ e $x^2 + y^2 + x^2 y^2 = 5$, allora $\dfrac{x^2}{y^2} + 2 + \dfrac{y^2}{x^2}$ è uguale a:
 >
@@ -832,7 +921,12 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(D)** $\dfrac{1}{4}$
 > - **(E)** $1$
 
-**Risposta:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2002_n2_f1#q20|src_obm_2002_n2_f1__Q20]]
 
 
 
@@ -862,9 +956,9 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Viaggio scolastico allo zoo; due compagnie di autobus; trovare il numero minimo di bambini N per preferire la compagnia 2*
+*Gita scolastica allo zoo; due compagnie di autobus; trovare il numero minimo di bambini N che preferiscono la compagnia 2*
 
-> Una scuola vuole organizzare un viaggio allo zoo. Esistono due opzioni di trasporto: l'opzione 1 è quella di noleggiare furgoni che possono contenere fino a $6$ bambini a R$\$60.00$ per van; option 2 is to hire a bus company with buses holding up to $48$ children each, charging R$\$237.00$ più R$\$120.00$ per bus used. The school should prefer the option that uses buses when the number of children $N$ is such that using buses is cheaper than using vans (assuming no fewer than $5$ vans would otherwise be needed). The value of $N$ è:
+> Una scuola vuole organizzare una gita allo zoo. Ci sono due opzioni di trasporto: l'opzione 1 prevede il noleggio di furgoni che possono trasportare fino a $6$ bambini ciascuno al prezzo di R$\$60.00$ per van; option 2 is to hire a bus company with buses holding up to $48$ children each, charging R$\$237.00$ più R$\$120.00$ per bus used. The school should prefer the option that uses buses when the number of children $N$ is such that using buses is cheaper than using vans (assuming no fewer than $5$ vans would otherwise be needed). The value of $N$:
 >
 > - **(A)** $28$
 > - **(B)** $31$
@@ -872,7 +966,12 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(D)** $33$
 > - **(E)** $36$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2002_n2_f1#q21|src_obm_2002_n2_f1__Q21]]
 
 
 
@@ -901,17 +1000,21 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Alice cresce e si riduce successivamente; variazione netta di altezza dopo quattro passi*
+*Alice cresce e si restringe in successione; variazione netta dell'altezza dopo quattro passi*
 
-> Durante un viaggio nel paese delle meraviglie, Alice ha sperimentato i seguenti quattro cambiamenti in successione: prima, è diventata $25\%$ più alta; successivamente, è diventata $10\%$ più corta; poi è diventata $10\%$ più alta; infine, è diventata $25\%$ più corta. Dopo i quattro cambiamenti, possiamo dire che Alice:
+> Durante un viaggio nel Paese delle Meraviglie, Alice ha subito le seguenti quattro variazioni in successione: prima è diventata $25\%$ più alta; poi è diventata $10\%$ più bassa; poi è diventata $10\%$ più alta; infine è diventata $25\%$ più bassa. Dopo tutte e quattro le variazioni, possiamo dire che Alice:
 >
-> - **(A)** era più alto di $1\%$.
-> - **(B)** era più alto di $1\%$.
-> - **(C)** è stato $1\%$ più breve.
-> - **(D)** è stato $5\%$ più breve.
-> - **(E)** era più alto di $5\%$.
+> - **(A)** era $1\%$ più alto.
+> - **(B)** era $1\%$ più alto.
+> - **(C)** era $1\%$ più breve.
+> - **(D)** era $5\%$ più breve.
+> - **(E)** era $5\%$ più alto.
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2002_n2_f1#q22|src_obm_2002_n2_f1__Q22]]
 
 
 
@@ -955,21 +1058,36 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Falsa prova che 4>4 utilizzando radici quadrate; identificare il passo con l'errore*
+*Falsa dimostrazione che 4>4 usando le radici quadrate; individua il passaggio in cui c'è l'errore*
 
-> Considerate il seguente argomento che pretende di dimostrare che $4 > 4$. Selezionare $a = b$ con $a > 4$.
+> Si consideri il seguente argomento che pretende di dimostrare che $4 > 4$. Si scelga $a = b$ con $a > 4$.
 >
-> 1) Sottoprendere $4$ da entrambe le parti di $a = b$: $$a - 4 = b - 4$$ 2) Il fattore $-1$ sul lato destro: $$a - 4 = -1 \cdot (-b + 4) = -(b - 4)$$ 3) Quadratare entrambe le parti: $$(a-4)^2 = [-(b-4)]^2 = (4-b)^2$$ 4) Prendere la radice quadrata di entrambe le parti: $$\sqrt{(a-4)^2} = \sqrt{(4-b)^2}$$ 5) Dal momento che $a = b$, sostituire $b$ con $a$: $$a - 4 = 4 - a$$ 6) Risolvere l'equazione: $$2a = 8 \implies a = 4$$
+> 1) Sottrai $4$ da entrambi i membri di $a = b$:
+> $$a - 4 = b - 4$$
+> 2) Fattore $-1$ nel membro di destra:
+> $$a - 4 = -1 \cdot (-b + 4) = -(b - 4)$$
+> 3) Eleva entrambi i membri al quadrato:
+> $$(a-4)^2 = [-(b-4)]^2 = (4-b)^2$$
+> 4) Estrai la radice quadrata di entrambi i membri:
+> $$\sqrt{(a-4)^2} = \sqrt{(4-b)^2}$$
+> 5) Poiché $a = b$, sostituisci $a$ con $b$:
+> $$a - 4 = 4 - a$$
+> 6) Risolvi l'equazione:
+> $$2a = 8 \implies a = 4$$
 >
-> Dal momento che abbiamo scelto $a > 4$, arriviamo alla conclusione assurda $4 > 4$. Dov'è l'errore?
+> Poiché abbiamo scelto $a > 4$, giungiamo alla conclusione assurda $4 > 4$. Dov'è l'errore?
 >
-> - **(A)** Nel secondo passo.
-> - **(B)** In fase 3.
+> - **(A)** Nel passaggio 2.
+> - **(B)** Nel passaggio 3.
 > - **(C)** Nel passaggio 4.
-> - **(D)** Nel passo 5.
-> - **(E)** In fase 6.
+> - **(D)** Nel passaggio 5.
+> - **(E)** Nel passo 6.
 
-**Risposta:** C
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2002_n2_f1#q23|src_obm_2002_n2_f1__Q23]]
 
 
 
@@ -999,17 +1117,22 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Autoreferenziale: numero totale di lettere in tutte le risposte errate a questa domanda*
+*Autoriferito: numero totale di lettere in tutte le risposte errate a questa domanda*
 
-> Qual è il numero totale di lettere in tutte le risposte sbagliate a questa domanda?
+> Qual è il numero totale di lettere in tutte le risposte errate a questa domanda?
 >
-> - **(A)** Quarantotto anni.
-> - **(B)** Quaranta-neuve.
-> - **(C)** - Cinquanta.
-> - **(D)** Cinquanta uno.
+> - **(A)** Quarantotto.
+> - **(B)** Quarantanove.
+> - **(C)** Cinquanta.
+> - **(D)** Cinquantuno.
 > - **(E)** Cinquantaquattro.
 
-**Risposta:** D
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2002_n2_f1#q24|src_obm_2002_n2_f1__Q24]]
 
 
 
@@ -1039,9 +1162,9 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Restante quando sqrt(11111111 - 22222) è diviso per 9*
+*Resto della divisione di sqrt(1111111111 - 22222) per 9*
 
-> Il resto della divisione per $9$ di $\sqrt{1111111111 - 22222}$ è:
+> Il resto della divisione di $\sqrt{1111111111 - 22222}$ per $9$ è:
 >
 > - **(A)** $0$
 > - **(B)** $1$
@@ -1049,4 +1172,9 @@ Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
 > - **(D)** $6$
 > - **(E)** $8$
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2002_n2_f1#q25|src_obm_2002_n2_f1__Q25]]

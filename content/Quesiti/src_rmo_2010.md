@@ -31,11 +31,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le superfici medie geometriche nell'esagono diagonale simultaneo*
+*Aree della media geometrica nell'esagono diagonale concorrente*
 
-> Il $ABCDEF$ deve essere un esagono converso in cui le diagonali $AD$, $BE$, $CF$ sono simultanee a $O$. Supponiamo che la superficie del triangolo $OAF$ sia la media geometrica di quelle di $OAB$ e $OEF$; e che la superficie del triangolo $OBC$ sia la media geometrica di quelle di $OAB$ e $OCD$. Prova che l'area del triangolo $OED$ è la media geometrica di quelle di $OCD$ e $OEF$.
+> Sia $ABCDEF$ un esagono convesso in cui le diagonali $AD$, $BE$, $CF$ sono concorrenti in $O$. Si supponga che l'area del triangolo $OAF$ sia la media geometrica delle aree di $OAB$ e $OEF$; e che l'area del triangolo $OBC$ sia la media geometrica delle aree di $OAB$ e $OCD$. Dimostrare che l'area del triangolo $OED$ è la media geometrica delle aree di $OCD$ e $OEF$.
 
 ![[src_rmo_2010__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2010#q01|src_rmo_2010__Q01]]
 
 
 
@@ -58,9 +65,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre quadratici uguali in un punto implica coefficienti uguali*
+*Tre funzioni quadratiche uguali in un punto implicano l'uguaglianza dei coefficienti*
 
-> Lasciate che $P_1(x) = ax^2 - bx - c$, $P_2(x) = bx^2 - cx - a$, $P_3(x) = cx^2 - ax - b$ siano tre polinomi quadratici dove $a, b, c$ sono numeri reali non zero. Supponiamo che esista un numero reale $\alpha$ tale che $P_1(\alpha) = P_2(\alpha) = P_3(\alpha)$. Prove che $a = b = c$.
+> Siano $P_1(x) = ax^2 - bx - c$, $P_2(x) = bx^2 - cx - a$, $P_3(x) = cx^2 - ax - b$ tre polinomi quadratici in cui $a, b, c$ sono numeri reali non nulli. Si supponga che esista un numero reale $\alpha$ tale che $P_1(\alpha) = P_2(\alpha) = P_3(\alpha)$. Dimostrare che $a = b = c$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2010#q02|src_rmo_2010__Q02]]
 
 
 
@@ -84,11 +98,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare numeri a 4 cifre con numeri non a zero divisibili per 4 non per 8*
+*Conta i numeri di quattro cifre con cifre non nulle, divisibili per 4 ma non per 8*
 
-> Trova il numero di numeri a 4 cifre (in base 10) che non hanno cifre zero e che sono divisibili per 4 ma non per 8.
+> Trovare il numero di numeri di 4 cifre (in base 10) con cifre non nulle, divisibili per 4 ma non per 8.
 
-**Risposta:** 729
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2010#q03|src_rmo_2010__Q03]]
 
 
 
@@ -111,9 +130,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre numeri interi positivi distinti, somma minima, condizione reciproca*
+*Tre numeri interi positivi distinti, somma minima, condizione sui reciproci*
 
-> Trovare tre diversi interi positivi con la somma minima possibile in modo tale che la somma dei reciproci di due interi tra loro sia un multiple integrale del reciproco del terzo intero.
+> Trovare tre interi positivi distinti aventi la somma più piccola possibile, in modo che la somma dei reciproci di due qualsiasi di questi interi sia un multiplo intero del reciproco del terzo intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2010#q04|src_rmo_2010__Q04]]
 
 
 
@@ -138,11 +164,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il riflesso di A nella linea di angolo-bisettore EF si trova su BC*
+*Il riflesso di A sulla bisettrice EF giace su BC*
 
-> $ABC$ sia un triangolo in cui $\angle A = 60^\circ$. I segmenti $BE$ e $CF$ siano i bisettori degli angoli $\angle B$ e $\angle C$ con $E$ su $AC$ e $F$ su $AB$. Il $M$ deve essere il riflesso di $A$ nella riga $EF$. Provare che $M$ si trova su $BC$.
+> Sia $ABC$ un triangolo in cui $\angle A = 60^\circ$. Siano $BE$ e $CF$ le bisettrici degli angoli $\angle B$ e $\angle C$, con $E$ su $AC$ e $F$ su $AB$. Sia $M$ la riflessione di $A$ rispetto alla retta $EF$. Dimostrare che $M$ giace su $BC$.
 
 ![[src_rmo_2010__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2010#q05|src_rmo_2010__Q05]]
 
 
 
@@ -165,6 +198,13 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta n in {1,...,2010} dove il pavimento(n/pavimento(sqrt(n))) è uguale al pavimento(((n+1)/pavimento(sqrt(n+1)))*
+*Conta i valori di n in {1,...,2010} per cui floor(n/floor(sqrt(n))) è uguale a floor((n+1)/floor(sqrt(n+1)))*
 
-> Per ogni numero intero $n \ge 1$, definire $a_n = \left[\dfrac{n}{[\sqrt{n}]}\right]$, dove $[x]$ indica il numero intero più grande non superiore a $x$. Trova il numero di tutti $n$ nell'insieme $\{1, 2, 3, \ldots, 2010\}$ per il quale $a_n = a_{n+1}$.
+> Per ogni intero $n \ge 1$, si definisca $a_n = \left[\dfrac{n}{[\sqrt{n}]}\right]$, dove $[x]$ denota il più grande intero non superiore a $x$. Si determini il numero di tutti gli $n$ nell'insieme $\{1, 2, 3, \ldots, 2010\}$ per cui vale $a_n = a_{n+1}$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2010#q06|src_rmo_2010__Q06]]

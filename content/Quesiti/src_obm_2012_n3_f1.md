@@ -33,9 +33,16 @@ level: OBM Nível 3
 
 *Conta le vocali nella risposta corretta a questo problema*
 
-> Quante vocali ha la risposta corretta a questo problema? Non contare la lettera A né la lettera E delle alternative A) e E).
-> 
-> **A) ** Sei $\quad$ **B) ** Cinque $\quad$ **C) ** Quattro $\quad$ **D) ** Tre $\quad$ **E) ** Due
+> Quante vocali ha la risposta corretta a questo problema? Non contare la lettera A né la lettera E delle alternative A) ed E).
+>
+> **A)** Sei $\quad$ **B)** Cinque $\quad$ **C)** Quattro $\quad$ **D)** Tre $\quad$ **E)** Due
+
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n3_f1#q01|src_obm_2012_n3_f1__Q01]]
 
 
 
@@ -60,11 +67,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare il valore della frazione di criptaritmo con cifre distinte*
+*Massimizza il valore della frazione crittoaritmetica con cifre distinte*
 
-> Nell'espressione $\dfrac{M \times A \times T \times E \times M}{A \times T \times I \times C \times A}$, le lettere diverse rappresentano cifre diverse e le lettere uguali rappresentano cifre uguali. Qual è il valore più grande possibile di questa espressione?
-> 
+> Nell'espressione $\dfrac{M \times A \times T \times E \times M}{A \times T \times I \times C \times A}$, lettere diverse rappresentano cifre diverse e lettere uguali rappresentano cifre uguali. Qual è il valore massimo possibile di questa espressione?
+>
 > **A)** 38 $\quad$ **B)** 96 $\quad$ **C)** 108 $\quad$ **D)** 576 $\quad$ **E)** 648
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n3_f1#q02|src_obm_2012_n3_f1__Q02]]
 
 
 
@@ -89,11 +103,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di intervistati quindi due rispondono alle quattro domande identicamente*
+*Numero minimo di intervistati tale che due rispondano in modo identico a tutte e quattro le domande*
 
-> In un sondaggio stradale, ogni intervistato rispose a quattro domande, e poteva dare solo una risposta a ciascuna domanda. Così la stessa persona può dare le stesse o diverse risposte alle domande. Qual è il numero minimo di intervistati che garantisce che almeno due persone rispondano a tutte le domande nello stesso modo?
-> 
+> In un'indagine stradale, ciascun intervistato ha risposto a quattro domande e ha potuto fornire una sola risposta per ogni domanda. Pertanto, la stessa persona può fornire risposte uguali o diverse alle domande. Qual è il numero minimo di intervistati che garantisce che almeno due persone abbiano risposto a tutte le domande nello stesso modo?
+>
 > **A)** 16 $\quad$ **B)** 17 $\quad$ **C)** 9 $\quad$ **D)** 5 $\quad$ **E)** 33
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n3_f1#q03|src_obm_2012_n3_f1__Q03]]
 
 
 
@@ -120,13 +141,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area ombrata in parallelo ABCD dell'area 84 divisa per segmenti di griglia*
+*Area ombreggiata nel parallelogramma ABCD di area 84, divisa per i segmenti della griglia*
 
-> I lati $AB$ e $DC$ del parallelo $ABCD$ sono stati suddivisi in 4 segmenti uguali. I lati $AD$ e $BC$ sono stati divisi in 3 segmenti uguali. I punti di divisione sono stati collegati come indicato nella figura seguente. Se la superficie di $ABCD$ è di 84, determinare la superficie ombrata.
-> 
+> I lati $AB$ e $DC$ del parallelogramma $ABCD$ sono stati divisi in 4 segmenti uguali. I lati $AD$ e $BC$ sono stati divisi in 3 segmenti uguali. I punti di divisione sono stati collegati come indicato nella figura sottostante. Se l'area di $ABCD$ è 84, determina l'area ombreggiata.
+>
 > **A)** 1 $\quad$ **B)** 3 $\quad$ **C)** 4 $\quad$ **D)** 7 $\quad$ **E)** 12
 
 ![[src_obm_2012_n3_f1__q04.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n3_f1#q04|src_obm_2012_n3_f1__Q04]]
 
 
 
@@ -151,11 +179,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il massimo valore possibile di una quantità relativa all'anno 2012 e all'edizione OBM*
+*Valore massimo possibile di una grandezza relativa all'anno 2012 e all'edizione OBM*
 
-> Nel 2012 si tiene il 34° OBM, e $\gcd(2012, 34) = 2$. Supponendo che l'OBM sia sempre stato tenuto ogni anno, e che continuerà ad essere tenuto ogni anno, qual è il più grande valore possibile della [quantità richiesta, come nell'originale]?
-> 
+> Nel 2012 stiamo tenendo il 34° OBM, e $\gcd(2012, 34) = 2$. Supponendo che l'OBM sia sempre stato tenuto ogni anno e che continui a essere tenuto ogni anno, qual è il valore massimo possibile di [la quantità cercata, come nell'originale]?
+>
 > **A)** 12 $\quad$ **B)** 28 $\quad$ **C)** 38 $\quad$ **D)** 1978 $\quad$ **E)** 2012
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n3_f1#q05|src_obm_2012_n3_f1__Q05]]
 
 
 
@@ -180,11 +215,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri a 3 cifre ABC con ABC + BCA + CAB = AAA × 10*
+*Conta i numeri a tre cifre ABC tali che ABC + BCA + CAB = AAA × 10*
 
-> Le cifre $A$, $B$, $C$ non sono zero e formano i numeri $\overline{ABC}$, $\overline{BCA}$ e $\overline{CAB}$ in modo tale che $\overline{ABC} + \overline{BCA} + \overline{CAB} = \overline{AAA} \times 10$. Quanti numeri $\overline{ABC}$ esistono?
-> 
-> **A) ** 6 $\quad$ **B) ** 8 $\quad$ **C) ** 9 $\quad$ **D) ** 15 $\quad$ **E) ** nessuno
+> Le cifre $A$, $B$, $C$ sono diverse da zero e formano i numeri $\overline{ABC}$, $\overline{BCA}$ e $\overline{CAB}$ in modo che $\overline{ABC} + \overline{BCA} + \overline{CAB} = \overline{AAA} \times 10$. Quanti numeri $\overline{ABC}$ esistono?
+>
+> **A)** 6 $\quad$ **B)** 8 $\quad$ **C)** 9 $\quad$ **D)** 15 $\quad$ **E)** nessuno
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n3_f1#q06|src_obm_2012_n3_f1__Q06]]
 
 
 
@@ -211,13 +253,20 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Casse di tessitura 4x4 con un quadrato 2x2 e quattro pezzi L*
+*Modi per piastrellare una scacchiera 4x4 con un quadrato 2x2 e quattro pezzi a L*
 
-> In quanti modi possiamo coprire una lavagna $4 \times 4$ con un quadrato di lato 2 e quattro pezzi identici a forma di L, ognuno occupando tre celle della lavagna? Il tabellone non può essere rotato, cioè tutte le possibilità indicate di seguito devono essere considerate separate.
-> 
+> In quanti modi possiamo coprire una scacchiera di dimensioni $4 \times 4$ con un quadrato di lato 2 e quattro pezzi identici a forma di L, ciascuno dei quali occupa tre caselle della scacchiera? La scacchiera non può essere ruotata; in altre parole, tutte le possibilità mostrate di seguito devono essere considerate distinte.
+>
 > **A)** 2 $\quad$ **B)** 3 $\quad$ **C)** 4 $\quad$ **D)** 5 $\quad$ **E)** 6
 
 ![[src_obm_2012_n3_f1__q07.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n3_f1#q07|src_obm_2012_n3_f1__Q07]]
 
 
 
@@ -242,11 +291,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Evaluare espressione data x^2 = 2x + 1*
+*Valuta l'espressione dato che x^2 = 2x + 1*
 
 > Se $x^2 = 2x + 1$, allora $(x + 1)^{-1}$ è uguale a
-> 
+>
 > **A)** $x + 2$ $\quad$ **B)** $x - 3$ $\quad$ **C)** $x - 1$ $\quad$ **D)** $2x + 5$ $\quad$ **E)** $3x + 5$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2012_n3_f1#q08|src_obm_2012_n3_f1__Q08]]
 
 
 
@@ -271,11 +327,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i quadrilaterali convexi con AB=BC=CD=1, angoli interi, condizione angolare*
+*Conta i quadrilateri convessi con AB=BC=CD=1, angoli interi e condizione sugli angoli*
 
-> Il $ABCD$ deve essere un quadrilaterale convex tale che $AB = BC = CD = 1$ e $m(A\hat{B}D) = m(A\hat{C}B)$. Sapendo che le misure di angolo, in gradi, sono numeri interi, determinano quanti quadrilaterali $ABCD$ possono essere costruiti soddisfacendo le condizioni di cui sopra.
-> 
+> Sia $ABCD$ un quadrilatero convesso tale che $AB = BC = CD = 1$ e $m(A\hat{B}D) = m(A\hat{C}B)$. Sapendo che le misure degli angoli, espresse in gradi, sono numeri interi, determina quanti quadrilateri $ABCD$ si possono costruire soddisfacendo le condizioni sopra indicate.
+>
 > **A)** 20 $\quad$ **B)** 21 $\quad$ **C)** 22 $\quad$ **D)** 23 $\quad$ **E)** 24
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n3_f1#q09|src_obm_2012_n3_f1__Q09]]
 
 
 
@@ -300,11 +363,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la massa degli studenti intermedi da somme in coppia di 5 studenti*
+*Trovare la massa dello studente intermedio a partire dalle somme a coppie di 5 studenti*
 
-> Le masse di tutte le possibili coppie che possono essere formate da 5 studenti sono 89 kg, 92 kg, 93 kg, 94 kg, 95 kg, 96 kg, 96 kg, 97 kg, 98 kg, 100 kg e 101 kg. Qual è la massa dello studente di massa intermedia?
-> 
+> Le masse di tutte le coppie possibili che si possono formare con 5 studenti sono 89 kg, 92 kg, 93 kg, 94 kg, 95 kg, 96 kg, 96 kg, 97 kg, 98 kg, 100 kg e 101 kg. Qual è la massa dello studente con massa intermedia?
+>
 > **A)** 52 kg $\quad$ **B)** 51 kg $\quad$ **C)** 49 kg $\quad$ **D)** 48 kg $\quad$ **E)** 46 kg
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n3_f1#q10|src_obm_2012_n3_f1__Q10]]
 
 
 
@@ -337,19 +407,26 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolo f(2012) dalle equazioni funzionali ricorsive di base-3*
+*Calcola f(2012) a partire da equazioni funzionali ricorsive in base 3*
 
-> Consideriamo $N = \{0, 1, 2, \ldots\}$ e consideriamo la funzione $f \colon N \to N$ tale che $f(0) = 1$, $f(1) = 2$, $f(2) = 0$, e per ogni $n \ge 1$ naturale soddisfi le seguenti condizioni:
-> 
+> Sia $N = \{0, 1, 2, \ldots\}$ e si consideri la funzione $f \colon N \to N$ tale che $f(0) = 1$, $f(1) = 2$, $f(2) = 0$, e per ogni $n \ge 1$ naturale valgono le seguenti condizioni:
+>
 > i) $f(3n) = 3f(n) + 1$;
-> 
+>
 > ii) $f(3n + 1) = 3f(n) + 2$;
-> 
+>
 > iii) $f(3n + 2) = 3f(n)$.
-> 
-> Quindi $f(2012)$ è uguale a
-> 
+>
+> Allora $f(2012)$ è uguale a
+>
 > **A)** 101 $\quad$ **B)** 102 $\quad$ **C)** 103 $\quad$ **D)** 104 $\quad$ **E)** 105
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n3_f1#q11|src_obm_2012_n3_f1__Q11]]
 
 
 
@@ -377,15 +454,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Find angle PBQ dato angolo retto ABC e angolo tra CD, AE pari a 40 gradi*
+*Trovare l'angolo PBQ sapendo che l'angolo ABC è retto e che l'angolo tra CD e AE è pari a 40 gradi*
 
-> Nella figura che segue, l'angolo $A\hat{B}C$ è corretto, una linea $r$ taglia i segmenti $\overline{AB}$ e $\overline{BC}$ rispettivamente a $D$ e $E$; lasciamo che $F$ sia il punto di intersezione dei segmenti $\overline{CD}$ e $\overline{AE}$, e $P$ e $Q$ sono le proiezioni ortogonali di $A$ e $C$ sulla linea $r$, rispettivamente.
-> 
-> Poiché l'angolo tra le linee $\overline{CD}$ e $\overline{AE}$ è $m(A\hat{F}D) = 40^\circ$, la misura di $P\hat{B}Q$, in gradi, è
-> 
+> Nella figura che segue, l'angolo $A\hat{B}C$ è retto; una retta $r$ interseca i segmenti $\overline{AB}$ e $\overline{BC}$ rispettivamente nei punti $D$ e $E$; sia $F$ il punto di intersezione dei segmenti $\overline{CD}$ e $\overline{AE}$, e $P$ e $Q$ siano le proiezioni ortogonali di $A$ e $C$ sulla retta $r$, rispettivamente.
+>
+> Dato che l'angolo tra le rette $\overline{CD}$ e $\overline{AE}$ è $m(A\hat{F}D) = 40^\circ$, la misura di $P\hat{B}Q$, in gradi, è
+>
 > **A)** 110 $\quad$ **B)** 120 $\quad$ **C)** 130 $\quad$ **D)** 140 $\quad$ **E)** 160
 
 ![[src_obm_2012_n3_f1__q12.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n3_f1#q12|src_obm_2012_n3_f1__Q12]]
 
 
 
@@ -410,11 +493,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'anno di nascita di qualcuno nato il 29 febbraio in una domenica data il 29 febbraio 2012 era mercoledì*
+*Anno di nascita di una persona nata il 29 febbraio di una domenica, sapendo che il 29 febbraio 2012 era un mercoledì*
 
-> Gli anni bisesti hanno un altro giorno, il 29 febbraio, che si verifica ogni 4 anni. Esmeralda è nata il 29 febbraio in una domenica. Sapendo che il 29 febbraio 2012 è un mercoledì, in quale anno è nata Esmeralda?
-> 
+> Gli anni bisestili hanno un giorno in più, il 29 febbraio, che ricorre ogni 4 anni. Esmeralda è nata il 29 febbraio di una domenica. Sapendo che il 29 febbraio 2012 era un mercoledì, in quale anno è nata Esmeralda?
+>
 > **A)** 1972 $\quad$ **B)** 1976 $\quad$ **C)** 1980 $\quad$ **D)** 1984 $\quad$ **E)** 1988
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n3_f1#q13|src_obm_2012_n3_f1__Q13]]
 
 
 
@@ -440,13 +530,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quindico di somiglianza tra due piramidi a base quadrata che condividono l'apice V*
+*Rapporto di similitudine tra due piramidi a base quadrata che condividono il vertice V*
 
-> Considera una piramide $VABCD$ con base quadrata. Il $P$ deve essere il centro della base $ABCD$ e $X$, $Y$, $Z$, $W$, i punti medi dei lati laterali; $VXYZW$ è una piramide simile a $VABCD$, con le diagonali della base $XZ$ e $YW$ parallele rispettivamente a $BC$ e $CD$. Il rapporto di somiglianza tra le due piramidi è
-> 
+> Si consideri una piramide $VABCD$ con base quadrata. Sia $P$ il centro della base $ABCD$ e siano $X$, $Y$, $Z$, $W$ i punti medi dei lati laterali; $VXYZW$ è una piramide simile a $VABCD$, con le diagonali della base $XZ$ e $YW$ parallele rispettivamente a $BC$ e $CD$. Il rapporto di similitudine tra le due piramidi è
+>
 > **A)** $1 : (\sqrt{2} + 1)$ $\quad$ **B)** $1 : 3$ $\quad$ **C)** $1 : 2$ $\quad$ **D)** $1 : \sqrt{2}$ $\quad$ **E)** $1 : (2\sqrt{2} + 3)$
 
 ![[src_obm_2012_n3_f1__q14.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n3_f1#q14|src_obm_2012_n3_f1__Q14]]
 
 
 
@@ -471,11 +567,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I percorsi per accendere le lampade in 10 cerchi in modo che i cerchi consecutivi differiscano di colore*
+*Modi per illuminare le lampade in 10 cerchi in modo che i cerchi consecutivi siano di colore diverso*
 
-> Un pannello luminoso è formato da 10 grandi cerchi. All'interno di ogni grande cerchio ci sono quattro lampade: una gialla, una verde, una rossa e una blu. Accendiamo una lampada di ogni grande cerchio in modo che due grandi cerchi consecutivi non abbiano lo stesso colore illuminato. In quanti modi si può fare questo, sapendo che è consentito che le lampade non consecutive abbiano lo stesso colore illuminato?
-> 
+> Un pannello luminoso è formato da 10 cerchi grandi. All'interno di ciascun cerchio grande ci sono quattro lampade: una gialla, una verde, una rossa e una blu. Accendiamo una lampada in ciascun cerchio grande in modo che due cerchi grandi consecutivi non abbiano la stessa lampada accesa. In quanti modi si può procedere così, sapendo che è consentito che lampade non consecutive abbiano la stessa lampada accesa?
+>
 > **A)** $(2^{10} - 1)^4$ $\quad$ **B)** $(2^4 - 1)^{10}$ $\quad$ **C)** $2^{10} - 1$ $\quad$ **D)** $2^4 - 1$ $\quad$ **E)** $2^{10} - 2^4$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n3_f1#q15|src_obm_2012_n3_f1__Q15]]
 
 
 
@@ -500,11 +603,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Differenza tra il prodotto massimo e il prodotto min di due integri non negativi sommando al 2012*
+*Differenza tra il prodotto massimo e il prodotto minimo di due interi non negativi la cui somma è 2012*
 
-> La somma di due numeri interi non negativi è 2012. La differenza tra i valori più grandi e più piccoli possibili del prodotto di questi numeri è
-> 
+> La somma di due interi non negativi è 2012. La differenza tra il valore massimo e il valore minimo possibili del prodotto di questi numeri è
+>
 > **A)** $1006^2$ $\quad$ **B)** $1005^2$ $\quad$ **C)** $1005 \cdot 1007$ $\quad$ **D)** $1005 \cdot 1006$ $\quad$ **E)** $1006 \cdot 1007$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n3_f1#q16|src_obm_2012_n3_f1__Q16]]
 
 
 
@@ -529,11 +639,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Compari le probabilità del vertice più vicino per un punto casuale nel triangolo 6-8-10*
+*Confronta le probabilità del vertice più vicino per un punto casuale nel triangolo 6-8-10*
 
-> Il triangolo $ABC$ ha lati $AB = 6$, $AC = 8$ e $BC = 10$. Un punto $X$ è scelto a caso all'interno del triangolo $ABC$. $p_A$, $p_B$, $p_C$ siano le probabilità che $X$ sia la più vicina al vertice $A$, $B$ o $C$ rispettivamente. Allora...
-> 
+> Il triangolo $ABC$ ha i lati $AB = 6$, $AC = 8$ e $BC = 10$. Un punto $X$ viene scelto a caso all'interno del triangolo $ABC$. Siano $p_A$, $p_B$, $p_C$ le probabilità che $X$ sia il più vicino al vertice $A$, a quello $B$ o a quello $C$, rispettivamente. Allora
+>
 > **A)** $p_A > p_B = p_C$ $\quad$ **B)** $p_A > p_B > p_C$ $\quad$ **C)** $p_A > p_C > p_B$ $\quad$ **D)** $p_A < p_B = p_C$ $\quad$ **E)** $p_A = p_B = p_C$
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2012_n3_f1#q17|src_obm_2012_n3_f1__Q17]]
 
 
 
@@ -566,19 +683,26 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Medi per il clown di distribuire 21 palle a 5 bambini sotto vincoli*
+*Modi in cui un pagliaccio può distribuire 21 palle a 5 bambini sotto vincoli*
 
-> In una festa per bambini, il clown Macaxeira distribuirà 21 palle a 5 bambini che giocano a un gioco. Macaxeira deve effettuare la distribuzione soddisfacendo le seguenti condizioni:
-> 
+> A una festa per bambini, il pagliaccio Macaxeira distribuirà 21 palline a 5 bambini che stanno giocando. Macaxeira deve effettuare la distribuzione rispettando le seguenti condizioni:
+>
 > 1) Ogni bambino può ricevere solo palle intere (nessuna frazione);
-> 
-> 2) ogni bambino deve ricevere almeno una palla;
-> 
-> 3) Il numero di palle ricevute diminuisce a seconda dell'altezza, cioè nessun bambino riceve un numero di palle più grande di un altro bambino più alto.
-> 
-> Supponiamo che tutti i bambini abbiano altezze diverse, in quanti modi si possa fare questa distribuzione?
-> 
+>
+> 2) Ogni bambino deve ricevere almeno una palla;
+>
+> 3) Il numero di palline ricevute diminuisce in base all'altezza, vale a dire che nessun bambino riceve un numero di palline maggiore di quello di un altro bambino più alto.
+>
+> Supponendo che tutti i bambini abbiano altezze diverse, in quanti modi si può realizzare questa distribuzione?
+>
 > **A)** 10 $\quad$ **B)** 11 $\quad$ **C)** 12 $\quad$ **D)** 13 $\quad$ **E)** 14
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n3_f1#q18|src_obm_2012_n3_f1__Q18]]
 
 
 
@@ -603,11 +727,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i sottogruppi di 3 elementi di {1,...,25} contenenti due il cui prodotto è un quadrato perfetto*
+*Conta i sottoinsiemi di 3 elementi di {1,...,25} che contengono due elementi il cui prodotto è un quadrato perfetto*
 
-> Quanti sottoinsiemi con tre elementi distinti di $\{1, 2, 3, \ldots, 25\}$ contengono due numeri distinti il cui prodotto è un quadrato perfetto?
-> 
+> Quanti sottoinsiemi di $\{1, 2, 3, \ldots, 25\}$ costituiti da tre elementi distinti contengono due numeri distinti il cui prodotto è un quadrato perfetto?
+>
 > **A)** 15 $\quad$ **B)** 16 $\quad$ **C)** 17 $\quad$ **D)** 18 $\quad$ **E)** 19
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n3_f1#q19|src_obm_2012_n3_f1__Q19]]
 
 
 
@@ -640,11 +771,22 @@ level: OBM Nível 3
 
 *Valuta la somma di (n+1)^2/n! in termini di e*
 
-> Il numero $e$, una delle costanti più importanti in matematica, può essere definito da $$e = \sum_{n=0}^{\infty} \frac{1}{n!} = \frac{1}{0!} + \frac{1}{1!} + \frac{1}{2!} + \frac{1}{3!} + \cdots$$ dove $0! = 1$ e $n! = 1 \cdot 2 \cdot 3 \cdots n$ per $n \ge 0$.
-> 
-> Quindi il numero $$\sum_{n=0}^{\infty} \frac{(n+1)^2}{n!} = \frac{1^2}{0!} + \frac{2^2}{1!} + \frac{3^2}{2!} + \frac{4^2}{3!} + \cdots$$ è uguale a
-> 
+> Il numero $e$, una delle costanti più importanti della matematica, può essere definito da
+> $$e = \sum_{n=0}^{\infty} \frac{1}{n!} = \frac{1}{0!} + \frac{1}{1!} + \frac{1}{2!} + \frac{1}{3!} + \cdots$$
+> dove $0! = 1$ e $n! = 1 \cdot 2 \cdot 3 \cdots n$ per $n \ge 0$.
+>
+> Poi il numero
+> $$\sum_{n=0}^{\infty} \frac{(n+1)^2}{n!} = \frac{1^2}{0!} + \frac{2^2}{1!} + \frac{3^2}{2!} + \frac{4^2}{3!} + \cdots$$
+> è uguale a
+>
 > **A)** $2e$ $\quad$ **B)** $4e$ $\quad$ **C)** $5e$ $\quad$ **D)** $5e^2$ $\quad$ **E)** $(e + 1)^2$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2012_n3_f1#q20|src_obm_2012_n3_f1__Q20]]
 
 
 
@@ -669,11 +811,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Migliore potenza di 2 divisione 2011^2012 - 1*
+*La più grande potenza di 2 che divide 2011^2012 - 1*
 
-> Qual è la maggiore potenza di 2 che divide $2011^{2012} - 1$?
-> 
+> Qual è la massima potenza di 2 che divide $2011^{2012} - 1$?
+>
 > **A)** 2 $\quad$ **B)** 4 $\quad$ **C)** 8 $\quad$ **D)** 16 $\quad$ **E)** 32
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2012_n3_f1#q21|src_obm_2012_n3_f1__Q21]]
 
 
 
@@ -702,15 +851,22 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Side del triangolo Morley di triangolo rettangolo con gambe 2*
+*Lato del triangolo di Morley di un triangolo rettangolo isoscele con i cateti di lunghezza 2*
 
-> Il teorema * di Morley* afferma che, disegnando le linee che dividono ogni angolo interno di un triangolo in tre angoli uguali, otteniamo un triangolo equilaterale chiamato il triangolo *Morley di $ABC$*, come evidenziato in dettaglio nella figura seguente.
-> 
-> Qual è la misura del lato del triangolo di Morley di un triangolo rettangolo di uguali pollici le cui gambe misurano 2?
-> 
+> Il *teorema di Morley* afferma che, tracciando le rette che dividono ciascun angolo interno di un triangolo in tre angoli uguali, si ottiene un triangolo equilatero chiamato *triangolo di Morley di $ABC$*, come viene evidenziato in dettaglio nella figura che segue.
+>
+> Qual è la misura del lato del triangolo di Morley di un triangolo rettangolo isoscele i cui cateti misurano 2?
+>
 > **A)** $2\sqrt{2} - \sqrt{6}$ $\quad$ **B)** $\sqrt{3} - \sqrt{2}$ $\quad$ **C)** $\sqrt{6} - 2$ $\quad$ **D)** $2 - \sqrt{3}$ $\quad$ **E)** $2\sqrt{3} - \sqrt{6}$
 
 ![[src_obm_2012_n3_f1__q22.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2012_n3_f1#q22|src_obm_2012_n3_f1__Q22]]
 
 
 
@@ -735,11 +891,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il numero più grande di attrazioni al di sotto del 2012 costruito da somme di 1,3,13,31*
+*Il più grande numero attraente inferiore a 2012, costruito mediante somme di 1, 3, 13, 31*
 
-> Per Mariazinha esistono solo alcuni numeri che lei ritiene attraenti: 1, 3, 13 e 31. Un numero, tuttavia, sarà considerato attraente solo se può essere espresso come la somma di uno o più di questi numeri attraenti. Ad esempio, $1 + 3 + 3 + 13 + 31 = 51$ è piuttosto attraente. Se si sommano alcuni numeri attraenti per comporre il 2012, quale è il numero più attraente (minore del 2012)?
-> 
+> Per Mariazinha, esistono solo alcuni numeri che considera attraenti: 1, 3, 13 e 31. Tuttavia, un numero sarà considerato attraente solo se può essere espresso come somma di uno o più di questi numeri attraenti. Ad esempio, $1 + 3 + 3 + 13 + 31 = 51$ è piuttosto attraente. Se alcuni numeri attraenti vengono sommati per ottenere 2012, qual è il più grande numero attraente (minore di 2012)?
+>
 > **A)** 68 $\quad$ **B)** 70 $\quad$ **C)** 71 $\quad$ **D)** 99 $\quad$ **E)** 2011
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n3_f1#q23|src_obm_2012_n3_f1__Q23]]
 
 
 
@@ -765,11 +928,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di soluzioni reali di sistema ciclico con 1/x^2 ecc*
+*Numero di soluzioni reali del sistema ciclico con 1/x^2 ecc*
 
-> Quante soluzioni reali ha il sistema? $$\begin{cases} x + y = \dfrac{1}{z^2} \\[6pt] y + z = \dfrac{1}{x^2} \\[6pt] z + x = \dfrac{1}{y^2} \end{cases}$$
-> 
-> **A) ** 0 $\quad$ **B) ** 1 $\quad$ **C) ** 2 $\quad$ **D) ** 3 $\quad$ **E) ** infinitamente molti
+> Quante soluzioni reali ha il sistema?
+> $$\begin{cases} x + y = \dfrac{1}{z^2} \\[6pt] y + z = \dfrac{1}{x^2} \\[6pt] z + x = \dfrac{1}{y^2} \end{cases}$$
+>
+> **A)** 0 $\quad$ **B)** 1 $\quad$ **C)** 2 $\quad$ **D)** 3 $\quad$ **E)** infiniti
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2012_n3_f1#q24|src_obm_2012_n3_f1__Q24]]
 
 
 
@@ -794,8 +965,15 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Produzione di tutte le voci in una tabella di 100x100 di valori gcd(i,j)*
+*Prodotto di tutte le entrate di una tabella 100x100 di valori di mcd(i,j)*
 
-> Esmeralda disegnò una tabella con 100 righe e 100 colonne e scrisse, nella riga $i$ e nella colonna $j$ della tabella, $\gcd(i, j)$. Ad esempio, ha scritto $\gcd(4, 6) = 2$ nella riga 4, colonna 6, e ha scritto $\gcd(15, 10) = 5$ nella riga 15, colonna 10. Qual è il prodotto di tutti i numeri della tabella?
-> 
+> Esmeralda ha disegnato una tabella con 100 righe e 100 colonne e ha scritto $\gcd(i, j)$ nella riga $i$ e nella colonna $j$ della tabella. Per esempio, ha scritto $\gcd(4, 6) = 2$ nella riga 4, colonna 6, e ha scritto $\gcd(15, 10) = 5$ nella riga 15, colonna 10. Qual è il prodotto di tutti i numeri presenti nella tabella?
+>
 > **A)** $100!^{99}$ $\quad$ **B)** $100!^{100}$ $\quad$ **C)** $100!^{101}$ $\quad$ **D)** $\text{mmc}(1,2,3,\ldots,100)^{99}$ $\quad$ **E)** $\text{mdc}(1,2,3,\ldots,100)^{99}$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2012_n3_f1#q25|src_obm_2012_n3_f1__Q25]]

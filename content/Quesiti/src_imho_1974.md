@@ -31,11 +31,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco delle carte: chi ha ricevuto r gettoni nell'ultimo turno?*
+*Gioco di carte: chi ha ricevuto r contatori nell'ultimo round?*
 
-> Tre giocatori $A$, $B$ e $C$ giocano il seguente gioco. Su ciascuna di tre carte è scritto un numero intero. Questi tre numeri $p$, $q$, $r$ soddisfano $0 < p < q < r$. Le tre carte vengono mescolate e una viene distribuita a ciascun giocatore. Ognuno riceve poi il numero di gettoni indicato dalla carta. Successivamente le carte vengono mescolate nuovamente; i gettoni rimasti con i giocatori.
-> 
-> Questo processo (mescolamento, distribuzione, consegna dei gettoni) si svolge per almeno due turni. Dopo l'ultimo turno, $A$ ha in totale 20 gettoni, $B$ ne ha 10 e $C$ ne ha 9. Nell'ultimo turno, $B$ ha ricevuto $r$ gettoni. Chi ha ricevuto $r$ gettoni nel primo turno?
+> Tre giocatori, $A$, $B$ e $C$, giocano al seguente gioco. Su ciascuna delle tre carte è scritto un numero intero. Questi tre numeri, $p$, $q$, $r$, soddisfano $0 < p < q < r$. Le tre carte vengono mescolate e a ciascun giocatore ne viene distribuita una. Ciascuno riceve poi il numero di segnalini indicato dalla carta. Poi le carte vengono mescolate di nuovo; i segnalini restano presso i giocatori.
+>
+> Questo processo (mescolare, distribuire le carte, assegnare i segnalini) si svolge per almeno due turni. Dopo l'ultimo turno, $A$ ha in totale 20 segnalini, $B$ ne ha 10 e $C$ ne ha 9. Nell'ultimo turno, $B$ ha ricevuto $r$ segnalini. Chi ha ricevuto $r$ segnalini nel primo turno?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1974#q01|src_imho_1974__Q01]]
 
 
 
@@ -59,10 +66,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizione della media geometrica tramite disuguaglianza seno nel triangolo ABC*
+*Condizione della media geometrica tramite disuguaglianza del seno nel triangolo ABC*
 
-> Nel triangolo $ABC$, si dimostri che esiste un punto $D$ sul lato $AB$ tale che $CD$ sia la media geometrica di $AD$ e $DB$ se e solo se
+> Nel triangolo $ABC$, dimostrare che esiste un punto $D$ sul lato $AB$ tale che $CD$ è la media geometrica di $AD$ e $DB$ se e solo se
 > $$\sin A \sin B \le \sin^2\frac{C}{2}.$$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1974#q02|src_imho_1974__Q02]]
 
 
 
@@ -85,9 +99,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Somma con coefficienti binomiali non divisibili per 5*
+*Una somma binomiale non è divisibile per 5*
 
-> Si dimostri che il numero $\sum_{k=0}^{n} \binom{2n+1}{2k+1} 2^{3k}$ non è divisibile per 5 per nessun intero $n \ge 0$.
+> Dimostrare che il numero $\sum_{k=0}^{n} \binom{2n+1}{2k+1} 2^{3k}$ non è divisibile per 5 per alcun intero $n \ge 0$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_imho_1974#q03|src_imho_1974__Q03]]
 
 
 
@@ -113,12 +134,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scomposizione della scacchiera in rettangoli, massimo numero di caselle bianche*
+*Decomposizione della scacchiera in rettangoli, numero massimo di caselle bianche*
 
-> Si considerino le decomposizioni di una scacchiera $8 \times 8$ in $p$ rettangoli non sovrapposti, soggette alle seguenti condizioni:
-> (i) Ogni rettangolo ha lo stesso numero di caselle bianche e nere.
-> (ii) Se $a_i$ è il numero di caselle bianche nel rettangolo $i$-esimo, allora $a_1 < a_2 < \cdots < a_p$.
-> Determinare il massimo valore di $p$ per cui tale decomposizione è possibile. Per questo valore di $p$, determinare tutte le possibili successioni $a_1, a_2, \ldots, a_p$.
+> Si considerino le decomposizioni di una scacchiera $8 \times 8$ in $p$ rettangoli non sovrapposti, soggette alle seguenti condizioni: (i) ciascun rettangolo ha lo stesso numero di caselle bianche e di caselle nere. (ii) Se $a_i$ è il numero di caselle bianche nel rettangolo $i$-esimo, allora $a_1 < a_2 < \cdots < a_p$. Si determini il valore massimo di $p$ per cui una tale decomposizione è possibile. Per questo valore di $p$, si determinino tutte le sequenze $a_1, a_2, \ldots, a_p$ possibili.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imho_1974#q04|src_imho_1974__Q04]]
 
 
 
@@ -143,11 +168,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutti i possibili valori di una somma ciclica di quattro frazioni*
+*Trovare tutti i valori possibili di una somma ciclica di quattro frazioni*
 
-> Determinare tutti i possibili valori di
+> Determinare tutti i valori possibili di
 > $$S = \frac{a}{a+b+d} + \frac{b}{a+b+c} + \frac{c}{b+c+d} + \frac{d}{a+c+d}$$
 > dove $a, b, c, d$ sono numeri positivi arbitrari.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1974#q05|src_imho_1974__Q05]]
 
 
 
@@ -170,6 +202,13 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Limite sugli interi per cui il quadrato del polinomio vale 1*
+*Vincolati agli interi in cui i quadrati polinomiali valgono 1*
 
-> Sia $P$ un polinomio non costante a coefficienti interi. Se $n(P)$ è il numero di interi distinti $k$ tali che $(P(k))^2 = 1$, si dimostri che $n(P) - \deg(P) \le 2$, dove $\deg(P)$ indica il grado del polinomio $P$.
+> Sia $P$ un polinomio non costante a coefficienti interi. Se $n(P)$ è il numero di interi distinti $k$ tali che $(P(k))^2 = 1$, si dimostri che $n(P) - \deg(P) \le 2$, dove $\deg(P)$ denota il grado del polinomio $P$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1974#q06|src_imho_1974__Q06]]

@@ -34,11 +34,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integers between -20,16 and 3,17*
+*How many integers are there between -20.16 and 3.17?*
 
-> How many integers are there between −20,16 and 3,17? A) 16 B) 17 C) 20 D) 23 E) 24
+> How many integers are there between −20.16 and 3.17?
+> A) 16
+> B) 17
+> C) 20
+> D) 23
+> E) 24
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q01|src_kangourou_2016_cadet_marzo__Q01]]
 
 
 
@@ -69,13 +78,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Traffic signal with more axes of symmetry*
+*Road sign with multiple axes of symmetry*
 
 ![[src_kangourou_2016_cadet_marzo__prob2.png]]
 
-> Which of the following road signs has the most axes of symmetry? A) B) C) D) E)
+> Which of the following road signs has the greatest number of axes of symmetry?
+> A)
+> B)
+> C)
+> D)
+>        E)
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q02|src_kangourou_2016_cadet_marzo__Q02]]
 
 
 
@@ -104,11 +123,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*resulting in the sum of 26*
+*Result by adding 26*
 
-> Instead of adding 26 to a certain number, Rita subtracted it and got -14. What number would she have got if she had actually added 26? A) 12 B) 14 C) 36 D) 38 E) 40
+> Instead of adding 26 to a certain number, Rita subtracted 26 and got –14. What number would she have gotten if she had actually added 26?
+> A) 12
+> B) 14
+> C) 36
+> D) 38
+> E) 40
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q03|src_kangourou_2016_cadet_marzo__Q03]]
 
 
 
@@ -143,9 +171,18 @@ level: kangourou
 
 ![[src_kangourou_2016_cadet_marzo__prob4.png]]
 
-> Consider the two shaded angles in the figure. How many degrees does their sum measure? A) 150 B) 180 C) 270 D) 320 E) 360
+> Consider the two shaded angles in the figure. How many degrees is their sum?
+> A) 150
+> B) 180
+> C) 270
+> D) 320
+> E) 360
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q04|src_kangourou_2016_cadet_marzo__Q04]]
 
 
 
@@ -175,11 +212,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many bags*
+*How many bags*
 
-> Kanga collected the candy contained in 555 packs of 9 candies each in a single heap and now packs bags of 15 candies each. How many bags will he have? A) 999 B) 925 C) 555 D) 333 E) 111
+> Kanga has gathered into one pile all the candies from 555 packets containing 9 candies each, and is now packing them into bags holding 15 candies each. How many bags will be enough for him?
+> A) 999
+> B) 925
+> C) 555
+> D) 333
+> E) 111
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q05|src_kangourou_2016_cadet_marzo__Q05]]
 
 
 
@@ -214,14 +260,11 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which drawing*
+*Which design*
 
 ![[src_kangourou_2016_cadet_marzo__prob6.png]]
 
-> Gianni flips a square cardboard on which some
-> triangles are drawn along its lower edge and then flips it again
-> along the right edge, as the figure shows you.
-> Which of the five drawings does he see in the dashed outline?
+> Gianni flips a square piece of cardboard on which triangles are drawn along its lower edge, and then flips it again along the right edge, as the figure shows you. Which of the five drawings does he see in the dashed outline?
 > A)
 > B)
 > C)
@@ -230,7 +273,11 @@ level: kangourou
 > ?
 >
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q06|src_kangourou_2016_cadet_marzo__Q06]]
 
 
 
@@ -264,19 +311,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*who use a car*
+*How many people use cars*
 
-> In my school, only 12 percent of teachers come to school by car, while 60 percent, or 45 people, use public transport. How many teachers use the car to get to school? A) 4
-> 	
-> B) 6
-> 	
-> C) 9
-> 	
-> D) 10
-> 	
+> At my school, only 12% of the teachers come to school by car, while 60%, that is, 45 people, use public transport. How many teachers use a car to get to school?
+> A) 4	
+>
+> B) 6	
+>
+> C) 9	
+>
+> D) 10	
+>
 > E) 12
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q07|src_kangourou_2016_cadet_marzo__Q07]]
 
 
 
@@ -315,13 +367,20 @@ level: kangourou
 
 ![[src_kangourou_2016_cadet_marzo__prob8.png]]
 
-> The figure shows a rectangle with a minor side measuring 10 cm, two tangent circles, each tangent to three sides of the rectangle, and four segments, each connecting a vertex of the rectangle with the middle point of the opposite major side. How many square centimeters measure the overall grey-colored surface? A) 50
-> 	
-> B) 80
-> 	
-> C) 100 D) 120 E) 150
+> The figure shows a rectangle whose shorter side measures 10 cm, two circles tangent to each other, each tangent to three sides of the rectangle, and four line segments, each connecting a vertex of the rectangle to the midpoint of the opposite longer side. What is the total area, in square centimetres, of the grey-coloured region?
+> A) 50	
+>
+>  B) 80	
+>
+> C) 100	 	
+> D) 120	    	
+>  E) 150
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q08|src_kangourou_2016_cadet_marzo__Q08]]
 
 
 
@@ -356,19 +415,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number not possible*
+*Impossible number*
 
-> Alessio has two strings, one 1 meter long and the other 2 meters long. He cuts them and all the pieces of rope he gets are the same length. Which of the following cannot be the total number of pieces of rope obtained? A) 6
-> 	
-> B) 8
-> 	
-> C) 9
-> 	
-> D) 12
-> 	
+> Alessio has two ropes: one is 1 meter long and the other is 2 meters long. He cuts them, and all the pieces of rope he gets are the same length. Which of the following cannot be the total number of pieces of rope obtained?
+> A) 6	
+>
+> B) 8	
+>
+> C) 9	
+>
+> D) 12	
+>
 > E) 15
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q09|src_kangourou_2016_cadet_marzo__Q09]]
 
 
 
@@ -407,23 +472,27 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*paths*
+*routes*
 
 ![[src_kangourou_2016_cadet_marzo__prob10.png]]
 
-> Four squares P, Q, R, S are connected to each other by some roads according to the pattern shown in the figure. We want to organize a race that passes through each road exactly once, starting at P and finishing at R. How many possible routes are there for the race?
+> Four squares, P, Q, R, and S, are connected by some roads according to the pattern shown in the figure. We want to organize a race that passes along each road exactly once, starting at P and finishing at R. How many possible routes are there for the race?
+> A) 10	
 >
-> (A) 10
-> 	
 > B) 8	
-> 	
+>
 > C) 6
 > D) 4	
-> 	
+>
 > E) 2
-> Questions 11 to 20 are worth 4 points each.
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q10|src_kangourou_2016_cadet_marzo__Q10]]
 
 
 
@@ -462,17 +531,22 @@ level: kangourou
 
 ![[src_kangourou_2016_cadet_marzo__prob11.png]]
 
-> The figure shows four identical rectangles in a square. The perimeter of each rectangle is 16 cm. How many centimeters does the perimeter of the square measure? A) 16
-> 	
-> B) 20
-> 	
-> C) 24
-> 	
-> D) 28
-> 	
+> The figure shows four identical rectangles contained within a square. The perimeter of each rectangle is 16 cm. How many centimeters is the perimeter of the square?
+> A) 16	
+>
+> B) 20	
+>
+> C) 24	
+>
+> D) 28	
+>
 > E) 32
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q11|src_kangourou_2016_cadet_marzo__Q11]]
 
 
 
@@ -504,19 +578,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how much blue to remove*
+*How many blues to remove*
 
-> Piera has 49 blue pearls and one red. If she wants 90% of the pearls to be blue, how many blue pearls does she need to remove? A) 4
-> 	
-> B) 8
-> 	
-> C) 25
-> 	
-> D) 39
-> 	
+> Piera has 49 blue beads and one red bead. If she wants 90% of the beads to be blue, how many blue beads does she need, and how many beads should she simply remove?
+> A) 4	
+>
+> B) 8	
+>
+> C) 25	
+>
+> D) 39	
+>
 > E) 40
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q12|src_kangourou_2016_cadet_marzo__Q12]]
 
 
 
@@ -545,12 +624,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which fraction is closest to 1/2*
+*Which fraction is closest to 1/2?*
 
-> Which of the following fractions has a value closer to 1/2 ? A) 25/79 B) 27/59 C) 29/57 D) 52/79 E) 57/92
+> Which of the following fractions has a value closest to 1/2?
+> A) 25/79	
+> B) 27/59	
+> C) 29/57	
+> D) 52/79	
+> E) 57/92
 >
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q13|src_kangourou_2016_cadet_marzo__Q13]]
 
 
 
@@ -581,11 +669,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*who played the final*
+*Who played in the final*
 
-> Mauro transcribes the results of the quarter-finals, semi-finals and the final of a knockout tournament. The results, in an order that does not necessarily reflect that of the matches, are: Bruno beats Alex, Carlo beats Dino, Gianni beats Luigi, Gianni beats Carlo, Carlo beats Bruno, Enrico beats Franco and Gianni beats Enrico. Which pair of players played the final? A) Gianni and Luigi B) Gianni and Carlo C) Carlo and Bruno D) Gianni and Enrico E) Carlo and Dino
+> Mauro records the results of the quarter-finals, semi-finals, and final of a single-elimination tournament. The results, in an order that does not necessarily reflect the order in which the matches were played, are: Bruno beats Alex, Carlo beats Dino, Gianni beats Luigi, Gianni beats Carlo, Carlo beats Bruno, Enrico beats Franco, and Gianni beats Enrico. Which pair of players played in the final?
+> A) Gianni and Luigi
+> B) Gianni and Carlo
+> C) Carlo and Bruno
+> D) Gianni and Enrico
+> E) Carlo and Dino
 
-**Answer:** B
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q14|src_kangourou_2016_cadet_marzo__Q14]]
 
 
 
@@ -616,19 +713,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*image never seen*
+*Never-seen image*
 
 ![[src_kangourou_2016_cadet_marzo__prob15.png]]
 
-> Anna glued some small cubes together and obtained the solid 
-> shown in the figure. She rotates it so that she can observe it from different 
-> angles. Which of the following images will she never be able to see? 
+> Anna has glued some small cubes together and has obtained the solid shown in the figure. She rotates it so that she can observe it from different angles. Which of the following images will she never be able to see?
 >        A)	 	
 >        B)	 	
 >        C)	             	   	
 >              E)
 
-**Answer:** D
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q15|src_kangourou_2016_cadet_marzo__Q15]]
 
 
 
@@ -663,19 +762,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*the sum of all possible years*
+*Sum and possible*
 
-> Today is the birthday of 5 brothers: Leo, Lino and Luca are twins; their brothers, three years younger, Nico and Nino, are also twins. Which of the following numbers can be the sum of the ages of the five brothers? A) 36
-> 	
-> B) 53
-> 	
-> C) 76
-> 	
-> D) 89
-> 	
+> Today is the birthday of 5 siblings: Leo, Lino, and Luca are twins; their younger siblings, Nico and Nino, who are three years younger, are also twins. Which of the following numbers could be the sum of the ages of the five siblings?
+> A) 36	
+>
+> B) 53	
+>
+> C) 76	
+>
+> D) 89	
+>
 > E) 92
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q16|src_kangourou_2016_cadet_marzo__Q16]]
 
 
 
@@ -711,21 +816,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*band length*
+*strip length*
 
 ![[src_kangourou_2016_cadet_marzo__prob17.png]]
 
-> A 3 cm wide strip of paper is light on one face and dark on the other. Mary folds the strip as shown in the figure (the trapezoids, dark, are identical). How long is the strip of paper? A) 36
-> 	
-> B) 48
-> 	
-> C) 54
-> 	
-> D) 57
-> 	
+> A strip of paper 3 cm wide is light on one side and dark on the other. Maria folds the strip as shown in the figure (the dark trapezoids are identical). How many centimeters long is the strip of paper?
+> A) 36	
+>
+> B) 48	
+>
+> C) 54	
+>
+> D) 57	
+>
 > E) 81
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q17|src_kangourou_2016_cadet_marzo__Q17]]
 
 
 
@@ -760,19 +870,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*after how many seconds he reaches*
+*After how many seconds does it reach*
 
-> Two kangaroos Sal and Tino start jumping at the same moment, from the same starting line and in the same direction. They make a leap per second: each Sal jump is 6 meters long, while Tino's first jump is 1 meter long, the second 2, the third 3 and so on. After how many seconds does Tino reach Sal? A) 10
-> 	
-> B) 11
-> 	
-> C) 12
-> 	
-> D) 13
-> 	
+> Two kangaroos, Sal and Tino, start hopping at the same moment, from the same starting line, and in the same direction and orientation. They each make one hop per second: each of Sal's hops is 6 meters long, while Tino's first hop is 1 meter long, his second is 2 meters, his third is 3 meters, and so on. After how many seconds does Tino catch up with Sal?
+> A) 10	
+>
+> B) 11	
+>
+> C) 12	
+>
+> D) 13	
+>
 > E) 14
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q18|src_kangourou_2016_cadet_marzo__Q18]]
 
 
 
@@ -815,16 +930,23 @@ level: kangourou
 
 ![[src_kangourou_2016_cadet_marzo__prob19.png]]
 
-> I had seven ordinary dice, that is, such that the sum of the dots on each pair of opposite faces is 7. I glued them so that on the faces that you come across against each other there are the same number of dots, so I got the solid figure. How many dots are there on the (external) surface of such a solid? A) 24
-> 	
-> B) 90
-> 	
-> C) 95
-> 	
-> D) 105 E) 126
+> I had seven ordinary dice—that is, dice in which the sum of the dots on each pair of opposite faces is 7. I glued them together so that the faces that end up facing each other have the same number of dots; this is how I obtained the solid shown in the figure. How many dots are there on the (outer) surface of this solid?
+> A) 24	
+>
+> B) 90	
+>
+> C) 95	
+>
+> D) 105	 	
+> E) 126
 >
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]], [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q19|src_kangourou_2016_cadet_marzo__Q19]]
 
 
 
@@ -858,17 +980,25 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many boys*
+*How many boys*
 
-> There are 20 students in a class. They were settled in pairs so that exactly one third of the boys had a girl next to them and exactly half of the girls had a boy next to them. How many kids are in the class? A) 18
-> 	
-> B) 12
-> 	
-> C) 15
-> 	
-> D) 16 E) The situation described can never occur. The questions from N. 21 to N. 30 are worth 5 points each.
+> There are 20 students in a class. They have been lined up in pairs so that exactly one third of the boys have a girl beside them and exactly half of the girls have a boy beside them. How many boys are there in the class?
+> A) 18	
+>
+> B) 12	
+>
+> C) 15	
+>
+> D) 16              
+> E) The situation described can never occur.
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]], [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q20|src_kangourou_2016_cadet_marzo__Q20]]
 
 
 
@@ -904,21 +1034,26 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of lengths p,q,r,s*
+*sum of lengths p, q, r, s*
 
 ![[src_kangourou_2016_cadet_marzo__prob21.png]]
 
-> The figure shows how I colored some regions within a square of 64 cm2. The total area of the coloured regions is 48 cm2. How many centimetres does the sum of the lengths of the segments indicated in the figure with p, q, r, s (each of which is part of the edge of one of the coloured regions) measure? A) 4
-> 	
-> B) 6
-> 	
-> C) 8
-> 	
-> D) 12
-> 	
+> The figure shows how I have colored some regions inside a square with an area of 64 cm². The total area of the colored regions is 48 cm². How many centimetres is the sum of the lengths of the line segments marked in the figure as p, q, r, and s (each of which is part of the boundary of one of the colored regions)?
+> A) 4	
+>
+> B) 6	
+>
+> C) 8	
+>
+> D) 12	
+>
 > E) 16
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q21|src_kangourou_2016_cadet_marzo__Q21]]
 
 
 
@@ -948,11 +1083,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-What does Paul think?
+*What Paolo is thinking now*
 
-> Peter's watch is 10 minutes behind, but he thinks it's 5 minutes ahead. Paul's watch is 5 minutes ahead, but he thinks it's 10 minutes behind. Both look at their watch at the same time: Peter thinks it's 12:00. What time does Paul think it is? A) 11:30 B) 11:45 C) 12:00 D) 12:30 E) 12:45
+> Pietro's watch is 10 minutes behind, but he thinks it is 5 minutes ahead. Paolo's watch is 5 minutes ahead, but he thinks it is 10 minutes behind. Both look at their own watches at the same moment: Pietro thinks it is 12:00. What time does Paolo think it is?
+> A) 11:30	
+> B) 11:45		
+> C) 12:00	
+> D) 12:30	
+> E) 12:45
 
-**Answer:** E
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]], [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q22|src_kangourou_2016_cadet_marzo__Q22]]
 
 
 
@@ -985,19 +1129,24 @@ What does Paul think?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many with two ice creams*
+*How many with two ice creams*
 
-> Twelve girls went to an ice cream parlor together, each eating an average of one and a half ice creams. Two girls didn't eat ice creams; the others ate one or two. How many girls ate two ice creams? A) 2
-> 	
-> B) 5
-> 	
-> C) 6
-> 	
-> D) 7
-> 	
+> Twelve girls went to the ice cream parlor together: on average, each of them ate one and a half ice creams. Two of the girls didn't eat any ice cream; the others ate either one or two. How many girls ate two ice creams?
+> A) 2	
+>
+> B) 5	
+>
+> C) 6	
+>
+> D) 7	
+>
 > E)  8
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q23|src_kangourou_2016_cadet_marzo__Q23]]
 
 
 
@@ -1036,22 +1185,23 @@ What does Paul think?
 
 *divisor*
 
-> Little Red Riding Hood goes to bring treats to her grandmother and to two other elderly ladies
-> whom she calls grandmother. She leaves with a basket full of treats. Just before she enters
-> each of the grandmothers' houses, the Big Bad Wolf steals half of the treats that at that
-> moment are in the basket. Little Red Riding Hood leaves each grandmother the same number of treats and when she leaves the last house the basket is empty. Which of the following
-> numbers certainly divides the number of treats she started with?
+> Little Red Riding Hood goes to take treats to her grandmother and two other elderly ladies whom she calls grandmother. She sets out with a basket full of treats. Just before she enters each of the grandmothers' houses, the Big Bad Wolf steals half of the treats that are in the basket at that moment. Little Red Riding Hood leaves the same number of treats with each grandmother, and when she leaves the last house, the basket is empty. Which of the following numbers must certainly divide the number of treats she started with?
 > A) 4	
-	
+>
 > B) 5	
-	
+>
 > C) 6	
-	
+>
 > D) 7	
-	
+>
 > E) 9
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q24|src_kangourou_2016_cadet_marzo__Q24]]
 
 
 
@@ -1091,20 +1241,27 @@ What does Paul think?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*grey the day after*
+*grey the day after tomorrow*
 
 ![[src_kangourou_2016_cadet_marzo__prob25.png]]
 
-> The figure shows a cube of 64 cubes, of which exactly one, the one shown, is gray. At dawn of each day, starting tomorrow, all cubes adjacent to a grey small cube will turn grey (two cubes are adjacent if they have a face in common). How many grey cubes will there be the evening of the day after tomorrow? A) 11
-> 	
-> B) 13
-> 	
-> C) 15 D) 16
-> 	
+> The figure shows a cube made up of 64 small cubes: exactly one of them, the one indicated, is grey. At dawn each day, starting tomorrow, all the small cubes adjacent to a grey small cube will become grey (two small cubes are adjacent if they share a face). How many grey small cubes will there be the evening after tomorrow?
+> A) 11	
+>
+> B) 13	
+>
+> C) 15             
+> D) 16	
+>
 > E) 17
 >
 
-**Answer:** C
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q25|src_kangourou_2016_cadet_marzo__Q25]]
 
 
 
@@ -1140,19 +1297,23 @@ What does Paul think?
 
 *sum*
 
-> Some positive integers, all distinct, are written on the board. The product of the two smallest is 16; the product of the two largest is 225. What is the sum of the numbers written on the board?
+> On the blackboard, some positive integers, each different from the others, are written. The product of the two smallest numbers is 16; the product of the two largest numbers is 225. What is the sum of the numbers written on the blackboard?
+> A) 38	
 >
-> A) 38
-> 	
 > B) 42	
-> 	
+>
 > C) 44	
-> 	
+>
 > D) 48	
-> 	
+>
 > E) 243
 
-**Answer:** C
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q26|src_kangourou_2016_cadet_marzo__Q26]]
 
 
 
@@ -1194,17 +1355,22 @@ What does Paul think?
 
 ![[src_kangourou_2016_cadet_marzo__prob27.png]]
 
-> Aldo drew the pentagon of vertices A, B, C, D, and E as you see in the figure. He then drew five circles, each centered on a vertex, so that if two circles center on adjacent vertices, they are tangent externally. Finally, he listed the vertices in increasing order of the radii of the circles centered on them. What is the third vertex on that list? A) A
-> 	
-> B) B
-> 	
-> C) C
-> 	
-> D) D
-> 	
+> Aldo drew the pentagon with vertices A, B, C, D, and E that you see in the figure: next to each side, its length is indicated. He then drew five circles, each centered at a vertex, in such a way that, if two circles have their centers at adjacent vertices, the circles are externally tangent. Finally, he listed the vertices in order of increasing radius of the circles centered at those vertices. What is the third vertex on this list?
+> A) A	
+>
+> B) B	
+>
+> C) C	
+>
+> D) D	
+>
 > E) E
 
-**Answer:** B
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q27|src_kangourou_2016_cadet_marzo__Q27]]
 
 
 
@@ -1240,13 +1406,23 @@ What does Paul think?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*max integer at the summit*
+*max whole at the vertex*
 
 ![[src_kangourou_2016_cadet_marzo__prob28.png]]
 
-> On each of the 14 cubes of the pyramid in the figure Gaia wrote a different positive integer. The sum of the 9 integers written on the cubes at the base is 50. The whole written on every other cube is the sum of the whole written on the four cubes below it. What's the biggest whole Gaia could have written on the cube at the top? A) 120 B) 118 C) 110 D) 104 E) 102
+> On each of the 14 cubes in the pyramid shown in the figure, Gaia has written a different positive integer. The sum of the 9 integers written on the cubes at the base is 50. The integer written on each other cube is the sum of the integers written on the four cubes beneath it. What is the largest integer that Gaia could have written on the top cube?
+> A) 120	 	
+> B) 118	 	
+> C) 110	 	
+> D) 104	 	
+> E) 102
 
-**Answer:** C
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q28|src_kangourou_2016_cadet_marzo__Q28]]
 
 
 
@@ -1280,17 +1456,24 @@ What does Paul think?
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many passengers*
+*How many passengers*
 
-> A train has five carriages, each carrying at least one passenger. We'll say "nearby" two passengers if they're in the same carriage or in adjacent carriages. Each passenger has exactly 5 or 10 neighbours. How many passengers are on the train? A) 13
-> 	
-> B) 15
-> 	
-> C) 17
-> 	
-> D) 20 E) There is more than one possibility.
+> A train has five carriages, and each carriage contains at least one passenger. We will call two passengers "neighbors" if they are in the same carriage or in adjacent carriages. Each passenger has exactly either 5 or 10 "neighbors". How many passengers are on the train?
+> A) 13	
+>
+> B) 15	
+>
+> C) 17	
+>
+> D) 20             
+> E) There is more than one possibility.
 
-**Answer:** A
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q29|src_kangourou_2016_cadet_marzo__Q29]]
 
 
 
@@ -1329,7 +1512,18 @@ What does Paul think?
 
 ![[src_kangourou_2016_cadet_marzo__prob30.png]]
 
-> A cube of edge 3 consists of 15 black cubes and 12 white cubes. The figure shows five of the six faces of the cube. Which of the following figures (up to rotations) is seen on the sixth face? A)
-> 	
-> B) C) D) E)
+> A cube with edge length 3 is made up of 15 black small cubes and 12 white small cubes. The figure shows five of the six faces of the cube. Which of the following figures (up to rotation) is seen on the sixth face?
+>      A)	
 >
+>         B)	 	
+>          C)		
+>           D)	
+>            E)
+>
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2016_cadet_marzo#q30|src_kangourou_2016_cadet_marzo__Q30]]

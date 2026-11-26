@@ -37,11 +37,20 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Larger of the two unknowns in the 2x2 table*
+*The larger of the two unknowns in the 2x2 table*
 
-> In the cells of a 2 x 2 table, the numbers 3 and 4 and two unknown numbers are written (one per cell). You know the sum of the numbers in one row is 5, the sum of the numbers in the other row is 10, and the sum of the numbers in one column is 9. Which is the larger of the two unknown numbers? A) 5 B) 6 C) 7 D) 8 E) 3
+> In the cells of a 2 x 2 table, the numbers 3 and 4, along with two unknown numbers (one in each cell), are written. It is known that the sum of the numbers in one row is 5, the sum of the numbers in the other row is 10, and the sum of the numbers in one column is 9. What is the larger of the two unknown numbers?
+> A) 5
+> B) 6
+> C) 7
+> D) 8
+> E) 3
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q01|src_kangourou_2008_student_marzo__Q01]]
 
 
 
@@ -70,11 +79,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of x^2008/y^2008 with x+y=0*
+*Value of x^2008/y^2008 given x+y=0*
 
-> If x + y = 0 and x ≠y, then = A) −1 B) 0 C) 1 D) 22008 E) x/y
+> If x + y = 0 and x ≠ y, then
+> =
+> A) −1
+> B) 0
+> C) 1
+> D) 22008
+> E) x/y
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q02|src_kangourou_2008_student_marzo__Q02]]
 
 
 
@@ -106,11 +125,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many cells remain after deletion (33x21)*
+*How many cells remain after deletions (33x21)*
 
-> In a rectangular table 33 x 21, the rows are numbered from 1 to 33 and the columns are numbered from 1 to 21. We delete the rows whose number is not a multiple of 3 and the columns whose number is even. How many cells are left in the table? A) 110 B) 121 C) 115,5 D) 119 E) 242
+> In a rectangular table measuring 33 x 21, the rows are numbered from 1 to 33 and the columns are numbered from 1 to 21. Let's delete the rows whose number is not a multiple of 3 and the columns whose number is even. How many cells remain in the table?
+> A) 110
+> B) 121
+> C) 115,5
+> D) 119
+> E) 242
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q03|src_kangourou_2008_student_marzo__Q03]]
 
 
 
@@ -140,11 +169,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many prime p such that p^4+1 is prime*
+*How many primes p are such that p^4+1 is prime?*
 
-> How many prime numbers p have the property that p^4+1 is also prime? (Remember that 1 is not a prime number.) A) None B) 1 C) 2 D) 3 E) Infinitely many
+> How many prime numbers p have the property that p^4 + 1 is also prime? (Remember that 1 is not a prime number.)
+> A) None
+> B) 1
+> C) 2
+> D) 3
+> E) Infiniti
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q04|src_kangourou_2008_student_marzo__Q04]]
 
 
 
@@ -195,34 +234,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Water part in B (river bifurcations)*
+*Part of the water in B (river bifurcations)*
 
 ![[src_kangourou_2008_student_marzo__prob5.png]]
 
-> A river starts at point A. Along its course, it splits into two branches; the first branch receives 2/3 of the water and the second receives the remainder. Further downstream, the first branch splits into three tributaries, of which the first receives 1/8 of the water, the second 5/8, and the third the remainder. Finally, this last tributary meets the second branch from the river's first fork: the diagram below illustrates the situation. What fraction of the initial water flows into point B?
+> A river begins at point A. Along its course, it splits into two branches; the first branch receives 2/3 of the water and the second receives the rest. Further on, the first branch splits into three sub-branches, of which the first receives 1/8 of the water, the second receives 5/8, and the third receives the rest. Finally, this last sub-branch meets the second branch of the river's first bifurcation: the map below illustrates the situation. What fraction of the initial water flows to point B? x2008 y2008 A B 2 3 1 8 5 8 Testi_08.qxp 9-03-2008 14:56 Page 28
 >
-> x2008
-> y2008
-> A
-> B
-> 2/3
-> 1/8
-> 5/8
->
-> Testi_08.qxp 9-03-2008 14:56 Pagina 28
-> 
-> Page
-> Page 29
-> 29
-> Kang 2008
-> Kang 2008
-> A)
-> B)
-> C)
-> D)
+> Pag. Pag. 29 29 Kang 2008 Kang 2008
+> A) 
+> B) 
+> C) 
+> D) 
 > E)
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q05|src_kangourou_2008_student_marzo__Q05]]
 
 
 
@@ -271,7 +300,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measure the ACB angle (isosceles triangle with D)*
+*Measure angle ACB (isosceles triangle with D)*
 
 ![[src_kangourou_2008_student_marzo__prob6.png]]
 
@@ -292,9 +321,19 @@ level: kangourou
 \end{document}
 ```
 
-> An isosceles triangle ABC (CA = CB) is given. The point D on side AB is such that AD = AC and DB = DC (see figure). So the measurement of the ACB angle is A) 98° B) 100° C) 104° D) 108° E) 110°
+> An isosceles triangle ABC is given (CA = CB). The point D
+> On side AB, it is such that AD = AC and DB = DC (see figure). Then the measure of angle ACB is
+> A) 98° 
+> B) 100°
+> C) 104°
+> D) 108°
+> E) 110°
 
-**Answer:** D
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q06|src_kangourou_2008_student_marzo__Q06]]
 
 
 
@@ -327,11 +366,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of cards from the first wise man (parity)*
+*Sum of the cards in the first trial (draw)*
 
-> A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first wise man, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is even". How much is the sum of the numbers shown on the cards the first wise man read? A) 10 B) 12 C) 6 D) 9 E) 15
+> A box contains seven cards numbered from 1 to 7. Two wise men draw cards from the box at random: the first draws three, and the second draws two of the remaining cards; the last two stay in the box. After looking only at the numbers written on the cards he has drawn, the first wise man says to the second: "I am certain that the sum of the numbers on your cards is even." What is the value of the sum of the numbers on the cards drawn by the first wise man?
+> A) 10
+> B) 12
+> C) 6
+> D) 9
+> E) 15
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q07|src_kangourou_2008_student_marzo__Q07]]
 
 
 
@@ -376,7 +425,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*y-coordinate d of point D on the circle*
+*Ordinate d of point D on the circle*
 
 ![[src_kangourou_2008_student_marzo__prob8.png]]
 
@@ -393,9 +442,19 @@ level: kangourou
 \end{document}
 ```
 
-> In the circle drawn in the figure, AB is a diameter. Determine the y-coordinate d of point D. A) 3 B) C) 4 D) 5 E) 6
+> In the circle shown in the figure, AB is a diameter. Determine the ordinate d of point D.
+> A) 3
+> B) 
+> C) 4
+> D) 5
+> E) 6
 
-**Answer:** B
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q08|src_kangourou_2008_student_marzo__Q08]]
 
 
 
@@ -425,9 +484,18 @@ level: kangourou
 
 *Value of xyz from x^2yz^3 and xy^2*
 
-> We know that x2yz3 is 73 and xy2 is 79. So xyz is equal to A) 74 B) 76 C) 78 D) 79 E) 710
+> We know that x²yz³ = 73 and xy² = 79. Then xyz =
+> A) 74
+> B) 76
+> C) 78
+> D) 79
+> E) 710
 
-**Answer:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q09|src_kangourou_2008_student_marzo__Q09]]
 
 
 
@@ -461,9 +529,20 @@ level: kangourou
 
 *Pairs of digits for 2__8 divisible by 3*
 
-> You want to put a digit in every empty place of the 2_ _8 alignment so you get a four-digit number divisible by 3. How many choices do you have for the (ordered) pair of digits to enter? A) 29 B) 30 C) 19 D) 20 E) 33 Questions from N. 11 to N. 20 are worth 4 points each.
+> You want to place a digit in each empty spot in the sequence 2_ _8 so as to obtain a four-digit number divisible by 3. How many choices do you have for the (ordered) pair of digits to insert?
+> A) 29
+> B) 30
+> C) 19
+> D) 20
+> E) 33
+> Questions 11 to 20 are each worth 4 points.
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q10|src_kangourou_2008_student_marzo__Q10]]
 
 
 
@@ -519,44 +598,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which number to exclude for three equal-sum pairs*
+*Which number should be excluded for three equal-sum pairs?*
 
-> You have the following seven numbers:  –9 ; 0 ; –5 ; 5 ; –4 ; –1 ; –3. Using six of
-> them you want to form three pairs in such a way that the sum of the numbers of each pair is always the same. Which number must you exclude? 
+> You have the following seven numbers: –9; 0; –5; 5; –4; –1; –3. Using six of them, you want to form three pairs such that the sum of the numbers in each pair is always the same. Which number must you exclude?
 > A) 5
 > B) 0
 > C) –3
 > D) –4
 > E) –5
-> 2 √3
-> 1
-> 4
-> 1
-> 2
-> 2
-> 9
-> 5
-> 4
-> 1
-> 3
-> A
-> D
-> B
-> C
-> X
-> Y
-> A(-2, 0)
-> B(8, 0)
-> D(0, d)
-> Testi_08.qxp  9-03-2008  14:56  Pagina 29
-> 
-> Pag. 
-> Pag. 30
-> 30
-> Kang 2008
-> Kang 2008
+> 2 √3 1 4 1 2 2 9 5 4 1 3 A D B C X Y A(-2, 0) B(8, 0) D(0, d) Testi_08.qxp 9-03-2008 14:56 Page 29
+>
+> Pag. Pag. 30 30 Kang 2008 Kang 2008
 
-**Answer:** E
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q11|src_kangourou_2008_student_marzo__Q11]]
 
 
 
@@ -588,13 +646,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diagonal length AB of the parallelepiped*
+*Length AB, diagonal of the parallelepiped*
 
 ![[src_kangourou_2008_student_marzo__prob12.png]]
 
-> The length of the edge of each of the cubes in the figure is 1. What is the length of the AB segment? A) B) 7 C) D) E)
+> The length of the edge of each of the cubes in
+> The figure is 1. What is the length of segment AB?
+> A) 
+> B) 7 
+> C) 
+> D) 
+> E)
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q12|src_kangourou_2008_student_marzo__Q12]]
 
 
 
@@ -628,11 +697,22 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total points from Roberto on the five problems*
+*Roberto's total points on the five problems*
 
-> Five problems are proposed in a mathematical contest. The scores assigned to them are all different from each other and are all positive integers. Roberto solved all five problems correctly, scoring a total of 10 points for the two problems with the lowest scores and 18 points for the two problems with the highest scores. How many points did Roberto get in total for the five problems? A) 30 B) 32 C) 34 D) 35 E) 40
+> In a math competition, five problems are presented. The scores awarded for them are all different from one another and are all positive integers. Roberto solved all five problems correctly and scored 10 points.
+> In total, for the two problems with the lower scores, there are 18 points in total for the two problems with the higher scores. How many points did Roberto get in total for the five problems?
+> A) 30
+> B) 32
+> C) 34
+> D) 35
+> E) 40
 
-**Answer:** D
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q13|src_kangourou_2008_student_marzo__Q13]]
 
 
 
@@ -663,19 +743,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Kangaroos of a single colour (inclusion-exclusion)*
+*Single-color kangaroos (inclusion-exclusion)*
 
-> Matilde drew 36 kangaroos using three distinct colours. White was
-> used for 25 kangaroos, red for 28 and black for 20. Only for 5 kangaroos were all three colours used. How many of the
-> drawn kangaroos are of a
-> single colour? 
+> Matilde drew 36 kangaroos using three distinct colors. White was used for 25 kangaroos, red for 28, and black for 20. All three colors were used for only 5 kangaroos. How many of the kangaroos drawn are in a single color?
 > A) 0
 > B) 4
 > C) 12
 > D) 31               
 > E) It is not possible to determine it.
 
-**Answer:** B
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q14|src_kangourou_2008_student_marzo__Q14]]
 
 
 
@@ -725,7 +807,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Shaded region area (three tangent circles)*
+*Shaded region (three mutually tangent circles)*
 
 ![[src_kangourou_2008_student_marzo__prob15.png]]
 
@@ -748,9 +830,19 @@ level: kangourou
 \end{document}
 ```
 
-> Look at the figure. Three radius 1 circles are two to two tangents externally. How much is the shaded area worth? A) B) C) D) E)
+> Observe the figure. Three circles with radius 1.
+> They are externally tangent in pairs. What is the area of the shaded region?
+> A) 
+> B) 
+> C) 
+> D) 
+> E)
 
-**Answer:** A
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q15|src_kangourou_2008_student_marzo__Q15]]
 
 
 
@@ -781,15 +873,17 @@ level: kangourou
 
 *Volume of a parallelepiped with edges in geometric progression*
 
-> The lengths of the edges of a rectangular parallelepiped, measured in
-> centimetres, are integers and form a geometric progression with
-> ratio q = 2. Which of the following measurements, in cubic centimetres, can represent the volume of the solid?
+> The edge lengths of a right rectangular parallelepiped, measured in centimeters, are integers and form a geometric progression with common ratio q = 2. Which of the following measures, in cubic centimeters, can represent the volume of the solid?
 > A) 120 
 > B) 188 
 > C) 350 
-> D) 500      E) None
+> D) 500 E) None
 
-**Answer:** E
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q16|src_kangourou_2008_student_marzo__Q16]]
 
 
 
@@ -844,11 +938,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Signs and fraction value (negative)*
+*Sign and value of the (negative) fraction*
 
-> The numerator and denominator of a fraction are negative numbers and the numerator is greater than one of the denominator. Which of the following statements is true? A) The fraction is a number less than -1. B) The fraction is a number between -1 and 0. C) The fraction is a positive number less than 1. D) The fraction is a number greater than 1. E) It cannot be established whether the fraction is a positive or a negative number. 1 3 π - 1 2 √3 (√3 - 3 2) π 1 8 π 1 2 π - 1 2 √3 √3 - 1 2 π √14 √7 √13 √17 A B 1 Tests_08.qxp 9-03-2008 14:56 Page 30
+> The numerator and denominator of a fraction are negative numbers, and the numerator is one greater than the denominator. Which of the following statements is true?
+> A) The fraction is a number less than -1.
+> B) The fraction is a number between -1 and 0.
+> C) A fraction is a positive number less than 1.
+> D) The fraction is a number greater than 1.
+> E) It cannot be determined whether the fraction is a positive or negative number.
+> 1 3 π - 1 2 √3 (√3 - 3 2 )π 1 8 π 1 2 π - 1 2 √3 √3 - 1 2 π √14 √7 √13 √17 A B 1 Testi_08.qxp 9-03-2008 14:56 Page 30
+>
+> Pag. Pag. 31 31 Kang 2008 Kang 2008
 
-**Answer:** C
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q17|src_kangourou_2008_student_marzo__Q17]]
 
 
 
@@ -880,11 +986,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Point P which minimizes sum of distances (5 points)*
+*Point P that minimizes the sum of distances (5 points)*
 
-> Five distinct points A1, A2, A3, A4 and A5 are arranged in a straight line. A point P on the same line is chosen so that the sum of the distances PA1 + PA2 + PA3 + PA4 + PA5 is minimal. It can be said that point P is A) Necessarily A1. B) A2 as necessary. C) A3 as necessary. D) Any point between A2 and A4. E) Any point between A1 and A5.
+> Five distinct points A1, A2, A3, A4, and A5 are arranged in that order on a straight line. A point P is chosen on the same line such that the sum of the distances PA1 + PA2 + PA3 + PA4 + PA5 is minimal. It can be asserted that point P is
+> A) Necessarily A1.
+> B) Necessarily A2.
+> C) Necessarily A3.
+> D) Any point between A2 and A4.
+> E) Any point between A1 and A5.
 
-**Answer:** C
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q18|src_kangourou_2008_student_marzo__Q18]]
 
 
 
@@ -928,7 +1044,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Probability of three collinear points*
+*Probability that three points are collinear*
 
 ![[src_kangourou_2008_student_marzo__prob19.png]]
 
@@ -944,15 +1060,19 @@ level: kangourou
 \end{document}
 ```
 
-> Three points are chosen at random from the grid shown. What is the
-> probability that they are collinear? 
+> Randomly select three points from the grid on the side. What is the probability that they are collinear?
 > A) 
 > B) 
 > C) 
 > D) 
 > E)
 
-**Answer:** B
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q19|src_kangourou_2008_student_marzo__Q19]]
 
 
 
@@ -988,13 +1108,24 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of internal facial points of four dice*
+*Sum of the points on the inner faces of four dice*
 
 ![[src_kangourou_2008_student_marzo__prob20.png]]
 
-> Four identical dice are drawn as shown in the figure. The faces of each dice are numbered from 1 to 6, but the dice are not standard, meaning the sum of the points of two opposite faces is not necessarily 7. What is the sum of the points of the six faces each of which comes into contact with some other face? A) 19 B) 20 C) 21 D) 22 E) 23 Questions from N. 21 to N. 30 are worth 5 points each.
+> Four identical dice are placed side by side as in
+> Figure. The faces of each die are numbered from 1 to 6, but the dice are not standard—that is, the sum of the dots on two opposite faces is not necessarily 7. What is the sum of the dots on the 6 faces, each of which comes into contact with some other face?
+> A) 19
+> B) 20
+> C) 21
+> D) 22
+> E) 23
+> Questions 21 to 30 are each worth 5 points.
 
-**Answer:** B
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q20|src_kangourou_2008_student_marzo__Q20]]
 
 
 
@@ -1030,9 +1161,19 @@ level: kangourou
 
 *Probability of returning to the starting point*
 
-> A token placed at the center of a 5 x 5 square grid is moved with horizontal or vertical steps of width one, determined by the simultaneous throwing of a pair of dice, a red and a blue. The red die moves the token one step to the right if an even number comes out and to the left if an odd number comes out, the blue die moves the token one step up if an even number comes out and down if an odd number comes out. What is the probability that after two throws the token will be back at its starting point? A) B) C) D) E)
+> A pawn placed at the center of a 5 x 5 square grid is moved by horizontal or vertical steps of one unit, as determined by the simultaneous roll of a pair of dice—one red and one blue. The red die moves the pawn one step to the right if an even number comes up, and one step to the left if an odd number comes up; the blue die moves the pawn one step upward if an even number comes up, and one step downward if an odd number comes up. What is the probability that, after two rolls, the pawn has returned to its starting point?
+> A) 
+> B) 
+> C) 
+> D) 
+> E)
 
-**Answer:** C
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q21|src_kangourou_2008_student_marzo__Q21]]
 
 
 
@@ -1062,11 +1203,21 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-Product of the two divisors of 3^32-1 between 75 and 85
+*The product of the two divisors of 3^32-1 between 75 and 85*
 
-> The number 3^32 - 1 has exactly two divisors (integers) both greater than 75 and less than 85. How much is the product of these two divisors? A) 5852 B) 6560 C) 6804 D) 6888 E) 6972
+> The number 332 – 1 has exactly two (integer) divisors, both greater than 75 and less than 85. What is the product of these two divisors?
+> A) 5852
+> B) 6560
+> C) 6804
+> D) 6888
+> E) 6972
 
-**Answer:** B
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q22|src_kangourou_2008_student_marzo__Q22]]
 
 
 
@@ -1132,51 +1283,31 @@ Product of the two divisors of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of digits of the product (multiplication with asterisks)*
+*Sum of product terms (multiplication using asterisks)*
 
 ![[src_kangourou_2008_student_marzo__prob23.png]]
 
-> The figure shows a multiplication performed manually in the usual way. Each asterisk represents a digit. The sum of the digits of the product is
->
+> The figure depicts a multiplication that has been carried out.
+> Manually in the usual way. Each asterisk stands in place of a digit. The sum of the digits of the product is
 > A) 16
 > B) 20
 > C) 26
 > D) 30
-> E) none of the above.
->
-> 1
-> 9
-> 1
-> 6
-> 1
-> 4
-> 1
-> 3
-> 1
-> 2
-> 3
-> 12
-> 1
-> 8
-> 1
-> 16
-> 1
-> 11
-> 1
-> 12
+> E) none of the values indicated.
+> 1 9 1 6 1 4 1 3 1 2 3 12 1 8 1 16 1 11 1 12
 > * * *
-> × 1 * *
-> 2 2 * *
-> 9 0 *
+> x 1 * * 2 2 * * 9 0 *
 > * * 2
-> 5 6 * * *
-> 
-> Page
-> Page 32
-> Kang 2008
-> Kang 2008
+> 5 6 * * * Testi_08.qxp 9-03-2008 14:56 Page 31
+>
+> Page Page 32 32 Kang 2008 Kang 2008
 
-**Answer:** A
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q23|src_kangourou_2008_student_marzo__Q23]]
 
 
 
@@ -1208,9 +1339,20 @@ Product of the two divisors of 3^32-1 between 75 and 85
 
 *Value of x^2+y^2+z^2 with constraints*
 
-> It's known that x + y + z = 1 e = 0 So the expression x2 + y2 + z2 A) is 0. B) is 1. C) is 2. D) is 3. E) has a value that cannot be determined without further information.
+> It is known that x + y + z = 1 and
+> = 0 Then the expression x2 + y2 + z2
+> A) equals 0.
+> B) valid 1.
+> C) valid 2.
+> D) is worth 3.
+> E) has a value that cannot be determined without further information.
 
-**Answer:** B
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q24|src_kangourou_2008_student_marzo__Q24]]
 
 
 
@@ -1240,11 +1382,22 @@ Product of the two divisors of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value of k such that a_k=2008 (success)*
+*Value of k such that a_k = 2008 (sequence)*
 
-> Let {an} be a sequence. It is known that a1 = 0 and that, for n ≥ 0, we have an+1 = an + (-1)n. n. If ak = 2008, then the value of k is A) 2008 B) 2009 C) 4017 D) 4018 E) none of the four indicated.
+> Let {an} be a sequence. It is known that a1 = 0 and that,
+> For n ≥ 0, we have a_{n+1} = a_n + (-1)^n · n. If a_k = 2008, then the value of k is
+> A) 2008 
+> B) 2009        
+> C) 4017     
+> D) 4018             
+> E) none of the four indicated.
 
-**Answer:** C
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q25|src_kangourou_2008_student_marzo__Q25]]
 
 
 
@@ -1300,7 +1453,7 @@ Product of the two divisors of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the ADE triangle (inscribed circle)*
+*Perimeter of triangle ADE (inscribed circle)*
 
 ![[src_kangourou_2008_student_marzo__prob26.png]]
 
@@ -1328,9 +1481,19 @@ Product of the two divisors of 3^32-1 between 75 and 85
 \end{document}
 ```
 
-> Look at the figure. In the triangle ABC, a circle is inscribed. You know that AC is equal to 5, AB is equal to 6, BC is equal to 3, and that the ED segment is tangent to the circle. The perimeter of the ADE triangle is A) 7 B) 4 C) 9 D) 6 E) 8
+> Observe the figure. A circle is inscribed in triangle ABC. It is known that |AC| = 5, |AB| = 6, |BC| = 3, and that segment ED is tangent to the circle. The perimeter of triangle ADE is
+> A) 7
+> B) 4
+> C) 9
+> D) 6
+> E) 8
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q26|src_kangourou_2008_student_marzo__Q26]]
 
 
 
@@ -1386,7 +1549,7 @@ Product of the two divisors of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area region shaded in square (M medium)*
+*Area of the shaded region within the square (M medium)*
 
 ![[src_kangourou_2008_student_marzo__prob27.png]]
 
@@ -1413,9 +1576,21 @@ Product of the two divisors of 3^32-1 between 75 and 85
 \end{document}
 ```
 
-> The square ABCD has side length 1 and M is the midpoint of AB. The area of the shaded region is A) 1/14 B) 1/16 C) 1/18 D) 1/13 E) a different value from the previous ones.
+> Square ABCD has a side of length 1, and M is the
+> Midpoint of AB. The area of the shaded region is
+> A) 1/14    
+> B) 1/16    
+> C) 
+> /18
+> D) 1/13    
+> E) a value different from the preceding ones.
 
-**Answer:** E
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q27|src_kangourou_2008_student_marzo__Q27]]
 
 
 
@@ -1446,13 +1621,23 @@ Product of the two divisors of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Measuring the angle ABC between two cubes (Pitagoras)*
+*Measure angle ABC between two cubes (Pythagoras)*
 
 ![[src_kangourou_2008_student_marzo__prob28.png]]
 
-> The two cubes in the figure have a face in common. What is the degree of the angle ABC? A) 90 B) 115 C) 120 D) 135 E) 150
+> The two cubes in the figure share one face. What is the measure, in degrees, of angle ABC?
+> A) 90
+> B) 115
+> C) 120
+> D) 135
+> E) 150
 
-**Answer:** A
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q28|src_kangourou_2008_student_marzo__Q28]]
 
 
 
@@ -1484,13 +1669,23 @@ Product of the two divisors of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many bars for 61 octagons*
+*How many small bars for 61 octagons?*
 
 ![[src_kangourou_2008_student_marzo__prob29.png]]
 
-> Metal bars were used (without folding) to construct this decoration. We know that there are 61 octagons in the decoration. How many bars were used? A) 488 B) 400 C) 328 D) 244 E) 446
+> To construct this decoration, metal rods were used without being bent. It is known that 61 octagons appear in the decoration. How many rods were used?
+> A) 488
+> B) 400
+> C) 328
+> D) 244
+> E) 446
 
-**Answer:** E
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q29|src_kangourou_2008_student_marzo__Q29]]
 
 
 
@@ -1542,12 +1737,27 @@ Product of the two divisors of 3^32-1 between 75 and 85
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2007 numbers with divisible pairs 17 or 23*
+*2007 numbers, digits with pairs divisible by 17 or 23*
 
-> What are the positive integers n of 2007 digits (in decimal representation) with the following property: any two-digit integer consisting of two consecutive digits of n (in the same order in which they appear in n) is divisible by 17 or by 23? A) 5 B) 6 C) 7 D) 9 E) More than 9 √2 1 x + 1 y + 1 z 3 5 6 A D M B C Tests_08.qxp 9-03-2008 14:56 Page 32
-> 
-> Category Student For fourth and fifth year students of secondary school
->  
-> Questions from N.1 to N. 10 is worth 3 points each.
+> How many positive integers n with 2007 digits (in decimal representation) have the following property: every two-digit integer formed from two consecutive digits of n (in the same order in which they appear in n) is divisible by 17 or by 23?
+> A) 5
+> B) 6
+> C) 7
+> D) 9
+> E) More than 9
+> √2 1 x
+> + 1
+> y
+> + 1
+> z 3 5 6 A D M B C Testi_08.qxp 9-03-2008 14:56 Page 32
+>
+> Student Category For fourth- and fifth-year students at the upper secondary school
+>
+> Questions 1 to 10 are each worth 3 points.
 
-**Answer:** D
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_student_marzo#q30|src_kangourou_2008_student_marzo__Q30]]

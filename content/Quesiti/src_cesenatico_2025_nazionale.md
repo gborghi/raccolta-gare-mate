@@ -32,11 +32,17 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum n with n=225 s(n) and n=225 s(n) ^2*
+*The least positive integer n such that n = 225 · s(n), and the least such that n = 225 · s(n)2*
 
-> For every positive integer n, we indicate with s(n) the sum of the digits of n in the normal representation in base 10. For example, s(7) = 7 and s(10654) = 16. (a) Determine the smallest positive integer n such that n = 225 · s(n). (b) Determine the smallest positive integer n such that n = 225 · s(n) 2.
+> For every positive integer n, denote by s(n) the sum of the digits of n in the usual base-10 representation. For example, s(7) = 7 and s(10654) = 16.
+> (a) Determine the least positive integer n such that n = 225 · s(n).
+> (b) Determine the least positive integer n such that n = 225 · s(n)2.
 
-**Answer:** 2025 e 72900
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+
+[[Quesiti/src_cesenatico_2025_nazionale#q01|src_cesenatico_2025_nazionale__Q01]]
 
 
 
@@ -62,11 +68,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer values of a with a single whole solution of the dissection*
+*For which integers a the inequality has exactly one integer solution*
 
-> Determine for which integer values of the set of integers x satisfying the inequality 10x2 + at ≤33x is exactly one element.
+> Determine for which integer values of a the set of integers x that satisfy the inequality 10x2 + a ≤ 33x consists of exactly one element.
 
-**Answer:** 24,25,26
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_casework|Case analysis]], [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+
+[[Quesiti/src_cesenatico_2025_nazionale#q02|src_cesenatico_2025_nazionale__Q02]]
 
 
 
@@ -93,9 +103,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Infinite consecutive pairs with the same parity of p(n)*
+*There are infinitely many consecutive pairs that are both balanced or both unbalanced*
 
-> Given a positive integer n, be pn the number of distinct primes dividing n. For example, p ((12) = 2 and p ((120) = 3. An integer n is said to be balanced if p(n) is even, and imbalanced if p(n) is odd. Demonstrate that there are infinite pairs of consecutive positive integers that are both balanced or both unbalanced.
+> Given a positive integer n, let p(n) be the number of distinct primes that divide n. For example, p(12) = 2 and p(120) = 3. An integer n is called balanced if p(n) is even, and unbalanced if p(n) is odd.
+> Prove that there exist infinitely many pairs of consecutive positive integers that are both balanced or both unbalanced.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2025_nazionale#q03|src_cesenatico_2025_nazionale__Q03]]
 
 
 
@@ -122,11 +139,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum power of 2 as sum of pairs in S*
+*The maximum of d(S) as S ranges over all the aged sets*
 
-> A set S is said to be annual if it is composed of positive real numbers (distinguished) by 2025. For each set of years S, we indicate with d(S) the number of powers of 2, with distinct positive integers, which can be written as the sum of two distinct elements of S. Determine the maximum of dS for the variation of S between all sets of years.
+> A set S is called aged if it consists of 2025 distinct positive real numbers. For every aged set S, denote by d(S) the number of powers of 2, with distinct positive integer exponents, that can be written as a sum of two distinct elements of S.
+> Determine the maximum of d(S) as S ranges over all the aged sets.
 
-**Answer:** 2024
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_conteggio|Combinatorial counting]], [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+
+[[Quesiti/src_cesenatico_2025_nazionale#q04|src_cesenatico_2025_nazionale__Q04]]
 
 
 
@@ -155,11 +177,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Demonstrate GH parallel to BC (bisset and axis)*
+*The lines GH and BC are parallel*
 
-![[src_cesenatico_2025_nazionale__prob5.png]]
+> Let ABC be a triangle and let D be the foot of the bisector from A. The perpendicular bisector of the segment AD meets the circle circumscribed about ABC at E and F, with E and B lying on opposite sides of the line AD. Let G be the intersection of BE and DF, and let H be the intersection of CF and DE.
+> Prove that the lines GH and BC are parallel.
 
-> Both ABC is a triangle and D is the foot of the beetle coming out of A. The axis of the AD segment intersects the circumference circumscribed at ABC in E and F, with E and B being opposite sides to the straight AD. Both G the intersection between BE and DF, and H the intersection between CF and DE. Demonstrate that the GH and BC directions are parallel.
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+[[src_cesenatico_2025_nazionale__prob5.png]]
 
 
 
@@ -235,12 +262,14 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Stop an ant with alpha and beta rotations*
+*For every admissible α and β one can always stop an alphabetical ant with finitely many rotations*
 
-![[src_cesenatico_2025_nazionale__prob6.png]]
+> Let α and β be two angles of positive measure less than 90°. An alphabetical ant is a creature that advances in a straight line on the plane. The ant is extremely heavy, so it cannot be moved from one place to another. It can only be rotated so that it remains at the same point, but is oriented in a different direction of the plane. We may choose the points at which the rotation takes place (which may be as many as we wish) and the new direction in which to set it at each of them, but this is the only operation allowed.
+> When it is rotated, the ant stops for an instant, and may decide to keep the new direction in which it has been set, or to turn further by α clockwise, or by β anticlockwise; then it resumes its march. If the ant passes again through a point at which it was rotated previously, it notices, takes fright, stops and proceeds no further.
+> Prove that for every admissible value of α and β it is always possible to stop an alphabetical ant with a finite number of rotations.
 
-> Let α and β be two angles of positive measure and less than 90°. An alphabetical ant is a being that advances in a straight line on the plane. The ant is extremely heavy, so it cannot be moved from one place to another. It can only be rotated so that it remains at the same point, but is oriented in a different direction from the plane. We can choose the points where the rotation takes place (which can be as many as we want) and the new direction in which to place it in each of them, but this is the only operation allowed. When rotated, the ant stops for a moment, and may decide to keep the new direction in which it was arranged, or to rotate further from α clockwise, or β clockwise; then resume its march. If the ant goes back to a point where it was previously rotated, it notices it, is frightened, stops and stops moving. Demonstrate that for every allowable value of α and β it is always possible to stop an alphabetical ant with a finite number of rotations.
-> 
-> Problem 1  Solution Question (a) The smallest n with the required property is 2025. In fact, from the equation it follows that n is multiple of 225, so in particular multiple of 9. The sum of the digits of multiples of 9 is itself multiples of 9. It follows that s(n) is multiple of 9, and so n is multiple of 225 · 9 = 2025. Since the property is already verified in 2025, it is concluded that it is exactly the minimum n that the verification is. Question (b) The smallest n with the required property is 72 900. In fact, as before we deduce that n is a multiple of 9, and so now n must be a multiple of 225 · 81 = 18 225, which doesn't prove the equation. It follows that s(n) cannot be equal to 9, and the next possibility is s(n) = 18, where n = 225 · 182 = 72 900, which verifies the required property (and consequently is the positive integer minimum that the verification). Observation In both cases it can be shown that 2025 and 72 900 are the only numbers verifying the property. In order to do this, some inequality is needed, which says that from a certain point onwards n exceeds the product to the right of the equals, so that a finite number of cases are finally to be tested. More precisely, • in the first case it can be shown that n > 225 · s(n) for each integer n ≥ 10 000, so it is sufficient to test the first four multiples of 2025; • in the second case it can be shown that n > 225 · s(n) 2 for each integer n ≥ 1 000 000. Furthermore, we can rewrite the equation as n = (15 · s(n))2. Since on the right side of the equation we have a perfect square, every possible solution is of the form n = (15 · 9 · h) 2 with 15 · 9 · h ≤1000. It is therefore sufficient to test the integer values of h that verify this inequality, i.e. those up to 7. Italian Mathematical Olympiads 2025 - Texts and solutions - Page 2 of 12
-> 
-> Problem two  Solution. The only values of a for which the dissection has a single whole solution are 24, 25, 26. To prove this, we write the dissection in the form p(x) = x(33 −10x) ≥a. Now let's see that the polynomial p(x) takes negative or zero values when x ≤0 or x ≥4, and so, when x varies in integers, the largest values that the polynomial takes are p(1) = 23, p(2) = 26, and p(3) = 9. Consequently • if ≥27 does not have whole solutions, • if ≤23 has at least two whole solutions, i.e. x = 1 and x = 2, • if a = 24, 25, 26 the only whole solution is x = 2.
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the wording]], [[skill_astrazione|Abstraction / generalisation]]
+
+[[src_cesenatico_2025_nazionale__prob6.png]]

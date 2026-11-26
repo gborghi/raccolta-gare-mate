@@ -30,9 +30,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'intero più piccolo del prodotto di potenza con divisori positivi esatti del 2014*
+*Il più piccolo intero che sia prodotto di potenze e abbia esattamente 2014 divisori positivi*
 
-> Per trovare la quantità di divisori positivi di un intero positivo $n$, basta prendere la sua fattorizzazione in numeri primi e calcolare il prodotto degli esponenti dei numeri primi aumentati da $1$. Ad esempio, $2800 = 2^4 \cdot 5^2 \cdot 7$ ha $(4+1)(2+1)(1+1) = 30$ divisori positivi. Qual è il numero intero positivo più piccolo con divisori positivi $2014$? (A) $2^2 3^{19} 5^{53}$ (B) $2^{53} 3^{19} 5^2$ (C) $2^{52} 3^{18} 5$ (D) $2^{38} 3^{53}$ (E) $2^{37} 3^{52}$
+> Per trovare il numero di divisori positivi di un intero positivo $n$, basta prendere la sua scomposizione in fattori primi e calcolare il prodotto degli esponenti dei fattori primi incrementati di $1$. Ad esempio, $2800 = 2^4 \cdot 5^2 \cdot 7$ ha $(4+1)(2+1)(1+1) = 30$ divisori positivi. Qual è il più piccolo intero positivo con $2014$ divisori positivi?
+> (A) $2^2 3^{19} 5^{53}$ (B) $2^{53} 3^{19} 5^2$ (C) $2^{52} 3^{18} 5$ (D) $2^{38} 3^{53}$ (E) $2^{37} 3^{52}$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n3_f1#q01|src_obm_2014_n3_f1__Q01]]
 
 
 
@@ -61,9 +69,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-Il puzzle logico: quattro porte, esattamente uno dei quattro messaggi è falso
+*Puzzle logico: quattro porte, esattamente uno dei quattro messaggi è falso*
 
-> Roraima Jonas, un intrépido avventuriero, quando lascia una grotta incontra quattro porte, numerate $1$ a $4$, e quattro messaggi. I messaggi dicono: Messaggio 1: "Le porte 1 e 2 sono sicure". Messaggio 2: "Esattamente due delle porte 1, 2 e 3 sono sicure". Messaggio 3: "La porta 1 è sicura". Messaggio 4: "Tutte le porte sono sicure". Roraima Jonas è studiosa e, per questo motivo, sa che esattamente una delle messaggi mente e le altre dicono la verità (cioè, solo una è una bugia). Tuttavia, esattamente una delle porte non è sicura (avrebbe attivato una trappola). Quale porta può garantire la sicurezza di Roraima Jonas? (A) 1 (B) 2 (C) 3 (D) 4 (E) Non esiste una porta che Roraima Jonas possa garantire di essere sicura.
+> Roraima Jonas, un avventuriero intrepido, uscito da una caverna, si imbatte in quattro porte, numerate da $1$ a $4$, e in quattro messaggi. I messaggi dicono: Messaggio 1: "Le porte 1 e 2 sono sicure." Messaggio 2: "Esattamente due delle porte 1, 2 e 3 sono sicure." Messaggio 3: "La porta 1 è sicura." Messaggio 4: "Tutte le porte sono sicure." Roraima Jonas è studioso e, per questo motivo, sa che esattamente uno dei messaggi è falso e gli altri sono veri (vale a dire che solo uno è una menzogna). Tuttavia, esattamente una delle porte non è sicura (attiverebbe una trappola). Quale porta può Roraima Jonas garantire che sia sicura?
+> (A) 1 (B) 2 (C) 3 (D) 4 (E) Non esiste alcuna porta che Roraima Jonas possa garantire essere sicura.
+
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n3_f1#q02|src_obm_2014_n3_f1__Q02]]
 
 
 
@@ -87,9 +103,17 @@ Il puzzle logico: quattro porte, esattamente uno dei quattro messaggi è falso
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio autoreferenziale di opzioni la cui parola è più lunga di quella corretta*
+*Conteggio autoriferito delle opzioni il cui termine è più lungo di quello corretto*
 
-> Quante alternative contengono una parola con più lettere rispetto alla parola nell'alternativa corretta? A) Due (Due) B) Tre (Tri) C) Quatro (Quattro) D) Cinco (Cinque) E) Sei (Sei)
+> Quante alternative contengono una parola con più lettere della parola presente nell'alternativa corretta?
+> (A) Due (Two) (B) Tre (Three) (C) Quattro (Four) (D) Cinque (Five) (E) Sei (Six)
+
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n3_f1#q03|src_obm_2014_n3_f1__Q03]]
 
 
 
@@ -113,9 +137,17 @@ Il puzzle logico: quattro porte, esattamente uno dei quattro messaggi è falso
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area quadrilaterale costituita da apici di triangoli equilaterali su un quadrato unitario*
+*Area del quadrilatero formato dai vertici dei triangoli equilateri costruiti sul quadrato unitario*
 
-> Considera un quadrato $ABCD$ del lato $1$. All'esterno del quadrato si formano triangoli equilaterali $ABE$, $BCF$, $CDG$ e $DAH$. Qual è la superficie del quadrilaterale $EFGH$? (A) $2$ (B) $2\sqrt{3}$ (C) $2+\sqrt{3}$ (D) $3$ (E) $6$
+> Si consideri un quadrato $ABCD$ di lato $1$. All'esterno del quadrato, si formano i triangoli equilateri $ABE$, $BCF$, $CDG$ e $DAH$. Qual è l'area del quadrilatero $EFGH$?
+> (A) $2$ (B) $2\sqrt{3}$ (C) $2+\sqrt{3}$ (D) $3$ (E) $6$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n3_f1#q04|src_obm_2014_n3_f1__Q04]]
 
 
 
@@ -138,9 +170,16 @@ Il puzzle logico: quattro porte, esattamente uno dei quattro messaggi è falso
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare il più grande dei cinque poteri di base consecutive*
+*Identifica il più grande tra cinque potenze di basi più o meno consecutive*
 
-> Segna l'alternativa che presenta il più grande dei cinque numeri. (A) $2014^5$ (B) $3015^4$ (C) $4016^3$ (D) $5017^2$ (E) $6018^1$
+> Indica l'alternativa che presenta il numero più grande tra i cinque numeri.
+> (A) $2014^5$ (B) $3015^4$ (C) $4016^3$ (D) $5017^2$ (E) $6018^1$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n3_f1#q05|src_obm_2014_n3_f1__Q05]]
 
 
 
@@ -164,9 +203,17 @@ Il puzzle logico: quattro porte, esattamente uno dei quattro messaggi è falso
 <div class="qlang-split" data-lang="it"></div>
 
 
-La probabilità che ogni urna colorata riceva esattamente le proprie palle colorate
+*Probabilità che ciascun'urna colorata riceva esattamente le proprie palline colorate*
 
-> Ciascuna delle palle $2014$ è dipinta di blu, verde o giallo e viene inserita in uno dei tre urne, uno blu, un altro verde e il terzo giallo. Qual è la probabilità che ogni urna contenga esattamente le palle del suo rispettivo colore? (A) $\frac{1}{3^{2014}}$ (B) $\frac{1}{3^{2013}}$ (C) $\frac{1}{9^{2014}}$ (D) $\frac{1}{3^{4017}}$ (E) $\frac{1}{9^{2013}}$
+> Ciascuna delle $2014$ palle è dipinta di blu, verde o giallo e viene inserita a caso in una delle tre urne: una blu, una verde e una gialla. Qual è la probabilità che ogni urna contenga esattamente le palle del colore corrispondente?
+> (A) $\frac{1}{3^{2014}}$ (B) $\frac{1}{3^{2013}}$ (C) $\frac{1}{9^{2014}}$ (D) $\frac{1}{3^{4017}}$ (E) $\frac{1}{9^{2013}}$
+
+**Topic:** [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n3_f1#q06|src_obm_2014_n3_f1__Q06]]
 
 
 
@@ -190,9 +237,17 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero a cinque cifre xy26z divisibile per 8, 9 e 11; trovare x*
+*Il numero di cinque cifre xy26z è divisibile per 8, 9 e 11; trova x*
 
-> Il numero a cinque cifre $\overline{xy26z}$, in cui ciascuna delle lettere rappresenta una cifra, è divisibile da $8$, $9$ e $11$. Qual è il valore di $x$? (A) $3$ (B) $5$ (C) $1$ (D) $4$ (E) $9$
+> Il numero di cinque cifre $\overline{xy26z}$, in cui ciascuna delle lettere rappresenta una cifra, è divisibile per $8$, $9$ e $11$. Qual è il valore di $x$?
+> (A) $3$ (B) $5$ (C) $1$ (D) $4$ (E) $9$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n3_f1#q07|src_obm_2014_n3_f1__Q07]]
 
 
 
@@ -218,9 +273,19 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prodotto telescopico di (1 - F_{k}^2/F_{k+1}^2) su numeri di Fibonacci*
+*Prodotto telescopico di (1 - F_{k}^2/F_{k+1}^2) esteso sui numeri di Fibonacci*
 
-> La sequenza di Fibonacci è definita recursivamente da $F_{n+2} = F_{n+1} + F_n$ per $n \in \mathbb{Z}$ e $F_1 = F_2 = 1$. Poi $$\left(1 - \frac{F_2^2}{F_3^2}\right)\cdot\left(1 - \frac{F_3^2}{F_4^2}\right)\cdot\left(1 - \frac{F_4^2}{F_5^2}\right)\cdots\left(1 - \frac{F_{2013}^2}{F_{2014}^2}\right)$$ è uguale a: (A) $\frac{F_{2016}}{F_{2013}^2}$ (B) $\frac{F_{2014}}{F_{2013}}$ (C) $\frac{F_{2015}^2}{F_{2013}^2}$ (D) $\frac{F_{2015}}{2}$ (E) $\frac{F_{2015}}{2 F_{2013} F_{2014}}$
+> La successione di Fibonacci è definita ricorsivamente da $F_{n+2} = F_{n+1} + F_n$ per $n \in \mathbb{Z}$ e $F_1 = F_2 = 1$. Poi
+> $$\left(1 - \frac{F_2^2}{F_3^2}\right)\cdot\left(1 - \frac{F_3^2}{F_4^2}\right)\cdot\left(1 - \frac{F_4^2}{F_5^2}\right)\cdots\left(1 - \frac{F_{2013}^2}{F_{2014}^2}\right)$$
+> è uguale a:
+> (A) $\frac{F_{2016}}{F_{2013}^2}$ (B) $\frac{F_{2014}}{F_{2013}}$ (C) $\frac{F_{2015}^2}{F_{2013}^2}$ (D) $\frac{F_{2015}}{2}$ (E) $\frac{F_{2015}}{2 F_{2013} F_{2014}}$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2014_n3_f1#q08|src_obm_2014_n3_f1__Q08]]
 
 
 
@@ -244,9 +309,17 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum di pressioni a chiave su una calcolatrice di prima operazione limitata per raggiungere 100*
+*Numero minimo di pressioni dei tasti su una calcolatrice a operazione prima restrittiva per raggiungere 100*
 
-> In una calcolatrice molto semplice non è possibile premere due cifre senza premere una delle operazioni $+$, $-$, $\times$ o $\div$ tra le cifre stampate. Quando viene premuta una cifra, la calcolatrice esegue immediatamente l'operazione. La calcolatrice inizia con $0$ sul display e il primo tasto premuto deve essere un'operazione. Cioè, prima si premono un'operazione, poi un numero, poi un'operazione, e così via. Ad esempio, un modo per far apparire $29$ sul display è quello di premere $\boxed{+}$ e poi $\boxed{7}$, facendo apparire $0 + 7 = 7$ sul display; quindi premere $\boxed{\times}$ e $\boxed{5}$, ottenendo $7 \times 5 = 35$ sul display, e finire premendo $\boxed{-}$ e $\boxed{6}$, dando come risultato $35 - 6 = 29$. Pertanto, è possibile ottenere $29$ con la pressione $6$. Pedro vuole che il numero $100$ compare sul display. Qual è il numero minimo di tastiere, operazioni di conteggio e numeri che Pedro deve fare sulla calcolatrice? (A) $2$ (B) $4$ (C) $6$ (D) $8$ (E) $10$
+> Su una calcolatrice molto semplice, non è possibile premere due cifre senza premere una delle operazioni $+$, $-$, $\times$ o $\div$ tra le cifre premute. Quando si preme una cifra, la calcolatrice esegue immediatamente l'operazione. La calcolatrice parte con $0$ sul display e il primo tasto premuto deve essere un'operazione. Cioè, prima si preme un'operazione, poi una cifra, poi un'operazione, e così via. Ad esempio, un modo per far apparire $29$ sul display è premere $\boxed{+}$ e poi $\boxed{7}$, facendo apparire $0 + 7 = 7$ sul display; poi premere $\boxed{\times}$ e $\boxed{5}$, ottenendo $7 \times 5 = 35$ sul display, e concludere premendo $\boxed{-}$ e $\boxed{6}$, ottenendo come risultato $35 - 6 = 29$. Pertanto, è possibile ottenere $29$ con $6$ pressioni di tasti. Pedro vuole che il numero $100$ appaia sul display. Qual è il numero minimo di pressioni di tasti, contando sia le operazioni sia le cifre, che Pedro deve effettuare sulla calcolatrice?
+> (A) $2$ (B) $4$ (C) $6$ (D) $8$ (E) $10$
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n3_f1#q09|src_obm_2014_n3_f1__Q09]]
 
 
 
@@ -270,9 +343,17 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Data di oggi secondo il calendario giuliano data la riforma gregoriana di ottobre 1582*
+*Data odierna secondo il calendario giuliano, in seguito alla riforma gregoriana dell'ottobre 1582*
 
-> In Portogallo, ottobre $4$, $1582$ è stato l'ultimo giorno del calendario giuliano, che è stato sostituito dal calendario attualmente adottato, il calendario gregoriano. Il giorno successivo è stato definito come ottobre $15$, $1582$, cioè i giorni da ottobre $5$ a $14$, $1582$ non esistevano. L'unica differenza tra i calendari è che, nel calendario giuliano, tutti gli anni multipli di $4$ erano anni bissai; nel calendario gregoriano, gli anni che sono multipli di $100$, ma non di $400$, non sono anni bissai. Pertanto, $1900$ sarebbe un anno bisuale nel calendario giuliano, ma non nel calendario gregoriano. Che giorno sarebbe oggi, giugno, se non avessimo cambiato il calendario? (A) 20 maggio 2014 (B) 21 maggio 2014 (C) 22 maggio 2014 (D) 16 giugno 2014 (E) 17 giugno 2014
+> In Portogallo, il $4$, $1582$ ottobre fu l'ultimo giorno del calendario giuliano, che fu sostituito dal calendario attualmente in uso, il calendario gregoriano. Il giorno successivo fu definito come il $15$, $1582$ ottobre; in altre parole, i giorni dal $5$ al $14$, $1582$ ottobre non esistettero. L'unica differenza tra i calendari è che, nel calendario giuliano, tutti gli anni multipli di $4$ erano anni bisestili; nel calendario gregoriano, gli anni multipli di $100$, ma non di $400$, non sono anni bisestili. Pertanto, $1900$ sarebbe un anno bisestile nel calendario giuliano, ma non in quello gregoriano. Che giorno sarebbe oggi, $3$, $2014$ giugno, se non avessimo cambiato il calendario?
+> (A) 20 maggio 2014 (B) 21 maggio 2014 (C) 22 maggio 2014 (D) 16 giugno 2014 (E) 17 giugno 2014
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n3_f1#q10|src_obm_2014_n3_f1__Q10]]
 
 
 
@@ -298,11 +379,19 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i pezzi triangolari di trimino con etichette di vertice in senso orario non in diminuzione 0-5*
+*Conta i pezzi trimino triangolari con etichette dei vertici 0-5 in senso orario non decrescenti*
 
-> Nel gioco del trimino semplificato, un pezzo ha la forma di un triangolo in cui ciascuno dei vertici ha un numero da $0$ a $5$. È noto che per qualsiasi pezzo del trimino semplificato, quando il numero più piccolo è posizionato al vertice superiore, i numeri sono in ordine crescente nella direzione in senso orario, cioè il pezzo appartiene al trimino semplificato quando $X \le Y \le Z$ (con $X$ al vertice superiore, $Y$ al vertice inferiore a destra e $Z$ al vertice inferiore a sinistra). Per esempio, tra i quattro pezzi mostrati, i primi tre appartengono al gioco, ma il quarto non. Quanti pezzi ci sono in un gioco di trimino semplificato? (A) $216$ (B) $125$ (C) $120$ (D) $56$ (E) $30$
+> Nel gioco del trimino semplificato, un pezzo ha la forma di un triangolo in cui ciascuno dei vertici porta un numero compreso tra $0$ e $5$. Si sa che, per qualsiasi pezzo del trimino semplificato, quando il numero più piccolo viene collocato sul vertice in alto, i numeri sono in ordine crescente in senso orario; in altre parole, il pezzo appartiene al trimino semplificato quando $X \le Y \le Z$ (con $X$ sul vertice in alto, $Y$ sul vertice in basso a destra e $Z$ sul vertice in basso a sinistra). Ad esempio, tra i quattro pezzi mostrati, i primi tre appartengono al gioco, ma il quarto no. Quanti pezzi ci sono in una partita di trimino semplificato?
+> (A) $216$ (B) $125$ (C) $120$ (D) $56$ (E) $30$
 
 ![[src_obm_2014_n3_f1__q11.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n3_f1#q11|src_obm_2014_n3_f1__Q11]]
 
 
 
@@ -326,9 +415,17 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova a reale dove le radici di x^2-ax+b sono quadrati di radici di x^2-bx+a*
+*Trovare il valore reale di a per cui le radici di x^2-ax+b sono i quadrati delle radici di x^2-bx+a*
 
-> Le radici dell'equazione $x^2 - ax + b = 0$ sono diverse da zero e sono i quadrati delle radici dell'equazione $x^2 - bx + a = 0$. Le radici delle equazioni non sono necessariamente reali, ma $a$ e $b$ sono reali. Il valore di $a$ è quindi: (A) $-\sqrt{2}$ (B) $\sqrt{2}$ (C) $\sqrt{3}$ (D) $\sqrt[3]{2}$ (E) $\sqrt[3]{3}$
+> Le radici dell'equazione $x^2 - ax + b = 0$ sono diverse da zero e sono i quadrati delle radici dell'equazione $x^2 - bx + a = 0$. Le radici delle equazioni non sono necessariamente reali, ma $a$ e $b$ sono reali. Allora il valore di $a$ è:
+> (A) $-\sqrt{2}$ (B) $\sqrt{2}$ (C) $\sqrt{3}$ (D) $\sqrt[3]{2}$ (E) $\sqrt[3]{3}$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2014_n3_f1#q12|src_obm_2014_n3_f1__Q12]]
 
 
 
@@ -354,11 +451,19 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Angolo x in una figura circolare con due triangoli e accordi paralleli*
+*Angolo x in una figura circolare con due triangoli isosceli e corde parallele*
 
-> Considerate la figura laterale, dove i punti $A$ a $I$ sono su una circonferenza. È noto che i triangoli $ABC$ e $GHI$ sono uguali, che $AB$, $CD$, $EF$ e $GH$ sono segmenti paralleli e che $BC$, $DE$, $FG$ e $HI$ sono segmenti paralleli. Qual è la misura dell'angolo $x$ in gradi? (A) $15^\circ$ (B) $20^\circ$ (C) $30^\circ$ (D) $40^\circ$ (E) $45^\circ$
+> Si consideri la figura a lato, in cui i punti da $A$ a $I$ giacciono su una circonferenza. Si sa che i triangoli $ABC$ e $GHI$ sono isosceli, che $AB$, $CD$, $EF$ e $GH$ sono segmenti paralleli e che $BC$, $DE$, $FG$ e $HI$ sono segmenti paralleli. Qual è la misura dell'angolo $x$ in gradi?
+> (A) $15^\circ$ (B) $20^\circ$ (C) $30^\circ$ (D) $40^\circ$ (E) $45^\circ$
 
 ![[src_obm_2014_n3_f1__q13.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n3_f1#q13|src_obm_2014_n3_f1__Q13]]
 
 
 
@@ -384,9 +489,17 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il minimo possibile valore centrale di un quadrato magico moltiplicativo 3x3*
+*Valore centrale più piccolo possibile di un quadrato magico moltiplicativo 3x3*
 
-> Un quadrato magico moltiplicativo è un quadrato $n \times n$ con numeri interi positivi distinti i cui prodotti dei numeri nella stessa riga, colonna o diagonale sono uguali. Ad esempio, abbiamo il seguente quadrato magico moltiplicativo: $\begin{array}{|c|c|c|} \hline 128 & 1 & 32 \\ \hline 4 & 16 & 64 \\ \hline 8 & 256 & 2 \\ \hline \end{array}$ Qual è il valore più piccolo possibile del numero al centro di un quadrato magico moltiplicativo $3 \times 3$? (A) $1$ (B) $2$ (C) $4$ (D) $6$ (E) $8$
+> Un quadrato magico moltiplicativo è un quadrato $n \times n$ con interi positivi distinti i cui prodotti dei numeri della stessa riga, colonna o diagonale sono uguali. Ad esempio, abbiamo il seguente quadrato magico moltiplicativo: $\begin{array}{|c|c|c|} \hline 128 & 1 & 32 \\ \hline 4 & 16 & 64 \\ \hline 8 & 256 & 2 \\ \hline \end{array}$ Qual è il valore più piccolo possibile del numero al centro di un quadrato magico moltiplicativo $3 \times 3$?
+> (A) $1$ (B) $2$ (C) $4$ (D) $6$ (E) $8$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n3_f1#q14|src_obm_2014_n3_f1__Q14]]
 
 
 
@@ -409,9 +522,16 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Summa delle radici di 1/(1+x)+2/(2+x)+3/(3+x)=1*
+*Somma delle radici di 1/(1+x)+2/(2+x)+3/(3+x)=1*
 
-> La somma delle radici dell'equazione $\frac{1}{1+x} + \frac{2}{2+x} + \frac{3}{3+x} = 1$ è: (A) $0$ (B) $6$ (C) $14$ (D) $11$ (E) $9$
+> La somma delle radici dell'equazione $\frac{1}{1+x} + \frac{2}{2+x} + \frac{3}{3+x} = 1$ è:
+> (A) $0$ (B) $6$ (C) $14$ (D) $11$ (E) $9$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2014_n3_f1#q15|src_obm_2014_n3_f1__Q15]]
 
 
 
@@ -434,9 +554,16 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Area di APC data area di APB e P sul bisettore interno da A*
+*Area di APC data l'area di APB e P sull'asse bisettrice interna da A*
 
-> In triangolo $ABC$, $AC = 5$ e $AB = 6$. Il punto $P$ deve essere un punto sul bisector interno dell'angolo $B\hat{A}C$. Se la superficie di $APB$ è $\frac{3}{2}$, la superficie di $APC$ è: (A) $\frac{5}{4}$ (B) $\frac{9}{5}$ (C) $\frac{\sqrt{3}}{4}$ (D) $\frac{\sqrt{5}}{4}$ (E) $\frac{4}{5}$
+> Nel triangolo $ABC$, $AC = 5$ e $AB = 6$. Sia $P$ un punto sull'asse bisettrice interna dell'angolo $B\hat{A}C$. Se l'area di $APB$ è $\frac{3}{2}$, l'area di $APC$ è:
+> (A) $\frac{5}{4}$ (B) $\frac{9}{5}$ (C) $\frac{\sqrt{3}}{4}$ (D) $\frac{\sqrt{5}}{4}$ (E) $\frac{4}{5}$
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n3_f1#q16|src_obm_2014_n3_f1__Q16]]
 
 
 
@@ -462,9 +589,17 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggi di riempimento di una lavagna 2x2014 0/1 sotto un vincolo di parità di vicinato*
+*Conteggia le configurazioni di riempimento di una griglia 2x2014 a valori 0/1, soggetta a una vincolo di vicinato uguale*
 
-> Bitonho gioca sul suo cellulare il gioco Super Paciencia, il cui obiettivo è riempire una tabella $2 \times 2014$ con zeri e uno in modo tale che due numeri vicini uguali nella stessa riga impediscano alle celle corrispondenti dell'altra riga di essere riempite anche con numeri uguali. Ad esempio, nel disegno di seguito, i valori di $A$ e $B$ non possono essere uguali. In quanti modi può Bitonho riempire un tavolo Super Paciencia? (A) $3^{2014}$ (B) $4 \cdot 3^{2013}$ (C) $4^{2014}$ (D) $2 \cdot 3^{2014}$ (E) $3 \cdot 4^{2014}$
+> Bitonho sta giocando sul suo cellulare al gioco Super Paciencia, il cui obiettivo è riempire una griglia $2 \times 2014$ con zeri e uni in modo che due numeri uguali adiacenti nella stessa riga impediscano alle celle corrispondenti dell'altra riga di essere riempite anch'esse con numeri uguali. Ad esempio, nel disegno qui sotto, i valori di $A$ e $B$ non possono essere uguali. $\begin{array}{|c|c|c|c|c|c|c|} \hline 0 & 1 & 0 & \ldots & 1 & 1 & \ldots \\ \hline 1 & 1 & 0 & \ldots & A & B & \ldots \\ \hline \end{array}$ In quanti modi può riempire Bitonho una griglia di Super Paciencia?
+> (A) $3^{2014}$ (B) $4 \cdot 3^{2013}$ (C) $4^{2014}$ (D) $2 \cdot 3^{2014}$ (E) $3 \cdot 4^{2014}$
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n3_f1#q17|src_obm_2014_n3_f1__Q17]]
 
 
 
@@ -488,9 +623,17 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio ordinato di coppie di integri positivi (a,b) con 2014/(a^2+b^2) un intero*
+*Conta le coppie di interi positivi (a,b) tali che 2014/(a^2+b^2) sia un intero*
 
-> Quante coppie ordinate $(a,b)$ di numeri interi positivi esistono in modo tale che $\frac{2014}{a^2+b^2}$ sia un numero intero? (A) $1$ (B) $2$ (C) $3$ (D) $4$ (E) $5$
+> Quante coppie ordinate $(a,b)$ di interi positivi esistono tali che $\frac{2014}{a^2+b^2}$ sia un intero?
+> (A) $1$ (B) $2$ (C) $3$ (D) $4$ (E) $5$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n3_f1#q18|src_obm_2014_n3_f1__Q18]]
 
 
 
@@ -514,9 +657,17 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unità di cifra di somma alternata di una ricorrenza 2x_{n+1}+x_n*
+*Cifra delle unità della somma alternata di una ricorrenza 2x_{n+1}+x_n*
 
-> Una sequenza $x_n$ ha come primi termini $x_0 = x_1 = 2$ e gli altri termini definiti da $x_{n+2} = 2x_{n+1} + x_n$. Qual è la cifra di unità di $x_0 - x_1 + x_2 - x_3 + \cdots - x_{2013} + x_{2014}$? (A) $0$ (B) $2$ (C) $4$ (D) $6$ (E) $8$
+> Una successione $x_n$ ha come primi termini $x_0 = x_1 = 2$ e gli altri termini sono definiti da $x_{n+2} = 2x_{n+1} + x_n$. Qual è la cifra delle unità di $x_0 - x_1 + x_2 - x_3 + \cdots - x_{2013} + x_{2014}$?
+> (A) $0$ (B) $2$ (C) $4$ (D) $6$ (E) $8$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n3_f1#q19|src_obm_2014_n3_f1__Q19]]
 
 
 
@@ -541,9 +692,18 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero di soluzioni integrali di un sistema ciclico di tre quadratici*
+*Numero di soluzioni intere di un sistema ciclico di tre equazioni quadratiche*
 
-> Qual è il numero di soluzioni interi $(x,y,z)$ del sistema $$\begin{cases} x^2 - 6y = 2z - 15 \\ y^2 - 6z = 2x - 15 \\ z^2 - 6x = 2y - 15 \end{cases}$$ (A) $1$ (B) $2$ (C) $4$ (D) $8$ (E) infinito
+> Qual è il numero di soluzioni intere $(x,y,z)$ del sistema
+> $$\begin{cases} x^2 - 6y = 2z - 15 \\ y^2 - 6z = 2x - 15 \\ z^2 - 6x = 2y - 15 \end{cases}$$
+> (A) $1$ (B) $2$ (C) $4$ (D) $8$ (E) infinito
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2014_n3_f1#q20|src_obm_2014_n3_f1__Q20]]
 
 
 
@@ -566,9 +726,16 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Altezza di un cono la cui base è l'equatore di una sfera di raggio 1 attraverso i punti medi della generatrice*
+*Altezza di un cono la cui base è l'equatore di una sfera di raggio 1, passante per i punti medi delle generatrici*
 
-> Una sfera di raggio $1$ ha come ecuatore la base di un cono e passa attraverso i punti medi dei suoi generatori. Qual è l'altezza del cono? (A) $1$ (B) $\sqrt{1.5}$ (C) $\sqrt{2}$ (D) $\sqrt{3}$ (E) $2$
+> Una sfera di raggio $1$ ha come equatore la base di un cono e passa per i punti medi delle sue generatrici. Qual è l'altezza del cono?
+> (A) $1$ (B) $\sqrt{1.5}$ (C) $\sqrt{2}$ (D) $\sqrt{3}$ (E) $2$
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n3_f1#q21|src_obm_2014_n3_f1__Q21]]
 
 
 
@@ -592,9 +759,17 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Produzione dei denominatori delle due frazioni intimamente legate al 2014/51 (vicinanti di Farey)*
+*Prodotto dei denominatori delle due frazioni vicine a 2014/51 (vicini di Farey)*
 
-> Due frazioni $\frac{a}{b}$ e $\frac{c}{d}$, con $a,b,c,d$ numeri interi positivi, sono intimi quando $ad - bc = \pm 1$. Ad esempio, $\frac{1}{2}$ è intimo con $\frac{1}{3}$ e $\frac{2}{3}$ dal momento che $1 \cdot 3 - 2 \cdot 1 = 1$ e $1 \cdot 3 - 2 \cdot 2 = -1$. Due frazioni intimamente legate a $\frac{2014}{51}$ hanno denominatori inferiori a $51$. Essendo $\frac{x}{y}$ e $\frac{z}{w}$ queste frazioni, qual è il valore di $y \cdot w$? (A) $58$ (B) $68$ (C) $78$ (D) $88$ (E) $98$
+> Due frazioni $\frac{a}{b}$ e $\frac{c}{d}$, con $a,b,c,d$ interi positivi, sono intime quando $ad - bc = \pm 1$. Ad esempio, $\frac{1}{2}$ è intima con $\frac{1}{3}$ e $\frac{2}{3}$ poiché $1 \cdot 3 - 2 \cdot 1 = 1$ e $1 \cdot 3 - 2 \cdot 2 = -1$. Due frazioni intime con $\frac{2014}{51}$ hanno denominatore minore di $51$. Essendo $\frac{x}{y}$ e $\frac{z}{w}$ queste frazioni, qual è il valore di $y \cdot w$?
+> (A) $58$ (B) $68$ (C) $78$ (D) $88$ (E) $98$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n3_f1#q22|src_obm_2014_n3_f1__Q22]]
 
 
 
@@ -617,9 +792,16 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fraczione del serbatoio di combustibile utilizzato senza perdite, dato il consumo proporzionale al carico*
+*Frazione del serbatoio di carburante utilizzata senza perdite, con consumo proporzionale al carico*
 
-> Un camion-cisterna era pieno di acqua, ma cominciò a fuoriuscire. Supponiamo che il consumo di carburante del camion sia direttamente proporzionale al peso che porta e che il flusso d'acqua e la velocità del camion siano costanti. Dopo aver percorso $200$ km, il camion aveva la metà della capacità dell'acqua e usava mezzo serbatoio di carburante. Se fosse vuoto, il camion avrebbe usato, viaggiando la stessa distanza nelle stesse condizioni, un sesto di un serbatoio. Che frazione del serbatoio userebbe se non ci fosse una perdita? Ignorare l'influenza del peso del serbatoio sul consumo di benzina. (A) $\frac{11}{18}$ (B) $\frac{5}{9}$ (C) $\frac{2}{3}$ (D) $\frac{3}{4}$ (E) $\frac{4}{5}$
+> Un autocisterna era piena d'acqua ma iniziò a perdere. Si supponga che il consumo di carburante dell'autocisterna sia direttamente proporzionale al peso che trasporta e che la portata dell'acqua e la velocità dell'autocisterna siano costanti. Dopo aver percorso $200$ km, l'autocisterna aveva metà della capacità d'acqua e aveva consumato mezzo serbatoio di carburante. Se fosse vuota, percorrendo la stessa distanza nelle stesse condizioni, consumerebbe un sesto di serbatoio. Che frazione di serbatoio consumerebbe se non ci fosse alcuna perdita? Si trascuri l'influenza del peso del serbatoio sul consumo di benzina.
+> (A) $\frac{11}{18}$ (B) $\frac{5}{9}$ (C) $\frac{2}{3}$ (D) $\frac{3}{4}$ (E) $\frac{4}{5}$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2014_n3_f1#q23|src_obm_2014_n3_f1__Q23]]
 
 
 
@@ -645,11 +827,19 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lunghezza di AD per due triangoli rettangolari a uguale occhio le cui linee di ipotenuza si incrociano a 30 gradi*
+*Lunghezza di AD per due triangoli rettangoli isosceli i cui cateti ipotenusi si intersecano con un angolo di 30 gradi*
 
-> Nella figura, $ABC$ e $DEF$ sono triangoli rettangolari a pari livello con ipoteni $BC$ e $EF$ che misurano $15$, $D$ è sulla linea $BC$ e $A$ è sulla linea $EF$. L'angolo acuto tra le linee $BC$ e $EF$ è $30^\circ$. Il segmento $AD$ misura: (A) $\frac{15\sqrt{2}}{2}$ (B) $\frac{15(\sqrt{6}-\sqrt{2})}{2}$ (C) $\frac{15\sqrt{3}}{2}$ (D) $\frac{15\sqrt{6}}{2}$ (E) $15$
+> Nella figura, $ABC$ e $DEF$ sono triangoli rettangoli isosceli con ipotenuse $BC$ e $EF$ di lunghezza $15$; $D$ giace sulla retta $BC$ e $A$ giace sulla retta $EF$. L'angolo acuto tra le rette $BC$ e $EF$ è $30^\circ$. Il segmento $AD$ misura:
+> (A) $\frac{15\sqrt{2}}{2}$ (B) $\frac{15(\sqrt{6}-\sqrt{2})}{2}$ (C) $\frac{15\sqrt{3}}{2}$ (D) $\frac{15\sqrt{6}}{2}$ (E) $15$
 
 ![[src_obm_2014_n3_f1__q24.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n3_f1#q24|src_obm_2014_n3_f1__Q24]]
 
 
 
@@ -673,6 +863,14 @@ La probabilità che ogni urna colorata riceva esattamente le proprie palle color
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Probabilità che una moneta rettangolare 3x4 atterri completamente all'interno di una piastrella rettangolare 10x20*
+*Probabilità che una moneta rettangolare 3x4 finisca interamente all'interno di una piastrella rettangolare 10x20*
 
-> Per calcolare la probabilità che una moneta di raggio $r$ atterri totalmente all'interno di una piastrella formata da piastrelle quadrate di lato $\ell$, calcoliamo la probabilità che il suo centro atterri all'interno di un quadrato più piccolo di lato $\ell - 2r$ (rilevamo un "frontiera" di dimensione $r$ dai lati del quadrato). Tale probabilità è pari a $\left(\frac{\ell - 2r}{\ell}\right)^2$. In Esmeralandia, le monete sono rettangolari. Qual è la probabilità che una moneta con lati $3$ e $4$ atterri totalmente all'interno di una piastrella formata da rettangoli con lati $10$ e $20$? (A) Meno di $0.375$. (B) Esattamente $0.375$. (C) Più di $0.375$ e meno di $0.595$. (D) Esattamente $0.595$. (E) Più di $0.595$.
+> Per calcolare la probabilità che una moneta di raggio $r$ atterri interamente all'interno di una piastrella formata da piastrelle quadrate di lato $\ell$, calcoliamo la probabilità che il suo centro atterri all'interno di un quadrato più piccolo di lato $\ell - 2r$ (togliamo un "bordo" di dimensione $r$ dai lati del quadrato). Tale probabilità è uguale a $\left(\frac{\ell - 2r}{\ell}\right)^2$. In Esmeralandia, le monete sono rettangolari. Qual è la probabilità che una moneta con lati $3$ e $4$ atterri interamente all'interno di una piastrella formata da rettangoli con lati $10$ e $20$?
+> (A) Meno di $0.375$. (B) Esattamente $0.375$. (C) Più di $0.375$ e meno di $0.595$. (D) Esattamente $0.595$. (E) Più di $0.595$.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_obm_2014_n3_f1#q25|src_obm_2014_n3_f1__Q25]]

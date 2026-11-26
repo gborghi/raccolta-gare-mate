@@ -29,9 +29,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo acuto: prova AM·PM = BM2 con centroid e punto medio*
+*Una relazione di lunghezze a partire dal baricentro e da un punto medio*
 
-> Il punto medio di un triangolo acuto è $H$ e il punto medio di un triangolo acuto $ABC$ è $M$. Il $P$ deve essere il piede della perpendicolare da $H$ alla linea $AM$. Dimostra che $AM \cdot PM = BM^2$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+> Sia $H$ il baricentro di un triangolo acutangolo $ABC$, e $M$ il punto medio di $BC$. Sia $P$ il piede della perpendicolare da $H$ alla retta $AM$. Dimostrare che $AM \cdot PM = BM^2$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo21mq_honsen#q01|src_jmo21mq_honsen__Q01]]
 
 
 
@@ -55,9 +60,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i quadrupli di interi positivi che soddisfano il prodotto facoltato a^n-1*
+*Quadruple di interi positivi che soddisfano un'equazione*
 
-> Trova tutti i quadrupli $(a, n, p, q, r)$ di numeri interi positivi che soddisfano l'equazione $$a^n - 1 = (a^p - 1)(a^q - 1)(a^r - 1).$$
+> Determinare tutte le quadruple $(a, n, p, q, r)$ di interi positivi che soddisfano l'equazione
+>
+> $$a^n - 1 = (a^p - 1)(a^q - 1)(a^r - 1).$$
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo21mq_honsen#q02|src_jmo21mq_honsen__Q02]]
 
 
 
@@ -90,19 +102,24 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco di griglia: B può sempre terminare il gioco indipendentemente dalle mosse di A*
+*Il secondo giocatore può sempre forzare la fine della partita*
 
-> $N$ sia un numero intero positivo. Considerate una fila di quadrati $N$. I giocatori A e B giocano la seguente partita:
-> 
-> (1) In primo luogo, A scrive un intero non negativo in ciascuno dei quadrati $N$.
-> 
-> (2) Per qualsiasi numero intero $i$ con $1 \le i \le N-1$, ogni volta che l'intero scritto nel quadrato $i$-a sinistra è maggiore o uguale al numero intero scritto nel quadrato $(i+1)$-a sinistra (cioè che i quadrati sono in ordine non crescente da sinistra), la partita termina. In caso contrario si ripetono le seguenti fasi:
-> 
-> (a) A designa un intero non negativo.
-> 
-> b) B sceglie uno dei quadrati $N$ e sostituisce il numero intero scritto in quel quadrato con il numero intero designato da A nel passaggio (a).
-> 
-> Prova che B può sempre costringere la partita a finire, indipendentemente dalla strategia di A.
+> Sia $N$ un intero positivo. Si consideri una fila di $N$ caselle. I giocatori A e B giocano come segue.
+>
+> (1) Dapprima A scrive un intero non negativo in ciascuna delle $N$ caselle.
+>
+> (2) Per ogni intero $i$ con $1 \le i \le N-1$, ogni volta che l'intero scritto nella $i$-esima casella da sinistra è maggiore o uguale all'intero scritto nella $(i+1)$-esima casella da sinistra (cioè le caselle sono in ordine non crescente da sinistra), la partita finisce. Altrimenti si ripetono i passi seguenti:
+>
+> (a) A indica un intero non negativo.
+>
+> (b) B sceglie una delle $N$ caselle e sostituisce l'intero scritto in quella casella con l'intero indicato da A al passo (a).
+>
+> Dimostrare che B può sempre forzare la fine della partita, qualunque sia la strategia di A.
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo21mq_honsen#q03|src_jmo21mq_honsen__Q03]]
 
 
 
@@ -127,9 +144,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le funzioni a valore reale che soddisfano una determinata equazione funzionale*
+*Funzioni reali che soddisfano un'equazione funzionale*
 
-> Trovare tutte le funzioni $f$ definite sui numeri reali assumendo valori reali in modo tale che per qualsiasi numero reale $x, y$, $$f(f(x) - f(y)) = f(f(x)) - 2x^2 f(y) + f(y^2)$$ si trova.
+> Determinare tutte le funzioni $f$ definite sui numeri reali, a valori reali, tali che per qualunque numeri reali $x, y$ valga
+>
+> $$f(f(x) - f(y)) = f(f(x)) - 2x^2 f(y) + f(y^2)$$
+
+**Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+[[Quesiti/src_jmo21mq_honsen#q04|src_jmo21mq_honsen__Q04]]
 
 
 
@@ -152,6 +176,11 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro punti, uguali a tutti e quattro i triangoli implica congruenza*
+*Quattro triangoli con lo stesso inraggio sono congruenti*
 
-> Lasciate che ci siano quattro punti nel piano, nessuno dei quali sia collineare. Se l'inradii di tutti e quattro i triangoli formati scegliendo tre di questi quattro punti come vertici sono tutti uguali, dimostri che tutti e quattro i triangoli sono congruenti tra loro.
+> Siano dati quattro punti del piano, di cui non ce ne siano tre allineati. Se gli inraggi di tutti e quattro i triangoli ottenuti scegliendo tre di questi quattro punti come vertici sono uguali, dimostrare che i quattro triangoli sono congruenti fra loro.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+[[Quesiti/src_jmo21mq_honsen#q05|src_jmo21mq_honsen__Q05]]

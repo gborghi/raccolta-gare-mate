@@ -32,13 +32,19 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare tutte le funzioni positive tali che f(xf(y)) = yf(x) e che tendano a 0.*
+*Trovare tutte le funzioni positive f tali che f(xf(y))=yf(x) tenda a 0*
 
-> Determinare tutte le funzioni $f$ definite sull'insieme dei numeri reali positivi, a valori positivi, che soddisfano le seguenti condizioni:
-> 
-> (i) $f(xf(y)) = yf(x)$ per ogni intero positivo $x, y$;
-> 
-> (ii) $f(x) \to 0$ rispetto a $x \to \infty$.
+> Trovare tutte le funzioni $f$ definite sull'insieme dei numeri reali positivi, che assumono valori positivi e soddisfano le condizioni:
+>
+> (i) $f(xf(y)) = yf(x)$ per ogni $x, y$ positivo;
+>
+> (ii) $f(x) \to 0$ quando $x \to \infty$.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1983#q01|src_imo_1983__Q01]]
 
 
 
@@ -61,9 +67,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Si dimostri che l'angolo O₁AO₂ è uguale all'angolo M₁AM₂ per due circonferenze.*
+*Dimostrare che l'angolo O1AO2 è uguale all'angolo M1AM2 per due circonferenze*
 
-> Sia $A$ uno dei due punti distinti di intersezione di due circonferenze complanari diverse $C_1$ e $C_2$ di centri $O_1$ e $O_2$ rispettivamente. Una delle tangenti comuni alle due circonferenze tocca $C_1$ in $P_1$ e $C_2$ in $P_2$, mentre l'altra tocca $C_1$ in $Q_1$ e $C_2$ in $Q_2$. Sia $M_1$ il punto medio di $P_1Q_1$ e $M_2$ il punto medio di $P_2Q_2$. Si dimostri che $\angle O_1AO_2 = \angle M_1AM_2$.
+> Sia $A$ uno dei due punti di intersezione distinti di due circonferenze coplanari non uguali $C_1$ e $C_2$, aventi centri rispettivamente $O_1$ e $O_2$. Una delle tangenti comuni alle circonferenze tocca $C_1$ in $P_1$ e $C_2$ in $P_2$, mentre l'altra tocca $C_1$ in $Q_1$ e $C_2$ in $Q_2$. Sia $M_1$ il punto medio di $P_1Q_1$ e sia $M_2$ il punto medio di $P_2Q_2$. Dimostrare che $\angle O_1AO_2 = \angle M_1AM_2$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imo_1983#q02|src_imo_1983__Q02]]
 
 
 
@@ -85,9 +98,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massimo intero non rappresentabile come combinazione non negativa (problema di Frobenius)*
+*Il più grande intero non rappresentabile come combinazione non negativa (Frobenius)*
 
-> Siano $a, b, c$ interi positivi, a due a due privi di divisori comuni maggiori di $1$. Si dimostri che $2abc - ab - bc - ca$ è il più grande intero che non può essere espresso nella forma $xbc + yca + zab$, dove $x, y, z$ sono interi non negativi.
+> Siano $a, b, c$ numeri interi positivi, tali che nessun due di essi abbiano un divisore comune maggiore di $1$. Dimostrare che $2abc - ab - bc - ca$ è il più grande intero che non può essere espresso nella forma $xbc + yca + zab$, dove $x, y, z$ sono numeri interi non negativi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imo_1983#q03|src_imo_1983__Q03]]
 
 
 
@@ -109,9 +128,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Colorazione con due colori dei lati di un triangolo equilatero produce un triangolo rettangolo*
+*La colorazione a due colori dei lati di un triangolo equilatero produce un triangolo rettangolo*
 
-> Sia $ABC$ un triangolo equilatero e $\mathcal{E}$ l'insieme di tutti i punti contenuti nei tre segmenti $AB$, $BC$ e $CA$ (inclusi $A$, $B$ e $C$). Si determini se, per ogni partizione di $\mathcal{E}$ in due sottoinsiemi disgiunti, almeno uno dei due contiene i vertici di un triangolo rettangolo. Si giustifichi la risposta.
+> Sia $ABC$ un triangolo equilatero e $\mathcal{E}$ l'insieme di tutti i punti contenuti nei tre segmenti $AB$, $BC$ e $CA$ (inclusi $A$, $B$ e $C$). Determinare se, per ogni partizione di $\mathcal{E}$ in due sottoinsiemi disgiunti, almeno uno dei due sottoinsiemi contenga i vertici di un triangolo rettangolo. Giustifica la tua risposta.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_colorazione|Colorazione / parita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imo_1983#q04|src_imo_1983__Q04]]
 
 
 
@@ -133,9 +158,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Scegliere 1983 interi senza progressione aritmetica di tre termini*
+*Scegli 1983 interi privi di progressioni aritmetiche di tre termini*
 
-> È possibile scegliere $1983$ interi positivi distinti, tutti minori o uguali a $10^5$, in modo che nessuno dei tre sia un termine consecutivo di una progressione aritmetica? Giustificare la risposta.
+> È possibile scegliere $1983$ interi positivi distinti, tutti minori o uguali a $10^5$, tale che nessun insieme di tre di essi costituisca tre termini consecutivi di una progressione aritmetica? Motiva la tua risposta.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_imo_1983#q05|src_imo_1983__Q05]]
 
 
 
@@ -162,10 +193,17 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Si dimostri la disuguaglianza ciclica sui lati del triangolo e si determini il caso di uguaglianza*
+*Dimostra la disuguaglianza ciclica sui lati di un triangolo e determina il caso di uguaglianza*
 
-> Siano $a, b, c$ le lunghezze dei lati di un triangolo. Si dimostri che:
-> 
+> Sia $a, b, c$ la lunghezza dei lati di un triangolo. Dimostrare che:
+>
 > $$a^2b(a-b) + b^2c(b-c) + c^2a(c-a) \geq 0.$$
-> 
-> Determinare quando si ha l'uguaglianza.
+>
+> Determinare quando si verifica l'uguaglianza.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imo_1983#q06|src_imo_1983__Q06]]

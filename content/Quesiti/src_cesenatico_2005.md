@@ -33,11 +33,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangle, height, value of the ratio AH/CH*
+*Right-angled triangle, height, values of the AH/CH ratio*
 
-> Whether ABC is a right triangle, with hypotenuse AC, and whether H is the foot of the height from B to AC. Knowing that the lengths AB, BC and BH form the sides of a new rectangular triangle, determine the possible values of AH CH.
+> Let ABC be a right triangle with hypotenuse AC, and let H be the foot of the altitude drawn from B to AC. Given that the lengths AB, BC, and BH are the sides of a new right triangle, determine the possible values of AH and CH.
 
-**Answer:** (sqrt5-1)/2 or (sqrt5+1)/2
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2005#q01|src_cesenatico_2005__Q01]]
 
 
 
@@ -61,11 +66,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*one divisible by sum of digits*
+*A number divisible by the sum of its digits*
 
-> Demonstrate that, however you take 18 consecutive positive integers less than or equal to 2005, there is at least one divisible by the sum of its digits.
+> Prove that, regardless of how 18 consecutive positive integers less than or equal to 2005 are chosen, at least one of them is divisible by the sum of its digits.
 
-**Answer:** proved
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2005#q02|src_cesenatico_2005__Q02]]
 
 
 
@@ -92,11 +101,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Table 4x4 of digits 1 and 2 with sums of 3x3 multiples of 4*
+*4x4 table of 1s and 2s with 3x3 sums that are multiples of 4*
 
-> In each of the boxes in a square table 4×4 the figure 1 or the figure 2 is written. We know that the sum of the 9 digits in each of the 4 squares 3 × 3 in the table is multiple of 4, while the sum of all 16 digits is not multiple of 4. Determine the maximum and minimum possible value for the sum of all 16 digits.
+> In each cell of a 4×4 square table, either the digit 1 or the digit 2 is written. It is known that the sum of the 9 digits contained in each of the 4 3×3 squares within the table is a multiple of 4, while the sum of all 16 digits is not a multiple of 4. Determine the maximum and minimum possible values for the sum of all 16 digits.
 
-**Answer:** maximum 30, minimum 19
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_cesenatico_2005#q03|src_cesenatico_2005__Q03]]
 
 
 
@@ -123,11 +137,16 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*n integers two to two with common factor but three to three coatings*
+*In pairs with a common factor, but in threes, cover me*
 
-> Determine for which n ≥3 it is possible to find n positive integers such that two to two have at least one common factor other than 1, but three to three are prime to each other. If we add the condition that all integers are less than 5000, what is the maximum value of n possible?
+> Determine for which n ≥ 3 it is possible to find n positive integers such that each pair has at least one common factor different from 1, but any three of them are pairwise coprime. If the condition that all the integers are less than 5000 is added, what is the maximum possible value of n?
 
-**Answer:** for every n>=3; with limit <5000 the maximum n is 4
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_cesenatico_2005#q04|src_cesenatico_2005__Q04]]
 
 
 
@@ -162,11 +181,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*for which h returns to 1*
+*For which h does it return to 1?*
 
-> Both h is a positive integer and an is the sequence defined for recurrence as follows: a0 = 1 an+1 = (an 2 if an is equal, an + h if an is odd. (For example, if h = 27 we have: a1 = 28, a2 = 14, a3 = 7, a4 = 34, a5 = 17, a6 = 44, ...) For which values of h exists n > 0 for which an = 1?
+> Let h be a positive integer, and let (an) be the sequence defined recursively as follows: a0 = 1, an+1 = an² if an is even, and an + h if an is odd. (For example, if h = 27, then a1 = 28, a2 = 14, a3 = 7, a4 = 34, a5 = 17, a6 = 44, ...) For which values of h does there exist n > 0 such that an = 1?
 
-**Answer:** all odd positive integers
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_ricorsione|Recursion]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_cesenatico_2005#q05|src_cesenatico_2005__Q05]]
 
 
 
@@ -196,10 +219,15 @@ level: nazionale
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two circumferences, EF arc bisected by the straight CD*
+*Two circles; arc EF bisected by line CD*
 
 ![[src_cesenatico_2005__prob6.png]]
 
-> In the plane two circumferences γ1 and γ2 of centers A and B are given, respectively, and intersected at two points C and D. Assume that the passing circumference for A, B and C further intersects γ1 and γ2 in E and F respectively, and that the non-C EF arc lies outside the two circles bounded by γ1 and γ2. Demonstrate that the non-C EF arc is bisected by the straight CD.
+> Let two circles γ1 and γ2 be given in the plane, with centers A and B respectively, and let them intersect at two points C and D. Suppose that the circle passing through A, B, and C meets γ1 and γ2 again at E and F respectively, and that the arc EF not containing C lies outside the two disks bounded by γ1 and γ2. Prove that the arc EF not containing C is bisected by the line CD.
 
-**Answer:** proved (D is the incenter of CEF)
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_cesenatico_2005#q06|src_cesenatico_2005__Q06]]

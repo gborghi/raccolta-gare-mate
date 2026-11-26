@@ -42,17 +42,29 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*tabella CRT: somma delle celle evidenziate (mod 3 × mod 7)*
+*Tabella CRT: somma delle celle evidenziate (mod 3 × mod 7)*
 
-> Lasciate che $m$ e $n$ siano due integri positivi che sono coprimi. Il teorema del rimanente cinese afferma che, per qualsiasi numero intero $i$ e $j$ con $0 \le i < m$ e $0 \le j < n$, esiste esattamente un numero intero $a$ con $0 \le a < mn$ in modo tale che il resto della divisione di $a$ da $m$ è uguale a $i$ e il resto della divisione di $a$ da $n$ è uguale a $j$. Per esempio, per $m = 3$ e $n = 7$, il numero $19$ è il numero intero unico in $\{0, 1, \ldots, 20\}$ che lascia i rimanenti $1$ e $5$ quando diviso rispettivamente da $3$ e $7$.
-> 
-> Nella tabella seguente (linee = rest mod $3$, colonne = rest mod $7$), ogni numero intero da $0$ a $20$ appare esattamente una volta:
-> 
-> $$\begin{array}{c|ccccccc} \text{Res mod 3} \backslash \text{Res mod 7} & 0 & 1 & 2 & 3 & 4 & 5 & 6 \\ \hline 0 & 0 & 15 & 9 & 3 & 18 & 12 & 6 \\ 1 & 7 & 1 & 16 & 10 & 4 & 19 & 13 \\ 2 & 14 & 8 & 2 & 17 & 11 & 5 & 20 \end{array}$$
-> 
-> Alcune celle della tabella sono evidenziate (ombrate). Qual è la somma dei numeri evidenziati?
+> Siano $m$ e $n$ due interi positivi coprimi. Il Teorema cinese del resto afferma che, per qualsiasi interi $i$ e $j$ tali che $0 \le i < m$ e $0 \le j < n$, esiste esattamente un intero $a$ tale che $0 \le a < mn$, per cui il resto della divisione di $a$ per $m$ è uguale a $i$ e il resto della divisione di $a$ per $n$ è uguale a $j$. Ad esempio, per $m = 3$ e $n = 7$, il numero $19$ è l'unico intero in $\{0, 1, \ldots, 20\}$ che lascia resti $1$ e $5$ quando viene diviso rispettivamente per $3$ e $7$.
+>
+> Nella tabella sottostante (righe = resto della divisione per $3$, colonne = resto della divisione per $7$), ogni intero compreso tra $0$ e $20$ compare esattamente una volta:
+>
+> $$\begin{array}{c|ccccccc}
+> \text{Res mod 3} \backslash \text{Res mod 7} & 0 & 1 & 2 & 3 & 4 & 5 & 6 \\ \hline
+> 0 & 0 & 15 & 9 & 3 & 18 & 12 & 6 \\
+> 1 & 7 & 1 & 16 & 10 & 4 & 19 & 13 \\
+> 2 & 14 & 8 & 2 & 17 & 11 & 5 & 20
+> \end{array}$$
+>
+> Alcune celle della tabella sono evidenziate (ombreggiate). Qual è la somma dei numeri evidenziati?
 
 ![[src_obm_2009_n3_f2__q01.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n3_f2#q01|src_obm_2009_n3_f2__Q01]]
 
 
 
@@ -75,9 +87,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*IC di distanza al centro nel triangolo rettangolo ABC*
+*Distanza dell'incentro CI nel triangolo rettangolo ABC*
 
-> In triangolo $ABC$, $\angle A = 90^\circ$, $AB = 5$ cm e $BC = 9$ cm. Che $I$ sia il centro di $ABC$. Determinare la lunghezza del segmento $CI$.
+> Nel triangolo $ABC$, $\angle A = 90^\circ$, $AB = 5$ cm e $BC = 9$ cm. Sia $I$ l'incentro di $ABC$. Determinare la lunghezza del segmento $CI$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n3_f2#q02|src_obm_2009_n3_f2__Q02]]
 
 
 
@@ -102,9 +121,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La più grande c per la disuguaglianza quadrata; numero intero più vicino a 2009c*
+*Valore massimo di c per la disequazione quadratica; intero più vicino a 2009c*
 
-> $c$ sia la costante reale più grande tale che $$x^2 + 3y^2 \ge c\,(x^2 + xy + 4y^2)$$ per tutti i numeri reali $x$ e $y$. Determinare il numero intero più vicino a $2009c$.
+> Sia $c$ la più grande costante reale tale che
+> $$x^2 + 3y^2 \ge c\,(x^2 + xy + 4y^2)$$
+> per tutti i numeri reali $x$ e $y$. Determinare l'intero più vicino a $2009c$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2009_n3_f2#q03|src_obm_2009_n3_f2__Q03]]
 
 
 
@@ -127,9 +155,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Massima probabilità di vincere una vettura in Toto Bola; trovare m+n*
+*Probabilità massima di vincere un'auto a Toto Bola; trova m+n*
 
-> Nel game show *Toto Bola*, l'host Ciço Magalhães ha due scatole identiche. Un volontario del pubblico è invitato a partecipare al seguente gioco: riceve dieci palle verdi e due palle rosse e le distribuisce tra le due scatole (senza che l'ospite veda), in modo che ciascuna scatola contenga almeno una palla. Poi l'ospite sceglie una delle scatole e disegna una palla. Se la palla è RED, il volontario vince una macchina. Se è VERDE, il volontario vince una banana. La probabilità massima di vincere una vettura è pari a $\dfrac{m}{n}$, dove $m$ e $n$ sono numeri interi positivi con $\gcd(m, n) = 1$. Determinare il valore di $m + n$.
+> Nel game show *Toto Bola*, il conduttore Ciço Magalhães ha due scatole identiche. Un volontario tra il pubblico viene invitato a partecipare al seguente gioco: riceve dieci palline verdi e due palline rosse e le distribuisce tra le due scatole (senza che il conduttore veda), in modo che ciascuna scatola contenga almeno una pallina. Poi il conduttore sceglie una delle scatole ed estrae una pallina. Se la pallina è ROSSA, il volontario vince un'auto. Se è VERDE, il volontario vince una banana. La probabilità massima di vincere un'auto è uguale a $\dfrac{m}{n}$, dove $m$ e $n$ sono interi positivi tali che $\gcd(m, n) = 1$. Determinare il valore di $m + n$.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n3_f2#q04|src_obm_2009_n3_f2__Q04]]
 
 
 
@@ -152,9 +187,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La più piccola n < 10000 con 2^n + n divisibile per 5*
+*Il più grande n < 10000 tale che 2^n + n sia divisibile per 5*
 
-> Determinare il numero intero più grande $n$ inferiore a $10000$ in modo tale che $2^n + n$ sia divisibile da $5$.
+> Determinare il più grande intero $n$ minore di $10000$ tale che $2^n + n$ sia divisibile per $5$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n3_f2#q05|src_obm_2009_n3_f2__Q05]]
 
 
 
@@ -181,9 +223,19 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri a 6 cifre da cifre distinte che soddisfano due condizioni*
+*Conta i numeri di 6 cifre con cifre distinte che soddisfano due condizioni*
 
-> Determinare il numero di enti enti a 6 cifre $n = \overline{a_1 a_2 a_3 a_4 a_5 a_6}$ che possono essere formati utilizzando sei cifre distinte da $\{1, 2, 3, 4, 5, 6, 7, 8, 9\}$ in modo tale che siano soddisfatte contemporaneamente le seguenti condizioni: \begin{enumerate} \item[(i)] $a_1 + a_2 = a_3 + a_4 = a_5 + a_6$; \item[(ii) $n$ è divisibile per $9$. \end{enumere}
+> Determinare il numero di interi di 6 cifre $n = \overline{a_1 a_2 a_3 a_4 a_5 a_6}$ che si possono formare utilizzando sei cifre distinte estratte da $\{1, 2, 3, 4, 5, 6, 7, 8, 9\}$, in modo che le seguenti condizioni siano soddisfatte simultaneamente:
+> \begin{enumerate}
+> \item[(i)] $a_1 + a_2 = a_3 + a_4 = a_5 + a_6$; \item[(ii)] $n$ è divisibile per $9$.
+> \end{enumerate}
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n3_f2#q06|src_obm_2009_n3_f2__Q06]]
 
 
 
@@ -207,9 +259,17 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le soluzioni integrali positive a 4·3^a = 11 + 5^b*
+*Trovare tutte le soluzioni in numeri interi positivi dell'equazione 4·3^a = 11 + 5^b*
 
-> Trova tutti gli integri $a > 0$ e $b > 0$ in modo tale che $$4 \cdot 3^a = 11 + 5^b.$$
+> Trovare tutti gli interi $a > 0$ e $b > 0$ tali che
+> $$4 \cdot 3^a = 11 + 5^b.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2009_n3_f2#q07|src_obm_2009_n3_f2__Q07]]
 
 
 
@@ -237,11 +297,21 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conteggio di elementi di unione di gruppi A_n definiti tramite funzione pavimento*
+*Conta gli elementi dell'unione degli insiemi A_n definiti tramite la funzione parte intera*
 
-> Per ogni numero intero positivo $n$, $$A_n = \{x \in \mathbb{R}_+ : \lfloor x \rfloor \le n\},$$ dove $\mathbb{R}_+$ è l'insieme dei numeri reali positivi e $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$.
-> 
-> Determinare il numero di elementi del set $$A_1 \cup A_2 \cup A_3 \cup \cdots \cup A_{2009}.$$
+> Per ogni intero positivo $n$, sia
+> $$A_n = \{x \in \mathbb{R}_+ : \lfloor x \rfloor \le n\},$$
+> dove $\mathbb{R}_+$ è l'insieme dei numeri reali positivi e $\lfloor x \rfloor$ denota il più grande intero minore o uguale a $x$.
+>
+> Determinare il numero di elementi dell'insieme
+> $$A_1 \cup A_2 \cup A_3 \cup \cdots \cup A_{2009}.$$
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2009_n3_f2#q08|src_obm_2009_n3_f2__Q08]]
 
 
 
@@ -264,6 +334,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Distanza tra i punti di centro di BC e KL in triangolo con circolo incircolare e di diametro circolare*
+*Distanza tra i punti medi di BC e KL in un triangolo con cerchio inscritto e cerchio di diametro*
 
-> Nel triangolo $ABC$, abbiamo $\angle A = 120^\circ$ e $BC = 12$ cm. Il cerchio (cerchio) inscritto del triangolo $ABC$ è tangente ai lati $AB$ e $AC$ rispettivamente nei punti $D$ e $E$. $K$ e $L$ siano i punti in cui la linea $DE$ interseca il cerchio con il diametro $BC$. Determinare la distanza tra i punti medi dei segmenti $BC$ e $KL$.
+> Nel triangolo $ABC$, si hanno $\angle A = 120^\circ$ e $BC = 12$ cm. La circonferenza inscritta nel triangolo $ABC$ è tangente ai lati $AB$ e $AC$ nei punti $D$ e $E$, rispettivamente. Siano $K$ e $L$ i punti in cui la retta $DE$ interseca la circonferenza di diametro $BC$. Determinare la distanza tra i punti medi dei segmenti $BC$ e $KL$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2009_n3_f2#q09|src_obm_2009_n3_f2__Q09]]

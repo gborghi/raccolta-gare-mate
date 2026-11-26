@@ -41,17 +41,28 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Funzione reale con f(x-y)=f(x)-f(y) + bxy; continuità e differenziabilità*
+*L'unico $b$ per cui esiste una tale funzione reale, e continuità e derivabilità*
 
-> In questa domanda una "funzione reale" significa una funzione $f$ tale che $f(x)$ esista ed è reale per tutti i numeri reali $x$.
-> 
-> (i) Indicare che esiste solo un valore della costante $b$ per la quale esiste una funzione reale $f$ con la proprietà che, per tutte le realtà $x$ e $y$, $$f(x-y) = f(x) - f(y) + bxy$$ dove $b$ è una costante.
-> 
-> (ii) Una funzione reale $f$ ha la proprietà che per tutte le funzioni reali $x$ e $y$ $$f(x-y) = f(x) - f(y) + cxy$$ dove $c$ è una costante.
-> 
-> (a) dimostrare che se $f$ è continuo a $x = 0$ allora è continuo ovunque.
-> 
-> b) dimostrare che se $f$ è differenziabile ovunque, e trovare il $f$ più generale in questo caso.
+> In questo quesito una «funzione reale» è una funzione $f$ tale che $f(x)$ esista e sia reale per tutti i numeri reali $x$.
+>
+> (i) Dimostrare che esiste un solo valore della costante $b$ per cui esiste una funzione reale $f$ con la proprietà che, per tutti gli $x$ e $y$ reali,
+> $$f(x-y) = f(x) - f(y) + bxy$$
+> dove $b$ è una costante.
+>
+> (ii) Una funzione reale $f$ ha la proprietà che per tutti gli $x$ e $y$ reali
+> $$f(x-y) = f(x) - f(y) + cxy$$
+> dove $c$ è una costante.
+>
+> (a) Dimostrare che se $f$ è continua in $x = 0$ allora è continua ovunque.
+>
+> (b) Dimostrare che se $f$ è derivabile ovunque, e trovare la $f$ più generale in questo caso.
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
+
+[[Quesiti/src_bmo_1974-75_round2#q01|src_bmo_1974-75_round2__Q01]]
 
 
 
@@ -76,9 +87,18 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-*I numeri interi positivi non presenti in un dato insieme infinito sono le somme di numeri interi positivi consecutivi*
+*Ogni intero positivo fuori da quell'insieme è somma di due o più interi positivi consecutivi*
 
-> Dimostra che ogni intero positivo che non è un membro dell'insieme infinito $$3,\ 2^2 \cdot 3,\ 2^4 \cdot 3,\ \ldots,\ 2^{2k} \cdot 3,\ \ldots$$ è uguale alla somma di due o più interi positivi consecutivi.
+> Dimostrare che ogni intero positivo che non appartiene all'insieme infinito
+> $$3,\ 2^2 \cdot 3,\ 2^4 \cdot 3,\ \ldots,\ 2^{2k} \cdot 3,\ \ldots$$
+> è uguale alla somma di due o più interi positivi consecutivi.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1974-75_round2#q02|src_bmo_1974-75_round2__Q02]]
 
 
 
@@ -101,9 +121,16 @@ level: BMO Round 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-La sala di probabilità A si riempie di n concorrenti prima della sala B
+*La probabilità che la stanza $A$ si riempia di $n$ concorrenti prima della stanza $B$*
 
-> Ci sono paesi che partecipano a un concorso internazionale di matematica, con due concorrenti di ciascun paese. Il concorso si svolge in due sale, $A$ e $B$. All'inizio del concorso i concorrenti $2n$ formano una coda, in qualsiasi ordine. Il concorrente in prima fila entra nella stanza $A$. Ogni concorrente successivo va prima alla porta della stanza che il suo immediato predecessore nella coda è entrato, e guarda in. Se nella stanza ci sono già meno di $n$ persone, entra; altrimenti entra nell'altra stanza. Tutti gli ordini della coda sono uguali. Determinare con prova la probabilità che la stanza $A$ sia riempita di concorrenti $n$ prima della stanza $B$.
+> Partecipano $n$ paesi a una gara internazionale di matematica, con due concorrenti per paese. La gara si tiene in due stanze, $A$ e $B$. All'inizio i $2n$ concorrenti formano una coda, in un ordine qualunque. Il concorrente in testa alla coda entra nella stanza $A$. Ogni concorrente successivo va prima alla porta della stanza in cui è entrato il suo immediato predecessore nella coda, e guarda dentro. Se nella stanza ci sono già meno di $n$ persone, vi entra; altrimenti entra nell'altra stanza. (Così i concorrenti dello stesso paese sono separati.) Tutti gli ordini della coda sono ugualmente probabili. Determinare, con dimostrazione, la probabilità che la stanza $A$ si riempia di $n$ concorrenti prima della stanza $B$.
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
+
+[[Quesiti/src_bmo_1974-75_round2#q03|src_bmo_1974-75_round2__Q03]]
 
 
 
@@ -130,10 +157,17 @@ La sala di probabilità A si riempie di n concorrenti prima della sala B
 <div class="qlang-split" data-lang="it"></div>
 
 
-*12 cerchi uguali su una sfera: tre gruppi che toccano altri 3, 4 o 5*
-
-> Il diagramma illustra una configurazione di 12 cerchi. L'insieme $S$ di 12 cerchi contiene tre sottoinsiemi $S_3$, $S_4$, $S_5$, ognuno di cui ha 4 cerchi e in modo tale che ciascuno dei 4 cerchi di $S_r$ tocchi $r$ cerchi di $S$.
-> 
-> Prova che una tale configurazione di 12 cerchi esiste sulla superficie di una sfera con tutti i 12 cerchi con uguali raggi.
+*Una tale configurazione di 12 circonferenze esiste su una sfera, con raggi uguali*
 
 ![[src_bmo_1974-75_round2__q04.png]]
+
+> La figura illustra una configurazione di 12 circonferenze. L'insieme $S$ di 12 circonferenze contiene tre sottoinsiemi $S_3$, $S_4$, $S_5$, ciascuno di 4 circonferenze, tali che ciascuna delle 4 circonferenze di $S_r$ tocca $r$ circonferenze di $S$.
+>
+> Dimostrare che una tale configurazione di 12 circonferenze esiste sulla superficie di una sfera, con tutte le 12 circonferenze di raggio uguale.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria|Geometria]]
+
+[[Quesiti/src_bmo_1974-75_round2#q04|src_bmo_1974-75_round2__Q04]]

@@ -31,11 +31,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Year x before 9613 with 9613^2-x^2 perfect square*
+*In year x, before 9613, with 9613^2 - x^2 being a perfect square*
 
-> Welcome to the future! Philip J. Frege, you're in the future! Liela Turinga shouts dramatically after awakening our hero from hibernation. What year are they? Shortly before the year 9613. In fact, it's exactly the last year x before 9613 so 96132 −x2 is a perfect square. What year is the poor pony-pizza?
+> Welcome to the future! "Philip J. Frege, you are in the future!" Liela Turinga exclaims dramatically after waking our hero from hibernation. "What year is it?" "A little before the year 9613. In fact, it's precisely the last year x before 9613 such that 9613² − x² is a perfect square." In what year is poor pony-pizza?
 
-**Answer:** 9595
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_finale#q01|src_squadre_2018_finale__Q01]]
 
 
 
@@ -65,11 +69,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sectors reachable on a chessboard with costs 2 and 3, 60 balls*
+*Sectors reachable on the board with costs 2 and 3, 60 balls*
 
-> Right in your box. Fredholm shows Frege a two-dimensional infinite chessboard-shaped map of the universe; each box represents a sector of the galactic plane. He points to the center of the sector corresponding to the Earth, and explains: "Our delivery ship has an engine of my invention that uses dark matter as fuel. With two balls of dark matter, produced by our Mordaglia, it can move from one sector horizontally or vertically; with three it can move from one sector diagonally. Starting from our base on Earth, we can deliver anywhere we can reach with 60 balls of fuel or less. Including the start, of course, he adds with a laugh. How many different sectors can the Planar Express deliver to?
+> Directly to your inbox: Prof. Fredholm shows Frege a map of the universe shaped like an infinite two-dimensional checkerboard; each square represents a sector of the galactic plane. He points with his finger at the center of the sector corresponding to Earth and explains: "Our delivery spacecraft has an engine of my invention that uses dark matter as fuel. With two balls of dark matter, produced by our Mordaglia, it can move one sector horizontally or vertically; with three, it can move one sector diagonally. Starting from our base on Earth, we can make deliveries to any sector reachable with 60 balls of fuel or fewer. Including the starting sector, of course," he adds with a chuckle. In how many different sectors can the Planar Express make deliveries?
 
-**Answer:** 2441
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_finale#q02|src_squadre_2018_finale__Q02]]
 
 
 
@@ -96,11 +104,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Sum of N with such sequence that N^a0=sum of N^ai*
+*A sum N with a sequence such that N^a0 = sum of N^ai*
 
-> Beuler gives the numbers [⋆] The Beuler robot went into tilt because of a magnet, and it literally started to give the numbers! The Professor. Fredholm observes that the numbers listed by Beuler are all and only positive integers N for which there is a sequence of nonnegative integers a0,a1,...,a2019 such that Na0 = Na1 +Na2 +··+Na2019 What is the sum of all numbers listed by Beuler?
+> Beuler Goes Nuts [⋆] The Beuler robot went haywire because of a magnet and literally started spouting numbers! Prof. Fredholm notices that the numbers listed by Beuler are precisely the positive integers N for which there exists a sequence of non-negative integers a0, a1, ..., a2019 such that Na0 = Na1 + Na2 + ·· + Na2019. What is the sum of all the numbers listed by Beuler?
 
-**Answer:** 3034
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_finale#q03|src_squadre_2018_finale__Q03]]
 
 
 
@@ -129,11 +141,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Match sequences with draw and win difference constraints*
+*Sequences of matches with constraints on draws and the difference in wins*
 
-> A game of balance Halbert Conway, the bureaucrat at Planar Express, is a former limbo champion. In this game, each single match may end with the win of one of the players or a draw; however, two subsequent matches may not end with the wins of two different players. Halbert's last challenge with Barbaros Schur was memorable. The challenge ended shortly after the fourth draw, and was very balanced: the difference in absolute value between Halbert's and Barbaros's number of wins never exceeded 3. What are the possible ways (i.e. sequences of results from subsequent matches) in which the challenge may have taken place, based on this information?
+> A Game of Balance Halbert Conway, the bureaucrat at Planar Express, is a former limbo champion. In this game, each individual match can end in a win for one of the players or in a draw; however, two consecutive matches cannot end with wins for two different players. Halbert's last challenge against Barbaros Schur was memorable. The challenge ended right after the fourth draw, and it was extremely balanced: the absolute difference between the number of wins for Halbert and the number of wins for Barbaros never exceeded 3. Based on this information, how many possible ways (that is, sequences of results of consecutive matches) could the challenge have unfolded in?
 
-**Answer:** 2401
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_finale#q04|src_squadre_2018_finale__Q04]]
 
 
 
@@ -164,13 +180,17 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Robot paths with straight and diagonal steps to the input*
+*Robot paths with straight and diagonal steps up to the entrance*
 
-> The robot Beuler, again, has been drinking a little too much. It is located in front of the huge wall of the robo-apartment complex in which he lives, twelve metres away from it. With each of its long steps, the robot can move in three different directions: either two meters straight toward the wall perpendicular to it, or one meter straight toward the wall and at the same time one to the right or left. With Team Race 3018  National Finals  Problem Tests  1/3
-> 
-> Six straight steps would reach the entrance, for example, or with two steps to the left, four straight, and then two right. How many possible routes lead to the entrance?
+> The Stroll of the Drunk Robot Robot Beuler has, once again, drunk a little too much. He is standing in front of the enormous wall of the robo-apartment complex where he lives, twelve meters away from it. With each of his long steps, the robot can move in three different directions: either two meters straight toward the wall, perpendicular to it, or one meter straight toward the wall and at the same time one meter to the right or to the left. With Team Competition 3018 – National Final – Problem Texts – 1/3
+>
+> For example, he would reach the entrance in six straight steps, or with two steps to the left, four straight steps, and then two steps to the right. How many possible paths lead him to the entrance?
 
-**Answer:** 8989
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_finale#q05|src_squadre_2018_finale__Q05]]
 
 
 
@@ -197,11 +217,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Quadrilateral with angular conditions, measurement of BC*
+*Quadrilateral with angular conditions, measure of BC*
 
-> General Brouwergan has decided to carpet bomb a certain area of planet Even 7, which is shaped like an ABCD quadrilateral. His deputy Kief Kroneker provides the necessary information to complete the operation: the equations BAD + CBD = BCA + 2ADB = 90° and BCD = 2BAD are valid. Also, say X the intersection point of the diagonals, you have that CX = 33, AX = 65. How big is BC?
+> Exporting Democracy [⋆⋆] General Brouwergan has decided to carry out a carpet bombing of a certain area of the planet Even 7, which is shaped like the quadrilateral ABCD. His deputy, Kief Kroneker, provides the information needed to complete the operation: the following equalities hold: ∠BAD + ∠CBD = ∠BCA + 2∠ADB = 90°, and ∠BCD = 2∠BAD. Furthermore, letting X be the intersection point of the diagonals, we have CX = 33 and AX = 65. What is the length of BC?
 
-**Answer:** 0056
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_finale#q06|src_squadre_2018_finale__Q06]]
 
 
 
@@ -231,11 +255,16 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interies X without zero for which Y=X^2 is read reverse*
+*Interior X without zero, for which Y=X^2 holds when read backwards*
 
-> Opportunities for intergalactic peace [⋆⋆] The inhabitants of the Otto Persei system have a habit of writing numbers in the opposite direction to those of the solar system, that is, reading them from right to left instead of from left to right. This is the source of many misunderstandings, also because of their bellicose nature, but occasionally it happens that both we and they agree on a statement of the type  the number Y is the square of the number X (each reading the numbers in his own way), for example for X = 12,Y = 144. For how many positive integers X that do not contain the digit zero do the two civilizations agree?
+> Opportunity for Intergalactic Peace [⋆⋆] The inhabitants of the Otto Persei system have a habit of writing numbers backwards compared with those in the Solar System—that is, reading them from right to left rather than from left to right. This is a source of numerous misunderstandings, partly because of their bellicosity, but occasionally both we and they agree on a statement such as "the number Y is the square of the number X" (each reading the numbers in their own way), for example when X = 12 and Y = 144. For how many positive integers X that do not contain the digit zero do the two civilizations agree?
 
-**Answer:** 0055
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_finale#q07|src_squadre_2018_finale__Q07]]
 
 
 
@@ -265,11 +294,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Triangle, inscribed and excised conical circles, minimum AC*
+*Triangle, concentric inscribed and circumscribed circles, minimum AC*
 
-> In the year 3018, it is now common knowledge that the wheat circles are messages from the aliens of the planet Otto Persei, great experts on earth's culture. In a particularly elaborate message, the alien Mrrr plotted an ABC triangle with AB = 2017 and BC = 2076. The circle inscribed in the triangle met AC and AB in B1 and C1 respectively. The tangent circle on the AB side and on the AC and CB side extensions (from the A and B sides respectively) met the AC straight in B2. The tangent circle on the AC side and the BA and BC side extensions (on the A and C sides respectively) met the straight AB in C2. Knowing that the four points B1C1B2C2 were on the same circumference, find the lowest possible value for AC.
+> Crop Circles In the year 3018, it is now common knowledge that crop circles are messages from aliens on the planet Otto Persei, who are great experts in Earth culture. In a particularly elaborate message, the alien Mrrr drew triangle ABC with AB = 2017 and BC = 2076. The incircle of the triangle met AC and AB at B1 and C1, respectively. The circle tangent to side AB and to the extensions of sides CA and CB (from sides A and B, respectively) met line AC at B2. The circle tangent to side AC and to the extensions of sides BA and BC (from sides A and C, respectively) met line AB at C2. Given that the four points B1, C1, B2, C2 lie on the same circle, find the minimum possible value of AC.
 
-**Answer:** 2017
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_finale#q08|src_squadre_2018_finale__Q08]]
 
 
 
@@ -297,11 +330,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Grid routes from (8.6) to (0.0) with 7 direction changes*
+*Walk on a grid from (8,6) to (0,0) with 7 changes of direction*
 
-> After a divergent fire, the inhabitants of the Otto Persei system decided to invade Earth. Their planet, for that matter, is in the position (8.6) of the Cartesian plane. Their spaceship moves by taking steps of length 1 in the plane, always down or left, and is trying to land at the point (0.0). General Brouwergan tries to hit her with his positron cannon, but it changes direction exactly seven times and disorients him, making it land. How many different routes are possible for the spacecraft?
+> Shattering the Plan [⋆] After a heated dispute, the inhabitants of the Otto Persei system decided to invade Earth. Their planet, precisely, is located at position (8,6) in the galactic Cartesian plane. Their spacecraft moves by taking steps of length 1 in the plane, always downward or to the left, and is trying to land at point (0,0). General Brouwergan tries to hit it with his positronic cannon, but the spacecraft changes direction exactly 7 times and throws him off course, managing to land. How many different possible paths are there for the spacecraft?
 
-**Answer:** 0700
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_finale#q09|src_squadre_2018_finale__Q09]]
 
 
 
@@ -328,11 +365,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Liars and truthful in line with pattern responses, maximum liars*
+*Liars and sincere people in a line with patterned responses—mostly liars*
 
-> In the president's room of the Museum of Heads in New York City, there are 2017 heads in a row: however, some presidents always lie, others always tell the truth. To uncover the liars, Liela asks each of them (except the last one) if the next president is sincere. As answers, in order, you get a yes, then a yes and a no, then a yes and two no, then a yes and three no, and so on until 2016. How many liars are there at most?
+> The Presidents of UMI In the Hall of Presidents at the Museum of Heads in New New York, 2017 heads are lined up: however, some presidents always lie, while others always tell the truth. To root out the liars, Liela asks each of them (except the last one) whether the president in the next position is sincere. In order, she gets as answers a yes, then a yes and a no, then a yes and two nos, then a yes and three nos, and so on up to the 2016th. What is the maximum number of liars?
 
-**Answer:** 1009
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_finale#q10|src_squadre_2018_finale__Q10]]
 
 
 
@@ -361,11 +402,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Rectangular trapezoid, cyclic quadrilateral, value a+b*
+*Right trapezoid, cyclic quadrilateral, value of a+b*
 
-> The Goentel monkey, who became very intelligent thanks to the hat invented by prof. Fredholm, he likes geometry problems. In the main room of the University of Mars, it weighs in front of an ABCD trapezoid, rectangle in B, with major base AB and minor base DC. He indicated the lengths of some of its sides: AB = a, BC = 1000, DC = b. Then call D′ the symmetric of D with respect to the straight AC, and E the intersection of AC and BD. Goentel knows that there is a value of a such that AD′ED can be inscribed in a circumference for one and only one positive value of b. Can you help her figure out how much a+b is worth?
+> Credit for the Bowler Hat [⋆] The monkey Goentel, who has become extremely intelligent thanks to the hat invented by Prof. Fredholm, takes pleasure in geometry problems. In the main lecture hall of the University of Mars, Goentel is considering a trapezoid ABCD, right-angled at B, with longer base AB and shorter base DC. Goentel has specified the lengths of some of its sides: AB = a, BC = 1000, DC = b. Goentel then calls D′ the reflection of D across the line AC, and E the intersection of AC and BD. Goentel knows that there exists a value of a such that AD′ED can be inscribed in a circle for exactly one positive value of b. Could you help Goentel find the value of a+b?
 
-**Answer:** 3000
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_finale#q11|src_squadre_2018_finale__Q11]]
 
 
 
@@ -394,11 +439,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Multiple maximal roots of g(x) = f(x^3-3x)*
+*Multiple maximum roots of g(x)=f(x^3-3x)*
 
-> Ask me another question. When he was teaching at the University of Mars, Fredholm used to give this problem to his most promising students, or those who disliked him the most. Whether f is a real coefficient polynomial that has no multiple roots. How many multiple roots can the polynomial g(x) = f(x3 −3x have, at most)? It is said that λ is a multiple root of the polynomial p(x) if p(x) (x−λ)2 is a polynomial.
+> Ask me another question [⋆] When he was teaching at the University of Mars, Prof. Fredholm used to give this problem to his most promising students, or to those he liked least. Let f be a polynomial with real coefficients that has no multiple roots. What is the maximum number of multiple roots that the polynomial g(x) = f(x³ − 3x) can have? λ is said to be a multiple root of the polynomial p(x) if p(x)/(x−λ)² is a polynomial.
 
-**Answer:** 0002
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_squadre_2018_finale#q12|src_squadre_2018_finale__Q12]]
 
 
 
@@ -427,11 +476,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Two equal interchangeable spheres in regular tetrahedron, maximum radius*
+*Two identical interchangeable spheres in a regular tetrahedron, maximum radius*
 
-> The universe in a room. Good news, mathematicians. Fredholm this regular tetrahedron-shaped box of side 28 √ 3m contains not one, but two universes, identical, and spherical in shape. Not only that, but the spheres can change places by moving rigidly inside the box, never overlapping. How many millimeters can you measure, at most, the radius of the two spherical universes?
+> The Universe in a Room [⋆⋆] "Good news, mathematicians!" exclaims Prof. Fredholm. "This box, shaped like a regular tetrahedron with an edge length of 28√3 m, contains not one but two identical spherical universes. Moreover, the spheres can swap places by moving rigidly inside the box without ever overlapping." What is the maximum possible radius, in millimeters, of the two spherical universes?
 
-**Answer:** 6727
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_finale#q13|src_squadre_2018_finale__Q13]]
 
 
 
@@ -463,13 +516,18 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*sum of N/s(N) for N from 1 to 1000*
+*Sum of N/s(N) for N from 1 to 1000*
 
-> To convert into theorems, Frege decided to use his tax refund to buy 1,000 coffees. For each N between 1 and 1000, the N-eighth coffee has a caffeine content equal to N/s(N), where s(N) is the sum of the digits of N: for example, the 433rd coffee contains 433 4+3+3. What is the total amount of caffeine Frege will take, equal to the sum of Team Competition 3018  National Finals  Problem Tests  2/3
-> 
-> The caffeine content of all the coffees?
+> To be converted into theorems [⋆] Frege decided to use his tax refund to buy 1000 coffees. For each N between 1 and 1000, the Nth coffee has a caffeine content equal to N/s(N), where s(N) is the sum of the digits of N: for example, the 433rd coffee contains 433/(4+3+3) units of caffeine. What is the total amount of caffeine Frege will consume, equal to the sum Team Competition 3018 – National Final – Problem Texts – 2/3
+>
+> Of the caffeine content of all coffees?
 
-**Answer:** 7963
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_finale#q14|src_squadre_2018_finale__Q14]]
 
 
 
@@ -498,11 +556,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Table 4x4 fillings with monotony constraints, counting*
+*4x4 table fillings with monotonicity constraints, counting*
 
-> For reasons unknown to most, Frege has an inconvenient number tattoo. This is a table 4×4 in which the four boxes of the diagonal running from the bottom left to the top right are blacked. In the remaining boxes, the integers between 1 and 12 are written once each. In each pair of boxes adjacent horizontally, the leftmost box contains a larger number than the rightmost box. In each pair of boxes adjacent vertically, the top box contains a larger number than the bottom box. In how many ways can the table be filled in under these conditions?
+> CAPTCHA [⋆] For reasons unknown to most people, Frege has an inconvenient tattoo featuring numbers. It is a 4×4 grid in which the four cells on the diagonal running from the bottom-left cell to the top-right cell are blacked out. In the remaining cells are written the integers from 1 to 12, each appearing exactly once. In each pair of horizontally adjacent cells, the leftmost cell contains a larger number than the rightmost cell. In each pair of vertically adjacent cells, the topmost cell contains a larger number than the bottommost cell. In how many ways can the grid be filled while satisfying these conditions?
 
-**Answer:** 6544
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_finale#q15|src_squadre_2018_finale__Q15]]
 
 
 
@@ -529,11 +591,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*2018 codes 0,1,2 digits plus 8, remaining mod 2018*
+*2018 codes: digits 0,1,2 with a sum of at most 8; remainder mod 2018*
 
-> Brute force Beuler knows that the code that releases the time sphere that will allow him to travel in time is a sequence of 2018 digits, chosen between 0.1,2, but whose sum is worth the most 8. With his robotic fingers, he's trying to type one at a time all the possible codes that meet these characteristics. How many codes will he type? It is answered by indicating the remainder of the division of this issue for 2018.
+> Brute force: Beuler knows that the code which unlocks the time sphere that will allow him to travel through time is a sequence of 2018 digits chosen from 0, 1, and 2, but whose sum is at most 8. With his robotic fingers, he is trying to type, one by one, all the possible codes that satisfy these conditions. How many codes will he type? Answer by giving the remainder when this number is divided by 2018.
 
-**Answer:** 0001
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_finale#q16|src_squadre_2018_finale__Q16]]
 
 
 
@@ -559,11 +625,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum parts in which 20 M fractions divide the plane*
+*Main parts in which 20 segments at M divide the plane*
 
-> The logo of MuCorp, the most powerful corporation in the universe, is in the shape of a letter M that extends to infinity, that is, an unwoven piece composed of one half, two segments, and one half (in this order). How many sections is the plan divided into by 20 pieces of this type?
+> Division of the Plane [⋆⋆] The logo of MuCorp, the most powerful corporation in the universe, is shaped like an M that extends to infinity—that is, a non-interlaced polygonal chain consisting of a ray, two line segments, and another ray (in that order). Into at most how many parts can the plane be divided by 20 such polygonal chains?
 
-**Answer:** 3061
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_finale#q17|src_squadre_2018_finale__Q17]]
 
 
 
@@ -591,11 +661,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Data g1g2m1m2 produced from the first two mirrors, sum of values*
+*Date g1g2m1m2: product of two mirrored primes, sum of values*
 
-> Special birthday Frege has forgotten again what day it's Liela's birthday! It is only recalled that the number g1g2m1m2 formed by writing the date in the day/month format (with g1 and m1 equal to zero, if any) and reading the four digits in a row, is the product of two prime numbers, different and less than 100, which are written with the same digits in opposite order (ab and ba). What are the possible dates of birth that meet this requirement? The sum of the possible values of the number g1g2m1m2 is given.
+> A Special Birthday Frege has once again forgotten what day Liela's birthday is! He only remembers that the number g1g2m1m2, formed by writing the date in day/month format (with g1 and m1 possibly equal to zero) and reading the four digits in sequence, is the product of two distinct prime numbers both less than 100, which are written with the same digits in reverse order (ab and ba). What are the possible birth dates that satisfy this condition? Answer by giving the sum of the possible values of the number g1g2m1m2.
 
-**Answer:** 4311
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_squadre_2018_finale#q18|src_squadre_2018_finale__Q18]]
 
 
 
@@ -624,11 +698,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Iterated equilateral triangles, measuring PC with AB=3556*
+*Iterated equilateral triangles, PC measure with AB=3556*
 
-> Frege, Escher and Bach's Lolomorfo is a musical instrument capable of projecting complex four-dimensional scenes. Philip J. Frege, who enjoys this instrument, drew an ABC equilateral triangle on a plane in mid-air. Named M the middle point of BC, he constructed with a swivel the outer point D at ABC such that BMD is an equilateral triangle. He then repeated the construction and melody on a sharper octave, calling N the midpoint of MD and choosing P external to BMD such that PND is an equilateral triangle. Knowing that AB is 3556, how big is PC?
+> Frege, Escher, and Bach: The Holomorpho is a musical instrument capable of projecting complex four-dimensional scenes. Philip J. Frege, who dabbles in this instrument, drew an equilateral triangle ABC on a plane in mid-air. Letting M be the midpoint of BC, he sketched, with a flourish, a point D outside triangle ABC such that BMD is an equilateral triangle. Then he repeated the construction and the melody an octave higher, calling N the midpoint of MD and choosing P outside triangle BMD such that PND is an equilateral triangle. Given that AB = 3556, how long is PC?
 
-**Answer:** 2352
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_finale#q19|src_squadre_2018_finale__Q19]]
 
 
 
@@ -657,11 +735,15 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tangent circle at 5 circles on a pentagon, radius*
+*Circle tangent to 5 circles on a pentagon, radius*
 
-> The legendary five-leafed quadruped found by Frege had the shape of this flat figure. On a circumference Γ of center O and radius 1, we take five points A,B,C,D,E that divide it into five equal and disjoint arcs. Consider the five radii of radius 1, distinct from Γ, and passing respectively through A and B, through B and C, through C and D, through D and E, through E and A. A smaller circumference of center O is tangent to these five circumferences. How much is your radius worth? It is answered by indicating the first four digits after the comma.
+> The Five-Petaled Shamrock The legendary five-petaled shamrock found by Frege had the shape of this planar figure. On a circle Γ with center O and radius 1, we take five points A, B, C, D, E that divide Γ into five equal, disjoint arcs. Consider the five circles of radius 1, distinct from Γ, and passing respectively through A and B, through B and C, through C and D, through D and E, and through E and A. A smaller circle with center O is tangent to these five circles. What is its radius? Answer by giving the first four digits after the decimal point.
 
-**Answer:** 6180
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_squadre_2018_finale#q20|src_squadre_2018_finale__Q20]]
 
 
 
@@ -702,10 +784,14 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interi n for which the ball returns to the starting player in 24 steps*
+*An interior pass, meaning the ball returns to the initial player in 24 passes*
 
-> The Goldbachtrotters are famous for their ability to manipulate increasingly high numbers. In their most famous number, 2n of them line up, wearing shirts that are written, from left to right, the numbers +1, +2, +3... + (n −1),+n,−n,−(n −1)... −2,−1. The first of them, the one with the number +1, throws the ball to his teammate immediately to his right. Similarly, when each player receives the ball, he passes it to the player who has a distance from him equal to his jersey number, to the right if the number is positive and to the left if it is negative. So for example, the player with the number −4 passes the ball to the player who is four places to the left of him. For how many integers n ≥1 will the ball be back in the starting player's possession after 24 passes? Competition in 3018 Teams  National Final  Problem Tests  3/3
-> 
-> The 19th National Final Team Competition  Solution  5 May 3018 olimpiadi.dm.unibo.it www.oliforum.it Nr. The problem
+> Balls in Motion [⋆] The Goldbachtrotters are famous for their ability to manipulate numbers of ever-increasing magnitude. In their most famous act, 2n of them line up, wearing jerseys on which, from left to right, the numbers +1, +2, +3, ..., +(n−1), +n, −n, −(n−1), ..., −2, −1 are written. The first of them, the one with the number +1, throws the ball to their teammate immediately to their right. Similarly, when a player receives the ball, each player passes it to the player who is a distance from them equal to their jersey number—to the right if the number is positive and to the left if it is negative. So, for example, the player with the number −4 passes the ball to the player four positions to their left. For how many integers n ≥ 1 will the ball be back in the possession of the starting player after 24 passes? Team Competition 3018 – National Final – Problem Statements – 3/3
+>
+> XIX National Team Competition National Final – Solutions – 5 May 3018 olimpiadi.dm.unibo.it www.oliforum.it No. Problem
 
-**Answer:** 0095
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_squadre_2018_finale#q21|src_squadre_2018_finale__Q21]]

@@ -33,13 +33,19 @@ level: Semifinale di Primavera
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-visible points on two dice*
+*Invisible dots on two dice*
 
-> On the faces of a dice, the points corresponding to the natural numbers 1 to 6 appear. The faces shown in the figure show a total of 13 points. **How many dots are not visible? **
+> On the faces of a die, dots appear corresponding to the natural numbers from 1 to 6. The faces visible in the figure show a total of 13 dots.
+> How many points are not visible?
 
 ![[src_bocconi_primavera_2008__q01.png]]
 
-**Answer:** 29
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2008#q01|src_bocconi_primavera_2008__Q01]]
 
 
 
@@ -66,9 +72,14 @@ level: Semifinale di Primavera
 
 *Previous date consisting only of odd digits*
 
-> The general test of the "International Mathematical Games Championships" took place on March 8, exactly one week before the competition. Only one of the figures for 8.3.2008 is odd. **What is the previous date composed solely of odd numbers? **
+> The dress rehearsal for the "International Mathematical Games Championships" took place on March 8, exactly one week before the competition. Only one of the digits that make up the date 8.3.2008 is odd. **What is the previous date made up entirely of odd digits?**
 
-**Answer:** 19.11.1999
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2008#q02|src_bocconi_primavera_2008__Q02]]
 
 
 
@@ -93,13 +104,17 @@ level: Semifinale di Primavera
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Reflected number in the mirror*
+*Number reflected in the mirror*
 
-> If you put the figure number in front of a mirror, what number do you see?
+> **If you place the number on the figure in front of a mirror, which number do you see?**
 
 ![[src_bocconi_primavera_2008__q03.png]]
 
-**Answer:** 2905
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2008#q03|src_bocconi_primavera_2008__Q03]]
 
 
 
@@ -123,11 +138,15 @@ level: Semifinale di Primavera
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Time of simultaneous departure of four trains*
+*Simultaneous departure time of four trains*
 
-> From the Math City station at noon, four trains depart simultaneously to Milan, Rome, Bari and Venice. Those to Milan then leave every 40 minutes; those to Rome every 20 minutes; those to Bari every 15 minutes; those to Venice, finally, every 30 minutes. What time (after noon) will the four trains start again simultaneously for the first time?
+> At noon, four trains depart simultaneously from Math City station, bound respectively for Milan, Rome, Bari, and Venice. The trains to Milan then depart every 40 minutes; those to Rome, every 20 minutes; those to Bari, every 15 minutes; and finally, those to Venice, every 30 minutes. **At what time (after noon) will the four trains depart simultaneously again for the first time?**
 
-**Answer:** 14:00
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2008#q04|src_bocconi_primavera_2008__Q04]]
 
 
 
@@ -153,13 +172,18 @@ level: Semifinale di Primavera
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many triangles in the figure with intersecting lines*
+*How many triangles are there in the figure with intersecting lines?*
 
 > How many triangles do you see in the figure?
 
 ![[src_bocconi_primavera_2008__q05.png]]
 
-**Answer:** 7
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_primavera_2008#q05|src_bocconi_primavera_2008__Q05]]
 
 
 
@@ -184,11 +208,16 @@ level: Semifinale di Primavera
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Total matches played in basketball tournaments*
+*Total matches in the basketball tournament*
 
-> There are eight teams competing in the school basketball tournament. Each team only meets the others once. **How many matches will be played in the tournament? **
+> There are 8 teams taking part in the school basketball tournament. Each team plays every other team exactly once. **How many matches will be played in the tournament?**
 
-**Answer:** 28
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2008#q06|src_bocconi_primavera_2008__Q06]]
 
 
 
@@ -212,11 +241,16 @@ level: Semifinale di Primavera
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Diagonal of a hexagon*
+*Diagonals of a hexagon*
 
-> **How many diagonals is a hexagon? **
+> How many diagonals does a hexagon have?
 
-**Answer:** 9
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+
+[[Quesiti/src_bocconi_primavera_2008#q07|src_bocconi_primavera_2008__Q07]]
 
 
 
@@ -243,13 +277,18 @@ level: Semifinale di Primavera
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum composite integer with 7 calculating lines*
+*Maximum composite integer with 7 hyphens calculator*
 
-> On the calculator, each figure (see figure) is lit by illuminating certain lines. What is the largest integer consisting of 7 lines?
+> On the calculator, each digit (see the figure) lights up thanks to the illumination of certain segments. **What is the largest integer composed in total of 7 segments?**
 
 ![[src_bocconi_primavera_2008__q08.png]]
 
-**Answer:** 711
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2008#q08|src_bocconi_primavera_2008__Q08]]
 
 
 
@@ -275,13 +314,17 @@ level: Semifinale di Primavera
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of the central rectangle in Figure*
+*Perimeter of the central rectangle in the figure*
 
-> The perimeter of the large rectangle is 34 cm. The same rectangle was then divided into 9 smaller rectangles, as shown in the figure. Also in the figure, the perimeter of some of these rectangles is shown. **What is the perimeter (in cm) of the central rectangle ?**
+> The perimeter of the large rectangle is 34 cm. This same rectangle was then divided into 9 smaller rectangles, as shown in the figure. Also in the figure, the perimeters of some of these rectangles are indicated. **What is the perimeter (in cm) of the central rectangle?**
 
 ![[src_bocconi_primavera_2008__q09.png]]
 
-**Answer:** 6 cm
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2008#q09|src_bocconi_primavera_2008__Q09]]
 
 
 
@@ -306,11 +349,18 @@ level: Semifinale di Primavera
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Insert numbers in a table with sum property*
+*Enter numbers into a table with a sum property*
 
-> Enter numbers 2, 2003, 2004, 2005, 2006, 2007 in the boxes (void) of the figure so that each number written in the rectangular boxes is the sum of the two numbers to which it is directly linked.
+> Insert the numbers 2, 2003, 2004, 2005, 2006, and 2007 into the (empty) boxes in the figure so that each number written in a rectangular box is the sum of the two numbers directly connected to it.
 
 ![[src_bocconi_primavera_2008__q10.png]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2008#q10|src_bocconi_primavera_2008__Q10]]
 
 
 
@@ -335,11 +385,16 @@ level: Semifinale di Primavera
 <div class="qlang-split" data-lang="en"></div>
 
 
-EUR in the pocket in Nando after S. Luca and S. I'm going to tell you.
+*A euro in Nando's pocket after exchanges with S. Luca and S. Michele*
 
-> Nando asked S. Luke to help him double the amount of euros he owned; in return, he promised him 6 euros for the poor in the city. That 's what happens . It 's the first miracle ! Not happy, Nando signs a similar "contract" with S. I'm not going to lie. It 's the second miracle . Michele doubles the Euros he had in his pocket (after S. Luca) and Nando from another 6 Euros to the poor of the city. When you do the same thing with S. Desiderio, after giving 6 euros to the poor in the city for the third time, Nando realizes that his pockets are empty! How many euros did you have in your pocket at first, Nando?
+> Nando asked St. Luke to help him double the amount of euros he had; in return, he promised him 6 euros for the poor of the city. And so it happens: it's the first miracle! Not satisfied, Nando concludes a similar "contract" with St. Michael. This is the second miracle: St. Michael doubles the euros Nando had in his pocket (after St. Luke's "miracle"), and Nando gives another 6 euros to the poor of the city. When he does the same with St. Desiderius, after giving 6 euros to the poor of the city for the third time, Nando realizes that his pockets are empty! **How many euros did Nando have in his pockets at the beginning?**
 
-**Answer:** 5 Euro and 25 cents
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2008#q11|src_bocconi_primavera_2008__Q11]]
 
 
 
@@ -363,11 +418,15 @@ EUR in the pocket in Nando after S. Luca and S. I'm going to tell you.
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Black flies that give more milk than white flies*
+*Black cows that produce more milk than white cows*
 
-> Three black cows and four white cows give as much milk in six days as three white cows and four black cows give in seven days. Which cows (individually) give more milk, the black cows or the white cows?
+> Three black cows and four white cows produce, in 6 days, as much milk as three white cows and four black cows produce in 7 days. **Which cows produce more milk individually—the black ones or the white ones?**
 
-**Answer:** The black ones give more milk: 3 white cows are equivalent to 10 black ones
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_primavera_2008#q12|src_bocconi_primavera_2008__Q12]]
 
 
 
@@ -391,11 +450,16 @@ EUR in the pocket in Nando after S. Luca and S. I'm going to tell you.
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum result with digits 1,7,8,9 and operations *
+*Maximum result using the digits 1, 7, 8, 9 and operations*
 
-> What is the greatest result you can get by adding, subtracting, multiplying or dividing the numbers 1, 7, 8, 9 all used once?
+> What is the greatest result you can obtain by adding, subtracting, multiplying, or dividing the digits 1, 7, 8, and 9—used all exactly once—among themselves? (You may also use parentheses, in however many numbers you like.)
 
-**Answer:** $(1+7) \times 8 \times 9 = 576$
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2008#q13|src_bocconi_primavera_2008__Q13]]
 
 
 
@@ -420,11 +484,16 @@ Maximum result with digits 1,7,8,9 and operations *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Francobolles purchased for 100 Euro at the Math City post office*
+*Stamps bought with 100 euros at the post office in Math City*
 
-> At Math City's post office, they only sell five-euro, one-euro and five-cent stamps. Jacob bought 100 stamps, spending 100 euros. How many Euro stamps did you buy?
+> At the Math City post office, they sell only 5-euro, 1-euro, and 5-cent stamps. Jacob bought 100 stamps and spent 100 euros. **How many 1-euro stamps did he buy?**
 
-**Answer:** 1 stamp of 1 Euro (and 19 of 5 Euro and 80 of 5 cents)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_primavera_2008#q14|src_bocconi_primavera_2008__Q14]]
 
 
 
@@ -448,11 +517,15 @@ Maximum result with digits 1,7,8,9 and operations *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Votes obtained by the elected mayor*
+*Votes received by the elected mayor*
 
-> In Math City, in the last election, 527 mathematicians voted. The new mayor's list received 18, 25 and 98 votes more than each of the other three competing lists. **How many votes did you get? **
+> In Math City, 527 mathematicians voted in the most recent election. The new mayor's list received 18, 25, and 98 more votes than each of the other three competing lists. **How many votes did it receive?**
 
-**Answer:** 167
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_primavera_2008#q15|src_bocconi_primavera_2008__Q15]]
 
 
 
@@ -477,11 +550,16 @@ Maximum result with digits 1,7,8,9 and operations *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Result added from 1 to 2008 with figures 0, 2, 8*
+*Result of addition from 1 to 2008 using the digits 0, 2, 8*
 
-> Carla sums all integers, from 1 to 2008, using only the digits 0, 2, 8 (possibly repeated). **What is the result of the addition? **
+> Carla summed all the integers from 1 to 2008 that use only the digits 0, 2, and 8 (possibly repeated). **What is the result of the addition?**
 
-**Answer:** 16.000
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_bocconi_primavera_2008#q16|src_bocconi_primavera_2008__Q16]]
 
 
 
@@ -506,11 +584,16 @@ Maximum result with digits 1,7,8,9 and operations *
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Identify the counterfeit coin stack with a single weight*
+*Identify the stack containing counterfeit coins with a single weighing*
 
-> You've got 10 piles of coins in front of you. One of these stacks consists of counterfeit coins (which weigh, each, 10 coins. One of these stacks consists of counterfeit coins (which weigh, each) 5 g; the others are made up of real coins (which each weigh) 5 g. Describe how the stack of counterfeit coins can be detected with a single weight.
+> You have 10 stacks before you, each consisting of 10 coins. One of these stacks is made up of counterfeit coins (each weighing 10 coins. One of these stacks is made up of counterfeit coins (each weighing) 5 g; the others are made up of genuine coins (each weighing) 5 g. **Describe how, with a single weighing, one can identify the stack made up of counterfeit coins.**
 
-**Answer:** 275 g (the difference between the actual weight and 275 g gives the number of counterfeit coins and therefore the pile from which they were taken)
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2008#q17|src_bocconi_primavera_2008__Q17]]
 
 
 
@@ -534,11 +617,15 @@ Maximum result with digits 1,7,8,9 and operations *
 <div class="qlang-split" data-lang="en"></div>
 
 
-Seeing stars falling, knowing how many are missing at 36*
+*Positions seen while falling, knowing how many are missing to reach 36*
 
-> I saw it fall. - How many ? I don't know, but if I subtract from the number of stars I've seen half of the ones that are missing to get to 36, I get 24. So, how many?
+> I saw some fall. How many? I don't know, but if I subtract from the number of stars I saw half of the number of stars needed to reach 36, I get 24. **So, how many?**
 
-**Answer:** 28
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2008#q18|src_bocconi_primavera_2008__Q18]]
 
 
 
@@ -571,11 +658,24 @@ Seeing stars falling, knowing how many are missing at 36*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which statement is true between Renato and Amerigo's statements*
+*Which statement is true among Renato's and Amerigo's assertions?*
 
-> Renato makes three relevant statements: 1) of the three propositions A, B, C only one is true; 2) of the propositions B, C, D only one is true; 3) between A and B, only one is true. His friend Amerigo reiterates to him equally strongly: 1) of A, B, C only one proposition is true; 2) of B, C, D only one proposition is true; 3) of A, C, D only one proposition is true. Keep in mind that one of the two friends lies at least once, while the other always tells the truth. What is (or are) the true proposition?
+> Renato makes three relevant claims:
+> 1) Of the three propositions A, B, C, only one is true;
+> 2) Of the propositions B, C, D, only one is true;
+> 3) Between A and B, only one is true.
+> His friend Amerigo retorts just as firmly:
+> 1) Among A, B, and C, only one proposition is true;
+> 2) Among B, C, and D, only one proposition is true;
+> 3) In A, C, D, only one proposition is true.
+> Keep in mind that one of the two friends lies at least once, while the other always tells the truth. **Which statement(s) is/are true?**
 
-**Answer:** C is true
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_bocconi_primavera_2008#q19|src_bocconi_primavera_2008__Q19]]
 
 
 
@@ -600,8 +700,13 @@ Seeing stars falling, knowing how many are missing at 36*
 <div class="qlang-split" data-lang="en"></div>
 
 
-Arm, legs and eyes of a Martian according to Ignobel
+*Arms, legs, and eyes of a Martian, according to the Ig Nobel*
 
-> A recent study, winner of the prestigious Ignobel Prize, showed that Martians exist and also specified how many arms, legs and eyes they have. To find the number of the arms and legs of each Martian, you just add these two numbers together, and then you add their product to the result: you get 34. The same goes for the number of legs and eyes: adding these two numbers and adding their product again, you get 14. How many arms, legs and eyes does each Martian have?
+> A recent study, awarded the prestigious Ig Nobel Prize, has shown that Martians exist and has also specified how many arms, legs, and eyes they have. To find the number of arms and legs for each Martian, simply add these two numbers together and then add their product to the result: you will get 34. The same applies to the number of legs and eyes: by adding these two numbers together and then adding their product, you will get 14. **How many arms, legs, and eyes does each Martian have?**
 
-**Answer:** 6 arms, 4 legs and 2 eyes
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_bocconi_primavera_2008#q20|src_bocconi_primavera_2008__Q20]]

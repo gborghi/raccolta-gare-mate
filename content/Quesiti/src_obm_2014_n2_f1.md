@@ -32,13 +32,18 @@ level: OBM Nível 2
 <div class="qlang-split" data-lang="it"></div>
 
 
-Quale differenza di due numeri primi consecutivi è impossibile?
+*Quale differenza tra due numeri primi consecutivi è impossibile?*
 
-> Un numero naturale maggiore di 1 è chiamato primo quando ha esattamente due divisori naturali: 1 e se stesso. Quindi i numeri primi sono $2, 3, 5, 7, \ldots$ Quale dei seguenti numeri non può essere la differenza tra due numeri primi consecutivi?
-> 
+> Un numero naturale maggiore di 1 è detto primo quando ha esattamente due divisori naturali: 1 e se stesso. Pertanto, i numeri primi sono $2, 3, 5, 7, \ldots$ Quale dei seguenti numeri non può essere la differenza tra due numeri primi consecutivi?
+>
 > (A) 4 $\quad$ (B) 6 $\quad$ (C) 7 $\quad$ (D) 8 $\quad$ (E) 9
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n2_f1#q01|src_obm_2014_n2_f1__Q01]]
 
 
 
@@ -68,17 +73,22 @@ Quale differenza di due numeri primi consecutivi è impossibile?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Carnival cards 12014 dipinte in giallo/verde/nero in ciclo; pretese di parità*
+*Carte del Carnevale 1–2014 dipinte di giallo/verde/nero in ciclo; rivendicazioni di parità*
 
-> Ana ha le carte di carnaval del 2014 numerate da 1 a 2014. Poi le dipinge, partendo dal primo, con colori gialli, verdi e neri, uno di ogni colore, sempre in questo ordine. Cosa si può dire di queste carte?
+> Ana ha 2014 biglietti del carnevale numerati da 1 a 2014. Poi li dipinge, a partire dal primo, con i colori giallo, verde e nero, uno per ogni colore, sempre in questo ordine. Cosa si può affermare riguardo a questi biglietti?
 >
-> - **(A)** Il numero di carte gialle è uguale al numero di carte verdi.
-> - **(B)** Ci sono più carte gialle a numero impar rispetto alle carte verdi a numero impar.
-> - **(C)** Ci sono più carte nere a numero impar rispetto alle carte gialle a numero impar.
-> - **(D)** Ci sono più carte verdi che carte gialle.
-> - **(E)** Ci sono più carte nere a numeri odd che carte verdi a numeri odd.
+> - **(A)** Il numero di cartellini gialli è uguale al numero di cartellini verdi.\\
+> - **(B)** Ci sono più cartellini gialli con numero dispari che cartellini verdi con numero dispari.
+> - **(C)** Ci sono più carte nere con numero dispari che carte gialle con numero dispari.\\
+> - **(D)** Ci sono più carte verdi che carte gialle.\\
+> - **(E)** Ci sono più carte nere con numero dispari che carte verdi con numero dispari.
 
-**Risposta:** E
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n2_f1#q02|src_obm_2014_n2_f1__Q02]]
 
 
 
@@ -104,13 +114,18 @@ Quale differenza di due numeri primi consecutivi è impossibile?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre lavoratori dipingono le pareti a velocità diverse; ritrovare il tempo totale*
+*Tre operai dipingono pareti a velocità diverse; determina il tempo totale*
 
-> Manuel, Antônio e Joaquim iniziano nello stesso momento a dipingere tre muri uguali di 60 metri ciascuno, un muro per persona. Nei primi 10 minuti di lavoro Manuel dipinge 2 metri, Antônio 3 metri e Joaquim 5 metri. Chi finisce per primo va subito ad aiutare gli altri, finché tutti e tre finiscono l'intero lavoro insieme. Quanto tempo ci vuole per il lavoro?
-> 
+> Manuel, Antônio e Joaquim iniziano nello stesso momento a dipingere tre pareti uguali, ciascuna di 60 metri, una parete a testa. Nei primi 10 minuti di lavoro, Manuel dipinge 2 metri, Antônio 3 metri e Joaquim 5 metri. Chi finisce per primo va subito ad aiutare gli altri, finché tutti e tre non completano insieme l'intero lavoro. Quanto dura il lavoro?
+>
 > (A) 3 ore $\quad$ (B) 4 ore $\quad$ (C) 5 ore $\quad$ (D) 6 ore $\quad$ (E) 7 ore
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n2_f1#q03|src_obm_2014_n2_f1__Q03]]
 
 
 
@@ -137,15 +152,19 @@ Quale differenza di due numeri primi consecutivi è impossibile?
 <div class="qlang-split" data-lang="it"></div>
 
 
-Quale parola ha più lettere del numero che chiama?
+*Quale parola ha più lettere del numero che indica?*
 
 > Quale delle seguenti alternative contiene una parola con più lettere del numero indicato da quella parola?
-> 
-> A) Uno $\quad$ B) Tre $\quad$ C) Quattro $\quad$ D) Cinque $\quad$ E) Sei
-> 
-> (In portoghese: Um, Três, Quatro, Cinco, Seis.)
+>
+> (A) Uno $\quad$ (B) Tre $\quad$ (C) Quattro $\quad$ (D) Cinque $\quad$ (E) Sei
+>
+> (In portoghese: Uno, Tre, Quattro, Cinque, Sei.)
 
-**Risposta:** C
+**Topic:** [[topic_logica|Logica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n2_f1#q04|src_obm_2014_n2_f1__Q04]]
 
 
 
@@ -173,15 +192,20 @@ Quale parola ha più lettere del numero che chiama?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro fogli quadrati di 20 cm pieghiati in sequenza; area della figura 4*
+*Quattro fogli quadrati di 20 cm di lato piegati in sequenza; determina l'area della figura 4*
 
-> Esmeralda ha quattro fogli quadrati uguali di carta con un lato di 20 cm. Si piega un foglio sull'altro, allineando le quattro vertici di questi fogli orizzontalmente con il vertice superiore del foglio di sotto, come mostrato nelle figure 1 e 2. Essa continua a fare questo per attaccare tutti e quattro i fogli, come mostrato nelle figure 3 e 4. Qual è l'area della figura 4?
-> 
+> Esmeralda ha quattro fogli di carta quadrati uguali, con lato di 20 cm. Piega un foglio sopra l'altro, allineando orizzontalmente i quattro vertici di questi fogli con il vertice superiore del foglio sottostante, come mostrato nelle figure 1 e 2. Continua a farlo per unire tutti e quattro i fogli, come mostrato nelle figure 3 e 4. Qual è l'area della figura 4?
+>
 > (A) $1200\text{ cm}^2$ $\quad$ (B) $1300\text{ cm}^2$ $\quad$ (C) $1400\text{ cm}^2$ $\quad$ (D) $1500\text{ cm}^2$ $\quad$ (E) $1600\text{ cm}^2$
 
 ![[src_obm_2014_n2_f1__q05.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n2_f1#q05|src_obm_2014_n2_f1__Q05]]
 
 
 
@@ -207,13 +231,18 @@ Quale parola ha più lettere del numero che chiama?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova quale numero ha esattamente i divisori positivi del 2014*
+*Trovare quale numero ha esattamente 2014 divisori positivi*
 
-> Per trovare il numero di divisori positivi di un intero positivo $n$, basta prendere la sua fattorizzazione dei primi e calcolare il prodotto degli esponenti dei primi ogni aumento di 1. Ad esempio, $2880 = 2^5 \cdot 3^2 \cdot 5 \cdot 7$ ha divisori $(5+1)(2+1)(1+1)(1+1) = 5 \cdot 3 \cdot 2 \cdot 2 = 36$. Qual è il numero intero meno positivo con divisori positivi esatti del 2014?
-> 
+> Per trovare il numero di divisori positivi di un numero intero positivo $n$, basta prendere la sua scomposizione in fattori primi e calcolare il prodotto degli esponenti dei numeri primi, ciascuno incrementato di 1. Ad esempio, $2880 = 2^5 \cdot 3^2 \cdot 5 \cdot 7$ ha $(5+1)(2+1)(1+1)(1+1) = 5 \cdot 3 \cdot 2 \cdot 2 = 36$ divisori. Qual è il minimo numero intero positivo che ha esattamente 2014 divisori positivi?
+>
 > (A) $2^{2^3 \cdot 19} \cdot 5^3$ $\quad$ (B) $2^{53} 3^{18} 5^2$ $\quad$ (C) $2^{52} 3^{18} 5$ $\quad$ (D) $2^{18} 5^3$ $\quad$ (E) $2^{27} 5^2$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n2_f1#q06|src_obm_2014_n2_f1__Q06]]
 
 
 
@@ -246,17 +275,22 @@ Quale parola ha più lettere del numero che chiama?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro messaggi sulle porte di grotta sicure/insicure; dedurre quale porta è sicura*
+*Quattro messaggi riguardanti le porte delle caverne sicure/non sicure; deduci quale porta è sicura*
 
-> Roraima Jonas, un archeologo avventuroso, fuggendo da una grotta, incontra quattro porte numerate da 1 a 4 e quattro messaggi. I messaggi dicono:
-> 
-> Messaggio 1: "Le porte 1 e 2 sono sicure". Messaggio 2: "Esattamente due delle porte 1, 2 e 3 sono sicure". Messaggio 3: "La porta 1 è sicura". Messaggio 4: "La porta 3 è sicura".
-> 
-> Roraima Jonas sa che esattamente uno dei messaggi è una bugia e esattamente una delle porte non è sicura (la porta non sicura avrebbe innescato una trappola). Quale porta può garantire la sicurezza di Roraima Jonas?
-> 
-> (A) 1 $\quad$ (B) 2 $\quad$ (C) 3 $\quad$ (D) 4 $\quad$ (E) Non esiste una porta che possa garantire la sicurezza.
+> Roraima Jonas, un archeologo avventuroso, mentre fugge da una grotta, si imbatte in quattro porte numerate da 1 a 4 e in quattro messaggi. I messaggi dicono:
+>
+> Messaggio 1: "Le porte 1 e 2 sono sicure."\\ Messaggio 2: "Esattamente due delle porte 1, 2 e 3 sono sicure."\\ Messaggio 3: "La porta 1 è sicura."\\ Messaggio 4: "La porta 3 è sicura."
+>
+> Roraima Jonas sa che esattamente uno dei messaggi è falso e che esattamente una delle porte non è sicura (la porta non sicura attiverebbe una trappola). Quale porta può garantire Roraima Jonas che sia sicura?
+>
+> (A) 1 $\quad$ (B) 2 $\quad$ (C) 3 $\quad$ (D) 4 $\quad$ (E) Non c'è alcuna porta di cui possa garantire la sicurezza.
 
-**Risposta:** B
+**Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n2_f1#q07|src_obm_2014_n2_f1__Q07]]
 
 
 
@@ -282,13 +316,18 @@ Quale parola ha più lettere del numero che chiama?
 <div class="qlang-split" data-lang="it"></div>
 
 
-Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esattamente i divisori 2014
+*Distribuisci 240 reais in parti uguali; riducendo di 1 real per nipote si ottengono esattamente 2014 divisori*
 
-> Rosa decise di distribuire 240 reais ai suoi nipoti, dando a ciascuno la stessa somma completa. Prima pensò a ridurlo di 1 reais per nipote, poi si rese conto che poi poteva distribuirlo esattamente con i reais 2014 come totale. Alla fine ha distribuito esattamente 240 reais in totale. Quanto ricevette ogni nipote?
-> 
+> Rosa decise di distribuire 240 reais tra i suoi nipoti, dando a ciascuno la stessa somma intera. Inizialmente pensò di ridurre l'importo di 1 realo per nipote; poi si rese conto che in tal caso avrebbe potuto distribuire la somma in modo che il totale fosse esattamente 2014 reais. Alla fine distribuì esattamente 240 reais in totale. Quanto ricevette ciascun nipote?
+>
 > (A) 5 reais $\quad$ (B) 10 reais $\quad$ (C) 12 reais $\quad$ (D) 15 reais $\quad$ (E) 20 reais
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n2_f1#q08|src_obm_2014_n2_f1__Q08]]
 
 
 
@@ -314,13 +353,18 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Presi il pulsante minimo sulla calcolatrice per visualizzare 100*
+*Numero minimo di pressioni dei tasti su una calcolatrice per visualizzare 100*
 
-> È possibile premere solo una cifra alla volta e alcune semplici operazioni: $+$, $-$, $\times$ o $\div$ tra le cifre. Inoltre non è possibile premere due cifre consecutive. La calcolatrice inizia con 0 nel display e la prima stampa deve essere un'operazione; l'operazione viene eseguita immediatamente dopo aver premuto una cifra. Ad esempio, premendo $[+][7][+][7]$ si ottiene $0+7=7$ e poi $7+7=14$; premendo $[-][6]$ si ottiene $14-6=8$. Così è possibile ottenere 29 con 6 presse. Pedro vuole mostrare il numero 100 premendo le operazioni e le cifre alternativamente, iniziando con un'operazione. Qual è il numero minimo di presse di cui ha bisogno Pedro?
-> 
+> È possibile premere una sola cifra alla volta e alcune operazioni semplici: $+$, $-$, $\times$ o $\div$ tra le cifre. Non è inoltre possibile premere due cifre di seguito. La calcolatrice parte con 0 sul display e la prima pressione deve essere un'operazione; l'operazione viene eseguita immediatamente dopo che viene premuta una cifra. Ad esempio, premendo $[+][7][+][7]$ si ottiene $0+7=7$ e poi $7+7=14$; premendo $[-][6]$ si ottiene $14-6=8$. Quindi è possibile ottenere 29 con 6 pressioni. Pedro vuole visualizzare il numero 100 premendo alternativamente operazioni e cifre, partendo da un'operazione. Qual è il numero minimo di pressioni necessarie a Pedro?
+>
 > (A) 2 $\quad$ (B) 4 $\quad$ (C) 6 $\quad$ (D) 8 $\quad$ (E) 10
 
-**Risposta:** C
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_backward|Backward]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n2_f1#q09|src_obm_2014_n2_f1__Q09]]
 
 
 
@@ -348,15 +392,20 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il costo minimo per visitare tutte e cinque le città data tabella dei prezzi*
+*Trovare il costo minimo per visitare tutte e cinque le città, data la tabella dei prezzi*
 
-> La tabella seguente mostra il prezzo in reais dei viaggi tra due delle cinque città $A$, $B$, $C$, $D$ e $E$. Le righe indicano la città di partenza e le colonne la città di arrivo. Ad esempio, passare da $A$ a $B$ costa 1 rea e da $B$ a $A$ costa 2 rea. Pablo vuole visitare tutte e cinque le città spendendo il minimo possibile (si noti che il prezzo del viaggio di ritorno alla città di partenza è incluso anche). Quanto deve spendere Pablo?
-> 
-> A) 4 reais $\quad$ B) 5 reais $\quad$ C) 6 reais $\quad$ D) 9 reais $\quad$ E) 11 reais
+> La tabella sottostante mostra il prezzo in reais dei viaggi tra due delle cinque città $A$, $B$, $C$, $D$ e $E$. Le righe indicano la città di partenza e le colonne la città di arrivo. Ad esempio, andare da $A$ a $B$ costa 1 reale, mentre andare da $B$ a $A$ costa 2 reais. Pablo vuole visitare tutte e cinque le città spendendo il meno possibile (si noti che è incluso anche il prezzo del viaggio di ritorno verso la città di partenza). Quanto deve spendere Pablo?
+>
+> (A) 4 reais $\quad$ (B) 5 reais $\quad$ (C) 6 reais $\quad$ (D) 9 reais $\quad$ (E) 11 reais
 
 ![[src_obm_2014_n2_f1__q10.png]]
 
-**Risposta:** A
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n2_f1#q10|src_obm_2014_n2_f1__Q10]]
 
 
 
@@ -383,15 +432,19 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rettangolo diviso in tre segmenti; trovare superficie totale data area di regione bianca*
+*Rettangolo diviso da tre segmenti; determinare l'area totale sapendo le aree delle regioni bianche*
 
-> Il rettangolo della figura era diviso in tre segmenti in diverse regioni, alcune rettangolari e altre triangolari. Una linea è parallela a nessuno dei lati; l'altra è diagonale; i numeri indicano le aree nelle regioni bianche (24, 18 e 8). Qual è l'area del rettangolo originale?
-> 
+> Il rettangolo nella figura è stato suddiviso da tre segmenti in diverse regioni, alcune rettangolari e altre triangolari. Una retta non è parallela a nessuno dei lati; una è una diagonale; i numeri indicano le aree, espresse in $\text{m}^2$, delle regioni bianche (24, 18 e 8). Qual è l'area del rettangolo originale?
+>
 > (A) $60\text{ m}^2$ $\quad$ (B) $80\text{ m}^2$ $\quad$ (C) $90\text{ m}^2$ $\quad$ (D) $100\text{ m}^2$ $\quad$ (E) Impossibile determinare
 
 ![[src_obm_2014_n2_f1__q11.png]]
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n2_f1#q11|src_obm_2014_n2_f1__Q11]]
 
 
 
@@ -418,15 +471,19 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare la visione posteriore di un blocco di cubi bianchi e neri 2x2x3*
+*Identifica la vista posteriore di un blocco di cubi bianchi e neri di dimensioni 2x2x3*
 
-> La figura a destra mostra un blocco rettangolare costruito con sei cubi neri e sei cubi bianchi, tutti della stessa dimensione. Quale delle figure di seguito mostra lo stesso blocco visto da dietro?
-> 
+> La figura a destra mostra un parallelepipedo costruito con sei cubi neri e sei cubi bianchi, tutti della stessa dimensione. Quale delle figure sottostanti mostra lo stesso parallelepipedo visto da dietro?
+>
 > (A) figura A $\quad$ (B) figura B $\quad$ (C) figura C $\quad$ (D) figura D $\quad$ (E) figura E
 
 ![[src_obm_2014_n2_f1__q12.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n2_f1#q12|src_obm_2014_n2_f1__Q12]]
 
 
 
@@ -452,13 +509,18 @@ Distribuire 240 reais in eguaglianza; ridurre di 1 reale per nipote consente esa
 <div class="qlang-split" data-lang="it"></div>
 
 
-Quale data è il 3 giugno 2014 nel calendario giuliano?
+*Quale data corrisponde al 3 giugno 2014 nel calendario giuliano?*
 
-> In Portogallo il 4 ottobre 1582 fu l'ultimo giorno del calendario giuliano, che fu poi sostituito dal calendario gregoriano attualmente adottato. Il giorno successivo è stato definito come il 15 ottobre 1582 (cioè, non esisteva il 514 ottobre). L'unica differenza tra i due calendari è che nel calendario giuliano ogni moltiplo di 4 è un anno bisto, mentre nel calendario gregoriano i moltipli di 100 che non sono moltipli di 400 non sono anni bisto. Quindi il 1900 fu un anno bisbalzo nel calendario giuliano ma non nel calendario gregoriano. Quale data sarebbe oggi  3 giugno 2014  se il calendario non fosse mai stato cambiato?
-> 
+> In Portogallo, il 4 ottobre 1582 fu l'ultimo giorno del calendario giuliano, che fu poi sostituito dal calendario gregoriano attualmente in uso. Il giorno successivo fu definito come il 15 ottobre 1582 (vale a dire che i giorni dal 5 al 14 ottobre non esistettero). L'unica differenza tra i due calendari è che nel calendario giuliano ogni multiplo di 4 è un anno bisestile, mentre nel calendario gregoriano i multipli di 100 che non sono multipli di 400 non sono anni bisestili. Pertanto, il 1900 fu un anno bisestile nel calendario giuliano ma non in quello gregoriano. Che data sarebbe oggi — il 3 giugno 2014 — se il calendario non fosse mai stato modificato?
+>
 > (A) 20 maggio 2014 $\quad$ (B) 21 maggio 2014 $\quad$ (C) 22 maggio 2014 $\quad$ (D) 16 giugno 2014 $\quad$ (E) 17 giugno 2014
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n2_f1#q13|src_obm_2014_n2_f1__Q13]]
 
 
 
@@ -484,13 +546,18 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*numero a 5 cifre xy26c divisibile per 8, 9, 11; trovare x*
+*Numero di 5 cifre xy26c divisibile per 8, 9, 11; trova x*
 
-> Il numero a 5 cifre $\overline{xy26c}$, in cui ogni lettera rappresenta una cifra, è divisibile per 8, 9 e 11. Qual è il valore di $x$?
-> 
+> Il numero di 5 cifre $\overline{xy26c}$, in cui ogni lettera rappresenta una cifra, è divisibile per 8, 9 e 11. Qual è il valore di $x$?
+>
 > (A) 3 $\quad$ (B) 5 $\quad$ (C) 1 $\quad$ (D) 4 $\quad$ (E) 9
 
-**Risposta:** A
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n2_f1#q14|src_obm_2014_n2_f1__Q14]]
 
 
 
@@ -518,15 +585,20 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i pezzi validi in triomino semplificato con vertici 05*
+*Conta i pezzi validi nel triomino semplificato con vertici da 0 a 5*
 
-> Il gioco di triomino semplificato è composto da pezzi a forma di triangolo in cui ciascuno dei tre vertici porta un numero da 0 a 5. Per qualsiasi pezzo del triomino, i numeri dei vertici devono essere in ordine rigorosamente crescente quando vengono letti in senso orario partendo dal vertice superiore (cioè $X \le Y \le Z$ dove $X$ è il vertice superiore). Un pezzo appartiene al gioco quando $X \le Y \le Z$. Dei quattro campioni mostrati, i primi tre appartengono al gioco ma il quarto non. Quanti pezzi ci sono in un triomino semplificato?
-> 
+> Il gioco semplificato dei triomino è composto da tessere a forma di triangolo, in cui ciascuno dei tre vertici porta un numero compreso tra 0 e 5. Per qualsiasi tessera del triomino, i numeri ai vertici devono essere in ordine strettamente crescente se letti in senso orario a partire dal vertice in alto (cioè $X \le Y \le Z$, dove $X$ è il vertice in alto). Una tessera fa parte del gioco quando $X \le Y \le Z$. Dei quattro esempi di tessere mostrati, le prime tre fanno parte del gioco, ma la quarta no. Quante tessere ci sono in un set semplificato di triomino?
+>
 > (A) 216 $\quad$ (B) 125 $\quad$ (C) 120 $\quad$ (D) 56 $\quad$ (E) 30
 
 ![[src_obm_2014_n2_f1__q15.png]]
 
-**Risposta:** D
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n2_f1#q15|src_obm_2014_n2_f1__Q15]]
 
 
 
@@ -558,19 +630,24 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Il percorso più breve da A a D scegliendo percorsi d'arco circolare con angoli dati*
+*Percorso più breve da A a D scegliendo traiettorie a arco di cerchio con angoli dati*
 
-> Nel gioco Lento e Calmo (Slow and Calm), un gioco di corse, ci sono sentieri su alcuni tratti delle piste. I sentieri sono sempre archi di un cerchio con il centro indicato nella figura. I sentieri non sono gli stessi che i tratti dritti del sentiero. Dati della figura  traccia 1 sottende un arco di $100^\circ$ e traccia 2 sottende un arco di $120^\circ$ nei rispettivi centri  in quali circostanze il giocatore copre la distanza più breve dal punto $A$ al punto $D$?
+> Nel gioco Lento e Calmo (Slow and Calm), un gioco di corse, su alcuni tratti dei circuiti ci sono delle traiettorie. Le traiettorie sono sempre archi di cerchio il cui centro è indicato nella figura. Le traiettorie non sono uguali ai tratti rettilinei del percorso. Dati i dati della figura — la traiettoria 1 sottende un arco di $100^\circ$ e la traiettoria 2 sottende un arco di $120^\circ$ nei rispettivi centri — in quale circostanza il giocatore percorre la distanza più breve dal punto $A$ al punto $D$?
 >
 > - **(A)** Usa il percorso 1, non il percorso 2.\\
 > - **(B)** Usa il percorso 2, non il percorso 1.\\
-> - **(C)** Usa entrambi i sentieri.
-> - **(D)** Utilizzare nessuna traccia.
-> - **(E)** Non ci sono informazioni sufficienti per determinarlo.
+> - **(C)** Usa entrambe le scie.\\
+> - **(D)** Non utilizzare alcuna scia.\\
+> - **(E)** Non ci sono informazioni sufficienti per stabilirlo.
 
 ![[src_obm_2014_n2_f1__q16.png]]
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n2_f1#q16|src_obm_2014_n2_f1__Q16]]
 
 
 
@@ -597,15 +674,19 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova angolo x con triangoli e accordi paralleli su un cerchio*
+*Trovare l'angolo x con triangoli isosceli e corde parallele su una circonferenza*
 
-> Considerate la figura a destra, dove i punti $A$ fino a $I$ si trovano su un cerchio. È noto che i triangoli $ABC$, $CDE$, $EFG$ e $GHI$ sono uguali e che i segmenti $BC$, $DE$, $FG$ e $HI$ sono paralleli. Qual è la misura dell'angolo $x = \angle APC$?
-> 
+> Si consideri la figura a destra, in cui i punti $A$ e $I$ giacciono su una circonferenza. È noto che i triangoli $ABC$, $CDE$, $EFG$ e $GHI$ sono isosceli, e che i segmenti $BC$, $DE$, $FG$ e $HI$ sono paralleli. Qual è la misura dell'angolo $x = \angle APC$?
+>
 > (A) $15^\circ$ $\quad$ (B) $20^\circ$ $\quad$ (C) $30^\circ$ $\quad$ (D) $40^\circ$ $\quad$ (E) $45^\circ$
 
 ![[src_obm_2014_n2_f1__q17.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n2_f1#q17|src_obm_2014_n2_f1__Q17]]
 
 
 
@@ -631,13 +712,18 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Radici di due quadratici correlati; trovare valore di a*
+*Radici di due equazioni quadratiche correlate; trovare il valore di a*
 
 > Le radici dell'equazione $x^2 - ax + b = 0$ sono diverse da zero e sono anche le radici dell'equazione $x^2 - bx + a = 0$. I valori $a$ e $b$ non sono necessariamente reali. Qual è il valore di $a$?
-> 
+>
 > (A) $-\sqrt{2}$ $\quad$ (B) $\sqrt{2}\,\sqrt{3}$ $\quad$ (C) $\sqrt{3}$ $\quad$ (D) $\sqrt{2}$ $\quad$ (E) $\sqrt{3}$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2014_n2_f1#q18|src_obm_2014_n2_f1__Q18]]
 
 
 
@@ -663,13 +749,18 @@ Quale data è il 3 giugno 2014 nel calendario giuliano?
 <div class="qlang-split" data-lang="it"></div>
 
 
-Quale dei cinque numeri è il più grande?
+*Quale dei cinque numeri è il più grande?*
 
-> Indicare quale alternativa dà il numero più grande dei cinque numeri.
-> 
+> Indicate quale alternativa fornisce il più grande dei cinque numeri.
+>
 > (A) $2014^5$ $\quad$ (B) $3015^4$ $\quad$ (C) $4016^3$ $\quad$ (D) $5017^2$ $\quad$ (E) $6018^1$
 
-**Risposta:** B
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n2_f1#q19|src_obm_2014_n2_f1__Q19]]
 
 
 
@@ -695,13 +786,18 @@ Quale dei cinque numeri è il più grande?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Punto sul bisettore angolare; data superficie di un triangolo, trova area di un altro*
+*Punto sulla bisettrice di un angolo; data l'area di un sottotriangolo, trovare l'area dell'altro*
 
-> In triangolo $ABC$, $AB = 5$ e $AC = 6$. Il punto $P$ deve essere un punto sul bisector dell'angolo $\widehat{BAC}$. L'area del triangolo $APB$ è $\frac{5}{2}$. Qual è l'area del triangolo $APC$?
-> 
+> Nel triangolo $ABC$, $AB = 5$ e $AC = 6$. Sia $P$ un punto sull'asse bisettrice dell'angolo $\widehat{BAC}$. L'area del triangolo $APB$ è $\frac{5}{2}$. Qual è l'area del triangolo $APC$?
+>
 > (A) $\frac{5}{4}$ $\quad$ (B) $\frac{9}{4}$ $\quad$ (C) $\frac{23}{4}$ $\quad$ (D) $\frac{25}{4}$ $\quad$ (E) $\frac{4}{5}$
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n2_f1#q20|src_obm_2014_n2_f1__Q20]]
 
 
 
@@ -727,13 +823,18 @@ Quale dei cinque numeri è il più grande?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'abcd quadrato lato 1; triangoli esterni su ciascun lato; superficie di quadrilaterali esterni*
+*Quadrato ABCD con lato 1; triangoli esterni su ciascun lato; area del quadrilatero esterno*
 
-> Considera un quadrato $ABCD$ con lato 1. All'esterno del quadrato si formano triangoli $ABE$, $BCF$, $CDG$ e $DAH$ su ciascun lato. Qual è la superficie del quadrilaterale $EFGH$?
-> 
+> Si consideri un quadrato $ABCD$ di lato 1. All'esterno del quadrato, su ciascun lato vengono costruiti i triangoli $ABE$, $BCF$, $CDG$ e $DAH$. Qual è l'area del quadrilatero $EFGH$?
+>
 > (A) 2 $\quad$ (B) $2\sqrt{3}$ $\quad$ (C) $2 + \sqrt{3}$ $\quad$ (D) 3 $\quad$ (E) 6
 
-**Risposta:** D
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n2_f1#q21|src_obm_2014_n2_f1__Q21]]
 
 
 
@@ -759,13 +860,18 @@ Quale dei cinque numeri è il più grande?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le coppie ordinate (a,b) di integri positivi con l'intero 2014/(a+b)*
+*Conta le coppie ordinate (a,b) di numeri interi positivi tali che 2014/(a+b) sia un numero intero*
 
-> Quante coppie ordinate $(a, b)$ di numeri interi positivi esistono in modo tale che $\dfrac{2014}{a+b}$ sia un numero intero?
-> 
+> Quante coppie ordinate $(a, b)$ di interi positivi esistono tali che $\dfrac{2014}{a+b}$ sia un numero intero?
+>
 > (A) 0 $\quad$ (B) 1 $\quad$ (C) 2 $\quad$ (D) 3 $\quad$ (E) 4
 
-**Risposta:** D
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n2_f1#q22|src_obm_2014_n2_f1__Q22]]
 
 
 
@@ -791,13 +897,18 @@ Quale dei cinque numeri è il più grande?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Dato che sqrt(x-y) =a e sqrt(x) +sqrt(y) =b, trovare sqrt(xy)*
+*Dati sqrt(x-y)=a e sqrt(x)+sqrt(y)=b, determina sqrt(xy)*
 
-> Se $a$, $b$, $x$, $y$ sono reali positivi tali che $\sqrt{x - y} = a$ e $\sqrt{x} + \sqrt{y} = b$, determinare il valore di $\sqrt{xy}$.
-> 
+> Se $a$, $b$, $x$, $y$ sono numeri reali positivi tali che $\sqrt{x - y} = a$ e $\sqrt{x} + \sqrt{y} = b$, determina il valore di $\sqrt{xy}$.
+>
 > (A) $\dfrac{b^2 - a^2}{4}$ $\quad$ (B) $\dfrac{a^2}{b}$ $\quad$ (C) $\dfrac{b^2 + a^2}{4b}$ $\quad$ (D) $\dfrac{1}{b}$ $\quad$ (E) $a^2$
 
-**Risposta:** A
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2014_n2_f1#q23|src_obm_2014_n2_f1__Q23]]
 
 
 
@@ -825,15 +936,20 @@ Quale dei cinque numeri è il più grande?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i modi per riempire 2×2014 Tavola Bitonho con 0s e 1s*
+*Conta i modi per riempire una tabella Bitonho 2×2014 con zeri e uni*
 
-> Bitonho è un gioco di riempire una tabella $2 \times 2014$ con zeri e uno in modo tale che se due celle orizzontalmente adiacenti nella stessa riga sono uguali, allora le due celle dell'altra riga nelle stesse colonne non sono uguali. Per esempio, nel disegno di seguito, le celle $A$ e $B$ non sono uguali. In quanti modi si può compilare una tabella $2 \times 2014$ secondo la regola di Bitonho?
-> 
+> Bitonho è un gioco che consiste nel riempire una tabella $2 \times 2014$ con zeri e uni in modo tale che, se due celle adiacenti orizzontalmente nella stessa riga sono uguali, allora le due celle dell'altra riga nelle stesse colonne non siano uguali. Ad esempio, nel disegno sottostante, le celle $A$ e $B$ non sono uguali. In quanti modi si può riempire una tabella $2 \times 2014$ seguendo la regola di Bitonho?
+>
 > (A) $3 \cdot 2^{2014}$ $\quad$ (B) $4 \cdot 2^{2013}$ $\quad$ (C) $4^{2014}$ $\quad$ (D) $2 \cdot 3^{2014}$ $\quad$ (E) $3 \cdot 4^{2014}$
 
 ![[src_obm_2014_n2_f1__q24.png]]
 
-**Risposta:** A
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n2_f1#q24|src_obm_2014_n2_f1__Q24]]
 
 
 
@@ -859,10 +975,15 @@ Quale dei cinque numeri è il più grande?
 <div class="qlang-split" data-lang="it"></div>
 
 
-*La più grande differenza tra numeri consecutivi a 4 cifre distinte nell'elenco ordinato*
+*Massima differenza tra numeri consecutivi con 4 cifre distinte nella lista ordinata*
 
-> Juca fece un elenco di tutti i numeri interi positivi con quattro cifre distinte, scritti in ordine crescente. Ha poi fatto un'altra lista delle differenze positive tra tutte le coppie di numeri consecutivi nella prima lista. Qual è il numero più grande che appare nella seconda lista di Juca?
-> 
+> Juca ha stilato un elenco di tutti gli interi positivi con quattro cifre distinte, scritti in ordine crescente. Poi ha stilato un altro elenco delle differenze positive tra tutte le coppie di numeri consecutivi del primo elenco. Qual è il numero più grande che compare nel secondo elenco di Juca?
+>
 > (A) 25 $\quad$ (B) 36 $\quad$ (C) 45 $\quad$ (D) 103 $\quad$ (E) 105
 
-**Risposta:** E
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n2_f1#q25|src_obm_2014_n2_f1__Q25]]

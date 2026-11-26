@@ -31,9 +31,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli integri positivi n in modo tale che u_n/n sia un intero*
+*Trovare tutti gli interi positivi n tali che u_n/n sia un numero intero*
 
-> Si consideri la sequenza definita da $u_1 = 2$, $u_2 = 3$ e $$u_{2k+1} = 2 + u_k + u_{k+1} \quad \text{and} \quad u_{2k+2} = 2 + 2u_k$$ per tutti gli integri $k \ge 1$. Determinare tutti gli integri positivi $n$ in modo tale che $\frac{u_n}{n}$ sia un intero.
+> Si consideri la successione definita da $u_1 = 2$, $u_2 = 3$ e
+> $$u_{2k+1} = 2 + u_k + u_{k+1} \quad \text{and} \quad u_{2k+2} = 2 + 2u_k$$
+> per tutti gli interi $k \ge 1$. Si determinino tutti gli interi positivi $n$ tali che $\frac{u_n}{n}$ sia un numero intero.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2025#q01|src_inmo_2025__Q01]]
 
 
 
@@ -58,11 +67,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Alice cancella i numeri su una lavagna per lasciare un numero rimasto*
+*Alice cancella i numeri da una lavagna, lasciandone uno solo*
 
-> $n \ge 2$ sia un numero intero positivo. I numeri interi $1, 2, \ldots, n$ sono scritti sulla lavagna. In una mossa, Alice può scegliere due numeri interi scritti sulla lavagna $a \ne b$ in modo tale che $a + b$ sia un numero pari, cancellare sia $a$ che $b$ dalla lavagna e scrivere $\frac{a+b}{2}$ sulla lavagna. Trova tutte le $n$ per cui Alice può fare una sequenza di mosse in modo che finisca con un solo numero rimasto sulla tavola.
-> 
-> **Nota.** Quando $n = 3$, Alice cambia $\{1, 2, 3\}$ a $\{2, 3\}$ e dopo questo Alice non può fare ulteriori mosse.
+> Sia $n \ge 2$ un numero intero positivo. Gli interi $1, 2, \ldots, n$ sono scritti sulla lavagna. In un turno, Alice può scegliere due interi scritti sulla lavagna $a \ne b$ tali che $a + b$ sia un numero pari, cancellare sia $a$ sia $b$ dalla lavagna e scrivere $\frac{a+b}{2}$ sulla lavagna al loro posto. Determinare tutti gli $n$ per cui Alice può compiere una sequenza di mosse in modo da rimanere con un solo numero sulla lavagna.
+>
+> **Nota.** Quando $n = 3$, Alice sostituisce $\{1, 2, 3\}$ con $\{2, 3\}$ e, dopo di ciò, Alice non può più compiere alcuna mossa.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2025#q02|src_inmo_2025__Q02]]
 
 
 
@@ -88,11 +104,19 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Euclide utilizza uno splitter per disegnare il circoncircolo del triangolo ABC*
+*Euclide utilizza uno spartitore per tracciare la circonferenza circoscritta al triangolo ABC*
 
-> Alice dispone di uno strumento chiamato splitter che può eseguire solo i seguenti due tipi di operazioni: - Data la presenza di tre punti non collineari $X, Y, Z$, può disegnare la linea che forma il bisettore angolare interno di $\angle XYZ$. - Può segnalare il punto di intersezione di due linee non parallele tracciate in precedenza.
-> 
-> Supponiamo che Euclide abbia solo tre punti non collineari $A, B, C$ sul piano. Prova che Euclide può utilizzare la divisione più volte per disegnare il centro del cerchio che attraversa $A$, $B$ e $C$.
+> Alice ha uno strumento chiamato divisore, che può eseguire solo i seguenti due tipi di operazioni:
+> - Dati tre punti contrassegnati non allineati $X, Y, Z$, può tracciare la retta che costituisce la bisettrice dell'angolo interno di $\angle XYZ$.
+> - Può contrassegnare il punto di intersezione di due rette non parallele tracciate in precedenza.
+>
+> Supponiamo che a Euclide siano dati soltanto tre punti contrassegnati non allineati $A, B, C$ nel piano. Dimostrare che Euclide può utilizzare il divisore più volte per tracciare il centro della circonferenza passante per $A$, $B$ e $C$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2025#q03|src_inmo_2025__Q03]]
 
 
 
@@ -117,9 +141,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il più grande t_n reale tale che una disuguaglianza massima simmetrica tenga*
+*Trovare il più grande t_n reale tale che valga una disuguaglianza massimale simmetrica*
 
-> $n \ge 3$ sia un numero intero positivo. Trovare il più grande numero reale $t_n$, come funzione di $n$, in modo tale che l'ineguaglianza $$\max(|a_1 + a_2|, |a_2 + a_3|, \ldots, |a_{n-1} + a_n|, |a_n + a_1|) \ge t_n \cdot \max(|a_1|, |a_2|, \ldots, |a_n|)$$ sia valida per tutti i numeri reali $a_1, a_2, \ldots, a_n$.
+> Sia $n \ge 3$ un numero intero positivo. Determinare il più grande numero reale $t_n$, in funzione di $n$, tale che la disuguaglianza
+> $$\max(|a_1 + a_2|, |a_2 + a_3|, \ldots, |a_{n-1} + a_n|, |a_n + a_1|) \ge t_n \cdot \max(|a_1|, |a_2|, \ldots, |a_n|)$$
+> sia verificata per tutti i numeri reali $a_1, a_2, \ldots, a_n$.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2025#q04|src_inmo_2025__Q04]]
 
 
 
@@ -142,9 +175,16 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Greedy Griphook raccoglie monete da un 2000gon*
+*Griphook l'Avaro raccoglie monete da un bicentagono*
 
-> Greedy Griphook ha un normale $2000$-gon, il cui vertice ha una singola moneta. In una mossa, sceglie un vertice, rimuove una moneta ciascuno dai due vertici adiacenti e aggiunge una moneta al vertice scelto, conservando la moneta rimanente per se stesso. Può fare tale mossa solo se entrambi i vertici adiacenti hanno almeno una moneta. Griphook si ferma solo quando non riesce a fare più movimenti. Qual e' il numero massimo e minimo di monete che Griphook avrebbe potuto raccogliere?
+> Il Gruffo Avido ha un $2000$-gono regolare, in cui ogni vertice possiede una sola moneta. In un movimento, sceglie un vertice, rimuove una moneta da ciascuno dei due vertici adiacenti e aggiunge una moneta al vertice scelto, tenendo per sé la moneta rimanente. Può compiere tale movimento solo se entrambi i vertici adiacenti hanno almeno una moneta. Gruffo Avido si ferma solo quando non può più compiere alcun movimento. Quali sono il numero massimo e il numero minimo di monete che Gruffo Avido potrebbe aver raccolto?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2025#q05|src_inmo_2025__Q05]]
 
 
 
@@ -167,6 +207,13 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove che esistono infiniti numeri da pagare per le banconote con copie b-1*
+*Si dimostrare che esistono infiniti numeri pagabili per le note con b-1 copie*
 
-> $b \ge 2$ sia un numero intero positivo. Anu ha una raccolta infinita di note con esattamente $b - 1$ copie di una nota con valore $b^k$ per ogni numero intero $k \ge 1$. Un intero positivo $n$ è chiamato pagabile se Anu può pagare esattamente $n^2 + 1$ rupie utilizzando una raccolta delle sue banconote. Prova che se c'è un numero da pagare, allora ci sono infiniti numeri da pagare.
+> Sia $b \ge 2$ un numero intero positivo. Anu possiede una collezione infinita di banconote: per ogni numero intero $k \ge 1$, c'è esattamente $b - 1$ copie di una banconota del valore di $b^k$. Un numero intero positivo $n$ si dice pagabile se Anu può pagare esattamente $n^2 + 1$ rupie utilizzando un certo insieme delle sue banconote. Dimostrare che, se esiste un numero pagabile, allora esistono infiniti numeri pagabili.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2025#q06|src_inmo_2025__Q06]]

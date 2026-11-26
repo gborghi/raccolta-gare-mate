@@ -34,15 +34,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Secenza di sei numeri con pari triplice consecutive; trovare il prodotto di due numeri privi di contenuto*
+*Sequenza di sei numeri con somme uguali dei tripli consecutivi; trovare il prodotto di due numeri oscurati*
 
-> Raquel stava completando un puzzle che consisteva nel scrivere sei numeri in fila, uno per scatola, in modo che la somma di tutti e tre numeri consecutivi fosse sempre la stessa. Dopo aver completato la sequenza scrivendo i sei numeri, ha versato inchiostro sulla rivista, cancellando quattro numeri, come mostrato nella figura. Ricorda che uno dei due numeri che aveva scritto (cioè uno dei due numeri visibili) era un sette. Qual è il prodotto dei due numeri che ha scritto?
-> 
-> (La figura mostra le sei caselle con la prima casella contenente $1$ e l'ultima casella contenente $5$ visibili; le quattro caselle medie sono cancellate. Uno dei due valori non cancellati scritti da Raquel era $7$.)
+> Raquel stava completando un puzzle consistente nel scrivere sei numeri in fila, uno per casella, in modo che la somma di tre numeri consecutivi qualsiasi fosse sempre la stessa. Dopo aver completato la sequenza scrivendo i sei numeri, rovesciò dell'inchiostro sulla rivista, coprendo quattro numeri, come mostrato nella figura. Ricorda che uno dei due numeri che aveva scritto (ossia uno dei due numeri visibili) era un sette. Qual è il prodotto dei due numeri che ha scritto?
+>
+> (La figura mostra le sei caselle: solo la prima casella contiene $1$ e l'ultima casella contiene $5$, che sono visibili; le quattro caselle centrali sono oscurate. Uno dei due valori non oscurati scritti da Raquel era $7$.)
 
 ![[src_obm_2013_n1_f2__q01.png]]
 
-**Risposta:** 35
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f2#q01|src_obm_2013_n1_f2__Q01]]
 
 
 
@@ -65,9 +70,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Minimum a+b in modo che 28a3b e 7a4b3 siano entrambi quadrati perfetti*
+*Valore minimo di a+b tale che 28a³b e 7a⁴b³ siano entrambi quadrati perfetti*
 
-> Un numero naturale è chiamato quadrato perfetto quando è il quadrato di un altro numero naturale. Ad esempio, $1$ e $25$ sono quadrati perfetti, dal momento che $1 = 1^2$ e $25 = 5^2$. Qual è il valore minimo di $a + b$, con $a$ e $b$ numeri naturali non zero, in modo che i numeri $28a^3b$ e $7a^4b^3$ siano entrambi quadrati perfetti?
+> Un numero naturale è detto quadrato perfetto quando è il quadrato di un altro numero naturale. Ad esempio, $1$ e $25$ sono quadrati perfetti, poiché $1 = 1^2$ e $25 = 5^2$. Qual è il valore minimo di $a + b$, con $a$ e $b$ numeri naturali non nulli, affinché i numeri $28a^3b$ e $7a^4b^3$ siano entrambi quadrati perfetti?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n1_f2#q02|src_obm_2013_n1_f2__Q02]]
 
 
 
@@ -90,9 +102,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Unire dodici 3 ×4 rettangoli di plastica fianco a fianco per massimizzare il perimetro*
+*Unisci fianco a fianco dodici rettangoli di plastica 3×4 per massimizzare il perimetro*
 
-> Jurema ha 12 pezzi rettangolari di plastica, ognuno di cui $3\,\text{cm} \times 4\,\text{cm}$. Unisce questi pezzi con lati che coincidono per formare rettangoli più grandi, uno alla volta. Tra tutti i rettangoli che può formare utilizzando tutti i 12 pezzi, si sceglie quello con il più grande perimetro. Qual è questo perimetro, in centimetri?
+> Jurema ha 12 pezzi rettangolari di plastica, ciascuno di dimensioni $3\,\text{cm} \times 4\,\text{cm}$. Unisce questi pezzi facendo coincidere i lati per formare rettangoli più grandi, uno alla volta. Tra tutti i rettangoli che può formare utilizzando tutti e 12 i pezzi, viene scelto quello con il perimetro più grande. Qual è questo perimetro, in centimetri?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n1_f2#q03|src_obm_2013_n1_f2__Q03]]
 
 
 
@@ -119,13 +138,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Utilizzare i numeri 07 una volta ogni lato in un'addizione di colonne; massimizzare la somma*
+*Nell'addizione in colonna, utilizza ciascuna delle cifre da 0 a 7 una sola volta per lato; massimizza la somma*
 
-> Paulo vuole usare ciascuno dei numeri $0, 1, 2, 3, 4, 5, 6, 7$ esattamente una volta su ogni lato di un'addizione di colonna (un numero a tre cifre più un numero a tre cifre), in modo che l'addizione sia corretta. Qual è il risultato più grande che può ottenere con questa somma?
-> 
-> (La figura mostra un'addizione verticale di due numeri a tre cifre la cui somma è un numero a tre cifre o a quattro cifre, con ciascuna cifra $0$$7$ usata esattamente una volta attraverso le due addizioni.)
+> Paulo vuole utilizzare ciascuna delle cifre $0, 1, 2, 3, 4, 5, 6, 7$ esattamente una volta su ciascun lato di una addizione in colonna (un numero di tre cifre più un numero di tre cifre), in modo che l'addizione sia corretta. Qual è il risultato più grande che può ottenere in questa somma?
+>
+> (La figura mostra una addizione verticale di due numeri di tre cifre, il cui risultato è un numero di tre o quattro cifre, con ogni cifra $0$–$7$ utilizzata esattamente una volta tra i due addendi.)
 
 ![[src_obm_2013_n1_f2__q04.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n1_f2#q04|src_obm_2013_n1_f2__Q04]]
 
 
 
@@ -148,9 +174,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*100 corrette su 128 domande; trovare almeno N corrette consecutive*
+*100 risposte corrette su 128 domande; trova il minimo N risposte consecutive corrette*
 
-> In una prova a scelta multipla, Julia ha risposto correttamente alle domande $100$ di $128$. Ha verificato che il maggior numero di domande consecutive a cui ha risposto correttamente è $N$. Qual è il valore minimo possibile di $N$?
+> In un test a scelta multipla, Julia ha risposto correttamente a $100$ domande su $128$ domande possibili. Ha verificato che il maggior numero di domande consecutive a cui ha risposto correttamente è $N$. Qual è il valore minimo possibile di $N$?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f2#q05|src_obm_2013_n1_f2__Q05]]
 
 
 
@@ -173,9 +206,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sbarazzare i numeri interi 11000 due a due a partire dal secondo; contare gli studenti*
+*Cancella gli interi da 1 a 1000 a coppie, partendo dal secondo; conta gli studenti*
 
-> L'insegnante Maria scrisse sulla lavagna tutti gli enti da $1$ a $1000$. Ha chiamato uno studente e gli ha chiesto di cancellare i numeri a partire dal secondo, cancellare ogni altro numero (cioè, cancellare il 2 °, 4 °, 6 °, $\ldots$). Poi chiese al prossimo studente di fare lo stesso con i numeri rimanenti (a partire dal secondo numero rimanente, cancellare tutti gli altri), e così via. Quanti studenti sono andati alla lavagna?
+> L'insegnante Maria scrisse sulla lavagna tutti gli interi da $1$ a $1000$. Chiamò uno studente e gli chiese di cancellare i numeri a partire dal secondo, cancellando ogni secondo numero (cioè cancellando il 2°, il 4°, il 6°, $\ldots$). Poi chiese allo studente successivo di fare lo stesso con i numeri rimanenti (a partire dal secondo numero rimanente, cancellando ogni secondo numero), e così via. Quanti studenti sono andati alla lavagna?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2013_n1_f2#q06|src_obm_2013_n1_f2__Q06]]
 
 
 
@@ -207,17 +247,25 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tabella con X=prodotto e Y=quotiente; trovare riga 10 e somma nella riga 2013*
+*Tabella con X=prodotto e Y=quoziente; trova la riga 10 e la somma nella riga 2013*
 
-> Nella tabella laterale, a partire dalla seconda riga, il numero scritto nella colonna $X$ è uguale al prodotto dei numeri nella colonna $Y$ della riga precedente e al numero scritto nella colonna $X$ della riga precedente, e il numero scritto nella colonna $Y$ è uguale al quotiente del numero scritto nella colonna $X$ della riga precedente diviso dal numero scritto nella colonna $Y$ della riga precedente.
-> 
-> Le prime quattro righe della tabella sono: $$\begin{array}{c|c|c}\text{Row} & X & Y \\ \hline 1 & 2 & 1 \\ 2 & 2 & 2 \\ 3 & 4 & 1 \\ 4 & 4 & 4 \\ \vdots & \vdots & \vdots \end{array}$$
-> 
-> a) Quali sono i due numeri che appaiono nella riga $10$? Puoi esprimere la tua risposta usando poteri.
-> 
-> b) Qual è la somma dei numeri apparsi nella riga $2013$? Puoi esprimere la tua risposta usando poteri.
+> Nella tabella a fianco, a partire dalla seconda riga, il numero scritto nella colonna $X$ è uguale al prodotto dei numeri presenti nella colonna $Y$ della riga precedente e del numero scritto nella colonna $X$ della riga precedente, e il numero scritto nella colonna $Y$ è uguale al quoziente tra il numero scritto nella colonna $X$ della riga precedente e il numero scritto nella colonna $Y$ della riga precedente.
+>
+> Le prime quattro righe della tabella sono:
+> $$\begin{array}{c|c|c}\text{Row} & X & Y \\ \hline 1 & 2 & 1 \\ 2 & 2 & 2 \\ 3 & 4 & 1 \\ 4 & 4 & 4 \\ \vdots & \vdots & \vdots \end{array}$$
+>
+> a) Quali sono i due numeri che compaiono nella riga $10$? Puoi esprimere la risposta usando le potenze.
+>
+> b) Qual è la somma dei numeri che compaiono nella riga $2013$? Puoi esprimere la risposta usando le potenze.
 
 ![[src_obm_2013_n1_f2__q07.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[skill_riconoscimento_pattern|skill_riconoscimento_pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2013_n1_f2#q07|src_obm_2013_n1_f2__Q07]]
 
 
 
@@ -242,11 +290,18 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Goldsmith taglia i cubetti verticali da 10 cm di cubo; costo della superficie del foglio d'oro*
+*L'orafo ricava cubi a vertici da un cubo di 10 cm; costo della superficie in lamina d'oro*
 
-> Il fabbro d'oro Carlos ha un cubo di legno con bordi di $10\,\text{cm}$. Taglia cubetti di bordo $2\,\text{cm}$ da ogni vertice del grande cubo e incolla una sottile follia d'oro su tutta la superficie del solido risultante, a un prezzo di $8$ reais per centimetro quadrato. Senza sprechi, qual è il costo in reais di questa copertura?
+> L'orafo Carlos possiede un cubo di legno con spigoli di lunghezza $10\,\text{cm}$. Da ciascun vertice del cubo grande taglia dei cubi di spigolo $2\,\text{cm}$ e incolla una sottile lamina d'oro su tutta la superficie del solido risultante, al prezzo di $8$ reais per centimetro quadrato. Senza sprechi, qual è il costo in reais di questa copertura?
 
 ![[src_obm_2013_n1_f2__q08.png]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2013_n1_f2#q08|src_obm_2013_n1_f2__Q08]]
 
 
 
@@ -275,12 +330,19 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Diagonali trapezoidi: area ABC = area ADE; poi trovare area di AGDH*
+*Diagonali del trapezio: area ABC = area ADE; quindi determina l'area di AGDH*
 
-> Abbiamo un trapezoide e le sue diagonali come mostrato di seguito.
-> 
-> a) Indicare che la superficie del triangolo $ABC$ è uguale alla superficie del triangolo $ADE$.
-> 
-> b) Nella figura seguente, $BCFE$ è un rettangolo, il triangolo $ABC$ ha superficie $5\,\text{cm}^2$ e il triangolo $DEF$ ha superficie $4\,\text{cm}^2$. Calcolare l'area del quadrilaterale $AGDH$.
+> Abbiamo un trapezio e le sue diagonali, come mostrato di seguito.
+>
+> a) Dimostrare che l'area del triangolo $ABC$ è uguale all'area del triangolo $ADE$.
+>
+> b) Nella figura che segue, $BCFE$ è un rettangolo, il triangolo $ABC$ ha area $5\,\text{cm}^2$ e il triangolo $DEF$ ha area $4\,\text{cm}^2$. Calcola l'area del quadrilatero $AGDH$.
 
 ![[src_obm_2013_n1_f2__q09.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2013_n1_f2#q09|src_obm_2013_n1_f2__Q09]]

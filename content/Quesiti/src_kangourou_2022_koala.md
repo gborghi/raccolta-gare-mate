@@ -31,13 +31,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which box contains more triangles*
+*Which of these 5 boxes contains more triangles than all the others?*
 
 ![[src_kangourou_2022_koala__prob1.png]]
 
-> Which of these five boxes contains more triangles than all the others? (see figure)
+> Which of these 5 boxes contains more triangles than all the others? (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_koala#q01|src_kangourou_2022_koala__Q01]]
 
 
 
@@ -82,33 +86,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*last box*
+*In which cell must I put the last counter?*
 
 ![[src_kangourou_2022_koala__prob2.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.0]
-  \draw[thick] (0,0) grid (4,4);
-  \filldraw[fill=orange!30,draw=black] (0.5,3.5) circle (0.38);
-  \filldraw[fill=orange!30,draw=black] (1.5,3.5) circle (0.38);
-  \filldraw[fill=orange!30,draw=black] (1.5,2.5) circle (0.38);
-  \filldraw[fill=orange!30,draw=black] (3.5,2.5) circle (0.38);
-  \filldraw[fill=orange!30,draw=black] (0.5,1.5) circle (0.38);
-  \filldraw[fill=orange!30,draw=black] (2.5,0.5) circle (0.38);
-  \filldraw[fill=orange!30,draw=black] (3.5,0.5) circle (0.38);
-  \node at (3.5,3.5) {B};
-  \node at (0.5,2.5) {A};
-  \node at (2.5,2.5) {C};
-  \node at (2.5,1.5) {D};
-  \node at (0.5,0.5) {E};
-\end{tikzpicture}
-\end{document}
-```
+> I want every row and every column of this chessboard to have 2 counters and no more than 2. I have already put 7 counters on the chessboard: in which cell must I put the last counter? (see the picture)
 
-> I want every line and every column on this chessboard to have 2 tokens and no more than 2. I've already put seven tokens on the chessboard. In which box should I put the last token? (see figure)
-
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_koala#q02|src_kangourou_2022_koala__Q02]]
 
 
 
@@ -133,13 +121,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which result*
+*Which of the following images can show the result of this operation?*
 
 ![[src_kangourou_2022_koala__prob3.png]]
 
-> Simone cuts the drawing in the figure exactly in half and adjoins the two rectangles obtained. Which of the following images may represent the result of this operation? (see figure)
+> Simone cuts the drawing shown in the picture exactly in half and places the two rectangles obtained side by side. Which of the following images can show the result of this operation? (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_koala#q03|src_kangourou_2022_koala__Q03]]
 
 
 
@@ -164,13 +156,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many adjacent to exactly three others*
+*How many bricks are next to three other bricks and to no more than three?*
 
 ![[src_kangourou_2022_koala__prob4.png]]
 
-> The figure shows five identical bricks. How many bricks have been joined to three other bricks and not more than three bricks? (see figure)
+> The picture shows five identical bricks. How many bricks are next to three other bricks and to no more than three? (see the picture)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_koala#q04|src_kangourou_2022_koala__Q04]]
 
 
 
@@ -195,13 +191,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Piece ripped from the treasure map*
+*Which of the following pieces can be the piece that was torn from this treasure map?*
 
 ![[src_kangourou_2022_koala__prob5.png]]
 
-> Which of the following pieces could be the piece that was torn off this treasure map? (see figure)
+> Which of the following pieces can be the piece that was torn from this treasure map? (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_koala#q05|src_kangourou_2022_koala__Q05]]
 
 
 
@@ -226,13 +226,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four cards forming a square*
+*Which of the following figures can be obtained?*
 
 ![[src_kangourou_2022_koala__prob6.png]]
 
-> Peter places these four tiles together to form a square. Which of the following figures can be obtained? (see figure)
+> Pietro places these four tiles side by side so as to form a square. Which of the following figures can be obtained? (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** B
+[[Quesiti/src_kangourou_2022_koala#q06|src_kangourou_2022_koala__Q06]]
 
 
 
@@ -257,13 +261,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many squares are stained*
+*How many little squares are stained?*
 
 ![[src_kangourou_2022_koala__prob7.png]]
 
-> A drop of ink fell on a piece of squared paper, as you can see in the picture. How many squares are stained? (see figure)
+> A drop of ink fell on a piece of squared paper, as you see in the picture. How many little squares are stained? (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_koala#q07|src_kangourou_2022_koala__Q07]]
 
 
 
@@ -288,13 +296,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*cost of the sandwich*
+*How much does a sandwich cost?*
 
 ![[src_kangourou_2022_koala__prob8.png]]
 
 > Alice and Emma are at the café. Alice pays 12 euros for a sandwich and a fruit juice. Emma pays 14 euros for a sandwich and two fruit juices. How much does a sandwich cost?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_koala#q08|src_kangourou_2022_koala__Q08]]
 
 
 
@@ -319,13 +331,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*equal numbers under the same form*
+*Which of the following numbers can be the number Gloria wrote?*
 
 ![[src_kangourou_2022_koala__prob9.png]]
 
-> Gloria wrote a number on the sand and then covered each digit with an ant. The result is what you see in the figure. She covered different digits with different ants and the same digits with the same ants. Which of the following numbers could be Gloria's number? (see figure)
+> Gloria wrote a number in the sand and then covered each digit with an ant: the result is what you see in the picture. She covered different digits with different ants and equal digits with equal ants. Which of the following numbers can be the number Gloria wrote? (see the picture)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_koala#q09|src_kangourou_2022_koala__Q09]]
 
 
 
@@ -354,13 +370,23 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Kangaroo to koala by avoiding blue spots*
+*What is the longest path?*
 
 ![[src_kangourou_2022_koala__prob10.png]]
 
-> The kangaroo you see in the drawing can move: - only horizontally or vertically - only one square at a time - only without crossing blue-spotted squares. If it wants to reach the koala, what's the longest route? The arrows in the answers indicate the direction of the kangaroo's steps. (see figure)
+> The kangaroo you see in the drawing can move:
+>
+> - only horizontally or vertically;
+> - only one little square at a time;
+> - only without crossing little squares with the light-blue stains.
+>
+> If it wants to reach the koala, what is the longest path? The arrows in the answers show the direction of the kangaroo's steps. (see the picture)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_koala#q10|src_kangourou_2022_koala__Q10]]
 
 
 
@@ -385,13 +411,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Geometric shape missing from the other images*
+*In which of them?*
 
 ![[src_kangourou_2022_koala__prob11.png]]
 
-> In one of the images you see below there's a geometric shape that's not present in the other four. In which one? Consider the same geometric shapes of different sizes. (see figure)
+> In one of the images you see below there is a geometric shape that is not present in the other four. In which? Regard geometric shapes of different sizes as the same. (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_koala#q11|src_kangourou_2022_koala__Q11]]
 
 
 
@@ -416,13 +446,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Stack of disks from above*
+*Which of the five figures do you see?*
 
 ![[src_kangourou_2022_koala__prob12.png]]
 
-> If you look at this pile of discs from above, which of the five figures do you see? (see figure)
+> If you look at this pile of discs from above, which of the five figures do you see? (see the picture)
 
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_koala#q12|src_kangourou_2022_koala__Q12]]
 
 
 
@@ -447,13 +481,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*what image is obtained*
+*Which of the following images do you get?*
 
 ![[src_kangourou_2022_koala__prob13.png]]
 
-> In the picture, you see a stamp. When you use it, which of the following images do you get? (see figure)
+> In the picture you see a stamp. When you use it, which of the following images do you get? (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_koala#q13|src_kangourou_2022_koala__Q13]]
 
 
 
@@ -478,13 +516,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tiles to border a square with side 5*
+*How many tiles does she use to frame the square of side 5?*
 
 ![[src_kangourou_2022_koala__prob14.png]]
 
-> Caterina has drawn 3 squares and now she borders them with frames made by placing many tiles like this one (with side $\frac{1}{2}$). How many tiles does she use to border the square with side 5? (see figure)
+> Caterina drew 3 squares and now she frames them with borders made by placing many tiles like this one side by side (of side $\frac{1}{2}$). How many tiles does she use to frame the square of side 5? (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_koala#q14|src_kangourou_2022_koala__Q14]]
 
 
 
@@ -509,13 +551,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*star after square before triangle*
+*Which of the following can be the figure that is seen after Anna has finished her game?*
 
 ![[src_kangourou_2022_koala__prob15.png]]
 
-> Anna attached these four stickers. She attached the star after attaching the square, but before attaching the triangle. Which of the following may be the figure you see after Anna completes her play? (see figure)
+> Anna stuck these four stickers on. She stuck the star on after sticking the square on, but before sticking the triangle on. Which of the following can be the figure that is seen after Anna has finished her game? (see the picture)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
+[[Quesiti/src_kangourou_2022_koala#q15|src_kangourou_2022_koala__Q15]]
 
 
 
@@ -540,13 +586,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many figures overlap*
+*How many of the figures in the part to the right of the vertical line come to lie exactly on top of the matching figures in the part to the left?*
 
 ![[src_kangourou_2022_koala__prob16.png]]
 
-> On the right you see a sheet of grid paper. Some squares contain a figure. If you fold the same sheet along the vertical line, how many of the figures on the right side of the vertical line overlap exactly with the similar figures on the left side? (see figure)
+> On the right you see a sheet of squared paper. Some little squares hold a figure. If you fold the sheet on itself along the vertical line, how many of the figures in the part to the right of the vertical line come to lie exactly on top of the matching figures in the part to the left? (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_koala#q16|src_kangourou_2022_koala__Q16]]
 
 
 
@@ -571,13 +621,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*number to equal the two sums*
+*Which of the following numbers must he put in place of the question mark?*
 
 ![[src_kangourou_2022_koala__prob17.png]]
 
-> Luke wants to insert a number into each of the circles drawn in the boxes and wants the sum of the five numbers in the box on the left to be equal to the sum of the numbers in the box on the right. Which of the following numbers should replace the question mark? (see figure)
+> Luca wants to put a number in each of the circles drawn in the little houses, and he wants the sum of the five numbers of the little house on the left to equal the sum of those of the little house on the right. Which of the following numbers must he put in place of the question mark? (see the picture)
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_koala#q17|src_kangourou_2022_koala__Q17]]
 
 
 
@@ -602,13 +656,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Flowerbed with the smallest area*
+*Which is the flower bed with the smallest area?*
 
 ![[src_kangourou_2022_koala__prob18.png]]
 
-> The green figures represent flowerbeds. The small black circles represent points: the distance of each of them from each of the points closest to it is always the same. Which is the flowerbed with the smallest area? (see figure)
+> The green figures stand for flower beds. The black circles stand for points: the distance of each of them from each of the points nearest to it is always the same. Which is the flower bed with the smallest area? (see the picture)
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_koala#q18|src_kangourou_2022_koala__Q18]]
 
 
 
@@ -633,13 +691,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cumulative gift bears after sixth birthday*
+*After the party for her sixth birthday, how many teddy bears does she have in all?*
 
 ![[src_kangourou_2022_koala__prob19.png]]
 
-> Every birthday Mary received a gift of teddy bears: a teddy bear on her first birthday, two on her second birthday, and so on, every birthday she received one more teddy bear than the previous year. And she kept them all. After the party for her sixth birthday, how many bears does she have in all?
+> On every birthday Maria has been given teddy bears as a present: one teddy bear on her first birthday, two on her second, and so on; on every birthday she has received one more teddy bear than the year before. And she has kept them all. After the party for her sixth birthday, how many teddy bears does she have in all?
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_koala#q19|src_kangourou_2022_koala__Q19]]
 
 
 
@@ -664,13 +726,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*highest sum of the numbers*
+*What is the highest sum Dino can obtain?*
 
 ![[src_kangourou_2022_koala__prob20.png]]
 
-> Dino moves from the entrance to the exit of this house through the rooms and can't go through a room more than once. Dino sums up all the numbers he finds in the rooms he's going through. What's the highest sum Dino can get? (see figure)
+> Dino moves from the entrance to the exit of this house, passing through the rooms, and he cannot pass through a room more than once. Dino adds all the numbers he finds in the rooms he passes through. What is the highest sum Dino can obtain? (see the picture)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
+[[Quesiti/src_kangourou_2022_koala#q20|src_kangourou_2022_koala__Q20]]
 
 
 
@@ -718,36 +784,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*?*
+*Which number must be written in place of the question mark?*
 
 ![[src_kangourou_2022_koala__prob21.png]]
 
-```tikz
-\begin{document}
-\begin{tikzpicture}[scale=1.2]
-  \draw[->,thick] (0.5,3.5) -- (3.7,3.5) node[right] {+};
-  \draw[->,thick] (0.3,3.5) -- (0.3,0.5);
-  \node at (-0.1,2.0) {+};
-  \draw[fill=gray!50] (0.6,2.6) rectangle (1.4,3.4);
-  \draw[fill=gray!50] (1.6,2.6) rectangle (2.4,3.4);
-  \draw[fill=gray!50] (2.6,2.6) rectangle (3.4,3.4);
-  \draw[fill=gray!50] (0.7,1.7) -- (1.3,1.7) -- (1.0,2.3) -- cycle;
-  \draw[fill=gray!50] (1.6,1.6) rectangle (2.4,2.4);
-  \draw[fill=gray!50] (2.6,1.6) rectangle (3.4,2.4);
-  \draw[fill=gray!50] (0.7,0.7) -- (1.3,0.7) -- (1.0,1.3) -- cycle;
-  \draw[fill=gray!50] (2.0,1.0) circle (0.35);
-  \draw[fill=gray!50] (2.7,0.7) -- (3.3,0.7) -- (3.0,1.3) -- cycle;
-  \node at (3.8,3.0) {18};
-  \node at (3.8,1.0) {10};
-  \node at (1.0,-0.2) {14};
-  \node at (2.0,-0.2) {?};
-\end{tikzpicture}
-\end{document}
-```
+> In the drawing, equal figures cover equal numbers, and different figures cover different numbers. Which number must be written in place of the question mark? (see the picture)
 
-> In the diagram, equal shapes cover equal numbers, and different shapes cover different numbers. Which number should be written in place of the question mark? (See figure)
-
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_koala#q21|src_kangourou_2022_koala__Q21]]
 
 
 
@@ -772,13 +819,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*which road it takes*
+*Which of the following roads can it travel, if the starting point is chosen suitably?*
 
 ![[src_kangourou_2022_koala__prob22.png]]
 
-> Kanga's car can only turn right; it can never turn left. Which of the following roads can it take, if you choose the starting point appropriately? (see figure)
+> Kanga's car can turn only right; it can never turn left. Which of the following roads can it travel, if the starting point is chosen suitably? (see the picture)
 
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_koala#q22|src_kangourou_2022_koala__Q22]]
 
 
 
@@ -803,13 +854,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*how many children*
+*How many boys are there in that class?*
 
 ![[src_kangourou_2022_koala__prob23.png]]
 
-> There are 30 schoolchildren in a classroom, boys and girls. Each bench has two seats and each child has a girl as a bench partner. However, only half of the girls have a boy as a partner. How many kids are in that class?
+> In a class there are 30 pupils, boys and girls. Each desk has two seats and every boy has a girl as his desk-mate. However, only half of the girls have a boy as their desk-mate. How many boys are there in that class?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
+[[Quesiti/src_kangourou_2022_koala#q23|src_kangourou_2022_koala__Q23]]
 
 
 
@@ -834,10 +889,14 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*minimum exchanges for increasing order*
+*What is the least number of steps that lets you have the cards in increasing order?*
 
 ![[src_kangourou_2022_koala__prob24.png]]
 
-> There are five numbered cards on the counter, as shown in the figure. You have to put them in increasing order to make a row; at each step, you can only swap two cards in place. What's the least number of steps that allows you to have the cards in increasing order? (see figure)
+> On the desk there are five numbered cards, as shown in the picture. You have to put them in increasing order to make a row; at each step you may only swap two cards. What is the least number of steps that lets you have the cards in increasing order? (see the picture)
 
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
+[[Quesiti/src_kangourou_2022_koala#q24|src_kangourou_2022_koala__Q24]]

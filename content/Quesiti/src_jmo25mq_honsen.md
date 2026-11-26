@@ -29,9 +29,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trovare tutti gli integri positivi n rendendo 10^n/(n^3+n^2+n+1) un intero*
+*Interi positivi per cui un'espressione è intera*
 
-> Trovare tutti gli integri positivi $n$ in modo che $\dfrac{10^n}{n^3 + n^2 + n + 1}$ sia un intero.
+> Determinare tutti gli interi positivi $n$ tali che $\dfrac{10^n}{n^3 + n^2 + n + 1}$ sia un intero.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo25mq_honsen#q01|src_jmo25mq_honsen__Q01]]
 
 
 
@@ -56,11 +61,16 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Controlli sull'esagono triangolato: trovare movimenti minimi per raggiungere qualsiasi vertice*
+*Minimo lato di un esagono regolare in cui da un punto della triangolazione si raggiunge ogni altro*
 
-> $n$ sia un numero intero positivo. Un esagono regolare $ABCDEF$ con lunghezza laterale $n$ è diviso in triangoli equilaterali unitari con linee parallele ai suoi lati. Un controllore è posizionato in un punto $P$ rigorosamente all'interno dell'esagono (non sul confine). Il controllatore può saltare su uno dei 4 vertici del triangolo unitario che contiene $P$. Per ciascun bordo $PQ$ di lunghezza-1 della triangolazione, il controllore può passare da $P$ a $Q$, ma non può passare da $Q$ a $P$. (Qui, $P$ può raggiungere $Q$ in una mossa significa $P$ è un vertice di un triangolo unitario e $Q$ è uno dei 4 vertici consentiti di quel triangolo.) Indipendentemente da come le direzioni di triangolazione sono assegnate, esiste sempre un punto $k$ sulla griglia di triangolazione da cui si può raggiungere qualsiasi altro punto di griglia. Trova il valore minimo di tale $k$.
+> Sia $n$ un intero positivo. Un esagono regolare $ABCDEF$ di lato $n$ è diviso in triangoli equilateri unitari da rette parallele ai lati. Una pedina è posta in un punto $P$ strettamente interno all'esagono (non sul bordo). La pedina può saltare su uno di 4 (su 6) vertici del triangolo unitario che contiene $P$. Per ogni spigolo $PQ$ di lunghezza 1 della triangolazione, la pedina può andare da $P$ a $Q$ ma non può andare da $Q$ a $P$. (Qui, $P$ può raggiungere $Q$ in una mossa significa che $P$ è un vertice di qualche triangolo unitario e $Q$ è uno dei 4 vertici ammessi di quel triangolo.) Comunque si assegnino le direzioni della triangolazione, esiste sempre un punto $k$ della griglia della triangolazione dal quale si può raggiungere qualunque altro punto della griglia. Trovare il minimo valore di un tale $k$.
 
 ![[src_jmo25mq_honsen__q02.png]]
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_grafi|Teoria dei grafi]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo25mq_honsen#q02|src_jmo25mq_honsen__Q02]]
 
 
 
@@ -88,13 +98,20 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenze ascendenti di numeri interi positivi e multipli di numeri primi*
+*Successioni crescenti e multipli di un primo*
 
-> Una sequenza di interi positivi $\{a_n\}$ $(n = 1, 2, \ldots)$ si chiama **ascendente** se, per ogni intero positivo $n$, $$a_n < a_{n+1} \quad \text{and} \quad a_n \mid 2a_{n+1}.$$
-> 
-> (1) Supponiamo che $\{a_n\}$ sia in ascesa e $p$ sia un primo maggiore di $a_1$. Indicare che un certo termine della sequenza è divisibile per $p$.
-> 
-> (2) $p$ sia un primo pari. Indicare che esiste una sequenza ascendente $\{a_n\}$ che non contiene un multiple di $p$.
+> Una successione di interi positivi $\{a_n\}$ $(n = 1, 2, \ldots)$ si dice **crescente** se, per ogni intero positivo $n$,
+>
+> $$a_n < a_{n+1} \quad \text{and} \quad a_n \mid 2a_{n+1}.$$
+>
+> (1) Si supponga che $\{a_n\}$ sia crescente e che $p$ sia un primo maggiore di $a_1$. Dimostrare che qualche termine della successione è divisibile per $p$.
+>
+> (2) Sia $p$ un primo dispari. Dimostrare che esiste una successione crescente $\{a_n\}$ che non contiene alcun multiplo di $p$.
+
+**Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo25mq_honsen#q03|src_jmo25mq_honsen__Q03]]
 
 
 
@@ -117,9 +134,14 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro punti conciclici dalle costruzioni incircolare e circoncircolare sul triangolo ABC*
+*Quattro punti conciclici, a partire da incentro e punti di tangenza*
 
-> Il $ABC$ deve essere un triangolo scaleno (non isosceles), $\Gamma$ il suo circoncircolo e $I$ il suo incentro. Lascia che l'incircolo dei lati $\triangle ABC$ tocchi $AB$ e $AC$ rispettivamente a $D$ e $E$. Il $P$ deve essere la seconda intersezione (diversi da $B$) del circoncircolo di $\triangle BEI$ con $\Gamma$. Il $Q$ deve essere la seconda intersezione (diversi da $C$) del circoncircolo di $\triangle CDI$ con $\Gamma$. Provare che i quattro punti $D$, $E$, $P$, $Q$ sono conciclici.
+> Sia $ABC$ un triangolo scaleno (non isoscele), $\Gamma$ la sua circonferenza circoscritta e $I$ il suo incentro. La circonferenza inscritta di $\triangle ABC$ tocchi i lati $AB$ e $AC$ rispettivamente in $D$ e $E$. Sia $P$ la seconda intersezione (diversa da $B$) della circonferenza circoscritta a $\triangle BEI$ con $\Gamma$. Sia $Q$ la seconda intersezione (diversa da $C$) della circonferenza circoscritta a $\triangle CDI$ con $\Gamma$. Dimostrare che i quattro punti $D$, $E$, $P$, $Q$ sono conciclici.
+
+**Argomento:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
+**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+[[Quesiti/src_jmo25mq_honsen#q04|src_jmo25mq_honsen__Q04]]
 
 
 
@@ -146,10 +168,15 @@ level: JMO Honsen
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numero massimo di a×una sotto-griglia con esattamente una cellula nera tra n scelti*
+*Il massimo numero di sottogriglie con un dato numero di caselle nere, per n abbastanza grande*
 
-> $a$ sia un numero intero positivo. Provare che per tutti gli integri sufficientemente grandi $n$ vale quanto segue:
-> 
-> Selezionare le celle $n$ da una griglia infinita e colorarle in nero. Il $K$ è il numero di $a \times a$ sottogridi (quadrati laterali allineati all'asse $a$) che contengono esattamente $a$ cellule nere. In questo caso, il valore massimo possibile di $K$ è $a(n + 1 - a)$.
-> 
-> (Qui, "rende per tutti $n$ sufficientemente grandi" significa che esiste un numero intero $N$ tale che l'indicazione rende per ogni $n \ge N$.)
+> Sia $a$ un intero positivo. Dimostrare che per tutti gli interi $n$ abbastanza grandi vale quanto segue.
+>
+> Si scelgano $n$ caselle di una griglia infinita e le si colori di nero. Sia $K$ il numero di sottogriglie $a \times a$ (quadrati a lati paralleli agli assi, di lato $a$) che contengono esattamente $a$ caselle nere. Allora il massimo valore possibile di $K$ è $a(n + 1 - a)$.
+>
+> (Qui, «vale per tutti i $n$ abbastanza grandi» significa che esiste un intero $N$ tale che l'affermazione vale per ogni $n \ge N$.)
+
+**Argomento:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]]
+**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]], [[skill_astrazione|Astrazione / generalizzazione]]
+[[Quesiti/src_jmo25mq_honsen#q05|src_jmo25mq_honsen__Q05]]

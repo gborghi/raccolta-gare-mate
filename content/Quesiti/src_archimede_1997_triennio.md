@@ -38,19 +38,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of a figure composed of equal rectangles*
+*Perimeter of a figure made of identical rectangles*
 
-![[src_archimede_1997_triennio__prob1.png]]
-
-> In the figure next to the rectangles (all equal) have height a and base b. The perimeter of the figure
+> In the figure the rectangles (all identical) have height a and base b. The perimeter of the figure
 >
-> - **(A)** è 15a+15b
-> - **(B)** è 10a+10b
-> - **(C)** è 15a+30b
-> - **(D)** è 30a + 30b
-> - **(E)** None of the above.
+> - **(A)** is 15a+15b
+> - **(B)** is 10a+10b
+> - **(C)** is 15a+30b
+> - **(D)** is 30a + 30b
+> - **(E)** none of the above.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_triennio#q01|src_archimede_1997_triennio__Q01]]
 
 
 
@@ -82,9 +83,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum number to be achieved in 8 moves double or square*
+*Maximum number obtainable in 8 moves by doubling or squaring*
 
-> On the board is number one. The only move allowed is to erase the number written on the board and replace it with either its double or its square. What's the biggest number you can get in eight moves?
+> On the blackboard is written the number 1. The only allowed move is to erase the number written on the blackboard and replace it with either its double or its square. What is the largest number that can be obtained in 8 moves?
 >
 > - **(A)** 28
 > - **(B)** 47
@@ -92,7 +93,11 @@ level: triennio
 > - **(D)** 264
 > - **(E)** 2128.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_1997_triennio#q04|src_archimede_1997_triennio__Q04]]
 
 
 
@@ -125,9 +130,10 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minutes to form an open chain of 10 rings*
+*Minutes to form an open chain of 10 links*
 
-> Cutting a chain ring takes one minute, and welding it again takes five minutes. With 10 rings connected in pairs, how many minutes (at least) does it take to form an open chain of 10 rings?
+> Cutting a chain link takes one minute, and soldering it back takes 5.
+> Given 10 links linked two by two, how many minutes (at minimum) are needed to form an open chain of 10 links?
 >
 > - **(A)** 30
 > - **(B)** 26
@@ -135,7 +141,11 @@ level: triennio
 > - **(D)** 18
 > - **(E)** 12.
 
-**Answer:** D
+
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_1997_triennio#q06|src_archimede_1997_triennio__Q06]]
 
 
 
@@ -164,7 +174,7 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which of the following numbers is the smallest*
+*Which of several numbers is the smallest*
 
 > Which of the following numbers is the smallest?
 >
@@ -174,7 +184,10 @@ level: triennio
 > - **(D)** √0, 00001
 > - **(E)** (0, 0001)2.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_stima|Estimation and approximation]]
+[[Quesiti/src_archimede_1997_triennio#q07|src_archimede_1997_triennio__Q07]]
 
 
 
@@ -204,9 +217,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of volumes given the ratio of cubic surfaces*
+*Ratio of volumes given the ratio of surface areas of cubes*
 
-> The total surface area of two cubes is twice that of the other. What is the ratio of the volumes of the two cubes?
+> The total surface areas of two cubes are in the ratio of one to two. What is the ratio of the volumes of the two cubes?
 >
 > - **(A)** 2
 > - **(B)** √ 2
@@ -214,7 +227,10 @@ level: triennio
 > - **(D)** 3√ 2
 > - **(E)** 4.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_triennio#q08|src_archimede_1997_triennio__Q08]]
 
 
 
@@ -244,17 +260,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which logical conclusion is not deductible*
+*Which logical conclusion does not follow*
 
-> If I've played tennis in the afternoon, I'm hungry at night, and if I'm hungry at night, then I eat too much. Which of the following conclusions can I not draw from these premises?
+> If I played tennis in the afternoon, I am hungry in the evening, and if I am hungry in the evening, then I eat too much. Which of the following conclusions can I not draw from these premises?
 >
-> - **(A)** If I play tennis in the afternoon, then at night I'm hungry and I eat too much.
-> - **(B)** If I'm hungry at night, then I eat too much, or I played tennis in the afternoon.
-> - **(C)** If I'm not hungry at night, then I haven't played tennis in the afternoon.
-> - **(D)** If I'm not hungry at night, then I don't eat too much.
-> - **(E)** If I don't eat too much in the evening, then I didn't play tennis in the afternoon.
+> - **(A)** if I play tennis in the afternoon, then in the evening I am hungry and I eat too much
+> - **(B)** if I am hungry in the evening, then I eat too much, or I played tennis in the afternoon
+> - **(C)** if I am not hungry in the evening, then I did not play tennis in the afternoon
+> - **(D)** if I am not hungry in the evening, then I do not eat too much
+> - **(E)** if I do not eat too much in the evening, then I did not play tennis in the afternoon.
 
-**Answer:** D
+
+**Topic:** [[topic_logica|Logic, games, strategies]]
+**Skill:** [[skill_lettura_attenta|Careful reading]]
+[[Quesiti/src_archimede_1997_triennio#q09|src_archimede_1997_triennio__Q09]]
 
 
 
@@ -287,9 +306,11 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum lightness of a strip containing three dots*
+*Minimum width of a strip containing three points*
 
-> In a Cartesian plane the following points are given: A = (0, 15); B = (20, 0); C = (0, 0). What is the minimum width of a straight line containing all three points? [We call a straight line the portion of the plane between two parallel lines, including the two lines.]
+> In a Cartesian plane the following points are given: A = (0, 15); B = (20, 0);
+> C = (0, 0). What is the minimum width of a straight strip containing
+> all three points? [We call a straight strip the portion of the plane between two parallel lines, including the two lines.]
 >
 > - **(A)** 8
 > - **(B)** 10
@@ -297,7 +318,11 @@ level: triennio
 > - **(D)** 15
 > - **(E)** 20.
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_analitica|Analytic geometry]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_triennio#q10|src_archimede_1997_triennio__Q10]]
 
 
 
@@ -326,17 +351,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Value x+y given a system of exponential equations*
+*Value of x + y from a system of exponential equations*
 
-> If 2x is 4y plus 1 and 27y is 3x plus 1, what is x plus y?
+> If 2x = 4y+1 and 27y = 3x+1, what is the value of x + y?
 >
 > - **(A)** −3
 > - **(B)** 3
 > - **(C)** 5
 > - **(D)** 11
-> - **(E)** there are no pairs of numbers (x, y) that verify the given conditions.
+> - **(E)** there are no pairs of numbers (x, y) that satisfy the given conditions.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1997_triennio#q11|src_archimede_1997_triennio__Q11]]
 
 
 
@@ -368,11 +396,9 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of a figure drawn between circles*
+*Area of a shaded figure between circles*
 
-![[src_archimede_1997_triennio__prob12.png]]
-
-> Determine the area of the drawn figure, knowing that each circumference has a radius of 1 cm.
+> Determine the area of the shaded figure, knowing that each circle has radius 1 cm.
 >
 > - **(A)** π cm2
 > - **(B)** (π −2) cm2
@@ -380,7 +406,10 @@ level: triennio
 > - **(D)** 2(π −2) cm2
 > - **(E)** 4(π −1) cm2.
 
-**Answer:** D
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_triennio#q12|src_archimede_1997_triennio__Q12]]
 
 
 
@@ -413,17 +442,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Pull or stop in the game of dice*
+*Whether to roll or stop in the die game*
 
-> A game consists of repeated rolling of a dice; the scores obtained at each roll are added to the previous total and a player wins as many chips as his score, but he wins nothing if his score exceeds 10. A player already has a score of six. Should he throw another dice (adding six points) or withdraw from the game by winning the six tokens?
+> A game consists of repeatedly rolling a die; the scores obtained on each roll are added to the previous total, and a player wins as many tokens as his score, but wins nothing if his score exceeds 10. A player already has a score of six. Should he roll again (adding the score obtained to six) or withdraw from the game, winning the six tokens?
 >
-> - **(A)** It's good to draw: in fact, in four cases you gain, in only two cases you lose
-> - **(B)** You should stop. If you lose, you lose six tokens, and if you win, you gain four.
-> - **(C)** is appropriate to draw, but with a different motivation from (A)
-> - **(D)** It is appropriate to stop, but with a different motivation from (B)
-> - **(E)** It's just a matter of luck.
+> - **(A)** one should roll: indeed, in four cases one gains, and in only two cases one loses
+> - **(B)** one should stop: indeed, if one loses, one loses the six tokens, and if one wins, one gains at most four
+> - **(C)** one should roll, but for a reason different from (A)
+> - **(D)** one should stop, but for a reason different from (B)
+> - **(E)** it is only a matter of luck.
 
-**Answer:** D
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1997_triennio#q13|src_archimede_1997_triennio__Q13]]
 
 
 
@@ -454,17 +486,20 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The average age of a class given the composition*
+*Average age of a class given its makeup*
 
-> In a first, there's three boys for every two girls. The average age of the boys is 14 years and 2 months, the average age of the girls is 13 years and 4 months. What is the average class age?
+> In a first-year class there are 3 boys for every 2 girls. The average age of the boys is 14 years and 2 months, that of the girls 13 years and 4 months. What is the average age of the class?
 >
 > - **(A)** 13 years and 6 months
 > - **(B)** 13 years and 8 months
 > - **(C)** 13 years and 10 months
 > - **(D)** 14 years
-> - **(E)** The result depends on the number of pupils in the class.
+> - **(E)** the result depends on the number of pupils in the class.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+[[Quesiti/src_archimede_1997_triennio#q14|src_archimede_1997_triennio__Q14]]
 
 
 
@@ -497,9 +532,13 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Simplification of an expression with radicals*
+*Simplifying an expression with radicals*
 
-> How much is 5p 2 4√ 2?
+> How much is
+> 5p
+> 2
+> 4√
+> 2 ?
 >
 > - **(A)** 20√ 2
 > - **(B)** 9√ 2
@@ -507,7 +546,10 @@ level: triennio
 > - **(D)** 20√ 29
 > - **(E)** 20√ 4.
 
-**Answer:** C
+
+**Topic:** [[topic_algebra|Algebra]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1997_triennio#q15|src_archimede_1997_triennio__Q15]]
 
 
 
@@ -542,19 +584,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*A/EB report from segments on square paper*
+*Ratio of AE to EB from segments on squared paper*
 
-![[src_archimede_1997_triennio__prob16.png]]
-
-> On a square sheet of paper, the segments AB and CD are drawn as shown. That said, and their intersection point, what's the ratio between the length of AE and the length of EB?
+> On a sheet of squared paper the segments AB and CD are drawn, as in the figure. Let E be their point of intersection. What is the ratio of the length of AE to the length of EB?
 >
-> - **(A)** A rational number less than 2
+> - **(A)** a rational number less than 2
 > - **(B)** an irrational number less than 2
-> - **(C)** Exactly 2
+> - **(C)** exactly 2
 > - **(D)** a rational number greater than 2
 > - **(E)** an irrational number greater than 2. b A b B b C bD bE
 
-**Answer:** C
+
+**Topic:** [[topic_geometria_analitica|Analytic geometry]], [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_triennio#q16|src_archimede_1997_triennio__Q16]]
 
 
 
@@ -588,9 +632,13 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Interest closer to an expression with roots*
+*Integer closest to an expression with radicals*
 
-> Which integer is closest to the number √ 5 + 2 √ 5 −2 ?
+> What is the integer that best approximates the number
+> √
+> 5 + 2
+> √
+> 5 −2 ?
 >
 > - **(A)** 2
 > - **(B)** 7
@@ -598,7 +646,11 @@ level: triennio
 > - **(D)** 18
 > - **(E)** 29.
 
-**Answer:** D
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1997_triennio#q17|src_archimede_1997_triennio__Q17]]
 
 
 
@@ -628,17 +680,21 @@ level: triennio
 <div class="qlang-split" data-lang="en"></div>
 
 
-Maximum number of Fridays 13 in a non-biest year
+*Maximum number of Friday the 13ths in a non-leap year*
 
-> How many Friday the 13th can there be in a non-season?
+> How many Friday the 13ths can there be at most in a non-leap year?
 >
 > - **(A)** 1
 > - **(B)** 2
 > - **(C)** 3
 > - **(D)** 4
-> - **(E)** more than four.
+> - **(E)** more than 4.
 
-**Answer:** C
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_casework|Case analysis]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_1997_triennio#q18|src_archimede_1997_triennio__Q18]]
 
 
 
@@ -669,17 +725,21 @@ Maximum number of Fridays 13 in a non-biest year
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many marks changed to get 1997 from the sum*
+*Minimum number of sign changes to obtain 1997*
 
-> In the sum of 1 + 2 + 3 + · · + 100, how many signs + must be changed to −minimum in order to obtain 1997?
+> In the sum 1 + 2 + 3 + · · + 100, how many + signs must be changed to −, at a minimum, in order to obtain 1997?
 >
-> - **(A)** Less than 10
-> - **(B)** Between 10 and 19
-> - **(C)** Between 20 and 29
+> - **(A)** fewer than 10
+> - **(B)** between 10 and 19
+> - **(C)** between 20 and 29
 > - **(D)** more than 30
-> - **(E)** It is not possible to obtain 1997.
+> - **(E)** it is not possible to obtain 1997.
 
-**Answer:** E
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+[[Quesiti/src_archimede_1997_triennio#q19|src_archimede_1997_triennio__Q19]]
 
 
 
@@ -709,17 +769,21 @@ Maximum number of Fridays 13 in a non-biest year
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many positive integer solutions of x squared minus y squared = 60*
+*Number of positive integer solutions of x squared minus y squared equals 60*
 
-> How many positive integers does the equation x2 −y2 = 60 have?
+> How many positive integer solutions does the equation x2 −y2 = 60 have?
 >
-> - **(A)** One of them.
+> - **(A)** one
 > - **(B)** two
 > - **(C)** four
-> - **(D)** You are .
-> - **(E)** I'm not going to end it.
+> - **(D)** six
+> - **(E)** infinitely many.
 
-**Answer:** B
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+[[Quesiti/src_archimede_1997_triennio#q20|src_archimede_1997_triennio__Q20]]
 
 
 
@@ -752,17 +816,21 @@ Maximum number of Fridays 13 in a non-biest year
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Length CG given equilateral triangle constructed on the side*
+*Length of CG given an equilateral triangle on the side*
 
-> In the triangle ABC, the side AB is 1 cm long and $\widehat{ACB}$ = 120°. On the AB side, an equilateral triangle ABD with the vertex D on the opposite side of C to the straight AB is constructed. G is the radius of the equilateral triangle, which is the size of the CG segment.
+> In triangle ABC, side AB is 1 cm long and $\widehat{ACB}$ = 120°. On side AB an equilateral triangle ABD is constructed, with vertex D on the opposite side of the line AB from C. Letting G be the centroid of the equilateral triangle, state the length of the segment CG.
 >
 > - **(A)** √ 3 cm
 > - **(B)** r 1 3 cm
 > - **(C)** √ 2 cm
 > - **(D)** r 1 2 cm
-> - **(E)** The data on the problem is insufficient.
+> - **(E)** the data of the problem are insufficient.
 
-**Answer:** B
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_triennio#q21|src_archimede_1997_triennio__Q21]]
 
 
 
@@ -795,9 +863,9 @@ Maximum number of Fridays 13 in a non-biest year
 <div class="qlang-split" data-lang="en"></div>
 
 
-The probability of 13 being mined in one city
+*Probability that 13 is drawn in exactly one city*
 
-> The extraction of the lot is carried out independently in various cities. In each city, 5 distinct numbers are extracted from all numbers between 1 and 90. Considering the extractions involving the three cities of Milan, Rome and Naples, what is the probability that the number 13 will be extracted in one and only one of these three cities?
+> Lottery draws are held independently in various cities. In each city, 5 distinct numbers are drawn from among all the numbers between 1 and 90. Considering the draws for the 3 cities of Milan, Rome and Naples, what is the probability that the number 13 is drawn in one and only one of these 3 cities?
 >
 > - **(A)** p < 1 18
 > - **(B)** 1 18 ≤p < 1 9
@@ -805,7 +873,10 @@ The probability of 13 being mined in one city
 > - **(D)** 1 6 ≤p < 1 4
 > - **(E)** p ≥1 4.
 
-**Answer:** C
+
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1997_triennio#q22|src_archimede_1997_triennio__Q22]]
 
 
 
@@ -841,17 +912,21 @@ The probability of 13 being mined in one city
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Relations between the palindrome counts of 5 6 7 digits*
+*Relations among the counts of 5-, 6- and 7-digit palindromes*
 
-> To avoid ambiguity, we agree that, as usual, an integer cannot start from zero. A positive integer is said to be palindrome if its expression at base 10, read in reverse order (from right to left) still represents the same number. Since p5 is the number of 5-digit palindromes, p6 is the number of 6-digit palindromes, p7 is the number of 7-digit palindromes, which of the following statements is correct?
+> To avoid ambiguity, we agree that, as usual, an integer may not begin with zero. A positive integer is called a palindrome if its base-10 expression, read in reverse order (from right to left), still represents the same number. Let p5 be the number of 5-digit palindromes, p6 the number of 6-digit palindromes, and p7 the number of 7-digit palindromes. Which of the following statements is correct?
 >
-> - **(A)** 10p5 = p6 e 10p6 = p7
-> - **(B)** p5 = p6 e 10p6 = p7
-> - **(C)** 10p5 = p6 e p6 = p7
+> - **(A)** 10p5 = p6 and 10p6 = p7
+> - **(B)** p5 = p6 and 10p6 = p7
+> - **(C)** 10p5 = p6 and p6 = p7
 > - **(D)** p5 = p6 = p7
-> - **(E)** None of the above is true.
+> - **(E)** none of the previous statements is true.
 
-**Answer:** B
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Method:** [[method_conteggio|Combinatorial counting]]
+**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+[[Quesiti/src_archimede_1997_triennio#q23|src_archimede_1997_triennio__Q23]]
 
 
 
@@ -882,17 +957,21 @@ The probability of 13 being mined in one city
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum of the product (1+1/a)(1+1/b) with a+b=1*
+*Least value of (1+1/a)(1+1/b) when a+b=1*
 
-> If a, b are positive real numbers such that a + b = 1, the minimum possible value for the product (1 + 1/a) · (1 + 1/b) is
+> If a and b are positive real numbers such that a + b = 1, the minimum possible value of the product (1 + 1/a) · (1 + 1/b) is
 >
 > - **(A)** 16
 > - **(B)** 9
 > - **(C)** 4
-> - **(D)** There is no minimum value
-> - **(E)** There is a minimum value, but it is not one of them.
+> - **(D)** there is no minimum value
+> - **(E)** there is a minimum value, but it is not among those mentioned.
 
-**Answer:** B
+
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]]
+**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+[[Quesiti/src_archimede_1997_triennio#q24|src_archimede_1997_triennio__Q24]]
 
 
 
@@ -926,11 +1005,11 @@ The probability of 13 being mined in one city
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Which platonic solid has an eulerian path*
+*Which Platonic solid has an Eulerian path*
 
-![[src_archimede_1997_triennio__prob25.png]]
-
-> In which of the following figures, representing the tips of the five platonic solids, is it possible to walk all the sides drawn without ever going back on your own steps? (Of course you can go over the same summit more than once).
+> In which of the following figures, representing the edges of the 5 Platonic solids,
+> is it possible to traverse all the drawn sides without ever retracing one's steps?
+> (naturally it is possible to pass more than once through the same vertex).
 >
 > - **(A)**
 > - **(B)**
@@ -938,4 +1017,8 @@ The probability of 13 being mined in one city
 > - **(D)**
 > - **(E)**
 
-**Answer:** C
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Method:** [[method_grafi|Graph theory]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+[[Quesiti/src_archimede_1997_triennio#q25|src_archimede_1997_triennio__Q25]]

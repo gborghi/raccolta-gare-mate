@@ -33,25 +33,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 6171
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The Conehead family*
+*The Conehead Family*
 
 ![[src_gs_2017__prob1.png]]
 
-> The Conehead family
-> Connie: I went shopping. At the supermarket checkout they gave me a rectangular receipt: I measured its sides. They are 8 cm and 54 cm long. I put it in my pocket, but it got folded many times.
-> Dad Beldar: What is the area of the folded receipt?
-> Connie: I don't know!
-> Dad Beldar: Use this nail and pierce all the layers of the folded receipt. How many times did you pierce the paper?
-> Connie: Seven.
-> Dad Beldar: What is the minimum area, in mm^2, of the folded receipt?
+> The Conehead Family
+> Connie: I went grocery shopping. At the supermarket checkout, they handed me a rectangular receipt; I measured its sides. They are 8 cm and 54 cm long. I put it in my pocket, but it got a lot of creases. Daddy Beldar: What is the area of the folded receipt? Connie: I don't know! Daddy Beldar: Use this nail and pierce all the layers of the folded receipt. How many times did you pierce the paper? Connie: Seven. Daddy Beldar: What is the minimum area of the folded receipt in mm²?
 
-**Answer:** 6171
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2017#q01|src_gs_2017__Q01]]
 
 
 
@@ -79,27 +77,20 @@ level: squadre
 > Voce fuori campo Quanto ha pagato Fox in centesimi?
 
 **Risposta:** 1450
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The Festrunk Brothers*
+*The Festrunks Brothers*
 
 ![[src_gs_2017__prob2.png]]
 
-> The Festrunk Brothers
-> Yortuk: The bill for the pizzas is \$45.10.
-> Georg: My pizza cost less than his.
-> Fox: But aren't you even going to treat me to the pizza?!?
-> Yortuk: Let's do this: Fox pays \$1 for each person wearing a black T-shirt in the bar and \$0.50 for each person wearing a red T-shirt; Georg pays \$1.30 for each person wearing a red T-shirt and \$0.50 for each person wearing a black T-shirt; I pay \$0.50 for every other person (that is, wearing neither a red nor a black T-shirt) in the bar.
-> They pay and leave the bar.
-> Fox: How did you know we would pay exactly the bill?
-> Yortuk: Because there were 50 people in the bar. (Together with Georg) We are two wild and crazy guys!
-> Voice-over: How much did Fox pay, in cents?
+> The Festrunks Brothers
+> Yortuk The bill for the pizzas is 45.10$. Georg La mia pizza costava meno della sua. Fox Ma non mi offrite nemmeno la pizza?!? Yortuk Facciamo così: Fox paga 1\$ per person wearing a black T-shirt and present in the bar, 0.50$ per ogni persona con una maglietta rossa; Georg paga 1, 30\$ per person wearing a red T-shirt and present in the bar, and 0.50$ per ogni persona con una maglietta nera; io pago 0, 50\$ per every other person (that is, a person present in the bar who is wearing neither a red nor a black T-shirt). They pay and leave the bar. Fox How did you know we would pay exactly the bill? Yortuk Because there were 50 people in the bar. (Together with Georg) We're two spontaneous, crazy guys! Off-screen voice How many cents did Fox pay?
 
-**Answer:** 1450
+[[Quesiti/src_gs_2017#q02|src_gs_2017__Q02]]
 
 
 
@@ -128,21 +119,23 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Risposta:** 0006
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Cooking with Julia*
+*In the Kitchen with Julia*
 
 ![[src_gs_2017__prob3.png]]
 
-> Cooking with Julia
-> Julia (speaking to the camera in a very determined but jovial tone): Dear friends, you see this white cylindrical container full of sauce; you might think it is blood (she dips a ladle into the container and pulls it out all red), but it really is tomato sauce. I made it by squeezing 43 tomatoes, which I then sieved very carefully as I learnt to do in Paris. One must always pay great attention to the sizes of the containers: this white one has a base diameter of 20 cm and a height of 24 cm. Those yellow cylindrical containers you see over there have a base diameter of 12 cm and a height of 10 cm. Therefore (just to show those insipid male chauvinists who think women can't do mathematics) we know how many containers we can fill completely, because we will then have to seal them hermetically. (The TV broadcast suddenly stops.)
-> Voice-over: How many yellow containers does Julia fill?
+> In the Kitchen with Julia
+> Julia (Speaking to the camera in a very decisive but cheerful tone): Dear friends, look at this white cylindrical container full of sauce—you might think it's blood (She dips a ladle into the container and pulls it out all red), but it's actually tomato sauce. I made it by squeezing 43 tomatoes and then straining them very carefully, just as I learned to do in Paris. You always have to pay close attention to the dimensions of containers: this white one has a base diameter of 20 cm and a height of 24 cm. Those yellow cylindrical containers you see over there have a base diameter of 12 cm and a height of 10 cm. So—just to show those stupid chauvinist males who think women can't do math—we know how many containers we'll be able to fill completely, because then we'll have to seal them airtight. (The TV broadcast cuts off abruptly.) Off-screen voice: How many yellow containers does Julia fill?
 
-**Answer:** 0006
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2017#q03|src_gs_2017__Q03]]
 
 
 
@@ -167,7 +160,7 @@ level: squadre
 > marzo 2017, al 31 dicembre di quest’anno?
 
 **Risposta:** 0302
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -178,10 +171,9 @@ level: squadre
 ![[src_gs_2017__prob4.png]]
 
 > Samurai Farm
-> Every day except Mondays, Samurai Futaba walks past an apple tree on which a new apple grows every night. Samurai Futaba carries small fruit containers that differ each day: on Tuesdays containers for 2 apples each, on Wednesdays for 3 apples, on Thursdays for 4, on Fridays for 5, on Saturdays for 6 and on Sundays for 7. Samurai Futaba picks the apples from the tree exactly when there are so many that they leave no empty spaces in the containers he has with him that day (for example, if on a Tuesday there are 5 apples on the tree Samurai Futaba picks none, if there are 6 he picks them all). Today there is one apple on the tree.
-> Voice-over: How many apples will Samurai Futaba pick from today, Friday 3 March 2017, to 31 December of this year?
+> Every day except Mondays, Samurai Futaba passes by an apple tree on which a new apple grows each night. Each day, Samurai Futaba carries different small fruit containers: on Tuesdays, containers holding 2 apples each; on Wednesdays, containers holding 3 apples each; on Thursdays, containers holding 4 apples each; on Fridays, containers holding 5 apples each; on Saturdays, containers holding 6 apples each; and on Sundays, containers holding 7 apples each. Samurai Futaba picks the apples from the tree exactly when there are enough apples to fill the containers he has with him that day with no empty spaces (for example, if on a Tuesday there are 5 apples on the tree, Samurai Futaba picks none; if there are 6, he picks all of them). Today, there is one apple on the tree.. Voice-over: How many apples will Samurai Futaba pick from today, Friday, March 3, 2017, to December 31 of this year?
 
-**Answer:** 0302
+[[Quesiti/src_gs_2017#q04|src_gs_2017__Q04]]
 
 
 
@@ -203,7 +195,7 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0192
-**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -214,11 +206,12 @@ level: squadre
 ![[src_gs_2017__prob5.png]]
 
 > Connie counts the minutes
-> Connie: Dad, look at that clock on the wall. The hands move in jumps every minute.
-> Dad Beldar: It's now noon.
-> Connie: What is the minimum number of minutes it will take for the hour hand and the minute hand to form an angle of 24°?
+> Connie: Dad, look at that clock on the wall. The hands jump forward every minute. Dad Beldar: It's noon now. Connie: How many minutes will it take at minimum for the hour hand and the minute hand to form an angle of 24°?
 
-**Answer:** 0192
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2017#q05|src_gs_2017__Q05]]
 
 
 
@@ -247,7 +240,7 @@ level: squadre
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1513
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -258,11 +251,12 @@ level: squadre
 ![[src_gs_2017__prob6.png]]
 
 > The Conehead family's hen
-> Dad Beldar is at the front door looking at his very rare hen. The hen lays eggs only at 8 in the morning and not every day. The probability that it lays an egg at 8 in the morning is n/(n + 1), where n is the number of days that have passed since the last egg laid. He turns towards the inside.
-> Dad Beldar: It's 9 o'clock on Friday; an hour ago the hen laid an egg. Now I'm leaving and I'll come back at exactly 9 in the morning next Friday. Bye! (He touches with his cone head those of Mum Prymaat and Connie.)
-> Voice-over: What is the probability of finding at least 5 new eggs on his return? [Give as the answer the sum of the numerator and denominator of the fraction in lowest terms.]
+> Papa Beldar is at the front door of the house and is looking at his very rare hen. The hen lays eggs only at 8 a.m. and not every day. The probability that she will lay an egg at 8 a.m. is n/(n + 1), where n is the number of days that have passed since the last egg was laid. He turns toward the inside.. Papa Beldar: It's 9 a.m. on Friday; an hour ago, the hen laid an egg. I'm leaving now and will be back exactly at 9 a.m. next Friday. Bye! (He touches Mamma Prymaat's and Connie's heads with his conical head.) Voice-over: What is the probability of finding at least 5 new eggs when he returns? [Give as the answer the sum of the numerator and denominator of the fraction reduced to its lowest terms.]
 
-**Answer:** 1513
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_probabilita|Probability and statistics]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2017#q06|src_gs_2017__Q06]]
 
 
 
@@ -294,29 +288,23 @@ level: squadre
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 7763
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The Italian digits*
+*The Italian figures*
 
 ![[src_gs_2017__prob7.png]]
 
-> The Italian digits
-> Dad Beldar: Shall we play the Italian digits game?
-> Connie: YES!
-> Dad Beldar: Remember: l\_d(n) denotes the number of letters in the Italian word for the tens digit of the number n. For example l\_d(10) = 3.
-> Connie: While l\_d(40) = 7. In Italian there are 4 digits with three letters, 3 digits with four letters, one with five letters, one with six and one with seven; right, Dad?
-> Dad Beldar: Yes, well done! Now consider the sequence defined recursively by a\_1 = 10, a\_(n+1) = a\_n + l\_d(a\_n).
-> Connie: Now I'll write it all out (she starts writing very quickly on a sheet).
-> Ten minutes go by. Mum Prymaat comes in.
-> Mum Prymaat: You're playing a game with the Italian digits. Connie, which number have you written now?
-> Connie: a\_2017.
-> Voice-over: Which number has Connie written now?
+> The Italian figures
+> Dad Beldar: Shall we play the Italian numerals game? Connie: YES! Dad Beldar: Remember: l_d(n) denotes the number of letters in the Italian word that is the tens digit of the number n. For example, l_d(10) = 3. Connie: Whereas l_d(40) = 7. In Italian, there are 4 numerals with three letters, 3 numerals with four letters, one with five letters, one with six letters, and one with seven letters; right, Dad? Dad Beldar: Yes, well done! Now consider the sequence defined recursively by a_1 = 10, a_(n+1) = a_n + l_d(a_n). Connie: Now I'll write it all out (she starts writing very quickly on a sheet of paper). Ten minutes pass. Mom Prymaat comes in. Mom Prymaat: You're playing a game with Italian numerals. Connie, what number did you write just now? Connie: a_(2017). Off-screen voice: What number did Connie write just now?
 
-**Answer:** 7763
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2017#q07|src_gs_2017__Q07]]
 
 
 
@@ -351,25 +339,23 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0090
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The Conehead family's journey*
+*The Journey of the Conehead Family*
 
 ![[src_gs_2017__prob8.png]]
 
-> The Conehead family's journey
-> Outside, on Long Island. As on every first day of the month, the Conehead family has to drive to Grandma's. Each time the journey lasts exactly one hour, because Dad always keeps the same speed, just under the limit. This time they have decided to play a game: leaving at exactly 10:00 by the car clock, each of them will bet on the time that the same clock will show on arrival. But each of them has a strategy.
-> Dad Beldar (speaking to the camera before getting into the car to drive): I bet on 10:30. To win, I'll watch the speedometer so as to go at twice the speed I usually keep.
-> Mum Prymaat: I bet on 11:10. During the journey I'll make them stop for exactly 10 minutes by pretending to feel ill.
-> Connie: I bet on 10:40 and, during the journey, when nobody is looking, I'll put the clock back 20 minutes.
-> Frank: I bet on 11:20. To win, I'll tamper with the car's speedometer so that it always shows 1/3 more than the actual speed.
-> Voice-over: Knowing that exactly one of the four fails to carry out his or her plan and that one person won, what is the actual duration of the journey in minutes? (Every stop is included in the journey time.)
+> The Journey of the Conehead Family
+> Outside, on Long Island. The Conehead family, as on every first day of the month, has to drive to Grandma's house. Each time, the trip lasts exactly an hour because Daddy always maintains the same speed—just a little below the limit. This time they've decided to play a game: starting at exactly 10:00 on the car's clock, each of them will bet on what time the same clock will show on arrival. But each of them has a strategy. Daddy Beldar (speaking to the camera before getting into the car to take the wheel): I've bet on 10:30. To win, I'll watch the odometer and drive at twice my usual speed. Mommy Prymaat: I've bet on 11:10. During the trip, I'll force them to stop for exactly 10 minutes by pretending to be unwell. Connie: I've bet on 10:40, and during the trip, when no one's looking, I'll set the clock back 20 minutes. Frank: I've bet on 11:20. To win, I'll modify the car's odometer so that it always shows one-third more than the actual speed. Voice-over: Knowing that exactly one of the four can't carry out their plan and that one person has won, what is the actual duration of the trip in minutes? (Each stop is included in the travel time.)
 
-**Answer:** 0090
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2017#q08|src_gs_2017__Q08]]
 
 
 
@@ -393,22 +379,23 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2018
-**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Phone call to Canada*
+*Phone call in Canada*
 
 ![[src_gs_2017__prob9.png]]
 
-> Phone call to Canada
-> The blond president: Steve, shall we call Canada?
-> Steve: Why not, Mr President?
-> The blond president (on the phone): Hello, Justin. It's the president speaking. Maybe you're too young to know quadratic equations? (Indistinct noises in the receiver) Good: then can you tell me for how many integer values of the parameter a the equation x^2 + ax + 2017^2017 has two integer roots?
+> Phone call in Canada
+> Blond President Steve, shall we call Canada? Steve: Why not, Mr. President? Blond President (On the phone): Hello, Justin. This is the President speaking. Maybe you're too young to know about quadratic equations? (Indistinct noises on the other end of the line) Good: so can you tell me for how many integer values of the parameter a the equation x^2 + ax + 2017^(2017) has two integer roots?
 
-**Answer:** 2018
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2017#q09|src_gs_2017__Q09]]
 
 
 
@@ -433,7 +420,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0018
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -444,11 +431,12 @@ level: squadre
 ![[src_gs_2017__prob10.png]]
 
 > Italy goes to war
-> The blond president: Steve, who do I call now?
-> Steve: Let's try an easy ally, Mr President; let's call Italy.
-> The blond president (on the phone): Hello, Paolo! How many six-digit numbers are not divisible by 7 and have digit sum 3? (Silence) Can't you even count? Is it you who keep making that stupid division between the two cultures? (The silence continues) Wake up!!! The Colosseum is falling down, Italy is falling to pieces, America is the best! Get ready for war! (He slams down the receiver.)
+> Blond President Steve, who shall I call now? Steve: Let's try an easy ally, Mr. President; let's call Italy. Blond President (on the phone): Hello, Paolo! How many six-digit numbers are there that are not divisible by 7 and have a digit sum of 3? (Silence) But can't you even count? Are you people the ones who keep carrying out that stupid division between the two cultures? (The silence continues) Wake up!!! The Colosseum is no longer standing, Italy is falling apart, America is the best! Get ready for war! (He slams the receiver down.)
 
-**Answer:** 0018
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2017#q10|src_gs_2017__Q10]]
 
 
 
@@ -475,7 +463,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0010
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -486,14 +474,12 @@ level: squadre
 ![[src_gs_2017__prob11.png]]
 
 > Australia goes to war
-> The blond president: Steve, shall we call Australia? After all, what can go wrong?
-> Steve: Sure, Mr President.
-> The blond president (on the phone): Hello, Malcolm. It's the president speaking. How many natural numbers are equal to the sum of the sum of their digits and the product of their digits? (An indistinct murmur is heard from the receiver) You don't know?!? America is the best, Australia stinks! Get ready for war! (He slams down the receiver.)
-> Steve: How many numbers are there, Mr President?
-> The blond president: Including zero?
-> Steve: Zero is the FIRST natural number, Mr President!
+> Blond President Steve, shall we call Australia? After all, what could possibly go wrong? Steve: Sure, Mr. President. Blond President (On the phone): Hello, Malcolm. This is the President speaking. How many natural numbers are equal to the sum of their digits plus the product of their digits? (An indistinct murmur is heard from the receiver.) You don't know?!? America is the best—Australia sucks! Get ready for war! (He slams the receiver down.) Steve: How many numbers are there, Mr. President? Blond President: Including zero? Steve: Zero is the FIRST natural number, Mr. President!
 
-**Answer:** 0010
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2017#q11|src_gs_2017__Q11]]
 
 
 
@@ -522,21 +508,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0014
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Look back in anger*
+*Remembers with anger*
 
 ![[src_gs_2017__prob12.png]]
 
-> Look back in anger
-> A cemetery; graves with only a stone stele to distinguish the mounds.
-> John (white-haired, leaning on a stick): They're all here, buried here: Jane, Garrett, Gilda, Bill, ... And Dan: he wanted his stele to be a trapezoid, who knows why? He didn't even know what it was. Then the stonemason let himself go: he marked the midpoints of the legs, drew the segment joining them, and obtained a cross by also drawing the altitude of the trapezoid from a vertex of the shorter base, and a circle representing the sun that touches the cross at its four endpoints. Moreover, he enclosed a number in the stele: the ratio between the two segments forming the cross. I was told that the area of the trapezoid is 5600 dm^2 and that the product of the lengths of the two horizontal arms of the cross is 100 dm^2. But what is the ratio between the longer and the shorter segment of the cross? I'm the only one still alive asking myself this question; why? (He brightens up, throws away his stick and starts dancing.) Because I'm a mathematician.
+> Remembers with anger
+> Cemetery: graves marked only by a single stone stele distinguishing the mounds. John (white hair, leaning on a cane): Everyone's here; they're buried here: Jane, Garrett, Gilda, Bill... And Dan: he wanted the stele to be trapezoidal—who knows why? He didn't even know what a trapezoid was. Then the marble craftsman went to town: he marked the midpoints of the non-parallel sides, drew the line segment joining them, and produced a cross by also drawing the height of the trapezoid from a vertex of the shorter base and a circle to represent the sun touching the cross at its four vertices. On top of that, he enclosed a number in the stele: the ratio of the two line segments that form the cross. I was told that the area of the trapezoid is 5600 dm² and that the product of the lengths of the two horizontal arms of the cross is 100 dm². But what is the value of the ratio of the longest segment to the shortest segment in the cross? I'm the only one still alive asking this question—why? (He brightens up, throws away the cane, and starts dancing.) Because I'm a mathematician.
 
-**Answer:** 0014
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2017#q12|src_gs_2017__Q12]]
 
 
 
@@ -571,22 +559,23 @@ level: squadre
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0079
-**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Samurai Solitaire*
+*Lone Samurai*
 
 ![[src_gs_2017__prob13.png]]
 
-> Samurai Solitaire
-> Samurai Futaba plays a solitaire with the 10 cards of Spades, from the ace to the 10. The other 42 cards of the deck are seen cut in half and scattered on the table. He carefully shuffles the 10 intact cards. He puts the deck face down on the table.
-> Samurai Futaba (lifting the card on top of the face-down deck): 8 (He turns it over: it is the 3; he puts the card face up on the table. He lifts the card now on top of the face-down deck) 9 (He turns it over: it is the 7; he puts it face up on the table. He lifts the top card) 10 (He turns it over: it is the ace; he puts it face up on the table. He lifts the top card) 8 (He turns it over: it is the 10; he puts it face up on the table. He lifts the top card) 9 (He turns it over: it is the 9; he puts it face up on the table. He shakes his head disconsolately, looking at the camera) Hicotushi nopetiti hacasumai. (Subtitles scroll: «I can't complete this solitaire.») Maracatoni petele machì 8, 9 atuti 10 manupiro ducató 8, 9, 10, 8, 9, 10, 8, 9, 10, 8 anacogiro minicotù. (More subtitles: «The solitaire is completed if cards 8, 9 or 10 are not turned over at the moment the same number is said in the sequence 8, 9, 10, 8, 9, 10, 8, 9, 10, 8.»)
-> Voice-over: What is the probability that the solitaire succeeds? [Give the answer as the sum of the numerator and denominator of the fraction in lowest terms]
+> Lone Samurai
+> Samurai Futaba is playing a solitaire using the 10 spade cards, from ace to 10. The other 42 cards from the deck can be seen, cut in half and scattered on the table. Carefully shuffle the 10 intact cards. Place the facedown deck on the table. Samurai Futaba (lifts the card on top of the facedown deck) 8 (turns it over—it's the 3—places the face-up card on the table. Lifts the card now on top of the facedown deck) 9 (turns it over—it's the 7—places the face-up card on the table. Lifts the card on top of the facedown deck) 10 (turns it over—it's the ace—places the face-up card on the table. Lifts the card on top of the facedown deck) 8 (turns it over—it's the 10—places the face-up card on the table. Lifts the card on top of the facedown deck) 9 (turns it over—it's the 9—places the face-up card on the table. Shakes his head despondently, looking at the camera) Hicotushi nopetiti hacasumai. (Subtitles roll: "I can't complete this solitaire.") Maracatoni petele machì 8, 9 atuti 10 manupiro ducató 8, 9, 10, 8, 9, 10, 8, 9, 10, 8 anacogiro minicotù. (More subtitles: "The solitaire is completed if the 8, 9, or 10 cards are not turned over at the moment when the same number is called in the sequence 8, 9, 10, 8, 9, 10, 8, 9, 10, 8.") Off-screen voice: What is the probability of successfully completing the solitaire? [Give the answer as the sum of the numerator and denominator of the fraction reduced to lowest terms]
 
-**Answer:** 0079
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2017#q13|src_gs_2017__Q13]]
 
 
 
@@ -611,22 +600,23 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 4570
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*The Festrunk Brothers' dilemma*
+*The Dilemma of the Festrunks Brothers*
 
 ![[src_gs_2017__prob14.png]]
 
-> The Festrunk Brothers' dilemma
-> Yortuk: We have to carry these seven pipes; how do we do it?
-> Georg: They are all 3 m long and have the same circular cross-section with a diameter of 50 cm. We are two wild and crazy guys: we fasten them all together, one in the centre with the other six around it, and we hold them with these three elastic bands.
-> Yortuk: You're right; this way each of the six outer pipes is tangent to the central pipe and to two other outer ones. (He looks with satisfaction at the bundle made) How many millimetres long is each elastic band wrapped around the bundle?
+> The Dilemma of the Festrunks Brothers
+> Yortuk: We have to transport these seven tubes—how are we going to do it? Georg: They're all 3 m long and have the same circular cross-section with a diameter of 50 cm. We're two spontaneous, crazy guys: we'll fasten them all together—one in the center with the other six around it—and we'll secure them with these three elastic bands. Yortuk: You're right; that way, each of the six outer tubes is tangent to the central tube and to two other outer tubes. (Looks satisfied at the assembly.) How many millimeters long is each elastic band that wraps around the assembly?
 
-**Answer:** 4570
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2017#q14|src_gs_2017__Q14]]
 
 
 
@@ -656,7 +646,7 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5002
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -667,15 +657,12 @@ level: squadre
 ![[src_gs_2017__prob15.png]]
 
 > Mexico goes to war
-> The blond president: How great, Steve! I'm having such fun; I've had an idea to make Mexico pay for building the wall. I'll call him now.
-> Steve: Good, Mr President.
-> The blond president (on the phone): Hello, Enrique! I propose a bet: you tell me how many natural numbers to write; I write as many as you said, whichever ones I like. You win if at least two of the numbers I have written are such that their sum or their difference is divisible by 10000. Whoever loses pays for building the wall.
-> Steve: The bet isn't fair, Mr President.
-> The blond president: I know.
-> Steve: He wins!
-> Voice-over: What is the smallest number Enrique must say to win the bet?
+> Blond President: Great, Steve! What fun I'm having—I've got an idea for making Mexico pay for building the wall. I'll call him now. Steve: Okay, Mr. President. Blond President (on the phone): Hello, Enrique! I'm proposing a bet: you tell me how many natural numbers to write; I'll write as many as you said—the ones I want. You win if at least two of the numbers I've written are such that their sum or their difference is divisible by 10000. The loser pays for building the wall. Steve: The bet isn't fair, Mr. President. Blond President: I know. Steve: He wins! Off-screen voice: What's the smallest number Enrique has to name to win the bet?
 
-**Answer:** 5002
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2017#q15|src_gs_2017__Q15]]
 
 
 
@@ -706,7 +693,7 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 0560
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -717,14 +704,12 @@ level: squadre
 ![[src_gs_2017__prob16.png]]
 
 > Connie writes a T
-> Connie is playing with five wooden shapes.
-> Dad Beldar: Earthlings love simple plane figures. All the acute angles of those five you are playing with are 45°.
-> Connie: You're right, Dad! They really are simple: two are isosceles right triangles, two are right trapezoids and one is a parallelogram. I've measured the essential dimensions: the legs of the right triangles measure 5 cm, which is the same length as the heights of the quadrilaterals. Each trapezoid has bases 3 cm and 8 cm long; the shorter side of the parallelogram measures 7 cm.
-> Dad Beldar: Do you know that the figure you have built by putting the five shapes together is an earthly letter T?
-> Connie: You mean that they read “T” as two rectangles, one perpendicular to the other, with equal shorter sides?
-> Dad Beldar: Yes! What is the perimeter, in mm, of the “T” you have built?
+> Connie is playing with five wooden shapes. Papa Beldar: Earthlings love simple plane figures. All the acute angles of those five shapes you're playing with are 45°. Connie: You're right, Papa! They're really simple: two are isosceles right triangles, two are right trapezoids, and one is a parallelogram. I've measured the essential dimensions: the legs of the right triangles are 5 cm long, which is the same length as the heights of the quadrilaterals. Each trapezoid has bases 3 cm and 8 cm long; the shorter side of the parallelogram is 7 cm. Papa Beldar: Did you know that the figure you made by putting the five shapes together is an Earthly T? Connie: Do you mean that two rectangles—one perpendicular to the other, with equal shorter sides—spell "T"? Papa Beldar: Yes! What is the perimeter, in mm, of the "T" you made?
 
-**Answer:** 0560
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2017#q16|src_gs_2017__Q16]]
 
 
 
@@ -755,21 +740,23 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9652
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Samurai Discard*
+*Samurai Scarta*
 
 ![[src_gs_2017__prob17.png]]
 
-> Samurai Discard
-> Mr. Dantley: We play with a deck of 16 cards, divided into 2 suits, Hearts and Spades, with the numbers from 1 to 8 for each suit. In turn, each of us discards a card from his hand onto the table: its number must be consecutive (preceding or following) to the last one played (the suit does not matter). (Mr. Dantley deals the cards evenly at random between himself and Samurai Futaba) Whichever of us has the 1 of Spades starts, playing it on the table. Whoever forces the opponent to be unable to play any more cards wins; if instead both players run out of cards, it is declared a draw and nobody wins. Just to be sure I've made myself clear: assuming that we both play with the best possible strategy, before looking at the cards tell me what your probability of winning is. (Samurai Futaba draws his katana and, with a few slashes, writes on the wall the fraction, in lowest terms, that is the probability asked for by Mr. Dantley.)
-> Voice-over: What is the sum of the numerator and denominator of the fraction written by Samurai Futaba?
+> Samurai Scarta
+> Mr. Dantley: The game is played with a deck of 16 cards, divided into 2 suits—hearts and spades—with numbers from 1 to 8 in each suit. In turn, each of us discards one card from our hand onto the table: it must be the consecutive number (either the preceding or the following one) to the last card played (the suit doesn't matter). (Mr. Dantley deals the cards evenly and at random between himself and Samurai Futaba.) The person among us who holds the 1 of spades starts by playing it on the table. The winner is the one who forces the opponent to be unable to play any more cards; however, if both players run out of cards, it is declared a draw and no one wins. Just to make sure I've made myself clear, assuming we both play using the best possible strategy, before I look at the cards, you tell me what your probability of winning is. (Samurai Futaba draws the katana and, with a few slashes, writes on the wall the fraction, reduced to lowest terms, that is the probability required by Mr. Dantley.) Voice-over: What is the sum of the numerator and the denominator of the fraction written by Samurai Futaba?
 
-**Answer:** 9652
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2017#q17|src_gs_2017__Q17]]
 
 
 
@@ -791,21 +778,23 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0101
-**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Connie's 21 numbers*
+*The 21 issues of Connie*
 
 ![[src_gs_2017__prob18.png]]
 
-> Connie's 21 numbers
-> Connie: Mum, I'm writing a list of 21 different integers, such that the sum of any 11 of them is greater than the sum of the other 10. But it doesn't work unless I use very large numbers.
-> Mum Prymaat: What is the smallest you can use in such a list?
+> The 21 issues of Connie
+> Connie Mamma, I'm writing a list of 21 distinct integers such that the sum of any 11 of them is greater than the sum of the other 10. But it doesn't work unless I use very large numbers. Mamma Prymaat: What's the smallest one you can use in a list like that?
 
-**Answer:** 0101
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2017#q18|src_gs_2017__Q18]]
 
 
 
@@ -843,7 +832,7 @@ level: squadre
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0008
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -854,20 +843,19 @@ level: squadre
 ![[src_gs_2017__prob19.png]]
 
 > Germany goes to war
-> The blond president: Steve, maybe I should stop?
-> Steve: No, Mr President, it's going very well. Why don't you call Germany?
-> The blond president: All right. (On the phone) Hello?
-> Angela: Barack, are you back? How I've missed you!
-> The blond president: It's Donald.
-> Angela: Oh!
-> The blond president: Listen: consider the conditions
-> a^2 + b^2 + c^2 = 26, a + b = 5, b + c ≥ 7.
-> Which are the real numbers that satisfy them, Angela?
-> Angela: Anghela, my name is pronounced Anghela.
-> The blond president (shouting into the phone): Don't try to correct me! Your wall has collapsed, Germany stinks, America is the best! Get ready for war! (He slams down the receiver.)
-> [Give the answer to the question as the sum of all the sums of the triples that are solutions.]
+> Blond President Steve, maybe I should stop? Steve: No, Mr. President, it's going great. Why don't you call Germany? Blond President: Okay. (On the phone) Hello? Angela, Barack, are you back? How I've missed you! Blond President: It's Donald. Angela: Oh! Blond President: Listen: consider the conditions.
+>
+> a^2 + b^2 + c^2 = 26
+>
+> a + b = 5
+>
+>
+> b + c ≥ 7. What real numbers satisfy it, Angela? Angela Anghela, my name is pronounced Anghela. The blond president (shouting into the phone): Don't even try to correct me! Your wall has fallen, Germany sucks, America is the best! Get ready for war! (Slams the phone down.) [Give the answer to the question as the sum of all sums of triples that are solutions.]
 
-**Answer:** 0008
+**Topic:** [[topic_algebra|Algebra]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_gs_2017#q19|src_gs_2017__Q19]]
 
 
 
@@ -894,7 +882,7 @@ level: squadre
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0637
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -905,10 +893,12 @@ level: squadre
 ![[src_gs_2017__prob20.png]]
 
 > Samurai Craps
-> Mr. Dantley: Let's play Samurai Craps. A die is rolled... (Samurai Futaba looks suspiciously at Mr. Dantley, drawing his katana slightly) Don't worry, it isn't loaded. I roll a 20-sided die, numbered from 2 to 21, I read the result and I tell you, completely at random, a divisor of that number other than 1. You win if you manage to guess the number rolled without looking at the die.
-> Voice-over: Assuming that Samurai Futaba uses the best possible strategy to win, what is the probability that this happens? [Give the answer as the sum of the numerator and denominator of the fraction in lowest terms]
+> Mr. Dantley: Let's play Samurai Craps. A die is rolled. . . (Samurai Futaba looks at Mr. Dantley suspiciously, drawing his katana slightly) Don't worry—it's not rigged. I roll a 20-sided die numbered from 2 to 21, read the result, and, entirely at random, tell you a divisor of that number other than 1. You win if you can guess the number that came up without looking at the die. Off-screen voice: Assuming Samurai Futaba uses the best possible strategy to win, what is the probability that this will happen? [Give the answer as the sum of the numerator and denominator of the fraction in lowest terms]
 
-**Answer:** 0637
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2017#q20|src_gs_2017__Q20]]
 
 
 
@@ -940,7 +930,7 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0779
-**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -951,11 +941,12 @@ level: squadre
 ![[src_gs_2017__prob21.png]]
 
 > Samurai Blackjack
-> Mr. Dantley: We play with a deck of 52 cards: there are 13 kinds of cards, 4 of each kind. The kinds are the ace, the cards from 2 to 10, and the three face cards: the Jack, the Queen and the King. In the game the cards have the value printed on them, except the ace, which is worth 1, and the face cards, which are worth 10. The aim of the game is to draw cards from the deck trying, by adding up the values of the cards drawn, to reach a score of 21 without exceeding it. Cut the deck. (Samurai Futaba draws his katana and splits the deck in two, cutting it vertically. Mr. Dantley, without batting an eyelid, throws away the deck split in two and takes another one.)
-> Mr. Dantley: I always play the same way: I keep drawing cards until the score I get becomes 17 or exceeds that value. For example, if I have drawn 2, 6, 10 I stop taking cards, while if I have drawn 2, 5, 9 I take another one.
-> Voice-over: How many sequences of cards are there with which Mr. Dantley makes 21 with at most 4 cards? [Two sequences are distinct even when they differ only in the order in which the cards are drawn, while cards of the same kind are indistinguishable.]
+> Mr. Dantley: The game is played with a deck of 52 cards: there are 13 types of cards, 4 of each type. The types are the ace, the cards from 2 to 10, and the three face cards: the Jack, the Queen, and the King. In the game, the cards have the value printed on them, except for the ace, which has a value of 1, and the face cards, which have a value of 10. The goal of the game is to draw cards from the deck and, by adding up the values of the cards drawn, try to reach a score of 21 without going over. Break the deck. (Samurai Futaba draws the katana and breaks the deck in two by cutting it vertically. Mr. Dantley, without batting an eye, throws away the deck broken in two and takes another one.) Mr. Dantley: I always play the same way: I keep drawing cards until the score I get becomes 17 or exceeds that value. For example, if I have drawn 2, 6, and 10, I stop drawing cards; but if I have drawn 2, 5, and 9, I draw another card. Voice-over: How many sequences of cards are there in which Mr. Dantley reaches 21 using at most 4 cards? [Two sequences are distinct even when they differ in the order in which the cards are drawn, whereas cards of the same type are indistinguishable.]
 
-**Answer:** 0779
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2017#q21|src_gs_2017__Q21]]
 
 
 
@@ -993,7 +984,7 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Risposta:** 1550
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1004,15 +995,12 @@ level: squadre
 ![[src_gs_2017__prob22.png]]
 
 > Zimbabwe goes to war
-> The blond president: Steve, our allies don't listen to us...
-> Steve: Let's call some small country and show them who's the boss. (He stops for a moment to think) Let's call Zimbabwe.
-> The blond president: All right. (He calls the dictator of Zimbabwe on the phone) There's a new boss around.
-> Robert: Who's speaking? Is it Donald?
-> The blond president (pleased to be recognised): Yes!
-> Robert (firmly): Who do you think you are? Do you think you know everything? Listen to this (it's complicated, you'd better ask Steve for help; he's right next to you, isn't he?) (The blond president opens his mouth in disbelief) Take a rectangle ABCD with AB 90 km long and BC 80 km long; draw two circles tangent to each other inside the rectangle; moreover the circle with centre P is tangent to sides AD and DC, and the circle with centre Q is tangent to sides AB and BC. Are you still there? (The blond president opens his mouth even wider) We are preparing a weapon with those dimensions that will wipe out your insignificant little country. But the two circles have to be arranged so that the area of triangle APQ is as large as possible, and then it has to be covered completely with human biological material. And do you know what we will use? We will use (speaking confidently) your fat old body cut into pieces so tiny that not even the CIA could put it back together. And don't call me again! (He slams down the receiver.)
-> Steve (smiling at the bewildered president): It could have gone worse. Have you worked out how many km^2 the maximum area is?
+> Blond President Steve, our allies aren't listening to us... Steve, let's call some small country and show them who's in charge. (He pauses for a moment to think) Let's call Zimbabwe. Blond President: Okay. (He calls the dictator of Zimbabwe on the phone) There's a new boss around. Robert: Who's speaking? Is that Donald? Blond President: (Pleased to be recognized) Yes! Robert: (Firmly) But who do you think you are? You think you know everything? Listen to this—it's complicated; you'd better ask Steve for help; he's right there beside you, isn't he? (Blond President opens his mouth in disbelief) Take rectangle ABCD with AB 90 km long and BC 80 km long; draw two circles inside the rectangle that are tangent to each other; moreover, the circle with center P is tangent to sides AD and DC, and the circle with center Q is tangent to sides AB and BC. Are you still there? (Blond President opens his mouth even wider) We're preparing a weapon of those dimensions that will sweep away your insignificant little country. But we have to arrange the two circles so that the area of triangle APQ is as large as possible, and then cover the whole thing with human biological material. And do you know what we'll use? We'll use (speaking confidently) your fat, old body, chopped into such tiny pieces that not even the CIA could put it back together. And don't call me again! (He slams the receiver down.) Steve: (Speaking with a smile to the bewildered president) It could have been worse. Did he calculate how many square kilometers the maximum area is?
 
-**Answer:** 1550
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_gs_2017#q22|src_gs_2017__Q22]]
 
 
 
@@ -1038,7 +1026,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0386
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1049,13 +1037,12 @@ level: squadre
 ![[src_gs_2017__prob23.png]]
 
 > The strange question
-> Yortuk and Georg ring the doorbell of the Coneheads, who open and invite them in.
-> Yortuk: We are two wild and crazy guys, but we can't do arithmetic. We need to know the sum and the product of our two codes; can you compute them? (He hands over a slip of paper, which the Coneheads read.)
-> Connie: Sure! The sum of the two codes is 110 and the product of the two codes is 9263.
-> Dad Beldar: Careful! Connie is a bit absent-minded: at most one digit of the sum and at most one digit of the product might be wrong.
-> Voice-over: What is the largest possible value of a code?
+> Yortuk and Georg knock on the Coneheads' door; the Coneheads open it and invite them in.. Yortuk: We're two spontaneous, crazy guys, but we can't do arithmetic. We need to know the sum and the product of our two codes—can you calculate them? (She hands over a little note, which the Coneheads read.) Connie: Sure! The sum of the two codes is 110, and the product of the two codes is 9263. Dad Beldar: Watch out! Connie's a bit absent-minded—at most one digit in the sum and at most one digit in the product might be wrong. Off-screen voice: What's the maximum possible value of a code?
 
-**Answer:** 0386
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_gs_2017#q23|src_gs_2017__Q23]]
 
 
 
@@ -1082,7 +1069,7 @@ level: squadre
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1016
-**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1093,10 +1080,9 @@ level: squadre
 ![[src_gs_2017__prob24.png]]
 
 > Connie's cards
-> Connie is playing with a deck of 18 alien cards, divided into 2 suits, each consisting of a King, a Queen, a Jack and the numbers from 2 to 7; there are no Aces. After the deck has been shuffled, each of the 18 cards speaks.
-> Card marked with the number n: At least n cards of my own suit follow me.
-> Card not marked with a number: The cards next to me are of my own suit.
-> Connie (disconsolately): The two Kings always lie. Luckily all the other cards always tell the truth.
-> Voice-over: In how many ways can the cards be ordered in the deck shuffled by Connie?
+> Connie is playing with a deck of 18 alien cards, divided into 2 suits; each suit consists of a King, a Queen, a Jack, and the cards numbered 2 through 7—there are no Aces. After shuffling the deck, each of the 18 cards speaks. A card marked with the number n: at least n cards of my own suit follow me. A card not marked with a number: the cards attached to me are of my own suit. Connie (dejected): The two Kings always lie. Thank goodness all the other cards always tell the truth. Off-screen voice: In how many ways can the cards in the deck shuffled by Connie be arranged?
 
-**Answer:** 1016
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_gs_2017#q24|src_gs_2017__Q24]]

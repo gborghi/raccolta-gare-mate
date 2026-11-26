@@ -31,11 +31,18 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determine se tre reali positivi che soddisfano una relazione quarticco formano lati del triangolo*
+*Determinare se tre numeri reali positivi che soddisfano una relazione di quarto grado possono costituire i lati di un triangolo*
 
-> Tre numeri reali positivi $a, b, c$ sono tali che $a^2 + 5b^2 + 4c^2 - 4ab - 4bc = 0$. $a, b, c$ può essere la lunghezza dei lati di un triangolo? Giustifica la tua risposta.
+> Tre numeri reali positivi $a, b, c$ sono tali che $a^2 + 5b^2 + 4c^2 - 4ab - 4bc = 0$. $a, b, c$ possono essere le lunghezze dei lati di un triangolo? Motiva la tua risposta.
 
-*Apparizioni nelle regioni: Mumbai, Regione 5.*
+*Compare nelle regioni: Mumbai, Regione 5.*
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2014_mumbai#q01|src_rmo_2014_mumbai__Q01]]
 
 
 
@@ -62,9 +69,20 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le coppie di integri positivi (a,b) dalle radici di AP e GP*
+*Trovare tutte le coppie di interi positivi (a,b) derivanti dalle radici in progressione aritmetica e in progressione geometrica*
 
-> Le radici dell'equazione $$x^3 - 3ax^2 + 18c = 0$$ formano una progressione aritmetica non costante e le radici dell'equazione $$x^3 + bx^2 + x - c^3 = 0$$ formano una progressione geometrica non costante. Poiché $a, b, c$ sono numeri reali, trovare tutti i possibili valori integrali positivi $a$ e $b$.
+> Le radici dell'equazione
+> $$x^3 - 3ax^2 + 18c = 0$$
+> formino una progressione aritmetica non costante e le radici dell'equazione
+> $$x^3 + bx^2 + x - c^3 = 0$$
+> Forma una progressione geometrica non costante. Dato che $a, b, c$ sono numeri reali, determina tutti i possibili valori interi positivi $a$ e $b$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2014_mumbai#q02|src_rmo_2014_mumbai__Q02]]
 
 
 
@@ -86,9 +104,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove BO perpendicolare all'AC quando DE è parallelo ad AC*
+*Dimostrare che BO è perpendicolare ad AC quando DE è parallelo ad AC*
 
-> Il $ABC$ è un triangolo acuto angolato in cui $\angle ABC$ è l'angolo più grande. Che il $O$ sia il suo circoncentro. I bisettori perpendicolari di $BC$ e $AB$ si incontrano rispettivamente a $AC$ e $Y$. I bisettori interni di $\angle AXB$ e $\angle BYC$ incontrano $AB$ e $BC$ rispettivamente a $D$ e $E$. Prova che $BO$ è perpendicolare a $AC$ se $DE$ è parallelo a $AC$.
+> Sia $ABC$ un triangolo acutangolo in cui $\angle ABC$ è l'angolo più grande. Sia $O$ il suo circocentro. Le mediatrici di $BC$ e $AB$ incontrano $AC$ rispettivamente in $X$ e $Y$. Le bisettrici interne di $\angle AXB$ e $\angle BYC$ incontrano $AB$ e $BC$ rispettivamente in $D$ e $E$. Dimostrare che $BO$ è perpendicolare a $AC$ se $DE$ è parallelo a $AC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2014_mumbai#q03|src_rmo_2014_mumbai__Q03]]
 
 
 
@@ -114,9 +138,19 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare percorsi distinti da (0,0) a (8,8) con esattamente tre passi a destra*
+*Conta i cammini distinti da (0,0) a (8,8) con esattamente tre passi verso destra*
 
-> Una persona si muove nel piano $x$-$y$ che si muove solo in linea con le coordinate interi $x$ e $y$. Quando si trova al punto $(x, y)$, fa un passo in base alle seguenti regole: a) se $x + y$ è anche si sposta a $(x, y + 1)$ o a $(x + 1, y + 1)$; b) se $x + y$ è pari si sposta a $(x, y + 1)$ o a $(x + 1, y + 1)$. Quanti percorsi distinti può percorrere per passare da$(0, 0)$ a$(8, 8)$, dato che ha fatto esattamente tre passi a destra (cioè $(x, y)$ a$(x + 1, y)$)?
+> Una persona si muove nel piano $x$-$y$ spostandosi solo lungo rette aventi coordinate intere $x$ e $y$, e soltanto quelle. Quando si trova nel punto $(x, y)$, compie un passo secondo le seguenti regole:
+> (a) se $x + y$ è pari, si sposta in $(x, y + 1)$ o in $(x + 1, y + 1)$;
+> (b) se $x + y$ è dispari, si sposta in $(x, y + 1)$ o in $(x + 1, y + 1)$.
+> Quanti percorsi distinti può seguire per andare da $(0, 0)$ a $(8, 8)$, sapendo che ha compiuto esattamente tre passi verso destra (ossia da $(x, y)$ a $(x + 1, y)$)?
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2014_mumbai#q04|src_rmo_2014_mumbai__Q04]]
 
 
 
@@ -143,11 +177,20 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove (1+a^2)(1+b^2)(1+c^2) >= 125 dati somma reciproca massima 1*
+*Dimostrazione che (1+a^2)(1+b^2)(1+c^2) >= 125, dato che la somma dei reciproci è al più 1*
 
-> Che $a, b, c$ siano numeri positivi tali che $$\frac{1}{1+a} + \frac{1}{1+b} + \frac{1}{1+c} \le 1.$$ dimostri che $(1 + a^2)(1 + b^2)(1 + c^2) \ge 125$. Quando la parità dura?
+> Siano $a, b, c$ numeri positivi tali che
+> $$\frac{1}{1+a} + \frac{1}{1+b} + \frac{1}{1+c} \le 1.$$
+> Dimostrare che $(1 + a^2)(1 + b^2)(1 + c^2) \ge 125$. Quando vale l'uguaglianza?
 
-*Apparizioni nelle regioni: Mumbai, Regione 5.*
+*Compare nelle regioni: Mumbai, Regione 5.*
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2014_mumbai#q05|src_rmo_2014_mumbai__Q05]]
 
 
 
@@ -171,8 +214,14 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Le linee di prova dagli incentri del triangolo di contatto ai punti di contatto opposti sono simultanee*
+*Dimostrare che le rette congiungenti i centri degli incentri del triangolo di contatto con i punti di contatto opposti sono concorrenti*
 
-> $D, E, F$ siano i punti di contatto dell'incircolo di un triangolo acuto $ABC$ con $BC$, $CA$ e $AB$ rispettivamente. I segmenti $I_1$, $I_2$ e $I_3$ siano rispettivamente gli incentri dei triangoli $AFE$, $BDF$ e $CED$. Prove che le righe $I_1D$, $I_2E$, $I_3F$ sono simultanee.
+> Siano $D, E, F$ i punti di contatto dell'incircolo di un triangolo acutangolo $ABC$ con $BC$, $CA$, $AB$ rispettivamente. Siano $I_1$, $I_2$, $I_3$ gli incentri dei triangoli $AFE$, $BDF$, $CED$ rispettivamente. Dimostrare che le rette $I_1D$, $I_2E$, $I_3F$ sono concorrenti.
 
-*Apparizioni nelle regioni: Mumbai, Regione 5.*
+*Compare nelle regioni: Mumbai, Regione 5.*
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2014_mumbai#q06|src_rmo_2014_mumbai__Q06]]

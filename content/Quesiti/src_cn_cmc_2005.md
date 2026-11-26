@@ -32,13 +32,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro punti nello spazio con lunghezze di bordo indicate, valori di conteggio del prodotto delle diagonali*
+*Quattro punti nello spazio con lunghezze degli spigoli date; conta i valori del prodotto delle diagonali*
 
-> $A$, $B$, $C$, $D$ sono quattro punti nello spazio e soddisfano $|\overrightarrow{AB}| = 3$, $|\overrightarrow{BC}| = 7$, $|\overrightarrow{CD}| = 11$ e $|\overrightarrow{DA}| = 9$. In questo caso $|\overrightarrow{AC}| \cdot |\overrightarrow{BD}|$ ha i valori ().
-> 
-> (A) solo 1 \quad (B) due \quad (C) quattro \quad (D) infinitamente molti
+> $A$, $B$, $C$, $D$ sono quattro punti nello spazio e soddisfano $|\overrightarrow{AB}| = 3$, $|\overrightarrow{BC}| = 7$, $|\overrightarrow{CD}| = 11$ e $|\overrightarrow{DA}| = 9$. Allora $|\overrightarrow{AC}| \cdot |\overrightarrow{BD}|$ ha ( ) valori.
+>
+> (A) solo 1 \quad (B) due \quad (C) quattro \quad (D) infiniti
 
-**Risposta:** A
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc_2005#q02|src_cn_cmc_2005__Q02]]
 
 
 
@@ -65,13 +70,19 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo inserito nel cerchio unitario, bisectori angolari estesi al cerchio, rapporto di valutazione*
+*Triangolo inscritto nella circonferenza unitaria, bisettrici degli angoli prolungate fino alla circonferenza, calcolare il rapporto*
 
-> $\triangle ABC$ è inserito in un cerchio unitario. I tre bisettori degli angoli $A$, $B$ e $C$ sono estesi per incrociare il cerchio rispettivamente a $A_1$, $B_1$ e $C_1$. Poi $$\frac{AA_1\cos\dfrac{A}{2} + BB_1\cos\dfrac{B}{2} + CC_1\cos\dfrac{C}{2}}{\sin A + \sin B + \sin C} = (\quad).$$
-> 
+> $\triangle ABC$ è inscritto in un cerchio unitario. Le tre bisettrici degli angoli $A$, $B$ e $C$ vengono prolungate fino a intersecare il cerchio rispettivamente nei punti $A_1$, $B_1$ e $C_1$. Poi
+> $$\frac{AA_1\cos\dfrac{A}{2} + BB_1\cos\dfrac{B}{2} + CC_1\cos\dfrac{C}{2}}{\sin A + \sin B + \sin C} = (\quad).$$
+>
 > (A) $2$ \quad (B) $4$ \quad (C) $6$ \quad (D) $8$
 
-**Risposta:** A
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2005#q03|src_cn_cmc_2005__Q03]]
 
 
 
@@ -102,18 +113,23 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sezione trasversale di cubo perpendicolare alla diagonale dello spazio: perimetro o area fissa?*
+*Sezione trasversale del cubo perpendicolare alla diagonale dello spazio: perimetro o area fissi?*
 
-> Come mostrato nel diagramma, $ABCD$-$A'B'C'D'$ è un cubo. Costruire un piano arbitrario $\alpha$ perpendicolare alla diagonale $AC'$ in modo tale che $\alpha$ abbia punti comuni con ogni faccia del cubo. Indicare rispettivamente la superficie e il perimetro della sezione trasversale di $\alpha$. Allora ().
+> Come mostrato nel diagramma, $ABCD$-$A'B'C'D'$ è un cubo. Si costruisca un piano arbitrario $\alpha$ perpendicolare alla diagonale $AC'$ in modo che $\alpha$ abbia punti in comune con ciascuna faccia del cubo. Si indichino con $S$ e $L$ rispettivamente l'area e il perimetro della sezione trasversale di $\alpha$. Allora ( ).
 >
-> - **(A)** $S$ è un numero fisso e $L$ non è
-> - **(B)** $L$ è fisso e $S$ non è
-> - **(C)** Sia $S$ che $L$ sono fissi
-> - **(D)** Non è fissato né $S$ né $L$
+> - **(A)** $S$ è un numero fisso e $L$ non lo è
+> - **(B)** $L$ è fisso e $S$ non lo è
+> - **(C)** Sia $S$ sia $L$ sono fissi
+> - **(D)** Né $S$ né $L$ sono fissi
 
 ![[src_cn_cmc_2005__q04.png]]
 
-**Risposta:** B
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2005#q04|src_cn_cmc_2005__Q04]]
 
 
 
@@ -143,16 +159,22 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Identificare la sezione conica dell'equazione con coefficienti trigonometrici irrazionali*
+*Identificare la sezione conica a partire dall'equazione con coefficienti trigonometrici irrazionali*
 
-> La curva rappresentata dall'equazione $$\frac{x^2}{\sin\sqrt{2}-\cos\sqrt{3}}+\frac{y^2}{\cos\sqrt{2}-\sin\sqrt{3}}=1$$ è ( ).
+> La curva rappresentata dall'equazione
+> $$\frac{x^2}{\sin\sqrt{2}-\cos\sqrt{3}}+\frac{y^2}{\cos\sqrt{2}-\sin\sqrt{3}}=1$$
+> è ( ).
 >
-> - **(A)** Un'ellisse con i foci sull'asse $x$
-> - **(B)** Una iperbola con i foci sull'asse $x$
-> - **(C)** Un'ellisse con i foci sull'asse $y$
-> - **(D)** Una iperbola con i foci sull'asse $y$
+> - **(A)** Un'ellisse con i fuochi sull'asse $x$
+> - **(B)** Una iperbole con i fuochi sull'asse $x$
+> - **(C)** Un'ellisse con i fuochi sull'asse $y$
+> - **(D)** Una iperbole con i fuochi sull'asse $y$
 
-**Risposta:** C
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2005#q05|src_cn_cmc_2005__Q05]]
 
 
 
@@ -182,15 +204,22 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'elemento 2005 in ordine decrescente di un insieme di frazioni base-7*
+*Trovare il 2005° elemento in ordine decrescente di un insieme di frazioni in base 7*
 
-> Lasciate che $T = \{0, 1, 2, 3, 4, 5, 6\}$ e $$M = \left\{\frac{a_1}{7}+\frac{a_2}{7^2}+\frac{a_3}{7^3}+\frac{a_4}{7^4} \;\.\middle|\; a_i \in T,\; i = 1, 2, 3, 4\right\}.$$ organizzino tutti gli elementi di $M$ nell'ordine decrescente. In questo caso il numero $2005$ è ( ).
-> 
+> Sia $T = \{0, 1, 2, 3, 4, 5, 6\}$ e
+> $$M = \left\{\frac{a_1}{7}+\frac{a_2}{7^2}+\frac{a_3}{7^3}+\frac{a_4}{7^4} \;\.\middle|\; a_i \in T,\; i = 1, 2, 3, 4\right\}.$$
+> Disponi tutti gli elementi in $M$ in ordine decrescente. Allora il $2005$-esimo numero è ( ).
+>
 > (A) $\dfrac{2}{7}+\dfrac{4}{7^2}+\dfrac{3}{7^3}+\dfrac{0}{7^4}$ \quad (B) $\dfrac{2}{7}+\dfrac{4}{7^2}+\dfrac{3}{7^3}+\dfrac{5}{7^4}$
-> 
+>
 > (C) $\dfrac{2}{7}+\dfrac{4}{7^2}+\dfrac{0}{7^3}+\dfrac{0}{7^4}$ \quad (D) $\dfrac{1}{7}+\dfrac{1}{7^2}+\dfrac{0}{7^3}+\dfrac{4}{7^4}$
 
-**Risposta:** C
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc_2005#q06|src_cn_cmc_2005__Q06]]
 
 
 
@@ -216,11 +245,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Riscrivere il polinomio nella variabile spostata y=x-4, trovare la somma dei coefficienti*
+*Riscrivi il polinomio nella variabile traslata y=x-4, trova la somma dei coefficienti*
 
-> Esprimere il polinomio $f(x) = 1 - x + x^2 - x^3 + \cdots - x^{19} + x^{20}$ come polinomio in $y = x - 4$: $$g(y) = a_0 + a_1 y + a_2 y^2 + \cdots + a_{20} y^{20}.$$ Poi $a_0 + a_1 + \cdots + a_{20} = $ \underline{\hspace{2cm}}.
+> Esprimi il polinomio $f(x) = 1 - x + x^2 - x^3 + \cdots - x^{19} + x^{20}$ come polinomio in $y = x - 4$:
+> $$g(y) = a_0 + a_1 y + a_2 y^2 + \cdots + a_{20} y^{20}.$$
+> Allora $a_0 + a_1 + \cdots + a_{20} = $ \underline{\hspace{2cm}}.
 
-**Risposta:** \frac{5^{21}+1}{6}
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2005#q07|src_cn_cmc_2005__Q07]]
 
 
 
@@ -244,11 +280,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la gamma di a da disuguaglianza che comporta una funzione in diminuzione*
+*Trovare l'intervallo di a a partire da una disequazione che coinvolge una funzione decrescente*
 
-> La funzione $f(x)$ deve essere una funzione decrescente definita su $(0, +\infty)$. Se $f(2a^2 + a + 1) < f(3a^2 - 4a + 1)$, allora l'intervallo di $a$ è \underline{\hspace{2cm}}.
+> Sia $f(x)$ una funzione decrescente definita su $(0, +\infty)$. Se $f(2a^2 + a + 1) < f(3a^2 - 4a + 1)$, allora l'insieme immagine di $a$ è \underline{\hspace{2cm}}.
 
-**Risposta:** 0 < a < \frac{1}{3} \text{ oppure } 1 < a < 5
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2005#q08|src_cn_cmc_2005__Q08]]
 
 
 
@@ -274,11 +315,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova gamma meno alfa data la somma del triplo cosino scompare per tutti x*
+*Trovare gamma meno alfa sapendo che la somma dei coseni tripli si annulla per ogni x*
 
-> Supponiamo che $\alpha$, $\beta$, $\gamma$ soddisfino $0 < \alpha < \beta < \gamma < 2\pi$. Se $$\cos(x+\alpha)+\cos(x+\beta)+\cos(x+\gamma)=0$$ per arbitrario $x \in \mathbf{R}$, allora $\gamma - \alpha = $ \underline{\hspace{2cm}}.
+> Si supponga che $\alpha$, $\beta$, $\gamma$ soddisfino $0 < \alpha < \beta < \gamma < 2\pi$. Se
+> $$\cos(x+\alpha)+\cos(x+\beta)+\cos(x+\gamma)=0$$
+> per un arbitrario $x \in \mathbf{R}$, allora $\gamma - \alpha = $ \underline{\hspace{2cm}}.
 
-**Risposta:** \frac{2\pi}{3}
+**Topic:** [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2005#q09|src_cn_cmc_2005__Q09]]
 
 
 
@@ -304,13 +352,18 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il CD in tetraedro dato volume, angolo e condizione di uguaglianza AM-GM*
+*Trovare CD nel tetraedro dati il volume, l'angolo e la condizione di uguaglianza della media aritmetica-media geometrica*
 
-> Come mostrato nel diagramma, il volume del tetraedro $DABC$ è $\dfrac{1}{6}$. Inoltre $\angle ACB = 45^\circ$ e $AD + BC + \dfrac{AC}{\sqrt{2}} = 3$. Poi $CD = $ \underline{\hspace{2cm}}.
+> Come mostrato nel diagramma, il volume del tetraedro $DABC$ è $\dfrac{1}{6}$. Inoltre, $\angle ACB = 45^\circ$, e $AD + BC + \dfrac{AC}{\sqrt{2}} = 3$. Poi $CD = $ \underline{\hspace{2cm}}.
 
 ![[src_cn_cmc_2005__q10.png]]
 
-**Risposta:** \sqrt{3}
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cmc_2005#q10|src_cn_cmc_2005__Q10]]
 
 
 
@@ -334,11 +387,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*L'area minima di quadrato con un lato su una linea e vertici opposti sulla parabola*
+*Area minima di un quadrato con un lato giacente su una retta e i vertici opposti sulla parabola*
 
-> Se un lato $AB$ del quadrato $ABCD$ si trova sulla linea $y = 2x - 17$, e le altre due vertici $C$ e $D$ si trovano sulla parabola $y = x^2$, allora la superficie minima del quadrato è \underline{\hspace{2cm}}.
+> Se un lato $AB$ del quadrato $ABCD$ giace sulla retta $y = 2x - 17$, e gli altri due vertici $C$ e $D$ giacciono sulla parabola $y = x^2$, allora l'area minima del quadrato è \underline{\hspace{2cm}}.
 
-**Risposta:** 80
+**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cmc_2005#q11|src_cn_cmc_2005__Q11]]
 
 
 
@@ -362,11 +420,16 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri fortunati con somma di 7 numeri: trovare a_{5m} dato a_m = 2005*
+*Numeri fortunati con somma delle cifre uguale a 7: trovare a_{5m} dato a_m = 2005*
 
-> Un numero naturale $n$ è chiamato "numero fortunato" se la somma delle sue cifre è $7$. Organizzare tutti i numeri fortunati in ordine ascendente per ottenere la sequenza $a_1, a_2, \ldots$. Se $a_m = 2005$, allora $a_{5m} = $ \underline{\hspace{2cm}}.
+> Un numero naturale $n$ è detto "numero fortunato" se la somma delle sue cifre è $7$. Si ordinano tutti i numeri fortunati in ordine crescente per ottenere la successione $a_1, a_2, \ldots$. Se $a_m = 2005$, allora $a_{5m} = $ \underline{\hspace{2cm}}.
 
-**Risposta:** 52000
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc_2005#q12|src_cn_cmc_2005__Q12]]
 
 
 
@@ -395,13 +458,22 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza di prova definita da recidiva radicale incastonata rende numeri interi e quadrati perfetti*
+*La sequenza definita dalla ricorrenza con radicale annidato produce numeri interi e quadrati perfetti*
 
-> Una sequenza $\{a_n\}$ soddisfa $a_0 = 1$ e $$a_{n+1} = \frac{7a_n + \sqrt{45a_n^2 - 36}}{2}, \quad n \in \mathbb{N}.$$ dimostra che:
-> 
-> (1) Per ogni $n \in \mathbb{N}$, $a_n$ è un intero positivo;
-> 
+> Dato una successione $\{a_n\}$ che soddisfa $a_0 = 1$ e
+> $$a_{n+1} = \frac{7a_n + \sqrt{45a_n^2 - 36}}{2}, \quad n \in \mathbb{N}.$$
+> Dimostrare che:
+>
+> (1) Per ogni $n \in \mathbb{N}$, $a_n$ è un numero intero positivo;
+>
 > (2) Per ogni $n \in \mathbb{N}$, $a_n a_{n+1} - 1$ è un quadrato perfetto.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cmc_2005#q13|src_cn_cmc_2005__Q13]]
 
 
 
@@ -425,8 +497,13 @@ level: China Mathematical Competition
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Nove palle su un cerchio, trovare la probabilità che la somma delle differenze assolute dei vicini è ridotta al minimo*
+*Nove sfere disposte su una circonferenza: determina la probabilità che la somma delle differenze assolute tra le sfere vicine sia minimizzata*
 
-> Nove palle, numerate $1, 2, \ldots, 9$, sono posizionate a caso in $9$ punti spaziati ugualmente su un cerchio, una palla per punto. $S$ sia la somma dei valori assoluti delle differenze dei numeri su tutte le coppie di palle vicine. Trova la probabilità che $S$ raggiunga il suo valore minimo. (Nota: se una disposizione può essere ottenuta da un'altra mediante rotazione o riflessione, le due disposizioni sono considerate uguali.)
+> Nove sfere, numerate $1, 2, \ldots, 9$, vengono disposte a caso in $9$ punti equidistanti su una circonferenza, una sfera per punto. Sia $S$ la somma dei valori assoluti delle differenze dei numeri presenti su tutte le coppie di sfere vicine. Determinare la probabilità che $S$ assuma il suo valore minimo. (Osservazione: se una disposizione può essere ottenuta da un'altra mediante una rotazione o una riflessione, le due disposizioni sono considerate identiche.)
 
-**Risposta:** \frac{1}{315}
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cmc_2005#q14|src_cn_cmc_2005__Q14]]

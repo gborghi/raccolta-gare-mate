@@ -31,9 +31,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Prove l'identità del prodotto-somma di una sequenza definita ricorrentemente*
+*Dimostra un'identità prodotto-somma per una successione definita ricorsivamente*
 
-> Una sequenza di numeri reali $a_1, a_2, \ldots$ è definita da $a_1 \neq 0, 1$, $a_2 = 1 - a_1$, $a_{n+1} = 1 - a_n(a_{n-1} \cdots a_1)$, $n = 1, 2, \ldots$. Prove che per qualsiasi numero intero positivo $n$, $a_1 a_2 \cdots a_n \left(\frac{1}{a_1} + \frac{1}{a_1 a_2} + \cdots + \frac{1}{a_1 a_2 \cdots a_n}\right) = 1.$ (posato da Li Shenghong)
+> Una successione di numeri reali $a_1, a_2, \ldots$ è definita da $a_1 \neq 0, 1$, $a_2 = 1 - a_1$, $a_{n+1} = 1 - a_n(a_{n-1} \cdots a_1)$, $n = 1, 2, \ldots$. Dimostrare che, per ogni numero intero positivo $n$, $a_1 a_2 \cdots a_n \left(\frac{1}{a_1} + \frac{1}{a_1 a_2} + \cdots + \frac{1}{a_1 a_2 \cdots a_n}\right) = 1.$ (Proposto da Li Shenghong)
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2008#q01|src_cn_cwmo_2008__Q01]]
 
 
 
@@ -63,11 +72,20 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In un triangolo con triangolo con cerchio inciso, dimostrare una conciclicità e una relazione di rapporto che coinvolgono punti costruiti dall'incircolo*
+*In un triangolo isoscele con cerchio inscritto, dimostrare una conciclicità e una relazione di rapporto che coinvolgono punti costruiti a partire dal cerchio inscritto*
 
-> In $\triangle ABC$, $AB = AC$, il cerchio inciso $I$ tocca $BC$, $CA$ e $AB$ rispettivamente ai punti $D$, $E$ e $F$. $P$ è un punto di arco $\widehat{EF}$ (non contenente $D$). La linea $BP$ interseca il cerchio $I$ in un altro punto $Q$ e le linee $EP$, $EQ$ incontrano la linea $BC$ rispettivamente a $M$ e $N$. Prove che (1) $P$, $F$, $B$, $M$ sono conciclici. (2) $\frac{EM}{EN} = \frac{BD}{BP}$. (Possibile da Bian Hongping)
+> In $\triangle ABC$, $AB = AC$, il cerchio inscritto $I$ è tangente a $BC$, $CA$ e $AB$ nei punti $D$, $E$ e $F$ rispettivamente. $P$ è un punto sull'arco $\widehat{EF}$ (che non contiene $D$). La retta $BP$ interseca il cerchio $I$ in un altro punto, $Q$, e le rette $EP$, $EQ$ incontrano la retta $BC$ in $M$, $N$ rispettivamente. Dimostrare che (1) $P$, $F$, $B$, $M$ sono concyclici. (2) $\frac{EM}{EN} = \frac{BD}{BP}$. (Proposto da Bian Hongping)
 
 ![[src_cn_cwmo_2008__q02.png]]
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2008#q02|src_cn_cwmo_2008__Q02]]
 
 
 
@@ -92,9 +110,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per m dati numeri interi positivi, dimostrare infinitamente molti n fare una potenza ponderata somma composta*
+*Dati m interi positivi, dimostrare che esistono infiniti n tali che una somma di potenze ponderata risulti composta*
 
-> Date un intero $m \geqslant 2$ e un intero positivo $m$ $a_1, a_2, \ldots, a_m$, dimostrate che esistono infinitamente molti interi positivi $n$ in modo tale che $a_1 \cdot 1^n + a_2 \cdot 2^n + \cdots + a_m \cdot m^n$ sia composto. (Posato da Chen Yonggao)
+> Dato un intero $m \geqslant 2$ e gli interi positivi $m$ $a_1, a_2, \ldots, a_m$, dimostrare che esistono infiniti interi positivi $n$ tali che $a_1 \cdot 1^n + a_2 \cdot 2^n + \cdots + a_m \cdot m^n$ è composto. (Proposto da Chen Yonggao)
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2008#q03|src_cn_cwmo_2008__Q03]]
 
 
 
@@ -122,9 +149,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Determinare le condizioni di confine per una sequenza definita da x_{n+1}=a x_n^n + b*
+*Determinare le condizioni di limitatezza per una successione definita da x_{n+1}=a x_n^n + b*
 
-> Data una cifra integrale $n \geqslant 2$ e due numeri reali $a$, $b$ con $a > 0$ e $b \neq 0$, la sequenza $\{x_n\}$ è tale che $x_1 = b$ e $x_{n+1} = ax_n^n + b$, $n = 1, 2, \ldots$. Prova che: (1) Quando $b < 0$ e $n$ sono pari, la sequenza $\{x_n\}$ è delimitata se e solo se $ab^{n-1} \geqslant 2$; (2) Quando $b < 0$ e $n$ sono pari, o quando $b > 0$, la sequenza $\{x_n\}$ è delimitata se e solo se $ab^{n-1} \leqslant \frac{(n-1)^{n-1}}{n^n}$. (Posato da Zhu Huawei e Fu Yunhao)
+> Dato un intero $n \geqslant 2$ e due numeri reali $a$, $b$ con $a > 0$ e $b \neq 0$, la successione $\{x_n\}$ è tale che $x_1 = b$ e $x_{n+1} = ax_n^n + b$, $n = 1, 2, \ldots$. Dimostrare che: (1) Quando $b < 0$ e $n$ è pari, la successione $\{x_n\}$ è limitata se e solo se $ab^{n-1} \geqslant 2$; (2) Quando $b < 0$ e $n$ è dispari, oppure quando $b > 0$, la successione $\{x_n\}$ è limitata se e solo se $ab^{n-1} \leqslant \frac{(n-1)^{n-1}}{n^n}$. (Proposto da Zhu Huawei e Fu Yunhao)
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2008#q04|src_cn_cwmo_2008__Q04]]
 
 
 
@@ -149,9 +185,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quattro rane in una linea saltano per riflessione su un'altra rane; dimostrano di non poter raggiungere distanze uguali alle vicine del 2008*
+*Quattro rane allineate saltano per riflessione oltre un'altra rana; dimostrare che non possono raggiungere distanze tra vicini uguali pari a 2008*
 
-> Quattro rane sono posizionate in quattro punti su una linea retta in modo che le distanze tra due rane vicine siano tutte uguali a un'unità di lunghezza. Una rana può saltare e raggiungere un nuovo punto che riflette la sua posizione originale, prendendo come punto di riferimento una delle altre tre rane. Prove che non esiste un caso in cui le distanze tra due punti vicini, dove rimangono le rane, siano uguali a $2008$ unità di lunghezza. (Posato da Liu Shixiong)
+> Quattro rane sono disposte in quattro punti di una linea retta in modo che le distanze tra due rane vicine qualsiasi siano tutte uguali a un'unità di lunghezza. Una rana può saltare e raggiungere un nuovo punto che è il riflesso della sua posizione originale, prendendo come punto di riferimento una qualsiasi delle altre tre rane. Dimostrare che non esiste alcun caso in cui le distanze tra due punti vicini qualsiasi in cui si trovano le rane siano uguali a $2008$ unità di lunghezza. (Proposto da Liu Shixiong)
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_cn_cwmo_2008#q05|src_cn_cwmo_2008__Q05]]
 
 
 
@@ -177,11 +222,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Maximizzare xyz soggetto a una limitazione radicale simmetrica con x,y,z in (0,1)*
+*Massimizzare xyz sotto il vincolo radicale simmetrico, con x,y,z in (0,1)*
 
-> Se $x$, $y$, $z \in (0, 1)$ soddisfa $\sqrt{\frac{1-x}{yz}} + \sqrt{\frac{1-y}{zx}} + \sqrt{\frac{1-z}{xy}} = 2$, si trova il valore massimo di $xyz$. (Posato da Tang Lihua)
+> Dati $x$, $y$, $z \in (0, 1)$ che soddisfano $\sqrt{\frac{1-x}{yz}} + \sqrt{\frac{1-y}{zx}} + \sqrt{\frac{1-z}{xy}} = 2$, determina il valore massimo di $xyz$. (Proposto da Tang Lihua)
 
-**Risposta:** $\frac{27}{64}$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_cn_cwmo_2008#q06|src_cn_cwmo_2008__Q06]]
 
 
 
@@ -207,11 +259,18 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca la k più grande consentendo tre set di k-elementi di numeri interi non negativi distinti con somme di componenti uguali a n*
+*Trovare il massimo k per cui esistono tre insiemi di k elementi ciascuno, formati da interi non negativi distinti, tali che le loro somme componente per componente siano uguali a n*
 
-> Per un dato intero positivo $n$, trovare il più grande intero positivo $k$, in modo tale che esistano tre set di $k$ diversi interi non negativi, $A = \{x_1, x_2, \ldots, x_k\}$, $B = \{y_1, y_2, \ldots, y_k\}$ e $C = \{z_1, z_2, \ldots, z_k\}$ con $x_i + y_i + z_i = n$ per qualsiasi $1 \leqslant i \leqslant k$. (Posato da Li Shenghong)
+> Per un dato intero positivo $n$, determinare il più grande intero positivo $k$ tale che esistano tre insiemi di $k$ interi non negativi distinti, $A = \{x_1, x_2, \ldots, x_k\}$, $B = \{y_1, y_2, \ldots, y_k\}$ e $C = \{z_1, z_2, \ldots, z_k\}$, con $x_i + y_i + z_i = n$ per ogni $1 \leqslant i \leqslant k$. (Proposto da Li Shenghong)
 
-**Risposta:** $k = \left\lfloor \frac{2n}{3} \right\rfloor + 1$
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_cn_cwmo_2008#q07|src_cn_cwmo_2008__Q07]]
 
 
 
@@ -236,6 +295,15 @@ level: China Western Mathematical Olympiad
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Per un punto interno di un n-gon regolare, dimostrare che la somma delle distanze alle vertici è almeno la somma dei punti di intersezione opposti*
+*Per un punto interno di un poligono regolare a n lati, dimostrare che la somma delle distanze dai vertici è almeno pari alla somma delle distanze dai punti di intersezione opposti*
 
-> Se $P$ è un punto interno di un normale $n$-gon $A_1 A_2 \cdots A_n$, le linee $A_i P$ incontrano il normale $n$-gon $A_1 A_2 \cdots A_n$ in un altro punto $B_i$, dove $i = 1, 2, \ldots, n$. Prove che $\sum_{i=1}^{n} PA_i \geqslant \sum_{i=1}^{n} PB_i.$ (Posato da Feng Zhigang)
+> Sia $P$ un punto interno di un $n$-gono regolare $A_1 A_2 \cdots A_n$; le rette $A_i P$ incontrano l'$n$-gono regolare $A_1 A_2 \cdots A_n$ in un altro punto $B_i$, dove $i = 1, 2, \ldots, n$. Dimostrare che $\sum_{i=1}^{n} PA_i \geqslant \sum_{i=1}^{n} PB_i.$ (Proposto da Feng Zhigang)
+
+> [!warning] Estratto da verificare con la fonte.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_cn_cwmo_2008#q08|src_cn_cwmo_2008__Q08]]

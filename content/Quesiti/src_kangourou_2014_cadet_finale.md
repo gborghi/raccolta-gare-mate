@@ -29,9 +29,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Why number pairs = sum of the first n-1 integers*
+*Because the number of pairs = the sum of the first n−1 integers*
 
-> You have $n$ objects and you want to form all possible pairs with them (for example, if the objects are the letters A, B and C, the possible pairs are three: $\{A,B\}$, $\{A,C\}$ and $\{B,C\}$). Whatever the $n$ number of objects (at least 2), it turns out that the number of pairs you can form coincides with the sum of the first $n-1$ positive integers. Without using any formula, would you be able to explain the reason for this coincidence?
+> You have $n$ objects and want to form all possible pairs from them (for example, if the objects are the letters A, B, and C, the possible pairs are three: $\{A,B\}$, $\{A,C\}$, and $\{B,C\}$). Whatever the number $n$ of objects (at least 2), it turns out that the number of pairs you can form equals the sum of the first $n-1$ positive integers. Without using any formula, could you explain why this coincidence occurs?
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2014_cadet_finale#q01|src_kangourou_2014_cadet_finale__Q01]]
 
 
 
@@ -55,11 +62,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*How many prime p with perfect square 4p+1*
+*How many primes p such that 4p+1 is a perfect square?*
 
 > How many prime numbers $p$ are such that $4p + 1$ is a perfect square?
 
-**Answer:** 1 (p=2)
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2014_cadet_finale#q02|src_kangourou_2014_cadet_finale__Q02]]
 
 
 
@@ -83,11 +95,17 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Minimum visits to empty 15 plates*
+*Minimum visits to empty the 15 little plates*
 
-> In a cabin in the woods, there are 15 plates in a row: the first one has 1 nut, the second one has 2 nuts, the third one has 3 nuts, and so on until the 15th plate has 15 nuts. Every now and then a squirrel comes into the cabin, picks up a few plates and eats nuts, taking the same number from each of the plates chosen. What's the smallest number of visits to the cottage that allows him to eat all the nuts?
+> In a cottage in the woods there are 15 little plates in a row: on the first there is 1 walnut, on the second there are 2 walnuts, on the third 3 and so on up to the fifteenth little plate on which there are 15 walnuts. From time to time a squirrel enters the cottage, chooses some little plates and eats some walnuts, taking the same number from each of the little plates chosen. What is the smallest number of visits to the cottage that allows it to eat all the walnuts?
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / number theory]]
+**Method:** [[method_estremalita|Extremal principle]]
+**Skill:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 4
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1AnnZ-qUV6dWWweXJXKQibDtTu2LV1ZDz/view)
+[[Quesiti/src_kangourou_2014_cadet_finale#q03|src_kangourou_2014_cadet_finale__Q03]]
 
 
 
@@ -132,7 +150,7 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of the right triangle from the angle bisector (4 and 5)*
+*Area of the right-angled triangle from the bisector (4 and 5)*
 
 ![[src_kangourou_2014_cadet_finale__prob4.png]]
 
@@ -156,9 +174,14 @@ level: kangourou
 \end{document}
 ```
 
-> The angle bisector of one of the acute angles of a right triangle divides the opposite leg into two segments, one 4 cm long and the other 5 cm long. Calculate the area of the triangle.
+> The angle bisector of one of the acute angles of a right-angled triangle divides the opposite leg into two segments, one 4 cm long and the other 5 cm long. Calculate the area of the triangle.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 54 cm^2
+**Source:** [open PDF p.1](https://drive.google.com/file/d/1AnnZ-qUV6dWWweXJXKQibDtTu2LV1ZDz/view)
+[[Quesiti/src_kangourou_2014_cadet_finale#q04|src_kangourou_2014_cadet_finale__Q04]]
 
 
 
@@ -183,11 +206,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Paint 20 8x8 squares with adjacent cover*
+*Paint 20 8x8 squares with adjacent coverage*
 
 ![[src_kangourou_2014_cadet_finale__prob5.png]]
 
-> $n$ squares of an $8 \times 8$ grid are painted black, the others are white. Each square of the grid, whether white or black, is adjacent to (i.e. has a side in common with) a black square (different from it in the case of black). Show that you can do it by blacking out only 20 squares. (Answer by appropriately blacking 20 squares of the grid shown below.) (see figure)
+> $n$ Squares of a grid $8 \times 8$ are painted black; the others are white. Every square in the grid, whether white or black, is adjacent to (that is, shares a side with) a black square (different from itself if it is black). Prove that you can achieve this by blackening only 20 squares. (Respond by appropriately blackening 20 squares of the grid shown below.) (see figure)
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2014_cadet_finale#q05|src_kangourou_2014_cadet_finale__Q05]]
 
 
 
@@ -211,8 +241,13 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For how many n is the product (p+1) divisible by n*
+*For how many n is (p+1) divisible by n?*
 
-> A natural number $n$ is broken down into prime factors in 2014 (not necessarily all of them distinct from each other). Each prime factor is added to 1 and the new 2014 numbers obtained are multiplied by each other, resulting in a number $m$. For how many integers $n$ does it happen that, with these premises, $m$ is divisible by $n$?
+> A natural number $n$ is factored into 2014 prime factors (not necessarily all distinct from one another). 1 is added to each prime factor, and the 2014 new numbers obtained are multiplied together, yielding a number $m$. For how many integers $n$ does it happen that, under these premises, $m$ is divisible by $n$?
 
-**Answer:** 336
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2014_cadet_finale#q06|src_kangourou_2014_cadet_finale__Q06]]

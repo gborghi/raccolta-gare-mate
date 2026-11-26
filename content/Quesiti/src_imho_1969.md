@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Infiniti numeri naturali con proprietà non primo*
+*Infiniti numeri naturali con la proprietà di non essere primi*
 
-> Si dimostri che esistono infiniti numeri naturali $a$ con la seguente proprietà: il numero $z = n^4 + a$ non è primo per alcun numero naturale $n$.
+> Dimostrare che esistono infiniti numeri naturali $a$ con la seguente proprietà: il numero $z = n^4 + a$ non è primo per nessun numero naturale $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_imho_1969#q01|src_imho_1969__Q01]]
 
 
 
@@ -56,11 +63,18 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Si dimostri che x₁ − x₂ = π/m*
+*Dimostrare che x1 meno x2 è uguale a pi greco diviso m*
 
-> Siano $a_1, a_2, \ldots, a_n$ delle costanti reali, $x$ una variabile reale e
+> Sia $a_1, a_2, \ldots, a_n$ una costante reale, $x$ una variabile reale, e
 > $$f(x) = \cos(a_1 + x) + \frac{1}{2}\cos(a_2 + x) + \frac{1}{4}\cos(a_3 + x) + \cdots + \frac{1}{2^{n-1}}\cos(a_n + x).$$
-> Notato che $f(x_1) = f(x_2) = 0$, si dimostri che $x_2 - x_1 = m\pi$ per qualche intero $m$.
+> Dato che $f(x_1) = f(x_2) = 0$, dimostrare che $x_2 - x_1 = m\pi$ per un certo intero $m$.
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1969#q02|src_imho_1969__Q02]]
 
 
 
@@ -83,9 +97,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Condizioni necessarie e sufficienti perché un tetraedro abbia k spigoli uguali*
+*Condizioni necessarie e sufficienti per un tetraedro con k spigoli uguali*
 
-> Per ciascun valore di $k = 1, 2, 3, 4, 5$, determinare condizioni necessarie e sufficienti sul numero $a > 0$ affinché esista un tetraedro con $k$ spigoli di lunghezza $a$ e gli altri $6 - k$ spigoli di lunghezza 1.
+> Per ogni valore di $k = 1, 2, 3, 4, 5$, determinare le condizioni necessarie e sufficienti sul numero $a > 0$ affinché esista un tetraedro con $k$ spigoli di lunghezza $a$ e i restanti $6 - k$ spigoli di lunghezza 1.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1969#q03|src_imho_1969__Q03]]
 
 
 
@@ -108,9 +129,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Tre circonferenze tangenti inscritte in un triangolo, dimostrare la tangente comune*
+*Tre cerchi tangenti inscritti in un triangolo: dimostrare la tangente comune*
 
-> Sia dato un arco semicircolare $\gamma$ costruito sul segmento $AB$ come diametro. Sia $C$ un punto su $\gamma$ diverso da $A$ e da $B$, e sia $D$ il piede della perpendicolare da $C$ alla retta $AB$. Consideriamo tre circonferenze $\gamma_1, \gamma_2, \gamma_3$, tutte tangenti alla retta $AB$. Tra queste, $\gamma_1$ è inscritta nel triangolo $\triangle ABC$, mentre $\gamma_2$ e $\gamma_3$ sono entrambe tangenti alla circonferenza $CD$ e alla retta $\gamma$, una da ciascun lato della retta $CD$. Si dimostri che $\gamma_1, \gamma_2$ e $\gamma_3$ hanno una seconda tangente in comune.
+> Su $AB$, considerato come diametro, viene tracciato un arco semicircolare $\gamma$. $C$ è un punto di $\gamma$ diverso da $A$ e $B$, e $D$ è il piede della perpendicolare condotta da $C$ a $AB$. Si considerano tre circonferenze $\gamma_1, \gamma_2, \gamma_3$, tutte tangenti alla retta $AB$. Di queste, $\gamma_1$ è inscritta in $\triangle ABC$, mentre $\gamma_2$ e $\gamma_3$ sono entrambe tangenti a $CD$ e a $\gamma$, una da ciascun lato di $CD$. Dimostrare che $\gamma_1, \gamma_2$ e $\gamma_3$ hanno in comune una seconda tangente.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_imho_1969#q04|src_imho_1969__Q04]]
 
 
 
@@ -133,9 +161,16 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*n>4 punti, nessuno tre allineati, almeno C(n,2) quadrilateri convessi*
+*n>4 punti, nessun tre collineari, almeno C(n,2) quadrilateri convessi*
 
-> Siano dati $n > 4$ punti nel piano tali che nessuni tre siano allineati. Si dimostri che esistono almeno $\binom{n}{2}$ quadrilateri convessi i cui vertici sono quattro dei punti dati.
+> Siano dati $n > 4$ punti nel piano tali che nessun tre siano allineati. Dimostrare che esistono almeno $\binom{n}{2}$ quadrilateri convessi i cui vertici siano quattro dei punti dati.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+
+[[Quesiti/src_imho_1969#q05|src_imho_1969__Q05]]
 
 
 
@@ -160,8 +195,15 @@ level: IMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Disuguaglianza per numeri reali, determinare le condizioni di uguaglianza*
+*Disuguaglianza per i numeri reali: trovare le condizioni di uguaglianza*
 
-> Si dimostri che per tutti i numeri reali $x_1, x_2, y_1, y_2, z_1, z_2$ con $x_1 > 0$, $x_2 > 0$, $x_1 y_1 - z_1^2 > 0$, $x_2 y_2 - z_2^2 > 0$, vale la disuguaglianza
-> $$\frac{8}{(x_1 + x_2)(y_1 + y_2) - (z_1 + z_2)^2} \le \frac{1}{x_1 y_1 - z_1^2} + \frac{1}{x_2 y_2 - z_2^2}$$.
-> Fornire le condizioni necessarie e sufficienti perché valga l'uguaglianza.
+> Dimostrare che, per tutti i numeri reali $x_1, x_2, y_1, y_2, z_1, z_2$ con $x_1 > 0$, $x_2 > 0$, $x_1 y_1 - z_1^2 > 0$, $x_2 y_2 - z_2^2 > 0$, vale la disuguaglianza
+> $$\frac{8}{(x_1 + x_2)(y_1 + y_2) - (z_1 + z_2)^2} \le \frac{1}{x_1 y_1 - z_1^2} + \frac{1}{x_2 y_2 - z_2^2}$$
+> Dai le condizioni necessarie e sufficienti per l'uguaglianza.
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_imho_1969#q06|src_imho_1969__Q06]]

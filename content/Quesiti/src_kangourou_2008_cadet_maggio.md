@@ -33,15 +33,19 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Final turnout at the polls (increase in percentage)*
+*Final voter turnout (percentage increase)*
 
-> Elections for mayor of Kanguria are held every four years. Voters can exercise their right to vote in a single day.
-> 
-> Four years ago, voter turnout at 1 p.m. was $20\%$ of the eligible voters, and finally it was $70\%$.
-> 
-> This year the turnout recorded at 1 p.m. was $24\%$. What will the final turnout be if the habits of the population have not changed and the people who are comfortable voting in the afternoon can be expected to have the same interest in voting as the people who are comfortable voting in the morning?
+> The election of the mayor of Kanguria is held every 4 years. Voters can exercise their right to vote on only one day.
+>
+> Four years ago, the voter turnout recorded at 1 p.m. was $20\%$ of eligible voters, while at the end it was $70\%$.
+>
+> This year, the turnout recorded at 1 p.m. was $24\%$. What will the final turnout be if the population's habits have not changed and, for the portion of the population for whom it is convenient to vote in the afternoon, the same interest in voting can be expected as was shown by the portion of the population for whom it is convenient to vote in the morning?
 
-**Answer:** 84%
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_cadet_maggio#qc1|src_kangourou_2008_cadet_maggio__QC1]]
 
 
 
@@ -67,13 +71,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Subset with sum/difference divisible by 10*
+*Subset whose sum/difference is divisible by 10*
 
-> Suppose you have randomly extracted ten positive integers: can you always choose some of them so that, by appropriately interpolating between the chosen sum or difference marks, the result of the operation is a number divisible by $10$?
-> 
-> If so, how? If not, why?
+> Suppose you have randomly drawn ten positive integers: can you always choose some of them so that, by appropriately interspersing plus or minus signs among the chosen numbers, the result of the operation is a number divisible by $10$?
+>
+> If yes, how? If no, why?
 
-**Answer:** yes
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_cadet_maggio#qc2|src_kangourou_2008_cadet_maggio__QC2]]
 
 
 
@@ -106,13 +115,17 @@ level: kangourou
 
 ![[src_kangourou_2008_cadet_maggio__probc3.png]]
 
-> In the underlying grid the $=$ symbol cannot be removed, but two boxes can be removed so that the resulting equality is verified.
-> 
-> Write down that equation and explain why that equation is the only possible solution.
-> 
+> In the grid below, the symbol $=$ cannot be removed, but two cells can be removed so that the resulting equality holds.
+>
+> Write such an equality and explain why the one found is the only possible solution.
+>
 > $$1 \;\; 7 \;\; 3 \times ( 4 \;\; 5 + 2 \;\; 4 ) = 2 \;\; 0 \;\; 0 \;\; 7 + 3 \;\; 7$$
 
-**Answer:** 2044
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_cadet_maggio#qc3|src_kangourou_2008_cadet_maggio__QC3]]
 
 
 
@@ -141,13 +154,17 @@ level: kangourou
 
 *Find an infinite IMPERFECT set*
 
-> Call IMPERFECT a set $A$ of positive integers such that:
+> Call IMPERFETTO a set $A$ of positive integers such that:
 > - it consists of infinitely many numbers;
-> - however you choose a finite subset $B$ of that set, the sum of the numbers of $B$ is never the square of an integer.
-> 
-> Find at least one IMPERFECT set.
+> - whatever finite subset $B$ you choose from this set, the sum of the numbers in $B$ is never the square of an integer.
+>
+> Find at least one IMPERFETTO set.
 
-**Answer:** {2^(2k+1)}
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_insiemi_funzioni|Sets and functions]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2008_cadet_maggio#qc4|src_kangourou_2008_cadet_maggio__QC4]]
 
 
 
@@ -173,13 +190,18 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Even = odd subsets (999 and 1000 elements)*
+*Even subsets = odd (999 and 1000 elements)*
 
-> A set of $999$ elements is given. Show that its subsets formed by an odd number of elements are as many as those formed by an even number of elements. Then show that the same thing is true for a set of $1000$ elements.
-> 
-> (Note: both the given set and the empty set are to be counted among the subsets, the empty one obviously formed by an even number of elements.)
+> A set of $999$ elements is given. Show that the subsets of this set consisting of an odd number of elements are as many as those consisting of an even number of elements. Then show that the same holds for a set of $1000$ elements.
+>
+> (Note: both the given set and the empty set are to be regarded as subsets; the empty set, obviously, consists of an even number of elements.)
 
-**Answer:** proof
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2008_cadet_maggio#qc5|src_kangourou_2008_cadet_maggio__QC5]]
 
 
 
@@ -206,12 +228,16 @@ level: kangourou
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of area of triangle T to square C*
+*Ratio of the area of triangle T to the area of square C*
 
 ![[src_kangourou_2008_cadet_maggio__probc6.png]]
 
-> Five squares are arranged as shown in the figure: note in particular that there is a straight line that houses one side of each of the two smaller squares and a vertex of the square $C$.
-> 
-> What is the ratio of the area of the $T$ triangle to that of the $C$ square? (see figure)
+> Five squares are arranged as shown in the figure: note in particular that there is a straight line that contains one side of each of the two smaller squares and one vertex of square $C$.
+>
+> What is the ratio of the area of triangle $T$ to the area of square $C$? (see figure)
 
-**Answer:** 1
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2008_cadet_maggio#qc6|src_kangourou_2008_cadet_maggio__QC6]]

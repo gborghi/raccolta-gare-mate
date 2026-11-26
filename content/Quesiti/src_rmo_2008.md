@@ -28,9 +28,15 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*In triangolo acuto*
+*Intersezioni delle perpendicolari e raggio circoscritto nel triangolo acutangolo*
 
-> Il $ABC$ sia un triangolo a angolo acuto; $D$, $F$ siano rispettivamente i punti medi di $BC$ e $AB$. La perpendicolare da $F$ a $AC$ e la perpendicolare da $B$ a $BC$ si incontrano in $N$. Provare che $ND$ è il radio circostante di $ABC$.
+> Sia $ABC$ un triangolo acutangolo; siano $D$, $F$ i punti medi di $BC$, $AB$ rispettivamente. Siano $N$ il punto di incontro della perpendicolare condotta da $F$ a $AC$ e della perpendicolare condotta in $B$ a $BC$. Dimostrare che $ND$ è il raggio circoscritto di $ABC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_rmo_2008#q01|src_rmo_2008__Q01]]
 
 
 
@@ -57,9 +63,16 @@ level: RMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-Due sequenze infinite di numeri interi positivi che soddisfano quattro condizioni
+*Due successioni infinite di numeri interi positivi che soddisfano quattro condizioni*
 
-> Dimostrare che esistono due sequenze infinite $(a_n)_{n \ge 1}$ e $(b_n)_{n \ge 1}$ di numeri interi positivi in modo tale che le seguenti condizioni si applichino contemporaneamente: (i) $1 < a_1 < a_2 < a_3 < \cdots$; (ii) $a_n < b_n < a_n^2$, per tutti $n \ge 1$; (iii) $a_n - 1$ divide $b_n - 1$, per tutti $n \ge 1$; (iv) $a_n^2 - 1$ divide $b_n^2 - 1$, per tutti $n \ge 1$.
+> Dimostrare che esistono due successioni infinite $(a_n)_{n \ge 1}$ e $(b_n)_{n \ge 1}$ di interi positivi tali che le seguenti condizioni valgono simultaneamente: (i) $1 < a_1 < a_2 < a_3 < \cdots$; (ii) $a_n < b_n < a_n^2$, per ogni $n \ge 1$; (iii) $a_n - 1$ divide $b_n - 1$, per ogni $n \ge 1$; (iv) $a_n^2 - 1$ divide $b_n^2 - 1$, per ogni $n \ge 1$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2008#q02|src_rmo_2008__Q02]]
 
 
 
@@ -83,9 +96,16 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Cubico con tutte le radici reali positive: limiti sui coefficienti*
+*Cubiche con tutte le radici reali positive: limiti sui coefficienti*
 
-> Supponiamo che $a$ e $b$ siano numeri reali in modo tale che le radici dell'equazione cubica $ax^3 - x^2 + bx - 1 = 0$ siano tutti numeri reali positivi. Prove che: i) $0 < 3ab \le 1$ e ii) $b \ge \sqrt{3}$.
+> Siano $a$ e $b$ numeri reali tali che le radici dell'equazione cubica $ax^3 - x^2 + bx - 1 = 0$ siano tutte numeri reali positivi. Dimostrare che: (i) $0 < 3ab \le 1$ e (ii) $b \ge \sqrt{3}$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2008#q03|src_rmo_2008__Q03]]
 
 
 
@@ -108,9 +128,16 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Conta i numeri a 6 cifre con somma di 10 cifre, ognuno di 0,1,2,3 che appaiono almeno una volta*
+*Conta i numeri di 6 cifre con somma delle cifre pari a 10, in cui ciascuno dei numeri 0, 1, 2, 3 compare almeno una volta*
 
-> Trova il numero di tutti i numeri naturali a 6 cifre in modo tale che la somma dei loro numeri sia 10 e ognuno dei numeri $0, 1, 2, 3$ si verifichi almeno una volta in essi.
+> Determinare il numero di tutti i numeri naturali di 6 cifre tali che la somma delle loro cifre sia 10 e che ciascuna delle cifre $0, 1, 2, 3$ compaia almeno una volta in essi.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_rmo_2008#q04|src_rmo_2008__Q04]]
 
 
 
@@ -133,9 +160,16 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Progressione armonica di numeri interi positivi in aumento rigoroso con n=20, b divide c*
+*Progressione armonica di interi positivi strettamente crescenti con n=20, b divide c*
 
-> Si dice che tre numeri reali non zero $a$, $b$, $c$ siano in progressione armonica se $\frac{1}{a} + \frac{1}{c} = \frac{2}{b}$. Trovare tutte le progressioni armoniche a tre termini $a$, $b$, $c$ di enti interi positivi in aumento rigoroso in cui $a = 20$ e $b$ dividono $c$.
+> Tre numeri reali non nulli $a$, $b$, $c$ si dicono in progressione armonica se $\frac{1}{a} + \frac{1}{c} = \frac{2}{b}$. Trovare tutte le progressioni armoniche di tre termini $a$, $b$, $c$ formate da numeri interi positivi strettamente crescenti, in cui $a = 20$ e $b$ dividono $c$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_rmo_2008#q05|src_rmo_2008__Q05]]
 
 
 
@@ -158,6 +192,13 @@ Due sequenze infinite di numeri interi positivi che soddisfano quattro condizion
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i triangoli obtus con perimetro 2008*
+*Conta i triangoli isosceli ottusangoli a lati interi con perimetro 2008*
 
-> Trova il numero di tutti i triangoli con angolo obtuso con perimetro $2008$.
+> Trovare il numero di tutti i triangoli isosceli con i lati interi e angolo ottuso, aventi perimetro $2008$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_rmo_2008#q06|src_rmo_2008__Q06]]

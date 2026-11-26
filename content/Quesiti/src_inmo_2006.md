@@ -35,15 +35,22 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Triangolo con lati AP: IO perp BI, I circumcentro di DKE*
+*Triangolo con lati AP: IO perp BI, I centro della circonferenza circoscritta a DKE*
 
-> In un triangolo non equile $ABC$, i lati $a, b, c$ formano una progressione aritmetica. $I$ e $O$ indicano rispettivamente il centro e il circoncentro del triangolo.
-> 
-> (i) dimostrare che $IO$ è perpendicolare a $BI$.
-> 
-> (ii) Supponiamo che $BI$ si estenda a $AC$ in $K$, e $D$, $E$ sono rispettivamente i punti medi di $BC$ e $BA$. Prova che $I$ è il circoncentro del triangolo $DKE$.
+> In un triangolo non equilatero $ABC$, i lati $a, b, c$ formano una progressione aritmetica. Siano $I$ e $O$ rispettivamente l'incentro e il circocentro del triangolo.
+>
+> (i) Dimostrare che $IO$ è perpendicolare a $BI$.
+>
+> (ii) Si supponga che la retta $BI$ prolungata incontri la retta $AC$ in $K$, e che $D$, $E$ siano i punti medi di $BC$, $BA$ rispettivamente. Dimostrare che $I$ è il circocentro del triangolo $DKE$.
 
 ![[src_inmo_2006__q01.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2006#q01|src_inmo_2006__Q01]]
 
 
 
@@ -67,9 +74,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Un'unica coppia ordinata (a,b) che dà ogni numero intero positivo n*
+*Coppia ordinata unica (a,b) che fornisce ogni intero positivo n*
 
-> Prove che per ogni intero positivo $n$ esiste una coppia unica **** ordinata $(a, b)$ di interi positivi in modo tale che $$n = \frac{1}{2}(a + b - 1)(a + b - 2) + a.$$
+> Dimostrare che per ogni intero positivo $n$ esiste una **coppia ordinata** $(a, b)$ di interi positivi, **unica**, tale che
+> $$n = \frac{1}{2}(a + b - 1)(a + b - 2) + a.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2006#q02|src_inmo_2006__Q02]]
 
 
 
@@ -94,9 +109,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti i tripli interi (a,b,c) con l'equazione funzionale f((a,b,c))=(a,b,c)*
+*Trovare tutte le terne di interi (a,b,c) tali che valga l'equazione funzionale f(f(a,b,c))=(a,b,c)*
 
-> $X$ indichi l'insieme di tutti i triples $(a, b, c)$ di numeri interi. Definire una funzione $f : X \to X$ da $$f(a, b, c) = (a + b + c,\; ab + bc + ca,\; abc).$$ Trovare tutti i triples $(a, b, c)$ in $X$ in modo tale che $f(f(a, b, c)) = (a, b, c)$.
+> Sia $X$ l'insieme di tutte le triple $(a, b, c)$ di interi. Si definisca una funzione $f : X \to X$ mediante
+> $$f(a, b, c) = (a + b + c,\; ab + bc + ca,\; abc).$$
+> Si determinino tutte le triple $(a, b, c)$ in $X$ tali che $f(f(a, b, c)) = (a, b, c)$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2006#q03|src_inmo_2006__Q03]]
 
 
 
@@ -121,11 +145,18 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*46 quadrati rossi sulla lavagna 9x9: almeno 3 rossi in ogni blocco 2x2*
+*46 caselle rosse su una scacchiera 9x9: almeno 3 caselle rosse in ogni blocco 2x2*
 
-> Circa 46 quadrati di una lavagna $9 \times 9$ sono di colore rosso. Indicare che esiste un blocco $2 \times 2$ di 4 quadrati di cui almeno 3 di colore rosso.
+> Circa 46 caselle di una scacchiera $9 \times 9$ sono colorate di rosso. Dimostrare che esiste un blocco $2 \times 2$ di 4 caselle di cui almeno 3 sono colorate di rosso.
 
 ![[src_inmo_2006__q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_inmo_2006#q04|src_inmo_2006__Q04]]
 
 
 
@@ -154,15 +185,22 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*ABCD quadrilaterale ciclico con angolo di 120 gradi: due disuguaglianze*
+*Quadrilatero ciclico ABCD con angolo di 120 gradi: due disuguaglianze*
 
-> In un quadrilaterale ciclico $ABCD$, $AB = a$, $BC = b$, $CD = c$, $\angle ABC = 120^\circ$ e $\angle ABD = 30^\circ$. Prove questo .
-> 
+> In un quadrilatero ciclico $ABCD$, $AB = a$, $BC = b$, $CD = c$, $\angle ABC = 120^\circ$ e $\angle ABD = 30^\circ$. Dimostrare che
+>
 > (i) $c \ge a + b$;
-> 
+>
 > (ii) $|\sqrt{c + a} - \sqrt{c + b}| = \sqrt{c - a - b}$.
 
 ![[src_inmo_2006__q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_inmo_2006#q05|src_inmo_2006__Q05]]
 
 
 
@@ -189,8 +227,17 @@ level: INMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trova l'intero numero con n < l^2 < (1+1/2005)n per n >= 4011^2*
+*Trovare un intero l tale che n < l^2 < (1+1/2005)n per n >= 4011^2*
 
-> (a) Prova che se $n$ è un intero positivo tale che $n \ge 4011^2$, allora esiste un intero $l$ tale che $$n < l^2 < \left(1 + \frac{1}{2005}\right)n.$$
-> 
-> (b) Trovare il numero intero positivo $M$ più piccolo per il quale ogni volta che un numero intero $n$ è tale che $n \ge M$, esiste un numero intero $l$ tale che $$n < l^2 < \left(1 + \frac{1}{2005}\right)n.$$
+> (a) Dimostrare che, se $n$ è un numero intero positivo tale che $n \ge 4011^2$, allora esiste un numero intero $l$ tale che
+> $$n < l^2 < \left(1 + \frac{1}{2005}\right)n.$$
+>
+> (b) Trova il più piccolo numero intero positivo $M$ per cui, ogni volta che un numero intero $n$ è tale che $n \ge M$, esiste un numero intero $l$ tale che
+> $$n < l^2 < \left(1 + \frac{1}{2005}\right)n.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+
+[[Quesiti/src_inmo_2006#q06|src_inmo_2006__Q06]]

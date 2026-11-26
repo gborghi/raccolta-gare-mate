@@ -33,13 +33,20 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Numeri quadrati: la somma di cifre è un quadrato perfetto*
+*Numeri al quadrato: la somma delle cifre è un quadrato perfetto*
 
-> Diciamo che un intero positivo è *quadradoso* (quadrato) quando la somma delle sue cifre è un quadrato perfetto. Ad esempio, i numeri 211 e 10 sono quadrati, perché $2+1+1=2^2$ e $1+0=1^2$.
-> 
-> a) Qual è il numero quadrato più piccolo maggiore del 2021?
-> 
-> b) Qual è il numero quadrato più grande senza numeri ripetuti?
+> Diciamo che un numero intero positivo è *quadradoso* (quadratico) quando la somma delle sue cifre è un quadrato perfetto. Ad esempio, i numeri 211 e 10 sono quadratici, perché $2+1+1=2^2$ e $1+0=1^2$.
+>
+> a) Qual è il più piccolo numero quasi quadrato maggiore di 2021?
+>
+> b) Qual è il più grande numero quasi quadrato senza cifre ripetute?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2021_n1_fx#q01|src_obm_2021_n1_fx__Q01]]
 
 
 
@@ -62,9 +69,16 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare triples di numeri interi positivi con condizioni di divisibilità*
+*Conta le terne di interi positivi che soddisfano condizioni di divisibilità*
 
-> Quanti triples di integri positivi $(a, b, c)$ con $a < b < c$ sono tali che $a$ sia un divisore di $b$, $b$ sia un divisore di $c$ e $a + b + c \le 20$?
+> Quante triple di interi positivi $(a, b, c)$ con $a < b < c$ esistono tali che $a$ sia un divisore di $b$, $b$ sia un divisore di $c$ e $a + b + c \le 20$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2021_n1_fx#q02|src_obm_2021_n1_fx__Q02]]
 
 
 
@@ -95,17 +109,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Due lotti adiacenti: perimetri, area di prato, passaggio di superficie uguale*
+*Due lotti adiacenti: perimetri, area del prato, passaggio di uguale superficie*
 
-> Pedro ha due lotti adiacenti  uno rettangolare e uno quadrato  entrambi rivolti verso una strada. Ogni lotto ha una superficie di $400\,\text{m}^2$. Costruì un muro lungo la parte anteriore di entrambi i lotti, lungo 36 m in totale (la linea più spessa nella figura).
-> 
-> a) Quali sono i perimetri (cioè la somma delle lunghezze laterali) di ciascun lotto?
-> 
-> b) Pedro realizzò un prato di 2 metri di larghezza, che corse lungo il muro e il lato del terreno quadrato, come mostrato nella figura. Qual è la superficie totale di questo prato?
-> 
-> c) Pedro vuole dare il lotto ai suoi due figli, José e João. Poiché José non vuole il prato, ma João vuole un passaggio di larghezza $x$ attraverso il terreno di José, come indicato nella figura, lasciando il resto del prato a João. Pedro costruirà una recinzione, calcolando $x$ in modo tale che le superfici dei due lotti rimangano uguali. Qual è il valore di $x$?
+> Pedro possiede due lotti adiacenti — uno rettangolare e uno quadrato — entrambi prospicienti una strada. Ciascun lotto ha un'area di $400\,\text{m}^2$. Ha costruito un muro lungo la facciata anteriore di entrambi i lotti, per una lunghezza complessiva di 36 m (la linea più spessa nella figura).
+>
+> a) Quali sono i perimetri (ossia le somme delle lunghezze dei lati) di ciascun lotto?
+>
+> b) Pedro ha realizzato un prato largo 2 m, che corre lungo il muro e il lato del lotto quadrato, come mostrato nella figura. Qual è l'area totale di questo prato?
+>
+> c) Pedro vuole dare i lotti ai suoi due figli, José e João. Poiché José non vuole il prato, ma João vuole un passaggio di larghezza $x$ attraverso il lotto di José, come indicato nella figura, lasciando a João il resto del prato. Pedro costruirà una recinzione, calcolando $x$ in modo che le aree dei due lotti rimangano uguali. Quale dovrebbe essere il valore di $x$?
 
 ![[src_obm_2021_n1_fx__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2021_n1_fx#q03|src_obm_2021_n1_fx__Q03]]
 
 
 
@@ -136,17 +157,24 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Studenti che aprono casili: doppio mod 2021, contare i casili aperti*
+*Studenti che aprono gli armadietti: raddoppi mod 2021, conta gli armadietti aperti*
 
-> In una certa scuola ci sono 2021 armadietti numerati dal 1 al 2021. Un certo giorno, 2021 studenti hanno deciso di giocare a un gioco. Inizialmente, tutti gli armadi erano chiusi. Gli studenti si schierarono in ordine davanti ai armadietti. Lo studente numero 1 è stato chiamato primo, lo studente numero 2 secondo, e così via, fino allo studente 2021.
-> 
-> Quando arriva lo studente $i$, se locker $i$ è chiuso lo apre, e se è aperto lo chiude; quindi registra il numero del locker che ha modificato e ripete il seguente processo: raddoppia il numero dell'ultimo locker modificato; se il risultato è superiore al 2021, sottrae il 2021 dal risultato ottenuto, e apre o chiude il locker il cui numero è il nuovo risultato. Per esempio, lo studente 1 cambia i cacciatorni $1, 2, 4, 8, \ldots, 512, 1024$. Quando raddoppiamo 1024 otteniamo 2048, e $2048 - 2021 = 27$, quindi successivamente cambia lo scrigno 27. Lo studente prosegue fino al risultato del 2021, momento in cui cambia locker 2021 e termina la sua partecipazione. Quando lo studente 1 raggiunge il 2048 ottiene il 2048 e $2048 - 2021 = 27$, quindi la sequenza è $1, 2, 4, 8, \ldots, 512, 1024, 27, 54, \ldots$ e termina nel 2021. Doppiando raggiungiamo il 2048 in $2048 - 2021 = 27$, e così via, terminando allo studente 2048, concludendo la partecipazione dello studente 1.
-> 
-> a) Dopo il passaggio dello studente 16, quali cassonette numerate da 1 a 16 sono aperte?
-> 
-> b) Scrivere le fatturazioni prime dei numeri elencati nella voce precedente.
-> 
-> c) Dopo che tutti gli studenti del 2021 sono passati, quanti armadietti sono aperti?
+> In una certa scuola ci sono 2021 armadietti numerati da 1 a 2021. In un certo giorno, 2021 studenti decisero di giocare a un gioco. Inizialmente, tutti gli armadietti erano chiusi. Gli studenti si misero in fila, in ordine, davanti agli armadietti. Lo studente numero 1 fu chiamato per primo, lo studente numero 2 per secondo, e così via, fino allo studente 2021.
+>
+> Quando lo studente $i$ arriva, se l'armadietto $i$ è chiuso lo apre, e se è aperto lo chiude; poi registra il numero dell'armadietto che ha modificato e ripete il seguente procedimento: raddoppia il numero dell'ultimo armadietto modificato; se il risultato è maggiore di 2021, sottrae 2021 dal risultato ottenuto e apre o chiude l'armadietto il cui numero è il nuovo risultato. Ad esempio, lo studente 1 modifica gli armadietti $1, 2, 4, 8, \ldots, 512, 1024$. Raddoppiando 1024 si ottiene 2048, e $2048 - 2021 = 27$, quindi successivamente modifica l'armadietto 27. Lo studente continua finché il risultato non è 2021; a quel punto modifica l'armadietto 2021 e termina la propria partecipazione. Quando lo studente 1 raggiunge 2048, ottiene 2048 e $2048 - 2021 = 27$, quindi la sequenza è $1, 2, 4, 8, \ldots, 512, 1024, 27, 54, \ldots$ e termina a 2021. Raddoppiando si raggiunge 2048 in $2048 - 2021 = 27$, e così via, fino a concludersi con lo studente 2048, ponendo fine alla partecipazione dello studente 1.
+>
+> a) Dopo che lo studente 16 è passato, quali armadietti numerati da 1 a 16 sono aperti?
+>
+> b) Scrivi le scomposizioni in fattori primi dei numeri elencati nel punto precedente.
+>
+> c) Dopo che tutti gli studenti del 2021 hanno superato l'esame, quante armadietti sono aperti?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2021_n1_fx#q04|src_obm_2021_n1_fx__Q04]]
 
 
 
@@ -181,18 +209,25 @@ level: OBM Nível 1
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Lock di codice con n pulsanti: pressioni minime per garantire l'apertura*
+*Serratura a codice con n pulsanti: numero minimo di pressioni per garantire l'apertura*
 
-> Un certo negozio vende modelli di casseforti con serrature a codice che hanno pulsanti $n$ numerati da 1 a $n$ e un pulsante $C$ per avviare.
-> 
-> La password per aprire la cassaforte è un sottogruppo non vuoto del set $\{1, 2, \ldots, n\}$. Per aprirlo, la persona deve premere $C$ e quindi inserire una sequenza che forma la password. Se la cassaforte non si apre, la persona può premere di nuovo $C$ e provare una nuova sequenza.
-> 
-> Per esempio, per $n = 4$, se qualcuno premesse la sequenza $C413$, la cassaforte è aperta se la password è $\{4\}, \{1\}, \{3\}, \{4,1\}, \{1,3\}, \{4,1,3\}$ o $\{4,1,3,\ldots\}$  l'ordine degli elementi non importa. Se la cassaforte non si apre, la persona può premere di nuovo $C$ e continuare il test. Un nuovo tentativo potrebbe essere la sequenza $C3412$, che aprirebbe la cassaforte se la password è $\{3\}, \{4\}, \{1\}, \{2\}, \{3,4\}, \{4,1\}, \{1,2\}, \{3,4,1\}, \{4,1,2\}$ o $\{3,4,1,2\}$.
-> 
-> Per alcuni valori di $n$, ciò che conta è il minor numero di volte che una persona deve premere i pulsanti per garantire che la cassaforte sia aperta. Per esempio, per $n = 2$ è necessario premere 5 volte e la sequenza $C12C2$ copre tutte le possibilità: $\{1\}$ o $\{2\}$ o $\{1,2\}$  e la sequenza $C12C2$ copre tutti questi sottoinsiemi. È necessario premere $C$ 2 volte di più, i pulsanti $C1$ o $C2$, per testare il sottogruppo $\{1,2\}$ più 2 pulsanti $C1$ o $C2$, per testare l'elemento. È necessario premere 3 pulsanti per testare $\{1,2\}$ e altre 2 pulsanti per $\{1\}$ o $\{2\}$ da solo con $C2$, coprendo tutte le possibilità.
-> 
-> *Attenzione: * Per ogni elemento è necessario presentare una sequenza con il numero minimo di presse che si trovano e dimostrare che premendo meno volte c'è sempre una combinazione che non viene testata.
-> 
-> a) Per $n = 3$, qual è il numero minimo di volte che occorre premere i pulsanti $C$, 1, 2 e 3 per garantire l'apertura della cassaforte?
-> 
-> b) Per $n = 4$, qual è il numero minimo di volte che è necessario premere i pulsanti $C$, 1, 2, 3 e 4 per garantire l'apertura della cassaforte?
+> Un certo negozio vende modelli di casseforti con serrature a codice che hanno $n$ pulsanti numerati da 1 a $n$ e un pulsante $C$ per avviare.
+>
+> La password per aprire la cassaforte è un sottoinsieme non vuoto dell'insieme $\{1, 2, \ldots, n\}$. Per aprirla, la persona deve premere $C$ e poi inserire una sequenza che costituisca la password. Se la cassaforte non si apre, la persona può premere di nuovo $C$ e provare una nuova sequenza.
+>
+> Ad esempio, per $n = 4$, se qualcuno preme la sequenza $C413$, la cassaforte si apre se la password è $\{4\}, \{1\}, \{3\}, \{4,1\}, \{1,3\}, \{4,1,3\}$ o $\{4,1,3,\ldots\}$: l'ordine degli elementi non conta. Se la cassaforte non si apre, la persona può premere di nuovo $C$ e continuare a provare. Un nuovo tentativo potrebbe essere la sequenza $C3412$, che aprirebbe la cassaforte se la password è $\{3\}, \{4\}, \{1\}, \{2\}, \{3,4\}, \{4,1\}, \{1,2\}, \{3,4,1\}, \{4,1,2\}$ o $\{3,4,1,2\}$.
+>
+> Per alcuni valori di $n$, ciò che conta è il numero minimo di volte in cui una persona deve premere i pulsanti per garantire che la cassaforte venga aperta. Ad esempio, per $n = 2$, è necessario premere 5 volte e la sequenza $C12C2$ copre tutte le possibilità: $\{1\}$ oppure $\{2\}$ oppure $\{1,2\}$ — e la sequenza $C12C2$ copre tutti questi sottoinsiemi. Devi premere $C$ altre 2 volte, i pulsanti $C1$ oppure $C2$, per testare il sottoinsieme $\{1,2\}$, più altre 2 pressioni di pulsante $C1$ oppure $C2$, per testare l'elemento. Devi premere 3 pulsanti per testare $\{1,2\}$ e altre 2 pressioni per $\{1\}$ oppure $\{2\}$ da soli con $C2$, coprendo tutte le possibilità.
+>
+> *Attenzione:* Per ogni elemento, devi presentare una sequenza con il numero minimo di pressioni che hai trovato e dimostrarlo mostrando che, premendo meno volte, c'è sempre qualche combinazione che non viene testata.
+>
+> a) Per $n = 3$, qual è il numero minimo di volte in cui i pulsanti $C$, 1, 2 e 3 devono essere premuti per garantire che la cassaforte venga aperta?
+>
+> b) Per $n = 4$, qual è il numero minimo di volte in cui i pulsanti $C$, 1, 2, 3 e 4 devono essere premuti per garantire che la cassaforte venga aperta?
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2021_n1_fx#q05|src_obm_2021_n1_fx__Q05]]

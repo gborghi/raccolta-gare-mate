@@ -29,9 +29,16 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Midpoints from equilateral triangles form regular dodecagon*
+*Midpoints of segments in a square with four interior equilateral triangles form a regular dodecagon*
 
-> The equilateral triangles $ABK$, $BCL$, $CDM$, $DAN$ are constructed within the square $ABCD$. Demonstrate that the mean points of the four segments $KL$, $LM$, $MN$, $NK$ and the mean points of the eight segments $AK$, $BK$, $BL$, $CL$, $CM$, $DM$, $DN$, $AN$ are the twelve vertices of a regular dodecahedron.
+> Equilateral triangles $ABK$, $BCL$, $CDM$, $DAN$ are constructed inside the square $ABCD$. Prove that the midpoints of the four segments $KL$, $LM$, $MN$, $NK$ and the midpoints of the eight segments $AK$, $BK$, $BL$, $CL$, $CM$, $DM$, $DN$, $AN$ are the twelve vertices of a regular dodecagon.
+
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Method:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1977_all#q01|src_imo_1977_all__Q01]]
 
 
 
@@ -53,9 +60,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*any 7 sum negative, any 11 sum positive*
+*Maximum length of a sequence whose 7-sums are negative and whose 11-sums are positive*
 
-> In a finite sequence of real numbers the sum of any seven successive terms is negative, and the sum of any eleven successive terms is positive. Determine the maximum number of terms in the sequence.
+> In a finite sequence of real numbers the sum of any seven consecutive terms is negative, and the sum of any eleven consecutive terms is positive. Determine the maximum number of terms of the sequence.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Method:** [[method_invarianti|Invariants / monovariants]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_1977_all#q02|src_imo_1977_all__Q02]]
 
 
 
@@ -77,9 +90,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Non-unique factorization into indecomposables in V_n*
+*An element of 1+kn with two distinct factorisations into irreducibles*
 
-> If $n$ is an integer $> 2$, and $V_n$ is the sum of the integers $1 + kn$, with $k = 1, 2, \ldots$. A $m \in V_n$ number is said to be *unbreakable* in $V_n$ if $p, q \in V_n$ numbers such as $pq = m$ do not exist. Demonstrate that there is a number $r \in V_n$ that can be expressed as the product of elements that cannot be broken down into $V_n$ in more than one way. (Products which differ only in order of factors are considered to be the same.)
+> Let $n$ be a given integer $> 2$, and let $V_n$ be the set of integers $1 + kn$, with $k = 1, 2, \ldots$. A number $m \in V_n$ is called *indecomposable* in $V_n$ if there do not exist numbers $p, q \in V_n$ such that $pq = m$. Prove that there exists a number $r \in V_n$ that can be expressed as a product of elements indecomposable in $V_n$ in more than one way. (Products that differ only in the order of the factors are regarded as the same.)
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_1977_all#q03|src_imo_1977_all__Q03]]
 
 
 
@@ -104,9 +123,18 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-*f(theta)>=0 implies a^2+b^2<=2 and A^2+B^2<=1*
+*Bounds on the coefficients of a non-negative trigonometric polynomial*
 
-> Show that if $f(\theta) \geq 0$ for every real $\theta$, then $$a^2 + b^2 \leq 2 \quad \text{e} \quad A^2 + B^2 \leq 1.$$
+> Let four real constants $a, b, A, B$ be given, and let
+> $$f(\theta) = 1 - a\cos\theta - b\sin\theta - A\cos 2\theta - B\sin 2\theta.$$
+> Prove that if $f(\theta) \geq 0$ for every real $\theta$, then
+> $$a^2 + b^2 \leq 2 \quad \text{e} \quad A^2 + B^2 \leq 1.$$
+
+**Topic:** [[topic_trigonometria|Trigonometry]], [[topic_disuguaglianze|Inequalities]]
+**Method:** [[method_disuguaglianze|Classical inequalities]], [[method_trigonometria|Trigonometric techniques]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+[[Quesiti/src_imo_1977_all#q04|src_imo_1977_all__Q04]]
 
 
 
@@ -128,9 +156,15 @@ level: IMO
 <div class="qlang-split" data-lang="en"></div>
 
 
-Find pairs (a,b) with q^2+r=1977 for a^2+b^2 over a+b*
+*Pairs of positive integers whose quotient and remainder on dividing a²+b² by a+b satisfy q²+r = 1977*
 
-> The values of $a$ and $b$ are positive integers. When $a^2 + b^2$ is divided by $a + b$, the quotient is $q$ and the rest is $r$. Find all pairs $(a, b)$ such as $q^2 + r = 1977$.
+> Let $a$ and $b$ be positive integers. When $a^2 + b^2$ is divided by $a + b$, the quotient is $q$ and the remainder is $r$. Find all pairs $(a, b)$ such that $q^2 + r = 1977$.
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Method:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_imo_1977_all#q05|src_imo_1977_all__Q05]]
 
 
 
@@ -156,6 +190,16 @@ Find pairs (a,b) with q^2+r=1977 for a^2+b^2 over a+b*
 <div class="qlang-split" data-lang="en"></div>
 
 
-*f(n+1)>f(f(n)) implies f(n) =n for all n*
+*A function on the positive integers with f(n+1) > f(f(n)) is the identity*
 
-> Whether $f(n)$ is a function defined on the set of all positive integers and with values in the same set. Show that if $$f(n+1) > f(f(n))$$ for every positive integer $n$, then $$f(n) = n \quad \text{per ogni } n.$$
+> Let $f(n)$ be a function defined on the set of all positive integers and taking values in the same set. Prove that if
+> $$f(n+1) > f(f(n))$$
+> for every positive integer $n$, then
+> $$f(n) = n \quad \text{for every } n.$$
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Method:** [[method_estremalita|Extremal principle]], [[method_induzione|Induction]]
+**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_imo_1977_all#q06|src_imo_1977_all__Q06]]

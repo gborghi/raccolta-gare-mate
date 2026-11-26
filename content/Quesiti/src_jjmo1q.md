@@ -29,9 +29,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Calcolare un'espressione aritmetica decimale*
+*Il valore di 18,6÷31 − 2,604÷3,1 − 0,8556÷0,31*
 
-> Calcolare la seguente espressione: $$18.6 \div 31 - 2.604 \div 3.1 - 0.8556 \div 0.31$$
+> Calcolare l'espressione seguente:
+> $$18.6 \div 31 - 2.604 \div 3.1 - 0.8556 \div 0.31$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
+
+[[Quesiti/src_jjmo1q#q01|src_jjmo1q__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Solvi un sistema simmetrico di tre equazioni lineari in x, y, z*
+*Risolvi un sistema simmetrico di tre equazioni lineari in x, y, z*
 
-> Trova tutti i numeri reali $x, y, z$ che soddisfano contemporaneamente tutte e tre le seguenti equazioni: $$\begin{cases} y + z = 3 \\ x + z = 5 \\ x + y = 4 \end{cases}$$
+> Trovare tutti i numeri reali $x, y, z$ che soddisfano simultaneamente tutte e tre le seguenti equazioni:
+> $$\begin{cases} y + z = 3 \\ x + z = 5 \\ x + y = 4 \end{cases}$$
+
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_jjmo1q#q02|src_jjmo1q__Q02]]
 
 
 
@@ -83,11 +97,20 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Rileva il rapporto DS/SR utilizzando due ceviani in un parallelo*
+*Trovare il rapporto DS/SR utilizzando due ceviane in un parallelogramma*
 
-> Nel parallelo $ABCD$, due punti $P$ e $Q$ sono posizionati sul lato $BC$ in modo tale che $$BP : PQ : QC = 3 : 2 : \sqrt{7}.$$ $R$ sia l'intersezione della linea $AP$ con la linea $CD$, e $S$ sia l'intersezione della linea $AQ$ con la linea $CD$. Trova il valore di $\dfrac{DS}{SR}$.
+> Nel parallelogramma $ABCD$, due punti $P$ e $Q$ sono posti sul lato $BC$ in modo che
+> $$BP : PQ : QC = 3 : 2 : \sqrt{7}.$$
+> Sia $R$ l'intersezione della retta $AP$ con la retta $CD$, e sia $S$ l'intersezione della retta $AQ$ con la retta $CD$. Determinare il valore di $\dfrac{DS}{SR}$.
 
 ![[src_jjmo1q__q03.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo1q#q03|src_jjmo1q__Q03]]
 
 
 
@@ -112,11 +135,18 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare le camminate chiuse sul tetraedro regolare che ritornano all'inizio dopo aver visitato tutti i vertici*
+*Conta i cammini chiusi sul tetraedro regolare che tornano al punto di partenza dopo aver visitato tutti i vertici*
 
-> In un tetraedro regolare $ABCD$, partendo dal vertice $A$, attraversiamo i bordi uno alla volta, ogni volta che ci muoviamo verso uno degli altri tre vertici. Vogliamo tornare a $A$ dopo aver visitato le tre vertici rimanenti $B$, $C$, $D$ ciascuna esattamente una volta (per cui il percorso ha esattamente $4$ movimenti). Quanti sono questi sentieri?
+> In un tetraedro regolare $ABCD$, partendo dal vertice $A$, percorriamo gli spigoli uno alla volta, spostandoci ogni volta verso uno degli altri tre vertici. Vogliamo tornare a $A$ dopo aver visitato ciascuno dei restanti tre vertici $B$, $C$, $D$ esattamente una volta (cosicché il percorso abbia esattamente $4$ mosse). Quante di tali traiettorie esistono?
 
 ![[src_jjmo1q__q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo1q#q04|src_jjmo1q__Q04]]
 
 
 
@@ -139,9 +169,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare i numeri interi da 1 a 2003 con un numero pari di divisori positivi*
+*Conta gli interi da 1 a 2003 che hanno un numero pari di divisori positivi*
 
-> Tra gli integri da $1$ a $2003$, quanti hanno un numero pari di divisori positivi? Ad esempio, $6$ ha divisori positivi $1, 2, 3, 6$ (quattro in totale), quindi $6$ soddisfa questa condizione.
+> Tra gli interi da $1$ a $2003$, quanti hanno un numero pari di divisori positivi? Ad esempio, $6$ ha come divisori positivi $1, 2, 3, 6$ (quattro in totale), quindi $6$ soddisfa questa condizione.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo1q#q05|src_jjmo1q__Q05]]
 
 
 
@@ -164,9 +201,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'area del triangolo DBC dato punto e distanze correlate all'incircolo sul ceviano*
+*Trovare l'area del triangolo DBC dato un punto relativo all'incircolo e le distanze sulla ceviana*
 
-> Il triangolo $ABC$ deve soddisfare $AB = AC = 5$ e $BC = 6$. All'interno del triangolo, prendere un punto $D$ sul circolo del triangolo $ABC$. Il segmento $AD$ deve incontrare lato $AB$ a $E$ e lato $AC$ a $F$ (così $E$ si trova su $AB$ e $F$ si trova su $AC$, con $D$ tra $E$ e $F$). Date $DE = 1$ e $DF = 2$, si trova l'area del triangolo $DBC$.
+> Sia il triangolo $ABC$ tale che valgano $AB = AC = 5$ e $BC = 6$. All'interno del triangolo, si prenda un punto $D$ sull'incirconferenza del triangolo $ABC$. Sia il segmento $AD$ tale che incontri il lato $AB$ in $E$ e il lato $AC$ in $F$ (cosicché $E$ giace su $AB$ e $F$ giace su $AC$, con $D$ compreso tra $E$ e $F$). Dati $DE = 1$ e $DF = 2$, si determini l'area del triangolo $DBC$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo1q#q06|src_jjmo1q__Q06]]
 
 
 
@@ -189,9 +233,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutte le lunghezze laterali possibili di un poligono convexo quando un lato è 18*
+*Trovare tutte le possibili lunghezze dei lati, espresse da numeri interi, di un poligono convesso quando un lato misura 18*
 
-> Considera un poligono convex le cui lunghezze laterali sono tutti integri positivi, e in cui un lato ha lunghezza $18$. Trova tutti i valori che possono verificarsi come lunghezza laterale di un tale poligono (cioè, trova tutti gli enti positivi che possono essere la lunghezza di qualche lato).
+> Si consideri un poligono convesso in cui tutte le lunghezze dei lati sono numeri interi positivi e in cui un lato ha lunghezza $18$. Determinare tutti i valori che possono comparire come lunghezza di un lato di un tale poligono (ossia determinare tutti i numeri interi positivi che possono essere la lunghezza di qualche lato).
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo1q#q07|src_jjmo1q__Q07]]
 
 
 
@@ -214,9 +265,16 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca l'area di un quadrilaterale con i lati dati e l'angolo di intersezione diagonale 45°*
+*Trovare l'area di un quadrilatero con i lati dati e un angolo di intersezione delle diagonali di 45°*
 
-> Il quadrilaterale $ABCD$ soddisfa $AB = 3$, $BC = 4$, $CD = 6$, $DA = 6$. Le diagonali $AC$ e $BD$ si intersecano ad un angolo di $45^\circ$. Trova l'area di questo quadrilaterale.
+> Il quadrilatero $ABCD$ soddisfa $AB = 3$, $BC = 4$, $CD = 6$, $DA = 6$. Le diagonali $AC$ e $BD$ si intersecano formando un angolo di $45^\circ$. Determinare l'area di questo quadrilatero.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo1q#q08|src_jjmo1q__Q08]]
 
 
 
@@ -240,9 +298,17 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Contare 4 tupli di integri positivi che soddisfano due equazioni simmetriche*
+*Conta le 4-tuple di interi positivi che soddisfano due equazioni simmetriche*
 
-> Trova il numero di 4 tupli $(a, b, c, d)$ di numeri interi positivi che soddisfano il sistema: $$\begin{cases} a + b = cd \\ c + d = ab \end{cases}$$
+> Trovare il numero di 4-tuple $(a, b, c, d)$ di interi positivi che soddisfano il sistema:
+> $$\begin{cases} a + b = cd \\ c + d = ab \end{cases}$$
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo1q#q09|src_jjmo1q__Q09]]
 
 
 
@@ -271,9 +337,20 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca il volume del pezzo contenente il vertice A quando il cubo unitario è tagliato per tre piani medi attraverso il centro*
+*Trovare il volume del pezzo che contiene il vertice A quando il cubo unitario viene tagliato da tre piani medianti che passano per il centro*
 
-> Un cubo $ABCD$-$EFGH$ di lunghezza laterale $1$ ha il centro $O$ (l'intersezione delle sue quattro diagonali spaziali). Il cubo viene tagliato dai seguenti tre piani, ciascuno attraversando $O$: \begin{itemize} \item Il piano attraversando i bordi $BC$ e $AD$ (due bordi opposte di una faccia) attraversando $O$. \item Il piano attraverso i bordi $CA$ e $BD$ che attraversa $O$. \item Il piano attraverso i bordi $AB$ e $CD$ che attraversa $O$. Il cubo è quindi diviso in diversi solidi. Trova il volume del solido contenente il vertice $A$.
+> Un cubo $ABCD$-$EFGH$ di lato $1$ ha centro $O$ (l'intersezione delle sue quattro diagonali spaziali). Il cubo viene tagliato dai seguenti tre piani, ciascuno dei quali passa per $O$:
+> \begin{itemize}
+> \item Il piano che contiene i spigoli $BC$ e $AD$ (due spigoli opposti di una faccia) e passa per $O$. \item Il piano che contiene i spigoli $CA$ e $BD$ e passa per $O$. \item Il piano che contiene i spigoli $AB$ e $CD$ e passa per $O$.
+> \end{itemize}
+> In questo modo, il cubo viene suddiviso in diversi solidi. Determinare il volume del solido che contiene il vertice $A$.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_jjmo1q#q10|src_jjmo1q__Q10]]
 
 
 
@@ -312,23 +389,32 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Fill-in-the-blank: operazioni su coppie di numeri interi, prodotti raggiungibili e valori estremi*
+*Completamento: operazioni su coppie di interi, prodotti ottenibili e valori estremali*
 
-> Riempire ciascuna casella $\boxed{\phantom{X}}$ con il numero appropriato.
-> 
-> Considera una coppia $(x, y)$ in cui $x$ e $y$ sono integri positivi. Consideriamo due operazioni:
-> 
-> **(A) ** Scegliere un intero positivo $a$ con $a \le y$; sostituire $(x, y)$ con $\left(ax,\, \dfrac{y}{a}\right)$. (Questo richiede $a \mid y$.)
-> 
-> **(B) ** Rimpiazzare $(x, y)$ con $(x + 1,\, y + 1)$.
-> 
-> A partire da $(1, 1)$, applicare ripetutamente queste due operazioni. Ad esempio: applicare (B) dà $(2, 2)$; applicare (A) con $a = \tfrac{3}{2}$... l'esempio continua a mostrare che dall'applicazione di $(1,1)$ (B) si ottiene $(2,2)$, poi (A) con $a = \tfrac{3}{2}$ si ottiene $\left(3, \tfrac{4}{3}\right)$...
-> 
-> *(Nota: l'operazione (A) non modifica il prodotto $xy$; l'operazione (B) lo modifica.) *
-> 
-> Il problema richiede di determinare, tra tutte le coppie raggiungibili da $(1,1)$ con queste operazioni, il prodotto massimo $xy$ che è un quadrato perfetto $k^2$, soggetto alla limitazione che l'operazione (B) sia utilizzata al massimo $3$ volte nel totale. Riempire i vuoti:
-> 
-> 1. L'applicazione di (A) non modifica $xy$; dopo una sola applicazione di (B) il prodotto aumenta. Se prima di applicare (B) la coppia ha prodotto $xy = k^2$, il nuovo prodotto è al massimo $\boxed{\phantom{XX}}$ e almeno $\boxed{\phantom{XX}}$. 2. Per $k \ge 1$, il numero di coppie $(x, y)$ con $xy = k^2$ raggiungibili da $(1,1)$ è massimo $\boxed{\phantom{XX}}$. 3. Quando (B) viene applicato esattamente $\mathbf{3}$ volte, il prodotto massimo $xy$ (che deve essere un quadrato perfetto) è $\boxed{\phantom{XX}}$ se il massimo viene preso in tutte queste sequenze. Le due coppie che raggiungono i due prodotti a quadrato perfetto più grandi sono $\big(\boxed{\phantom{X}},\, \boxed{\phantom{X}}\big)$ e $\big(\boxed{\phantom{X}},\, \boxed{\phantom{X}}\big)$, e questi non possono essere raggiunti con meno di $3$ applicazioni di (B).
+> Riempi ogni casella $\boxed{\phantom{X}}$ con il numero appropriato.
+>
+> Si consideri una coppia $(x, y)$ in cui $x$ e $y$ sono numeri interi positivi. Si considerano due operazioni:
+>
+> **(A)** Scegliere un numero intero positivo $a$ con $a \le y$; sostituire $(x, y)$ con $\left(ax,\, \dfrac{y}{a}\right)$. (Questo richiede $a \mid y$.)
+>
+> **(B)** Sostituire $(x, y)$ con $(x + 1,\, y + 1)$.
+>
+> Partendo da $(1, 1)$, applicare ripetutamente queste due operazioni. Ad esempio: applicando (B) si ottiene $(2, 2)$; applicando (A) con $a = \tfrac{3}{2}$... l'esempio prosegue mostrando che da $(1,1)$, applicando (B) si ottiene $(2,2)$, poi (A) con $a = \tfrac{3}{2}$ dà $\left(3, \tfrac{4}{3}\right)$... 
+>
+> *(Nota: l'operazione (A) non modifica il prodotto $xy$; l'operazione (B) lo modifica.)*
+>
+> Il problema chiede di determinare, tra tutte le coppie raggiungibili da $(1,1)$ mediante queste operazioni, il prodotto massimo $xy$ che sia un quadrato perfetto $k^2$, con il vincolo che l'operazione (B) venga usata al massimo $3$ volte in totale. Completa gli spazi vuoti:
+>
+> 1. Applicando (A) non si modifica $xy$; dopo una singola applicazione di (B) il prodotto aumenta. Se prima di applicare (B) la coppia ha prodotto $xy = k^2$, il nuovo prodotto è al massimo $\boxed{\phantom{XX}}$ e al minimo $\boxed{\phantom{XX}}$.
+> 2. Per $k \ge 1$, il numero di coppie $(x, y)$ con $xy = k^2$ raggiungibili da $(1,1)$ è al massimo $\boxed{\phantom{XX}}$.
+> 3. Quando (B) viene applicata esattamente $\mathbf{3}$ volte, il prodotto massimo $xy$ (che deve essere un quadrato perfetto) è $\boxed{\phantom{XX}}$ se il massimo viene preso su tutte le sequenze di questo tipo. Le due coppie che realizzano i due prodotti quadratici perfetti più grandi sono $\big(\boxed{\phantom{X}},\, \boxed{\phantom{X}}\big)$ e $\big(\boxed{\phantom{X}},\, \boxed{\phantom{X}}\big)$, e queste non possono essere ottenute con meno di $3$ applicazioni di (B).
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_jjmo1q#q11|src_jjmo1q__Q11]]
 
 
 
@@ -351,6 +437,13 @@ level: JJMO
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Trascorsi massimi in un torneo di scacchi a rotonda con 15 giocatori con tutti i record distinti*
+*Numero massimo di patte in un torneo di scacchi all'italiana a 15 giocatori, con tutti i risultati distinti*
 
-> In un torneo di scacchi, i giocatori $15$ giocano ciascuno contro ogni altro giocatore esattamente una volta. In ogni partita, il risultato è una vittoria per un giocatore (e una sconfitta per l'altro) o un pareggio per entrambi. Si è rivelato che nessun giocatore finisce con esattamente lo stesso record (cioè, tutti i giocatori hanno triplicato distintamente (numero di vittorie, numero di perdite, numero di pareggio)). Trova il numero massimo possibile di giochi sorte nel torneo.
+> In un torneo di scacchi, $15$ giocatori si affrontano ciascuno con tutti gli altri esattamente una volta. In ogni partita, il risultato è o una vittoria per un giocatore (e una sconfitta per l'altro) o una patta per entrambi. È risultato che nessun paio di giocatori ha concluso il torneo con lo stesso identico bilancio (cioè tutti i giocatori avevano triple distinte di (numero di vittorie, numero di sconfitte, numero di patte)). Determinare il numero totale massimo possibile di partite finite in parità nel torneo.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_jjmo1q#q12|src_jjmo1q__Q12]]

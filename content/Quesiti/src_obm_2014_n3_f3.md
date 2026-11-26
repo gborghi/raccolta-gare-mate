@@ -29,9 +29,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Quadrilatero converso con uguali radii di incircolo implica rombo*
+*Un quadrilatero convesso con raggi dell'incircolo uguali implica un rombo*
 
-> Che $ABCD$ sia un quadrilaterale convex e che $P$ sia l'intersezione delle diagonali $AC$ e $BD$. I radii degli incircoli dei triangoli $ABP$, $BCP$, $CDP$ e $DAP$ sono uguali. Provare che $ABCD$ è un rombo.
+> Sia $ABCD$ un quadrilatero convesso e sia $P$ l'intersezione delle diagonali $AC$ e $BD$. I raggi degli incircoli dei triangoli $ABP$, $BCP$, $CDP$ e $DAP$ sono uguali. Dimostrare che $ABCD$ è un rombo.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n3_f3#q01|src_obm_2014_n3_f3__Q01]]
 
 
 
@@ -54,9 +61,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Ricerca tutti gli enti n>1 in modo tale che la somma digitali divida il rimanente mod n*
+*Trovare tutti gli interi n>1 tali che la somma delle cifre divida il resto modulo n*
 
-> Trova tutti gli enti $n > 1$ con la seguente proprietà: per ogni $k$ con $0 \le k \le n$, esiste un multiple di $n$ la cui somma digitali, nella base dieci, lascia il rimanente $k$ quando diviso da $n$.
+> Trovare tutti gli interi $n > 1$ con la seguente proprietà: per ogni $k$ tale che $0 \le k \le n$, esiste un multiplo di $n$ la cui somma delle cifre, in base dieci, lascia resto $k$ alla divisione per $n$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+
+[[Quesiti/src_obm_2014_n3_f3#q02|src_obm_2014_n3_f3__Q02]]
 
 
 
@@ -81,11 +95,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Gioco combinatorio di pile di pietra: determinare il vincitore per ogni N*
+*Gioco combinatorio a mucchio di pietre: determina il vincitore per ogni N*
 
-> $N$ deve essere un numero intero superiore a 2. Arnaldo e Bernaldo giocano il seguente gioco: ci sono $N$ pietre in una pila. Nella prima mossa, fatta da Arnaldo, deve rimuovere una quantità $k$ di pietre dalla pila con $1 \le k \le N$. Quindi Bernaldo deve rimuovere una quantità di pietre dalla pila con $1 \le m \le 2k$, e così via; ogni giocatore, alternativamente, rimuove una quantità di pietre dalla pila tra $1$ e il doppio della quantità che l'avversario ha rimosso, inclusa. Il giocatore che prende l'ultima pietra vince.
-> 
-> Per ogni valore di $N$, determinare quale giocatore è garantito una vittoria indipendentemente dal modo in cui gli altri giocano e spiegare quale sia la strategia vincente per ogni caso.
+> Sia $N$ un numero intero maggiore di 2. Arnaldo e Bernaldo giocano il seguente gioco: c'è un mucchio di $N$ pietre. Al primo turno, che spetta ad Arnaldo, egli deve rimuovere dal mucchio una quantità di pietre pari a $k$, con $1 \le k \le N$. Poi Bernaldo deve rimuovere dal mucchio una certa quantità di pietre, con $1 \le m \le 2k$, e così via; ciascun giocatore, a turno, rimuove dal mucchio una quantità di pietre compresa tra $1$ e il doppio della quantità rimossa dall'avversario, estremi inclusi. Vince il giocatore che prende l'ultima pietra.
+>
+> Per ciascun valore di $N$, determina quale giocatore ha la vittoria garantita indipendentemente da come gioca l'altro, e spiega qual è la strategia vincente in ciascun caso.
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+
+[[Quesiti/src_obm_2014_n3_f3#q03|src_obm_2014_n3_f3__Q03]]
 
 
 
@@ -110,9 +131,18 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Sequenza polinomica infinita: trovare la più grande k tale che P_{2014}(x) sia divisibile da x^k*
+*Successione polinomiale infinita: trovare il più grande k tale che P_{2014}(x) sia divisibile per x^k*
 
-> Una sequenza infinita di polinomi $P_0(x), P_1(x), P_2(x), \ldots, P_n(x), \ldots$ è definita da $$P_0(x) = x \quad \text{and} \quad P_n(x) = P_{n-1}(x-1) \cdot P_{n-1}(x+1), \text{ for all } n \ge 1.$$ Determina il numero intero più grande $k$ per il quale il polinomio $P_{2014}(x)$ è un multiple di $x^k$.
+> Una successione infinita di polinomi $P_0(x), P_1(x), P_2(x), \ldots, P_n(x), \ldots$ è definita da
+> $$P_0(x) = x \quad \text{and} \quad P_n(x) = P_{n-1}(x-1) \cdot P_{n-1}(x+1), \text{ for all } n \ge 1.$$
+> Determinare il più grande intero $k$ per cui il polinomio $P_{2014}(x)$ è multiplo di $x^k$.
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2014_n3_f3#q04|src_obm_2014_n3_f3__Q04]]
 
 
 
@@ -135,9 +165,16 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*2m x 2n operazione di trombino di tavola: condizioni per igualarne tutte le voci*
+*Operazione dei tromino su una scacchiera 2m x 2n: condizioni per rendere uguali tutte le entrate*
 
-> In ogni cella di una tabella $2m \times 2n$ viene scritto un numero intero. L'operazione consentita è quella di scegliere tre celle che formano un L-tromino (cioè una cellula $C$ e altre due celle che condividono un lato con $C$, una orizzontale e una verticale) e di aggiungere $1$ al numero intero di ciascuna delle tre celle scelte. Determinare la condizione necessaria e sufficiente, in termini di $m$, $n$, e dei numeri iniziali, per rendere possibili che tutti i numeri della tabella siano uguali.
+> In ciascuna cella di una scacchiera $2m \times 2n$ è scritto un numero intero. L'operazione consentita consiste nel scegliere tre celle che formano un tromino a L (ossia una cella $C$ e altre due celle adiacenti per lato a $C$, una orizzontalmente e una verticalmente) e aggiungere $1$ al numero presente in ciascuna delle tre celle scelte. Determinare la condizione necessaria e sufficiente, in termini di $m$, $n$ e dei numeri iniziali, affinché sia possibile rendere tutti i numeri sulla scacchiera uguali.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+
+[[Quesiti/src_obm_2014_n3_f3#q05|src_obm_2014_n3_f3__Q05]]
 
 
 
@@ -160,6 +197,13 @@ level: OBM Nível 3
 <div class="qlang-split" data-lang="it"></div>
 
 
-*Incircoli mistilineari linee tangenti formano un triangolo: collinearità incentro-circumcentro*
+*Le rette tangenti agli incircoli mixtilineari formano un triangolo: collinearità tra incentro e circocentro*
 
-> Il $ABC$ deve essere un triangolo con incentro $I$ e incircolo $\omega$. Il cerchio $\omega_A$ è tangente esternamente a $\omega$ e tocca i lati $AB$ e $AC$ rispettivamente a $A_1$ e $A_2$. La linea $r_A$ deve essere $A_1 A_2$. Definire analogamente $r_B$ e $r_C$. Le linee $r_A$, $r_B$ e $r_C$ determinano un triangolo $XYZ$. Prova che l'incentro di $XYZ$, il circoncentro di $XYZ$ e $I$ sono collineari.
+> Sia $ABC$ un triangolo con incentro $I$ e cerchio inscritto $\omega$. Il cerchio $\omega_A$ è tangente esternamente a $\omega$ e tocca i lati $AB$ e $AC$ rispettivamente nei punti $A_1$ e $A_2$. Sia $r_A$ la retta $A_1 A_2$. Si definiscano $r_B$ e $r_C$ in modo analogo. Le rette $r_A$, $r_B$ e $r_C$ determinano un triangolo $XYZ$. Dimostrare che l'incentro di $XYZ$, il circocentro di $XYZ$ e $I$ sono allineati.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
+
+[[Quesiti/src_obm_2014_n3_f3#q06|src_obm_2014_n3_f3__Q06]]

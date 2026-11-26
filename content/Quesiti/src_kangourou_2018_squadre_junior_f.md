@@ -25,18 +25,22 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0041
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*7-digit numbers divisible by 4 with digit sum 4*
+*7-digit numbers divisible by 4 with a digit sum of 4*
 
-> Seven-digit numbers
-> How many seven-digit numbers are divisible by 4 and such that the sum of their digits is 4?
+> Seven-digit numbers: How many seven-digit numbers are divisible by 4 and have a digit sum of 4?
 
-**Answer:** 0041
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_junior_f#q01|src_kangourou_2018_squadre_junior_f__Q01]]
 
 
 
@@ -56,19 +60,22 @@ level: squadre
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0002
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum product ab with a^2+b^2+1007ab=2018*
+*Maximum value of ab given a^2+b^2+1007ab=2018*
 
-> The product
-> Two real numbers a, b are such that $a^2 + b^2 + 1007ab = 2018$. What is the largest possible value
-> for the product a × b ?
+> Product: Two real numbers a and b are such that $a^2 + b^2 + 1007ab = 2018$. What is the greatest possible value of a × b?
 
-**Answer:** 0002
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_squadre_junior_f#q02|src_kangourou_2018_squadre_junior_f__Q02]]
 
 
 
@@ -89,20 +96,22 @@ level: squadre
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2018
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum n with tripartition into equal sum*
+*Maximum n with tripartition of equal sum*
 
-> Tripartition
-> Given a positive integer n, we want to divide the first 3n positive integers into three groups such that the sum
-> of the numbers in each group is the same for the three groups. What is the largest integer n ≤ 2018 for which
-> we can do this?
+> Tripartition: Given a positive integer n, we want to partition the first 3n positive integers into three groups such that the sum of the numbers in each group is the same across the three groups. What is the largest integer n ≤ 2018 for which we can do this?
 
-**Answer:** 2018
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_junior_f#q03|src_kangourou_2018_squadre_junior_f__Q03]]
 
 
 
@@ -126,23 +135,22 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0610
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum N with bags (Fibonacci Euclidean Algorithm)*
+*Maximum N with bags (Euclidean Fibonacci algorithm)*
 
-> Clemente always loses
-> Clemente has N marbles and distributes them into two bags so that the number of marbles placed in the
-> first bag and the number of those placed in the second are coprime. Clemente plays cards
-> with Stefania and, when he loses a game, he must take from the bag that at that moment contains
-> more marbles (from one of the bags, if they contained the same number of marbles) the number of marbles present
-> in the other bag and hand over those taken to Stefania. After the 13th game Clemente, who has
-> always lost, finds himself with one of the two bags empty. What can N be worth, at most?
+> Clemente always loses. Clemente has N marbles and distributes them into two bags so that the number of marbles placed in the first bag and the number placed in the second bag are coprime. Clemente plays cards with Stefania, and when he loses a game, he must remove from the bag that currently contains more marbles (from one of the bags if they contain the same number of marbles) a number of marbles equal to the number of marbles in the other bag, and hand the marbles he has removed to Stefania. After the 13th game, Clemente, who has always lost, finds that one of the two bags is empty. What is the maximum possible value of N?
 
-**Answer:** 0610
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_junior_f#q04|src_kangourou_2018_squadre_junior_f__Q04]]
 
 
 
@@ -165,22 +173,22 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0315
-**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
+**Fonte:** apri PDF p.1
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum complementary number not multiple of 10*
+*Maximum number rounded up that is not a multiple of 10*
 
-> Complemented numbers
-> We say that a positive integer is complemented if (in decimal notation) it has at least two
-> digits (significant) and if it coincides with the product of the 10's complements of its digits. For example,
-> 163 is not complemented whereas 50 is, as are all numbers of the form $5\times10^k$ with
-> k > 1. It is known that there are no complemented numbers greater than 1000 and not multiples of 10. What is the
-> largest complemented number that is not a multiple of 10?
+> Complemented numbers Let us say that a positive integer is complemented if (in decimal notation) it has at least two (significant) digits and if it equals the product of the complements to 10 of its digits. For example, 163 is not complemented, whereas 50 is, as are all numbers of the form $5\times10^k$ with k > 1. It is known that there are no complemented numbers greater than 1000 and not multiples of 10. What is the largest complemented number that is not a multiple of 10?
 
-**Answer:** 0315
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_junior_f#q06|src_kangourou_2018_squadre_junior_f__Q06]]
 
 
 
@@ -199,19 +207,21 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3250
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Product of the first two numbers that are sums of two squares*
+*Product of the first two numbers, sum of two squares*
 
-> Perfect squares
-> Let M and N be the first two integers each of which can be expressed in two different ways as the sum
-> of two nonzero perfect squares. What is M × N?
+> Perfect squares Let M and N be the first two integers, each of which can be expressed in two different ways as the sum of two non-zero perfect squares. What is the value of M × N?
 
-**Answer:** 3250
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_junior_f#q07|src_kangourou_2018_squadre_junior_f__Q07]]
 
 
 
@@ -233,21 +243,22 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0036
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Largest radius of three circles tangent to a line*
+*Greater radius of three circles tangent to a straight line*
 
-> Three circles
-> Three circles have radii whose measures are expressed by integers
-> less than 100. The measure of the largest of the radii is the product of the
-> other two measures. The three circles are tangent to each other in pairs and are all
-> tangent to the same line. What is the measure of the largest of the radii?
+> Three Circles Three circles have radii whose measures are expressed by integers less than 100. The measure of the largest radius is the product of the other two measures. The three circles are pairwise tangent, and all three are tangent to the same straight line. What is the measure of the largest radius?
 
-**Answer:** 0036
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_squadre_junior_f#q08|src_kangourou_2018_squadre_junior_f__Q08]]
 
 
 
@@ -268,21 +279,21 @@ level: squadre
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0126
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*For how many seconds the train counter is running*
+*For how many seconds does the train counter run?*
 
-> The signals
-> A train travels at constant speed. For safety reasons, every 35 metres travelled the driver
-> receives a signal in the cab. Immediately after receiving a signal, the driver starts
-> a counter of the number of signals received. For how many seconds must the counter run
-> for the number of signals received to equal the speed of the train expressed in kilometres per hour?
+> Signals A train is traveling at a constant speed. For safety reasons, every 35 meters traveled, the driver receives a signal in the cab. Immediately after receiving a signal, the driver starts a counter for the number of signals received. For how many seconds must the counter run for the number of signals received to equal the train's speed expressed in kilometers per hour?
 
-**Answer:** 0126
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+[[Quesiti/src_kangourou_2018_squadre_junior_f#q09|src_kangourou_2018_squadre_junior_f__Q09]]
 
 
 
@@ -302,18 +313,22 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0977
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum first 3 digits with cascade of prime sums*
+*Massimo primo 3 cifre with a cascade of prime sums*
 
-> The prime number
-> What is the largest three-digit prime number such that the sum of its digits is a two-digit prime number, the sum of whose digits is in turn a prime number?
+> Prime number: What is the largest three-digit prime number such that the sum of its digits is a two-digit prime number whose digits, in turn, sum to a prime number?
 
-**Answer:** 0977
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_junior_f#q10|src_kangourou_2018_squadre_junior_f__Q10]]
 
 
 
@@ -332,18 +347,22 @@ level: squadre
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8228
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Four-digit palindrome with 17n perfect square*
+*4-digit palindrome whose square is a perfect square with 17n*
 
-> Palindromes
-> There is only one four-digit palindromic number n such that 17 × n is a perfect square. What is it?
+> Palindrome: There is exactly one four-digit palindromic number n such that 17 × n is a perfect square. What is it?
 
-**Answer:** 8228
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_junior_f#q11|src_kangourou_2018_squadre_junior_f__Q11]]
 
 
 
@@ -364,21 +383,21 @@ level: squadre
 **Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0022
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of intersection of two circles of the eye*
+*Area of intersection of two circles: the eye*
 
-> The eye
-> The two legs of a right triangle measure √3 and 1 meters. Consider the two circles each
-> of which has one of the legs as its diameter. How many square decimeters does the area of the intersection
-> of these two circles measure? Write the answer rounded to the nearest integer, assuming that
-> the equalities √3 = 1.73 and π = 3.14 hold exactly.
+> The eye: The two legs of a right-angled triangle measure √3 and 1 meters. Consider the two circles, each of which has one of the legs as its diameter. How many square decimeters is the area of the intersection of these two circles? Write the approximate answer rounded to the nearest whole number, assuming that the equalities √3 = 1.73 and π = 3.14 hold exactly.
 
-**Answer:** 0022
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
+
+[[Quesiti/src_kangourou_2018_squadre_junior_f#q12|src_kangourou_2018_squadre_junior_f__Q12]]
 
 
 
@@ -397,7 +416,7 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3341
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -405,10 +424,14 @@ level: squadre
 
 *Value of m^3+n^5 given m^5+n^3=7901*
 
-> Swapped powers
-> For two positive integers m and n it happens that $m^5 + n^3 = 7901$. What is the value of $m^3 + n^5$?
+> Exchanged powers: For two positive integers m and n, it happens that $m^5 + n^3 = 7901$. What is the value of $m^3 + n^5$?
 
-**Answer:** 3341
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+[[Quesiti/src_kangourou_2018_squadre_junior_f#q13|src_kangourou_2018_squadre_junior_f__Q13]]
 
 
 
@@ -434,7 +457,7 @@ level: squadre
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7301
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -442,17 +465,14 @@ level: squadre
 
 *Minimum k for infinite play on 50x50 tokens*
 
-> The tokens
-> In a 50 × 50 square grid the cells are all equal squares; two cells are said to be
-> adjacent if they share a side. On each cell some tokens are placed, possibly
-> none, and the total number of tokens present on the grid is k. The following game is played:
-> at each move one starts from a cell, if one exists, that contains a number of tokens not less than the
-> number of adjacent cells, and from this cell one token is transferred to each of the adjacent cells. The
-> game ends if there are no more cells from which to start. What is the minimum value of k that allows
-> the game to continue indefinitely, whatever the initial configuration and whatever, at
-> each move, the choice of the admissible cell from which to subtract the tokens?
+> Tokens In a 50 × 50 square grid, the cells are all identical squares; two cells are said to be adjacent if they share a side. On each cell, some tokens are placed—possibly none—and the total number of tokens on the grid is k. The following game is played: on each move, one starts from a cell, if such a cell exists, that contains at least as many tokens as it has adjacent cells, and from this cell one token is moved to each of the adjacent cells. The game ends if there are no more cells from which to start. What is the minimum value of k that allows the game to continue indefinitely, regardless of the initial configuration and regardless of the choice, at each move, of the admissible cell from which to remove tokens?
 
-**Answer:** 7301
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_junior_f#q14|src_kangourou_2018_squadre_junior_f__Q14]]
 
 
 
@@ -471,15 +491,19 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0169
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
+**Fonte:** apri PDF p.2
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Integer pairs with 2|x|+3|y|<23*
+*All pairs with 2|x|+3|y|<23*
 
-> Pairs of integers
-> For how many (ordered) pairs of integers (x,y) is 2|x| + 3|y| < 23 ?
+> Pairs of Integers For how many (ordered) pairs of integers (x, y) does 2|x| + 3|y| < 23 hold?
 
-**Answer:** 0169
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+
+[[Quesiti/src_kangourou_2018_squadre_junior_f#q15|src_kangourou_2018_squadre_junior_f__Q15]]
